@@ -1,5 +1,4 @@
-Phaeodon subsquamosus (Batsch) J. Schröt. SPECIES
-=======
+# Phaeodon subsquamosus (Batsch) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

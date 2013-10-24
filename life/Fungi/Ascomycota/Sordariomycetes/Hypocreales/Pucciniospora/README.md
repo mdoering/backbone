@@ -1,5 +1,4 @@
-Pucciniospora Speg. GENUS
-=======
+# Pucciniospora Speg. GENUS
 
 #### Status
 ACCEPTED

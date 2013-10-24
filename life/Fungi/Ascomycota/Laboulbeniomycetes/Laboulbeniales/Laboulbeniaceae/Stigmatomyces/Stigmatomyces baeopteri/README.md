@@ -1,5 +1,4 @@
-Stigmatomyces baeopteri M.B. Hughes, A. Weir & W. Rossi, 2004 SPECIES
-=======
+# Stigmatomyces baeopteri M.B. Hughes, A. Weir & W. Rossi, 2004 SPECIES
 
 #### Status
 ACCEPTED

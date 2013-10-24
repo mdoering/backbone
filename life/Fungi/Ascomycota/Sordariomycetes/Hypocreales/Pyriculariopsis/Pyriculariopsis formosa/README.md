@@ -1,5 +1,4 @@
-Pyriculariopsis formosa R. Fernández, R.F. Castañeda & Iturr. SPECIES
-=======
+# Pyriculariopsis formosa R. Fernández, R.F. Castañeda & Iturr. SPECIES
 
 #### Status
 ACCEPTED

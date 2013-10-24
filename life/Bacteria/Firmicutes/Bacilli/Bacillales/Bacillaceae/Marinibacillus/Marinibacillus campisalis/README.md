@@ -1,5 +1,4 @@
-Marinibacillus campisalis Yoon et al., 2004 SPECIES
-=======
+# Marinibacillus campisalis Yoon et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coremium flavum Rivolta SPECIES
-=======
+# Coremium flavum Rivolta SPECIES
 
 #### Status
 ACCEPTED

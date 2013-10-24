@@ -1,5 +1,4 @@
-Diplodia subterranea Ellis & Barthol. SPECIES
-=======
+# Diplodia subterranea Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

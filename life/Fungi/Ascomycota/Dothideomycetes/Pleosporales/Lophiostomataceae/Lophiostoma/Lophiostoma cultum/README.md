@@ -1,5 +1,4 @@
-Lophiostoma cultum Nitschke SPECIES
-=======
+# Lophiostoma cultum Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma zhenningense S.C. He, 1995 SPECIES
-=======
+# Ganoderma zhenningense S.C. He, 1995 SPECIES
 
 #### Status
 ACCEPTED

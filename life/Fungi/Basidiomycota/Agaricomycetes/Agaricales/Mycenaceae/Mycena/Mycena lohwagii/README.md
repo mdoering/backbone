@@ -1,5 +1,4 @@
-Mycena lohwagii Singer SPECIES
-=======
+# Mycena lohwagii Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia nivea (Anzi) Zahlbr. SPECIES
-=======
+# Buellia nivea (Anzi) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

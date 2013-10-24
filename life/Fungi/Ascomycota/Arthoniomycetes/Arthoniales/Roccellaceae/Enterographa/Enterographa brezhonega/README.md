@@ -1,5 +1,4 @@
-Enterographa brezhonega Sparrius & Aptroot SPECIES
-=======
+# Enterographa brezhonega Sparrius & Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplopyrenula aggregata Vain. SPECIES
-=======
+# Haplopyrenula aggregata Vain. SPECIES
 
 #### Status
 ACCEPTED

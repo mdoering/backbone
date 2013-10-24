@@ -1,5 +1,4 @@
-Blastenia pertenuescens (Nyl.) C.W. Dodge SPECIES
-=======
+# Blastenia pertenuescens (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrophoma cephalanthi Peck SPECIES
-=======
+# Dendrophoma cephalanthi Peck SPECIES
 
 #### Status
 ACCEPTED

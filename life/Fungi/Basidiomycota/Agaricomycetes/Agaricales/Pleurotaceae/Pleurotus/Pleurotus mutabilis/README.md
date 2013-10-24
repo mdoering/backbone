@@ -1,5 +1,4 @@
-Pleurotus mutabilis Killerm. SPECIES
-=======
+# Pleurotus mutabilis Killerm. SPECIES
 
 #### Status
 ACCEPTED

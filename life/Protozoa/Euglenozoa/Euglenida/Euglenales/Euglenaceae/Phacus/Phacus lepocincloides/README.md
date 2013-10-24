@@ -1,5 +1,4 @@
-Phacus lepocincloides Pochmann SPECIES
-=======
+# Phacus lepocincloides Pochmann SPECIES
 
 #### Status
 ACCEPTED

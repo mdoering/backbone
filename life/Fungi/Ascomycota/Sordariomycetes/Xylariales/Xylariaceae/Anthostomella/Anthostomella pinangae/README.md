@@ -1,5 +1,4 @@
-Anthostomella pinangae K.D. Hyde, 1996 SPECIES
-=======
+# Anthostomella pinangae K.D. Hyde, 1996 SPECIES
 
 #### Status
 ACCEPTED

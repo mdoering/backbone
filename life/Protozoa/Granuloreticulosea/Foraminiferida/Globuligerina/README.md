@@ -1,5 +1,4 @@
-Globuligerina Bignot & Guyader, 1971 GENUS
-=======
+# Globuligerina Bignot & Guyader, 1971 GENUS
 
 #### Status
 ACCEPTED

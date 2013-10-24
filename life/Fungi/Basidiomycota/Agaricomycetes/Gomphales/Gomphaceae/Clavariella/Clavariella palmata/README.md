@@ -1,5 +1,4 @@
-Clavariella palmata Pers. SPECIES
-=======
+# Clavariella palmata Pers. SPECIES
 
 #### Status
 ACCEPTED

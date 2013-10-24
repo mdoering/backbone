@@ -1,5 +1,4 @@
-Trametes cristobalensis Corner SPECIES
-=======
+# Trametes cristobalensis Corner SPECIES
 
 #### Status
 ACCEPTED

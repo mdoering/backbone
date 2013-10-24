@@ -1,5 +1,4 @@
-Capronia peltigerae (Fuckel) D. Hawksw. SPECIES
-=======
+# Capronia peltigerae (Fuckel) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

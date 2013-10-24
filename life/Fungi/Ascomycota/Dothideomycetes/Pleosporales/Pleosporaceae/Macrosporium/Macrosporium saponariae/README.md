@@ -1,5 +1,4 @@
-Macrosporium saponariae Peck SPECIES
-=======
+# Macrosporium saponariae Peck SPECIES
 
 #### Status
 ACCEPTED

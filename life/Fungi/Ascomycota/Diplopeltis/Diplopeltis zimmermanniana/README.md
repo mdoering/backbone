@@ -1,5 +1,4 @@
-Diplopeltis zimmermanniana Henn. SPECIES
-=======
+# Diplopeltis zimmermanniana Henn. SPECIES
 
 #### Status
 ACCEPTED

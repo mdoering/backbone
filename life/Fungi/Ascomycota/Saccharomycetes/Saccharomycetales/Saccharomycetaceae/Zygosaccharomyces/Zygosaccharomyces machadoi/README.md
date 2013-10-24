@@ -1,5 +1,4 @@
-Zygosaccharomyces machadoi C.A. Rosa & Lachance SPECIES
-=======
+# Zygosaccharomyces machadoi C.A. Rosa & Lachance SPECIES
 
 #### Status
 ACCEPTED

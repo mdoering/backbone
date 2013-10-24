@@ -1,5 +1,4 @@
-Amanita armillariiformis Trueblood & D.T. Jenkins SPECIES
-=======
+# Amanita armillariiformis Trueblood & D.T. Jenkins SPECIES
 
 #### Status
 ACCEPTED

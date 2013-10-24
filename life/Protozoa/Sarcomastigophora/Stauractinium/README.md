@@ -1,5 +1,4 @@
-Stauractinium Haeckel, 1887 GENUS
-=======
+# Stauractinium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

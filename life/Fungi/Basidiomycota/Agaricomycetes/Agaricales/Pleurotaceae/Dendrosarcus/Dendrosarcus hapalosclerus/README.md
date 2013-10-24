@@ -1,5 +1,4 @@
-Dendrosarcus hapalosclerus (Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus hapalosclerus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

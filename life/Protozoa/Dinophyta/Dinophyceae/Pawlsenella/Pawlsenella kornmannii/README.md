@@ -1,5 +1,4 @@
-Pawlsenella kornmannii Drebes & Schnepf SPECIES
-=======
+# Pawlsenella kornmannii Drebes & Schnepf SPECIES
 
 #### Status
 ACCEPTED

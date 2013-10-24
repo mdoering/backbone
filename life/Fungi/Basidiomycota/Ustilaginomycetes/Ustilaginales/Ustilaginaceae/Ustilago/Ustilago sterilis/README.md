@@ -1,5 +1,4 @@
-Ustilago sterilis (Ule) Nannf. SPECIES
-=======
+# Ustilago sterilis (Ule) Nannf. SPECIES
 
 #### Status
 ACCEPTED

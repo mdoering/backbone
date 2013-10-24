@@ -1,5 +1,4 @@
-Schistoplaca Brusse GENUS
-=======
+# Schistoplaca Brusse GENUS
 
 #### Status
 ACCEPTED

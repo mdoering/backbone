@@ -1,5 +1,4 @@
-Gloeosporium divergens Peck SPECIES
-=======
+# Gloeosporium divergens Peck SPECIES
 
 #### Status
 ACCEPTED

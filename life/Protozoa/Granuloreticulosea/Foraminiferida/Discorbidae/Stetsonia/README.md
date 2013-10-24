@@ -1,5 +1,4 @@
-Stetsonia Parker, 1954 GENUS
-=======
+# Stetsonia Parker, 1954 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia romagnoliana Maire & Sacc., 1903 SPECIES
-=======
+# Puccinia romagnoliana Maire & Sacc., 1903 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleosphaerulina cassiae Henn. SPECIES
-=======
+# Pleosphaerulina cassiae Henn. SPECIES
 
 #### Status
 ACCEPTED

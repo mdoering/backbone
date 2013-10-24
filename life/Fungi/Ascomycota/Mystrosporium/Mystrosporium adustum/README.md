@@ -1,5 +1,4 @@
-Mystrosporium adustum Massee, 1899 SPECIES
-=======
+# Mystrosporium adustum Massee, 1899 SPECIES
 
 #### Status
 ACCEPTED

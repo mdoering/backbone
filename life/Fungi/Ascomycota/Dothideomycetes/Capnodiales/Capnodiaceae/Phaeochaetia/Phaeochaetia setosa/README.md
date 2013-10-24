@@ -1,5 +1,4 @@
-Phaeochaetia setosa (Zimm.) Bat. & Cif. SPECIES
-=======
+# Phaeochaetia setosa (Zimm.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

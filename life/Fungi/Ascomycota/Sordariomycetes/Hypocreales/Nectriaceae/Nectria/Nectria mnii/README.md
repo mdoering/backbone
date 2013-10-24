@@ -1,5 +1,4 @@
-Nectria mnii Döbbeler SPECIES
-=======
+# Nectria mnii Döbbeler SPECIES
 
 #### Status
 ACCEPTED

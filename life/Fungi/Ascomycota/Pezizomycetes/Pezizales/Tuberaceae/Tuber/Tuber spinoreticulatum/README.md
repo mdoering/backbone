@@ -1,5 +1,4 @@
-Tuber spinoreticulatum Uecker & Burds. SPECIES
-=======
+# Tuber spinoreticulatum Uecker & Burds. SPECIES
 
 #### Status
 ACCEPTED

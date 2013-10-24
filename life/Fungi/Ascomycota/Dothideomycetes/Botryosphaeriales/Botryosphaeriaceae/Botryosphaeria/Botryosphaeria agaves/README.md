@@ -1,5 +1,4 @@
-Botryosphaeria agaves (Henn.) E.J. Butler SPECIES
-=======
+# Botryosphaeria agaves (Henn.) E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

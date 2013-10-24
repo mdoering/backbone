@@ -1,14 +1,13 @@
-Lecanactis chloroconia Tuck. SPECIES
-=======
+# Cresponea chloroconia (Tuck.) Egea & Torrente SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 6: 285 (1864)
+Mycotaxon 48: 310 (1993)
 
 #### Original name
 Lecanactis chloroconia Tuck.

@@ -1,5 +1,4 @@
-Hypocopra seminuda (Griffiths) Sacc. & D. Sacc. SPECIES
-=======
+# Hypocopra seminuda (Griffiths) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

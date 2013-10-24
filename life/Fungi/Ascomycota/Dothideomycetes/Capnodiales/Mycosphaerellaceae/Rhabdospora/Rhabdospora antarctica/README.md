@@ -1,5 +1,4 @@
-Rhabdospora antarctica Speg. SPECIES
-=======
+# Rhabdospora antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

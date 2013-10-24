@@ -1,5 +1,4 @@
-Erythrobacter piscidermidis Bruno & Kotelnikova, 2009 SPECIES
-=======
+# Erythrobacter piscidermidis Bruno & Kotelnikova, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyaloscolecostroma rondoniense Bat. & J. Oliveira, 1967 SPECIES
-=======
+# Hyaloscolecostroma rondoniense Bat. & J. Oliveira, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella glyphaeae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella glyphaeae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

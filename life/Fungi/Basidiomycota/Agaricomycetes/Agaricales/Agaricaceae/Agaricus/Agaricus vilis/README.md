@@ -1,5 +1,4 @@
-Agaricus vilis Fr. SPECIES
-=======
+# Agaricus vilis Fr. SPECIES
 
 #### Status
 ACCEPTED

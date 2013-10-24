@@ -1,5 +1,4 @@
-Lizoniella lagerheimii (Rehm) Sacc. & D. Sacc. SPECIES
-=======
+# Lizoniella lagerheimii (Rehm) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

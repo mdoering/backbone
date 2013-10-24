@@ -1,5 +1,4 @@
-Syringoderma japonicum N. G. Klochkova & V. F. Przhemenetskaya SPECIES
-=======
+# Syringoderma japonicum N. G. Klochkova & V. F. Przhemenetskaya SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza vitricolor Berk. & Broome SPECIES
-=======
+# Peziza vitricolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

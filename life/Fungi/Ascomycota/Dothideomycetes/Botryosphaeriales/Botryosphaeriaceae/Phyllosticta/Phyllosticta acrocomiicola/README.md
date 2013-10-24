@@ -1,5 +1,4 @@
-Phyllosticta acrocomiicola Bat. SPECIES
-=======
+# Phyllosticta acrocomiicola Bat. SPECIES
 
 #### Status
 ACCEPTED

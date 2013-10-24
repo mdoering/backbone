@@ -1,5 +1,4 @@
-Stegastrum porphyrae Reinsch SPECIES
-=======
+# Stegastrum porphyrae Reinsch SPECIES
 
 #### Status
 ACCEPTED

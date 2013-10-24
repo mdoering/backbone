@@ -1,5 +1,4 @@
-Colletotrichum agatinum (Sacc.) Petr. SPECIES
-=======
+# Colletotrichum agatinum (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora freycinetiae F. Stevens, 1925 SPECIES
-=======
+# Phyllachora freycinetiae F. Stevens, 1925 SPECIES
 
 #### Status
 ACCEPTED

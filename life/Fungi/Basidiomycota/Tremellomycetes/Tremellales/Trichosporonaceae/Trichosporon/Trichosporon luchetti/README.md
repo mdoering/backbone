@@ -1,5 +1,4 @@
-Trichosporon luchetti Redaelli & Cif. SPECIES
-=======
+# Trichosporon luchetti Redaelli & Cif. SPECIES
 
 #### Status
 ACCEPTED

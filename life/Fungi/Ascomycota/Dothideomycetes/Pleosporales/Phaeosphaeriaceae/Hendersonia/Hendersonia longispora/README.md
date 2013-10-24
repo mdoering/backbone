@@ -1,5 +1,4 @@
-Hendersonia longispora Gutner SPECIES
-=======
+# Hendersonia longispora Gutner SPECIES
 
 #### Status
 ACCEPTED

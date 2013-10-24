@@ -1,5 +1,4 @@
-Thrombium melaspermum J. Steiner SPECIES
-=======
+# Thrombium melaspermum J. Steiner SPECIES
 
 #### Status
 ACCEPTED

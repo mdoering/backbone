@@ -1,5 +1,4 @@
-Meliola austro-americana J.L. Crane & A.G. Jones SPECIES
-=======
+# Meliola austro-americana J.L. Crane & A.G. Jones SPECIES
 
 #### Status
 ACCEPTED

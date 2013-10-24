@@ -1,5 +1,4 @@
-Dermatocarpon decipiens (A. Massal.) Dalla Torre & Sarnth. SPECIES
-=======
+# Dermatocarpon decipiens (A. Massal.) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

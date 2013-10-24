@@ -1,5 +1,4 @@
-Opegrapha physciaria (Nyl.) D. Hawksw. & Coppins SPECIES
-=======
+# Opegrapha physciaria (Nyl.) D. Hawksw. & Coppins SPECIES
 
 #### Status
 ACCEPTED

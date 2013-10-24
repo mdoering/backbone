@@ -1,5 +1,4 @@
-Halobaculum Oren, Gurevich, Gemmell & Teske, 1996 GENUS
-=======
+# Halobaculum Oren, Gurevich, Gemmell & Teske, 1996 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phoma minima (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Phyllosticta minima (Berk. & M.A. Curtis) Underw. & Earle, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin of the Alabama Agricultural Experiment Station 80: 168 (1897)
 
 #### Original name
 Sphaeropsis minima Berk. & M.A. Curtis, 1879

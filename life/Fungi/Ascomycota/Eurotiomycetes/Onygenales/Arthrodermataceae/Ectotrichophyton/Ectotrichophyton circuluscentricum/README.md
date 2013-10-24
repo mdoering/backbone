@@ -1,5 +1,4 @@
-Ectotrichophyton circuluscentricum (O. Magalh.) C.W. Dodge SPECIES
-=======
+# Ectotrichophyton circuluscentricum (O. Magalh.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

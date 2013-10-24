@@ -1,5 +1,4 @@
-Cladophytum comatum Leidy SPECIES
-=======
+# Cladophytum comatum Leidy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus vaticanus R. Heim & G. Becker SPECIES
-=======
+# Hygrophorus vaticanus R. Heim & G. Becker SPECIES
 
 #### Status
 ACCEPTED

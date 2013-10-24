@@ -1,5 +1,4 @@
-Themisia Velenovský, 1939 GENUS
-=======
+# Themisia Velenovský, 1939 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Adelococcus immersus Etayo & Breuss SPECIES
-=======
+# Adelococcus immersus Etayo & Breuss SPECIES
 
 #### Status
 ACCEPTED

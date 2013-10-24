@@ -1,5 +1,4 @@
-Pterula bromeliphila Corner, 1970 SPECIES
-=======
+# Pterula bromeliphila Corner, 1970 SPECIES
 
 #### Status
 ACCEPTED

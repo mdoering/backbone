@@ -1,5 +1,4 @@
-Hermanella Norman, 1905 GENUS
-=======
+# Hermanella Norman, 1905 GENUS
 
 #### Status
 ACCEPTED

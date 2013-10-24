@@ -1,5 +1,4 @@
-Agaricus nigrita Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus nigrita Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

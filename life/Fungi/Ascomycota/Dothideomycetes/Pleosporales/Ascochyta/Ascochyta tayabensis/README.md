@@ -1,5 +1,4 @@
-Ascochyta tayabensis H.S. Yates SPECIES
-=======
+# Ascochyta tayabensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

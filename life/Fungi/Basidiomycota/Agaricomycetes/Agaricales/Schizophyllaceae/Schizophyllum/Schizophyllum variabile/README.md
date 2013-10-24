@@ -1,5 +1,4 @@
-Schizophyllum variabile Sorokin, 1890 SPECIES
-=======
+# Schizophyllum variabile Sorokin, 1890 SPECIES
 
 #### Status
 ACCEPTED

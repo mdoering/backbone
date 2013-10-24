@@ -1,5 +1,4 @@
-Diplodia saccardiana Tassi SPECIES
-=======
+# Diplodia saccardiana Tassi SPECIES
 
 #### Status
 ACCEPTED

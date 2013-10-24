@@ -1,5 +1,4 @@
-Verrucaria arboricola SPECIES
-=======
+# Verrucaria arboricola SPECIES
 
 #### Status
 ACCEPTED

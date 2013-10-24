@@ -1,5 +1,4 @@
-Boletus bakeri Tracy & Earle SPECIES
-=======
+# Boletus bakeri Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

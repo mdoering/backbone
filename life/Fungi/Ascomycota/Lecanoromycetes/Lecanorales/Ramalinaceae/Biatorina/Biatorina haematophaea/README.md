@@ -1,5 +1,4 @@
-Biatorina haematophaea Anzi SPECIES
-=======
+# Biatorina haematophaea Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomatospora salvadorina S. Ahmad SPECIES
-=======
+# Phomatospora salvadorina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

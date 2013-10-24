@@ -1,5 +1,4 @@
-Lecidea aucklandica Zahlbr. SPECIES
-=======
+# Lecidea aucklandica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

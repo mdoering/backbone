@@ -1,5 +1,4 @@
-Pontosphaera multipora (Kamptner, 1948) Roth, 1970 SPECIES
-=======
+# Pontosphaera multipora (Kamptner, 1948) Roth, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus purus Lloyd SPECIES
-=======
+# Polystictus purus Lloyd SPECIES
 
 #### Status
 ACCEPTED

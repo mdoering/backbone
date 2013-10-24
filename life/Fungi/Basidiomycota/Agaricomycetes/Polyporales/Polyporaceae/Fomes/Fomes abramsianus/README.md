@@ -1,5 +1,4 @@
-Fomes abramsianus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Fomes abramsianus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

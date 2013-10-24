@@ -1,5 +1,4 @@
-Heterothecium berteroanum (Mont.) Mont. SPECIES
-=======
+# Heterothecium berteroanum (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

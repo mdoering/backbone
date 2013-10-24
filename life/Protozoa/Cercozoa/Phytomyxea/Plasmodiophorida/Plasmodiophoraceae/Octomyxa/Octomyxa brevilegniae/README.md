@@ -1,5 +1,4 @@
-Octomyxa brevilegniae Pend., 1948 SPECIES
-=======
+# Octomyxa brevilegniae Pend., 1948 SPECIES
 
 #### Status
 ACCEPTED

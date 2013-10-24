@@ -1,5 +1,4 @@
-Tilopteris Kützing, 1849 GENUS
-=======
+# Tilopteris Kützing, 1849 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystoderma subvinaceum A.H. Sm. SPECIES
-=======
+# Cystoderma subvinaceum A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

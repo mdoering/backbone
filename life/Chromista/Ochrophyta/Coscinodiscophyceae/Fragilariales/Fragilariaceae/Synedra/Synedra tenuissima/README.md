@@ -1,5 +1,4 @@
-Synedra tenuissima (Kützing) Kützing SPECIES
-=======
+# Synedra tenuissima (Kützing) Kützing SPECIES
 
 #### Status
 ACCEPTED

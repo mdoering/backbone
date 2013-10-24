@@ -1,5 +1,4 @@
-Fromea Cookson & Eisenack, 1958 GENUS
-=======
+# Fromea Cookson & Eisenack, 1958 GENUS
 
 #### Status
 ACCEPTED

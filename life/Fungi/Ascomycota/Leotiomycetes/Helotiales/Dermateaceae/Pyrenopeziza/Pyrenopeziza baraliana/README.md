@@ -1,5 +1,4 @@
-Pyrenopeziza baraliana Gminder SPECIES
-=======
+# Pyrenopeziza baraliana Gminder SPECIES
 
 #### Status
 ACCEPTED

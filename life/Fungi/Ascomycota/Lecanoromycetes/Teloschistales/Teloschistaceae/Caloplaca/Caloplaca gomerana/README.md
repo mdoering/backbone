@@ -1,5 +1,4 @@
-Caloplaca gomerana J. Steiner SPECIES
-=======
+# Caloplaca gomerana J. Steiner SPECIES
 
 #### Status
 ACCEPTED

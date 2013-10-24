@@ -1,5 +1,4 @@
-Calosphaeria polyblasta Romell & Sacc. SPECIES
-=======
+# Calosphaeria polyblasta Romell & Sacc. SPECIES
 
 #### Status
 ACCEPTED

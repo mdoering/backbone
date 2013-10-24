@@ -1,5 +1,4 @@
-Pucciniastrum yoshinagai Hirats. f. SPECIES
-=======
+# Pucciniastrum yoshinagai Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

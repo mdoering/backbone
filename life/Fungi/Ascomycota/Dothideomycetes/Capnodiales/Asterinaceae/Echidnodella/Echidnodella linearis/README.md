@@ -1,14 +1,13 @@
-Morenoella linearis Syd. & P. Syd., 1917 SPECIES
-=======
+# Echidnodella linearis (Syd. & P. Syd.) Syd., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 15(3/4): 250 (1917)
+Annls mycol. 15(6): 422 (1918)
 
 #### Original name
 Morenoella linearis Syd. & P. Syd., 1917

@@ -1,5 +1,4 @@
-Stereocaulon haumanianum P.A. Duvign. SPECIES
-=======
+# Stereocaulon haumanianum P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

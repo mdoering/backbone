@@ -1,5 +1,4 @@
-Phormidium thwaitesii I. Umezaki & M. Watanabe SPECIES
-=======
+# Phormidium thwaitesii I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

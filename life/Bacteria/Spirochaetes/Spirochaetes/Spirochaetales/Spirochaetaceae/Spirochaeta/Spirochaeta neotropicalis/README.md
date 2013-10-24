@@ -1,5 +1,4 @@
-Spirochaeta neotropicalis SPECIES
-=======
+# Spirochaeta neotropicalis SPECIES
 
 #### Status
 ACCEPTED

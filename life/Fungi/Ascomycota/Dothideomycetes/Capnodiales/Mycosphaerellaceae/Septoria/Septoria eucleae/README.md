@@ -1,5 +1,4 @@
-Septoria eucleae Cejp SPECIES
-=======
+# Septoria eucleae Cejp SPECIES
 
 #### Status
 ACCEPTED

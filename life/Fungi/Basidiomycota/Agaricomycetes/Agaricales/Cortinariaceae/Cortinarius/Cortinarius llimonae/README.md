@@ -1,5 +1,4 @@
-Cortinarius llimonae Vila SPECIES
-=======
+# Cortinarius llimonae Vila SPECIES
 
 #### Status
 ACCEPTED

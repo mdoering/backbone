@@ -1,5 +1,4 @@
-Lentinus macgregorii P.W. Graff SPECIES
-=======
+# Lentinus macgregorii P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

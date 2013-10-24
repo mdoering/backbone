@@ -1,5 +1,4 @@
-Pertusaria krempelhuberi Müll. Arg. SPECIES
-=======
+# Pertusaria krempelhuberi Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

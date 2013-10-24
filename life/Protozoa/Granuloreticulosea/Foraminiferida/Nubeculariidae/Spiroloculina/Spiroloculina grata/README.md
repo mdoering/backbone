@@ -1,5 +1,4 @@
-Spiroloculina grata SPECIES
-=======
+# Spiroloculina grata SPECIES
 
 #### Status
 ACCEPTED

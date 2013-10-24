@@ -1,5 +1,4 @@
-Thelephora simulans (Berk. & Broome) Corner SPECIES
-=======
+# Thelephora simulans (Berk. & Broome) Corner SPECIES
 
 #### Status
 ACCEPTED

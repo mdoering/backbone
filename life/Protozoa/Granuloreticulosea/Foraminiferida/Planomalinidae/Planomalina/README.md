@@ -1,5 +1,4 @@
-Planomalina Loeblich & Tappan, 1946 GENUS
-=======
+# Planomalina Loeblich & Tappan, 1946 GENUS
 
 #### Status
 ACCEPTED

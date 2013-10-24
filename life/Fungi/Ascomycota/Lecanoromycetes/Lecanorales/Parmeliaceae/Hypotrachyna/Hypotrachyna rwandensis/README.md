@@ -1,5 +1,4 @@
-Hypotrachyna rwandensis Elix, Eb. Fischer & Killmann SPECIES
-=======
+# Hypotrachyna rwandensis Elix, Eb. Fischer & Killmann SPECIES
 
 #### Status
 ACCEPTED

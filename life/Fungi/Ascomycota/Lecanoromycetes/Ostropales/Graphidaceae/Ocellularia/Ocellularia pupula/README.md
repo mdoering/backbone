@@ -1,5 +1,4 @@
-Ocellularia pupula (Ach.) Spreng. SPECIES
-=======
+# Ocellularia pupula (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

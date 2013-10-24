@@ -1,5 +1,4 @@
-Cintractia chinensis W.Y. Yen SPECIES
-=======
+# Cintractia chinensis W.Y. Yen SPECIES
 
 #### Status
 ACCEPTED

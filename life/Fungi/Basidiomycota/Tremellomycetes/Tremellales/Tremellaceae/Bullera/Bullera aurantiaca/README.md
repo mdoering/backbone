@@ -1,5 +1,4 @@
-Bullera aurantiaca B.N. Johri & Bandoni SPECIES
-=======
+# Bullera aurantiaca B.N. Johri & Bandoni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streblonema ambivalens P. Dangeard SPECIES
-=======
+# Streblonema ambivalens P. Dangeard SPECIES
 
 #### Status
 ACCEPTED

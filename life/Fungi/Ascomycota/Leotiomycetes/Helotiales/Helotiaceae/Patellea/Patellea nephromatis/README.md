@@ -1,5 +1,4 @@
-Patellea nephromatis Speg. SPECIES
-=======
+# Patellea nephromatis Speg. SPECIES
 
 #### Status
 ACCEPTED

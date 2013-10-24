@@ -1,5 +1,4 @@
-Cortinarius paleifer Svrcek SPECIES
-=======
+# Cortinarius paleifer Svrcek SPECIES
 
 #### Status
 ACCEPTED

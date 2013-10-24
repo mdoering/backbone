@@ -1,5 +1,4 @@
-Biatora calcivora (Schaer.) Tuck. SPECIES
-=======
+# Biatora calcivora (Schaer.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

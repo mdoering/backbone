@@ -1,5 +1,4 @@
-Pertusaria parvula A.W. Archer & Elix SPECIES
-=======
+# Pertusaria parvula A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metadiplodia phoradendri var. phoradendri VARIETY
-=======
+# Metadiplodia phoradendri (Cooke) Zambett. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 70(3): 298 (1955)
 
 #### Original name
-Metadiplodia phoradendri var. phoradendri
+Diplodia phoradendri Cooke
 
 ### Remarks
 null

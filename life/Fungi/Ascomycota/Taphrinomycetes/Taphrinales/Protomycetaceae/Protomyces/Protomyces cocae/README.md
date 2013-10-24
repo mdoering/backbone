@@ -1,5 +1,4 @@
-Protomyces cocae Speg. SPECIES
-=======
+# Protomyces cocae Speg. SPECIES
 
 #### Status
 ACCEPTED

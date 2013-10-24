@@ -1,5 +1,4 @@
-Trimosina takayanagii Oki, 1989 SPECIES
-=======
+# Trimosina takayanagii Oki, 1989 SPECIES
 
 #### Status
 ACCEPTED

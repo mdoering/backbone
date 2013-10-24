@@ -1,5 +1,4 @@
-Lichenopeltella physciae Diederich SPECIES
-=======
+# Lichenopeltella physciae Diederich SPECIES
 
 #### Status
 ACCEPTED

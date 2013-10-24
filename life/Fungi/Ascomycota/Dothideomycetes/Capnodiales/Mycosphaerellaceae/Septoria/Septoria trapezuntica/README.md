@@ -1,5 +1,4 @@
-Septoria trapezuntica Bubák SPECIES
-=======
+# Septoria trapezuntica Bubák SPECIES
 
 #### Status
 ACCEPTED

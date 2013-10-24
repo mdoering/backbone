@@ -1,5 +1,4 @@
-Pseudofusarium GENUS
-=======
+# Pseudofusarium GENUS
 
 #### Status
 ACCEPTED

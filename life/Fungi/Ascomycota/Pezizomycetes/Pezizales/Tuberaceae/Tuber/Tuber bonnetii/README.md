@@ -1,5 +1,4 @@
-Tuber bonnetii Roum., 1882 SPECIES
-=======
+# Tuber bonnetii Roum., 1882 SPECIES
 
 #### Status
 ACCEPTED

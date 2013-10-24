@@ -1,5 +1,4 @@
-Anthracothecium maculatum Nagarkar & Patw. SPECIES
-=======
+# Anthracothecium maculatum Nagarkar & Patw. SPECIES
 
 #### Status
 ACCEPTED

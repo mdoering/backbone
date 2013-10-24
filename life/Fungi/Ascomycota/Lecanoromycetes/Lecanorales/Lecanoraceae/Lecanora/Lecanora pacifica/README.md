@@ -1,5 +1,4 @@
-Lecanora pacifica Tuck. SPECIES
-=======
+# Lecanora pacifica Tuck. SPECIES
 
 #### Status
 ACCEPTED

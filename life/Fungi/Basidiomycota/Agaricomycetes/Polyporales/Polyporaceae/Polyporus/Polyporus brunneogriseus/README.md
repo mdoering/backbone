@@ -1,5 +1,4 @@
-Polyporus brunneogriseus Pat. & Gaillard SPECIES
-=======
+# Polyporus brunneogriseus Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

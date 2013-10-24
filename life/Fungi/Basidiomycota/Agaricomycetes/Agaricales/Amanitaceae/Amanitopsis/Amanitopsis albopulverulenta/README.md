@@ -1,5 +1,4 @@
-Amanitopsis albopulverulenta Beeli SPECIES
-=======
+# Amanitopsis albopulverulenta Beeli SPECIES
 
 #### Status
 ACCEPTED

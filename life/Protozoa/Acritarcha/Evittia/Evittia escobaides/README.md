@@ -1,5 +1,4 @@
-Evittia escobaides (Cramer, 1964) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Evittia escobaides (Cramer, 1964) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

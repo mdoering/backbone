@@ -1,17 +1,16 @@
-Cercospora capparidicola Hansf. & Thirum. SPECIES
-=======
+# Cercospora capparicola Hansf. & Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Farlowia 3: 307 (1948)
 
 #### Original name
-Cercospora capparidicola Hansf. & Thirum.
+Cercospora capparicola Hansf. & Thirum.
 
 ### Remarks
 null

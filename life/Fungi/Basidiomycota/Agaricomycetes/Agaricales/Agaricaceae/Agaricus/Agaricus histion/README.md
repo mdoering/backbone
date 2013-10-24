@@ -1,5 +1,4 @@
-Agaricus histion Secr. SPECIES
-=======
+# Agaricus histion Secr. SPECIES
 
 #### Status
 ACCEPTED

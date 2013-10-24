@@ -1,5 +1,4 @@
-Sphaeria insidiens Sowerby SPECIES
-=======
+# Sphaeria insidiens Sowerby SPECIES
 
 #### Status
 ACCEPTED

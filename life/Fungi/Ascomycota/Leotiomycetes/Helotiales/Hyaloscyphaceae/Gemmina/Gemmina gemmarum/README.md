@@ -1,14 +1,13 @@
-Helotium gemmarum Boud., 1888 SPECIES
-=======
+# Gemmina gemmarum (Boud.) Raitv., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 4: 81 (1888)
+Scripta Mycol. , Tartu 20: 44 (2004)
 
 #### Original name
 Helotium gemmarum Boud., 1888

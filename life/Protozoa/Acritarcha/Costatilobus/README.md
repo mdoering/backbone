@@ -1,5 +1,4 @@
-Costatilobus G. Playford, 1977 GENUS
-=======
+# Costatilobus G. Playford, 1977 GENUS
 
 #### Status
 ACCEPTED

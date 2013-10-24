@@ -1,5 +1,4 @@
-Acanthosolenia F.Bernard, 1939 GENUS
-=======
+# Acanthosolenia F.Bernard, 1939 GENUS
 
 #### Status
 ACCEPTED

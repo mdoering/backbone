@@ -1,5 +1,4 @@
-Guignardia microsticta Sacc. SPECIES
-=======
+# Guignardia microsticta Sacc. SPECIES
 
 #### Status
 ACCEPTED

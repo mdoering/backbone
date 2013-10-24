@@ -1,5 +1,4 @@
-Halobacterium noricense Gruber et al., 2005 SPECIES
-=======
+# Halobacterium noricense Gruber et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

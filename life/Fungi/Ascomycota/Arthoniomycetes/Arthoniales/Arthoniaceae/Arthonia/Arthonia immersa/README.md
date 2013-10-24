@@ -1,5 +1,4 @@
-Arthonia immersa Chevall. SPECIES
-=======
+# Arthonia immersa Chevall. SPECIES
 
 #### Status
 ACCEPTED

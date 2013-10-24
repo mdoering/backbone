@@ -1,5 +1,4 @@
-Pandoraea sputorum Coenye et al., 2000 SPECIES
-=======
+# Pandoraea sputorum Coenye et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

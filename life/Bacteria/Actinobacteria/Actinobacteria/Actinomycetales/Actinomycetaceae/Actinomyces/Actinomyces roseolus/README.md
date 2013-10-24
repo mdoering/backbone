@@ -1,5 +1,4 @@
-Actinomyces roseolus Nadson SPECIES
-=======
+# Actinomyces roseolus Nadson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma sidalceae Fairm. SPECIES
-=======
+# Phoma sidalceae Fairm. SPECIES
 
 #### Status
 ACCEPTED

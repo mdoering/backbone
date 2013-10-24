@@ -1,5 +1,4 @@
-Puccinia elaeagni Yoshin. SPECIES
-=======
+# Puccinia elaeagni Yoshin. SPECIES
 
 #### Status
 ACCEPTED

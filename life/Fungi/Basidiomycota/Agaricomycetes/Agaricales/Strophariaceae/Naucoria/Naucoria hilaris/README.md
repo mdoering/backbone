@@ -1,5 +1,4 @@
-Naucoria hilaris Fr. SPECIES
-=======
+# Naucoria hilaris Fr. SPECIES
 
 #### Status
 ACCEPTED

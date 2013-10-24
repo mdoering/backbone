@@ -1,5 +1,4 @@
-Catillaria impolita D.C. Linds. SPECIES
-=======
+# Catillaria impolita D.C. Linds. SPECIES
 
 #### Status
 ACCEPTED

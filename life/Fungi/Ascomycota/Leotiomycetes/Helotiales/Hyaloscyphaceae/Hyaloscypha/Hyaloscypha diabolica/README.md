@@ -1,5 +1,4 @@
-Hyaloscypha diabolica Huhtinen SPECIES
-=======
+# Hyaloscypha diabolica Huhtinen SPECIES
 
 #### Status
 ACCEPTED

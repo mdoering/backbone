@@ -1,5 +1,4 @@
-Catocarpus GENUS
-=======
+# Catocarpus GENUS
 
 #### Status
 ACCEPTED

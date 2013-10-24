@@ -1,5 +1,4 @@
-Lecidea subtumidula Nyl. SPECIES
-=======
+# Lecidea subtumidula Nyl. SPECIES
 
 #### Status
 ACCEPTED

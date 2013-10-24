@@ -1,5 +1,4 @@
-Dictyothyriella trewiae Syd. SPECIES
-=======
+# Dictyothyriella trewiae Syd. SPECIES
 
 #### Status
 ACCEPTED

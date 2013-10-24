@@ -1,5 +1,4 @@
-Hymenoscyphus fuscopurpureus (Rehm) Dennis SPECIES
-=======
+# Hymenoscyphus fuscopurpureus (Rehm) Dennis SPECIES
 
 #### Status
 ACCEPTED

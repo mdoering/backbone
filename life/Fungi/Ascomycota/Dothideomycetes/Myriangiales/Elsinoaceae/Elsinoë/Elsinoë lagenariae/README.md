@@ -1,5 +1,4 @@
-Elsinoë lagenariae A.M.J. Watson & Jenkins SPECIES
-=======
+# Elsinoë lagenariae A.M.J. Watson & Jenkins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanocryptococcus GENUS
-=======
+# Melanocryptococcus GENUS
 
 #### Status
 ACCEPTED

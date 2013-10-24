@@ -1,5 +1,4 @@
-Boletus calyciformis Battarra SPECIES
-=======
+# Boletus calyciformis Battarra SPECIES
 
 #### Status
 ACCEPTED

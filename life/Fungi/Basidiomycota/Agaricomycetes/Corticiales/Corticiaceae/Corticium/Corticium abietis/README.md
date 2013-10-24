@@ -1,5 +1,4 @@
-Corticium abietis (Fr.) Romell SPECIES
-=======
+# Corticium abietis (Fr.) Romell SPECIES
 
 #### Status
 ACCEPTED

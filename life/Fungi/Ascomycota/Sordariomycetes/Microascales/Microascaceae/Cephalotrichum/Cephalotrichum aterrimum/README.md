@@ -1,5 +1,4 @@
-Cephalotrichum aterrimum (Rabenh.) Kuntze SPECIES
-=======
+# Cephalotrichum aterrimum (Rabenh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

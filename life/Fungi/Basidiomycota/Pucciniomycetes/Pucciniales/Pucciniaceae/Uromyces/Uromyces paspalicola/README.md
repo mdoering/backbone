@@ -1,5 +1,4 @@
-Uromyces paspalicola Arthur & Holw. SPECIES
-=======
+# Uromyces paspalicola Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus chrysanthemi Gucevic SPECIES
-=======
+# Ophiobolus chrysanthemi Gucevic SPECIES
 
 #### Status
 ACCEPTED

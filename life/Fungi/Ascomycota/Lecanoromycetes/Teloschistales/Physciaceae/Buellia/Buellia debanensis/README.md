@@ -1,5 +1,4 @@
-Buellia debanensis (Bagl.) C.W. Dodge SPECIES
-=======
+# Buellia debanensis (Bagl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

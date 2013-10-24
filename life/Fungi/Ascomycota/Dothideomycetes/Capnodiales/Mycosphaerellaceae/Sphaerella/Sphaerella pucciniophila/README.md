@@ -1,5 +1,4 @@
-Sphaerella pucciniophila Sacc. & P. Syd. SPECIES
-=======
+# Sphaerella pucciniophila Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria quassiaecola Fée SPECIES
-=======
+# Verrucaria quassiaecola Fée SPECIES
 
 #### Status
 ACCEPTED

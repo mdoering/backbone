@@ -1,5 +1,4 @@
-Spiralum J.L. Mulder GENUS
-=======
+# Spiralum J.L. Mulder GENUS
 
 #### Status
 ACCEPTED

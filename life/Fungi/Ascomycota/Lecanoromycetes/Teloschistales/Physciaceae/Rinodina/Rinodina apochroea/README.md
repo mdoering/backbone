@@ -1,5 +1,4 @@
-Rinodina apochroea (Ach.) Gray SPECIES
-=======
+# Rinodina apochroea (Ach.) Gray SPECIES
 
 #### Status
 ACCEPTED

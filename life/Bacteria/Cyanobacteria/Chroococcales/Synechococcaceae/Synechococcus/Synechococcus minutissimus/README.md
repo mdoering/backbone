@@ -1,5 +1,4 @@
-Synechococcus minutissimus Negoro SPECIES
-=======
+# Synechococcus minutissimus Negoro SPECIES
 
 #### Status
 ACCEPTED

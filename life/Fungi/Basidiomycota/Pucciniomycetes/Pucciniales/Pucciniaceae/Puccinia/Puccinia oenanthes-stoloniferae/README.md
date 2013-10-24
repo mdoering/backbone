@@ -1,5 +1,4 @@
-Puccinia oenanthes-stoloniferae S. Ito ex Tranzschel SPECIES
-=======
+# Puccinia oenanthes-stoloniferae S. Ito ex Tranzschel SPECIES
 
 #### Status
 ACCEPTED

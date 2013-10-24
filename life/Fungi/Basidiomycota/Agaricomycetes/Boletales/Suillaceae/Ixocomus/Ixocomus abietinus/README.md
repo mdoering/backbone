@@ -1,5 +1,4 @@
-Ixocomus abietinus Lj.N. Vassiljeva SPECIES
-=======
+# Ixocomus abietinus Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

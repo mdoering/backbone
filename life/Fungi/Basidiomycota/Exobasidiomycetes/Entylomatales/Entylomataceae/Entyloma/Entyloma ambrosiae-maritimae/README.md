@@ -1,5 +1,4 @@
-Entyloma ambrosiae-maritimae Rayss SPECIES
-=======
+# Entyloma ambrosiae-maritimae Rayss SPECIES
 
 #### Status
 ACCEPTED

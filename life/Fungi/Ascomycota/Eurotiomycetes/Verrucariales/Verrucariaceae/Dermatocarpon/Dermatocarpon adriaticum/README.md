@@ -1,5 +1,4 @@
-Dermatocarpon adriaticum Zahlbr. SPECIES
-=======
+# Dermatocarpon adriaticum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

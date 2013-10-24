@@ -1,5 +1,4 @@
-Nectria massei Sacc. & D. Sacc. SPECIES
-=======
+# Nectria massei Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

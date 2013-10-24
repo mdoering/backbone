@@ -1,5 +1,4 @@
-Urceolaria ocreata SPECIES
-=======
+# Urceolaria ocreata SPECIES
 
 #### Status
 ACCEPTED

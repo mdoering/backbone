@@ -1,5 +1,4 @@
-Pycnostysanus Lindau GENUS
-=======
+# Pycnostysanus Lindau GENUS
 
 #### Status
 ACCEPTED

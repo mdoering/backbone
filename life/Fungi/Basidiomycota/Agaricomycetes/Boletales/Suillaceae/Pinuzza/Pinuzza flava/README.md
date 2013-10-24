@@ -1,5 +1,4 @@
-Pinuzza flava Gray SPECIES
-=======
+# Pinuzza flava Gray SPECIES
 
 #### Status
 ACCEPTED

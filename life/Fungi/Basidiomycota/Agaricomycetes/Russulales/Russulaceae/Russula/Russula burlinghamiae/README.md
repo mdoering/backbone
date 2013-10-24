@@ -1,17 +1,16 @@
-Russula burlinghamiae f. burlinghamiae FORM
-=======
+# Russula burlinghamiae Singer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 54(1): 134 (1938)
 
 #### Original name
-null
+Russula insignis Quél., 1888
 
 ### Remarks
 null

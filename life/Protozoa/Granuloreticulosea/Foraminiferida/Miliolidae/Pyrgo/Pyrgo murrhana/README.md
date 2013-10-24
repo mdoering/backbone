@@ -1,5 +1,4 @@
-Pyrgo murrhana SPECIES
-=======
+# Pyrgo murrhana SPECIES
 
 #### Status
 ACCEPTED

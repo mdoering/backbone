@@ -1,5 +1,4 @@
-Zukalia clavispora Speg. SPECIES
-=======
+# Zukalia clavispora Speg. SPECIES
 
 #### Status
 ACCEPTED

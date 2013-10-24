@@ -1,8 +1,7 @@
-Pseudacoliomyces notarisi Cif. & Tomas. SPECIES
-=======
+# Pseudacoliomyces notarisii Cif. & Tomas. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pseudacoliomyces notarisi Cif. & Tomas.
+Pseudacoliomyces notarisii Cif. & Tomas.
 
 ### Remarks
 null

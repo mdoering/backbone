@@ -1,5 +1,4 @@
-Pustularia microspora Raithelh. SPECIES
-=======
+# Pustularia microspora Raithelh. SPECIES
 
 #### Status
 ACCEPTED

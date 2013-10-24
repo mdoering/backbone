@@ -1,5 +1,4 @@
-Lecanora teichotea Nyl. SPECIES
-=======
+# Lecanora teichotea Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerellothecium Zopf GENUS
-=======
+# Sphaerellothecium Zopf GENUS
 
 #### Status
 ACCEPTED

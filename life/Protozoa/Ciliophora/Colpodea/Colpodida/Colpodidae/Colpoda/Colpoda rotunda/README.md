@@ -1,5 +1,4 @@
-Colpoda rotunda (Foissner, 1980) Foissner, 1993 SPECIES
-=======
+# Colpoda rotunda (Foissner, 1980) Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

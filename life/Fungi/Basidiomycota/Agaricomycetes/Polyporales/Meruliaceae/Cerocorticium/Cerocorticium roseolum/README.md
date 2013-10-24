@@ -1,14 +1,13 @@
-Radulomyces roseolus Parmasto, 1968 SPECIES
-=======
+# Cerocorticium roseolum (Parmasto) Jülich & Stalpers, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. System. Corticiac. (Tartu) 222 (1968)
+Verh. K. ned. Akad. Wet. , 2 Sectie 74: 72 (1980)
 
 #### Original name
 Radulomyces roseolus Parmasto, 1968

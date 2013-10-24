@@ -1,5 +1,4 @@
-Stropharia substaudtiana Beeli SPECIES
-=======
+# Stropharia substaudtiana Beeli SPECIES
 
 #### Status
 ACCEPTED

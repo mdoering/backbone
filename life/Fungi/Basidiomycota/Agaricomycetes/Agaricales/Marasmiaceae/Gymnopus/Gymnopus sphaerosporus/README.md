@@ -1,5 +1,4 @@
-Gymnopus sphaerosporus M. Villarreal, Arenal & G. Moreno SPECIES
-=======
+# Gymnopus sphaerosporus M. Villarreal, Arenal & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

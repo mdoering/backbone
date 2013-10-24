@@ -1,5 +1,4 @@
-Pyrenopeziza ellisii Massee SPECIES
-=======
+# Pyrenopeziza ellisii Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma surculi (Fr.) Cooke SPECIES
-=======
+# Phoma surculi (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

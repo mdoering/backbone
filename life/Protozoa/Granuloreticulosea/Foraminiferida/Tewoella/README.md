@@ -1,5 +1,4 @@
-Tewoella Sun, 1979 GENUS
-=======
+# Tewoella Sun, 1979 GENUS
 
 #### Status
 ACCEPTED

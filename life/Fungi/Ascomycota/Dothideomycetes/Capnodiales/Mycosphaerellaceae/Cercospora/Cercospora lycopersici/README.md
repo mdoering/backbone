@@ -1,5 +1,4 @@
-Cercospora lycopersici M.A. Salam & P.N. Rao SPECIES
-=======
+# Cercospora lycopersici M.A. Salam & P.N. Rao SPECIES
 
 #### Status
 ACCEPTED

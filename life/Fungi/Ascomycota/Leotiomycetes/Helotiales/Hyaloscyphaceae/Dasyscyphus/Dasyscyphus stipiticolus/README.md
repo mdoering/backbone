@@ -1,8 +1,7 @@
-Dasyscypha stipiticolus (Schwein.) Sacc. SPECIES
-=======
+# Dasyscyphus stipiticolus (Schwein.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

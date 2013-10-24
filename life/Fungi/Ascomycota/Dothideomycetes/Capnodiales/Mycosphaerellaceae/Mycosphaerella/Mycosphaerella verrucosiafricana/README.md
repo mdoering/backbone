@@ -1,5 +1,4 @@
-Mycosphaerella verrucosiafricana Crous & M.J. Wingf., 2006 SPECIES
-=======
+# Mycosphaerella verrucosiafricana Crous & M.J. Wingf., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria viscariae Rostr. SPECIES
-=======
+# Septoria viscariae Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemonaria gracilis Nann.-Bremek. & Y. Yamam., 1984 SPECIES
-=======
+# Stemonaria gracilis Nann.-Bremek. & Y. Yamam., 1984 SPECIES
 
 #### Status
 ACCEPTED

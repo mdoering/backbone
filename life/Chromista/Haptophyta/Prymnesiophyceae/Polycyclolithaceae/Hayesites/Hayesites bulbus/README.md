@@ -1,5 +1,4 @@
-Hayesites bulbus Thierstein in Roth & Thierstein, 1972 SPECIES
-=======
+# Hayesites bulbus Thierstein in Roth & Thierstein, 1972 SPECIES
 
 #### Status
 ACCEPTED

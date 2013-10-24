@@ -1,5 +1,4 @@
-Agaricus nothofagorum Heinem. SPECIES
-=======
+# Agaricus nothofagorum Heinem. SPECIES
 
 #### Status
 ACCEPTED

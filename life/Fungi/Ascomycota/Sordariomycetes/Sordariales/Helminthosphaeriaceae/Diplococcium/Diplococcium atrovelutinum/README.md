@@ -1,5 +1,4 @@
-Diplococcium atrovelutinum U. Braun, Hosag. & T.K. Abraham SPECIES
-=======
+# Diplococcium atrovelutinum U. Braun, Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

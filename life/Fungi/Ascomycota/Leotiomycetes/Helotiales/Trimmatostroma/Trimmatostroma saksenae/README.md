@@ -1,17 +1,16 @@
-Trimmatostroma saksenii V.G. Rao & Varghese SPECIES
-=======
+# Trimmatostroma saksenae V.G. Rao & Varghese SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. natn. Acad. Sci. India, Sect. B, Biol. Sci. 51(3): 240 (1981)
 
 #### Original name
-Trimmatostroma saksenii V.G. Rao & Varghese
+Trimmatostroma saksenae V.G. Rao & Varghese
 
 ### Remarks
 null

@@ -1,11 +1,10 @@
-Lymantria xylina xylina Swinhoe, 1903 SUBSPECIES
-=======
+# Lymantria xylina Npv SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null

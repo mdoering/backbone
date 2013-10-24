@@ -1,5 +1,4 @@
-Eutypa micromeria (Mont.) Sacc. SPECIES
-=======
+# Eutypa micromeria (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

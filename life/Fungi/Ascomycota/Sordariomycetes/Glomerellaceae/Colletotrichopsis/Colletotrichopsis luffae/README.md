@@ -1,5 +1,4 @@
-Colletotrichopsis luffae Bat. & Silva {?} SPECIES
-=======
+# Colletotrichopsis luffae Bat. & Silva {?} SPECIES
 
 #### Status
 ACCEPTED

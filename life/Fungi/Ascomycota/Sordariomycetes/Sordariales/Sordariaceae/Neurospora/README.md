@@ -1,5 +1,4 @@
-Neurospora Shear & B.O. Dodge, 1927 GENUS
-=======
+# Neurospora Shear & B.O. Dodge, 1927 GENUS
 
 #### Status
 ACCEPTED

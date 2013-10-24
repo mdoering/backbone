@@ -1,5 +1,4 @@
-Dictyochaeta pakhalensis (S.M. Reddy & S.S. Reddy) Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Dictyochaeta pakhalensis (S.M. Reddy & S.S. Reddy) Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

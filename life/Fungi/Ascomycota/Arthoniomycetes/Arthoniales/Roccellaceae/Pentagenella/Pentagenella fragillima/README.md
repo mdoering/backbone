@@ -1,14 +1,13 @@
-Roccella fragillima (Darb.) Follmann SPECIES
-=======
+# Pentagenella fragillima Darb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Follmann, Schulz & Werner, J. Hattori bot. Lab. 85: 251 (1998)
+Ber. dt. bot. Ges. 15: 5 (1897)
 
 #### Original name
 Pentagenella fragillima Darb.

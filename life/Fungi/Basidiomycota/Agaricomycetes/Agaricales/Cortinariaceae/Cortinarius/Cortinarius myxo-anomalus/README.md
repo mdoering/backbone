@@ -1,5 +1,4 @@
-Cortinarius myxo-anomalus Kühner, 1989 SPECIES
-=======
+# Cortinarius myxo-anomalus Kühner, 1989 SPECIES
 
 #### Status
 ACCEPTED

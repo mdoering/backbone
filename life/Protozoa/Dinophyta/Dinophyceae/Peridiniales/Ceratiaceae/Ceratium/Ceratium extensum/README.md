@@ -1,11 +1,10 @@
-Ceratium biceps Kofoid, 1908 SPECIES
-=======
+# Ceratium extensum (Gourret) Cleve SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

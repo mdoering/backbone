@@ -1,5 +1,4 @@
-Ascobolus latus Penz. & Sacc. SPECIES
-=======
+# Ascobolus latus Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

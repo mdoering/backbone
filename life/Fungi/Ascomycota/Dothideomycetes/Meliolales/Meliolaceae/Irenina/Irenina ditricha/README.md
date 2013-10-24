@@ -1,5 +1,4 @@
-Irenina ditricha (Kalchbr. & Cooke) F. Stevens SPECIES
-=======
+# Irenina ditricha (Kalchbr. & Cooke) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

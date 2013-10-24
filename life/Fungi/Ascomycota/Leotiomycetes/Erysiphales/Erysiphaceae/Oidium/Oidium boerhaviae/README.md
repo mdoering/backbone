@@ -1,17 +1,16 @@
-Oidium boerhaaviae Bappamm., Hosag. & Udaiyan SPECIES
-=======
+# Oidium boerhaviae Bappamm., Hosag. & Udaiyan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+New Botanist 22: 117 (1995)
 
 #### Original name
-Oidium boerhaaviae Bappamm., Hosag. & Udaiyan
+Oidium boerhaviae Bappamm., Hosag. & Udaiyan
 
 ### Remarks
 null

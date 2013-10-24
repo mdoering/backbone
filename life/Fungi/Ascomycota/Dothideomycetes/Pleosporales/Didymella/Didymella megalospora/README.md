@@ -1,5 +1,4 @@
-Didymella megalospora (Lönnr.) H. Magn. SPECIES
-=======
+# Didymella megalospora (Lönnr.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

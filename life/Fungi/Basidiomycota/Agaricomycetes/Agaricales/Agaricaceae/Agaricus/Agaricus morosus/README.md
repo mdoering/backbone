@@ -1,5 +1,4 @@
-Agaricus morosus Jungh. SPECIES
-=======
+# Agaricus morosus Jungh. SPECIES
 
 #### Status
 ACCEPTED

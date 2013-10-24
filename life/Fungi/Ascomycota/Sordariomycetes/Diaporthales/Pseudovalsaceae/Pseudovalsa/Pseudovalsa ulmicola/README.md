@@ -1,5 +1,4 @@
-Pseudovalsa ulmicola Ellis & Everh. SPECIES
-=======
+# Pseudovalsa ulmicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

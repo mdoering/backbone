@@ -1,5 +1,4 @@
-Cladonia boivinii Vain. SPECIES
-=======
+# Cladonia boivinii Vain. SPECIES
 
 #### Status
 ACCEPTED

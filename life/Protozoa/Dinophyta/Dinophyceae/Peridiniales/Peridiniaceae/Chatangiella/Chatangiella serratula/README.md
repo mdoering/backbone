@@ -1,5 +1,4 @@
-Chatangiella serratula (Cookson & Eisenack, 1958) Lentin & Williams, 1976 SPECIES
-=======
+# Chatangiella serratula (Cookson & Eisenack, 1958) Lentin & Williams, 1976 SPECIES
 
 #### Status
 ACCEPTED

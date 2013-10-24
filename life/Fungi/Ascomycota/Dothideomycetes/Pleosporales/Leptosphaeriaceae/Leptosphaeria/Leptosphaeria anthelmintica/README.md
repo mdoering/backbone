@@ -1,5 +1,4 @@
-Leptosphaeria anthelmintica (Cooke) Sacc. SPECIES
-=======
+# Leptosphaeria anthelmintica (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

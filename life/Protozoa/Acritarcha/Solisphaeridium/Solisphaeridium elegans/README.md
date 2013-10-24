@@ -1,5 +1,4 @@
-Solisphaeridium elegans Moczydlowska, 1998 SPECIES
-=======
+# Solisphaeridium elegans Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

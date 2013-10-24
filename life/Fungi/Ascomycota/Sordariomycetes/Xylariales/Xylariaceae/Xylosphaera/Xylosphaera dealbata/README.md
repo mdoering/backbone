@@ -1,5 +1,4 @@
-Xylosphaera dealbata var. dealbata VARIETY
-=======
+# Xylosphaera dealbata (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Kew Bull. 13(1): 103 (1958)
 
 #### Original name
-Xylosphaera dealbata var. dealbata
+Xylaria dealbata Berk. & M.A. Curtis
 
 ### Remarks
 null

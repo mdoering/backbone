@@ -1,5 +1,4 @@
-Dictyocha staurodon Ehrenberg SPECIES
-=======
+# Dictyocha staurodon Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

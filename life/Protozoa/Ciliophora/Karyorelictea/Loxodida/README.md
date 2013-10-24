@@ -1,5 +1,4 @@
-Loxodida Jankowksi, 1980 ORDER
-=======
+# Loxodida Jankowksi, 1980 ORDER
 
 #### Status
 ACCEPTED

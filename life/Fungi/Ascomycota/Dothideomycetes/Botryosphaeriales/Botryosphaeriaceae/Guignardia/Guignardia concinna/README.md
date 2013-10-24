@@ -1,17 +1,16 @@
-Melanops concinna Syd., 1926 SPECIES
-=======
+# Guignardia concinna (Syd.) Aa, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 5: 49 (1973)
 
 #### Original name
-null
+Melanops concinna Syd., 1926
 
 ### Remarks
 null

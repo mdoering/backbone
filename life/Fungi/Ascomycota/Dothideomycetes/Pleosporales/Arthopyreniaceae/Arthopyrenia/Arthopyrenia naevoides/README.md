@@ -1,5 +1,4 @@
-Arthopyrenia naevoides Norman SPECIES
-=======
+# Arthopyrenia naevoides Norman SPECIES
 
 #### Status
 ACCEPTED

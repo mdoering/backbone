@@ -1,5 +1,4 @@
-Puccinia inclita Arthur SPECIES
-=======
+# Puccinia inclita Arthur SPECIES
 
 #### Status
 ACCEPTED

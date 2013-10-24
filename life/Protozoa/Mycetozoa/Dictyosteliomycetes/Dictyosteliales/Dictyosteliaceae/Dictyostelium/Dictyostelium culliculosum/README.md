@@ -1,5 +1,4 @@
-Dictyostelium culliculosum Yu Li & X.L. He, 2008 SPECIES
-=======
+# Dictyostelium culliculosum Yu Li & X.L. He, 2008 SPECIES
 
 #### Status
 ACCEPTED

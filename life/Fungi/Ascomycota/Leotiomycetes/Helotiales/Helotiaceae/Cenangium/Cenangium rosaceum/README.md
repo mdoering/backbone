@@ -1,5 +1,4 @@
-Cenangium rosaceum Rehm SPECIES
-=======
+# Cenangium rosaceum Rehm SPECIES
 
 #### Status
 ACCEPTED

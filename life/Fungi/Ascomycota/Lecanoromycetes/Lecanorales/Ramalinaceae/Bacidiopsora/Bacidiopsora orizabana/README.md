@@ -1,5 +1,4 @@
-Bacidiopsora orizabana (Vain.) Kalb SPECIES
-=======
+# Bacidiopsora orizabana (Vain.) Kalb SPECIES
 
 #### Status
 ACCEPTED

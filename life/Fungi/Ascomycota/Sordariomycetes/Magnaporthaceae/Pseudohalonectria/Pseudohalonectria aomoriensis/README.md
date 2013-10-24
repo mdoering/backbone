@@ -1,5 +1,4 @@
-Pseudohalonectria aomoriensis Yas. Ono & Tak. Kobay., 2001 SPECIES
-=======
+# Pseudohalonectria aomoriensis Yas. Ono & Tak. Kobay., 2001 SPECIES
 
 #### Status
 ACCEPTED

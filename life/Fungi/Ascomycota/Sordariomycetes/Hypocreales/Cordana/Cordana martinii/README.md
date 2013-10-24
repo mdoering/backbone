@@ -1,17 +1,16 @@
-Cordana martini Sarwar SPECIES
-=======
+# Cordana martinii Sarwar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sarwar & Parmameswaran, Indian J. Bot. 4(2): 228 (1981)
 
 #### Original name
-Cordana martini Sarwar
+Cordana martinii Sarwar
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Metasphaeria dahliae-maxonii J.F.H. Beyma SPECIES
-=======
+# Metasphaeria dahliae-maxonii J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

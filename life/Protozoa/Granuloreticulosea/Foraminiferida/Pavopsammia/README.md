@@ -1,5 +1,4 @@
-Pavopsammia Seiglie & Baker, 1983 GENUS
-=======
+# Pavopsammia Seiglie & Baker, 1983 GENUS
 
 #### Status
 ACCEPTED

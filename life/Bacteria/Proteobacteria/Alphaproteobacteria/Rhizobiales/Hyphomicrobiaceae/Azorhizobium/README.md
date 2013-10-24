@@ -1,5 +1,4 @@
-Azorhizobium Dreyfus et al., 1988 GENUS
-=======
+# Azorhizobium Dreyfus et al., 1988 GENUS
 
 #### Status
 ACCEPTED

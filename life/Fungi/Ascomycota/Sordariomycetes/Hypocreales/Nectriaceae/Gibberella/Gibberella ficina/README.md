@@ -1,5 +1,4 @@
-Gibberella ficina (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Gibberella ficina (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hydrocybe aurantia Murrill, 1911 SPECIES
-=======
+# Hygrocybe aurantia (Murrill) Natarajan & Purush., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 3(4): 195 (1911)
+Kavaka 15(1-2): 75 (1989)
 
 #### Original name
 Hydrocybe aurantia Murrill, 1911

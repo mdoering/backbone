@@ -1,5 +1,4 @@
-Stagonospora heraclei A.L. Sm. & Ramsb. SPECIES
-=======
+# Stagonospora heraclei A.L. Sm. & Ramsb. SPECIES
 
 #### Status
 ACCEPTED

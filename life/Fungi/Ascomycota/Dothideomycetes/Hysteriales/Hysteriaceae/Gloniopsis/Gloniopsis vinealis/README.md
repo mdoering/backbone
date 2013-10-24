@@ -1,5 +1,4 @@
-Gloniopsis vinealis Sacc. & Briard SPECIES
-=======
+# Gloniopsis vinealis Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

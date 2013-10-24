@@ -1,5 +1,4 @@
-Gloeosporium citri Massee SPECIES
-=======
+# Gloeosporium citri Massee SPECIES
 
 #### Status
 ACCEPTED

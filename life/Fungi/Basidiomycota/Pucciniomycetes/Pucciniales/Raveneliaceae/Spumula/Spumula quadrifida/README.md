@@ -1,5 +1,4 @@
-Spumula quadrifida Mains, 1935 SPECIES
-=======
+# Spumula quadrifida Mains, 1935 SPECIES
 
 #### Status
 ACCEPTED

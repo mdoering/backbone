@@ -1,5 +1,4 @@
-Arthopyrenia praetermissa D. C. Linds. SPECIES
-=======
+# Arthopyrenia praetermissa D. C. Linds. SPECIES
 
 #### Status
 ACCEPTED

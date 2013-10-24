@@ -1,5 +1,4 @@
-Lepiota roseolamellata Dennis SPECIES
-=======
+# Lepiota roseolamellata Dennis SPECIES
 
 #### Status
 ACCEPTED

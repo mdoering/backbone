@@ -1,5 +1,4 @@
-Morchella gigaspora Cooke SPECIES
-=======
+# Morchella gigaspora Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina moralesiae Lücking SPECIES
-=======
+# Porina moralesiae Lücking SPECIES
 
 #### Status
 ACCEPTED

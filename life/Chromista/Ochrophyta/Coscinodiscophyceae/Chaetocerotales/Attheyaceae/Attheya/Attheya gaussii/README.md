@@ -1,5 +1,4 @@
-Attheya gaussii (Heiden) R. M. Crawford SPECIES
-=======
+# Attheya gaussii (Heiden) R. M. Crawford SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vizella pycnanthi Sivan. SPECIES
-=======
+# Vizella pycnanthi Sivan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella maculicola (Schwein.) Sacc. SPECIES
-=======
+# Lachnella maculicola (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

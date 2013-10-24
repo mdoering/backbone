@@ -1,5 +1,4 @@
-Phyllachora medellinensis (Chardón) Petr., 1940 SPECIES
-=======
+# Phyllachora medellinensis (Chardón) Petr., 1940 SPECIES
 
 #### Status
 DOUBTFUL

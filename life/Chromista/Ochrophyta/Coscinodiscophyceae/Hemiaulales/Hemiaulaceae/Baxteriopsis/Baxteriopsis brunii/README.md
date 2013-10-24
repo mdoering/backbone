@@ -1,5 +1,4 @@
-Baxteriopsis brunii (Van Heurck) G. Karsten SPECIES
-=======
+# Baxteriopsis brunii (Van Heurck) G. Karsten SPECIES
 
 #### Status
 ACCEPTED

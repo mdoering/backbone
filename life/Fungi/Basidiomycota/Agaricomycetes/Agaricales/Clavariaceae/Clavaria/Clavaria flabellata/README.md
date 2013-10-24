@@ -1,5 +1,4 @@
-Clavaria flabellata Wakef. SPECIES
-=======
+# Clavaria flabellata Wakef. SPECIES
 
 #### Status
 ACCEPTED

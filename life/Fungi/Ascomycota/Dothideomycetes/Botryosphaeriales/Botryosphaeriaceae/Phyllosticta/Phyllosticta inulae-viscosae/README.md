@@ -1,5 +1,4 @@
-Phyllosticta inulae-viscosae Petr. SPECIES
-=======
+# Phyllosticta inulae-viscosae Petr. SPECIES
 
 #### Status
 ACCEPTED

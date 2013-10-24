@@ -1,5 +1,4 @@
-Puccinia melanocephala Syd. & P. Syd., 1907 SPECIES
-=======
+# Puccinia melanocephala Syd. & P. Syd., 1907 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces nattrassii Cummins SPECIES
-=======
+# Uromyces nattrassii Cummins SPECIES
 
 #### Status
 ACCEPTED

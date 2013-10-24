@@ -1,5 +1,4 @@
-Opegrapha conglomerata Fée SPECIES
-=======
+# Opegrapha conglomerata Fée SPECIES
 
 #### Status
 ACCEPTED

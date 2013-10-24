@@ -1,5 +1,4 @@
-Challengeria Murray, 1876 GENUS
-=======
+# Challengeria Murray, 1876 GENUS
 
 #### Status
 ACCEPTED

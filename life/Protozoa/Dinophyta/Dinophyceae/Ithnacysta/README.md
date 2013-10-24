@@ -1,5 +1,4 @@
-Ithnacysta Slimani, 1994 GENUS
-=======
+# Ithnacysta Slimani, 1994 GENUS
 
 #### Status
 ACCEPTED

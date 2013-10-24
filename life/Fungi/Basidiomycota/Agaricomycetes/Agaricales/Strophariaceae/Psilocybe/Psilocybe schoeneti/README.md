@@ -1,5 +1,4 @@
-Psilocybe schoeneti Bresinsky SPECIES
-=======
+# Psilocybe schoeneti Bresinsky SPECIES
 
 #### Status
 ACCEPTED

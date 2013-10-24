@@ -1,5 +1,4 @@
-Mycosphaerella sibirica (Thüm.) Johanson SPECIES
-=======
+# Mycosphaerella sibirica (Thüm.) Johanson SPECIES
 
 #### Status
 ACCEPTED

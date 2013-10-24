@@ -1,17 +1,16 @@
-Odontia crustosa subsp. crustosa SUBSPECIES
-=======
+# Odontia crustosa SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Observ. mycol. (Lipsiae) 2: 16 (1800)
+null
 
 #### Original name
-Odontia crustosa subsp. crustosa
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Irenopsis eriolaenae Hosag. SPECIES
-=======
+# Irenopsis eriolaenae Hosag. SPECIES
 
 #### Status
 ACCEPTED

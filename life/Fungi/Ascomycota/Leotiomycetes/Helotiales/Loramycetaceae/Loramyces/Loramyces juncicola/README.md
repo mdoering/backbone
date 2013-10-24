@@ -1,5 +1,4 @@
-Loramyces juncicola W. Weston, 1929 SPECIES
-=======
+# Loramyces juncicola W. Weston, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Repetobasidium mirificum var. conicum Oberw., 1965 VARIETY
-=======
+# Repetobasidium conicum (Oberw.) J. Erikss. & Hjortstam, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 19(1-3): 61 (1965)
+in Eriksson, Hjortstam & Ryvarden, Cortic. N. Eur. (Oslo) 6: 1255 (1981)
 
 #### Original name
 Repetobasidium mirificum var. conicum Oberw., 1965

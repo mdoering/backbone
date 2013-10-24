@@ -1,5 +1,4 @@
-Lecanora coudercii (Choisy) Zahlbr. SPECIES
-=======
+# Lecanora coudercii (Choisy) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

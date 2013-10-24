@@ -1,17 +1,16 @@
-Physarum aurantiacum var. rufipes Alb. & Schwein. VARIETY
-=======
+# Physarum aurantiacum Shuang L. Chen, Yu Li & H.Z. Li, 1999 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycosystema 18(4): 343 (1999)
 
 #### Original name
-Physarum aurantiacum var. rufipes Alb. & Schwein.
+Physarum aurantiacum Shuang L. Chen, Yu Li & H.Z. Li, 1999
 
 ### Remarks
 null

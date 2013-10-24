@@ -1,5 +1,4 @@
-Stigonematales Geitler, 1925 ORDER
-=======
+# Stigonematales Geitler, 1925 ORDER
 
 #### Status
 ACCEPTED

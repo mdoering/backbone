@@ -1,14 +1,13 @@
-Patellaria domingensis var. coralloidea Müll. Arg. VARIETY
-=======
+# Letrouitia coralloidea (Müll. Arg.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 65: 488 (1882)
+Nova Hedwigia 35(4): 671 (1983)
 
 #### Original name
 Patellaria domingensis var. coralloidea Müll. Arg.

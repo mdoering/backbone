@@ -1,5 +1,4 @@
-Mycosphaerella smilacicola (Schwein.) Overh. SPECIES
-=======
+# Mycosphaerella smilacicola (Schwein.) Overh. SPECIES
 
 #### Status
 ACCEPTED

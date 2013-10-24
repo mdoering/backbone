@@ -1,5 +1,4 @@
-Hypholoma modestum Peck SPECIES
-=======
+# Hypholoma modestum Peck SPECIES
 
 #### Status
 ACCEPTED

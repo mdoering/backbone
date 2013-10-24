@@ -1,5 +1,4 @@
-Boletus bovinus var. bovinus VARIETY
-=======
+# Boletus bovinus Rostk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus bovinus var. bovinus
+Boletus bovinus Rostk.
 
 ### Remarks
 null

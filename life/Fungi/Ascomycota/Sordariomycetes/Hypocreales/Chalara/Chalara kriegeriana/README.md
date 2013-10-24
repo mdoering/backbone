@@ -1,5 +1,4 @@
-Chalara kriegeriana Bres. SPECIES
-=======
+# Chalara kriegeriana Bres. SPECIES
 
 #### Status
 ACCEPTED

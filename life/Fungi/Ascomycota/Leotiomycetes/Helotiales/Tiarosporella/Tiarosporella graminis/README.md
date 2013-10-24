@@ -1,5 +1,4 @@
-Tiarosporella graminis var. karoo B. Sutton & Marasas, 1976 VARIETY
-=======
+# Tiarosporella graminis (Piroz. & Shoemaker) Nag Raj, 1974 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 67(1): 73 (1976)
+null
 
 #### Original name
-Tiarosporella graminis var. karoo B. Sutton & Marasas, 1976
+null
 
 ### Remarks
 null

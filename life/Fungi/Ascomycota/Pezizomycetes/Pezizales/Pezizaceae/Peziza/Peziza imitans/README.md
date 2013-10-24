@@ -1,5 +1,4 @@
-Peziza imitans P. Karst. SPECIES
-=======
+# Peziza imitans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

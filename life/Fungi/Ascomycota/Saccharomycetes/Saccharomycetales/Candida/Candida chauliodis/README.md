@@ -1,5 +1,4 @@
-Candida chauliodis N.H. Nguyen, S.O. Suh & M. Blackw., 2008 SPECIES
-=======
+# Candida chauliodis N.H. Nguyen, S.O. Suh & M. Blackw., 2008 SPECIES
 
 #### Status
 ACCEPTED

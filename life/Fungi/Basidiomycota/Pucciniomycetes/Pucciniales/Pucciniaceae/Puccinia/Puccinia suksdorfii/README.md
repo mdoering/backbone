@@ -1,5 +1,4 @@
-Puccinia suksdorfii Ellis & Everh. SPECIES
-=======
+# Puccinia suksdorfii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

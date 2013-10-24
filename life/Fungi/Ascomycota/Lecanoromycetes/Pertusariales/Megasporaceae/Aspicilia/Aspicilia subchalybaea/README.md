@@ -1,5 +1,4 @@
-Aspicilia subchalybaea Motyka SPECIES
-=======
+# Aspicilia subchalybaea Motyka SPECIES
 
 #### Status
 ACCEPTED

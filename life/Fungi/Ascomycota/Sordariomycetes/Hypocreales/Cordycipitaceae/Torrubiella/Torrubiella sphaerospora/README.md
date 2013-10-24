@@ -1,5 +1,4 @@
-Torrubiella sphaerospora Samson, Reenen & H.C. Evans, 1989 SPECIES
-=======
+# Torrubiella sphaerospora Samson, Reenen & H.C. Evans, 1989 SPECIES
 
 #### Status
 ACCEPTED

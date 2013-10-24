@@ -1,5 +1,4 @@
-Entoloma squamodiscum Hesler SPECIES
-=======
+# Entoloma squamodiscum Hesler SPECIES
 
 #### Status
 ACCEPTED

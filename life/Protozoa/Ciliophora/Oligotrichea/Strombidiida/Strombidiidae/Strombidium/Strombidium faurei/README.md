@@ -1,5 +1,4 @@
-Strombidium faurei Dragesco, 1960 SPECIES
-=======
+# Strombidium faurei Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

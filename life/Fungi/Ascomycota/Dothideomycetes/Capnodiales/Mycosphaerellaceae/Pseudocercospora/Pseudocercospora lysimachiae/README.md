@@ -1,5 +1,4 @@
-Pseudocercospora lysimachiae (Ellis & Halst.) Deighton SPECIES
-=======
+# Pseudocercospora lysimachiae (Ellis & Halst.) Deighton SPECIES
 
 #### Status
 ACCEPTED

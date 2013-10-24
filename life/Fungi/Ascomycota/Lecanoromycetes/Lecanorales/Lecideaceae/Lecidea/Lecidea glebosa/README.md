@@ -1,5 +1,4 @@
-Lecidea glebosa Ach. SPECIES
-=======
+# Lecidea glebosa Ach. SPECIES
 
 #### Status
 ACCEPTED

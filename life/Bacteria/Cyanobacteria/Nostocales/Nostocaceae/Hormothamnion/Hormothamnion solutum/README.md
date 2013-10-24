@@ -1,5 +1,4 @@
-Hormothamnion solutum Bornet & Grunow SPECIES
-=======
+# Hormothamnion solutum Bornet & Grunow SPECIES
 
 #### Status
 ACCEPTED

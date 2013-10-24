@@ -1,5 +1,4 @@
-Triposolenia exilis Kofoid, 1906 SPECIES
-=======
+# Triposolenia exilis Kofoid, 1906 SPECIES
 
 #### Status
 ACCEPTED

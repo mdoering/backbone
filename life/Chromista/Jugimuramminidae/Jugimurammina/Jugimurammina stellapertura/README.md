@@ -1,5 +1,4 @@
-Jugimurammina stellapertura Zheng & Fu, 2001 SPECIES
-=======
+# Jugimurammina stellapertura Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

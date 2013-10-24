@@ -1,5 +1,4 @@
-Lycoperdon mixtecorum R. Heim SPECIES
-=======
+# Lycoperdon mixtecorum R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Panaeolus semiovatus f. semiovatus FORM
-=======
+# Panaeolus semiovatus (Sowerby) S. Lundell & Nannf., 1938 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Exsiccati Suecici 11-12: 14 (no. 537) (1938)
+null
 
 #### Original name
-Panaeolus semiovatus f. semiovatus
+null
 
 ### Remarks
 null

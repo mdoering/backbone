@@ -1,5 +1,4 @@
-Aposphaeria musarum Speg. SPECIES
-=======
+# Aposphaeria musarum Speg. SPECIES
 
 #### Status
 ACCEPTED

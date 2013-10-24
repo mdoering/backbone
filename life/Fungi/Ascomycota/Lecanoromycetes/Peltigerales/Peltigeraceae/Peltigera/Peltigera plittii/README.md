@@ -1,5 +1,4 @@
-Peltigera plittii f. plittii FORM
-=======
+# Peltigera plittii Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltigera plittii f. plittii
+Peltigera plittii Gyeln.
 
 ### Remarks
 null

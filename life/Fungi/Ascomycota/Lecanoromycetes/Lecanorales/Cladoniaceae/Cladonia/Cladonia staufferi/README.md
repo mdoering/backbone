@@ -1,5 +1,4 @@
-Cladonia staufferi Abbayes SPECIES
-=======
+# Cladonia staufferi Abbayes SPECIES
 
 #### Status
 ACCEPTED

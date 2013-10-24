@@ -1,5 +1,4 @@
-Gomphidius septentrionalis Singer SPECIES
-=======
+# Gomphidius septentrionalis Singer SPECIES
 
 #### Status
 ACCEPTED

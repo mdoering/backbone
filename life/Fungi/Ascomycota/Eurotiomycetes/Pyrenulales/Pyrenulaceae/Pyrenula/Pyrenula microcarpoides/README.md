@@ -1,14 +1,13 @@
-Collema microcarpoides (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Pyrenula microcarpoides Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 3: 41 (1924)
+Rep. Meetings Australs. Assoc. Advancem. Sci. 457 (1895)
 
 #### Original name
 Pyrenula microcarpoides Müll. Arg.

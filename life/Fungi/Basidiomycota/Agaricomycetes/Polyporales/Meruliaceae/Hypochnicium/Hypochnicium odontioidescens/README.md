@@ -1,5 +1,4 @@
-Hypochnicium odontioidescens Boidin & Gilles SPECIES
-=======
+# Hypochnicium odontioidescens Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favososphaeridium variabile Cloud & Germs, 1971 SPECIES
-=======
+# Favososphaeridium variabile Cloud & Germs, 1971 SPECIES
 
 #### Status
 ACCEPTED

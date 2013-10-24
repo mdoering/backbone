@@ -1,5 +1,4 @@
-Glonium chusqueae Speg. SPECIES
-=======
+# Glonium chusqueae Speg. SPECIES
 
 #### Status
 ACCEPTED

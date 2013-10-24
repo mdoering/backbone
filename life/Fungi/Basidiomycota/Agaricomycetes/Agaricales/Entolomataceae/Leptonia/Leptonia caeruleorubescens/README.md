@@ -1,5 +1,4 @@
-Leptonia caeruleorubescens (Hesler) Largent SPECIES
-=======
+# Leptonia caeruleorubescens (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastobotrys nivea Klopotek, 1967 SPECIES
-=======
+# Blastobotrys nivea Klopotek, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia macrorhynchi Rabenh. SPECIES
-=======
+# Puccinia macrorhynchi Rabenh. SPECIES
 
 #### Status
 ACCEPTED

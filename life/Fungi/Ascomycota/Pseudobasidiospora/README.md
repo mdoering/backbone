@@ -1,5 +1,4 @@
-Pseudobasidiospora Dyko & B. Sutton GENUS
-=======
+# Pseudobasidiospora Dyko & B. Sutton GENUS
 
 #### Status
 ACCEPTED

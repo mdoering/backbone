@@ -1,5 +1,4 @@
-Parmelia pernambucana Kurok. SPECIES
-=======
+# Parmelia pernambucana Kurok. SPECIES
 
 #### Status
 ACCEPTED

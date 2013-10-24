@@ -1,5 +1,4 @@
-Aspicilia valpellinensis f. valpellinensis FORM
-=======
+# Aspicilia valpellinensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia valpellinensis f. valpellinensis
+Aspicilia valpellinensis B. de Lesd.
 
 ### Remarks
 null

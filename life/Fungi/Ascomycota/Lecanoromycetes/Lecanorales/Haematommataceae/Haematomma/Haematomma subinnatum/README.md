@@ -1,5 +1,4 @@
-Haematomma subinnatum (Malme) Kalb & Staiger SPECIES
-=======
+# Haematomma subinnatum (Malme) Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED

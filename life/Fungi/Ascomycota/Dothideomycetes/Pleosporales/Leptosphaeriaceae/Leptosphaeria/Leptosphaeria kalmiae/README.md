@@ -1,5 +1,4 @@
-Leptosphaeria kalmiae Peck SPECIES
-=======
+# Leptosphaeria kalmiae Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aegerita fragilis Preuss SPECIES
-=======
+# Aegerita fragilis Preuss SPECIES
 
 #### Status
 ACCEPTED

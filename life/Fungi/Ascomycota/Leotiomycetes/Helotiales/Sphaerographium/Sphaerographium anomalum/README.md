@@ -1,5 +1,4 @@
-Sphaerographium anomalum Sousa da Câmara & A.T. Vasconc. SPECIES
-=======
+# Sphaerographium anomalum Sousa da Câmara & A.T. Vasconc. SPECIES
 
 #### Status
 ACCEPTED

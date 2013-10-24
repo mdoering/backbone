@@ -1,5 +1,4 @@
-Simocybe praeandina (Singer) Singer SPECIES
-=======
+# Simocybe praeandina (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

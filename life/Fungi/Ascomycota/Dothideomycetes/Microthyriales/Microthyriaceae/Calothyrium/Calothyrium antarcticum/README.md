@@ -1,8 +1,7 @@
-Calothyrium antarticum (Speg.) F. Stevens SPECIES
-=======
+# Calothyrium antarcticum (Speg.) F. Stevens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

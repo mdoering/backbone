@@ -1,8 +1,7 @@
-Passalora krascheninnikovii Miura SPECIES
-=======
+# Passalora krascheninikoviae Miura SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Passalora krascheninnikovii Miura
+Passalora krascheninikoviae Miura
 
 ### Remarks
 null

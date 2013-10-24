@@ -1,5 +1,4 @@
-Hendersonulina colchicae (Pass.) Tassi SPECIES
-=======
+# Hendersonulina colchicae (Pass.) Tassi SPECIES
 
 #### Status
 ACCEPTED

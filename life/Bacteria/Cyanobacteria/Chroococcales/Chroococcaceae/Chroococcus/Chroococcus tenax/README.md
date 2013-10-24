@@ -1,5 +1,4 @@
-Chroococcus tenax var. boeticus P. González VARIETY
-=======
+# Chroococcus tenax (Kirchner) Hieronymus SPECIES
 
 #### Status
 ACCEPTED

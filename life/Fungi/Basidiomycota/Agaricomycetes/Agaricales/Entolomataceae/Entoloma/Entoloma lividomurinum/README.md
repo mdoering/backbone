@@ -1,5 +1,4 @@
-Entoloma lividomurinum Hesler SPECIES
-=======
+# Entoloma lividomurinum Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora basitrichum Sacc. SPECIES
-=======
+# Cytospora basitrichum Sacc. SPECIES
 
 #### Status
 ACCEPTED

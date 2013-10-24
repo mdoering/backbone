@@ -1,5 +1,4 @@
-Hendersonia castaneae (C. Massal.) Kuntze SPECIES
-=======
+# Hendersonia castaneae (C. Massal.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

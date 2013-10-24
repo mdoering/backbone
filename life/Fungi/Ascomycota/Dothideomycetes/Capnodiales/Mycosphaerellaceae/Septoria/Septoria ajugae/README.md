@@ -1,5 +1,4 @@
-Septoria ajugae Bondartsev SPECIES
-=======
+# Septoria ajugae Bondartsev SPECIES
 
 #### Status
 ACCEPTED

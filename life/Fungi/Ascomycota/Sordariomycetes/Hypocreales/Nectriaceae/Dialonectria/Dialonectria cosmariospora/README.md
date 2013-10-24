@@ -1,5 +1,4 @@
-Dialonectria cosmariospora (Ces. & De Not.) Cooke SPECIES
-=======
+# Dialonectria cosmariospora (Ces. & De Not.) Cooke SPECIES
 
 #### Status
 ACCEPTED

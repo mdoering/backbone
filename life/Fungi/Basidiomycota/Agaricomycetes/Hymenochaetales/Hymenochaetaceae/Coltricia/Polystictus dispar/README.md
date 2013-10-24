@@ -1,5 +1,4 @@
-Polystictus dispar (Kalchbr.) Sacc. SPECIES
-=======
+# Polystictus dispar (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

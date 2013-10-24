@@ -1,5 +1,4 @@
-Boletus substrictus Bolton SPECIES
-=======
+# Boletus substrictus Bolton SPECIES
 
 #### Status
 ACCEPTED

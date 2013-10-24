@@ -1,5 +1,4 @@
-Sclerotium ignotum Viégas SPECIES
-=======
+# Sclerotium ignotum Viégas SPECIES
 
 #### Status
 ACCEPTED

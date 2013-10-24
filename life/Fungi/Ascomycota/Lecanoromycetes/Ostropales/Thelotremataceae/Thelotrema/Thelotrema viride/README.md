@@ -1,5 +1,4 @@
-Thelotrema viride Eschw. SPECIES
-=======
+# Thelotrema viride Eschw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leohumicola N.L. Nickers. GENUS
-=======
+# Leohumicola N.L. Nickers. GENUS
 
 #### Status
 ACCEPTED

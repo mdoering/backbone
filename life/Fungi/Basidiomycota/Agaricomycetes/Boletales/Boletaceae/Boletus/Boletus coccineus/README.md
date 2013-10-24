@@ -1,5 +1,4 @@
-Boletus coccineus Fr. SPECIES
-=======
+# Boletus coccineus Fr. SPECIES
 
 #### Status
 ACCEPTED

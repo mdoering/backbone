@@ -1,5 +1,4 @@
-Hemispeiridae König, 1894 FAMILY
-=======
+# Hemispeiridae König, 1894 FAMILY
 
 #### Status
 ACCEPTED

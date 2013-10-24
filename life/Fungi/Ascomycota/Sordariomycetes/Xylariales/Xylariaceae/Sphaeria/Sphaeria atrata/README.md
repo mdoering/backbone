@@ -1,5 +1,4 @@
-Sphaeria atrata Desm. SPECIES
-=======
+# Sphaeria atrata Desm. SPECIES
 
 #### Status
 ACCEPTED

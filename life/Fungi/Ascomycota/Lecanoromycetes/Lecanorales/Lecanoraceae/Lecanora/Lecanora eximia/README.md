@@ -1,5 +1,4 @@
-Lecanora eximia (Hue) Zahlbr. SPECIES
-=======
+# Lecanora eximia (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

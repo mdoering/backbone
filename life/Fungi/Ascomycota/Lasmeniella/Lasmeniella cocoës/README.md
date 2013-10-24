@@ -1,17 +1,16 @@
-Coniothyrium cocois Henn. SPECIES
-=======
+# Lasmeniella cocoës (Henn.) Petr. & Syd., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Repert. Spec. Nov. Regni Veg. Beih. 42(1): 312 (1927)
 
 #### Original name
-Coniothyrium cocois Henn.
+Coniothyrium cocoës Henn., 1904
 
 ### Remarks
 null

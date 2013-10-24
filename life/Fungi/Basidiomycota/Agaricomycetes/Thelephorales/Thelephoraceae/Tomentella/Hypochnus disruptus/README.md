@@ -1,5 +1,4 @@
-Hypochnus disruptus Rick SPECIES
-=======
+# Hypochnus disruptus Rick SPECIES
 
 #### Status
 ACCEPTED

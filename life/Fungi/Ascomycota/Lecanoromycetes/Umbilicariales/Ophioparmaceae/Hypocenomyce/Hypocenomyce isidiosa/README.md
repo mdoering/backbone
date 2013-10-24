@@ -1,5 +1,4 @@
-Hypocenomyce isidiosa Elix SPECIES
-=======
+# Hypocenomyce isidiosa Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonula fructigena f. fructigena FORM
-=======
+# Hendersonula fructigena SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonula fructigena f. fructigena
+Hendersonula fructigena
 
 ### Remarks
 null

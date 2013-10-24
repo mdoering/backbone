@@ -1,5 +1,4 @@
-Cercospora macroguttata G.F. Atk. SPECIES
-=======
+# Cercospora macroguttata G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

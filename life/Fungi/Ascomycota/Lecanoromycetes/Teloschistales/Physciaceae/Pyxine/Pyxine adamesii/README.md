@@ -1,5 +1,4 @@
-Pyxine adamesii C.W. Dodge SPECIES
-=======
+# Pyxine adamesii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

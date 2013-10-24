@@ -1,5 +1,4 @@
-Peziza recurva Berk. SPECIES
-=======
+# Peziza recurva Berk. SPECIES
 
 #### Status
 ACCEPTED

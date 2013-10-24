@@ -1,5 +1,4 @@
-Sporidesmium leonense M.B. Ellis SPECIES
-=======
+# Sporidesmium leonense M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

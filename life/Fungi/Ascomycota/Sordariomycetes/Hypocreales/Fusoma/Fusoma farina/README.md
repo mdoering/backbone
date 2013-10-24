@@ -1,5 +1,4 @@
-Fusoma farina (Schwein.) Sacc. SPECIES
-=======
+# Fusoma farina (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

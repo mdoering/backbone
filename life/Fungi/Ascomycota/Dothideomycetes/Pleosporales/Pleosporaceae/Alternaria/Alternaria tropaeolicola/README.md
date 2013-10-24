@@ -1,5 +1,4 @@
-Alternaria tropaeolicola T.Y. Zhang SPECIES
-=======
+# Alternaria tropaeolicola T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

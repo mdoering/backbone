@@ -1,5 +1,4 @@
-Septoria falx Berk. & M.A. Curtis SPECIES
-=======
+# Septoria falx Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

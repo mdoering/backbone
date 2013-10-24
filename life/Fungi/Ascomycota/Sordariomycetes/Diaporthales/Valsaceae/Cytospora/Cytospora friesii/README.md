@@ -1,17 +1,16 @@
-Cytospora friesii f. friesii FORM
-=======
+# Cytospora friesii Sacc. SPECIES
 
 #### Status
-ACCEPTED
+DOUBTFUL
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Cytospora friesii Sacc.
 
 ### Remarks
 null

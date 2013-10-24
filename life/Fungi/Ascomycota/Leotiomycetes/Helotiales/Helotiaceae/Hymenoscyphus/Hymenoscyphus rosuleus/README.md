@@ -1,5 +1,4 @@
-Hymenoscyphus rosuleus (Quél.) Kuntze SPECIES
-=======
+# Hymenoscyphus rosuleus (Quél.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

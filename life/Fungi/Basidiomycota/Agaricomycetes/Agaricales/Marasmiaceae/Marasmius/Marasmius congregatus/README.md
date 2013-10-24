@@ -1,5 +1,4 @@
-Marasmius congregatus Mont. SPECIES
-=======
+# Marasmius congregatus Mont. SPECIES
 
 #### Status
 ACCEPTED

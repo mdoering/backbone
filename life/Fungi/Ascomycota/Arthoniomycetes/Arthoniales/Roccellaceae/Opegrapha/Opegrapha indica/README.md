@@ -1,5 +1,4 @@
-Opegrapha indica (Räsänen) Upreti & Ajay Singh SPECIES
-=======
+# Opegrapha indica (Räsänen) Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

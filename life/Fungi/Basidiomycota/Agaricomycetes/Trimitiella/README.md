@@ -1,5 +1,4 @@
-Trimitiella Dhingra GENUS
-=======
+# Trimitiella Dhingra GENUS
 
 #### Status
 ACCEPTED

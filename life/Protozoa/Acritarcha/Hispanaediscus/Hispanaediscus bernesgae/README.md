@@ -1,5 +1,4 @@
-Hispanaediscus bernesgae Cramer, 1966 SPECIES
-=======
+# Hispanaediscus bernesgae Cramer, 1966 SPECIES
 
 #### Status
 ACCEPTED

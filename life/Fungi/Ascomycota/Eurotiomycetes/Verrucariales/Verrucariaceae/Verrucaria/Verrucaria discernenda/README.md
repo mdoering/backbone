@@ -1,5 +1,4 @@
-Verrucaria discernenda Zschacke SPECIES
-=======
+# Verrucaria discernenda Zschacke SPECIES
 
 #### Status
 ACCEPTED

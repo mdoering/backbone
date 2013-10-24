@@ -1,5 +1,4 @@
-Hexagonia pallida J. Schröt. SPECIES
-=======
+# Hexagonia pallida J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

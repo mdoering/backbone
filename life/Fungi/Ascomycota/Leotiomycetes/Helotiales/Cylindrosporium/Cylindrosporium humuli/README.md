@@ -1,5 +1,4 @@
-Cylindrosporium humuli Ellis & Everh. SPECIES
-=======
+# Cylindrosporium humuli Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

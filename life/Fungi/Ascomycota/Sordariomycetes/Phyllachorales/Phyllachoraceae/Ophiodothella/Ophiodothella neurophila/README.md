@@ -1,17 +1,16 @@
-Ophiodothella neurophilia Syd. SPECIES
-=======
+# Ophiodothella neurophila Syd., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 29: 212 (1931)
 
 #### Original name
-Ophiodothella neurophilia Syd.
+Ophiodothella neurophila Syd., 1931
 
 ### Remarks
 null

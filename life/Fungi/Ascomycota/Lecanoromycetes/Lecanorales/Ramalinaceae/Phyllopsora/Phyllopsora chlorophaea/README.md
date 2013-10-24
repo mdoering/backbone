@@ -1,5 +1,4 @@
-Phyllopsora chlorophaea (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Phyllopsora chlorophaea (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

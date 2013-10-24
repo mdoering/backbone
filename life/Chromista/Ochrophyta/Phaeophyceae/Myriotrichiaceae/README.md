@@ -1,5 +1,4 @@
-Myriotrichiaceae FAMILY
-=======
+# Myriotrichiaceae FAMILY
 
 #### Status
 ACCEPTED

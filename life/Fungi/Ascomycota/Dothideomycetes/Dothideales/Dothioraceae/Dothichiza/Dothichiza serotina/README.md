@@ -1,5 +1,4 @@
-Dothichiza serotina G.F. Atk. SPECIES
-=======
+# Dothichiza serotina G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endoconidiophora bunae Kitaj. SPECIES
-=======
+# Endoconidiophora bunae Kitaj. SPECIES
 
 #### Status
 ACCEPTED

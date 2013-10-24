@@ -1,5 +1,4 @@
-Tintinnopsis sinuata Brandt, 1896 SPECIES
-=======
+# Tintinnopsis sinuata Brandt, 1896 SPECIES
 
 #### Status
 ACCEPTED

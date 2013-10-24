@@ -1,5 +1,4 @@
-Tyromyces amyloideus Corner SPECIES
-=======
+# Tyromyces amyloideus Corner SPECIES
 
 #### Status
 ACCEPTED

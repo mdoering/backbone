@@ -1,5 +1,4 @@
-Lecidea paracarpa Nyl. SPECIES
-=======
+# Lecidea paracarpa Nyl. SPECIES
 
 #### Status
 ACCEPTED

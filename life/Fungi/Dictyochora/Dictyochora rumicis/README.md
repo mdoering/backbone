@@ -1,5 +1,4 @@
-Dictyochora rumicis (P. Karst.) Theiss. & Syd. SPECIES
-=======
+# Dictyochora rumicis (P. Karst.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

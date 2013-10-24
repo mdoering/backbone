@@ -1,5 +1,4 @@
-Maurodothella dothideoides (Ellis & Everh.) G. Arnaud SPECIES
-=======
+# Maurodothella dothideoides (Ellis & Everh.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

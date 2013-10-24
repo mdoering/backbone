@@ -1,14 +1,13 @@
-Gigaspora tricalypta R.A. Herrera & Ferrer, 1981 SPECIES
-=======
+# Scutellospora tricalypta (R.A. Herrera & Ferrer) C. Walker & F.E. Sanders, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Ferrer & Herrera, Revta Jardín bot. Nac. , Univ. Habana 1(1): 49 (1981)
+Mycotaxon 27: 180 (1986)
 
 #### Original name
 Gigaspora tricalypta R.A. Herrera & Ferrer, 1981

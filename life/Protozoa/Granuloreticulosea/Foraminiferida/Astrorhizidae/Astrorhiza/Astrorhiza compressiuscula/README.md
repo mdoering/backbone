@@ -1,5 +1,4 @@
-Astrorhiza compressiuscula Chapman, 1924 SPECIES
-=======
+# Astrorhiza compressiuscula Chapman, 1924 SPECIES
 
 #### Status
 ACCEPTED

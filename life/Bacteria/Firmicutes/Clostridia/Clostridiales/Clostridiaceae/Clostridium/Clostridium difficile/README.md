@@ -1,5 +1,4 @@
-Clostridium difficile (Hall and O'Toole, 1935) Prévot, 1938 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium difficile (Hall and O'Toole, 1935) Prévot, 1938 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

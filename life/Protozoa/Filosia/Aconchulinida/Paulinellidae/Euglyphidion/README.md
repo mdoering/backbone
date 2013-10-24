@@ -1,5 +1,4 @@
-Euglyphidion Bonnet, 1960 GENUS
-=======
+# Euglyphidion Bonnet, 1960 GENUS
 
 #### Status
 ACCEPTED

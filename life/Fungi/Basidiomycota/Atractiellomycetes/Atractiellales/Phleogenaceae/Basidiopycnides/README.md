@@ -1,5 +1,4 @@
-Basidiopycnides J. Reid, Eyjólfsd. & Georg Hausner GENUS
-=======
+# Basidiopycnides J. Reid, Eyjólfsd. & Georg Hausner GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora nitida H. Magn. SPECIES
-=======
+# Acarospora nitida H. Magn. SPECIES
 
 #### Status
 ACCEPTED

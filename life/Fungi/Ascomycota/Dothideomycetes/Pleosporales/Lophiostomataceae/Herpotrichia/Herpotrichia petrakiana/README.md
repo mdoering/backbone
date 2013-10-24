@@ -1,5 +1,4 @@
-Herpotrichia petrakiana S.K. Bose SPECIES
-=======
+# Herpotrichia petrakiana S.K. Bose SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus filholi Fourcade {?} SPECIES
-=======
+# Coprinus filholi Fourcade {?} SPECIES
 
 #### Status
 ACCEPTED

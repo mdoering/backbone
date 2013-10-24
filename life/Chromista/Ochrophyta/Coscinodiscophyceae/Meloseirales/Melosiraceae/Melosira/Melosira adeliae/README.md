@@ -1,5 +1,4 @@
-Melosira adeliae Manguin, 1957 SPECIES
-=======
+# Melosira adeliae Manguin, 1957 SPECIES
 
 #### Status
 ACCEPTED

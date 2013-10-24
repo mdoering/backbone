@@ -1,5 +1,4 @@
-Lactarius roseolus Verbeken SPECIES
-=======
+# Lactarius roseolus Verbeken SPECIES
 
 #### Status
 ACCEPTED

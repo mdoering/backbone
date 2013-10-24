@@ -1,5 +1,4 @@
-Ophiobolus landoltii E. Müll. SPECIES
-=======
+# Ophiobolus landoltii E. Müll. SPECIES
 
 #### Status
 ACCEPTED

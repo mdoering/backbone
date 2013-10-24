@@ -1,5 +1,4 @@
-Mycena ludoviciana Murrill SPECIES
-=======
+# Mycena ludoviciana Murrill SPECIES
 
 #### Status
 ACCEPTED

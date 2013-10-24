@@ -1,5 +1,4 @@
-Micropsalliota subarginea Heinem. SPECIES
-=======
+# Micropsalliota subarginea Heinem. SPECIES
 
 #### Status
 ACCEPTED

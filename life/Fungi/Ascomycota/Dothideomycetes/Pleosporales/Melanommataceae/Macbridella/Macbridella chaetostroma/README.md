@@ -1,5 +1,4 @@
-Macbridella chaetostroma (Ellis & T. Macbr.) Seaver SPECIES
-=======
+# Macbridella chaetostroma (Ellis & T. Macbr.) Seaver SPECIES
 
 #### Status
 ACCEPTED

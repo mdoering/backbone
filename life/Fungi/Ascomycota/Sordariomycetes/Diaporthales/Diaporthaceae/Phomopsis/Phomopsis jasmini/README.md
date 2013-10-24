@@ -1,5 +1,4 @@
-Phomopsis jasmini (Cooke) Petr. SPECIES
-=======
+# Phomopsis jasmini (Cooke) Petr. SPECIES
 
 #### Status
 ACCEPTED

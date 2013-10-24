@@ -1,5 +1,4 @@
-Aspergillus ferrugineus Fuckel SPECIES
-=======
+# Aspergillus ferrugineus Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sonderia mira Kahl, 1930 SPECIES
-=======
+# Sonderia mira Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

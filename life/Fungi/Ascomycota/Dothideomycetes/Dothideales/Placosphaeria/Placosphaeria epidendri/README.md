@@ -1,5 +1,4 @@
-Placosphaeria epidendri Tassi SPECIES
-=======
+# Placosphaeria epidendri Tassi SPECIES
 
 #### Status
 ACCEPTED

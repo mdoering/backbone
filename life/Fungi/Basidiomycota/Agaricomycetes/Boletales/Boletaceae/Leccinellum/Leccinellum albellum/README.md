@@ -1,17 +1,16 @@
-Boletus albellus var. albellus VARIETY
-=======
+# Leccinellum albellum (Peck) Bresinsky & Manfr. Binder, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 41: 77 (1888)
+in Bresinsky & Besl, Regensb. Mykol. Schr. 11: 232 (2003)
 
 #### Original name
-Boletus albellus var. albellus
+Boletus albellus Peck, 1888
 
 ### Remarks
 null

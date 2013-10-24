@@ -1,5 +1,4 @@
-Russula basifurcata Peck SPECIES
-=======
+# Russula basifurcata Peck SPECIES
 
 #### Status
 ACCEPTED

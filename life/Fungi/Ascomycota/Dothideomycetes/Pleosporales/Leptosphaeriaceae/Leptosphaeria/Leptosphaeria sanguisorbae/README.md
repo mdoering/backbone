@@ -1,5 +1,4 @@
-Leptosphaeria sanguisorbae P. Karst. SPECIES
-=======
+# Leptosphaeria sanguisorbae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

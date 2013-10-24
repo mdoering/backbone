@@ -1,5 +1,4 @@
-Volvariella brumalis S.C. He SPECIES
-=======
+# Volvariella brumalis S.C. He SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hollandella Page, 1982 GENUS
-=======
+# Hollandella Page, 1982 GENUS
 
 #### Status
 ACCEPTED

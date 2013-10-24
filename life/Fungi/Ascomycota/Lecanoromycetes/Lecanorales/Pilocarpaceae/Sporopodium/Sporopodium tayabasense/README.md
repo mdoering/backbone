@@ -1,5 +1,4 @@
-Sporopodium tayabasense var. tayabasense VARIETY
-=======
+# Sporopodium tayabasense SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15: 96 (1921)
+null
 
 #### Original name
-Sporopodium tayabasense var. tayabasense
+null
 
 ### Remarks
 null

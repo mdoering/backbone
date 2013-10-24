@@ -1,5 +1,4 @@
-Cryptophiale pandanicola Dulym., P.M. Kirk & Peerally SPECIES
-=======
+# Cryptophiale pandanicola Dulym., P.M. Kirk & Peerally SPECIES
 
 #### Status
 ACCEPTED

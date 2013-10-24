@@ -1,5 +1,4 @@
-Scyphosphaera antilleana Boudreaux & Hay, 1969 SPECIES
-=======
+# Scyphosphaera antilleana Boudreaux & Hay, 1969 SPECIES
 
 #### Status
 ACCEPTED

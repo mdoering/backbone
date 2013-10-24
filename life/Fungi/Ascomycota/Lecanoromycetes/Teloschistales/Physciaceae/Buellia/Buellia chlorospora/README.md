@@ -1,5 +1,4 @@
-Buellia chlorospora SPECIES
-=======
+# Buellia chlorospora SPECIES
 
 #### Status
 ACCEPTED

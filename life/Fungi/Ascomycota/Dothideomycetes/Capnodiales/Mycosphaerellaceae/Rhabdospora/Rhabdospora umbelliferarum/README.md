@@ -1,5 +1,4 @@
-Rhabdospora umbelliferarum Tracy & Earle SPECIES
-=======
+# Rhabdospora umbelliferarum Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

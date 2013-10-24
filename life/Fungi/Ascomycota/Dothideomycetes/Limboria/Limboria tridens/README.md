@@ -1,5 +1,4 @@
-Limboria tridens Eschw. SPECIES
-=======
+# Limboria tridens Eschw. SPECIES
 
 #### Status
 ACCEPTED

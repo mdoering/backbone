@@ -1,5 +1,4 @@
-Auxarthron chlamydosporum M. Solé, Cano & Guarro, 2002 SPECIES
-=======
+# Auxarthron chlamydosporum M. Solé, Cano & Guarro, 2002 SPECIES
 
 #### Status
 ACCEPTED

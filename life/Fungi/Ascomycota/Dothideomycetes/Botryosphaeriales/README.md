@@ -1,5 +1,4 @@
-Botryosphaeriales C.L. Schoch, Crous & Shoemaker ORDER
-=======
+# Botryosphaeriales C.L. Schoch, Crous & Shoemaker ORDER
 
 #### Status
 ACCEPTED

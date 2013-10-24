@@ -1,5 +1,4 @@
-Pandora kondoiensis (Milner) Humber, 1989 SPECIES
-=======
+# Pandora kondoiensis (Milner) Humber, 1989 SPECIES
 
 #### Status
 ACCEPTED

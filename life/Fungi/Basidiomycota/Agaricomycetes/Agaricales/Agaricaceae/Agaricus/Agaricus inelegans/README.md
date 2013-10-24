@@ -1,5 +1,4 @@
-Agaricus inelegans Lasch SPECIES
-=======
+# Agaricus inelegans Lasch SPECIES
 
 #### Status
 ACCEPTED

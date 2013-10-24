@@ -1,5 +1,4 @@
-Morganella Zeller, 1948 GENUS
-=======
+# Morganella Zeller, 1948 GENUS
 
 #### Status
 ACCEPTED

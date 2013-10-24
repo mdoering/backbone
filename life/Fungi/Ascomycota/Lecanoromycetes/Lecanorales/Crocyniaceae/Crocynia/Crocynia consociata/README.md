@@ -1,5 +1,4 @@
-Crocynia consociata Hue SPECIES
-=======
+# Crocynia consociata Hue SPECIES
 
 #### Status
 ACCEPTED

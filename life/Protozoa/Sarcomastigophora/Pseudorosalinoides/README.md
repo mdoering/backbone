@@ -1,5 +1,4 @@
-Pseudorosalinoides McCulloch, 1977 GENUS
-=======
+# Pseudorosalinoides McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

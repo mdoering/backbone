@@ -1,5 +1,4 @@
-Ophiosphaeria GENUS
-=======
+# Ophiosphaeria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linotexis tympani-malleus Deighton SPECIES
-=======
+# Linotexis tympani-malleus Deighton SPECIES
 
 #### Status
 ACCEPTED

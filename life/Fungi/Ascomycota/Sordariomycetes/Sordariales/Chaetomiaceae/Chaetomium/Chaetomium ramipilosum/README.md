@@ -1,5 +1,4 @@
-Chaetomium ramipilosum Schaumann, 1973 SPECIES
-=======
+# Chaetomium ramipilosum Schaumann, 1973 SPECIES
 
 #### Status
 ACCEPTED

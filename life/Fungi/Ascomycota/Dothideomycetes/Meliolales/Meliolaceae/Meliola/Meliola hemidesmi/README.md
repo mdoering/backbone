@@ -1,17 +1,16 @@
-Meliola hemidesmae Kamal & B.K. Gupta SPECIES
-=======
+# Meliola hemidesmi Kamal & B.K. Gupta SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 16(3): 245 (1987)
 
 #### Original name
-Meliola hemidesmae Kamal & B.K. Gupta
+Meliola hemidesmi Kamal & B.K. Gupta
 
 ### Remarks
 null

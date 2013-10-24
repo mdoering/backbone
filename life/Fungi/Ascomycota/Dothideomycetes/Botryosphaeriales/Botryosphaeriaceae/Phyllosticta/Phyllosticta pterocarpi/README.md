@@ -1,5 +1,4 @@
-Phyllosticta pterocarpi Sawada SPECIES
-=======
+# Phyllosticta pterocarpi Sawada SPECIES
 
 #### Status
 ACCEPTED

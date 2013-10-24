@@ -1,5 +1,4 @@
-Hypogymnia australica Elix SPECIES
-=======
+# Hypogymnia australica Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vaginata farinacea (Sacc.) Kuntze SPECIES
-=======
+# Vaginata farinacea (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrella plana Syd. SPECIES
-=======
+# Hypocrella plana Syd. SPECIES
 
 #### Status
 ACCEPTED

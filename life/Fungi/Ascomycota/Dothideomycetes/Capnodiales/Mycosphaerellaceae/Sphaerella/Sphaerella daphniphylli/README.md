@@ -1,5 +1,4 @@
-Sphaerella daphniphylli Syd. & Hara SPECIES
-=======
+# Sphaerella daphniphylli Syd. & Hara SPECIES
 
 #### Status
 ACCEPTED

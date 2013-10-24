@@ -1,5 +1,4 @@
-Leptophoma paeoniae Höhn. SPECIES
-=======
+# Leptophoma paeoniae Höhn. SPECIES
 
 #### Status
 ACCEPTED

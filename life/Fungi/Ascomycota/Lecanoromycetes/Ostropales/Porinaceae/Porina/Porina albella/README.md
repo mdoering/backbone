@@ -1,5 +1,4 @@
-Porina albella Müll. Arg. SPECIES
-=======
+# Porina albella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

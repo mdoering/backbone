@@ -1,5 +1,4 @@
-Sphaerophorus globiferus var. globiferus VARIETY
-=======
+# Sphaerophorus globiferus Tuck. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerophorus globiferus var. globiferus
+Sphaerophorus globiferus Tuck.
 
 ### Remarks
 null

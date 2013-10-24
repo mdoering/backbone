@@ -1,5 +1,4 @@
-Porina pallescens R. Sant. SPECIES
-=======
+# Porina pallescens R. Sant. SPECIES
 
 #### Status
 ACCEPTED

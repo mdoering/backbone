@@ -1,5 +1,4 @@
-Puccinia grumixamae Rangel SPECIES
-=======
+# Puccinia grumixamae Rangel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massariosphaeria megaspora Kaz. Tanaka & Y. Harada, 2004 SPECIES
-=======
+# Massariosphaeria megaspora Kaz. Tanaka & Y. Harada, 2004 SPECIES
 
 #### Status
 ACCEPTED

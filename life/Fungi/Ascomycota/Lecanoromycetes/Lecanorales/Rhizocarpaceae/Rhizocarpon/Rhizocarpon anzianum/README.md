@@ -1,5 +1,4 @@
-Rhizocarpon anzianum Räsänen SPECIES
-=======
+# Rhizocarpon anzianum Räsänen SPECIES
 
 #### Status
 ACCEPTED

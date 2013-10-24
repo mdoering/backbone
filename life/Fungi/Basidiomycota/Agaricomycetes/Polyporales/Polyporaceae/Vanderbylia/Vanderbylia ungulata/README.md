@@ -1,5 +1,4 @@
-Vanderbylia ungulata D.A. Reid, 1973 SPECIES
-=======
+# Vanderbylia ungulata D.A. Reid, 1973 SPECIES
 
 #### Status
 ACCEPTED

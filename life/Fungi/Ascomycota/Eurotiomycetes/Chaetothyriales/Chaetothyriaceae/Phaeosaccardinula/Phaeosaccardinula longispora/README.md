@@ -1,5 +1,4 @@
-Phaeosaccardinula longispora W. Yamam. SPECIES
-=======
+# Phaeosaccardinula longispora W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

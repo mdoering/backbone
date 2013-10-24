@@ -1,14 +1,13 @@
-Proerythropsis Greuet, 1973 GENUS
-=======
+# Proterythropsis Kofoid & Swezy, 1920 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. Univ. Calif. , 5, 474.
 
 #### Original name
 null

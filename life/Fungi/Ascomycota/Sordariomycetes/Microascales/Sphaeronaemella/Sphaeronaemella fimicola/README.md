@@ -1,17 +1,16 @@
-Sphaeronaemella fimicola var. fimicola VARIETY
-=======
+# Sphaeronaemella fimicola Marchal, 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Sphaeronaemella fimicola var. fimicola
+null
 
 ### Remarks
 null

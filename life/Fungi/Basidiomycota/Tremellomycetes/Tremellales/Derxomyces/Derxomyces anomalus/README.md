@@ -1,14 +1,13 @@
-Derxomyces anomala (F.Y. Bai, M. Takash. & Nakase) F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Derxomyces anomalus (F.Y. Bai, M. Takash. & Nakase) F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Wang & Bai, FEMS Yeast Res. 8(5): 804 (2008)
 
 #### Original name
 Bullera anomala F.Y. Bai, M. Takash. & Nakase

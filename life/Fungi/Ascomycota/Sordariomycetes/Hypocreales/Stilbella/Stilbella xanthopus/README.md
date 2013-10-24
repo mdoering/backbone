@@ -1,5 +1,4 @@
-Stilbella xanthopus (Rabenh.) Lindau SPECIES
-=======
+# Stilbella xanthopus (Rabenh.) Lindau SPECIES
 
 #### Status
 ACCEPTED

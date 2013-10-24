@@ -1,5 +1,4 @@
-Achroomyces henricii P. Roberts, 1997 SPECIES
-=======
+# Achroomyces henricii P. Roberts, 1997 SPECIES
 
 #### Status
 ACCEPTED

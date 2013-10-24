@@ -1,5 +1,4 @@
-Lecidella hansatica (Stizenb.) Körb. SPECIES
-=======
+# Lecidella hansatica (Stizenb.) Körb. SPECIES
 
 #### Status
 ACCEPTED

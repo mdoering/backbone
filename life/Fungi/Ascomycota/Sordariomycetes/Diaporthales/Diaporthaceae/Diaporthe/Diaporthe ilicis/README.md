@@ -1,14 +1,13 @@
-Metasphaeria ilicis Ellis & Everh., 1893 SPECIES
-=======
+# Diaporthe ilicis (Ellis & Everh.) Wehm., 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Erythea 1: 145 (1893)
+Monograph of the Genus Diaporthe Nitschke & its Segregates 164 (1933)
 
 #### Original name
 Metasphaeria ilicis Ellis & Everh., 1893

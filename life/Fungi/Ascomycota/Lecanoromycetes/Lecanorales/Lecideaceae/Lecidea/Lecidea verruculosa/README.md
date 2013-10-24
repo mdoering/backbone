@@ -1,5 +1,4 @@
-Lecidea verruculosa SPECIES
-=======
+# Lecidea verruculosa SPECIES
 
 #### Status
 ACCEPTED

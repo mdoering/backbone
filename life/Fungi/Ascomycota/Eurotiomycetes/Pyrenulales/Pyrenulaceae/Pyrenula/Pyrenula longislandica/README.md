@@ -1,5 +1,4 @@
-Pyrenula longislandica Ajay Singh & Upreti SPECIES
-=======
+# Pyrenula longislandica Ajay Singh & Upreti SPECIES
 
 #### Status
 ACCEPTED

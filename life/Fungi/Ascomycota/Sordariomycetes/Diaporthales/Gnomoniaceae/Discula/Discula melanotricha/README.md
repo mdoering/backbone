@@ -1,5 +1,4 @@
-Discula melanotricha (Castagne) Petr. SPECIES
-=======
+# Discula melanotricha (Castagne) Petr. SPECIES
 
 #### Status
 ACCEPTED

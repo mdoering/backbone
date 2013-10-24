@@ -1,5 +1,4 @@
-Aposphaeria mori (Mont.) Sacc. SPECIES
-=======
+# Aposphaeria mori (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

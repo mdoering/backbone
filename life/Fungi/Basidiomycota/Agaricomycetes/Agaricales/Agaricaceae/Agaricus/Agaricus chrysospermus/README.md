@@ -1,5 +1,4 @@
-Agaricus chrysospermus Schumach. SPECIES
-=======
+# Agaricus chrysospermus Schumach. SPECIES
 
 #### Status
 ACCEPTED

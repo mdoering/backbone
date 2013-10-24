@@ -1,5 +1,4 @@
-Septoria tripteridis Cejp SPECIES
-=======
+# Septoria tripteridis Cejp SPECIES
 
 #### Status
 ACCEPTED

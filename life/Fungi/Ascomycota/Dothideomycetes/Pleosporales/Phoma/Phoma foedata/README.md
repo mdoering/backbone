@@ -1,5 +1,4 @@
-Phoma foedata (Lév.) Sacc. SPECIES
-=======
+# Phoma foedata (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bapalmuia verrucosa Sérus. & Lücking SPECIES
-=======
+# Bapalmuia verrucosa Sérus. & Lücking SPECIES
 
 #### Status
 ACCEPTED

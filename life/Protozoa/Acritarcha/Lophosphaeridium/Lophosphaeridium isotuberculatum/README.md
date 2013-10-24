@@ -1,5 +1,4 @@
-Lophosphaeridium isotuberculatum N. Umnova, 1975 SPECIES
-=======
+# Lophosphaeridium isotuberculatum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

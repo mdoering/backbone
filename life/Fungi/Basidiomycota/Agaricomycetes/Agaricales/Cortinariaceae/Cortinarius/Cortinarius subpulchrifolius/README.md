@@ -1,5 +1,4 @@
-Cortinarius subpulchrifolius Kauffman SPECIES
-=======
+# Cortinarius subpulchrifolius Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cladonia calycantha var. calycantha VARIETY
-=======
+# Cladonia calycantha Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syn. meth. lich. 1(2): 192 (1860)
 
 #### Original name
-Cladonia calycantha var. calycantha
+Cladonia calycantha Nyl.
 
 ### Remarks
 null

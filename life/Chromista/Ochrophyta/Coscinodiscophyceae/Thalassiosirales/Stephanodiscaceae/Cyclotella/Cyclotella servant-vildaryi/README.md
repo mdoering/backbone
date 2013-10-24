@@ -1,5 +1,4 @@
-Cyclotella servant-vildaryi var. elegans V.V. Mukhina VARIETY
-=======
+# Cyclotella servant-vildaryi V. V. Mukhina SPECIES
 
 #### Status
 ACCEPTED

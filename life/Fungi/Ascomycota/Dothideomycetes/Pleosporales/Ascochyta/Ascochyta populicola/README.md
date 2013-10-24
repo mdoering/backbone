@@ -1,5 +1,4 @@
-Ascochyta populicola Kabát & Bubák SPECIES
-=======
+# Ascochyta populicola Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

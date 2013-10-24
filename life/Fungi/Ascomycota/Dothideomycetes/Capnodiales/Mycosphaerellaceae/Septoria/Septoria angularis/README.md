@@ -1,5 +1,4 @@
-Septoria angularis Dearn. & Barthol., 1916 SPECIES
-=======
+# Septoria angularis Dearn. & Barthol., 1916 SPECIES
 
 #### Status
 ACCEPTED

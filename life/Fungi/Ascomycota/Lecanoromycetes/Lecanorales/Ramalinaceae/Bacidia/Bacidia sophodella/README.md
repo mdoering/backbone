@@ -1,5 +1,4 @@
-Bacidia sophodella (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia sophodella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus caernuloviridis F. Brig. SPECIES
-=======
+# Agaricus caernuloviridis F. Brig. SPECIES
 
 #### Status
 ACCEPTED

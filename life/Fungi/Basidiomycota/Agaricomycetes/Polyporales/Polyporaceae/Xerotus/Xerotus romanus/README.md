@@ -1,5 +1,4 @@
-Xerotus romanus Fr. SPECIES
-=======
+# Xerotus romanus Fr. SPECIES
 
 #### Status
 ACCEPTED

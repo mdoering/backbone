@@ -1,5 +1,4 @@
-Phaeoacremonium W. Gams, Crous & M.J. Wingfield, 1996 GENUS
-=======
+# Phaeoacremonium W. Gams, Crous & M.J. Wingfield, 1996 GENUS
 
 #### Status
 ACCEPTED

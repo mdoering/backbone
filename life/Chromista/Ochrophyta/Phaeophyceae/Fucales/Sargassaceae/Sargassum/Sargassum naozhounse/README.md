@@ -1,5 +1,4 @@
-Sargassum naozhounse C.K.Tseng & Lu SPECIES
-=======
+# Sargassum naozhounse C.K.Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

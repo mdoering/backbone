@@ -1,5 +1,4 @@
-Julella macrospora Döbbeler SPECIES
-=======
+# Julella macrospora Döbbeler SPECIES
 
 #### Status
 ACCEPTED

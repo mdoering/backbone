@@ -1,5 +1,4 @@
-Lecidea habana SPECIES
-=======
+# Lecidea habana SPECIES
 
 #### Status
 ACCEPTED

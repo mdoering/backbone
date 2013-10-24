@@ -1,8 +1,7 @@
-Endocarpon sylvicolum I.M. Lamb SPECIES
-=======
+# Endocarpon sylvicola I.M. Lamb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Endocarpon sylvicolum I.M. Lamb
+Endocarpon sylvicola I.M. Lamb
 
 ### Remarks
 null

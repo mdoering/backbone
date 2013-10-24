@@ -1,5 +1,4 @@
-Phormidium konstantinosum I. Umezaki & M. Watanabe SPECIES
-=======
+# Phormidium konstantinosum I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

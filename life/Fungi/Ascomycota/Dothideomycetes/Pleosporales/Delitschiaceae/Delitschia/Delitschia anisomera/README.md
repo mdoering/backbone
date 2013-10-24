@@ -1,5 +1,4 @@
-Delitschia anisomera Luck-Allen & Cain SPECIES
-=======
+# Delitschia anisomera Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

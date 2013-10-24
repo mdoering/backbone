@@ -1,5 +1,4 @@
-Coenogonium moniliforme Tuck. SPECIES
-=======
+# Coenogonium moniliforme Tuck. SPECIES
 
 #### Status
 ACCEPTED

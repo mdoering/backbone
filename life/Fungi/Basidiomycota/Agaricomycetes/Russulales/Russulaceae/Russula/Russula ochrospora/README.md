@@ -1,5 +1,4 @@
-Russula ochrospora (Nicolaj ex Quadr. & W. Rossi) Quadr. SPECIES
-=======
+# Russula ochrospora (Nicolaj ex Quadr. & W. Rossi) Quadr. SPECIES
 
 #### Status
 ACCEPTED

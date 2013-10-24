@@ -1,5 +1,4 @@
-Irene inermis (Kalchbr. & Cooke) Theiss. & P. Syd. SPECIES
-=======
+# Irene inermis (Kalchbr. & Cooke) Theiss. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

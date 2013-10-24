@@ -1,5 +1,4 @@
-Spatoglossum membranaceum Kraft, 2009 SPECIES
-=======
+# Spatoglossum membranaceum Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

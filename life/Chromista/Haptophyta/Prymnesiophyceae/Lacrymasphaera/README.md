@@ -1,5 +1,4 @@
-Lacrymasphaera J.Lecal, 1966 GENUS
-=======
+# Lacrymasphaera J.Lecal, 1966 GENUS
 
 #### Status
 ACCEPTED

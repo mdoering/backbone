@@ -1,5 +1,4 @@
-Gloeosporium marginans Bubák & Syd. SPECIES
-=======
+# Gloeosporium marginans Bubák & Syd. SPECIES
 
 #### Status
 ACCEPTED

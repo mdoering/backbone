@@ -1,5 +1,4 @@
-Propolidium crataegi Velen. SPECIES
-=======
+# Propolidium crataegi Velen. SPECIES
 
 #### Status
 ACCEPTED

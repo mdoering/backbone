@@ -1,5 +1,4 @@
-Aposphaeria amelanchieris P. Karst. SPECIES
-=======
+# Aposphaeria amelanchieris P. Karst. SPECIES
 
 #### Status
 ACCEPTED

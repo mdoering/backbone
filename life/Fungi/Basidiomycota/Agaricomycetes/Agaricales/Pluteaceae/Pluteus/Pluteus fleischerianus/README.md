@@ -1,5 +1,4 @@
-Pluteus fleischerianus Henn. SPECIES
-=======
+# Pluteus fleischerianus Henn. SPECIES
 
 #### Status
 ACCEPTED

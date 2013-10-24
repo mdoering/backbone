@@ -1,5 +1,4 @@
-Massarinula gloeospora I. Hino & Katum. SPECIES
-=======
+# Massarinula gloeospora I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

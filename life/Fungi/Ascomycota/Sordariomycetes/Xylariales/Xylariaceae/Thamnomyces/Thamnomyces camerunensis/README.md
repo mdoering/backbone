@@ -1,5 +1,4 @@
-Thamnomyces camerunensis Henn., 1901 SPECIES
-=======
+# Thamnomyces camerunensis Henn., 1901 SPECIES
 
 #### Status
 ACCEPTED

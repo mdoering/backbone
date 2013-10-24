@@ -1,5 +1,4 @@
-Chamaeceras juglandis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras juglandis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

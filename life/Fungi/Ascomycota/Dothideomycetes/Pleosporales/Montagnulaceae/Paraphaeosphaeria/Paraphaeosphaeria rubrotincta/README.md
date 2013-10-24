@@ -1,5 +1,4 @@
-Paraphaeosphaeria rubrotincta (Ellis & Everh.) Huhndorf SPECIES
-=======
+# Paraphaeosphaeria rubrotincta (Ellis & Everh.) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

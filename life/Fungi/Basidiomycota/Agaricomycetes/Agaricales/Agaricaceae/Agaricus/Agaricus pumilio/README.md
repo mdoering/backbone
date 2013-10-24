@@ -1,5 +1,4 @@
-Agaricus pumilio Kalchbr. SPECIES
-=======
+# Agaricus pumilio Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

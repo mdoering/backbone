@@ -1,5 +1,4 @@
-Chrysotila stipitata Anand SPECIES
-=======
+# Chrysotila stipitata Anand SPECIES
 
 #### Status
 ACCEPTED

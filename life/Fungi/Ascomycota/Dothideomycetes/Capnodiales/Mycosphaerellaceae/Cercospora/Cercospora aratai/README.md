@@ -1,5 +1,4 @@
-Cercospora aratai Speg. SPECIES
-=======
+# Cercospora aratai Speg. SPECIES
 
 #### Status
 ACCEPTED

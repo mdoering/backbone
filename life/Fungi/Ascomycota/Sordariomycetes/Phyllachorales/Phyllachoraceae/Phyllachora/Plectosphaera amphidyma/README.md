@@ -1,14 +1,13 @@
-Physalospora amphidyma Syd. & P. Syd., 1905 SPECIES
-=======
+# Plectosphaera amphidyma (Syd. & P. Syd.) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 3: 185 (1905)
+Beitr. Kryptfl. Schweiz 11(no. 1): 203 (1954)
 
 #### Original name
 Physalospora amphidyma Syd. & P. Syd., 1905

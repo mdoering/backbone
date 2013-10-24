@@ -1,5 +1,4 @@
-Puccinia schottmuelleri Henn. SPECIES
-=======
+# Puccinia schottmuelleri Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia clauzadei Sérus. & Lambinon SPECIES
-=======
+# Bacidia clauzadei Sérus. & Lambinon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema populi Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeronaema populi Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia conglobata P. Syd. & Syd. SPECIES
-=======
+# Puccinia conglobata P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

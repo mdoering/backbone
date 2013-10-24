@@ -1,5 +1,4 @@
-Leptosphaeria lespedezae Ziling SPECIES
-=======
+# Leptosphaeria lespedezae Ziling SPECIES
 
 #### Status
 ACCEPTED

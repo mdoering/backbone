@@ -1,5 +1,4 @@
-Lecanora compensata SPECIES
-=======
+# Lecanora compensata SPECIES
 
 #### Status
 ACCEPTED

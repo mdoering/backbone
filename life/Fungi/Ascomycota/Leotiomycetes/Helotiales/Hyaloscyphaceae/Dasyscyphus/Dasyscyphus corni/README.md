@@ -1,17 +1,16 @@
-Dasyscypha corni Velen. SPECIES
-=======
+# Dasyscyphus corni Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 236 (1934)
 
 #### Original name
-Dasyscypha corni Velen.
+Dasyscyphus corni Velen.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gomphillus morchelloides Lücking & Sérus. SPECIES
-=======
+# Gomphillus morchelloides Lücking & Sérus. SPECIES
 
 #### Status
 ACCEPTED

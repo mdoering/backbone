@@ -1,5 +1,4 @@
-Helotium chlorosplenioides Speg. SPECIES
-=======
+# Helotium chlorosplenioides Speg. SPECIES
 
 #### Status
 ACCEPTED

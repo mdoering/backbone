@@ -1,5 +1,4 @@
-Marasmiellus paurosporus Singer SPECIES
-=======
+# Marasmiellus paurosporus Singer SPECIES
 
 #### Status
 ACCEPTED

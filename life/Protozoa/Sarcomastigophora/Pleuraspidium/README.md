@@ -1,5 +1,4 @@
-Pleuraspidium Haeckel, 1887 GENUS
-=======
+# Pleuraspidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudorotalia papillosa (Brady) SPECIES
-=======
+# Pseudorotalia papillosa (Brady) SPECIES
 
 #### Status
 ACCEPTED

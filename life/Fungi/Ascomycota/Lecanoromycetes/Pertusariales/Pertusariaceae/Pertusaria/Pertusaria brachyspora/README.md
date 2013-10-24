@@ -1,5 +1,4 @@
-Pertusaria brachyspora Erichsen SPECIES
-=======
+# Pertusaria brachyspora Erichsen SPECIES
 
 #### Status
 ACCEPTED

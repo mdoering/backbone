@@ -1,5 +1,4 @@
-Clasterosporium coryphae Syd. {?} SPECIES
-=======
+# Clasterosporium coryphae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

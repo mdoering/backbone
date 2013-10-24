@@ -1,5 +1,4 @@
-Cucujomyces elegans Speg., 1917 SPECIES
-=======
+# Cucujomyces elegans Speg., 1917 SPECIES
 
 #### Status
 ACCEPTED

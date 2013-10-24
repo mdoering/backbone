@@ -1,5 +1,4 @@
-Lophiosphaera antillarum Pat. SPECIES
-=======
+# Lophiosphaera antillarum Pat. SPECIES
 
 #### Status
 ACCEPTED

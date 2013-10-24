@@ -1,5 +1,4 @@
-Ixocomus elegans f. elegans FORM
-=======
+# Ixocomus elegans (Schumach.) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 3(2-3): 39 (1938)
 
 #### Original name
-Ixocomus elegans f. elegans
+Boletus elegans Bull.
 
 ### Remarks
 null

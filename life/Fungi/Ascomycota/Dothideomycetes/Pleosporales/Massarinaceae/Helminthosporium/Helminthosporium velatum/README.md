@@ -1,17 +1,16 @@
-Helmisporium velatum Corda SPECIES
-=======
+# Helminthosporium velatum Corda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Icon. fung. (Prague) 1: 13 (1837)
 
 #### Original name
-Helmisporium velatum Corda
+Helminthosporium velatum Corda
 
 ### Remarks
 null

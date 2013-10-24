@@ -1,5 +1,4 @@
-Anthostomella micraspis (Berk.) Sacc. & Traverso SPECIES
-=======
+# Anthostomella micraspis (Berk.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

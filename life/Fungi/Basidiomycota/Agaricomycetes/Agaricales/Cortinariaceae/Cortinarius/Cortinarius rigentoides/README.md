@@ -1,5 +1,4 @@
-Cortinarius rigentoides Bohus SPECIES
-=======
+# Cortinarius rigentoides Bohus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia tropica Elix SPECIES
-=======
+# Physcia tropica Elix SPECIES
 
 #### Status
 ACCEPTED

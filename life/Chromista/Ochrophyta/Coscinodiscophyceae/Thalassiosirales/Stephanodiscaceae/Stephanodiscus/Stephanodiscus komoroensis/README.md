@@ -1,5 +1,4 @@
-Stephanodiscus komoroensis H. Tanaka SPECIES
-=======
+# Stephanodiscus komoroensis H. Tanaka SPECIES
 
 #### Status
 ACCEPTED

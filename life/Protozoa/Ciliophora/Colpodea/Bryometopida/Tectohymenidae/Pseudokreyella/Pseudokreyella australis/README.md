@@ -1,5 +1,4 @@
-Pseudokreyella australis Foissner, 1993 SPECIES
-=======
+# Pseudokreyella australis Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

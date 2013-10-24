@@ -1,5 +1,4 @@
-Pyrenopeziza perminuta Scheuer SPECIES
-=======
+# Pyrenopeziza perminuta Scheuer SPECIES
 
 #### Status
 ACCEPTED

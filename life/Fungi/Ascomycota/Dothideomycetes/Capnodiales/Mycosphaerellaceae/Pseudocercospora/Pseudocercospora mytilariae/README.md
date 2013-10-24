@@ -1,5 +1,4 @@
-Pseudocercospora mytilariae Y.L. Guo SPECIES
-=======
+# Pseudocercospora mytilariae Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

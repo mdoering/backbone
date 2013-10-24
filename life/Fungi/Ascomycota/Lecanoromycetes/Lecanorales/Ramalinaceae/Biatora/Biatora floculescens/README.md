@@ -1,5 +1,4 @@
-Biatora floculescens Eckfeldt SPECIES
-=======
+# Biatora floculescens Eckfeldt SPECIES
 
 #### Status
 ACCEPTED

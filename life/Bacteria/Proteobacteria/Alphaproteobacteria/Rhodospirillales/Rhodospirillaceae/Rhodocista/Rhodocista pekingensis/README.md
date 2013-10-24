@@ -1,5 +1,4 @@
-Rhodocista pekingensis Zhang et al., 2003 SPECIES
-=======
+# Rhodocista pekingensis Zhang et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

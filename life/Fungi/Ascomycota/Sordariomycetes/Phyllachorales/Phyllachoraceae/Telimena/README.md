@@ -1,17 +1,16 @@
-Telimenopsis Petr. GENUS
-=======
+# Telimena Racib. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 4: 543 (1950)
+Parasit. Alg. Pilze Java's (Jakarta) 1: 18 (1900)
 
 #### Original name
-Telimenopsis Petr.
+Telimena Racib.
 
 ### Remarks
 null

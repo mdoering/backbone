@@ -1,5 +1,4 @@
-Gloeosporium asphodeli Politis SPECIES
-=======
+# Gloeosporium asphodeli Politis SPECIES
 
 #### Status
 ACCEPTED

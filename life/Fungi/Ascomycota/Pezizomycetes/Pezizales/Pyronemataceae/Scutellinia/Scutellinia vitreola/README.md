@@ -1,5 +1,4 @@
-Scutellinia vitreola Kullman SPECIES
-=======
+# Scutellinia vitreola Kullman SPECIES
 
 #### Status
 ACCEPTED

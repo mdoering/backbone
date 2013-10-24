@@ -1,5 +1,4 @@
-Acarospora novomexicana H. Magn. SPECIES
-=======
+# Acarospora novomexicana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

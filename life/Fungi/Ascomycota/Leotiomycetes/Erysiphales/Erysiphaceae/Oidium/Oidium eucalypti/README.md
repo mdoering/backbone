@@ -1,5 +1,4 @@
-Oidium eucalypti Rostr. SPECIES
-=======
+# Oidium eucalypti Rostr. SPECIES
 
 #### Status
 ACCEPTED

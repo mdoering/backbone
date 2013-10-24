@@ -1,5 +1,4 @@
-Phyllachora oblongispora Syd. & P. Syd., 1913 SPECIES
-=======
+# Phyllachora oblongispora Syd. & P. Syd., 1913 SPECIES
 
 #### Status
 ACCEPTED

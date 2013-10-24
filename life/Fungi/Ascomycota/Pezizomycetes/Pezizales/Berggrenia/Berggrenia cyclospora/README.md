@@ -1,14 +1,13 @@
-Berggrenia aurantiaca var. cyclospora Cooke, 1879 VARIETY
-=======
+# Berggrenia cyclospora (Cooke) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 15(no. 73): 16 (1886)
+Syll. fung. (Abellini) 8: 152 (1889)
 
 #### Original name
 Berggrenia aurantiaca var. cyclospora Cooke, 1879

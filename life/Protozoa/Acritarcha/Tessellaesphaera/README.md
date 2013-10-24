@@ -1,5 +1,4 @@
-Tessellaesphaera C.B. Foster, 1979 GENUS
-=======
+# Tessellaesphaera C.B. Foster, 1979 GENUS
 
 #### Status
 ACCEPTED

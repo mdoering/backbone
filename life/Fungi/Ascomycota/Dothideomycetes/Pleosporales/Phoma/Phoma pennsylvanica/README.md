@@ -1,5 +1,4 @@
-Phoma pennsylvanica Ellis & Everh. SPECIES
-=======
+# Phoma pennsylvanica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

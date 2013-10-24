@@ -1,5 +1,4 @@
-Pseudocyphellaria astictina (Nyl.) W. Martin SPECIES
-=======
+# Pseudocyphellaria astictina (Nyl.) W. Martin SPECIES
 
 #### Status
 ACCEPTED

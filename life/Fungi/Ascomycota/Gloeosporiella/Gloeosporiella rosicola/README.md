@@ -1,17 +1,16 @@
-Gloeosporiella rosaecola Cavara SPECIES
-=======
+# Gloeosporiella rosicola Cavara, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fung. Long. Exsicc. no. 41 (1891)
 
 #### Original name
-Gloeosporiella rosaecola Cavara
+Gloeosporiella rosicola Cavara, 1891
 
 ### Remarks
 null

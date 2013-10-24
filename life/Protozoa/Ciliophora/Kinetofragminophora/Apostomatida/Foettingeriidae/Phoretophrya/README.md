@@ -1,5 +1,4 @@
-Phoretophrya Lwoff, 1930 GENUS
-=======
+# Phoretophrya Lwoff, 1930 GENUS
 
 #### Status
 ACCEPTED

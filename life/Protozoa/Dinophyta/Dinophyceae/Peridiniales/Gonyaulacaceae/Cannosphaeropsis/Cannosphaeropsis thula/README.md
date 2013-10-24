@@ -1,5 +1,4 @@
-Cannosphaeropsis thula R. J. Davey SPECIES
-=======
+# Cannosphaeropsis thula R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

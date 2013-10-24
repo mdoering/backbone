@@ -1,5 +1,4 @@
-Trichothyrium dubiosum (E. Bommer & M. Rousseau) Theiss. SPECIES
-=======
+# Trichothyrium dubiosum (E. Bommer & M. Rousseau) Theiss. SPECIES
 
 #### Status
 ACCEPTED

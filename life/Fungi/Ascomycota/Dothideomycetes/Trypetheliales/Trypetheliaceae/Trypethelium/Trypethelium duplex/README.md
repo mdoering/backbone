@@ -1,5 +1,4 @@
-Trypethelium duplex Fée SPECIES
-=======
+# Trypethelium duplex Fée SPECIES
 
 #### Status
 ACCEPTED

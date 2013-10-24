@@ -1,5 +1,4 @@
-Tintinnus helix Claparède & Lachmann, 1858 SPECIES
-=======
+# Tintinnus helix Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

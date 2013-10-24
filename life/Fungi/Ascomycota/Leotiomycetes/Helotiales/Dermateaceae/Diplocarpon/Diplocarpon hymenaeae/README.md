@@ -1,5 +1,4 @@
-Diplocarpon hymenaeae Bat. & I.H. Lima SPECIES
-=======
+# Diplocarpon hymenaeae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

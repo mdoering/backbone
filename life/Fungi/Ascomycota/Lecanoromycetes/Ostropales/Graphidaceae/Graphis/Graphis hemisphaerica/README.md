@@ -1,5 +1,4 @@
-Graphis hemisphaerica Vain. SPECIES
-=======
+# Graphis hemisphaerica Vain. SPECIES
 
 #### Status
 ACCEPTED

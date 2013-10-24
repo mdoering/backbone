@@ -1,5 +1,4 @@
-Boletus sinapecruentus Cleland SPECIES
-=======
+# Boletus sinapecruentus Cleland SPECIES
 
 #### Status
 ACCEPTED

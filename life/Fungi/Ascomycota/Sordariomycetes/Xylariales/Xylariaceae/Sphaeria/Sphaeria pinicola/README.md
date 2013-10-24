@@ -1,5 +1,4 @@
-Sphaeria pinicola Heer SPECIES
-=======
+# Sphaeria pinicola Heer SPECIES
 
 #### Status
 ACCEPTED

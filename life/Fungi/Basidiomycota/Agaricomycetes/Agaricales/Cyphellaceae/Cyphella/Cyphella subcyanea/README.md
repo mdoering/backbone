@@ -1,5 +1,4 @@
-Cyphella subcyanea Ellis & Everh. SPECIES
-=======
+# Cyphella subcyanea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

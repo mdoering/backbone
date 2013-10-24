@@ -1,5 +1,4 @@
-Uromyces sinensis Speg. SPECIES
-=======
+# Uromyces sinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

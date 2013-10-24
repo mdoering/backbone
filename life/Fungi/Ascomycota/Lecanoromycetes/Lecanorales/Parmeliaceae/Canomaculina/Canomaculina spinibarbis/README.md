@@ -1,5 +1,4 @@
-Canomaculina spinibarbis (Kurok.) Elix SPECIES
-=======
+# Canomaculina spinibarbis (Kurok.) Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus subaustraligus Largent SPECIES
-=======
+# Hygrophorus subaustraligus Largent SPECIES
 
 #### Status
 ACCEPTED

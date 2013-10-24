@@ -1,5 +1,4 @@
-Saccharomyces hispanicus Santa María SPECIES
-=======
+# Saccharomyces hispanicus Santa María SPECIES
 
 #### Status
 ACCEPTED

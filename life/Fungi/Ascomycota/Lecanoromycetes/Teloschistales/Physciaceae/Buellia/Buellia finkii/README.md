@@ -1,5 +1,4 @@
-Buellia finkii G. Merr. SPECIES
-=======
+# Buellia finkii G. Merr. SPECIES
 
 #### Status
 ACCEPTED

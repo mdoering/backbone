@@ -1,14 +1,13 @@
-Sphaerospora barlae (Boud.) Sacc., 1889 SPECIES
-=======
+# Scutellinia barlae (Boud.) Maire, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 188 (1889)
+Publ. Junta Ciencies Nat. Barcelona, Ser. Bot. 15(2): 19 (1933)
 
 #### Original name
 Ciliaria barlae Boud., 1887

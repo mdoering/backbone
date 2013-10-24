@@ -1,5 +1,4 @@
-Puccinia aegopogonis Arthur & Holw. SPECIES
-=======
+# Puccinia aegopogonis Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps brittlebankii McLennan & Cookson SPECIES
-=======
+# Cordyceps brittlebankii McLennan & Cookson SPECIES
 
 #### Status
 ACCEPTED

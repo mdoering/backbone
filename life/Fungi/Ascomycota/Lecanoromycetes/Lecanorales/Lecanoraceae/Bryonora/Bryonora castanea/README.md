@@ -1,17 +1,16 @@
-Bryonora castanea var. castanea (E. Hepp) Poelt VARIETY
-=======
+# Bryonora castanea (Hepp) Poelt SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Nova Hedwigia 38: 86 (1983)
 
 #### Original name
-Bryonora castanea var. castanea (E. Hepp) Poelt
+Biatora castanea Hepp
 
 ### Remarks
 null

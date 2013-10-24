@@ -1,5 +1,4 @@
-Phytophthora eriugena Clancy & Kavanagh SPECIES
-=======
+# Phytophthora eriugena Clancy & Kavanagh SPECIES
 
 #### Status
 ACCEPTED

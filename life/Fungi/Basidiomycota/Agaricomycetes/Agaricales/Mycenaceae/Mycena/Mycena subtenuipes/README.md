@@ -1,5 +1,4 @@
-Mycena subtenuipes Murrill SPECIES
-=======
+# Mycena subtenuipes Murrill SPECIES
 
 #### Status
 ACCEPTED

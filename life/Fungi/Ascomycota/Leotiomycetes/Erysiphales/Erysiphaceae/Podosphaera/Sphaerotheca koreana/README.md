@@ -1,5 +1,4 @@
-Sphaerotheca koreana H.D. Shin & U. Braun SPECIES
-=======
+# Sphaerotheca koreana H.D. Shin & U. Braun SPECIES
 
 #### Status
 ACCEPTED

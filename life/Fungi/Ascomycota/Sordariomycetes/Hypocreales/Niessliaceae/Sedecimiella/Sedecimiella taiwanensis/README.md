@@ -1,5 +1,4 @@
-Sedecimiella taiwanensis K.L. Pang, Alias & E.B.G. Jones, 2010 SPECIES
-=======
+# Sedecimiella taiwanensis K.L. Pang, Alias & E.B.G. Jones, 2010 SPECIES
 
 #### Status
 ACCEPTED

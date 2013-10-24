@@ -1,5 +1,4 @@
-Cortinarius venenosus A. Kawam. SPECIES
-=======
+# Cortinarius venenosus A. Kawam. SPECIES
 
 #### Status
 ACCEPTED

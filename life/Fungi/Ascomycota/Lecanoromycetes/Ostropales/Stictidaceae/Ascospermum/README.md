@@ -1,5 +1,4 @@
-Ascospermum Schulzer GENUS
-=======
+# Ascospermum Schulzer GENUS
 
 #### Status
 ACCEPTED

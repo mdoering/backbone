@@ -1,5 +1,4 @@
-Dicaeoma lateritium (Schwein.) Kuntze SPECIES
-=======
+# Dicaeoma lateritium (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

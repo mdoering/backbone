@@ -1,5 +1,4 @@
-Baltisphaeridium denticulatum Stockmans & Willière, 1963 SPECIES
-=======
+# Baltisphaeridium denticulatum Stockmans & Willière, 1963 SPECIES
 
 #### Status
 ACCEPTED

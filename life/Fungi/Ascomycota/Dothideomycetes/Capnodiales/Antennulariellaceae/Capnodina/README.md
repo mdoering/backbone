@@ -1,5 +1,4 @@
-Capnodina GENUS
-=======
+# Capnodina GENUS
 
 #### Status
 ACCEPTED

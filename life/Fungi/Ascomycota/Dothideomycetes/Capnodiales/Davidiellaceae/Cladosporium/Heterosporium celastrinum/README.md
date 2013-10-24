@@ -1,5 +1,4 @@
-Heterosporium celastrinum Tilak SPECIES
-=======
+# Heterosporium celastrinum Tilak SPECIES
 
 #### Status
 ACCEPTED

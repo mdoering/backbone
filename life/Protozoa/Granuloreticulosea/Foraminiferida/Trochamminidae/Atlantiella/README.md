@@ -1,5 +1,4 @@
-Atlantiella Saidova, 1981 GENUS
-=======
+# Atlantiella Saidova, 1981 GENUS
 
 #### Status
 ACCEPTED

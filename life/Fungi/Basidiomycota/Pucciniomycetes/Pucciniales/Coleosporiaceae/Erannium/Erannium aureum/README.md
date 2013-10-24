@@ -1,5 +1,4 @@
-Erannium aureum Bonord. SPECIES
-=======
+# Erannium aureum Bonord. SPECIES
 
 #### Status
 ACCEPTED

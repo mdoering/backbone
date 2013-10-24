@@ -1,5 +1,4 @@
-Metacylis annulata (Meunier, 1910) SPECIES
-=======
+# Metacylis annulata (Meunier, 1910) SPECIES
 
 #### Status
 ACCEPTED

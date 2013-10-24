@@ -1,5 +1,4 @@
-Caloplaca ulmorum (Fink) Fink SPECIES
-=======
+# Caloplaca ulmorum (Fink) Fink SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterostomella concinna Syd. SPECIES
-=======
+# Asterostomella concinna Syd. SPECIES
 
 #### Status
 ACCEPTED

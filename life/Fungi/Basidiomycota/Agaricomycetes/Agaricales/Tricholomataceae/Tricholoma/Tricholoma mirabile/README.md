@@ -1,5 +1,4 @@
-Tricholoma mirabile Bres. SPECIES
-=======
+# Tricholoma mirabile Bres. SPECIES
 
 #### Status
 ACCEPTED

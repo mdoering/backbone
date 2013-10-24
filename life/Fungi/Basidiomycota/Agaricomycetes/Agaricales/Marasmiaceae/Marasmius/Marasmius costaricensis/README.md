@@ -1,5 +1,4 @@
-Marasmius costaricensis Singer SPECIES
-=======
+# Marasmius costaricensis Singer SPECIES
 
 #### Status
 ACCEPTED

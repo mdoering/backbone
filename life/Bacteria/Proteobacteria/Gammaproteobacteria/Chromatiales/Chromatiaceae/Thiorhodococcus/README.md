@@ -1,5 +1,4 @@
-Thiorhodococcus Guyoneaud et al., 1998 GENUS
-=======
+# Thiorhodococcus Guyoneaud et al., 1998 GENUS
 
 #### Status
 ACCEPTED

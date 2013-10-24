@@ -1,5 +1,4 @@
-Sclerotium adnatum Sacc. SPECIES
-=======
+# Sclerotium adnatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

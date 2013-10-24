@@ -1,5 +1,4 @@
-Bulimina jacksonensis Cushman SPECIES
-=======
+# Bulimina jacksonensis Cushman SPECIES
 
 #### Status
 ACCEPTED

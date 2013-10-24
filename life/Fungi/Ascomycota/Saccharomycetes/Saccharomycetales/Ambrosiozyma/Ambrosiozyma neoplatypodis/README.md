@@ -1,5 +1,4 @@
-Ambrosiozyma neoplatypodis Endoh, M. Suzuki & Benno, 2008 SPECIES
-=======
+# Ambrosiozyma neoplatypodis Endoh, M. Suzuki & Benno, 2008 SPECIES
 
 #### Status
 ACCEPTED

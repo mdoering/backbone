@@ -1,5 +1,4 @@
-Boletus violaceus C. Mart. SPECIES
-=======
+# Boletus violaceus C. Mart. SPECIES
 
 #### Status
 ACCEPTED

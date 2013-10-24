@@ -1,5 +1,4 @@
-Phyllosticta lycopi Ellis & Everh. SPECIES
-=======
+# Phyllosticta lycopi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

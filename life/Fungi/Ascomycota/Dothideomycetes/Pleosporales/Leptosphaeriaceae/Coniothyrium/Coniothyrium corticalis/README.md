@@ -1,5 +1,4 @@
-Coniothyrium corticalis (Kalchbr. & Cooke) Tassi SPECIES
-=======
+# Coniothyrium corticalis (Kalchbr. & Cooke) Tassi SPECIES
 
 #### Status
 ACCEPTED

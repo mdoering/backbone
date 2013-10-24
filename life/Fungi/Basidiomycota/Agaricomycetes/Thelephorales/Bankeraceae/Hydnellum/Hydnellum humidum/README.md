@@ -1,5 +1,4 @@
-Hydnellum humidum (Banker) Banker SPECIES
-=======
+# Hydnellum humidum (Banker) Banker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coenogonium wrightii (Vezda) H. Harada & Lumbsch SPECIES
-=======
+# Coenogonium wrightii (Vezda) H. Harada & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

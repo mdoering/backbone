@@ -1,5 +1,4 @@
-Uromyces ushuwaiensis Speg. SPECIES
-=======
+# Uromyces ushuwaiensis Speg. SPECIES
 
 #### Status
 ACCEPTED

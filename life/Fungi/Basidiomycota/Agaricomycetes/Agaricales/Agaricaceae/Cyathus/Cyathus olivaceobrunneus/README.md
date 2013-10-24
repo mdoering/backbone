@@ -1,5 +1,4 @@
-Cyathus olivaceobrunneus Tai {?} & Hung {?} SPECIES
-=======
+# Cyathus olivaceobrunneus Tai {?} & Hung {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cellulomonadaceae FAMILY
-=======
+# Cellulomonadaceae FAMILY
 
 #### Status
 ACCEPTED

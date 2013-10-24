@@ -1,5 +1,4 @@
-Parmeliopsis hyeropta Vain. SPECIES
-=======
+# Parmeliopsis hyeropta Vain. SPECIES
 
 #### Status
 ACCEPTED

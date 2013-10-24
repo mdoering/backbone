@@ -1,5 +1,4 @@
-Dirinella GENUS
-=======
+# Dirinella GENUS
 
 #### Status
 ACCEPTED

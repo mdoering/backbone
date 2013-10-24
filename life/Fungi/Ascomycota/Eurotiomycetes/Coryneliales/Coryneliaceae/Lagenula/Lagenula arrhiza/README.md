@@ -1,5 +1,4 @@
-Lagenula arrhiza (Pat. & Gaillard) G. Arnaud SPECIES
-=======
+# Lagenula arrhiza (Pat. & Gaillard) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

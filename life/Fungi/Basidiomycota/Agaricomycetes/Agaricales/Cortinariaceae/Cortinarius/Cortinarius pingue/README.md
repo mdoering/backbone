@@ -1,5 +1,4 @@
-Cortinarius pingue (Zeller) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius pingue (Zeller) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia faroeensis (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia faroeensis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

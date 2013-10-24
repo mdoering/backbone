@@ -1,5 +1,4 @@
-Schizoplasmodiopsis vulgaris L.S. Olive & Stoian., 1975 SPECIES
-=======
+# Schizoplasmodiopsis vulgaris L.S. Olive & Stoian., 1975 SPECIES
 
 #### Status
 ACCEPTED

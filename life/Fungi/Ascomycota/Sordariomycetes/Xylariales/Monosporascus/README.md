@@ -1,5 +1,4 @@
-Monosporascus Pollack & Uecker GENUS
-=======
+# Monosporascus Pollack & Uecker GENUS
 
 #### Status
 ACCEPTED

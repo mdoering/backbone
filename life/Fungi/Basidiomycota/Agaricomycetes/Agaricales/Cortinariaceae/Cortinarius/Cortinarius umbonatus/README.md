@@ -1,5 +1,4 @@
-Cortinarius umbonatus Cleland & J.R. Harris SPECIES
-=======
+# Cortinarius umbonatus Cleland & J.R. Harris SPECIES
 
 #### Status
 ACCEPTED

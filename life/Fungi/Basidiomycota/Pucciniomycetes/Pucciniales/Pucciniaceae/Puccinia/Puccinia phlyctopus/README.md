@@ -1,5 +1,4 @@
-Puccinia phlyctopus P. Syd. & Syd. SPECIES
-=======
+# Puccinia phlyctopus P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia hedbergii L. Holm SPECIES
-=======
+# Puccinia hedbergii L. Holm SPECIES
 
 #### Status
 ACCEPTED

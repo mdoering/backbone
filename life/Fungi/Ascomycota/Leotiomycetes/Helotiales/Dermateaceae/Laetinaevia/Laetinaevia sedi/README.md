@@ -1,5 +1,4 @@
-Laetinaevia sedi (P. Karst.) B. Hein SPECIES
-=======
+# Laetinaevia sedi (P. Karst.) B. Hein SPECIES
 
 #### Status
 ACCEPTED

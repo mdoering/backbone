@@ -1,5 +1,4 @@
-Puccinia obscurata Arthur & Holw. SPECIES
-=======
+# Puccinia obscurata Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

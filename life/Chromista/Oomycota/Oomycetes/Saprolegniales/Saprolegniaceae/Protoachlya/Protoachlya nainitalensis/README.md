@@ -1,5 +1,4 @@
-Protoachlya nainitalensis M. Upadhyay & Khulbe SPECIES
-=======
+# Protoachlya nainitalensis M. Upadhyay & Khulbe SPECIES
 
 #### Status
 ACCEPTED

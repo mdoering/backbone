@@ -1,5 +1,4 @@
-Biatora leprodea (Nyl.) Kullh. SPECIES
-=======
+# Biatora leprodea (Nyl.) Kullh. SPECIES
 
 #### Status
 ACCEPTED

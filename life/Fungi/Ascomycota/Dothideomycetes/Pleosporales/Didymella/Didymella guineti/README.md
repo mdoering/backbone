@@ -1,5 +1,4 @@
-Didymella guineti (Vouaux) Keissl. SPECIES
-=======
+# Didymella guineti (Vouaux) Keissl. SPECIES
 
 #### Status
 ACCEPTED

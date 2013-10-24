@@ -1,5 +1,4 @@
-Inocybe ochraceoscabra G.F. Atk. SPECIES
-=======
+# Inocybe ochraceoscabra G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

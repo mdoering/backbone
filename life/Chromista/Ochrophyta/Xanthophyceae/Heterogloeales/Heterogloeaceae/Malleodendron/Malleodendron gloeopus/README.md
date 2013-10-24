@@ -1,5 +1,4 @@
-Malleodendron gloeopus Pascher SPECIES
-=======
+# Malleodendron gloeopus Pascher SPECIES
 
 #### Status
 ACCEPTED

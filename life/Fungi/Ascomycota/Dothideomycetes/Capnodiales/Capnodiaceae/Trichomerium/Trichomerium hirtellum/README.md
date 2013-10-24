@@ -1,5 +1,4 @@
-Trichomerium hirtellum Bat. SPECIES
-=======
+# Trichomerium hirtellum Bat. SPECIES
 
 #### Status
 ACCEPTED

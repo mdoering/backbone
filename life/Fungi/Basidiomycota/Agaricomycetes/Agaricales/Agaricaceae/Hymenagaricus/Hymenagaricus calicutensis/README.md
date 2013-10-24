@@ -1,5 +1,4 @@
-Hymenagaricus calicutensis Heinem. & Little Flower SPECIES
-=======
+# Hymenagaricus calicutensis Heinem. & Little Flower SPECIES
 
 #### Status
 ACCEPTED

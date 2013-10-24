@@ -1,5 +1,4 @@
-Cladosporium pulcherrimum Ellis & Everh. SPECIES
-=======
+# Cladosporium pulcherrimum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

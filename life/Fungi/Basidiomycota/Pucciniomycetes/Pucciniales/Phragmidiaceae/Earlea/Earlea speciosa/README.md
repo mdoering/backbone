@@ -1,5 +1,4 @@
-Earlea speciosa (Fr.) Arthur SPECIES
-=======
+# Earlea speciosa (Fr.) Arthur SPECIES
 
 #### Status
 ACCEPTED

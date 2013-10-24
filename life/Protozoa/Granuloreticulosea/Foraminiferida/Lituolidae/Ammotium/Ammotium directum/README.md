@@ -1,5 +1,4 @@
-Ammotium directum (Cushman & Brönnimann, 1948) SPECIES
-=======
+# Ammotium directum (Cushman & Brönnimann, 1948) SPECIES
 
 #### Status
 ACCEPTED

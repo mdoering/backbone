@@ -1,5 +1,4 @@
-Ceratocystis ossiformis Olchow. & J. Reid SPECIES
-=======
+# Ceratocystis ossiformis Olchow. & J. Reid SPECIES
 
 #### Status
 ACCEPTED

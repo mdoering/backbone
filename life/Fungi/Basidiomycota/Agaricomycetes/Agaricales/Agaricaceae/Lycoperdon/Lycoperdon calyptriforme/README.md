@@ -1,5 +1,4 @@
-Lycoperdon calyptriforme Berk. SPECIES
-=======
+# Lycoperdon calyptriforme Berk. SPECIES
 
 #### Status
 ACCEPTED

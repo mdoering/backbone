@@ -1,5 +1,4 @@
-Zoophthora falcata Balazy, 1993 SPECIES
-=======
+# Zoophthora falcata Balazy, 1993 SPECIES
 
 #### Status
 ACCEPTED

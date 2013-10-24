@@ -1,5 +1,4 @@
-Lecanora imshaugii Brodo SPECIES
-=======
+# Lecanora imshaugii Brodo SPECIES
 
 #### Status
 ACCEPTED

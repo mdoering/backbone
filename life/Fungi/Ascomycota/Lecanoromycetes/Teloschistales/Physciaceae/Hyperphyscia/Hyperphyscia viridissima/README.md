@@ -1,5 +1,4 @@
-Hyperphyscia viridissima (Müll. Arg.) Scutari SPECIES
-=======
+# Hyperphyscia viridissima (Müll. Arg.) Scutari SPECIES
 
 #### Status
 ACCEPTED

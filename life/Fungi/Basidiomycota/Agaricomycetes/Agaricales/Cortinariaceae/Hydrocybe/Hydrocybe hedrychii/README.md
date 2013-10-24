@@ -1,5 +1,4 @@
-Hydrocybe hedrychii Velen. SPECIES
-=======
+# Hydrocybe hedrychii Velen. SPECIES
 
 #### Status
 ACCEPTED

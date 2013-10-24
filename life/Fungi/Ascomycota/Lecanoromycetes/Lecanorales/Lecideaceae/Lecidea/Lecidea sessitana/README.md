@@ -1,5 +1,4 @@
-Lecidea sessitana Bagl. & Carestia SPECIES
-=======
+# Lecidea sessitana Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza austica Pers. SPECIES
-=======
+# Peziza austica Pers. SPECIES
 
 #### Status
 ACCEPTED

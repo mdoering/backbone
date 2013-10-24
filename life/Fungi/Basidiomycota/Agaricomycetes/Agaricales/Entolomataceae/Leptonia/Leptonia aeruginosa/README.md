@@ -1,5 +1,4 @@
-Leptonia aeruginosa Peck SPECIES
-=======
+# Leptonia aeruginosa Peck SPECIES
 
 #### Status
 ACCEPTED

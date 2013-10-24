@@ -1,5 +1,4 @@
-Codinaea clavulata Hol.-Jech. SPECIES
-=======
+# Codinaea clavulata Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

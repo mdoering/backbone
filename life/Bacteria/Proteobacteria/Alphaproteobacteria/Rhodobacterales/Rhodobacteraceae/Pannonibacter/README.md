@@ -1,5 +1,4 @@
-Pannonibacter Borsodi, Micsinai, Kovacs, Toth, Schumann, Kovacs, Boddi & Marialigeti, 2003 GENUS
-=======
+# Pannonibacter Borsodi, Micsinai, Kovacs, Toth, Schumann, Kovacs, Boddi & Marialigeti, 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia kerensis Pass. SPECIES
-=======
+# Diplodia kerensis Pass. SPECIES
 
 #### Status
 ACCEPTED

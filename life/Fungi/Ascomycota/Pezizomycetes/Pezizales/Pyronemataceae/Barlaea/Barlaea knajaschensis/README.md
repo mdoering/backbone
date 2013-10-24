@@ -1,5 +1,4 @@
-Barlaea knajaschensis (P. Karst.) Sacc. SPECIES
-=======
+# Barlaea knajaschensis (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

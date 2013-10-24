@@ -1,5 +1,4 @@
-Gyalidea stigmatoides (Nyl.) Lettau SPECIES
-=======
+# Gyalidea stigmatoides (Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

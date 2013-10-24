@@ -1,5 +1,4 @@
-Bizozzeria Spegazzini, 1889 GENUS
-=======
+# Bizozzeria Spegazzini, 1889 GENUS
 
 #### Status
 ACCEPTED

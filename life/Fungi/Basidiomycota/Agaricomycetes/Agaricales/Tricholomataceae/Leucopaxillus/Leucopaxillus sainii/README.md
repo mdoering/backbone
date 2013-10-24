@@ -1,5 +1,4 @@
-Leucopaxillus sainii Singer SPECIES
-=======
+# Leucopaxillus sainii Singer SPECIES
 
 #### Status
 ACCEPTED

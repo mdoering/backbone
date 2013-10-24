@@ -1,5 +1,4 @@
-Polyporus peguanus Mont. SPECIES
-=======
+# Polyporus peguanus Mont. SPECIES
 
 #### Status
 ACCEPTED

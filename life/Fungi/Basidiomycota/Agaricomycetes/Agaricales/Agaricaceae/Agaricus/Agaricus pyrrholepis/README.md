@@ -1,5 +1,4 @@
-Agaricus pyrrholepis Mont. SPECIES
-=======
+# Agaricus pyrrholepis Mont. SPECIES
 
 #### Status
 ACCEPTED

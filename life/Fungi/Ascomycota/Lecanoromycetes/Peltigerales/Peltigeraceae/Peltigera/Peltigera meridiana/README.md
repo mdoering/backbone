@@ -1,17 +1,16 @@
-Peltigera meridiana subsp. meridiana SUBSPECIES
-=======
+# Peltigera meridiana Gyeln. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Peltigera meridiana Gyeln.
 
 ### Remarks
 null

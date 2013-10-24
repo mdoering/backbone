@@ -1,5 +1,4 @@
-Trichophyton pratense Szathmáry SPECIES
-=======
+# Trichophyton pratense Szathmáry SPECIES
 
 #### Status
 ACCEPTED

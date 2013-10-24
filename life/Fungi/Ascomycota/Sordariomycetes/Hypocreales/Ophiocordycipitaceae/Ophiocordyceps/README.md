@@ -1,5 +1,4 @@
-Ophiocordyceps Petch GENUS
-=======
+# Ophiocordyceps Petch GENUS
 
 #### Status
 ACCEPTED

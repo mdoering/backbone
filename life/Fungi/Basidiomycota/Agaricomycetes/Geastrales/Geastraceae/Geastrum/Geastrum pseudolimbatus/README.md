@@ -1,8 +1,7 @@
-Geaster pseudolimbatus Hollós SPECIES
-=======
+# Geastrum pseudolimbatus Hollós SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster pseudolimbatus Hollós
+Geastrum pseudolimbatus Hollós
 
 ### Remarks
 null

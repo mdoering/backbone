@@ -1,5 +1,4 @@
-Aposphaeriopsis pini-silvestris (Ferraris) Höhn. SPECIES
-=======
+# Aposphaeriopsis pini-silvestris (Ferraris) Höhn. SPECIES
 
 #### Status
 ACCEPTED

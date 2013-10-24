@@ -1,5 +1,4 @@
-Passalora sweetiae K. Schub. & U. Braun, 2005 SPECIES
-=======
+# Passalora sweetiae K. Schub. & U. Braun, 2005 SPECIES
 
 #### Status
 ACCEPTED

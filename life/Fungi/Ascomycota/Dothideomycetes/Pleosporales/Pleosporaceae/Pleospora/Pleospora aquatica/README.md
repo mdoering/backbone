@@ -1,5 +1,4 @@
-Pleospora aquatica Griffiths, 1899 SPECIES
-=======
+# Pleospora aquatica Griffiths, 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon pisiforme Henn. SPECIES
-=======
+# Lycoperdon pisiforme Henn. SPECIES
 
 #### Status
 ACCEPTED

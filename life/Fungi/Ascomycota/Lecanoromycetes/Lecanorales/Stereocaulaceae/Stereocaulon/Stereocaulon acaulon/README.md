@@ -1,5 +1,4 @@
-Stereocaulon acaulon Nyl. SPECIES
-=======
+# Stereocaulon acaulon Nyl. SPECIES
 
 #### Status
 ACCEPTED

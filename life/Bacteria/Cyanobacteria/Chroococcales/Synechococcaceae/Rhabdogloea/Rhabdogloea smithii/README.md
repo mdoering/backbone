@@ -1,8 +1,7 @@
-Dactylococcopsis smithii R. Chodat & F. Chodat SPECIES
-=======
+# Rhabdogloea smithii (R. Chodat & F. Chodat) J. Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

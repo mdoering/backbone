@@ -1,5 +1,4 @@
-Trichodina vorax Ehrenberg, 1831 SPECIES
-=======
+# Trichodina vorax Ehrenberg, 1831 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium rhytachnes-rottboellioidis Vánky, 2003 SPECIES
-=======
+# Sporisorium rhytachnes-rottboellioidis Vánky, 2003 SPECIES
 
 #### Status
 ACCEPTED

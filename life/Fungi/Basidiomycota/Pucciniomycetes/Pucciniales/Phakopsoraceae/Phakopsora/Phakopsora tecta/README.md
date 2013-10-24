@@ -1,14 +1,13 @@
-Physopella tecta (H.S. Jacks. & Holw.) Azbukina, 1970 SPECIES
-=======
+# Phakopsora tecta H.S. Jacks. & Holw., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. , 1964 7: 223 (1970)
+in Jackson, Mycologia 18(4): 148 (1926)
 
 #### Original name
 Phakopsora tecta H.S. Jacks. & Holw., 1926

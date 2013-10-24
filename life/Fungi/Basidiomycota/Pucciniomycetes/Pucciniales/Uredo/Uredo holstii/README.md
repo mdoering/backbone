@@ -1,5 +1,4 @@
-Uredo holstii Henn. SPECIES
-=======
+# Uredo holstii Henn. SPECIES
 
 #### Status
 ACCEPTED

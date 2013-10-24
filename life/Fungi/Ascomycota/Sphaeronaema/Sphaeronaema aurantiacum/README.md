@@ -1,5 +1,4 @@
-Sphaeronaema aurantiacum Peck SPECIES
-=======
+# Sphaeronaema aurantiacum Peck SPECIES
 
 #### Status
 ACCEPTED

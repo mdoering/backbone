@@ -1,5 +1,4 @@
-Leptosphaerulina mycophaga Bat. & J.L. Bezerra SPECIES
-=======
+# Leptosphaerulina mycophaga Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

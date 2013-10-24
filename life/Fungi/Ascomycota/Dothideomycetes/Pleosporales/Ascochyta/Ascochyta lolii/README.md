@@ -1,5 +1,4 @@
-Ascochyta lolii (H. Zimm.) R. Sprague & H.W. Johnson SPECIES
-=======
+# Ascochyta lolii (H. Zimm.) R. Sprague & H.W. Johnson SPECIES
 
 #### Status
 ACCEPTED

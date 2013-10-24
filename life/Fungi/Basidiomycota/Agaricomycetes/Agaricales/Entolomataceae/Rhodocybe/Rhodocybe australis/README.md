@@ -1,5 +1,4 @@
-Rhodocybe australis Singer SPECIES
-=======
+# Rhodocybe australis Singer SPECIES
 
 #### Status
 ACCEPTED

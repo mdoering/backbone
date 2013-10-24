@@ -1,5 +1,4 @@
-Rectuvigerina royoi SPECIES
-=======
+# Rectuvigerina royoi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora tamaricella Syd. SPECIES
-=======
+# Cytospora tamaricella Syd. SPECIES
 
 #### Status
 ACCEPTED

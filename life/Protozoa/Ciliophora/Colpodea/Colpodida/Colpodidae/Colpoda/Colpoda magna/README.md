@@ -1,8 +1,7 @@
-Tillina canalifera Turner SPECIES
-=======
+# Colpoda magna (Gruber, 1879) Lynn, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

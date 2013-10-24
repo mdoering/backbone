@@ -1,5 +1,4 @@
-Palifer GENUS
-=======
+# Palifer GENUS
 
 #### Status
 ACCEPTED

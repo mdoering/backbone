@@ -1,5 +1,4 @@
-Puccinia spegazziniella Sacc. & Traverso SPECIES
-=======
+# Puccinia spegazziniella Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

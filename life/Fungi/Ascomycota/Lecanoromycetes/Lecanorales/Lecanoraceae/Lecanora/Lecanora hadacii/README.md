@@ -1,5 +1,4 @@
-Lecanora hadacii Lynge SPECIES
-=======
+# Lecanora hadacii Lynge SPECIES
 
 #### Status
 ACCEPTED

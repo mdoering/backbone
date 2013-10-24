@@ -1,5 +1,4 @@
-Catatrama costaricensis Franco-Mol., 1991 SPECIES
-=======
+# Catatrama costaricensis Franco-Mol., 1991 SPECIES
 
 #### Status
 ACCEPTED

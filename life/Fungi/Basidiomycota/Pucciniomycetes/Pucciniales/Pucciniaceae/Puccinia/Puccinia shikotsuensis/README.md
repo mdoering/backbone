@@ -1,5 +1,4 @@
-Puccinia shikotsuensis S. Ito SPECIES
-=======
+# Puccinia shikotsuensis S. Ito SPECIES
 
 #### Status
 ACCEPTED

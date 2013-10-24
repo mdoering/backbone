@@ -1,8 +1,7 @@
-Aplosporella evonymi Ellis & Everh. SPECIES
-=======
+# Aplosporella euonymi Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aplosporella evonymi Ellis & Everh.
+Aplosporella euonymi Ellis & Everh.
 
 ### Remarks
 null

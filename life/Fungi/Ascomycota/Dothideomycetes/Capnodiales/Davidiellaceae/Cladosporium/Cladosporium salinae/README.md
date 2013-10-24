@@ -1,5 +1,4 @@
-Cladosporium salinae Zalar, de Hoog & Gunde-Cim. SPECIES
-=======
+# Cladosporium salinae Zalar, de Hoog & Gunde-Cim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis tuberculosa Stirt. SPECIES
-=======
+# Graphis tuberculosa Stirt. SPECIES
 
 #### Status
 ACCEPTED

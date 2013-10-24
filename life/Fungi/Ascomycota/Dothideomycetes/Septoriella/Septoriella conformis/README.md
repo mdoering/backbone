@@ -1,5 +1,4 @@
-Septoriella conformis Sacc. SPECIES
-=======
+# Septoriella conformis Sacc. SPECIES
 
 #### Status
 ACCEPTED

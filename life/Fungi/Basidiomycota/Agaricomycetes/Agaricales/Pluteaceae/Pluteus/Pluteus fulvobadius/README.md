@@ -1,5 +1,4 @@
-Pluteus fulvobadius Murrill SPECIES
-=======
+# Pluteus fulvobadius Murrill SPECIES
 
 #### Status
 ACCEPTED

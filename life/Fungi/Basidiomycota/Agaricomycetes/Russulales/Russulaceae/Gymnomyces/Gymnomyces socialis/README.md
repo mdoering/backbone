@@ -1,5 +1,4 @@
-Gymnomyces socialis (Harkn.) Singer & A.H. Sm. SPECIES
-=======
+# Gymnomyces socialis (Harkn.) Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ombrophila subaurea Cooke SPECIES
-=======
+# Ombrophila subaurea Cooke SPECIES
 
 #### Status
 ACCEPTED

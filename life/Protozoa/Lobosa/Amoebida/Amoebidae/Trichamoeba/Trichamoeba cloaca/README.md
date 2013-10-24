@@ -1,5 +1,4 @@
-Trichamoeba cloaca SPECIES
-=======
+# Trichamoeba cloaca SPECIES
 
 #### Status
 ACCEPTED

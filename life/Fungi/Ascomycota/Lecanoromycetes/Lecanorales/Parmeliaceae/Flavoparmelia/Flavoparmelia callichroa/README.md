@@ -1,5 +1,4 @@
-Flavoparmelia callichroa (Kurok.) Hale SPECIES
-=======
+# Flavoparmelia callichroa (Kurok.) Hale SPECIES
 
 #### Status
 ACCEPTED

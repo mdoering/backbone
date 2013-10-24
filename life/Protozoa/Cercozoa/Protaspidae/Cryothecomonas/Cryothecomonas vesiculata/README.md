@@ -1,5 +1,4 @@
-Cryothecomonas vesiculata Thomsen, Buck, Bolt & Garrison, 1991 SPECIES
-=======
+# Cryothecomonas vesiculata Thomsen, Buck, Bolt & Garrison, 1991 SPECIES
 
 #### Status
 ACCEPTED

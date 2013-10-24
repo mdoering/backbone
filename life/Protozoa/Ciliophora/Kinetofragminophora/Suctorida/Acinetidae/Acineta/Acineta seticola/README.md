@@ -1,5 +1,4 @@
-Acineta seticola SPECIES
-=======
+# Acineta seticola SPECIES
 
 #### Status
 ACCEPTED

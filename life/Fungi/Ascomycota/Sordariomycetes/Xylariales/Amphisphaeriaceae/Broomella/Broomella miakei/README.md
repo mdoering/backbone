@@ -1,5 +1,4 @@
-Broomella miakei I. Hino & Katum. SPECIES
-=======
+# Broomella miakei I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

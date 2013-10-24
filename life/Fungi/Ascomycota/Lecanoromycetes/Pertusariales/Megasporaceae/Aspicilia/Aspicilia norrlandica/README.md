@@ -1,5 +1,4 @@
-Aspicilia norrlandica (H. Magn.) Motyka SPECIES
-=======
+# Aspicilia norrlandica (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium oleae Henn. SPECIES
-=======
+# Aecidium oleae Henn. SPECIES
 
 #### Status
 ACCEPTED

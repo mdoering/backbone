@@ -1,5 +1,4 @@
-Helminthosporium speculiferum Ellis & Everh. SPECIES
-=======
+# Helminthosporium speculiferum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

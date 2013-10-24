@@ -1,5 +1,4 @@
-Phoma bellidis Neerg., 1950 SPECIES
-=======
+# Phoma bellidis Neerg., 1950 SPECIES
 
 #### Status
 ACCEPTED

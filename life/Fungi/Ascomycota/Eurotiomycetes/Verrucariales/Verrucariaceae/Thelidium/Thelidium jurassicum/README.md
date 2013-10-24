@@ -1,5 +1,4 @@
-Thelidium jurassicum Zschacke SPECIES
-=======
+# Thelidium jurassicum Zschacke SPECIES
 
 #### Status
 ACCEPTED

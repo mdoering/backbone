@@ -1,5 +1,4 @@
-Diporicellaesporites chitaleyae Kalgutkar SPECIES
-=======
+# Diporicellaesporites chitaleyae Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

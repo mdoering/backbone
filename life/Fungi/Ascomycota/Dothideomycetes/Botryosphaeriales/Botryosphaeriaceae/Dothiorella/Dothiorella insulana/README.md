@@ -1,5 +1,4 @@
-Dothiorella insulana (Sacc.) Petr. & Syd. SPECIES
-=======
+# Dothiorella insulana (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

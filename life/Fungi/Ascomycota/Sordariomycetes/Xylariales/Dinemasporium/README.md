@@ -1,17 +1,16 @@
-Dendrophoma Saccardo, 1880 GENUS
-=======
+# Dinemasporium Lév. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 5: 274 (1846)
 
 #### Original name
-null
+Dinemasporium Lév.
 
 ### Remarks
 null

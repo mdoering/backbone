@@ -1,5 +1,4 @@
-Passalora rubida Crous, Alfenas & R.W. Barreto SPECIES
-=======
+# Passalora rubida Crous, Alfenas & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

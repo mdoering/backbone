@@ -1,17 +1,16 @@
-Gyrophora polyrrhiza f. polyrrhiza FORM
-=======
+# Gyrophora polyrrhiza SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Gyrophora polyrrhiza f. polyrrhiza
+null
 
 ### Remarks
 null

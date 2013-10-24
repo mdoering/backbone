@@ -1,5 +1,4 @@
-Haematomma parda Aptroot SPECIES
-=======
+# Haematomma parda Aptroot SPECIES
 
 #### Status
 ACCEPTED

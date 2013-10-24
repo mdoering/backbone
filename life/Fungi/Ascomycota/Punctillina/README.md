@@ -1,5 +1,4 @@
-Punctillina Toro GENUS
-=======
+# Punctillina Toro GENUS
 
 #### Status
 ACCEPTED

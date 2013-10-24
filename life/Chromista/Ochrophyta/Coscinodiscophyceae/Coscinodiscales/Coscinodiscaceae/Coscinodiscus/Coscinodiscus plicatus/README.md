@@ -1,5 +1,4 @@
-Coscinodiscus plicatus Grunow SPECIES
-=======
+# Coscinodiscus plicatus Grunow SPECIES
 
 #### Status
 ACCEPTED

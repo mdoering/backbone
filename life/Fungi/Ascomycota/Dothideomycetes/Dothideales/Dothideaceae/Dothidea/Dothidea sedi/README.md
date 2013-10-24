@@ -1,5 +1,4 @@
-Dothidea sedi De Not. SPECIES
-=======
+# Dothidea sedi De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis ramigera Redinger SPECIES
-=======
+# Phaeographis ramigera Redinger SPECIES
 
 #### Status
 ACCEPTED

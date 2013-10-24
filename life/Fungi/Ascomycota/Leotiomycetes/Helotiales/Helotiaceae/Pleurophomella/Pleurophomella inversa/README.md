@@ -1,5 +1,4 @@
-Pleurophomella inversa (Fr.) Höhn. SPECIES
-=======
+# Pleurophomella inversa (Fr.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

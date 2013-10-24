@@ -1,5 +1,4 @@
-Parmelia chrysochroa Mont. SPECIES
-=======
+# Parmelia chrysochroa Mont. SPECIES
 
 #### Status
 ACCEPTED

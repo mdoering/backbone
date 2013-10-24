@@ -1,5 +1,4 @@
-Agaricus bivelatoides Murrill SPECIES
-=======
+# Agaricus bivelatoides Murrill SPECIES
 
 #### Status
 ACCEPTED

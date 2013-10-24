@@ -1,5 +1,4 @@
-Diplodia eustaga Tassi SPECIES
-=======
+# Diplodia eustaga Tassi SPECIES
 
 #### Status
 ACCEPTED

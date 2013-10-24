@@ -1,5 +1,4 @@
-Diploschistes muscorum subsp. muscorum (Scop.) R. Sant. SUBSPECIES
-=======
+# Diploschistes muscorum (Scop.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

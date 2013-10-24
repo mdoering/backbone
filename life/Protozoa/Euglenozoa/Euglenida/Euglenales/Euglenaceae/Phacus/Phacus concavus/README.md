@@ -1,5 +1,4 @@
-Phacus concavus Hortobagy SPECIES
-=======
+# Phacus concavus Hortobagy SPECIES
 
 #### Status
 ACCEPTED

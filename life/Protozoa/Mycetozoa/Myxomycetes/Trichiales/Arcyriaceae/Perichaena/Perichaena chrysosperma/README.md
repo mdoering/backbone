@@ -1,17 +1,16 @@
-Perichaena chrysosperma wrightii (Berk. & M.A. Curtis) Torrend, 1908 INFRASPECIFIC_NAME
-=======
+# Perichaena chrysosperma (Curr.) Lister, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Mycetozoa (London) 196 (1894)
 
 #### Original name
-null
+Ophiotheca chrysosperma Curr., 1854
 
 ### Remarks
 null

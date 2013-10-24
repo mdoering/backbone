@@ -1,5 +1,4 @@
-Hendersonia caricis-pilosae Petr. SPECIES
-=======
+# Hendersonia caricis-pilosae Petr. SPECIES
 
 #### Status
 ACCEPTED

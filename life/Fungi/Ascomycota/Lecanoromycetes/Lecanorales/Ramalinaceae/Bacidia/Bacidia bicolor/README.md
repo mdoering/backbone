@@ -1,5 +1,4 @@
-Bacidia bicolor Vain. SPECIES
-=======
+# Bacidia bicolor Vain. SPECIES
 
 #### Status
 ACCEPTED

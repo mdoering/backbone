@@ -1,5 +1,4 @@
-Phialomyces fusiformis G. Delgado & Decock SPECIES
-=======
+# Phialomyces fusiformis G. Delgado & Decock SPECIES
 
 #### Status
 ACCEPTED

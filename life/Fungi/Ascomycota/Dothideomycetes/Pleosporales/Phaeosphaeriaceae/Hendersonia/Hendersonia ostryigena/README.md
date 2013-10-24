@@ -1,5 +1,4 @@
-Hendersonia ostryigena Ellis & Dearn. SPECIES
-=======
+# Hendersonia ostryigena Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

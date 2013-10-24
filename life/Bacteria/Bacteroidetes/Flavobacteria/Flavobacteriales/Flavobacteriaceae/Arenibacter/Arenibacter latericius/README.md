@@ -1,5 +1,4 @@
-Arenibacter latericius Ivanova et al., 2001 SPECIES
-=======
+# Arenibacter latericius Ivanova et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

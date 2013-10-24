@@ -1,5 +1,4 @@
-Coprinus frustulorum Sacc. SPECIES
-=======
+# Coprinus frustulorum Sacc. SPECIES
 
 #### Status
 ACCEPTED

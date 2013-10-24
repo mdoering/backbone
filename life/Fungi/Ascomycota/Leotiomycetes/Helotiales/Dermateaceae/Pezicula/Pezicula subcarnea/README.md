@@ -1,5 +1,4 @@
-Pezicula subcarnea J.W. Groves, 1941 SPECIES
-=======
+# Pezicula subcarnea J.W. Groves, 1941 SPECIES
 
 #### Status
 ACCEPTED

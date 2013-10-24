@@ -1,5 +1,4 @@
-Mycosphaerellopsis GENUS
-=======
+# Mycosphaerellopsis GENUS
 
 #### Status
 ACCEPTED

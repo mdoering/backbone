@@ -1,5 +1,4 @@
-Entoloma rickenii (Romagn.) Courtec. SPECIES
-=======
+# Entoloma rickenii (Romagn.) Courtec. SPECIES
 
 #### Status
 ACCEPTED

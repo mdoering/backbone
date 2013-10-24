@@ -1,5 +1,4 @@
-Limacella subfurnacea Contu SPECIES
-=======
+# Limacella subfurnacea Contu SPECIES
 
 #### Status
 ACCEPTED

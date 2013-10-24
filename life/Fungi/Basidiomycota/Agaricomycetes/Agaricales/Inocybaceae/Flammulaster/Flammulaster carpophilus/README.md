@@ -1,5 +1,4 @@
-Flammulaster carpophilus var. carpophilus VARIETY
-=======
+# Flammulaster carpophilus (Fr.) Earle SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the New York Botanical Garden 5: 435 (1909)
+null
 
 #### Original name
-Agaricus carpophilus Fr., 1815
+null
 
 ### Remarks
 null

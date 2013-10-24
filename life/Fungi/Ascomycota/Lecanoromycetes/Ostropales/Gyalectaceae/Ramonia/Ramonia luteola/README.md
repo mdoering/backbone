@@ -1,5 +1,4 @@
-Ramonia luteola Vezda SPECIES
-=======
+# Ramonia luteola Vezda SPECIES
 
 #### Status
 ACCEPTED

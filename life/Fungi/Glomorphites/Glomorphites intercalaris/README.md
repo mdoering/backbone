@@ -1,5 +1,4 @@
-Glomorphites intercalaris García Mass. SPECIES
-=======
+# Glomorphites intercalaris García Mass. SPECIES
 
 #### Status
 ACCEPTED

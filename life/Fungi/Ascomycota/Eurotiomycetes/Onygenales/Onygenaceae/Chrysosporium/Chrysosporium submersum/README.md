@@ -1,5 +1,4 @@
-Chrysosporium submersum P. Vidal & Guarro SPECIES
-=======
+# Chrysosporium submersum P. Vidal & Guarro SPECIES
 
 #### Status
 ACCEPTED

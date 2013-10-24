@@ -1,5 +1,4 @@
-Aspicilia mazarina (Wahlenb.) R. Sant. SPECIES
-=======
+# Aspicilia mazarina (Wahlenb.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

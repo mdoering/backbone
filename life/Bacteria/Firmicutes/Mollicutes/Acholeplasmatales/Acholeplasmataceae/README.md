@@ -1,5 +1,4 @@
-Acholeplasmataceae FAMILY
-=======
+# Acholeplasmataceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cryptodidymosphaeria subgen. Rehm von Höhnel, 1917 GENUS
-=======
+# Didymosphaeria Fuckel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 23-24: 140 (1870)
 
 #### Original name
-null
+Didymosphaeria Fuckel
 
 ### Remarks
 null

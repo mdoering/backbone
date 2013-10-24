@@ -1,5 +1,4 @@
-Lejeunia Gerlach, 1961 GENUS
-=======
+# Lejeunia Gerlach, 1961 GENUS
 
 #### Status
 ACCEPTED

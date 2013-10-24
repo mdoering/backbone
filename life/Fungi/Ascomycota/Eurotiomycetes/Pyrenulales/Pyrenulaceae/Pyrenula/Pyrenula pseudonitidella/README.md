@@ -1,5 +1,4 @@
-Pyrenula pseudonitidella (C. Knight) D.J. Galloway SPECIES
-=======
+# Pyrenula pseudonitidella (C. Knight) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

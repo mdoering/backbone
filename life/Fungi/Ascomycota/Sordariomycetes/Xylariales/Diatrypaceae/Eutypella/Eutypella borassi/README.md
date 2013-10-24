@@ -1,17 +1,16 @@
-Eutypella borassusae R.C. Rajak, A.K. Pandey & G.P. Agarwal SPECIES
-=======
+# Eutypella borassi R.C. Rajak, A.K. Pandey & G.P. Agarwal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. natn. Acad. Sci. India, Sect. B, Biol. Sci. 58(3): 419 (1988)
 
 #### Original name
-Eutypella borassusae R.C. Rajak, A.K. Pandey & G.P. Agarwal
+Eutypella borassi R.C. Rajak, A.K. Pandey & G.P. Agarwal
 
 ### Remarks
 null

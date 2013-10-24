@@ -1,5 +1,4 @@
-Gloeosporiopsis GENUS
-=======
+# Gloeosporiopsis GENUS
 
 #### Status
 ACCEPTED

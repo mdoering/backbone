@@ -1,14 +1,13 @@
-Sphaerella mariae Sacc. & E. Bommer, 1885 SPECIES
-=======
+# Mycosphaerella mariae (Sacc. & E. Bommer) Lindau, 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hilfsbuch fur das Sammeln der Ascomyceten (Berlin) 37 (1903)
 
 #### Original name
 Sphaerella mariae Sacc. & E. Bommer, 1885

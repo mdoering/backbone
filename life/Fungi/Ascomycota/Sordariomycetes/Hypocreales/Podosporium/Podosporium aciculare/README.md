@@ -1,5 +1,4 @@
-Podosporium aciculare Sacc. & Paol. SPECIES
-=======
+# Podosporium aciculare Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

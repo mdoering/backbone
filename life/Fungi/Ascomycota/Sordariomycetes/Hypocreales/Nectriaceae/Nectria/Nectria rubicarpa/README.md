@@ -1,5 +1,4 @@
-Nectria rubicarpa Cooke SPECIES
-=======
+# Nectria rubicarpa Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyanisticta epiflavoides Gyeln. SPECIES
-=======
+# Cyanisticta epiflavoides Gyeln. SPECIES
 
 #### Status
 ACCEPTED

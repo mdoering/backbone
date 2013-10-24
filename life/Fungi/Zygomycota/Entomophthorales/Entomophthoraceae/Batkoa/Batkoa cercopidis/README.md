@@ -1,14 +1,13 @@
-Conidiobolus cercopidis S. Keller, 1994 SPECIES
-=======
+# Batkoa cercopidis (S. Keller) B. Huang, Humber & K.T. Hodge, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 46(1): 41 (1994)
+Mycotaxon 100: 231 (2007)
 
 #### Original name
 Conidiobolus cercopidis S. Keller, 1994

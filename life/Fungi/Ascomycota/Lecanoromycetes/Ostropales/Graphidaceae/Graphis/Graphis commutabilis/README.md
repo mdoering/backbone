@@ -1,5 +1,4 @@
-Graphis commutabilis Kremp. SPECIES
-=======
+# Graphis commutabilis Kremp. SPECIES
 
 #### Status
 ACCEPTED

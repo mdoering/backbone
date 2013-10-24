@@ -1,5 +1,4 @@
-Plagiophiale proteae Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Plagiophiale proteae Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

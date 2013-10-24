@@ -1,5 +1,4 @@
-Stephanodiscus yukonensis H. J. Kling SPECIES
-=======
+# Stephanodiscus yukonensis H. J. Kling SPECIES
 
 #### Status
 ACCEPTED

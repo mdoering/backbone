@@ -1,5 +1,4 @@
-Phyllachora leptostromoidea Cooke, 1885 SPECIES
-=======
+# Phyllachora leptostromoidea Cooke, 1885 SPECIES
 
 #### Status
 DOUBTFUL

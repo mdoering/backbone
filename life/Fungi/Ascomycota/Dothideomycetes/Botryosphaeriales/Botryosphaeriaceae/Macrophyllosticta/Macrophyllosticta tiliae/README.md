@@ -1,5 +1,4 @@
-Macrophyllosticta tiliae Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta tiliae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia pasqualinii Werner SPECIES
-=======
+# Bacidia pasqualinii Werner SPECIES
 
 #### Status
 ACCEPTED

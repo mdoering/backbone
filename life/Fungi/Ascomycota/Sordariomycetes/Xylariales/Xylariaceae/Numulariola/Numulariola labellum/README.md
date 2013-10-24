@@ -1,5 +1,4 @@
-Numulariola labellum (Mont.) P.M.D. Martin SPECIES
-=======
+# Numulariola labellum (Mont.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

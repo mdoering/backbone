@@ -1,5 +1,4 @@
-Dicaeoma suksdorfii (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma suksdorfii (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

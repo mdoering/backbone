@@ -1,5 +1,4 @@
-Phoma navicularis Pass. SPECIES
-=======
+# Phoma navicularis Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca ameliensis (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca ameliensis (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

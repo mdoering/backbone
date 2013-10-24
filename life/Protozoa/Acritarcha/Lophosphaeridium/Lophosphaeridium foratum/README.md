@@ -1,5 +1,4 @@
-Lophosphaeridium foratum Hu Yunxu, 1986 SPECIES
-=======
+# Lophosphaeridium foratum Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatea mycophaga Massee SPECIES
-=======
+# Dermatea mycophaga Massee SPECIES
 
 #### Status
 ACCEPTED

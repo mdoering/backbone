@@ -1,5 +1,4 @@
-Cercospora dalbergiae S.H. Sun SPECIES
-=======
+# Cercospora dalbergiae S.H. Sun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus mongolicus (Pilát) Y.C. Dai SPECIES
-=======
+# Polyporus mongolicus (Pilát) Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

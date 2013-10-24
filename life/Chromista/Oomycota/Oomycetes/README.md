@@ -1,5 +1,4 @@
-Oomycetes G. Winter CLASS
-=======
+# Oomycetes G. Winter CLASS
 
 #### Status
 ACCEPTED

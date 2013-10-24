@@ -1,5 +1,4 @@
-Cercospora datiscicola Esfand. SPECIES
-=======
+# Cercospora datiscicola Esfand. SPECIES
 
 #### Status
 ACCEPTED

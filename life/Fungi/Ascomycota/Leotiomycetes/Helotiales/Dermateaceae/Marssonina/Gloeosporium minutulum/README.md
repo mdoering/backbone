@@ -1,5 +1,4 @@
-Gloeosporium minutulum Briosi & Cavara SPECIES
-=======
+# Gloeosporium minutulum Briosi & Cavara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea parmastoi Overton SPECIES
-=======
+# Hypocrea parmastoi Overton SPECIES
 
 #### Status
 ACCEPTED

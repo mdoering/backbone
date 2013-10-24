@@ -1,5 +1,4 @@
-Raphidozoum GENUS
-=======
+# Raphidozoum GENUS
 
 #### Status
 ACCEPTED

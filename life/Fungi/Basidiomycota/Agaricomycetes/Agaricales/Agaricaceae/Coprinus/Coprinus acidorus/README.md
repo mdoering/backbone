@@ -1,5 +1,4 @@
-Coprinus acidorus Raithelh. SPECIES
-=======
+# Coprinus acidorus Raithelh. SPECIES
 
 #### Status
 ACCEPTED

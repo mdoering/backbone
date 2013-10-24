@@ -1,5 +1,4 @@
-Colpodidium microstoma Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Colpodidium microstoma Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

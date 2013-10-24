@@ -1,5 +1,4 @@
-Mycosphaerella retinosporae (Berl. & Bres.) Magnus SPECIES
-=======
+# Mycosphaerella retinosporae (Berl. & Bres.) Magnus SPECIES
 
 #### Status
 ACCEPTED

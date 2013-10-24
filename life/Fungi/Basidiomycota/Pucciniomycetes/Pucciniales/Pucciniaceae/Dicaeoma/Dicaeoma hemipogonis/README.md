@@ -1,5 +1,4 @@
-Dicaeoma hemipogonis (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma hemipogonis (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

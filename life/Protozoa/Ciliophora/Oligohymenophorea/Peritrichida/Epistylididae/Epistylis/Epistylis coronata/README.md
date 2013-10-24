@@ -1,5 +1,4 @@
-Epistylis coronata Nusch, 1970 SPECIES
-=======
+# Epistylis coronata Nusch, 1970 SPECIES
 
 #### Status
 ACCEPTED

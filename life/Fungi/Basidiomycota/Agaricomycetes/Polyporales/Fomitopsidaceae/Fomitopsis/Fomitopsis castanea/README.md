@@ -1,14 +1,13 @@
-Nigroporus castaneus (Imazeki) Ryvarden, 1986 SPECIES
-=======
+# Fomitopsis castanea Imazeki, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Ryvarden, Xu & Zhao, Acta Mycol. Sin. 5(4): 228 (1986)
+Bull. Gov. Forest Exp. St. Tokyo 42: 1 (1949)
 
 #### Original name
 Fomitopsis castanea Imazeki, 1949

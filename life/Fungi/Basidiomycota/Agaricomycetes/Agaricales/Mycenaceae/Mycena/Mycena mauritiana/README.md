@@ -1,5 +1,4 @@
-Mycena mauritiana Robich & Hauskn. SPECIES
-=======
+# Mycena mauritiana Robich & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

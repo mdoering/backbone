@@ -1,17 +1,16 @@
-Puccinia lagasceae Speg., 1909 SPECIES
-=======
+# Puccinia noccae Arthur, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Gaz. 40: 202 (1905)
 
 #### Original name
-null
+Puccinia noccae Arthur, 1905
 
 ### Remarks
 null

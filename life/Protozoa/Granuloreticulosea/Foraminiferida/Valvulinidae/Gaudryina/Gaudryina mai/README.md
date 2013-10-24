@@ -1,5 +1,4 @@
-Gaudryina mai Huang SPECIES
-=======
+# Gaudryina mai Huang SPECIES
 
 #### Status
 ACCEPTED

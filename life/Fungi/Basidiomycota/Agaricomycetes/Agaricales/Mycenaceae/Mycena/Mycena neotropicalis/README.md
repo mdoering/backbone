@@ -1,5 +1,4 @@
-Mycena neotropicalis Singer SPECIES
-=======
+# Mycena neotropicalis Singer SPECIES
 
 #### Status
 ACCEPTED

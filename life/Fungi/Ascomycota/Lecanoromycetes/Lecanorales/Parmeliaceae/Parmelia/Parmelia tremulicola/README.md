@@ -1,5 +1,4 @@
-Parmelia tremulicola SPECIES
-=======
+# Parmelia tremulicola SPECIES
 
 #### Status
 ACCEPTED

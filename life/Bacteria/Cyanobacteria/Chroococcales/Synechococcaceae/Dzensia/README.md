@@ -1,5 +1,4 @@
-Dzensia Voronichin, 1929 GENUS
-=======
+# Dzensia Voronichin, 1929 GENUS
 
 #### Status
 ACCEPTED

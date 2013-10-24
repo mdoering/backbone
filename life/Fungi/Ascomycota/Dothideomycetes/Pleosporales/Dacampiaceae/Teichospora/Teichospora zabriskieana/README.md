@@ -1,5 +1,4 @@
-Teichospora zabriskieana (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Teichospora zabriskieana (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

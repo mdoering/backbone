@@ -1,5 +1,4 @@
-Bispora effusa Peck, 1891 SPECIES
-=======
+# Bispora effusa Peck, 1891 SPECIES
 
 #### Status
 ACCEPTED

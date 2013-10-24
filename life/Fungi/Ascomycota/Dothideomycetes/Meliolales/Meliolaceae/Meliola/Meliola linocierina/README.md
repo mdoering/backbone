@@ -1,5 +1,4 @@
-Meliola linocierina Hansf. SPECIES
-=======
+# Meliola linocierina Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusidium aureum Link SPECIES
-=======
+# Fusidium aureum Link SPECIES
 
 #### Status
 ACCEPTED

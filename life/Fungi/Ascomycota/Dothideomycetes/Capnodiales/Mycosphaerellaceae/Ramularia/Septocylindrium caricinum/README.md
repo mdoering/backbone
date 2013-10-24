@@ -1,5 +1,4 @@
-Septocylindrium caricinum Sacc. SPECIES
-=======
+# Septocylindrium caricinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

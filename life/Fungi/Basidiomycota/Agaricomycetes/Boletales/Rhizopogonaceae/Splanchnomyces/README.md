@@ -1,5 +1,4 @@
-Splanchnomyces GENUS
-=======
+# Splanchnomyces GENUS
 
 #### Status
 ACCEPTED

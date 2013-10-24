@@ -1,5 +1,4 @@
-Lecanora carneoflava Müll. Arg. SPECIES
-=======
+# Lecanora carneoflava Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

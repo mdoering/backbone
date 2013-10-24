@@ -1,5 +1,4 @@
-Holosticha vernalis Stokes, 1887 SPECIES
-=======
+# Holosticha vernalis Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

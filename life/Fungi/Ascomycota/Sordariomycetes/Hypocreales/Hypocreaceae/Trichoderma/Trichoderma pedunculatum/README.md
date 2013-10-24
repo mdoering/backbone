@@ -1,5 +1,4 @@
-Trichoderma pedunculatum Schumach. SPECIES
-=======
+# Trichoderma pedunculatum Schumach. SPECIES
 
 #### Status
 ACCEPTED

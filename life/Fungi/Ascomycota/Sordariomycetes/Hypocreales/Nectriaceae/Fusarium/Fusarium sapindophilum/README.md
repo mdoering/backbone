@@ -1,5 +1,4 @@
-Fusarium sapindophilum Speg. SPECIES
-=======
+# Fusarium sapindophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascoglena vaginicola Stein SPECIES
-=======
+# Ascoglena vaginicola Stein SPECIES
 
 #### Status
 ACCEPTED

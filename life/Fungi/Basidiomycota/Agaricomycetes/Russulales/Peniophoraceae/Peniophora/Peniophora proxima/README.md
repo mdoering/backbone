@@ -1,5 +1,4 @@
-Peniophora proxima Bres., 1913 SPECIES
-=======
+# Peniophora proxima Bres., 1913 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tulasnella violacea var. violacea VARIETY
-=======
+# Tulasnella pallida Bres., 1903 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 23(no. 10): 22 (1897)
+Annls mycol. 1(1/2): 122 (1903)
 
 #### Original name
-Tulasnella violacea var. violacea
+Tulasnella pallida Bres., 1903
 
 ### Remarks
 null

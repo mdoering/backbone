@@ -1,5 +1,4 @@
-Lichen glaucescens Ach. SPECIES
-=======
+# Lichen glaucescens Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria ornithogali Gucevic SPECIES
-=======
+# Leptosphaeria ornithogali Gucevic SPECIES
 
 #### Status
 ACCEPTED

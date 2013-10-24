@@ -1,5 +1,4 @@
-Mycosphaerella sapindicola Pai {?} SPECIES
-=======
+# Mycosphaerella sapindicola Pai {?} SPECIES
 
 #### Status
 ACCEPTED

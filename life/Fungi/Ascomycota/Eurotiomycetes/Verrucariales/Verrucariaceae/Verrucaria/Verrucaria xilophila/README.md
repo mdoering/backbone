@@ -1,5 +1,4 @@
-Verrucaria xilophila Croz. SPECIES
-=======
+# Verrucaria xilophila Croz. SPECIES
 
 #### Status
 ACCEPTED

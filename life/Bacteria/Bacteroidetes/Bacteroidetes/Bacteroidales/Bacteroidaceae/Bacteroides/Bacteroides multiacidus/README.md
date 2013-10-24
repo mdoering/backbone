@@ -1,5 +1,4 @@
-Bacteroides multiacidus Mitsuoka et al., 1974 SPECIES
-=======
+# Bacteroides multiacidus Mitsuoka et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria jahnii Syd., 1930 SPECIES
-=======
+# Septoria jahnii Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

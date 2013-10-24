@@ -1,5 +1,4 @@
-Russula pudorina McNabb, 1973 SPECIES
-=======
+# Russula pudorina McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

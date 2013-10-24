@@ -1,5 +1,4 @@
-Hebeloma apolectum (Britzelm.) Sacc. SPECIES
-=======
+# Hebeloma apolectum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

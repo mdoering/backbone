@@ -1,5 +1,4 @@
-Tricholoma cookeanum Bertault & Malençon SPECIES
-=======
+# Tricholoma cookeanum Bertault & Malençon SPECIES
 
 #### Status
 ACCEPTED

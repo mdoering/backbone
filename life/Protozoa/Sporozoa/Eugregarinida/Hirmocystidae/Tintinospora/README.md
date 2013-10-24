@@ -1,5 +1,4 @@
-Tintinospora Hoshide, 1959 GENUS
-=======
+# Tintinospora Hoshide, 1959 GENUS
 
 #### Status
 ACCEPTED

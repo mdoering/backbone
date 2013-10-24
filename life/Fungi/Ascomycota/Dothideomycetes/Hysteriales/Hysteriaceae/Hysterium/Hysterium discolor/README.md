@@ -1,5 +1,4 @@
-Hysterium discolor Speg. SPECIES
-=======
+# Hysterium discolor Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heteropera biennis (Dearn.) Arx & E. Müll. SPECIES
-=======
+# Heteropera biennis (Dearn.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

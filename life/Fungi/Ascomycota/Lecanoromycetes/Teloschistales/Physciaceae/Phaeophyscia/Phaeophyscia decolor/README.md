@@ -1,5 +1,4 @@
-Phaeophyscia decolor (Kashiw.) Essl. SPECIES
-=======
+# Phaeophyscia decolor (Kashiw.) Essl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euglena fundoversata L. P. Johnson SPECIES
-=======
+# Euglena fundoversata L. P. Johnson SPECIES
 
 #### Status
 ACCEPTED

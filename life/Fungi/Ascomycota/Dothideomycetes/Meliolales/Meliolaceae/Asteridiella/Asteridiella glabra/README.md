@@ -1,5 +1,4 @@
-Asteridiella glabra var. glabra VARIETY
-=======
+# Asteridiella glabra (Berk. & M.A. Curtis) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 577 (1961)
 
 #### Original name
-Asteridiella glabra var. glabra
+Meliola glabra Berk. & M.A. Curtis
 
 ### Remarks
 null

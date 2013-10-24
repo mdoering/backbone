@@ -1,5 +1,4 @@
-Pestalotia fuchsiae Thüm. SPECIES
-=======
+# Pestalotia fuchsiae Thüm. SPECIES
 
 #### Status
 ACCEPTED

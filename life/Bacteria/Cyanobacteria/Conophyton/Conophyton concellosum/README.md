@@ -1,5 +1,4 @@
-Conophyton concellosum Y. Z. Liang & R. C. Tsao SPECIES
-=======
+# Conophyton concellosum Y. Z. Liang & R. C. Tsao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Indosphaera bhujensis A. Kumar SPECIES
-=======
+# Indosphaera bhujensis A. Kumar SPECIES
 
 #### Status
 ACCEPTED

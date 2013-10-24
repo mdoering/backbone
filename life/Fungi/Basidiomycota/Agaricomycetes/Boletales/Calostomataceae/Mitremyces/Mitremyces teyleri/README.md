@@ -1,5 +1,4 @@
-Mitremyces teyleri Lloyd SPECIES
-=======
+# Mitremyces teyleri Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma vernale Velen. SPECIES
-=======
+# Tricholoma vernale Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca venenata (G.F. Atk.) Murrill SPECIES
-=======
+# Melanoleuca venenata (G.F. Atk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

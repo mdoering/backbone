@@ -1,5 +1,4 @@
-Verrucaria amylophora Lettau SPECIES
-=======
+# Verrucaria amylophora Lettau SPECIES
 
 #### Status
 ACCEPTED

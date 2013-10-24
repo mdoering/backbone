@@ -1,5 +1,4 @@
-Bicricium transversum Sorokin SPECIES
-=======
+# Bicricium transversum Sorokin SPECIES
 
 #### Status
 ACCEPTED

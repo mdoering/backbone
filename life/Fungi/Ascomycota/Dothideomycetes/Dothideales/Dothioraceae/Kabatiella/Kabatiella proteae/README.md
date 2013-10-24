@@ -1,5 +1,4 @@
-Kabatiella proteae Joanne E. Taylor & Crous SPECIES
-=======
+# Kabatiella proteae Joanne E. Taylor & Crous SPECIES
 
 #### Status
 ACCEPTED

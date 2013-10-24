@@ -1,8 +1,7 @@
-Cryptopharynx mauritanicus Dragesco, 1965 SPECIES
-=======
+# Cryptopharynx mauritanicum Dragesco, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

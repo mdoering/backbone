@@ -1,17 +1,16 @@
-Sphaeria doliolum var. doliolum VARIETY
-=======
+# Leptosphaeria doliolum (Pers.) Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. Desc. Fung. Min. Cognit. (Leipzig) 2: 39 (1800)
+Comm. Soc. crittog. Ital. 1(4): 234 (1863)
 
 #### Original name
-Sphaeria doliolum var. doliolum
+Sphaeria doliolum Pers., 1800
 
 ### Remarks
 null

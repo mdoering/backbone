@@ -1,5 +1,4 @@
-Nectria lichenophila Speg. SPECIES
-=======
+# Nectria lichenophila Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota examinans Beck. {?} SPECIES
-=======
+# Pholiota examinans Beck. {?} SPECIES
 
 #### Status
 ACCEPTED

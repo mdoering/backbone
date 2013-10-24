@@ -1,5 +1,4 @@
-Cannartus Haeckel, 1881 GENUS
-=======
+# Cannartus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

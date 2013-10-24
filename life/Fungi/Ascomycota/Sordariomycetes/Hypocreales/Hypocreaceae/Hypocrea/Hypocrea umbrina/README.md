@@ -1,5 +1,4 @@
-Hypocrea umbrina Cooke SPECIES
-=======
+# Hypocrea umbrina Cooke SPECIES
 
 #### Status
 ACCEPTED

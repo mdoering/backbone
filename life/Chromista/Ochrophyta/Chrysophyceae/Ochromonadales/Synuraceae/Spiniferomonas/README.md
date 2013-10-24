@@ -1,5 +1,4 @@
-Spiniferomonas Takahashi, 1973 GENUS
-=======
+# Spiniferomonas Takahashi, 1973 GENUS
 
 #### Status
 ACCEPTED

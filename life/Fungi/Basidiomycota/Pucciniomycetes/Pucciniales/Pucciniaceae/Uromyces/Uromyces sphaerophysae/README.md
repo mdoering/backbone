@@ -1,5 +1,4 @@
-Uromyces sphaerophysae Pospelov ex Nevod. SPECIES
-=======
+# Uromyces sphaerophysae Pospelov ex Nevod. SPECIES
 
 #### Status
 ACCEPTED

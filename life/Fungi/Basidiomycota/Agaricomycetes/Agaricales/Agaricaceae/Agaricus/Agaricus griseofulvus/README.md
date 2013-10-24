@@ -1,5 +1,4 @@
-Agaricus griseofulvus Britzelm. SPECIES
-=======
+# Agaricus griseofulvus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

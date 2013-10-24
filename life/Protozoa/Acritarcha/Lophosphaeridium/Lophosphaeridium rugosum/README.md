@@ -1,5 +1,4 @@
-Lophosphaeridium rugosum Thusu, 1973 SPECIES
-=======
+# Lophosphaeridium rugosum Thusu, 1973 SPECIES
 
 #### Status
 ACCEPTED

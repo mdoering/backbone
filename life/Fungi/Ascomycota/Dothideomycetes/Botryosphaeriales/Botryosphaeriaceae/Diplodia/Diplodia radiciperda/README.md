@@ -1,5 +1,4 @@
-Diplodia radiciperda Thüm. SPECIES
-=======
+# Diplodia radiciperda Thüm. SPECIES
 
 #### Status
 ACCEPTED

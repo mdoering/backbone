@@ -1,5 +1,4 @@
-Lampterium Haeckel, 1881 GENUS
-=======
+# Lampterium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

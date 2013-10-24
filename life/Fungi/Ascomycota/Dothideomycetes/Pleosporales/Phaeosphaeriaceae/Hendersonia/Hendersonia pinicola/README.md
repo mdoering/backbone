@@ -1,5 +1,4 @@
-Hendersonia pinicola Wehm. SPECIES
-=======
+# Hendersonia pinicola Wehm. SPECIES
 
 #### Status
 ACCEPTED

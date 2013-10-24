@@ -1,5 +1,4 @@
-Biatora koskinenii Räsänen SPECIES
-=======
+# Biatora koskinenii Räsänen SPECIES
 
 #### Status
 ACCEPTED

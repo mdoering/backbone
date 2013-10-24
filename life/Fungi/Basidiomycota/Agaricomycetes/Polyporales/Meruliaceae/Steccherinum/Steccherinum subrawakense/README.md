@@ -1,5 +1,4 @@
-Steccherinum subrawakense Murrill SPECIES
-=======
+# Steccherinum subrawakense Murrill SPECIES
 
 #### Status
 ACCEPTED

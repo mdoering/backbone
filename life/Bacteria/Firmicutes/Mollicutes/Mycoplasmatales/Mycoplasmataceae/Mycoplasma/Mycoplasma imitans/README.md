@@ -1,5 +1,4 @@
-Mycoplasma imitans Bradbury et al., 1993 SPECIES
-=======
+# Mycoplasma imitans Bradbury et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

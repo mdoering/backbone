@@ -1,5 +1,4 @@
-Mycosphaerella dieffenbachiae (Gonz. Frag. & Cif.) Cif. SPECIES
-=======
+# Mycosphaerella dieffenbachiae (Gonz. Frag. & Cif.) Cif. SPECIES
 
 #### Status
 ACCEPTED

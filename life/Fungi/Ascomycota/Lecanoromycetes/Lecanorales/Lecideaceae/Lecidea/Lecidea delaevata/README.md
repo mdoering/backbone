@@ -1,5 +1,4 @@
-Lecidea delaevata Nyl. SPECIES
-=======
+# Lecidea delaevata Nyl. SPECIES
 
 #### Status
 ACCEPTED

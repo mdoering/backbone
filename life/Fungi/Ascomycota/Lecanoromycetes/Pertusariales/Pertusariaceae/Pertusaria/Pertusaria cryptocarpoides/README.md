@@ -1,5 +1,4 @@
-Pertusaria cryptocarpoides Vain. SPECIES
-=======
+# Pertusaria cryptocarpoides Vain. SPECIES
 
 #### Status
 ACCEPTED

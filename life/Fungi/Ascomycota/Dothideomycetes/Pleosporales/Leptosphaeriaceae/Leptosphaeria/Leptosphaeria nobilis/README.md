@@ -1,5 +1,4 @@
-Leptosphaeria nobilis Sacc. SPECIES
-=======
+# Leptosphaeria nobilis Sacc. SPECIES
 
 #### Status
 ACCEPTED

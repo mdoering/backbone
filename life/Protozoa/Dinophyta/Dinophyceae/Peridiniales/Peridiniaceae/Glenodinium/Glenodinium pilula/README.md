@@ -1,5 +1,4 @@
-Glenodinium pilula (Ostenfeld) Schiller SPECIES
-=======
+# Glenodinium pilula (Ostenfeld) Schiller SPECIES
 
 #### Status
 ACCEPTED

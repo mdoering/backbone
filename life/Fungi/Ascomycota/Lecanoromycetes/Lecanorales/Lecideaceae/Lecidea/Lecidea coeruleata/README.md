@@ -1,5 +1,4 @@
-Lecidea coeruleata Stizenb. SPECIES
-=======
+# Lecidea coeruleata Stizenb. SPECIES
 
 #### Status
 ACCEPTED

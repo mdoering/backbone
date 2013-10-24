@@ -1,5 +1,4 @@
-Lecanora subcrenulata Müll. Arg. SPECIES
-=======
+# Lecanora subcrenulata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania albaria Arnold SPECIES
-=======
+# Lecania albaria Arnold SPECIES
 
 #### Status
 ACCEPTED

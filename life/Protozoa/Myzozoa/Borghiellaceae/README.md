@@ -1,5 +1,4 @@
-Borghiellaceae FAMILY
-=======
+# Borghiellaceae FAMILY
 
 #### Status
 ACCEPTED

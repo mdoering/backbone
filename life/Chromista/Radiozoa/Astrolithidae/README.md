@@ -1,14 +1,13 @@
-Astrolithiidae FAMILY
-=======
+# Astrolithidae Haeckel, 1887 FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Haeckel, E. (1887). Report on the Radiolaria collected by H. M. S. Challenger during the years 1873-76. London: Eyre & Spottiswoode.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Callopisma americanum Malme SPECIES
-=======
+# Callopisma americanum Malme SPECIES
 
 #### Status
 ACCEPTED

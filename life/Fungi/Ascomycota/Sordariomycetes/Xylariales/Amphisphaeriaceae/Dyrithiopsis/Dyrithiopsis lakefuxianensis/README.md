@@ -1,5 +1,4 @@
-Dyrithiopsis lakefuxianensis L. Cai, Jeewon & K.D. Hyde, 2003 SPECIES
-=======
+# Dyrithiopsis lakefuxianensis L. Cai, Jeewon & K.D. Hyde, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora pallens Hepp SPECIES
-=======
+# Lecanora pallens Hepp SPECIES
 
 #### Status
 ACCEPTED

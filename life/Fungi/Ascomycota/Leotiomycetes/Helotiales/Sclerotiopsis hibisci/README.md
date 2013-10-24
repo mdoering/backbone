@@ -1,5 +1,4 @@
-Sclerotiopsis hibisci Zaprom. SPECIES
-=======
+# Sclerotiopsis hibisci Zaprom. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacellium volkartianum (Magnus) U. Braun SPECIES
-=======
+# Phacellium volkartianum (Magnus) U. Braun SPECIES
 
 #### Status
 ACCEPTED

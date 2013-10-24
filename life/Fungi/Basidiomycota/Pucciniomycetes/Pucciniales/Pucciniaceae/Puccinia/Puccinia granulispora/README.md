@@ -1,14 +1,13 @@
-Dicaeoma granulisporum (Ellis & Galloway) Kuntze, 1898 SPECIES
-=======
+# Puccinia granulispora Ellis & Galloway, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 469 (1898)
+Bull. Torrey bot. Club 22: 61 (1895)
 
 #### Original name
 Puccinia granulispora Ellis & Galloway, 1895

@@ -1,5 +1,4 @@
-Cercospora salicicola Sawada SPECIES
-=======
+# Cercospora salicicola Sawada SPECIES
 
 #### Status
 ACCEPTED

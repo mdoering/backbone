@@ -1,5 +1,4 @@
-Gymnocystodinium W.Baumeister, 1957 GENUS
-=======
+# Gymnocystodinium W.Baumeister, 1957 GENUS
 
 #### Status
 ACCEPTED

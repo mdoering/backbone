@@ -1,5 +1,4 @@
-Eucapsis starmachii J. Komárek & F. Hindák SPECIES
-=======
+# Eucapsis starmachii J. Komárek & F. Hindák SPECIES
 
 #### Status
 ACCEPTED

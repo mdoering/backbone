@@ -1,5 +1,4 @@
-Gordiospira fragilis Heron-Allen & Earland, 1932 SPECIES
-=======
+# Gordiospira fragilis Heron-Allen & Earland, 1932 SPECIES
 
 #### Status
 ACCEPTED

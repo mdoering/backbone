@@ -1,5 +1,4 @@
-Niptera mollisioides Rehm SPECIES
-=======
+# Niptera mollisioides Rehm SPECIES
 
 #### Status
 ACCEPTED

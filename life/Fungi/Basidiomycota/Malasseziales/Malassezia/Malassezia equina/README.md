@@ -1,5 +1,4 @@
-Malassezia equina J. Cabañes & Boekhout SPECIES
-=======
+# Malassezia equina J. Cabañes & Boekhout SPECIES
 
 #### Status
 ACCEPTED

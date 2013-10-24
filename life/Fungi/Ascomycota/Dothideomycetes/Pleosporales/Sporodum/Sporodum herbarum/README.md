@@ -1,5 +1,4 @@
-Sporodum herbarum Bonord. SPECIES
-=======
+# Sporodum herbarum Bonord. SPECIES
 
 #### Status
 ACCEPTED

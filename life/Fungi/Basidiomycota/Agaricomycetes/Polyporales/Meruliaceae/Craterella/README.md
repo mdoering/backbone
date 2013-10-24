@@ -1,5 +1,4 @@
-Craterella GENUS
-=======
+# Craterella GENUS
 
 #### Status
 ACCEPTED

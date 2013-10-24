@@ -1,5 +1,4 @@
-Trametes favolispora (Pilát) Pilát SPECIES
-=======
+# Trametes favolispora (Pilát) Pilát SPECIES
 
 #### Status
 ACCEPTED

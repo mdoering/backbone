@@ -1,5 +1,4 @@
-Streptomyces yokosukanensis Nakamura, 1961 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces yokosukanensis Nakamura, 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

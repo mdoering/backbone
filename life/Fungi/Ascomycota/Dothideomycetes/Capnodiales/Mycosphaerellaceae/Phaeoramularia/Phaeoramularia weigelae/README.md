@@ -1,5 +1,4 @@
-Phaeoramularia weigelae Y.L. Guo & X.J. Liu SPECIES
-=======
+# Phaeoramularia weigelae Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

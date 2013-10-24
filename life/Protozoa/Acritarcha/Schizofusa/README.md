@@ -1,5 +1,4 @@
-Schizofusa Yan, 1983 GENUS
-=======
+# Schizofusa Yan, 1983 GENUS
 
 #### Status
 ACCEPTED

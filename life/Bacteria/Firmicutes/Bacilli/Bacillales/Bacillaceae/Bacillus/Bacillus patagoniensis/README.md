@@ -1,5 +1,4 @@
-Bacillus patagoniensis Olivera et al., 2005 SPECIES
-=======
+# Bacillus patagoniensis Olivera et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

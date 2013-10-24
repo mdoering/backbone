@@ -1,5 +1,4 @@
-Polyporus scopolii Pers. SPECIES
-=======
+# Polyporus scopolii Pers. SPECIES
 
 #### Status
 ACCEPTED

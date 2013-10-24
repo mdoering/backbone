@@ -1,5 +1,4 @@
-Tilletia lolii Auersw., 1854 SPECIES
-=======
+# Tilletia lolii Auersw., 1854 SPECIES
 
 #### Status
 ACCEPTED

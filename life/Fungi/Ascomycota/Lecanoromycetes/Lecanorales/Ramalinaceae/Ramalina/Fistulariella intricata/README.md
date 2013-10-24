@@ -1,5 +1,4 @@
-Fistulariella intricata (Kremp.) Bowler & Rundel SPECIES
-=======
+# Fistulariella intricata (Kremp.) Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

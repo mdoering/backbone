@@ -1,5 +1,4 @@
-Striatorbina alveolata Sellier de Civrieux, 1991 SPECIES
-=======
+# Striatorbina alveolata Sellier de Civrieux, 1991 SPECIES
 
 #### Status
 ACCEPTED

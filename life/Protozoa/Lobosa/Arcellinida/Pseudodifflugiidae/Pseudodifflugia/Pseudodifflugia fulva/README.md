@@ -1,5 +1,4 @@
-Pseudodifflugia fulva (Arch.) SPECIES
-=======
+# Pseudodifflugia fulva (Arch.) SPECIES
 
 #### Status
 ACCEPTED

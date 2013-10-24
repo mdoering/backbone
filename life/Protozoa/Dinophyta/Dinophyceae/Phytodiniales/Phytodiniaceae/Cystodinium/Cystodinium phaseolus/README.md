@@ -1,8 +1,7 @@
-Cystodinium dimorphe (Baumeister) Huber-PeStalozzi SPECIES
-=======
+# Cystodinium phaseolus Pascher SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

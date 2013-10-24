@@ -1,5 +1,4 @@
-Schiffnerula alphitoniae (Syd.) S. Hughes SPECIES
-=======
+# Schiffnerula alphitoniae (Syd.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

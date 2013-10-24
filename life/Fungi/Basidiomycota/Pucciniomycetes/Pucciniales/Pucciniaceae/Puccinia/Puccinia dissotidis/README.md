@@ -1,5 +1,4 @@
-Puccinia dissotidis Henn. SPECIES
-=======
+# Puccinia dissotidis Henn. SPECIES
 
 #### Status
 ACCEPTED

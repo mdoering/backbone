@@ -1,5 +1,4 @@
-Sphaeria herculea Miq. SPECIES
-=======
+# Sphaeria herculea Miq. SPECIES
 
 #### Status
 ACCEPTED

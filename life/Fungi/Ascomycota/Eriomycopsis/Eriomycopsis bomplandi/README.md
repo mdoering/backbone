@@ -1,17 +1,16 @@
-Eriomycopsis bonplandi Speg. SPECIES
-=======
+# Eriomycopsis bomplandi Speg., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 20(13): 429 (1910)
 
 #### Original name
-Eriomycopsis bonplandi Speg.
+Eriomycopsis bomplandi Speg., 1910
 
 ### Remarks
 null

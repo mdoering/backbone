@@ -1,5 +1,4 @@
-Crepidotus parisotii (Pat.) Sacc. SPECIES
-=======
+# Crepidotus parisotii (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

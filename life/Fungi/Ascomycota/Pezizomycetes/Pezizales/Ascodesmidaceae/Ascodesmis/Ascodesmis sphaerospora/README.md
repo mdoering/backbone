@@ -1,5 +1,4 @@
-Ascodesmis sphaerospora W. Obrist, 1961 SPECIES
-=======
+# Ascodesmis sphaerospora W. Obrist, 1961 SPECIES
 
 #### Status
 ACCEPTED

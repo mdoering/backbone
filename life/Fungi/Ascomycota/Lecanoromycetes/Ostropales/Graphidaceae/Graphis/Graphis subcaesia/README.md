@@ -1,5 +1,4 @@
-Graphis subcaesia (Nyl.) Vain. SPECIES
-=======
+# Graphis subcaesia (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

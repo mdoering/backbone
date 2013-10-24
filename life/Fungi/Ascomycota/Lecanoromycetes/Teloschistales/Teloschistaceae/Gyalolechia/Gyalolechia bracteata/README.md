@@ -1,5 +1,4 @@
-Gyalolechia bracteata (Hoffm.) A. Massal. SPECIES
-=======
+# Gyalolechia bracteata (Hoffm.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

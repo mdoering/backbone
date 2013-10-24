@@ -1,5 +1,4 @@
-Alternaria hydrangeae (Thüm.) M.B. Ellis SPECIES
-=======
+# Alternaria hydrangeae (Thüm.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

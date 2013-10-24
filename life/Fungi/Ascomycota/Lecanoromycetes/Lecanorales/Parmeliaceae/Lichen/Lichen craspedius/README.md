@@ -1,5 +1,4 @@
-Lichen craspedius Ach. SPECIES
-=======
+# Lichen craspedius Ach. SPECIES
 
 #### Status
 ACCEPTED

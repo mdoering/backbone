@@ -1,5 +1,4 @@
-Chaenothecomyces GENUS
-=======
+# Chaenothecomyces GENUS
 
 #### Status
 ACCEPTED

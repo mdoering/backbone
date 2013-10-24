@@ -1,5 +1,4 @@
-Eiffellithus eximius (Stover, 1966) Perch-Nielsen, 1968 SPECIES
-=======
+# Eiffellithus eximius (Stover, 1966) Perch-Nielsen, 1968 SPECIES
 
 #### Status
 ACCEPTED

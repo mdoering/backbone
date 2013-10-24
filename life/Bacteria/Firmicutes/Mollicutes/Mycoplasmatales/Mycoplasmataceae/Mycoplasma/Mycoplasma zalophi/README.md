@@ -1,5 +1,4 @@
-Mycoplasma zalophi Haulena, Gulland, Lawrence, Fauquier, Jang, Aldridge, Spraker, Thomas, Brown, Wendland & Davidson, 2006 SPECIES
-=======
+# Mycoplasma zalophi Haulena, Gulland, Lawrence, Fauquier, Jang, Aldridge, Spraker, Thomas, Brown, Wendland & Davidson, 2006 SPECIES
 
 #### Status
 ACCEPTED

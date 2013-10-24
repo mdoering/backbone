@@ -1,5 +1,4 @@
-Tropidoscyphus F.Stein, 1878 GENUS
-=======
+# Tropidoscyphus F.Stein, 1878 GENUS
 
 #### Status
 ACCEPTED

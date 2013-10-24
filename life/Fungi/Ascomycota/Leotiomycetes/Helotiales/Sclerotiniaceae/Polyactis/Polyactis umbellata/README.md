@@ -1,5 +1,4 @@
-Polyactis umbellata (Bull.) Link SPECIES
-=======
+# Polyactis umbellata (Bull.) Link SPECIES
 
 #### Status
 ACCEPTED

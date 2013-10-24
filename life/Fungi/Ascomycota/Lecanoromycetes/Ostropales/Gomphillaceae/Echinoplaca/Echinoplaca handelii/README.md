@@ -1,5 +1,4 @@
-Echinoplaca handelii (Zahlbr.) Lücking SPECIES
-=======
+# Echinoplaca handelii (Zahlbr.) Lücking SPECIES
 
 #### Status
 ACCEPTED

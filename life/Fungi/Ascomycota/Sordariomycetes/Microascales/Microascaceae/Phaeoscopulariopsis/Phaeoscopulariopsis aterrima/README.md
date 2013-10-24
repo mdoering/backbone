@@ -1,5 +1,4 @@
-Phaeoscopulariopsis aterrima (Massee) Subram. SPECIES
-=======
+# Phaeoscopulariopsis aterrima (Massee) Subram. SPECIES
 
 #### Status
 ACCEPTED

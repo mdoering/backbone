@@ -1,5 +1,4 @@
-Ustilago strangulans Issatsch. SPECIES
-=======
+# Ustilago strangulans Issatsch. SPECIES
 
 #### Status
 ACCEPTED

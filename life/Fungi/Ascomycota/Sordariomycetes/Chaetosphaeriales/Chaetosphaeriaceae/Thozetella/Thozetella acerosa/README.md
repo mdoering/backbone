@@ -1,5 +1,4 @@
-Thozetella acerosa B.C. Paulus, Gadek & K.D. Hyde SPECIES
-=======
+# Thozetella acerosa B.C. Paulus, Gadek & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

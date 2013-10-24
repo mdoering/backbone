@@ -1,5 +1,4 @@
-Palaeophthora Singhai GENUS
-=======
+# Palaeophthora Singhai GENUS
 
 #### Status
 ACCEPTED

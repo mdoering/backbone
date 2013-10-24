@@ -1,5 +1,4 @@
-Mycarthopyrenia cembricola SPECIES
-=======
+# Mycarthopyrenia cembricola SPECIES
 
 #### Status
 ACCEPTED

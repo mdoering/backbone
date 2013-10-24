@@ -1,5 +1,4 @@
-Shellositon Jankowski, 1993 GENUS
-=======
+# Shellositon Jankowski, 1993 GENUS
 
 #### Status
 ACCEPTED

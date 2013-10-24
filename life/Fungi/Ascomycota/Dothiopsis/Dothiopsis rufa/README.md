@@ -1,5 +1,4 @@
-Dothiopsis rufa Nicolas & Aggéry SPECIES
-=======
+# Dothiopsis rufa Nicolas & Aggéry SPECIES
 
 #### Status
 ACCEPTED

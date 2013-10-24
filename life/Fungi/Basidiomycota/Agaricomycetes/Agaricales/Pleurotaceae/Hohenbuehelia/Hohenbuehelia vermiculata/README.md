@@ -1,5 +1,4 @@
-Hohenbuehelia vermiculata Corner SPECIES
-=======
+# Hohenbuehelia vermiculata Corner SPECIES
 
 #### Status
 ACCEPTED

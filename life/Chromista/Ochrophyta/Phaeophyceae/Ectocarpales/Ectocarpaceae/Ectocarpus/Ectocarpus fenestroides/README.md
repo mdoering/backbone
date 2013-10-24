@@ -1,5 +1,4 @@
-Ectocarpus fenestroides P.L. Crouan & H.M. Crouan SPECIES
-=======
+# Ectocarpus fenestroides P.L. Crouan & H.M. Crouan SPECIES
 
 #### Status
 ACCEPTED

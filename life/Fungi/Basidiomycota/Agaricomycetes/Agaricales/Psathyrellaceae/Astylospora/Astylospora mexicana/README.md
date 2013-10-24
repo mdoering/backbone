@@ -1,5 +1,4 @@
-Astylospora mexicana Murrill SPECIES
-=======
+# Astylospora mexicana Murrill SPECIES
 
 #### Status
 ACCEPTED

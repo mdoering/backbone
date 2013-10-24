@@ -1,5 +1,4 @@
-Ramalina vittata Nyl. SPECIES
-=======
+# Ramalina vittata Nyl. SPECIES
 
 #### Status
 ACCEPTED

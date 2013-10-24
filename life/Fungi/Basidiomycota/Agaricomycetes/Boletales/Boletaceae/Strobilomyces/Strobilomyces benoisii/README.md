@@ -1,5 +1,4 @@
-Strobilomyces benoisii (Singer) Lebedeva SPECIES
-=======
+# Strobilomyces benoisii (Singer) Lebedeva SPECIES
 
 #### Status
 ACCEPTED

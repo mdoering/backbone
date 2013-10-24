@@ -1,5 +1,4 @@
-Puccinia mitrata P. Syd. & Syd. SPECIES
-=======
+# Puccinia mitrata P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

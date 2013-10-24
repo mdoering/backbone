@@ -1,5 +1,4 @@
-Hyalopeziza groenlandica S. Olsen SPECIES
-=======
+# Hyalopeziza groenlandica S. Olsen SPECIES
 
 #### Status
 ACCEPTED

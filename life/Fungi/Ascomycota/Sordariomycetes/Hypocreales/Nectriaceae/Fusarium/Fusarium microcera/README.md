@@ -1,5 +1,4 @@
-Fusarium microcera var. microcera VARIETY
-=======
+# Fusarium microcera Bilai SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fusarii 292 (1955)
 
 #### Original name
-Fusarium microcera var. microcera
+Fusarium microcera Bilai
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sporidesmium subcupulatum Ellis & Everh. SPECIES
-=======
+# Sporidesmium subcupulatum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

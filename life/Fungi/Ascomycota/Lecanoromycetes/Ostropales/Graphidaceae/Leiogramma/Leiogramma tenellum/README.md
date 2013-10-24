@@ -1,5 +1,4 @@
-Leiogramma tenellum Eschw. SPECIES
-=======
+# Leiogramma tenellum Eschw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylospora microspora Etayo SPECIES
-=======
+# Dactylospora microspora Etayo SPECIES
 
 #### Status
 ACCEPTED

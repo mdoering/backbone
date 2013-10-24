@@ -1,5 +1,4 @@
-Epifolliculina diaphana Hadzi, 1951 SPECIES
-=======
+# Epifolliculina diaphana Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

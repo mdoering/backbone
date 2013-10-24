@@ -1,5 +1,4 @@
-Phomopsis carposchiza Fairm. SPECIES
-=======
+# Phomopsis carposchiza Fairm. SPECIES
 
 #### Status
 ACCEPTED

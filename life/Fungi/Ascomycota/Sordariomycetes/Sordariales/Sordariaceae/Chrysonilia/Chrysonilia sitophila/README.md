@@ -1,17 +1,16 @@
-Oidium aurantiacum Lév. ex Mont., 1843 SPECIES
-=======
+# Chrysonilia sitophila (Mont.) Arx, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 34: 16 (1981)
 
 #### Original name
-Oidium aurantiacum Lév. ex Mont., 1843
+null
 
 ### Remarks
 null

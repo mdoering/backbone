@@ -1,17 +1,16 @@
-Ascochyta zimmermanni Bubák SPECIES
-=======
+# Ascochyta zimmermannii Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fl. Bohem. Morav. exs. , ser. II. , Pilze no. 505 (1913)
 
 #### Original name
-Ascochyta zimmermanni Bubák
+Ascochyta zimmermannii Bubák
 
 ### Remarks
 null

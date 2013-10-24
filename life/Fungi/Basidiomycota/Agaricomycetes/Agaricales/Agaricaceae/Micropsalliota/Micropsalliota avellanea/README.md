@@ -1,5 +1,4 @@
-Micropsalliota avellanea Heinem. & Little Flower SPECIES
-=======
+# Micropsalliota avellanea Heinem. & Little Flower SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicogloea angustispora L.S. Olive, 1951 SPECIES
-=======
+# Helicogloea angustispora L.S. Olive, 1951 SPECIES
 
 #### Status
 ACCEPTED

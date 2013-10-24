@@ -1,14 +1,13 @@
-Calycina sphaerophorodes (Harkn. & W. Phillips) Kuntze SPECIES
-=======
+# Calycina sphaerophoroides (Harkn. & W. Phillips) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 449 (1898)
 
 #### Original name
 Helotium sphaerophoroides W. Phillips & Harkn.

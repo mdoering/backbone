@@ -1,5 +1,4 @@
-Lecidea disseminata Hook. f. & Taylor SPECIES
-=======
+# Lecidea disseminata Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

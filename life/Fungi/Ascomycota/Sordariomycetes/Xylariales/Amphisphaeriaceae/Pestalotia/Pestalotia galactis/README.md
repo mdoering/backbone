@@ -1,5 +1,4 @@
-Pestalotia galactis Henn. SPECIES
-=======
+# Pestalotia galactis Henn. SPECIES
 
 #### Status
 ACCEPTED

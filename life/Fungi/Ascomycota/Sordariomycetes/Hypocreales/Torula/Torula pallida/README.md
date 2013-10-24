@@ -1,5 +1,4 @@
-Torula pallida Berk. & Broome SPECIES
-=======
+# Torula pallida Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

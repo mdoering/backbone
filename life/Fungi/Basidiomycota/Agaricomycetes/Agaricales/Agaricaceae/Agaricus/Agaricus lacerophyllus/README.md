@@ -1,5 +1,4 @@
-Agaricus lacerophyllus Secr. SPECIES
-=======
+# Agaricus lacerophyllus Secr. SPECIES
 
 #### Status
 ACCEPTED

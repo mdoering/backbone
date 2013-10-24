@@ -1,5 +1,4 @@
-Cercospora flagellifera G.F. Atk. SPECIES
-=======
+# Cercospora flagellifera G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

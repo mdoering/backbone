@@ -1,5 +1,4 @@
-Anconomyces palmae Cavalc. & A.A. Silva SPECIES
-=======
+# Anconomyces palmae Cavalc. & A.A. Silva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnocladium geniculatum (Lév.) Pat. SPECIES
-=======
+# Lachnocladium geniculatum (Lév.) Pat. SPECIES
 
 #### Status
 ACCEPTED

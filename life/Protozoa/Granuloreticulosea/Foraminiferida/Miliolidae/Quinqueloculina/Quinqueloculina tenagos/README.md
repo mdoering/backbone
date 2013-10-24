@@ -1,5 +1,4 @@
-Quinqueloculina tenagos SPECIES
-=======
+# Quinqueloculina tenagos SPECIES
 
 #### Status
 ACCEPTED

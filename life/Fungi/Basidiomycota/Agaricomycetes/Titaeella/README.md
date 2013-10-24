@@ -1,5 +1,4 @@
-Titaeella G. Arnaud ex K. Ando & Tubaki GENUS
-=======
+# Titaeella G. Arnaud ex K. Ando & Tubaki GENUS
 
 #### Status
 ACCEPTED

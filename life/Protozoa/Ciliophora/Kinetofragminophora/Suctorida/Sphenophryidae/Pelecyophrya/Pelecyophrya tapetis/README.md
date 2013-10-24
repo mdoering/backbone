@@ -1,5 +1,4 @@
-Pelecyophrya tapetis Chatton & Lwoff, 1922 SPECIES
-=======
+# Pelecyophrya tapetis Chatton & Lwoff, 1922 SPECIES
 
 #### Status
 ACCEPTED

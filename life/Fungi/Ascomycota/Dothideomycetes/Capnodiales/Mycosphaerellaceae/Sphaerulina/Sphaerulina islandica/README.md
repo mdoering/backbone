@@ -1,5 +1,4 @@
-Sphaerulina islandica Rostr. SPECIES
-=======
+# Sphaerulina islandica Rostr. SPECIES
 
 #### Status
 ACCEPTED

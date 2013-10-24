@@ -1,5 +1,4 @@
-Pterula longispora Corner, 1952 SPECIES
-=======
+# Pterula longispora Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

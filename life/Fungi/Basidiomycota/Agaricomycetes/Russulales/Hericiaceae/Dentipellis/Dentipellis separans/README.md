@@ -1,17 +1,16 @@
-Odontia isidioides (Berk.) Rick, 1932 SPECIES
-=======
+# Dentipellis separans (Peck) Donk, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Egatea 17: 279 (1932)
+Persoonia 2(2): 235 (1962)
 
 #### Original name
-Hydnum isidioides Berk., 1845
+Hydnum separans Peck, 1898
 
 ### Remarks
 null

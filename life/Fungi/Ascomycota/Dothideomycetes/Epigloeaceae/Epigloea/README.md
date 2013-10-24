@@ -1,17 +1,16 @@
-Epigloeomyces Cif. & Tomas. GENUS
-=======
+# Epigloea Zukal, 1889 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 14: 6 (1957)
+null
 
 #### Original name
-Epigloeomyces Cif. & Tomas.
+null
 
 ### Remarks
 null

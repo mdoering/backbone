@@ -1,5 +1,4 @@
-Leptosporella rhoina (Ellis & Everh.) Höhn. SPECIES
-=======
+# Leptosporella rhoina (Ellis & Everh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

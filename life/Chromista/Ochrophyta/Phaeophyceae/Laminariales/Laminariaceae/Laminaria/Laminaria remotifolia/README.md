@@ -1,5 +1,4 @@
-Laminaria remotifolia De La Pylaie SPECIES
-=======
+# Laminaria remotifolia De La Pylaie SPECIES
 
 #### Status
 ACCEPTED

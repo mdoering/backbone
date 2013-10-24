@@ -1,5 +1,4 @@
-Physarum hagiwarae Nann.-Bremek. & Y. Yamam., 1987 SPECIES
-=======
+# Physarum hagiwarae Nann.-Bremek. & Y. Yamam., 1987 SPECIES
 
 #### Status
 ACCEPTED

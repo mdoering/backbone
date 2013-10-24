@@ -1,5 +1,4 @@
-Coprinopsis cinchonensis (Murrill) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis cinchonensis (Murrill) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

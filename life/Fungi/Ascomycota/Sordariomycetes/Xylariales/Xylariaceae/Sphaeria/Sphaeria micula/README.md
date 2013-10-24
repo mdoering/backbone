@@ -1,5 +1,4 @@
-Sphaeria micula Fr. SPECIES
-=======
+# Sphaeria micula Fr. SPECIES
 
 #### Status
 ACCEPTED

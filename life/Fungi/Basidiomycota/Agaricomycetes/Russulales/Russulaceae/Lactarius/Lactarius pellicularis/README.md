@@ -1,5 +1,4 @@
-Lactarius pellicularis R. Heim SPECIES
-=======
+# Lactarius pellicularis R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octaedryxium minutum F.Wang & Q. Chen SPECIES
-=======
+# Octaedryxium minutum F.Wang & Q. Chen SPECIES
 
 #### Status
 ACCEPTED

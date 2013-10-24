@@ -1,5 +1,4 @@
-Pyrenopeziza mulgedii Syd. SPECIES
-=======
+# Pyrenopeziza mulgedii Syd. SPECIES
 
 #### Status
 ACCEPTED

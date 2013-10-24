@@ -1,5 +1,4 @@
-Boletus canalium Lour. SPECIES
-=======
+# Boletus canalium Lour. SPECIES
 
 #### Status
 ACCEPTED

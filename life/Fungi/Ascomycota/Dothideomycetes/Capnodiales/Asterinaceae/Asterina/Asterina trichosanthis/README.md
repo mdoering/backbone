@@ -1,5 +1,4 @@
-Asterina trichosanthis B. Song & Ouyang SPECIES
-=======
+# Asterina trichosanthis B. Song & Ouyang SPECIES
 
 #### Status
 ACCEPTED

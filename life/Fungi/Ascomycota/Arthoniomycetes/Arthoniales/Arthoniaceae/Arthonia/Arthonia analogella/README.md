@@ -1,5 +1,4 @@
-Arthonia analogella Nyl. SPECIES
-=======
+# Arthonia analogella Nyl. SPECIES
 
 #### Status
 ACCEPTED

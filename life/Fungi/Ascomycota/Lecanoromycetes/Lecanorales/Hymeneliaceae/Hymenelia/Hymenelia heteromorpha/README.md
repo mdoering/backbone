@@ -1,17 +1,16 @@
-Ionaspis schismatopis var. schismatopis VARIETY
-=======
+# Hymenelia heteromorpha (Kremp.) Lutzoni SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lutzoni & Brodo, Syst. Bot. 20(3): 250 (1995)
 
 #### Original name
-Ionaspis schismatopis var. schismatopis
+Aspicilia cinereorufescens (Ach.) A. Massal.
 
 ### Remarks
 null

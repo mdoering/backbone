@@ -1,5 +1,4 @@
-Micromphale arbuticola Desjardin SPECIES
-=======
+# Micromphale arbuticola Desjardin SPECIES
 
 #### Status
 ACCEPTED

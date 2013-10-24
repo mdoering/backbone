@@ -1,5 +1,4 @@
-Pachyspora geminispora (Sacc. & Flageolet) Höhn. SPECIES
-=======
+# Pachyspora geminispora (Sacc. & Flageolet) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Veronaea filicina Dingley, 1972 SPECIES
-=======
+# Veronaea filicina Dingley, 1972 SPECIES
 
 #### Status
 ACCEPTED

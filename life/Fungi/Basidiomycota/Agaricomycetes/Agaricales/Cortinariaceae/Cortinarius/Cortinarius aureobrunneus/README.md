@@ -1,5 +1,4 @@
-Cortinarius aureobrunneus Hongo SPECIES
-=======
+# Cortinarius aureobrunneus Hongo SPECIES
 
 #### Status
 ACCEPTED

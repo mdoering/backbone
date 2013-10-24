@@ -1,5 +1,4 @@
-Vorticella eforianus Tucolesco, 1962 SPECIES
-=======
+# Vorticella eforianus Tucolesco, 1962 SPECIES
 
 #### Status
 ACCEPTED

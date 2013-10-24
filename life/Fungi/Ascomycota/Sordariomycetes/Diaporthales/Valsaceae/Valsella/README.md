@@ -1,5 +1,4 @@
-Valsella Fuckel, 1870 GENUS
-=======
+# Valsella Fuckel, 1870 GENUS
 
 #### Status
 ACCEPTED

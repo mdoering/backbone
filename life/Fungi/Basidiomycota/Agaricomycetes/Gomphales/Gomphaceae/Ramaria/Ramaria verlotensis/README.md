@@ -1,5 +1,4 @@
-Ramaria verlotensis Marr & D.E. Stuntz, 1974 SPECIES
-=======
+# Ramaria verlotensis Marr & D.E. Stuntz, 1974 SPECIES
 
 #### Status
 ACCEPTED

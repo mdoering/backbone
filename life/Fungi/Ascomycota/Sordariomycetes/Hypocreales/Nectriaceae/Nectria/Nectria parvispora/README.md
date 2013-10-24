@@ -1,5 +1,4 @@
-Nectria parvispora G. Winter SPECIES
-=======
+# Nectria parvispora G. Winter SPECIES
 
 #### Status
 ACCEPTED

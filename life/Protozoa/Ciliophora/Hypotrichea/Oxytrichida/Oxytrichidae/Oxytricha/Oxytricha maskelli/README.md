@@ -1,5 +1,4 @@
-Oxytricha maskelli SPECIES
-=======
+# Oxytricha maskelli SPECIES
 
 #### Status
 ACCEPTED

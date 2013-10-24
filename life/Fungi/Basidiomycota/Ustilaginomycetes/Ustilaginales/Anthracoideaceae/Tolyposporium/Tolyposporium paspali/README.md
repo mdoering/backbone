@@ -1,5 +1,4 @@
-Tolyposporium paspali Langdon SPECIES
-=======
+# Tolyposporium paspali Langdon SPECIES
 
 #### Status
 ACCEPTED

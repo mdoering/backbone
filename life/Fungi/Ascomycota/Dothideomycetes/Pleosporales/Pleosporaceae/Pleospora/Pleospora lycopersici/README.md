@@ -1,8 +1,7 @@
-Pleospora lycopersica Marchal & É.J. Marchal, 1921 SPECIES
-=======
+# Pleospora lycopersici Marchal & É.J. Marchal, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Pleospora lycopersica Marchal & É.J. Marchal, 1921
+Pleospora lycopersici Marchal & É.J. Marchal, 1921
 
 ### Remarks
 null

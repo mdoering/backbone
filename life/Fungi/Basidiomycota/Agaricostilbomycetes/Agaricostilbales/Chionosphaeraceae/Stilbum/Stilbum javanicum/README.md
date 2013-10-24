@@ -1,5 +1,4 @@
-Stilbum javanicum Henn. SPECIES
-=======
+# Stilbum javanicum Henn. SPECIES
 
 #### Status
 ACCEPTED

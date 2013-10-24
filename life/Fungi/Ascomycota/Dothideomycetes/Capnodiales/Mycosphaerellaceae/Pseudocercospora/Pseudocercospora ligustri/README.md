@@ -1,5 +1,4 @@
-Pseudocercospora ligustri Deighton SPECIES
-=======
+# Pseudocercospora ligustri Deighton SPECIES
 
 #### Status
 ACCEPTED

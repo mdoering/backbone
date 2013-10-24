@@ -1,5 +1,4 @@
-Graphis pulicaris Wallr. SPECIES
-=======
+# Graphis pulicaris Wallr. SPECIES
 
 #### Status
 ACCEPTED

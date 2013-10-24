@@ -1,5 +1,4 @@
-Phoma veratri Losa SPECIES
-=======
+# Phoma veratri Losa SPECIES
 
 #### Status
 ACCEPTED

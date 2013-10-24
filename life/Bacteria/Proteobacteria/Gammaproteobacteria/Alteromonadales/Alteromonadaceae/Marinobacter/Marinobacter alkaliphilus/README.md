@@ -1,5 +1,4 @@
-Marinobacter alkaliphilus Takai, Moyer, Miyazaki, Nogi, Hirayama, Nealson & Horikoshi, 2005 SPECIES
-=======
+# Marinobacter alkaliphilus Takai, Moyer, Miyazaki, Nogi, Hirayama, Nealson & Horikoshi, 2005 SPECIES
 
 #### Status
 ACCEPTED

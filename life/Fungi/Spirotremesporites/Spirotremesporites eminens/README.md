@@ -1,5 +1,4 @@
-Spirotremesporites eminens (Rouse & Mustard) Kalgutkar & Janson. SPECIES
-=======
+# Spirotremesporites eminens (Rouse & Mustard) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

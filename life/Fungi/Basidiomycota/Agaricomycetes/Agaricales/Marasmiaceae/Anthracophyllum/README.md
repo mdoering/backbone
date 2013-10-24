@@ -1,17 +1,16 @@
-Plagiotus Kalchbr. ex Roum. GENUS
-=======
+# Anthracophyllum Ces. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atti Accad. Sci. fis. mat. Napoli 8(3): 3 (1879)
 
 #### Original name
-Plagiotus Kalchbr. ex Roum.
+Anthracophyllum Ces.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xanthoparmelia austroalpina Elix SPECIES
-=======
+# Xanthoparmelia austroalpina Elix SPECIES
 
 #### Status
 ACCEPTED

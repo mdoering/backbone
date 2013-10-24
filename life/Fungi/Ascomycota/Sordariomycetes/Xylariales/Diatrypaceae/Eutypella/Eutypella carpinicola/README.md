@@ -1,5 +1,4 @@
-Eutypella carpinicola Ellis & Everh. SPECIES
-=======
+# Eutypella carpinicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

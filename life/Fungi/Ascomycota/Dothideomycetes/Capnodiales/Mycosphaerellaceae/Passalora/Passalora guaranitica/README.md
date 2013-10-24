@@ -1,5 +1,4 @@
-Passalora guaranitica (Speg.) U. Braun & Crous SPECIES
-=======
+# Passalora guaranitica (Speg.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

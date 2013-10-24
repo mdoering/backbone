@@ -1,5 +1,4 @@
-Asteridiella clethrae Hansf. SPECIES
-=======
+# Asteridiella clethrae Hansf. SPECIES
 
 #### Status
 ACCEPTED

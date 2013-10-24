@@ -1,5 +1,4 @@
-Pseudoscopulariopsis avellanea G. Sm. SPECIES
-=======
+# Pseudoscopulariopsis avellanea G. Sm. SPECIES
 
 #### Status
 ACCEPTED

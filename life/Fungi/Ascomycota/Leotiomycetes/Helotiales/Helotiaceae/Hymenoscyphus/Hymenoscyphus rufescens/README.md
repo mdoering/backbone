@@ -1,5 +1,4 @@
-Hymenoscyphus rufescens (Kanouse) T. Schumach. SPECIES
-=======
+# Hymenoscyphus rufescens (Kanouse) T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibellula brunnea Samson & H.C. Evans, 1992 SPECIES
-=======
+# Gibellula brunnea Samson & H.C. Evans, 1992 SPECIES
 
 #### Status
 ACCEPTED

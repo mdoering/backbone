@@ -1,5 +1,4 @@
-Sphacelotheca tanglinensis (Tracy & Earle) Zundel SPECIES
-=======
+# Sphacelotheca tanglinensis (Tracy & Earle) Zundel SPECIES
 
 #### Status
 ACCEPTED

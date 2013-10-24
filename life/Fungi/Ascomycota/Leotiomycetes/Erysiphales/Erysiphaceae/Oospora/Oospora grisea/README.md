@@ -1,5 +1,4 @@
-Oospora grisea Petch SPECIES
-=======
+# Oospora grisea Petch SPECIES
 
 #### Status
 ACCEPTED

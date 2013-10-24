@@ -1,5 +1,4 @@
-Papovaviridae FAMILY
-=======
+# Papovaviridae FAMILY
 
 #### Status
 ACCEPTED

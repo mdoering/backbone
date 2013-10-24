@@ -1,5 +1,4 @@
-Phyllosticta funkiae var. funkiae VARIETY
-=======
+# Phyllosticta funkiae Ferraris SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta funkiae var. funkiae
+Phyllosticta funkiae Ferraris
 
 ### Remarks
 null

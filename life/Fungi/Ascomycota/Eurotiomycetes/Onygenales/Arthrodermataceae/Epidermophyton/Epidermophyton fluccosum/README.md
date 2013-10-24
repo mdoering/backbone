@@ -1,5 +1,4 @@
-Epidermophyton fluccosum (Harz) Langeron & Milochevitch SPECIES
-=======
+# Epidermophyton fluccosum (Harz) Langeron & Milochevitch SPECIES
 
 #### Status
 ACCEPTED

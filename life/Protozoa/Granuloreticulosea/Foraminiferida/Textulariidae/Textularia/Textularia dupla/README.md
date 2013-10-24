@@ -1,5 +1,4 @@
-Textularia dupla Todd, 1954 SPECIES
-=======
+# Textularia dupla Todd, 1954 SPECIES
 
 #### Status
 ACCEPTED

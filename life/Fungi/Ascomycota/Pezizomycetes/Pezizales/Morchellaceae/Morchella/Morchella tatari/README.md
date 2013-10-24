@@ -1,5 +1,4 @@
-Morchella tatari Velen. SPECIES
-=======
+# Morchella tatari Velen. SPECIES
 
 #### Status
 ACCEPTED

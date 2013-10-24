@@ -1,5 +1,4 @@
-Tilletia cynosuri Massenot SPECIES
-=======
+# Tilletia cynosuri Massenot SPECIES
 
 #### Status
 ACCEPTED

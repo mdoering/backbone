@@ -1,5 +1,4 @@
-Eubacteriaceae FAMILY
-=======
+# Eubacteriaceae FAMILY
 
 #### Status
 ACCEPTED

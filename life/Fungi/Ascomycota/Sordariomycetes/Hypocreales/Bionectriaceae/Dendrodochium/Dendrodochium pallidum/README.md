@@ -1,5 +1,4 @@
-Dendrodochium pallidum Peck SPECIES
-=======
+# Dendrodochium pallidum Peck SPECIES
 
 #### Status
 ACCEPTED

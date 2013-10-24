@@ -1,5 +1,4 @@
-Rhabdospora synedrellae Sacc. SPECIES
-=======
+# Rhabdospora synedrellae Sacc. SPECIES
 
 #### Status
 ACCEPTED

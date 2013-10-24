@@ -1,5 +1,4 @@
-Xenogliocladiopsis eucalyptorum Crous & W.B. Kendr., 1994 SPECIES
-=======
+# Xenogliocladiopsis eucalyptorum Crous & W.B. Kendr., 1994 SPECIES
 
 #### Status
 ACCEPTED

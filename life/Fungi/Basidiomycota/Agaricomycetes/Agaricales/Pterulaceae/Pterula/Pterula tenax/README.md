@@ -1,5 +1,4 @@
-Pterula tenax (Schwein.) Sacc. SPECIES
-=======
+# Pterula tenax (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

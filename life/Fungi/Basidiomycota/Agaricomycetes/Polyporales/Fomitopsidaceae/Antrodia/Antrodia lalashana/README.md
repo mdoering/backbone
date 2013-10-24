@@ -1,5 +1,4 @@
-Antrodia lalashana T.T. Chang & W.N. Chou SPECIES
-=======
+# Antrodia lalashana T.T. Chang & W.N. Chou SPECIES
 
 #### Status
 ACCEPTED

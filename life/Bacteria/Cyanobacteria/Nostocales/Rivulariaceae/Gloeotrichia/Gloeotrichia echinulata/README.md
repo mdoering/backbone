@@ -1,5 +1,4 @@
-Gloeotrichia echinulata (J.E. Smith) P.G. Richter SPECIES
-=======
+# Gloeotrichia echinulata (J.E. Smith) P.G. Richter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius mamorensis Singer SPECIES
-=======
+# Lactarius mamorensis Singer SPECIES
 
 #### Status
 ACCEPTED

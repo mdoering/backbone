@@ -1,5 +1,4 @@
-Algonquinia R.F. Castañeda & W.B. Kendr. GENUS
-=======
+# Algonquinia R.F. Castañeda & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

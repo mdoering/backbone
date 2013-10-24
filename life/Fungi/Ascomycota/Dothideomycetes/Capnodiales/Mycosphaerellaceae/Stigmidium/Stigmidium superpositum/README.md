@@ -1,14 +1,13 @@
-Pharcidia superposita (Nyl.) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Stigmidium superpositum (Nyl.) D. Hawksw., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 17: 649 (1905)
+Kew Bull. , Addit. Ser. 30(1): 201 (1975)
 
 #### Original name
 null

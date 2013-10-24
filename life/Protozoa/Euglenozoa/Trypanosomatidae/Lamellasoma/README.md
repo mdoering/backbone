@@ -1,5 +1,4 @@
-Lamellasoma H.S.Davis GENUS
-=======
+# Lamellasoma H.S.Davis GENUS
 
 #### Status
 ACCEPTED

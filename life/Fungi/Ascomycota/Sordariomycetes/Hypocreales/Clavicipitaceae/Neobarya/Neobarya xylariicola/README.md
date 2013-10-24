@@ -1,5 +1,4 @@
-Neobarya xylariicola Cand., J.D. Rogers & Samuels SPECIES
-=======
+# Neobarya xylariicola Cand., J.D. Rogers & Samuels SPECIES
 
 #### Status
 ACCEPTED

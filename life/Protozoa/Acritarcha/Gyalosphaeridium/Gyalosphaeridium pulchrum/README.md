@@ -1,5 +1,4 @@
-Gyalosphaeridium pulchrum Zang Wen-long in Zang Wen-long & Walter SPECIES
-=======
+# Gyalosphaeridium pulchrum Zang Wen-long in Zang Wen-long & Walter SPECIES
 
 #### Status
 ACCEPTED

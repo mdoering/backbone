@@ -1,5 +1,4 @@
-Malmella albida C.W. Dodge SPECIES
-=======
+# Malmella albida C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

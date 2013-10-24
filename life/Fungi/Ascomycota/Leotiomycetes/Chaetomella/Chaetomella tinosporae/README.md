@@ -1,5 +1,4 @@
-Chaetomella tinosporae Bahekar SPECIES
-=======
+# Chaetomella tinosporae Bahekar SPECIES
 
 #### Status
 ACCEPTED

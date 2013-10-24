@@ -1,5 +1,4 @@
-Puccinia satyrii P. Syd. & Syd., 1903 SPECIES
-=======
+# Puccinia satyrii P. Syd. & Syd., 1903 SPECIES
 
 #### Status
 ACCEPTED

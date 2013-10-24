@@ -1,5 +1,4 @@
-Schizothyrium rhododendri Pat. SPECIES
-=======
+# Schizothyrium rhododendri Pat. SPECIES
 
 #### Status
 ACCEPTED

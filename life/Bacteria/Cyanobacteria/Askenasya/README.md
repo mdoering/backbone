@@ -1,5 +1,4 @@
-Askenasya Möbius GENUS
-=======
+# Askenasya Möbius GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola sinsuiensis (W. Yamam.) Cif. SPECIES
-=======
+# Meliola sinsuiensis (W. Yamam.) Cif. SPECIES
 
 #### Status
 ACCEPTED

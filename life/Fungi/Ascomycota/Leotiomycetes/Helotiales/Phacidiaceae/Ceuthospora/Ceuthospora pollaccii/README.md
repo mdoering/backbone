@@ -1,5 +1,4 @@
-Ceuthospora pollaccii Mutto {?} SPECIES
-=======
+# Ceuthospora pollaccii Mutto {?} SPECIES
 
 #### Status
 ACCEPTED

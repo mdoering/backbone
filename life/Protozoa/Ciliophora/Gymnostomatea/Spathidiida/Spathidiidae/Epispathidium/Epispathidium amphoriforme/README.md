@@ -1,5 +1,4 @@
-Epispathidium amphoriforme subsp. amphoriforme SUBSPECIES
-=======
+# Epispathidium amphoriforme (Greeff, 1888) Foissner, 1984 SPECIES
 
 #### Status
 ACCEPTED

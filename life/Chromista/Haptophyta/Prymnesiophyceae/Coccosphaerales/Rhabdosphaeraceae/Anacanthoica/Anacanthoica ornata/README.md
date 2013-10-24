@@ -1,5 +1,4 @@
-Anacanthoica ornata (Conrad) Bourrelly SPECIES
-=======
+# Anacanthoica ornata (Conrad) Bourrelly SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycogone pezizae (Richon) Sacc. SPECIES
-=======
+# Mycogone pezizae (Richon) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrypella pulcherrima Ellis & Everh. SPECIES
-=======
+# Diatrypella pulcherrima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

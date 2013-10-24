@@ -1,5 +1,4 @@
-Hypocenomyce stoechadiana Abassi & Cl. Roux SPECIES
-=======
+# Hypocenomyce stoechadiana Abassi & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

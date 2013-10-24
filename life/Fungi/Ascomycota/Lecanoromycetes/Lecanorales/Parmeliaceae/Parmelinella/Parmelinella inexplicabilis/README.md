@@ -1,5 +1,4 @@
-Parmelinella inexplicabilis Marcelli & C. H. Ribeiro SPECIES
-=======
+# Parmelinella inexplicabilis Marcelli & C. H. Ribeiro SPECIES
 
 #### Status
 ACCEPTED

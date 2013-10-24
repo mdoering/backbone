@@ -1,8 +1,7 @@
-Amphileptus anaticula Ehrenberg, 1834 SPECIES
-=======
+# Acineria incurvata Dujardin, 1841 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

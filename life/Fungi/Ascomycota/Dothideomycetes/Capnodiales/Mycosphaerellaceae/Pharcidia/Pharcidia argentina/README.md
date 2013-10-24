@@ -1,5 +1,4 @@
-Pharcidia argentina Räsänen SPECIES
-=======
+# Pharcidia argentina Räsänen SPECIES
 
 #### Status
 ACCEPTED

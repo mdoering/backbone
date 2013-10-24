@@ -1,5 +1,4 @@
-Pyrenopeziza pubescens (B. Hein & Scheuer) Scheuer SPECIES
-=======
+# Pyrenopeziza pubescens (B. Hein & Scheuer) Scheuer SPECIES
 
 #### Status
 ACCEPTED

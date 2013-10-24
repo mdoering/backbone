@@ -1,5 +1,4 @@
-Cryptandromyces sarawakensis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Cryptandromyces sarawakensis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

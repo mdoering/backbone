@@ -1,5 +1,4 @@
-Sterkiella similis subsp. similis SUBSPECIES
-=======
+# Sterkiella similis (Buitkamp, 1977) Foissner, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Picoa carthusiana Tul. & C. Tul. SPECIES
-=======
+# Picoa carthusiana Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

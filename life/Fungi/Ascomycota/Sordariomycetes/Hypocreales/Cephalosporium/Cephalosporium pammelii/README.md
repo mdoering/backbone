@@ -1,5 +1,4 @@
-Cephalosporium pammelii R.E. Buchanan SPECIES
-=======
+# Cephalosporium pammelii R.E. Buchanan SPECIES
 
 #### Status
 ACCEPTED

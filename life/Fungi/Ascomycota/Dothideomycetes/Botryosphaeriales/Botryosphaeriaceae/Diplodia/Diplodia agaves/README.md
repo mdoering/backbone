@@ -1,5 +1,4 @@
-Diplodia agaves Niessl SPECIES
-=======
+# Diplodia agaves Niessl SPECIES
 
 #### Status
 ACCEPTED

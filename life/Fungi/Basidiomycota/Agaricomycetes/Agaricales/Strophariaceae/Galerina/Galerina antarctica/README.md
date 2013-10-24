@@ -1,5 +1,4 @@
-Galerina antarctica Singer SPECIES
-=======
+# Galerina antarctica Singer SPECIES
 
 #### Status
 ACCEPTED

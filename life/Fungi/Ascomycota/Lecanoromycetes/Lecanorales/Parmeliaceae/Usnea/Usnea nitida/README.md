@@ -1,5 +1,4 @@
-Usnea nitida Stirt. SPECIES
-=======
+# Usnea nitida Stirt. SPECIES
 
 #### Status
 ACCEPTED

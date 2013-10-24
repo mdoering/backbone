@@ -1,5 +1,4 @@
-Inocybe alluvionis Stangl & J. Veselský SPECIES
-=======
+# Inocybe alluvionis Stangl & J. Veselský SPECIES
 
 #### Status
 ACCEPTED

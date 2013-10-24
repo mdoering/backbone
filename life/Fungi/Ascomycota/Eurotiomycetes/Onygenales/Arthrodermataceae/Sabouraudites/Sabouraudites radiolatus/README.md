@@ -1,5 +1,4 @@
-Sabouraudites radiolatus (Sabour.) M. Ota & Langeron SPECIES
-=======
+# Sabouraudites radiolatus (Sabour.) M. Ota & Langeron SPECIES
 
 #### Status
 ACCEPTED

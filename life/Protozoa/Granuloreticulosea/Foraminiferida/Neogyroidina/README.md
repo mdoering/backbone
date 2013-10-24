@@ -1,5 +1,4 @@
-Neogyroidina Bermúdez, 1949 GENUS
-=======
+# Neogyroidina Bermúdez, 1949 GENUS
 
 #### Status
 ACCEPTED

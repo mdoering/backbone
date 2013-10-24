@@ -1,5 +1,4 @@
-Diloma primitivum (T.R. Worsley) F.H. Wind & P. Cepek SPECIES
-=======
+# Diloma primitivum (T.R. Worsley) F.H. Wind & P. Cepek SPECIES
 
 #### Status
 ACCEPTED

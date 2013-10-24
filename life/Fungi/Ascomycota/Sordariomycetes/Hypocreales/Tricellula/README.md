@@ -1,5 +1,4 @@
-Tricellula Van Beverwijk, 1954 GENUS
-=======
+# Tricellula Van Beverwijk, 1954 GENUS
 
 #### Status
 ACCEPTED

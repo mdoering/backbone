@@ -1,5 +1,4 @@
-Ascobolus orientalis (Pat.) Le Gal SPECIES
-=======
+# Ascobolus orientalis (Pat.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

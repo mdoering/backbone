@@ -1,5 +1,4 @@
-Nummularia anthracodes (Fr.) Cooke SPECIES
-=======
+# Nummularia anthracodes (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

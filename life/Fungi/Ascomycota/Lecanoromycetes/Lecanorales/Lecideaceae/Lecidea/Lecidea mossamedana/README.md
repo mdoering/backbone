@@ -1,5 +1,4 @@
-Lecidea mossamedana Vain. SPECIES
-=======
+# Lecidea mossamedana Vain. SPECIES
 
 #### Status
 ACCEPTED

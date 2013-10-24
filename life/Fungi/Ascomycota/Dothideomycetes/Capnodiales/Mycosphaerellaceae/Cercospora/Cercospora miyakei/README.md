@@ -1,5 +1,4 @@
-Cercospora miyakei Henn. SPECIES
-=======
+# Cercospora miyakei Henn. SPECIES
 
 #### Status
 ACCEPTED

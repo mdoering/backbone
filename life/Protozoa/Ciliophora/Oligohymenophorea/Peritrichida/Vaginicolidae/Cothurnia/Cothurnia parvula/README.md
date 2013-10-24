@@ -1,5 +1,4 @@
-Cothurnia parvula SPECIES
-=======
+# Cothurnia parvula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strobilididae FAMILY
-=======
+# Strobilididae FAMILY
 
 #### Status
 ACCEPTED

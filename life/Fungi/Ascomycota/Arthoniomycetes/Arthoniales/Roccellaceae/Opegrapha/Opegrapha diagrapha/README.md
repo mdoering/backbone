@@ -1,5 +1,4 @@
-Opegrapha diagrapha Nyl. SPECIES
-=======
+# Opegrapha diagrapha Nyl. SPECIES
 
 #### Status
 ACCEPTED

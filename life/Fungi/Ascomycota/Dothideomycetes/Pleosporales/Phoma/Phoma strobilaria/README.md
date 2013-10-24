@@ -1,5 +1,4 @@
-Phoma strobilaria (Preuss) Sacc. SPECIES
-=======
+# Phoma strobilaria (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

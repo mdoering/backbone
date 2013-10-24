@@ -1,5 +1,4 @@
-Pyrenochaeta collabens Peck SPECIES
-=======
+# Pyrenochaeta collabens Peck SPECIES
 
 #### Status
 ACCEPTED

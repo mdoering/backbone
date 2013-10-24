@@ -1,5 +1,4 @@
-Alpillina Foury, 1968 GENUS
-=======
+# Alpillina Foury, 1968 GENUS
 
 #### Status
 ACCEPTED

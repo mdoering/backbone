@@ -1,14 +1,13 @@
-Cercospora ceanothi Kellerm. & Swingle, 1888 SPECIES
-=======
+# Pseudocercospora ceanothi (Kellerm. & Swingle) Y.L. Guo & X.J. Liu, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 4(9): 94 (1888)
+Mycosystema 2: 230 (1989)
 
 #### Original name
 Cercospora ceanothi Kellerm. & Swingle, 1888

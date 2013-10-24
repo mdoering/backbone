@@ -1,5 +1,4 @@
-Phyllosticta glycyrrhizae f. glycyrrhizae FORM
-=======
+# Phyllosticta glycyrrhizae (Hollós) Y.S. Paul & L.N. Bhardwaj SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Indian Forester 118(4): 301 (1992)
 
 #### Original name
-Phyllosticta glycyrrhizae f. glycyrrhizae
+Phoma herbarum f. glycyrrhizae Hollós
 
 ### Remarks
 null

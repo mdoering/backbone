@@ -1,5 +1,4 @@
-Hyphodontia decorticans Langer SPECIES
-=======
+# Hyphodontia decorticans Langer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Armillaria straminea var. straminea VARIETY
-=======
+# Floccularia luteovirens SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) (1871)
+null
 
 #### Original name
-Armillaria straminea var. straminea
+null
 
 ### Remarks
 null

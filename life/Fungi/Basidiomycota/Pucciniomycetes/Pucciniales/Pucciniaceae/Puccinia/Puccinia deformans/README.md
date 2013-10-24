@@ -1,5 +1,4 @@
-Puccinia deformans G. Winter SPECIES
-=======
+# Puccinia deformans G. Winter SPECIES
 
 #### Status
 ACCEPTED

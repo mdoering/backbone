@@ -1,5 +1,4 @@
-Graphis heterocarpoides Nyl. SPECIES
-=======
+# Graphis heterocarpoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

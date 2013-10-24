@@ -1,17 +1,16 @@
-Sphaerella pithecolobiicola Speg. SPECIES
-=======
+# Sphaerella pithecellobiicola Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 31: 410 (1922)
 
 #### Original name
-Sphaerella pithecolobiicola Speg.
+Sphaerella pithecellobiicola Speg.
 
 ### Remarks
 null

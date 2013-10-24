@@ -1,5 +1,4 @@
-Malotium paludosum Velen. SPECIES
-=======
+# Malotium paludosum Velen. SPECIES
 
 #### Status
 ACCEPTED

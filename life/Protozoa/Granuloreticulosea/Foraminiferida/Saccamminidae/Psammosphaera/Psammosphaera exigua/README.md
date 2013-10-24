@@ -1,5 +1,4 @@
-Psammosphaera exigua (Rhumbler, 1935) SPECIES
-=======
+# Psammosphaera exigua (Rhumbler, 1935) SPECIES
 
 #### Status
 ACCEPTED

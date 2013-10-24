@@ -1,5 +1,4 @@
-Cytospora mougeotii Lév., 1830 SPECIES
-=======
+# Cytospora mougeotii Lév., 1830 SPECIES
 
 #### Status
 ACCEPTED

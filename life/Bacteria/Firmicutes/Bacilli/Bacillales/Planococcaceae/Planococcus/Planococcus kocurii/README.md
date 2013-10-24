@@ -1,5 +1,4 @@
-Planococcus kocurii Hao & Komagata, 1986 SPECIES
-=======
+# Planococcus kocurii Hao & Komagata, 1986 SPECIES
 
 #### Status
 ACCEPTED

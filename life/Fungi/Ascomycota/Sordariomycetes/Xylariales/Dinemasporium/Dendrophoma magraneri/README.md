@@ -1,5 +1,4 @@
-Dendrophoma magraneri Rolland SPECIES
-=======
+# Dendrophoma magraneri Rolland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialea glanduliforme Rehm SPECIES
-=======
+# Phialea glanduliforme Rehm SPECIES
 
 #### Status
 ACCEPTED

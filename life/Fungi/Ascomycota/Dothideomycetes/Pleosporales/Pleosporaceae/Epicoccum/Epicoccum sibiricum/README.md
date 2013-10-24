@@ -1,5 +1,4 @@
-Epicoccum sibiricum Lavrov, 1948 SPECIES
-=======
+# Epicoccum sibiricum Lavrov, 1948 SPECIES
 
 #### Status
 ACCEPTED

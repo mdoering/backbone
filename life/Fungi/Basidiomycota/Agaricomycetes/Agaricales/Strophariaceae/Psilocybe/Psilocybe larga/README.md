@@ -1,5 +1,4 @@
-Psilocybe larga Kauffman SPECIES
-=======
+# Psilocybe larga Kauffman SPECIES
 
 #### Status
 ACCEPTED

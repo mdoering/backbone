@@ -1,5 +1,4 @@
-Phoma lobeliae f. lobeliae FORM
-=======
+# Phoma lobeliae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 14(2): 89 (1875)
 
 #### Original name
-Phoma lobeliae f. lobeliae
+Phoma lobeliae Berk. & Broome
 
 ### Remarks
 null

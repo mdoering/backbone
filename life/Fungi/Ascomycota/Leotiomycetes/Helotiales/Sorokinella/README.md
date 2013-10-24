@@ -1,5 +1,4 @@
-Sorokinella J. Fröhl. & K.D. Hyde GENUS
-=======
+# Sorokinella J. Fröhl. & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

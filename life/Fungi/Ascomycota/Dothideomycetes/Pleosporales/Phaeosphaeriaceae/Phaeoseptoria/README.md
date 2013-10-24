@@ -1,5 +1,4 @@
-Phaeoseptoria Speg. GENUS
-=======
+# Phaeoseptoria Speg. GENUS
 
 #### Status
 ACCEPTED

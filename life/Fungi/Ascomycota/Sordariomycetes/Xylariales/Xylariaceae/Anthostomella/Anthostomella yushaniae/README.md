@@ -1,5 +1,4 @@
-Anthostomella yushaniae W.H. Hsieh & Chi Y. Chen, 2000 SPECIES
-=======
+# Anthostomella yushaniae W.H. Hsieh & Chi Y. Chen, 2000 SPECIES
 
 #### Status
 ACCEPTED

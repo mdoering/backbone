@@ -1,5 +1,4 @@
-Patellaria subrotuliformis Jatta SPECIES
-=======
+# Patellaria subrotuliformis Jatta SPECIES
 
 #### Status
 ACCEPTED

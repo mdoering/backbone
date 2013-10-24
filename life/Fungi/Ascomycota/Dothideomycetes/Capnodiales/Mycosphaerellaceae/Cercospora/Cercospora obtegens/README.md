@@ -1,5 +1,4 @@
-Cercospora obtegens Syd. {?} SPECIES
-=======
+# Cercospora obtegens Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

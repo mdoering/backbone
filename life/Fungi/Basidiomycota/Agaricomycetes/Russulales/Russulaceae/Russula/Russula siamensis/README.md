@@ -1,5 +1,4 @@
-Russula siamensis Yomyart, Piap., Watling, Whalley & Sihan. SPECIES
-=======
+# Russula siamensis Yomyart, Piap., Watling, Whalley & Sihan. SPECIES
 
 #### Status
 ACCEPTED

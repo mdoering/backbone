@@ -1,5 +1,4 @@
-Torula histolytica J.L. Stoddart & Cutler SPECIES
-=======
+# Torula histolytica J.L. Stoddart & Cutler SPECIES
 
 #### Status
 ACCEPTED

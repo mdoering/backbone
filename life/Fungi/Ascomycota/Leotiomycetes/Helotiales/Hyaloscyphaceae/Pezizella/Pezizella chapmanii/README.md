@@ -1,5 +1,4 @@
-Pezizella chapmanii H.S. Whitney & A. Funk SPECIES
-=======
+# Pezizella chapmanii H.S. Whitney & A. Funk SPECIES
 
 #### Status
 ACCEPTED

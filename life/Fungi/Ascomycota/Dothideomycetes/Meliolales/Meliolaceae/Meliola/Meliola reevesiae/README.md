@@ -1,5 +1,4 @@
-Meliola reevesiae Maity SPECIES
-=======
+# Meliola reevesiae Maity SPECIES
 
 #### Status
 ACCEPTED

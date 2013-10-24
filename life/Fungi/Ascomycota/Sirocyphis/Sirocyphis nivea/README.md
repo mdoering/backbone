@@ -1,5 +1,4 @@
-Sirocyphis nivea Clem., 1909 SPECIES
-=======
+# Sirocyphis nivea Clem., 1909 SPECIES
 
 #### Status
 ACCEPTED

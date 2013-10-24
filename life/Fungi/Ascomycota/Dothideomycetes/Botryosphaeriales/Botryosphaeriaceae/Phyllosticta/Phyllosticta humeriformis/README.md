@@ -1,5 +1,4 @@
-Phyllosticta humeriformis Bubák & Kabát SPECIES
-=======
+# Phyllosticta humeriformis Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

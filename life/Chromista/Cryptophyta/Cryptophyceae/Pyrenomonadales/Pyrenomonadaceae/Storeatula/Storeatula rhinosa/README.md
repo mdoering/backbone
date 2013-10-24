@@ -1,5 +1,4 @@
-Storeatula rhinosa P. Kugrens, B.L. Clay & R.E. Lee SPECIES
-=======
+# Storeatula rhinosa P. Kugrens, B.L. Clay & R.E. Lee SPECIES
 
 #### Status
 ACCEPTED

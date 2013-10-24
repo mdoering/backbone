@@ -1,5 +1,4 @@
-Pholiota vermiflua var. vermiflua VARIETY
-=======
+# Pholiota vermiflua (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 739 (1887)
 
 #### Original name
-Pholiota vermiflua var. vermiflua
+Agaricus vermifluus Peck
 
 ### Remarks
 null

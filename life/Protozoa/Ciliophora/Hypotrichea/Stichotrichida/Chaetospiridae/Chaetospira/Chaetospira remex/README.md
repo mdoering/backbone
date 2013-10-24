@@ -1,5 +1,4 @@
-Chaetospira remex Huds. SPECIES
-=======
+# Chaetospira remex Huds. SPECIES
 
 #### Status
 ACCEPTED

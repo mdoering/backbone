@@ -1,5 +1,4 @@
-Gloeoheppiaceae Henssen FAMILY
-=======
+# Gloeoheppiaceae Henssen FAMILY
 
 #### Status
 ACCEPTED

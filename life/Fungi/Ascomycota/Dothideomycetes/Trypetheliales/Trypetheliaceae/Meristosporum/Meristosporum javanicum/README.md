@@ -1,5 +1,4 @@
-Meristosporum javanicum A. Massal. SPECIES
-=======
+# Meristosporum javanicum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

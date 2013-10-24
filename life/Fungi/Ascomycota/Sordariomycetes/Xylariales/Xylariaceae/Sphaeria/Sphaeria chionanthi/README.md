@@ -1,5 +1,4 @@
-Sphaeria chionanthi Berk. & Broome SPECIES
-=======
+# Sphaeria chionanthi Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

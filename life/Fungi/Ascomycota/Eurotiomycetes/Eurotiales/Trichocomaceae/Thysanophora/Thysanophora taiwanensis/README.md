@@ -1,5 +1,4 @@
-Thysanophora taiwanensis (Matsush.) Mercado, Gené & Guarro, 1998 SPECIES
-=======
+# Thysanophora taiwanensis (Matsush.) Mercado, Gené & Guarro, 1998 SPECIES
 
 #### Status
 ACCEPTED

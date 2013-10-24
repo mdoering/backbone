@@ -1,8 +1,7 @@
-Inocybe fulvi-umbonata Murrill SPECIES
-=======
+# Inocybe fulvoumbonata Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Inocybe fulvi-umbonata Murrill
+Inocybe fulvoumbonata Murrill
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meliola pomaderris Hansf. SPECIES
-=======
+# Meliola pomaderris Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perisporium punctatum (Auersw.) Sacc. SPECIES
-=======
+# Perisporium punctatum (Auersw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

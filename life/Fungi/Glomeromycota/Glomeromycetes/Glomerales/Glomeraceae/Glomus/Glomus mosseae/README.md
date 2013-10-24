@@ -1,5 +1,4 @@
-Glomus mosseae (T.H. Nicolson & Gerd.) Gerd. & Trappe, 1974 SPECIES
-=======
+# Glomus mosseae (T.H. Nicolson & Gerd.) Gerd. & Trappe, 1974 SPECIES
 
 #### Status
 ACCEPTED

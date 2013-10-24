@@ -1,5 +1,4 @@
-Ascochyta versicolor Bubák SPECIES
-=======
+# Ascochyta versicolor Bubák SPECIES
 
 #### Status
 ACCEPTED

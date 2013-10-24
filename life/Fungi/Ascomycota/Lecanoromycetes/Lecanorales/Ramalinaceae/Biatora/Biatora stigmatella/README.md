@@ -1,5 +1,4 @@
-Biatora stigmatella Tuck. SPECIES
-=======
+# Biatora stigmatella Tuck. SPECIES
 
 #### Status
 ACCEPTED

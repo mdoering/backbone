@@ -1,5 +1,4 @@
-Tuber regium Rumph. SPECIES
-=======
+# Tuber regium Rumph. SPECIES
 
 #### Status
 ACCEPTED

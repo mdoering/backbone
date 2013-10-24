@@ -1,17 +1,16 @@
-Cerania Gray GENUS
-=======
+# Thamnolia Ach. ex Schaer. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Arr. Brit. Pl. (London) 1: 413 (1821)
+Enum. critic. lich. europ. (Bern) 243 (1850)
 
 #### Original name
-Cerania Gray
+Thamnolia Ach. ex Schaer.
 
 ### Remarks
 null

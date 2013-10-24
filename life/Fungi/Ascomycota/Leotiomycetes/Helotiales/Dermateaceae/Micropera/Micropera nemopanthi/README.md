@@ -1,8 +1,7 @@
-Micropera nemopanthis Peck SPECIES
-=======
+# Micropera nemopanthi Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Micropera nemopanthis Peck
+Micropera nemopanthi Peck
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rabenhorstiites mirabilis Teterevn. & Tasl. SPECIES
-=======
+# Rabenhorstiites mirabilis Teterevn. & Tasl. SPECIES
 
 #### Status
 ACCEPTED

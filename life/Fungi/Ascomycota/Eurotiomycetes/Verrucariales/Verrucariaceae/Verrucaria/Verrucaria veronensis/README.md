@@ -1,5 +1,4 @@
-Verrucaria veronensis f. veronensis FORM
-=======
+# Verrucaria veronensis A. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria veronensis f. veronensis
+Verrucaria veronensis A. Massal.
 
 ### Remarks
 null

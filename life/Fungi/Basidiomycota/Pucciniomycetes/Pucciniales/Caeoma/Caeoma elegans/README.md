@@ -1,5 +1,4 @@
-Caeoma elegans Schltdl. SPECIES
-=======
+# Caeoma elegans Schltdl. SPECIES
 
 #### Status
 ACCEPTED

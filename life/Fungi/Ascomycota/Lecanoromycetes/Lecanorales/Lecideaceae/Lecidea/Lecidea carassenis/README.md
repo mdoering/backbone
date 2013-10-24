@@ -1,5 +1,4 @@
-Lecidea carassenis Vain. SPECIES
-=======
+# Lecidea carassenis Vain. SPECIES
 
 #### Status
 ACCEPTED

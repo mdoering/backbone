@@ -1,14 +1,13 @@
-Isariopsis mespili Woron., 1924 SPECIES
-=======
+# Phacellium mespili (Woron.) U. Braun, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notul. syst. Inst. cryptog. Horti bot. petropol. 3: 32 (1924)
+Nova Hedwigia 58(1-2): 206 (1994)
 
 #### Original name
 Isariopsis mespili Woron., 1924

@@ -1,5 +1,4 @@
-Sorosporium hainanae Zundel SPECIES
-=======
+# Sorosporium hainanae Zundel SPECIES
 
 #### Status
 ACCEPTED

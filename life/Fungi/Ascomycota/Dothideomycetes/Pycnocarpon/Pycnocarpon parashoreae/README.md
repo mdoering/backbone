@@ -1,5 +1,4 @@
-Pycnocarpon parashoreae Syd. SPECIES
-=======
+# Pycnocarpon parashoreae Syd. SPECIES
 
 #### Status
 ACCEPTED

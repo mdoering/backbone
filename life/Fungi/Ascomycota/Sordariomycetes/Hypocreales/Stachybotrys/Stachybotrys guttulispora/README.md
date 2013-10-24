@@ -1,5 +1,4 @@
-Stachybotrys guttulispora Muhsin & Al-Helfi SPECIES
-=======
+# Stachybotrys guttulispora Muhsin & Al-Helfi SPECIES
 
 #### Status
 ACCEPTED

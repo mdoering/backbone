@@ -1,5 +1,4 @@
-Puccinia philibertiae Ellis & Everh. SPECIES
-=======
+# Puccinia philibertiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

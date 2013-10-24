@@ -1,5 +1,4 @@
-Sarcodon violaceus Quél. SPECIES
-=======
+# Sarcodon violaceus Quél. SPECIES
 
 #### Status
 ACCEPTED

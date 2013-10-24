@@ -1,5 +1,4 @@
-Lactarius annulifer Singer SPECIES
-=======
+# Lactarius annulifer Singer SPECIES
 
 #### Status
 ACCEPTED

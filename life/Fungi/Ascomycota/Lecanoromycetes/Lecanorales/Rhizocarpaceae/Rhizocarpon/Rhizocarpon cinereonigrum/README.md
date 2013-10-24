@@ -1,5 +1,4 @@
-Rhizocarpon cinereonigrum Vain. SPECIES
-=======
+# Rhizocarpon cinereonigrum Vain. SPECIES
 
 #### Status
 ACCEPTED

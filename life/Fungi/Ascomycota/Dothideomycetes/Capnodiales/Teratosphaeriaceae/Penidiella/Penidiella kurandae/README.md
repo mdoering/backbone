@@ -1,5 +1,4 @@
-Penidiella kurandae Crous & J.K. Stone, 2007 SPECIES
-=======
+# Penidiella kurandae Crous & J.K. Stone, 2007 SPECIES
 
 #### Status
 ACCEPTED

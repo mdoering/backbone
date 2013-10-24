@@ -1,14 +1,13 @@
-Valsa aspera Nitschke, 1867 SPECIES
-=======
+# Eutypa aspera (Nitschke) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pyrenomycetes Germanici 1: 132 (1867)
+Jb. nassau. Ver. Naturk. 23-24: 214 (1870)
 
 #### Original name
 Valsa aspera Nitschke, 1867

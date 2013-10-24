@@ -1,5 +1,4 @@
-Verrucaria tatrensis Servít SPECIES
-=======
+# Verrucaria tatrensis Servít SPECIES
 
 #### Status
 ACCEPTED

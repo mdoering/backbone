@@ -1,14 +1,13 @@
-Polyporus merrittii (Murrill) Sacc. & Trotter, 1912 SPECIES
-=======
+# Tyromyces merrittii Murrill, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 278 (1912)
+Bull. Torrey bot. Club 35: 406 (1908)
 
 #### Original name
 Tyromyces merrittii Murrill, 1908

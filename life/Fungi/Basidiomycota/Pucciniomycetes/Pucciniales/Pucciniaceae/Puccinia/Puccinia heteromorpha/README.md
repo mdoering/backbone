@@ -1,5 +1,4 @@
-Puccinia heteromorpha Speg. SPECIES
-=======
+# Puccinia heteromorpha Speg. SPECIES
 
 #### Status
 ACCEPTED

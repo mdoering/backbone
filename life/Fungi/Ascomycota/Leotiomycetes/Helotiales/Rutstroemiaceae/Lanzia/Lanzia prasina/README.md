@@ -1,5 +1,4 @@
-Lanzia prasina (Massee) Spooner SPECIES
-=======
+# Lanzia prasina (Massee) Spooner SPECIES
 
 #### Status
 ACCEPTED

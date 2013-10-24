@@ -1,5 +1,4 @@
-Crepidotus rubriceps Singer SPECIES
-=======
+# Crepidotus rubriceps Singer SPECIES
 
 #### Status
 ACCEPTED

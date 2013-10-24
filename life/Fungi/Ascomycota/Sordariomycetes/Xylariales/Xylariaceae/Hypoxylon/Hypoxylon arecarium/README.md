@@ -1,5 +1,4 @@
-Hypoxylon arecarium (Bory) Mont. SPECIES
-=======
+# Hypoxylon arecarium (Bory) Mont. SPECIES
 
 #### Status
 ACCEPTED

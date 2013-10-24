@@ -1,5 +1,4 @@
-Myeloconis guyanensis P. M. McCarthy & Elix SPECIES
-=======
+# Myeloconis guyanensis P. M. McCarthy & Elix SPECIES
 
 #### Status
 ACCEPTED

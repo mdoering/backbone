@@ -1,5 +1,4 @@
-Phoma epidermidis Fautrey SPECIES
-=======
+# Phoma epidermidis Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora bupleuri Henn. SPECIES
-=======
+# Physalospora bupleuri Henn. SPECIES
 
 #### Status
 ACCEPTED

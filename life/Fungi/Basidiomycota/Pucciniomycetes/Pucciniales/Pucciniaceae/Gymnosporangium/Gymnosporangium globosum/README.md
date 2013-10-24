@@ -1,5 +1,4 @@
-Gymnosporangium globosum Farl., 1880 SPECIES
-=======
+# Gymnosporangium globosum Farl., 1880 SPECIES
 
 #### Status
 ACCEPTED

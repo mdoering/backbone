@@ -1,5 +1,4 @@
-Uromyces bufforestiae Cummins SPECIES
-=======
+# Uromyces bufforestiae Cummins SPECIES
 
 #### Status
 ACCEPTED

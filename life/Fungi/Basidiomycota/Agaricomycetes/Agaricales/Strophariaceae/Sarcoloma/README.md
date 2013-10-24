@@ -1,5 +1,4 @@
-Sarcoloma GENUS
-=======
+# Sarcoloma GENUS
 
 #### Status
 ACCEPTED

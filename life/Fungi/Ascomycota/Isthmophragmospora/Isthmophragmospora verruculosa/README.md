@@ -1,5 +1,4 @@
-Isthmophragmospora verruculosa Kuthub. & Nawawi, 1992 SPECIES
-=======
+# Isthmophragmospora verruculosa Kuthub. & Nawawi, 1992 SPECIES
 
 #### Status
 ACCEPTED

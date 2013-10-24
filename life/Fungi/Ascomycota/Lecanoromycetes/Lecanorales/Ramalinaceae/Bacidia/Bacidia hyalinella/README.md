@@ -1,5 +1,4 @@
-Bacidia hyalinella (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia hyalinella (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

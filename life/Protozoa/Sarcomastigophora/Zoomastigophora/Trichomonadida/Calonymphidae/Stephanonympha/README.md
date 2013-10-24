@@ -1,5 +1,4 @@
-Stephanonympha C.Janicki GENUS
-=======
+# Stephanonympha C.Janicki GENUS
 
 #### Status
 ACCEPTED

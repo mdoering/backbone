@@ -1,5 +1,4 @@
-Diplodia uvicola Speschnew SPECIES
-=======
+# Diplodia uvicola Speschnew SPECIES
 
 #### Status
 ACCEPTED

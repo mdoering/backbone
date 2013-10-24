@@ -1,5 +1,4 @@
-Didymellopsis gelidaria (Mudd) SPECIES
-=======
+# Didymellopsis gelidaria (Mudd) SPECIES
 
 #### Status
 ACCEPTED

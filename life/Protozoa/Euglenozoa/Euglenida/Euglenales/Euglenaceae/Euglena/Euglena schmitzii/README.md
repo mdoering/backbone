@@ -1,5 +1,4 @@
-Euglena schmitzii Gojdics SPECIES
-=======
+# Euglena schmitzii Gojdics SPECIES
 
 #### Status
 ACCEPTED

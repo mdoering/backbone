@@ -1,5 +1,4 @@
-Psora gypsophila (Schrad.) Hoffm. SPECIES
-=======
+# Psora gypsophila (Schrad.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

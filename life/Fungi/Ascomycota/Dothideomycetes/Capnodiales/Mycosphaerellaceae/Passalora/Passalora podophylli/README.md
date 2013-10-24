@@ -1,5 +1,4 @@
-Passalora podophylli (Tehon & E.Y. Daniels) U. Braun & Crous SPECIES
-=======
+# Passalora podophylli (Tehon & E.Y. Daniels) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

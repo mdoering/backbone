@@ -1,5 +1,4 @@
-Opegrapha cryptotheciae Matzer SPECIES
-=======
+# Opegrapha cryptotheciae Matzer SPECIES
 
 #### Status
 ACCEPTED

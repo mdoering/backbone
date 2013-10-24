@@ -1,5 +1,4 @@
-Trinacrium pulchellum Speg. SPECIES
-=======
+# Trinacrium pulchellum Speg. SPECIES
 
 #### Status
 ACCEPTED

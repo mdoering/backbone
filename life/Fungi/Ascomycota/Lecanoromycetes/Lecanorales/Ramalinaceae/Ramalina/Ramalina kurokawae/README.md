@@ -1,5 +1,4 @@
-Ramalina kurokawae Kashiw. SPECIES
-=======
+# Ramalina kurokawae Kashiw. SPECIES
 
 #### Status
 ACCEPTED

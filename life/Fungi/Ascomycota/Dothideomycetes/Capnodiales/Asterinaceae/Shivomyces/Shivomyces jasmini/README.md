@@ -1,17 +1,16 @@
-Shivamyces jasmini Hosag., 2004 SPECIES
-=======
+# Shivomyces jasmini Hosag., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 28(1): 194 (2004)
 
 #### Original name
-Shivamyces jasmini Hosag., 2004
+Shivomyces jasmini Hosag., 2004
 
 ### Remarks
 null

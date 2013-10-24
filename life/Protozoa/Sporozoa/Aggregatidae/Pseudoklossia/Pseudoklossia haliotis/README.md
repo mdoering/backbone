@@ -1,5 +1,4 @@
-Pseudoklossia haliotis Friedman, Gardner, Hedrick, Stephenson, Cawthrn & Upton, 1995 SPECIES
-=======
+# Pseudoklossia haliotis Friedman, Gardner, Hedrick, Stephenson, Cawthrn & Upton, 1995 SPECIES
 
 #### Status
 ACCEPTED

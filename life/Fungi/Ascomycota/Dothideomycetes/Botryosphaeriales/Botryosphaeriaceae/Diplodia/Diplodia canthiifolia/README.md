@@ -1,5 +1,4 @@
-Diplodia canthiifolia Cooke & Massee SPECIES
-=======
+# Diplodia canthiifolia Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

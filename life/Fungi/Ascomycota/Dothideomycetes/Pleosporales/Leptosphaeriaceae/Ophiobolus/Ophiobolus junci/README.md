@@ -1,5 +1,4 @@
-Ophiobolus junci J.H. Mill. & Burton SPECIES
-=======
+# Ophiobolus junci J.H. Mill. & Burton SPECIES
 
 #### Status
 ACCEPTED

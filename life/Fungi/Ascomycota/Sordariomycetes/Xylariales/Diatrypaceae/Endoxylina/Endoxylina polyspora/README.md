@@ -1,5 +1,4 @@
-Endoxylina polyspora E. Müll. SPECIES
-=======
+# Endoxylina polyspora E. Müll. SPECIES
 
 #### Status
 ACCEPTED

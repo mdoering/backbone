@@ -1,5 +1,4 @@
-Phyllachora macularum Petr. & Cif., 1932 SPECIES
-=======
+# Phyllachora macularum Petr. & Cif., 1932 SPECIES
 
 #### Status
 DOUBTFUL

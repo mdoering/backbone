@@ -1,5 +1,4 @@
-Fomitopsis rubritincta anon. SPECIES
-=======
+# Fomitopsis rubritincta anon. SPECIES
 
 #### Status
 ACCEPTED

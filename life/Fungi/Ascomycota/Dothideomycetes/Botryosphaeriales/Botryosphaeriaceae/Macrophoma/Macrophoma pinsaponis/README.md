@@ -1,5 +1,4 @@
-Macrophoma pinsaponis Neger SPECIES
-=======
+# Macrophoma pinsaponis Neger SPECIES
 
 #### Status
 ACCEPTED

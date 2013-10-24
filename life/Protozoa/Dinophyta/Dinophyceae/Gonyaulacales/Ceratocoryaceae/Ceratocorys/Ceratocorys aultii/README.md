@@ -1,5 +1,4 @@
-Ceratocorys aultii Graham, 1942 SPECIES
-=======
+# Ceratocorys aultii Graham, 1942 SPECIES
 
 #### Status
 ACCEPTED

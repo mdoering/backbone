@@ -1,5 +1,4 @@
-Glomerularia ramosa H. Karst. SPECIES
-=======
+# Glomerularia ramosa H. Karst. SPECIES
 
 #### Status
 ACCEPTED

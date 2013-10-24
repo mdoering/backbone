@@ -1,5 +1,4 @@
-Barrina polyspora A.W. Ramaley, 1997 SPECIES
-=======
+# Barrina polyspora A.W. Ramaley, 1997 SPECIES
 
 #### Status
 ACCEPTED

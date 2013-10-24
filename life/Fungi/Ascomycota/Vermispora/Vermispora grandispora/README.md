@@ -1,5 +1,4 @@
-Vermispora grandispora Deighton & Piroz., 1972 SPECIES
-=======
+# Vermispora grandispora Deighton & Piroz., 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heyderia pusilla (Alb. & Schwein.) Link, 1833 SPECIES
-=======
+# Heyderia pusilla (Alb. & Schwein.) Link, 1833 SPECIES
 
 #### Status
 ACCEPTED

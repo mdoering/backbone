@@ -1,5 +1,4 @@
-Entoloma rubellum (Scop.) Gillet SPECIES
-=======
+# Entoloma rubellum (Scop.) Gillet SPECIES
 
 #### Status
 ACCEPTED

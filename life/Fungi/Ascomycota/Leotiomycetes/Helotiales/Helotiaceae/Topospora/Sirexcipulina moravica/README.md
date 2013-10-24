@@ -1,5 +1,4 @@
-Sirexcipulina moravica Petr. SPECIES
-=======
+# Sirexcipulina moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

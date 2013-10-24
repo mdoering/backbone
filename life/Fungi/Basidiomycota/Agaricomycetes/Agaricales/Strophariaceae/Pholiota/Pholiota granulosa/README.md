@@ -1,5 +1,4 @@
-Pholiota granulosa (Peck) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota granulosa (Peck) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

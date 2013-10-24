@@ -1,5 +1,4 @@
-Hermatomyces dimorphus V. Rao & de Hoog SPECIES
-=======
+# Hermatomyces dimorphus V. Rao & de Hoog SPECIES
 
 #### Status
 ACCEPTED

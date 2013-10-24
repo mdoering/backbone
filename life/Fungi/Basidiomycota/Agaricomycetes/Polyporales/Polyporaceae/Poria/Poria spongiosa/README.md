@@ -1,5 +1,4 @@
-Poria spongiosa (Pers.) Gray SPECIES
-=======
+# Poria spongiosa (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED

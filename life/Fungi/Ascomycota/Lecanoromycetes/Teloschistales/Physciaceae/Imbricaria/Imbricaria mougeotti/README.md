@@ -1,5 +1,4 @@
-Imbricaria mougeotti SPECIES
-=======
+# Imbricaria mougeotti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia addita Syd. SPECIES
-=======
+# Puccinia addita Syd. SPECIES
 
 #### Status
 ACCEPTED

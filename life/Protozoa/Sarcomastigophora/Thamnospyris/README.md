@@ -1,5 +1,4 @@
-Thamnospyris Haeckel, 1881 GENUS
-=======
+# Thamnospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

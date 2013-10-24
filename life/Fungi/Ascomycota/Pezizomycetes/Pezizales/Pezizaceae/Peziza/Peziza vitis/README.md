@@ -1,5 +1,4 @@
-Peziza vitis Schwein. SPECIES
-=======
+# Peziza vitis Schwein. SPECIES
 
 #### Status
 ACCEPTED

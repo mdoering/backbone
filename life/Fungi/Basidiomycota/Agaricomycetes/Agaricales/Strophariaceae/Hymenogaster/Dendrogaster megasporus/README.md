@@ -1,5 +1,4 @@
-Dendrogaster megasporus Zeller & C.W. Dodge SPECIES
-=======
+# Dendrogaster megasporus Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

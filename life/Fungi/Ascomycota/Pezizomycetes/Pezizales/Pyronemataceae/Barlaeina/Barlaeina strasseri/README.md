@@ -1,5 +1,4 @@
-Barlaeina strasseri Bres. SPECIES
-=======
+# Barlaeina strasseri Bres. SPECIES
 
 #### Status
 ACCEPTED

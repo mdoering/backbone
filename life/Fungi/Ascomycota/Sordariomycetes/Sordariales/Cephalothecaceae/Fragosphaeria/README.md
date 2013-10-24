@@ -1,5 +1,4 @@
-Fragosphaeria Shear GENUS
-=======
+# Fragosphaeria Shear GENUS
 
 #### Status
 ACCEPTED

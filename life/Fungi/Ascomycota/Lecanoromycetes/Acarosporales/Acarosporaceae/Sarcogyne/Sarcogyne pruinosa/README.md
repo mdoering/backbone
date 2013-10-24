@@ -1,5 +1,4 @@
-Sarcogyne pruinosa var. pruinosa VARIETY
-=======
+# Sarcogyne pruinosa Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) 267 (1855)
 
 #### Original name
-Sarcogyne pruinosa var. pruinosa
+Lichen pruinosus Humb.
 
 ### Remarks
 null

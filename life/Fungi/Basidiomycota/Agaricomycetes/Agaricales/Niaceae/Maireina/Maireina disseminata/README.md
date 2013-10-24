@@ -1,5 +1,4 @@
-Maireina disseminata (Berk. & Broome) W.B. Cooke SPECIES
-=======
+# Maireina disseminata (Berk. & Broome) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

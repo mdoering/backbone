@@ -1,5 +1,4 @@
-Gloeocapsa cartilaginea Gardner SPECIES
-=======
+# Gloeocapsa cartilaginea Gardner SPECIES
 
 #### Status
 ACCEPTED

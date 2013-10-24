@@ -1,5 +1,4 @@
-Enretisphaeridium metistoidum Ouyang Shu et al., 1974 SPECIES
-=======
+# Enretisphaeridium metistoidum Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

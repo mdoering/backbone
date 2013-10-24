@@ -1,5 +1,4 @@
-Rinodina guianensis Aptroot SPECIES
-=======
+# Rinodina guianensis Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyrostroma jatrophae Turconi & Maffei SPECIES
-=======
+# Thyrostroma jatrophae Turconi & Maffei SPECIES
 
 #### Status
 ACCEPTED

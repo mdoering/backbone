@@ -1,5 +1,4 @@
-Chaetomium hyaloperidium A. Carter, 1983 SPECIES
-=======
+# Chaetomium hyaloperidium A. Carter, 1983 SPECIES
 
 #### Status
 ACCEPTED

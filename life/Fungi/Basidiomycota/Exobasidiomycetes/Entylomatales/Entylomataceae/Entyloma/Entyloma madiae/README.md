@@ -1,5 +1,4 @@
-Entyloma madiae Cif. SPECIES
-=======
+# Entyloma madiae Cif. SPECIES
 
 #### Status
 ACCEPTED

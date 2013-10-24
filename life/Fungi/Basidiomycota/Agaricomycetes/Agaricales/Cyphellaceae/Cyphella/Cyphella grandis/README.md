@@ -1,5 +1,4 @@
-Cyphella grandis Pat. SPECIES
-=======
+# Cyphella grandis Pat. SPECIES
 
 #### Status
 ACCEPTED

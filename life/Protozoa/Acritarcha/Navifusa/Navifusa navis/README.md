@@ -1,5 +1,4 @@
-Navifusa navis (Eisenack, 1938) Eisenack, 1976 SPECIES
-=======
+# Navifusa navis (Eisenack, 1938) Eisenack, 1976 SPECIES
 
 #### Status
 ACCEPTED

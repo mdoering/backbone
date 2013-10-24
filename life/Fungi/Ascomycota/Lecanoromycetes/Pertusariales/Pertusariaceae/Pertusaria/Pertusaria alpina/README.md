@@ -1,5 +1,4 @@
-Pertusaria alpina subsp. alpina SUBSPECIES
-=======
+# Pertusaria alpina Hepp ex Ahles SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Pertus. et Conotr. 12 (1860)
+null
 
 #### Original name
-Pertusaria alpina subsp. alpina
+null
 
 ### Remarks
 null

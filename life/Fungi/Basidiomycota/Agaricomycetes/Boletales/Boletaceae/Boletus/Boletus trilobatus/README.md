@@ -1,5 +1,4 @@
-Boletus trilobatus With. SPECIES
-=======
+# Boletus trilobatus With. SPECIES
 
 #### Status
 ACCEPTED

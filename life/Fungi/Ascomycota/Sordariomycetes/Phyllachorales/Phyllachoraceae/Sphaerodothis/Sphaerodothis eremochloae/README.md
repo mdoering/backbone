@@ -1,5 +1,4 @@
-Sphaerodothis eremochloae Sawada, 1959 SPECIES
-=======
+# Sphaerodothis eremochloae Sawada, 1959 SPECIES
 
 #### Status
 ACCEPTED

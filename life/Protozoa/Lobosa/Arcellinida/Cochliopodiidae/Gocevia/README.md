@@ -1,5 +1,4 @@
-Gocevia Valkanov, 1934 GENUS
-=======
+# Gocevia Valkanov, 1934 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tryblidiella olivetorum Sacc. SPECIES
-=======
+# Tryblidiella olivetorum Sacc. SPECIES
 
 #### Status
 ACCEPTED

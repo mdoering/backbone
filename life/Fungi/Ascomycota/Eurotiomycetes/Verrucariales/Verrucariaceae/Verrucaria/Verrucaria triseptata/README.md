@@ -1,5 +1,4 @@
-Verrucaria triseptata (Nyl.) Nyl. SPECIES
-=======
+# Verrucaria triseptata (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

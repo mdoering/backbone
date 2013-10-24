@@ -1,5 +1,4 @@
-Psathyrella pseudofoenisecii A.H. Sm. SPECIES
-=======
+# Psathyrella pseudofoenisecii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

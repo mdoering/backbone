@@ -1,14 +1,13 @@
-Psilocybe albonitens (Fr.) Noordel., 1995 SPECIES
-=======
+# Stropharia albonitens (Fr.) Quél., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 16(1): 128 (1995)
+Champs Jura Vosges 3: 439 (1875)
 
 #### Original name
 Agaricus albonitens Fr., 1857

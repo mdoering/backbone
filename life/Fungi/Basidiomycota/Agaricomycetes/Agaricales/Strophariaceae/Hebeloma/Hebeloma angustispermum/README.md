@@ -1,5 +1,4 @@
-Hebeloma angustispermum A. Pearson SPECIES
-=======
+# Hebeloma angustispermum A. Pearson SPECIES
 
 #### Status
 ACCEPTED

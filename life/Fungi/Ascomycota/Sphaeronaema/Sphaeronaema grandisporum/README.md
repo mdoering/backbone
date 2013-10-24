@@ -1,5 +1,4 @@
-Sphaeronaema grandisporum Höhn. SPECIES
-=======
+# Sphaeronaema grandisporum Höhn. SPECIES
 
 #### Status
 ACCEPTED

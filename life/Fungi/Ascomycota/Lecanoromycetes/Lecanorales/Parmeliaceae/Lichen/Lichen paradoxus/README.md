@@ -1,5 +1,4 @@
-Lichen paradoxus Ehrht. SPECIES
-=======
+# Lichen paradoxus Ehrht. SPECIES
 
 #### Status
 ACCEPTED

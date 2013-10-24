@@ -1,5 +1,4 @@
-Plochmopeltidella antiqua Dilcher SPECIES
-=======
+# Plochmopeltidella antiqua Dilcher SPECIES
 
 #### Status
 ACCEPTED

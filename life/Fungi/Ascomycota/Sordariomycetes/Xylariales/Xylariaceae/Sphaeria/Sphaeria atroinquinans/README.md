@@ -1,5 +1,4 @@
-Sphaeria atroinquinans Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria atroinquinans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

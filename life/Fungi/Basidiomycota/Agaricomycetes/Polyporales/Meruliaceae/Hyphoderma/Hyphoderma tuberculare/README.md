@@ -1,5 +1,4 @@
-Hyphoderma tuberculare Hjortstam & Ryvarden, 1982 SPECIES
-=======
+# Hyphoderma tuberculare Hjortstam & Ryvarden, 1982 SPECIES
 
 #### Status
 ACCEPTED

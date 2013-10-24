@@ -1,14 +1,13 @@
-Ustilago luzulae Sacc., 1873 SPECIES
-=======
+# Stegocintractia luzulae (Sacc.) M. Piepenbr., Begerow & Oberw., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotheca veneti 73 (1873)
+Mycologia 91(3): 497 (1999)
 
 #### Original name
 Ustilago luzulae Sacc., 1873

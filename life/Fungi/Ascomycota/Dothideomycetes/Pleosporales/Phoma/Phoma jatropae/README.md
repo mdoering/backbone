@@ -1,5 +1,4 @@
-Phoma jatropae Shreem. SPECIES
-=======
+# Phoma jatropae Shreem. SPECIES
 
 #### Status
 ACCEPTED

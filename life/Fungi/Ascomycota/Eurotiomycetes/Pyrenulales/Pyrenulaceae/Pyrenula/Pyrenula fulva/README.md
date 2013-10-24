@@ -1,5 +1,4 @@
-Pyrenula fulva (Kremp.) Müll. Arg. SPECIES
-=======
+# Pyrenula fulva (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

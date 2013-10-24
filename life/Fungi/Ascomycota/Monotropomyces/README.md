@@ -1,5 +1,4 @@
-Monotropomyces Costantin & Dufour GENUS
-=======
+# Monotropomyces Costantin & Dufour GENUS
 
 #### Status
 ACCEPTED

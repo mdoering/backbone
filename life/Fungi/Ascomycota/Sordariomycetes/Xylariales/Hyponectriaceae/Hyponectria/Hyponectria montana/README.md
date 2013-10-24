@@ -1,5 +1,4 @@
-Hyponectria montana (Sacc.) P.F. Cannon SPECIES
-=======
+# Hyponectria montana (Sacc.) P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

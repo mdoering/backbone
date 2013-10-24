@@ -1,5 +1,4 @@
-Bacidia vagula (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia vagula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

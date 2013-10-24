@@ -1,5 +1,4 @@
-Dicaeoma trifoliatae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma trifoliatae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

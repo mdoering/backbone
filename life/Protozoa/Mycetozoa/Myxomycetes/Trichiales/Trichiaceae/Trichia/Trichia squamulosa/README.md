@@ -1,5 +1,4 @@
-Trichia squamulosa (Pers.) Poir. SPECIES
-=======
+# Trichia squamulosa (Pers.) Poir. SPECIES
 
 #### Status
 ACCEPTED

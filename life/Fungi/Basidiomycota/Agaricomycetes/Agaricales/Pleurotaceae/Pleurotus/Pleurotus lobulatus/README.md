@@ -1,5 +1,4 @@
-Pleurotus lobulatus (Lév.) Sacc. SPECIES
-=======
+# Pleurotus lobulatus (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

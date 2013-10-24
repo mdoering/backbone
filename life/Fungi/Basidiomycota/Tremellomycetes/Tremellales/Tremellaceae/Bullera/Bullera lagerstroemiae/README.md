@@ -1,5 +1,4 @@
-Bullera lagerstroemiae Fungsin, M. Takash., Sugita & Nakase SPECIES
-=======
+# Bullera lagerstroemiae Fungsin, M. Takash., Sugita & Nakase SPECIES
 
 #### Status
 ACCEPTED

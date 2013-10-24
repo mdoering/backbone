@@ -1,5 +1,4 @@
-Caloplaca festiva var. festiva VARIETY
-=======
+# Caloplaca festiva SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca festiva var. festiva
+null
 
 ### Remarks
 null

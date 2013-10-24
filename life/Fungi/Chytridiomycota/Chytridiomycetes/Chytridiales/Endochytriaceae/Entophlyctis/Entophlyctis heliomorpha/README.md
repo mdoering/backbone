@@ -1,5 +1,4 @@
-Entophlyctis heliomorpha (P.A. Dang.) A. Fisch. SPECIES
-=======
+# Entophlyctis heliomorpha (P.A. Dang.) A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

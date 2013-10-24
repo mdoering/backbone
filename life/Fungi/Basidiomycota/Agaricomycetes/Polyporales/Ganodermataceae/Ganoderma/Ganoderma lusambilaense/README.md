@@ -1,5 +1,4 @@
-Ganoderma lusambilaense Steyaert SPECIES
-=======
+# Ganoderma lusambilaense Steyaert SPECIES
 
 #### Status
 ACCEPTED

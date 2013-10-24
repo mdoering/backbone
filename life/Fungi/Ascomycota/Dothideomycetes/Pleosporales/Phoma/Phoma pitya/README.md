@@ -1,5 +1,4 @@
-Phoma pitya var. pitya VARIETY
-=======
+# Phoma pitya Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Michelia 1(no. 2): 126 (1878)
 
 #### Original name
-Phoma pitya var. pitya
+Phoma pitya Sacc.
 
 ### Remarks
 null

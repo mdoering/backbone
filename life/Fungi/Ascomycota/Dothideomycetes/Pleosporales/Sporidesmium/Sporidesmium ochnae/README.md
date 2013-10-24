@@ -1,5 +1,4 @@
-Sporidesmium ochnae Cheng K. Shi & X.G. Zhang SPECIES
-=======
+# Sporidesmium ochnae Cheng K. Shi & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

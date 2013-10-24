@@ -1,5 +1,4 @@
-Sympodiophora venezuelensis Deighton & Piroz. SPECIES
-=======
+# Sympodiophora venezuelensis Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

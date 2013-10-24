@@ -1,5 +1,4 @@
-Seynesia piraguensis Speg. SPECIES
-=======
+# Seynesia piraguensis Speg. SPECIES
 
 #### Status
 ACCEPTED

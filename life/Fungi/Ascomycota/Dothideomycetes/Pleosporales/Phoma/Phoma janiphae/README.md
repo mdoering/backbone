@@ -1,5 +1,4 @@
-Phoma janiphae f. janiphae FORM
-=======
+# Phoma janiphae Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma janiphae f. janiphae
+Phoma janiphae Sacc.
 
 ### Remarks
 null

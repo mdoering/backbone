@@ -1,5 +1,4 @@
-Echinosteliopsis oligospora Reinhardt & Olive, 1967 ("1966") SPECIES
-=======
+# Echinosteliopsis oligospora Reinhardt & Olive, 1967 ("1966") SPECIES
 
 #### Status
 ACCEPTED

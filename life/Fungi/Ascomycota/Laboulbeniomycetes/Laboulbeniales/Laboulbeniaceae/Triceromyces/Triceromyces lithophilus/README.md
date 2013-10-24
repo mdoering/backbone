@@ -1,5 +1,4 @@
-Triceromyces lithophilus R.K. Benj. SPECIES
-=======
+# Triceromyces lithophilus R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudostigmidium confusum Etayo, 2008 SPECIES
-=======
+# Pseudostigmidium confusum Etayo, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinoplanes ferrugineus Palleroni, 1979 (Approved Lists, 1980) SPECIES
-=======
+# Actinoplanes ferrugineus Palleroni, 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

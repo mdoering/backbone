@@ -1,5 +1,4 @@
-Ascochyta ramischiae Vasyag. SPECIES
-=======
+# Ascochyta ramischiae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

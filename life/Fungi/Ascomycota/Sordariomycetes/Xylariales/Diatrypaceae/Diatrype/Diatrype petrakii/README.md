@@ -1,5 +1,4 @@
-Diatrype petrakii Rappaz SPECIES
-=======
+# Diatrype petrakii Rappaz SPECIES
 
 #### Status
 ACCEPTED

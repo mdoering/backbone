@@ -1,17 +1,16 @@
-Peziza sarcoides var. sarcoides VARIETY
-=======
+# Peziza sarcoides Wahlenb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Fl. Suecica 1078 (1826)
 
 #### Original name
-null
+Peziza sarcoides Wahlenb.
 
 ### Remarks
 null

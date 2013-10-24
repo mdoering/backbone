@@ -1,17 +1,16 @@
-Sporidiobolus ruinenii var. coprophilus Kurtzman & Fell VARIETY
-=======
+# Sporidiobolus ruineniae Holzschu, Tredick & Phaff, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Curr. Microbiol. 5(2): 75 (1981)
 
 #### Original name
-Sporidiobolus ruinenii var. coprophilus Kurtzman & Fell
+Sporidiobolus ruineniae Holzschu, Tredick & Phaff, 1981
 
 ### Remarks
 null

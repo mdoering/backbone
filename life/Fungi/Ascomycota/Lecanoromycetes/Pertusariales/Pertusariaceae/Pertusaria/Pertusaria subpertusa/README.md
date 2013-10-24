@@ -1,5 +1,4 @@
-Pertusaria subpertusa Brodo SPECIES
-=======
+# Pertusaria subpertusa Brodo SPECIES
 
 #### Status
 ACCEPTED

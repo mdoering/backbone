@@ -1,5 +1,4 @@
-Tubulinosema C. Franzen, S. Fischer, J. Schroeder, J. Schölmerich & S. Schneuwly GENUS
-=======
+# Tubulinosema C. Franzen, S. Fischer, J. Schroeder, J. Schölmerich & S. Schneuwly GENUS
 
 #### Status
 ACCEPTED

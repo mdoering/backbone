@@ -1,5 +1,4 @@
-Cephaloidophora tregouboffi Théodoridès & Desportes, 1975 SPECIES
-=======
+# Cephaloidophora tregouboffi Théodoridès & Desportes, 1975 SPECIES
 
 #### Status
 ACCEPTED

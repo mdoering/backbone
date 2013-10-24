@@ -1,5 +1,4 @@
-Corynebacterium accolens Neubauer et al., 1991 SPECIES
-=======
+# Corynebacterium accolens Neubauer et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

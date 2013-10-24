@@ -1,5 +1,4 @@
-Euplotopsis encystica (Yonezawa, 1985) Borror & Hill, 1995 SPECIES
-=======
+# Euplotopsis encystica (Yonezawa, 1985) Borror & Hill, 1995 SPECIES
 
 #### Status
 ACCEPTED

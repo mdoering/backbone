@@ -1,5 +1,4 @@
-Mattosmonas Skvotzov, 1969 GENUS
-=======
+# Mattosmonas Skvotzov, 1969 GENUS
 
 #### Status
 ACCEPTED

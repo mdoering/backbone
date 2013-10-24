@@ -1,5 +1,4 @@
-Gaillardotella Bory de Saint-Vincent ex Kuntze, 1898 GENUS
-=======
+# Gaillardotella Bory de Saint-Vincent ex Kuntze, 1898 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fulgensia australis (Arnold) Poelt SPECIES
-=======
+# Fulgensia australis (Arnold) Poelt SPECIES
 
 #### Status
 ACCEPTED

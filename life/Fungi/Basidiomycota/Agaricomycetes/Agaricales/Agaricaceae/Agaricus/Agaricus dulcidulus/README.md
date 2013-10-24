@@ -1,17 +1,16 @@
-Agaricus rubelloides Bon, 1985 SPECIES
-=======
+# Agaricus dulcidulus Schulzer, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 15(no. 60): 22 (1985)
+in Kalchbrenner, Icon. Sel. Hymenomyc. Hung. 29 (1874)
 
 #### Original name
-Pratella rubella Gillet, 1878
+Agaricus dulcidulus Schulzer, 1874
 
 ### Remarks
 null

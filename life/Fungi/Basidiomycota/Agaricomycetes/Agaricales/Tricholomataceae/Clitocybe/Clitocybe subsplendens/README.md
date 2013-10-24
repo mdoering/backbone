@@ -1,5 +1,4 @@
-Clitocybe subsplendens (Cooke & Massee) Sacc. SPECIES
-=======
+# Clitocybe subsplendens (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

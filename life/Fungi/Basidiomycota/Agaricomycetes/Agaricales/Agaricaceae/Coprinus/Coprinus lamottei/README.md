@@ -1,5 +1,4 @@
-Coprinus lamottei Gillet SPECIES
-=======
+# Coprinus lamottei Gillet SPECIES
 
 #### Status
 ACCEPTED

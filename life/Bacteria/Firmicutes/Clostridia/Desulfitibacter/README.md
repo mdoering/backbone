@@ -1,5 +1,4 @@
-Desulfitibacter Nielsen et al., 2006 GENUS
-=======
+# Desulfitibacter Nielsen et al., 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha robusta Vain. SPECIES
-=======
+# Opegrapha robusta Vain. SPECIES
 
 #### Status
 ACCEPTED

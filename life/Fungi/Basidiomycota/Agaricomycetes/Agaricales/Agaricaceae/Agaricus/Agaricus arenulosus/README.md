@@ -1,5 +1,4 @@
-Agaricus arenulosus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus arenulosus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

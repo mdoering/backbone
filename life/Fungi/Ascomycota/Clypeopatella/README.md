@@ -1,5 +1,4 @@
-Clypeopatella Petr. GENUS
-=======
+# Clypeopatella Petr. GENUS
 
 #### Status
 ACCEPTED

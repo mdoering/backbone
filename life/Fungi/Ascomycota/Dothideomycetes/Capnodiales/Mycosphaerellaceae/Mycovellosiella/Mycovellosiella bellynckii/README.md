@@ -1,17 +1,16 @@
-Passalora bellynkii (Westend.) Poonam Srivast., 1994 SPECIES
-=======
+# Mycovellosiella bellynckii (Westend.) Constant., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cryptog. Mycol. 3(1): 67 (1982)
 
 #### Original name
-null
+Cladosporium bellynckii Westend., 1854
 
 ### Remarks
 null

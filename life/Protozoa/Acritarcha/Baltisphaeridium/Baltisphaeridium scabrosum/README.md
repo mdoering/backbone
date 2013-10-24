@@ -1,5 +1,4 @@
-Baltisphaeridium scabrosum Kiryanov, 1978 SPECIES
-=======
+# Baltisphaeridium scabrosum Kiryanov, 1978 SPECIES
 
 #### Status
 ACCEPTED

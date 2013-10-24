@@ -1,5 +1,4 @@
-Phytophthora sinensis Y.N. Yu & W.Y. Zhuang, 1982 SPECIES
-=======
+# Phytophthora sinensis Y.N. Yu & W.Y. Zhuang, 1982 SPECIES
 
 #### Status
 ACCEPTED

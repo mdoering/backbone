@@ -1,5 +1,4 @@
-Asanoa ishikariensis Lee & Hah, 2002 SPECIES
-=======
+# Asanoa ishikariensis Lee & Hah, 2002 SPECIES
 
 #### Status
 ACCEPTED

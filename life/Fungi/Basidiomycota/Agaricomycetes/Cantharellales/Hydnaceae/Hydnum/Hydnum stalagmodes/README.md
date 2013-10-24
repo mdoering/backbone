@@ -1,5 +1,4 @@
-Hydnum stalagmodes var. subciliolatum Rick VARIETY
-=======
+# Hydnum stalagmodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Egatea 17: 7 (1932)
+Proc. Amer. Acad. Arts & Sci. 4: 123 (1860)
 
 #### Original name
-Hydnum stalagmodes var. subciliolatum Rick
+Hydnum stalagmodes Berk. & M.A. Curtis
 
 ### Remarks
 null

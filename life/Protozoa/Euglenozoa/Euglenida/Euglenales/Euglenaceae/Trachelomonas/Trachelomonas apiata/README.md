@@ -1,5 +1,4 @@
-Trachelomonas apiata Skvortzov SPECIES
-=======
+# Trachelomonas apiata Skvortzov SPECIES
 
 #### Status
 ACCEPTED

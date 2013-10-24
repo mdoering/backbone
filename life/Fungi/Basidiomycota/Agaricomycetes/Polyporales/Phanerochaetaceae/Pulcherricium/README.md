@@ -1,5 +1,4 @@
-Pulcherricium Parmasto, 1968 GENUS
-=======
+# Pulcherricium Parmasto, 1968 GENUS
 
 #### Status
 ACCEPTED

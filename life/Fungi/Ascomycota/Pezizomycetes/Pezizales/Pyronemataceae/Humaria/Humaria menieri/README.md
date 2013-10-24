@@ -1,5 +1,4 @@
-Humaria menieri (Boud.) Donadini SPECIES
-=======
+# Humaria menieri (Boud.) Donadini SPECIES
 
 #### Status
 ACCEPTED

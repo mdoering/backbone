@@ -1,5 +1,4 @@
-Diplodina delphinii Golovin SPECIES
-=======
+# Diplodina delphinii Golovin SPECIES
 
 #### Status
 ACCEPTED

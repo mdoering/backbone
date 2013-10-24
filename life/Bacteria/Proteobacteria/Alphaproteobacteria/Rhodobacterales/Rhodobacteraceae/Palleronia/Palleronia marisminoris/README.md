@@ -1,5 +1,4 @@
-Palleronia marisminoris Martínez-Checa et al., 2005 SPECIES
-=======
+# Palleronia marisminoris Martínez-Checa et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

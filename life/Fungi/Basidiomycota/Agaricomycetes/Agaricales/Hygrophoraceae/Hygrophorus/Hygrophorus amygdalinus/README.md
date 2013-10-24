@@ -1,5 +1,4 @@
-Hygrophorus amygdalinus Peck SPECIES
-=======
+# Hygrophorus amygdalinus Peck SPECIES
 
 #### Status
 ACCEPTED

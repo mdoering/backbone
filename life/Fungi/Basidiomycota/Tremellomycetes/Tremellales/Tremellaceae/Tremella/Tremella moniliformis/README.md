@@ -1,5 +1,4 @@
-Tremella moniliformis Willd. SPECIES
-=======
+# Tremella moniliformis Willd. SPECIES
 
 #### Status
 ACCEPTED

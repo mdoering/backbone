@@ -1,5 +1,4 @@
-Sphaceloma ampelina de Bary SPECIES
-=======
+# Sphaceloma ampelina de Bary SPECIES
 
 #### Status
 ACCEPTED

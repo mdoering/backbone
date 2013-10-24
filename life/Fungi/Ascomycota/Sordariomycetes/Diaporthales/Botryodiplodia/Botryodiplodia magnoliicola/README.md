@@ -1,5 +1,4 @@
-Botryodiplodia magnoliicola (Siemaszko) Petr. SPECIES
-=======
+# Botryodiplodia magnoliicola (Siemaszko) Petr. SPECIES
 
 #### Status
 ACCEPTED

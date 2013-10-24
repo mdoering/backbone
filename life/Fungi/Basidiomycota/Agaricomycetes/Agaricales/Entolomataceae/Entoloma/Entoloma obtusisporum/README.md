@@ -1,5 +1,4 @@
-Entoloma obtusisporum E. Horak SPECIES
-=======
+# Entoloma obtusisporum E. Horak SPECIES
 
 #### Status
 ACCEPTED

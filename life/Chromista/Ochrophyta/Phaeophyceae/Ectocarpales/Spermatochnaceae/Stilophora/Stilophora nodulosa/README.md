@@ -1,8 +1,7 @@
-Stilophora tuberculosa (Hornemann) Reinke SPECIES
-=======
+# Stilophora nodulosa (C. Agardh) P.C. Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

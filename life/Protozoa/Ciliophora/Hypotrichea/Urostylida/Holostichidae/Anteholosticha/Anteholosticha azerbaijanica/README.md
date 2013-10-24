@@ -1,5 +1,4 @@
-Anteholosticha azerbaijanica Alekperov & Asadullayeva, 1999 SPECIES
-=======
+# Anteholosticha azerbaijanica Alekperov & Asadullayeva, 1999 SPECIES
 
 #### Status
 ACCEPTED

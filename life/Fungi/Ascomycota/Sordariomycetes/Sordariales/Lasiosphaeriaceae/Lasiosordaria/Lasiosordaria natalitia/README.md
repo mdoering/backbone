@@ -1,5 +1,4 @@
-Lasiosordaria natalitia (Speg.) Chenant. SPECIES
-=======
+# Lasiosordaria natalitia (Speg.) Chenant. SPECIES
 
 #### Status
 ACCEPTED

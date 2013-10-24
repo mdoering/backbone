@@ -1,5 +1,4 @@
-Streptomyces macrosporus (ex Krasil'nikov et al., 1968) Goodfellow et al., 1988 SPECIES
-=======
+# Streptomyces macrosporus (ex Krasil'nikov et al., 1968) Goodfellow et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

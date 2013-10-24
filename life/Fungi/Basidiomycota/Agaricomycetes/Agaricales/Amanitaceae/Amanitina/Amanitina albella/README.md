@@ -1,5 +1,4 @@
-Amanitina albella (Scop.) E.-J. Gilbert SPECIES
-=======
+# Amanitina albella (Scop.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

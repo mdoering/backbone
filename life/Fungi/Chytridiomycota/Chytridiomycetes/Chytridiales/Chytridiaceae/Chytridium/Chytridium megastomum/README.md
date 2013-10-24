@@ -1,5 +1,4 @@
-Chytridium megastomum Sparrow SPECIES
-=======
+# Chytridium megastomum Sparrow SPECIES
 
 #### Status
 ACCEPTED

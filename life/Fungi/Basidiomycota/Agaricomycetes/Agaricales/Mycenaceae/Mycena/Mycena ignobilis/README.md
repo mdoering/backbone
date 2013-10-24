@@ -1,5 +1,4 @@
-Mycena ignobilis (Joss. ex Bon) Romagn. SPECIES
-=======
+# Mycena ignobilis (Joss. ex Bon) Romagn. SPECIES
 
 #### Status
 ACCEPTED

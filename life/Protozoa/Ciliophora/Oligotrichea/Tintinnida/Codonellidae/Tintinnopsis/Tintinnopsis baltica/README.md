@@ -1,5 +1,4 @@
-Tintinnopsis baltica Brandt, 1896 SPECIES
-=======
+# Tintinnopsis baltica Brandt, 1896 SPECIES
 
 #### Status
 ACCEPTED

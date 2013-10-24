@@ -1,5 +1,4 @@
-Calicium nigrum var. nigrum Schaer. VARIETY
-=======
+# Calicium nigrum Schaer. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calicium nigrum var. nigrum Schaer.
+Calicium nigrum Schaer.
 
 ### Remarks
 null

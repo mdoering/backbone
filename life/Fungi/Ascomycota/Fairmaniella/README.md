@@ -1,5 +1,4 @@
-Fairmaniella Petr. & Syd. GENUS
-=======
+# Fairmaniella Petr. & Syd. GENUS
 
 #### Status
 ACCEPTED

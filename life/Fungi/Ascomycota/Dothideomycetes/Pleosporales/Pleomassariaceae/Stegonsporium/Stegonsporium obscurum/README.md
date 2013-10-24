@@ -1,5 +1,4 @@
-Stegonsporium obscurum (Corda) Sacc. SPECIES
-=======
+# Stegonsporium obscurum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

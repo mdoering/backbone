@@ -1,5 +1,4 @@
-Amphisiella illuvialis Eigner & Foissner, 1994 SPECIES
-=======
+# Amphisiella illuvialis Eigner & Foissner, 1994 SPECIES
 
 #### Status
 ACCEPTED

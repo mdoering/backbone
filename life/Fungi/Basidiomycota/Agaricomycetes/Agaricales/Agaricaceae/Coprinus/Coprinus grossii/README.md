@@ -1,5 +1,4 @@
-Coprinus grossii J.Aug. Schmitt & Watling, 1998 SPECIES
-=======
+# Coprinus grossii J.Aug. Schmitt & Watling, 1998 SPECIES
 
 #### Status
 ACCEPTED

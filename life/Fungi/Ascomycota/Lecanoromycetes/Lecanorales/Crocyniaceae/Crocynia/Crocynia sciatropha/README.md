@@ -1,5 +1,4 @@
-Crocynia sciatropha Hue SPECIES
-=======
+# Crocynia sciatropha Hue SPECIES
 
 #### Status
 ACCEPTED

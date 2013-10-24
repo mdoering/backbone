@@ -1,5 +1,4 @@
-Boletus gyrosus Pers. SPECIES
-=======
+# Boletus gyrosus Pers. SPECIES
 
 #### Status
 ACCEPTED

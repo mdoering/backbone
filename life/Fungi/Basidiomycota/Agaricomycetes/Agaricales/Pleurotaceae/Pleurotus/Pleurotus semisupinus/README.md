@@ -1,5 +1,4 @@
-Pleurotus semisupinus (Berk. & Broome) Sacc. SPECIES
-=======
+# Pleurotus semisupinus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

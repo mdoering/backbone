@@ -1,5 +1,4 @@
-Microbacterium paludicola Park et al., 2006 SPECIES
-=======
+# Microbacterium paludicola Park et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium mitchellae M.T. Cook SPECIES
-=======
+# Synchytrium mitchellae M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plicaria uliginosa Kirschst. SPECIES
-=======
+# Plicaria uliginosa Kirschst. SPECIES
 
 #### Status
 ACCEPTED

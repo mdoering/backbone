@@ -1,5 +1,4 @@
-Anthostomella porosa S.M. Francis SPECIES
-=======
+# Anthostomella porosa S.M. Francis SPECIES
 
 #### Status
 ACCEPTED

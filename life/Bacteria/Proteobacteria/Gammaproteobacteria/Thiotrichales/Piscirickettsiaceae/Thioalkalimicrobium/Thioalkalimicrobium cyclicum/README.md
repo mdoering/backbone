@@ -1,5 +1,4 @@
-Thioalkalimicrobium cyclicum Sorokin et al., 2002 SPECIES
-=======
+# Thioalkalimicrobium cyclicum Sorokin et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea membranacea Henn. SPECIES
-=======
+# Hypocrea membranacea Henn. SPECIES
 
 #### Status
 ACCEPTED

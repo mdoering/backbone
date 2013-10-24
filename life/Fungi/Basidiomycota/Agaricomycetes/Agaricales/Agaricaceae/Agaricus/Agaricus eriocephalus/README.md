@@ -1,5 +1,4 @@
-Agaricus eriocephalus Fr. SPECIES
-=======
+# Agaricus eriocephalus Fr. SPECIES
 
 #### Status
 ACCEPTED

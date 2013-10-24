@@ -1,5 +1,4 @@
-Calocera macrospora Brasf. SPECIES
-=======
+# Calocera macrospora Brasf. SPECIES
 
 #### Status
 ACCEPTED

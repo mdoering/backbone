@@ -1,5 +1,4 @@
-Sphaeria eliminata Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria eliminata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

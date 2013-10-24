@@ -1,5 +1,4 @@
-Phomopsis garugae N.D. Sharma SPECIES
-=======
+# Phomopsis garugae N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

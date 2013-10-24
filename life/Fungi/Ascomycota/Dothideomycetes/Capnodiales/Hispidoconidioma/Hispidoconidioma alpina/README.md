@@ -1,5 +1,4 @@
-Hispidoconidioma alpina Tsuneda & Davey, 2010 SPECIES
-=======
+# Hispidoconidioma alpina Tsuneda & Davey, 2010 SPECIES
 
 #### Status
 ACCEPTED

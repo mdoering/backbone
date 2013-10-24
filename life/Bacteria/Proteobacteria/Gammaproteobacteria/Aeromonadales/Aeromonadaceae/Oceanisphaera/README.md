@@ -1,5 +1,4 @@
-Oceanisphaera Romanenko et al., 2003 GENUS
-=======
+# Oceanisphaera Romanenko et al., 2003 GENUS
 
 #### Status
 ACCEPTED

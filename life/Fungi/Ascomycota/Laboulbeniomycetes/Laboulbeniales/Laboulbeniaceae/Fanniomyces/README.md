@@ -1,5 +1,4 @@
-Fanniomyces T. Majewski GENUS
-=======
+# Fanniomyces T. Majewski GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia offuciata (Fr.) Gillet SPECIES
-=======
+# Omphalia offuciata (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

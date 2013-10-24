@@ -1,5 +1,4 @@
-Ocellularia zamboangensis (Vain.) Zahlbr. SPECIES
-=======
+# Ocellularia zamboangensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

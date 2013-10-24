@@ -1,5 +1,4 @@
-Gloeosporium malpighiae Elisei SPECIES
-=======
+# Gloeosporium malpighiae Elisei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina mongolica H. Magn. SPECIES
-=======
+# Rinodina mongolica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

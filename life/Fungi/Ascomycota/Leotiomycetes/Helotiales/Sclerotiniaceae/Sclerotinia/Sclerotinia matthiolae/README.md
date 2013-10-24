@@ -1,5 +1,4 @@
-Sclerotinia matthiolae Lendn., 1929 SPECIES
-=======
+# Sclerotinia matthiolae Lendn., 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyrea granatica (Samp.) Zahlbr. SPECIES
-=======
+# Thyrea granatica (Samp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

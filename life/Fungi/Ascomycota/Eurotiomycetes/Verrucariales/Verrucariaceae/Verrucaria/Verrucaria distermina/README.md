@@ -1,5 +1,4 @@
-Verrucaria distermina Nyl. SPECIES
-=======
+# Verrucaria distermina Nyl. SPECIES
 
 #### Status
 ACCEPTED

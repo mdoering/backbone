@@ -1,5 +1,4 @@
-Helicoma polysporum Morgan SPECIES
-=======
+# Helicoma polysporum Morgan SPECIES
 
 #### Status
 ACCEPTED

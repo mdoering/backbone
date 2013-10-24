@@ -1,5 +1,4 @@
-Cortinarius polaris Høil. SPECIES
-=======
+# Cortinarius polaris Høil. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Bremia gemminata (Unger) Kochman & T. Majewski SPECIES
-=======
+# Bremia geminata (Unger) Kochman & T. Majewski SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Aecidium semiaquilegiae Dietel SPECIES
-=======
+# Aecidium semiaquilegiae Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvella fallax Quél. SPECIES
-=======
+# Helvella fallax Quél. SPECIES
 
 #### Status
 ACCEPTED

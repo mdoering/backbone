@@ -1,14 +1,13 @@
-Clavaria filicina Sacc. & P. Syd., 1899 SPECIES
-=======
+# Ramaria filicina (Sacc. & P. Syd.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 14(1): 238 (1899)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 576 (1950)
 
 #### Original name
 Clavaria filicina Sacc. & P. Syd., 1899

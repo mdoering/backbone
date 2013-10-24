@@ -1,5 +1,4 @@
-Brachysporisporites inuvikensis M.G. Parsons & G. Norris SPECIES
-=======
+# Brachysporisporites inuvikensis M.G. Parsons & G. Norris SPECIES
 
 #### Status
 ACCEPTED

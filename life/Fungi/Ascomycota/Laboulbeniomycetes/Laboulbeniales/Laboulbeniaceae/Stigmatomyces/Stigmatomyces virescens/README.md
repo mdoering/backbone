@@ -1,5 +1,4 @@
-Stigmatomyces virescens Thaxt. SPECIES
-=======
+# Stigmatomyces virescens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

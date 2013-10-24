@@ -1,5 +1,4 @@
-Laschia torrendii Lloyd SPECIES
-=======
+# Laschia torrendii Lloyd SPECIES
 
 #### Status
 ACCEPTED

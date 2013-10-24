@@ -1,5 +1,4 @@
-Thelephora pavonia Webber & D. Mohr SPECIES
-=======
+# Thelephora pavonia Webber & D. Mohr SPECIES
 
 #### Status
 ACCEPTED

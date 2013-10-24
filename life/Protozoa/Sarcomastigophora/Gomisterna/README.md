@@ -1,5 +1,4 @@
-Gomisterna Sugiyama, 1994 GENUS
-=======
+# Gomisterna Sugiyama, 1994 GENUS
 
 #### Status
 ACCEPTED

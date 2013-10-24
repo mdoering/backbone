@@ -1,17 +1,16 @@
-Polycyclus alsophilae (Racib.) Höhn., 1909 SPECIES
-=======
+# Pachypatella alsophilae (Racib.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 13(3/4): 228 (1915)
 
 #### Original name
-null
+Hysterostomella alsophilae Racib., 1900
 
 ### Remarks
 null

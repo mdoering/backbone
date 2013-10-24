@@ -1,5 +1,4 @@
-Leiosphaerella nypensis K.D. Hyde SPECIES
-=======
+# Leiosphaerella nypensis K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

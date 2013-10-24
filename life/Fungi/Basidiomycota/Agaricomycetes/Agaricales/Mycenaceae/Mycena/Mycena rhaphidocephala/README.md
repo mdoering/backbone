@@ -1,5 +1,4 @@
-Mycena rhaphidocephala Maas Geest. & de Meijer SPECIES
-=======
+# Mycena rhaphidocephala Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

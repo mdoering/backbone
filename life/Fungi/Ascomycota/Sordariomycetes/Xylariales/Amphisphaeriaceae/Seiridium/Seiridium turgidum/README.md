@@ -1,5 +1,4 @@
-Seiridium turgidum (G.F. Atk.) Nag Raj SPECIES
-=======
+# Seiridium turgidum (G.F. Atk.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

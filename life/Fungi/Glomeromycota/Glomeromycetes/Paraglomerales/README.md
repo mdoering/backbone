@@ -1,5 +1,4 @@
-Paraglomerales C. Walker & A. Schüssler ORDER
-=======
+# Paraglomerales C. Walker & A. Schüssler ORDER
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rhysotheca epilobii (G.H. Otth) G.W. Wilson, 1907 SPECIES
-=======
+# Plasmopara epilobii (G.H. Otth) J. Schröt., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 34: 401 (1907)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(1724): 328 (1887)
 
 #### Original name
 Peronospora epilobii G.H. Otth, 1869

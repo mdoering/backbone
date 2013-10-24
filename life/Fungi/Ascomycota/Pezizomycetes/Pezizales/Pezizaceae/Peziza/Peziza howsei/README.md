@@ -1,17 +1,16 @@
-Aleuria emileia (Cooke) Gillet, 1881 SPECIES
-=======
+# Peziza howsei Roze & Boud., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. linn. Provence 31: 29 (1979)
 
 #### Original name
-Peziza emileia Cooke, 1879
+Peziza howsei Roze & Boud., 1879
 
 ### Remarks
 null

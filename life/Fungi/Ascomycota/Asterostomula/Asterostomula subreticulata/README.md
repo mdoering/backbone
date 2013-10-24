@@ -1,5 +1,4 @@
-Asterostomula subreticulata Bat. & Cif. SPECIES
-=======
+# Asterostomula subreticulata Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

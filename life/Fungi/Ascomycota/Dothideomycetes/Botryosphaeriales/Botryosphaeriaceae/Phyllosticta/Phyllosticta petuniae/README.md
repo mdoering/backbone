@@ -1,5 +1,4 @@
-Phyllosticta petuniae Speg. SPECIES
-=======
+# Phyllosticta petuniae Speg. SPECIES
 
 #### Status
 ACCEPTED

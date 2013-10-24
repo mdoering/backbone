@@ -1,5 +1,4 @@
-Reticularia contorta Poir. SPECIES
-=======
+# Reticularia contorta Poir. SPECIES
 
 #### Status
 ACCEPTED

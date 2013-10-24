@@ -1,5 +1,4 @@
-Tandonella S.S. Prasad & R.A.B. Verma, 1970 GENUS
-=======
+# Tandonella S.S. Prasad & R.A.B. Verma, 1970 GENUS
 
 #### Status
 ACCEPTED

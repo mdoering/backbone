@@ -1,5 +1,4 @@
-Paraphysotheca brosimi Bat. SPECIES
-=======
+# Paraphysotheca brosimi Bat. SPECIES
 
 #### Status
 ACCEPTED

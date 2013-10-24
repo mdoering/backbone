@@ -1,5 +1,4 @@
-Verrucaria coronata Hoffm. SPECIES
-=======
+# Verrucaria coronata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

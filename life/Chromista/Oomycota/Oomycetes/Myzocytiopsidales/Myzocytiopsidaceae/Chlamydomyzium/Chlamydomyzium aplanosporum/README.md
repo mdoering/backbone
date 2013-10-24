@@ -1,5 +1,4 @@
-Chlamydomyzium aplanosporum Glockling, 1997 SPECIES
-=======
+# Chlamydomyzium aplanosporum Glockling, 1997 SPECIES
 
 #### Status
 ACCEPTED

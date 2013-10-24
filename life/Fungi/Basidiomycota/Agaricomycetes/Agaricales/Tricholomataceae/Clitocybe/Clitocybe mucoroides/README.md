@@ -1,5 +1,4 @@
-Clitocybe mucoroides Raithelh. SPECIES
-=======
+# Clitocybe mucoroides Raithelh. SPECIES
 
 #### Status
 ACCEPTED

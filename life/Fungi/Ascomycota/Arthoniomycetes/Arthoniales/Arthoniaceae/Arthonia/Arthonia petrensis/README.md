@@ -1,5 +1,4 @@
-Arthonia petrensis Nyl. SPECIES
-=======
+# Arthonia petrensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

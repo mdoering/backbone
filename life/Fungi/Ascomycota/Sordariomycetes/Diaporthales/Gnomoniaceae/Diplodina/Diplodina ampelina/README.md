@@ -1,5 +1,4 @@
-Diplodina ampelina Died. SPECIES
-=======
+# Diplodina ampelina Died. SPECIES
 
 #### Status
 ACCEPTED

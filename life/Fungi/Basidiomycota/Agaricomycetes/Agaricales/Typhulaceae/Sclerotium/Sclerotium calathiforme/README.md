@@ -1,5 +1,4 @@
-Sclerotium calathiforme Link SPECIES
-=======
+# Sclerotium calathiforme Link SPECIES
 
 #### Status
 ACCEPTED

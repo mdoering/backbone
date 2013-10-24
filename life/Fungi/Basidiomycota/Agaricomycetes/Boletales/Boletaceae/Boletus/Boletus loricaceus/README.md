@@ -1,5 +1,4 @@
-Boletus loricaceus Beeli SPECIES
-=======
+# Boletus loricaceus Beeli SPECIES
 
 #### Status
 ACCEPTED

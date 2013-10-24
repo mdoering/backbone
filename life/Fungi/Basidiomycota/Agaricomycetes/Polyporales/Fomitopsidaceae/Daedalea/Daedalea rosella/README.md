@@ -1,5 +1,4 @@
-Daedalea rosella Lloyd SPECIES
-=======
+# Daedalea rosella Lloyd SPECIES
 
 #### Status
 ACCEPTED

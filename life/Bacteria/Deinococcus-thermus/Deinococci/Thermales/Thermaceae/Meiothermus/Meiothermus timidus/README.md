@@ -1,5 +1,4 @@
-Meiothermus timidus Pires et al., 2005 SPECIES
-=======
+# Meiothermus timidus Pires et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

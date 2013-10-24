@@ -1,5 +1,4 @@
-Sporormiella cainii (Mukerji & N.N. Bhandari) Mukerji SPECIES
-=======
+# Sporormiella cainii (Mukerji & N.N. Bhandari) Mukerji SPECIES
 
 #### Status
 ACCEPTED

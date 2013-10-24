@@ -1,14 +1,13 @@
-Lichenoconium pertusariicola (Nyl.) D. Hawksw., 1975 SPECIES
-=======
+# Laeviomyces pertusariicola (Nyl.) D. Hawksw., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 65(2): 233 (1975)
+Bull. Br. Mus. nat. Hist. , Bot. 9(1): 29 (1981)
 
 #### Original name
 Spilomium pertusariicola Nyl., 1858

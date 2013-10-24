@@ -1,5 +1,4 @@
-Coleosporium martianoffianum P. Syd. & Syd. SPECIES
-=======
+# Coleosporium martianoffianum P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

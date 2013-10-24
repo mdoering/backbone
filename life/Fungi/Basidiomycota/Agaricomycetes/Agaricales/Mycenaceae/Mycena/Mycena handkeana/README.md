@@ -1,5 +1,4 @@
-Mycena handkeana Miersch, Penke & Robich SPECIES
-=======
+# Mycena handkeana Miersch, Penke & Robich SPECIES
 
 #### Status
 ACCEPTED

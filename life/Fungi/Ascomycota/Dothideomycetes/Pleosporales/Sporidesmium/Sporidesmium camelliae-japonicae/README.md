@@ -1,5 +1,4 @@
-Sporidesmium camelliae-japonicae Subram. SPECIES
-=======
+# Sporidesmium camelliae-japonicae Subram. SPECIES
 
 #### Status
 ACCEPTED

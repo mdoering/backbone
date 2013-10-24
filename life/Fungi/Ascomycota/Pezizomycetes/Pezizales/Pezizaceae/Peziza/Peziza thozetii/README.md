@@ -1,5 +1,4 @@
-Peziza thozetii Berk. SPECIES
-=======
+# Peziza thozetii Berk. SPECIES
 
 #### Status
 ACCEPTED

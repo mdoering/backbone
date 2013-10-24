@@ -1,5 +1,4 @@
-Ganoderma bruggemanii Steyaert, 1972 SPECIES
-=======
+# Ganoderma bruggemanii Steyaert, 1972 SPECIES
 
 #### Status
 ACCEPTED

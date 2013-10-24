@@ -1,5 +1,4 @@
-Ascochyta bombycina Penz. & Sacc. SPECIES
-=======
+# Ascochyta bombycina Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

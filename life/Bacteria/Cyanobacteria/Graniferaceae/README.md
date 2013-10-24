@@ -1,5 +1,4 @@
-Graniferaceae FAMILY
-=======
+# Graniferaceae FAMILY
 
 #### Status
 ACCEPTED

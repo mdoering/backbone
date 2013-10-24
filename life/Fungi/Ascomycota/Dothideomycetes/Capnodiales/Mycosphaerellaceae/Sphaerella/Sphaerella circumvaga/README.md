@@ -1,5 +1,4 @@
-Sphaerella circumvaga (Desm.) Sacc. SPECIES
-=======
+# Sphaerella circumvaga (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria atropurpurea Petr. SPECIES
-=======
+# Leptosphaeria atropurpurea Petr. SPECIES
 
 #### Status
 ACCEPTED

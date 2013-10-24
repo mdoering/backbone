@@ -1,5 +1,4 @@
-Lecidea patellarina Nyl. SPECIES
-=======
+# Lecidea patellarina Nyl. SPECIES
 
 #### Status
 ACCEPTED

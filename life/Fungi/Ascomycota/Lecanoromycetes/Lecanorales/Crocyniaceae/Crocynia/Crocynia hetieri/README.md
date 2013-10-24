@@ -1,5 +1,4 @@
-Crocynia hetieri Choisy SPECIES
-=======
+# Crocynia hetieri Choisy SPECIES
 
 #### Status
 ACCEPTED

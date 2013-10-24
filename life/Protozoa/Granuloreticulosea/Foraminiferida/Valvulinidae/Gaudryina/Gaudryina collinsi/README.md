@@ -1,5 +1,4 @@
-Gaudryina collinsi Cushman SPECIES
-=======
+# Gaudryina collinsi Cushman SPECIES
 
 #### Status
 ACCEPTED

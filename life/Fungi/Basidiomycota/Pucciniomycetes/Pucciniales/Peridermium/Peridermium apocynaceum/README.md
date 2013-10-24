@@ -1,5 +1,4 @@
-Peridermium apocynaceum (Cooke) Hedgc. & N.R. Hunt SPECIES
-=======
+# Peridermium apocynaceum (Cooke) Hedgc. & N.R. Hunt SPECIES
 
 #### Status
 ACCEPTED

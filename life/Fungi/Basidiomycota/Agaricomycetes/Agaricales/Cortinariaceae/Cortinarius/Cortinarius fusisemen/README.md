@@ -1,5 +1,4 @@
-Cortinarius fusisemen Reumaux SPECIES
-=======
+# Cortinarius fusisemen Reumaux SPECIES
 
 #### Status
 ACCEPTED

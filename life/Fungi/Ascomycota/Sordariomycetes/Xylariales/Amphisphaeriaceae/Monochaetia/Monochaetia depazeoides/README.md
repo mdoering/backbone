@@ -1,5 +1,4 @@
-Monochaetia depazeoides (G.H. Otth) Sacc. SPECIES
-=======
+# Monochaetia depazeoides (G.H. Otth) Sacc. SPECIES
 
 #### Status
 ACCEPTED

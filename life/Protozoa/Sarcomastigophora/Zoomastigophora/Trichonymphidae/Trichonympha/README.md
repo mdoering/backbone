@@ -1,14 +1,13 @@
-Leidyopsis Kofoid & Swezy, 1919 GENUS
-=======
+# Trichonympha Leidy GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Univ. Calif. Publ. Zool. , 20, 1001.
+Proc. Acad. Nat. Sci. Philad. , 1877, 147.
 
 #### Original name
 null

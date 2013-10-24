@@ -1,5 +1,4 @@
-Piptocephalis formosana H.M. Ho & P.M. Kirk, 2009 SPECIES
-=======
+# Piptocephalis formosana H.M. Ho & P.M. Kirk, 2009 SPECIES
 
 #### Status
 ACCEPTED

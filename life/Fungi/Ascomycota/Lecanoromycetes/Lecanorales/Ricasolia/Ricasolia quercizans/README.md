@@ -1,5 +1,4 @@
-Ricasolia quercizans (Ach.) Stizenb. SPECIES
-=======
+# Ricasolia quercizans (Ach.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

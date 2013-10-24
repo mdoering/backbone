@@ -1,5 +1,4 @@
-Xylosphaeria valparadisiaca (Speg.) Petr. SPECIES
-=======
+# Xylosphaeria valparadisiaca (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

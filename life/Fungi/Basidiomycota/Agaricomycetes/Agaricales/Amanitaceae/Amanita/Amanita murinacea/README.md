@@ -1,5 +1,4 @@
-Amanita murinacea Pat. SPECIES
-=======
+# Amanita murinacea Pat. SPECIES
 
 #### Status
 ACCEPTED

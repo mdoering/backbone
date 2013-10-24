@@ -1,5 +1,4 @@
-Lecanora apochroeoides Vain. SPECIES
-=======
+# Lecanora apochroeoides Vain. SPECIES
 
 #### Status
 ACCEPTED

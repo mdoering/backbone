@@ -1,5 +1,4 @@
-Lecidea cruciaria Tuck. SPECIES
-=======
+# Lecidea cruciaria Tuck. SPECIES
 
 #### Status
 ACCEPTED

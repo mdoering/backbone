@@ -1,5 +1,4 @@
-Deightoniella arecae W.Q. Chen SPECIES
-=======
+# Deightoniella arecae W.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

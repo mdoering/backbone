@@ -1,5 +1,4 @@
-Loxodes viridis Kahl, 1928 SPECIES
-=======
+# Loxodes viridis Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

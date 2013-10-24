@@ -1,5 +1,4 @@
-Thallochrysis litoralis Anand SPECIES
-=======
+# Thallochrysis litoralis Anand SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora hyalidis Speg. SPECIES
-=======
+# Stagonospora hyalidis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea tiarata (Körb.) Arnold SPECIES
-=======
+# Lecidea tiarata (Körb.) Arnold SPECIES
 
 #### Status
 ACCEPTED

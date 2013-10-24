@@ -1,5 +1,4 @@
-Verrucaria viridiatra Grognot SPECIES
-=======
+# Verrucaria viridiatra Grognot SPECIES
 
 #### Status
 ACCEPTED

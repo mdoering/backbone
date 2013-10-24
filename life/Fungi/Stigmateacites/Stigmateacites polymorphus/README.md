@@ -1,5 +1,4 @@
-Stigmateacites polymorphus S.L. Zheng & W. Zhang SPECIES
-=======
+# Stigmateacites polymorphus S.L. Zheng & W. Zhang SPECIES
 
 #### Status
 ACCEPTED

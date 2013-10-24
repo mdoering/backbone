@@ -1,5 +1,4 @@
-Endophragmiella globulosa (B. Sutton) S. Hughes SPECIES
-=======
+# Endophragmiella globulosa (B. Sutton) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

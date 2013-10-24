@@ -1,5 +1,4 @@
-Colletotrichum pinelliae Sawada SPECIES
-=======
+# Colletotrichum pinelliae Sawada SPECIES
 
 #### Status
 ACCEPTED

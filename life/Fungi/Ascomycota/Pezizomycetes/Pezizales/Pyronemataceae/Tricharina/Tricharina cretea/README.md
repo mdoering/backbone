@@ -1,14 +1,13 @@
-Tricharia cretea (Cooke) Boud., 1907 SPECIES
-=======
+# Tricharina cretea (Cooke) K.S. Thind & Waraitch, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Panjab University Research Journal (Science), New Series 21: 154 (1971)
 
 #### Original name
 Peziza cretea Cooke, 1878

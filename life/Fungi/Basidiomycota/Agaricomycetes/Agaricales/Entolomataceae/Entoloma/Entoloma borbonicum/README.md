@@ -1,5 +1,4 @@
-Entoloma borbonicum Noordel. & Hauskn. SPECIES
-=======
+# Entoloma borbonicum Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

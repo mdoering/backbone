@@ -1,5 +1,4 @@
-Hypogymnia hokkaidensis Kurok. SPECIES
-=======
+# Hypogymnia hokkaidensis Kurok. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella brassicae T. Johnson, 1905 SPECIES
-=======
+# Sphaerella brassicae T. Johnson, 1905 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phakopsora psoraleae H.S. Jacks. & Holw. SPECIES
-=======
+# Phakopsora psoraleae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

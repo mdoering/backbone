@@ -1,5 +1,4 @@
-Psorothecium quinquetubera (Delise) Forssell SPECIES
-=======
+# Psorothecium quinquetubera (Delise) Forssell SPECIES
 
 #### Status
 ACCEPTED

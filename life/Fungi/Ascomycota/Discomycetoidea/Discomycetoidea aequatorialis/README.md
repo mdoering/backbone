@@ -1,5 +1,4 @@
-Discomycetoidea aequatorialis Matsush., 1993 SPECIES
-=======
+# Discomycetoidea aequatorialis Matsush., 1993 SPECIES
 
 #### Status
 ACCEPTED

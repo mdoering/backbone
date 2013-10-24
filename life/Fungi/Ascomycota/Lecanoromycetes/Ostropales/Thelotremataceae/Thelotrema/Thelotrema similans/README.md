@@ -1,5 +1,4 @@
-Thelotrema similans Nyl. SPECIES
-=======
+# Thelotrema similans Nyl. SPECIES
 
 #### Status
 ACCEPTED

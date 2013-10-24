@@ -1,5 +1,4 @@
-Lichen taeniatus Pers. SPECIES
-=======
+# Lichen taeniatus Pers. SPECIES
 
 #### Status
 ACCEPTED

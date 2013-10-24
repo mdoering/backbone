@@ -1,5 +1,4 @@
-Puccinia cheiri Lestiboudois SPECIES
-=======
+# Puccinia cheiri Lestiboudois SPECIES
 
 #### Status
 ACCEPTED

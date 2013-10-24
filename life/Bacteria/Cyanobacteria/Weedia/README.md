@@ -1,5 +1,4 @@
-Weedia Walcott GENUS
-=======
+# Weedia Walcott GENUS
 
 #### Status
 ACCEPTED

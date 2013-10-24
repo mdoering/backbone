@@ -1,5 +1,4 @@
-Astrosporina shoreae E. Horak & Bas SPECIES
-=======
+# Astrosporina shoreae E. Horak & Bas SPECIES
 
 #### Status
 ACCEPTED

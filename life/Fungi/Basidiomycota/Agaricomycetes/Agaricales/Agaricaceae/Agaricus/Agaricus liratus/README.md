@@ -1,5 +1,4 @@
-Agaricus liratus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus liratus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

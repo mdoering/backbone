@@ -1,14 +1,13 @@
-Corticium appalachiensis (Burds. & M.J. Larsen) M.J. Larsen SPECIES
-=======
+# Corticium appalachiense (Burds. & M.J. Larsen) M.J. Larsen, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Nakasone, Mycol. Mem. 15: 58 (1990)
 
 #### Original name
 Laeticorticium appalachiense Burds. & M.J. Larsen, 1976

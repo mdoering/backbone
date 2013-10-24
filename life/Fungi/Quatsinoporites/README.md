@@ -1,5 +1,4 @@
-Quatsinoporites S.Y. Sm., Currah & Stockey GENUS
-=======
+# Quatsinoporites S.Y. Sm., Currah & Stockey GENUS
 
 #### Status
 ACCEPTED

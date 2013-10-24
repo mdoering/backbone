@@ -1,5 +1,4 @@
-Lecanora schweinfurthii SPECIES
-=======
+# Lecanora schweinfurthii SPECIES
 
 #### Status
 ACCEPTED

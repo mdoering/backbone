@@ -1,5 +1,4 @@
-Vermicularia horridula Sacc. SPECIES
-=======
+# Vermicularia horridula Sacc. SPECIES
 
 #### Status
 ACCEPTED

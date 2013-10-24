@@ -1,5 +1,4 @@
-Loricella alnea Velen. SPECIES
-=======
+# Loricella alnea Velen. SPECIES
 
 #### Status
 ACCEPTED

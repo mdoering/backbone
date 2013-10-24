@@ -1,5 +1,4 @@
-Melampylidium metabolum SPECIES
-=======
+# Melampylidium metabolum SPECIES
 
 #### Status
 ACCEPTED

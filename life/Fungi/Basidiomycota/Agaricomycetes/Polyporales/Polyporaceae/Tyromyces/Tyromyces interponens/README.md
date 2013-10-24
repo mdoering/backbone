@@ -1,5 +1,4 @@
-Tyromyces interponens Corner, 1989 SPECIES
-=======
+# Tyromyces interponens Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

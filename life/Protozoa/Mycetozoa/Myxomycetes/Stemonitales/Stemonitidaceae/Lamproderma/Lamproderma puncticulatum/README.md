@@ -1,5 +1,4 @@
-Lamproderma puncticulatum Härk., 1978 SPECIES
-=======
+# Lamproderma puncticulatum Härk., 1978 SPECIES
 
 #### Status
 ACCEPTED

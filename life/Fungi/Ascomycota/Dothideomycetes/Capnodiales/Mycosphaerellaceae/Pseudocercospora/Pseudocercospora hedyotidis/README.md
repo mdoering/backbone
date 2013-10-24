@@ -1,5 +1,4 @@
-Pseudocercospora hedyotidis (Suj. Singh) B. Sutton SPECIES
-=======
+# Pseudocercospora hedyotidis (Suj. Singh) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora junci Hollós SPECIES
-=======
+# Stagonospora junci Hollós SPECIES
 
 #### Status
 ACCEPTED

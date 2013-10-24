@@ -1,5 +1,4 @@
-Graphis mesographiza Nyl. SPECIES
-=======
+# Graphis mesographiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

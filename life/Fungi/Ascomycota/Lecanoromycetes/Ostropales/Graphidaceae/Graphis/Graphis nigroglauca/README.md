@@ -1,5 +1,4 @@
-Graphis nigroglauca Leight. SPECIES
-=======
+# Graphis nigroglauca Leight. SPECIES
 
 #### Status
 ACCEPTED

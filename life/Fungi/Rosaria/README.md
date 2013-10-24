@@ -1,5 +1,4 @@
-Rosaria Dörfelt, A.R. Schmidt & J. Wunderlich, 2000 GENUS
-=======
+# Rosaria Dörfelt, A.R. Schmidt & J. Wunderlich, 2000 GENUS
 
 #### Status
 ACCEPTED

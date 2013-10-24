@@ -1,5 +1,4 @@
-Helminthosporium cookei Sacc. SPECIES
-=======
+# Helminthosporium cookei Sacc. SPECIES
 
 #### Status
 ACCEPTED

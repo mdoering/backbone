@@ -1,5 +1,4 @@
-Caloplaca celata Th. Fr. SPECIES
-=======
+# Caloplaca celata Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

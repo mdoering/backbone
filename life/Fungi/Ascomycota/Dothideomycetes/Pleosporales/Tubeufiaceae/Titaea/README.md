@@ -1,5 +1,4 @@
-Titaea Saccardo, 1876 GENUS
-=======
+# Titaea Saccardo, 1876 GENUS
 
 #### Status
 ACCEPTED

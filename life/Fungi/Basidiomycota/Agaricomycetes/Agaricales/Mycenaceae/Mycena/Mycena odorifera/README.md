@@ -1,5 +1,4 @@
-Mycena odorifera Peck SPECIES
-=======
+# Mycena odorifera Peck SPECIES
 
 #### Status
 ACCEPTED

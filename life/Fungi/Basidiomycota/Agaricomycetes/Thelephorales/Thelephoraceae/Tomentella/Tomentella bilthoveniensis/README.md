@@ -1,5 +1,4 @@
-Tomentella bilthoveniensis Bourdot SPECIES
-=======
+# Tomentella bilthoveniensis Bourdot SPECIES
 
 #### Status
 ACCEPTED

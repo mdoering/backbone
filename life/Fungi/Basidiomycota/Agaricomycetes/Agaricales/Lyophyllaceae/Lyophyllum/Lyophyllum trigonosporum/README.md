@@ -1,17 +1,16 @@
-Collybia semitalis trigonospora (Bres.) Sacc., 1887 INFRASPECIFIC_NAME
-=======
+# Lyophyllum trigonosporum (Bres.) Kühner, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. mens. Soc. linn. Lyon 7: 211 (1938)
 
 #### Original name
-null
+Collybia trigonospora (Bres.) Mussat, 1900
 
 ### Remarks
 null

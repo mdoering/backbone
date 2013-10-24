@@ -1,5 +1,4 @@
-Agaricus myxodictyon Berk. & Broome SPECIES
-=======
+# Agaricus myxodictyon Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

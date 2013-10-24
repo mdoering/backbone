@@ -1,5 +1,4 @@
-Hemimycena herrerae Singer SPECIES
-=======
+# Hemimycena herrerae Singer SPECIES
 
 #### Status
 ACCEPTED

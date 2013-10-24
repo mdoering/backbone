@@ -1,5 +1,4 @@
-Cortinarius favrexilis Bon SPECIES
-=======
+# Cortinarius favrexilis Bon SPECIES
 
 #### Status
 ACCEPTED

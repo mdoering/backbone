@@ -1,5 +1,4 @@
-Russula cernohorskyi Singer SPECIES
-=======
+# Russula cernohorskyi Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Asterella (Saccardo) Saccardo, 1891 GENUS
-=======
+# Asterina Léveillé, 1845 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 9: 393 (1891)
+Annls Sci. Nat. , Bot. , sér. 3 3: 59 (1845)
 
 #### Original name
-null
+Asterina Léveillé, 1845
 
 ### Remarks
 null

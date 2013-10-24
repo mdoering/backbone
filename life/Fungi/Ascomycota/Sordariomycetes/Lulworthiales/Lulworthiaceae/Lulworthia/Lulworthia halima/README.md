@@ -1,14 +1,13 @@
-Lulworthia halimus (Diehl & Mounce) Cribb & J.W. Cribb SPECIES
-=======
+# Lulworthia halima (Diehl & Mounce) Cribb & J.W. Cribb, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pap. Dept. Bot. (formerly Biol. ) Univ. Qd. 3(10): 80 (1955)
 
 #### Original name
 null

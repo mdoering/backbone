@@ -1,5 +1,4 @@
-Pleurotus lachnopus Fr. SPECIES
-=======
+# Pleurotus lachnopus Fr. SPECIES
 
 #### Status
 ACCEPTED

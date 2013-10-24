@@ -1,5 +1,4 @@
-Quilonia K.P. Jain & R.C. Gupta, 1970 GENUS
-=======
+# Quilonia K.P. Jain & R.C. Gupta, 1970 GENUS
 
 #### Status
 ACCEPTED

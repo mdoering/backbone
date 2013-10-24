@@ -1,5 +1,4 @@
-Sphaeranasillos Allison in Allison & Awramik, 1989 GENUS
-=======
+# Sphaeranasillos Allison in Allison & Awramik, 1989 GENUS
 
 #### Status
 ACCEPTED

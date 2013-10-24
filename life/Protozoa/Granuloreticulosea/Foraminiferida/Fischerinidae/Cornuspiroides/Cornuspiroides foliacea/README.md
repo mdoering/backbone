@@ -1,5 +1,4 @@
-Cornuspiroides foliacea SPECIES
-=======
+# Cornuspiroides foliacea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chilodon gracilis SPECIES
-=======
+# Chilodon gracilis SPECIES
 
 #### Status
 ACCEPTED

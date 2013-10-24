@@ -1,5 +1,4 @@
-Lactarius muscicola Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius muscicola Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

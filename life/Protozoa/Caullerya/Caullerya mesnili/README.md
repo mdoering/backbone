@@ -1,5 +1,4 @@
-Caullerya mesnili (Paillot) E. Chatton SPECIES
-=======
+# Caullerya mesnili (Paillot) E. Chatton SPECIES
 
 #### Status
 ACCEPTED

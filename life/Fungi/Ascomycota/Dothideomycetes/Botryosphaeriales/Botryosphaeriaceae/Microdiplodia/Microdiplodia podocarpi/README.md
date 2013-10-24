@@ -1,5 +1,4 @@
-Microdiplodia podocarpi Gucevic SPECIES
-=======
+# Microdiplodia podocarpi Gucevic SPECIES
 
 #### Status
 ACCEPTED

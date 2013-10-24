@@ -1,5 +1,4 @@
-Candelaria pacifica M. Westb. & Arup SPECIES
-=======
+# Candelaria pacifica M. Westb. & Arup SPECIES
 
 #### Status
 ACCEPTED

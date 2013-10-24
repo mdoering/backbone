@@ -1,5 +1,4 @@
-Textularia digitata d'Orbigny in Fornasini, 1887 SPECIES
-=======
+# Textularia digitata d'Orbigny in Fornasini, 1887 SPECIES
 
 #### Status
 ACCEPTED

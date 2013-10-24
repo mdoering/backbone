@@ -1,14 +1,13 @@
-Ceriomyces retipes (Berk. & M.A. Curtis) Murrill, 1909 SPECIES
-=======
+# Retiboletus retipes (Berk. & M.A. Curtis) Manfr. Binder & Bresinsky, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 1(4): 151 (1909)
+Feddes Repert. 113(1-2): 37 (2002)
 
 #### Original name
 Boletus retipes Berk. & M.A. Curtis, 1872

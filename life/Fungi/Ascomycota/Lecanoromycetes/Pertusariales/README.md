@@ -1,5 +1,4 @@
-Pertusariales M. Choisy ex D. Hawksw. & O.E. Erikss. ORDER
-=======
+# Pertusariales M. Choisy ex D. Hawksw. & O.E. Erikss. ORDER
 
 #### Status
 ACCEPTED

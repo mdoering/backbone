@@ -1,5 +1,4 @@
-Lembosia capnoides Syd. SPECIES
-=======
+# Lembosia capnoides Syd. SPECIES
 
 #### Status
 ACCEPTED

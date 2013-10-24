@@ -1,5 +1,4 @@
-Lepra murorum (Grev.) Schaer. SPECIES
-=======
+# Lepra murorum (Grev.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

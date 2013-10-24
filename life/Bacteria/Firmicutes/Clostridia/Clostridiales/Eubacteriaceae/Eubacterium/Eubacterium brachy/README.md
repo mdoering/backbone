@@ -1,5 +1,4 @@
-Eubacterium brachy Holdeman et al., 1980 SPECIES
-=======
+# Eubacterium brachy Holdeman et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

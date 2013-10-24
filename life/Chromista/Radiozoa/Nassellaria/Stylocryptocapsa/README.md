@@ -1,5 +1,4 @@
-Stylocryptocapsa Tan Sin Hok, 1928 GENUS
-=======
+# Stylocryptocapsa Tan Sin Hok, 1928 GENUS
 
 #### Status
 ACCEPTED

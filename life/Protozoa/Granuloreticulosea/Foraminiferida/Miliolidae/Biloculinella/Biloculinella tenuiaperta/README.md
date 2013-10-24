@@ -1,5 +1,4 @@
-Biloculinella (Pyrgoella) tenuiaperta Huang SPECIES
-=======
+# Biloculinella (Pyrgoella) tenuiaperta Huang SPECIES
 
 #### Status
 ACCEPTED

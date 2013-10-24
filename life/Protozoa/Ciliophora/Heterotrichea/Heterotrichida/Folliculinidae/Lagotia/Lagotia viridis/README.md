@@ -1,5 +1,4 @@
-Lagotia viridis Wright, 1858 SPECIES
-=======
+# Lagotia viridis Wright, 1858 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monilinia mali (Takah.) Whetzel SPECIES
-=======
+# Monilinia mali (Takah.) Whetzel SPECIES
 
 #### Status
 ACCEPTED

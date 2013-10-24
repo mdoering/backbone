@@ -1,5 +1,4 @@
-Urocystis reinhardii M. Piepenbr., Quintana & Garret, 2001 SPECIES
-=======
+# Urocystis reinhardii M. Piepenbr., Quintana & Garret, 2001 SPECIES
 
 #### Status
 ACCEPTED

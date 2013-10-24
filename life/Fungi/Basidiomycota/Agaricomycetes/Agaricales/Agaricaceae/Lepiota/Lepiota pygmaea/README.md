@@ -1,5 +1,4 @@
-Lepiota pygmaea Speg. SPECIES
-=======
+# Lepiota pygmaea Speg. SPECIES
 
 #### Status
 ACCEPTED

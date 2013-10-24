@@ -1,5 +1,4 @@
-Septoria staganosporioides C. Massal. SPECIES
-=======
+# Septoria staganosporioides C. Massal. SPECIES
 
 #### Status
 ACCEPTED

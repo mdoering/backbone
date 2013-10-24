@@ -1,5 +1,4 @@
-Phyllachora wrightiana Speg., 1923 SPECIES
-=======
+# Phyllachora wrightiana Speg., 1923 SPECIES
 
 #### Status
 DOUBTFUL

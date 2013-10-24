@@ -1,5 +1,4 @@
-Cercophora fimiseda Fuckel SPECIES
-=======
+# Cercophora fimiseda Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tiarospyris Haeckel, 1881 GENUS
-=======
+# Tiarospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

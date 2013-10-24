@@ -1,17 +1,16 @@
-Oudemansiella alphitophylla (Berk. & M.A. Curtis) Boedijn, 1940 SPECIES
-=======
+# Chamaemyces alphitophyllus (Berk. & M.A. Curtis) Murrill, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Jard. Bot. Buitenzorg 16: 398 (1940)
+Bulletin of the New York Botanical Garden (1909)
 
 #### Original name
-Chamaemyces alphitophyllus (Berk. & M.A. Curtis) Murrill, 1909
+Agaricus alphitophyllus Berk. & M.A. Curtis, 1858
 
 ### Remarks
 null

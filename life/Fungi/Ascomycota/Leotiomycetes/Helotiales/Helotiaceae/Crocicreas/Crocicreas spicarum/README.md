@@ -1,14 +1,13 @@
-Helotium spicarum Rehm, 1873 SPECIES
-=======
+# Crocicreas spicarum (Rehm) S.E. Carp., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ascomyceten no. 158 (1873)
+Brittonia 32(2): 271 (1980)
 
 #### Original name
 Helotium spicarum Rehm, 1873

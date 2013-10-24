@@ -1,5 +1,4 @@
-Sphaeria flavoviridis Fuckel SPECIES
-=======
+# Sphaeria flavoviridis Fuckel SPECIES
 
 #### Status
 ACCEPTED

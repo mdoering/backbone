@@ -1,5 +1,4 @@
-Mycosphaerella lysimachiae (Höhn.) Höhn. SPECIES
-=======
+# Mycosphaerella lysimachiae (Höhn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

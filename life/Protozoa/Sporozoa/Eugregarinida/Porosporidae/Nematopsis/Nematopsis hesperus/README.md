@@ -1,8 +1,7 @@
-Carcinoecetes hesperus (Ball, 1938) SPECIES
-=======
+# Nematopsis hesperus (Ball, 1938) Tuzet & Ormières, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

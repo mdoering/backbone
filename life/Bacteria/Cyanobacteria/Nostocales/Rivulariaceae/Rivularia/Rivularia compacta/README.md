@@ -1,5 +1,4 @@
-Rivularia compacta Collins SPECIES
-=======
+# Rivularia compacta Collins SPECIES
 
 #### Status
 ACCEPTED

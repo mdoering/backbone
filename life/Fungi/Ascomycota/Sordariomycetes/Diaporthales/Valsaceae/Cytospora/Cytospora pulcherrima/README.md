@@ -1,5 +1,4 @@
-Cytospora pulcherrima Dearn. & Hansbr. SPECIES
-=======
+# Cytospora pulcherrima Dearn. & Hansbr. SPECIES
 
 #### Status
 ACCEPTED

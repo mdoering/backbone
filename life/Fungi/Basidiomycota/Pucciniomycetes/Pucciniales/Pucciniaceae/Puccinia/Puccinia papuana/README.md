@@ -1,5 +1,4 @@
-Puccinia papuana Cummins SPECIES
-=======
+# Puccinia papuana Cummins SPECIES
 
 #### Status
 ACCEPTED

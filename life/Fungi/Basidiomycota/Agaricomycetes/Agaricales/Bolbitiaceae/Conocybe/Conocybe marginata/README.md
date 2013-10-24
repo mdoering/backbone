@@ -1,5 +1,4 @@
-Conocybe marginata Watling & H.E. Bigelow SPECIES
-=======
+# Conocybe marginata Watling & H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

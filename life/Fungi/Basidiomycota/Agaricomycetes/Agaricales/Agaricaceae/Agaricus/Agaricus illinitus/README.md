@@ -1,5 +1,4 @@
-Agaricus illinitus var. illinitus Fr. VARIETY
-=======
+# Agaricus illinitus Secr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus illinitus var. illinitus Fr.
+Agaricus illinitus Secr.
 
 ### Remarks
 null

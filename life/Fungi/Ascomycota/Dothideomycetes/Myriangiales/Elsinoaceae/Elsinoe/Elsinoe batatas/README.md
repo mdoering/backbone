@@ -1,5 +1,4 @@
-Elsinoe batatas Viégas & Jenkins, 1943 SPECIES
-=======
+# Elsinoe batatas Viégas & Jenkins, 1943 SPECIES
 
 #### Status
 ACCEPTED

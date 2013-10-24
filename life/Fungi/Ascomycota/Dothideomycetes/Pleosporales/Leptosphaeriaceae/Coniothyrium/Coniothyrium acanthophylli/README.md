@@ -1,5 +1,4 @@
-Coniothyrium acanthophylli Woron. SPECIES
-=======
+# Coniothyrium acanthophylli Woron. SPECIES
 
 #### Status
 ACCEPTED

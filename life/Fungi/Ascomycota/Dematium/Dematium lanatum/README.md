@@ -1,5 +1,4 @@
-Dematium lanatum (Pers.) Link SPECIES
-=======
+# Dematium lanatum (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

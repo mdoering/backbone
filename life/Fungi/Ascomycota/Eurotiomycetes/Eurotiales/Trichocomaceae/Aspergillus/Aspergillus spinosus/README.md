@@ -1,5 +1,4 @@
-Aspergillus spinosus Kozak. SPECIES
-=======
+# Aspergillus spinosus Kozak. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphodiscosioides tambopataensis Matsush., 1993 SPECIES
-=======
+# Hyphodiscosioides tambopataensis Matsush., 1993 SPECIES
 
 #### Status
 ACCEPTED

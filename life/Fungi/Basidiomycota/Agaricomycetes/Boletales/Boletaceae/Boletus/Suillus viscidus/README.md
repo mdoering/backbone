@@ -1,8 +1,7 @@
-Boletus aeruginascens Secr., 1833 SPECIES
-=======
+# Suillus viscidus (L.) Fr., 1796 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

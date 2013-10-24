@@ -1,5 +1,4 @@
-Horologinella quadrispina Jardiné et al., 1972 SPECIES
-=======
+# Horologinella quadrispina Jardiné et al., 1972 SPECIES
 
 #### Status
 ACCEPTED

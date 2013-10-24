@@ -1,5 +1,4 @@
-Calicium cubanum B. de Lesd. SPECIES
-=======
+# Calicium cubanum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

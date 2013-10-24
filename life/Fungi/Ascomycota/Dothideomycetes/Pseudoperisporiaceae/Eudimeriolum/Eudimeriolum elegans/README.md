@@ -1,5 +1,4 @@
-Eudimeriolum elegans Speg., 1912 SPECIES
-=======
+# Eudimeriolum elegans Speg., 1912 SPECIES
 
 #### Status
 ACCEPTED

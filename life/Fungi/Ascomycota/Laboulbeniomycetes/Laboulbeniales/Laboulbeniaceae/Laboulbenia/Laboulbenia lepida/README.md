@@ -1,5 +1,4 @@
-Laboulbenia lepida Thaxt. SPECIES
-=======
+# Laboulbenia lepida Thaxt. SPECIES
 
 #### Status
 ACCEPTED

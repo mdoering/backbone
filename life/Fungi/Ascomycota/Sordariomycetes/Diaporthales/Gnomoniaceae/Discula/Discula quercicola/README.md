@@ -1,5 +1,4 @@
-Discula quercicola Oudem. SPECIES
-=======
+# Discula quercicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

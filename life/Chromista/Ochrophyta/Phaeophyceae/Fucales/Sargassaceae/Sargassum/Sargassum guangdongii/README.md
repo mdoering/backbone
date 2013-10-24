@@ -1,5 +1,4 @@
-Sargassum guangdongii Tseng & Lu SPECIES
-=======
+# Sargassum guangdongii Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

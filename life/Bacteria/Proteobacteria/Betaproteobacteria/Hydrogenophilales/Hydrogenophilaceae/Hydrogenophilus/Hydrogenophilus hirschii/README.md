@@ -1,5 +1,4 @@
-Hydrogenophilus hirschii Stöhr et al., 2001 SPECIES
-=======
+# Hydrogenophilus hirschii Stöhr et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

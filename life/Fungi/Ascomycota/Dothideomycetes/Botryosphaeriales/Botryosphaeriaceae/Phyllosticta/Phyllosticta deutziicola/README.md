@@ -1,5 +1,4 @@
-Phyllosticta deutziicola Petr. SPECIES
-=======
+# Phyllosticta deutziicola Petr. SPECIES
 
 #### Status
 ACCEPTED

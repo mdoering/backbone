@@ -1,5 +1,4 @@
-Aspicilia saximontana Wetmore SPECIES
-=======
+# Aspicilia saximontana Wetmore SPECIES
 
 #### Status
 ACCEPTED

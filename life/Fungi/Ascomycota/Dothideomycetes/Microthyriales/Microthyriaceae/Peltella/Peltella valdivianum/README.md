@@ -1,5 +1,4 @@
-Peltella valdivianum (Speg.) F. Stevens SPECIES
-=======
+# Peltella valdivianum (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

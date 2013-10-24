@@ -1,5 +1,4 @@
-Buellia flavogranulosa Riddle SPECIES
-=======
+# Buellia flavogranulosa Riddle SPECIES
 
 #### Status
 ACCEPTED

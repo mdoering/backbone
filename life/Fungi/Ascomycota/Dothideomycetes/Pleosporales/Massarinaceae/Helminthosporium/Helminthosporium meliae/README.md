@@ -1,5 +1,4 @@
-Helminthosporium meliae Cif. & Gonz. Frag. SPECIES
-=======
+# Helminthosporium meliae Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

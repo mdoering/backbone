@@ -1,17 +1,16 @@
-Asteridiella cyclobalanapsicola (W. Yamam.) Hansf. SPECIES
-=======
+# Asteridiella cyclobalanopsidicola (W. Yamam.) Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 310 (1961)
 
 #### Original name
-Irenina cyclobalanopsicola W. Yamam.
+Irenina cyclobalanopsidicola W. Yamam.
 
 ### Remarks
 null

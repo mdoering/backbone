@@ -1,5 +1,4 @@
-Amanita vernella (Murrill) Murrill SPECIES
-=======
+# Amanita vernella (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

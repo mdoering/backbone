@@ -1,5 +1,4 @@
-Hyphoderma assimile (H.S. Jacks. & Dearden) Donk, 1957 SPECIES
-=======
+# Hyphoderma assimile (H.S. Jacks. & Dearden) Donk, 1957 SPECIES
 
 #### Status
 ACCEPTED

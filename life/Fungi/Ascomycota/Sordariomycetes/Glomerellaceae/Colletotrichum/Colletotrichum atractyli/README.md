@@ -1,5 +1,4 @@
-Colletotrichum atractyli Koval SPECIES
-=======
+# Colletotrichum atractyli Koval SPECIES
 
 #### Status
 ACCEPTED

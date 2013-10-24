@@ -1,5 +1,4 @@
-Atlantodinium M.Zotto, W.S.Drugg & D.Habib, 1987 GENUS
-=======
+# Atlantodinium M.Zotto, W.S.Drugg & D.Habib, 1987 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus fraternus (Peck) Dennis SPECIES
-=======
+# Hymenoscyphus fraternus (Peck) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Venenarius cothurnensis (G.F. Atk.) Murrill SPECIES
-=======
+# Venenarius cothurnensis (G.F. Atk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vibrio aestuarianus Tison & Seidler, 1983 SPECIES
-=======
+# Vibrio aestuarianus Tison & Seidler, 1983 SPECIES
 
 #### Status
 ACCEPTED

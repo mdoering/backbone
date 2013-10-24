@@ -1,17 +1,16 @@
-Bottaria ochraceoflava subsp. ochraceoflava SUBSPECIES
-=======
+# Bottaria ochraceoflava (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Verrucaria ochraceoflavens Nyl.
 
 ### Remarks
 null

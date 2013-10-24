@@ -1,5 +1,4 @@
-Ascodesmis nana Brumm., 1981 SPECIES
-=======
+# Ascodesmis nana Brumm., 1981 SPECIES
 
 #### Status
 ACCEPTED

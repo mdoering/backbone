@@ -1,17 +1,16 @@
-Helmisporium ficuum H.S. Yates SPECIES
-=======
+# Helminthosporium ficuum H.S. Yates SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Philipp. J. Sci. , C, Bot. 13: 382 (1918)
 
 #### Original name
-Helmisporium ficuum H.S. Yates
+Helminthosporium ficuum H.S. Yates
 
 ### Remarks
 null

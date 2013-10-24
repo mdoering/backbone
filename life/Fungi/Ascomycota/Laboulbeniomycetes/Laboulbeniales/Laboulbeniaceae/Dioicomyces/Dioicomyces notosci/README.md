@@ -1,5 +1,4 @@
-Dioicomyces notosci Thaxt. SPECIES
-=======
+# Dioicomyces notosci Thaxt. SPECIES
 
 #### Status
 ACCEPTED

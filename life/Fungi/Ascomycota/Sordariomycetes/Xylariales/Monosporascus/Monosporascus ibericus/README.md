@@ -1,5 +1,4 @@
-Monosporascus ibericus Collado, Ant. González, Stchigel, Guarro & Peláez, 2002 SPECIES
-=======
+# Monosporascus ibericus Collado, Ant. González, Stchigel, Guarro & Peláez, 2002 SPECIES
 
 #### Status
 ACCEPTED

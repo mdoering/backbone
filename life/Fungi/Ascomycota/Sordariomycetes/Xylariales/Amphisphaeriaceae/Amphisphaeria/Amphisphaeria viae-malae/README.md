@@ -1,5 +1,4 @@
-Amphisphaeria viae-malae Rehm SPECIES
-=======
+# Amphisphaeria viae-malae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Melaspilea gallowayii S.Y. Kondr. SPECIES
-=======
+# Plectocarpon gallowayi (S.Y. Kondr.) Ertz & Diederich SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Ertz, Christnach, Wedin & Diederich, Biblthca Lichenol. 91: 47 (2005)
 
 #### Original name
-Melaspilea gallowayii S.Y. Kondr.
+Melaspilea gallowayi S.Y. Kondr.
 
 ### Remarks
 null

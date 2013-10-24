@@ -1,5 +1,4 @@
-Hapsidopalla invenustum Wicander & Wood, 1981 SPECIES
-=======
+# Hapsidopalla invenustum Wicander & Wood, 1981 SPECIES
 
 #### Status
 ACCEPTED

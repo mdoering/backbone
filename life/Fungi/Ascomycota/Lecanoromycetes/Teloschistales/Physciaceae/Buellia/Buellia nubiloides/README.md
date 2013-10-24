@@ -1,5 +1,4 @@
-Buellia nubiloides Zahlbr. SPECIES
-=======
+# Buellia nubiloides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

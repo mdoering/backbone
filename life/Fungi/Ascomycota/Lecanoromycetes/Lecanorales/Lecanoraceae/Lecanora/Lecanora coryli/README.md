@@ -1,5 +1,4 @@
-Lecanora coryli Colmeiro SPECIES
-=======
+# Lecanora coryli Colmeiro SPECIES
 
 #### Status
 ACCEPTED

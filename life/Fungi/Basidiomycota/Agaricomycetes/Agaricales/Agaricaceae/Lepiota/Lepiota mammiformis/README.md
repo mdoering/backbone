@@ -1,17 +1,16 @@
-Lepiota mammaeformis Underw. SPECIES
-=======
+# Lepiota mammiformis Underw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 82 (1897)
 
 #### Original name
-Lepiota mammaeformis Underw.
+Lepiota mammiformis Underw.
 
 ### Remarks
 null

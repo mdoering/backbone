@@ -1,5 +1,4 @@
-Pertusaria rudecta Müll. Arg. SPECIES
-=======
+# Pertusaria rudecta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria subserpens (Murrill) Weir SPECIES
-=======
+# Poria subserpens (Murrill) Weir SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cotilydia P.A. Karsten, 1881 GENUS
-=======
+# Cotilydia P.A. Karsten, 1881 GENUS
 
 #### Status
 ACCEPTED

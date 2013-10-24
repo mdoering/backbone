@@ -1,11 +1,10 @@
-Actinomyces ipomoea Person & Martin, 1940 SPECIES
-=======
+# Streptomyces ipomoeae (Person and Martin, 1940) Waksman and Henrici, 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

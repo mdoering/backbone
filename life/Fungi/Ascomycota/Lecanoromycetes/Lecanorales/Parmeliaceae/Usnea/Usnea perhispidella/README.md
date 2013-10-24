@@ -1,5 +1,4 @@
-Usnea perhispidella J. Steiner SPECIES
-=======
+# Usnea perhispidella J. Steiner SPECIES
 
 #### Status
 ACCEPTED

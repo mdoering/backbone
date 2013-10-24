@@ -1,5 +1,4 @@
-Cladonia symphoriza Nyl. SPECIES
-=======
+# Cladonia symphoriza Nyl. SPECIES
 
 #### Status
 ACCEPTED

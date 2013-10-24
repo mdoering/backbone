@@ -1,5 +1,4 @@
-Laschia lauterbachii Henn. SPECIES
-=======
+# Laschia lauterbachii Henn. SPECIES
 
 #### Status
 ACCEPTED

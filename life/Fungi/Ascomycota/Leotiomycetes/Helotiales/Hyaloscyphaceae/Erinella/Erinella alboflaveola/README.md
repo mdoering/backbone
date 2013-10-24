@@ -1,5 +1,4 @@
-Erinella alboflaveola Penz. & Sacc. SPECIES
-=======
+# Erinella alboflaveola Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

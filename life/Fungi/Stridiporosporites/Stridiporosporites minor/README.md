@@ -1,5 +1,4 @@
-Stridiporosporites minor Z.C. Song & Z.H. Sun SPECIES
-=======
+# Stridiporosporites minor Z.C. Song & Z.H. Sun SPECIES
 
 #### Status
 ACCEPTED

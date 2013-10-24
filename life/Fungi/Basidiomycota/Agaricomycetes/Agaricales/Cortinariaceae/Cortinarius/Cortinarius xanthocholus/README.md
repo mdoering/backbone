@@ -1,5 +1,4 @@
-Cortinarius xanthocholus E. Horak & M.M. Moser SPECIES
-=======
+# Cortinarius xanthocholus E. Horak & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

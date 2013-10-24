@@ -1,5 +1,4 @@
-Cortinarius flavobulbus Ammirati & M.M. Moser SPECIES
-=======
+# Cortinarius flavobulbus Ammirati & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

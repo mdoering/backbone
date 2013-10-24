@@ -1,5 +1,4 @@
-Xanthoparmelia somloënsis (Gyeln.) Hale SPECIES
-=======
+# Xanthoparmelia somloënsis (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED

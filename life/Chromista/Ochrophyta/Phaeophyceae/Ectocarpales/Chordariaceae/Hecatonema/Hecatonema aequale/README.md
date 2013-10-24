@@ -1,5 +1,4 @@
-Hecatonema aequale Kraft, 2009 SPECIES
-=======
+# Hecatonema aequale Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

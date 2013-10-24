@@ -1,5 +1,4 @@
-Mycosphaerella impatientina Syd. & Hara SPECIES
-=======
+# Mycosphaerella impatientina Syd. & Hara SPECIES
 
 #### Status
 ACCEPTED

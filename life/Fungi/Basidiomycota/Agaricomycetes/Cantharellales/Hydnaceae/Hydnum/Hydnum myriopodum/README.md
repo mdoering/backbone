@@ -1,5 +1,4 @@
-Hydnum myriopodum A. Blytt SPECIES
-=======
+# Hydnum myriopodum A. Blytt SPECIES
 
 #### Status
 ACCEPTED

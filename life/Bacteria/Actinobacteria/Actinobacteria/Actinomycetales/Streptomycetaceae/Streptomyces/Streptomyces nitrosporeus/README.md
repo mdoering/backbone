@@ -1,5 +1,4 @@
-Streptomyces nitrosporeus Okami, 1952 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces nitrosporeus Okami, 1952 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

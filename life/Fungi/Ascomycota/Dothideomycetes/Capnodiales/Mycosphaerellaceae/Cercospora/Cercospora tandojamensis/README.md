@@ -1,5 +1,4 @@
-Cercospora tandojamensis S.A. Khan & M. Kamal SPECIES
-=======
+# Cercospora tandojamensis S.A. Khan & M. Kamal SPECIES
 
 #### Status
 ACCEPTED

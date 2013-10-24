@@ -1,5 +1,4 @@
-Intermediella Lahm, 1984 GENUS
-=======
+# Intermediella Lahm, 1984 GENUS
 
 #### Status
 ACCEPTED

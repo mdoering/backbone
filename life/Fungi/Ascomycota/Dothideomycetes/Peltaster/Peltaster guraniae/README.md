@@ -1,5 +1,4 @@
-Peltaster guraniae Toro SPECIES
-=======
+# Peltaster guraniae Toro SPECIES
 
 #### Status
 ACCEPTED

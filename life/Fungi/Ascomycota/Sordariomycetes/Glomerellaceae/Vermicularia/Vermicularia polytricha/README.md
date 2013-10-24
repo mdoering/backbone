@@ -1,5 +1,4 @@
-Vermicularia polytricha Cooke SPECIES
-=======
+# Vermicularia polytricha Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sebacina pulverulenta Hauerslev, 1976 SPECIES
-=======
+# Hauerslevia pulverulenta (Hauerslev) P. Roberts, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Friesia 11: 99 (1976)
+Cryptog. Mycol. 19(4): 279 (1998)
 
 #### Original name
 Sebacina pulverulenta Hauerslev, 1976

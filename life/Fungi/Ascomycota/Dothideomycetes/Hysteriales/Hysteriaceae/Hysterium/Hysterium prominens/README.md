@@ -1,5 +1,4 @@
-Hysterium prominens W. Phillips & Harkn. SPECIES
-=======
+# Hysterium prominens W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

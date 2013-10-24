@@ -1,14 +1,13 @@
-Pterula guadalupensis (Lév.) Sacc. SPECIES
-=======
+# Pterula guadelupensis (Lév.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+A First List of Cyprus Fungi 6: 742 (1888)
 
 #### Original name
 Merisma guadelupense Lév.

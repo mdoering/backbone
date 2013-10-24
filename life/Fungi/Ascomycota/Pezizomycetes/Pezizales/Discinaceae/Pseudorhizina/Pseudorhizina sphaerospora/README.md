@@ -1,5 +1,4 @@
-Pseudorhizina sphaerospora (Peck) Pouzar SPECIES
-=======
+# Pseudorhizina sphaerospora (Peck) Pouzar SPECIES
 
 #### Status
 ACCEPTED

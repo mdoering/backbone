@@ -1,5 +1,4 @@
-Inonotus fimbriatus L.D. Gómez & Ryvarden, 1985 SPECIES
-=======
+# Inonotus fimbriatus L.D. Gómez & Ryvarden, 1985 SPECIES
 
 #### Status
 ACCEPTED

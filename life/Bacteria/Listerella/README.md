@@ -1,5 +1,4 @@
-Listerella Pirie, 1927 GENUS
-=======
+# Listerella Pirie, 1927 GENUS
 
 #### Status
 ACCEPTED

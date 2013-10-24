@@ -1,5 +1,4 @@
-Meliola machili W. Yamam. SPECIES
-=======
+# Meliola machili W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

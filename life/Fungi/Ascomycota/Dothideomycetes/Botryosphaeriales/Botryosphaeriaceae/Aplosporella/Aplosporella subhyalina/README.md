@@ -1,17 +1,16 @@
-Aplosporella subhyaliiiae Anahosur SPECIES
-=======
+# Aplosporella subhyalina Anahosur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. , Suppl. Issue 23(1): 95 (1970)
 
 #### Original name
-Aplosporella subhyaliiiae Anahosur
+Aplosporella subhyalina Anahosur
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Paliphora intermedia Alcorn, 1996 SPECIES
-=======
+# Paliphora intermedia Alcorn, 1996 SPECIES
 
 #### Status
 ACCEPTED

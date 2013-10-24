@@ -1,5 +1,4 @@
-Leptosphaeria sarothamni F. Lamb. & Fautrey SPECIES
-=======
+# Leptosphaeria sarothamni F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

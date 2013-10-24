@@ -1,5 +1,4 @@
-Russula paradecipiens (A. Favre) A. Favre SPECIES
-=======
+# Russula paradecipiens (A. Favre) A. Favre SPECIES
 
 #### Status
 ACCEPTED

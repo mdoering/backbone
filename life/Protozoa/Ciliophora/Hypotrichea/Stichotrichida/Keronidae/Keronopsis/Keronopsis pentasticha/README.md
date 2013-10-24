@@ -1,5 +1,4 @@
-Keronopsis pentasticha Kahl, 1932 SPECIES
-=======
+# Keronopsis pentasticha Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

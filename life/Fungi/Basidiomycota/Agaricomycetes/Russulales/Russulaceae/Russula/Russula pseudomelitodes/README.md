@@ -1,5 +1,4 @@
-Russula pseudomelitodes J. Blum ex Bon SPECIES
-=======
+# Russula pseudomelitodes J. Blum ex Bon SPECIES
 
 #### Status
 ACCEPTED

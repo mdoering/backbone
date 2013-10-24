@@ -1,5 +1,4 @@
-Buellia subconcava SPECIES
-=======
+# Buellia subconcava SPECIES
 
 #### Status
 ACCEPTED

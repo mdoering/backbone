@@ -1,5 +1,4 @@
-Birkelundia Perch-Nielsen GENUS
-=======
+# Birkelundia Perch-Nielsen GENUS
 
 #### Status
 ACCEPTED

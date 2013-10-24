@@ -1,17 +1,16 @@
-Calonectria tubaroënsis Rehm SPECIES
-=======
+# Calonectria tubaraoënsis Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 37: 195 (1898)
 
 #### Original name
-Calonectria tubaroënsis Rehm
+Calonectria tubaraoënsis Rehm
 
 ### Remarks
 null

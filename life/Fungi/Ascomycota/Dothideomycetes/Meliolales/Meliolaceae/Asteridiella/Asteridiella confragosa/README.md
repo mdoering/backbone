@@ -1,5 +1,4 @@
-Asteridiella confragosa (Syd. & P. Syd.) Hansf. SPECIES
-=======
+# Asteridiella confragosa (Syd. & P. Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

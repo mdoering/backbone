@@ -1,5 +1,4 @@
-Cladosporium albicans Hallier SPECIES
-=======
+# Cladosporium albicans Hallier SPECIES
 
 #### Status
 ACCEPTED

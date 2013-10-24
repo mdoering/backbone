@@ -1,5 +1,4 @@
-Dimeromyces appendiculatus Thaxt. SPECIES
-=======
+# Dimeromyces appendiculatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

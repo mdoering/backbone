@@ -1,5 +1,4 @@
-Leiogramma scalpturatum (Ach.) Eschw. SPECIES
-=======
+# Leiogramma scalpturatum (Ach.) Eschw. SPECIES
 
 #### Status
 ACCEPTED

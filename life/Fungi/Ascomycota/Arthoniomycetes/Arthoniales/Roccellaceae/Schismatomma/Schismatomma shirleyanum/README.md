@@ -1,5 +1,4 @@
-Schismatomma shirleyanum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Schismatomma shirleyanum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

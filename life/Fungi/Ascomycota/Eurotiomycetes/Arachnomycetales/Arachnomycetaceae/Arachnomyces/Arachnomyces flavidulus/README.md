@@ -1,5 +1,4 @@
-Arachnomyces flavidulus Speg. SPECIES
-=======
+# Arachnomyces flavidulus Speg. SPECIES
 
 #### Status
 ACCEPTED

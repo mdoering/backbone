@@ -1,5 +1,4 @@
-Scindalma pallidum (Berk.) Kuntze SPECIES
-=======
+# Scindalma pallidum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

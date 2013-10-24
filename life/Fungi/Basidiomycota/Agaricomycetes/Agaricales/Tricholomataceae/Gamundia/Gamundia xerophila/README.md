@@ -1,14 +1,13 @@
-Fayodia xerophila Luthi & Röllin, 1973 SPECIES
-=======
+# Gamundia xerophila (Luthi & Röllin) Raithelh., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 88(2): 174 (1973)
+Metrodiana 9(2): 48 (1980)
 
 #### Original name
 Fayodia xerophila Luthi & Röllin, 1973

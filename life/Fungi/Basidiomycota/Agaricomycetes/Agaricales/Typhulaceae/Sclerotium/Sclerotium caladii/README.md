@@ -1,5 +1,4 @@
-Sclerotium caladii Schwein. SPECIES
-=======
+# Sclerotium caladii Schwein. SPECIES
 
 #### Status
 ACCEPTED

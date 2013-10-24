@@ -1,17 +1,16 @@
-Phialophora finlandia C.J.K. Wang & H.E. Wilcox SPECIES
-=======
+# Phialophora finlandica C.J.K. Wang & H.E. Wilcox SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 77(6): 953 (1986)
 
 #### Original name
-Phialophora finlandia C.J.K. Wang & H.E. Wilcox
+Phialophora finlandica C.J.K. Wang & H.E. Wilcox
 
 ### Remarks
 null

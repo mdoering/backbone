@@ -1,5 +1,4 @@
-Coniochaeta polysperma Furuya & Udagawa, 1976 SPECIES
-=======
+# Coniochaeta polysperma Furuya & Udagawa, 1976 SPECIES
 
 #### Status
 ACCEPTED

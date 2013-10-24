@@ -1,5 +1,4 @@
-Blastotrichum puccinioides Preuss SPECIES
-=======
+# Blastotrichum puccinioides Preuss SPECIES
 
 #### Status
 ACCEPTED

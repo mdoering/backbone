@@ -1,5 +1,4 @@
-Papulosporonites mohgaoensis (Chitaley & Yawale) Kalgutkar & Janson. SPECIES
-=======
+# Papulosporonites mohgaoensis (Chitaley & Yawale) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

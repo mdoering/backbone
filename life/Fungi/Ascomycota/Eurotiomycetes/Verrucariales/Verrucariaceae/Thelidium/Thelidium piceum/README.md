@@ -1,5 +1,4 @@
-Thelidium piceum Zschacke SPECIES
-=======
+# Thelidium piceum Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelaria sympodiocarpa Sauvageau SPECIES
-=======
+# Sphacelaria sympodiocarpa Sauvageau SPECIES
 
 #### Status
 ACCEPTED

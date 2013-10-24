@@ -1,5 +1,4 @@
-Coryneum effiguratum Schwein. SPECIES
-=======
+# Coryneum effiguratum Schwein. SPECIES
 
 #### Status
 ACCEPTED

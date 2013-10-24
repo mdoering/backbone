@@ -1,5 +1,4 @@
-Venturia dianthi De Not. SPECIES
-=======
+# Venturia dianthi De Not. SPECIES
 
 #### Status
 ACCEPTED

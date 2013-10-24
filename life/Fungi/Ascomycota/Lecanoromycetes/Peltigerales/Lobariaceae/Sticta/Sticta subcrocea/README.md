@@ -1,5 +1,4 @@
-Sticta subcrocea (Stirt.) Zahlbr. SPECIES
-=======
+# Sticta subcrocea (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

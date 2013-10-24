@@ -1,5 +1,4 @@
-Galerina psilocyboides Maire SPECIES
-=======
+# Galerina psilocyboides Maire SPECIES
 
 #### Status
 ACCEPTED

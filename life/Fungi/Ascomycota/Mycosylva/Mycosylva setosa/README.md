@@ -1,5 +1,4 @@
-Mycosylva setosa Udagawa & Furuya, 1982 SPECIES
-=======
+# Mycosylva setosa Udagawa & Furuya, 1982 SPECIES
 
 #### Status
 ACCEPTED

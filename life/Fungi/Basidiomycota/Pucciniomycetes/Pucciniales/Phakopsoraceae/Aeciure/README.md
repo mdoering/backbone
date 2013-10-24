@@ -1,5 +1,4 @@
-Aeciure Buriticá & J.F. Hennen GENUS
-=======
+# Aeciure Buriticá & J.F. Hennen GENUS
 
 #### Status
 ACCEPTED

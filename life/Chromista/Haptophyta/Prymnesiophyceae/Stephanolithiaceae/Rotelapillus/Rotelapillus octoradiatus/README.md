@@ -1,5 +1,4 @@
-Rotelapillus octoradiatus (Gartner, 1968) Perch-Nielsen, 1984 SPECIES
-=======
+# Rotelapillus octoradiatus (Gartner, 1968) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

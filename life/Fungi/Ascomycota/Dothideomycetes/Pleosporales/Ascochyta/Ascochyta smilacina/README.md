@@ -1,5 +1,4 @@
-Ascochyta smilacina Sacc. SPECIES
-=======
+# Ascochyta smilacina Sacc. SPECIES
 
 #### Status
 ACCEPTED

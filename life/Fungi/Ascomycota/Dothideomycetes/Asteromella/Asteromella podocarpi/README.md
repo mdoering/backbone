@@ -1,5 +1,4 @@
-Asteromella podocarpi Syd. SPECIES
-=======
+# Asteromella podocarpi Syd. SPECIES
 
 #### Status
 ACCEPTED

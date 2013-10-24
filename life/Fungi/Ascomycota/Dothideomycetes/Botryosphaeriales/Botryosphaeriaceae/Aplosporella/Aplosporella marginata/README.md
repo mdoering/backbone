@@ -1,5 +1,4 @@
-Aplosporella marginata Pass. SPECIES
-=======
+# Aplosporella marginata Pass. SPECIES
 
 #### Status
 ACCEPTED

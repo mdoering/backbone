@@ -1,5 +1,4 @@
-Ustilago haesendockii var. haesendockii VARIETY
-=======
+# Ustilago haesendockii Westend. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ustilago haesendockii var. haesendockii
+Ustilago haesendockii Westend.
 
 ### Remarks
 null

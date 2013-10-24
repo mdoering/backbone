@@ -1,5 +1,4 @@
-Leiofusa spicata Wall, 1965 SPECIES
-=======
+# Leiofusa spicata Wall, 1965 SPECIES
 
 #### Status
 ACCEPTED

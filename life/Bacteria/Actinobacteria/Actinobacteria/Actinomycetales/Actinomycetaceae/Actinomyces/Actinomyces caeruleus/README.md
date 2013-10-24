@@ -1,5 +1,4 @@
-Actinomyces caeruleus E. Bald. SPECIES
-=======
+# Actinomyces caeruleus E. Bald. SPECIES
 
 #### Status
 ACCEPTED

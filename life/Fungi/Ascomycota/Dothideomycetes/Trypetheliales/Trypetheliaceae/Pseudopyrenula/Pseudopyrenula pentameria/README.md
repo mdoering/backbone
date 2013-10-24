@@ -1,5 +1,4 @@
-Pseudopyrenula pentameria SPECIES
-=======
+# Pseudopyrenula pentameria SPECIES
 
 #### Status
 ACCEPTED

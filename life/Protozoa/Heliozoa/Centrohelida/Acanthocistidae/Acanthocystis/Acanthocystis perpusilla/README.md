@@ -1,5 +1,4 @@
-Acanthocystis perpusilla Petersen & Hansen, 1960 SPECIES
-=======
+# Acanthocystis perpusilla Petersen & Hansen, 1960 SPECIES
 
 #### Status
 ACCEPTED

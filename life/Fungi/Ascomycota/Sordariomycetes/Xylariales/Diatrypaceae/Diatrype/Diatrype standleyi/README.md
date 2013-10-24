@@ -1,5 +1,4 @@
-Diatrype standleyi Fairm. SPECIES
-=======
+# Diatrype standleyi Fairm. SPECIES
 
 #### Status
 ACCEPTED

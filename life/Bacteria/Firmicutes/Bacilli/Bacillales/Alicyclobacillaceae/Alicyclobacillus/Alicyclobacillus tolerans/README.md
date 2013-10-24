@@ -1,5 +1,4 @@
-Alicyclobacillus tolerans Karavaiko et al., 2005 SPECIES
-=======
+# Alicyclobacillus tolerans Karavaiko et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

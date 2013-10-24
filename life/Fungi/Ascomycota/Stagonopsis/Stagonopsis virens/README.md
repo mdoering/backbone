@@ -1,5 +1,4 @@
-Stagonopsis virens Mouton SPECIES
-=======
+# Stagonopsis virens Mouton SPECIES
 
 #### Status
 ACCEPTED

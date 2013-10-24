@@ -1,5 +1,4 @@
-Micropeltis pometiae Rehm SPECIES
-=======
+# Micropeltis pometiae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gnomoniella circinata Sacc. SPECIES
-=======
+# Gnomoniella circinata Sacc. SPECIES
 
 #### Status
 ACCEPTED

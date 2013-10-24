@@ -1,5 +1,4 @@
-Sarcogyne dakotensis H. Magn. SPECIES
-=======
+# Sarcogyne dakotensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

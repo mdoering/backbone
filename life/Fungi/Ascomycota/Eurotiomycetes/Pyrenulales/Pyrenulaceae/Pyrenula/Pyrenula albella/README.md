@@ -1,5 +1,4 @@
-Pyrenula albella Müll. Arg. SPECIES
-=======
+# Pyrenula albella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

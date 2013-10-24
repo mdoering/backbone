@@ -1,5 +1,4 @@
-Rucinolithus windleyae SPECIES
-=======
+# Rucinolithus windleyae SPECIES
 
 #### Status
 ACCEPTED

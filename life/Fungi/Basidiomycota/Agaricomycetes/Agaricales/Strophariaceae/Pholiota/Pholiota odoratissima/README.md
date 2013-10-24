@@ -1,5 +1,4 @@
-Pholiota odoratissima A. Blytt SPECIES
-=======
+# Pholiota odoratissima A. Blytt SPECIES
 
 #### Status
 ACCEPTED

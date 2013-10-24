@@ -1,5 +1,4 @@
-Trichophaea tuberculata (Seaver) Kanouse SPECIES
-=======
+# Trichophaea tuberculata (Seaver) Kanouse SPECIES
 
 #### Status
 ACCEPTED

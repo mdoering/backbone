@@ -1,5 +1,4 @@
-Ecteinomyces Thaxt. GENUS
-=======
+# Ecteinomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

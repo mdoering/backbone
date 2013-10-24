@@ -1,5 +1,4 @@
-Alysidium cinnabarinum (Mart.) Kuntze SPECIES
-=======
+# Alysidium cinnabarinum (Mart.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

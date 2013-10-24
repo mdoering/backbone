@@ -1,5 +1,4 @@
-Podophrya conipes SPECIES
-=======
+# Podophrya conipes SPECIES
 
 #### Status
 ACCEPTED

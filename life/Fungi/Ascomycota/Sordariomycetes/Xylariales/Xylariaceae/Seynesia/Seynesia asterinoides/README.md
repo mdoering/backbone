@@ -1,5 +1,4 @@
-Seynesia asterinoides (Pat.) Sacc. SPECIES
-=======
+# Seynesia asterinoides (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desulfotomaculum antarctica SPECIES
-=======
+# Desulfotomaculum antarctica SPECIES
 
 #### Status
 ACCEPTED

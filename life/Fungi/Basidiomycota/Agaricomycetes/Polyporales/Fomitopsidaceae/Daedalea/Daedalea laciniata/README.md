@@ -1,5 +1,4 @@
-Daedalea laciniata (Pers.) Pat. SPECIES
-=======
+# Daedalea laciniata (Pers.) Pat. SPECIES
 
 #### Status
 ACCEPTED

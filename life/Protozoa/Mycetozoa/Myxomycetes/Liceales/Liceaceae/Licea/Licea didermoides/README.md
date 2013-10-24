@@ -1,5 +1,4 @@
-Licea didermoides G.W. Martin SPECIES
-=======
+# Licea didermoides G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

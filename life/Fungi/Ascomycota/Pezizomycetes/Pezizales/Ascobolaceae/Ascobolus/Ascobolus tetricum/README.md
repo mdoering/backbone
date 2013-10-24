@@ -1,5 +1,4 @@
-Ascobolus tetricum Carestia SPECIES
-=======
+# Ascobolus tetricum Carestia SPECIES
 
 #### Status
 ACCEPTED

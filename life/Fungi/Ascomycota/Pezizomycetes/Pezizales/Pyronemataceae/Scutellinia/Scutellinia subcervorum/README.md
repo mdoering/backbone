@@ -1,5 +1,4 @@
-Scutellinia subcervorum Svrcek SPECIES
-=======
+# Scutellinia subcervorum Svrcek SPECIES
 
 #### Status
 ACCEPTED

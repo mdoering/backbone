@@ -1,5 +1,4 @@
-Helminthosporium puccinioides Sacc. & Berl. SPECIES
-=======
+# Helminthosporium puccinioides Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

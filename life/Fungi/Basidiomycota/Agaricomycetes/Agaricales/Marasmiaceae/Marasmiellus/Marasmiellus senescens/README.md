@@ -1,5 +1,4 @@
-Marasmiellus senescens (Petch) Pegler SPECIES
-=======
+# Marasmiellus senescens (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendroseptoria Alcalde GENUS
-=======
+# Dendroseptoria Alcalde GENUS
 
 #### Status
 ACCEPTED

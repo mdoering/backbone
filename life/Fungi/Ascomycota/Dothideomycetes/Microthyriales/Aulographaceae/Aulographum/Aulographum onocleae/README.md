@@ -1,5 +1,4 @@
-Aulographum onocleae Dearn. & House SPECIES
-=======
+# Aulographum onocleae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

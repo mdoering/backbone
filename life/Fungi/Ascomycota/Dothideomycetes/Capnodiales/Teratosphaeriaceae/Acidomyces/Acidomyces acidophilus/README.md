@@ -1,5 +1,4 @@
-Acidomyces acidophilus (Sigler & J.W. Carmich.) Selbmann, de Hoog & De Leo, 2008 SPECIES
-=======
+# Acidomyces acidophilus (Sigler & J.W. Carmich.) Selbmann, de Hoog & De Leo, 2008 SPECIES
 
 #### Status
 ACCEPTED

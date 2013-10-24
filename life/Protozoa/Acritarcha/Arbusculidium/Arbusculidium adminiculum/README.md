@@ -1,5 +1,4 @@
-Arbusculidium adminiculum Di Milia et al., 1989 SPECIES
-=======
+# Arbusculidium adminiculum Di Milia et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

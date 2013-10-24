@@ -1,5 +1,4 @@
-Parmelia ricasolioides Nyl. SPECIES
-=======
+# Parmelia ricasolioides Nyl. SPECIES
 
 #### Status
 ACCEPTED

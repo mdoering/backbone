@@ -1,5 +1,4 @@
-Septobasidium laxum Pat. SPECIES
-=======
+# Septobasidium laxum Pat. SPECIES
 
 #### Status
 ACCEPTED

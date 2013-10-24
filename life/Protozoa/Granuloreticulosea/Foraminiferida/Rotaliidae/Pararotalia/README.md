@@ -1,5 +1,4 @@
-Pararotalia Le Calvez, 1949 GENUS
-=======
+# Pararotalia Le Calvez, 1949 GENUS
 
 #### Status
 ACCEPTED

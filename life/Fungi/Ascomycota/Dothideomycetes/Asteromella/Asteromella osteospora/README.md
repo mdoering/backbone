@@ -1,5 +1,4 @@
-Asteromella osteospora (Sacc.) H. Ruppr. SPECIES
-=======
+# Asteromella osteospora (Sacc.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

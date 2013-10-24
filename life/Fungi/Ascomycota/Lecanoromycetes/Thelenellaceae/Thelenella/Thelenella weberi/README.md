@@ -1,5 +1,4 @@
-Thelenella weberi H. Mayrhofer SPECIES
-=======
+# Thelenella weberi H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

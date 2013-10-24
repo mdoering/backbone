@@ -1,5 +1,4 @@
-Godronia symphoricarpi J.W. Groves SPECIES
-=======
+# Godronia symphoricarpi J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

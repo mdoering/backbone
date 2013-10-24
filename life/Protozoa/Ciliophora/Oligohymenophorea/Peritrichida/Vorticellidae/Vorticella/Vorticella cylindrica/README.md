@@ -1,5 +1,4 @@
-Vorticella cylindrica Dons, 1918 SPECIES
-=======
+# Vorticella cylindrica Dons, 1918 SPECIES
 
 #### Status
 ACCEPTED

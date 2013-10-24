@@ -1,5 +1,4 @@
-Rhizoctonia himantia Schwein. SPECIES
-=======
+# Rhizoctonia himantia Schwein. SPECIES
 
 #### Status
 ACCEPTED

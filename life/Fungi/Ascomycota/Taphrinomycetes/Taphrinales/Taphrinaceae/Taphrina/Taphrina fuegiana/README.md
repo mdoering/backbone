@@ -1,5 +1,4 @@
-Taphrina fuegiana (Speg.) Cash SPECIES
-=======
+# Taphrina fuegiana (Speg.) Cash SPECIES
 
 #### Status
 ACCEPTED

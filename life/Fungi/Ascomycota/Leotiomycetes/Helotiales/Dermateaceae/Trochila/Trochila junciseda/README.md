@@ -1,5 +1,4 @@
-Trochila junciseda J. Schröt. SPECIES
-=======
+# Trochila junciseda J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

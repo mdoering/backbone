@@ -1,5 +1,4 @@
-Tulostoma cesatii Sacc. SPECIES
-=======
+# Tulostoma cesatii Sacc. SPECIES
 
 #### Status
 ACCEPTED

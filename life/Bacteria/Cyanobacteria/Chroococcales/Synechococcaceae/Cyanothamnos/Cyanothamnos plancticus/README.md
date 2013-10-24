@@ -1,5 +1,4 @@
-Cyanothamnos plancticus G. Cronberg SPECIES
-=======
+# Cyanothamnos plancticus G. Cronberg SPECIES
 
 #### Status
 ACCEPTED

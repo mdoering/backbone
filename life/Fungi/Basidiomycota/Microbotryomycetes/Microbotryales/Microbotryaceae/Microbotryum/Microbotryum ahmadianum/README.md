@@ -1,14 +1,13 @@
-Ustilago ahmadiana Syd., 1938 SPECIES
-=======
+# Microbotryum ahmadianum (Syd.) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 67: 39 (1998)
 
 #### Original name
 Ustilago ahmadiana Syd., 1938

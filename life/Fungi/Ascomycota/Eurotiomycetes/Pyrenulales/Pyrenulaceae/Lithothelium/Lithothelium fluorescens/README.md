@@ -1,5 +1,4 @@
-Lithothelium fluorescens Aptroot & Sipman SPECIES
-=======
+# Lithothelium fluorescens Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

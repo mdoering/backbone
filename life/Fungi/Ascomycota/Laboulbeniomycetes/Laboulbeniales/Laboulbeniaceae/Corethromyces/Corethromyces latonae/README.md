@@ -1,5 +1,4 @@
-Corethromyces latonae Thaxt. SPECIES
-=======
+# Corethromyces latonae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

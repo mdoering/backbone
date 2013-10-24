@@ -1,5 +1,4 @@
-Nosema apis Zonder SPECIES
-=======
+# Nosema apis Zonder SPECIES
 
 #### Status
 ACCEPTED

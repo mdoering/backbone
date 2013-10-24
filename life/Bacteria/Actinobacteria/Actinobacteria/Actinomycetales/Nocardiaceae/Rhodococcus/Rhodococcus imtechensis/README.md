@@ -1,5 +1,4 @@
-Rhodococcus imtechensis Ghosh et al., 2006 SPECIES
-=======
+# Rhodococcus imtechensis Ghosh et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

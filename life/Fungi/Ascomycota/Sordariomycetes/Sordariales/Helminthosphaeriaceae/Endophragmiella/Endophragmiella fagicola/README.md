@@ -1,5 +1,4 @@
-Endophragmiella fagicola P.M. Kirk, 1981 SPECIES
-=======
+# Endophragmiella fagicola P.M. Kirk, 1981 SPECIES
 
 #### Status
 ACCEPTED

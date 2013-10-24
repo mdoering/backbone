@@ -1,5 +1,4 @@
-Cyanisticta coriifolia var. coriifolia VARIETY
-=======
+# Cyanisticta coriifolia (Müll. Arg.) Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 2(1): 40 (1932)
 
 #### Original name
-Cyanisticta coriifolia var. coriifolia
+Stictina coriifolia Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polyporus scutiger Kalchbr., 1867 SPECIES
-=======
+# Polyporus scutiger Kalchbr., 1867 SPECIES
 
 #### Status
 ACCEPTED

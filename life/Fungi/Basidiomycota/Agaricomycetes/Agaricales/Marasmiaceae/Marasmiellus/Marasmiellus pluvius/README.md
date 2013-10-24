@@ -1,5 +1,4 @@
-Marasmiellus pluvius Redhead SPECIES
-=======
+# Marasmiellus pluvius Redhead SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phormospyris stabilis subsp. capoi SUBSPECIES
-=======
+# Phormospyris stabilis Goll, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

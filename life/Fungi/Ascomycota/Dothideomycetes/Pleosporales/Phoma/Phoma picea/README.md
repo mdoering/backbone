@@ -1,5 +1,4 @@
-Phoma picea Berk. & Broome SPECIES
-=======
+# Phoma picea Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

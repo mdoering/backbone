@@ -1,5 +1,4 @@
-Cystoseira pelagosae Ercegovic SPECIES
-=======
+# Cystoseira pelagosae Ercegovic SPECIES
 
 #### Status
 ACCEPTED

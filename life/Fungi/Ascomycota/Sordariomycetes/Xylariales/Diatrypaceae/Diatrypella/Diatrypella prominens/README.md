@@ -1,5 +1,4 @@
-Diatrypella prominens Howe SPECIES
-=======
+# Diatrypella prominens Howe SPECIES
 
 #### Status
 ACCEPTED

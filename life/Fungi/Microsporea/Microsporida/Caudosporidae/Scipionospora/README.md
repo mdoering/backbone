@@ -1,5 +1,4 @@
-Scipionospora E.K.C. Bylén & J.I.R. Larsson GENUS
-=======
+# Scipionospora E.K.C. Bylén & J.I.R. Larsson GENUS
 
 #### Status
 ACCEPTED

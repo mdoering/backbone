@@ -1,5 +1,4 @@
-Paradictyoarthrinium diffractum Matsush., 1996 SPECIES
-=======
+# Paradictyoarthrinium diffractum Matsush., 1996 SPECIES
 
 #### Status
 ACCEPTED

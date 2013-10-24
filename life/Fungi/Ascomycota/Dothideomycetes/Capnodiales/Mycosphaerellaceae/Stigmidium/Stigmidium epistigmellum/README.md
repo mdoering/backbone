@@ -1,17 +1,16 @@
-Pharcidia epistigmella var. epistigmella VARIETY
-=======
+# Stigmidium epistigmellum (Nyl. ex Vouaux) Kocourk. & K. Knudsen, 2009 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Pharcidia epistigmella var. epistigmella
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coniothyrium pegani Schwarzman SPECIES
-=======
+# Coniothyrium pegani Schwarzman SPECIES
 
 #### Status
 ACCEPTED

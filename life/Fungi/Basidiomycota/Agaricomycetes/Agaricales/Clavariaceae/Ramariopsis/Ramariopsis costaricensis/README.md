@@ -1,14 +1,13 @@
-Clavulinopsis costaricensis (L.D. Gómez) Jülich, 1985 SPECIES
-=======
+# Ramariopsis costaricensis L.D. Gómez, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Int. J. Mycol. Lichenol. 2(1): 121 (1985)
+Darwiniana 17: 396 (1972)
 
 #### Original name
 Ramariopsis costaricensis L.D. Gómez, 1972

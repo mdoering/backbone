@@ -1,5 +1,4 @@
-Passalora turbinae (Chupp) U. Braun & Crous SPECIES
-=======
+# Passalora turbinae (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

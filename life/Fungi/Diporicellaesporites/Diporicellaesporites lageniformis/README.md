@@ -1,5 +1,4 @@
-Diporicellaesporites lageniformis Zhong Y. Zhang SPECIES
-=======
+# Diporicellaesporites lageniformis Zhong Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

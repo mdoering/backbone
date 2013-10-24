@@ -1,5 +1,4 @@
-Passalora dodonaeae Crous & U. Braun SPECIES
-=======
+# Passalora dodonaeae Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

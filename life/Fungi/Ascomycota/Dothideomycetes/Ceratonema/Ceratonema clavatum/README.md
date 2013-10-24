@@ -1,5 +1,4 @@
-Ceratonema clavatum Roth SPECIES
-=======
+# Ceratonema clavatum Roth SPECIES
 
 #### Status
 ACCEPTED

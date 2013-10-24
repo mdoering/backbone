@@ -1,5 +1,4 @@
-Marasmius sierraleonis Beeli SPECIES
-=======
+# Marasmius sierraleonis Beeli SPECIES
 
 #### Status
 ACCEPTED

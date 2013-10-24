@@ -1,5 +1,4 @@
-Sporodictyon terrestre (Th. Fr.) S. Savic & Tibell SPECIES
-=======
+# Sporodictyon terrestre (Th. Fr.) S. Savic & Tibell SPECIES
 
 #### Status
 ACCEPTED

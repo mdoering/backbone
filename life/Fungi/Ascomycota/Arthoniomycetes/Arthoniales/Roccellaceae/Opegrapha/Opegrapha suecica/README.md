@@ -1,5 +1,4 @@
-Opegrapha suecica Källsten SPECIES
-=======
+# Opegrapha suecica Källsten SPECIES
 
 #### Status
 ACCEPTED

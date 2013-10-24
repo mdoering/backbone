@@ -1,5 +1,4 @@
-Asterina labecula Mont. SPECIES
-=======
+# Asterina labecula Mont. SPECIES
 
 #### Status
 ACCEPTED

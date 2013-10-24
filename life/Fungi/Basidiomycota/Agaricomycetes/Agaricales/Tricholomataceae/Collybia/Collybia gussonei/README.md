@@ -1,5 +1,4 @@
-Collybia gussonei Inzenga SPECIES
-=======
+# Collybia gussonei Inzenga SPECIES
 
 #### Status
 ACCEPTED

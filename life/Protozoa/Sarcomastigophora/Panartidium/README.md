@@ -1,5 +1,4 @@
-Panartidium Haeckel, 1887 GENUS
-=======
+# Panartidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

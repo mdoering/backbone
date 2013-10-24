@@ -1,5 +1,4 @@
-Scleroderma umbrinum Cooke & Massee SPECIES
-=======
+# Scleroderma umbrinum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

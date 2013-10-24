@@ -1,5 +1,4 @@
-Septoria weissii Allesch. SPECIES
-=======
+# Septoria weissii Allesch. SPECIES
 
 #### Status
 ACCEPTED

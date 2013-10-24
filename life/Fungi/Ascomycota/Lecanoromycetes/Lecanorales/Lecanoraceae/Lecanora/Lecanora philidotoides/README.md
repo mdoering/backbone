@@ -1,5 +1,4 @@
-Lecanora philidotoides Nyl. SPECIES
-=======
+# Lecanora philidotoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

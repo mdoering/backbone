@@ -1,17 +1,16 @@
-Neokeissleria Petr. GENUS
-=======
+# Melanconis Tulasne & C. Tulasne, 1863 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls mycol. 17(2/6): 87 (1920)
+null
 
 #### Original name
-Neokeissleria Petr.
+null
 
 ### Remarks
 null

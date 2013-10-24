@@ -1,5 +1,4 @@
-Laestadia cocophila (Cooke) Sacc. SPECIES
-=======
+# Laestadia cocophila (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

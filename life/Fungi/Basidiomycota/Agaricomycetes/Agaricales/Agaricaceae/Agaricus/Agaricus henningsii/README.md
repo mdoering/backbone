@@ -1,5 +1,4 @@
-Agaricus henningsii Eichelb. SPECIES
-=======
+# Agaricus henningsii Eichelb. SPECIES
 
 #### Status
 ACCEPTED

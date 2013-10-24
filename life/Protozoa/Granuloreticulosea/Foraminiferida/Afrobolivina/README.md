@@ -1,5 +1,4 @@
-Afrobolivina Reyment, 1959 GENUS
-=======
+# Afrobolivina Reyment, 1959 GENUS
 
 #### Status
 ACCEPTED

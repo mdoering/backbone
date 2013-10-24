@@ -1,5 +1,4 @@
-Didymosporium sepultum Pass. SPECIES
-=======
+# Didymosporium sepultum Pass. SPECIES
 
 #### Status
 ACCEPTED

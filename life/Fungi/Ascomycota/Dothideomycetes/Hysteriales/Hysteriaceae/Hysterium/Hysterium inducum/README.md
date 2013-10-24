@@ -1,5 +1,4 @@
-Hysterium inducum Seshadri SPECIES
-=======
+# Hysterium inducum Seshadri SPECIES
 
 #### Status
 ACCEPTED

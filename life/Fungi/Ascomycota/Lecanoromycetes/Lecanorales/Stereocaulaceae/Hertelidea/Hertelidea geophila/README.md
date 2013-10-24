@@ -1,5 +1,4 @@
-Hertelidea geophila Kantvilas & Printzen SPECIES
-=======
+# Hertelidea geophila Kantvilas & Printzen SPECIES
 
 #### Status
 ACCEPTED

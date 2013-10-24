@@ -1,5 +1,4 @@
-Sclerotinia ocymi Voglino SPECIES
-=======
+# Sclerotinia ocymi Voglino SPECIES
 
 #### Status
 ACCEPTED

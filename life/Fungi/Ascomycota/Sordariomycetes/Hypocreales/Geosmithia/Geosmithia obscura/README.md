@@ -1,5 +1,4 @@
-Geosmithia obscura M. Kolarík, Kubátová & Paoutová SPECIES
-=======
+# Geosmithia obscura M. Kolarík, Kubátová & Paoutová SPECIES
 
 #### Status
 ACCEPTED

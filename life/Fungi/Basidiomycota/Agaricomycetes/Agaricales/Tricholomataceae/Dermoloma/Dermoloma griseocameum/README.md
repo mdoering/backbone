@@ -1,5 +1,4 @@
-Dermoloma griseocameum Pegler SPECIES
-=======
+# Dermoloma griseocameum Pegler SPECIES
 
 #### Status
 ACCEPTED

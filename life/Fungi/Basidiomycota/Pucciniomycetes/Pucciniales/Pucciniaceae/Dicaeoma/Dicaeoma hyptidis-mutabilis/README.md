@@ -1,5 +1,4 @@
-Dicaeoma hyptidis-mutabilis (Mayor) Arthur SPECIES
-=======
+# Dicaeoma hyptidis-mutabilis (Mayor) Arthur SPECIES
 
 #### Status
 ACCEPTED

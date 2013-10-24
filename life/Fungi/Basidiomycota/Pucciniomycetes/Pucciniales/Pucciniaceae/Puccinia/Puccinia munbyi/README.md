@@ -1,5 +1,4 @@
-Puccinia munbyi Gäum. SPECIES
-=======
+# Puccinia munbyi Gäum. SPECIES
 
 #### Status
 ACCEPTED

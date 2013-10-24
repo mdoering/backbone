@@ -1,5 +1,4 @@
-Guignardia lonchocarpi (Marchal & Steyaert) Hendr. SPECIES
-=======
+# Guignardia lonchocarpi (Marchal & Steyaert) Hendr. SPECIES
 
 #### Status
 ACCEPTED

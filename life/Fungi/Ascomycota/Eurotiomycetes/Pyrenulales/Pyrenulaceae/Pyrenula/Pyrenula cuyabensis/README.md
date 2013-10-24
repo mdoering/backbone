@@ -1,5 +1,4 @@
-Pyrenula cuyabensis (Malme) R. C. Harris SPECIES
-=======
+# Pyrenula cuyabensis (Malme) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

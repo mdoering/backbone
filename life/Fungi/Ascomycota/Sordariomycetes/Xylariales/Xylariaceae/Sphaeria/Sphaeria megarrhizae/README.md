@@ -1,5 +1,4 @@
-Sphaeria megarrhizae Cooke & Harkn. SPECIES
-=======
+# Sphaeria megarrhizae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mycena saccharifera var. saccharifera VARIETY
-=======
+# Resinomycena saccharifera (Berk. & Broome) Redhead, 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomycètes (Alençon) 262 (1876)
+Can. J. Bot. 62(9): 1850 (1984)
 
 #### Original name
-Mycena saccharifera var. saccharifera
+Agaricus sacchariferus Berk. & Broome, 1870
 
 ### Remarks
 null

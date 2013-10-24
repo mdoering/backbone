@@ -1,5 +1,4 @@
-Rosalina suezensis SPECIES
-=======
+# Rosalina suezensis SPECIES
 
 #### Status
 ACCEPTED

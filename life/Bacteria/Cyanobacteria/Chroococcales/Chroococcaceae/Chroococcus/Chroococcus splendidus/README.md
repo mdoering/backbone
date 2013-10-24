@@ -1,5 +1,4 @@
-Chroococcus splendidus Jao SPECIES
-=======
+# Chroococcus splendidus Jao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium vernale Speg. SPECIES
-=======
+# Aecidium vernale Speg. SPECIES
 
 #### Status
 ACCEPTED

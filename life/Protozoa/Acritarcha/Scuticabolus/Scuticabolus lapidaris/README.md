@@ -1,5 +1,4 @@
-Scuticabolus lapidaris (O. Wetzel, 1933) Loeblich Iii, 1967 SPECIES
-=======
+# Scuticabolus lapidaris (O. Wetzel, 1933) Loeblich Iii, 1967 SPECIES
 
 #### Status
 ACCEPTED

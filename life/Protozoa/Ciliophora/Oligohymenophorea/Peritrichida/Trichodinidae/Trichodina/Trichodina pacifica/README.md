@@ -1,5 +1,4 @@
-Trichodina pacifica Stein, 1979 SPECIES
-=======
+# Trichodina pacifica Stein, 1979 SPECIES
 
 #### Status
 ACCEPTED

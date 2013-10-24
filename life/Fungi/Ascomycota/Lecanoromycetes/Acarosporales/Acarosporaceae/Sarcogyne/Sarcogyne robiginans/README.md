@@ -1,5 +1,4 @@
-Sarcogyne robiginans Stizenb. SPECIES
-=======
+# Sarcogyne robiginans Stizenb. SPECIES
 
 #### Status
 ACCEPTED

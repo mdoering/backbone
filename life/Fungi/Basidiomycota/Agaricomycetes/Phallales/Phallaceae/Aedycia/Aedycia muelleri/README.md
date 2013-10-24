@@ -1,5 +1,4 @@
-Aedycia muelleri (E. Fisch.) Kuntze SPECIES
-=======
+# Aedycia muelleri (E. Fisch.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

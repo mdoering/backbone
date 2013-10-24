@@ -1,5 +1,4 @@
-Inocybe lutescens Velen. SPECIES
-=======
+# Inocybe lutescens Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jungia Loeblich & Tappan, 1961 GENUS
-=======
+# Jungia Loeblich & Tappan, 1961 GENUS
 
 #### Status
 ACCEPTED

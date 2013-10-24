@@ -1,5 +1,4 @@
-Kirbia N.S. Mikhailova & N.A. Volkova in T.V. Jankauskas, 1989 GENUS
-=======
+# Kirbia N.S. Mikhailova & N.A. Volkova in T.V. Jankauskas, 1989 GENUS
 
 #### Status
 ACCEPTED

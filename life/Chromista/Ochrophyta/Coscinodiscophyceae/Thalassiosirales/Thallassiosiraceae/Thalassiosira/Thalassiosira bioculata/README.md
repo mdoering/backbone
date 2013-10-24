@@ -1,5 +1,4 @@
-Thalassiosira bioculata var. exigua (Grunow) Hustedt VARIETY
-=======
+# Thalassiosira bioculata (Grunow) Ostenfeld SPECIES
 
 #### Status
 ACCEPTED

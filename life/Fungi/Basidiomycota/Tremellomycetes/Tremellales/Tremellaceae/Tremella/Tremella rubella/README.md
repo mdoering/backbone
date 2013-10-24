@@ -1,5 +1,4 @@
-Tremella rubella J.F. Gmel. SPECIES
-=======
+# Tremella rubella J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

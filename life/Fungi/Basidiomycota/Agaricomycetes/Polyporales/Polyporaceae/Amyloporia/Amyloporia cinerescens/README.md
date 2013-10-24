@@ -1,5 +1,4 @@
-Amyloporia cinerescens (Bres.) SPECIES
-=======
+# Amyloporia cinerescens (Bres.) SPECIES
 
 #### Status
 ACCEPTED

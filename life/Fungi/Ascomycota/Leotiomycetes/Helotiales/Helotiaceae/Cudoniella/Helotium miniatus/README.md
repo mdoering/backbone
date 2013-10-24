@@ -1,5 +1,4 @@
-Helotium miniatus Pat. SPECIES
-=======
+# Helotium miniatus Pat. SPECIES
 
 #### Status
 ACCEPTED

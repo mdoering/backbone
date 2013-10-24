@@ -1,5 +1,4 @@
-Geopyxis ciborioides Starbäck SPECIES
-=======
+# Geopyxis ciborioides Starbäck SPECIES
 
 #### Status
 ACCEPTED

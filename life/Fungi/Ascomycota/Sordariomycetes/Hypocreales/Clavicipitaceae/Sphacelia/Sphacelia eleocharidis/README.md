@@ -1,17 +1,16 @@
-Sphacelia heleocharitis Schwarzman & Philimonova SPECIES
-=======
+# Sphacelia eleocharidis Schwarzman & Philimonova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Shvartsman et al. , Flora Sporovykh Rastenii Kazakhstana [Cryptogamic Flora of Kazakhstan], 7, [Fungi Imperfecti, Melanconiales] (Alma-Ata) (Alma-Ata) 407 (1975)
 
 #### Original name
-Sphacelia heleocharitis Schwarzman & Philimonova
+Sphacelia eleocharidis Schwarzman & Philimonova
 
 ### Remarks
 null

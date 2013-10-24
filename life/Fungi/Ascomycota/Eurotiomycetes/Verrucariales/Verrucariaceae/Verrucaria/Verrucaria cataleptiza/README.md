@@ -1,5 +1,4 @@
-Verrucaria cataleptiza Servít SPECIES
-=======
+# Verrucaria cataleptiza Servít SPECIES
 
 #### Status
 ACCEPTED

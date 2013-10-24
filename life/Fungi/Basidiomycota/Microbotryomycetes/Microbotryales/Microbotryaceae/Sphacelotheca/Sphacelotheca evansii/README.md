@@ -1,5 +1,4 @@
-Sphacelotheca evansii Zundel SPECIES
-=======
+# Sphacelotheca evansii Zundel SPECIES
 
 #### Status
 ACCEPTED

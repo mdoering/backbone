@@ -1,5 +1,4 @@
-Buellia melanostola (Hue) Darb. SPECIES
-=======
+# Buellia melanostola (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

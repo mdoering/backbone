@@ -1,5 +1,4 @@
-Schizotorulopsis alfonsecai Cif. SPECIES
-=======
+# Schizotorulopsis alfonsecai Cif. SPECIES
 
 #### Status
 ACCEPTED

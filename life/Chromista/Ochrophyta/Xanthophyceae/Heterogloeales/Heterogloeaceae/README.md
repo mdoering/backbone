@@ -1,5 +1,4 @@
-Heterogloeaceae FAMILY
-=======
+# Heterogloeaceae FAMILY
 
 #### Status
 ACCEPTED

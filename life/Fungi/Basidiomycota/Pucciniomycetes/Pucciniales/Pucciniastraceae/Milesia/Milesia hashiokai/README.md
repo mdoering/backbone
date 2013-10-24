@@ -1,5 +1,4 @@
-Milesia hashiokai (Hirats. f.) Faull SPECIES
-=======
+# Milesia hashiokai (Hirats. f.) Faull SPECIES
 
 #### Status
 ACCEPTED

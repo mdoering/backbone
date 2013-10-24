@@ -1,5 +1,4 @@
-Cryptomonas borealis Skuja, 1956 SPECIES
-=======
+# Cryptomonas borealis Skuja, 1956 SPECIES
 
 #### Status
 ACCEPTED

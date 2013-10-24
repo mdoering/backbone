@@ -1,5 +1,4 @@
-Peltigera frippii Holt.-Hartw. SPECIES
-=======
+# Peltigera frippii Holt.-Hartw. SPECIES
 
 #### Status
 ACCEPTED

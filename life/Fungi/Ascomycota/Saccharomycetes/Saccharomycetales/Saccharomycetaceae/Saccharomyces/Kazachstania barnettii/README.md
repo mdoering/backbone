@@ -1,5 +1,4 @@
-Kazachstania barnettii (Vaughan-Mart.) Kurtzman, 2003 SPECIES
-=======
+# Kazachstania barnettii (Vaughan-Mart.) Kurtzman, 2003 SPECIES
 
 #### Status
 ACCEPTED

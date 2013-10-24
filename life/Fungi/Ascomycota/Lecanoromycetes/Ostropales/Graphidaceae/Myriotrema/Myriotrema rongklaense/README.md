@@ -1,5 +1,4 @@
-Myriotrema rongklaense Homchant. & Coppins SPECIES
-=======
+# Myriotrema rongklaense Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

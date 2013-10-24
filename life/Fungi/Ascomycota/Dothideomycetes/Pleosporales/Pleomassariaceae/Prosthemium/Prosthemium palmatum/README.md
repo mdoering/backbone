@@ -1,5 +1,4 @@
-Prosthemium palmatum Earle SPECIES
-=======
+# Prosthemium palmatum Earle SPECIES
 
 #### Status
 ACCEPTED

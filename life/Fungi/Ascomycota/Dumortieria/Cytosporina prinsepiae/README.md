@@ -1,5 +1,4 @@
-Cytosporina prinsepiae Tilak SPECIES
-=======
+# Cytosporina prinsepiae Tilak SPECIES
 
 #### Status
 ACCEPTED

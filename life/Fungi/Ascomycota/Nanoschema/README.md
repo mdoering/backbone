@@ -1,5 +1,4 @@
-Nanoschema B. Sutton GENUS
-=======
+# Nanoschema B. Sutton GENUS
 
 #### Status
 ACCEPTED

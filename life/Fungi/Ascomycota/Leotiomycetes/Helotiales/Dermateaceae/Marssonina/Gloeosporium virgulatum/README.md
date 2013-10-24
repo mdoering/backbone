@@ -1,5 +1,4 @@
-Gloeosporium virgulatum G.F. Atk. SPECIES
-=======
+# Gloeosporium virgulatum G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

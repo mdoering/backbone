@@ -1,5 +1,4 @@
-Colletotrichum ailanthi Tognini SPECIES
-=======
+# Colletotrichum ailanthi Tognini SPECIES
 
 #### Status
 ACCEPTED

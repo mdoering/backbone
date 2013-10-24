@@ -1,5 +1,4 @@
-Lecanactis subdryophila Follmann & Vezda SPECIES
-=======
+# Lecanactis subdryophila Follmann & Vezda SPECIES
 
 #### Status
 ACCEPTED

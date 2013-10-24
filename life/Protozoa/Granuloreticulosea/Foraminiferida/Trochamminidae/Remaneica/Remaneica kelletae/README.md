@@ -1,5 +1,4 @@
-Remaneica kelletae SPECIES
-=======
+# Remaneica kelletae SPECIES
 
 #### Status
 ACCEPTED

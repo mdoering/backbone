@@ -1,17 +1,16 @@
-Mycena vitrea var. galericolor J. Favre VARIETY
-=======
+# Mycena vitrea (Fr.) Quél., 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encyclop. Mycol. 10: 296 (1938)
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 243 (1872)
 
 #### Original name
-Mycena vitrea var. galericolor J. Favre
+Agaricus vitreus Fr., 1821
 
 ### Remarks
 null

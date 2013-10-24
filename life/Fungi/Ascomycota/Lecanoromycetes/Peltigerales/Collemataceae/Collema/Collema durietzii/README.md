@@ -1,5 +1,4 @@
-Collema durietzii Degel. SPECIES
-=======
+# Collema durietzii Degel. SPECIES
 
 #### Status
 ACCEPTED

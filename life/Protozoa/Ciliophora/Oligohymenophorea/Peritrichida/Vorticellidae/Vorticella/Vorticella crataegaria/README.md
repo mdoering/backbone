@@ -1,5 +1,4 @@
-Vorticella crataegaria Muller, 1773 SPECIES
-=======
+# Vorticella crataegaria Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

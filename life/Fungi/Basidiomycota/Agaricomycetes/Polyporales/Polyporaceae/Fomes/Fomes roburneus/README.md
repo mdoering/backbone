@@ -1,5 +1,4 @@
-Fomes roburneus (Fr.) Gillet SPECIES
-=======
+# Fomes roburneus (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina subreticulata Speg. SPECIES
-=======
+# Asterina subreticulata Speg. SPECIES
 
 #### Status
 ACCEPTED

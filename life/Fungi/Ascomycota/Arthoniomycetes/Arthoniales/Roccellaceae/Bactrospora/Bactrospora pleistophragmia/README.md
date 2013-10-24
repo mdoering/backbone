@@ -1,5 +1,4 @@
-Bactrospora pleistophragmia (Nyl.) Räsänen SPECIES
-=======
+# Bactrospora pleistophragmia (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

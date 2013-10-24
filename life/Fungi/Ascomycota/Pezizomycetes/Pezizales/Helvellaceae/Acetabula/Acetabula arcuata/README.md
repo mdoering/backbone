@@ -1,5 +1,4 @@
-Acetabula arcuata Fuckel SPECIES
-=======
+# Acetabula arcuata Fuckel SPECIES
 
 #### Status
 ACCEPTED

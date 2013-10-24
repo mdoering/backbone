@@ -1,8 +1,7 @@
-Verrucaria millardeti Servít SPECIES
-=======
+# Verrucaria millardetii Servít SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria millardeti Servít
+Verrucaria millardetii Servít
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhizophlyctis harderi Uebelm. SPECIES
-=======
+# Rhizophlyctis harderi Uebelm. SPECIES
 
 #### Status
 ACCEPTED

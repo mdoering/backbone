@@ -1,5 +1,4 @@
-Pseudacoliomyces GENUS
-=======
+# Pseudacoliomyces GENUS
 
 #### Status
 ACCEPTED

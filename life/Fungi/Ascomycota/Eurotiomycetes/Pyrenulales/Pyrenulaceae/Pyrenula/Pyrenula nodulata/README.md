@@ -1,5 +1,4 @@
-Pyrenula nodulata (Stirt.) Zahlbr. SPECIES
-=======
+# Pyrenula nodulata (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

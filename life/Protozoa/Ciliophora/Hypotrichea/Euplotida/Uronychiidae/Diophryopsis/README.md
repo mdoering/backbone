@@ -1,5 +1,4 @@
-Diophryopsis Hill & Borror, 1992 GENUS
-=======
+# Diophryopsis Hill & Borror, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdogloeopsis Petr. GENUS
-=======
+# Rhabdogloeopsis Petr. GENUS
 
 #### Status
 ACCEPTED

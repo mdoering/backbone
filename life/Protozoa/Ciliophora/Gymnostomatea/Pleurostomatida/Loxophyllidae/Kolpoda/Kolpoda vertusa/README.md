@@ -1,5 +1,4 @@
-Kolpoda vertusa Bory, 1824 SPECIES
-=======
+# Kolpoda vertusa Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

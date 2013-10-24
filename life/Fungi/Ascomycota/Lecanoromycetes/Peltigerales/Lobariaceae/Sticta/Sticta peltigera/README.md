@@ -1,5 +1,4 @@
-Sticta peltigera Delile SPECIES
-=======
+# Sticta peltigera Delile SPECIES
 
 #### Status
 ACCEPTED

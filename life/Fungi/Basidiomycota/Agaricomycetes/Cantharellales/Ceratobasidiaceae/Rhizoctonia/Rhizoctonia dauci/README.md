@@ -1,5 +1,4 @@
-Rhizoctonia dauci Rabenh. SPECIES
-=======
+# Rhizoctonia dauci Rabenh. SPECIES
 
 #### Status
 ACCEPTED

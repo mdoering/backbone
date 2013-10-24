@@ -1,17 +1,16 @@
-Enchylium fluviale (Huds.) Gray SPECIES
-=======
+# Collema dichotomum (With.) Coppins & J. R. Laundon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Arr. Brit. Pl. (London) 1: 397 (1821)
+in Laundon, Lichenologist 16(3): 229 (1984)
 
 #### Original name
-Lichen fluviatilis Huds.
+null
 
 ### Remarks
 null

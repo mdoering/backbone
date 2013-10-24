@@ -1,5 +1,4 @@
-Fusarium arachnoideum (Corda) Sacc. SPECIES
-=======
+# Fusarium arachnoideum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

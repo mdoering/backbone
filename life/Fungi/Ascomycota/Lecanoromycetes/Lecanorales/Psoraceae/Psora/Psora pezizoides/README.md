@@ -1,5 +1,4 @@
-Psora pezizoides Hoffm. SPECIES
-=======
+# Psora pezizoides Hoffm. SPECIES
 
 #### Status
 ACCEPTED

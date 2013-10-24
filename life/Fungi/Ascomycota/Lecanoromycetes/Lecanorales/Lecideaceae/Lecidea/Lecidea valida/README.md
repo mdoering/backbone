@@ -1,5 +1,4 @@
-Lecidea valida Stizenb. SPECIES
-=======
+# Lecidea valida Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endogone tozziana Cavara & Sacc. SPECIES
-=======
+# Endogone tozziana Cavara & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Agaricus indigoferus Ellis, 1876 SPECIES
-=======
+# Calliderma indigofera (Ellis) Largent, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Entolomatoid fungi of the Western United States and Alaska (Eureka) 31 (1994)
 
 #### Original name
 Agaricus indigoferus Ellis, 1876

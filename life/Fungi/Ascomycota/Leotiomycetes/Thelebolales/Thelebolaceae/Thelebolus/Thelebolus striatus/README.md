@@ -1,5 +1,4 @@
-Thelebolus striatus (K.S. Thind, E.K. Cash & Pr. Singh) K.S. Thind SPECIES
-=======
+# Thelebolus striatus (K.S. Thind, E.K. Cash & Pr. Singh) K.S. Thind SPECIES
 
 #### Status
 ACCEPTED

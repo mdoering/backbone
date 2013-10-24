@@ -1,5 +1,4 @@
-Saccardoella rhizophorae K.D. Hyde, 1992 SPECIES
-=======
+# Saccardoella rhizophorae K.D. Hyde, 1992 SPECIES
 
 #### Status
 ACCEPTED

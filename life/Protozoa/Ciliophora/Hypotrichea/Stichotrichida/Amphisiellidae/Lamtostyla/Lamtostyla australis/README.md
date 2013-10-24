@@ -1,5 +1,4 @@
-Lamtostyla australis (Blatterer & Foissner, 1988) Petz & Foissner, 1996 SPECIES
-=======
+# Lamtostyla australis (Blatterer & Foissner, 1988) Petz & Foissner, 1996 SPECIES
 
 #### Status
 ACCEPTED

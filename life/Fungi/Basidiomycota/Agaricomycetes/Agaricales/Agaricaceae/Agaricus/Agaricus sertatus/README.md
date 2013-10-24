@@ -1,5 +1,4 @@
-Agaricus sertatus Viv. SPECIES
-=======
+# Agaricus sertatus Viv. SPECIES
 
 #### Status
 ACCEPTED

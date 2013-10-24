@@ -1,5 +1,4 @@
-Eubuliminella helenae Revets, 1993 SPECIES
-=======
+# Eubuliminella helenae Revets, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactobacillus suebicus Kleynmans et al., 1989 SPECIES
-=======
+# Lactobacillus suebicus Kleynmans et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

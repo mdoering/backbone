@@ -1,5 +1,4 @@
-Coleosporium tylophorae Morim. SPECIES
-=======
+# Coleosporium tylophorae Morim. SPECIES
 
 #### Status
 ACCEPTED

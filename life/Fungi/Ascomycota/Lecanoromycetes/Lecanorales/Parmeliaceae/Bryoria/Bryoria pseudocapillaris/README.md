@@ -1,5 +1,4 @@
-Bryoria pseudocapillaris Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria pseudocapillaris Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filisphaeridium balmei (Sarjeant, 1973) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium balmei (Sarjeant, 1973) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

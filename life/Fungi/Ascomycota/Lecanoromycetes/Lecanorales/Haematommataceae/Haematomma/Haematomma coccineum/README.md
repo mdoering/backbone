@@ -1,5 +1,4 @@
-Haematomma coccineum var. coccineum VARIETY
-=======
+# Haematomma coccineum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lichen coccineus Dicks.
+null
 
 ### Remarks
 null

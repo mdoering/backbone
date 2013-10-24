@@ -1,5 +1,4 @@
-Verrucaria myriocarpella Malme SPECIES
-=======
+# Verrucaria myriocarpella Malme SPECIES
 
 #### Status
 ACCEPTED

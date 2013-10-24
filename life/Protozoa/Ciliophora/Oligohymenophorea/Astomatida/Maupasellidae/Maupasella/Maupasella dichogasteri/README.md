@@ -1,5 +1,4 @@
-Maupasella dichogasteri Puytorac & Rakotoarivelo, 1965 SPECIES
-=======
+# Maupasella dichogasteri Puytorac & Rakotoarivelo, 1965 SPECIES
 
 #### Status
 ACCEPTED

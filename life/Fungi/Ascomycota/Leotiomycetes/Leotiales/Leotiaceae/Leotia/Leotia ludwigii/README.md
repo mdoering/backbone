@@ -1,5 +1,4 @@
-Leotia ludwigii Pers. SPECIES
-=======
+# Leotia ludwigii Pers. SPECIES
 
 #### Status
 ACCEPTED

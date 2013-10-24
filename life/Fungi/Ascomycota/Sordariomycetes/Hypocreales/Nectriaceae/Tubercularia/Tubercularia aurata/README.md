@@ -1,5 +1,4 @@
-Tubercularia aurata (Mont. & Bosch) Kuntze SPECIES
-=======
+# Tubercularia aurata (Mont. & Bosch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

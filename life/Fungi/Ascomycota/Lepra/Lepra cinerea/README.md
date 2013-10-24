@@ -1,5 +1,4 @@
-Lepra cinerea Baumg. SPECIES
-=======
+# Lepra cinerea Baumg. SPECIES
 
 #### Status
 ACCEPTED

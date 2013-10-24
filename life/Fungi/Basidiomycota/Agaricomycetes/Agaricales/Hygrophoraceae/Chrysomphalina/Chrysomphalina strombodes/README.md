@@ -1,14 +1,13 @@
-Omphalina strombodes (Berk. & Mont.) Murrill, 1916 SPECIES
-=======
+# Chrysomphalina strombodes (Berk. & Mont.) Clémençon, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 9(5): 346 (1916)
+Z. Mykol. 48(2): 203 (1982)
 
 #### Original name
 Agaricus strombodes Berk. & Mont., 1856

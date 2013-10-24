@@ -1,5 +1,4 @@
-Coccomyces lijiangensis C.L. Hou & M. Piepenbr., 2007 SPECIES
-=======
+# Coccomyces lijiangensis C.L. Hou & M. Piepenbr., 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia terebinthi Briosi SPECIES
-=======
+# Pestalotia terebinthi Briosi SPECIES
 
 #### Status
 ACCEPTED

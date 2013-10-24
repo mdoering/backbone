@@ -1,5 +1,4 @@
-Erysiphe kusanoi var. kusanoi VARIETY
-=======
+# Erysiphe kusanoi (Syd. & P. Syd.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Schlechtendalia 4: 20 (2000)
 
 #### Original name
-Erysiphe kusanoi var. kusanoi
+Uncinula kusanoi Syd. & P. Syd.
 
 ### Remarks
 null

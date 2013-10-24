@@ -1,5 +1,4 @@
-Phoma piresii Gonz. Frag. SPECIES
-=======
+# Phoma piresii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

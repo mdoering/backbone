@@ -1,5 +1,4 @@
-Valsa condensata Berk. & M.A. Curtis SPECIES
-=======
+# Valsa condensata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

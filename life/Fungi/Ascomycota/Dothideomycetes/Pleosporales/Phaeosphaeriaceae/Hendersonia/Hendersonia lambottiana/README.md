@@ -1,5 +1,4 @@
-Hendersonia lambottiana (Sacc.) Kuntze SPECIES
-=======
+# Hendersonia lambottiana (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

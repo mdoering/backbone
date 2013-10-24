@@ -1,5 +1,4 @@
-Patellaria rosellopallida (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria rosellopallida (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

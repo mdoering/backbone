@@ -1,5 +1,4 @@
-Parmotrema milanezii Marcelli, Benatti & Elix SPECIES
-=======
+# Parmotrema milanezii Marcelli, Benatti & Elix SPECIES
 
 #### Status
 ACCEPTED

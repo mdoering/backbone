@@ -1,5 +1,4 @@
-Petalomonas applanata Skuja SPECIES
-=======
+# Petalomonas applanata Skuja SPECIES
 
 #### Status
 ACCEPTED

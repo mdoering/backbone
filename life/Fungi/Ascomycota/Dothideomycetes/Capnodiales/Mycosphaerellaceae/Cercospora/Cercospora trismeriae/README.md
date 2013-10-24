@@ -1,5 +1,4 @@
-Cercospora trismeriae Petr. SPECIES
-=======
+# Cercospora trismeriae Petr. SPECIES
 
 #### Status
 ACCEPTED

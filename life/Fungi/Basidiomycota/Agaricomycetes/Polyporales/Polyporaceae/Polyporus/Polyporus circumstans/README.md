@@ -1,5 +1,4 @@
-Polyporus circumstans Morgan SPECIES
-=======
+# Polyporus circumstans Morgan SPECIES
 
 #### Status
 ACCEPTED

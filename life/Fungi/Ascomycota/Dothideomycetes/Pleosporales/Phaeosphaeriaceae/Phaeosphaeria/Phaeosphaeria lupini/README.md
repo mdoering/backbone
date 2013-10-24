@@ -1,5 +1,4 @@
-Phaeosphaeria lupini Syd. & P. Syd. SPECIES
-=======
+# Phaeosphaeria lupini Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

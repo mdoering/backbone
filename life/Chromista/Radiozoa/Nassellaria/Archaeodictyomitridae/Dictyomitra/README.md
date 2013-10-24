@@ -1,5 +1,4 @@
-Dictyomitra Zittel, 1876 GENUS
-=======
+# Dictyomitra Zittel, 1876 GENUS
 
 #### Status
 ACCEPTED

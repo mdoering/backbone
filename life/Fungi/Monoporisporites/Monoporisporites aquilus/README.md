@@ -1,5 +1,4 @@
-Monoporisporites aquilus Kalgutkar SPECIES
-=======
+# Monoporisporites aquilus Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

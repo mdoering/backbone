@@ -1,5 +1,4 @@
-Ascocoryne cainii ined. SPECIES
-=======
+# Ascocoryne cainii ined. SPECIES
 
 #### Status
 ACCEPTED

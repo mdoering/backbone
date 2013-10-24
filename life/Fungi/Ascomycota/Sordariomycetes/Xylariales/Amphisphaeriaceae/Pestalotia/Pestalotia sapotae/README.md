@@ -1,5 +1,4 @@
-Pestalotia sapotae Henn. SPECIES
-=======
+# Pestalotia sapotae Henn. SPECIES
 
 #### Status
 ACCEPTED

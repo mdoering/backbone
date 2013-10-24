@@ -1,5 +1,4 @@
-Dacrymyces intermedius L.S. Olive, 1958 SPECIES
-=======
+# Dacrymyces intermedius L.S. Olive, 1958 SPECIES
 
 #### Status
 ACCEPTED

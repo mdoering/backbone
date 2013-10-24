@@ -1,5 +1,4 @@
-Scleroderris coerulea Pat. SPECIES
-=======
+# Scleroderris coerulea Pat. SPECIES
 
 #### Status
 ACCEPTED

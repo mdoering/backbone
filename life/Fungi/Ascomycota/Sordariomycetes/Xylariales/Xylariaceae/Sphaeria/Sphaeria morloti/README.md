@@ -1,5 +1,4 @@
-Sphaeria morloti Fisch.-Oost. SPECIES
-=======
+# Sphaeria morloti Fisch.-Oost. SPECIES
 
 #### Status
 ACCEPTED

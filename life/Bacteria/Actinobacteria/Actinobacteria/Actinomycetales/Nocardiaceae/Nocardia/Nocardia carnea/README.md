@@ -1,11 +1,10 @@
-Streptothrix carnea Rossi Doria, 1891 SPECIES
-=======
+# Nocardia carnea (Rossi Doria, 1891) Castellani and Chalmers, 1913 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

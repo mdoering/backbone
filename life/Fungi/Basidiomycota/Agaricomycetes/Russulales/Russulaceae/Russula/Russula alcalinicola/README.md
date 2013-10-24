@@ -1,5 +1,4 @@
-Russula alcalinicola Burl. SPECIES
-=======
+# Russula alcalinicola Burl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zopfinula hyalinospora (Kirschst.) Kirschst. SPECIES
-=======
+# Zopfinula hyalinospora (Kirschst.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

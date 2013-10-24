@@ -1,5 +1,4 @@
-Lachnocladium usambarense Henn. SPECIES
-=======
+# Lachnocladium usambarense Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Medipsia GENUS
-=======
+# Medipsia GENUS
 
 #### Status
 ACCEPTED

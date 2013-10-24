@@ -1,5 +1,4 @@
-Cladonia nigripes (Nyl.) Trass SPECIES
-=======
+# Cladonia nigripes (Nyl.) Trass SPECIES
 
 #### Status
 ACCEPTED

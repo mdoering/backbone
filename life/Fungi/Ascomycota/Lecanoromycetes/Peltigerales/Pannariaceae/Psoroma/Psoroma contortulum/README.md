@@ -1,5 +1,4 @@
-Psoroma contortulum F. Wilson SPECIES
-=======
+# Psoroma contortulum F. Wilson SPECIES
 
 #### Status
 ACCEPTED

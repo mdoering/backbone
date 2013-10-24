@@ -1,5 +1,4 @@
-Asterina tubocapsici Sawada & W. Yamam. SPECIES
-=======
+# Asterina tubocapsici Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

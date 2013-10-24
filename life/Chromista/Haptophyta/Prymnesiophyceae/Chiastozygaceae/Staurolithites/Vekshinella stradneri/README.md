@@ -1,5 +1,4 @@
-Vekshinella stradneri Rood et al., 1971 SPECIES
-=======
+# Vekshinella stradneri Rood et al., 1971 SPECIES
 
 #### Status
 DOUBTFUL

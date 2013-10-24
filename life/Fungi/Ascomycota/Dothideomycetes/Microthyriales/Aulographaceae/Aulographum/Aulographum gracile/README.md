@@ -1,5 +1,4 @@
-Aulographum gracile Ellis & G. Martin SPECIES
-=======
+# Aulographum gracile Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

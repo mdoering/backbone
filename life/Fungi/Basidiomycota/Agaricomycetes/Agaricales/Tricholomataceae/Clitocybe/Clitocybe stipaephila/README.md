@@ -1,5 +1,4 @@
-Clitocybe stipaephila Velen. SPECIES
-=======
+# Clitocybe stipaephila Velen. SPECIES
 
 #### Status
 ACCEPTED

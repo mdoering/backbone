@@ -1,5 +1,4 @@
-Ramularia onopordi C. Massal. SPECIES
-=======
+# Ramularia onopordi C. Massal. SPECIES
 
 #### Status
 ACCEPTED

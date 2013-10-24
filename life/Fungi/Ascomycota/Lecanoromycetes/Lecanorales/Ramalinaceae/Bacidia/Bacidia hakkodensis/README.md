@@ -1,5 +1,4 @@
-Bacidia hakkodensis Kashiw. SPECIES
-=======
+# Bacidia hakkodensis Kashiw. SPECIES
 
 #### Status
 ACCEPTED

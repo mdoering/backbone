@@ -1,5 +1,4 @@
-Dothiorella diospyri Petr. & Syd. SPECIES
-=======
+# Dothiorella diospyri Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

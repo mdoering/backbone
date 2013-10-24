@@ -1,5 +1,4 @@
-Boletus squamulosus Ellis SPECIES
-=======
+# Boletus squamulosus Ellis SPECIES
 
 #### Status
 ACCEPTED

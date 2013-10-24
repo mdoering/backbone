@@ -1,5 +1,4 @@
-Polyporus leveillei Pat. SPECIES
-=======
+# Polyporus leveillei Pat. SPECIES
 
 #### Status
 ACCEPTED

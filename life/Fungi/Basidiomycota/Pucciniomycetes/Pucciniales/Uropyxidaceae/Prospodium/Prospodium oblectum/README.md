@@ -1,5 +1,4 @@
-Prospodium oblectum Syd. SPECIES
-=======
+# Prospodium oblectum Syd. SPECIES
 
 #### Status
 ACCEPTED

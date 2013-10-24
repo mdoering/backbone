@@ -1,5 +1,4 @@
-Diatrype minoensis Sacc. SPECIES
-=======
+# Diatrype minoensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria malvinae Messuti & A. W. Archer SPECIES
-=======
+# Pertusaria malvinae Messuti & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

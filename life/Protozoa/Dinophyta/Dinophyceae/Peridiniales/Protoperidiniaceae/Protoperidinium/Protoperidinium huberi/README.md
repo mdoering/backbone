@@ -1,5 +1,4 @@
-Protoperidinium huberi (Schiller, 1929) Balech, 1974 SPECIES
-=======
+# Protoperidinium huberi (Schiller, 1929) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

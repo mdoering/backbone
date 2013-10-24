@@ -1,5 +1,4 @@
-Armichona hexadenta Jankowski, 1973 SPECIES
-=======
+# Armichona hexadenta Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

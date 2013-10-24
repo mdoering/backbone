@@ -1,5 +1,4 @@
-Collemopsidium brunii (B. de Lesd.) Grube & Hafellner SPECIES
-=======
+# Collemopsidium brunii (B. de Lesd.) Grube & Hafellner SPECIES
 
 #### Status
 ACCEPTED

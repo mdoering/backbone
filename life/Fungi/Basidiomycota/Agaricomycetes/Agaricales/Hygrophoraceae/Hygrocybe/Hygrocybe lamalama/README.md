@@ -1,5 +1,4 @@
-Hygrocybe lamalama Desjardin & Hemmes SPECIES
-=======
+# Hygrocybe lamalama Desjardin & Hemmes SPECIES
 
 #### Status
 ACCEPTED

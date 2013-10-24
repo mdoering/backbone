@@ -1,5 +1,4 @@
-Eutypa lophiostomoides Speg. SPECIES
-=======
+# Eutypa lophiostomoides Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistylis corymbosus Dumas, 1937 SPECIES
-=======
+# Epistylis corymbosus Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

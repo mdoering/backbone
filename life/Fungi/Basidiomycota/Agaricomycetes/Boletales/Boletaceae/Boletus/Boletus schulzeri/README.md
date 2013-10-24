@@ -1,5 +1,4 @@
-Boletus schulzeri Quél. SPECIES
-=======
+# Boletus schulzeri Quél. SPECIES
 
 #### Status
 ACCEPTED

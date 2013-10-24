@@ -1,5 +1,4 @@
-Diplodina aloysiae Grove SPECIES
-=======
+# Diplodina aloysiae Grove SPECIES
 
 #### Status
 ACCEPTED

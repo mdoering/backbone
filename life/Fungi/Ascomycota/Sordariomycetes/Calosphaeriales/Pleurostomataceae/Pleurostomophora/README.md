@@ -1,5 +1,4 @@
-Pleurostomophora Vijaykr., L. Mostert, Jeewon, W. Gams, K.D. Hyde & Crous GENUS
-=======
+# Pleurostomophora Vijaykr., L. Mostert, Jeewon, W. Gams, K.D. Hyde & Crous GENUS
 
 #### Status
 ACCEPTED

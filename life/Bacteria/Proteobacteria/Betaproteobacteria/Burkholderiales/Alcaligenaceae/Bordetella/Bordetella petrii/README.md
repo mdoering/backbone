@@ -1,5 +1,4 @@
-Bordetella petrii Von Wintzingerode et al., 2001 SPECIES
-=======
+# Bordetella petrii Von Wintzingerode et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

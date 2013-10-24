@@ -1,5 +1,4 @@
-Naucoria retigera Speg. SPECIES
-=======
+# Naucoria retigera Speg. SPECIES
 
 #### Status
 ACCEPTED

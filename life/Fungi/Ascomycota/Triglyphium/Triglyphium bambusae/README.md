@@ -1,5 +1,4 @@
-Triglyphium bambusae A.K. Roy SPECIES
-=======
+# Triglyphium bambusae A.K. Roy SPECIES
 
 #### Status
 ACCEPTED

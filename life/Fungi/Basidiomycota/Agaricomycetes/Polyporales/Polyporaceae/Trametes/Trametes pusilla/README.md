@@ -1,5 +1,4 @@
-Trametes pusilla Lloyd SPECIES
-=======
+# Trametes pusilla Lloyd SPECIES
 
 #### Status
 ACCEPTED

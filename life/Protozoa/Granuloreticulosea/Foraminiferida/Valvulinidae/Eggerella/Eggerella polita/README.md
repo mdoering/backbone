@@ -1,5 +1,4 @@
-Eggerella polita Collins, 1958 SPECIES
-=======
+# Eggerella polita Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

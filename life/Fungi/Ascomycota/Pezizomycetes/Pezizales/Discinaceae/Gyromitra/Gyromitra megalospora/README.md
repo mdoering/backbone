@@ -1,5 +1,4 @@
-Gyromitra megalospora Donadini & Riousset SPECIES
-=======
+# Gyromitra megalospora Donadini & Riousset SPECIES
 
 #### Status
 ACCEPTED

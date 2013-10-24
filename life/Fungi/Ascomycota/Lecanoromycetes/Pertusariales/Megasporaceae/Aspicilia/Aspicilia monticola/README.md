@@ -1,5 +1,4 @@
-Aspicilia monticola (H. Magn.) SPECIES
-=======
+# Aspicilia monticola (H. Magn.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterostoma mimusopis (Doidge) Bat., A.F. Vital & Nascim. SPECIES
-=======
+# Hysterostoma mimusopis (Doidge) Bat., A.F. Vital & Nascim. SPECIES
 
 #### Status
 ACCEPTED

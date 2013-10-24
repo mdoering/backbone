@@ -1,5 +1,4 @@
-Globuliciopsis Hjortstam & Ryvarden GENUS
-=======
+# Globuliciopsis Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

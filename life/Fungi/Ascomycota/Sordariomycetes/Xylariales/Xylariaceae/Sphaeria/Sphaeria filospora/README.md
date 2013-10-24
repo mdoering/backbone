@@ -1,5 +1,4 @@
-Sphaeria filospora Cooke & Ellis SPECIES
-=======
+# Sphaeria filospora Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

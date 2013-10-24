@@ -1,5 +1,4 @@
-Phytophthora mexicana Hotson & Hartge, 1923 SPECIES
-=======
+# Phytophthora mexicana Hotson & Hartge, 1923 SPECIES
 
 #### Status
 ACCEPTED

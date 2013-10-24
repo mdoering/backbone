@@ -1,17 +1,16 @@
-Allescheriella uredinoides Henn. SPECIES
-=======
+# Allescheriella uredinioides Henn., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 36: 244 (1897)
 
 #### Original name
-Allescheriella uredinoides Henn.
+Allescheriella uredinioides Henn., 1897
 
 ### Remarks
 null

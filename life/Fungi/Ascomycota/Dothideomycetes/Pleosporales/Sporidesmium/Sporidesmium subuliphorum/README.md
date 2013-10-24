@@ -1,5 +1,4 @@
-Sporidesmium subuliphorum Matsush. SPECIES
-=======
+# Sporidesmium subuliphorum Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina hainanensis B. Song, 2004 SPECIES
-=======
+# Asterina hainanensis B. Song, 2004 SPECIES
 
 #### Status
 ACCEPTED

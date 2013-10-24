@@ -1,5 +1,4 @@
-Prunulus cinereoavellaneus Murrill SPECIES
-=======
+# Prunulus cinereoavellaneus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sericeomyces moseri (Wasser) Contu SPECIES
-=======
+# Sericeomyces moseri (Wasser) Contu SPECIES
 
 #### Status
 ACCEPTED

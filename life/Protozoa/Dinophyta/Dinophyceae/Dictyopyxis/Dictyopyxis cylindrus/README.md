@@ -1,5 +1,4 @@
-Dictyopyxis cylindrus Ehrenberg SPECIES
-=======
+# Dictyopyxis cylindrus Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

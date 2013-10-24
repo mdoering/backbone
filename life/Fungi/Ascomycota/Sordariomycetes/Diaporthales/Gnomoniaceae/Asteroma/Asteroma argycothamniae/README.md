@@ -1,5 +1,4 @@
-Asteroma argycothamniae SPECIES
-=======
+# Asteroma argycothamniae SPECIES
 
 #### Status
 ACCEPTED

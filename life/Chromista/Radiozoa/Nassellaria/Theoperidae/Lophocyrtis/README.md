@@ -1,5 +1,4 @@
-Lophocyrtis Haeckel, 1887 GENUS
-=======
+# Lophocyrtis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

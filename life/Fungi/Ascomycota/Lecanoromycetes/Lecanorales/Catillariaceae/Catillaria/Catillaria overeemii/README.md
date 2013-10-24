@@ -1,5 +1,4 @@
-Catillaria overeemii Zahlbr. SPECIES
-=======
+# Catillaria overeemii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

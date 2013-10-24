@@ -1,5 +1,4 @@
-Nectria pinea Dingley, 1951 SPECIES
-=======
+# Nectria pinea Dingley, 1951 SPECIES
 
 #### Status
 ACCEPTED

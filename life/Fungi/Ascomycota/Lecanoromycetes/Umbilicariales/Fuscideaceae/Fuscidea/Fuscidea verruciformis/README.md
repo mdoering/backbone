@@ -1,5 +1,4 @@
-Fuscidea verruciformis Mas. Inoue SPECIES
-=======
+# Fuscidea verruciformis Mas. Inoue SPECIES
 
 #### Status
 ACCEPTED

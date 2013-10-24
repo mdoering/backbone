@@ -1,5 +1,4 @@
-Uredo detecta Mains SPECIES
-=======
+# Uredo detecta Mains SPECIES
 
 #### Status
 ACCEPTED

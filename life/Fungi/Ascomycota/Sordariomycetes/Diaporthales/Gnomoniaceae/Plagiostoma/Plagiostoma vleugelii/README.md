@@ -1,5 +1,4 @@
-Plagiostoma vleugelii (Kleb.) Höhn. SPECIES
-=======
+# Plagiostoma vleugelii (Kleb.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

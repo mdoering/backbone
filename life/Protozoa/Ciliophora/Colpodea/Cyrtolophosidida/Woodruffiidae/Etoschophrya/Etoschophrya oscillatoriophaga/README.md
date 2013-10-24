@@ -1,5 +1,4 @@
-Etoschophrya oscillatoriophaga Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Etoschophrya oscillatoriophaga Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

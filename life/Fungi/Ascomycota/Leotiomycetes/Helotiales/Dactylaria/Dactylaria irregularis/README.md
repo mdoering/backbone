@@ -1,5 +1,4 @@
-Dactylaria irregularis de Hoog, 1985 SPECIES
-=======
+# Dactylaria irregularis de Hoog, 1985 SPECIES
 
 #### Status
 ACCEPTED

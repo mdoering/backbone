@@ -1,5 +1,4 @@
-Triceratium broeckii Leud.-Fortm., 1879 SPECIES
-=======
+# Triceratium broeckii Leud.-Fortm., 1879 SPECIES
 
 #### Status
 ACCEPTED

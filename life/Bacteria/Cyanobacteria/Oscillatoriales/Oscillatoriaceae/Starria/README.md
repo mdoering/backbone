@@ -1,5 +1,4 @@
-Starria N.J.Lang, 1977 GENUS
-=======
+# Starria N.J.Lang, 1977 GENUS
 
 #### Status
 ACCEPTED

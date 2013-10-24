@@ -1,5 +1,4 @@
-Marinococcus halotolerans Li et al., 2005 SPECIES
-=======
+# Marinococcus halotolerans Li et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

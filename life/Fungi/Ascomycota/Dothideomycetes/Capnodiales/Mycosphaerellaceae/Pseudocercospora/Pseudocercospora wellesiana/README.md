@@ -1,5 +1,4 @@
-Pseudocercospora wellesiana (Chupp) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora wellesiana (Chupp) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

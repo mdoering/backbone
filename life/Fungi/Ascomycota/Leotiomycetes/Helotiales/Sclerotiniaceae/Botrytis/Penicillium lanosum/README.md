@@ -1,8 +1,7 @@
-Penicillium kojigenum G. Sm., 1961 SPECIES
-=======
+# Penicillium lanosum Westling, 1911 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

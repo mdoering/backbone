@@ -1,14 +1,13 @@
-Phyllostictina solitaria (Ellis & Everh.) Shear, 1895 SPECIES
-=======
+# Phyllosticta solitaria Ellis & Everh., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. 47: 430 (1895)
 
 #### Original name
 Phyllosticta solitaria Ellis & Everh., 1895

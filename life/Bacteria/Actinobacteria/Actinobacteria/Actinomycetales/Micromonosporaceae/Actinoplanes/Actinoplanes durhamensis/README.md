@@ -1,5 +1,4 @@
-Actinoplanes durhamensis Goodfellow et al., 1990 SPECIES
-=======
+# Actinoplanes durhamensis Goodfellow et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

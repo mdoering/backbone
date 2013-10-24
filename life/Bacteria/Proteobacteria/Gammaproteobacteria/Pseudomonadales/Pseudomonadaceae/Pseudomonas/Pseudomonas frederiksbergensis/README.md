@@ -1,5 +1,4 @@
-Pseudomonas frederiksbergensis Andersen et al., 2000 SPECIES
-=======
+# Pseudomonas frederiksbergensis Andersen et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus rhinocerotis (Cooke) SPECIES
-=======
+# Polyporus rhinocerotis (Cooke) SPECIES
 
 #### Status
 ACCEPTED

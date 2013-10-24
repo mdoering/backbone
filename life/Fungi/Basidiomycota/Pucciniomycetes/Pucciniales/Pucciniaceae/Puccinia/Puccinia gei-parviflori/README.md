@@ -1,5 +1,4 @@
-Puccinia gei-parviflori McNabb, 1966 SPECIES
-=======
+# Puccinia gei-parviflori McNabb, 1966 SPECIES
 
 #### Status
 ACCEPTED

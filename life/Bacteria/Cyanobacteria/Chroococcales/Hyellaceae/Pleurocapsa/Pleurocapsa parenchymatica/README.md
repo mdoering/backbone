@@ -1,5 +1,4 @@
-Pleurocapsa parenchymatica Geitler SPECIES
-=======
+# Pleurocapsa parenchymatica Geitler SPECIES
 
 #### Status
 ACCEPTED

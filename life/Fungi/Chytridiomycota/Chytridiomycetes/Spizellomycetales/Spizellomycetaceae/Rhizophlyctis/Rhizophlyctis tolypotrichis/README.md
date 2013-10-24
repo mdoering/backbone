@@ -1,8 +1,7 @@
-Rhizophlyctis tolypothrichis Zukal SPECIES
-=======
+# Rhizophlyctis tolypotrichis Zukal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizophlyctis tolypothrichis Zukal
+Rhizophlyctis tolypotrichis Zukal
 
 ### Remarks
 null

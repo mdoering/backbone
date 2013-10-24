@@ -1,5 +1,4 @@
-Clitocybe flavofusca (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe flavofusca (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

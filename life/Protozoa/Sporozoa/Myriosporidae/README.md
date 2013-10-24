@@ -1,5 +1,4 @@
-Myriosporidae FAMILY
-=======
+# Myriosporidae FAMILY
 
 #### Status
 ACCEPTED

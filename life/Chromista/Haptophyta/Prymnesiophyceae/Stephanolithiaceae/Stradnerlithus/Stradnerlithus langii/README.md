@@ -1,5 +1,4 @@
-Stradnerlithus langii (Rood & Barnard, 1972) Perch-Nielsen, 1984 SPECIES
-=======
+# Stradnerlithus langii (Rood & Barnard, 1972) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

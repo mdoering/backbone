@@ -1,5 +1,4 @@
-Saprolegnia curvata Minden SPECIES
-=======
+# Saprolegnia curvata Minden SPECIES
 
 #### Status
 ACCEPTED

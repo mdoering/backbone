@@ -1,5 +1,4 @@
-Cetraria wallichiana var. wallichiana VARIETY
-=======
+# Cetraria wallichiana SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cetraria wallichiana var. wallichiana
+null
 
 ### Remarks
 null

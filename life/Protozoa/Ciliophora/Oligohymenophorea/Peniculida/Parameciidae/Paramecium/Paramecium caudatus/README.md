@@ -1,5 +1,4 @@
-Paramecium caudatus Stokes, 1886 SPECIES
-=======
+# Paramecium caudatus Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

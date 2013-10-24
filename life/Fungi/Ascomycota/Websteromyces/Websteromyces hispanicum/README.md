@@ -1,5 +1,4 @@
-Websteromyces hispanicum anon. ined. SPECIES
-=======
+# Websteromyces hispanicum anon. ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Siphula tabularis (Thunb.) Nyl. SPECIES
-=======
+# Siphula tabularis (Thunb.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocomus indicus Singer SPECIES
-=======
+# Xerocomus indicus Singer SPECIES
 
 #### Status
 ACCEPTED

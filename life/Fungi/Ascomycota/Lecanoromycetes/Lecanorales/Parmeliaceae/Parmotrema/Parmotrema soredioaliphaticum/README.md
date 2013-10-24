@@ -1,5 +1,4 @@
-Parmotrema soredioaliphaticum Estrabou & Adler SPECIES
-=======
+# Parmotrema soredioaliphaticum Estrabou & Adler SPECIES
 
 #### Status
 ACCEPTED

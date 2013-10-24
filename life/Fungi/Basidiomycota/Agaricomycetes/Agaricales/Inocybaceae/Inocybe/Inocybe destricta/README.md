@@ -1,5 +1,4 @@
-Inocybe destricta (Fr.) Quél. SPECIES
-=======
+# Inocybe destricta (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

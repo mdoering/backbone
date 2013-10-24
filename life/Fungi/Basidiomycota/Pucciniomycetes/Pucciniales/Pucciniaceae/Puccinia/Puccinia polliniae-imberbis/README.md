@@ -1,5 +1,4 @@
-Puccinia polliniae-imberbis (S. Ito) Hirats. SPECIES
-=======
+# Puccinia polliniae-imberbis (S. Ito) Hirats. SPECIES
 
 #### Status
 ACCEPTED

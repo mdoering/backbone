@@ -1,5 +1,4 @@
-Furia triangularis (Villac. & Wilding) Z.Z. Li, M.Z. Fan & B. Huang, 1998 SPECIES
-=======
+# Furia triangularis (Villac. & Wilding) Z.Z. Li, M.Z. Fan & B. Huang, 1998 SPECIES
 
 #### Status
 ACCEPTED

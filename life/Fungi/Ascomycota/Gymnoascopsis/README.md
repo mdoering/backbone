@@ -1,5 +1,4 @@
-Gymnoascopsis GENUS
-=======
+# Gymnoascopsis GENUS
 
 #### Status
 ACCEPTED

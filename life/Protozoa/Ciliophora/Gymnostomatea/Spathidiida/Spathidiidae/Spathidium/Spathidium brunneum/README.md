@@ -1,5 +1,4 @@
-Spathidium brunneum Kahl, 1926 SPECIES
-=======
+# Spathidium brunneum Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

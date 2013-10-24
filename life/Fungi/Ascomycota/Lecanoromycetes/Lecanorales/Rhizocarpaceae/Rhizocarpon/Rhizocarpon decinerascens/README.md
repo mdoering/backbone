@@ -1,5 +1,4 @@
-Rhizocarpon decinerascens (Nyl.) Zahlbr. SPECIES
-=======
+# Rhizocarpon decinerascens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

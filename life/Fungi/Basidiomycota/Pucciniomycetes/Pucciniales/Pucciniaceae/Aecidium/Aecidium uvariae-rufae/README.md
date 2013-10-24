@@ -1,5 +1,4 @@
-Aecidium uvariae-rufae Henn. SPECIES
-=======
+# Aecidium uvariae-rufae Henn. SPECIES
 
 #### Status
 ACCEPTED

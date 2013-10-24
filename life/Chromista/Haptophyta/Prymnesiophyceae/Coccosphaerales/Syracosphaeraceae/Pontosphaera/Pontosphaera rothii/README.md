@@ -1,5 +1,4 @@
-Pontosphaera rothii Haq, 1971 SPECIES
-=======
+# Pontosphaera rothii Haq, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalodothis caricis Pat. SPECIES
-=======
+# Hyalodothis caricis Pat. SPECIES
 
 #### Status
 ACCEPTED

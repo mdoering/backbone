@@ -1,5 +1,4 @@
-Boletus torrendii Bres. SPECIES
-=======
+# Boletus torrendii Bres. SPECIES
 
 #### Status
 ACCEPTED

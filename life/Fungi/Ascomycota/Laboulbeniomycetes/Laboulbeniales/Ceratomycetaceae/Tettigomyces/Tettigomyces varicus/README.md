@@ -1,5 +1,4 @@
-Tettigomyces varicus Thaxt. SPECIES
-=======
+# Tettigomyces varicus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

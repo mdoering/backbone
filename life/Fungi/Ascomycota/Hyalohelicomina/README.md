@@ -1,5 +1,4 @@
-Hyalohelicomina T. Yokoy. GENUS
-=======
+# Hyalohelicomina T. Yokoy. GENUS
 
 #### Status
 ACCEPTED

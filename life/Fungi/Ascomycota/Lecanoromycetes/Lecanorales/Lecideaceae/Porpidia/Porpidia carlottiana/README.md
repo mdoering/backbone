@@ -1,5 +1,4 @@
-Porpidia carlottiana Gowan SPECIES
-=======
+# Porpidia carlottiana Gowan SPECIES
 
 #### Status
 ACCEPTED

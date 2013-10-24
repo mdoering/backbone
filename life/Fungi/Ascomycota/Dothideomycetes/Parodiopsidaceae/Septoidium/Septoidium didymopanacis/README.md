@@ -1,5 +1,4 @@
-Septoidium didymopanacis Viégas SPECIES
-=======
+# Septoidium didymopanacis Viégas SPECIES
 
 #### Status
 ACCEPTED

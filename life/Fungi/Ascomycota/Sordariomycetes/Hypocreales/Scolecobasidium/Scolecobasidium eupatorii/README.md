@@ -1,5 +1,4 @@
-Scolecobasidium eupatorii Y.L. Guo SPECIES
-=======
+# Scolecobasidium eupatorii Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

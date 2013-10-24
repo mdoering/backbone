@@ -1,5 +1,4 @@
-Fusarium bagnisianum Thüm. SPECIES
-=======
+# Fusarium bagnisianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

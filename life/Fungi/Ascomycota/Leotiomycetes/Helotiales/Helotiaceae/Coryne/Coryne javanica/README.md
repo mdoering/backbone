@@ -1,5 +1,4 @@
-Coryne javanica Penz. & Sacc. SPECIES
-=======
+# Coryne javanica Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

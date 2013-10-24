@@ -1,5 +1,4 @@
-Coccudina crassa Dujardin, 1841 SPECIES
-=======
+# Coccudina crassa Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

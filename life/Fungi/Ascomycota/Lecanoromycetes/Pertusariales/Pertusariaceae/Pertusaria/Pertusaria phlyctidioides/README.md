@@ -1,5 +1,4 @@
-Pertusaria phlyctidioides Körb. SPECIES
-=======
+# Pertusaria phlyctidioides Körb. SPECIES
 
 #### Status
 ACCEPTED

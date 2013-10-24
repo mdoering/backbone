@@ -1,5 +1,4 @@
-Peniophora vernicosa Ellis & Everh. SPECIES
-=======
+# Peniophora vernicosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

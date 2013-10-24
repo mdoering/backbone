@@ -1,5 +1,4 @@
-Puccinia tripsacicola Cummins SPECIES
-=======
+# Puccinia tripsacicola Cummins SPECIES
 
 #### Status
 ACCEPTED

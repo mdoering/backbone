@@ -1,5 +1,4 @@
-Lachnum agropyri Velen. SPECIES
-=======
+# Lachnum agropyri Velen. SPECIES
 
 #### Status
 ACCEPTED

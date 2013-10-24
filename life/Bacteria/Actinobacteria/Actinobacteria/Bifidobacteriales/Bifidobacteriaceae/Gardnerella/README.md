@@ -1,5 +1,4 @@
-Gardnerella Greenwood & Pickett, 1980 GENUS
-=======
+# Gardnerella Greenwood & Pickett, 1980 GENUS
 
 #### Status
 ACCEPTED

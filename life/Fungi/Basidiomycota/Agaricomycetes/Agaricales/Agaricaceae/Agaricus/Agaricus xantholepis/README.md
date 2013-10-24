@@ -1,5 +1,4 @@
-Agaricus xantholepis (F.H. Møller) F.H. Møller, 1952 SPECIES
-=======
+# Agaricus xantholepis (F.H. Møller) F.H. Møller, 1952 SPECIES
 
 #### Status
 ACCEPTED

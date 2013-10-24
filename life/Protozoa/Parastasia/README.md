@@ -1,5 +1,4 @@
-Parastasia Westwood GENUS
-=======
+# Parastasia Westwood GENUS
 
 #### Status
 ACCEPTED

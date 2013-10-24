@@ -1,5 +1,4 @@
-Paragastrostyla lanceolata Hemberger, 1985 SPECIES
-=======
+# Paragastrostyla lanceolata Hemberger, 1985 SPECIES
 
 #### Status
 ACCEPTED

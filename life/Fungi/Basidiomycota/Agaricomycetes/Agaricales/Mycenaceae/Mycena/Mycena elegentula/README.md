@@ -1,5 +1,4 @@
-Mycena elegentula var. gracilenta Henn. VARIETY
-=======
+# Mycena elegentula anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycena elegentula var. gracilenta Henn.
+Mycena elegentula anon.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Crepidotus luteolus Sacc., 1887 SPECIES
-=======
+# Crepidotus luteolus Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED

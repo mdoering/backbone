@@ -1,5 +1,4 @@
-Lepiota zenkeri Henn. SPECIES
-=======
+# Lepiota zenkeri Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium esculentum Ellis & Everh. SPECIES
-=======
+# Macrosporium esculentum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

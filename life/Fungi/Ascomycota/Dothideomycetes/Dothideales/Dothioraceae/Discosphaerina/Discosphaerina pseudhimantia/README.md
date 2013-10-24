@@ -1,5 +1,4 @@
-Discosphaerina pseudhimantia (Rehm) Petr. SPECIES
-=======
+# Discosphaerina pseudhimantia (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

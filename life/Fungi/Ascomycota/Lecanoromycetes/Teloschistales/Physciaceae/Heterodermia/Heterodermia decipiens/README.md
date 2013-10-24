@@ -1,5 +1,4 @@
-Heterodermia decipiens (Arnold) Trevis. SPECIES
-=======
+# Heterodermia decipiens (Arnold) Trevis. SPECIES
 
 #### Status
 ACCEPTED

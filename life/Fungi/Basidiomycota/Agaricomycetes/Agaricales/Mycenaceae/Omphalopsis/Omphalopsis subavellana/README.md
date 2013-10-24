@@ -1,5 +1,4 @@
-Omphalopsis subavellana Murrill SPECIES
-=======
+# Omphalopsis subavellana Murrill SPECIES
 
 #### Status
 ACCEPTED

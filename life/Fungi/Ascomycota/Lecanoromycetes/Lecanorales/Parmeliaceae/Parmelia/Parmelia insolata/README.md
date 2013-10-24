@@ -1,5 +1,4 @@
-Parmelia insolata Kurok. SPECIES
-=======
+# Parmelia insolata Kurok. SPECIES
 
 #### Status
 ACCEPTED

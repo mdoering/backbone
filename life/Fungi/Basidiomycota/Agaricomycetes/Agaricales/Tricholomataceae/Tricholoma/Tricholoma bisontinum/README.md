@@ -1,5 +1,4 @@
-Tricholoma bisontinum Rolland SPECIES
-=======
+# Tricholoma bisontinum Rolland SPECIES
 
 #### Status
 ACCEPTED

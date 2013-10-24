@@ -1,5 +1,4 @@
-Pertusaria montevidensis Zahlbr. SPECIES
-=======
+# Pertusaria montevidensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

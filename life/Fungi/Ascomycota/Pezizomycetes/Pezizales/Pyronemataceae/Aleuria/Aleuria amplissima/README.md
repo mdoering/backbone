@@ -1,5 +1,4 @@
-Aleuria amplissima Boud. SPECIES
-=======
+# Aleuria amplissima Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thozetella radicata (E.F. Morris) Piroz. & Hodges SPECIES
-=======
+# Thozetella radicata (E.F. Morris) Piroz. & Hodges SPECIES
 
 #### Status
 ACCEPTED

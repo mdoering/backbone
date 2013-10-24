@@ -1,5 +1,4 @@
-Sphaeria vitis-silvaticae Castagne SPECIES
-=======
+# Sphaeria vitis-silvaticae Castagne SPECIES
 
 #### Status
 ACCEPTED

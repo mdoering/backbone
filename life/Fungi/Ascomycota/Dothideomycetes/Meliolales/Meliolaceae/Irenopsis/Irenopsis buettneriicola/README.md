@@ -1,5 +1,4 @@
-Irenopsis buettneriicola Deighton SPECIES
-=======
+# Irenopsis buettneriicola Deighton SPECIES
 
 #### Status
 ACCEPTED

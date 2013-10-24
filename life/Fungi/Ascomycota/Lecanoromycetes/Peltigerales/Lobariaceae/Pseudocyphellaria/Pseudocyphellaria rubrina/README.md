@@ -1,17 +1,16 @@
-Sticta flavissima var. flavissima Müll. Arg. VARIETY
-=======
+# Pseudocyphellaria rubrina (Stirt.) D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 66: 21 (1883)
+Lichenologist 17(3): 306 (1985)
 
 #### Original name
-Sticta flavissima var. flavissima Müll. Arg.
+Parmosticta rubrina Stirt.
 
 ### Remarks
 null

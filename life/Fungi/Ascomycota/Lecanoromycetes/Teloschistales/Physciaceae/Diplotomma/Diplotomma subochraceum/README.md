@@ -1,5 +1,4 @@
-Diplotomma subochraceum (Zahlbr.) Szatala SPECIES
-=======
+# Diplotomma subochraceum (Zahlbr.) Szatala SPECIES
 
 #### Status
 ACCEPTED

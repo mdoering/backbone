@@ -1,5 +1,4 @@
-Hobsoniopsis D. Hawksw. GENUS
-=======
+# Hobsoniopsis D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

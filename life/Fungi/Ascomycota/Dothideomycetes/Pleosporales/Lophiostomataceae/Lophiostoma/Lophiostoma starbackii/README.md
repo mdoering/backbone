@@ -1,5 +1,4 @@
-Lophiostoma starbackii P. Karst. SPECIES
-=======
+# Lophiostoma starbackii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

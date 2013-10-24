@@ -1,17 +1,16 @@
-Clavaria flavella Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Multiclavula clara (Berk. & M.A. Curtis) R.H. Petersen, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 10(no. 46): 338 (1868)
+Am. Midl. Nat. 77: 217 (1967)
 
 #### Original name
-Clavaria flavella Berk. & M.A. Curtis, 1868
+Clavaria clara Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

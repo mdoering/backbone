@@ -1,14 +1,13 @@
-Aureobasidium caulivorum (Kirchn.) W.B. Cooke, 1960 SPECIES
-=======
+# Kabatiella caulivora (Kirchn.) Karak., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 52(1): 37 (1961)
+Notul. syst. Inst. cryptog. Horti bot. petropol. 2: 108 (1923)
 
 #### Original name
 Gloeosporium caulivorum Kirchn., 1902

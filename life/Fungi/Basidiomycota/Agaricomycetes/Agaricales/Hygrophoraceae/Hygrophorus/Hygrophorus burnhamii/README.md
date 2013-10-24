@@ -1,5 +1,4 @@
-Hygrophorus burnhamii Peck SPECIES
-=======
+# Hygrophorus burnhamii Peck SPECIES
 
 #### Status
 ACCEPTED

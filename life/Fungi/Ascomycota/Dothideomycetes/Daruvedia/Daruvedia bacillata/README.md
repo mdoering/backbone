@@ -1,14 +1,13 @@
-Ophioceras bacillatum (Cooke) Sacc., 1883 SPECIES
-=======
+# Daruvedia bacillata (Cooke) Dennis, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 359 (1883)
+Belarra (Bilbao) 2(no. 4): 25 (1988)
 
 #### Original name
 Sphaeria bacillata Cooke, 1871

@@ -1,5 +1,4 @@
-Teichospora melanospora (Kirschst.) Sacc. SPECIES
-=======
+# Teichospora melanospora (Kirschst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera alba Peck SPECIES
-=======
+# Galera alba Peck SPECIES
 
 #### Status
 ACCEPTED

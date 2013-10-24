@@ -1,5 +1,4 @@
-Autoicomyces crassus Speg. SPECIES
-=======
+# Autoicomyces crassus Speg. SPECIES
 
 #### Status
 ACCEPTED

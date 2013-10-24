@@ -1,5 +1,4 @@
-Didymaria platyspora (Ellis & Holw.) Ellis & Everh. SPECIES
-=======
+# Didymaria platyspora (Ellis & Holw.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

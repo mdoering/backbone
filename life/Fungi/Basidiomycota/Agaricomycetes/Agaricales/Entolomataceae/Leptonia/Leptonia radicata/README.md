@@ -1,5 +1,4 @@
-Leptonia radicata Cleland SPECIES
-=======
+# Leptonia radicata Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Gloeotulasnella cystidiocarpa L.S. Olive, 1944 SPECIES
-=======
+# Tulasnella conidiata L.S. Olive, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 60: 23 (1944)
+Mycologia 49: 675 (1957)
 
 #### Original name
-Gloeotulasnella cystidiocarpa L.S. Olive, 1944
+Tulasnella conidiata L.S. Olive, 1957
 
 ### Remarks
 null

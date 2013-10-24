@@ -1,5 +1,4 @@
-Cochleomeritus (Tugawa, 1944) GENUS
-=======
+# Cochleomeritus (Tugawa, 1944) GENUS
 
 #### Status
 ACCEPTED

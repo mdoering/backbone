@@ -1,5 +1,4 @@
-Cryptodiscus andersonii Ellis & Everh. SPECIES
-=======
+# Cryptodiscus andersonii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

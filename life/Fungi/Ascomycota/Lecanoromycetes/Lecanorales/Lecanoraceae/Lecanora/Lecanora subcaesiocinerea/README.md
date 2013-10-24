@@ -1,5 +1,4 @@
-Lecanora subcaesiocinerea Werner SPECIES
-=======
+# Lecanora subcaesiocinerea Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora fuscorufa F. Wilson ex H. Magn. SPECIES
-=======
+# Acarospora fuscorufa F. Wilson ex H. Magn. SPECIES
 
 #### Status
 ACCEPTED

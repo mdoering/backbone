@@ -1,5 +1,4 @@
-Platystomum inops (Pass.) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum inops (Pass.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

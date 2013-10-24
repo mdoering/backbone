@@ -1,17 +1,16 @@
-Baryella Rauschert GENUS
-=======
+# Neobarya Lowen GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Haussknechtia 4: 51 (1988)
+in Eriksson & Hawksworth, Syst. Ascom. 5(1): 121 (1986)
 
 #### Original name
-Baryella Rauschert
+Neobarya Lowen
 
 ### Remarks
 null

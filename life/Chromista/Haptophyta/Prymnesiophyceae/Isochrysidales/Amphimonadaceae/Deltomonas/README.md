@@ -1,5 +1,4 @@
-Deltomonas W.S. Kent, 1880 GENUS
-=======
+# Deltomonas W.S. Kent, 1880 GENUS
 
 #### Status
 ACCEPTED

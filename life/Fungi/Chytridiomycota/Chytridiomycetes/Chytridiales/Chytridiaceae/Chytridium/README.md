@@ -1,5 +1,4 @@
-Chytridium A. Braun GENUS
-=======
+# Chytridium A. Braun GENUS
 
 #### Status
 ACCEPTED

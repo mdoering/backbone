@@ -1,5 +1,4 @@
-Colletotrichum limetticolum anon. SPECIES
-=======
+# Colletotrichum limetticolum anon. SPECIES
 
 #### Status
 ACCEPTED

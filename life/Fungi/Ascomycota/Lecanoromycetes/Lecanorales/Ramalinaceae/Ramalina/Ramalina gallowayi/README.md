@@ -1,5 +1,4 @@
-Ramalina gallowayi Kashiw., T.H. Nash & K.H. Moon SPECIES
-=======
+# Ramalina gallowayi Kashiw., T.H. Nash & K.H. Moon SPECIES
 
 #### Status
 ACCEPTED

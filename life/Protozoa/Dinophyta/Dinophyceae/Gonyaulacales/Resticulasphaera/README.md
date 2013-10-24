@@ -1,5 +1,4 @@
-Resticulasphaera Harding, 1990 GENUS
-=======
+# Resticulasphaera Harding, 1990 GENUS
 
 #### Status
 ACCEPTED

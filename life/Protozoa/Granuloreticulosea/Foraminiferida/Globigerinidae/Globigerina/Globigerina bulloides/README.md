@@ -1,5 +1,4 @@
-Globigerina bulloides D'Orbigny, 1826 SPECIES
-=======
+# Globigerina bulloides D'Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

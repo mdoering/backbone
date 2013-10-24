@@ -1,5 +1,4 @@
-Cortinarius ionochlorus var. ionochlorus VARIETY
-=======
+# Cortinarius ionochlorus Maire SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius ionochlorus var. ionochlorus
+Cortinarius ionochlorus Maire
 
 ### Remarks
 null

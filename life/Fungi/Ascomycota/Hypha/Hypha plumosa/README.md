@@ -1,5 +1,4 @@
-Hypha plumosa (Humb.) Pers. SPECIES
-=======
+# Hypha plumosa (Humb.) Pers. SPECIES
 
 #### Status
 ACCEPTED

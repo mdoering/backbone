@@ -1,5 +1,4 @@
-Armillaria procera Rick SPECIES
-=======
+# Armillaria procera Rick SPECIES
 
 #### Status
 ACCEPTED

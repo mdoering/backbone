@@ -1,5 +1,4 @@
-Tricholoma consobrinum Berk. & Mont. SPECIES
-=======
+# Tricholoma consobrinum Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

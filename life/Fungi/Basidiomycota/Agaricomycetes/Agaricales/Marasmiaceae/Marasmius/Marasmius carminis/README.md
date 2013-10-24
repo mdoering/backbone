@@ -1,5 +1,4 @@
-Marasmius carminis Singer SPECIES
-=======
+# Marasmius carminis Singer SPECIES
 
 #### Status
 ACCEPTED

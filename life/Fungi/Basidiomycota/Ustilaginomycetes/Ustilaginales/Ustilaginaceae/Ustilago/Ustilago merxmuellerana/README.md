@@ -1,5 +1,4 @@
-Ustilago merxmuellerana H. Scholz SPECIES
-=======
+# Ustilago merxmuellerana H. Scholz SPECIES
 
 #### Status
 ACCEPTED

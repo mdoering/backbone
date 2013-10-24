@@ -1,5 +1,4 @@
-Sphaerobolus solen Alb. & Schwein. SPECIES
-=======
+# Sphaerobolus solen Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

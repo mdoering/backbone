@@ -1,5 +1,4 @@
-Cenangium episphaerium Schwein. SPECIES
-=======
+# Cenangium episphaerium Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina pinicola (Ach.) Zahlbr. SPECIES
-=======
+# Rinodina pinicola (Ach.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

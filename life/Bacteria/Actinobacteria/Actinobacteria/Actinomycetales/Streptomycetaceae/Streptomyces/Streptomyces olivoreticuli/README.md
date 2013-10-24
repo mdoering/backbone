@@ -1,11 +1,10 @@
-Streptoverticillium olivoreticuli (Arai et al., 1957) Baldacci et al., 1966 SPECIES
-=======
+# Streptomyces olivoreticuli (Arai et al., 1957) Witt & Stackebrandt, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

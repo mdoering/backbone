@@ -1,5 +1,4 @@
-Schiffnerula canthii Hosag. & Archana, 2009 SPECIES
-=======
+# Schiffnerula canthii Hosag. & Archana, 2009 SPECIES
 
 #### Status
 ACCEPTED

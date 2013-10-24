@@ -1,5 +1,4 @@
-Polyporus griseoalbus Peck SPECIES
-=======
+# Polyporus griseoalbus Peck SPECIES
 
 #### Status
 ACCEPTED

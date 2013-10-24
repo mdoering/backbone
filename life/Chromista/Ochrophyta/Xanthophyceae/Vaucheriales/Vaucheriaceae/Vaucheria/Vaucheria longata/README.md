@@ -1,5 +1,4 @@
-Vaucheria longata Blum SPECIES
-=======
+# Vaucheria longata Blum SPECIES
 
 #### Status
 ACCEPTED

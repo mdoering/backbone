@@ -1,5 +1,4 @@
-Estiastra avitum Loeblich & Tappan, 1978 SPECIES
-=======
+# Estiastra avitum Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

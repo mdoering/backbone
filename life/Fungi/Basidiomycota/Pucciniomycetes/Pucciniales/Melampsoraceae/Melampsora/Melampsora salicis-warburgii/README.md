@@ -1,8 +1,7 @@
-Melampsora salicis-warburgi Sawada SPECIES
-=======
+# Melampsora salicis-warburgii Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melampsora salicis-warburgi Sawada
+Melampsora salicis-warburgii Sawada
 
 ### Remarks
 null

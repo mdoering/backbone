@@ -1,5 +1,4 @@
-Mycena cooliana Oort SPECIES
-=======
+# Mycena cooliana Oort SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teratosphaeria angophorae (Andjic, Carnegie & P.A. Barber) Andjic, Carnegie & P.A. Barber, 2009 SPECIES
-=======
+# Teratosphaeria angophorae (Andjic, Carnegie & P.A. Barber) Andjic, Carnegie & P.A. Barber, 2009 SPECIES
 
 #### Status
 ACCEPTED

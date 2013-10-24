@@ -1,5 +1,4 @@
-Asteridiella sapotacearum var. sapotacearum VARIETY
-=======
+# Asteridiella sapotacearum (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 501 (1961)
 
 #### Original name
-Asteridiella sapotacearum var. sapotacearum
+Irene sapotacearum Hansf.
 
 ### Remarks
 null

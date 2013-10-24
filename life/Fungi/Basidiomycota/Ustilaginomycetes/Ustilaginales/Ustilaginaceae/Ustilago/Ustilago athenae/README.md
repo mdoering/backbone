@@ -1,5 +1,4 @@
-Ustilago athenae Maire SPECIES
-=======
+# Ustilago athenae Maire SPECIES
 
 #### Status
 ACCEPTED

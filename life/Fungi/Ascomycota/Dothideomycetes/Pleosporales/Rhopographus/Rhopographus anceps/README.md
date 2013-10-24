@@ -1,5 +1,4 @@
-Rhopographus anceps Petr. SPECIES
-=======
+# Rhopographus anceps Petr. SPECIES
 
 #### Status
 ACCEPTED

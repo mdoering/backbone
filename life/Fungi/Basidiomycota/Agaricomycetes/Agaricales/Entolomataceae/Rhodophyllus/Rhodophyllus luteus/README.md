@@ -1,5 +1,4 @@
-Rhodophyllus luteus (Peck) A.H. Sm. SPECIES
-=======
+# Rhodophyllus luteus (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thamnonoma maheui (Hue) Gyeln. SPECIES
-=======
+# Thamnonoma maheui (Hue) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

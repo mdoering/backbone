@@ -1,5 +1,4 @@
-Hendersonia loricata Sacc. & Roum. SPECIES
-=======
+# Hendersonia loricata Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe neuhoffii Bres. SPECIES
-=======
+# Inocybe neuhoffii Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holospora caryophila (ex Preer et al., 1974) Preer & Preer, 1982 SPECIES
-=======
+# Holospora caryophila (ex Preer et al., 1974) Preer & Preer, 1982 SPECIES
 
 #### Status
 ACCEPTED

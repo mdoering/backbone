@@ -1,17 +1,16 @@
-Leuco-inocybe Singer, 1943 GENUS
-=======
+# Leucoinocybe Singer GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 41(1/3): 143 (1943)
 
 #### Original name
-null
+Leucoinocybe Singer
 
 ### Remarks
 null

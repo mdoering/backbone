@@ -1,5 +1,4 @@
-Coelomomycetaceae Couch ex Couch FAMILY
-=======
+# Coelomomycetaceae Couch ex Couch FAMILY
 
 #### Status
 ACCEPTED

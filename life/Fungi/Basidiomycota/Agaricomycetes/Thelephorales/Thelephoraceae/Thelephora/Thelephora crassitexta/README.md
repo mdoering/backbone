@@ -1,5 +1,4 @@
-Thelephora crassitexta Corner, 1968 SPECIES
-=======
+# Thelephora crassitexta Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opisthonecta Fauré-Fremiet, 1906 GENUS
-=======
+# Opisthonecta Fauré-Fremiet, 1906 GENUS
 
 #### Status
 ACCEPTED

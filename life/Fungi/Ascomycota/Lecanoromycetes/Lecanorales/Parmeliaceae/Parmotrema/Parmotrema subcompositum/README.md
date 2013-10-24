@@ -1,5 +1,4 @@
-Parmotrema subcompositum Hale SPECIES
-=======
+# Parmotrema subcompositum Hale SPECIES
 
 #### Status
 ACCEPTED

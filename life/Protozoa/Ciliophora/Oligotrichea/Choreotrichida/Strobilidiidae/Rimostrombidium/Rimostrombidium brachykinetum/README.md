@@ -1,8 +1,7 @@
-Strobilidium hexakinetum Krainer, 1988 SPECIES
-=======
+# Rimostrombidium brachykinetum Krainer, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

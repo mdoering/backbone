@@ -1,5 +1,4 @@
-Anisomeridium concameratum (Stirt.) Aptroot SPECIES
-=======
+# Anisomeridium concameratum (Stirt.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

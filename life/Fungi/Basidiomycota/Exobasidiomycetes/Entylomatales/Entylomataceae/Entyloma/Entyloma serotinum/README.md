@@ -1,14 +1,13 @@
-Entyloma fergussonii var. serotinum (J. Schröt.) Cif., 1963 VARIETY
-=======
+# Entyloma serotinum J. Schröt., 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Quaderno Ist. Bot. Univ. Pavia 27: 114 (1963)
+in Cohn, Beitr. 2: 437 (1876)
 
 #### Original name
 Entyloma serotinum J. Schröt., 1876

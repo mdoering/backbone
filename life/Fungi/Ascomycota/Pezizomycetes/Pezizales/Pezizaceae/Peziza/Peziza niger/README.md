@@ -1,5 +1,4 @@
-Peziza niger Sowerby SPECIES
-=======
+# Peziza niger Sowerby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaceloma peucedani Kuros. {?} & Katsuki SPECIES
-=======
+# Sphaceloma peucedani Kuros. {?} & Katsuki SPECIES
 
 #### Status
 ACCEPTED

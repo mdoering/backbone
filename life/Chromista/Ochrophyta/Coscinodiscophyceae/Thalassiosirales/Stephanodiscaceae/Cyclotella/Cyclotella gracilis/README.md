@@ -1,5 +1,4 @@
-Cyclotella gracilis T. A. Nikiteeva & Y. V. Likhoshway SPECIES
-=======
+# Cyclotella gracilis T. A. Nikiteeva & Y. V. Likhoshway SPECIES
 
 #### Status
 ACCEPTED

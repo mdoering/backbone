@@ -1,5 +1,4 @@
-Catacauma strychni Syd., 1925 SPECIES
-=======
+# Catacauma strychni Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

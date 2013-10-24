@@ -1,5 +1,4 @@
-Coscinodiscus argus Ehrenberg, 1839 SPECIES
-=======
+# Coscinodiscus argus Ehrenberg, 1839 SPECIES
 
 #### Status
 ACCEPTED

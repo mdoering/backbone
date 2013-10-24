@@ -1,5 +1,4 @@
-Vermicularia sparsipila Ellis & Kellerm. SPECIES
-=======
+# Vermicularia sparsipila Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida lipophila Lachance, C.A. Rosa, Starmer, Schlag-Edl., J.S.F. Barker & J.M. Bowles SPECIES
-=======
+# Candida lipophila Lachance, C.A. Rosa, Starmer, Schlag-Edl., J.S.F. Barker & J.M. Bowles SPECIES
 
 #### Status
 ACCEPTED

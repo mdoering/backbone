@@ -1,5 +1,4 @@
-Entyloma borraginis Cif. SPECIES
-=======
+# Entyloma borraginis Cif. SPECIES
 
 #### Status
 ACCEPTED

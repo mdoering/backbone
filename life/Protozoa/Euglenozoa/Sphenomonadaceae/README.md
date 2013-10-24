@@ -1,5 +1,4 @@
-Sphenomonadaceae Kent, 1881 FAMILY
-=======
+# Sphenomonadaceae Kent, 1881 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius capillosus Rob. Henry SPECIES
-=======
+# Cortinarius capillosus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

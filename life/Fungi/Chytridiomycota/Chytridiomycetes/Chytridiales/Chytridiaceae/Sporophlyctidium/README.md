@@ -1,5 +1,4 @@
-Sporophlyctidium Sparrow GENUS
-=======
+# Sporophlyctidium Sparrow GENUS
 
 #### Status
 ACCEPTED

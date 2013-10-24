@@ -1,17 +1,16 @@
-Phyllachora calamagrostidis Sawada, 1952 SPECIES
-=======
+# Phyllachora ammophilae Orton, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Govt Forest Exp. Stn Meguro 53: 159 (1952)
+Mycologia 36(1): 39 (1944)
 
 #### Original name
-Phyllachora calamagrostidis Sawada, 1952
+Phyllachora ammophilae Orton, 1944
 
 ### Remarks
 null

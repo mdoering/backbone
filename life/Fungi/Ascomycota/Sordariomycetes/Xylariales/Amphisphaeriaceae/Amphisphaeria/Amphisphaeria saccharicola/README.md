@@ -1,5 +1,4 @@
-Amphisphaeria saccharicola Sivan. SPECIES
-=======
+# Amphisphaeria saccharicola Sivan. SPECIES
 
 #### Status
 ACCEPTED

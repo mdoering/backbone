@@ -1,5 +1,4 @@
-Dicaeoma thunbergiae-alatae (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma thunbergiae-alatae (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geissodea parietina (L.) J. St.-Hill. SPECIES
-=======
+# Geissodea parietina (L.) J. St.-Hill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elina N.J. Artemczuk, 1972 GENUS
-=======
+# Elina N.J. Artemczuk, 1972 GENUS
 
 #### Status
 ACCEPTED

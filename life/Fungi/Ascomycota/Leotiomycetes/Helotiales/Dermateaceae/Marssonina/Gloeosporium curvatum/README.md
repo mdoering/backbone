@@ -1,5 +1,4 @@
-Gloeosporium curvatum Oudem. SPECIES
-=======
+# Gloeosporium curvatum Oudem. SPECIES
 
 #### Status
 ACCEPTED

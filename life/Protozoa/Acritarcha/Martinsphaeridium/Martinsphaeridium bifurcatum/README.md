@@ -1,5 +1,4 @@
-Martinsphaeridium bifurcatum Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Martinsphaeridium bifurcatum Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

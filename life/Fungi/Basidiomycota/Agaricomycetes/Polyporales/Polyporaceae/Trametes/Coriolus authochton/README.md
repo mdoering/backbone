@@ -1,5 +1,4 @@
-Coriolus authochton (Mont.) Pat. SPECIES
-=======
+# Coriolus authochton (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

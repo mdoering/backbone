@@ -1,5 +1,4 @@
-Peridinium catenatum SPECIES
-=======
+# Peridinium catenatum SPECIES
 
 #### Status
 ACCEPTED

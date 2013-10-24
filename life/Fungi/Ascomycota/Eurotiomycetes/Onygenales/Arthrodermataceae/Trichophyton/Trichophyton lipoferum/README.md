@@ -1,5 +1,4 @@
-Trichophyton lipoferum Komin. SPECIES
-=======
+# Trichophyton lipoferum Komin. SPECIES
 
 #### Status
 ACCEPTED

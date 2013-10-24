@@ -1,5 +1,4 @@
-Pocillaria strigella (Berk.) Kuntze SPECIES
-=======
+# Pocillaria strigella (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

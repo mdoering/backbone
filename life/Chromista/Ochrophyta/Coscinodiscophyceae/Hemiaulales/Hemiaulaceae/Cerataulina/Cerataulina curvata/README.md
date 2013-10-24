@@ -1,5 +1,4 @@
-Cerataulina curvata Wood SPECIES
-=======
+# Cerataulina curvata Wood SPECIES
 
 #### Status
 ACCEPTED

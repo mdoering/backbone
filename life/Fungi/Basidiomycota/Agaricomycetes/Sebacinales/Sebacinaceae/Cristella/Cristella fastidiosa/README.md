@@ -1,5 +1,4 @@
-Cristella fastidiosa (Pers.) S. Lundell SPECIES
-=======
+# Cristella fastidiosa (Pers.) S. Lundell SPECIES
 
 #### Status
 ACCEPTED

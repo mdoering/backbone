@@ -1,5 +1,4 @@
-Bandia Cameron & O'Donoghue, 2002 GENUS
-=======
+# Bandia Cameron & O'Donoghue, 2002 GENUS
 
 #### Status
 ACCEPTED

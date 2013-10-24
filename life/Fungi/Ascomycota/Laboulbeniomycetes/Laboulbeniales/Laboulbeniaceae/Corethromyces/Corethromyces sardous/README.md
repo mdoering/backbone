@@ -1,5 +1,4 @@
-Corethromyces sardous W. Rossi & Cesari SPECIES
-=======
+# Corethromyces sardous W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

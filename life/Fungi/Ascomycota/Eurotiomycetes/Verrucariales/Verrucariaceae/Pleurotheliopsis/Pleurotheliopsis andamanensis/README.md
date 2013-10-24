@@ -1,5 +1,4 @@
-Pleurotheliopsis andamanensis Ajay Singh & Upreti SPECIES
-=======
+# Pleurotheliopsis andamanensis Ajay Singh & Upreti SPECIES
 
 #### Status
 ACCEPTED

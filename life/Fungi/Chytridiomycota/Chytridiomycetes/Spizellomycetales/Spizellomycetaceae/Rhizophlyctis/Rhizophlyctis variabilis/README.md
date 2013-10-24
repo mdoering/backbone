@@ -1,17 +1,16 @@
-Rhizophlyctis variabilis var. variabilis Karling VARIETY
-=======
+# Rhizophlyctis variabilis Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Sydowia 20: 104 (1968)
 
 #### Original name
-Rhizophlyctis variabilis var. variabilis Karling
+Rhizophlyctis variabilis Karling, 1968
 
 ### Remarks
 null

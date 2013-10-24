@@ -1,14 +1,13 @@
-Nectria flocculenta (Henn. & E. Nyman) Höhn., 1912 SPECIES
-=======
+# Lanatonectria flocculenta (Henn. & E. Nyman) Samuels & Rossman, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 121: 360 (1912)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 138 (1999)
 
 #### Original name
 Nectriella flocculenta Henn. & E. Nyman, 1900

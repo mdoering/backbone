@@ -1,5 +1,4 @@
-Harposporium diceraeum Drechsler SPECIES
-=======
+# Harposporium diceraeum Drechsler SPECIES
 
 #### Status
 ACCEPTED

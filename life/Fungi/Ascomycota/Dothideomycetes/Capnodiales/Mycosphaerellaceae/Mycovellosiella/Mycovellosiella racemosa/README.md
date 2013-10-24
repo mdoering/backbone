@@ -1,5 +1,4 @@
-Mycovellosiella racemosa (Ellis & G. Martin) Deighton SPECIES
-=======
+# Mycovellosiella racemosa (Ellis & G. Martin) Deighton SPECIES
 
 #### Status
 ACCEPTED

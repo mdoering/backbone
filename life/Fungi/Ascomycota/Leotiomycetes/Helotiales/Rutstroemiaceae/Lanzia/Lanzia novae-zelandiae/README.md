@@ -1,14 +1,13 @@
-Lanzia novae-zealandiae (Dennis) J.A. Simpson & Grgur. SPECIES
-=======
+# Lanzia novae-zelandiae (Dennis) J.A. Simpson & Grgur., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Australas. Mycol. 22(1): 14 (2003)
 
 #### Original name
 Helotium novae-zelandiae Dennis, 1961

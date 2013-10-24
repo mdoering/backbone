@@ -1,5 +1,4 @@
-Lachnella pinicola W.B. Cooke SPECIES
-=======
+# Lachnella pinicola W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium carpinicola Sacc. & P. Syd. SPECIES
-=======
+# Leptothyrium carpinicola Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

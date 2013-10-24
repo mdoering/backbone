@@ -1,5 +1,4 @@
-Colpoda ovinucleata Foissner, 1980 SPECIES
-=======
+# Colpoda ovinucleata Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

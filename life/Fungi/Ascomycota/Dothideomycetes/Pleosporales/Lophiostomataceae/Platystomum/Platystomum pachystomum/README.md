@@ -1,5 +1,4 @@
-Platystomum pachystomum (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum pachystomum (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

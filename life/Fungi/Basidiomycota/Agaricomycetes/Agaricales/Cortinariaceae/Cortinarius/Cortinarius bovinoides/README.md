@@ -1,5 +1,4 @@
-Cortinarius bovinoides M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius bovinoides M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

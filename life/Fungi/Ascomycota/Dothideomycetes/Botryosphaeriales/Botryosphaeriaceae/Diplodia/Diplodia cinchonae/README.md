@@ -1,5 +1,4 @@
-Diplodia cinchonae Koord. SPECIES
-=======
+# Diplodia cinchonae Koord. SPECIES
 
 #### Status
 ACCEPTED

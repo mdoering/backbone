@@ -1,5 +1,4 @@
-Psilocybe herrerae Guzmán SPECIES
-=======
+# Psilocybe herrerae Guzmán SPECIES
 
 #### Status
 ACCEPTED

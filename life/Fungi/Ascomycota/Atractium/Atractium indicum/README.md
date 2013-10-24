@@ -1,5 +1,4 @@
-Atractium indicum Chona & Munjal SPECIES
-=======
+# Atractium indicum Chona & Munjal SPECIES
 
 #### Status
 ACCEPTED

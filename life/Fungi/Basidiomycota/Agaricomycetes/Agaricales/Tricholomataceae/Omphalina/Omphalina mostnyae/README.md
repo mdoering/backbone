@@ -1,5 +1,4 @@
-Omphalina mostnyae Singer SPECIES
-=======
+# Omphalina mostnyae Singer SPECIES
 
 #### Status
 ACCEPTED

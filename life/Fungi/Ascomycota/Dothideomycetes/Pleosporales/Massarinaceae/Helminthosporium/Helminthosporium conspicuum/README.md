@@ -1,5 +1,4 @@
-Helminthosporium conspicuum McAlpine SPECIES
-=======
+# Helminthosporium conspicuum McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synechocystis consortia Norris SPECIES
-=======
+# Synechocystis consortia Norris SPECIES
 
 #### Status
 ACCEPTED

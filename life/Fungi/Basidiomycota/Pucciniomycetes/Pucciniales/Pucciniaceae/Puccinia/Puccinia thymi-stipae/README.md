@@ -1,5 +1,4 @@
-Puccinia thymi-stipae (Opiz) Sacc. SPECIES
-=======
+# Puccinia thymi-stipae (Opiz) Sacc. SPECIES
 
 #### Status
 ACCEPTED

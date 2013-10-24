@@ -1,5 +1,4 @@
-Cymatoderma hainanense Z.T. Guo, 1986 SPECIES
-=======
+# Cymatoderma hainanense Z.T. Guo, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Yenia tourneuxii (A.A. Fisch. Waldh.) Liou, 1949 SPECIES
-=======
+# Antherospora tourneuxii (A.A. Fisch. Waldh.) R. Bauer, M. Lutz, Begerow, Piatek & Vánky, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,17 +1,16 @@
-Arthopyrenia knightii Walt. Watson SPECIES
-=======
+# Arthopyrenia socialis Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-J. Bot. 70: 100 (1932)
+Parerga lichenol. (Breslau) 388 (1865)
 
 #### Original name
-Arthopyrenia knightii Walt. Watson
+Arthopyrenia socialis Körb.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amphisphaeria pachnea (Körb.) Rehm SPECIES
-=======
+# Amphisphaeria pachnea (Körb.) Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus cuneiformis Pat. SPECIES
-=======
+# Crepidotus cuneiformis Pat. SPECIES
 
 #### Status
 ACCEPTED

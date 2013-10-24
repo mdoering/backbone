@@ -1,5 +1,4 @@
-Carchesium limeticum SPECIES
-=======
+# Carchesium limeticum SPECIES
 
 #### Status
 ACCEPTED

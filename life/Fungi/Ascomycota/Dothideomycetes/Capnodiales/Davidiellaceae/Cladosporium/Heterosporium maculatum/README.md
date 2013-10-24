@@ -1,5 +1,4 @@
-Heterosporium maculatum Klotzsch SPECIES
-=======
+# Heterosporium maculatum Klotzsch SPECIES
 
 #### Status
 ACCEPTED

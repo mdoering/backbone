@@ -1,5 +1,4 @@
-Polystictus corylicola Lázaro Ibiza SPECIES
-=======
+# Polystictus corylicola Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

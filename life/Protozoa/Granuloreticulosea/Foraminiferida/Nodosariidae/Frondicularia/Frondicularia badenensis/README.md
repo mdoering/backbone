@@ -1,5 +1,4 @@
-Frondicularia badenensis Karrer SPECIES
-=======
+# Frondicularia badenensis Karrer SPECIES
 
 #### Status
 ACCEPTED

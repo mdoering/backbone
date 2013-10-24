@@ -1,5 +1,4 @@
-Telamonia inocyboides Velen. SPECIES
-=======
+# Telamonia inocyboides Velen. SPECIES
 
 #### Status
 ACCEPTED

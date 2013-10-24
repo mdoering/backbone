@@ -1,5 +1,4 @@
-Schizochytriodinium M.Elbrächter, 1988 GENUS
-=======
+# Schizochytriodinium M.Elbrächter, 1988 GENUS
 
 #### Status
 ACCEPTED

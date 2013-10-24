@@ -1,5 +1,4 @@
-Uromyces camphorosmae (Castagne) Har. SPECIES
-=======
+# Uromyces camphorosmae (Castagne) Har. SPECIES
 
 #### Status
 ACCEPTED

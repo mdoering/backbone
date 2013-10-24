@@ -1,5 +1,4 @@
-Saccharomyces psoriasis (Rivolta) Catt. SPECIES
-=======
+# Saccharomyces psoriasis (Rivolta) Catt. SPECIES
 
 #### Status
 ACCEPTED

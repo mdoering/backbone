@@ -1,5 +1,4 @@
-Lepiota rubrotincta Peck SPECIES
-=======
+# Lepiota rubrotincta Peck SPECIES
 
 #### Status
 ACCEPTED

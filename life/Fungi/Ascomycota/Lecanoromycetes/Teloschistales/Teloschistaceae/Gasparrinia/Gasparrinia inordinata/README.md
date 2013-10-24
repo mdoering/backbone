@@ -1,5 +1,4 @@
-Gasparrinia inordinata (Hue) C.W. Dodge & G.E. Baker SPECIES
-=======
+# Gasparrinia inordinata (Hue) C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

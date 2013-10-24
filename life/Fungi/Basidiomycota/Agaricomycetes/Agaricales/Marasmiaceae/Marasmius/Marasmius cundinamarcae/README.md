@@ -1,5 +1,4 @@
-Marasmius cundinamarcae Singer SPECIES
-=======
+# Marasmius cundinamarcae Singer SPECIES
 
 #### Status
 ACCEPTED

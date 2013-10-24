@@ -1,5 +1,4 @@
-Laboulbenia sordida Thaxt. SPECIES
-=======
+# Laboulbenia sordida Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marinitoga camini Wery et al., 2001 SPECIES
-=======
+# Marinitoga camini Wery et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

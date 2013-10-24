@@ -1,5 +1,4 @@
-Pseudoplectania vogesiaca Seaver, 1928 SPECIES
-=======
+# Pseudoplectania vogesiaca Seaver, 1928 SPECIES
 
 #### Status
 ACCEPTED

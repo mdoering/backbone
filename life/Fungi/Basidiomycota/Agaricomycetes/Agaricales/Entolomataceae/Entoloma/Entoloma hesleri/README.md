@@ -1,5 +1,4 @@
-Entoloma hesleri Morgan-Jones SPECIES
-=======
+# Entoloma hesleri Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

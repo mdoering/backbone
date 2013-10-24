@@ -1,5 +1,4 @@
-Gloeocapsaceae FAMILY
-=======
+# Gloeocapsaceae FAMILY
 
 #### Status
 ACCEPTED

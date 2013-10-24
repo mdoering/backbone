@@ -1,5 +1,4 @@
-Puccinia opipara Cummins SPECIES
-=======
+# Puccinia opipara Cummins SPECIES
 
 #### Status
 ACCEPTED

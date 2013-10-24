@@ -1,5 +1,4 @@
-Sargassum gracillimum Reinbold SPECIES
-=======
+# Sargassum gracillimum Reinbold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma seposita Sacc. SPECIES
-=======
+# Phoma seposita Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria praetervisa var. praetervisa VARIETY
-=======
+# Pertusaria praetervisa Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria praetervisa var. praetervisa
+Pertusaria praetervisa Vain.
 
 ### Remarks
 null

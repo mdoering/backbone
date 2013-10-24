@@ -1,5 +1,4 @@
-Hypocopra jowana Ellis & Holw. SPECIES
-=======
+# Hypocopra jowana Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

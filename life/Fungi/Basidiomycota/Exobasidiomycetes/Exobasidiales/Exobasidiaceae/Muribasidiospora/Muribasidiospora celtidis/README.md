@@ -1,14 +1,13 @@
-Exobasidium celtidis T.S. Ramakr. & K. Ramakr., 1949 SPECIES
-=======
+# Muribasidiospora celtidis (T.S. Ramakr. & K. Ramakr.) Kamat & Rajendren, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rajendren, Mycopath. Mycol. appl. 36: 222 (1968)
 
 #### Original name
 Exobasidium celtidis T.S. Ramakr. & K. Ramakr., 1949

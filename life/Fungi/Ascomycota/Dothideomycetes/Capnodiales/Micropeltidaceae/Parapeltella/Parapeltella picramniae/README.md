@@ -1,5 +1,4 @@
-Parapeltella picramniae (Bat. & Gayão) Bat. SPECIES
-=======
+# Parapeltella picramniae (Bat. & Gayão) Bat. SPECIES
 
 #### Status
 ACCEPTED

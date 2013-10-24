@@ -1,5 +1,4 @@
-Fusarium magnusianum Allesch. SPECIES
-=======
+# Fusarium magnusianum Allesch. SPECIES
 
 #### Status
 ACCEPTED

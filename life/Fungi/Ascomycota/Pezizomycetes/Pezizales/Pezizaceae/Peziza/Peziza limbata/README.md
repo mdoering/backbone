@@ -1,5 +1,4 @@
-Peziza limbata Wallr. SPECIES
-=======
+# Peziza limbata Wallr. SPECIES
 
 #### Status
 ACCEPTED

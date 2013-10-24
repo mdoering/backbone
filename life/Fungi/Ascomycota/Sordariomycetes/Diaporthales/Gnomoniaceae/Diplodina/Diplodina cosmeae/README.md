@@ -1,5 +1,4 @@
-Diplodina cosmeae Dominik & Kossob. SPECIES
-=======
+# Diplodina cosmeae Dominik & Kossob. SPECIES
 
 #### Status
 ACCEPTED

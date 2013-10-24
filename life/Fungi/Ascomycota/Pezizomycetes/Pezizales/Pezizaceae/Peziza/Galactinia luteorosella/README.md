@@ -1,5 +1,4 @@
-Galactinia luteorosella Le Gal SPECIES
-=======
+# Galactinia luteorosella Le Gal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectocarpus congregatus Zanardini SPECIES
-=======
+# Ectocarpus congregatus Zanardini SPECIES
 
 #### Status
 ACCEPTED

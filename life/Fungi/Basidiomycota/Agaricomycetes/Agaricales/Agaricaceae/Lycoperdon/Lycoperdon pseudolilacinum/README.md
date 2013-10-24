@@ -1,5 +1,4 @@
-Lycoperdon pseudolilacinum Speg. SPECIES
-=======
+# Lycoperdon pseudolilacinum Speg. SPECIES
 
 #### Status
 ACCEPTED

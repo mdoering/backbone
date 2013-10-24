@@ -1,5 +1,4 @@
-Penicillium juglandis Weid. SPECIES
-=======
+# Penicillium juglandis Weid. SPECIES
 
 #### Status
 ACCEPTED

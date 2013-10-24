@@ -1,5 +1,4 @@
-Corynespora inornata (S.C. Jong & E.F. Morris) Deighton SPECIES
-=======
+# Corynespora inornata (S.C. Jong & E.F. Morris) Deighton SPECIES
 
 #### Status
 ACCEPTED

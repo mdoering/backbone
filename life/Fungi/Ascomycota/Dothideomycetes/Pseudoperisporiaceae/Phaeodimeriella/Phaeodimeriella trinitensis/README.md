@@ -1,5 +1,4 @@
-Phaeodimeriella trinitensis R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Phaeodimeriella trinitensis R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

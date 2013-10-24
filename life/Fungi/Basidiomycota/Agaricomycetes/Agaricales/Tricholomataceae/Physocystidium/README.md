@@ -1,5 +1,4 @@
-Physocystidium Singer GENUS
-=======
+# Physocystidium Singer GENUS
 
 #### Status
 ACCEPTED

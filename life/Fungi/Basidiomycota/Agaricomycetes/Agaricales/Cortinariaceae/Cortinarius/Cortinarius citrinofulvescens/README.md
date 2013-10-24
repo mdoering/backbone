@@ -1,5 +1,4 @@
-Cortinarius citrinofulvescens M.M. Moser SPECIES
-=======
+# Cortinarius citrinofulvescens M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

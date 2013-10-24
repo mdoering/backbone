@@ -1,5 +1,4 @@
-Biatora brunnea Anzi SPECIES
-=======
+# Biatora brunnea Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora amplispora Ellis & Everh. SPECIES
-=======
+# Pleospora amplispora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

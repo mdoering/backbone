@@ -1,5 +1,4 @@
-Trichosporon beijingense X.H. Lu & M.X. Li SPECIES
-=======
+# Trichosporon beijingense X.H. Lu & M.X. Li SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiniferomonas septispina K. H. Nicholls SPECIES
-=======
+# Spiniferomonas septispina K. H. Nicholls SPECIES
 
 #### Status
 ACCEPTED

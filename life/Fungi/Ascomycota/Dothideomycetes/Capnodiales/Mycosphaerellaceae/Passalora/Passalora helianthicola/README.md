@@ -1,5 +1,4 @@
-Passalora helianthicola U. Braun & Crous SPECIES
-=======
+# Passalora helianthicola U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

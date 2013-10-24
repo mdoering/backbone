@@ -1,5 +1,4 @@
-Clavaria filiola Corner, 1950 SPECIES
-=======
+# Clavaria filiola Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

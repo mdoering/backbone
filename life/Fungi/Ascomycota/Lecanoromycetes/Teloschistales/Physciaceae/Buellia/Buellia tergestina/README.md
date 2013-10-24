@@ -1,5 +1,4 @@
-Buellia tergestina J. Steiner & Zahlbr. SPECIES
-=======
+# Buellia tergestina J. Steiner & Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

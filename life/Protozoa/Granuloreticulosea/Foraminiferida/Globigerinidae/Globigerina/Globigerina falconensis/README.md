@@ -1,5 +1,4 @@
-Globigerina falconensis Blow, 1959 SPECIES
-=======
+# Globigerina falconensis Blow, 1959 SPECIES
 
 #### Status
 ACCEPTED

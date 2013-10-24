@@ -1,5 +1,4 @@
-Stomiopeltopsis nolinae A.W. Ramaley, 2002 SPECIES
-=======
+# Stomiopeltopsis nolinae A.W. Ramaley, 2002 SPECIES
 
 #### Status
 ACCEPTED

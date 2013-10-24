@@ -1,5 +1,4 @@
-Coriolus sprucei (Berk.) G. Cunn. SPECIES
-=======
+# Coriolus sprucei (Berk.) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

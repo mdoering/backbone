@@ -1,5 +1,4 @@
-Rhytismites aceris (Ettingsh.) Mesch. SPECIES
-=======
+# Rhytismites aceris (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

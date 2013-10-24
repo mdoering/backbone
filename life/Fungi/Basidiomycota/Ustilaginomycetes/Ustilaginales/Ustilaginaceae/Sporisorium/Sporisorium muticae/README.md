@@ -1,5 +1,4 @@
-Sporisorium muticae Vánky & A.R. Patil SPECIES
-=======
+# Sporisorium muticae Vánky & A.R. Patil SPECIES
 
 #### Status
 ACCEPTED

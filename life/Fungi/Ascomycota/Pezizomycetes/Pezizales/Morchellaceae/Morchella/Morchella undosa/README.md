@@ -1,5 +1,4 @@
-Morchella undosa (Batsch) Pers. SPECIES
-=======
+# Morchella undosa (Batsch) Pers. SPECIES
 
 #### Status
 ACCEPTED

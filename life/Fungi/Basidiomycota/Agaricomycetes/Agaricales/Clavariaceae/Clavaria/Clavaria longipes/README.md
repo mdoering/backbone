@@ -1,5 +1,4 @@
-Clavaria longipes P. Karst. SPECIES
-=======
+# Clavaria longipes P. Karst. SPECIES
 
 #### Status
 ACCEPTED

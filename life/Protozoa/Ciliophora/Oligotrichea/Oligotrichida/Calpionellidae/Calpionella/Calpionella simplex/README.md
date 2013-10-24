@@ -1,5 +1,4 @@
-Calpionella simplex SPECIES
-=======
+# Calpionella simplex SPECIES
 
 #### Status
 ACCEPTED

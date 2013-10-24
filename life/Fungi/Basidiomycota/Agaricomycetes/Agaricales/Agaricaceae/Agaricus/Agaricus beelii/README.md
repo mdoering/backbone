@@ -1,5 +1,4 @@
-Agaricus beelii Heinem. SPECIES
-=======
+# Agaricus beelii Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsaria phoradendri (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
-=======
+# Valsaria phoradendri (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

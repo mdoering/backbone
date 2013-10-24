@@ -1,5 +1,4 @@
-Cyathodiseophrya Yankovskii, 1978 GENUS
-=======
+# Cyathodiseophrya Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

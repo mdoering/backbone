@@ -1,17 +1,16 @@
-Parmelia mougeotii f. mougeotii FORM
-=======
+# Xanthoparmelia mougeotii (Schaer. ex D. Dietr.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Dietrich, Deutschl. Kryptog. Gewäsche, 4 Abth. 118 (1846)
+Phytologia 28: 488 (1974)
 
 #### Original name
-Parmelia mougeotii f. mougeotii
+Parmelia mougeotii Schaer. ex D. Dietr.
 
 ### Remarks
 null

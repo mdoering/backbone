@@ -1,14 +1,13 @@
-Erysiphe cichoracearum var. magnicellulata (U. Braun) U. Braun, 1981 VARIETY
-=======
+# Erysiphe magnicellulata U. Braun, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 34(3 & 4): 695 (1981)
+Feddes Repert. 88(9-10): 656 (1978)
 
 #### Original name
 Erysiphe magnicellulata U. Braun, 1978

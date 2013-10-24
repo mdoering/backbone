@@ -1,5 +1,4 @@
-Lachnum cyanoparaphysatum Raitv. & R. Galán SPECIES
-=======
+# Lachnum cyanoparaphysatum Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

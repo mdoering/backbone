@@ -1,5 +1,4 @@
-Hypholoma vinosum Kauffman SPECIES
-=======
+# Hypholoma vinosum Kauffman SPECIES
 
 #### Status
 ACCEPTED

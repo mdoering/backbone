@@ -1,5 +1,4 @@
-Puccinia exaltata Syd. SPECIES
-=======
+# Puccinia exaltata Syd. SPECIES
 
 #### Status
 ACCEPTED

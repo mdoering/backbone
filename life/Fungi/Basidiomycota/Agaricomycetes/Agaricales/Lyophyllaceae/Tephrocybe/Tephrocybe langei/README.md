@@ -1,17 +1,16 @@
-Clitocybe langei subsp. langei Singer ex Hora SUBSPECIES
-=======
+# Tephrocybe langei (Singer ex Hora) Raithelh., 1992 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43: 441 (1960)
+Metrodiana 19(2): 57 (1992)
 
 #### Original name
-Clitocybe langei subsp. langei Singer ex Hora
+Clitocybe langei Singer ex Hora, 1960
 
 ### Remarks
 null

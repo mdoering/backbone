@@ -1,5 +1,4 @@
-Schiffnerula tectonae (Thite & C.R. Patil) Hosag. SPECIES
-=======
+# Schiffnerula tectonae (Thite & C.R. Patil) Hosag. SPECIES
 
 #### Status
 ACCEPTED

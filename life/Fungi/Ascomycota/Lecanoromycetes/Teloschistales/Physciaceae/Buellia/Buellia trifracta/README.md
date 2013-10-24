@@ -1,5 +1,4 @@
-Buellia trifracta J. Steiner SPECIES
-=======
+# Buellia trifracta J. Steiner SPECIES
 
 #### Status
 ACCEPTED

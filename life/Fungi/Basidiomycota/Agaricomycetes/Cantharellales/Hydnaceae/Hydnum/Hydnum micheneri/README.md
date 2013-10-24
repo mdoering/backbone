@@ -1,5 +1,4 @@
-Hydnum micheneri Berk. SPECIES
-=======
+# Hydnum micheneri Berk. SPECIES
 
 #### Status
 ACCEPTED

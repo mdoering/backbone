@@ -1,5 +1,4 @@
-Septobasidium obscurum Boedijn & B.A. Steinm. SPECIES
-=======
+# Septobasidium obscurum Boedijn & B.A. Steinm. SPECIES
 
 #### Status
 ACCEPTED

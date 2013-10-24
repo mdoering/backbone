@@ -1,17 +1,16 @@
-Phyllotremella africanus Lloyd SPECIES
-=======
+# Phyllotremella africana Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 6: (1920)
 
 #### Original name
-Phyllotremella africanus Lloyd
+Phyllotremella africana Lloyd
 
 ### Remarks
 null

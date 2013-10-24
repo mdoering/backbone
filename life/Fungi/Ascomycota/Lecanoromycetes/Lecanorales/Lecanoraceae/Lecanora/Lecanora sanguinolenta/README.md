@@ -1,5 +1,4 @@
-Lecanora sanguinolenta Anders SPECIES
-=======
+# Lecanora sanguinolenta Anders SPECIES
 
 #### Status
 ACCEPTED

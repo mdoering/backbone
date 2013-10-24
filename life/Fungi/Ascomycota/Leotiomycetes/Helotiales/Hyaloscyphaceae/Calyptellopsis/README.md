@@ -1,5 +1,4 @@
-Calyptellopsis Svrcek GENUS
-=======
+# Calyptellopsis Svrcek GENUS
 
 #### Status
 ACCEPTED

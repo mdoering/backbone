@@ -1,5 +1,4 @@
-Septoria celtidis Sacc. SPECIES
-=======
+# Septoria celtidis Sacc. SPECIES
 
 #### Status
 ACCEPTED

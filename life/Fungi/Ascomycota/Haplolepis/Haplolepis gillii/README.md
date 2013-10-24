@@ -1,5 +1,4 @@
-Haplolepis gillii Petr. SPECIES
-=======
+# Haplolepis gillii Petr. SPECIES
 
 #### Status
 ACCEPTED

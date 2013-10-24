@@ -1,5 +1,4 @@
-Sphaeria constipata Mont. SPECIES
-=======
+# Sphaeria constipata Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium cycadis Pass. SPECIES
-=======
+# Leptothyrium cycadis Pass. SPECIES
 
 #### Status
 ACCEPTED

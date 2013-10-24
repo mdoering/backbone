@@ -1,5 +1,4 @@
-Arthrobotrys bakunika Mekht. SPECIES
-=======
+# Arthrobotrys bakunika Mekht. SPECIES
 
 #### Status
 ACCEPTED

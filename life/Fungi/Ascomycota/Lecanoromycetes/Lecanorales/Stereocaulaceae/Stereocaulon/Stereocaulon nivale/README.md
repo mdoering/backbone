@@ -1,5 +1,4 @@
-Stereocaulon nivale (Follmann) Fryday SPECIES
-=======
+# Stereocaulon nivale (Follmann) Fryday SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma nervisequa (Cooke) Sacc. SPECIES
-=======
+# Phoma nervisequa (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

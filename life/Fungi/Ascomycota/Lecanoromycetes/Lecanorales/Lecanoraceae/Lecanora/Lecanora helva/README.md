@@ -1,17 +1,16 @@
-Lecanora alligata Stirt. SPECIES
-=======
+# Lecanora helva Stizenb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bailey, Queensland Agric. J. 5: 38 (1899)
+Ber. Tät. St Gall. naturw. Ges. 218 (1890)
 
 #### Original name
-Lecanora alligata Stirt.
+Lecanora helva Stizenb.
 
 ### Remarks
 null

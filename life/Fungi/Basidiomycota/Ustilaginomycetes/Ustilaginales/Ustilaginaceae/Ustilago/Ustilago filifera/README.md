@@ -1,5 +1,4 @@
-Ustilago filifera Norton SPECIES
-=======
+# Ustilago filifera Norton SPECIES
 
 #### Status
 ACCEPTED

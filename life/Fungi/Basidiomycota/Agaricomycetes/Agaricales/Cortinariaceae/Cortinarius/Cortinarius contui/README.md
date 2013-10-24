@@ -1,5 +1,4 @@
-Cortinarius contui Rob. Henry & Contu SPECIES
-=======
+# Cortinarius contui Rob. Henry & Contu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pluteus glyphidatus (Berk. & Broome) Sacc. SPECIES
-=======
+# Pluteus glyphidiatus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 673 (1887)
 
 #### Original name
 Agaricus glyphidiatus Berk. & Broome

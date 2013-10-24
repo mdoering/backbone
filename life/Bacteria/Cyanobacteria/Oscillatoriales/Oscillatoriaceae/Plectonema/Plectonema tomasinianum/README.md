@@ -1,5 +1,4 @@
-Plectonema tomasinianum var. gracile Hansgirg VARIETY
-=======
+# Plectonema tomasinianum (Kützing) Bornet & Flahault (Gomont) SPECIES
 
 #### Status
 ACCEPTED

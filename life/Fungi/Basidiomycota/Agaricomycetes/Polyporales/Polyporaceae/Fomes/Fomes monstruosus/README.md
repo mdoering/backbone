@@ -1,5 +1,4 @@
-Fomes monstruosus Fr. SPECIES
-=======
+# Fomes monstruosus Fr. SPECIES
 
 #### Status
 ACCEPTED

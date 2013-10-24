@@ -1,5 +1,4 @@
-Lepiota ochrospora Cooke & Massee SPECIES
-=======
+# Lepiota ochrospora Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

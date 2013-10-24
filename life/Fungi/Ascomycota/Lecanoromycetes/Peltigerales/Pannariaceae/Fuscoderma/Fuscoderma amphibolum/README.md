@@ -1,8 +1,7 @@
-Leioderma amphibolum (C. Knight) D. J. Galloway & P. M. Jørg. SPECIES
-=======
+# Fuscoderma amphibolum (C. Knight) P. M. Jørg. & D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

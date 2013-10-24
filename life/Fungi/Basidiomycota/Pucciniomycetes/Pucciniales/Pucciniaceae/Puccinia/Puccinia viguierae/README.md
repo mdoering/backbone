@@ -1,5 +1,4 @@
-Puccinia viguierae Peck SPECIES
-=======
+# Puccinia viguierae Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arkhangelskiella V.N.Vekschina, 1959 GENUS
-=======
+# Arkhangelskiella V.N.Vekschina, 1959 GENUS
 
 #### Status
 ACCEPTED

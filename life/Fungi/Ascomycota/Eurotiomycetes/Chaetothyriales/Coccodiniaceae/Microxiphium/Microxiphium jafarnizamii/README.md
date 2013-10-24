@@ -1,17 +1,16 @@
-Microxiphium jafarnizamae Manohar. SPECIES
-=======
+# Microxiphium jafarnizamii Manohar. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia, Beih. 63: 184 (1979)
 
 #### Original name
-Microxiphium jafarnizamae Manohar.
+Microxiphium jafarnizamii Manohar.
 
 ### Remarks
 null

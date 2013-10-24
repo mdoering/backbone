@@ -1,5 +1,4 @@
-Peziza leporina var. leporina VARIETY
-=======
+# Peziza leporina P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 415 (1803)
 
 #### Original name
-null
+Peziza leporina P. Karst.
 
 ### Remarks
 null

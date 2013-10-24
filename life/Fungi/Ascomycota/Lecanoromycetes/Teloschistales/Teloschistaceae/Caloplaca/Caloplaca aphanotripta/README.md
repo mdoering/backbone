@@ -1,5 +1,4 @@
-Caloplaca aphanotripta (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca aphanotripta (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

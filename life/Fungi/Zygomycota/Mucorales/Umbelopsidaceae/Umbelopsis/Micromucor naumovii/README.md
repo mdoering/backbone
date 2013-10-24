@@ -1,5 +1,4 @@
-Micromucor naumovii Malchevsk. SPECIES
-=======
+# Micromucor naumovii Malchevsk. SPECIES
 
 #### Status
 ACCEPTED

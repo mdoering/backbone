@@ -1,5 +1,4 @@
-Agaricus humosus Fr. SPECIES
-=======
+# Agaricus humosus Fr. SPECIES
 
 #### Status
 ACCEPTED

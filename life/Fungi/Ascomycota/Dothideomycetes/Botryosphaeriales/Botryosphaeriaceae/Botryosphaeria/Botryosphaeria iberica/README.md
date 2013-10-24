@@ -1,5 +1,4 @@
-Botryosphaeria iberica A.J.L. Phillips, J. Luque & A. Alves, 2005 SPECIES
-=======
+# Botryosphaeria iberica A.J.L. Phillips, J. Luque & A. Alves, 2005 SPECIES
 
 #### Status
 ACCEPTED

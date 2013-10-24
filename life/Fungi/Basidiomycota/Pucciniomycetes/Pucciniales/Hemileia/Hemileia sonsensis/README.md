@@ -1,5 +1,4 @@
-Hemileia sonsensis P. Syd. & Syd. SPECIES
-=======
+# Hemileia sonsensis P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

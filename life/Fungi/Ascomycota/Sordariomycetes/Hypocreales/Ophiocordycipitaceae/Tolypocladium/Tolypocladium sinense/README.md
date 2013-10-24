@@ -1,17 +1,16 @@
-Tolypocladium sinensis C. Lan Li SPECIES
-=======
+# Tolypocladium sinense C. Lan Li SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Nanjing University, Natural Sciences 22(3): 402 (1986)
 
 #### Original name
-Tolypocladium sinensis C. Lan Li
+Tolypocladium sinense C. Lan Li
 
 ### Remarks
 null

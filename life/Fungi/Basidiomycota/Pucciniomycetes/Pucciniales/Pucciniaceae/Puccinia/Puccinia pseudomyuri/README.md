@@ -1,5 +1,4 @@
-Puccinia pseudomyuri Kleb. SPECIES
-=======
+# Puccinia pseudomyuri Kleb. SPECIES
 
 #### Status
 ACCEPTED

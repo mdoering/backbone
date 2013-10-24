@@ -1,14 +1,13 @@
-Pesotum pirinum (Goid.) G. Okada & Seifert SPECIES
-=======
+# Pesotum pyrinum (Goid.) G. Okada & Seifert SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Okada, Seifert, Takematsu, Yamaoka, Miyazaki & Tubaki, Can. J. Bot. 76(9): 1504 (1999)
 
 #### Original name
 Hyalodendron pyrinum Goid.

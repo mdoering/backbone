@@ -1,5 +1,4 @@
-Eccilia regularis Peck SPECIES
-=======
+# Eccilia regularis Peck SPECIES
 
 #### Status
 ACCEPTED

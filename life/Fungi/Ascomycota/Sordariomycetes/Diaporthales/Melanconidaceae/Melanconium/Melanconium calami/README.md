@@ -1,5 +1,4 @@
-Melanconium calami H.S. Yates SPECIES
-=======
+# Melanconium calami H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Corticium filicinum Bourdot, 1910 SPECIES
-=======
+# Phlebiella filicina (Bourdot) K.H. Larss. & Hjortstam, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rev. Sci. Bourb. Centr. Fr. 23(1): 12 (1910)
+in Hjortstam & Larsson, Mycotaxon 29: 317 (1987)
 
 #### Original name
 Corticium filicinum Bourdot, 1910

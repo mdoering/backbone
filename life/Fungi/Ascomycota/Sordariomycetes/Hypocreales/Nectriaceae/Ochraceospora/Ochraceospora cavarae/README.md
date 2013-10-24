@@ -1,5 +1,4 @@
-Ochraceospora cavarae Fiore, 1930 SPECIES
-=======
+# Ochraceospora cavarae Fiore, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria scotinodes SPECIES
-=======
+# Verrucaria scotinodes SPECIES
 
 #### Status
 ACCEPTED

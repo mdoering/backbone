@@ -1,5 +1,4 @@
-Lecanora kariana Räsänen SPECIES
-=======
+# Lecanora kariana Räsänen SPECIES
 
 #### Status
 ACCEPTED

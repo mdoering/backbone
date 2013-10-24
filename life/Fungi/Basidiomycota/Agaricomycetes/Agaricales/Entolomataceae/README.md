@@ -1,5 +1,4 @@
-Entolomataceae Kotl. & Pouzar FAMILY
-=======
+# Entolomataceae Kotl. & Pouzar FAMILY
 
 #### Status
 ACCEPTED

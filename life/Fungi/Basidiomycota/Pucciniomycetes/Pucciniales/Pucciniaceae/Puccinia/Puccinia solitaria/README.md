@@ -1,5 +1,4 @@
-Puccinia solitaria Syd. SPECIES
-=======
+# Puccinia solitaria Syd. SPECIES
 
 #### Status
 ACCEPTED

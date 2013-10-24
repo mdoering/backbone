@@ -1,5 +1,4 @@
-Septoria tomipara Pass. SPECIES
-=======
+# Septoria tomipara Pass. SPECIES
 
 #### Status
 ACCEPTED

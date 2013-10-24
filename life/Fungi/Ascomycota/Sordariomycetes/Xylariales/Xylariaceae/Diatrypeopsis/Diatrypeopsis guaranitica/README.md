@@ -1,5 +1,4 @@
-Diatrypeopsis guaranitica Speg. SPECIES
-=======
+# Diatrypeopsis guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

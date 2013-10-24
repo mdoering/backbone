@@ -1,5 +1,4 @@
-Phialea craginiana (Ellis & Everh.) Sacc. SPECIES
-=======
+# Phialea craginiana (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Kuehneola zizyphi (T.S. Ramakr. & Subram.) Thirum. SPECIES
-=======
+# Kuehneola ziziphi (T.S. Ramakr. & Subram.) Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

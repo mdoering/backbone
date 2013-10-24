@@ -1,5 +1,4 @@
-Uncinula circinans Cooke & Peck SPECIES
-=======
+# Uncinula circinans Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

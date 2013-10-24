@@ -1,14 +1,13 @@
-Hypoxylon albocinctum Ellis & Everh., 1890 SPECIES
-=======
+# Nemania albocincta (Ellis & Everh.) Pouzar, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Acad. nat. Sci. Philad. , 1890 42: 229 (1890)
+Ceská Mykol. 39(1): 23 (1985)
 
 #### Original name
 Hypoxylon albocinctum Ellis & Everh., 1890

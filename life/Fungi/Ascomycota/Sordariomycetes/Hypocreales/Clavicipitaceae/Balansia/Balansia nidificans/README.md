@@ -1,5 +1,4 @@
-Balansia nidificans Petr. & Syd. SPECIES
-=======
+# Balansia nidificans Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

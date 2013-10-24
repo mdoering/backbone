@@ -1,17 +1,16 @@
-Cladina halei Ahti SPECIES
-=======
+# Cladonia halei (Ahti) Ahti & DePriest SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 78: 501 (2001)
 
 #### Original name
-null
+Cladina halei Ahti
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Oxydothis gigantea K.D. Hyde SPECIES
-=======
+# Oxydothis gigantea K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

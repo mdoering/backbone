@@ -1,5 +1,4 @@
-Hosseusia Gyelnik, 1940 GENUS
-=======
+# Hosseusia Gyelnik, 1940 GENUS
 
 #### Status
 ACCEPTED

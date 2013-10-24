@@ -1,5 +1,4 @@
-Lecanora albomarginata f. arundinicola Gallé FORM
-=======
+# Lecanora albomarginata (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora albomarginata f. arundinicola Gallé
+Aspicilia albomarginata B. de Lesd.
 
 ### Remarks
 null

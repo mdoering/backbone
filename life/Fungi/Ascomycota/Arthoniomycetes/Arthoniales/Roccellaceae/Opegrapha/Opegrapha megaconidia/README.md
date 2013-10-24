@@ -1,5 +1,4 @@
-Opegrapha megaconidia C. Knight SPECIES
-=======
+# Opegrapha megaconidia C. Knight SPECIES
 
 #### Status
 ACCEPTED

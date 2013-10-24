@@ -1,5 +1,4 @@
-Irpex gracillimus Pilát SPECIES
-=======
+# Irpex gracillimus Pilát SPECIES
 
 #### Status
 ACCEPTED

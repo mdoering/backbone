@@ -1,5 +1,4 @@
-Peteinosphaeridium senticosum Vecoli, 1999 SPECIES
-=======
+# Peteinosphaeridium senticosum Vecoli, 1999 SPECIES
 
 #### Status
 ACCEPTED

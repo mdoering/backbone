@@ -1,5 +1,4 @@
-Torula donacina Thüm. SPECIES
-=======
+# Torula donacina Thüm. SPECIES
 
 #### Status
 ACCEPTED

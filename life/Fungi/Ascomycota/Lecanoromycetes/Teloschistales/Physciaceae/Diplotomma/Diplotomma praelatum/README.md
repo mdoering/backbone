@@ -1,5 +1,4 @@
-Diplotomma praelatum (Stizenb.) C.W. Dodge SPECIES
-=======
+# Diplotomma praelatum (Stizenb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

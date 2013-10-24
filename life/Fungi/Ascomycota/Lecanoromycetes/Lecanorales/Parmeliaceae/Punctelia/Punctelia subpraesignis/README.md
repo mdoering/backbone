@@ -1,17 +1,16 @@
-Parmelia subpraesignis Nyl. SPECIES
-=======
+# Punctelia subpraesignis (Nyl.) Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nordic Jl Bot. 2(3): 291 (1982)
 
 #### Original name
-null
+Parmelia subpraesignis Nyl.
 
 ### Remarks
 null

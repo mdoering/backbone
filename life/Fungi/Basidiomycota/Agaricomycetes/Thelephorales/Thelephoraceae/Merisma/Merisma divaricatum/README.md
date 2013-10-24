@@ -1,8 +1,7 @@
-Merisma divaricata Lév. SPECIES
-=======
+# Merisma divaricatum Lév. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Merisma divaricata Lév.
+Merisma divaricatum Lév.
 
 ### Remarks
 null

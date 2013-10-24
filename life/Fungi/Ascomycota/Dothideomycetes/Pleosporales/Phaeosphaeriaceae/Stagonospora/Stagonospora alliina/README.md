@@ -1,5 +1,4 @@
-Stagonospora alliina (Woron.) Petr. SPECIES
-=======
+# Stagonospora alliina (Woron.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clathroidastrum P. Micheli ex Adanson, 1763 GENUS
-=======
+# Stemonitis Gleditsch, 1753 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fam. Pl. 2: 8, 540 (1763)
+Method. Fung. 140 (1753)
 
 #### Original name
-Clathroidastrum P. Micheli ex Adanson, 1763
+Stemonitis Gleditsch, 1753
 
 ### Remarks
 null

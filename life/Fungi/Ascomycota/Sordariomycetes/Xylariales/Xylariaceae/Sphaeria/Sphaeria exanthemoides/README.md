@@ -1,5 +1,4 @@
-Sphaeria exanthemoides Mont. SPECIES
-=======
+# Sphaeria exanthemoides Mont. SPECIES
 
 #### Status
 ACCEPTED

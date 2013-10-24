@@ -1,5 +1,4 @@
-Entomophthora fumosa Speare SPECIES
-=======
+# Entomophthora fumosa Speare SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Epistylis sphaeroides Fromentel, 1876 SPECIES
-=======
+# Rhabdostyla sphaeroides (Fromentel, 1876) Kent, 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

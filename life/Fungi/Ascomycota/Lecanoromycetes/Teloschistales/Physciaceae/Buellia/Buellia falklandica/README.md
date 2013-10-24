@@ -1,5 +1,4 @@
-Buellia falklandica Darb. SPECIES
-=======
+# Buellia falklandica Darb. SPECIES
 
 #### Status
 ACCEPTED

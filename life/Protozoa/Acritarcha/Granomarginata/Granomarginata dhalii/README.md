@@ -1,5 +1,4 @@
-Granomarginata dhalii Nautiyal, 1982 SPECIES
-=======
+# Granomarginata dhalii Nautiyal, 1982 SPECIES
 
 #### Status
 ACCEPTED

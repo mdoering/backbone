@@ -1,5 +1,4 @@
-Lecidea pyracea (Ach.) Schulz SPECIES
-=======
+# Lecidea pyracea (Ach.) Schulz SPECIES
 
 #### Status
 ACCEPTED

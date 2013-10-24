@@ -1,5 +1,4 @@
-Laboulbenia armillaris Berl. SPECIES
-=======
+# Laboulbenia armillaris Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monascus fuliginosus K. Satô SPECIES
-=======
+# Monascus fuliginosus K. Satô SPECIES
 
 #### Status
 ACCEPTED

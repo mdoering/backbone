@@ -1,5 +1,4 @@
-Mucor cinereus (Preuss) Berl. & De Toni SPECIES
-=======
+# Mucor cinereus (Preuss) Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

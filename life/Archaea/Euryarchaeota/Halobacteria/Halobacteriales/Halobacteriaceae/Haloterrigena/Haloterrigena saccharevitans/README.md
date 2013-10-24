@@ -1,5 +1,4 @@
-Haloterrigena saccharevitans Xu et al., 2005 SPECIES
-=======
+# Haloterrigena saccharevitans Xu et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

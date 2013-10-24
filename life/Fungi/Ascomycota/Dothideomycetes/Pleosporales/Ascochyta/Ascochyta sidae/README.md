@@ -1,5 +1,4 @@
-Ascochyta sidae Sawada SPECIES
-=======
+# Ascochyta sidae Sawada SPECIES
 
 #### Status
 ACCEPTED

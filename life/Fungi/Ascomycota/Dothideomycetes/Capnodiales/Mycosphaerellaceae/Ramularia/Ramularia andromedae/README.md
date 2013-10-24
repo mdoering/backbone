@@ -1,5 +1,4 @@
-Ramularia andromedae Ellis & G. Martin SPECIES
-=======
+# Ramularia andromedae Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

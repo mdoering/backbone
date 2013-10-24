@@ -1,5 +1,4 @@
-Hispidula acmenicola P.R. Johnst., 2003 SPECIES
-=======
+# Hispidula acmenicola P.R. Johnst., 2003 SPECIES
 
 #### Status
 ACCEPTED

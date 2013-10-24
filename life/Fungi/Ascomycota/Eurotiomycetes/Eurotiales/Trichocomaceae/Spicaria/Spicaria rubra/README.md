@@ -1,5 +1,4 @@
-Spicaria rubra (Baquis) C.W. Dodge SPECIES
-=======
+# Spicaria rubra (Baquis) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

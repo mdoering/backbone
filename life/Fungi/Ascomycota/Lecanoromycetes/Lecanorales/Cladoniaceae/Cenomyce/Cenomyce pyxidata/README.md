@@ -1,5 +1,4 @@
-Cenomyce pyxidata var. pyxidata VARIETY
-=======
+# Cenomyce pyxidata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cenomyce pyxidata var. pyxidata
+null
 
 ### Remarks
 null

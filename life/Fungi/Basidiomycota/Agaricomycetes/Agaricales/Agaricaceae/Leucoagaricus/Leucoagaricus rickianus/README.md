@@ -1,5 +1,4 @@
-Leucoagaricus rickianus (Speg.) Singer SPECIES
-=======
+# Leucoagaricus rickianus (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

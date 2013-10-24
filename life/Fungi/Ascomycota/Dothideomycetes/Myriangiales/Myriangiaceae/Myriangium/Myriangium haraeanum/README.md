@@ -1,17 +1,16 @@
-Myriangium bambusae Rick, 1913 SPECIES
-=======
+# Myriangium haraeanum F.L. Tai, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mag. , Tokyo 27(no. 317): 252 (1913)
+null
 
 #### Original name
-Myriangium bambusae Rick, 1913
+Myriangium haraeanum F.L. Tai, 1933
 
 ### Remarks
 null

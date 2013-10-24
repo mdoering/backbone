@@ -1,5 +1,4 @@
-Verrucaria platycarpa (Zschacke) Servít SPECIES
-=======
+# Verrucaria platycarpa (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

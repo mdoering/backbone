@@ -1,17 +1,16 @@
-Sphacelotheca almoras A. Krishna & R.A. Singh SPECIES
-=======
+# Sphacelotheca almorae A. Krishna & R.A. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 10(2): 177 (1980)
 
 #### Original name
-Sphacelotheca almoras A. Krishna & R.A. Singh
+Sphacelotheca almorae A. Krishna & R.A. Singh
 
 ### Remarks
 null

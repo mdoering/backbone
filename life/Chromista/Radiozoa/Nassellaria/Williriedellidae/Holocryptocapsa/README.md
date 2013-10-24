@@ -1,5 +1,4 @@
-Holocryptocapsa Tan Sin Hok, 1927 GENUS
-=======
+# Holocryptocapsa Tan Sin Hok, 1927 GENUS
 
 #### Status
 ACCEPTED

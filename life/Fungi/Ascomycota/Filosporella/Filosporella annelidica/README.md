@@ -1,14 +1,13 @@
-Rogersia annelidica Shearer & J.L. Crane, 1976 SPECIES
-=======
+# Filosporella annelidica (Shearer & J.L. Crane) J.L. Crane & Shearer, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 68(4): 949 (1976)
+Mycotaxon 6(1): 28 (1977)
 
 #### Original name
 Rogersia annelidica Shearer & J.L. Crane, 1976

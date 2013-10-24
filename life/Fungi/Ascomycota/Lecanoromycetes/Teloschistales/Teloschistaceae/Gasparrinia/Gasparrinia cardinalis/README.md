@@ -1,5 +1,4 @@
-Gasparrinia cardinalis (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Gasparrinia cardinalis (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

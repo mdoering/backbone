@@ -1,5 +1,4 @@
-Rinodina novoconfragosa Sheard SPECIES
-=======
+# Rinodina novoconfragosa Sheard SPECIES
 
 #### Status
 ACCEPTED

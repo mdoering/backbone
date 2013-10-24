@@ -1,14 +1,13 @@
-Gliophorus xanthochrous (P.D. Orton) Kovalenko, 1988 SPECIES
-=======
+# Hygrocybe xanthochroa (P.D. Orton) M.M. Moser, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mikol. Fitopatol. 22(3): 209 (1988)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 64 (1967)
 
 #### Original name
 Hygrophorus xanthochrous P.D. Orton, 1960

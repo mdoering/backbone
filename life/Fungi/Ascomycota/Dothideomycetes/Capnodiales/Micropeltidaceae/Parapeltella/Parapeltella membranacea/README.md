@@ -1,5 +1,4 @@
-Parapeltella membranacea (Speg.) Bat. SPECIES
-=======
+# Parapeltella membranacea (Speg.) Bat. SPECIES
 
 #### Status
 ACCEPTED

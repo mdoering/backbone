@@ -1,5 +1,4 @@
-Agaricus subcrispus Raddi SPECIES
-=======
+# Agaricus subcrispus Raddi SPECIES
 
 #### Status
 ACCEPTED

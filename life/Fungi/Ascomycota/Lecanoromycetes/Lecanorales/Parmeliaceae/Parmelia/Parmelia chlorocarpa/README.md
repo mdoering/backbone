@@ -1,5 +1,4 @@
-Parmelia chlorocarpa Müll. Arg. SPECIES
-=======
+# Parmelia chlorocarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius misionensis Singer SPECIES
-=======
+# Marasmius misionensis Singer SPECIES
 
 #### Status
 ACCEPTED

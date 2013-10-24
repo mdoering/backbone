@@ -1,5 +1,4 @@
-Melanamphora Lafl. GENUS
-=======
+# Melanamphora Lafl. GENUS
 
 #### Status
 ACCEPTED

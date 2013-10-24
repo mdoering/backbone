@@ -1,5 +1,4 @@
-Aspicilia epichlora (Vain.) C.W. Dodge SPECIES
-=======
+# Aspicilia epichlora (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

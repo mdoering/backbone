@@ -1,5 +1,4 @@
-Ascospora dentariae (Westend.) Fuckel SPECIES
-=======
+# Ascospora dentariae (Westend.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

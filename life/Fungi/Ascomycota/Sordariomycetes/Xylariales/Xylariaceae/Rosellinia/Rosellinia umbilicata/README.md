@@ -1,5 +1,4 @@
-Rosellinia umbilicata Sacc. SPECIES
-=======
+# Rosellinia umbilicata Sacc. SPECIES
 
 #### Status
 ACCEPTED

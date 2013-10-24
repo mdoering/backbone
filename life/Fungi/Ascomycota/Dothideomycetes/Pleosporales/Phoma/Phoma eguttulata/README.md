@@ -1,5 +1,4 @@
-Phoma eguttulata P. Karst. SPECIES
-=======
+# Phoma eguttulata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

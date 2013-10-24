@@ -1,5 +1,4 @@
-Oidium cyanescens Traverso SPECIES
-=======
+# Oidium cyanescens Traverso SPECIES
 
 #### Status
 ACCEPTED

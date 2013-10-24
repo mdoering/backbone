@@ -1,5 +1,4 @@
-Fungus albineus (Fr.) Kuntze SPECIES
-=======
+# Fungus albineus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

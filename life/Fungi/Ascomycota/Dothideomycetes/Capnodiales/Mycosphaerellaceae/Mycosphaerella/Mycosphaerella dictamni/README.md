@@ -1,5 +1,4 @@
-Mycosphaerella dictamni Petr. SPECIES
-=======
+# Mycosphaerella dictamni Petr. SPECIES
 
 #### Status
 ACCEPTED

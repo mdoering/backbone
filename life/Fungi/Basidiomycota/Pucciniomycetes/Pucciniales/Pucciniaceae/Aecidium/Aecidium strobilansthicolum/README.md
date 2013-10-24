@@ -1,5 +1,4 @@
-Aecidium strobilansthicolum Sawada SPECIES
-=======
+# Aecidium strobilansthicolum Sawada SPECIES
 
 #### Status
 ACCEPTED

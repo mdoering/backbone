@@ -1,17 +1,16 @@
-Ramulispora capparidis T.S. Ramakr. & Sundaram SPECIES
-=======
+# Ramulispora capparis T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Acad. Sci. 38: 193 (1953)
 
 #### Original name
-Ramulispora capparidis T.S. Ramakr. & Sundaram
+Ramulispora capparis T.S. Ramakr. & Sundaram
 
 ### Remarks
 null

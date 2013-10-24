@@ -1,5 +1,4 @@
-Geopyxis vulcanalis Peck SPECIES
-=======
+# Geopyxis vulcanalis Peck SPECIES
 
 #### Status
 ACCEPTED

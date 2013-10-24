@@ -1,5 +1,4 @@
-Isabelidinium bakeri (Deflandre & Cookson, 1955) Lentin & Williams SPECIES
-=======
+# Isabelidinium bakeri (Deflandre & Cookson, 1955) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

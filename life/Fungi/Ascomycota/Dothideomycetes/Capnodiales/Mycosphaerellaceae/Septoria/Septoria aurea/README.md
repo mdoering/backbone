@@ -1,5 +1,4 @@
-Septoria aurea Ellis & Everh. SPECIES
-=======
+# Septoria aurea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

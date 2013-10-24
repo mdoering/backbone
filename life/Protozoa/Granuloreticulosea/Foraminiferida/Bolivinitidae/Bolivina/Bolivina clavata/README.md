@@ -1,5 +1,4 @@
-Bolivina clavata Cushman SPECIES
-=======
+# Bolivina clavata Cushman SPECIES
 
 #### Status
 ACCEPTED

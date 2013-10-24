@@ -1,5 +1,4 @@
-Chaetomium spinosum Chivers, 1912 SPECIES
-=======
+# Chaetomium spinosum Chivers, 1912 SPECIES
 
 #### Status
 ACCEPTED

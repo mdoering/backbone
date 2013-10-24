@@ -1,5 +1,4 @@
-Tilletia mauritiana Vánky, 2002 SPECIES
-=======
+# Tilletia mauritiana Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

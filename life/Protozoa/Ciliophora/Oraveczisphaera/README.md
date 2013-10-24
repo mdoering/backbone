@@ -1,5 +1,4 @@
-Oraveczisphaera Kozur, 1986 GENUS
-=======
+# Oraveczisphaera Kozur, 1986 GENUS
 
 #### Status
 ACCEPTED

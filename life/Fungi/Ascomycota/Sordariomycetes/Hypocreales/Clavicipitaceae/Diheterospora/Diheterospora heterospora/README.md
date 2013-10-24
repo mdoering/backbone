@@ -1,5 +1,4 @@
-Diheterospora heterospora Kamyschko SPECIES
-=======
+# Diheterospora heterospora Kamyschko SPECIES
 
 #### Status
 ACCEPTED

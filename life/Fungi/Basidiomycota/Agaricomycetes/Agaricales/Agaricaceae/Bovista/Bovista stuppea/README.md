@@ -1,5 +1,4 @@
-Bovista stuppea Berk. SPECIES
-=======
+# Bovista stuppea Berk. SPECIES
 
 #### Status
 ACCEPTED

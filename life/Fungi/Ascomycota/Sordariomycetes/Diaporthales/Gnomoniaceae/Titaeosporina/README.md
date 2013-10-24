@@ -1,5 +1,4 @@
-Titaeosporina GENUS
-=======
+# Titaeosporina GENUS
 
 #### Status
 ACCEPTED

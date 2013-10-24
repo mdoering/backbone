@@ -1,5 +1,4 @@
-Marasmius plicatus Wakker SPECIES
-=======
+# Marasmius plicatus Wakker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium lindquistii Karling SPECIES
-=======
+# Synchytrium lindquistii Karling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dacrymyces fragiformis (Pers.) Nees SPECIES
-=======
+# Dacrymyces fragiformis (Pers.) Nees SPECIES
 
 #### Status
 ACCEPTED

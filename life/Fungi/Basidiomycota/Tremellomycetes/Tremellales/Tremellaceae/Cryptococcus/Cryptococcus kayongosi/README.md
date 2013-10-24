@@ -1,5 +1,4 @@
-Cryptococcus kayongosi (Mattlet) Nann. SPECIES
-=======
+# Cryptococcus kayongosi (Mattlet) Nann. SPECIES
 
 #### Status
 ACCEPTED

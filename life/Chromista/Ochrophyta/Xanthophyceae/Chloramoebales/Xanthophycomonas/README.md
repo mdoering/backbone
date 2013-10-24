@@ -1,5 +1,4 @@
-Xanthophycomonas Scagel & J.Stein, 1961 GENUS
-=======
+# Xanthophycomonas Scagel & J.Stein, 1961 GENUS
 
 #### Status
 ACCEPTED

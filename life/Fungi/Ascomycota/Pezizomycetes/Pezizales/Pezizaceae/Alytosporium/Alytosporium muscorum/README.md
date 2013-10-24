@@ -1,5 +1,4 @@
-Alytosporium muscorum (Link) Steud. SPECIES
-=======
+# Alytosporium muscorum (Link) Steud. SPECIES
 
 #### Status
 ACCEPTED

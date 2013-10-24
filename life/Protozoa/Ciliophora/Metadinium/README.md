@@ -1,5 +1,4 @@
-Metadinium Averintzeff & Mutafova, 1914 GENUS
-=======
+# Metadinium Averintzeff & Mutafova, 1914 GENUS
 
 #### Status
 ACCEPTED

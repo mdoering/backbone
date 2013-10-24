@@ -1,5 +1,4 @@
-Ophiobolus livistonae Henn. SPECIES
-=======
+# Ophiobolus livistonae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hygrophorus apala Berk. & Broome SPECIES
-=======
+# Hygrophorus apalus Berk. & Broome SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 11(no. 56): 565 (1871)
 
 #### Original name
-Hygrophorus apala Berk. & Broome
+Hygrophorus apalus Berk. & Broome
 
 ### Remarks
 null

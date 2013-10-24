@@ -1,5 +1,4 @@
-Lecidea mauritiana Taylor SPECIES
-=======
+# Lecidea mauritiana Taylor SPECIES
 
 #### Status
 ACCEPTED

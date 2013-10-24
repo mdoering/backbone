@@ -1,5 +1,4 @@
-Acarospora insignis H. Magn. SPECIES
-=======
+# Acarospora insignis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

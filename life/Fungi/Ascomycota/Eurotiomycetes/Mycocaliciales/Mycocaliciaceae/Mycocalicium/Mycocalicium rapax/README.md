@@ -1,5 +1,4 @@
-Mycocalicium rapax Tibell SPECIES
-=======
+# Mycocalicium rapax Tibell SPECIES
 
 #### Status
 ACCEPTED

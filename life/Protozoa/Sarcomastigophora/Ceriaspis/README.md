@@ -1,5 +1,4 @@
-Ceriaspis Haeckel, 1881 GENUS
-=======
+# Ceriaspis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

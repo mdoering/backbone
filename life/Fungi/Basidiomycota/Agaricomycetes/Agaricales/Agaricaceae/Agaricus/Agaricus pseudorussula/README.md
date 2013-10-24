@@ -1,5 +1,4 @@
-Agaricus pseudorussula Speg. SPECIES
-=======
+# Agaricus pseudorussula Speg. SPECIES
 
 #### Status
 ACCEPTED

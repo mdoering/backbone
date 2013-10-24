@@ -1,5 +1,4 @@
-Aecidium bellidis-silvestris Sacc. SPECIES
-=======
+# Aecidium bellidis-silvestris Sacc. SPECIES
 
 #### Status
 ACCEPTED

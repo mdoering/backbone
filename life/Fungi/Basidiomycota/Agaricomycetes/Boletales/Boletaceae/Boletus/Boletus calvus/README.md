@@ -1,5 +1,4 @@
-Boletus calvus Corner SPECIES
-=======
+# Boletus calvus Corner SPECIES
 
 #### Status
 ACCEPTED

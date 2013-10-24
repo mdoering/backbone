@@ -1,5 +1,4 @@
-Penicillium brocae S.W. Peterson, Jeann. Pérez, F.E. Vega & Infante, 2003 SPECIES
-=======
+# Penicillium brocae S.W. Peterson, Jeann. Pérez, F.E. Vega & Infante, 2003 SPECIES
 
 #### Status
 ACCEPTED

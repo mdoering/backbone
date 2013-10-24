@@ -1,5 +1,4 @@
-Notothyrites kiandrensis Selkirk SPECIES
-=======
+# Notothyrites kiandrensis Selkirk SPECIES
 
 #### Status
 ACCEPTED

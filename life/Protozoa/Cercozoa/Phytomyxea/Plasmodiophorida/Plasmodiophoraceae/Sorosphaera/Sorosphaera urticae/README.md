@@ -1,5 +1,4 @@
-Sorosphaera urticae Naumov SPECIES
-=======
+# Sorosphaera urticae Naumov SPECIES
 
 #### Status
 ACCEPTED

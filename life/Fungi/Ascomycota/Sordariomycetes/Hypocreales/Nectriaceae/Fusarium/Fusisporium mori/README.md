@@ -1,5 +1,4 @@
-Fusisporium mori Mont. SPECIES
-=======
+# Fusisporium mori Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium berberidis-thunbergii Henn. SPECIES
-=======
+# Aecidium berberidis-thunbergii Henn. SPECIES
 
 #### Status
 ACCEPTED

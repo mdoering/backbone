@@ -1,5 +1,4 @@
-Tilletia belgradensis Magnus SPECIES
-=======
+# Tilletia belgradensis Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma bommerianum Sacc. & Roum. SPECIES
-=======
+# Lophiostoma bommerianum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

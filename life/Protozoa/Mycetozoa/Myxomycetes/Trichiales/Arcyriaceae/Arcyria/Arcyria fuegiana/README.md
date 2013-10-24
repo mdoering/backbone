@@ -1,5 +1,4 @@
-Arcyria fuegiana Aramb., 1972 SPECIES
-=======
+# Arcyria fuegiana Aramb., 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Podorhabdus rahla Noël, 1965 SPECIES
-=======
+# Axopodorhabdus rahla (Noël, 1965) Grün & Zweili, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

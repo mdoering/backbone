@@ -1,5 +1,4 @@
-Gnomonia spermogonioides Rehm SPECIES
-=======
+# Gnomonia spermogonioides Rehm SPECIES
 
 #### Status
 ACCEPTED

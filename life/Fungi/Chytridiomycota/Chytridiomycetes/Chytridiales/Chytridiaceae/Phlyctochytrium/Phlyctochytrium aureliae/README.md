@@ -1,5 +1,4 @@
-Phlyctochytrium aureliae Ajello, 1945 SPECIES
-=======
+# Phlyctochytrium aureliae Ajello, 1945 SPECIES
 
 #### Status
 ACCEPTED

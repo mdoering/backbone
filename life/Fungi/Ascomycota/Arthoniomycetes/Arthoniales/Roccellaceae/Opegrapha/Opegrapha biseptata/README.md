@@ -1,5 +1,4 @@
-Opegrapha biseptata Müll. Arg. SPECIES
-=======
+# Opegrapha biseptata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

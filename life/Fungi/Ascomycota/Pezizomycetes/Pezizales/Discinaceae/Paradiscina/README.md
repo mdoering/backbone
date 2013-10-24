@@ -1,5 +1,4 @@
-Paradiscina GENUS
-=======
+# Paradiscina GENUS
 
 #### Status
 ACCEPTED

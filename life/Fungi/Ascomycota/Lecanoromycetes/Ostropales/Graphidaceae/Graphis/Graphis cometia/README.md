@@ -1,5 +1,4 @@
-Graphis cometia Fée SPECIES
-=======
+# Graphis cometia Fée SPECIES
 
 #### Status
 ACCEPTED

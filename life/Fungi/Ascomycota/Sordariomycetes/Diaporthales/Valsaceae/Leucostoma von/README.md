@@ -1,5 +1,4 @@
-Leucostoma subgen. Nitschke von Höhnel, 1917 GENUS
-=======
+# Leucostoma subgen. Nitschke von Höhnel, 1917 GENUS
 
 #### Status
 ACCEPTED

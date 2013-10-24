@@ -1,5 +1,4 @@
-Clithris camelliae (Teng) Tehon SPECIES
-=======
+# Clithris camelliae (Teng) Tehon SPECIES
 
 #### Status
 ACCEPTED

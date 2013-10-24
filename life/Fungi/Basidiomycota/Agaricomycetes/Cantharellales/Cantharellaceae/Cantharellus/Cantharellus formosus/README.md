@@ -1,5 +1,4 @@
-Cantharellus formosus Corner SPECIES
-=======
+# Cantharellus formosus Corner SPECIES
 
 #### Status
 ACCEPTED

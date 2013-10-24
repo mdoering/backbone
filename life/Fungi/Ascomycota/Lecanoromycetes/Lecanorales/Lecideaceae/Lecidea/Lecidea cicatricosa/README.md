@@ -1,5 +1,4 @@
-Lecidea cicatricosa Röhl. SPECIES
-=======
+# Lecidea cicatricosa Röhl. SPECIES
 
 #### Status
 ACCEPTED

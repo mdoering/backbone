@@ -1,5 +1,4 @@
-Mycosphaerella virgaureae Krieg. SPECIES
-=======
+# Mycosphaerella virgaureae Krieg. SPECIES
 
 #### Status
 ACCEPTED

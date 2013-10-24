@@ -1,5 +1,4 @@
-Peronospora arabidis-hirsutae Gäum., 1918 SPECIES
-=======
+# Peronospora arabidis-hirsutae Gäum., 1918 SPECIES
 
 #### Status
 ACCEPTED

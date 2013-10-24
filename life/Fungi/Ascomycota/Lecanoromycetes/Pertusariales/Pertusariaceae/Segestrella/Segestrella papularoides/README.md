@@ -1,5 +1,4 @@
-Segestrella papularoides M. Choisy & Werner SPECIES
-=======
+# Segestrella papularoides M. Choisy & Werner SPECIES
 
 #### Status
 ACCEPTED

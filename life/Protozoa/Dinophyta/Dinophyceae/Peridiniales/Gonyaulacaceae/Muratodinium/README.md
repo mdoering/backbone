@@ -1,5 +1,4 @@
-Muratodinium W.S. Drugg, 1970 GENUS
-=======
+# Muratodinium W.S. Drugg, 1970 GENUS
 
 #### Status
 ACCEPTED

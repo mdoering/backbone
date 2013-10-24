@@ -1,5 +1,4 @@
-Acarospora pitardii B. de Lesd. SPECIES
-=======
+# Acarospora pitardii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius fumosifolius A.H. Sm. SPECIES
-=======
+# Cortinarius fumosifolius A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

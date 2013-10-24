@@ -1,5 +1,4 @@
-Botryosphaeria mapaniae (Schwein.) Weese SPECIES
-=======
+# Botryosphaeria mapaniae (Schwein.) Weese SPECIES
 
 #### Status
 ACCEPTED

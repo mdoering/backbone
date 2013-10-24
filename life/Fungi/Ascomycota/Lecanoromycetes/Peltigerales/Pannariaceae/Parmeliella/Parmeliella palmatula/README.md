@@ -1,5 +1,4 @@
-Parmeliella palmatula P.M. Jørg. SPECIES
-=======
+# Parmeliella palmatula P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

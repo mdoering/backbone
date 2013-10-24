@@ -1,5 +1,4 @@
-Spirillum colossus SPECIES
-=======
+# Spirillum colossus SPECIES
 
 #### Status
 ACCEPTED

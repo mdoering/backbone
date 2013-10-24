@@ -1,5 +1,4 @@
-Fibrocysta bipolaris (Cookson & Eisenack, 1965) Stover & Evitt SPECIES
-=======
+# Fibrocysta bipolaris (Cookson & Eisenack, 1965) Stover & Evitt SPECIES
 
 #### Status
 ACCEPTED

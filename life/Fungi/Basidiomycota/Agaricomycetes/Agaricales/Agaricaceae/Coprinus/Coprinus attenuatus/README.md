@@ -1,5 +1,4 @@
-Coprinus attenuatus Gillet SPECIES
-=======
+# Coprinus attenuatus Gillet SPECIES
 
 #### Status
 ACCEPTED

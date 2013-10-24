@@ -1,5 +1,4 @@
-Palmomyces K.D. Hyde, J. Fröhlich & Joanne E. Taylor, 1998 GENUS
-=======
+# Palmomyces K.D. Hyde, J. Fröhlich & Joanne E. Taylor, 1998 GENUS
 
 #### Status
 ACCEPTED

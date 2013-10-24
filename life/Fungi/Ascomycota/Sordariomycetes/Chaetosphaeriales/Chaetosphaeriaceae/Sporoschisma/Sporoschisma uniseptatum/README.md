@@ -1,5 +1,4 @@
-Sporoschisma uniseptatum Bhat & W.B. Kendr., 1993 SPECIES
-=======
+# Sporoschisma uniseptatum Bhat & W.B. Kendr., 1993 SPECIES
 
 #### Status
 ACCEPTED

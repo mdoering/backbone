@@ -1,5 +1,4 @@
-Lecidea albomarginata B. de Lesd. SPECIES
-=======
+# Lecidea albomarginata B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

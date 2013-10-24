@@ -1,5 +1,4 @@
-Scleroderris betulina (Peck) Sacc. SPECIES
-=======
+# Scleroderris betulina (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

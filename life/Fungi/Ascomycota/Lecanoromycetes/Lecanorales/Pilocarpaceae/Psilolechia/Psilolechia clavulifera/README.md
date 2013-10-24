@@ -1,14 +1,13 @@
-Biatora clavulifera (Nyl.) Arnold SPECIES
-=======
+# Psilolechia clavulifera (Nyl.) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 53: 476 (1870)
+Bull. Br. Mus. nat. Hist. , Bot. 11(2): 201 (1983)
 
 #### Original name
 Lecidea clavulifera Nyl.

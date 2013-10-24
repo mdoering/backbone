@@ -1,5 +1,4 @@
-Agaricus miser Fr. SPECIES
-=======
+# Agaricus miser Fr. SPECIES
 
 #### Status
 ACCEPTED

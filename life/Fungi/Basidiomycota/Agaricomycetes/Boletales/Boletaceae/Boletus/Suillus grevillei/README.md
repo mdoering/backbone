@@ -1,8 +1,7 @@
-Boletopsis elegans (Schumach.) Henn., 1900 SPECIES
-=======
+# Suillus grevillei (Klotzsch) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

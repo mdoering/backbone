@@ -1,5 +1,4 @@
-Mallochia Arx & Samson, 1986 GENUS
-=======
+# Mallochia Arx & Samson, 1986 GENUS
 
 #### Status
 ACCEPTED

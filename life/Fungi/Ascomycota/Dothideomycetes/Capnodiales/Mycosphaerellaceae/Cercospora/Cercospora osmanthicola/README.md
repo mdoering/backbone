@@ -1,5 +1,4 @@
-Cercospora osmanthicola P.K. Chi & C.K. Pai SPECIES
-=======
+# Cercospora osmanthicola P.K. Chi & C.K. Pai SPECIES
 
 #### Status
 ACCEPTED

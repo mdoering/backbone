@@ -1,5 +1,4 @@
-Cricundella Kofoid & Campbell, 1929 GENUS
-=======
+# Cricundella Kofoid & Campbell, 1929 GENUS
 
 #### Status
 ACCEPTED

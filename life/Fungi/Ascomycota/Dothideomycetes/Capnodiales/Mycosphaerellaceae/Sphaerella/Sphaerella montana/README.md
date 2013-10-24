@@ -1,5 +1,4 @@
-Sphaerella montana (Naumov) Sacc. SPECIES
-=======
+# Sphaerella montana (Naumov) Sacc. SPECIES
 
 #### Status
 ACCEPTED

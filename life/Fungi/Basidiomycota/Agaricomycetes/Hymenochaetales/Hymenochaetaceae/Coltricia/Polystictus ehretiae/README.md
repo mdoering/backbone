@@ -1,5 +1,4 @@
-Polystictus ehretiae Bres. SPECIES
-=======
+# Polystictus ehretiae Bres. SPECIES
 
 #### Status
 ACCEPTED

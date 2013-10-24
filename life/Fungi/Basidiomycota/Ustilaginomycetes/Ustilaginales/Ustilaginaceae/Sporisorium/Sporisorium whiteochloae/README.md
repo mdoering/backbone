@@ -1,5 +1,4 @@
-Sporisorium whiteochloae Vánky & McKenzie, 2001 SPECIES
-=======
+# Sporisorium whiteochloae Vánky & McKenzie, 2001 SPECIES
 
 #### Status
 ACCEPTED

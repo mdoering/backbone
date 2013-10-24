@@ -1,5 +1,4 @@
-Leptotrichum glaucum Corda SPECIES
-=======
+# Leptotrichum glaucum Corda SPECIES
 
 #### Status
 ACCEPTED

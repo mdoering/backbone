@@ -1,5 +1,4 @@
-Poria desertorum Kravtzev SPECIES
-=======
+# Poria desertorum Kravtzev SPECIES
 
 #### Status
 ACCEPTED

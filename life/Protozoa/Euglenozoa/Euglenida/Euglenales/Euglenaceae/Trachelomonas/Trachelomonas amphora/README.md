@@ -1,5 +1,4 @@
-Trachelomonas amphora Svirenko SPECIES
-=======
+# Trachelomonas amphora Svirenko SPECIES
 
 #### Status
 ACCEPTED

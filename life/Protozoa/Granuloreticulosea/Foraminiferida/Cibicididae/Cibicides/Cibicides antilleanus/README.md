@@ -1,5 +1,4 @@
-Cibicides antilleanus SPECIES
-=======
+# Cibicides antilleanus SPECIES
 
 #### Status
 ACCEPTED

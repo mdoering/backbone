@@ -1,5 +1,4 @@
-Hypocrella scutata (Cooke) Sacc. SPECIES
-=======
+# Hypocrella scutata (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Aulographium GENUS
-=======
+# Aulographum Libert, 1834 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

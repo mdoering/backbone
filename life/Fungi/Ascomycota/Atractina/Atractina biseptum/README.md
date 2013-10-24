@@ -1,5 +1,4 @@
-Atractina biseptum Höhn. SPECIES
-=======
+# Atractina biseptum Höhn. SPECIES
 
 #### Status
 ACCEPTED

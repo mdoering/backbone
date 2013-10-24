@@ -1,5 +1,4 @@
-Fungoides fuscum J.C. Buxb. SPECIES
-=======
+# Fungoides fuscum J.C. Buxb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenopsis nigra (Fr.) Sacc. SPECIES
-=======
+# Hymenopsis nigra (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

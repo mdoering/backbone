@@ -1,5 +1,4 @@
-Exidia populina P. Karst. SPECIES
-=======
+# Exidia populina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

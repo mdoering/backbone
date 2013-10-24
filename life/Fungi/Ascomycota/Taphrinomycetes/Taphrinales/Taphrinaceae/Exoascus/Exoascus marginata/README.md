@@ -1,5 +1,4 @@
-Exoascus marginata F. Lamb. & Fautrey SPECIES
-=======
+# Exoascus marginata F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

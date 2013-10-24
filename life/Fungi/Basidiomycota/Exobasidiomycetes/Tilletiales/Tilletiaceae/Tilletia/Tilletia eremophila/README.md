@@ -1,5 +1,4 @@
-Tilletia eremophila Speg. SPECIES
-=======
+# Tilletia eremophila Speg. SPECIES
 
 #### Status
 ACCEPTED

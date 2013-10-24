@@ -1,5 +1,4 @@
-Pareodiniaceae FAMILY
-=======
+# Pareodiniaceae FAMILY
 
 #### Status
 ACCEPTED

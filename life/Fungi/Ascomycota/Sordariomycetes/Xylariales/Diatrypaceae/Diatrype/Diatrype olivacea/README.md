@@ -1,17 +1,16 @@
-Diatrype oliveus Dargan & Bhatia SPECIES
-=======
+# Diatrype olivacea Dargan & Bhatia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 48(3-4): 412 (1989)
 
 #### Original name
-Diatrype oliveus Dargan & Bhatia
+Diatrype olivacea Dargan & Bhatia
 
 ### Remarks
 null

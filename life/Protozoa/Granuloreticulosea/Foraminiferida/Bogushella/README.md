@@ -1,5 +1,4 @@
-Bogushella Conil & Lys, 1978 GENUS
-=======
+# Bogushella Conil & Lys, 1978 GENUS
 
 #### Status
 ACCEPTED

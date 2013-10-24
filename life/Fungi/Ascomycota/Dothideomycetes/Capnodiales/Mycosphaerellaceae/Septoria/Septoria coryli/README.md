@@ -1,5 +1,4 @@
-Septoria coryli Sacc. SPECIES
-=======
+# Septoria coryli Sacc. SPECIES
 
 #### Status
 ACCEPTED

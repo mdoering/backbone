@@ -1,5 +1,4 @@
-Cortinarius spheroideogranatus Rob. Henry SPECIES
-=======
+# Cortinarius spheroideogranatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

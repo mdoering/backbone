@@ -1,5 +1,4 @@
-Lepiota alborussea (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota alborussea (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

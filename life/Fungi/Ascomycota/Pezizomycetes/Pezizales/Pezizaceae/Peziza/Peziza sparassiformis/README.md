@@ -1,5 +1,4 @@
-Peziza sparassiformis (Henn.) Sacc. & P. Syd. SPECIES
-=======
+# Peziza sparassiformis (Henn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

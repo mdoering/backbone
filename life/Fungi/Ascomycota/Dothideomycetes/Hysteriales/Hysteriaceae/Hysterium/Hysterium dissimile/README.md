@@ -1,5 +1,4 @@
-Hysterium dissimile P. Karst. SPECIES
-=======
+# Hysterium dissimile P. Karst. SPECIES
 
 #### Status
 ACCEPTED

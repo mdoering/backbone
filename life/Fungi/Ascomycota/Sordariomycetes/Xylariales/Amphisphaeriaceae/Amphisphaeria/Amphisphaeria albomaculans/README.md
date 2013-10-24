@@ -1,5 +1,4 @@
-Amphisphaeria albomaculans (Schwein.) Cooke SPECIES
-=======
+# Amphisphaeria albomaculans (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

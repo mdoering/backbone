@@ -1,5 +1,4 @@
-Stigmina pulviniformis (Syd.) S. Hughes SPECIES
-=======
+# Stigmina pulviniformis (Syd.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lenzites klotzschii Berk. SPECIES
-=======
+# Lenzites klotzschii Berk. SPECIES
 
 #### Status
 ACCEPTED

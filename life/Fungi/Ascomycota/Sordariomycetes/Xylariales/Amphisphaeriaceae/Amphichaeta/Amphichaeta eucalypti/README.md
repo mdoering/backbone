@@ -1,5 +1,4 @@
-Amphichaeta eucalypti A.C. Santos & Sousa da Câmara SPECIES
-=======
+# Amphichaeta eucalypti A.C. Santos & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halosarpheia viscosa (I. Schmidt) Shearer & J.L. Crane, 1981 SPECIES
-=======
+# Halosarpheia viscosa (I. Schmidt) Shearer & J.L. Crane, 1981 SPECIES
 
 #### Status
 ACCEPTED

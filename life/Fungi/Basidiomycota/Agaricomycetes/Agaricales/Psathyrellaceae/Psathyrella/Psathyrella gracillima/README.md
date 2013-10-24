@@ -1,5 +1,4 @@
-Psathyrella gracillima Peck SPECIES
-=======
+# Psathyrella gracillima Peck SPECIES
 
 #### Status
 ACCEPTED

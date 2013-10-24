@@ -1,5 +1,4 @@
-Bacidia submedialis Nyl. SPECIES
-=======
+# Bacidia submedialis Nyl. SPECIES
 
 #### Status
 ACCEPTED

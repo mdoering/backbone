@@ -1,5 +1,4 @@
-Psathyrella atrolaminata Kits van Wav., 1981 SPECIES
-=======
+# Psathyrella atrolaminata Kits van Wav., 1981 SPECIES
 
 #### Status
 ACCEPTED

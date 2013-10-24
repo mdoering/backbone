@@ -1,5 +1,4 @@
-Uredo zeugitis Arthur & Holw. SPECIES
-=======
+# Uredo zeugitis Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

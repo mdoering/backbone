@@ -1,5 +1,4 @@
-Ganoderma plicatum Pat. SPECIES
-=======
+# Ganoderma plicatum Pat. SPECIES
 
 #### Status
 ACCEPTED

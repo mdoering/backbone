@@ -1,5 +1,4 @@
-Physalospora palmicola W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
-=======
+# Physalospora palmicola W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
 
 #### Status
 ACCEPTED

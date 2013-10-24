@@ -1,5 +1,4 @@
-Boletus leprosus Peck SPECIES
-=======
+# Boletus leprosus Peck SPECIES
 
 #### Status
 ACCEPTED

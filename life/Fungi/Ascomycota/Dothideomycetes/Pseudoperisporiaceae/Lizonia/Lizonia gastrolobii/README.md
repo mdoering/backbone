@@ -1,5 +1,4 @@
-Lizonia gastrolobii Henn. SPECIES
-=======
+# Lizonia gastrolobii Henn. SPECIES
 
 #### Status
 ACCEPTED

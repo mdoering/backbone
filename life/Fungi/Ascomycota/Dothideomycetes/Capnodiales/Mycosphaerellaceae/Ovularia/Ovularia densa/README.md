@@ -1,5 +1,4 @@
-Ovularia densa Tranzschel SPECIES
-=======
+# Ovularia densa Tranzschel SPECIES
 
 #### Status
 ACCEPTED

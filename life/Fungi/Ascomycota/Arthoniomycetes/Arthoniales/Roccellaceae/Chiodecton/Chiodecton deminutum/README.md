@@ -1,5 +1,4 @@
-Chiodecton deminutum Malme SPECIES
-=======
+# Chiodecton deminutum Malme SPECIES
 
 #### Status
 ACCEPTED

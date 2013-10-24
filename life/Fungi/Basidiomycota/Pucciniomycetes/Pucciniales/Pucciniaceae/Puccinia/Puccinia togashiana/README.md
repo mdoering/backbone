@@ -1,5 +1,4 @@
-Puccinia togashiana Hirats. f. SPECIES
-=======
+# Puccinia togashiana Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

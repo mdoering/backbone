@@ -1,5 +1,4 @@
-Mycena griseoradiatella Singer SPECIES
-=======
+# Mycena griseoradiatella Singer SPECIES
 
 #### Status
 ACCEPTED

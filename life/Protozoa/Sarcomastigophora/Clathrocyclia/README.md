@@ -1,5 +1,4 @@
-Clathrocyclia Haeckel, 1887 GENUS
-=======
+# Clathrocyclia Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

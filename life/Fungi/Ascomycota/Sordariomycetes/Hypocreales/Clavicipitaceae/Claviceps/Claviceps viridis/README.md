@@ -1,5 +1,4 @@
-Claviceps viridis Padwick & Azmatullah, 1943 SPECIES
-=======
+# Claviceps viridis Padwick & Azmatullah, 1943 SPECIES
 
 #### Status
 ACCEPTED

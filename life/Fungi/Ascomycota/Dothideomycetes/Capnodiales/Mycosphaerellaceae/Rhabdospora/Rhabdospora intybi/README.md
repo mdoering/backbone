@@ -1,5 +1,4 @@
-Rhabdospora intybi (Pass.) Allesch. SPECIES
-=======
+# Rhabdospora intybi (Pass.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

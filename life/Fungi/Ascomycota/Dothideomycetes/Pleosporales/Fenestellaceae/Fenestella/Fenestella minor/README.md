@@ -1,17 +1,16 @@
-Fenestella tetratrupha (Berk. & Broome) Sacc., 1883 SPECIES
-=======
+# Fenestella minor Tul. & C. Tul., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 326 (1883)
+Select. fung. carpol. (Paris) 2: 217 (1863)
 
 #### Original name
-null
+Fenestella minor Tul. & C. Tul., 1863
 
 ### Remarks
 null

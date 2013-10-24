@@ -1,5 +1,4 @@
-Lecanora quadrilocularis Nyl. SPECIES
-=======
+# Lecanora quadrilocularis Nyl. SPECIES
 
 #### Status
 ACCEPTED

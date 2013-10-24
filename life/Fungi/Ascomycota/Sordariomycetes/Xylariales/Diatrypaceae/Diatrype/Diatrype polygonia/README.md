@@ -1,5 +1,4 @@
-Diatrype polygonia Rehm SPECIES
-=======
+# Diatrype polygonia Rehm SPECIES
 
 #### Status
 ACCEPTED

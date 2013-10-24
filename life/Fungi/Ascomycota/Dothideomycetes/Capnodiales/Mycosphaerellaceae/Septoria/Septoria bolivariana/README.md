@@ -1,5 +1,4 @@
-Septoria bolivariana Caball. SPECIES
-=======
+# Septoria bolivariana Caball. SPECIES
 
 #### Status
 ACCEPTED

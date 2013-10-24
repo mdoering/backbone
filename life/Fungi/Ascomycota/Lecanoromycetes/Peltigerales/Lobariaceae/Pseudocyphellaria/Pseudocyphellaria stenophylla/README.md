@@ -1,14 +1,13 @@
-Sticta stenophylla Müll. Arg. SPECIES
-=======
+# Pseudocyphellaria stenophylla (Müll. Arg.) D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 17(3): 306 (1985)
 
 #### Original name
 Sticta stenophylla Müll. Arg.

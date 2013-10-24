@@ -1,5 +1,4 @@
-Phoma subglobosa Speg. SPECIES
-=======
+# Phoma subglobosa Speg. SPECIES
 
 #### Status
 ACCEPTED

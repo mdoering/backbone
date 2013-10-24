@@ -1,5 +1,4 @@
-Passalora ruthenica (Petr.) Petr. SPECIES
-=======
+# Passalora ruthenica (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

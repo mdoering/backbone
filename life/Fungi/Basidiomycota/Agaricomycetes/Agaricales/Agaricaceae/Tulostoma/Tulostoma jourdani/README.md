@@ -1,5 +1,4 @@
-Tulostoma jourdani Pat. SPECIES
-=======
+# Tulostoma jourdani Pat. SPECIES
 
 #### Status
 ACCEPTED

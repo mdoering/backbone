@@ -1,5 +1,4 @@
-Cucurbitaria coremae Ellis & Everh. SPECIES
-=======
+# Cucurbitaria coremae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

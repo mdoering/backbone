@@ -1,5 +1,4 @@
-Ramularia cercidis H. Zhang & Z.Y. Zhang SPECIES
-=======
+# Ramularia cercidis H. Zhang & Z.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

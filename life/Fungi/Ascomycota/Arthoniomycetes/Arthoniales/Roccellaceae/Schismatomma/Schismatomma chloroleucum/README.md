@@ -1,5 +1,4 @@
-Schismatomma chloroleucum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Schismatomma chloroleucum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

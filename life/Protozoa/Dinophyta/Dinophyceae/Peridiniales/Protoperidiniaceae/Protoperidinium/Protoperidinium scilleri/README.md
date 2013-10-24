@@ -1,5 +1,4 @@
-Protoperidinium scilleri (Paulsen) Balech SPECIES
-=======
+# Protoperidinium scilleri (Paulsen) Balech SPECIES
 
 #### Status
 ACCEPTED

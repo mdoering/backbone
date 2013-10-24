@@ -1,5 +1,4 @@
-Mycena constans Peck SPECIES
-=======
+# Mycena constans Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balansia nigricans (Speg.) J.F. White, T.E. Drake & T.I. Martin SPECIES
-=======
+# Balansia nigricans (Speg.) J.F. White, T.E. Drake & T.I. Martin SPECIES
 
 #### Status
 ACCEPTED

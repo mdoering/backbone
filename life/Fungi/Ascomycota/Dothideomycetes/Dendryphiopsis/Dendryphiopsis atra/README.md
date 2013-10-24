@@ -1,14 +1,13 @@
-Dendryphion atrum Corda, 1840 SPECIES
-=======
+# Dendryphiopsis atra (Corda) S. Hughes, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 4: 33 (1840)
+Can. J. Bot. 31: 655 (1953)
 
 #### Original name
 Dendryphion atrum Corda, 1840

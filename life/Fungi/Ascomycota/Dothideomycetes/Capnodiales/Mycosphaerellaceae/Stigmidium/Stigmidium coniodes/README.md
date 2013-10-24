@@ -1,5 +1,4 @@
-Stigmidium coniodes (Nyl.) Triebel SPECIES
-=======
+# Stigmidium coniodes (Nyl.) Triebel SPECIES
 
 #### Status
 ACCEPTED

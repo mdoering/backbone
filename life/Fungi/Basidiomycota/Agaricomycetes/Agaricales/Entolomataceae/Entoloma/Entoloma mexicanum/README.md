@@ -1,5 +1,4 @@
-Entoloma mexicanum (Murrill) Hesler SPECIES
-=======
+# Entoloma mexicanum (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ampullaviridae FAMILY
-=======
+# Ampullaviridae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo receptaculi F. Strauss SPECIES
-=======
+# Uredo receptaculi F. Strauss SPECIES
 
 #### Status
 ACCEPTED

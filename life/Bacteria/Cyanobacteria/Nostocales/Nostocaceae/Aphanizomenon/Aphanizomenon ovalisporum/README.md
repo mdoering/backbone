@@ -1,5 +1,4 @@
-Aphanizomenon ovalisporum Forti SPECIES
-=======
+# Aphanizomenon ovalisporum Forti SPECIES
 
 #### Status
 ACCEPTED

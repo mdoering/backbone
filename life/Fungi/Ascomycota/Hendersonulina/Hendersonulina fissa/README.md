@@ -1,5 +1,4 @@
-Hendersonulina fissa (Fr.) Tassi SPECIES
-=======
+# Hendersonulina fissa (Fr.) Tassi SPECIES
 
 #### Status
 ACCEPTED

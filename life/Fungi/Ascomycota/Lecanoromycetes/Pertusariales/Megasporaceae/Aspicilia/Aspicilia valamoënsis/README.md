@@ -1,8 +1,7 @@
-Aspicilia valamoensis Vain. SPECIES
-=======
+# Aspicilia valamoënsis Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia valamoensis Vain.
+Aspicilia valamoënsis Vain.
 
 ### Remarks
 null

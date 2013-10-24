@@ -1,5 +1,4 @@
-Phomatospora oryzopsidis Sousa da Câmara SPECIES
-=======
+# Phomatospora oryzopsidis Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

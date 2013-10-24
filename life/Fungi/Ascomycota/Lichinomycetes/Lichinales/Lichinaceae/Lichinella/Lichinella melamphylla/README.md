@@ -1,5 +1,4 @@
-Lichinella melamphylla (Tuck.) Essl. SPECIES
-=======
+# Lichinella melamphylla (Tuck.) Essl. SPECIES
 
 #### Status
 ACCEPTED

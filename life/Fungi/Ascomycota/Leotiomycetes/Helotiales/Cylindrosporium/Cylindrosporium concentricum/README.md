@@ -1,17 +1,16 @@
-Cylindrosporium concentricum var. concentricum VARIETY
-=======
+# Cylindrosporium concentricum Unger, 1833 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Scott. crypt. fl. (Edinburgh) 1: tab. 27 (1822)
+null
 
 #### Original name
-Cylindrosporium concentricum var. concentricum
+Cylindrosporium concentricum Unger, 1833
 
 ### Remarks
 null

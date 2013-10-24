@@ -1,5 +1,4 @@
-Zavodovskina Brönnimann & Whittaker, 1988 GENUS
-=======
+# Zavodovskina Brönnimann & Whittaker, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Eleutheris guaduae Viégas, 1945 SPECIES
-=======
+# Ellula guaduae (Viégas) Nag Raj, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bragantia 5: 735 (1945)
+Can. J. Bot. 58(18): 2014 (1980)
 
 #### Original name
 Eleutheris guaduae Viégas, 1945

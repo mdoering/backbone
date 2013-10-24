@@ -1,5 +1,4 @@
-Tiarina levigata Kofoid & Campbell, 1929 SPECIES
-=======
+# Tiarina levigata Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

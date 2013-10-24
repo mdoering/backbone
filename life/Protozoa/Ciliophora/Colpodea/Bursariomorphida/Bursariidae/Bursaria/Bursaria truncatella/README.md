@@ -1,5 +1,4 @@
-Bursaria truncatella Muller, 1773 SPECIES
-=======
+# Bursaria truncatella Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

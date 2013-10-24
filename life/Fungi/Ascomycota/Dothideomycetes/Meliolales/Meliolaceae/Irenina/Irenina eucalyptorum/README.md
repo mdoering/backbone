@@ -1,5 +1,4 @@
-Irenina eucalyptorum Hansf. SPECIES
-=======
+# Irenina eucalyptorum Hansf. SPECIES
 
 #### Status
 ACCEPTED

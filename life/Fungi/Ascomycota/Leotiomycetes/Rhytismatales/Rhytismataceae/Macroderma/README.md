@@ -1,5 +1,4 @@
-Macroderma von Höhnel, 1917 GENUS
-=======
+# Macroderma von Höhnel, 1917 GENUS
 
 #### Status
 ACCEPTED

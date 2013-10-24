@@ -1,5 +1,4 @@
-Microdiplodia centrophila (Pass.) Tassi SPECIES
-=======
+# Microdiplodia centrophila (Pass.) Tassi SPECIES
 
 #### Status
 ACCEPTED

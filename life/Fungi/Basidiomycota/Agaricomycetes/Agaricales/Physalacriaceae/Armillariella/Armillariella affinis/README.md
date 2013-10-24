@@ -1,5 +1,4 @@
-Armillariella affinis Singer SPECIES
-=======
+# Armillariella affinis Singer SPECIES
 
 #### Status
 ACCEPTED

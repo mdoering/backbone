@@ -1,5 +1,4 @@
-Gloniella scortechiniana Sacc. & Roum. SPECIES
-=======
+# Gloniella scortechiniana Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dichomera juglandis Ellis & Everh. SPECIES
-=======
+# Dichomera juglandis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboea reticulatum SPECIES
-=======
+# Laboea reticulatum SPECIES
 
 #### Status
 ACCEPTED

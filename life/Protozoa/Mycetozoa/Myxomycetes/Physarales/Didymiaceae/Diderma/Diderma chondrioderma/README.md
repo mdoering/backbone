@@ -1,17 +1,16 @@
-Didymium chondroderma de Bary & Rostaf. SPECIES
-=======
+# Diderma chondrioderma (de Bary & Rostaf.) G. Lister, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 465 (1898)
 
 #### Original name
-Didymium chondroderma de Bary & Rostaf.
+Didymium chondrioderma de Bary & Rostaf., 1872
 
 ### Remarks
 null

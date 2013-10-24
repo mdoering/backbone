@@ -1,5 +1,4 @@
-Lecidea sancti-paulii SPECIES
-=======
+# Lecidea sancti-paulii SPECIES
 
 #### Status
 ACCEPTED

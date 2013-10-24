@@ -1,5 +1,4 @@
-Glomerularia GENUS
-=======
+# Glomerularia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Depazea tremulaecola DC. SPECIES
-=======
+# Depazea tremulaecola DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cicinnobolus abelmoschi Bubák SPECIES
-=======
+# Cicinobolus abelmoschi Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus abelmoschi Bubák
+Cicinobolus abelmoschi Bubák
 
 ### Remarks
 null

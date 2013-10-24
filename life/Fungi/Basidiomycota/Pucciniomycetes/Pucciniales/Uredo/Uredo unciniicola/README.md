@@ -1,5 +1,4 @@
-Uredo unciniicola Cummins SPECIES
-=======
+# Uredo unciniicola Cummins SPECIES
 
 #### Status
 ACCEPTED

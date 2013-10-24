@@ -1,5 +1,4 @@
-Bryopogon bicolor f. bicolor FORM
-=======
+# Bryopogon bicolor SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bryopogon bicolor f. bicolor
+null
 
 ### Remarks
 null

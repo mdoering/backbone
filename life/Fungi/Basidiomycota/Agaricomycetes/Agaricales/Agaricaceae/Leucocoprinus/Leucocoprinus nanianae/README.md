@@ -1,5 +1,4 @@
-Leucocoprinus nanianae Bouriquet SPECIES
-=======
+# Leucocoprinus nanianae Bouriquet SPECIES
 
 #### Status
 ACCEPTED

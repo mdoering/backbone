@@ -1,5 +1,4 @@
-Hyphoderma cinnamomeum Jülich, 1978 SPECIES
-=======
+# Hyphoderma cinnamomeum Jülich, 1978 SPECIES
 
 #### Status
 ACCEPTED

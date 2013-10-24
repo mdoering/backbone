@@ -1,5 +1,4 @@
-Methylocaldum tepidum Bodrossy et al., 1998 SPECIES
-=======
+# Methylocaldum tepidum Bodrossy et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

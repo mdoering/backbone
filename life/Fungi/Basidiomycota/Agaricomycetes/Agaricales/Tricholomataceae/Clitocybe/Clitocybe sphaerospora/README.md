@@ -1,5 +1,4 @@
-Clitocybe sphaerospora Peck SPECIES
-=======
+# Clitocybe sphaerospora Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe orizabensis Murrill SPECIES
-=======
+# Psilocybe orizabensis Murrill SPECIES
 
 #### Status
 ACCEPTED

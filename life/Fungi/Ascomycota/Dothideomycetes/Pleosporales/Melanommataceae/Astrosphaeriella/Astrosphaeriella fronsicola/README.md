@@ -1,5 +1,4 @@
-Astrosphaeriella fronsicola J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Astrosphaeriella fronsicola J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

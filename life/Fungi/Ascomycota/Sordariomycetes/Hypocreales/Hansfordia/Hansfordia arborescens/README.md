@@ -1,5 +1,4 @@
-Hansfordia arborescens (Penz. & Sacc.) S. Hughes SPECIES
-=======
+# Hansfordia arborescens (Penz. & Sacc.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

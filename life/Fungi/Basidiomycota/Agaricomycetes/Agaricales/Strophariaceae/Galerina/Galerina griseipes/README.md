@@ -1,5 +1,4 @@
-Galerina griseipes Kühner SPECIES
-=======
+# Galerina griseipes Kühner SPECIES
 
 #### Status
 ACCEPTED

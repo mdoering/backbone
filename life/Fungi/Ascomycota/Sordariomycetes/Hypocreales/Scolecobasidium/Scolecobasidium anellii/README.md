@@ -1,14 +1,13 @@
-Ochroconis anelii (Graniti) de Hoog & Arx SPECIES
-=======
+# Scolecobasidium anellii Graniti, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+G. bot. ital. 69(4-6): 364 (1963)
 
 #### Original name
 Scolecobasidium anellii Graniti, 1963

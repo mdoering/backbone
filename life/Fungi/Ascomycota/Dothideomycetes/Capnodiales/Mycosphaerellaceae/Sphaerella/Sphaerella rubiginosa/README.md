@@ -1,5 +1,4 @@
-Sphaerella rubiginosa Cooke SPECIES
-=======
+# Sphaerella rubiginosa Cooke SPECIES
 
 #### Status
 ACCEPTED

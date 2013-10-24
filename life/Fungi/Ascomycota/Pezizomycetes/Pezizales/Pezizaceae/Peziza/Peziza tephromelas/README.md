@@ -1,5 +1,4 @@
-Peziza tephromelas Pass. SPECIES
-=======
+# Peziza tephromelas Pass. SPECIES
 
 #### Status
 ACCEPTED

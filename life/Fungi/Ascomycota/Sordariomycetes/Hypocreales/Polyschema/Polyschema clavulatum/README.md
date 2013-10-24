@@ -1,14 +1,13 @@
-Polyschema clavulata (Cooke & Harkn.) M.B. Ellis SPECIES
-=======
+# Polyschema clavulatum (Cooke & Harkn.) M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+More Dematiaceous Hyphomycetes (Kew) 370 (1976)
 
 #### Original name
 Bactrodesmium clavulatum Cooke & Harkn., 1884

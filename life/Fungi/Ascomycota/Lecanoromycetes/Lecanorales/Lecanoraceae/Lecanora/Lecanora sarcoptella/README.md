@@ -1,5 +1,4 @@
-Lecanora sarcoptella Nyl. SPECIES
-=======
+# Lecanora sarcoptella Nyl. SPECIES
 
 #### Status
 ACCEPTED

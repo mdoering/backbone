@@ -1,5 +1,4 @@
-Diplodiella (P. Karsten) Saccardo, 1884 GENUS
-=======
+# Diplodiella (P. Karsten) Saccardo, 1884 GENUS
 
 #### Status
 ACCEPTED

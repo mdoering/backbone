@@ -1,5 +1,4 @@
-Cyfstofilobasidiaceae FAMILY
-=======
+# Cyfstofilobasidiaceae FAMILY
 
 #### Status
 ACCEPTED

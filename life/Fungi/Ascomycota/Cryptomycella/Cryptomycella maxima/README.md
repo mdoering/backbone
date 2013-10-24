@@ -1,5 +1,4 @@
-Cryptomycella maxima Höhn. SPECIES
-=======
+# Cryptomycella maxima Höhn. SPECIES
 
 #### Status
 ACCEPTED

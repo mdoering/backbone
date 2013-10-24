@@ -1,5 +1,4 @@
-Entoloma strictius var. strictius VARIETY
-=======
+# Entoloma strictius (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 698 (1887)
 
 #### Original name
-Entoloma strictius var. strictius
+Agaricus strictior Peck
 
 ### Remarks
 null

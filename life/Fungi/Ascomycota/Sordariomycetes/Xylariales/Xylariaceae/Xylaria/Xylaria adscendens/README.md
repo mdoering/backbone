@@ -1,5 +1,4 @@
-Xylaria adscendens Fr. SPECIES
-=======
+# Xylaria adscendens Fr. SPECIES
 
 #### Status
 ACCEPTED

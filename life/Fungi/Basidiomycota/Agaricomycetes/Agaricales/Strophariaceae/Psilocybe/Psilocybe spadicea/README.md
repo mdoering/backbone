@@ -1,11 +1,10 @@
-Psilocybe spadicea var. spadicea VARIETY
-=======
+# Psilocybe spadicea SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null

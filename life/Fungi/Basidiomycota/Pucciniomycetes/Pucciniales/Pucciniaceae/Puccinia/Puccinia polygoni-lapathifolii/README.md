@@ -1,5 +1,4 @@
-Puccinia polygoni-lapathifolii Liou {?} & Wang {?} SPECIES
-=======
+# Puccinia polygoni-lapathifolii Liou {?} & Wang {?} SPECIES
 
 #### Status
 ACCEPTED

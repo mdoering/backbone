@@ -1,5 +1,4 @@
-Septoria ascophylli Melnik & M. Petrov, 1966 SPECIES
-=======
+# Septoria ascophylli Melnik & M. Petrov, 1966 SPECIES
 
 #### Status
 ACCEPTED

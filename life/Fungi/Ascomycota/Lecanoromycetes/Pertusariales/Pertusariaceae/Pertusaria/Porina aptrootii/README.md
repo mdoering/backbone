@@ -1,5 +1,4 @@
-Porina aptrootii P.M. McCarthy, 1993 SPECIES
-=======
+# Porina aptrootii P.M. McCarthy, 1993 SPECIES
 
 #### Status
 DOUBTFUL

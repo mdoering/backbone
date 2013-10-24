@@ -1,5 +1,4 @@
-Trichothelium montanum Lücking SPECIES
-=======
+# Trichothelium montanum Lücking SPECIES
 
 #### Status
 ACCEPTED

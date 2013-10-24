@@ -1,5 +1,4 @@
-Isaria subsimplex Schumach. SPECIES
-=======
+# Isaria subsimplex Schumach. SPECIES
 
 #### Status
 ACCEPTED

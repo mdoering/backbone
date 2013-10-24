@@ -1,5 +1,4 @@
-Rhizopus acidus Yosh. Yamam. SPECIES
-=======
+# Rhizopus acidus Yosh. Yamam. SPECIES
 
 #### Status
 ACCEPTED

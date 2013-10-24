@@ -1,5 +1,4 @@
-Paracoccus homiensis Kim, Weon, Yoo, Kwon, Cho, Stackebrandt & Go, 2006 SPECIES
-=======
+# Paracoccus homiensis Kim, Weon, Yoo, Kwon, Cho, Stackebrandt & Go, 2006 SPECIES
 
 #### Status
 ACCEPTED

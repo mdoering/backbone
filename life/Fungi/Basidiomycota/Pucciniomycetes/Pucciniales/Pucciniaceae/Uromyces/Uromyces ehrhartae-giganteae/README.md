@@ -1,17 +1,16 @@
-Uromyces ehrhartae-gigantae Doidge SPECIES
-=======
+# Uromyces ehrhartae-giganteae Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 2(1a): 47 (1926)
 
 #### Original name
-Uromyces ehrhartae-gigantae Doidge
+Uromyces ehrhartae-giganteae Doidge
 
 ### Remarks
 null

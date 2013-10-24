@@ -1,5 +1,4 @@
-Agaricus myodes Schaeff. SPECIES
-=======
+# Agaricus myodes Schaeff. SPECIES
 
 #### Status
 ACCEPTED

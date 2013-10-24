@@ -1,5 +1,4 @@
-Pannaria psotina (Fr.) Leight. SPECIES
-=======
+# Pannaria psotina (Fr.) Leight. SPECIES
 
 #### Status
 ACCEPTED

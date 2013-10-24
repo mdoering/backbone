@@ -1,5 +1,4 @@
-Catillaria atropurpurea f. atropurpurea FORM
-=======
+# Catinaria atropurpurea (Schaer.) Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Lich. Scand. (Uppsala) 1: 565 (1874)
+in Poelt & Vezda, Biblthca Lichenol. 16: 363 (1981)
 
 #### Original name
-Catillaria atropurpurea f. atropurpurea
+Lecidea sphaeroides var. atropurpurea Schaer.
 
 ### Remarks
 null

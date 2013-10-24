@@ -1,8 +1,7 @@
-Porodothion rufofuscum (Eschw.) Trevis. SPECIES
-=======
+# Porothelium rufofuscum Eschw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

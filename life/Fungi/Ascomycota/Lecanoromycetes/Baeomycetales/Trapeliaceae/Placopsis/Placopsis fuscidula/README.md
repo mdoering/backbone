@@ -1,5 +1,4 @@
-Placopsis fuscidula I.M. Lamb SPECIES
-=======
+# Placopsis fuscidula I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

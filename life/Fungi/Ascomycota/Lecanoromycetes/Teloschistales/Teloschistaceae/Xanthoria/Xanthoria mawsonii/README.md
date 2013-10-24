@@ -1,5 +1,4 @@
-Xanthoria mawsonii C.W. Dodge SPECIES
-=======
+# Xanthoria mawsonii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora rudbeckiae Kirchn. SPECIES
-=======
+# Pleospora rudbeckiae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

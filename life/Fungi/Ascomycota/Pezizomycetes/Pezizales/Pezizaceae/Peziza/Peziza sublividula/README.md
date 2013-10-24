@@ -1,5 +1,4 @@
-Peziza sublividula Nyl. SPECIES
-=======
+# Peziza sublividula Nyl. SPECIES
 
 #### Status
 ACCEPTED

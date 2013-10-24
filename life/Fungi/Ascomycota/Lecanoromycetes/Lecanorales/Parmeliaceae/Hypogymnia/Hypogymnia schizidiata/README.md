@@ -1,5 +1,4 @@
-Hypogymnia schizidiata McCune SPECIES
-=======
+# Hypogymnia schizidiata McCune SPECIES
 
 #### Status
 ACCEPTED

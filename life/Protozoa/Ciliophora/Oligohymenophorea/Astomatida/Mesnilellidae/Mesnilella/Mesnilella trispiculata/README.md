@@ -1,5 +1,4 @@
-Mesnilella trispiculata SPECIES
-=======
+# Mesnilella trispiculata SPECIES
 
 #### Status
 ACCEPTED

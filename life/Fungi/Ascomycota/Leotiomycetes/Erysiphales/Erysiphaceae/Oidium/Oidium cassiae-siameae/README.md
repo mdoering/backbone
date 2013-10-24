@@ -1,5 +1,4 @@
-Oidium cassiae-siameae var. cassiae-siameae VARIETY
-=======
+# Oidium cassiae-siameae Hosag., Vijay., Udaiyan & Manian SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Cahiers Pacif. 11: 88 (1967)
 
 #### Original name
-Oidium cassiae-siameae var. cassiae-siameae
+Oidium cassiae-siameae Hosag., Vijay., Udaiyan & Manian
 
 ### Remarks
 null

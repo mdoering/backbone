@@ -1,5 +1,4 @@
-Leptostromella maculans (Lib.) Verpl. & Van den Broecke SPECIES
-=======
+# Leptostromella maculans (Lib.) Verpl. & Van den Broecke SPECIES
 
 #### Status
 ACCEPTED

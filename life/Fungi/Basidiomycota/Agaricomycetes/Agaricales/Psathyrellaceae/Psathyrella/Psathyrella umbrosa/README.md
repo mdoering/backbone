@@ -1,5 +1,4 @@
-Psathyrella umbrosa A.H. Sm. SPECIES
-=======
+# Psathyrella umbrosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

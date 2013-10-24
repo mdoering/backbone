@@ -1,5 +1,4 @@
-Cymatiogalea margaritata Deunff, 1961 SPECIES
-=======
+# Cymatiogalea margaritata Deunff, 1961 SPECIES
 
 #### Status
 ACCEPTED

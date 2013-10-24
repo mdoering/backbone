@@ -1,5 +1,4 @@
-Fragilaria martyi (Héribaud) Lange-Bertalot SPECIES
-=======
+# Fragilaria martyi (Héribaud) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

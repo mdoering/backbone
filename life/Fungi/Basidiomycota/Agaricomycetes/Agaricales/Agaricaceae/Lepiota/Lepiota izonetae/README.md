@@ -1,5 +1,4 @@
-Lepiota izonetae Singer SPECIES
-=======
+# Lepiota izonetae Singer SPECIES
 
 #### Status
 ACCEPTED

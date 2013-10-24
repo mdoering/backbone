@@ -1,5 +1,4 @@
-Opisteria tropica (Müll. Arg.) Vain. SPECIES
-=======
+# Opisteria tropica (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

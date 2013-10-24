@@ -1,5 +1,4 @@
-Pelagocystis oceanica Lohmann SPECIES
-=======
+# Pelagocystis oceanica Lohmann SPECIES
 
 #### Status
 ACCEPTED

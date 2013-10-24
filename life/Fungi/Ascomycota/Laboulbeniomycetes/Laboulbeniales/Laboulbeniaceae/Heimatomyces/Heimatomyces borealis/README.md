@@ -1,5 +1,4 @@
-Heimatomyces borealis Thaxt. SPECIES
-=======
+# Heimatomyces borealis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyopanus GENUS
-=======
+# Dictyopanus GENUS
 
 #### Status
 ACCEPTED

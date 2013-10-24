@@ -1,5 +1,4 @@
-Pseudarthopyrenia bayeriana Servít SPECIES
-=======
+# Pseudarthopyrenia bayeriana Servít SPECIES
 
 #### Status
 ACCEPTED

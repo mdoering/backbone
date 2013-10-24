@@ -1,5 +1,4 @@
-Gorgonisphaeridium fui (Fensome et al., 1990) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Gorgonisphaeridium fui (Fensome et al., 1990) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

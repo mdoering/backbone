@@ -1,5 +1,4 @@
-Corticium camelinum Bres. SPECIES
-=======
+# Corticium camelinum Bres. SPECIES
 
 #### Status
 ACCEPTED

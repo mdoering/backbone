@@ -1,5 +1,4 @@
-Synsphaeridium sorediforme (Timofeev, 1959 ex Downie & Sarjeant, 1965) Timofeev, 1969 SPECIES
-=======
+# Synsphaeridium sorediforme (Timofeev, 1959 ex Downie & Sarjeant, 1965) Timofeev, 1969 SPECIES
 
 #### Status
 ACCEPTED

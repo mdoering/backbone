@@ -1,5 +1,4 @@
-Sphaeronaema caminus Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeronaema caminus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

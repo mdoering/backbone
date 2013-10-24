@@ -1,5 +1,4 @@
-Ramalina arabum f. arabum FORM
-=======
+# Ramalina arabum (Dill. ex Ach.) Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nova Acta Acad. Caes. Leop. -Carol. Nat. Cur. 19(suppl. ): 212 (1843)
 
 #### Original name
-Ramalina arabum f. arabum
+Usnea arabum Dill. ex Ach.
 
 ### Remarks
 null

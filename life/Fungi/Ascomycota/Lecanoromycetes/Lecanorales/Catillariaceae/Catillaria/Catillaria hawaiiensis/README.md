@@ -1,5 +1,4 @@
-Catillaria hawaiiensis H. Magn. SPECIES
-=======
+# Catillaria hawaiiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

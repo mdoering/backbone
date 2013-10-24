@@ -1,5 +1,4 @@
-Desulfobacter vibrioformis Lien & Beeder, 1997 SPECIES
-=======
+# Desulfobacter vibrioformis Lien & Beeder, 1997 SPECIES
 
 #### Status
 ACCEPTED

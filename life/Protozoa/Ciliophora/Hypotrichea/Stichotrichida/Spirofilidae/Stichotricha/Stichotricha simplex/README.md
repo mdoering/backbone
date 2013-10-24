@@ -1,5 +1,4 @@
-Stichotricha simplex Kahl, 1932 SPECIES
-=======
+# Stichotricha simplex Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

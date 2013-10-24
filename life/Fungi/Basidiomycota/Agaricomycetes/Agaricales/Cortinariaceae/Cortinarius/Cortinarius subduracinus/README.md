@@ -1,5 +1,4 @@
-Cortinarius subduracinus subsp. subduracinus SUBSPECIES
-=======
+# Cortinarius subduracinus Rob. Henry ex Bidaud & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Bidaud, Moënne-Loccoz, Reumaux, Carteret & Eyssartier, Atlas des Cortinaires (Meyzieu) 17(1): 1177 (2008)
 
 #### Original name
-Cortinarius subduracinus subsp. subduracinus
+Cortinarius subduracinus Rob. Henry ex Bidaud & Moënne-Locc.
 
 ### Remarks
 null

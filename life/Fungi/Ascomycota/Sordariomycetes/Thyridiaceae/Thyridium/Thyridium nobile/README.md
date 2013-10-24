@@ -1,5 +1,4 @@
-Thyridium nobile Petr. SPECIES
-=======
+# Thyridium nobile Petr. SPECIES
 
 #### Status
 ACCEPTED

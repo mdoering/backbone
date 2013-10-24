@@ -1,5 +1,4 @@
-Coscinodiscus flexuosus J. Brun SPECIES
-=======
+# Coscinodiscus flexuosus J. Brun SPECIES
 
 #### Status
 ACCEPTED

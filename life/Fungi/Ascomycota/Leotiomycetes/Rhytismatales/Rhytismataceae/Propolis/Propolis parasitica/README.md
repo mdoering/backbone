@@ -1,5 +1,4 @@
-Propolis parasitica (Ellis & Everh.) Sacc. SPECIES
-=======
+# Propolis parasitica (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

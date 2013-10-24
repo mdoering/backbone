@@ -1,14 +1,13 @@
-Sporisorium bicornis (Henn.) Vánky SPECIES
-=======
+# Sporisorium bicorne (Henn.) Vánky SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 59: 103 (1996)
 
 #### Original name
 Ustilago bicornis Henn.

@@ -1,5 +1,4 @@
-Stropharia alcis var. alcis VARIETY
-=======
+# Stropharia alcis Kytöv. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Karstenia 39(1): 17 (1999)
 
 #### Original name
-Stropharia alcis var. alcis
+Stropharia alcis Kytöv.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Murogenella Goos & E.F. Morris GENUS
-=======
+# Coryneum Nees, 1816 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycologia 57(5): 776 (1965)
+null
 
 #### Original name
-Murogenella Goos & E.F. Morris
+null
 
 ### Remarks
 null

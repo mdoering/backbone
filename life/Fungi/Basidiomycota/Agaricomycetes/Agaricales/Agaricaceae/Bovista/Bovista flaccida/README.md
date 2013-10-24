@@ -1,5 +1,4 @@
-Bovista flaccida (Lloyd) Kreisel SPECIES
-=======
+# Bovista flaccida (Lloyd) Kreisel SPECIES
 
 #### Status
 ACCEPTED

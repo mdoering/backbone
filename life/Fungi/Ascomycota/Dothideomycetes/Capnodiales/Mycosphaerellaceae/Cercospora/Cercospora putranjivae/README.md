@@ -1,5 +1,4 @@
-Cercospora putranjivae S.N. Khan, B.M. Misra & Rehill SPECIES
-=======
+# Cercospora putranjivae S.N. Khan, B.M. Misra & Rehill SPECIES
 
 #### Status
 ACCEPTED

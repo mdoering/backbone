@@ -1,5 +1,4 @@
-Pedomicrobium Aristovskaya, 1961 GENUS
-=======
+# Pedomicrobium Aristovskaya, 1961 GENUS
 
 #### Status
 ACCEPTED

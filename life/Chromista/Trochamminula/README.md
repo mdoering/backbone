@@ -1,5 +1,4 @@
-Trochamminula Shchedrina, 1955 GENUS
-=======
+# Trochamminula Shchedrina, 1955 GENUS
 
 #### Status
 ACCEPTED

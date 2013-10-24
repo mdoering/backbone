@@ -1,5 +1,4 @@
-Agaricus nemophilus Fr. SPECIES
-=======
+# Agaricus nemophilus Fr. SPECIES
 
 #### Status
 ACCEPTED

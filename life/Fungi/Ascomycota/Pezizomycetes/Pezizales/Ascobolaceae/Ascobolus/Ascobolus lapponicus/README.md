@@ -1,5 +1,4 @@
-Ascobolus lapponicus P. Karst. SPECIES
-=======
+# Ascobolus lapponicus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

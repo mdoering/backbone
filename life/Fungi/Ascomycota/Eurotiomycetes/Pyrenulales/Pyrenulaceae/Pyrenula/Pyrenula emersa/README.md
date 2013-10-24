@@ -1,5 +1,4 @@
-Pyrenula emersa Malme SPECIES
-=======
+# Pyrenula emersa Malme SPECIES
 
 #### Status
 ACCEPTED

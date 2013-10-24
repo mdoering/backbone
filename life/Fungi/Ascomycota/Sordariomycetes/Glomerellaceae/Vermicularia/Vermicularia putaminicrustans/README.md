@@ -1,5 +1,4 @@
-Vermicularia putaminicrustans Fairm. SPECIES
-=======
+# Vermicularia putaminicrustans Fairm. SPECIES
 
 #### Status
 ACCEPTED

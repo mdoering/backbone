@@ -1,5 +1,4 @@
-Phyllostictina arecae (Höhn.) Petr. & Syd. SPECIES
-=======
+# Phyllostictina arecae (Höhn.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

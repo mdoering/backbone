@@ -1,5 +1,4 @@
-Peltula applanata (Zahlbr.) J.C. Wei SPECIES
-=======
+# Peltula applanata (Zahlbr.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

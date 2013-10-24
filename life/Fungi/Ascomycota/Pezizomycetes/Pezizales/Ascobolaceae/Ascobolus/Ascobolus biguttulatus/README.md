@@ -1,5 +1,4 @@
-Ascobolus biguttulatus Ranalli & Gamundí SPECIES
-=======
+# Ascobolus biguttulatus Ranalli & Gamundí SPECIES
 
 #### Status
 ACCEPTED

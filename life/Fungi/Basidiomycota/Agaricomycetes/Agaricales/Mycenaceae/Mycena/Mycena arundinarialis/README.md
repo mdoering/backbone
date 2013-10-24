@@ -1,5 +1,4 @@
-Mycena arundinarialis Pegler SPECIES
-=======
+# Mycena arundinarialis Pegler SPECIES
 
 #### Status
 ACCEPTED

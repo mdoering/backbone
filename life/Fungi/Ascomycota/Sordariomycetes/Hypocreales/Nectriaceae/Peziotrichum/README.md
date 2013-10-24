@@ -1,5 +1,4 @@
-Peziotrichum (Sacc.) Lindau GENUS
-=======
+# Peziotrichum (Sacc.) Lindau GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella apocynica Petr. SPECIES
-=======
+# Mycosphaerella apocynica Petr. SPECIES
 
 #### Status
 ACCEPTED

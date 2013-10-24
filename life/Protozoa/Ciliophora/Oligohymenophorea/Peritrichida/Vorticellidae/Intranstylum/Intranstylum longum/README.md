@@ -1,5 +1,4 @@
-Intranstylum longum Precht, 1935 SPECIES
-=======
+# Intranstylum longum Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

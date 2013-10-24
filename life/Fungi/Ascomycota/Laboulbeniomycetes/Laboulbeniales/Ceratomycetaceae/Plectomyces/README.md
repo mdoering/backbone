@@ -1,5 +1,4 @@
-Plectomyces Thaxt. GENUS
-=======
+# Plectomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

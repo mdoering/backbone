@@ -1,5 +1,4 @@
-Parmelia crocina Zenker SPECIES
-=======
+# Parmelia crocina Zenker SPECIES
 
 #### Status
 ACCEPTED

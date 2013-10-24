@@ -1,8 +1,7 @@
-Phyllitis fascia (O.F. Müller) Kützing SPECIES
-=======
+# Petalonia fascia (O.F. Müller) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

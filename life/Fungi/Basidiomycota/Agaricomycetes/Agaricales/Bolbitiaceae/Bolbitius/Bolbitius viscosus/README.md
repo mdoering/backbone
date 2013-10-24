@@ -1,5 +1,4 @@
-Bolbitius viscosus Watling SPECIES
-=======
+# Bolbitius viscosus Watling SPECIES
 
 #### Status
 ACCEPTED

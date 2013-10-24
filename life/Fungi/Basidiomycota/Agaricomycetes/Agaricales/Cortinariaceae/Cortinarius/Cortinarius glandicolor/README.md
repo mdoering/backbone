@@ -1,5 +1,4 @@
-Cortinarius glandicolor SPECIES
-=======
+# Cortinarius glandicolor SPECIES
 
 #### Status
 ACCEPTED

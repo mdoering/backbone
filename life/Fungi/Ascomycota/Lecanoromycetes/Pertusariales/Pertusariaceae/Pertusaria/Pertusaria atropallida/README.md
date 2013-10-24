@@ -1,5 +1,4 @@
-Pertusaria atropallida Vain. SPECIES
-=======
+# Pertusaria atropallida Vain. SPECIES
 
 #### Status
 ACCEPTED

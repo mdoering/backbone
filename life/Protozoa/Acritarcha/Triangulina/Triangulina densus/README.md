@@ -1,5 +1,4 @@
-Triangulina densus Sinha, Prasad & Srivastava, 1998 SPECIES
-=======
+# Triangulina densus Sinha, Prasad & Srivastava, 1998 SPECIES
 
 #### Status
 ACCEPTED

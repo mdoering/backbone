@@ -1,5 +1,4 @@
-Filaspora sceptri (P. Karst.) Kuntze SPECIES
-=======
+# Filaspora sceptri (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

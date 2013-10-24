@@ -1,5 +1,4 @@
-Georgefischeria mundkurii Gandhe & K. Gandhe, 2004 SPECIES
-=======
+# Georgefischeria mundkurii Gandhe & K. Gandhe, 2004 SPECIES
 
 #### Status
 ACCEPTED

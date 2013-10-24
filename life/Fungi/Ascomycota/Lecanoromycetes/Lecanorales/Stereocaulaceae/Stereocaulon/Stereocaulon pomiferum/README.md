@@ -1,5 +1,4 @@
-Stereocaulon pomiferum f. pomiferum P.A. Duvign. FORM
-=======
+# Stereocaulon pomiferum P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stereocaulon pomiferum f. pomiferum P.A. Duvign.
+Stereocaulon pomiferum P.A. Duvign.
 
 ### Remarks
 null

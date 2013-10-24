@@ -1,5 +1,4 @@
-Phacidium rehmii Feltgen SPECIES
-=======
+# Phacidium rehmii Feltgen SPECIES
 
 #### Status
 ACCEPTED

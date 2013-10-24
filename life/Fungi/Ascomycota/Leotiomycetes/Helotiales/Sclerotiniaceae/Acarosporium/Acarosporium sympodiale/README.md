@@ -1,5 +1,4 @@
-Acarosporium sympodiale Bubák & Vleugel, 1911 SPECIES
-=======
+# Acarosporium sympodiale Bubák & Vleugel, 1911 SPECIES
 
 #### Status
 ACCEPTED

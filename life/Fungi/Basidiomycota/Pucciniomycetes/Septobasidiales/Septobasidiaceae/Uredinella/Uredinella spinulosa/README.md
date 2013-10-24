@@ -1,17 +1,16 @@
-Septobasidium spinulosum (Couch & Petch) Wojewoda, 1981 SPECIES
-=======
+# Uredinella spinulosa Couch & Petch, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 33: 404 (1941)
 
 #### Original name
-null
+Uredinella spinulosa Couch & Petch, 1941
 
 ### Remarks
 null

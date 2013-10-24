@@ -1,5 +1,4 @@
-Paxillus amazonicus Singer SPECIES
-=======
+# Paxillus amazonicus Singer SPECIES
 
 #### Status
 ACCEPTED

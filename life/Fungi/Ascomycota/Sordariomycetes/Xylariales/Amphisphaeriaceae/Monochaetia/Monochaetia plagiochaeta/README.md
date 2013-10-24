@@ -1,5 +1,4 @@
-Monochaetia plagiochaeta (Sacc.) Sacc. & D. Sacc. SPECIES
-=======
+# Monochaetia plagiochaeta (Sacc.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

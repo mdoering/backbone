@@ -1,5 +1,4 @@
-Leiosphaeridia shepelevae Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia shepelevae Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

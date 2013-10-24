@@ -1,5 +1,4 @@
-Pleurotus floridanus Singer, 1946 SPECIES
-=======
+# Pleurotus floridanus Singer, 1946 SPECIES
 
 #### Status
 ACCEPTED

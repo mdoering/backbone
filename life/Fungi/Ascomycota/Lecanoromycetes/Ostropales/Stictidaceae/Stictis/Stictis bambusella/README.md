@@ -1,5 +1,4 @@
-Stictis bambusella Höhn. SPECIES
-=======
+# Stictis bambusella Höhn. SPECIES
 
 #### Status
 ACCEPTED

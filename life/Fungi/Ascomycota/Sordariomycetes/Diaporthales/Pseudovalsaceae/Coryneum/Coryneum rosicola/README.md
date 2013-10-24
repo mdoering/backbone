@@ -1,5 +1,4 @@
-Coryneum rosicola Miura SPECIES
-=======
+# Coryneum rosicola Miura SPECIES
 
 #### Status
 ACCEPTED

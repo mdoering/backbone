@@ -1,5 +1,4 @@
-Phlebia diaphana Parmasto ex K.H. Larss. & Hjortstam, 1986 SPECIES
-=======
+# Phlebia diaphana Parmasto ex K.H. Larss. & Hjortstam, 1986 SPECIES
 
 #### Status
 ACCEPTED

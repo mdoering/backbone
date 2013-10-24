@@ -1,5 +1,4 @@
-Botrytis yuae Munt.-Cvetk. SPECIES
-=======
+# Botrytis yuae Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

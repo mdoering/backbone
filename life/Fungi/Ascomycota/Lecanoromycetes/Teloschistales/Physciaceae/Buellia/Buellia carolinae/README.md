@@ -1,5 +1,4 @@
-Buellia carolinae A. Massal. SPECIES
-=======
+# Buellia carolinae A. Massal. SPECIES
 
 #### Status
 ACCEPTED

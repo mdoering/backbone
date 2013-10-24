@@ -1,5 +1,4 @@
-Gymnopilus farinaceus Murrill SPECIES
-=======
+# Gymnopilus farinaceus Murrill SPECIES
 
 #### Status
 ACCEPTED

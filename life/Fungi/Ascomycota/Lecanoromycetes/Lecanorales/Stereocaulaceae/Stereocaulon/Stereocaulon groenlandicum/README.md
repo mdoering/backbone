@@ -1,5 +1,4 @@
-Stereocaulon groenlandicum (Å.E. Dahl) I.M. Lamb SPECIES
-=======
+# Stereocaulon groenlandicum (Å.E. Dahl) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

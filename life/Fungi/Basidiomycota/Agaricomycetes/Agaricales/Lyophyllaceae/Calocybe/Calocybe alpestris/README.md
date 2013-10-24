@@ -1,14 +1,13 @@
-Tricholoma alpestris (Britzelm.) Pilát SPECIES
-=======
+# Calocybe alpestris (Britzelm.) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 15: 47 (1962)
 
 #### Original name
 Agaricus alpestris Britzelm., 1891

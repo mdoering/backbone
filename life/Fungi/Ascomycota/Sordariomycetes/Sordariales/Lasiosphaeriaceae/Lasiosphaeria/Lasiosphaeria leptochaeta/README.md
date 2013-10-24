@@ -1,5 +1,4 @@
-Lasiosphaeria leptochaeta Kirschst. SPECIES
-=======
+# Lasiosphaeria leptochaeta Kirschst. SPECIES
 
 #### Status
 ACCEPTED

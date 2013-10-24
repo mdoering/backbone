@@ -1,5 +1,4 @@
-Sphaerella dactylidis f. matritensis Gonz. Frag. FORM
-=======
+# Sphaerella dactylidis Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella dactylidis f. matritensis Gonz. Frag.
+Sphaerella dactylidis Pass.
 
 ### Remarks
 null

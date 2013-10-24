@@ -1,5 +1,4 @@
-Inonotus rodwayi D.A. Reid, 1957 SPECIES
-=======
+# Inonotus rodwayi D.A. Reid, 1957 SPECIES
 
 #### Status
 ACCEPTED

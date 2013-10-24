@@ -1,5 +1,4 @@
-Trichosporum olivaceum (Link) Fr. SPECIES
-=======
+# Trichosporum olivaceum (Link) Fr. SPECIES
 
 #### Status
 ACCEPTED

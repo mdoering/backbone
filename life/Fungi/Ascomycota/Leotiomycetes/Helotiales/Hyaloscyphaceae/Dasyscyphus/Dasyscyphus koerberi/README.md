@@ -1,8 +1,7 @@
-Dasyscypha koerberi (Peyl) Sacc. & Traverso SPECIES
-=======
+# Dasyscyphus koerberi (Peyl) Sacc. & Traverso SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

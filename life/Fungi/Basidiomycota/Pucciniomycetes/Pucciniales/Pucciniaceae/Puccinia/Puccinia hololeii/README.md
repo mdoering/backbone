@@ -1,5 +1,4 @@
-Puccinia hololeii Tranzschel SPECIES
-=======
+# Puccinia hololeii Tranzschel SPECIES
 
 #### Status
 ACCEPTED

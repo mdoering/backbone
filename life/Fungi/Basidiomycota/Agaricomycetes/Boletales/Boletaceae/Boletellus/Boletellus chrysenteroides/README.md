@@ -1,5 +1,4 @@
-Boletellus chrysenteroides (Snell) Snell SPECIES
-=======
+# Boletellus chrysenteroides (Snell) Snell SPECIES
 
 #### Status
 ACCEPTED

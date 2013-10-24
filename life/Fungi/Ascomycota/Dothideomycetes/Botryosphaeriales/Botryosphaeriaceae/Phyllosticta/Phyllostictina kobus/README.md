@@ -1,5 +1,4 @@
-Phyllostictina kobus (Henn.) E. Müll. SPECIES
-=======
+# Phyllostictina kobus (Henn.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

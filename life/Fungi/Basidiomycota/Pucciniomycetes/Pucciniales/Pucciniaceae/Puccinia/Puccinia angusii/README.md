@@ -1,5 +1,4 @@
-Puccinia angusii Cummins SPECIES
-=======
+# Puccinia angusii Cummins SPECIES
 
 #### Status
 ACCEPTED

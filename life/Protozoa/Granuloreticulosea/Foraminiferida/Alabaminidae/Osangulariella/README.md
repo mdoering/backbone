@@ -1,5 +1,4 @@
-Osangulariella Saidova, 1975 GENUS
-=======
+# Osangulariella Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

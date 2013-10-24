@@ -1,5 +1,4 @@
-Gyalectidium ciliatum G. Thor, Lücking & Matsumoto SPECIES
-=======
+# Gyalectidium ciliatum G. Thor, Lücking & Matsumoto SPECIES
 
 #### Status
 ACCEPTED

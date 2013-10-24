@@ -1,5 +1,4 @@
-Prataprajella fusispora (W. Yamam.) B. Song & Y.X. Hu SPECIES
-=======
+# Prataprajella fusispora (W. Yamam.) B. Song & Y.X. Hu SPECIES
 
 #### Status
 ACCEPTED

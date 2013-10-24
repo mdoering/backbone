@@ -1,5 +1,4 @@
-Rhizocarpon bosniacum Zahlbr. SPECIES
-=======
+# Rhizocarpon bosniacum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

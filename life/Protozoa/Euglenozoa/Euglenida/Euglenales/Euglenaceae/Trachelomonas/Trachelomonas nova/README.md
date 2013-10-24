@@ -1,5 +1,4 @@
-Trachelomonas nova Drezepolski SPECIES
-=======
+# Trachelomonas nova Drezepolski SPECIES
 
 #### Status
 ACCEPTED

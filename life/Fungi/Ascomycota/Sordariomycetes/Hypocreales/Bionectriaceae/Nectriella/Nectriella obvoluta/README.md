@@ -1,5 +1,4 @@
-Nectriella obvoluta (P. Karst.) Rossman SPECIES
-=======
+# Nectriella obvoluta (P. Karst.) Rossman SPECIES
 
 #### Status
 ACCEPTED

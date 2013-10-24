@@ -1,5 +1,4 @@
-Cellularia reichardtii (Schulzer) Kuntze SPECIES
-=======
+# Cellularia reichardtii (Schulzer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

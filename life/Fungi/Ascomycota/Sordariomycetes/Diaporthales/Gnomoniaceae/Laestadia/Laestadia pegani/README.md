@@ -1,5 +1,4 @@
-Laestadia pegani Rostr. SPECIES
-=======
+# Laestadia pegani Rostr. SPECIES
 
 #### Status
 ACCEPTED

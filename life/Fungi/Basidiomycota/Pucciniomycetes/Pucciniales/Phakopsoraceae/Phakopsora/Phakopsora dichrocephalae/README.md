@@ -1,5 +1,4 @@
-Phakopsora dichrocephalae Syd. SPECIES
-=======
+# Phakopsora dichrocephalae Syd. SPECIES
 
 #### Status
 ACCEPTED

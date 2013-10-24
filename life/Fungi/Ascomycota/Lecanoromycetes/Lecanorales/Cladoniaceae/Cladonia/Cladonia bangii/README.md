@@ -1,5 +1,4 @@
-Cladonia bangii Ahti SPECIES
-=======
+# Cladonia bangii Ahti SPECIES
 
 #### Status
 ACCEPTED

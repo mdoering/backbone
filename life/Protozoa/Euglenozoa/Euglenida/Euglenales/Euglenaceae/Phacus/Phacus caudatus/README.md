@@ -1,5 +1,4 @@
-Phacus caudatus var. tenuis Swirenko VARIETY
-=======
+# Phacus caudatus Hübner SPECIES
 
 #### Status
 ACCEPTED

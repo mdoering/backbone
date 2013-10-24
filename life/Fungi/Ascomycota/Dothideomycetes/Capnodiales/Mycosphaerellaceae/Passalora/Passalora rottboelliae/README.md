@@ -1,5 +1,4 @@
-Passalora rottboelliae (J. Kranz) U. Braun & Crous SPECIES
-=======
+# Passalora rottboelliae (J. Kranz) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

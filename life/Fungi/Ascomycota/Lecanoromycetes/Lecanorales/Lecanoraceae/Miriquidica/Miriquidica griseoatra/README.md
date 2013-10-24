@@ -1,17 +1,16 @@
-Lecidea griseoatra var. griseoatra VARIETY
-=======
+# Miriquidica griseoatra (Flot.) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 23: 385 (1987)
 
 #### Original name
-Lecidea griseoatra var. griseoatra
+Lecidea contigua var. griseoatra Flot.
 
 ### Remarks
 null

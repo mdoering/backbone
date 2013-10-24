@@ -1,5 +1,4 @@
-Calopadia subfusca Kalb & Vezda SPECIES
-=======
+# Calopadia subfusca Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

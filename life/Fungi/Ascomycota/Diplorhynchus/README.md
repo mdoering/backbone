@@ -1,5 +1,4 @@
-Diplorhynchus Arnaud, 1952 GENUS
-=======
+# Diplorhynchus Arnaud, 1952 GENUS
 
 #### Status
 ACCEPTED

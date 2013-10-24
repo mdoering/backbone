@@ -1,5 +1,4 @@
-Diplodia tamarindica Sacc. SPECIES
-=======
+# Diplodia tamarindica Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella keratinolytica Dominik & Majchr. SPECIES
-=======
+# Volutella keratinolytica Dominik & Majchr. SPECIES
 
 #### Status
 ACCEPTED

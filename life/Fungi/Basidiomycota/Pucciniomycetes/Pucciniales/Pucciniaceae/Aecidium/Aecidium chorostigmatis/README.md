@@ -1,5 +1,4 @@
-Aecidium chorostigmatis Henn. SPECIES
-=======
+# Aecidium chorostigmatis Henn. SPECIES
 
 #### Status
 ACCEPTED

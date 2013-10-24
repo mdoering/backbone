@@ -1,5 +1,4 @@
-Psilocybe ochreata (Berk. & Broome) E. Horak SPECIES
-=======
+# Psilocybe ochreata (Berk. & Broome) E. Horak SPECIES
 
 #### Status
 ACCEPTED

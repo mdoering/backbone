@@ -1,5 +1,4 @@
-Zelleriella Metcalf, 1920 GENUS
-=======
+# Zelleriella Metcalf, 1920 GENUS
 
 #### Status
 ACCEPTED

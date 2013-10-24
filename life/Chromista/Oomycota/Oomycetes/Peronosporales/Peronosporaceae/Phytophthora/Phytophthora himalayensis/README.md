@@ -1,5 +1,4 @@
-Phytophthora himalayensis Dastur SPECIES
-=======
+# Phytophthora himalayensis Dastur SPECIES
 
 #### Status
 ACCEPTED

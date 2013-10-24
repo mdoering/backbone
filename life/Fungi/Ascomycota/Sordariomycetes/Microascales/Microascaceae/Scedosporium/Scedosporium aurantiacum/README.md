@@ -1,5 +1,4 @@
-Scedosporium aurantiacum ined. SPECIES
-=======
+# Scedosporium aurantiacum ined. SPECIES
 
 #### Status
 ACCEPTED

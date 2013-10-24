@@ -1,5 +1,4 @@
-Leccinum flavostipitatum E.A. Dick & Snell SPECIES
-=======
+# Leccinum flavostipitatum E.A. Dick & Snell SPECIES
 
 #### Status
 ACCEPTED

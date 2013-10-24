@@ -1,5 +1,4 @@
-Sphaeronaema epicaulon Fairm. SPECIES
-=======
+# Sphaeronaema epicaulon Fairm. SPECIES
 
 #### Status
 ACCEPTED

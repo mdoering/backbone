@@ -1,5 +1,4 @@
-Burkholderia phymatum Vandamme et al., 2003 SPECIES
-=======
+# Burkholderia phymatum Vandamme et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

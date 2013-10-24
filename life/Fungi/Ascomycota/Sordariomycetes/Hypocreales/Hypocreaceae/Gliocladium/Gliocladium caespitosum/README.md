@@ -1,5 +1,4 @@
-Gliocladium caespitosum Petch SPECIES
-=======
+# Gliocladium caespitosum Petch SPECIES
 
 #### Status
 ACCEPTED

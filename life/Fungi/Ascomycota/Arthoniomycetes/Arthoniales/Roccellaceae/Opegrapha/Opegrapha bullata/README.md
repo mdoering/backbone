@@ -1,5 +1,4 @@
-Opegrapha bullata Pers. SPECIES
-=======
+# Opegrapha bullata Pers. SPECIES
 
 #### Status
 ACCEPTED

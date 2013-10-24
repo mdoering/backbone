@@ -1,5 +1,4 @@
-Pertusaria leucophaea Elix & A. W. Archer SPECIES
-=======
+# Pertusaria leucophaea Elix & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

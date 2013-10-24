@@ -1,5 +1,4 @@
-Inocybe niigatensis Hongo SPECIES
-=======
+# Inocybe niigatensis Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Micropeltis galeriae (Sacc.) Bat. SPECIES
-=======
+# Micropeltis galeariae (Sacc.) Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

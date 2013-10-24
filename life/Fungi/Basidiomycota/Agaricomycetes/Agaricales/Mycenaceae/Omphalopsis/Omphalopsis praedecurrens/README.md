@@ -1,5 +1,4 @@
-Omphalopsis praedecurrens Murrill SPECIES
-=======
+# Omphalopsis praedecurrens Murrill SPECIES
 
 #### Status
 ACCEPTED

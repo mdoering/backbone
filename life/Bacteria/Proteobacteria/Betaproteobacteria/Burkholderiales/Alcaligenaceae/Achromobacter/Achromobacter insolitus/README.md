@@ -1,5 +1,4 @@
-Achromobacter insolitus Coenye et al., 2003 SPECIES
-=======
+# Achromobacter insolitus Coenye et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora pruinata Kremp. SPECIES
-=======
+# Lecanora pruinata Kremp. SPECIES
 
 #### Status
 ACCEPTED

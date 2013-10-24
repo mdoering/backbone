@@ -1,5 +1,4 @@
-Pseudocercospora brassicae U. Braun & McKenzie, 1999 SPECIES
-=======
+# Pseudocercospora brassicae U. Braun & McKenzie, 1999 SPECIES
 
 #### Status
 ACCEPTED

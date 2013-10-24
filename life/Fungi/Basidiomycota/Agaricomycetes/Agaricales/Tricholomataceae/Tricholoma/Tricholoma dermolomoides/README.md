@@ -1,5 +1,4 @@
-Tricholoma dermolomoides Corner SPECIES
-=======
+# Tricholoma dermolomoides Corner SPECIES
 
 #### Status
 ACCEPTED

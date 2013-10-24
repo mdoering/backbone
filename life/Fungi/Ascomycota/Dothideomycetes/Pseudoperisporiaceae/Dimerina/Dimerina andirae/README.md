@@ -1,5 +1,4 @@
-Dimerina andirae (Henn.) Hansf. SPECIES
-=======
+# Dimerina andirae (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia sparticola Sacc. & D. Sacc. SPECIES
-=======
+# Hendersonia sparticola Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

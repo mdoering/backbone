@@ -1,5 +1,4 @@
-Phyllosticta eucalyptorum Crous, M.J. Wingf., F.A. Ferreira & Alfenas SPECIES
-=======
+# Phyllosticta eucalyptorum Crous, M.J. Wingf., F.A. Ferreira & Alfenas SPECIES
 
 #### Status
 ACCEPTED

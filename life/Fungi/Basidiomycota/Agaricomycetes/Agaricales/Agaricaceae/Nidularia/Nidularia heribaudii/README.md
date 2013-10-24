@@ -1,5 +1,4 @@
-Nidularia heribaudii Har. & Pat. SPECIES
-=======
+# Nidularia heribaudii Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

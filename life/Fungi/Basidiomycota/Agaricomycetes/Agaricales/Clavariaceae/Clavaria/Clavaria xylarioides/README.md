@@ -1,5 +1,4 @@
-Clavaria xylarioides Petch SPECIES
-=======
+# Clavaria xylarioides Petch SPECIES
 
 #### Status
 ACCEPTED

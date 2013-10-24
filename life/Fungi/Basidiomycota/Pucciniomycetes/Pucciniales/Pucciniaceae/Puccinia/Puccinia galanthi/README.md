@@ -1,5 +1,4 @@
-Puccinia galanthi Unger SPECIES
-=======
+# Puccinia galanthi Unger SPECIES
 
 #### Status
 ACCEPTED

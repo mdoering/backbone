@@ -1,5 +1,4 @@
-Fragilaria synegrotesca Lange-Bertalot SPECIES
-=======
+# Fragilaria synegrotesca Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

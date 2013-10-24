@@ -1,5 +1,4 @@
-Nectriella rubicapitula Lowen SPECIES
-=======
+# Nectriella rubicapitula Lowen SPECIES
 
 #### Status
 ACCEPTED

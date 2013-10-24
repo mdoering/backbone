@@ -1,5 +1,4 @@
-Thelenella megapotamica Malme SPECIES
-=======
+# Thelenella megapotamica Malme SPECIES
 
 #### Status
 ACCEPTED

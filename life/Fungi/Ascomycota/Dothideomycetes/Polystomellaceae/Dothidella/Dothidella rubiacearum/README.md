@@ -1,5 +1,4 @@
-Dothidella rubiacearum (G. Arnaud) Arx SPECIES
-=======
+# Dothidella rubiacearum (G. Arnaud) Arx SPECIES
 
 #### Status
 ACCEPTED

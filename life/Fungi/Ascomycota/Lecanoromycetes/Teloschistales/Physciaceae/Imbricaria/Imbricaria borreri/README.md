@@ -1,5 +1,4 @@
-Imbricaria borreri (Sm.) Körb. SPECIES
-=======
+# Imbricaria borreri (Sm.) Körb. SPECIES
 
 #### Status
 ACCEPTED

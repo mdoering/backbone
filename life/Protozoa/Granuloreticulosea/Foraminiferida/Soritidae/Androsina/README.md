@@ -1,5 +1,4 @@
-Androsina Levy, 1977 GENUS
-=======
+# Androsina Levy, 1977 GENUS
 
 #### Status
 ACCEPTED

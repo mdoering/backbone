@@ -1,5 +1,4 @@
-Morchella intermedia Boud. SPECIES
-=======
+# Morchella intermedia Boud. SPECIES
 
 #### Status
 ACCEPTED

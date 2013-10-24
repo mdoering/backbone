@@ -1,5 +1,4 @@
-Acremonium nepalense W. Gams, 1975 SPECIES
-=======
+# Acremonium nepalense W. Gams, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma clinopodii Allesch. SPECIES
-=======
+# Phoma clinopodii Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mackintoshia Pacioni & Sharp GENUS
-=======
+# Mackintoshia Pacioni & Sharp GENUS
 
 #### Status
 ACCEPTED

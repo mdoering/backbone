@@ -1,5 +1,4 @@
-Botryodiplodia yaquensis Petr. & Cif. SPECIES
-=======
+# Botryodiplodia yaquensis Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

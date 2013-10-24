@@ -1,5 +1,4 @@
-Dacrymyces levis P. Karst. SPECIES
-=======
+# Dacrymyces levis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma pulchella Bres. SPECIES
-=======
+# Ganoderma pulchella Bres. SPECIES
 
 #### Status
 ACCEPTED

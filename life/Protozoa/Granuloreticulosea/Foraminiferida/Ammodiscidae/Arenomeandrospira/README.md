@@ -1,5 +1,4 @@
-Arenomeandrospira Jones & Wonders, 2000 GENUS
-=======
+# Arenomeandrospira Jones & Wonders, 2000 GENUS
 
 #### Status
 ACCEPTED

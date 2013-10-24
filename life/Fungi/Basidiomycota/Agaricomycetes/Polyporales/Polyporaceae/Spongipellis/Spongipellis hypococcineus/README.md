@@ -1,5 +1,4 @@
-Spongipellis hypococcineus (Berk.) Pat. SPECIES
-=======
+# Spongipellis hypococcineus (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

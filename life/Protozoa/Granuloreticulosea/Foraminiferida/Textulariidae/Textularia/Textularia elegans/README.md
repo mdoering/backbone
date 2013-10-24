@@ -1,5 +1,4 @@
-Textularia elegans Lacroix, 1931 SPECIES
-=======
+# Textularia elegans Lacroix, 1931 SPECIES
 
 #### Status
 ACCEPTED

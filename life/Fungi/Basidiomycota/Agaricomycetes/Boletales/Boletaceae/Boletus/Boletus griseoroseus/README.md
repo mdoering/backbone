@@ -1,5 +1,4 @@
-Boletus griseoroseus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Boletus griseoroseus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

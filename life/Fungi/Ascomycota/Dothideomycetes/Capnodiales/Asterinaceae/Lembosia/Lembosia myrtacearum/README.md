@@ -1,5 +1,4 @@
-Lembosia myrtacearum Speg. SPECIES
-=======
+# Lembosia myrtacearum Speg. SPECIES
 
 #### Status
 ACCEPTED

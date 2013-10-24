@@ -1,5 +1,4 @@
-Chaetocalathus niduliformis (Murrill) Singer SPECIES
-=======
+# Chaetocalathus niduliformis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

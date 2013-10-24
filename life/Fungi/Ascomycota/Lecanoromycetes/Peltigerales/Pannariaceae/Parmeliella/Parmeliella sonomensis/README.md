@@ -1,5 +1,4 @@
-Parmeliella sonomensis (Tuck.) Hasse SPECIES
-=======
+# Parmeliella sonomensis (Tuck.) Hasse SPECIES
 
 #### Status
 ACCEPTED

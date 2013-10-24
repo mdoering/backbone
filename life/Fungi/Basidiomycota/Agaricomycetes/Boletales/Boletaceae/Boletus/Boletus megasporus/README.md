@@ -1,5 +1,4 @@
-Boletus megasporus M. Zang SPECIES
-=======
+# Boletus megasporus M. Zang SPECIES
 
 #### Status
 ACCEPTED

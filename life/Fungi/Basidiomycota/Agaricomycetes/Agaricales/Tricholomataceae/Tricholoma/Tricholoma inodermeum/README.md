@@ -1,5 +1,4 @@
-Tricholoma inodermeum var. inodermeum VARIETY
-=======
+# Tricholoma inodermeum (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Les Hyménomycètes ou description de tous les champignons (fungi) qui croissent en France (Alençon) (1878)
 
 #### Original name
-Tricholoma inodermeum var. inodermeum
+Agaricus inodermeus Fr.
 
 ### Remarks
 null

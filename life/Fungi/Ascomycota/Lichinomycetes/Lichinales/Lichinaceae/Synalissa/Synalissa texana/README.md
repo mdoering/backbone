@@ -1,5 +1,4 @@
-Synalissa texana Tuck. SPECIES
-=======
+# Synalissa texana Tuck. SPECIES
 
 #### Status
 ACCEPTED

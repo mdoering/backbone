@@ -1,5 +1,4 @@
-Pestalotiopsis cibotii (R.P. White) B. Sutton SPECIES
-=======
+# Pestalotiopsis cibotii (R.P. White) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

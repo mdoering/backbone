@@ -1,14 +1,13 @@
-Leucostoma massariana (De Not.) Höhn. SPECIES
-=======
+# Leucostoma massarianum (De Not.) Höhn., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. dt. bot. Ges. (1917)
 
 #### Original name
 Valsa massariana De Not., 1863

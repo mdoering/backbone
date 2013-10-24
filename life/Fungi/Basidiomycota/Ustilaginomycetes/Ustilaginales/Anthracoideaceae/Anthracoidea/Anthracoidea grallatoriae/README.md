@@ -1,5 +1,4 @@
-Anthracoidea grallatoriae Vánky SPECIES
-=======
+# Anthracoidea grallatoriae Vánky SPECIES
 
 #### Status
 ACCEPTED

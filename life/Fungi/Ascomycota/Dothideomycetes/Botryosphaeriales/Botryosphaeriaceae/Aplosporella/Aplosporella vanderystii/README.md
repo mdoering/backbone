@@ -1,5 +1,4 @@
-Aplosporella vanderystii Bres. SPECIES
-=======
+# Aplosporella vanderystii Bres. SPECIES
 
 #### Status
 ACCEPTED

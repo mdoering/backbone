@@ -1,5 +1,4 @@
-Isariopsella ecuadorensis Syd. SPECIES
-=======
+# Isariopsella ecuadorensis Syd. SPECIES
 
 #### Status
 ACCEPTED

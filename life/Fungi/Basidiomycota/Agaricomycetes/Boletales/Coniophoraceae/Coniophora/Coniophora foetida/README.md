@@ -1,5 +1,4 @@
-Coniophora foetida (Ehrenb.) Pers. SPECIES
-=======
+# Coniophora foetida (Ehrenb.) Pers. SPECIES
 
 #### Status
 ACCEPTED

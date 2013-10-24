@@ -1,5 +1,4 @@
-Kmetia dioscoreae Sawada SPECIES
-=======
+# Kmetia dioscoreae Sawada SPECIES
 
 #### Status
 ACCEPTED

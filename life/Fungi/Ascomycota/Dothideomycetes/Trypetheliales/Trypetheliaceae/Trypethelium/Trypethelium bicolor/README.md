@@ -1,5 +1,4 @@
-Trypethelium bicolor Taylor SPECIES
-=======
+# Trypethelium bicolor Taylor SPECIES
 
 #### Status
 ACCEPTED

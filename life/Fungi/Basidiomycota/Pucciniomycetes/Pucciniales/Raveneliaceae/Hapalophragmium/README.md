@@ -1,17 +1,16 @@
-Haplophragmium GENUS
-=======
+# Hapalophragmium Syd. & P. Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 40(Beibl. ): (64) (1901)
 
 #### Original name
-null
+Hapalophragmium Syd. & P. Syd.
 
 ### Remarks
 null

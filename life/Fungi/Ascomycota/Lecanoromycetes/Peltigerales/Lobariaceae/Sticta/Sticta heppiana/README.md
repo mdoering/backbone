@@ -1,5 +1,4 @@
-Sticta heppiana (Müll. Arg.) Hue SPECIES
-=======
+# Sticta heppiana (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

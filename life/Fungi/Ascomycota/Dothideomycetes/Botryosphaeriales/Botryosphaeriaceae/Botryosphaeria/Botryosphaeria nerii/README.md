@@ -1,17 +1,16 @@
-Botryosphaeria nariumi Jadhav, Somani & Wangikar SPECIES
-=======
+# Botryosphaeria nerii Jadhav, Somani & Wangikar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. , Suppl. Issue 31(1): 49 (1978)
 
 #### Original name
-Botryosphaeria nariumi Jadhav, Somani & Wangikar
+Botryosphaeria nerii Jadhav, Somani & Wangikar
 
 ### Remarks
 null

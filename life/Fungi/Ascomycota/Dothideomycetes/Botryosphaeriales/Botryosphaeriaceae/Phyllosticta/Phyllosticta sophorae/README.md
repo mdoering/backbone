@@ -1,5 +1,4 @@
-Phyllosticta sophorae Ellis & Everh. SPECIES
-=======
+# Phyllosticta sophorae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

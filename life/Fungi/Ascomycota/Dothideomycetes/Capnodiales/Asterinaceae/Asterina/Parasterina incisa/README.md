@@ -1,5 +1,4 @@
-Parasterina incisa (Syd. & E.J. Butler) J.M. Mend. SPECIES
-=======
+# Parasterina incisa (Syd. & E.J. Butler) J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

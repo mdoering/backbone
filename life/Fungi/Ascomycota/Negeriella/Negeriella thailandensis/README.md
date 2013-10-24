@@ -1,5 +1,4 @@
-Negeriella thailandensis Weilb. SPECIES
-=======
+# Negeriella thailandensis Weilb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Scutellinia paludicola subsp. paludicola (Boud.) Le Gal SUBSPECIES
-=======
+# Scutellinia paludicola (Boud.) Le Gal, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. trimest. Soc. mycol. Fr. 82: 307 (1966)

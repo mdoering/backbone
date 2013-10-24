@@ -1,14 +1,13 @@
-Ustulina pyrenocrata Theiss., 1908 SPECIES
-=======
+# Theissenia pyrenocrata (Theiss.) Maubl., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 6(4): 347 (1908)
+Bull. Soc. mycol. Fr. 30: 52 (1914)
 
 #### Original name
 Ustulina pyrenocrata Theiss., 1908

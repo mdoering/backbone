@@ -1,5 +1,4 @@
-Heterodermia togashii (Kurok.) D.D. Awasthi SPECIES
-=======
+# Heterodermia togashii (Kurok.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

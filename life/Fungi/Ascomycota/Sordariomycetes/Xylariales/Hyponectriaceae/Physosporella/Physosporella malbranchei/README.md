@@ -1,14 +1,13 @@
-Physalosporella malbranchei (P. Karst.) Höhn. SPECIES
-=======
+# Physosporella malbranchei (P. Karst.) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 16: 162 (1918)
 
 #### Original name
 Physalospora malbranchei P. Karst.

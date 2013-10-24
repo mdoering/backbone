@@ -1,5 +1,4 @@
-Arcyria fasciculata Dhillon & Nann.-Bremek., 1978 SPECIES
-=======
+# Arcyria fasciculata Dhillon & Nann.-Bremek., 1978 SPECIES
 
 #### Status
 ACCEPTED

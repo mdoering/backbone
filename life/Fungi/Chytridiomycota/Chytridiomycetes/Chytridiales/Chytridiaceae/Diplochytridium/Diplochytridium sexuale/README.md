@@ -1,5 +1,4 @@
-Diplochytridium sexuale (W.J. Koch) Karling SPECIES
-=======
+# Diplochytridium sexuale (W.J. Koch) Karling SPECIES
 
 #### Status
 ACCEPTED

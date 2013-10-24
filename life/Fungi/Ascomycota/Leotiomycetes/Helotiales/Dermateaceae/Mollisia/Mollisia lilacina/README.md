@@ -1,5 +1,4 @@
-Mollisia lilacina Clem. SPECIES
-=======
+# Mollisia lilacina Clem. SPECIES
 
 #### Status
 ACCEPTED

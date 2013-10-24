@@ -1,5 +1,4 @@
-Leccinum alaskanum V.L. Wells & Kempton SPECIES
-=======
+# Leccinum alaskanum V.L. Wells & Kempton SPECIES
 
 #### Status
 ACCEPTED

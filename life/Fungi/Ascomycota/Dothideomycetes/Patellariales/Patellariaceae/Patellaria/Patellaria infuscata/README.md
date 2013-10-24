@@ -1,5 +1,4 @@
-Patellaria infuscata Müll. Arg. SPECIES
-=======
+# Patellaria infuscata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

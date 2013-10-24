@@ -1,5 +1,4 @@
-Dermatocarpon macrosporum Werner SPECIES
-=======
+# Dermatocarpon macrosporum Werner SPECIES
 
 #### Status
 ACCEPTED

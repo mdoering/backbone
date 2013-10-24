@@ -1,5 +1,4 @@
-Sarcogyne arenaria (Stein) Körb. SPECIES
-=======
+# Sarcogyne arenaria (Stein) Körb. SPECIES
 
 #### Status
 ACCEPTED

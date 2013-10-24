@@ -1,5 +1,4 @@
-Pleurage glabra A.K. Kar & Maity SPECIES
-=======
+# Pleurage glabra A.K. Kar & Maity SPECIES
 
 #### Status
 ACCEPTED

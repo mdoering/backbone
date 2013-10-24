@@ -1,5 +1,4 @@
-Coniothyrium tecomae-radicantis (Sacc.) Biga, Cif. & Bestagno SPECIES
-=======
+# Coniothyrium tecomae-radicantis (Sacc.) Biga, Cif. & Bestagno SPECIES
 
 #### Status
 ACCEPTED

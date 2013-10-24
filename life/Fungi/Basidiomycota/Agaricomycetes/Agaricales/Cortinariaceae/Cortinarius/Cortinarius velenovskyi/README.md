@@ -1,5 +1,4 @@
-Cortinarius velenovskyi Rob. Henry SPECIES
-=======
+# Cortinarius velenovskyi Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

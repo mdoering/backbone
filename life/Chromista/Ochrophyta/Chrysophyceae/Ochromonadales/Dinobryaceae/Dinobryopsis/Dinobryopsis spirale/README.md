@@ -1,5 +1,4 @@
-Dinobryopsis spirale (Gerloff) Schmidle SPECIES
-=======
+# Dinobryopsis spirale (Gerloff) Schmidle SPECIES
 
 #### Status
 ACCEPTED

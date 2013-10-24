@@ -1,5 +1,4 @@
-Pyrenula oleagina Fée SPECIES
-=======
+# Pyrenula oleagina Fée SPECIES
 
 #### Status
 ACCEPTED

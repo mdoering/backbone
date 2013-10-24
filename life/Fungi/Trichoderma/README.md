@@ -1,5 +1,4 @@
-Trichoderma E.M. Fries, 1829 GENUS
-=======
+# Trichoderma E.M. Fries, 1829 GENUS
 
 #### Status
 ACCEPTED

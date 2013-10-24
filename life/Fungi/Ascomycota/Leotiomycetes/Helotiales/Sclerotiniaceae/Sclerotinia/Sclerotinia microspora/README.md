@@ -1,5 +1,4 @@
-Sclerotinia microspora Velen. SPECIES
-=======
+# Sclerotinia microspora Velen. SPECIES
 
 #### Status
 ACCEPTED

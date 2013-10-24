@@ -1,5 +1,4 @@
-Mycena usambarensis (Eichelb.) Sacc. & Trotter SPECIES
-=======
+# Mycena usambarensis (Eichelb.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

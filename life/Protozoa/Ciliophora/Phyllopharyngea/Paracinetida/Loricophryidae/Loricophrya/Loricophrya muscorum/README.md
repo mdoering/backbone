@@ -1,5 +1,4 @@
-Loricophrya muscorum (Kahl, 1931) ? SPECIES
-=======
+# Loricophrya muscorum (Kahl, 1931) ? SPECIES
 
 #### Status
 ACCEPTED

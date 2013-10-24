@@ -1,5 +1,4 @@
-Polyporus jianfenglingensis (G.Y. Zheng) H.D. Zheng & P.G. Liu SPECIES
-=======
+# Polyporus jianfenglingensis (G.Y. Zheng) H.D. Zheng & P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

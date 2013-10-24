@@ -1,5 +1,4 @@
-Paracarpidium GENUS
-=======
+# Paracarpidium GENUS
 
 #### Status
 ACCEPTED

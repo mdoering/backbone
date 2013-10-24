@@ -1,17 +1,16 @@
-Sebacina microbasidia var. microbasidia VARIETY
-=======
+# Microsebacina microbasidia (M.P. Christ. & Hauerslev) P. Roberts, 1993 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 97(4): 474 (1993)
 
 #### Original name
-Sebacina microbasidia var. microbasidia
+Sebacina microbasidia M.P. Christ. & Hauerslev, 1959
 
 ### Remarks
 null

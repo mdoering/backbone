@@ -1,5 +1,4 @@
-Burgoa pisi S.Q. He & D.Z. Tang SPECIES
-=======
+# Burgoa pisi S.Q. He & D.Z. Tang SPECIES
 
 #### Status
 ACCEPTED

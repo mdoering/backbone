@@ -1,5 +1,4 @@
-Puccinia crassapicalis Bubák SPECIES
-=======
+# Puccinia crassapicalis Bubák SPECIES
 
 #### Status
 ACCEPTED

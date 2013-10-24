@@ -1,5 +1,4 @@
-Mycosphaerella scorzonerae Petr. SPECIES
-=======
+# Mycosphaerella scorzonerae Petr. SPECIES
 
 #### Status
 ACCEPTED

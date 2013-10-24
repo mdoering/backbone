@@ -1,5 +1,4 @@
-Ammonidium belmotiforme (Tynni, 1975) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Ammonidium belmotiforme (Tynni, 1975) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

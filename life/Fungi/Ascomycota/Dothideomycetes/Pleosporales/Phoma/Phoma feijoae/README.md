@@ -1,5 +1,4 @@
-Phoma feijoae Artemiev SPECIES
-=======
+# Phoma feijoae Artemiev SPECIES
 
 #### Status
 ACCEPTED

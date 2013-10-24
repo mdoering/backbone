@@ -1,5 +1,4 @@
-Vagalapilla Bukry, 1969 GENUS
-=======
+# Vagalapilla Bukry, 1969 GENUS
 
 #### Status
 ACCEPTED

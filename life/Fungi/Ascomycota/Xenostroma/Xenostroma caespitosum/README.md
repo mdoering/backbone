@@ -1,5 +1,4 @@
-Xenostroma caespitosum (Fuckel) Höhn., 1915 SPECIES
-=======
+# Xenostroma caespitosum (Fuckel) Höhn., 1915 SPECIES
 
 #### Status
 ACCEPTED

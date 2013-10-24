@@ -1,5 +1,4 @@
-Squamaria melanophthalma DC. SPECIES
-=======
+# Squamaria melanophthalma DC. SPECIES
 
 #### Status
 ACCEPTED

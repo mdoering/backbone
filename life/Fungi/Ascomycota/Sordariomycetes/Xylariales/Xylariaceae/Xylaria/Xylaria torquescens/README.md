@@ -1,5 +1,4 @@
-Xylaria torquescens Sacc. SPECIES
-=======
+# Xylaria torquescens Sacc. SPECIES
 
 #### Status
 ACCEPTED

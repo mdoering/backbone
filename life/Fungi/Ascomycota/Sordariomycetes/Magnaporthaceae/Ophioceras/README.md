@@ -1,5 +1,4 @@
-Ophioceras Saccardo, 1883 GENUS
-=======
+# Ophioceras Saccardo, 1883 GENUS
 
 #### Status
 ACCEPTED

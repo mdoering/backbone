@@ -1,8 +1,7 @@
-Thermus chliarophilus Tenreiro et al., 1995 SPECIES
-=======
+# Meiothermus chliarophilus (Tenreiro et al., 1995) Nobre et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

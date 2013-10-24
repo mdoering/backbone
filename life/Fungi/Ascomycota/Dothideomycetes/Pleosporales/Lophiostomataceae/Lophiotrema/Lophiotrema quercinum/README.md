@@ -1,5 +1,4 @@
-Lophiotrema quercinum Feltgen SPECIES
-=======
+# Lophiotrema quercinum Feltgen SPECIES
 
 #### Status
 ACCEPTED

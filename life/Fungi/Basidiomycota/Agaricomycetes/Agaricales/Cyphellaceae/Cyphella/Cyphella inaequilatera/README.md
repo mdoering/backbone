@@ -1,5 +1,4 @@
-Cyphella inaequilatera Schumach. ex Fr. SPECIES
-=======
+# Cyphella inaequilatera Schumach. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

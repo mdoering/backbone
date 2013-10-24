@@ -1,5 +1,4 @@
-Resigella bilocularis Gooday, Todo, Uematsu & Kitazato, 2008 SPECIES
-=======
+# Resigella bilocularis Gooday, Todo, Uematsu & Kitazato, 2008 SPECIES
 
 #### Status
 ACCEPTED

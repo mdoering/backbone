@@ -1,5 +1,4 @@
-Dothivalsaria Petr. GENUS
-=======
+# Dothivalsaria Petr. GENUS
 
 #### Status
 ACCEPTED

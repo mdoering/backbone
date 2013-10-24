@@ -1,5 +1,4 @@
-Didymella leguminosarum Petr. SPECIES
-=======
+# Didymella leguminosarum Petr. SPECIES
 
 #### Status
 ACCEPTED

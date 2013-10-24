@@ -1,5 +1,4 @@
-Mindoa rondoniensis Bat. & H. Maia SPECIES
-=======
+# Mindoa rondoniensis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

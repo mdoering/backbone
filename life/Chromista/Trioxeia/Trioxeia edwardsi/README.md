@@ -1,5 +1,4 @@
-Trioxeia edwardsi de Folin, 1888 SPECIES
-=======
+# Trioxeia edwardsi de Folin, 1888 SPECIES
 
 #### Status
 ACCEPTED

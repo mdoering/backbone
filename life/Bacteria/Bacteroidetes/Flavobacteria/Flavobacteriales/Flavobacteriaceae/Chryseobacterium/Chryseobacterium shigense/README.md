@@ -1,5 +1,4 @@
-Chryseobacterium shigense Shimomura et al., 2005 SPECIES
-=======
+# Chryseobacterium shigense Shimomura et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

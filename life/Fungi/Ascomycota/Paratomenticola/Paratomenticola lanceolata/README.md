@@ -1,14 +1,13 @@
-Sporidesmium lanceolatum (Cooke) S. Hughes, 1958 SPECIES
-=======
+# Paratomenticola lanceolata (Cooke) M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 36: 808 (1958)
+More Dematiaceous Hyphomycetes (Kew) 175 (1976)
 
 #### Original name
 Helminthosporium lanceolatum Cooke, 1883

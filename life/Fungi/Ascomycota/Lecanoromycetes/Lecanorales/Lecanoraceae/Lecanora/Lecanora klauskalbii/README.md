@@ -1,5 +1,4 @@
-Lecanora klauskalbii Sipman SPECIES
-=======
+# Lecanora klauskalbii Sipman SPECIES
 
 #### Status
 ACCEPTED

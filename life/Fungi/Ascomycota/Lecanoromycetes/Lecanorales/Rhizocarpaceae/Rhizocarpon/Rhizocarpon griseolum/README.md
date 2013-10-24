@@ -1,5 +1,4 @@
-Rhizocarpon griseolum (Hue) Darb. SPECIES
-=======
+# Rhizocarpon griseolum (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

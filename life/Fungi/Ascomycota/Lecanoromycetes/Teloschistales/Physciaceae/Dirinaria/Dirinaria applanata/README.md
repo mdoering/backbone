@@ -1,17 +1,16 @@
-Placodium flavostramineum Müll. Arg. SPECIES
-=======
+# Dirinaria applanata (Fée) D. D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Indian bot. Soc. 49: 135 (1970)
 
 #### Original name
-Placodium flavostramineum Müll. Arg.
+Parmelia applanata Fée
 
 ### Remarks
 null

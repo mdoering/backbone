@@ -1,5 +1,4 @@
-Septoria smilacina Durieu & Mont. SPECIES
-=======
+# Septoria smilacina Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

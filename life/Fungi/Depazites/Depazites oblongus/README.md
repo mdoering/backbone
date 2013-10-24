@@ -1,5 +1,4 @@
-Depazites oblongus (C. Massal.) Mesch. SPECIES
-=======
+# Depazites oblongus (C. Massal.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

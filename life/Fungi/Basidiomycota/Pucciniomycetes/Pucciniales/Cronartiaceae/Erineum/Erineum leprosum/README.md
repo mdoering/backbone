@@ -1,5 +1,4 @@
-Erineum leprosum Pers. SPECIES
-=======
+# Erineum leprosum Pers. SPECIES
 
 #### Status
 ACCEPTED

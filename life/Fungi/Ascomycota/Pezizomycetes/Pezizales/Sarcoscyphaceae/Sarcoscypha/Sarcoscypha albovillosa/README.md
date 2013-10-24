@@ -1,5 +1,4 @@
-Sarcoscypha albovillosa Rehm SPECIES
-=======
+# Sarcoscypha albovillosa Rehm SPECIES
 
 #### Status
 ACCEPTED

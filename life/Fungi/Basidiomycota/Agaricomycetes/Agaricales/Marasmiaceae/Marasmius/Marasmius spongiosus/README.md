@@ -1,5 +1,4 @@
-Marasmius spongiosus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius spongiosus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

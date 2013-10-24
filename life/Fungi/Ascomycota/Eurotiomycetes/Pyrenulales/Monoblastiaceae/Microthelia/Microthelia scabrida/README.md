@@ -1,5 +1,4 @@
-Microthelia scabrida J. Lahm ex Körb. SPECIES
-=======
+# Microthelia scabrida J. Lahm ex Körb. SPECIES
 
 #### Status
 ACCEPTED

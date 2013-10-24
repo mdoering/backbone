@@ -1,5 +1,4 @@
-Polyporus sobrius Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus sobrius Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

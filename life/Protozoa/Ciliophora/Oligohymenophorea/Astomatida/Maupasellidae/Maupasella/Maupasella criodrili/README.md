@@ -1,5 +1,4 @@
-Maupasella criodrili Heidenreich, 1935 SPECIES
-=======
+# Maupasella criodrili Heidenreich, 1935 SPECIES
 
 #### Status
 ACCEPTED

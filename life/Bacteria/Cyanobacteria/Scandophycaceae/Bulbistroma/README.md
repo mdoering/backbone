@@ -1,5 +1,4 @@
-Bulbistroma Vologdin GENUS
-=======
+# Bulbistroma Vologdin GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicomyces denticulatus G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
-=======
+# Helicomyces denticulatus G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alnicola diplocystis Singer SPECIES
-=======
+# Alnicola diplocystis Singer SPECIES
 
 #### Status
 ACCEPTED

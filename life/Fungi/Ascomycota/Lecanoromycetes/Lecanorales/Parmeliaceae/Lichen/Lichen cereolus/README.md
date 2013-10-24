@@ -1,5 +1,4 @@
-Lichen cereolus Ach. SPECIES
-=======
+# Lichen cereolus Ach. SPECIES
 
 #### Status
 ACCEPTED

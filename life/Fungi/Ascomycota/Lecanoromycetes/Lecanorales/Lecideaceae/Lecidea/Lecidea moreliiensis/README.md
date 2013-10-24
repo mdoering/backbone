@@ -1,5 +1,4 @@
-Lecidea moreliiensis B. de Lesd. SPECIES
-=======
+# Lecidea moreliiensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

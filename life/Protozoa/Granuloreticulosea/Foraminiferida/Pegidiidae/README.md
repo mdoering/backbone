@@ -1,5 +1,4 @@
-Pegidiidae FAMILY
-=======
+# Pegidiidae FAMILY
 
 #### Status
 ACCEPTED

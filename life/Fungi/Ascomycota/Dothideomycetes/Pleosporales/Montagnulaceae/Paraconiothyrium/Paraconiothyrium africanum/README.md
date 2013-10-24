@@ -1,5 +1,4 @@
-Paraconiothyrium africanum Damm, Verkley & Crous, 2008 SPECIES
-=======
+# Paraconiothyrium africanum Damm, Verkley & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

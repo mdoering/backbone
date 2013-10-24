@@ -1,5 +1,4 @@
-Haptocara latirostrum Drechsler, 1975 SPECIES
-=======
+# Haptocara latirostrum Drechsler, 1975 SPECIES
 
 #### Status
 ACCEPTED

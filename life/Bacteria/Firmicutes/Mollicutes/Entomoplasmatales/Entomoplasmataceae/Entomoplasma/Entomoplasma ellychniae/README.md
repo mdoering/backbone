@@ -1,8 +1,7 @@
-Mycoplasma ellychniae Tully et al., 1989 SPECIES
-=======
+# Entomoplasma ellychniae (Tully et al., 1989) Tully et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

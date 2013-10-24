@@ -1,5 +1,4 @@
-Syspastospora P.F. Cannon & D. Hawksw. GENUS
-=======
+# Syspastospora P.F. Cannon & D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

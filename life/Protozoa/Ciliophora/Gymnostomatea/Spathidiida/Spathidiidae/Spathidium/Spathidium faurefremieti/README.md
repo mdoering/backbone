@@ -1,5 +1,4 @@
-Spathidium faurefremieti Foissner, 2003 SPECIES
-=======
+# Spathidium faurefremieti Foissner, 2003 SPECIES
 
 #### Status
 ACCEPTED

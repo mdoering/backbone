@@ -1,5 +1,4 @@
-Chaetomium nivale F. Strauss SPECIES
-=======
+# Chaetomium nivale F. Strauss SPECIES
 
 #### Status
 ACCEPTED

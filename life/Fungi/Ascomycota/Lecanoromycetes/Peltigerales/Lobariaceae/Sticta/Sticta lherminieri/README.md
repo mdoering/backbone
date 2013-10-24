@@ -1,5 +1,4 @@
-Sticta lherminieri (Nyl. ex Stizenb.) Vain. SPECIES
-=======
+# Sticta lherminieri (Nyl. ex Stizenb.) Vain. SPECIES
 
 #### Status
 ACCEPTED

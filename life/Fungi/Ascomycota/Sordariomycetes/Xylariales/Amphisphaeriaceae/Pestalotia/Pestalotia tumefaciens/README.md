@@ -1,5 +1,4 @@
-Pestalotia tumefaciens Henn. SPECIES
-=======
+# Pestalotia tumefaciens Henn. SPECIES
 
 #### Status
 ACCEPTED

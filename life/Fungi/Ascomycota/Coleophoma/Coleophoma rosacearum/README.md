@@ -1,5 +1,4 @@
-Coleophoma rosacearum Höhn. SPECIES
-=======
+# Coleophoma rosacearum Höhn. SPECIES
 
 #### Status
 ACCEPTED

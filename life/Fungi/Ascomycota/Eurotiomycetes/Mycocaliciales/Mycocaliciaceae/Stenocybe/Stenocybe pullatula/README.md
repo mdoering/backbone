@@ -1,17 +1,16 @@
-Stenocybe byssacea (Fr.) Körb. SPECIES
-=======
+# Stenocybe pullatula (Ach.) Stein SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. lich. germ. (Breslau) 306 (1855)
+Krypt. -Fl. Schlesien (Breslau) 2(2): 298 (1879)
 
 #### Original name
-Calicium byssaceum Fr.
+Calicium pullatulum Ach.
 
 ### Remarks
 null

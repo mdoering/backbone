@@ -1,5 +1,4 @@
-Crepidotus bicolor Murrill SPECIES
-=======
+# Crepidotus bicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

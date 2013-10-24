@@ -1,5 +1,4 @@
-Capillistichus tenellus Santam., 2004 SPECIES
-=======
+# Capillistichus tenellus Santam., 2004 SPECIES
 
 #### Status
 ACCEPTED

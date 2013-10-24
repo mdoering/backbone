@@ -1,5 +1,4 @@
-Tricholoma thujinum Peck SPECIES
-=======
+# Tricholoma thujinum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rectoepistominoides Grigelis, 1960 GENUS
-=======
+# Rectoepistominoides Grigelis, 1960 GENUS
 
 #### Status
 ACCEPTED

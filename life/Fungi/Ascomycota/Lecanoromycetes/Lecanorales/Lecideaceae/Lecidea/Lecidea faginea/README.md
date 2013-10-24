@@ -1,5 +1,4 @@
-Lecidea faginea Körb. SPECIES
-=======
+# Lecidea faginea Körb. SPECIES
 
 #### Status
 ACCEPTED

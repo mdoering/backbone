@@ -1,5 +1,4 @@
-Sticta leucophylla Müll. Arg. SPECIES
-=======
+# Sticta leucophylla Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

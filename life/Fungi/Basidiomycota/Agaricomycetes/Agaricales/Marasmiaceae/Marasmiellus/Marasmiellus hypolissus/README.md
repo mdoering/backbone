@@ -1,5 +1,4 @@
-Marasmiellus hypolissus Singer SPECIES
-=======
+# Marasmiellus hypolissus Singer SPECIES
 
 #### Status
 ACCEPTED

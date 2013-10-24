@@ -1,5 +1,4 @@
-Acmosporium GENUS
-=======
+# Acmosporium GENUS
 
 #### Status
 ACCEPTED

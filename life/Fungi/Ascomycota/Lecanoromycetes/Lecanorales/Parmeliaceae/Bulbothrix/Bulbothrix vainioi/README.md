@@ -1,5 +1,4 @@
-Bulbothrix vainioi Jungbluth, Marcelli & Elix SPECIES
-=======
+# Bulbothrix vainioi Jungbluth, Marcelli & Elix SPECIES
 
 #### Status
 ACCEPTED

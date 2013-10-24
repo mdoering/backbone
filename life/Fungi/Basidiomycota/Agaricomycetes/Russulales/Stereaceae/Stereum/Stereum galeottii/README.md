@@ -1,5 +1,4 @@
-Stereum galeottii Berk. SPECIES
-=======
+# Stereum galeottii Berk. SPECIES
 
 #### Status
 ACCEPTED

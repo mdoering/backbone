@@ -1,17 +1,16 @@
-Aleurocorticium P.A. Lemke GENUS
-=======
+# Dendrothele von Höhnel & Litschauer, 1907 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Can. J. Bot. 42: 724 (1964)
+null
 
 #### Original name
-Aleurocorticium P.A. Lemke
+null
 
 ### Remarks
 null

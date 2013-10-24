@@ -1,5 +1,4 @@
-Phloesphora curta (Fslie) Jaasund SPECIES
-=======
+# Phloesphora curta (Fslie) Jaasund SPECIES
 
 #### Status
 ACCEPTED

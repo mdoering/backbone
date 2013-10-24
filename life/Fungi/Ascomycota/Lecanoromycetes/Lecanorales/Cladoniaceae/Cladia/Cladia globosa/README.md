@@ -1,5 +1,4 @@
-Cladia globosa Ahti SPECIES
-=======
+# Cladia globosa Ahti SPECIES
 
 #### Status
 ACCEPTED

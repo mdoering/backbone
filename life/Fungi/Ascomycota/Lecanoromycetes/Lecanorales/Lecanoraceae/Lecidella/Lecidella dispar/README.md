@@ -1,5 +1,4 @@
-Lecidella dispar Rehm SPECIES
-=======
+# Lecidella dispar Rehm SPECIES
 
 #### Status
 ACCEPTED

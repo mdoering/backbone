@@ -1,5 +1,4 @@
-Puccinia eragrostidicola F. Kern, Thurst. & Whetzel SPECIES
-=======
+# Puccinia eragrostidicola F. Kern, Thurst. & Whetzel SPECIES
 
 #### Status
 ACCEPTED

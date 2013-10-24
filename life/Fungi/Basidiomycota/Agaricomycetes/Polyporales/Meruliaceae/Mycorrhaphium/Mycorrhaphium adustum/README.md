@@ -1,14 +1,13 @@
-Hydnum adustum Schwein., 1822 SPECIES
-=======
+# Mycorrhaphium adustum (Schwein.) Maas Geest., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schr. naturf. Ges. Leipzig 1: 103 (1822)
+Persoonia 2(3): 394 (1962)
 
 #### Original name
 Hydnum adustum Schwein., 1822

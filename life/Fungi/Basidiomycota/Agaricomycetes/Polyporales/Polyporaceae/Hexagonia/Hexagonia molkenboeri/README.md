@@ -1,5 +1,4 @@
-Hexagonia molkenboeri Lév. SPECIES
-=======
+# Hexagonia molkenboeri Lév. SPECIES
 
 #### Status
 ACCEPTED

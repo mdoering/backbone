@@ -1,5 +1,4 @@
-Chaetosphaeria castaneoviolacea Starbäck SPECIES
-=======
+# Chaetosphaeria castaneoviolacea Starbäck SPECIES
 
 #### Status
 ACCEPTED

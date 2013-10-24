@@ -1,5 +1,4 @@
-Graphis syngraphizans Wright SPECIES
-=======
+# Graphis syngraphizans Wright SPECIES
 
 #### Status
 ACCEPTED

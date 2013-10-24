@@ -1,5 +1,4 @@
-Teichospora anceps Sacc. SPECIES
-=======
+# Teichospora anceps Sacc. SPECIES
 
 #### Status
 ACCEPTED

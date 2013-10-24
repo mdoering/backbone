@@ -1,5 +1,4 @@
-Hendersonia atractylidis Pat. SPECIES
-=======
+# Hendersonia atractylidis Pat. SPECIES
 
 #### Status
 ACCEPTED

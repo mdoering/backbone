@@ -1,5 +1,4 @@
-Mycena belliae (Johnst.) P.D. Orton SPECIES
-=======
+# Mycena belliae (Johnst.) P.D. Orton SPECIES
 
 #### Status
 ACCEPTED

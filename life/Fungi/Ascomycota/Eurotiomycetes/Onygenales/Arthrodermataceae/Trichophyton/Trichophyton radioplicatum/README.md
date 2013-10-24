@@ -1,5 +1,4 @@
-Trichophyton radioplicatum (W. Fisch.) Bruhns & A. Alexander SPECIES
-=======
+# Trichophyton radioplicatum (W. Fisch.) Bruhns & A. Alexander SPECIES
 
 #### Status
 ACCEPTED

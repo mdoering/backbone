@@ -1,5 +1,4 @@
-Nocardia exalbida Iida et al., 2006 SPECIES
-=======
+# Nocardia exalbida Iida et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

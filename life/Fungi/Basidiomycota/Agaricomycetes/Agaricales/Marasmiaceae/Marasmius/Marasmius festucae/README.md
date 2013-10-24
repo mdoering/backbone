@@ -1,5 +1,4 @@
-Marasmius festucae Richon SPECIES
-=======
+# Marasmius festucae Richon SPECIES
 
 #### Status
 ACCEPTED

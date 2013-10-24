@@ -1,5 +1,4 @@
-Luporinophrys Foissner, 2005 GENUS
-=======
+# Luporinophrys Foissner, 2005 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizoplacopsis J.C. Wei & Q.M. Zhou GENUS
-=======
+# Rhizoplacopsis J.C. Wei & Q.M. Zhou GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius ventricosus M.M. Moser SPECIES
-=======
+# Cortinarius ventricosus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

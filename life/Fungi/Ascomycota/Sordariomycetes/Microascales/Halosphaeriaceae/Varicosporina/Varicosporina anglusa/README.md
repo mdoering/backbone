@@ -1,5 +1,4 @@
-Varicosporina anglusa Abdel-Wahab & Nagah., 2009 SPECIES
-=======
+# Varicosporina anglusa Abdel-Wahab & Nagah., 2009 SPECIES
 
 #### Status
 ACCEPTED

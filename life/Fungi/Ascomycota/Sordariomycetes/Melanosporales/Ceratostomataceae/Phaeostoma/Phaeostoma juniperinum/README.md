@@ -1,5 +1,4 @@
-Phaeostoma juniperinum (Ellis & Everh.) Arx & E. Müll. SPECIES
-=======
+# Phaeostoma juniperinum (Ellis & Everh.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

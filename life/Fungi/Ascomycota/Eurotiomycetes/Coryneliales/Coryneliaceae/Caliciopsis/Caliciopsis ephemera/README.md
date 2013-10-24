@@ -1,5 +1,4 @@
-Caliciopsis ephemera (Zwackh) Rehm SPECIES
-=======
+# Caliciopsis ephemera (Zwackh) Rehm SPECIES
 
 #### Status
 ACCEPTED

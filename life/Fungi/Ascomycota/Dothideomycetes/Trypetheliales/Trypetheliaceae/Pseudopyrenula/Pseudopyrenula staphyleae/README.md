@@ -1,5 +1,4 @@
-Pseudopyrenula staphyleae (Petr.) Aptroot SPECIES
-=======
+# Pseudopyrenula staphyleae (Petr.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

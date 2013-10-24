@@ -1,17 +1,16 @@
-Stemonitis axifera smithii (Bull.) Macbr. SUBSPECIES
-=======
+# Stemonitis axifera (Bull.) T. Macbr., 1899 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Slime-Moulds (New York) 120 (1889)
 
 #### Original name
-null
+Trichia axifera Bull.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mindeniella Kanouse GENUS
-=======
+# Mindeniella Kanouse GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria cucurbitarioides Fabre SPECIES
-=======
+# Leptosphaeria cucurbitarioides Fabre SPECIES
 
 #### Status
 ACCEPTED

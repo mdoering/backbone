@@ -1,5 +1,4 @@
-Cryptosphaeria ontariensis (Ellis & Everh.) Höhn. SPECIES
-=======
+# Cryptosphaeria ontariensis (Ellis & Everh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

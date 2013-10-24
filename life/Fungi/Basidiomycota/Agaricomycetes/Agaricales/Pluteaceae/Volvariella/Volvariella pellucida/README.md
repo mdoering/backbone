@@ -1,5 +1,4 @@
-Volvariella pellucida Shaffer SPECIES
-=======
+# Volvariella pellucida Shaffer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uropyxis roseana Arthur SPECIES
-=======
+# Uropyxis roseana Arthur SPECIES
 
 #### Status
 ACCEPTED

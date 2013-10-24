@@ -1,5 +1,4 @@
-Asteridiella tarlacensis Petr. SPECIES
-=======
+# Asteridiella tarlacensis Petr. SPECIES
 
 #### Status
 ACCEPTED

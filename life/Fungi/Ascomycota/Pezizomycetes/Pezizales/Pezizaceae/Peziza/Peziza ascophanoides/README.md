@@ -1,5 +1,4 @@
-Peziza ascophanoides Marchal & É.J. Marchal SPECIES
-=======
+# Peziza ascophanoides Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

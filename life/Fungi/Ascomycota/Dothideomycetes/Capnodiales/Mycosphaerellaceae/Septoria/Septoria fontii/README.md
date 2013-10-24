@@ -1,5 +1,4 @@
-Septoria fontii Gonz. Frag. SPECIES
-=======
+# Septoria fontii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

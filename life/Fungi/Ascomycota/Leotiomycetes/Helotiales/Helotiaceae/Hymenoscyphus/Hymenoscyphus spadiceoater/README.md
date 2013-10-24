@@ -1,5 +1,4 @@
-Hymenoscyphus spadiceoater (Mont.) Dennis SPECIES
-=======
+# Hymenoscyphus spadiceoater (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

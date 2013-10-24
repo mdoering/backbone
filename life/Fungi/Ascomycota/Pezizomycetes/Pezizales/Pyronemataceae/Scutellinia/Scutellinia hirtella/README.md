@@ -1,5 +1,4 @@
-Scutellinia hirtella (Rehm) Svrcek SPECIES
-=======
+# Scutellinia hirtella (Rehm) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geotrichum subtile (R. Blanch.) Almeida {?} SPECIES
-=======
+# Geotrichum subtile (R. Blanch.) Almeida {?} SPECIES
 
 #### Status
 ACCEPTED

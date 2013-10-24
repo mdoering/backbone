@@ -1,5 +1,4 @@
-Mesnilella paranaidos SPECIES
-=======
+# Mesnilella paranaidos SPECIES
 
 #### Status
 ACCEPTED

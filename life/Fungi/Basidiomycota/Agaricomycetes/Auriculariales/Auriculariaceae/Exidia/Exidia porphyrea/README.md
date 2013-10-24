@@ -1,5 +1,4 @@
-Exidia porphyrea Lév. SPECIES
-=======
+# Exidia porphyrea Lév. SPECIES
 
 #### Status
 ACCEPTED

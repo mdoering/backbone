@@ -1,5 +1,4 @@
-Aureobasidium indicum A. Pande & Ghate SPECIES
-=======
+# Aureobasidium indicum A. Pande & Ghate SPECIES
 
 #### Status
 ACCEPTED

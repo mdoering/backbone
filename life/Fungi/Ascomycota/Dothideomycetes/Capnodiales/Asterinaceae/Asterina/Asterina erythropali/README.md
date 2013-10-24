@@ -1,5 +1,4 @@
-Asterina erythropali Hansf. SPECIES
-=======
+# Asterina erythropali Hansf. SPECIES
 
 #### Status
 ACCEPTED

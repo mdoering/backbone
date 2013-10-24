@@ -1,5 +1,4 @@
-Nocardiopsis umidischolae Peltola et al., 2002 SPECIES
-=======
+# Nocardiopsis umidischolae Peltola et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

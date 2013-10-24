@@ -1,5 +1,4 @@
-Tympanis prunicola J.W. Groves, 1952 SPECIES
-=======
+# Tympanis prunicola J.W. Groves, 1952 SPECIES
 
 #### Status
 ACCEPTED

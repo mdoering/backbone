@@ -1,5 +1,4 @@
-Candida viswanathii Sandu & H.S. Randhawa, 1962 SPECIES
-=======
+# Candida viswanathii Sandu & H.S. Randhawa, 1962 SPECIES
 
 #### Status
 ACCEPTED

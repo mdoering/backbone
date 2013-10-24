@@ -1,5 +1,4 @@
-Helminthosporium reticulatum Cooke SPECIES
-=======
+# Helminthosporium reticulatum Cooke SPECIES
 
 #### Status
 ACCEPTED

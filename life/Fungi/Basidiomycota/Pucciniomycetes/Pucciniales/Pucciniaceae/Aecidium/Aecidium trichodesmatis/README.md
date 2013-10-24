@@ -1,8 +1,7 @@
-Aecidium trichodesmae Kuprev. SPECIES
-=======
+# Aecidium trichodesmatis Kuprev. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium trichodesmae Kuprev.
+Aecidium trichodesmatis Kuprev.
 
 ### Remarks
 null

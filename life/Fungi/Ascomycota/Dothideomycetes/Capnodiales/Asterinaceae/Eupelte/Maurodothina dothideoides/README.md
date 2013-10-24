@@ -1,5 +1,4 @@
-Maurodothina dothideoides (Ellis & Everh.) Piroz. & Shoemaker SPECIES
-=======
+# Maurodothina dothideoides (Ellis & Everh.) Piroz. & Shoemaker SPECIES
 
 #### Status
 ACCEPTED

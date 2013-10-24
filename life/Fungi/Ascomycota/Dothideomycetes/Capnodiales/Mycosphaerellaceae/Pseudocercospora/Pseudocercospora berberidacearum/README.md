@@ -1,5 +1,4 @@
-Pseudocercospora berberidacearum ined. SPECIES
-=======
+# Pseudocercospora berberidacearum ined. SPECIES
 
 #### Status
 ACCEPTED

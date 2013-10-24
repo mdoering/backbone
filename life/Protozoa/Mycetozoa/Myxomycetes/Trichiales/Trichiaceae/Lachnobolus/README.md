@@ -1,5 +1,4 @@
-Lachnobolus GENUS
-=======
+# Lachnobolus GENUS
 
 #### Status
 ACCEPTED

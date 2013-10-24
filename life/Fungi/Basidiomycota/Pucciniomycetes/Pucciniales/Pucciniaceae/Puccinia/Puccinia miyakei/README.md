@@ -1,5 +1,4 @@
-Puccinia miyakei Syd. SPECIES
-=======
+# Puccinia miyakei Syd. SPECIES
 
 #### Status
 ACCEPTED

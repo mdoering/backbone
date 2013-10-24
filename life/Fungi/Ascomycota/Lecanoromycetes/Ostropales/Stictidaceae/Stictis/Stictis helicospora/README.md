@@ -1,5 +1,4 @@
-Stictis helicospora Sherwood SPECIES
-=======
+# Stictis helicospora Sherwood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridium lepidigenum (Ellis) Sacc. SPECIES
-=======
+# Asteridium lepidigenum (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

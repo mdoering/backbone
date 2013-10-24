@@ -1,5 +1,4 @@
-Entoloma infundibuliforme Petch SPECIES
-=======
+# Entoloma infundibuliforme Petch SPECIES
 
 #### Status
 ACCEPTED

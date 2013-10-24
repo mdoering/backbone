@@ -1,5 +1,4 @@
-Hypomyces papyraceus (Ellis & Holw.) Seaver SPECIES
-=======
+# Hypomyces papyraceus (Ellis & Holw.) Seaver SPECIES
 
 #### Status
 ACCEPTED

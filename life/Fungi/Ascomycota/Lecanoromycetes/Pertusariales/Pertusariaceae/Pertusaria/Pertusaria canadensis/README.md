@@ -1,5 +1,4 @@
-Pertusaria canadensis Stirt. SPECIES
-=======
+# Pertusaria canadensis Stirt. SPECIES
 
 #### Status
 ACCEPTED

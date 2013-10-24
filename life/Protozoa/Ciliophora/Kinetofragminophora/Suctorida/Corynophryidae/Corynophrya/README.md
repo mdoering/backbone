@@ -1,5 +1,4 @@
-Corynophrya Hartog, 1902 GENUS
-=======
+# Corynophrya Hartog, 1902 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clasterosporium populi (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Clasterosporium populi (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

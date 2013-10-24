@@ -1,5 +1,4 @@
-Elsinoë cryptostegiae Bitanc. & Jenkins SPECIES
-=======
+# Elsinoë cryptostegiae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

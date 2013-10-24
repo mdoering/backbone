@@ -1,5 +1,4 @@
-Mitremyces berkeleyi (Massee) Sacc. SPECIES
-=======
+# Mitremyces berkeleyi (Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

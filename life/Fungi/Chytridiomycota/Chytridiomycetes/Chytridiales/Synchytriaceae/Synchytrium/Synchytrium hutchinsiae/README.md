@@ -1,5 +1,4 @@
-Synchytrium hutchinsiae Rytz SPECIES
-=======
+# Synchytrium hutchinsiae Rytz SPECIES
 
 #### Status
 ACCEPTED

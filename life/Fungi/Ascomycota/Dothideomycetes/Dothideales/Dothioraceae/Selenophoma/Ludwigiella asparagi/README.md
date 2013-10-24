@@ -1,5 +1,4 @@
-Ludwigiella asparagi Petr. SPECIES
-=======
+# Ludwigiella asparagi Petr. SPECIES
 
 #### Status
 ACCEPTED

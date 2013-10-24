@@ -1,5 +1,4 @@
-Meliola brachypoda Syd. SPECIES
-=======
+# Meliola brachypoda Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psora nimbosa SPECIES
-=======
+# Psora nimbosa SPECIES
 
 #### Status
 ACCEPTED

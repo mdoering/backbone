@@ -1,5 +1,4 @@
-Phyllosticta alchemillae (Vestergr.) Allesch. SPECIES
-=======
+# Phyllosticta alchemillae (Vestergr.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

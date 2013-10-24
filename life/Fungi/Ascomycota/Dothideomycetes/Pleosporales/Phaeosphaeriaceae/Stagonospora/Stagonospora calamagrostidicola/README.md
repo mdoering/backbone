@@ -1,17 +1,16 @@
-Stagonospora calamagrostis Petr. SPECIES
-=======
+# Stagonospora calamagrostidicola Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 20: 26 (1922)
 
 #### Original name
-Stagonospora calamagrostis Petr.
+Stagonospora calamagrostidicola Petr.
 
 ### Remarks
 null

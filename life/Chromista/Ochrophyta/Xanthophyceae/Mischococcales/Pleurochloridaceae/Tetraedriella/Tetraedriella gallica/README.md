@@ -1,5 +1,4 @@
-Tetraedriella gallica (P. Bourrelly) Y. Thérézien SPECIES
-=======
+# Tetraedriella gallica (P. Bourrelly) Y. Thérézien SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Glugea tisae (Lom & Weiser, 1969) Lom & Laird, 1976 SPECIES
-=======
+# Nosema tisae Lom & Weiser, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

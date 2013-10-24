@@ -1,5 +1,4 @@
-Mycovellosiella teucrii (Schwein.) Deighton SPECIES
-=======
+# Mycovellosiella teucrii (Schwein.) Deighton SPECIES
 
 #### Status
 ACCEPTED

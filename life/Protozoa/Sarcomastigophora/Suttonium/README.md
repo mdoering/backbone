@@ -1,5 +1,4 @@
-Suttonium Schaaf, 1976 GENUS
-=======
+# Suttonium Schaaf, 1976 GENUS
 
 #### Status
 ACCEPTED

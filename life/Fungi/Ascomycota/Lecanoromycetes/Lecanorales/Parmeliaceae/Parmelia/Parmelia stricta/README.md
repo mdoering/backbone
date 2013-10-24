@@ -1,5 +1,4 @@
-Parmelia stricta Lynge SPECIES
-=======
+# Parmelia stricta Lynge SPECIES
 
 #### Status
 ACCEPTED

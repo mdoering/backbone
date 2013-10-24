@@ -1,5 +1,4 @@
-Polyporus ornithorhynchi Kalchbr. SPECIES
-=======
+# Polyporus ornithorhynchi Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

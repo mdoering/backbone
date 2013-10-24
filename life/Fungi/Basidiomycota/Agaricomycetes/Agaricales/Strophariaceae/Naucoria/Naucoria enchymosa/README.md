@@ -1,5 +1,4 @@
-Naucoria enchymosa (Fr.) Sacc. SPECIES
-=======
+# Naucoria enchymosa (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

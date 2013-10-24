@@ -1,17 +1,16 @@
-Meliola kanniyakumariana var. kanniyakumariana VARIETY
-=======
+# Meliola kanniyakumariana Hosag. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Meliolales of India (Calcutta) 229 (1996)
 
 #### Original name
-null
+Meliola kanniyakumariana Hosag.
 
 ### Remarks
 null

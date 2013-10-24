@@ -1,5 +1,4 @@
-Calicium corylinum Schumach. SPECIES
-=======
+# Calicium corylinum Schumach. SPECIES
 
 #### Status
 ACCEPTED

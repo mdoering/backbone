@@ -1,5 +1,4 @@
-Roseivirga echinicomitans Nedashkovskaya et al., 2005 SPECIES
-=======
+# Roseivirga echinicomitans Nedashkovskaya et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

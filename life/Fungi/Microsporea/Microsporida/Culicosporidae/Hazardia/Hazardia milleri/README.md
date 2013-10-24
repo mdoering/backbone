@@ -1,5 +1,4 @@
-Hazardia milleri (E. Hazard & T. Fukuda) J. Weiser SPECIES
-=======
+# Hazardia milleri (E. Hazard & T. Fukuda) J. Weiser SPECIES
 
 #### Status
 ACCEPTED

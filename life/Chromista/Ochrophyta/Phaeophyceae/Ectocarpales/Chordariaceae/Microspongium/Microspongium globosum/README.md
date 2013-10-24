@@ -1,8 +1,7 @@
-Hecatonema globosum var. nana A.D.Cotton VARIETY
-=======
+# Microspongium globosum Reinke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

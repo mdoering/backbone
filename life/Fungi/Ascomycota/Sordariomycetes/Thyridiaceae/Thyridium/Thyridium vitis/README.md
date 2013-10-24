@@ -1,5 +1,4 @@
-Thyridium vitis Ellis & Everh. SPECIES
-=======
+# Thyridium vitis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus menieri Bon SPECIES
-=======
+# Agaricus menieri Bon SPECIES
 
 #### Status
 ACCEPTED

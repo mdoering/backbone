@@ -1,5 +1,4 @@
-Visbysphaera perculta (Martin, 1983) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Visbysphaera perculta (Martin, 1983) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

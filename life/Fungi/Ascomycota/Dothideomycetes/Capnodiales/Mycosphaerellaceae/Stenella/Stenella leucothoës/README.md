@@ -1,17 +1,16 @@
-Stenella leucothoes U. Braun SPECIES
-=======
+# Stenella leucothoës U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Braun & Crous, Fungal Diversity 26(1): 66 (2007)
 
 #### Original name
-Stenella leucothoes U. Braun
+Stenella leucothoës U. Braun
 
 ### Remarks
 null

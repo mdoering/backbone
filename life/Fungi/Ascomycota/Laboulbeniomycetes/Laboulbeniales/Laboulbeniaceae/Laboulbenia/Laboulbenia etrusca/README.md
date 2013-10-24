@@ -1,5 +1,4 @@
-Laboulbenia etrusca Speg. SPECIES
-=======
+# Laboulbenia etrusca Speg. SPECIES
 
 #### Status
 ACCEPTED

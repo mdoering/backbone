@@ -1,5 +1,4 @@
-Crinipellis rubidus Pat. & R. Heim SPECIES
-=======
+# Crinipellis rubidus Pat. & R. Heim SPECIES
 
 #### Status
 ACCEPTED

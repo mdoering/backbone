@@ -1,5 +1,4 @@
-Uromyces costaricensis Syd. & P. Syd. SPECIES
-=======
+# Uromyces costaricensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

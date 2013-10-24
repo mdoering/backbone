@@ -1,5 +1,4 @@
-Synsphaeridium Playford GENUS
-=======
+# Synsphaeridium Playford GENUS
 
 #### Status
 ACCEPTED

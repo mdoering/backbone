@@ -1,17 +1,16 @@
-Echinella croslandi Massee SPECIES
-=======
+# Lachnum corticale (Pers.) Nannf., 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 246 (1934)
 
 #### Original name
-Echinella croslandi Massee
+Lachnum corticale (Pers.) Nannf., 1932
 
 ### Remarks
 null

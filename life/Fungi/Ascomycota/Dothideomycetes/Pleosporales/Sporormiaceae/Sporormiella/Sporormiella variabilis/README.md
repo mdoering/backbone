@@ -1,5 +1,4 @@
-Sporormiella variabilis G. Winter, 1874 SPECIES
-=======
+# Sporormiella variabilis G. Winter, 1874 SPECIES
 
 #### Status
 ACCEPTED

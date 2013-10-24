@@ -1,5 +1,4 @@
-Helotium planodiscum (Peck & Clinton) W.L. White SPECIES
-=======
+# Helotium planodiscum (Peck & Clinton) W.L. White SPECIES
 
 #### Status
 ACCEPTED

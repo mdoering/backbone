@@ -1,5 +1,4 @@
-Peltistromella anomala (Berk. & Broome) Petch SPECIES
-=======
+# Peltistromella anomala (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

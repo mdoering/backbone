@@ -1,5 +1,4 @@
-Pyrenopeziza minuta E.K. Cash SPECIES
-=======
+# Pyrenopeziza minuta E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

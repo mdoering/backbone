@@ -1,14 +1,13 @@
-Lecidea subcontinua Nyl. SPECIES
-=======
+# Notolecidea subcontinua (Nyl.) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 79: 441 (1984)
 
 #### Original name
 Lecidea subcontinua Nyl.

@@ -1,8 +1,7 @@
-Cytophaga salmonicolor Veldkamp, 1961 (Approved Lists, 1980) SPECIES
-=======
+# Marinilabilia salmonicolor (Veldkamp, 1961) Nakagawa & Yamasato, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

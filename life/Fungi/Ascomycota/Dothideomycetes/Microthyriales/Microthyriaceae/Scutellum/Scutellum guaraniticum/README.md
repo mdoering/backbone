@@ -1,5 +1,4 @@
-Scutellum guaraniticum Speg. SPECIES
-=======
+# Scutellum guaraniticum Speg. SPECIES
 
 #### Status
 ACCEPTED

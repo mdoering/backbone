@@ -1,5 +1,4 @@
-Phibalis fissa Wallr. SPECIES
-=======
+# Phibalis fissa Wallr. SPECIES
 
 #### Status
 ACCEPTED

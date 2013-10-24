@@ -1,5 +1,4 @@
-Dacrymyces quercicola Sosin SPECIES
-=======
+# Dacrymyces quercicola Sosin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exidia applanata Schwein. SPECIES
-=======
+# Exidia applanata Schwein. SPECIES
 
 #### Status
 ACCEPTED

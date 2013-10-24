@@ -1,5 +1,4 @@
-Nematostoma lantanae (Theiss.) Petr. SPECIES
-=======
+# Nematostoma lantanae (Theiss.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo prosopidicola Speg. SPECIES
-=======
+# Uredo prosopidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

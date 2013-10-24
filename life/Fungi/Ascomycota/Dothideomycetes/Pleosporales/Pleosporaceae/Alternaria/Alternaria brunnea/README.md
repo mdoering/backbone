@@ -1,5 +1,4 @@
-Alternaria brunnea T.Y. Zhang SPECIES
-=======
+# Alternaria brunnea T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

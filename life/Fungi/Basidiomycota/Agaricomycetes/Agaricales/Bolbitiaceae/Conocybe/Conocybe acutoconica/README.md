@@ -1,5 +1,4 @@
-Conocybe acutoconica Watling SPECIES
-=======
+# Conocybe acutoconica Watling SPECIES
 
 #### Status
 ACCEPTED

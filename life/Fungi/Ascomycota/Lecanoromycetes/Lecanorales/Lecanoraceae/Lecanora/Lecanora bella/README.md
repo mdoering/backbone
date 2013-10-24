@@ -1,5 +1,4 @@
-Lecanora bella Ach. SPECIES
-=======
+# Lecanora bella Ach. SPECIES
 
 #### Status
 ACCEPTED

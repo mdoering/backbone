@@ -1,8 +1,7 @@
-Protoperidinium rhomboidalis Abé, 1981 SPECIES
-=======
+# Protoperidinium acanthophorum (Balech, 1962) Balech, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

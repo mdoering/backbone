@@ -1,5 +1,4 @@
-Stellenboschia Crous GENUS
-=======
+# Stellenboschia Crous GENUS
 
 #### Status
 ACCEPTED

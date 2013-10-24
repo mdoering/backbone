@@ -1,5 +1,4 @@
-Cudoniella buckowensis Henn. SPECIES
-=======
+# Cudoniella buckowensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis pezizoidea var. pezizoidea VARIETY
-=======
+# Phaeographis pezizoidea (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeographis pezizoidea var. pezizoidea
+Graphis pezizoidea Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fusidium patellatum Bonord. SPECIES
-=======
+# Fusidium patellatum Bonord. SPECIES
 
 #### Status
 ACCEPTED

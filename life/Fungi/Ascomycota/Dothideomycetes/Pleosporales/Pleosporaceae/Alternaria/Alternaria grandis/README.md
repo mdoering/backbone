@@ -1,5 +1,4 @@
-Alternaria grandis E.G. Simmons, 2000 SPECIES
-=======
+# Alternaria grandis E.G. Simmons, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium sacidioides Speg. SPECIES
-=======
+# Sclerotium sacidioides Speg. SPECIES
 
 #### Status
 ACCEPTED

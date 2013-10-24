@@ -1,5 +1,4 @@
-Panellus haematopus (Berk.) Murrill SPECIES
-=======
+# Panellus haematopus (Berk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

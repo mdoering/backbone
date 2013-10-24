@@ -1,5 +1,4 @@
-Clitocybe luteophylla H.E. Bigelow & Hesler SPECIES
-=======
+# Clitocybe luteophylla H.E. Bigelow & Hesler SPECIES
 
 #### Status
 ACCEPTED

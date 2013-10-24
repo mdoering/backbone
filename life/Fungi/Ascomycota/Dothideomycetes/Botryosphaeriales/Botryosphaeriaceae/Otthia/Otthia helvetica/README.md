@@ -1,5 +1,4 @@
-Otthia helvetica (H. Wegelin) Scheinpflug SPECIES
-=======
+# Otthia helvetica (H. Wegelin) Scheinpflug SPECIES
 
 #### Status
 ACCEPTED

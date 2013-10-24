@@ -1,5 +1,4 @@
-Buellia siliciola SPECIES
-=======
+# Buellia siliciola SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helmisporium hirudo Sacc. SPECIES
-=======
+# Helminthosporium hirudo Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Michelia 1(no. 1): 85 (1877)
 
 #### Original name
-Helmisporium hirudo Sacc.
+Helminthosporium hirudo Sacc.
 
 ### Remarks
 null

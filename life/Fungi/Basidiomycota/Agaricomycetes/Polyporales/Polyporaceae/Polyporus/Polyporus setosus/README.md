@@ -1,5 +1,4 @@
-Polyporus setosus var. setosus VARIETY
-=======
+# Polyporus setosus Lloyd SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. Writ. 4 (Polyp. sect. Apus) 350 (1915)
 
 #### Original name
-Polyporus setosus var. setosus
+Polyporus setosus Lloyd
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coelosporidium chydoricola Mesnil & Marchoux SPECIES
-=======
+# Coelosporidium chydoricola Mesnil & Marchoux SPECIES
 
 #### Status
 ACCEPTED

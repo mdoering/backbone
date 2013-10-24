@@ -1,5 +1,4 @@
-Nodulisporium radians (Berk.) Deighton SPECIES
-=======
+# Nodulisporium radians (Berk.) Deighton SPECIES
 
 #### Status
 ACCEPTED

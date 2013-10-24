@@ -1,5 +1,4 @@
-Gloeosporidina canthiicola B. Sutton SPECIES
-=======
+# Gloeosporidina canthiicola B. Sutton SPECIES
 
 #### Status
 ACCEPTED

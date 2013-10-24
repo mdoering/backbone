@@ -1,5 +1,4 @@
-Achroomyces longibasidius (Lowy) Wojewoda SPECIES
-=======
+# Achroomyces longibasidius (Lowy) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

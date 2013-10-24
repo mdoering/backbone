@@ -1,5 +1,4 @@
-Caeoma tenue Schwein. SPECIES
-=======
+# Caeoma tenue Schwein. SPECIES
 
 #### Status
 ACCEPTED

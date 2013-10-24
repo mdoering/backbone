@@ -1,5 +1,4 @@
-Sclerotium hydrophilum Sacc., 1899 SPECIES
-=======
+# Sclerotium hydrophilum Sacc., 1899 SPECIES
 
 #### Status
 ACCEPTED

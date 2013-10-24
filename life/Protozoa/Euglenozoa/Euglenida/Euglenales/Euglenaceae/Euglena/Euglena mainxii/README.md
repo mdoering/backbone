@@ -1,5 +1,4 @@
-Euglena mainxii Deflandre SPECIES
-=======
+# Euglena mainxii Deflandre SPECIES
 
 #### Status
 ACCEPTED

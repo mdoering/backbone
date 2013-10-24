@@ -1,5 +1,4 @@
-Valsa wistariae Tschern. SPECIES
-=======
+# Valsa wistariae Tschern. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema nostalgicum G. Salisb. SPECIES
-=======
+# Thelotrema nostalgicum G. Salisb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucopezis excipulata Clem. SPECIES
-=======
+# Leucopezis excipulata Clem. SPECIES
 
 #### Status
 ACCEPTED

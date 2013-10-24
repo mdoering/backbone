@@ -1,5 +1,4 @@
-Lecidea epixanthina Nyl. SPECIES
-=======
+# Lecidea epixanthina Nyl. SPECIES
 
 #### Status
 ACCEPTED

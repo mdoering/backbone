@@ -1,5 +1,4 @@
-Guignardia justiciae F. Stevens SPECIES
-=======
+# Guignardia justiciae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

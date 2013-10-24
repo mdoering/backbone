@@ -1,5 +1,4 @@
-Cytospora scheidweileri Westend. SPECIES
-=======
+# Cytospora scheidweileri Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apertospathula implicata SPECIES
-=======
+# Apertospathula implicata SPECIES
 
 #### Status
 ACCEPTED

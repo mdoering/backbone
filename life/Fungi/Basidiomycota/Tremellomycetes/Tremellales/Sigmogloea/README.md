@@ -1,5 +1,4 @@
-Sigmogloea Bandoni & J.C. Krug GENUS
-=======
+# Sigmogloea Bandoni & J.C. Krug GENUS
 
 #### Status
 ACCEPTED

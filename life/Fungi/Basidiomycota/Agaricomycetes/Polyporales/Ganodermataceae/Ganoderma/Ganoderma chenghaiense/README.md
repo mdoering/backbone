@@ -1,5 +1,4 @@
-Ganoderma chenghaiense J.D. Zhao, 1989 SPECIES
-=======
+# Ganoderma chenghaiense J.D. Zhao, 1989 SPECIES
 
 #### Status
 ACCEPTED

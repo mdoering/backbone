@@ -1,5 +1,4 @@
-Appendiculella dombeyae (Hansf. & Deighton) Hansf. SPECIES
-=======
+# Appendiculella dombeyae (Hansf. & Deighton) Hansf. SPECIES
 
 #### Status
 ACCEPTED

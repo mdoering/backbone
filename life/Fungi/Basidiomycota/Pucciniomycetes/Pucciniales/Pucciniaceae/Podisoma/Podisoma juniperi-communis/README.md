@@ -1,5 +1,4 @@
-Podisoma juniperi-communis Fr. SPECIES
-=======
+# Podisoma juniperi-communis Fr. SPECIES
 
 #### Status
 ACCEPTED

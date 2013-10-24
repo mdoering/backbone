@@ -1,5 +1,4 @@
-Sphacelotheca polliniana Zundel SPECIES
-=======
+# Sphacelotheca polliniana Zundel SPECIES
 
 #### Status
 ACCEPTED

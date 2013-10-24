@@ -1,5 +1,4 @@
-Fomes griseus Lázaro Ibiza SPECIES
-=======
+# Fomes griseus Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

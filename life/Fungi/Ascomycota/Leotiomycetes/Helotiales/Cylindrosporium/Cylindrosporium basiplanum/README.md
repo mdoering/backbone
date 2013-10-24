@@ -1,5 +1,4 @@
-Cylindrosporium basiplanum Vassiljevsky SPECIES
-=======
+# Cylindrosporium basiplanum Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

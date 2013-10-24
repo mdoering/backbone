@@ -1,5 +1,4 @@
-Cenangium ellisii Sacc. SPECIES
-=======
+# Cenangium ellisii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Grandinia pileata Saut. SPECIES
-=======
+# Grandinia pileata Saut. SPECIES
 
 #### Status
 ACCEPTED

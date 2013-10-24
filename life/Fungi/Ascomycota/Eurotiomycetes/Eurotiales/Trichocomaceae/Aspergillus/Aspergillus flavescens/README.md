@@ -1,5 +1,4 @@
-Aspergillus flavescens Wreden SPECIES
-=======
+# Aspergillus flavescens Wreden SPECIES
 
 #### Status
 ACCEPTED

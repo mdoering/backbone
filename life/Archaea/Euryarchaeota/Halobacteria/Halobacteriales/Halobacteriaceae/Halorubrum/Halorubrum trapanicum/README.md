@@ -1,11 +1,10 @@
-Bacterium trapanicum Petter, 1931 SPECIES
-=======
+# Halorubrum trapanicum (Petter, 1931) McGenity & Grant, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

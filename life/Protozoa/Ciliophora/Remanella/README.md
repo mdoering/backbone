@@ -1,5 +1,4 @@
-Remanella Foissner, 1996 GENUS
-=======
+# Remanella Foissner, 1996 GENUS
 
 #### Status
 ACCEPTED

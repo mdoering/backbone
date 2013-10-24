@@ -1,5 +1,4 @@
-Oxytricha proteusa SPECIES
-=======
+# Oxytricha proteusa SPECIES
 
 #### Status
 ACCEPTED

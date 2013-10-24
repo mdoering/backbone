@@ -1,5 +1,4 @@
-Chroococcus rufescens (Kützing) Nägeli SPECIES
-=======
+# Chroococcus rufescens (Kützing) Nägeli SPECIES
 
 #### Status
 ACCEPTED

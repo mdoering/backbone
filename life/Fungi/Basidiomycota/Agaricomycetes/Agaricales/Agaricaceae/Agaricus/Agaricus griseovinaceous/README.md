@@ -1,5 +1,4 @@
-Agaricus griseovinaceous A. Pearson ex Pegler SPECIES
-=======
+# Agaricus griseovinaceous A. Pearson ex Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora plumbeocaesia SPECIES
-=======
+# Lecanora plumbeocaesia SPECIES
 
 #### Status
 ACCEPTED

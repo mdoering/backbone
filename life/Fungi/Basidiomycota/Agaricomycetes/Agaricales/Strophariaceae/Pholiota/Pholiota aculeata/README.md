@@ -1,5 +1,4 @@
-Pholiota aculeata Bres. & Roum. SPECIES
-=======
+# Pholiota aculeata Bres. & Roum. SPECIES
 
 #### Status
 ACCEPTED

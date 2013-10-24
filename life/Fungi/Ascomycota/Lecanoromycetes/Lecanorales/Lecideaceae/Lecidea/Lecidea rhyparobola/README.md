@@ -1,5 +1,4 @@
-Lecidea rhyparobola Nyl. SPECIES
-=======
+# Lecidea rhyparobola Nyl. SPECIES
 
 #### Status
 ACCEPTED

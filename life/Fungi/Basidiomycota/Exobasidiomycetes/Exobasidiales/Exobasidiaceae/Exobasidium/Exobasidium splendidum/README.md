@@ -1,5 +1,4 @@
-Exobasidium splendidum Nannf., 1981 SPECIES
-=======
+# Exobasidium splendidum Nannf., 1981 SPECIES
 
 #### Status
 ACCEPTED

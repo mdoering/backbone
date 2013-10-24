@@ -1,5 +1,4 @@
-Crepidotus mucidifolius Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus mucidifolius Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

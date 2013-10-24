@@ -1,5 +1,4 @@
-Crepidotus serbicus Pilát SPECIES
-=======
+# Crepidotus serbicus Pilát SPECIES
 
 #### Status
 ACCEPTED

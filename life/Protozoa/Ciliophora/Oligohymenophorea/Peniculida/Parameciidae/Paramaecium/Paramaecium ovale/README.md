@@ -1,5 +1,4 @@
-Paramaecium ovale SPECIES
-=======
+# Paramaecium ovale SPECIES
 
 #### Status
 ACCEPTED

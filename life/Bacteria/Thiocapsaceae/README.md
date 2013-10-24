@@ -1,5 +1,4 @@
-Thiocapsaceae FAMILY
-=======
+# Thiocapsaceae FAMILY
 
 #### Status
 ACCEPTED

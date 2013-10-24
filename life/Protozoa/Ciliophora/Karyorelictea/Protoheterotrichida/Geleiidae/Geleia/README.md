@@ -1,5 +1,4 @@
-Geleia Kahl, 1933 GENUS
-=======
+# Geleia Kahl, 1933 GENUS
 
 #### Status
 ACCEPTED

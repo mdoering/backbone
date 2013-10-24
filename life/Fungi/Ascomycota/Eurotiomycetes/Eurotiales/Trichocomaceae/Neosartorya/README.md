@@ -1,17 +1,16 @@
-Hemisartorya J.N. Rai & H.J. Chowdhery GENUS
-=======
+# Neosartorya Malloch & Cain GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kavaka 3: 73 (1976)
+Can. J. Bot. 50(12): 2620 (1973)
 
 #### Original name
-Hemisartorya J.N. Rai & H.J. Chowdhery
+Neosartorya Malloch & Cain
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Haliscomenobacter hydrossis van Veen et al., 1973 (Approved Lists, 1980) SPECIES
-=======
+# Haliscomenobacter hydrossis van Veen et al., 1973 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

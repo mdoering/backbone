@@ -1,5 +1,4 @@
-Psoroma Ach. ex Michx. GENUS
-=======
+# Psoroma Ach. ex Michx. GENUS
 
 #### Status
 ACCEPTED

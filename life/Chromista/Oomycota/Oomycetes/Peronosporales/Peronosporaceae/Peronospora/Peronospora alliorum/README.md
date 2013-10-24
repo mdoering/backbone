@@ -1,5 +1,4 @@
-Peronospora alliorum Fuckel SPECIES
-=======
+# Peronospora alliorum Fuckel SPECIES
 
 #### Status
 ACCEPTED

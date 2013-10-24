@@ -1,5 +1,4 @@
-Toxospora Voronin, 1993 GENUS
-=======
+# Toxospora Voronin, 1993 GENUS
 
 #### Status
 ACCEPTED

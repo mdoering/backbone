@@ -1,5 +1,4 @@
-Dactylaria curcumae Sawada SPECIES
-=======
+# Dactylaria curcumae Sawada SPECIES
 
 #### Status
 ACCEPTED

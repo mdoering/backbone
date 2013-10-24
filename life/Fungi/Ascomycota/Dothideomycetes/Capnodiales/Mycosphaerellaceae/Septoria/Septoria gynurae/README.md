@@ -1,5 +1,4 @@
-Septoria gynurae Katsuki SPECIES
-=======
+# Septoria gynurae Katsuki SPECIES
 
 #### Status
 ACCEPTED

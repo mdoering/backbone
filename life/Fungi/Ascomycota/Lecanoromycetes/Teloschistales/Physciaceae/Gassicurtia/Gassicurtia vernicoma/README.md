@@ -1,5 +1,4 @@
-Gassicurtia vernicoma (Tuck.) Marbach SPECIES
-=======
+# Gassicurtia vernicoma (Tuck.) Marbach SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thioalkalispira Sorokin et al., 2002 GENUS
-=======
+# Thioalkalispira Sorokin et al., 2002 GENUS
 
 #### Status
 ACCEPTED

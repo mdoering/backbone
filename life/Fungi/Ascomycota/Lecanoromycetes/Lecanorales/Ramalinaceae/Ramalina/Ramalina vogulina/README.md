@@ -1,5 +1,4 @@
-Ramalina vogulina Vain. SPECIES
-=======
+# Ramalina vogulina Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Doassansiales R. Bauer & Oberw. ORDER
-=======
+# Doassansiales R. Bauer & Oberw. ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton cinereum Cazalbou SPECIES
-=======
+# Trichophyton cinereum Cazalbou SPECIES
 
 #### Status
 ACCEPTED

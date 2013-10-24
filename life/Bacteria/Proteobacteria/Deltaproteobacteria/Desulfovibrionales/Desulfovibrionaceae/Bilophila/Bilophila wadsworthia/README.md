@@ -1,5 +1,4 @@
-Bilophila wadsworthia Baron et al., 1990 SPECIES
-=======
+# Bilophila wadsworthia Baron et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

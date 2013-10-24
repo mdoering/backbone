@@ -1,5 +1,4 @@
-Uredo armillata F. Ludw. SPECIES
-=======
+# Uredo armillata F. Ludw. SPECIES
 
 #### Status
 ACCEPTED

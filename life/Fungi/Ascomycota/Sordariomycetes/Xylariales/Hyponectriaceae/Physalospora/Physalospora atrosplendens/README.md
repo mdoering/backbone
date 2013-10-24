@@ -1,5 +1,4 @@
-Physalospora atrosplendens (Preuss) Sacc. SPECIES
-=======
+# Physalospora atrosplendens (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

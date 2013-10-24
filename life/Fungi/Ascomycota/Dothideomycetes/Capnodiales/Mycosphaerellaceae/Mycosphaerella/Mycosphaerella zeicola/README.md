@@ -1,5 +1,4 @@
-Mycosphaerella zeicola G.L. Stout SPECIES
-=======
+# Mycosphaerella zeicola G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

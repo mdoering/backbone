@@ -1,5 +1,4 @@
-Phyllachora advena Syd., 1925 SPECIES
-=======
+# Phyllachora advena Syd., 1925 SPECIES
 
 #### Status
 DOUBTFUL

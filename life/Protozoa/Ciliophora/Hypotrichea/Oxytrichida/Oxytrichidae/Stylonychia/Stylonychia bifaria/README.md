@@ -1,5 +1,4 @@
-Stylonychia bifaria (Stokes, 1887) Berger, 1999 SPECIES
-=======
+# Stylonychia bifaria (Stokes, 1887) Berger, 1999 SPECIES
 
 #### Status
 ACCEPTED

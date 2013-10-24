@@ -1,5 +1,4 @@
-Baeospora rubrinigrescens Corner SPECIES
-=======
+# Baeospora rubrinigrescens Corner SPECIES
 
 #### Status
 ACCEPTED

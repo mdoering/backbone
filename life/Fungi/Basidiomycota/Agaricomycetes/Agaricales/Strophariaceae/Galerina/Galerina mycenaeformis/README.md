@@ -1,5 +1,4 @@
-Galerina mycenaeformis B.E. Lechner & J.E. Wright SPECIES
-=======
+# Galerina mycenaeformis B.E. Lechner & J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

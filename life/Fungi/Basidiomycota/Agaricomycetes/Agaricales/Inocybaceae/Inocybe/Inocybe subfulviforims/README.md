@@ -1,5 +1,4 @@
-Inocybe subfulviforims Murrill SPECIES
-=======
+# Inocybe subfulviforims Murrill SPECIES
 
 #### Status
 ACCEPTED

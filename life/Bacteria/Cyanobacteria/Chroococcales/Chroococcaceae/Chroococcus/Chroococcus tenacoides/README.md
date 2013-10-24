@@ -1,5 +1,4 @@
-Chroococcus tenacoides Copeland SPECIES
-=======
+# Chroococcus tenacoides Copeland SPECIES
 
 #### Status
 ACCEPTED

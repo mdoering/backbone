@@ -1,5 +1,4 @@
-Chloropeltigera GENUS
-=======
+# Chloropeltigera GENUS
 
 #### Status
 ACCEPTED

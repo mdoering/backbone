@@ -1,5 +1,4 @@
-Amphilothus elegans (Schütt, 1895) Kofoid, 1907 SPECIES
-=======
+# Amphilothus elegans (Schütt, 1895) Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

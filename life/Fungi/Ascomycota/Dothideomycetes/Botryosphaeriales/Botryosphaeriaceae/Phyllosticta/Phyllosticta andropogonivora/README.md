@@ -1,5 +1,4 @@
-Phyllosticta andropogonivora R. Sprague & Rogerson SPECIES
-=======
+# Phyllosticta andropogonivora R. Sprague & Rogerson SPECIES
 
 #### Status
 ACCEPTED

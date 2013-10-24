@@ -1,14 +1,13 @@
-Balladina Dahl, 1932 GENUS
-=======
+# Balladyna Kowalewsky, 1882 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tierwelt Dtschl. , Teil 25, 541.
+Pam. Fizyjorg. , 2, fasc. 3, 404.
 
 #### Original name
 null

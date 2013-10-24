@@ -1,5 +1,4 @@
-Sporidesmium palmicola W.P. Wu SPECIES
-=======
+# Sporidesmium palmicola W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

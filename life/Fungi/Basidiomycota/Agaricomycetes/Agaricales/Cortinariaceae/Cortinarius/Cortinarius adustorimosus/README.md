@@ -1,5 +1,4 @@
-Cortinarius adustorimosus Rob. Henry SPECIES
-=======
+# Cortinarius adustorimosus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

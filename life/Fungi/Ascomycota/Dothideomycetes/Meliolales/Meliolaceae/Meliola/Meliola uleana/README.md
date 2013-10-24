@@ -1,5 +1,4 @@
-Meliola uleana Pazschke SPECIES
-=======
+# Meliola uleana Pazschke SPECIES
 
 #### Status
 ACCEPTED

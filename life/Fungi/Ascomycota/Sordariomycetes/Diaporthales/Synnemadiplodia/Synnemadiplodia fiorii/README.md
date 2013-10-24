@@ -1,5 +1,4 @@
-Synnemadiplodia fiorii (Bacc.) Zambett. SPECIES
-=======
+# Synnemadiplodia fiorii (Bacc.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

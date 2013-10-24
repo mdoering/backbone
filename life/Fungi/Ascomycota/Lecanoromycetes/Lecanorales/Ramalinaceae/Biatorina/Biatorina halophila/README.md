@@ -1,14 +1,13 @@
-Catillaria halophila (J. Hardy) Zahlbr. SPECIES
-=======
+# Biatorina halophila J. Hardy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 4: 46 (1926)
+J. Bot. 1: 307 (1863)
 
 #### Original name
 Biatorina halophila J. Hardy

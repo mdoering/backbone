@@ -1,5 +1,4 @@
-Nothophacidium J. Reid & Cain GENUS
-=======
+# Nothophacidium J. Reid & Cain GENUS
 
 #### Status
 ACCEPTED

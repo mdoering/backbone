@@ -1,5 +1,4 @@
-Multicellites allomorphus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Multicellites allomorphus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

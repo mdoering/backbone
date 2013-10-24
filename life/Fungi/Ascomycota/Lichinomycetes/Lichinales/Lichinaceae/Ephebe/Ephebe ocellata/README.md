@@ -1,5 +1,4 @@
-Ephebe ocellata Henssen SPECIES
-=======
+# Ephebe ocellata Henssen SPECIES
 
 #### Status
 ACCEPTED

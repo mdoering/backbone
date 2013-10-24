@@ -1,5 +1,4 @@
-Ilea compressa var. crinita Zanardini VARIETY
-=======
+# Ilea compressa (Linnaeus) Gaillon SPECIES
 
 #### Status
 ACCEPTED

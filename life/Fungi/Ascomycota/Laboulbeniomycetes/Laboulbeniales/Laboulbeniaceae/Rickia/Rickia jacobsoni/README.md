@@ -1,5 +1,4 @@
-Rickia jacobsoni Speg. SPECIES
-=======
+# Rickia jacobsoni Speg. SPECIES
 
 #### Status
 ACCEPTED

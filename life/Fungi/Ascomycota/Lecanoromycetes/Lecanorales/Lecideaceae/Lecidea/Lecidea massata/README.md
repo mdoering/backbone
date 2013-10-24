@@ -1,5 +1,4 @@
-Lecidea massata Tuck. SPECIES
-=======
+# Lecidea massata Tuck. SPECIES
 
 #### Status
 ACCEPTED

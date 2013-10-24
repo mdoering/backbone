@@ -1,5 +1,4 @@
-Laboulbenia bidentata Thaxt. SPECIES
-=======
+# Laboulbenia bidentata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

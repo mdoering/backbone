@@ -1,5 +1,4 @@
-Phoma kuehniana Oertel SPECIES
-=======
+# Phoma kuehniana Oertel SPECIES
 
 #### Status
 ACCEPTED

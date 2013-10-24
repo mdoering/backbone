@@ -1,5 +1,4 @@
-Russula subpavonina Murrill SPECIES
-=======
+# Russula subpavonina Murrill SPECIES
 
 #### Status
 ACCEPTED

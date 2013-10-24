@@ -1,5 +1,4 @@
-Pocsia pocsii (Farkas & Vezda) Lücking & Kalb SPECIES
-=======
+# Pocsia pocsii (Farkas & Vezda) Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

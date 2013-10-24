@@ -1,5 +1,4 @@
-Pelagibaca bermudensis Cho & Giovannoni, 2006 SPECIES
-=======
+# Pelagibaca bermudensis Cho & Giovannoni, 2006 SPECIES
 
 #### Status
 ACCEPTED

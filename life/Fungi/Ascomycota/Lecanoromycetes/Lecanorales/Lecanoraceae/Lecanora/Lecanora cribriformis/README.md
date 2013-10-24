@@ -1,5 +1,4 @@
-Lecanora cribriformis Norman SPECIES
-=======
+# Lecanora cribriformis Norman SPECIES
 
 #### Status
 ACCEPTED

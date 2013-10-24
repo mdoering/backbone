@@ -1,5 +1,4 @@
-Lopadium glaucophaeopsis (Vain.) SPECIES
-=======
+# Lopadium glaucophaeopsis (Vain.) SPECIES
 
 #### Status
 ACCEPTED

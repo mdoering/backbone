@@ -1,5 +1,4 @@
-Cytosporella cerei Pollacci SPECIES
-=======
+# Cytosporella cerei Pollacci SPECIES
 
 #### Status
 ACCEPTED

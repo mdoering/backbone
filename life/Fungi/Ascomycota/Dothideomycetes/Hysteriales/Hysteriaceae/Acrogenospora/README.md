@@ -1,17 +1,16 @@
-Monotospora Sacc. GENUS
-=======
+# Acrogenospora M.B. Ellis, 1971 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Monotospora Sacc.
+null
 
 ### Remarks
 null

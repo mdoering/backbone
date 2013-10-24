@@ -1,5 +1,4 @@
-Fomes arculatus (Bres.) Sacc. SPECIES
-=======
+# Fomes arculatus (Bres.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

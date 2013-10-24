@@ -1,5 +1,4 @@
-Hebeloma hortense Burt SPECIES
-=======
+# Hebeloma hortense Burt SPECIES
 
 #### Status
 ACCEPTED

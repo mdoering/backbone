@@ -1,5 +1,4 @@
-Agaricus trilobus Bolton SPECIES
-=======
+# Agaricus trilobus Bolton SPECIES
 
 #### Status
 ACCEPTED

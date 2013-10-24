@@ -1,5 +1,4 @@
-Biatora epixanthoides (Nyl.) Diederich, 1989 SPECIES
-=======
+# Biatora epixanthoides (Nyl.) Diederich, 1989 SPECIES
 
 #### Status
 DOUBTFUL

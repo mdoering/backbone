@@ -1,5 +1,4 @@
-Verrucula monstrosa (Schaer.) J. Steiner SPECIES
-=======
+# Verrucula monstrosa (Schaer.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

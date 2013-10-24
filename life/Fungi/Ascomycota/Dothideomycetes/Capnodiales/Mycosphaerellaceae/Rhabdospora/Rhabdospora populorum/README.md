@@ -1,5 +1,4 @@
-Rhabdospora populorum Schulzer & Sacc. SPECIES
-=======
+# Rhabdospora populorum Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

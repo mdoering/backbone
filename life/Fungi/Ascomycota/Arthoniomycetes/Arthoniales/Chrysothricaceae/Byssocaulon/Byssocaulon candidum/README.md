@@ -1,5 +1,4 @@
-Byssocaulon candidum Müll. Arg. SPECIES
-=======
+# Byssocaulon candidum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

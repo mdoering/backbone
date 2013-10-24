@@ -1,5 +1,4 @@
-Naevia viteluna SPECIES
-=======
+# Naevia viteluna SPECIES
 
 #### Status
 ACCEPTED

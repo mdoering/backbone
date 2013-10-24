@@ -1,17 +1,16 @@
-Polystictus floccosus var. floccosus VARIETY
-=======
+# Coriolopsis floccosa (Jungh.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 79 (1851)
+Norw. Jl Bot. 19(3-4): 230 (1972)
 
 #### Original name
-Polystictus floccosus var. floccosus
+Polyporus floccosus Jungh., 1838
 
 ### Remarks
 null

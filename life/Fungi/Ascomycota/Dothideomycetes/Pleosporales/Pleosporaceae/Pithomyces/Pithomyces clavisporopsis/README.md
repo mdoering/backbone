@@ -1,5 +1,4 @@
-Pithomyces clavisporopsis X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Pithomyces clavisporopsis X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

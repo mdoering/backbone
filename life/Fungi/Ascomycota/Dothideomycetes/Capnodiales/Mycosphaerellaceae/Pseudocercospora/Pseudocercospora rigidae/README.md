@@ -1,5 +1,4 @@
-Pseudocercospora rigidae Meir. Silva & O.L. Pereira SPECIES
-=======
+# Pseudocercospora rigidae Meir. Silva & O.L. Pereira SPECIES
 
 #### Status
 ACCEPTED

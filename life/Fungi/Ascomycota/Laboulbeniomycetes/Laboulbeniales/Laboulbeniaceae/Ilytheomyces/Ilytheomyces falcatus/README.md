@@ -1,5 +1,4 @@
-Ilytheomyces falcatus Thaxt. SPECIES
-=======
+# Ilytheomyces falcatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

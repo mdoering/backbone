@@ -1,5 +1,4 @@
-Sporotrichum niveum Allesch. SPECIES
-=======
+# Sporotrichum niveum Allesch. SPECIES
 
 #### Status
 ACCEPTED

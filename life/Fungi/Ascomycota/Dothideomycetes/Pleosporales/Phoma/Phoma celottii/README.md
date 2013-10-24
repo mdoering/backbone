@@ -1,5 +1,4 @@
-Phoma celottii Sacc. SPECIES
-=======
+# Phoma celottii Sacc. SPECIES
 
 #### Status
 ACCEPTED

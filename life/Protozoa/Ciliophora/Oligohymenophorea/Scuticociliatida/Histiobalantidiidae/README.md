@@ -1,5 +1,4 @@
-Histiobalantidiidae FAMILY
-=======
+# Histiobalantidiidae FAMILY
 
 #### Status
 ACCEPTED

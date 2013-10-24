@@ -1,5 +1,4 @@
-Rotaliatinopsis Banner & Blow, 1967 GENUS
-=======
+# Rotaliatinopsis Banner & Blow, 1967 GENUS
 
 #### Status
 ACCEPTED

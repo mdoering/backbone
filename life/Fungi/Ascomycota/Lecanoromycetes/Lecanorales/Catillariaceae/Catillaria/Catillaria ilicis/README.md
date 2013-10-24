@@ -1,5 +1,4 @@
-Catillaria ilicis (A. Massal.) A. Massal. SPECIES
-=======
+# Catillaria ilicis (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

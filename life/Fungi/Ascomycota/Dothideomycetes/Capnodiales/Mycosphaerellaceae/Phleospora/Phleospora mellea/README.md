@@ -1,5 +1,4 @@
-Phleospora mellea SPECIES
-=======
+# Phleospora mellea SPECIES
 
 #### Status
 ACCEPTED

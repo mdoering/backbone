@@ -1,5 +1,4 @@
-Candida bombiphila Brysch-Herzb. & Lachance SPECIES
-=======
+# Candida bombiphila Brysch-Herzb. & Lachance SPECIES
 
 #### Status
 ACCEPTED

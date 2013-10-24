@@ -1,5 +1,4 @@
-Sphaeria xestothele Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria xestothele Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

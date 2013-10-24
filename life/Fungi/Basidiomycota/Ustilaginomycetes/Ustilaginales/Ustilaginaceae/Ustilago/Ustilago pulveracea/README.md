@@ -1,5 +1,4 @@
-Ustilago pulveracea Cooke SPECIES
-=======
+# Ustilago pulveracea Cooke SPECIES
 
 #### Status
 ACCEPTED

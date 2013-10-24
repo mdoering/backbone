@@ -1,5 +1,4 @@
-Agaricus sallei Berk. SPECIES
-=======
+# Agaricus sallei Berk. SPECIES
 
 #### Status
 ACCEPTED

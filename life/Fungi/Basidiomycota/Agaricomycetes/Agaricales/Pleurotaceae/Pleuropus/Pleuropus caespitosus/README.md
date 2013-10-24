@@ -1,5 +1,4 @@
-Pleuropus caespitosus (Peck) Murrill SPECIES
-=======
+# Pleuropus caespitosus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

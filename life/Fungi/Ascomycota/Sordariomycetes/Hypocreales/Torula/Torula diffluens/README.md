@@ -1,5 +1,4 @@
-Torula diffluens Ruinen SPECIES
-=======
+# Torula diffluens Ruinen SPECIES
 
 #### Status
 ACCEPTED

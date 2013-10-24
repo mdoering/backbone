@@ -1,5 +1,4 @@
-Isaria tomentella Fr. SPECIES
-=======
+# Isaria tomentella Fr. SPECIES
 
 #### Status
 ACCEPTED

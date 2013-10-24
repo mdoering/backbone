@@ -1,5 +1,4 @@
-Spiremarium Haeckel, 1887 GENUS
-=======
+# Spiremarium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

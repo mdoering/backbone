@@ -1,14 +1,13 @@
-Verrucaria sexlocularis Nyl. SPECIES
-=======
+# Pyrenula sexlocularis (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 60: 475 (1887)
 
 #### Original name
 Verrucaria sexlocularis Nyl.

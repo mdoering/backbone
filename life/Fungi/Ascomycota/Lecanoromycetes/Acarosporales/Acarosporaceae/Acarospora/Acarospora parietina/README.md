@@ -1,5 +1,4 @@
-Acarospora parietina Hepp SPECIES
-=======
+# Acarospora parietina Hepp SPECIES
 
 #### Status
 ACCEPTED

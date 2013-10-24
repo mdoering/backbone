@@ -1,5 +1,4 @@
-Aegerita punctiformis Lam. & DC. SPECIES
-=======
+# Aegerita punctiformis Lam. & DC. SPECIES
 
 #### Status
 ACCEPTED

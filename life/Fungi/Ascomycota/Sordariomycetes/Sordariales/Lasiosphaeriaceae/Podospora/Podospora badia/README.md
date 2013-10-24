@@ -1,5 +1,4 @@
-Podospora badia Sultana SPECIES
-=======
+# Podospora badia Sultana SPECIES
 
 #### Status
 ACCEPTED

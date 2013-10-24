@@ -1,5 +1,4 @@
-Phaeoseptoria multiseptata Frandsen SPECIES
-=======
+# Phaeoseptoria multiseptata Frandsen SPECIES
 
 #### Status
 ACCEPTED

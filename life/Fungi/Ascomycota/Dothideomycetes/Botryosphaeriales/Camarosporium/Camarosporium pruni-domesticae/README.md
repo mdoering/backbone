@@ -1,5 +1,4 @@
-Camarosporium pruni-domesticae Frolov SPECIES
-=======
+# Camarosporium pruni-domesticae Frolov SPECIES
 
 #### Status
 ACCEPTED

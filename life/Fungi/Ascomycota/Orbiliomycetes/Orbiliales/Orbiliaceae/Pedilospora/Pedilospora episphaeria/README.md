@@ -1,5 +1,4 @@
-Pedilospora episphaeria Höhn. SPECIES
-=======
+# Pedilospora episphaeria Höhn. SPECIES
 
 #### Status
 ACCEPTED

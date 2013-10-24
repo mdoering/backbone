@@ -1,5 +1,4 @@
-Puccinia stauntoniae Tranzschel & Dietel SPECIES
-=======
+# Puccinia stauntoniae Tranzschel & Dietel SPECIES
 
 #### Status
 ACCEPTED

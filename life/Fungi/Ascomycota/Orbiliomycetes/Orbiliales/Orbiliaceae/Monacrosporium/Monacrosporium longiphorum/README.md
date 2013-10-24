@@ -1,5 +1,4 @@
-Monacrosporium longiphorum Xing Z. Liu & B.S. Lu SPECIES
-=======
+# Monacrosporium longiphorum Xing Z. Liu & B.S. Lu SPECIES
 
 #### Status
 ACCEPTED

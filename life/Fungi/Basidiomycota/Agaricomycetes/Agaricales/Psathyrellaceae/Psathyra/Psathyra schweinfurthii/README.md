@@ -1,5 +1,4 @@
-Psathyra schweinfurthii (Roum.) Reichert SPECIES
-=======
+# Psathyra schweinfurthii (Roum.) Reichert SPECIES
 
 #### Status
 ACCEPTED

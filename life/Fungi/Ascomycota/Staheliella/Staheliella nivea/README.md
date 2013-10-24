@@ -1,5 +1,4 @@
-Staheliella nivea R.F. Castañeda & G.R.W. Arnold SPECIES
-=======
+# Staheliella nivea R.F. Castañeda & G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

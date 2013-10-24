@@ -1,5 +1,4 @@
-Lecanora xanthospora SPECIES
-=======
+# Lecanora xanthospora SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Otidea subonotica Henn. SPECIES
-=======
+# Otidea subonotica Henn. SPECIES
 
 #### Status
 ACCEPTED

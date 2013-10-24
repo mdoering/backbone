@@ -1,5 +1,4 @@
-Pseudosporopsis Scherff. GENUS
-=======
+# Pseudosporopsis Scherff. GENUS
 
 #### Status
 ACCEPTED

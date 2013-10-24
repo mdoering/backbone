@@ -1,17 +1,16 @@
-Phoma staticis Tassi SPECIES
-=======
+# Phoma statices Tassi, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin Labor. Orto Bot. de R. Univ. Siena 1: 167 (1898)
 
 #### Original name
-Phoma staticis Tassi
+Phoma statices Tassi, 1898
 
 ### Remarks
 null

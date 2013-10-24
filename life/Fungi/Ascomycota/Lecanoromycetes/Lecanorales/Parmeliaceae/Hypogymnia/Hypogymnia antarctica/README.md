@@ -1,5 +1,4 @@
-Hypogymnia antarctica (Bitter) C.W. Dodge SPECIES
-=======
+# Hypogymnia antarctica (Bitter) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

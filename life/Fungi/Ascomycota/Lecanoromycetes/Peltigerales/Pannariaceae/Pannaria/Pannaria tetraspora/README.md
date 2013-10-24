@@ -1,5 +1,4 @@
-Pannaria tetraspora SPECIES
-=======
+# Pannaria tetraspora SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia kashiwadanii T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia kashiwadanii T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

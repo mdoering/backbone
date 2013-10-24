@@ -1,5 +1,4 @@
-Macroplodia platani (Peck) Kuntze SPECIES
-=======
+# Macroplodia platani (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

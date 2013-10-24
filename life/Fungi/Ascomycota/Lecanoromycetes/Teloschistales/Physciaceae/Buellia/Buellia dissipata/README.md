@@ -1,5 +1,4 @@
-Buellia dissipata Groenh. SPECIES
-=======
+# Buellia dissipata Groenh. SPECIES
 
 #### Status
 ACCEPTED

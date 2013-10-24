@@ -1,5 +1,4 @@
-Deltoidina parallolophodes Jiabo, 1978 SPECIES
-=======
+# Deltoidina parallolophodes Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

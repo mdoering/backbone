@@ -1,5 +1,4 @@
-Sphaerella tyrolensis var. tyrolensis VARIETY
-=======
+# Sphaerella tyrolensis Auersw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella tyrolensis var. tyrolensis
+Sphaerella tyrolensis Auersw.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ditremis flavopallida Makhija & Patw. SPECIES
-=======
+# Ditremis flavopallida Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

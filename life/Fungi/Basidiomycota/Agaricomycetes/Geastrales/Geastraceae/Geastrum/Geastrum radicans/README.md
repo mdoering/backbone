@@ -1,8 +1,7 @@
-Geaster radicans Berk. & M.A. Curtis SPECIES
-=======
+# Geastrum radicans Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster radicans Berk. & M.A. Curtis
+Geastrum radicans Berk. & M.A. Curtis
 
 ### Remarks
 null

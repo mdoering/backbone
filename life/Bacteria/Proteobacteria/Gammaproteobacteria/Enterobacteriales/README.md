@@ -1,5 +1,4 @@
-Enterobacteriales ORDER
-=======
+# Enterobacteriales ORDER
 
 #### Status
 ACCEPTED

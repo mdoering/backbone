@@ -1,5 +1,4 @@
-Cortinarius alnophilus (M.M. Moser) Nespiak SPECIES
-=======
+# Cortinarius alnophilus (M.M. Moser) Nespiak SPECIES
 
 #### Status
 ACCEPTED

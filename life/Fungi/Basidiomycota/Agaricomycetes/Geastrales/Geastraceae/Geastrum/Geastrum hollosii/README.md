@@ -1,5 +1,4 @@
-Geastrum hollosii V.J. Stanek SPECIES
-=======
+# Geastrum hollosii V.J. Stanek SPECIES
 
 #### Status
 ACCEPTED

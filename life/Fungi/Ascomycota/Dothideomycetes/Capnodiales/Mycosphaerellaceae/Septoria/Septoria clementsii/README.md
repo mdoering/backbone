@@ -1,5 +1,4 @@
-Septoria clementsii H.C. Greene SPECIES
-=======
+# Septoria clementsii H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

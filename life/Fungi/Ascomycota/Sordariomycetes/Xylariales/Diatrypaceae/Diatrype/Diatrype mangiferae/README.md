@@ -1,5 +1,4 @@
-Diatrype mangiferae R. Rao SPECIES
-=======
+# Diatrype mangiferae R. Rao SPECIES
 
 #### Status
 ACCEPTED

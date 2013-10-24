@@ -1,14 +1,13 @@
-Helotium crispatum (Kühner) Redhead, 1982 SPECIES
-=======
+# Hemimycena crispata (Kühner) Singer, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 60(10): 2004 (1982)
+Annls mycol. 41(1/3): 121 (1943)
 
 #### Original name
 Mycena crispata Kühner, 1938

@@ -1,5 +1,4 @@
-Gloeophyllales Thorn ORDER
-=======
+# Gloeophyllales Thorn ORDER
 
 #### Status
 ACCEPTED

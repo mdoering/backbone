@@ -1,5 +1,4 @@
-Synochromonas elaeochrus Jane SPECIES
-=======
+# Synochromonas elaeochrus Jane SPECIES
 
 #### Status
 ACCEPTED

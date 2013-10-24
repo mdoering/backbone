@@ -1,5 +1,4 @@
-Cetraria capitata Lynge SPECIES
-=======
+# Cetraria capitata Lynge SPECIES
 
 #### Status
 ACCEPTED

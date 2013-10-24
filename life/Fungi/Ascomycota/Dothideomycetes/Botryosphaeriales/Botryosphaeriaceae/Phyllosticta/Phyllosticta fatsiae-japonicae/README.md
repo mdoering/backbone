@@ -1,5 +1,4 @@
-Phyllosticta fatsiae-japonicae Petr. SPECIES
-=======
+# Phyllosticta fatsiae-japonicae Petr. SPECIES
 
 #### Status
 ACCEPTED

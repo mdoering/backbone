@@ -1,5 +1,4 @@
-Cercospora dapoliana Garud SPECIES
-=======
+# Cercospora dapoliana Garud SPECIES
 
 #### Status
 ACCEPTED

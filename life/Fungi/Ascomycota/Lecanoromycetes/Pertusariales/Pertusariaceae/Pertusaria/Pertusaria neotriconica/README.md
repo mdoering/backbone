@@ -1,5 +1,4 @@
-Pertusaria neotriconica Elix & A. W. Archer SPECIES
-=======
+# Pertusaria neotriconica Elix & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

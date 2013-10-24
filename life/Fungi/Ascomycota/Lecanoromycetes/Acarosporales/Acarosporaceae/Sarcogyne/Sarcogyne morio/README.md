@@ -1,5 +1,4 @@
-Sarcogyne morio (Duby) SPECIES
-=======
+# Sarcogyne morio (Duby) SPECIES
 
 #### Status
 ACCEPTED

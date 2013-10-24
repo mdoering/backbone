@@ -1,5 +1,4 @@
-Peridinium balechii R. Akselman SPECIES
-=======
+# Peridinium balechii R. Akselman SPECIES
 
 #### Status
 ACCEPTED

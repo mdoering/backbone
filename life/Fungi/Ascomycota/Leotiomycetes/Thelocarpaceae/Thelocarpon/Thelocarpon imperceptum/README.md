@@ -1,5 +1,4 @@
-Thelocarpon imperceptum var. polysporum (Tomin) Oxner VARIETY
-=======
+# Thelocarpon imperceptum (Nyl.) Mig. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Kelleria polyspora Tomin
+Athelium imperceptum Nyl.
 
 ### Remarks
 null

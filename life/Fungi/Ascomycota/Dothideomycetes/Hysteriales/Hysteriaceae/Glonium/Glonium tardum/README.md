@@ -1,5 +1,4 @@
-Glonium tardum (Berk.) Sacc. SPECIES
-=======
+# Glonium tardum (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

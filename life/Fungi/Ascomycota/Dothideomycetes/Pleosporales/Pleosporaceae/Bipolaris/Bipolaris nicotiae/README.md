@@ -1,14 +1,13 @@
-Drechslera nicotiae Mouch., 1975 SPECIES
-=======
+# Bipolaris nicotiae (Mouch.) Alcorn, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 38(3-4): 108 (1975)
+Mycotaxon 17: 68 (1983)
 
 #### Original name
 Drechslera nicotiae Mouch., 1975

@@ -1,5 +1,4 @@
-Camarosporium triacanthi (Sacc.) Sacc. SPECIES
-=======
+# Camarosporium triacanthi (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

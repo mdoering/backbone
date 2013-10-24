@@ -1,5 +1,4 @@
-Asteromella digitalis-ambiguae Arx SPECIES
-=======
+# Asteromella digitalis-ambiguae Arx SPECIES
 
 #### Status
 ACCEPTED

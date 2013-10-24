@@ -1,5 +1,4 @@
-Agrocybe cubensis (Murrill) Singer SPECIES
-=======
+# Agrocybe cubensis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

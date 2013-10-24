@@ -1,5 +1,4 @@
-Bryoria pseudocyphellata Bystrek SPECIES
-=======
+# Bryoria pseudocyphellata Bystrek SPECIES
 
 #### Status
 ACCEPTED

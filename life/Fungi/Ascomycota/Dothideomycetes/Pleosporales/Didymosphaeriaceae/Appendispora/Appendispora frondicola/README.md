@@ -1,5 +1,4 @@
-Appendispora frondicola K.D. Hyde, 1994 SPECIES
-=======
+# Appendispora frondicola K.D. Hyde, 1994 SPECIES
 
 #### Status
 ACCEPTED

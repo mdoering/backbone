@@ -1,5 +1,4 @@
-Amanita abrupta Peck SPECIES
-=======
+# Amanita abrupta Peck SPECIES
 
 #### Status
 ACCEPTED

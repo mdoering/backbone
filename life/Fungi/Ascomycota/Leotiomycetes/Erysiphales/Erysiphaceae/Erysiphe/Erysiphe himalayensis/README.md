@@ -1,5 +1,4 @@
-Erysiphe himalayensis (A.K. Sharma) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe himalayensis (A.K. Sharma) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lentinus radicosus var. radicosus VARIETY
-=======
+# Lentinus fusipes Cooke & Massee, 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 16(no. 77): 1 (1887)
 
 #### Original name
-Lentinus radicosus var. radicosus
+Lentinus fusipes Cooke & Massee, 1887
 
 ### Remarks
 null

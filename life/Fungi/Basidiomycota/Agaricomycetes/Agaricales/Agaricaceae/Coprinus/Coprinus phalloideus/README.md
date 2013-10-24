@@ -1,5 +1,4 @@
-Coprinus phalloideus Henn. & E. Nyman SPECIES
-=======
+# Coprinus phalloideus Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

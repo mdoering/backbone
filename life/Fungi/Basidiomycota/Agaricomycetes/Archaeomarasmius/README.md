@@ -1,5 +1,4 @@
-Archaeomarasmius Hibbett, D. Grimaldi & Donoghue GENUS
-=======
+# Archaeomarasmius Hibbett, D. Grimaldi & Donoghue GENUS
 
 #### Status
 ACCEPTED

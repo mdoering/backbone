@@ -1,5 +1,4 @@
-Lophiostoma scrophulariae Peck SPECIES
-=======
+# Lophiostoma scrophulariae Peck SPECIES
 
 #### Status
 ACCEPTED

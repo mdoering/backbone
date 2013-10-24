@@ -1,5 +1,4 @@
-Septoria lengyelii Moesz SPECIES
-=======
+# Septoria lengyelii Moesz SPECIES
 
 #### Status
 ACCEPTED

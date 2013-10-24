@@ -1,5 +1,4 @@
-Arthopyrenia lucida (Körb.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia lucida (Körb.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

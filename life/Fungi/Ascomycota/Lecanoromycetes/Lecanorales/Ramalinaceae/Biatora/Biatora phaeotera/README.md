@@ -1,5 +1,4 @@
-Biatora phaeotera (Nyl.) Arnold SPECIES
-=======
+# Biatora phaeotera (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

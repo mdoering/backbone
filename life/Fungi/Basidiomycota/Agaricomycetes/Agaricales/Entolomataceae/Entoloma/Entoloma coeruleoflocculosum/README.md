@@ -1,5 +1,4 @@
-Entoloma coeruleoflocculosum Noordel. SPECIES
-=======
+# Entoloma coeruleoflocculosum Noordel. SPECIES
 
 #### Status
 ACCEPTED

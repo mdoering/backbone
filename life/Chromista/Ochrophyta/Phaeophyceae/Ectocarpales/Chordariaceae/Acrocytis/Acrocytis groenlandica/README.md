@@ -1,5 +1,4 @@
-Acrocytis groenlandica Rosenvinge SPECIES
-=======
+# Acrocytis groenlandica Rosenvinge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena urania (Fr.) Quél., 1872 SPECIES
-=======
+# Mycena urania (Fr.) Quél., 1872 SPECIES
 
 #### Status
 ACCEPTED

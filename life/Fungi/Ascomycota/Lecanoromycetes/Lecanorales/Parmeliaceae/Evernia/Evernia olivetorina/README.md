@@ -1,5 +1,4 @@
-Evernia olivetorina Zopf SPECIES
-=======
+# Evernia olivetorina Zopf SPECIES
 
 #### Status
 ACCEPTED

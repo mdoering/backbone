@@ -1,5 +1,4 @@
-Sporisorium formosanum (Sawada) Vánky SPECIES
-=======
+# Sporisorium formosanum (Sawada) Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerognomoniella Naumov & Kusnezowa GENUS
-=======
+# Sphaerognomoniella Naumov & Kusnezowa GENUS
 
 #### Status
 ACCEPTED

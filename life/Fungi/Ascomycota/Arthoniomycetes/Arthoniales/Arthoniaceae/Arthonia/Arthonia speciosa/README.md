@@ -1,5 +1,4 @@
-Arthonia speciosa (Müll. Arg.) Grube SPECIES
-=======
+# Arthonia speciosa (Müll. Arg.) Grube SPECIES
 
 #### Status
 ACCEPTED

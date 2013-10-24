@@ -1,5 +1,4 @@
-Marasmius octifolius Murrill SPECIES
-=======
+# Marasmius octifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

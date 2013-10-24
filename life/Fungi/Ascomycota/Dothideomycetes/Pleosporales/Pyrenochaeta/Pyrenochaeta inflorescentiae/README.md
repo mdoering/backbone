@@ -1,5 +1,4 @@
-Pyrenochaeta inflorescentiae Crous, Marincowitz & M.J. Wingf. SPECIES
-=======
+# Pyrenochaeta inflorescentiae Crous, Marincowitz & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

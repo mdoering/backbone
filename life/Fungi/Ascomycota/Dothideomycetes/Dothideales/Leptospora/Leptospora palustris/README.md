@@ -1,5 +1,4 @@
-Leptospora palustris J. Schröt. SPECIES
-=======
+# Leptospora palustris J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

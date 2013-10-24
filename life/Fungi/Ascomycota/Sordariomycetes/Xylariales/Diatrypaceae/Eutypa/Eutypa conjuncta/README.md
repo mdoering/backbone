@@ -1,5 +1,4 @@
-Eutypa conjuncta Petch SPECIES
-=======
+# Eutypa conjuncta Petch SPECIES
 
 #### Status
 ACCEPTED

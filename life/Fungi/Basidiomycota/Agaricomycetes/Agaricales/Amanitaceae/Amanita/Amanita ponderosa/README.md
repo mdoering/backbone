@@ -1,17 +1,16 @@
-Amanita ponderosa f. ponderosa FORM
-=======
+# Amanita ponderosa Malençon & R. Heim SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 58: 28 (1942)
 
 #### Original name
-null
+Amanita ponderosa Malençon & R. Heim
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea plumbicolor Nyl. SPECIES
-=======
+# Lecidea plumbicolor Nyl. SPECIES
 
 #### Status
 ACCEPTED

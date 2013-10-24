@@ -1,5 +1,4 @@
-Phyllosticta curvata Golovin SPECIES
-=======
+# Phyllosticta curvata Golovin SPECIES
 
 #### Status
 ACCEPTED

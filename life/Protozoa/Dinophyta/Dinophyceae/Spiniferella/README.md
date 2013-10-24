@@ -1,5 +1,4 @@
-Spiniferella L.E. Stover & J. Hardenbol, 1994 GENUS
-=======
+# Spiniferella L.E. Stover & J. Hardenbol, 1994 GENUS
 
 #### Status
 ACCEPTED

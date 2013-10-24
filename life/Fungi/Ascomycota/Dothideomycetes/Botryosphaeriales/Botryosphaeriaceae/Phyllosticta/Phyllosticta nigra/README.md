@@ -1,5 +1,4 @@
-Phyllosticta nigra Brunaud SPECIES
-=======
+# Phyllosticta nigra Brunaud SPECIES
 
 #### Status
 ACCEPTED

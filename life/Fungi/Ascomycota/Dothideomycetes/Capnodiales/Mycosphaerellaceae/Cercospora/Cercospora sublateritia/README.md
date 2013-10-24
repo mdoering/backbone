@@ -1,5 +1,4 @@
-Cercospora sublateritia Henn. SPECIES
-=======
+# Cercospora sublateritia Henn. SPECIES
 
 #### Status
 ACCEPTED

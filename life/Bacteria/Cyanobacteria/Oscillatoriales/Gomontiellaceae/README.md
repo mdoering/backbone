@@ -1,5 +1,4 @@
-Gomontiellaceae FAMILY
-=======
+# Gomontiellaceae FAMILY
 
 #### Status
 ACCEPTED

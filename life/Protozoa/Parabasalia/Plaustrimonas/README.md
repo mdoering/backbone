@@ -1,5 +1,4 @@
-Plaustrimonas Patterson & Simpson, 1996 GENUS
-=======
+# Plaustrimonas Patterson & Simpson, 1996 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina epipremi Sawada SPECIES
-=======
+# Diplodina epipremi Sawada SPECIES
 
 #### Status
 ACCEPTED

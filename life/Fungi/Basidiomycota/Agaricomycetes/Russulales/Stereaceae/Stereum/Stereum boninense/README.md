@@ -1,5 +1,4 @@
-Stereum boninense Yasuda SPECIES
-=======
+# Stereum boninense Yasuda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mikrocysta T. Bjaerke, 1980 GENUS
-=======
+# Mikrocysta T. Bjaerke, 1980 GENUS
 
 #### Status
 ACCEPTED

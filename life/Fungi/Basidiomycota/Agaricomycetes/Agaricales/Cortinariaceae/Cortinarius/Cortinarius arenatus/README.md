@@ -1,5 +1,4 @@
-Cortinarius arenatus (Pers.) Fr. SPECIES
-=======
+# Cortinarius arenatus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

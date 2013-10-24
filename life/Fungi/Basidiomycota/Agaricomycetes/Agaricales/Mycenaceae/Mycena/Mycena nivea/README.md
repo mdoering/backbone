@@ -1,5 +1,4 @@
-Mycena nivea Quél. SPECIES
-=======
+# Mycena nivea Quél. SPECIES
 
 #### Status
 ACCEPTED

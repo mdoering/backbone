@@ -1,5 +1,4 @@
-Arthrobotrys oviformis Soprunov, 1958 SPECIES
-=======
+# Arthrobotrys oviformis Soprunov, 1958 SPECIES
 
 #### Status
 ACCEPTED

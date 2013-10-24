@@ -1,5 +1,4 @@
-Alternaria pomicola A.S. Horne SPECIES
-=======
+# Alternaria pomicola A.S. Horne SPECIES
 
 #### Status
 ACCEPTED

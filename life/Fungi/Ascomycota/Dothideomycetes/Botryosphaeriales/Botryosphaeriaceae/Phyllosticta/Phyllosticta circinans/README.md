@@ -1,5 +1,4 @@
-Phyllosticta circinans (Roum.) Sacc. SPECIES
-=======
+# Phyllosticta circinans (Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

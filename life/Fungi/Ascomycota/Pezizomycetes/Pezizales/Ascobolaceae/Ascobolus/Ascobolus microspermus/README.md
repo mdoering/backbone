@@ -1,5 +1,4 @@
-Ascobolus microspermus Speg. SPECIES
-=======
+# Ascobolus microspermus Speg. SPECIES
 
 #### Status
 ACCEPTED

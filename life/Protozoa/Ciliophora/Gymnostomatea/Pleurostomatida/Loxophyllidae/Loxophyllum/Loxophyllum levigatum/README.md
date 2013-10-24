@@ -1,5 +1,4 @@
-Loxophyllum levigatum Sauerbrey, 1928 SPECIES
-=======
+# Loxophyllum levigatum Sauerbrey, 1928 SPECIES
 
 #### Status
 ACCEPTED

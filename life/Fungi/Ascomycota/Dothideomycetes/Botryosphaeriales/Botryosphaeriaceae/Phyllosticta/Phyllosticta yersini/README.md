@@ -1,5 +1,4 @@
-Phyllosticta yersini Vincens SPECIES
-=======
+# Phyllosticta yersini Vincens SPECIES
 
 #### Status
 ACCEPTED

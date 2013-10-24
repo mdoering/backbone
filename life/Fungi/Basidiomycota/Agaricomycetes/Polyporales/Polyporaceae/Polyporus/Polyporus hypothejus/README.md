@@ -1,5 +1,4 @@
-Polyporus hypothejus Kalchbr. SPECIES
-=======
+# Polyporus hypothejus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

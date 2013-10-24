@@ -1,5 +1,4 @@
-Pseudepistylis Peng, Shi & Warren, 2007 GENUS
-=======
+# Pseudepistylis Peng, Shi & Warren, 2007 GENUS
 
 #### Status
 ACCEPTED

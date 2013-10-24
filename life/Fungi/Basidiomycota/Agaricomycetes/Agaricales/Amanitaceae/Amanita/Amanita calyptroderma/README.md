@@ -1,5 +1,4 @@
-Amanita calyptroderma G.F. Atk. & V.G. Ballen, 1909 SPECIES
-=======
+# Amanita calyptroderma G.F. Atk. & V.G. Ballen, 1909 SPECIES
 
 #### Status
 ACCEPTED

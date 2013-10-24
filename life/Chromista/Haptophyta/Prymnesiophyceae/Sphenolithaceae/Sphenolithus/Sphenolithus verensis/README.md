@@ -1,5 +1,4 @@
-Sphenolithus verensis Backman, 1978 SPECIES
-=======
+# Sphenolithus verensis Backman, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria unicolor Peck SPECIES
-=======
+# Naucoria unicolor Peck SPECIES
 
 #### Status
 ACCEPTED

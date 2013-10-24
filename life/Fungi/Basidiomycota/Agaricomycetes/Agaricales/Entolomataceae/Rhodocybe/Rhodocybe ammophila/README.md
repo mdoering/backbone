@@ -1,5 +1,4 @@
-Rhodocybe ammophila E. Horak SPECIES
-=======
+# Rhodocybe ammophila E. Horak SPECIES
 
 #### Status
 ACCEPTED

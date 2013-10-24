@@ -1,17 +1,16 @@
-Pythium megalacanthum var. callistephi Tasugi & Siino VARIETY
-=======
+# Pythium buismaniae Plaäts-Nit., 1981 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 21: 44 (1981)
 
 #### Original name
-Pythium megalacanthum var. callistephi Tasugi & Siino
+Pythium buismaniae Plaäts-Nit., 1981
 
 ### Remarks
 null

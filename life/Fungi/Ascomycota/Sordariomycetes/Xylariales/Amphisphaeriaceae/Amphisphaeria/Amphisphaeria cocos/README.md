@@ -1,5 +1,4 @@
-Amphisphaeria cocos Rolland SPECIES
-=======
+# Amphisphaeria cocos Rolland SPECIES
 
 #### Status
 ACCEPTED

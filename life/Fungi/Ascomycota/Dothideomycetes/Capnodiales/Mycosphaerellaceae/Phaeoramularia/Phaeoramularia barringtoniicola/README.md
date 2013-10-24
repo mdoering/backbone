@@ -1,5 +1,4 @@
-Phaeoramularia barringtoniicola Y.L. Guo SPECIES
-=======
+# Phaeoramularia barringtoniicola Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

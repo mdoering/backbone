@@ -1,5 +1,4 @@
-Systenostrema alba SPECIES
-=======
+# Systenostrema alba SPECIES
 
 #### Status
 ACCEPTED

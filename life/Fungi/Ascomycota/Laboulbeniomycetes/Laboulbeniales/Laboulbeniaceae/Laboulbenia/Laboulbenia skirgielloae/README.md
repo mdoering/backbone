@@ -1,5 +1,4 @@
-Laboulbenia skirgielloae Balazuc SPECIES
-=======
+# Laboulbenia skirgielloae Balazuc SPECIES
 
 #### Status
 ACCEPTED

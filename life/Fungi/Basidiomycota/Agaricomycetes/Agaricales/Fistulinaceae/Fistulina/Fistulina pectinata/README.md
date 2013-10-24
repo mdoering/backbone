@@ -1,5 +1,4 @@
-Fistulina pectinata (Huds.) With. SPECIES
-=======
+# Fistulina pectinata (Huds.) With. SPECIES
 
 #### Status
 ACCEPTED

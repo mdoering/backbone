@@ -1,5 +1,4 @@
-Lecanora albosparsa Werner SPECIES
-=======
+# Lecanora albosparsa Werner SPECIES
 
 #### Status
 ACCEPTED

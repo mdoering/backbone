@@ -1,5 +1,4 @@
-Puccinia adenostegiae Arthur SPECIES
-=======
+# Puccinia adenostegiae Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia toa G. Cunn., 1930 SPECIES
-=======
+# Puccinia toa G. Cunn., 1930 SPECIES
 
 #### Status
 ACCEPTED

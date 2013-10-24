@@ -1,5 +1,4 @@
-Trametes cinereosulfurea Ferd. & Winge SPECIES
-=======
+# Trametes cinereosulfurea Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

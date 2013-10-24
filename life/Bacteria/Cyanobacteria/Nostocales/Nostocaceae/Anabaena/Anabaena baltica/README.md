@@ -1,11 +1,10 @@
-Anabaena spiroides f. baltica (J. Schmidt) Pankow, 1965 FORM
-=======
+# Anabaena baltica E.J. Schmidt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

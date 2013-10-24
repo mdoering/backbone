@@ -1,5 +1,4 @@
-Meliola antioquensis Orejuela SPECIES
-=======
+# Meliola antioquensis Orejuela SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia exigua Thaxt. SPECIES
-=======
+# Laboulbenia exigua Thaxt. SPECIES
 
 #### Status
 ACCEPTED

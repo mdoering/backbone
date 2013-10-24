@@ -1,5 +1,4 @@
-Cephalosporium glutineum Kamyschko SPECIES
-=======
+# Cephalosporium glutineum Kamyschko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cohnilembus caeci Powers, 1935 SPECIES
-=======
+# Pseudocohnilembus caeci (Powers, 1935) Foissner, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

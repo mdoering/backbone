@@ -1,8 +1,7 @@
-Lecidea roridula Th. Fr. SPECIES
-=======
+# Rhizocarpon roridulum (Th. Fr.) H. Olivier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Polychlamydum cavanillesii P. González SPECIES
-=======
+# Polychlamydum cavanillesii P. González SPECIES
 
 #### Status
 ACCEPTED

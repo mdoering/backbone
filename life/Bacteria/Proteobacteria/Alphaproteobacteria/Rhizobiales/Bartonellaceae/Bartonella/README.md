@@ -1,17 +1,16 @@
-Bartonia Strong, Tyzzer, Brues & Sellards, 1915 GENUS
-=======
+# Bartonella Strong, Tyzzer, Sellards, Brues & Gastiaburu, 1915 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Amer. Med. Ass. , 61, 1715.
+Rep. Harvard Exped. S. America, 1, 32.
 
 #### Original name
-null
+Bartonia Strong, Tyzzer, Brues & Sellards, 1915
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycena bambusicola Murrill SPECIES
-=======
+# Mycena bambusicola Murrill SPECIES
 
 #### Status
 ACCEPTED

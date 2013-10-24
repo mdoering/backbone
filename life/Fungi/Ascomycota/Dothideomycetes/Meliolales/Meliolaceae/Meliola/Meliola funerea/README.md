@@ -1,5 +1,4 @@
-Meliola funerea McAlpine SPECIES
-=======
+# Meliola funerea McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia venturioidea Cooke & Ellis SPECIES
-=======
+# Vermicularia venturioidea Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

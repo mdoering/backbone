@@ -1,5 +1,4 @@
-Conocybe phaedropis (Berk. & Broome) Pegler SPECIES
-=======
+# Conocybe phaedropis (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

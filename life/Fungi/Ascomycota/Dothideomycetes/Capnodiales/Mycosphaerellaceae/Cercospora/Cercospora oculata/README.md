@@ -1,5 +1,4 @@
-Cercospora oculata Ellis & Kellerm. SPECIES
-=======
+# Cercospora oculata Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

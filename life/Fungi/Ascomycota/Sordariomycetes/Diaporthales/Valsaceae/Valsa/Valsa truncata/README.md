@@ -1,5 +1,4 @@
-Valsa truncata Cooke & Peck SPECIES
-=======
+# Valsa truncata Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

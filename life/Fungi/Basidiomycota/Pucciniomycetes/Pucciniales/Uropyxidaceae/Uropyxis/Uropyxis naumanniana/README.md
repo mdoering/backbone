@@ -1,5 +1,4 @@
-Uropyxis naumanniana Magnus SPECIES
-=======
+# Uropyxis naumanniana Magnus SPECIES
 
 #### Status
 ACCEPTED

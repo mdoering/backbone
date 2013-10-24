@@ -1,5 +1,4 @@
-Prospodium peruvianum (Syd.) Arthur SPECIES
-=======
+# Prospodium peruvianum (Syd.) Arthur SPECIES
 
 #### Status
 ACCEPTED

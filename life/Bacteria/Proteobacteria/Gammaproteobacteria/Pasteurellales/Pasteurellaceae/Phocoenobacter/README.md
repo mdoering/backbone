@@ -1,5 +1,4 @@
-Phocoenobacter Foster et al., 2000 GENUS
-=======
+# Phocoenobacter Foster et al., 2000 GENUS
 
 #### Status
 ACCEPTED

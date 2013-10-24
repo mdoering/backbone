@@ -1,5 +1,4 @@
-Palaeoleptosphaeria intertrappeana Barlinge & Paradkar SPECIES
-=======
+# Palaeoleptosphaeria intertrappeana Barlinge & Paradkar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps pruinosa Petch SPECIES
-=======
+# Cordyceps pruinosa Petch SPECIES
 
 #### Status
 ACCEPTED

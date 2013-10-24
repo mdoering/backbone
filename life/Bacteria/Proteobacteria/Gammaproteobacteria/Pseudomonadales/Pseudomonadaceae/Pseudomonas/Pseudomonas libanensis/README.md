@@ -1,5 +1,4 @@
-Pseudomonas libanensis Dabboussi et al., 1999 SPECIES
-=======
+# Pseudomonas libanensis Dabboussi et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

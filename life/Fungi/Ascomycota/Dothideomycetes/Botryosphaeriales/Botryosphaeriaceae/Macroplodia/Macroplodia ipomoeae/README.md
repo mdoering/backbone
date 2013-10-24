@@ -1,5 +1,4 @@
-Macroplodia ipomoeae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Macroplodia ipomoeae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parvocavatus G.U.Gitmez, 1970 GENUS
-=======
+# Parvocavatus G.U.Gitmez, 1970 GENUS
 
 #### Status
 ACCEPTED

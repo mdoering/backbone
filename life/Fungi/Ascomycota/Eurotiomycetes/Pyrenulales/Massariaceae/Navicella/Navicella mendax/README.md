@@ -1,5 +1,4 @@
-Navicella mendax (De Not.) Kuntze SPECIES
-=======
+# Navicella mendax (De Not.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

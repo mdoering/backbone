@@ -1,5 +1,4 @@
-Gloeoheppia squamulosa (Zahlbr.) M. Schultz SPECIES
-=======
+# Gloeoheppia squamulosa (Zahlbr.) M. Schultz SPECIES
 
 #### Status
 ACCEPTED

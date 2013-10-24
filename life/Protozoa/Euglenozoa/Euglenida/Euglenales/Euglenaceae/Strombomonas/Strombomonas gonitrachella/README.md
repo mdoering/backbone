@@ -1,5 +1,4 @@
-Strombomonas gonitrachella Balech & Dastugue SPECIES
-=======
+# Strombomonas gonitrachella Balech & Dastugue SPECIES
 
 #### Status
 ACCEPTED

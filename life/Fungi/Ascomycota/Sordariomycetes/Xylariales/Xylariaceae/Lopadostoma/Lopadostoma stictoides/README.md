@@ -1,5 +1,4 @@
-Lopadostoma stictoides (Ellis & Everh.) P.M.D. Martin SPECIES
-=======
+# Lopadostoma stictoides (Ellis & Everh.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

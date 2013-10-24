@@ -1,5 +1,4 @@
-Mycogone aurantiaca Sousa da Câmara SPECIES
-=======
+# Mycogone aurantiaca Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

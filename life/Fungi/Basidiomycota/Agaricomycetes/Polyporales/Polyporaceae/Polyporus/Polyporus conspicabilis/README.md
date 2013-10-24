@@ -1,5 +1,4 @@
-Polyporus conspicabilis Britzelm. SPECIES
-=======
+# Polyporus conspicabilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria mixta Schumach. SPECIES
-=======
+# Sphaeria mixta Schumach. SPECIES
 
 #### Status
 ACCEPTED

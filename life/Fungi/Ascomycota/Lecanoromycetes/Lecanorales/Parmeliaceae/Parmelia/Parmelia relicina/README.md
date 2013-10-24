@@ -1,5 +1,4 @@
-Parmelia relicina Fr. SPECIES
-=======
+# Parmelia relicina Fr. SPECIES
 
 #### Status
 ACCEPTED

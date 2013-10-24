@@ -1,5 +1,4 @@
-Torula cremoris B.W. Hammer & Cordes SPECIES
-=======
+# Torula cremoris B.W. Hammer & Cordes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma populi Roberge ex Desm. SPECIES
-=======
+# Asteroma populi Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

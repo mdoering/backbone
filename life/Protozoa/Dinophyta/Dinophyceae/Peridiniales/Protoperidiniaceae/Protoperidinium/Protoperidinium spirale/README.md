@@ -1,5 +1,4 @@
-Protoperidinium spirale (Gaarder) Balech SPECIES
-=======
+# Protoperidinium spirale (Gaarder) Balech SPECIES
 
 #### Status
 ACCEPTED

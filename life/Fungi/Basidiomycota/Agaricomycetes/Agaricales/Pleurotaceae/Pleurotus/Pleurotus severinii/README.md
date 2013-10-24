@@ -1,5 +1,4 @@
-Pleurotus severinii Comes SPECIES
-=======
+# Pleurotus severinii Comes SPECIES
 
 #### Status
 ACCEPTED

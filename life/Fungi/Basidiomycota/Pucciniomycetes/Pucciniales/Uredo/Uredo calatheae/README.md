@@ -1,5 +1,4 @@
-Uredo calatheae Berndt & F.O. Freire SPECIES
-=======
+# Uredo calatheae Berndt & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia destruens Henn. SPECIES
-=======
+# Puccinia destruens Henn. SPECIES
 
 #### Status
 ACCEPTED

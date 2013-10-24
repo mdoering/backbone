@@ -1,5 +1,4 @@
-Pleurocatena brevior W. Gams & Veenb.-Rijks, 2007 SPECIES
-=======
+# Pleurocatena brevior W. Gams & Veenb.-Rijks, 2007 SPECIES
 
 #### Status
 ACCEPTED

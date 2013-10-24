@@ -1,5 +1,4 @@
-Auritella chamaecephala Matheny, O.K. Mill. & Bougher ex Matheny & Bougher, 2006 SPECIES
-=======
+# Auritella chamaecephala Matheny, O.K. Mill. & Bougher ex Matheny & Bougher, 2006 SPECIES
 
 #### Status
 ACCEPTED

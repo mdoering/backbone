@@ -1,5 +1,4 @@
-Acanthostigma heraclei Feltgen SPECIES
-=======
+# Acanthostigma heraclei Feltgen SPECIES
 
 #### Status
 ACCEPTED

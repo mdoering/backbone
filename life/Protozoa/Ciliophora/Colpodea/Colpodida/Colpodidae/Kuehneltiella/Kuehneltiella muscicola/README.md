@@ -1,5 +1,4 @@
-Kuehneltiella muscicola Foissner, 1993 SPECIES
-=======
+# Kuehneltiella muscicola Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

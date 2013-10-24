@@ -1,5 +1,4 @@
-Lachnum pseudoclandestinum Raitv. SPECIES
-=======
+# Lachnum pseudoclandestinum Raitv. SPECIES
 
 #### Status
 ACCEPTED

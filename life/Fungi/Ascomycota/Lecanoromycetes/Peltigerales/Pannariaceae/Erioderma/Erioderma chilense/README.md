@@ -1,5 +1,4 @@
-Erioderma chilense subsp. chilense SUBSPECIES
-=======
+# Erioderma chilense Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls Sci. Nat. , Bot. , sér. 3 18: 309 (1852)
 
 #### Original name
-Erioderma chilense subsp. chilense
+Erioderma chilense Mont.
 
 ### Remarks
 null

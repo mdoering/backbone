@@ -1,5 +1,4 @@
-Boletus minutiporus A.H. Sm. & Thiers SPECIES
-=======
+# Boletus minutiporus A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

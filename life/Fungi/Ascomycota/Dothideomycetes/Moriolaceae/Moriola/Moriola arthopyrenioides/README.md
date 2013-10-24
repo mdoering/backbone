@@ -1,5 +1,4 @@
-Moriola arthopyrenioides SPECIES
-=======
+# Moriola arthopyrenioides SPECIES
 
 #### Status
 ACCEPTED

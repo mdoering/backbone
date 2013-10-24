@@ -1,5 +1,4 @@
-Coniothyrium infuscans Ellis & Everh. SPECIES
-=======
+# Coniothyrium infuscans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

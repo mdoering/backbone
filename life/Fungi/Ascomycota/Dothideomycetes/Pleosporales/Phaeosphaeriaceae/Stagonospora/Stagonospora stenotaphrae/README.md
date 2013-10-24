@@ -1,17 +1,16 @@
-Stagonospora stenotaphorae V.G. Rao & B.R.D. Yadav SPECIES
-=======
+# Stagonospora stenotaphrae V.G. Rao & B.R.D. Yadav SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the Annamalai University, part B, Sciences 37: 85 (1995)
 
 #### Original name
-Stagonospora stenotaphorae V.G. Rao & B.R.D. Yadav
+Stagonospora stenotaphrae V.G. Rao & B.R.D. Yadav
 
 ### Remarks
 null

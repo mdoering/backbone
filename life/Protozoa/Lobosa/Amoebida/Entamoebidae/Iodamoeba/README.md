@@ -1,5 +1,4 @@
-Iodamoeba Dobell, 1919 GENUS
-=======
+# Iodamoeba Dobell, 1919 GENUS
 
 #### Status
 ACCEPTED

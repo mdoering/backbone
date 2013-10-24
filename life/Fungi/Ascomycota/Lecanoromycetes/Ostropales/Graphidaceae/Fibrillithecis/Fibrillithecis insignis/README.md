@@ -1,14 +1,13 @@
-Myriotrema insigne (Zahlbr.) Hale SPECIES
-=======
+# Fibrillithecis insignis (Zahlbr.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 11(1): 133 (1980)
+Biblthca Lichenol. 92: 138 (2006)
 
 #### Original name
 Thelotrema insigne Zahlbr.

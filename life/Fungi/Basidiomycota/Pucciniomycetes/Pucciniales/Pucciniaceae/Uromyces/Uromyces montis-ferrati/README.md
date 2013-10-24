@@ -1,5 +1,4 @@
-Uromyces montis-ferrati Maire SPECIES
-=======
+# Uromyces montis-ferrati Maire SPECIES
 
 #### Status
 ACCEPTED

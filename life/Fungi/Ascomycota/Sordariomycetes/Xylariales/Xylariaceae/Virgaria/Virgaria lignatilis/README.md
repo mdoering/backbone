@@ -1,5 +1,4 @@
-Virgaria lignatilis (Schwein.) S. Hughes SPECIES
-=======
+# Virgaria lignatilis (Schwein.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

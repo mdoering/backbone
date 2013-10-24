@@ -1,5 +1,4 @@
-Dicaeoma pallidissimum (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma pallidissimum (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

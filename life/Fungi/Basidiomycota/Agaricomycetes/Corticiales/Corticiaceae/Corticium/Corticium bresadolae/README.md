@@ -1,5 +1,4 @@
-Corticium bresadolae Sacc. & Trotter SPECIES
-=======
+# Corticium bresadolae Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

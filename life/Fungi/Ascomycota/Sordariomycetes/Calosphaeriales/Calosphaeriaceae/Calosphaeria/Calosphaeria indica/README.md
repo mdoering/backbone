@@ -1,5 +1,4 @@
-Calosphaeria indica Srinivasulu & P.G. Sathe SPECIES
-=======
+# Calosphaeria indica Srinivasulu & P.G. Sathe SPECIES
 
 #### Status
 ACCEPTED

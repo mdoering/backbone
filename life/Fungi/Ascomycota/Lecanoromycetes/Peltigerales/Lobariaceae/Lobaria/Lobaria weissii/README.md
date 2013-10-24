@@ -1,5 +1,4 @@
-Lobaria weissii Gyeln. SPECIES
-=======
+# Lobaria weissii Gyeln. SPECIES
 
 #### Status
 ACCEPTED

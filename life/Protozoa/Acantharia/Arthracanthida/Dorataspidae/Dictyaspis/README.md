@@ -1,5 +1,4 @@
-Dictyaspis Haeckel, 1887 GENUS
-=======
+# Dictyaspis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

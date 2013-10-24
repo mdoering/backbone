@@ -1,17 +1,16 @@
-Phyllachora sapindacearum F. Stevens, 1927 SPECIES
-=======
+# Phyllachora serjaniicola Chardón, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 11(2): 191 (1927)
+Mycologia 13(6): 293 (1921)
 
 #### Original name
-Phyllachora sapindacearum F. Stevens, 1927
+Phyllachora serjaniicola Chardón, 1921
 
 ### Remarks
 null

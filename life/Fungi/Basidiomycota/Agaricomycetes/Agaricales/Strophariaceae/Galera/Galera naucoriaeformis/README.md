@@ -1,5 +1,4 @@
-Galera naucoriaeformis Velen. SPECIES
-=======
+# Galera naucoriaeformis Velen. SPECIES
 
 #### Status
 ACCEPTED

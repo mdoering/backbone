@@ -1,5 +1,4 @@
-Sphaeria aliquanta Cooke & Ellis SPECIES
-=======
+# Sphaeria aliquanta Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Encoelia mollisioides Spooner SPECIES
-=======
+# Encoelia mollisioides Spooner SPECIES
 
 #### Status
 ACCEPTED

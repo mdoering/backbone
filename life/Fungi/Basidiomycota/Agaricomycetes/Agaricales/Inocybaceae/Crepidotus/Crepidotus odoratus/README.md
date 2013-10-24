@@ -1,5 +1,4 @@
-Crepidotus odoratus Velen. SPECIES
-=======
+# Crepidotus odoratus Velen. SPECIES
 
 #### Status
 ACCEPTED

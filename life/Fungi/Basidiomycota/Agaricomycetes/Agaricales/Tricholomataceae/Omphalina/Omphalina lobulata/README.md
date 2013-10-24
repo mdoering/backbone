@@ -1,5 +1,4 @@
-Omphalina lobulata Kalb SPECIES
-=======
+# Omphalina lobulata Kalb SPECIES
 
 #### Status
 ACCEPTED

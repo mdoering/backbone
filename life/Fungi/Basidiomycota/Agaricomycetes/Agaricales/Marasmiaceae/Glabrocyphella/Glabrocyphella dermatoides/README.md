@@ -1,5 +1,4 @@
-Glabrocyphella dermatoides Ellis, 1961 SPECIES
-=======
+# Glabrocyphella dermatoides Ellis, 1961 SPECIES
 
 #### Status
 ACCEPTED

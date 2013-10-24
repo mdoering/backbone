@@ -1,5 +1,4 @@
-Psilocybe tortipes Speg. SPECIES
-=======
+# Psilocybe tortipes Speg. SPECIES
 
 #### Status
 ACCEPTED

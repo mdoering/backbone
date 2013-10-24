@@ -1,5 +1,4 @@
-Debaryomyces burnieri M. Ota SPECIES
-=======
+# Debaryomyces burnieri M. Ota SPECIES
 
 #### Status
 ACCEPTED

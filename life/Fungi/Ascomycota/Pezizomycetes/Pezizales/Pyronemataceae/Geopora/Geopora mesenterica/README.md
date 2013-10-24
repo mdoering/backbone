@@ -1,5 +1,4 @@
-Geopora mesenterica Harkn. SPECIES
-=======
+# Geopora mesenterica Harkn. SPECIES
 
 #### Status
 ACCEPTED

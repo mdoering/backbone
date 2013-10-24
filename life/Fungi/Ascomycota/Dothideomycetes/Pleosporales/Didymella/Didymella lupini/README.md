@@ -1,5 +1,4 @@
-Didymella lupini (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Didymella lupini (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

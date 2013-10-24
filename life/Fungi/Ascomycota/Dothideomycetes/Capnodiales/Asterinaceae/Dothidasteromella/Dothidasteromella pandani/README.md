@@ -1,5 +1,4 @@
-Dothidasteromella pandani Höhn. SPECIES
-=======
+# Dothidasteromella pandani Höhn. SPECIES
 
 #### Status
 ACCEPTED

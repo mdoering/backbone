@@ -1,5 +1,4 @@
-Pterospora Labbé & Racovitza, 1897 GENUS
-=======
+# Pterospora Labbé & Racovitza, 1897 GENUS
 
 #### Status
 ACCEPTED

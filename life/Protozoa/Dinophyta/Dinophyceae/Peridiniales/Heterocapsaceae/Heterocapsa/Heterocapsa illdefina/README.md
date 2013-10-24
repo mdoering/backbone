@@ -1,5 +1,4 @@
-Heterocapsa illdefina Herman & Sweeney SPECIES
-=======
+# Heterocapsa illdefina Herman & Sweeney SPECIES
 
 #### Status
 ACCEPTED

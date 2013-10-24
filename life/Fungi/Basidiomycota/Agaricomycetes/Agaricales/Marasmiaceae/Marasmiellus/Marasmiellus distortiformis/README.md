@@ -1,5 +1,4 @@
-Marasmiellus distortiformis Singer SPECIES
-=======
+# Marasmiellus distortiformis Singer SPECIES
 
 #### Status
 ACCEPTED

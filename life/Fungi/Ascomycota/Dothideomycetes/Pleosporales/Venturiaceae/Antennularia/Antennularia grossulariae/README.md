@@ -1,5 +1,4 @@
-Antennularia grossulariae (Auersw. & Fleischh.) M.E. Barr SPECIES
-=======
+# Antennularia grossulariae (Auersw. & Fleischh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nolanea vulpina Rick SPECIES
-=======
+# Nolanea vulpina Rick SPECIES
 
 #### Status
 ACCEPTED

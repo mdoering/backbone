@@ -1,5 +1,4 @@
-Endoptychum Czern. GENUS
-=======
+# Endoptychum Czern. GENUS
 
 #### Status
 ACCEPTED

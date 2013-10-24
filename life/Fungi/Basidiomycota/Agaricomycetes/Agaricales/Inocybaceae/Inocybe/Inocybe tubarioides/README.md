@@ -1,5 +1,4 @@
-Inocybe tubarioides G.F. Atk. SPECIES
-=======
+# Inocybe tubarioides G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

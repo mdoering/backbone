@@ -1,8 +1,7 @@
-Aecidium pyri Franq. SPECIES
-=======
+# Roestelia confusa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Belgian Species List

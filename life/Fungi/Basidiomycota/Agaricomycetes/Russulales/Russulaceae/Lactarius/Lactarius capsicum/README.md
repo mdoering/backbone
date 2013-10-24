@@ -1,5 +1,4 @@
-Lactarius capsicum Schulzer SPECIES
-=======
+# Lactarius capsicum Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pucciniola oblonga (Vize) Arthur SPECIES
-=======
+# Pucciniola oblonga (Vize) Arthur SPECIES
 
 #### Status
 ACCEPTED

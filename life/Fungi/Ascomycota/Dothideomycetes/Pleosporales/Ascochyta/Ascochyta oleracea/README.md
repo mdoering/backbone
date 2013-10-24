@@ -1,5 +1,4 @@
-Ascochyta oleracea var. oleracea VARIETY
-=======
+# Ascochyta oleracea J.W. Ellis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Trans. Br. mycol. Soc. 5: 229 (1915)
 
 #### Original name
-Ascochyta oleracea var. oleracea
+Ascochyta oleracea J.W. Ellis
 
 ### Remarks
 null

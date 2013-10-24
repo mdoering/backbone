@@ -1,5 +1,4 @@
-Phomopsis trochodendri (J.V. Almeida & Sousa da Câmara) Vanev SPECIES
-=======
+# Phomopsis trochodendri (J.V. Almeida & Sousa da Câmara) Vanev SPECIES
 
 #### Status
 ACCEPTED

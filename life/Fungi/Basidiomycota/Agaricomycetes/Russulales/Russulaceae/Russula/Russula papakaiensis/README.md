@@ -1,5 +1,4 @@
-Russula papakaiensis McNabb, 1973 SPECIES
-=======
+# Russula papakaiensis McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

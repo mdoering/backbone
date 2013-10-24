@@ -1,5 +1,4 @@
-Septoria alchemillae Melnik SPECIES
-=======
+# Septoria alchemillae Melnik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia pterophila Fautrey SPECIES
-=======
+# Diplodia pterophila Fautrey SPECIES
 
 #### Status
 ACCEPTED

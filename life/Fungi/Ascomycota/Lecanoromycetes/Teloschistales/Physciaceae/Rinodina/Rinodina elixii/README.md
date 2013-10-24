@@ -1,5 +1,4 @@
-Rinodina elixii H. Mayrhofer, Kantvilas & Ropin SPECIES
-=======
+# Rinodina elixii H. Mayrhofer, Kantvilas & Ropin SPECIES
 
 #### Status
 ACCEPTED

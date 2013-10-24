@@ -1,5 +1,4 @@
-Stereofomes Rick GENUS
-=======
+# Stereofomes Rick GENUS
 
 #### Status
 ACCEPTED

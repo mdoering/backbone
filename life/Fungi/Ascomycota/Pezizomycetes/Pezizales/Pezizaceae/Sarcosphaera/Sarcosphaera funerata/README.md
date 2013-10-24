@@ -1,5 +1,4 @@
-Sarcosphaera funerata (Cooke) Seaver SPECIES
-=======
+# Sarcosphaera funerata (Cooke) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictis carpenteriana Sherwood SPECIES
-=======
+# Stictis carpenteriana Sherwood SPECIES
 
 #### Status
 ACCEPTED

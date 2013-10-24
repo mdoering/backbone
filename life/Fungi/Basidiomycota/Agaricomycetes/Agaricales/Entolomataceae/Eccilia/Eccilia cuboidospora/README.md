@@ -1,5 +1,4 @@
-Eccilia cuboidospora (Beeli) Pegler SPECIES
-=======
+# Eccilia cuboidospora (Beeli) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aequorivita lipolytica Bowman & Nichols, 2002 SPECIES
-=======
+# Aequorivita lipolytica Bowman & Nichols, 2002 SPECIES
 
 #### Status
 ACCEPTED

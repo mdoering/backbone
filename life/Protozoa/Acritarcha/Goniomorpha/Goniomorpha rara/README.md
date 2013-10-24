@@ -1,5 +1,4 @@
-Goniomorpha rara Yin Leiming, 1986 SPECIES
-=======
+# Goniomorpha rara Yin Leiming, 1986 SPECIES
 
 #### Status
 ACCEPTED

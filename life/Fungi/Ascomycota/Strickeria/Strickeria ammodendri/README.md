@@ -1,5 +1,4 @@
-Strickeria ammodendri Koshk. & Frolov SPECIES
-=======
+# Strickeria ammodendri Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

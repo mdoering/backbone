@@ -1,5 +1,4 @@
-Xylosphaeria platensis (Speg.) Petr. SPECIES
-=======
+# Xylosphaeria platensis (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

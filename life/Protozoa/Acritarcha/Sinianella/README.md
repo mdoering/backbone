@@ -1,5 +1,4 @@
-Sinianella Yin Leiming, 1980 GENUS
-=======
+# Sinianella Yin Leiming, 1980 GENUS
 
 #### Status
 ACCEPTED

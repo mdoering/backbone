@@ -1,5 +1,4 @@
-Bacidia glaucorufa Vain. SPECIES
-=======
+# Bacidia glaucorufa Vain. SPECIES
 
 #### Status
 ACCEPTED

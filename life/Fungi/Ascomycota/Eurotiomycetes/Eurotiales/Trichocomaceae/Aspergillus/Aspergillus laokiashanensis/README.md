@@ -1,5 +1,4 @@
-Aspergillus laokiashanensis Y.K. Shih SPECIES
-=======
+# Aspergillus laokiashanensis Y.K. Shih SPECIES
 
 #### Status
 ACCEPTED

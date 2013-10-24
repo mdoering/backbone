@@ -1,5 +1,4 @@
-Sclerotium emergens Fr. SPECIES
-=======
+# Sclerotium emergens Fr. SPECIES
 
 #### Status
 ACCEPTED

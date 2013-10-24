@@ -1,5 +1,4 @@
-Sphaeronaema seriatum Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeronaema seriatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

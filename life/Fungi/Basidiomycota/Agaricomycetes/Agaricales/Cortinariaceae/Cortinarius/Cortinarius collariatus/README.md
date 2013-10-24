@@ -1,5 +1,4 @@
-Cortinarius collariatus E. Horak & M.M. Moser SPECIES
-=======
+# Cortinarius collariatus E. Horak & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

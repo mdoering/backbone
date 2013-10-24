@@ -1,5 +1,4 @@
-Wenyonella Hoare, 1933 GENUS
-=======
+# Wenyonella Hoare, 1933 GENUS
 
 #### Status
 ACCEPTED

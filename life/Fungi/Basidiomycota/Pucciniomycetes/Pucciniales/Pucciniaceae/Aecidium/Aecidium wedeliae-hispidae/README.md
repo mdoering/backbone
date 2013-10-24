@@ -1,5 +1,4 @@
-Aecidium wedeliae-hispidae Dietel SPECIES
-=======
+# Aecidium wedeliae-hispidae Dietel SPECIES
 
 #### Status
 ACCEPTED

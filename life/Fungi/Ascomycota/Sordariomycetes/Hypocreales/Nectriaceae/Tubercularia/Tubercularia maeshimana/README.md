@@ -1,5 +1,4 @@
-Tubercularia maeshimana I. Hino & Katum. SPECIES
-=======
+# Tubercularia maeshimana I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

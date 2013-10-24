@@ -1,5 +1,4 @@
-Citrobacter sedlakii Brenner et al., 1993 SPECIES
-=======
+# Citrobacter sedlakii Brenner et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

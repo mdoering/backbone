@@ -1,5 +1,4 @@
-Arthopyrenia griseola Müll. Arg. SPECIES
-=======
+# Arthopyrenia griseola Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea subjuncta SPECIES
-=======
+# Lecidea subjuncta SPECIES
 
 #### Status
 ACCEPTED

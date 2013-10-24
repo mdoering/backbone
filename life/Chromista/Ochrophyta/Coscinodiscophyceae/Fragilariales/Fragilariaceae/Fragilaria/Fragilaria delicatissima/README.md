@@ -1,5 +1,4 @@
-Fragilaria delicatissima var. angustissima (Grunow) Lange-Bertalot VARIETY
-=======
+# Fragilaria delicatissima (W.Sm.) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

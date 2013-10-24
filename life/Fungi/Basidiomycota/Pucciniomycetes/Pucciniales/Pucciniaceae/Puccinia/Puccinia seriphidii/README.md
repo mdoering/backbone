@@ -1,5 +1,4 @@
-Puccinia seriphidii Fahrend. SPECIES
-=======
+# Puccinia seriphidii Fahrend. SPECIES
 
 #### Status
 ACCEPTED

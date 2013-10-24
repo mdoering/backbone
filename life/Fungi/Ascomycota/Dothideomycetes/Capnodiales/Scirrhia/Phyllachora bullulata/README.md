@@ -1,5 +1,4 @@
-Phyllachora bullulata (Berk.) Cooke, 1885 SPECIES
-=======
+# Phyllachora bullulata (Berk.) Cooke, 1885 SPECIES
 
 #### Status
 DOUBTFUL

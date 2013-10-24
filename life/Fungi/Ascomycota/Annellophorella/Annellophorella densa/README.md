@@ -1,14 +1,13 @@
-Clasterosporium densum Syd. & P. Syd., 1912 SPECIES
-=======
+# Annellophorella densa (Syd. & P. Syd.) Subram., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 10(5): 444 (1912)
+Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 55: 6 (1962)
 
 #### Original name
 Clasterosporium densum Syd. & P. Syd., 1912

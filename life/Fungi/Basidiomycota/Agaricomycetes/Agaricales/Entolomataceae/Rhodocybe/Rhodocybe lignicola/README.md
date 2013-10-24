@@ -1,5 +1,4 @@
-Rhodocybe lignicola Singer SPECIES
-=======
+# Rhodocybe lignicola Singer SPECIES
 
 #### Status
 ACCEPTED

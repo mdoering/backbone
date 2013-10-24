@@ -1,5 +1,4 @@
-Flammula ornatula Murrill SPECIES
-=======
+# Flammula ornatula Murrill SPECIES
 
 #### Status
 ACCEPTED

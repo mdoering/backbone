@@ -1,5 +1,4 @@
-Marasmius marbleae Murrill SPECIES
-=======
+# Marasmius marbleae Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia laxipes (Fr.) Gillet SPECIES
-=======
+# Collybia laxipes (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

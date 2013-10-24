@@ -1,5 +1,4 @@
-Verrucaria friesii P. Crouan & H. Crouan SPECIES
-=======
+# Verrucaria friesii P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

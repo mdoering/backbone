@@ -1,5 +1,4 @@
-Pholiotina alba (Enderle) Hauskn. & Enderle SPECIES
-=======
+# Pholiotina alba (Enderle) Hauskn. & Enderle SPECIES
 
 #### Status
 ACCEPTED

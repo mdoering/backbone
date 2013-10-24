@@ -1,5 +1,4 @@
-Tephrocybe oldae Svrcek SPECIES
-=======
+# Tephrocybe oldae Svrcek SPECIES
 
 #### Status
 ACCEPTED

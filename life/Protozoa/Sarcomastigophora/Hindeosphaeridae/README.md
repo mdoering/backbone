@@ -1,5 +1,4 @@
-Hindeosphaeridae Kozur & Mostler, 1981 FAMILY
-=======
+# Hindeosphaeridae Kozur & Mostler, 1981 FAMILY
 
 #### Status
 ACCEPTED

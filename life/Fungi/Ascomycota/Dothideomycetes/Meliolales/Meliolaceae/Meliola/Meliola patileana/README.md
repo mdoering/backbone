@@ -1,5 +1,4 @@
-Meliola patileana Hosag. SPECIES
-=======
+# Meliola patileana Hosag. SPECIES
 
 #### Status
 ACCEPTED

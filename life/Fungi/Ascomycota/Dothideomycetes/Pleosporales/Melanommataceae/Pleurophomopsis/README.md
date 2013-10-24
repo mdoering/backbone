@@ -1,5 +1,4 @@
-Pleurophomopsis Petr. GENUS
-=======
+# Pleurophomopsis Petr. GENUS
 
 #### Status
 ACCEPTED

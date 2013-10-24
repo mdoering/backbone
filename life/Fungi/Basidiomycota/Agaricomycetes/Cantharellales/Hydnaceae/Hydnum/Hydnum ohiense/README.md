@@ -1,5 +1,4 @@
-Hydnum ohiense Berk. SPECIES
-=======
+# Hydnum ohiense Berk. SPECIES
 
 #### Status
 ACCEPTED

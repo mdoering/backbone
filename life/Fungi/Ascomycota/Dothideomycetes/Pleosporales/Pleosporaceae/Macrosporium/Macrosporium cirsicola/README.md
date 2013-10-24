@@ -1,5 +1,4 @@
-Macrosporium cirsicola Nasyrov SPECIES
-=======
+# Macrosporium cirsicola Nasyrov SPECIES
 
 #### Status
 ACCEPTED

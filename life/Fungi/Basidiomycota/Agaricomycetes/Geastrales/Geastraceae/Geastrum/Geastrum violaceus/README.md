@@ -1,17 +1,16 @@
-Geaster violaceus Rick SPECIES
-=======
+# Geastrum violaceus Rick SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Brotéria, sér. bot. 5: 26 (1906)
 
 #### Original name
-Geaster violaceus Rick
+Geastrum violaceus Rick
 
 ### Remarks
 null

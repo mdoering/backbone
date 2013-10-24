@@ -1,5 +1,4 @@
-Naxella minima SPECIES
-=======
+# Naxella minima SPECIES
 
 #### Status
 ACCEPTED

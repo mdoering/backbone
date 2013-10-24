@@ -1,14 +1,13 @@
-Galera rostellata Velen., 1939 SPECIES
-=======
+# Conocybe rostellata (Velen.) Hauskn. & Svrcek, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Novitates Mycologicae 129 (1939)
+in Hausknecht, Czech Mycol. 51(1): 61 (1999)
 
 #### Original name
 Galera rostellata Velen., 1939

@@ -1,5 +1,4 @@
-Hypochnus incarnatus Schleich. SPECIES
-=======
+# Hypochnus incarnatus Schleich. SPECIES
 
 #### Status
 ACCEPTED

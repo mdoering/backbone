@@ -1,5 +1,4 @@
-Lactarius alpicola (Neuhoff) J. Blum SPECIES
-=======
+# Lactarius alpicola (Neuhoff) J. Blum SPECIES
 
 #### Status
 ACCEPTED

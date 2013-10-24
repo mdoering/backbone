@@ -1,5 +1,4 @@
-Leptostroma aquilinum C. Massal. SPECIES
-=======
+# Leptostroma aquilinum C. Massal. SPECIES
 
 #### Status
 ACCEPTED

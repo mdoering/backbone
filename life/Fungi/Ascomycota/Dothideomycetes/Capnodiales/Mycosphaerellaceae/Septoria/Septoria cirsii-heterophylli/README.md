@@ -1,5 +1,4 @@
-Septoria cirsii-heterophylli Petr. SPECIES
-=======
+# Septoria cirsii-heterophylli Petr. SPECIES
 
 #### Status
 ACCEPTED

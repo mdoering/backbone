@@ -1,5 +1,4 @@
-Cortinarius olivaceobubalinus (M.M. Moser) E. Valenz. & G. Moreno SPECIES
-=======
+# Cortinarius olivaceobubalinus (M.M. Moser) E. Valenz. & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

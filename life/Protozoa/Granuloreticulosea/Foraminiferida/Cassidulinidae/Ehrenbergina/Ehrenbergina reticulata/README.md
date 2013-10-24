@@ -1,5 +1,4 @@
-Ehrenbergina reticulata Cushman, 1933 SPECIES
-=======
+# Ehrenbergina reticulata Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

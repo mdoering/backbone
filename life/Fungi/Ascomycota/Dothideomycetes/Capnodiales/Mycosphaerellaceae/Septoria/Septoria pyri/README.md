@@ -1,5 +1,4 @@
-Septoria pyri Castagne SPECIES
-=======
+# Septoria pyri Castagne SPECIES
 
 #### Status
 ACCEPTED

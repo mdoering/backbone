@@ -1,5 +1,4 @@
-Cryptothecia glauca Groenh. SPECIES
-=======
+# Cryptothecia glauca Groenh. SPECIES
 
 #### Status
 ACCEPTED

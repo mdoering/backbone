@@ -1,5 +1,4 @@
-Symbiodinium corculorum R. K. Trench SPECIES
-=======
+# Symbiodinium corculorum R. K. Trench SPECIES
 
 #### Status
 ACCEPTED

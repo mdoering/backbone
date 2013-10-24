@@ -1,5 +1,4 @@
-Plectopsora botryosa SPECIES
-=======
+# Plectopsora botryosa SPECIES
 
 #### Status
 ACCEPTED

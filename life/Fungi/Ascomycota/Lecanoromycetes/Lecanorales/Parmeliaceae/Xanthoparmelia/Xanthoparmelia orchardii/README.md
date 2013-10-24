@@ -1,5 +1,4 @@
-Xanthoparmelia orchardii Elix SPECIES
-=======
+# Xanthoparmelia orchardii Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosporina pahangi Corner & E. Horak SPECIES
-=======
+# Astrosporina pahangi Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

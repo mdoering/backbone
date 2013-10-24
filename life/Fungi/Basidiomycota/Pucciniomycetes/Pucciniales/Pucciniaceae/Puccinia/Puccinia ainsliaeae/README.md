@@ -1,5 +1,4 @@
-Puccinia ainsliaeae P. Syd. & Syd. SPECIES
-=======
+# Puccinia ainsliaeae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

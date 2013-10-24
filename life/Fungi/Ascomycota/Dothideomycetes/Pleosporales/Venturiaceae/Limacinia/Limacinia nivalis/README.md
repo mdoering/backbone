@@ -1,5 +1,4 @@
-Limacinia nivalis E. Müll. SPECIES
-=======
+# Limacinia nivalis E. Müll. SPECIES
 
 #### Status
 ACCEPTED

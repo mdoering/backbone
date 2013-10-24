@@ -1,5 +1,4 @@
-Obryzum Wallr. GENUS
-=======
+# Obryzum Wallr. GENUS
 
 #### Status
 ACCEPTED

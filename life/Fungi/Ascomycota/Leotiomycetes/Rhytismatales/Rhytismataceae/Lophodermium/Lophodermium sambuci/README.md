@@ -1,5 +1,4 @@
-Lophodermium sambuci (Schumach.) Rehm SPECIES
-=======
+# Lophodermium sambuci (Schumach.) Rehm SPECIES
 
 #### Status
 ACCEPTED

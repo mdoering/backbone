@@ -1,17 +1,16 @@
-Peridermium ipomoeae Hedgc., 1917 SPECIES
-=======
+# Coleosporium ipomoeae (Schwein.) Burrill, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 9(4): 239 (1917)
+Bulletin of the Ill. St. Labor. Nat. Hist. 2: 217 (1885)
 
 #### Original name
-Peridermium ipomoeae Hedgc., 1917
+Uredo ipomoeae Schwein., 1963
 
 ### Remarks
 null

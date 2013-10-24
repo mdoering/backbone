@@ -1,5 +1,4 @@
-Vellaria sacculus Gooday & Fernando, 1992 SPECIES
-=======
+# Vellaria sacculus Gooday & Fernando, 1992 SPECIES
 
 #### Status
 ACCEPTED

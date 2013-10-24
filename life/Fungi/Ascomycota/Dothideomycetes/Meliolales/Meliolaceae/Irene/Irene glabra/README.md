@@ -1,5 +1,4 @@
-Irene glabra (Berk. & M.A. Curtis) Doidge SPECIES
-=======
+# Irene glabra (Berk. & M.A. Curtis) Doidge SPECIES
 
 #### Status
 ACCEPTED

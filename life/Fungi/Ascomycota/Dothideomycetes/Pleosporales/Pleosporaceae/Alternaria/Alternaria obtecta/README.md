@@ -1,5 +1,4 @@
-Alternaria obtecta E.G. Simmons SPECIES
-=======
+# Alternaria obtecta E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

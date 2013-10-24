@@ -1,17 +1,16 @@
-Blastenia leptospora Zahlbr. SPECIES
-=======
+# Huea leptospora (Zahlbr.) C. W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 38: 86 (1971)
 
 #### Original name
-null
+Blastenia leptospora Zahlbr.
 
 ### Remarks
 null

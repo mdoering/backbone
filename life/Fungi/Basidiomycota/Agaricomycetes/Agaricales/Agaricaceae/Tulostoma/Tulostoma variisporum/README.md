@@ -1,5 +1,4 @@
-Tulostoma variisporum B. Liu, Z.Y. Li & Du SPECIES
-=======
+# Tulostoma variisporum B. Liu, Z.Y. Li & Du SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius subsquamulosus (Batsch) Rob. Henry SPECIES
-=======
+# Cortinarius subsquamulosus (Batsch) Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

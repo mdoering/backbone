@@ -1,5 +1,4 @@
-Polyporus epipteleus Fr. SPECIES
-=======
+# Polyporus epipteleus Fr. SPECIES
 
 #### Status
 ACCEPTED

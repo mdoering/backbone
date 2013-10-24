@@ -1,5 +1,4 @@
-Palacanthus stelligerum (Deunff, 1957) Stancliffe & Sarjeant, 1996 SPECIES
-=======
+# Palacanthus stelligerum (Deunff, 1957) Stancliffe & Sarjeant, 1996 SPECIES
 
 #### Status
 ACCEPTED

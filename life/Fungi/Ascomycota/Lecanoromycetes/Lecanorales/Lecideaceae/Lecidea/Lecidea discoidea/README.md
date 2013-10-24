@@ -1,5 +1,4 @@
-Lecidea discoidea Fr. SPECIES
-=======
+# Lecidea discoidea Fr. SPECIES
 
 #### Status
 ACCEPTED

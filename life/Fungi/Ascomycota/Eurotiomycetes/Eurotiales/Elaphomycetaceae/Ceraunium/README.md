@@ -1,5 +1,4 @@
-Ceraunium GENUS
-=======
+# Ceraunium GENUS
 
 #### Status
 ACCEPTED

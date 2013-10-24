@@ -1,5 +1,4 @@
-Aspicilia mirabilis Mereschk. SPECIES
-=======
+# Aspicilia mirabilis Mereschk. SPECIES
 
 #### Status
 ACCEPTED

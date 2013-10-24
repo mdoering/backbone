@@ -1,5 +1,4 @@
-Stilbospora fumosa Fée SPECIES
-=======
+# Stilbospora fumosa Fée SPECIES
 
 #### Status
 ACCEPTED

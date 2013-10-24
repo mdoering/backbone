@@ -1,17 +1,16 @@
-Physcia cycloselis f. cycloselis FORM
-=======
+# Phaeophyscia orbicularis (Neck.) Moberg SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 22(no. 1): 44 (1977)
 
 #### Original name
-Physcia cycloselis f. cycloselis
+Lichen orbicularis Neck.
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Pseudomonas taeniospiralis Lalucat et al., 1982 SPECIES
-=======
+# Hydrogenophaga taeniospiralis (Lalucat et al., 1982) Willems et al., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

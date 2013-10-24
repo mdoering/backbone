@@ -1,5 +1,4 @@
-Marasmius conquistensis Singer SPECIES
-=======
+# Marasmius conquistensis Singer SPECIES
 
 #### Status
 ACCEPTED

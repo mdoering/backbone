@@ -1,5 +1,4 @@
-Arthonia lecideicarpa Zahlbr. SPECIES
-=======
+# Arthonia lecideicarpa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora hydrangeicola (Speg.) Vassiljevsky SPECIES
-=======
+# Cercospora hydrangeicola (Speg.) Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

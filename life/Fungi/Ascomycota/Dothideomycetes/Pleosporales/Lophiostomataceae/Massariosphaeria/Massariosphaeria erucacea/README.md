@@ -1,5 +1,4 @@
-Massariosphaeria erucacea Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1996 SPECIES
-=======
+# Massariosphaeria erucacea Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1996 SPECIES
 
 #### Status
 ACCEPTED

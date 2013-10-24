@@ -1,5 +1,4 @@
-Sphaerulina conflicta (Cooke) M.E. Barr SPECIES
-=======
+# Sphaerulina conflicta (Cooke) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

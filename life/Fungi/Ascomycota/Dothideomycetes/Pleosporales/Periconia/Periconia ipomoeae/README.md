@@ -1,5 +1,4 @@
-Periconia ipomoeae V. Rao SPECIES
-=======
+# Periconia ipomoeae V. Rao SPECIES
 
 #### Status
 ACCEPTED

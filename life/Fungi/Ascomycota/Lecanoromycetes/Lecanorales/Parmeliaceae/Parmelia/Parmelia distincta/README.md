@@ -1,5 +1,4 @@
-Parmelia distincta f. distincta FORM
-=======
+# Parmelia distincta SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia distincta f. distincta
+null
 
 ### Remarks
 null

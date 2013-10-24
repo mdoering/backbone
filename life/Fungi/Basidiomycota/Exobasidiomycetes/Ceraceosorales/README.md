@@ -1,5 +1,4 @@
-Ceraceosorales Begerow, M. Stoll & R. Bauer ORDER
-=======
+# Ceraceosorales Begerow, M. Stoll & R. Bauer ORDER
 
 #### Status
 ACCEPTED

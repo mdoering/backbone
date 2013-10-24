@@ -1,5 +1,4 @@
-Plagiogramma vanheurcki SPECIES
-=======
+# Plagiogramma vanheurcki SPECIES
 
 #### Status
 ACCEPTED

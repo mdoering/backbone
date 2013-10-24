@@ -1,5 +1,4 @@
-Actigea sicula Raf. SPECIES
-=======
+# Actigea sicula Raf. SPECIES
 
 #### Status
 ACCEPTED

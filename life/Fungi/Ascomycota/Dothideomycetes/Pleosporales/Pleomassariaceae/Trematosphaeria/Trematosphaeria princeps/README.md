@@ -1,5 +1,4 @@
-Trematosphaeria princeps (Fabre) Sacc. SPECIES
-=======
+# Trematosphaeria princeps (Fabre) Sacc. SPECIES
 
 #### Status
 ACCEPTED

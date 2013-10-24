@@ -1,5 +1,4 @@
-Meliola konishii (W. Yamam.) Cif. SPECIES
-=======
+# Meliola konishii (W. Yamam.) Cif. SPECIES
 
 #### Status
 ACCEPTED

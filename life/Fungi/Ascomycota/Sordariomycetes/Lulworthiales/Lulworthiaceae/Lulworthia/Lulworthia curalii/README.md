@@ -1,5 +1,4 @@
-Lulworthia curalii (Kohlm.) Kohlm. & Volkm.-Kohlm., 1991 SPECIES
-=======
+# Lulworthia curalii (Kohlm.) Kohlm. & Volkm.-Kohlm., 1991 SPECIES
 
 #### Status
 ACCEPTED

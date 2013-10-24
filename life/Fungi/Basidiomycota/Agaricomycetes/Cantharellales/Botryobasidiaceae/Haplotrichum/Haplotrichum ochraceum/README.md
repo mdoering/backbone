@@ -1,5 +1,4 @@
-Haplotrichum ochraceum (Povah) Hol.-Jech. SPECIES
-=======
+# Haplotrichum ochraceum (Povah) Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

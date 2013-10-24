@@ -1,5 +1,4 @@
-Badimia lucida Aptroot & Sérus. SPECIES
-=======
+# Badimia lucida Aptroot & Sérus. SPECIES
 
 #### Status
 ACCEPTED

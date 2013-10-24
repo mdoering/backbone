@@ -1,5 +1,4 @@
-Hypospilina salicina E. Müll. SPECIES
-=======
+# Hypospilina salicina E. Müll. SPECIES
 
 #### Status
 ACCEPTED

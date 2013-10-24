@@ -1,5 +1,4 @@
-Pyrenula leucostoma Ach., 1814 SPECIES
-=======
+# Pyrenula leucostoma Ach., 1814 SPECIES
 
 #### Status
 DOUBTFUL

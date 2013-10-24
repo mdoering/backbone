@@ -1,5 +1,4 @@
-Asterina consociata G. Winter SPECIES
-=======
+# Asterina consociata G. Winter SPECIES
 
 #### Status
 ACCEPTED

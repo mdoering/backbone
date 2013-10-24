@@ -1,5 +1,4 @@
-Spinoprotunuma triassica SPECIES
-=======
+# Spinoprotunuma triassica SPECIES
 
 #### Status
 ACCEPTED

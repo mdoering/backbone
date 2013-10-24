@@ -1,5 +1,4 @@
-Nectria lopohiostomacea Starbäck SPECIES
-=======
+# Nectria lopohiostomacea Starbäck SPECIES
 
 #### Status
 ACCEPTED

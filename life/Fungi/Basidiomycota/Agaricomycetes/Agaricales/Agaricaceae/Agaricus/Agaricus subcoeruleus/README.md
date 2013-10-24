@@ -1,5 +1,4 @@
-Agaricus subcoeruleus Peck SPECIES
-=======
+# Agaricus subcoeruleus Peck SPECIES
 
 #### Status
 ACCEPTED

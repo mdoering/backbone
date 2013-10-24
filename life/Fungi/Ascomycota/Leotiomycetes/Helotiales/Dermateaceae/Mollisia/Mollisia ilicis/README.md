@@ -1,5 +1,4 @@
-Mollisia ilicis Feltgen SPECIES
-=======
+# Mollisia ilicis Feltgen SPECIES
 
 #### Status
 ACCEPTED

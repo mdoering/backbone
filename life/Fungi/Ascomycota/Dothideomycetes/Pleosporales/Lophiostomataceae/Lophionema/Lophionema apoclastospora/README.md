@@ -1,5 +1,4 @@
-Lophionema apoclastospora Solheim SPECIES
-=======
+# Lophionema apoclastospora Solheim SPECIES
 
 #### Status
 ACCEPTED

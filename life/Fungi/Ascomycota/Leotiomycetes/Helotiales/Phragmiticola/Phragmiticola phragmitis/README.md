@@ -1,5 +1,4 @@
-Phragmiticola phragmitis (Dearn. & House) Magnes SPECIES
-=======
+# Phragmiticola phragmitis (Dearn. & House) Magnes SPECIES
 
 #### Status
 ACCEPTED

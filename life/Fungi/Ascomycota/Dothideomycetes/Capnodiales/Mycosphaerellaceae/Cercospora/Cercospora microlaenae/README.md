@@ -1,5 +1,4 @@
-Cercospora microlaenae McKenzie & Latch, 1984 SPECIES
-=======
+# Cercospora microlaenae McKenzie & Latch, 1984 SPECIES
 
 #### Status
 ACCEPTED

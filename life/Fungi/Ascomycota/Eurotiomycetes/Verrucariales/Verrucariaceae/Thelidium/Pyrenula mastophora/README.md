@@ -1,5 +1,4 @@
-Pyrenula mastophora (Nyl.) Müll. Arg., 1883 SPECIES
-=======
+# Pyrenula mastophora (Nyl.) Müll. Arg., 1883 SPECIES
 
 #### Status
 DOUBTFUL

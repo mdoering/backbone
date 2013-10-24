@@ -1,5 +1,4 @@
-Triceratium whampoensis Schwarz SPECIES
-=======
+# Triceratium whampoensis Schwarz SPECIES
 
 #### Status
 ACCEPTED

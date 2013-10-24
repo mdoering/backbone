@@ -1,5 +1,4 @@
-Lepiota septata A.B. Pereira SPECIES
-=======
+# Lepiota septata A.B. Pereira SPECIES
 
 #### Status
 ACCEPTED

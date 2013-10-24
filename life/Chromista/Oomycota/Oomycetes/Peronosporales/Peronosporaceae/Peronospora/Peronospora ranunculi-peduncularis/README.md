@@ -1,5 +1,4 @@
-Peronospora ranunculi-peduncularis Roiv. SPECIES
-=======
+# Peronospora ranunculi-peduncularis Roiv. SPECIES
 
 #### Status
 ACCEPTED

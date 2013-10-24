@@ -1,5 +1,4 @@
-Hygrophorus laurae Morgan SPECIES
-=======
+# Hygrophorus laurae Morgan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microtetraspora tyrrhenii Tomita et al., 1992 SPECIES
-=======
+# Microtetraspora tyrrhenii Tomita et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

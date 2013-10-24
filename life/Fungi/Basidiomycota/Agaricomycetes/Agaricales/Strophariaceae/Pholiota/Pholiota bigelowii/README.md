@@ -1,5 +1,4 @@
-Pholiota bigelowii A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota bigelowii A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

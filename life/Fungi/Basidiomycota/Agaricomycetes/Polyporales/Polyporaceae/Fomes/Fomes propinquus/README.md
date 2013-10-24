@@ -1,5 +1,4 @@
-Fomes propinquus (Speg.) Speg. SPECIES
-=======
+# Fomes propinquus (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

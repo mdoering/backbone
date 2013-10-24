@@ -1,5 +1,4 @@
-Phoma socia F.A. Wolf SPECIES
-=======
+# Phoma socia F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

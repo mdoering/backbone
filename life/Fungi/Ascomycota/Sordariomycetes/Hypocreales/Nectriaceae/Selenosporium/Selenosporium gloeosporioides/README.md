@@ -1,5 +1,4 @@
-Selenosporium gloeosporioides Speg. SPECIES
-=======
+# Selenosporium gloeosporioides Speg. SPECIES
 
 #### Status
 ACCEPTED

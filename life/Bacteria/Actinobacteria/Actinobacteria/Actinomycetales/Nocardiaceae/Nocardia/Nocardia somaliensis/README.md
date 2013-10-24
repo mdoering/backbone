@@ -1,5 +1,4 @@
-Nocardia somaliensis (Brumpt) Chalm. & Christopherson SPECIES
-=======
+# Nocardia somaliensis (Brumpt) Chalm. & Christopherson SPECIES
 
 #### Status
 ACCEPTED

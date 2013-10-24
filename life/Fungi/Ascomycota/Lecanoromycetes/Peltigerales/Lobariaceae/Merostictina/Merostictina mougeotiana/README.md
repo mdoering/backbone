@@ -1,5 +1,4 @@
-Merostictina mougeotiana (Delise) Clem. SPECIES
-=======
+# Merostictina mougeotiana (Delise) Clem. SPECIES
 
 #### Status
 ACCEPTED

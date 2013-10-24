@@ -1,5 +1,4 @@
-Dicaeoma proximellum (Arthur) Arthur SPECIES
-=======
+# Dicaeoma proximellum (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

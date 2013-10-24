@@ -1,5 +1,4 @@
-Caryospora langloisii Ellis & Everh., 1888 SPECIES
-=======
+# Caryospora langloisii Ellis & Everh., 1888 SPECIES
 
 #### Status
 ACCEPTED

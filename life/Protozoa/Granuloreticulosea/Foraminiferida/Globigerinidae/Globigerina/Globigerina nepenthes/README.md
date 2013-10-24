@@ -1,5 +1,4 @@
-Globigerina nepenthes Todd SPECIES
-=======
+# Globigerina nepenthes Todd SPECIES
 
 #### Status
 ACCEPTED

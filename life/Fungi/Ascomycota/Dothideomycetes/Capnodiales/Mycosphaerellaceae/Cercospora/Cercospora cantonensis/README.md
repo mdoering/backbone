@@ -1,5 +1,4 @@
-Cercospora cantonensis P.K. Chi SPECIES
-=======
+# Cercospora cantonensis P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

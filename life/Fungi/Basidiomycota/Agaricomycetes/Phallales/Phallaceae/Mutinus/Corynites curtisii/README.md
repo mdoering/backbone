@@ -1,5 +1,4 @@
-Corynites curtisii Berk. SPECIES
-=======
+# Corynites curtisii Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glomerella xanthosomae (Cif. & Gonz. Frag.) Petr. SPECIES
-=======
+# Glomerella xanthosomae (Cif. & Gonz. Frag.) Petr. SPECIES
 
 #### Status
 ACCEPTED

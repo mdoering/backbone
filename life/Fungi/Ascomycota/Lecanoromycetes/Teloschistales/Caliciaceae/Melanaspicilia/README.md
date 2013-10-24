@@ -1,5 +1,4 @@
-Melanaspicilia GENUS
-=======
+# Melanaspicilia GENUS
 
 #### Status
 ACCEPTED

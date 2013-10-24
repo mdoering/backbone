@@ -1,5 +1,4 @@
-Sterigmatobotrys uniseptata H.S. Chang SPECIES
-=======
+# Sterigmatobotrys uniseptata H.S. Chang SPECIES
 
 #### Status
 ACCEPTED

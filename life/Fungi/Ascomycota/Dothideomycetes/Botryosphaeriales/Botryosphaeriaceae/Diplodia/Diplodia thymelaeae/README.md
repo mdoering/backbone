@@ -1,8 +1,7 @@
-Diplodia thymeleae Pat. SPECIES
-=======
+# Diplodia thymelaeae Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diplodia thymeleae Pat.
+Diplodia thymelaeae Pat.
 
 ### Remarks
 null

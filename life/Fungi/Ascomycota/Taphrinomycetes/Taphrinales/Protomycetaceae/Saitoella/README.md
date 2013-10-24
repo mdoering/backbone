@@ -1,5 +1,4 @@
-Saitoella Goto, Sugiyama, Hamamoto & Komagata, 1987 GENUS
-=======
+# Saitoella Goto, Sugiyama, Hamamoto & Komagata, 1987 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypanococcus Zacharias, 1885 GENUS
-=======
+# Trypanococcus Zacharias, 1885 GENUS
 
 #### Status
 ACCEPTED

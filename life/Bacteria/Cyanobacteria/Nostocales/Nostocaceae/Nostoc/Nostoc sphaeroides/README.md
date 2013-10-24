@@ -1,5 +1,4 @@
-Nostoc sphaeroides Kützing SPECIES
-=======
+# Nostoc sphaeroides Kützing SPECIES
 
 #### Status
 ACCEPTED

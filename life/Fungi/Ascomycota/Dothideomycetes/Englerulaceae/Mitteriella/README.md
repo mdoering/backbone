@@ -1,5 +1,4 @@
-Mitteriella Syd. GENUS
-=======
+# Mitteriella Syd. GENUS
 
 #### Status
 ACCEPTED

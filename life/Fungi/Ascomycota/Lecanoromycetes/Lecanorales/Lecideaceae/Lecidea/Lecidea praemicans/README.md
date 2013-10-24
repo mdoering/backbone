@@ -1,5 +1,4 @@
-Lecidea praemicans (Nyl.) Hue SPECIES
-=======
+# Lecidea praemicans (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

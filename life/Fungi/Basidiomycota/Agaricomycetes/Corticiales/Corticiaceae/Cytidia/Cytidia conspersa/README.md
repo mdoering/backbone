@@ -1,5 +1,4 @@
-Cytidia conspersa Rick SPECIES
-=======
+# Cytidia conspersa Rick SPECIES
 
 #### Status
 ACCEPTED

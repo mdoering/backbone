@@ -1,5 +1,4 @@
-Oospora hypoxylicola (Preuss) Sacc. & Voglino SPECIES
-=======
+# Oospora hypoxylicola (Preuss) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

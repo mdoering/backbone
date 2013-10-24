@@ -1,5 +1,4 @@
-Meliola kuprensis Deighton SPECIES
-=======
+# Meliola kuprensis Deighton SPECIES
 
 #### Status
 ACCEPTED

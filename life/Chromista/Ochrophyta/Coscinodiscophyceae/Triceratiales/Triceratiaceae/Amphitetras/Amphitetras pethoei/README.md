@@ -1,5 +1,4 @@
-Amphitetras pethoei (Pantocsek) De Toni SPECIES
-=======
+# Amphitetras pethoei (Pantocsek) De Toni SPECIES
 
 #### Status
 ACCEPTED

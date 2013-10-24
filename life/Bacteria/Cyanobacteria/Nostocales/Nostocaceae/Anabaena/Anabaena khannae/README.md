@@ -1,5 +1,4 @@
-Anabaena khannae Skuja SPECIES
-=======
+# Anabaena khannae Skuja SPECIES
 
 #### Status
 ACCEPTED

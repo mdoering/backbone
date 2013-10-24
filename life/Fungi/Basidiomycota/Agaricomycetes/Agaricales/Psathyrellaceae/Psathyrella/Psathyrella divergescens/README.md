@@ -1,5 +1,4 @@
-Psathyrella divergescens (Britzelm.) Sacc. SPECIES
-=======
+# Psathyrella divergescens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia moschata G. Cunn., 1930 SPECIES
-=======
+# Puccinia moschata G. Cunn., 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Furia (Batko) Humber, 1989 GENUS
-=======
+# Furia (Batko) Humber, 1989 GENUS
 
 #### Status
 ACCEPTED

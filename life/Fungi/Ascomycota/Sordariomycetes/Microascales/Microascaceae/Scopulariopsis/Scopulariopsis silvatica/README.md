@@ -1,5 +1,4 @@
-Scopulariopsis silvatica (Oudem.) Apinis SPECIES
-=======
+# Scopulariopsis silvatica (Oudem.) Apinis SPECIES
 
 #### Status
 ACCEPTED

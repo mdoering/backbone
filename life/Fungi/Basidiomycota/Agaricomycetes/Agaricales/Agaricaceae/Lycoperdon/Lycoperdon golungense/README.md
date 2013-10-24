@@ -1,5 +1,4 @@
-Lycoperdon golungense Welw. & Curr. SPECIES
-=======
+# Lycoperdon golungense Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

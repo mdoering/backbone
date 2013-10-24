@@ -1,5 +1,4 @@
-Parmeliella vainioi (Zahlbr.) P.M. Jørg. SPECIES
-=======
+# Parmeliella vainioi (Zahlbr.) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia amelanchieris Ellis & Fairm. SPECIES
-=======
+# Botryodiplodia amelanchieris Ellis & Fairm. SPECIES
 
 #### Status
 ACCEPTED

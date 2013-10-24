@@ -1,5 +1,4 @@
-Wigglesworthia Aksoy, 1995 GENUS
-=======
+# Wigglesworthia Aksoy, 1995 GENUS
 
 #### Status
 ACCEPTED

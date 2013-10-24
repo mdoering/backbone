@@ -1,5 +1,4 @@
-Xylomites cassiae Engelhard SPECIES
-=======
+# Xylomites cassiae Engelhard SPECIES
 
 #### Status
 ACCEPTED

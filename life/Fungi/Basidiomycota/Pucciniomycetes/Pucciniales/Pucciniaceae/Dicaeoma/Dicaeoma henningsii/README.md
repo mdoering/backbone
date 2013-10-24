@@ -1,5 +1,4 @@
-Dicaeoma henningsii Kuntze SPECIES
-=======
+# Dicaeoma henningsii Kuntze SPECIES
 
 #### Status
 ACCEPTED

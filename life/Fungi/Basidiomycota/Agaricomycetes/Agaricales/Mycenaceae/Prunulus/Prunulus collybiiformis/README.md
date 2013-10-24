@@ -1,5 +1,4 @@
-Prunulus collybiiformis Murrill SPECIES
-=======
+# Prunulus collybiiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

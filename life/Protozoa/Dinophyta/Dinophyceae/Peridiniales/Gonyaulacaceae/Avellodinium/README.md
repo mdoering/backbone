@@ -1,5 +1,4 @@
-Avellodinium S.Duxbury, 1977 GENUS
-=======
+# Avellodinium S.Duxbury, 1977 GENUS
 
 #### Status
 ACCEPTED

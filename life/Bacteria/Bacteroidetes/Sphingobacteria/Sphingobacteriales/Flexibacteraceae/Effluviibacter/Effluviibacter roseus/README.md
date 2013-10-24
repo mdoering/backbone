@@ -1,5 +1,4 @@
-Effluviibacter roseus Suresh et al., 2006 SPECIES
-=======
+# Effluviibacter roseus Suresh et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

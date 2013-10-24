@@ -1,5 +1,4 @@
-Leiophloea ligustica (A. Massal.) Trevis. SPECIES
-=======
+# Leiophloea ligustica (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella suberosa Crous, F.A. Ferreira, Alfenas & M.J. Wingf., 1993 SPECIES
-=======
+# Mycosphaerella suberosa Crous, F.A. Ferreira, Alfenas & M.J. Wingf., 1993 SPECIES
 
 #### Status
 ACCEPTED

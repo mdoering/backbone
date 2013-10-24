@@ -1,5 +1,4 @@
-Sporobolomyces hispanicus Peláez & C. Ramírez SPECIES
-=======
+# Sporobolomyces hispanicus Peláez & C. Ramírez SPECIES
 
 #### Status
 ACCEPTED

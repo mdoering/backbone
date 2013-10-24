@@ -1,17 +1,16 @@
-Graphis bonplandiae (Fée) Müll. Arg. SPECIES
-=======
+# Graphis bonplandii A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mém. Soc. Phys. Hist. nat. Genève 29(8): 36 (1887)
 
 #### Original name
-Fissurina dumastii var. bonplandii Fée
+Graphis bonplandii A. Massal.
 
 ### Remarks
 null

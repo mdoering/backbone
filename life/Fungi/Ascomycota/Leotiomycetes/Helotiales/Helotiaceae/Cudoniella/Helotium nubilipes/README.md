@@ -1,5 +1,4 @@
-Helotium nubilipes Boud., 1907 SPECIES
-=======
+# Helotium nubilipes Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED

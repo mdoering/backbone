@@ -1,5 +1,4 @@
-Lecanora fulvoglauca Flagey SPECIES
-=======
+# Lecanora fulvoglauca Flagey SPECIES
 
 #### Status
 ACCEPTED

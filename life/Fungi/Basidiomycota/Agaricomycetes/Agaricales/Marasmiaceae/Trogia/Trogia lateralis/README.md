@@ -1,5 +1,4 @@
-Trogia lateralis Corner SPECIES
-=======
+# Trogia lateralis Corner SPECIES
 
 #### Status
 ACCEPTED

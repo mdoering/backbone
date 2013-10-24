@@ -1,5 +1,4 @@
-Lepiota grisea Rick SPECIES
-=======
+# Lepiota grisea Rick SPECIES
 
 #### Status
 ACCEPTED

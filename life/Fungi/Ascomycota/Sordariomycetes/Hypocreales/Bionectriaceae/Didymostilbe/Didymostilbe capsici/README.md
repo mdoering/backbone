@@ -1,5 +1,4 @@
-Didymostilbe capsici (Pat.) Seifert SPECIES
-=======
+# Didymostilbe capsici (Pat.) Seifert SPECIES
 
 #### Status
 ACCEPTED

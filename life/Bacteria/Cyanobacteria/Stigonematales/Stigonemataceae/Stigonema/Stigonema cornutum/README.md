@@ -1,5 +1,4 @@
-Stigonema cornutum Gardner SPECIES
-=======
+# Stigonema cornutum Gardner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium herbivorans Varel et al., 1995 SPECIES
-=======
+# Clostridium herbivorans Varel et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laminaria gunneri Foslie SPECIES
-=======
+# Laminaria gunneri Foslie SPECIES
 
 #### Status
 ACCEPTED

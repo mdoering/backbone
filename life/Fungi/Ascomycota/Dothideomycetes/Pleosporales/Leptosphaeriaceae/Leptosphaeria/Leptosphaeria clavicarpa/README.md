@@ -1,17 +1,16 @@
-Heptameria clavicarpa (Ellis & Everh.) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria clavicarpa Ellis & Everh., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 25: 109 (1886)
 
 #### Original name
-null
+Leptosphaeria clavicarpa Ellis & Everh., 1886
 
 ### Remarks
 null

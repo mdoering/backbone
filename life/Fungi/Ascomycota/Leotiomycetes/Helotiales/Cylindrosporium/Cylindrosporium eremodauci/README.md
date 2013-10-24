@@ -1,5 +1,4 @@
-Cylindrosporium eremodauci Annal. SPECIES
-=======
+# Cylindrosporium eremodauci Annal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmeliella asahinae (Räsänen) P.M. Jørg. SPECIES
-=======
+# Parmeliella asahinae (Räsänen) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antrodia pictilis (Berk.) Teng SPECIES
-=======
+# Antrodia pictilis (Berk.) Teng SPECIES
 
 #### Status
 ACCEPTED

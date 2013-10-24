@@ -1,5 +1,4 @@
-Phaeophyscia Moberg GENUS
-=======
+# Phaeophyscia Moberg GENUS
 
 #### Status
 ACCEPTED

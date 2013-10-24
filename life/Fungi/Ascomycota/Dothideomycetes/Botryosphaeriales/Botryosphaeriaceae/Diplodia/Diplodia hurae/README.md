@@ -1,5 +1,4 @@
-Diplodia hurae Tassi SPECIES
-=======
+# Diplodia hurae Tassi SPECIES
 
 #### Status
 ACCEPTED

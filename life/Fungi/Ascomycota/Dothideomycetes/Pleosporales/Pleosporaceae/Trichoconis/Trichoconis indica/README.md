@@ -1,5 +1,4 @@
-Trichoconis indica Pavgi & R.A. Singh SPECIES
-=======
+# Trichoconis indica Pavgi & R.A. Singh SPECIES
 
 #### Status
 ACCEPTED

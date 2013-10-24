@@ -1,5 +1,4 @@
-Sarcoscypha obliqua (Zoll.) Sacc. SPECIES
-=======
+# Sarcoscypha obliqua (Zoll.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

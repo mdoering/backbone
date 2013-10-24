@@ -1,5 +1,4 @@
-Pezizella coprophila Velen. SPECIES
-=======
+# Pezizella coprophila Velen. SPECIES
 
 #### Status
 ACCEPTED

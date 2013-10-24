@@ -1,5 +1,4 @@
-Dicaeoma firmum (Dietel) Kuntze SPECIES
-=======
+# Dicaeoma firmum (Dietel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

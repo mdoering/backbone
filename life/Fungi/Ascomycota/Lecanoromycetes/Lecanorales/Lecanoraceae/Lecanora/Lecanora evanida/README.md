@@ -1,5 +1,4 @@
-Lecanora evanida Motyka SPECIES
-=======
+# Lecanora evanida Motyka SPECIES
 
 #### Status
 ACCEPTED

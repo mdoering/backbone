@@ -1,5 +1,4 @@
-Artostrobus joergenseni Petrushevskaya, 1967 SPECIES
-=======
+# Artostrobus joergenseni Petrushevskaya, 1967 SPECIES
 
 #### Status
 ACCEPTED

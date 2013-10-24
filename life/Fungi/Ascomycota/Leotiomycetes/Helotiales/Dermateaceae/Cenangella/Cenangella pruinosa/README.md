@@ -1,5 +1,4 @@
-Cenangella pruinosa Rostr. SPECIES
-=======
+# Cenangella pruinosa Rostr. SPECIES
 
 #### Status
 ACCEPTED

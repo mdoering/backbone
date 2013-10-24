@@ -1,5 +1,4 @@
-Stachybotrys voglinii Cif. SPECIES
-=======
+# Stachybotrys voglinii Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Durispora K.D. Hyde GENUS
-=======
+# Durispora K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

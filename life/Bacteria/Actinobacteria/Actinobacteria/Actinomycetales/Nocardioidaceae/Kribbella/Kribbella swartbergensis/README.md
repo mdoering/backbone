@@ -1,5 +1,4 @@
-Kribbella swartbergensis Kirby et al., 2006 SPECIES
-=======
+# Kribbella swartbergensis Kirby et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassomyces boschmai (Nouvel {?} ) W.D. Kane SPECIES
-=======
+# Thalassomyces boschmai (Nouvel {?} ) W.D. Kane SPECIES
 
 #### Status
 ACCEPTED

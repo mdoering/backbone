@@ -1,17 +1,16 @@
-Buglossoporus marmoratus var. marmoratus VARIETY
-=======
+# Buglossoporus marmoratus Corner, 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Beih. Nova Hedwigia 78: 168 (1984)
 
 #### Original name
-Buglossoporus marmoratus var. marmoratus
+Buglossoporus marmoratus Corner, 1984
 
 ### Remarks
 null

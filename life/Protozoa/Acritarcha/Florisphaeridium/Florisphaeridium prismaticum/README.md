@@ -1,5 +1,4 @@
-Florisphaeridium prismaticum Rodriguez-Gonzalez, 1983 SPECIES
-=======
+# Florisphaeridium prismaticum Rodriguez-Gonzalez, 1983 SPECIES
 
 #### Status
 ACCEPTED

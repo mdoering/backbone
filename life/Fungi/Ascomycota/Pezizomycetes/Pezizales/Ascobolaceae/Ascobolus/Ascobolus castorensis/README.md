@@ -1,5 +1,4 @@
-Ascobolus castorensis Aas SPECIES
-=======
+# Ascobolus castorensis Aas SPECIES
 
 #### Status
 ACCEPTED

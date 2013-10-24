@@ -1,5 +1,4 @@
-Proplectella ellipsoida Kofoid & Campbell, 1929 SPECIES
-=======
+# Proplectella ellipsoida Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

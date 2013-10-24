@@ -1,5 +1,4 @@
-Mycosphaerella clallamensis R. Sprague SPECIES
-=======
+# Mycosphaerella clallamensis R. Sprague SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria inquinata Schild, 1992 SPECIES
-=======
+# Ramaria inquinata Schild, 1992 SPECIES
 
 #### Status
 ACCEPTED

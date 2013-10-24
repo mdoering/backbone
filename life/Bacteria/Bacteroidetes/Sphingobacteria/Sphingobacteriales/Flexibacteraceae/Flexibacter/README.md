@@ -1,5 +1,4 @@
-Flexibacter Soriano, 1945 GENUS
-=======
+# Flexibacter Soriano, 1945 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia cascarillae (Fée) Nyl. SPECIES
-=======
+# Arthonia cascarillae (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

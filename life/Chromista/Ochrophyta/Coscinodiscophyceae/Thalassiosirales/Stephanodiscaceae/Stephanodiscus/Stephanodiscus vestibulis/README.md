@@ -1,5 +1,4 @@
-Stephanodiscus vestibulis Håk., Theriot & Stoermer SPECIES
-=======
+# Stephanodiscus vestibulis Håk., Theriot & Stoermer SPECIES
 
 #### Status
 ACCEPTED

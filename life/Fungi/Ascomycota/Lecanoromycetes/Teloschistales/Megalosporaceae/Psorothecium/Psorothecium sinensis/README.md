@@ -1,5 +1,4 @@
-Psorothecium sinensis SPECIES
-=======
+# Psorothecium sinensis SPECIES
 
 #### Status
 ACCEPTED

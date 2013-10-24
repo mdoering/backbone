@@ -1,5 +1,4 @@
-Mycena viscalba S. Ito & S. Imai SPECIES
-=======
+# Mycena viscalba S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

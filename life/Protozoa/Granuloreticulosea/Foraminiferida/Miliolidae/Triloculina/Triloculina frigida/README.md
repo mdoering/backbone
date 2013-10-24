@@ -1,5 +1,4 @@
-Triloculina frigida Lagoe, 1977 SPECIES
-=======
+# Triloculina frigida Lagoe, 1977 SPECIES
 
 #### Status
 ACCEPTED

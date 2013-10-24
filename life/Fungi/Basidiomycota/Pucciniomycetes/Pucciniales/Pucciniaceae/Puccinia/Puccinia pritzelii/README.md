@@ -1,5 +1,4 @@
-Puccinia pritzelii Henn. SPECIES
-=======
+# Puccinia pritzelii Henn. SPECIES
 
 #### Status
 ACCEPTED

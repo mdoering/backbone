@@ -1,5 +1,4 @@
-Inocybe dolichospora Malençon SPECIES
-=======
+# Inocybe dolichospora Malençon SPECIES
 
 #### Status
 ACCEPTED

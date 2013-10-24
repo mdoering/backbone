@@ -1,5 +1,4 @@
-Helminthosporium trichellum var. trichellum VARIETY
-=======
+# Helminthosporium trichellum Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. 4: 408 (1886)
 
 #### Original name
-Helminthosporium trichellum var. trichellum
+Helminthosporium trichellum Sacc.
 
 ### Remarks
 null

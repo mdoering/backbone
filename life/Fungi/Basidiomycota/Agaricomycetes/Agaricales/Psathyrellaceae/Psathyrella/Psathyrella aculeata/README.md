@@ -1,5 +1,4 @@
-Psathyrella aculeata W.W. Patrick & Barrows SPECIES
-=======
+# Psathyrella aculeata W.W. Patrick & Barrows SPECIES
 
 #### Status
 ACCEPTED

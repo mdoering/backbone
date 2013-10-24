@@ -1,17 +1,16 @@
-Scopella cryptostegiae (Vestergr.) Cummins, 1940 SPECIES
-=======
+# Maravalia cryptostegiae (Cummins) Y. Ono, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 67: 72 (1940)
+Mycologia 76(5): 902 (1984)
 
 #### Original name
-Uredo cryptostegiae Vestergr., 1914
+Scopella cryptostegiae (Vestergr.) Cummins, 1940
 
 ### Remarks
 null

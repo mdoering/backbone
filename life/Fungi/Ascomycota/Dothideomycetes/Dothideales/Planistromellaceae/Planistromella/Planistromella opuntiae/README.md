@@ -1,5 +1,4 @@
-Planistromella opuntiae Sivan. & R.G. Shivas SPECIES
-=======
+# Planistromella opuntiae Sivan. & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nidularia alabamensis G.F. Atk. SPECIES
-=======
+# Nidularia alabamensis G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

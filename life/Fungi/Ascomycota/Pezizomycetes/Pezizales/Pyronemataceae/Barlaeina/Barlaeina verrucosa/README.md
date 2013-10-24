@@ -1,5 +1,4 @@
-Barlaeina verrucosa (Rodway) Sacc. SPECIES
-=======
+# Barlaeina verrucosa (Rodway) Sacc. SPECIES
 
 #### Status
 ACCEPTED

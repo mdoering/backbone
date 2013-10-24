@@ -1,5 +1,4 @@
-Chorostate vogliniana Sacc. & Trotter SPECIES
-=======
+# Chorostate vogliniana Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

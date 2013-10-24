@@ -1,5 +1,4 @@
-Septoria collinae Gonz. Frag. SPECIES
-=======
+# Septoria collinae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

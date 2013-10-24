@@ -1,5 +1,4 @@
-Oospora hyalinula SPECIES
-=======
+# Oospora hyalinula SPECIES
 
 #### Status
 ACCEPTED

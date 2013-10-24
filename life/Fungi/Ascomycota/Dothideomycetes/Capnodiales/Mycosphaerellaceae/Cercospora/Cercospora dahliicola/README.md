@@ -1,5 +1,4 @@
-Cercospora dahliicola M.A. Salam & P.N. Rao SPECIES
-=======
+# Cercospora dahliicola M.A. Salam & P.N. Rao SPECIES
 
 #### Status
 ACCEPTED

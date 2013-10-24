@@ -1,5 +1,4 @@
-Puccinia virectae Vienn.-Bourg. SPECIES
-=======
+# Puccinia virectae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthocystis turfacea Cart. SPECIES
-=======
+# Acanthocystis turfacea Cart. SPECIES
 
 #### Status
 ACCEPTED

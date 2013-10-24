@@ -1,5 +1,4 @@
-Caeoma uvulariatum Schwein. SPECIES
-=======
+# Caeoma uvulariatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

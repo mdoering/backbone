@@ -1,5 +1,4 @@
-Oceanisphaera donghaensis Park et al., 2006 SPECIES
-=======
+# Oceanisphaera donghaensis Park et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

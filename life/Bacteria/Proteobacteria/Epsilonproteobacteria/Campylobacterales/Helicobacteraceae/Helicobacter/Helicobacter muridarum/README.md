@@ -1,5 +1,4 @@
-Helicobacter muridarum Lee et al., 1992 SPECIES
-=======
+# Helicobacter muridarum Lee et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

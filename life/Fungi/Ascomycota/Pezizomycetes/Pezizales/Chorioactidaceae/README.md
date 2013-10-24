@@ -1,5 +1,4 @@
-Chorioactidaceae Pfister FAMILY
-=======
+# Chorioactidaceae Pfister FAMILY
 
 #### Status
 ACCEPTED

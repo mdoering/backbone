@@ -1,5 +1,4 @@
-Sphaeria papilionacea Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria papilionacea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

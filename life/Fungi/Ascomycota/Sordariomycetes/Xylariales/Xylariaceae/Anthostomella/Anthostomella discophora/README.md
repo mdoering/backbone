@@ -1,5 +1,4 @@
-Anthostomella discophora Syd. SPECIES
-=======
+# Anthostomella discophora Syd. SPECIES
 
 #### Status
 ACCEPTED

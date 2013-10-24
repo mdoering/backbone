@@ -1,5 +1,4 @@
-Xenicodinium rugulatum J. M. Hansen SPECIES
-=======
+# Xenicodinium rugulatum J. M. Hansen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inonotus hemmesii Gilb. & Ryvarden, 2002 SPECIES
-=======
+# Inonotus hemmesii Gilb. & Ryvarden, 2002 SPECIES
 
 #### Status
 ACCEPTED

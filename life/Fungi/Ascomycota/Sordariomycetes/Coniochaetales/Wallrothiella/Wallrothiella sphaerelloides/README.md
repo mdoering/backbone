@@ -1,5 +1,4 @@
-Wallrothiella sphaerelloides Rehm SPECIES
-=======
+# Wallrothiella sphaerelloides Rehm SPECIES
 
 #### Status
 ACCEPTED

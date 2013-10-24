@@ -1,5 +1,4 @@
-Pestalotia brassicicola J.V. Kachroo SPECIES
-=======
+# Pestalotia brassicicola J.V. Kachroo SPECIES
 
 #### Status
 ACCEPTED

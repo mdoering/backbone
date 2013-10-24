@@ -1,5 +1,4 @@
-Calicium fulvofuscum F. Wilson ex F.M. Bailey SPECIES
-=======
+# Calicium fulvofuscum F. Wilson ex F.M. Bailey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Calothrix hydnoides Harvey SPECIES
-=======
+# Symploca hydnoides (Harvey) Kützing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

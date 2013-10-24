@@ -1,5 +1,4 @@
-Rhizophydium epithemiae Valkanov SPECIES
-=======
+# Rhizophydium epithemiae Valkanov SPECIES
 
 #### Status
 ACCEPTED

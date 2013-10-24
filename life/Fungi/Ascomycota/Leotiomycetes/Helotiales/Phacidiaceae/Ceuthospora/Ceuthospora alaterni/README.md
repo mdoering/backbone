@@ -1,5 +1,4 @@
-Ceuthospora alaterni Thüm. SPECIES
-=======
+# Ceuthospora alaterni Thüm. SPECIES
 
 #### Status
 ACCEPTED

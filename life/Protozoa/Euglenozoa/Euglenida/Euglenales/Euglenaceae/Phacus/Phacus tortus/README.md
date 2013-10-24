@@ -1,11 +1,10 @@
-Phacus tortus tortus (Lemmermann) Skvortzov SUBSPECIES
-=======
+# Phacus tortus (Lemmermann) Skvortsov SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

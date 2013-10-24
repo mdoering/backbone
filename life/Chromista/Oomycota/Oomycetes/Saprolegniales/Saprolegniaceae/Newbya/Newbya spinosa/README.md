@@ -1,14 +1,13 @@
-Achlya racemosa var. spinosa (de Bary) Cornu, 1880 VARIETY
-=======
+# Newbya spinosa (de Bary) Mark A. Spencer & M.W. Dick, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Spencer, Vick & Dick, Mycol. Res. 106(5): 559 (2002)
 
 #### Original name
 Achlya spinosa de Bary, 1882

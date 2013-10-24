@@ -1,5 +1,4 @@
-Microxyphiomyces minutus Bat. & Cavalc. SPECIES
-=======
+# Microxyphiomyces minutus Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

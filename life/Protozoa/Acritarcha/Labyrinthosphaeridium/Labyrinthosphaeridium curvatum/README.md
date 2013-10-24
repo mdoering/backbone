@@ -1,5 +1,4 @@
-Labyrinthosphaeridium curvatum Uutela & Tynni, 1991 SPECIES
-=======
+# Labyrinthosphaeridium curvatum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

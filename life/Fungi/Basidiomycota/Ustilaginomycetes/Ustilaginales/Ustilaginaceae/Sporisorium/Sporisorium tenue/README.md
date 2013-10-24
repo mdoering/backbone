@@ -1,5 +1,4 @@
-Sporisorium tenue (Syd. & P. Syd.) Vánky SPECIES
-=======
+# Sporisorium tenue (Syd. & P. Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

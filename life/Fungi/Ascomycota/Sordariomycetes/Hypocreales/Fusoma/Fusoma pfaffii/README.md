@@ -1,5 +1,4 @@
-Fusoma pfaffii Bubák SPECIES
-=======
+# Fusoma pfaffii Bubák SPECIES
 
 #### Status
 ACCEPTED

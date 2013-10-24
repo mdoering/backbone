@@ -1,5 +1,4 @@
-Truncoheronallenia McCulloch, 1977 GENUS
-=======
+# Truncoheronallenia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria circumfusa Nyl. SPECIES
-=======
+# Verrucaria circumfusa Nyl. SPECIES
 
 #### Status
 ACCEPTED

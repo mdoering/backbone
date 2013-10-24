@@ -1,5 +1,4 @@
-Homothecium opulentum (Mont.) A. Massal. SPECIES
-=======
+# Homothecium opulentum (Mont.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

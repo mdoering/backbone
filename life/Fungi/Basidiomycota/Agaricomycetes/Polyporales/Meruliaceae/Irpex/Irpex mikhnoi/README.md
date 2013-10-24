@@ -1,5 +1,4 @@
-Irpex mikhnoi (P. Karst.) Sacc. & Trotter SPECIES
-=======
+# Irpex mikhnoi (P. Karst.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

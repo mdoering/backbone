@@ -1,14 +1,13 @@
-Chaetosphaeronema larense Borelli & R. Zamora, 1973 SPECIES
-=======
+# Pseudochaetosphaeronema larense (Borelli & R. Zamora) Punith., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boln Soc. venez. Dermatol. 6(no. 58): 17 (1973)
+Nova Hedwigia 31(1-3): 127 (1979)
 
 #### Original name
 Chaetosphaeronema larense Borelli & R. Zamora, 1973

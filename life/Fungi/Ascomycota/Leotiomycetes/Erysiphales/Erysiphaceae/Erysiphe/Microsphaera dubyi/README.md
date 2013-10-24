@@ -1,5 +1,4 @@
-Microsphaera dubyi Lév. SPECIES
-=======
+# Microsphaera dubyi Lév. SPECIES
 
 #### Status
 ACCEPTED

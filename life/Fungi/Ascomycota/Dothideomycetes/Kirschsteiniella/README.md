@@ -1,5 +1,4 @@
-Kirschsteiniella GENUS
-=======
+# Kirschsteiniella GENUS
 
 #### Status
 ACCEPTED

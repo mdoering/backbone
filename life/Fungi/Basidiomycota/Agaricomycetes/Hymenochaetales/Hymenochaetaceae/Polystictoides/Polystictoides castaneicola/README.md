@@ -1,17 +1,16 @@
-Polystictoides castanicola Lázaro Ibiza SPECIES
-=======
+# Polystictoides castaneicola Lázaro Ibiza SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revta R. Acad. Cienc. exact. fis. nat. Madr. 14: 834 (1916)
 
 #### Original name
-Polystictoides castanicola Lázaro Ibiza
+Polystictoides castaneicola Lázaro Ibiza
 
 ### Remarks
 null

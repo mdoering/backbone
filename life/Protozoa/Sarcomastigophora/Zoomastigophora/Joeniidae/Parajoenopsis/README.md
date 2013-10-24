@@ -1,5 +1,4 @@
-Parajoenopsis M.Saleem GENUS
-=======
+# Parajoenopsis M.Saleem GENUS
 
 #### Status
 ACCEPTED

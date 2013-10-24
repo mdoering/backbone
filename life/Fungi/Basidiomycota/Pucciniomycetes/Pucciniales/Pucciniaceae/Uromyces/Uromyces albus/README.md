@@ -1,5 +1,4 @@
-Uromyces albus Dietel & Holw. SPECIES
-=======
+# Uromyces albus Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

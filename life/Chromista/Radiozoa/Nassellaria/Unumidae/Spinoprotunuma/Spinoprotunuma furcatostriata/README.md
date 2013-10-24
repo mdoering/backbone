@@ -1,5 +1,4 @@
-Spinoprotunuma furcatostriata SPECIES
-=======
+# Spinoprotunuma furcatostriata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium tetani (Flügge, 1886) Bergey et al., 1923 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium tetani (Flügge, 1886) Bergey et al., 1923 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

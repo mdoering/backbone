@@ -1,5 +1,4 @@
-Squamarina provincialis Clauzade & Poelt SPECIES
-=======
+# Squamarina provincialis Clauzade & Poelt SPECIES
 
 #### Status
 ACCEPTED

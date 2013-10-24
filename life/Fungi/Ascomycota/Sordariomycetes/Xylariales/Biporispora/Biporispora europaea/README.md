@@ -1,5 +1,4 @@
-Biporispora europaea J.D. Rogers, Y.M. Ju & Cand., 1999 SPECIES
-=======
+# Biporispora europaea J.D. Rogers, Y.M. Ju & Cand., 1999 SPECIES
 
 #### Status
 ACCEPTED

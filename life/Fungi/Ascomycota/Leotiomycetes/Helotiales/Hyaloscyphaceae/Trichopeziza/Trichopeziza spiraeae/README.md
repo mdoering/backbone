@@ -1,5 +1,4 @@
-Trichopeziza spiraeae Kirchn. SPECIES
-=======
+# Trichopeziza spiraeae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

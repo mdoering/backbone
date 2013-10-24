@@ -1,5 +1,4 @@
-Oppilatala chelina Colbath, 1990 SPECIES
-=======
+# Oppilatala chelina Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

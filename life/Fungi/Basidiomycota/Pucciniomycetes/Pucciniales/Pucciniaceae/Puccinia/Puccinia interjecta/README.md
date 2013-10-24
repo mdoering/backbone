@@ -1,5 +1,4 @@
-Puccinia interjecta H.S. Jacks. SPECIES
-=======
+# Puccinia interjecta H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

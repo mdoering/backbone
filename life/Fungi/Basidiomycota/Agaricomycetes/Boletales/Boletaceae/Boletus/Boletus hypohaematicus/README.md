@@ -1,5 +1,4 @@
-Boletus hypohaematicus Singer SPECIES
-=======
+# Boletus hypohaematicus Singer SPECIES
 
 #### Status
 ACCEPTED

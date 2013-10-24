@@ -1,5 +1,4 @@
-Melanoleuca brachyspora Harmaja SPECIES
-=======
+# Melanoleuca brachyspora Harmaja SPECIES
 
 #### Status
 ACCEPTED

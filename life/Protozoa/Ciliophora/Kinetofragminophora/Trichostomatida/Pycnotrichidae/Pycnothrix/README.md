@@ -1,5 +1,4 @@
-Pycnothrix Schubotz, 1908 GENUS
-=======
+# Pycnothrix Schubotz, 1908 GENUS
 
 #### Status
 ACCEPTED

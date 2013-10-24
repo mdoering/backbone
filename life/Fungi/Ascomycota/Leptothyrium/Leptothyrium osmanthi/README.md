@@ -1,5 +1,4 @@
-Leptothyrium osmanthi Grove SPECIES
-=======
+# Leptothyrium osmanthi Grove SPECIES
 
 #### Status
 ACCEPTED

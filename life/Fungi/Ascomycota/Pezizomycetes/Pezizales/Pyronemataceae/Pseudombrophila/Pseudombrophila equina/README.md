@@ -1,14 +1,13 @@
-Fimaria equina Graddon, 1980 SPECIES
-=======
+# Pseudombrophila equina (Graddon) Brumm., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 74(2): 266 (1980)
+A World-Monograph of the Genus Pseudombrophila (Pezizales, Ascomycotina) (Eching bei München), <i>Libri Botanici</i> <b>14</b> 32 (1995)
 
 #### Original name
 Fimaria equina Graddon, 1980

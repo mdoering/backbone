@@ -1,5 +1,4 @@
-Entoloma pallidiceps Murrill SPECIES
-=======
+# Entoloma pallidiceps Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Simobaculites Loeblich & Tappan, 1984 GENUS
-=======
+# Simobaculites Loeblich & Tappan, 1984 GENUS
 
 #### Status
 ACCEPTED

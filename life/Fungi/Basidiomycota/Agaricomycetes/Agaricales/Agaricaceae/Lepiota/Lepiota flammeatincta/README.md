@@ -1,5 +1,4 @@
-Lepiota flammeatincta Kauffman SPECIES
-=======
+# Lepiota flammeatincta Kauffman SPECIES
 
 #### Status
 ACCEPTED

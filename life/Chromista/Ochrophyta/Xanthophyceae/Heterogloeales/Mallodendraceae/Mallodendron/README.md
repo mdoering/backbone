@@ -1,5 +1,4 @@
-Mallodendron GENUS
-=======
+# Mallodendron GENUS
 
 #### Status
 ACCEPTED

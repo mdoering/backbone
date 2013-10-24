@@ -1,5 +1,4 @@
-Mollisia androsaemi Feltgen SPECIES
-=======
+# Mollisia androsaemi Feltgen SPECIES
 
 #### Status
 ACCEPTED

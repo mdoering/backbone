@@ -1,5 +1,4 @@
-Nosema cuneatum SPECIES
-=======
+# Nosema cuneatum SPECIES
 
 #### Status
 ACCEPTED

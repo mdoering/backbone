@@ -1,5 +1,4 @@
-Hypocrea pulchella Penz. & Sacc. SPECIES
-=======
+# Hypocrea pulchella Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

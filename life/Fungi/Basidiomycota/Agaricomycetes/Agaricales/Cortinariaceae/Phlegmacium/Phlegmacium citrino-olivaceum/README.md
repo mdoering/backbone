@@ -1,5 +1,4 @@
-Phlegmacium citrino-olivaceum f. citrino-olivaceum (M.M. Moser) M.M. Moser FORM
-=======
+# Phlegmacium citrino-olivaceum (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Die Gattung Phlegmacium (Schleimköpfe). Die Pilze Mitteleuropas 4 305 (1960)
 
 #### Original name
-Phlegmacium citrino-olivaceum f. citrino-olivaceum (M.M. Moser) M.M. Moser
+Cortinarius citrino-olivaceus M.M. Moser
 
 ### Remarks
 null

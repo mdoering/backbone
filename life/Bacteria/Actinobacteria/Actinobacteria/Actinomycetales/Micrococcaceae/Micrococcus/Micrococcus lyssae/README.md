@@ -1,5 +1,4 @@
-Micrococcus lyssae SPECIES
-=======
+# Micrococcus lyssae SPECIES
 
 #### Status
 ACCEPTED

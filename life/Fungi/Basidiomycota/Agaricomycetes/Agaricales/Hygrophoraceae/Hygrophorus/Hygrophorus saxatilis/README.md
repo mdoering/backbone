@@ -1,5 +1,4 @@
-Hygrophorus saxatilis A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus saxatilis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

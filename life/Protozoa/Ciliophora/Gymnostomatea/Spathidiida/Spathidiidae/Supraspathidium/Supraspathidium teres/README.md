@@ -1,8 +1,7 @@
-Supraspathidium terres (Stokes, 1886) Foissner & Didier, 1981 SPECIES
-=======
+# Supraspathidium teres (Stokes, 1886) Foissner & Didier, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Rhizomorpha filicina Rebent. SPECIES
-=======
+# Rhizomorpha filicina Rebent. SPECIES
 
 #### Status
 ACCEPTED

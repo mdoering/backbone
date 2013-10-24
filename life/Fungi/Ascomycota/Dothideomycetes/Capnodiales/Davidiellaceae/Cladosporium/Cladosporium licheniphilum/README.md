@@ -1,5 +1,4 @@
-Cladosporium licheniphilum Heuchert & U. Braun SPECIES
-=======
+# Cladosporium licheniphilum Heuchert & U. Braun SPECIES
 
 #### Status
 ACCEPTED

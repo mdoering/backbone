@@ -1,5 +1,4 @@
-Physcia sieberiana (Laurer) A. Massal. SPECIES
-=======
+# Physcia sieberiana (Laurer) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balantidium suis SPECIES
-=======
+# Balantidium suis SPECIES
 
 #### Status
 ACCEPTED

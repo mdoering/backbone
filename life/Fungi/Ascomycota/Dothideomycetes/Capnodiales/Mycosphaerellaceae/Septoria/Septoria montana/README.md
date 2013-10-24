@@ -1,5 +1,4 @@
-Septoria montana Traverso SPECIES
-=======
+# Septoria montana Traverso SPECIES
 
 #### Status
 ACCEPTED

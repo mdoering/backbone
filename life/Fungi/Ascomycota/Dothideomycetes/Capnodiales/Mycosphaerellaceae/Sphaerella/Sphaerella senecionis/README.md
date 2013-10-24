@@ -1,5 +1,4 @@
-Sphaerella senecionis Petch SPECIES
-=======
+# Sphaerella senecionis Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia styracis Tassi SPECIES
-=======
+# Diplodia styracis Tassi SPECIES
 
 #### Status
 ACCEPTED

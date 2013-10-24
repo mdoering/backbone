@@ -1,5 +1,4 @@
-Clavaria tenax Lév. SPECIES
-=======
+# Clavaria tenax Lév. SPECIES
 
 #### Status
 ACCEPTED

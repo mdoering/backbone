@@ -1,5 +1,4 @@
-Naucoria jaffueli Speg. SPECIES
-=======
+# Naucoria jaffueli Speg. SPECIES
 
 #### Status
 ACCEPTED

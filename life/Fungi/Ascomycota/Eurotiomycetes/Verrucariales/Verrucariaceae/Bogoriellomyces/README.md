@@ -1,5 +1,4 @@
-Bogoriellomyces GENUS
-=======
+# Bogoriellomyces GENUS
 
 #### Status
 ACCEPTED

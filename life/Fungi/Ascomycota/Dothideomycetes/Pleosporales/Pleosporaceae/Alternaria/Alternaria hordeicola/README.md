@@ -1,5 +1,4 @@
-Alternaria hordeicola E.G. Simmons & Kosiak SPECIES
-=======
+# Alternaria hordeicola E.G. Simmons & Kosiak SPECIES
 
 #### Status
 ACCEPTED

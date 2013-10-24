@@ -1,5 +1,4 @@
-Teretrichodina Yankovskij, 1980 GENUS
-=======
+# Teretrichodina Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

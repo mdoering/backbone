@@ -1,5 +1,4 @@
-Patellaria holocarpa (Ehrh.) Wallr. SPECIES
-=======
+# Patellaria holocarpa (Ehrh.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

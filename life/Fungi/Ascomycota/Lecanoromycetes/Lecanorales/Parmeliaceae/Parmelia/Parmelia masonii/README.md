@@ -1,5 +1,4 @@
-Parmelia masonii Essl. & Poelt SPECIES
-=======
+# Parmelia masonii Essl. & Poelt SPECIES
 
 #### Status
 ACCEPTED

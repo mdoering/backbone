@@ -1,17 +1,16 @@
-Hypoderma strobicola f. strobicola Tubeuf FORM
-=======
+# Meloderma desmazieri (Duby) Darker, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Diseases Plants Induced Cryptog. Paras. (London) 233 (1897)
+Can. J. Bot. 45: 1429 (1967)
 
 #### Original name
-Hypoderma strobicola f. strobicola Tubeuf
+Hypoderma desmazieri Duby, 1862
 
 ### Remarks
 null

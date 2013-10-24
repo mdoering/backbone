@@ -1,5 +1,4 @@
-Arachnopegma Haeckel, 1881 GENUS
-=======
+# Arachnopegma Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

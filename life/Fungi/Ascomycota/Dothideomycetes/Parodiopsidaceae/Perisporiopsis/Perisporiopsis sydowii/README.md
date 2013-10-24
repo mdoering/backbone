@@ -1,5 +1,4 @@
-Perisporiopsis sydowii (Petr.) Arx SPECIES
-=======
+# Perisporiopsis sydowii (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

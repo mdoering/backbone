@@ -1,5 +1,4 @@
-Meliola cheoi (Hansf.) Cif. SPECIES
-=======
+# Meliola cheoi (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

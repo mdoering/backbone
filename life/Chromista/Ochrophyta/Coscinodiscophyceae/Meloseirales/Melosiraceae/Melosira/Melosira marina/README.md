@@ -1,5 +1,4 @@
-Melosira marina (W. Smith) Janisch SPECIES
-=======
+# Melosira marina (W. Smith) Janisch SPECIES
 
 #### Status
 ACCEPTED

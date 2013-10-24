@@ -1,5 +1,4 @@
-Erysiphe hiratae U. Braun SPECIES
-=======
+# Erysiphe hiratae U. Braun SPECIES
 
 #### Status
 ACCEPTED

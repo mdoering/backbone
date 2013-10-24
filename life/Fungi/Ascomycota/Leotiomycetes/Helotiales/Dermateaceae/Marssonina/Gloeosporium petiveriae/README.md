@@ -1,5 +1,4 @@
-Gloeosporium petiveriae Speg. SPECIES
-=======
+# Gloeosporium petiveriae Speg. SPECIES
 
 #### Status
 ACCEPTED

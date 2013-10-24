@@ -1,5 +1,4 @@
-Dothiorella nuptialis (Bubák) Petr. & Syd. SPECIES
-=======
+# Dothiorella nuptialis (Bubák) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

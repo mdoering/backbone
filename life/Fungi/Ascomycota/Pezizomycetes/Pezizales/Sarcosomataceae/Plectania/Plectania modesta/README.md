@@ -1,5 +1,4 @@
-Plectania modesta Otani SPECIES
-=======
+# Plectania modesta Otani SPECIES
 
 #### Status
 ACCEPTED

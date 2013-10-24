@@ -1,14 +1,13 @@
-Wettsteinina mediterranea E. Müll., 1965 SPECIES
-=======
+# Kriegeriella mediterranea (E. Müll.) Arx & E. Müll., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 18: 92 (1965)
+Stud. Mycol. 9: 88 (1975)
 
 #### Original name
 Wettsteinina mediterranea E. Müll., 1965

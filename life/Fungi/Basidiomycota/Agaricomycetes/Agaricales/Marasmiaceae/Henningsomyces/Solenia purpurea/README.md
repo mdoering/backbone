@@ -1,5 +1,4 @@
-Solenia purpurea Romell SPECIES
-=======
+# Solenia purpurea Romell SPECIES
 
 #### Status
 ACCEPTED

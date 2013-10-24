@@ -1,5 +1,4 @@
-Mayamontana Castellano, Trappe & Lodge GENUS
-=======
+# Mayamontana Castellano, Trappe & Lodge GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromphalus brookei J. W. Bailey SPECIES
-=======
+# Asteromphalus brookei J. W. Bailey SPECIES
 
 #### Status
 ACCEPTED

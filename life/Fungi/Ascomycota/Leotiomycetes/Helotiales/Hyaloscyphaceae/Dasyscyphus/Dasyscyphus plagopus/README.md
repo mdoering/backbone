@@ -1,8 +1,7 @@
-Dasyscypha plagopus (Wormsk.) Sacc. SPECIES
-=======
+# Dasyscyphus plagopus (Wormsk.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

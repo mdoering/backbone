@@ -1,5 +1,4 @@
-Ustilago polygoni-senticosi Henn. SPECIES
-=======
+# Ustilago polygoni-senticosi Henn. SPECIES
 
 #### Status
 ACCEPTED

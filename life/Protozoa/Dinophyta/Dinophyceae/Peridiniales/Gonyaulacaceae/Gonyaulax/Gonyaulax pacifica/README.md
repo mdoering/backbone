@@ -1,11 +1,10 @@
-Pavillardinium brianii (Rampi, 1941) Sournia, 1973 SPECIES
-=======
+# Gonyaulax pacifica Kofoid SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

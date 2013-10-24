@@ -1,5 +1,4 @@
-Eurotium orientale Petch SPECIES
-=======
+# Eurotium orientale Petch SPECIES
 
 #### Status
 ACCEPTED

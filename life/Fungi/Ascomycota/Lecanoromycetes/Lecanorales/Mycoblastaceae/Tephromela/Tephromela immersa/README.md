@@ -1,5 +1,4 @@
-Tephromela immersa Kalb & Elix SPECIES
-=======
+# Tephromela immersa Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

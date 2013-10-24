@@ -1,5 +1,4 @@
-Clavaria coralloides-cinerea Bull. SPECIES
-=======
+# Clavaria coralloides-cinerea Bull. SPECIES
 
 #### Status
 ACCEPTED

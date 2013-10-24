@@ -1,17 +1,16 @@
-Torulopsis tannotolerans F.H. Jacob, 1970 SPECIES
-=======
+# Vanderwaltozyma yarrowii (van der Walt) Kurtzman, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 4(3): 242 (2003)
 
 #### Original name
-null
+Kluyveromyces yarrowii Van der Walt, 1986
 
 ### Remarks
 null

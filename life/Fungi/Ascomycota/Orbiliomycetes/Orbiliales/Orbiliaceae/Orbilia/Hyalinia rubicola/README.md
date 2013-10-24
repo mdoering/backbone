@@ -1,14 +1,13 @@
-Orbilia rubicola (Cooke & W. Phillips) Sacc., 1889 SPECIES
-=======
+# Hyalinia rubicola (Cooke & W. Phillips) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 622 (1889)
+null
 
 #### Original name
 null

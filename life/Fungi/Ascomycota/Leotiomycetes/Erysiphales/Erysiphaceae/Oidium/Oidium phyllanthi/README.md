@@ -1,5 +1,4 @@
-Oidium phyllanthi var. phyllanthi VARIETY
-=======
+# Oidium phyllanthi J.M. Yen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Cahiers Pacif. 11: 106 (1967)
 
 #### Original name
-Oidium phyllanthi var. phyllanthi
+Oidium phyllanthi J.M. Yen
 
 ### Remarks
 null

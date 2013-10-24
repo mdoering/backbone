@@ -1,5 +1,4 @@
-Asporothrichum Link GENUS
-=======
+# Asporothrichum Link GENUS
 
 #### Status
 ACCEPTED

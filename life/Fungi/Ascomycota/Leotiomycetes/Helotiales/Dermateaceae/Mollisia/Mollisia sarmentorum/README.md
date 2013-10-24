@@ -1,5 +1,4 @@
-Mollisia sarmentorum (Sacc.) Sacc. SPECIES
-=======
+# Mollisia sarmentorum (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

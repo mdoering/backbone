@@ -1,5 +1,4 @@
-Alexandrium cohorticulum E. Balech SPECIES
-=======
+# Alexandrium cohorticulum E. Balech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Stigmastoma aquilina Bat. & H. Maia SPECIES
-=======
+# Stigmastoma aquilinum Bat. & H. Maia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Batista, Peres, Bezerra & Maia, Nova Hedwigia 2: 484 (1960)
 
 #### Original name
-Stigmastoma aquilina Bat. & H. Maia
+Stigmastoma aquilinum Bat. & H. Maia
 
 ### Remarks
 null

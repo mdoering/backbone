@@ -1,5 +1,4 @@
-Microbotryum emodensis (Berk.) M. Piepenbr., 2004 SPECIES
-=======
+# Microbotryum emodensis (Berk.) M. Piepenbr., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia auerii Xxxiii. crassa Räsänen SPECIES
-=======
+# Cladonia auerii Xxxiii. crassa Räsänen SPECIES
 
 #### Status
 ACCEPTED

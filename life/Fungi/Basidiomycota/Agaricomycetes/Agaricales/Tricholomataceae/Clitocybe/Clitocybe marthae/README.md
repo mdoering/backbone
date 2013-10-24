@@ -1,5 +1,4 @@
-Clitocybe marthae Singer SPECIES
-=======
+# Clitocybe marthae Singer SPECIES
 
 #### Status
 ACCEPTED

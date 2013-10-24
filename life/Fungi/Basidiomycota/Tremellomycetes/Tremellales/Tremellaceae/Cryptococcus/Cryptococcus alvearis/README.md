@@ -1,5 +1,4 @@
-Cryptococcus alvearis Preuss SPECIES
-=======
+# Cryptococcus alvearis Preuss SPECIES
 
 #### Status
 ACCEPTED

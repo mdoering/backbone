@@ -1,14 +1,13 @@
-Pandora calliphorae (Giard) Humber, 1989 SPECIES
-=======
+# Entomophthora calliphorae Giard, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 34(2): 452 (1989)
+Bull. Sci. Dép. Nord 11: 356 (1879)
 
 #### Original name
 Entomophthora calliphorae Giard, 1879

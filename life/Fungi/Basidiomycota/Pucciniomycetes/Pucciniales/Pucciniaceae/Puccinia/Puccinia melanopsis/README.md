@@ -1,5 +1,4 @@
-Puccinia melanopsis P. Syd. & Syd. SPECIES
-=======
+# Puccinia melanopsis P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

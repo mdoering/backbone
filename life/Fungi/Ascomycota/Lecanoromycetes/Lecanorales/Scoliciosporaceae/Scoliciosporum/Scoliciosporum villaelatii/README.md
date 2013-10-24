@@ -1,5 +1,4 @@
-Scoliciosporum villaelatii A. Massal. SPECIES
-=======
+# Scoliciosporum villaelatii A. Massal. SPECIES
 
 #### Status
 ACCEPTED

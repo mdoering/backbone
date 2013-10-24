@@ -1,5 +1,4 @@
-Umbilicaria intermedia Frey SPECIES
-=======
+# Umbilicaria intermedia Frey SPECIES
 
 #### Status
 ACCEPTED

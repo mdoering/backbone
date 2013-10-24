@@ -1,5 +1,4 @@
-Macrosporium congestum Bres. SPECIES
-=======
+# Macrosporium congestum Bres. SPECIES
 
 #### Status
 ACCEPTED

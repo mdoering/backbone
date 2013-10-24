@@ -1,5 +1,4 @@
-Xylaria gomphus Fr. SPECIES
-=======
+# Xylaria gomphus Fr. SPECIES
 
 #### Status
 ACCEPTED

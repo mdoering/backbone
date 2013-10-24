@@ -1,5 +1,4 @@
-Coprinellus bisporus (J.E. Lange) Vilgalys, Hopple & Jacq. Johnson, 2001 SPECIES
-=======
+# Coprinellus bisporus (J.E. Lange) Vilgalys, Hopple & Jacq. Johnson, 2001 SPECIES
 
 #### Status
 ACCEPTED

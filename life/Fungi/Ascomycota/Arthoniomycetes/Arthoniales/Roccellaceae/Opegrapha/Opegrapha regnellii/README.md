@@ -1,5 +1,4 @@
-Opegrapha regnellii Redinger SPECIES
-=======
+# Opegrapha regnellii Redinger SPECIES
 
 #### Status
 ACCEPTED

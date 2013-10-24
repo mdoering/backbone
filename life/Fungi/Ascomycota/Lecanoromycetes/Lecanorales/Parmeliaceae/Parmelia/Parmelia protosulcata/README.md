@@ -1,5 +1,4 @@
-Parmelia protosulcata Hale SPECIES
-=======
+# Parmelia protosulcata Hale SPECIES
 
 #### Status
 ACCEPTED

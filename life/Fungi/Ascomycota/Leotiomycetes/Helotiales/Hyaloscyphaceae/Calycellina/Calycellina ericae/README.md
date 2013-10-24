@@ -1,5 +1,4 @@
-Calycellina ericae Remler SPECIES
-=======
+# Calycellina ericae Remler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus cuneatobrunneus (Lloyd) Teng SPECIES
-=======
+# Polyporus cuneatobrunneus (Lloyd) Teng SPECIES
 
 #### Status
 ACCEPTED

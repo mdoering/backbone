@@ -1,14 +1,13 @@
-Mycovellosiella eleochroma (Sacc.) U. Braun SPECIES
-=======
+# Mycovellosiella elaeochroma (Sacc.) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Braun & Mel'nik, Trudy Botanicheskogo Instituta im. V. L. Komarova 20: 100 (1997)
 
 #### Original name
 Cercospora elaeochroma Sacc.

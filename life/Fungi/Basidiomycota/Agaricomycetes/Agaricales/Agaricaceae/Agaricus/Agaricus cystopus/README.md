@@ -1,5 +1,4 @@
-Agaricus cystopus Berk. SPECIES
-=======
+# Agaricus cystopus Berk. SPECIES
 
 #### Status
 ACCEPTED

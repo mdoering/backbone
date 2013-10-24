@@ -1,5 +1,4 @@
-Quinqueloculina denticulata O.G. Costa SPECIES
-=======
+# Quinqueloculina denticulata O.G. Costa SPECIES
 
 #### Status
 ACCEPTED

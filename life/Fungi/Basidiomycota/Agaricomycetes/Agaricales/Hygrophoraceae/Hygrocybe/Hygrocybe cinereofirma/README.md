@@ -1,5 +1,4 @@
-Hygrocybe cinereofirma Lodge, S.A. Cantrell & T.J. Baroni SPECIES
-=======
+# Hygrocybe cinereofirma Lodge, S.A. Cantrell & T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

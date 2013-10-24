@@ -1,5 +1,4 @@
-Mucor griseo-cyanus Hagem SPECIES
-=======
+# Mucor griseo-cyanus Hagem SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyaloscypha cuneata Velen. SPECIES
-=======
+# Hyaloscypha cuneata Velen. SPECIES
 
 #### Status
 ACCEPTED

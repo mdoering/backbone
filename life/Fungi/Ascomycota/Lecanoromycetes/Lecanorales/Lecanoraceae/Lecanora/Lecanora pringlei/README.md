@@ -1,17 +1,16 @@
-Lecanora pringlei subsp. pringlei SUBSPECIES
-=======
+# Lecanora pringlei (Tuck.) I. M. Lamb SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Lecidea pringlei Tuck.
 
 ### Remarks
 null

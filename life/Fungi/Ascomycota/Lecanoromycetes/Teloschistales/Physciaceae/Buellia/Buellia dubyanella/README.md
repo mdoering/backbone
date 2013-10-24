@@ -1,5 +1,4 @@
-Buellia dubyanella Flagey SPECIES
-=======
+# Buellia dubyanella Flagey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Russula pectinatoides var. pectinatoides VARIETY
-=======
+# Russula pectinatoides Peck, 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. N. Y. St. Mus. 116: 43 (1907)
 
 #### Original name
-Russula pectinatoides var. pectinatoides
+Russula pectinatoides Peck, 1907
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Borrera flavogrisea Pers. SPECIES
-=======
+# Borrera flavogrisea Pers. SPECIES
 
 #### Status
 ACCEPTED

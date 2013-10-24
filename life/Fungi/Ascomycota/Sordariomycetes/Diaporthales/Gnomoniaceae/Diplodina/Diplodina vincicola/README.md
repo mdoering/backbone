@@ -1,5 +1,4 @@
-Diplodina vincicola Gonz. Frag. SPECIES
-=======
+# Diplodina vincicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

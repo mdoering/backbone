@@ -1,5 +1,4 @@
-Mucor ovatus Schaeff. SPECIES
-=======
+# Mucor ovatus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

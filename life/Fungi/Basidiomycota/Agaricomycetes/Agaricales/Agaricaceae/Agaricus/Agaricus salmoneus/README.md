@@ -1,5 +1,4 @@
-Agaricus salmoneus Peck SPECIES
-=======
+# Agaricus salmoneus Peck SPECIES
 
 #### Status
 ACCEPTED

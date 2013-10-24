@@ -1,5 +1,4 @@
-Asteromella pistaciarum Bremer & Petr., 1947 SPECIES
-=======
+# Asteromella pistaciarum Bremer & Petr., 1947 SPECIES
 
 #### Status
 ACCEPTED

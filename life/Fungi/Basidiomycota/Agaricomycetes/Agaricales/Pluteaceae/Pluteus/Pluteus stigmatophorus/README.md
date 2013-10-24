@@ -1,5 +1,4 @@
-Pluteus stigmatophorus (Berk. & Broome) Sacc. SPECIES
-=======
+# Pluteus stigmatophorus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

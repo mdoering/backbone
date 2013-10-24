@@ -1,5 +1,4 @@
-Phoma vaccarii Ferraris SPECIES
-=======
+# Phoma vaccarii Ferraris SPECIES
 
 #### Status
 ACCEPTED

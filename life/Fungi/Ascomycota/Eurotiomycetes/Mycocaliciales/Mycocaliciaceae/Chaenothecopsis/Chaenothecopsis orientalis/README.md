@@ -1,5 +1,4 @@
-Chaenothecopsis orientalis Tibell SPECIES
-=======
+# Chaenothecopsis orientalis Tibell SPECIES
 
 #### Status
 ACCEPTED

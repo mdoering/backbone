@@ -1,8 +1,7 @@
-Gaudryina conversa Grzybowski, 1901 SPECIES
-=======
+# Karrerulina conversa (Grzybowski, 1901) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

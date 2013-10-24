@@ -1,8 +1,7 @@
-Rhodophyllus ambrosia Quél. SPECIES
-=======
+# Rhodophyllus ambrosius Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhodophyllus ambrosia Quél.
+Rhodophyllus ambrosius Quél.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Conidiobolus paulus Drechsler, 1957 SPECIES
-=======
+# Conidiobolus paulus Drechsler, 1957 SPECIES
 
 #### Status
 ACCEPTED

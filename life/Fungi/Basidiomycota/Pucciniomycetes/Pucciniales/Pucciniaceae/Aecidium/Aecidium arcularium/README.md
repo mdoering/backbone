@@ -1,5 +1,4 @@
-Aecidium arcularium Arthur SPECIES
-=======
+# Aecidium arcularium Arthur SPECIES
 
 #### Status
 ACCEPTED

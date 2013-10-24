@@ -1,5 +1,4 @@
-Xylastra GENUS
-=======
+# Xylastra GENUS
 
 #### Status
 ACCEPTED

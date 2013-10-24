@@ -1,5 +1,4 @@
-Miliolinella semicostata SPECIES
-=======
+# Miliolinella semicostata SPECIES
 
 #### Status
 ACCEPTED

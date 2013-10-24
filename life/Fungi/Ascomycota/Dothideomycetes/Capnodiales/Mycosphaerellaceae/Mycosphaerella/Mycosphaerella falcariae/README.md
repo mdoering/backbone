@@ -1,5 +1,4 @@
-Mycosphaerella falcariae Syd. SPECIES
-=======
+# Mycosphaerella falcariae Syd. SPECIES
 
 #### Status
 ACCEPTED

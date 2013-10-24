@@ -1,5 +1,4 @@
-Macroplodia alnicola (Peck) Kuntze SPECIES
-=======
+# Macroplodia alnicola (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

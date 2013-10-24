@@ -1,5 +1,4 @@
-Aecidium rivinae Berk. & M.A. Curtis SPECIES
-=======
+# Aecidium rivinae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

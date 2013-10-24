@@ -1,5 +1,4 @@
-Diatrype stigmaoides Kauffman SPECIES
-=======
+# Diatrype stigmaoides Kauffman SPECIES
 
 #### Status
 ACCEPTED

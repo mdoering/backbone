@@ -1,5 +1,4 @@
-Myxodictyon chilenum C.W. Dodge SPECIES
-=======
+# Myxodictyon chilenum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Splanchnomyces lycoperdineus Corda SPECIES
-=======
+# Splanchnomyces lycoperdineus Corda SPECIES
 
 #### Status
 ACCEPTED

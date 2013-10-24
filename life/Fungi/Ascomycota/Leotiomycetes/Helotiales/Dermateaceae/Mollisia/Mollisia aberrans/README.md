@@ -1,5 +1,4 @@
-Mollisia aberrans Rehm SPECIES
-=======
+# Mollisia aberrans Rehm SPECIES
 
 #### Status
 ACCEPTED

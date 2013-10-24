@@ -1,5 +1,4 @@
-Gyalectidium fantasticum L. I. Ferraro & Lücking SPECIES
-=======
+# Gyalectidium fantasticum L. I. Ferraro & Lücking SPECIES
 
 #### Status
 ACCEPTED

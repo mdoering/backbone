@@ -1,5 +1,4 @@
-Arkhangelskiella cymbiformis Vekshina, 1959 SPECIES
-=======
+# Arkhangelskiella cymbiformis Vekshina, 1959 SPECIES
 
 #### Status
 ACCEPTED

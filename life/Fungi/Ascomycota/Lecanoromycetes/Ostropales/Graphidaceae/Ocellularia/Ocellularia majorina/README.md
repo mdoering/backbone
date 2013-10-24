@@ -1,5 +1,4 @@
-Ocellularia majorina (Nyl.) Zahlbr. SPECIES
-=======
+# Ocellularia majorina (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

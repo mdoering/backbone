@@ -1,5 +1,4 @@
-Tylopilus obscureviolaceus Har. Takah. SPECIES
-=======
+# Tylopilus obscureviolaceus Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Segestrella sprucei (Bab.) Branth & Rostr. SPECIES
-=======
+# Segestrella sprucei (Bab.) Branth & Rostr. SPECIES
 
 #### Status
 ACCEPTED

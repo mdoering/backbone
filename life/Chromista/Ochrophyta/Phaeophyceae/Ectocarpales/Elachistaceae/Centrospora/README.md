@@ -1,5 +1,4 @@
-Centrospora Trevisan, 1845 GENUS
-=======
+# Centrospora Trevisan, 1845 GENUS
 
 #### Status
 ACCEPTED

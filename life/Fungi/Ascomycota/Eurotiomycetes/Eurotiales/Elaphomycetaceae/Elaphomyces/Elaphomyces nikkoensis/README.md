@@ -1,5 +1,4 @@
-Elaphomyces nikkoensis S. Imai SPECIES
-=======
+# Elaphomyces nikkoensis S. Imai SPECIES
 
 #### Status
 ACCEPTED

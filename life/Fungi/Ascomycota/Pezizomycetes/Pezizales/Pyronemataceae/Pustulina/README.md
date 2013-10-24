@@ -1,5 +1,4 @@
-Pustulina GENUS
-=======
+# Pustulina GENUS
 
 #### Status
 ACCEPTED

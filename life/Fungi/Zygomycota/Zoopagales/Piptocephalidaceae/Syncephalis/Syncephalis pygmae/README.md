@@ -1,17 +1,16 @@
-Syncephalis pigmae M.S. Patil & B.J. Patil SPECIES
-=======
+# Syncephalis pygmae M.S. Patil & B.J. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 47(3): 222 (1994)
 
 #### Original name
-Syncephalis pigmae M.S. Patil & B.J. Patil
+Syncephalis pygmae M.S. Patil & B.J. Patil
 
 ### Remarks
 null

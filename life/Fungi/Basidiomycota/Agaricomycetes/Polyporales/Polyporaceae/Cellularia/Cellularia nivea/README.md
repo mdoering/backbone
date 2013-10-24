@@ -1,5 +1,4 @@
-Cellularia nivea (Cooke) Kuntze SPECIES
-=======
+# Cellularia nivea (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

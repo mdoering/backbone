@@ -1,5 +1,4 @@
-Merulius muscorum Sommerf. SPECIES
-=======
+# Merulius muscorum Sommerf. SPECIES
 
 #### Status
 ACCEPTED

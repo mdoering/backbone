@@ -1,5 +1,4 @@
-Septoria equiseti Desm. SPECIES
-=======
+# Septoria equiseti Desm. SPECIES
 
 #### Status
 ACCEPTED

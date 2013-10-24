@@ -1,5 +1,4 @@
-Aureispira Hosoya, Arunpairojana, Suwannachart, Kanjana-Opas & Yokota, 2006 GENUS
-=======
+# Aureispira Hosoya, Arunpairojana, Suwannachart, Kanjana-Opas & Yokota, 2006 GENUS
 
 #### Status
 ACCEPTED

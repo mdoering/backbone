@@ -1,5 +1,4 @@
-Hauerina atlantica Cushman SPECIES
-=======
+# Hauerina atlantica Cushman SPECIES
 
 #### Status
 ACCEPTED

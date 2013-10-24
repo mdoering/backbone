@@ -1,5 +1,4 @@
-Amanita salmonea Thiers SPECIES
-=======
+# Amanita salmonea Thiers SPECIES
 
 #### Status
 ACCEPTED

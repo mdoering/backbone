@@ -1,17 +1,16 @@
-Calloria minutissima Rostr., 1888 SPECIES
-=======
+# Laetinaevia minutissima (Rostr.) Nannf. ex B. Hein, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Willdenowia 9: 50 (1976)
 
 #### Original name
-null
+Orbilia minutissima (Rostr.) Sacc., 1889
 
 ### Remarks
 null

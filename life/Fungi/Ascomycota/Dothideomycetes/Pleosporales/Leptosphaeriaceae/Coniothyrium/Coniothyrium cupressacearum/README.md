@@ -1,14 +1,13 @@
-Microsphaeropsis cupressacearum (M. Morelet) Kiffer & M. Morelet, 1995 SPECIES
-=======
+# Coniothyrium cupressacearum (M. Morelet) M. Morelet, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Morelet, Annales de la Société des Sciences Naturelles et d'Archéologie de Toulon et du Var 47(2): 93 (1995)
+Annales de la Société des Sciences Naturelles et d'Archéologie de Toulon et du Var 196: 7 (1971)
 
 #### Original name
 null

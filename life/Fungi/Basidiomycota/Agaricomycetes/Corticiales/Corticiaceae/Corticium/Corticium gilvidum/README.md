@@ -1,5 +1,4 @@
-Corticium gilvidum Bres. SPECIES
-=======
+# Corticium gilvidum Bres. SPECIES
 
 #### Status
 ACCEPTED

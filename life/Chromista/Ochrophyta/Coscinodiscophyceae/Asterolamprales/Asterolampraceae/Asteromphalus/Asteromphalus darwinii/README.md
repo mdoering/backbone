@@ -1,5 +1,4 @@
-Asteromphalus darwinii Ehrenberg SPECIES
-=======
+# Asteromphalus darwinii Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

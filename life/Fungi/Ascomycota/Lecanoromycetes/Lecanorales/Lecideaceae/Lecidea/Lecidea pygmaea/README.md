@@ -1,5 +1,4 @@
-Lecidea pygmaea Eitner SPECIES
-=======
+# Lecidea pygmaea Eitner SPECIES
 
 #### Status
 ACCEPTED

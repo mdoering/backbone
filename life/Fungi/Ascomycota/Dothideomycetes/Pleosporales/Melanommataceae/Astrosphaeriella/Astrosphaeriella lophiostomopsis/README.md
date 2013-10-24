@@ -1,5 +1,4 @@
-Astrosphaeriella lophiostomopsis K.D. Hyde & J. Fröhl. SPECIES
-=======
+# Astrosphaeriella lophiostomopsis K.D. Hyde & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

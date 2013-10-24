@@ -1,5 +1,4 @@
-Coprobolus poculiformis Cain & Kimbr., 1970 SPECIES
-=======
+# Coprobolus poculiformis Cain & Kimbr., 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibberidea kelseyi (Ellis & Everh.) Kuntze SPECIES
-=======
+# Gibberidea kelseyi (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

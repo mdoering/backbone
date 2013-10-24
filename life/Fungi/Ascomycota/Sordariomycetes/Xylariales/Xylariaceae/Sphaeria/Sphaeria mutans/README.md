@@ -1,5 +1,4 @@
-Sphaeria mutans Cooke & Peck SPECIES
-=======
+# Sphaeria mutans Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

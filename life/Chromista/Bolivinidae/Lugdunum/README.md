@@ -1,5 +1,4 @@
-Lugdunum Saidova, 1975 GENUS
-=======
+# Lugdunum Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

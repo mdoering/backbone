@@ -1,5 +1,4 @@
-Cercospora guazumae Syd. SPECIES
-=======
+# Cercospora guazumae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Roestelia pyrate Thaxt. SPECIES
-=======
+# Roestelia pyrate Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella neolitseae Katum. SPECIES
-=======
+# Anthostomella neolitseae Katum. SPECIES
 
 #### Status
 ACCEPTED

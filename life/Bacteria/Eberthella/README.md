@@ -1,5 +1,4 @@
-Eberthella GENUS
-=======
+# Eberthella GENUS
 
 #### Status
 ACCEPTED

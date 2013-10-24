@@ -1,5 +1,4 @@
-Mallomonas pseudocoronata Prescott SPECIES
-=======
+# Mallomonas pseudocoronata Prescott SPECIES
 
 #### Status
 ACCEPTED

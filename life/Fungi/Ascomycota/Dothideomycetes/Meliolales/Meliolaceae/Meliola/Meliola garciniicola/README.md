@@ -1,17 +1,16 @@
-Meliola garcinicola G.Z. Jiang SPECIES
-=======
+# Meliola garciniicola G.Z. Jiang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycol. Sin. , Suppl. 1: 66 (1987)
 
 #### Original name
-Meliola garcinicola G.Z. Jiang
+Meliola garciniicola G.Z. Jiang
 
 ### Remarks
 null

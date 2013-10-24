@@ -1,5 +1,4 @@
-Hypoxylon corticium var. corticium VARIETY
-=======
+# Hypoxylon corticium (Schwein.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

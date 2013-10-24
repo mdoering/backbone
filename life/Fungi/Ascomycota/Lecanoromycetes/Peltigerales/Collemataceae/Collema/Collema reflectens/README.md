@@ -1,5 +1,4 @@
-Collema reflectens Nyl. SPECIES
-=======
+# Collema reflectens Nyl. SPECIES
 
 #### Status
 ACCEPTED

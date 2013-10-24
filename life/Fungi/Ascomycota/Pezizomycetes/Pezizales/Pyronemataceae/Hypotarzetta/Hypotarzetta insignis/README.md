@@ -1,14 +1,13 @@
-Pustularia insignis Berthet & Riousset, 1963 SPECIES
-=======
+# Hypotarzetta insignis (Berthet & Riousset) Donadini, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 79(3): 397 (1963)
+Docums Mycol. 15(no. 60): 49 (1985)
 
 #### Original name
 Pustularia insignis Berthet & Riousset, 1963

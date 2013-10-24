@@ -1,5 +1,4 @@
-Stictis lata P.R. Johnst. SPECIES
-=======
+# Stictis lata P.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

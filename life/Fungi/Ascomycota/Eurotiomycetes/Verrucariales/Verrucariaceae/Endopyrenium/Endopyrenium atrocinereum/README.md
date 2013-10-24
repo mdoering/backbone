@@ -1,5 +1,4 @@
-Endopyrenium atrocinereum (H. Magn.) N.S. Golubk. SPECIES
-=======
+# Endopyrenium atrocinereum (H. Magn.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

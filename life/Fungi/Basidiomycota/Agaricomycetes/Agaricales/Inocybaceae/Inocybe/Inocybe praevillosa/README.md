@@ -1,5 +1,4 @@
-Inocybe praevillosa (Murrill) Murrill SPECIES
-=======
+# Inocybe praevillosa (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

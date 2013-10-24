@@ -1,5 +1,4 @@
-Inocybe oblongispora (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Inocybe oblongispora (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

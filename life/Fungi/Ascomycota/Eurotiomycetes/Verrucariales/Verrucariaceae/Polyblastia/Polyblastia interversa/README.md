@@ -1,5 +1,4 @@
-Polyblastia interversa (Nyl.) Zahlbr. SPECIES
-=======
+# Polyblastia interversa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

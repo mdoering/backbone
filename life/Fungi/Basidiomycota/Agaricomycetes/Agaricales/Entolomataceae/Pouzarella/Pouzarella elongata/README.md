@@ -1,5 +1,4 @@
-Pouzarella elongata (Romagn.) Mazzer SPECIES
-=======
+# Pouzarella elongata (Romagn.) Mazzer SPECIES
 
 #### Status
 ACCEPTED

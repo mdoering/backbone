@@ -1,5 +1,4 @@
-Diplococcium atrum (Corda) S. Hughes SPECIES
-=======
+# Diplococcium atrum (Corda) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

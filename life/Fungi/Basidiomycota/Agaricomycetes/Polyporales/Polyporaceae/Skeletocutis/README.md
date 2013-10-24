@@ -1,17 +1,16 @@
-Leptotrimitus Pouzar GENUS
-=======
+# Skeletocutis Kotlaba & Pouzar, 1958 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ceská Mykol. 20: 175 (1966)
+null
 
 #### Original name
-Leptotrimitus Pouzar
+null
 
 ### Remarks
 null

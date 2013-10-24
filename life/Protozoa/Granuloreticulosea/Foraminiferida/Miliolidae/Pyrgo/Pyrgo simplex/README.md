@@ -1,5 +1,4 @@
-Pyrgo simplex (d'Orbigny, 1839) SPECIES
-=======
+# Pyrgo simplex (d'Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

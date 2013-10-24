@@ -1,5 +1,4 @@
-Alternaria negundinicola (Ellis & Barthol.) P. Joly SPECIES
-=======
+# Alternaria negundinicola (Ellis & Barthol.) P. Joly SPECIES
 
 #### Status
 ACCEPTED

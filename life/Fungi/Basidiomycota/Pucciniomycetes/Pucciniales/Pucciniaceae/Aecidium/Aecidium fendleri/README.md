@@ -1,5 +1,4 @@
-Aecidium fendleri Tracy & Earle SPECIES
-=======
+# Aecidium fendleri Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

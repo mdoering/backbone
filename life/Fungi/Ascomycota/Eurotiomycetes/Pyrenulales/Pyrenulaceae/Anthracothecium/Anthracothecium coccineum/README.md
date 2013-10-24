@@ -1,5 +1,4 @@
-Anthracothecium coccineum Müll. Arg. SPECIES
-=======
+# Anthracothecium coccineum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

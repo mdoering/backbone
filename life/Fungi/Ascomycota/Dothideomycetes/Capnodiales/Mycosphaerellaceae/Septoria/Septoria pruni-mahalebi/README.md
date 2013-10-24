@@ -1,8 +1,7 @@
-Septoria pruni-mahaleb Therry SPECIES
-=======
+# Septoria pruni-mahalebi Therry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria pruni-mahaleb Therry
+Septoria pruni-mahalebi Therry
 
 ### Remarks
 null

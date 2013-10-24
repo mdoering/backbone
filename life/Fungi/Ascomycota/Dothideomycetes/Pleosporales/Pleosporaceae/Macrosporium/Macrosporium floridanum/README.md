@@ -1,5 +1,4 @@
-Macrosporium floridanum Cooke SPECIES
-=======
+# Macrosporium floridanum Cooke SPECIES
 
 #### Status
 ACCEPTED

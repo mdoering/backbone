@@ -1,5 +1,4 @@
-Gloeosporium pedicularis-lanatae Henn. SPECIES
-=======
+# Gloeosporium pedicularis-lanatae Henn. SPECIES
 
 #### Status
 ACCEPTED

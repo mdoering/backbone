@@ -1,5 +1,4 @@
-Chalciporus austrorubinellus L.D. Gómez SPECIES
-=======
+# Chalciporus austrorubinellus L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

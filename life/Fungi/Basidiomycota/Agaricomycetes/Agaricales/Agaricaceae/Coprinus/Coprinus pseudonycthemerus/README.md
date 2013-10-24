@@ -1,5 +1,4 @@
-Coprinus pseudonycthemerus Britzelm. SPECIES
-=======
+# Coprinus pseudonycthemerus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

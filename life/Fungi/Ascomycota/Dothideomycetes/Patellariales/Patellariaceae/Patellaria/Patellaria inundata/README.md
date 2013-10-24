@@ -1,5 +1,4 @@
-Patellaria inundata (Hepp ex Körb.) Hepp SPECIES
-=======
+# Patellaria inundata (Hepp ex Körb.) Hepp SPECIES
 
 #### Status
 ACCEPTED

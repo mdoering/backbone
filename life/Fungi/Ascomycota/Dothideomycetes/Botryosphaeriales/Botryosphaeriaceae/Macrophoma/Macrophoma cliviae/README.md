@@ -1,5 +1,4 @@
-Macrophoma cliviae Politis SPECIES
-=======
+# Macrophoma cliviae Politis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma significum Corner & E. Horak SPECIES
-=======
+# Entoloma significum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

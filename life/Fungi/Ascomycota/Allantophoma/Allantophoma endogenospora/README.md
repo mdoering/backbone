@@ -1,5 +1,4 @@
-Allantophoma endogenospora Kleb., 1933 SPECIES
-=======
+# Allantophoma endogenospora Kleb., 1933 SPECIES
 
 #### Status
 ACCEPTED

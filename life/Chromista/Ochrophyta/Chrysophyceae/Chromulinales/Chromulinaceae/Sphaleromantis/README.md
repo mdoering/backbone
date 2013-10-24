@@ -1,5 +1,4 @@
-Sphaleromantis Pascher, 1910 GENUS
-=======
+# Sphaleromantis Pascher, 1910 GENUS
 
 #### Status
 ACCEPTED

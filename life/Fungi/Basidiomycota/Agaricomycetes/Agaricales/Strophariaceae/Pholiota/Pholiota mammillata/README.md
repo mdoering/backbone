@@ -1,17 +1,16 @@
-Pholiota mammilata Velen. SPECIES
-=======
+# Pholiota mammillata Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 3: 501 (1921)
 
 #### Original name
-Pholiota mammilata Velen.
+Pholiota mammillata Velen.
 
 ### Remarks
 null

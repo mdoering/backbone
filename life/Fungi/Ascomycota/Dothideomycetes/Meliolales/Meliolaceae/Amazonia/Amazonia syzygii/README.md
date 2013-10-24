@@ -1,5 +1,4 @@
-Amazonia syzygii Hosag. SPECIES
-=======
+# Amazonia syzygii Hosag. SPECIES
 
 #### Status
 ACCEPTED

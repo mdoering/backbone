@@ -1,8 +1,7 @@
-Strobilidium spirales SPECIES
-=======
+# Pelagostrobilidium spirale (Leegaard, 1915) Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

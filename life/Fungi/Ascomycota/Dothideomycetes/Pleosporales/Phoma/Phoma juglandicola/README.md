@@ -1,5 +1,4 @@
-Phoma juglandicola Bacc. SPECIES
-=======
+# Phoma juglandicola Bacc. SPECIES
 
 #### Status
 ACCEPTED

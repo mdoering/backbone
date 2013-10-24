@@ -1,5 +1,4 @@
-Furculomyces westraliensis M.C. Williams & Lichtw., 1992 SPECIES
-=======
+# Furculomyces westraliensis M.C. Williams & Lichtw., 1992 SPECIES
 
 #### Status
 ACCEPTED

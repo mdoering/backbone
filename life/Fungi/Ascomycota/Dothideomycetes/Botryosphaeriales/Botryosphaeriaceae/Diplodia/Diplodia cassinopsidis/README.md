@@ -1,5 +1,4 @@
-Diplodia cassinopsidis Kalchbr. & Cooke SPECIES
-=======
+# Diplodia cassinopsidis Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium manchuricum S. Ito SPECIES
-=======
+# Sorosporium manchuricum S. Ito SPECIES
 
 #### Status
 ACCEPTED

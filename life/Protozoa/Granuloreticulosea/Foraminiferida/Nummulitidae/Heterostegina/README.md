@@ -1,5 +1,4 @@
-Heterostegina d'Orbigny, 1826 GENUS
-=======
+# Heterostegina d'Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

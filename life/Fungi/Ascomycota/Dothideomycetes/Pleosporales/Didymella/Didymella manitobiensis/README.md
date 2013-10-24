@@ -1,5 +1,4 @@
-Didymella manitobiensis Dearn. & Bisby SPECIES
-=======
+# Didymella manitobiensis Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

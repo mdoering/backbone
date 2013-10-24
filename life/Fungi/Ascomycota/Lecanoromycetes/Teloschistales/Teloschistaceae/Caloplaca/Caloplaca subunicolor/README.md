@@ -1,5 +1,4 @@
-Caloplaca subunicolor (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca subunicolor (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

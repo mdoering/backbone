@@ -1,5 +1,4 @@
-Verrucaria albomarginata Hoffm. SPECIES
-=======
+# Verrucaria albomarginata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

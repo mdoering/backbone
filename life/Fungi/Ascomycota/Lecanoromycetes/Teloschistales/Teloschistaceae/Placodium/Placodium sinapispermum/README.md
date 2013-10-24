@@ -1,5 +1,4 @@
-Placodium sinapispermum (Lam.) Hepp SPECIES
-=======
+# Placodium sinapispermum (Lam.) Hepp SPECIES
 
 #### Status
 ACCEPTED

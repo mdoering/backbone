@@ -1,14 +1,13 @@
-Uromyces hippocrateae (Whetzel & Olive) Sacc. & Trotter, 1925 SPECIES
-=======
+# Botryorhiza hippocrateae Whetzel & Olive, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 23: 647 (1925)
+Am. J. Bot. 4: 47 (1917)
 
 #### Original name
 Botryorhiza hippocrateae Whetzel & Olive, 1917

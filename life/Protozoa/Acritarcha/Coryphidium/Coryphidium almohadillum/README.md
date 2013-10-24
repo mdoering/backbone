@@ -1,5 +1,4 @@
-Coryphidium almohadillum Cramer & Díez, 1976 SPECIES
-=======
+# Coryphidium almohadillum Cramer & Díez, 1976 SPECIES
 
 #### Status
 ACCEPTED

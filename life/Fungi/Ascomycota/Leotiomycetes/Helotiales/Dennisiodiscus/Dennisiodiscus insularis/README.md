@@ -1,5 +1,4 @@
-Dennisiodiscus insularis (Speg.) Gamundí SPECIES
-=======
+# Dennisiodiscus insularis (Speg.) Gamundí SPECIES
 
 #### Status
 ACCEPTED

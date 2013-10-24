@@ -1,5 +1,4 @@
-Massospora cicadettae R.S. Soper, 1981 SPECIES
-=======
+# Massospora cicadettae R.S. Soper, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidella periclymeni (Fuckel) Theiss. & Syd. SPECIES
-=======
+# Dothidella periclymeni (Fuckel) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laschia brasiliensis (Henn.) Sacc. SPECIES
-=======
+# Laschia brasiliensis (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

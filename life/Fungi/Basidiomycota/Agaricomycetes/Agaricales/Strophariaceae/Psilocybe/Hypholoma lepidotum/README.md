@@ -1,5 +1,4 @@
-Hypholoma lepidotum Bres. SPECIES
-=======
+# Hypholoma lepidotum Bres. SPECIES
 
 #### Status
 ACCEPTED

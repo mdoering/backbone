@@ -1,5 +1,4 @@
-Uromyces hymenocarpi Jaap SPECIES
-=======
+# Uromyces hymenocarpi Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus accessitans Britzelm. SPECIES
-=======
+# Agaricus accessitans Britzelm. SPECIES
 
 #### Status
 ACCEPTED

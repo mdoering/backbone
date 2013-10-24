@@ -1,5 +1,4 @@
-Stenosemella producta Meunier, 1919 SPECIES
-=======
+# Stenosemella producta Meunier, 1919 SPECIES
 
 #### Status
 ACCEPTED

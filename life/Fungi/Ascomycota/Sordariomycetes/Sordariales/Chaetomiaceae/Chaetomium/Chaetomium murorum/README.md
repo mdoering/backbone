@@ -1,17 +1,16 @@
-Melanospora discospora Massee & E.S. Salmon, 1901 SPECIES
-=======
+# Chaetomium murorum Corda, 1837 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. , Lond. 15: (1901)
+Icon. fung. (Prague) 1: 24 (1837)
 
 #### Original name
-Melanospora discospora Massee & E.S. Salmon, 1901
+Chaetomium murorum Corda, 1837
 
 ### Remarks
 null

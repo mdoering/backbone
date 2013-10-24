@@ -1,5 +1,4 @@
-Dinophysis alata E.G. Jørgensen SPECIES
-=======
+# Dinophysis alata E.G. Jørgensen SPECIES
 
 #### Status
 ACCEPTED

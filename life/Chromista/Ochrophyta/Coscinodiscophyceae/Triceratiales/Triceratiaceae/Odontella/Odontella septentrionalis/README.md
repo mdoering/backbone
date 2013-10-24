@@ -1,5 +1,4 @@
-Odontella septentrionalis H. J. Schrader SPECIES
-=======
+# Odontella septentrionalis H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

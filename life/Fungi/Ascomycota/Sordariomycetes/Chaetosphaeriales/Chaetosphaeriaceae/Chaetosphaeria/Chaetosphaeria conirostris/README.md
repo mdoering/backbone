@@ -1,5 +1,4 @@
-Chaetosphaeria conirostris F.A. Fernández & Huhndorf SPECIES
-=======
+# Chaetosphaeria conirostris F.A. Fernández & Huhndorf SPECIES
 
 #### Status
 ACCEPTED

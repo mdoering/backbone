@@ -1,5 +1,4 @@
-Podolina minuta German in Timofeev et al., 1976 SPECIES
-=======
+# Podolina minuta German in Timofeev et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

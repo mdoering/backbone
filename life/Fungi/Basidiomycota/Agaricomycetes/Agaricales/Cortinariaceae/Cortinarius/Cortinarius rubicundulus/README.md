@@ -1,17 +1,16 @@
-Agaricus rubicundula Rea, 1893 SPECIES
-=======
+# Cortinarius rubicundulus (Rea) A. Pearson, 1946 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 29(4): 197 (1946)
 
 #### Original name
-null
+Agaricus rubicundulus Rea, 1893
 
 ### Remarks
 null

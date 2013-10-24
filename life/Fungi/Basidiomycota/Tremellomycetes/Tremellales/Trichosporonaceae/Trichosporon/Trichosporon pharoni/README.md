@@ -1,5 +1,4 @@
-Trichosporon pharoni M.S. Ahmed, E.H. Hanen & Refaat SPECIES
-=======
+# Trichosporon pharoni M.S. Ahmed, E.H. Hanen & Refaat SPECIES
 
 #### Status
 ACCEPTED

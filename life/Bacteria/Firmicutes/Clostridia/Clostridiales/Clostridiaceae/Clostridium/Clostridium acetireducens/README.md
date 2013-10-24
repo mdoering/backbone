@@ -1,5 +1,4 @@
-Clostridium acetireducens Örlygsson et al., 1996 SPECIES
-=======
+# Clostridium acetireducens Örlygsson et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

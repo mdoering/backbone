@@ -1,5 +1,4 @@
-Palaeostomocystis apiculata Cookson & Eisenack SPECIES
-=======
+# Palaeostomocystis apiculata Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

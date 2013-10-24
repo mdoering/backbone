@@ -1,5 +1,4 @@
-Boletus tunicatus Schumach. SPECIES
-=======
+# Boletus tunicatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

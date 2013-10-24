@@ -1,5 +1,4 @@
-Baltisphaeridium parvigranosum Loeblich & Tappan, 1978 SPECIES
-=======
+# Baltisphaeridium parvigranosum Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

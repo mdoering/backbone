@@ -1,5 +1,4 @@
-Graphis deducta Vain. SPECIES
-=======
+# Graphis deducta Vain. SPECIES
 
 #### Status
 ACCEPTED

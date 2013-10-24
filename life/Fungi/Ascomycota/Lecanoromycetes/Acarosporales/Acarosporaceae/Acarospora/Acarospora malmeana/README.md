@@ -1,5 +1,4 @@
-Acarospora malmeana H. Magn. SPECIES
-=======
+# Acarospora malmeana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Comoclathris salsolae (Griffiths) Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris salsolae (Griffiths) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

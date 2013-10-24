@@ -1,5 +1,4 @@
-Gloniopsis kenyensis E. Boehm, Mugambi, Huhndorf & C.L. Schoch, 2009 SPECIES
-=======
+# Gloniopsis kenyensis E. Boehm, Mugambi, Huhndorf & C.L. Schoch, 2009 SPECIES
 
 #### Status
 ACCEPTED

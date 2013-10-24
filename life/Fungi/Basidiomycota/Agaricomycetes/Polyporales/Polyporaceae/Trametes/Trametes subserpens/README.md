@@ -1,5 +1,4 @@
-Trametes subserpens Murrill SPECIES
-=======
+# Trametes subserpens Murrill SPECIES
 
 #### Status
 ACCEPTED

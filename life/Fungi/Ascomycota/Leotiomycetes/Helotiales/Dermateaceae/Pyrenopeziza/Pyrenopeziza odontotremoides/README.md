@@ -1,5 +1,4 @@
-Pyrenopeziza odontotremoides Rehm SPECIES
-=======
+# Pyrenopeziza odontotremoides Rehm SPECIES
 
 #### Status
 ACCEPTED

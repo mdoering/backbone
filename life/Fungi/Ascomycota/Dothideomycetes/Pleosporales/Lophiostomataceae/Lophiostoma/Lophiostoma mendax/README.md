@@ -1,5 +1,4 @@
-Lophiostoma mendax (De Not.) SPECIES
-=======
+# Lophiostoma mendax (De Not.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia salazarensis B. de Lesd. SPECIES
-=======
+# Bacidia salazarensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

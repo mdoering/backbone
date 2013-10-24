@@ -1,5 +1,4 @@
-Mycosphaerella calamagrostis H.C. Greene SPECIES
-=======
+# Mycosphaerella calamagrostis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

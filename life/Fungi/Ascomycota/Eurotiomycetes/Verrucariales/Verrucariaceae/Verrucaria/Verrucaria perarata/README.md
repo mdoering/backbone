@@ -1,5 +1,4 @@
-Verrucaria perarata Servít SPECIES
-=======
+# Verrucaria perarata Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Stereum rivulorum Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Cyphellostereum rivulorum (Berk. & M.A. Curtis) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 10(no. 46): 330 (1868)
+Beih. Nova Hedwigia 18: 346 (1965)
 
 #### Original name
 Stereum rivulorum Berk. & M.A. Curtis, 1868

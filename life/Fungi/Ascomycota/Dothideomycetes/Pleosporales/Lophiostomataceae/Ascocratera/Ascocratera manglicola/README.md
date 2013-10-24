@@ -1,5 +1,4 @@
-Ascocratera manglicola Kohlm., 1986 SPECIES
-=======
+# Ascocratera manglicola Kohlm., 1986 SPECIES
 
 #### Status
 ACCEPTED

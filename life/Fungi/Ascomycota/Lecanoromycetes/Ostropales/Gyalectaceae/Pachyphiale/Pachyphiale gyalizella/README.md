@@ -1,5 +1,4 @@
-Pachyphiale gyalizella (Nyl.) S. Ekman SPECIES
-=======
+# Pachyphiale gyalizella (Nyl.) S. Ekman SPECIES
 
 #### Status
 ACCEPTED

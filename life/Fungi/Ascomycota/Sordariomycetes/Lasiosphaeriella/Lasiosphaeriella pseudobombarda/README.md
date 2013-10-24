@@ -1,5 +1,4 @@
-Lasiosphaeriella pseudobombarda (Mont.) Huhndorf & F.A. Fernández SPECIES
-=======
+# Lasiosphaeriella pseudobombarda (Mont.) Huhndorf & F.A. Fernández SPECIES
 
 #### Status
 ACCEPTED

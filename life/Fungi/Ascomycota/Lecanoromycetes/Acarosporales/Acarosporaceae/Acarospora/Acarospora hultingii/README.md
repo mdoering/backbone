@@ -1,8 +1,7 @@
-Acarospora hultingi H. Magn. SPECIES
-=======
+# Acarospora hultingii H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acarospora hultingi H. Magn.
+Acarospora hultingii H. Magn.
 
 ### Remarks
 null

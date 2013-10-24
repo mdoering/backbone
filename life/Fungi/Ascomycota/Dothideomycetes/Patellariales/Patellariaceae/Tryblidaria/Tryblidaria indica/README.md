@@ -1,5 +1,4 @@
-Tryblidaria indica Tilak SPECIES
-=======
+# Tryblidaria indica Tilak SPECIES
 
 #### Status
 ACCEPTED

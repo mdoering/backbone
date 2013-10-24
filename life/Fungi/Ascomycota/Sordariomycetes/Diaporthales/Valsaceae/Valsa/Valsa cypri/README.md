@@ -1,17 +1,16 @@
-Valsa ligustri (Schwein.) J. Schröt., 1897 SPECIES
-=======
+# Valsa cypri (Tul.) Tul. & C. Tul., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(4): 412 (1897)
+Select. fung. carpol. (Paris) 2: 194 (1863)
 
 #### Original name
-Sphaeria ligustri Schwein., 1832
+Sphaeria cypri Tul., 1856
 
 ### Remarks
 null

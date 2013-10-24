@@ -1,5 +1,4 @@
-Amanita eucalypti O.K. Mill. SPECIES
-=======
+# Amanita eucalypti O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

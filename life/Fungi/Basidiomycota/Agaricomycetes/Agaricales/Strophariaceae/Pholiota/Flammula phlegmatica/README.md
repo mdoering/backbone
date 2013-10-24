@@ -1,5 +1,4 @@
-Flammula phlegmatica Berk. SPECIES
-=======
+# Flammula phlegmatica Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces blandus Syd. SPECIES
-=======
+# Uromyces blandus Syd. SPECIES
 
 #### Status
 ACCEPTED

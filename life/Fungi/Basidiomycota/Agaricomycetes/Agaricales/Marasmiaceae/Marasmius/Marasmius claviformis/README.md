@@ -1,5 +1,4 @@
-Marasmius claviformis Berk. SPECIES
-=======
+# Marasmius claviformis Berk. SPECIES
 
 #### Status
 ACCEPTED

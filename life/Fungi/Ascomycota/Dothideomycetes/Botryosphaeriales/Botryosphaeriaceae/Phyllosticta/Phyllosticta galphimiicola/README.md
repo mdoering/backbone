@@ -1,17 +1,16 @@
-Phyllosticta galphimicola B.R.D. Yadav & V.G. Rao SPECIES
-=======
+# Phyllosticta galphimiicola B.R.D. Yadav & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the University of Poona 54: 152 (1981)
 
 #### Original name
-Phyllosticta galphimicola B.R.D. Yadav & V.G. Rao
+Phyllosticta galphimiicola B.R.D. Yadav & V.G. Rao
 
 ### Remarks
 null

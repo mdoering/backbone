@@ -1,5 +1,4 @@
-Pyrenula subcinerea (Nyl.) Tuck. SPECIES
-=======
+# Pyrenula subcinerea (Nyl.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

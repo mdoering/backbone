@@ -1,5 +1,4 @@
-Grandinia membranacea Peck & Clinton SPECIES
-=======
+# Grandinia membranacea Peck & Clinton SPECIES
 
 #### Status
 ACCEPTED

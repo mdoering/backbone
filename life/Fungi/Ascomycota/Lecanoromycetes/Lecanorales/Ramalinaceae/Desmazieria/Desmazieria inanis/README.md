@@ -1,5 +1,4 @@
-Desmazieria inanis (Mont.) Follmann & Huneck SPECIES
-=======
+# Desmazieria inanis (Mont.) Follmann & Huneck SPECIES
 
 #### Status
 ACCEPTED

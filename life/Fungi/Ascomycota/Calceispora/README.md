@@ -1,5 +1,4 @@
-Calceispora Matsush. GENUS
-=======
+# Calceispora Matsush. GENUS
 
 #### Status
 ACCEPTED

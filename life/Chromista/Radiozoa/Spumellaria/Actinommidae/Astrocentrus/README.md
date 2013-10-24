@@ -1,5 +1,4 @@
-Astrocentrus Kozur & Mostler, 1979 GENUS
-=======
+# Astrocentrus Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

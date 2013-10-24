@@ -1,5 +1,4 @@
-Dimerium incrustans Speg. SPECIES
-=======
+# Dimerium incrustans Speg. SPECIES
 
 #### Status
 ACCEPTED

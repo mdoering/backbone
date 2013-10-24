@@ -1,5 +1,4 @@
-Crocynia aurea B. de Lesd. SPECIES
-=======
+# Crocynia aurea B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriadoporus GENUS
-=======
+# Myriadoporus GENUS
 
 #### Status
 ACCEPTED

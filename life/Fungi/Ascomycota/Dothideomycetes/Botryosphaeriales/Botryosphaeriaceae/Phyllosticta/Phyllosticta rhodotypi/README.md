@@ -1,5 +1,4 @@
-Phyllosticta rhodotypi Hollós SPECIES
-=======
+# Phyllosticta rhodotypi Hollós SPECIES
 
 #### Status
 ACCEPTED

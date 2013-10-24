@@ -1,5 +1,4 @@
-Metachroma W.H. Harvey, 1855 GENUS
-=======
+# Metachroma W.H. Harvey, 1855 GENUS
 
 #### Status
 ACCEPTED

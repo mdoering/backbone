@@ -1,5 +1,4 @@
-Aspilidea Hafellner GENUS
-=======
+# Aspilidea Hafellner GENUS
 
 #### Status
 ACCEPTED

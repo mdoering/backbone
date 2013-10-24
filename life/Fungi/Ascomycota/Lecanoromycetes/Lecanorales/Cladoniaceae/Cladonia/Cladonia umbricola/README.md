@@ -1,5 +1,4 @@
-Cladonia umbricola Tønsberg & Ahti SPECIES
-=======
+# Cladonia umbricola Tønsberg & Ahti SPECIES
 
 #### Status
 ACCEPTED

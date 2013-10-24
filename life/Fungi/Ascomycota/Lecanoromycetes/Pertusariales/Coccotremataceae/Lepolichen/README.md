@@ -1,5 +1,4 @@
-Lepolichen Trevis. GENUS
-=======
+# Lepolichen Trevis. GENUS
 
 #### Status
 ACCEPTED

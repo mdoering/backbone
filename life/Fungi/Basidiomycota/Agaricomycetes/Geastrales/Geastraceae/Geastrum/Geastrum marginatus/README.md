@@ -1,8 +1,7 @@
-Geaster marginatus Vittad. SPECIES
-=======
+# Geastrum marginatus Vittad. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster marginatus Vittad.
+Geastrum marginatus Vittad.
 
 ### Remarks
 null

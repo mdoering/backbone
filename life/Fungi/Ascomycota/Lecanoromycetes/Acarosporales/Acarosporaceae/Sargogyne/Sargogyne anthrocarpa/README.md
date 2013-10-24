@@ -1,5 +1,4 @@
-Sargogyne anthrocarpa SPECIES
-=======
+# Sargogyne anthrocarpa SPECIES
 
 #### Status
 ACCEPTED

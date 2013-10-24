@@ -1,5 +1,4 @@
-Mycoleptodon murashkinskyi (Burt) Pilát SPECIES
-=======
+# Mycoleptodon murashkinskyi (Burt) Pilát SPECIES
 
 #### Status
 ACCEPTED

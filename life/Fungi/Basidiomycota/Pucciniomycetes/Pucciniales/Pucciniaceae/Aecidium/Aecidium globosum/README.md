@@ -1,5 +1,4 @@
-Aecidium globosum Farl. SPECIES
-=======
+# Aecidium globosum Farl. SPECIES
 
 #### Status
 ACCEPTED

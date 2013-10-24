@@ -1,5 +1,4 @@
-Cyathia intermedia (Mont.) V.S. White SPECIES
-=======
+# Cyathia intermedia (Mont.) V.S. White SPECIES
 
 #### Status
 ACCEPTED

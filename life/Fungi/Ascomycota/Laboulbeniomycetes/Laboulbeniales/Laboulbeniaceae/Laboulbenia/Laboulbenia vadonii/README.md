@@ -1,17 +1,16 @@
-Laboulbenia vadoni Balazuc SPECIES
-=======
+# Laboulbenia vadonii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycologica, Warszawa 11(1): 54 (1975)
 
 #### Original name
-Laboulbenia vadoni Balazuc
+Laboulbenia vadonii Balazuc
 
 ### Remarks
 null

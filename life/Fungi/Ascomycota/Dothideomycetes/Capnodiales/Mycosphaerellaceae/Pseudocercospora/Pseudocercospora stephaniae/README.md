@@ -1,5 +1,4 @@
-Pseudocercospora stephaniae (Suj. Singh) Kamal, M.K. Khan & R.K. Verma SPECIES
-=======
+# Pseudocercospora stephaniae (Suj. Singh) Kamal, M.K. Khan & R.K. Verma SPECIES
 
 #### Status
 ACCEPTED

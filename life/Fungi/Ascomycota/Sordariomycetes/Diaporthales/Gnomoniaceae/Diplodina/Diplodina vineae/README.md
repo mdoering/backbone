@@ -1,5 +1,4 @@
-Diplodina vineae Politis SPECIES
-=======
+# Diplodina vineae Politis SPECIES
 
 #### Status
 ACCEPTED

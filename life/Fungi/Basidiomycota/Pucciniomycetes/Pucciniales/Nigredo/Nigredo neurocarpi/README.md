@@ -1,5 +1,4 @@
-Nigredo neurocarpi (Dietel) Arthur SPECIES
-=======
+# Nigredo neurocarpi (Dietel) Arthur SPECIES
 
 #### Status
 ACCEPTED

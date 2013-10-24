@@ -1,17 +1,16 @@
-Bipolaris victoriae (F. Meehan & H.C. Murphy) Shoemaker, 1959 SPECIES
-=======
+# Cochliobolus victoriae R.R. Nelson, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 37: 882 (1959)
+Phytopathology 50: 775 (1960)
 
 #### Original name
-Helminthosporium victoriae F. Meehan & H.C. Murphy, 1946
+Cochliobolus victoriae R.R. Nelson, 1960
 
 ### Remarks
 null

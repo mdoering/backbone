@@ -1,5 +1,4 @@
-Agaricus papaveraceus Berk. SPECIES
-=======
+# Agaricus papaveraceus Berk. SPECIES
 
 #### Status
 ACCEPTED

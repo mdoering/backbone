@@ -1,5 +1,4 @@
-Colletotrichum ophiopogonis Sandu SPECIES
-=======
+# Colletotrichum ophiopogonis Sandu SPECIES
 
 #### Status
 ACCEPTED

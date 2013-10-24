@@ -1,5 +1,4 @@
-Galerina boliviana Singer SPECIES
-=======
+# Galerina boliviana Singer SPECIES
 
 #### Status
 ACCEPTED

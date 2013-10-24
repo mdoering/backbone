@@ -1,5 +1,4 @@
-Verbeekina Staff, 1909 GENUS
-=======
+# Verbeekina Staff, 1909 GENUS
 
 #### Status
 ACCEPTED

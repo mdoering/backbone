@@ -1,5 +1,4 @@
-Cantharellus acicularis Velen. SPECIES
-=======
+# Cantharellus acicularis Velen. SPECIES
 
 #### Status
 ACCEPTED

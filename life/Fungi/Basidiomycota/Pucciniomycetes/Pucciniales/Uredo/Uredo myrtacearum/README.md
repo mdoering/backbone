@@ -1,5 +1,4 @@
-Uredo myrtacearum Pazschke SPECIES
-=======
+# Uredo myrtacearum Pazschke SPECIES
 
 #### Status
 ACCEPTED

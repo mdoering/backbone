@@ -1,5 +1,4 @@
-Cylindrosporium platanoidis (Allesch.) Died. SPECIES
-=======
+# Cylindrosporium platanoidis (Allesch.) Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta aculeorum Bres. SPECIES
-=======
+# Ascochyta aculeorum Bres. SPECIES
 
 #### Status
 ACCEPTED

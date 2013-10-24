@@ -1,5 +1,4 @@
-Sphaerella nerviseda var. nerviseda VARIETY
-=======
+# Sphaerella nerviseda Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 1(no. 5): 456 (1879)
 
 #### Original name
-Sphaerella nerviseda var. nerviseda
+Sphaerella nerviseda Speg.
 
 ### Remarks
 null

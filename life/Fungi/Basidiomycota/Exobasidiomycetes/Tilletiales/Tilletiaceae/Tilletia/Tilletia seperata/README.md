@@ -1,5 +1,4 @@
-Tilletia seperata Kunze SPECIES
-=======
+# Tilletia seperata Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutellaria angulosa (Schreb.) Baumg. SPECIES
-=======
+# Scutellaria angulosa (Schreb.) Baumg. SPECIES
 
 #### Status
 ACCEPTED

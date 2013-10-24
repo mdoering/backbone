@@ -1,5 +1,4 @@
-Glionectria tenuis Crous & C.L. Schoch, 2000 SPECIES
-=======
+# Glionectria tenuis Crous & C.L. Schoch, 2000 SPECIES
 
 #### Status
 ACCEPTED

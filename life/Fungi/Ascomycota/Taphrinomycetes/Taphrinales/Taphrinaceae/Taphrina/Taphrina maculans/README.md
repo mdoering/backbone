@@ -1,5 +1,4 @@
-Taphrina maculans E.J. Butler, 1911 SPECIES
-=======
+# Taphrina maculans E.J. Butler, 1911 SPECIES
 
 #### Status
 ACCEPTED

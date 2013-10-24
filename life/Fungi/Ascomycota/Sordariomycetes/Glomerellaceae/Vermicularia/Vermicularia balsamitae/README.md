@@ -1,5 +1,4 @@
-Vermicularia balsamitae Schwein. SPECIES
-=======
+# Vermicularia balsamitae Schwein. SPECIES
 
 #### Status
 ACCEPTED

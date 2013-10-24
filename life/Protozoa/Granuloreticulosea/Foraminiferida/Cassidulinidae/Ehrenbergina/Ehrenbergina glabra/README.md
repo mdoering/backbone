@@ -1,8 +1,7 @@
-Ehrenbergina hystrix var. glabra Heron-Allen & Earland, 1922 VARIETY
-=======
+# Ehrenbergina glabra Heron-Allen & Earland, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

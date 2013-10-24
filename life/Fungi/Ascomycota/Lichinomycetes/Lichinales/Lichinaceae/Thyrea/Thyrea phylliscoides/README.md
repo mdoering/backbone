@@ -1,5 +1,4 @@
-Thyrea phylliscoides (Nyl.) Zahlbr. SPECIES
-=======
+# Thyrea phylliscoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

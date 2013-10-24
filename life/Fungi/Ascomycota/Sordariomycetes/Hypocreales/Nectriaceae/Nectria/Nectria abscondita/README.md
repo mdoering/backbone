@@ -1,5 +1,4 @@
-Nectria abscondita Sacc. SPECIES
-=======
+# Nectria abscondita Sacc. SPECIES
 
 #### Status
 ACCEPTED

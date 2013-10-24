@@ -1,5 +1,4 @@
-Rhizomyces confusus Thaxt., 1918 SPECIES
-=======
+# Rhizomyces confusus Thaxt., 1918 SPECIES
 
 #### Status
 ACCEPTED

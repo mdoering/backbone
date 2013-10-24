@@ -1,5 +1,4 @@
-Pleospora luciae Géneau SPECIES
-=======
+# Pleospora luciae Géneau SPECIES
 
 #### Status
 ACCEPTED

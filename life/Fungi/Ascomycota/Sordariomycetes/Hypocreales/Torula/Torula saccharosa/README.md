@@ -1,5 +1,4 @@
-Torula saccharosa F.C. Harrison SPECIES
-=======
+# Torula saccharosa F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

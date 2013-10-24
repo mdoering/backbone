@@ -1,5 +1,4 @@
-Scherochorella Loeblich & Tappan, 1984 GENUS
-=======
+# Scherochorella Loeblich & Tappan, 1984 GENUS
 
 #### Status
 ACCEPTED

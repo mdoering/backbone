@@ -1,5 +1,4 @@
-Peziza irina Quél. SPECIES
-=======
+# Peziza irina Quél. SPECIES
 
 #### Status
 ACCEPTED

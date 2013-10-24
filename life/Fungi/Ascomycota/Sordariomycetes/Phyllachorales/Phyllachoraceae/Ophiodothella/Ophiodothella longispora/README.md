@@ -1,5 +1,4 @@
-Ophiodothella longispora H.J. Swart, 1982 SPECIES
-=======
+# Ophiodothella longispora H.J. Swart, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Peziza arenicola Lév., 1848 SPECIES
-=======
+# Geopora arenicola (Lév.) Kers, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 68(3): 345 (1974)
 
 #### Original name
 Peziza arenicola Lév., 1848

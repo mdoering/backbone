@@ -1,5 +1,4 @@
-Pleospora tridactylitis Auersw. SPECIES
-=======
+# Pleospora tridactylitis Auersw. SPECIES
 
 #### Status
 ACCEPTED

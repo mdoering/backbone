@@ -1,5 +1,4 @@
-Arachnocystis Levine, 1979 GENUS
-=======
+# Arachnocystis Levine, 1979 GENUS
 
 #### Status
 ACCEPTED

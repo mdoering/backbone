@@ -1,5 +1,4 @@
-Hyphomicrobium facile subsp. facile SUBSPECIES
-=======
+# Hyphomicrobium facile SPECIES
 
 #### Status
 ACCEPTED

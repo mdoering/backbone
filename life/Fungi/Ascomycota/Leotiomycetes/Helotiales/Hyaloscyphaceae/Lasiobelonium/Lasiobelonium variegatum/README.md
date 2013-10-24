@@ -1,5 +1,4 @@
-Lasiobelonium variegatum (Fuckel) Raitv., 1980 SPECIES
-=======
+# Lasiobelonium variegatum (Fuckel) Raitv., 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fluctua Marbach GENUS
-=======
+# Fluctua Marbach GENUS
 
 #### Status
 ACCEPTED

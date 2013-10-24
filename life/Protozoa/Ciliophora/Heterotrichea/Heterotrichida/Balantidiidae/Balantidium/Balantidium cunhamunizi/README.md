@@ -1,5 +1,4 @@
-Balantidium cunhamunizi Hegner, 1934 SPECIES
-=======
+# Balantidium cunhamunizi Hegner, 1934 SPECIES
 
 #### Status
 ACCEPTED

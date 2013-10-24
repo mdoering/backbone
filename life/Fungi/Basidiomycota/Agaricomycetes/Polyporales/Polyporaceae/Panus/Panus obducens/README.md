@@ -1,5 +1,4 @@
-Panus obducens Pat. SPECIES
-=======
+# Panus obducens Pat. SPECIES
 
 #### Status
 ACCEPTED

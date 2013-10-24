@@ -1,5 +1,4 @@
-Septoria scuttellariae Thüm. SPECIES
-=======
+# Septoria scuttellariae Thüm. SPECIES
 
 #### Status
 ACCEPTED

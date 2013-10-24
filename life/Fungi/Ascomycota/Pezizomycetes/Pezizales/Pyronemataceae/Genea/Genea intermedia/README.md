@@ -1,5 +1,4 @@
-Genea intermedia Gilkey SPECIES
-=======
+# Genea intermedia Gilkey SPECIES
 
 #### Status
 ACCEPTED

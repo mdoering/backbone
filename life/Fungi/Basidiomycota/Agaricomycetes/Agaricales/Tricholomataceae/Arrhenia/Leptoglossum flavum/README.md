@@ -1,5 +1,4 @@
-Leptoglossum flavum (Gillet) Sacc. SPECIES
-=======
+# Leptoglossum flavum (Gillet) Sacc. SPECIES
 
 #### Status
 ACCEPTED

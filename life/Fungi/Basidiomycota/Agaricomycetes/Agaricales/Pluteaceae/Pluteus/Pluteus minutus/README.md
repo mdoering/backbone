@@ -1,5 +1,4 @@
-Pluteus minutus Pat. SPECIES
-=======
+# Pluteus minutus Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Olpidium rostratum De Wild. SPECIES
-=======
+# Olpidium rostratum De Wild. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haemohormidium beckeri So, 1972 SPECIES
-=======
+# Haemohormidium beckeri So, 1972 SPECIES
 
 #### Status
 ACCEPTED

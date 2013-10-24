@@ -1,5 +1,4 @@
-Calycellina fagina (Ant. Schmidt & Arendh.) Baral SPECIES
-=======
+# Calycellina fagina (Ant. Schmidt & Arendh.) Baral SPECIES
 
 #### Status
 ACCEPTED

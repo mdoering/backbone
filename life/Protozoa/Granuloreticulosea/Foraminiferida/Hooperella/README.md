@@ -1,5 +1,4 @@
-Hooperella Clark, 1994 GENUS
-=======
+# Hooperella Clark, 1994 GENUS
 
 #### Status
 ACCEPTED

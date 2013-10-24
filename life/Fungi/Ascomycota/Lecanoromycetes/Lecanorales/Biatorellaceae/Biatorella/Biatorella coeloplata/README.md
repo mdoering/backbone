@@ -1,5 +1,4 @@
-Biatorella coeloplata Norman SPECIES
-=======
+# Biatorella coeloplata Norman SPECIES
 
 #### Status
 ACCEPTED

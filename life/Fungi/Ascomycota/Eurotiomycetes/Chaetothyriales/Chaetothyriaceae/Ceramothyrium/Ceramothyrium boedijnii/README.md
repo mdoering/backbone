@@ -1,5 +1,4 @@
-Ceramothyrium boedijnii Bat., Nascim. & Cif. SPECIES
-=======
+# Ceramothyrium boedijnii Bat., Nascim. & Cif. SPECIES
 
 #### Status
 ACCEPTED

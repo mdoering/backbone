@@ -1,5 +1,4 @@
-Lecidea fucina Stizenb. SPECIES
-=======
+# Lecidea fucina Stizenb. SPECIES
 
 #### Status
 ACCEPTED

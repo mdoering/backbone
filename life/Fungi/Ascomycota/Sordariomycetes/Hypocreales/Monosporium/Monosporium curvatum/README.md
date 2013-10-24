@@ -1,5 +1,4 @@
-Monosporium curvatum Bonord. SPECIES
-=======
+# Monosporium curvatum Bonord. SPECIES
 
 #### Status
 ACCEPTED

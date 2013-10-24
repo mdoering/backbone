@@ -1,5 +1,4 @@
-Ulivina elliptica Mingazzini, 1891 SPECIES
-=======
+# Ulivina elliptica Mingazzini, 1891 SPECIES
 
 #### Status
 ACCEPTED

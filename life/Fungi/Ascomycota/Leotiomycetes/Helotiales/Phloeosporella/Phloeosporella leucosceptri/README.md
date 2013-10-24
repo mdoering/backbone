@@ -1,5 +1,4 @@
-Phloeosporella leucosceptri (Keissl.) B. Sutton SPECIES
-=======
+# Phloeosporella leucosceptri (Keissl.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

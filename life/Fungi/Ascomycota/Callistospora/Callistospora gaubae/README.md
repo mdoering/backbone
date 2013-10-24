@@ -1,5 +1,4 @@
-Callistospora gaubae Petr., 1955 SPECIES
-=======
+# Callistospora gaubae Petr., 1955 SPECIES
 
 #### Status
 ACCEPTED

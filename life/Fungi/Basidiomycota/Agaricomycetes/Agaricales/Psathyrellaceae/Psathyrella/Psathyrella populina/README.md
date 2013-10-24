@@ -1,17 +1,16 @@
-Agaricus populinus f. populinus FORM
-=======
+# Psathyrella populina (Britzelm.) Kits van Wav., 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. naturw. Augsburg 28: 131 (1885)
+Persoonia, Suppl. 2: 282 (1985)
 
 #### Original name
-Agaricus populinus f. populinus
+Agaricus populinus Britzelm., 1885
 
 ### Remarks
 null

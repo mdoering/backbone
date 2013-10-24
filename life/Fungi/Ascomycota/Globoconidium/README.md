@@ -1,5 +1,4 @@
-Globoconidium G.F. Sepúlveda, Pereira-Carv. & Dianese GENUS
-=======
+# Globoconidium G.F. Sepúlveda, Pereira-Carv. & Dianese GENUS
 
 #### Status
 ACCEPTED

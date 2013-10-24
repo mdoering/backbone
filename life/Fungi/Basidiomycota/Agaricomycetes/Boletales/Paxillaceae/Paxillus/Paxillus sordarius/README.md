@@ -1,5 +1,4 @@
-Paxillus sordarius var. sordarius VARIETY
-=======
+# Paxillus sordarius (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

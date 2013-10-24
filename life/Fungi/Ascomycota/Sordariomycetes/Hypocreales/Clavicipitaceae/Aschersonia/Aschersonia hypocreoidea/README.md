@@ -1,5 +1,4 @@
-Aschersonia hypocreoidea (Cooke & Massee) Petch SPECIES
-=======
+# Aschersonia hypocreoidea (Cooke & Massee) Petch SPECIES
 
 #### Status
 ACCEPTED

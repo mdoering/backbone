@@ -1,5 +1,4 @@
-Arthopyrenia fallaciuscula (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia fallaciuscula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

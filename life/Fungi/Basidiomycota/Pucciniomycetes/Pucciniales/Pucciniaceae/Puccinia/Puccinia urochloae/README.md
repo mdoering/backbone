@@ -1,5 +1,4 @@
-Puccinia urochloae Perd.-Sánch. & M. Piepenbr. SPECIES
-=======
+# Puccinia urochloae Perd.-Sánch. & M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

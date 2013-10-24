@@ -1,5 +1,4 @@
-Melanodiscus von Höhnel, 1918 GENUS
-=======
+# Melanodiscus von Höhnel, 1918 GENUS
 
 #### Status
 ACCEPTED

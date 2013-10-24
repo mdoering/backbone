@@ -1,5 +1,4 @@
-Lecidea albilabra (Dufour) Dufour SPECIES
-=======
+# Lecidea albilabra (Dufour) Dufour SPECIES
 
 #### Status
 ACCEPTED

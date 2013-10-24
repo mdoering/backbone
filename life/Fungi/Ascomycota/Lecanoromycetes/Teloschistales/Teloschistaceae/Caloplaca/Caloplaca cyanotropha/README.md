@@ -1,5 +1,4 @@
-Caloplaca cyanotropha Poelt & Hinter. SPECIES
-=======
+# Caloplaca cyanotropha Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

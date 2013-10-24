@@ -1,5 +1,4 @@
-Gymnodinium chukwanii Ballantine, 1961 SPECIES
-=======
+# Gymnodinium chukwanii Ballantine, 1961 SPECIES
 
 #### Status
 ACCEPTED

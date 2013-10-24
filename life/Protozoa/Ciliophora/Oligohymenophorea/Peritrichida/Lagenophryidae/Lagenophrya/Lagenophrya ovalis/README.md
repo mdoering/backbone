@@ -1,5 +1,4 @@
-Lagenophrya ovalis Gelei, 1954 SPECIES
-=======
+# Lagenophrya ovalis Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

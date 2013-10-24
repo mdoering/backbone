@@ -1,5 +1,4 @@
-Leptothyrium gentianaecola (DC.) Bäumler SPECIES
-=======
+# Leptothyrium gentianaecola (DC.) Bäumler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe puellula P. Karst. SPECIES
-=======
+# Clitocybe puellula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

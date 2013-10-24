@@ -1,5 +1,4 @@
-Orbilia fimicola Jeng & J.C. Krug SPECIES
-=======
+# Orbilia fimicola Jeng & J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oligosphaeridium tubulatum (Ménendez, 1965) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Oligosphaeridium tubulatum (Ménendez, 1965) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

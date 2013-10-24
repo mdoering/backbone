@@ -1,5 +1,4 @@
-Caloplaca neethlingii Zahlbr. SPECIES
-=======
+# Caloplaca neethlingii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

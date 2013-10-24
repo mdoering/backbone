@@ -1,5 +1,4 @@
-Urocystis tianschanica Golovin SPECIES
-=======
+# Urocystis tianschanica Golovin SPECIES
 
 #### Status
 ACCEPTED

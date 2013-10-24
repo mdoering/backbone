@@ -1,5 +1,4 @@
-Phoma riggenbachii Boerema & J.D. Janse, 1981 SPECIES
-=======
+# Phoma riggenbachii Boerema & J.D. Janse, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Glenodinium quadridens (Stein) Schiller SPECIES
-=======
+# Peridiniopsis thompsonii (Thompson) Bourrelly SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Podocapsa A. Ércegovic, 1931 GENUS
-=======
+# Podocapsa A. Ércegovic, 1931 GENUS
 
 #### Status
 ACCEPTED

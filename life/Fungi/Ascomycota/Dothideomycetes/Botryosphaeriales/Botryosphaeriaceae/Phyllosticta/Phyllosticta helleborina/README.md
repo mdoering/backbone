@@ -1,5 +1,4 @@
-Phyllosticta helleborina Brunaud SPECIES
-=======
+# Phyllosticta helleborina Brunaud SPECIES
 
 #### Status
 ACCEPTED

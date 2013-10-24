@@ -1,5 +1,4 @@
-Lecidea labulata (Hepp) Zahlbr. SPECIES
-=======
+# Lecidea labulata (Hepp) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

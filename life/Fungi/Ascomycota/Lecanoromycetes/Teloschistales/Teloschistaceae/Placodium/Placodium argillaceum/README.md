@@ -1,5 +1,4 @@
-Placodium argillaceum C. Knight SPECIES
-=======
+# Placodium argillaceum C. Knight SPECIES
 
 #### Status
 ACCEPTED

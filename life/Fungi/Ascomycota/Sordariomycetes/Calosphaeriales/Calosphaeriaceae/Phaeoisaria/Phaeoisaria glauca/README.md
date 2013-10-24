@@ -1,14 +1,13 @@
-Chloridium glaucum Ellis & Everh. SPECIES
-=======
+# Phaeoisaria glauca (Ellis & Everh.) de Hoog & Papendorf, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 8(4): 413 (1976)
 
 #### Original name
 Chloridium glaucum Ellis & Everh.

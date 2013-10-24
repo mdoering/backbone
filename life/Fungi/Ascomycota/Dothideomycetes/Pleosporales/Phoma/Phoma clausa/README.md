@@ -1,5 +1,4 @@
-Phoma clausa G. Winter SPECIES
-=======
+# Phoma clausa G. Winter SPECIES
 
 #### Status
 ACCEPTED

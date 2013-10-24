@@ -1,5 +1,4 @@
-Aphanothece pallida (Kützing) Rabenhorst SPECIES
-=======
+# Aphanothece pallida (Kützing) Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

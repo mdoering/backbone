@@ -1,5 +1,4 @@
-Beloniella biseptata Ferd. & Winge SPECIES
-=======
+# Beloniella biseptata Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

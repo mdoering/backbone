@@ -1,5 +1,4 @@
-Cortinarius josserandii Bidaud SPECIES
-=======
+# Cortinarius josserandii Bidaud SPECIES
 
 #### Status
 ACCEPTED

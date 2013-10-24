@@ -1,5 +1,4 @@
-Eriosphaeria analoga Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Eriosphaeria analoga Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

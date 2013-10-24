@@ -1,5 +1,4 @@
-Puccinia taihokuensis Sawada SPECIES
-=======
+# Puccinia taihokuensis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis dolichographa Nyl. SPECIES
-=======
+# Graphis dolichographa Nyl. SPECIES
 
 #### Status
 ACCEPTED

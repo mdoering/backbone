@@ -1,5 +1,4 @@
-Phyllosticta schaefferiae Gonz. Frag. & Cif. SPECIES
-=======
+# Phyllosticta schaefferiae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

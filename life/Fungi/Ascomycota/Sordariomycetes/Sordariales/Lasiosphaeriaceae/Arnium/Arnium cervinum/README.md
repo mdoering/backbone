@@ -1,5 +1,4 @@
-Arnium cervinum N. Lundq., 1972 SPECIES
-=======
+# Arnium cervinum N. Lundq., 1972 SPECIES
 
 #### Status
 ACCEPTED

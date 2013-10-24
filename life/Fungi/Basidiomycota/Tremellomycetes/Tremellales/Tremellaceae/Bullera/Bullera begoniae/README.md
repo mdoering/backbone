@@ -1,5 +1,4 @@
-Bullera begoniae Nakase, Tsuzuki, F.L. Lee & M. Takash. SPECIES
-=======
+# Bullera begoniae Nakase, Tsuzuki, F.L. Lee & M. Takash. SPECIES
 
 #### Status
 ACCEPTED

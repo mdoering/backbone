@@ -1,5 +1,4 @@
-Polynema ellisii B. Sutton SPECIES
-=======
+# Polynema ellisii B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastococcus jejuensis Lee, 2006 SPECIES
-=======
+# Blastococcus jejuensis Lee, 2006 SPECIES
 
 #### Status
 ACCEPTED

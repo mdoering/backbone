@@ -1,5 +1,4 @@
-Graphis exserta Nyl. SPECIES
-=======
+# Graphis exserta Nyl. SPECIES
 
 #### Status
 ACCEPTED

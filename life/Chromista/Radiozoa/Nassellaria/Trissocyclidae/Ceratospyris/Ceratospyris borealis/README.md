@@ -1,5 +1,4 @@
-Ceratospyris borealis Bailey, 1856 SPECIES
-=======
+# Ceratospyris borealis Bailey, 1856 SPECIES
 
 #### Status
 ACCEPTED

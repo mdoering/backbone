@@ -1,5 +1,4 @@
-Alternaria limoniasperae E.G. Simmons SPECIES
-=======
+# Alternaria limoniasperae E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

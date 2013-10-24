@@ -1,5 +1,4 @@
-Xanthoparmelia lagunebergensis Hale SPECIES
-=======
+# Xanthoparmelia lagunebergensis Hale SPECIES
 
 #### Status
 ACCEPTED

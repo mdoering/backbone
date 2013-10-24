@@ -1,5 +1,4 @@
-Valsa demissa Nitschke SPECIES
-=======
+# Valsa demissa Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatriospora marina K.D. Hyde & Borse, 1986 SPECIES
-=======
+# Biatriospora marina K.D. Hyde & Borse, 1986 SPECIES
 
 #### Status
 ACCEPTED

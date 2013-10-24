@@ -1,5 +1,4 @@
-Squamarina stella-petraea Poelt SPECIES
-=======
+# Squamarina stella-petraea Poelt SPECIES
 
 #### Status
 ACCEPTED

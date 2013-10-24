@@ -1,5 +1,4 @@
-Erioderma papyraceum P.M. Jørg. & Arv. SPECIES
-=======
+# Erioderma papyraceum P.M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus claviger Harkn. SPECIES
-=======
+# Ophiobolus claviger Harkn. SPECIES
 
 #### Status
 ACCEPTED

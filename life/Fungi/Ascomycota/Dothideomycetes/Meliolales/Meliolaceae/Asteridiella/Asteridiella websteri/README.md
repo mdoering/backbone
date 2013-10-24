@@ -1,17 +1,16 @@
-Asteridiella websterii Hosag. SPECIES
-=======
+# Asteridiella websteri Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 52(3-4): 498 (1991)
 
 #### Original name
-Asteridiella websterii Hosag.
+Asteridiella websteri Hosag.
 
 ### Remarks
 null

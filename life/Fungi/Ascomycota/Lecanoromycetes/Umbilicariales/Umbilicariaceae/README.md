@@ -1,5 +1,4 @@
-Umbilicariaceae Chevall. FAMILY
-=======
+# Umbilicariaceae Chevall. FAMILY
 
 #### Status
 ACCEPTED

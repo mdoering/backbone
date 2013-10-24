@@ -1,5 +1,4 @@
-Collosphaera macropora Popofsky, 1917 SPECIES
-=======
+# Collosphaera macropora Popofsky, 1917 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nephromopsis nephromoides (Nyl.) Ahti & Randlane SPECIES
-=======
+# Nephromopsis nephromoides (Nyl.) Ahti & Randlane SPECIES
 
 #### Status
 ACCEPTED

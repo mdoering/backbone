@@ -1,5 +1,4 @@
-Acarospora placenta (Ehrenb.) Hue SPECIES
-=======
+# Acarospora placenta (Ehrenb.) Hue SPECIES
 
 #### Status
 ACCEPTED

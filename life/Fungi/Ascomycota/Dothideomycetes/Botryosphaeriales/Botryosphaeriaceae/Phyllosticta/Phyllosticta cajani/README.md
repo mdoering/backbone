@@ -1,5 +1,4 @@
-Phyllosticta cajani P. Syd. SPECIES
-=======
+# Phyllosticta cajani P. Syd. SPECIES
 
 #### Status
 ACCEPTED

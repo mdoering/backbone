@@ -1,5 +1,4 @@
-Didymella tandonii Dadwal, Soni & Jamaluddin SPECIES
-=======
+# Didymella tandonii Dadwal, Soni & Jamaluddin SPECIES
 
 #### Status
 ACCEPTED

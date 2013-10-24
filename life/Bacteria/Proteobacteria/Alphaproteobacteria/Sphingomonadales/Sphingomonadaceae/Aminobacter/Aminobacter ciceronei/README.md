@@ -1,5 +1,4 @@
-Aminobacter ciceronei McDonald et al., 2005 SPECIES
-=======
+# Aminobacter ciceronei McDonald et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

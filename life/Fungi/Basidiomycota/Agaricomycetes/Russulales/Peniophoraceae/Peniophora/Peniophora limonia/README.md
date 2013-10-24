@@ -1,5 +1,4 @@
-Peniophora limonia Burt SPECIES
-=======
+# Peniophora limonia Burt SPECIES
 
 #### Status
 ACCEPTED

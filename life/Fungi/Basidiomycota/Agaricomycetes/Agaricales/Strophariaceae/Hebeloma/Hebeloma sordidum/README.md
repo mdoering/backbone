@@ -1,17 +1,16 @@
-Agaricus fastibilis var. fastibilis VARIETY
-=======
+# Hebeloma sordidum Maire, 1914 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 30: 212 (1914)
 
 #### Original name
-Agaricus fastibilis var. fastibilis
+Hebeloma sordidum Maire, 1914
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Solentia foveolarum Ercegovic SPECIES
-=======
+# Solentia foveolarum Ercegovic SPECIES
 
 #### Status
 ACCEPTED

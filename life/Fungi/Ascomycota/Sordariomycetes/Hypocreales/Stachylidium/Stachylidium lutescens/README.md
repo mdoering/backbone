@@ -1,5 +1,4 @@
-Stachylidium lutescens Schwein. SPECIES
-=======
+# Stachylidium lutescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parasphaeria Syd. GENUS
-=======
+# Massarina Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 22(3/6): 297 (1924)
+Syll. fung. (Abellini) 2: 153 (1883)
 
 #### Original name
-Parasphaeria Syd.
+Massarina Sacc.
 
 ### Remarks
 null

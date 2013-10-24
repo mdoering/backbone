@@ -1,5 +1,4 @@
-Linocarpon muroianum I. Hino & Katum. SPECIES
-=======
+# Linocarpon muroianum I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

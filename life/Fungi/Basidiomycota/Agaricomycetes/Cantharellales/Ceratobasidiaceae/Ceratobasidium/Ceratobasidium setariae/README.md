@@ -1,14 +1,13 @@
-Hypochnus setariae Sawada, 1912 SPECIES
-=======
+# Ceratobasidium setariae (Sawada) Oniki, Ogoshi & T. Araki, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mag. , Tokyo 26: 177-193 (1912)
+Trans. Mycol. Soc. Japan 27(2): 153 (1986)
 
 #### Original name
 Hypochnus setariae Sawada, 1912

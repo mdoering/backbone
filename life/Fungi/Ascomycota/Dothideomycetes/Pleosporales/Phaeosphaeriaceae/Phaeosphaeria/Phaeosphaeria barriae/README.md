@@ -1,5 +1,4 @@
-Phaeosphaeria barriae Fallah, J.L. Crane & Shearer SPECIES
-=======
+# Phaeosphaeria barriae Fallah, J.L. Crane & Shearer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bordetella avium Kersters et al., 1984 SPECIES
-=======
+# Bordetella avium Kersters et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora lilacea Rabenh. SPECIES
-=======
+# Thelephora lilacea Rabenh. SPECIES
 
 #### Status
 ACCEPTED

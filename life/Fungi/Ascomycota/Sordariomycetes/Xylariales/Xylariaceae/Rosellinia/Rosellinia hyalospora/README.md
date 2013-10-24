@@ -1,5 +1,4 @@
-Rosellinia hyalospora Theiss. SPECIES
-=======
+# Rosellinia hyalospora Theiss. SPECIES
 
 #### Status
 ACCEPTED

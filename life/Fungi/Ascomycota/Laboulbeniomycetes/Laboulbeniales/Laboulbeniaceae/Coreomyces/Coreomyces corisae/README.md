@@ -1,5 +1,4 @@
-Coreomyces corisae Thaxt., 1903 SPECIES
-=======
+# Coreomyces corisae Thaxt., 1903 SPECIES
 
 #### Status
 ACCEPTED

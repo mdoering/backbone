@@ -1,5 +1,4 @@
-Protrichophora Delphy, 1939 GENUS
-=======
+# Protrichophora Delphy, 1939 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosphaerium Schneider, 1878 GENUS
-=======
+# Trichosphaerium Schneider, 1878 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peziza atrata var. atrata VARIETY
-=======
+# Peziza atrata (Hedw.) Schumach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 417 (1803)
 
 #### Original name
-null
+Octospora atrata (Pers.) Gray, 1821
 
 ### Remarks
 null

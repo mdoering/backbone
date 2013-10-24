@@ -1,5 +1,4 @@
-Pluteus longistriatus (Peck) Peck SPECIES
-=======
+# Pluteus longistriatus (Peck) Peck SPECIES
 
 #### Status
 ACCEPTED

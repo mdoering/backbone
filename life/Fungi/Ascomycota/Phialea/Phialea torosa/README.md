@@ -1,5 +1,4 @@
-Phialea torosa Quél. SPECIES
-=======
+# Phialea torosa Quél. SPECIES
 
 #### Status
 ACCEPTED

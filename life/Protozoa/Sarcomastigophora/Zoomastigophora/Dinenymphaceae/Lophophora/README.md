@@ -1,5 +1,4 @@
-Lophophora Comes, 1910 GENUS
-=======
+# Lophophora Comes, 1910 GENUS
 
 #### Status
 ACCEPTED

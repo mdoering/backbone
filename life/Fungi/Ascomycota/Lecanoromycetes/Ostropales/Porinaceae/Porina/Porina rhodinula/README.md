@@ -1,5 +1,4 @@
-Porina rhodinula Zahlbr. SPECIES
-=======
+# Porina rhodinula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

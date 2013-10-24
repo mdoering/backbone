@@ -1,5 +1,4 @@
-Closteroaleurosporia quinckeana (Zopf) Grigoraki SPECIES
-=======
+# Closteroaleurosporia quinckeana (Zopf) Grigoraki SPECIES
 
 #### Status
 ACCEPTED

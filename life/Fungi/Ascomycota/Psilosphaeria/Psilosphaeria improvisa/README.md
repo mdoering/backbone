@@ -1,5 +1,4 @@
-Psilosphaeria improvisa (P. Karst.) Cooke SPECIES
-=======
+# Psilosphaeria improvisa (P. Karst.) Cooke SPECIES
 
 #### Status
 ACCEPTED

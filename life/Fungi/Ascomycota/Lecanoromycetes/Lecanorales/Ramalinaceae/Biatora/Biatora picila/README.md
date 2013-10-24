@@ -1,5 +1,4 @@
-Biatora picila f. picila FORM
-=======
+# Biatora picila SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatora picila f. picila
+null
 
 ### Remarks
 null

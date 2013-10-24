@@ -1,5 +1,4 @@
-Pustula hydrocotyles (Petr.) Thines, 2005 SPECIES
-=======
+# Pustula hydrocotyles (Petr.) Thines, 2005 SPECIES
 
 #### Status
 ACCEPTED

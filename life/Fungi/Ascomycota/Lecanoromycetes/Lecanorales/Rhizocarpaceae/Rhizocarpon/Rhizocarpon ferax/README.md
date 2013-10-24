@@ -1,17 +1,16 @@
-Rhizocarpon lecanorinum subsp. drepanodes (Feuerer) Clauzade & Cl. Roux SUBSPECIES
-=======
+# Rhizocarpon ferax H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Soc. bot. Centre-Ouest, Nouv. sér. , num. spec. 7: 828 (1985)
+Bot. Notiser 405 (1948)
 
 #### Original name
-Rhizocarpon drepanodes Feuerer
+Rhizocarpon ferax H. Magn.
 
 ### Remarks
 null

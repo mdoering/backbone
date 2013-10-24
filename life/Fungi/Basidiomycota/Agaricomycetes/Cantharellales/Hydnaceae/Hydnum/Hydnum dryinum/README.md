@@ -1,5 +1,4 @@
-Hydnum dryinum Chaillet ex Fr. SPECIES
-=======
+# Hydnum dryinum Chaillet ex Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinemasporiella poiophila Speg. SPECIES
-=======
+# Dinemasporiella poiophila Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elaphomyces maculatus Vittad. SPECIES
-=======
+# Elaphomyces maculatus Vittad. SPECIES
 
 #### Status
 ACCEPTED

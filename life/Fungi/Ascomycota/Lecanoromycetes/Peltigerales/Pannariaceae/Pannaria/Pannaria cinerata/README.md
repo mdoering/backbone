@@ -1,5 +1,4 @@
-Pannaria cinerata var. cinerata VARIETY
-=======
+# Pannaria cinerata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pannaria cinerata var. cinerata
+Pannaria cinerata Zahlbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pleospora papillata P. Karst. SPECIES
-=======
+# Pleospora papillata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

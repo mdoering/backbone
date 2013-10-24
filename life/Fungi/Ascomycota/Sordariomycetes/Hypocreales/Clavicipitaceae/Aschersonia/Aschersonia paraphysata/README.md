@@ -1,5 +1,4 @@
-Aschersonia paraphysata Sacc. SPECIES
-=======
+# Aschersonia paraphysata Sacc. SPECIES
 
 #### Status
 ACCEPTED

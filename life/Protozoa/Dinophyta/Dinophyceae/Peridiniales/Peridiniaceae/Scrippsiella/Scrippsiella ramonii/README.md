@@ -1,5 +1,4 @@
-Scrippsiella ramonii M. Montresor SPECIES
-=======
+# Scrippsiella ramonii M. Montresor SPECIES
 
 #### Status
 ACCEPTED

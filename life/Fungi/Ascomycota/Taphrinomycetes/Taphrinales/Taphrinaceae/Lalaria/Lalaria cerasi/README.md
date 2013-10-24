@@ -1,5 +1,4 @@
-Lalaria cerasi R.T. Moore SPECIES
-=======
+# Lalaria cerasi R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

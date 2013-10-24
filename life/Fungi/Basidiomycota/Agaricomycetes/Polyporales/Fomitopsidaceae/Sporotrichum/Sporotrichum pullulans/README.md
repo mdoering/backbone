@@ -1,5 +1,4 @@
-Sporotrichum pullulans Kleb. SPECIES
-=======
+# Sporotrichum pullulans Kleb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola aucoumeae J.M. Yen & Sulmont SPECIES
-=======
+# Meliola aucoumeae J.M. Yen & Sulmont SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Uromyces astragali var. astragali VARIETY
-=======
+# Uromyces pisi-sativi (Pers.) Liro, 1908 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bidr. Känn. Finl. Nat. Folk 65: 100 (1908)
 
 #### Original name
-Uromyces astragali var. astragali
+Uredo pisi-sativi Pers., 1801
 
 ### Remarks
 null

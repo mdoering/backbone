@@ -1,5 +1,4 @@
-Trichopeziza ulmicola (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Trichopeziza ulmicola (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola maesicola Hansf. & F. Stevens SPECIES
-=======
+# Meliola maesicola Hansf. & F. Stevens SPECIES
 
 #### Status
 ACCEPTED

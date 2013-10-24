@@ -1,5 +1,4 @@
-Meliola ardisiicola Hosag., G. Rajkumar & Jose SPECIES
-=======
+# Meliola ardisiicola Hosag., G. Rajkumar & Jose SPECIES
 
 #### Status
 ACCEPTED

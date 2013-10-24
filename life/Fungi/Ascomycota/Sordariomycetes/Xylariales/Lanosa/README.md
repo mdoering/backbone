@@ -1,5 +1,4 @@
-Lanosa Fr. GENUS
-=======
+# Lanosa Fr. GENUS
 
 #### Status
 ACCEPTED

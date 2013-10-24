@@ -1,5 +1,4 @@
-Masseea javanica Henn. SPECIES
-=======
+# Masseea javanica Henn. SPECIES
 
 #### Status
 ACCEPTED

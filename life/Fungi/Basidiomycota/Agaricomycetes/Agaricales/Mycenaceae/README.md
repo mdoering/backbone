@@ -1,5 +1,4 @@
-Mycenaceae Overeem FAMILY
-=======
+# Mycenaceae Overeem FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus ridleyi Massee SPECIES
-=======
+# Crepidotus ridleyi Massee SPECIES
 
 #### Status
 ACCEPTED

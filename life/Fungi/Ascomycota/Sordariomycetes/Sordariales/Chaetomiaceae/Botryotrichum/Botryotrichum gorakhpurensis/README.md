@@ -1,5 +1,4 @@
-Botryotrichum gorakhpurensis Rak. Kumar, A.N. Rai & K.M. Vyas SPECIES
-=======
+# Botryotrichum gorakhpurensis Rak. Kumar, A.N. Rai & K.M. Vyas SPECIES
 
 #### Status
 ACCEPTED

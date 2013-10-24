@@ -1,5 +1,4 @@
-Trichodina nobilis Chen, 1963 SPECIES
-=======
+# Trichodina nobilis Chen, 1963 SPECIES
 
 #### Status
 ACCEPTED

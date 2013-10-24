@@ -1,5 +1,4 @@
-Ramalina thraustoides Vain. SPECIES
-=======
+# Ramalina thraustoides Vain. SPECIES
 
 #### Status
 ACCEPTED

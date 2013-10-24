@@ -1,5 +1,4 @@
-Anzia corallophora Yoshim. SPECIES
-=======
+# Anzia corallophora Yoshim. SPECIES
 
 #### Status
 ACCEPTED

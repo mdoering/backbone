@@ -1,5 +1,4 @@
-Diplodia lecanorae (Vouaux) Keissl. SPECIES
-=======
+# Diplodia lecanorae (Vouaux) Keissl. SPECIES
 
 #### Status
 ACCEPTED

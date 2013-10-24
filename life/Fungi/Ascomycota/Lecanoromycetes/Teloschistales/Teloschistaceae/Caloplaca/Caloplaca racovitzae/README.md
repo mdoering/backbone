@@ -1,5 +1,4 @@
-Caloplaca racovitzae C.W. Dodge SPECIES
-=======
+# Caloplaca racovitzae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

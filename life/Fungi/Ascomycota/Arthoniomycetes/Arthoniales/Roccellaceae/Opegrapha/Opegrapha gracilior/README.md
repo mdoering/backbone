@@ -1,5 +1,4 @@
-Opegrapha gracilior Nyl. SPECIES
-=======
+# Opegrapha gracilior Nyl. SPECIES
 
 #### Status
 ACCEPTED

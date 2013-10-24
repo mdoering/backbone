@@ -1,5 +1,4 @@
-Uredinopsis ceratophora Faull SPECIES
-=======
+# Uredinopsis ceratophora Faull SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dicaeoma flavescens (McAlpine) Syd., 1922 SPECIES
-=======
+# Puccinia flavescens McAlpine, 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 20(3): 117 (1922)
+Proc. Linn. Soc. N. S. W. , Ser. 2 28(3): 558 (1903)
 
 #### Original name
 Puccinia flavescens McAlpine, 1903

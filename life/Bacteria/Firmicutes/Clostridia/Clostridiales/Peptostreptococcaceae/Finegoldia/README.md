@@ -1,5 +1,4 @@
-Finegoldia Murdoch & Shah, 2000 GENUS
-=======
+# Finegoldia Murdoch & Shah, 2000 GENUS
 
 #### Status
 ACCEPTED

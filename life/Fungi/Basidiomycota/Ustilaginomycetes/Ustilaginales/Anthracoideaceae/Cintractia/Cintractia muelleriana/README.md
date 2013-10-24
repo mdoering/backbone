@@ -1,5 +1,4 @@
-Cintractia muelleriana (Thüm.) Cif. SPECIES
-=======
+# Cintractia muelleriana (Thüm.) Cif. SPECIES
 
 #### Status
 ACCEPTED

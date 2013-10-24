@@ -1,5 +1,4 @@
-Strombidinopsidae Small & Lynn, 1985 FAMILY
-=======
+# Strombidinopsidae Small & Lynn, 1985 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buitkampia Foissner, 1985 GENUS
-=======
+# Buitkampia Foissner, 1985 GENUS
 
 #### Status
 ACCEPTED

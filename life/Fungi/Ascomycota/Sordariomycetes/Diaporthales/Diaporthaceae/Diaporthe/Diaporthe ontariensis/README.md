@@ -1,5 +1,4 @@
-Diaporthe ontariensis Ellis & Everh. SPECIES
-=======
+# Diaporthe ontariensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

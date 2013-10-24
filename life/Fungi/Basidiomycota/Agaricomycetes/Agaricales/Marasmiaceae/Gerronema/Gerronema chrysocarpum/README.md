@@ -1,5 +1,4 @@
-Gerronema chrysocarpum P.G. Liu SPECIES
-=======
+# Gerronema chrysocarpum P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

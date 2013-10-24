@@ -1,17 +1,16 @@
-Puccinia coronata subsp. coronata SUBSPECIES
-=======
+# Puccinia coronata Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. fung. (Prague) 1: 6 (1837)
 
 #### Original name
-null
+Puccinia coronata Corda, 1837
 
 ### Remarks
 null

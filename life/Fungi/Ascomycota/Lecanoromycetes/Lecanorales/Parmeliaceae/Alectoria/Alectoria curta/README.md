@@ -1,5 +1,4 @@
-Alectoria curta f. curta FORM
-=======
+# Alectoria curta Östman ex Hasselrot SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Alectoria curta f. curta
+Alectoria curta Östman ex Hasselrot
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Physcia iranica (Szatala) Szatala SPECIES
-=======
+# Physcia iranica (Szatala) Szatala SPECIES
 
 #### Status
 ACCEPTED

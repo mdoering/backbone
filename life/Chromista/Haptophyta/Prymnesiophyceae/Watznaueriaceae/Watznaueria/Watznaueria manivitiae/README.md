@@ -1,5 +1,4 @@
-Watznaueria manivitiae SPECIES
-=======
+# Watznaueria manivitiae SPECIES
 
 #### Status
 ACCEPTED

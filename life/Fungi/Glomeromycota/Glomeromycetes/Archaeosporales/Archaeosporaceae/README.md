@@ -1,5 +1,4 @@
-Archaeosporaceae J.B. Morton & D. Redecker FAMILY
-=======
+# Archaeosporaceae J.B. Morton & D. Redecker FAMILY
 
 #### Status
 ACCEPTED

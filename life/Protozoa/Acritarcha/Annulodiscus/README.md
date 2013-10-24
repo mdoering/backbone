@@ -1,5 +1,4 @@
-Annulodiscus M. Hajós, 1966 GENUS
-=======
+# Annulodiscus M. Hajós, 1966 GENUS
 
 #### Status
 ACCEPTED

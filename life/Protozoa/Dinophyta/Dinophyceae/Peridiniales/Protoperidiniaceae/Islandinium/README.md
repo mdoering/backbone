@@ -1,5 +1,4 @@
-Islandinium Head et al., 2001 GENUS
-=======
+# Islandinium Head et al., 2001 GENUS
 
 #### Status
 ACCEPTED

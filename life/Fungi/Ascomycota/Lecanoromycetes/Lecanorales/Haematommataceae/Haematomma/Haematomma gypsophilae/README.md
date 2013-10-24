@@ -1,5 +1,4 @@
-Haematomma gypsophilae (Vain.) Dzhur. SPECIES
-=======
+# Haematomma gypsophilae (Vain.) Dzhur. SPECIES
 
 #### Status
 ACCEPTED

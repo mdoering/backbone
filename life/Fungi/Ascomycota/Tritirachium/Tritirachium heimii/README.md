@@ -1,5 +1,4 @@
-Tritirachium heimii var. heimii VARIETY
-=======
+# Tritirachium heimii (Saccas) Langeron, 1949 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 14: 135 (1949)
+null
 
 #### Original name
-Tritirachium heimii var. heimii
+null
 
 ### Remarks
 null

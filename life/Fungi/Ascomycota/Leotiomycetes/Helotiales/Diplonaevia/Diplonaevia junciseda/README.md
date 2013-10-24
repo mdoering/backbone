@@ -1,5 +1,4 @@
-Diplonaevia junciseda (J. Schröt.) Nannf. SPECIES
-=======
+# Diplonaevia junciseda (J. Schröt.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

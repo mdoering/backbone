@@ -1,5 +1,4 @@
-Macrophoma dodonaeae Kalani SPECIES
-=======
+# Macrophoma dodonaeae Kalani SPECIES
 
 #### Status
 ACCEPTED

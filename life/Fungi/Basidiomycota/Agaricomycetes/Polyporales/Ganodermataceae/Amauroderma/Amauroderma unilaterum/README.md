@@ -1,14 +1,13 @@
-Polyporus unilaterus Lloyd, 1912 SPECIES
-=======
+# Amauroderma unilaterum (Lloyd) Ryvarden, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 3 (Syn. Stip. Polyporoids) 117 (1912)
+Mycotaxon 38: 101 (1990)
 
 #### Original name
 Polyporus unilaterus Lloyd, 1912

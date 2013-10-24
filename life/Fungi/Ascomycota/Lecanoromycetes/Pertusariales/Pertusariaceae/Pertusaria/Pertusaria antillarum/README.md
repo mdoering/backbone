@@ -1,5 +1,4 @@
-Pertusaria antillarum Vain. SPECIES
-=======
+# Pertusaria antillarum Vain. SPECIES
 
 #### Status
 ACCEPTED

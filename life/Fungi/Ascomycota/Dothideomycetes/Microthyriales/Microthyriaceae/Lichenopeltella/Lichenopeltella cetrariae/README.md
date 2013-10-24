@@ -1,5 +1,4 @@
-Lichenopeltella cetrariae (Bres.) Höhn. SPECIES
-=======
+# Lichenopeltella cetrariae (Bres.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

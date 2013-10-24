@@ -1,5 +1,4 @@
-Hendersonia eversmanniae Vasyag. SPECIES
-=======
+# Hendersonia eversmanniae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

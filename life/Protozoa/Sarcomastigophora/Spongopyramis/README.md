@@ -1,5 +1,4 @@
-Spongopyramis Haeckel, 1887 GENUS
-=======
+# Spongopyramis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

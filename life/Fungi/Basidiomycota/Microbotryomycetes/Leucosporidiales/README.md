@@ -1,5 +1,4 @@
-Leucosporidiales J.P. Samp., M. Weiss & R. Bauer ORDER
-=======
+# Leucosporidiales J.P. Samp., M. Weiss & R. Bauer ORDER
 
 #### Status
 ACCEPTED

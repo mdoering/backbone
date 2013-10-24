@@ -1,5 +1,4 @@
-Cryptocline hypophyllum (D.E. Ellis & Gillet) Morgan-Jones & Nag Raj SPECIES
-=======
+# Cryptocline hypophyllum (D.E. Ellis & Gillet) Morgan-Jones & Nag Raj SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora bischoffii (Hepp) Nyl. SPECIES
-=======
+# Lecanora bischoffii (Hepp) Nyl. SPECIES
 
 #### Status
 ACCEPTED

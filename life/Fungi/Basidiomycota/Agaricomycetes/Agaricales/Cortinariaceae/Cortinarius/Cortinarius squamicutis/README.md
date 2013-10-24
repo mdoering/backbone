@@ -1,5 +1,4 @@
-Cortinarius squamicutis Bidaud & Savignoni SPECIES
-=======
+# Cortinarius squamicutis Bidaud & Savignoni SPECIES
 
 #### Status
 ACCEPTED

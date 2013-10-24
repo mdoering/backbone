@@ -1,5 +1,4 @@
-Peniophora farinacea Bourdot & Galzin SPECIES
-=======
+# Peniophora farinacea Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

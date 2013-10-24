@@ -1,17 +1,16 @@
-Corticium serum f. serum FORM
-=======
+# Corticium serum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Hymenomyc. eur. (Upsaliae) 659 (1874)
+null
 
 #### Original name
-Corticium serum f. serum
+null
 
 ### Remarks
 null

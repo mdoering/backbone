@@ -1,5 +1,4 @@
-Orthoplecta Brady, 1884 GENUS
-=======
+# Orthoplecta Brady, 1884 GENUS
 
 #### Status
 ACCEPTED

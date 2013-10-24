@@ -1,5 +1,4 @@
-Porina napensis Lücking SPECIES
-=======
+# Porina napensis Lücking SPECIES
 
 #### Status
 ACCEPTED

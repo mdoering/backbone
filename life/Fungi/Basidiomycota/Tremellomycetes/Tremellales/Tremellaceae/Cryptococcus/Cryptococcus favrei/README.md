@@ -1,5 +1,4 @@
-Cryptococcus favrei (M. Ota) Pollacci & Nann. SPECIES
-=======
+# Cryptococcus favrei (M. Ota) Pollacci & Nann. SPECIES
 
 #### Status
 ACCEPTED

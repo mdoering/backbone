@@ -1,5 +1,4 @@
-Pyrenodiscus caricis Petr. SPECIES
-=======
+# Pyrenodiscus caricis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthosphaera echinus SPECIES
-=======
+# Acanthosphaera echinus SPECIES
 
 #### Status
 ACCEPTED

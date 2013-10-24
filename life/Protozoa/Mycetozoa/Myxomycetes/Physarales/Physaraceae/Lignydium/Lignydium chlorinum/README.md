@@ -1,5 +1,4 @@
-Lignydium chlorinum (Cooke) Kuntze SPECIES
-=======
+# Lignydium chlorinum (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

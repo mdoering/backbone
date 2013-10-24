@@ -1,5 +1,4 @@
-Elachopeltis bauhiniae Bat. & J.L. Bezerra SPECIES
-=======
+# Elachopeltis bauhiniae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

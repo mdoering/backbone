@@ -1,5 +1,4 @@
-Xylogone sphaerospora Arx & T. Nilsson, 1969 SPECIES
-=======
+# Xylogone sphaerospora Arx & T. Nilsson, 1969 SPECIES
 
 #### Status
 ACCEPTED

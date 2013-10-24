@@ -1,5 +1,4 @@
-Mycosphaerella fuchsiicola (Speg.) Cash SPECIES
-=======
+# Mycosphaerella fuchsiicola (Speg.) Cash SPECIES
 
 #### Status
 ACCEPTED

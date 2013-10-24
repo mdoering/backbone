@@ -1,5 +1,4 @@
-Chiodecton seperans Nyl. SPECIES
-=======
+# Chiodecton seperans Nyl. SPECIES
 
 #### Status
 ACCEPTED

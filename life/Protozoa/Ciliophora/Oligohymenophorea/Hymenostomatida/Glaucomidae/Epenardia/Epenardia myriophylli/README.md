@@ -1,8 +1,7 @@
-Glaucoma myriophylli Penard, 1922 SPECIES
-=======
+# Epenardia myriophylli (Penard, 1922) Corliss, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

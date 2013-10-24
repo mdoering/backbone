@@ -1,5 +1,4 @@
-Pyrenula astroidea (Fée) R.C. Harris, 1989 SPECIES
-=======
+# Pyrenula astroidea (Fée) R.C. Harris, 1989 SPECIES
 
 #### Status
 DOUBTFUL

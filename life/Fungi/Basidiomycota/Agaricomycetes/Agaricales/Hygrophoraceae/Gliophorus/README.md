@@ -1,5 +1,4 @@
-Gliophorus GENUS
-=======
+# Gliophorus GENUS
 
 #### Status
 ACCEPTED

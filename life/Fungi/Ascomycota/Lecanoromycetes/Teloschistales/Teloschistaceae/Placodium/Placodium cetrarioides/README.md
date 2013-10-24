@@ -1,5 +1,4 @@
-Placodium cetrarioides (A. Massal.) Müll. Arg. SPECIES
-=======
+# Placodium cetrarioides (A. Massal.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

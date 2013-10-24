@@ -1,5 +1,4 @@
-Lecidea uberiuscula Nyl. SPECIES
-=======
+# Lecidea uberiuscula Nyl. SPECIES
 
 #### Status
 ACCEPTED

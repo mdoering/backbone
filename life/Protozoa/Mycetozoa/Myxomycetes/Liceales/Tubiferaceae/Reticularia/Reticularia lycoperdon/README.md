@@ -1,17 +1,16 @@
-Enteridium lycoperdon var. americanum (Nann.-Bremek.) Nann.-Bremek. VARIETY
-=======
+# Reticularia lycoperdon Bull., 1790 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Guide to Temperate Myxomycetes (Bristol) 63 (1991)
+Hist. Champ. France (Paris) 1: 95 (1791)
 
 #### Original name
-Reticularia lycoperdon americana Nann.-Bremek., 1958
+Reticularia lycoperdon Bull., 1790
 
 ### Remarks
 null

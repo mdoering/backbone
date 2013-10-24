@@ -1,5 +1,4 @@
-Licea lilacina Nann.-Bremek., T.N. Lakh. & R.K. Chopra, 1990 SPECIES
-=======
+# Licea lilacina Nann.-Bremek., T.N. Lakh. & R.K. Chopra, 1990 SPECIES
 
 #### Status
 ACCEPTED

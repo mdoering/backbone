@@ -1,5 +1,4 @@
-Diplodina deutziae Hollós SPECIES
-=======
+# Diplodina deutziae Hollós SPECIES
 
 #### Status
 ACCEPTED

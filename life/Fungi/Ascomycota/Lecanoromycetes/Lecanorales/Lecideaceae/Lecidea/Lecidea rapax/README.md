@@ -1,5 +1,4 @@
-Lecidea rapax Hertel SPECIES
-=======
+# Lecidea rapax Hertel SPECIES
 
 #### Status
 ACCEPTED

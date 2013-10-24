@@ -1,5 +1,4 @@
-Sphaerulina ceanothi (Cooke & Harkn.) Berl. SPECIES
-=======
+# Sphaerulina ceanothi (Cooke & Harkn.) Berl. SPECIES
 
 #### Status
 ACCEPTED

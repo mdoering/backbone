@@ -1,17 +1,16 @@
-Aecidium epilobiatum SPECIES
-=======
+# Puccinia pulverulenta Grev., 1824 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Edin. 432 (1824)
 
 #### Original name
-null
+Puccinia pulverulenta Grev., 1824
 
 ### Remarks
 null

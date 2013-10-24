@@ -1,5 +1,4 @@
-Thalloloma deplanatum (Nyl.) Staiger SPECIES
-=======
+# Thalloloma deplanatum (Nyl.) Staiger SPECIES
 
 #### Status
 ACCEPTED

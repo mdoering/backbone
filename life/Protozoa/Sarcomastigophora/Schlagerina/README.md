@@ -1,5 +1,4 @@
-Schlagerina Fuchs, 1968 GENUS
-=======
+# Schlagerina Fuchs, 1968 GENUS
 
 #### Status
 ACCEPTED

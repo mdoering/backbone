@@ -1,5 +1,4 @@
-Helminthosporium caroliniense Berk. & Broome SPECIES
-=======
+# Helminthosporium caroliniense Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

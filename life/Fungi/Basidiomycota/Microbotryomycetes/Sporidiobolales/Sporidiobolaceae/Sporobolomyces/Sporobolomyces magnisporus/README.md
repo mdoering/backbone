@@ -1,5 +1,4 @@
-Sporobolomyces magnisporus Nakase, Tsuzuki, F.L. Lee, Sugita, Jindam. & M. Takash. SPECIES
-=======
+# Sporobolomyces magnisporus Nakase, Tsuzuki, F.L. Lee, Sugita, Jindam. & M. Takash. SPECIES
 
 #### Status
 ACCEPTED

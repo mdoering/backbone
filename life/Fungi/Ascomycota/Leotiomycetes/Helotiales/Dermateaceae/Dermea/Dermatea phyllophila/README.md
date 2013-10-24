@@ -1,5 +1,4 @@
-Dermatea phyllophila Peck SPECIES
-=======
+# Dermatea phyllophila Peck SPECIES
 
 #### Status
 ACCEPTED

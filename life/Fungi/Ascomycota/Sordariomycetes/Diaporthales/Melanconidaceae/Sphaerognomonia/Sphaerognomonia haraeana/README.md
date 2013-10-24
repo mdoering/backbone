@@ -1,5 +1,4 @@
-Sphaerognomonia haraeana Kobayasi SPECIES
-=======
+# Sphaerognomonia haraeana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta immersa Bubák SPECIES
-=======
+# Phyllosticta immersa Bubák SPECIES
 
 #### Status
 ACCEPTED

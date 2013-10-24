@@ -1,5 +1,4 @@
-Pseudocanalisporium circumfecundum R.F. Castañeda & W.B. Kendr., 1991 SPECIES
-=======
+# Pseudocanalisporium circumfecundum R.F. Castañeda & W.B. Kendr., 1991 SPECIES
 
 #### Status
 ACCEPTED

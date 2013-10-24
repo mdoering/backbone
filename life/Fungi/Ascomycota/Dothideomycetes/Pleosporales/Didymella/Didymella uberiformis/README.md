@@ -1,5 +1,4 @@
-Didymella uberiformis (Schwein.) Cooke SPECIES
-=======
+# Didymella uberiformis (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

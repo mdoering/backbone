@@ -1,5 +1,4 @@
-Corticium henningsii Herter SPECIES
-=======
+# Corticium henningsii Herter SPECIES
 
 #### Status
 ACCEPTED

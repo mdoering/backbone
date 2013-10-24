@@ -1,5 +1,4 @@
-Lactarius platicus Britzelm. SPECIES
-=======
+# Lactarius platicus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

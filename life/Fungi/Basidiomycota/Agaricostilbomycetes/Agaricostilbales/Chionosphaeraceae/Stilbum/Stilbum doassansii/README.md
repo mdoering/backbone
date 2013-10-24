@@ -1,5 +1,4 @@
-Stilbum doassansii Pat. SPECIES
-=======
+# Stilbum doassansii Pat. SPECIES
 
 #### Status
 ACCEPTED

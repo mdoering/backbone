@@ -1,5 +1,4 @@
-Schizontopeltis gaultheriae Bat. & H. Maia SPECIES
-=======
+# Schizontopeltis gaultheriae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

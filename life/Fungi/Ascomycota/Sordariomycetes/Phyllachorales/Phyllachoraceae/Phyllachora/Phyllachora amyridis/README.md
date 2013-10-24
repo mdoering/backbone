@@ -1,14 +1,13 @@
-Catacauma amyridis (Seaver) Chardón, 1932 SPECIES
-=======
+# Phyllachora amyridis Seaver, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Dept. Agric. Porto Rico 16: 170 (1932)
+Mycologia 20(4): 215 (1928)
 
 #### Original name
 Phyllachora amyridis Seaver, 1928

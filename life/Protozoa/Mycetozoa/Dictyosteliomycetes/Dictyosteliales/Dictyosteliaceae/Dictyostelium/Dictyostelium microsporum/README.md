@@ -1,5 +1,4 @@
-Dictyostelium microsporum H. Hagiw., 1978 SPECIES
-=======
+# Dictyostelium microsporum H. Hagiw., 1978 SPECIES
 
 #### Status
 ACCEPTED

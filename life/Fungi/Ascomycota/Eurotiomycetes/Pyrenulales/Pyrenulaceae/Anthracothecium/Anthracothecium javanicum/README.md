@@ -1,5 +1,4 @@
-Anthracothecium javanicum (Hepp) Zahlbr. SPECIES
-=======
+# Anthracothecium javanicum (Hepp) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

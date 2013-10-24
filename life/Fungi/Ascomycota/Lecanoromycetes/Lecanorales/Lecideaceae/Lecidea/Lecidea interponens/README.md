@@ -1,5 +1,4 @@
-Lecidea interponens Nyl. SPECIES
-=======
+# Lecidea interponens Nyl. SPECIES
 
 #### Status
 ACCEPTED

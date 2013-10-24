@@ -1,5 +1,4 @@
-Physcia mollescens SPECIES
-=======
+# Physcia mollescens SPECIES
 
 #### Status
 ACCEPTED

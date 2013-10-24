@@ -1,5 +1,4 @@
-Septonema minutum Berl. & Roum. SPECIES
-=======
+# Septonema minutum Berl. & Roum. SPECIES
 
 #### Status
 ACCEPTED

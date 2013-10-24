@@ -1,5 +1,4 @@
-Coremium bicolor Lilj. SPECIES
-=======
+# Coremium bicolor Lilj. SPECIES
 
 #### Status
 ACCEPTED

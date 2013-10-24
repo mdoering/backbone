@@ -1,5 +1,4 @@
-Bacidina neotropica Lücking SPECIES
-=======
+# Bacidina neotropica Lücking SPECIES
 
 #### Status
 ACCEPTED

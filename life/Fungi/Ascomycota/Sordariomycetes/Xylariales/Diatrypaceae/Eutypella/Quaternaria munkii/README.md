@@ -1,5 +1,4 @@
-Quaternaria munkii S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Quaternaria munkii S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
 ACCEPTED

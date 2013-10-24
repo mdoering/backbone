@@ -1,5 +1,4 @@
-Pulveroboletus aberrans Heinem. & Gooss.-Font. SPECIES
-=======
+# Pulveroboletus aberrans Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

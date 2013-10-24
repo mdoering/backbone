@@ -1,5 +1,4 @@
-Lecidea rugosa J. Lowe SPECIES
-=======
+# Lecidea rugosa J. Lowe SPECIES
 
 #### Status
 ACCEPTED

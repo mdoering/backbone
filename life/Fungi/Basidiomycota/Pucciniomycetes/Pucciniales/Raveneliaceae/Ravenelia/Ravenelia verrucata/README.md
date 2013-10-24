@@ -1,5 +1,4 @@
-Ravenelia verrucata var. verrucata VARIETY
-=======
+# Ravenelia verrucata Cummins & J.W. Baxter SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 2(1): 202 (1975)
 
 #### Original name
-Ravenelia verrucata var. verrucata
+Ravenelia verrucata Cummins & J.W. Baxter
 
 ### Remarks
 null

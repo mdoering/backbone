@@ -1,5 +1,4 @@
-Buellia augusta Vain. SPECIES
-=======
+# Buellia augusta Vain. SPECIES
 
 #### Status
 ACCEPTED

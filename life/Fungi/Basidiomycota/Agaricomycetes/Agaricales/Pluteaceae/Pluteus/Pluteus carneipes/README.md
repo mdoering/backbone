@@ -1,5 +1,4 @@
-Pluteus carneipes Kühner SPECIES
-=======
+# Pluteus carneipes Kühner SPECIES
 
 #### Status
 ACCEPTED

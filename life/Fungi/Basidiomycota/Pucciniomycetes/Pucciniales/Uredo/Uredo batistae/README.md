@@ -1,5 +1,4 @@
-Uredo batistae J.C. Lindq. SPECIES
-=======
+# Uredo batistae J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

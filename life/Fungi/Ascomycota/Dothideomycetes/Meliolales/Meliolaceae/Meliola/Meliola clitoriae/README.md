@@ -1,5 +1,4 @@
-Meliola clitoriae Hosag. & Goos SPECIES
-=======
+# Meliola clitoriae Hosag. & Goos SPECIES
 
 #### Status
 ACCEPTED

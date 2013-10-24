@@ -1,5 +1,4 @@
-Sporisorium chrysopogonis-fulvi (A.R. Patil, T.M. Patil & M.S. Patil) Vánky & A.R. Patil SPECIES
-=======
+# Sporisorium chrysopogonis-fulvi (A.R. Patil, T.M. Patil & M.S. Patil) Vánky & A.R. Patil SPECIES
 
 #### Status
 ACCEPTED

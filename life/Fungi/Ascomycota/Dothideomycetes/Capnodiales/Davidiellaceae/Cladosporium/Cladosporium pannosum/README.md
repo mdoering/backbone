@@ -1,5 +1,4 @@
-Cladosporium pannosum Cooke SPECIES
-=======
+# Cladosporium pannosum Cooke SPECIES
 
 #### Status
 ACCEPTED

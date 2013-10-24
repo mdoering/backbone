@@ -1,5 +1,4 @@
-Cercospora malvacearum Chidd., 1960 SPECIES
-=======
+# Cercospora malvacearum Chidd., 1960 SPECIES
 
 #### Status
 ACCEPTED

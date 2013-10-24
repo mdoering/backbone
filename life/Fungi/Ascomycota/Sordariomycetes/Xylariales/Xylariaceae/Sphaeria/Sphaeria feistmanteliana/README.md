@@ -1,5 +1,4 @@
-Sphaeria feistmanteliana Rabenh. SPECIES
-=======
+# Sphaeria feistmanteliana Rabenh. SPECIES
 
 #### Status
 ACCEPTED

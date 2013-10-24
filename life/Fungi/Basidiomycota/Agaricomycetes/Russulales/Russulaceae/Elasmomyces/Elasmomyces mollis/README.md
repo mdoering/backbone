@@ -1,5 +1,4 @@
-Elasmomyces mollis (Singer & A.H. Sm.) Pegler & T.W.K. Young SPECIES
-=======
+# Elasmomyces mollis (Singer & A.H. Sm.) Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

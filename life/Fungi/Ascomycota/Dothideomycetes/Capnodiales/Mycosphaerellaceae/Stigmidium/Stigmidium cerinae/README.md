@@ -1,5 +1,4 @@
-Stigmidium cerinae Cl. Roux & Triebel SPECIES
-=======
+# Stigmidium cerinae Cl. Roux & Triebel SPECIES
 
 #### Status
 ACCEPTED

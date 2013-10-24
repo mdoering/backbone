@@ -1,5 +1,4 @@
-Rhytisma maculosum Berk. & Broome SPECIES
-=======
+# Rhytisma maculosum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

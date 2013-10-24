@@ -1,5 +1,4 @@
-Appendiculella cornu-caprae (Henn.) Höhn. SPECIES
-=======
+# Appendiculella cornu-caprae (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

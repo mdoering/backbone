@@ -1,5 +1,4 @@
-Botryobasidium fodinarum (P.H.B. Talbot & V.C. Green) Boidin SPECIES
-=======
+# Botryobasidium fodinarum (P.H.B. Talbot & V.C. Green) Boidin SPECIES
 
 #### Status
 ACCEPTED

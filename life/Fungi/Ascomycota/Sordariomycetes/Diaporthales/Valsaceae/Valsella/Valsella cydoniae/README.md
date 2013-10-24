@@ -1,5 +1,4 @@
-Valsella cydoniae Rehm SPECIES
-=======
+# Valsella cydoniae Rehm SPECIES
 
 #### Status
 ACCEPTED

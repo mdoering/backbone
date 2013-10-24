@@ -1,5 +1,4 @@
-Macrophoma ulcinjensis Bubák SPECIES
-=======
+# Macrophoma ulcinjensis Bubák SPECIES
 
 #### Status
 ACCEPTED

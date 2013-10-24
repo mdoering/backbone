@@ -1,5 +1,4 @@
-Metarhizium cylindrosporum Q.T. Chen & H.L. Guo, 1986 SPECIES
-=======
+# Metarhizium cylindrosporum Q.T. Chen & H.L. Guo, 1986 SPECIES
 
 #### Status
 ACCEPTED

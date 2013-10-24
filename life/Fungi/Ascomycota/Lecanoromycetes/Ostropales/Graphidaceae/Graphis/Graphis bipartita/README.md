@@ -1,5 +1,4 @@
-Graphis bipartita (Müll. Arg.) Lücking SPECIES
-=======
+# Graphis bipartita (Müll. Arg.) Lücking SPECIES
 
 #### Status
 ACCEPTED

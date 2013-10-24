@@ -1,5 +1,4 @@
-Microspora dura Velen., 1934 SPECIES
-=======
+# Microspora dura Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

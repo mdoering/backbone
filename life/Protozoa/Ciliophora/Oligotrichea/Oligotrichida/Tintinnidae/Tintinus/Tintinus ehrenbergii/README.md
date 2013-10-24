@@ -1,5 +1,4 @@
-Tintinus ehrenbergii SPECIES
-=======
+# Tintinus ehrenbergii SPECIES
 
 #### Status
 ACCEPTED

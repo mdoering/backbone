@@ -1,5 +1,4 @@
-Gyroidinoides GENUS
-=======
+# Gyroidinoides GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptosporangium amethystogenes subsp. fukuiense Iinuma et al., 1996 SUBSPECIES
-=======
+# Streptosporangium amethystogenes Nonomura & Ohara, 1960 SPECIES
 
 #### Status
 ACCEPTED

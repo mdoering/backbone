@@ -1,5 +1,4 @@
-Lobaria dendrophora Zahlbr. SPECIES
-=======
+# Lobaria dendrophora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

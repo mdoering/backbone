@@ -1,5 +1,4 @@
-Coniothyrium gallicola Henn. SPECIES
-=======
+# Coniothyrium gallicola Henn. SPECIES
 
 #### Status
 ACCEPTED

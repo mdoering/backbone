@@ -1,5 +1,4 @@
-Navicella elegans Fabre SPECIES
-=======
+# Navicella elegans Fabre SPECIES
 
 #### Status
 ACCEPTED

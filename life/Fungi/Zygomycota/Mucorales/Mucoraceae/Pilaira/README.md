@@ -1,5 +1,4 @@
-Pilaira Van Tieghem, 1875 GENUS
-=======
+# Pilaira Van Tieghem, 1875 GENUS
 
 #### Status
 ACCEPTED

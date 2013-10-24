@@ -1,5 +1,4 @@
-Acanthoica aculeata Kamptner SPECIES
-=======
+# Acanthoica aculeata Kamptner SPECIES
 
 #### Status
 ACCEPTED

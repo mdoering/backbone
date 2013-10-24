@@ -1,5 +1,4 @@
-Ramularia eryngii Jacz. SPECIES
-=======
+# Ramularia eryngii Jacz. SPECIES
 
 #### Status
 ACCEPTED

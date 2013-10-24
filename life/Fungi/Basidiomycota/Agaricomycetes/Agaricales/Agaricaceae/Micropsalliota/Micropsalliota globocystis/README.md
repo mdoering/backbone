@@ -1,5 +1,4 @@
-Micropsalliota globocystis Heinem. SPECIES
-=======
+# Micropsalliota globocystis Heinem. SPECIES
 
 #### Status
 ACCEPTED

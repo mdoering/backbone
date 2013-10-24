@@ -1,5 +1,4 @@
-Helicomyxa R. Kirschner & Chee J. Chen GENUS
-=======
+# Helicomyxa R. Kirschner & Chee J. Chen GENUS
 
 #### Status
 ACCEPTED

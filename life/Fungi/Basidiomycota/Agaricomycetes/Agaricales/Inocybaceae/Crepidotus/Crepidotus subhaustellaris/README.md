@@ -1,5 +1,4 @@
-Crepidotus subhaustellaris Cleland SPECIES
-=======
+# Crepidotus subhaustellaris Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polyporus betulinus (Bull.) Fr., 1821 SPECIES
-=======
+# Piptoporus betulinus (Bull.) P. Karst., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue mycol. , Toulouse 3: 9 (1881)
 
 #### Original name
-null
+Boletus betulinus Bull., 1788
 
 ### Remarks
 null

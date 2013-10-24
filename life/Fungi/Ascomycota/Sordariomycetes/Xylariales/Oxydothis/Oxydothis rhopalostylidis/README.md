@@ -1,5 +1,4 @@
-Oxydothis rhopalostylidis Samuels & Rossman SPECIES
-=======
+# Oxydothis rhopalostylidis Samuels & Rossman SPECIES
 
 #### Status
 ACCEPTED

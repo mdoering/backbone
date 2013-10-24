@@ -1,5 +1,4 @@
-Illosporium coccineum Fr., 1829 SPECIES
-=======
+# Illosporium coccineum Fr., 1829 SPECIES
 
 #### Status
 ACCEPTED

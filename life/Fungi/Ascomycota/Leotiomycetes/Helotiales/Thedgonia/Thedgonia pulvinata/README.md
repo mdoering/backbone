@@ -1,5 +1,4 @@
-Thedgonia pulvinata R.F. Castañeda SPECIES
-=======
+# Thedgonia pulvinata R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

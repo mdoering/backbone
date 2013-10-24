@@ -1,5 +1,4 @@
-Buellia hypoleucella (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia hypoleucella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

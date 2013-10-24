@@ -1,5 +1,4 @@
-Squamaria lagascae (Ach.) Blbis SPECIES
-=======
+# Squamaria lagascae (Ach.) Blbis SPECIES
 
 #### Status
 ACCEPTED

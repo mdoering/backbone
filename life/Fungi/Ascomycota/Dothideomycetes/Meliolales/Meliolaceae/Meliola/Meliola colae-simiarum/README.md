@@ -1,5 +1,4 @@
-Meliola colae-simiarum Deighton SPECIES
-=======
+# Meliola colae-simiarum Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbum elasticae (Koord.) Sacc. & Traverso SPECIES
-=======
+# Stilbum elasticae (Koord.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

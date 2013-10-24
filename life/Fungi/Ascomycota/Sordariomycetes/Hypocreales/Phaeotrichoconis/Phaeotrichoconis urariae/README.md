@@ -1,5 +1,4 @@
-Phaeotrichoconis urariae Bharadwaj SPECIES
-=======
+# Phaeotrichoconis urariae Bharadwaj SPECIES
 
 #### Status
 ACCEPTED

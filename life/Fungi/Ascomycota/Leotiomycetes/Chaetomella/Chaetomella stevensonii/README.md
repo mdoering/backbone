@@ -1,5 +1,4 @@
-Chaetomella stevensonii Ellis SPECIES
-=======
+# Chaetomella stevensonii Ellis SPECIES
 
 #### Status
 ACCEPTED

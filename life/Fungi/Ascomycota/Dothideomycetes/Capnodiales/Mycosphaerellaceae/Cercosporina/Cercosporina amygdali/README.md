@@ -1,5 +1,4 @@
-Cercosporina amygdali (Riza) Sacc. SPECIES
-=======
+# Cercosporina amygdali (Riza) Sacc. SPECIES
 
 #### Status
 ACCEPTED

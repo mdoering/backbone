@@ -1,5 +1,4 @@
-Euglena obtusa Schmitz SPECIES
-=======
+# Euglena obtusa Schmitz SPECIES
 
 #### Status
 ACCEPTED

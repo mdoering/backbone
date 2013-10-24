@@ -1,5 +1,4 @@
-Lecanora brunnthaleri J. Steiner SPECIES
-=======
+# Lecanora brunnthaleri J. Steiner SPECIES
 
 #### Status
 ACCEPTED

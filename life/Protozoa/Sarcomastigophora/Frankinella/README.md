@@ -1,5 +1,4 @@
-Frankinella McCulloch, 1981 GENUS
-=======
+# Frankinella McCulloch, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diorygma confluens (Fée) Kalb, Staiger & Elix SPECIES
-=======
+# Diorygma confluens (Fée) Kalb, Staiger & Elix SPECIES
 
 #### Status
 ACCEPTED

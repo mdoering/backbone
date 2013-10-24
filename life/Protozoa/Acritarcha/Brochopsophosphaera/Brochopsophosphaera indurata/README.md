@@ -1,5 +1,4 @@
-Brochopsophosphaera indurata Pykhova, 1969 SPECIES
-=======
+# Brochopsophosphaera indurata Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza secalis (Lib.) Sacc. SPECIES
-=======
+# Trichopeziza secalis (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

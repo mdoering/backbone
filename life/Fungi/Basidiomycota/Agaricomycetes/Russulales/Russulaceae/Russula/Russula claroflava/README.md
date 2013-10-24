@@ -1,17 +1,16 @@
-Russula claroflava var. viridis Knudsen & T. Borgen VARIETY
-=======
+# Russula claroflava Grove, 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 14(4): 514 (1992)
+Midland Naturalist 265 (1888)
 
 #### Original name
-Russula claroflava var. viridis Knudsen & T. Borgen
+Russula claroflava Grove, 1888
 
 ### Remarks
 null

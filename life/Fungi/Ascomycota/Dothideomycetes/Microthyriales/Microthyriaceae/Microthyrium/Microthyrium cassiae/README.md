@@ -1,5 +1,4 @@
-Microthyrium cassiae Bat. SPECIES
-=======
+# Microthyrium cassiae Bat. SPECIES
 
 #### Status
 ACCEPTED

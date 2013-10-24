@@ -1,17 +1,16 @@
-Peronospora trifoliorum f. sp FORM
-=======
+# Peronospora trifoliorum de Bary, 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neth. Jl Pl. Path. 85(4): 165 (1979)
+Annls Sci. Nat. , Bot. , sér. 4 20: 117 (1863)
 
 #### Original name
-Peronospora trifoliorum f. sp
+Peronospora trifoliorum de Bary, 1863
 
 ### Remarks
 null

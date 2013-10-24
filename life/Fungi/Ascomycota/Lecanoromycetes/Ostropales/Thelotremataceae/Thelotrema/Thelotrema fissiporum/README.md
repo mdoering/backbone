@@ -1,5 +1,4 @@
-Thelotrema fissiporum Hale SPECIES
-=======
+# Thelotrema fissiporum Hale SPECIES
 
 #### Status
 ACCEPTED

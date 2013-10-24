@@ -1,5 +1,4 @@
-Tylopilus atratus Both SPECIES
-=======
+# Tylopilus atratus Both SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catocarpus seductus (Nyl.) Eitner SPECIES
-=======
+# Catocarpus seductus (Nyl.) Eitner SPECIES
 
 #### Status
 ACCEPTED

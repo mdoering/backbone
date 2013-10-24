@@ -1,5 +1,4 @@
-Telospora hyalina (Peck) Arthur SPECIES
-=======
+# Telospora hyalina (Peck) Arthur SPECIES
 
 #### Status
 ACCEPTED

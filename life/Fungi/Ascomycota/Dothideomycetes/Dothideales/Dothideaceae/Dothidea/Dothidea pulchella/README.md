@@ -1,5 +1,4 @@
-Dothidea pulchella (Speg.) Speg. SPECIES
-=======
+# Dothidea pulchella (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

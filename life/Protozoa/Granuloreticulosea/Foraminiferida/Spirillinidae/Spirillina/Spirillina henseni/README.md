@@ -1,5 +1,4 @@
-Spirillina henseni Rhumbler, 1911 SPECIES
-=======
+# Spirillina henseni Rhumbler, 1911 SPECIES
 
 #### Status
 ACCEPTED

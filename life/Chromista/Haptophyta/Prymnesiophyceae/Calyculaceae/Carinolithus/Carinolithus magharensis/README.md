@@ -1,5 +1,4 @@
-Carinolithus magharensis SPECIES
-=======
+# Carinolithus magharensis SPECIES
 
 #### Status
 ACCEPTED

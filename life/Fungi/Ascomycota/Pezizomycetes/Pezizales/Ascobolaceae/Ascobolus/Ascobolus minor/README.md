@@ -1,5 +1,4 @@
-Ascobolus minor Velen. SPECIES
-=======
+# Ascobolus minor Velen. SPECIES
 
 #### Status
 ACCEPTED

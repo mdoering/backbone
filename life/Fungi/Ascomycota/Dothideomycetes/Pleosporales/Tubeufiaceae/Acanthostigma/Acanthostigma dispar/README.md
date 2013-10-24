@@ -1,5 +1,4 @@
-Acanthostigma dispar Morgan SPECIES
-=======
+# Acanthostigma dispar Morgan SPECIES
 
 #### Status
 ACCEPTED

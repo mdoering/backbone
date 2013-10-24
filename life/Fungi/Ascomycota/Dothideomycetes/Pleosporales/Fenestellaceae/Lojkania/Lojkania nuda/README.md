@@ -1,5 +1,4 @@
-Lojkania nuda (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Lojkania nuda (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

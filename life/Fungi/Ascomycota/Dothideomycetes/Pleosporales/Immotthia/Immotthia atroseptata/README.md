@@ -1,5 +1,4 @@
-Immotthia atroseptata (Piroz.) M.E. Barr SPECIES
-=======
+# Immotthia atroseptata (Piroz.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

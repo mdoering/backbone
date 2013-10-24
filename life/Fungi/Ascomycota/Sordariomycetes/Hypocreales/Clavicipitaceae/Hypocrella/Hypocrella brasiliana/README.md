@@ -1,5 +1,4 @@
-Hypocrella brasiliana (Henn.) Mains SPECIES
-=======
+# Hypocrella brasiliana (Henn.) Mains SPECIES
 
 #### Status
 ACCEPTED

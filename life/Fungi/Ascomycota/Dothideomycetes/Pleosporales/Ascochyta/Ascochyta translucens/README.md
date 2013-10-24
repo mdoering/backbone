@@ -1,5 +1,4 @@
-Ascochyta translucens Kabát & Bubák SPECIES
-=======
+# Ascochyta translucens Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

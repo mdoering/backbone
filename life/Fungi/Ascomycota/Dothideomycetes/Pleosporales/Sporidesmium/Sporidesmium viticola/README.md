@@ -1,5 +1,4 @@
-Sporidesmium viticola Sacc. SPECIES
-=======
+# Sporidesmium viticola Sacc. SPECIES
 
 #### Status
 ACCEPTED

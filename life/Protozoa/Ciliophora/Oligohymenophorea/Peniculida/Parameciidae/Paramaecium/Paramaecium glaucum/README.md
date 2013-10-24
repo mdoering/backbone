@@ -1,8 +1,7 @@
-Paramaecidium glaucum (Claparède & Lachmann, 1859) Savi, 1915 SPECIES
-=======
+# Paramaecium glaucum Claparède & Lachmann, 1859 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

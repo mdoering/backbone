@@ -1,5 +1,4 @@
-Melanoleuca subfulvidisca Murrill SPECIES
-=======
+# Melanoleuca subfulvidisca Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entodesmium mayorii (E. Müll.) L. Holm SPECIES
-=======
+# Entodesmium mayorii (E. Müll.) L. Holm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea dilabens Th. Fr. SPECIES
-=======
+# Lecidea dilabens Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uroleptopsis ovata (Horvath, 1933) ? SPECIES
-=======
+# Uroleptopsis ovata (Horvath, 1933) ? SPECIES
 
 #### Status
 ACCEPTED

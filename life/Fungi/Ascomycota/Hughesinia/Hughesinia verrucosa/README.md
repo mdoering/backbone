@@ -1,5 +1,4 @@
-Hughesinia verrucosa G. Delgado, J. Mena & Gené SPECIES
-=======
+# Hughesinia verrucosa G. Delgado, J. Mena & Gené SPECIES
 
 #### Status
 ACCEPTED

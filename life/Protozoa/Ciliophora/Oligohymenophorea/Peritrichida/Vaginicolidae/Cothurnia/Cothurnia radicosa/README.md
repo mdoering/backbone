@@ -1,5 +1,4 @@
-Cothurnia radicosa Dumas, 1929 SPECIES
-=======
+# Cothurnia radicosa Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

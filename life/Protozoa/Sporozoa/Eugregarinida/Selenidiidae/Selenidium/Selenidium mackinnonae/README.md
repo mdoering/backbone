@@ -1,5 +1,4 @@
-Selenidium mackinnonae Levine, 1971 SPECIES
-=======
+# Selenidium mackinnonae Levine, 1971 SPECIES
 
 #### Status
 ACCEPTED

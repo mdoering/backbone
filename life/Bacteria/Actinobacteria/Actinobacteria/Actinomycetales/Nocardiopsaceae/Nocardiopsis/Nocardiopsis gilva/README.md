@@ -1,5 +1,4 @@
-Nocardiopsis gilva Li et al., 2006 SPECIES
-=======
+# Nocardiopsis gilva Li et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

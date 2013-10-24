@@ -1,5 +1,4 @@
-Dicellaesporites foratus Zhong Y. Zhang SPECIES
-=======
+# Dicellaesporites foratus Zhong Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

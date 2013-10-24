@@ -1,5 +1,4 @@
-Rhabdospora polonica (Petr.) Zerov SPECIES
-=======
+# Rhabdospora polonica (Petr.) Zerov SPECIES
 
 #### Status
 ACCEPTED

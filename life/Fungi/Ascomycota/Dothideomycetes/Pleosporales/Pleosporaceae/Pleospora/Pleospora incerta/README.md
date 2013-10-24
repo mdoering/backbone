@@ -1,5 +1,4 @@
-Pleospora incerta Crivelli, 1983 SPECIES
-=======
+# Pleospora incerta Crivelli, 1983 SPECIES
 
 #### Status
 ACCEPTED

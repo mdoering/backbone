@@ -1,5 +1,4 @@
-Lycogalopsis hypoxilinoides Rick SPECIES
-=======
+# Lycogalopsis hypoxilinoides Rick SPECIES
 
 #### Status
 ACCEPTED

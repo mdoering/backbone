@@ -1,5 +1,4 @@
-Vermicularia sanguinea Ellis & Halst. SPECIES
-=======
+# Vermicularia sanguinea Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

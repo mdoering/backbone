@@ -1,5 +1,4 @@
-Humicola nigresceus Qmvik SPECIES
-=======
+# Humicola nigresceus Qmvik SPECIES
 
 #### Status
 ACCEPTED

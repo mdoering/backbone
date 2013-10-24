@@ -1,5 +1,4 @@
-Macrolepiota stercoraria (Rick) Raithelh. SPECIES
-=======
+# Macrolepiota stercoraria (Rick) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

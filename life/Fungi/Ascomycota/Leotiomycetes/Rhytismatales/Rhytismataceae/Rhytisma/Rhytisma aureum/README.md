@@ -1,5 +1,4 @@
-Rhytisma aureum Massee SPECIES
-=======
+# Rhytisma aureum Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strickeria patellarioides (Sacc.) P. Larsen SPECIES
-=======
+# Strickeria patellarioides (Sacc.) P. Larsen SPECIES
 
 #### Status
 ACCEPTED

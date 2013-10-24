@@ -1,8 +1,7 @@
-Phialonema cyclostomum Stein SPECIES
-=======
+# Urceolus cyclostomus (Stein) Mereszkowski SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

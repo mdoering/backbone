@@ -1,5 +1,4 @@
-Sistotrema notarisii N. Terracc. SPECIES
-=======
+# Sistotrema notarisii N. Terracc. SPECIES
 
 #### Status
 ACCEPTED

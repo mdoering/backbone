@@ -1,5 +1,4 @@
-Macrophoma grossetexta Bubák SPECIES
-=======
+# Macrophoma grossetexta Bubák SPECIES
 
 #### Status
 ACCEPTED

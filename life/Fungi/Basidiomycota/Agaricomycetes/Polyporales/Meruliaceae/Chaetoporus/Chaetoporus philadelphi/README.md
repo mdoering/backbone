@@ -1,5 +1,4 @@
-Chaetoporus philadelphi Parmasto SPECIES
-=======
+# Chaetoporus philadelphi Parmasto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllopyrenia macquariensis C.W. Dodge SPECIES
-=======
+# Phyllopyrenia macquariensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

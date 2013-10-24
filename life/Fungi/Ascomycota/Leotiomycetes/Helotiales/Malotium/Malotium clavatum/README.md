@@ -1,5 +1,4 @@
-Malotium clavatum Velen. SPECIES
-=======
+# Malotium clavatum Velen. SPECIES
 
 #### Status
 ACCEPTED

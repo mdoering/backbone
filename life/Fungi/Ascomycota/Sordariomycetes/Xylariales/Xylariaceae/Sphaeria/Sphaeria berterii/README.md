@@ -1,5 +1,4 @@
-Sphaeria berterii Mont. SPECIES
-=======
+# Sphaeria berterii Mont. SPECIES
 
 #### Status
 ACCEPTED

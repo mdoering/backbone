@@ -1,5 +1,4 @@
-Meliola rubicola Henn. SPECIES
-=======
+# Meliola rubicola Henn. SPECIES
 
 #### Status
 ACCEPTED

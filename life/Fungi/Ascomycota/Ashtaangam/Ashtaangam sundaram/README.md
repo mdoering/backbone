@@ -1,5 +1,4 @@
-Ashtaangam sundaram Subram., 1995 SPECIES
-=======
+# Ashtaangam sundaram Subram., 1995 SPECIES
 
 #### Status
 ACCEPTED

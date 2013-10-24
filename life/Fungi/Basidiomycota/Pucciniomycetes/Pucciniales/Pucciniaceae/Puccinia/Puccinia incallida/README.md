@@ -1,5 +1,4 @@
-Puccinia incallida Cummins SPECIES
-=======
+# Puccinia incallida Cummins SPECIES
 
 #### Status
 ACCEPTED

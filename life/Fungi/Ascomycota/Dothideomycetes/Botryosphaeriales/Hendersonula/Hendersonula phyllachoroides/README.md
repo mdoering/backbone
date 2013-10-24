@@ -1,5 +1,4 @@
-Hendersonula phyllachoroides Sacc. SPECIES
-=======
+# Hendersonula phyllachoroides Sacc. SPECIES
 
 #### Status
 ACCEPTED

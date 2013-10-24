@@ -1,5 +1,4 @@
-Anthracoidea filifoliae L. Guo SPECIES
-=======
+# Anthracoidea filifoliae L. Guo SPECIES
 
 #### Status
 ACCEPTED

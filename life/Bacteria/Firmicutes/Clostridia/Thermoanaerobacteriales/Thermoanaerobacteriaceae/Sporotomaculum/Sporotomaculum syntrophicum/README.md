@@ -1,5 +1,4 @@
-Sporotomaculum syntrophicum Qiu et al., 2003 SPECIES
-=======
+# Sporotomaculum syntrophicum Qiu et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

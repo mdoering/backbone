@@ -1,5 +1,4 @@
-Mycena lasiopus Maas Geest. & de Meijer SPECIES
-=======
+# Mycena lasiopus Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon frostii Peck SPECIES
-=======
+# Lycoperdon frostii Peck SPECIES
 
 #### Status
 ACCEPTED

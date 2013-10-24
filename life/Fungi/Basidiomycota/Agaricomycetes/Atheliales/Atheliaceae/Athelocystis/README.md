@@ -1,5 +1,4 @@
-Athelocystis GENUS
-=======
+# Athelocystis GENUS
 
 #### Status
 ACCEPTED

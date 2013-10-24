@@ -1,5 +1,4 @@
-Tricharia farinosa R. Sant. SPECIES
-=======
+# Tricharia farinosa R. Sant. SPECIES
 
 #### Status
 ACCEPTED

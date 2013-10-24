@@ -1,5 +1,4 @@
-Conolagena polystroterina Loeblich & Tappan, 1994 SPECIES
-=======
+# Conolagena polystroterina Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

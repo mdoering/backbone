@@ -1,5 +1,4 @@
-Cytospora daturae Kurbans. SPECIES
-=======
+# Cytospora daturae Kurbans. SPECIES
 
 #### Status
 ACCEPTED

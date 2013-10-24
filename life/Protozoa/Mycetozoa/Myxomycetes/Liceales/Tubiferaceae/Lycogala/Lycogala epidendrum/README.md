@@ -1,17 +1,16 @@
-Lycogala miniatum var. tessellatum Lister VARIETY
-=======
+# Lycogala epidendrum (L.) Fr., 1829 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Myxomyc. Fl. Buitenzorg 77 (1898)
+Syst. mycol. (Lundae) 3(1): 80 (1829)
 
 #### Original name
-Lycogala miniatum var. tessellatum Lister
+Lycoperdon epidendrum L., 1753
 
 ### Remarks
 null

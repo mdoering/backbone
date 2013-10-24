@@ -1,5 +1,4 @@
-Cercospora stylismae Tracy & Earle SPECIES
-=======
+# Cercospora stylismae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

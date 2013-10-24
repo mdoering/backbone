@@ -1,5 +1,4 @@
-Lecidea schizophylloides Malme SPECIES
-=======
+# Lecidea schizophylloides Malme SPECIES
 
 #### Status
 ACCEPTED

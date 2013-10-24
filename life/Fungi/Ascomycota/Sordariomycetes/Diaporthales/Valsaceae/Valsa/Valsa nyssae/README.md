@@ -1,5 +1,4 @@
-Valsa nyssae Cooke SPECIES
-=======
+# Valsa nyssae Cooke SPECIES
 
 #### Status
 ACCEPTED

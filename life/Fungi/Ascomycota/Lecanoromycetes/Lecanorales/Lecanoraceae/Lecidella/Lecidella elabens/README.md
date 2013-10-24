@@ -1,5 +1,4 @@
-Lecidella elabens (Th. Fr.) Körb. SPECIES
-=======
+# Lecidella elabens (Th. Fr.) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeoporthe andropogonis (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Clypeoporthe andropogonis (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia agrophila Syd., 1937 SPECIES
-=======
+# Puccinia agrophila Syd., 1937 SPECIES
 
 #### Status
 ACCEPTED

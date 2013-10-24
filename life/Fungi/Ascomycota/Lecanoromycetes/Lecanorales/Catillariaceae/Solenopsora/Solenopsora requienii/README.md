@@ -1,14 +1,13 @@
-Massalongia requienii (A. Massal.) SPECIES
-=======
+# Solenopsora requienii A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Framm. Lichenogr. 20 (1855)
 
 #### Original name
 Solenopsora requienii A. Massal.

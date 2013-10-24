@@ -1,14 +1,13 @@
-Angiotheca scabra Syd., 1939 SPECIES
-=======
+# Dictyonella scabra (Syd.) Arx, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 37(3): 214 (1939)
+Persoonia 2(4): 461 (1963)
 
 #### Original name
 Angiotheca scabra Syd., 1939

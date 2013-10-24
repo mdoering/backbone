@@ -1,5 +1,4 @@
-Endocarpomyces miniati E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Endocarpomyces miniati E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

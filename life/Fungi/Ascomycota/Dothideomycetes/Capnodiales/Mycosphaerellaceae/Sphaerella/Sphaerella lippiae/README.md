@@ -1,5 +1,4 @@
-Sphaerella lippiae Cif. & Gonz. Frag. SPECIES
-=======
+# Sphaerella lippiae Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

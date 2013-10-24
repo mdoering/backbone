@@ -1,5 +1,4 @@
-Endoraecium acaciae Hodges & D.E. Gardner, 1984 SPECIES
-=======
+# Endoraecium acaciae Hodges & D.E. Gardner, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa eucalypti Cooke & Harkn. SPECIES
-=======
+# Valsa eucalypti Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa papyriferae Cooke SPECIES
-=======
+# Valsa papyriferae Cooke SPECIES
 
 #### Status
 ACCEPTED

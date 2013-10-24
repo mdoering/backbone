@@ -1,5 +1,4 @@
-Macrolepiota prominens (Fr.) M.M. Moser SPECIES
-=======
+# Macrolepiota prominens (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

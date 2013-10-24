@@ -1,5 +1,4 @@
-Lobaria incurva (Pers.) Ach. SPECIES
-=======
+# Lobaria incurva (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED

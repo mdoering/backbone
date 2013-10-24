@@ -1,5 +1,4 @@
-Clitocybe tyrianthina Fr. SPECIES
-=======
+# Clitocybe tyrianthina Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria werneri Prône SPECIES
-=======
+# Pertusaria werneri Prône SPECIES
 
 #### Status
 ACCEPTED

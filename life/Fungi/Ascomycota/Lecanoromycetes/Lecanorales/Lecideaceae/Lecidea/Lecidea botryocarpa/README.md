@@ -1,5 +1,4 @@
-Lecidea botryocarpa Nyl. SPECIES
-=======
+# Lecidea botryocarpa Nyl. SPECIES
 
 #### Status
 ACCEPTED

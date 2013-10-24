@@ -1,5 +1,4 @@
-Inauris GENUS
-=======
+# Inauris GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanops rubiae Urries SPECIES
-=======
+# Melanops rubiae Urries SPECIES
 
 #### Status
 ACCEPTED

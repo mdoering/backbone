@@ -1,5 +1,4 @@
-Septoria centrophylli Bubák & Ranoj. SPECIES
-=======
+# Septoria centrophylli Bubák & Ranoj. SPECIES
 
 #### Status
 ACCEPTED

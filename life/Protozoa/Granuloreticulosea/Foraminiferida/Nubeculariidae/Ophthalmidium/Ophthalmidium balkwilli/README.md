@@ -1,5 +1,4 @@
-Ophthalmidium balkwilli Macfadyen SPECIES
-=======
+# Ophthalmidium balkwilli Macfadyen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo rutideae (Cummins) Cummins SPECIES
-=======
+# Uredo rutideae (Cummins) Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocapsa gelatinosa (Meneghini) Kützing SPECIES
-=======
+# Gloeocapsa gelatinosa (Meneghini) Kützing SPECIES
 
 #### Status
 ACCEPTED

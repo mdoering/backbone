@@ -1,5 +1,4 @@
-Agaricus maximus Gaertn. & G. Mey. SPECIES
-=======
+# Agaricus maximus Gaertn. & G. Mey. SPECIES
 
 #### Status
 ACCEPTED

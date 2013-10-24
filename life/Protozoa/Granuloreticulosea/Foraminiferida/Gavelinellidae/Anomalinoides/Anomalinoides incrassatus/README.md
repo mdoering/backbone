@@ -1,8 +1,7 @@
-Nautilus incrassatus Fichtel & Moll, 1798 SPECIES
-=======
+# Anomalinoides incrassatus (Fichtel & Moll, 1798) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

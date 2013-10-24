@@ -1,5 +1,4 @@
-Clavariadelphus xanthocephalus Rahm & Schild, 1977 SPECIES
-=======
+# Clavariadelphus xanthocephalus Rahm & Schild, 1977 SPECIES
 
 #### Status
 ACCEPTED

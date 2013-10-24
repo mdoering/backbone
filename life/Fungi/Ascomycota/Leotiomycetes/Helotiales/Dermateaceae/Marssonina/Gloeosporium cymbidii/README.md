@@ -1,5 +1,4 @@
-Gloeosporium cymbidii Verpl. SPECIES
-=======
+# Gloeosporium cymbidii Verpl. SPECIES
 
 #### Status
 ACCEPTED

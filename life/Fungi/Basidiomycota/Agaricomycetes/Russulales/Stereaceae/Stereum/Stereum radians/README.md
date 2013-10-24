@@ -1,5 +1,4 @@
-Stereum radians Fr. SPECIES
-=======
+# Stereum radians Fr. SPECIES
 
 #### Status
 ACCEPTED

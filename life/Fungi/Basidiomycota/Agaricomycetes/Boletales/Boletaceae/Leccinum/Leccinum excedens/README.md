@@ -1,5 +1,4 @@
-Leccinum excedens (Heinem. & Gooss.-Font.) Heinem. SPECIES
-=======
+# Leccinum excedens (Heinem. & Gooss.-Font.) Heinem. SPECIES
 
 #### Status
 ACCEPTED

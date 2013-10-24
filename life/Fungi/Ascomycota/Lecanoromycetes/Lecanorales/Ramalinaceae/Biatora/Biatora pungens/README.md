@@ -1,5 +1,4 @@
-Biatora pungens Körb. SPECIES
-=======
+# Biatora pungens Körb. SPECIES
 
 #### Status
 ACCEPTED

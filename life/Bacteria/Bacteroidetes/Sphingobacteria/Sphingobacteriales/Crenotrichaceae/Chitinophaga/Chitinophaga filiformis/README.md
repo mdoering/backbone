@@ -1,11 +1,10 @@
-Myxococcus filiformis Solntseva, 1940 SPECIES
-=======
+# Chitinophaga filiformis (Reichenbach, 1989) Kämpfer et al., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

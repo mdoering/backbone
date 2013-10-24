@@ -1,5 +1,4 @@
-Guignardia festiva (Syd.) Sacc. SPECIES
-=======
+# Guignardia festiva (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

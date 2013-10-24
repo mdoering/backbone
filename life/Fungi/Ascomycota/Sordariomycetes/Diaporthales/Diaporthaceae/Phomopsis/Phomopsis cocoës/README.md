@@ -1,17 +1,16 @@
-Phoma cocoina Cooke, 1877 SPECIES
-=======
+# Phomopsis cocoës Petch, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 5(no. 35): 101 (1877)
+Ann. R. bot. Gdns Peradeniya 7: 311 (1922)
 
 #### Original name
-Phoma cocoina Cooke, 1877
+Phomopsis cocoës Petch, 1922
 
 ### Remarks
 null

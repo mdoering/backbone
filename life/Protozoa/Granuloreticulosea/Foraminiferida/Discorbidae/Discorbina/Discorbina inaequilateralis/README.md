@@ -1,5 +1,4 @@
-Discorbina inaequilateralis Heron-Allen & Earland, 1911 SPECIES
-=======
+# Discorbina inaequilateralis Heron-Allen & Earland, 1911 SPECIES
 
 #### Status
 ACCEPTED

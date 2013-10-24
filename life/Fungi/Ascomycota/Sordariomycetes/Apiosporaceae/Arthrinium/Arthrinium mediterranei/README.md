@@ -1,5 +1,4 @@
-Arthrinium mediterranei Larrondo & Calvo, 1992 SPECIES
-=======
+# Arthrinium mediterranei Larrondo & Calvo, 1992 SPECIES
 
 #### Status
 ACCEPTED

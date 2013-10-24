@@ -1,5 +1,4 @@
-Stictosphaeridium sinapticuliferum Timofeev, 1966 SPECIES
-=======
+# Stictosphaeridium sinapticuliferum Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

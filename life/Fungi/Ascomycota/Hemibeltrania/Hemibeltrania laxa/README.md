@@ -1,5 +1,4 @@
-Hemibeltrania laxa G.R.W. Arnold & R.F. Castañeda SPECIES
-=======
+# Hemibeltrania laxa G.R.W. Arnold & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

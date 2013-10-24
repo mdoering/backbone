@@ -1,17 +1,16 @@
-Xylosorium Zundel GENUS
-=======
+# Pericladium Passerini, 1875 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 31: 576 (1939)
+Nuovo Giorn. Bot. Ital. 7: 185 (1875)
 
 #### Original name
-Xylosorium Zundel
+Pericladium Passerini, 1875
 
 ### Remarks
 null

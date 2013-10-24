@@ -1,5 +1,4 @@
-Pestalotiopsis pampeana (Speg.) A.R. Liu, T. Xu & L.D. Guo SPECIES
-=======
+# Pestalotiopsis pampeana (Speg.) A.R. Liu, T. Xu & L.D. Guo SPECIES
 
 #### Status
 ACCEPTED

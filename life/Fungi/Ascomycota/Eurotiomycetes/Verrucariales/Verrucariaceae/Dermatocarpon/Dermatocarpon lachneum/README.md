@@ -1,5 +1,4 @@
-Dermatocarpon lachneum SPECIES
-=======
+# Dermatocarpon lachneum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo pachystegia Dietel SPECIES
-=======
+# Uredo pachystegia Dietel SPECIES
 
 #### Status
 ACCEPTED

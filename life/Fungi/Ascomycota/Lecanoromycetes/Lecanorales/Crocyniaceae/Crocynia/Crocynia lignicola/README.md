@@ -1,5 +1,4 @@
-Crocynia lignicola B. de Lesd. SPECIES
-=======
+# Crocynia lignicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

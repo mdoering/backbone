@@ -1,5 +1,4 @@
-Mycena dumontii Singer SPECIES
-=======
+# Mycena dumontii Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula quercilicis Sarnari SPECIES
-=======
+# Russula quercilicis Sarnari SPECIES
 
 #### Status
 ACCEPTED

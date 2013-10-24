@@ -1,5 +1,4 @@
-Hystrichosphaeridium aquitanicum Deunff, 1961 SPECIES
-=======
+# Hystrichosphaeridium aquitanicum Deunff, 1961 SPECIES
 
 #### Status
 ACCEPTED

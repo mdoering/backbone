@@ -1,5 +1,4 @@
-Collybia sinuata (Murrill) Murrill SPECIES
-=======
+# Collybia sinuata (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

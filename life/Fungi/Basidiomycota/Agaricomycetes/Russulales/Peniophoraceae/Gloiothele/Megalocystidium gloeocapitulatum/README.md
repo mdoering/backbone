@@ -1,5 +1,4 @@
-Megalocystidium gloeocapitulatum Boidin & Gilles SPECIES
-=======
+# Megalocystidium gloeocapitulatum Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

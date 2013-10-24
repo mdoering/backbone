@@ -1,5 +1,4 @@
-Pseudocyphellaria piloselloides (Räsänen) H. Magn. SPECIES
-=======
+# Pseudocyphellaria piloselloides (Räsänen) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

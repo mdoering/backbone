@@ -1,5 +1,4 @@
-Janetia synnematosa Sivan. & W.H. Hsieh SPECIES
-=======
+# Janetia synnematosa Sivan. & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

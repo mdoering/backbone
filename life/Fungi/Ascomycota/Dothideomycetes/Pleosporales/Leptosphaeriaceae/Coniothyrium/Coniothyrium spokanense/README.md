@@ -1,5 +1,4 @@
-Coniothyrium spokanense Sacc. SPECIES
-=======
+# Coniothyrium spokanense Sacc. SPECIES
 
 #### Status
 ACCEPTED

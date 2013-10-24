@@ -1,5 +1,4 @@
-Psathyrella solheimii var. solheimii VARIETY
-=======
+# Psathyrella solheimii McKnight & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Smith, Mem. N. Y. bot. Gdn 24: 67 (1972)
 
 #### Original name
-Psathyrella solheimii var. solheimii
+Psathyrella solheimii McKnight & A.H. Sm.
 
 ### Remarks
 null

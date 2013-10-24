@@ -1,14 +1,13 @@
-Olpidiopsis dangeardii Feldmann & Feldm.-Maz., 1967 SPECIES
-=======
+# Pontisma dangeardii (Feldmann & Feldm.-Maz.) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Botaniste 50: 193 (1967)
+Straminipilous Fungi (Dordrecht) 363 (2001)
 
 #### Original name
 Olpidiopsis dangeardii Feldmann & Feldm.-Maz., 1967

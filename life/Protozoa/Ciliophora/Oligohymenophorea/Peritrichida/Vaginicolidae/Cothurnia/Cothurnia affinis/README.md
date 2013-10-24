@@ -1,5 +1,4 @@
-Cothurnia affinis Kahl, 1935 SPECIES
-=======
+# Cothurnia affinis Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

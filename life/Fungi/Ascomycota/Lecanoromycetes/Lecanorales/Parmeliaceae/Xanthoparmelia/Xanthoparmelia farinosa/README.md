@@ -1,17 +1,16 @@
-Parmelia farinosa f. farinosa FORM
-=======
+# Xanthoparmelia farinosa (Vain.) T. H. Nash, Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 28(2): 292 (1987)
 
 #### Original name
-Parmelia farinosa f. farinosa
+Parmelia farinosa Vain.
 
 ### Remarks
 null

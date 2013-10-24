@@ -1,14 +1,13 @@
-Licea fimicola Dearn. & Bisby, 1929 SPECIES
-=======
+# Kelleromyxa fimicola (Dearn. & Bisby) Eliasson, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Eliasson, Keller & Schoknecht, Mycol. Res. 95(10): 1206 (1991)
 
 #### Original name
 null

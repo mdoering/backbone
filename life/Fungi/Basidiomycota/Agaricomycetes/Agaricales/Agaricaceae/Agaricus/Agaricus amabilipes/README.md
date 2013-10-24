@@ -1,5 +1,4 @@
-Agaricus amabilipes Peck SPECIES
-=======
+# Agaricus amabilipes Peck SPECIES
 
 #### Status
 ACCEPTED

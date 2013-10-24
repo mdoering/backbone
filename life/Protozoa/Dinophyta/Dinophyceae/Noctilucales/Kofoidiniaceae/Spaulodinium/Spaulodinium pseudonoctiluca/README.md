@@ -1,5 +1,4 @@
-Spaulodinium pseudonoctiluca (Pouchet) Cachon & Cachon ex Loeblich & Loeblich, 1969 SPECIES
-=======
+# Spaulodinium pseudonoctiluca (Pouchet) Cachon & Cachon ex Loeblich & Loeblich, 1969 SPECIES
 
 #### Status
 ACCEPTED

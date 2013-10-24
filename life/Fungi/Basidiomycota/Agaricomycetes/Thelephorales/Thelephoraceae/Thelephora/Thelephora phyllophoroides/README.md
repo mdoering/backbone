@@ -1,5 +1,4 @@
-Thelephora phyllophoroides Corner, 1968 SPECIES
-=======
+# Thelephora phyllophoroides Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

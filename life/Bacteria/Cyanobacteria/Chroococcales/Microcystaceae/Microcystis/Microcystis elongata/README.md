@@ -1,5 +1,4 @@
-Microcystis elongata Desikachary SPECIES
-=======
+# Microcystis elongata Desikachary SPECIES
 
 #### Status
 ACCEPTED

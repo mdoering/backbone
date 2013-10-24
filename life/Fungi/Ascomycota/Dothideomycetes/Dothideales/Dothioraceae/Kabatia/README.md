@@ -1,17 +1,16 @@
-Pseudogloeosporium Jacz. GENUS
-=======
+# Kabatia Bubák GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Oprededitedya 2: 136 (1917)
+Öst. bot. Z. 54: 28 (1904)
 
 #### Original name
-Pseudogloeosporium Jacz.
+Kabatia Bubák
 
 ### Remarks
 null

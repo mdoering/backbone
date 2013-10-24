@@ -1,5 +1,4 @@
-Pseudocercospora ubicola (J.M. Yen) Deighton SPECIES
-=======
+# Pseudocercospora ubicola (J.M. Yen) Deighton SPECIES
 
 #### Status
 ACCEPTED

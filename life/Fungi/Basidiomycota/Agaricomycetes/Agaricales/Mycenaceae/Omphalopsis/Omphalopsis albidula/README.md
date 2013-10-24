@@ -1,5 +1,4 @@
-Omphalopsis albidula (Peck) Murrill SPECIES
-=======
+# Omphalopsis albidula (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

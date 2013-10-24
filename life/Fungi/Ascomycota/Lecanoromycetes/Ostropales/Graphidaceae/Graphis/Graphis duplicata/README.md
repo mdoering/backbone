@@ -1,17 +1,16 @@
-Graphis duplicata var. duplicata VARIETY
-=======
+# Graphis duplicata Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. lich. 81 (1814)
+null
 
 #### Original name
-Graphis duplicata var. duplicata
+Graphis duplicata Ach.
 
 ### Remarks
 null

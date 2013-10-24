@@ -1,5 +1,4 @@
-Dimorphomyces decipiens (Thaxt.) Thaxt. SPECIES
-=======
+# Dimorphomyces decipiens (Thaxt.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

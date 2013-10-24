@@ -1,5 +1,4 @@
-Collema minutum H. Magn. SPECIES
-=======
+# Collema minutum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

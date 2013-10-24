@@ -1,5 +1,4 @@
-Russula perelegans Buyck & E. Horak SPECIES
-=======
+# Russula perelegans Buyck & E. Horak SPECIES
 
 #### Status
 ACCEPTED

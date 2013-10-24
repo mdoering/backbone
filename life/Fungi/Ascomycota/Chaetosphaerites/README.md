@@ -1,5 +1,4 @@
-Chaetosphaerites Félix GENUS
-=======
+# Chaetosphaerites Félix GENUS
 
 #### Status
 ACCEPTED

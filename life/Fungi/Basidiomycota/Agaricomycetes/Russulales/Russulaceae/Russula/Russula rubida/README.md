@@ -1,5 +1,4 @@
-Russula rubida Romagn. ex Reumaux SPECIES
-=======
+# Russula rubida Romagn. ex Reumaux SPECIES
 
 #### Status
 ACCEPTED

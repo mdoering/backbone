@@ -1,5 +1,4 @@
-Merisma pauletii (Fr.) Gillet SPECIES
-=======
+# Merisma pauletii (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

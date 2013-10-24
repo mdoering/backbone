@@ -1,5 +1,4 @@
-Diplodia ditior var. ditior VARIETY
-=======
+# Diplodia ditior Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 2(no. 8): 623 (1882)
 
 #### Original name
-Diplodia ditior var. ditior
+Diplodia ditior Sacc. & Roum.
 
 ### Remarks
 null

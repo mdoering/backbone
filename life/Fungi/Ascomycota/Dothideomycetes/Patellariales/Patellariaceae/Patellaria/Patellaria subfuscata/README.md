@@ -1,5 +1,4 @@
-Patellaria subfuscata (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria subfuscata (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

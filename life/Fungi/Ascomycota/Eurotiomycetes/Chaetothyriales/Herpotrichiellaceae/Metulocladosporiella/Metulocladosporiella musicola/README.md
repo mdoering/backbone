@@ -1,5 +1,4 @@
-Metulocladosporiella musicola Crous, Schroers & J.Z. Groenew., 2006 SPECIES
-=======
+# Metulocladosporiella musicola Crous, Schroers & J.Z. Groenew., 2006 SPECIES
 
 #### Status
 ACCEPTED

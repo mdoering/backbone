@@ -1,5 +1,4 @@
-Desulfobacterium indolicum Bak & Widdel, 1988 SPECIES
-=======
+# Desulfobacterium indolicum Bak & Widdel, 1988 SPECIES
 
 #### Status
 ACCEPTED

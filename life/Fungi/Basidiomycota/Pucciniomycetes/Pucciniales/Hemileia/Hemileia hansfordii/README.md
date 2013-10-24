@@ -1,5 +1,4 @@
-Hemileia hansfordii Syd. ex Wakef. & Hansf. SPECIES
-=======
+# Hemileia hansfordii Syd. ex Wakef. & Hansf. SPECIES
 
 #### Status
 ACCEPTED

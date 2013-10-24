@@ -1,5 +1,4 @@
-Phyllosticta superficialis F. Stevens SPECIES
-=======
+# Phyllosticta superficialis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

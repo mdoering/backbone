@@ -1,5 +1,4 @@
-Kundasphaera lacunosa Uutela & Tynni, 1991 SPECIES
-=======
+# Kundasphaera lacunosa Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

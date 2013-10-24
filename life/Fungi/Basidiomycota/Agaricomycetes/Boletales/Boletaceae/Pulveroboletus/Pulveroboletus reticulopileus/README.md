@@ -1,5 +1,4 @@
-Pulveroboletus reticulopileus M. Zang & R.H. Petersen SPECIES
-=======
+# Pulveroboletus reticulopileus M. Zang & R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

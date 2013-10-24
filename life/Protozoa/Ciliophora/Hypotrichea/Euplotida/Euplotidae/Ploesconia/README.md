@@ -1,14 +1,13 @@
-Plaesconia Bory de St. Vincent, 1827 GENUS
-=======
+# Ploesconia Bory de St. Vincent, 1827 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ency. Méth. (Zooph. ), 629 (as Ploesconia; also as Plaesconia).
+Ency. Méth. (Zooph. ), 629 (also as Plaesconia).
 
 #### Original name
 null

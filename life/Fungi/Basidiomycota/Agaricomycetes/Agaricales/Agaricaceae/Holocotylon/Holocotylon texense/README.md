@@ -1,5 +1,4 @@
-Holocotylon texense Lloyd, 1906 SPECIES
-=======
+# Holocotylon texense Lloyd, 1906 SPECIES
 
 #### Status
 ACCEPTED

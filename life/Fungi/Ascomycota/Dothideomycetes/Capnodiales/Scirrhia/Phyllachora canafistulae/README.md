@@ -1,8 +1,7 @@
-Phyllachora azuanensis Petr. & Cif., 1932 SPECIES
-=======
+# Phyllachora canafistulae F. Stevens & Dalbey, 1919 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

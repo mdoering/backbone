@@ -1,5 +1,4 @@
-Harknessia affinis Ellis & Everh. SPECIES
-=======
+# Harknessia affinis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

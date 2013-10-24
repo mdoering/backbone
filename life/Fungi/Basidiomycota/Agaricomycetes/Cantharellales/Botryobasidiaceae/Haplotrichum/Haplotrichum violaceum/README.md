@@ -1,5 +1,4 @@
-Haplotrichum violaceum Duché & R. Heim SPECIES
-=======
+# Haplotrichum violaceum Duché & R. Heim SPECIES
 
 #### Status
 ACCEPTED

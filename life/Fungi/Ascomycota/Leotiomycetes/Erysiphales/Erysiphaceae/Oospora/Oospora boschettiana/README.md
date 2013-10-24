@@ -1,5 +1,4 @@
-Oospora boschettiana Ferraris SPECIES
-=======
+# Oospora boschettiana Ferraris SPECIES
 
 #### Status
 ACCEPTED

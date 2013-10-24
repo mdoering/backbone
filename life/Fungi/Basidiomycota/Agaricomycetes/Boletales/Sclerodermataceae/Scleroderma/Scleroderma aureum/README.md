@@ -1,5 +1,4 @@
-Scleroderma aureum Massee SPECIES
-=======
+# Scleroderma aureum Massee SPECIES
 
 #### Status
 ACCEPTED

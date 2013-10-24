@@ -1,5 +1,4 @@
-Pleurotus hollandianus Sumst. SPECIES
-=======
+# Pleurotus hollandianus Sumst. SPECIES
 
 #### Status
 ACCEPTED

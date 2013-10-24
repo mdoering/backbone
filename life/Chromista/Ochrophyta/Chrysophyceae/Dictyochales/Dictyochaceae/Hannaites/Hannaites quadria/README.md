@@ -1,5 +1,4 @@
-Hannaites quadria Y. J. Mandra SPECIES
-=======
+# Hannaites quadria Y. J. Mandra SPECIES
 
 #### Status
 ACCEPTED

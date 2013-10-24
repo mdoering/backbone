@@ -1,5 +1,4 @@
-Omphalia poetii (Fr.) P. Karst. SPECIES
-=======
+# Omphalia poetii (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

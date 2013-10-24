@@ -1,5 +1,4 @@
-Septoria alliacea Cooke SPECIES
-=======
+# Septoria alliacea Cooke SPECIES
 
 #### Status
 ACCEPTED

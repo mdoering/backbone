@@ -1,5 +1,4 @@
-Hygrocybe alwisii (Berk. & Broome) Pegler SPECIES
-=======
+# Hygrocybe alwisii (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

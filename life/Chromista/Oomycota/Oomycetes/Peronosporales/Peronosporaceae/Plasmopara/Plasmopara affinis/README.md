@@ -1,5 +1,4 @@
-Plasmopara affinis Novot. SPECIES
-=======
+# Plasmopara affinis Novot. SPECIES
 
 #### Status
 ACCEPTED

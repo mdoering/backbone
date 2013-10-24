@@ -1,5 +1,4 @@
-Komokia Tendal & Hessler, 1977 GENUS
-=======
+# Komokia Tendal & Hessler, 1977 GENUS
 
 #### Status
 ACCEPTED

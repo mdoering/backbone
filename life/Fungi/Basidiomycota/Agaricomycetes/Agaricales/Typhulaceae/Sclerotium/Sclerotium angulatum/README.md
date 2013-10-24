@@ -1,5 +1,4 @@
-Sclerotium angulatum Saporta SPECIES
-=======
+# Sclerotium angulatum Saporta SPECIES
 
 #### Status
 ACCEPTED

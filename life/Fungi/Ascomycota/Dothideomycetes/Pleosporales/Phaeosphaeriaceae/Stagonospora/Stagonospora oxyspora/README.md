@@ -1,5 +1,4 @@
-Stagonospora oxyspora Speg. SPECIES
-=======
+# Stagonospora oxyspora Speg. SPECIES
 
 #### Status
 ACCEPTED

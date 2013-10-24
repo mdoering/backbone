@@ -1,5 +1,4 @@
-Parmelia rimosa Schaer. SPECIES
-=======
+# Parmelia rimosa Schaer. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lauderia mediterranea H. Peragallo SPECIES
-=======
+# Lauderia mediterranea H. Peragallo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina similis Kalb & Vezda SPECIES
-=======
+# Porina similis Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

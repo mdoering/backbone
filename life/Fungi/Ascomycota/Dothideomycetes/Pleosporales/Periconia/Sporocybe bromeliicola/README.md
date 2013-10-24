@@ -1,5 +1,4 @@
-Sporocybe bromeliicola Speg. SPECIES
-=======
+# Sporocybe bromeliicola Speg. SPECIES
 
 #### Status
 ACCEPTED

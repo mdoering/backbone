@@ -1,5 +1,4 @@
-Microsporum tardum Sabour. SPECIES
-=======
+# Microsporum tardum Sabour. SPECIES
 
 #### Status
 ACCEPTED

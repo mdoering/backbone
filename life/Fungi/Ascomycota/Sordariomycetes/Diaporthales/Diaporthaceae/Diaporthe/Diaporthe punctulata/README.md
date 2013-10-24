@@ -1,5 +1,4 @@
-Diaporthe punctulata Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Diaporthe punctulata Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

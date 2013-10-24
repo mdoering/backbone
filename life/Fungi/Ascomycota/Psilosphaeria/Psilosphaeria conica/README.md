@@ -1,5 +1,4 @@
-Psilosphaeria conica (Fuckel) Cooke SPECIES
-=======
+# Psilosphaeria conica (Fuckel) Cooke SPECIES
 
 #### Status
 ACCEPTED

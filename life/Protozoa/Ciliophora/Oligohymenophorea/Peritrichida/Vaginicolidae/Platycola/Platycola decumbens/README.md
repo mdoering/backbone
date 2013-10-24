@@ -1,8 +1,7 @@
-Vaginicola decumbens Ehrenberg, 1830 SPECIES
-=======
+# Platycola decumbens (Ehrenberg, 1830) Kent, 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

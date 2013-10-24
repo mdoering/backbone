@@ -1,5 +1,4 @@
-Pseudocercospora lamiacearum H.S.G. Rao, A.S. Moses & S. Narayan SPECIES
-=======
+# Pseudocercospora lamiacearum H.S.G. Rao, A.S. Moses & S. Narayan SPECIES
 
 #### Status
 ACCEPTED

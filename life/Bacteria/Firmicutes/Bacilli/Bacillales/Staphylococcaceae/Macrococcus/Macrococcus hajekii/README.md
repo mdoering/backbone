@@ -1,5 +1,4 @@
-Macrococcus hajekii Mannerová et al., 2003 SPECIES
-=======
+# Macrococcus hajekii Mannerová et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

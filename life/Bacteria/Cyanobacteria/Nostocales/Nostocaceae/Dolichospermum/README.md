@@ -1,5 +1,4 @@
-Dolichospermum (Ralfs ex Bornet & Flahault) Wacklin, Hoffmann & Komárek, 2009 GENUS
-=======
+# Dolichospermum (Ralfs ex Bornet & Flahault) Wacklin, Hoffmann & Komárek, 2009 GENUS
 
 #### Status
 ACCEPTED

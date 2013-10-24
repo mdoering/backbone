@@ -1,5 +1,4 @@
-Gloeosporium corni Woron. SPECIES
-=======
+# Gloeosporium corni Woron. SPECIES
 
 #### Status
 ACCEPTED

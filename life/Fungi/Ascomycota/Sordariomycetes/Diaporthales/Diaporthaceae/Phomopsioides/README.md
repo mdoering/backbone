@@ -1,5 +1,4 @@
-Phomopsioides GENUS
-=======
+# Phomopsioides GENUS
 
 #### Status
 ACCEPTED

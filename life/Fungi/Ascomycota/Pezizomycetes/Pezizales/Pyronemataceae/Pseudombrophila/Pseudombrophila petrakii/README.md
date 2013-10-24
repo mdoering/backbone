@@ -1,5 +1,4 @@
-Pseudombrophila petrakii (Sacc.) Brumm. SPECIES
-=======
+# Pseudombrophila petrakii (Sacc.) Brumm. SPECIES
 
 #### Status
 ACCEPTED

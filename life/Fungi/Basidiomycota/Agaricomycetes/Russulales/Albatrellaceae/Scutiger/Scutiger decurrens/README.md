@@ -1,5 +1,4 @@
-Scutiger decurrens (Underw.) Murrill SPECIES
-=======
+# Scutiger decurrens (Underw.) Murrill SPECIES
 
 #### Status
 ACCEPTED

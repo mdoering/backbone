@@ -1,5 +1,4 @@
-Diplodiella ficina Pass. SPECIES
-=======
+# Diplodiella ficina Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptothecia irregularis Lücking, Aptroot, Kalb & Elix SPECIES
-=======
+# Cryptothecia irregularis Lücking, Aptroot, Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tympanopsis coelosphaerioides Penz. & Sacc. SPECIES
-=======
+# Tympanopsis coelosphaerioides Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

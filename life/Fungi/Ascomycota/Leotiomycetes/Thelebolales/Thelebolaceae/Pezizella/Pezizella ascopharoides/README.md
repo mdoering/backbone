@@ -1,5 +1,4 @@
-Pezizella ascopharoides anon. SPECIES
-=======
+# Pezizella ascopharoides anon. SPECIES
 
 #### Status
 ACCEPTED

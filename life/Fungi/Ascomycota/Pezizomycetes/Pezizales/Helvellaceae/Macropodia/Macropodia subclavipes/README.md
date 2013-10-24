@@ -1,5 +1,4 @@
-Macropodia subclavipes (W. Phillips & Ellis) Rehm SPECIES
-=======
+# Macropodia subclavipes (W. Phillips & Ellis) Rehm SPECIES
 
 #### Status
 ACCEPTED

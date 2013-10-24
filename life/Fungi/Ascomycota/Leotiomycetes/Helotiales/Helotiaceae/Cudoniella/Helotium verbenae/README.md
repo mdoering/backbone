@@ -1,5 +1,4 @@
-Helotium verbenae Cavara SPECIES
-=======
+# Helotium verbenae Cavara SPECIES
 
 #### Status
 ACCEPTED

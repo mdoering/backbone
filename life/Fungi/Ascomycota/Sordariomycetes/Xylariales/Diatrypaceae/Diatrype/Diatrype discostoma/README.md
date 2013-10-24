@@ -1,5 +1,4 @@
-Diatrype discostoma Cooke SPECIES
-=======
+# Diatrype discostoma Cooke SPECIES
 
 #### Status
 ACCEPTED

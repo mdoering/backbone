@@ -1,5 +1,4 @@
-Uredo trichiliae Arthur SPECIES
-=======
+# Uredo trichiliae Arthur SPECIES
 
 #### Status
 ACCEPTED

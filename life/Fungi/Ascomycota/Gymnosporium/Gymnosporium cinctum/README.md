@@ -1,5 +1,4 @@
-Gymnosporium cinctum Berk. & Broome SPECIES
-=======
+# Gymnosporium cinctum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

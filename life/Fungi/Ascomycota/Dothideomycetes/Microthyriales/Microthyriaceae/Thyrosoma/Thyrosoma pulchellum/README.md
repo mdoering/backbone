@@ -1,5 +1,4 @@
-Thyrosoma pulchellum Syd. SPECIES
-=======
+# Thyrosoma pulchellum Syd. SPECIES
 
 #### Status
 ACCEPTED

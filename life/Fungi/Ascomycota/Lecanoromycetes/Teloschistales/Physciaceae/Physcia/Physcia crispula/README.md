@@ -1,5 +1,4 @@
-Physcia crispula SPECIES
-=======
+# Physcia crispula SPECIES
 
 #### Status
 ACCEPTED

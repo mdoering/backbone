@@ -1,5 +1,4 @@
-Halomonas campaniensis Romano et al., 2005 SPECIES
-=======
+# Halomonas campaniensis Romano et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

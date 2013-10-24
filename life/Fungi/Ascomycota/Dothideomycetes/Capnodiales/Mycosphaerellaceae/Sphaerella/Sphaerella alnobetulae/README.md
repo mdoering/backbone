@@ -1,5 +1,4 @@
-Sphaerella alnobetulae (Jaap) Sacc. SPECIES
-=======
+# Sphaerella alnobetulae (Jaap) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerellopsis quercuum Cooke, 1883 SPECIES
-=======
+# Sphaerellopsis quercuum Cooke, 1883 SPECIES
 
 #### Status
 ACCEPTED

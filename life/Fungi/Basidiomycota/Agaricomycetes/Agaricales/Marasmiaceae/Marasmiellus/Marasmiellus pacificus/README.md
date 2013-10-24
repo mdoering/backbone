@@ -1,5 +1,4 @@
-Marasmiellus pacificus Desjardin SPECIES
-=======
+# Marasmiellus pacificus Desjardin SPECIES
 
 #### Status
 ACCEPTED

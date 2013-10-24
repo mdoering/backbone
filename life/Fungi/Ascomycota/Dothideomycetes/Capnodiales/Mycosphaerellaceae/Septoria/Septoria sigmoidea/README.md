@@ -1,5 +1,4 @@
-Septoria sigmoidea Wehm. SPECIES
-=======
+# Septoria sigmoidea Wehm. SPECIES
 
 #### Status
 ACCEPTED

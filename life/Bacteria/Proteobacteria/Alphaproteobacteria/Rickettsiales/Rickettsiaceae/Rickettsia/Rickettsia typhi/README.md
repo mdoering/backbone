@@ -1,11 +1,10 @@
-Dermacentroxenus typhi Wolbach & Todd, 1920 SPECIES
-=======
+# Rickettsia typhi (Wolbach and Todd, 1920) Philip, 1943 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Gloeocystidium stramineum Bres. SPECIES
-=======
+# Gloeocystidium stramineum Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma concentrica Sacc., 1880 SPECIES
-=======
+# Phoma concentrica Sacc., 1880 SPECIES
 
 #### Status
 ACCEPTED

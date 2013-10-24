@@ -1,5 +1,4 @@
-Caloplaca testudinea V. Wirth & Kärnefelt SPECIES
-=======
+# Caloplaca testudinea V. Wirth & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

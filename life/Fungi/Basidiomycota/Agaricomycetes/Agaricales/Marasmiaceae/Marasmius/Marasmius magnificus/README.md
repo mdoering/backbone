@@ -1,5 +1,4 @@
-Marasmius magnificus (Henn.) Singer SPECIES
-=======
+# Marasmius magnificus (Henn.) Singer SPECIES
 
 #### Status
 ACCEPTED

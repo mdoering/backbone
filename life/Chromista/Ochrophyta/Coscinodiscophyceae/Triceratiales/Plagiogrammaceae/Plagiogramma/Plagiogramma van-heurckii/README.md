@@ -1,5 +1,4 @@
-Plagiogramma van-heurckii Grunow SPECIES
-=======
+# Plagiogramma van-heurckii Grunow SPECIES
 
 #### Status
 ACCEPTED

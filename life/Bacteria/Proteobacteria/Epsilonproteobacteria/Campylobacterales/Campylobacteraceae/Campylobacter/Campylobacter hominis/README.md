@@ -1,5 +1,4 @@
-Campylobacter hominis Lawson et al., 2001 SPECIES
-=======
+# Campylobacter hominis Lawson et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

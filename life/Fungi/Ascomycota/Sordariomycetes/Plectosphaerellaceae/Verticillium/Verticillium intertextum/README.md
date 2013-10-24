@@ -1,5 +1,4 @@
-Verticillium intertextum I. Isaac & R.R. Davies, 1955 SPECIES
-=======
+# Verticillium intertextum I. Isaac & R.R. Davies, 1955 SPECIES
 
 #### Status
 ACCEPTED

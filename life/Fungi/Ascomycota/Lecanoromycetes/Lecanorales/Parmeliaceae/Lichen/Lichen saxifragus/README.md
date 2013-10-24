@@ -1,5 +1,4 @@
-Lichen saxifragus Sm. SPECIES
-=======
+# Lichen saxifragus Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe nitida (Berk. & M.A. Curtis) SPECIES
-=======
+# Hygrocybe nitida (Berk. & M.A. Curtis) SPECIES
 
 #### Status
 ACCEPTED

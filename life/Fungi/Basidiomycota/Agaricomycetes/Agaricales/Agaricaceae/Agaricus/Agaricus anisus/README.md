@@ -1,5 +1,4 @@
-Agaricus anisus Berk. & Broome SPECIES
-=======
+# Agaricus anisus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

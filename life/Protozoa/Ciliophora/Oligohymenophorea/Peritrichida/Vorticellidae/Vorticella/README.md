@@ -1,5 +1,4 @@
-Vorticella Linnaeus, 1767 GENUS
-=======
+# Vorticella Linnaeus, 1767 GENUS
 
 #### Status
 ACCEPTED

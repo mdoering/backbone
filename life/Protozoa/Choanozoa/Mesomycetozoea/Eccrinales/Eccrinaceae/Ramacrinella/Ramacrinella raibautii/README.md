@@ -1,17 +1,16 @@
-Ramacrinella raibauti Manier & Ormières SPECIES
-=======
+# Ramacrinella raibautii Manier & Ormières ex Manier, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. Biol. Vég. , sér. 12 9: 100 (1968)
 
 #### Original name
-Ramacrinella raibauti Manier & Ormières
+Ramacrinella raibautii Manier & Ormières ex Manier, 1968
 
 ### Remarks
 null

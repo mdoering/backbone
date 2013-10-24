@@ -1,5 +1,4 @@
-Ophiobolus kugitangi Kurbans. SPECIES
-=======
+# Ophiobolus kugitangi Kurbans. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmeliella plumosella P. M. Jørg. SPECIES
-=======
+# Parmeliella plumosella P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

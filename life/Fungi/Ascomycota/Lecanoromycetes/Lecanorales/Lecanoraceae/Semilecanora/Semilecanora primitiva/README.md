@@ -1,5 +1,4 @@
-Semilecanora primitiva Motyka SPECIES
-=======
+# Semilecanora primitiva Motyka SPECIES
 
 #### Status
 ACCEPTED

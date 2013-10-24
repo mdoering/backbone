@@ -1,5 +1,4 @@
-Depazea phillyreae Thüm. SPECIES
-=======
+# Depazea phillyreae Thüm. SPECIES
 
 #### Status
 ACCEPTED

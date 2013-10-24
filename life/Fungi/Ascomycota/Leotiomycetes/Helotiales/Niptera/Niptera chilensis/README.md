@@ -1,5 +1,4 @@
-Niptera chilensis Speg. SPECIES
-=======
+# Niptera chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

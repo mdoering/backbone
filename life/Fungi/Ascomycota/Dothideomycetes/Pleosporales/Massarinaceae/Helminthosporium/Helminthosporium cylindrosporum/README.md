@@ -1,17 +1,16 @@
-Helmisporium cylindrosporum Sacc. SPECIES
-=======
+# Helminthosporium cylindrosporum Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nuovo Giorn. Bot. Ital. 8: 191 (1876)
 
 #### Original name
-Helmisporium cylindrosporum Sacc.
+Helminthosporium cylindrosporum Sacc.
 
 ### Remarks
 null

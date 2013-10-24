@@ -1,5 +1,4 @@
-Leccinum armeniacum Thiers SPECIES
-=======
+# Leccinum armeniacum Thiers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma quercetorum Quadr. SPECIES
-=======
+# Hebeloma quercetorum Quadr. SPECIES
 
 #### Status
 ACCEPTED

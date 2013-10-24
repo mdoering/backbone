@@ -1,14 +1,13 @@
-Coprolepa rostrata (Griffiths) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Hypocopra rostrata Griffiths, 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 17: 608 (1905)
+null
 
 #### Original name
 Hypocopra rostrata Griffiths, 1901

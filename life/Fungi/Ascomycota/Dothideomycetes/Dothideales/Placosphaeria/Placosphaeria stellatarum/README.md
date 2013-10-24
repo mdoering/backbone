@@ -1,5 +1,4 @@
-Placosphaeria stellatarum Sacc. SPECIES
-=======
+# Placosphaeria stellatarum Sacc. SPECIES
 
 #### Status
 ACCEPTED

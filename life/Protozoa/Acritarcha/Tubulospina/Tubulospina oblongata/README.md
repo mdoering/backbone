@@ -1,5 +1,4 @@
-Tubulospina oblongata Davey, 1970 SPECIES
-=======
+# Tubulospina oblongata Davey, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus cruentus Hongo SPECIES
-=======
+# Hygrophorus cruentus Hongo SPECIES
 
 #### Status
 ACCEPTED

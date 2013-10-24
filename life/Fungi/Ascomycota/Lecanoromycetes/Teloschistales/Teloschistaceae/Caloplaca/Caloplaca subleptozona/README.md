@@ -1,5 +1,4 @@
-Caloplaca subleptozona Y. Joshi & Upreti SPECIES
-=======
+# Caloplaca subleptozona Y. Joshi & Upreti SPECIES
 
 #### Status
 ACCEPTED

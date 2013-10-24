@@ -1,5 +1,4 @@
-Aecidium epimedii Henn. & Shirai SPECIES
-=======
+# Aecidium epimedii Henn. & Shirai SPECIES
 
 #### Status
 ACCEPTED

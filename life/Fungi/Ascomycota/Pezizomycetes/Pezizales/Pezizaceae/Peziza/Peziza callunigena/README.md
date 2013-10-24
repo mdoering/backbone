@@ -1,5 +1,4 @@
-Peziza callunigena P. Karst. SPECIES
-=======
+# Peziza callunigena P. Karst. SPECIES
 
 #### Status
 ACCEPTED

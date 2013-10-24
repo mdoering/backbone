@@ -1,17 +1,16 @@
-Pseudopatella Sacc. GENUS
-=======
+# Cystotricha Berk. & Broome GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 2 5: 457 (1850)
 
 #### Original name
-Pseudopatella Sacc.
+Cystotricha Berk. & Broome
 
 ### Remarks
 null

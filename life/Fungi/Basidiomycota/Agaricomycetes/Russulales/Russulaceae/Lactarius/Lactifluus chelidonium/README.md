@@ -1,5 +1,4 @@
-Lactifluus chelidonium (Peck) Kuntze SPECIES
-=======
+# Lactifluus chelidonium (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

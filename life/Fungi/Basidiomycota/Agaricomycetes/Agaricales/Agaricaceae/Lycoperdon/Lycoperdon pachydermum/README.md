@@ -1,5 +1,4 @@
-Lycoperdon pachydermum Peck SPECIES
-=======
+# Lycoperdon pachydermum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa weiriana Petr. SPECIES
-=======
+# Valsa weiriana Petr. SPECIES
 
 #### Status
 ACCEPTED

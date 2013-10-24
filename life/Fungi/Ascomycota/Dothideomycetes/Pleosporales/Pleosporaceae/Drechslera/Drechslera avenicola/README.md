@@ -1,5 +1,4 @@
-Drechslera avenicola B.D. Sun & T.Y. Zhang SPECIES
-=======
+# Drechslera avenicola B.D. Sun & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

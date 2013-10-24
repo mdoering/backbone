@@ -1,5 +1,4 @@
-Coleosporium pereziae Cummins SPECIES
-=======
+# Coleosporium pereziae Cummins SPECIES
 
 #### Status
 ACCEPTED

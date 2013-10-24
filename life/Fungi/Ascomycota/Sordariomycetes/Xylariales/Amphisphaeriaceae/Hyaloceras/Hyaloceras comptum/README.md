@@ -1,5 +1,4 @@
-Hyaloceras comptum (Sacc.) Died. SPECIES
-=======
+# Hyaloceras comptum (Sacc.) Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baeomyces capitatus Vain. SPECIES
-=======
+# Baeomyces capitatus Vain. SPECIES
 
 #### Status
 ACCEPTED

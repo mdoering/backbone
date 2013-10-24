@@ -1,5 +1,4 @@
-Sporisorium tristachydis (Syd. & P. Syd.) Vánky SPECIES
-=======
+# Sporisorium tristachydis (Syd. & P. Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

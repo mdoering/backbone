@@ -1,5 +1,4 @@
-Clavaria furcata Pers. SPECIES
-=======
+# Clavaria furcata Pers. SPECIES
 
 #### Status
 ACCEPTED

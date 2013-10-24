@@ -1,5 +1,4 @@
-Peziza assimilis Cooke & W. Phillips SPECIES
-=======
+# Peziza assimilis Cooke & W. Phillips SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella artemisiae Tilak SPECIES
-=======
+# Mycosphaerella artemisiae Tilak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongechinus Haeckel, 1881 GENUS
-=======
+# Spongechinus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paradidymella chenopodiicola (Speg.) Tomilin SPECIES
-=======
+# Paradidymella chenopodiicola (Speg.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

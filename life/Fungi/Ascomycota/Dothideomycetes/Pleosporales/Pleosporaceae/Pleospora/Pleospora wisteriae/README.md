@@ -1,5 +1,4 @@
-Pleospora wisteriae (Cooke) Gucevic SPECIES
-=======
+# Pleospora wisteriae (Cooke) Gucevic SPECIES
 
 #### Status
 ACCEPTED

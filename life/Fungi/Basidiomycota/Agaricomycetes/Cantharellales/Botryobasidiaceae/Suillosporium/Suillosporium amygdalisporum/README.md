@@ -1,5 +1,4 @@
-Suillosporium amygdalisporum Boidin & Gilles, 1986 SPECIES
-=======
+# Suillosporium amygdalisporum Boidin & Gilles, 1986 SPECIES
 
 #### Status
 ACCEPTED

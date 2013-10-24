@@ -1,5 +1,4 @@
-Cortinarius viridibasalis M.M. Moser SPECIES
-=======
+# Cortinarius viridibasalis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

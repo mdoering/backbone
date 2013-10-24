@@ -1,5 +1,4 @@
-Collonema abramovii Nelen SPECIES
-=======
+# Collonema abramovii Nelen SPECIES
 
 #### Status
 ACCEPTED

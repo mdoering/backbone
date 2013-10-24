@@ -1,5 +1,4 @@
-Opegrapha congesta Fée SPECIES
-=======
+# Opegrapha congesta Fée SPECIES
 
 #### Status
 ACCEPTED

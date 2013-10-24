@@ -1,5 +1,4 @@
-Remaneica gonzalezi SPECIES
-=======
+# Remaneica gonzalezi SPECIES
 
 #### Status
 ACCEPTED

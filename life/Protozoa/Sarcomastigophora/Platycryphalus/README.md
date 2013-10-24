@@ -1,5 +1,4 @@
-Platycryphalus Haeckel, 1881 GENUS
-=======
+# Platycryphalus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

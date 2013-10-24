@@ -1,5 +1,4 @@
-Verpa formosana Kobayasi SPECIES
-=======
+# Verpa formosana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

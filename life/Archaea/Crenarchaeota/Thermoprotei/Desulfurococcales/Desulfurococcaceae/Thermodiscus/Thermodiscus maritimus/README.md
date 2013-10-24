@@ -1,5 +1,4 @@
-Thermodiscus maritimus Stetter, 2003 SPECIES
-=======
+# Thermodiscus maritimus Stetter, 2003 SPECIES
 
 #### Status
 ACCEPTED

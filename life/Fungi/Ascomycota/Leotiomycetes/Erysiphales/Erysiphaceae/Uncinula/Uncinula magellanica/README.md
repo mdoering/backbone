@@ -1,5 +1,4 @@
-Uncinula magellanica Thaxt. SPECIES
-=======
+# Uncinula magellanica Thaxt. SPECIES
 
 #### Status
 ACCEPTED

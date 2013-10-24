@@ -1,5 +1,4 @@
-Myxobacter GENUS
-=======
+# Myxobacter GENUS
 
 #### Status
 ACCEPTED

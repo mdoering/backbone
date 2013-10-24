@@ -1,5 +1,4 @@
-Balladynopsis magnifica Syd. SPECIES
-=======
+# Balladynopsis magnifica Syd. SPECIES
 
 #### Status
 ACCEPTED

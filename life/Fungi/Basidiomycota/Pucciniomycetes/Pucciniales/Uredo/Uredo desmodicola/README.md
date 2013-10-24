@@ -1,5 +1,4 @@
-Uredo desmodicola Speg. SPECIES
-=======
+# Uredo desmodicola Speg. SPECIES
 
 #### Status
 ACCEPTED

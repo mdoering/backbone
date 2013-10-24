@@ -1,5 +1,4 @@
-Stilbella maxima Eichelb. SPECIES
-=======
+# Stilbella maxima Eichelb. SPECIES
 
 #### Status
 ACCEPTED

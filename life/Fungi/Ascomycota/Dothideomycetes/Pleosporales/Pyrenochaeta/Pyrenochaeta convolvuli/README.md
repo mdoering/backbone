@@ -1,5 +1,4 @@
-Pyrenochaeta convolvuli Bubák & Picb. SPECIES
-=======
+# Pyrenochaeta convolvuli Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

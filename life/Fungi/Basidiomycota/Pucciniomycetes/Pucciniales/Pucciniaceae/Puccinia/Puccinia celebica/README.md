@@ -1,5 +1,4 @@
-Puccinia celebica Gäum. SPECIES
-=======
+# Puccinia celebica Gäum. SPECIES
 
 #### Status
 ACCEPTED

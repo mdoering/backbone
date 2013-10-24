@@ -1,5 +1,4 @@
-Holosticha marioni Gourret & Roeser, 1888 SPECIES
-=======
+# Holosticha marioni Gourret & Roeser, 1888 SPECIES
 
 #### Status
 ACCEPTED

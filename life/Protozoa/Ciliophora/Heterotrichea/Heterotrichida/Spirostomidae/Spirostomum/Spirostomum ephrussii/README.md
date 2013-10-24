@@ -1,5 +1,4 @@
-Spirostomum ephrussii SPECIES
-=======
+# Spirostomum ephrussii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reticulophragmium Maync, 1955 GENUS
-=======
+# Reticulophragmium Maync, 1955 GENUS
 
 #### Status
 ACCEPTED

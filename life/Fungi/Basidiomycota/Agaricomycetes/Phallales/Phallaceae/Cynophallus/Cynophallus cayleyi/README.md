@@ -1,5 +1,4 @@
-Cynophallus cayleyi Berk. SPECIES
-=======
+# Cynophallus cayleyi Berk. SPECIES
 
 #### Status
 ACCEPTED

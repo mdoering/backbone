@@ -1,5 +1,4 @@
-Mycotorula polymorpha Cif. & Redaelli SPECIES
-=======
+# Mycotorula polymorpha Cif. & Redaelli SPECIES
 
 #### Status
 ACCEPTED

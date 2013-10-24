@@ -1,5 +1,4 @@
-Sphaerobolus major Velen. SPECIES
-=======
+# Sphaerobolus major Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma cerasina (Cooke) Berl. & Voglino SPECIES
-=======
+# Macrophoma cerasina (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

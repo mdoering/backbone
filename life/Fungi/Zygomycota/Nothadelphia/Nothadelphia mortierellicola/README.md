@@ -1,5 +1,4 @@
-Nothadelphia mortierellicola Degawa & W. Gams, 2004 SPECIES
-=======
+# Nothadelphia mortierellicola Degawa & W. Gams, 2004 SPECIES
 
 #### Status
 ACCEPTED

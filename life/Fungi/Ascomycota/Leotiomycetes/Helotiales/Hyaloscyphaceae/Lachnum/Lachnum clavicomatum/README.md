@@ -1,5 +1,4 @@
-Lachnum clavicomatum Kirschst. SPECIES
-=======
+# Lachnum clavicomatum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

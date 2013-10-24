@@ -1,5 +1,4 @@
-Cercospora perillae Nakata SPECIES
-=======
+# Cercospora perillae Nakata SPECIES
 
 #### Status
 ACCEPTED

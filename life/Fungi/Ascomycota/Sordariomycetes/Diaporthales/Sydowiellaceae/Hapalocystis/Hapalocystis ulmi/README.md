@@ -1,5 +1,4 @@
-Hapalocystis ulmi (Wehm.) M.E. Barr SPECIES
-=======
+# Hapalocystis ulmi (Wehm.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

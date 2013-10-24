@@ -1,5 +1,4 @@
-Lyophyllopsis Sathe & J.T. Daniel GENUS
-=======
+# Lyophyllopsis Sathe & J.T. Daniel GENUS
 
 #### Status
 ACCEPTED

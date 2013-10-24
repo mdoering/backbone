@@ -1,5 +1,4 @@
-Candida hispaniensis Kurtzman SPECIES
-=======
+# Candida hispaniensis Kurtzman SPECIES
 
 #### Status
 ACCEPTED

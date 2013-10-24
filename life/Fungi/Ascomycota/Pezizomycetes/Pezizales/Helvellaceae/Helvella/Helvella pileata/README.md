@@ -1,5 +1,4 @@
-Helvella pileata Clem. SPECIES
-=======
+# Helvella pileata Clem. SPECIES
 
 #### Status
 ACCEPTED

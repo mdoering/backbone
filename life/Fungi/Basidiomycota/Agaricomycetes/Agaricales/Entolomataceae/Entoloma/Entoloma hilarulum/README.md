@@ -1,5 +1,4 @@
-Entoloma hilarulum E. Horak SPECIES
-=======
+# Entoloma hilarulum E. Horak SPECIES
 
 #### Status
 ACCEPTED

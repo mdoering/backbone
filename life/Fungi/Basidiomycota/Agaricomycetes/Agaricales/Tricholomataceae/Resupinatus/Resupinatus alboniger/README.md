@@ -1,17 +1,16 @@
-Resupinatus alboniger var. alboniger (Pat.) Singer VARIETY
-=======
+# Resupinatus alboniger (Pat.) Singer, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Nova Hedwigia 29(1-2): 17 (1978)
 
 #### Original name
-Resupinatus alboniger var. alboniger (Pat.) Singer
+Pleurotus alboniger Pat., 1893
 
 ### Remarks
 null

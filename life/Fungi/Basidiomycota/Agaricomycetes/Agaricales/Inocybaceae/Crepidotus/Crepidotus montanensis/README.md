@@ -1,5 +1,4 @@
-Crepidotus montanensis Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus montanensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

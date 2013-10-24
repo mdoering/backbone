@@ -1,5 +1,4 @@
-Microdiplodia thalictricola (Syd.) Tassi SPECIES
-=======
+# Microdiplodia thalictricola (Syd.) Tassi SPECIES
 
 #### Status
 ACCEPTED

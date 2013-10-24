@@ -1,5 +1,4 @@
-Badhamia microcarpa J. Schröt. SPECIES
-=======
+# Badhamia microcarpa J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria subcontinua (Nyl.) Zschacke SPECIES
-=======
+# Verrucaria subcontinua (Nyl.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

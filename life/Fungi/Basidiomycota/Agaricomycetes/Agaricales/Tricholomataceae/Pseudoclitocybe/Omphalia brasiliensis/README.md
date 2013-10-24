@@ -1,5 +1,4 @@
-Omphalia brasiliensis Speg. SPECIES
-=======
+# Omphalia brasiliensis Speg. SPECIES
 
 #### Status
 ACCEPTED

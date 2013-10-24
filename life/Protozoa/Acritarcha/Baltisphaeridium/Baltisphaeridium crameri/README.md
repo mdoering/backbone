@@ -1,5 +1,4 @@
-Baltisphaeridium crameri C. Singh, 1971 SPECIES
-=======
+# Baltisphaeridium crameri C. Singh, 1971 SPECIES
 
 #### Status
 ACCEPTED

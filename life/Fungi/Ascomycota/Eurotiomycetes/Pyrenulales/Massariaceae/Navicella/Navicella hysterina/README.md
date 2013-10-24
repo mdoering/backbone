@@ -1,5 +1,4 @@
-Navicella hysterina (Wallr.) Kuntze SPECIES
-=======
+# Navicella hysterina (Wallr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

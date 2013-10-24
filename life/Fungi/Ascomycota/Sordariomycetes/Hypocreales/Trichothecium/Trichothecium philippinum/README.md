@@ -1,5 +1,4 @@
-Trichothecium philippinum SPECIES
-=======
+# Trichothecium philippinum SPECIES
 
 #### Status
 ACCEPTED

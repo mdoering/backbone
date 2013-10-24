@@ -1,5 +1,4 @@
-Tephromela khatiensis (Räsänen) Lumbsch SPECIES
-=======
+# Tephromela khatiensis (Räsänen) Lumbsch SPECIES
 
 #### Status
 ACCEPTED

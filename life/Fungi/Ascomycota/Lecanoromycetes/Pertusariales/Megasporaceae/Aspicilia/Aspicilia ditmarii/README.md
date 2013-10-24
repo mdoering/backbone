@@ -1,8 +1,7 @@
-Aspicilia ditmari Savicz SPECIES
-=======
+# Aspicilia ditmarii Savicz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia ditmari Savicz
+Aspicilia ditmarii Savicz
 
 ### Remarks
 null

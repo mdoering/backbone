@@ -1,5 +1,4 @@
-Phytophthora pistaciae Mirab. SPECIES
-=======
+# Phytophthora pistaciae Mirab. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius weddellianus Mont. SPECIES
-=======
+# Cortinarius weddellianus Mont. SPECIES
 
 #### Status
 ACCEPTED

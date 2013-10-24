@@ -1,5 +1,4 @@
-Ustilago baldingerae Vestergr. SPECIES
-=======
+# Ustilago baldingerae Vestergr. SPECIES
 
 #### Status
 ACCEPTED

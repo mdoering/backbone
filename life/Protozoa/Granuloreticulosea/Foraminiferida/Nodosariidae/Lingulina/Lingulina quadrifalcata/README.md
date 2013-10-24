@@ -1,5 +1,4 @@
-Lingulina quadrifalcata Rhumbler, 1911 SPECIES
-=======
+# Lingulina quadrifalcata Rhumbler, 1911 SPECIES
 
 #### Status
 ACCEPTED

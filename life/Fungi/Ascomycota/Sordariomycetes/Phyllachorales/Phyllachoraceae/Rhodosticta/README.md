@@ -1,5 +1,4 @@
-Rhodosticta Woron. GENUS
-=======
+# Rhodosticta Woron. GENUS
 
 #### Status
 ACCEPTED

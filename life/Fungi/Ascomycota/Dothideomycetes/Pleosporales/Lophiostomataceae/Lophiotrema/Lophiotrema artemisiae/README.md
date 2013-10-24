@@ -1,5 +1,4 @@
-Lophiotrema artemisiae Fabre SPECIES
-=======
+# Lophiotrema artemisiae Fabre SPECIES
 
 #### Status
 ACCEPTED

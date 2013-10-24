@@ -1,5 +1,4 @@
-Cotylidia muscigena L. Remy, 1965 SPECIES
-=======
+# Cotylidia muscigena L. Remy, 1965 SPECIES
 
 #### Status
 ACCEPTED

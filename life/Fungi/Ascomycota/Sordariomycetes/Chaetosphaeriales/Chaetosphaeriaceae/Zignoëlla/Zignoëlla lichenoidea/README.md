@@ -1,5 +1,4 @@
-Zignoëlla lichenoidea Höhn. SPECIES
-=======
+# Zignoëlla lichenoidea Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceuthospora robiniae Pollacci SPECIES
-=======
+# Ceuthospora robiniae Pollacci SPECIES
 
 #### Status
 ACCEPTED

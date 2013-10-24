@@ -1,5 +1,4 @@
-Uredo zehneriae Thüm. SPECIES
-=======
+# Uredo zehneriae Thüm. SPECIES
 
 #### Status
 ACCEPTED

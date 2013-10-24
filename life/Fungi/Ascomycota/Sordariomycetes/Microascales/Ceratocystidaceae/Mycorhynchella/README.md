@@ -1,5 +1,4 @@
-Mycorhynchella GENUS
-=======
+# Mycorhynchella GENUS
 
 #### Status
 ACCEPTED

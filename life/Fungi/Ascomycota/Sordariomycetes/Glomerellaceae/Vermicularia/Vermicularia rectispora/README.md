@@ -1,5 +1,4 @@
-Vermicularia rectispora Cooke SPECIES
-=======
+# Vermicularia rectispora Cooke SPECIES
 
 #### Status
 ACCEPTED

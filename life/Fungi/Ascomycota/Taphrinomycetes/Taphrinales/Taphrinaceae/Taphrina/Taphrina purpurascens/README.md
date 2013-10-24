@@ -1,14 +1,13 @@
-Exoascus purpurascens (B.L. Rob.) Sacc., 1889 SPECIES
-=======
+# Taphrina purpurascens B.L. Rob., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 819 (1889)
+Ann. Bot. , Lond. 1: 169 (1887)
 
 #### Original name
 Taphrina purpurascens B.L. Rob., 1887

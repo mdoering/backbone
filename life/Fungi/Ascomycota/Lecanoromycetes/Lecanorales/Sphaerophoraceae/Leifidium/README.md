@@ -1,5 +1,4 @@
-Leifidium Wedin GENUS
-=======
+# Leifidium Wedin GENUS
 
 #### Status
 ACCEPTED

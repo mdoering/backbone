@@ -1,5 +1,4 @@
-Sporisorium arundinellae-nepalensis Vánky SPECIES
-=======
+# Sporisorium arundinellae-nepalensis Vánky SPECIES
 
 #### Status
 ACCEPTED

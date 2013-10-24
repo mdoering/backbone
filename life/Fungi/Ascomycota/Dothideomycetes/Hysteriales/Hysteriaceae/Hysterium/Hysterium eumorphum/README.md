@@ -1,5 +1,4 @@
-Hysterium eumorphum Sacc. SPECIES
-=======
+# Hysterium eumorphum Sacc. SPECIES
 
 #### Status
 ACCEPTED

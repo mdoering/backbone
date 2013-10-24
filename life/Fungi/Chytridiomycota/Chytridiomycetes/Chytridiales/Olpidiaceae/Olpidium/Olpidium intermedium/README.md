@@ -1,5 +1,4 @@
-Olpidium intermedium Const. SPECIES
-=======
+# Olpidium intermedium Const. SPECIES
 
 #### Status
 ACCEPTED

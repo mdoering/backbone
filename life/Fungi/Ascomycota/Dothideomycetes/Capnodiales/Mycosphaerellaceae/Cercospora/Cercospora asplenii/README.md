@@ -1,5 +1,4 @@
-Cercospora asplenii Jaap SPECIES
-=======
+# Cercospora asplenii Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guttulina communis (d'Orbigny, 1826) SPECIES
-=======
+# Guttulina communis (d'Orbigny, 1826) SPECIES
 
 #### Status
 ACCEPTED

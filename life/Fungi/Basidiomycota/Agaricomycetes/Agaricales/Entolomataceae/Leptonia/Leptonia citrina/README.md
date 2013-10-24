@@ -1,5 +1,4 @@
-Leptonia citrina Velen. SPECIES
-=======
+# Leptonia citrina Velen. SPECIES
 
 #### Status
 ACCEPTED

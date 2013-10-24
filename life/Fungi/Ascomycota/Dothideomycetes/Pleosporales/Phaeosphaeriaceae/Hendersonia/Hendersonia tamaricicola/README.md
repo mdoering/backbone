@@ -1,5 +1,4 @@
-Hendersonia tamaricicola Brunaud SPECIES
-=======
+# Hendersonia tamaricicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

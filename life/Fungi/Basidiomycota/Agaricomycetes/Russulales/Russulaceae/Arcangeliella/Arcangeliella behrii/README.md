@@ -1,5 +1,4 @@
-Arcangeliella behrii var. behrii VARIETY
-=======
+# Arcangeliella behrii (Harkn.) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Ann. Mo. bot. Gdn (1935)
+Ann. Mo. bot. Gdn 22: 366 (1935)
 
 #### Original name
-Arcangeliella behrii var. behrii
+Splanchnomyces behrii Harkn.
 
 ### Remarks
 null

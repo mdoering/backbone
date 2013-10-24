@@ -1,5 +1,4 @@
-Hypochlaena R. Ciferri, 1962 GENUS
-=======
+# Hypochlaena R. Ciferri, 1962 GENUS
 
 #### Status
 ACCEPTED

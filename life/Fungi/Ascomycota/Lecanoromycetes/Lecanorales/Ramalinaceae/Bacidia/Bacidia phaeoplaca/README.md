@@ -1,5 +1,4 @@
-Bacidia phaeoplaca Zahlbr. SPECIES
-=======
+# Bacidia phaeoplaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

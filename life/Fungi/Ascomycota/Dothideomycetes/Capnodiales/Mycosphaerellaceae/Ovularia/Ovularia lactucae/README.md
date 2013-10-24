@@ -1,5 +1,4 @@
-Ovularia lactucae W.P. Golovina SPECIES
-=======
+# Ovularia lactucae W.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

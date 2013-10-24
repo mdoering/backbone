@@ -1,5 +1,4 @@
-Fissurina clathrata SPECIES
-=======
+# Fissurina clathrata SPECIES
 
 #### Status
 ACCEPTED

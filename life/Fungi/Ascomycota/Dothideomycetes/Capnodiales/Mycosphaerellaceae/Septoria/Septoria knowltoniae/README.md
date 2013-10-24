@@ -1,5 +1,4 @@
-Septoria knowltoniae Verwoerd & Dippen. SPECIES
-=======
+# Septoria knowltoniae Verwoerd & Dippen. SPECIES
 
 #### Status
 ACCEPTED

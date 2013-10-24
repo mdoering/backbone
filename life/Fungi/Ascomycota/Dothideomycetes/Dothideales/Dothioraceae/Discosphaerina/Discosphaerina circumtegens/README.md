@@ -1,5 +1,4 @@
-Discosphaerina circumtegens (Rostr.) M.E. Barr SPECIES
-=======
+# Discosphaerina circumtegens (Rostr.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

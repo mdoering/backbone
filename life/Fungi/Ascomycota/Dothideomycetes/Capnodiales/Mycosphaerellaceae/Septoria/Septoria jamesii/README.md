@@ -1,5 +1,4 @@
-Septoria jamesii Pammel & H.H. Hume SPECIES
-=======
+# Septoria jamesii Pammel & H.H. Hume SPECIES
 
 #### Status
 ACCEPTED

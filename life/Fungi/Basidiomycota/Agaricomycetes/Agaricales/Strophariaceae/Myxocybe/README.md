@@ -1,5 +1,4 @@
-Myxocybe GENUS
-=======
+# Myxocybe GENUS
 
 #### Status
 ACCEPTED

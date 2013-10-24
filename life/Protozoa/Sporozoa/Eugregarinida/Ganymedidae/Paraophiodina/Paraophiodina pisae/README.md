@@ -1,8 +1,7 @@
-Porospora pisae Léger & Dubosq, 1911 SPECIES
-=======
+# Paraophiodina pisae Léger & Dubosq, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

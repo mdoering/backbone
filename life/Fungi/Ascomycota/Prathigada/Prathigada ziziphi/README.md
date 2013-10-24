@@ -1,17 +1,16 @@
-Prathigada zizyphi A.V. Rao & K. Ramakr. SPECIES
-=======
+# Prathigada ziziphi A.V. Rao & K. Ramakr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 34: 60 (1965)
 
 #### Original name
-Prathigada zizyphi A.V. Rao & K. Ramakr.
+Prathigada ziziphi A.V. Rao & K. Ramakr.
 
 ### Remarks
 null

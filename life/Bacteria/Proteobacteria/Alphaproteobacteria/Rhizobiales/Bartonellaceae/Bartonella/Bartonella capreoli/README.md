@@ -1,5 +1,4 @@
-Bartonella capreoli Bermond et al., 2002 SPECIES
-=======
+# Bartonella capreoli Bermond et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Corticium violaceolividum subsp. violaceolividum SUBSPECIES
-=======
+# Corticium violaceolividum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 564 (1838)
+null
 
 #### Original name
-Corticium violaceolividum subsp. violaceolividum
+null
 
 ### Remarks
 null

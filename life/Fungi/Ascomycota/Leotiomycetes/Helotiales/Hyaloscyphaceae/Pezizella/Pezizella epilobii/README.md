@@ -1,5 +1,4 @@
-Pezizella epilobii Velen. SPECIES
-=======
+# Pezizella epilobii Velen. SPECIES
 
 #### Status
 ACCEPTED

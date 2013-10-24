@@ -1,5 +1,4 @@
-Colpoda gigas Conn, 1905 SPECIES
-=======
+# Colpoda gigas Conn, 1905 SPECIES
 
 #### Status
 ACCEPTED

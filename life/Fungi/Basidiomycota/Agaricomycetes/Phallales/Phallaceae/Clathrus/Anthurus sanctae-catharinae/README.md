@@ -1,5 +1,4 @@
-Anthurus sanctae-catharinae E. Fisch. SPECIES
-=======
+# Anthurus sanctae-catharinae E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

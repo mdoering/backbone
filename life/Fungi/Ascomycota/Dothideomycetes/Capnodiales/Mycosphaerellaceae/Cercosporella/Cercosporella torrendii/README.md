@@ -1,5 +1,4 @@
-Cercosporella torrendii Bres. SPECIES
-=======
+# Cercosporella torrendii Bres. SPECIES
 
 #### Status
 ACCEPTED

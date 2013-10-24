@@ -1,5 +1,4 @@
-Xylopezia Höhn. GENUS
-=======
+# Xylopezia Höhn. GENUS
 
 #### Status
 ACCEPTED

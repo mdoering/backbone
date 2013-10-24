@@ -1,5 +1,4 @@
-Botryosphaeria laricis (Wehm.) Arx & E. Müll. SPECIES
-=======
+# Botryosphaeria laricis (Wehm.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

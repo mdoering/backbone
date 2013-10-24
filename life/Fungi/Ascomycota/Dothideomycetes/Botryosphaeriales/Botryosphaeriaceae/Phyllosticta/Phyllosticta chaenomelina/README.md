@@ -1,5 +1,4 @@
-Phyllosticta chaenomelina Thüm. SPECIES
-=======
+# Phyllosticta chaenomelina Thüm. SPECIES
 
 #### Status
 ACCEPTED

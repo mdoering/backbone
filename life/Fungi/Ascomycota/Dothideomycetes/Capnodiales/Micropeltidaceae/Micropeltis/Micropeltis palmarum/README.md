@@ -1,5 +1,4 @@
-Micropeltis palmarum (J.M. Mend.) Bat. SPECIES
-=======
+# Micropeltis palmarum (J.M. Mend.) Bat. SPECIES
 
 #### Status
 ACCEPTED

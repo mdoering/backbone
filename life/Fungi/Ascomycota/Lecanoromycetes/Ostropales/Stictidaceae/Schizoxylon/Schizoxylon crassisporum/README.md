@@ -1,5 +1,4 @@
-Schizoxylon crassisporum (Speg.) Sherwood SPECIES
-=======
+# Schizoxylon crassisporum (Speg.) Sherwood SPECIES
 
 #### Status
 ACCEPTED

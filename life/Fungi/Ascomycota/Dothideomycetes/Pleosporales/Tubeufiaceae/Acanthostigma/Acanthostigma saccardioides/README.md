@@ -1,5 +1,4 @@
-Acanthostigma saccardioides (Ellis & G. Martin) Sacc. SPECIES
-=======
+# Acanthostigma saccardioides (Ellis & G. Martin) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glabrocyphella rubescens Rick, 1961 SPECIES
-=======
+# Glabrocyphella rubescens Rick, 1961 SPECIES
 
 #### Status
 ACCEPTED

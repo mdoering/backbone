@@ -1,5 +1,4 @@
-Janthinobacterium agaricidamnosum Lincoln et al., 1999 SPECIES
-=======
+# Janthinobacterium agaricidamnosum Lincoln et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

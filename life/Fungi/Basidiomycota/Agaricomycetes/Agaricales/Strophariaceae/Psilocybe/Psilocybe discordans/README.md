@@ -1,5 +1,4 @@
-Psilocybe discordans (Britzelm.) Sacc. SPECIES
-=======
+# Psilocybe discordans (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

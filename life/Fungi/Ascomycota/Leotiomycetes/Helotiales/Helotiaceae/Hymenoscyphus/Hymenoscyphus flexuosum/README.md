@@ -1,5 +1,4 @@
-Hymenoscyphus flexuosum (Massee) SPECIES
-=======
+# Hymenoscyphus flexuosum (Massee) SPECIES
 
 #### Status
 ACCEPTED

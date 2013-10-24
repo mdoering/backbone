@@ -1,5 +1,4 @@
-Panaeolus regis De Seynes SPECIES
-=======
+# Panaeolus regis De Seynes SPECIES
 
 #### Status
 ACCEPTED

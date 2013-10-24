@@ -1,17 +1,16 @@
-Fimaria leporum var. leporum VARIETY
-=======
+# Pseudombrophila leporum (Alb. & Schwein.) Brumm., 1995 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 331 (1934)
+A World-Monograph of the Genus Pseudombrophila (Pezizales, Ascomycotina) (Eching bei München), <i>Libri Botanici</i> <b>14</b> 43 (1995)
 
 #### Original name
-Fimaria leporum var. leporum
+Peziza granulosa Pers., 1801
 
 ### Remarks
 null

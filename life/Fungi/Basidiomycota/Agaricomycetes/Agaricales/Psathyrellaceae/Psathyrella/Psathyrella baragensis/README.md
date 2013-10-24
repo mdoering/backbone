@@ -1,5 +1,4 @@
-Psathyrella baragensis A.H. Sm. SPECIES
-=======
+# Psathyrella baragensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

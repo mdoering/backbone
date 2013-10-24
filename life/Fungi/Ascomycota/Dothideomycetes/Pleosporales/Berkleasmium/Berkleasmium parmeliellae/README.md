@@ -1,5 +1,4 @@
-Berkleasmium parmeliellae Etayo & Diederich SPECIES
-=======
+# Berkleasmium parmeliellae Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

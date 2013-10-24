@@ -1,5 +1,4 @@
-Attritasporites scabrus Combaz, 1967 SPECIES
-=======
+# Attritasporites scabrus Combaz, 1967 SPECIES
 
 #### Status
 ACCEPTED

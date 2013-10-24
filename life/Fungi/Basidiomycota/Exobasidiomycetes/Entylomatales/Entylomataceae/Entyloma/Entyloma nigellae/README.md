@@ -1,5 +1,4 @@
-Entyloma nigellae Cif. SPECIES
-=======
+# Entyloma nigellae Cif. SPECIES
 
 #### Status
 ACCEPTED

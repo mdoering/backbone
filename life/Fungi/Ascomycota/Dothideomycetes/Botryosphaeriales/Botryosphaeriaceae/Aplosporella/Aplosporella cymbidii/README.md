@@ -1,5 +1,4 @@
-Aplosporella cymbidii V.G. Rao & B.R.D. Yadav SPECIES
-=======
+# Aplosporella cymbidii V.G. Rao & B.R.D. Yadav SPECIES
 
 #### Status
 ACCEPTED

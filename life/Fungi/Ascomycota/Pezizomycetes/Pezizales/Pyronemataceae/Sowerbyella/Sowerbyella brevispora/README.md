@@ -1,5 +1,4 @@
-Sowerbyella brevispora Harmaja, 1984 SPECIES
-=======
+# Sowerbyella brevispora Harmaja, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinellus furfurellus (Berk. & Broome) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinellus furfurellus (Berk. & Broome) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

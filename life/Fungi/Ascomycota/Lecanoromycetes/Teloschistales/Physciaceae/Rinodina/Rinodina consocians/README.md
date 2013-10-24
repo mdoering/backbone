@@ -1,5 +1,4 @@
-Rinodina consocians H. Magn. SPECIES
-=======
+# Rinodina consocians H. Magn. SPECIES
 
 #### Status
 ACCEPTED

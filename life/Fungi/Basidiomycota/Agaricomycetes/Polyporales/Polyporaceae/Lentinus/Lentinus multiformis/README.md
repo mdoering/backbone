@@ -1,5 +1,4 @@
-Lentinus multiformis Berk. & Broome SPECIES
-=======
+# Lentinus multiformis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

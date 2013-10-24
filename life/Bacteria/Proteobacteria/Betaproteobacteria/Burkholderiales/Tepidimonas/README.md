@@ -1,5 +1,4 @@
-Tepidimonas Moreira et al., 2000 GENUS
-=======
+# Tepidimonas Moreira et al., 2000 GENUS
 
 #### Status
 ACCEPTED

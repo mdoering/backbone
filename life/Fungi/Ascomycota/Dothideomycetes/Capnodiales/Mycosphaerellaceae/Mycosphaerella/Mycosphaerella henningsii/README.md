@@ -1,17 +1,16 @@
-Cercospora henningsii Allesch., 1895 SPECIES
-=======
+# Mycosphaerella henningsii Sivan., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hennings, Die Pflanzenwelt Ost. Afrikas & der Nachbargebiete, Teil C 35 (1895)
+Trans. Br. mycol. Soc. 84(3): 552 (1985)
 
 #### Original name
-Cercospora henningsii Allesch., 1895
+Mycosphaerella manihotis Syd. & P. Syd., 1901
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gibberidea coronillae (Fr.) Kuntze SPECIES
-=======
+# Gibberidea coronillae (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillariella saviczii Singer SPECIES
-=======
+# Armillariella saviczii Singer SPECIES
 
 #### Status
 ACCEPTED

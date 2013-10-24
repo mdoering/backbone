@@ -1,5 +1,4 @@
-Gymnopilus psamminus (Berk.) Pegler SPECIES
-=======
+# Gymnopilus psamminus (Berk.) Pegler SPECIES
 
 #### Status
 ACCEPTED

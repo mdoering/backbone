@@ -1,5 +1,4 @@
-Bacidia circumspecta f. circumspecta FORM
-=======
+# Bacidia circumspecta (Norrl. & Nyl.) Malme SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bot. Notiser 140 (1895)
 
 #### Original name
-Bacidia circumspecta f. circumspecta
+Bacidia bacillifera var. circumspecta Norrl. & Nyl.
 
 ### Remarks
 null

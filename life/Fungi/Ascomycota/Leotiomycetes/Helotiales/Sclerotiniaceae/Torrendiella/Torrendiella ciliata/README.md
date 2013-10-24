@@ -1,14 +1,13 @@
-Dasyscyphus ciliata (Boud.) Sacc., 1928 SPECIES
-=======
+# Torrendiella ciliata Boud., 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 27: 133 (1911)
 
 #### Original name
 Torrendiella ciliata Boud., 1911

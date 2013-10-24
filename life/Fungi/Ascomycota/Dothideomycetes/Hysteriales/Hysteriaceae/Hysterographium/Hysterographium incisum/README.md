@@ -1,5 +1,4 @@
-Hysterographium incisum Ellis & Everh. SPECIES
-=======
+# Hysterographium incisum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

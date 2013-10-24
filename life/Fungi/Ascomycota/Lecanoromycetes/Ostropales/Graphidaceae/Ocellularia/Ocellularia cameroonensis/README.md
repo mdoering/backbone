@@ -1,5 +1,4 @@
-Ocellularia cameroonensis Frisch SPECIES
-=======
+# Ocellularia cameroonensis Frisch SPECIES
 
 #### Status
 ACCEPTED

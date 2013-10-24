@@ -1,5 +1,4 @@
-Phyllosticta amicta Ellis & Everh. SPECIES
-=======
+# Phyllosticta amicta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

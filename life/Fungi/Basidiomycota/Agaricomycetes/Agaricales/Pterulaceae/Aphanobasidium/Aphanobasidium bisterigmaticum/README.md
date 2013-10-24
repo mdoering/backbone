@@ -1,5 +1,4 @@
-Aphanobasidium bisterigmaticum Boidin & Gilles SPECIES
-=======
+# Aphanobasidium bisterigmaticum Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

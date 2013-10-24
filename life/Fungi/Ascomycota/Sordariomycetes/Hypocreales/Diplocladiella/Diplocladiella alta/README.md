@@ -1,5 +1,4 @@
-Diplocladiella alta R. Kirschner & Chee J. Chen SPECIES
-=======
+# Diplocladiella alta R. Kirschner & Chee J. Chen SPECIES
 
 #### Status
 ACCEPTED

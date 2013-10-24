@@ -1,5 +1,4 @@
-Ovularia chesneyae W.P. Golovina SPECIES
-=======
+# Ovularia chesneyae W.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

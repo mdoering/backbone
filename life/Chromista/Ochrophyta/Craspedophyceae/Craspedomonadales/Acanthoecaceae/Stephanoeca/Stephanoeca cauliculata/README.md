@@ -1,5 +1,4 @@
-Stephanoeca cauliculata Leadbeater, 1980 SPECIES
-=======
+# Stephanoeca cauliculata Leadbeater, 1980 SPECIES
 
 #### Status
 ACCEPTED

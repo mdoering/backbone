@@ -1,5 +1,4 @@
-Sporisorium panici-hirticaulis Vánky SPECIES
-=======
+# Sporisorium panici-hirticaulis Vánky SPECIES
 
 #### Status
 ACCEPTED

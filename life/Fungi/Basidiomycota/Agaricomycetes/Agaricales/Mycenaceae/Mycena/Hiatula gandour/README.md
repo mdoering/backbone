@@ -1,5 +1,4 @@
-Hiatula gandour (Har. & Pat.) Sacc. & Trotter SPECIES
-=======
+# Hiatula gandour (Har. & Pat.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

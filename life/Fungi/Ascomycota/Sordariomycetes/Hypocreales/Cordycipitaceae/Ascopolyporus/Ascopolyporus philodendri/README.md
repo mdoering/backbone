@@ -1,17 +1,16 @@
-Ascopolyporus philodendrus J.F. Bisch. SPECIES
-=======
+# Ascopolyporus philodendri J.F. Bisch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 97(3): 711 (2005)
 
 #### Original name
-Ascopolyporus philodendrus J.F. Bisch.
+Ascopolyporus philodendri J.F. Bisch.
 
 ### Remarks
 null

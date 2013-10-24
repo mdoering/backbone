@@ -1,5 +1,4 @@
-Polyporus atrovinosus Cooke SPECIES
-=======
+# Polyporus atrovinosus Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia nigromaculata Räsänen SPECIES
-=======
+# Buellia nigromaculata Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia pycnoclada var. pycnoclada VARIETY
-=======
+# Cladonia pycnoclada (Pers.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Linn. Soc. , London 9: 244 (1867)
 
 #### Original name
-Cladonia pycnoclada var. pycnoclada
+Cenomyce pycnoclada Pers.
 
 ### Remarks
 null

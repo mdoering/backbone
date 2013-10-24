@@ -1,5 +1,4 @@
-Lophiostoma ventricosum (Pers.) Sacc. SPECIES
-=======
+# Lophiostoma ventricosum (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

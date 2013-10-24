@@ -1,5 +1,4 @@
-Chilodon auricula Gourret & Roeser, 1887 SPECIES
-=======
+# Chilodon auricula Gourret & Roeser, 1887 SPECIES
 
 #### Status
 ACCEPTED

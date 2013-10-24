@@ -1,5 +1,4 @@
-Cillobacterium GENUS
-=======
+# Cillobacterium GENUS
 
 #### Status
 ACCEPTED

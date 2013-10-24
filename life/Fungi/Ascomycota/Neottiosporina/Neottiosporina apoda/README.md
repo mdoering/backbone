@@ -1,14 +1,13 @@
-Cryptostictis apoda Speg., 1910 SPECIES
-=======
+# Neottiosporina apoda (Speg.) Subram., 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 3 13: 374 (1910)
+Proc. natn. Acad. Sci. India, Sect. B, Biol. Sci. 27(4): 239 (1961)
 
 #### Original name
 Cryptostictis apoda Speg., 1910

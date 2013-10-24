@@ -1,5 +1,4 @@
-Cercospora polygonorum Cooke SPECIES
-=======
+# Cercospora polygonorum Cooke SPECIES
 
 #### Status
 ACCEPTED

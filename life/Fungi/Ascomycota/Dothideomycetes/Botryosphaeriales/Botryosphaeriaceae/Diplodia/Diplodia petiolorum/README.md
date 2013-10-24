@@ -1,5 +1,4 @@
-Diplodia petiolorum Sacc. SPECIES
-=======
+# Diplodia petiolorum Sacc. SPECIES
 
 #### Status
 ACCEPTED

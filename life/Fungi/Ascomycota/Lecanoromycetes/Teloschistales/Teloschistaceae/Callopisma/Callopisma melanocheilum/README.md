@@ -1,5 +1,4 @@
-Callopisma melanocheilum Malme SPECIES
-=======
+# Callopisma melanocheilum Malme SPECIES
 
 #### Status
 ACCEPTED

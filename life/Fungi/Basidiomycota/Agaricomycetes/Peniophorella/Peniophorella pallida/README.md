@@ -1,17 +1,16 @@
-Hyphoderma pallidum var. pallidum (Bres.) Donk VARIETY
-=======
+# Peniophorella pallida (Bres.) K.H. Larss., 2007 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus, Wageningen 27: 15 (1957)
+Mycol. Res. 111(2): 192 (2007)
 
 #### Original name
-Hyphoderma pallidum var. pallidum (Bres.) Donk
+null
 
 ### Remarks
 null

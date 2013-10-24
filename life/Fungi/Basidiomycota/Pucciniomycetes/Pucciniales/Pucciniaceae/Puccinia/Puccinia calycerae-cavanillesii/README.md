@@ -1,5 +1,4 @@
-Puccinia calycerae-cavanillesii (Speg.) Sacc. & D. Sacc. SPECIES
-=======
+# Puccinia calycerae-cavanillesii (Speg.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

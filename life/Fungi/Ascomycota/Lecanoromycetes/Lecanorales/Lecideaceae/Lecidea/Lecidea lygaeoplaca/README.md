@@ -1,5 +1,4 @@
-Lecidea lygaeoplaca Vain. SPECIES
-=======
+# Lecidea lygaeoplaca Vain. SPECIES
 
 #### Status
 ACCEPTED

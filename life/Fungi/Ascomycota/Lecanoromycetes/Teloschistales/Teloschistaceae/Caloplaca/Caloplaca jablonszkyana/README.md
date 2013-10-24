@@ -1,5 +1,4 @@
-Caloplaca jablonszkyana Szatala SPECIES
-=======
+# Caloplaca jablonszkyana Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptotrichum Corda, 1842 GENUS
-=======
+# Leptotrichum Corda, 1842 GENUS
 
 #### Status
 ACCEPTED

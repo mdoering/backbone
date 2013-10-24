@@ -1,5 +1,4 @@
-Dacrymyces pallens Ficinus SPECIES
-=======
+# Dacrymyces pallens Ficinus SPECIES
 
 #### Status
 ACCEPTED

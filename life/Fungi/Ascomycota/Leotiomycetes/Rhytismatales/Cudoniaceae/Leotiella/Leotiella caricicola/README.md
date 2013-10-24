@@ -1,5 +1,4 @@
-Leotiella caricicola Plöttn. SPECIES
-=======
+# Leotiella caricicola Plöttn. SPECIES
 
 #### Status
 ACCEPTED

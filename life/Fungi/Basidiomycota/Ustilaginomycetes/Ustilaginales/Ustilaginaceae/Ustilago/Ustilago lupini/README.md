@@ -1,5 +1,4 @@
-Ustilago lupini Sousa da Câmara SPECIES
-=======
+# Ustilago lupini Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

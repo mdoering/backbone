@@ -1,5 +1,4 @@
-Sphaerella hyperopta Rehm SPECIES
-=======
+# Sphaerella hyperopta Rehm SPECIES
 
 #### Status
 ACCEPTED

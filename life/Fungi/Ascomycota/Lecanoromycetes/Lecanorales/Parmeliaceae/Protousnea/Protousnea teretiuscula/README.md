@@ -1,5 +1,4 @@
-Protousnea teretiuscula Krog SPECIES
-=======
+# Protousnea teretiuscula Krog SPECIES
 
 #### Status
 ACCEPTED

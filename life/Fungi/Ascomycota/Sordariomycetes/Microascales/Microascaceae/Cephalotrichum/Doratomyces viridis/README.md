@@ -1,5 +1,4 @@
-Doratomyces viridis Corda SPECIES
-=======
+# Doratomyces viridis Corda SPECIES
 
 #### Status
 ACCEPTED

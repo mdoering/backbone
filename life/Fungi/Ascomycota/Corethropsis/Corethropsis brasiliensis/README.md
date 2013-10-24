@@ -1,5 +1,4 @@
-Corethropsis brasiliensis Sacc. SPECIES
-=======
+# Corethropsis brasiliensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia ferulae-turkestanicae Korbonsk. SPECIES
-=======
+# Puccinia ferulae-turkestanicae Korbonsk. SPECIES
 
 #### Status
 ACCEPTED

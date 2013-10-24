@@ -1,5 +1,4 @@
-Actinobacillus succinogenes Guettler et al., 1999 SPECIES
-=======
+# Actinobacillus succinogenes Guettler et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

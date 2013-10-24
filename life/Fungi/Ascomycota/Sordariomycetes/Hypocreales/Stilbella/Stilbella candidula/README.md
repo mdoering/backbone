@@ -1,5 +1,4 @@
-Stilbella candidula (Penz. & Sacc.) Overeem & D. Overeem SPECIES
-=======
+# Stilbella candidula (Penz. & Sacc.) Overeem & D. Overeem SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia aucubae (Sacc.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia aucubae (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

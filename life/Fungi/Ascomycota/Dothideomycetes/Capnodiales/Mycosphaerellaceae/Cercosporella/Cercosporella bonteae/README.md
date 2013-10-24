@@ -1,5 +1,4 @@
-Cercosporella bonteae Manoliu & Mítítíuc SPECIES
-=======
+# Cercosporella bonteae Manoliu & Mítítíuc SPECIES
 
 #### Status
 ACCEPTED

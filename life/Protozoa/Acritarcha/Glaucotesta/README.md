@@ -1,5 +1,4 @@
-Glaucotesta Vavrdová, 1982 GENUS
-=======
+# Glaucotesta Vavrdová, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptophyma atrum var. atrum VARIETY
-=======
+# Leptophyma atrum (C. Moreau & M. Moreau) A.B. Pawar & M.S. Patil SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Indian Phytopath. 42(2): 254 (1989)
 
 #### Original name
-Leptophyma atrum var. atrum
+Plectomyriangium atrum C. Moreau & M. Moreau
 
 ### Remarks
 null

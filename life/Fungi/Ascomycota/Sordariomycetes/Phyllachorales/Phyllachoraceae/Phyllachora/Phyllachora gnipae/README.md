@@ -1,5 +1,4 @@
-Phyllachora gnipae F. Stevens & Dalbey SPECIES
-=======
+# Phyllachora gnipae F. Stevens & Dalbey SPECIES
 
 #### Status
 ACCEPTED

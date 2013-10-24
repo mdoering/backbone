@@ -1,5 +1,4 @@
-Salegentibacter agarivorans Nedashkovskaya et al., 2006 SPECIES
-=======
+# Salegentibacter agarivorans Nedashkovskaya et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

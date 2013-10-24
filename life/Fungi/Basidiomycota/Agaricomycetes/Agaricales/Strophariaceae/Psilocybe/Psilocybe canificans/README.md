@@ -1,5 +1,4 @@
-Psilocybe canificans (Cooke) Sacc. SPECIES
-=======
+# Psilocybe canificans (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

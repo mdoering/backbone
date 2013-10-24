@@ -1,5 +1,4 @@
-Coleosporium paraguayense Speg. SPECIES
-=======
+# Coleosporium paraguayense Speg. SPECIES
 
 #### Status
 ACCEPTED

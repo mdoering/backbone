@@ -1,5 +1,4 @@
-Pleurotus cinereoalbus Pat. & Gaillard SPECIES
-=======
+# Pleurotus cinereoalbus Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

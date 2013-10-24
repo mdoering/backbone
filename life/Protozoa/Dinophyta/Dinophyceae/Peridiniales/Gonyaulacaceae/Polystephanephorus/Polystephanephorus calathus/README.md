@@ -1,5 +1,4 @@
-Polystephanephorus calathus (Sarjeant, 1961) Downie & Sarjeant, 1965 SPECIES
-=======
+# Polystephanephorus calathus (Sarjeant, 1961) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

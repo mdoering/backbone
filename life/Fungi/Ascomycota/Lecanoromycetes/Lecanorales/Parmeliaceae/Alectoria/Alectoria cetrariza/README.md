@@ -1,5 +1,4 @@
-Alectoria cetrariza Nyl. SPECIES
-=======
+# Alectoria cetrariza Nyl. SPECIES
 
 #### Status
 ACCEPTED

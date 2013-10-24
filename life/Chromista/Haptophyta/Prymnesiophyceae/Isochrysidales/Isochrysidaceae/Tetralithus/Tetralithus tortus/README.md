@@ -1,5 +1,4 @@
-Tetralithus tortus J.B. Risatti SPECIES
-=======
+# Tetralithus tortus J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

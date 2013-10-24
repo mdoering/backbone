@@ -1,5 +1,4 @@
-Ramonia elixii Kalb SPECIES
-=======
+# Ramonia elixii Kalb SPECIES
 
 #### Status
 ACCEPTED

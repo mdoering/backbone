@@ -1,5 +1,4 @@
-Lanzia microserotina W.Y. Zhuang SPECIES
-=======
+# Lanzia microserotina W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dizonyctus GENUS
-=======
+# Dizonyctus GENUS
 
 #### Status
 ACCEPTED

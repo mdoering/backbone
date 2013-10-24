@@ -1,5 +1,4 @@
-Mollisia ephemera Rehm SPECIES
-=======
+# Mollisia ephemera Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratium divaricatum (Lemmermann, 1900) Kofoid, 1908 SPECIES
-=======
+# Ceratium divaricatum (Lemmermann, 1900) Kofoid, 1908 SPECIES
 
 #### Status
 ACCEPTED

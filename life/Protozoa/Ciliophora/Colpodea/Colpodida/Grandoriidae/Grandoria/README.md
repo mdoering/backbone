@@ -1,5 +1,4 @@
-Grandoria Corliss, 1960 GENUS
-=======
+# Grandoria Corliss, 1960 GENUS
 
 #### Status
 ACCEPTED

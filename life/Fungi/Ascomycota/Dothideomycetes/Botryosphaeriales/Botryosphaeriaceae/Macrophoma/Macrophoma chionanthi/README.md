@@ -1,5 +1,4 @@
-Macrophoma chionanthi C.C. Chen SPECIES
-=======
+# Macrophoma chionanthi C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

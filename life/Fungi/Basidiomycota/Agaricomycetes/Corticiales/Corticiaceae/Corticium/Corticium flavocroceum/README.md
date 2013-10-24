@@ -1,5 +1,4 @@
-Corticium flavocroceum Bres. SPECIES
-=======
+# Corticium flavocroceum Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Famintzinia sphaerosperma (Boedijn) Lado, 2001 SPECIES
-=======
+# Ceratiomyxa sphaerosperma Boedijn, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Ceratiomyxa sphaerosperma Boedijn, 1927
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Galera westii (Murrill) Murrill SPECIES
-=======
+# Galera westii (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

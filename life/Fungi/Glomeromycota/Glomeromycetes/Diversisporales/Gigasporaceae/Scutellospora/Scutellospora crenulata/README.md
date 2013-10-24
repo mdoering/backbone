@@ -1,5 +1,4 @@
-Scutellospora crenulata R.A. Herrera, Cuenca & C. Walker, 2001 SPECIES
-=======
+# Scutellospora crenulata R.A. Herrera, Cuenca & C. Walker, 2001 SPECIES
 
 #### Status
 ACCEPTED

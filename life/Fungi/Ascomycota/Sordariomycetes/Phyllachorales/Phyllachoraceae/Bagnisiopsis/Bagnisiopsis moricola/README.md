@@ -1,14 +1,13 @@
-Dothidea moricola Cooke & Ellis, 1877 SPECIES
-=======
+# Bagnisiopsis moricola (Cooke & Ellis) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 5(no. 35): 95 (1877)
+Annls mycol. 13(3/4): 293 (1915)
 
 #### Original name
 Dothidea moricola Cooke & Ellis, 1877

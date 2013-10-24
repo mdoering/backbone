@@ -1,5 +1,4 @@
-Coprinus stenophyllus Mont. SPECIES
-=======
+# Coprinus stenophyllus Mont. SPECIES
 
 #### Status
 ACCEPTED

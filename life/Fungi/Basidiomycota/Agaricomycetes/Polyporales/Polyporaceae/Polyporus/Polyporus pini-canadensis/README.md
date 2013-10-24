@@ -1,5 +1,4 @@
-Polyporus pini-canadensis Schwein. SPECIES
-=======
+# Polyporus pini-canadensis Schwein. SPECIES
 
 #### Status
 ACCEPTED

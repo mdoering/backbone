@@ -1,5 +1,4 @@
-Zahlbrucknerella granitica Sambo SPECIES
-=======
+# Zahlbrucknerella granitica Sambo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcoxylon spathulatum (Berk. & Broome) Petch SPECIES
-=======
+# Sarcoxylon spathulatum (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

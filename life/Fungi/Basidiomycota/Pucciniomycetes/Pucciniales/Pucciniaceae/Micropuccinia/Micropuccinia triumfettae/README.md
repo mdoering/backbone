@@ -1,5 +1,4 @@
-Micropuccinia triumfettae (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia triumfettae (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

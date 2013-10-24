@@ -1,5 +1,4 @@
-Omphalina chondripes (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Omphalina chondripes (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

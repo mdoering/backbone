@@ -1,5 +1,4 @@
-Technitella nanshaensis Zheng & Fu, 2001 SPECIES
-=======
+# Technitella nanshaensis Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Entoloma albogrisea (Peck) Redhead SPECIES
-=======
+# Entoloma albogriseum (Peck) Redhead SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

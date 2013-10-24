@@ -1,17 +1,16 @@
-Lembosia drimydis var. baccharidincola Rehm, 1907 VARIETY
-=======
+# Prillieuxina baccharidincola (Rehm) Petr., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 4: 536 (1950)
 
 #### Original name
-null
+Lembosia baccharidincola Rehm
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trichohleria quadrigellensis Flageolet & Sacc. SPECIES
-=======
+# Trichohleria quadrigellensis Flageolet & Sacc. SPECIES
 
 #### Status
 ACCEPTED

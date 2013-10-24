@@ -1,5 +1,4 @@
-Tulostoma dumeticola Long SPECIES
-=======
+# Tulostoma dumeticola Long SPECIES
 
 #### Status
 ACCEPTED

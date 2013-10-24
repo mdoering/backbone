@@ -1,5 +1,4 @@
-Uromycladium bisporum McAlpine, 1905 SPECIES
-=======
+# Uromycladium bisporum McAlpine, 1905 SPECIES
 
 #### Status
 ACCEPTED

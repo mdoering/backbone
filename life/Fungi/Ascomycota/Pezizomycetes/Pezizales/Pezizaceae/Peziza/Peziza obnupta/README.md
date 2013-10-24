@@ -1,5 +1,4 @@
-Peziza obnupta P. Karst. SPECIES
-=======
+# Peziza obnupta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

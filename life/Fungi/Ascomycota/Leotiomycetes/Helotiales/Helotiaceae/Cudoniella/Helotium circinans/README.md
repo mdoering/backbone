@@ -1,5 +1,4 @@
-Helotium circinans Sw. SPECIES
-=======
+# Helotium circinans Sw. SPECIES
 
 #### Status
 ACCEPTED

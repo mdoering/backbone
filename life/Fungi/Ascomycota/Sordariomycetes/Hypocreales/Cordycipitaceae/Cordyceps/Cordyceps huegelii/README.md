@@ -1,5 +1,4 @@
-Cordyceps huegelii Corda SPECIES
-=======
+# Cordyceps huegelii Corda SPECIES
 
 #### Status
 ACCEPTED

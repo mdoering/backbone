@@ -1,5 +1,4 @@
-Puccinia guaranitica Speg. SPECIES
-=======
+# Puccinia guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

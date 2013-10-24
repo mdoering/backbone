@@ -1,5 +1,4 @@
-Wallrothiella episphaeria Petch SPECIES
-=======
+# Wallrothiella episphaeria Petch SPECIES
 
 #### Status
 ACCEPTED

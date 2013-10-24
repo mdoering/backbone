@@ -1,5 +1,4 @@
-Paranophrys marina Thompson & Berger, 1965 SPECIES
-=======
+# Paranophrys marina Thompson & Berger, 1965 SPECIES
 
 #### Status
 ACCEPTED

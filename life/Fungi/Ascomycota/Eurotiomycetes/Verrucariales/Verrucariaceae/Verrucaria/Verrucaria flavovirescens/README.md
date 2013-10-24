@@ -1,5 +1,4 @@
-Verrucaria flavovirescens (Wulfen) Hoffm. SPECIES
-=======
+# Verrucaria flavovirescens (Wulfen) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

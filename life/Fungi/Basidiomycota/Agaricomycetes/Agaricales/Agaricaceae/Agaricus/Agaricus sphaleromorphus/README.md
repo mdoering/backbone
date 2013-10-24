@@ -1,5 +1,4 @@
-Agaricus sphaleromorphus Schumach. SPECIES
-=======
+# Agaricus sphaleromorphus Schumach. SPECIES
 
 #### Status
 ACCEPTED

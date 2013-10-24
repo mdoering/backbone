@@ -1,5 +1,4 @@
-Methanogenium frittonii Harris et al., 1996 SPECIES
-=======
+# Methanogenium frittonii Harris et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

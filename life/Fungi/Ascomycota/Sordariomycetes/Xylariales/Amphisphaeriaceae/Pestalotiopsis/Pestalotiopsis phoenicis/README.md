@@ -1,5 +1,4 @@
-Pestalotiopsis phoenicis (Vize) Y.X. Chen SPECIES
-=======
+# Pestalotiopsis phoenicis (Vize) Y.X. Chen SPECIES
 
 #### Status
 ACCEPTED

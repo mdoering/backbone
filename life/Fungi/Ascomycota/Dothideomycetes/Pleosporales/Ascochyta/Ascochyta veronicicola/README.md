@@ -1,5 +1,4 @@
-Ascochyta veronicicola Melnik SPECIES
-=======
+# Ascochyta veronicicola Melnik SPECIES
 
 #### Status
 ACCEPTED

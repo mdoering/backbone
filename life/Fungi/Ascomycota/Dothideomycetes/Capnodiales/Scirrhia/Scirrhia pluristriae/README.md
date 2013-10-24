@@ -1,5 +1,4 @@
-Scirrhia pluristriae R. Sprague SPECIES
-=======
+# Scirrhia pluristriae R. Sprague SPECIES
 
 #### Status
 ACCEPTED

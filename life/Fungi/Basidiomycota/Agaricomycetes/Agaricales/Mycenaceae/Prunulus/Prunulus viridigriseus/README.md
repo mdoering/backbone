@@ -1,5 +1,4 @@
-Prunulus viridigriseus Murrill SPECIES
-=======
+# Prunulus viridigriseus Murrill SPECIES
 
 #### Status
 ACCEPTED

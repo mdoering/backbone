@@ -1,5 +1,4 @@
-Cortinarius alterplex Reumaux SPECIES
-=======
+# Cortinarius alterplex Reumaux SPECIES
 
 #### Status
 ACCEPTED

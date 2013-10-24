@@ -1,5 +1,4 @@
-Asterothyrium subargenteum L.I. Ferraro & Lücking SPECIES
-=======
+# Asterothyrium subargenteum L.I. Ferraro & Lücking SPECIES
 
 #### Status
 ACCEPTED

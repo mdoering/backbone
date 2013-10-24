@@ -1,5 +1,4 @@
-Napicladium musae Sawada SPECIES
-=======
+# Napicladium musae Sawada SPECIES
 
 #### Status
 ACCEPTED

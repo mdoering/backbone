@@ -1,5 +1,4 @@
-Pyrenochaeta clithridis Moesz SPECIES
-=======
+# Pyrenochaeta clithridis Moesz SPECIES
 
 #### Status
 ACCEPTED

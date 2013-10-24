@@ -1,17 +1,16 @@
-Dactylaria agumbense B.S. Reddy, Manohar., D.K. Agarwal & V. Rao SPECIES
-=======
+# Dactylaria agumbensis B.S. Reddy, Manohar., D.K. Agarwal & V. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 55(2): 213 (2002)
 
 #### Original name
-Dactylaria agumbense B.S. Reddy, Manohar., D.K. Agarwal & V. Rao
+Dactylaria agumbensis B.S. Reddy, Manohar., D.K. Agarwal & V. Rao
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cothurnia ceramicola Kahl, 1933 SPECIES
-=======
+# Cothurnia ceramicola Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

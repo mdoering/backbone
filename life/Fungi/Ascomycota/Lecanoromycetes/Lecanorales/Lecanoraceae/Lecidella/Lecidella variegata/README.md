@@ -1,5 +1,4 @@
-Lecidella variegata (Fr.) Arnold SPECIES
-=======
+# Lecidella variegata (Fr.) Arnold SPECIES
 
 #### Status
 ACCEPTED

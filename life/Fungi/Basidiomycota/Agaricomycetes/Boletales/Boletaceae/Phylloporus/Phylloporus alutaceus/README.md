@@ -1,5 +1,4 @@
-Phylloporus alutaceus Lebedeva SPECIES
-=======
+# Phylloporus alutaceus Lebedeva SPECIES
 
 #### Status
 ACCEPTED

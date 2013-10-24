@@ -1,5 +1,4 @@
-Diplodina eschseholtziae Oudem. SPECIES
-=======
+# Diplodina eschseholtziae Oudem. SPECIES
 
 #### Status
 ACCEPTED

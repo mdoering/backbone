@@ -1,5 +1,4 @@
-Wetzelodinium Deflandre GENUS
-=======
+# Wetzelodinium Deflandre GENUS
 
 #### Status
 ACCEPTED

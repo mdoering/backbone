@@ -1,5 +1,4 @@
-Cintractia striata G.P. Clinton & Zundel SPECIES
-=======
+# Cintractia striata G.P. Clinton & Zundel SPECIES
 
 #### Status
 ACCEPTED

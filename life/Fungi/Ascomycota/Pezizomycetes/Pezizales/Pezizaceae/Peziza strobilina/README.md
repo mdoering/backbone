@@ -1,5 +1,4 @@
-Peziza strobilina var. strobilina VARIETY
-=======
+# Peziza strobilina Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycol. eur. (Erlanga) 1: 309 (1822)
 
 #### Original name
-Peziza strobilina var. strobilina
+Peziza strobilina Pers.
 
 ### Remarks
 null

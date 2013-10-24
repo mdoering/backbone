@@ -1,5 +1,4 @@
-Wagnerella Mereschkowsky, 1878 GENUS
-=======
+# Wagnerella Mereschkowsky, 1878 GENUS
 
 #### Status
 ACCEPTED

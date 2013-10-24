@@ -1,8 +1,7 @@
-Willia saturnus (Klöcker) E.C. Hansen, 1904 SPECIES
-=======
+# Cyberlindnera saturnus (Klöcker) Minter, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Saccharomyces saturnus Klöcker, 1902
 
 ### Remarks
 null

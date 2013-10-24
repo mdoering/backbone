@@ -1,5 +1,4 @@
-Chiodecton roseotinctum (Ehrh.) SPECIES
-=======
+# Chiodecton roseotinctum (Ehrh.) SPECIES
 
 #### Status
 ACCEPTED

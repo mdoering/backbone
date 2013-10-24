@@ -1,5 +1,4 @@
-Craterellus orinocensis Pat. & Gaillard SPECIES
-=======
+# Craterellus orinocensis Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

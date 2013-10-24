@@ -1,5 +1,4 @@
-Dicaeoma pseudocymopteri (Holw.) Arthur SPECIES
-=======
+# Dicaeoma pseudocymopteri (Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

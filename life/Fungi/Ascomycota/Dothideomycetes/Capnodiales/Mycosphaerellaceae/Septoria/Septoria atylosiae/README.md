@@ -1,5 +1,4 @@
-Septoria atylosiae Pandotra & Ganguly SPECIES
-=======
+# Septoria atylosiae Pandotra & Ganguly SPECIES
 
 #### Status
 ACCEPTED

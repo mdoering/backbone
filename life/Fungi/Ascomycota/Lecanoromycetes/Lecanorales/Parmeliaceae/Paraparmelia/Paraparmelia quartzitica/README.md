@@ -1,5 +1,4 @@
-Paraparmelia quartzitica Aptroot SPECIES
-=======
+# Paraparmelia quartzitica Aptroot SPECIES
 
 #### Status
 ACCEPTED

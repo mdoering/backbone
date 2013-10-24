@@ -1,5 +1,4 @@
-Foliopollenites spinosus Sierotin SPECIES
-=======
+# Foliopollenites spinosus Sierotin SPECIES
 
 #### Status
 ACCEPTED

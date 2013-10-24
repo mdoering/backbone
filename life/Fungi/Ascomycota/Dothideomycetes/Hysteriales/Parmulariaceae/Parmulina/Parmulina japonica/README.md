@@ -1,5 +1,4 @@
-Parmulina japonica I. Hino & Katum. SPECIES
-=======
+# Parmulina japonica I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

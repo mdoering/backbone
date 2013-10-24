@@ -1,5 +1,4 @@
-Omphalina sequoiarum Murrill SPECIES
-=======
+# Omphalina sequoiarum Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Durietzia GENUS
-=======
+# Durietzia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladobotryum elegans G. Arnaud SPECIES
-=======
+# Cladobotryum elegans G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

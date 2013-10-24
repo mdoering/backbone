@@ -1,5 +1,4 @@
-Agaricus australiensis Hansf. SPECIES
-=======
+# Agaricus australiensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

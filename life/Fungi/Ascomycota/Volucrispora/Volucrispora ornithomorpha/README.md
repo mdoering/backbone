@@ -1,14 +1,13 @@
-Titaea ornithomorpha Trotter SPECIES
-=======
+# Volucrispora ornithomorpha (Trotter) Haskins, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 2: 534 (1904)
+Can. J. Bot. 4: 278 (1958)
 
 #### Original name
 Titaea ornithomorpha Trotter

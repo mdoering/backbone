@@ -1,5 +1,4 @@
-Lampasa GENUS
-=======
+# Lampasa GENUS
 
 #### Status
 ACCEPTED

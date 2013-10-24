@@ -1,5 +1,4 @@
-Abaphospora agnocystis Kirschst. SPECIES
-=======
+# Abaphospora agnocystis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

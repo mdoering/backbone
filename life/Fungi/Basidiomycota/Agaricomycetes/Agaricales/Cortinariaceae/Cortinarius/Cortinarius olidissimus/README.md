@@ -1,5 +1,4 @@
-Cortinarius olidissimus Ripart SPECIES
-=======
+# Cortinarius olidissimus Ripart SPECIES
 
 #### Status
 ACCEPTED

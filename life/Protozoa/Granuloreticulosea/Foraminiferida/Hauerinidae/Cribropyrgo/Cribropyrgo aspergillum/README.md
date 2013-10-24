@@ -1,8 +1,7 @@
-Triloculina aspergillum Schlumberger, 1892 SPECIES
-=======
+# Cribropyrgo aspergillum (Sclumberger, 1892) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,17 +1,16 @@
-Alliospora sapucayae Pim SPECIES
-=======
+# Alliospora sapucaya Pim SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Bot. , London 21: (1883)
 
 #### Original name
-Alliospora sapucayae Pim
+Alliospora sapucaya Pim
 
 ### Remarks
 null

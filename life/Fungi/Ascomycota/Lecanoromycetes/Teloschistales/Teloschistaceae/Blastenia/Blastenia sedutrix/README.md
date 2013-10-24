@@ -1,5 +1,4 @@
-Blastenia sedutrix (Stizenb.) Zahlbr. SPECIES
-=======
+# Blastenia sedutrix (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

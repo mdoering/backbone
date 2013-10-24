@@ -1,5 +1,4 @@
-Neostreptotheca subindica von Stosch SPECIES
-=======
+# Neostreptotheca subindica von Stosch SPECIES
 
 #### Status
 ACCEPTED

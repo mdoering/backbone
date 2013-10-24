@@ -1,5 +1,4 @@
-Cystidiodontia isabellina (Berk. & Broome) Hjortstam & Ryvarden, 1985 SPECIES
-=======
+# Cystidiodontia isabellina (Berk. & Broome) Hjortstam & Ryvarden, 1985 SPECIES
 
 #### Status
 ACCEPTED

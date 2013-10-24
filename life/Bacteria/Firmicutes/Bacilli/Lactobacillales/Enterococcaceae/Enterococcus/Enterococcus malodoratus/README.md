@@ -1,5 +1,4 @@
-Enterococcus malodoratus (ex Pette, 1955) Collins et al., 1984 SPECIES
-=======
+# Enterococcus malodoratus (ex Pette, 1955) Collins et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

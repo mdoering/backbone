@@ -1,5 +1,4 @@
-Vermicularia herbarum f. herbarum FORM
-=======
+# Vermicularia herbarum Westend. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Vermicularia herbarum f. herbarum
+Vermicularia herbarum Westend.
 
 ### Remarks
 null

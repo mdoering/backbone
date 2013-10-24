@@ -1,5 +1,4 @@
-Kahliella Corliss, 1960 GENUS
-=======
+# Kahliella Corliss, 1960 GENUS
 
 #### Status
 ACCEPTED

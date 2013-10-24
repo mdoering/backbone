@@ -1,5 +1,4 @@
-Russula conviviales Sarnari SPECIES
-=======
+# Russula conviviales Sarnari SPECIES
 
 #### Status
 ACCEPTED

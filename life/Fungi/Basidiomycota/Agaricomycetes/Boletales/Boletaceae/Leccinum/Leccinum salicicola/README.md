@@ -1,5 +1,4 @@
-Leccinum salicicola Watling SPECIES
-=======
+# Leccinum salicicola Watling SPECIES
 
 #### Status
 ACCEPTED

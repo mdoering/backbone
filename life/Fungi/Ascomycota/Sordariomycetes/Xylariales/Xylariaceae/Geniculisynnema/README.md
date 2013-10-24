@@ -1,5 +1,4 @@
-Geniculisynnema Okane & Nakagiri GENUS
-=======
+# Geniculisynnema Okane & Nakagiri GENUS
 
 #### Status
 ACCEPTED

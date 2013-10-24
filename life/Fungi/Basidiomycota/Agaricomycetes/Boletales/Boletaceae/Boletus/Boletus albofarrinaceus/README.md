@@ -1,5 +1,4 @@
-Boletus albofarrinaceus SPECIES
-=======
+# Boletus albofarrinaceus SPECIES
 
 #### Status
 ACCEPTED

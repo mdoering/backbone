@@ -1,5 +1,4 @@
-Selenophoma pulsatillae Naumov SPECIES
-=======
+# Selenophoma pulsatillae Naumov SPECIES
 
 #### Status
 ACCEPTED

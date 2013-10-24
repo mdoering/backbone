@@ -1,5 +1,4 @@
-Pseudocyphellaria santessonii D. J. Galloway SPECIES
-=======
+# Pseudocyphellaria santessonii D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

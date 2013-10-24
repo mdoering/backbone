@@ -1,5 +1,4 @@
-Coccocarpia azurella Nyl. SPECIES
-=======
+# Coccocarpia azurella Nyl. SPECIES
 
 #### Status
 ACCEPTED

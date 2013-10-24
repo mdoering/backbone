@@ -1,5 +1,4 @@
-Pseudouroleptus humicola SPECIES
-=======
+# Pseudouroleptus humicola SPECIES
 
 #### Status
 ACCEPTED

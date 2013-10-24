@@ -1,5 +1,4 @@
-Planktoniella F.Schütt, 1892 GENUS
-=======
+# Planktoniella F.Schütt, 1892 GENUS
 
 #### Status
 ACCEPTED

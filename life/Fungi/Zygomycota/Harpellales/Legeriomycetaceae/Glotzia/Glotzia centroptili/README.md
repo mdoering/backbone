@@ -1,5 +1,4 @@
-Glotzia centroptili M. Gauthier ex Manier & Lichtw., 1970 SPECIES
-=======
+# Glotzia centroptili M. Gauthier ex Manier & Lichtw., 1970 SPECIES
 
 #### Status
 ACCEPTED

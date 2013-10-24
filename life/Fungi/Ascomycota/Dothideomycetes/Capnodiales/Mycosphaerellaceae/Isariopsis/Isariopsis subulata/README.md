@@ -1,5 +1,4 @@
-Isariopsis subulata Ellis & Everh. SPECIES
-=======
+# Isariopsis subulata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

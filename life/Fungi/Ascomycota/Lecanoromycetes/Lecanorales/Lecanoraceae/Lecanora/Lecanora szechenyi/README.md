@@ -1,8 +1,7 @@
-Lecanora szechenyii (Vain.) Hue SPECIES
-=======
+# Lecanora szechenyi (Vain.) Hue SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

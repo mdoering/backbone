@@ -1,5 +1,4 @@
-Phlegmacium legitimum (Britzelm.) M.M. Moser SPECIES
-=======
+# Phlegmacium legitimum (Britzelm.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

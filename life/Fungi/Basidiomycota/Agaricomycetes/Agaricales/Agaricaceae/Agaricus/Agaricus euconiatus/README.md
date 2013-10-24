@@ -1,5 +1,4 @@
-Agaricus euconiatus Berk. & Broome SPECIES
-=======
+# Agaricus euconiatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

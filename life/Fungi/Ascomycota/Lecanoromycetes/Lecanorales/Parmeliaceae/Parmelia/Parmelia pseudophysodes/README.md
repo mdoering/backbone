@@ -1,5 +1,4 @@
-Parmelia pseudophysodes Asahina SPECIES
-=======
+# Parmelia pseudophysodes Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periholosticha wilberti SPECIES
-=======
+# Periholosticha wilberti SPECIES
 
 #### Status
 ACCEPTED

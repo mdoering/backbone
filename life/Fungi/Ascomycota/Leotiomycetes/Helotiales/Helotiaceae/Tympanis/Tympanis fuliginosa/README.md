@@ -1,5 +1,4 @@
-Tympanis fuliginosa Wallr. SPECIES
-=======
+# Tympanis fuliginosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

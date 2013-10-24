@@ -1,5 +1,4 @@
-Xerula strigosa Zhu L. Yang, L. Wang & G.M. Muell. SPECIES
-=======
+# Xerula strigosa Zhu L. Yang, L. Wang & G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

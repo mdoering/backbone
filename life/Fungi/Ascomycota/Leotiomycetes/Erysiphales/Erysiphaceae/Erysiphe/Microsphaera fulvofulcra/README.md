@@ -1,5 +1,4 @@
-Microsphaera fulvofulcra Cooke SPECIES
-=======
+# Microsphaera fulvofulcra Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Colletotrichum mirabilis (Bres.) S. Ahmad SPECIES
-=======
+# Colletotrichum mirabile (Bres.) S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungi of West Pakistan (Biol. Soc. Pakistan Monogr. 1) 94 (1956)
 
 #### Original name
 Gloeosporium mirabilis Bres.

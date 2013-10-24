@@ -1,5 +1,4 @@
-Reticulofenestra tenuistriata (Kamptner) E. Martini SPECIES
-=======
+# Reticulofenestra tenuistriata (Kamptner) E. Martini SPECIES
 
 #### Status
 ACCEPTED

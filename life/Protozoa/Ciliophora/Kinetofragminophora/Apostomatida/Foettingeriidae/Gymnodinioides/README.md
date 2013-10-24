@@ -1,14 +1,13 @@
-Gymnodiniodes Minkiewicz, 1912 GENUS
-=======
+# Gymnodinioides Minkiewicz, 1912 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+C. R. Acad. Sci. Paris, 155, 513.
 
 #### Original name
 null

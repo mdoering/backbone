@@ -1,5 +1,4 @@
-Fusicoccum tiliae Ellis & Everh. SPECIES
-=======
+# Fusicoccum tiliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

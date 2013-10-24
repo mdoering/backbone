@@ -1,5 +1,4 @@
-Placolecanora cartilaginea (Ach.) Räsänen SPECIES
-=======
+# Placolecanora cartilaginea (Ach.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia terskei Domashova SPECIES
-=======
+# Ramularia terskei Domashova SPECIES
 
 #### Status
 ACCEPTED

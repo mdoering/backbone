@@ -1,5 +1,4 @@
-Omphalodina peltata (Ramond) Follmann & Redón SPECIES
-=======
+# Omphalodina peltata (Ramond) Follmann & Redón SPECIES
 
 #### Status
 ACCEPTED

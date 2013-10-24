@@ -1,5 +1,4 @@
-Meliola manihoticola Henn. SPECIES
-=======
+# Meliola manihoticola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyedrosphaeridium B.V. Timofeev, 1966 GENUS
-=======
+# Polyedrosphaeridium B.V. Timofeev, 1966 GENUS
 
 #### Status
 ACCEPTED

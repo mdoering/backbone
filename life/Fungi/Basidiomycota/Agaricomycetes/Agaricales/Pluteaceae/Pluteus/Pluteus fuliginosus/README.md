@@ -1,5 +1,4 @@
-Pluteus fuliginosus Murrill SPECIES
-=======
+# Pluteus fuliginosus Murrill SPECIES
 
 #### Status
 ACCEPTED

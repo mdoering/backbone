@@ -1,5 +1,4 @@
-Aposphaeria cercidis G. Winter & Brunaud SPECIES
-=======
+# Aposphaeria cercidis G. Winter & Brunaud SPECIES
 
 #### Status
 ACCEPTED

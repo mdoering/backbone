@@ -1,5 +1,4 @@
-Belonidium aurantiacum Rehm SPECIES
-=======
+# Belonidium aurantiacum Rehm SPECIES
 
 #### Status
 ACCEPTED

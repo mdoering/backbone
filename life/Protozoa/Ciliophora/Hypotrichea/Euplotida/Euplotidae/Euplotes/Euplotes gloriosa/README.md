@@ -1,5 +1,4 @@
-Euplotes gloriosa SPECIES
-=======
+# Euplotes gloriosa SPECIES
 
 #### Status
 ACCEPTED

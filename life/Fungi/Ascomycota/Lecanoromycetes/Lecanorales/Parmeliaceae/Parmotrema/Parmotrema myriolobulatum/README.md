@@ -1,17 +1,16 @@
-Parmelia myriolobulata J. D. Zhao SPECIES
-=======
+# Parmotrema myriolobulatum (J. D. Zhao) J. C. Wei SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+An Enumeration of Lichens in China (Beijing) 178 (1991)
 
 #### Original name
-null
+Parmelia myriolobulata J. D. Zhao
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Synchytrium rugulosum Dietel SPECIES
-=======
+# Synchytrium rugulosum Dietel SPECIES
 
 #### Status
 ACCEPTED

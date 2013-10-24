@@ -1,5 +1,4 @@
-Phlyctidia andensis (Nyl.) Müll. Arg. SPECIES
-=======
+# Phlyctidia andensis (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

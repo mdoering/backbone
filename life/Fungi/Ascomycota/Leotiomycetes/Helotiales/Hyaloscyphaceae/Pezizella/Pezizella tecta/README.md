@@ -1,5 +1,4 @@
-Pezizella tecta Velen. SPECIES
-=======
+# Pezizella tecta Velen. SPECIES
 
 #### Status
 ACCEPTED

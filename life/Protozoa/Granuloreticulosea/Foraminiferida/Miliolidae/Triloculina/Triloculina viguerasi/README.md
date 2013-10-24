@@ -1,5 +1,4 @@
-Triloculina viguerasi Bermudez, 1935 SPECIES
-=======
+# Triloculina viguerasi Bermudez, 1935 SPECIES
 
 #### Status
 ACCEPTED

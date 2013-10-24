@@ -1,5 +1,4 @@
-Entoloma carneobrunneum W.M. Zhang SPECIES
-=======
+# Entoloma carneobrunneum W.M. Zhang SPECIES
 
 #### Status
 ACCEPTED

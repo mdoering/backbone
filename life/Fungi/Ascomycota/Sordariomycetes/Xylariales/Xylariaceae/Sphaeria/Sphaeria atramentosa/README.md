@@ -1,5 +1,4 @@
-Sphaeria atramentosa Kunze SPECIES
-=======
+# Sphaeria atramentosa Kunze SPECIES
 
 #### Status
 ACCEPTED

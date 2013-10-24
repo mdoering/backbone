@@ -1,5 +1,4 @@
-Hyperidion Mackinnon & Ray, 1931 GENUS
-=======
+# Hyperidion Mackinnon & Ray, 1931 GENUS
 
 #### Status
 ACCEPTED

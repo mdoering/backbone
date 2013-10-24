@@ -1,5 +1,4 @@
-Ramalina leucosticta Taylor SPECIES
-=======
+# Ramalina leucosticta Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza subclavipes W. Phillips & Ellis SPECIES
-=======
+# Peziza subclavipes W. Phillips & Ellis SPECIES
 
 #### Status
 ACCEPTED

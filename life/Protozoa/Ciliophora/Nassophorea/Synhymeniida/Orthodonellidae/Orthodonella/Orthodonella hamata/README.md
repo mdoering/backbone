@@ -1,8 +1,7 @@
-Orthodonella hamatus (Gruber, 1884) Bhatia, 1936 SPECIES
-=======
+# Orthodonella hamata (Gruber, 1884) Bhatia, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Schizosaccharomyces pinan Nakaz. SPECIES
-=======
+# Schizosaccharomyces pinan Nakaz. SPECIES
 
 #### Status
 ACCEPTED

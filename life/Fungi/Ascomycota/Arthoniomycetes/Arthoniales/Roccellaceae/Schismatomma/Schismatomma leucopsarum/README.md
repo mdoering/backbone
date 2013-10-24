@@ -1,5 +1,4 @@
-Schismatomma leucopsarum (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma leucopsarum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

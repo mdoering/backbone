@@ -1,5 +1,4 @@
-Crinipellis cremoricolor R.L. Schaffer & M.G. Weaver SPECIES
-=======
+# Crinipellis cremoricolor R.L. Schaffer & M.G. Weaver SPECIES
 
 #### Status
 ACCEPTED

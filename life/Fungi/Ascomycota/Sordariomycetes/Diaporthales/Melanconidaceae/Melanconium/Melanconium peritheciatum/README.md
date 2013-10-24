@@ -1,5 +1,4 @@
-Melanconium peritheciatum Schwein. SPECIES
-=======
+# Melanconium peritheciatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

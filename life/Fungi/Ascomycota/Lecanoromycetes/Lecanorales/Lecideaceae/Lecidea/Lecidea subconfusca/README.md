@@ -1,5 +1,4 @@
-Lecidea subconfusca Nyl. SPECIES
-=======
+# Lecidea subconfusca Nyl. SPECIES
 
 #### Status
 ACCEPTED

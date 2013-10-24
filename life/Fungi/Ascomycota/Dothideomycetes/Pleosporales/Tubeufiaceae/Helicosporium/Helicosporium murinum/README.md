@@ -1,14 +1,13 @@
-Helicoma griseum Bonord., 1851 SPECIES
-=======
+# Helicosporium murinum Goos, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handb. Allgem. mykol. (Stuttgart) 74 (1851)
+Mycologia 81(3): 367 (1989)
 
 #### Original name
 Helicoma griseum Bonord., 1851

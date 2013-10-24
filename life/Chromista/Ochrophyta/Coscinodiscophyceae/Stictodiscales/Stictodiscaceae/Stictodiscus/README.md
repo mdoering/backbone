@@ -1,5 +1,4 @@
-Stictodiscus Greville, 1861 GENUS
-=======
+# Stictodiscus Greville, 1861 GENUS
 
 #### Status
 ACCEPTED

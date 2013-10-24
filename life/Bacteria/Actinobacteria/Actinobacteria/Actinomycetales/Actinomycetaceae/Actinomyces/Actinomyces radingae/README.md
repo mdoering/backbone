@@ -1,5 +1,4 @@
-Actinomyces radingae Wüst et al., 1995 SPECIES
-=======
+# Actinomyces radingae Wüst et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

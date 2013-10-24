@@ -1,5 +1,4 @@
-Wegelina saccardiana Berl. SPECIES
-=======
+# Wegelina saccardiana Berl. SPECIES
 
 #### Status
 ACCEPTED

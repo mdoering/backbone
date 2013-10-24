@@ -1,5 +1,4 @@
-Amphitrichum leptorhynchum (Durieu & Mont.) Kuntze SPECIES
-=======
+# Amphitrichum leptorhynchum (Durieu & Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

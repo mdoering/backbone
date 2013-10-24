@@ -1,5 +1,4 @@
-Xanthoparmelia barthlottii Elix & U. Becker SPECIES
-=======
+# Xanthoparmelia barthlottii Elix & U. Becker SPECIES
 
 #### Status
 ACCEPTED

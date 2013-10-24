@@ -1,5 +1,4 @@
-Lecanora poeltiana Clauzade & Cl. Roux SPECIES
-=======
+# Lecanora poeltiana Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

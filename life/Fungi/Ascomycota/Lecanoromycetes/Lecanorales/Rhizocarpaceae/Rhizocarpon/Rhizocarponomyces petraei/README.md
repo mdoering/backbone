@@ -1,5 +1,4 @@
-Rhizocarponomyces petraei Cif. & Tomas. SPECIES
-=======
+# Rhizocarponomyces petraei Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

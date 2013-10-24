@@ -1,5 +1,4 @@
-Xanthochrous peronatus (Schulzer) Pat. SPECIES
-=======
+# Xanthochrous peronatus (Schulzer) Pat. SPECIES
 
 #### Status
 ACCEPTED

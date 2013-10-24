@@ -1,17 +1,16 @@
-Melanotaenium brachiariae var. montanae Thirum. & Pavgi VARIETY
-=======
+# Eballistra brachiariae (Viégas) R. Bauer, Begerow, A. Nagler & Oberw., 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 105(4): 423 (2001)
 
 #### Original name
-Melanotaenium brachiariae var. montanae Thirum. & Pavgi
+Melanotaenium brachiariae Viégas, 1944
 
 ### Remarks
 null

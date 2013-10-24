@@ -1,5 +1,4 @@
-Peziza coerulescens Schumach. SPECIES
-=======
+# Peziza coerulescens Schumach. SPECIES
 
 #### Status
 ACCEPTED

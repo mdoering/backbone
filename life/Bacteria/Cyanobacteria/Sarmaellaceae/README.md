@@ -1,5 +1,4 @@
-Sarmaellaceae FAMILY
-=======
+# Sarmaellaceae FAMILY
 
 #### Status
 ACCEPTED

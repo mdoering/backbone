@@ -1,5 +1,4 @@
-Phaeodimeriella fevilleae Bat., Nascim. & M.L. Farr SPECIES
-=======
+# Phaeodimeriella fevilleae Bat., Nascim. & M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

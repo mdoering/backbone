@@ -1,17 +1,16 @@
-Phoma juglandina f. juglandina FORM
-=======
+# Phoma juglandina SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Michelia 1(no. 5): 521 (1879)
+null
 
 #### Original name
-Phoma juglandina f. juglandina
+null
 
 ### Remarks
 null

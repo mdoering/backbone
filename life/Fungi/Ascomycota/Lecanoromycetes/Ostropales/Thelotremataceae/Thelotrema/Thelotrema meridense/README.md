@@ -1,5 +1,4 @@
-Thelotrema meridense Hale SPECIES
-=======
+# Thelotrema meridense Hale SPECIES
 
 #### Status
 ACCEPTED

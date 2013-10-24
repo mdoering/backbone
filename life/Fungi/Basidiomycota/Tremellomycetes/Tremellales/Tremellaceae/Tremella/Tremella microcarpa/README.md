@@ -1,5 +1,4 @@
-Tremella microcarpa Diederich SPECIES
-=======
+# Tremella microcarpa Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharomyces awamori Inui SPECIES
-=======
+# Saccharomyces awamori Inui SPECIES
 
 #### Status
 ACCEPTED

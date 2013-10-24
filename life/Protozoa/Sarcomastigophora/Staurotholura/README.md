@@ -1,5 +1,4 @@
-Staurotholura Haeckel, 1887 GENUS
-=======
+# Staurotholura Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Abrothallus smithii Tul. SPECIES
-=======
+# Abrothallus smithii Tul. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptothecia exilis G. Thor SPECIES
-=======
+# Cryptothecia exilis G. Thor SPECIES
 
 #### Status
 ACCEPTED

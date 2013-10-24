@@ -1,11 +1,10 @@
-Mycena marginella sensu Rea (1922) SPECIES
-=======
+# Mycena amicta (Fr. Fr.) Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

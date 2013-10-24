@@ -1,5 +1,4 @@
-Belonopsis calamicola (P. Karst.) Sacc. & P. Syd. SPECIES
-=======
+# Belonopsis calamicola (P. Karst.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

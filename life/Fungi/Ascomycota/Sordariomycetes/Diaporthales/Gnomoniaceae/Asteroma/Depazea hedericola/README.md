@@ -1,5 +1,4 @@
-Depazea hedericola Klotzsch SPECIES
-=======
+# Depazea hedericola Klotzsch SPECIES
 
 #### Status
 ACCEPTED

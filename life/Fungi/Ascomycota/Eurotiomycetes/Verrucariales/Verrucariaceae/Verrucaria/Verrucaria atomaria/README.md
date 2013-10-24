@@ -1,5 +1,4 @@
-Verrucaria atomaria DC. SPECIES
-=======
+# Verrucaria atomaria DC. SPECIES
 
 #### Status
 ACCEPTED

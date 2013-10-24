@@ -1,14 +1,13 @@
-Biatora grossa (Pers. ex Nyl.) G. Merr. SPECIES
-=======
+# Megalaria grossa (Pers. ex Nyl.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 79: 302 (1984)
 
 #### Original name
 Lecidea grossa Pers. ex Nyl.

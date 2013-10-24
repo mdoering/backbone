@@ -1,5 +1,4 @@
-Opegrapha simplicior (Nyl.) Nyl. SPECIES
-=======
+# Opegrapha simplicior (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

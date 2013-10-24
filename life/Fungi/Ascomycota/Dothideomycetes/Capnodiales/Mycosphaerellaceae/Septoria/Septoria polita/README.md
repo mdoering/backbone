@@ -1,5 +1,4 @@
-Septoria polita Davis SPECIES
-=======
+# Septoria polita Davis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Masonella patelliformis Brady, 1889 SPECIES
-=======
+# Masonella patelliformis Brady, 1889 SPECIES
 
 #### Status
 ACCEPTED

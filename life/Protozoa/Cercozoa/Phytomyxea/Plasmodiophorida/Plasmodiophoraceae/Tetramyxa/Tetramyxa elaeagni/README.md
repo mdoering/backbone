@@ -1,5 +1,4 @@
-Tetramyxa elaeagni Y. Yendo & K. Takase, 1932 SPECIES
-=======
+# Tetramyxa elaeagni Y. Yendo & K. Takase, 1932 SPECIES
 
 #### Status
 ACCEPTED

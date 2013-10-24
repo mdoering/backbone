@@ -1,5 +1,4 @@
-Aureimonas Yang & Cho, 2006 GENUS
-=======
+# Aureimonas Yang & Cho, 2006 GENUS
 
 #### Status
 ACCEPTED

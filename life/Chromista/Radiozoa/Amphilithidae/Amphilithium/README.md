@@ -1,5 +1,4 @@
-Amphilithium Haeckel, 1881 GENUS
-=======
+# Amphilithium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

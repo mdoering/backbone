@@ -1,5 +1,4 @@
-Placodium elegans var. elegans VARIETY
-=======
+# Placodium elegans SPECIES
 
 #### Status
 ACCEPTED

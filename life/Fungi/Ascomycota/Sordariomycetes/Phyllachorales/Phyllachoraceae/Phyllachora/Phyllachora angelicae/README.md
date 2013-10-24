@@ -1,14 +1,13 @@
-Asteroma angelicae (Fr.) Fr., 1849 SPECIES
-=======
+# Phyllachora angelicae (Fr.) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 425 (1849)
+Jb. nassau. Ver. Naturk. 23-24: 219 (1870)
 
 #### Original name
 Dothidea angelicae Fr., 1823

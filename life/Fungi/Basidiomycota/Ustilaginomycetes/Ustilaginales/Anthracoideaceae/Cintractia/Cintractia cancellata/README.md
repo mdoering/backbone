@@ -1,5 +1,4 @@
-Cintractia cancellata Liro SPECIES
-=======
+# Cintractia cancellata Liro SPECIES
 
 #### Status
 ACCEPTED

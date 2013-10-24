@@ -1,5 +1,4 @@
-Lecanora prominens Asta, Clauzade & Cl. Roux SPECIES
-=======
+# Lecanora prominens Asta, Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

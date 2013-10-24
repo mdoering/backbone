@@ -1,5 +1,4 @@
-Rhizopogon comatus Velen. SPECIES
-=======
+# Rhizopogon comatus Velen. SPECIES
 
 #### Status
 ACCEPTED

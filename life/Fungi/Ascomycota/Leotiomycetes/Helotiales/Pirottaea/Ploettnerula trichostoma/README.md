@@ -1,5 +1,4 @@
-Ploettnerula trichostoma Kirschst. SPECIES
-=======
+# Ploettnerula trichostoma Kirschst. SPECIES
 
 #### Status
 ACCEPTED

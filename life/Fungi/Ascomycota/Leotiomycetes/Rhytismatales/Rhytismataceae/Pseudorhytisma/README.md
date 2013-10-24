@@ -1,5 +1,4 @@
-Pseudorhytisma Juel GENUS
-=======
+# Pseudorhytisma Juel GENUS
 
 #### Status
 ACCEPTED

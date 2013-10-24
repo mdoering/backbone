@@ -1,5 +1,4 @@
-Lepiota lateritia Beeli SPECIES
-=======
+# Lepiota lateritia Beeli SPECIES
 
 #### Status
 ACCEPTED

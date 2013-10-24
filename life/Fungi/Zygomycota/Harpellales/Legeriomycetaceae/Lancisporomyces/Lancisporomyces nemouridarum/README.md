@@ -1,5 +1,4 @@
-Lancisporomyces nemouridarum Strongman & M.M. White, 2006 SPECIES
-=======
+# Lancisporomyces nemouridarum Strongman & M.M. White, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neoceratium aultii (Graham & Bronikovsky) F.Gómez, D.Moreira & P.López-Garcia, 2001 SPECIES
-=======
+# Neoceratium aultii (Graham & Bronikovsky) F.Gómez, D.Moreira & P.López-Garcia, 2001 SPECIES
 
 #### Status
 ACCEPTED

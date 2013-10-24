@@ -1,5 +1,4 @@
-Delitschia confertaspora Peláez, Polishook, Valldos. & Guarro SPECIES
-=======
+# Delitschia confertaspora Peláez, Polishook, Valldos. & Guarro SPECIES
 
 #### Status
 ACCEPTED

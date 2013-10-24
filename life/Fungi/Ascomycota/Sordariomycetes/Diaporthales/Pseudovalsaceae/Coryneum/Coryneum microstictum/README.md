@@ -1,17 +1,16 @@
-Coryneum microstictum var. microstictum VARIETY
-=======
+# Coryneum microstictum Berk. & Broome, 1850 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ann. Mag. nat. Hist. , Ser. 2 5: 20 (1850)
 
 #### Original name
-Coryneum microstictum var. microstictum
+Coryneum microstictum Berk. & Broome, 1850
 
 ### Remarks
 null

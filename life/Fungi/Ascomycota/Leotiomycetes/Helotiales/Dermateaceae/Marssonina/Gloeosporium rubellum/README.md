@@ -1,5 +1,4 @@
-Gloeosporium rubellum Karak. SPECIES
-=======
+# Gloeosporium rubellum Karak. SPECIES
 
 #### Status
 ACCEPTED

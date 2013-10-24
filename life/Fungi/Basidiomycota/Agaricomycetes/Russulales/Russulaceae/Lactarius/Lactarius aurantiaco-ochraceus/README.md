@@ -1,5 +1,4 @@
-Lactarius aurantiaco-ochraceus Lj.N. Vassiljeva SPECIES
-=======
+# Lactarius aurantiaco-ochraceus Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

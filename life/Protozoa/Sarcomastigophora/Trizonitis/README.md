@@ -1,5 +1,4 @@
-Trizonitis Haeckel, 1887 GENUS
-=======
+# Trizonitis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

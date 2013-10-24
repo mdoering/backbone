@@ -1,5 +1,4 @@
-Dactylospora frigida Hafellner SPECIES
-=======
+# Dactylospora frigida Hafellner SPECIES
 
 #### Status
 ACCEPTED

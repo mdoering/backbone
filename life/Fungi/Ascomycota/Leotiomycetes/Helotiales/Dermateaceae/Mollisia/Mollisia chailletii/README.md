@@ -1,5 +1,4 @@
-Mollisia chailletii Gillet SPECIES
-=======
+# Mollisia chailletii Gillet SPECIES
 
 #### Status
 ACCEPTED

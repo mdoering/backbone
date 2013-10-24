@@ -1,5 +1,4 @@
-Omphalina subfulviceps Murrill SPECIES
-=======
+# Omphalina subfulviceps Murrill SPECIES
 
 #### Status
 ACCEPTED

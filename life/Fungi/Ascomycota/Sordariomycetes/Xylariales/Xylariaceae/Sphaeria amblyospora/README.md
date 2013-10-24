@@ -1,5 +1,4 @@
-Sphaeria amblyospora Berk. & Broome SPECIES
-=======
+# Sphaeria amblyospora Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

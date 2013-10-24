@@ -1,5 +1,4 @@
-Quinqueloculina concava Reuss SPECIES
-=======
+# Quinqueloculina concava Reuss SPECIES
 
 #### Status
 ACCEPTED

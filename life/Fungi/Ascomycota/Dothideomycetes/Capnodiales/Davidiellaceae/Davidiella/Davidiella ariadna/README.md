@@ -1,17 +1,16 @@
-Sphaerella ariadna var. ariadna VARIETY
-=======
+# Davidiella ariadna (Sacc.) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycosphaerella and its anamorphs: 2. Conspectus of Mycosphaerella 32 (2006)
 
 #### Original name
-null
+Sphaerella ariadna Sacc., 1877
 
 ### Remarks
 null

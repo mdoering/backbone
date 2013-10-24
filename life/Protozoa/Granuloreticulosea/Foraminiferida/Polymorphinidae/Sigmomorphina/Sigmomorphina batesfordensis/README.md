@@ -1,5 +1,4 @@
-Sigmomorphina batesfordensis Collins & Parr, W J SPECIES
-=======
+# Sigmomorphina batesfordensis Collins & Parr, W J SPECIES
 
 #### Status
 ACCEPTED

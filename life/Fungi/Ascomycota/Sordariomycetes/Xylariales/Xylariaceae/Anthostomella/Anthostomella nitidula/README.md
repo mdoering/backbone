@@ -1,5 +1,4 @@
-Anthostomella nitidula Sacc. SPECIES
-=======
+# Anthostomella nitidula Sacc. SPECIES
 
 #### Status
 ACCEPTED

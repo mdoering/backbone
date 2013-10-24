@@ -1,5 +1,4 @@
-Nosema tractabile J.I.R. Larsson SPECIES
-=======
+# Nosema tractabile J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

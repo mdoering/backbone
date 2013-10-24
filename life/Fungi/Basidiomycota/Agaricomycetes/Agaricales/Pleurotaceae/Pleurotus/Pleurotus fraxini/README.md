@@ -1,5 +1,4 @@
-Pleurotus fraxini G.H. Otth SPECIES
-=======
+# Pleurotus fraxini G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

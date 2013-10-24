@@ -1,17 +1,16 @@
-Amanita castanopsis Hongo SPECIES
-=======
+# Amanita castanopsidis Hongo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. mens. Soc. linn. Lyon 43: 192 (1974)
 
 #### Original name
-Amanita castanopsis Hongo
+Amanita castanopsidis Hongo
 
 ### Remarks
 null

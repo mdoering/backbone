@@ -1,5 +1,4 @@
-Phoma myopori Henn. SPECIES
-=======
+# Phoma myopori Henn. SPECIES
 
 #### Status
 ACCEPTED

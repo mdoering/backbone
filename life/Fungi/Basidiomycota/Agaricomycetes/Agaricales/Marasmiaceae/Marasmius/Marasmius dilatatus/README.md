@@ -1,5 +1,4 @@
-Marasmius dilatatus Berk. SPECIES
-=======
+# Marasmius dilatatus Berk. SPECIES
 
 #### Status
 ACCEPTED

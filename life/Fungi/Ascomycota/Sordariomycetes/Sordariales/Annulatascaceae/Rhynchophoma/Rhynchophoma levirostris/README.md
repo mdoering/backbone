@@ -1,5 +1,4 @@
-Rhynchophoma levirostris P. Karst. SPECIES
-=======
+# Rhynchophoma levirostris P. Karst. SPECIES
 
 #### Status
 ACCEPTED

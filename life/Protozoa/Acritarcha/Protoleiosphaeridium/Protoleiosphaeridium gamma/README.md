@@ -1,5 +1,4 @@
-Protoleiosphaeridium gamma Gowda & Sreenivasa, 1969 SPECIES
-=======
+# Protoleiosphaeridium gamma Gowda & Sreenivasa, 1969 SPECIES
 
 #### Status
 ACCEPTED

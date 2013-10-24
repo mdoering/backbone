@@ -1,5 +1,4 @@
-Usnea hirtella (Arnold) Motyka SPECIES
-=======
+# Usnea hirtella (Arnold) Motyka SPECIES
 
 #### Status
 ACCEPTED

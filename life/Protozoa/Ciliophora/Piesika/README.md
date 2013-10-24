@@ -1,5 +1,4 @@
-Piesika Warren, 1988 GENUS
-=======
+# Piesika Warren, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parasterina implicata Doidge SPECIES
-=======
+# Parasterina implicata Doidge SPECIES
 
 #### Status
 ACCEPTED

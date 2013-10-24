@@ -1,17 +1,16 @@
-Gyrophila sulphurea var. bufonia (Pers.) Quél., 1886 VARIETY
-=======
+# Tricholoma bufonium (Pers.) Gillet, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hyménomycètes (Alençon) 111 (1874)
 
 #### Original name
-null
+Agaricus bufonius Pers., 1801
 
 ### Remarks
 null

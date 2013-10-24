@@ -1,5 +1,4 @@
-Godronia graminum (Preuss) Sacc. SPECIES
-=======
+# Godronia graminum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

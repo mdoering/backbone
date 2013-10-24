@@ -1,5 +1,4 @@
-Cercospora liriopes F.L. Tai SPECIES
-=======
+# Cercospora liriopes F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

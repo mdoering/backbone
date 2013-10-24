@@ -1,5 +1,4 @@
-Dictyocysta muelleri (Imhof) Jörgensen, 1924 SPECIES
-=======
+# Dictyocysta muelleri (Imhof) Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

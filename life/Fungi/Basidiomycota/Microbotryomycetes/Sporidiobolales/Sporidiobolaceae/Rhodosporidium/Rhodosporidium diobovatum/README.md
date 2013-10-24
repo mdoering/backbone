@@ -1,5 +1,4 @@
-Rhodosporidium diobovatum S.Y. Newell & I.L. Hunter, 1970 SPECIES
-=======
+# Rhodosporidium diobovatum S.Y. Newell & I.L. Hunter, 1970 SPECIES
 
 #### Status
 ACCEPTED

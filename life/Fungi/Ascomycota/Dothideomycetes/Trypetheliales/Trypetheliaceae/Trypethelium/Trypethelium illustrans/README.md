@@ -1,5 +1,4 @@
-Trypethelium illustrans Eschw. SPECIES
-=======
+# Trypethelium illustrans Eschw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hygrophorus spadiceus f. spadiceus FORM
-=======
+# Hygrocybe spadicea (Fr.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 332 (1838)
+Bidr. Känn. Finl. Nat. Folk 32: 237 (1879)
 
 #### Original name
-Hygrophorus spadiceus f. spadiceus
+Agaricus spadiceus Scop., 1772
 
 ### Remarks
 null

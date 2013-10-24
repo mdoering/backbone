@@ -1,5 +1,4 @@
-Woronichiniella pentagona Skvortsov SPECIES
-=======
+# Woronichiniella pentagona Skvortsov SPECIES
 
 #### Status
 ACCEPTED

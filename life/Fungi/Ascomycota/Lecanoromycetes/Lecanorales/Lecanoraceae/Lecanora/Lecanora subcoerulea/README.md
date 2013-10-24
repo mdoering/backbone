@@ -1,5 +1,4 @@
-Lecanora subcoerulea (Delise) Müll. Arg. SPECIES
-=======
+# Lecanora subcoerulea (Delise) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

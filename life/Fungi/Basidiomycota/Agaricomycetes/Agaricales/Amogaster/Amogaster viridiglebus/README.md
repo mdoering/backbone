@@ -1,5 +1,4 @@
-Amogaster viridiglebus Castellano, 1995 SPECIES
-=======
+# Amogaster viridiglebus Castellano, 1995 SPECIES
 
 #### Status
 ACCEPTED

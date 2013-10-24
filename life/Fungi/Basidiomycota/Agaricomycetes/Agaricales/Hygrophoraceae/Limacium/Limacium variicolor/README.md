@@ -1,5 +1,4 @@
-Limacium variicolor (Murrill) Singer SPECIES
-=======
+# Limacium variicolor (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

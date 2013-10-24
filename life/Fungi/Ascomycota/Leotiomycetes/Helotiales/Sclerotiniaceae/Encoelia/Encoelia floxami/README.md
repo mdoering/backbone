@@ -1,5 +1,4 @@
-Encoelia floxami W. Phillips SPECIES
-=======
+# Encoelia floxami W. Phillips SPECIES
 
 #### Status
 ACCEPTED

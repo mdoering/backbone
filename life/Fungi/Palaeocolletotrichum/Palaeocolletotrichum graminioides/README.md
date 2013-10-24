@@ -1,5 +1,4 @@
-Palaeocolletotrichum graminioides S. Mitra & Manju Banerjee SPECIES
-=======
+# Palaeocolletotrichum graminioides S. Mitra & Manju Banerjee SPECIES
 
 #### Status
 ACCEPTED

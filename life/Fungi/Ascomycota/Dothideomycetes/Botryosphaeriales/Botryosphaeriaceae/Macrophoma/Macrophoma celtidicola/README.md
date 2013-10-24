@@ -1,5 +1,4 @@
-Macrophoma celtidicola Dearn. & House SPECIES
-=======
+# Macrophoma celtidicola Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arcyria vermicularis Schumach. SPECIES
-=======
+# Arcyria vermicularis Schumach. SPECIES
 
 #### Status
 ACCEPTED

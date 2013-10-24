@@ -1,5 +1,4 @@
-Trematophoma Petr. GENUS
-=======
+# Trematophoma Petr. GENUS
 
 #### Status
 ACCEPTED

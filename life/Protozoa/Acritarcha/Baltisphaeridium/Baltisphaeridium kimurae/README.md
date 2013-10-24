@@ -1,5 +1,4 @@
-Baltisphaeridium kimurae Takahashi in Takahashi & Kim, 1979 SPECIES
-=======
+# Baltisphaeridium kimurae Takahashi in Takahashi & Kim, 1979 SPECIES
 
 #### Status
 ACCEPTED

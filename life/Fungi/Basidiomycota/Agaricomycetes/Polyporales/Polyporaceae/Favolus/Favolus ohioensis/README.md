@@ -1,5 +1,4 @@
-Favolus ohioensis Berk. & Mont. SPECIES
-=======
+# Favolus ohioensis Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

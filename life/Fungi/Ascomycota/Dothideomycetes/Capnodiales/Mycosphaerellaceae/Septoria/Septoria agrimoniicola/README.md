@@ -1,5 +1,4 @@
-Septoria agrimoniicola Bondartsev SPECIES
-=======
+# Septoria agrimoniicola Bondartsev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta catechu Sawada SPECIES
-=======
+# Phyllosticta catechu Sawada SPECIES
 
 #### Status
 ACCEPTED

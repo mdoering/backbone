@@ -1,14 +1,13 @@
-Lecidea orosthea f. sublivescens (Nyl.) Vain. FORM
-=======
+# Lecanora sublivescens (Nyl.) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 67: 336 (1884)
 
 #### Original name
 Lecanora orosthea var. sublivescens Nyl.

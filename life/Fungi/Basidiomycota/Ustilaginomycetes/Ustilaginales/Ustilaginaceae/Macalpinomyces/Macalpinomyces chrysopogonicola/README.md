@@ -1,14 +1,13 @@
-Sphacelotheca chrysopogonicola Mundk. & Thirum., 1951 SPECIES
-=======
+# Macalpinomyces chrysopogonicola (Mundk. & Thirum.) Vánky, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Thirumalachar & Mundkur, Mycol. Pap. 40: 2 (1951)
+Mycotaxon 78: 320 (2001)
 
 #### Original name
 Sphacelotheca chrysopogonicola Mundk. & Thirum., 1951

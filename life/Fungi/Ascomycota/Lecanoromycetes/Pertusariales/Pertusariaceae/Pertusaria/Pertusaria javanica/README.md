@@ -1,5 +1,4 @@
-Pertusaria javanica Müll. Arg. SPECIES
-=======
+# Pertusaria javanica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

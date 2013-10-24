@@ -1,14 +1,13 @@
-Acanthophysium australiense (Wakef.) G. Cunn., 1963 SPECIES
-=======
+# Aleurodiscus australiensis Wakef., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 145: 155 (1963)
+Bull. Misc. Inf. , Kew 208 (1918)
 
 #### Original name
 Aleurodiscus australiensis Wakef., 1918

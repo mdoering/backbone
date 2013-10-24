@@ -1,5 +1,4 @@
-Rhabdospora pinea var. pinea VARIETY
-=======
+# Rhabdospora pinea P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 23: 58 (1884)
 
 #### Original name
-Rhabdospora pinea var. pinea
+Rhabdospora pinea P. Karst.
 
 ### Remarks
 null

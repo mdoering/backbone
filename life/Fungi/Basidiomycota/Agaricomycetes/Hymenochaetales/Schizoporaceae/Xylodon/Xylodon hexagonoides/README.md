@@ -1,5 +1,4 @@
-Xylodon hexagonoides (Kalchbr.) Kuntze SPECIES
-=======
+# Xylodon hexagonoides (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

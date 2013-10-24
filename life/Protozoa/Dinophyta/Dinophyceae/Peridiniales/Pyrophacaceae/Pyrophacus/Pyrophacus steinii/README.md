@@ -1,8 +1,7 @@
-Pyrophacus horologicum var. steinii Schiller VARIETY
-=======
+# Pyrophacus steinii (Schiller) Wall & Dale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

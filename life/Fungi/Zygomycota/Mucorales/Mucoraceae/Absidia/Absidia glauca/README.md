@@ -1,8 +1,7 @@
-Absidia glauca var. glauca Hagem, 1908 VARIETY
-=======
+# Absidia glauca Hagem, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Skr. VidenskSelsk. Christiania, Kl. I, Math. -Natur. 43 (1908)
 
 #### Original name
-Absidia glauca var. glauca Hagem, 1908
+Absidia glauca Hagem, 1908
 
 ### Remarks
 null

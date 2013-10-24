@@ -1,14 +1,13 @@
-Fleischhakia rhizinoides Rabenh., 1878 SPECIES
-=======
+# Pachyella rhizinoides (Rabenh.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 17: (1878)
+null
 
 #### Original name
 Fleischhakia rhizinoides Rabenh., 1878

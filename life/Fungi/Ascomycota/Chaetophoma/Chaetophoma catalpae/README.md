@@ -1,5 +1,4 @@
-Chaetophoma catalpae Cooke SPECIES
-=======
+# Chaetophoma catalpae Cooke SPECIES
 
 #### Status
 ACCEPTED

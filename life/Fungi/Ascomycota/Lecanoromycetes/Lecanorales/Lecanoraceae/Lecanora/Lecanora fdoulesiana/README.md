@@ -1,5 +1,4 @@
-Lecanora fdoulesiana SPECIES
-=======
+# Lecanora fdoulesiana SPECIES
 
 #### Status
 ACCEPTED

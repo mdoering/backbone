@@ -1,5 +1,4 @@
-Patellaria alba (Roth) Duby SPECIES
-=======
+# Patellaria alba (Roth) Duby SPECIES
 
 #### Status
 ACCEPTED

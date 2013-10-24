@@ -1,5 +1,4 @@
-Pseudocercospora giranensis Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora giranensis Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

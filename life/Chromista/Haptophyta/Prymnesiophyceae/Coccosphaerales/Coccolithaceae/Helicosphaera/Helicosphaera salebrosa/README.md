@@ -1,5 +1,4 @@
-Helicosphaera salebrosa Perch-Nielsen, 1971 SPECIES
-=======
+# Helicosphaera salebrosa Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

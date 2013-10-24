@@ -1,5 +1,4 @@
-Agaricus capronatus Desm. SPECIES
-=======
+# Agaricus capronatus Desm. SPECIES
 
 #### Status
 ACCEPTED

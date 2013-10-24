@@ -1,5 +1,4 @@
-Hymenoscyphus polytrichi (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus polytrichi (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

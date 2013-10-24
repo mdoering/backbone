@@ -1,5 +1,4 @@
-Septoria callistemonis Tassi SPECIES
-=======
+# Septoria callistemonis Tassi SPECIES
 
 #### Status
 ACCEPTED

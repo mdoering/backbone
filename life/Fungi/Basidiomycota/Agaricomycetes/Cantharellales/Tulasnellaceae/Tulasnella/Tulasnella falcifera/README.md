@@ -1,5 +1,4 @@
-Tulasnella falcifera P. Roberts, 1992 SPECIES
-=======
+# Tulasnella falcifera P. Roberts, 1992 SPECIES
 
 #### Status
 ACCEPTED

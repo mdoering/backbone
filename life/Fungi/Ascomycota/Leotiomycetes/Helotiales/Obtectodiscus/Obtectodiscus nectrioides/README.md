@@ -1,5 +1,4 @@
-Obtectodiscus nectrioides Samuels & Rogerson, 1986 SPECIES
-=======
+# Obtectodiscus nectrioides Samuels & Rogerson, 1986 SPECIES
 
 #### Status
 ACCEPTED

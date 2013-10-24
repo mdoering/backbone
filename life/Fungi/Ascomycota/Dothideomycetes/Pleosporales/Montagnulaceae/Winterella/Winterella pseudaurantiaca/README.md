@@ -1,5 +1,4 @@
-Winterella pseudaurantiaca Lar.N. Vassiljeva SPECIES
-=======
+# Winterella pseudaurantiaca Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

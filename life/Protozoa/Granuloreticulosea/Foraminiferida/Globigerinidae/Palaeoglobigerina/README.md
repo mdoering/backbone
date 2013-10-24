@@ -1,5 +1,4 @@
-Palaeoglobigerina Arenillas, Arz & Nanez, 2007 GENUS
-=======
+# Palaeoglobigerina Arenillas, Arz & Nanez, 2007 GENUS
 
 #### Status
 ACCEPTED

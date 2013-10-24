@@ -1,5 +1,4 @@
-Trametes lacerata Bacc. SPECIES
-=======
+# Trametes lacerata Bacc. SPECIES
 
 #### Status
 ACCEPTED

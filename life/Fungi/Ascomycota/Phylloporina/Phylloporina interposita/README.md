@@ -1,5 +1,4 @@
-Phylloporina interposita Zahlbr. SPECIES
-=======
+# Phylloporina interposita Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

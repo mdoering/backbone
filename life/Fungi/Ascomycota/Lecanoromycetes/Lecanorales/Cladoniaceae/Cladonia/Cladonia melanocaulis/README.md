@@ -1,5 +1,4 @@
-Cladonia melanocaulis S. Stenroos SPECIES
-=======
+# Cladonia melanocaulis S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

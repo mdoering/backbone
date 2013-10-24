@@ -1,5 +1,4 @@
-Cenomyce furcata var. furcata VARIETY
-=======
+# Cenomyce furcata ß furcata (Huds.) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. univ. (1810)
 
 #### Original name
-Cenomyce furcata var. furcata
+Cenomyce furcata ß furcata (Huds.) Ach.
 
 ### Remarks
 null

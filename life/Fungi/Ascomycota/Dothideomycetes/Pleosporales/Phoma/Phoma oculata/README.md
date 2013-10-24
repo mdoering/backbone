@@ -1,5 +1,4 @@
-Phoma oculata (Preuss) Sacc. SPECIES
-=======
+# Phoma oculata (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

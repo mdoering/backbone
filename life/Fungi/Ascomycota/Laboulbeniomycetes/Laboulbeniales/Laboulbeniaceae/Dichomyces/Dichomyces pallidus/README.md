@@ -1,5 +1,4 @@
-Dichomyces pallidus Thaxt. SPECIES
-=======
+# Dichomyces pallidus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

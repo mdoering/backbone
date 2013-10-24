@@ -1,5 +1,4 @@
-Platyamoeba calycinucleolus Page, 1974 SPECIES
-=======
+# Platyamoeba calycinucleolus Page, 1974 SPECIES
 
 #### Status
 ACCEPTED

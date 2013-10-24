@@ -1,5 +1,4 @@
-Asterina landolphiae Hansf. SPECIES
-=======
+# Asterina landolphiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

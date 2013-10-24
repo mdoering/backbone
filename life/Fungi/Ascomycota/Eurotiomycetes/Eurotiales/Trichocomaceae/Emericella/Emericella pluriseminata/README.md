@@ -1,5 +1,4 @@
-Emericella pluriseminata Stchigel & Guarro, 1997 SPECIES
-=======
+# Emericella pluriseminata Stchigel & Guarro, 1997 SPECIES
 
 #### Status
 ACCEPTED

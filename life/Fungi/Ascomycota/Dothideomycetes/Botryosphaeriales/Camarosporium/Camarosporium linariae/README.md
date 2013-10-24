@@ -1,5 +1,4 @@
-Camarosporium linariae Golovin SPECIES
-=======
+# Camarosporium linariae Golovin SPECIES
 
 #### Status
 ACCEPTED

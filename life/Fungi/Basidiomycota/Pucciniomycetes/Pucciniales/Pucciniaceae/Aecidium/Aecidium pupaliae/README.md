@@ -1,5 +1,4 @@
-Aecidium pupaliae Prasad, L.C. Sharma & R.D. Singh SPECIES
-=======
+# Aecidium pupaliae Prasad, L.C. Sharma & R.D. Singh SPECIES
 
 #### Status
 ACCEPTED

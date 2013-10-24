@@ -1,5 +1,4 @@
-Patellina pallida Pat. SPECIES
-=======
+# Patellina pallida Pat. SPECIES
 
 #### Status
 ACCEPTED

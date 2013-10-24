@@ -1,5 +1,4 @@
-Cladosporium indigoferae Sawada, 1959 SPECIES
-=======
+# Cladosporium indigoferae Sawada, 1959 SPECIES
 
 #### Status
 ACCEPTED

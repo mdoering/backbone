@@ -1,5 +1,4 @@
-Sporotrichum petelotii (Vincens) Petch SPECIES
-=======
+# Sporotrichum petelotii (Vincens) Petch SPECIES
 
 #### Status
 ACCEPTED

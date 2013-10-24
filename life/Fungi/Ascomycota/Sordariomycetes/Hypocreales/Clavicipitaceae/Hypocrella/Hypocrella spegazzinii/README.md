@@ -1,5 +1,4 @@
-Hypocrella spegazzinii Sacc. SPECIES
-=======
+# Hypocrella spegazzinii Sacc. SPECIES
 
 #### Status
 ACCEPTED

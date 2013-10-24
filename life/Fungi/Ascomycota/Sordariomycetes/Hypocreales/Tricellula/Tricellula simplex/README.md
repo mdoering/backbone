@@ -1,5 +1,4 @@
-Tricellula simplex anon. SPECIES
-=======
+# Tricellula simplex anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trochastrites hohnensis (Martini, 1958) Bouche, 1962 SPECIES
-=======
+# Trochastrites hohnensis (Martini, 1958) Bouche, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Carpenteria hamiltonensis SPECIES
-=======
+# Carpenteria hamiltonensis SPECIES
 
 #### Status
 ACCEPTED

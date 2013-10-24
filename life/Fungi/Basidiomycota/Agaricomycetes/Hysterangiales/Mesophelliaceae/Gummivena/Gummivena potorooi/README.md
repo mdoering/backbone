@@ -1,5 +1,4 @@
-Gummivena potorooi Trappe & Bougher, 2002 SPECIES
-=======
+# Gummivena potorooi Trappe & Bougher, 2002 SPECIES
 
 #### Status
 ACCEPTED

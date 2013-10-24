@@ -1,14 +1,13 @@
-Pestalotia mangiferae Henn., 1907 SPECIES
-=======
+# Pestalotiopsis mangiferae (Henn.) Steyaert, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annals de Musée du Congo, Botanique Série 5 2(2): 102 (1907)
+Bull. Jard. bot. État Brux. 19: 320 (1948)
 
 #### Original name
 Pestalotia mangiferae Henn., 1907

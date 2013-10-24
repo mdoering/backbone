@@ -1,5 +1,4 @@
-Boletus subpalustris A.H. Sm. & Thiers SPECIES
-=======
+# Boletus subpalustris A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

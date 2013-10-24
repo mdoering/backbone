@@ -1,5 +1,4 @@
-Hasegawaea Y. Yamada & I. Banno, 1987 GENUS
-=======
+# Hasegawaea Y. Yamada & I. Banno, 1987 GENUS
 
 #### Status
 ACCEPTED

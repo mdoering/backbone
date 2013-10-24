@@ -1,5 +1,4 @@
-Irenina strophanthi (Doidge) F. Stevens SPECIES
-=======
+# Irenina strophanthi (Doidge) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

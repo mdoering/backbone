@@ -1,5 +1,4 @@
-Kozloffia de Puytorac, 1968 GENUS
-=======
+# Kozloffia de Puytorac, 1968 GENUS
 
 #### Status
 ACCEPTED

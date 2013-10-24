@@ -1,5 +1,4 @@
-Peziza epichrysea Beck SPECIES
-=======
+# Peziza epichrysea Beck SPECIES
 
 #### Status
 ACCEPTED

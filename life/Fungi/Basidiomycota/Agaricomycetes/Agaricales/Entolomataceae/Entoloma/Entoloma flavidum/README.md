@@ -1,5 +1,4 @@
-Entoloma flavidum (Massee) Corner & E. Horak SPECIES
-=======
+# Entoloma flavidum (Massee) Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

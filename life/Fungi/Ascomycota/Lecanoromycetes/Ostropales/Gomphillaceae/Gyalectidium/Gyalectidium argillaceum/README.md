@@ -1,5 +1,4 @@
-Gyalectidium argillaceum Müll. Arg. SPECIES
-=======
+# Gyalectidium argillaceum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium rubrum Parav. SPECIES
-=======
+# Fusarium rubrum Parav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Smittium shaanxiense Juan Wang, Strongman & S.Q. Xu, 2010 SPECIES
-=======
+# Smittium shaanxiense Juan Wang, Strongman & S.Q. Xu, 2010 SPECIES
 
 #### Status
 ACCEPTED

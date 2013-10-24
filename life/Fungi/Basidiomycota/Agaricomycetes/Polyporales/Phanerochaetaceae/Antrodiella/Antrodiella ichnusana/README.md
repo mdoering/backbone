@@ -1,5 +1,4 @@
-Antrodiella ichnusana Bernicchia, Renvall & Arras SPECIES
-=======
+# Antrodiella ichnusana Bernicchia, Renvall & Arras SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euglypha patella SPECIES
-=======
+# Euglypha patella SPECIES
 
 #### Status
 ACCEPTED

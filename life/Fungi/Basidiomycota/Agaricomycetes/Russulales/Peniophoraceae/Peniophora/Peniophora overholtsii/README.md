@@ -1,5 +1,4 @@
-Peniophora overholtsii Burt SPECIES
-=======
+# Peniophora overholtsii Burt SPECIES
 
 #### Status
 ACCEPTED

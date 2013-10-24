@@ -1,5 +1,4 @@
-Otthiella conglobata (Berk. & M.A. Curtis) Höhn. SPECIES
-=======
+# Otthiella conglobata (Berk. & M.A. Curtis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

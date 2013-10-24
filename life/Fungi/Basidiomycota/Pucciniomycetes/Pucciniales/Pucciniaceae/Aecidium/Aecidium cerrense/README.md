@@ -1,5 +1,4 @@
-Aecidium cerrense Henn. SPECIES
-=======
+# Aecidium cerrense Henn. SPECIES
 
 #### Status
 ACCEPTED

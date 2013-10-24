@@ -1,5 +1,4 @@
-Farinaria lanata Sowerby SPECIES
-=======
+# Farinaria lanata Sowerby SPECIES
 
 #### Status
 ACCEPTED

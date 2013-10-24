@@ -1,5 +1,4 @@
-Diplodina pterophila (Fautrey) Zambett. SPECIES
-=======
+# Diplodina pterophila (Fautrey) Zambett. SPECIES
 
 #### Status
 ACCEPTED

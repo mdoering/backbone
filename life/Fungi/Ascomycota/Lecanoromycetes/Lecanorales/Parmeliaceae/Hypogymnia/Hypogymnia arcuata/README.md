@@ -1,5 +1,4 @@
-Hypogymnia arcuata Tchaban. & McCune SPECIES
-=======
+# Hypogymnia arcuata Tchaban. & McCune SPECIES
 
 #### Status
 ACCEPTED

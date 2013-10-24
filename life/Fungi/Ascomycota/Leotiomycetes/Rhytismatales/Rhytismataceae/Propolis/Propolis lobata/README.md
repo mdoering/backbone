@@ -1,5 +1,4 @@
-Propolis lobata Cooke & Ellis SPECIES
-=======
+# Propolis lobata Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

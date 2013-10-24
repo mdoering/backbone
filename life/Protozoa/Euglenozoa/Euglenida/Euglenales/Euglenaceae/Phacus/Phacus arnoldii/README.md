@@ -1,5 +1,4 @@
-Phacus arnoldii var. arnoldi Komórki VARIETY
-=======
+# Phacus arnoldii Swirenko SPECIES
 
 #### Status
 ACCEPTED

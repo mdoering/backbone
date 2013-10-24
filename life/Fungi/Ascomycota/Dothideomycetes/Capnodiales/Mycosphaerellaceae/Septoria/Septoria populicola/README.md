@@ -1,5 +1,4 @@
-Septoria populicola House SPECIES
-=======
+# Septoria populicola House SPECIES
 
 #### Status
 ACCEPTED

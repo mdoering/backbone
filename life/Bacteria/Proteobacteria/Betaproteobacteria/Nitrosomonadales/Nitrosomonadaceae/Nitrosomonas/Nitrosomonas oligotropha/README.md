@@ -1,5 +1,4 @@
-Nitrosomonas oligotropha Koops et al., 2001 SPECIES
-=======
+# Nitrosomonas oligotropha Koops et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

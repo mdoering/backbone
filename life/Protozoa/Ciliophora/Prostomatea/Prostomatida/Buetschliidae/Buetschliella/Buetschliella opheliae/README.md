@@ -1,8 +1,7 @@
-Bütschliella opheliae Awerinzew, 1908 SPECIES
-=======
+# Buetschliella opheliae Awerinzew, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

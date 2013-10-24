@@ -1,5 +1,4 @@
-Verrucaria nucula Nyl. SPECIES
-=======
+# Verrucaria nucula Nyl. SPECIES
 
 #### Status
 ACCEPTED

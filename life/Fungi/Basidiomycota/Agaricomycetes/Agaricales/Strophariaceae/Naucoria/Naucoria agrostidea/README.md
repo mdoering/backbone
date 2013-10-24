@@ -1,5 +1,4 @@
-Naucoria agrostidea Velen. SPECIES
-=======
+# Naucoria agrostidea Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon nigrum Müll. Arg. SPECIES
-=======
+# Dermatocarpon nigrum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

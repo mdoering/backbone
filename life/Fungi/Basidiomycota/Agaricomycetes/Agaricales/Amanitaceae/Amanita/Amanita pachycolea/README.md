@@ -1,5 +1,4 @@
-Amanita pachycolea D.E. Stuntz SPECIES
-=======
+# Amanita pachycolea D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

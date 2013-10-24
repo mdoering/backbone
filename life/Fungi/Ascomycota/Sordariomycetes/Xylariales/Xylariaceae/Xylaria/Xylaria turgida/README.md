@@ -1,5 +1,4 @@
-Xylaria turgida Fr. SPECIES
-=======
+# Xylaria turgida Fr. SPECIES
 
 #### Status
 ACCEPTED

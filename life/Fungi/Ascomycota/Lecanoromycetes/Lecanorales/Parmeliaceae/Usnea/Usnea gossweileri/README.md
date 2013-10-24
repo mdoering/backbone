@@ -1,5 +1,4 @@
-Usnea gossweileri C.W. Dodge SPECIES
-=======
+# Usnea gossweileri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

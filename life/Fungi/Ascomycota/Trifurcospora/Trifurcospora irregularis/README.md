@@ -1,14 +1,13 @@
-Flabellospora irregularis Matsush., 1981 SPECIES
-=======
+# Trifurcospora irregularis (Matsush.) K. Ando & Tubaki, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Matsush. Mycol. Mem. , no. 2 2: 9 (1981)
+in Ando, Tubaki & Arai, Trans. Mycol. Soc. Japan 28(4): 471 (1988)
 
 #### Original name
 Flabellospora irregularis Matsush., 1981

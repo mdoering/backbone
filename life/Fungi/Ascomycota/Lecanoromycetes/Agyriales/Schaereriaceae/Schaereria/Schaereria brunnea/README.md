@@ -1,5 +1,4 @@
-Schaereria brunnea C. Björk, T. Sprib. & T. Wheeler SPECIES
-=======
+# Schaereria brunnea C. Björk, T. Sprib. & T. Wheeler SPECIES
 
 #### Status
 ACCEPTED

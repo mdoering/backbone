@@ -1,5 +1,4 @@
-Aposphaeria umbonata (Preuss) Sacc. SPECIES
-=======
+# Aposphaeria umbonata (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

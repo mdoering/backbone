@@ -1,5 +1,4 @@
-Boletellus exiguus T.W. Henkel & Fulgenzi SPECIES
-=======
+# Boletellus exiguus T.W. Henkel & Fulgenzi SPECIES
 
 #### Status
 ACCEPTED

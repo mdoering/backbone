@@ -1,5 +1,4 @@
-Acarospora tavaresiana H. Magn. SPECIES
-=======
+# Acarospora tavaresiana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

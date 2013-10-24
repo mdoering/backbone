@@ -1,5 +1,4 @@
-Boletus serotinus Frost SPECIES
-=======
+# Boletus serotinus Frost SPECIES
 
 #### Status
 ACCEPTED

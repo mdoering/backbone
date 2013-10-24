@@ -1,5 +1,4 @@
-Galera GENUS
-=======
+# Galera GENUS
 
 #### Status
 ACCEPTED

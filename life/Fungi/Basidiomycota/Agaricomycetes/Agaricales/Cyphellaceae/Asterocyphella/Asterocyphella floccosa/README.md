@@ -1,5 +1,4 @@
-Asterocyphella floccosa W.B. Cooke, 1961 SPECIES
-=======
+# Asterocyphella floccosa W.B. Cooke, 1961 SPECIES
 
 #### Status
 ACCEPTED

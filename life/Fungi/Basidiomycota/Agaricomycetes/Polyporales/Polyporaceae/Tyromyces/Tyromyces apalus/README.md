@@ -1,5 +1,4 @@
-Tyromyces apalus Bondartsev SPECIES
-=======
+# Tyromyces apalus Bondartsev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phaeospora epicallopisma (Wedd.) Arnold SPECIES
-=======
+# Weddellomyces epicallopisma (Wedd.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 43(3): 512 (1986)
 
 #### Original name
 null

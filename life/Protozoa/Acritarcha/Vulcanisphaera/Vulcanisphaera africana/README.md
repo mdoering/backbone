@@ -1,5 +1,4 @@
-Vulcanisphaera africana Deunff, 1961 SPECIES
-=======
+# Vulcanisphaera africana Deunff, 1961 SPECIES
 
 #### Status
 ACCEPTED

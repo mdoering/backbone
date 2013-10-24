@@ -1,14 +1,13 @@
-Helotium vitigenum De Not., 1863 SPECIES
-=======
+# Hymenoscyphus vitigenus (De Not.) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Comm. Soc. crittog. Ital. 1: 377 (1861)
+Persoonia 3(1): 74 (1964)
 
 #### Original name
 Helotium vitigenum De Not., 1863

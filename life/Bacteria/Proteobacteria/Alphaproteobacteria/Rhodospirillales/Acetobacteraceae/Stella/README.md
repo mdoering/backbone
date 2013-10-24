@@ -1,5 +1,4 @@
-Stella Vasilyeva, 1985 GENUS
-=======
+# Stella Vasilyeva, 1985 GENUS
 
 #### Status
 ACCEPTED

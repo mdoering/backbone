@@ -1,5 +1,4 @@
-Phoma doryophorae Henn. SPECIES
-=======
+# Phoma doryophorae Henn. SPECIES
 
 #### Status
 ACCEPTED

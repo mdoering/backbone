@@ -1,5 +1,4 @@
-Mycelium radicis-myrtilli Freisleben {?} SPECIES
-=======
+# Mycelium radicis-myrtilli Freisleben {?} SPECIES
 
 #### Status
 ACCEPTED

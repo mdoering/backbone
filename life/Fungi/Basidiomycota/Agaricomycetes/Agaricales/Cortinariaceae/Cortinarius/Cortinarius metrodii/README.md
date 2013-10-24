@@ -1,5 +1,4 @@
-Cortinarius metrodii Rob. Henry SPECIES
-=======
+# Cortinarius metrodii Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

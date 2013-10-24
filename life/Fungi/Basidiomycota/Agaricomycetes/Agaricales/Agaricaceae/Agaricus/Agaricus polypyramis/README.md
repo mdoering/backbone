@@ -1,5 +1,4 @@
-Agaricus polypyramis Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus polypyramis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum endoleucum Berk. & Broome SPECIES
-=======
+# Stereum endoleucum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

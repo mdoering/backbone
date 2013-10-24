@@ -1,5 +1,4 @@
-Puccinia lyciicola Speg. SPECIES
-=======
+# Puccinia lyciicola Speg. SPECIES
 
 #### Status
 ACCEPTED

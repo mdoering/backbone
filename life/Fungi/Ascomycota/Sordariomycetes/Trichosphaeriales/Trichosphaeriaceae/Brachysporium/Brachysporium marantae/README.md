@@ -1,5 +1,4 @@
-Brachysporium marantae Sawada SPECIES
-=======
+# Brachysporium marantae Sawada SPECIES
 
 #### Status
 ACCEPTED

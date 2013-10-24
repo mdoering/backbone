@@ -1,5 +1,4 @@
-Arthonia rugosula (Kremp.) Vain. SPECIES
-=======
+# Arthonia rugosula (Kremp.) Vain. SPECIES
 
 #### Status
 ACCEPTED

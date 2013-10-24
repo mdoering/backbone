@@ -1,5 +1,4 @@
-Parmeliopsis subsoredians (Nyl.) Nyl. SPECIES
-=======
+# Parmeliopsis subsoredians (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

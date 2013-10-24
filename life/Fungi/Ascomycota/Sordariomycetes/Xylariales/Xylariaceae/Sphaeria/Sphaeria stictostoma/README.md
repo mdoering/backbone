@@ -1,5 +1,4 @@
-Sphaeria stictostoma Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria stictostoma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

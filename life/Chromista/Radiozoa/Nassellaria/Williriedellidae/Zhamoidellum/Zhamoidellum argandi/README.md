@@ -1,5 +1,4 @@
-Zhamoidellum argandi SPECIES
-=======
+# Zhamoidellum argandi SPECIES
 
 #### Status
 ACCEPTED

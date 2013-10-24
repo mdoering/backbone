@@ -1,5 +1,4 @@
-Oudemansiella haasiana Raithelh. SPECIES
-=======
+# Oudemansiella haasiana Raithelh. SPECIES
 
 #### Status
 ACCEPTED

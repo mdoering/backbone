@@ -1,17 +1,16 @@
-Octospora melina var. melina VARIETY
-=======
+# Octospora melina (Velen.) Dennis & Itzerott, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Kew Bull. 28: 16 (1973)
 
 #### Original name
-Octospora melina var. melina
+Humaria melina Velen., 1934
 
 ### Remarks
 null

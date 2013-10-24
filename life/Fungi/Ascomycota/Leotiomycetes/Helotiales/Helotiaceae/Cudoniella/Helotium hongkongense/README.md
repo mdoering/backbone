@@ -1,5 +1,4 @@
-Helotium hongkongense (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Helotium hongkongense (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

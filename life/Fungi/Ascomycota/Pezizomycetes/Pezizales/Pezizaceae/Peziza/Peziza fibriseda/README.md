@@ -1,5 +1,4 @@
-Peziza fibriseda Berk. & M.A. Curtis SPECIES
-=======
+# Peziza fibriseda Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia hyacinthiana Sacc. SPECIES
-=======
+# Hendersonia hyacinthiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

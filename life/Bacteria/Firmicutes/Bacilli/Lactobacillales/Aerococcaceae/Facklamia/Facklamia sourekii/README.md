@@ -1,5 +1,4 @@
-Facklamia sourekii Collins et al., 1999 SPECIES
-=======
+# Facklamia sourekii Collins et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

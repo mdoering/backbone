@@ -1,5 +1,4 @@
-Graphis cicatrisans (Ach.) Spreng. SPECIES
-=======
+# Graphis cicatrisans (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

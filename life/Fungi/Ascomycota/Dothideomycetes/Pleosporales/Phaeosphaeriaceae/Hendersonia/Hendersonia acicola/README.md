@@ -1,5 +1,4 @@
-Hendersonia acicola Münch & Tubeuf, 1910 SPECIES
-=======
+# Hendersonia acicola Münch & Tubeuf, 1910 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius obscurus Berk. SPECIES
-=======
+# Marasmius obscurus Berk. SPECIES
 
 #### Status
 ACCEPTED

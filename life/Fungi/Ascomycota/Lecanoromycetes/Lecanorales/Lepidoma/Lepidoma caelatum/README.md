@@ -1,5 +1,4 @@
-Lepidoma caelatum (Hoffm.) Wallr. SPECIES
-=======
+# Lepidoma caelatum (Hoffm.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphizygus microminutus J.G. Hattner & S.W. Wise SPECIES
-=======
+# Amphizygus microminutus J.G. Hattner & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

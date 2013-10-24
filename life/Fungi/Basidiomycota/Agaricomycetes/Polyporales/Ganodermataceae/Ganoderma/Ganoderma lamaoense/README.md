@@ -1,5 +1,4 @@
-Ganoderma lamaoense Steyaert, 1972 SPECIES
-=======
+# Ganoderma lamaoense Steyaert, 1972 SPECIES
 
 #### Status
 ACCEPTED

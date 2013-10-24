@@ -1,5 +1,4 @@
-Sagedia olivacea (Pers.) Lojka SPECIES
-=======
+# Sagedia olivacea (Pers.) Lojka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Katodinium vierae Javornicky SPECIES
-=======
+# Katodinium vierae Javornicky SPECIES
 
 #### Status
 ACCEPTED

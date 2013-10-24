@@ -1,5 +1,4 @@
-Helenea quadrata SPECIES
-=======
+# Helenea quadrata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Gloeosporium heterophyllum Ellis & Everh. SPECIES
-=======
+# Gloeosporium heterophyllae Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 10: 169 (1904)
 
 #### Original name
-Gloeosporium heterophyllum Ellis & Everh.
+Gloeosporium heterophyllae Ellis & Everh.
 
 ### Remarks
 null

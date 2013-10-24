@@ -1,5 +1,4 @@
-Tuckermanopsis weii (X.Q. Gao & L.H. Chen) Randlane & Saag SPECIES
-=======
+# Tuckermanopsis weii (X.Q. Gao & L.H. Chen) Randlane & Saag SPECIES
 
 #### Status
 ACCEPTED

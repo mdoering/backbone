@@ -1,5 +1,4 @@
-Humaria hirtella Rehm SPECIES
-=======
+# Humaria hirtella Rehm SPECIES
 
 #### Status
 ACCEPTED

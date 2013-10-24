@@ -1,5 +1,4 @@
-Dendrophoma mahoniae Tengwall, 1924 SPECIES
-=======
+# Dendrophoma mahoniae Tengwall, 1924 SPECIES
 
 #### Status
 ACCEPTED

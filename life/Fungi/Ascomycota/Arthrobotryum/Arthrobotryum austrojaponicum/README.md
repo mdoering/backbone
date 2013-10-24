@@ -1,5 +1,4 @@
-Arthrobotryum austrojaponicum I. Hino & Katum. SPECIES
-=======
+# Arthrobotryum austrojaponicum I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

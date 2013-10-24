@@ -1,5 +1,4 @@
-Collybia sleumeri Singer SPECIES
-=======
+# Collybia sleumeri Singer SPECIES
 
 #### Status
 ACCEPTED

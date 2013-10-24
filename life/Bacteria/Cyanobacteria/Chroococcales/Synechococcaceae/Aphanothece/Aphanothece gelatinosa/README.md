@@ -1,5 +1,4 @@
-Aphanothece gelatinosa (Hennings) Lemmermann SPECIES
-=======
+# Aphanothece gelatinosa (Hennings) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

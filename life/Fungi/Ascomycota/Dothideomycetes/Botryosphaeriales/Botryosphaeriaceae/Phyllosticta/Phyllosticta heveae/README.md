@@ -1,5 +1,4 @@
-Phyllosticta heveae Henn. SPECIES
-=======
+# Phyllosticta heveae Henn. SPECIES
 
 #### Status
 ACCEPTED

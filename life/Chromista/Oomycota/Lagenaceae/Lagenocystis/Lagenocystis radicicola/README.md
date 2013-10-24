@@ -1,5 +1,4 @@
-Lagenocystis radicicola (Vanterp. & Ledingham) H.F. Copel., 1956 SPECIES
-=======
+# Lagenocystis radicicola (Vanterp. & Ledingham) H.F. Copel., 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathidium microstomum SPECIES
-=======
+# Spathidium microstomum SPECIES
 
 #### Status
 ACCEPTED

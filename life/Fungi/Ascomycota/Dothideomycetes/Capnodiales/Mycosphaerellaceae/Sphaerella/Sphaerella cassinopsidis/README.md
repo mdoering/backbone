@@ -1,5 +1,4 @@
-Sphaerella cassinopsidis Kalchbr. & Cooke SPECIES
-=======
+# Sphaerella cassinopsidis Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

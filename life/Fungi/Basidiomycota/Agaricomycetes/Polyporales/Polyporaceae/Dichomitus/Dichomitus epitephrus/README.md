@@ -1,14 +1,13 @@
-Coriolus epitephrus (Berk.) G. Cunn., 1950 SPECIES
-=======
+# Dichomitus epitephrus (Berk.) Ryvarden, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. N. S. W. 75: 225 (1950)
+Mycotaxon 20(2): 339 (1984)
 
 #### Original name
 Trametes epitephra Berk., 1872

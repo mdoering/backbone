@@ -1,5 +1,4 @@
-Nakatopsis Whitton, McKenzie & K.D. Hyde GENUS
-=======
+# Nakatopsis Whitton, McKenzie & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

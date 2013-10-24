@@ -1,14 +1,13 @@
-Lasiosphaeria lapaziana Carroll & Munk, 1964 SPECIES
-=======
+# Chaetosphaeria lapaziana (Carroll & Munk) F.A. Fernández & Huhndorf, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 56(1): 90 (1964)
+Fungal Diversity 18: 49 (2005)
 
 #### Original name
 Lasiosphaeria lapaziana Carroll & Munk, 1964

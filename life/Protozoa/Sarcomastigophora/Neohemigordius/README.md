@@ -1,5 +1,4 @@
-Neohemigordius Wang & Sun, 1973 GENUS
-=======
+# Neohemigordius Wang & Sun, 1973 GENUS
 
 #### Status
 ACCEPTED

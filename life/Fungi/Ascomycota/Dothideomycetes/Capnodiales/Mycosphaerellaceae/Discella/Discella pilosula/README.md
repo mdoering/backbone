@@ -1,5 +1,4 @@
-Discella pilosula Ellis & Everh. SPECIES
-=======
+# Discella pilosula Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

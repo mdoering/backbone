@@ -1,5 +1,4 @@
-Pseudopyrenula thelotremoides (Nyl.) Müll. Arg. SPECIES
-=======
+# Pseudopyrenula thelotremoides (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

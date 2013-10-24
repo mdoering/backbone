@@ -1,5 +1,4 @@
-Valsa melanodiscus G.H. Otth SPECIES
-=======
+# Valsa melanodiscus G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

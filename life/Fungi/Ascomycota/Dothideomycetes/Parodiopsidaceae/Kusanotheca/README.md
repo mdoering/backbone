@@ -1,5 +1,4 @@
-Kusanotheca GENUS
-=======
+# Kusanotheca GENUS
 
 #### Status
 ACCEPTED

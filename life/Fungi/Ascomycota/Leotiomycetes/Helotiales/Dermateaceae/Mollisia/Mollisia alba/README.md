@@ -1,5 +1,4 @@
-Mollisia alba anon. SPECIES
-=======
+# Mollisia alba anon. SPECIES
 
 #### Status
 ACCEPTED

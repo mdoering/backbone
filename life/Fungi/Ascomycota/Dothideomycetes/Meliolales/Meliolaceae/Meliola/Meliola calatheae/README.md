@@ -1,5 +1,4 @@
-Meliola calatheae F. Stevens SPECIES
-=======
+# Meliola calatheae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

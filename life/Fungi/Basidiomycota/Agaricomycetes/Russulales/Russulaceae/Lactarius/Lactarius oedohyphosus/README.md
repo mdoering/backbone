@@ -1,5 +1,4 @@
-Lactarius oedohyphosus Idzerda & Noordel. SPECIES
-=======
+# Lactarius oedohyphosus Idzerda & Noordel. SPECIES
 
 #### Status
 ACCEPTED

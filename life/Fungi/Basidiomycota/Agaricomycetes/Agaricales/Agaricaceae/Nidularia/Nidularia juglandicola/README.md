@@ -1,5 +1,4 @@
-Nidularia juglandicola Schwein. SPECIES
-=======
+# Nidularia juglandicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

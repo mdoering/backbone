@@ -1,5 +1,4 @@
-Septogloeum dimorphum Sacc. SPECIES
-=======
+# Septogloeum dimorphum Sacc. SPECIES
 
 #### Status
 ACCEPTED

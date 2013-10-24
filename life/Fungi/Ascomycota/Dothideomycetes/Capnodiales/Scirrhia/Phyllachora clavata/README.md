@@ -1,5 +1,4 @@
-Phyllachora clavata Orejuela, 1944 SPECIES
-=======
+# Phyllachora clavata Orejuela, 1944 SPECIES
 
 #### Status
 DOUBTFUL

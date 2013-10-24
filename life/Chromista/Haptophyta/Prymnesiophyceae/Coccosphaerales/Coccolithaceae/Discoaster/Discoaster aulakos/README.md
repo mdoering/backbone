@@ -1,5 +1,4 @@
-Discoaster aulakos Gartner, 1967 SPECIES
-=======
+# Discoaster aulakos Gartner, 1967 SPECIES
 
 #### Status
 ACCEPTED

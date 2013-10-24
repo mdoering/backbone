@@ -1,5 +1,4 @@
-Lecidea magellanica Riedl SPECIES
-=======
+# Lecidea magellanica Riedl SPECIES
 
 #### Status
 ACCEPTED

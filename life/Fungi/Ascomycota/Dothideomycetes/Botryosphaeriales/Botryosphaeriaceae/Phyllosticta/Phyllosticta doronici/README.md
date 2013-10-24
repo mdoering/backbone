@@ -1,5 +1,4 @@
-Phyllosticta doronici Politis SPECIES
-=======
+# Phyllosticta doronici Politis SPECIES
 
 #### Status
 ACCEPTED

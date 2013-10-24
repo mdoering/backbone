@@ -1,5 +1,4 @@
-Didymella coffaeicola Speg. SPECIES
-=======
+# Didymella coffaeicola Speg. SPECIES
 
 #### Status
 ACCEPTED

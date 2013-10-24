@@ -1,5 +1,4 @@
-Astrothelium confusum Müll. Arg. SPECIES
-=======
+# Astrothelium confusum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphoroblastia maculata (Zschacke) Servít SPECIES
-=======
+# Amphoroblastia maculata (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

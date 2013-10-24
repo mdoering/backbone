@@ -1,14 +1,13 @@
-Lepiota paraena (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota paroena (Berk. & Broome) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 59 (1887)
 
 #### Original name
 Agaricus paraenus Berk. & Broome

@@ -1,5 +1,4 @@
-Digyalum oweni Koura, Grahame, Owen & Kamel, 1990 SPECIES
-=======
+# Digyalum oweni Koura, Grahame, Owen & Kamel, 1990 SPECIES
 
 #### Status
 ACCEPTED

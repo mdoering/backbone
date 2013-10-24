@@ -1,5 +1,4 @@
-Agaricus codiophorus Mont. SPECIES
-=======
+# Agaricus codiophorus Mont. SPECIES
 
 #### Status
 ACCEPTED

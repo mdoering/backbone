@@ -1,5 +1,4 @@
-Microthelia minultula SPECIES
-=======
+# Microthelia minultula SPECIES
 
 #### Status
 ACCEPTED

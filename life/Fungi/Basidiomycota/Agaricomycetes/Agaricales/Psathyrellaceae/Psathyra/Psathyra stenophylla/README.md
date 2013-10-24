@@ -1,5 +1,4 @@
-Psathyra stenophylla Mont. SPECIES
-=======
+# Psathyra stenophylla Mont. SPECIES
 
 #### Status
 ACCEPTED

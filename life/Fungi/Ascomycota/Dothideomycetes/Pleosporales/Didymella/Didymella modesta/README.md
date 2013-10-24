@@ -1,5 +1,4 @@
-Didymella modesta Mouton SPECIES
-=======
+# Didymella modesta Mouton SPECIES
 
 #### Status
 ACCEPTED

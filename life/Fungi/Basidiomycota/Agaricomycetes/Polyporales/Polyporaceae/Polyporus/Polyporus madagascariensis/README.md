@@ -1,17 +1,16 @@
-Polyporus madagascarensis Lloyd SPECIES
-=======
+# Polyporus madagascariensis Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 331 (1915)
 
 #### Original name
-Polyporus madagascarensis Lloyd
+Polyporus madagascariensis Lloyd
 
 ### Remarks
 null

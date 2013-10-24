@@ -1,5 +1,4 @@
-Autophagomyces spegazzinii Thaxt. SPECIES
-=======
+# Autophagomyces spegazzinii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

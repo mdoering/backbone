@@ -1,5 +1,4 @@
-Cothurnia arcuata Mereschkowski, 1879 SPECIES
-=======
+# Cothurnia arcuata Mereschkowski, 1879 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria inordinata Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria inordinata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

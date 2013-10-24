@@ -1,5 +1,4 @@
-Hygrocybe octayensis Singer SPECIES
-=======
+# Hygrocybe octayensis Singer SPECIES
 
 #### Status
 ACCEPTED

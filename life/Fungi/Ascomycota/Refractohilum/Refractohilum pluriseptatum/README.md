@@ -1,5 +1,4 @@
-Refractohilum pluriseptatum Etayo & Cl. Roux, 1997 SPECIES
-=======
+# Refractohilum pluriseptatum Etayo & Cl. Roux, 1997 SPECIES
 
 #### Status
 ACCEPTED

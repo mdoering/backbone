@@ -1,5 +1,4 @@
-Ophiocytium gracilipes Rabenhorst, 1865 SPECIES
-=======
+# Ophiocytium gracilipes Rabenhorst, 1865 SPECIES
 
 #### Status
 ACCEPTED

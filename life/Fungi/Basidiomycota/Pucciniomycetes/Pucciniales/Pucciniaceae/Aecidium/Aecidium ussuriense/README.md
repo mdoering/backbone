@@ -1,5 +1,4 @@
-Aecidium ussuriense Azbukina SPECIES
-=======
+# Aecidium ussuriense Azbukina SPECIES
 
 #### Status
 ACCEPTED

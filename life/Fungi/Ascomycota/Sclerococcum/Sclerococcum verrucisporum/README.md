@@ -1,5 +1,4 @@
-Sclerococcum verrucisporum Alstrup SPECIES
-=======
+# Sclerococcum verrucisporum Alstrup SPECIES
 
 #### Status
 ACCEPTED

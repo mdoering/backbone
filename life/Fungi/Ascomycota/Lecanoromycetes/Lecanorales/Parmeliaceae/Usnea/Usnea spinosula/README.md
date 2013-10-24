@@ -1,5 +1,4 @@
-Usnea spinosula Stirt. SPECIES
-=======
+# Usnea spinosula Stirt. SPECIES
 
 #### Status
 ACCEPTED

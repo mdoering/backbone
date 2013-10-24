@@ -1,5 +1,4 @@
-Clitocybe holoporphyra (Berk. & M.A. Curtis) SPECIES
-=======
+# Clitocybe holoporphyra (Berk. & M.A. Curtis) SPECIES
 
 #### Status
 ACCEPTED

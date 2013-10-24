@@ -1,5 +1,4 @@
-Cordosphaeridium senegalense K. P. Jain & P. Millepied SPECIES
-=======
+# Cordosphaeridium senegalense K. P. Jain & P. Millepied SPECIES
 
 #### Status
 ACCEPTED

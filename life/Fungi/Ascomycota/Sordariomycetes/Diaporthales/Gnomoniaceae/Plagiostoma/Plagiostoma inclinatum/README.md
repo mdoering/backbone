@@ -1,14 +1,13 @@
-Gnomonia inclinata (Desm.) Auersw., 1869 SPECIES
-=======
+# Plagiostoma inclinatum (Desm.) M.E. Barr, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Myc. Europ. Pyren. 27 (1869)
+Mycol. Mem. 7: 115 (1978)
 
 #### Original name
 Sphaeria inclinata Desm., 1856

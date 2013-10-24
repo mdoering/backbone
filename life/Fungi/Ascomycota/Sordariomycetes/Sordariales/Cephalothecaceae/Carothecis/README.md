@@ -1,5 +1,4 @@
-Carothecis GENUS
-=======
+# Carothecis GENUS
 
 #### Status
 ACCEPTED

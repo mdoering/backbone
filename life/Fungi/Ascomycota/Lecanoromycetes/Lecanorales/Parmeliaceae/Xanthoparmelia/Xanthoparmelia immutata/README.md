@@ -1,5 +1,4 @@
-Xanthoparmelia immutata Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia immutata Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

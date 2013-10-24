@@ -1,5 +1,4 @@
-Curvularia gladioli Boerema & Hamers, 1989 SPECIES
-=======
+# Curvularia gladioli Boerema & Hamers, 1989 SPECIES
 
 #### Status
 ACCEPTED

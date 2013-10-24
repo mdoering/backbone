@@ -1,5 +1,4 @@
-Cryptococcus radiatus Sartory, R. Sartory & J. Mey. SPECIES
-=======
+# Cryptococcus radiatus Sartory, R. Sartory & J. Mey. SPECIES
 
 #### Status
 ACCEPTED

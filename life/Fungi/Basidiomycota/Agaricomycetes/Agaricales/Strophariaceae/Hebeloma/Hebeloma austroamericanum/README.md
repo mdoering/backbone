@@ -1,5 +1,4 @@
-Hebeloma austroamericanum (Speg.) Sacc. SPECIES
-=======
+# Hebeloma austroamericanum (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplostephanus GENUS
-=======
+# Diplostephanus GENUS
 
 #### Status
 ACCEPTED

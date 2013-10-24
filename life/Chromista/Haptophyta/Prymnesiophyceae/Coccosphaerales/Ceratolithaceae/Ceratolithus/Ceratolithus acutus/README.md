@@ -1,5 +1,4 @@
-Ceratolithus acutus Gartner & Bukry, 1974 SPECIES
-=======
+# Ceratolithus acutus Gartner & Bukry, 1974 SPECIES
 
 #### Status
 ACCEPTED

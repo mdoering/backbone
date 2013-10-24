@@ -1,17 +1,16 @@
-Asteromella melittisi Chevassut SPECIES
-=======
+# Asteromella melittidis Chevassut SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Chevassut & Pellicier, Bull. Soc. mycol. Fr. 117(3): 202 (2002)
 
 #### Original name
-Asteromella melittisi Chevassut
+Asteromella melittidis Chevassut
 
 ### Remarks
 null

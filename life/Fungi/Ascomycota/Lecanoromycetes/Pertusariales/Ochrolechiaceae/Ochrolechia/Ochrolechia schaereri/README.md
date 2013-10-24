@@ -1,5 +1,4 @@
-Ochrolechia schaereri Hafellner SPECIES
-=======
+# Ochrolechia schaereri Hafellner SPECIES
 
 #### Status
 ACCEPTED

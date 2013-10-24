@@ -1,5 +1,4 @@
-Serratia proteamaculans subsp. proteamaculans SUBSPECIES
-=======
+# Serratia proteamaculans (Paine & Stansfield, 1919) Grimont et al., 1978 SPECIES
 
 #### Status
 ACCEPTED

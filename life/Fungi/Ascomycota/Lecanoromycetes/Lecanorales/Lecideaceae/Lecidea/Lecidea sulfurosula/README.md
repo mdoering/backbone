@@ -1,5 +1,4 @@
-Lecidea sulfurosula Stizenb. SPECIES
-=======
+# Lecidea sulfurosula Stizenb. SPECIES
 
 #### Status
 ACCEPTED

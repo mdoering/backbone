@@ -1,5 +1,4 @@
-Desulfotomaculum arcticum Vandieken et al., 2006 SPECIES
-=======
+# Desulfotomaculum arcticum Vandieken et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria agaricicola (F. Ludw.) Sacc. SPECIES
-=======
+# Poria agaricicola (F. Ludw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

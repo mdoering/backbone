@@ -1,5 +1,4 @@
-Planohowchinia Cozar & Mamet, 2001 GENUS
-=======
+# Planohowchinia Cozar & Mamet, 2001 GENUS
 
 #### Status
 ACCEPTED

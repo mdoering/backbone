@@ -1,14 +1,13 @@
-Trichomastyx Railliet, 1893 GENUS
-=======
+# Tetratrichomastix Mackinnon, 1913 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Quart. J. Micr. Sci. , 59, 465.
 
 #### Original name
 null

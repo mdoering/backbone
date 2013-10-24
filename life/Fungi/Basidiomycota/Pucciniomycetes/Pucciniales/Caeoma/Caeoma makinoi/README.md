@@ -1,5 +1,4 @@
-Caeoma makinoi Kusano SPECIES
-=======
+# Caeoma makinoi Kusano SPECIES
 
 #### Status
 ACCEPTED

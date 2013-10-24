@@ -1,5 +1,4 @@
-Melanoleuca olesonii Murrill SPECIES
-=======
+# Melanoleuca olesonii Murrill SPECIES
 
 #### Status
 ACCEPTED

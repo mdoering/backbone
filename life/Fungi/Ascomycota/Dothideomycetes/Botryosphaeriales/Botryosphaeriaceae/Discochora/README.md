@@ -1,5 +1,4 @@
-Discochora GENUS
-=======
+# Discochora GENUS
 
 #### Status
 ACCEPTED

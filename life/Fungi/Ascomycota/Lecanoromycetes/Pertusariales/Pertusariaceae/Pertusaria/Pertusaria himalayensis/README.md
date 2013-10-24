@@ -1,5 +1,4 @@
-Pertusaria himalayensis D.D. Awasthi & Preeti Srivast. SPECIES
-=======
+# Pertusaria himalayensis D.D. Awasthi & Preeti Srivast. SPECIES
 
 #### Status
 ACCEPTED

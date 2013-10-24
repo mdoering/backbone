@@ -1,5 +1,4 @@
-Eocronartium G.F. Atk. GENUS
-=======
+# Eocronartium G.F. Atk. GENUS
 
 #### Status
 ACCEPTED

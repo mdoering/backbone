@@ -1,5 +1,4 @@
-Myriogloea P.Kuckuck ex F.Oltmanns, 1922 GENUS
-=======
+# Myriogloea P.Kuckuck ex F.Oltmanns, 1922 GENUS
 
 #### Status
 ACCEPTED

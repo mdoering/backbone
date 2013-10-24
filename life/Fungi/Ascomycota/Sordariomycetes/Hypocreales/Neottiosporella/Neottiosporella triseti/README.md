@@ -1,5 +1,4 @@
-Neottiosporella triseti Graniti SPECIES
-=======
+# Neottiosporella triseti Graniti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laryngosigma subulata (Chapmenn & Parr, 1937) SPECIES
-=======
+# Laryngosigma subulata (Chapmenn & Parr, 1937) SPECIES
 
 #### Status
 ACCEPTED

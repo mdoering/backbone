@@ -1,5 +1,4 @@
-Botrytis fulgens Marchal SPECIES
-=======
+# Botrytis fulgens Marchal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza nigra Sw. SPECIES
-=======
+# Peziza nigra Sw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius nordmanensis A.H. Sm. SPECIES
-=======
+# Lactarius nordmanensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

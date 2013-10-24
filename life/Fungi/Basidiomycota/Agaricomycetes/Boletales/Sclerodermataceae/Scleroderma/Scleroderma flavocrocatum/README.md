@@ -1,5 +1,4 @@
-Scleroderma flavocrocatum Sacc. & De Toni SPECIES
-=======
+# Scleroderma flavocrocatum Sacc. & De Toni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichocladium constrictum I. Schmidt, 1985 SPECIES
-=======
+# Trichocladium constrictum I. Schmidt, 1985 SPECIES
 
 #### Status
 ACCEPTED

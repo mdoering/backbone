@@ -1,8 +1,7 @@
-Actinobispora yunnanensis Jiang et al., 1991 SPECIES
-=======
+# Pseudonocardia yunnanensis (Jiang et al., 1991) Huang et al., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

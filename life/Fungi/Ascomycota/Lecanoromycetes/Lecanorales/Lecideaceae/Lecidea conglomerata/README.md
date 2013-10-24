@@ -1,5 +1,4 @@
-Lecidea conglomerata Ach. SPECIES
-=======
+# Lecidea conglomerata Ach. SPECIES
 
 #### Status
 ACCEPTED

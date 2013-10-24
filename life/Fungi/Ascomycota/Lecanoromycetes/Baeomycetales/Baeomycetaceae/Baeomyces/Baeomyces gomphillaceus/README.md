@@ -1,5 +1,4 @@
-Baeomyces gomphillaceus H. Olivier SPECIES
-=======
+# Baeomyces gomphillaceus H. Olivier SPECIES
 
 #### Status
 ACCEPTED

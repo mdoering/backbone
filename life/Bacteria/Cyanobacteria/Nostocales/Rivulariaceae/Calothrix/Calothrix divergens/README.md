@@ -1,5 +1,4 @@
-Calothrix divergens C.L. Sant'Anna, L.H.Z. Branco & S.M.F. Silva SPECIES
-=======
+# Calothrix divergens C.L. Sant'Anna, L.H.Z. Branco & S.M.F. Silva SPECIES
 
 #### Status
 ACCEPTED

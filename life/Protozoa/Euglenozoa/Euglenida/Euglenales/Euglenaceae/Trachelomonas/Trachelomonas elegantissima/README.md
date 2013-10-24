@@ -1,8 +1,7 @@
-Dinobryon elegantissimum G.S. West SPECIES
-=======
+# Trachelomonas elegantissima (G.S. West) Playfair SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

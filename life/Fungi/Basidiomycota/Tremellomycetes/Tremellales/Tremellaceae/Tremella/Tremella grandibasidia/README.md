@@ -1,5 +1,4 @@
-Tremella grandibasidia L.S. Olive SPECIES
-=======
+# Tremella grandibasidia L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

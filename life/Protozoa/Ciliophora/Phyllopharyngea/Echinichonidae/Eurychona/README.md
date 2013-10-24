@@ -1,5 +1,4 @@
-Eurychona Yankovskii, 1973 GENUS
-=======
+# Eurychona Yankovskii, 1973 GENUS
 
 #### Status
 ACCEPTED

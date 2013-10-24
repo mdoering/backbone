@@ -1,5 +1,4 @@
-Septoria capillatae Trotter SPECIES
-=======
+# Septoria capillatae Trotter SPECIES
 
 #### Status
 ACCEPTED

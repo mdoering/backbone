@@ -1,5 +1,4 @@
-Thelephora cerberea Corner, 1966 SPECIES
-=======
+# Thelephora cerberea Corner, 1966 SPECIES
 
 #### Status
 ACCEPTED

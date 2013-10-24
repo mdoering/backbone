@@ -1,5 +1,4 @@
-Wentiomyces dryadis K. Holm & L. Holm SPECIES
-=======
+# Wentiomyces dryadis K. Holm & L. Holm SPECIES
 
 #### Status
 ACCEPTED

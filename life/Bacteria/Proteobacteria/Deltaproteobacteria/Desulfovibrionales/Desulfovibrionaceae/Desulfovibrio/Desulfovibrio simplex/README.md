@@ -1,5 +1,4 @@
-Desulfovibrio simplex Zellner et al., 1990 SPECIES
-=======
+# Desulfovibrio simplex Zellner et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

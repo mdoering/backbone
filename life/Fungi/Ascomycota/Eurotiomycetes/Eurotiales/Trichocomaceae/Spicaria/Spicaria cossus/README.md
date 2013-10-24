@@ -1,5 +1,4 @@
-Spicaria cossus Portier & Sartory SPECIES
-=======
+# Spicaria cossus Portier & Sartory SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alatipicapora Tekin, 1999 GENUS
-=======
+# Alatipicapora Tekin, 1999 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eriosphaeria albidomucosa Rehm SPECIES
-=======
+# Eriosphaeria albidomucosa Rehm SPECIES
 
 #### Status
 ACCEPTED

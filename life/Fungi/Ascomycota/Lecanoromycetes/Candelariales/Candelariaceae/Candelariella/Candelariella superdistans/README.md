@@ -1,14 +1,13 @@
-Lecanora superdistans Nyl. SPECIES
-=======
+# Candelariella superdistans (Nyl.) Malme SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 62: 355 (1879)
+null
 
 #### Original name
 Lecanora superdistans Nyl.

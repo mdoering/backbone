@@ -1,5 +1,4 @@
-Boletus silvestris Petch SPECIES
-=======
+# Boletus silvestris Petch SPECIES
 
 #### Status
 ACCEPTED

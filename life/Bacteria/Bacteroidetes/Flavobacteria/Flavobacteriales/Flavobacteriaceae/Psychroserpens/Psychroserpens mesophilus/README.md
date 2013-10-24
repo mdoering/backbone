@@ -1,5 +1,4 @@
-Psychroserpens mesophilus Kwon et al., 2006 SPECIES
-=======
+# Psychroserpens mesophilus Kwon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

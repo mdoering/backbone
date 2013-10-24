@@ -1,5 +1,4 @@
-Cystocybe nasuta Velen. SPECIES
-=======
+# Cystocybe nasuta Velen. SPECIES
 
 #### Status
 ACCEPTED

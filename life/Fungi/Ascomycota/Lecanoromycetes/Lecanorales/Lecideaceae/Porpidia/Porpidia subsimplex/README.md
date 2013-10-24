@@ -1,5 +1,4 @@
-Porpidia subsimplex (H. Magn.) Fryday SPECIES
-=======
+# Porpidia subsimplex (H. Magn.) Fryday SPECIES
 
 #### Status
 ACCEPTED

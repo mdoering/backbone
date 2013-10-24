@@ -1,5 +1,4 @@
-Polyblastia geminella (Nyl.) Trevis. SPECIES
-=======
+# Polyblastia geminella (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

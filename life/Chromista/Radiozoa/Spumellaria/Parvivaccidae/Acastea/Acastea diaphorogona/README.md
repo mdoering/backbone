@@ -1,5 +1,4 @@
-Acastea diaphorogona SPECIES
-=======
+# Acastea diaphorogona SPECIES
 
 #### Status
 ACCEPTED

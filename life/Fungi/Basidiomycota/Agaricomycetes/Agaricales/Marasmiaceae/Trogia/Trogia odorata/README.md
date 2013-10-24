@@ -1,5 +1,4 @@
-Trogia odorata Corner SPECIES
-=======
+# Trogia odorata Corner SPECIES
 
 #### Status
 ACCEPTED

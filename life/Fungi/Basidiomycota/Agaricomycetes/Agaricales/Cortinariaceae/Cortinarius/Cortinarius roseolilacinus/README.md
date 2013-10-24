@@ -1,5 +1,4 @@
-Cortinarius roseolilacinus (Bougher, Fuhrer & E. Horak) Peintner, E. Horak, M.M. Moser & Vilgalys SPECIES
-=======
+# Cortinarius roseolilacinus (Bougher, Fuhrer & E. Horak) Peintner, E. Horak, M.M. Moser & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

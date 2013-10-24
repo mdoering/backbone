@@ -1,14 +1,13 @@
-Ustilago pinguiculae Rostr., 1890 SPECIES
-=======
+# Microbotryum pinguiculae (Rostr.) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 67: 48 (1998)
 
 #### Original name
 Ustilago pinguiculae Rostr., 1890

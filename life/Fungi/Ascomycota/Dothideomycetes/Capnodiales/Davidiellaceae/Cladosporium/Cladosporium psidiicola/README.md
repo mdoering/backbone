@@ -1,17 +1,16 @@
-Cladosporium psidiicolum J.M. Yen SPECIES
-=======
+# Cladosporium psidiicola J.M. Yen, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 95(3): 188 (1980)
 
 #### Original name
-Cladosporium psidiicolum J.M. Yen
+Cladosporium psidiicola J.M. Yen, 1980
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ramalina zollingeri Szatala SPECIES
-=======
+# Ramalina zollingeri Szatala SPECIES
 
 #### Status
 ACCEPTED

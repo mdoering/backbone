@@ -1,5 +1,4 @@
-Pseudocercospora phytolaccacearum Kamal, C. Gupta & A.N. Rai SPECIES
-=======
+# Pseudocercospora phytolaccacearum Kamal, C. Gupta & A.N. Rai SPECIES
 
 #### Status
 ACCEPTED

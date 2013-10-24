@@ -1,5 +1,4 @@
-Omphalocystis Balbiani GENUS
-=======
+# Omphalocystis Balbiani GENUS
 
 #### Status
 ACCEPTED

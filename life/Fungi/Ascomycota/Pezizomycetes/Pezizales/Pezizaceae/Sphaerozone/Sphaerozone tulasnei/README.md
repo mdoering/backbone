@@ -1,5 +1,4 @@
-Sphaerozone tulasnei Zobel, 1854 SPECIES
-=======
+# Sphaerozone tulasnei Zobel, 1854 SPECIES
 
 #### Status
 ACCEPTED

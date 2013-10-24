@@ -1,5 +1,4 @@
-Diaporthe tumulata Cooke & Ellis SPECIES
-=======
+# Diaporthe tumulata Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora melochiicola (Syd.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora melochiicola (Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

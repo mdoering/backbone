@@ -1,5 +1,4 @@
-Neuropogon sphacelatus (R. Br.) D.J. Galloway SPECIES
-=======
+# Neuropogon sphacelatus (R. Br.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

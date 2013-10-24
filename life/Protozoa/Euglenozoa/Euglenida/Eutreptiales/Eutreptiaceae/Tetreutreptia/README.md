@@ -1,5 +1,4 @@
-Tetreutreptia J.L.McLachlan, M.R.Seguel & L.Fritz, 1994 GENUS
-=======
+# Tetreutreptia J.L.McLachlan, M.R.Seguel & L.Fritz, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria squamosa Lloyd SPECIES
-=======
+# Xylaria squamosa Lloyd SPECIES
 
 #### Status
 ACCEPTED

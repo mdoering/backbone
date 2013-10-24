@@ -1,5 +1,4 @@
-Tephromela gigantea Kalb & Elix SPECIES
-=======
+# Tephromela gigantea Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

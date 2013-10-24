@@ -1,5 +1,4 @@
-Diedickea Syd. & P. Syd. GENUS
-=======
+# Diedickea Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

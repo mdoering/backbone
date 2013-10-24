@@ -1,5 +1,4 @@
-Godroniella linnaeae Starbäck SPECIES
-=======
+# Godroniella linnaeae Starbäck SPECIES
 
 #### Status
 ACCEPTED

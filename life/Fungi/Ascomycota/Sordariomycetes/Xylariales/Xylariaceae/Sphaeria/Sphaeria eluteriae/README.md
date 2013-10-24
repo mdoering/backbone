@@ -1,5 +1,4 @@
-Sphaeria eluteriae J.C. Schmidt SPECIES
-=======
+# Sphaeria eluteriae J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

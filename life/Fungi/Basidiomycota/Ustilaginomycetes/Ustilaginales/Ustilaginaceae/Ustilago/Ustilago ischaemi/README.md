@@ -1,5 +1,4 @@
-Ustilago ischaemi Fuckel SPECIES
-=======
+# Ustilago ischaemi Fuckel SPECIES
 
 #### Status
 ACCEPTED

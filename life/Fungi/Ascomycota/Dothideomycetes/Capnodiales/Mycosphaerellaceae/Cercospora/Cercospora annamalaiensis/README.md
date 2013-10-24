@@ -1,5 +1,4 @@
-Cercospora annamalaiensis Rangaswami & Chandras. SPECIES
-=======
+# Cercospora annamalaiensis Rangaswami & Chandras. SPECIES
 
 #### Status
 ACCEPTED

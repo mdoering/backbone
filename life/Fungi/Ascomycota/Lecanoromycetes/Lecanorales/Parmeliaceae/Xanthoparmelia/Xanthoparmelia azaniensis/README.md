@@ -1,5 +1,4 @@
-Xanthoparmelia azaniensis (Brusse) A. Thell, Feuerer, Elix & Kärnefelt SPECIES
-=======
+# Xanthoparmelia azaniensis (Brusse) A. Thell, Feuerer, Elix & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

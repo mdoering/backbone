@@ -1,8 +1,7 @@
-Rhytisma melianthi Thüm., 1876 SPECIES
-=======
+# Phyllachora melianthi (Thüm.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Pleospora dichromatricha var. nigriseda (Rehm) Wehm. VARIETY
-=======
+# Pleospora dichromotricha (Speg.) Wehm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mycologia 45(3): 402 (1953)
+Mycologia 45(3): 401 (1953)
 
 #### Original name
-Pleospora infectoria var. nigriseda Rehm
+Pyrenophora dichromotricha Speg.
 
 ### Remarks
 null

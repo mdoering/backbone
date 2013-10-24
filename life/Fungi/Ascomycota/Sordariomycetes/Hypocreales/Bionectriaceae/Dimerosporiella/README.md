@@ -1,5 +1,4 @@
-Dimerosporiella Spegazzini, 1908 GENUS
-=======
+# Dimerosporiella Spegazzini, 1908 GENUS
 
 #### Status
 ACCEPTED

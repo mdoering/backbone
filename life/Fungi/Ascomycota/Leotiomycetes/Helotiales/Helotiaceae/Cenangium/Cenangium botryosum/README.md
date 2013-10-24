@@ -1,5 +1,4 @@
-Cenangium botryosum Henn. SPECIES
-=======
+# Cenangium botryosum Henn. SPECIES
 
 #### Status
 ACCEPTED

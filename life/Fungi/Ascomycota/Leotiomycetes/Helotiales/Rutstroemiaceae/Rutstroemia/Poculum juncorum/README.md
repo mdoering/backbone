@@ -1,5 +1,4 @@
-Poculum juncorum Velen. SPECIES
-=======
+# Poculum juncorum Velen. SPECIES
 
 #### Status
 ACCEPTED

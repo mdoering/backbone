@@ -1,5 +1,4 @@
-Phyllosticta sterculiae-nobilis Sawada SPECIES
-=======
+# Phyllosticta sterculiae-nobilis Sawada SPECIES
 
 #### Status
 ACCEPTED

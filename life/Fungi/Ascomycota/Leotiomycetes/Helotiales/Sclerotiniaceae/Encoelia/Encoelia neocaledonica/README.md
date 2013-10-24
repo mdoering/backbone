@@ -1,5 +1,4 @@
-Encoelia neocaledonica Wakef. SPECIES
-=======
+# Encoelia neocaledonica Wakef. SPECIES
 
 #### Status
 ACCEPTED

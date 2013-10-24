@@ -1,5 +1,4 @@
-Verrucisporota D.E. Shaw & Alcorn GENUS
-=======
+# Verrucisporota D.E. Shaw & Alcorn GENUS
 
 #### Status
 ACCEPTED

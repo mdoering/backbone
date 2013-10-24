@@ -1,5 +1,4 @@
-Allocetraria Kurok. & M.J. Lai GENUS
-=======
+# Allocetraria Kurok. & M.J. Lai GENUS
 
 #### Status
 ACCEPTED

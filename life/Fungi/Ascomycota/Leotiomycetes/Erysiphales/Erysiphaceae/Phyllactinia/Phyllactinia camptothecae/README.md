@@ -1,5 +1,4 @@
-Phyllactinia camptothecae Y.N. Yu SPECIES
-=======
+# Phyllactinia camptothecae Y.N. Yu SPECIES
 
 #### Status
 ACCEPTED

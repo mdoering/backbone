@@ -1,5 +1,4 @@
-Puccinia cabo-friensis Henn. SPECIES
-=======
+# Puccinia cabo-friensis Henn. SPECIES
 
 #### Status
 ACCEPTED

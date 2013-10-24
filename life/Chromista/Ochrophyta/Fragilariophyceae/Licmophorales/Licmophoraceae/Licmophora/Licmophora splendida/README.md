@@ -1,5 +1,4 @@
-Licmophora splendida Greville ex W. Smith SPECIES
-=======
+# Licmophora splendida Greville ex W. Smith SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus verruculosus S. Ito & S. Imai SPECIES
-=======
+# Pluteus verruculosus S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelotheca ischaemi-rugosi Mishra SPECIES
-=======
+# Sphacelotheca ischaemi-rugosi Mishra SPECIES
 
 #### Status
 ACCEPTED

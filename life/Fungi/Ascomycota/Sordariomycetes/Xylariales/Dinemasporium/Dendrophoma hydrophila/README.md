@@ -1,5 +1,4 @@
-Dendrophoma hydrophila P. Karst. SPECIES
-=======
+# Dendrophoma hydrophila P. Karst. SPECIES
 
 #### Status
 ACCEPTED

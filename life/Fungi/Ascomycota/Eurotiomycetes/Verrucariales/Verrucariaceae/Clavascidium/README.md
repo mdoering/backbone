@@ -1,5 +1,4 @@
-Clavascidium Breuss GENUS
-=======
+# Clavascidium Breuss GENUS
 
 #### Status
 ACCEPTED

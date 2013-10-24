@@ -1,5 +1,4 @@
-Macrosporium atrovirescens Speg. SPECIES
-=======
+# Macrosporium atrovirescens Speg. SPECIES
 
 #### Status
 ACCEPTED

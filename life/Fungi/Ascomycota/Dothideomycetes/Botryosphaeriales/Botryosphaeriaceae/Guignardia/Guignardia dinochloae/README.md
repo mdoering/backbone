@@ -1,5 +1,4 @@
-Guignardia dinochloae Rehm SPECIES
-=======
+# Guignardia dinochloae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus sagatus Fr. SPECIES
-=======
+# Agaricus sagatus Fr. SPECIES
 
 #### Status
 ACCEPTED

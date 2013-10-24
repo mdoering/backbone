@@ -1,5 +1,4 @@
-Amphidinium celestinum Conrad & Kufferath SPECIES
-=======
+# Amphidinium celestinum Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

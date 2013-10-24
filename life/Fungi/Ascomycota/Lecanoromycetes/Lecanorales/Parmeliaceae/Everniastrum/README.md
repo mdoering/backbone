@@ -1,5 +1,4 @@
-Everniastrum Hale ex Sipman GENUS
-=======
+# Everniastrum Hale ex Sipman GENUS
 
 #### Status
 ACCEPTED

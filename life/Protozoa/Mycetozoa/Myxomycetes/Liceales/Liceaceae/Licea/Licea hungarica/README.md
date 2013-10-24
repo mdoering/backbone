@@ -1,5 +1,4 @@
-Licea hungarica Moesz SPECIES
-=======
+# Licea hungarica Moesz SPECIES
 
 #### Status
 ACCEPTED

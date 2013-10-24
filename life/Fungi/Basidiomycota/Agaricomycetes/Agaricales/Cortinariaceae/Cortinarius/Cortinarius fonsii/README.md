@@ -1,5 +1,4 @@
-Cortinarius fonsii Melot SPECIES
-=======
+# Cortinarius fonsii Melot SPECIES
 
 #### Status
 ACCEPTED

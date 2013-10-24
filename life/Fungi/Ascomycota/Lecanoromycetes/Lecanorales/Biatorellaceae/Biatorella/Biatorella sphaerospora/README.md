@@ -1,5 +1,4 @@
-Biatorella sphaerospora (J. Steiner) SPECIES
-=======
+# Biatorella sphaerospora (J. Steiner) SPECIES
 
 #### Status
 ACCEPTED

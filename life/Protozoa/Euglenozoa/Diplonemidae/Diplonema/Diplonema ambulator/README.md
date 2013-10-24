@@ -1,5 +1,4 @@
-Diplonema ambulator Larsen & Patterson, 1990 SPECIES
-=======
+# Diplonema ambulator Larsen & Patterson, 1990 SPECIES
 
 #### Status
 ACCEPTED

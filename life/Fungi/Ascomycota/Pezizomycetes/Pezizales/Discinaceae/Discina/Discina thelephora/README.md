@@ -1,5 +1,4 @@
-Discina thelephora (Wallr.) Fr. SPECIES
-=======
+# Discina thelephora (Wallr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

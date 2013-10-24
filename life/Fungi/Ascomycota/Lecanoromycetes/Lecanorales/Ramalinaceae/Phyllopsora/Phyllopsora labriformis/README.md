@@ -1,5 +1,4 @@
-Phyllopsora labriformis Timdal SPECIES
-=======
+# Phyllopsora labriformis Timdal SPECIES
 
 #### Status
 ACCEPTED

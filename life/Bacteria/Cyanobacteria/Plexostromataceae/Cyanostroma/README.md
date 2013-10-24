@@ -1,5 +1,4 @@
-Cyanostroma Vologdin GENUS
-=======
+# Cyanostroma Vologdin GENUS
 
 #### Status
 ACCEPTED

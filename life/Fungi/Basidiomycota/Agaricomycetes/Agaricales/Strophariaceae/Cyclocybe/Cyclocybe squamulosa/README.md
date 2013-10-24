@@ -1,5 +1,4 @@
-Cyclocybe squamulosa Velen. SPECIES
-=======
+# Cyclocybe squamulosa Velen. SPECIES
 
 #### Status
 ACCEPTED

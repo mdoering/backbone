@@ -1,5 +1,4 @@
-Flammula vacini Velen. SPECIES
-=======
+# Flammula vacini Velen. SPECIES
 
 #### Status
 ACCEPTED

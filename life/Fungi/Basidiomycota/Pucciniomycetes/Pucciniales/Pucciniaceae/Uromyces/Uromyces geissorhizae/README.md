@@ -1,5 +1,4 @@
-Uromyces geissorhizae Henn. SPECIES
-=======
+# Uromyces geissorhizae Henn. SPECIES
 
 #### Status
 ACCEPTED

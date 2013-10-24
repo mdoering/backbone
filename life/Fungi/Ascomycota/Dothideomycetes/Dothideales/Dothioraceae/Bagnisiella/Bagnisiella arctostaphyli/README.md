@@ -1,5 +1,4 @@
-Bagnisiella arctostaphyli (Plowr.) Theiss. SPECIES
-=======
+# Bagnisiella arctostaphyli (Plowr.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

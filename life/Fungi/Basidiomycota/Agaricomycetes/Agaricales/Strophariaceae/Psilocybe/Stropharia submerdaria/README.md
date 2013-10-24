@@ -1,5 +1,4 @@
-Stropharia submerdaria (Britzelm.) Sacc. SPECIES
-=======
+# Stropharia submerdaria (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

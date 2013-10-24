@@ -1,5 +1,4 @@
-Pterygium triptophyllizum (Nyl.) Hue SPECIES
-=======
+# Pterygium triptophyllizum (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

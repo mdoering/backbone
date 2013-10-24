@@ -1,5 +1,4 @@
-Micropyrenula GENUS
-=======
+# Micropyrenula GENUS
 
 #### Status
 ACCEPTED

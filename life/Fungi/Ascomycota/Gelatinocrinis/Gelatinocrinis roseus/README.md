@@ -1,5 +1,4 @@
-Gelatinocrinis roseus Matsush., 1995 SPECIES
-=======
+# Gelatinocrinis roseus Matsush., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongobrachium Haeckel, 1881 GENUS
-=======
+# Spongobrachium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

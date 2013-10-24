@@ -1,5 +1,4 @@
-Clitocybe oculata Murrill SPECIES
-=======
+# Clitocybe oculata Murrill SPECIES
 
 #### Status
 ACCEPTED

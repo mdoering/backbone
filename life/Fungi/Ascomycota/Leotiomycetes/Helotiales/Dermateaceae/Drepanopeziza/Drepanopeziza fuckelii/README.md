@@ -1,5 +1,4 @@
-Drepanopeziza fuckelii Nannf. SPECIES
-=======
+# Drepanopeziza fuckelii Nannf. SPECIES
 
 #### Status
 ACCEPTED

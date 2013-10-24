@@ -1,5 +1,4 @@
-Lecanora dendroplaca H. Magn. SPECIES
-=======
+# Lecanora dendroplaca H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Roscoffia Balech, 1956 GENUS
-=======
+# Roscoffia Balech, 1956 GENUS
 
 #### Status
 ACCEPTED

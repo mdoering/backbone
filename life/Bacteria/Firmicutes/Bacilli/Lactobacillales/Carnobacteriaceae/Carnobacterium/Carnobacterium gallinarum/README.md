@@ -1,5 +1,4 @@
-Carnobacterium gallinarum Collins et al., 1987 SPECIES
-=======
+# Carnobacterium gallinarum Collins et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

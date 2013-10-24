@@ -1,5 +1,4 @@
-Haploravenelia millettiae (Hirats. f. & Hashioka) S. Ito SPECIES
-=======
+# Haploravenelia millettiae (Hirats. f. & Hashioka) S. Ito SPECIES
 
 #### Status
 ACCEPTED

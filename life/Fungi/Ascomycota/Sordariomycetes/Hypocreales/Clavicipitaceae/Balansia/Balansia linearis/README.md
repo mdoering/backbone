@@ -1,5 +1,4 @@
-Balansia linearis (Rehm) Diehl SPECIES
-=======
+# Balansia linearis (Rehm) Diehl SPECIES
 
 #### Status
 ACCEPTED

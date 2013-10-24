@@ -1,5 +1,4 @@
-Pentapylonium Dumitrica, 1991 GENUS
-=======
+# Pentapylonium Dumitrica, 1991 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola chamaecristicola F. Stevens SPECIES
-=======
+# Meliola chamaecristicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

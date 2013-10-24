@@ -1,5 +1,4 @@
-Acarospora subochracea H. Magn. SPECIES
-=======
+# Acarospora subochracea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

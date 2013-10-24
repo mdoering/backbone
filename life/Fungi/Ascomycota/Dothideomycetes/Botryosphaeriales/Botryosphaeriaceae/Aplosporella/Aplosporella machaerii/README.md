@@ -1,5 +1,4 @@
-Aplosporella machaerii Henn. SPECIES
-=======
+# Aplosporella machaerii Henn. SPECIES
 
 #### Status
 ACCEPTED

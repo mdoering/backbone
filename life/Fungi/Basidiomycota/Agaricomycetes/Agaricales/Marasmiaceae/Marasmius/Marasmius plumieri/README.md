@@ -1,5 +1,4 @@
-Marasmius plumieri (Lév.) Singer SPECIES
-=======
+# Marasmius plumieri (Lév.) Singer SPECIES
 
 #### Status
 ACCEPTED

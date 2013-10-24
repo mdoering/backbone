@@ -1,5 +1,4 @@
-Caloplaca punicea (Müll. Arg.) Jatta SPECIES
-=======
+# Caloplaca punicea (Müll. Arg.) Jatta SPECIES
 
 #### Status
 ACCEPTED

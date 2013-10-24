@@ -1,5 +1,4 @@
-Clasterosporium eocenicum Fritel & R. Vig. SPECIES
-=======
+# Clasterosporium eocenicum Fritel & R. Vig. SPECIES
 
 #### Status
 ACCEPTED

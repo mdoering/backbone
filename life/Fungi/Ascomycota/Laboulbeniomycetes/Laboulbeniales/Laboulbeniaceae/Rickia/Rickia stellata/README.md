@@ -1,5 +1,4 @@
-Rickia stellata T. Majewski SPECIES
-=======
+# Rickia stellata T. Majewski SPECIES
 
 #### Status
 ACCEPTED

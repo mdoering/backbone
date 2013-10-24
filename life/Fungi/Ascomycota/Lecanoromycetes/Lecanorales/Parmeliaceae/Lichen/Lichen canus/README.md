@@ -1,5 +1,4 @@
-Lichen canus SPECIES
-=======
+# Lichen canus SPECIES
 
 #### Status
 ACCEPTED

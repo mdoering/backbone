@@ -1,5 +1,4 @@
-Xyloma juglandis DC. SPECIES
-=======
+# Xyloma juglandis DC. SPECIES
 
 #### Status
 ACCEPTED

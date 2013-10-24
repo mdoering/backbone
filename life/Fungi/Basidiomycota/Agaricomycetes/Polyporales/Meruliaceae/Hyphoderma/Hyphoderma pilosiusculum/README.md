@@ -1,5 +1,4 @@
-Hyphoderma pilosiusculum (Hjortstam & Ryvarden) Hjortstam & Ryvarden SPECIES
-=======
+# Hyphoderma pilosiusculum (Hjortstam & Ryvarden) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

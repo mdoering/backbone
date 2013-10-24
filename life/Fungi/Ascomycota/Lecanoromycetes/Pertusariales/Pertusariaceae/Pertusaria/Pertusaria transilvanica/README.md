@@ -1,8 +1,7 @@
-Pertusaria transsilvanica Ciurchea SPECIES
-=======
+# Pertusaria transilvanica Ciurchea SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria transsilvanica Ciurchea
+Pertusaria transilvanica Ciurchea
 
 ### Remarks
 null

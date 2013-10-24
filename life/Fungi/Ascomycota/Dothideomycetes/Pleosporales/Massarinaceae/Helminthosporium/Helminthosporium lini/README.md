@@ -1,5 +1,4 @@
-Helminthosporium lini Gentner SPECIES
-=======
+# Helminthosporium lini Gentner SPECIES
 
 #### Status
 ACCEPTED

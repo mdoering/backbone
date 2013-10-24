@@ -1,5 +1,4 @@
-Apertospathula lajacola Foissner & Xu, 2007 SPECIES
-=======
+# Apertospathula lajacola Foissner & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

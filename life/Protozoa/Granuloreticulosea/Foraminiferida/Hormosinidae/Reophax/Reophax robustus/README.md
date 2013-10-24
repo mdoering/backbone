@@ -1,5 +1,4 @@
-Reophax robustus f. septentrionalis Cushman, 1920 FORM
-=======
+# Reophax robustus Pearcy SPECIES
 
 #### Status
 ACCEPTED

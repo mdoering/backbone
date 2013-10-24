@@ -1,5 +1,4 @@
-Bombardia hydrophila Kirschst. SPECIES
-=======
+# Bombardia hydrophila Kirschst. SPECIES
 
 #### Status
 ACCEPTED

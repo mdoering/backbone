@@ -1,5 +1,4 @@
-Cryptosporium nyssae Cooke & Ellis SPECIES
-=======
+# Cryptosporium nyssae Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

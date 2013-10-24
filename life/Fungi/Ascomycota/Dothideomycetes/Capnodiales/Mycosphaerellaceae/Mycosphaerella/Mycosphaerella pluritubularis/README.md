@@ -1,17 +1,16 @@
-Teratosphaeria pluritubularis (Crous & Mansilla) Crous & U. Braun, 2007 SPECIES
-=======
+# Mycosphaerella pluritubularis Crous & Mansilla, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous, Wingfield, Mansilla, Alfenas & Groenewald, Stud. Mycol. 55: 114 (2006)
 
 #### Original name
-null
+Mycosphaerella pluritubularis Crous & Mansilla, 2006
 
 ### Remarks
 null

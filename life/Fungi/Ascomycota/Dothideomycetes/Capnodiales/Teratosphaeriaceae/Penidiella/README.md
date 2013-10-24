@@ -1,5 +1,4 @@
-Penidiella Crous & U. Braun GENUS
-=======
+# Penidiella Crous & U. Braun GENUS
 
 #### Status
 ACCEPTED

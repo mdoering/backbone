@@ -1,5 +1,4 @@
-Mallomonas elongata Reverdin SPECIES
-=======
+# Mallomonas elongata Reverdin SPECIES
 
 #### Status
 ACCEPTED

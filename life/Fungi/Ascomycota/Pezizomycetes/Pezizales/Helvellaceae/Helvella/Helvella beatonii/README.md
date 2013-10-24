@@ -1,5 +1,4 @@
-Helvella beatonii (Rifai) Harmaja SPECIES
-=======
+# Helvella beatonii (Rifai) Harmaja SPECIES
 
 #### Status
 ACCEPTED

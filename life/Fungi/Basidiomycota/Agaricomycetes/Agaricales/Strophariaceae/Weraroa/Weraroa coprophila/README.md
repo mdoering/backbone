@@ -1,5 +1,4 @@
-Weraroa coprophila A.H. Sm., 1965 SPECIES
-=======
+# Weraroa coprophila A.H. Sm., 1965 SPECIES
 
 #### Status
 ACCEPTED

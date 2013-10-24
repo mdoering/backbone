@@ -1,5 +1,4 @@
-Gnomonia fautreyi Rolland SPECIES
-=======
+# Gnomonia fautreyi Rolland SPECIES
 
 #### Status
 ACCEPTED

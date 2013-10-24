@@ -1,5 +1,4 @@
-Cortinarius conveniens (Schulzer) Melot SPECIES
-=======
+# Cortinarius conveniens (Schulzer) Melot SPECIES
 
 #### Status
 ACCEPTED

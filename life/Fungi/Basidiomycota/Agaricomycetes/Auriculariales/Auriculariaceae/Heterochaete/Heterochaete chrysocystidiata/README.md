@@ -1,5 +1,4 @@
-Heterochaete chrysocystidiata Y.B. Peng & X.W. Hu SPECIES
-=======
+# Heterochaete chrysocystidiata Y.B. Peng & X.W. Hu SPECIES
 
 #### Status
 ACCEPTED

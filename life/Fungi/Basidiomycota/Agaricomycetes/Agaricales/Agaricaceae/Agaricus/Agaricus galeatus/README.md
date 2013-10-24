@@ -1,5 +1,4 @@
-Agaricus galeatus Lév. SPECIES
-=======
+# Agaricus galeatus Lév. SPECIES
 
 #### Status
 ACCEPTED

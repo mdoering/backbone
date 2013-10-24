@@ -1,5 +1,4 @@
-Pertusaria hypochrysea Vain. SPECIES
-=======
+# Pertusaria hypochrysea Vain. SPECIES
 
 #### Status
 ACCEPTED

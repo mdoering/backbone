@@ -1,17 +1,16 @@
-Stagonospora subseriata var. subseriata VARIETY
-=======
+# Stagonospora subseriata (Desm.) Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 3: 454 (1884)
 
 #### Original name
-Stagonospora subseriata var. subseriata
+Hendersonia subseriata Desm., 1846
 
 ### Remarks
 null

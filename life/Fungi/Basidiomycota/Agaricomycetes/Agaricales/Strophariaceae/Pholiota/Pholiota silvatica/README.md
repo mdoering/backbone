@@ -1,5 +1,4 @@
-Pholiota silvatica (A.H. Sm.) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota silvatica (A.H. Sm.) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

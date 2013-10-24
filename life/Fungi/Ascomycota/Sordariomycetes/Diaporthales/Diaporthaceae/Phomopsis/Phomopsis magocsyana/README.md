@@ -1,5 +1,4 @@
-Phomopsis magocsyana Moesz SPECIES
-=======
+# Phomopsis magocsyana Moesz SPECIES
 
 #### Status
 ACCEPTED

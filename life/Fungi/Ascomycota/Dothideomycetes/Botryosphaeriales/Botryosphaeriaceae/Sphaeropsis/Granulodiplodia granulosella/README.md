@@ -1,5 +1,4 @@
-Granulodiplodia granulosella Zambett., 1955 SPECIES
-=======
+# Granulodiplodia granulosella Zambett., 1955 SPECIES
 
 #### Status
 ACCEPTED

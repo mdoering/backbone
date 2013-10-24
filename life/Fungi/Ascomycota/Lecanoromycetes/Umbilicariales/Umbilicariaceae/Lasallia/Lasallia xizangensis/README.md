@@ -1,5 +1,4 @@
-Lasallia xizangensis var. xizangensis VARIETY
-=======
+# Lasallia xizangensis J.C. Wei & Y.M. Jiang SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta phytotax. sin. 20(4): 500 (1982)
 
 #### Original name
-Lasallia xizangensis var. xizangensis
+Lasallia xizangensis J.C. Wei & Y.M. Jiang
 
 ### Remarks
 null

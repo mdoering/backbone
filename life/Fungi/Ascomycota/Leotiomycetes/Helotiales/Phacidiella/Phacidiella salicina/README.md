@@ -1,5 +1,4 @@
-Phacidiella salicina P. Karst., 1884 SPECIES
-=======
+# Phacidiella salicina P. Karst., 1884 SPECIES
 
 #### Status
 ACCEPTED

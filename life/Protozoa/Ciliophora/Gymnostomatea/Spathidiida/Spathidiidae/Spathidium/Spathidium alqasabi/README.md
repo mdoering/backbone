@@ -1,5 +1,4 @@
-Spathidium alqasabi Foissner, Quintela-Alonso & Al Rasheid, 2008 SPECIES
-=======
+# Spathidium alqasabi Foissner, Quintela-Alonso & Al Rasheid, 2008 SPECIES
 
 #### Status
 ACCEPTED

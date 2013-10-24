@@ -1,8 +1,7 @@
-Brevibacterium saperdae Lysenko, 1959 (Approved Lists, 1980) SPECIES
-=======
+# Microbacterium saperdae (Lysenko, 1959) Takeuchi & Hatano, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

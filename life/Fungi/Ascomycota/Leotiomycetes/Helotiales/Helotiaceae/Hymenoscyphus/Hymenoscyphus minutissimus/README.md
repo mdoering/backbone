@@ -1,5 +1,4 @@
-Hymenoscyphus minutissimus (P. Karst.) Kuntze SPECIES
-=======
+# Hymenoscyphus minutissimus (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

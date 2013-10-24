@@ -1,5 +1,4 @@
-Sigmoilopsis procericollis Mikhalevich, 1977 SPECIES
-=======
+# Sigmoilopsis procericollis Mikhalevich, 1977 SPECIES
 
 #### Status
 ACCEPTED

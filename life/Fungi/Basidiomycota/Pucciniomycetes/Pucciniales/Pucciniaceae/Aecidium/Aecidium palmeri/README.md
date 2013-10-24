@@ -1,5 +1,4 @@
-Aecidium palmeri H.W. Anderson SPECIES
-=======
+# Aecidium palmeri H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

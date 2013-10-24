@@ -1,14 +1,13 @@
-Selenophoma obtusa R. Sprague & Aar.G. Johnson, 1945 SPECIES
-=======
+# Pseudoseptoria obtusa (R. Sprague & Aar.G. Johnson) B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 37(5): 638 (1945)
+The Coelomycetes (Kew) 100 (1980)
 
 #### Original name
 Selenophoma obtusa R. Sprague & Aar.G. Johnson, 1945

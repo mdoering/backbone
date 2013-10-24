@@ -1,5 +1,4 @@
-Rickia aulachochili Thaxter SPECIES
-=======
+# Rickia aulachochili Thaxter SPECIES
 
 #### Status
 ACCEPTED

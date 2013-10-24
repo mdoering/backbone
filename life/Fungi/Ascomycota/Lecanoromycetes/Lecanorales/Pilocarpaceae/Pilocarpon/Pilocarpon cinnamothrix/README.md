@@ -1,5 +1,4 @@
-Pilocarpon cinnamothrix (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Pilocarpon cinnamothrix (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

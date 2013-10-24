@@ -1,5 +1,4 @@
-Porina rudiuscula var. tetraspora Vain. VARIETY
-=======
+# Porina rudiuscula (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 6(7): 202 (1915)
+Hedwigia 31: 287 (1892)
 
 #### Original name
-Porina rudiuscula var. tetraspora Vain.
+null
 
 ### Remarks
 null

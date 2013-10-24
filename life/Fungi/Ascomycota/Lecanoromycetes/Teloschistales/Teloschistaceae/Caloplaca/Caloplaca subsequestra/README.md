@@ -1,5 +1,4 @@
-Caloplaca subsequestra (Nyl.) Riddle SPECIES
-=======
+# Caloplaca subsequestra (Nyl.) Riddle SPECIES
 
 #### Status
 ACCEPTED

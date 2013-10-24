@@ -1,5 +1,4 @@
-Lepiota moulinsii Brond. SPECIES
-=======
+# Lepiota moulinsii Brond. SPECIES
 
 #### Status
 ACCEPTED

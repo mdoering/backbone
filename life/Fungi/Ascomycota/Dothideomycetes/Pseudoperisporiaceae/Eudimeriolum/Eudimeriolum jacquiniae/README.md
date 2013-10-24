@@ -1,5 +1,4 @@
-Eudimeriolum jacquiniae (Briard & Har.) Hansf. SPECIES
-=======
+# Eudimeriolum jacquiniae (Briard & Har.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

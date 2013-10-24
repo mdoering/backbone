@@ -1,5 +1,4 @@
-Coniothyrium dasylirii Speg. SPECIES
-=======
+# Coniothyrium dasylirii Speg. SPECIES
 
 #### Status
 ACCEPTED

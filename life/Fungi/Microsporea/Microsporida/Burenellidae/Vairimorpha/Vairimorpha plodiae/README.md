@@ -1,5 +1,4 @@
-Vairimorpha plodiae SPECIES
-=======
+# Vairimorpha plodiae SPECIES
 
 #### Status
 ACCEPTED

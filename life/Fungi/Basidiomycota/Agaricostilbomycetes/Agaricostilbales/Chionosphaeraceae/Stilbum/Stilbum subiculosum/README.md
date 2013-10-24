@@ -1,5 +1,4 @@
-Stilbum subiculosum Pat. SPECIES
-=======
+# Stilbum subiculosum Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma subarcticum var. subarcticum VARIETY
-=======
+# Entoloma subarcticum Noordel. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Persoonia 12(3): 279 (1984)
 
 #### Original name
-Entoloma subarcticum var. subarcticum
+Entoloma subarcticum Noordel.
 
 ### Remarks
 null

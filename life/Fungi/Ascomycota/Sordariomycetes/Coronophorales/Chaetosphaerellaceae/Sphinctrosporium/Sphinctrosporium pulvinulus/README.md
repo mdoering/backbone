@@ -1,5 +1,4 @@
-Sphinctrosporium pulvinulus Kunze SPECIES
-=======
+# Sphinctrosporium pulvinulus Kunze SPECIES
 
 #### Status
 ACCEPTED

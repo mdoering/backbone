@@ -1,5 +1,4 @@
-Heterodermia trichophoroides (Kurok.) Trass SPECIES
-=======
+# Heterodermia trichophoroides (Kurok.) Trass SPECIES
 
 #### Status
 ACCEPTED

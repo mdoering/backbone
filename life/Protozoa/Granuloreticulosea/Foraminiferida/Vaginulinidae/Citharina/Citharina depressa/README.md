@@ -1,8 +1,7 @@
-Planularia depressa d'Orbigny, 1850 SPECIES
-=======
+# Citharina depressa (d'Orbigny, 1839) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

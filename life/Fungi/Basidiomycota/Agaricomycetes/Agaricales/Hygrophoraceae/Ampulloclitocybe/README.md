@@ -1,5 +1,4 @@
-Ampulloclitocybe Redhead, Lutzoni, Moncalvo & Vilgalys GENUS
-=======
+# Ampulloclitocybe Redhead, Lutzoni, Moncalvo & Vilgalys GENUS
 
 #### Status
 ACCEPTED

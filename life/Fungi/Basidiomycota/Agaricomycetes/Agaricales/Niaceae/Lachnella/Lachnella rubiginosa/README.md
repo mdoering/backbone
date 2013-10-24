@@ -1,5 +1,4 @@
-Lachnella rubiginosa Pass. & Beltr. SPECIES
-=======
+# Lachnella rubiginosa Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

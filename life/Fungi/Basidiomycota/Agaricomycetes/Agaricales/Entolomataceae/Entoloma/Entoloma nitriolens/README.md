@@ -1,5 +1,4 @@
-Entoloma nitriolens (Kühner) Trimbach SPECIES
-=======
+# Entoloma nitriolens (Kühner) Trimbach SPECIES
 
 #### Status
 ACCEPTED

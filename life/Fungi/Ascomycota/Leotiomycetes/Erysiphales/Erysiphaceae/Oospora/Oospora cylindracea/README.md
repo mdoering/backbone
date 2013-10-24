@@ -1,5 +1,4 @@
-Oospora cylindracea (de Korte) Sartory SPECIES
-=======
+# Oospora cylindracea (de Korte) Sartory SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora alhagi Barbarin SPECIES
-=======
+# Cercospora alhagi Barbarin SPECIES
 
 #### Status
 ACCEPTED

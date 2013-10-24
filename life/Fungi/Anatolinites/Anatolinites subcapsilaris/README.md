@@ -1,5 +1,4 @@
-Anatolinites subcapsilaris (Sheffy & Dilcher) Elsik, V.S. Ediger & Bati SPECIES
-=======
+# Anatolinites subcapsilaris (Sheffy & Dilcher) Elsik, V.S. Ediger & Bati SPECIES
 
 #### Status
 ACCEPTED

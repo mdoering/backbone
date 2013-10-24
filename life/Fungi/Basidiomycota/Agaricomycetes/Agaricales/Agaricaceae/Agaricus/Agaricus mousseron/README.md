@@ -1,5 +1,4 @@
-Agaricus mousseron Pers. SPECIES
-=======
+# Agaricus mousseron Pers. SPECIES
 
 #### Status
 ACCEPTED

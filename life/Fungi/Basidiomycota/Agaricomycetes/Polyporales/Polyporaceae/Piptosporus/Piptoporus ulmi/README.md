@@ -1,5 +1,4 @@
-Piptoporus ulmi Bondartsev & Ljub. SPECIES
-=======
+# Piptoporus ulmi Bondartsev & Ljub. SPECIES
 
 #### Status
 ACCEPTED

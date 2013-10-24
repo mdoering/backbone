@@ -1,17 +1,16 @@
-Lactarius uvidus var. uvidus VARIETY
-=======
+# Lactarius uvidus (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Epicr. syst. mycol. (Upsaliae) 338 (1838)
 
 #### Original name
-Lactarius uvidus var. uvidus
+Agaricus uvidus Fr., 1818
 
 ### Remarks
 null

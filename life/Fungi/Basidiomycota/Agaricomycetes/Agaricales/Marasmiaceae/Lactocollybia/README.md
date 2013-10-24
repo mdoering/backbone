@@ -1,17 +1,16 @@
-Bertrandiella R. Heim GENUS
-=======
+# Lactocollybia Singer GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 24: 192 (1966)
+Schweiz. Z. Pilzk. 17: 71 (1939)
 
 #### Original name
-Bertrandiella R. Heim
+Lactocollybia Singer
 
 ### Remarks
 null

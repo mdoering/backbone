@@ -1,5 +1,4 @@
-Mucilago aestiva P. Micheli SPECIES
-=======
+# Mucilago aestiva P. Micheli SPECIES
 
 #### Status
 ACCEPTED

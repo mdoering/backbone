@@ -1,5 +1,4 @@
-Stephanopyxis schenckii Kanaya SPECIES
-=======
+# Stephanopyxis schenckii Kanaya SPECIES
 
 #### Status
 ACCEPTED

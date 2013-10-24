@@ -1,5 +1,4 @@
-Strangfordia GENUS
-=======
+# Strangfordia GENUS
 
 #### Status
 ACCEPTED

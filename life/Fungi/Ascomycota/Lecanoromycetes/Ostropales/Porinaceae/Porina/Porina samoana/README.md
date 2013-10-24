@@ -1,5 +1,4 @@
-Porina samoana Müll. Arg. SPECIES
-=======
+# Porina samoana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

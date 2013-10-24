@@ -1,5 +1,4 @@
-Opegrapha grammitis (Mont.) Bél. SPECIES
-=======
+# Opegrapha grammitis (Mont.) Bél. SPECIES
 
 #### Status
 ACCEPTED

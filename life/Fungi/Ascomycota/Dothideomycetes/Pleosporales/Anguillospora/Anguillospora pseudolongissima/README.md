@@ -1,5 +1,4 @@
-Anguillospora pseudolongissima Ranzoni, 1953 SPECIES
-=======
+# Anguillospora pseudolongissima Ranzoni, 1953 SPECIES
 
 #### Status
 ACCEPTED

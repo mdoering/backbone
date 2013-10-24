@@ -1,5 +1,4 @@
-Cucurbitaria lageniformis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cucurbitaria lageniformis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

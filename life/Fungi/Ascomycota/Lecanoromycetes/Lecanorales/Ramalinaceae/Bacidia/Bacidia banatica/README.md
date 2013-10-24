@@ -1,5 +1,4 @@
-Bacidia banatica (Rehm ex Lojka) Zahlbr. SPECIES
-=======
+# Bacidia banatica (Rehm ex Lojka) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria lojkae f. lojkae FORM
-=======
+# Verrucaria lojkae Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria lojkae f. lojkae
+Verrucaria lojkae Servít
 
 ### Remarks
 null

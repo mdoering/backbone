@@ -1,5 +1,4 @@
-Puccinia hsinganensis Miura SPECIES
-=======
+# Puccinia hsinganensis Miura SPECIES
 
 #### Status
 ACCEPTED

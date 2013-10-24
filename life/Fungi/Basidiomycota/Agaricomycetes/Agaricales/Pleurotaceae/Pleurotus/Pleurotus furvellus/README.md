@@ -1,5 +1,4 @@
-Pleurotus furvellus (P. Karst.) Sacc. SPECIES
-=======
+# Pleurotus furvellus (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

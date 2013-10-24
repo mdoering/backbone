@@ -1,5 +1,4 @@
-Porina ferrugineovelutina Henn. SPECIES
-=======
+# Porina ferrugineovelutina Henn. SPECIES
 
 #### Status
 ACCEPTED

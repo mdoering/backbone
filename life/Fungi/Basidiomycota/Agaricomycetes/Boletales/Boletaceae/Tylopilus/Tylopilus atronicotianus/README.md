@@ -1,5 +1,4 @@
-Tylopilus atronicotianus Both SPECIES
-=======
+# Tylopilus atronicotianus Both SPECIES
 
 #### Status
 ACCEPTED

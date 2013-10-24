@@ -1,5 +1,4 @@
-Dimeromyces aberrans Thaxt. SPECIES
-=======
+# Dimeromyces aberrans Thaxt. SPECIES
 
 #### Status
 ACCEPTED

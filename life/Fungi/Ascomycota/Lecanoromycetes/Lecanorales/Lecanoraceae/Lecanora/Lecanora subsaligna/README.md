@@ -1,5 +1,4 @@
-Lecanora subsaligna M. Brand & van den Boom SPECIES
-=======
+# Lecanora subsaligna M. Brand & van den Boom SPECIES
 
 #### Status
 ACCEPTED

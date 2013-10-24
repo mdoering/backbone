@@ -1,5 +1,4 @@
-Fomes pusilla Lloyd SPECIES
-=======
+# Fomes pusilla Lloyd SPECIES
 
 #### Status
 ACCEPTED

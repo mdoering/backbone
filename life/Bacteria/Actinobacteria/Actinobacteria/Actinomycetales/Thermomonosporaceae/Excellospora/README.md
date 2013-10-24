@@ -1,5 +1,4 @@
-Excellospora Agre & Guzeva, 1975 (Approved Lists, 1980) GENUS
-=======
+# Excellospora Agre & Guzeva, 1975 (Approved Lists, 1980) GENUS
 
 #### Status
 ACCEPTED

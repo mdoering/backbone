@@ -1,5 +1,4 @@
-Arachnophora polyradiata (Mercado & R.F. Castañeda) R.F. Castañeda & W. Gams SPECIES
-=======
+# Arachnophora polyradiata (Mercado & R.F. Castañeda) R.F. Castañeda & W. Gams SPECIES
 
 #### Status
 ACCEPTED

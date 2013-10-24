@@ -1,5 +1,4 @@
-Amanita zonaria Lam. SPECIES
-=======
+# Amanita zonaria Lam. SPECIES
 
 #### Status
 ACCEPTED

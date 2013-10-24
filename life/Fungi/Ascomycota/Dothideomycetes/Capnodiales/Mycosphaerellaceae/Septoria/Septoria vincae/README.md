@@ -1,5 +1,4 @@
-Septoria vincae Desm. SPECIES
-=======
+# Septoria vincae Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria sydowii Henn. & Sacc. SPECIES
-=======
+# Septoria sydowii Henn. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

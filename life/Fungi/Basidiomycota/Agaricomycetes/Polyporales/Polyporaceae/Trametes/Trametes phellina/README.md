@@ -1,5 +1,4 @@
-Trametes phellina Berk. SPECIES
-=======
+# Trametes phellina Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calosphaeria salicis-babylonicae Schulzer SPECIES
-=======
+# Calosphaeria salicis-babylonicae Schulzer SPECIES
 
 #### Status
 ACCEPTED

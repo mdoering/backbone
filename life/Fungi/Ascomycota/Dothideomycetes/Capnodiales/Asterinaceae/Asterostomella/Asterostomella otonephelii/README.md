@@ -1,5 +1,4 @@
-Asterostomella otonephelii Hosag., D.K. Agarwal, H. Biju & Archana SPECIES
-=======
+# Asterostomella otonephelii Hosag., D.K. Agarwal, H. Biju & Archana SPECIES
 
 #### Status
 ACCEPTED

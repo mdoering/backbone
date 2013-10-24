@@ -1,5 +1,4 @@
-Sphaceloma tectonae Wani & Thirum. SPECIES
-=======
+# Sphaceloma tectonae Wani & Thirum. SPECIES
 
 #### Status
 ACCEPTED

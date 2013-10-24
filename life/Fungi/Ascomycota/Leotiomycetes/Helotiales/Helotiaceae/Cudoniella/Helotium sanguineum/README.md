@@ -1,5 +1,4 @@
-Helotium sanguineum Velen. SPECIES
-=======
+# Helotium sanguineum Velen. SPECIES
 
 #### Status
 ACCEPTED

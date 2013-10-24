@@ -1,8 +1,7 @@
-Eupenicillium senticosum D.B. Scott, 1968 SPECIES
-=======
+# Penicillium senticosum D.B. Scott, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycopath. Mycol. appl. 36: 5 (1968)
 
 #### Original name
-Eupenicillium senticosum D.B. Scott, 1968
+Penicillium senticosum D.B. Scott, 1968
 
 ### Remarks
 null

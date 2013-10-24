@@ -1,5 +1,4 @@
-Marinococcus albus Hao et al., 1985 SPECIES
-=======
+# Marinococcus albus Hao et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

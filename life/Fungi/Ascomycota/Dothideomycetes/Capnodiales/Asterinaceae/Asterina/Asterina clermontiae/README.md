@@ -1,5 +1,4 @@
-Asterina clermontiae F. Stevens & R.W. Ryan SPECIES
-=======
+# Asterina clermontiae F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

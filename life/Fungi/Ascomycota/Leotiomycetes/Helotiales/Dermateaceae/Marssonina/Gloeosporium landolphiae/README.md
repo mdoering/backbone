@@ -1,5 +1,4 @@
-Gloeosporium landolphiae Henn. SPECIES
-=======
+# Gloeosporium landolphiae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa myinda Cooke & Ellis SPECIES
-=======
+# Valsa myinda Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

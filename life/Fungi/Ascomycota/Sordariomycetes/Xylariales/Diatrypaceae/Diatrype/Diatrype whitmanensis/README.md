@@ -1,5 +1,4 @@
-Diatrype whitmanensis J.D. Rogers & Glawe SPECIES
-=======
+# Diatrype whitmanensis J.D. Rogers & Glawe SPECIES
 
 #### Status
 ACCEPTED

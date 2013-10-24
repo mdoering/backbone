@@ -1,5 +1,4 @@
-Opercularia astacicola SPECIES
-=======
+# Opercularia astacicola SPECIES
 
 #### Status
 ACCEPTED

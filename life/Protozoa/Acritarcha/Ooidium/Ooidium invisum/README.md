@@ -1,5 +1,4 @@
-Ooidium invisum Timofeev, 1957 SPECIES
-=======
+# Ooidium invisum Timofeev, 1957 SPECIES
 
 #### Status
 ACCEPTED

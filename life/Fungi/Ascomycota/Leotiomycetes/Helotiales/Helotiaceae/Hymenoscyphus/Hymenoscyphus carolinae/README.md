@@ -1,5 +1,4 @@
-Hymenoscyphus carolinae (De Guern.) Kuntze SPECIES
-=======
+# Hymenoscyphus carolinae (De Guern.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

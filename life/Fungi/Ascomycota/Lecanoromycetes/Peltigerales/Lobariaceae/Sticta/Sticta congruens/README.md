@@ -1,5 +1,4 @@
-Sticta congruens Pers. SPECIES
-=======
+# Sticta congruens Pers. SPECIES
 
 #### Status
 ACCEPTED

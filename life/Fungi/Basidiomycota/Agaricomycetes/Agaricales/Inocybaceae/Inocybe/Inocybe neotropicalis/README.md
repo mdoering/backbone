@@ -1,5 +1,4 @@
-Inocybe neotropicalis Singer, I.J. Araujo & Ivory SPECIES
-=======
+# Inocybe neotropicalis Singer, I.J. Araujo & Ivory SPECIES
 
 #### Status
 ACCEPTED

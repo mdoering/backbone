@@ -1,5 +1,4 @@
-Orbilia drepanispora J. Lindau SPECIES
-=======
+# Orbilia drepanispora J. Lindau SPECIES
 
 #### Status
 ACCEPTED

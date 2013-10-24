@@ -1,5 +1,4 @@
-Candida berolinensis Tietz et al. {?} SPECIES
-=======
+# Candida berolinensis Tietz et al. {?} SPECIES
 
 #### Status
 ACCEPTED

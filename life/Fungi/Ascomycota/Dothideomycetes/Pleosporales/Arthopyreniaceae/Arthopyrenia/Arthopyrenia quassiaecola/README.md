@@ -1,5 +1,4 @@
-Arthopyrenia quassiaecola (Fée) Müll. Arg. SPECIES
-=======
+# Arthopyrenia quassiaecola (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

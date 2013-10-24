@@ -1,5 +1,4 @@
-Meliola perseae F. Stevens SPECIES
-=======
+# Meliola perseae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

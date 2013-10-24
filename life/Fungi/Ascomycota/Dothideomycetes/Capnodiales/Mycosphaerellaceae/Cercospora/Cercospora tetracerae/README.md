@@ -1,5 +1,4 @@
-Cercospora tetracerae Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Cercospora tetracerae Bat., J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

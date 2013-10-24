@@ -1,5 +1,4 @@
-Azospirillum halopraeferens Reinhold et al., 1987 SPECIES
-=======
+# Azospirillum halopraeferens Reinhold et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

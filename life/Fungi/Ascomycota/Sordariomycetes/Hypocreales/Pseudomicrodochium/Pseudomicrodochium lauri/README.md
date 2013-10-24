@@ -1,5 +1,4 @@
-Pseudomicrodochium lauri P.M. Kirk, 1983 SPECIES
-=======
+# Pseudomicrodochium lauri P.M. Kirk, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Azoarcus indigens Reinhold-Hurek et al., 1993 SPECIES
-=======
+# Azoarcus indigens Reinhold-Hurek et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

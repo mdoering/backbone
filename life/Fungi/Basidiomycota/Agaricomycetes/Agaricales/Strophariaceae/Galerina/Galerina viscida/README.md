@@ -1,5 +1,4 @@
-Galerina viscida (Peck) A.H. Sm. & Singer SPECIES
-=======
+# Galerina viscida (Peck) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Godronia zelleri Seaver SPECIES
-=======
+# Godronia zelleri Seaver SPECIES
 
 #### Status
 ACCEPTED

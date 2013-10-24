@@ -1,17 +1,16 @@
-Rosellinia costesi Speg. SPECIES
-=======
+# Rosellinia costesii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 25: 51 (1921)
 
 #### Original name
-Rosellinia costesi Speg.
+Rosellinia costesii Speg.
 
 ### Remarks
 null

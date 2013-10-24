@@ -1,5 +1,4 @@
-Palaeobion catenatum O. Wetzel, 1961 SPECIES
-=======
+# Palaeobion catenatum O. Wetzel, 1961 SPECIES
 
 #### Status
 ACCEPTED

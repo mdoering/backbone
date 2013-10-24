@@ -1,5 +1,4 @@
-Psilocybe caeruleoannulata Singer ex Guzmán SPECIES
-=======
+# Psilocybe caeruleoannulata Singer ex Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria squamulosa M. Brand & van den Boom SPECIES
-=======
+# Verrucaria squamulosa M. Brand & van den Boom SPECIES
 
 #### Status
 ACCEPTED

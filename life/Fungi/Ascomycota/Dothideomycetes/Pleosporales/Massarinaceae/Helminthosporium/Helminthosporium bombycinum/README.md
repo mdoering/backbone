@@ -1,5 +1,4 @@
-Helminthosporium bombycinum Speg. SPECIES
-=======
+# Helminthosporium bombycinum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis tonglonensis Vain. SPECIES
-=======
+# Graphis tonglonensis Vain. SPECIES
 
 #### Status
 ACCEPTED

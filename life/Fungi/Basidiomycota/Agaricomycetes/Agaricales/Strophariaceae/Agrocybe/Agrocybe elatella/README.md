@@ -1,5 +1,4 @@
-Agrocybe elatella (P. Karst.) Vesterh. SPECIES
-=======
+# Agrocybe elatella (P. Karst.) Vesterh. SPECIES
 
 #### Status
 ACCEPTED

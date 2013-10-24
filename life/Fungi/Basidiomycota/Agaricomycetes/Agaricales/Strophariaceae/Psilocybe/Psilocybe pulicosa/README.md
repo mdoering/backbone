@@ -1,5 +1,4 @@
-Psilocybe pulicosa Mont. SPECIES
-=======
+# Psilocybe pulicosa Mont. SPECIES
 
 #### Status
 ACCEPTED

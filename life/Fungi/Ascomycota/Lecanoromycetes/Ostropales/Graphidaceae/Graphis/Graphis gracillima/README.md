@@ -1,5 +1,4 @@
-Graphis gracillima Kremp. SPECIES
-=======
+# Graphis gracillima Kremp. SPECIES
 
 #### Status
 ACCEPTED

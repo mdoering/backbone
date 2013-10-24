@@ -1,5 +1,4 @@
-Pandora aleurodis (Balazy & Manole) S. Keller, 2005 SPECIES
-=======
+# Pandora aleurodis (Balazy & Manole) S. Keller, 2005 SPECIES
 
 #### Status
 ACCEPTED

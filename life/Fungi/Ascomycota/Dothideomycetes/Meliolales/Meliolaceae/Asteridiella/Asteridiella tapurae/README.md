@@ -1,5 +1,4 @@
-Asteridiella tapurae Mig. Rodr. & Camino SPECIES
-=======
+# Asteridiella tapurae Mig. Rodr. & Camino SPECIES
 
 #### Status
 ACCEPTED

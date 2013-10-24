@@ -1,5 +1,4 @@
-Phyllachora mayepeae F. Stevens & Dalbey, 1919 SPECIES
-=======
+# Phyllachora mayepeae F. Stevens & Dalbey, 1919 SPECIES
 
 #### Status
 ACCEPTED

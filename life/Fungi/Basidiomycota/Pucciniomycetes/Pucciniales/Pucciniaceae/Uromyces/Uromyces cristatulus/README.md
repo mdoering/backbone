@@ -1,5 +1,4 @@
-Uromyces cristatulus Tranzschel SPECIES
-=======
+# Uromyces cristatulus Tranzschel SPECIES
 
 #### Status
 ACCEPTED

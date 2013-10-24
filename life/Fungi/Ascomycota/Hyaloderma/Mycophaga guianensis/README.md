@@ -1,5 +1,4 @@
-Mycophaga guianensis F. Stevens SPECIES
-=======
+# Mycophaga guianensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

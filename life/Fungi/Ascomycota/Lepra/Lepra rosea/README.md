@@ -1,5 +1,4 @@
-Lepra rosea (Schreb.) Willd. SPECIES
-=======
+# Lepra rosea (Schreb.) Willd. SPECIES
 
 #### Status
 ACCEPTED

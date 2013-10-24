@@ -1,14 +1,13 @@
-Cercospora verbeniphila Speg., 1926 SPECIES
-=======
+# Passalora verbeniphila (Speg.) Crous & U. Braun, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 29(2-3): 179 (1926)
+Mycotaxon 57: 310 (1996)
 
 #### Original name
 Cercospora verbeniphila Speg., 1926

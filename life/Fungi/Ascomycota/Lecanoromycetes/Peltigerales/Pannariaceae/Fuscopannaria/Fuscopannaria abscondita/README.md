@@ -1,5 +1,4 @@
-Fuscopannaria abscondita P.M. Jørg. SPECIES
-=======
+# Fuscopannaria abscondita P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

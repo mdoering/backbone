@@ -1,5 +1,4 @@
-Penicillium georgiense S.W. Peterson & B.W. Horn SPECIES
-=======
+# Penicillium georgiense S.W. Peterson & B.W. Horn SPECIES
 
 #### Status
 ACCEPTED

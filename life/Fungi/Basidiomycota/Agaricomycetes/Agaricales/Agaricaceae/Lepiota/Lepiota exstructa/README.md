@@ -1,14 +1,13 @@
-Agaricus exstructus Berk., 1855 SPECIES
-=======
+# Lepiota exstructa (Berk.) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hooker, Hooker Fl. Nov. -Zel. 2: 173 (1855)
+Syll. fung. (Abellini) 5: 58 (1887)
 
 #### Original name
 Agaricus exstructus Berk., 1855

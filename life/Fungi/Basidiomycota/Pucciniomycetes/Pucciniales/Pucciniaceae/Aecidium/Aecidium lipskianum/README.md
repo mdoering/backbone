@@ -1,5 +1,4 @@
-Aecidium lipskianum Jacz. SPECIES
-=======
+# Aecidium lipskianum Jacz. SPECIES
 
 #### Status
 ACCEPTED

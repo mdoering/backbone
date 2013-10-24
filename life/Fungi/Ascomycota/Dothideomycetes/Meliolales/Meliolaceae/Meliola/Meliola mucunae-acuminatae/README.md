@@ -1,5 +1,4 @@
-Meliola mucunae-acuminatae var. mucunae-acuminatae VARIETY
-=======
+# Meliola mucunae-acuminatae Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Reinwardtia 3: 100 (1954)
 
 #### Original name
-Meliola mucunae-acuminatae var. mucunae-acuminatae
+Meliola mucunae-acuminatae Hansf.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Triaenosphaera Deflandre, 1960 GENUS
-=======
+# Triaenosphaera Deflandre, 1960 GENUS
 
 #### Status
 ACCEPTED

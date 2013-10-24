@@ -1,5 +1,4 @@
-Boletogaster jalapensis (Murrill) Lohwag SPECIES
-=======
+# Boletogaster jalapensis (Murrill) Lohwag SPECIES
 
 #### Status
 ACCEPTED

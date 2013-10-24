@@ -1,5 +1,4 @@
-Lactifluus rubescens (Schaeff.) Kuntze SPECIES
-=======
+# Lactifluus rubescens (Schaeff.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

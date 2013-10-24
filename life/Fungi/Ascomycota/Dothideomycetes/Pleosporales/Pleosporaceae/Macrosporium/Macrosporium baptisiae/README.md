@@ -1,5 +1,4 @@
-Macrosporium baptisiae Thüm. SPECIES
-=======
+# Macrosporium baptisiae Thüm. SPECIES
 
 #### Status
 ACCEPTED

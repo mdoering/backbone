@@ -1,5 +1,4 @@
-Areolaria tabellata (Kalchbr.) Forq. SPECIES
-=======
+# Areolaria tabellata (Kalchbr.) Forq. SPECIES
 
 #### Status
 ACCEPTED

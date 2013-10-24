@@ -1,5 +1,4 @@
-Drosophila silvestris (Gillet) Kühner & Romagn. SPECIES
-=======
+# Drosophila silvestris (Gillet) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

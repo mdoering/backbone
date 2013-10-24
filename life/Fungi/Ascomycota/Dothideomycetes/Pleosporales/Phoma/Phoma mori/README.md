@@ -1,5 +1,4 @@
-Phoma mori Thüm. SPECIES
-=======
+# Phoma mori Thüm. SPECIES
 
 #### Status
 ACCEPTED

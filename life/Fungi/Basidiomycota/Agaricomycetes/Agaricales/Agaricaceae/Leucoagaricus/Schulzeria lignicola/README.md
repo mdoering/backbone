@@ -1,5 +1,4 @@
-Schulzeria lignicola Beeli SPECIES
-=======
+# Schulzeria lignicola Beeli SPECIES
 
 #### Status
 ACCEPTED

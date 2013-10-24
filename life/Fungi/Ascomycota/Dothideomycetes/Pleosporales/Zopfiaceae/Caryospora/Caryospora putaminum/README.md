@@ -1,5 +1,4 @@
-Caryospora putaminum (Schwein.) De Not., 1855 SPECIES
-=======
+# Caryospora putaminum (Schwein.) De Not., 1855 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helbydinium Snape, 1992 GENUS
-=======
+# Helbydinium Snape, 1992 GENUS
 
 #### Status
 ACCEPTED

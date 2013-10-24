@@ -1,5 +1,4 @@
-Podospora kilimandscharica (Alf. Schmidt) Cain SPECIES
-=======
+# Podospora kilimandscharica (Alf. Schmidt) Cain SPECIES
 
 #### Status
 ACCEPTED

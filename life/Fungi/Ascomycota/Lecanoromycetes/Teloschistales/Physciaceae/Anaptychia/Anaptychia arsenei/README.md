@@ -1,5 +1,4 @@
-Anaptychia arsenei Kurok. SPECIES
-=======
+# Anaptychia arsenei Kurok. SPECIES
 
 #### Status
 ACCEPTED

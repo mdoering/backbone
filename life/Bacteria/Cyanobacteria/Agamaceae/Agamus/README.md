@@ -1,5 +1,4 @@
-Agamus A.G. Vologdin, 1970 GENUS
-=======
+# Agamus A.G. Vologdin, 1970 GENUS
 
 #### Status
 ACCEPTED

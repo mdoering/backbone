@@ -1,5 +1,4 @@
-Inocybe armoricana var. armoricana R. Heim VARIETY
-=======
+# Inocybe armoricana R. Heim SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Inocybe armoricana var. armoricana R. Heim
+Inocybe armoricana R. Heim
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Cephalotrichum rhopalodes (Sacc. & Roum.) Kuntze SPECIES
-=======
+# Sporocybe rhopaloides Sacc. & Roum., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Saccardo, Michelia 2(no. 8): 643 (1882)
 
 #### Original name
 Sporocybe rhopaloides Sacc. & Roum., 1882

@@ -1,5 +1,4 @@
-Heslertonia W.A.S.Sarjeant GENUS
-=======
+# Heslertonia W.A.S.Sarjeant GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caldisphaera lagunensis Itoh et al., 2003 SPECIES
-=======
+# Caldisphaera lagunensis Itoh et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

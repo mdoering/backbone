@@ -1,5 +1,4 @@
-Leccinum proliferum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum proliferum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

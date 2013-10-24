@@ -1,5 +1,4 @@
-Pyrenopsis lemovicensis Nyl. SPECIES
-=======
+# Pyrenopsis lemovicensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

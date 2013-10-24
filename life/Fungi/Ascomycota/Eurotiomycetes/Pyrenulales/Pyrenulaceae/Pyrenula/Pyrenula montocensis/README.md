@@ -1,5 +1,4 @@
-Pyrenula montocensis Lücking SPECIES
-=======
+# Pyrenula montocensis Lücking SPECIES
 
 #### Status
 ACCEPTED

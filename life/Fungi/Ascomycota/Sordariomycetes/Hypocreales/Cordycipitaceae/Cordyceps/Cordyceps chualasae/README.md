@@ -1,5 +1,4 @@
-Cordyceps chualasae Koval & Nazarova {?} SPECIES
-=======
+# Cordyceps chualasae Koval & Nazarova {?} SPECIES
 
 #### Status
 ACCEPTED

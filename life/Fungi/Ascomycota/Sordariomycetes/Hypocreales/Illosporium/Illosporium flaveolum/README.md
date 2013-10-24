@@ -1,5 +1,4 @@
-Illosporium flaveolum Sacc. SPECIES
-=======
+# Illosporium flaveolum Sacc. SPECIES
 
 #### Status
 ACCEPTED

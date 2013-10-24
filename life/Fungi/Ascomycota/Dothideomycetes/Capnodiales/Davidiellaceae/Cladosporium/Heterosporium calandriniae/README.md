@@ -1,5 +1,4 @@
-Heterosporium calandriniae Massee SPECIES
-=======
+# Heterosporium calandriniae Massee SPECIES
 
 #### Status
 ACCEPTED

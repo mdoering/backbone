@@ -1,5 +1,4 @@
-Cenangium sphaeriaemorphum Schwein. SPECIES
-=======
+# Cenangium sphaeriaemorphum Schwein. SPECIES
 
 #### Status
 ACCEPTED

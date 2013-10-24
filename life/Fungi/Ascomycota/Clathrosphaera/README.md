@@ -1,5 +1,4 @@
-Clathrosphaera Zalewski, 1888 GENUS
-=======
+# Clathrosphaera Zalewski, 1888 GENUS
 
 #### Status
 ACCEPTED

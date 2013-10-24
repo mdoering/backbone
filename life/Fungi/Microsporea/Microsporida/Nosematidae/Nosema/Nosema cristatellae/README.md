@@ -1,5 +1,4 @@
-Nosema cristatellae Canning, Okamura & Curry SPECIES
-=======
+# Nosema cristatellae Canning, Okamura & Curry SPECIES
 
 #### Status
 ACCEPTED

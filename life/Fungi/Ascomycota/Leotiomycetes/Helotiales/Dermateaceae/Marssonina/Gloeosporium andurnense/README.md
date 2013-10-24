@@ -1,5 +1,4 @@
-Gloeosporium andurnense Ces. SPECIES
-=======
+# Gloeosporium andurnense Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia papuana Thaxt. SPECIES
-=======
+# Laboulbenia papuana Thaxt. SPECIES
 
 #### Status
 ACCEPTED

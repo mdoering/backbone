@@ -1,5 +1,4 @@
-Pertusaria incarnata Leight. SPECIES
-=======
+# Pertusaria incarnata Leight. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metopion Larsen & Patterson, 1990 GENUS
-=======
+# Metopion Larsen & Patterson, 1990 GENUS
 
 #### Status
 ACCEPTED

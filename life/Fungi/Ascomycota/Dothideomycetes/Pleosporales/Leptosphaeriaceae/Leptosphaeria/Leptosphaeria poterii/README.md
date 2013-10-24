@@ -1,5 +1,4 @@
-Leptosphaeria poterii Pass. SPECIES
-=======
+# Leptosphaeria poterii Pass. SPECIES
 
 #### Status
 ACCEPTED

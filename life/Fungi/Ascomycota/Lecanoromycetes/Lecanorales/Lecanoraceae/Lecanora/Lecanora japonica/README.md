@@ -1,5 +1,4 @@
-Lecanora japonica Müll. Arg. SPECIES
-=======
+# Lecanora japonica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

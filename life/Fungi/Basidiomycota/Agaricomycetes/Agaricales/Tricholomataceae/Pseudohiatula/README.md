@@ -1,5 +1,4 @@
-Pseudohiatula (Singer) Singer, 1938 GENUS
-=======
+# Pseudohiatula (Singer) Singer, 1938 GENUS
 
 #### Status
 ACCEPTED

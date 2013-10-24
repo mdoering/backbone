@@ -1,5 +1,4 @@
-Sporothrix chondracris B. Huang, M.Z. Fan & Z.Z. Li SPECIES
-=======
+# Sporothrix chondracris B. Huang, M.Z. Fan & Z.Z. Li SPECIES
 
 #### Status
 ACCEPTED

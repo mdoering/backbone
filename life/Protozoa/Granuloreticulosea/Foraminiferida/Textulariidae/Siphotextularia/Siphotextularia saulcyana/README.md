@@ -1,5 +1,4 @@
-Siphotextularia saulcyana SPECIES
-=======
+# Siphotextularia saulcyana SPECIES
 
 #### Status
 ACCEPTED

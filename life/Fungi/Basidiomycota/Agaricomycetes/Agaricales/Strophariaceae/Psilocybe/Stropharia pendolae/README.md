@@ -1,5 +1,4 @@
-Stropharia pendolae (Speg.) Singer SPECIES
-=======
+# Stropharia pendolae (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

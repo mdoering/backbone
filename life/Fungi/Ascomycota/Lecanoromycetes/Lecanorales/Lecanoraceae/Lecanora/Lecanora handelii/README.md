@@ -1,5 +1,4 @@
-Lecanora handelii J. Steiner SPECIES
-=======
+# Lecanora handelii J. Steiner SPECIES
 
 #### Status
 ACCEPTED

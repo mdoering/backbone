@@ -1,5 +1,4 @@
-Necromonas GENUS
-=======
+# Necromonas GENUS
 
 #### Status
 ACCEPTED

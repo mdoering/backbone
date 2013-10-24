@@ -1,5 +1,4 @@
-Valsa eugeniae Nutman & F.M. Roberts, 1953 SPECIES
-=======
+# Valsa eugeniae Nutman & F.M. Roberts, 1953 SPECIES
 
 #### Status
 ACCEPTED

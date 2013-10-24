@@ -1,5 +1,4 @@
-Cintractia caricetorum Speg. SPECIES
-=======
+# Cintractia caricetorum Speg. SPECIES
 
 #### Status
 ACCEPTED

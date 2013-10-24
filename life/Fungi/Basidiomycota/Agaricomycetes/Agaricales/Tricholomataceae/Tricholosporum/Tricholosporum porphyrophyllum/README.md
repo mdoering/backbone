@@ -1,14 +1,13 @@
-Tricholoma porphyrophyllum S. Imai, 1938 SPECIES
-=======
+# Tricholosporum porphyrophyllum (S. Imai) Guzmán ex T.J. Baroni, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Coll. agric. , Hokkaido Imp. Univ. 43: 69 (1938)
+Mycologia 74(6): 868 (1982)
 
 #### Original name
 Tricholoma porphyrophyllum S. Imai, 1938

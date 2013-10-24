@@ -1,5 +1,4 @@
-Taphrina ostryae C. Massal. SPECIES
-=======
+# Taphrina ostryae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

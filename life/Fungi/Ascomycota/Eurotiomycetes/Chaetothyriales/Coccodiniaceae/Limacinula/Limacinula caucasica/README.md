@@ -1,5 +1,4 @@
-Limacinula caucasica Woron. SPECIES
-=======
+# Limacinula caucasica Woron. SPECIES
 
 #### Status
 ACCEPTED

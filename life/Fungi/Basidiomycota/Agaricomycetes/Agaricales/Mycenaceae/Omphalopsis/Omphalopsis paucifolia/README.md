@@ -1,5 +1,4 @@
-Omphalopsis paucifolia Murrill SPECIES
-=======
+# Omphalopsis paucifolia Murrill SPECIES
 
 #### Status
 ACCEPTED

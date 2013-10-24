@@ -1,5 +1,4 @@
-Psathyrella plumigera (Berk. & M.A. Curtis) A.H. Sm. SPECIES
-=======
+# Psathyrella plumigera (Berk. & M.A. Curtis) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

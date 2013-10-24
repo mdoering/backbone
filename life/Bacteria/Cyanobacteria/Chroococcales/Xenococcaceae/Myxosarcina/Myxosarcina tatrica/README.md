@@ -1,8 +1,7 @@
-Myxosarcina chroococcoides f. tatrica Starmach FORM
-=======
+# Myxosarcina tatrica (Starmach) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

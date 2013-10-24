@@ -1,5 +1,4 @@
-Sphaeria rubrocincta Schwein. SPECIES
-=======
+# Sphaeria rubrocincta Schwein. SPECIES
 
 #### Status
 ACCEPTED

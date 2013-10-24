@@ -1,5 +1,4 @@
-Parmeliella serpentinicola P.M. Jørg. & Kashiw. SPECIES
-=======
+# Parmeliella serpentinicola P.M. Jørg. & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

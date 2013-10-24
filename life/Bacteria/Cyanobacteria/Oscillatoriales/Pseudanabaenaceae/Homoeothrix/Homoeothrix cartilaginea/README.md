@@ -1,5 +1,4 @@
-Homoeothrix cartilaginea (G.S. West) Lemmermann SPECIES
-=======
+# Homoeothrix cartilaginea (G.S. West) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

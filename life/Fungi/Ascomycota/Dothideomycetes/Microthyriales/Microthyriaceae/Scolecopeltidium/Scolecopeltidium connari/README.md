@@ -1,5 +1,4 @@
-Scolecopeltidium connari (Syd.) F. Stevens & Manter SPECIES
-=======
+# Scolecopeltidium connari (Syd.) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

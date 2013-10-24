@@ -1,5 +1,4 @@
-Zygosaccharomyces shaoshing Takah. SPECIES
-=======
+# Zygosaccharomyces shaoshing Takah. SPECIES
 
 #### Status
 ACCEPTED

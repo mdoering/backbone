@@ -1,5 +1,4 @@
-Keronopsis helluo Penard, 1922 SPECIES
-=======
+# Keronopsis helluo Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezicula hamamelidis J.W. Groves & Seaver, 1939 SPECIES
-=======
+# Pezicula hamamelidis J.W. Groves & Seaver, 1939 SPECIES
 
 #### Status
 ACCEPTED

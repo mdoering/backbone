@@ -1,5 +1,4 @@
-Periconia spegazzinii Sacc. SPECIES
-=======
+# Periconia spegazzinii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia A. Massal. GENUS
-=======
+# Arthopyrenia A. Massal. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema ventricosum (Ach.) Fr. SPECIES
-=======
+# Sphaeronaema ventricosum (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

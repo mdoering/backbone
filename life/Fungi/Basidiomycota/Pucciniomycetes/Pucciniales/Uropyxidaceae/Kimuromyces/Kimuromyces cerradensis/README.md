@@ -1,5 +1,4 @@
-Kimuromyces cerradensis Dianese, L.T.P. Santos, R.B. Medeiros & Furlan., 1995 SPECIES
-=======
+# Kimuromyces cerradensis Dianese, L.T.P. Santos, R.B. Medeiros & Furlan., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia angivyi Bouriquet SPECIES
-=======
+# Puccinia angivyi Bouriquet SPECIES
 
 #### Status
 ACCEPTED

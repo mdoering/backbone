@@ -1,5 +1,4 @@
-Stagonospora adonidis Naumov SPECIES
-=======
+# Stagonospora adonidis Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Poria cinchonensis (Murrill) Sacc. & Trotter, 1912 SPECIES
-=======
+# Phellinus cinchonensis (Murrill) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 335 (1912)
+Norw. Jl Bot. 19: 234 (1972)
 
 #### Original name
-Fomitiporia cinchonensis Murrill, 1907
+Pyropolyporus cinchonensis Murrill, 1910
 
 ### Remarks
 null

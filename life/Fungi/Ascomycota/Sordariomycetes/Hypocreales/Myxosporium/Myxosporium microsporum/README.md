@@ -1,5 +1,4 @@
-Myxosporium microsporum Cooke & Harkn. SPECIES
-=======
+# Myxosporium microsporum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

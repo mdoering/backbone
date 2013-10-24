@@ -1,5 +1,4 @@
-Hastigerina aequilateralis (Brady) SPECIES
-=======
+# Hastigerina aequilateralis (Brady) SPECIES
 
 #### Status
 ACCEPTED

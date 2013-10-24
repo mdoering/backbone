@@ -1,5 +1,4 @@
-Arthrobotryomyces Bat. & J.L. Bezerra GENUS
-=======
+# Arthrobotryomyces Bat. & J.L. Bezerra GENUS
 
 #### Status
 ACCEPTED

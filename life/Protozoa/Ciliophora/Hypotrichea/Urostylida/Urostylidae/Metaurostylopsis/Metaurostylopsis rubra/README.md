@@ -1,5 +1,4 @@
-Metaurostylopsis rubra Song & Wilbert, 2002 SPECIES
-=======
+# Metaurostylopsis rubra Song & Wilbert, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Topeliopsis globosa Aptroot SPECIES
-=======
+# Topeliopsis globosa Aptroot SPECIES
 
 #### Status
 ACCEPTED

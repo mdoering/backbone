@@ -1,5 +1,4 @@
-Dasyscyphus badiellus (P. Karst.) Dennis SPECIES
-=======
+# Dasyscyphus badiellus (P. Karst.) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharomyces kyushuensis Zenitani SPECIES
-=======
+# Saccharomyces kyushuensis Zenitani SPECIES
 
 #### Status
 ACCEPTED

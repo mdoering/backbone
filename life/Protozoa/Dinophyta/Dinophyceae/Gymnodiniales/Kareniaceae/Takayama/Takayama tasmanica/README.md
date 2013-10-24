@@ -1,5 +1,4 @@
-Takayama tasmanica de Salas, Bolch & Hallegraeff, 2003 SPECIES
-=======
+# Takayama tasmanica de Salas, Bolch & Hallegraeff, 2003 SPECIES
 
 #### Status
 ACCEPTED

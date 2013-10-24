@@ -1,5 +1,4 @@
-Chytridium dendriticum Fuckel SPECIES
-=======
+# Chytridium dendriticum Fuckel SPECIES
 
 #### Status
 ACCEPTED

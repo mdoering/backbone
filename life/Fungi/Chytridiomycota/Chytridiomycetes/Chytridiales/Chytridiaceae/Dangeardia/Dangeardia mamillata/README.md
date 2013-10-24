@@ -1,5 +1,4 @@
-Dangeardia mamillata Schröd., 1898 SPECIES
-=======
+# Dangeardia mamillata Schröd., 1898 SPECIES
 
 #### Status
 ACCEPTED

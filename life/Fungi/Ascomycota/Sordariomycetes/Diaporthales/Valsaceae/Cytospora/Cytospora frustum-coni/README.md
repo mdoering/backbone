@@ -1,5 +1,4 @@
-Cytospora frustum-coni (Schwein.) Starbäck SPECIES
-=======
+# Cytospora frustum-coni (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

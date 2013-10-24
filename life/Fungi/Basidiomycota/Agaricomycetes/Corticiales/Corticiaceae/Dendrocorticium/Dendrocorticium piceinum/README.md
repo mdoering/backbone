@@ -1,5 +1,4 @@
-Dendrocorticium piceinum P.A. Lemke, 1977 SPECIES
-=======
+# Dendrocorticium piceinum P.A. Lemke, 1977 SPECIES
 
 #### Status
 ACCEPTED

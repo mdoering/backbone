@@ -1,5 +1,4 @@
-Uromyces hypoxidis Cooke SPECIES
-=======
+# Uromyces hypoxidis Cooke SPECIES
 
 #### Status
 ACCEPTED

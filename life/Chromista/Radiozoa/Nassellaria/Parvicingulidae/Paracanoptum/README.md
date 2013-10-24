@@ -1,5 +1,4 @@
-Paracanoptum Yeh, 1987 GENUS
-=======
+# Paracanoptum Yeh, 1987 GENUS
 
 #### Status
 ACCEPTED

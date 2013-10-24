@@ -1,5 +1,4 @@
-Hendersonia punicae Pass. SPECIES
-=======
+# Hendersonia punicae Pass. SPECIES
 
 #### Status
 ACCEPTED

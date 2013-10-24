@@ -1,5 +1,4 @@
-Pyrenocollema neozelandicum Zahlbr. SPECIES
-=======
+# Pyrenocollema neozelandicum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera minima Velen. SPECIES
-=======
+# Galera minima Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma dacryosporum Fabre, 1879 SPECIES
-=======
+# Lophiostoma dacryosporum Fabre, 1879 SPECIES
 
 #### Status
 ACCEPTED

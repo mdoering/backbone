@@ -1,5 +1,4 @@
-Physalospora tetrasperma Kirschst. SPECIES
-=======
+# Physalospora tetrasperma Kirschst. SPECIES
 
 #### Status
 ACCEPTED

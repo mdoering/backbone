@@ -1,5 +1,4 @@
-Leptostroma maculans Lib. SPECIES
-=======
+# Leptostroma maculans Lib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria pulmonariae Sacc. SPECIES
-=======
+# Septoria pulmonariae Sacc. SPECIES
 
 #### Status
 ACCEPTED

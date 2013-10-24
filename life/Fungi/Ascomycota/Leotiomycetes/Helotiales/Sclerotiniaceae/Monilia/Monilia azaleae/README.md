@@ -1,5 +1,4 @@
-Monilia azaleae L.R. Batra SPECIES
-=======
+# Monilia azaleae L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

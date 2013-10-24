@@ -1,5 +1,4 @@
-Physalosporopsis Bat. & H. Maia GENUS
-=======
+# Physalosporopsis Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

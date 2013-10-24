@@ -1,5 +1,4 @@
-Dichomera elaeagni P. Karst. SPECIES
-=======
+# Dichomera elaeagni P. Karst. SPECIES
 
 #### Status
 ACCEPTED

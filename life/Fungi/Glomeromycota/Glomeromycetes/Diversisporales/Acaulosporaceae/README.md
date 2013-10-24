@@ -1,5 +1,4 @@
-Acaulosporaceae J.B. Morton & Benny FAMILY
-=======
+# Acaulosporaceae J.B. Morton & Benny FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Yersinia aleksiciae Sprague & Neubauer, 2005 SPECIES
-=======
+# Yersinia aleksiciae Sprague & Neubauer, 2005 SPECIES
 
 #### Status
 ACCEPTED

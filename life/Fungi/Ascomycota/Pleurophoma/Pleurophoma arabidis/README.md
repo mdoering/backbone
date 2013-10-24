@@ -1,5 +1,4 @@
-Pleurophoma arabidis H. Ruppr., 1958 SPECIES
-=======
+# Pleurophoma arabidis H. Ruppr., 1958 SPECIES
 
 #### Status
 ACCEPTED

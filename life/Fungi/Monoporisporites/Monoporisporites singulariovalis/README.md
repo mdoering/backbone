@@ -1,17 +1,16 @@
-Monoporisporites singularovalis Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites singulariovalis Kalgutkar & Janson. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+AASP Contributions Series (Dallas) 39: 182 (2000)
 
 #### Original name
-Monoporisporites singularovalis Kalgutkar & Janson.
+Lacrimasporonites singularis Sheffy & Dilcher
 
 ### Remarks
 null

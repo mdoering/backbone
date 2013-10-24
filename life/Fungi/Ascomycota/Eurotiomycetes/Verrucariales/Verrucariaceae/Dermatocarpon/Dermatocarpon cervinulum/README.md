@@ -1,5 +1,4 @@
-Dermatocarpon cervinulum (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Dermatocarpon cervinulum (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

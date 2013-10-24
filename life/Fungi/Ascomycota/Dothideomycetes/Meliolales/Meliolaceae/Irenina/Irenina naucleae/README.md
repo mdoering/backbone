@@ -1,5 +1,4 @@
-Irenina naucleae Boedijn SPECIES
-=======
+# Irenina naucleae Boedijn SPECIES
 
 #### Status
 ACCEPTED

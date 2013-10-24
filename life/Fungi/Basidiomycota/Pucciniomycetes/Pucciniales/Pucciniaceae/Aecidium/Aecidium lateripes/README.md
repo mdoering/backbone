@@ -1,5 +1,4 @@
-Aecidium lateripes Kellerm. SPECIES
-=======
+# Aecidium lateripes Kellerm. SPECIES
 
 #### Status
 ACCEPTED

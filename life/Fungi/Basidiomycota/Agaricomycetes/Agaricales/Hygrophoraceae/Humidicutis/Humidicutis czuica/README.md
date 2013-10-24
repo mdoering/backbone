@@ -1,14 +1,13 @@
-Tricholoma czuicum (Singer) Singer, 1951 SPECIES
-=======
+# Humidicutis czuica (Singer) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lilloa 22: 224 (1951)
+null
 
 #### Original name
 Hygrocybe czuica Singer, 1943

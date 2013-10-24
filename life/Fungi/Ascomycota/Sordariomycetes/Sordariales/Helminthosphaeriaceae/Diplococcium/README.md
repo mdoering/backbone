@@ -1,5 +1,4 @@
-Diplococcium Grove, 1885 GENUS
-=======
+# Diplococcium Grove, 1885 GENUS
 
 #### Status
 ACCEPTED

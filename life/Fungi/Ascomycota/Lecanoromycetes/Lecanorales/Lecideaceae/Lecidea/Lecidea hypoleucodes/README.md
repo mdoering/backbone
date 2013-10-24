@@ -1,5 +1,4 @@
-Lecidea hypoleucodes Nyl. SPECIES
-=======
+# Lecidea hypoleucodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

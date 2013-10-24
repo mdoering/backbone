@@ -1,5 +1,4 @@
-Uredo salicis-acmophyllae Gonz. Frag. SPECIES
-=======
+# Uredo salicis-acmophyllae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

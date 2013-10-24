@@ -1,5 +1,4 @@
-Physcia stiriaca Poelt SPECIES
-=======
+# Physcia stiriaca Poelt SPECIES
 
 #### Status
 ACCEPTED

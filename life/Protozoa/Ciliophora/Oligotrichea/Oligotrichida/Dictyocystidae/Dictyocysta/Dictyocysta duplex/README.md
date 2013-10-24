@@ -1,5 +1,4 @@
-Dictyocysta duplex Brandt, 1906 SPECIES
-=======
+# Dictyocysta duplex Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

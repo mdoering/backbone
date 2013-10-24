@@ -1,5 +1,4 @@
-Ampelomyces heraclei (Dejeva) Rudakov SPECIES
-=======
+# Ampelomyces heraclei (Dejeva) Rudakov SPECIES
 
 #### Status
 ACCEPTED

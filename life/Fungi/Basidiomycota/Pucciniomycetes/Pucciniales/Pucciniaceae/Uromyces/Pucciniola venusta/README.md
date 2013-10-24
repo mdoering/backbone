@@ -1,5 +1,4 @@
-Pucciniola venusta (Dietel & Holw.) Arthur SPECIES
-=======
+# Pucciniola venusta (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

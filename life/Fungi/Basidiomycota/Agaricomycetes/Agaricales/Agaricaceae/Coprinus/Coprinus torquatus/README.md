@@ -1,5 +1,4 @@
-Coprinus torquatus Mont. SPECIES
-=======
+# Coprinus torquatus Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gymnopus albidulus (Pat.) Murrill, 1916 SPECIES
-=======
+# Phaeomycena albidula (Pat.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 9(5): 370 (1916)
+Lilloa 22: 309 (1951)
 
 #### Original name
 Collybia albidula Pat., 1903

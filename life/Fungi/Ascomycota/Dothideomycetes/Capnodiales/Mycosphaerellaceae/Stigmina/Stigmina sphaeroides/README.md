@@ -1,5 +1,4 @@
-Stigmina sphaeroides (Ellis & Everh.) U. Braun SPECIES
-=======
+# Stigmina sphaeroides (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

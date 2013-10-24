@@ -1,5 +1,4 @@
-Hypocrea sublobata (Schwein.) Sacc. SPECIES
-=======
+# Hypocrea sublobata (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

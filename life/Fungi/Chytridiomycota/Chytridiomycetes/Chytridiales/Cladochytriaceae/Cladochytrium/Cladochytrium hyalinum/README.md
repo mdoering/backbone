@@ -1,5 +1,4 @@
-Cladochytrium hyalinum Berdan, 1941 SPECIES
-=======
+# Cladochytrium hyalinum Berdan, 1941 SPECIES
 
 #### Status
 ACCEPTED

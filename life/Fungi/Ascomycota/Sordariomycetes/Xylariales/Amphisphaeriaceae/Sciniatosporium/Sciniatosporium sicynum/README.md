@@ -1,5 +1,4 @@
-Sciniatosporium sicynum (Thüm.) Morgan-Jones SPECIES
-=======
+# Sciniatosporium sicynum (Thüm.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniochaeta nepalica Minoura, Morinaga & T. Muroi, 1977 SPECIES
-=======
+# Coniochaeta nepalica Minoura, Morinaga & T. Muroi, 1977 SPECIES
 
 #### Status
 ACCEPTED

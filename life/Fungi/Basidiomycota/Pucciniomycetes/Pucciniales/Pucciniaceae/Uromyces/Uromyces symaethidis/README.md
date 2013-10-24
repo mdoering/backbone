@@ -1,5 +1,4 @@
-Uromyces symaethidis W. Schneid. SPECIES
-=======
+# Uromyces symaethidis W. Schneid. SPECIES
 
 #### Status
 ACCEPTED

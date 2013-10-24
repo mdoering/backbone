@@ -1,5 +1,4 @@
-Mycena pulcherrima (Peck) Sacc. SPECIES
-=======
+# Mycena pulcherrima (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

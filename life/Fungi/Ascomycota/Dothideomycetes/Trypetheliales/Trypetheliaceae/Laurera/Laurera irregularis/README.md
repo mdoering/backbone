@@ -1,5 +1,4 @@
-Laurera irregularis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Laurera irregularis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

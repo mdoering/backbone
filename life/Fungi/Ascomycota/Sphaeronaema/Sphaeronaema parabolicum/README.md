@@ -1,5 +1,4 @@
-Sphaeronaema parabolicum (Tode) Fr. SPECIES
-=======
+# Sphaeronaema parabolicum (Tode) Fr. SPECIES
 
 #### Status
 ACCEPTED

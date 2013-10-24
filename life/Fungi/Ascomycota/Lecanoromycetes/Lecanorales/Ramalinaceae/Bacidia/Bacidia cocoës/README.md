@@ -1,5 +1,4 @@
-Bacidia cocoës Malme SPECIES
-=======
+# Bacidia cocoës Malme SPECIES
 
 #### Status
 ACCEPTED

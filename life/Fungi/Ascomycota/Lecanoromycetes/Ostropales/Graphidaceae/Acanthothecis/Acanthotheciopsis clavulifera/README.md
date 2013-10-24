@@ -1,5 +1,4 @@
-Acanthotheciopsis clavulifera (Vain.) Zahlbr. SPECIES
-=======
+# Acanthotheciopsis clavulifera (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

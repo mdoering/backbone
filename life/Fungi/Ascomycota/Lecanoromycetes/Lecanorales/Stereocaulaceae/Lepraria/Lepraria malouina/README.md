@@ -1,5 +1,4 @@
-Lepraria malouina Øvstedal SPECIES
-=======
+# Lepraria malouina Øvstedal SPECIES
 
 #### Status
 ACCEPTED

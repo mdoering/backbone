@@ -1,5 +1,4 @@
-Rinodina santae-monicae H. Magn. SPECIES
-=======
+# Rinodina santae-monicae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

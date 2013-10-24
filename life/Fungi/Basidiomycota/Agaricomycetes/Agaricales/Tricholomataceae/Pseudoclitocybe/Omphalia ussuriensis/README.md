@@ -1,5 +1,4 @@
-Omphalia ussuriensis Lebedeva SPECIES
-=======
+# Omphalia ussuriensis Lebedeva SPECIES
 
 #### Status
 ACCEPTED

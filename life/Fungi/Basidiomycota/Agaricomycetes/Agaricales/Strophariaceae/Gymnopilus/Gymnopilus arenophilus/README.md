@@ -1,5 +1,4 @@
-Gymnopilus arenophilus A. Ortega & Esteve-Rav. SPECIES
-=======
+# Gymnopilus arenophilus A. Ortega & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

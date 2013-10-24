@@ -1,5 +1,4 @@
-Pleosphaerulina zeicola G.L. Stout SPECIES
-=======
+# Pleosphaerulina zeicola G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

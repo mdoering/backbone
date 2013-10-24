@@ -1,5 +1,4 @@
-Pronectria parmotrematis Etayo SPECIES
-=======
+# Pronectria parmotrematis Etayo SPECIES
 
 #### Status
 ACCEPTED

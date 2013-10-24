@@ -1,5 +1,4 @@
-Lasiobelonium guangxiense W.Y. Zhuang SPECIES
-=======
+# Lasiobelonium guangxiense W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

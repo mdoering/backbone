@@ -1,5 +1,4 @@
-Porina rhodostoma Müll. Arg. SPECIES
-=======
+# Porina rhodostoma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella endophytica Crous & H. Sm. ter, 1998 SPECIES
-=======
+# Mycosphaerella endophytica Crous & H. Sm. ter, 1998 SPECIES
 
 #### Status
 ACCEPTED

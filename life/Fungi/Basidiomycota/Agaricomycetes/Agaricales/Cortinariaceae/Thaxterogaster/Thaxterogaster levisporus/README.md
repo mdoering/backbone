@@ -1,5 +1,4 @@
-Thaxterogaster levisporus (Rodway) G.W. Beaton, Pegler & T.W.K. Young SPECIES
-=======
+# Thaxterogaster levisporus (Rodway) G.W. Beaton, Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

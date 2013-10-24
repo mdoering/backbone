@@ -1,5 +1,4 @@
-Filaspora jasminicola Kuntze SPECIES
-=======
+# Filaspora jasminicola Kuntze SPECIES
 
 #### Status
 ACCEPTED

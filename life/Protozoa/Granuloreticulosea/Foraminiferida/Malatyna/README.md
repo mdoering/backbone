@@ -1,5 +1,4 @@
-Malatyna Sirel & Acar, 1993 GENUS
-=======
+# Malatyna Sirel & Acar, 1993 GENUS
 
 #### Status
 ACCEPTED

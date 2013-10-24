@@ -1,5 +1,4 @@
-Buellia lindingeri Erichsen SPECIES
-=======
+# Buellia lindingeri Erichsen SPECIES
 
 #### Status
 ACCEPTED

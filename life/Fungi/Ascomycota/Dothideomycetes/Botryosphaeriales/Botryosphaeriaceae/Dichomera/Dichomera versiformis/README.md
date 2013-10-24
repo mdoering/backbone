@@ -1,5 +1,4 @@
-Dichomera versiformis Z.Q. Yuan, Wardlaw & C. Mohammed SPECIES
-=======
+# Dichomera versiformis Z.Q. Yuan, Wardlaw & C. Mohammed SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusobacterium canifelinum Conrads et al., 2004 SPECIES
-=======
+# Fusobacterium canifelinum Conrads et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

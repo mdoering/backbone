@@ -1,5 +1,4 @@
-Calyptotricha chesapeakensis SPECIES
-=======
+# Calyptotricha chesapeakensis SPECIES
 
 #### Status
 ACCEPTED

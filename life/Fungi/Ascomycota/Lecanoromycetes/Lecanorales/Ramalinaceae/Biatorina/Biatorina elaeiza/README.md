@@ -1,5 +1,4 @@
-Biatorina elaeiza (Nyl.) Hazsl. SPECIES
-=======
+# Biatorina elaeiza (Nyl.) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

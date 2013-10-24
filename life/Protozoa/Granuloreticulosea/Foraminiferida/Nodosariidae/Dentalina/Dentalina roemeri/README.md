@@ -1,8 +1,7 @@
-Nodosaria roemeri (Neugeboren, 1856) SPECIES
-=======
+# Dentalina roemeri Neugeboren, 1856 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

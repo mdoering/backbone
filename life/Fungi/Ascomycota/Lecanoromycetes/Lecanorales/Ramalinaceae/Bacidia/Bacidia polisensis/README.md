@@ -1,5 +1,4 @@
-Bacidia polisensis Herre SPECIES
-=======
+# Bacidia polisensis Herre SPECIES
 
 #### Status
 ACCEPTED

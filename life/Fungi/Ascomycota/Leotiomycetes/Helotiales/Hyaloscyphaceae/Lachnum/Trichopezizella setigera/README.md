@@ -1,5 +1,4 @@
-Trichopezizella setigera (W. Phillips) Raitv. SPECIES
-=======
+# Trichopezizella setigera (W. Phillips) Raitv. SPECIES
 
 #### Status
 ACCEPTED

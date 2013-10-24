@@ -1,5 +1,4 @@
-Ascocalyx pinicola Tak. Kobay. & H. Kondo SPECIES
-=======
+# Ascocalyx pinicola Tak. Kobay. & H. Kondo SPECIES
 
 #### Status
 ACCEPTED

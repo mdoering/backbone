@@ -1,5 +1,4 @@
-Coniosporium polyporeum Kalchbr. SPECIES
-=======
+# Coniosporium polyporeum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

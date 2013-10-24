@@ -1,5 +1,4 @@
-Asterina cubensis Sacc. & P. Syd. SPECIES
-=======
+# Asterina cubensis Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

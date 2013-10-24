@@ -1,5 +1,4 @@
-Lecanora interjecta Müll. Arg. SPECIES
-=======
+# Lecanora interjecta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

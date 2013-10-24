@@ -1,5 +1,4 @@
-Trichoderma carneum Schumach. SPECIES
-=======
+# Trichoderma carneum Schumach. SPECIES
 
 #### Status
 ACCEPTED

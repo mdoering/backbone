@@ -1,5 +1,4 @@
-Merulius stereoides Henn. SPECIES
-=======
+# Merulius stereoides Henn. SPECIES
 
 #### Status
 ACCEPTED

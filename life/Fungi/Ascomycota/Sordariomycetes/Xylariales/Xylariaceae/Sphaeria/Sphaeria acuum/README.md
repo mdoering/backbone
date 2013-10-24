@@ -1,5 +1,4 @@
-Sphaeria acuum Cooke & Harkn. SPECIES
-=======
+# Sphaeria acuum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

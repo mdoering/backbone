@@ -1,5 +1,4 @@
-Hadrotrichum cedrelae Jauch SPECIES
-=======
+# Hadrotrichum cedrelae Jauch SPECIES
 
 #### Status
 ACCEPTED

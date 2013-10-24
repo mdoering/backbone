@@ -1,5 +1,4 @@
-Multicellaesporites margaritus P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites margaritus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

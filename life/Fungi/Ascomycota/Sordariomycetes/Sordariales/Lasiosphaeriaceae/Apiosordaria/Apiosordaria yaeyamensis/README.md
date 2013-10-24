@@ -1,5 +1,4 @@
-Apiosordaria yaeyamensis Morinaga, Utatsu & Minoura SPECIES
-=======
+# Apiosordaria yaeyamensis Morinaga, Utatsu & Minoura SPECIES
 
 #### Status
 ACCEPTED

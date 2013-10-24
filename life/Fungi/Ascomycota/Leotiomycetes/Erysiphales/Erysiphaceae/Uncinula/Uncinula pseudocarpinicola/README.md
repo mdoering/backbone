@@ -1,5 +1,4 @@
-Uncinula pseudocarpinicola Y. Nomura & Tanda SPECIES
-=======
+# Uncinula pseudocarpinicola Y. Nomura & Tanda SPECIES
 
 #### Status
 ACCEPTED

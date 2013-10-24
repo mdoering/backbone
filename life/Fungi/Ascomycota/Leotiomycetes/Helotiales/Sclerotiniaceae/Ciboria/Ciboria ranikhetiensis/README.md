@@ -1,5 +1,4 @@
-Ciboria ranikhetiensis Ram N. Singh & D.C. Pant SPECIES
-=======
+# Ciboria ranikhetiensis Ram N. Singh & D.C. Pant SPECIES
 
 #### Status
 ACCEPTED

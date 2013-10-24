@@ -1,5 +1,4 @@
-Isthmosporella Shearer & J.L. Crane GENUS
-=======
+# Isthmosporella Shearer & J.L. Crane GENUS
 
 #### Status
 ACCEPTED

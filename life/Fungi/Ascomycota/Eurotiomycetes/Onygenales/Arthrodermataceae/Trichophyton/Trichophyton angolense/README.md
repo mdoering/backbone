@@ -1,5 +1,4 @@
-Trichophyton angolense (Mello & Paes) Nann. SPECIES
-=======
+# Trichophyton angolense (Mello & Paes) Nann. SPECIES
 
 #### Status
 ACCEPTED

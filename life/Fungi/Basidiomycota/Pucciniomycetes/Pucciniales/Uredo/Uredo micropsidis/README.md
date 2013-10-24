@@ -1,5 +1,4 @@
-Uredo micropsidis Speg. SPECIES
-=======
+# Uredo micropsidis Speg. SPECIES
 
 #### Status
 ACCEPTED

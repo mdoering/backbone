@@ -1,5 +1,4 @@
-Polyporus perottetii Lév. SPECIES
-=======
+# Polyporus perottetii Lév. SPECIES
 
 #### Status
 ACCEPTED

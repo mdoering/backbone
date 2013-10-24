@@ -1,5 +1,4 @@
-Coryneum camerunense Henn. SPECIES
-=======
+# Coryneum camerunense Henn. SPECIES
 
 #### Status
 ACCEPTED

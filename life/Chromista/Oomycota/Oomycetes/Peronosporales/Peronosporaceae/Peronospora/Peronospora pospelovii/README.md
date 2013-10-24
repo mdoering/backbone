@@ -1,5 +1,4 @@
-Peronospora pospelovii Gapon. SPECIES
-=======
+# Peronospora pospelovii Gapon. SPECIES
 
 #### Status
 ACCEPTED

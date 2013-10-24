@@ -1,5 +1,4 @@
-Ceratestina Carter, 1880 GENUS
-=======
+# Ceratestina Carter, 1880 GENUS
 
 #### Status
 ACCEPTED

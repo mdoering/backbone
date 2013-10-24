@@ -1,5 +1,4 @@
-Thozetellopsis calicioides Sherwood SPECIES
-=======
+# Thozetellopsis calicioides Sherwood SPECIES
 
 #### Status
 ACCEPTED

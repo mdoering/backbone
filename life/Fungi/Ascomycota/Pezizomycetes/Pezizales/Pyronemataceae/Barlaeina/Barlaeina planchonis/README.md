@@ -1,5 +1,4 @@
-Barlaeina planchonis (Dunal ex Boud.) Sacc. & Traverso SPECIES
-=======
+# Barlaeina planchonis (Dunal ex Boud.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

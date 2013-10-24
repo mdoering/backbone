@@ -1,5 +1,4 @@
-Coprinus caducus Harz SPECIES
-=======
+# Coprinus caducus Harz SPECIES
 
 #### Status
 ACCEPTED

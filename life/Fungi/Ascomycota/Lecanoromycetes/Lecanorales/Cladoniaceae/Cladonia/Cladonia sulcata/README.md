@@ -1,17 +1,16 @@
-Cladonia sulcata var. depleta Elix & Kantvilas VARIETY
-=======
+# Cladonia sulcata A. W. Archer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 129: 64 (1995)
+null
 
 #### Original name
-Cladonia sulcata var. depleta Elix & Kantvilas
+null
 
 ### Remarks
 null

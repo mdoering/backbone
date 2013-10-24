@@ -1,5 +1,4 @@
-Crepidotus ampullicystis Singer SPECIES
-=======
+# Crepidotus ampullicystis Singer SPECIES
 
 #### Status
 ACCEPTED

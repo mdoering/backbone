@@ -1,5 +1,4 @@
-Pyrenula velatior Müll. Arg., 1885 SPECIES
-=======
+# Pyrenula velatior Müll. Arg., 1885 SPECIES
 
 #### Status
 DOUBTFUL

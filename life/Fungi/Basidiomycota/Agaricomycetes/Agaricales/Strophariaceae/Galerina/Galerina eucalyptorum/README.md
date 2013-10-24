@@ -1,5 +1,4 @@
-Galerina eucalyptorum E. Horak SPECIES
-=======
+# Galerina eucalyptorum E. Horak SPECIES
 
 #### Status
 ACCEPTED

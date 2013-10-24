@@ -1,5 +1,4 @@
-Hypodermium frankeniae Link SPECIES
-=======
+# Hypodermium frankeniae Link SPECIES
 
 #### Status
 ACCEPTED

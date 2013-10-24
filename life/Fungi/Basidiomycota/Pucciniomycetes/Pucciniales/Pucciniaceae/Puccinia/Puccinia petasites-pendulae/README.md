@@ -1,8 +1,7 @@
-Puccinia petasiti-pendulae Gäum. SPECIES
-=======
+# Puccinia petasites-pendulae Gäum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia petasiti-pendulae Gäum.
+Puccinia petasites-pendulae Gäum.
 
 ### Remarks
 null

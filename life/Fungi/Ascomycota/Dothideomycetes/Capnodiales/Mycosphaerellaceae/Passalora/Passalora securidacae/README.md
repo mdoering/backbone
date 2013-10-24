@@ -1,5 +1,4 @@
-Passalora securidacae U. Braun & Crous SPECIES
-=======
+# Passalora securidacae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

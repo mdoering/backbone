@@ -1,5 +1,4 @@
-Phyllachora olivascens (Rehm) Arx & E. Müll., 1954 SPECIES
-=======
+# Phyllachora olivascens (Rehm) Arx & E. Müll., 1954 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Hypocopra stercoris Fuckel SPECIES
-=======
+# Hypocopra stercoris Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton fischeri J. Kane, 1977 SPECIES
-=======
+# Trichophyton fischeri J. Kane, 1977 SPECIES
 
 #### Status
 ACCEPTED

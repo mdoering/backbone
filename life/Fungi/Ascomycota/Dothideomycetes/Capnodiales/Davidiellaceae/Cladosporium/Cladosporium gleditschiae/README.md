@@ -1,5 +1,4 @@
-Cladosporium gleditschiae Cooke SPECIES
-=======
+# Cladosporium gleditschiae Cooke SPECIES
 
 #### Status
 ACCEPTED

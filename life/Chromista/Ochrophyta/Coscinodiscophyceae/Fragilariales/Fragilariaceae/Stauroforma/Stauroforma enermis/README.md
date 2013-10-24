@@ -1,5 +1,4 @@
-Stauroforma enermis Flower, Jones & F.E. Round SPECIES
-=======
+# Stauroforma enermis Flower, Jones & F.E. Round SPECIES
 
 #### Status
 ACCEPTED

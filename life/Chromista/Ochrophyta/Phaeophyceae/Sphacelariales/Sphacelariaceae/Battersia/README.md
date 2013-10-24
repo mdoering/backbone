@@ -1,5 +1,4 @@
-Battersia Reinke ex Batters, 1890 GENUS
-=======
+# Battersia Reinke ex Batters, 1890 GENUS
 
 #### Status
 ACCEPTED

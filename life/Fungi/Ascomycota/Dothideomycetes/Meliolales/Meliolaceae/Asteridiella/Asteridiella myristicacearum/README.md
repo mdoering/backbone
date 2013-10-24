@@ -1,5 +1,4 @@
-Asteridiella myristicacearum Hosag. SPECIES
-=======
+# Asteridiella myristicacearum Hosag. SPECIES
 
 #### Status
 ACCEPTED

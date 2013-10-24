@@ -1,5 +1,4 @@
-Arthopyrenia submuriformis R.C. Harris SPECIES
-=======
+# Arthopyrenia submuriformis R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

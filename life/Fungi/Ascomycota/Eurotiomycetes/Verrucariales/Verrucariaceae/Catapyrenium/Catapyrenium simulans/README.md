@@ -1,5 +1,4 @@
-Catapyrenium simulans Breuss SPECIES
-=======
+# Catapyrenium simulans Breuss SPECIES
 
 #### Status
 ACCEPTED

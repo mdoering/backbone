@@ -1,5 +1,4 @@
-Lichen rufescens O.F. Müll. SPECIES
-=======
+# Lichen rufescens O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

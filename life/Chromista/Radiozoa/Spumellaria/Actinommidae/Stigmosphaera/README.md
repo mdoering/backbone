@@ -1,5 +1,4 @@
-Stigmosphaera Haeckel, 1887 GENUS
-=======
+# Stigmosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

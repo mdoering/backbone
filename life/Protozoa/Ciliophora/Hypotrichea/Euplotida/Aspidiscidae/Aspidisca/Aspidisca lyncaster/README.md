@@ -1,5 +1,4 @@
-Aspidisca lyncaster (Müller, 1776) Stein, 1859 SPECIES
-=======
+# Aspidisca lyncaster (Müller, 1776) Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

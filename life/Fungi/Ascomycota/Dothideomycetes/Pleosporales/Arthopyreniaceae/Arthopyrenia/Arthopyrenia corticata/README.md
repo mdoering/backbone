@@ -1,5 +1,4 @@
-Arthopyrenia corticata Müll. Arg. SPECIES
-=======
+# Arthopyrenia corticata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

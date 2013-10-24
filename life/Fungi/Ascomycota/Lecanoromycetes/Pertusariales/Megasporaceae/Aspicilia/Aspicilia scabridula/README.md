@@ -1,5 +1,4 @@
-Aspicilia scabridula Motyka SPECIES
-=======
+# Aspicilia scabridula Motyka SPECIES
 
 #### Status
 ACCEPTED

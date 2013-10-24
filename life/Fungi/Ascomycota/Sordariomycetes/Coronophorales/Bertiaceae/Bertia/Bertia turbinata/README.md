@@ -1,5 +1,4 @@
-Bertia turbinata Petch SPECIES
-=======
+# Bertia turbinata Petch SPECIES
 
 #### Status
 ACCEPTED

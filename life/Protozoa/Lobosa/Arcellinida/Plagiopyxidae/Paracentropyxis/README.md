@@ -1,5 +1,4 @@
-Paracentropyxis Bonnet, 1960 GENUS
-=======
+# Paracentropyxis Bonnet, 1960 GENUS
 
 #### Status
 ACCEPTED

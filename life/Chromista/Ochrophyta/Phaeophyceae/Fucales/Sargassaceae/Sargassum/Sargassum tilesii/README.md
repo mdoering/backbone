@@ -1,5 +1,4 @@
-Sargassum tilesii Grunow SPECIES
-=======
+# Sargassum tilesii Grunow SPECIES
 
 #### Status
 ACCEPTED

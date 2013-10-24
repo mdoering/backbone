@@ -1,5 +1,4 @@
-Flavoparmelia succinprotocetrarica Elix & J. Johnst. SPECIES
-=======
+# Flavoparmelia succinprotocetrarica Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

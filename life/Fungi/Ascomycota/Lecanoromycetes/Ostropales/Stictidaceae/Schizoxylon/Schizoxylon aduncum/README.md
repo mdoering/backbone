@@ -1,5 +1,4 @@
-Schizoxylon aduncum Feltgen SPECIES
-=======
+# Schizoxylon aduncum Feltgen SPECIES
 
 #### Status
 ACCEPTED

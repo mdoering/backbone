@@ -1,5 +1,4 @@
-Pilocratera abnormis Peck SPECIES
-=======
+# Pilocratera abnormis Peck SPECIES
 
 #### Status
 ACCEPTED

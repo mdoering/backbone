@@ -1,5 +1,4 @@
-Mycoacia chrysella (Berk. & M.A. Curtis) H. Furuk. SPECIES
-=======
+# Mycoacia chrysella (Berk. & M.A. Curtis) H. Furuk. SPECIES
 
 #### Status
 ACCEPTED

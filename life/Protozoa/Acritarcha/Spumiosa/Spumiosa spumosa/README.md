@@ -1,5 +1,4 @@
-Spumiosa spumosa Naumova, 1968 SPECIES
-=======
+# Spumiosa spumosa Naumova, 1968 SPECIES
 
 #### Status
 ACCEPTED

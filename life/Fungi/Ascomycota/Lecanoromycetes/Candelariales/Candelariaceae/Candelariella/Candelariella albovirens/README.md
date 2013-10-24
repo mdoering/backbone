@@ -1,5 +1,4 @@
-Candelariella albovirens C.W. Dodge & G.E. Baker SPECIES
-=======
+# Candelariella albovirens C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

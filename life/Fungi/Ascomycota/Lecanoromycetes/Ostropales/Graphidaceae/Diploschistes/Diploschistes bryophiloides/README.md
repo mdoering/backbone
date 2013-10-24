@@ -1,5 +1,4 @@
-Diploschistes bryophiloides (Nyl.) Zahlbr. SPECIES
-=======
+# Diploschistes bryophiloides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

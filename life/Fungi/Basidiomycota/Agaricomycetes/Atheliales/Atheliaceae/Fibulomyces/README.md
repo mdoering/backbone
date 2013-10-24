@@ -1,5 +1,4 @@
-Fibulomyces Jülich, 1972 GENUS
-=======
+# Fibulomyces Jülich, 1972 GENUS
 
 #### Status
 ACCEPTED

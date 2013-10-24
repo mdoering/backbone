@@ -1,5 +1,4 @@
-Metasphaeria actaeae Petr. SPECIES
-=======
+# Metasphaeria actaeae Petr. SPECIES
 
 #### Status
 ACCEPTED

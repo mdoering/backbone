@@ -1,5 +1,4 @@
-Rickia arcuata Thaxt. SPECIES
-=======
+# Rickia arcuata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

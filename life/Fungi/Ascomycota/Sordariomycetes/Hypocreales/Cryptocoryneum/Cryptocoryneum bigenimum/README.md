@@ -1,8 +1,7 @@
-Dictyosporium minor (Sacc.) Damon SPECIES
-=======
+# Cryptocoryneum bigenimum (Cooke & Ellis) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Speira minor Sacc., 1882
+Cryptocoryneum bigenimum (Cooke & Ellis) S. Hughes, 1958
 
 ### Remarks
 null

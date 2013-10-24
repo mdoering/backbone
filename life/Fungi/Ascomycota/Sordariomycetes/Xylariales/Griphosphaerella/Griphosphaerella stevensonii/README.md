@@ -1,5 +1,4 @@
-Griphosphaerella stevensonii Petr. SPECIES
-=======
+# Griphosphaerella stevensonii Petr. SPECIES
 
 #### Status
 ACCEPTED

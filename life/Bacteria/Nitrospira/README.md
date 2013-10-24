@@ -1,5 +1,4 @@
-Nitrospira PHYLUM
-=======
+# Nitrospira PHYLUM
 
 #### Status
 ACCEPTED

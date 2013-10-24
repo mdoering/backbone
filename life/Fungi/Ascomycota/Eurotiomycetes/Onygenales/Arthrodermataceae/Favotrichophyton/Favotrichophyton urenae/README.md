@@ -1,5 +1,4 @@
-Favotrichophyton urenae (E.L. Ochot.) C.W. Dodge SPECIES
-=======
+# Favotrichophyton urenae (E.L. Ochot.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

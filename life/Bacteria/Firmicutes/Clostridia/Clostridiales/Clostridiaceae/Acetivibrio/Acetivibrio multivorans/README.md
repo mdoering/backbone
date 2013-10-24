@@ -1,5 +1,4 @@
-Acetivibrio multivorans Tanaka et al., 1992 SPECIES
-=======
+# Acetivibrio multivorans Tanaka et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

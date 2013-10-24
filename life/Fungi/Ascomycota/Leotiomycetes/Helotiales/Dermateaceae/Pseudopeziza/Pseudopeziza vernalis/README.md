@@ -1,5 +1,4 @@
-Pseudopeziza vernalis (Fuckel) Sacc. SPECIES
-=======
+# Pseudopeziza vernalis (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

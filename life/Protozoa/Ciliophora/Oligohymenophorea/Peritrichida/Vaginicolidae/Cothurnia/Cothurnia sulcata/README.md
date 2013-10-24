@@ -1,5 +1,4 @@
-Cothurnia sulcata Kahl, 1928 SPECIES
-=======
+# Cothurnia sulcata Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

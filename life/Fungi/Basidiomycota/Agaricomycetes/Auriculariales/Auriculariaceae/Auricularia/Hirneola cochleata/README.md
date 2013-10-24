@@ -1,5 +1,4 @@
-Hirneola cochleata Fr. SPECIES
-=======
+# Hirneola cochleata Fr. SPECIES
 
 #### Status
 ACCEPTED

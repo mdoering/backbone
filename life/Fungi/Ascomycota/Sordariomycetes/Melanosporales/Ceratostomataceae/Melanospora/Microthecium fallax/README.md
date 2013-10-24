@@ -1,5 +1,4 @@
-Microthecium fallax Preuss SPECIES
-=======
+# Microthecium fallax Preuss SPECIES
 
 #### Status
 ACCEPTED

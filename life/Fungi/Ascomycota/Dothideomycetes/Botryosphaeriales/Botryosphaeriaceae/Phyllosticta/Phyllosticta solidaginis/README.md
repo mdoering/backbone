@@ -1,5 +1,4 @@
-Phyllosticta solidaginis Bres. SPECIES
-=======
+# Phyllosticta solidaginis Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola icacinacearum Mibey SPECIES
-=======
+# Meliola icacinacearum Mibey SPECIES
 
 #### Status
 ACCEPTED

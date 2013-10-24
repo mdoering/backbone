@@ -1,5 +1,4 @@
-Inocybe uliginosa Velen. SPECIES
-=======
+# Inocybe uliginosa Velen. SPECIES
 
 #### Status
 ACCEPTED

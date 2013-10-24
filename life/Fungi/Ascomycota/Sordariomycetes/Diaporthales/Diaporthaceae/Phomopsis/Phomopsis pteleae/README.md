@@ -1,5 +1,4 @@
-Phomopsis pteleae Panas. SPECIES
-=======
+# Phomopsis pteleae Panas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sacidium chenopodii Nees SPECIES
-=======
+# Sacidium chenopodii Nees SPECIES
 
 #### Status
 ACCEPTED

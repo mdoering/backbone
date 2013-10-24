@@ -1,5 +1,4 @@
-Septoria caryae Ellis & Everh. SPECIES
-=======
+# Septoria caryae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

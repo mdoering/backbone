@@ -1,5 +1,4 @@
-Arthopyrenia zonata Müll. Arg. SPECIES
-=======
+# Arthopyrenia zonata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

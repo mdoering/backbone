@@ -1,5 +1,4 @@
-Agaricus argentatus Pers. SPECIES
-=======
+# Agaricus argentatus Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dendryphion curtum var. curtum Berk. & Broome VARIETY
-=======
+# Dendryphion comosum Wallr., 1833 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 7: 176 (1851)
+Fl. crypt. Germ. (Nürnberg) 2: 300 (1833)
 
 #### Original name
-Dendryphion curtum var. curtum Berk. & Broome
+Dendryphion comosum Wallr., 1833
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Acarospora toniniana (A. Massal.) Jatta SPECIES
-=======
+# Acarospora toniniana (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

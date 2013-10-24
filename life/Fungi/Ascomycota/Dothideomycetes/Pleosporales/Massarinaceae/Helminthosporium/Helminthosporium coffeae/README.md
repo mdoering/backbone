@@ -1,17 +1,16 @@
-Helmisporium coffeae Massee SPECIES
-=======
+# Helminthosporium coffeae Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 167 (1901)
 
 #### Original name
-Helmisporium coffeae Massee
+Helminthosporium coffeae Massee
 
 ### Remarks
 null

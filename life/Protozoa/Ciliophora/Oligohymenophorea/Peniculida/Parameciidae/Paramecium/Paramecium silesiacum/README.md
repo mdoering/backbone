@@ -1,5 +1,4 @@
-Paramecium silesiacum SPECIES
-=======
+# Paramecium silesiacum SPECIES
 
 #### Status
 ACCEPTED

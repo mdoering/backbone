@@ -1,5 +1,4 @@
-Coprinus albulus Quél. SPECIES
-=======
+# Coprinus albulus Quél. SPECIES
 
 #### Status
 ACCEPTED

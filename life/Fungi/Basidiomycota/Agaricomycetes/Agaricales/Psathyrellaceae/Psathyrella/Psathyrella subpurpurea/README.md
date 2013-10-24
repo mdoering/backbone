@@ -1,5 +1,4 @@
-Psathyrella subpurpurea A.H. Sm. SPECIES
-=======
+# Psathyrella subpurpurea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

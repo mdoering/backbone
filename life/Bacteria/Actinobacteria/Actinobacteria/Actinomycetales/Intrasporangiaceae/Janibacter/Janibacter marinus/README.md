@@ -1,5 +1,4 @@
-Janibacter marinus Bae, 2004 SPECIES
-=======
+# Janibacter marinus Bae, 2004 SPECIES
 
 #### Status
 ACCEPTED

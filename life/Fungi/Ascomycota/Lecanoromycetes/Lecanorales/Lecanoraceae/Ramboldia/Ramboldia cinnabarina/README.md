@@ -1,17 +1,16 @@
-Biatora cinnabarina (Sommerf.) Fr. SPECIES
-=======
+# Ramboldia cinnabarina (Sommerf.) Kalb, Lumbsch & Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. eur. reform. (Lund) 266 (1831)
+null
 
 #### Original name
-Lecidea cinnabarina Sommerf.
+null
 
 ### Remarks
 null

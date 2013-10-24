@@ -1,5 +1,4 @@
-Idiomarina homiensis Kwon et al., 2006 SPECIES
-=======
+# Idiomarina homiensis Kwon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

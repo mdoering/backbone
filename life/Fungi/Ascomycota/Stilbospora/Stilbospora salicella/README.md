@@ -1,5 +1,4 @@
-Stilbospora salicella Höhn. SPECIES
-=======
+# Stilbospora salicella Höhn. SPECIES
 
 #### Status
 ACCEPTED

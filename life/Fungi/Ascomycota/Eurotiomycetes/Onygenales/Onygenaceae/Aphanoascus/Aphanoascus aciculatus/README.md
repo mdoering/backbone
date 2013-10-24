@@ -1,5 +1,4 @@
-Aphanoascus aciculatus Pivkin & Khudyakova SPECIES
-=======
+# Aphanoascus aciculatus Pivkin & Khudyakova SPECIES
 
 #### Status
 ACCEPTED

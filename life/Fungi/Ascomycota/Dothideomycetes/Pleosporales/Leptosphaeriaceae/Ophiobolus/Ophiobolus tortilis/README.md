@@ -1,5 +1,4 @@
-Ophiobolus tortilis Syd. SPECIES
-=======
+# Ophiobolus tortilis Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia digitata Lynge SPECIES
-=======
+# Parmelia digitata Lynge SPECIES
 
 #### Status
 ACCEPTED

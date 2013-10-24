@@ -1,5 +1,4 @@
-Puccinia kentaniensis Pole-Evans SPECIES
-=======
+# Puccinia kentaniensis Pole-Evans SPECIES
 
 #### Status
 ACCEPTED

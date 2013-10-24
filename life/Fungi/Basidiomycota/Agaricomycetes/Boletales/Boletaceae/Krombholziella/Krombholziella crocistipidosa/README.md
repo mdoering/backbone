@@ -1,5 +1,4 @@
-Krombholziella crocistipidosa (H. Engel & Dermek) Alessio SPECIES
-=======
+# Krombholziella crocistipidosa (H. Engel & Dermek) Alessio SPECIES
 
 #### Status
 ACCEPTED

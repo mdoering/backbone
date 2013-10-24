@@ -1,5 +1,4 @@
-Lecanora corallophora Poelt SPECIES
-=======
+# Lecanora corallophora Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Millerella Thompson, 1942 GENUS
-=======
+# Millerella Thompson, 1942 GENUS
 
 #### Status
 ACCEPTED

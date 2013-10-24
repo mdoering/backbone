@@ -1,5 +1,4 @@
-Xylosphaeria andicola (Speg.) Petr. SPECIES
-=======
+# Xylosphaeria andicola (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

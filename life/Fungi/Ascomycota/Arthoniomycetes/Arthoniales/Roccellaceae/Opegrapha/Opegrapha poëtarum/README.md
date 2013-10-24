@@ -1,5 +1,4 @@
-Opegrapha poëtarum De Not. & Bagl. SPECIES
-=======
+# Opegrapha poëtarum De Not. & Bagl. SPECIES
 
 #### Status
 ACCEPTED

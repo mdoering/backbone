@@ -1,5 +1,4 @@
-Tremella incrustans Kobayasi SPECIES
-=======
+# Tremella incrustans Kobayasi SPECIES
 
 #### Status
 ACCEPTED

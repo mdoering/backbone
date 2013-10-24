@@ -1,5 +1,4 @@
-Dimorphomyces verticalis Thaxt. SPECIES
-=======
+# Dimorphomyces verticalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria carotae var. carotae VARIETY
-=======
+# Septoria carotae Nagorny SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria carotae var. carotae
+Septoria carotae Nagorny
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ceratostoma subdenudatum Peck SPECIES
-=======
+# Ceratostoma subdenudatum Peck SPECIES
 
 #### Status
 ACCEPTED

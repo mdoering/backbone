@@ -1,5 +1,4 @@
-Boletuvelum candens F.H. Wind & S.W. Wise SPECIES
-=======
+# Boletuvelum candens F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

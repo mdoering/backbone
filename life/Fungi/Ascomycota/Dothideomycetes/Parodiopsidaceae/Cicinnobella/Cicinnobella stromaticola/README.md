@@ -1,5 +1,4 @@
-Cicinnobella stromaticola Petr. SPECIES
-=======
+# Cicinnobella stromaticola Petr. SPECIES
 
 #### Status
 ACCEPTED

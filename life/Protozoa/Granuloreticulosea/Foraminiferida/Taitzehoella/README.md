@@ -1,5 +1,4 @@
-Taitzehoella GENUS
-=======
+# Taitzehoella GENUS
 
 #### Status
 ACCEPTED

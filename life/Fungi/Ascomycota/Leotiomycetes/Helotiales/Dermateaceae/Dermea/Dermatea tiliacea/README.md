@@ -1,5 +1,4 @@
-Dermatea tiliacea Fr. SPECIES
-=======
+# Dermatea tiliacea Fr. SPECIES
 
 #### Status
 ACCEPTED

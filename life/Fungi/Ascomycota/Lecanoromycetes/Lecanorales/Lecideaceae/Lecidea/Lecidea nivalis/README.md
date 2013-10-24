@@ -1,5 +1,4 @@
-Lecidea nivalis Anzi SPECIES
-=======
+# Lecidea nivalis Anzi SPECIES
 
 #### Status
 ACCEPTED

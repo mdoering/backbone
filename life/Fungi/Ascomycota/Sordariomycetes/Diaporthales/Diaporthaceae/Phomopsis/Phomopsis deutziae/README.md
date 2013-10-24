@@ -1,5 +1,4 @@
-Phomopsis deutziae N.F. Buchw. SPECIES
-=======
+# Phomopsis deutziae N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

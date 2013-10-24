@@ -1,5 +1,4 @@
-Leptosphaeria equiseticola Hollós SPECIES
-=======
+# Leptosphaeria equiseticola Hollós SPECIES
 
 #### Status
 ACCEPTED

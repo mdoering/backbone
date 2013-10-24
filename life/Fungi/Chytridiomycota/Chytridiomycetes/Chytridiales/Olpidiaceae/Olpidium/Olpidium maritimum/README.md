@@ -1,5 +1,4 @@
-Olpidium maritimum Höhnk & Aleem SPECIES
-=======
+# Olpidium maritimum Höhnk & Aleem SPECIES
 
 #### Status
 ACCEPTED

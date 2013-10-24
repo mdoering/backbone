@@ -1,5 +1,4 @@
-Rhipidonema spongiosum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rhipidonema spongiosum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

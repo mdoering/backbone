@@ -1,5 +1,4 @@
-Pedumispora K.D. Hyde & E.B.G. Jones GENUS
-=======
+# Pedumispora K.D. Hyde & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa multiplex Cooke & Ellis SPECIES
-=======
+# Valsa multiplex Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

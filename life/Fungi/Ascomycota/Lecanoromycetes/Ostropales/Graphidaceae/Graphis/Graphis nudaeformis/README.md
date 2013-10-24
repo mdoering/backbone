@@ -1,5 +1,4 @@
-Graphis nudaeformis Lücking SPECIES
-=======
+# Graphis nudaeformis Lücking SPECIES
 
 #### Status
 ACCEPTED

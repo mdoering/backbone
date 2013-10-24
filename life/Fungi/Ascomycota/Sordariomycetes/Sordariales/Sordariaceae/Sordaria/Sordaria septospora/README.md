@@ -1,5 +1,4 @@
-Sordaria septospora Cain SPECIES
-=======
+# Sordaria septospora Cain SPECIES
 
 #### Status
 ACCEPTED

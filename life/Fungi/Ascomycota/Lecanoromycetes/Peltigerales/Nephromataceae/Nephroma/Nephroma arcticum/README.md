@@ -1,17 +1,16 @@
-Nephroma arcticum f. complicatum Nyl. FORM
-=======
+# Nephroma arcticum (L.) Torss. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Enum. Lich. Byssac. Scandin. 7 (1843)
 
 #### Original name
-Nephroma arcticum f. complicatum Nyl.
+Lichen arcticus L.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Colpoda steinii subsp. steinii SUBSPECIES
-=======
+# Colpoda steinii Maupas, 1883 SPECIES
 
 #### Status
 ACCEPTED

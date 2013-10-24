@@ -1,5 +1,4 @@
-Physalosporina franzschalii Woron. SPECIES
-=======
+# Physalosporina franzschalii Woron. SPECIES
 
 #### Status
 ACCEPTED

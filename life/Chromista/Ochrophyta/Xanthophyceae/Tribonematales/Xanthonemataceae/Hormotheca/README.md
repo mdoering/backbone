@@ -1,5 +1,4 @@
-Hormotheca A. Borzì, 1885 GENUS
-=======
+# Hormotheca A. Borzì, 1885 GENUS
 
 #### Status
 ACCEPTED

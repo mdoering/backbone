@@ -1,5 +1,4 @@
-Leiodiscina S.N. Naumova, 1968 GENUS
-=======
+# Leiodiscina S.N. Naumova, 1968 GENUS
 
 #### Status
 ACCEPTED

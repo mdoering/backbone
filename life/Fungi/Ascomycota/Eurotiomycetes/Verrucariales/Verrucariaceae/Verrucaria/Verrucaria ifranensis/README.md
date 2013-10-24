@@ -1,5 +1,4 @@
-Verrucaria ifranensis SPECIES
-=======
+# Verrucaria ifranensis SPECIES
 
 #### Status
 ACCEPTED

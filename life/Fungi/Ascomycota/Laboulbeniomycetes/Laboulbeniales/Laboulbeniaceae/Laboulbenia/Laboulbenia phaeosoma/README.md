@@ -1,5 +1,4 @@
-Laboulbenia phaeosoma Speg. SPECIES
-=======
+# Laboulbenia phaeosoma Speg. SPECIES
 
 #### Status
 ACCEPTED

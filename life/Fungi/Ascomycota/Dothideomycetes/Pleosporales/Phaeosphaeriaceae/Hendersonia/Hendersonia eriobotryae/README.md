@@ -1,5 +1,4 @@
-Hendersonia eriobotryae Bubák SPECIES
-=======
+# Hendersonia eriobotryae Bubák SPECIES
 
 #### Status
 ACCEPTED

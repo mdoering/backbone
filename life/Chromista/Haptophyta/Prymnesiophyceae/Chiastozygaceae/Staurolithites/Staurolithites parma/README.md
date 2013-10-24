@@ -1,5 +1,4 @@
-Staurolithites parma SPECIES
-=======
+# Staurolithites parma SPECIES
 
 #### Status
 ACCEPTED

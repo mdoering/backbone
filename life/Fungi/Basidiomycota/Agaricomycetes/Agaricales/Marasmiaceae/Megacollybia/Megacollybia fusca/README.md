@@ -1,5 +1,4 @@
-Megacollybia fusca J.L. Mata, Aime & T.W. Henkel SPECIES
-=======
+# Megacollybia fusca J.L. Mata, Aime & T.W. Henkel SPECIES
 
 #### Status
 ACCEPTED

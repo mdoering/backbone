@@ -1,5 +1,4 @@
-Bimuria novae-zelandiae D. Hawksw., Chea & Sheridan, 1979 SPECIES
-=======
+# Bimuria novae-zelandiae D. Hawksw., Chea & Sheridan, 1979 SPECIES
 
 #### Status
 ACCEPTED

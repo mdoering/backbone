@@ -1,5 +1,4 @@
-Pleurage apiculifera (Speg.) C. Moreau SPECIES
-=======
+# Pleurage apiculifera (Speg.) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

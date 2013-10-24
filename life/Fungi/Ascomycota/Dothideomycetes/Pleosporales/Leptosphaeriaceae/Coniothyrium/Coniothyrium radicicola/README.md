@@ -1,5 +1,4 @@
-Coniothyrium radicicola Tehon SPECIES
-=======
+# Coniothyrium radicicola Tehon SPECIES
 
 #### Status
 ACCEPTED

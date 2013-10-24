@@ -1,5 +1,4 @@
-Pseudocercospora capensis Crous & B. Sutton SPECIES
-=======
+# Pseudocercospora capensis Crous & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

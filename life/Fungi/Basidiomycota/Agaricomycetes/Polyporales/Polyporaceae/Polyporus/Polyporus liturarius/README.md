@@ -1,5 +1,4 @@
-Polyporus liturarius Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus liturarius Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

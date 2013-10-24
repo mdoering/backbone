@@ -1,5 +1,4 @@
-Rhizosolenia massiva H.J. Schrader SPECIES
-=======
+# Rhizosolenia massiva H.J. Schrader SPECIES
 
 #### Status
 ACCEPTED

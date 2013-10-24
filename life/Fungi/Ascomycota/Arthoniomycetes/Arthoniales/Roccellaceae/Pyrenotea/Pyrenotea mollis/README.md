@@ -1,5 +1,4 @@
-Pyrenotea mollis (Taylor) Leight. SPECIES
-=======
+# Pyrenotea mollis (Taylor) Leight. SPECIES
 
 #### Status
 ACCEPTED

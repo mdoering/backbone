@@ -1,5 +1,4 @@
-Passalora biformis (Peck) U. Braun & Crous SPECIES
-=======
+# Passalora biformis (Peck) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

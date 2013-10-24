@@ -1,5 +1,4 @@
-Flammula leptonioides Rick SPECIES
-=======
+# Flammula leptonioides Rick SPECIES
 
 #### Status
 ACCEPTED

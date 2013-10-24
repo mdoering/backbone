@@ -1,5 +1,4 @@
-Inocybe amethystina Kuyper, 1986 SPECIES
-=======
+# Inocybe amethystina Kuyper, 1986 SPECIES
 
 #### Status
 ACCEPTED

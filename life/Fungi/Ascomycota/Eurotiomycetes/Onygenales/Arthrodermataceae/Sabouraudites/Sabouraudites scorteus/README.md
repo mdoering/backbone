@@ -1,5 +1,4 @@
-Sabouraudites scorteus (Priestley) Brumpt SPECIES
-=======
+# Sabouraudites scorteus (Priestley) Brumpt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teratosphaeria australiensis (B. Sutton) Crous, 2009 SPECIES
-=======
+# Teratosphaeria australiensis (B. Sutton) Crous, 2009 SPECIES
 
 #### Status
 ACCEPTED

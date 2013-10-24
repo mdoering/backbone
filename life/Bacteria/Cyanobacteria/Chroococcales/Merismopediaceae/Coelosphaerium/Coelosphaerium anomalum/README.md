@@ -1,5 +1,4 @@
-Coelosphaerium anomalum (Bennet) de Toni & Levi SPECIES
-=======
+# Coelosphaerium anomalum (Bennet) de Toni & Levi SPECIES
 
 #### Status
 ACCEPTED

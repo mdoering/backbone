@@ -1,5 +1,4 @@
-Endoxyla excelsior (Mouton) Munk SPECIES
-=======
+# Endoxyla excelsior (Mouton) Munk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kriegeria alutipes (W. Phillips) Seaver SPECIES
-=======
+# Kriegeria alutipes (W. Phillips) Seaver SPECIES
 
 #### Status
 ACCEPTED

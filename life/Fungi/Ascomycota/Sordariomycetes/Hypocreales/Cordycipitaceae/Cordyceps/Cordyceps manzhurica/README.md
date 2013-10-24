@@ -1,5 +1,4 @@
-Cordyceps manzhurica Koval SPECIES
-=======
+# Cordyceps manzhurica Koval SPECIES
 
 #### Status
 ACCEPTED

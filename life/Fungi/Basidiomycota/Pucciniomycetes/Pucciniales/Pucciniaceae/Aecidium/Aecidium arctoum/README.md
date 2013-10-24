@@ -1,5 +1,4 @@
-Aecidium arctoum Arthur SPECIES
-=======
+# Aecidium arctoum Arthur SPECIES
 
 #### Status
 ACCEPTED

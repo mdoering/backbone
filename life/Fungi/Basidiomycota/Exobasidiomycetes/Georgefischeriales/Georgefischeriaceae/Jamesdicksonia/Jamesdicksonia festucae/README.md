@@ -1,5 +1,4 @@
-Jamesdicksonia festucae Vánky, 2004 SPECIES
-=======
+# Jamesdicksonia festucae Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

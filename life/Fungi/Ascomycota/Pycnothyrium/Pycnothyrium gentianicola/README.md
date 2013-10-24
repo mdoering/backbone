@@ -1,8 +1,7 @@
-Pycnothyrium gentianicolum (DC.) Grove SPECIES
-=======
+# Pycnothyrium gentianicola (DC.) Grove SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

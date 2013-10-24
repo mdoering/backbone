@@ -1,5 +1,4 @@
-Polyblastia rivalis (Arnold) Zschacke SPECIES
-=======
+# Polyblastia rivalis (Arnold) Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia microscopica (De Not.) Sacc. SPECIES
-=======
+# Rosellinia microscopica (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

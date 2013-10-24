@@ -1,5 +1,4 @@
-Octospora heterosculpturata T. Schumach. SPECIES
-=======
+# Octospora heterosculpturata T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

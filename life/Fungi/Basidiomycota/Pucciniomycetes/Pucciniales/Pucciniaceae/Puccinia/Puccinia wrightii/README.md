@@ -1,5 +1,4 @@
-Puccinia wrightii Berk. & M.A. Curtis SPECIES
-=======
+# Puccinia wrightii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

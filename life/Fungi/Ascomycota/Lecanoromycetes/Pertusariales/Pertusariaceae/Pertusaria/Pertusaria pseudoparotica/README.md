@@ -1,5 +1,4 @@
-Pertusaria pseudoparotica Sipman SPECIES
-=======
+# Pertusaria pseudoparotica Sipman SPECIES
 
 #### Status
 ACCEPTED

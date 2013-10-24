@@ -1,5 +1,4 @@
-Physcia solenaria (Ach.) Duby SPECIES
-=======
+# Physcia solenaria (Ach.) Duby SPECIES
 
 #### Status
 ACCEPTED

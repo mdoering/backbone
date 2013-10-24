@@ -1,5 +1,4 @@
-Archaeopyramisa Cheng, 1986 GENUS
-=======
+# Archaeopyramisa Cheng, 1986 GENUS
 
 #### Status
 ACCEPTED

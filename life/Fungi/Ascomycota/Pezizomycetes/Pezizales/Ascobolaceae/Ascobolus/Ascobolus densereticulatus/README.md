@@ -1,5 +1,4 @@
-Ascobolus densereticulatus J. Moravec SPECIES
-=======
+# Ascobolus densereticulatus J. Moravec SPECIES
 
 #### Status
 ACCEPTED

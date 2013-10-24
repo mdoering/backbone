@@ -1,5 +1,4 @@
-Leiophloea tersa (Körb.) Trevis. SPECIES
-=======
+# Leiophloea tersa (Körb.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

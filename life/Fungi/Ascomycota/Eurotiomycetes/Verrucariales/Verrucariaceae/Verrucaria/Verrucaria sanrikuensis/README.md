@@ -1,5 +1,4 @@
-Verrucaria sanrikuensis H. Harada SPECIES
-=======
+# Verrucaria sanrikuensis H. Harada SPECIES
 
 #### Status
 ACCEPTED

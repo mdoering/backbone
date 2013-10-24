@@ -1,5 +1,4 @@
-Caeomurus juncinus (Thüm.) Kuntze SPECIES
-=======
+# Caeomurus juncinus (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

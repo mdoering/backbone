@@ -1,5 +1,4 @@
-Pannoparmelia delicata C.W. Dodge & G.E. Baker SPECIES
-=======
+# Pannoparmelia delicata C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

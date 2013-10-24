@@ -1,5 +1,4 @@
-Cortinarius semiglobatus M.M. Moser SPECIES
-=======
+# Cortinarius semiglobatus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

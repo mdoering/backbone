@@ -1,5 +1,4 @@
-Endophragmiella triseptata K.M. Tsui, Goh, K.D. Hyde & Hodgkiss SPECIES
-=======
+# Endophragmiella triseptata K.M. Tsui, Goh, K.D. Hyde & Hodgkiss SPECIES
 
 #### Status
 ACCEPTED

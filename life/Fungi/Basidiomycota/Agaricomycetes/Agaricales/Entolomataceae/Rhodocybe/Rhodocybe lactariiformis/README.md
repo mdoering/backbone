@@ -1,5 +1,4 @@
-Rhodocybe lactariiformis Singer SPECIES
-=======
+# Rhodocybe lactariiformis Singer SPECIES
 
 #### Status
 ACCEPTED

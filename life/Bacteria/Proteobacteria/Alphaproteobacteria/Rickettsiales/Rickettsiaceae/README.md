@@ -1,5 +1,4 @@
-Rickettsiaceae FAMILY
-=======
+# Rickettsiaceae FAMILY
 
 #### Status
 ACCEPTED

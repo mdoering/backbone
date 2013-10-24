@@ -1,5 +1,4 @@
-Lecidea microphyllina var. microphyllina VARIETY
-=======
+# Bacidia microphyllina (Tuck.) Riddle SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 15(2): 80 (1923)
 
 #### Original name
-Lecidea microphyllina var. microphyllina
+Lecidea microphyllina Tuck. ex Nyl.
 
 ### Remarks
 null

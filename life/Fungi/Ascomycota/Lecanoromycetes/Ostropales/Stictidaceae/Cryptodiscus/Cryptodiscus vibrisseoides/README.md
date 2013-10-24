@@ -1,5 +1,4 @@
-Cryptodiscus vibrisseoides (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Cryptodiscus vibrisseoides (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

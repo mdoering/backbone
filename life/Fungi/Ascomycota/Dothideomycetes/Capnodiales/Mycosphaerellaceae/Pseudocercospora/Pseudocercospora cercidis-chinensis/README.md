@@ -1,5 +1,4 @@
-Pseudocercospora cercidis-chinensis H.D. Shin & U. Braun SPECIES
-=======
+# Pseudocercospora cercidis-chinensis H.D. Shin & U. Braun SPECIES
 
 #### Status
 ACCEPTED

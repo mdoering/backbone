@@ -1,5 +1,4 @@
-Ascochyta cocoes-capitatae Caball. SPECIES
-=======
+# Ascochyta cocoes-capitatae Caball. SPECIES
 
 #### Status
 ACCEPTED

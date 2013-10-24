@@ -1,5 +1,4 @@
-Clasterosporium glomerae Overeem SPECIES
-=======
+# Clasterosporium glomerae Overeem SPECIES
 
 #### Status
 ACCEPTED

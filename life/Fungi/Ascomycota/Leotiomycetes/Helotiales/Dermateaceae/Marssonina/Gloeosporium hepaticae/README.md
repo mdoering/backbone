@@ -1,5 +1,4 @@
-Gloeosporium hepaticae Peck SPECIES
-=======
+# Gloeosporium hepaticae Peck SPECIES
 
 #### Status
 ACCEPTED

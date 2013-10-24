@@ -1,5 +1,4 @@
-Stictis compressa Ellis & Everh. SPECIES
-=======
+# Stictis compressa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

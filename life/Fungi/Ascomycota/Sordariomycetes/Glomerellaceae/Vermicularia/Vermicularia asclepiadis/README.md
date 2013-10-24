@@ -1,5 +1,4 @@
-Vermicularia asclepiadis Pass. SPECIES
-=======
+# Vermicularia asclepiadis Pass. SPECIES
 
 #### Status
 ACCEPTED

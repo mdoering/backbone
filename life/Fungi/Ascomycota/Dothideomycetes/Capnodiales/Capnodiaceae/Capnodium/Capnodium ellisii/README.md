@@ -1,5 +1,4 @@
-Capnodium ellisii Sacc. SPECIES
-=======
+# Capnodium ellisii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Psalliota elvensis var. elvensis VARIETY
-=======
+# Agaricus bohusii Bon, 1983 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Docums Mycol. 13(no. 49): 56 (1983)
 
 #### Original name
-Psalliota elvensis var. elvensis
+Agaricus bohusii Bon, 1983
 
 ### Remarks
 null

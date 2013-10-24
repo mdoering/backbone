@@ -1,5 +1,4 @@
-Thalloidima galbulum SPECIES
-=======
+# Thalloidima galbulum SPECIES
 
 #### Status
 ACCEPTED

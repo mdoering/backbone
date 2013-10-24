@@ -1,5 +1,4 @@
-Diaporthe indica Sacc. & Speg. SPECIES
-=======
+# Diaporthe indica Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

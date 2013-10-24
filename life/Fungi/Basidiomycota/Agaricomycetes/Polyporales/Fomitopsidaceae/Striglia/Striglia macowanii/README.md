@@ -1,5 +1,4 @@
-Striglia macowanii (Kalchbr.) Kuntze SPECIES
-=======
+# Striglia macowanii (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

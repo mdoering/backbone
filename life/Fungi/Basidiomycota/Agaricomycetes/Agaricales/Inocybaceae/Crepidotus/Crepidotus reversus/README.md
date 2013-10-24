@@ -1,5 +1,4 @@
-Crepidotus reversus Berk. & Broome SPECIES
-=======
+# Crepidotus reversus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

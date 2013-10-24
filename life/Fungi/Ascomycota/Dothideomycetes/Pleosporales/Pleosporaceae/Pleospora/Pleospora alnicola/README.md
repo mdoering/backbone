@@ -1,5 +1,4 @@
-Pleospora alnicola Podl.-Ruz. & Svrcek SPECIES
-=======
+# Pleospora alnicola Podl.-Ruz. & Svrcek SPECIES
 
 #### Status
 ACCEPTED

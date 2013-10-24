@@ -1,5 +1,4 @@
-Microsphaera himalayensis A.K. Sharma SPECIES
-=======
+# Microsphaera himalayensis A.K. Sharma SPECIES
 
 #### Status
 ACCEPTED

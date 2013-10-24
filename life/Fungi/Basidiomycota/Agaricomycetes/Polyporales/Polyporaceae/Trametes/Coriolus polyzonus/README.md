@@ -1,5 +1,4 @@
-Coriolus polyzonus (Pers.) SPECIES
-=======
+# Coriolus polyzonus (Pers.) SPECIES
 
 #### Status
 ACCEPTED

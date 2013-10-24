@@ -1,5 +1,4 @@
-Pileolaria barbeyana (Henn.) Dietel SPECIES
-=======
+# Pileolaria barbeyana (Henn.) Dietel SPECIES
 
 #### Status
 ACCEPTED

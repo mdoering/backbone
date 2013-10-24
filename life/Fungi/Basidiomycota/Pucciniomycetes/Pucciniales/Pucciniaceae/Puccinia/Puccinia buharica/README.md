@@ -1,5 +1,4 @@
-Puccinia buharica Jacz. SPECIES
-=======
+# Puccinia buharica Jacz. SPECIES
 
 #### Status
 ACCEPTED

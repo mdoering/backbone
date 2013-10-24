@@ -1,5 +1,4 @@
-Dictyostelium brefeldianum H. Hagiw., 1984 SPECIES
-=======
+# Dictyostelium brefeldianum H. Hagiw., 1984 SPECIES
 
 #### Status
 ACCEPTED

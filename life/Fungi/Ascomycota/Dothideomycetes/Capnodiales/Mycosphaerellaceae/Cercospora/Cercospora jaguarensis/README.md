@@ -1,5 +1,4 @@
-Cercospora jaguarensis Chupp & A.S. Mull. SPECIES
-=======
+# Cercospora jaguarensis Chupp & A.S. Mull. SPECIES
 
 #### Status
 ACCEPTED

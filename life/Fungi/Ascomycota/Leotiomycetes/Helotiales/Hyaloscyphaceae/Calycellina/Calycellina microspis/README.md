@@ -1,14 +1,13 @@
-Helotium microspis (P. Karst.) P. Karst., 1871 SPECIES
-=======
+# Calycellina microspis (P. Karst.) Dennis, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoth. fenn. (Helsinki) 1: 152 (1870)
+Trans. Bot. Soc. Edinb. , 150th anniversary supplement 45(3): 213 (1989)
 
 #### Original name
 null

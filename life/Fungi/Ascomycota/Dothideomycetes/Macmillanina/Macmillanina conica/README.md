@@ -1,5 +1,4 @@
-Macmillanina conica (Bonord.) Kuntze SPECIES
-=======
+# Macmillanina conica (Bonord.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

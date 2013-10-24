@@ -1,5 +1,4 @@
-Pseudothis caseariae Theiss. SPECIES
-=======
+# Pseudothis caseariae Theiss. SPECIES
 
 #### Status
 ACCEPTED

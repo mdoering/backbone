@@ -1,5 +1,4 @@
-Aecidium bicolor Sacc. SPECIES
-=======
+# Aecidium bicolor Sacc. SPECIES
 
 #### Status
 ACCEPTED

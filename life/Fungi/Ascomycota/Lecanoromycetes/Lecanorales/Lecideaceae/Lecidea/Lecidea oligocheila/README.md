@@ -1,5 +1,4 @@
-Lecidea oligocheila Zahlbr. SPECIES
-=======
+# Lecidea oligocheila Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

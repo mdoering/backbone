@@ -1,5 +1,4 @@
-Eutypella goniostoma (Schwein.) Berl. & Voglino SPECIES
-=======
+# Eutypella goniostoma (Schwein.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

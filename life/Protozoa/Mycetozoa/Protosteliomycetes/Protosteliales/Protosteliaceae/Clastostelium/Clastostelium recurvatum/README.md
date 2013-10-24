@@ -1,5 +1,4 @@
-Clastostelium recurvatum L.S. Olive & Stoian., 1977 SPECIES
-=======
+# Clastostelium recurvatum L.S. Olive & Stoian., 1977 SPECIES
 
 #### Status
 ACCEPTED

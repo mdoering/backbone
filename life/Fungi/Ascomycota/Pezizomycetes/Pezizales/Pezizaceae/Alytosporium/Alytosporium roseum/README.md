@@ -1,5 +1,4 @@
-Alytosporium roseum Ehrenb. SPECIES
-=======
+# Alytosporium roseum Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

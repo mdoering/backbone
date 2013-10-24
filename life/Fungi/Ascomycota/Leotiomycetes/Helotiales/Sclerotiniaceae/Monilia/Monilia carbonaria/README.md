@@ -1,5 +1,4 @@
-Monilia carbonaria Cooke, 1886 SPECIES
-=======
+# Monilia carbonaria Cooke, 1886 SPECIES
 
 #### Status
 ACCEPTED

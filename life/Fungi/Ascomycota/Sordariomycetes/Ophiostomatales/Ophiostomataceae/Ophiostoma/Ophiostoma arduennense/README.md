@@ -1,5 +1,4 @@
-Ophiostoma arduennense F.-X. Carlier, Decock, K. Jacobs & Maraite SPECIES
-=======
+# Ophiostoma arduennense F.-X. Carlier, Decock, K. Jacobs & Maraite SPECIES
 
 #### Status
 ACCEPTED

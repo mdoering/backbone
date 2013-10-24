@@ -1,5 +1,4 @@
-Polyporus septosporus P.K. Buchanan & Ryvarden, 1998 SPECIES
-=======
+# Polyporus septosporus P.K. Buchanan & Ryvarden, 1998 SPECIES
 
 #### Status
 ACCEPTED

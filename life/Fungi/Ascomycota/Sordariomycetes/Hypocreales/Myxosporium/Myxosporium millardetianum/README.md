@@ -1,5 +1,4 @@
-Myxosporium millardetianum Sacc. & Roum. SPECIES
-=======
+# Myxosporium millardetianum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

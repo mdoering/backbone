@@ -1,5 +1,4 @@
-Aleurodiscus reflexus Yasuda SPECIES
-=======
+# Aleurodiscus reflexus Yasuda SPECIES
 
 #### Status
 ACCEPTED

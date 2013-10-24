@@ -1,5 +1,4 @@
-Lithoderma antarcticum Skottsberg SPECIES
-=======
+# Lithoderma antarcticum Skottsberg SPECIES
 
 #### Status
 ACCEPTED

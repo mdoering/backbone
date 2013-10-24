@@ -1,5 +1,4 @@
-Hymenoscyphus alutipes (W. Phillips) Kuntze SPECIES
-=======
+# Hymenoscyphus alutipes (W. Phillips) Kuntze SPECIES
 
 #### Status
 ACCEPTED

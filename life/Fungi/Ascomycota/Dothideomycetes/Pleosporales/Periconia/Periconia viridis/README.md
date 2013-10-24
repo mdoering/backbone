@@ -1,5 +1,4 @@
-Periconia viridis Subrahm. SPECIES
-=======
+# Periconia viridis Subrahm. SPECIES
 
 #### Status
 ACCEPTED

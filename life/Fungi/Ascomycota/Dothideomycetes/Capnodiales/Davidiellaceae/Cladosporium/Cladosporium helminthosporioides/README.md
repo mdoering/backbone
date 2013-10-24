@@ -1,5 +1,4 @@
-Cladosporium helminthosporioides (Corda) Fr. SPECIES
-=======
+# Cladosporium helminthosporioides (Corda) Fr. SPECIES
 
 #### Status
 ACCEPTED

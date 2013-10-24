@@ -1,5 +1,4 @@
-Fuscopannaria pulveracea (P. M. Jørg. & Henssen) P. M. Jørg. SPECIES
-=======
+# Fuscopannaria pulveracea (P. M. Jørg. & Henssen) P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

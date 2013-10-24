@@ -1,17 +1,16 @@
-Phaeobotryosphaeria fusca (N.E. Stevens) Petr., 1952 SPECIES
-=======
+# Botryosphaeria disrupta (Berk. & M.A. Curtis) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 11(no. 1): 37 (1954)
 
 #### Original name
-null
+Sphaeria disrupta Berk. & M.A. Curtis, 1876
 
 ### Remarks
 null

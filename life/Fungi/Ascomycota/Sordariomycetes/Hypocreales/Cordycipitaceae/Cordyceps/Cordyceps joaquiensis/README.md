@@ -1,5 +1,4 @@
-Cordyceps joaquiensis Henn. SPECIES
-=======
+# Cordyceps joaquiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

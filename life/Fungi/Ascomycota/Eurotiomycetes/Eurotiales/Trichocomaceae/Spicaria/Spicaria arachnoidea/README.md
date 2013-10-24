@@ -1,5 +1,4 @@
-Spicaria arachnoidea Sacc. & Therry SPECIES
-=======
+# Spicaria arachnoidea Sacc. & Therry SPECIES
 
 #### Status
 ACCEPTED

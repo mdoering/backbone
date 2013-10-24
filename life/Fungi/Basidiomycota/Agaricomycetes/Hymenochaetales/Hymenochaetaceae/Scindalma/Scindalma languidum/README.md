@@ -1,5 +1,4 @@
-Scindalma languidum (Fr.) Kuntze SPECIES
-=======
+# Scindalma languidum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea xylarioides Pat. SPECIES
-=======
+# Hypocrea xylarioides Pat. SPECIES
 
 #### Status
 ACCEPTED

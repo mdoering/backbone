@@ -1,5 +1,4 @@
-Corynascella Arx & Hodges GENUS
-=======
+# Corynascella Arx & Hodges GENUS
 
 #### Status
 ACCEPTED

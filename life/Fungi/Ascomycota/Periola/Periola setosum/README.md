@@ -1,5 +1,4 @@
-Periola setosum Fr. SPECIES
-=======
+# Periola setosum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Malotium minutum Velen. SPECIES
-=======
+# Malotium minutum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dasyscypha caerulea J. Schröt. SPECIES
-=======
+# Dasyscyphus caeruleus J. Schröt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha caerulea J. Schröt.
+Dasyscyphus caeruleus J. Schröt.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllachora sphaerospora Pat., 1887 SPECIES
-=======
+# Phyllachora sphaerospora Pat., 1887 SPECIES
 
 #### Status
 DOUBTFUL

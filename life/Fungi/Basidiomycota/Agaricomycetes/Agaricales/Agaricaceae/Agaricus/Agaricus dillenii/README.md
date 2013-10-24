@@ -1,5 +1,4 @@
-Agaricus dillenii Davies SPECIES
-=======
+# Agaricus dillenii Davies SPECIES
 
 #### Status
 ACCEPTED

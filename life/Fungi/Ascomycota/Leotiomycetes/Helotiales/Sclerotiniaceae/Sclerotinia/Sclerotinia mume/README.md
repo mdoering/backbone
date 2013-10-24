@@ -1,5 +1,4 @@
-Sclerotinia mume Hara SPECIES
-=======
+# Sclerotinia mume Hara SPECIES
 
 #### Status
 ACCEPTED

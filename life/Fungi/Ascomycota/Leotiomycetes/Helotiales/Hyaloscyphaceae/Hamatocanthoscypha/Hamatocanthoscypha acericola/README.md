@@ -1,5 +1,4 @@
-Hamatocanthoscypha acericola Svrcek SPECIES
-=======
+# Hamatocanthoscypha acericola Svrcek SPECIES
 
 #### Status
 ACCEPTED

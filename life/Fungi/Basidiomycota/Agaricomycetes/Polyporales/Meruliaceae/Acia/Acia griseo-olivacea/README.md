@@ -1,5 +1,4 @@
-Acia griseo-olivacea (Höhn.) Bourdot & Galzin SPECIES
-=======
+# Acia griseo-olivacea (Höhn.) Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

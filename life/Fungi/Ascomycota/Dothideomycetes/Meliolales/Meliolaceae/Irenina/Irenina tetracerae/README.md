@@ -1,5 +1,4 @@
-Irenina tetracerae var. tetracerae VARIETY
-=======
+# Irenina tetracerae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 23: 6 (1948)
 
 #### Original name
-Irenina tetracerae var. tetracerae
+Irenina tetracerae Hansf. & Deighton
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mesorhizobium chacoense Velázquez et al., 2001 SPECIES
-=======
+# Mesorhizobium chacoense Velázquez et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

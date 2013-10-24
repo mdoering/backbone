@@ -1,5 +1,4 @@
-Lophophaena rioplatensis Boltovskoy, 2003 SPECIES
-=======
+# Lophophaena rioplatensis Boltovskoy, 2003 SPECIES
 
 #### Status
 ACCEPTED

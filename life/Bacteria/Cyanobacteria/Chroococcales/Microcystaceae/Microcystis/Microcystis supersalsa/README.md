@@ -1,5 +1,4 @@
-Microcystis supersalsa Schiller SPECIES
-=======
+# Microcystis supersalsa Schiller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septogloeum parasiticum Kauffman & Dearn. SPECIES
-=======
+# Septogloeum parasiticum Kauffman & Dearn. SPECIES
 
 #### Status
 ACCEPTED

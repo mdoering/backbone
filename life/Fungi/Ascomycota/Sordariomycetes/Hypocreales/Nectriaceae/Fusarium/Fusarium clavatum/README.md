@@ -1,5 +1,4 @@
-Fusarium clavatum Sherb. SPECIES
-=======
+# Fusarium clavatum Sherb. SPECIES
 
 #### Status
 ACCEPTED

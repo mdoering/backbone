@@ -1,5 +1,4 @@
-Buellia subtumida SPECIES
-=======
+# Buellia subtumida SPECIES
 
 #### Status
 ACCEPTED

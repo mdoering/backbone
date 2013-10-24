@@ -1,5 +1,4 @@
-Omphalia paucifolia (Murrill) Murrill SPECIES
-=======
+# Omphalia paucifolia (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

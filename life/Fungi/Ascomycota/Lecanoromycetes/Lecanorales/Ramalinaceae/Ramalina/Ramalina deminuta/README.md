@@ -1,5 +1,4 @@
-Ramalina deminuta Krog & Østh. SPECIES
-=======
+# Ramalina deminuta Krog & Østh. SPECIES
 
 #### Status
 ACCEPTED

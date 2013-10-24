@@ -1,5 +1,4 @@
-Pseudocercospora chamissoana R.F. Castañeda & U. Braun SPECIES
-=======
+# Pseudocercospora chamissoana R.F. Castañeda & U. Braun SPECIES
 
 #### Status
 ACCEPTED

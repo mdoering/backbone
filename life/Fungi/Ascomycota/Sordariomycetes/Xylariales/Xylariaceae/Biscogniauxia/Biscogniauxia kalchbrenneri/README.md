@@ -1,17 +1,16 @@
-Hypoxylon lepidum (Syd. & P. Syd.) Van der Byl, 1932 SPECIES
-=======
+# Biscogniauxia kalchbrenneri (Sacc.) Y.M. Ju & J.D. Rogers, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Univ. Stellenbosch 10: 7 (1932)
+in Ju, Rogers, San Martín & Granmo, Mycotaxon 66: 36 (1998)
 
 #### Original name
-Nummularia lepida Syd. & P. Syd., 1924
+Hypoxylon kalchbrenneri Sacc., 1882
 
 ### Remarks
 null

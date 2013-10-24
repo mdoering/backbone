@@ -1,14 +1,13 @@
-Zythia leucoconia (Berk. & Broome) Sacc., 1884 SPECIES
-=======
+# Sphaeronaema leucoconium Berk. & Broome, 1850 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 2 5: no. 405 (1850)
 
 #### Original name
 Sphaeronaema leucoconium Berk. & Broome, 1850

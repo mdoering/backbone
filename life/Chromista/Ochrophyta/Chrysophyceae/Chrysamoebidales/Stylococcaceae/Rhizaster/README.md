@@ -1,5 +1,4 @@
-Rhizaster Pascher, 1916 GENUS
-=======
+# Rhizaster Pascher, 1916 GENUS
 
 #### Status
 ACCEPTED

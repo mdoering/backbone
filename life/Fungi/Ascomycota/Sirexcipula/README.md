@@ -1,5 +1,4 @@
-Sirexcipula Bubák, 1907 GENUS
-=======
+# Sirexcipula Bubák, 1907 GENUS
 
 #### Status
 ACCEPTED

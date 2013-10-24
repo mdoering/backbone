@@ -1,5 +1,4 @@
-Microphiale atrolutea (Vain.) Zahlbr. SPECIES
-=======
+# Microphiale atrolutea (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

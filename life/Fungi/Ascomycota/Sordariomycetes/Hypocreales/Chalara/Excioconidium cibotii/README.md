@@ -1,17 +1,16 @@
-Excioconidium cibotti Plunkett SPECIES
-=======
+# Excioconidium cibotii Plunkett SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Stevens, Bulletin of the Bernice P. Bishop Museum, Honolulu, Hawaii 19: 156 (1925)
 
 #### Original name
-Excioconidium cibotti Plunkett
+Excioconidium cibotii Plunkett
 
 ### Remarks
 null

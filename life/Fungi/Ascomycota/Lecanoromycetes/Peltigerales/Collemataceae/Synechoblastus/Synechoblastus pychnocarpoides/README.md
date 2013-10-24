@@ -1,5 +1,4 @@
-Synechoblastus pychnocarpoides Jatta SPECIES
-=======
+# Synechoblastus pychnocarpoides Jatta SPECIES
 
 #### Status
 ACCEPTED

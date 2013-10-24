@@ -1,5 +1,4 @@
-Enterographa lueckingii Kalb SPECIES
-=======
+# Enterographa lueckingii Kalb SPECIES
 
 #### Status
 ACCEPTED

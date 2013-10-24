@@ -1,5 +1,4 @@
-Thalassiosira bingensis H. Takano SPECIES
-=======
+# Thalassiosira bingensis H. Takano SPECIES
 
 #### Status
 ACCEPTED

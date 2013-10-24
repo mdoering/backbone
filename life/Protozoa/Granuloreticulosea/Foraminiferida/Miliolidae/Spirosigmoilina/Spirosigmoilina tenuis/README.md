@@ -1,5 +1,4 @@
-Spirosigmoilina tenuis (Czjzek) SPECIES
-=======
+# Spirosigmoilina tenuis (Czjzek) SPECIES
 
 #### Status
 ACCEPTED

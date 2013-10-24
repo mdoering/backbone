@@ -1,5 +1,4 @@
-Micropeltella funtumiae Hansf. SPECIES
-=======
+# Micropeltella funtumiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

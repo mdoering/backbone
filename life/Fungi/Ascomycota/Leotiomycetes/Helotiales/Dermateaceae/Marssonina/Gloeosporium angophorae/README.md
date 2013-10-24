@@ -1,5 +1,4 @@
-Gloeosporium angophorae Tassi SPECIES
-=======
+# Gloeosporium angophorae Tassi SPECIES
 
 #### Status
 ACCEPTED

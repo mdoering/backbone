@@ -1,5 +1,4 @@
-Biatora atrorubens (Fr.) G. Merr. SPECIES
-=======
+# Biatora atrorubens (Fr.) G. Merr. SPECIES
 
 #### Status
 ACCEPTED

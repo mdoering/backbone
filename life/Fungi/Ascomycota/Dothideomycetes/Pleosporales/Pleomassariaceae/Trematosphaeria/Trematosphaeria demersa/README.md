@@ -1,5 +1,4 @@
-Trematosphaeria demersa G.H. Otth SPECIES
-=======
+# Trematosphaeria demersa G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

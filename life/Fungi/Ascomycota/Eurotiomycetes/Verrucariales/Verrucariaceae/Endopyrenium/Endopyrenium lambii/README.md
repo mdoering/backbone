@@ -1,5 +1,4 @@
-Endopyrenium lambii Oxner SPECIES
-=======
+# Endopyrenium lambii Oxner SPECIES
 
 #### Status
 ACCEPTED

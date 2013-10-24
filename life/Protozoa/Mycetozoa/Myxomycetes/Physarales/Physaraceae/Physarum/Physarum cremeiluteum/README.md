@@ -1,5 +1,4 @@
-Physarum cremeiluteum Chen & Liu SPECIES
-=======
+# Physarum cremeiluteum Chen & Liu SPECIES
 
 #### Status
 ACCEPTED

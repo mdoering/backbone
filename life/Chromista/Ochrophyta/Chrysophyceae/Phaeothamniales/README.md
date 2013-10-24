@@ -1,5 +1,4 @@
-Phaeothamniales ORDER
-=======
+# Phaeothamniales ORDER
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leptothyrella laricis Dearn., 1928 SPECIES
-=======
+# Hypodermella laricis Tubeuf, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 20(4): 241 (1928)
+Bot. Zbl. 61: 49 (1895)
 
 #### Original name
-Leptothyrella laricis Dearn., 1928
+Hypodermella laricis Tubeuf, 1895
 
 ### Remarks
 null

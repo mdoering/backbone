@@ -1,5 +1,4 @@
-Puccinia rhynchosporae Syd. & P. Syd. SPECIES
-=======
+# Puccinia rhynchosporae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

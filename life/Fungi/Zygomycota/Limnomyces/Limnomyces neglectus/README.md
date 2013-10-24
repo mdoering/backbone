@@ -1,5 +1,4 @@
-Limnomyces neglectus Lohammar SPECIES
-=======
+# Limnomyces neglectus Lohammar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplobacille GENUS
-=======
+# Diplobacille GENUS
 
 #### Status
 ACCEPTED

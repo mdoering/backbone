@@ -1,5 +1,4 @@
-Sarcogyne gyrocarpa H. Magn. SPECIES
-=======
+# Sarcogyne gyrocarpa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hydnum versipelle var. versipelle VARIETY
-=======
+# Sarcodon versipellis (Fr.) Nikol., 1961 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Vet. Akad. Handl. 11 (1861)
+Fl. pl. crypt. URSS 6(2): 283 (1961)
 
 #### Original name
-Hydnum versipelle var. versipelle
+Hydnum versipelle Fr., 1861
 
 ### Remarks
 null

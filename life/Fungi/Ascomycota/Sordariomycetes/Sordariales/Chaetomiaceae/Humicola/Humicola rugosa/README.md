@@ -1,5 +1,4 @@
-Humicola rugosa De Bert. SPECIES
-=======
+# Humicola rugosa De Bert. SPECIES
 
 #### Status
 ACCEPTED

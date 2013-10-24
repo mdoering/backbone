@@ -1,5 +1,4 @@
-Cryphonectria nitschkei (G.H. Otth) M.E. Barr SPECIES
-=======
+# Cryphonectria nitschkei (G.H. Otth) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

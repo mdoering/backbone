@@ -1,5 +1,4 @@
-Hydnum orientale Fr. SPECIES
-=======
+# Hydnum orientale Fr. SPECIES
 
 #### Status
 ACCEPTED

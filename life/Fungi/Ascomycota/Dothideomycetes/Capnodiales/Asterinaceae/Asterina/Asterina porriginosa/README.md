@@ -1,5 +1,4 @@
-Asterina porriginosa Syd. & P. Syd. SPECIES
-=======
+# Asterina porriginosa Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

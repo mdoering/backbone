@@ -1,5 +1,4 @@
-Cercospora faureae Chupp & Doidge SPECIES
-=======
+# Cercospora faureae Chupp & Doidge SPECIES
 
 #### Status
 ACCEPTED

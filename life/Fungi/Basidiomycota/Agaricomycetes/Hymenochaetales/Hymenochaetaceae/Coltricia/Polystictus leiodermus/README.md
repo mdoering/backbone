@@ -1,17 +1,16 @@
-Polystictus lejodermus Mont. SPECIES
-=======
+# Polystictus leiodermus Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 7: 1241 (1924)
 
 #### Original name
-Polystictus lejodermus Mont.
+Polystictus leiodermus Lloyd
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Apodothina Petr. GENUS
-=======
+# Apodothina Petr. GENUS
 
 #### Status
 ACCEPTED

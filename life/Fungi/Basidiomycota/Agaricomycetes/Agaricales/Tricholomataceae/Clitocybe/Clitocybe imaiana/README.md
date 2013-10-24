@@ -1,5 +1,4 @@
-Clitocybe imaiana Singer SPECIES
-=======
+# Clitocybe imaiana Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Leptotrema santense (Tuck.) Zahlbr. SPECIES
-=======
+# Reimnitzia santensis (Tuck.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 639 (1923)
+Mycotaxon 79: 325 (2001)
 
 #### Original name
 Thelotrema santense Tuck.

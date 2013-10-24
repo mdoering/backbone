@@ -1,5 +1,4 @@
-Crustospathula Aptroot GENUS
-=======
+# Crustospathula Aptroot GENUS
 
 #### Status
 ACCEPTED

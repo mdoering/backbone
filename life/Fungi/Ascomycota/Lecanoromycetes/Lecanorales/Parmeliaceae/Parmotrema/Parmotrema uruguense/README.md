@@ -1,5 +1,4 @@
-Parmotrema uruguense (Kremp.) Hale SPECIES
-=======
+# Parmotrema uruguense (Kremp.) Hale SPECIES
 
 #### Status
 ACCEPTED

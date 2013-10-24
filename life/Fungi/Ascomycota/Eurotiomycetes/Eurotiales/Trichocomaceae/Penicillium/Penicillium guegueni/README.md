@@ -1,5 +1,4 @@
-Penicillium guegueni Biourge SPECIES
-=======
+# Penicillium guegueni Biourge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merulius flabellatus (Berk.) Kuntze SPECIES
-=======
+# Merulius flabellatus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

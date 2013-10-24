@@ -1,5 +1,4 @@
-Irenina glyphaeae Hansf. SPECIES
-=======
+# Irenina glyphaeae Hansf. SPECIES
 
 #### Status
 ACCEPTED

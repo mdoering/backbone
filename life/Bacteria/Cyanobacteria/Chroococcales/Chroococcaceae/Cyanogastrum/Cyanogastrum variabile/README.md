@@ -1,5 +1,4 @@
-Cyanogastrum variabile Schiller SPECIES
-=======
+# Cyanogastrum variabile Schiller SPECIES
 
 #### Status
 ACCEPTED

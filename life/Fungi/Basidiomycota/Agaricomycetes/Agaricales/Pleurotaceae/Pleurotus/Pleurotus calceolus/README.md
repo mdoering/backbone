@@ -1,5 +1,4 @@
-Pleurotus calceolus (Pat. & Demange) Sacc. & Trotter SPECIES
-=======
+# Pleurotus calceolus (Pat. & Demange) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

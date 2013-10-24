@@ -1,5 +1,4 @@
-Rozites phaleratus (Fr.) Bon & Ramm SPECIES
-=======
+# Rozites phaleratus (Fr.) Bon & Ramm SPECIES
 
 #### Status
 ACCEPTED

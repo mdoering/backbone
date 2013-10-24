@@ -1,5 +1,4 @@
-Lichen compositus With. SPECIES
-=======
+# Lichen compositus With. SPECIES
 
 #### Status
 ACCEPTED

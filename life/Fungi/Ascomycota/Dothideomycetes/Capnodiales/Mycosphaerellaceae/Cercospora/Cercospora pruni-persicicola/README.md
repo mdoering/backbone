@@ -1,5 +1,4 @@
-Cercospora pruni-persicicola J.M. Yen SPECIES
-=======
+# Cercospora pruni-persicicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

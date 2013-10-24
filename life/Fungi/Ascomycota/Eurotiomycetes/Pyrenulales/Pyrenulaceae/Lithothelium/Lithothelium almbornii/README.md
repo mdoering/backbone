@@ -1,5 +1,4 @@
-Lithothelium almbornii R.C. Harris & Aptroot SPECIES
-=======
+# Lithothelium almbornii R.C. Harris & Aptroot SPECIES
 
 #### Status
 ACCEPTED

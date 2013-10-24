@@ -1,14 +1,13 @@
-Trametes minutissima Yasuda, 1920 SPECIES
-=======
+# Perenniporia minutissima (Yasuda) T. Hatt. & Ryvarden, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mag. , Tokyo 34: 29 (1920)
+Mycotaxon 50: 37 (1994)
 
 #### Original name
 Trametes minutissima Yasuda, 1920

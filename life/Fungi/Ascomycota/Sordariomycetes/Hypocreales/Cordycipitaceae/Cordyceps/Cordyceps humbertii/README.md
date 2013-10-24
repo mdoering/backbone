@@ -1,17 +1,16 @@
-Cordyceps humberti C.P. Robin SPECIES
-=======
+# Cordyceps humbertii C.P. Robin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Tulasne, Selecta Fungorum Carpologia: Nectriei- Phacidiei- Pezizei 3: 18 (1865)
 
 #### Original name
-Cordyceps humberti C.P. Robin
+Cordyceps humbertii C.P. Robin
 
 ### Remarks
 null

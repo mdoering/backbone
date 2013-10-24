@@ -1,5 +1,4 @@
-Ceuthospora pistaciae (Jaap) Petr. SPECIES
-=======
+# Ceuthospora pistaciae (Jaap) Petr. SPECIES
 
 #### Status
 ACCEPTED

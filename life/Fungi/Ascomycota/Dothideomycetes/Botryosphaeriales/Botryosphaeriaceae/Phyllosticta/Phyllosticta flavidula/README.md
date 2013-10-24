@@ -1,5 +1,4 @@
-Phyllosticta flavidula Sacc. SPECIES
-=======
+# Phyllosticta flavidula Sacc. SPECIES
 
 #### Status
 ACCEPTED

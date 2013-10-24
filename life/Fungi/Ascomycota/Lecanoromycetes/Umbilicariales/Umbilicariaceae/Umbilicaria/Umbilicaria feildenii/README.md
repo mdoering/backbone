@@ -1,5 +1,4 @@
-Umbilicaria feildenii Vain. SPECIES
-=======
+# Umbilicaria feildenii Vain. SPECIES
 
 #### Status
 ACCEPTED

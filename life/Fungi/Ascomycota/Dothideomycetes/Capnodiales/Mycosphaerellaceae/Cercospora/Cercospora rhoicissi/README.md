@@ -1,5 +1,4 @@
-Cercospora rhoicissi Syd. & P. Syd. SPECIES
-=======
+# Cercospora rhoicissi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

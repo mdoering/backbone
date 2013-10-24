@@ -1,5 +1,4 @@
-Lecanora pertusa Lynge SPECIES
-=======
+# Lecanora pertusa Lynge SPECIES
 
 #### Status
 ACCEPTED

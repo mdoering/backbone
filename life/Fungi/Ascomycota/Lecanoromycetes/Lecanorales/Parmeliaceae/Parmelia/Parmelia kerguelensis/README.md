@@ -1,5 +1,4 @@
-Parmelia kerguelensis F. Wilson SPECIES
-=======
+# Parmelia kerguelensis F. Wilson SPECIES
 
 #### Status
 ACCEPTED

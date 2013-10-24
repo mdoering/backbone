@@ -1,5 +1,4 @@
-Trametes argenteiceps Corner SPECIES
-=======
+# Trametes argenteiceps Corner SPECIES
 
 #### Status
 ACCEPTED

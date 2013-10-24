@@ -1,5 +1,4 @@
-Ophiobolus licualae Syd. & P. Syd. SPECIES
-=======
+# Ophiobolus licualae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

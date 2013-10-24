@@ -1,5 +1,4 @@
-Trachelomonas granulata Svirenko SPECIES
-=======
+# Trachelomonas granulata Svirenko SPECIES
 
 #### Status
 ACCEPTED

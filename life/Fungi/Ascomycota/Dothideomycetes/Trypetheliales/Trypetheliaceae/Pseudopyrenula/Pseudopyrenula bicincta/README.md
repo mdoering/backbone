@@ -1,5 +1,4 @@
-Pseudopyrenula bicincta Zahlbr. SPECIES
-=======
+# Pseudopyrenula bicincta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

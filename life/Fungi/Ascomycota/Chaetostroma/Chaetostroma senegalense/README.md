@@ -1,5 +1,4 @@
-Chaetostroma senegalense Speg. SPECIES
-=======
+# Chaetostroma senegalense Speg. SPECIES
 
 #### Status
 ACCEPTED

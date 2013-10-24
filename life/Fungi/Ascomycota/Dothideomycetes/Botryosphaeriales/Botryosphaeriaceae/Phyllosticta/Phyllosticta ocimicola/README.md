@@ -1,5 +1,4 @@
-Phyllosticta ocimicola Pandotra & Ganguly SPECIES
-=======
+# Phyllosticta ocimicola Pandotra & Ganguly SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tomasellia glomerulosa (Arnold) Zahlbr. SPECIES
-=======
+# Tomasellia glomerulosa (Arnold) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

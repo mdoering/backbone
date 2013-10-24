@@ -1,17 +1,16 @@
-Oudemansiella platensis var. platensis (Speg.) Speg. VARIETY
-=======
+# Oudemansiella platensis (Speg.) Speg., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anal. Soc. cient. argent. (1881)
 
 #### Original name
-Oudemansiella platensis var. platensis (Speg.) Speg.
+Agaricus platensis Speg., 1880
 
 ### Remarks
 null

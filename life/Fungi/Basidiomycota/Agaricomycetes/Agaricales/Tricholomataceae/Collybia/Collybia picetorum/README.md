@@ -1,5 +1,4 @@
-Collybia picetorum Velen. SPECIES
-=======
+# Collybia picetorum Velen. SPECIES
 
 #### Status
 ACCEPTED

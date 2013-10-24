@@ -1,5 +1,4 @@
-Cheilymenia lemuriensis var. lemuriensis VARIETY
-=======
+# Cheilymenia lemuriensis R. Heim SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cheilymenia lemuriensis var. lemuriensis
+Cheilymenia lemuriensis R. Heim
 
 ### Remarks
 null

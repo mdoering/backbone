@@ -1,5 +1,4 @@
-Montanoa P. González Guerrero, 1948 GENUS
-=======
+# Montanoa P. González Guerrero, 1948 GENUS
 
 #### Status
 ACCEPTED

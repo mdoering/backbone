@@ -1,5 +1,4 @@
-Thyridella (Sacc.) Sacc. GENUS
-=======
+# Thyridella (Sacc.) Sacc. GENUS
 
 #### Status
 ACCEPTED

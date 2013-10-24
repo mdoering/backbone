@@ -1,5 +1,4 @@
-Sterigmatocystis varia Bainier SPECIES
-=======
+# Sterigmatocystis varia Bainier SPECIES
 
 #### Status
 ACCEPTED

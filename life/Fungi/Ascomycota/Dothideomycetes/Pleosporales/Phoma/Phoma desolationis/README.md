@@ -1,5 +1,4 @@
-Phoma desolationis Speg. SPECIES
-=======
+# Phoma desolationis Speg. SPECIES
 
 #### Status
 ACCEPTED

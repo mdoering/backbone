@@ -1,5 +1,4 @@
-Venturia borealis A. Funk SPECIES
-=======
+# Venturia borealis A. Funk SPECIES
 
 #### Status
 ACCEPTED

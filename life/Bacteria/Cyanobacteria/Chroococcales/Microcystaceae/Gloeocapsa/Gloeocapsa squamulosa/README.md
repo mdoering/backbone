@@ -1,5 +1,4 @@
-Gloeocapsa squamulosa Brébisson SPECIES
-=======
+# Gloeocapsa squamulosa Brébisson SPECIES
 
 #### Status
 ACCEPTED

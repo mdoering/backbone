@@ -1,5 +1,4 @@
-Epipolaeum erysiphoides (Ellis & Everh.) M.L. Farr SPECIES
-=======
+# Epipolaeum erysiphoides (Ellis & Everh.) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

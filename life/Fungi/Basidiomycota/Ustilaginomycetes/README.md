@@ -1,5 +1,4 @@
-Ustilaginomycetes R. Bauer, Oberw. & Vánky CLASS
-=======
+# Ustilaginomycetes R. Bauer, Oberw. & Vánky CLASS
 
 #### Status
 ACCEPTED

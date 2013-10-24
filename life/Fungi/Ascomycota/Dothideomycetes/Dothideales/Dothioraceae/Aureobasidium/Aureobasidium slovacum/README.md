@@ -1,5 +1,4 @@
-Aureobasidium slovacum Svob.-Pol., L. Chmel & Bojan. SPECIES
-=======
+# Aureobasidium slovacum Svob.-Pol., L. Chmel & Bojan. SPECIES
 
 #### Status
 ACCEPTED

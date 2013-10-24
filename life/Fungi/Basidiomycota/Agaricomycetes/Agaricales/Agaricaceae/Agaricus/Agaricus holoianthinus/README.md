@@ -1,5 +1,4 @@
-Agaricus holoianthinus Kalchbr. SPECIES
-=======
+# Agaricus holoianthinus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

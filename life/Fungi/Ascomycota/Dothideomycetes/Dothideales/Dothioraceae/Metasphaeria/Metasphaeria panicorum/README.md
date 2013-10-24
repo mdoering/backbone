@@ -1,5 +1,4 @@
-Metasphaeria panicorum (Cooke) Sacc. SPECIES
-=======
+# Metasphaeria panicorum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

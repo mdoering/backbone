@@ -1,5 +1,4 @@
-Dendrospora torulosa Descals & J. Webster, 1980 SPECIES
-=======
+# Dendrospora torulosa Descals & J. Webster, 1980 SPECIES
 
 #### Status
 ACCEPTED

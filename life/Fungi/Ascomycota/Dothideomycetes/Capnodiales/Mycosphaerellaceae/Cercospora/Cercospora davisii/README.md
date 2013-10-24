@@ -1,5 +1,4 @@
-Cercospora davisii Ellis & Everh. SPECIES
-=======
+# Cercospora davisii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

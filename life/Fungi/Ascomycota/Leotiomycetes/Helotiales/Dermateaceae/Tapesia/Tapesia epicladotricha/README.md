@@ -1,5 +1,4 @@
-Tapesia epicladotricha Sacc. SPECIES
-=======
+# Tapesia epicladotricha Sacc. SPECIES
 
 #### Status
 ACCEPTED

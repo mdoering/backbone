@@ -1,5 +1,4 @@
-Fuscidea elixii Kantvilas SPECIES
-=======
+# Fuscidea elixii Kantvilas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Weinmannioscyphus Svrcek GENUS
-=======
+# Weinmannioscyphus Svrcek GENUS
 
 #### Status
 ACCEPTED

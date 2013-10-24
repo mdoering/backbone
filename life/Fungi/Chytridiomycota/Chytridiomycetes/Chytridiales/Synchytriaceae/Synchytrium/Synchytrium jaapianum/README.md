@@ -1,5 +1,4 @@
-Synchytrium jaapianum Magnus SPECIES
-=======
+# Synchytrium jaapianum Magnus SPECIES
 
 #### Status
 ACCEPTED

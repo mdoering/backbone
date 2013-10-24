@@ -1,5 +1,4 @@
-Teratosphaeria complicata Crous & Summerell, 2009 SPECIES
-=======
+# Teratosphaeria complicata Crous & Summerell, 2009 SPECIES
 
 #### Status
 ACCEPTED

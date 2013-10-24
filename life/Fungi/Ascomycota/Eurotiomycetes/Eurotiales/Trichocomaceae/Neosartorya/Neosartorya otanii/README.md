@@ -1,5 +1,4 @@
-Neosartorya otanii Takada, Y. Horie & Abliz SPECIES
-=======
+# Neosartorya otanii Takada, Y. Horie & Abliz SPECIES
 
 #### Status
 ACCEPTED

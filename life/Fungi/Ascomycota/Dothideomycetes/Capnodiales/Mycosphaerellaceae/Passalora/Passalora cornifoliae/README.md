@@ -1,5 +1,4 @@
-Passalora cornifoliae (Chupp) U. Braun & Crous SPECIES
-=======
+# Passalora cornifoliae (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

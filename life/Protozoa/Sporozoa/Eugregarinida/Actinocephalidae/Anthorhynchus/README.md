@@ -1,17 +1,16 @@
-Anthocephalus Schneider, 1887 GENUS
-=======
+# Anthorhynchus Labbé, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Tabl. Zool. , 2, 69.
+Tierreich, 5, 19.
 
 #### Original name
-null
+Anthocephalus Schneider, 1887
 
 ### Remarks
 null

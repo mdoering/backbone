@@ -1,5 +1,4 @@
-Synedra acus var. acus Kützing VARIETY
-=======
+# Synedra acus Kützing SPECIES
 
 #### Status
 ACCEPTED

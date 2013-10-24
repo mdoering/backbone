@@ -1,14 +1,13 @@
-Halosphaeria maritima (Linder) Kohlm., 1972 SPECIES
-=======
+# Remispora maritima Linder, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 50(9): 1956 (1972)
+Farlowia 1: 410 (1944)
 
 #### Original name
 Remispora maritima Linder, 1944

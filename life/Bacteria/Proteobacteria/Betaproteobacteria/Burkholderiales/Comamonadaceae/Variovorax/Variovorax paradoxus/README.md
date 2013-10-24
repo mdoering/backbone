@@ -1,8 +1,7 @@
-Alcaligenes paradoxus Davis, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Variovorax paradoxus (Davis, 1969) Willems et al., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

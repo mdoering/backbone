@@ -1,5 +1,4 @@
-Leiofusa tanaocyta Loeblich, 1970 SPECIES
-=======
+# Leiofusa tanaocyta Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

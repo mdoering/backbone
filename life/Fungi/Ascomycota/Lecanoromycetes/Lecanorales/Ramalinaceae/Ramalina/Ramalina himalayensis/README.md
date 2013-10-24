@@ -1,5 +1,4 @@
-Ramalina himalayensis Räsänen SPECIES
-=======
+# Ramalina himalayensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

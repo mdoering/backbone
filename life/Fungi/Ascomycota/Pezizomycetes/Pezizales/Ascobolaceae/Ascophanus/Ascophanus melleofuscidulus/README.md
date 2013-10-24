@@ -1,17 +1,16 @@
-Ascophanus melleo-fuscidulus Svrcek SPECIES
-=======
+# Ascophanus melleofuscidulus Svrcek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceská Mykol. 26(1): 29 (1972)
 
 #### Original name
-Ascophanus melleo-fuscidulus Svrcek
+Ascophanus melleofuscidulus Svrcek
 
 ### Remarks
 null

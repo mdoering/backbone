@@ -1,5 +1,4 @@
-Muscia Gizhitsk. GENUS
-=======
+# Muscia Gizhitsk. GENUS
 
 #### Status
 ACCEPTED

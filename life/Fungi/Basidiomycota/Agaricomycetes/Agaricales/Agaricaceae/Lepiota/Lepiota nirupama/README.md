@@ -1,5 +1,4 @@
-Lepiota nirupama T.K.A. Kumar & Manim. SPECIES
-=======
+# Lepiota nirupama T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

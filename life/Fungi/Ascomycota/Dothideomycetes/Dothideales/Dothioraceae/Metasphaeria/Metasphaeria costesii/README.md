@@ -1,17 +1,16 @@
-Metasphaeria costesi Speg. SPECIES
-=======
+# Metasphaeria costesii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 25: 68 (1921)
 
 #### Original name
-Metasphaeria costesi Speg.
+Metasphaeria costesii Speg.
 
 ### Remarks
 null

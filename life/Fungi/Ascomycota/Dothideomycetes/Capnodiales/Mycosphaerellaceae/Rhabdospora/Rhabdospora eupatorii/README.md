@@ -1,5 +1,4 @@
-Rhabdospora eupatorii Petr. SPECIES
-=======
+# Rhabdospora eupatorii Petr. SPECIES
 
 #### Status
 ACCEPTED

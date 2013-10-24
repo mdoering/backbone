@@ -1,5 +1,4 @@
-Antennaria setosa Zimm. SPECIES
-=======
+# Antennaria setosa Zimm. SPECIES
 
 #### Status
 ACCEPTED

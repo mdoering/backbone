@@ -1,5 +1,4 @@
-Gymnopilus austrosapineus B.J. Rees SPECIES
-=======
+# Gymnopilus austrosapineus B.J. Rees SPECIES
 
 #### Status
 ACCEPTED

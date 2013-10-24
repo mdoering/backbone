@@ -1,5 +1,4 @@
-Stenellopsis nepalensis R.K. Chaudhary & S.K. Singh SPECIES
-=======
+# Stenellopsis nepalensis R.K. Chaudhary & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

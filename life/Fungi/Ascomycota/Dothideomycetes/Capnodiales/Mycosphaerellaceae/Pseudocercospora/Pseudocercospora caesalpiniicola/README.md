@@ -1,5 +1,4 @@
-Pseudocercospora caesalpiniicola U. Braun, Dianese & A. Hern. Gut. SPECIES
-=======
+# Pseudocercospora caesalpiniicola U. Braun, Dianese & A. Hern. Gut. SPECIES
 
 #### Status
 ACCEPTED

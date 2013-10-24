@@ -1,5 +1,4 @@
-Rhabdospora decipiens (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rhabdospora decipiens (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

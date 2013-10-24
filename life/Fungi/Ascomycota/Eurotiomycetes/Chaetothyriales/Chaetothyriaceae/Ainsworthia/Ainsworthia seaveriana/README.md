@@ -1,5 +1,4 @@
-Ainsworthia seaveriana (Toro) Bat. & Cif. SPECIES
-=======
+# Ainsworthia seaveriana (Toro) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

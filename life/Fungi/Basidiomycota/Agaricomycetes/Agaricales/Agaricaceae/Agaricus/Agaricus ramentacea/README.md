@@ -1,5 +1,4 @@
-Agaricus ramentacea Bull. SPECIES
-=======
+# Agaricus ramentacea Bull. SPECIES
 
 #### Status
 ACCEPTED

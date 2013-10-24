@@ -1,5 +1,4 @@
-Septoria erythrophlaei Henn. SPECIES
-=======
+# Septoria erythrophlaei Henn. SPECIES
 
 #### Status
 ACCEPTED

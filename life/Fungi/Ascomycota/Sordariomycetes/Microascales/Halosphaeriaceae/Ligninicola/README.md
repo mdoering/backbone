@@ -1,5 +1,4 @@
-Ligninicola GENUS
-=======
+# Ligninicola GENUS
 
 #### Status
 ACCEPTED

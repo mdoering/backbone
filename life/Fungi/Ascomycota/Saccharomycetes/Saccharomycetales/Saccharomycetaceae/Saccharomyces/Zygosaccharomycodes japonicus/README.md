@@ -1,5 +1,4 @@
-Zygosaccharomycodes japonicus Nishiw. SPECIES
-=======
+# Zygosaccharomycodes japonicus Nishiw. SPECIES
 
 #### Status
 ACCEPTED

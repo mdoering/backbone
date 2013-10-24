@@ -1,5 +1,4 @@
-Graphis pseudophlyctis Nyl. SPECIES
-=======
+# Graphis pseudophlyctis Nyl. SPECIES
 
 #### Status
 ACCEPTED

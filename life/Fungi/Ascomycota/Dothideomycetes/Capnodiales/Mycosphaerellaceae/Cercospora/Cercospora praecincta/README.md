@@ -1,5 +1,4 @@
-Cercospora praecincta (Davis) Chupp SPECIES
-=======
+# Cercospora praecincta (Davis) Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium kyushuense O'Donnell & T. Aoki, 1998 SPECIES
-=======
+# Fusarium kyushuense O'Donnell & T. Aoki, 1998 SPECIES
 
 #### Status
 ACCEPTED

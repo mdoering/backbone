@@ -1,5 +1,4 @@
-Tricholoma anomalum Murrill SPECIES
-=======
+# Tricholoma anomalum Murrill SPECIES
 
 #### Status
 ACCEPTED

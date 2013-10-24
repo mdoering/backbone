@@ -1,5 +1,4 @@
-Uredo ericae A. Naumann SPECIES
-=======
+# Uredo ericae A. Naumann SPECIES
 
 #### Status
 ACCEPTED

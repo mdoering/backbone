@@ -1,5 +1,4 @@
-Myriangium andinum Speg. SPECIES
-=======
+# Myriangium andinum Speg. SPECIES
 
 #### Status
 ACCEPTED

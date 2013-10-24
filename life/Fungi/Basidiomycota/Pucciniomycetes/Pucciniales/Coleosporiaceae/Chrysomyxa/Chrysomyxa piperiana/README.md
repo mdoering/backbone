@@ -1,5 +1,4 @@
-Chrysomyxa piperiana Sacc. & Trotter ex Cummins SPECIES
-=======
+# Chrysomyxa piperiana Sacc. & Trotter ex Cummins SPECIES
 
 #### Status
 ACCEPTED

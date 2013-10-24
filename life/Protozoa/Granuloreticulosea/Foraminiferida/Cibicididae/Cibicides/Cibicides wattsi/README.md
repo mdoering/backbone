@@ -1,5 +1,4 @@
-Cibicides wattsi Collins, 1974 SPECIES
-=======
+# Cibicides wattsi Collins, 1974 SPECIES
 
 #### Status
 ACCEPTED

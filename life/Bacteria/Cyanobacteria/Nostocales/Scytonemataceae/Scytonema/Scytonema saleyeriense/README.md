@@ -1,5 +1,4 @@
-Scytonema saleyeriense Weber-van Bosse SPECIES
-=======
+# Scytonema saleyeriense Weber-van Bosse SPECIES
 
 #### Status
 ACCEPTED

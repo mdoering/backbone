@@ -1,5 +1,4 @@
-Psilodiporites cooksoniae C.P. Varma & Rawat SPECIES
-=======
+# Psilodiporites cooksoniae C.P. Varma & Rawat SPECIES
 
 #### Status
 ACCEPTED

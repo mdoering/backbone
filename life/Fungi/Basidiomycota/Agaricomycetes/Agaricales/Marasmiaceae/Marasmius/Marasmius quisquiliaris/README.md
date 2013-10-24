@@ -1,5 +1,4 @@
-Marasmius quisquiliaris Schweers SPECIES
-=======
+# Marasmius quisquiliaris Schweers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrobotrys globospora (Soprunov) Mekht. SPECIES
-=======
+# Arthrobotrys globospora (Soprunov) Mekht. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella allii Holmsk. SPECIES
-=======
+# Tremella allii Holmsk. SPECIES
 
 #### Status
 ACCEPTED

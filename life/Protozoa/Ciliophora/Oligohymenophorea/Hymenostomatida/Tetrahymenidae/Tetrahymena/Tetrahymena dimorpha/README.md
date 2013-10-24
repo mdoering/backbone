@@ -1,5 +1,4 @@
-Tetrahymena dimorpha Batson, 1983 SPECIES
-=======
+# Tetrahymena dimorpha Batson, 1983 SPECIES
 
 #### Status
 ACCEPTED

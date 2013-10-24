@@ -1,17 +1,16 @@
-Crustomyces pini-canadensis subsp. pini-canadensis (Schwein.) Jülich SUBSPECIES
-=======
+# Cystostereum pini-canadense (Schwein.) Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 10(1): 140 (1978)
+Consp. System. Corticiac. (Tartu) 170 (1968)
 
 #### Original name
-Crustomyces pini-canadensis subsp. pini-canadensis (Schwein.) Jülich
+Radulum pini-canadensis Schwein.
 
 ### Remarks
 null

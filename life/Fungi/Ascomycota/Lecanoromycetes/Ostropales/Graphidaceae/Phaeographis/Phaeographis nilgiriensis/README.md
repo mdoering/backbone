@@ -1,5 +1,4 @@
-Phaeographis nilgiriensis Kr.P. Singh & D.D. Awasthi SPECIES
-=======
+# Phaeographis nilgiriensis Kr.P. Singh & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

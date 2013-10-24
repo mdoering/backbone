@@ -1,5 +1,4 @@
-Naucoria eriophori Velen. SPECIES
-=======
+# Naucoria eriophori Velen. SPECIES
 
 #### Status
 ACCEPTED

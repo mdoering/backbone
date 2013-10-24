@@ -1,5 +1,4 @@
-Pythium canariense B. Paul SPECIES
-=======
+# Pythium canariense B. Paul SPECIES
 
 #### Status
 ACCEPTED

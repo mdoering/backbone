@@ -1,5 +1,4 @@
-Karschia tjibodensis Penz. & Sacc. SPECIES
-=======
+# Karschia tjibodensis Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

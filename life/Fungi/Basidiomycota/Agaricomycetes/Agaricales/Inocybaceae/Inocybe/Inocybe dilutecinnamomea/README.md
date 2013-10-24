@@ -1,5 +1,4 @@
-Inocybe dilutecinnamomea Singer SPECIES
-=======
+# Inocybe dilutecinnamomea Singer SPECIES
 
 #### Status
 ACCEPTED

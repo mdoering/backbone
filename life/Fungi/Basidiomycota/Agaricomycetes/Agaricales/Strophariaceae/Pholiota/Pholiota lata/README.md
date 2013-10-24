@@ -1,5 +1,4 @@
-Pholiota lata P. Kumm. SPECIES
-=======
+# Pholiota lata P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

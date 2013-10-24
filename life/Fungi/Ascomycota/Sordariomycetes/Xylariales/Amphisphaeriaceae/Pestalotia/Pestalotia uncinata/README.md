@@ -1,5 +1,4 @@
-Pestalotia uncinata Ellis & Kellerm. SPECIES
-=======
+# Pestalotia uncinata Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

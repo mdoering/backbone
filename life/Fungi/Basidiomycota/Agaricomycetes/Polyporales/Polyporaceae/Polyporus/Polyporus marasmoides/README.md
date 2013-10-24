@@ -1,5 +1,4 @@
-Polyporus marasmoides Henn. SPECIES
-=======
+# Polyporus marasmoides Henn. SPECIES
 
 #### Status
 ACCEPTED

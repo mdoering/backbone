@@ -1,5 +1,4 @@
-Omphalia succinea Speg. SPECIES
-=======
+# Omphalia succinea Speg. SPECIES
 
 #### Status
 ACCEPTED

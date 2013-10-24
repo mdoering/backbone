@@ -1,17 +1,16 @@
-Hyponectria succinea (Roberge ex Desm.) Cooke, 1884 SPECIES
-=======
+# Leiosphaerella succinea (Roberge ex Desm.) E. Müll., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 673 (1962)
 
 #### Original name
-null
+Sphaeria succinea Roberge ex Desm., 1848
 
 ### Remarks
 null

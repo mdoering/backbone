@@ -1,5 +1,4 @@
-Cercospora pteridicola Gonz. Frag. SPECIES
-=======
+# Cercospora pteridicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

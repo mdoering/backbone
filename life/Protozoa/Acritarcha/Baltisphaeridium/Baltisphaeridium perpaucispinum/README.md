@@ -1,5 +1,4 @@
-Baltisphaeridium perpaucispinum Kjellström, 1971 SPECIES
-=======
+# Baltisphaeridium perpaucispinum Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

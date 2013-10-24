@@ -1,5 +1,4 @@
-Leptonema arcticum A.Zinova SPECIES
-=======
+# Leptonema arcticum A.Zinova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago ehrhartana Zundel SPECIES
-=======
+# Ustilago ehrhartana Zundel SPECIES
 
 #### Status
 ACCEPTED

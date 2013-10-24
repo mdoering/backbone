@@ -1,5 +1,4 @@
-Caloplaca fimbriata (Eitner) Zahlbr. SPECIES
-=======
+# Caloplaca fimbriata (Eitner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

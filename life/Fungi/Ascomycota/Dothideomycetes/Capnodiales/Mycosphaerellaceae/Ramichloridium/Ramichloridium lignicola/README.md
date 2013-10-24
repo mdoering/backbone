@@ -1,5 +1,4 @@
-Ramichloridium lignicola K.M. Tsui, Goh, K.D. Hyde & Hodgkiss SPECIES
-=======
+# Ramichloridium lignicola K.M. Tsui, Goh, K.D. Hyde & Hodgkiss SPECIES
 
 #### Status
 ACCEPTED

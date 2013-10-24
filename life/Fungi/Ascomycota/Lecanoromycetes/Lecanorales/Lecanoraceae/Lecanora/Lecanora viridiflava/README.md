@@ -1,5 +1,4 @@
-Lecanora viridiflava B. de Lesd. SPECIES
-=======
+# Lecanora viridiflava B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

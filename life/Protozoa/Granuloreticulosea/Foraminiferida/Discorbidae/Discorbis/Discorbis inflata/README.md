@@ -1,5 +1,4 @@
-Discorbis inflata (Earland & Heron-Allen) SPECIES
-=======
+# Discorbis inflata (Earland & Heron-Allen) SPECIES
 
 #### Status
 ACCEPTED

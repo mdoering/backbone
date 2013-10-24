@@ -1,5 +1,4 @@
-Physcia tegularis (Ehrh.) Kernst. SPECIES
-=======
+# Physcia tegularis (Ehrh.) Kernst. SPECIES
 
 #### Status
 ACCEPTED

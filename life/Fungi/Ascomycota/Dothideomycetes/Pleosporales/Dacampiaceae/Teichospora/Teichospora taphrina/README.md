@@ -1,5 +1,4 @@
-Teichospora taphrina (Fr.) Fuckel SPECIES
-=======
+# Teichospora taphrina (Fr.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

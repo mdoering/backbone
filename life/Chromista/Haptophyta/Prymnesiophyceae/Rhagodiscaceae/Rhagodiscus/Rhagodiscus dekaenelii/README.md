@@ -1,5 +1,4 @@
-Rhagodiscus dekaenelii SPECIES
-=======
+# Rhagodiscus dekaenelii SPECIES
 
 #### Status
 ACCEPTED

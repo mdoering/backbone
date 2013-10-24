@@ -1,5 +1,4 @@
-Encoelia indica M.P. Sharma SPECIES
-=======
+# Encoelia indica M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

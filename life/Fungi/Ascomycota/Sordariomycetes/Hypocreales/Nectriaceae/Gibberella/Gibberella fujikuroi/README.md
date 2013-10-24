@@ -1,17 +1,16 @@
-Fusarium moniliforme f. sp FORM
-=======
+# Gibberella fujikuroi (Sawada) Wollenw. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Nelson, Toussoun & Cook (eds), Annls Épiphyt. 19: 405 (1968)
+Z. ParasitKde 3: 514 (1931)
 
 #### Original name
-Fusarium moniliforme f. sp
+Lisea fujikuroi Sawada, 1919
 
 ### Remarks
 null

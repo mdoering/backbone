@@ -1,5 +1,4 @@
-Naucoria pectinala Berk. & M.A. Curtis SPECIES
-=======
+# Naucoria pectinala Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

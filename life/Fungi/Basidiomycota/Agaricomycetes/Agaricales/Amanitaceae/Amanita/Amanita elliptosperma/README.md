@@ -1,5 +1,4 @@
-Amanita elliptosperma G.F. Atk. SPECIES
-=======
+# Amanita elliptosperma G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermosulfidibacter Nunoura et al., 2008 GENUS
-=======
+# Thermosulfidibacter Nunoura et al., 2008 GENUS
 
 #### Status
 ACCEPTED

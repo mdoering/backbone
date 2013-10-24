@@ -1,14 +1,13 @@
-Microsphaera rayssiae Mayor, 1961 SPECIES
-=======
+# Erysiphe rayssiae (Mayor) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Res. Counc. Israel 10D(1-4): 203 (1961)
+Schlechtendalia 4: 13 (2000)
 
 #### Original name
 Microsphaera rayssiae Mayor, 1961

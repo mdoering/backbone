@@ -1,5 +1,4 @@
-Pleospora maydis Malbr. SPECIES
-=======
+# Pleospora maydis Malbr. SPECIES
 
 #### Status
 ACCEPTED

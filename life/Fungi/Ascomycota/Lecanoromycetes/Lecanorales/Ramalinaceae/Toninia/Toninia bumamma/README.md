@@ -1,14 +1,13 @@
-Lecidea bumamma Nyl. SPECIES
-=======
+# Toninia bumamma (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Crombie, J. Linn. Soc. , Bot. 15: 177 (1876)
+Cat. Lich. Univers. 4: 263 (1926)
 
 #### Original name
 Lecidea bumamma Nyl.

@@ -1,5 +1,4 @@
-Squamaria ferruginea Szatala SPECIES
-=======
+# Squamaria ferruginea Szatala SPECIES
 
 #### Status
 ACCEPTED

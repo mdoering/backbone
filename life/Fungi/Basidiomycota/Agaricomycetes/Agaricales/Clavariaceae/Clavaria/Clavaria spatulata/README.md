@@ -1,5 +1,4 @@
-Clavaria spatulata Dicks. SPECIES
-=======
+# Clavaria spatulata Dicks. SPECIES
 
 #### Status
 ACCEPTED

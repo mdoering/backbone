@@ -1,5 +1,4 @@
-Pholiota iterata A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota iterata A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

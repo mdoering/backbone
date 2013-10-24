@@ -1,5 +1,4 @@
-Phaeotrabutia isabelae Orejuela, 1941 SPECIES
-=======
+# Phaeotrabutia isabelae Orejuela, 1941 SPECIES
 
 #### Status
 ACCEPTED

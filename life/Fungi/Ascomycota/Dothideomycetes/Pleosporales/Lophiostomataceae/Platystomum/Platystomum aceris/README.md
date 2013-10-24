@@ -1,5 +1,4 @@
-Platystomum aceris Tracy & Earle SPECIES
-=======
+# Platystomum aceris Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

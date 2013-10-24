@@ -1,5 +1,4 @@
-Russula praefragilis Murrill SPECIES
-=======
+# Russula praefragilis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbopercularia erlenagensis SPECIES
-=======
+# Orbopercularia erlenagensis SPECIES
 
 #### Status
 ACCEPTED

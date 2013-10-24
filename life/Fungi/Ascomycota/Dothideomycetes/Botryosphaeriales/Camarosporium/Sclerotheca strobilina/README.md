@@ -1,5 +1,4 @@
-Sclerotheca strobilina Bubák & Vleugel SPECIES
-=======
+# Sclerotheca strobilina Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

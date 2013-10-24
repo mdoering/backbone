@@ -1,5 +1,4 @@
-Sokolovia Elenkin, 1926 GENUS
-=======
+# Sokolovia Elenkin, 1926 GENUS
 
 #### Status
 ACCEPTED

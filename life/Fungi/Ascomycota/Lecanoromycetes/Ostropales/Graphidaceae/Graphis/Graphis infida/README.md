@@ -1,5 +1,4 @@
-Graphis infida Nyl. SPECIES
-=======
+# Graphis infida Nyl. SPECIES
 
 #### Status
 ACCEPTED

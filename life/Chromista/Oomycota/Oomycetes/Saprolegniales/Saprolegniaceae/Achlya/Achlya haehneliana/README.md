@@ -1,5 +1,4 @@
-Achlya haehneliana Cejp SPECIES
-=======
+# Achlya haehneliana Cejp SPECIES
 
 #### Status
 ACCEPTED

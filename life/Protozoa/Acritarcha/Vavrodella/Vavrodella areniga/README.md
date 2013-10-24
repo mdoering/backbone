@@ -1,5 +1,4 @@
-Vavrodella areniga (Vavrdová, 1973) Loeblich & Tappan, 1976 SPECIES
-=======
+# Vavrodella areniga (Vavrdová, 1973) Loeblich & Tappan, 1976 SPECIES
 
 #### Status
 ACCEPTED

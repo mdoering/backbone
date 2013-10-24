@@ -1,5 +1,4 @@
-Myrmecocystis spinospora Gilkey SPECIES
-=======
+# Myrmecocystis spinospora Gilkey SPECIES
 
 #### Status
 ACCEPTED

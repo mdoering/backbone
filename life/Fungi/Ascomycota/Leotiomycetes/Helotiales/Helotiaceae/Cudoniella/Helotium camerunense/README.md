@@ -1,5 +1,4 @@
-Helotium camerunense Henn. SPECIES
-=======
+# Helotium camerunense Henn. SPECIES
 
 #### Status
 ACCEPTED

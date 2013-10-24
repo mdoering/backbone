@@ -1,11 +1,10 @@
-Sporotrichum flavicans var. flavicans (Link) Fr. VARIETY
-=======
+# Sporotrichum flavicans (Link) Fr., 1832 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syst. mycol. (Lundae) 3(2): 419 (1832)

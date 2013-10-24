@@ -1,5 +1,4 @@
-Leptosphaeriopsis echii Berl. SPECIES
-=======
+# Leptosphaeriopsis echii Berl. SPECIES
 
 #### Status
 ACCEPTED

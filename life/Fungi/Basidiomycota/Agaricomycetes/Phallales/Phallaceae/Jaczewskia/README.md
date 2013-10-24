@@ -1,5 +1,4 @@
-Jaczewskia GENUS
-=======
+# Jaczewskia GENUS
 
 #### Status
 ACCEPTED

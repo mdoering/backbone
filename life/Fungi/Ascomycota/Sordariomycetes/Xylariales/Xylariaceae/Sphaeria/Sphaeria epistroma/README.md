@@ -1,5 +1,4 @@
-Sphaeria epistroma (Cooke) SPECIES
-=======
+# Sphaeria epistroma (Cooke) SPECIES
 
 #### Status
 ACCEPTED

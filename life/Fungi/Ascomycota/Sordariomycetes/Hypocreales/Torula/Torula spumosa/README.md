@@ -1,5 +1,4 @@
-Torula spumosa F.C. Harrison SPECIES
-=======
+# Torula spumosa F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oerskovia Prauser, M.P. Lechev. & H. Lechev. GENUS
-=======
+# Oerskovia Prauser, M.P. Lechev. & H. Lechev. GENUS
 
 #### Status
 ACCEPTED

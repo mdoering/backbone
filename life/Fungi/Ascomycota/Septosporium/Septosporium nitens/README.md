@@ -1,5 +1,4 @@
-Septosporium nitens Fresen. SPECIES
-=======
+# Septosporium nitens Fresen. SPECIES
 
 #### Status
 ACCEPTED

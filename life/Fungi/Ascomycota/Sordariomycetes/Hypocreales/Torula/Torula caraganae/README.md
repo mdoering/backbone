@@ -1,5 +1,4 @@
-Torula caraganae Thüm. SPECIES
-=======
+# Torula caraganae Thüm. SPECIES
 
 #### Status
 ACCEPTED

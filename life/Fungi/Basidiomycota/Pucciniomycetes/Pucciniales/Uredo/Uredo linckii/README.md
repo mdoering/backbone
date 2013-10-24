@@ -1,5 +1,4 @@
-Uredo linckii Berk. SPECIES
-=======
+# Uredo linckii Berk. SPECIES
 
 #### Status
 ACCEPTED

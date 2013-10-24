@@ -1,5 +1,4 @@
-Lepiota obclavata (Cooke & Massee) Sacc. SPECIES
-=======
+# Lepiota obclavata (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

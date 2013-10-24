@@ -1,5 +1,4 @@
-Vermicularia culmigena Desm. SPECIES
-=======
+# Vermicularia culmigena Desm. SPECIES
 
 #### Status
 ACCEPTED

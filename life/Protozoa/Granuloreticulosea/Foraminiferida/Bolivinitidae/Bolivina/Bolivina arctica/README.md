@@ -1,5 +1,4 @@
-Bolivina arctica Herman, 1973 SPECIES
-=======
+# Bolivina arctica Herman, 1973 SPECIES
 
 #### Status
 ACCEPTED

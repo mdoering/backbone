@@ -1,5 +1,4 @@
-Syncephalis cornu Tiegh. & G. Le Monn., 1873 SPECIES
-=======
+# Syncephalis cornu Tiegh. & G. Le Monn., 1873 SPECIES
 
 #### Status
 ACCEPTED

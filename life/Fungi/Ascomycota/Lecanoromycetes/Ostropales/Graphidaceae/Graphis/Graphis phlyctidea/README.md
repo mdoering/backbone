@@ -1,5 +1,4 @@
-Graphis phlyctidea Vain. SPECIES
-=======
+# Graphis phlyctidea Vain. SPECIES
 
 #### Status
 ACCEPTED

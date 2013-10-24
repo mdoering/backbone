@@ -1,5 +1,4 @@
-Phlyctis candida Zahlbr. SPECIES
-=======
+# Phlyctis candida Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

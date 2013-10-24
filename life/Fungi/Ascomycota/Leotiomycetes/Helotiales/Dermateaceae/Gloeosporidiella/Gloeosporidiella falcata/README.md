@@ -1,5 +1,4 @@
-Gloeosporidiella falcata (Dearn. & House) Arx SPECIES
-=======
+# Gloeosporidiella falcata (Dearn. & House) Arx SPECIES
 
 #### Status
 ACCEPTED

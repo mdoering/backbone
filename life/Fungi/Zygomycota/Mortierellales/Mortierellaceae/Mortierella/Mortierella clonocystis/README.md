@@ -1,5 +1,4 @@
-Mortierella clonocystis W. Gams, 1976 SPECIES
-=======
+# Mortierella clonocystis W. Gams, 1976 SPECIES
 
 #### Status
 ACCEPTED

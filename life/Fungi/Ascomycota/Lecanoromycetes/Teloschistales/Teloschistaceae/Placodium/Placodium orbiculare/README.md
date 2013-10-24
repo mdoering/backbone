@@ -1,5 +1,4 @@
-Placodium orbiculare (Schaer.) Arnold SPECIES
-=======
+# Placodium orbiculare (Schaer.) Arnold SPECIES
 
 #### Status
 ACCEPTED

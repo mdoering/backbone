@@ -1,5 +1,4 @@
-Pocillaria irregularis (Curr.) Kuntze SPECIES
-=======
+# Pocillaria irregularis (Curr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

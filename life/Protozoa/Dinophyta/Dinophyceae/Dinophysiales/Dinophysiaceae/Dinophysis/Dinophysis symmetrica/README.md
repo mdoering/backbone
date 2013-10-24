@@ -1,5 +1,4 @@
-Dinophysis symmetrica (Gaarder, 1954) Balech, 1967 SPECIES
-=======
+# Dinophysis symmetrica (Gaarder, 1954) Balech, 1967 SPECIES
 
 #### Status
 ACCEPTED

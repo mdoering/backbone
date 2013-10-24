@@ -1,5 +1,4 @@
-Psathyrella cordispora Natarajan & Raman SPECIES
-=======
+# Psathyrella cordispora Natarajan & Raman SPECIES
 
 #### Status
 ACCEPTED

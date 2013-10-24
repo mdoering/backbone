@@ -1,5 +1,4 @@
-Xenorhabdus budapestensis Lengyel et al., 2005 SPECIES
-=======
+# Xenorhabdus budapestensis Lengyel et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

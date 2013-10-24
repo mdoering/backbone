@@ -1,5 +1,4 @@
-Ascochyta paucisporula R. Sprague SPECIES
-=======
+# Ascochyta paucisporula R. Sprague SPECIES
 
 #### Status
 ACCEPTED

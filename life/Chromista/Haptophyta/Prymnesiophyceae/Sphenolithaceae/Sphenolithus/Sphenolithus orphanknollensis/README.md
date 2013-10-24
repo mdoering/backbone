@@ -1,5 +1,4 @@
-Sphenolithus orphanknollensis Perch-Nielsen, 1971 SPECIES
-=======
+# Sphenolithus orphanknollensis Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

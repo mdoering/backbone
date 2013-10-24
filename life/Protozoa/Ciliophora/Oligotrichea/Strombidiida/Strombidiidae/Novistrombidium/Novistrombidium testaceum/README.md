@@ -1,8 +1,7 @@
-Tontonia testaceum SPECIES
-=======
+# Novistrombidium testaceum (Anigstein, 1914) Song & Bradbury, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

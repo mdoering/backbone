@@ -1,5 +1,4 @@
-Pyxidiella pandora Cookson & Eisenack SPECIES
-=======
+# Pyxidiella pandora Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemphylium viticola Pass. SPECIES
-=======
+# Stemphylium viticola Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago zernae Uljan. SPECIES
-=======
+# Ustilago zernae Uljan. SPECIES
 
 #### Status
 ACCEPTED

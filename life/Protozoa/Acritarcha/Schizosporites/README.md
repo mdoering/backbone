@@ -1,5 +1,4 @@
-Schizosporites GENUS
-=======
+# Schizosporites GENUS
 
 #### Status
 ACCEPTED

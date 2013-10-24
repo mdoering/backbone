@@ -1,5 +1,4 @@
-Arcyria sessilis Hill SPECIES
-=======
+# Arcyria sessilis Hill SPECIES
 
 #### Status
 ACCEPTED

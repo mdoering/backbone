@@ -1,5 +1,4 @@
-Meliola gymnoloniae Toro SPECIES
-=======
+# Meliola gymnoloniae Toro SPECIES
 
 #### Status
 ACCEPTED

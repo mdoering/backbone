@@ -1,17 +1,16 @@
-Hydrocybe trojana Murrill SPECIES
-=======
+# Hydrocybe troyana Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 3(4): 198 (1911)
 
 #### Original name
-Hydrocybe trojana Murrill
+Hydrocybe troyana Murrill
 
 ### Remarks
 null

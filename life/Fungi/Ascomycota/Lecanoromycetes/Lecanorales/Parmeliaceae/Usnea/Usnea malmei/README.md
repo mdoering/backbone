@@ -1,5 +1,4 @@
-Usnea malmei Motyka SPECIES
-=======
+# Usnea malmei Motyka SPECIES
 
 #### Status
 ACCEPTED

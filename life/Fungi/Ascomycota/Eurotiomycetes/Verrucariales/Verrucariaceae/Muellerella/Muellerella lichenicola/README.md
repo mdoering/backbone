@@ -1,17 +1,16 @@
-Polycarpella cookei (Linds.) Theiss. & Syd. SPECIES
-=======
+# Muellerella lichenicola (Sommerf.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls mycol. (1918)
+Bot. Notiser 132(3): 289 (1979)
 
 #### Original name
-Microthelia cookei Linds.
+Sphaeria lichenicola (De Not.) Cooke
 
 ### Remarks
 null

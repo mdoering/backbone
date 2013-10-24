@@ -1,5 +1,4 @@
-Marasmius viticola Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius viticola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynebacterium argentoratense Riegel et al., 1995 SPECIES
-=======
+# Corynebacterium argentoratense Riegel et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

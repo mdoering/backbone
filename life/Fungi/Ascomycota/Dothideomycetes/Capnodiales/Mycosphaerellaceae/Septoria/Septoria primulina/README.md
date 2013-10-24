@@ -1,5 +1,4 @@
-Septoria primulina Woron. SPECIES
-=======
+# Septoria primulina Woron. SPECIES
 
 #### Status
 ACCEPTED

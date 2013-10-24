@@ -1,5 +1,4 @@
-Thelephora bresadolae Henn. SPECIES
-=======
+# Thelephora bresadolae Henn. SPECIES
 
 #### Status
 ACCEPTED

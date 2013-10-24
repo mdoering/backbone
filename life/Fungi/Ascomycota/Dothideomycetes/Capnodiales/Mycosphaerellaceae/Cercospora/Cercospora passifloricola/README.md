@@ -1,5 +1,4 @@
-Cercospora passifloricola Chupp SPECIES
-=======
+# Cercospora passifloricola Chupp SPECIES
 
 #### Status
 ACCEPTED

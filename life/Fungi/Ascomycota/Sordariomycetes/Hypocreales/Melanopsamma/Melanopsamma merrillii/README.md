@@ -1,5 +1,4 @@
-Melanopsamma merrillii H.S. Yates SPECIES
-=======
+# Melanopsamma merrillii H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

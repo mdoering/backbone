@@ -1,5 +1,4 @@
-Epitokophrya Yankovskii, 1978 GENUS
-=======
+# Epitokophrya Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

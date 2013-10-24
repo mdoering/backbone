@@ -1,5 +1,4 @@
-Placothallia hueana (Vain.) Szatala SPECIES
-=======
+# Placothallia hueana (Vain.) Szatala SPECIES
 
 #### Status
 ACCEPTED

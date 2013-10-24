@@ -1,5 +1,4 @@
-Aspicilia transmontana Samp. SPECIES
-=======
+# Aspicilia transmontana Samp. SPECIES
 
 #### Status
 ACCEPTED

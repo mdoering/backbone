@@ -1,5 +1,4 @@
-Asterina heterostemmae W. Yamam. SPECIES
-=======
+# Asterina heterostemmae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium lauri Sacc., 1937 SPECIES
-=======
+# Camarosporium lauri Sacc., 1937 SPECIES
 
 #### Status
 ACCEPTED

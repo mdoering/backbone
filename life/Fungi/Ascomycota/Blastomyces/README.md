@@ -1,5 +1,4 @@
-Blastomyces GENUS
-=======
+# Blastomyces GENUS
 
 #### Status
 ACCEPTED

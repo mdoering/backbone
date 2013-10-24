@@ -1,5 +1,4 @@
-Mycetocola saprophilus Tsukamoto et al., 2001 SPECIES
-=======
+# Mycetocola saprophilus Tsukamoto et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosporium stromaticum Pat. SPECIES
-=======
+# Didymosporium stromaticum Pat. SPECIES
 
 #### Status
 ACCEPTED

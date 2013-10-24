@@ -1,5 +1,4 @@
-Costatosphaerina psilata Lopukhin, 1974 SPECIES
-=======
+# Costatosphaerina psilata Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

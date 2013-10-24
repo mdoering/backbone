@@ -1,5 +1,4 @@
-Peridermium montanum Arthur & F. Kern SPECIES
-=======
+# Peridermium montanum Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

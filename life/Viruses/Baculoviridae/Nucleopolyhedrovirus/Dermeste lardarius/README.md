@@ -1,5 +1,4 @@
-Dermeste lardarius Npv SPECIES
-=======
+# Dermeste lardarius Npv SPECIES
 
 #### Status
 ACCEPTED

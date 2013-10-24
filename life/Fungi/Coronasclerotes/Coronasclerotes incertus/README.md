@@ -1,5 +1,4 @@
-Coronasclerotes incertus Stach & Pickh. SPECIES
-=======
+# Coronasclerotes incertus Stach & Pickh. SPECIES
 
 #### Status
 ACCEPTED

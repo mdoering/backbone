@@ -1,5 +1,4 @@
-Puccinia pentadicola Grove SPECIES
-=======
+# Puccinia pentadicola Grove SPECIES
 
 #### Status
 ACCEPTED

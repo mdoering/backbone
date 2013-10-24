@@ -1,5 +1,4 @@
-Hystrichosphaeropsis perforata P. Schiøler SPECIES
-=======
+# Hystrichosphaeropsis perforata P. Schiøler SPECIES
 
 #### Status
 ACCEPTED

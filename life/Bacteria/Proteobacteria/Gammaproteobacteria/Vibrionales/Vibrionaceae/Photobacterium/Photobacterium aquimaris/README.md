@@ -1,5 +1,4 @@
-Photobacterium aquimaris Yoshizawa, Wada, Kita-Tsukamoto, Yokota & Kogure, 2009 SPECIES
-=======
+# Photobacterium aquimaris Yoshizawa, Wada, Kita-Tsukamoto, Yokota & Kogure, 2009 SPECIES
 
 #### Status
 ACCEPTED

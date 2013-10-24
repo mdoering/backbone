@@ -1,5 +1,4 @@
-Trichopeltina Theiss. GENUS
-=======
+# Trichopeltina Theiss. GENUS
 
 #### Status
 ACCEPTED

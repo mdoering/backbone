@@ -1,5 +1,4 @@
-Chaetomium heterosporum Rikhy & Mukerji, 1974 SPECIES
-=======
+# Chaetomium heterosporum Rikhy & Mukerji, 1974 SPECIES
 
 #### Status
 ACCEPTED

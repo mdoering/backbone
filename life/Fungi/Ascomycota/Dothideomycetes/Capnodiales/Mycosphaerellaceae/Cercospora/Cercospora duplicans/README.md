@@ -1,5 +1,4 @@
-Cercospora duplicans Chupp SPECIES
-=======
+# Cercospora duplicans Chupp SPECIES
 
 #### Status
 ACCEPTED

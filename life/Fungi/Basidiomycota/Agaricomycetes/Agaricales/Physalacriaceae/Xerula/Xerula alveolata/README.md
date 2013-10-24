@@ -1,5 +1,4 @@
-Xerula alveolata (Kalchbr.) R.H. Petersen SPECIES
-=======
+# Xerula alveolata (Kalchbr.) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

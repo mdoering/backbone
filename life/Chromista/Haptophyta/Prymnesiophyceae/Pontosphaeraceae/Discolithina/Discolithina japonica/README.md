@@ -1,5 +1,4 @@
-Discolithina japonica T. Takayama SPECIES
-=======
+# Discolithina japonica T. Takayama SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus alpinus (Singer) Singer SPECIES
-=======
+# Gymnopilus alpinus (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

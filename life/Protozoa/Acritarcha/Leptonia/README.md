@@ -1,5 +1,4 @@
-Leptonia Singh, Tewari & Gupta, 1979 GENUS
-=======
+# Leptonia Singh, Tewari & Gupta, 1979 GENUS
 
 #### Status
 ACCEPTED

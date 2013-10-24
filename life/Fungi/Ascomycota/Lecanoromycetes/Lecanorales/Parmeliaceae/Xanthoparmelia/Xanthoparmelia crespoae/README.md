@@ -1,5 +1,4 @@
-Xanthoparmelia crespoae Elix, Louwhoff & M. Molina SPECIES
-=======
+# Xanthoparmelia crespoae Elix, Louwhoff & M. Molina SPECIES
 
 #### Status
 ACCEPTED

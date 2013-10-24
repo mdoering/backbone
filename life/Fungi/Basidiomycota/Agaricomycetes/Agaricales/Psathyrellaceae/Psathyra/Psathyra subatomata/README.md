@@ -1,5 +1,4 @@
-Psathyra subatomata J.E. Lange SPECIES
-=======
+# Psathyra subatomata J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

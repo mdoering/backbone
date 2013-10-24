@@ -1,14 +1,13 @@
-Parmelia subfusca var. bryontha Ach. VARIETY
-=======
+# Pertusaria bryontha (Ach.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Method. Lich. 167 (1803)
+Lich. Scand. (Uppsala) 178 (1861)
 
 #### Original name
 Parmelia subfusca var. bryontha Ach.

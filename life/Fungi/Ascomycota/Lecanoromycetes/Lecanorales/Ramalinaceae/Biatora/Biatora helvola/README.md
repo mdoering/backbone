@@ -1,17 +1,16 @@
-Lecidea helvola var. helvola VARIETY
-=======
+# Biatora helvola Körb. ex Hellb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecidea helvola var. helvola
+null
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Lachnum myricacea (Peck) J.H. Haines SPECIES
-=======
+# Lachnum myricaceum (Peck) J.H. Haines SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 35(2): 335 (1989)
 
 #### Original name
 Peziza myricacea Peck

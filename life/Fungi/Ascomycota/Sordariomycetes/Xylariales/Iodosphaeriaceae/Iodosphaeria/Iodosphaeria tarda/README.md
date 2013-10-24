@@ -1,5 +1,4 @@
-Iodosphaeria tarda (Fuckel) M.E. Barr SPECIES
-=======
+# Iodosphaeria tarda (Fuckel) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

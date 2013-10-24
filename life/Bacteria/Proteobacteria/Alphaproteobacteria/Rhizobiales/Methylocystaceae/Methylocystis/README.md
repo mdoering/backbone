@@ -1,5 +1,4 @@
-Methylocystis (ex Whittenbury et al., 1970) Bowman et al., 1993 GENUS
-=======
+# Methylocystis (ex Whittenbury et al., 1970) Bowman et al., 1993 GENUS
 
 #### Status
 ACCEPTED

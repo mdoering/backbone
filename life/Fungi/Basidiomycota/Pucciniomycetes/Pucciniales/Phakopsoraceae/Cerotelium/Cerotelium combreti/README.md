@@ -1,5 +1,4 @@
-Cerotelium combreti Cummins SPECIES
-=======
+# Cerotelium combreti Cummins SPECIES
 
 #### Status
 ACCEPTED

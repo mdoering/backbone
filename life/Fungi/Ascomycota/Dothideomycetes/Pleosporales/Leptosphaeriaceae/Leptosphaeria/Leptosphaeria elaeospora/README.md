@@ -1,5 +1,4 @@
-Leptosphaeria elaeospora Sacc. SPECIES
-=======
+# Leptosphaeria elaeospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

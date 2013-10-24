@@ -1,5 +1,4 @@
-Septoria caballeroi var. panicei Gonz. Frag. VARIETY
-=======
+# Septoria caballeroi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Trabajos del Museos Nacional de Ciencias Naturales, Seria Botanica 7: 49 (1914)
 
 #### Original name
-Septoria caballeroi var. panicei Gonz. Frag.
+Septoria caballeroi Gonz. Frag.
 
 ### Remarks
 null

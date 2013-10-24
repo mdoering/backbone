@@ -1,5 +1,4 @@
-Ramularia glycinicola U. Braun & Bagyan. SPECIES
-=======
+# Ramularia glycinicola U. Braun & Bagyan. SPECIES
 
 #### Status
 ACCEPTED

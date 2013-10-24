@@ -1,5 +1,4 @@
-Edgertonia Tendal & Hessler, 1977 GENUS
-=======
+# Edgertonia Tendal & Hessler, 1977 GENUS
 
 #### Status
 ACCEPTED

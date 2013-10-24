@@ -1,5 +1,4 @@
-Aplosporella wladicaucasica Tschern. SPECIES
-=======
+# Aplosporella wladicaucasica Tschern. SPECIES
 
 #### Status
 ACCEPTED

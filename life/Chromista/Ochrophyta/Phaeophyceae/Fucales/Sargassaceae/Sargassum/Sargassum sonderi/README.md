@@ -1,8 +1,7 @@
-Cystophora sonderi J. Agardh SPECIES
-=======
+# Sargassum sonderi (J. Agardh) J. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

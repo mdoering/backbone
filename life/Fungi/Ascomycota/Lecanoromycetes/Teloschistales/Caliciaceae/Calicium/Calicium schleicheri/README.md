@@ -1,5 +1,4 @@
-Calicium schleicheri De Not. SPECIES
-=======
+# Calicium schleicheri De Not. SPECIES
 
 #### Status
 ACCEPTED

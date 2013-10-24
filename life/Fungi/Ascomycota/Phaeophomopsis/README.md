@@ -1,5 +1,4 @@
-Phaeophomopsis Höhn. GENUS
-=======
+# Phaeophomopsis Höhn. GENUS
 
 #### Status
 ACCEPTED

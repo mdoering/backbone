@@ -1,5 +1,4 @@
-Corollithion covingtonii J. Mutterlose & S.W. Wise SPECIES
-=======
+# Corollithion covingtonii J. Mutterlose & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

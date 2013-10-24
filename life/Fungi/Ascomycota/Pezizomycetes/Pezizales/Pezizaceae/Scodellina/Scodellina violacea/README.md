@@ -1,5 +1,4 @@
-Scodellina violacea Gray SPECIES
-=======
+# Scodellina violacea Gray SPECIES
 
 #### Status
 ACCEPTED

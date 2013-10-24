@@ -1,5 +1,4 @@
-Pezizella culmigena Sacc. SPECIES
-=======
+# Pezizella culmigena Sacc. SPECIES
 
 #### Status
 ACCEPTED

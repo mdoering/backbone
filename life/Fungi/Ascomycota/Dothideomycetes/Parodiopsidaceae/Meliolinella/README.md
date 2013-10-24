@@ -1,5 +1,4 @@
-Meliolinella GENUS
-=======
+# Meliolinella GENUS
 
 #### Status
 ACCEPTED

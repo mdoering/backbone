@@ -1,5 +1,4 @@
-Ionomidotis nicaraguensis E.J. Durand SPECIES
-=======
+# Ionomidotis nicaraguensis E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

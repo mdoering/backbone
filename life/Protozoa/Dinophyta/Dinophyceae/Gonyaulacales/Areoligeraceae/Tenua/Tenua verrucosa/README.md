@@ -1,5 +1,4 @@
-Tenua verrucosa W.A.S. Sarjeant SPECIES
-=======
+# Tenua verrucosa W.A.S. Sarjeant SPECIES
 
 #### Status
 ACCEPTED

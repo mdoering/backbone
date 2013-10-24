@@ -1,5 +1,4 @@
-Marasmius polyporoides Murrill SPECIES
-=======
+# Marasmius polyporoides Murrill SPECIES
 
 #### Status
 ACCEPTED

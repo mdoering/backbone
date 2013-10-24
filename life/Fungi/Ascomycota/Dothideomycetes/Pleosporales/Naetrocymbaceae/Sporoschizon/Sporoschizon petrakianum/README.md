@@ -1,5 +1,4 @@
-Sporoschizon petrakianum Riedl SPECIES
-=======
+# Sporoschizon petrakianum Riedl SPECIES
 
 #### Status
 ACCEPTED

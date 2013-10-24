@@ -1,5 +1,4 @@
-Coronaviridae FAMILY
-=======
+# Coronaviridae FAMILY
 
 #### Status
 ACCEPTED

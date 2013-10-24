@@ -1,5 +1,4 @@
-Lecanora praecrenata Nyl. SPECIES
-=======
+# Lecanora praecrenata Nyl. SPECIES
 
 #### Status
 ACCEPTED

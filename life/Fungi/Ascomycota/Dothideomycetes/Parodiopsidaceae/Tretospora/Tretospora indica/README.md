@@ -1,5 +1,4 @@
-Tretospora indica Narayan & Kamal, 1986 SPECIES
-=======
+# Tretospora indica Narayan & Kamal, 1986 SPECIES
 
 #### Status
 ACCEPTED

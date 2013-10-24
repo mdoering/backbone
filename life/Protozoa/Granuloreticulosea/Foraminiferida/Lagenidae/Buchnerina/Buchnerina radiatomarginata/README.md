@@ -1,5 +1,4 @@
-Buchnerina radiatomarginata (Parker & Jones, 1865) SPECIES
-=======
+# Buchnerina radiatomarginata (Parker & Jones, 1865) SPECIES
 
 #### Status
 ACCEPTED

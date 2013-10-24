@@ -1,5 +1,4 @@
-Opegrapha agelaea var. agelaea VARIETY
-=======
+# Opegrapha agelaea Fée SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opegrapha agelaea var. agelaea
+Opegrapha agelaea Fée
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Microthyriella swartziae Bat. & Gayão SPECIES
-=======
+# Microthyriella swartziae Bat. & Gayão SPECIES
 
 #### Status
 ACCEPTED

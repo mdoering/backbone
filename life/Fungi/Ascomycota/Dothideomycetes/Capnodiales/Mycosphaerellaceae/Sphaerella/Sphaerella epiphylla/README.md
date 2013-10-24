@@ -1,5 +1,4 @@
-Sphaerella epiphylla Kirschst. SPECIES
-=======
+# Sphaerella epiphylla Kirschst. SPECIES
 
 #### Status
 ACCEPTED

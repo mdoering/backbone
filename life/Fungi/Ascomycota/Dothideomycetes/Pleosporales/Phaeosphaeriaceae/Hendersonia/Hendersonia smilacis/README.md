@@ -1,5 +1,4 @@
-Hendersonia smilacis Rolland SPECIES
-=======
+# Hendersonia smilacis Rolland SPECIES
 
 #### Status
 ACCEPTED

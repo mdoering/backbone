@@ -1,5 +1,4 @@
-Julella myrticola (B. de Lesd.) M.E. Barr SPECIES
-=======
+# Julella myrticola (B. de Lesd.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

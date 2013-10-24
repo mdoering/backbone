@@ -1,5 +1,4 @@
-Bacidia atricha (Vain.) SPECIES
-=======
+# Bacidia atricha (Vain.) SPECIES
 
 #### Status
 ACCEPTED

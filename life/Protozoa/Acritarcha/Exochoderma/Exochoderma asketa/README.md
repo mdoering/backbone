@@ -1,5 +1,4 @@
-Exochoderma asketa Wicander & Loeblich, 1977 SPECIES
-=======
+# Exochoderma asketa Wicander & Loeblich, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopharia albida Rick SPECIES
-=======
+# Lopharia albida Rick SPECIES
 
 #### Status
 ACCEPTED

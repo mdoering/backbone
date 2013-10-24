@@ -1,5 +1,4 @@
-Mycosphaerella delphiniicola Tracy & Earle SPECIES
-=======
+# Mycosphaerella delphiniicola Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

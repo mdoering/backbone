@@ -1,5 +1,4 @@
-Chaetoceros thienemannii Hustedt SPECIES
-=======
+# Chaetoceros thienemannii Hustedt SPECIES
 
 #### Status
 ACCEPTED

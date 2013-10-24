@@ -1,5 +1,4 @@
-Arcangeliella variegata Thiers SPECIES
-=======
+# Arcangeliella variegata Thiers SPECIES
 
 #### Status
 ACCEPTED

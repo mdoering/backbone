@@ -1,5 +1,4 @@
-Conisphaeria Cooke GENUS
-=======
+# Conisphaeria Cooke GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia secedens SPECIES
-=======
+# Buellia secedens SPECIES
 
 #### Status
 ACCEPTED

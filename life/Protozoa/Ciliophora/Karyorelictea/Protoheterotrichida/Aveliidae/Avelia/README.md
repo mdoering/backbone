@@ -1,17 +1,16 @@
-Avela Nouzarede, 1975 GENUS
-=======
+# Avelia Nouzarède, 1977 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. hebd. Seanc. Acad. Sci. , Paris (D) 280: 625.
+Bull. Stn Biol. Arcachon (N. S. ) 28 (Suppl. ): 39.
 
 #### Original name
-null
+Avela Nouzarede, 1975
 
 ### Remarks
 null

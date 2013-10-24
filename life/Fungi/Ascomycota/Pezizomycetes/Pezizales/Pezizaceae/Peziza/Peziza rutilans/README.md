@@ -1,5 +1,4 @@
-Peziza rutilans SPECIES
-=======
+# Peziza rutilans SPECIES
 
 #### Status
 ACCEPTED

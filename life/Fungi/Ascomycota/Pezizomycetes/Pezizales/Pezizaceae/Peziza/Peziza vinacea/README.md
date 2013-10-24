@@ -1,5 +1,4 @@
-Peziza vinacea Rabenh. SPECIES
-=======
+# Peziza vinacea Rabenh. SPECIES
 
 #### Status
 ACCEPTED

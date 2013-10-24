@@ -1,5 +1,4 @@
-Sphaerella castanella Cooke & Ellis SPECIES
-=======
+# Sphaerella castanella Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

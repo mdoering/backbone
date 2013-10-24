@@ -1,5 +1,4 @@
-Stellatospora terricola Tad. Ito & Nakagiri, 1994 SPECIES
-=======
+# Stellatospora terricola Tad. Ito & Nakagiri, 1994 SPECIES
 
 #### Status
 ACCEPTED

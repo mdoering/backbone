@@ -1,5 +1,4 @@
-Marasmiellus graminis (Murrill) Singer & Hauskn. SPECIES
-=======
+# Marasmiellus graminis (Murrill) Singer & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

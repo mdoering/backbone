@@ -1,5 +1,4 @@
-Agaricus pauletii Fr. SPECIES
-=======
+# Agaricus pauletii Fr. SPECIES
 
 #### Status
 ACCEPTED

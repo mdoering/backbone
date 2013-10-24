@@ -1,5 +1,4 @@
-Ramaria flavissima Schild SPECIES
-=======
+# Ramaria flavissima Schild SPECIES
 
 #### Status
 ACCEPTED

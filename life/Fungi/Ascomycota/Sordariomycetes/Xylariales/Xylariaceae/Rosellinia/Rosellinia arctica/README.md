@@ -1,5 +1,4 @@
-Rosellinia arctica (Fuckel) Sacc. SPECIES
-=======
+# Rosellinia arctica (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

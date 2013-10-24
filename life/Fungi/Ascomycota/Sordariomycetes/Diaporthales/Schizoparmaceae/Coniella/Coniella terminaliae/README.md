@@ -1,5 +1,4 @@
-Coniella terminaliae Firdousi, C.D. Sharma & K.M. Vyas SPECIES
-=======
+# Coniella terminaliae Firdousi, C.D. Sharma & K.M. Vyas SPECIES
 
 #### Status
 ACCEPTED

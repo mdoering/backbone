@@ -1,5 +1,4 @@
-Polyangium primigenium Quél. SPECIES
-=======
+# Polyangium primigenium Quél. SPECIES
 
 #### Status
 ACCEPTED

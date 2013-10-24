@@ -1,5 +1,4 @@
-Tricholoma bresadolae Clemençon SPECIES
-=======
+# Tricholoma bresadolae Clemençon SPECIES
 
 #### Status
 ACCEPTED

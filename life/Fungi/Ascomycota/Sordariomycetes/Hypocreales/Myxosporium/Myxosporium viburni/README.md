@@ -1,5 +1,4 @@
-Myxosporium viburni Fautrey SPECIES
-=======
+# Myxosporium viburni Fautrey SPECIES
 
 #### Status
 ACCEPTED

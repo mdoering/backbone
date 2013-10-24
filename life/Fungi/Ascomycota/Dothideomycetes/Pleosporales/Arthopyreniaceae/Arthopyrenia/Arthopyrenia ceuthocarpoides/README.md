@@ -1,5 +1,4 @@
-Arthopyrenia ceuthocarpoides Müll. Arg. SPECIES
-=======
+# Arthopyrenia ceuthocarpoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

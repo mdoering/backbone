@@ -1,5 +1,4 @@
-Carpodinium granulatum Cookson & Eisenack, 1962 SPECIES
-=======
+# Carpodinium granulatum Cookson & Eisenack, 1962 SPECIES
 
 #### Status
 ACCEPTED

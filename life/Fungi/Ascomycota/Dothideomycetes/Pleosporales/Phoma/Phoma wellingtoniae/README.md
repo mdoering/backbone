@@ -1,5 +1,4 @@
-Phoma wellingtoniae Oudem. SPECIES
-=======
+# Phoma wellingtoniae Oudem. SPECIES
 
 #### Status
 ACCEPTED

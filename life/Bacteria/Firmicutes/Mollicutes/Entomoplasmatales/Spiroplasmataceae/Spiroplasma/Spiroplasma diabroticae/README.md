@@ -1,5 +1,4 @@
-Spiroplasma diabroticae Carle et al., 1997 SPECIES
-=======
+# Spiroplasma diabroticae Carle et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

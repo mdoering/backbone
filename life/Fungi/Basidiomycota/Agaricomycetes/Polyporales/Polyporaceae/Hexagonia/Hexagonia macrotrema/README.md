@@ -1,5 +1,4 @@
-Hexagonia macrotrema Jungh. SPECIES
-=======
+# Hexagonia macrotrema Jungh. SPECIES
 
 #### Status
 ACCEPTED

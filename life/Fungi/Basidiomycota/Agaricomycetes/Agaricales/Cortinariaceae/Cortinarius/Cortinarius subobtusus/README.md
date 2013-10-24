@@ -1,5 +1,4 @@
-Cortinarius subobtusus Kauffman & A.H. Sm. SPECIES
-=======
+# Cortinarius subobtusus Kauffman & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

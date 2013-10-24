@@ -1,5 +1,4 @@
-Galera oreina Sm. & Singer SPECIES
-=======
+# Galera oreina Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

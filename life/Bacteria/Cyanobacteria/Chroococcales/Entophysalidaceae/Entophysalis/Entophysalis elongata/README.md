@@ -1,5 +1,4 @@
-Entophysalis elongata (Wille) Drouet & Daily SPECIES
-=======
+# Entophysalis elongata (Wille) Drouet & Daily SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea tenuirimata (Th. Fr.) Leight. SPECIES
-=======
+# Lecidea tenuirimata (Th. Fr.) Leight. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus cremeus Corner SPECIES
-=======
+# Boletus cremeus Corner SPECIES
 
 #### Status
 ACCEPTED

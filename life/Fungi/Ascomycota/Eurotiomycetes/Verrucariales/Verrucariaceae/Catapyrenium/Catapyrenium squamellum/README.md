@@ -1,5 +1,4 @@
-Catapyrenium squamellum (Nyl.) J. W. Thomson SPECIES
-=======
+# Catapyrenium squamellum (Nyl.) J. W. Thomson SPECIES
 
 #### Status
 ACCEPTED

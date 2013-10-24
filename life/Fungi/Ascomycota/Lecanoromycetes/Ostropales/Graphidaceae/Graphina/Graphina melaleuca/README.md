@@ -1,5 +1,4 @@
-Graphina melaleuca Müll. Arg. SPECIES
-=======
+# Graphina melaleuca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

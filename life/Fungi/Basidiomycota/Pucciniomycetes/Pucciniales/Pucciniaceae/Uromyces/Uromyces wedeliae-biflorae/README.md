@@ -1,5 +1,4 @@
-Uromyces wedeliae-biflorae Boedijn SPECIES
-=======
+# Uromyces wedeliae-biflorae Boedijn SPECIES
 
 #### Status
 ACCEPTED

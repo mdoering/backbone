@@ -1,5 +1,4 @@
-Sarcographa fulva Fée SPECIES
-=======
+# Sarcographa fulva Fée SPECIES
 
 #### Status
 ACCEPTED

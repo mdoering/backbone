@@ -1,5 +1,4 @@
-Leptosphaerulina ricini Karan SPECIES
-=======
+# Leptosphaerulina ricini Karan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pollaccia sinensis W.P. Wu & B. Sutton SPECIES
-=======
+# Pollaccia sinensis W.P. Wu & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

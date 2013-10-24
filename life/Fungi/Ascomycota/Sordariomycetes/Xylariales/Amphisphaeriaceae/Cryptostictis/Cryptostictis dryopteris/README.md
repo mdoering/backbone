@@ -1,5 +1,4 @@
-Cryptostictis dryopteris Verwoerd & Du Plessis SPECIES
-=======
+# Cryptostictis dryopteris Verwoerd & Du Plessis SPECIES
 
 #### Status
 ACCEPTED

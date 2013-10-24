@@ -1,5 +1,4 @@
-Parmelia lesothoensis (Hale) Brusse SPECIES
-=======
+# Parmelia lesothoensis (Hale) Brusse SPECIES
 
 #### Status
 ACCEPTED

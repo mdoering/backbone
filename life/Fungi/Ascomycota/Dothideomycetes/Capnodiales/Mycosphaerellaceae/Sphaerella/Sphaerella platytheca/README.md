@@ -1,5 +1,4 @@
-Sphaerella platytheca P. Karst. SPECIES
-=======
+# Sphaerella platytheca P. Karst. SPECIES
 
 #### Status
 ACCEPTED

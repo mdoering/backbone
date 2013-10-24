@@ -1,5 +1,4 @@
-Sphacelotheca mauritiana Zundel SPECIES
-=======
+# Sphacelotheca mauritiana Zundel SPECIES
 
 #### Status
 ACCEPTED

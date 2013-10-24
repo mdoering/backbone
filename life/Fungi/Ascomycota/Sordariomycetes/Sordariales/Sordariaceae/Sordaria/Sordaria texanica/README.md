@@ -1,5 +1,4 @@
-Sordaria texanica (Rehm) Doguet SPECIES
-=======
+# Sordaria texanica (Rehm) Doguet SPECIES
 
 #### Status
 ACCEPTED

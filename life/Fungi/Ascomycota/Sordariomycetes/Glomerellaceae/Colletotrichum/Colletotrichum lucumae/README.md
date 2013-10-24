@@ -1,5 +1,4 @@
-Colletotrichum lucumae Novoss. SPECIES
-=======
+# Colletotrichum lucumae Novoss. SPECIES
 
 #### Status
 ACCEPTED

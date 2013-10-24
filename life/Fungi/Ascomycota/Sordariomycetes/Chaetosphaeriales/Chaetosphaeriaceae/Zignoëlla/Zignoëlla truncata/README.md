@@ -1,5 +1,4 @@
-Zignoëlla truncata Rehm SPECIES
-=======
+# Zignoëlla truncata Rehm SPECIES
 
 #### Status
 ACCEPTED

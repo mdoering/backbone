@@ -1,5 +1,4 @@
-Halospina denitrificans Sorokin et al., 2006 SPECIES
-=======
+# Halospina denitrificans Sorokin et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium idesiae Bres. SPECIES
-=======
+# Cladosporium idesiae Bres. SPECIES
 
 #### Status
 ACCEPTED

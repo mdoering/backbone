@@ -1,5 +1,4 @@
-Ophiobolus epilobii Gucevic SPECIES
-=======
+# Ophiobolus epilobii Gucevic SPECIES
 
 #### Status
 ACCEPTED

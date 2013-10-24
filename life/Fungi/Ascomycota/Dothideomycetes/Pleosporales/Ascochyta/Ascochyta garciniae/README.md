@@ -1,5 +1,4 @@
-Ascochyta garciniae Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Ascochyta garciniae Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

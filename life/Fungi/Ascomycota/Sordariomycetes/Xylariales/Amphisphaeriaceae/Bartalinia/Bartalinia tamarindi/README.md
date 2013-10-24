@@ -1,5 +1,4 @@
-Bartalinia tamarindi Nag Raj SPECIES
-=======
+# Bartalinia tamarindi Nag Raj SPECIES
 
 #### Status
 ACCEPTED

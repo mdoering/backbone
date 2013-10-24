@@ -1,5 +1,4 @@
-Amphisphaeria australis Speg. SPECIES
-=======
+# Amphisphaeria australis Speg. SPECIES
 
 #### Status
 ACCEPTED

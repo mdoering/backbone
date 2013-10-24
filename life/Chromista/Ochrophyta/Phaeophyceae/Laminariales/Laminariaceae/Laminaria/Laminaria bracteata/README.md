@@ -1,5 +1,4 @@
-Laminaria bracteata (S. G. Gmelin) Steudel SPECIES
-=======
+# Laminaria bracteata (S. G. Gmelin) Steudel SPECIES
 
 #### Status
 ACCEPTED

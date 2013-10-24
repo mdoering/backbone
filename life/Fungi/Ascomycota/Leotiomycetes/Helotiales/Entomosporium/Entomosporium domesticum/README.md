@@ -1,5 +1,4 @@
-Entomosporium domesticum Sacc. SPECIES
-=======
+# Entomosporium domesticum Sacc. SPECIES
 
 #### Status
 ACCEPTED

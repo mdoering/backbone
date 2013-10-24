@@ -1,5 +1,4 @@
-Tremella cinerea Bonord. SPECIES
-=======
+# Tremella cinerea Bonord. SPECIES
 
 #### Status
 ACCEPTED

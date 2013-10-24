@@ -1,5 +1,4 @@
-Diplodia parasitica anon. SPECIES
-=======
+# Diplodia parasitica anon. SPECIES
 
 #### Status
 ACCEPTED

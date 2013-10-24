@@ -1,8 +1,7 @@
-Gymnodinium pseudonoctiluca Pouchet SPECIES
-=======
+# Spatulodinium pseudonoctiluca (Pouchet) Cachon & Cachon ex Loeblich & Loeblich SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

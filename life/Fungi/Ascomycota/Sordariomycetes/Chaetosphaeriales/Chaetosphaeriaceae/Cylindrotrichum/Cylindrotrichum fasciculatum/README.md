@@ -1,5 +1,4 @@
-Cylindrotrichum fasciculatum Mercado SPECIES
-=======
+# Cylindrotrichum fasciculatum Mercado SPECIES
 
 #### Status
 ACCEPTED

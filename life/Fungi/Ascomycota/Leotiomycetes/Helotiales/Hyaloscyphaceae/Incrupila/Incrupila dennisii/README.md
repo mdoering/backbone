@@ -1,5 +1,4 @@
-Incrupila dennisii (E. Müll.) E. Müll. SPECIES
-=======
+# Incrupila dennisii (E. Müll.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

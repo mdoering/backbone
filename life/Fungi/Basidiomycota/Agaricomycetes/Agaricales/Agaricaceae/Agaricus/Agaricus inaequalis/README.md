@@ -1,5 +1,4 @@
-Agaricus inaequalis Weinm. SPECIES
-=======
+# Agaricus inaequalis Weinm. SPECIES
 
 #### Status
 ACCEPTED

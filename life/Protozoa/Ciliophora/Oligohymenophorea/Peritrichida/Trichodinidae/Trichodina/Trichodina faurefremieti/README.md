@@ -1,5 +1,4 @@
-Trichodina faurefremieti SPECIES
-=======
+# Trichodina faurefremieti SPECIES
 
 #### Status
 ACCEPTED

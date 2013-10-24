@@ -1,8 +1,7 @@
-Sphaerophrya melosirae Gajewskaja, 1933 SPECIES
-=======
+# Trichophrya melosirae (Gajewskaja, 1933) Dovgal, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Folliculina latemarginata Hadzi, 1938 SPECIES
-=======
+# Folliculina latemarginata Hadzi, 1938 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peristomialis parilis (Syd.) Samuels SPECIES
-=======
+# Peristomialis parilis (Syd.) Samuels SPECIES
 
 #### Status
 ACCEPTED

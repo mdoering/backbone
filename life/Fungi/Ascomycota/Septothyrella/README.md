@@ -1,5 +1,4 @@
-Septothyrella Höhn. GENUS
-=======
+# Septothyrella Höhn. GENUS
 
 #### Status
 ACCEPTED

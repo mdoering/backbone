@@ -1,5 +1,4 @@
-Trithigmostoma chattoni (Mac Dougall, 1936) Foissner, 1988 SPECIES
-=======
+# Trithigmostoma chattoni (Mac Dougall, 1936) Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

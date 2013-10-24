@@ -1,5 +1,4 @@
-Dictyophora campanulata Nees SPECIES
-=======
+# Dictyophora campanulata Nees SPECIES
 
 #### Status
 ACCEPTED

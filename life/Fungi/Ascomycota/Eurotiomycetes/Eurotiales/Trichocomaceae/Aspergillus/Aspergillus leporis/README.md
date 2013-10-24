@@ -1,5 +1,4 @@
-Aspergillus leporis States & M. Chr., 1966 SPECIES
-=======
+# Aspergillus leporis States & M. Chr., 1966 SPECIES
 
 #### Status
 ACCEPTED

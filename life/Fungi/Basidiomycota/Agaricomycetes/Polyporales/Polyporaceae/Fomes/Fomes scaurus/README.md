@@ -1,5 +1,4 @@
-Fomes scaurus Lloyd SPECIES
-=======
+# Fomes scaurus Lloyd SPECIES
 
 #### Status
 ACCEPTED

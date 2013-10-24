@@ -1,5 +1,4 @@
-Broinsonia galloisii SPECIES
-=======
+# Broinsonia galloisii SPECIES
 
 #### Status
 ACCEPTED

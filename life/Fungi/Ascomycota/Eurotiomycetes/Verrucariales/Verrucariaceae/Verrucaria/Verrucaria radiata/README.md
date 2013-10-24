@@ -1,5 +1,4 @@
-Verrucaria radiata (J. W. Thomson) Breuss SPECIES
-=======
+# Verrucaria radiata (J. W. Thomson) Breuss SPECIES
 
 #### Status
 ACCEPTED

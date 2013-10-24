@@ -1,5 +1,4 @@
-Lacellinopsis osmaniae Satyanar. & D. Rao SPECIES
-=======
+# Lacellinopsis osmaniae Satyanar. & D. Rao SPECIES
 
 #### Status
 ACCEPTED

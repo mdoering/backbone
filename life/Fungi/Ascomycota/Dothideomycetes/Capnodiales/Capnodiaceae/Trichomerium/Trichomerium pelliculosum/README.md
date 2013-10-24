@@ -1,5 +1,4 @@
-Trichomerium pelliculosum (Berk. & Ravenel) Cif. & Bat. SPECIES
-=======
+# Trichomerium pelliculosum (Berk. & Ravenel) Cif. & Bat. SPECIES
 
 #### Status
 ACCEPTED

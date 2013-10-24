@@ -1,5 +1,4 @@
-Corynelia sydowii Petr. SPECIES
-=======
+# Corynelia sydowii Petr. SPECIES
 
 #### Status
 ACCEPTED

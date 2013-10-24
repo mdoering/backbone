@@ -1,5 +1,4 @@
-Phaeosphaeria borealis Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria borealis Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

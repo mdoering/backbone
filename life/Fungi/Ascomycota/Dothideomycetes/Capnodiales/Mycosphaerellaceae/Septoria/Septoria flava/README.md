@@ -1,5 +1,4 @@
-Septoria flava Baudy SPECIES
-=======
+# Septoria flava Baudy SPECIES
 
 #### Status
 ACCEPTED

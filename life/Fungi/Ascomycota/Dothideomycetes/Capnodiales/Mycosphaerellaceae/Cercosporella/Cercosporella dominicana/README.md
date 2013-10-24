@@ -1,5 +1,4 @@
-Cercosporella dominicana Petr. & Cif. SPECIES
-=======
+# Cercosporella dominicana Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

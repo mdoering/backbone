@@ -1,5 +1,4 @@
-Pyrenochaeta magna Curzi SPECIES
-=======
+# Pyrenochaeta magna Curzi SPECIES
 
 #### Status
 ACCEPTED

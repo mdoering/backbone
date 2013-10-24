@@ -1,5 +1,4 @@
-Massarina canadensis (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Massarina canadensis (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Parmelia pseudoglabra Essl. SPECIES
-=======
+# Melanelia pseudoglabra (Essl.) Essl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Hattori bot. Lab. 42: 84 (1977)
+Mycotaxon 7(1): 48 (1978)
 
 #### Original name
 Parmelia pseudoglabra Essl.

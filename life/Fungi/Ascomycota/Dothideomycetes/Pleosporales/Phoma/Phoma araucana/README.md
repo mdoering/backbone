@@ -1,5 +1,4 @@
-Phoma araucana Speg. SPECIES
-=======
+# Phoma araucana Speg. SPECIES
 
 #### Status
 ACCEPTED

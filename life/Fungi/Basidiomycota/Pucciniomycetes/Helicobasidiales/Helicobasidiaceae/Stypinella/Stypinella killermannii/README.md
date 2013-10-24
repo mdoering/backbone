@@ -1,17 +1,16 @@
-Stypinella killermanni Bres. SPECIES
-=======
+# Stypinella killermannii Bres. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Denkschr. Regensb. bot. Ges. 15: 34 (1922)
 
 #### Original name
-Stypinella killermanni Bres.
+Stypinella killermannii Bres.
 
 ### Remarks
 null

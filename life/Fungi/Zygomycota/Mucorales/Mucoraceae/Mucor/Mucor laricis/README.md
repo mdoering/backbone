@@ -1,5 +1,4 @@
-Mucor laricis Nirenberg & Kwasna SPECIES
-=======
+# Mucor laricis Nirenberg & Kwasna SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polyporus sarcites Fr., 1851 SPECIES
-=======
+# Phellinus sarcites (Fr.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 66 (1851)
+Norw. Jl Bot. 19: 235 (1972)
 
 #### Original name
 Polyporus sarcites Fr., 1851

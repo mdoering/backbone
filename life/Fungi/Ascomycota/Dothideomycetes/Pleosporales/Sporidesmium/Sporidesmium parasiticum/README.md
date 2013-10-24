@@ -1,5 +1,4 @@
-Sporidesmium parasiticum Cooke SPECIES
-=======
+# Sporidesmium parasiticum Cooke SPECIES
 
 #### Status
 ACCEPTED

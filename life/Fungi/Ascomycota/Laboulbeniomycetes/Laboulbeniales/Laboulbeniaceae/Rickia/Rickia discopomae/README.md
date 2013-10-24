@@ -1,5 +1,4 @@
-Rickia discopomae Thaxt. SPECIES
-=======
+# Rickia discopomae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

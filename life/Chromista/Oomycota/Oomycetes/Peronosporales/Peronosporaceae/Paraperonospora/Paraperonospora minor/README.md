@@ -1,17 +1,16 @@
-Peronospora sulfurea f. minor Savul. & Rayss FORM
-=======
+# Paraperonospora minor (Savul. & Rayss) Constant., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 41: 93 (1989)
 
 #### Original name
-Peronospora sulfurea f. minor Savul. & Rayss
+Peronospora sulphurea f. minor Savul. & Rayss, 1930
 
 ### Remarks
 null

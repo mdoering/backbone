@@ -1,5 +1,4 @@
-Aecidium hippocrateae Dietel SPECIES
-=======
+# Aecidium hippocrateae Dietel SPECIES
 
 #### Status
 ACCEPTED

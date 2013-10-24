@@ -1,5 +1,4 @@
-Zignoëlla fraxinicola Lambotte & Fautrey SPECIES
-=======
+# Zignoëlla fraxinicola Lambotte & Fautrey SPECIES
 
 #### Status
 ACCEPTED

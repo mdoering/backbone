@@ -1,8 +1,7 @@
-Hyalodiscus stelliger J.W. Bailey SPECIES
-=======
+# Podosira stelligera (J.W. Bailey) Mann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

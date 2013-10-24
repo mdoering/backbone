@@ -1,5 +1,4 @@
-Globulina martialis Velen. SPECIES
-=======
+# Globulina martialis Velen. SPECIES
 
 #### Status
 ACCEPTED

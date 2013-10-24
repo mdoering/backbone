@@ -1,5 +1,4 @@
-Pestalopezia rhododendri Seaver, 1942 SPECIES
-=======
+# Pestalopezia rhododendri Seaver, 1942 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera abeliae Homma SPECIES
-=======
+# Microsphaera abeliae Homma SPECIES
 
 #### Status
 ACCEPTED

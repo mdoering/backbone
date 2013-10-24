@@ -1,5 +1,4 @@
-Lecidea polisensis Nyl. SPECIES
-=======
+# Lecidea polisensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

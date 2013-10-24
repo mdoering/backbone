@@ -1,5 +1,4 @@
-Verrucaria mori Rehm SPECIES
-=======
+# Verrucaria mori Rehm SPECIES
 
 #### Status
 ACCEPTED

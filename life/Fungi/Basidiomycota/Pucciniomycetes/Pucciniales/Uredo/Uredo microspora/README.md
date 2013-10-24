@@ -1,5 +1,4 @@
-Uredo microspora (Vize) Sacc. SPECIES
-=======
+# Uredo microspora (Vize) Sacc. SPECIES
 
 #### Status
 ACCEPTED

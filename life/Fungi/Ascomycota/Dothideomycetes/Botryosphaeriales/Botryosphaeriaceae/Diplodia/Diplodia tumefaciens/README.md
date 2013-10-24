@@ -1,5 +1,4 @@
-Diplodia tumefaciens (Shear) Zalasky SPECIES
-=======
+# Diplodia tumefaciens (Shear) Zalasky SPECIES
 
 #### Status
 ACCEPTED

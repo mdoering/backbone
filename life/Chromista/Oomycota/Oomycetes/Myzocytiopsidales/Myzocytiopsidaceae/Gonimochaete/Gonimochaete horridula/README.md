@@ -1,5 +1,4 @@
-Gonimochaete horridula Drechsler, 1946 SPECIES
-=======
+# Gonimochaete horridula Drechsler, 1946 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aquiflexum Brettar, Christen & Hofle, 2004 GENUS
-=======
+# Aquiflexum Brettar, Christen & Hofle, 2004 GENUS
 
 #### Status
 ACCEPTED

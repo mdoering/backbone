@@ -1,5 +1,4 @@
-Chamaeceras pruinatus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras pruinatus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

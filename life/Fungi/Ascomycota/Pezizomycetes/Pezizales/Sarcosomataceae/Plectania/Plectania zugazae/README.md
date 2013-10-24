@@ -1,5 +1,4 @@
-Plectania zugazae Calonge & A. García SPECIES
-=======
+# Plectania zugazae Calonge & A. García SPECIES
 
 #### Status
 ACCEPTED

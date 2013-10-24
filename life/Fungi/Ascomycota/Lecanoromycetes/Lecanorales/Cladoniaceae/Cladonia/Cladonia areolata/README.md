@@ -1,5 +1,4 @@
-Cladonia areolata Nyl. SPECIES
-=======
+# Cladonia areolata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Holosticha flava SPECIES
-=======
+# Pseudokeronopsis flava (Cohn, 1866) Wirnsberger, Larsen & Uhlig, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

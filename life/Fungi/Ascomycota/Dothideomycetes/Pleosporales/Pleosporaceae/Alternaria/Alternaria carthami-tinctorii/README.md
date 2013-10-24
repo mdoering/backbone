@@ -1,5 +1,4 @@
-Alternaria carthami-tinctorii T.Y. Zhang & Y.L. Guo SPECIES
-=======
+# Alternaria carthami-tinctorii T.Y. Zhang & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

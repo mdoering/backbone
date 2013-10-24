@@ -1,5 +1,4 @@
-Peziza pini-strobi Pers. SPECIES
-=======
+# Peziza pini-strobi Pers. SPECIES
 
 #### Status
 ACCEPTED

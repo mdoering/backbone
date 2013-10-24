@@ -1,5 +1,4 @@
-Ditripodium Hovasse, 1932 GENUS
-=======
+# Ditripodium Hovasse, 1932 GENUS
 
 #### Status
 ACCEPTED

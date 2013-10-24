@@ -1,5 +1,4 @@
-Lecanora lugens Stizenb. SPECIES
-=======
+# Lecanora lugens Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora tephra (Hue) Zahlbr. SPECIES
-=======
+# Lecanora tephra (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

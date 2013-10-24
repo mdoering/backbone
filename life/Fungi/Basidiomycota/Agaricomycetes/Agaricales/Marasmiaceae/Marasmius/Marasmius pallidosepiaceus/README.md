@@ -1,8 +1,7 @@
-Marasmius pallide-sepiaceus Henn. SPECIES
-=======
+# Marasmius pallidosepiaceus Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius pallide-sepiaceus Henn.
+Marasmius pallidosepiaceus Henn.
 
 ### Remarks
 null

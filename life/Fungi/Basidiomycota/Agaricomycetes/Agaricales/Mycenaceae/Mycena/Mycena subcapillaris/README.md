@@ -1,5 +1,4 @@
-Mycena subcapillaris Cleland SPECIES
-=======
+# Mycena subcapillaris Cleland SPECIES
 
 #### Status
 ACCEPTED

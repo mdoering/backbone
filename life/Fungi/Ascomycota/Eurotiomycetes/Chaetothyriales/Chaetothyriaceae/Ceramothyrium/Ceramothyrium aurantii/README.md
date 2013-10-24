@@ -1,5 +1,4 @@
-Ceramothyrium aurantii Bat. & H. Maia SPECIES
-=======
+# Ceramothyrium aurantii Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

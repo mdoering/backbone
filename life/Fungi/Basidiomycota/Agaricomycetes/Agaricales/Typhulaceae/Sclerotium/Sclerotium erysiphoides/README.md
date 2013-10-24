@@ -1,5 +1,4 @@
-Sclerotium erysiphoides P. Karst. SPECIES
-=======
+# Sclerotium erysiphoides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

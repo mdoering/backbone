@@ -1,5 +1,4 @@
-Asterina arecacearum Hosag., T.K. Abraham & C.K. Biju SPECIES
-=======
+# Asterina arecacearum Hosag., T.K. Abraham & C.K. Biju SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroplectinata jagapathyii Rasheed, 1962 SPECIES
-=======
+# Spiroplectinata jagapathyii Rasheed, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Verrucaria rupestris f. rupestris FORM
-=======
+# Verrucaria muralis Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Spicil. Fl. Germ. 1: 109 (1794)
+Method. Lich. 115 (1803)
 
 #### Original name
-Verrucaria rupestris f. rupestris
+Verrucaria muralis Ach.
 
 ### Remarks
 null

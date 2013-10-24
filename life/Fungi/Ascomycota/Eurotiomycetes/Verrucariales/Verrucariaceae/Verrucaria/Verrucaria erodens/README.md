@@ -1,5 +1,4 @@
-Verrucaria erodens Müll. Arg. SPECIES
-=======
+# Verrucaria erodens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

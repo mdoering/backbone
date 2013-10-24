@@ -1,5 +1,4 @@
-Ascocoryne albidum (Berk.) SPECIES
-=======
+# Ascocoryne albidum (Berk.) SPECIES
 
 #### Status
 ACCEPTED

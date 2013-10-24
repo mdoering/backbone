@@ -1,5 +1,4 @@
-Mannheimia glucosida Angen et al., 1999 SPECIES
-=======
+# Mannheimia glucosida Angen et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

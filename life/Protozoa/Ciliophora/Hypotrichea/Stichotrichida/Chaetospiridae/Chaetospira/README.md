@@ -1,5 +1,4 @@
-Chaetospira Lachmann, 1856 GENUS
-=======
+# Chaetospira Lachmann, 1856 GENUS
 
 #### Status
 ACCEPTED

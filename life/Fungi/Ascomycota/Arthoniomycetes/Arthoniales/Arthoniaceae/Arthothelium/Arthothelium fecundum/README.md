@@ -1,5 +1,4 @@
-Arthothelium fecundum SPECIES
-=======
+# Arthothelium fecundum SPECIES
 
 #### Status
 ACCEPTED

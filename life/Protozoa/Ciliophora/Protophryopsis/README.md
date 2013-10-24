@@ -1,5 +1,4 @@
-Protophryopsis GENUS
-=======
+# Protophryopsis GENUS
 
 #### Status
 ACCEPTED

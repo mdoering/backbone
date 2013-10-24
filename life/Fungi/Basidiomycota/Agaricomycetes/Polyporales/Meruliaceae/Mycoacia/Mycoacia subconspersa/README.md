@@ -1,14 +1,13 @@
-Odontia subconspersa Rick, 1959 SPECIES
-=======
+# Mycoacia subconspersa (Rick) Hjortstam & Ryvarden, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rambo (Ed. ), Iheringia, Sér. Bot. 5: 164 (1959)
+Mycotaxon 15: 272 (1982)
 
 #### Original name
 Odontia subconspersa Rick, 1959

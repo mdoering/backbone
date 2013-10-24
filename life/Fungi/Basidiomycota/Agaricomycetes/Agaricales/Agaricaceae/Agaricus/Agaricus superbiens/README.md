@@ -1,5 +1,4 @@
-Agaricus superbiens Schulzer SPECIES
-=======
+# Agaricus superbiens Schulzer SPECIES
 
 #### Status
 ACCEPTED

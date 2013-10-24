@@ -1,5 +1,4 @@
-Metasphaeria sambucina Feltgen SPECIES
-=======
+# Metasphaeria sambucina Feltgen SPECIES
 
 #### Status
 ACCEPTED

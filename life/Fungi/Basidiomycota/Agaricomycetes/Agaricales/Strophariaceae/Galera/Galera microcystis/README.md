@@ -1,5 +1,4 @@
-Galera microcystis Velen. SPECIES
-=======
+# Galera microcystis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroococcopsis epiphytica Geitler SPECIES
-=======
+# Chroococcopsis epiphytica Geitler SPECIES
 
 #### Status
 ACCEPTED

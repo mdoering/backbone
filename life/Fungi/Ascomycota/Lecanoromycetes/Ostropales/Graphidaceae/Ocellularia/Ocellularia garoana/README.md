@@ -1,5 +1,4 @@
-Ocellularia garoana Patw. & Nagarkar SPECIES
-=======
+# Ocellularia garoana Patw. & Nagarkar SPECIES
 
 #### Status
 ACCEPTED

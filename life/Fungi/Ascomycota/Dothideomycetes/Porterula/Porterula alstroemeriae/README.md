@@ -1,5 +1,4 @@
-Porterula alstroemeriae Speg. SPECIES
-=======
+# Porterula alstroemeriae Speg. SPECIES
 
 #### Status
 ACCEPTED

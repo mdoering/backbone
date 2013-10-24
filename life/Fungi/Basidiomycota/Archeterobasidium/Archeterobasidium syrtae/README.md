@@ -1,5 +1,4 @@
-Archeterobasidium syrtae Koeniguer & Locq. SPECIES
-=======
+# Archeterobasidium syrtae Koeniguer & Locq. SPECIES
 
 #### Status
 ACCEPTED

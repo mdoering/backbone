@@ -1,5 +1,4 @@
-Sphaerophycus J.W.Schopf, 1968 GENUS
-=======
+# Sphaerophycus J.W.Schopf, 1968 GENUS
 
 #### Status
 ACCEPTED

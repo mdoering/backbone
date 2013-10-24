@@ -1,5 +1,4 @@
-Pemma Klumpp GENUS
-=======
+# Pemma Klumpp GENUS
 
 #### Status
 ACCEPTED

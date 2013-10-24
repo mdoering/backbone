@@ -1,5 +1,4 @@
-Clitopilus washingtoniensis Braendle SPECIES
-=======
+# Clitopilus washingtoniensis Braendle SPECIES
 
 #### Status
 ACCEPTED

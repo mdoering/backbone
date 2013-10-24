@@ -1,5 +1,4 @@
-Eupenicillium gladioli L. McCulloch & Thom SPECIES
-=======
+# Eupenicillium gladioli L. McCulloch & Thom SPECIES
 
 #### Status
 ACCEPTED

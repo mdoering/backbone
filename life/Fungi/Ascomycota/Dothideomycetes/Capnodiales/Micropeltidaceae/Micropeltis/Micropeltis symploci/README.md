@@ -1,5 +1,4 @@
-Micropeltis symploci W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
-=======
+# Micropeltis symploci W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
 
 #### Status
 ACCEPTED

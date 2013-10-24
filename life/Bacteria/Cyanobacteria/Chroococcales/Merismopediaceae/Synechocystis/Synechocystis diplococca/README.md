@@ -1,5 +1,4 @@
-Synechocystis diplococca (Pringsheim) Bourrelly SPECIES
-=======
+# Synechocystis diplococca (Pringsheim) Bourrelly SPECIES
 
 #### Status
 ACCEPTED

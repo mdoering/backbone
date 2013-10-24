@@ -1,5 +1,4 @@
-Agaricus margaritaceus Schaeff. SPECIES
-=======
+# Agaricus margaritaceus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

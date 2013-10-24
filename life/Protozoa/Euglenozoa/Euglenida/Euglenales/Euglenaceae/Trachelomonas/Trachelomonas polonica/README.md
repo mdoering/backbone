@@ -1,5 +1,4 @@
-Trachelomonas polonica Drezepolski SPECIES
-=======
+# Trachelomonas polonica Drezepolski SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcogyne medusula C.W. Dodge SPECIES
-=======
+# Sarcogyne medusula C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

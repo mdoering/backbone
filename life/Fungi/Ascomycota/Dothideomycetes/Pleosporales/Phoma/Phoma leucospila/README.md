@@ -1,5 +1,4 @@
-Phoma leucospila Pass. SPECIES
-=======
+# Phoma leucospila Pass. SPECIES
 
 #### Status
 ACCEPTED

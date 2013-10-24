@@ -1,5 +1,4 @@
-Melanomphalia platensis (Speg.) Singer SPECIES
-=======
+# Melanomphalia platensis (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

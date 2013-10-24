@@ -1,5 +1,4 @@
-Saccisporonites Kalgutkar & Janson. GENUS
-=======
+# Saccisporonites Kalgutkar & Janson. GENUS
 
 #### Status
 ACCEPTED

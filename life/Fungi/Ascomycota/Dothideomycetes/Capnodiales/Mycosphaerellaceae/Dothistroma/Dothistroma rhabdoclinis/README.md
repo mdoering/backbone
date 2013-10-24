@@ -1,5 +1,4 @@
-Dothistroma rhabdoclinis Butin SPECIES
-=======
+# Dothistroma rhabdoclinis Butin SPECIES
 
 #### Status
 ACCEPTED

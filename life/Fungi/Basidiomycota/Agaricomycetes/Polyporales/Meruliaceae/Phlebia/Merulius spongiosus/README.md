@@ -1,5 +1,4 @@
-Merulius spongiosus Fr. SPECIES
-=======
+# Merulius spongiosus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta circumsepta Sacc. SPECIES
-=======
+# Phyllosticta circumsepta Sacc. SPECIES
 
 #### Status
 ACCEPTED

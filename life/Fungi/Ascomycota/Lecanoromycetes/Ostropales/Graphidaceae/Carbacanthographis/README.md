@@ -1,5 +1,4 @@
-Carbacanthographis Staiger & Kalb GENUS
-=======
+# Carbacanthographis Staiger & Kalb GENUS
 
 #### Status
 ACCEPTED

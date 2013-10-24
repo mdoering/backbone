@@ -1,5 +1,4 @@
-Cladonia merrillii Sandst. SPECIES
-=======
+# Cladonia merrillii Sandst. SPECIES
 
 #### Status
 ACCEPTED

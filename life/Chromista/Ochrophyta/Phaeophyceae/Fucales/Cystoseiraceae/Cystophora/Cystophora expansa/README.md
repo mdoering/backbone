@@ -1,5 +1,4 @@
-Cystophora expansa Womersley SPECIES
-=======
+# Cystophora expansa Womersley SPECIES
 
 #### Status
 ACCEPTED

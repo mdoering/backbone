@@ -1,5 +1,4 @@
-Tricholeconium fuscum Corda SPECIES
-=======
+# Tricholeconium fuscum Corda SPECIES
 
 #### Status
 ACCEPTED

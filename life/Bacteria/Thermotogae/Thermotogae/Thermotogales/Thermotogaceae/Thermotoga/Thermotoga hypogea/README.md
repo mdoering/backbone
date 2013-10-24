@@ -1,5 +1,4 @@
-Thermotoga hypogea Fardeau et al., 1997 SPECIES
-=======
+# Thermotoga hypogea Fardeau et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

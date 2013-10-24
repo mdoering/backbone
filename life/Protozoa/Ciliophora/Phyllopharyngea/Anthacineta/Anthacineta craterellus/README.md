@@ -1,5 +1,4 @@
-Anthacineta craterellus (Collin, 1909) Jankowski, 1978 SPECIES
-=======
+# Anthacineta craterellus (Collin, 1909) Jankowski, 1978 SPECIES
 
 #### Status
 ACCEPTED

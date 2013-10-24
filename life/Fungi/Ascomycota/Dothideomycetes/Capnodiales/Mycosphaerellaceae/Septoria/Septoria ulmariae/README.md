@@ -1,5 +1,4 @@
-Septoria ulmariae Oudem., 1876 SPECIES
-=======
+# Septoria ulmariae Oudem., 1876 SPECIES
 
 #### Status
 ACCEPTED

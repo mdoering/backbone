@@ -1,5 +1,4 @@
-Kalmusia amphiloga (Petr.) O.E. Erikss. SPECIES
-=======
+# Kalmusia amphiloga (Petr.) O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

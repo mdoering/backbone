@@ -1,5 +1,4 @@
-Karlingia aurantiaca SPECIES
-=======
+# Karlingia aurantiaca SPECIES
 
 #### Status
 ACCEPTED

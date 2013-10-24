@@ -1,5 +1,4 @@
-Tremella umbilicata Schrank SPECIES
-=======
+# Tremella umbilicata Schrank SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora holopteleae Chidd. SPECIES
-=======
+# Cercospora holopteleae Chidd. SPECIES
 
 #### Status
 ACCEPTED

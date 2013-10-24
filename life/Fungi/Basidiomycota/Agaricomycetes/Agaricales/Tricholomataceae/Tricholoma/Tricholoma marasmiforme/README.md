@@ -1,5 +1,4 @@
-Tricholoma marasmiforme Velen. SPECIES
-=======
+# Tricholoma marasmiforme Velen. SPECIES
 
 #### Status
 ACCEPTED

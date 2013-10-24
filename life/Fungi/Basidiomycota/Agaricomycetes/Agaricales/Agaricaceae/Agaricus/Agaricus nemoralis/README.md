@@ -1,5 +1,4 @@
-Agaricus nemoralis With. SPECIES
-=======
+# Agaricus nemoralis With. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia nigrescens Schwein. SPECIES
-=======
+# Tubercularia nigrescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

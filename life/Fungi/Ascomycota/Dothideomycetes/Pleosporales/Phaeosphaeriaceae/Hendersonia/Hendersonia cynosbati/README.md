@@ -1,5 +1,4 @@
-Hendersonia cynosbati Fuckel SPECIES
-=======
+# Hendersonia cynosbati Fuckel SPECIES
 
 #### Status
 ACCEPTED

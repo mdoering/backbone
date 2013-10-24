@@ -1,5 +1,4 @@
-Endogone tuberculosa Lloyd SPECIES
-=======
+# Endogone tuberculosa Lloyd SPECIES
 
 #### Status
 ACCEPTED

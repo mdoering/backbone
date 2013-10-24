@@ -1,5 +1,4 @@
-Engelhardtiella alba A. Funk, 1973 SPECIES
-=======
+# Engelhardtiella alba A. Funk, 1973 SPECIES
 
 #### Status
 ACCEPTED

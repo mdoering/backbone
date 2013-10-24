@@ -1,5 +1,4 @@
-Nephroma papyracea (Hoffm.) Röhl. SPECIES
-=======
+# Nephroma papyracea (Hoffm.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

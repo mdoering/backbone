@@ -1,5 +1,4 @@
-Russula fusca f. fusca FORM
-=======
+# Russula fusca Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Russula fusca f. fusca
+Russula fusca Quél.
 
 ### Remarks
 null

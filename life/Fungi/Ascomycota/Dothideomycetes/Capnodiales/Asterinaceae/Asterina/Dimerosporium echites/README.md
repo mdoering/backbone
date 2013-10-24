@@ -1,5 +1,4 @@
-Dimerosporium echites Allesch. SPECIES
-=======
+# Dimerosporium echites Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormia globosa A. Bayer SPECIES
-=======
+# Sporormia globosa A. Bayer SPECIES
 
 #### Status
 ACCEPTED

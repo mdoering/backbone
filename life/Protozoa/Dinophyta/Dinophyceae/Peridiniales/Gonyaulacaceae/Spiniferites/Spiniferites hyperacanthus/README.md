@@ -1,5 +1,4 @@
-Spiniferites hyperacanthus (Deflandre & Cookson, 1955) Cookson & Eisenack, 1974 SPECIES
-=======
+# Spiniferites hyperacanthus (Deflandre & Cookson, 1955) Cookson & Eisenack, 1974 SPECIES
 
 #### Status
 ACCEPTED

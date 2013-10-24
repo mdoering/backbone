@@ -1,5 +1,4 @@
-Phyllostictella delacroixii (Sacc.) Tassi SPECIES
-=======
+# Phyllostictella delacroixii (Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus lacticoffeatus Frisvad & Samson SPECIES
-=======
+# Aspergillus lacticoffeatus Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

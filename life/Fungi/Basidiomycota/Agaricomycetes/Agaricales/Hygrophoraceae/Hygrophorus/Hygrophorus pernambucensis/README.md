@@ -1,5 +1,4 @@
-Hygrophorus pernambucensis Bat. & A.F. Vital SPECIES
-=======
+# Hygrophorus pernambucensis Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

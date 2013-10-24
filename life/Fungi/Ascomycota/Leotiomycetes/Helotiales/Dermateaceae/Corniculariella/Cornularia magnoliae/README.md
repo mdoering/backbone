@@ -1,5 +1,4 @@
-Cornularia magnoliae Sousa da Câmara SPECIES
-=======
+# Cornularia magnoliae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanospora macrospora P. Karst. SPECIES
-=======
+# Melanospora macrospora P. Karst. SPECIES
 
 #### Status
 ACCEPTED

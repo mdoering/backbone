@@ -1,5 +1,4 @@
-Helotium quercinum Velen. SPECIES
-=======
+# Helotium quercinum Velen. SPECIES
 
 #### Status
 ACCEPTED

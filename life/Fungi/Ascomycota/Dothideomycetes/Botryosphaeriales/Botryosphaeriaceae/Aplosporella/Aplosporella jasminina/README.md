@@ -1,17 +1,16 @@
-Haplosporella jasminina Moesz SPECIES
-=======
+# Aplosporella jasminina Moesz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls hist. -nat. Mus. natn. hung. 24: 194 (1926)
 
 #### Original name
-Haplosporella jasminina Moesz
+Aplosporella jasminina Moesz
 
 ### Remarks
 null

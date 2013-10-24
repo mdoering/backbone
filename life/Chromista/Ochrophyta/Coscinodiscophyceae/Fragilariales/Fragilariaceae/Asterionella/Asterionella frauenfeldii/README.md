@@ -1,5 +1,4 @@
-Asterionella frauenfeldii Grunow SPECIES
-=======
+# Asterionella frauenfeldii Grunow SPECIES
 
 #### Status
 ACCEPTED

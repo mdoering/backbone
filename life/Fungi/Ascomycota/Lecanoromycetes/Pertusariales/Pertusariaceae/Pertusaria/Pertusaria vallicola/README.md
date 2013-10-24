@@ -1,5 +1,4 @@
-Pertusaria vallicola Elix & A.W. Archer SPECIES
-=======
+# Pertusaria vallicola Elix & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

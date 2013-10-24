@@ -1,5 +1,4 @@
-Colletotrichum kawakamii (Miyabe) Sawada SPECIES
-=======
+# Colletotrichum kawakamii (Miyabe) Sawada SPECIES
 
 #### Status
 ACCEPTED

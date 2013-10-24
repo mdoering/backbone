@@ -1,5 +1,4 @@
-Coprinus jalapensis Murrill SPECIES
-=======
+# Coprinus jalapensis Murrill SPECIES
 
 #### Status
 ACCEPTED

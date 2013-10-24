@@ -1,5 +1,4 @@
-Phyllosticta cirsii-lanceolati Garb. SPECIES
-=======
+# Phyllosticta cirsii-lanceolati Garb. SPECIES
 
 #### Status
 ACCEPTED

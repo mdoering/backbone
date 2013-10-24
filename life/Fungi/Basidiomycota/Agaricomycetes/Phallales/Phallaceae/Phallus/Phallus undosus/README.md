@@ -1,5 +1,4 @@
-Phallus undosus Batsch SPECIES
-=======
+# Phallus undosus Batsch SPECIES
 
 #### Status
 ACCEPTED

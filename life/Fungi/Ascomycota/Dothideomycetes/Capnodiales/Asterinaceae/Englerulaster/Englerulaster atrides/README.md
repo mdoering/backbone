@@ -1,5 +1,4 @@
-Englerulaster atrides Syd. & P. Syd. SPECIES
-=======
+# Englerulaster atrides Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lacrimatoria acus (Müller, 1786) Bory, 1824 SPECIES
-=======
+# Lacrimatoria acus (Müller, 1786) Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

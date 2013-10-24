@@ -1,5 +1,4 @@
-Patellaria rosea Hampe SPECIES
-=======
+# Patellaria rosea Hampe SPECIES
 
 #### Status
 ACCEPTED

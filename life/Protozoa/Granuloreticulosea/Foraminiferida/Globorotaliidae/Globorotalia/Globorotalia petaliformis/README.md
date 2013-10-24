@@ -1,5 +1,4 @@
-Globorotalia petaliformis Boltovskoy, 1974 SPECIES
-=======
+# Globorotalia petaliformis Boltovskoy, 1974 SPECIES
 
 #### Status
 ACCEPTED

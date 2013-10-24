@@ -1,5 +1,4 @@
-Coenogonium pulvinatum Kremp. SPECIES
-=======
+# Coenogonium pulvinatum Kremp. SPECIES
 
 #### Status
 ACCEPTED

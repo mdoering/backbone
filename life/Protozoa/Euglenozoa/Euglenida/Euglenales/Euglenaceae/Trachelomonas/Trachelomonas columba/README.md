@@ -1,5 +1,4 @@
-Trachelomonas columba T.C. Palmer SPECIES
-=======
+# Trachelomonas columba T.C. Palmer SPECIES
 
 #### Status
 ACCEPTED

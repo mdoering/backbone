@@ -1,5 +1,4 @@
-Phaeangella smithiana (Boud.) SPECIES
-=======
+# Phaeangella smithiana (Boud.) SPECIES
 
 #### Status
 ACCEPTED

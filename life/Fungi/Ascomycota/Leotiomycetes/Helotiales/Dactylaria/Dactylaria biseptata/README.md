@@ -1,5 +1,4 @@
-Dactylaria biseptata Matsush., 1975 SPECIES
-=======
+# Dactylaria biseptata Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

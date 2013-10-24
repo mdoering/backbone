@@ -1,5 +1,4 @@
-Tricholoma calceolus Sterb. {?} SPECIES
-=======
+# Tricholoma calceolus Sterb. {?} SPECIES
 
 #### Status
 ACCEPTED

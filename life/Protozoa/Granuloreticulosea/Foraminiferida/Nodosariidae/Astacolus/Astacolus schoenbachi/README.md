@@ -1,5 +1,4 @@
-Astacolus schoenbachi SPECIES
-=======
+# Astacolus schoenbachi SPECIES
 
 #### Status
 ACCEPTED

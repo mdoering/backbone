@@ -1,5 +1,4 @@
-Encoelia tiliacea (Fr.) P. Karst., 1871 SPECIES
-=======
+# Encoelia tiliacea (Fr.) P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED

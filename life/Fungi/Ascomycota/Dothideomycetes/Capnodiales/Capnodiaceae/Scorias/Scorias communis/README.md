@@ -1,5 +1,4 @@
-Scorias communis W. Yamam. SPECIES
-=======
+# Scorias communis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

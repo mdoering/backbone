@@ -1,5 +1,4 @@
-Bertia convolutispora K.D. Hyde SPECIES
-=======
+# Bertia convolutispora K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

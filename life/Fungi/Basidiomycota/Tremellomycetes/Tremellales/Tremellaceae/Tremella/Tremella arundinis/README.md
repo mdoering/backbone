@@ -1,5 +1,4 @@
-Tremella arundinis Pers. SPECIES
-=======
+# Tremella arundinis Pers. SPECIES
 
 #### Status
 ACCEPTED

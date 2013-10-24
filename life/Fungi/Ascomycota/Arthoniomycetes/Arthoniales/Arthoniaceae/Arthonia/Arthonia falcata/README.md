@@ -1,5 +1,4 @@
-Arthonia falcata Vain. SPECIES
-=======
+# Arthonia falcata Vain. SPECIES
 
 #### Status
 ACCEPTED

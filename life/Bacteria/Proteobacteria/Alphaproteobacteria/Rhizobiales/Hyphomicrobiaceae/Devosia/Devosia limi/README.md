@@ -1,5 +1,4 @@
-Devosia limi Vanparys et al., 2005 SPECIES
-=======
+# Devosia limi Vanparys et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia forsythiae Oudem. SPECIES
-=======
+# Botryodiplodia forsythiae Oudem. SPECIES
 
 #### Status
 ACCEPTED

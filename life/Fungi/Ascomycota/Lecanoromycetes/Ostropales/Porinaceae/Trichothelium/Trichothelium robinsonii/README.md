@@ -1,5 +1,4 @@
-Trichothelium robinsonii Vain. SPECIES
-=======
+# Trichothelium robinsonii Vain. SPECIES
 
 #### Status
 ACCEPTED

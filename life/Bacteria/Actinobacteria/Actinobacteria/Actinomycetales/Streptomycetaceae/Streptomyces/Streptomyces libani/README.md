@@ -1,5 +1,4 @@
-Streptomyces libani subsp. libani SUBSPECIES
-=======
+# Streptomyces libani Baldacci & Grein, 1966 SPECIES
 
 #### Status
 ACCEPTED

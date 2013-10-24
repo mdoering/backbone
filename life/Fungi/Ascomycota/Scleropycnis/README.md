@@ -1,5 +1,4 @@
-Scleropycnis Syd. & P. Syd. GENUS
-=======
+# Scleropycnis Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

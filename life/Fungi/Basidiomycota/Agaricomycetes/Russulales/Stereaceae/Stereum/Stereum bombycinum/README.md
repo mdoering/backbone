@@ -1,5 +1,4 @@
-Stereum bombycinum Lloyd SPECIES
-=======
+# Stereum bombycinum Lloyd SPECIES
 
 #### Status
 ACCEPTED

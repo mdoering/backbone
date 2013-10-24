@@ -1,5 +1,4 @@
-Deflandronella GENUS
-=======
+# Deflandronella GENUS
 
 #### Status
 ACCEPTED

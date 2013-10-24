@@ -1,8 +1,7 @@
-Methylococcus whittenburyi Romanovskaya et al., 1981 SPECIES
-=======
+# Methylobacter whittenburyi (Romanovskaya et al., 1981) Bowman et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

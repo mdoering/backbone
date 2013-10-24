@@ -1,5 +1,4 @@
-Lecidea lividula Müll. Arg. SPECIES
-=======
+# Lecidea lividula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crocynia candidissima Hue SPECIES
-=======
+# Crocynia candidissima Hue SPECIES
 
 #### Status
 ACCEPTED

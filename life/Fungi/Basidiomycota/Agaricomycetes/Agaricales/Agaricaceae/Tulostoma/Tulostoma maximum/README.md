@@ -1,5 +1,4 @@
-Tulostoma maximum Cooke & Massee SPECIES
-=======
+# Tulostoma maximum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

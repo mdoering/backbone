@@ -1,5 +1,4 @@
-Cercospora dispersa Ellis & Everh. SPECIES
-=======
+# Cercospora dispersa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

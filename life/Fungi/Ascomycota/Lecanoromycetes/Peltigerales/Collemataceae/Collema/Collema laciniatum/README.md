@@ -1,5 +1,4 @@
-Collema laciniatum var. laciniatum VARIETY
-=======
+# Collema laciniatum Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Collema laciniatum var. laciniatum
+Collema laciniatum Nyl.
 
 ### Remarks
 null

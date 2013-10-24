@@ -1,5 +1,4 @@
-Ophiocordyceps oxycephala (Penz. & Sacc.) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps oxycephala (Penz. & Sacc.) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

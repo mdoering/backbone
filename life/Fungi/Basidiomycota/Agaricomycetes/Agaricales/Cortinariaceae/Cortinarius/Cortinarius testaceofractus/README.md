@@ -1,5 +1,4 @@
-Cortinarius testaceofractus Carteret & Reumaux SPECIES
-=======
+# Cortinarius testaceofractus Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

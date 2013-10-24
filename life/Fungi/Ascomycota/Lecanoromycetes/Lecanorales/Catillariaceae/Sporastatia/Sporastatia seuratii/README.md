@@ -1,5 +1,4 @@
-Sporastatia seuratii B. de Lesd. SPECIES
-=======
+# Sporastatia seuratii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

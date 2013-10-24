@@ -1,5 +1,4 @@
-Lactarius argematus (Fr.) Fr. SPECIES
-=======
+# Lactarius argematus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Asteridiella homalli-angustifolli (Deighton) Hansf. SPECIES
-=======
+# Asteridiella homalii-angustifolii (Deighton) Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

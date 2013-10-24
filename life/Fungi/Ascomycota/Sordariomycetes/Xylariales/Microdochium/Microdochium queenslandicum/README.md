@@ -1,5 +1,4 @@
-Microdochium queenslandicum Matsush., 1989 SPECIES
-=======
+# Microdochium queenslandicum Matsush., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus ponderosus Kalchbr. SPECIES
-=======
+# Polyporus ponderosus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

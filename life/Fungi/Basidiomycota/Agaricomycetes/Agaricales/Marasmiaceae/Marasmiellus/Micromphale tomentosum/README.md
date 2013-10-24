@@ -1,5 +1,4 @@
-Micromphale tomentosum Singer SPECIES
-=======
+# Micromphale tomentosum Singer SPECIES
 
 #### Status
 ACCEPTED

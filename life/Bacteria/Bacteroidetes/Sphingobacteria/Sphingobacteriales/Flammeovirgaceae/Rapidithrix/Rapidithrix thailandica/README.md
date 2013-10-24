@@ -1,5 +1,4 @@
-Rapidithrix thailandica Srisukchayakul, Suwanachart, Sangnoi, Kanjana-Opas, Hosoya, Yokota & Arunpairojana, 2007 SPECIES
-=======
+# Rapidithrix thailandica Srisukchayakul, Suwanachart, Sangnoi, Kanjana-Opas, Hosoya, Yokota & Arunpairojana, 2007 SPECIES
 
 #### Status
 ACCEPTED

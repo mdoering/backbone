@@ -1,5 +1,4 @@
-Butyrivibrio fibrisolvens Bryant and Small, 1956 (Approved Lists, 1980) SPECIES
-=======
+# Butyrivibrio fibrisolvens Bryant and Small, 1956 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium effusum (Berk. & M.A. Curtis) Linder SPECIES
-=======
+# Oidium effusum (Berk. & M.A. Curtis) Linder SPECIES
 
 #### Status
 ACCEPTED

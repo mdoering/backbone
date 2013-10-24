@@ -1,5 +1,4 @@
-Descemetia J.A. Nieuwland, 1916 GENUS
-=======
+# Descemetia J.A. Nieuwland, 1916 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterosphaeria alpina Sacc. SPECIES
-=======
+# Heterosphaeria alpina Sacc. SPECIES
 
 #### Status
 ACCEPTED

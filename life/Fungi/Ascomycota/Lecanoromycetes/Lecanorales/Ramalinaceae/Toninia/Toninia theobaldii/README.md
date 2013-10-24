@@ -1,5 +1,4 @@
-Toninia theobaldii (Körb.) SPECIES
-=======
+# Toninia theobaldii (Körb.) SPECIES
 
 #### Status
 ACCEPTED

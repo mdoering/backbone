@@ -1,5 +1,4 @@
-Physarum auripigmentum G.W. Martin, 1948 SPECIES
-=======
+# Physarum auripigmentum G.W. Martin, 1948 SPECIES
 
 #### Status
 ACCEPTED

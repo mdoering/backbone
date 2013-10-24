@@ -1,8 +1,7 @@
-Peneroplis cylindracus (Lamarck, 1804) SPECIES
-=======
+# Spirolina cylindracea Lamarck, 1804 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

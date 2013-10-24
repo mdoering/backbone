@@ -1,5 +1,4 @@
-Pseudopythium phytophthoron Sideris & G.E. Paxton SPECIES
-=======
+# Pseudopythium phytophthoron Sideris & G.E. Paxton SPECIES
 
 #### Status
 ACCEPTED

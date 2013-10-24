@@ -1,5 +1,4 @@
-Asterinella mindanaensis Syd. & P. Syd. SPECIES
-=======
+# Asterinella mindanaensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

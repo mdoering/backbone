@@ -1,5 +1,4 @@
-Pterodinium circumsutum (Morgenroth, 1966) Lentin & Williams SPECIES
-=======
+# Pterodinium circumsutum (Morgenroth, 1966) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

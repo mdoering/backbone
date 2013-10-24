@@ -1,14 +1,13 @@
-Ascidium pomiforme Kremp. SPECIES
-=======
+# Ocellularia pomiformis (Kremp.) Overeem & D. Overeem SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 7: 6 (1875)
+Bull. Jard. Bot. Buitenz, 3 Sér. 4: 119 (1922)
 
 #### Original name
 Ascidium pomiforme Kremp.

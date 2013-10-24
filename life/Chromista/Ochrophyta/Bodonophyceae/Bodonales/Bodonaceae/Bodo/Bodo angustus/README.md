@@ -1,5 +1,4 @@
-Bodo angustus (Duj.) SPECIES
-=======
+# Bodo angustus (Duj.) SPECIES
 
 #### Status
 ACCEPTED

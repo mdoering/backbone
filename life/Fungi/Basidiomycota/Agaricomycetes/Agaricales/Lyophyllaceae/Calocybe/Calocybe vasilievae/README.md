@@ -1,5 +1,4 @@
-Calocybe vasilievae (Singer) Singer SPECIES
-=======
+# Calocybe vasilievae (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

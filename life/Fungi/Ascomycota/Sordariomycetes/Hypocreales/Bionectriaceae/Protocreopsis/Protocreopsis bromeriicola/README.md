@@ -1,5 +1,4 @@
-Protocreopsis bromeriicola SPECIES
-=======
+# Protocreopsis bromeriicola SPECIES
 
 #### Status
 ACCEPTED

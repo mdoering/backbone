@@ -1,5 +1,4 @@
-Pirex Hjortstam & Ryvarden GENUS
-=======
+# Pirex Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

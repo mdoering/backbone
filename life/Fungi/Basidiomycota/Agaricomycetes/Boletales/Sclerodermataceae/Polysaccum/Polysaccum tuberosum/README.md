@@ -1,5 +1,4 @@
-Polysaccum tuberosum P. Micheli ex Fr. SPECIES
-=======
+# Polysaccum tuberosum P. Micheli ex Fr. SPECIES
 
 #### Status
 ACCEPTED

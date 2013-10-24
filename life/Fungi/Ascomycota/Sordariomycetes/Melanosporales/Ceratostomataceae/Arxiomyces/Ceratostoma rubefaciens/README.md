@@ -1,5 +1,4 @@
-Ceratostoma rubefaciens (Peck) Sacc. SPECIES
-=======
+# Ceratostoma rubefaciens (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

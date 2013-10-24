@@ -1,5 +1,4 @@
-Ceratium compressum Gran SPECIES
-=======
+# Ceratium compressum Gran SPECIES
 
 #### Status
 ACCEPTED

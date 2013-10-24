@@ -1,5 +1,4 @@
-Lycoperdon crocatum Pat. SPECIES
-=======
+# Lycoperdon crocatum Pat. SPECIES
 
 #### Status
 ACCEPTED

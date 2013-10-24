@@ -1,5 +1,4 @@
-Poria ochraceolateritia Bondartsev SPECIES
-=======
+# Poria ochraceolateritia Bondartsev SPECIES
 
 #### Status
 ACCEPTED

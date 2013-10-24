@@ -1,5 +1,4 @@
-Sphaerella rabenhorstii Ces. & De Not. SPECIES
-=======
+# Sphaerella rabenhorstii Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

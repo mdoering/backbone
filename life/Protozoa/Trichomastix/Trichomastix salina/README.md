@@ -1,8 +1,7 @@
-Trichomastix salinus Entz, 1904 SPECIES
-=======
+# Trichomastix salina Entz, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

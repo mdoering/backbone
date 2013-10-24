@@ -1,5 +1,4 @@
-Lophiotrema phyllophilum E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Lophiotrema phyllophilum E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

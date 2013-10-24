@@ -1,5 +1,4 @@
-Ovularia citri McAlpine SPECIES
-=======
+# Ovularia citri McAlpine SPECIES
 
 #### Status
 ACCEPTED

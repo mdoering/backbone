@@ -1,5 +1,4 @@
-Rhabdospora maculans Sacc. & Berl. SPECIES
-=======
+# Rhabdospora maculans Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

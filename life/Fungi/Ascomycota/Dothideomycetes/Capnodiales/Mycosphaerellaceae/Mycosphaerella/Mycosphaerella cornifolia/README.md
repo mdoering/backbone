@@ -1,5 +1,4 @@
-Mycosphaerella cornifolia (Cooke) Lindau SPECIES
-=======
+# Mycosphaerella cornifolia (Cooke) Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe inconstans P. Karst. SPECIES
-=======
+# Clitocybe inconstans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

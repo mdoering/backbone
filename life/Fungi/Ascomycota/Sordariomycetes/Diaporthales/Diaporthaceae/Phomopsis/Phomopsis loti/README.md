@@ -1,5 +1,4 @@
-Phomopsis loti J. Upadhyay SPECIES
-=======
+# Phomopsis loti J. Upadhyay SPECIES
 
 #### Status
 ACCEPTED

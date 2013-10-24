@@ -1,5 +1,4 @@
-Cymatiomorpha variabilis Elsik & Dilcher, 1974 SPECIES
-=======
+# Cymatiomorpha variabilis Elsik & Dilcher, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus amarus A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus amarus A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

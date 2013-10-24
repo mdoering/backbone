@@ -1,5 +1,4 @@
-Monilia stricta Preuss SPECIES
-=======
+# Monilia stricta Preuss SPECIES
 
 #### Status
 ACCEPTED

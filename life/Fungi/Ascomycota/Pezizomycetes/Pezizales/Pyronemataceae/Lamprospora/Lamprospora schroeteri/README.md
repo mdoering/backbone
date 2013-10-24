@@ -1,5 +1,4 @@
-Lamprospora schroeteri Benkert SPECIES
-=======
+# Lamprospora schroeteri Benkert SPECIES
 
 #### Status
 ACCEPTED

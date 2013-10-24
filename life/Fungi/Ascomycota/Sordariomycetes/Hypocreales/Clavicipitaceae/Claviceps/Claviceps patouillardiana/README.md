@@ -1,5 +1,4 @@
-Claviceps patouillardiana Henn. SPECIES
-=======
+# Claviceps patouillardiana Henn. SPECIES
 
 #### Status
 ACCEPTED

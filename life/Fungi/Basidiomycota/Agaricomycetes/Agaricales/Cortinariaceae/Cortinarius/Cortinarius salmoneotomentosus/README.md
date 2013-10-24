@@ -1,5 +1,4 @@
-Cortinarius salmoneotomentosus var. salmoneotomentosus VARIETY
-=======
+# Cortinarius salmoneotomentosus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 93(3): 362 (1977)
 
 #### Original name
-Cortinarius salmoneotomentosus var. salmoneotomentosus
+Cortinarius salmoneotomentosus Rob. Henry
 
 ### Remarks
 null

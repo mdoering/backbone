@@ -1,5 +1,4 @@
-Phoma populi-nigrae Allesch. SPECIES
-=======
+# Phoma populi-nigrae Allesch. SPECIES
 
 #### Status
 ACCEPTED

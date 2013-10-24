@@ -1,5 +1,4 @@
-Histioneis oxypteris Schiller SPECIES
-=======
+# Histioneis oxypteris Schiller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea rethlyi Szatala SPECIES
-=======
+# Lecidea rethlyi Szatala SPECIES
 
 #### Status
 ACCEPTED

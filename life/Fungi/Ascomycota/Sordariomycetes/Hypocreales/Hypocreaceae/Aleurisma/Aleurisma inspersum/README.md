@@ -1,5 +1,4 @@
-Aleurisma inspersum Link SPECIES
-=======
+# Aleurisma inspersum Link SPECIES
 
 #### Status
 ACCEPTED

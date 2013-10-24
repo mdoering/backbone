@@ -1,5 +1,4 @@
-Lecidea ligustica (B. de Lesd.) Gotth. Schneid. SPECIES
-=======
+# Lecidea ligustica (B. de Lesd.) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

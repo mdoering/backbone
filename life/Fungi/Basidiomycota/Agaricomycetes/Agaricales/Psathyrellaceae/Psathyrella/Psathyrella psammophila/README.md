@@ -1,5 +1,4 @@
-Psathyrella psammophila A.H. Sm. SPECIES
-=======
+# Psathyrella psammophila A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

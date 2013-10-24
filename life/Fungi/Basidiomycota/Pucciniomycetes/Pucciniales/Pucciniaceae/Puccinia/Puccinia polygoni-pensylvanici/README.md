@@ -1,5 +1,4 @@
-Puccinia polygoni-pensylvanici Schwein. SPECIES
-=======
+# Puccinia polygoni-pensylvanici Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula erumpens R.C. Harris SPECIES
-=======
+# Pyrenula erumpens R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

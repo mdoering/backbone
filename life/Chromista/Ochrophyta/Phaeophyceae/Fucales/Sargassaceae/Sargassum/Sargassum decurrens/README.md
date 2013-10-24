@@ -1,8 +1,7 @@
-Fucus decurrens R.Brown ex Turner SPECIES
-=======
+# Sargassum decurrens (R.Brown ex Turner) C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

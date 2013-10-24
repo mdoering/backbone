@@ -1,5 +1,4 @@
-Aecidium kilimandscharicum Henn. SPECIES
-=======
+# Aecidium kilimandscharicum Henn. SPECIES
 
 #### Status
 ACCEPTED

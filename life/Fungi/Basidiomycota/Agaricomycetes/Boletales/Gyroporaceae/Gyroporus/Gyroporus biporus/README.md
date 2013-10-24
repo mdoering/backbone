@@ -1,5 +1,4 @@
-Gyroporus biporus Murrill SPECIES
-=======
+# Gyroporus biporus Murrill SPECIES
 
 #### Status
 ACCEPTED

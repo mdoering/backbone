@@ -1,5 +1,4 @@
-Buellia leucina Müll. Arg. SPECIES
-=======
+# Buellia leucina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

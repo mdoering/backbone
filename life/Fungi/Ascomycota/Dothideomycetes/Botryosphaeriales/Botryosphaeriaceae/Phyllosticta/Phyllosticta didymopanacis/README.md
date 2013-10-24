@@ -1,5 +1,4 @@
-Phyllosticta didymopanacis Bat. & H. Maia SPECIES
-=======
+# Phyllosticta didymopanacis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius subcotoneipes Rob. Henry SPECIES
-=======
+# Cortinarius subcotoneipes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

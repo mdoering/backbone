@@ -1,5 +1,4 @@
-Pseudotomentella humicola M.J. Larsen, 1968 SPECIES
-=======
+# Pseudotomentella humicola M.J. Larsen, 1968 SPECIES
 
 #### Status
 ACCEPTED

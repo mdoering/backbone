@@ -1,5 +1,4 @@
-Usnea subsordida var. subsordida VARIETY
-=======
+# Usnea subsordida Stirt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Proc. Roy. Philos. Soc. Glasgow 11: 310 (1879)
 
 #### Original name
-Usnea subsordida var. subsordida
+Usnea subsordida Stirt.
 
 ### Remarks
 null

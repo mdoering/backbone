@@ -1,5 +1,4 @@
-Paramoebidium grande Lichtw. & Arenas, 1996 SPECIES
-=======
+# Paramoebidium grande Lichtw. & Arenas, 1996 SPECIES
 
 #### Status
 ACCEPTED

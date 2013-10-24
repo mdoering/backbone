@@ -1,5 +1,4 @@
-Sporobolomyces lactosus E. Sláviková & Grab. Lon. SPECIES
-=======
+# Sporobolomyces lactosus E. Sláviková & Grab. Lon. SPECIES
 
 #### Status
 ACCEPTED

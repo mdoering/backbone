@@ -1,5 +1,4 @@
-Cytosporella clarkiae Oudem. SPECIES
-=======
+# Cytosporella clarkiae Oudem. SPECIES
 
 #### Status
 ACCEPTED

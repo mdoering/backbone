@@ -1,5 +1,4 @@
-Stereosphaeria GENUS
-=======
+# Stereosphaeria GENUS
 
 #### Status
 ACCEPTED

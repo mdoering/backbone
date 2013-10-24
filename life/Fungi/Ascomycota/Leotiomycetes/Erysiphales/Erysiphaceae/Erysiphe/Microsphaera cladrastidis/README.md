@@ -1,5 +1,4 @@
-Microsphaera cladrastidis Jacz. SPECIES
-=======
+# Microsphaera cladrastidis Jacz. SPECIES
 
 #### Status
 ACCEPTED

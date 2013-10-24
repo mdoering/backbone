@@ -1,5 +1,4 @@
-Puccinia ottochloae T.S. Ramakr. SPECIES
-=======
+# Puccinia ottochloae T.S. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

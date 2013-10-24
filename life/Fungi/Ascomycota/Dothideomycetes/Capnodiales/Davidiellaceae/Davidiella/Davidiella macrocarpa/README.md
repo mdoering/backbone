@@ -1,5 +1,4 @@
-Davidiella macrocarpa Crous, K. Schub. & U. Braun, 2007 SPECIES
-=======
+# Davidiella macrocarpa Crous, K. Schub. & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

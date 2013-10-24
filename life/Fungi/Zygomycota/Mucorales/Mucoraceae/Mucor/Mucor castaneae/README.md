@@ -1,5 +1,4 @@
-Mucor castaneae Rabenh. SPECIES
-=======
+# Mucor castaneae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

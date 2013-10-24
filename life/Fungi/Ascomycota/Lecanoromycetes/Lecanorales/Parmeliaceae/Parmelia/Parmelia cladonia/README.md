@@ -1,5 +1,4 @@
-Parmelia cladonia (Tuck.) Du Rietz SPECIES
-=======
+# Parmelia cladonia (Tuck.) Du Rietz SPECIES
 
 #### Status
 ACCEPTED

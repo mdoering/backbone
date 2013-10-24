@@ -1,5 +1,4 @@
-Verrucaria hepatica Jatta SPECIES
-=======
+# Verrucaria hepatica Jatta SPECIES
 
 #### Status
 ACCEPTED

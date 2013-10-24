@@ -1,5 +1,4 @@
-Hysterium lineolatum Cooke SPECIES
-=======
+# Hysterium lineolatum Cooke SPECIES
 
 #### Status
 ACCEPTED

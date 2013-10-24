@@ -1,5 +1,4 @@
-Lichen alneus Ach. SPECIES
-=======
+# Lichen alneus Ach. SPECIES
 
 #### Status
 ACCEPTED

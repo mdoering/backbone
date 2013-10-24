@@ -1,17 +1,16 @@
-Mixotricha Dragesco & Dragesco-Kerneis, 1986 GENUS
-=======
+# Ponturostyla Jankowski, 1989 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Vestn Zool 1989 (2): 86.
 
 #### Original name
-null
+Mixotricha Dragesco & Dragesco-Kerneis, 1986
 
 ### Remarks
 null

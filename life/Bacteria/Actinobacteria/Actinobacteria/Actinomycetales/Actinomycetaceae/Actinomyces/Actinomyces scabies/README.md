@@ -1,5 +1,4 @@
-Actinomyces scabies (Thaxt.) Güssow SPECIES
-=======
+# Actinomyces scabies (Thaxt.) Güssow SPECIES
 
 #### Status
 ACCEPTED

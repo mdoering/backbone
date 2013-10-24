@@ -1,5 +1,4 @@
-Pirispora trisetosa Faurel & Schotter, 1966 SPECIES
-=======
+# Pirispora trisetosa Faurel & Schotter, 1966 SPECIES
 
 #### Status
 ACCEPTED

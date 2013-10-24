@@ -1,5 +1,4 @@
-Strickeria circumclusa (De Not.) Cooke SPECIES
-=======
+# Strickeria circumclusa (De Not.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopleistophora szollozi Sprague SPECIES
-=======
+# Pseudopleistophora szollozi Sprague SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlegmacium claricolor SPECIES
-=======
+# Phlegmacium claricolor SPECIES
 
 #### Status
 ACCEPTED

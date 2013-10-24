@@ -1,5 +1,4 @@
-Spicaria muscorum Grove SPECIES
-=======
+# Spicaria muscorum Grove SPECIES
 
 #### Status
 ACCEPTED

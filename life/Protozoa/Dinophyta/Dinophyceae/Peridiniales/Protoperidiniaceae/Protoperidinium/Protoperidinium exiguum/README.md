@@ -1,5 +1,4 @@
-Protoperidinium exiguum (Cleve) Balech SPECIES
-=======
+# Protoperidinium exiguum (Cleve) Balech SPECIES
 
 #### Status
 ACCEPTED

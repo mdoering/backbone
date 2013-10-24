@@ -1,5 +1,4 @@
-Simocybe ovalis Singer SPECIES
-=======
+# Simocybe ovalis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistylis solitaria Dumas, 1929 SPECIES
-=======
+# Epistylis solitaria Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

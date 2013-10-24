@@ -1,8 +1,7 @@
-Mollisia fairmani Ellis & Everh. SPECIES
-=======
+# Mollisia fairmanii Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mollisia fairmani Ellis & Everh.
+Mollisia fairmanii Ellis & Everh.
 
 ### Remarks
 null

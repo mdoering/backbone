@@ -1,5 +1,4 @@
-Tilletia asperifolia Ellis & Everh. SPECIES
-=======
+# Tilletia asperifolia Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

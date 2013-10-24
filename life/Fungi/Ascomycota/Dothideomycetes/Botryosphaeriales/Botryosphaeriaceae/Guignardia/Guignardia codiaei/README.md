@@ -1,5 +1,4 @@
-Guignardia codiaei Thaung SPECIES
-=======
+# Guignardia codiaei Thaung SPECIES
 
 #### Status
 ACCEPTED

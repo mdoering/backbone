@@ -1,5 +1,4 @@
-Phyllosticta vitum Desm. SPECIES
-=======
+# Phyllosticta vitum Desm. SPECIES
 
 #### Status
 ACCEPTED

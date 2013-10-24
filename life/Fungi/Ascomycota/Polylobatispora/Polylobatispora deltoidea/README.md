@@ -1,5 +1,4 @@
-Polylobatispora deltoidea Matsush., 1996 SPECIES
-=======
+# Polylobatispora deltoidea Matsush., 1996 SPECIES
 
 #### Status
 ACCEPTED

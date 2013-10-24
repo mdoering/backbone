@@ -1,5 +1,4 @@
-Lophodermium durilabrum Darker, 1932 SPECIES
-=======
+# Lophodermium durilabrum Darker, 1932 SPECIES
 
 #### Status
 ACCEPTED

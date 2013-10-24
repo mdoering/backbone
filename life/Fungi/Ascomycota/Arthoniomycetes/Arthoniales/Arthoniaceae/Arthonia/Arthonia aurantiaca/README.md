@@ -1,5 +1,4 @@
-Arthonia aurantiaca (Müll. Arg.) Stizenb. SPECIES
-=======
+# Arthonia aurantiaca (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

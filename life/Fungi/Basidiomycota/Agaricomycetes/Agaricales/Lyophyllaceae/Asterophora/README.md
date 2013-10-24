@@ -1,5 +1,4 @@
-Asterophora Ditmar, 1809 GENUS
-=======
+# Asterophora Ditmar, 1809 GENUS
 
 #### Status
 ACCEPTED

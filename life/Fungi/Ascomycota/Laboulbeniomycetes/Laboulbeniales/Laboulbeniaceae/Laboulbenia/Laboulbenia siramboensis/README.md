@@ -1,5 +1,4 @@
-Laboulbenia siramboensis Speg. SPECIES
-=======
+# Laboulbenia siramboensis Speg. SPECIES
 
 #### Status
 ACCEPTED

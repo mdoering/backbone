@@ -1,5 +1,4 @@
-Hydnum occultum Britzelm. SPECIES
-=======
+# Hydnum occultum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

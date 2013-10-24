@@ -1,5 +1,4 @@
-Clavaria media J.F. Gmel. SPECIES
-=======
+# Clavaria media J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

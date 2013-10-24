@@ -1,5 +1,4 @@
-Ceratobasidium incrustans Rick SPECIES
-=======
+# Ceratobasidium incrustans Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora queenslandica Hansf., 1956 SPECIES
-=======
+# Phyllachora queenslandica Hansf., 1956 SPECIES
 
 #### Status
 ACCEPTED

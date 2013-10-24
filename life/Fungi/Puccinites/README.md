@@ -1,5 +1,4 @@
-Puccinites Ettingshausen, 1853 GENUS
-=======
+# Puccinites Ettingshausen, 1853 GENUS
 
 #### Status
 ACCEPTED

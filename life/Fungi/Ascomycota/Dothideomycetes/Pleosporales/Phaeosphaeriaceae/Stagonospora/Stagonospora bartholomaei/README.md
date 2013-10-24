@@ -1,5 +1,4 @@
-Stagonospora bartholomaei Sacc. & P. Syd. SPECIES
-=======
+# Stagonospora bartholomaei Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

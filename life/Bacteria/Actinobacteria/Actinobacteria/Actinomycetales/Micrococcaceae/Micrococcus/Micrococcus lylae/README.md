@@ -1,5 +1,4 @@
-Micrococcus lylae Kloos et al., 1974 (Approved Lists, 1980) SPECIES
-=======
+# Micrococcus lylae Kloos et al., 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

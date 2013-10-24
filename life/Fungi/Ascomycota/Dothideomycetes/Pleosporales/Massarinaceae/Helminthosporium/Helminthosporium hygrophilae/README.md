@@ -1,5 +1,4 @@
-Helminthosporium hygrophilae Cif. SPECIES
-=======
+# Helminthosporium hygrophilae Cif. SPECIES
 
 #### Status
 ACCEPTED

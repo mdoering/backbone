@@ -1,5 +1,4 @@
-Lecidea heterobola Cromb. SPECIES
-=======
+# Lecidea heterobola Cromb. SPECIES
 
 #### Status
 ACCEPTED

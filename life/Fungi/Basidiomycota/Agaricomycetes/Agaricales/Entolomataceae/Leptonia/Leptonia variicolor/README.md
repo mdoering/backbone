@@ -1,5 +1,4 @@
-Leptonia variicolor Berk. & M.A. Curtis SPECIES
-=======
+# Leptonia variicolor Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

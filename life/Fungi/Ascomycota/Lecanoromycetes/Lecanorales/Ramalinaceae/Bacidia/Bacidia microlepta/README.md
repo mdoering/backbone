@@ -1,5 +1,4 @@
-Bacidia microlepta (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia microlepta (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Austroboletus rarus (Corner) E. Horak SPECIES
-=======
+# Austroboletus rarus (Corner) E. Horak SPECIES
 
 #### Status
 ACCEPTED

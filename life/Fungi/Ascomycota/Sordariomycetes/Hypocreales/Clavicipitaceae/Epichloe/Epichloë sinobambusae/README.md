@@ -1,5 +1,4 @@
-Epichloë sinobambusae Hsieh, 1987 SPECIES
-=======
+# Epichloë sinobambusae Hsieh, 1987 SPECIES
 
 #### Status
 DOUBTFUL

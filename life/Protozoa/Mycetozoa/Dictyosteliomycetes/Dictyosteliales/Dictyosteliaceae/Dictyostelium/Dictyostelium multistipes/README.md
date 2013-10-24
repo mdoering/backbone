@@ -1,5 +1,4 @@
-Dictyostelium multistipes Cavender, 1976 SPECIES
-=======
+# Dictyostelium multistipes Cavender, 1976 SPECIES
 
 #### Status
 ACCEPTED

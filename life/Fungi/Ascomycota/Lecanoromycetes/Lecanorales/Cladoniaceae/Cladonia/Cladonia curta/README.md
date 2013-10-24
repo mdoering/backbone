@@ -1,5 +1,4 @@
-Cladonia curta Ahti & Marcelli SPECIES
-=======
+# Cladonia curta Ahti & Marcelli SPECIES
 
 #### Status
 ACCEPTED

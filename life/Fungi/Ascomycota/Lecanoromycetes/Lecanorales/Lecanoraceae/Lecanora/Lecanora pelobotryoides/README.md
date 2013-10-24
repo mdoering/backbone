@@ -1,5 +1,4 @@
-Lecanora pelobotryoides (Eitner) Migula SPECIES
-=======
+# Lecanora pelobotryoides (Eitner) Migula SPECIES
 
 #### Status
 ACCEPTED

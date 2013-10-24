@@ -1,5 +1,4 @@
-Leucocoprinus jubilaei (Joss.) Wasser SPECIES
-=======
+# Leucocoprinus jubilaei (Joss.) Wasser SPECIES
 
 #### Status
 ACCEPTED

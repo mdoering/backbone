@@ -1,5 +1,4 @@
-Physcia americana G. Merr. SPECIES
-=======
+# Physcia americana G. Merr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discorbis semistriata SPECIES
-=======
+# Discorbis semistriata SPECIES
 
 #### Status
 ACCEPTED

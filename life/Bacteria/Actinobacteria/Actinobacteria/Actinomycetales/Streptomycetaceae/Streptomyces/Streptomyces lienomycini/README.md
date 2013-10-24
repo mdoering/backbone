@@ -1,5 +1,4 @@
-Streptomyces lienomycini Gause & Maximova, 1986 SPECIES
-=======
+# Streptomyces lienomycini Gause & Maximova, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella patouillardii Syd. SPECIES
-=======
+# Tremella patouillardii Syd. SPECIES
 
 #### Status
 ACCEPTED

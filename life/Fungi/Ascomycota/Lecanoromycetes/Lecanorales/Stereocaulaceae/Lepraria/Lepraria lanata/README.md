@@ -1,5 +1,4 @@
-Lepraria lanata Tønsberg SPECIES
-=======
+# Lepraria lanata Tønsberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius caerulipes (A.H. Sm.) Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius caerulipes (A.H. Sm.) Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

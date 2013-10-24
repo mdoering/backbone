@@ -1,5 +1,4 @@
-Clavulina vanderystii (Bres.) Corner SPECIES
-=======
+# Clavulina vanderystii (Bres.) Corner SPECIES
 
 #### Status
 ACCEPTED

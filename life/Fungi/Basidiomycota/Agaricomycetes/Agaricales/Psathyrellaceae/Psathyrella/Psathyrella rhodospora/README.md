@@ -1,5 +1,4 @@
-Psathyrella rhodospora M.G. Weaver & A.H. Sm. SPECIES
-=======
+# Psathyrella rhodospora M.G. Weaver & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

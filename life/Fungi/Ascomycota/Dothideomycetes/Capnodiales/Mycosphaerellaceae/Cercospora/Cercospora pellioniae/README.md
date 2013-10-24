@@ -1,5 +1,4 @@
-Cercospora pellioniae Togashi & Katsuki SPECIES
-=======
+# Cercospora pellioniae Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

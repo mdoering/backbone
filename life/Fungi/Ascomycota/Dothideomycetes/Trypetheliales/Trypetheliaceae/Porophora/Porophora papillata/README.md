@@ -1,5 +1,4 @@
-Porophora papillata (Ach.) Spreng. SPECIES
-=======
+# Porophora papillata (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

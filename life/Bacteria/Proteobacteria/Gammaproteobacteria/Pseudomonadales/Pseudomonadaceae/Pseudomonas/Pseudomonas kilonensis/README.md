@@ -1,5 +1,4 @@
-Pseudomonas kilonensis Sikorski et al., 2001 SPECIES
-=======
+# Pseudomonas kilonensis Sikorski et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

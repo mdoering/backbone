@@ -1,5 +1,4 @@
-Semiinvoluta Kristan, 1957 GENUS
-=======
+# Semiinvoluta Kristan, 1957 GENUS
 
 #### Status
 ACCEPTED

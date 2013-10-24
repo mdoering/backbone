@@ -1,5 +1,4 @@
-Neothyridaria moravica Petr., 1934 SPECIES
-=======
+# Neothyridaria moravica Petr., 1934 SPECIES
 
 #### Status
 ACCEPTED

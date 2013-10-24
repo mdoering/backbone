@@ -1,5 +1,4 @@
-Claviceps microspora Tanda SPECIES
-=======
+# Claviceps microspora Tanda SPECIES
 
 #### Status
 ACCEPTED

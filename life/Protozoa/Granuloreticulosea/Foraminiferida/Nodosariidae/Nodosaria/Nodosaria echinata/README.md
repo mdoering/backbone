@@ -1,5 +1,4 @@
-Nodosaria echinata Millett, 1902 SPECIES
-=======
+# Nodosaria echinata Millett, 1902 SPECIES
 
 #### Status
 ACCEPTED

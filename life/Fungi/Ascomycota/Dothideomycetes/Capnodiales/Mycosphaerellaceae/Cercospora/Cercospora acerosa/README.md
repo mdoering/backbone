@@ -1,5 +1,4 @@
-Cercospora acerosa Dickh. {?} & Arends.-Hein SPECIES
-=======
+# Cercospora acerosa Dickh. {?} & Arends.-Hein SPECIES
 
 #### Status
 ACCEPTED

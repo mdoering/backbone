@@ -1,17 +1,16 @@
-Diplodothiorella ladurneri Bubák SPECIES
-=======
+# Diplodothiorella sadurneri Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 14(3/4): 151 (1916)
 
 #### Original name
-Diplodothiorella ladurneri Bubák
+Diplodothiorella sadurneri Bubák
 
 ### Remarks
 null

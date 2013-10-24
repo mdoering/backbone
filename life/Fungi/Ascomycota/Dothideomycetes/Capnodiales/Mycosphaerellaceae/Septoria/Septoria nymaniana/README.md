@@ -1,5 +1,4 @@
-Septoria nymaniana Sacc. SPECIES
-=======
+# Septoria nymaniana Sacc. SPECIES
 
 #### Status
 ACCEPTED

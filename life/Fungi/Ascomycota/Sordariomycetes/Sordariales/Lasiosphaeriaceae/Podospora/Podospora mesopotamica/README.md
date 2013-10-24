@@ -1,5 +1,4 @@
-Podospora mesopotamica (Abdullah) Guarro, P.F. Cannon & Aa SPECIES
-=======
+# Podospora mesopotamica (Abdullah) Guarro, P.F. Cannon & Aa SPECIES
 
 #### Status
 ACCEPTED

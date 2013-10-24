@@ -1,5 +1,4 @@
-Propolis cinerescens f. cinerescens FORM
-=======
+# Propolis cinerescens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Propolis cinerescens f. cinerescens
+Propolis cinerescens
 
 ### Remarks
 null

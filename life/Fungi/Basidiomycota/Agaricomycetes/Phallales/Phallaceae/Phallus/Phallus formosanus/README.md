@@ -1,5 +1,4 @@
-Phallus formosanus Kobayasi SPECIES
-=======
+# Phallus formosanus Kobayasi SPECIES
 
 #### Status
 ACCEPTED

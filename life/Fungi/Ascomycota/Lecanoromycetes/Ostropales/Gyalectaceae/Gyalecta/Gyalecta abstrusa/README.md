@@ -1,5 +1,4 @@
-Gyalecta abstrusa (Wallr.) A. Massal. SPECIES
-=======
+# Gyalecta abstrusa (Wallr.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

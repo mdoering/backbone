@@ -1,5 +1,4 @@
-Phomopsis rhaphithamni (Speg.) Aa SPECIES
-=======
+# Phomopsis rhaphithamni (Speg.) Aa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia chlorosticta E.P. Fr. SPECIES
-=======
+# Mollisia chlorosticta E.P. Fr. SPECIES
 
 #### Status
 ACCEPTED

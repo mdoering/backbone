@@ -1,5 +1,4 @@
-Lecanora subdiscrepans (Nyl.) Stizenb. SPECIES
-=======
+# Lecanora subdiscrepans (Nyl.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

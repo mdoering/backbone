@@ -1,5 +1,4 @@
-Strigula microthyrium Mont. SPECIES
-=======
+# Strigula microthyrium Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma physalospora Sacc. SPECIES
-=======
+# Macrophoma physalospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

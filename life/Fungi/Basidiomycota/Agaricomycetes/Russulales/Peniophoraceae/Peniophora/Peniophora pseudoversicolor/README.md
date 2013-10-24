@@ -1,5 +1,4 @@
-Peniophora pseudoversicolor Boidin, 1965 SPECIES
-=======
+# Peniophora pseudoversicolor Boidin, 1965 SPECIES
 
 #### Status
 ACCEPTED

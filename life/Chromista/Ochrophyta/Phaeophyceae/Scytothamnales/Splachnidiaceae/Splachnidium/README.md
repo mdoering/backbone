@@ -1,5 +1,4 @@
-Splachnidium Greville, 1830 GENUS
-=======
+# Splachnidium Greville, 1830 GENUS
 
 #### Status
 ACCEPTED

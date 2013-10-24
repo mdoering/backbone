@@ -1,5 +1,4 @@
-Lentescospora Linder GENUS
-=======
+# Lentescospora Linder GENUS
 
 #### Status
 ACCEPTED

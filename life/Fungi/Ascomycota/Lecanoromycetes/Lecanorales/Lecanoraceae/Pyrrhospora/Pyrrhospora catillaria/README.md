@@ -1,5 +1,4 @@
-Pyrrhospora catillaria (Vain.) Hafellner & Grube SPECIES
-=======
+# Pyrrhospora catillaria (Vain.) Hafellner & Grube SPECIES
 
 #### Status
 ACCEPTED

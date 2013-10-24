@@ -1,5 +1,4 @@
-Merulius coemansii (Rabenh.) Kuntze SPECIES
-=======
+# Merulius coemansii (Rabenh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

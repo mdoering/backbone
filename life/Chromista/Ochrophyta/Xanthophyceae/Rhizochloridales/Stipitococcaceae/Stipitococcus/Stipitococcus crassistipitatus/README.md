@@ -1,5 +1,4 @@
-Stipitococcus crassistipitatus Prescott SPECIES
-=======
+# Stipitococcus crassistipitatus Prescott SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosia persooniae H.J. Swart SPECIES
-=======
+# Lembosia persooniae H.J. Swart SPECIES
 
 #### Status
 ACCEPTED

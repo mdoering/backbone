@@ -1,17 +1,16 @@
-Peniophora sphaerospora Höhn. & Litsch., 1906 SPECIES
-=======
+# Hypochnicium erikssonii Hallenb. & Hjortstam, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 115: 1600 (1906)
+Windahlia 18: 44 (1990)
 
 #### Original name
-Peniophora sphaerospora Höhn. & Litsch., 1906
+Hypochnicium erikssonii Hallenb. & Hjortstam, 1990
 
 ### Remarks
 null

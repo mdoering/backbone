@@ -1,5 +1,4 @@
-Pirea capitulifera (Burmann, 1970) Eisenack et al., 1976 SPECIES
-=======
+# Pirea capitulifera (Burmann, 1970) Eisenack et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

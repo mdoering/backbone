@@ -1,5 +1,4 @@
-Myriospora scabrida (Hedl. ex H. Magn.) K. Knudsen & L. Arcadia SPECIES
-=======
+# Myriospora scabrida (Hedl. ex H. Magn.) K. Knudsen & L. Arcadia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria flavoalba Corner, 1950 SPECIES
-=======
+# Ramaria flavoalba Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus atractoides Pochmann SPECIES
-=======
+# Phacus atractoides Pochmann SPECIES
 
 #### Status
 ACCEPTED

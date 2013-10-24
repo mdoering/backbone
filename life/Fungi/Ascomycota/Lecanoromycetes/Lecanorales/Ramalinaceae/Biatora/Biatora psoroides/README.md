@@ -1,5 +1,4 @@
-Biatora psoroides Hepp SPECIES
-=======
+# Biatora psoroides Hepp SPECIES
 
 #### Status
 ACCEPTED

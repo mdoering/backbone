@@ -1,5 +1,4 @@
-Stilbum cineripes Kalchbr. & Cooke SPECIES
-=======
+# Stilbum cineripes Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanconium pallidum Peck SPECIES
-=======
+# Melanconium pallidum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium echinulatum Cooke SPECIES
-=======
+# Helminthosporium echinulatum Cooke SPECIES
 
 #### Status
 ACCEPTED

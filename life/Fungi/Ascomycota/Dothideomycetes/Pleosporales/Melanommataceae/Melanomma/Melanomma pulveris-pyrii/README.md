@@ -1,5 +1,4 @@
-Melanomma pulveris-pyrii Fr. SPECIES
-=======
+# Melanomma pulveris-pyrii Fr. SPECIES
 
 #### Status
 ACCEPTED

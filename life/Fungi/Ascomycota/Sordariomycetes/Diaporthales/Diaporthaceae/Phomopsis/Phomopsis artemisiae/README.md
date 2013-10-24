@@ -1,5 +1,4 @@
-Phomopsis artemisiae Vörös SPECIES
-=======
+# Phomopsis artemisiae Vörös SPECIES
 
 #### Status
 ACCEPTED

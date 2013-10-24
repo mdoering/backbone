@@ -1,5 +1,4 @@
-Lecanactis cymbegrapha (Leight.) Nyl. SPECIES
-=======
+# Lecanactis cymbegrapha (Leight.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

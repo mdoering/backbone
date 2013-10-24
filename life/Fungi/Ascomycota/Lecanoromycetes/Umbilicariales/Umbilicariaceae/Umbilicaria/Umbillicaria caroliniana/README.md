@@ -1,5 +1,4 @@
-Umbillicaria caroliniana SPECIES
-=======
+# Umbillicaria caroliniana SPECIES
 
 #### Status
 DOUBTFUL

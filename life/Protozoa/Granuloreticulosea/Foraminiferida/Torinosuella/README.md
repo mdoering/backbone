@@ -1,5 +1,4 @@
-Torinosuella Maync, 1959 GENUS
-=======
+# Torinosuella Maync, 1959 GENUS
 
 #### Status
 ACCEPTED

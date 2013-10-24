@@ -1,5 +1,4 @@
-Laminaria coriacea Miyabe SPECIES
-=======
+# Laminaria coriacea Miyabe SPECIES
 
 #### Status
 ACCEPTED

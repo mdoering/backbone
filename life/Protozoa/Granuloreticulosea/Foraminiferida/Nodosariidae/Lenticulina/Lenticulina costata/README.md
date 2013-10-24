@@ -1,5 +1,4 @@
-Lenticulina costata Fichtel & Moll SPECIES
-=======
+# Lenticulina costata Fichtel & Moll SPECIES
 
 #### Status
 ACCEPTED

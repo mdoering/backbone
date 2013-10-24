@@ -1,5 +1,4 @@
-Speira digitata (G.W. Martin) Damon SPECIES
-=======
+# Speira digitata (G.W. Martin) Damon SPECIES
 
 #### Status
 ACCEPTED

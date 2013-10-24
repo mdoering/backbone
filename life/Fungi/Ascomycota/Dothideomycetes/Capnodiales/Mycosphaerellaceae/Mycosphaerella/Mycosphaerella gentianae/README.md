@@ -1,5 +1,4 @@
-Mycosphaerella gentianae (Niessl) Lindau SPECIES
-=======
+# Mycosphaerella gentianae (Niessl) Lindau SPECIES
 
 #### Status
 ACCEPTED

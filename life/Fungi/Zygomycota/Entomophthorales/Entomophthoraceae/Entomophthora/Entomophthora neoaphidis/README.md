@@ -1,5 +1,4 @@
-Entomophthora neoaphidis (Remaud. & Hennebert) SPECIES
-=======
+# Entomophthora neoaphidis (Remaud. & Hennebert) SPECIES
 
 #### Status
 ACCEPTED

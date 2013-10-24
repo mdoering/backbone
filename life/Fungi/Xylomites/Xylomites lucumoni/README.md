@@ -1,5 +1,4 @@
-Xylomites lucumoni Mesch. SPECIES
-=======
+# Xylomites lucumoni Mesch. SPECIES
 
 #### Status
 ACCEPTED

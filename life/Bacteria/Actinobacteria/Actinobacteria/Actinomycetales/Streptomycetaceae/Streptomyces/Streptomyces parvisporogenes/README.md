@@ -1,11 +1,10 @@
-Streptoverticillium parvisporogenes Locci et al., 1969 SPECIES
-=======
+# Streptomyces parvisporogenes (Locci et al., 1969) Witt & Stackebrandt, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Entoloma roanense Hesler SPECIES
-=======
+# Entoloma roanense Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella wikstroemiae (Petch) J. Walker SPECIES
-=======
+# Stenella wikstroemiae (Petch) J. Walker SPECIES
 
 #### Status
 ACCEPTED

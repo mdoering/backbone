@@ -1,5 +1,4 @@
-Holosticha piscis SPECIES
-=======
+# Holosticha piscis SPECIES
 
 #### Status
 ACCEPTED

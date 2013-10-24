@@ -1,5 +1,4 @@
-Pseudovorticella zooanthelligera SPECIES
-=======
+# Pseudovorticella zooanthelligera SPECIES
 
 #### Status
 ACCEPTED

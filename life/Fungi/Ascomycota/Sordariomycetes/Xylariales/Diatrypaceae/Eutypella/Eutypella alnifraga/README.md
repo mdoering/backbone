@@ -1,14 +1,13 @@
-Valsa alnifraga (Wahlenb.) Fr., 1849 SPECIES
-=======
+# Eutypella alnifraga (Wahlenb.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 150 (1882)
 
 #### Original name
 Sphaeria alnifraga Wahlenb.

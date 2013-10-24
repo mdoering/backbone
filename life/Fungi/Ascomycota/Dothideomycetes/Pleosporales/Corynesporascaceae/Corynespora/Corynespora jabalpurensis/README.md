@@ -1,5 +1,4 @@
-Corynespora jabalpurensis N. Sharma & S. Srivast. SPECIES
-=======
+# Corynespora jabalpurensis N. Sharma & S. Srivast. SPECIES
 
 #### Status
 ACCEPTED

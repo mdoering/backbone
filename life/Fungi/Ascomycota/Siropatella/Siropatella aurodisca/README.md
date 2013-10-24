@@ -1,5 +1,4 @@
-Siropatella aurodisca (Cooke) Grove SPECIES
-=======
+# Siropatella aurodisca (Cooke) Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filoviridae FAMILY
-=======
+# Filoviridae FAMILY
 
 #### Status
 ACCEPTED

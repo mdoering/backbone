@@ -1,5 +1,4 @@
-Rinodina destitula SPECIES
-=======
+# Rinodina destitula SPECIES
 
 #### Status
 ACCEPTED

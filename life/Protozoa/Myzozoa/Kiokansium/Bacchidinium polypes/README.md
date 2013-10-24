@@ -1,5 +1,4 @@
-Bacchidinium polypes (Cookson & Eisenack, 1962) Davey SPECIES
-=======
+# Bacchidinium polypes (Cookson & Eisenack, 1962) Davey SPECIES
 
 #### Status
 DOUBTFUL

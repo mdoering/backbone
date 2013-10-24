@@ -1,5 +1,4 @@
-Termitomyces albidus (Singer) L.D. Gómez SPECIES
-=======
+# Termitomyces albidus (Singer) L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

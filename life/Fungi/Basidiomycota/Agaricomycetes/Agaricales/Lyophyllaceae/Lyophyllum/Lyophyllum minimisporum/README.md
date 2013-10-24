@@ -1,5 +1,4 @@
-Lyophyllum minimisporum Consiglio & Contu SPECIES
-=======
+# Lyophyllum minimisporum Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

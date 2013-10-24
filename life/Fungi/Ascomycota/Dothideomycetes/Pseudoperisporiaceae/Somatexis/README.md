@@ -1,5 +1,4 @@
-Somatexis GENUS
-=======
+# Somatexis GENUS
 
 #### Status
 ACCEPTED

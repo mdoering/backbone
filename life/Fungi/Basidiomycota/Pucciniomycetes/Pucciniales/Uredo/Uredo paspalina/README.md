@@ -1,5 +1,4 @@
-Uredo paspalina Syd. & P. Syd. SPECIES
-=======
+# Uredo paspalina Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

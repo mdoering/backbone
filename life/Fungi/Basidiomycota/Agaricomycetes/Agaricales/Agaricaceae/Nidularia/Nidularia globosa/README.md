@@ -1,5 +1,4 @@
-Nidularia globosa (Ehrenb.) Fr. SPECIES
-=======
+# Nidularia globosa (Ehrenb.) Fr. SPECIES
 
 #### Status
 ACCEPTED

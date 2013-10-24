@@ -1,5 +1,4 @@
-Russula acriuscula Buyck, 1988 SPECIES
-=======
+# Russula acriuscula Buyck, 1988 SPECIES
 
 #### Status
 ACCEPTED

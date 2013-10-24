@@ -1,5 +1,4 @@
-Phyllosticta succinosa H.C. Greene SPECIES
-=======
+# Phyllosticta succinosa H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

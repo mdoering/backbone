@@ -1,5 +1,4 @@
-Colletotrichum hibiscicola Rangel SPECIES
-=======
+# Colletotrichum hibiscicola Rangel SPECIES
 
 #### Status
 ACCEPTED

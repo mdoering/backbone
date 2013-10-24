@@ -1,5 +1,4 @@
-Glomotrocholina Nikitina in Sosnina & Nikitina, 1977 GENUS
-=======
+# Glomotrocholina Nikitina in Sosnina & Nikitina, 1977 GENUS
 
 #### Status
 ACCEPTED

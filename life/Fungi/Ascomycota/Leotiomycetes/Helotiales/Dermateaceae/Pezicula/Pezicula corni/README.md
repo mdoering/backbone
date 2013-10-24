@@ -1,5 +1,4 @@
-Pezicula corni Petr. SPECIES
-=======
+# Pezicula corni Petr. SPECIES
 
 #### Status
 ACCEPTED

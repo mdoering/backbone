@@ -1,5 +1,4 @@
-Xenochora ingae (F. Stevens) Petr. SPECIES
-=======
+# Xenochora ingae (F. Stevens) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicrospinasphaera X. Yuan & H.J. Hofmann, 1998 GENUS
-=======
+# Dicrospinasphaera X. Yuan & H.J. Hofmann, 1998 GENUS
 
 #### Status
 ACCEPTED

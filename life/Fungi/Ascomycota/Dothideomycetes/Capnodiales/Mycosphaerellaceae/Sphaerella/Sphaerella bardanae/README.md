@@ -1,5 +1,4 @@
-Sphaerella bardanae Hazsl. SPECIES
-=======
+# Sphaerella bardanae Hazsl. SPECIES
 
 #### Status
 ACCEPTED

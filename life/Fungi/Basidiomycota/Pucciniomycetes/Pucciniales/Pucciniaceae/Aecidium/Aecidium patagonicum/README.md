@@ -1,5 +1,4 @@
-Aecidium patagonicum Speg. SPECIES
-=======
+# Aecidium patagonicum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plenotrichopsis coffeae Bat., H. Maia & C.T. Vasconc., 1961 SPECIES
-=======
+# Plenotrichopsis coffeae Bat., H. Maia & C.T. Vasconc., 1961 SPECIES
 
 #### Status
 ACCEPTED

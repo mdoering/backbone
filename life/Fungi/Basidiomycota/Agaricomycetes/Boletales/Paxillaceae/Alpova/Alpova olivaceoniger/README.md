@@ -1,5 +1,4 @@
-Alpova olivaceoniger (A.H. Sm.) Trappe SPECIES
-=======
+# Alpova olivaceoniger (A.H. Sm.) Trappe SPECIES
 
 #### Status
 ACCEPTED

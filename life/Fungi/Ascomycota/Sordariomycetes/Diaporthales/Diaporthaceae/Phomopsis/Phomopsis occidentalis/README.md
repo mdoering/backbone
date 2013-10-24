@@ -1,5 +1,4 @@
-Phomopsis occidentalis var. occidentalis VARIETY
-=======
+# Phomopsis occidentalis (Sacc.) Traverso SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fl. ital. crypt. (Florence), Pyrenomycetae 2(1): 259 (1906)
 
 #### Original name
-Phomopsis occidentalis var. occidentalis
+Phoma occidentalis Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Corticium cremeo-ochraceum Bourdot & Galzin SPECIES
-=======
+# Corticium cremeo-ochraceum Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

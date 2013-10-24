@@ -1,5 +1,4 @@
-Sphaeria cucubali Kirchn. SPECIES
-=======
+# Sphaeria cucubali Kirchn. SPECIES
 
 #### Status
 ACCEPTED

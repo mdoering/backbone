@@ -1,5 +1,4 @@
-Cortinarius insignolens (Rob. Henry) Rob. Henry SPECIES
-=======
+# Cortinarius insignolens (Rob. Henry) Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

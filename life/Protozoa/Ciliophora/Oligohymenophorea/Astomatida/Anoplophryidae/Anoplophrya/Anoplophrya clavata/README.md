@@ -1,5 +1,4 @@
-Anoplophrya clavata SPECIES
-=======
+# Anoplophrya clavata SPECIES
 
 #### Status
 ACCEPTED

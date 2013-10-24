@@ -1,5 +1,4 @@
-Thalloidima rechingeri Szatala SPECIES
-=======
+# Thalloidima rechingeri Szatala SPECIES
 
 #### Status
 ACCEPTED

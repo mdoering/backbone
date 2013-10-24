@@ -1,5 +1,4 @@
-Hypodermopsis sequoiae Earle SPECIES
-=======
+# Hypodermopsis sequoiae Earle SPECIES
 
 #### Status
 ACCEPTED

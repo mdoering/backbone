@@ -1,5 +1,4 @@
-Laboulbenia selenae Thaxt. SPECIES
-=======
+# Laboulbenia selenae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

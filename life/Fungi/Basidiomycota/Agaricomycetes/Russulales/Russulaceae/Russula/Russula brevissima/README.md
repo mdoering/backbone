@@ -1,5 +1,4 @@
-Russula brevissima Moënne-Locc. SPECIES
-=======
+# Russula brevissima Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

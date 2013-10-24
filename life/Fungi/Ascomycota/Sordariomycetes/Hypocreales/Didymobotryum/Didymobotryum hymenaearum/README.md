@@ -1,5 +1,4 @@
-Didymobotryum hymenaearum Bat. & Peres SPECIES
-=======
+# Didymobotryum hymenaearum Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

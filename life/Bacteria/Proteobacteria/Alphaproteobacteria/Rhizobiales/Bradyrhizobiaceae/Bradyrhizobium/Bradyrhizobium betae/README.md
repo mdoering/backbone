@@ -1,5 +1,4 @@
-Bradyrhizobium betae Rivas et al., 2004 SPECIES
-=======
+# Bradyrhizobium betae Rivas et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

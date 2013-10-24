@@ -1,5 +1,4 @@
-Allodus crassipes Arthur SPECIES
-=======
+# Allodus crassipes Arthur SPECIES
 
 #### Status
 ACCEPTED

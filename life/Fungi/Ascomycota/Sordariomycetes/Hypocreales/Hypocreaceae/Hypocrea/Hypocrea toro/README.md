@@ -1,5 +1,4 @@
-Hypocrea toro Dingley, 1952 SPECIES
-=======
+# Hypocrea toro Dingley, 1952 SPECIES
 
 #### Status
 ACCEPTED

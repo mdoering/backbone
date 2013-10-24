@@ -1,5 +1,4 @@
-Lithothelium bahamense Riddle SPECIES
-=======
+# Lithothelium bahamense Riddle SPECIES
 
 #### Status
 ACCEPTED

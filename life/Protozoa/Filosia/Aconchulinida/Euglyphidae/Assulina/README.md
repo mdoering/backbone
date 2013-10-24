@@ -1,5 +1,4 @@
-Assulina Leidy, 1879 GENUS
-=======
+# Assulina Leidy, 1879 GENUS
 
 #### Status
 ACCEPTED

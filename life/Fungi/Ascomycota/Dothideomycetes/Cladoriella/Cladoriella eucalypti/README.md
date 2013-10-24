@@ -1,5 +1,4 @@
-Cladoriella eucalypti Crous, 2006 SPECIES
-=======
+# Cladoriella eucalypti Crous, 2006 SPECIES
 
 #### Status
 ACCEPTED

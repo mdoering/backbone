@@ -1,5 +1,4 @@
-Tuberculina pelargonii Pat. SPECIES
-=======
+# Tuberculina pelargonii Pat. SPECIES
 
 #### Status
 ACCEPTED

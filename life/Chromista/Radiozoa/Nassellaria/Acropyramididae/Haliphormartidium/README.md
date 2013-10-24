@@ -1,5 +1,4 @@
-Haliphormartidium Campbell, 1951 GENUS
-=======
+# Haliphormartidium Campbell, 1951 GENUS
 
 #### Status
 ACCEPTED

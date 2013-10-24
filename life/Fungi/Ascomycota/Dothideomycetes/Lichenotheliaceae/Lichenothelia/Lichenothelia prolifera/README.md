@@ -1,5 +1,4 @@
-Lichenothelia prolifera Henssen SPECIES
-=======
+# Lichenothelia prolifera Henssen SPECIES
 
 #### Status
 ACCEPTED

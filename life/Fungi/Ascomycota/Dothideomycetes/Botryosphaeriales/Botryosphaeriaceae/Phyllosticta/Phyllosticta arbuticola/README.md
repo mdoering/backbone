@@ -1,5 +1,4 @@
-Phyllosticta arbuticola Gucevic SPECIES
-=======
+# Phyllosticta arbuticola Gucevic SPECIES
 
 #### Status
 ACCEPTED

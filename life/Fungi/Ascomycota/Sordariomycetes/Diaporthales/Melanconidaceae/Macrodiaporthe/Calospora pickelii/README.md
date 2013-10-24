@@ -1,5 +1,4 @@
-Calospora pickelii Oudem. & Rick SPECIES
-=======
+# Calospora pickelii Oudem. & Rick SPECIES
 
 #### Status
 DOUBTFUL

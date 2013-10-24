@@ -1,5 +1,4 @@
-Lophiotrema braunii Rick SPECIES
-=======
+# Lophiotrema braunii Rick SPECIES
 
 #### Status
 ACCEPTED

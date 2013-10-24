@@ -1,5 +1,4 @@
-Pseudocyphellaria diplomorpha (Müll. Arg.) D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria diplomorpha (Müll. Arg.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

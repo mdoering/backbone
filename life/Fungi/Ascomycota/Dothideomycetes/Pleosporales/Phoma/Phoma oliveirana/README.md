@@ -1,5 +1,4 @@
-Phoma oliveirana Sousa da Câmara SPECIES
-=======
+# Phoma oliveirana Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

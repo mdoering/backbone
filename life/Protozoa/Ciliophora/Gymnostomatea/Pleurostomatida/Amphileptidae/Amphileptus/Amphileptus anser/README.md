@@ -1,5 +1,4 @@
-Amphileptus anser SPECIES
-=======
+# Amphileptus anser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciliophora quercus Xiang Sun & L.D. Guo SPECIES
-=======
+# Ciliophora quercus Xiang Sun & L.D. Guo SPECIES
 
 #### Status
 ACCEPTED

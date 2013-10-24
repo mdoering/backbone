@@ -1,5 +1,4 @@
-Molliardiomyces guatemalensis Paden SPECIES
-=======
+# Molliardiomyces guatemalensis Paden SPECIES
 
 #### Status
 ACCEPTED

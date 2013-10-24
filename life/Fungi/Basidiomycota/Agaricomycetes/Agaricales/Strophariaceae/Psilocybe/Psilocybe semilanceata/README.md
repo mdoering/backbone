@@ -1,17 +1,16 @@
-Psilocybe semilanceata var. microspora Singer VARIETY
-=======
+# Psilocybe semilanceata (Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia, Beih. 29: 247 (1969)
+Führ. Pilzk. (Zwickau) 71 (1871)
 
 #### Original name
-Psilocybe semilanceata var. microspora Singer
+Agaricus semilanceatus Fr., 1818
 
 ### Remarks
 null

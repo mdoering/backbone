@@ -1,5 +1,4 @@
-Clitopilus magnisporus Murrill SPECIES
-=======
+# Clitopilus magnisporus Murrill SPECIES
 
 #### Status
 ACCEPTED

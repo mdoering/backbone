@@ -1,5 +1,4 @@
-Poria uncinata Weir SPECIES
-=======
+# Poria uncinata Weir SPECIES
 
 #### Status
 ACCEPTED

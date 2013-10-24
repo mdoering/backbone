@@ -1,5 +1,4 @@
-Corticium geophilum Durieu & Mont. SPECIES
-=======
+# Corticium geophilum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

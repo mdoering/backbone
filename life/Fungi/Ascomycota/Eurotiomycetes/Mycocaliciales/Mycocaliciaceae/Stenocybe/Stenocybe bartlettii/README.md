@@ -1,5 +1,4 @@
-Stenocybe bartlettii Tibell SPECIES
-=======
+# Stenocybe bartlettii Tibell SPECIES
 
 #### Status
 ACCEPTED

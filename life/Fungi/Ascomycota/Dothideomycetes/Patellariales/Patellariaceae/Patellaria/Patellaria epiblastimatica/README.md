@@ -1,5 +1,4 @@
-Patellaria epiblastimatica Wallr. SPECIES
-=======
+# Patellaria epiblastimatica Wallr. SPECIES
 
 #### Status
 ACCEPTED

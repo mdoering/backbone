@@ -1,5 +1,4 @@
-Hormodendrum chaquense S. Mazza & Niño, 1940 SPECIES
-=======
+# Hormodendrum chaquense S. Mazza & Niño, 1940 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria argemones Tharp SPECIES
-=======
+# Septoria argemones Tharp SPECIES
 
 #### Status
 ACCEPTED

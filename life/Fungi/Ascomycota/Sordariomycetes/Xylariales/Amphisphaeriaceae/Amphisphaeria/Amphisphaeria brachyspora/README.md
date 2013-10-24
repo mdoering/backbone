@@ -1,5 +1,4 @@
-Amphisphaeria brachyspora Kirschst. SPECIES
-=======
+# Amphisphaeria brachyspora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

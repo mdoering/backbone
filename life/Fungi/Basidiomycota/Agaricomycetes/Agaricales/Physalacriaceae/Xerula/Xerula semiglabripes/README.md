@@ -1,5 +1,4 @@
-Xerula semiglabripes R.H. Petersen SPECIES
-=======
+# Xerula semiglabripes R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

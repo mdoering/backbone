@@ -1,5 +1,4 @@
-Usnea subchalybaea Zahlbr. SPECIES
-=======
+# Usnea subchalybaea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

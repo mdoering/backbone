@@ -1,5 +1,4 @@
-Seiridium rostratum (Zabriskie) Nag Raj SPECIES
-=======
+# Seiridium rostratum (Zabriskie) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

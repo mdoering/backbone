@@ -1,5 +1,4 @@
-Russula claviceps Velen. SPECIES
-=======
+# Russula claviceps Velen. SPECIES
 
 #### Status
 ACCEPTED

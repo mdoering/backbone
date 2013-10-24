@@ -1,5 +1,4 @@
-Semipseudocercospora GENUS
-=======
+# Semipseudocercospora GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria communis Sowerby SPECIES
-=======
+# Sphaeria communis Sowerby SPECIES
 
 #### Status
 ACCEPTED

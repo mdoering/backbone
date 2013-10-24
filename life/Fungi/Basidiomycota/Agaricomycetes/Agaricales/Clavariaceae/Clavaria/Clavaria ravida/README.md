@@ -1,5 +1,4 @@
-Clavaria ravida Maas Geest. SPECIES
-=======
+# Clavaria ravida Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

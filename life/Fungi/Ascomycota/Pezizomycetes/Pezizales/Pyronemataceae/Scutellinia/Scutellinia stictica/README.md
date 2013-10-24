@@ -1,5 +1,4 @@
-Scutellinia stictica (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Scutellinia stictica (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

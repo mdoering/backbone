@@ -1,5 +1,4 @@
-Pseudocercospora cypripedii (Ellis & Dearn.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora cypripedii (Ellis & Dearn.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

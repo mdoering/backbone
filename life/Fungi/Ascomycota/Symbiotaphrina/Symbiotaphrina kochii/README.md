@@ -1,5 +1,4 @@
-Symbiotaphrina kochii Jurzitza ex W. Gams & Arx, 1980 SPECIES
-=======
+# Symbiotaphrina kochii Jurzitza ex W. Gams & Arx, 1980 SPECIES
 
 #### Status
 ACCEPTED

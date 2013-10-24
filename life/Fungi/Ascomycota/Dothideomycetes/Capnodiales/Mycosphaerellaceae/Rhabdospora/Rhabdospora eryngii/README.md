@@ -1,5 +1,4 @@
-Rhabdospora eryngii Syd. & P. Syd. SPECIES
-=======
+# Rhabdospora eryngii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

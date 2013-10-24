@@ -1,5 +1,4 @@
-Karstenia faginea Britzelm. SPECIES
-=======
+# Karstenia faginea Britzelm. SPECIES
 
 #### Status
 ACCEPTED

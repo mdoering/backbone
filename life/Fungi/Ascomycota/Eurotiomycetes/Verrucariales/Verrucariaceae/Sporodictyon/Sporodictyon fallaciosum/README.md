@@ -1,5 +1,4 @@
-Sporodictyon fallaciosum Stizenb. SPECIES
-=======
+# Sporodictyon fallaciosum Stizenb. SPECIES
 
 #### Status
 ACCEPTED

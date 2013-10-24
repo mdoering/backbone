@@ -1,5 +1,4 @@
-Spirillina lucida Sidebottom, 1908 SPECIES
-=======
+# Spirillina lucida Sidebottom, 1908 SPECIES
 
 #### Status
 ACCEPTED

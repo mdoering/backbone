@@ -1,5 +1,4 @@
-Ramaria hemirubella R.H. Petersen & M. Zang, 1986 SPECIES
-=======
+# Ramaria hemirubella R.H. Petersen & M. Zang, 1986 SPECIES
 
 #### Status
 ACCEPTED

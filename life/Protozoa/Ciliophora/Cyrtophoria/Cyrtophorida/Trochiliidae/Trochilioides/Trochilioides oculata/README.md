@@ -1,5 +1,4 @@
-Trochilioides oculata Kahl, 1933 SPECIES
-=======
+# Trochilioides oculata Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

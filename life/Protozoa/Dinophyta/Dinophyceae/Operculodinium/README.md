@@ -1,5 +1,4 @@
-Operculodinium D.Wall, 1967 GENUS
-=======
+# Operculodinium D.Wall, 1967 GENUS
 
 #### Status
 ACCEPTED

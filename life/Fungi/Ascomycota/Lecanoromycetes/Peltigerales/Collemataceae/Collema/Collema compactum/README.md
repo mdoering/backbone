@@ -1,5 +1,4 @@
-Collema compactum Ach. SPECIES
-=======
+# Collema compactum Ach. SPECIES
 
 #### Status
 ACCEPTED

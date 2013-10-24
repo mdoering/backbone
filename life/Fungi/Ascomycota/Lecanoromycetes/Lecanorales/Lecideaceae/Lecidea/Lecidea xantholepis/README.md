@@ -1,5 +1,4 @@
-Lecidea xantholepis SPECIES
-=======
+# Lecidea xantholepis SPECIES
 
 #### Status
 ACCEPTED

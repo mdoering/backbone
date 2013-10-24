@@ -1,5 +1,4 @@
-Lichen elatior Weber SPECIES
-=======
+# Lichen elatior Weber SPECIES
 
 #### Status
 ACCEPTED

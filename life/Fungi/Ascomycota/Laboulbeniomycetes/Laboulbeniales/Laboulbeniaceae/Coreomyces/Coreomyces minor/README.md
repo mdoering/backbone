@@ -1,5 +1,4 @@
-Coreomyces minor Thaxt. SPECIES
-=======
+# Coreomyces minor Thaxt. SPECIES
 
 #### Status
 ACCEPTED

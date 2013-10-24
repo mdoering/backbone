@@ -1,5 +1,4 @@
-Oospora parca Sacc. SPECIES
-=======
+# Oospora parca Sacc. SPECIES
 
 #### Status
 ACCEPTED

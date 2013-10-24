@@ -1,5 +1,4 @@
-Pestalotia ilicis Westend. SPECIES
-=======
+# Pestalotia ilicis Westend. SPECIES
 
 #### Status
 ACCEPTED

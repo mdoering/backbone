@@ -1,5 +1,4 @@
-Zeora variabilis var. variabilis VARIETY
-=======
+# Zeora variabilis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Zeora variabilis var. variabilis
+null
 
 ### Remarks
 null

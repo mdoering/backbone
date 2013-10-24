@@ -1,5 +1,4 @@
-Phoma eremuri Zaprom. SPECIES
-=======
+# Phoma eremuri Zaprom. SPECIES
 
 #### Status
 ACCEPTED

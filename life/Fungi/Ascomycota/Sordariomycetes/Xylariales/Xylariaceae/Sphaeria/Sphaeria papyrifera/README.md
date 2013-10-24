@@ -1,5 +1,4 @@
-Sphaeria papyrifera Link SPECIES
-=======
+# Sphaeria papyrifera Link SPECIES
 
 #### Status
 ACCEPTED

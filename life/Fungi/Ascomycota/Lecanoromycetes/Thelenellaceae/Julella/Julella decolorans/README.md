@@ -1,5 +1,4 @@
-Julella decolorans (Riddle) R.C. Harris SPECIES
-=======
+# Julella decolorans (Riddle) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

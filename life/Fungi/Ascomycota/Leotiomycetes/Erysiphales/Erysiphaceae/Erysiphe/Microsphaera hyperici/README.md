@@ -1,5 +1,4 @@
-Microsphaera hyperici Y.N. Yu & Y.Q. Lai SPECIES
-=======
+# Microsphaera hyperici Y.N. Yu & Y.Q. Lai SPECIES
 
 #### Status
 ACCEPTED

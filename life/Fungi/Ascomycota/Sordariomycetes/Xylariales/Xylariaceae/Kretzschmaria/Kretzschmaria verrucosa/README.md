@@ -1,5 +1,4 @@
-Kretzschmaria verrucosa (J.H. Mill.) P.M.D. Martin SPECIES
-=======
+# Kretzschmaria verrucosa (J.H. Mill.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

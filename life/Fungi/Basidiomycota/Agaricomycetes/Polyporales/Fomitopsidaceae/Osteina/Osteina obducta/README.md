@@ -1,17 +1,16 @@
-Grifola obducta subsp. obducta SUBSPECIES
-=======
+# Osteina obducta (Berk.) Donk, 1966 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 4(4): 91 (1963)
+Schweiz. Z. Pilzk. 44: 86 (1966)
 
 #### Original name
-Grifola obducta subsp. obducta
+Polyporus obductus Berk., 1845
 
 ### Remarks
 null

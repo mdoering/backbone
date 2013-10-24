@@ -1,5 +1,4 @@
-Dendrosarcus thozetii (Berk. & F. Muell.) Kuntze SPECIES
-=======
+# Dendrosarcus thozetii (Berk. & F. Muell.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

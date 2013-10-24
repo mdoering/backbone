@@ -1,5 +1,4 @@
-Nosema necatrix J.P. Kramer SPECIES
-=======
+# Nosema necatrix J.P. Kramer SPECIES
 
 #### Status
 ACCEPTED

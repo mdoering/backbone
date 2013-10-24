@@ -1,5 +1,4 @@
-Eutypella mori Schulzer & Sacc. SPECIES
-=======
+# Eutypella mori Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

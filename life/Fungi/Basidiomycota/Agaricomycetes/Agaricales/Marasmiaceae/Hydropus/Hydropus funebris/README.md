@@ -1,14 +1,13 @@
-Agaricus funebris Speg., 1888 SPECIES
-=======
+# Hydropus funebris (Speg.) Singer, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boln Acad. nac. Cienc. Córdoba 11(2): 141 (1888)
+Persoonia 4(4): 364 (1967)
 
 #### Original name
 Agaricus funebris Speg., 1888

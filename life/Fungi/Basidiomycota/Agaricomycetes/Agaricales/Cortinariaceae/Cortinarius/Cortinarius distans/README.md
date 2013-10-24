@@ -1,5 +1,4 @@
-Cortinarius distans Peck SPECIES
-=======
+# Cortinarius distans Peck SPECIES
 
 #### Status
 ACCEPTED

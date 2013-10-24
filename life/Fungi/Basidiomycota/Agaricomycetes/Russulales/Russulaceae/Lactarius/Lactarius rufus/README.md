@@ -1,17 +1,16 @@
-Agaricus variabilis var. variabilis VARIETY
-=======
+# Lactarius rufus (Scop.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Lipsiae) 2: 46 (1800)
+Epicr. syst. mycol. (Upsaliae) 347 (1838)
 
 #### Original name
-Agaricus variabilis var. variabilis
+Agaricus rufus Scop., 1772
 
 ### Remarks
 null

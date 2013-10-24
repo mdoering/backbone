@@ -1,5 +1,4 @@
-Omphalia areolata Velen. SPECIES
-=======
+# Omphalia areolata Velen. SPECIES
 
 #### Status
 ACCEPTED

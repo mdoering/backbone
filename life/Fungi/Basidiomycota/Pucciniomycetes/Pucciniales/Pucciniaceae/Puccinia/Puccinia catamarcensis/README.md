@@ -1,5 +1,4 @@
-Puccinia catamarcensis J.C. Lindq. SPECIES
-=======
+# Puccinia catamarcensis J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

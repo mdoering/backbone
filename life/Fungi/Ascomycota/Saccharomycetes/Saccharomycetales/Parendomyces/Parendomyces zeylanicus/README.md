@@ -1,5 +1,4 @@
-Parendomyces zeylanicus (Castell.) C.W. Dodge SPECIES
-=======
+# Parendomyces zeylanicus (Castell.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

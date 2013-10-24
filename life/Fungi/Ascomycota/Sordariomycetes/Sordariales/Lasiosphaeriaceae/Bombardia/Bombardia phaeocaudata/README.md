@@ -1,5 +1,4 @@
-Bombardia phaeocaudata Teng SPECIES
-=======
+# Bombardia phaeocaudata Teng SPECIES
 
 #### Status
 ACCEPTED

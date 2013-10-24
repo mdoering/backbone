@@ -1,5 +1,4 @@
-Vibrio orientalis Yang et al., 1983 SPECIES
-=======
+# Vibrio orientalis Yang et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

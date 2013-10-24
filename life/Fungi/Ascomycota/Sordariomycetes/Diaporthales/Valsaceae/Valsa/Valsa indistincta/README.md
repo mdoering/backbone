@@ -1,5 +1,4 @@
-Valsa indistincta (Schwein.) Cooke SPECIES
-=======
+# Valsa indistincta (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

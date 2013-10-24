@@ -1,5 +1,4 @@
-Allodus interveniens (Bethel) Arthur & Orton SPECIES
-=======
+# Allodus interveniens (Bethel) Arthur & Orton SPECIES
 
 #### Status
 ACCEPTED

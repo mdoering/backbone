@@ -1,5 +1,4 @@
-Balsamia alba Harkn. SPECIES
-=======
+# Balsamia alba Harkn. SPECIES
 
 #### Status
 ACCEPTED

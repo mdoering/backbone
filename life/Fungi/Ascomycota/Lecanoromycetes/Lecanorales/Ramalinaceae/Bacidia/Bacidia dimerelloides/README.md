@@ -1,5 +1,4 @@
-Bacidia dimerelloides Vezda SPECIES
-=======
+# Bacidia dimerelloides Vezda SPECIES
 
 #### Status
 ACCEPTED

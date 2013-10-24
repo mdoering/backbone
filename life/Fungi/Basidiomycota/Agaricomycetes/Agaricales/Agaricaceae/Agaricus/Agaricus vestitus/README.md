@@ -1,5 +1,4 @@
-Agaricus vestitus Chevall. SPECIES
-=======
+# Agaricus vestitus Chevall. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gemmophora Schkorb. GENUS
-=======
+# Gemmophora Schkorb. GENUS
 
 #### Status
 ACCEPTED

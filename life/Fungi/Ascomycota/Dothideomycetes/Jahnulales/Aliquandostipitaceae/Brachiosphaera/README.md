@@ -1,5 +1,4 @@
-Brachiosphaera Nawawi, 1976 GENUS
-=======
+# Brachiosphaera Nawawi, 1976 GENUS
 
 #### Status
 ACCEPTED

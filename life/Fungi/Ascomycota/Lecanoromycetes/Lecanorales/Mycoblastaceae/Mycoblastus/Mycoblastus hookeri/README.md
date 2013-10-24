@@ -1,5 +1,4 @@
-Mycoblastus hookeri C.W. Dodge SPECIES
-=======
+# Mycoblastus hookeri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

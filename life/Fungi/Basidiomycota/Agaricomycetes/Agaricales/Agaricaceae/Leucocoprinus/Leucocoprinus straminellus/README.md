@@ -1,17 +1,16 @@
-Lepiota denudata var. denudata (Rabenh.) Sacc. VARIETY
-=======
+# Leucocoprinus straminellus (Bagl.) Narducci & Caroti, 1995 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 52 (1887)
+null
 
 #### Original name
-Lepiota denudata var. denudata (Rabenh.) Sacc.
+Lepiota straminella Bagl., 1887
 
 ### Remarks
 null

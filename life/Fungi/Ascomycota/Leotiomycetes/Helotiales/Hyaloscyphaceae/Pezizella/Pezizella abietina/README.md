@@ -1,5 +1,4 @@
-Pezizella abietina Velen. SPECIES
-=======
+# Pezizella abietina Velen. SPECIES
 
 #### Status
 ACCEPTED

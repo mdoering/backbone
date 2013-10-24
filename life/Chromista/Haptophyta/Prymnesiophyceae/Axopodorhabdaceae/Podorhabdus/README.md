@@ -1,14 +1,13 @@
-Hemipodorhabdus M. Black, 1971 GENUS
-=======
+# Podorhabdus Noël, 1965 GENUS
 
 #### Status
 ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Yorks. Geol. Soc. 38: 403.
+Sur les coccolithes du Jurassique européen et d'Afrique du Nord. Essai de classification des coccolithes fossiles. Éditions du Centre National de la Recherche Scientifique, Paris: 100.
 
 #### Original name
 null

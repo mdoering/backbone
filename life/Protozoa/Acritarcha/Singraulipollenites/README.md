@@ -1,5 +1,4 @@
-Singraulipollenites V. Sinha, 1969 GENUS
-=======
+# Singraulipollenites V. Sinha, 1969 GENUS
 
 #### Status
 ACCEPTED

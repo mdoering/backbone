@@ -1,5 +1,4 @@
-Dasypyrena GENUS
-=======
+# Dasypyrena GENUS
 
 #### Status
 ACCEPTED

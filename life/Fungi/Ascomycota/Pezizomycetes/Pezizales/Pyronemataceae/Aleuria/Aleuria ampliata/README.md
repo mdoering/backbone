@@ -1,5 +1,4 @@
-Aleuria ampliata SPECIES
-=======
+# Aleuria ampliata SPECIES
 
 #### Status
 ACCEPTED

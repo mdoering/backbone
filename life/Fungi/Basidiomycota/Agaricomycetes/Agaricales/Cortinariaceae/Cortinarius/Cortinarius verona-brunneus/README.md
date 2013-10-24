@@ -1,5 +1,4 @@
-Cortinarius verona-brunneus Cleland & J.R. Harris SPECIES
-=======
+# Cortinarius verona-brunneus Cleland & J.R. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo globulosa Arthur SPECIES
-=======
+# Uredo globulosa Arthur SPECIES
 
 #### Status
 ACCEPTED

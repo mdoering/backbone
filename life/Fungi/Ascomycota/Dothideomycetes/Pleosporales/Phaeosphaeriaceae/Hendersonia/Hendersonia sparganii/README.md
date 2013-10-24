@@ -1,5 +1,4 @@
-Hendersonia sparganii Niessl SPECIES
-=======
+# Hendersonia sparganii Niessl SPECIES
 
 #### Status
 ACCEPTED

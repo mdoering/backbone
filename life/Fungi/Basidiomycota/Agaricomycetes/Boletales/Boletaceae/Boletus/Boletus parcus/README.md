@@ -1,5 +1,4 @@
-Boletus parcus Corner SPECIES
-=======
+# Boletus parcus Corner SPECIES
 
 #### Status
 ACCEPTED

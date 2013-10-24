@@ -1,14 +1,13 @@
-Magnusia nitida Sacc., 1878 SPECIES
-=======
+# Kernia nitida (Sacc.) Nieuwl., 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 2): 123 (1878)
+Am. Midl. Nat. 4: 379 (1916)
 
 #### Original name
 Magnusia nitida Sacc., 1878

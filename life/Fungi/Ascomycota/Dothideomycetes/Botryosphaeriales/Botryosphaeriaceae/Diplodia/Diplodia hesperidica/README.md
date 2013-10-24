@@ -1,5 +1,4 @@
-Diplodia hesperidica Speg. SPECIES
-=======
+# Diplodia hesperidica Speg. SPECIES
 
 #### Status
 ACCEPTED

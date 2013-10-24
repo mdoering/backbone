@@ -1,5 +1,4 @@
-Borrelia garinii Baranton et al., 1992 SPECIES
-=======
+# Borrelia garinii Baranton et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

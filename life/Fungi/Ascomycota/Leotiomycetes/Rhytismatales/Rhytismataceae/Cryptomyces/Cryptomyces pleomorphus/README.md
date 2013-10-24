@@ -1,5 +1,4 @@
-Cryptomyces pleomorphus Gruner SPECIES
-=======
+# Cryptomyces pleomorphus Gruner SPECIES
 
 #### Status
 ACCEPTED

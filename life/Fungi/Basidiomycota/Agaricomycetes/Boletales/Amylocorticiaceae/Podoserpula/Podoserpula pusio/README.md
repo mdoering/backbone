@@ -1,17 +1,16 @@
-Podoserpula pusio var. pusio VARIETY
-=======
+# Podoserpula pusio (Berk.) D.A. Reid, 1963 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Kew Bull. 16: 439 (1963)
 
 #### Original name
-Podoserpula pusio var. pusio
+Craterellus pusio Berk., 1859
 
 ### Remarks
 null

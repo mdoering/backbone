@@ -1,5 +1,4 @@
-Rolfina Laursen, 1994 GENUS
-=======
+# Rolfina Laursen, 1994 GENUS
 
 #### Status
 ACCEPTED

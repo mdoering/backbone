@@ -1,5 +1,4 @@
-Armillaria griseomellea (Singer) Kile & Watling SPECIES
-=======
+# Armillaria griseomellea (Singer) Kile & Watling SPECIES
 
 #### Status
 ACCEPTED

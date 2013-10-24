@@ -1,5 +1,4 @@
-Colletotrichum rhamni E. Radul. & Negru SPECIES
-=======
+# Colletotrichum rhamni E. Radul. & Negru SPECIES
 
 #### Status
 ACCEPTED

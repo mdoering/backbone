@@ -1,5 +1,4 @@
-Gautieria fuegiana E. Horak SPECIES
-=======
+# Gautieria fuegiana E. Horak SPECIES
 
 #### Status
 ACCEPTED

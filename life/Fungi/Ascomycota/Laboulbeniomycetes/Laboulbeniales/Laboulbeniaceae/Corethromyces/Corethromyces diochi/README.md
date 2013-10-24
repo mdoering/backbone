@@ -1,5 +1,4 @@
-Corethromyces diochi Thaxt. SPECIES
-=======
+# Corethromyces diochi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

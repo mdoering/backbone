@@ -1,5 +1,4 @@
-Melaspilea striolata Müll. Arg. SPECIES
-=======
+# Melaspilea striolata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

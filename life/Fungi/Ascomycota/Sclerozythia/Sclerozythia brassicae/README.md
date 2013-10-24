@@ -1,5 +1,4 @@
-Sclerozythia brassicae Petch, 1937 SPECIES
-=======
+# Sclerozythia brassicae Petch, 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neoendothyranella Nestell & Nestell, 2006 GENUS
-=======
+# Neoendothyranella Nestell & Nestell, 2006 GENUS
 
 #### Status
 ACCEPTED

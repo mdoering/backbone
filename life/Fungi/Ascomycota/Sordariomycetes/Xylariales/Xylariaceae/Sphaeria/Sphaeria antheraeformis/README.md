@@ -1,5 +1,4 @@
-Sphaeria antheraeformis Heer SPECIES
-=======
+# Sphaeria antheraeformis Heer SPECIES
 
 #### Status
 ACCEPTED

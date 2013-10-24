@@ -1,5 +1,4 @@
-Mucor cunninghamellioides Pipek SPECIES
-=======
+# Mucor cunninghamellioides Pipek SPECIES
 
 #### Status
 ACCEPTED

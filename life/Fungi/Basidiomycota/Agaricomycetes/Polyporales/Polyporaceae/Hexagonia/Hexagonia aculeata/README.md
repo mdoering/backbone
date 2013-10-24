@@ -1,5 +1,4 @@
-Hexagonia aculeata (Mont.) Sacc. SPECIES
-=======
+# Hexagonia aculeata (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

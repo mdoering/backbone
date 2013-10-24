@@ -1,5 +1,4 @@
-Phoma cyclospora Sacc. SPECIES
-=======
+# Phoma cyclospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

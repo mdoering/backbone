@@ -1,5 +1,4 @@
-Scopulariopsis hibernica A. Mangan, 1965 SPECIES
-=======
+# Scopulariopsis hibernica A. Mangan, 1965 SPECIES
 
 #### Status
 ACCEPTED

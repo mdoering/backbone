@@ -1,5 +1,4 @@
-Solisphaeridium araithekum Zang Wen-long in Zang Wen-long & Walter SPECIES
-=======
+# Solisphaeridium araithekum Zang Wen-long in Zang Wen-long & Walter SPECIES
 
 #### Status
 ACCEPTED

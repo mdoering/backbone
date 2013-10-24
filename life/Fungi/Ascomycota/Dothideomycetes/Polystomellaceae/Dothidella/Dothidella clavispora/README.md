@@ -1,5 +1,4 @@
-Dothidella clavispora Viégas SPECIES
-=======
+# Dothidella clavispora Viégas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium caespitosum (Taylor) Swinscow & Krog SPECIES
-=======
+# Leptogium caespitosum (Taylor) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

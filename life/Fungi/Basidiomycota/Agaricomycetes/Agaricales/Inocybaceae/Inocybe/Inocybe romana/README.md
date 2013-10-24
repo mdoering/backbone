@@ -1,5 +1,4 @@
-Inocybe romana Lonati SPECIES
-=======
+# Inocybe romana Lonati SPECIES
 
 #### Status
 ACCEPTED

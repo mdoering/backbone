@@ -1,5 +1,4 @@
-Lachnocladium vimineum Corner SPECIES
-=======
+# Lachnocladium vimineum Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naevia benguellensis Vain. SPECIES
-=======
+# Naevia benguellensis Vain. SPECIES
 
 #### Status
 ACCEPTED

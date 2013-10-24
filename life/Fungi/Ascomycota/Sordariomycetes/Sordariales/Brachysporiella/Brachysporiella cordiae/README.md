@@ -1,5 +1,4 @@
-Brachysporiella cordiae Bat. SPECIES
-=======
+# Brachysporiella cordiae Bat. SPECIES
 
 #### Status
 ACCEPTED

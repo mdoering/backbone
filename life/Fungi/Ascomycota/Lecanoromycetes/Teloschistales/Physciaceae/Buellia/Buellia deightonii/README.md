@@ -1,17 +1,16 @@
-Buellia deightoni C.W. Dodge SPECIES
-=======
+# Buellia deightonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 40: 394 (1953)
 
 #### Original name
-Buellia deightoni C.W. Dodge
+Buellia deightonii C.W. Dodge
 
 ### Remarks
 null

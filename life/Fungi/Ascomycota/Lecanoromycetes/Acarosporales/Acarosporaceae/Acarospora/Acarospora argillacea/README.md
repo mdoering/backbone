@@ -1,5 +1,4 @@
-Acarospora argillacea (Arnold) Hue SPECIES
-=======
+# Acarospora argillacea (Arnold) Hue SPECIES
 
 #### Status
 ACCEPTED

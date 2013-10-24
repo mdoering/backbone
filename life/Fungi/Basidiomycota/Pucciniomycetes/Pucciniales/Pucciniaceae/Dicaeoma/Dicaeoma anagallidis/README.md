@@ -1,5 +1,4 @@
-Dicaeoma anagallidis (Oudem.) Kuntze SPECIES
-=======
+# Dicaeoma anagallidis (Oudem.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

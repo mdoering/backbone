@@ -1,5 +1,4 @@
-Byssomerulius ambiguus (Berk.) Gilb. & Budington SPECIES
-=======
+# Byssomerulius ambiguus (Berk.) Gilb. & Budington SPECIES
 
 #### Status
 ACCEPTED

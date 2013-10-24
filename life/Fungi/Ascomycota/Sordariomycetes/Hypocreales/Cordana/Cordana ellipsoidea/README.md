@@ -1,5 +1,4 @@
-Cordana ellipsoidea de Hoog, 1973 SPECIES
-=======
+# Cordana ellipsoidea de Hoog, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricladium procerum Marvanová SPECIES
-=======
+# Tricladium procerum Marvanová SPECIES
 
 #### Status
 ACCEPTED

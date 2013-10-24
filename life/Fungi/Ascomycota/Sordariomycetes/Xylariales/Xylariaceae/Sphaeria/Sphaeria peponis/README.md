@@ -1,5 +1,4 @@
-Sphaeria peponis Schwein. SPECIES
-=======
+# Sphaeria peponis Schwein. SPECIES
 
 #### Status
 ACCEPTED

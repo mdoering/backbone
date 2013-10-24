@@ -1,5 +1,4 @@
-Schizocalyptra Dragesco, 1968 GENUS
-=======
+# Schizocalyptra Dragesco, 1968 GENUS
 
 #### Status
 ACCEPTED

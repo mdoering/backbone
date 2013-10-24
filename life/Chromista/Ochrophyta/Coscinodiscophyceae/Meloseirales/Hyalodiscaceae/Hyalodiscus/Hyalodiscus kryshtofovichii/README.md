@@ -1,5 +1,4 @@
-Hyalodiscus kryshtofovichii A. P. Jousé SPECIES
-=======
+# Hyalodiscus kryshtofovichii A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

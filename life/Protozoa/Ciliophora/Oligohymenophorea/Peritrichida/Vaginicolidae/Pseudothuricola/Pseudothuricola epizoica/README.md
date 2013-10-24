@@ -1,5 +1,4 @@
-Pseudothuricola epizoica SPECIES
-=======
+# Pseudothuricola epizoica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Acremonium loliae Latch, M.J. Chr. & Samuels SPECIES
-=======
+# Neotyphodium lolii (Latch, M.J. Chr. & Samuels) Glenn, C.W. Bacon & Hanlin, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Glenn, Bacon, Price & Hanlin, Mycologia 88(3): 377 (1996)
 
 #### Original name
-Acremonium loliae Latch, M.J. Chr. & Samuels
+Acremonium lolii Latch, M.J. Chr. & Samuels, 1984
 
 ### Remarks
 null

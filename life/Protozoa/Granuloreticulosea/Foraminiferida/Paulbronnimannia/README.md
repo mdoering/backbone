@@ -1,5 +1,4 @@
-Paulbronnimannia Rettori & Zaninetti, 1993 GENUS
-=======
+# Paulbronnimannia Rettori & Zaninetti, 1993 GENUS
 
 #### Status
 ACCEPTED

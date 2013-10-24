@@ -1,5 +1,4 @@
-Hyphoderma densustextum Dhingra, 1989 SPECIES
-=======
+# Hyphoderma densustextum Dhingra, 1989 SPECIES
 
 #### Status
 ACCEPTED

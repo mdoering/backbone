@@ -1,5 +1,4 @@
-Physalospora melastomicola Speg. SPECIES
-=======
+# Physalospora melastomicola Speg. SPECIES
 
 #### Status
 ACCEPTED

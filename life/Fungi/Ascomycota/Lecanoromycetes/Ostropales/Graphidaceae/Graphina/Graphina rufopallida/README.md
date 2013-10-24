@@ -1,5 +1,4 @@
-Graphina rufopallida var. rufopallida VARIETY
-=======
+# Graphina rufopallida (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

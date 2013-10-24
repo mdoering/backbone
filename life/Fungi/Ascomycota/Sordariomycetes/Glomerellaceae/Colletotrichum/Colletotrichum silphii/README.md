@@ -1,5 +1,4 @@
-Colletotrichum silphii Davis SPECIES
-=======
+# Colletotrichum silphii Davis SPECIES
 
 #### Status
 ACCEPTED

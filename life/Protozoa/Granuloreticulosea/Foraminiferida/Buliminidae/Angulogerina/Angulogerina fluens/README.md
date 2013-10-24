@@ -1,5 +1,4 @@
-Angulogerina fluens SPECIES
-=======
+# Angulogerina fluens SPECIES
 
 #### Status
 ACCEPTED

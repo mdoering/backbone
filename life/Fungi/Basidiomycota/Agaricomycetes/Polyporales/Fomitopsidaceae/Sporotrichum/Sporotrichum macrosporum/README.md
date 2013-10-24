@@ -1,5 +1,4 @@
-Sporotrichum macrosporum Grev. SPECIES
-=======
+# Sporotrichum macrosporum Grev. SPECIES
 
 #### Status
 ACCEPTED

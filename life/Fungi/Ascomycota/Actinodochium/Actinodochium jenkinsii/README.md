@@ -1,5 +1,4 @@
-Actinodochium jenkinsii Uppal, Patel & Kamat, 1953 SPECIES
-=======
+# Actinodochium jenkinsii Uppal, Patel & Kamat, 1953 SPECIES
 
 #### Status
 ACCEPTED

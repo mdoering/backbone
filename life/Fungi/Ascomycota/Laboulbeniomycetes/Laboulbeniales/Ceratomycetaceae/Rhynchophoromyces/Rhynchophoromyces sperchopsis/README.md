@@ -1,5 +1,4 @@
-Rhynchophoromyces sperchopsis Thaxt., 1931 SPECIES
-=======
+# Rhynchophoromyces sperchopsis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

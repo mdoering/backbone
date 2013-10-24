@@ -1,5 +1,4 @@
-Lactarius brevipes Longyear SPECIES
-=======
+# Lactarius brevipes Longyear SPECIES
 
 #### Status
 ACCEPTED

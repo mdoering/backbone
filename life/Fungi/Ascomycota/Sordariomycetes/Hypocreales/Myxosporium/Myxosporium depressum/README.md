@@ -1,5 +1,4 @@
-Myxosporium depressum Sacc. SPECIES
-=======
+# Myxosporium depressum Sacc. SPECIES
 
 #### Status
 ACCEPTED

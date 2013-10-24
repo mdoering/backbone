@@ -1,5 +1,4 @@
-Zukalia lauricola Speg. SPECIES
-=======
+# Zukalia lauricola Speg. SPECIES
 
 #### Status
 ACCEPTED

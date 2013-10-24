@@ -1,17 +1,16 @@
-Thelephora amigenatscha Henn., 1901 SPECIES
-=======
+# Podoscypha bolleana (Mont.) Boidin, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 30: 42 (1901)
+Bull. Jard. bot. État Brux. 30: 323 (1960)
 
 #### Original name
-Thelephora amigenatscha Henn., 1901
+Stereum bolleanum Mont., 1856
 
 ### Remarks
 null

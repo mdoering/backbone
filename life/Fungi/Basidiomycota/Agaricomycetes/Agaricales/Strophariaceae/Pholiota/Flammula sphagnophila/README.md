@@ -1,5 +1,4 @@
-Flammula sphagnophila Peck SPECIES
-=======
+# Flammula sphagnophila Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycohypallage northeae Melnik SPECIES
-=======
+# Mycohypallage northeae Melnik SPECIES
 
 #### Status
 ACCEPTED

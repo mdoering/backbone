@@ -1,5 +1,4 @@
-Amyloporia coriacea e radicata Bourdot & Galzin SPECIES
-=======
+# Amyloporia coriacea e radicata Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodotorula rutila F.C. Harrison SPECIES
-=======
+# Rhodotorula rutila F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

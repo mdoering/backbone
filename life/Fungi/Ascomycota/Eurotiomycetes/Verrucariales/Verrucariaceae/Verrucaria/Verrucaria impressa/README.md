@@ -1,5 +1,4 @@
-Verrucaria impressa (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria impressa (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

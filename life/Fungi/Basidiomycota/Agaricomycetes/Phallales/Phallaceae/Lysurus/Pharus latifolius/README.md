@@ -1,5 +1,4 @@
-Pharus latifolius L. SPECIES
-=======
+# Pharus latifolius L. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia pygmaea Thaxt. SPECIES
-=======
+# Laboulbenia pygmaea Thaxt. SPECIES
 
 #### Status
 ACCEPTED

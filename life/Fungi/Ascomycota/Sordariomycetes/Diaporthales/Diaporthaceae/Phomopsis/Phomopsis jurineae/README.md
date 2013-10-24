@@ -1,5 +1,4 @@
-Phomopsis jurineae Morochk. SPECIES
-=======
+# Phomopsis jurineae Morochk. SPECIES
 
 #### Status
 ACCEPTED

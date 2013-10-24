@@ -1,5 +1,4 @@
-Dendromyceliates K.P. Jain & R.K. Kar GENUS
-=======
+# Dendromyceliates K.P. Jain & R.K. Kar GENUS
 
 #### Status
 ACCEPTED

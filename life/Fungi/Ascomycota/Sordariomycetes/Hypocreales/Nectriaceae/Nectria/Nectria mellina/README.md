@@ -1,5 +1,4 @@
-Nectria mellina Mont. SPECIES
-=======
+# Nectria mellina Mont. SPECIES
 
 #### Status
 ACCEPTED

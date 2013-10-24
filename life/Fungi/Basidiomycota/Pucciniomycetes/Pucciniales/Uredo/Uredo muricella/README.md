@@ -1,5 +1,4 @@
-Uredo muricella Rabenh. SPECIES
-=======
+# Uredo muricella Rabenh. SPECIES
 
 #### Status
 ACCEPTED

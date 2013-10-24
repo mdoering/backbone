@@ -1,5 +1,4 @@
-Laboulbenia hyalopus Speg. SPECIES
-=======
+# Laboulbenia hyalopus Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermocybe chrysophthalma M.M. Moser SPECIES
-=======
+# Dermocybe chrysophthalma M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

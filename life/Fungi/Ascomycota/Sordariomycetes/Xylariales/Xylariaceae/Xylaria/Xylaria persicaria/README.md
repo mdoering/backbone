@@ -1,5 +1,4 @@
-Xylaria persicaria var. persicaria VARIETY
-=======
+# Xylaria persicaria (Schwein.) Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylaria persicaria var. persicaria
+Sphaeria persicaria Schwein.
 
 ### Remarks
 null

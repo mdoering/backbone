@@ -1,8 +1,7 @@
-Diplodia eritrichii Wehm. SPECIES
-=======
+# Diplodia eritrichi Wehm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diplodia eritrichii Wehm.
+Diplodia eritrichi Wehm.
 
 ### Remarks
 null

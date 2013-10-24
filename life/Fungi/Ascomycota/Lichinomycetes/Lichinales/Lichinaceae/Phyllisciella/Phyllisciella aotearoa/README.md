@@ -1,5 +1,4 @@
-Phyllisciella aotearoa Henssen & B. Bartlett SPECIES
-=======
+# Phyllisciella aotearoa Henssen & B. Bartlett SPECIES
 
 #### Status
 ACCEPTED

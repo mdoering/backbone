@@ -1,5 +1,4 @@
-Diplodina czuiliensis Byzova SPECIES
-=======
+# Diplodina czuiliensis Byzova SPECIES
 
 #### Status
 ACCEPTED

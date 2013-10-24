@@ -1,5 +1,4 @@
-Heppia reticulata (Dufour) Nyl. SPECIES
-=======
+# Heppia reticulata (Dufour) Nyl. SPECIES
 
 #### Status
 ACCEPTED

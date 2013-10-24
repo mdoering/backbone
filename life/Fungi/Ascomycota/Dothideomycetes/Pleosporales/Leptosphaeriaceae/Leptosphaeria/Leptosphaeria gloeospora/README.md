@@ -1,14 +1,13 @@
-Sphaeria gloeospora Berk. & Curr., 1861 SPECIES
-=======
+# Leptosphaeria gloeospora (Berk. & Curr.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 7: 454 (1861)
+Syll. fung. (Abellini) 2: 25 (1883)
 
 #### Original name
 Sphaeria gloeospora Berk. & Curr., 1861

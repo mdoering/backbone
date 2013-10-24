@@ -1,5 +1,4 @@
-Spasmostoma Kahl, 1927 GENUS
-=======
+# Spasmostoma Kahl, 1927 GENUS
 
 #### Status
 ACCEPTED

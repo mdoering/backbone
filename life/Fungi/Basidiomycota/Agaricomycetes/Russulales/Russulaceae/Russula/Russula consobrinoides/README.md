@@ -1,5 +1,4 @@
-Russula consobrinoides R. Heim SPECIES
-=======
+# Russula consobrinoides R. Heim SPECIES
 
 #### Status
 ACCEPTED

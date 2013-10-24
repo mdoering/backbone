@@ -1,5 +1,4 @@
-Phytophthora psychrophila T. Jung & E.M. Hansen, 2002 SPECIES
-=======
+# Phytophthora psychrophila T. Jung & E.M. Hansen, 2002 SPECIES
 
 #### Status
 ACCEPTED

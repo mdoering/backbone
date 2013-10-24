@@ -1,5 +1,4 @@
-Pachyospora coronata A. Massal. SPECIES
-=======
+# Pachyospora coronata A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epipyxis calyciforme G. M. Smith SPECIES
-=======
+# Epipyxis calyciforme G. M. Smith SPECIES
 
 #### Status
 ACCEPTED

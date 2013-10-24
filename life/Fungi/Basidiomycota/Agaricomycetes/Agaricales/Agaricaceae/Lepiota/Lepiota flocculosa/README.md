@@ -1,5 +1,4 @@
-Lepiota flocculosa Beeli SPECIES
-=======
+# Lepiota flocculosa Beeli SPECIES
 
 #### Status
 ACCEPTED

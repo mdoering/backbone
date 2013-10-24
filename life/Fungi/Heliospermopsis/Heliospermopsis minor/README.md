@@ -1,5 +1,4 @@
-Heliospermopsis minor He Chengquan, 1984 SPECIES
-=======
+# Heliospermopsis minor He Chengquan, 1984 SPECIES
 
 #### Status
 ACCEPTED

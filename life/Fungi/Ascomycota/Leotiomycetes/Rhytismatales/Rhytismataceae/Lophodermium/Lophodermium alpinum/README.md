@@ -1,14 +1,13 @@
-Dermascia alpina (Rehm) Tehon, 1935 SPECIES
-=======
+# Lophodermium alpinum Rehm, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 13(no. 4): 61 (1935)
+Ber. bayer. bot. Ges. 13: 119 (1912)
 
 #### Original name
 Lophodermium alpinum Rehm, 1912

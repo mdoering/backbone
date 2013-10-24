@@ -1,14 +1,13 @@
-Uredo tuberculata Speg., 1880 SPECIES
-=======
+# Prospodium tuberculatum (Speg.) Arthur, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi argentini pugillus 1: no. 41 (1880)
+N. Amer. Fl. (New York) 7: 161 (1912)
 
 #### Original name
 Uredo tuberculata Speg., 1880

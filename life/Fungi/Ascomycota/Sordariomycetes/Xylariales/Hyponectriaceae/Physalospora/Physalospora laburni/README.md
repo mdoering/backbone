@@ -1,5 +1,4 @@
-Physalospora laburni (Bonord.) Sacc. SPECIES
-=======
+# Physalospora laburni (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

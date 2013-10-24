@@ -1,5 +1,4 @@
-Peziza vincta Cooke & W. Phillips SPECIES
-=======
+# Peziza vincta Cooke & W. Phillips SPECIES
 
 #### Status
 ACCEPTED

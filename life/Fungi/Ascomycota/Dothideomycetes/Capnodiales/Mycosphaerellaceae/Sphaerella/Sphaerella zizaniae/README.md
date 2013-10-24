@@ -1,5 +1,4 @@
-Sphaerella zizaniae (Schwein.) Ellis SPECIES
-=======
+# Sphaerella zizaniae (Schwein.) Ellis SPECIES
 
 #### Status
 ACCEPTED

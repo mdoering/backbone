@@ -1,17 +1,16 @@
-Crepidotus novae-zealandiae Pilát SPECIES
-=======
+# Crepidotus novae-zelandiae Pilát, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Crepidotus novae-zealandiae Pilát
+Crepidotus novae-zelandiae Pilát, 1950
 
 ### Remarks
 null

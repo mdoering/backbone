@@ -1,5 +1,4 @@
-Heterothecium cinchonae Müll. Arg. SPECIES
-=======
+# Heterothecium cinchonae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

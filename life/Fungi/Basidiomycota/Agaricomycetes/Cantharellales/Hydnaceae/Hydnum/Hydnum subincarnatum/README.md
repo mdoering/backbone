@@ -1,5 +1,4 @@
-Hydnum subincarnatum K.A. Harrison SPECIES
-=======
+# Hydnum subincarnatum K.A. Harrison SPECIES
 
 #### Status
 ACCEPTED

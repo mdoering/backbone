@@ -1,5 +1,4 @@
-Collybia disjungenda P. Karst. SPECIES
-=======
+# Collybia disjungenda P. Karst. SPECIES
 
 #### Status
 ACCEPTED

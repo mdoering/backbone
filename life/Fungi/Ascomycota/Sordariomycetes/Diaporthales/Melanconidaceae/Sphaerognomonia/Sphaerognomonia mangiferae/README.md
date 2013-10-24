@@ -1,5 +1,4 @@
-Sphaerognomonia mangiferae Bat. SPECIES
-=======
+# Sphaerognomonia mangiferae Bat. SPECIES
 
 #### Status
 ACCEPTED

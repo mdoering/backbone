@@ -1,5 +1,4 @@
-Tryblidaria washingtonensis Kanouse SPECIES
-=======
+# Tryblidaria washingtonensis Kanouse SPECIES
 
 #### Status
 ACCEPTED

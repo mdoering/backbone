@@ -1,5 +1,4 @@
-Gorgonisphaeridium martiniae (Priewalder, 1987) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Gorgonisphaeridium martiniae (Priewalder, 1987) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

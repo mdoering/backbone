@@ -1,5 +1,4 @@
-Septoria actinidiae Ablak. SPECIES
-=======
+# Septoria actinidiae Ablak. SPECIES
 
 #### Status
 ACCEPTED

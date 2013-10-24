@@ -1,5 +1,4 @@
-Pholiota anomala (A.H. Sm.) Singer SPECIES
-=======
+# Pholiota anomala (A.H. Sm.) Singer SPECIES
 
 #### Status
 ACCEPTED

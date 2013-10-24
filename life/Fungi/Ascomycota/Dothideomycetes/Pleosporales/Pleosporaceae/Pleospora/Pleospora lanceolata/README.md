@@ -1,5 +1,4 @@
-Pleospora lanceolata (Kalchbr. & Cooke) Sacc. SPECIES
-=======
+# Pleospora lanceolata (Kalchbr. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

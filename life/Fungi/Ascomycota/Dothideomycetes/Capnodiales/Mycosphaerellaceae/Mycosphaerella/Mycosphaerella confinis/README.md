@@ -1,5 +1,4 @@
-Mycosphaerella confinis (P. Karst.) Dearn. & House SPECIES
-=======
+# Mycosphaerella confinis (P. Karst.) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

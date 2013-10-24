@@ -1,5 +1,4 @@
-Leucoagaricus viridiflavoides B.P. Akers & Angels, 2000 SPECIES
-=======
+# Leucoagaricus viridiflavoides B.P. Akers & Angels, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomatospora feurichiana Kirschst. SPECIES
-=======
+# Phomatospora feurichiana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

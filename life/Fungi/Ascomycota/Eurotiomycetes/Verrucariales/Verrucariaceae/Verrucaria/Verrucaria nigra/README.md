@@ -1,5 +1,4 @@
-Verrucaria nigra (Müll. Arg.) Øvstedal SPECIES
-=======
+# Verrucaria nigra (Müll. Arg.) Øvstedal SPECIES
 
 #### Status
 ACCEPTED

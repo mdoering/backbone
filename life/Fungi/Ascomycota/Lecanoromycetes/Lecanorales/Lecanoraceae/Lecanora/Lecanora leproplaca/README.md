@@ -1,5 +1,4 @@
-Lecanora leproplaca Zahlbr. SPECIES
-=======
+# Lecanora leproplaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

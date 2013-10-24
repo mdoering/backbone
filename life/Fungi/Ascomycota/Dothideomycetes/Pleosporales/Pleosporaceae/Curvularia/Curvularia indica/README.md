@@ -1,5 +1,4 @@
-Curvularia indica Subram., 1953 SPECIES
-=======
+# Curvularia indica Subram., 1953 SPECIES
 
 #### Status
 ACCEPTED

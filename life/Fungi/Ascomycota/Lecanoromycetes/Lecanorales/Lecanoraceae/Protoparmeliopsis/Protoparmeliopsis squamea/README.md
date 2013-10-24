@@ -1,5 +1,4 @@
-Protoparmeliopsis squamea M. Choisy SPECIES
-=======
+# Protoparmeliopsis squamea M. Choisy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halterioforma caudata Horváth, 1956 SPECIES
-=======
+# Halterioforma caudata Horváth, 1956 SPECIES
 
 #### Status
 ACCEPTED

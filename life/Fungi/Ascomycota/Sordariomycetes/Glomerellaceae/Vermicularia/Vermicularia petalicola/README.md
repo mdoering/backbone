@@ -1,5 +1,4 @@
-Vermicularia petalicola Ellis & Everh. SPECIES
-=======
+# Vermicularia petalicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

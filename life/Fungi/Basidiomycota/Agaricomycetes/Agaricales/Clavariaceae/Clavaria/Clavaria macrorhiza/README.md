@@ -1,5 +1,4 @@
-Clavaria macrorhiza Sw. SPECIES
-=======
+# Clavaria macrorhiza Sw. SPECIES
 
 #### Status
 ACCEPTED

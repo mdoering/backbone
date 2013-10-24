@@ -1,5 +1,4 @@
-Pestalotia maculicola Rostr. SPECIES
-=======
+# Pestalotia maculicola Rostr. SPECIES
 
 #### Status
 ACCEPTED

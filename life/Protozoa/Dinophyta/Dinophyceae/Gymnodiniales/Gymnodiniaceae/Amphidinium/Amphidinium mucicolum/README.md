@@ -1,5 +1,4 @@
-Amphidinium mucicolum Conrad SPECIES
-=======
+# Amphidinium mucicolum Conrad SPECIES
 
 #### Status
 ACCEPTED

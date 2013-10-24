@@ -1,5 +1,4 @@
-Cortinarius subfusisporus Bon SPECIES
-=======
+# Cortinarius subfusisporus Bon SPECIES
 
 #### Status
 ACCEPTED

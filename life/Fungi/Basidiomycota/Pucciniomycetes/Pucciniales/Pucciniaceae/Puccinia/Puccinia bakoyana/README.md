@@ -1,5 +1,4 @@
-Puccinia bakoyana Pat. & Har. SPECIES
-=======
+# Puccinia bakoyana Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

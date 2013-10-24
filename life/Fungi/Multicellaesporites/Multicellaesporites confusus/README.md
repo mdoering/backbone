@@ -1,5 +1,4 @@
-Multicellaesporites confusus A. Chandra, R.K. Saxena & Setty SPECIES
-=======
+# Multicellaesporites confusus A. Chandra, R.K. Saxena & Setty SPECIES
 
 #### Status
 ACCEPTED

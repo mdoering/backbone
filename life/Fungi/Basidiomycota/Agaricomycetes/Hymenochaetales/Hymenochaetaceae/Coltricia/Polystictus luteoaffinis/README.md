@@ -1,5 +1,4 @@
-Polystictus luteoaffinis Lloyd SPECIES
-=======
+# Polystictus luteoaffinis Lloyd SPECIES
 
 #### Status
 ACCEPTED

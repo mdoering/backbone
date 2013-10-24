@@ -1,5 +1,4 @@
-Entorrhiza globoidea Vánky, 2004 SPECIES
-=======
+# Entorrhiza globoidea Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

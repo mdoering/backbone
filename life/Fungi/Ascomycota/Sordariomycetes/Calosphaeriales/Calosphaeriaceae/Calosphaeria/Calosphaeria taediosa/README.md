@@ -1,5 +1,4 @@
-Calosphaeria taediosa Sacc. SPECIES
-=======
+# Calosphaeria taediosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

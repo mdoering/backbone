@@ -1,5 +1,4 @@
-Peziza tuberculosa Sacc. & Cooke SPECIES
-=======
+# Peziza tuberculosa Sacc. & Cooke SPECIES
 
 #### Status
 ACCEPTED

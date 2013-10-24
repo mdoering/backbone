@@ -1,14 +1,13 @@
-Polyporus consors (Berk.) Teng, 1934 SPECIES
-=======
+# Irpex consors Berk., 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sinensia, Shanghai 5: 178 (1934)
+J. Linn. Soc. , Bot. 16: 51 (1877)
 
 #### Original name
 Irpex consors Berk., 1877

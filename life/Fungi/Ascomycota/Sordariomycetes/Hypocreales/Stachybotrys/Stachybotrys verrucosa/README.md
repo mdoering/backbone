@@ -1,5 +1,4 @@
-Stachybotrys verrucosa Cooke & Massee SPECIES
-=======
+# Stachybotrys verrucosa Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prospodium conjunctum (Dietel & Holw.) Cummins SPECIES
-=======
+# Prospodium conjunctum (Dietel & Holw.) Cummins SPECIES
 
 #### Status
 ACCEPTED

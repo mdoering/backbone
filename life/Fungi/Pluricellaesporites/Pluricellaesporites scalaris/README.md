@@ -1,5 +1,4 @@
-Pluricellaesporites scalaris Kalgutkar SPECIES
-=======
+# Pluricellaesporites scalaris Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

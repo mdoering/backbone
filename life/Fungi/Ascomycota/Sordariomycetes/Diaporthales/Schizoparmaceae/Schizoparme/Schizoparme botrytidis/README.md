@@ -1,5 +1,4 @@
-Schizoparme botrytidis Samuels, M.E. Barr & Lowen SPECIES
-=======
+# Schizoparme botrytidis Samuels, M.E. Barr & Lowen SPECIES
 
 #### Status
 ACCEPTED

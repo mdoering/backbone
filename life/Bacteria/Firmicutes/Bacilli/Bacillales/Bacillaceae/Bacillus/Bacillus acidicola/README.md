@@ -1,5 +1,4 @@
-Bacillus acidicola Albert et al., 2005 SPECIES
-=======
+# Bacillus acidicola Albert et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

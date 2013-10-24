@@ -1,5 +1,4 @@
-Scutellinia inexpectata Le Gal SPECIES
-=======
+# Scutellinia inexpectata Le Gal SPECIES
 
 #### Status
 ACCEPTED

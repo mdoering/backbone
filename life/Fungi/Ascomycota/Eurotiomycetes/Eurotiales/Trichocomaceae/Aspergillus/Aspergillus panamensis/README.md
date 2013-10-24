@@ -1,5 +1,4 @@
-Aspergillus panamensis Raper & Thom, 1944 SPECIES
-=======
+# Aspergillus panamensis Raper & Thom, 1944 SPECIES
 
 #### Status
 ACCEPTED

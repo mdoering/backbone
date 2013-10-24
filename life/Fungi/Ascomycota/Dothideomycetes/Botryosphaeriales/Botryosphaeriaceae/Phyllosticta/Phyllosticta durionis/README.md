@@ -1,5 +1,4 @@
-Phyllosticta durionis Zimm. SPECIES
-=======
+# Phyllosticta durionis Zimm. SPECIES
 
 #### Status
 ACCEPTED

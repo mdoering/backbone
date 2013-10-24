@@ -1,5 +1,4 @@
-Mesoplasma chauliocola Tully et al., 1994 SPECIES
-=======
+# Mesoplasma chauliocola Tully et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

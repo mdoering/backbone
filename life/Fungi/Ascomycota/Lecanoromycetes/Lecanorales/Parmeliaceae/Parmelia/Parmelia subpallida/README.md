@@ -1,5 +1,4 @@
-Parmelia subpallida H. Magn. SPECIES
-=======
+# Parmelia subpallida H. Magn. SPECIES
 
 #### Status
 ACCEPTED

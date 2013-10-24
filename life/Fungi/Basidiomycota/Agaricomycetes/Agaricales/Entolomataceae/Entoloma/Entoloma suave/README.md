@@ -1,5 +1,4 @@
-Entoloma suave Peck SPECIES
-=======
+# Entoloma suave Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Niesslia crucipila (Höhn.) E. Müll., 1962 SPECIES
-=======
+# Valetoniella crucipila Höhn., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 577 (1962)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 1500 (1909)
 
 #### Original name
 Valetoniella crucipila Höhn., 1909

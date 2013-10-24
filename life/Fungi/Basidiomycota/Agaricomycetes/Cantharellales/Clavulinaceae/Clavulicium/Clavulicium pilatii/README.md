@@ -1,5 +1,4 @@
-Clavulicium pilatii (Boidin) Boidin, 1957 SPECIES
-=======
+# Clavulicium pilatii (Boidin) Boidin, 1957 SPECIES
 
 #### Status
 ACCEPTED

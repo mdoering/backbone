@@ -1,5 +1,4 @@
-Lopadium venustulum (Stirt.) Zahlbr. SPECIES
-=======
+# Lopadium venustulum (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

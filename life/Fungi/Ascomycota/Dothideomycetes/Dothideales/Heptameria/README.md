@@ -1,5 +1,4 @@
-Heptameria Rehm & Thüm. GENUS
-=======
+# Heptameria Rehm & Thüm. GENUS
 
 #### Status
 ACCEPTED

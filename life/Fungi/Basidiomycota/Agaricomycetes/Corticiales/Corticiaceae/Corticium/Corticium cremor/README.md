@@ -1,5 +1,4 @@
-Corticium cremor Bres. SPECIES
-=======
+# Corticium cremor Bres. SPECIES
 
 #### Status
 ACCEPTED

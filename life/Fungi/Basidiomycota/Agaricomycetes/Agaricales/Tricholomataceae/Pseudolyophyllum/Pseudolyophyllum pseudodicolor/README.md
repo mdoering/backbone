@@ -1,5 +1,4 @@
-Pseudolyophyllum pseudodicolor (Raithelh.) Raithelh. SPECIES
-=======
+# Pseudolyophyllum pseudodicolor (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

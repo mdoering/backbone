@@ -1,5 +1,4 @@
-Leptogium pichneoides Nyl. SPECIES
-=======
+# Leptogium pichneoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

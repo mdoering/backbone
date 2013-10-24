@@ -1,5 +1,4 @@
-Didymium canariense Ing, 2000 SPECIES
-=======
+# Didymium canariense Ing, 2000 SPECIES
 
 #### Status
 ACCEPTED

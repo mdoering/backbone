@@ -1,5 +1,4 @@
-Nephroma subpubescens Gyeln. SPECIES
-=======
+# Nephroma subpubescens Gyeln. SPECIES
 
 #### Status
 ACCEPTED

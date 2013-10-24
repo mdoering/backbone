@@ -1,5 +1,4 @@
-Phoma delphinii (Rabenh.) Cooke SPECIES
-=======
+# Phoma delphinii (Rabenh.) Cooke SPECIES
 
 #### Status
 ACCEPTED

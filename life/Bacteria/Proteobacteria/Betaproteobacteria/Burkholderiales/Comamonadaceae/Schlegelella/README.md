@@ -1,5 +1,4 @@
-Schlegelella Elbanna et al., 2003 GENUS
-=======
+# Schlegelella Elbanna et al., 2003 GENUS
 
 #### Status
 ACCEPTED

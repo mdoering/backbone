@@ -1,5 +1,4 @@
-Rhipidonema membranaceum (C. Agardh) Kütz. SPECIES
-=======
+# Rhipidonema membranaceum (C. Agardh) Kütz. SPECIES
 
 #### Status
 ACCEPTED

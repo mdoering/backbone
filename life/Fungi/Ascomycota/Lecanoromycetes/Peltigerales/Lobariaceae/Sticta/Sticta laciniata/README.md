@@ -1,5 +1,4 @@
-Sticta laciniata var. laciniata VARIETY
-=======
+# Sticta laciniata (Sw.) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Method. Lich. 279 (1803)
 
 #### Original name
-Sticta laciniata var. laciniata
+Lichen laciniatus Sw.
 
 ### Remarks
 null

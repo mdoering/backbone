@@ -1,5 +1,4 @@
-Ammatoidea simplex Woronichin SPECIES
-=======
+# Ammatoidea simplex Woronichin SPECIES
 
 #### Status
 ACCEPTED

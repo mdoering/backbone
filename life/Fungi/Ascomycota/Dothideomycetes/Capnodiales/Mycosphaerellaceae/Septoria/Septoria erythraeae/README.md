@@ -1,5 +1,4 @@
-Septoria erythraeae Hollós SPECIES
-=======
+# Septoria erythraeae Hollós SPECIES
 
 #### Status
 ACCEPTED

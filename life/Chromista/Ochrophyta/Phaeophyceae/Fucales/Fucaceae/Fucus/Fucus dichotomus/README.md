@@ -1,5 +1,4 @@
-Fucus dichotomus Sauvageau SPECIES
-=======
+# Fucus dichotomus Sauvageau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerosoma fragile R. Hesse SPECIES
-=======
+# Sphaerosoma fragile R. Hesse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon psorodeum (Nyl.) SPECIES
-=======
+# Dermatocarpon psorodeum (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

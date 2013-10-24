@@ -1,5 +1,4 @@
-Hypocrea rugulosa var. rugulosa VARIETY
-=======
+# Hypocrea rugulosa Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hypocrea rugulosa var. rugulosa
+Hypocrea rugulosa Berk. & Cooke
 
 ### Remarks
 null

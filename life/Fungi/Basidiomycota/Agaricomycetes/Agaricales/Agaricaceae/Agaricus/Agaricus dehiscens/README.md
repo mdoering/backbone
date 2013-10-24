@@ -1,5 +1,4 @@
-Agaricus dehiscens Viv. SPECIES
-=======
+# Agaricus dehiscens Viv. SPECIES
 
 #### Status
 ACCEPTED

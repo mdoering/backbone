@@ -1,5 +1,4 @@
-Plectonema flexuosum Gardner SPECIES
-=======
+# Plectonema flexuosum Gardner SPECIES
 
 #### Status
 ACCEPTED

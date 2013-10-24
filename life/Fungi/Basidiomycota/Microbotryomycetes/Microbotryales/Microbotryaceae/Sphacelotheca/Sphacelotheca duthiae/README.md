@@ -1,5 +1,4 @@
-Sphacelotheca duthiae (Ricker) Zundel SPECIES
-=======
+# Sphacelotheca duthiae (Ricker) Zundel SPECIES
 
 #### Status
 ACCEPTED

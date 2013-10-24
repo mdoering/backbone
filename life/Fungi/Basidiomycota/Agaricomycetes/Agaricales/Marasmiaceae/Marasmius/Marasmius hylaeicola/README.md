@@ -1,5 +1,4 @@
-Marasmius hylaeicola Singer SPECIES
-=======
+# Marasmius hylaeicola Singer SPECIES
 
 #### Status
 ACCEPTED

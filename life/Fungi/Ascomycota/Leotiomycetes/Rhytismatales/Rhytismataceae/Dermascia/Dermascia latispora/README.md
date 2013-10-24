@@ -1,5 +1,4 @@
-Dermascia latispora Tehon SPECIES
-=======
+# Dermascia latispora Tehon SPECIES
 
 #### Status
 ACCEPTED

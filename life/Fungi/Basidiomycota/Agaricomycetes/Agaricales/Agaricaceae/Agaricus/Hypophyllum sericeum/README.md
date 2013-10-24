@@ -1,5 +1,4 @@
-Hypophyllum sericeum Paulet SPECIES
-=======
+# Hypophyllum sericeum Paulet SPECIES
 
 #### Status
 ACCEPTED

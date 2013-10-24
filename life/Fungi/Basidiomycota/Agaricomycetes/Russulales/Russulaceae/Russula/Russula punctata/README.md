@@ -1,5 +1,4 @@
-Russula punctata Krombh. SPECIES
-=======
+# Russula punctata Krombh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryneum mucronatum C. Massal. SPECIES
-=======
+# Coryneum mucronatum C. Massal. SPECIES
 
 #### Status
 ACCEPTED

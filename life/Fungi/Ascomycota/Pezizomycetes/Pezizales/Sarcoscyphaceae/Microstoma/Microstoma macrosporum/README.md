@@ -1,5 +1,4 @@
-Microstoma macrosporum (Y. Otani) Y. Harada & S. Kudo SPECIES
-=======
+# Microstoma macrosporum (Y. Otani) Y. Harada & S. Kudo SPECIES
 
 #### Status
 ACCEPTED

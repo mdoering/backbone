@@ -1,5 +1,4 @@
-Thelidium gibbosum Zschacke SPECIES
-=======
+# Thelidium gibbosum Zschacke SPECIES
 
 #### Status
 ACCEPTED

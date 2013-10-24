@@ -1,5 +1,4 @@
-Lachnocladium ramalinoides Henn. SPECIES
-=======
+# Lachnocladium ramalinoides Henn. SPECIES
 
 #### Status
 ACCEPTED

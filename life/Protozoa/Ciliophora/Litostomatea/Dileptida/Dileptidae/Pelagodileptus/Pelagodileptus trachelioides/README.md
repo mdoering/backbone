@@ -1,8 +1,7 @@
-Paradileptus caducus Kahl, 1935 SPECIES
-=======
+# Pelagodileptus trachelioides (Zacharias, 1894) Foissner, Berger & Schaumburg, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

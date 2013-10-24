@@ -1,5 +1,4 @@
-Schistodes GENUS
-=======
+# Schistodes GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deinobacter Oyaizu et al., 1987 GENUS
-=======
+# Deinobacter Oyaizu et al., 1987 GENUS
 
 #### Status
 ACCEPTED

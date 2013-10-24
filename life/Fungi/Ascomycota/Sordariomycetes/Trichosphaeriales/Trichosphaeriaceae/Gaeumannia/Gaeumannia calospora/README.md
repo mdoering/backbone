@@ -1,5 +1,4 @@
-Gaeumannia calospora (Speg.) Petr. SPECIES
-=======
+# Gaeumannia calospora (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

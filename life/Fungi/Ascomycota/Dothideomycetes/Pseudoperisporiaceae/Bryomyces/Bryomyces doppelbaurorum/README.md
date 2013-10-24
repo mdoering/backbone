@@ -1,5 +1,4 @@
-Bryomyces doppelbaurorum Döbbeler, 1978 SPECIES
-=======
+# Bryomyces doppelbaurorum Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleospora pellita var. pellita (Fr.) Rabenh. VARIETY
-=======
+# Pyrenophora pellita (Fr.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Pleospora pellita var. pellita (Fr.) Rabenh.
+null
 
 ### Remarks
 null

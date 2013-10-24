@@ -1,5 +1,4 @@
-Oidium elongatum Linder SPECIES
-=======
+# Oidium elongatum Linder SPECIES
 
 #### Status
 ACCEPTED

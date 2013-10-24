@@ -1,5 +1,4 @@
-Lichen chlorophanus (Wahlenb.) Wahlenb. SPECIES
-=======
+# Lichen chlorophanus (Wahlenb.) Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

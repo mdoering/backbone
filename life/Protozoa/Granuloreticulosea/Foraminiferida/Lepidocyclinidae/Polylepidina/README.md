@@ -1,14 +1,13 @@
-Eolepidina Tan Sin Hok, 1939 GENUS
-=======
+# Polylepidina Vaughan, 1925 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-De Ingenieur Ned. -Ind. , (IV) Mijn. Geol. , 6 (5), 69.
+Bull. Geol. Soc. Amer. , 35, 807.
 
 #### Original name
 null

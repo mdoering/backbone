@@ -1,5 +1,4 @@
-Coniothyrium sphaerosporum (Peck) Tassi SPECIES
-=======
+# Coniothyrium sphaerosporum (Peck) Tassi SPECIES
 
 #### Status
 ACCEPTED

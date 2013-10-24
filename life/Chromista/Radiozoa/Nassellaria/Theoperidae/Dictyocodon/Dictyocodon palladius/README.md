@@ -1,5 +1,4 @@
-Dictyocodon palladius Haeckel, 1887 SPECIES
-=======
+# Dictyocodon palladius Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

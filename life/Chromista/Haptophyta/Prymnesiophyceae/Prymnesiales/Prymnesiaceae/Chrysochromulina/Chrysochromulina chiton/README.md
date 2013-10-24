@@ -1,5 +1,4 @@
-Chrysochromulina chiton Parke & Manton SPECIES
-=======
+# Chrysochromulina chiton Parke & Manton SPECIES
 
 #### Status
 ACCEPTED

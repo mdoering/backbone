@@ -1,5 +1,4 @@
-Bartonella birtlesii Bermond et al., 2000 SPECIES
-=======
+# Bartonella birtlesii Bermond et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

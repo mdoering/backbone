@@ -1,5 +1,4 @@
-Psathyrella castaneidisca (Murrill) A.H. Sm. SPECIES
-=======
+# Psathyrella castaneidisca (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

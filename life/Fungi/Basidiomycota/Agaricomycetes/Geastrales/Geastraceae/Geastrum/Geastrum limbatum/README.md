@@ -1,17 +1,16 @@
-Geaster limbatum var. pacificus Morse VARIETY
-=======
+# Geastrum limbatum Fr., 1829 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 3(1): 15 (1829)
 
 #### Original name
-Geaster limbatum var. pacificus Morse
+Geastrum limbatum Fr., 1829
 
 ### Remarks
 null

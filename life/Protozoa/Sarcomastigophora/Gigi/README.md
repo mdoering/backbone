@@ -1,5 +1,4 @@
-Gigi de Wever, 1982 GENUS
-=======
+# Gigi de Wever, 1982 GENUS
 
 #### Status
 ACCEPTED

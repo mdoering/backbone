@@ -1,5 +1,4 @@
-Granomarginata typica Lopukhin, 1974 SPECIES
-=======
+# Granomarginata typica Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

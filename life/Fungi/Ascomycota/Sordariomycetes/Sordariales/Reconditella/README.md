@@ -1,5 +1,4 @@
-Reconditella Matzer & Hafellner GENUS
-=======
+# Reconditella Matzer & Hafellner GENUS
 
 #### Status
 ACCEPTED

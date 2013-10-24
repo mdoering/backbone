@@ -1,17 +1,16 @@
-Diploceras dilophosporum (Cooke) Sacc., 1892 SPECIES
-=======
+# Discostroma stoneae (H.J. Swart) Sivan., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 10: 484 (1892)
+in Sivanesan & Shivas, Fungal Diversity 11: 152 (2002)
 
 #### Original name
-Hyaloceras dilophosporum Cooke, 1890
+Discostromopsis stoneae H.J. Swart, 1979
 
 ### Remarks
 null

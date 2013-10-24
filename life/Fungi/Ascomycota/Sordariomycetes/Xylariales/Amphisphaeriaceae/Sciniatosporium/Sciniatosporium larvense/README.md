@@ -1,5 +1,4 @@
-Sciniatosporium larvense (Viégas) Morgan-Jones SPECIES
-=======
+# Sciniatosporium larvense (Viégas) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

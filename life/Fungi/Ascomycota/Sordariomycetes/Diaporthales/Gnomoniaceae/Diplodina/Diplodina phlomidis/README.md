@@ -1,5 +1,4 @@
-Diplodina phlomidis Golovin SPECIES
-=======
+# Diplodina phlomidis Golovin SPECIES
 
 #### Status
 ACCEPTED

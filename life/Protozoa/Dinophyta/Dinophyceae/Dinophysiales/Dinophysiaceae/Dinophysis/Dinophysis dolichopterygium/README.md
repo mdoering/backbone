@@ -1,5 +1,4 @@
-Dinophysis dolichopterygium (Murray & Whitting) Balech SPECIES
-=======
+# Dinophysis dolichopterygium (Murray & Whitting) Balech SPECIES
 
 #### Status
 ACCEPTED

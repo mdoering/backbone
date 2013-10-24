@@ -1,5 +1,4 @@
-Pseudocercospora acerosa U. Braun & M.A. Dick, 2002 SPECIES
-=======
+# Pseudocercospora acerosa U. Braun & M.A. Dick, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Veramyces Matsushima, 1993 GENUS
-=======
+# Veramyces Matsushima, 1993 GENUS
 
 #### Status
 ACCEPTED

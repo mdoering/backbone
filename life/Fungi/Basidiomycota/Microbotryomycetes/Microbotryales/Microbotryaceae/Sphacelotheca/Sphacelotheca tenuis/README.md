@@ -1,5 +1,4 @@
-Sphacelotheca tenuis (Syd. & P. Syd.) Zundel SPECIES
-=======
+# Sphacelotheca tenuis (Syd. & P. Syd.) Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleococcum Desm. & Mont. GENUS
-=======
+# Pleococcum Desm. & Mont. GENUS
 
 #### Status
 ACCEPTED

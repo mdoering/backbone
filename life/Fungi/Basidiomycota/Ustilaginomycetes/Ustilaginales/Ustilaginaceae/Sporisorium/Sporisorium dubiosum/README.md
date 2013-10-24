@@ -1,5 +1,4 @@
-Sporisorium dubiosum (Zundel) Vánky SPECIES
-=======
+# Sporisorium dubiosum (Zundel) Vánky SPECIES
 
 #### Status
 ACCEPTED

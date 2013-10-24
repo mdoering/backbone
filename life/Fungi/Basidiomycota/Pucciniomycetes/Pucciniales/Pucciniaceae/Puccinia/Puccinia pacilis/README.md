@@ -1,5 +1,4 @@
-Puccinia pacilis Arthur SPECIES
-=======
+# Puccinia pacilis Arthur SPECIES
 
 #### Status
 ACCEPTED

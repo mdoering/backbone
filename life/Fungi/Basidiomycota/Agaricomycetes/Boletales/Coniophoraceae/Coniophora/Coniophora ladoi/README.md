@@ -1,5 +1,4 @@
-Coniophora ladoi Tellería SPECIES
-=======
+# Coniophora ladoi Tellería SPECIES
 
 #### Status
 ACCEPTED

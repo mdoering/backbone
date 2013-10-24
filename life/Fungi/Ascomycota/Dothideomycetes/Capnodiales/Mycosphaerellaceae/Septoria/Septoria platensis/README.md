@@ -1,5 +1,4 @@
-Septoria platensis Speg. SPECIES
-=======
+# Septoria platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

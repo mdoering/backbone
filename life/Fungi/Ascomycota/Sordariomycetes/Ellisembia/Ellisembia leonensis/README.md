@@ -1,5 +1,4 @@
-Ellisembia leonensis (M.B. Ellis) McKenzie SPECIES
-=======
+# Ellisembia leonensis (M.B. Ellis) McKenzie SPECIES
 
 #### Status
 ACCEPTED

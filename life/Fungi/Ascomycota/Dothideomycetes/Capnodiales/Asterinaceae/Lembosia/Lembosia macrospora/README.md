@@ -1,5 +1,4 @@
-Lembosia macrospora Sacc. & Paol. SPECIES
-=======
+# Lembosia macrospora Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

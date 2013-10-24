@@ -1,5 +1,4 @@
-Trachysphaeridium dalongkouense Wang, Zhou & Chen, 1980 SPECIES
-=======
+# Trachysphaeridium dalongkouense Wang, Zhou & Chen, 1980 SPECIES
 
 #### Status
 ACCEPTED

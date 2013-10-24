@@ -1,17 +1,16 @@
-Cladonia rappii f. rappii A. Evans FORM
-=======
+# Cladonia rappii A. Evans SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Ky Acad. Sci. 38: 297 (1952)
 
 #### Original name
-Cladonia rappii f. rappii A. Evans
+Cladonia rappii A. Evans
 
 ### Remarks
 null

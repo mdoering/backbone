@@ -1,5 +1,4 @@
-Ityorhoptrum natalense W.A. Baker & Partr. SPECIES
-=======
+# Ityorhoptrum natalense W.A. Baker & Partr. SPECIES
 
 #### Status
 ACCEPTED

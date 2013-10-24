@@ -1,5 +1,4 @@
-Aspicilia orbiculata Darb. SPECIES
-=======
+# Aspicilia orbiculata Darb. SPECIES
 
 #### Status
 ACCEPTED

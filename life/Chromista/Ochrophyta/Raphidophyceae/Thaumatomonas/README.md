@@ -1,5 +1,4 @@
-Thaumatomonas De Saedeleer, 1931 GENUS
-=======
+# Thaumatomonas De Saedeleer, 1931 GENUS
 
 #### Status
 ACCEPTED

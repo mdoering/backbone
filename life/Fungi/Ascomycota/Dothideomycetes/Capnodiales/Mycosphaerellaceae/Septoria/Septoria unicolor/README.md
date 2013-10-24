@@ -1,5 +1,4 @@
-Septoria unicolor G. Winter SPECIES
-=======
+# Septoria unicolor G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago enteropogonis Vánky SPECIES
-=======
+# Ustilago enteropogonis Vánky SPECIES
 
 #### Status
 ACCEPTED

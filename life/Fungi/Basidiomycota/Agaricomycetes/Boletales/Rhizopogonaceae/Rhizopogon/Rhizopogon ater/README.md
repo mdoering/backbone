@@ -1,5 +1,4 @@
-Rhizopogon ater Trappe & Grubisha, 2005 SPECIES
-=======
+# Rhizopogon ater Trappe & Grubisha, 2005 SPECIES
 
 #### Status
 ACCEPTED

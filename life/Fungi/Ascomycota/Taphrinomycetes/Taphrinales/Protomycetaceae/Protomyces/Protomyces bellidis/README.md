@@ -1,5 +1,4 @@
-Protomyces bellidis Krieg. SPECIES
-=======
+# Protomyces bellidis Krieg. SPECIES
 
 #### Status
 ACCEPTED

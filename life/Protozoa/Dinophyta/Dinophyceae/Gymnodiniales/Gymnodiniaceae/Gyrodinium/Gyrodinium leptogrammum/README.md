@@ -1,5 +1,4 @@
-Gyrodinium leptogrammum J. Larsen, 1996 SPECIES
-=======
+# Gyrodinium leptogrammum J. Larsen, 1996 SPECIES
 
 #### Status
 ACCEPTED

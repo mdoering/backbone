@@ -1,5 +1,4 @@
-Rhizocarpon kiboense C.W. Dodge SPECIES
-=======
+# Rhizocarpon kiboense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

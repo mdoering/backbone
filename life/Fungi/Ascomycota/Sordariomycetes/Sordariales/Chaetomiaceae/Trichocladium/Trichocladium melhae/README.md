@@ -1,5 +1,4 @@
-Trichocladium melhae E.B.G. Jones, Abdel-Wahab & Vrijmoed, 2001 SPECIES
-=======
+# Trichocladium melhae E.B.G. Jones, Abdel-Wahab & Vrijmoed, 2001 SPECIES
 
 #### Status
 ACCEPTED

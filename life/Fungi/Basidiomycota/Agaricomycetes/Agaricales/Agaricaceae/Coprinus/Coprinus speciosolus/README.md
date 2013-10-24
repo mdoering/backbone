@@ -1,5 +1,4 @@
-Coprinus speciosolus Speg. SPECIES
-=======
+# Coprinus speciosolus Speg. SPECIES
 
 #### Status
 ACCEPTED

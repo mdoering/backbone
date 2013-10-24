@@ -1,5 +1,4 @@
-Spadicoides penatium Hol.-Jech. SPECIES
-=======
+# Spadicoides penatium Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

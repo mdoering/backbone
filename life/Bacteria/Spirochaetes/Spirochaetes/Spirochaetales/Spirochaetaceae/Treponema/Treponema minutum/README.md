@@ -1,5 +1,4 @@
-Treponema minutum Dobell, 1912 (Approved Lists, 1980) SPECIES
-=======
+# Treponema minutum Dobell, 1912 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

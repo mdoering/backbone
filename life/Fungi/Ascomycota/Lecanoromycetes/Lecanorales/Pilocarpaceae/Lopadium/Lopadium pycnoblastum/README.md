@@ -1,5 +1,4 @@
-Lopadium pycnoblastum (Vain.) SPECIES
-=======
+# Lopadium pycnoblastum (Vain.) SPECIES
 
 #### Status
 ACCEPTED

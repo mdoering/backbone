@@ -1,5 +1,4 @@
-Panus dichotomus (Lév.) Fr. SPECIES
-=======
+# Panus dichotomus (Lév.) Fr. SPECIES
 
 #### Status
 ACCEPTED

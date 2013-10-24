@@ -1,5 +1,4 @@
-Conida circinata (Th. Fr.) Sacc. & D. Sacc. SPECIES
-=======
+# Conida circinata (Th. Fr.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

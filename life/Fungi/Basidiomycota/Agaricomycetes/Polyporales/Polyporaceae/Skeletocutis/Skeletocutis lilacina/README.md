@@ -1,5 +1,4 @@
-Skeletocutis lilacina A. David & Jean Keller, 1984 SPECIES
-=======
+# Skeletocutis lilacina A. David & Jean Keller, 1984 SPECIES
 
 #### Status
 ACCEPTED

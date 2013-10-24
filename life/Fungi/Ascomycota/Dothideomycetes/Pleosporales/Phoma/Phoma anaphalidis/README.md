@@ -1,5 +1,4 @@
-Phoma anaphalidis Wehm. SPECIES
-=======
+# Phoma anaphalidis Wehm. SPECIES
 
 #### Status
 ACCEPTED

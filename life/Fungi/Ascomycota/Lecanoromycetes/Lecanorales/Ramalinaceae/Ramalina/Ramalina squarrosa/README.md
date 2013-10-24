@@ -1,5 +1,4 @@
-Ramalina squarrosa f. squarrosa FORM
-=======
+# Ramalina squarrosa (Hoffm.) Oxner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramalina squarrosa f. squarrosa
+Lobaria squarrosa Hoffm.
 
 ### Remarks
 null

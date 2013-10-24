@@ -1,5 +1,4 @@
-Lycoperdon pohuanense Teng SPECIES
-=======
+# Lycoperdon pohuanense Teng SPECIES
 
 #### Status
 ACCEPTED

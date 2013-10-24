@@ -1,5 +1,4 @@
-Cheilymenia elaphorum (Rehm) W.Y. Zhuang & Zheng Wang SPECIES
-=======
+# Cheilymenia elaphorum (Rehm) W.Y. Zhuang & Zheng Wang SPECIES
 
 #### Status
 ACCEPTED

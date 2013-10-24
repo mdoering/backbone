@@ -1,5 +1,4 @@
-Aphelariaceae Corner FAMILY
-=======
+# Aphelariaceae Corner FAMILY
 
 #### Status
 ACCEPTED

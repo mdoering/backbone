@@ -1,5 +1,4 @@
-Clavaria mutans Burt SPECIES
-=======
+# Clavaria mutans Burt SPECIES
 
 #### Status
 ACCEPTED

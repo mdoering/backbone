@@ -1,5 +1,4 @@
-Leptolegnia hemihypogyna R.L. Seym., 2005 SPECIES
-=======
+# Leptolegnia hemihypogyna R.L. Seym., 2005 SPECIES
 
 #### Status
 ACCEPTED

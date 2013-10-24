@@ -1,5 +1,4 @@
-Knemiothyrium weldenii Bat. & J.L. Bezerra, 1960 SPECIES
-=======
+# Knemiothyrium weldenii Bat. & J.L. Bezerra, 1960 SPECIES
 
 #### Status
 ACCEPTED

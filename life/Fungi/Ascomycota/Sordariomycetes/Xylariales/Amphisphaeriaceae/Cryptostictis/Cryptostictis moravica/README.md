@@ -1,5 +1,4 @@
-Cryptostictis moravica Petr. SPECIES
-=======
+# Cryptostictis moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

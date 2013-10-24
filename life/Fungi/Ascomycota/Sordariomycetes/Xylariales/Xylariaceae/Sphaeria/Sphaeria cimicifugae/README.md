@@ -1,5 +1,4 @@
-Sphaeria cimicifugae Schwein. SPECIES
-=======
+# Sphaeria cimicifugae Schwein. SPECIES
 
 #### Status
 ACCEPTED

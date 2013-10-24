@@ -1,5 +1,4 @@
-Cortinarius pygmaeus (Velen.) M.M. Moser SPECIES
-=======
+# Cortinarius pygmaeus (Velen.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

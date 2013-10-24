@@ -1,5 +1,4 @@
-Botrytis fascicularis (Corda) Sacc. SPECIES
-=======
+# Botrytis fascicularis (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

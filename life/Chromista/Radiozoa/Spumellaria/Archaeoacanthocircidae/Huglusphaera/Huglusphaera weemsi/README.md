@@ -1,5 +1,4 @@
-Huglusphaera weemsi SPECIES
-=======
+# Huglusphaera weemsi SPECIES
 
 #### Status
 ACCEPTED

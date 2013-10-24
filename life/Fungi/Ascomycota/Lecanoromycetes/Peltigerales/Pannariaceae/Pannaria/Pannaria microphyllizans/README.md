@@ -1,14 +1,13 @@
-Psoroma microphyllizans (Nyl.) D.J. Galloway SPECIES
-=======
+# Pannaria microphyllizans (Nyl.) P.M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-N. Z. Jl Bot. 21(2): 196 (1983)
+Biblthca Lichenol. 78: 121 (2001)
 
 #### Original name
 Psoroma sphinctrinum var. microphyllizans Nyl.

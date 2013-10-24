@@ -1,5 +1,4 @@
-Dothideopsella salicella Höhn. SPECIES
-=======
+# Dothideopsella salicella Höhn. SPECIES
 
 #### Status
 ACCEPTED

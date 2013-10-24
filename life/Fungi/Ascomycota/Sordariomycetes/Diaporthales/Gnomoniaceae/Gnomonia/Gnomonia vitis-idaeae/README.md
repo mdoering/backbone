@@ -1,5 +1,4 @@
-Gnomonia vitis-idaeae Feltgen SPECIES
-=======
+# Gnomonia vitis-idaeae Feltgen SPECIES
 
 #### Status
 ACCEPTED

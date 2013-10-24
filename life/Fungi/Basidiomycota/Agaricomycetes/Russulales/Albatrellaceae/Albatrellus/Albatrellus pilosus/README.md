@@ -1,17 +1,16 @@
-Polyporus rubricosus Pat., 1927 SPECIES
-=======
+# Albatrellus pilosus (Petch) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 43: 25 (1927)
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 237 (1980)
 
 #### Original name
-Polyporus rubricosus Pat., 1927
+Polyporus pilosus Petch, 1916
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Coleroa sacchari Breda de Haan, 1892 SPECIES
-=======
+# Dimeriella sacchari (Breda de Haan) Hansf. ex E.V. Abbott, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mededeelingen van het Proefstation voor Suikerriet in West-Java 33: 22 (1892)
+in Hughes, Abbott & Wisner, Sugar cane diseases of the world, II 43 (1964)
 
 #### Original name
 Coleroa sacchari Breda de Haan, 1892

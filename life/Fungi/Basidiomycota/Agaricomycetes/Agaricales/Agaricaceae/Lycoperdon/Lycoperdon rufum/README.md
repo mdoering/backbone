@@ -1,5 +1,4 @@
-Lycoperdon rufum Dicks. SPECIES
-=======
+# Lycoperdon rufum Dicks. SPECIES
 
 #### Status
 ACCEPTED

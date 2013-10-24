@@ -1,5 +1,4 @@
-Actinothecium juglandis Dearn. & House SPECIES
-=======
+# Actinothecium juglandis Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Albugo laibachii Thines & Y.J. Choi SPECIES
-=======
+# Albugo laibachii Thines & Y.J. Choi SPECIES
 
 #### Status
 ACCEPTED

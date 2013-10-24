@@ -1,5 +1,4 @@
-Phaeographis pongamiae (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis pongamiae (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ambrosiella hartigii L.R. Batra, 1968 SPECIES
-=======
+# Ambrosiella hartigii L.R. Batra, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora fusidium (Thüm.) Sacc. & Voglino SPECIES
-=======
+# Oospora fusidium (Thüm.) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

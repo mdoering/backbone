@@ -1,5 +1,4 @@
-Piezobacter thermophilus Takai, Miyazaki, Hirayama, Nakagawa, Querellou & Godfroy, 2009 SPECIES
-=======
+# Piezobacter thermophilus Takai, Miyazaki, Hirayama, Nakagawa, Querellou & Godfroy, 2009 SPECIES
 
 #### Status
 ACCEPTED

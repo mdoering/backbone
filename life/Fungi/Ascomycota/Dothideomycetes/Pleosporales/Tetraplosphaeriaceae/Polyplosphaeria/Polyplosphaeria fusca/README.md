@@ -1,5 +1,4 @@
-Polyplosphaeria fusca Kaz. Tanaka & K. Hirayama, 2009 SPECIES
-=======
+# Polyplosphaeria fusca Kaz. Tanaka & K. Hirayama, 2009 SPECIES
 
 #### Status
 ACCEPTED

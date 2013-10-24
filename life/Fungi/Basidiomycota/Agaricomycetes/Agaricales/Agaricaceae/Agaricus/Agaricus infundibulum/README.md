@@ -1,5 +1,4 @@
-Agaricus infundibulum Schumach. SPECIES
-=======
+# Agaricus infundibulum Schumach. SPECIES
 
 #### Status
 ACCEPTED

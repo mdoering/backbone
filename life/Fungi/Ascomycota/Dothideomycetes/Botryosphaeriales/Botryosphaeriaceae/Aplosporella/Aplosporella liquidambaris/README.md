@@ -1,5 +1,4 @@
-Aplosporella liquidambaris (Dearn. & House) Petr. & Syd. SPECIES
-=======
+# Aplosporella liquidambaris (Dearn. & House) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

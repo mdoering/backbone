@@ -1,5 +1,4 @@
-Polyporoletus Snell GENUS
-=======
+# Polyporoletus Snell GENUS
 
 #### Status
 ACCEPTED

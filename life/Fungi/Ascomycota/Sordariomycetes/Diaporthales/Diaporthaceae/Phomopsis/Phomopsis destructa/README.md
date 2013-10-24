@@ -1,5 +1,4 @@
-Phomopsis destructa D.P.C. Rao, S.C. Agarwal & S.B. Saksena SPECIES
-=======
+# Phomopsis destructa D.P.C. Rao, S.C. Agarwal & S.B. Saksena SPECIES
 
 #### Status
 ACCEPTED

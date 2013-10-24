@@ -1,5 +1,4 @@
-Galerina viscidula P.D. Orton, 1988 SPECIES
-=======
+# Galerina viscidula P.D. Orton, 1988 SPECIES
 
 #### Status
 ACCEPTED

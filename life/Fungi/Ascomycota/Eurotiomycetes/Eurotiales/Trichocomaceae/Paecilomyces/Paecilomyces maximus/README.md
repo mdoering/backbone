@@ -1,5 +1,4 @@
-Paecilomyces maximus C. Ram SPECIES
-=======
+# Paecilomyces maximus C. Ram SPECIES
 
 #### Status
 ACCEPTED

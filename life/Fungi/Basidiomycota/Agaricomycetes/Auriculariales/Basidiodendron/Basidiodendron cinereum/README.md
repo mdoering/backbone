@@ -1,14 +1,13 @@
-Sebacina cinerea Bres., 1892 SPECIES
-=======
+# Basidiodendron cinereum (Bres.) Luck-Allen, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. trident. 2: 99 (1892)
+Can. J. Bot. 41: 1043 (1963)
 
 #### Original name
 Sebacina cinerea Bres., 1892

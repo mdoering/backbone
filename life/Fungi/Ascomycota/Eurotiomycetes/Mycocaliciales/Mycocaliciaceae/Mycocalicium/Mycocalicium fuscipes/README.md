@@ -1,5 +1,4 @@
-Mycocalicium fuscipes (Tuck.) Fink SPECIES
-=======
+# Mycocalicium fuscipes (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Chilodonella bavariensis Kahl, 1931 SPECIES
-=======
+# Trithigmostoma bavariensis (Kahl, 1931) Buitkamp, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

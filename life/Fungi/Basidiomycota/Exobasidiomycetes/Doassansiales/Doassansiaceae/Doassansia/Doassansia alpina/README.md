@@ -1,5 +1,4 @@
-Doassansia alpina Lavrov SPECIES
-=======
+# Doassansia alpina Lavrov SPECIES
 
 #### Status
 ACCEPTED

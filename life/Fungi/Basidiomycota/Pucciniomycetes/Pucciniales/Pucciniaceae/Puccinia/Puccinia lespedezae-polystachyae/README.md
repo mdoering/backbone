@@ -1,5 +1,4 @@
-Puccinia lespedezae-polystachyae Schwein. SPECIES
-=======
+# Puccinia lespedezae-polystachyae Schwein. SPECIES
 
 #### Status
 ACCEPTED

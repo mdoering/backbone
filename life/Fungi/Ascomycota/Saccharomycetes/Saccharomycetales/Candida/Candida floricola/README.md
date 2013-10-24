@@ -1,5 +1,4 @@
-Candida floricola Tokuoka, Ishit., Goto & Komag., 1987 SPECIES
-=======
+# Candida floricola Tokuoka, Ishit., Goto & Komag., 1987 SPECIES
 
 #### Status
 ACCEPTED

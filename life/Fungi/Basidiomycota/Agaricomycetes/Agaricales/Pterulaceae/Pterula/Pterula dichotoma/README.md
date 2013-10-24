@@ -1,5 +1,4 @@
-Pterula dichotoma Saut. SPECIES
-=======
+# Pterula dichotoma Saut. SPECIES
 
 #### Status
 ACCEPTED

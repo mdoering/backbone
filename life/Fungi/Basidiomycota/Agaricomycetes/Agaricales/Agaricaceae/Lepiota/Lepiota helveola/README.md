@@ -1,17 +1,16 @@
-Lepiota helveola var. barlae Bres. VARIETY
-=======
+# Lepiota helveola Bres., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fung. trident. 1(1): 15 (1882)
 
 #### Original name
-Lepiota helveola var. barlae Bres.
+Lepiota helveola Bres., 1882
 
 ### Remarks
 null

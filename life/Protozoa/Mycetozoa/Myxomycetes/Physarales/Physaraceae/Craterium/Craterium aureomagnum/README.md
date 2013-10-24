@@ -1,5 +1,4 @@
-Craterium aureomagnum Hoof & Nann.-Bremek., 1996 SPECIES
-=======
+# Craterium aureomagnum Hoof & Nann.-Bremek., 1996 SPECIES
 
 #### Status
 ACCEPTED

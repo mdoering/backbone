@@ -1,5 +1,4 @@
-Aulacantha scolymantha Haeckel, 1862 SPECIES
-=======
+# Aulacantha scolymantha Haeckel, 1862 SPECIES
 
 #### Status
 ACCEPTED

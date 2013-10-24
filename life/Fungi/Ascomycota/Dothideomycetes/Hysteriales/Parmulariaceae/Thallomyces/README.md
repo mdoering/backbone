@@ -1,5 +1,4 @@
-Thallomyces H.J. Swart GENUS
-=======
+# Thallomyces H.J. Swart GENUS
 
 #### Status
 ACCEPTED

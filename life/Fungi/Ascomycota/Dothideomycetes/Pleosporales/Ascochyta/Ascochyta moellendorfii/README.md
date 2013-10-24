@@ -1,5 +1,4 @@
-Ascochyta moellendorfii Ruhland SPECIES
-=======
+# Ascochyta moellendorfii Ruhland SPECIES
 
 #### Status
 ACCEPTED

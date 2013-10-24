@@ -1,5 +1,4 @@
-Phoma potonieana Sacc. SPECIES
-=======
+# Phoma potonieana Sacc. SPECIES
 
 #### Status
 ACCEPTED

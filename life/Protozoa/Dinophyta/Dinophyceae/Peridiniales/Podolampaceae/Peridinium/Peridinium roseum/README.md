@@ -1,5 +1,4 @@
-Peridinium roseum SPECIES
-=======
+# Peridinium roseum SPECIES
 
 #### Status
 ACCEPTED

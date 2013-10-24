@@ -1,5 +1,4 @@
-Thermodesulfobacterium Zeikus et al., 1995 GENUS
-=======
+# Thermodesulfobacterium Zeikus et al., 1995 GENUS
 
 #### Status
 ACCEPTED

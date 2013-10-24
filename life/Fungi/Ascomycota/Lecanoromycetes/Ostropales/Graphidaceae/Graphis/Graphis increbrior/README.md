@@ -1,5 +1,4 @@
-Graphis increbrior SPECIES
-=======
+# Graphis increbrior SPECIES
 
 #### Status
 ACCEPTED

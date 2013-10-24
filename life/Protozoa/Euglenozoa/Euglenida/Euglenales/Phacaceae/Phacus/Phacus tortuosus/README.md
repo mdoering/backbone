@@ -1,5 +1,4 @@
-Phacus tortuosus Roll SPECIES
-=======
+# Phacus tortuosus Roll SPECIES
 
 #### Status
 ACCEPTED

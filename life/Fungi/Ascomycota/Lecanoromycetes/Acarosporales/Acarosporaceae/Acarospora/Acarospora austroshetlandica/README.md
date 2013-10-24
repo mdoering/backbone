@@ -1,5 +1,4 @@
-Acarospora austroshetlandica (C.W. Dodge) Øvstedal SPECIES
-=======
+# Acarospora austroshetlandica (C.W. Dodge) Øvstedal SPECIES
 
 #### Status
 ACCEPTED

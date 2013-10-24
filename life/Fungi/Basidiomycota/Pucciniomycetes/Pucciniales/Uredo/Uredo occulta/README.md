@@ -1,5 +1,4 @@
-Uredo occulta Rabenh. SPECIES
-=======
+# Uredo occulta Rabenh. SPECIES
 
 #### Status
 ACCEPTED

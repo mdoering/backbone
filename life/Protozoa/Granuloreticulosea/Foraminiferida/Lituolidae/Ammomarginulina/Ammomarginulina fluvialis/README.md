@@ -1,8 +1,7 @@
-Ammoscalaria fluvialis (Parker, 1952) SPECIES
-=======
+# Ammomarginulina fluvialis (Parker, 1952) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

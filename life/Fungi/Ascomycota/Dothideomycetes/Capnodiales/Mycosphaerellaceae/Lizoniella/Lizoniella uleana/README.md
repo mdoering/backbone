@@ -1,5 +1,4 @@
-Lizoniella uleana var. uleana VARIETY
-=======
+# Lizoniella uleana (Sacc. & P. Syd.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lizoniella uleana var. uleana
+Lizonia uleana Sacc. & P. Syd.
 
 ### Remarks
 null

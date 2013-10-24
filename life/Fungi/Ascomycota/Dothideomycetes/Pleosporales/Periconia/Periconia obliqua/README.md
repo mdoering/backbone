@@ -1,5 +1,4 @@
-Periconia obliqua Subram. SPECIES
-=======
+# Periconia obliqua Subram. SPECIES
 
 #### Status
 ACCEPTED

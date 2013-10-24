@@ -1,5 +1,4 @@
-Xanthochrous suberosomollis Pilát SPECIES
-=======
+# Xanthochrous suberosomollis Pilát SPECIES
 
 #### Status
 ACCEPTED

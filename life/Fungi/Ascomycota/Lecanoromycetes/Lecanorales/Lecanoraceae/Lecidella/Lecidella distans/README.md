@@ -1,5 +1,4 @@
-Lecidella distans Körb. SPECIES
-=======
+# Lecidella distans Körb. SPECIES
 
 #### Status
 ACCEPTED

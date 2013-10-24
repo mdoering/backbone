@@ -1,5 +1,4 @@
-Striglia sinulosa (Klotzsch) Kuntze SPECIES
-=======
+# Striglia sinulosa (Klotzsch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

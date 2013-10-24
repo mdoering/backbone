@@ -1,5 +1,4 @@
-Strigula fracticonidia R. C. Harris SPECIES
-=======
+# Strigula fracticonidia R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Austroboletus graciliaffinis Singer SPECIES
-=======
+# Austroboletus graciliaffinis Singer SPECIES
 
 #### Status
 ACCEPTED

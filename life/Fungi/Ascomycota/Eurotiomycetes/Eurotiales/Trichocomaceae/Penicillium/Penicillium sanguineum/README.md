@@ -1,5 +1,4 @@
-Penicillium sanguineum Sopp SPECIES
-=======
+# Penicillium sanguineum Sopp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigopodia batistae S. Hughes SPECIES
-=======
+# Strigopodia batistae S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula novae-zelandiae McNabb, 1973 SPECIES
-=======
+# Russula novae-zelandiae McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

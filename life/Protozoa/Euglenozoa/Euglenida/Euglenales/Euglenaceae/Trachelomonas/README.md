@@ -1,14 +1,13 @@
-Chaetotyphla Ehrenberg, 1834 GENUS
-=======
+# Trachelomonas Ehrenberg, 1835 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Abh. Preuss. Akad. Wiss. , 1833 (1835), 315.
 
 #### Original name
 null

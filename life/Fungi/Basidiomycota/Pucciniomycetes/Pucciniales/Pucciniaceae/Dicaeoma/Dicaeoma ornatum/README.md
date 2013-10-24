@@ -1,5 +1,4 @@
-Dicaeoma ornatum (Arthur & Holw.) Kuntze SPECIES
-=======
+# Dicaeoma ornatum (Arthur & Holw.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

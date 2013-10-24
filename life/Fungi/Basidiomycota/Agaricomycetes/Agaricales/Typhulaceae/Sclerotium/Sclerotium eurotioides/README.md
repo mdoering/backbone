@@ -1,5 +1,4 @@
-Sclerotium eurotioides Lib. SPECIES
-=======
+# Sclerotium eurotioides Lib. SPECIES
 
 #### Status
 ACCEPTED

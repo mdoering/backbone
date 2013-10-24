@@ -1,5 +1,4 @@
-Inoderma GENUS
-=======
+# Inoderma GENUS
 
 #### Status
 ACCEPTED

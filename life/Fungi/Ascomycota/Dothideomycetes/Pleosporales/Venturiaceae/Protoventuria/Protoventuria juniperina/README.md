@@ -1,5 +1,4 @@
-Protoventuria juniperina Chleb., 2009 SPECIES
-=======
+# Protoventuria juniperina Chleb., 2009 SPECIES
 
 #### Status
 ACCEPTED

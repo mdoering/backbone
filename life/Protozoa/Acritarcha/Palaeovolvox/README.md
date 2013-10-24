@@ -1,5 +1,4 @@
-Palaeovolvox Zang & Walter, 1992 GENUS
-=======
+# Palaeovolvox Zang & Walter, 1992 GENUS
 
 #### Status
 ACCEPTED

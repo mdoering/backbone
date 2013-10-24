@@ -1,14 +1,13 @@
-Hydrocybe subbalaustina Rob. Henry ex M.M. Moser, 1953 SPECIES
-=======
+# Cortinarius subbalaustinus Rob. Henry, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams, Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Baupilze (Agaricales und Gastromycetes) 2b: 169 (1953)
+Docums Mycol. 16(no. 61): 28 (1985)
 
 #### Original name
 Cortinarius subbalaustinus Rob. Henry, 1985

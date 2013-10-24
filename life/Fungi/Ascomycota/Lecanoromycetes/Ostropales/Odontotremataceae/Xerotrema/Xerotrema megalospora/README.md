@@ -1,5 +1,4 @@
-Xerotrema megalospora Sherwood & Coppins SPECIES
-=======
+# Xerotrema megalospora Sherwood & Coppins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma oblongisporum Bissett SPECIES
-=======
+# Tricholoma oblongisporum Bissett SPECIES
 
 #### Status
 ACCEPTED

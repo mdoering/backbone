@@ -1,8 +1,7 @@
-Lepiota queleti Sacc. & P. Syd. SPECIES
-=======
+# Lepiota queletii Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lepiota queleti Sacc. & P. Syd.
+Lepiota littoralis Quél.
 
 ### Remarks
 null

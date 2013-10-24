@@ -1,5 +1,4 @@
-Trichia rugosa Trentep. SPECIES
-=======
+# Trichia rugosa Trentep. SPECIES
 
 #### Status
 ACCEPTED

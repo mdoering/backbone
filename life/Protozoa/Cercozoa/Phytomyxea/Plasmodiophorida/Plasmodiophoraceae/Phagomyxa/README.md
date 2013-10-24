@@ -1,5 +1,4 @@
-Phagomyxa Karling GENUS
-=======
+# Phagomyxa Karling GENUS
 
 #### Status
 ACCEPTED

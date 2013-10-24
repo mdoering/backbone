@@ -1,5 +1,4 @@
-Teratosphaeria micromaculata Whyte & Andjic, 2010 SPECIES
-=======
+# Teratosphaeria micromaculata Whyte & Andjic, 2010 SPECIES
 
 #### Status
 ACCEPTED

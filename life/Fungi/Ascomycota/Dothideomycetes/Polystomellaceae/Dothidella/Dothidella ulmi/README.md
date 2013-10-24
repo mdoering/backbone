@@ -1,11 +1,10 @@
-Phyllachora ulmi Fuckel SPECIES
-=======
+# Dothidella ulmi (C.-J. Duval) G. Winter, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

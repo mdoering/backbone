@@ -1,5 +1,4 @@
-Parathelohania divulgata A.V. Simakova & T.F. Pankova SPECIES
-=======
+# Parathelohania divulgata A.V. Simakova & T.F. Pankova SPECIES
 
 #### Status
 ACCEPTED

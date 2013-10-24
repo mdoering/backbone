@@ -1,5 +1,4 @@
-Vermicularia merrilliana Sacc. SPECIES
-=======
+# Vermicularia merrilliana Sacc. SPECIES
 
 #### Status
 ACCEPTED

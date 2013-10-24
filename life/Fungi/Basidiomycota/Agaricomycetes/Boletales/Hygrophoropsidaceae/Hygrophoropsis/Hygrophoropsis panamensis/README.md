@@ -1,5 +1,4 @@
-Hygrophoropsis panamensis Singer SPECIES
-=======
+# Hygrophoropsis panamensis Singer SPECIES
 
 #### Status
 ACCEPTED

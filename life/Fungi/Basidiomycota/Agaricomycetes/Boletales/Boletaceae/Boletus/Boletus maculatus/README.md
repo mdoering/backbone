@@ -1,5 +1,4 @@
-Boletus maculatus Raddi SPECIES
-=======
+# Boletus maculatus Raddi SPECIES
 
 #### Status
 ACCEPTED

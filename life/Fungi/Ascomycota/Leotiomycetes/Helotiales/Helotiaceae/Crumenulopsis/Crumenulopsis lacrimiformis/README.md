@@ -1,17 +1,16 @@
-Crumenulopsis lacrimiformia A. Funk SPECIES
-=======
+# Crumenulopsis lacrimiformis A. Funk SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 27: 286 (1986)
 
 #### Original name
-Crumenulopsis lacrimiformia A. Funk
+Crumenulopsis lacrimiformis A. Funk
 
 ### Remarks
 null

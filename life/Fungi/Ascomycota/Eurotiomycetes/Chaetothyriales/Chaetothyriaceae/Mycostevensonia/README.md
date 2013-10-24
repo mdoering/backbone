@@ -1,5 +1,4 @@
-Mycostevensonia GENUS
-=======
+# Mycostevensonia GENUS
 
 #### Status
 ACCEPTED

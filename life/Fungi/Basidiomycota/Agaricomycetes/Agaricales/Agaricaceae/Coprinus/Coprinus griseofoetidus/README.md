@@ -1,5 +1,4 @@
-Coprinus griseofoetidus P.D. Orton, 1988 SPECIES
-=======
+# Coprinus griseofoetidus P.D. Orton, 1988 SPECIES
 
 #### Status
 ACCEPTED

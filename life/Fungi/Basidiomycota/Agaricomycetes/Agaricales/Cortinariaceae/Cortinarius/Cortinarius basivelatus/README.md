@@ -1,5 +1,4 @@
-Cortinarius basivelatus Rob. Henry SPECIES
-=======
+# Cortinarius basivelatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

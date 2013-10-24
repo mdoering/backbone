@@ -1,5 +1,4 @@
-Pachybasium terricola Kamyschko SPECIES
-=======
+# Pachybasium terricola Kamyschko SPECIES
 
 #### Status
 ACCEPTED

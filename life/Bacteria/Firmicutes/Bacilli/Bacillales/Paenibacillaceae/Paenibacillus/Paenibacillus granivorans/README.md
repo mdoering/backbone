@@ -1,5 +1,4 @@
-Paenibacillus granivorans Van der Maarel et al., 2001 SPECIES
-=======
+# Paenibacillus granivorans Van der Maarel et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

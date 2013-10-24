@@ -1,5 +1,4 @@
-Geminago Vánky & R. Bauer GENUS
-=======
+# Geminago Vánky & R. Bauer GENUS
 
 #### Status
 ACCEPTED

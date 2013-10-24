@@ -1,5 +1,4 @@
-Corynebacterium acidum SPECIES
-=======
+# Corynebacterium acidum SPECIES
 
 #### Status
 ACCEPTED

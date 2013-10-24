@@ -1,5 +1,4 @@
-Mycosphaerella cyaneae F. Stevens & P.A. Young SPECIES
-=======
+# Mycosphaerella cyaneae F. Stevens & P.A. Young SPECIES
 
 #### Status
 ACCEPTED

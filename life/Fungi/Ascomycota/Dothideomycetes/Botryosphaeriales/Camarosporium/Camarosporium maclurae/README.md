@@ -1,5 +1,4 @@
-Camarosporium maclurae Bres. SPECIES
-=======
+# Camarosporium maclurae Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Embellisia planifunda E.G. Simmons, 1983 SPECIES
-=======
+# Embellisia planifunda E.G. Simmons, 1983 SPECIES
 
 #### Status
 ACCEPTED

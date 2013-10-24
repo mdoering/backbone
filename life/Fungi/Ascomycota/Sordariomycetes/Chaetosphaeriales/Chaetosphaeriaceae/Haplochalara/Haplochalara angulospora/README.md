@@ -1,5 +1,4 @@
-Haplochalara angulospora Linder SPECIES
-=======
+# Haplochalara angulospora Linder SPECIES
 
 #### Status
 ACCEPTED

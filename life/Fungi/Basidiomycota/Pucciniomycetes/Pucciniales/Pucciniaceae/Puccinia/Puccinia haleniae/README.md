@@ -1,5 +1,4 @@
-Puccinia haleniae Arthur & Holw. SPECIES
-=======
+# Puccinia haleniae Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

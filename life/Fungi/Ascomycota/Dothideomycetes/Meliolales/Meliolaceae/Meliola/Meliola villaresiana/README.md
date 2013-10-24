@@ -1,5 +1,4 @@
-Meliola villaresiana Hansf. SPECIES
-=======
+# Meliola villaresiana Hansf. SPECIES
 
 #### Status
 ACCEPTED

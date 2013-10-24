@@ -1,5 +1,4 @@
-Sporisorium kenyanum Piatek SPECIES
-=======
+# Sporisorium kenyanum Piatek SPECIES
 
 #### Status
 ACCEPTED

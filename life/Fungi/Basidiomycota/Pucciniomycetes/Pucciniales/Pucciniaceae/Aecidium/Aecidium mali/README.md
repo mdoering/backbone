@@ -1,5 +1,4 @@
-Aecidium mali Schumach. SPECIES
-=======
+# Aecidium mali Schumach. SPECIES
 
 #### Status
 ACCEPTED

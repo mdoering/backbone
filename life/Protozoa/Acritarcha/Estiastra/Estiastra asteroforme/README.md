@@ -1,5 +1,4 @@
-Estiastra asteroforme Aristova, 1980 SPECIES
-=======
+# Estiastra asteroforme Aristova, 1980 SPECIES
 
 #### Status
 ACCEPTED

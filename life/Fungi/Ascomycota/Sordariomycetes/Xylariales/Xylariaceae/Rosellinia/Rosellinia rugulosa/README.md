@@ -1,5 +1,4 @@
-Rosellinia rugulosa Schulzer & Sacc. SPECIES
-=======
+# Rosellinia rugulosa Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

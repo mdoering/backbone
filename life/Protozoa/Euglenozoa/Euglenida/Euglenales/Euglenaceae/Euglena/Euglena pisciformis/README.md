@@ -1,8 +1,7 @@
-Euglena agilis H.J. Carter SPECIES
-=======
+# Euglena pisciformis G.A. Klebs SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

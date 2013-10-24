@@ -1,5 +1,4 @@
-Gyalectidium imperfectum Vezda SPECIES
-=======
+# Gyalectidium imperfectum Vezda SPECIES
 
 #### Status
 ACCEPTED

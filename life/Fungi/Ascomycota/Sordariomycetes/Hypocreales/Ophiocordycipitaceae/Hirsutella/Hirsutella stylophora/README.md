@@ -1,5 +1,4 @@
-Hirsutella stylophora Mains SPECIES
-=======
+# Hirsutella stylophora Mains SPECIES
 
 #### Status
 ACCEPTED

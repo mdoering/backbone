@@ -1,5 +1,4 @@
-Spirochaeta stenostrepta Zuelzer, 1912 (Approved Lists, 1980) SPECIES
-=======
+# Spirochaeta stenostrepta Zuelzer, 1912 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

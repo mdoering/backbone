@@ -1,5 +1,4 @@
-Brochopsophosphaera vulgaris Pykhova, 1973 SPECIES
-=======
+# Brochopsophosphaera vulgaris Pykhova, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeodimeriella papillifera (Syd. & P. Syd.) Trotter SPECIES
-=======
+# Phaeodimeriella papillifera (Syd. & P. Syd.) Trotter SPECIES
 
 #### Status
 ACCEPTED

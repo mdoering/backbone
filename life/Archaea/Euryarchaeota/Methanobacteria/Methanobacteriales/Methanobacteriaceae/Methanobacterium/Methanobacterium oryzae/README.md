@@ -1,5 +1,4 @@
-Methanobacterium oryzae Joulian et al., 2000 SPECIES
-=======
+# Methanobacterium oryzae Joulian et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

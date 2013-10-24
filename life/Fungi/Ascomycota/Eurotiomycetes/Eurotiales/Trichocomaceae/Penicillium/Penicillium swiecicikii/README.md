@@ -1,8 +1,7 @@
-Penicillium sweicicikii K.M. Zalessky SPECIES
-=======
+# Penicillium swiecicikii K.M. Zalessky SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Penicillium sweicicikii K.M. Zalessky
+Penicillium swiecicikii K.M. Zalessky
 
 ### Remarks
 null

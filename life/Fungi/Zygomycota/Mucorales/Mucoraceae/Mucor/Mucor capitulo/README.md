@@ -1,5 +1,4 @@
-Mucor capitulo SPECIES
-=======
+# Mucor capitulo SPECIES
 
 #### Status
 ACCEPTED

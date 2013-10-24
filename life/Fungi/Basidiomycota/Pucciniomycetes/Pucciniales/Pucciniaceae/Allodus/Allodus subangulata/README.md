@@ -1,5 +1,4 @@
-Allodus subangulata (Holw.) Orton SPECIES
-=======
+# Allodus subangulata (Holw.) Orton SPECIES
 
 #### Status
 ACCEPTED

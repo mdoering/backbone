@@ -1,5 +1,4 @@
-Acontiopsis GENUS
-=======
+# Acontiopsis GENUS
 
 #### Status
 ACCEPTED

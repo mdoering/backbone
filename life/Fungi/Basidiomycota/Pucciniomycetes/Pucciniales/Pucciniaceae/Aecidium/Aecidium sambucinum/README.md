@@ -1,5 +1,4 @@
-Aecidium sambucinum Arthur & Cummins SPECIES
-=======
+# Aecidium sambucinum Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Burkea Sprague, 1977 GENUS
-=======
+# Burkea Sprague, 1977 GENUS
 
 #### Status
 ACCEPTED

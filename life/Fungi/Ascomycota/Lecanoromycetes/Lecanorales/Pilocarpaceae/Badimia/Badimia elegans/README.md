@@ -1,5 +1,4 @@
-Badimia elegans (Vain.) Vezda SPECIES
-=======
+# Badimia elegans (Vain.) Vezda SPECIES
 
 #### Status
 ACCEPTED

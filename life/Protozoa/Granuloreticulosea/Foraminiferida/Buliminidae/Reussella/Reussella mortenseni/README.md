@@ -1,5 +1,4 @@
-Reussella mortenseni SPECIES
-=======
+# Reussella mortenseni SPECIES
 
 #### Status
 ACCEPTED

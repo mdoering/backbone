@@ -1,5 +1,4 @@
-Lilliputeana curvata Sérus. SPECIES
-=======
+# Lilliputeana curvata Sérus. SPECIES
 
 #### Status
 ACCEPTED

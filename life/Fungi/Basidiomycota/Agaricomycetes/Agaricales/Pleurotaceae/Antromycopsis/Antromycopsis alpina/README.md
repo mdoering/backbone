@@ -1,5 +1,4 @@
-Antromycopsis alpina Höhn. SPECIES
-=======
+# Antromycopsis alpina Höhn. SPECIES
 
 #### Status
 ACCEPTED

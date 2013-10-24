@@ -1,14 +1,13 @@
-Acanthodesma Zittel, 1876 GENUS
-=======
+# Acanthodesmia Müller, 1856 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handb. Pal. 1, 1, fasc. 1, 123.
+Monatsber. Akad. Berlin, 1856, 485.
 
 #### Original name
 null

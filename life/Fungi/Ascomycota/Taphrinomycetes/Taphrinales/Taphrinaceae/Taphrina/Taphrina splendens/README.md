@@ -1,5 +1,4 @@
-Taphrina splendens Palm SPECIES
-=======
+# Taphrina splendens Palm SPECIES
 
 #### Status
 ACCEPTED

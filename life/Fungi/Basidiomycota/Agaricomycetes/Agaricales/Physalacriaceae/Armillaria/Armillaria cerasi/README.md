@@ -1,5 +1,4 @@
-Armillaria cerasi Velen. SPECIES
-=======
+# Armillaria cerasi Velen. SPECIES
 
 #### Status
 ACCEPTED

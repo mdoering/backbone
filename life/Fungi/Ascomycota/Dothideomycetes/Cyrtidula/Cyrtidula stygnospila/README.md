@@ -1,5 +1,4 @@
-Cyrtidula stygnospila Minks SPECIES
-=======
+# Cyrtidula stygnospila Minks SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium lychnidis Berk. & M.A. Curtis SPECIES
-=======
+# Leptothyrium lychnidis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

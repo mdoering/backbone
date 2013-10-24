@@ -1,5 +1,4 @@
-Micarea granulans (Vain.) Timdal SPECIES
-=======
+# Micarea granulans (Vain.) Timdal SPECIES
 
 #### Status
 ACCEPTED

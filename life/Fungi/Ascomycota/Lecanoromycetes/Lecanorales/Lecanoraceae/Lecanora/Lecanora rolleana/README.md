@@ -1,5 +1,4 @@
-Lecanora rolleana (Hue) Zahlbr. SPECIES
-=======
+# Lecanora rolleana (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

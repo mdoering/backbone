@@ -1,5 +1,4 @@
-Protoperidinium hyalinum (Meunier, 1910) Balech, 1974 SPECIES
-=======
+# Protoperidinium hyalinum (Meunier, 1910) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

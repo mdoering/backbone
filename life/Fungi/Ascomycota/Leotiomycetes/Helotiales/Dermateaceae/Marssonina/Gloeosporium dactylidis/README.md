@@ -1,5 +1,4 @@
-Gloeosporium dactylidis Rostr. SPECIES
-=======
+# Gloeosporium dactylidis Rostr. SPECIES
 
 #### Status
 ACCEPTED

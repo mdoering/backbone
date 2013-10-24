@@ -1,14 +1,13 @@
-Collybia lachnocephala Pat., 1902 SPECIES
-=======
+# Cyptotrama lachnocephalum (Pat.) Singer, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Sydowia 7: 34 (1973)
 
 #### Original name
 Collybia lachnocephala Pat., 1902

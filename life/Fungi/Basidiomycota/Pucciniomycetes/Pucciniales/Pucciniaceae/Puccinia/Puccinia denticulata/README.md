@@ -1,5 +1,4 @@
-Puccinia denticulata G.H. Otth SPECIES
-=======
+# Puccinia denticulata G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

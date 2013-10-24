@@ -1,14 +1,13 @@
-Boletus salicola (Watling) Hlavácek, 1988 SPECIES
-=======
+# Leccinum salicola Watling, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mykologický Sborník 65(3): 83 (1988)
+Notes R. bot. Gdn Edinb. 31: 139 (1971)
 
 #### Original name
 Leccinum salicola Watling, 1971

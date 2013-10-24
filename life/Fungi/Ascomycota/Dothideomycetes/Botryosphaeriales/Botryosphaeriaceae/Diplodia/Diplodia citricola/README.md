@@ -1,5 +1,4 @@
-Diplodia citricola McAlpine SPECIES
-=======
+# Diplodia citricola McAlpine SPECIES
 
 #### Status
 ACCEPTED

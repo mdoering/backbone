@@ -1,17 +1,16 @@
-Septoria lactucae f. virosae Gonz. Frag. FORM
-=======
+# Septoria lactucae Pass., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publ. Junta Ciencies Nat. Barcelona, Ser. Bot. 136 (1917)
+Atti Soc. Crittogam. Ital. 2: 55 (1879)
 
 #### Original name
-Septoria lactucae f. virosae Gonz. Frag.
+Septoria lactucae Pass., 1879
 
 ### Remarks
 null

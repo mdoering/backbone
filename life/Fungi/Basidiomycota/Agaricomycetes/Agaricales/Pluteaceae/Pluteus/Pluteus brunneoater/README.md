@@ -1,5 +1,4 @@
-Pluteus brunneoater Wichanský SPECIES
-=======
+# Pluteus brunneoater Wichanský SPECIES
 
 #### Status
 ACCEPTED

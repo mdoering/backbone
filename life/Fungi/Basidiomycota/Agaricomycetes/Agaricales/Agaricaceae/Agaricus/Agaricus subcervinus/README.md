@@ -1,5 +1,4 @@
-Agaricus subcervinus Berk. & Broome SPECIES
-=======
+# Agaricus subcervinus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

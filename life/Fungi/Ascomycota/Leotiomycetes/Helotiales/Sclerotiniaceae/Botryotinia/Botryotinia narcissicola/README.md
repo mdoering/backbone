@@ -1,14 +1,13 @@
-Sclerotinia narcissicola P.H. Greg., 1941 SPECIES
-=======
+# Botryotinia narcissicola (P.H. Greg.) N.F. Buchw., 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 25: 37 (1941)
+Årrskr. Kongel. Vet. -Landbohøjsk. 137 (1949)
 
 #### Original name
 Sclerotinia narcissicola P.H. Greg., 1941

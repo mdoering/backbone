@@ -1,5 +1,4 @@
-Albophoma Tak. Kobay., Masuma, Omura & Kyoto Watan. GENUS
-=======
+# Albophoma Tak. Kobay., Masuma, Omura & Kyoto Watan. GENUS
 
 #### Status
 ACCEPTED

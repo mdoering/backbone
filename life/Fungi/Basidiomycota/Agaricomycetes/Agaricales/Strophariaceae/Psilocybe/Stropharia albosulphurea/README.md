@@ -1,14 +1,13 @@
-Stropharia albosulfurea (Pat.) Zhu L. Yang SPECIES
-=======
+# Stropharia albosulphurea (Pat.) Zhu L. Yang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 75: 459 (2000)
 
 #### Original name
 Hypholoma albosulphureum Pat.

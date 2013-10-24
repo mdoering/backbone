@@ -1,5 +1,4 @@
-Sporobolomyces lactophilus Nakase, Itoh, M. Suzuki & Bandoni SPECIES
-=======
+# Sporobolomyces lactophilus Nakase, Itoh, M. Suzuki & Bandoni SPECIES
 
 #### Status
 ACCEPTED

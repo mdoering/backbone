@@ -1,5 +1,4 @@
-Stagonospora diastrophosica Sousa da Câmara SPECIES
-=======
+# Stagonospora diastrophosica Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

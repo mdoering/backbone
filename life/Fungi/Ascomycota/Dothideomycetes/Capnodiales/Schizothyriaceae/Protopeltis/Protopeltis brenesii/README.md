@@ -1,5 +1,4 @@
-Protopeltis brenesii (Petr.) Bat. SPECIES
-=======
+# Protopeltis brenesii (Petr.) Bat. SPECIES
 
 #### Status
 ACCEPTED

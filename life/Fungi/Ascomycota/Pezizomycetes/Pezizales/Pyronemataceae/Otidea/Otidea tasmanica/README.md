@@ -1,5 +1,4 @@
-Otidea tasmanica Rodway SPECIES
-=======
+# Otidea tasmanica Rodway SPECIES
 
 #### Status
 ACCEPTED

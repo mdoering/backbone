@@ -1,8 +1,7 @@
-Vorticella umbellula Bory, 1824 SPECIES
-=======
+# Campanella umbellaria (Linnaeus, 1758) Goldfuss, 1820 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

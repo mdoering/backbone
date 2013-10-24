@@ -1,17 +1,16 @@
-Entomyclium Wallr. GENUS
-=======
+# Dendryphion Wallroth, 1833 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Fl. crypt. Germ. (Nürnberg) 2: 189 (1833)
+null
 
 #### Original name
-Entomyclium Wallr.
+null
 
 ### Remarks
 null

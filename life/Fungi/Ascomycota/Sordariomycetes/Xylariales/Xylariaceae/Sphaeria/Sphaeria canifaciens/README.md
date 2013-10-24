@@ -1,5 +1,4 @@
-Sphaeria canifaciens Fuckel SPECIES
-=======
+# Sphaeria canifaciens Fuckel SPECIES
 
 #### Status
 ACCEPTED

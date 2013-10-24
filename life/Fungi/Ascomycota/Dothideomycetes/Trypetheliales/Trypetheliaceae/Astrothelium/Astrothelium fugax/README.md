@@ -1,5 +1,4 @@
-Astrothelium fugax Müll. Arg. SPECIES
-=======
+# Astrothelium fugax Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phakopsora elephantopodis Hirats. SPECIES
-=======
+# Phakopsora elephantopi Hirats. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phakopsora elephantopodis Hirats.
+Phakopsora elephantopi Hirats.
 
 ### Remarks
 null

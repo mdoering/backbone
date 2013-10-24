@@ -1,5 +1,4 @@
-Gerronema moseri Singer SPECIES
-=======
+# Gerronema moseri Singer SPECIES
 
 #### Status
 ACCEPTED

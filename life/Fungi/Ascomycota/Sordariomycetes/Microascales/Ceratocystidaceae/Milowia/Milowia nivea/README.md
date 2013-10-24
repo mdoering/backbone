@@ -1,5 +1,4 @@
-Milowia nivea Massee SPECIES
-=======
+# Milowia nivea Massee SPECIES
 
 #### Status
 ACCEPTED

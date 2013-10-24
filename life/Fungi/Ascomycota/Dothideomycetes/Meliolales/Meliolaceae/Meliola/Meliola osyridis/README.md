@@ -1,5 +1,4 @@
-Meliola osyridis Doidge SPECIES
-=======
+# Meliola osyridis Doidge SPECIES
 
 #### Status
 ACCEPTED

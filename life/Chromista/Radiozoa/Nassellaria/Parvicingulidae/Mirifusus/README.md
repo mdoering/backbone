@@ -1,5 +1,4 @@
-Mirifusus Pessagno, 1977 GENUS
-=======
+# Mirifusus Pessagno, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendryphium glycines Sawada SPECIES
-=======
+# Dendryphium glycines Sawada SPECIES
 
 #### Status
 ACCEPTED

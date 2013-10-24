@@ -1,5 +1,4 @@
-Polystictus moelleri Bres. SPECIES
-=======
+# Polystictus moelleri Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopus polyphyllus (Peck) Halling SPECIES
-=======
+# Gymnopus polyphyllus (Peck) Halling SPECIES
 
 #### Status
 ACCEPTED

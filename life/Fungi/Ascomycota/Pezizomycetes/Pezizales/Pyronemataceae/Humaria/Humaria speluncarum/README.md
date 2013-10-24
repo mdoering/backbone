@@ -1,5 +1,4 @@
-Humaria speluncarum Velen. SPECIES
-=======
+# Humaria speluncarum Velen. SPECIES
 
 #### Status
 ACCEPTED

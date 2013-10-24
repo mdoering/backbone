@@ -1,5 +1,4 @@
-Microglossum microsporum anon. SPECIES
-=======
+# Microglossum microsporum anon. SPECIES
 
 #### Status
 ACCEPTED

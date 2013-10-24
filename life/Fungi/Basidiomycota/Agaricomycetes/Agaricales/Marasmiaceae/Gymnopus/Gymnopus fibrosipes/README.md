@@ -1,5 +1,4 @@
-Gymnopus fibrosipes (Berk. & M.A. Curtis) J.L. Mata SPECIES
-=======
+# Gymnopus fibrosipes (Berk. & M.A. Curtis) J.L. Mata SPECIES
 
 #### Status
 ACCEPTED

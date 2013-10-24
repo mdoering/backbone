@@ -1,5 +1,4 @@
-Uromyces astragali-alopecuri Gjaerum, 1991 SPECIES
-=======
+# Uromyces astragali-alopecuri Gjaerum, 1991 SPECIES
 
 #### Status
 ACCEPTED

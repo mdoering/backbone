@@ -1,5 +1,4 @@
-Tetracyclus excentricus (Ehrenberg) D. M. Williams SPECIES
-=======
+# Tetracyclus excentricus (Ehrenberg) D. M. Williams SPECIES
 
 #### Status
 ACCEPTED

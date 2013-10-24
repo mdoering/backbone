@@ -1,5 +1,4 @@
-Paralepista repanda (Raithelh.) Raithelh. SPECIES
-=======
+# Paralepista repanda (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

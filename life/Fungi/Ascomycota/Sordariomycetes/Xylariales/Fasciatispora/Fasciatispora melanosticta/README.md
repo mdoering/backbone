@@ -1,5 +1,4 @@
-Fasciatispora melanosticta (Ellis & Everh.) K.D. Hyde SPECIES
-=======
+# Fasciatispora melanosticta (Ellis & Everh.) K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

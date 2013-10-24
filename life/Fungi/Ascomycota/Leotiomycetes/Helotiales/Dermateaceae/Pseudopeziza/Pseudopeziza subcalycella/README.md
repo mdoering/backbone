@@ -1,5 +1,4 @@
-Pseudopeziza subcalycella Rehm SPECIES
-=======
+# Pseudopeziza subcalycella Rehm SPECIES
 
 #### Status
 ACCEPTED

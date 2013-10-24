@@ -1,5 +1,4 @@
-Didymosphaeria palaquii Vain. SPECIES
-=======
+# Didymosphaeria palaquii Vain. SPECIES
 
 #### Status
 ACCEPTED

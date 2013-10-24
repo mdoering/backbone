@@ -1,5 +1,4 @@
-Buellia nodulosa (Lynge) H. Magn. SPECIES
-=======
+# Buellia nodulosa (Lynge) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

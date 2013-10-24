@@ -1,5 +1,4 @@
-Endopyrenium perminutum (H. Magn.) N.S. Golubk. SPECIES
-=======
+# Endopyrenium perminutum (H. Magn.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

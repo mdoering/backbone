@@ -1,5 +1,4 @@
-Puccinia typhae Kalchbr. SPECIES
-=======
+# Puccinia typhae Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

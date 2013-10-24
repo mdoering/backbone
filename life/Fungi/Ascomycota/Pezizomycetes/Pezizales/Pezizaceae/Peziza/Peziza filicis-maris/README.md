@@ -1,5 +1,4 @@
-Peziza filicis-maris Saut. SPECIES
-=======
+# Peziza filicis-maris Saut. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arachnopeziza delicatula Fuckel SPECIES
-=======
+# Arachnopeziza delicatula Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora obliterans (Nyl.) Nyl. SPECIES
-=======
+# Lecanora obliterans (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

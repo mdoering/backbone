@@ -1,5 +1,4 @@
-Xerula variabilis R.H. Petersen SPECIES
-=======
+# Xerula variabilis R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

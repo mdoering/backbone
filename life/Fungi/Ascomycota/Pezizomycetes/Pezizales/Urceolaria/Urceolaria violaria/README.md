@@ -1,5 +1,4 @@
-Urceolaria violaria (Nyl.) Nyl. SPECIES
-=======
+# Urceolaria violaria (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

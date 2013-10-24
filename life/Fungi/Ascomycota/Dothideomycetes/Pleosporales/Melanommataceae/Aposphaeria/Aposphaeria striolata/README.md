@@ -1,5 +1,4 @@
-Aposphaeria striolata Sacc. SPECIES
-=======
+# Aposphaeria striolata Sacc. SPECIES
 
 #### Status
 ACCEPTED

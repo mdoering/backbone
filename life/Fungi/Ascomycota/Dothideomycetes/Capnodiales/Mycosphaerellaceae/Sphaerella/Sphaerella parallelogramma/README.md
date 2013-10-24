@@ -1,5 +1,4 @@
-Sphaerella parallelogramma Rehm SPECIES
-=======
+# Sphaerella parallelogramma Rehm SPECIES
 
 #### Status
 ACCEPTED

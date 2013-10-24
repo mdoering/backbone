@@ -1,5 +1,4 @@
-Dictyostelium vinaceofuscum Raper & Fennell, 1967 SPECIES
-=======
+# Dictyostelium vinaceofuscum Raper & Fennell, 1967 SPECIES
 
 #### Status
 ACCEPTED

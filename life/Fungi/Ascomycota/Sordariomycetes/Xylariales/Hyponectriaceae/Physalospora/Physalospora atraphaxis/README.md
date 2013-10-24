@@ -1,8 +1,7 @@
-Physalospora atraphaxidis Kravtzev SPECIES
-=======
+# Physalospora atraphaxis Kravtzev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physalospora atraphaxidis Kravtzev
+Physalospora atraphaxis Kravtzev
 
 ### Remarks
 null

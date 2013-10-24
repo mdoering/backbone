@@ -1,5 +1,4 @@
-Mucedo grisea Pers. SPECIES
-=======
+# Mucedo grisea Pers. SPECIES
 
 #### Status
 ACCEPTED

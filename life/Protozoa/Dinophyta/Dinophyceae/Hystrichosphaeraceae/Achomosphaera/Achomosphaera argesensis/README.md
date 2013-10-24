@@ -1,5 +1,4 @@
-Achomosphaera argesensis E. Demetrescu SPECIES
-=======
+# Achomosphaera argesensis E. Demetrescu SPECIES
 
 #### Status
 ACCEPTED

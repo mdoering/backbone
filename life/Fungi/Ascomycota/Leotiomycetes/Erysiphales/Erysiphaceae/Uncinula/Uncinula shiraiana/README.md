@@ -1,5 +1,4 @@
-Uncinula shiraiana Henn. SPECIES
-=======
+# Uncinula shiraiana Henn. SPECIES
 
 #### Status
 ACCEPTED

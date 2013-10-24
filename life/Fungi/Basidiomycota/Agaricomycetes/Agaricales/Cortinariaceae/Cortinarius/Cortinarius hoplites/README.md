@@ -1,5 +1,4 @@
-Cortinarius hoplites Melot SPECIES
-=======
+# Cortinarius hoplites Melot SPECIES
 
 #### Status
 ACCEPTED

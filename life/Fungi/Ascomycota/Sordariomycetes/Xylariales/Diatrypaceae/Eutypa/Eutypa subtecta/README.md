@@ -1,14 +1,13 @@
-Valsa subtecta (Fr.) Nitschke, 1867 SPECIES
-=======
+# Eutypa subtecta (Fr.) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 23-24: 214 (1870)
 
 #### Original name
 Sphaeria subtecta Kunze, 1823

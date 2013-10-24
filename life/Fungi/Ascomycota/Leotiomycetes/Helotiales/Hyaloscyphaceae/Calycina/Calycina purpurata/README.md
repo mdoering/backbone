@@ -1,5 +1,4 @@
-Calycina purpurata (Kalchbr.) Kuntze SPECIES
-=======
+# Calycina purpurata (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

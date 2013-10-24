@@ -1,17 +1,16 @@
-Lecanora massalongiana Gyeln. SPECIES
-=======
+# Tephromela pertusarioides (Degel.) Hafellner & Cl. Roux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. bot. Centre-Ouest, Nouv. sér. , num. spec. 7: 829 (1985)
 
 #### Original name
-Lecanora massalongiana Gyeln.
+Lecanora pertusarioides Degel.
 
 ### Remarks
 null

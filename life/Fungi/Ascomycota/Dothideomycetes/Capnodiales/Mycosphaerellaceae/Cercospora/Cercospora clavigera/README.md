@@ -1,5 +1,4 @@
-Cercospora clavigera Ellis & Everh. ex Chupp SPECIES
-=======
+# Cercospora clavigera Ellis & Everh. ex Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boidinia permixta Boidin, Lanq. & Gilles, 1997 SPECIES
-=======
+# Boidinia permixta Boidin, Lanq. & Gilles, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Goniodinium P.A. Dangeard, 1927 GENUS
-=======
+# Goniodinium P.A. Dangeard, 1927 GENUS
 
 #### Status
 ACCEPTED

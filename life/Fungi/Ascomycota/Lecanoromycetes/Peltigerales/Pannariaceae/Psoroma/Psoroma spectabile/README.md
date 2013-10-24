@@ -1,5 +1,4 @@
-Psoroma spectabile Zahlbr. SPECIES
-=======
+# Psoroma spectabile Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

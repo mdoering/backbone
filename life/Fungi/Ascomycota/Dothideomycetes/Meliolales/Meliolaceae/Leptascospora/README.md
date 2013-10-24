@@ -1,5 +1,4 @@
-Leptascospora Speg. GENUS
-=======
+# Leptascospora Speg. GENUS
 
 #### Status
 ACCEPTED

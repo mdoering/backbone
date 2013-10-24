@@ -1,14 +1,13 @@
-Dicaeoma phlomidis (Thüm.) Kuntze, 1898 SPECIES
-=======
+# Puccinia phlomidis Thüm., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 470 (1898)
+Bull. Soc. Imp. nat. Moscou 216 (1878)
 
 #### Original name
 Puccinia phlomidis Thüm., 1878

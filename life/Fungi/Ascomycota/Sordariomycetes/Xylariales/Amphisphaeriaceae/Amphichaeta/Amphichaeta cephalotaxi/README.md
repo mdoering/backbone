@@ -1,5 +1,4 @@
-Amphichaeta cephalotaxi Sawada SPECIES
-=======
+# Amphichaeta cephalotaxi Sawada SPECIES
 
 #### Status
 ACCEPTED

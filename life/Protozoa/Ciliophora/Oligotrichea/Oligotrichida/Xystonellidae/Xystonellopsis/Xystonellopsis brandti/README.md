@@ -1,5 +1,4 @@
-Xystonellopsis brandti (Laackmann) Jörgensen, 1924 SPECIES
-=======
+# Xystonellopsis brandti (Laackmann) Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

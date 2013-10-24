@@ -1,5 +1,4 @@
-Herpocladium GENUS
-=======
+# Herpocladium GENUS
 
 #### Status
 ACCEPTED

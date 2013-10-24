@@ -1,5 +1,4 @@
-Coniophora merulioides Falck, 1909 SPECIES
-=======
+# Coniophora merulioides Falck, 1909 SPECIES
 
 #### Status
 ACCEPTED

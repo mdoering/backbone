@@ -1,5 +1,4 @@
-Thorsellia Kampfer, Lindh, Terenius, Haghdoost, Falsen, Busse & Faye, 2006 GENUS
-=======
+# Thorsellia Kampfer, Lindh, Terenius, Haghdoost, Falsen, Busse & Faye, 2006 GENUS
 
 #### Status
 ACCEPTED

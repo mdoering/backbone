@@ -1,14 +1,13 @@
-Nematoloma vialis (Murrill) Guzmán SPECIES
-=======
+# Naematoloma vialis (Murrill) Guzmán SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Guzmán & Vergeer, Mycotaxon 6(3): 476 (1978)
 
 #### Original name
 Psilocybe vialis Murrill

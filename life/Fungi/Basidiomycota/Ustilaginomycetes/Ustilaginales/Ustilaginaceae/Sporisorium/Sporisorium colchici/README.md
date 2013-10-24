@@ -1,5 +1,4 @@
-Sporisorium colchici Lib. SPECIES
-=======
+# Sporisorium colchici Lib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerulina tiliaris Fautrey & Lambotte SPECIES
-=======
+# Sphaerulina tiliaris Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

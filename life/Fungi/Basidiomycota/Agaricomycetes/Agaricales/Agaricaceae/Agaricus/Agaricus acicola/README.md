@@ -1,5 +1,4 @@
-Agaricus acicola Jungh. SPECIES
-=======
+# Agaricus acicola Jungh. SPECIES
 
 #### Status
 ACCEPTED

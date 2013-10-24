@@ -1,5 +1,4 @@
-Polyporus arenarius Klotzsch SPECIES
-=======
+# Polyporus arenarius Klotzsch SPECIES
 
 #### Status
 ACCEPTED

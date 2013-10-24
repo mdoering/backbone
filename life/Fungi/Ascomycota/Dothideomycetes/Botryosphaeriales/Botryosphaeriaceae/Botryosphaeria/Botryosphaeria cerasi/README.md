@@ -1,5 +1,4 @@
-Botryosphaeria cerasi (Cooke & Ellis) Sacc. SPECIES
-=======
+# Botryosphaeria cerasi (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myelochroa xantholepis (Mont. & Bosch) Elix & Hale SPECIES
-=======
+# Myelochroa xantholepis (Mont. & Bosch) Elix & Hale SPECIES
 
 #### Status
 ACCEPTED

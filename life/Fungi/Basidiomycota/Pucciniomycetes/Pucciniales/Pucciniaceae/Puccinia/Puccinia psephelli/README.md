@@ -1,5 +1,4 @@
-Puccinia psephelli Uljan. SPECIES
-=======
+# Puccinia psephelli Uljan. SPECIES
 
 #### Status
 ACCEPTED

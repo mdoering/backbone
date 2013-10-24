@@ -1,5 +1,4 @@
-Lactarius umbrinopapillatus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius umbrinopapillatus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

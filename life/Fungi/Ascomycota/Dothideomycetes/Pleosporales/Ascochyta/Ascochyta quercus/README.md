@@ -1,5 +1,4 @@
-Ascochyta quercus Sacc. & Speg. SPECIES
-=======
+# Ascochyta quercus Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

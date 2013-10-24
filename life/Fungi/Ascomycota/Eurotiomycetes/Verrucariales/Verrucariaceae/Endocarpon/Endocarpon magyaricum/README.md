@@ -1,5 +1,4 @@
-Endocarpon magyaricum Gyeln. SPECIES
-=======
+# Endocarpon magyaricum Gyeln. SPECIES
 
 #### Status
 ACCEPTED

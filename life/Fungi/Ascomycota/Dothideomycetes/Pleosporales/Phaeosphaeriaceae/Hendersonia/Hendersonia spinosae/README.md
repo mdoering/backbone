@@ -1,5 +1,4 @@
-Hendersonia spinosae Rolland SPECIES
-=======
+# Hendersonia spinosae Rolland SPECIES
 
 #### Status
 ACCEPTED

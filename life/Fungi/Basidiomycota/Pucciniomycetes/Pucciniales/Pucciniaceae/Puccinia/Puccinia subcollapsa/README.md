@@ -1,5 +1,4 @@
-Puccinia subcollapsa Ellis SPECIES
-=======
+# Puccinia subcollapsa Ellis SPECIES
 
 #### Status
 ACCEPTED

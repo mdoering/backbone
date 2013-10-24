@@ -1,5 +1,4 @@
-Anabaena bornetiana Collins SPECIES
-=======
+# Anabaena bornetiana Collins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discosphaerina himalayensis (E. Müll.) Sivan. SPECIES
-=======
+# Discosphaerina himalayensis (E. Müll.) Sivan. SPECIES
 
 #### Status
 ACCEPTED

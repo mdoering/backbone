@@ -1,5 +1,4 @@
-Spelaeopogon fridericii Budde SPECIES
-=======
+# Spelaeopogon fridericii Budde SPECIES
 
 #### Status
 ACCEPTED

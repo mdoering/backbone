@@ -1,5 +1,4 @@
-Amanita grisea Massee & Rodway SPECIES
-=======
+# Amanita grisea Massee & Rodway SPECIES
 
 #### Status
 ACCEPTED

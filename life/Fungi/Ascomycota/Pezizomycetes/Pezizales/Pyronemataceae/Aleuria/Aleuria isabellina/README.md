@@ -1,17 +1,16 @@
-Aleuria isabellina var. isabellina VARIETY
-=======
+# Aleuria isabellina SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Hist. Class. Discom. Eur. (Paris) 46 (1907)
+null
 
 #### Original name
-Aleuria isabellina var. isabellina
+null
 
 ### Remarks
 null

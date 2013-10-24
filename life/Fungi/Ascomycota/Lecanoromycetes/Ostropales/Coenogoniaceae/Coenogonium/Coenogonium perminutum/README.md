@@ -1,5 +1,4 @@
-Coenogonium perminutum (Malme) Lücking, Aptroot & Sipman SPECIES
-=======
+# Coenogonium perminutum (Malme) Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

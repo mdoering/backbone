@@ -1,5 +1,4 @@
-Hysterium trunculatum Cooke & Peck SPECIES
-=======
+# Hysterium trunculatum Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

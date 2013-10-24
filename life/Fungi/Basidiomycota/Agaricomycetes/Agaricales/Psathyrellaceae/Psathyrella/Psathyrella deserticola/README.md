@@ -1,5 +1,4 @@
-Psathyrella deserticola A.H. Sm. SPECIES
-=======
+# Psathyrella deserticola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

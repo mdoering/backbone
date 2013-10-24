@@ -1,5 +1,4 @@
-Petasus Torres, 2001 GENUS
-=======
+# Petasus Torres, 2001 GENUS
 
 #### Status
 ACCEPTED

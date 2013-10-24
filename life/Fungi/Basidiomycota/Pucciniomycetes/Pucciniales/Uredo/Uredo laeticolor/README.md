@@ -1,5 +1,4 @@
-Uredo laeticolor Arthur SPECIES
-=======
+# Uredo laeticolor Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerophorus divergens Stirt. SPECIES
-=======
+# Sphaerophorus divergens Stirt. SPECIES
 
 #### Status
 ACCEPTED

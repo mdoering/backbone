@@ -1,14 +1,13 @@
-Passalora helicteretis (Soni, Dadwal & Jamaluddin) Poonam Srivast. SPECIES
-=======
+# Passalora helicteris (Soni, Dadwal & Jamaluddin) Poonam Srivast. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Living World 1(2): 116 (1994)
 
 #### Original name
 Cercosporidium helicteretis Soni, Dadwal & Jamaluddin

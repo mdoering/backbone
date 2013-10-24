@@ -1,5 +1,4 @@
-Gymnopilus purpureosquamulosus Høil. SPECIES
-=======
+# Gymnopilus purpureosquamulosus Høil. SPECIES
 
 #### Status
 ACCEPTED

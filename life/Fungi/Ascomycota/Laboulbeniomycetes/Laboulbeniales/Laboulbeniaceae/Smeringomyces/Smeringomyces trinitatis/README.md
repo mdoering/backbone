@@ -1,5 +1,4 @@
-Smeringomyces trinitatis Thaxt., 1931 SPECIES
-=======
+# Smeringomyces trinitatis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

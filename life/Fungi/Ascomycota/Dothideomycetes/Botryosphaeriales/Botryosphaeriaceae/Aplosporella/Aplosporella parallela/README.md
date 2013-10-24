@@ -1,5 +1,4 @@
-Aplosporella parallela (Dearn. & House) Petr. & Syd. SPECIES
-=======
+# Aplosporella parallela (Dearn. & House) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

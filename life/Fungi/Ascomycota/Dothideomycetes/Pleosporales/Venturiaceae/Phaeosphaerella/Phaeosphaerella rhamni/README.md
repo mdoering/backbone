@@ -1,5 +1,4 @@
-Phaeosphaerella rhamni Bonar SPECIES
-=======
+# Phaeosphaerella rhamni Bonar SPECIES
 
 #### Status
 ACCEPTED

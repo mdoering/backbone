@@ -1,5 +1,4 @@
-Poria carnosa Rostr. ex Sacc. & D. Sacc. SPECIES
-=======
+# Poria carnosa Rostr. ex Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

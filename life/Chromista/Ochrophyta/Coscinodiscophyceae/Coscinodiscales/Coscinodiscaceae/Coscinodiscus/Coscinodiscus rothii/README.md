@@ -1,5 +1,4 @@
-Coscinodiscus rothii (Ehrenberg) Grunow SPECIES
-=======
+# Coscinodiscus rothii (Ehrenberg) Grunow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria sepelibilis Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria sepelibilis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

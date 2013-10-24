@@ -1,5 +1,4 @@
-Psalliota merrillii (Copel.) Mend. {?} & Leus-Palo SPECIES
-=======
+# Psalliota merrillii (Copel.) Mend. {?} & Leus-Palo SPECIES
 
 #### Status
 ACCEPTED

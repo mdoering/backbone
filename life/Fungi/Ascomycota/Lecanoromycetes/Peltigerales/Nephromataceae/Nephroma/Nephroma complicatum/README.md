@@ -1,5 +1,4 @@
-Nephroma complicatum var. complicatum VARIETY
-=======
+# Nephroma complicatum (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nephroma complicatum var. complicatum
+Nephroma arcticum f. complicatum Nyl.
 
 ### Remarks
 null

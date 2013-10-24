@@ -1,5 +1,4 @@
-Meliola triloba G. Winter SPECIES
-=======
+# Meliola triloba G. Winter SPECIES
 
 #### Status
 ACCEPTED

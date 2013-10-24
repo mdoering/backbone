@@ -1,5 +1,4 @@
-Marasmius badiceps Peck SPECIES
-=======
+# Marasmius badiceps Peck SPECIES
 
 #### Status
 ACCEPTED

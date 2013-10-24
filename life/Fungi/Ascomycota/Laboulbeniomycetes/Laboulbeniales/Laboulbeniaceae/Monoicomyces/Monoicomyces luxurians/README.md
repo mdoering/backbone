@@ -1,5 +1,4 @@
-Monoicomyces luxurians W. Rossi & Santam. SPECIES
-=======
+# Monoicomyces luxurians W. Rossi & Santam. SPECIES
 
 #### Status
 ACCEPTED

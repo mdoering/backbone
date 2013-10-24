@@ -1,5 +1,4 @@
-Buellia fuscoatroides B. de Lesd. SPECIES
-=======
+# Buellia fuscoatroides B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

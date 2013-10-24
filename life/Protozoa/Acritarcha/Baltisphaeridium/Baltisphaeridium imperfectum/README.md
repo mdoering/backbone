@@ -1,5 +1,4 @@
-Baltisphaeridium imperfectum Timofeev, 1959 ex Konzalova-Mazancova, 1969 SPECIES
-=======
+# Baltisphaeridium imperfectum Timofeev, 1959 ex Konzalova-Mazancova, 1969 SPECIES
 
 #### Status
 ACCEPTED

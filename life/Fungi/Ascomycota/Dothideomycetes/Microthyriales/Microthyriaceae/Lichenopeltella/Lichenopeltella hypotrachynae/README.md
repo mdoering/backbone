@@ -1,5 +1,4 @@
-Lichenopeltella hypotrachynae Diederich SPECIES
-=======
+# Lichenopeltella hypotrachynae Diederich SPECIES
 
 #### Status
 ACCEPTED

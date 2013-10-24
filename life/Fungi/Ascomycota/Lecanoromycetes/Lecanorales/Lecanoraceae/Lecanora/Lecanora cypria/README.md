@@ -1,5 +1,4 @@
-Lecanora cypria Körb. SPECIES
-=======
+# Lecanora cypria Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Puccinia evodiae Cummins SPECIES
-=======
+# Puccinia euodiae Cummins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 33(4): 384 (1941)
 
 #### Original name
-Puccinia evodiae Cummins
+Puccinia euodiae Cummins
 
 ### Remarks
 null

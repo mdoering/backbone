@@ -1,5 +1,4 @@
-Archaeomonadopsis G. Deflandre, 1938 GENUS
-=======
+# Archaeomonadopsis G. Deflandre, 1938 GENUS
 
 #### Status
 ACCEPTED

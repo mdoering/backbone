@@ -1,8 +1,7 @@
-Rochalimaea elizabethae Daly et al., 1993 SPECIES
-=======
+# Bartonella elizabethae (Daly et al., 1993) Brenner et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

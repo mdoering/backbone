@@ -1,5 +1,4 @@
-Parmelia madagascariacea (Hue) Abbayes SPECIES
-=======
+# Parmelia madagascariacea (Hue) Abbayes SPECIES
 
 #### Status
 ACCEPTED

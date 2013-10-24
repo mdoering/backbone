@@ -1,17 +1,16 @@
-Geopyxis catinus var. catinus VARIETY
-=======
+# Tarzetta catinus (Holmsk.) Korf & J.K. Rogers, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 21(4): 206 (1971)
 
 #### Original name
-Geopyxis catinus var. catinus
+Peziza catinus Holmsk., 1799
 
 ### Remarks
 null

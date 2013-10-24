@@ -1,5 +1,4 @@
-Collybia caryophila (Murrill) Murrill SPECIES
-=======
+# Collybia caryophila (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

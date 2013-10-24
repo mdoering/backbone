@@ -1,5 +1,4 @@
-Hagenia GENUS
-=======
+# Hagenia GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Conglomeromonas largomobilis subsp. parooensis Skerman et al., 1983 SUBSPECIES
-=======
+# Skermanella parooensis (Skerman et al., 1983) Sly & Stackebrandt, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

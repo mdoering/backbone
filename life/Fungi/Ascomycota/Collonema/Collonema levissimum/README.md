@@ -1,5 +1,4 @@
-Collonema levissimum P. Karst. SPECIES
-=======
+# Collonema levissimum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

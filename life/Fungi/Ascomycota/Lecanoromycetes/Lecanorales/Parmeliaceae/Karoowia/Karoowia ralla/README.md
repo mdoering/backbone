@@ -1,14 +1,13 @@
-Parmelia ralla Brusse SPECIES
-=======
+# Karoowia ralla (Brusse) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 27: 240 (1986)
+Mycotaxon 35(1): 189 (1989)
 
 #### Original name
 Parmelia ralla Brusse

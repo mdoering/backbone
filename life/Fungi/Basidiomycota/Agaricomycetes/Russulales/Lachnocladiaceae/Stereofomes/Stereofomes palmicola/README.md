@@ -1,5 +1,4 @@
-Stereofomes palmicola S. Ito & S. Imai SPECIES
-=======
+# Stereofomes palmicola S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

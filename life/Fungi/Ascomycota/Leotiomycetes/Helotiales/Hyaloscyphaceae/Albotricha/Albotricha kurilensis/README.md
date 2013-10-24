@@ -1,5 +1,4 @@
-Albotricha kurilensis Raitv. SPECIES
-=======
+# Albotricha kurilensis Raitv. SPECIES
 
 #### Status
 ACCEPTED

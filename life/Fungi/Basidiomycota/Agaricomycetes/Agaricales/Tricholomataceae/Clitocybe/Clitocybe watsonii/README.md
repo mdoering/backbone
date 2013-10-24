@@ -1,5 +1,4 @@
-Clitocybe watsonii (Murrill) Murrill SPECIES
-=======
+# Clitocybe watsonii (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

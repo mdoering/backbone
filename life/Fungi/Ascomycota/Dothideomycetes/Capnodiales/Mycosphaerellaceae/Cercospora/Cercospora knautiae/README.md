@@ -1,5 +1,4 @@
-Cercospora knautiae Siemaszko SPECIES
-=======
+# Cercospora knautiae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

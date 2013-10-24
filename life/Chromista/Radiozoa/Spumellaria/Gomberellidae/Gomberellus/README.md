@@ -1,5 +1,4 @@
-Gomberellus Dumitrica, Kozur & Mostler, 1981 GENUS
-=======
+# Gomberellus Dumitrica, Kozur & Mostler, 1981 GENUS
 
 #### Status
 ACCEPTED

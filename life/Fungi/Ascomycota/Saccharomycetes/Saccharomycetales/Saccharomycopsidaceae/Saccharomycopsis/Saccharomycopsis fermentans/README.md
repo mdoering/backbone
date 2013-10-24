@@ -1,5 +1,4 @@
-Saccharomycopsis fermentans (C.F. Lee, F.L. Lee, W.H. Hsu & Phaff) Kurtzman & Robnett, 1995 SPECIES
-=======
+# Saccharomycopsis fermentans (C.F. Lee, F.L. Lee, W.H. Hsu & Phaff) Kurtzman & Robnett, 1995 SPECIES
 
 #### Status
 ACCEPTED

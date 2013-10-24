@@ -1,5 +1,4 @@
-Pseudohygrocybe cruenta (Hongo) Kovalenko SPECIES
-=======
+# Pseudohygrocybe cruenta (Hongo) Kovalenko SPECIES
 
 #### Status
 ACCEPTED

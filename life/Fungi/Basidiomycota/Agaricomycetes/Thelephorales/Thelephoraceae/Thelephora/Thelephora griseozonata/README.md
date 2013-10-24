@@ -1,14 +1,13 @@
-Phylacteria griseozonata (Cooke) Pat., 1900 SPECIES
-=======
+# Thelephora griseozonata Cooke, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Tax. Hyménomyc. (Lons-le-Saunier) 119 (1900)
+Grevillea 19(no. 92): 104 (1891)
 
 #### Original name
 Thelephora griseozonata Cooke, 1891

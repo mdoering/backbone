@@ -1,5 +1,4 @@
-Atalanta Cordey & Carter, 1996 GENUS
-=======
+# Atalanta Cordey & Carter, 1996 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphium sorbi Peck SPECIES
-=======
+# Graphium sorbi Peck SPECIES
 
 #### Status
 ACCEPTED

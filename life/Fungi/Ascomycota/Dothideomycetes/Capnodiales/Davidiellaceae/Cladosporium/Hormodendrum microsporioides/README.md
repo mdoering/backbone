@@ -1,5 +1,4 @@
-Hormodendrum microsporioides Manka & Truszk. SPECIES
-=======
+# Hormodendrum microsporioides Manka & Truszk. SPECIES
 
 #### Status
 ACCEPTED

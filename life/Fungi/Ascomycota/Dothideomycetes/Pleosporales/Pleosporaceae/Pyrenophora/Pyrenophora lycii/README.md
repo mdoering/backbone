@@ -1,5 +1,4 @@
-Pyrenophora lycii (Hazsl.) Sacc. & P. Syd. SPECIES
-=======
+# Pyrenophora lycii (Hazsl.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

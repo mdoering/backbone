@@ -1,5 +1,4 @@
-Siphotextularia olianaensis Colom & Ruiz de Gaona, 1950 SPECIES
-=======
+# Siphotextularia olianaensis Colom & Ruiz de Gaona, 1950 SPECIES
 
 #### Status
 ACCEPTED

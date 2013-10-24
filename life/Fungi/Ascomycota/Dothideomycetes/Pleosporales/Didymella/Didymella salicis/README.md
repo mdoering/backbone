@@ -1,17 +1,16 @@
-Didymella salicis var. salicis VARIETY
-=======
+# Didymella salicis Grove, 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Didymella salicis var. salicis
+Didymella salicis Grove, 1886
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clitocybe festivoides Lamoure, 1972 SPECIES
-=======
+# Clitocybe festivoides Lamoure, 1972 SPECIES
 
 #### Status
 ACCEPTED

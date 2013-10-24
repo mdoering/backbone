@@ -1,5 +1,4 @@
-Leiophloea pinicola (Hepp) Trevis. SPECIES
-=======
+# Leiophloea pinicola (Hepp) Trevis. SPECIES
 
 #### Status
 ACCEPTED

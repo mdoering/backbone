@@ -1,5 +1,4 @@
-Licmophora debilis (Kützing) Grunow ex Van Heurck SPECIES
-=======
+# Licmophora debilis (Kützing) Grunow ex Van Heurck SPECIES
 
 #### Status
 ACCEPTED

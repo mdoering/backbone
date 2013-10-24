@@ -1,5 +1,4 @@
-Phanerochaete pallida Parmasto SPECIES
-=======
+# Phanerochaete pallida Parmasto SPECIES
 
 #### Status
 ACCEPTED

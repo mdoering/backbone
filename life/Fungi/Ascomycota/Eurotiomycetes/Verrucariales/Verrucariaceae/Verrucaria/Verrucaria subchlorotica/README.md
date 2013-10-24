@@ -1,5 +1,4 @@
-Verrucaria subchlorotica Nyl. SPECIES
-=======
+# Verrucaria subchlorotica Nyl. SPECIES
 
 #### Status
 ACCEPTED

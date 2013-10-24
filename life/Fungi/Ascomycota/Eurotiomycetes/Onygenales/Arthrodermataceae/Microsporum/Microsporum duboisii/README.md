@@ -1,17 +1,16 @@
-Sabouraudites duboisi Vanbreus. SPECIES
-=======
+# Microsporum duboisii (Vanbreus.) Cif., 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Man. Mic. Med. (Pavia), Edn 2 2: 414 (1960)
 
 #### Original name
-Sabouraudites duboisi Vanbreus.
+Sabouraudites duboisii Vanbreus., 1949
 
 ### Remarks
 null

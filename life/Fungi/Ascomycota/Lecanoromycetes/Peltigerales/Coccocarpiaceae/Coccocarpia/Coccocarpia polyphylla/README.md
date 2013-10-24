@@ -1,5 +1,4 @@
-Coccocarpia polyphylla Pers. SPECIES
-=======
+# Coccocarpia polyphylla Pers. SPECIES
 
 #### Status
 ACCEPTED

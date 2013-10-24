@@ -1,5 +1,4 @@
-Lactarius glutininitens Har. Takah. SPECIES
-=======
+# Lactarius glutininitens Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

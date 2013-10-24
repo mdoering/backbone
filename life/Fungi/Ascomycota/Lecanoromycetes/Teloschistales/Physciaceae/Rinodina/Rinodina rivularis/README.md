@@ -1,5 +1,4 @@
-Rinodina rivularis Müll. Arg. SPECIES
-=======
+# Rinodina rivularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

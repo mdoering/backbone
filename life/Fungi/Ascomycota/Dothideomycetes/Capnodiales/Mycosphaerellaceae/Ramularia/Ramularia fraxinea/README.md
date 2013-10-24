@@ -1,5 +1,4 @@
-Ramularia fraxinea Davis SPECIES
-=======
+# Ramularia fraxinea Davis SPECIES
 
 #### Status
 ACCEPTED

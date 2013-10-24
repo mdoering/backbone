@@ -1,5 +1,4 @@
-Titaeosporina tremulae (Lib.) Luijk SPECIES
-=======
+# Titaeosporina tremulae (Lib.) Luijk SPECIES
 
 #### Status
 ACCEPTED

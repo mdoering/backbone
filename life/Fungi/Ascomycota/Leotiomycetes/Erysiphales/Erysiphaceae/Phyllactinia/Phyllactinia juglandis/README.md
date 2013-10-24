@@ -1,5 +1,4 @@
-Phyllactinia juglandis J.F. Tao & J.Z. Qin SPECIES
-=======
+# Phyllactinia juglandis J.F. Tao & J.Z. Qin SPECIES
 
 #### Status
 ACCEPTED

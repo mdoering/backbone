@@ -1,5 +1,4 @@
-Macrophoma sacchari (Cooke) Berl. & Voglino SPECIES
-=======
+# Macrophoma sacchari (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

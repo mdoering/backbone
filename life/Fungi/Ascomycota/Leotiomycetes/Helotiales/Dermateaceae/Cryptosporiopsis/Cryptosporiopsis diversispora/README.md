@@ -1,5 +1,4 @@
-Cryptosporiopsis diversispora Robak, 1950 SPECIES
-=======
+# Cryptosporiopsis diversispora Robak, 1950 SPECIES
 
 #### Status
 ACCEPTED

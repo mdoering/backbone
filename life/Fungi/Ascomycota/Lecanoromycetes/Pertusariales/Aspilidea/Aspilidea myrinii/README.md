@@ -1,14 +1,13 @@
-Aspicilia myrini (Fr.) Stein SPECIES
-=======
+# Aspilidea myrinii (Fr.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hafellner & Türk, Stapfia 76: 149 (2001)
 
 #### Original name
 Parmelia myrinii Fr.

@@ -1,5 +1,4 @@
-Blastenia lactescens (Leight.) Zahlbr. SPECIES
-=======
+# Blastenia lactescens (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

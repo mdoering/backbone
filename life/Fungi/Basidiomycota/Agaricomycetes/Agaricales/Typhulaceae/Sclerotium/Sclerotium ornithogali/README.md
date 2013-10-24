@@ -1,5 +1,4 @@
-Sclerotium ornithogali Savul. & Sandu SPECIES
-=======
+# Sclerotium ornithogali Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

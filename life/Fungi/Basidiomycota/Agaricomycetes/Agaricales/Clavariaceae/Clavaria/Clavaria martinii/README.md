@@ -1,5 +1,4 @@
-Clavaria martinii Corner SPECIES
-=======
+# Clavaria martinii Corner SPECIES
 
 #### Status
 ACCEPTED

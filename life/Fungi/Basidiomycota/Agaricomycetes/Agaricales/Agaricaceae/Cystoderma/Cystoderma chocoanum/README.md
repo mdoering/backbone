@@ -1,5 +1,4 @@
-Cystoderma chocoanum Franco-Mol., 1993 SPECIES
-=======
+# Cystoderma chocoanum Franco-Mol., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus umbrinus (Paulet) Pers. SPECIES
-=======
+# Agaricus umbrinus (Paulet) Pers. SPECIES
 
 #### Status
 ACCEPTED

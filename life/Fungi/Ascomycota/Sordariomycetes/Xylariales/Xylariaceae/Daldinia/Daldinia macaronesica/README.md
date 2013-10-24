@@ -1,5 +1,4 @@
-Daldinia macaronesica M. Stadler, Wollw. & J.M. Castro, 2004 SPECIES
-=======
+# Daldinia macaronesica M. Stadler, Wollw. & J.M. Castro, 2004 SPECIES
 
 #### Status
 ACCEPTED

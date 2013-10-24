@@ -1,5 +1,4 @@
-Dasyscyphus aculeatus Raitv., K.S. Thind & H. Singh SPECIES
-=======
+# Dasyscyphus aculeatus Raitv., K.S. Thind & H. Singh SPECIES
 
 #### Status
 ACCEPTED

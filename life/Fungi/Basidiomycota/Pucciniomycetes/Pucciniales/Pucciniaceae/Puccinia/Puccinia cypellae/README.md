@@ -1,5 +1,4 @@
-Puccinia cypellae H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia cypellae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacellium stephanandricola H.D. Shin & J.D. Kim SPECIES
-=======
+# Phacellium stephanandricola H.D. Shin & J.D. Kim SPECIES
 
 #### Status
 ACCEPTED

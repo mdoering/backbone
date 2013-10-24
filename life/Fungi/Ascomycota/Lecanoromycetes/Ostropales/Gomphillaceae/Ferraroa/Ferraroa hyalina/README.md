@@ -1,14 +1,13 @@
-Gyalideopsis hyalina Lücking SPECIES
-=======
+# Ferraroa hyalina (Lücking) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 65: 67 (1997)
+Lichenologist 37(2): 164 (2005)
 
 #### Original name
 Gyalideopsis hyalina Lücking

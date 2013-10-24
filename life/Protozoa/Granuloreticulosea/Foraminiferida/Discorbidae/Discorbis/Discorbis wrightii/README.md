@@ -1,5 +1,4 @@
-Discorbis wrightii (Brady, 1881) SPECIES
-=======
+# Discorbis wrightii (Brady, 1881) SPECIES
 
 #### Status
 ACCEPTED

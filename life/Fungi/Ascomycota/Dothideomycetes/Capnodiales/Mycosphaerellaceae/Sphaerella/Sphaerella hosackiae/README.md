@@ -1,5 +1,4 @@
-Sphaerella hosackiae Cooke & Harkn. SPECIES
-=======
+# Sphaerella hosackiae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

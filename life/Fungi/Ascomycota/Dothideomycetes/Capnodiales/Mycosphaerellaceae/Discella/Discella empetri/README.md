@@ -1,5 +1,4 @@
-Discella empetri Negru SPECIES
-=======
+# Discella empetri Negru SPECIES
 
 #### Status
 ACCEPTED

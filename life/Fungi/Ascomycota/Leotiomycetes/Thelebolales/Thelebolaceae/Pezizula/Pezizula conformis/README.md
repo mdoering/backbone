@@ -1,5 +1,4 @@
-Pezizula conformis P. Karst. SPECIES
-=======
+# Pezizula conformis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

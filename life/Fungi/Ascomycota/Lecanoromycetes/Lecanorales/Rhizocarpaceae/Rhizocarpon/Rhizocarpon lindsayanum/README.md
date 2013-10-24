@@ -1,5 +1,4 @@
-Rhizocarpon lindsayanum SPECIES
-=======
+# Rhizocarpon lindsayanum SPECIES
 
 #### Status
 ACCEPTED

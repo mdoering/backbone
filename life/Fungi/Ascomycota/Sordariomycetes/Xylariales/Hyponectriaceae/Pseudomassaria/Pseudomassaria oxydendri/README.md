@@ -1,5 +1,4 @@
-Pseudomassaria oxydendri (F.A. Wolf) M.E. Barr SPECIES
-=======
+# Pseudomassaria oxydendri (F.A. Wolf) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

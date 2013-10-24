@@ -1,5 +1,4 @@
-Parmotrema acetabulum SPECIES
-=======
+# Parmotrema acetabulum SPECIES
 
 #### Status
 ACCEPTED

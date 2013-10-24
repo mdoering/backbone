@@ -1,14 +1,13 @@
-Agaricus petiginosus Fr., 1821 SPECIES
-=======
+# Inocybe petiginosa (Fr.) Gillet, 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 259 (1821)
+Hyménomycètes (Alençon) 521 (1876)
 
 #### Original name
 Agaricus petiginosus Fr., 1821

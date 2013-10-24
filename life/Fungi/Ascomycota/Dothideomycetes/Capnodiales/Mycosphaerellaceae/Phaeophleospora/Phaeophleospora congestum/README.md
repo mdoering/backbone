@@ -1,5 +1,4 @@
-Phaeophleospora congestum (Syd.) Crous & M.E. Palm SPECIES
-=======
+# Phaeophleospora congestum (Syd.) Crous & M.E. Palm SPECIES
 
 #### Status
 ACCEPTED

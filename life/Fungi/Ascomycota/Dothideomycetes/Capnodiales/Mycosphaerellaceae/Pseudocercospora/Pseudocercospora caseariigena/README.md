@@ -1,17 +1,16 @@
-Pseudocercospora casearigena H.S.G. Rao, S. Chandra & Kamal SPECIES
-=======
+# Pseudocercospora caseariigena H.S.G. Rao, S. Chandra & Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 99(6): 707 (1995)
 
 #### Original name
-Pseudocercospora casearigena H.S.G. Rao, S. Chandra & Kamal
+Pseudocercospora caseariigena H.S.G. Rao, S. Chandra & Kamal
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeria sulcigena Schwein. SPECIES
-=======
+# Sphaeria sulcigena Schwein. SPECIES
 
 #### Status
 ACCEPTED

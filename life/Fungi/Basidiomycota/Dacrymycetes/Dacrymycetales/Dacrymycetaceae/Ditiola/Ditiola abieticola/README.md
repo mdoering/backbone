@@ -1,5 +1,4 @@
-Ditiola abieticola D.A. Reid SPECIES
-=======
+# Ditiola abieticola D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

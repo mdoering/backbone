@@ -1,5 +1,4 @@
-Thauera terpenica Foss & Harder, 1999 SPECIES
-=======
+# Thauera terpenica Foss & Harder, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Myxoderma Hansgirg, 1890 GENUS
-=======
+# Pleurocapsa Thuret, 1885 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phys. algol. Mitt. Sitzungsb. kgl. bohm. Acad. 1890: 91.
+Rabenhorst´s Kryptogamenfl. , ed. 2, 2: 515.
 
 #### Original name
 null

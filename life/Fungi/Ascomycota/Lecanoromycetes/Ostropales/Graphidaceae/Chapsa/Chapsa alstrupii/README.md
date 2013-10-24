@@ -1,5 +1,4 @@
-Chapsa alstrupii Frisch SPECIES
-=======
+# Chapsa alstrupii Frisch SPECIES
 
 #### Status
 ACCEPTED

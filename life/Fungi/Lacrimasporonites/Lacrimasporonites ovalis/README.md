@@ -1,5 +1,4 @@
-Lacrimasporonites ovalis Doub. & D. Pons SPECIES
-=======
+# Lacrimasporonites ovalis Doub. & D. Pons SPECIES
 
 #### Status
 ACCEPTED

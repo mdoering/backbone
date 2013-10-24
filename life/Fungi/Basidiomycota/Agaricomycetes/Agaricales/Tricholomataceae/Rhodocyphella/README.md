@@ -1,5 +1,4 @@
-Rhodocyphella GENUS
-=======
+# Rhodocyphella GENUS
 
 #### Status
 ACCEPTED

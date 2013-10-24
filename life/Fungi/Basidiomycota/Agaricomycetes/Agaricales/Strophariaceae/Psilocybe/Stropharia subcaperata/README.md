@@ -1,5 +1,4 @@
-Stropharia subcaperata Farl. & Burt SPECIES
-=======
+# Stropharia subcaperata Farl. & Burt SPECIES
 
 #### Status
 ACCEPTED

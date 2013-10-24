@@ -1,5 +1,4 @@
-Stigmina E. Baldacci & Ciferri, 1937 GENUS
-=======
+# Stigmina E. Baldacci & Ciferri, 1937 GENUS
 
 #### Status
 ACCEPTED

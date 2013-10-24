@@ -1,5 +1,4 @@
-Spirochaeta cubensis SPECIES
-=======
+# Spirochaeta cubensis SPECIES
 
 #### Status
 ACCEPTED

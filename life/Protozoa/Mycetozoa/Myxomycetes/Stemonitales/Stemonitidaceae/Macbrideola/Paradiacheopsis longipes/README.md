@@ -1,5 +1,4 @@
-Paradiacheopsis longipes Hoof & Nann.-Bremek., 1996 SPECIES
-=======
+# Paradiacheopsis longipes Hoof & Nann.-Bremek., 1996 SPECIES
 
 #### Status
 ACCEPTED

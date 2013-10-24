@@ -1,5 +1,4 @@
-Prillieuxia albida var. albida VARIETY
-=======
+# Prillieuxia albida Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Rambo (Ed. ), Iheringia, Sér. Bot. 4: 121 (1959)
 
 #### Original name
-Prillieuxia albida var. albida
+Prillieuxia albida Rick
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xylaria hypsipoda Massee SPECIES
-=======
+# Xylaria hypsipoda Massee SPECIES
 
 #### Status
 ACCEPTED

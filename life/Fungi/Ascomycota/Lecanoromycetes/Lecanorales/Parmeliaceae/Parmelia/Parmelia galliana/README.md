@@ -1,5 +1,4 @@
-Parmelia galliana SPECIES
-=======
+# Parmelia galliana SPECIES
 
 #### Status
 ACCEPTED

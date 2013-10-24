@@ -1,5 +1,4 @@
-Leucopaxillus lilacinus Bougher SPECIES
-=======
+# Leucopaxillus lilacinus Bougher SPECIES
 
 #### Status
 ACCEPTED

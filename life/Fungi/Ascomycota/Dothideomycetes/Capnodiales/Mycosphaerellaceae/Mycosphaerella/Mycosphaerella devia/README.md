@@ -1,5 +1,4 @@
-Mycosphaerella devia Petr. & Cif. SPECIES
-=======
+# Mycosphaerella devia Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

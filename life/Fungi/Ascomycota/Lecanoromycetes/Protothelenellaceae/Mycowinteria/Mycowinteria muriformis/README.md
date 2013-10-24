@@ -1,5 +1,4 @@
-Mycowinteria muriformis Aptroot SPECIES
-=======
+# Mycowinteria muriformis Aptroot SPECIES
 
 #### Status
 ACCEPTED

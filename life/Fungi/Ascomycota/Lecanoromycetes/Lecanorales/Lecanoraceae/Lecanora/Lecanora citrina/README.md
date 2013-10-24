@@ -1,5 +1,4 @@
-Lecanora citrina a citrina Ach. SPECIES
-=======
+# Lecanora citrina a citrina Ach. SPECIES
 
 #### Status
 ACCEPTED

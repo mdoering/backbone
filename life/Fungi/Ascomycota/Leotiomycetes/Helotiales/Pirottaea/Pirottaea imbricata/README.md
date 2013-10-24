@@ -1,5 +1,4 @@
-Pirottaea imbricata Nannf. SPECIES
-=======
+# Pirottaea imbricata Nannf. SPECIES
 
 #### Status
 ACCEPTED

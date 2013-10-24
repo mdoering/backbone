@@ -1,5 +1,4 @@
-Phoma cissi Richon SPECIES
-=======
+# Phoma cissi Richon SPECIES
 
 #### Status
 ACCEPTED

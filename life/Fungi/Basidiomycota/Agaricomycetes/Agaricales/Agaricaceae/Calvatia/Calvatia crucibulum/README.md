@@ -1,5 +1,4 @@
-Calvatia crucibulum (Mont.) Kreisel SPECIES
-=======
+# Calvatia crucibulum (Mont.) Kreisel SPECIES
 
 #### Status
 ACCEPTED

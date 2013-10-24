@@ -1,5 +1,4 @@
-Tejeraia Añez, 1982 GENUS
-=======
+# Tejeraia Añez, 1982 GENUS
 
 #### Status
 ACCEPTED

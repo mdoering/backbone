@@ -1,8 +1,7 @@
-Discorbina corrugata Millett, 1903 SPECIES
-=======
+# Angulodiscorbis corrugatus (Millett, 1903) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

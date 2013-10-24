@@ -1,5 +1,4 @@
-Aspergillus rhizopodus J.N. Rai, Wadhwani & S.C. Agarwal, 1975 SPECIES
-=======
+# Aspergillus rhizopodus J.N. Rai, Wadhwani & S.C. Agarwal, 1975 SPECIES
 
 #### Status
 ACCEPTED

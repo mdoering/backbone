@@ -1,5 +1,4 @@
-Nolanea ambrosia (Quél.) Sacc. & Traverso SPECIES
-=======
+# Nolanea ambrosia (Quél.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius brosselini Joachim SPECIES
-=======
+# Cortinarius brosselini Joachim SPECIES
 
 #### Status
 ACCEPTED

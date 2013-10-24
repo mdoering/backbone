@@ -1,5 +1,4 @@
-Paramecium acutum Dumas, 1929 SPECIES
-=======
+# Paramecium acutum Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

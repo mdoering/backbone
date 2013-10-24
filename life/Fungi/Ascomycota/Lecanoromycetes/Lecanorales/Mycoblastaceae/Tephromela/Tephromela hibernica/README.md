@@ -1,5 +1,4 @@
-Tephromela hibernica Motyka SPECIES
-=======
+# Tephromela hibernica Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia fibrosa I.M. Lamb SPECIES
-=======
+# Bacidia fibrosa I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

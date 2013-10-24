@@ -1,5 +1,4 @@
-Sticta otwayensis (Jatta) Zahlbr. SPECIES
-=======
+# Sticta otwayensis (Jatta) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

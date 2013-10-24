@@ -1,17 +1,16 @@
-Phyllachora digitaricola Doidge SPECIES
-=======
+# Phyllachora digitariicola Doidge, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bothalia 4: 433 (1942)
 
 #### Original name
-Phyllachora digitaricola Doidge
+Phyllachora digitariicola Doidge, 1942
 
 ### Remarks
 null

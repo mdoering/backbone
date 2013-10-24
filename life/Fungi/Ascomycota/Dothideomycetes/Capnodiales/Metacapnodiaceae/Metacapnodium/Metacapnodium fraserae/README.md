@@ -1,14 +1,13 @@
-Limacinia fraserae S. Hughes, 1966 SPECIES
-=======
+# Metacapnodium fraserae (S. Hughes) S. Hughes, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 4(3): 352 (1966)
+Mycologia 68(4): 782 (1976)
 
 #### Original name
 Limacinia fraserae S. Hughes, 1966

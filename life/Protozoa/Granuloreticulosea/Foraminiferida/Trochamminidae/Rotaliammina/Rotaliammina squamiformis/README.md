@@ -1,5 +1,4 @@
-Rotaliammina squamiformis (Cushman & McCulloch, 1939) SPECIES
-=======
+# Rotaliammina squamiformis (Cushman & McCulloch, 1939) SPECIES
 
 #### Status
 ACCEPTED

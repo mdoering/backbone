@@ -1,5 +1,4 @@
-Ceriospora sandwicensis Petr. SPECIES
-=======
+# Ceriospora sandwicensis Petr. SPECIES
 
 #### Status
 ACCEPTED

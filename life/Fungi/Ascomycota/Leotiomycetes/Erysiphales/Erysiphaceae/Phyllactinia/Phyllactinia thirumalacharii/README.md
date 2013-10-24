@@ -1,5 +1,4 @@
-Phyllactinia thirumalacharii Payak SPECIES
-=======
+# Phyllactinia thirumalacharii Payak SPECIES
 
 #### Status
 ACCEPTED

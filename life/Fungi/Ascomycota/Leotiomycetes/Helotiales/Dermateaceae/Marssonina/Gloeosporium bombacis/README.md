@@ -1,5 +1,4 @@
-Gloeosporium bombacis Puttemans SPECIES
-=======
+# Gloeosporium bombacis Puttemans SPECIES
 
 #### Status
 ACCEPTED

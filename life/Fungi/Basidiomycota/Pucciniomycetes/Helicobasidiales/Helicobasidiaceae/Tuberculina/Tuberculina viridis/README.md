@@ -1,5 +1,4 @@
-Tuberculina viridis Petch SPECIES
-=======
+# Tuberculina viridis Petch SPECIES
 
 #### Status
 ACCEPTED

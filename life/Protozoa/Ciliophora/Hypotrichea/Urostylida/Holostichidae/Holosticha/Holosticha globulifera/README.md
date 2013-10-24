@@ -1,5 +1,4 @@
-Holosticha globulifera Kahl, 1932 SPECIES
-=======
+# Holosticha globulifera Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

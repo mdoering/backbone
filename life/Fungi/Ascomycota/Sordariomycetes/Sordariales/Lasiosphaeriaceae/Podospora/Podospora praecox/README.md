@@ -1,5 +1,4 @@
-Podospora praecox Cailleux, 1969 SPECIES
-=======
+# Podospora praecox Cailleux, 1969 SPECIES
 
 #### Status
 ACCEPTED

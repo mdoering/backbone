@@ -1,5 +1,4 @@
-Zschackea ifranensis Werner SPECIES
-=======
+# Zschackea ifranensis Werner SPECIES
 
 #### Status
 ACCEPTED

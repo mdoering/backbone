@@ -1,5 +1,4 @@
-Gloniella byssiseda (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Gloniella byssiseda (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

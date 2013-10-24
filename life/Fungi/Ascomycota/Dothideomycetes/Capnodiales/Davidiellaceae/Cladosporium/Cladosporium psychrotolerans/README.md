@@ -1,5 +1,4 @@
-Cladosporium psychrotolerans Zalar, de Hoog & Gunde-Cim. SPECIES
-=======
+# Cladosporium psychrotolerans Zalar, de Hoog & Gunde-Cim. SPECIES
 
 #### Status
 ACCEPTED

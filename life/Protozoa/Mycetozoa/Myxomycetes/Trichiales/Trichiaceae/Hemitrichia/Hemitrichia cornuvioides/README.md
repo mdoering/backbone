@@ -1,5 +1,4 @@
-Hemitrichia cornuvioides Lavrov, 1929 SPECIES
-=======
+# Hemitrichia cornuvioides Lavrov, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora lineola (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora lineola (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

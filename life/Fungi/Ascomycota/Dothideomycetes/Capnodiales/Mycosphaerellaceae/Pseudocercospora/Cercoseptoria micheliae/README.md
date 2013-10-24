@@ -1,5 +1,4 @@
-Cercoseptoria micheliae B.V. Patil & Thirum. SPECIES
-=======
+# Cercoseptoria micheliae B.V. Patil & Thirum. SPECIES
 
 #### Status
 ACCEPTED

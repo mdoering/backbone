@@ -1,5 +1,4 @@
-Puccinia keae G. Cunn., 1928 SPECIES
-=======
+# Puccinia keae G. Cunn., 1928 SPECIES
 
 #### Status
 ACCEPTED

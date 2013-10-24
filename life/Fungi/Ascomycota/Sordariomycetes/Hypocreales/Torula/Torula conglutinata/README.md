@@ -1,5 +1,4 @@
-Torula conglutinata var. conglutinata VARIETY
-=======
+# Torula conglutinata Corda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Icon. fung. (Prague) 1: 8 (1837)
 
 #### Original name
-Torula conglutinata var. conglutinata
+Torula conglutinata Corda
 
 ### Remarks
 null

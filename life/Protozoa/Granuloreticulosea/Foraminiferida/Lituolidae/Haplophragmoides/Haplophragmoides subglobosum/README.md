@@ -1,5 +1,4 @@
-Haplophragmoides subglobosum SPECIES
-=======
+# Haplophragmoides subglobosum SPECIES
 
 #### Status
 ACCEPTED

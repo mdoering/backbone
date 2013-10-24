@@ -1,5 +1,4 @@
-Sticta oroborialis Goward & Tønsberg SPECIES
-=======
+# Sticta oroborialis Goward & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Beccopycnidium palmicolum F. Stevens SPECIES
-=======
+# Beccopycnidium palmicola F. Stevens, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 28(5/6): 369 (1930)
 
 #### Original name
-Beccopycnidium palmicolum F. Stevens
+Beccopycnidium palmicola F. Stevens, 1930
 
 ### Remarks
 null

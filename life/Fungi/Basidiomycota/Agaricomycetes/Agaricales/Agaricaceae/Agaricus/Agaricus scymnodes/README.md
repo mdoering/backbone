@@ -1,5 +1,4 @@
-Agaricus scymnodes Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus scymnodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

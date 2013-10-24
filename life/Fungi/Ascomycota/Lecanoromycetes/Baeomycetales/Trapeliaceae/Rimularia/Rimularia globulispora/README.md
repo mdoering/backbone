@@ -1,5 +1,4 @@
-Rimularia globulispora Sipman & Aptroot SPECIES
-=======
+# Rimularia globulispora Sipman & Aptroot SPECIES
 
 #### Status
 ACCEPTED

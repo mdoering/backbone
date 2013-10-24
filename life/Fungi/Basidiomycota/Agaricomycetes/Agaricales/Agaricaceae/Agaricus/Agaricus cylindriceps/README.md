@@ -1,5 +1,4 @@
-Agaricus cylindriceps var. aureus Murrill VARIETY
-=======
+# Agaricus cylindriceps Murrill SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus cylindriceps var. aureus Murrill
+Agaricus cylindriceps Murrill
 
 ### Remarks
 null

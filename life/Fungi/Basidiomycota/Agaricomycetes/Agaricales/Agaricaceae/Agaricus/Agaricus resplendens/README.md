@@ -1,5 +1,4 @@
-Agaricus resplendens Fr. SPECIES
-=======
+# Agaricus resplendens Fr. SPECIES
 
 #### Status
 ACCEPTED

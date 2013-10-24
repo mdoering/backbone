@@ -1,5 +1,4 @@
-Lecanora sipeana H. Magn. SPECIES
-=======
+# Lecanora sipeana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

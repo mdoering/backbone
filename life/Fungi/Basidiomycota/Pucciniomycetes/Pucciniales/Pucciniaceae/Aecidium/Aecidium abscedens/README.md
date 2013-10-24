@@ -1,5 +1,4 @@
-Aecidium abscedens Arthur SPECIES
-=======
+# Aecidium abscedens Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxophyllum quadricostatum Vacelet, 1961 SPECIES
-=======
+# Loxophyllum quadricostatum Vacelet, 1961 SPECIES
 
 #### Status
 ACCEPTED

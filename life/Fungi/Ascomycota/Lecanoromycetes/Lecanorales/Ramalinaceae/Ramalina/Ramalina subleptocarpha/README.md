@@ -1,5 +1,4 @@
-Ramalina subleptocarpha Rundel & Bowler SPECIES
-=======
+# Ramalina subleptocarpha Rundel & Bowler SPECIES
 
 #### Status
 ACCEPTED

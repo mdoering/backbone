@@ -1,5 +1,4 @@
-Byssonectria balansae Rehm SPECIES
-=======
+# Byssonectria balansae Rehm SPECIES
 
 #### Status
 ACCEPTED

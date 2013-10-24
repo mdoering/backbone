@@ -1,5 +1,4 @@
-Dactylella heterospora Drechsler SPECIES
-=======
+# Dactylella heterospora Drechsler SPECIES
 
 #### Status
 ACCEPTED

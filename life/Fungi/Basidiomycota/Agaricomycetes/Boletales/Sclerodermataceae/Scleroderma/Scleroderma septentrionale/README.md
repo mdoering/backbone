@@ -1,5 +1,4 @@
-Scleroderma septentrionale Jeppson, 1998 SPECIES
-=======
+# Scleroderma septentrionale Jeppson, 1998 SPECIES
 
 #### Status
 ACCEPTED

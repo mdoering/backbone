@@ -1,5 +1,4 @@
-Trachydiscus lenticularis H.Ettl SPECIES
-=======
+# Trachydiscus lenticularis H.Ettl SPECIES
 
 #### Status
 ACCEPTED

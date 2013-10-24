@@ -1,5 +1,4 @@
-Puccinia koherika G. Cunn., 1930 SPECIES
-=======
+# Puccinia koherika G. Cunn., 1930 SPECIES
 
 #### Status
 ACCEPTED

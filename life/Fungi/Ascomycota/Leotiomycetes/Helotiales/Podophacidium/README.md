@@ -1,17 +1,16 @@
-Melachroia Boud. GENUS
-=======
+# Podophacidium Niessl, 1868 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Soc. mycol. Fr. 1: 112 (1885)
+null
 
 #### Original name
-Melachroia Boud.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Verrucocladosporium dirinae K. Schub., Aptroot & Crous, 2007 SPECIES
-=======
+# Verrucocladosporium dirinae K. Schub., Aptroot & Crous, 2007 SPECIES
 
 #### Status
 ACCEPTED

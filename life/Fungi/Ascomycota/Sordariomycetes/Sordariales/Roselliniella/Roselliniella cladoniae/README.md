@@ -1,14 +1,13 @@
-Neesiella cladoniae (Anzi) Kirschst., 1935 SPECIES
-=======
+# Roselliniella cladoniae (Anzi) Matzer & Hafellner, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 33: 217 (1935)
+Biblthca Lichenol. 37: 59 (1990)
 
 #### Original name
 Sordaria cladoniae Anzi, 1860

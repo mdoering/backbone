@@ -1,5 +1,4 @@
-Textularia mayeri Cushman SPECIES
-=======
+# Textularia mayeri Cushman SPECIES
 
 #### Status
 ACCEPTED

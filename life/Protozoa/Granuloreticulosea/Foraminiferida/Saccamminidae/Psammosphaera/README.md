@@ -1,5 +1,4 @@
-Psammosphaera Schulze, 1875 GENUS
-=======
+# Psammosphaera Schulze, 1875 GENUS
 
 #### Status
 ACCEPTED

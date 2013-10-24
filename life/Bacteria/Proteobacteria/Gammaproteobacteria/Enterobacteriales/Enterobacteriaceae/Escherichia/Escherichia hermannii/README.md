@@ -1,5 +1,4 @@
-Escherichia hermannii Brenner et al., 1983 SPECIES
-=======
+# Escherichia hermannii Brenner et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

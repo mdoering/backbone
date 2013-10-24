@@ -1,5 +1,4 @@
-Chaenotheca stenocyboides (Nyl.) Sandst. SPECIES
-=======
+# Chaenotheca stenocyboides (Nyl.) Sandst. SPECIES
 
 #### Status
 ACCEPTED

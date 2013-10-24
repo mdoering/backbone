@@ -1,5 +1,4 @@
-Helioentactinia Nazarov, 1975 GENUS
-=======
+# Helioentactinia Nazarov, 1975 GENUS
 
 #### Status
 ACCEPTED

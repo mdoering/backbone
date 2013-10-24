@@ -1,5 +1,4 @@
-Phytophthora viticola W. Reichelt SPECIES
-=======
+# Phytophthora viticola W. Reichelt SPECIES
 
 #### Status
 ACCEPTED

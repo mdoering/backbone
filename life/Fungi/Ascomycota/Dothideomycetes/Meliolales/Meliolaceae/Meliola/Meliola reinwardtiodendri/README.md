@@ -1,5 +1,4 @@
-Meliola reinwardtiodendri Hosag. SPECIES
-=======
+# Meliola reinwardtiodendri Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septomyxa affinis Wollenw. SPECIES
-=======
+# Septomyxa affinis Wollenw. SPECIES
 
 #### Status
 ACCEPTED

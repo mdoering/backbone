@@ -1,5 +1,4 @@
-Garnaudia ferranii R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Garnaudia ferranii R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

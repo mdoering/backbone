@@ -1,5 +1,4 @@
-Coprinus calyptratus Peck SPECIES
-=======
+# Coprinus calyptratus Peck SPECIES
 
 #### Status
 ACCEPTED

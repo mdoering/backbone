@@ -1,5 +1,4 @@
-Intranstylum rheophilum SPECIES
-=======
+# Intranstylum rheophilum SPECIES
 
 #### Status
 ACCEPTED

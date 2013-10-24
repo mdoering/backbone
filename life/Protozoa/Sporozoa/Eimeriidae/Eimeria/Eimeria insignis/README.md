@@ -1,5 +1,4 @@
-Eimeria insignis Lom & Dyková, 1982 SPECIES
-=======
+# Eimeria insignis Lom & Dyková, 1982 SPECIES
 
 #### Status
 ACCEPTED

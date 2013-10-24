@@ -1,17 +1,16 @@
-Agaricus chrysodon var. chrysodon VARIETY
-=======
+# Hygrophorus chrysodon (Batsch) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 320 (1838)
 
 #### Original name
-null
+Agaricus chrysodon Batsch, 1789
 
 ### Remarks
 null

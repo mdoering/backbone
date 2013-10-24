@@ -1,17 +1,16 @@
-Fusiformisporites tonakkalense Y.N.R. Varma & R.S. Patil SPECIES
-=======
+# Varmasporites tonakkalensis (Y.N.R. Varma & R.S. Patil) Kalgutkar & Janson. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+AASP Contributions Series (Dallas) 39: 310 (2000)
 
 #### Original name
-Fusiformisporites tonakkalense Y.N.R. Varma & R.S. Patil
+Fusiformisporites tonakkalensis Y.N.R. Varma & R.S. Patil
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyrenula impressa Müll. Arg. SPECIES
-=======
+# Pyrenula impressa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

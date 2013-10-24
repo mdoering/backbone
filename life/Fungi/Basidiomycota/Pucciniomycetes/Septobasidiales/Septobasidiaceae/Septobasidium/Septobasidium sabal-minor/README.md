@@ -1,17 +1,16 @@
-Septobasidium sabalis-minoris Couch SPECIES
-=======
+# Septobasidium sabal-minor Couch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 51: 19 (1935)
 
 #### Original name
-Septobasidium sabalis-minoris Couch
+Septobasidium sabal-minor Couch
 
 ### Remarks
 null

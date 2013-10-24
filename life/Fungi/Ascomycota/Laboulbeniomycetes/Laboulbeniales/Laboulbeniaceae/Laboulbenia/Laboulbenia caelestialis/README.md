@@ -1,5 +1,4 @@
-Laboulbenia caelestialis Thaxt. SPECIES
-=======
+# Laboulbenia caelestialis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

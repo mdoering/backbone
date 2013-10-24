@@ -1,5 +1,4 @@
-Pseudocercospora punicae (Henn.) Deighton SPECIES
-=======
+# Pseudocercospora punicae (Henn.) Deighton SPECIES
 
 #### Status
 ACCEPTED

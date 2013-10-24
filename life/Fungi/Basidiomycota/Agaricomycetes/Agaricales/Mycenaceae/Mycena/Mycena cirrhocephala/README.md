@@ -1,5 +1,4 @@
-Mycena cirrhocephala (Berk. & Broome) Pegler SPECIES
-=======
+# Mycena cirrhocephala (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

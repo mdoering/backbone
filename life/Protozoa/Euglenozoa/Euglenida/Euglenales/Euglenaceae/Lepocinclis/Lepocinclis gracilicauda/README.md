@@ -1,5 +1,4 @@
-Lepocinclis gracilicauda Defl. SPECIES
-=======
+# Lepocinclis gracilicauda Defl. SPECIES
 
 #### Status
 ACCEPTED

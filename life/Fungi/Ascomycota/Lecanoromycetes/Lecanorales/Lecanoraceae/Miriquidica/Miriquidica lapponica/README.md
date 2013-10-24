@@ -1,5 +1,4 @@
-Miriquidica lapponica A.J. Schwab & Rambold SPECIES
-=======
+# Miriquidica lapponica A.J. Schwab & Rambold SPECIES
 
 #### Status
 ACCEPTED

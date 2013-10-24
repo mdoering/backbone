@@ -1,5 +1,4 @@
-Perisporium fragariae Wallr. SPECIES
-=======
+# Perisporium fragariae Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kurtzmanomyces tardus Gim.-Jurado & Uden, 1990 SPECIES
-=======
+# Kurtzmanomyces tardus Gim.-Jurado & Uden, 1990 SPECIES
 
 #### Status
 ACCEPTED

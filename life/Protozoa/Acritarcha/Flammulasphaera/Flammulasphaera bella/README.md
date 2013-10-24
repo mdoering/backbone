@@ -1,5 +1,4 @@
-Flammulasphaera bella Richards & Mullins, 2003 SPECIES
-=======
+# Flammulasphaera bella Richards & Mullins, 2003 SPECIES
 
 #### Status
 ACCEPTED

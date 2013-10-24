@@ -1,5 +1,4 @@
-Chalara montellica (Sacc.) Sacc. SPECIES
-=======
+# Chalara montellica (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

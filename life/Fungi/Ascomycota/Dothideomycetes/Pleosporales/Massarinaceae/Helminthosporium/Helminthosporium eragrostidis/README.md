@@ -1,5 +1,4 @@
-Helminthosporium eragrostidis Henn. SPECIES
-=======
+# Helminthosporium eragrostidis Henn. SPECIES
 
 #### Status
 ACCEPTED

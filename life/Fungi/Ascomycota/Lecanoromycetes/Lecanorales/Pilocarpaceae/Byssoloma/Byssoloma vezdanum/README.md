@@ -1,5 +1,4 @@
-Byssoloma vezdanum Sérus. SPECIES
-=======
+# Byssoloma vezdanum Sérus. SPECIES
 
 #### Status
 ACCEPTED

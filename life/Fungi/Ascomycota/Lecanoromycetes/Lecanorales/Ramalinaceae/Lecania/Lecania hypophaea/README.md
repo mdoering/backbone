@@ -1,5 +1,4 @@
-Lecania hypophaea H. Magn. SPECIES
-=======
+# Lecania hypophaea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

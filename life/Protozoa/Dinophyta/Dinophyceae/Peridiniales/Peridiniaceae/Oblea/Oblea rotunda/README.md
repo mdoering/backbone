@@ -1,8 +1,7 @@
-Diplopsalis rotunda Wood SPECIES
-=======
+# Oblea rotunda (Lebour) Balech ex Sournia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

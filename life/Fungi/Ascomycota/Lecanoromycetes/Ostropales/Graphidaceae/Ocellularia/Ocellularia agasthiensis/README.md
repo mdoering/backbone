@@ -1,5 +1,4 @@
-Ocellularia agasthiensis Nagarkar, Sethy & Patw. SPECIES
-=======
+# Ocellularia agasthiensis Nagarkar, Sethy & Patw. SPECIES
 
 #### Status
 ACCEPTED

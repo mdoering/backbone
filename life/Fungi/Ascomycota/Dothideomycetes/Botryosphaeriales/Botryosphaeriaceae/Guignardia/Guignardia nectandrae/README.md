@@ -1,5 +1,4 @@
-Guignardia nectandrae F. Stevens SPECIES
-=======
+# Guignardia nectandrae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

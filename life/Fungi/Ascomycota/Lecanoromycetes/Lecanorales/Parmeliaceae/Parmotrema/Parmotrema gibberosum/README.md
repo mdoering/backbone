@@ -1,5 +1,4 @@
-Parmotrema gibberosum Kurok. SPECIES
-=======
+# Parmotrema gibberosum Kurok. SPECIES
 
 #### Status
 ACCEPTED

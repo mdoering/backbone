@@ -1,5 +1,4 @@
-Dacryopinax imazekiana (Kobayasi) Lowy SPECIES
-=======
+# Dacryopinax imazekiana (Kobayasi) Lowy SPECIES
 
 #### Status
 ACCEPTED

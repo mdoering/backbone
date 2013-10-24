@@ -1,5 +1,4 @@
-Metasphaeria acerum (Crié) Sacc. SPECIES
-=======
+# Metasphaeria acerum (Crié) Sacc. SPECIES
 
 #### Status
 ACCEPTED

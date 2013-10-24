@@ -1,5 +1,4 @@
-Astraeus asiaticus Phosri, M.P. Martín & Watling SPECIES
-=======
+# Astraeus asiaticus Phosri, M.P. Martín & Watling SPECIES
 
 #### Status
 ACCEPTED

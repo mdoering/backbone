@@ -1,5 +1,4 @@
-Phyllachora brenesii Syd., 1929 SPECIES
-=======
+# Phyllachora brenesii Syd., 1929 SPECIES
 
 #### Status
 ACCEPTED

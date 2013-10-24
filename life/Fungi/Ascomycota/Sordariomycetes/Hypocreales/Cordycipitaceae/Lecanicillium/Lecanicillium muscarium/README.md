@@ -1,14 +1,13 @@
-Cephalosporium muscarium Petch, 1931 SPECIES
-=======
+# Lecanicillium muscarium (Petch) Zare & W. Gams, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Naturalist (Hull), ser. 3 102 (1931)
+Nova Hedwigia 73(1-2): 13 (2001)
 
 #### Original name
 Cephalosporium muscarium Petch, 1931

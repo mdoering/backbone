@@ -1,5 +1,4 @@
-Acarospora silesiaca H. Magn. SPECIES
-=======
+# Acarospora silesiaca H. Magn. SPECIES
 
 #### Status
 ACCEPTED

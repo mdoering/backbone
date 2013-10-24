@@ -1,5 +1,4 @@
-Dictyuchus achlyoides Coker SPECIES
-=======
+# Dictyuchus achlyoides Coker SPECIES
 
 #### Status
 ACCEPTED

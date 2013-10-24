@@ -1,5 +1,4 @@
-Vulcanisphaera pila Rasul, 1976 SPECIES
-=======
+# Vulcanisphaera pila Rasul, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peroneutypa philippinarum var. philippinarum VARIETY
-=======
+# Peroneutypa philippinarum Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peroneutypa philippinarum var. philippinarum
+Peroneutypa philippinarum Rehm
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Puccinia andropogonis-macranthi Dietel SPECIES
-=======
+# Puccinia andropogonis-micranthi Dietel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia andropogonis-macranthi Dietel
+Puccinia andropogonis-micranthi Dietel
 
 ### Remarks
 null

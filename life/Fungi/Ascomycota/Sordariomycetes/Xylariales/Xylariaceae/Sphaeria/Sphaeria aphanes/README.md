@@ -1,5 +1,4 @@
-Sphaeria aphanes Opiz SPECIES
-=======
+# Sphaeria aphanes Opiz SPECIES
 
 #### Status
 ACCEPTED

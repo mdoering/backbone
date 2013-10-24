@@ -1,5 +1,4 @@
-Dichosporium album Corda SPECIES
-=======
+# Dichosporium album Corda SPECIES
 
 #### Status
 ACCEPTED

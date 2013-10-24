@@ -1,5 +1,4 @@
-Polystictus subporiaeformis Henn. SPECIES
-=======
+# Polystictus subporiaeformis Henn. SPECIES
 
 #### Status
 ACCEPTED

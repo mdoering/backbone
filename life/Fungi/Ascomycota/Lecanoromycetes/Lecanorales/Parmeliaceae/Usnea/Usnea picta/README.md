@@ -1,5 +1,4 @@
-Usnea picta (J. Steiner) Motyka SPECIES
-=======
+# Usnea picta (J. Steiner) Motyka SPECIES
 
 #### Status
 ACCEPTED

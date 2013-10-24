@@ -1,5 +1,4 @@
-Boletus pulvinatus Humb. SPECIES
-=======
+# Boletus pulvinatus Humb. SPECIES
 
 #### Status
 ACCEPTED

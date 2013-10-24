@@ -1,5 +1,4 @@
-Lojkania Rehm GENUS
-=======
+# Lojkania Rehm GENUS
 
 #### Status
 ACCEPTED

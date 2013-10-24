@@ -1,5 +1,4 @@
-Puccinia heliotropii F. Kern & Kellerm. SPECIES
-=======
+# Puccinia heliotropii F. Kern & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

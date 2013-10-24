@@ -1,5 +1,4 @@
-Ceratolithoides kamptneri Bramlette & Martini, 1964 SPECIES
-=======
+# Ceratolithoides kamptneri Bramlette & Martini, 1964 SPECIES
 
 #### Status
 ACCEPTED

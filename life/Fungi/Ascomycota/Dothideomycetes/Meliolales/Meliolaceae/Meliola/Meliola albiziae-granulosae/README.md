@@ -1,5 +1,4 @@
-Meliola albiziae-granulosae B. Huguenin SPECIES
-=======
+# Meliola albiziae-granulosae B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

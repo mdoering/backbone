@@ -1,5 +1,4 @@
-Verrucaria cinereolimbata Servít SPECIES
-=======
+# Verrucaria cinereolimbata Servít SPECIES
 
 #### Status
 ACCEPTED

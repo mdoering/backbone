@@ -1,14 +1,13 @@
-Aspiciliopsis (Müll. Arg.) M. Choisy GENUS
-=======
+# Placopsis (Nylander) Lindsay, 1867 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 76: 526 (1929)
+Trans. Linn. Soc. London 25: 536 (1867)
 
 #### Original name
 null

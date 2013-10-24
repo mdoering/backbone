@@ -1,17 +1,16 @@
-Melanomma marathawadensis Tilak, S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Melanomma marathawadense Tilak, S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 24(1-6): 82 (1971)
 
 #### Original name
-Melanomma marathawadensis Tilak, S.B. Kale & S.V.S. Kale
+Melanomma marathawadense Tilak, S.B. Kale & S.V.S. Kale
 
 ### Remarks
 null

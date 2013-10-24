@@ -1,5 +1,4 @@
-Cantharellus insignis (Cooke) Corner, 1966 SPECIES
-=======
+# Cantharellus insignis (Cooke) Corner, 1966 SPECIES
 
 #### Status
 ACCEPTED

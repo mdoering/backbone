@@ -1,8 +1,7 @@
-Hydroclathrus orientalis (J. Agardh) Heyrich SPECIES
-=======
+# Rosenvingea orientalis (J. Agardh) Børgesen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

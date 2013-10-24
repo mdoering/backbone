@@ -1,5 +1,4 @@
-Myrothecium catenulatum Pidopl. SPECIES
-=======
+# Myrothecium catenulatum Pidopl. SPECIES
 
 #### Status
 ACCEPTED

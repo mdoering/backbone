@@ -1,5 +1,4 @@
-Caeoma mammillatum var. mammillatum VARIETY
-=======
+# Caeoma mammillatum Sommerf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caeoma mammillatum var. mammillatum
+Caeoma mammillatum Sommerf.
 
 ### Remarks
 null

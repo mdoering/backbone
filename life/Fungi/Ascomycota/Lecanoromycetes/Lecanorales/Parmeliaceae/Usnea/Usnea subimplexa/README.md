@@ -1,5 +1,4 @@
-Usnea subimplexa M. Choisy SPECIES
-=======
+# Usnea subimplexa M. Choisy SPECIES
 
 #### Status
 ACCEPTED

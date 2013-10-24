@@ -1,5 +1,4 @@
-Leptomitus nanus (Dillwyn) C. Agardh SPECIES
-=======
+# Leptomitus nanus (Dillwyn) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

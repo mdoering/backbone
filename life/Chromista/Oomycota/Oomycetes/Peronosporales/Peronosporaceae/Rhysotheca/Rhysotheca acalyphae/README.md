@@ -1,5 +1,4 @@
-Rhysotheca acalyphae G.W. Wilson SPECIES
-=======
+# Rhysotheca acalyphae G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

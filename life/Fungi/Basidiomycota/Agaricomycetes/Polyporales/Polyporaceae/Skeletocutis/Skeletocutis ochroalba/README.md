@@ -1,5 +1,4 @@
-Skeletocutis ochroalba Niemelä, 1985 SPECIES
-=======
+# Skeletocutis ochroalba Niemelä, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora blephiliae Chupp & H.C. Greene SPECIES
-=======
+# Cercospora blephiliae Chupp & H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

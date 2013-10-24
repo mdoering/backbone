@@ -1,5 +1,4 @@
-Pleospora anceps Berl. & Sacc. SPECIES
-=======
+# Pleospora anceps Berl. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

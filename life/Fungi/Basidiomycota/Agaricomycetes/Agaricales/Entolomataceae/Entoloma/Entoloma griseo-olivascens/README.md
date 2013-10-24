@@ -1,5 +1,4 @@
-Entoloma griseo-olivascens (Britzelm.) Sacc. SPECIES
-=======
+# Entoloma griseo-olivascens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella convallariae Sawada SPECIES
-=======
+# Cercosporella convallariae Sawada SPECIES
 
 #### Status
 ACCEPTED

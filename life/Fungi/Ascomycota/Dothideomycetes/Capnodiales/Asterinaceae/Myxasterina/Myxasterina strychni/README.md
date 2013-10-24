@@ -1,5 +1,4 @@
-Myxasterina strychni Höhn. SPECIES
-=======
+# Myxasterina strychni Höhn. SPECIES
 
 #### Status
 ACCEPTED

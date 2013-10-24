@@ -1,5 +1,4 @@
-Grandinia taquarae Rick SPECIES
-=======
+# Grandinia taquarae Rick SPECIES
 
 #### Status
 ACCEPTED

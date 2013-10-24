@@ -1,5 +1,4 @@
-Agaricus flavolivens Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus flavolivens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthoplegma GENUS
-=======
+# Acanthoplegma GENUS
 
 #### Status
 ACCEPTED

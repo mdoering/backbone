@@ -1,5 +1,4 @@
-Agaricus austinii Peck SPECIES
-=======
+# Agaricus austinii Peck SPECIES
 
 #### Status
 ACCEPTED

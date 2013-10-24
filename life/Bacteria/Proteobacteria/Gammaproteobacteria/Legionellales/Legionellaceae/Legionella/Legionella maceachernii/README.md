@@ -1,8 +1,7 @@
-Tatlockia maceachernii (Brenner et al., 1985) Fox et al., 1991 SPECIES
-=======
+# Legionella maceachernii Brenner et al., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

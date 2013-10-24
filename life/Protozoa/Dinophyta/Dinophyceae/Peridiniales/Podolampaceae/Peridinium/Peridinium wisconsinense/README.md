@@ -1,5 +1,4 @@
-Peridinium wisconsinense Eddy SPECIES
-=======
+# Peridinium wisconsinense Eddy SPECIES
 
 #### Status
 ACCEPTED

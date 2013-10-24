@@ -1,5 +1,4 @@
-Plasmopara selini Wronska SPECIES
-=======
+# Plasmopara selini Wronska SPECIES
 
 #### Status
 ACCEPTED

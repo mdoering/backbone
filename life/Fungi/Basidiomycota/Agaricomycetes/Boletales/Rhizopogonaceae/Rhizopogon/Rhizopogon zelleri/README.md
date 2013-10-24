@@ -1,5 +1,4 @@
-Rhizopogon zelleri A.H. Sm. SPECIES
-=======
+# Rhizopogon zelleri A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

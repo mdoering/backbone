@@ -1,14 +1,13 @@
-Polyporus mylittae Sacc., 1893 SPECIES
-=======
+# Laccocephalum mylittae (Cooke & Massee) Núñez & Ryvarden, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 21(no. 98): 37 (1892)
+Syn. Fung. (Oslo) 10: 31 (1995)
 
 #### Original name
 Polyporus mylittae Sacc., 1893

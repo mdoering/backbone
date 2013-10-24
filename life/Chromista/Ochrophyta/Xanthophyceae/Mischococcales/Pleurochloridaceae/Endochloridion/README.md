@@ -1,5 +1,4 @@
-Endochloridion Pascher, 1930 GENUS
-=======
+# Endochloridion Pascher, 1930 GENUS
 
 #### Status
 ACCEPTED

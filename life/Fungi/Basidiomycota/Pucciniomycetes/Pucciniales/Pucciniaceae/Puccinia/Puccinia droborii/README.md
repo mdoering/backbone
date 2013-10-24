@@ -1,5 +1,4 @@
-Puccinia droborii Solkina SPECIES
-=======
+# Puccinia droborii Solkina SPECIES
 
 #### Status
 ACCEPTED

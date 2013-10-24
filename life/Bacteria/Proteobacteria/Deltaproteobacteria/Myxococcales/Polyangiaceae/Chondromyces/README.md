@@ -1,5 +1,4 @@
-Chondromyces Berk. & M.A. Curtis GENUS
-=======
+# Chondromyces Berk. & M.A. Curtis GENUS
 
 #### Status
 ACCEPTED

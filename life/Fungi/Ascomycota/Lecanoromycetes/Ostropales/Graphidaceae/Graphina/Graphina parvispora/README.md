@@ -1,5 +1,4 @@
-Graphina parvispora C.W. Dodge SPECIES
-=======
+# Graphina parvispora C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

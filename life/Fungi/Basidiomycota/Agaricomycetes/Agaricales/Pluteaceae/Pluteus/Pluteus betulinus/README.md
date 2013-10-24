@@ -1,5 +1,4 @@
-Pluteus betulinus (Velen.) Noordel. SPECIES
-=======
+# Pluteus betulinus (Velen.) Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus immersus Velen. SPECIES
-=======
+# Pleurotus immersus Velen. SPECIES
 
 #### Status
 ACCEPTED

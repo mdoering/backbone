@@ -1,5 +1,4 @@
-Geotrichum byssinum var. byssinum Cif. VARIETY
-=======
+# Geotrichum byssinum Cif. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geotrichum byssinum var. byssinum Cif.
+Geotrichum byssinum Cif.
 
 ### Remarks
 null

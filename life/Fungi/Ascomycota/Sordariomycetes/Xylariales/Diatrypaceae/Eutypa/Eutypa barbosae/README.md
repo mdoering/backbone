@@ -1,5 +1,4 @@
-Eutypa barbosae Höhn. SPECIES
-=======
+# Eutypa barbosae Höhn. SPECIES
 
 #### Status
 ACCEPTED

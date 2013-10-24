@@ -1,5 +1,4 @@
-Bensingtonia subrosea (Nakase & M. Suzuki) Nakase & Boekhout SPECIES
-=======
+# Bensingtonia subrosea (Nakase & M. Suzuki) Nakase & Boekhout SPECIES
 
 #### Status
 ACCEPTED

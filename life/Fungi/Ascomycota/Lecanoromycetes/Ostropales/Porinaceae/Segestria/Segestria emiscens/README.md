@@ -1,5 +1,4 @@
-Segestria emiscens (Nyl.) Hellb. SPECIES
-=======
+# Segestria emiscens (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

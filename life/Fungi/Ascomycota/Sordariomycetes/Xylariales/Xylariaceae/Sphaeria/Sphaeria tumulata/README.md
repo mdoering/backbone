@@ -1,5 +1,4 @@
-Sphaeria tumulata Cooke SPECIES
-=======
+# Sphaeria tumulata Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea gilvorufella Nyl. SPECIES
-=======
+# Lecidea gilvorufella Nyl. SPECIES
 
 #### Status
 ACCEPTED

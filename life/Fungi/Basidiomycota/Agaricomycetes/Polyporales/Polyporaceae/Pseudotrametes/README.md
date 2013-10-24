@@ -1,5 +1,4 @@
-Pseudotrametes GENUS
-=======
+# Pseudotrametes GENUS
 
 #### Status
 ACCEPTED

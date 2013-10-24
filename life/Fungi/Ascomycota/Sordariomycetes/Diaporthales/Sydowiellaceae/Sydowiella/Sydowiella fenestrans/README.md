@@ -1,14 +1,13 @@
-Gnomonia fenestrans (Duby) Sacc., 1882 SPECIES
-=======
+# Sydowiella fenestrans (Duby) Petr., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 21(1/2): 30 (1923)
 
 #### Original name
 Sphaeria fenestrans Duby, 1867

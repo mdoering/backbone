@@ -1,5 +1,4 @@
-Marasmius subruforotula Singer SPECIES
-=======
+# Marasmius subruforotula Singer SPECIES
 
 #### Status
 ACCEPTED

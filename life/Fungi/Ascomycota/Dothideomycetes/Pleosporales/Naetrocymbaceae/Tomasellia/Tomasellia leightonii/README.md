@@ -1,5 +1,4 @@
-Tomasellia leightonii A. Massal. SPECIES
-=======
+# Tomasellia leightonii A. Massal. SPECIES
 
 #### Status
 ACCEPTED

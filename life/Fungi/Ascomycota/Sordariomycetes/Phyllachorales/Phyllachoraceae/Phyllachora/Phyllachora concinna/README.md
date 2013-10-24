@@ -1,5 +1,4 @@
-Phyllachora concinna Syd., 1938 SPECIES
-=======
+# Phyllachora concinna Syd., 1938 SPECIES
 
 #### Status
 ACCEPTED

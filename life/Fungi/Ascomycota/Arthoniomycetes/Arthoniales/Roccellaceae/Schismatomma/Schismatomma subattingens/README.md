@@ -1,5 +1,4 @@
-Schismatomma subattingens (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma subattingens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

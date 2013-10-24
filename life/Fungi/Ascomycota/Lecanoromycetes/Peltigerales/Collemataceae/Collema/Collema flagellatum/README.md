@@ -1,5 +1,4 @@
-Collema flagellatum Degel. SPECIES
-=======
+# Collema flagellatum Degel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria junci-squarrosi Gonz. Frag. SPECIES
-=======
+# Septoria junci-squarrosi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

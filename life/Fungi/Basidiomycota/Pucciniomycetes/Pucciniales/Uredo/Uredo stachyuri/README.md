@@ -1,5 +1,4 @@
-Uredo stachyuri Dietel SPECIES
-=======
+# Uredo stachyuri Dietel SPECIES
 
 #### Status
 ACCEPTED

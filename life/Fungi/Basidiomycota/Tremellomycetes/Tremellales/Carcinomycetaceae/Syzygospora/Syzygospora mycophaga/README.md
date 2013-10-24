@@ -1,14 +1,13 @@
-Christiansenia mycophaga (M.P. Christ.) Boidin, 1970 SPECIES
-=======
+# Syzygospora mycophaga (M.P. Christ.) Hauerslev, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. mens. Soc. linn. Lyon 39(4): 136 (1970)
+in Knudsen & Hansen, Nordic Jl Bot. 16(2): 216 (1996)
 
 #### Original name
 Ceratobasidium mycophagum M.P. Christ., 1959

@@ -1,5 +1,4 @@
-Mycoporopsis microscopica (Müll. Arg.) Riedl SPECIES
-=======
+# Mycoporopsis microscopica (Müll. Arg.) Riedl SPECIES
 
 #### Status
 ACCEPTED

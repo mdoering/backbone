@@ -1,5 +1,4 @@
-Sorokina insignis Penz. & Sacc. SPECIES
-=======
+# Sorokina insignis Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

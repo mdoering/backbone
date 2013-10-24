@@ -1,5 +1,4 @@
-Deckerella Cushman & Waters, 1928 GENUS
-=======
+# Deckerella Cushman & Waters, 1928 GENUS
 
 #### Status
 ACCEPTED

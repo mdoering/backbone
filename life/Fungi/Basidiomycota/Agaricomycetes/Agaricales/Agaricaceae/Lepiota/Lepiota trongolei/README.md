@@ -1,5 +1,4 @@
-Lepiota trongolei Garrido SPECIES
-=======
+# Lepiota trongolei Garrido SPECIES
 
 #### Status
 ACCEPTED

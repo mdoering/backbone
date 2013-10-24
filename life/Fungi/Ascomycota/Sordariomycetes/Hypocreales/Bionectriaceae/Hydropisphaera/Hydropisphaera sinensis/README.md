@@ -1,5 +1,4 @@
-Hydropisphaera sinensis W.Y. Zhuang, Rossman & Samuels SPECIES
-=======
+# Hydropisphaera sinensis W.Y. Zhuang, Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

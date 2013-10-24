@@ -1,5 +1,4 @@
-Patellaria pseudopyrra (C. Knight) SPECIES
-=======
+# Patellaria pseudopyrra (C. Knight) SPECIES
 
 #### Status
 ACCEPTED

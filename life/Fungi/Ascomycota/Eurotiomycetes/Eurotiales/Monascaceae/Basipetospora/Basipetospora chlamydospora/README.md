@@ -1,17 +1,16 @@
-Basipetospora chlamydosporis Matsush. SPECIES
-=======
+# Basipetospora chlamydospora Matsush., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. microfung. Matsush. lect. (Kobe) 13 (1975)
 
 #### Original name
-Basipetospora chlamydosporis Matsush.
+Basipetospora chlamydospora Matsush., 1975
 
 ### Remarks
 null

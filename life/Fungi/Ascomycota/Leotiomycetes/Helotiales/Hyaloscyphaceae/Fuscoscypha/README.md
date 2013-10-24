@@ -1,5 +1,4 @@
-Fuscoscypha Svrcek GENUS
-=======
+# Fuscoscypha Svrcek GENUS
 
 #### Status
 ACCEPTED

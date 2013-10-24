@@ -1,5 +1,4 @@
-Bleptosporium pleurochaetum (Speg.) B. Sutton SPECIES
-=======
+# Bleptosporium pleurochaetum (Speg.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

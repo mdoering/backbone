@@ -1,5 +1,4 @@
-Pseudoamphileptus macrostoma (Chen, 1955) Foissner, 1983 SPECIES
-=======
+# Pseudoamphileptus macrostoma (Chen, 1955) Foissner, 1983 SPECIES
 
 #### Status
 ACCEPTED

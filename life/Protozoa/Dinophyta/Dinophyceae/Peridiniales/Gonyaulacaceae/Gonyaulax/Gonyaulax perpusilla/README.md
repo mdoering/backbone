@@ -1,5 +1,4 @@
-Gonyaulax perpusilla (Meunier, 1910) Kofoid, 1911 SPECIES
-=======
+# Gonyaulax perpusilla (Meunier, 1910) Kofoid, 1911 SPECIES
 
 #### Status
 ACCEPTED

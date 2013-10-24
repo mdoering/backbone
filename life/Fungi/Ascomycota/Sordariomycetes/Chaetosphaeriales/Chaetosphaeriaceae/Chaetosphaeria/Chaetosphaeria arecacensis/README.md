@@ -1,5 +1,4 @@
-Chaetosphaeria arecacensis K.D. Hyde, Goh, Joanne E. Taylor & J. Fröhl. SPECIES
-=======
+# Chaetosphaeria arecacensis K.D. Hyde, Goh, Joanne E. Taylor & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

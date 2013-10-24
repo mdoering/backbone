@@ -1,17 +1,16 @@
-Entoloma nidorosum var. nidorosum VARIETY
-=======
+# Entoloma politum (Pers.) Donk, 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Zerov & Peresipkin, Viznachnik Ukraini <b>5</b> Basidiomycetes 103 (1979)
 
 #### Original name
-null
+Agaricus politus Pers., 1801
 
 ### Remarks
 null

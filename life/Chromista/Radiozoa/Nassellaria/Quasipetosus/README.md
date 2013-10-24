@@ -1,5 +1,4 @@
-Quasipetosus GENUS
-=======
+# Quasipetosus GENUS
 
 #### Status
 ACCEPTED

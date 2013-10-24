@@ -1,5 +1,4 @@
-Mycena occulta Harmaja SPECIES
-=======
+# Mycena occulta Harmaja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tornabenia Benth. & Hook.f. GENUS
-=======
+# Tornabenia Benth. & Hook.f. GENUS
 
 #### Status
 ACCEPTED

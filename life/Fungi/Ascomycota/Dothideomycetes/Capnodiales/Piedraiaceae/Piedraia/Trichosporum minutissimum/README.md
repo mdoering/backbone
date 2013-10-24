@@ -1,5 +1,4 @@
-Trichosporum minutissimum Dusrey {?} SPECIES
-=======
+# Trichosporum minutissimum Dusrey {?} SPECIES
 
 #### Status
 ACCEPTED

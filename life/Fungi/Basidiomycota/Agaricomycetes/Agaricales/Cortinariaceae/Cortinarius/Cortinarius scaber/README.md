@@ -1,5 +1,4 @@
-Cortinarius scaber Gray SPECIES
-=======
+# Cortinarius scaber Gray SPECIES
 
 #### Status
 ACCEPTED

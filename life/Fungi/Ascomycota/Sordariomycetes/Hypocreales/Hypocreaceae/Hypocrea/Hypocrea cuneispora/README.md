@@ -1,5 +1,4 @@
-Hypocrea cuneispora P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea cuneispora P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

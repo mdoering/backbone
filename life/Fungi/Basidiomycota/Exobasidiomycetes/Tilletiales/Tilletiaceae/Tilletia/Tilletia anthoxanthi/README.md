@@ -1,5 +1,4 @@
-Tilletia anthoxanthi A. Blytt, 1896 SPECIES
-=======
+# Tilletia anthoxanthi A. Blytt, 1896 SPECIES
 
 #### Status
 ACCEPTED

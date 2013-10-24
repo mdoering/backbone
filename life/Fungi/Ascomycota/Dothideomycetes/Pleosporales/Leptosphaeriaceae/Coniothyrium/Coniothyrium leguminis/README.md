@@ -1,5 +1,4 @@
-Coniothyrium leguminis Sacc. SPECIES
-=======
+# Coniothyrium leguminis Sacc. SPECIES
 
 #### Status
 ACCEPTED

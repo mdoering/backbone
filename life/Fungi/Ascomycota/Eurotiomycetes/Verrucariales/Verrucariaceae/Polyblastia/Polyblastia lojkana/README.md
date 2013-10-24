@@ -1,5 +1,4 @@
-Polyblastia lojkana Zschacke SPECIES
-=======
+# Polyblastia lojkana Zschacke SPECIES
 
 #### Status
 ACCEPTED

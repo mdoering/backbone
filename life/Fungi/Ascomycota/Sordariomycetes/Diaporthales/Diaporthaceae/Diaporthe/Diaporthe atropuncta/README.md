@@ -1,5 +1,4 @@
-Diaporthe atropuncta Peck SPECIES
-=======
+# Diaporthe atropuncta Peck SPECIES
 
 #### Status
 ACCEPTED

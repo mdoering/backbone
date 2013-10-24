@@ -1,17 +1,16 @@
-Stilbella flavescens Estey, 1977 SPECIES
-=======
+# Stilbella aciculosa (Ellis & Everh.) Seifert, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 68(1): 122 (1977)
+Stud. Mycol. 27: 44 (1985)
 
 #### Original name
-Stilbella flavescens Estey, 1977
+null
 
 ### Remarks
 null

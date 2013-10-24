@@ -1,5 +1,4 @@
-Rhabdospora applanata (Preuss) Sacc. SPECIES
-=======
+# Rhabdospora applanata (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

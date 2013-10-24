@@ -1,5 +1,4 @@
-Cryptomonas major Butcher SPECIES
-=======
+# Cryptomonas major Butcher SPECIES
 
 #### Status
 ACCEPTED

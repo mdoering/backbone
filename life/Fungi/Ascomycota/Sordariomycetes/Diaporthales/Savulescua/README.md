@@ -1,5 +1,4 @@
-Savulescua Petr. GENUS
-=======
+# Savulescua Petr. GENUS
 
 #### Status
 ACCEPTED

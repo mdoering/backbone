@@ -1,5 +1,4 @@
-Thyrococcum (Saccardo) Saccardo, 1913 GENUS
-=======
+# Thyrococcum (Saccardo) Saccardo, 1913 GENUS
 
 #### Status
 ACCEPTED

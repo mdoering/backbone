@@ -1,5 +1,4 @@
-Suna Wu, 1986 GENUS
-=======
+# Suna Wu, 1986 GENUS
 
 #### Status
 ACCEPTED

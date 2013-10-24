@@ -1,5 +1,4 @@
-Stereocaulon farinaceum H. Magn. SPECIES
-=======
+# Stereocaulon farinaceum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

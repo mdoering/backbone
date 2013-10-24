@@ -1,5 +1,4 @@
-Steccherinum albidum Legon & P. Roberts, 2002 SPECIES
-=======
+# Steccherinum albidum Legon & P. Roberts, 2002 SPECIES
 
 #### Status
 ACCEPTED

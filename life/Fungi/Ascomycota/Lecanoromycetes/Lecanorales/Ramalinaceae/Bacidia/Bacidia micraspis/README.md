@@ -1,5 +1,4 @@
-Bacidia micraspis (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia micraspis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

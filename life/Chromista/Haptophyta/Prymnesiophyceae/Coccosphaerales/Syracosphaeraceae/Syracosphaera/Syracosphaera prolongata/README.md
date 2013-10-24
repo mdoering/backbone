@@ -1,5 +1,4 @@
-Syracosphaera prolongata Gran ex Lohmann, 1913 SPECIES
-=======
+# Syracosphaera prolongata Gran ex Lohmann, 1913 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Strickera chevalieri (P. Karst.) Cooke SPECIES
-=======
+# Strickeria chevalieri (P. Karst.) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 16(no. 78): 53 (1887)
 
 #### Original name
 Teichospora chevalieri P. Karst.

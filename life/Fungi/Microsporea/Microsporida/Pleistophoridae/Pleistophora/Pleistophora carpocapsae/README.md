@@ -1,5 +1,4 @@
-Pleistophora carpocapsae SPECIES
-=======
+# Pleistophora carpocapsae SPECIES
 
 #### Status
 ACCEPTED

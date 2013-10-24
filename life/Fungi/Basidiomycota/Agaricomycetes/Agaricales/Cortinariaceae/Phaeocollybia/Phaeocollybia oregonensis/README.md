@@ -1,5 +1,4 @@
-Phaeocollybia oregonensis A.H. Sm. & Trappe SPECIES
-=======
+# Phaeocollybia oregonensis A.H. Sm. & Trappe SPECIES
 
 #### Status
 ACCEPTED

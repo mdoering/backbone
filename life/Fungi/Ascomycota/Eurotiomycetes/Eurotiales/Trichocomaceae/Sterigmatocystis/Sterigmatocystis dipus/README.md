@@ -1,5 +1,4 @@
-Sterigmatocystis dipus Ferd. & Winge SPECIES
-=======
+# Sterigmatocystis dipus Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

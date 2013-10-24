@@ -1,8 +1,7 @@
-Meliola pulcherrima Syd. & P. Syd., 1913 SPECIES
-=======
+# Meliolina pulcherrima (Syd. & P. Syd.) Syd. & P. Syd., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

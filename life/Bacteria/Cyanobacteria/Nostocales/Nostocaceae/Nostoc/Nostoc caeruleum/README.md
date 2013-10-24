@@ -1,5 +1,4 @@
-Nostoc caeruleum Lyngb. SPECIES
-=======
+# Nostoc caeruleum Lyngb. SPECIES
 
 #### Status
 ACCEPTED

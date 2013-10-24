@@ -1,17 +1,16 @@
-Exobasidium vaccinii-uliginosi var. vaccinii-uliginosi VARIETY
-=======
+# Exobasidium vaccinii-uliginosi Boud., 1894 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Boudier & Fischer, Bull. Soc. bot. Fr. 42: 244 (1894)
 
 #### Original name
-Exobasidium vaccinii-uliginosi var. vaccinii-uliginosi
+Exobasidium vaccinii-uliginosi Boud., 1894
 
 ### Remarks
 null

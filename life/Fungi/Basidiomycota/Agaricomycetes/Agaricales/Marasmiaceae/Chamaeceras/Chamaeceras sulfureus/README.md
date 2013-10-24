@@ -1,5 +1,4 @@
-Chamaeceras sulfureus (A.E. Johnson) Kuntze SPECIES
-=======
+# Chamaeceras sulfureus (A.E. Johnson) Kuntze SPECIES
 
 #### Status
 ACCEPTED

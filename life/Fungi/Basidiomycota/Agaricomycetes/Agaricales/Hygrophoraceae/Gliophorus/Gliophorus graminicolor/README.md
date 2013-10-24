@@ -1,14 +1,13 @@
-Hygrocybe graminicolor (E. Horak) T.W. May & A.E. Wood, 1995 SPECIES
-=======
+# Gliophorus graminicolor E. Horak, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 54: 148 (1995)
+Beih. Nova Hedwigia 43: 176 (1973)
 
 #### Original name
 Gliophorus graminicolor E. Horak, 1973

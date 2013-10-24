@@ -1,5 +1,4 @@
-Helicogloea pinicola (Bourdot & Galzin) G.E. Baker SPECIES
-=======
+# Helicogloea pinicola (Bourdot & Galzin) G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

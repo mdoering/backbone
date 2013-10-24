@@ -1,5 +1,4 @@
-Diplodia nigricans Sacc. SPECIES
-=======
+# Diplodia nigricans Sacc. SPECIES
 
 #### Status
 ACCEPTED

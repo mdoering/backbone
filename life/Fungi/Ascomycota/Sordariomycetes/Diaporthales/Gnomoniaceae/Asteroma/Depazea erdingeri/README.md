@@ -1,5 +1,4 @@
-Depazea erdingeri Thüm. SPECIES
-=======
+# Depazea erdingeri Thüm. SPECIES
 
 #### Status
 ACCEPTED

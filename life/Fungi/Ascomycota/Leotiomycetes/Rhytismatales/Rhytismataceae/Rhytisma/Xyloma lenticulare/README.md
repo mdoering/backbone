@@ -1,5 +1,4 @@
-Xyloma lenticulare DC. SPECIES
-=======
+# Xyloma lenticulare DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula nebulosa SPECIES
-=======
+# Pyrenula nebulosa SPECIES
 
 #### Status
 ACCEPTED

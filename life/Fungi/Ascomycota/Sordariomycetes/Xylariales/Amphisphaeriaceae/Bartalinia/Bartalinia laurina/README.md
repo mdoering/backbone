@@ -1,5 +1,4 @@
-Bartalinia laurina (Mont.) Nag Raj SPECIES
-=======
+# Bartalinia laurina (Mont.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria acutirostrata D. Metzeltin & H. Lange-Bertalot SPECIES
-=======
+# Fragilaria acutirostrata D. Metzeltin & H. Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

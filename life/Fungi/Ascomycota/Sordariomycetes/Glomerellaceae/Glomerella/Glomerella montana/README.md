@@ -1,17 +1,16 @@
-Physalospora montana var. montana VARIETY
-=======
+# Glomerella montana (Sacc.) Arx & E. Müll., 1954 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 7): 378 (1881)
+Beitr. Kryptfl. Schweiz 11(no. 1): 196 (1954)
 
 #### Original name
-Physalospora montana var. montana
+Physalospora montana Sacc., 1881
 
 ### Remarks
 null

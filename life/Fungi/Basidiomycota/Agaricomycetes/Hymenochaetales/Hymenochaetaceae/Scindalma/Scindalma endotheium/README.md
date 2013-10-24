@@ -1,5 +1,4 @@
-Scindalma endotheium (Berk.) Kuntze SPECIES
-=======
+# Scindalma endotheium (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

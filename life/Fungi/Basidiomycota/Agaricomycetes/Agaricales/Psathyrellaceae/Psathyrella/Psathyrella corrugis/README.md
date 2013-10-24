@@ -1,17 +1,16 @@
-Psathyrella corrugis var. corrugis (Pers.) Konrad & Maubl. VARIETY
-=======
+# Psathyrella corrugis (Pers.) Konrad & Maubl., 1949 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Encyclop. Mycol. 14: 123 (1949)
 
 #### Original name
-Psathyrella corrugis var. corrugis (Pers.) Konrad & Maubl.
+Agaricus corrugis Pers., 1794
 
 ### Remarks
 null

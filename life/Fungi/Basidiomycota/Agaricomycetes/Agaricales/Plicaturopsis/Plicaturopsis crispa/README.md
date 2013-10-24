@@ -1,17 +1,16 @@
-Trogia crispa var. crispa VARIETY
-=======
+# Plicaturopsis crispa (Pers.) D.A. Reid, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 3(1): 150 (1964)
 
 #### Original name
-null
+Cantharellus crispus Pers., 1794
 
 ### Remarks
 null

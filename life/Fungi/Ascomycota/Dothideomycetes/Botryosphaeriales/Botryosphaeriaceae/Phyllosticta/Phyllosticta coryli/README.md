@@ -1,5 +1,4 @@
-Phyllosticta coryli Westend., 1872 SPECIES
-=======
+# Phyllosticta coryli Westend., 1872 SPECIES
 
 #### Status
 ACCEPTED

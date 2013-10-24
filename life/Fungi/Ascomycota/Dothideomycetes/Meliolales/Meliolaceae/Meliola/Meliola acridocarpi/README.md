@@ -1,5 +1,4 @@
-Meliola acridocarpi Doidge SPECIES
-=======
+# Meliola acridocarpi Doidge SPECIES
 
 #### Status
 ACCEPTED

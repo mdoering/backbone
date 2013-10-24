@@ -1,5 +1,4 @@
-Striadiporites taiwanensis T.C. Huang SPECIES
-=======
+# Striadiporites taiwanensis T.C. Huang SPECIES
 
 #### Status
 ACCEPTED

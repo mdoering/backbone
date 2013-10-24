@@ -1,5 +1,4 @@
-Linospora pulchella Speg. SPECIES
-=======
+# Linospora pulchella Speg. SPECIES
 
 #### Status
 ACCEPTED

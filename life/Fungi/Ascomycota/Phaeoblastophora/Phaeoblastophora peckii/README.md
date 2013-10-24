@@ -1,14 +1,13 @@
-Torula peckii Sacc. & P. Syd., 1899 SPECIES
-=======
+# Phaeoblastophora peckii (Sacc. & P. Syd.) Partr. & Morgan-Jones, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. 14: 1070 (1899)
+Mycotaxon 83: 342 (2002)
 
 #### Original name
 Torula peckii Sacc. & P. Syd., 1899

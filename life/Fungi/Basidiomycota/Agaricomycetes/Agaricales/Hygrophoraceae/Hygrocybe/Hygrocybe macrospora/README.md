@@ -1,5 +1,4 @@
-Hygrocybe macrospora (S. Ito & S. Imai) S. Ito SPECIES
-=======
+# Hygrocybe macrospora (S. Ito & S. Imai) S. Ito SPECIES
 
 #### Status
 ACCEPTED

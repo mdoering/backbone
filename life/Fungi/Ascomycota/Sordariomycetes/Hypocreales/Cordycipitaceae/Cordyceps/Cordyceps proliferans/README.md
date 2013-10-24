@@ -1,5 +1,4 @@
-Cordyceps proliferans Henn. SPECIES
-=======
+# Cordyceps proliferans Henn. SPECIES
 
 #### Status
 ACCEPTED

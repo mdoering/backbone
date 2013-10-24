@@ -1,5 +1,4 @@
-Uromyces anotidis-monospermatis T.S. Ramakr. & Sundaram SPECIES
-=======
+# Uromyces anotidis-monospermatis T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

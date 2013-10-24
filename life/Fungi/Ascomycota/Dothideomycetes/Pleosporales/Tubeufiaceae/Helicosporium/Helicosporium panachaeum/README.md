@@ -1,17 +1,16 @@
-Helicosporium panacheum R.T. Moore SPECIES
-=======
+# Helicosporium panachaeum R.T. Moore SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 46(1): 92 (1954)
 
 #### Original name
-Helicosporium panacheum R.T. Moore
+Helicosporium panachaeum R.T. Moore
 
 ### Remarks
 null

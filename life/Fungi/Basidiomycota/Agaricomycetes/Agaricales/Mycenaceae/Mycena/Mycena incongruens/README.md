@@ -1,5 +1,4 @@
-Mycena incongruens (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Mycena incongruens (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

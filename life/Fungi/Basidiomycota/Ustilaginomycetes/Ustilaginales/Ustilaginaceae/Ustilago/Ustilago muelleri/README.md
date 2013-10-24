@@ -1,5 +1,4 @@
-Ustilago muelleri Bref. SPECIES
-=======
+# Ustilago muelleri Bref. SPECIES
 
 #### Status
 ACCEPTED

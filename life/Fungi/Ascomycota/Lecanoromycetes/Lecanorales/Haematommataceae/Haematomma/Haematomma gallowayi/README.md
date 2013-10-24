@@ -1,5 +1,4 @@
-Haematomma gallowayi Brodo SPECIES
-=======
+# Haematomma gallowayi Brodo SPECIES
 
 #### Status
 ACCEPTED

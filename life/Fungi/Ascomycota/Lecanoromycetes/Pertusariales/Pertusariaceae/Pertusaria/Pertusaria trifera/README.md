@@ -1,5 +1,4 @@
-Pertusaria trifera Nyl. SPECIES
-=======
+# Pertusaria trifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

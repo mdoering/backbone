@@ -1,5 +1,4 @@
-Kobayasia nipponica (Kobayasi) S. Imai & A. Kawam., 1958 SPECIES
-=======
+# Kobayasia nipponica (Kobayasi) S. Imai & A. Kawam., 1958 SPECIES
 
 #### Status
 ACCEPTED

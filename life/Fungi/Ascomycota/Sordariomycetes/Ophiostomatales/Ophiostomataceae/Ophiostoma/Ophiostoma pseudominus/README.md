@@ -1,5 +1,4 @@
-Ophiostoma pseudominus (Olchow. & J. Reid) Georg Hausner, J. Reid & Klassen SPECIES
-=======
+# Ophiostoma pseudominus (Olchow. & J. Reid) Georg Hausner, J. Reid & Klassen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balladyna paradoxa (Petr.) Arx SPECIES
-=======
+# Balladyna paradoxa (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

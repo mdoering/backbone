@@ -1,5 +1,4 @@
-Deutschlandia Lohmann, 1912 GENUS
-=======
+# Deutschlandia Lohmann, 1912 GENUS
 
 #### Status
 ACCEPTED

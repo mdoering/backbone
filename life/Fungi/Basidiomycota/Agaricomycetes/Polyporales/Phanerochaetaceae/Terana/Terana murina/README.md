@@ -1,5 +1,4 @@
-Terana murina (Berk. & Broome) Kuntze SPECIES
-=======
+# Terana murina (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

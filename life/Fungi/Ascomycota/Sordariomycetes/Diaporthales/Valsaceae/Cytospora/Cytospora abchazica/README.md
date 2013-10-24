@@ -1,5 +1,4 @@
-Cytospora abchazica Siemaszko SPECIES
-=======
+# Cytospora abchazica Siemaszko SPECIES
 
 #### Status
 ACCEPTED

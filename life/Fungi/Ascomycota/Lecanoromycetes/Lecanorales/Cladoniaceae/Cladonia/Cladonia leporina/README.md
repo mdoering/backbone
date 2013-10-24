@@ -1,17 +1,16 @@
-Cladonia leporina f. leporina FORM
-=======
+# Cladonia leporina Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Lich. eur. reform. (Lund) 243 (1831)
 
 #### Original name
-Cladonia leporina f. leporina
+Cladonia leporina Fr.
 
 ### Remarks
 null

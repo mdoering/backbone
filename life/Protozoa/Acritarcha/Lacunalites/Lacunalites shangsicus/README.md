@@ -1,5 +1,4 @@
-Lacunalites shangsicus He Chengquan, 1984 SPECIES
-=======
+# Lacunalites shangsicus He Chengquan, 1984 SPECIES
 
 #### Status
 ACCEPTED

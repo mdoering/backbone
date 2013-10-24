@@ -1,5 +1,4 @@
-Hyperammina vagans SPECIES
-=======
+# Hyperammina vagans SPECIES
 
 #### Status
 ACCEPTED

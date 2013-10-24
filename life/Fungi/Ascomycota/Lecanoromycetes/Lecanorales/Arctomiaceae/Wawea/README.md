@@ -1,5 +1,4 @@
-Wawea Henssen & Kantvilas GENUS
-=======
+# Wawea Henssen & Kantvilas GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Radulum bicolor Rick SPECIES
-=======
+# Radulum bicolor Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psammophaga simplora Arnold, 1982 SPECIES
-=======
+# Psammophaga simplora Arnold, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratocystis aequivaginata Olchow. & J. Reid SPECIES
-=======
+# Ceratocystis aequivaginata Olchow. & J. Reid SPECIES
 
 #### Status
 ACCEPTED

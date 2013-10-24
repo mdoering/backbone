@@ -1,5 +1,4 @@
-Xylella fastidiosa Wells et al., 1987 SPECIES
-=======
+# Xylella fastidiosa Wells et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

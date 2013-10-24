@@ -1,5 +1,4 @@
-Polyporus schmidtii Rostr. SPECIES
-=======
+# Polyporus schmidtii Rostr. SPECIES
 
 #### Status
 ACCEPTED

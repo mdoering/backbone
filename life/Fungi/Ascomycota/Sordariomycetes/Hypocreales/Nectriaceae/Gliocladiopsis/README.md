@@ -1,5 +1,4 @@
-Gliocladiopsis GENUS
-=======
+# Gliocladiopsis GENUS
 
 #### Status
 ACCEPTED

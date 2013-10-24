@@ -1,5 +1,4 @@
-Lecanora semitensis (Tuck.) Zahlbr. SPECIES
-=======
+# Lecanora semitensis (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

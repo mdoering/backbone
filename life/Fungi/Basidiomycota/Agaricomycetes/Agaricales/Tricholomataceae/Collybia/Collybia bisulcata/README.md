@@ -1,5 +1,4 @@
-Collybia bisulcata Pat. & Gaillard SPECIES
-=======
+# Collybia bisulcata Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

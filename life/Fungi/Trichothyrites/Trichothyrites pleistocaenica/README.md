@@ -1,5 +1,4 @@
-Trichothyrites pleistocaenica Rosend. SPECIES
-=======
+# Trichothyrites pleistocaenica Rosend. SPECIES
 
 #### Status
 ACCEPTED

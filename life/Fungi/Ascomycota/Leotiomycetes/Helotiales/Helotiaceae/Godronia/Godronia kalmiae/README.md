@@ -1,5 +1,4 @@
-Godronia kalmiae (Rehm) Seaver SPECIES
-=======
+# Godronia kalmiae (Rehm) Seaver SPECIES
 
 #### Status
 ACCEPTED

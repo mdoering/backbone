@@ -1,5 +1,4 @@
-Epistylis virgaria SPECIES
-=======
+# Epistylis virgaria SPECIES
 
 #### Status
 ACCEPTED

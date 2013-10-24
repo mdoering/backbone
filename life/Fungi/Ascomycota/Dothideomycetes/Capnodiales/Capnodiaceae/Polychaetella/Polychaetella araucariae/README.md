@@ -1,5 +1,4 @@
-Polychaetella araucariae (Thüm.) Speg. SPECIES
-=======
+# Polychaetella araucariae (Thüm.) Speg. SPECIES
 
 #### Status
 ACCEPTED

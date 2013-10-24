@@ -1,5 +1,4 @@
-Phaeoschizochlamys mucosa Lemmermann SPECIES
-=======
+# Phaeoschizochlamys mucosa Lemmermann SPECIES
 
 #### Status
 ACCEPTED

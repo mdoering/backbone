@@ -1,5 +1,4 @@
-Paratontonia mononucleata Alekperov, Buskey & Snegovaya, 2007 SPECIES
-=======
+# Paratontonia mononucleata Alekperov, Buskey & Snegovaya, 2007 SPECIES
 
 #### Status
 ACCEPTED

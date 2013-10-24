@@ -1,17 +1,16 @@
-Lagerheimina Kuntze GENUS
-=======
+# Diploschistes Norman GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 478 (1891)
+Nytt Mag. Natur. 7: 232 (1853)
 
 #### Original name
-Lagerheimina Kuntze
+Diploschistes Norman
 
 ### Remarks
 null

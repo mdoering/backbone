@@ -1,5 +1,4 @@
-Corticium cinnamomeum Fuckel SPECIES
-=======
+# Corticium cinnamomeum Fuckel SPECIES
 
 #### Status
 ACCEPTED

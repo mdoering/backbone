@@ -1,5 +1,4 @@
-Spermatodium sprucei (Bab.) Trevis. SPECIES
-=======
+# Spermatodium sprucei (Bab.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

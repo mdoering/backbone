@@ -1,5 +1,4 @@
-Heterosporis Schubert GENUS
-=======
+# Heterosporis Schubert GENUS
 
 #### Status
 ACCEPTED

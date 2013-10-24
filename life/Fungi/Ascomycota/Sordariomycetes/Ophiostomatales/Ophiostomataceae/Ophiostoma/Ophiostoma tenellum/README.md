@@ -1,14 +1,13 @@
-Ceratocystis tenella R.W. Davidson, 1959 SPECIES
-=======
+# Ophiostoma tenellum (R.W. Davidson) M. Villarreal, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 50(5): 666 (1958)
+Mycotaxon 92: 263 (2005)
 
 #### Original name
 Ceratocystis tenella R.W. Davidson, 1959

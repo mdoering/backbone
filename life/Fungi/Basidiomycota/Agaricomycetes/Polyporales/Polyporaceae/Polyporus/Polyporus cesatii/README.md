@@ -1,5 +1,4 @@
-Polyporus cesatii (Berk.) Lloyd SPECIES
-=======
+# Polyporus cesatii (Berk.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

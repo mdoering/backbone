@@ -1,5 +1,4 @@
-Tremella alabastrina Bref. SPECIES
-=======
+# Tremella alabastrina Bref. SPECIES
 
 #### Status
 ACCEPTED

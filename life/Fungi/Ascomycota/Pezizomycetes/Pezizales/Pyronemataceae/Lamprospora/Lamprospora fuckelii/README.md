@@ -1,5 +1,4 @@
-Lamprospora fuckelii (Rehm) SPECIES
-=======
+# Lamprospora fuckelii (Rehm) SPECIES
 
 #### Status
 ACCEPTED

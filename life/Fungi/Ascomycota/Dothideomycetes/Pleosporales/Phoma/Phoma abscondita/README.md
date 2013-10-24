@@ -1,5 +1,4 @@
-Phoma abscondita var. abscondita VARIETY
-=======
+# Phoma abscondita Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma abscondita var. abscondita
+Phoma abscondita Pass.
 
 ### Remarks
 null

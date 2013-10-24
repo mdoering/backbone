@@ -1,5 +1,4 @@
-Biatora cyphalea Tuck. SPECIES
-=======
+# Biatora cyphalea Tuck. SPECIES
 
 #### Status
 ACCEPTED

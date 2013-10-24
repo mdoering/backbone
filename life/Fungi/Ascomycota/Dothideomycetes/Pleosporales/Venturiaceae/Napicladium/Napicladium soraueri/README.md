@@ -1,17 +1,16 @@
-Napicladium saraureri Thüm. SPECIES
-=======
+# Napicladium soraueri Thüm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotheca universalis 14(1): 4 (1875)
 
 #### Original name
-Napicladium saraureri Thüm.
+Napicladium soraueri Thüm.
 
 ### Remarks
 null

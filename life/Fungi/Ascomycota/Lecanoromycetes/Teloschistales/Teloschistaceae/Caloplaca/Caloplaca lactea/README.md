@@ -1,14 +1,13 @@
-Gyalolechia lactea f. lactea FORM
-=======
+# Caloplaca lactea (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Öst. bot. Z. 51: 347 (1901)
 
 #### Original name
 Callopisma luteoalbum var. lacteum A. Massal.

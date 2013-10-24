@@ -1,5 +1,4 @@
-Entyloma hemisphaericum Speg. SPECIES
-=======
+# Entyloma hemisphaericum Speg. SPECIES
 
 #### Status
 ACCEPTED

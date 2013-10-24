@@ -1,5 +1,4 @@
-Flammula bresadolae Schulzer SPECIES
-=======
+# Flammula bresadolae Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta cheiranthi Bres., 1900 SPECIES
-=======
+# Ascochyta cheiranthi Bres., 1900 SPECIES
 
 #### Status
 ACCEPTED

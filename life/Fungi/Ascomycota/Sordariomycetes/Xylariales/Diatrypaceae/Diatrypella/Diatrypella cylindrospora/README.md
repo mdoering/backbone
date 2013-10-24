@@ -1,5 +1,4 @@
-Diatrypella cylindrospora Vouaux SPECIES
-=======
+# Diatrypella cylindrospora Vouaux SPECIES
 
 #### Status
 ACCEPTED

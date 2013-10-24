@@ -1,5 +1,4 @@
-Hyaloscypha lignatilis Velen. SPECIES
-=======
+# Hyaloscypha lignatilis Velen. SPECIES
 
 #### Status
 ACCEPTED

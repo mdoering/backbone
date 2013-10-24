@@ -1,5 +1,4 @@
-Asterinella ixorae R.W. Ryan SPECIES
-=======
+# Asterinella ixorae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

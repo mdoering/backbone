@@ -1,5 +1,4 @@
-Discostroma rhododendri M.E. Barr SPECIES
-=======
+# Discostroma rhododendri M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

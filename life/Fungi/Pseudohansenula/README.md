@@ -1,5 +1,4 @@
-Pseudohansenula E.K. Novák & Zsolt, 1961 GENUS
-=======
+# Pseudohansenula E.K. Novák & Zsolt, 1961 GENUS
 
 #### Status
 ACCEPTED

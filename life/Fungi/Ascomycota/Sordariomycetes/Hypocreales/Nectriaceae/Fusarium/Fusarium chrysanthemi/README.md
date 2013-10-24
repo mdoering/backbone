@@ -1,5 +1,4 @@
-Fusarium chrysanthemi anon. SPECIES
-=======
+# Fusarium chrysanthemi anon. SPECIES
 
 #### Status
 ACCEPTED

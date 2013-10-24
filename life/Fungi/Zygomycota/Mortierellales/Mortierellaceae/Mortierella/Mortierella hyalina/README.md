@@ -1,5 +1,4 @@
-Mortierella hyalina var. hyalina (Harz) W. Gams, 1970 VARIETY
-=======
+# Mortierella hyalina (Harz) W. Gams, 1969 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams & Domsch, Nova Hedwigia 18: 13 (1970)
+null
 
 #### Original name
-Mortierella hyalina var. hyalina (Harz) W. Gams, 1970
+null
 
 ### Remarks
 null

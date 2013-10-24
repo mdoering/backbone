@@ -1,5 +1,4 @@
-Pucciniostele sydowii Liou & Y.C. Wang, 1936 SPECIES
-=======
+# Pucciniostele sydowii Liou & Y.C. Wang, 1936 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratomyces platensis (Speg.) Thaxt. SPECIES
-=======
+# Ceratomyces platensis (Speg.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

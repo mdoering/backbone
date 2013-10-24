@@ -1,5 +1,4 @@
-Antennella GENUS
-=======
+# Antennella GENUS
 
 #### Status
 ACCEPTED

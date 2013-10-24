@@ -1,5 +1,4 @@
-Ascochyta sasae Hara SPECIES
-=======
+# Ascochyta sasae Hara SPECIES
 
 #### Status
 ACCEPTED

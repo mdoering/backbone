@@ -1,5 +1,4 @@
-Sphaeria petasitis Fuckel SPECIES
-=======
+# Sphaeria petasitis Fuckel SPECIES
 
 #### Status
 ACCEPTED

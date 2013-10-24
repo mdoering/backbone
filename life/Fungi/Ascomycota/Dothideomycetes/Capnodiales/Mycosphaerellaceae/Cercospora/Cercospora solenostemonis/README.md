@@ -1,17 +1,16 @@
-Cercospora solenostemi J.M. Yen & Gilles SPECIES
-=======
+# Cercospora solenostemonis J.M. Yen & Gilles SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cahiers de La Maboké 8(2): 85 (1970)
 
 #### Original name
-Cercospora solenostemi J.M. Yen & Gilles
+Cercospora solenostemonis J.M. Yen & Gilles
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phragmothyriella muroiana I. Hino & Katum. SPECIES
-=======
+# Phragmothyriella muroiana I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

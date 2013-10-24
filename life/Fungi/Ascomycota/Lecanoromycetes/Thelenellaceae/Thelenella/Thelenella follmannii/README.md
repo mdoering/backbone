@@ -1,5 +1,4 @@
-Thelenella follmannii Kalb SPECIES
-=======
+# Thelenella follmannii Kalb SPECIES
 
 #### Status
 ACCEPTED

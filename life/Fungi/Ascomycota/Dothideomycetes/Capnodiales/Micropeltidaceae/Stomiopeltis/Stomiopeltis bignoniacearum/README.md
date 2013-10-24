@@ -1,5 +1,4 @@
-Stomiopeltis bignoniacearum Bat. & Cavalc. SPECIES
-=======
+# Stomiopeltis bignoniacearum Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

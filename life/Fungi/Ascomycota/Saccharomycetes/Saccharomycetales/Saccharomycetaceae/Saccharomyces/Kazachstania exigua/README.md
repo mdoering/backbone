@@ -1,17 +1,16 @@
-Torula holmii A. Jörg., 1909 SPECIES
-=======
+# Kazachstania exigua (Reess ex E.C. Hansen) Kurtzman, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 4(3): 238 (2003)
 
 #### Original name
-null
+Saccharomyces exiguus Reess ex E.C. Hansen, 1888
 
 ### Remarks
 null

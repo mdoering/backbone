@@ -1,5 +1,4 @@
-Fimetaria pilosa R. Stratton SPECIES
-=======
+# Fimetaria pilosa R. Stratton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibbera caffra Sivan. SPECIES
-=======
+# Gibbera caffra Sivan. SPECIES
 
 #### Status
 ACCEPTED

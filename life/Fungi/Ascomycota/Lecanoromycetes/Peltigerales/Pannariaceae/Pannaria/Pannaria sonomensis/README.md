@@ -1,5 +1,4 @@
-Pannaria sonomensis Tuck. SPECIES
-=======
+# Pannaria sonomensis Tuck. SPECIES
 
 #### Status
 ACCEPTED

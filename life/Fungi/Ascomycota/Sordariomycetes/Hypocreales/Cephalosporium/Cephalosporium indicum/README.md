@@ -1,5 +1,4 @@
-Cephalosporium indicum Petch SPECIES
-=======
+# Cephalosporium indicum Petch SPECIES
 
 #### Status
 ACCEPTED

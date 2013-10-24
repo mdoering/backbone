@@ -1,5 +1,4 @@
-Amanita grallipes Bas & de Meijer SPECIES
-=======
+# Amanita grallipes Bas & de Meijer SPECIES
 
 #### Status
 ACCEPTED

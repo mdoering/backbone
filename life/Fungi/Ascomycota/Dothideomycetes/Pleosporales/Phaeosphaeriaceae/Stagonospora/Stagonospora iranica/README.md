@@ -1,5 +1,4 @@
-Stagonospora iranica Petr. & Esfand. SPECIES
-=======
+# Stagonospora iranica Petr. & Esfand. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Acaulopage ischnospora var. ischnospora Drechsler, 1947 VARIETY
-=======
+# Acaulopage ischnospora Drechsler, 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycologia 39(3): 268 (1947)
 
 #### Original name
-Acaulopage ischnospora var. ischnospora Drechsler, 1947
+Acaulopage ischnospora Drechsler, 1947
 
 ### Remarks
 null

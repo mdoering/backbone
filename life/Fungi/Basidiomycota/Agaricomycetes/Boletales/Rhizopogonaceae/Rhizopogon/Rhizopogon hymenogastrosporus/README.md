@@ -1,5 +1,4 @@
-Rhizopogon hymenogastrosporus Soehner SPECIES
-=======
+# Rhizopogon hymenogastrosporus Soehner SPECIES
 
 #### Status
 ACCEPTED

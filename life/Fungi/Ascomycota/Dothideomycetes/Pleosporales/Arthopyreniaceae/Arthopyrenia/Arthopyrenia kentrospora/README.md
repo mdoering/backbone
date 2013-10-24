@@ -1,5 +1,4 @@
-Arthopyrenia kentrospora Branth SPECIES
-=======
+# Arthopyrenia kentrospora Branth SPECIES
 
 #### Status
 ACCEPTED

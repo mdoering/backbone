@@ -1,5 +1,4 @@
-Phoma regina Fairm. SPECIES
-=======
+# Phoma regina Fairm. SPECIES
 
 #### Status
 ACCEPTED

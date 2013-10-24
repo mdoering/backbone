@@ -1,5 +1,4 @@
-Sporophaga cyanea (Ces.) Harkn. SPECIES
-=======
+# Sporophaga cyanea (Ces.) Harkn. SPECIES
 
 #### Status
 ACCEPTED

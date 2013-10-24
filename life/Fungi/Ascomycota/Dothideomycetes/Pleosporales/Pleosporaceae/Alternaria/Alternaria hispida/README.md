@@ -1,5 +1,4 @@
-Alternaria hispida (Harz) Sacc. SPECIES
-=======
+# Alternaria hispida (Harz) Sacc. SPECIES
 
 #### Status
 ACCEPTED

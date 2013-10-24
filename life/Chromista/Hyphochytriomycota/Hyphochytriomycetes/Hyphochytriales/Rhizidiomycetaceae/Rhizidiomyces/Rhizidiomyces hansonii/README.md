@@ -1,5 +1,4 @@
-Rhizidiomyces hansonii Karling, 1944 SPECIES
-=======
+# Rhizidiomyces hansonii Karling, 1944 SPECIES
 
 #### Status
 ACCEPTED

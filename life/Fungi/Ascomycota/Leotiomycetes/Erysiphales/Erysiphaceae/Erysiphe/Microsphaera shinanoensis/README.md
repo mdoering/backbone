@@ -1,5 +1,4 @@
-Microsphaera shinanoensis Tanada SPECIES
-=======
+# Microsphaera shinanoensis Tanada SPECIES
 
 #### Status
 ACCEPTED

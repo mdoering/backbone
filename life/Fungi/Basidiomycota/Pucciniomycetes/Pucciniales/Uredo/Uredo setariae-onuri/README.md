@@ -1,5 +1,4 @@
-Uredo setariae-onuri Dietel SPECIES
-=======
+# Uredo setariae-onuri Dietel SPECIES
 
 #### Status
 ACCEPTED

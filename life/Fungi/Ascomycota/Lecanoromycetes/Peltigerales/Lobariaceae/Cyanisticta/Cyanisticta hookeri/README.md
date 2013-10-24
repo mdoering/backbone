@@ -1,5 +1,4 @@
-Cyanisticta hookeri (C. Bab.) Gyeln. SPECIES
-=======
+# Cyanisticta hookeri (C. Bab.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

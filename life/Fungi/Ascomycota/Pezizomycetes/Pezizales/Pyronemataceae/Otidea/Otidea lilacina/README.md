@@ -1,5 +1,4 @@
-Otidea lilacina R. Heim & L. Remy SPECIES
-=======
+# Otidea lilacina R. Heim & L. Remy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nostoc edaphicum SPECIES
-=======
+# Nostoc edaphicum SPECIES
 
 #### Status
 ACCEPTED

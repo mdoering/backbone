@@ -1,5 +1,4 @@
-Marasmius smaragdinus (Berk.) Singer SPECIES
-=======
+# Marasmius smaragdinus (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

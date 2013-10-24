@@ -1,5 +1,4 @@
-Epalxella Corliss, 1960 GENUS
-=======
+# Epalxella Corliss, 1960 GENUS
 
 #### Status
 ACCEPTED

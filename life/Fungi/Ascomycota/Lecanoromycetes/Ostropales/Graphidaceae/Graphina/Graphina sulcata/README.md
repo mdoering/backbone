@@ -1,5 +1,4 @@
-Graphina sulcata Fink SPECIES
-=======
+# Graphina sulcata Fink SPECIES
 
 #### Status
 ACCEPTED

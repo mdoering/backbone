@@ -1,5 +1,4 @@
-Didymium pertusum Berk., 1836 SPECIES
-=======
+# Didymium pertusum Berk., 1836 SPECIES
 
 #### Status
 ACCEPTED

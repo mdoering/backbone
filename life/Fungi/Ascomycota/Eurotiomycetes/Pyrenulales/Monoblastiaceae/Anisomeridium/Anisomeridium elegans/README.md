@@ -1,5 +1,4 @@
-Anisomeridium elegans R. C. Harris SPECIES
-=======
+# Anisomeridium elegans R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lotharella amoeboformis K. Ishida, N. Ishida & Y. Hara SPECIES
-=======
+# Lotharella amoeboformis K. Ishida, N. Ishida & Y. Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nigredo pedatata (Schwein.) Arthur SPECIES
-=======
+# Nigredo pedatata (Schwein.) Arthur SPECIES
 
 #### Status
 ACCEPTED

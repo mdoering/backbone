@@ -1,5 +1,4 @@
-Pistillaria rhodocionidies Corner SPECIES
-=======
+# Pistillaria rhodocionidies Corner SPECIES
 
 #### Status
 ACCEPTED

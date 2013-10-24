@@ -1,14 +1,13 @@
-Nidularia candida Peck, 1893 SPECIES
-=======
+# Nidula candida (Peck) V.S. White, 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. 45: 84 (1893)
+Bull. Torrey bot. Club 29: 271 (1902)
 
 #### Original name
 Nidularia candida Peck, 1893

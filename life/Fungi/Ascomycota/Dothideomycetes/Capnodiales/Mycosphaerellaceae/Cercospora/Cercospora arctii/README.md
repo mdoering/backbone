@@ -1,5 +1,4 @@
-Cercospora arctii F. Stevens SPECIES
-=======
+# Cercospora arctii F. Stevens SPECIES
 
 #### Status
 ACCEPTED

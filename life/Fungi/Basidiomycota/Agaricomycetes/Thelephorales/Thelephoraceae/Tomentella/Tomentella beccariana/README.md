@@ -1,5 +1,4 @@
-Tomentella beccariana (Pass.) Rick SPECIES
-=======
+# Tomentella beccariana (Pass.) Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Asterina poliothea (Syd.) F. Stevens, 1939 SPECIES
-=======
+# Anariste poliothea Syd., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 17(2): 64 (1939)
+Annls mycol. 25(1/2): 76 (1927)
 
 #### Original name
 Anariste poliothea Syd., 1927

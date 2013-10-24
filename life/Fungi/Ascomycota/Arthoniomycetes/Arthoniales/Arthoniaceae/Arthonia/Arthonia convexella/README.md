@@ -1,5 +1,4 @@
-Arthonia convexella Nyl. SPECIES
-=======
+# Arthonia convexella Nyl. SPECIES
 
 #### Status
 ACCEPTED

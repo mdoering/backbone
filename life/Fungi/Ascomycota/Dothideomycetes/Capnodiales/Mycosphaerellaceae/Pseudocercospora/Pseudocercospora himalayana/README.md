@@ -1,5 +1,4 @@
-Pseudocercospora himalayana Budathoki & S.K. Singh SPECIES
-=======
+# Pseudocercospora himalayana Budathoki & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

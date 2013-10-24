@@ -1,5 +1,4 @@
-Cercospora imperatoriae var. imperatoriae VARIETY
-=======
+# Cercospora imperatoriae SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercospora imperatoriae var. imperatoriae
+Cercospora imperatoriae
 
 ### Remarks
 null

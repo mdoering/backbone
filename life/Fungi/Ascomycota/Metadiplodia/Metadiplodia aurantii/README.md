@@ -1,5 +1,4 @@
-Metadiplodia aurantii (Catt.) Zambett. SPECIES
-=======
+# Metadiplodia aurantii (Catt.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

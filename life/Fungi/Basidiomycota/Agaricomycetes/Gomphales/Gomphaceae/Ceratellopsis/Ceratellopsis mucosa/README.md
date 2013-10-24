@@ -1,5 +1,4 @@
-Ceratellopsis mucosa (Berk. & M.A. Curtis) Corner SPECIES
-=======
+# Ceratellopsis mucosa (Berk. & M.A. Curtis) Corner SPECIES
 
 #### Status
 ACCEPTED

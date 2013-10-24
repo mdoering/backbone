@@ -1,5 +1,4 @@
-Tubercularia paraguaya Speg. SPECIES
-=======
+# Tubercularia paraguaya Speg. SPECIES
 
 #### Status
 ACCEPTED

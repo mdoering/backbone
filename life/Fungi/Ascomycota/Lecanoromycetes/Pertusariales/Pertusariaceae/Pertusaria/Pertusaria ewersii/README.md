@@ -1,5 +1,4 @@
-Pertusaria ewersii A. W. Archer & Elix SPECIES
-=======
+# Pertusaria ewersii A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

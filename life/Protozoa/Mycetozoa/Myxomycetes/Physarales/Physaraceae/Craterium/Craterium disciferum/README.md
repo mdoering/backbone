@@ -1,5 +1,4 @@
-Craterium disciferum Hazsl. SPECIES
-=======
+# Craterium disciferum Hazsl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalina subglobispora G. Moreno, Heykoop & E. Horak SPECIES
-=======
+# Omphalina subglobispora G. Moreno, Heykoop & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe glutinipes var. glutinipes (J.E. Lange) R. Haller Aar., 1956 VARIETY
-=======
+# Hygrocybe glutinipes (J.E. Lange) R. Haller SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schweiz. Z. Pilzk. 34: 179 (1956)
+null
 
 #### Original name
-Hygrocybe citrina var. glutinipes J.E. Lange, 1940
+null
 
 ### Remarks
 null

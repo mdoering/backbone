@@ -1,5 +1,4 @@
-Uromyces tripogonicola Payak & Thirum. SPECIES
-=======
+# Uromyces tripogonicola Payak & Thirum. SPECIES
 
 #### Status
 ACCEPTED

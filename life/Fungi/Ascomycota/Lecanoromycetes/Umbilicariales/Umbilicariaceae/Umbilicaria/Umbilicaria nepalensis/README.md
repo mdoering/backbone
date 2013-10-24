@@ -1,5 +1,4 @@
-Umbilicaria nepalensis Poelt SPECIES
-=======
+# Umbilicaria nepalensis Poelt SPECIES
 
 #### Status
 ACCEPTED

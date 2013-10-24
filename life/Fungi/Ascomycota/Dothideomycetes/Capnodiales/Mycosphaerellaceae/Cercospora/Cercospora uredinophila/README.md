@@ -1,5 +1,4 @@
-Cercospora uredinophila (Sacc.) Deighton, 1969 SPECIES
-=======
+# Cercospora uredinophila (Sacc.) Deighton, 1969 SPECIES
 
 #### Status
 ACCEPTED

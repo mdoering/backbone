@@ -1,8 +1,7 @@
-Dentalina inflexa (Reuss, 1866) SPECIES
-=======
+# Laevidentalina inflexa (Reuss, 1866) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

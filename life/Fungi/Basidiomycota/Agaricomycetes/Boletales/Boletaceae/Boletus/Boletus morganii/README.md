@@ -1,8 +1,7 @@
-Boletus morgani Peck SPECIES
-=======
+# Boletus morganii Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus morgani Peck
+Boletus morganii Peck
 
 ### Remarks
 null

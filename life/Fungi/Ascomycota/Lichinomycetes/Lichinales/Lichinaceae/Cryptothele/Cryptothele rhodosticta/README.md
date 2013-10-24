@@ -1,5 +1,4 @@
-Cryptothele rhodosticta (Taylor) Henssen SPECIES
-=======
+# Cryptothele rhodosticta (Taylor) Henssen SPECIES
 
 #### Status
 ACCEPTED

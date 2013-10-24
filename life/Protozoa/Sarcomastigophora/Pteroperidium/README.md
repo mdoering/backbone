@@ -1,5 +1,4 @@
-Pteroperidium Haeckel, 1881 GENUS
-=======
+# Pteroperidium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

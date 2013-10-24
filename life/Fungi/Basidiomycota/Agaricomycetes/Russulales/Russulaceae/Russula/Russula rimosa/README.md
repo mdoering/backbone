@@ -1,5 +1,4 @@
-Russula rimosa Murrill, 1945 SPECIES
-=======
+# Russula rimosa Murrill, 1945 SPECIES
 
 #### Status
 ACCEPTED

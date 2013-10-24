@@ -1,5 +1,4 @@
-Neoschubertella GENUS
-=======
+# Neoschubertella GENUS
 
 #### Status
 ACCEPTED

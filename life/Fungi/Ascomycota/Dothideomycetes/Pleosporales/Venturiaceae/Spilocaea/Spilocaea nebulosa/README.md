@@ -1,5 +1,4 @@
-Spilocaea nebulosa (Ellis & Everh.) S. Hughes & Piroz. SPECIES
-=======
+# Spilocaea nebulosa (Ellis & Everh.) S. Hughes & Piroz. SPECIES
 
 #### Status
 ACCEPTED

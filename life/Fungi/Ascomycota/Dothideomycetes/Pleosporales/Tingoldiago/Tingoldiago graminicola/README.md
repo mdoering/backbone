@@ -1,5 +1,4 @@
-Tingoldiago graminicola K. Hirayama & Kaz. Tanaka, 2010 SPECIES
-=======
+# Tingoldiago graminicola K. Hirayama & Kaz. Tanaka, 2010 SPECIES
 
 #### Status
 ACCEPTED

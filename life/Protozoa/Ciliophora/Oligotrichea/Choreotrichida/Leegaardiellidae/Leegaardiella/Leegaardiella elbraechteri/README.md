@@ -1,5 +1,4 @@
-Leegaardiella elbraechteri Petz, Song & Wilbert, 1995 SPECIES
-=======
+# Leegaardiella elbraechteri Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

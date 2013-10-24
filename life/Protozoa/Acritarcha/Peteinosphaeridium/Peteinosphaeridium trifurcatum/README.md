@@ -1,5 +1,4 @@
-Peteinosphaeridium trifurcatum (Eisenack, 1931 ex Eisenack, 1938) Eisenack, 1969 SPECIES
-=======
+# Peteinosphaeridium trifurcatum (Eisenack, 1931 ex Eisenack, 1938) Eisenack, 1969 SPECIES
 
 #### Status
 ACCEPTED

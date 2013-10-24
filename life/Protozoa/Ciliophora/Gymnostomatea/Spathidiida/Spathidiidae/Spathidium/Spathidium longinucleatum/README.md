@@ -1,5 +1,4 @@
-Spathidium longinucleatum Gelei, 1954 SPECIES
-=======
+# Spathidium longinucleatum Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

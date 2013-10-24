@@ -1,5 +1,4 @@
-Erythromonas Yurkov et al., 1997 GENUS
-=======
+# Erythromonas Yurkov et al., 1997 GENUS
 
 #### Status
 ACCEPTED

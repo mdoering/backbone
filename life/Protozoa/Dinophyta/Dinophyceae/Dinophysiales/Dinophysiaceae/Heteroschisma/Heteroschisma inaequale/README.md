@@ -1,5 +1,4 @@
-Heteroschisma inaequale Kofoid & Skogsberg SPECIES
-=======
+# Heteroschisma inaequale Kofoid & Skogsberg SPECIES
 
 #### Status
 ACCEPTED

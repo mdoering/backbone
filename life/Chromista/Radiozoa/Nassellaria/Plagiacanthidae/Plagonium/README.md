@@ -1,5 +1,4 @@
-Plagonium Haeckel, 1881 GENUS
-=======
+# Plagonium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

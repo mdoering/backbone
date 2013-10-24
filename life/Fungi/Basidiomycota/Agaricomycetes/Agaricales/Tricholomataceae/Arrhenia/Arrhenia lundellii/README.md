@@ -1,5 +1,4 @@
-Arrhenia lundellii (Pilát) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
-=======
+# Arrhenia lundellii (Pilát) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

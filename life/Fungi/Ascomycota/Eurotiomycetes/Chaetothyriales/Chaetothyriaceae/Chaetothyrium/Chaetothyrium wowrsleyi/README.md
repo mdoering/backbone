@@ -1,5 +1,4 @@
-Chaetothyrium wowrsleyi Hansf. SPECIES
-=======
+# Chaetothyrium wowrsleyi Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius cristatosporus Reumaux SPECIES
-=======
+# Cortinarius cristatosporus Reumaux SPECIES
 
 #### Status
 ACCEPTED

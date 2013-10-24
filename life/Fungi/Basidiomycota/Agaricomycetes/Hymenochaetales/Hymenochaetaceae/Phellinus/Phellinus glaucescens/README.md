@@ -1,5 +1,4 @@
-Phellinus glaucescens var. glaucescens VARIETY
-=======
+# Phellinus glaucescens (Petch) Ryvarden SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Norw. Jl Bot. 19: 234 (1972)
 
 #### Original name
-Phellinus glaucescens var. glaucescens
+Poria glaucescens Petch
 
 ### Remarks
 null

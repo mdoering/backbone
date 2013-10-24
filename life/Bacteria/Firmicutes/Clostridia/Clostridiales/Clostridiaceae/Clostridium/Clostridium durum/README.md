@@ -1,5 +1,4 @@
-Clostridium durum Smith & Cato, 1974 SPECIES
-=======
+# Clostridium durum Smith & Cato, 1974 SPECIES
 
 #### Status
 ACCEPTED

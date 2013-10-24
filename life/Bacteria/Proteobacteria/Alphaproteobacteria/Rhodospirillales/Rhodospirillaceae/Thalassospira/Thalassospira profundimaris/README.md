@@ -1,5 +1,4 @@
-Thalassospira profundimaris Liu, Wu, Li, Ma & Shao, 2007 SPECIES
-=======
+# Thalassospira profundimaris Liu, Wu, Li, Ma & Shao, 2007 SPECIES
 
 #### Status
 ACCEPTED

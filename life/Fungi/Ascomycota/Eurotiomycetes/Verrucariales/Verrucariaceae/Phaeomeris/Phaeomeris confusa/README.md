@@ -1,5 +1,4 @@
-Phaeomeris confusa (Norman) Clem. SPECIES
-=======
+# Phaeomeris confusa (Norman) Clem. SPECIES
 
 #### Status
 ACCEPTED

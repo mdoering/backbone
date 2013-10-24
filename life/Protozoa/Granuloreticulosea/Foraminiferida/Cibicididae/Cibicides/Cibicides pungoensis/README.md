@@ -1,5 +1,4 @@
-Cibicides pungoensis SPECIES
-=======
+# Cibicides pungoensis SPECIES
 
 #### Status
 ACCEPTED

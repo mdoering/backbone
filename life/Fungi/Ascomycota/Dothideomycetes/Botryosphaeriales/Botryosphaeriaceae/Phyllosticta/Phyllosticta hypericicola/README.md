@@ -1,5 +1,4 @@
-Phyllosticta hypericicola Cejp SPECIES
-=======
+# Phyllosticta hypericicola Cejp SPECIES
 
 #### Status
 ACCEPTED

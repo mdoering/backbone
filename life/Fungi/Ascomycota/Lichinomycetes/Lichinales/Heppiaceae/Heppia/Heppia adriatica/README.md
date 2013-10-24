@@ -1,5 +1,4 @@
-Heppia adriatica Zahlbr. SPECIES
-=======
+# Heppia adriatica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Endodromia Berk. GENUS
-=======
+# Echinostelium de Bary GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. 3: 79 (1841)
+in Rostafinski, Vers. Syst. Mycetozoen (Strassburg) 7 (1873)
 
 #### Original name
-Endodromia Berk.
+Echinostelium de Bary
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bacidia nanospora C. Knight SPECIES
-=======
+# Bacidia nanospora C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylaria flagellata Kwasna & G.L. Bateman SPECIES
-=======
+# Dactylaria flagellata Kwasna & G.L. Bateman SPECIES
 
 #### Status
 ACCEPTED

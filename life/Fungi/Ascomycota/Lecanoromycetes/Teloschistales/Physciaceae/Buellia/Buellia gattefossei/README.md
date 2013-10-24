@@ -1,5 +1,4 @@
-Buellia gattefossei Werner SPECIES
-=======
+# Buellia gattefossei Werner SPECIES
 
 #### Status
 ACCEPTED

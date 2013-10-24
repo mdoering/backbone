@@ -1,5 +1,4 @@
-Diademospora ramigera B.E. Söderstr. & Bååth, 1979 SPECIES
-=======
+# Diademospora ramigera B.E. Söderstr. & Bååth, 1979 SPECIES
 
 #### Status
 ACCEPTED

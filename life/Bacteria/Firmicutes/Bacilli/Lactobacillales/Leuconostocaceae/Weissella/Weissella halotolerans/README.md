@@ -1,5 +1,4 @@
-Weissella halotolerans (Kandler et al., 1983) Collins et al., 1994 SPECIES
-=======
+# Weissella halotolerans (Kandler et al., 1983) Collins et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

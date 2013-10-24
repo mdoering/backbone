@@ -1,5 +1,4 @@
-Corethrostroma Kleb. GENUS
-=======
+# Corethrostroma Kleb. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera knautiae Velen. SPECIES
-=======
+# Galera knautiae Velen. SPECIES
 
 #### Status
 ACCEPTED

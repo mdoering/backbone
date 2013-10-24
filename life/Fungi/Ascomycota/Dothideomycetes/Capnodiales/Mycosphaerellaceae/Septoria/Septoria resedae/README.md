@@ -1,5 +1,4 @@
-Septoria resedae Garb. SPECIES
-=======
+# Septoria resedae Garb. SPECIES
 
 #### Status
 ACCEPTED

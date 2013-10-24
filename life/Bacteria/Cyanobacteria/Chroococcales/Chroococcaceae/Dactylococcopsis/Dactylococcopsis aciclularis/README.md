@@ -1,5 +1,4 @@
-Dactylococcopsis aciclularis var. grandis Frémy VARIETY
-=======
+# Dactylococcopsis aciclularis SPECIES
 
 #### Status
 ACCEPTED

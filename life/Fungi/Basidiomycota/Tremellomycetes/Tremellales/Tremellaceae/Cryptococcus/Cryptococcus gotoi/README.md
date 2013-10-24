@@ -1,5 +1,4 @@
-Cryptococcus gotoi C.W. Dodge SPECIES
-=======
+# Cryptococcus gotoi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

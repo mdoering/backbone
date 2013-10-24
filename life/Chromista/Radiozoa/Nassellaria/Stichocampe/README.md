@@ -1,5 +1,4 @@
-Stichocampe Haeckel, 1881 GENUS
-=======
+# Stichocampe Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

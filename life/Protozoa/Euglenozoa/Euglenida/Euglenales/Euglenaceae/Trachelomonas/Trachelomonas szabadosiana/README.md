@@ -1,5 +1,4 @@
-Trachelomonas szabadosiana Huber-PeStalozzi SPECIES
-=======
+# Trachelomonas szabadosiana Huber-PeStalozzi SPECIES
 
 #### Status
 ACCEPTED

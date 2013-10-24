@@ -1,5 +1,4 @@
-Dinophysis spinosa Rampi, 1950 SPECIES
-=======
+# Dinophysis spinosa Rampi, 1950 SPECIES
 
 #### Status
 ACCEPTED

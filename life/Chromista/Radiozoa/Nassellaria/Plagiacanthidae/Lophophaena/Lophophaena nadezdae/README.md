@@ -1,5 +1,4 @@
-Lophophaena nadezdae Petrushevskaya, 1971 SPECIES
-=======
+# Lophophaena nadezdae Petrushevskaya, 1971 SPECIES
 
 #### Status
 ACCEPTED

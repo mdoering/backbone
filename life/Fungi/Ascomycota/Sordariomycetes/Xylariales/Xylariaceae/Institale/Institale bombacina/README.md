@@ -1,5 +1,4 @@
-Institale bombacina Fr. SPECIES
-=======
+# Institale bombacina Fr. SPECIES
 
 #### Status
 ACCEPTED

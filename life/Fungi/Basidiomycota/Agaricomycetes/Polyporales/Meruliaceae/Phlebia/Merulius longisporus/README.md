@@ -1,5 +1,4 @@
-Merulius longisporus Kirschst. SPECIES
-=======
+# Merulius longisporus Kirschst. SPECIES
 
 #### Status
 ACCEPTED

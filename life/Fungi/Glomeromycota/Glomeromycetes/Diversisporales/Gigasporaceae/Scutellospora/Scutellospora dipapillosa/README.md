@@ -1,14 +1,13 @@
-Gigaspora dipapillosa C. Walker & Koske, 1985 SPECIES
-=======
+# Scutellospora dipapillosa (C. Walker & Koske) C. Walker & F.E. Sanders, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Koske & Walker, Mycologia 77(5): 709 (1985)
+Mycotaxon 27: 181 (1986)
 
 #### Original name
 Gigaspora dipapillosa C. Walker & Koske, 1985

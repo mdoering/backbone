@@ -1,5 +1,4 @@
-Claussenomyces salviicolor (Ellis & Everh.) Korf & J.R. Dixon SPECIES
-=======
+# Claussenomyces salviicolor (Ellis & Everh.) Korf & J.R. Dixon SPECIES
 
 #### Status
 ACCEPTED

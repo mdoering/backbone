@@ -1,5 +1,4 @@
-Anzia centrifuga Haugan SPECIES
-=======
+# Anzia centrifuga Haugan SPECIES
 
 #### Status
 ACCEPTED

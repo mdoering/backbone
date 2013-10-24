@@ -1,5 +1,4 @@
-Teratosphaeria syncarpiae (Carnegie & M.J. Wingf.) Carnegie & M.J. Wingf., 2009 SPECIES
-=======
+# Teratosphaeria syncarpiae (Carnegie & M.J. Wingf.) Carnegie & M.J. Wingf., 2009 SPECIES
 
 #### Status
 ACCEPTED

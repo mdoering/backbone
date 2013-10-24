@@ -1,5 +1,4 @@
-Methylovorus mays Doronina et al., 2001 SPECIES
-=======
+# Methylovorus mays Doronina et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

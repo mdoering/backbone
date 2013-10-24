@@ -1,5 +1,4 @@
-Hyphodontia alba Sheng H. Wu, 1990 SPECIES
-=======
+# Hyphodontia alba Sheng H. Wu, 1990 SPECIES
 
 #### Status
 ACCEPTED

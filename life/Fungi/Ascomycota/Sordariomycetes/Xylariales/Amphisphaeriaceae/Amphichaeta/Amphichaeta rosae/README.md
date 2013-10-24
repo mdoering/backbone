@@ -1,5 +1,4 @@
-Amphichaeta rosae Negru SPECIES
-=======
+# Amphichaeta rosae Negru SPECIES
 
 #### Status
 ACCEPTED

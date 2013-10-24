@@ -1,5 +1,4 @@
-Teberdinia Sogonov, W. Gams, Summerbell & Schroers, 2005 GENUS
-=======
+# Teberdinia Sogonov, W. Gams, Summerbell & Schroers, 2005 GENUS
 
 #### Status
 ACCEPTED

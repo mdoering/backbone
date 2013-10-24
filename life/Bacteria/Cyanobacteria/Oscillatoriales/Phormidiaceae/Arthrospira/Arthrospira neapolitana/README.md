@@ -1,8 +1,7 @@
-Oscillatoria neapolitana Kützing ex Gomont SPECIES
-=======
+# Arthrospira neapolitana (Kützing ex Gomont) F.E. Drouet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

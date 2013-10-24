@@ -1,5 +1,4 @@
-Bartalinia Tassi GENUS
-=======
+# Bartalinia Tassi GENUS
 
 #### Status
 ACCEPTED

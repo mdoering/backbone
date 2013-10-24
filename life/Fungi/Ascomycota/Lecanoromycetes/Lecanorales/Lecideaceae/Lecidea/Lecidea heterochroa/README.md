@@ -1,5 +1,4 @@
-Lecidea heterochroa Müll. Arg. SPECIES
-=======
+# Lecidea heterochroa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia salaciae Bat. & Peres SPECIES
-=======
+# Hendersonia salaciae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

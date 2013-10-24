@@ -1,5 +1,4 @@
-Bryomyces caudatus Döbbeler, 1978 SPECIES
-=======
+# Bryomyces caudatus Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED

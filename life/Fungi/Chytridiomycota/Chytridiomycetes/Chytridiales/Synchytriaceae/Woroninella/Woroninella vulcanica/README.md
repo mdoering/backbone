@@ -1,5 +1,4 @@
-Woroninella vulcanica Racib. SPECIES
-=======
+# Woroninella vulcanica Racib. SPECIES
 
 #### Status
 ACCEPTED

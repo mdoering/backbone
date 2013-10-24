@@ -1,14 +1,13 @@
-Caerulomonas R.W. Butcher, 1967 GENUS
-=======
+# Cryptomonas Ehrenberg, 1831 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fishery Invest. , London (Ser. 4): 47.
+Abh. Preuss. Akad. Wiss. , 1831, 56.
 
 #### Original name
 null

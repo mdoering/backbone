@@ -1,5 +1,4 @@
-Cephalosporium pallidum Verrall SPECIES
-=======
+# Cephalosporium pallidum Verrall SPECIES
 
 #### Status
 ACCEPTED

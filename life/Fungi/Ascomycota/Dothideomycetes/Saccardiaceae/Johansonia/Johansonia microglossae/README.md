@@ -1,5 +1,4 @@
-Johansonia microglossae (Hansf.) Arx, 1962 SPECIES
-=======
+# Johansonia microglossae (Hansf.) Arx, 1962 SPECIES
 
 #### Status
 ACCEPTED

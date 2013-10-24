@@ -1,5 +1,4 @@
-Clitocybe hypocalamus Overeem SPECIES
-=======
+# Clitocybe hypocalamus Overeem SPECIES
 
 #### Status
 ACCEPTED

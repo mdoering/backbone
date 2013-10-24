@@ -1,5 +1,4 @@
-Nolanea sericella (Fr.) SPECIES
-=======
+# Nolanea sericella (Fr.) SPECIES
 
 #### Status
 ACCEPTED

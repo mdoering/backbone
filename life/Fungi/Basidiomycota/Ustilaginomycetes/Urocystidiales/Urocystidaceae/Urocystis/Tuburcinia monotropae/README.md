@@ -1,5 +1,4 @@
-Tuburcinia monotropae Fr. SPECIES
-=======
+# Tuburcinia monotropae Fr. SPECIES
 
 #### Status
 ACCEPTED

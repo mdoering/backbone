@@ -1,5 +1,4 @@
-Lecania selenispora var. selenispora Müll. Arg. VARIETY
-=======
+# Lecania selenispora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Herb. Boissier 3: 634 (1895)
 
 #### Original name
-Lecania selenispora var. selenispora Müll. Arg.
+Lecania selenispora Müll. Arg.
 
 ### Remarks
 null

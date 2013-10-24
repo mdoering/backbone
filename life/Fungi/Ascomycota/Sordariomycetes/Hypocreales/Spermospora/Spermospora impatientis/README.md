@@ -1,5 +1,4 @@
-Spermospora impatientis Melnik SPECIES
-=======
+# Spermospora impatientis Melnik SPECIES
 
 #### Status
 ACCEPTED

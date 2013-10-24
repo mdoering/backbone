@@ -1,5 +1,4 @@
-Basidiobotrys pallida (Berk. & M.A. Curtis) S. Hughes SPECIES
-=======
+# Basidiobotrys pallida (Berk. & M.A. Curtis) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

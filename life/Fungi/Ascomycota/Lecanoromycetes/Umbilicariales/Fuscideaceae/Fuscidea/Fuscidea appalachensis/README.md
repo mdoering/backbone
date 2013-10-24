@@ -1,5 +1,4 @@
-Fuscidea appalachensis Fryday SPECIES
-=======
+# Fuscidea appalachensis Fryday SPECIES
 
 #### Status
 ACCEPTED

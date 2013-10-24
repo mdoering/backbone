@@ -1,5 +1,4 @@
-Strigula cavicola Cl. Roux & Bricaud SPECIES
-=======
+# Strigula cavicola Cl. Roux & Bricaud SPECIES
 
 #### Status
 ACCEPTED

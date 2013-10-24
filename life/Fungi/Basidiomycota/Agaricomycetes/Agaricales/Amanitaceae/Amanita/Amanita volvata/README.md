@@ -1,5 +1,4 @@
-Amanita volvata f. avellaneosquamosa (S. Imai) E.-J. Gilbert FORM
-=======
+# Amanita volvata (Peck) Lloyd SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Iconogr. Mycol. 27(Suppl. 1): 304 (1941)
+null
 
 #### Original name
-Amanitopsis avellaneosquamosa S. Imai
+Agaricus volvatus Peck
 
 ### Remarks
 null

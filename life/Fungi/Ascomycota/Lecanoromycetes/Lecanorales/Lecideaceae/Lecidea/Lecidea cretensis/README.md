@@ -1,5 +1,4 @@
-Lecidea cretensis (Zahlbr.) Hue SPECIES
-=======
+# Lecidea cretensis (Zahlbr.) Hue SPECIES
 
 #### Status
 ACCEPTED

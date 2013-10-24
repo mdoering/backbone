@@ -1,14 +1,13 @@
-Xerotus glaucophyllus Cooke & Massee, 1892 SPECIES
-=======
+# Anthracophyllum glaucophyllum (Cooke & Massee) Segedin, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cooke, Grevillea 20(no. 96): 120 (1892)
+N. Z. Jl Bot. 32(1): 68 (1994)
 
 #### Original name
 Xerotus glaucophyllus Cooke & Massee, 1892

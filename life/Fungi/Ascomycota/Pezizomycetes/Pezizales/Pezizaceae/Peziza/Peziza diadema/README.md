@@ -1,5 +1,4 @@
-Peziza diadema Pers. SPECIES
-=======
+# Peziza diadema Pers. SPECIES
 
 #### Status
 ACCEPTED

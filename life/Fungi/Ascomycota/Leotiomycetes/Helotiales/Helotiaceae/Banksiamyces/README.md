@@ -1,5 +1,4 @@
-Banksiamyces G.W. Beaton GENUS
-=======
+# Banksiamyces G.W. Beaton GENUS
 
 #### Status
 ACCEPTED

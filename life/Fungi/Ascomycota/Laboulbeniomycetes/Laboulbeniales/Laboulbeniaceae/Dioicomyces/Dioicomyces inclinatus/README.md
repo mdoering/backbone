@@ -1,5 +1,4 @@
-Dioicomyces inclinatus Thaxt. SPECIES
-=======
+# Dioicomyces inclinatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

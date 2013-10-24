@@ -1,5 +1,4 @@
-Paratrochilia Kahl, 1933 GENUS
-=======
+# Paratrochilia Kahl, 1933 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Placosphaeria napelli Maire & Sacc., 1902 SPECIES
-=======
+# Neoplaconema napelli (Maire & Sacc.) B. Sutton, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 31(3): 463 (1977)
 
 #### Original name
 Placosphaeria napelli Maire & Sacc., 1902

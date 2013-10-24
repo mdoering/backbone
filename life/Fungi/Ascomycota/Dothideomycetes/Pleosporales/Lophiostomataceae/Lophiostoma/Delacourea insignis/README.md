@@ -1,5 +1,4 @@
-Delacourea insignis Fabre SPECIES
-=======
+# Delacourea insignis Fabre SPECIES
 
 #### Status
 ACCEPTED

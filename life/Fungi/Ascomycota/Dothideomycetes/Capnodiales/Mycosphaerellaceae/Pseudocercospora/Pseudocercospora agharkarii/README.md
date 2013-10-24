@@ -1,17 +1,16 @@
-Cercospora agharkari Chidd. SPECIES
-=======
+# Pseudocercospora agharkarii (Chidd.) Crous & M.E. Palm, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 103(10): 1302 (1999)
 
 #### Original name
-Cercospora agharkari Chidd.
+Cercospora agharkarii Chidd., 1956
 
 ### Remarks
 null

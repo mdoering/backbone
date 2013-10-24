@@ -1,5 +1,4 @@
-Leptosphaeria marginata Niessl SPECIES
-=======
+# Leptosphaeria marginata Niessl SPECIES
 
 #### Status
 ACCEPTED

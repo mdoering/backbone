@@ -1,5 +1,4 @@
-Cantharellus humilis Berk. & Broome SPECIES
-=======
+# Cantharellus humilis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

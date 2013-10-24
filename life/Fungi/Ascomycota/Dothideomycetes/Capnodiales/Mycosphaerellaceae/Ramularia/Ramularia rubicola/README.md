@@ -1,17 +1,16 @@
-Ramularia rubiicola U. Braun SPECIES
-=======
+# Ramularia rubicola Ershad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rostaniha 1(1-4): 3 (2000)
 
 #### Original name
-Ovularia rubi Bubák
+Ramularia rubicola Ershad
 
 ### Remarks
 null

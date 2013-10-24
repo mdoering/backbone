@@ -1,5 +1,4 @@
-Verrucaria ferruginea (Huds.) Hoffm. SPECIES
-=======
+# Verrucaria ferruginea (Huds.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

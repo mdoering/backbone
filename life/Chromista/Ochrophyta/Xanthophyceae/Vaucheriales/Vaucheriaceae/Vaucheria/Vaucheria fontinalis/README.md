@@ -1,8 +1,7 @@
-Vaucheria clavata (Vaucher) A.P. de Candolle SPECIES
-=======
+# Vaucheria fontinalis (Linnaeus) Christensen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

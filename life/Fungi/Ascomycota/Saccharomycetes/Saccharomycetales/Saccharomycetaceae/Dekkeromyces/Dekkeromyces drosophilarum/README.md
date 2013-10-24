@@ -1,5 +1,4 @@
-Dekkeromyces drosophilarum (Shehata, Mrak & Phaff) Santa María & Sánchez Nieto SPECIES
-=======
+# Dekkeromyces drosophilarum (Shehata, Mrak & Phaff) Santa María & Sánchez Nieto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma pallidum (Tracy) Kuntze SPECIES
-=======
+# Dicaeoma pallidum (Tracy) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola bambusicola Hansf. SPECIES
-=======
+# Meliola bambusicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

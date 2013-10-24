@@ -1,5 +1,4 @@
-Hendersonia caesalpiniae Gucevic SPECIES
-=======
+# Hendersonia caesalpiniae Gucevic SPECIES
 
 #### Status
 ACCEPTED

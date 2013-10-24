@@ -1,5 +1,4 @@
-Clathrococcum compactum Berk. & M.A. Curtis SPECIES
-=======
+# Clathrococcum compactum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

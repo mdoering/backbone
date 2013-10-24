@@ -1,5 +1,4 @@
-Drechslera sesami (J. Miyake) M.J. Richardson & E.M. Fraser SPECIES
-=======
+# Drechslera sesami (J. Miyake) M.J. Richardson & E.M. Fraser SPECIES
 
 #### Status
 ACCEPTED

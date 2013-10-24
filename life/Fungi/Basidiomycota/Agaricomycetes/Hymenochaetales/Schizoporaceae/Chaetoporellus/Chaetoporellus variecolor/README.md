@@ -1,5 +1,4 @@
-Chaetoporellus variecolor (P. Karst.) Parmasto SPECIES
-=======
+# Chaetoporellus variecolor (P. Karst.) Parmasto SPECIES
 
 #### Status
 ACCEPTED

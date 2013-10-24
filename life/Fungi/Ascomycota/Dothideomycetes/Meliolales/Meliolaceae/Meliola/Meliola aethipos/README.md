@@ -1,5 +1,4 @@
-Meliola aethipos SPECIES
-=======
+# Meliola aethipos SPECIES
 
 #### Status
 ACCEPTED

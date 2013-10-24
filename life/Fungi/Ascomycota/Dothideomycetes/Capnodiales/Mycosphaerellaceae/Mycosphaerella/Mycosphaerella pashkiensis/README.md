@@ -1,5 +1,4 @@
-Mycosphaerella pashkiensis Petr. SPECIES
-=======
+# Mycosphaerella pashkiensis Petr. SPECIES
 
 #### Status
 ACCEPTED

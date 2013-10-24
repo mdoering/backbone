@@ -1,5 +1,4 @@
-Peltula langei Büdel & Elix SPECIES
-=======
+# Peltula langei Büdel & Elix SPECIES
 
 #### Status
 ACCEPTED

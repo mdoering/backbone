@@ -1,5 +1,4 @@
-Thelidium heterosporum (Garov.) Zahlbr. SPECIES
-=======
+# Thelidium heterosporum (Garov.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

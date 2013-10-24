@@ -1,5 +1,4 @@
-Dendroclathra Voglmayr & G. Delgado GENUS
-=======
+# Dendroclathra Voglmayr & G. Delgado GENUS
 
 #### Status
 ACCEPTED

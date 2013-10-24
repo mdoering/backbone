@@ -1,5 +1,4 @@
-Pyrenochaeta gentianae Chevassut SPECIES
-=======
+# Pyrenochaeta gentianae Chevassut SPECIES
 
 #### Status
 ACCEPTED

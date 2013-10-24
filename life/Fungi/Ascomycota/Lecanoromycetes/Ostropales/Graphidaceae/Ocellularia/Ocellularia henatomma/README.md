@@ -1,14 +1,13 @@
-Thelotrema henatomma Ach. SPECIES
-=======
+# Ocellularia henatomma (Ach.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Syst. Naturgesch. 1: 109 (1804)
+Mém. Soc. Phys. Hist. nat. Genève 29(8): 6 (1887)
 
 #### Original name
 Thelotrema henatomma Ach.

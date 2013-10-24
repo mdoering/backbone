@@ -1,5 +1,4 @@
-Microthyrium fuegianum Speg. SPECIES
-=======
+# Microthyrium fuegianum Speg. SPECIES
 
 #### Status
 ACCEPTED

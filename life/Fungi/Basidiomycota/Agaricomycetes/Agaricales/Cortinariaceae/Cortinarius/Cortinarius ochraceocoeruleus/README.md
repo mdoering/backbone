@@ -1,5 +1,4 @@
-Cortinarius ochraceocoeruleus M.M. Moser SPECIES
-=======
+# Cortinarius ochraceocoeruleus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

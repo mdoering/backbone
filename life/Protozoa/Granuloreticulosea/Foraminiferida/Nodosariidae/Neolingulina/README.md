@@ -1,5 +1,4 @@
-Neolingulina McCulloch, 1977 GENUS
-=======
+# Neolingulina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

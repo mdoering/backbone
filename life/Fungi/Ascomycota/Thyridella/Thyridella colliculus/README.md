@@ -1,5 +1,4 @@
-Thyridella colliculus Sacc., 1895 SPECIES
-=======
+# Thyridella colliculus Sacc., 1895 SPECIES
 
 #### Status
 ACCEPTED

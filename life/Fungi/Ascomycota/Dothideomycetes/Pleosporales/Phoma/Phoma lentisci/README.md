@@ -1,5 +1,4 @@
-Phoma lentisci Pass. SPECIES
-=======
+# Phoma lentisci Pass. SPECIES
 
 #### Status
 ACCEPTED

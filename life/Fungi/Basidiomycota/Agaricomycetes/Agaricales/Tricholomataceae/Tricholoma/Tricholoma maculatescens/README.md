@@ -1,5 +1,4 @@
-Tricholoma maculatescens Peck SPECIES
-=======
+# Tricholoma maculatescens Peck SPECIES
 
 #### Status
 ACCEPTED

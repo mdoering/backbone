@@ -1,5 +1,4 @@
-Arthonia nucis (Müll. Arg.) Willey SPECIES
-=======
+# Arthonia nucis (Müll. Arg.) Willey SPECIES
 
 #### Status
 ACCEPTED

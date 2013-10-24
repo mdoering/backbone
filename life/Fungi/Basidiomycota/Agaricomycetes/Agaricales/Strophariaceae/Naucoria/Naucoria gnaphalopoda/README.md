@@ -1,5 +1,4 @@
-Naucoria gnaphalopoda (Berk. & Broome) Sacc. SPECIES
-=======
+# Naucoria gnaphalopoda (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

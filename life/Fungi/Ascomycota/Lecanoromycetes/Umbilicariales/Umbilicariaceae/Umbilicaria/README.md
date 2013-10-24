@@ -1,17 +1,16 @@
-Gyrophoromyces E.A. Thomas ex Cif. & Tomas. GENUS
-=======
+# Umbilicaria Hoffmann, 1789 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 79 (1953)
+Descr. Adumb. Plant. Lich. 1: 8 (1789)
 
 #### Original name
-Gyrophoromyces E.A. Thomas ex Cif. & Tomas.
+Umbilicaria Hoffmann, 1789
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Marasmius bruchianus Speg. SPECIES
-=======
+# Marasmius bruchianus Speg. SPECIES
 
 #### Status
 ACCEPTED

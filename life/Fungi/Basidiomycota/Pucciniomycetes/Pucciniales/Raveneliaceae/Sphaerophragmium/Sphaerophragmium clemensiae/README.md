@@ -1,5 +1,4 @@
-Sphaerophragmium clemensiae Syd., 1931 SPECIES
-=======
+# Sphaerophragmium clemensiae Syd., 1931 SPECIES
 
 #### Status
 ACCEPTED

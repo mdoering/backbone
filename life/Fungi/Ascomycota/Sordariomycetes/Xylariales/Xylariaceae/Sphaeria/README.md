@@ -1,5 +1,4 @@
-Sphaeria Haller, 1768 GENUS
-=======
+# Sphaeria Haller, 1768 GENUS
 
 #### Status
 ACCEPTED

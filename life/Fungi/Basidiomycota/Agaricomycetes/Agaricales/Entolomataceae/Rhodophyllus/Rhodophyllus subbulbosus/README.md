@@ -1,5 +1,4 @@
-Rhodophyllus subbulbosus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus subbulbosus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

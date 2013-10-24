@@ -1,5 +1,4 @@
-Phyllosticta anceps Sacc. SPECIES
-=======
+# Phyllosticta anceps Sacc. SPECIES
 
 #### Status
 ACCEPTED

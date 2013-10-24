@@ -1,5 +1,4 @@
-Dothiorella brassicae M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Dothiorella brassicae M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

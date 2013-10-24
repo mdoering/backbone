@@ -1,5 +1,4 @@
-Vizella amazonica M.L. Farr SPECIES
-=======
+# Vizella amazonica M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

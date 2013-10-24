@@ -1,5 +1,4 @@
-Lynchellodon Yankovskij, 1980 GENUS
-=======
+# Lynchellodon Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

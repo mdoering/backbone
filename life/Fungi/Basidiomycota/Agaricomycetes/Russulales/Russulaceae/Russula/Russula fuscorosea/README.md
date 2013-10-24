@@ -1,5 +1,4 @@
-Russula fuscorosea J. Blum ex Bon SPECIES
-=======
+# Russula fuscorosea J. Blum ex Bon SPECIES
 
 #### Status
 ACCEPTED

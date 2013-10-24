@@ -1,5 +1,4 @@
-Nectria elasticae Koord. SPECIES
-=======
+# Nectria elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria leaiana Berk. SPECIES
-=======
+# Sphaeria leaiana Berk. SPECIES
 
 #### Status
 ACCEPTED

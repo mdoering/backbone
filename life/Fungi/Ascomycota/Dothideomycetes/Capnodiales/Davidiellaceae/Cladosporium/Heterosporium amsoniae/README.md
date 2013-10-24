@@ -1,5 +1,4 @@
-Heterosporium amsoniae Kabát & Bubák SPECIES
-=======
+# Heterosporium amsoniae Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

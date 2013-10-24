@@ -1,5 +1,4 @@
-Arthopyrenia vesicularia (Linds.) H. Olivier SPECIES
-=======
+# Arthopyrenia vesicularia (Linds.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

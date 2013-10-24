@@ -1,14 +1,13 @@
-Resupinatus violaceogriseus G. Stev., 1964 SPECIES
-=======
+# Marasmiellus violaceogriseus (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 19(1): 22 (1964)
+N. Z. Jl Bot. 9(3): 459 (1971)
 
 #### Original name
 Resupinatus violaceogriseus G. Stev., 1964

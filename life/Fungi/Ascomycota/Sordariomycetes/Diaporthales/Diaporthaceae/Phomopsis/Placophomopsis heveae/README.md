@@ -1,5 +1,4 @@
-Placophomopsis heveae Grove SPECIES
-=======
+# Placophomopsis heveae Grove SPECIES
 
 #### Status
 ACCEPTED

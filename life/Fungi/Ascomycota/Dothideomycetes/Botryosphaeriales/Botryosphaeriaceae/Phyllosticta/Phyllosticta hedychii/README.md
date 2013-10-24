@@ -1,5 +1,4 @@
-Phyllosticta hedychii Petr. SPECIES
-=======
+# Phyllosticta hedychii Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus brunneopanoides Ortiz SPECIES
-=======
+# Boletus brunneopanoides Ortiz SPECIES
 
 #### Status
 ACCEPTED

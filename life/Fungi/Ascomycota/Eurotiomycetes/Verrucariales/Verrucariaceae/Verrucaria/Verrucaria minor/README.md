@@ -1,5 +1,4 @@
-Verrucaria minor Breuss SPECIES
-=======
+# Verrucaria minor Breuss SPECIES
 
 #### Status
 ACCEPTED

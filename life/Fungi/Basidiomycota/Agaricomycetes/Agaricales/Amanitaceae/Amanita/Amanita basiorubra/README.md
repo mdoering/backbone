@@ -1,5 +1,4 @@
-Amanita basiorubra O.K. Mill. SPECIES
-=======
+# Amanita basiorubra O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola rehmii F. Stevens SPECIES
-=======
+# Meliola rehmii F. Stevens SPECIES
 
 #### Status
 ACCEPTED

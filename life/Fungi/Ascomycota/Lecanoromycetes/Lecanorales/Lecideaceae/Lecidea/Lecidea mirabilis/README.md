@@ -1,5 +1,4 @@
-Lecidea mirabilis Nilson SPECIES
-=======
+# Lecidea mirabilis Nilson SPECIES
 
 #### Status
 ACCEPTED

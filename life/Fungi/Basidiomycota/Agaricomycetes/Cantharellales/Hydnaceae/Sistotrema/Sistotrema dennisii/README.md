@@ -1,5 +1,4 @@
-Sistotrema dennisii Malençon, 1976 SPECIES
-=======
+# Sistotrema dennisii Malençon, 1976 SPECIES
 
 #### Status
 ACCEPTED

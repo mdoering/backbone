@@ -1,5 +1,4 @@
-Lophiotrema arundinariae Rehm SPECIES
-=======
+# Lophiotrema arundinariae Rehm SPECIES
 
 #### Status
 ACCEPTED

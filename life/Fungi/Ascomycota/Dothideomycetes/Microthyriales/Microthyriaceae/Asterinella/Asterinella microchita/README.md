@@ -1,5 +1,4 @@
-Asterinella microchita Syd. SPECIES
-=======
+# Asterinella microchita Syd. SPECIES
 
 #### Status
 ACCEPTED

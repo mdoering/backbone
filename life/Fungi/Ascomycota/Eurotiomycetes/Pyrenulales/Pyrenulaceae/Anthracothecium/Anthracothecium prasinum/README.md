@@ -1,14 +1,13 @@
-Verrucaria prasina Eschw. SPECIES
-=======
+# Anthracothecium prasinum (Eschw.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Egan, Bryologist 90(2): 163 (1987)
 
 #### Original name
 Verrucaria prasina Eschw.

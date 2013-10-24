@@ -1,5 +1,4 @@
-Gonatophragmium mangiferae J.L. Mulder SPECIES
-=======
+# Gonatophragmium mangiferae J.L. Mulder SPECIES
 
 #### Status
 ACCEPTED

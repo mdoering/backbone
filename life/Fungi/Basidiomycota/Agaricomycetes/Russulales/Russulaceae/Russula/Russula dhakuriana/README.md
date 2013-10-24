@@ -1,5 +1,4 @@
-Russula dhakuriana K. Das, J.R. Sharma & S.L. Mill. SPECIES
-=======
+# Russula dhakuriana K. Das, J.R. Sharma & S.L. Mill. SPECIES
 
 #### Status
 ACCEPTED

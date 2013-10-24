@@ -1,5 +1,4 @@
-Peziza tentaculata Wallr. SPECIES
-=======
+# Peziza tentaculata Wallr. SPECIES
 
 #### Status
 ACCEPTED

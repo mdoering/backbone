@@ -1,5 +1,4 @@
-Sphaerella polystigma Ellis & Everh. SPECIES
-=======
+# Sphaerella polystigma Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

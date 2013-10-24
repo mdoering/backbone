@@ -1,5 +1,4 @@
-Lecidea admixta Th. Fr. SPECIES
-=======
+# Lecidea admixta Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

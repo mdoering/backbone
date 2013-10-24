@@ -1,5 +1,4 @@
-Euglypha compressa Carter, 1864 SPECIES
-=======
+# Euglypha compressa Carter, 1864 SPECIES
 
 #### Status
 ACCEPTED

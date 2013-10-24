@@ -1,14 +1,13 @@
-Peziza majalis Fr., 1851 SPECIES
-=======
+# Geopyxis majalis (Fr.) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. Symb. Myc. 120 (1851)
+Syll. fung. (Abellini) 8: 72 (1889)
 
 #### Original name
 Peziza majalis Fr., 1851

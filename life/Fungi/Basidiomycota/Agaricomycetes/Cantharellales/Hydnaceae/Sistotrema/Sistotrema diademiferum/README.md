@@ -1,14 +1,13 @@
-Diplonema diademiferum (Bourdot & Galzin) Park.-Rhodes, 1954 SPECIES
-=======
+# Sistotrema diademiferum (Bourdot & Galzin) Donk, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 37: 329 (1954)
+Fungus, Wageningen 26: 4 (1956)
 
 #### Original name
 null

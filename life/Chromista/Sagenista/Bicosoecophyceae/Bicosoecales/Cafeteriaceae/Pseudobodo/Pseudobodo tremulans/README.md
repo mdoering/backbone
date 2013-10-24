@@ -1,5 +1,4 @@
-Pseudobodo tremulans Greissmann SPECIES
-=======
+# Pseudobodo tremulans Greissmann SPECIES
 
 #### Status
 ACCEPTED

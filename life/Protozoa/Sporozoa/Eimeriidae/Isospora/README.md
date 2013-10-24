@@ -1,14 +1,13 @@
-Hyaloklossia Labbé, 1896 GENUS
-=======
+# Isospora Schneider, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Arch. Zool. exp. gén. Paris, (3) 4, 535.
+Arch. Zool. exp. gén. Paris, 9, 401.
 
 #### Original name
 null

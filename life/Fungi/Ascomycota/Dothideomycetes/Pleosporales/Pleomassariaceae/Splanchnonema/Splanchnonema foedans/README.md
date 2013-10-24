@@ -1,14 +1,13 @@
-Sphaeria foedans Fr. SPECIES
-=======
+# Splanchnonema foedans (Fr.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syst. mycol. (Lundae) 2(2): 480 (1823)
+Revis. gen. pl. (Leipzig) 3(2): 530 (1898)
 
 #### Original name
 Sphaeria foedans Fr.

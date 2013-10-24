@@ -1,5 +1,4 @@
-Sphaeria authracina J.C. Schmidt SPECIES
-=======
+# Sphaeria authracina J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

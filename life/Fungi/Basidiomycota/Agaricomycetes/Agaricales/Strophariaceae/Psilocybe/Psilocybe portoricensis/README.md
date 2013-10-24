@@ -1,5 +1,4 @@
-Psilocybe portoricensis Guzmán, Nieves-Riv. & F. Tapia SPECIES
-=======
+# Psilocybe portoricensis Guzmán, Nieves-Riv. & F. Tapia SPECIES
 
 #### Status
 ACCEPTED

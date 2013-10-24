@@ -1,5 +1,4 @@
-Phyllosticta renantherae Keissl. SPECIES
-=======
+# Phyllosticta renantherae Keissl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Boletus mori (Pollini) Pollini, 1816 SPECIES
-=======
+# Polyporus alveolaris (DC.) Bondartsev & Singer, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Giorn. Fis. Chim. Stor. nat. Med. Arti Pavia 9: 35 (1816)
+Annls mycol. 39(1): 58 (1941)
 
 #### Original name
-Hexagonia mori Pollini, 1816
+Merulius alveolaris DC., 1815
 
 ### Remarks
 null

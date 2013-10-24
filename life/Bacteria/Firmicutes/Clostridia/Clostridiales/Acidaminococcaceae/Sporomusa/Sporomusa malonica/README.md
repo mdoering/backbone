@@ -1,5 +1,4 @@
-Sporomusa malonica Dehning et al., 1990 SPECIES
-=======
+# Sporomusa malonica Dehning et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

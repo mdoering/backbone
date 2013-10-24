@@ -1,17 +1,16 @@
-Hypocopra stercoraria var. stercoraria (Sowerby) Sacc. VARIETY
-=======
+# Hypocopra stercoraria (Sowerby) Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 1: 244 (1882)
 
 #### Original name
-Hypocopra stercoraria var. stercoraria (Sowerby) Sacc.
+Sphaeria stercoraria Sowerby, 1803
 
 ### Remarks
 null

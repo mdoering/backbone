@@ -1,5 +1,4 @@
-Entoloma austroprunicolor G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma austroprunicolor G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

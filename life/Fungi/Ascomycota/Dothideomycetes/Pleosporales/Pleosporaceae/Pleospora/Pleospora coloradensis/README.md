@@ -1,5 +1,4 @@
-Pleospora coloradensis Ellis & Everh. SPECIES
-=======
+# Pleospora coloradensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

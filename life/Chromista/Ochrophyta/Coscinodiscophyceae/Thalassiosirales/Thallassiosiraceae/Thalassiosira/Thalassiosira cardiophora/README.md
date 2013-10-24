@@ -1,5 +1,4 @@
-Thalassiosira cardiophora F. E. Round SPECIES
-=======
+# Thalassiosira cardiophora F. E. Round SPECIES
 
 #### Status
 ACCEPTED

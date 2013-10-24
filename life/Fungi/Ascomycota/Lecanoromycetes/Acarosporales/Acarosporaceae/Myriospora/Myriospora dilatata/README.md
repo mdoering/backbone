@@ -1,5 +1,4 @@
-Myriospora dilatata (M. Westb. & Wedin) K. Knudsen & L. Arcadia SPECIES
-=======
+# Myriospora dilatata (M. Westb. & Wedin) K. Knudsen & L. Arcadia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glonium emergens (Fr.) Duby SPECIES
-=======
+# Glonium emergens (Fr.) Duby SPECIES
 
 #### Status
 ACCEPTED

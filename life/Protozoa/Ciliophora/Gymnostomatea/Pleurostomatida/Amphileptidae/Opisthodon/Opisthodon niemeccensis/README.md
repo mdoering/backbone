@@ -1,8 +1,7 @@
-Loxophyllum niemeccense Stein, 1859 SPECIES
-=======
+# Opisthodon niemeccensis Stein, 1859 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

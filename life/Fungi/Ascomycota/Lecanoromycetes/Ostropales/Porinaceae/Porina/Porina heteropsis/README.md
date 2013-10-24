@@ -1,5 +1,4 @@
-Porina heteropsis (Nyl.) Zahlbr. SPECIES
-=======
+# Porina heteropsis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

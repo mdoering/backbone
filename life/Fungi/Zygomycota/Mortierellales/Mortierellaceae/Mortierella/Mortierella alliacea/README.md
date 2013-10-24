@@ -1,5 +1,4 @@
-Mortierella alliacea Linnem., 1953 SPECIES
-=======
+# Mortierella alliacea Linnem., 1953 SPECIES
 
 #### Status
 ACCEPTED

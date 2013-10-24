@@ -1,5 +1,4 @@
-Caloplaca confusa Vondrák, Ríha, Arup & Søchting SPECIES
-=======
+# Caloplaca confusa Vondrák, Ríha, Arup & Søchting SPECIES
 
 #### Status
 ACCEPTED

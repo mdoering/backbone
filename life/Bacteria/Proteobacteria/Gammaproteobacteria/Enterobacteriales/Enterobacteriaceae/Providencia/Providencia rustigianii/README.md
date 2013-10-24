@@ -1,5 +1,4 @@
-Providencia rustigianii Hickman-Brenner et al., 1983 SPECIES
-=======
+# Providencia rustigianii Hickman-Brenner et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

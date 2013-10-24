@@ -1,5 +1,4 @@
-Pezizella rosea (Mont.) Sacc. SPECIES
-=======
+# Pezizella rosea (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

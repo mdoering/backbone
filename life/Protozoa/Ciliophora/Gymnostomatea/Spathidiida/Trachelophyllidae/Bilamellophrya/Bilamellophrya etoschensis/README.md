@@ -1,5 +1,4 @@
-Bilamellophrya etoschensis Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Bilamellophrya etoschensis Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

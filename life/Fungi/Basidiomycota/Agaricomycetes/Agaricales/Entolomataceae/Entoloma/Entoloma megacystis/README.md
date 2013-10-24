@@ -1,5 +1,4 @@
-Entoloma megacystis E. Horak SPECIES
-=======
+# Entoloma megacystis E. Horak SPECIES
 
 #### Status
 ACCEPTED

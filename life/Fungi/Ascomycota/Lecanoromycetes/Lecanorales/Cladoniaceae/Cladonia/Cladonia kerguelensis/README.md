@@ -1,5 +1,4 @@
-Cladonia kerguelensis C.W. Dodge SPECIES
-=======
+# Cladonia kerguelensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

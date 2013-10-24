@@ -1,5 +1,4 @@
-Diplodia chimonanthi Sacc. SPECIES
-=======
+# Diplodia chimonanthi Sacc. SPECIES
 
 #### Status
 ACCEPTED

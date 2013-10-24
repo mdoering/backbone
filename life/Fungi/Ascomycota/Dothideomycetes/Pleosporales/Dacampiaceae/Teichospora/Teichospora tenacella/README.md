@@ -1,5 +1,4 @@
-Teichospora tenacella (Schwein.) Ellis SPECIES
-=======
+# Teichospora tenacella (Schwein.) Ellis SPECIES
 
 #### Status
 ACCEPTED

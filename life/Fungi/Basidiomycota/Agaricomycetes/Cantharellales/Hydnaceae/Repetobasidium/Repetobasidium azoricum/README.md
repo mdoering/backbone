@@ -1,5 +1,4 @@
-Repetobasidium azoricum Melo, M. Dueñas & Telleria SPECIES
-=======
+# Repetobasidium azoricum Melo, M. Dueñas & Telleria SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibberidea ulmea (P. Karst.) Kuntze SPECIES
-=======
+# Gibberidea ulmea (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula roseostriata Buyck SPECIES
-=======
+# Russula roseostriata Buyck SPECIES
 
 #### Status
 ACCEPTED

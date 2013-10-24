@@ -1,5 +1,4 @@
-Schizoxylon pachychlamydum Sherwood SPECIES
-=======
+# Schizoxylon pachychlamydum Sherwood SPECIES
 
 #### Status
 ACCEPTED

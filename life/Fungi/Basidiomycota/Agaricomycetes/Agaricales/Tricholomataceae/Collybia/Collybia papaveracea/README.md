@@ -1,5 +1,4 @@
-Collybia papaveracea Berk. SPECIES
-=======
+# Collybia papaveracea Berk. SPECIES
 
 #### Status
 ACCEPTED

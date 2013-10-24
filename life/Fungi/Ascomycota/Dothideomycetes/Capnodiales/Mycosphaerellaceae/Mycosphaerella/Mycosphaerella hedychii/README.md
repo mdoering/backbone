@@ -1,5 +1,4 @@
-Mycosphaerella hedychii F. Stevens & P.A. Young SPECIES
-=======
+# Mycosphaerella hedychii F. Stevens & P.A. Young SPECIES
 
 #### Status
 ACCEPTED

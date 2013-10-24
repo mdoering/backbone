@@ -1,5 +1,4 @@
-Subaljutovella Ivanova, 2000 GENUS
-=======
+# Subaljutovella Ivanova, 2000 GENUS
 
 #### Status
 ACCEPTED

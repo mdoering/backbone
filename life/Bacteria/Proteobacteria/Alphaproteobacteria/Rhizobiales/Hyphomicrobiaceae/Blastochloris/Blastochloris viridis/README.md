@@ -1,8 +1,7 @@
-Rhodopseudomonas viridis Drews and Giesbrecht, 1966 (Approved Lists, 1980) SPECIES
-=======
+# Blastochloris viridis (Drews & Giesbrecht, 1966) Hiraishi, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

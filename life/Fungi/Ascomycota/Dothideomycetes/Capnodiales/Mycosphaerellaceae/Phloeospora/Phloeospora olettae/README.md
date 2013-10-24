@@ -1,5 +1,4 @@
-Phloeospora olettae Ciccar. SPECIES
-=======
+# Phloeospora olettae Ciccar. SPECIES
 
 #### Status
 ACCEPTED

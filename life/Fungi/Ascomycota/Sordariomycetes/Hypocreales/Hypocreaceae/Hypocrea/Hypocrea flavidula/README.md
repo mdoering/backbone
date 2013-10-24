@@ -1,5 +1,4 @@
-Hypocrea flavidula Henn. SPECIES
-=======
+# Hypocrea flavidula Henn. SPECIES
 
 #### Status
 ACCEPTED

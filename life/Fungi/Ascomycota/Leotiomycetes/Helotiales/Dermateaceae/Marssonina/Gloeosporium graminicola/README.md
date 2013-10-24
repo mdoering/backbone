@@ -1,5 +1,4 @@
-Gloeosporium graminicola Ellis & Everh. SPECIES
-=======
+# Gloeosporium graminicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

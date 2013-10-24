@@ -1,5 +1,4 @@
-Septoria hotejae Tassi SPECIES
-=======
+# Septoria hotejae Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeocarpus GENUS
-=======
+# Clypeocarpus GENUS
 
 #### Status
 ACCEPTED

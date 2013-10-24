@@ -1,5 +1,4 @@
-Uromyces purpureus Lagerh. SPECIES
-=======
+# Uromyces purpureus Lagerh. SPECIES
 
 #### Status
 ACCEPTED

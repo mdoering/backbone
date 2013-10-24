@@ -1,14 +1,13 @@
-Panus kauffmanii (A.H. Sm.) Corner, 1981 SPECIES
-=======
+# Neolentinus kauffmanii (A.H. Sm.) Redhead & Ginns, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 69: 64 (1981)
+Trans. Mycol. Soc. Japan 26(3): 357 (1985)
 
 #### Original name
 Lentinus kauffmanii A.H. Sm., 1946

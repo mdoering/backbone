@@ -1,5 +1,4 @@
-Streptothrix aurea S.S. Dubois SPECIES
-=======
+# Streptothrix aurea S.S. Dubois SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus gateraudii Roum. SPECIES
-=======
+# Agaricus gateraudii Roum. SPECIES
 
 #### Status
 ACCEPTED

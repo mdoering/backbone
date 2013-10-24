@@ -1,5 +1,4 @@
-Buedingiisphaeridium sitholeyi (Salujha, Rehman & Arora, 1971) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Buedingiisphaeridium sitholeyi (Salujha, Rehman & Arora, 1971) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

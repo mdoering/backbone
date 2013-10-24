@@ -1,5 +1,4 @@
-Lycogalopsis africana Har. & Pat. SPECIES
-=======
+# Lycogalopsis africana Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

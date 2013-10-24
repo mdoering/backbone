@@ -1,5 +1,4 @@
-Tremellidium piskorzii Petr., 1927 SPECIES
-=======
+# Tremellidium piskorzii Petr., 1927 SPECIES
 
 #### Status
 ACCEPTED

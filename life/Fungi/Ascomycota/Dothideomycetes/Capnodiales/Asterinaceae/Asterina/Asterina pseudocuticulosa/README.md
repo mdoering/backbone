@@ -1,5 +1,4 @@
-Asterina pseudocuticulosa G. Winter SPECIES
-=======
+# Asterina pseudocuticulosa G. Winter SPECIES
 
 #### Status
 ACCEPTED

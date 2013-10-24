@@ -1,5 +1,4 @@
-Lophodermellina GENUS
-=======
+# Lophodermellina GENUS
 
 #### Status
 ACCEPTED

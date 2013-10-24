@@ -1,5 +1,4 @@
-Coryne urceolus (Fuckel) Höhn. SPECIES
-=======
+# Coryne urceolus (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

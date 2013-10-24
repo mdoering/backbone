@@ -1,5 +1,4 @@
-Sphaerulina porothelia (Berk. & M.A. Curtis) Keissl. SPECIES
-=======
+# Sphaerulina porothelia (Berk. & M.A. Curtis) Keissl. SPECIES
 
 #### Status
 ACCEPTED

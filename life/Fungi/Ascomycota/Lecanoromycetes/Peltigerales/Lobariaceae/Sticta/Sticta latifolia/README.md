@@ -1,5 +1,4 @@
-Sticta latifolia (Stizenb.) Zahlbr. SPECIES
-=======
+# Sticta latifolia (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

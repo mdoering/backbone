@@ -1,17 +1,16 @@
-Uredo tripetaleiae Dietel SPECIES
-=======
+# Uredo tripetalejae Dietel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 12: 85 (1914)
 
 #### Original name
-Uredo tripetaleiae Dietel
+Uredo tripetalejae Dietel
 
 ### Remarks
 null

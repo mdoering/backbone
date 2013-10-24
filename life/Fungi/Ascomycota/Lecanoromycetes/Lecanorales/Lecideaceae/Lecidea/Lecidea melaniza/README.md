@@ -1,5 +1,4 @@
-Lecidea melaniza Hedl. SPECIES
-=======
+# Lecidea melaniza Hedl. SPECIES
 
 #### Status
 ACCEPTED

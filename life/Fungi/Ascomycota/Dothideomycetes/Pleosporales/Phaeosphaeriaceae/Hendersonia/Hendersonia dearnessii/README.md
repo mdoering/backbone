@@ -1,5 +1,4 @@
-Hendersonia dearnessii Darker SPECIES
-=======
+# Hendersonia dearnessii Darker SPECIES
 
 #### Status
 ACCEPTED

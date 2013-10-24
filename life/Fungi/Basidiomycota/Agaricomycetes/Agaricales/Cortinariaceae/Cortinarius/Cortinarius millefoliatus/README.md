@@ -1,5 +1,4 @@
-Cortinarius millefoliatus Britzelm. SPECIES
-=======
+# Cortinarius millefoliatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

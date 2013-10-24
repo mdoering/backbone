@@ -1,5 +1,4 @@
-Capnodium callitris McAlpine SPECIES
-=======
+# Capnodium callitris McAlpine SPECIES
 
 #### Status
 ACCEPTED

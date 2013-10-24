@@ -1,5 +1,4 @@
-Passalora voandzeiae (Bouriquet) U. Braun & Crous SPECIES
-=======
+# Passalora voandzeiae (Bouriquet) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

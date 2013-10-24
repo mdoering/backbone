@@ -1,14 +1,13 @@
-Helotium sepium (Desm.) Sacc., 1889 SPECIES
-=======
+# Pezicula sepium (Desm.) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 229 (1889)
+Persoonia 3(1): 65 (1964)
 
 #### Original name
 null

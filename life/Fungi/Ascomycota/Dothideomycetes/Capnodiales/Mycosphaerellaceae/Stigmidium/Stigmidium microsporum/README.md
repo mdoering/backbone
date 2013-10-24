@@ -1,5 +1,4 @@
-Stigmidium microsporum Etayo & Osorio, 2004 SPECIES
-=======
+# Stigmidium microsporum Etayo & Osorio, 2004 SPECIES
 
 #### Status
 ACCEPTED

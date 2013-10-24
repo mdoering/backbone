@@ -1,5 +1,4 @@
-Sphaerella dieffenbachiae Gonz. Frag. & Cif. SPECIES
-=======
+# Sphaerella dieffenbachiae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

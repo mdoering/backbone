@@ -1,5 +1,4 @@
-Phoma heliotropii Tassi SPECIES
-=======
+# Phoma heliotropii Tassi SPECIES
 
 #### Status
 ACCEPTED

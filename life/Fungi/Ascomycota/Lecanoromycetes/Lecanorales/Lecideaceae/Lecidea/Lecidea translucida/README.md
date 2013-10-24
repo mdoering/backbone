@@ -1,5 +1,4 @@
-Lecidea translucida P. Crouan & H. Crouan SPECIES
-=======
+# Lecidea translucida P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

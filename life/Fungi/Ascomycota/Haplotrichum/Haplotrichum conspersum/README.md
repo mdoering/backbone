@@ -1,8 +1,7 @@
-Rhinotrichum sulfureum Ellis & Everh., 1884 SPECIES
-=======
+# Haplotrichum conspersum (Link) Hol.-Jech., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Belgian Species List

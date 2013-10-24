@@ -1,8 +1,7 @@
-Lycogala lejosporum Reichardt SPECIES
-=======
+# Lycogala leiosporum Reichardt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lycogala lejosporum Reichardt
+Lycogala leiosporum Reichardt
 
 ### Remarks
 null

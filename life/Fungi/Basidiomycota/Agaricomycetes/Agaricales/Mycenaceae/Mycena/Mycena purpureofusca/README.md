@@ -1,14 +1,13 @@
-Agaricus purpureofuscus Peck, 1885 SPECIES
-=======
+# Mycena purpureofusca (Peck) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 38: 85 (1885)
+Syll. fung. (Abellini) 5: 255 (1887)
 
 #### Original name
 Agaricus purpureofuscus Peck, 1885

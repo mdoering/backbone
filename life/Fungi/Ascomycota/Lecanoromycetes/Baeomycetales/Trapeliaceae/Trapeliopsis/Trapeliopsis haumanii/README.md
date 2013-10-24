@@ -1,5 +1,4 @@
-Trapeliopsis haumanii (Zahlbr.) Gotth. Schneid. SPECIES
-=======
+# Trapeliopsis haumanii (Zahlbr.) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

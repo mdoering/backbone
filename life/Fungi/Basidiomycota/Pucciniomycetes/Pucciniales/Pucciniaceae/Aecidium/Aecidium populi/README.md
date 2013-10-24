@@ -1,5 +1,4 @@
-Aecidium populi Hornem. SPECIES
-=======
+# Aecidium populi Hornem. SPECIES
 
 #### Status
 ACCEPTED

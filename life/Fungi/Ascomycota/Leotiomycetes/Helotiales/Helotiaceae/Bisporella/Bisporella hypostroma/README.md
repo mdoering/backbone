@@ -1,5 +1,4 @@
-Bisporella hypostroma Arendh. & R. Sharma SPECIES
-=======
+# Bisporella hypostroma Arendh. & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

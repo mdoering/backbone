@@ -1,5 +1,4 @@
-Polyrhizon synapheae (Henn.) Theiss. SPECIES
-=======
+# Polyrhizon synapheae (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

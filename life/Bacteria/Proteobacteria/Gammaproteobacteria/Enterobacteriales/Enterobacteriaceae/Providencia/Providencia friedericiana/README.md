@@ -1,5 +1,4 @@
-Providencia friedericiana Müller, 1983 SPECIES
-=======
+# Providencia friedericiana Müller, 1983 SPECIES
 
 #### Status
 ACCEPTED

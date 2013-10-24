@@ -1,5 +1,4 @@
-Dyscollosphaera Haeckel, 1887 GENUS
-=======
+# Dyscollosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

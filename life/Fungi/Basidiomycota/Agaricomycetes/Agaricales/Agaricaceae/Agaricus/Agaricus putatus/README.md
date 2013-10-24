@@ -1,5 +1,4 @@
-Agaricus putatus Pers. SPECIES
-=======
+# Agaricus putatus Pers. SPECIES
 
 #### Status
 ACCEPTED

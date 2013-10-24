@@ -1,5 +1,4 @@
-Verrucaria elongatula Nyl. SPECIES
-=======
+# Verrucaria elongatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triceratium nancoorense Grunow SPECIES
-=======
+# Triceratium nancoorense Grunow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stschapoviaceae FAMILY
-=======
+# Stschapoviaceae FAMILY
 
 #### Status
 ACCEPTED

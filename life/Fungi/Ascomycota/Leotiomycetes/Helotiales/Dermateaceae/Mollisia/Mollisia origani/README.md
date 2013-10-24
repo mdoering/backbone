@@ -1,5 +1,4 @@
-Mollisia origani Velen. SPECIES
-=======
+# Mollisia origani Velen. SPECIES
 
 #### Status
 ACCEPTED

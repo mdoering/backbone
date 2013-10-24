@@ -1,5 +1,4 @@
-Maupasella cylindri Katashima, 1952 SPECIES
-=======
+# Maupasella cylindri Katashima, 1952 SPECIES
 
 #### Status
 ACCEPTED

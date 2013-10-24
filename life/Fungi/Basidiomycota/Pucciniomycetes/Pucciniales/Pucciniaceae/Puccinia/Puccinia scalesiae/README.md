@@ -1,5 +1,4 @@
-Puccinia scalesiae H.C. Evans SPECIES
-=======
+# Puccinia scalesiae H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

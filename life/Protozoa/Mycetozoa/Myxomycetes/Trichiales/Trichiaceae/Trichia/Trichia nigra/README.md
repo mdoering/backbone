@@ -1,5 +1,4 @@
-Trichia nigra Haller SPECIES
-=======
+# Trichia nigra Haller SPECIES
 
 #### Status
 ACCEPTED

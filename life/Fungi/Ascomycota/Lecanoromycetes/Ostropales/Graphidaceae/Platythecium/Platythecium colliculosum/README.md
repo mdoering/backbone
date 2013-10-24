@@ -1,5 +1,4 @@
-Platythecium colliculosum (Mont.) Staiger SPECIES
-=======
+# Platythecium colliculosum (Mont.) Staiger SPECIES
 
 #### Status
 ACCEPTED

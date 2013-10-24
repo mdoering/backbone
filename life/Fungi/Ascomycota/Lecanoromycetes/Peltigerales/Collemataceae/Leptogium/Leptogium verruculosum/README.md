@@ -1,5 +1,4 @@
-Leptogium verruculosum (A. Massal.) Jatta SPECIES
-=======
+# Leptogium verruculosum (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

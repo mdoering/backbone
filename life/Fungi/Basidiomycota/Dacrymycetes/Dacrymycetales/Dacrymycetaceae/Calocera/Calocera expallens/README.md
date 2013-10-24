@@ -1,5 +1,4 @@
-Calocera expallens Quél. SPECIES
-=======
+# Calocera expallens Quél. SPECIES
 
 #### Status
 ACCEPTED

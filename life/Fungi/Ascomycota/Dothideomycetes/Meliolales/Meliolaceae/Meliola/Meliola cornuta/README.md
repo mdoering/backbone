@@ -1,5 +1,4 @@
-Meliola cornuta Rehm SPECIES
-=======
+# Meliola cornuta Rehm SPECIES
 
 #### Status
 ACCEPTED

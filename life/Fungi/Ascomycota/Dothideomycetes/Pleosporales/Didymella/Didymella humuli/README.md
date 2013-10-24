@@ -1,5 +1,4 @@
-Didymella humuli P. Karst. SPECIES
-=======
+# Didymella humuli P. Karst. SPECIES
 
 #### Status
 ACCEPTED

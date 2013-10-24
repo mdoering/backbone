@@ -1,17 +1,16 @@
-Sporidesmium polymorphum var. chartarum Cooke VARIETY
-=======
+# Sporidesmium polymorphum Berk. & Broome, 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Deuteromycotina de Cuba (La Habana), Hyphomycetes IV 11 (1986)
 
 #### Original name
-Sporidesmium polymorphum var. chartarum Cooke
+Sporidesmium polymorphum Berk. & Broome, 1986
 
 ### Remarks
 null

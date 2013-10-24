@@ -1,5 +1,4 @@
-Xylaria rosea Beeli SPECIES
-=======
+# Xylaria rosea Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza marchica Kirschst. SPECIES
-=======
+# Trichopeziza marchica Kirschst. SPECIES
 
 #### Status
 ACCEPTED

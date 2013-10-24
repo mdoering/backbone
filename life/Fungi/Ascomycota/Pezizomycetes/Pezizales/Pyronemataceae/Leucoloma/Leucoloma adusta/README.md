@@ -1,5 +1,4 @@
-Leucoloma adusta (Cooke & Peck) House SPECIES
-=======
+# Leucoloma adusta (Cooke & Peck) House SPECIES
 
 #### Status
 ACCEPTED

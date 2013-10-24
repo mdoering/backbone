@@ -1,5 +1,4 @@
-Condylostoma magnum Spiegel, 1926 SPECIES
-=======
+# Condylostoma magnum Spiegel, 1926 SPECIES
 
 #### Status
 ACCEPTED

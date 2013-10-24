@@ -1,5 +1,4 @@
-Splanchnomyces olivaceus Zobel SPECIES
-=======
+# Splanchnomyces olivaceus Zobel SPECIES
 
 #### Status
 ACCEPTED

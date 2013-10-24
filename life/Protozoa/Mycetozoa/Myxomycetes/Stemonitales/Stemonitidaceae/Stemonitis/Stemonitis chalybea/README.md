@@ -1,5 +1,4 @@
-Stemonitis chalybea Pers. SPECIES
-=======
+# Stemonitis chalybea Pers. SPECIES
 
 #### Status
 ACCEPTED

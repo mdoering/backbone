@@ -1,5 +1,4 @@
-Oospora harzii Sacc. SPECIES
-=======
+# Oospora harzii Sacc. SPECIES
 
 #### Status
 ACCEPTED

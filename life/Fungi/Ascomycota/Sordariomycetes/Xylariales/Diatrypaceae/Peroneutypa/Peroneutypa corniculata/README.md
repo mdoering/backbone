@@ -1,8 +1,7 @@
-Diatrype corniculata (Ehrh.) Berk. & Broome, 1859 SPECIES
-=======
+# Peroneutypa corniculata (Ehrh.) Berl., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

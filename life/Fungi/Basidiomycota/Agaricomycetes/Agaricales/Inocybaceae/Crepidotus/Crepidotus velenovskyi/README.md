@@ -1,5 +1,4 @@
-Crepidotus velenovskyi Pilát SPECIES
-=======
+# Crepidotus velenovskyi Pilát SPECIES
 
 #### Status
 ACCEPTED

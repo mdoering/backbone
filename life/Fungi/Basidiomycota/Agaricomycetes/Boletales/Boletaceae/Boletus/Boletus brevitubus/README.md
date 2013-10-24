@@ -1,5 +1,4 @@
-Boletus brevitubus M. Zang SPECIES
-=======
+# Boletus brevitubus M. Zang SPECIES
 
 #### Status
 ACCEPTED

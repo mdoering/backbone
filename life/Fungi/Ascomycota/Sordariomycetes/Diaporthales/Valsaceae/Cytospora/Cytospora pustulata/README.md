@@ -1,5 +1,4 @@
-Cytospora pustulata Sacc. & Roum., 1882 SPECIES
-=======
+# Cytospora pustulata Sacc. & Roum., 1882 SPECIES
 
 #### Status
 ACCEPTED

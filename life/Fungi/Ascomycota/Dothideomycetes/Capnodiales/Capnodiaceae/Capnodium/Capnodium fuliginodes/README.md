@@ -1,5 +1,4 @@
-Capnodium fuliginodes var. fuliginodes VARIETY
-=======
+# Capnodium fuliginodes Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Capnodium fuliginodes var. fuliginodes
+Capnodium fuliginodes Rehm
 
 ### Remarks
 null

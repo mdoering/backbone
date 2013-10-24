@@ -1,5 +1,4 @@
-Ceratochaete philippinensis Syd. & P. Syd. SPECIES
-=======
+# Ceratochaete philippinensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

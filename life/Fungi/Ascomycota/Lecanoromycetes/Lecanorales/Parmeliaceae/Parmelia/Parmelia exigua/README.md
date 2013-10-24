@@ -1,5 +1,4 @@
-Parmelia exigua (Ach.) Ach. SPECIES
-=======
+# Parmelia exigua (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

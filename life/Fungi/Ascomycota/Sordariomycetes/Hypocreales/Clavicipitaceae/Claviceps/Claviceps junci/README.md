@@ -1,5 +1,4 @@
-Claviceps junci J.F. Adams, 1907 SPECIES
-=======
+# Claviceps junci J.F. Adams, 1907 SPECIES
 
 #### Status
 ACCEPTED

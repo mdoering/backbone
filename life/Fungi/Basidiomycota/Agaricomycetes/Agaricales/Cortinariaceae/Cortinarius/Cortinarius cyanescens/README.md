@@ -1,5 +1,4 @@
-Cortinarius cyanescens Ramain SPECIES
-=======
+# Cortinarius cyanescens Ramain SPECIES
 
 #### Status
 ACCEPTED

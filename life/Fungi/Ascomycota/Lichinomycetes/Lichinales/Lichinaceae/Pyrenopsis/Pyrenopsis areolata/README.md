@@ -1,5 +1,4 @@
-Pyrenopsis areolata (Zwackh) Th. Fr. SPECIES
-=======
+# Pyrenopsis areolata (Zwackh) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

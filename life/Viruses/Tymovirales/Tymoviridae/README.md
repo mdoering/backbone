@@ -1,5 +1,4 @@
-Tymoviridae FAMILY
-=======
+# Tymoviridae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cylindrosporium hanseni Bubák SPECIES
-=======
+# Cylindrosporium hansenii Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Közl. 14: (75) (1915)
 
 #### Original name
-Cylindrosporium hanseni Bubák
+Cylindrosporium hansenii Bubák
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fresenia penicillata Fuckel SPECIES
-=======
+# Fresenia penicillata Fuckel SPECIES
 
 #### Status
 ACCEPTED

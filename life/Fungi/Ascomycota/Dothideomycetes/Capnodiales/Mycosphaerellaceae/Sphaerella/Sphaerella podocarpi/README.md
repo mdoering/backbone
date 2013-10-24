@@ -1,5 +1,4 @@
-Sphaerella podocarpi Cooke SPECIES
-=======
+# Sphaerella podocarpi Cooke SPECIES
 
 #### Status
 ACCEPTED

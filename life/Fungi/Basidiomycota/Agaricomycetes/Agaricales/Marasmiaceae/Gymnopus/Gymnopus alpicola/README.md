@@ -1,5 +1,4 @@
-Gymnopus alpicola (Bon & Ballarà) Esteve-Rav., V. González, Arenal & E. Horak SPECIES
-=======
+# Gymnopus alpicola (Bon & Ballarà) Esteve-Rav., V. González, Arenal & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea squalens Nyl. SPECIES
-=======
+# Lecidea squalens Nyl. SPECIES
 
 #### Status
 ACCEPTED

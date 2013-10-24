@@ -1,5 +1,4 @@
-Chitonospora ammophila E. Bommer, M. Rousseau & Sacc., 1891 SPECIES
-=======
+# Chitonospora ammophila E. Bommer, M. Rousseau & Sacc., 1891 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola acaciorum Speg. SPECIES
-=======
+# Meliola acaciorum Speg. SPECIES
 
 #### Status
 ACCEPTED

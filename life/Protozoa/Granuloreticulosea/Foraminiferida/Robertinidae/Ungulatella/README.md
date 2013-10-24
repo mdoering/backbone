@@ -1,5 +1,4 @@
-Ungulatella Cushman, 1931 GENUS
-=======
+# Ungulatella Cushman, 1931 GENUS
 
 #### Status
 ACCEPTED

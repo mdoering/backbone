@@ -1,5 +1,4 @@
-Trullula nigerrima Speg. SPECIES
-=======
+# Trullula nigerrima Speg. SPECIES
 
 #### Status
 ACCEPTED

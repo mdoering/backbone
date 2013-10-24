@@ -1,5 +1,4 @@
-Anacystis compacta Gardner SPECIES
-=======
+# Anacystis compacta Gardner SPECIES
 
 #### Status
 ACCEPTED

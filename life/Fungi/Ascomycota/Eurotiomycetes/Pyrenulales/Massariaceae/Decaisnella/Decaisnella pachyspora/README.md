@@ -1,5 +1,4 @@
-Decaisnella pachyspora (Sacc.) M.E. Barr SPECIES
-=======
+# Decaisnella pachyspora (Sacc.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

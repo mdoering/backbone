@@ -1,5 +1,4 @@
-Phacidium vincae Fuckel SPECIES
-=======
+# Phacidium vincae Fuckel SPECIES
 
 #### Status
 ACCEPTED

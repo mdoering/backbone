@@ -1,5 +1,4 @@
-Piptarthron crassisporum A.W. Ramaley, 1995 SPECIES
-=======
+# Piptarthron crassisporum A.W. Ramaley, 1995 SPECIES
 
 #### Status
 ACCEPTED

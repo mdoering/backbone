@@ -1,5 +1,4 @@
-Metopus verrucosus (Cunha, 1915) Kahl, 1932 SPECIES
-=======
+# Metopus verrucosus (Cunha, 1915) Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

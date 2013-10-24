@@ -1,5 +1,4 @@
-Myxofusicoccum aucupariae Died. SPECIES
-=======
+# Myxofusicoccum aucupariae Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dennisiella asetosa D.R. Reynolds & G.S. Gilbert, 2005 SPECIES
-=======
+# Dennisiella asetosa D.R. Reynolds & G.S. Gilbert, 2005 SPECIES
 
 #### Status
 ACCEPTED

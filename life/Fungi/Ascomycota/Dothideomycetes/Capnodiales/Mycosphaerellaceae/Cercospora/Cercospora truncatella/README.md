@@ -1,5 +1,4 @@
-Cercospora truncatella G.F. Atk. SPECIES
-=======
+# Cercospora truncatella G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

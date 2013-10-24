@@ -1,5 +1,4 @@
-Lotharingiaceae FAMILY
-=======
+# Lotharingiaceae FAMILY
 
 #### Status
 ACCEPTED

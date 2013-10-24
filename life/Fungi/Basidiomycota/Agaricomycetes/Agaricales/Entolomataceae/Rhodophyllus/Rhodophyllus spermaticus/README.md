@@ -1,5 +1,4 @@
-Rhodophyllus spermaticus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus spermaticus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

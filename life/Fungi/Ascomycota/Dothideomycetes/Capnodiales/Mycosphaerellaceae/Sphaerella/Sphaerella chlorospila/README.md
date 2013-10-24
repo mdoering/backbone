@@ -1,5 +1,4 @@
-Sphaerella chlorospila Sacc. SPECIES
-=======
+# Sphaerella chlorospila Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytophaga hutchinsoni SPECIES
-=======
+# Cytophaga hutchinsoni SPECIES
 
 #### Status
 ACCEPTED

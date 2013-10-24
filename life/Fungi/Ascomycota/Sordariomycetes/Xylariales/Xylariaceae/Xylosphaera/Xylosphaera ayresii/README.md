@@ -1,5 +1,4 @@
-Xylosphaera ayresii (Berk. ex Cooke) Dennis SPECIES
-=======
+# Xylosphaera ayresii (Berk. ex Cooke) Dennis SPECIES
 
 #### Status
 ACCEPTED

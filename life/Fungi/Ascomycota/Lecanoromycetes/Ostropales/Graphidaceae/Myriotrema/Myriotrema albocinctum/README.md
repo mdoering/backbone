@@ -1,5 +1,4 @@
-Myriotrema albocinctum Hale SPECIES
-=======
+# Myriotrema albocinctum Hale SPECIES
 
 #### Status
 ACCEPTED

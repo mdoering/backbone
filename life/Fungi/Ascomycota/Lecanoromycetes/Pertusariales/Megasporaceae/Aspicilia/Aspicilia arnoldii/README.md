@@ -1,5 +1,4 @@
-Aspicilia arnoldii Hue SPECIES
-=======
+# Aspicilia arnoldii Hue SPECIES
 
 #### Status
 ACCEPTED

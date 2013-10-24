@@ -1,5 +1,4 @@
-Squamaria nimbosa SPECIES
-=======
+# Squamaria nimbosa SPECIES
 
 #### Status
 ACCEPTED

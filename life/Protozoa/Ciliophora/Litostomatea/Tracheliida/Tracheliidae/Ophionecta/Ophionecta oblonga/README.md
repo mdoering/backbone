@@ -1,8 +1,7 @@
-Holophrya oblonga Maupas, 1883 SPECIES
-=======
+# Ophionecta oblonga (Maupas, 1883) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

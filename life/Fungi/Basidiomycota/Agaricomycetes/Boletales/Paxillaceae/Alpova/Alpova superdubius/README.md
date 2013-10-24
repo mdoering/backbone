@@ -1,5 +1,4 @@
-Alpova superdubius (Lloyd) Trappe SPECIES
-=======
+# Alpova superdubius (Lloyd) Trappe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cushmanina quadralata (Brady, 1881) SPECIES
-=======
+# Cushmanina quadralata (Brady, 1881) SPECIES
 
 #### Status
 ACCEPTED

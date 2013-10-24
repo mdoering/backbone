@@ -1,5 +1,4 @@
-Helicosporina globulifera G. Arnaud ex Rambelli, 1960 SPECIES
-=======
+# Helicosporina globulifera G. Arnaud ex Rambelli, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dorocysta R.J. Davey, 1970 GENUS
-=======
+# Dorocysta R.J. Davey, 1970 GENUS
 
 #### Status
 ACCEPTED

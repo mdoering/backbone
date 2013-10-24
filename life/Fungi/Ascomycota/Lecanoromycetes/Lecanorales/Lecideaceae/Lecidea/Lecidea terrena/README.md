@@ -1,17 +1,16 @@
-Lecania nodulosa (Stirt.) Zahlbr. SPECIES
-=======
+# Lecidea terrena Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 5: 736 (1928)
+J. Linn. Soc. , Bot. 15: 177 (1876)
 
 #### Original name
-Lecanora nodulosa Stirt.
+Lecidea terrena Nyl.
 
 ### Remarks
 null

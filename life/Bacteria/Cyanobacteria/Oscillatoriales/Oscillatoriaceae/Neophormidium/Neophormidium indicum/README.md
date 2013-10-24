@@ -1,5 +1,4 @@
-Neophormidium indicum P. K. Misra & P. K. Maithy SPECIES
-=======
+# Neophormidium indicum P. K. Misra & P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

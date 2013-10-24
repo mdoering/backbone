@@ -1,5 +1,4 @@
-Opegrapha navicularis Vain. SPECIES
-=======
+# Opegrapha navicularis Vain. SPECIES
 
 #### Status
 ACCEPTED

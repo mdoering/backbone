@@ -1,5 +1,4 @@
-Meliola kisantuensis Hansf. SPECIES
-=======
+# Meliola kisantuensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

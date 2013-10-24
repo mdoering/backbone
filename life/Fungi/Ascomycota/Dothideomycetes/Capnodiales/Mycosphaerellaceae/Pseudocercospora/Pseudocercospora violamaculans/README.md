@@ -1,5 +1,4 @@
-Pseudocercospora violamaculans (Fukui) C. Nakash. & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora violamaculans (Fukui) C. Nakash. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvella ciliaris Wulfen SPECIES
-=======
+# Helvella ciliaris Wulfen SPECIES
 
 #### Status
 ACCEPTED

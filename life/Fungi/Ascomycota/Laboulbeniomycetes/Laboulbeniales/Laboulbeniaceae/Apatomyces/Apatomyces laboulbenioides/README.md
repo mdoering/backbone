@@ -1,5 +1,4 @@
-Apatomyces laboulbenioides Thaxt., 1931 SPECIES
-=======
+# Apatomyces laboulbenioides Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

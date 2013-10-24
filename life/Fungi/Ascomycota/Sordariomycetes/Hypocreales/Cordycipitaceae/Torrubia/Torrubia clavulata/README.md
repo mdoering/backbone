@@ -1,5 +1,4 @@
-Torrubia clavulata Peck SPECIES
-=======
+# Torrubia clavulata Peck SPECIES
 
 #### Status
 ACCEPTED

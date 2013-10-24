@@ -1,5 +1,4 @@
-Mendoziopeltis Bat. GENUS
-=======
+# Mendoziopeltis Bat. GENUS
 
 #### Status
 ACCEPTED

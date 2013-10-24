@@ -1,5 +1,4 @@
-Leptosphaeria napelli E. Müll. SPECIES
-=======
+# Leptosphaeria napelli E. Müll. SPECIES
 
 #### Status
 ACCEPTED

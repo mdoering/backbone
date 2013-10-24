@@ -1,5 +1,4 @@
-Suttoniidae FAMILY
-=======
+# Suttoniidae FAMILY
 
 #### Status
 ACCEPTED

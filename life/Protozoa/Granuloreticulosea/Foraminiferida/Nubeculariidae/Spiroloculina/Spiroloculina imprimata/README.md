@@ -1,5 +1,4 @@
-Spiroloculina imprimata Cushman SPECIES
-=======
+# Spiroloculina imprimata Cushman SPECIES
 
 #### Status
 ACCEPTED

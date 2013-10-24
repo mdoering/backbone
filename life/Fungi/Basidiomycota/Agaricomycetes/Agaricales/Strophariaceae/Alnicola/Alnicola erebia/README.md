@@ -1,5 +1,4 @@
-Alnicola erebia (Huijsman) Romagn. SPECIES
-=======
+# Alnicola erebia (Huijsman) Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyriacites schlangei Straus SPECIES
-=======
+# Microthyriacites schlangei Straus SPECIES
 
 #### Status
 ACCEPTED

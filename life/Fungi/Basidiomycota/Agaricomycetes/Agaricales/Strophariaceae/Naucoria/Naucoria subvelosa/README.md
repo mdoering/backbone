@@ -1,5 +1,4 @@
-Naucoria subvelosa Murrill SPECIES
-=======
+# Naucoria subvelosa Murrill SPECIES
 
 #### Status
 ACCEPTED

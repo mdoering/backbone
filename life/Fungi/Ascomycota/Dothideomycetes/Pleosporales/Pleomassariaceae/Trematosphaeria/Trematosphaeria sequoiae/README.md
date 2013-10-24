@@ -1,5 +1,4 @@
-Trematosphaeria sequoiae Gucevic SPECIES
-=======
+# Trematosphaeria sequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus humuli P. Karst. SPECIES
-=======
+# Ophiobolus humuli P. Karst. SPECIES
 
 #### Status
 ACCEPTED

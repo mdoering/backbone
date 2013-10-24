@@ -1,5 +1,4 @@
-Hygrocybe mexicana f. defibulata Desjardin & Hemmes FORM
-=======
+# Hygrocybe mexicana Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mycologia 89(4): 618 (1997)
+Sydowia 12: 225 (1959)
 
 #### Original name
-Hygrocybe mexicana f. defibulata Desjardin & Hemmes
+Hygrocybe mexicana Singer
 
 ### Remarks
 null

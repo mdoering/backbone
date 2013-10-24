@@ -1,5 +1,4 @@
-Cladosporium heterophragmatis S.A. Khan & M. Kamal, 1962 SPECIES
-=======
+# Cladosporium heterophragmatis S.A. Khan & M. Kamal, 1962 SPECIES
 
 #### Status
 ACCEPTED

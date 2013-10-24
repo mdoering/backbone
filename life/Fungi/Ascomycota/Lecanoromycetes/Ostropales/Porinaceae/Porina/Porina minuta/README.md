@@ -1,5 +1,4 @@
-Porina minuta Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Porina minuta Bat., J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

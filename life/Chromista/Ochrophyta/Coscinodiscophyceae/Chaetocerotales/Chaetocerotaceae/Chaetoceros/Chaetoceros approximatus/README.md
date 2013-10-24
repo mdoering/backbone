@@ -1,5 +1,4 @@
-Chaetoceros approximatus var. approximatus VARIETY
-=======
+# Chaetoceros approximatus H.H.Gran & E.C.Angst SPECIES
 
 #### Status
 ACCEPTED

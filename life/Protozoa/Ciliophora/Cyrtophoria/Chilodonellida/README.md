@@ -1,5 +1,4 @@
-Chilodonellida ORDER
-=======
+# Chilodonellida ORDER
 
 #### Status
 ACCEPTED

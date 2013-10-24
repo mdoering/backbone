@@ -1,5 +1,4 @@
-Septocylindrium concomitans (Ellis & Holw.) Halst. SPECIES
-=======
+# Septocylindrium concomitans (Ellis & Holw.) Halst. SPECIES
 
 #### Status
 ACCEPTED

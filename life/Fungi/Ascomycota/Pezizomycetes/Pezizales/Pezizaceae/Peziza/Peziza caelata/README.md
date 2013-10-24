@@ -1,5 +1,4 @@
-Peziza caelata Pers. SPECIES
-=======
+# Peziza caelata Pers. SPECIES
 
 #### Status
 ACCEPTED

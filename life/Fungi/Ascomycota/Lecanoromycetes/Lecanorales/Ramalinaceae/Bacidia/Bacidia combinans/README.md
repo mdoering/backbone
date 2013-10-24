@@ -1,5 +1,4 @@
-Bacidia combinans (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia combinans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

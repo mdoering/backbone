@@ -1,5 +1,4 @@
-Septoria ignatiana Unamuno SPECIES
-=======
+# Septoria ignatiana Unamuno SPECIES
 
 #### Status
 ACCEPTED

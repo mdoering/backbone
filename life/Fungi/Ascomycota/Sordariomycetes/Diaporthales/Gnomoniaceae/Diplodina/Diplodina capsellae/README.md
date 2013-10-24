@@ -1,5 +1,4 @@
-Diplodina capsellae Bondartsev SPECIES
-=======
+# Diplodina capsellae Bondartsev SPECIES
 
 #### Status
 ACCEPTED

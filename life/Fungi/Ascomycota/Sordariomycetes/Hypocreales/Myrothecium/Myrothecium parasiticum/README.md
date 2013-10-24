@@ -1,5 +1,4 @@
-Myrothecium parasiticum Tropova & Zerova SPECIES
-=======
+# Myrothecium parasiticum Tropova & Zerova SPECIES
 
 #### Status
 ACCEPTED

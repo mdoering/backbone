@@ -1,14 +1,13 @@
-Psoroma euphyllum Nyl. SPECIES
-=======
+# Pannaria euphylla (Nyl.) Elvebakk & D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. lich. 2: 21 (1863)
+Australasian Lichenology 53: 7 (2003)
 
 #### Original name
 Psoroma euphyllum Nyl.

@@ -1,5 +1,4 @@
-Saccharothrix texasensis Labeda & Lyons, 1989 SPECIES
-=======
+# Saccharothrix texasensis Labeda & Lyons, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria difformis Scop. SPECIES
-=======
+# Poria difformis Scop. SPECIES
 
 #### Status
 ACCEPTED

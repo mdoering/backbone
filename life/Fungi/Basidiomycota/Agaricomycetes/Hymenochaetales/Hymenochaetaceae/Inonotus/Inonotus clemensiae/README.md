@@ -1,5 +1,4 @@
-Inonotus clemensiae Murrill, 1908 SPECIES
-=======
+# Inonotus clemensiae Murrill, 1908 SPECIES
 
 #### Status
 ACCEPTED

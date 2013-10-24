@@ -1,14 +1,13 @@
-Prillieuxina tecleae (Doidge) Arx, 1962 SPECIES
-=======
+# Asterinella tecleae Doidge, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 11(2): 134 (1962)
+Bothalia 4(2): 338 (1942)
 
 #### Original name
 Asterinella tecleae Doidge, 1942

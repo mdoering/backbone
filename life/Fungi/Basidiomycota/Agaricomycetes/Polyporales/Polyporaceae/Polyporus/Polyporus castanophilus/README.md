@@ -1,5 +1,4 @@
-Polyporus castanophilus G.F. Atk. SPECIES
-=======
+# Polyporus castanophilus G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

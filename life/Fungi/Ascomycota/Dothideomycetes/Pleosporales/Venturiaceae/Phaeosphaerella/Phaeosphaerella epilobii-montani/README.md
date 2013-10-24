@@ -1,5 +1,4 @@
-Phaeosphaerella epilobii-montani (Lobik) Tomilin SPECIES
-=======
+# Phaeosphaerella epilobii-montani (Lobik) Tomilin SPECIES
 
 #### Status
 ACCEPTED

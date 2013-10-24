@@ -1,5 +1,4 @@
-Parmelia corrugis var. corrugis VARIETY
-=======
+# Parmelia corrugis (Fr.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 70: 59 (1887)
 
 #### Original name
-Parmelia corrugis var. corrugis
+Cetraria corrugis Fr.
 
 ### Remarks
 null

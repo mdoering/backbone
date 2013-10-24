@@ -1,5 +1,4 @@
-Tilletia panici-humilis Pavgi & Thirum. SPECIES
-=======
+# Tilletia panici-humilis Pavgi & Thirum. SPECIES
 
 #### Status
 ACCEPTED

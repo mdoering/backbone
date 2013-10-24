@@ -1,5 +1,4 @@
-Coniothecium tenue Died. SPECIES
-=======
+# Coniothecium tenue Died. SPECIES
 
 #### Status
 ACCEPTED

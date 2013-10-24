@@ -1,5 +1,4 @@
-Lichenopyrenis galligena Calat., M.J. Sanz & Aptroot SPECIES
-=======
+# Lichenopyrenis galligena Calat., M.J. Sanz & Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplococcium verruculosum A.C. Cruz, Gusmão & R.F. Castañeda, 2007 SPECIES
-=======
+# Diplococcium verruculosum A.C. Cruz, Gusmão & R.F. Castañeda, 2007 SPECIES
 
 #### Status
 ACCEPTED

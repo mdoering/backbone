@@ -1,5 +1,4 @@
-Dendrodochium melleum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Dendrodochium melleum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

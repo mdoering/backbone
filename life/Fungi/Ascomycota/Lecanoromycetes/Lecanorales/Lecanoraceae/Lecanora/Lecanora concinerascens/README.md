@@ -1,5 +1,4 @@
-Lecanora concinerascens Nyl. SPECIES
-=======
+# Lecanora concinerascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiosphaeridia hokkaidoana Takahashi, 1965 SPECIES
-=======
+# Leiosphaeridia hokkaidoana Takahashi, 1965 SPECIES
 
 #### Status
 ACCEPTED

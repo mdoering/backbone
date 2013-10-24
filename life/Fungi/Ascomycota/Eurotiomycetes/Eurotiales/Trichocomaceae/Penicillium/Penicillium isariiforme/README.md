@@ -1,17 +1,16 @@
-Penicillium isariaeforme Stolk & J.A. Mey. SPECIES
-=======
+# Penicillium isariiforme Stolk & J.A. Mey., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 40(2): 187 (1957)
 
 #### Original name
-Penicillium isariaeforme Stolk & J.A. Mey.
+Penicillium isariiforme Stolk & J.A. Mey., 1957
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thelotrema carneoradians Sipman SPECIES
-=======
+# Thelotrema carneoradians Sipman SPECIES
 
 #### Status
 ACCEPTED

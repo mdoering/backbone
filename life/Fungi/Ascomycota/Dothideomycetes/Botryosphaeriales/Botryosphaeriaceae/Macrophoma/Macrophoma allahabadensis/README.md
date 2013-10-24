@@ -1,5 +1,4 @@
-Macrophoma allahabadensis I.J. Kapoor & Tandon SPECIES
-=======
+# Macrophoma allahabadensis I.J. Kapoor & Tandon SPECIES
 
 #### Status
 ACCEPTED

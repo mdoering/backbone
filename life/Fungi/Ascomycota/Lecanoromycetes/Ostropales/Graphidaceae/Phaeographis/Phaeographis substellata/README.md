@@ -1,5 +1,4 @@
-Phaeographis substellata Zahlbr. SPECIES
-=======
+# Phaeographis substellata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

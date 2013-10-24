@@ -1,5 +1,4 @@
-Marchandiomyces lignicola Lawrey & Diederich, 2005 SPECIES
-=======
+# Marchandiomyces lignicola Lawrey & Diederich, 2005 SPECIES
 
 #### Status
 ACCEPTED

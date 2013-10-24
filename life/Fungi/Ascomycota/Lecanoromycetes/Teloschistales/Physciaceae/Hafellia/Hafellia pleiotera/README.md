@@ -1,14 +1,13 @@
-Buellia pleiotera Malme SPECIES
-=======
+# Hafellia pleiotera (Malme) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 74: 274 (2000)
 
 #### Original name
 Buellia pleiotera Malme

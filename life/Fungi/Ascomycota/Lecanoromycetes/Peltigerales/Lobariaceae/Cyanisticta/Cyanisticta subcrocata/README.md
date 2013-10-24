@@ -1,5 +1,4 @@
-Cyanisticta subcrocata Gyeln. SPECIES
-=======
+# Cyanisticta subcrocata Gyeln. SPECIES
 
 #### Status
 ACCEPTED

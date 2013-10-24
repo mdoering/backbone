@@ -1,5 +1,4 @@
-Arthonia crustacea Dufour SPECIES
-=======
+# Arthonia crustacea Dufour SPECIES
 
 #### Status
 ACCEPTED

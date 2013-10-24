@@ -1,5 +1,4 @@
-Meliola varroniae Deighton SPECIES
-=======
+# Meliola varroniae Deighton SPECIES
 
 #### Status
 ACCEPTED

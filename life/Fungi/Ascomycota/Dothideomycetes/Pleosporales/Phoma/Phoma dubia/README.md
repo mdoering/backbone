@@ -1,14 +1,13 @@
-Phymatopsis dubia Linds., 1867 SPECIES
-=======
+# Phoma dubia (Linds.) Sacc. & Trotter, 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. R. Soc. Edinb. 24: 442 (1867)
+Syll. fung. (Abellini) 22: 897 (1913)
 
 #### Original name
 Phymatopsis dubia Linds., 1867

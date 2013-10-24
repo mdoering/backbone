@@ -1,5 +1,4 @@
-Dryorhizopsidae FAMILY
-=======
+# Dryorhizopsidae FAMILY
 
 #### Status
 ACCEPTED

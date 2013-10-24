@@ -1,5 +1,4 @@
-Baeomyces pilatensis M. Choisy SPECIES
-=======
+# Baeomyces pilatensis M. Choisy SPECIES
 
 #### Status
 ACCEPTED

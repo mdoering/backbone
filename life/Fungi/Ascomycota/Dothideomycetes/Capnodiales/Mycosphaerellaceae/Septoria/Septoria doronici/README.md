@@ -1,5 +1,4 @@
-Septoria doronici Pass. SPECIES
-=======
+# Septoria doronici Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplauxis hatti Vivier, Ormieres & Tuzet, 1964 SPECIES
-=======
+# Diplauxis hatti Vivier, Ormieres & Tuzet, 1964 SPECIES
 
 #### Status
 ACCEPTED

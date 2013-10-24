@@ -1,5 +1,4 @@
-Metasphaeria lineolata Fautrey & Roum. SPECIES
-=======
+# Metasphaeria lineolata Fautrey & Roum. SPECIES
 
 #### Status
 ACCEPTED

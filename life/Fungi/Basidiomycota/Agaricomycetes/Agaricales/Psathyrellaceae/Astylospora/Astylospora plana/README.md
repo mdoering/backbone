@@ -1,5 +1,4 @@
-Astylospora plana Murrill SPECIES
-=======
+# Astylospora plana Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus paulistensis Y. Horie, Miyaji & Nishim. SPECIES
-=======
+# Aspergillus paulistensis Y. Horie, Miyaji & Nishim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora alhagicola S. Ahmad SPECIES
-=======
+# Stagonospora alhagicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

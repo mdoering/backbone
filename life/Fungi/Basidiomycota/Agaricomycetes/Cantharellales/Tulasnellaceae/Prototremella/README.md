@@ -1,5 +1,4 @@
-Prototremella GENUS
-=======
+# Prototremella GENUS
 
 #### Status
 ACCEPTED

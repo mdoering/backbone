@@ -1,5 +1,4 @@
-Colletotrichum violae Savul. & Sandu SPECIES
-=======
+# Colletotrichum violae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

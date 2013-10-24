@@ -1,5 +1,4 @@
-Arthonia kauaiensis H. Magn. SPECIES
-=======
+# Arthonia kauaiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

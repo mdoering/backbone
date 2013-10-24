@@ -1,5 +1,4 @@
-Peltigera behringiana Gyeln. SPECIES
-=======
+# Peltigera behringiana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

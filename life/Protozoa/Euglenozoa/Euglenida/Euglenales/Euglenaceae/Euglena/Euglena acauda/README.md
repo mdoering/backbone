@@ -1,8 +1,7 @@
-Euglena acus var. acauda Swirenko VARIETY
-=======
+# Euglena acauda (Swirenko) Popowa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

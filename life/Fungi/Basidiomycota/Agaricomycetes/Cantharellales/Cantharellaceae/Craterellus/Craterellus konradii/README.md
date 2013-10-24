@@ -1,5 +1,4 @@
-Craterellus konradii Bourdot & Maire SPECIES
-=======
+# Craterellus konradii Bourdot & Maire SPECIES
 
 #### Status
 ACCEPTED

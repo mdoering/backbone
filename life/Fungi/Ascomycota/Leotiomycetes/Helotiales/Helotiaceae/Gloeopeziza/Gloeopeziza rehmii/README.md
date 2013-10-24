@@ -1,5 +1,4 @@
-Gloeopeziza rehmii Zukal, 1891 SPECIES
-=======
+# Gloeopeziza rehmii Zukal, 1891 SPECIES
 
 #### Status
 ACCEPTED

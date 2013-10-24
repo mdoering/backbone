@@ -1,5 +1,4 @@
-Marasmius ascendens Petch SPECIES
-=======
+# Marasmius ascendens Petch SPECIES
 
 #### Status
 ACCEPTED

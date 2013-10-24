@@ -1,5 +1,4 @@
-Clitocybe leopardina H.E. Bigelow SPECIES
-=======
+# Clitocybe leopardina H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora ononidis Picb. SPECIES
-=======
+# Pleospora ononidis Picb. SPECIES
 
 #### Status
 ACCEPTED

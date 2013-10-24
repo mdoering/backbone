@@ -1,5 +1,4 @@
-Diaporthe lineariformis Petr. SPECIES
-=======
+# Diaporthe lineariformis Petr. SPECIES
 
 #### Status
 ACCEPTED

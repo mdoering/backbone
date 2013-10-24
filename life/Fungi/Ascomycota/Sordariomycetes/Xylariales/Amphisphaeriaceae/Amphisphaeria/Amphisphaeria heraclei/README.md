@@ -1,5 +1,4 @@
-Amphisphaeria heraclei Noelli {?} SPECIES
-=======
+# Amphisphaeria heraclei Noelli {?} SPECIES
 
 #### Status
 ACCEPTED

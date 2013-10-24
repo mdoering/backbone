@@ -1,5 +1,4 @@
-Spermoedia maydis Duby SPECIES
-=======
+# Spermoedia maydis Duby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus cyclophilus Lasch SPECIES
-=======
+# Agaricus cyclophilus Lasch SPECIES
 
 #### Status
 ACCEPTED

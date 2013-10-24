@@ -1,5 +1,4 @@
-Tyromyces citriniporus Corner SPECIES
-=======
+# Tyromyces citriniporus Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Niptera coriariae (Pass.) Sacc. SPECIES
-=======
+# Niptera coriariae (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

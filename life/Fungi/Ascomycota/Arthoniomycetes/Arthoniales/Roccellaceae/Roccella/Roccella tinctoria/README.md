@@ -1,5 +1,4 @@
-Roccella tinctoria DC. SPECIES
-=======
+# Roccella tinctoria DC. SPECIES
 
 #### Status
 ACCEPTED

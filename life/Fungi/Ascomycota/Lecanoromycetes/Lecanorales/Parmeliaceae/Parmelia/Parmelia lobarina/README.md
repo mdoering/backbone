@@ -1,5 +1,4 @@
-Parmelia lobarina Zahlbr. SPECIES
-=======
+# Parmelia lobarina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

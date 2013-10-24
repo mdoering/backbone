@@ -1,14 +1,13 @@
-Pannaria thysanota Stirt. SPECIES
-=======
+# Parmeliella thysanota (Stirt.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 3: 225 (1925)
 
 #### Original name
 Pannaria thysanota Stirt.

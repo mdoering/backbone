@@ -1,5 +1,4 @@
-Marasmius omphaliiformis Kühner SPECIES
-=======
+# Marasmius omphaliiformis Kühner SPECIES
 
 #### Status
 ACCEPTED

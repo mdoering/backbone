@@ -1,5 +1,4 @@
-Pseudographis phragmitis Dearn. & House SPECIES
-=======
+# Pseudographis phragmitis Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

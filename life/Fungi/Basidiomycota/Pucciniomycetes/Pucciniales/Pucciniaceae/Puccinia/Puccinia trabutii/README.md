@@ -1,5 +1,4 @@
-Puccinia trabutii Roum. & Sacc. SPECIES
-=======
+# Puccinia trabutii Roum. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnodium citricola McAlpine SPECIES
-=======
+# Capnodium citricola McAlpine SPECIES
 
 #### Status
 ACCEPTED

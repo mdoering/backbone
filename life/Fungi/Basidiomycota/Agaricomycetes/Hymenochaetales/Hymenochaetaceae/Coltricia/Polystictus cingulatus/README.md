@@ -1,5 +1,4 @@
-Polystictus cingulatus f. pleuropoda Henn. FORM
-=======
+# Polystictus cingulatus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Bot. Jb. (1896)
+Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 89 (1851)
 
 #### Original name
-Polystictus cingulatus f. pleuropoda Henn.
+Polyporus cingulatus Fr.
 
 ### Remarks
 null

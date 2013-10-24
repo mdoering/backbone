@@ -1,5 +1,4 @@
-Rhizocarpon subconcentricum (Körb.) Körb. SPECIES
-=======
+# Rhizocarpon subconcentricum (Körb.) Körb. SPECIES
 
 #### Status
 ACCEPTED

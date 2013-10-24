@@ -1,5 +1,4 @@
-Entoloma egregium E. Horak SPECIES
-=======
+# Entoloma egregium E. Horak SPECIES
 
 #### Status
 ACCEPTED

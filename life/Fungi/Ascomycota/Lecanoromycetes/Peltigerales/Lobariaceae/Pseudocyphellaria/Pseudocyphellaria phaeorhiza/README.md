@@ -1,5 +1,4 @@
-Pseudocyphellaria phaeorhiza Vain. SPECIES
-=======
+# Pseudocyphellaria phaeorhiza Vain. SPECIES
 
 #### Status
 ACCEPTED

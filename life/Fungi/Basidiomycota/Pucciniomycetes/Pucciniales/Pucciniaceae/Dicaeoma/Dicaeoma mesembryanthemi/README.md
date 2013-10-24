@@ -1,5 +1,4 @@
-Dicaeoma mesembryanthemi (MacOwan) Kuntze SPECIES
-=======
+# Dicaeoma mesembryanthemi (MacOwan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenomonas infelix Moore et al., 1987 SPECIES
-=======
+# Selenomonas infelix Moore et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

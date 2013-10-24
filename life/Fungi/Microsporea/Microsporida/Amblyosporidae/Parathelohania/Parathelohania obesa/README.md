@@ -1,5 +1,4 @@
-Parathelohania obesa (R. Kudo) SPECIES
-=======
+# Parathelohania obesa (R. Kudo) SPECIES
 
 #### Status
 ACCEPTED

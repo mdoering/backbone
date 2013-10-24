@@ -1,5 +1,4 @@
-Staurolithites mutterlosei SPECIES
-=======
+# Staurolithites mutterlosei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyttarocylis obscura SPECIES
-=======
+# Cyttarocylis obscura SPECIES
 
 #### Status
 ACCEPTED

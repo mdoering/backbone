@@ -1,17 +1,16 @@
-Camarosporium buddleiae Tassi SPECIES
-=======
+# Camarosporium buddlejae Tassi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin Labor. Orto Bot. de R. Univ. Siena 4: 11 (1901)
 
 #### Original name
-Camarosporium buddleiae Tassi
+Camarosporium buddlejae Tassi
 
 ### Remarks
 null

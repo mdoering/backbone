@@ -1,5 +1,4 @@
-Microeurotium Ghatak GENUS
-=======
+# Microeurotium Ghatak GENUS
 
 #### Status
 ACCEPTED

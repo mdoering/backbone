@@ -1,5 +1,4 @@
-Nummularia fossulata (Mont.) Cooke SPECIES
-=======
+# Nummularia fossulata (Mont.) Cooke SPECIES
 
 #### Status
 ACCEPTED

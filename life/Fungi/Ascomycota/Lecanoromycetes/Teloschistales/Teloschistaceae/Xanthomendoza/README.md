@@ -1,5 +1,4 @@
-Xanthomendoza S.Y. Kondr. & Kärnefelt GENUS
-=======
+# Xanthomendoza S.Y. Kondr. & Kärnefelt GENUS
 
 #### Status
 ACCEPTED

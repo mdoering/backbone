@@ -1,5 +1,4 @@
-Cucurbitaria collabens (Berk. & Cooke) Kuntze SPECIES
-=======
+# Cucurbitaria collabens (Berk. & Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

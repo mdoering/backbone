@@ -1,5 +1,4 @@
-Echinoplaca tricharioides Kalb & Vezda SPECIES
-=======
+# Echinoplaca tricharioides Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

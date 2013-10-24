@@ -1,5 +1,4 @@
-Ocellularia flavida Hale SPECIES
-=======
+# Ocellularia flavida Hale SPECIES
 
 #### Status
 ACCEPTED

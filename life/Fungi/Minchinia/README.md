@@ -1,5 +1,4 @@
-Minchinia Labbé, 1896 GENUS
-=======
+# Minchinia Labbé, 1896 GENUS
 
 #### Status
 ACCEPTED

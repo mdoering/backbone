@@ -1,5 +1,4 @@
-Alexandrium andersoni Balech, 1990 SPECIES
-=======
+# Alexandrium andersoni Balech, 1990 SPECIES
 
 #### Status
 ACCEPTED

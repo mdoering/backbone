@@ -1,5 +1,4 @@
-Cymatiogalea diversita Rasul, 1974 SPECIES
-=======
+# Cymatiogalea diversita Rasul, 1974 SPECIES
 
 #### Status
 ACCEPTED

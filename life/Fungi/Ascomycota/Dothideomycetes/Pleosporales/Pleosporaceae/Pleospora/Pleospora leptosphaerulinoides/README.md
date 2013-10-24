@@ -1,5 +1,4 @@
-Pleospora leptosphaerulinoides Crivelli, 1983 SPECIES
-=======
+# Pleospora leptosphaerulinoides Crivelli, 1983 SPECIES
 
 #### Status
 ACCEPTED

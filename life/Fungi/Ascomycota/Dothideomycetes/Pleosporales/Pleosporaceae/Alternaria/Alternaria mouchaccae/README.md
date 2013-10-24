@@ -1,14 +1,13 @@
-Ulocladium chlamydosporum Mouch., 1971 SPECIES
-=======
+# Alternaria mouchaccae E.G. Simmons, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 36(2): 114 (1971)
+Mycotaxon 13(1): 18 (1981)
 
 #### Original name
 Ulocladium chlamydosporum Mouch., 1971

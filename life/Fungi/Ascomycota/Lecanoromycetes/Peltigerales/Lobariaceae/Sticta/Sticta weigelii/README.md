@@ -1,5 +1,4 @@
-Sticta weigelii f. weigelii FORM
-=======
+# Sticta weigelii Isert SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Acharius, Acta Soc. Fauna Flora fenn. 7(1): 189 (1890)
 
 #### Original name
-Sticta weigelii f. weigelii
+Sticta weigelii Isert
 
 ### Remarks
 null

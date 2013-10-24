@@ -1,5 +1,4 @@
-Melanothecopsis GENUS
-=======
+# Melanothecopsis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina polytrichina Racov. SPECIES
-=======
+# Diplodina polytrichina Racov. SPECIES
 
 #### Status
 ACCEPTED

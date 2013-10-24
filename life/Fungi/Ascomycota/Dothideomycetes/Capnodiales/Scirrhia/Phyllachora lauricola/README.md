@@ -1,5 +1,4 @@
-Phyllachora lauricola (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora lauricola (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

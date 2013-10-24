@@ -1,5 +1,4 @@
-Bacidia papantlensis Vain. SPECIES
-=======
+# Bacidia papantlensis Vain. SPECIES
 
 #### Status
 ACCEPTED

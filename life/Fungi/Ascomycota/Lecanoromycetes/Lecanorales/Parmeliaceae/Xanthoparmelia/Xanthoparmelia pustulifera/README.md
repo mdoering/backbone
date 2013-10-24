@@ -1,5 +1,4 @@
-Xanthoparmelia pustulifera Hale, T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia pustulifera Hale, T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

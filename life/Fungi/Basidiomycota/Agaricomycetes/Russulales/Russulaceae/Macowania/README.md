@@ -1,5 +1,4 @@
-Macowania GENUS
-=======
+# Macowania GENUS
 
 #### Status
 ACCEPTED

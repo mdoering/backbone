@@ -1,5 +1,4 @@
-Gloniopsis araucana Speg. SPECIES
-=======
+# Gloniopsis araucana Speg. SPECIES
 
 #### Status
 ACCEPTED

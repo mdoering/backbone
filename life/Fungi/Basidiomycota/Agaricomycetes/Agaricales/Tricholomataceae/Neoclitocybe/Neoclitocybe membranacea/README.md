@@ -1,5 +1,4 @@
-Neoclitocybe membranacea Singer SPECIES
-=======
+# Neoclitocybe membranacea Singer SPECIES
 
 #### Status
 ACCEPTED

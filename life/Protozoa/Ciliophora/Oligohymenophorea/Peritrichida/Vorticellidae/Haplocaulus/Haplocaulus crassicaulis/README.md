@@ -1,5 +1,4 @@
-Haplocaulus crassicaulis (Kent, 1881) Stiller, 1971 SPECIES
-=======
+# Haplocaulus crassicaulis (Kent, 1881) Stiller, 1971 SPECIES
 
 #### Status
 ACCEPTED

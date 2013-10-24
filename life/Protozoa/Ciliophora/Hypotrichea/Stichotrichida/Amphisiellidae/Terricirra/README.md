@@ -1,14 +1,13 @@
-Tericirra GENUS
-=======
+# Terricirra Berger & Foissner, 1989 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull Br Mus (Nat Hist) Zool 55 (1): 35.
 
 #### Original name
 null

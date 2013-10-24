@@ -1,5 +1,4 @@
-Lactarius mordax Thiers SPECIES
-=======
+# Lactarius mordax Thiers SPECIES
 
 #### Status
 ACCEPTED

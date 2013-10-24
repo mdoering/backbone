@@ -1,5 +1,4 @@
-Clathrus parvulus Bres. & Roum. SPECIES
-=======
+# Clathrus parvulus Bres. & Roum. SPECIES
 
 #### Status
 ACCEPTED

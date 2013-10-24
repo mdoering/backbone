@@ -1,5 +1,4 @@
-Russula mallophora Singer SPECIES
-=======
+# Russula mallophora Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina herbicola (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Diplodina herbicola (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

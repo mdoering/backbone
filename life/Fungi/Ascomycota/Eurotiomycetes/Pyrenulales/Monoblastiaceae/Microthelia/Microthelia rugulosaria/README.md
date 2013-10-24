@@ -1,5 +1,4 @@
-Microthelia rugulosaria Linds. SPECIES
-=======
+# Microthelia rugulosaria Linds. SPECIES
 
 #### Status
 ACCEPTED

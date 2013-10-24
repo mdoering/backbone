@@ -1,5 +1,4 @@
-Stereocaulon piluliferum var. piluliferum VARIETY
-=======
+# Stereocaulon piluliferum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stereocaulon piluliferum var. piluliferum
+Stereocaulon piluliferum Th. Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Porina fernandeziana Zahlbr. SPECIES
-=======
+# Porina fernandeziana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

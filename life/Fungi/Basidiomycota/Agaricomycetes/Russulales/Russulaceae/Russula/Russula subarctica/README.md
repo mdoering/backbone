@@ -1,5 +1,4 @@
-Russula subarctica I.L. Brunner SPECIES
-=======
+# Russula subarctica I.L. Brunner SPECIES
 
 #### Status
 ACCEPTED

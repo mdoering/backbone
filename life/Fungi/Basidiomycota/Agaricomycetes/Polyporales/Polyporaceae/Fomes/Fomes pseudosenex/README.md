@@ -1,14 +1,13 @@
-Phellinus pseudosenex (Murrill) Bondartseva & S. Herrera, 1980 SPECIES
-=======
+# Fomes pseudosenex (Murrill) Sacc. & Trotter, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mikol. Fitopatol. 14(1): 9 (1980)
+Syll. fung. (Abellini) 21: 292 (1912)
 
 #### Original name
 Pyropolyporus pseudosenex Murrill, 1908

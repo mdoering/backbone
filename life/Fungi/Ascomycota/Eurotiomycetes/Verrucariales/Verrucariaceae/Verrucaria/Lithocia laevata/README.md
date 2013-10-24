@@ -1,5 +1,4 @@
-Lithocia laevata (Ach.) A. Massal. SPECIES
-=======
+# Lithocia laevata (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

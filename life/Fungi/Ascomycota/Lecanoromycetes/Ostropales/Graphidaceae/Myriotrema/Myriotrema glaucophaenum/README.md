@@ -1,5 +1,4 @@
-Myriotrema glaucophaenum (Kremp.) Hale SPECIES
-=======
+# Myriotrema glaucophaenum (Kremp.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nostoc microscopicum Carmichael SPECIES
-=======
+# Nostoc microscopicum Carmichael SPECIES
 
 #### Status
 ACCEPTED

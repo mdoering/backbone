@@ -1,5 +1,4 @@
-Russula versatilis Romagn., 1962 SPECIES
-=======
+# Russula versatilis Romagn., 1962 SPECIES
 
 #### Status
 ACCEPTED

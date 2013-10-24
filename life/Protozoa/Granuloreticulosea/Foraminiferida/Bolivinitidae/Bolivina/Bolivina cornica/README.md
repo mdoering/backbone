@@ -1,5 +1,4 @@
-Bolivina cornica Cushman SPECIES
-=======
+# Bolivina cornica Cushman SPECIES
 
 #### Status
 ACCEPTED

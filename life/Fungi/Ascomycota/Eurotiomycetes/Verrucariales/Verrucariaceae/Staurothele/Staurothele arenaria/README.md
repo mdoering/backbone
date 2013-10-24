@@ -1,5 +1,4 @@
-Staurothele arenaria Malme SPECIES
-=======
+# Staurothele arenaria Malme SPECIES
 
 #### Status
 ACCEPTED

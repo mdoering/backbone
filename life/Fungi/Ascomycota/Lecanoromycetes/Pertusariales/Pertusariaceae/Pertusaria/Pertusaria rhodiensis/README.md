@@ -1,5 +1,4 @@
-Pertusaria rhodiensis Erichsen SPECIES
-=======
+# Pertusaria rhodiensis Erichsen SPECIES
 
 #### Status
 ACCEPTED

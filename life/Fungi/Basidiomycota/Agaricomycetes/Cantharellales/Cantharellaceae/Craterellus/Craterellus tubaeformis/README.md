@@ -1,17 +1,16 @@
-Cantharellus lutescens f. lutescens FORM
-=======
+# Craterellus tubaeformis (Schaeff.) Quél., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. mycol. (Paris) 36 (1888)
 
 #### Original name
-null
+Helvella tubaeformis Schaeff., 1763
 
 ### Remarks
 null

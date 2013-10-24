@@ -1,5 +1,4 @@
-Asterella alsophilae (Cooke & Massee) Sacc. SPECIES
-=======
+# Asterella alsophilae (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

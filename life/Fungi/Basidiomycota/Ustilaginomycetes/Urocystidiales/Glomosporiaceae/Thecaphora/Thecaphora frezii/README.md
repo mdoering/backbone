@@ -1,5 +1,4 @@
-Thecaphora frezii Carranza & J.C. Lindq. SPECIES
-=======
+# Thecaphora frezii Carranza & J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Kuetzingina O. Kuntze, 1898 GENUS
-=======
+# Homoeothrix (G. Thuret ex E. Bornet & C. Flahault) O. Kirchner in A. Engler & Prantl, 1898 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rev. Gener. Pl. 3(3): 411.
+In Engler & Prantl, Nat. Pflanzenfam. 1(1a): 87.
 
 #### Original name
 null

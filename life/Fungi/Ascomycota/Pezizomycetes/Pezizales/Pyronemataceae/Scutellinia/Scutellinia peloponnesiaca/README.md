@@ -1,5 +1,4 @@
-Scutellinia peloponnesiaca J. Moravec SPECIES
-=======
+# Scutellinia peloponnesiaca J. Moravec SPECIES
 
 #### Status
 ACCEPTED

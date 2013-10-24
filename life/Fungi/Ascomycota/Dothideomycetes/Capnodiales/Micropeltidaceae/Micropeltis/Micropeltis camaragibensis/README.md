@@ -1,5 +1,4 @@
-Micropeltis camaragibensis Bat. SPECIES
-=======
+# Micropeltis camaragibensis Bat. SPECIES
 
 #### Status
 ACCEPTED

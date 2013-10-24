@@ -1,5 +1,4 @@
-Rhytismites feroniae (Ettingsh.) Mesch. SPECIES
-=======
+# Rhytismites feroniae (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

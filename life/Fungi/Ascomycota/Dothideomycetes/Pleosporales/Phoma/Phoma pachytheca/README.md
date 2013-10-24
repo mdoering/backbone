@@ -1,5 +1,4 @@
-Phoma pachytheca Vestergr. SPECIES
-=======
+# Phoma pachytheca Vestergr. SPECIES
 
 #### Status
 ACCEPTED

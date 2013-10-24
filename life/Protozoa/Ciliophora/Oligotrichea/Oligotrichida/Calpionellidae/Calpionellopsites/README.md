@@ -1,5 +1,4 @@
-Calpionellopsites Nagy, 1986 GENUS
-=======
+# Calpionellopsites Nagy, 1986 GENUS
 
 #### Status
 ACCEPTED

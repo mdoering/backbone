@@ -1,17 +1,16 @@
-Nectria inaurata Berk. & Broome, 1854 SPECIES
-=======
+# Nectria aquifolii (Fr.) Berk., 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 13: (1854)
+Outl. Brit. Fung. (London) 393 (1860)
 
 #### Original name
-Nectria inaurata Berk. & Broome, 1854
+Sphaeria aquifolii Fr., 1828
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aspicilia planatula Motyka SPECIES
-=======
+# Aspicilia planatula Motyka SPECIES
 
 #### Status
 ACCEPTED

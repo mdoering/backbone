@@ -1,5 +1,4 @@
-Davincia sydowiana Petr. SPECIES
-=======
+# Davincia sydowiana Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum nanum Saut. SPECIES
-=======
+# Hydnum nanum Saut. SPECIES
 
 #### Status
 ACCEPTED

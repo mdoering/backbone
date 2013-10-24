@@ -1,5 +1,4 @@
-Agaricus contingens With. SPECIES
-=======
+# Agaricus contingens With. SPECIES
 
 #### Status
 ACCEPTED

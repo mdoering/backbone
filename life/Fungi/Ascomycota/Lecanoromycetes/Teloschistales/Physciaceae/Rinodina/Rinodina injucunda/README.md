@@ -1,5 +1,4 @@
-Rinodina injucunda SPECIES
-=======
+# Rinodina injucunda SPECIES
 
 #### Status
 ACCEPTED

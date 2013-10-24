@@ -1,5 +1,4 @@
-Dendryphiopsis recta (Berk. & M.A. Curtis) M.B. Ellis SPECIES
-=======
+# Dendryphiopsis recta (Berk. & M.A. Curtis) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

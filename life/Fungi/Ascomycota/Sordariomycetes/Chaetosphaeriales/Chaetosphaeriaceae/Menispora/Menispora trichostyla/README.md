@@ -1,5 +1,4 @@
-Menispora trichostyla Corda SPECIES
-=======
+# Menispora trichostyla Corda SPECIES
 
 #### Status
 ACCEPTED

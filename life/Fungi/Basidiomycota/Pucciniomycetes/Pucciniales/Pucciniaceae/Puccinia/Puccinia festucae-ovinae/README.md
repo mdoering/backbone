@@ -1,5 +1,4 @@
-Puccinia festucae-ovinae F.L. Tai SPECIES
-=======
+# Puccinia festucae-ovinae F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

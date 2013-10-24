@@ -1,5 +1,4 @@
-Vaucheria nanandra Entwisle SPECIES
-=======
+# Vaucheria nanandra Entwisle SPECIES
 
 #### Status
 ACCEPTED

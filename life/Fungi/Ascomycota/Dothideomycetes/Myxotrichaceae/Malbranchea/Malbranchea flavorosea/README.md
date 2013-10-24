@@ -1,5 +1,4 @@
-Malbranchea flavorosea Sigler & J.W. Carmich., 1976 SPECIES
-=======
+# Malbranchea flavorosea Sigler & J.W. Carmich., 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paecilomyces indicus J.N. Rai, J.P. Tewari & Mukerji SPECIES
-=======
+# Paecilomyces indicus J.N. Rai, J.P. Tewari & Mukerji SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmospathula papillifera (Henn.) B. Sutton SPECIES
-=======
+# Phragmospathula papillifera (Henn.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

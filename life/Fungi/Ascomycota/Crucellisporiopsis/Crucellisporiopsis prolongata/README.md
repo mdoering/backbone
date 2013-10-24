@@ -1,17 +1,16 @@
-Crucellisporiopsis prolongatus Brub., Rawla & R. Sharma SPECIES
-=======
+# Crucellisporiopsis prolongata Brub., Rawla & R. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 21: 449 (1984)
 
 #### Original name
-Crucellisporiopsis prolongatus Brub., Rawla & R. Sharma
+Crucellisporiopsis prolongata Brub., Rawla & R. Sharma
 
 ### Remarks
 null

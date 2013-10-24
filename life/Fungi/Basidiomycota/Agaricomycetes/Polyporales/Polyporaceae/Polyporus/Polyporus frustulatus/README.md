@@ -1,5 +1,4 @@
-Polyporus frustulatus Pers. SPECIES
-=======
+# Polyporus frustulatus Pers. SPECIES
 
 #### Status
 ACCEPTED

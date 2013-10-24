@@ -1,14 +1,13 @@
-Athelia lacerata (Litsch.) Krieglst., 1992 SPECIES
-=======
+# Athelopsis lacerata (Litsch.) J. Erikss. & Ryvarden, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kenntn. Pilze Mitteleur. 8: 174 (1992)
+Cortic. N. Eur. (Oslo), <b>2</b> Aleurodiscus-Confertobasidium 2: 141 (1973)
 
 #### Original name
 null

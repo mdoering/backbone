@@ -1,5 +1,4 @@
-Phellinus calcitratus (Berk. & M.A. Curtis) Ryvarden SPECIES
-=======
+# Phellinus calcitratus (Berk. & M.A. Curtis) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

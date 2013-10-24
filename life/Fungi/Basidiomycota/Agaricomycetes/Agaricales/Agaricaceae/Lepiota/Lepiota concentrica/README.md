@@ -1,5 +1,4 @@
-Lepiota concentrica Beeli SPECIES
-=======
+# Lepiota concentrica Beeli SPECIES
 
 #### Status
 ACCEPTED

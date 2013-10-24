@@ -1,5 +1,4 @@
-Cladosporium griseo-olivaceum Pidopl. & Deniak SPECIES
-=======
+# Cladosporium griseo-olivaceum Pidopl. & Deniak SPECIES
 
 #### Status
 ACCEPTED

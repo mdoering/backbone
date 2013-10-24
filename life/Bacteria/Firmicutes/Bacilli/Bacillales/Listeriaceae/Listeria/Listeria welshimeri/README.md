@@ -1,5 +1,4 @@
-Listeria welshimeri Rocourt & Grimont, 1983 SPECIES
-=======
+# Listeria welshimeri Rocourt & Grimont, 1983 SPECIES
 
 #### Status
 ACCEPTED

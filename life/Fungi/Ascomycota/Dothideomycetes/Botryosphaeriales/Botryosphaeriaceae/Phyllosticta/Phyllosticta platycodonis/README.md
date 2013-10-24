@@ -1,5 +1,4 @@
-Phyllosticta platycodonis J.F. Lue & P.K. Chi SPECIES
-=======
+# Phyllosticta platycodonis J.F. Lue & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

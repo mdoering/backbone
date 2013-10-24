@@ -1,5 +1,4 @@
-Euplotidium helgae Hartwig, 1980 SPECIES
-=======
+# Euplotidium helgae Hartwig, 1980 SPECIES
 
 #### Status
 ACCEPTED

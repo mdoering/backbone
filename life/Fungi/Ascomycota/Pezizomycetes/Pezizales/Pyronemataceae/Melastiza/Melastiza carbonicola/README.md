@@ -1,5 +1,4 @@
-Melastiza carbonicola J. Moravec SPECIES
-=======
+# Melastiza carbonicola J. Moravec SPECIES
 
 #### Status
 ACCEPTED

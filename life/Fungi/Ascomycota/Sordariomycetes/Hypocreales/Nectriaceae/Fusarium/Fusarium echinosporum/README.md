@@ -1,5 +1,4 @@
-Fusarium echinosporum Sibilia SPECIES
-=======
+# Fusarium echinosporum Sibilia SPECIES
 
 #### Status
 ACCEPTED

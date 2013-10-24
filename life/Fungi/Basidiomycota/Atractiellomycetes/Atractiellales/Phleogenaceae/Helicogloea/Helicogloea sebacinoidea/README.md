@@ -1,5 +1,4 @@
-Helicogloea sebacinoidea L.S. Olive SPECIES
-=======
+# Helicogloea sebacinoidea L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

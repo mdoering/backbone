@@ -1,14 +1,13 @@
-Sigmohauerina GENUS
-=======
+# Sigmoihauerina Zheng, 1979 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Studia mar. Sin. 15: 134.
 
 #### Original name
 null

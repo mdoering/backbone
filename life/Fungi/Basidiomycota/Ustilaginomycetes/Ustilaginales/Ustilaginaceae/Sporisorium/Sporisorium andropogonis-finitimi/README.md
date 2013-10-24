@@ -1,14 +1,13 @@
-Ustilago andropogonis-finitimi Maubl., 1906 SPECIES
-=======
+# Sporisorium andropogonis-finitimi (Maubl.) Vánky & Mouch., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 22: 74 (1906)
+Mycol. Res. 104(3): 382 (2000)
 
 #### Original name
 Ustilago andropogonis-finitimi Maubl., 1906

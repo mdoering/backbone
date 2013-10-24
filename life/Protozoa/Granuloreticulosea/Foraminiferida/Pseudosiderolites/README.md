@@ -1,5 +1,4 @@
-Pseudosiderolites Smout, 1955 GENUS
-=======
+# Pseudosiderolites Smout, 1955 GENUS
 
 #### Status
 ACCEPTED

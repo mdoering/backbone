@@ -1,5 +1,4 @@
-Mitrula mucerdae (Schumach.) Fr. SPECIES
-=======
+# Mitrula mucerdae (Schumach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

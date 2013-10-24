@@ -1,5 +1,4 @@
-Ellisiodothis pandani Syd. & P. Syd. SPECIES
-=======
+# Ellisiodothis pandani Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

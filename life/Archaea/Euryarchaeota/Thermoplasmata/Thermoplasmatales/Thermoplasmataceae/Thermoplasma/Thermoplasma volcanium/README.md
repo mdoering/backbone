@@ -1,5 +1,4 @@
-Thermoplasma volcanium Segerer et al., 1988 SPECIES
-=======
+# Thermoplasma volcanium Segerer et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

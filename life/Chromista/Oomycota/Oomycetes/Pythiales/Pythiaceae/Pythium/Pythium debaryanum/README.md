@@ -1,17 +1,16 @@
-Pythium debaryanum var. debaryanum R. Hesse VARIETY
-=======
+# Pythium debaryanum R. Hesse, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pythium debaryanum: ein endophytischer Schmarotzer in den Geweben der Keimlinge der Leindotter, der Rüben, der Spergels und einiger anderer landwirthschaftlichen Kulturpflanzen 34 (1874)
 
 #### Original name
-Pythium debaryanum var. debaryanum R. Hesse
+Pythium debaryanum R. Hesse, 1874
 
 ### Remarks
 null

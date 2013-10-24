@@ -1,5 +1,4 @@
-Cetraria caperata f. caperata FORM
-=======
+# Cetraria caperata Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cetraria caperata f. caperata
+Cetraria caperata Vain.
 
 ### Remarks
 null

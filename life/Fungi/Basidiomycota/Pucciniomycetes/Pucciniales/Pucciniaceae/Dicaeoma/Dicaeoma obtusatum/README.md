@@ -1,5 +1,4 @@
-Dicaeoma obtusatum (G.H. Otth ex E. Fisch.) Syd. SPECIES
-=======
+# Dicaeoma obtusatum (G.H. Otth ex E. Fisch.) Syd. SPECIES
 
 #### Status
 ACCEPTED

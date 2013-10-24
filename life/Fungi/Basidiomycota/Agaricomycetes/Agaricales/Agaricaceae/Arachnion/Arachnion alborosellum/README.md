@@ -1,5 +1,4 @@
-Arachnion alborosellum Verwoerd SPECIES
-=======
+# Arachnion alborosellum Verwoerd SPECIES
 
 #### Status
 ACCEPTED

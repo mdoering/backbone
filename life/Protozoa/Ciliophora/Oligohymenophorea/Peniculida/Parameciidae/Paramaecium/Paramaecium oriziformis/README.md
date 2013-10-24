@@ -1,5 +1,4 @@
-Paramaecium oriziformis Bory SPECIES
-=======
+# Paramaecium oriziformis Bory SPECIES
 
 #### Status
 ACCEPTED

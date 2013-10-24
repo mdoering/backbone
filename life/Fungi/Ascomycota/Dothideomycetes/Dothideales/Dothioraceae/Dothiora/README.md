@@ -1,17 +1,16 @@
-Jaapia Kirschstein, 1938 GENUS
-=======
+# Dothiora E.M. Fries, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Krypt. -Fl. Brandenburg (Leipzig) 7(3): 444 (1938)
+Summa veg. Scand. (Stockholm), Section Post. 418 (1849)
 
 #### Original name
-Jaapia Kirschstein, 1938
+Dothiora E.M. Fries, 1849
 
 ### Remarks
 null

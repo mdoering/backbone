@@ -1,5 +1,4 @@
-Lecanora dioides Hue SPECIES
-=======
+# Lecanora dioides Hue SPECIES
 
 #### Status
 ACCEPTED

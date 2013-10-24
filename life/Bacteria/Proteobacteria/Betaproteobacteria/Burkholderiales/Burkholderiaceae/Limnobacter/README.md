@@ -1,5 +1,4 @@
-Limnobacter Spring, Kampfer & Schleifer, 2001 GENUS
-=======
+# Limnobacter Spring, Kampfer & Schleifer, 2001 GENUS
 
 #### Status
 ACCEPTED

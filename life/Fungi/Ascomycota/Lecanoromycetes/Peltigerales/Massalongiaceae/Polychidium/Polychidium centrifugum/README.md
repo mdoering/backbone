@@ -1,5 +1,4 @@
-Polychidium centrifugum (Nyl.) Jatta SPECIES
-=======
+# Polychidium centrifugum (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

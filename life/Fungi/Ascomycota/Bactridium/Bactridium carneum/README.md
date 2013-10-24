@@ -1,5 +1,4 @@
-Bactridium carneum Kunze & J.C. Schmidt SPECIES
-=======
+# Bactridium carneum Kunze & J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calonectria gigaspora Massee SPECIES
-=======
+# Calonectria gigaspora Massee SPECIES
 
 #### Status
 ACCEPTED

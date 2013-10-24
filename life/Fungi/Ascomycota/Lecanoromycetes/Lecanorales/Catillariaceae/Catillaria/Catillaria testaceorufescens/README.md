@@ -1,5 +1,4 @@
-Catillaria testaceorufescens (Vain.) Zahlbr. SPECIES
-=======
+# Catillaria testaceorufescens (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

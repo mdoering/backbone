@@ -1,14 +1,13 @@
-Pocillaria violaceofulvens (Batsch) Kuntze SPECIES
-=======
+# Panellus violaceofulvens (Batsch) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 506 (1898)
+Botanisches Centralblatt, Beihefte 56: 142 (1936)
 
 #### Original name
 Agaricus violaceofulvens Batsch

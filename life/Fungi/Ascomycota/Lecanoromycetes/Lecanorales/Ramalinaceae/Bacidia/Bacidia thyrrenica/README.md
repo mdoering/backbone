@@ -1,5 +1,4 @@
-Bacidia thyrrenica Llop SPECIES
-=======
+# Bacidia thyrrenica Llop SPECIES
 
 #### Status
 ACCEPTED

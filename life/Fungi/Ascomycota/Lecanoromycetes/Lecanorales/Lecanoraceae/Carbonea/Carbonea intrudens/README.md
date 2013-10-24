@@ -1,5 +1,4 @@
-Carbonea intrudens (H. Magn.) Hafellner SPECIES
-=======
+# Carbonea intrudens (H. Magn.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

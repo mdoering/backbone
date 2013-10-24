@@ -1,5 +1,4 @@
-Synsphaeridium solidum Chepikova, 1971 SPECIES
-=======
+# Synsphaeridium solidum Chepikova, 1971 SPECIES
 
 #### Status
 ACCEPTED

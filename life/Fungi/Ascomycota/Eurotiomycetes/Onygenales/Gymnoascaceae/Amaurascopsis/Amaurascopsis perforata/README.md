@@ -1,5 +1,4 @@
-Amaurascopsis perforata Guarro, Gené & De Vroey, 1992 SPECIES
-=======
+# Amaurascopsis perforata Guarro, Gené & De Vroey, 1992 SPECIES
 
 #### Status
 ACCEPTED

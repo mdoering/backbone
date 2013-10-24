@@ -1,5 +1,4 @@
-Cyclostephanos undatus E. C. Theriot & J. P. Kociolek SPECIES
-=======
+# Cyclostephanos undatus E. C. Theriot & J. P. Kociolek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Chaetomidium fragile Natarajan, 1972 SPECIES
-=======
+# Thielavia fragilis (Natarajan) Arx, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 37(3): 124 (1972)
+Stud. Mycol. 8: 8 (1975)
 
 #### Original name
 Chaetomidium fragile Natarajan, 1972

@@ -1,5 +1,4 @@
-Scleroderma tuberoideum Speg. SPECIES
-=======
+# Scleroderma tuberoideum Speg. SPECIES
 
 #### Status
 ACCEPTED

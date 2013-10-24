@@ -1,5 +1,4 @@
-Ramularia obovata Fuckel SPECIES
-=======
+# Ramularia obovata Fuckel SPECIES
 
 #### Status
 ACCEPTED

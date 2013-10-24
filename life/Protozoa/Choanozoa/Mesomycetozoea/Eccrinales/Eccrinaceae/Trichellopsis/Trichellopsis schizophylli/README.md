@@ -1,5 +1,4 @@
-Trichellopsis schizophylli Maessen SPECIES
-=======
+# Trichellopsis schizophylli Maessen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea balansana Malme SPECIES
-=======
+# Lecidea balansana Malme SPECIES
 
 #### Status
 ACCEPTED

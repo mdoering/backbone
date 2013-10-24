@@ -1,5 +1,4 @@
-Pleospora amphoricarpi (Bubák) Wehm. SPECIES
-=======
+# Pleospora amphoricarpi (Bubák) Wehm. SPECIES
 
 #### Status
 ACCEPTED

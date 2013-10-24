@@ -1,5 +1,4 @@
-Methanogenium boonei Kendall, Wardlaw, Tang, Bonin, Liu & Valentine, 2007 SPECIES
-=======
+# Methanogenium boonei Kendall, Wardlaw, Tang, Bonin, Liu & Valentine, 2007 SPECIES
 
 #### Status
 ACCEPTED

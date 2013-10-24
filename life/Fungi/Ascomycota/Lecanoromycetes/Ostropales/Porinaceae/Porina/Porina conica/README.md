@@ -1,14 +1,13 @@
-Phylloporina conica (R. Sant.) Szatala SPECIES
-=======
+# Porina conica R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls hist. -nat. Mus. natn. hung. 7: 22 (1956)
+Symb. bot. upsal. 12(no. 1): 232 (1952)
 
 #### Original name
 Porina conica R. Sant.

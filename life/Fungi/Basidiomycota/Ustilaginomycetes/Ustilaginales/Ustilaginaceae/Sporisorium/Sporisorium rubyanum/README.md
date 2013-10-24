@@ -1,5 +1,4 @@
-Sporisorium rubyanum Vánky SPECIES
-=======
+# Sporisorium rubyanum Vánky SPECIES
 
 #### Status
 ACCEPTED

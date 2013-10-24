@@ -1,17 +1,16 @@
-Entoloma gabonensis Courtec. SPECIES
-=======
+# Entoloma gabonense Courtec. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 14(nos 54-55): 84 (1984)
 
 #### Original name
-Entoloma gabonensis Courtec.
+Rhodophyllus longipes Massee
 
 ### Remarks
 null

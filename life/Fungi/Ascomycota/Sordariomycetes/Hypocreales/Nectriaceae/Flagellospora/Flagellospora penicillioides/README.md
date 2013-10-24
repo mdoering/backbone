@@ -1,5 +1,4 @@
-Flagellospora penicillioides Ingold, 1944 SPECIES
-=======
+# Flagellospora penicillioides Ingold, 1944 SPECIES
 
 #### Status
 ACCEPTED

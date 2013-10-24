@@ -1,5 +1,4 @@
-Massariella rhododendri Oudem. SPECIES
-=======
+# Massariella rhododendri Oudem. SPECIES
 
 #### Status
 ACCEPTED

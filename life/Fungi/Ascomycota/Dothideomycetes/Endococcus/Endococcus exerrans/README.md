@@ -1,17 +1,16 @@
-Microthelia exerrans A.L. Sm., 1911 SPECIES
-=======
+# Endococcus exerrans Nyl., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Brit. Lich. 2: 332 (1911)
+Flora, Jena 62: 360 (1879)
 
 #### Original name
-Microthelia exerrans A.L. Sm., 1911
+Endococcus exerrans Nyl., 1879
 
 ### Remarks
 null

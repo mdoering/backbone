@@ -1,5 +1,4 @@
-Textularia stricta Cushman, 1911 SPECIES
-=======
+# Textularia stricta Cushman, 1911 SPECIES
 
 #### Status
 ACCEPTED

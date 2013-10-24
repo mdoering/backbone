@@ -1,5 +1,4 @@
-Phyllosticta pogostemonis Khokhr. SPECIES
-=======
+# Phyllosticta pogostemonis Khokhr. SPECIES
 
 #### Status
 ACCEPTED

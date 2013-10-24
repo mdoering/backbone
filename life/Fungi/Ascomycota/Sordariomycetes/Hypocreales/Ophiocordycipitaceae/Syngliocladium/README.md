@@ -1,5 +1,4 @@
-Syngliocladium Petch GENUS
-=======
+# Syngliocladium Petch GENUS
 
 #### Status
 ACCEPTED

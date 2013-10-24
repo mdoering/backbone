@@ -1,5 +1,4 @@
-Dactylospora aeruginosa Holien & Ihlen SPECIES
-=======
+# Dactylospora aeruginosa Holien & Ihlen SPECIES
 
 #### Status
 ACCEPTED

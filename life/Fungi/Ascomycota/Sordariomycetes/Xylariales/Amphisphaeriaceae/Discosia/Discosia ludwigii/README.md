@@ -1,5 +1,4 @@
-Discosia ludwigii Vanev SPECIES
-=======
+# Discosia ludwigii Vanev SPECIES
 
 #### Status
 ACCEPTED

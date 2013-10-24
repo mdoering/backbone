@@ -1,5 +1,4 @@
-Thelephora textilis Spreng. SPECIES
-=======
+# Thelephora textilis Spreng. SPECIES
 
 #### Status
 ACCEPTED

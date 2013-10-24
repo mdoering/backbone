@@ -1,5 +1,4 @@
-Stilbum pruinosipes Peck SPECIES
-=======
+# Stilbum pruinosipes Peck SPECIES
 
 #### Status
 ACCEPTED

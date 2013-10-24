@@ -1,5 +1,4 @@
-Cortinarius euprivignus f. euprivignus FORM
-=======
+# Cortinarius euprivignus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Docums Mycol. 20(no. 77): 70 (1989)
 
 #### Original name
-Cortinarius euprivignus f. euprivignus
+Cortinarius euprivignus Rob. Henry
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cordyceps atewensis Samson, H.C. Evans & Hoekstra SPECIES
-=======
+# Cordyceps atewensis Samson, H.C. Evans & Hoekstra SPECIES
 
 #### Status
 ACCEPTED

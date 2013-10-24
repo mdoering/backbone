@@ -1,5 +1,4 @@
-Hantkenina Cushman, 1924 GENUS
-=======
+# Hantkenina Cushman, 1924 GENUS
 
 #### Status
 ACCEPTED

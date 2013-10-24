@@ -1,5 +1,4 @@
-Lecanora argillaceofusca Müll. Arg. SPECIES
-=======
+# Lecanora argillaceofusca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

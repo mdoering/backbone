@@ -1,5 +1,4 @@
-Phyllachora idahoensis Petr., 1957 SPECIES
-=======
+# Phyllachora idahoensis Petr., 1957 SPECIES
 
 #### Status
 DOUBTFUL

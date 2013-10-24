@@ -1,5 +1,4 @@
-Bifarina elongata Millett, 1900 SPECIES
-=======
+# Bifarina elongata Millett, 1900 SPECIES
 
 #### Status
 ACCEPTED

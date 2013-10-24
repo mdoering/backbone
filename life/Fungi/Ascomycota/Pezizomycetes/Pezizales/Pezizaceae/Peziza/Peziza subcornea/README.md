@@ -1,5 +1,4 @@
-Peziza subcornea W. Phillips & Harkn. SPECIES
-=======
+# Peziza subcornea W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

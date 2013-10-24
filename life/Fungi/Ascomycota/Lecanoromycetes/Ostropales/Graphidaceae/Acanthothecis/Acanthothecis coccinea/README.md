@@ -1,5 +1,4 @@
-Acanthothecis coccinea B. O. Sharma, Makhija & Khadilkar SPECIES
-=======
+# Acanthothecis coccinea B. O. Sharma, Makhija & Khadilkar SPECIES
 
 #### Status
 ACCEPTED

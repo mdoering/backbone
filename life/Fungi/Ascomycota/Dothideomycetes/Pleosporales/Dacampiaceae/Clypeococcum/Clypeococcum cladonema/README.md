@@ -1,14 +1,13 @@
-Lecidea cladonema Wedd. SPECIES
-=======
+# Clypeococcum cladonema (Wedd.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 75(2): 197 (1977)
 
 #### Original name
 Lecidea cladonema Wedd.

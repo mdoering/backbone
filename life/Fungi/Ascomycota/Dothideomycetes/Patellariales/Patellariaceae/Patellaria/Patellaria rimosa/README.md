@@ -1,5 +1,4 @@
-Patellaria rimosa (Sowerby) Gray SPECIES
-=======
+# Patellaria rimosa (Sowerby) Gray SPECIES
 
 #### Status
 ACCEPTED

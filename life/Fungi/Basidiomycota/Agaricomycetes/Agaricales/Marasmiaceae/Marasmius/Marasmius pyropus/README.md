@@ -1,5 +1,4 @@
-Marasmius pyropus Pat. SPECIES
-=======
+# Marasmius pyropus Pat. SPECIES
 
 #### Status
 ACCEPTED

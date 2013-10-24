@@ -1,5 +1,4 @@
-Pholiota mollicula Banning & Peck SPECIES
-=======
+# Pholiota mollicula Banning & Peck SPECIES
 
 #### Status
 ACCEPTED

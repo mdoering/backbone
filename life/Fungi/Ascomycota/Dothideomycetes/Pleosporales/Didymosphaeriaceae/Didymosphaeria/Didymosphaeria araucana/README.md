@@ -1,5 +1,4 @@
-Didymosphaeria araucana (Speg.) Sacc. & Trotter SPECIES
-=======
+# Didymosphaeria araucana (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

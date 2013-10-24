@@ -1,5 +1,4 @@
-Septoria transcheliana Teterevn. SPECIES
-=======
+# Septoria transcheliana Teterevn. SPECIES
 
 #### Status
 ACCEPTED

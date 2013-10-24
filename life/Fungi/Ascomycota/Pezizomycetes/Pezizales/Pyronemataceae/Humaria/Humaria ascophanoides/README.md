@@ -1,5 +1,4 @@
-Humaria ascophanoides (Marchal & É.J. Marchal) Sacc. SPECIES
-=======
+# Humaria ascophanoides (Marchal & É.J. Marchal) Sacc. SPECIES
 
 #### Status
 ACCEPTED

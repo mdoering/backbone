@@ -1,5 +1,4 @@
-Greefia Singh & Hanumaiah, 1979 GENUS
-=======
+# Greefia Singh & Hanumaiah, 1979 GENUS
 
 #### Status
 ACCEPTED

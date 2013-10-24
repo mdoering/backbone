@@ -1,14 +1,13 @@
-Aleurisma macrosporum Link, 1816 SPECIES
-=======
+# Cladobotryum macrosporum (Link) Schmalz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Magazin Ges. naturf. Freunde, Berlin 8: 38 (1816)
+null
 
 #### Original name
 Aleurisma macrosporum Link, 1816

@@ -1,5 +1,4 @@
-Bacidia chlorantha (Tuck.) Fink SPECIES
-=======
+# Bacidia chlorantha (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

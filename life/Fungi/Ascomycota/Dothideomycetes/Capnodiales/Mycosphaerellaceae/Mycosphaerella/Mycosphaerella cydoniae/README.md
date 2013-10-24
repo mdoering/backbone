@@ -1,5 +1,4 @@
-Mycosphaerella cydoniae Grove, 1918 SPECIES
-=======
+# Mycosphaerella cydoniae Grove, 1918 SPECIES
 
 #### Status
 ACCEPTED

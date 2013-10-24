@@ -1,5 +1,4 @@
-Lithoderma J.E. Areschoug, 1875 GENUS
-=======
+# Lithoderma J.E. Areschoug, 1875 GENUS
 
 #### Status
 ACCEPTED

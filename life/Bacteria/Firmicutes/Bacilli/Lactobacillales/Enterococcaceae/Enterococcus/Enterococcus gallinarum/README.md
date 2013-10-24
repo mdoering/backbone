@@ -1,8 +1,7 @@
-Streptococcus gallinarum Bridge & Sneath, 1982 SPECIES
-=======
+# Enterococcus gallinarum (Bridge & Sneath, 1982) Collins et al., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

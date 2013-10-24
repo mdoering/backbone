@@ -1,5 +1,4 @@
-Trifarina bella (Phleger & Parker, 1951) SPECIES
-=======
+# Trifarina bella (Phleger & Parker, 1951) SPECIES
 
 #### Status
 ACCEPTED

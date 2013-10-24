@@ -1,5 +1,4 @@
-Krombholziella extremiorientalis (Lj.N. Vassiljeva) utara SPECIES
-=======
+# Krombholziella extremiorientalis (Lj.N. Vassiljeva) utara SPECIES
 
 #### Status
 ACCEPTED

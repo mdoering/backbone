@@ -1,5 +1,4 @@
-Corynespora tanaceti Guang M. Zhang & X.G. Zhang SPECIES
-=======
+# Corynespora tanaceti Guang M. Zhang & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

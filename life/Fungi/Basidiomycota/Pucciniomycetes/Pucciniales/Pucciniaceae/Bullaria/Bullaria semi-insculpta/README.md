@@ -1,14 +1,13 @@
-Bullaria semiinsculpta (Arthur) Arthur & Mains SPECIES
-=======
+# Bullaria semi-insculpta (Arthur) Arthur & Mains SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fl. (New York) 7(7): 498 (1922)
 
 #### Original name
 Puccinia semi-insculpta Arthur

@@ -1,5 +1,4 @@
-Hydrocybe emarginata Velen. SPECIES
-=======
+# Hydrocybe emarginata Velen. SPECIES
 
 #### Status
 ACCEPTED

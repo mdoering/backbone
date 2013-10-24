@@ -1,5 +1,4 @@
-Asteriscus Kowalski, 1983 GENUS
-=======
+# Asteriscus Kowalski, 1983 GENUS
 
 #### Status
 ACCEPTED

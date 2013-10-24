@@ -1,5 +1,4 @@
-Chaetostroma stipitatum Corda SPECIES
-=======
+# Chaetostroma stipitatum Corda SPECIES
 
 #### Status
 ACCEPTED

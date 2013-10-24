@@ -1,5 +1,4 @@
-Nummulopyrgo anomala (Schlumberger, 1891) SPECIES
-=======
+# Nummulopyrgo anomala (Schlumberger, 1891) SPECIES
 
 #### Status
 ACCEPTED

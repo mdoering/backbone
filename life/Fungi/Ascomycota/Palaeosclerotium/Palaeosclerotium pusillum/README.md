@@ -1,5 +1,4 @@
-Palaeosclerotium pusillum G.W. Rothwell SPECIES
-=======
+# Palaeosclerotium pusillum G.W. Rothwell SPECIES
 
 #### Status
 ACCEPTED

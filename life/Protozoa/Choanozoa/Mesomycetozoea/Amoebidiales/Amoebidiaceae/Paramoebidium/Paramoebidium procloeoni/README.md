@@ -1,5 +1,4 @@
-Paramoebidium procloeoni Manier SPECIES
-=======
+# Paramoebidium procloeoni Manier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Auricularia reticulata L.J. Li SPECIES
-=======
+# Auricularia reticulata L.J. Li SPECIES
 
 #### Status
 ACCEPTED

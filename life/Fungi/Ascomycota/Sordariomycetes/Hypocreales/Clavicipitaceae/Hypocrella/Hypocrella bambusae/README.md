@@ -1,5 +1,4 @@
-Hypocrella bambusae (Berk. & Broome) Sacc. SPECIES
-=======
+# Hypocrella bambusae (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

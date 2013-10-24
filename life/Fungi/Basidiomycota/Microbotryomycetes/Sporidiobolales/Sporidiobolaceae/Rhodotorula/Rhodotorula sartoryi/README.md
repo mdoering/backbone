@@ -1,5 +1,4 @@
-Rhodotorula sartoryi F.C. Harrison SPECIES
-=======
+# Rhodotorula sartoryi F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

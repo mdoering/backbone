@@ -1,5 +1,4 @@
-Gerronema schusteri Singer SPECIES
-=======
+# Gerronema schusteri Singer SPECIES
 
 #### Status
 ACCEPTED

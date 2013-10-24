@@ -1,5 +1,4 @@
-Dictyocysta Ehrenberg, 1854 GENUS
-=======
+# Dictyocysta Ehrenberg, 1854 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syncephalis depressa Tiegh. & G. Le Monn., 1873 SPECIES
-=======
+# Syncephalis depressa Tiegh. & G. Le Monn., 1873 SPECIES
 
 #### Status
 ACCEPTED

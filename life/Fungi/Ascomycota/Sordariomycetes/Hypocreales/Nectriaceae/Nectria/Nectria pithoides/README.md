@@ -1,5 +1,4 @@
-Nectria pithoides Ellis & Everh., 1891 SPECIES
-=======
+# Nectria pithoides Ellis & Everh., 1891 SPECIES
 
 #### Status
 ACCEPTED

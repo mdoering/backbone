@@ -1,5 +1,4 @@
-Puccinia lamyi Fr. SPECIES
-=======
+# Puccinia lamyi Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monodus subterraneus Petersen SPECIES
-=======
+# Monodus subterraneus Petersen SPECIES
 
 #### Status
 ACCEPTED

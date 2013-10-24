@@ -1,5 +1,4 @@
-Squamaria speciosa SPECIES
-=======
+# Squamaria speciosa SPECIES
 
 #### Status
 ACCEPTED

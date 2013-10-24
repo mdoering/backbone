@@ -1,5 +1,4 @@
-Psathyrella polycephala (Fr.) A.H. Sm. SPECIES
-=======
+# Psathyrella polycephala (Fr.) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca delicatula Søchting SPECIES
-=======
+# Caloplaca delicatula Søchting SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenophora moravica Petr. SPECIES
-=======
+# Pyrenophora moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

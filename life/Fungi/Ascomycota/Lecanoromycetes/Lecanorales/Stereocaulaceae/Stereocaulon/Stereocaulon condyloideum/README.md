@@ -1,5 +1,4 @@
-Stereocaulon condyloideum Ach. SPECIES
-=======
+# Stereocaulon condyloideum Ach. SPECIES
 
 #### Status
 ACCEPTED

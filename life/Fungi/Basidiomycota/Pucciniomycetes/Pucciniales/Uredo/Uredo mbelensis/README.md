@@ -1,5 +1,4 @@
-Uredo mbelensis Henn. SPECIES
-=======
+# Uredo mbelensis Henn. SPECIES
 
 #### Status
 ACCEPTED

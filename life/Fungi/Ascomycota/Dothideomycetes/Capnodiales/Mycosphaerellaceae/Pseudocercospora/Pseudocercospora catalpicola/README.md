@@ -1,5 +1,4 @@
-Pseudocercospora catalpicola U. Braun SPECIES
-=======
+# Pseudocercospora catalpicola U. Braun SPECIES
 
 #### Status
 ACCEPTED

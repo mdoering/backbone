@@ -1,5 +1,4 @@
-Lepiota intermedia A. Blytt SPECIES
-=======
+# Lepiota intermedia A. Blytt SPECIES
 
 #### Status
 ACCEPTED

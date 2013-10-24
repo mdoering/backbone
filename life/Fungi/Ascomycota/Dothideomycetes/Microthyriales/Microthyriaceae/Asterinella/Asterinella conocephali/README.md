@@ -1,5 +1,4 @@
-Asterinella conocephali Hansf. SPECIES
-=======
+# Asterinella conocephali Hansf. SPECIES
 
 #### Status
 ACCEPTED

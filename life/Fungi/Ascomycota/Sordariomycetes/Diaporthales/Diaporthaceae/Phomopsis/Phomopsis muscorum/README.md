@@ -1,5 +1,4 @@
-Phomopsis muscorum Racov. SPECIES
-=======
+# Phomopsis muscorum Racov. SPECIES
 
 #### Status
 ACCEPTED

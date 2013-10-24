@@ -1,5 +1,4 @@
-Stigmina esfandiarii Petr. SPECIES
-=======
+# Stigmina esfandiarii Petr. SPECIES
 
 #### Status
 ACCEPTED

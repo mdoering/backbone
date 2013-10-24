@@ -1,5 +1,4 @@
-Armillaria umbilicata (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Armillaria umbilicata (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

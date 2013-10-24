@@ -1,5 +1,4 @@
-Stauroxiphos Haeckel, 1887 GENUS
-=======
+# Stauroxiphos Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

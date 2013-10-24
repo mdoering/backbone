@@ -1,5 +1,4 @@
-Pleochaeta prosopidis (Speg.) U. Braun SPECIES
-=======
+# Pleochaeta prosopidis (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

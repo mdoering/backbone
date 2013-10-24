@@ -1,5 +1,4 @@
-Septoria lentis Fatehi & Punith. SPECIES
-=======
+# Septoria lentis Fatehi & Punith. SPECIES
 
 #### Status
 ACCEPTED

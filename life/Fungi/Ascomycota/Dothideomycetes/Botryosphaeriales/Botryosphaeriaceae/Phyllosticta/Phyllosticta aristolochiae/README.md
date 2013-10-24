@@ -1,5 +1,4 @@
-Phyllosticta aristolochiae C. Massal. SPECIES
-=======
+# Phyllosticta aristolochiae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

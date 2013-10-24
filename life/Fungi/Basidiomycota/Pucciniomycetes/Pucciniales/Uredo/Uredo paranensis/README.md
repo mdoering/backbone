@@ -1,5 +1,4 @@
-Uredo paranensis Penn. SPECIES
-=======
+# Uredo paranensis Penn. SPECIES
 
 #### Status
 ACCEPTED

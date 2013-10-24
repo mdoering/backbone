@@ -1,5 +1,4 @@
-Bicoeca H.J.Clark GENUS
-=======
+# Bicoeca H.J.Clark GENUS
 
 #### Status
 ACCEPTED

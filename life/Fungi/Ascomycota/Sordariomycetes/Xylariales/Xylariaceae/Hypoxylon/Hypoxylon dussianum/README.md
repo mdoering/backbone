@@ -1,5 +1,4 @@
-Hypoxylon dussianum Pat. SPECIES
-=======
+# Hypoxylon dussianum Pat. SPECIES
 
 #### Status
 ACCEPTED

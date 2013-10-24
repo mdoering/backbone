@@ -1,5 +1,4 @@
-Periconia langloisii Earle SPECIES
-=======
+# Periconia langloisii Earle SPECIES
 
 #### Status
 ACCEPTED

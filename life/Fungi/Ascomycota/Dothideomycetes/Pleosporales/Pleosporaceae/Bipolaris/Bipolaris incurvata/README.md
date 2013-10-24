@@ -1,14 +1,13 @@
-Helminthosporium incurvatum C. Bernard, 1906 SPECIES
-=======
+# Bipolaris incurvata (C. Bernard) Alcorn, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 17: 68 (1983)
 
 #### Original name
 Helminthosporium incurvatum C. Bernard, 1906

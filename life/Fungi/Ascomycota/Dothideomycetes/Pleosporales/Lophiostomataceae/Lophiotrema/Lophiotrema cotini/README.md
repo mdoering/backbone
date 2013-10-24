@@ -1,5 +1,4 @@
-Lophiotrema cotini Fabre SPECIES
-=======
+# Lophiotrema cotini Fabre SPECIES
 
 #### Status
 ACCEPTED

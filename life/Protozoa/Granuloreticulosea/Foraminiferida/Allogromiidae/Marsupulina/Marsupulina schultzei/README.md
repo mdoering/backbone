@@ -1,5 +1,4 @@
-Marsupulina schultzei Rhumbler, 1904 SPECIES
-=======
+# Marsupulina schultzei Rhumbler, 1904 SPECIES
 
 #### Status
 ACCEPTED

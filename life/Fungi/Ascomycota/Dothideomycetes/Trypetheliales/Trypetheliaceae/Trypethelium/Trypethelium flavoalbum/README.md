@@ -1,5 +1,4 @@
-Trypethelium flavoalbum Makhija & Patw. SPECIES
-=======
+# Trypethelium flavoalbum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

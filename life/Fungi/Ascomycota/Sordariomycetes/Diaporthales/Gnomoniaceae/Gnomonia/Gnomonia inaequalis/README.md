@@ -1,5 +1,4 @@
-Gnomonia inaequalis Auersw. SPECIES
-=======
+# Gnomonia inaequalis Auersw. SPECIES
 
 #### Status
 ACCEPTED

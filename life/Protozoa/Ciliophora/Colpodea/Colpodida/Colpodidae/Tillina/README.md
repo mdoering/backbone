@@ -1,5 +1,4 @@
-Tillina Gruber, 1879 GENUS
-=======
+# Tillina Gruber, 1879 GENUS
 
 #### Status
 ACCEPTED

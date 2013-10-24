@@ -1,5 +1,4 @@
-Myxormiopsis nigra B. Sutton SPECIES
-=======
+# Myxormiopsis nigra B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius lychnuchus Rob. Henry SPECIES
-=======
+# Cortinarius lychnuchus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

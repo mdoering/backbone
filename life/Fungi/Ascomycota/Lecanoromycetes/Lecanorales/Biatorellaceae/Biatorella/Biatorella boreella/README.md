@@ -1,5 +1,4 @@
-Biatorella boreella (Nyl.) Arnold SPECIES
-=======
+# Biatorella boreella (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Venturia cerasi Aderh., 1900 SPECIES
-=======
+# Venturia cerasi Aderh., 1900 SPECIES
 
 #### Status
 ACCEPTED

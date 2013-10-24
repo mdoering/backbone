@@ -1,5 +1,4 @@
-Periconia opaca Cooke SPECIES
-=======
+# Periconia opaca Cooke SPECIES
 
 #### Status
 ACCEPTED

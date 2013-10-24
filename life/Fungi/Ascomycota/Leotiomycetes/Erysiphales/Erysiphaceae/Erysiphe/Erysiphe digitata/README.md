@@ -1,5 +1,4 @@
-Erysiphe digitata (A.J. Inman & U. Braun) A.J. Inman & U. Braun SPECIES
-=======
+# Erysiphe digitata (A.J. Inman & U. Braun) A.J. Inman & U. Braun SPECIES
 
 #### Status
 ACCEPTED

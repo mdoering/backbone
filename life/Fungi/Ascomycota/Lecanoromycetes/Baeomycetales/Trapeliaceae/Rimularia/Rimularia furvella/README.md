@@ -1,5 +1,4 @@
-Rimularia furvella (Nyl. ex Mudd) Hertel & Rambold SPECIES
-=======
+# Rimularia furvella (Nyl. ex Mudd) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

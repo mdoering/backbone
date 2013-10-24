@@ -1,5 +1,4 @@
-Puccinia perplexantem Plowr. SPECIES
-=======
+# Puccinia perplexantem Plowr. SPECIES
 
 #### Status
 ACCEPTED

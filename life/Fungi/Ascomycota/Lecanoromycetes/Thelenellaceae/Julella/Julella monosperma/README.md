@@ -1,5 +1,4 @@
-Julella monosperma (Peck) Sacc. SPECIES
-=======
+# Julella monosperma (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

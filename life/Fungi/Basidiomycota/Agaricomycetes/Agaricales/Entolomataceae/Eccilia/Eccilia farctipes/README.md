@@ -1,5 +1,4 @@
-Eccilia farctipes Speg. SPECIES
-=======
+# Eccilia farctipes Speg. SPECIES
 
 #### Status
 ACCEPTED

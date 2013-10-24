@@ -1,17 +1,16 @@
-Aspergillus alliaceous var. macrosterigmatus Glins., Thamavit & Sittir. VARIETY
-=======
+# Aspergillus alliaceus Thom & Church, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Manual of the Aspergilli 244 (1945)
 
 #### Original name
-Aspergillus alliaceous var. macrosterigmatus Glins., Thamavit & Sittir.
+Aspergillus alliaceus Thom & Church, 1945
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Heterosporis finki Schubert SPECIES
-=======
+# Heterosporis finki Schubert SPECIES
 
 #### Status
 ACCEPTED

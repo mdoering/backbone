@@ -1,5 +1,4 @@
-Piggotia substellata Cooke, 1891 SPECIES
-=======
+# Piggotia substellata Cooke, 1891 SPECIES
 
 #### Status
 ACCEPTED

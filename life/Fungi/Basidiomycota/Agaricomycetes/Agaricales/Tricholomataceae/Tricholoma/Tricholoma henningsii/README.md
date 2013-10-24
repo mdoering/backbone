@@ -1,5 +1,4 @@
-Tricholoma henningsii (Eichelb.) Sacc. & Trotter SPECIES
-=======
+# Tricholoma henningsii (Eichelb.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

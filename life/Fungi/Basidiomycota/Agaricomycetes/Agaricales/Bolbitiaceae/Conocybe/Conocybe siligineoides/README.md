@@ -1,5 +1,4 @@
-Conocybe siligineoides R. Heim SPECIES
-=======
+# Conocybe siligineoides R. Heim SPECIES
 
 #### Status
 ACCEPTED

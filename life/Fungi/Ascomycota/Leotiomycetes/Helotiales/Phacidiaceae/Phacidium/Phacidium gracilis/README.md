@@ -1,5 +1,4 @@
-Phacidium gracilis Niessl SPECIES
-=======
+# Phacidium gracilis Niessl SPECIES
 
 #### Status
 ACCEPTED

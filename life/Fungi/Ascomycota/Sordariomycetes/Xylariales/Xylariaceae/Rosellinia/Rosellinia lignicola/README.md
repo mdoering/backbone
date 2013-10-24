@@ -1,14 +1,13 @@
-Sphaeropsis lignicola Cooke & Massee, 1887 SPECIES
-=======
+# Rosellinia lignicola (Cooke & Massee) Petr. & Syd., 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 16(no. 77): 8 (1887)
+Annls mycol. 22(3/6): 333 (1924)
 
 #### Original name
 Sphaeropsis lignicola Cooke & Massee, 1887

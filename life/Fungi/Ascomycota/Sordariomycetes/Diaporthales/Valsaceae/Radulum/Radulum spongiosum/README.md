@@ -1,5 +1,4 @@
-Radulum spongiosum Berk. SPECIES
-=======
+# Radulum spongiosum Berk. SPECIES
 
 #### Status
 ACCEPTED

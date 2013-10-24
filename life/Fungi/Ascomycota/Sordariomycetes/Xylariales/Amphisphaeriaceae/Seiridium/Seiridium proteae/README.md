@@ -1,5 +1,4 @@
-Seiridium proteae Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Seiridium proteae Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

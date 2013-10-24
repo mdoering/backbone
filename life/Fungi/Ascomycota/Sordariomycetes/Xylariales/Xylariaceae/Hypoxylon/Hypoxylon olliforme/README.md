@@ -1,5 +1,4 @@
-Hypoxylon olliforme F. San Martín, P. Lavín & Port.-Port., 1999 SPECIES
-=======
+# Hypoxylon olliforme F. San Martín, P. Lavín & Port.-Port., 1999 SPECIES
 
 #### Status
 ACCEPTED

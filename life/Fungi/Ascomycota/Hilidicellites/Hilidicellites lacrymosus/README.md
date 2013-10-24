@@ -1,5 +1,4 @@
-Hilidicellites lacrymosus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Hilidicellites lacrymosus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

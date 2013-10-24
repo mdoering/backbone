@@ -1,5 +1,4 @@
-Lachnum nardi Rehm SPECIES
-=======
+# Lachnum nardi Rehm SPECIES
 
 #### Status
 ACCEPTED

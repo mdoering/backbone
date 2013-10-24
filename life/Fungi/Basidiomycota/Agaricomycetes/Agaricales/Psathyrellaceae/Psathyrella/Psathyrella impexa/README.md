@@ -1,5 +1,4 @@
-Psathyrella impexa (Romagn.) Bon SPECIES
-=======
+# Psathyrella impexa (Romagn.) Bon SPECIES
 
 #### Status
 ACCEPTED

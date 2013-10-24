@@ -1,5 +1,4 @@
-Ramonia eungellae Kalb SPECIES
-=======
+# Ramonia eungellae Kalb SPECIES
 
 #### Status
 ACCEPTED

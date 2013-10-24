@@ -1,5 +1,4 @@
-Isaria monilioides Alb. & Schwein. SPECIES
-=======
+# Isaria monilioides Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

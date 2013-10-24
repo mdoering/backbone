@@ -1,5 +1,4 @@
-Lecidea chytrina Stizenb. SPECIES
-=======
+# Lecidea chytrina Stizenb. SPECIES
 
 #### Status
 ACCEPTED

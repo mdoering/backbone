@@ -1,5 +1,4 @@
-Cyclotella stelligeroides Hustedt SPECIES
-=======
+# Cyclotella stelligeroides Hustedt SPECIES
 
 #### Status
 ACCEPTED

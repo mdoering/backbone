@@ -1,5 +1,4 @@
-Agaricus injunctus Britzelm. SPECIES
-=======
+# Agaricus injunctus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

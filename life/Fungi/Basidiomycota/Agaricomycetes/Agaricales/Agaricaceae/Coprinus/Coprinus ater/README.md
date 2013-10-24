@@ -1,5 +1,4 @@
-Coprinus ater Copel. SPECIES
-=======
+# Coprinus ater Copel. SPECIES
 
 #### Status
 ACCEPTED

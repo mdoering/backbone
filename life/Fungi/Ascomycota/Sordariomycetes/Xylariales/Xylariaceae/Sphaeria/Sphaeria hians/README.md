@@ -1,5 +1,4 @@
-Sphaeria hians Wallr. SPECIES
-=======
+# Sphaeria hians Wallr. SPECIES
 
 #### Status
 ACCEPTED

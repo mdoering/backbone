@@ -1,5 +1,4 @@
-Stephanodiscus asteroides var. intermedia Gasse VARIETY
-=======
+# Stephanodiscus asteroides SPECIES
 
 #### Status
 ACCEPTED

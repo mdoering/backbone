@@ -1,5 +1,4 @@
-Hendersonia xerophylli Ellis SPECIES
-=======
+# Hendersonia xerophylli Ellis SPECIES
 
 #### Status
 ACCEPTED

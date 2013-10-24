@@ -1,5 +1,4 @@
-Tapesia quercina Vacek SPECIES
-=======
+# Tapesia quercina Vacek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium bougainvilleae Speg. SPECIES
-=======
+# Aecidium bougainvilleae Speg. SPECIES
 
 #### Status
 ACCEPTED

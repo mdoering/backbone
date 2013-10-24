@@ -1,5 +1,4 @@
-Agaricus graminicola Nees SPECIES
-=======
+# Agaricus graminicola Nees SPECIES
 
 #### Status
 ACCEPTED

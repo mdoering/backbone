@@ -1,5 +1,4 @@
-Acremonium Link GENUS
-=======
+# Acremonium Link GENUS
 
 #### Status
 ACCEPTED

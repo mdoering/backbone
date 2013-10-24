@@ -1,5 +1,4 @@
-Coniothyrium parietariae Sacc. & Speg. SPECIES
-=======
+# Coniothyrium parietariae Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

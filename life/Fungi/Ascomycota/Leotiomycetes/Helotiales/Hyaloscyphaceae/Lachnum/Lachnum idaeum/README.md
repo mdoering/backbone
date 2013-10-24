@@ -1,5 +1,4 @@
-Lachnum idaeum Rehm SPECIES
-=======
+# Lachnum idaeum Rehm SPECIES
 
 #### Status
 ACCEPTED

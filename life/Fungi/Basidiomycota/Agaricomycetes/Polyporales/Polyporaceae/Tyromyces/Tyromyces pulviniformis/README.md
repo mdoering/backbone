@@ -1,5 +1,4 @@
-Tyromyces pulviniformis Corner SPECIES
-=======
+# Tyromyces pulviniformis Corner SPECIES
 
 #### Status
 ACCEPTED

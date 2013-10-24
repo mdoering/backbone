@@ -1,5 +1,4 @@
-Tephrophana coracina (Fr.) Kühner SPECIES
-=======
+# Tephrophana coracina (Fr.) Kühner SPECIES
 
 #### Status
 ACCEPTED

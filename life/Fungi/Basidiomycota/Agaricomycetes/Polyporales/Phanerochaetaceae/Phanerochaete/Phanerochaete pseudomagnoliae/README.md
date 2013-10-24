@@ -1,5 +1,4 @@
-Phanerochaete pseudomagnoliae Koker, Burds. & B.J.H. Janse, 2000 SPECIES
-=======
+# Phanerochaete pseudomagnoliae Koker, Burds. & B.J.H. Janse, 2000 SPECIES
 
 #### Status
 ACCEPTED

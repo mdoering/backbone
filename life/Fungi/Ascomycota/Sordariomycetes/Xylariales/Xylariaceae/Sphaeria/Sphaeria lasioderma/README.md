@@ -1,5 +1,4 @@
-Sphaeria lasioderma Durieu & Mont. SPECIES
-=======
+# Sphaeria lasioderma Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

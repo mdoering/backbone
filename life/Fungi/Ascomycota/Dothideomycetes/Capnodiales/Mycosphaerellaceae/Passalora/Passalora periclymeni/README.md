@@ -1,14 +1,13 @@
-Cercospora periclymeni G. Winter, 1884 SPECIES
-=======
+# Passalora periclymeni (G. Winter) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bolm Soc. broteriana, Coimbra 2: 48 (1884)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 315 (2003)
 
 #### Original name
 Cercospora periclymeni G. Winter, 1884

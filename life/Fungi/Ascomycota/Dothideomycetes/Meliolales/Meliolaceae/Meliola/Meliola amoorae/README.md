@@ -1,5 +1,4 @@
-Meliola amoorae H.S. Yates SPECIES
-=======
+# Meliola amoorae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

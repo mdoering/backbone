@@ -1,5 +1,4 @@
-Phleboscyphus macropus Clem. SPECIES
-=======
+# Phleboscyphus macropus Clem. SPECIES
 
 #### Status
 ACCEPTED

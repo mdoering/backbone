@@ -1,5 +1,4 @@
-Dacrymyces ceraceoides var. ceraceoides VARIETY
-=======
+# Dacrymyces ceraceoides Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dacrymyces ceraceoides var. ceraceoides
+Dacrymyces ceraceoides Rick
 
 ### Remarks
 null

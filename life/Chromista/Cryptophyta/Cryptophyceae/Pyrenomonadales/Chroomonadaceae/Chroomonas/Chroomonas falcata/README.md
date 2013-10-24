@@ -1,5 +1,4 @@
-Chroomonas falcata R. W. Butcher SPECIES
-=======
+# Chroomonas falcata R. W. Butcher SPECIES
 
 #### Status
 ACCEPTED

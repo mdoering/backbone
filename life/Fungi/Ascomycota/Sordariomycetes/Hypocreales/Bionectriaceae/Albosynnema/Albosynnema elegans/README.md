@@ -1,5 +1,4 @@
-Albosynnema elegans E.F. Morris, 1967 SPECIES
-=======
+# Albosynnema elegans E.F. Morris, 1967 SPECIES
 
 #### Status
 ACCEPTED

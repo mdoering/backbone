@@ -1,5 +1,4 @@
-Meliola lanosa Pat. SPECIES
-=======
+# Meliola lanosa Pat. SPECIES
 
 #### Status
 ACCEPTED

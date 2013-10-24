@@ -1,5 +1,4 @@
-Asteridiella shropshiriana (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella shropshiriana (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

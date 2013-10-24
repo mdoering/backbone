@@ -1,5 +1,4 @@
-Endophragmiella ontariensis S. Hughes SPECIES
-=======
+# Endophragmiella ontariensis S. Hughes SPECIES
 
 #### Status
 ACCEPTED

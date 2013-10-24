@@ -1,5 +1,4 @@
-Limacinia pelliculosa (Berk. & Ravenel) Sacc. SPECIES
-=======
+# Limacinia pelliculosa (Berk. & Ravenel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon goliath Speg. SPECIES
-=======
+# Hypoxylon goliath Speg. SPECIES
 
 #### Status
 ACCEPTED

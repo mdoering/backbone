@@ -1,5 +1,4 @@
-Cercospora domingensis Gonz. Frag. & Cif. SPECIES
-=======
+# Cercospora domingensis Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

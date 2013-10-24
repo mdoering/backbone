@@ -1,5 +1,4 @@
-Trachelomonas congolense Van Oye SPECIES
-=======
+# Trachelomonas congolense Van Oye SPECIES
 
 #### Status
 ACCEPTED

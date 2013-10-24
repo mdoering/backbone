@@ -1,5 +1,4 @@
-Lecidea reducta Nyl. SPECIES
-=======
+# Lecidea reducta Nyl. SPECIES
 
 #### Status
 ACCEPTED

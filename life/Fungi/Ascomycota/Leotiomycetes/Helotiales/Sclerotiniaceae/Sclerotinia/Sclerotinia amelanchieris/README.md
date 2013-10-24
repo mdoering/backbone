@@ -1,5 +1,4 @@
-Sclerotinia amelanchieris J.M. Reade SPECIES
-=======
+# Sclerotinia amelanchieris J.M. Reade SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orthoscypha GENUS
-=======
+# Orthoscypha GENUS
 
 #### Status
 ACCEPTED

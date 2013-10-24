@@ -1,5 +1,4 @@
-Buetschliellopsis parumciliata Lom, 1954 SPECIES
-=======
+# Buetschliellopsis parumciliata Lom, 1954 SPECIES
 
 #### Status
 ACCEPTED

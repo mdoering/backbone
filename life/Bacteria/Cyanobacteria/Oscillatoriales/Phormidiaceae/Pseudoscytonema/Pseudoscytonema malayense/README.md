@@ -1,8 +1,7 @@
-Plectonema malayense Biswas SPECIES
-=======
+# Pseudoscytonema malayense (K. Biswas) A. A. Elenkin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

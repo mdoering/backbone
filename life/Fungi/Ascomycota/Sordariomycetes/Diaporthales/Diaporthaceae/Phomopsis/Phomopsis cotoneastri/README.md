@@ -1,5 +1,4 @@
-Phomopsis cotoneastri Punith., 1973 SPECIES
-=======
+# Phomopsis cotoneastri Punith., 1973 SPECIES
 
 #### Status
 ACCEPTED

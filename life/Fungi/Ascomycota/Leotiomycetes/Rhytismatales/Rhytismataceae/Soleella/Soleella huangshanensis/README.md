@@ -1,5 +1,4 @@
-Soleella huangshanensis C.L. Hou & H.S. Cao SPECIES
-=======
+# Soleella huangshanensis C.L. Hou & H.S. Cao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe patuloides Peck SPECIES
-=======
+# Clitocybe patuloides Peck SPECIES
 
 #### Status
 ACCEPTED

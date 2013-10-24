@@ -1,5 +1,4 @@
-Cruciplacolithus tenuis (Stradner, 1961) Hay & Mohler in Hay et al., 1967 SPECIES
-=======
+# Cruciplacolithus tenuis (Stradner, 1961) Hay & Mohler in Hay et al., 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe aemula (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe aemula (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

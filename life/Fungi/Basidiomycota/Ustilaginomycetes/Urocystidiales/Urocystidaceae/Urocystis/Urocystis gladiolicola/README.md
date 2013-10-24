@@ -1,17 +1,16 @@
-Urocystis gladioli (Req.) W.G. Sm., 1876 SPECIES
-=======
+# Urocystis gladiolicola Ainsw., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gard. Chron. , London 6: 421 (1876)
+Trans. Br. mycol. Soc. 32: 257 (1950)
 
 #### Original name
-Uredo gladioli Req., 1830
+Urocystis gladiolicola Ainsw., 1950
 
 ### Remarks
 null

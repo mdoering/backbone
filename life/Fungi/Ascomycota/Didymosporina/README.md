@@ -1,5 +1,4 @@
-Didymosporina von Höhnel, 1916 GENUS
-=======
+# Didymosporina von Höhnel, 1916 GENUS
 
 #### Status
 ACCEPTED

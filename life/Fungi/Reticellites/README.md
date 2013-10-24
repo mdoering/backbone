@@ -1,5 +1,4 @@
-Reticellites D.L.E. Glass, D.D. Br. & Elsik GENUS
-=======
+# Reticellites D.L.E. Glass, D.D. Br. & Elsik GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago scleranthi Cif. SPECIES
-=======
+# Ustilago scleranthi Cif. SPECIES
 
 #### Status
 ACCEPTED

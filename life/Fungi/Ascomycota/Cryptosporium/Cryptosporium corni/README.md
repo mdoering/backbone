@@ -1,5 +1,4 @@
-Cryptosporium corni Negru SPECIES
-=======
+# Cryptosporium corni Negru SPECIES
 
 #### Status
 ACCEPTED

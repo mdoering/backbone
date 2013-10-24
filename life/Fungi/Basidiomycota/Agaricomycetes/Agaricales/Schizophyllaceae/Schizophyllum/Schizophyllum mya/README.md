@@ -1,5 +1,4 @@
-Schizophyllum mya (Scop.) Fr. SPECIES
-=======
+# Schizophyllum mya (Scop.) Fr. SPECIES
 
 #### Status
 ACCEPTED

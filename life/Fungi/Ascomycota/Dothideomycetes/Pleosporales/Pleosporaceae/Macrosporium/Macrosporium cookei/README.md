@@ -1,5 +1,4 @@
-Macrosporium cookei Sacc. SPECIES
-=======
+# Macrosporium cookei Sacc. SPECIES
 
 #### Status
 ACCEPTED

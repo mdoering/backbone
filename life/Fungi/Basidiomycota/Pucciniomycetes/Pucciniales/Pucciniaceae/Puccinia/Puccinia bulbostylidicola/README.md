@@ -1,5 +1,4 @@
-Puccinia bulbostylidicola Thirum. SPECIES
-=======
+# Puccinia bulbostylidicola Thirum. SPECIES
 
 #### Status
 ACCEPTED

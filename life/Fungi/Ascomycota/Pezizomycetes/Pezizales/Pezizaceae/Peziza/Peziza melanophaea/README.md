@@ -1,5 +1,4 @@
-Peziza melanophaea Kunze SPECIES
-=======
+# Peziza melanophaea Kunze SPECIES
 
 #### Status
 ACCEPTED

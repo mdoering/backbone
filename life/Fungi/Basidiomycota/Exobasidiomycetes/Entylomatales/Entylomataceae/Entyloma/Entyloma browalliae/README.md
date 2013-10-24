@@ -1,5 +1,4 @@
-Entyloma browalliae Syd. SPECIES
-=======
+# Entyloma browalliae Syd. SPECIES
 
 #### Status
 ACCEPTED

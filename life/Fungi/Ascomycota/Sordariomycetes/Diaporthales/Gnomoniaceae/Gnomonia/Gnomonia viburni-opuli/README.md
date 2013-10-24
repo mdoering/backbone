@@ -1,5 +1,4 @@
-Gnomonia viburni-opuli M. Monod SPECIES
-=======
+# Gnomonia viburni-opuli M. Monod SPECIES
 
 #### Status
 ACCEPTED

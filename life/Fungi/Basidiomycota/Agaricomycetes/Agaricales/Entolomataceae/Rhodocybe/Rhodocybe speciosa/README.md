@@ -1,5 +1,4 @@
-Rhodocybe speciosa Lennox ex T.J. Baroni SPECIES
-=======
+# Rhodocybe speciosa Lennox ex T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerella eximia (Nyl.) Vezda SPECIES
-=======
+# Dimerella eximia (Nyl.) Vezda SPECIES
 
 #### Status
 ACCEPTED

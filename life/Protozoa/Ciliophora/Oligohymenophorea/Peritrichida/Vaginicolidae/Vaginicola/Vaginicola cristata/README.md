@@ -1,5 +1,4 @@
-Vaginicola cristata Dumas, 1929 SPECIES
-=======
+# Vaginicola cristata Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

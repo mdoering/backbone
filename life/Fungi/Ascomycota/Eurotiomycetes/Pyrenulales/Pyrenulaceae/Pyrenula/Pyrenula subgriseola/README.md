@@ -1,5 +1,4 @@
-Pyrenula subgriseola SPECIES
-=======
+# Pyrenula subgriseola SPECIES
 
 #### Status
 ACCEPTED

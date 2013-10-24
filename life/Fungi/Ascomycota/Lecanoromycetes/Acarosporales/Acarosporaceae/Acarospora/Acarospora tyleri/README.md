@@ -1,5 +1,4 @@
-Acarospora tyleri C.W. Dodge SPECIES
-=======
+# Acarospora tyleri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanactis opponens (Nyl.) H. Olivier SPECIES
-=======
+# Lecanactis opponens (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

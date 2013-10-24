@@ -1,5 +1,4 @@
-Bacidia glaucofuscescens Vain. SPECIES
-=======
+# Bacidia glaucofuscescens Vain. SPECIES
 
 #### Status
 ACCEPTED

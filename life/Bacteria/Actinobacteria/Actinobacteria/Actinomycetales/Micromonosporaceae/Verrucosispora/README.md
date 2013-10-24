@@ -1,5 +1,4 @@
-Verrucosispora Rheims, Schumann, Rohde & Stackebrandt, 1998 GENUS
-=======
+# Verrucosispora Rheims, Schumann, Rohde & Stackebrandt, 1998 GENUS
 
 #### Status
 ACCEPTED

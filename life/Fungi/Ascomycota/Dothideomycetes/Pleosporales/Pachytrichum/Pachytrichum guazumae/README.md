@@ -1,5 +1,4 @@
-Pachytrichum guazumae Syd. SPECIES
-=======
+# Pachytrichum guazumae Syd. SPECIES
 
 #### Status
 ACCEPTED

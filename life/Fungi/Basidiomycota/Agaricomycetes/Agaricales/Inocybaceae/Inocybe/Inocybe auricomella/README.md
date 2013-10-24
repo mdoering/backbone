@@ -1,5 +1,4 @@
-Inocybe auricomella Kühner SPECIES
-=======
+# Inocybe auricomella Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporum pyrrhosporum (Berk.) Massee SPECIES
-=======
+# Trichosporum pyrrhosporum (Berk.) Massee SPECIES
 
 #### Status
 ACCEPTED

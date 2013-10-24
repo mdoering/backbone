@@ -1,5 +1,4 @@
-Microdiplodia bambusina Sacc. SPECIES
-=======
+# Microdiplodia bambusina Sacc. SPECIES
 
 #### Status
 ACCEPTED

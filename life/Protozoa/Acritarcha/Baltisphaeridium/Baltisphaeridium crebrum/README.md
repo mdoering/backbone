@@ -1,5 +1,4 @@
-Baltisphaeridium crebrum Playford, 1977 SPECIES
-=======
+# Baltisphaeridium crebrum Playford, 1977 SPECIES
 
 #### Status
 ACCEPTED

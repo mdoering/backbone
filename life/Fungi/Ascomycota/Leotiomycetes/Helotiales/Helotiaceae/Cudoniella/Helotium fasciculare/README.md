@@ -1,5 +1,4 @@
-Helotium fasciculare Berk. & Broome SPECIES
-=======
+# Helotium fasciculare Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

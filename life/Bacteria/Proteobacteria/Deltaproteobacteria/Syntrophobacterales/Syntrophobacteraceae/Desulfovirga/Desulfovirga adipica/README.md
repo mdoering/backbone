@@ -1,5 +1,4 @@
-Desulfovirga adipica Tanaka et al., 2000 SPECIES
-=======
+# Desulfovirga adipica Tanaka et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

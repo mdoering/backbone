@@ -1,5 +1,4 @@
-Terfezia castanea Quél. SPECIES
-=======
+# Terfezia castanea Quél. SPECIES
 
 #### Status
 ACCEPTED

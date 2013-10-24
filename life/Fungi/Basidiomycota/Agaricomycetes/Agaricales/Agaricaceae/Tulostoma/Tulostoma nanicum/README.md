@@ -1,5 +1,4 @@
-Tulostoma nanicum Bat. & A.F. Vital SPECIES
-=======
+# Tulostoma nanicum Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

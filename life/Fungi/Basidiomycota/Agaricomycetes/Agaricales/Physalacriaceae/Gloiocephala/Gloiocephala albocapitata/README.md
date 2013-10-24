@@ -1,5 +1,4 @@
-Gloiocephala albocapitata var. albocapitata VARIETY
-=======
+# Gloiocephala albocapitata (Petch) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gloiocephala albocapitata var. albocapitata
+Marasmius albocapitatus Petch
 
 ### Remarks
 null

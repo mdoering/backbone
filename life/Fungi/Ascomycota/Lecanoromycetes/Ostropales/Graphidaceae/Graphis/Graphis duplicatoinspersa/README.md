@@ -1,5 +1,4 @@
-Graphis duplicatoinspersa Lücking SPECIES
-=======
+# Graphis duplicatoinspersa Lücking SPECIES
 
 #### Status
 ACCEPTED

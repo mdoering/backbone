@@ -1,5 +1,4 @@
-Roccellina corrugata Follmann SPECIES
-=======
+# Roccellina corrugata Follmann SPECIES
 
 #### Status
 ACCEPTED

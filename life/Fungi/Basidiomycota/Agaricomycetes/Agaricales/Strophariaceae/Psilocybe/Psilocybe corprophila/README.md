@@ -1,5 +1,4 @@
-Psilocybe corprophila (Bull. ex Fr.) Kummer. SPECIES
-=======
+# Psilocybe corprophila (Bull. ex Fr.) Kummer. SPECIES
 
 #### Status
 ACCEPTED

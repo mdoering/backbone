@@ -1,5 +1,4 @@
-Diorchidium brasiliense Arthur SPECIES
-=======
+# Diorchidium brasiliense Arthur SPECIES
 
 #### Status
 ACCEPTED

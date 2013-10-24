@@ -1,5 +1,4 @@
-Graphis arecae Vain. SPECIES
-=======
+# Graphis arecae Vain. SPECIES
 
 #### Status
 ACCEPTED

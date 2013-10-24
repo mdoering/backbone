@@ -1,5 +1,4 @@
-Sturiella Borza, 1981 GENUS
-=======
+# Sturiella Borza, 1981 GENUS
 
 #### Status
 ACCEPTED

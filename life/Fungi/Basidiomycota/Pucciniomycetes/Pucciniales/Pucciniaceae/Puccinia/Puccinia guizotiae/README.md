@@ -1,5 +1,4 @@
-Puccinia guizotiae Cummins SPECIES
-=======
+# Puccinia guizotiae Cummins SPECIES
 
 #### Status
 ACCEPTED

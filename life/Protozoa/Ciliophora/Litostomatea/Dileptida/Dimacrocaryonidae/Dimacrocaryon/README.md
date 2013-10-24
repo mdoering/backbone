@@ -1,5 +1,4 @@
-Dimacrocaryon GENUS
-=======
+# Dimacrocaryon GENUS
 
 #### Status
 ACCEPTED

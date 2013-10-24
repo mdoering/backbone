@@ -1,5 +1,4 @@
-Pleospora sanseveriana Delacr. SPECIES
-=======
+# Pleospora sanseveriana Delacr. SPECIES
 
 #### Status
 ACCEPTED

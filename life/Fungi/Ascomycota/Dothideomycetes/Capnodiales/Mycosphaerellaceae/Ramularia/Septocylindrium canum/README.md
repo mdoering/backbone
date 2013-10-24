@@ -1,5 +1,4 @@
-Septocylindrium canum (Sacc.) J. Schroet. SPECIES
-=======
+# Septocylindrium canum (Sacc.) J. Schroet. SPECIES
 
 #### Status
 ACCEPTED

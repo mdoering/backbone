@@ -1,5 +1,4 @@
-Usnea fruticosa Stirt. SPECIES
-=======
+# Usnea fruticosa Stirt. SPECIES
 
 #### Status
 ACCEPTED

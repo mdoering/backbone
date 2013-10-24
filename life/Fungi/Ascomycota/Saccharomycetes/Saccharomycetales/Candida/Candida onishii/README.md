@@ -1,5 +1,4 @@
-Candida onishii Kumbh. SPECIES
-=======
+# Candida onishii Kumbh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia langsbergi Speg. SPECIES
-=======
+# Laboulbenia langsbergi Speg. SPECIES
 
 #### Status
 ACCEPTED

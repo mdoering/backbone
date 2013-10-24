@@ -1,5 +1,4 @@
-Lithothelium grossum Aptroot SPECIES
-=======
+# Lithothelium grossum Aptroot SPECIES
 
 #### Status
 ACCEPTED

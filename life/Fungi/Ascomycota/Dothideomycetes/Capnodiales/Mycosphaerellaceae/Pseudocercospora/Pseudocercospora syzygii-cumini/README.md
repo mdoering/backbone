@@ -1,5 +1,4 @@
-Pseudocercospora syzygii-cumini U. Braun & Bagyan. SPECIES
-=======
+# Pseudocercospora syzygii-cumini U. Braun & Bagyan. SPECIES
 
 #### Status
 ACCEPTED

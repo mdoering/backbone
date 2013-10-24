@@ -1,14 +1,13 @@
-Monotospora lanuginosa (Tsikl.) E.W. Mason, 1933 SPECIES
-=======
+# Thermomyces lanuginosus Tsikl., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 3: 59 (1933)
+Annls Inst. Pasteur, Paris 13: 500-504 (1899)
 
 #### Original name
 Thermomyces lanuginosus Tsikl., 1899

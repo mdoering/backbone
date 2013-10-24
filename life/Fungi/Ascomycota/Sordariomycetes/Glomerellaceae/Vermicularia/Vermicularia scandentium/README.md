@@ -1,5 +1,4 @@
-Vermicularia scandentium Schwein. SPECIES
-=======
+# Vermicularia scandentium Schwein. SPECIES
 
 #### Status
 ACCEPTED

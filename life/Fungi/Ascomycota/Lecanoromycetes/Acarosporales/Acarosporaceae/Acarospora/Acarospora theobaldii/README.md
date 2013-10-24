@@ -1,5 +1,4 @@
-Acarospora theobaldii J. Steiner SPECIES
-=======
+# Acarospora theobaldii J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonidium spiraeae Dearn. & House SPECIES
-=======
+# Belonidium spiraeae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

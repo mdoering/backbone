@@ -1,5 +1,4 @@
-Pannaria acutior Nyl. SPECIES
-=======
+# Pannaria acutior Nyl. SPECIES
 
 #### Status
 ACCEPTED

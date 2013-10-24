@@ -1,5 +1,4 @@
-Lecanora flavescens (Bagl.) Bagl. SPECIES
-=======
+# Lecanora flavescens (Bagl.) Bagl. SPECIES
 
 #### Status
 ACCEPTED

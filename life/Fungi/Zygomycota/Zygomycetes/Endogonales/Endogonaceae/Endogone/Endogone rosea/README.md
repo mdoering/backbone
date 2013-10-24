@@ -1,5 +1,4 @@
-Endogone rosea Zeller SPECIES
-=======
+# Endogone rosea Zeller SPECIES
 
 #### Status
 ACCEPTED

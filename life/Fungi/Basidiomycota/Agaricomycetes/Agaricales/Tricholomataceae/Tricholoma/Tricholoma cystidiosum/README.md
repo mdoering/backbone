@@ -1,17 +1,16 @@
-Tricholoma cystidiosa Cifuentes & Guzmán SPECIES
-=======
+# Tricholoma cystidiosum Cifuentes & Guzmán SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Sociedad Mexicana de Micología 16: 38 (1981)
 
 #### Original name
-Tricholoma cystidiosa Cifuentes & Guzmán
+Tricholoma cystidiosum Cifuentes & Guzmán
 
 ### Remarks
 null

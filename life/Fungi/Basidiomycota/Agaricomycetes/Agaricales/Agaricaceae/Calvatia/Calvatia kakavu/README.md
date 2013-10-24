@@ -1,5 +1,4 @@
-Calvatia kakavu (Zipp.) Overeem SPECIES
-=======
+# Calvatia kakavu (Zipp.) Overeem SPECIES
 
 #### Status
 ACCEPTED

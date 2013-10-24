@@ -1,5 +1,4 @@
-Neogeneia Eigner, 1995 GENUS
-=======
+# Neogeneia Eigner, 1995 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoacia brunneofusca Hjortstam & Ryvarden SPECIES
-=======
+# Mycoacia brunneofusca Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

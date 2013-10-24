@@ -1,5 +1,4 @@
-Dermatea crypta Cooke SPECIES
-=======
+# Dermatea crypta Cooke SPECIES
 
 #### Status
 ACCEPTED

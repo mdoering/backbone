@@ -1,5 +1,4 @@
-Sphaerella fennica P. Karst. SPECIES
-=======
+# Sphaerella fennica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

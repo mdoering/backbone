@@ -1,5 +1,4 @@
-Sphingobium amiense Ushiba et al., 2003 SPECIES
-=======
+# Sphingobium amiense Ushiba et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

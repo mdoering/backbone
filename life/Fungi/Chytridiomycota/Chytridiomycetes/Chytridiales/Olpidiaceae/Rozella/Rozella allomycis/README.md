@@ -1,5 +1,4 @@
-Rozella allomycis F.K. Faust SPECIES
-=======
+# Rozella allomycis F.K. Faust SPECIES
 
 #### Status
 ACCEPTED

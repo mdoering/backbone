@@ -1,5 +1,4 @@
-Senoniasphaera inornata (Drugg, 1970) Lentin & Williams SPECIES
-=======
+# Senoniasphaera inornata (Drugg, 1970) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

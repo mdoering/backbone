@@ -1,14 +1,13 @@
-Roselliniella kalbii Hafellner, 1985 SPECIES
-=======
+# Rosellinula kalbii (Hafellner) Hafellner & R.W. Rogers, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herzogia 7(1-2): 152 (1985)
+in Rogers & Hafellner, Lichenologist 20(2): 168 (1988)
 
 #### Original name
 Roselliniella kalbii Hafellner, 1985

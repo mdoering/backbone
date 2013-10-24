@@ -1,8 +1,7 @@
-Ehrenbergina pacifica var. aspinosa Parr, 1950 VARIETY
-=======
+# Ehrenbergina aspinosa Parr, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

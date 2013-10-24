@@ -1,5 +1,4 @@
-Ladoronia Hanzawa, 1957 GENUS
-=======
+# Ladoronia Hanzawa, 1957 GENUS
 
 #### Status
 ACCEPTED

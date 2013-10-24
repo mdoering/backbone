@@ -1,5 +1,4 @@
-Galerina aquatilis (Fr.) S. Lundell SPECIES
-=======
+# Galerina aquatilis (Fr.) S. Lundell SPECIES
 
 #### Status
 ACCEPTED

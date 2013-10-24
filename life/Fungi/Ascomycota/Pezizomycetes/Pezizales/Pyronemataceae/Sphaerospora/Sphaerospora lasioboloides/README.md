@@ -1,5 +1,4 @@
-Sphaerospora lasioboloides Marchal & É.J. Marchal SPECIES
-=======
+# Sphaerospora lasioboloides Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

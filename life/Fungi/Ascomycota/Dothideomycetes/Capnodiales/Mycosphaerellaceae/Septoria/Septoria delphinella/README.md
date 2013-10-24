@@ -1,5 +1,4 @@
-Septoria delphinella Sacc. SPECIES
-=======
+# Septoria delphinella Sacc. SPECIES
 
 #### Status
 ACCEPTED

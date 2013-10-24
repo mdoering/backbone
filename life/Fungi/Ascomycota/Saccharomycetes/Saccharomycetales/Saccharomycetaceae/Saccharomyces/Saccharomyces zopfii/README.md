@@ -1,5 +1,4 @@
-Saccharomyces zopfii Artari SPECIES
-=======
+# Saccharomyces zopfii Artari SPECIES
 
 #### Status
 ACCEPTED

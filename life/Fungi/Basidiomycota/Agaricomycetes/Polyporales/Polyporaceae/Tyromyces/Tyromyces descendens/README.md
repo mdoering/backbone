@@ -1,5 +1,4 @@
-Tyromyces descendens Corner SPECIES
-=======
+# Tyromyces descendens Corner SPECIES
 
 #### Status
 ACCEPTED

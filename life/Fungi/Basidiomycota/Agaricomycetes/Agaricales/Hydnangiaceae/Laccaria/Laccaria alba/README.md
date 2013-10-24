@@ -1,5 +1,4 @@
-Laccaria alba Zhu L. Yang & Lan Wang, 2004 SPECIES
-=======
+# Laccaria alba Zhu L. Yang & Lan Wang, 2004 SPECIES
 
 #### Status
 ACCEPTED

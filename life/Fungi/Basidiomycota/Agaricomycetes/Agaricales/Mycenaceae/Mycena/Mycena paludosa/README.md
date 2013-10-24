@@ -1,5 +1,4 @@
-Mycena paludosa Naveau SPECIES
-=======
+# Mycena paludosa Naveau SPECIES
 
 #### Status
 ACCEPTED

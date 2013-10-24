@@ -1,5 +1,4 @@
-Botryodiplodia pallida Ellis & Everh. SPECIES
-=======
+# Botryodiplodia pallida Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

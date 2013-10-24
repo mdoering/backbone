@@ -1,5 +1,4 @@
-Graphis balfourii (Müll. Arg.) Spreng. SPECIES
-=======
+# Graphis balfourii (Müll. Arg.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

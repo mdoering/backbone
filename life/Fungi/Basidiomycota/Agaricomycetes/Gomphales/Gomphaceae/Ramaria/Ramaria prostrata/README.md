@@ -1,5 +1,4 @@
-Ramaria prostrata Khurana & K.S. Thind, 1979 SPECIES
-=======
+# Ramaria prostrata Khurana & K.S. Thind, 1979 SPECIES
 
 #### Status
 ACCEPTED

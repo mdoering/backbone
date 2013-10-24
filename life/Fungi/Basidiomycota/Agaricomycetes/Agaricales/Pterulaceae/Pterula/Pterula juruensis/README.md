@@ -1,5 +1,4 @@
-Pterula juruensis (Henn.) Corner SPECIES
-=======
+# Pterula juruensis (Henn.) Corner SPECIES
 
 #### Status
 ACCEPTED

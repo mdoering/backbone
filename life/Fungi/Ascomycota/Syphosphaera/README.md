@@ -1,5 +1,4 @@
-Syphosphaera Dumort. GENUS
-=======
+# Syphosphaera Dumort. GENUS
 
 #### Status
 ACCEPTED

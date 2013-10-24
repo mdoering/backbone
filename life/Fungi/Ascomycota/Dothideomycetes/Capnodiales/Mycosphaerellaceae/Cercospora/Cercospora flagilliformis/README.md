@@ -1,5 +1,4 @@
-Cercospora flagilliformis Ellis & Halst. SPECIES
-=======
+# Cercospora flagilliformis Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammoglobigerina Eimer & Fickert, 1899 GENUS
-=======
+# Ammoglobigerina Eimer & Fickert, 1899 GENUS
 
 #### Status
 ACCEPTED

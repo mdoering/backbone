@@ -1,5 +1,4 @@
-Hymenula olivacea Peck SPECIES
-=======
+# Hymenula olivacea Peck SPECIES
 
 #### Status
 ACCEPTED

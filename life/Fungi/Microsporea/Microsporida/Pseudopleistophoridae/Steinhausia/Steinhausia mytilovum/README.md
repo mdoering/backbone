@@ -1,5 +1,4 @@
-Steinhausia mytilovum (Field, 1924) Sprague, Ormières & Manier SPECIES
-=======
+# Steinhausia mytilovum (Field, 1924) Sprague, Ormières & Manier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas guttata Middelhoek SPECIES
-=======
+# Trachelomonas guttata Middelhoek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exosporina mali Nevod. SPECIES
-=======
+# Exosporina mali Nevod. SPECIES
 
 #### Status
 ACCEPTED

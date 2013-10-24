@@ -1,5 +1,4 @@
-Phyllosticta glabra Brunaud SPECIES
-=======
+# Phyllosticta glabra Brunaud SPECIES
 
 #### Status
 ACCEPTED

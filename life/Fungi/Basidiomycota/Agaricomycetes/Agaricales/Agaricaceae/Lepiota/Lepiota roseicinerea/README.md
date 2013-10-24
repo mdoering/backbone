@@ -1,5 +1,4 @@
-Lepiota roseicinerea Murrill SPECIES
-=======
+# Lepiota roseicinerea Murrill SPECIES
 
 #### Status
 ACCEPTED

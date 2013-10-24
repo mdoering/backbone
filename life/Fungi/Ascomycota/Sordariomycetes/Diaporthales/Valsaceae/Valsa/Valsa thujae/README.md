@@ -1,5 +1,4 @@
-Valsa thujae Peck SPECIES
-=======
+# Valsa thujae Peck SPECIES
 
 #### Status
 ACCEPTED

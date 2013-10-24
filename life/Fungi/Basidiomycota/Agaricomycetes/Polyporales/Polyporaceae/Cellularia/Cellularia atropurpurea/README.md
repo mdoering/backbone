@@ -1,5 +1,4 @@
-Cellularia atropurpurea (Sacc.) Kuntze SPECIES
-=======
+# Cellularia atropurpurea (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

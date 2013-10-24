@@ -1,5 +1,4 @@
-Lloydella beyrichii (Fr.) Bres. SPECIES
-=======
+# Lloydella beyrichii (Fr.) Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lenzites thunbergii (Fr.) Fr. SPECIES
-=======
+# Lenzites thunbergii (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

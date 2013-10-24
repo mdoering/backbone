@@ -1,5 +1,4 @@
-Herpothrix GENUS
-=======
+# Herpothrix GENUS
 
 #### Status
 ACCEPTED

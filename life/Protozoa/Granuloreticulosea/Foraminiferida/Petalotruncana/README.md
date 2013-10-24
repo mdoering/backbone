@@ -1,5 +1,4 @@
-Petalotruncana Korchagin, 1993 GENUS
-=======
+# Petalotruncana Korchagin, 1993 GENUS
 
 #### Status
 ACCEPTED

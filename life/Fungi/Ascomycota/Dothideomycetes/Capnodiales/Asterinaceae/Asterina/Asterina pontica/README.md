@@ -1,5 +1,4 @@
-Asterina pontica Bubák SPECIES
-=======
+# Asterina pontica Bubák SPECIES
 
 #### Status
 ACCEPTED

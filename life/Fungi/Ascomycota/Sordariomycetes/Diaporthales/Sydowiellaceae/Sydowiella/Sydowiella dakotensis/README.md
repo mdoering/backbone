@@ -1,5 +1,4 @@
-Sydowiella dakotensis Petr. SPECIES
-=======
+# Sydowiella dakotensis Petr. SPECIES
 
 #### Status
 ACCEPTED

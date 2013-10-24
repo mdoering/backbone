@@ -1,5 +1,4 @@
-Phomopsis meliloti Grove SPECIES
-=======
+# Phomopsis meliloti Grove SPECIES
 
 #### Status
 ACCEPTED

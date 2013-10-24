@@ -1,5 +1,4 @@
-Macrosporium sparganii J. Lindau SPECIES
-=======
+# Macrosporium sparganii J. Lindau SPECIES
 
 #### Status
 ACCEPTED

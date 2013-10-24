@@ -1,5 +1,4 @@
-Medusoides H. Voglmayr GENUS
-=======
+# Medusoides H. Voglmayr GENUS
 
 #### Status
 ACCEPTED

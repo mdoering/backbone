@@ -1,5 +1,4 @@
-Metasphaeria sanguinea Ellis & Everh. SPECIES
-=======
+# Metasphaeria sanguinea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophrya ictaluri SPECIES
-=======
+# Trichophrya ictaluri SPECIES
 
 #### Status
 ACCEPTED

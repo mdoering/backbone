@@ -1,5 +1,4 @@
-Lecanora curvabilis f. curvabilis FORM
-=======
+# Lecanora curvabilis Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora curvabilis f. curvabilis
+Lecanora curvabilis Nyl.
 
 ### Remarks
 null

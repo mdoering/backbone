@@ -1,5 +1,4 @@
-Scolicotrichum iridicola Miura SPECIES
-=======
+# Scolicotrichum iridicola Miura SPECIES
 
 #### Status
 ACCEPTED

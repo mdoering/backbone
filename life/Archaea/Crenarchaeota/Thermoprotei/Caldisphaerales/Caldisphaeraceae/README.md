@@ -1,5 +1,4 @@
-Caldisphaeraceae FAMILY
-=======
+# Caldisphaeraceae FAMILY
 
 #### Status
 ACCEPTED

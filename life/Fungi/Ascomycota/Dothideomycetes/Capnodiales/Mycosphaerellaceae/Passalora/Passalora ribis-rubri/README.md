@@ -1,5 +1,4 @@
-Passalora ribis-rubri (Savul. & Sandu) U. Braun SPECIES
-=======
+# Passalora ribis-rubri (Savul. & Sandu) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Readeriella novaezelandiae Crous SPECIES
-=======
+# Readeriella novae-zelandiae Crous, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous, Groenewald, Mansilla, Hunter & Wingfield, Stud. Mycol. 50(1): 211 (2004)
 
 #### Original name
-Readeriella novaezelandiae Crous
+Readeriella novae-zelandiae Crous, 2004
 
 ### Remarks
 null

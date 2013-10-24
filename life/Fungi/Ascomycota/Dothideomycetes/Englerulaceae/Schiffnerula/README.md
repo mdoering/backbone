@@ -1,17 +1,16 @@
-Phaeoschiffnerula Theiss. GENUS
-=======
+# Schiffnerula Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brotéria, sér. bot. 12: 21 (1914)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 867 (1909)
 
 #### Original name
-Phaeoschiffnerula Theiss.
+Schiffnerula Höhn.
 
 ### Remarks
 null

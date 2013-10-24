@@ -1,17 +1,16 @@
-Gymnopilus pseudocamerina Singer SPECIES
-=======
+# Gymnopilus pseudocamerinus Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lilloa 22: 572 (1951)
 
 #### Original name
-Gymnopilus pseudocamerina Singer
+Gymnopilus pseudocamerinus Singer
 
 ### Remarks
 null

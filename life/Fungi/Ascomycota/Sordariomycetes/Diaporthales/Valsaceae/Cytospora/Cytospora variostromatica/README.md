@@ -1,5 +1,4 @@
-Cytospora variostromatica G.C. Adams & M.J. Wingf. SPECIES
-=======
+# Cytospora variostromatica G.C. Adams & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sporisorium setaricolum (Thirum. & Safeeulla) Bag & D.K. Agarwal SPECIES
-=======
+# Sporisorium setariicola (Thirum. & Safeeulla) Bag & D.K. Agarwal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 54(2): 224 (2001)
 
 #### Original name
 Sorosporium setariicola Thirum. & Safeeulla

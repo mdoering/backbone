@@ -1,14 +1,13 @@
-Cylindrophora apiculata Tubaki, 1955 SPECIES
-=======
+# Cladobotryum apiculatum (Tubaki) W. Gams & Hooz., 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nagaoa 5: 16 (1955)
+Persoonia 6(1): 97 (1970)
 
 #### Original name
 Cylindrophora apiculata Tubaki, 1955

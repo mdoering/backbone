@@ -1,5 +1,4 @@
-Tympanis acericola J.W. Groves SPECIES
-=======
+# Tympanis acericola J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

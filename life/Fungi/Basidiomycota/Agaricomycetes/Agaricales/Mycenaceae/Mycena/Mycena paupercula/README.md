@@ -1,5 +1,4 @@
-Mycena paupercula (Berk.) Sacc. SPECIES
-=======
+# Mycena paupercula (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

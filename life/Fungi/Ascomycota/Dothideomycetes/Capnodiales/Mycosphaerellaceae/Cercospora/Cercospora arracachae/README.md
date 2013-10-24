@@ -1,5 +1,4 @@
-Cercospora arracachae Pat. SPECIES
-=======
+# Cercospora arracachae Pat. SPECIES
 
 #### Status
 ACCEPTED

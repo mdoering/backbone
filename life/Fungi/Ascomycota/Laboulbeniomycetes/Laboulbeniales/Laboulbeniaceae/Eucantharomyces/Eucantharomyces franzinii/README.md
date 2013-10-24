@@ -1,5 +1,4 @@
-Eucantharomyces franzinii W. Rossi SPECIES
-=======
+# Eucantharomyces franzinii W. Rossi SPECIES
 
 #### Status
 ACCEPTED

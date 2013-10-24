@@ -1,5 +1,4 @@
-Lichen atrocinereus Vill. SPECIES
-=======
+# Lichen atrocinereus Vill. SPECIES
 
 #### Status
 ACCEPTED

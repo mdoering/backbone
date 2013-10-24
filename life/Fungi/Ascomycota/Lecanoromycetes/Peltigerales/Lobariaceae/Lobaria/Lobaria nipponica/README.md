@@ -1,17 +1,16 @@
-Lobaria nipponica var. nipponica VARIETY
-=======
+# Lobaria nipponica Asahina SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Lobaria nipponica Asahina
 
 ### Remarks
 null

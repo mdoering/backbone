@@ -1,5 +1,4 @@
-Mycena villicaulis Maas Geest. SPECIES
-=======
+# Mycena villicaulis Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

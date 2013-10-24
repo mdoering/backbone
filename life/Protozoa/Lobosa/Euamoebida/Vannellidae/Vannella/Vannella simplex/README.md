@@ -1,5 +1,4 @@
-Vannella simplex Bovee, 1965 SPECIES
-=======
+# Vannella simplex Bovee, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clasterosporium punctiforme (Corda) Sacc. SPECIES
-=======
+# Clasterosporium punctiforme (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

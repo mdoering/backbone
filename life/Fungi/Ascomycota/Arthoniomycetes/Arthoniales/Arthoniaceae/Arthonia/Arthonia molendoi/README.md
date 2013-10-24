@@ -1,14 +1,13 @@
-Tichothecium molendoi Heufl. ex Frauenf. SPECIES
-=======
+# Arthonia molendoi (Heufl. ex Frauenf.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Thunbergia 3: 2 (1986)
 
 #### Original name
 Tichothecium molendoi Heufl. ex Frauenf.

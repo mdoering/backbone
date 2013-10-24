@@ -1,5 +1,4 @@
-Ophiomeliola usteri Speg. SPECIES
-=======
+# Ophiomeliola usteri Speg. SPECIES
 
 #### Status
 ACCEPTED

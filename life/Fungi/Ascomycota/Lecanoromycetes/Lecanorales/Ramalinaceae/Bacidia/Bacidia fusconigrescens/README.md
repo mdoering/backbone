@@ -1,5 +1,4 @@
-Bacidia fusconigrescens var. fusconigrescens VARIETY
-=======
+# Bacidia fusconigrescens (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 200 (1926)
 
 #### Original name
 Lecidea fusconigrescens (Jatta) H. Olivier

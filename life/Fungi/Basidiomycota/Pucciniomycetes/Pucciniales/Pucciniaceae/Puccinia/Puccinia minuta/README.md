@@ -1,14 +1,13 @@
-Dicaeoma minutum (Dietel) Arthur & F. Kern, 1920 SPECIES
-=======
+# Puccinia minuta Dietel, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(4-5): 354 (1920)
+Col. fig. Engl. Fung. Mushr. 3: 184, pl. 400:10 (1803)
 
 #### Original name
 Puccinia minuta Dietel, 1897

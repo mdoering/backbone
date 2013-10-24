@@ -1,5 +1,4 @@
-Asterina stixis B. Song, T.H. Li & Hosag. SPECIES
-=======
+# Asterina stixis B. Song, T.H. Li & Hosag. SPECIES
 
 #### Status
 ACCEPTED

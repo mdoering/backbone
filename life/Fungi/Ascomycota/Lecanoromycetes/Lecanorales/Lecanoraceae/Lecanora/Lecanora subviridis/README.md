@@ -1,5 +1,4 @@
-Lecanora subviridis de la Rosa & Messuti SPECIES
-=======
+# Lecanora subviridis de la Rosa & Messuti SPECIES
 
 #### Status
 ACCEPTED

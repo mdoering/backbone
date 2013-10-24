@@ -1,8 +1,7 @@
-Uredo athamantae DC. SPECIES
-=======
+# Uredo athamanthae DC. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo athamantae DC.
+Uredo athamanthae DC.
 
 ### Remarks
 null

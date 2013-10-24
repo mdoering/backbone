@@ -1,5 +1,4 @@
-Puccinia atkinsoniana var. atkinsoniana VARIETY
-=======
+# Puccinia atkinsoniana Dietel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia atkinsoniana var. atkinsoniana
+Puccinia atkinsoniana Dietel
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bacidia rufinula (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia rufinula (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

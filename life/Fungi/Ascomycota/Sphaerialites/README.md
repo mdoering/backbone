@@ -1,5 +1,4 @@
-Sphaerialites Venkatach. & R.K. Kar GENUS
-=======
+# Sphaerialites Venkatach. & R.K. Kar GENUS
 
 #### Status
 ACCEPTED

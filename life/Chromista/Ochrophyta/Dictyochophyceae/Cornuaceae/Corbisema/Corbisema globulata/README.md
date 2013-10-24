@@ -1,5 +1,4 @@
-Corbisema globulata (D. Bukry) S. Locker & E. Martini SPECIES
-=======
+# Corbisema globulata (D. Bukry) S. Locker & E. Martini SPECIES
 
 #### Status
 ACCEPTED

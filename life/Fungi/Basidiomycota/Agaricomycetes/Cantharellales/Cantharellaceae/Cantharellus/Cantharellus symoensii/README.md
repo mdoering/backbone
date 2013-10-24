@@ -1,5 +1,4 @@
-Cantharellus symoensii Heinem. SPECIES
-=======
+# Cantharellus symoensii Heinem. SPECIES
 
 #### Status
 ACCEPTED

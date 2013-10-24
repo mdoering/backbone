@@ -1,5 +1,4 @@
-Peziza porphyra Berk. & M.A. Curtis SPECIES
-=======
+# Peziza porphyra Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Acanthophysium dextrinoideocerussatum (Manjón, M.N. Blanco & G. Moreno) Tellería, 1993 SPECIES
-=======
+# Aleurodiscus dextrinoideocerussatus Manjón, M.N. Blanco & G. Moreno, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 57(1-2): 208 (1993)
+in Moreno, Blanco & Manjón, Mycotaxon 39: 351 (1990)
 
 #### Original name
 Aleurodiscus dextrinoideocerussatus Manjón, M.N. Blanco & G. Moreno, 1990

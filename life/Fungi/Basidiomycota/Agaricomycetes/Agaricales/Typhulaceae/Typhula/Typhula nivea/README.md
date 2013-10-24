@@ -1,5 +1,4 @@
-Typhula nivea Pat. SPECIES
-=======
+# Typhula nivea Pat. SPECIES
 
 #### Status
 ACCEPTED

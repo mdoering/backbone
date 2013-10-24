@@ -1,5 +1,4 @@
-Calicium subpallidum Räsänen SPECIES
-=======
+# Calicium subpallidum Räsänen SPECIES
 
 #### Status
 ACCEPTED

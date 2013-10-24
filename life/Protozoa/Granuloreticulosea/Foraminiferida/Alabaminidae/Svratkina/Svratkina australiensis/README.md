@@ -1,8 +1,7 @@
-Svratkina bubnanensis McCulloch, 1977 SPECIES
-=======
+# Svratkina australiensis (Chapman, Parr & Collins, 1934) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Boletus sericeus Krombh. SPECIES
-=======
+# Boletus sericeus Krombh. SPECIES
 
 #### Status
 ACCEPTED

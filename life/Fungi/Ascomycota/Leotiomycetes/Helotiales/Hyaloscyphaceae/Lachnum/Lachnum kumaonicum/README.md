@@ -1,5 +1,4 @@
-Lachnum kumaonicum (M.P. Sharma) M.P. Sharma SPECIES
-=======
+# Lachnum kumaonicum (M.P. Sharma) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

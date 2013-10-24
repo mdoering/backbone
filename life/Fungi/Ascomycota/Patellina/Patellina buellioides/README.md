@@ -1,5 +1,4 @@
-Patellina buellioides Speg. SPECIES
-=======
+# Patellina buellioides Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polyporus borealis var. borealis VARIETY
-=======
+# Polyporus borealis SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Belgian Species List
 
 #### Published in
-Syst. mycol. (Lundae) 1: 366 (1821)
+null
 
 #### Original name
-Polyporus borealis var. borealis
+null
 
 ### Remarks
 null

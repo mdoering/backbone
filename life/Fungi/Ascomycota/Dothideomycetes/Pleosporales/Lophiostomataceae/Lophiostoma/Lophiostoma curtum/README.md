@@ -1,5 +1,4 @@
-Lophiostoma curtum (Fr.) De Not. SPECIES
-=======
+# Lophiostoma curtum (Fr.) De Not. SPECIES
 
 #### Status
 ACCEPTED

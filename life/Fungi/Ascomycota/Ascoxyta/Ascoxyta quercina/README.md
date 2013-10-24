@@ -1,5 +1,4 @@
-Ascoxyta quercina Lib. SPECIES
-=======
+# Ascoxyta quercina Lib. SPECIES
 
 #### Status
 ACCEPTED

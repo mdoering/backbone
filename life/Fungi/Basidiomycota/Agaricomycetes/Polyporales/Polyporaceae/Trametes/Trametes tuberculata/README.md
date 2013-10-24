@@ -1,5 +1,4 @@
-Trametes tuberculata Bres. SPECIES
-=======
+# Trametes tuberculata Bres. SPECIES
 
 #### Status
 ACCEPTED

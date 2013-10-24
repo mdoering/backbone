@@ -1,5 +1,4 @@
-Reticulosphaeraceae Cavalier-Smith FAMILY
-=======
+# Reticulosphaeraceae Cavalier-Smith FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium stephaniae Sawada SPECIES
-=======
+# Macrosporium stephaniae Sawada SPECIES
 
 #### Status
 ACCEPTED

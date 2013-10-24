@@ -1,5 +1,4 @@
-Helicobacter cholecystus Franklin et al., 1997 SPECIES
-=======
+# Helicobacter cholecystus Franklin et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

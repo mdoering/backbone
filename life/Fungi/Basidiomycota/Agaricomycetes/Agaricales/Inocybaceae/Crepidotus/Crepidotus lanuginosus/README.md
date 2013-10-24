@@ -1,5 +1,4 @@
-Crepidotus lanuginosus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus lanuginosus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

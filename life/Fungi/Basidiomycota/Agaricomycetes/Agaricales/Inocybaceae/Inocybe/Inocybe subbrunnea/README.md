@@ -1,5 +1,4 @@
-Inocybe subbrunnea var. subbrunnea VARIETY
-=======
+# Inocybe subbrunnea Kühner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Inocybe subbrunnea var. subbrunnea
+Inocybe subbrunnea Kühner
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hypomyces australbidus K. Põldmaa & Samuels SPECIES
-=======
+# Hypomyces australbidus K. Põldmaa & Samuels SPECIES
 
 #### Status
 ACCEPTED

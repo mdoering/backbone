@@ -1,17 +1,16 @@
-Tulostoma portorricense J.E. Wright SPECIES
-=======
+# Tulostoma portoricense J.E. Wright, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 113: 218 (1987)
 
 #### Original name
-Tulostoma portorricense J.E. Wright
+Tulostoma portoricense J.E. Wright, 1987
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Jarvisella Brönnimann, 1953 GENUS
-=======
+# Jarvisella Brönnimann, 1953 GENUS
 
 #### Status
 ACCEPTED

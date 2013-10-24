@@ -1,17 +1,16 @@
-Lepiota coxheadi P.D. Orton SPECIES
-=======
+# Lepiota coxheadii P.D. Orton, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 41(3): 589 (1984)
 
 #### Original name
-Lepiota coxheadi P.D. Orton
+Lepiota coxheadii P.D. Orton, 1984
 
 ### Remarks
 null

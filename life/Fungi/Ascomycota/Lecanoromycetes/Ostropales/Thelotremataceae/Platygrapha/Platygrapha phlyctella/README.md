@@ -1,5 +1,4 @@
-Platygrapha phlyctella Nyl. SPECIES
-=======
+# Platygrapha phlyctella Nyl. SPECIES
 
 #### Status
 ACCEPTED

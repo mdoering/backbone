@@ -1,5 +1,4 @@
-Torula marina Coupin SPECIES
-=======
+# Torula marina Coupin SPECIES
 
 #### Status
 ACCEPTED

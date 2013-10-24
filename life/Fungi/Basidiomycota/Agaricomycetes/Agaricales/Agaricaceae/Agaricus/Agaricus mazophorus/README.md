@@ -1,5 +1,4 @@
-Agaricus mazophorus Berk. & Broome SPECIES
-=======
+# Agaricus mazophorus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpiscum aterrimum Stirt. SPECIES
-=======
+# Endocarpiscum aterrimum Stirt. SPECIES
 
 #### Status
 ACCEPTED

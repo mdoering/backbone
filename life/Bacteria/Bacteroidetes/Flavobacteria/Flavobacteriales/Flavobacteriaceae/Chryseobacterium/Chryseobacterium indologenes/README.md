@@ -1,8 +1,7 @@
-Flavobacterium indologenes Yabuuchi et al., 1983 SPECIES
-=======
+# Chryseobacterium indologenes (Yabuuchi et al., 1983) Vandamme et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

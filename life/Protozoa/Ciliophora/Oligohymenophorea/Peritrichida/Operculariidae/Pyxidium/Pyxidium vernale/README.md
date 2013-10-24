@@ -1,5 +1,4 @@
-Pyxidium vernale Stokes, 1887 SPECIES
-=======
+# Pyxidium vernale Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

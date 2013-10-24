@@ -1,5 +1,4 @@
-Phoma selaginellicola Gruyter, Noordel., Aa & Boerema, 1993 SPECIES
-=======
+# Phoma selaginellicola Gruyter, Noordel., Aa & Boerema, 1993 SPECIES
 
 #### Status
 ACCEPTED

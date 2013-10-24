@@ -1,5 +1,4 @@
-Russula eburneoareolata Hongo SPECIES
-=======
+# Russula eburneoareolata Hongo SPECIES
 
 #### Status
 ACCEPTED

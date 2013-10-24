@@ -1,8 +1,7 @@
-Stentor foliginosus SPECIES
-=======
+# Stentor fuliginosus Forbes, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

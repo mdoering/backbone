@@ -1,5 +1,4 @@
-Marasmius acerinus Peck SPECIES
-=======
+# Marasmius acerinus Peck SPECIES
 
 #### Status
 ACCEPTED

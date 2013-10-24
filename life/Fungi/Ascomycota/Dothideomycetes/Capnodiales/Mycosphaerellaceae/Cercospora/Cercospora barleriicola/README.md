@@ -1,5 +1,4 @@
-Cercospora barleriicola Payak & Thirum. SPECIES
-=======
+# Cercospora barleriicola Payak & Thirum. SPECIES
 
 #### Status
 ACCEPTED

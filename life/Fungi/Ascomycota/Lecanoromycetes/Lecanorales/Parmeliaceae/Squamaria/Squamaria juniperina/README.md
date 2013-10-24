@@ -1,5 +1,4 @@
-Squamaria juniperina (L.) Hoffm. SPECIES
-=======
+# Squamaria juniperina (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

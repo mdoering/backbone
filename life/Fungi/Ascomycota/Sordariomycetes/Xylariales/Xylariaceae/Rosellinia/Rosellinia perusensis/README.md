@@ -1,5 +1,4 @@
-Rosellinia perusensis Henn. SPECIES
-=======
+# Rosellinia perusensis Henn. SPECIES
 
 #### Status
 ACCEPTED

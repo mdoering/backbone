@@ -1,5 +1,4 @@
-Penicillium kap-laboratorium Sopp SPECIES
-=======
+# Penicillium kap-laboratorium Sopp SPECIES
 
 #### Status
 ACCEPTED

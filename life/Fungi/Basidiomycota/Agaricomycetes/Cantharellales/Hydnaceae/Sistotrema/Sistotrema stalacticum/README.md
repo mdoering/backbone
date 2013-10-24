@@ -1,5 +1,4 @@
-Sistotrema stalacticum Pers. SPECIES
-=======
+# Sistotrema stalacticum Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phaeosperma (Sacc.) Traverso GENUS
-=======
+# Valsaria Ces. & De Not. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. ital. crypt. (Florence), Pyrenomycetae 292 (1906)
+Comm. Soc. crittog. Ital. 1: 205 (1863)
 
 #### Original name
-null
+Valsaria Ces. & De Not.
 
 ### Remarks
 null

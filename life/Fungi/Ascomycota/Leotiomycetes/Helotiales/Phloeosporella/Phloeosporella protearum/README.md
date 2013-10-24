@@ -1,5 +1,4 @@
-Phloeosporella protearum Joanne E. Taylor & Crous SPECIES
-=======
+# Phloeosporella protearum Joanne E. Taylor & Crous SPECIES
 
 #### Status
 ACCEPTED

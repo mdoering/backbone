@@ -1,5 +1,4 @@
-Lecidea howickensis Vain. SPECIES
-=======
+# Lecidea howickensis Vain. SPECIES
 
 #### Status
 ACCEPTED

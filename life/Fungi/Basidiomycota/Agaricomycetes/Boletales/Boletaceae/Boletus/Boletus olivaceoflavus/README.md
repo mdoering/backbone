@@ -1,5 +1,4 @@
-Boletus olivaceoflavus Dermek SPECIES
-=======
+# Boletus olivaceoflavus Dermek SPECIES
 
 #### Status
 ACCEPTED

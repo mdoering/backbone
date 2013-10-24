@@ -1,5 +1,4 @@
-Asterothecium GENUS
-=======
+# Asterothecium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cymatella marasmioides (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Cymatella marasmioides (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calosphaeria alnicola Ellis & Everh. SPECIES
-=======
+# Calosphaeria alnicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

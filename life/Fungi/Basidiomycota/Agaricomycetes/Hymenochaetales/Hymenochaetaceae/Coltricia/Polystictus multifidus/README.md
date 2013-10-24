@@ -1,5 +1,4 @@
-Polystictus multifidus (Klotzsch) Lloyd SPECIES
-=======
+# Polystictus multifidus (Klotzsch) Lloyd SPECIES
 
 #### Status
 ACCEPTED

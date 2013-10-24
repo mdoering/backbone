@@ -1,5 +1,4 @@
-Virgibacillus proomii Heyndrickx et al., 1999 SPECIES
-=======
+# Virgibacillus proomii Heyndrickx et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

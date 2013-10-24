@@ -1,5 +1,4 @@
-Agaricus ochrolaniatus Secr. SPECIES
-=======
+# Agaricus ochrolaniatus Secr. SPECIES
 
 #### Status
 ACCEPTED

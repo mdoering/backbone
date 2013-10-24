@@ -1,5 +1,4 @@
-Omphalia cuneifolia P. Karst. SPECIES
-=======
+# Omphalia cuneifolia P. Karst. SPECIES
 
 #### Status
 ACCEPTED

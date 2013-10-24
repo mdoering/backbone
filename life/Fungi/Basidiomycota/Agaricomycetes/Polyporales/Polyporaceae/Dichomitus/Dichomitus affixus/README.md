@@ -1,14 +1,13 @@
-Tyromyces affixus Corner, 1989 SPECIES
-=======
+# Dichomitus affixus (Corner) T. Hatt., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 96: 157 (1989)
+Mycoscience 43(4): 307 (2002)
 
 #### Original name
 Tyromyces affixus Corner, 1989

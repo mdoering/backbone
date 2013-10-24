@@ -1,5 +1,4 @@
-Sphaeria lituus Berk. & Broome SPECIES
-=======
+# Sphaeria lituus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

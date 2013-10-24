@@ -1,5 +1,4 @@
-Valsa germanica Nitschke, 1870 SPECIES
-=======
+# Valsa germanica Nitschke, 1870 SPECIES
 
 #### Status
 ACCEPTED

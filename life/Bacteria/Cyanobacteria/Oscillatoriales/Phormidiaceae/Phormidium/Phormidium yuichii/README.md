@@ -1,5 +1,4 @@
-Phormidium yuichii I. Umezaki & M. Watanabe SPECIES
-=======
+# Phormidium yuichii I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

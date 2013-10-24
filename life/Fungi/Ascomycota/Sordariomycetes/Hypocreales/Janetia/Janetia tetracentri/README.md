@@ -1,5 +1,4 @@
-Janetia tetracentri Y.L. Guo SPECIES
-=======
+# Janetia tetracentri Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

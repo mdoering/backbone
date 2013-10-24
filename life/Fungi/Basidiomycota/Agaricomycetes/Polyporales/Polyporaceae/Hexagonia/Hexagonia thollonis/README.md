@@ -1,5 +1,4 @@
-Hexagonia thollonis Pat. & Har. SPECIES
-=======
+# Hexagonia thollonis Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora dolosa Sacc. SPECIES
-=======
+# Cytospora dolosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

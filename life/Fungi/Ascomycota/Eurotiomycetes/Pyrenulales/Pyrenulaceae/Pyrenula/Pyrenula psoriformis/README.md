@@ -1,5 +1,4 @@
-Pyrenula psoriformis Zahlbr. SPECIES
-=======
+# Pyrenula psoriformis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

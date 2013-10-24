@@ -1,5 +1,4 @@
-Verrucaria alani (Servít) Servít SPECIES
-=======
+# Verrucaria alani (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyaloscypha luteopallida Svrcek SPECIES
-=======
+# Hyaloscypha luteopallida Svrcek SPECIES
 
 #### Status
 ACCEPTED

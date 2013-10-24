@@ -1,14 +1,13 @@
-Clavaria holorubella G.F. Atk., 1908 SPECIES
-=======
+# Ramaria holorubella (G.F. Atk.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 6(1): 57 (1908)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 596 (1950)
 
 #### Original name
 Clavaria holorubella G.F. Atk., 1908

@@ -1,5 +1,4 @@
-Phacidiella asperulina (Bubák) B. Sutton, 1980 SPECIES
-=======
+# Phacidiella asperulina (Bubák) B. Sutton, 1980 SPECIES
 
 #### Status
 DOUBTFUL

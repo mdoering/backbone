@@ -1,5 +1,4 @@
-Cortinarius hujusmodi Rob. Henry SPECIES
-=======
+# Cortinarius hujusmodi Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

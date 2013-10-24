@@ -1,5 +1,4 @@
-Lactifluus paludestris (Britzelm.) Kuntze SPECIES
-=======
+# Lactifluus paludestris (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

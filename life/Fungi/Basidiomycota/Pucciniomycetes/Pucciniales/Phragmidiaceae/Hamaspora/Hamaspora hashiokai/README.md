@@ -1,5 +1,4 @@
-Hamaspora hashiokai Hirats. f., 1935 SPECIES
-=======
+# Hamaspora hashiokai Hirats. f., 1935 SPECIES
 
 #### Status
 ACCEPTED

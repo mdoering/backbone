@@ -1,5 +1,4 @@
-Lecania bicolor Müll. Arg. SPECIES
-=======
+# Lecania bicolor Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

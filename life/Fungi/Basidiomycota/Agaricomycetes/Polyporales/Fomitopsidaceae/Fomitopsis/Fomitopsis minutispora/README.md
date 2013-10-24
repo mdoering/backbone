@@ -1,5 +1,4 @@
-Fomitopsis minutispora Rajchenb., 1995 SPECIES
-=======
+# Fomitopsis minutispora Rajchenb., 1995 SPECIES
 
 #### Status
 ACCEPTED

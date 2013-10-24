@@ -1,8 +1,7 @@
-Difflugiella psammophila Golemansky, 1970 SPECIES
-=======
+# Cryptodifflugia psammophila (Golemansky, 1970) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

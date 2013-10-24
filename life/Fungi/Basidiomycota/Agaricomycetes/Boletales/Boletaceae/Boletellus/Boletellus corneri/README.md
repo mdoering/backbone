@@ -1,5 +1,4 @@
-Boletellus corneri Klofac & Krisai SPECIES
-=======
+# Boletellus corneri Klofac & Krisai SPECIES
 
 #### Status
 ACCEPTED

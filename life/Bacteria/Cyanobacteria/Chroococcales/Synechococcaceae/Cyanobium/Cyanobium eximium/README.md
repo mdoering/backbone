@@ -1,5 +1,4 @@
-Cyanobium eximium (J.J. Copeland) J. Komárek, J. Kopeck & V. Cepák SPECIES
-=======
+# Cyanobium eximium (J.J. Copeland) J. Komárek, J. Kopeck & V. Cepák SPECIES
 
 #### Status
 ACCEPTED

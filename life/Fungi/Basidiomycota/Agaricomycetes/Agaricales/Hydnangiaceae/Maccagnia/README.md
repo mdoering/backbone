@@ -1,5 +1,4 @@
-Maccagnia Mattir. GENUS
-=======
+# Maccagnia Mattir. GENUS
 
 #### Status
 ACCEPTED

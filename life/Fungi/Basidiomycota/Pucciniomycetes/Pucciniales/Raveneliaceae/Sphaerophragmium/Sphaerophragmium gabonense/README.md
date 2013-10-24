@@ -1,17 +1,16 @@
-Sphaerophragmium gabonensis J.M. Yen SPECIES
-=======
+# Sphaerophragmium gabonense J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Yen & Gilles, Bull. trimest. Soc. mycol. Fr. 86(4): 860 (1971)
 
 #### Original name
-Sphaerophragmium gabonensis J.M. Yen
+Sphaerophragmium gabonense J.M. Yen
 
 ### Remarks
 null

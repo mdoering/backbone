@@ -1,5 +1,4 @@
-Cortinarius submeleagris Gasparini SPECIES
-=======
+# Cortinarius submeleagris Gasparini SPECIES
 
 #### Status
 ACCEPTED

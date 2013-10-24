@@ -1,5 +1,4 @@
-Diplodina bryoniae Hollós SPECIES
-=======
+# Diplodina bryoniae Hollós SPECIES
 
 #### Status
 ACCEPTED

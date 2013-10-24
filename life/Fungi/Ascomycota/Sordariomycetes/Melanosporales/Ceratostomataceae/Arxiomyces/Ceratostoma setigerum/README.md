@@ -1,5 +1,4 @@
-Ceratostoma setigerum Ellis & Everh. SPECIES
-=======
+# Ceratostoma setigerum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

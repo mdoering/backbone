@@ -1,14 +1,13 @@
-Vizella disciformis Rehm, 1900 SPECIES
-=======
+# Blasdalea disciformis (Rehm) Sacc. & P. Syd., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 39(4): 227 (1900)
+Syll. fung. (Abellini) 16: 634 (1902)
 
 #### Original name
 Vizella disciformis Rehm, 1900

@@ -1,5 +1,4 @@
-Xanthoparmelia bullabullensis Elix SPECIES
-=======
+# Xanthoparmelia bullabullensis Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia fumanae Tóth SPECIES
-=======
+# Diplodia fumanae Tóth SPECIES
 
 #### Status
 ACCEPTED

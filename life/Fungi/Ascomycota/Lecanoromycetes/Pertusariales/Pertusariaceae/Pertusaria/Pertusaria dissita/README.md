@@ -1,5 +1,4 @@
-Pertusaria dissita Elix & A. W. Archer SPECIES
-=======
+# Pertusaria dissita Elix & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

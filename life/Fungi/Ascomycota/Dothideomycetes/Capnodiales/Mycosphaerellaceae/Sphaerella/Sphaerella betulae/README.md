@@ -1,5 +1,4 @@
-Sphaerella betulae Auersw. SPECIES
-=======
+# Sphaerella betulae Auersw. SPECIES
 
 #### Status
 ACCEPTED

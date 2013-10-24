@@ -1,5 +1,4 @@
-Macrophoma orchidicola (Speg.) Sacc. & P. Syd. SPECIES
-=======
+# Macrophoma orchidicola (Speg.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

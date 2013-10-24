@@ -1,5 +1,4 @@
-Amanita odorata Beeli SPECIES
-=======
+# Amanita odorata Beeli SPECIES
 
 #### Status
 ACCEPTED

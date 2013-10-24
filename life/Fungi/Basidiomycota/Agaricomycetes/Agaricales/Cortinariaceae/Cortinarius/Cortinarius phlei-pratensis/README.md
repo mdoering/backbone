@@ -1,5 +1,4 @@
-Cortinarius phlei-pratensis var. phlei-pratensis VARIETY
-=======
+# Cortinarius phlei-pratensis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius phlei-pratensis var. phlei-pratensis
+Cortinarius phlei-pratensis
 
 ### Remarks
 null

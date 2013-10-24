@@ -1,5 +1,4 @@
-Parmelia nigrata (Müll. Arg.) SPECIES
-=======
+# Parmelia nigrata (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus chlorellus (Saut.) Kuntze SPECIES
-=======
+# Hymenoscyphus chlorellus (Saut.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

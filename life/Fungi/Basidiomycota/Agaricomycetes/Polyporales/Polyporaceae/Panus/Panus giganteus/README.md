@@ -1,5 +1,4 @@
-Panus giganteus (Berk.) Corner SPECIES
-=======
+# Panus giganteus (Berk.) Corner SPECIES
 
 #### Status
 ACCEPTED

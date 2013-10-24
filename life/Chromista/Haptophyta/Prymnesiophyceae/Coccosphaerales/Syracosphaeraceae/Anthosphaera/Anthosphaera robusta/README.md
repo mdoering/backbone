@@ -1,5 +1,4 @@
-Anthosphaera robusta (Lohmann) Kamptner SPECIES
-=======
+# Anthosphaera robusta (Lohmann) Kamptner SPECIES
 
 #### Status
 ACCEPTED

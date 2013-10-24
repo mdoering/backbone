@@ -1,5 +1,4 @@
-Cladonia verruculosa (Vain.) Ahti SPECIES
-=======
+# Cladonia verruculosa (Vain.) Ahti SPECIES
 
 #### Status
 ACCEPTED

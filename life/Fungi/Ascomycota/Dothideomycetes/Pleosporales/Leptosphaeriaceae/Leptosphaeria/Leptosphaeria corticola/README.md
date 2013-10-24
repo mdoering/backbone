@@ -1,5 +1,4 @@
-Leptosphaeria corticola Fuckel SPECIES
-=======
+# Leptosphaeria corticola Fuckel SPECIES
 
 #### Status
 ACCEPTED

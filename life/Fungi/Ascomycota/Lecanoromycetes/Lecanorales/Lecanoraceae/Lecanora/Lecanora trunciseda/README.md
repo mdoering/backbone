@@ -1,5 +1,4 @@
-Lecanora trunciseda H. Magn. SPECIES
-=======
+# Lecanora trunciseda H. Magn. SPECIES
 
 #### Status
 ACCEPTED

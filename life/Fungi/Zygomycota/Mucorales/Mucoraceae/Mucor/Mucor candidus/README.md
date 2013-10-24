@@ -1,5 +1,4 @@
-Mucor candidus Yosh. Yamam. SPECIES
-=======
+# Mucor candidus Yosh. Yamam. SPECIES
 
 #### Status
 ACCEPTED

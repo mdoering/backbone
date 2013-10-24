@@ -1,5 +1,4 @@
-Psathyrella moshiana Pegler SPECIES
-=======
+# Psathyrella moshiana Pegler SPECIES
 
 #### Status
 ACCEPTED

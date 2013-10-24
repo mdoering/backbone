@@ -1,5 +1,4 @@
-Crotone Theiss. & Syd. GENUS
-=======
+# Crotone Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anteholosticha estuarii Borror & Wicklow, 1983 SPECIES
-=======
+# Anteholosticha estuarii Borror & Wicklow, 1983 SPECIES
 
 #### Status
 ACCEPTED

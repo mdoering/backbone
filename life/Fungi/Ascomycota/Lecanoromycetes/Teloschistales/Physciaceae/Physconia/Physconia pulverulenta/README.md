@@ -1,5 +1,4 @@
-Xanthoria pulverulenta var. pulverulenta VARIETY
-=======
+# Physconia pulverulenta (Hoffm.) Poelt SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 9: 30 (1965)
 
 #### Original name
-Xanthoria pulverulenta var. pulverulenta
+Lichen pulverulentus Hoffm.
 
 ### Remarks
 null

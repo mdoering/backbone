@@ -1,17 +1,16 @@
-Parmelia malmei Lynge SPECIES
-=======
+# Hypotrachyna malmei (Lynge) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 47 (1975)
 
 #### Original name
-null
+Parmelia malmei Lynge
 
 ### Remarks
 null

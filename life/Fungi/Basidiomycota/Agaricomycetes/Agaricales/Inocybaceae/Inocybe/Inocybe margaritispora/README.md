@@ -1,17 +1,16 @@
-Inocybe margaritispora f. minor Bon FORM
-=======
+# Inocybe margaritispora (Berk.) Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 24(no. 96): 26 (1995)
+Syll. fung. (Abellini) 5: 781 (1887)
 
 #### Original name
-Inocybe margaritispora f. minor Bon
+Agaricus margaritispora Berk., 1883
 
 ### Remarks
 null

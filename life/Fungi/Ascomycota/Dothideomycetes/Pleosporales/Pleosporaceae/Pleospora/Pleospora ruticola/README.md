@@ -1,8 +1,7 @@
-Pleospora rutaecola C. Moreau SPECIES
-=======
+# Pleospora ruticola C. Moreau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pleospora rutaecola C. Moreau
+Pleospora ruticola C. Moreau
 
 ### Remarks
 null

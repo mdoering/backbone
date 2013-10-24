@@ -1,5 +1,4 @@
-Pyrenotheca yunnanensis Pat. SPECIES
-=======
+# Pyrenotheca yunnanensis Pat. SPECIES
 
 #### Status
 ACCEPTED

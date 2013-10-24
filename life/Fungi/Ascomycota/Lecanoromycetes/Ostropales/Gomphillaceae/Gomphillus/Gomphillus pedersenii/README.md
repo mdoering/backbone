@@ -1,5 +1,4 @@
-Gomphillus pedersenii L.I. Ferraro & Lücking SPECIES
-=======
+# Gomphillus pedersenii L.I. Ferraro & Lücking SPECIES
 
 #### Status
 ACCEPTED

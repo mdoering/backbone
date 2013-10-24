@@ -1,5 +1,4 @@
-Ectostroma asphodeli Fr. SPECIES
-=======
+# Ectostroma asphodeli Fr. SPECIES
 
 #### Status
 ACCEPTED

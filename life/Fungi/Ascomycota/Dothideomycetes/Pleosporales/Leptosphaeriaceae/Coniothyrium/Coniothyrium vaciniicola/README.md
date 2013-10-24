@@ -1,5 +1,4 @@
-Coniothyrium vaciniicola (Schwein.) Starbäck SPECIES
-=======
+# Coniothyrium vaciniicola (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

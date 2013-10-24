@@ -1,5 +1,4 @@
-Plowrightia concaviuscula (Ellis & Everh.) Sacc. SPECIES
-=======
+# Plowrightia concaviuscula (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriangina bambusina Syd. SPECIES
-=======
+# Myriangina bambusina Syd. SPECIES
 
 #### Status
 ACCEPTED

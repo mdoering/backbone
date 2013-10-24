@@ -1,5 +1,4 @@
-Rinodina discolorans var. discolorans VARIETY
-=======
+# Rinodina discolorans Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rinodina discolorans var. discolorans
+Rinodina discolorans Arnold
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Anisomeridium japonicum H. Harada SPECIES
-=======
+# Anisomeridium japonicum H. Harada SPECIES
 
 #### Status
 ACCEPTED

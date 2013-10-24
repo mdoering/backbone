@@ -1,5 +1,4 @@
-Pluteus terrestris Velen. SPECIES
-=======
+# Pluteus terrestris Velen. SPECIES
 
 #### Status
 ACCEPTED

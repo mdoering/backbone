@@ -1,5 +1,4 @@
-Ovularia lanosa Jacz. SPECIES
-=======
+# Ovularia lanosa Jacz. SPECIES
 
 #### Status
 ACCEPTED

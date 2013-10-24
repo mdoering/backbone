@@ -1,5 +1,4 @@
-Asteroma concinnum Durieu & Mont. SPECIES
-=======
+# Asteroma concinnum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia rapii Evans SPECIES
-=======
+# Cladonia rapii Evans SPECIES
 
 #### Status
 ACCEPTED

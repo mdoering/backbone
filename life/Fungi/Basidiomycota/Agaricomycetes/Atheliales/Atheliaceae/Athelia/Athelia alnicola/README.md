@@ -1,5 +1,4 @@
-Athelia alnicola (Bourdot & Galzin) Jülich, 1972 SPECIES
-=======
+# Athelia alnicola (Bourdot & Galzin) Jülich, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe fimiphila Contu SPECIES
-=======
+# Clitocybe fimiphila Contu SPECIES
 
 #### Status
 ACCEPTED

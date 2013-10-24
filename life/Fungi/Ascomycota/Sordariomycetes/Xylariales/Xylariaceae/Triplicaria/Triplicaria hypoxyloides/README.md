@@ -1,5 +1,4 @@
-Triplicaria hypoxyloides P. Karst., 1889 SPECIES
-=======
+# Triplicaria hypoxyloides P. Karst., 1889 SPECIES
 
 #### Status
 ACCEPTED

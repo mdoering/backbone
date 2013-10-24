@@ -1,5 +1,4 @@
-Agaricus vilescens Peck SPECIES
-=======
+# Agaricus vilescens Peck SPECIES
 
 #### Status
 ACCEPTED

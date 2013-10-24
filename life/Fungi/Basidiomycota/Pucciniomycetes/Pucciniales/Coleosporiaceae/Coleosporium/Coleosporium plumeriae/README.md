@@ -1,17 +1,16 @@
-Coleosporium domingensis (Berk.) Arthur, 1918 SPECIES
-=======
+# Coleosporium plumeriae Pat., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 5: 329 (1918)
+Bull. Soc. mycol. Fr. 18: 178 (1902)
 
 #### Original name
-Uredo domingensis Berk., 1852
+Coleosporium plumeriae Pat., 1902
 
 ### Remarks
 null

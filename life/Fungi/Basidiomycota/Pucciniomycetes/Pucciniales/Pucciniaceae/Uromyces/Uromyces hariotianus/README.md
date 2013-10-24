@@ -1,5 +1,4 @@
-Uromyces hariotianus Lagerh. SPECIES
-=======
+# Uromyces hariotianus Lagerh. SPECIES
 
 #### Status
 ACCEPTED

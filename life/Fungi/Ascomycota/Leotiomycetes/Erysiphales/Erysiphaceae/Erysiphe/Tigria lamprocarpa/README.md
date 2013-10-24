@@ -1,5 +1,4 @@
-Tigria lamprocarpa (Wallr.) Trevis. SPECIES
-=======
+# Tigria lamprocarpa (Wallr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

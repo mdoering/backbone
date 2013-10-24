@@ -1,5 +1,4 @@
-Midotiopsis Henn. GENUS
-=======
+# Midotiopsis Henn. GENUS
 
 #### Status
 ACCEPTED

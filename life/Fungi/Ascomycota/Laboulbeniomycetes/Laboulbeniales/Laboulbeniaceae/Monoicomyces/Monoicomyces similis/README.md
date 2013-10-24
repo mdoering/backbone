@@ -1,5 +1,4 @@
-Monoicomyces similis Thaxt. SPECIES
-=======
+# Monoicomyces similis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

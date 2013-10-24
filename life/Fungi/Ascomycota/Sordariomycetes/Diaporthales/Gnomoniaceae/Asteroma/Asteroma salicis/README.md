@@ -1,5 +1,4 @@
-Asteroma salicis Roberge ex Desm. SPECIES
-=======
+# Asteroma salicis Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

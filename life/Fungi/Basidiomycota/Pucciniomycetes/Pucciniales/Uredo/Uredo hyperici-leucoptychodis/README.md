@@ -1,5 +1,4 @@
-Uredo hyperici-leucoptychodis Doidge SPECIES
-=======
+# Uredo hyperici-leucoptychodis Doidge SPECIES
 
 #### Status
 ACCEPTED

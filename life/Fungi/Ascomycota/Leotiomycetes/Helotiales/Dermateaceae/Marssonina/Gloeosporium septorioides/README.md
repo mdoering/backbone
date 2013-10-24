@@ -1,5 +1,4 @@
-Gloeosporium septorioides Sacc. SPECIES
-=======
+# Gloeosporium septorioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinotodissus longitaleosus Loeblich & Tappan, 1978 SPECIES
-=======
+# Actinotodissus longitaleosus Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

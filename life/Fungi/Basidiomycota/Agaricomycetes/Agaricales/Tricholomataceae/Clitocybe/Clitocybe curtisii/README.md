@@ -1,14 +1,13 @@
-Clitocybe curtisi (Fr.) Staude SPECIES
-=======
+# Clitocybe curtisii (Fr.) Staude SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Schwämme Mitteldeutschl. xxviii, 122 (1857)
 
 #### Original name
 Clitocybe curtipes (Fr.) Gillet

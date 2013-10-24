@@ -1,5 +1,4 @@
-Betulina Velen. GENUS
-=======
+# Betulina Velen. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum trachyodon Lév. SPECIES
-=======
+# Hydnum trachyodon Lév. SPECIES
 
 #### Status
 ACCEPTED

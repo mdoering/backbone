@@ -1,5 +1,4 @@
-Septaria ulmi Fr. SPECIES
-=======
+# Septaria ulmi Fr. SPECIES
 
 #### Status
 ACCEPTED

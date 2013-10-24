@@ -1,5 +1,4 @@
-Micropeltidium roupalicola (Bat. & A.F. Vital) Bat. SPECIES
-=======
+# Micropeltidium roupalicola (Bat. & A.F. Vital) Bat. SPECIES
 
 #### Status
 ACCEPTED

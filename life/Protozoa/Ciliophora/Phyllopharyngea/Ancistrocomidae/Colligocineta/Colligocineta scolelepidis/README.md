@@ -1,5 +1,4 @@
-Colligocineta scolelepidis Kozloff, 1976 SPECIES
-=======
+# Colligocineta scolelepidis Kozloff, 1976 SPECIES
 
 #### Status
 ACCEPTED

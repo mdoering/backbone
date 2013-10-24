@@ -1,5 +1,4 @@
-Trichopeltospora Bat. & Cif. GENUS
-=======
+# Trichopeltospora Bat. & Cif. GENUS
 
 #### Status
 ACCEPTED

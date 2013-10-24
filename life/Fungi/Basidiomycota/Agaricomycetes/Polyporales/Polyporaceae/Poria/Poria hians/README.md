@@ -1,5 +1,4 @@
-Poria hians P. Karst. SPECIES
-=======
+# Poria hians P. Karst. SPECIES
 
 #### Status
 ACCEPTED

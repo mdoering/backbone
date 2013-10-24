@@ -1,5 +1,4 @@
-Botrytis polyspora Link SPECIES
-=======
+# Botrytis polyspora Link SPECIES
 
 #### Status
 ACCEPTED

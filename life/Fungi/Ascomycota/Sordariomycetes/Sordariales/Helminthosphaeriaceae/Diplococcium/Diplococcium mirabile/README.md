@@ -1,5 +1,4 @@
-Diplococcium mirabile Rambelli, 1958 SPECIES
-=======
+# Diplococcium mirabile Rambelli, 1958 SPECIES
 
 #### Status
 ACCEPTED

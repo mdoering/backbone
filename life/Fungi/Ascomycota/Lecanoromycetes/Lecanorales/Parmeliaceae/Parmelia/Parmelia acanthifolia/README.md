@@ -1,5 +1,4 @@
-Parmelia acanthifolia f. acanthifolia FORM
-=======
+# Parmelia acanthifolia Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia acanthifolia f. acanthifolia
+Parmelia acanthifolia Pers.
 
 ### Remarks
 null

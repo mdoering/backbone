@@ -1,5 +1,4 @@
-Gummivena Trappe & Bougher GENUS
-=======
+# Gummivena Trappe & Bougher GENUS
 
 #### Status
 ACCEPTED

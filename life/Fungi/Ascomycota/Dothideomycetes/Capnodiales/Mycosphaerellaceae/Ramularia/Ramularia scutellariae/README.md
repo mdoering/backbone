@@ -1,5 +1,4 @@
-Ramularia scutellariae Woron. SPECIES
-=======
+# Ramularia scutellariae Woron. SPECIES
 
 #### Status
 ACCEPTED

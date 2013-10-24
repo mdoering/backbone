@@ -1,5 +1,4 @@
-Hendersonia triseptata Sousa da Câmara SPECIES
-=======
+# Hendersonia triseptata Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hysterium andinense Messuti & Lorenzo, 1997 SPECIES
-=======
+# Mytilinidion andinense (Messuti & Lorenzo) E. Boehm, C.L. Schoch & Spatafora, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 113(4): 470 (2009)
 
 #### Original name
-null
+Hysterium andinense Messuti & Lorenzo, 1997
 
 ### Remarks
 null

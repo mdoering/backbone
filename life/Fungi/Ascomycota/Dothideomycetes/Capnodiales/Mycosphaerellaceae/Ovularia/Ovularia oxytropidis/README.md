@@ -1,5 +1,4 @@
-Ovularia oxytropidis Jacz. SPECIES
-=======
+# Ovularia oxytropidis Jacz. SPECIES
 
 #### Status
 ACCEPTED

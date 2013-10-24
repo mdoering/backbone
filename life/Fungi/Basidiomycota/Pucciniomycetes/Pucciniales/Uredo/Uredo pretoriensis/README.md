@@ -1,5 +1,4 @@
-Uredo pretoriensis Syd. & P. Syd. SPECIES
-=======
+# Uredo pretoriensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

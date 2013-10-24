@@ -1,5 +1,4 @@
-Asterina venustula Syd. SPECIES
-=======
+# Asterina venustula Syd. SPECIES
 
 #### Status
 ACCEPTED

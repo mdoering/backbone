@@ -1,5 +1,4 @@
-Lachnea chelchowskiana Rouppert {?} SPECIES
-=======
+# Lachnea chelchowskiana Rouppert {?} SPECIES
 
 #### Status
 ACCEPTED

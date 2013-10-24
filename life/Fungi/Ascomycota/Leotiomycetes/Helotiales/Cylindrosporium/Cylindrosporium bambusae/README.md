@@ -1,5 +1,4 @@
-Cylindrosporium bambusae I. Miyake & Hara SPECIES
-=======
+# Cylindrosporium bambusae I. Miyake & Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium coffeicolor Berk. & Broome SPECIES
-=======
+# Penicillium coffeicolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

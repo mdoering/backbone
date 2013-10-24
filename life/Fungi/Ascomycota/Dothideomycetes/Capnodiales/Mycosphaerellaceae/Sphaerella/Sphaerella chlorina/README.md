@@ -1,5 +1,4 @@
-Sphaerella chlorina Sacc. & Trab. SPECIES
-=======
+# Sphaerella chlorina Sacc. & Trab. SPECIES
 
 #### Status
 ACCEPTED

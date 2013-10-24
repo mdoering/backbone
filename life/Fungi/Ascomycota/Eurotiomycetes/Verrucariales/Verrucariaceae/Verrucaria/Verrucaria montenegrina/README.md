@@ -1,5 +1,4 @@
-Verrucaria montenegrina Servít SPECIES
-=======
+# Verrucaria montenegrina Servít SPECIES
 
 #### Status
 ACCEPTED

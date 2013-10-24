@@ -1,5 +1,4 @@
-Calpionella oblonga SPECIES
-=======
+# Calpionella oblonga SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella deschmannii (Voss) Lind SPECIES
-=======
+# Mycosphaerella deschmannii (Voss) Lind SPECIES
 
 #### Status
 ACCEPTED

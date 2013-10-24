@@ -1,14 +1,13 @@
-Pionospora bryantha (Ach.) Th. Fr. SPECIES
-=======
+# Pionospora bryontha (Ach.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lich. Scand. (Uppsala) (1859)
 
 #### Original name
 Parmelia subfusca var. bryontha Ach.

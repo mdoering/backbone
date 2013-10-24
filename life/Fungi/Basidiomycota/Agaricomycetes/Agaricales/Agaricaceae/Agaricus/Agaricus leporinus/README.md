@@ -1,5 +1,4 @@
-Agaricus leporinus Pers. SPECIES
-=======
+# Agaricus leporinus Pers. SPECIES
 
 #### Status
 ACCEPTED

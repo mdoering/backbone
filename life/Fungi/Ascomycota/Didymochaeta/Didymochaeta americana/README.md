@@ -1,5 +1,4 @@
-Didymochaeta americana Ellis & Sacc., 1898 SPECIES
-=======
+# Didymochaeta americana Ellis & Sacc., 1898 SPECIES
 
 #### Status
 ACCEPTED

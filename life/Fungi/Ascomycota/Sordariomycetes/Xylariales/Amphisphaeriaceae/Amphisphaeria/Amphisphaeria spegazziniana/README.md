@@ -1,5 +1,4 @@
-Amphisphaeria spegazziniana Sacc. SPECIES
-=======
+# Amphisphaeria spegazziniana Sacc. SPECIES
 
 #### Status
 ACCEPTED

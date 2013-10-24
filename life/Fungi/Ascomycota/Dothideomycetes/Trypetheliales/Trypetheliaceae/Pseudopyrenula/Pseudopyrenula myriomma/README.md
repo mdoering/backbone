@@ -1,5 +1,4 @@
-Pseudopyrenula myriomma (Nyl.) Zahlbr. SPECIES
-=======
+# Pseudopyrenula myriomma (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

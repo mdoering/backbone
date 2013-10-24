@@ -1,5 +1,4 @@
-Lecanora arafurensis Lumbsch & Elix SPECIES
-=======
+# Lecanora arafurensis Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

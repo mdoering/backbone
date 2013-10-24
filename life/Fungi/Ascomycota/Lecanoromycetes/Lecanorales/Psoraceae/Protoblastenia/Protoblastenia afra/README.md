@@ -1,5 +1,4 @@
-Protoblastenia afra Zahlbr. SPECIES
-=======
+# Protoblastenia afra Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita luteivolvata O.K. Mill. SPECIES
-=======
+# Amanita luteivolvata O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

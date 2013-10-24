@@ -1,5 +1,4 @@
-Physalospora citri-aurantii Rehm SPECIES
-=======
+# Physalospora citri-aurantii Rehm SPECIES
 
 #### Status
 ACCEPTED

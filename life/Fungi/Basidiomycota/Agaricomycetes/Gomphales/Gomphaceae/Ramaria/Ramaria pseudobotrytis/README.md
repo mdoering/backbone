@@ -1,5 +1,4 @@
-Ramaria pseudobotrytis M.P. Christ., 1968 SPECIES
-=======
+# Ramaria pseudobotrytis M.P. Christ., 1968 SPECIES
 
 #### Status
 ACCEPTED

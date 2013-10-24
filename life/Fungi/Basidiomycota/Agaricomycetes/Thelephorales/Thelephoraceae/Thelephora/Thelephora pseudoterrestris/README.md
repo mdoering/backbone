@@ -1,5 +1,4 @@
-Thelephora pseudoterrestris Corner, 1968 SPECIES
-=======
+# Thelephora pseudoterrestris Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

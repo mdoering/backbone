@@ -1,5 +1,4 @@
-Prathigada tamarindi Muthappa SPECIES
-=======
+# Prathigada tamarindi Muthappa SPECIES
 
 #### Status
 ACCEPTED

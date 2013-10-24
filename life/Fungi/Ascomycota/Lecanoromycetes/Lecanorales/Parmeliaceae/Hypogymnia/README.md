@@ -1,5 +1,4 @@
-Hypogymnia (Nyl.) Nyl. GENUS
-=======
+# Hypogymnia (Nyl.) Nyl. GENUS
 
 #### Status
 ACCEPTED

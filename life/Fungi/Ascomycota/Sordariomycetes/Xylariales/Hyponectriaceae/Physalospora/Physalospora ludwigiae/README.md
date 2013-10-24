@@ -1,5 +1,4 @@
-Physalospora ludwigiae (Cooke) Sacc. SPECIES
-=======
+# Physalospora ludwigiae (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

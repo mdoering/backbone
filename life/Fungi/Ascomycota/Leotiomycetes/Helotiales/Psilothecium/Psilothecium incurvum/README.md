@@ -1,5 +1,4 @@
-Psilothecium incurvum Clem., 1903 SPECIES
-=======
+# Psilothecium incurvum Clem., 1903 SPECIES
 
 #### Status
 ACCEPTED

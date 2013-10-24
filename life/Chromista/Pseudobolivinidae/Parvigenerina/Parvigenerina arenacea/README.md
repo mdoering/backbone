@@ -1,8 +1,7 @@
-Bifarina porrecta var. arenacea Heron-Allen & Earland, 1922 VARIETY
-=======
+# Parvigenerina arenacea (Heron-Allen & Earland, 1922) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

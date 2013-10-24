@@ -1,5 +1,4 @@
-Paecilomyces erectus Demelius, 1923 SPECIES
-=======
+# Paecilomyces erectus Demelius, 1923 SPECIES
 
 #### Status
 ACCEPTED

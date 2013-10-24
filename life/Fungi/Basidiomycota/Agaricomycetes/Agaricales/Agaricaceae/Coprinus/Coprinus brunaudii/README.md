@@ -1,5 +1,4 @@
-Coprinus brunaudii Quél. SPECIES
-=======
+# Coprinus brunaudii Quél. SPECIES
 
 #### Status
 ACCEPTED

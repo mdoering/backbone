@@ -1,5 +1,4 @@
-Granulomanus de Hoog & Samson GENUS
-=======
+# Granulomanus de Hoog & Samson GENUS
 
 #### Status
 ACCEPTED

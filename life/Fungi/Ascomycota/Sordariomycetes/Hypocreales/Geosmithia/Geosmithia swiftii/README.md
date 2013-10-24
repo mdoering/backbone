@@ -1,5 +1,4 @@
-Geosmithia swiftii Pitt, 1979 SPECIES
-=======
+# Geosmithia swiftii Pitt, 1979 SPECIES
 
 #### Status
 ACCEPTED

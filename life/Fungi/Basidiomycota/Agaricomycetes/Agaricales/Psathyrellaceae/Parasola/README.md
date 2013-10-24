@@ -1,5 +1,4 @@
-Parasola Redhead, Vilgalys & Hopple GENUS
-=======
+# Parasola Redhead, Vilgalys & Hopple GENUS
 
 #### Status
 ACCEPTED

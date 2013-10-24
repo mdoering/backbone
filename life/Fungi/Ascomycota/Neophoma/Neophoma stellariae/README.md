@@ -1,5 +1,4 @@
-Neophoma stellariae H. Ruppr. SPECIES
-=======
+# Neophoma stellariae H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

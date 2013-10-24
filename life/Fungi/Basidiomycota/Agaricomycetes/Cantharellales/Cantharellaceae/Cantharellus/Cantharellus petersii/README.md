@@ -1,5 +1,4 @@
-Cantharellus petersii Berk. & M.A. Curtis SPECIES
-=======
+# Cantharellus petersii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brevibacillus levickii Allan et al., 2005 SPECIES
-=======
+# Brevibacillus levickii Allan et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

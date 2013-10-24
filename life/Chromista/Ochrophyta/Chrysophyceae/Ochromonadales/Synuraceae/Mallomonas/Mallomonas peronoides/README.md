@@ -1,5 +1,4 @@
-Mallomonas peronoides (Harris) Moneu & Peterfi SPECIES
-=======
+# Mallomonas peronoides (Harris) Moneu & Peterfi SPECIES
 
 #### Status
 ACCEPTED

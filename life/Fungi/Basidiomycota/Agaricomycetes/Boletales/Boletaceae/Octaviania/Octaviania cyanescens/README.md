@@ -1,5 +1,4 @@
-Octaviania cyanescens Trappe & Castellano, 2000 SPECIES
-=======
+# Octaviania cyanescens Trappe & Castellano, 2000 SPECIES
 
 #### Status
 ACCEPTED

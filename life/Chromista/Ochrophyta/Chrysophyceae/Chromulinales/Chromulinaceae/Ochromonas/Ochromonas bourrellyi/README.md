@@ -1,5 +1,4 @@
-Ochromonas bourrellyi Magne SPECIES
-=======
+# Ochromonas bourrellyi Magne SPECIES
 
 #### Status
 ACCEPTED

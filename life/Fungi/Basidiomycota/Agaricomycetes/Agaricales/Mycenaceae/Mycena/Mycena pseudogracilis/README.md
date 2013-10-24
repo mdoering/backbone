@@ -1,5 +1,4 @@
-Mycena pseudogracilis Kühner & Maire SPECIES
-=======
+# Mycena pseudogracilis Kühner & Maire SPECIES
 
 #### Status
 ACCEPTED

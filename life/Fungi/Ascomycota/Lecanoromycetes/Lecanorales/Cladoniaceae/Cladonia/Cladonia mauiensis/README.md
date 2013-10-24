@@ -1,5 +1,4 @@
-Cladonia mauiensis H. Magn. SPECIES
-=======
+# Cladonia mauiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

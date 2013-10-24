@@ -1,5 +1,4 @@
-Xylaria vernicosa (Fée) Sacc. SPECIES
-=======
+# Xylaria vernicosa (Fée) Sacc. SPECIES
 
 #### Status
 ACCEPTED

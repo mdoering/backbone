@@ -1,5 +1,4 @@
-Platychilomonas Larsen & Patterson, 1990 GENUS
-=======
+# Platychilomonas Larsen & Patterson, 1990 GENUS
 
 #### Status
 ACCEPTED

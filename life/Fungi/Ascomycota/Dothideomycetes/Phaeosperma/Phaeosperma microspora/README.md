@@ -1,5 +1,4 @@
-Phaeosperma microspora P. Karst. SPECIES
-=======
+# Phaeosperma microspora P. Karst. SPECIES
 
 #### Status
 ACCEPTED

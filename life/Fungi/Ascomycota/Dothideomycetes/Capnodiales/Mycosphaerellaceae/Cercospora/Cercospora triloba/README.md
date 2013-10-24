@@ -1,17 +1,16 @@
-Cercospora trilobi Chupp SPECIES
-=======
+# Cercospora triloba Chupp SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monograph of Cercospora 391 (1954)
 
 #### Original name
-Cercospora trilobi Chupp
+Cercospora triloba Chupp
 
 ### Remarks
 null

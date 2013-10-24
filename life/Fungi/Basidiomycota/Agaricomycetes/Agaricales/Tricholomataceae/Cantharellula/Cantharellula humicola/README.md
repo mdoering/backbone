@@ -1,5 +1,4 @@
-Cantharellula humicola Corner, 1994 SPECIES
-=======
+# Cantharellula humicola Corner, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovista ochrotricha Kreisel SPECIES
-=======
+# Bovista ochrotricha Kreisel SPECIES
 
 #### Status
 ACCEPTED

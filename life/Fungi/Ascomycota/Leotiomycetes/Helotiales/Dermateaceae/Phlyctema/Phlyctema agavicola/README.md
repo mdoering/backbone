@@ -1,5 +1,4 @@
-Phlyctema agavicola Massenot & R. Cass. SPECIES
-=======
+# Phlyctema agavicola Massenot & R. Cass. SPECIES
 
 #### Status
 ACCEPTED

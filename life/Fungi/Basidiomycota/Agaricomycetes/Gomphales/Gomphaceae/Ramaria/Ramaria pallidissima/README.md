@@ -1,5 +1,4 @@
-Ramaria pallidissima Schild & G. Ricci, 1998 SPECIES
-=======
+# Ramaria pallidissima Schild & G. Ricci, 1998 SPECIES
 
 #### Status
 ACCEPTED

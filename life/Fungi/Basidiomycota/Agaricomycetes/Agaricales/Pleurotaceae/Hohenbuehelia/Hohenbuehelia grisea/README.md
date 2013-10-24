@@ -1,17 +1,16 @@
-Hohenbuehelia fluxilis var. grisea (Peck) P. Roux, 2008 VARIETY
-=======
+# Hohenbuehelia grisea (Peck) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 255 (1951)
 
 #### Original name
-null
+Pleurotus atrocoeruleus var. griseus Peck, 1891
 
 ### Remarks
 null

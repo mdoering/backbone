@@ -1,5 +1,4 @@
-Kinyrosphaera Bragin in Bragin & Krylov, 1999 GENUS
-=======
+# Kinyrosphaera Bragin in Bragin & Krylov, 1999 GENUS
 
 #### Status
 ACCEPTED

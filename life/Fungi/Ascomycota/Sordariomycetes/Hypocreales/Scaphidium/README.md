@@ -1,5 +1,4 @@
-Scaphidium Clements, 1901 GENUS
-=======
+# Scaphidium Clements, 1901 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Neumanniella GENUS
-=======
+# Naumanniella Dorff, 1934 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Die Eisenorganismen, Pflanzenforschung, Heft 16, 19.
 
 #### Original name
 null

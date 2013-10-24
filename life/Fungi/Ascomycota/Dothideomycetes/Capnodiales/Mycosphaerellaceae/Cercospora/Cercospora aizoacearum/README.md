@@ -1,5 +1,4 @@
-Cercospora aizoacearum Bhartiya, A.N. Singh bis, N. Kumari & P.N. Singh SPECIES
-=======
+# Cercospora aizoacearum Bhartiya, A.N. Singh bis, N. Kumari & P.N. Singh SPECIES
 
 #### Status
 ACCEPTED

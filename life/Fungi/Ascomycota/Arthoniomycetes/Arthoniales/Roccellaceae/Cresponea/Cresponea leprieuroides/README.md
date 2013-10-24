@@ -1,14 +1,13 @@
-Lecanactis leprieurioides (Nyl.) Zahlbr. SPECIES
-=======
+# Cresponea leprieuroides (Nyl.) Egea & Torrente SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 539 (1923)
+Mycotaxon 48: 319 (1993)
 
 #### Original name
 Lecidea leprieurioides Nyl.

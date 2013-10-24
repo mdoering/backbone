@@ -1,5 +1,4 @@
-Caloplaca plumbeo-olivacea H. Magn. SPECIES
-=======
+# Caloplaca plumbeo-olivacea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

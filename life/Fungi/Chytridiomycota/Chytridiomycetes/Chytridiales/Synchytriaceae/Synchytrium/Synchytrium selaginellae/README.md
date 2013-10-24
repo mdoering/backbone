@@ -1,5 +1,4 @@
-Synchytrium selaginellae Sorokin SPECIES
-=======
+# Synchytrium selaginellae Sorokin SPECIES
 
 #### Status
 ACCEPTED

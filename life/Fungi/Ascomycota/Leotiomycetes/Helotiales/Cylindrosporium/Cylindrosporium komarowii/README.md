@@ -1,5 +1,4 @@
-Cylindrosporium komarowii Jacz. SPECIES
-=======
+# Cylindrosporium komarowii Jacz. SPECIES
 
 #### Status
 ACCEPTED

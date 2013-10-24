@@ -1,5 +1,4 @@
-Rhinotrichum subferruginosum Sumst. SPECIES
-=======
+# Rhinotrichum subferruginosum Sumst. SPECIES
 
 #### Status
 ACCEPTED

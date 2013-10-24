@@ -1,5 +1,4 @@
-Nosema ceratomyxae Diamant & Paperna, 1985 SPECIES
-=======
+# Nosema ceratomyxae Diamant & Paperna, 1985 SPECIES
 
 #### Status
 ACCEPTED

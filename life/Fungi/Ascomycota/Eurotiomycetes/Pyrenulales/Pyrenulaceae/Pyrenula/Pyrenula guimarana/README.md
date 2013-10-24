@@ -1,5 +1,4 @@
-Pyrenula guimarana SPECIES
-=======
+# Pyrenula guimarana SPECIES
 
 #### Status
 ACCEPTED

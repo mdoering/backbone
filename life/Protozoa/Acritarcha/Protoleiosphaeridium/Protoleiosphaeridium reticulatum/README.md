@@ -1,5 +1,4 @@
-Protoleiosphaeridium reticulatum Pöthé de Baldis, 1975 SPECIES
-=======
+# Protoleiosphaeridium reticulatum Pöthé de Baldis, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microxyphiomyces intermedius Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Microxyphiomyces intermedius Bat., J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

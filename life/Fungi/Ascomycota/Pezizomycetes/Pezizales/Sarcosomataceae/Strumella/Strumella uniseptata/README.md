@@ -1,5 +1,4 @@
-Strumella uniseptata Matsush. SPECIES
-=======
+# Strumella uniseptata Matsush. SPECIES
 
 #### Status
 ACCEPTED

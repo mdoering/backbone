@@ -1,5 +1,4 @@
-Penicillium corylophiloides S. Abe SPECIES
-=======
+# Penicillium corylophiloides S. Abe SPECIES
 
 #### Status
 ACCEPTED

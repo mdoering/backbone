@@ -1,5 +1,4 @@
-Hyalopus anoma H. Bouchet SPECIES
-=======
+# Hyalopus anoma H. Bouchet SPECIES
 
 #### Status
 ACCEPTED

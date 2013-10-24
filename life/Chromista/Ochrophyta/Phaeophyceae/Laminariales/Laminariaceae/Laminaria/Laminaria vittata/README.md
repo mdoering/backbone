@@ -1,5 +1,4 @@
-Laminaria vittata Bory de St.-Vincent SPECIES
-=======
+# Laminaria vittata Bory de St.-Vincent SPECIES
 
 #### Status
 ACCEPTED

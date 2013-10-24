@@ -1,5 +1,4 @@
-Bryopogon ecuadorensis (Zahlbr.) Gyeln. SPECIES
-=======
+# Bryopogon ecuadorensis (Zahlbr.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

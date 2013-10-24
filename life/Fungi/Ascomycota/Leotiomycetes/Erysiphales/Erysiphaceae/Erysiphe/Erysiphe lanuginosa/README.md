@@ -1,5 +1,4 @@
-Erysiphe lanuginosa Fuckel SPECIES
-=======
+# Erysiphe lanuginosa Fuckel SPECIES
 
 #### Status
 ACCEPTED

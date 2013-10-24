@@ -1,17 +1,16 @@
-Pseudopeziza piri Peck SPECIES
-=======
+# Pseudopeziza pyri Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. 44: 142 (1891)
 
 #### Original name
-Pseudopeziza piri Peck
+Pseudopeziza pyri Peck
 
 ### Remarks
 null

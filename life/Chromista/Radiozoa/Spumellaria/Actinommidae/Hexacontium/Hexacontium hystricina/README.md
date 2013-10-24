@@ -1,5 +1,4 @@
-Hexacontium hystricina (Haeckel) Takahashi, 1991 SPECIES
-=======
+# Hexacontium hystricina (Haeckel) Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

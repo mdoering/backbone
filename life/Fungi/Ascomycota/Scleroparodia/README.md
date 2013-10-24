@@ -1,5 +1,4 @@
-Scleroparodia GENUS
-=======
+# Scleroparodia GENUS
 
 #### Status
 ACCEPTED

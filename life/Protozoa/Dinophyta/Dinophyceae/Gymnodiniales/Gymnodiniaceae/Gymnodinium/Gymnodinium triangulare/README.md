@@ -1,5 +1,4 @@
-Gymnodinium triangulare Lebour SPECIES
-=======
+# Gymnodinium triangulare Lebour SPECIES
 
 #### Status
 ACCEPTED

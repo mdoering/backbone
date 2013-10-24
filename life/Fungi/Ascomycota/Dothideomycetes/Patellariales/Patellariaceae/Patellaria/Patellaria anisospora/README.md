@@ -1,5 +1,4 @@
-Patellaria anisospora Müll. Arg. SPECIES
-=======
+# Patellaria anisospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

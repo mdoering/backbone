@@ -1,5 +1,4 @@
-Grammothele effusoreflexa S. Banerjee SPECIES
-=======
+# Grammothele effusoreflexa S. Banerjee SPECIES
 
 #### Status
 ACCEPTED

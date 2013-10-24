@@ -1,5 +1,4 @@
-Risella Carter, 1993 GENUS
-=======
+# Risella Carter, 1993 GENUS
 
 #### Status
 ACCEPTED

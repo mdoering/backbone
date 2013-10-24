@@ -1,5 +1,4 @@
-Uromyces galphimiae Dietel & Holw. SPECIES
-=======
+# Uromyces galphimiae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria hirta (Fuckel) Kirschst. SPECIES
-=======
+# Leptosphaeria hirta (Fuckel) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

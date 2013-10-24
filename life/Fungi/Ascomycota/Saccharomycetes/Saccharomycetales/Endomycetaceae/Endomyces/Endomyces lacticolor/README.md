@@ -1,5 +1,4 @@
-Endomyces lacticolor Castell. SPECIES
-=======
+# Endomyces lacticolor Castell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalopeziza rhododendricola Remler SPECIES
-=======
+# Hyalopeziza rhododendricola Remler SPECIES
 
 #### Status
 ACCEPTED

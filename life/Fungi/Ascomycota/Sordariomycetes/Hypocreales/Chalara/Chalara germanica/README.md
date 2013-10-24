@@ -1,5 +1,4 @@
-Chalara germanica Nag Raj & W.B. Kendr. SPECIES
-=======
+# Chalara germanica Nag Raj & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

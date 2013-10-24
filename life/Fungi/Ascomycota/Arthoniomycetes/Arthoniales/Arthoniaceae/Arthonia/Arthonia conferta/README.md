@@ -1,5 +1,4 @@
-Arthonia conferta (Fée) Nyl. SPECIES
-=======
+# Arthonia conferta (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

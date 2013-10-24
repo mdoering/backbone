@@ -1,5 +1,4 @@
-Tomentella granulata Bref. SPECIES
-=======
+# Tomentella granulata Bref. SPECIES
 
 #### Status
 ACCEPTED

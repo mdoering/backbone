@@ -1,5 +1,4 @@
-Staurothele demnatensis Werner SPECIES
-=======
+# Staurothele demnatensis Werner SPECIES
 
 #### Status
 ACCEPTED

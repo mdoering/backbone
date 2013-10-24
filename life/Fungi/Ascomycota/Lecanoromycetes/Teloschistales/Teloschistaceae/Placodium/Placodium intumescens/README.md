@@ -1,5 +1,4 @@
-Placodium intumescens (Bagl.) Szatala SPECIES
-=======
+# Placodium intumescens (Bagl.) Szatala SPECIES
 
 #### Status
 ACCEPTED

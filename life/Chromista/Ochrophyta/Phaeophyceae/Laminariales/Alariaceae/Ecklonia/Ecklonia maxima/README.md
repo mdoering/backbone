@@ -1,8 +1,7 @@
-Laminaria flabellum Bory de Saint-Vincent SPECIES
-=======
+# Ecklonia maxima (Osbeck) Papenfuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

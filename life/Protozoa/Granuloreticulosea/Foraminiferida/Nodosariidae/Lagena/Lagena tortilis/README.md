@@ -1,5 +1,4 @@
-Lagena tortilis Egger SPECIES
-=======
+# Lagena tortilis Egger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holopedia clementei P. González SPECIES
-=======
+# Holopedia clementei P. González SPECIES
 
 #### Status
 ACCEPTED

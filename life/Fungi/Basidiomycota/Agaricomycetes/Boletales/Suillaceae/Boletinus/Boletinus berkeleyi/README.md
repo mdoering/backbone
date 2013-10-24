@@ -1,5 +1,4 @@
-Boletinus berkeleyi Murrill SPECIES
-=======
+# Boletinus berkeleyi Murrill SPECIES
 
 #### Status
 ACCEPTED

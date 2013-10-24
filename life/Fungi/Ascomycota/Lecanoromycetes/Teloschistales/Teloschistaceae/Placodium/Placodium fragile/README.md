@@ -1,5 +1,4 @@
-Placodium fragile f. fragile FORM
-=======
+# Placodium fragile (Scop.) Szatala SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium fragile f. fragile
+null
 
 ### Remarks
 null

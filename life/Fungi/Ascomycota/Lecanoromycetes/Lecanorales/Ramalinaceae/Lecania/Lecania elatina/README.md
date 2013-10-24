@@ -1,5 +1,4 @@
-Lecania elatina (Ach.) Müll. Arg. SPECIES
-=======
+# Lecania elatina (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

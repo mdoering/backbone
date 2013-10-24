@@ -1,17 +1,16 @@
-Ustilago carbo transfissa Tul. & C. Tul., 1847 INFRASPECIFIC_NAME
-=======
+# Sporisorium transfissum (Tul. & C. Tul.) G. Deml, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. Mykol. 49(2): 174 (1983)
 
 #### Original name
-null
+Ustilago carbo (DC.) Tul. & C. Tul., 1847
 
 ### Remarks
 null

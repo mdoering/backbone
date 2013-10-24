@@ -1,5 +1,4 @@
-Amanita olivacea Beeli SPECIES
-=======
+# Amanita olivacea Beeli SPECIES
 
 #### Status
 ACCEPTED

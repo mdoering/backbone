@@ -1,14 +1,13 @@
-Paecilomyces betae (Delacr.) Cornford, 1960 SPECIES
-=======
+# Gabarnaudia betae (Delacr.) Samson & W. Gams, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43: 155 (1960)
+in Samson, Stud. Mycol. 6: 90 (1974)
 
 #### Original name
 null

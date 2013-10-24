@@ -1,5 +1,4 @@
-Manginulopsis GENUS
-=======
+# Manginulopsis GENUS
 
 #### Status
 ACCEPTED

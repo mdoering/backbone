@@ -1,5 +1,4 @@
-Alicyclobacillaceae FAMILY
-=======
+# Alicyclobacillaceae FAMILY
 
 #### Status
 ACCEPTED

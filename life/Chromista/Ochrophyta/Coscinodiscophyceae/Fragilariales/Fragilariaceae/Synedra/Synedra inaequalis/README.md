@@ -1,5 +1,4 @@
-Synedra inaequalis var. jumlensis I. Jüttner & E.J. Cox VARIETY
-=======
+# Synedra inaequalis SPECIES
 
 #### Status
 ACCEPTED

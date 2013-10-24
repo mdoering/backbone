@@ -1,17 +1,16 @@
-Colus javanicus Penz., 1899 SPECIES
-=======
+# Pseudocolus fusiformis (E. Fisch.) Lloyd, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Jard. Bot. Buitenzorg, suppl. 16: 160 (1899)
+Mycol. Writ. 53 (1909)
 
 #### Original name
-Colus javanicus Penz., 1899
+Colus fusiformis E. Fisch., 1890
 
 ### Remarks
 null

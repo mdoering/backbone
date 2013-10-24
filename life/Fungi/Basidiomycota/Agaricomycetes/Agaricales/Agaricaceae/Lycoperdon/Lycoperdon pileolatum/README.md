@@ -1,5 +1,4 @@
-Lycoperdon pileolatum Kalchbr. SPECIES
-=======
+# Lycoperdon pileolatum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

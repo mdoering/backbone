@@ -1,8 +1,7 @@
-Stictyosiphon brachiatus (Bornet) Hygen & Jorde SPECIES
-=======
+# Stictyosiphon griffithsianus (Le Jolis) Holmes & Batters SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

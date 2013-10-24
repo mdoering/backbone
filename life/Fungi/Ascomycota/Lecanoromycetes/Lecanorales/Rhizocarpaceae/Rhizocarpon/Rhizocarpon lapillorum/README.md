@@ -1,5 +1,4 @@
-Rhizocarpon lapillorum (Vain.) Vain. SPECIES
-=======
+# Rhizocarpon lapillorum (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

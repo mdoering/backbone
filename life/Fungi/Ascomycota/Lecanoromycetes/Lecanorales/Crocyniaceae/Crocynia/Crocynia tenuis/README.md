@@ -1,5 +1,4 @@
-Crocynia tenuis Hue SPECIES
-=======
+# Crocynia tenuis Hue SPECIES
 
 #### Status
 ACCEPTED

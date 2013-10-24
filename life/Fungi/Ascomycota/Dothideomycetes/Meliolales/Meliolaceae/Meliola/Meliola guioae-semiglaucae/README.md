@@ -1,5 +1,4 @@
-Meliola guioae-semiglaucae Hansf. SPECIES
-=======
+# Meliola guioae-semiglaucae Hansf. SPECIES
 
 #### Status
 ACCEPTED

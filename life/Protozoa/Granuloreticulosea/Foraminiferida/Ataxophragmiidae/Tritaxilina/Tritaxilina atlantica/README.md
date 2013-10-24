@@ -1,5 +1,4 @@
-Tritaxilina atlantica SPECIES
-=======
+# Tritaxilina atlantica SPECIES
 
 #### Status
 ACCEPTED

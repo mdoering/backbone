@@ -1,5 +1,4 @@
-Phoma gutneri N. Pons SPECIES
-=======
+# Phoma gutneri N. Pons SPECIES
 
 #### Status
 ACCEPTED

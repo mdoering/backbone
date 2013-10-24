@@ -1,5 +1,4 @@
-Merrilliopeltis daemonoropis Syd. SPECIES
-=======
+# Merrilliopeltis daemonoropis Syd. SPECIES
 
 #### Status
 ACCEPTED

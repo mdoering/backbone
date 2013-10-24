@@ -1,17 +1,16 @@
-Gomphus dingleyi Segedin SPECIES
-=======
+# Gomphus dingleyae Segedin, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 22(4): 536 (1985)
 
 #### Original name
-Gomphus dingleyi Segedin
+Gomphus dingleyae Segedin, 1985
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Vermicularia rugulosa Ellis & Everh. SPECIES
-=======
+# Vermicularia rugulosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia dissepta Vañha SPECIES
-=======
+# Vermicularia dissepta Vañha SPECIES
 
 #### Status
 ACCEPTED

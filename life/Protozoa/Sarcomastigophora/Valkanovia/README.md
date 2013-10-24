@@ -1,5 +1,4 @@
-Valkanovia Tappan, 1966 GENUS
-=======
+# Valkanovia Tappan, 1966 GENUS
 
 #### Status
 ACCEPTED

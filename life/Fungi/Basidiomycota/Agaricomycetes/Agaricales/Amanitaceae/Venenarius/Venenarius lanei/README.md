@@ -1,5 +1,4 @@
-Venenarius lanei Murrill SPECIES
-=======
+# Venenarius lanei Murrill SPECIES
 
 #### Status
 ACCEPTED

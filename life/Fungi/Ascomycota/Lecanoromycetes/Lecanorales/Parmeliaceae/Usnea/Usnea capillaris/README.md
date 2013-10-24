@@ -1,5 +1,4 @@
-Usnea capillaris Motyka SPECIES
-=======
+# Usnea capillaris Motyka SPECIES
 
 #### Status
 ACCEPTED

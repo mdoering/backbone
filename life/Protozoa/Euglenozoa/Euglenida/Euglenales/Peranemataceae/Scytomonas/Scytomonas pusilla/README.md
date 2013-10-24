@@ -1,5 +1,4 @@
-Scytomonas pusilla var. sarmatica Drezepolski VARIETY
-=======
+# Scytomonas pusilla Stein SPECIES
 
 #### Status
 ACCEPTED

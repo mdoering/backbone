@@ -1,5 +1,4 @@
-Ademassa Vachard in Vachard Massa & Strank, 1993 GENUS
-=======
+# Ademassa Vachard in Vachard Massa & Strank, 1993 GENUS
 
 #### Status
 ACCEPTED

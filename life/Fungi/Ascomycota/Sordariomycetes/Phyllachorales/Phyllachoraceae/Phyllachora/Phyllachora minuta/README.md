@@ -1,17 +1,16 @@
-Physalospora hibisci Racib., 1900 SPECIES
-=======
+# Phyllachora minuta Henn., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Parasit. Alg. Pilze Java's (Jakarta) 1: 17 (1900)
+Hedwigia 41: 143 (1902)
 
 #### Original name
-Physalospora hibisci Racib., 1900
+Phyllachora minuta Henn., 1902
 
 ### Remarks
 null

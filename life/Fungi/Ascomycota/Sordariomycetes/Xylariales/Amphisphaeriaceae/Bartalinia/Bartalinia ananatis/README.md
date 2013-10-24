@@ -1,5 +1,4 @@
-Bartalinia ananatis Li Zeng, Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Bartalinia ananatis Li Zeng, Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

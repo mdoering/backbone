@@ -1,5 +1,4 @@
-Verpa fulvocincta Bres. SPECIES
-=======
+# Verpa fulvocincta Bres. SPECIES
 
 #### Status
 ACCEPTED

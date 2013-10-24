@@ -1,5 +1,4 @@
-Melanconiella appendiculata (G.H. Otth) Sacc. SPECIES
-=======
+# Melanconiella appendiculata (G.H. Otth) Sacc. SPECIES
 
 #### Status
 ACCEPTED

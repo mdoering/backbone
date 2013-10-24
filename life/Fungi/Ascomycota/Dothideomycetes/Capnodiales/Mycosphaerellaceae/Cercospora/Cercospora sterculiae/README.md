@@ -1,5 +1,4 @@
-Cercospora sterculiae Lall & Gill {?} SPECIES
-=======
+# Cercospora sterculiae Lall & Gill {?} SPECIES
 
 #### Status
 ACCEPTED

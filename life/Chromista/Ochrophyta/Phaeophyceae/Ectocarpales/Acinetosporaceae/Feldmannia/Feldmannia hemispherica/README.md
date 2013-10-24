@@ -1,8 +1,7 @@
-Ectocarpus hemisphericus Saund. SPECIES
-=======
+# Feldmannia hemispherica (Saund.) Hollenb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

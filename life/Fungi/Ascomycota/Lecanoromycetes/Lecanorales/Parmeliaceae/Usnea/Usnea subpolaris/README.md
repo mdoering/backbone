@@ -1,5 +1,4 @@
-Usnea subpolaris (I.M. Lamb) C.W. Dodge SPECIES
-=======
+# Usnea subpolaris (I.M. Lamb) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

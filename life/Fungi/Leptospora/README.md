@@ -1,5 +1,4 @@
-Leptospora Rafinesque, 1808 GENUS
-=======
+# Leptospora Rafinesque, 1808 GENUS
 
 #### Status
 ACCEPTED

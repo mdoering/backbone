@@ -1,5 +1,4 @@
-Corynespora camagueyensis R.F. Castañeda SPECIES
-=======
+# Corynespora camagueyensis R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

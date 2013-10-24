@@ -1,5 +1,4 @@
-Verrucaria pluriseptata Nyl. SPECIES
-=======
+# Verrucaria pluriseptata Nyl. SPECIES
 
 #### Status
 ACCEPTED

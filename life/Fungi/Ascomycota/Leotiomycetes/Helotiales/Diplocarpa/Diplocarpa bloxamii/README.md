@@ -1,17 +1,16 @@
-Encoelia bloxami Berk. ex W. Phillips SPECIES
-=======
+# Diplocarpa bloxamii (Berk. ex W. Phillips) Seaver, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 29: 177 (1937)
 
 #### Original name
-Encoelia bloxami Berk. ex W. Phillips
+Encoelia bloxamii Berk. ex W. Phillips, 1887
 
 ### Remarks
 null

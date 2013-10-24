@@ -1,5 +1,4 @@
-Trametes decussata Pat., 1906 SPECIES
-=======
+# Trametes decussata Pat., 1906 SPECIES
 
 #### Status
 ACCEPTED

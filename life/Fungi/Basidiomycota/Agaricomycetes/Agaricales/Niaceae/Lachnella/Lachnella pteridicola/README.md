@@ -1,5 +1,4 @@
-Lachnella pteridicola Seaver SPECIES
-=======
+# Lachnella pteridicola Seaver SPECIES
 
 #### Status
 ACCEPTED

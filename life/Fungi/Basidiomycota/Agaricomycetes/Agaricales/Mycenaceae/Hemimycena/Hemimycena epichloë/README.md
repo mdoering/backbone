@@ -1,14 +1,13 @@
-Mycena epichloë Kühner, 1938 SPECIES
-=======
+# Hemimycena epichloë (Kühner) Singer, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encyclop. Mycol. 653 (1938)
+Annls mycol. 41(1/3): 121 (1943)
 
 #### Original name
 Mycena epichloë Kühner, 1938

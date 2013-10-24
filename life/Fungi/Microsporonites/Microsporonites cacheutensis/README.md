@@ -1,5 +1,4 @@
-Microsporonites cacheutensis R.K. Jain SPECIES
-=======
+# Microsporonites cacheutensis R.K. Jain SPECIES
 
 #### Status
 ACCEPTED

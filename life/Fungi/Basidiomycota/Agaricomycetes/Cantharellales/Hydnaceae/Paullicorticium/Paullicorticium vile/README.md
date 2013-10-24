@@ -1,5 +1,4 @@
-Paullicorticium vile (Bourdot & Galzin) SPECIES
-=======
+# Paullicorticium vile (Bourdot & Galzin) SPECIES
 
 #### Status
 ACCEPTED

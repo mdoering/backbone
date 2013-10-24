@@ -1,5 +1,4 @@
-Entyloma wisconsiniense Cif. SPECIES
-=======
+# Entyloma wisconsiniense Cif. SPECIES
 
 #### Status
 ACCEPTED

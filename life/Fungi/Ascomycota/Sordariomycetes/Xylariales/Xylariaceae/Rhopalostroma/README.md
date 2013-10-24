@@ -1,5 +1,4 @@
-Rhopalostroma D. Hawksw. GENUS
-=======
+# Rhopalostroma D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

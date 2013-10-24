@@ -1,5 +1,4 @@
-Glomerella coffeicola Av.-Saccá SPECIES
-=======
+# Glomerella coffeicola Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

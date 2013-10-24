@@ -1,5 +1,4 @@
-Coleosporium flavum Bonord. SPECIES
-=======
+# Coleosporium flavum Bonord. SPECIES
 
 #### Status
 ACCEPTED

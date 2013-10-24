@@ -1,5 +1,4 @@
-Clitocybe balansae Speg. SPECIES
-=======
+# Clitocybe balansae Speg. SPECIES
 
 #### Status
 ACCEPTED

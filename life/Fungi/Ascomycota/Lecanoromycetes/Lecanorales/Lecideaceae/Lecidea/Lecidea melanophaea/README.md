@@ -1,5 +1,4 @@
-Lecidea melanophaea Fr. SPECIES
-=======
+# Lecidea melanophaea Fr. SPECIES
 
 #### Status
 ACCEPTED

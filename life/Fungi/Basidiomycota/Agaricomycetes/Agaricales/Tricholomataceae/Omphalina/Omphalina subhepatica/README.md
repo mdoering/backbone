@@ -1,17 +1,16 @@
-Omphalia hepatica (Batsch) Gillet, 1876 SPECIES
-=======
+# Omphalina subhepatica (Batsch) Murrill, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomycètes (Alençon) 294 (1876)
+N. Amer. Fl. (New York) 9(5): 346 (1916)
 
 #### Original name
-Agaricus hepaticus Batsch, 1786
+Agaricus subhepaticus Batsch, 1789
 
 ### Remarks
 null

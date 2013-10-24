@@ -1,14 +1,13 @@
-Tremotylium suboccultum Stirt. SPECIES
-=======
+# Thelotrema suboccultum (Stirt.) Hellb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-J. Linn. Soc. , London 14: 465 (1875)
+K. svenska Vetensk-Akad. Handl. 21(Afd. 3, 13): 79 (1896)
 
 #### Original name
 Tremotylium suboccultum Stirt.

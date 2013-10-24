@@ -1,5 +1,4 @@
-Patellaria vestita (Mont.) SPECIES
-=======
+# Patellaria vestita (Mont.) SPECIES
 
 #### Status
 ACCEPTED

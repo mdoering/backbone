@@ -1,5 +1,4 @@
-Basidopus cyanocephalus (Singer) E. Horak SPECIES
-=======
+# Basidopus cyanocephalus (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

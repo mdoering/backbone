@@ -1,5 +1,4 @@
-Pseudocyphellaria ballyi C.W. Dodge SPECIES
-=======
+# Pseudocyphellaria ballyi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

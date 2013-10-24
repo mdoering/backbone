@@ -1,5 +1,4 @@
-Galactinia polaripapulata J. Moravec SPECIES
-=======
+# Galactinia polaripapulata J. Moravec SPECIES
 
 #### Status
 ACCEPTED

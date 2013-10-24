@@ -1,8 +1,7 @@
-Natronobacterium nitratireducens Xin et al., 2001 SPECIES
-=======
+# Halobiforma nitratireducens (Xin et al., 2001) Hezayen et al., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

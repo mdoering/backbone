@@ -1,5 +1,4 @@
-Spiroloculina lucida Cushman & Todd SPECIES
-=======
+# Spiroloculina lucida Cushman & Todd SPECIES
 
 #### Status
 ACCEPTED

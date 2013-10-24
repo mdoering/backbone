@@ -1,14 +1,13 @@
-Boletus astraeicola (Imazeki) Har. Takah., 1992 SPECIES
-=======
+# Pseudoboletus astraeicola (Imazeki) Šutara, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-MSJ News, Nippon Kingakkai Nyusu 2(no. 19): 37 (1992)
+Czech Mycol. 57(1-2): 42 (2005)
 
 #### Original name
 Xerocomus astraeicola Imazeki, 1952

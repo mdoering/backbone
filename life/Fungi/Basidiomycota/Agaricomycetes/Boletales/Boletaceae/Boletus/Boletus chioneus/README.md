@@ -1,5 +1,4 @@
-Boletus chioneus Fr. SPECIES
-=======
+# Boletus chioneus Fr. SPECIES
 
 #### Status
 ACCEPTED

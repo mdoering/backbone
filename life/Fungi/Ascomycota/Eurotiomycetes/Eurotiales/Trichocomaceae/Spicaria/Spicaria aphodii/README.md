@@ -1,5 +1,4 @@
-Spicaria aphodii Vuill. SPECIES
-=======
+# Spicaria aphodii Vuill. SPECIES
 
 #### Status
 ACCEPTED

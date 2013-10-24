@@ -1,5 +1,4 @@
-Aecidium anningense F.L. Tai SPECIES
-=======
+# Aecidium anningense F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

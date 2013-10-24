@@ -1,5 +1,4 @@
-Echinobotryum parasitans Corda SPECIES
-=======
+# Echinobotryum parasitans Corda SPECIES
 
 #### Status
 ACCEPTED

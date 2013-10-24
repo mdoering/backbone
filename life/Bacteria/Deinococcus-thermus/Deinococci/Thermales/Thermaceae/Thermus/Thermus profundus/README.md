@@ -1,5 +1,4 @@
-Thermus profundus (sic) Kobayashi et al., 1995 SPECIES
-=======
+# Thermus profundus (sic) Kobayashi et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

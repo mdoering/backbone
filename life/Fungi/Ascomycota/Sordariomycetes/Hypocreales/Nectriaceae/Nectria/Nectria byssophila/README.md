@@ -1,5 +1,4 @@
-Nectria byssophila Rossman, 1979 SPECIES
-=======
+# Nectria byssophila Rossman, 1979 SPECIES
 
 #### Status
 ACCEPTED

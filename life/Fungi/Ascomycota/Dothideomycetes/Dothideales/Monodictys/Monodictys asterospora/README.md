@@ -1,5 +1,4 @@
-Monodictys asterospora B. Sutton & Alcorn SPECIES
-=======
+# Monodictys asterospora B. Sutton & Alcorn SPECIES
 
 #### Status
 ACCEPTED

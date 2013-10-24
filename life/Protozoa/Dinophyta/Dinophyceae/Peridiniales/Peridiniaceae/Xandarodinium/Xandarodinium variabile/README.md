@@ -1,5 +1,4 @@
-Xandarodinium variabile J. P. Bujak SPECIES
-=======
+# Xandarodinium variabile J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

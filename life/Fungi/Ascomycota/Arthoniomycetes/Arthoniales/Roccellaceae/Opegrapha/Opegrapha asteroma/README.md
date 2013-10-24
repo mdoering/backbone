@@ -1,5 +1,4 @@
-Opegrapha asteroma Chevall. SPECIES
-=======
+# Opegrapha asteroma Chevall. SPECIES
 
 #### Status
 ACCEPTED

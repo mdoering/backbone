@@ -1,5 +1,4 @@
-Cetrariastrum mexicanum Egan SPECIES
-=======
+# Cetrariastrum mexicanum Egan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filisphaeridium regularum Jiabo, 1978 SPECIES
-=======
+# Filisphaeridium regularum Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

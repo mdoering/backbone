@@ -1,5 +1,4 @@
-Omphalina subchrysophylla Murrill SPECIES
-=======
+# Omphalina subchrysophylla Murrill SPECIES
 
 #### Status
 ACCEPTED

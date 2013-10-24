@@ -1,5 +1,4 @@
-Anthostomella arunci Höhn. SPECIES
-=======
+# Anthostomella arunci Höhn. SPECIES
 
 #### Status
 ACCEPTED

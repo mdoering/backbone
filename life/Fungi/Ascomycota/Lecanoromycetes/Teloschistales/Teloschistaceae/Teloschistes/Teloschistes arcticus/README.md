@@ -1,5 +1,4 @@
-Teloschistes arcticus Zahlbr. SPECIES
-=======
+# Teloschistes arcticus Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

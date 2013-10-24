@@ -1,5 +1,4 @@
-Megalospora maquilingensis (Vain.) Zahlbr. SPECIES
-=======
+# Megalospora maquilingensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

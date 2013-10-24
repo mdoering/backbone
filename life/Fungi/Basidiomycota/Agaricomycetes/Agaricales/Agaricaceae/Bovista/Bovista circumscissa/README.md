@@ -1,5 +1,4 @@
-Bovista circumscissa Berk. & M.A. Curtis SPECIES
-=======
+# Bovista circumscissa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

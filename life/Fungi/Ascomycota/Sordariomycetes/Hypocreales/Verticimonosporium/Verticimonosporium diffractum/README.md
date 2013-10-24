@@ -1,5 +1,4 @@
-Verticimonosporium diffractum Matsush., 1971 SPECIES
-=======
+# Verticimonosporium diffractum Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

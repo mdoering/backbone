@@ -1,5 +1,4 @@
-Umbillicaria angulata SPECIES
-=======
+# Umbillicaria angulata SPECIES
 
 #### Status
 DOUBTFUL

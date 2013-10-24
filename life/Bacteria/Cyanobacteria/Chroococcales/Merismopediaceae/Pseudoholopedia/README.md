@@ -1,5 +1,4 @@
-Pseudoholopedia (Ryppowa) Elenkin, 1938 GENUS
-=======
+# Pseudoholopedia (Ryppowa) Elenkin, 1938 GENUS
 
 #### Status
 SYNONYM

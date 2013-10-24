@@ -1,5 +1,4 @@
-Mistarcon GENUS
-=======
+# Mistarcon GENUS
 
 #### Status
 ACCEPTED

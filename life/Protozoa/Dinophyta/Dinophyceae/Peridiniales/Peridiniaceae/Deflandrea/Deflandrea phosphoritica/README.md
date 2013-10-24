@@ -1,5 +1,4 @@
-Deflandrea phosphoritica Eisenack, 1938 SPECIES
-=======
+# Deflandrea phosphoritica Eisenack, 1938 SPECIES
 
 #### Status
 ACCEPTED

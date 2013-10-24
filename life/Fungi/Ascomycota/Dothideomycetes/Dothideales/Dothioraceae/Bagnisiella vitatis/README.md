@@ -1,5 +1,4 @@
-Bagnisiella vitatis SPECIES
-=======
+# Bagnisiella vitatis SPECIES
 
 #### Status
 ACCEPTED

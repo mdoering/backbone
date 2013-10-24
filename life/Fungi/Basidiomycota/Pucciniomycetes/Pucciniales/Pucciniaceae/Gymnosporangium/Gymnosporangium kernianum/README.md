@@ -1,5 +1,4 @@
-Gymnosporangium kernianum Bethel, 1911 SPECIES
-=======
+# Gymnosporangium kernianum Bethel, 1911 SPECIES
 
 #### Status
 ACCEPTED

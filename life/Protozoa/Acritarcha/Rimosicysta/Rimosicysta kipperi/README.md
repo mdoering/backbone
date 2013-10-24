@@ -1,5 +1,4 @@
-Rimosicysta kipperi Marshall, 1989 SPECIES
-=======
+# Rimosicysta kipperi Marshall, 1989 SPECIES
 
 #### Status
 ACCEPTED

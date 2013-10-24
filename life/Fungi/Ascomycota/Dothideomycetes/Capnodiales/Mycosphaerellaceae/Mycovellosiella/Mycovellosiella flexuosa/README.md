@@ -1,5 +1,4 @@
-Mycovellosiella flexuosa (Tracy & Earle) U. Braun SPECIES
-=======
+# Mycovellosiella flexuosa (Tracy & Earle) U. Braun SPECIES
 
 #### Status
 ACCEPTED

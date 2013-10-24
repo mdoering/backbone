@@ -1,5 +1,4 @@
-Mycoporum ohiensis (Nyl.) Fink SPECIES
-=======
+# Mycoporum ohiensis (Nyl.) Fink SPECIES
 
 #### Status
 ACCEPTED

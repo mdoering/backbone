@@ -1,5 +1,4 @@
-Phaeodactylium biseptatum R.F. Castañeda, Iturr. & Fernández Sas. SPECIES
-=======
+# Phaeodactylium biseptatum R.F. Castañeda, Iturr. & Fernández Sas. SPECIES
 
 #### Status
 ACCEPTED

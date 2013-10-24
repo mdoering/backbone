@@ -1,5 +1,4 @@
-Fayodia atrialba (Murrill) Singer SPECIES
-=======
+# Fayodia atrialba (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

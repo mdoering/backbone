@@ -1,5 +1,4 @@
-Nothopanus amarescens Singer SPECIES
-=======
+# Nothopanus amarescens Singer SPECIES
 
 #### Status
 ACCEPTED

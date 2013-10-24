@@ -1,5 +1,4 @@
-Whalenella robusta SPECIES
-=======
+# Whalenella robusta SPECIES
 
 #### Status
 ACCEPTED

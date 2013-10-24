@@ -1,5 +1,4 @@
-Psilocybe ovoideocystidiata Guzmán & Gaines {?} SPECIES
-=======
+# Psilocybe ovoideocystidiata Guzmán & Gaines {?} SPECIES
 
 #### Status
 ACCEPTED

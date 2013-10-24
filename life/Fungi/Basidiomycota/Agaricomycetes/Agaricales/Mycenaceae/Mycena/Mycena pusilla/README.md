@@ -1,5 +1,4 @@
-Mycena pusilla A.H. Sm. SPECIES
-=======
+# Mycena pusilla A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

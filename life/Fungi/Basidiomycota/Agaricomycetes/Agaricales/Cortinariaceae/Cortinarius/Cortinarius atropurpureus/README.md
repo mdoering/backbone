@@ -1,5 +1,4 @@
-Cortinarius atropurpureus (E. Horak) Kuhn.-Fink. & Peintner SPECIES
-=======
+# Cortinarius atropurpureus (E. Horak) Kuhn.-Fink. & Peintner SPECIES
 
 #### Status
 ACCEPTED

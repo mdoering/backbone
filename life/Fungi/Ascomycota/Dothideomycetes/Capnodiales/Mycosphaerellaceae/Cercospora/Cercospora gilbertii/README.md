@@ -1,5 +1,4 @@
-Cercospora gilbertii Speg. SPECIES
-=======
+# Cercospora gilbertii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyforama incrustata Lopukhin in Nikitina & Ogurzova, 1971 SPECIES
-=======
+# Polyforama incrustata Lopukhin in Nikitina & Ogurzova, 1971 SPECIES
 
 #### Status
 ACCEPTED

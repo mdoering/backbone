@@ -1,5 +1,4 @@
-Lactobacillus parabuchneri Farrow et al., 1989 SPECIES
-=======
+# Lactobacillus parabuchneri Farrow et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella linearis Pers. SPECIES
-=======
+# Tremella linearis Pers. SPECIES
 
 #### Status
 ACCEPTED

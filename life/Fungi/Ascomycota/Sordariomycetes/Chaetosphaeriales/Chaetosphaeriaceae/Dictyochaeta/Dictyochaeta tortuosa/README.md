@@ -1,5 +1,4 @@
-Dictyochaeta tortuosa (B. Sutton) Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Dictyochaeta tortuosa (B. Sutton) Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

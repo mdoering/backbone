@@ -1,5 +1,4 @@
-Helotium rufescens Ficinus SPECIES
-=======
+# Helotium rufescens Ficinus SPECIES
 
 #### Status
 ACCEPTED

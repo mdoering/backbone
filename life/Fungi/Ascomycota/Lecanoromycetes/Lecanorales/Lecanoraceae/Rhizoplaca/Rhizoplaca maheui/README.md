@@ -1,17 +1,16 @@
-Polycauliona maheui Hue SPECIES
-=======
+# Rhizoplaca maheui (Hue) Gómez-Bolea & M. Barbero SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 108: 342 (2009)
 
 #### Original name
-null
+Polycauliona maheui Hue
 
 ### Remarks
 null

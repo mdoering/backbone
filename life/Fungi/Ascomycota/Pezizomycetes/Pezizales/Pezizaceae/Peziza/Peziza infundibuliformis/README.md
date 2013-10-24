@@ -1,5 +1,4 @@
-Peziza infundibuliformis Batsch SPECIES
-=======
+# Peziza infundibuliformis Batsch SPECIES
 
 #### Status
 ACCEPTED

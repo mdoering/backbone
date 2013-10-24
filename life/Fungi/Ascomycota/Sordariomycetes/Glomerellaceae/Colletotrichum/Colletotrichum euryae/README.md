@@ -1,5 +1,4 @@
-Colletotrichum euryae Sawada SPECIES
-=======
+# Colletotrichum euryae Sawada SPECIES
 
 #### Status
 ACCEPTED

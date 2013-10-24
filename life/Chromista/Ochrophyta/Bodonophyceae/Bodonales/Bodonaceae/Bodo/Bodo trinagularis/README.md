@@ -1,5 +1,4 @@
-Bodo trinagularis SPECIES
-=======
+# Bodo trinagularis SPECIES
 
 #### Status
 ACCEPTED

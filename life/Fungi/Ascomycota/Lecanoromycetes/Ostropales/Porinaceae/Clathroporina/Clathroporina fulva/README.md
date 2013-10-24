@@ -1,5 +1,4 @@
-Clathroporina fulva (Vain.) Zahlbr. SPECIES
-=======
+# Clathroporina fulva (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Entoloma erophilum var. erophilum VARIETY
-=======
+# Entoloma plebejum (Kalchbr.) Noordel., 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rysslands, Finlands och den Skandinaviska Halföns. Hattsvampar 259 (1879)
+Persoonia 12(4): 462 (1985)
 
 #### Original name
-Entoloma erophilum var. erophilum
+Agaricus plebejus Kalchbr., 1874
 
 ### Remarks
 null

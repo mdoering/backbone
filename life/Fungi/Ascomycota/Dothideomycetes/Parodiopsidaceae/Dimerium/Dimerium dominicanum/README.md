@@ -1,5 +1,4 @@
-Dimerium dominicanum Petr. & Cif. SPECIES
-=======
+# Dimerium dominicanum Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria inflata Ellis SPECIES
-=======
+# Sphaeria inflata Ellis SPECIES
 
 #### Status
 ACCEPTED

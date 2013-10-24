@@ -1,5 +1,4 @@
-Tintinnopsella bacinensis Radoicic, 1969 SPECIES
-=======
+# Tintinnopsella bacinensis Radoicic, 1969 SPECIES
 
 #### Status
 ACCEPTED

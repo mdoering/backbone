@@ -1,14 +1,13 @@
-Graphis nakanishiana Patw. & C.R. Kulk. SPECIES
-=======
+# Hemithecium nakanishianum (Patw. & C.R. Kulk.) Makhija & Dube SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Norw. Jl Bot. 26(1): 46 (1979)
+Mycotaxon 93: 370 (2005)
 
 #### Original name
 Graphis nakanishiana Patw. & C.R. Kulk.

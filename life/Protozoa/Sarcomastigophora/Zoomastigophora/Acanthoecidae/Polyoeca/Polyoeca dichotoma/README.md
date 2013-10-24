@@ -1,8 +1,7 @@
-Polyoeca dumosa Dunkerley, 1910 SPECIES
-=======
+# Polyoeca dichotoma Kent, 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

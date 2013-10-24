@@ -1,5 +1,4 @@
-Coprinopsis karwinicola (Grgur.) J.A. Simpson & Grgur. SPECIES
-=======
+# Coprinopsis karwinicola (Grgur.) J.A. Simpson & Grgur. SPECIES
 
 #### Status
 ACCEPTED

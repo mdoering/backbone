@@ -1,5 +1,4 @@
-Aspergillus arachidicola Pildain, Frisvad & Samson SPECIES
-=======
+# Aspergillus arachidicola Pildain, Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

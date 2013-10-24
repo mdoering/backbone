@@ -1,5 +1,4 @@
-Rhizomorpha verticillata Ach. SPECIES
-=======
+# Rhizomorpha verticillata Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Encoelia montana Arendh. & R. Sharma SPECIES
-=======
+# Encoelia montana Arendh. & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

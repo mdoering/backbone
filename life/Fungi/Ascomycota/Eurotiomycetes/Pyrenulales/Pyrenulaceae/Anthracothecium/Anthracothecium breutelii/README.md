@@ -1,5 +1,4 @@
-Anthracothecium breutelii Müll. Arg. SPECIES
-=======
+# Anthracothecium breutelii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

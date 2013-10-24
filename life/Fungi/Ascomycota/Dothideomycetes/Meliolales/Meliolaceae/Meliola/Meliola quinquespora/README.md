@@ -1,5 +1,4 @@
-Meliola quinquespora Thüm. SPECIES
-=======
+# Meliola quinquespora Thüm. SPECIES
 
 #### Status
 ACCEPTED

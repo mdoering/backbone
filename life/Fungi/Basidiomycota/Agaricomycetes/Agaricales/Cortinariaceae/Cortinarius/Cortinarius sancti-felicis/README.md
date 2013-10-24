@@ -1,5 +1,4 @@
-Cortinarius sancti-felicis Frøslev & T.S. Jeppesen SPECIES
-=======
+# Cortinarius sancti-felicis Frøslev & T.S. Jeppesen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea vermlandica H. Magn. SPECIES
-=======
+# Lecidea vermlandica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia diacanthina Sacc. SPECIES
-=======
+# Diplodia diacanthina Sacc. SPECIES
 
 #### Status
 ACCEPTED

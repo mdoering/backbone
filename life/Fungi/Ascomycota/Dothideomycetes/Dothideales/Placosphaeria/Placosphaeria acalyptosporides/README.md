@@ -1,5 +1,4 @@
-Placosphaeria acalyptosporides Speg. SPECIES
-=======
+# Placosphaeria acalyptosporides Speg. SPECIES
 
 #### Status
 ACCEPTED

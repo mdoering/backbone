@@ -1,5 +1,4 @@
-Parmotrema macrocarpum (Pers.) Hale SPECIES
-=======
+# Parmotrema macrocarpum (Pers.) Hale SPECIES
 
 #### Status
 ACCEPTED

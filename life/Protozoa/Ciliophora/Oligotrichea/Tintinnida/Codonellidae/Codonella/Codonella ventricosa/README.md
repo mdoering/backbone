@@ -1,5 +1,4 @@
-Codonella ventricosa subsp. ventricosa SUBSPECIES
-=======
+# Codonella ventricosa SPECIES
 
 #### Status
 ACCEPTED

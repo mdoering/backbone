@@ -1,5 +1,4 @@
-Peglerochaete Sarwal & Locq. GENUS
-=======
+# Peglerochaete Sarwal & Locq. GENUS
 
 #### Status
 ACCEPTED

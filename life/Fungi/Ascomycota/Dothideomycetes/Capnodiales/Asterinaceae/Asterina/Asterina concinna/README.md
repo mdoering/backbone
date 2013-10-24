@@ -1,5 +1,4 @@
-Asterina concinna Syd. SPECIES
-=======
+# Asterina concinna Syd. SPECIES
 
 #### Status
 ACCEPTED

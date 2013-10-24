@@ -1,17 +1,16 @@
-Rhizocarpon obscuratum f. granulosum Schade FORM
-=======
+# Rhizocarpon furfurosum H. Magn. & Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wein 95: 110 (1955)
 
 #### Original name
-null
+Rhizocarpon furfurosum H. Magn. & Poelt
 
 ### Remarks
 null

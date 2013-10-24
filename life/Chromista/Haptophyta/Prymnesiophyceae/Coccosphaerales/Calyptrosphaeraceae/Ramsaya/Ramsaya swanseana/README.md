@@ -1,5 +1,4 @@
-Ramsaya swanseana J.B. Risatti SPECIES
-=======
+# Ramsaya swanseana J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

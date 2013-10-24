@@ -1,17 +1,16 @@
-Phomopsis salicina f. longipes Sousa da Câmara FORM
-=======
+# Phomopsis salicina (Westend.) Died., 1911 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Agron. lusit. 11(1): 60 (1949)
+Annls mycol. 9(1): 30 (1911)
 
 #### Original name
-Phomopsis salicina f. longipes Sousa da Câmara
+Phoma salicina Westend., 1857
 
 ### Remarks
 null

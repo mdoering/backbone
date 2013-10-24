@@ -1,5 +1,4 @@
-Kjeldsenia W. Colgan, Castellano & Bougher GENUS
-=======
+# Kjeldsenia W. Colgan, Castellano & Bougher GENUS
 
 #### Status
 ACCEPTED

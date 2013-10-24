@@ -1,5 +1,4 @@
-Peziza stipitum Schumach. SPECIES
-=======
+# Peziza stipitum Schumach. SPECIES
 
 #### Status
 ACCEPTED

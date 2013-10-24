@@ -1,5 +1,4 @@
-Pythium diameson Sideris SPECIES
-=======
+# Pythium diameson Sideris SPECIES
 
 #### Status
 ACCEPTED

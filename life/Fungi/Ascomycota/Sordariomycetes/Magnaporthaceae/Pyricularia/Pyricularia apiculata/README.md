@@ -1,5 +1,4 @@
-Pyricularia apiculata Matsush. SPECIES
-=======
+# Pyricularia apiculata Matsush. SPECIES
 
 #### Status
 ACCEPTED

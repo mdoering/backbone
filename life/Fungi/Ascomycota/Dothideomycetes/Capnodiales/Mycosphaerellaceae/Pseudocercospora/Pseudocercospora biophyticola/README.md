@@ -1,17 +1,16 @@
-Pseudocercospora biophytiicola P.N. Singh, Kharwar & H.S.G. Rao SPECIES
-=======
+# Pseudocercospora biophyticola P.N. Singh, Kharwar & H.S.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 50(1): 11 (1997)
 
 #### Original name
-Pseudocercospora biophytiicola P.N. Singh, Kharwar & H.S.G. Rao
+Pseudocercospora biophyticola P.N. Singh, Kharwar & H.S.G. Rao
 
 ### Remarks
 null

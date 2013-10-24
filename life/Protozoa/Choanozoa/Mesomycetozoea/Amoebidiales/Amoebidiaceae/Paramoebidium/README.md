@@ -1,5 +1,4 @@
-Paramoebidium L. Léger & Duboscq GENUS
-=======
+# Paramoebidium L. Léger & Duboscq GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus vinolenta Berk. SPECIES
-=======
+# Agaricus vinolenta Berk. SPECIES
 
 #### Status
 ACCEPTED

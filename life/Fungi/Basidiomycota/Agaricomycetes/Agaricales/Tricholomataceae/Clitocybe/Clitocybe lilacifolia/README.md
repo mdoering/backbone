@@ -1,5 +1,4 @@
-Clitocybe lilacifolia (Peck) Singer SPECIES
-=======
+# Clitocybe lilacifolia (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

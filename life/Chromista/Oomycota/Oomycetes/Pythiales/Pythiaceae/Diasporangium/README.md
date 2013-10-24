@@ -1,5 +1,4 @@
-Diasporangium Höhnk GENUS
-=======
+# Diasporangium Höhnk GENUS
 
 #### Status
 ACCEPTED

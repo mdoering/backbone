@@ -1,5 +1,4 @@
-Leptonia separata Largent SPECIES
-=======
+# Leptonia separata Largent SPECIES
 
 #### Status
 ACCEPTED

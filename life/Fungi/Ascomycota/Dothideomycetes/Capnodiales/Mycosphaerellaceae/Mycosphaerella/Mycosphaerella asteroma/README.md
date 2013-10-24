@@ -1,17 +1,16 @@
-Sphaerella asteroma var. asteroma VARIETY
-=======
+# Mycosphaerella asteroma (Fr.) Lindau, 1897 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Dothidea asteroma Fr., 1823
 
 ### Remarks
 null

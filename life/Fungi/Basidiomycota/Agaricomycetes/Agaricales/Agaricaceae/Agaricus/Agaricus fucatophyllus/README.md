@@ -1,5 +1,4 @@
-Agaricus fucatophyllus Lasch SPECIES
-=======
+# Agaricus fucatophyllus Lasch SPECIES
 
 #### Status
 ACCEPTED

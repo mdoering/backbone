@@ -1,8 +1,7 @@
-Parmelia squamariaeformis Gyeln. SPECIES
-=======
+# Parmelia squamariiformis Gyeln. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia squamariaeformis Gyeln.
+Parmelia squamariiformis Gyeln.
 
 ### Remarks
 null

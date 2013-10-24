@@ -1,5 +1,4 @@
-Belonidium collemoides Rehm SPECIES
-=======
+# Belonidium collemoides Rehm SPECIES
 
 #### Status
 ACCEPTED

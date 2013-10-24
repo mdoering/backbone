@@ -1,5 +1,4 @@
-Melanospora interna Tehon & G.L. Stout SPECIES
-=======
+# Melanospora interna Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

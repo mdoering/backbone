@@ -1,5 +1,4 @@
-Trichoderma koningi Oud. SPECIES
-=======
+# Trichoderma koningi Oud. SPECIES
 
 #### Status
 ACCEPTED

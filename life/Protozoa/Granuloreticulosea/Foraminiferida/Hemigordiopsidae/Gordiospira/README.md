@@ -1,5 +1,4 @@
-Gordiospira Heron-Allen & Earland, 1932 GENUS
-=======
+# Gordiospira Heron-Allen & Earland, 1932 GENUS
 
 #### Status
 ACCEPTED

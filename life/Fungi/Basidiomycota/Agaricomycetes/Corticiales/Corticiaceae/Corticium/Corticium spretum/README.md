@@ -1,5 +1,4 @@
-Corticium spretum Burt SPECIES
-=======
+# Corticium spretum Burt SPECIES
 
 #### Status
 ACCEPTED

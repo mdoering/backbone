@@ -1,17 +1,16 @@
-Achlya americana var. cambrica Trow VARIETY
-=======
+# Achlya americana Humphrey, 1892 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Am. phil. Soc. 17: 116 (1892)
 
 #### Original name
-Achlya americana var. cambrica Trow
+Achlya americana Humphrey, 1892
 
 ### Remarks
 null

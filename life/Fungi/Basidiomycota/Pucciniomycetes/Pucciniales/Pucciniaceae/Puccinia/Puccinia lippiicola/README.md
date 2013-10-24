@@ -1,5 +1,4 @@
-Puccinia lippiicola Pat. & Har. SPECIES
-=======
+# Puccinia lippiicola Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

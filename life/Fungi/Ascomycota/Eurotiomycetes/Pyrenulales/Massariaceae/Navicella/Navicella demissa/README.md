@@ -1,5 +1,4 @@
-Navicella demissa (Nitschke) Kuntze SPECIES
-=======
+# Navicella demissa (Nitschke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

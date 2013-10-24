@@ -1,5 +1,4 @@
-Lecothecium conferciens (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Lecothecium conferciens (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

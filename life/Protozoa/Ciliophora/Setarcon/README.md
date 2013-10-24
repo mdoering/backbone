@@ -1,5 +1,4 @@
-Setarcon Jankowski, 1981 GENUS
-=======
+# Setarcon Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

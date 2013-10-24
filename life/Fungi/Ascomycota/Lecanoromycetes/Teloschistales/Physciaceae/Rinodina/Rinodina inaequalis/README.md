@@ -1,5 +1,4 @@
-Rinodina inaequalis H. Magn. SPECIES
-=======
+# Rinodina inaequalis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

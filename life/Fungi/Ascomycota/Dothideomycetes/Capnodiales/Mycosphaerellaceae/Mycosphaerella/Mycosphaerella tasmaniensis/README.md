@@ -1,5 +1,4 @@
-Mycosphaerella tasmaniensis Crous & M.J. Wingf., 1998 SPECIES
-=======
+# Mycosphaerella tasmaniensis Crous & M.J. Wingf., 1998 SPECIES
 
 #### Status
 ACCEPTED

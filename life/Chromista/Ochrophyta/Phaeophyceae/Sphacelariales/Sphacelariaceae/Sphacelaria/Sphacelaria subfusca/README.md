@@ -1,5 +1,4 @@
-Sphacelaria subfusca Setchell & N.L. Gardner SPECIES
-=======
+# Sphacelaria subfusca Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

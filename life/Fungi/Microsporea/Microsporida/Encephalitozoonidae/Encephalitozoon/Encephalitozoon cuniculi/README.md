@@ -1,5 +1,4 @@
-Encephalitozoon cuniculi Levaditi, Nicolau & Schoen SPECIES
-=======
+# Encephalitozoon cuniculi Levaditi, Nicolau & Schoen SPECIES
 
 #### Status
 ACCEPTED

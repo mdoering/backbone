@@ -1,5 +1,4 @@
-Acarospora boliviana H. Magn. SPECIES
-=======
+# Acarospora boliviana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

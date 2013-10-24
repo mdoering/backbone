@@ -1,14 +1,13 @@
-Gloeocystidiellum salmoneum (Burt) Liberta, 1969 SPECIES
-=======
+# Gloeocystidiopsis salmonea (Burt) Boidin, Lanq. & Gilles, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 18: 226 (1969)
+Bull. trimest. Soc. mycol. Fr. 113(1): 43 (1997)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Lobaria parietina (L.) Hoffm. SPECIES
-=======
+# Lobaria parietina (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

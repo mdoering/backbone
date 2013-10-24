@@ -1,5 +1,4 @@
-Borinquenia miconiae F. Stevens, 1917 SPECIES
-=======
+# Borinquenia miconiae F. Stevens, 1917 SPECIES
 
 #### Status
 ACCEPTED

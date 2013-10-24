@@ -1,5 +1,4 @@
-Mucor adventitus Oudemans SPECIES
-=======
+# Mucor adventitus Oudemans SPECIES
 
 #### Status
 ACCEPTED

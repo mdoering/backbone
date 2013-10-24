@@ -1,17 +1,16 @@
-Phomopsis piceae f. piceae (Pers.) Höhn. FORM
-=======
+# Diaporthe picea (Pers.) Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 648 (1882)
 
 #### Original name
-Phomopsis piceae f. piceae (Pers.) Höhn.
+Sphaeria picea Pers., 1800
 
 ### Remarks
 null

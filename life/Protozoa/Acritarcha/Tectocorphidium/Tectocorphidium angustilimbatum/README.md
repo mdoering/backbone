@@ -1,5 +1,4 @@
-Tectocorphidium angustilimbatum Jiabo, 1978 SPECIES
-=======
+# Tectocorphidium angustilimbatum Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

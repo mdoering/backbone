@@ -1,5 +1,4 @@
-Tintinus intermedius SPECIES
-=======
+# Tintinus intermedius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria eustoma Penz. & Sacc. SPECIES
-=======
+# Nectria eustoma Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

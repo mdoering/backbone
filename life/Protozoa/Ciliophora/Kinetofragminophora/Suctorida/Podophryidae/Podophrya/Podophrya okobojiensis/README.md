@@ -1,5 +1,4 @@
-Podophrya okobojiensis SPECIES
-=======
+# Podophrya okobojiensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus rhodiophyllus Kalchbr. SPECIES
-=======
+# Agaricus rhodiophyllus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

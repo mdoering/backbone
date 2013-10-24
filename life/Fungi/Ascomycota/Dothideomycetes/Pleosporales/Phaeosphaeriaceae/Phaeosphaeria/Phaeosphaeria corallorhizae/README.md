@@ -1,5 +1,4 @@
-Phaeosphaeria corallorhizae (Peck) M.E. Barr SPECIES
-=======
+# Phaeosphaeria corallorhizae (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

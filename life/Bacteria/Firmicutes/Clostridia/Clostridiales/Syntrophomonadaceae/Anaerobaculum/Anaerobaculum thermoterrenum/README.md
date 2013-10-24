@@ -1,5 +1,4 @@
-Anaerobaculum thermoterrenum Rees et al., 1997 SPECIES
-=======
+# Anaerobaculum thermoterrenum Rees et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

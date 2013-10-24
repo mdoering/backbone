@@ -1,5 +1,4 @@
-Phyllosticta hoyae Died. SPECIES
-=======
+# Phyllosticta hoyae Died. SPECIES
 
 #### Status
 ACCEPTED

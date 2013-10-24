@@ -1,5 +1,4 @@
-Mycothyridium adeanum (Rehm) Petr. SPECIES
-=======
+# Mycothyridium adeanum (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

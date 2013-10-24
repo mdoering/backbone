@@ -1,5 +1,4 @@
-Patellaria euganea Trevis. SPECIES
-=======
+# Patellaria euganea Trevis. SPECIES
 
 #### Status
 ACCEPTED

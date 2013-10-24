@@ -1,17 +1,16 @@
-Cladosporium amaranticola Opiz SPECIES
-=======
+# Cladosporium amaranthicola Opiz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lotos 5: 41 (1855)
 
 #### Original name
-Cladosporium amaranticola Opiz
+Cladosporium amaranthicola Opiz
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diplosalis acuta (Apstein) Entz. SPECIES
-=======
+# Diplosalis acuta (Apstein) Entz. SPECIES
 
 #### Status
 ACCEPTED

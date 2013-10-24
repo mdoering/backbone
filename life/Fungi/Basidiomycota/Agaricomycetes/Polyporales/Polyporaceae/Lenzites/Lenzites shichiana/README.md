@@ -1,5 +1,4 @@
-Lenzites shichiana (Teng & L. Ling) Teng SPECIES
-=======
+# Lenzites shichiana (Teng & L. Ling) Teng SPECIES
 
 #### Status
 ACCEPTED

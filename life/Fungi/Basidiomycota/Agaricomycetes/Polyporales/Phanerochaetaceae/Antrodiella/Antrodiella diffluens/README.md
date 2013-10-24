@@ -1,5 +1,4 @@
-Antrodiella diffluens (Corner) T. Hatt. SPECIES
-=======
+# Antrodiella diffluens (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

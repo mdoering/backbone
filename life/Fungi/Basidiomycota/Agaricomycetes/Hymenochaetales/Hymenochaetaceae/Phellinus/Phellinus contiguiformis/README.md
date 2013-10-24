@@ -1,5 +1,4 @@
-Phellinus contiguiformis Pilát SPECIES
-=======
+# Phellinus contiguiformis Pilát SPECIES
 
 #### Status
 ACCEPTED

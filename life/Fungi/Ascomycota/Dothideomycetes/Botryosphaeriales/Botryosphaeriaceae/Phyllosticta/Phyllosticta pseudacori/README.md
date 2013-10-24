@@ -1,14 +1,13 @@
-Phoma pseudacori Brunaud, 1893 SPECIES
-=======
+# Phyllosticta pseudacori (Brunaud) Allesch., 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 40: 223 (1893)
+null
 
 #### Original name
 Phoma pseudacori Brunaud, 1893

@@ -1,5 +1,4 @@
-Licea clarkii Ing, 1982 SPECIES
-=======
+# Licea clarkii Ing, 1982 SPECIES
 
 #### Status
 ACCEPTED

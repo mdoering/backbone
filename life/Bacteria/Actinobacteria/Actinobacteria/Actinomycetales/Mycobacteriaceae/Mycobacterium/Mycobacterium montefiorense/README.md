@@ -1,5 +1,4 @@
-Mycobacterium montefiorense Levi et al., 2003 SPECIES
-=======
+# Mycobacterium montefiorense Levi et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

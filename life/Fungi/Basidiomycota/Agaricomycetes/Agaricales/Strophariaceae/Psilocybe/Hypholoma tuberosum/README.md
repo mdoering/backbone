@@ -1,5 +1,4 @@
-Hypholoma tuberosum Redhead & Kroeger SPECIES
-=======
+# Hypholoma tuberosum Redhead & Kroeger SPECIES
 
 #### Status
 ACCEPTED

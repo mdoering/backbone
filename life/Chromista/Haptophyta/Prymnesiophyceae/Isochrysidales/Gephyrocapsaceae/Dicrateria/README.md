@@ -1,5 +1,4 @@
-Dicrateria Parke, 1949 GENUS
-=======
+# Dicrateria Parke, 1949 GENUS
 
 #### Status
 ACCEPTED

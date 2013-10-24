@@ -1,5 +1,4 @@
-Discula africana Bat. & J.L. Bezerra SPECIES
-=======
+# Discula africana Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

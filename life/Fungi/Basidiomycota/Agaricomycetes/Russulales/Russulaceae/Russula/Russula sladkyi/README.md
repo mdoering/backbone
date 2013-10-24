@@ -1,5 +1,4 @@
-Russula sladkyi Velen. SPECIES
-=======
+# Russula sladkyi Velen. SPECIES
 
 #### Status
 ACCEPTED

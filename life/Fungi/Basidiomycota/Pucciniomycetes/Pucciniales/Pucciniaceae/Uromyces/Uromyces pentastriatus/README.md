@@ -1,5 +1,4 @@
-Uromyces pentastriatus Viégas SPECIES
-=======
+# Uromyces pentastriatus Viégas SPECIES
 
 #### Status
 ACCEPTED

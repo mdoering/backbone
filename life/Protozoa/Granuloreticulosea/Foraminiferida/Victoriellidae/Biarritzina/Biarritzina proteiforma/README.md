@@ -1,8 +1,7 @@
-Biarritzina proteiformis (Goës, 1882) SPECIES
-=======
+# Biarritzina proteiforma (Goës, 1882) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

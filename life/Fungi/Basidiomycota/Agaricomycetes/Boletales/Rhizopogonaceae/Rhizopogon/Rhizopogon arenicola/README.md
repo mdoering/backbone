@@ -1,5 +1,4 @@
-Rhizopogon arenicola A.H. Sm. SPECIES
-=======
+# Rhizopogon arenicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

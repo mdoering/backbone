@@ -1,5 +1,4 @@
-Glenosporopsis amazonica O.M. Fonseca, 1943 SPECIES
-=======
+# Glenosporopsis amazonica O.M. Fonseca, 1943 SPECIES
 
 #### Status
 ACCEPTED

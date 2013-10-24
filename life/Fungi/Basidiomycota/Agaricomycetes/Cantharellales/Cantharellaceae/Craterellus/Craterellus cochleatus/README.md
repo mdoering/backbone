@@ -1,5 +1,4 @@
-Craterellus cochleatus Fr. SPECIES
-=======
+# Craterellus cochleatus Fr. SPECIES
 
 #### Status
 ACCEPTED

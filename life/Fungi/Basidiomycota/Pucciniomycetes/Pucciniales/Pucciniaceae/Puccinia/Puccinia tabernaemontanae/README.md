@@ -1,5 +1,4 @@
-Puccinia tabernaemontanae Berk. & Broome SPECIES
-=======
+# Puccinia tabernaemontanae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

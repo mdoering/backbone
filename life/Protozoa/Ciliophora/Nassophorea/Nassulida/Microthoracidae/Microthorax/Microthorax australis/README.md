@@ -1,5 +1,4 @@
-Microthorax australis Foissner & O'Donoghue, 1990 SPECIES
-=======
+# Microthorax australis Foissner & O'Donoghue, 1990 SPECIES
 
 #### Status
 ACCEPTED

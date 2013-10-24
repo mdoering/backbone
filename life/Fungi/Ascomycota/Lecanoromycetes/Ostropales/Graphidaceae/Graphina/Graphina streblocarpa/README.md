@@ -1,5 +1,4 @@
-Graphina streblocarpa (Bél.) Müll. Arg. SPECIES
-=======
+# Graphina streblocarpa (Bél.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

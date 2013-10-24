@@ -1,5 +1,4 @@
-Dendrosarcus semi-infundibuliformis (P. Karst.) Kuntze SPECIES
-=======
+# Dendrosarcus semi-infundibuliformis (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

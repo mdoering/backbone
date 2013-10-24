@@ -1,5 +1,4 @@
-Phaeographis scalpturata (Ach.) Staiger SPECIES
-=======
+# Phaeographis scalpturata (Ach.) Staiger SPECIES
 
 #### Status
 ACCEPTED

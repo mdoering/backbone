@@ -1,8 +1,7 @@
-Taonia atomaria var. divaricata Holmes & Batters VARIETY
-=======
+# Taonia atomaria (Woodward) J. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

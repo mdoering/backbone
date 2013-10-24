@@ -1,5 +1,4 @@
-Spiroplasma poulsonii Williamson et al., 1999 SPECIES
-=======
+# Spiroplasma poulsonii Williamson et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

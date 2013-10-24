@@ -1,5 +1,4 @@
-Tremella sakanensis Henn. SPECIES
-=======
+# Tremella sakanensis Henn. SPECIES
 
 #### Status
 ACCEPTED

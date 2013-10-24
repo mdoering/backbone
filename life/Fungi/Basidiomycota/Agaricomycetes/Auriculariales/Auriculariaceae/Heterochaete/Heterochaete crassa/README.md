@@ -1,5 +1,4 @@
-Heterochaete crassa Bodman, 1949 SPECIES
-=======
+# Heterochaete crassa Bodman, 1949 SPECIES
 
 #### Status
 ACCEPTED

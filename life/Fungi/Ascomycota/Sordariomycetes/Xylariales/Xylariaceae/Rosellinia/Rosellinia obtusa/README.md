@@ -1,5 +1,4 @@
-Rosellinia obtusa Petch SPECIES
-=======
+# Rosellinia obtusa Petch SPECIES
 
 #### Status
 ACCEPTED

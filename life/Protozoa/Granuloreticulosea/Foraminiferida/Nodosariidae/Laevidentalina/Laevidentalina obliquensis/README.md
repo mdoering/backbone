@@ -1,5 +1,4 @@
-Laevidentalina obliquensis (Saidova, 1975) SPECIES
-=======
+# Laevidentalina obliquensis (Saidova, 1975) SPECIES
 
 #### Status
 ACCEPTED

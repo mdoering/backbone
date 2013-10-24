@@ -1,5 +1,4 @@
-Candelariella elaeophaea (Nyl.) Zahlbr. SPECIES
-=======
+# Candelariella elaeophaea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

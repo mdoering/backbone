@@ -1,5 +1,4 @@
-Hansfordia catalonica Mercado, Gené & Guarro SPECIES
-=======
+# Hansfordia catalonica Mercado, Gené & Guarro SPECIES
 
 #### Status
 ACCEPTED

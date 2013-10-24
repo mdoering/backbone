@@ -1,5 +1,4 @@
-Sphaerella magellanicola Speg. SPECIES
-=======
+# Sphaerella magellanicola Speg. SPECIES
 
 #### Status
 ACCEPTED

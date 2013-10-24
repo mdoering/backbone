@@ -1,5 +1,4 @@
-Colletotrichum palhinhae Gonz. Frag. SPECIES
-=======
+# Colletotrichum palhinhae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

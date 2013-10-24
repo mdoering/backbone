@@ -1,5 +1,4 @@
-Botryobasidium curtisii Hallenb., 1978 SPECIES
-=======
+# Botryobasidium curtisii Hallenb., 1978 SPECIES
 
 #### Status
 ACCEPTED

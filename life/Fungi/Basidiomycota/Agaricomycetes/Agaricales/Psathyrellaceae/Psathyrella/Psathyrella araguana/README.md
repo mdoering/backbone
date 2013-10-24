@@ -1,5 +1,4 @@
-Psathyrella araguana Dennis SPECIES
-=======
+# Psathyrella araguana Dennis SPECIES
 
 #### Status
 ACCEPTED

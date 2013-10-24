@@ -1,5 +1,4 @@
-Guppyella pozonensis (Cushman & Renz, 1941) SPECIES
-=======
+# Guppyella pozonensis (Cushman & Renz, 1941) SPECIES
 
 #### Status
 ACCEPTED

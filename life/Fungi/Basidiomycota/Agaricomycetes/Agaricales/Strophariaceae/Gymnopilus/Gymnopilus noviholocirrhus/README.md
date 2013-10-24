@@ -1,5 +1,4 @@
-Gymnopilus noviholocirrhus S. Ito & S. Imai SPECIES
-=======
+# Gymnopilus noviholocirrhus S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

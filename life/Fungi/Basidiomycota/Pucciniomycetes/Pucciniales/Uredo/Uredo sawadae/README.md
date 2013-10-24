@@ -1,5 +1,4 @@
-Uredo sawadae S. Ito SPECIES
-=======
+# Uredo sawadae S. Ito SPECIES
 
 #### Status
 ACCEPTED

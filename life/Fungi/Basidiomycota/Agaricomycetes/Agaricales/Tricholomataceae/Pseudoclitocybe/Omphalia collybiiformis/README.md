@@ -1,5 +1,4 @@
-Omphalia collybiiformis (Murrill) Murrill SPECIES
-=======
+# Omphalia collybiiformis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

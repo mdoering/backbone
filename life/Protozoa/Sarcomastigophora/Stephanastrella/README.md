@@ -1,5 +1,4 @@
-Stephanastrella Haeckel, 1887 GENUS
-=======
+# Stephanastrella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

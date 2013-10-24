@@ -1,5 +1,4 @@
-Puccinia uliginiphila Speg. SPECIES
-=======
+# Puccinia uliginiphila Speg. SPECIES
 
 #### Status
 ACCEPTED

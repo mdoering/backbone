@@ -1,5 +1,4 @@
-Pannaria halei Tuck. SPECIES
-=======
+# Pannaria halei Tuck. SPECIES
 
 #### Status
 ACCEPTED

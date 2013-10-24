@@ -1,5 +1,4 @@
-Diaporthe helicis Niessl SPECIES
-=======
+# Diaporthe helicis Niessl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus punctatobrunneus Cleland SPECIES
-=======
+# Boletus punctatobrunneus Cleland SPECIES
 
 #### Status
 ACCEPTED

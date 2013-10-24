@@ -1,5 +1,4 @@
-Plectophoma GENUS
-=======
+# Plectophoma GENUS
 
 #### Status
 ACCEPTED

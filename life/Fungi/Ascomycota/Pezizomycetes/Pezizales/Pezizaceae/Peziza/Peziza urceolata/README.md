@@ -1,5 +1,4 @@
-Peziza urceolata Rutstr. SPECIES
-=======
+# Peziza urceolata Rutstr. SPECIES
 
 #### Status
 ACCEPTED

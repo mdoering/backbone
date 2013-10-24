@@ -1,5 +1,4 @@
-Botrytis geniculata Corda SPECIES
-=======
+# Botrytis geniculata Corda SPECIES
 
 #### Status
 ACCEPTED

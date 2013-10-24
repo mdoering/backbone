@@ -1,5 +1,4 @@
-Melanomma dealbatum Ellis & Everh. SPECIES
-=======
+# Melanomma dealbatum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

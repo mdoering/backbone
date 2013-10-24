@@ -1,5 +1,4 @@
-Chlorogaster dipterocarpi Laessøe & Jalink, 2004 SPECIES
-=======
+# Chlorogaster dipterocarpi Laessøe & Jalink, 2004 SPECIES
 
 #### Status
 ACCEPTED

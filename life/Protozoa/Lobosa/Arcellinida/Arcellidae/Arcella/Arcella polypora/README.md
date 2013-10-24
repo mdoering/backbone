@@ -1,5 +1,4 @@
-Arcella polypora Ehrenberg SPECIES
-=======
+# Arcella polypora Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

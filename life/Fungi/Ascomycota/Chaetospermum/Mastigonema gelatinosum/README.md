@@ -1,5 +1,4 @@
-Mastigonema gelatinosum (Berk. & Broome) Nag Raj SPECIES
-=======
+# Mastigonema gelatinosum (Berk. & Broome) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

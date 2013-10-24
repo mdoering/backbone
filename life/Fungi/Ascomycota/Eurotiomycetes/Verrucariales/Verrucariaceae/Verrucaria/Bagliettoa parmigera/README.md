@@ -1,17 +1,16 @@
-Verrucaria parmigera var. parmigera VARIETY
-=======
+# Bagliettoa parmigera (J. Steiner) Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Poelt & Vezda, Biblthca Lichenol. 16: 363 (1981)
 
 #### Original name
-Verrucaria parmigera var. parmigera
+Verrucaria parmigera J. Steiner
 
 ### Remarks
 null

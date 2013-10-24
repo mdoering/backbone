@@ -1,5 +1,4 @@
-Collybia lignicola Thiers SPECIES
-=======
+# Collybia lignicola Thiers SPECIES
 
 #### Status
 ACCEPTED

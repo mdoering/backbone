@@ -1,5 +1,4 @@
-Photorhabdus temperata Fischer-Le Saux et al., 1999 SPECIES
-=======
+# Photorhabdus temperata Fischer-Le Saux et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

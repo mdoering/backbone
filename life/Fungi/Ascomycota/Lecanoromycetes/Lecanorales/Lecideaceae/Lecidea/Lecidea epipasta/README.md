@@ -1,5 +1,4 @@
-Lecidea epipasta Stirt. SPECIES
-=======
+# Lecidea epipasta Stirt. SPECIES
 
 #### Status
 ACCEPTED

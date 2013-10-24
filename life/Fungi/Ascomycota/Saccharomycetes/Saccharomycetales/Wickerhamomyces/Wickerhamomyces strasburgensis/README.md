@@ -1,17 +1,16 @@
-Petasospora strasburgensis (C. Ramírez & Boidin) Boidin & Abadie, 1955 SPECIES
-=======
+# Wickerhamomyces strasburgensis (C. Ramírez & Boidin) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 8(6): 952 (2008)
 
 #### Original name
-null
+Saccharomyces strasburgensis C. Ramírez & Boidin, 1953
 
 ### Remarks
 null

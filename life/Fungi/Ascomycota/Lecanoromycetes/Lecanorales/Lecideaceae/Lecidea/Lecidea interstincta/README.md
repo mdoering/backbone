@@ -1,14 +1,13 @@
-Buellia interstincta (Nyl.) Zahlbr. SPECIES
-=======
+# Lecidea interstincta Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 7: 372 (1931)
+Flora, Jena 47: 270 (1864)
 
 #### Original name
 Lecidea interstincta Nyl.

@@ -1,5 +1,4 @@
-Cyanisticta hesseana (Spreng.) C.W. Dodge SPECIES
-=======
+# Cyanisticta hesseana (Spreng.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

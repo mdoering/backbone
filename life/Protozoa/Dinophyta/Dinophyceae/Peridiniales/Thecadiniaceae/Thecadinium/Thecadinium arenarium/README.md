@@ -1,5 +1,4 @@
-Thecadinium arenarium Yoshimatsu, Toriumi & Dodge SPECIES
-=======
+# Thecadinium arenarium Yoshimatsu, Toriumi & Dodge SPECIES
 
 #### Status
 ACCEPTED

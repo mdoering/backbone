@@ -1,5 +1,4 @@
-Rhizophlyctis reynoldsii Dogma SPECIES
-=======
+# Rhizophlyctis reynoldsii Dogma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora lundensis (Fr.) Zahlbr. SPECIES
-=======
+# Lecanora lundensis (Fr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

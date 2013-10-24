@@ -1,5 +1,4 @@
-Cercosporella pergulariae U. Braun SPECIES
-=======
+# Cercosporella pergulariae U. Braun SPECIES
 
 #### Status
 ACCEPTED

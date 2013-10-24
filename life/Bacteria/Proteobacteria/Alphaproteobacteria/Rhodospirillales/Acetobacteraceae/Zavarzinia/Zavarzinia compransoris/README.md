@@ -1,11 +1,10 @@
-Pseudomonas compransoris (Nozhevnikova & Zavarzin, 1974) Cypionka et al., 1980 SPECIES
-=======
+# Zavarzinia compransoris (ex Nozhevnikova & Zavarzin, 1974) Meyer et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Asterolibertia vateriae Hosag., 2006 SPECIES
-=======
+# Asterolibertia vateriae Hosag., 2006 SPECIES
 
 #### Status
 ACCEPTED

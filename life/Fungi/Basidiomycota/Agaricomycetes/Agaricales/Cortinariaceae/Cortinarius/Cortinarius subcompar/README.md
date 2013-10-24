@@ -1,5 +1,4 @@
-Cortinarius subcompar Bobus {?} SPECIES
-=======
+# Cortinarius subcompar Bobus {?} SPECIES
 
 #### Status
 ACCEPTED

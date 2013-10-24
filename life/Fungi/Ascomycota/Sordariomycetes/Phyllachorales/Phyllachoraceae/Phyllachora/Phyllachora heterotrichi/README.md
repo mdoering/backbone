@@ -1,5 +1,4 @@
-Phyllachora heterotrichi F. Stevens & Dalbey, 1919 SPECIES
-=======
+# Phyllachora heterotrichi F. Stevens & Dalbey, 1919 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium galbula var. galbula VARIETY
-=======
+# Helotium galbula P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helotium galbula var. galbula
+Helotium galbula P. Karst.
 
 ### Remarks
 null

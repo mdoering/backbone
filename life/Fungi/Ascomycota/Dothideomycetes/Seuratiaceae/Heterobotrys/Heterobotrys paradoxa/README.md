@@ -1,5 +1,4 @@
-Heterobotrys paradoxa Sacc. SPECIES
-=======
+# Heterobotrys paradoxa Sacc. SPECIES
 
 #### Status
 ACCEPTED

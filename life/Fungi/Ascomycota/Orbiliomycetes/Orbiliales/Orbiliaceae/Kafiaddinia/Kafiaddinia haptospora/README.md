@@ -1,5 +1,4 @@
-Kafiaddinia haptospora (Drechsler) Mekht. SPECIES
-=======
+# Kafiaddinia haptospora (Drechsler) Mekht. SPECIES
 
 #### Status
 ACCEPTED

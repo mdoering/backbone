@@ -1,5 +1,4 @@
-Mycovellosiella piperis (Henn.) U. Braun SPECIES
-=======
+# Mycovellosiella piperis (Henn.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

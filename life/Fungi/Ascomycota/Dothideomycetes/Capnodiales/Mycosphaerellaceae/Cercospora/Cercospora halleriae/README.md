@@ -1,5 +1,4 @@
-Cercospora halleriae Chupp & Doidge SPECIES
-=======
+# Cercospora halleriae Chupp & Doidge SPECIES
 
 #### Status
 ACCEPTED

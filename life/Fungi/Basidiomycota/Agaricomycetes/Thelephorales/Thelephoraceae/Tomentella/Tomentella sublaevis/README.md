@@ -1,5 +1,4 @@
-Tomentella sublaevis anon. SPECIES
-=======
+# Tomentella sublaevis anon. SPECIES
 
 #### Status
 ACCEPTED

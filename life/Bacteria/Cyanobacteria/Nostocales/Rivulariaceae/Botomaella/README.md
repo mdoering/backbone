@@ -1,5 +1,4 @@
-Botomaella K.B. Korde, 1958 GENUS
-=======
+# Botomaella K.B. Korde, 1958 GENUS
 
 #### Status
 ACCEPTED

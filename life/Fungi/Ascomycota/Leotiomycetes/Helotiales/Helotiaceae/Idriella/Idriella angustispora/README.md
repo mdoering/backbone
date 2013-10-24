@@ -1,5 +1,4 @@
-Idriella angustispora Morgan-Jones SPECIES
-=======
+# Idriella angustispora Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora paramignyae Thirum. & Chupp SPECIES
-=======
+# Cercospora paramignyae Thirum. & Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scytonema subgelatinosum Gardner SPECIES
-=======
+# Scytonema subgelatinosum Gardner SPECIES
 
 #### Status
 ACCEPTED

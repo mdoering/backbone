@@ -1,5 +1,4 @@
-Pentalaminaceae Marchant, 1987 FAMILY
-=======
+# Pentalaminaceae Marchant, 1987 FAMILY
 
 #### Status
 ACCEPTED

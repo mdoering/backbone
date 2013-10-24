@@ -1,5 +1,4 @@
-Puccinia caricis-petasitidis Y. Harada SPECIES
-=======
+# Puccinia caricis-petasitidis Y. Harada SPECIES
 
 #### Status
 ACCEPTED

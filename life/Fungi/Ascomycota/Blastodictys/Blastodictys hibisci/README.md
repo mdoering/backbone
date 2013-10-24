@@ -1,14 +1,13 @@
-Dactylosporium hibisci Hansf., 1943 SPECIES
-=======
+# Blastodictys hibisci (Hansf.) M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. London 155: 52 (1943)
+More Dematiaceous Hyphomycetes (Kew) 149 (1976)
 
 #### Original name
 Dactylosporium hibisci Hansf., 1943

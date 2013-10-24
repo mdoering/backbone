@@ -1,5 +1,4 @@
-Aspicilia subarctica (H. Magn.) Creveld SPECIES
-=======
+# Aspicilia subarctica (H. Magn.) Creveld SPECIES
 
 #### Status
 ACCEPTED

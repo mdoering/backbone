@@ -1,5 +1,4 @@
-Pholiota njalaensis Beeli SPECIES
-=======
+# Pholiota njalaensis Beeli SPECIES
 
 #### Status
 ACCEPTED

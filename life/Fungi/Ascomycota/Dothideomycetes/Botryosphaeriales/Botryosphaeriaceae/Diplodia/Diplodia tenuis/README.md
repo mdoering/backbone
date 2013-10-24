@@ -1,5 +1,4 @@
-Diplodia tenuis Cooke & Harkn. SPECIES
-=======
+# Diplodia tenuis Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

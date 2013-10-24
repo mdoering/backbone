@@ -1,5 +1,4 @@
-Haplocaulus terrenus Foissner, 1981 SPECIES
-=======
+# Haplocaulus terrenus Foissner, 1981 SPECIES
 
 #### Status
 ACCEPTED

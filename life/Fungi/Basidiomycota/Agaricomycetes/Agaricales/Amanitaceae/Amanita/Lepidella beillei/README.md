@@ -1,5 +1,4 @@
-Lepidella beillei Beauseign. SPECIES
-=======
+# Lepidella beillei Beauseign. SPECIES
 
 #### Status
 ACCEPTED

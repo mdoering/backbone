@@ -1,5 +1,4 @@
-Dictyota vulgaris SPECIES
-=======
+# Dictyota vulgaris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa lepargyraeae Tracy & Earle SPECIES
-=======
+# Valsa lepargyraeae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

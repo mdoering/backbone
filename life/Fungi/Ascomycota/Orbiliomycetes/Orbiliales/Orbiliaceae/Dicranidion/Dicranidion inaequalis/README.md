@@ -1,5 +1,4 @@
-Dicranidion inaequalis Tubaki & T. Yokoy. SPECIES
-=======
+# Dicranidion inaequalis Tubaki & T. Yokoy. SPECIES
 
 #### Status
 ACCEPTED

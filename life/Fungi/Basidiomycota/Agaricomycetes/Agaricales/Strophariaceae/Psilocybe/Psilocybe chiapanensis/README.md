@@ -1,5 +1,4 @@
-Psilocybe chiapanensis Guzmán SPECIES
-=======
+# Psilocybe chiapanensis Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macropodia chinensis Velen. SPECIES
-=======
+# Macropodia chinensis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora islandica Rostr. SPECIES
-=======
+# Stagonospora islandica Rostr. SPECIES
 
 #### Status
 ACCEPTED

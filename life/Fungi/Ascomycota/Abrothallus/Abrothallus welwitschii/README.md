@@ -1,5 +1,4 @@
-Abrothallus welwitschii Mont., 1856 SPECIES
-=======
+# Abrothallus welwitschii Mont., 1856 SPECIES
 
 #### Status
 ACCEPTED

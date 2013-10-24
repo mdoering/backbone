@@ -1,17 +1,16 @@
-Lulworthia medusa var. biscaynia Meyers VARIETY
-=======
+# Lulworthia medusa (Ellis & Everh.) Cribb & J.W. Cribb, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 49: 516 (1957)
+Pap. Dept. Bot. (formerly Biol. ) Univ. Qd. 3: 80 (1955)
 
 #### Original name
-Lulworthia medusa var. biscaynia Meyers
+null
 
 ### Remarks
 null

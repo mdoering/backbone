@@ -1,5 +1,4 @@
-Hysterostomella palmae (F. Stevens) Inácio & P.F. Cannon, 1948 SPECIES
-=======
+# Hysterostomella palmae (F. Stevens) Inácio & P.F. Cannon, 1948 SPECIES
 
 #### Status
 ACCEPTED

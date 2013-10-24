@@ -1,5 +1,4 @@
-Pseudohelotium alligatum (Berk. & Broome) Sacc. SPECIES
-=======
+# Pseudohelotium alligatum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

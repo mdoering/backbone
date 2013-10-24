@@ -1,5 +1,4 @@
-Uromyces secamones Wakef. SPECIES
-=======
+# Uromyces secamones Wakef. SPECIES
 
 #### Status
 ACCEPTED

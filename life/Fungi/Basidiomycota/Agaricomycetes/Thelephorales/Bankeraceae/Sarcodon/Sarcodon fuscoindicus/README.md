@@ -1,5 +1,4 @@
-Sarcodon fuscoindicus (K.A. Harrison) Maas Geest., 1967 SPECIES
-=======
+# Sarcodon fuscoindicus (K.A. Harrison) Maas Geest., 1967 SPECIES
 
 #### Status
 ACCEPTED

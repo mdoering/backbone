@@ -1,5 +1,4 @@
-Vairimorpha imperfecta E.U. Canning, A. Curry, S. Cheney, N.J. Lafranchi-Tristem, M.A. Haque SPECIES
-=======
+# Vairimorpha imperfecta E.U. Canning, A. Curry, S. Cheney, N.J. Lafranchi-Tristem, M.A. Haque SPECIES
 
 #### Status
 ACCEPTED

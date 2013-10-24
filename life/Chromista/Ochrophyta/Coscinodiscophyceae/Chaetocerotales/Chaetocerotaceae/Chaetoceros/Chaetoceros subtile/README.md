@@ -1,5 +1,4 @@
-Chaetoceros subtile Cleve SPECIES
-=======
+# Chaetoceros subtile Cleve SPECIES
 
 #### Status
 ACCEPTED

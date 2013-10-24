@@ -1,5 +1,4 @@
-Parmelia culmigena Zahlbr. SPECIES
-=======
+# Parmelia culmigena Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

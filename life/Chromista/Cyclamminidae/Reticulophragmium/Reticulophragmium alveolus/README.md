@@ -1,5 +1,4 @@
-Reticulophragmium alveolus Zheng & Fu, 2001 SPECIES
-=======
+# Reticulophragmium alveolus Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

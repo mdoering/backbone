@@ -1,5 +1,4 @@
-Scolecopeltis ionopsidis Toro SPECIES
-=======
+# Scolecopeltis ionopsidis Toro SPECIES
 
 #### Status
 ACCEPTED

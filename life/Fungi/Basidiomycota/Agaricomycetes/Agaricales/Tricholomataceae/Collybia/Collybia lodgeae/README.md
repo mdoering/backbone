@@ -1,5 +1,4 @@
-Collybia lodgeae Singer SPECIES
-=======
+# Collybia lodgeae Singer SPECIES
 
 #### Status
 ACCEPTED

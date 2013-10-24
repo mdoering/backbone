@@ -1,5 +1,4 @@
-Togninia africana Damm, L. Mostert & Crous SPECIES
-=======
+# Togninia africana Damm, L. Mostert & Crous SPECIES
 
 #### Status
 ACCEPTED

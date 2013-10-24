@@ -1,5 +1,4 @@
-Omphalina viridifusca (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Omphalina viridifusca (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostoma foveolare Sacc. & Berl. SPECIES
-=======
+# Anthostoma foveolare Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

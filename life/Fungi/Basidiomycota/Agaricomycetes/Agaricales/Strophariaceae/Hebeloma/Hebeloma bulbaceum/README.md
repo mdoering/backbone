@@ -1,5 +1,4 @@
-Hebeloma bulbaceum Herp. SPECIES
-=======
+# Hebeloma bulbaceum Herp. SPECIES
 
 #### Status
 ACCEPTED

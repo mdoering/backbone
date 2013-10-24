@@ -1,5 +1,4 @@
-Lecidea armstrongiae T.A. Jones {?} SPECIES
-=======
+# Lecidea armstrongiae T.A. Jones {?} SPECIES
 
 #### Status
 ACCEPTED

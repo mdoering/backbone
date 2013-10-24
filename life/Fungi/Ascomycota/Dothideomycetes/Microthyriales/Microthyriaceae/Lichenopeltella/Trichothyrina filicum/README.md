@@ -1,5 +1,4 @@
-Trichothyrina filicum L. Holm & K. Holm, 1978 SPECIES
-=======
+# Trichothyrina filicum L. Holm & K. Holm, 1978 SPECIES
 
 #### Status
 ACCEPTED

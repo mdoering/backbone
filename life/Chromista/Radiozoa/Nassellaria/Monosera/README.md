@@ -1,5 +1,4 @@
-Monosera Takemura & Nakaseko, 1986 GENUS
-=======
+# Monosera Takemura & Nakaseko, 1986 GENUS
 
 #### Status
 ACCEPTED

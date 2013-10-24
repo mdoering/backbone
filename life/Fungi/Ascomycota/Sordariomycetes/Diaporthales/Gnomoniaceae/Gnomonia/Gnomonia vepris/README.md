@@ -1,5 +1,4 @@
-Gnomonia vepris Mouton SPECIES
-=======
+# Gnomonia vepris Mouton SPECIES
 
 #### Status
 ACCEPTED

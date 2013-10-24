@@ -1,5 +1,4 @@
-Anomalina semipunctata SPECIES
-=======
+# Anomalina semipunctata SPECIES
 
 #### Status
 ACCEPTED

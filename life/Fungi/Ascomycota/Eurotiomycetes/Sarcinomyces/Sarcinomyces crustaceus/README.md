@@ -1,5 +1,4 @@
-Sarcinomyces crustaceus Lindner SPECIES
-=======
+# Sarcinomyces crustaceus Lindner SPECIES
 
 #### Status
 ACCEPTED

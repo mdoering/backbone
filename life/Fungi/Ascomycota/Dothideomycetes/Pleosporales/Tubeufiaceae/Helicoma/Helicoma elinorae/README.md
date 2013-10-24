@@ -1,5 +1,4 @@
-Helicoma elinorae Linder SPECIES
-=======
+# Helicoma elinorae Linder SPECIES
 
 #### Status
 ACCEPTED

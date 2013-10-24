@@ -1,5 +1,4 @@
-Metasphaeria petasitidis Feltgen SPECIES
-=======
+# Metasphaeria petasitidis Feltgen SPECIES
 
 #### Status
 ACCEPTED

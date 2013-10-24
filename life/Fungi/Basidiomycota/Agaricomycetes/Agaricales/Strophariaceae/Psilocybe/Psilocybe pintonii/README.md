@@ -1,5 +1,4 @@
-Psilocybe pintonii Guzmán SPECIES
-=======
+# Psilocybe pintonii Guzmán SPECIES
 
 #### Status
 ACCEPTED

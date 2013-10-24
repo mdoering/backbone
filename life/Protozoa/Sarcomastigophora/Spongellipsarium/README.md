@@ -1,5 +1,4 @@
-Spongellipsarium Haeckel, 1887 GENUS
-=======
+# Spongellipsarium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

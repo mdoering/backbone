@@ -1,5 +1,4 @@
-Leptonia trivalis Kauffman SPECIES
-=======
+# Leptonia trivalis Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma fragilipes Corner & E. Horak SPECIES
-=======
+# Entoloma fragilipes Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

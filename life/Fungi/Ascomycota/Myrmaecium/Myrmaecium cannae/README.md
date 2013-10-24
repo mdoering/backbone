@@ -1,5 +1,4 @@
-Myrmaecium cannae Dearn. & Barthol. SPECIES
-=======
+# Myrmaecium cannae Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

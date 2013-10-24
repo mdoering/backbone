@@ -1,5 +1,4 @@
-Pseudopapulaspora kendrickii N.D. Sharma, 1977 SPECIES
-=======
+# Pseudopapulaspora kendrickii N.D. Sharma, 1977 SPECIES
 
 #### Status
 ACCEPTED

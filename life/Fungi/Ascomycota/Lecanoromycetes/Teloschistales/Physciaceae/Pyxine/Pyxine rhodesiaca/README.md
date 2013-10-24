@@ -1,5 +1,4 @@
-Pyxine rhodesiaca Lynge SPECIES
-=======
+# Pyxine rhodesiaca Lynge SPECIES
 
 #### Status
 ACCEPTED

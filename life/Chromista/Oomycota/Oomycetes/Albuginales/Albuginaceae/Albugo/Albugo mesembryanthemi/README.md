@@ -1,5 +1,4 @@
-Albugo mesembryanthemi S.D. Baker SPECIES
-=======
+# Albugo mesembryanthemi S.D. Baker SPECIES
 
 #### Status
 ACCEPTED

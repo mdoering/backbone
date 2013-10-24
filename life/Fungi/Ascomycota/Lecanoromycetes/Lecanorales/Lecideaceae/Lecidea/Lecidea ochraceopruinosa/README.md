@@ -1,5 +1,4 @@
-Lecidea ochraceopruinosa B. de Lesd. SPECIES
-=======
+# Lecidea ochraceopruinosa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

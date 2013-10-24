@@ -1,5 +1,4 @@
-Cortinarius rubroclavus L. Krieg. SPECIES
-=======
+# Cortinarius rubroclavus L. Krieg. SPECIES
 
 #### Status
 ACCEPTED

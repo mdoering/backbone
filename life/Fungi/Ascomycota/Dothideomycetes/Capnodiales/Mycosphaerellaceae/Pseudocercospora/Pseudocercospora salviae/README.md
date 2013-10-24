@@ -1,5 +1,4 @@
-Pseudocercospora salviae Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora salviae Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

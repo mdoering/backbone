@@ -1,17 +1,16 @@
-Lignydium maculatum (T. Macbr.) Kuntze, 1898 SPECIES
-=======
+# Physarum tenerum Rex, 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. , 1890 42: 192 (1890)
 
 #### Original name
-null
+Physarum tenerum Rex, 1890
 
 ### Remarks
 null

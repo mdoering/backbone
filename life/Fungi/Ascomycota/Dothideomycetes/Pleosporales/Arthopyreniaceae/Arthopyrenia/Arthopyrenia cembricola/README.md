@@ -1,5 +1,4 @@
-Arthopyrenia cembricola (Anzi) Lettau SPECIES
-=======
+# Arthopyrenia cembricola (Anzi) Lettau SPECIES
 
 #### Status
 ACCEPTED

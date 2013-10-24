@@ -1,5 +1,4 @@
-Tremella indecorata Sommerf., 1826 SPECIES
-=======
+# Tremella indecorata Sommerf., 1826 SPECIES
 
 #### Status
 ACCEPTED

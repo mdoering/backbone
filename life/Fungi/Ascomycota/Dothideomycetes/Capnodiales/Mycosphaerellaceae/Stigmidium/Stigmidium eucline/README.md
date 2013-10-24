@@ -1,5 +1,4 @@
-Stigmidium eucline (Nyl.) Vezda SPECIES
-=======
+# Stigmidium eucline (Nyl.) Vezda SPECIES
 
 #### Status
 ACCEPTED

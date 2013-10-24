@@ -1,5 +1,4 @@
-Acompsomyces brunneolus Thaxt. SPECIES
-=======
+# Acompsomyces brunneolus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium cacaophilum Cif. SPECIES
-=======
+# Helminthosporium cacaophilum Cif. SPECIES
 
 #### Status
 ACCEPTED

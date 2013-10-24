@@ -1,5 +1,4 @@
-Buellia lauricassiaeoides Aptroot SPECIES
-=======
+# Buellia lauricassiaeoides Aptroot SPECIES
 
 #### Status
 ACCEPTED

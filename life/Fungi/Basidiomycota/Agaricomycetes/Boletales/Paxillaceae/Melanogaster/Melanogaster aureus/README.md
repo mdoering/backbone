@@ -1,5 +1,4 @@
-Melanogaster aureus (Vittad.) Tul. SPECIES
-=======
+# Melanogaster aureus (Vittad.) Tul. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Beltraniella lyrata Rambelli & C. Ciccar. SPECIES
-=======
+# Beltraniella lyrata Rambelli & C. Ciccar. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tessarastrum GENUS
-=======
+# Tessarastrum GENUS
 
 #### Status
 ACCEPTED

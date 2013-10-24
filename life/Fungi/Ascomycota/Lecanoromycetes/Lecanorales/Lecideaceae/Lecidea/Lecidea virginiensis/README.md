@@ -1,5 +1,4 @@
-Lecidea virginiensis Nyl. SPECIES
-=======
+# Lecidea virginiensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

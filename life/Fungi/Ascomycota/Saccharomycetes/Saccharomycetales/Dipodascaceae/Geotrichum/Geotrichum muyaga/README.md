@@ -1,5 +1,4 @@
-Geotrichum muyaga (Mattlet) Nann. SPECIES
-=======
+# Geotrichum muyaga (Mattlet) Nann. SPECIES
 
 #### Status
 ACCEPTED

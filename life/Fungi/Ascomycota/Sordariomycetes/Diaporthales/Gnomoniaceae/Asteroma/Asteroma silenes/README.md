@@ -1,5 +1,4 @@
-Asteroma silenes Niessl SPECIES
-=======
+# Asteroma silenes Niessl SPECIES
 
 #### Status
 ACCEPTED

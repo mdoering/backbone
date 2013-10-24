@@ -1,5 +1,4 @@
-Phomopsis trichosanthis Bond.-Mont. SPECIES
-=======
+# Phomopsis trichosanthis Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

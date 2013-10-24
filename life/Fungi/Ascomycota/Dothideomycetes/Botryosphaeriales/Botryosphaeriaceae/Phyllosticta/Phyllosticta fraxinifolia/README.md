@@ -1,5 +1,4 @@
-Phyllosticta fraxinifolia Pass. SPECIES
-=======
+# Phyllosticta fraxinifolia Pass. SPECIES
 
 #### Status
 ACCEPTED

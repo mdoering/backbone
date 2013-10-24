@@ -1,5 +1,4 @@
-Verrucaria metzleri Servít SPECIES
-=======
+# Verrucaria metzleri Servít SPECIES
 
 #### Status
 ACCEPTED

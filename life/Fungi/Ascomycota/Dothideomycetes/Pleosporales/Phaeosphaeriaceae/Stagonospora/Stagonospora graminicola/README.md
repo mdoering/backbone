@@ -1,5 +1,4 @@
-Stagonospora graminicola Ishiy. SPECIES
-=======
+# Stagonospora graminicola Ishiy. SPECIES
 
 #### Status
 ACCEPTED

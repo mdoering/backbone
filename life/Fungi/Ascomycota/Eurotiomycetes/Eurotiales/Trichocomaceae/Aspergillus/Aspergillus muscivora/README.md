@@ -1,5 +1,4 @@
-Aspergillus muscivora Höhn. SPECIES
-=======
+# Aspergillus muscivora Höhn. SPECIES
 
 #### Status
 ACCEPTED

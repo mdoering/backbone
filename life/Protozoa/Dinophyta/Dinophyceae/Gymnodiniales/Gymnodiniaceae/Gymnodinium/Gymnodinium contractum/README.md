@@ -1,5 +1,4 @@
-Gymnodinium contractum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium contractum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tympanis bupleuri Velen. SPECIES
-=======
+# Tympanis bupleuri Velen. SPECIES
 
 #### Status
 ACCEPTED

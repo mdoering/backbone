@@ -1,5 +1,4 @@
-Ovularia esfandiarii Petr. SPECIES
-=======
+# Ovularia esfandiarii Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyrium dryopteridis Sawada SPECIES
-=======
+# Microthyrium dryopteridis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Agaricus caelatus Fr., 1838 SPECIES
-=======
+# Rhodocybe caelata (Fr.) Maire, 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 42 (1838)
+Bull. trimest. Soc. mycol. Fr. 40: 298 (1926)
 
 #### Original name
 Agaricus caelatus Fr., 1838

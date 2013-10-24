@@ -1,5 +1,4 @@
-Nectria zonata Seaver SPECIES
-=======
+# Nectria zonata Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Edhemia Aliyulla, 1966 GENUS
-=======
+# Edhemia Aliyulla, 1966 GENUS
 
 #### Status
 ACCEPTED

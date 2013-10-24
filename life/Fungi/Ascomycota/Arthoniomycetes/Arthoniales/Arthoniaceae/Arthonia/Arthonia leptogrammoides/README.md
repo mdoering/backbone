@@ -1,5 +1,4 @@
-Arthonia leptogrammoides C.W. Dodge SPECIES
-=======
+# Arthonia leptogrammoides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

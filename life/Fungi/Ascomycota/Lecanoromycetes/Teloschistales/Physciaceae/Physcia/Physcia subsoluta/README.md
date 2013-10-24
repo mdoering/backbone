@@ -1,5 +1,4 @@
-Physcia subsoluta (Nyl.) Arnold SPECIES
-=======
+# Physcia subsoluta (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

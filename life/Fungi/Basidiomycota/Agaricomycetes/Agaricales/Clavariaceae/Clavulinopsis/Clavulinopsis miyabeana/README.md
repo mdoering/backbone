@@ -1,5 +1,4 @@
-Clavulinopsis miyabeana (S. Ito) S. Ito SPECIES
-=======
+# Clavulinopsis miyabeana (S. Ito) S. Ito SPECIES
 
 #### Status
 ACCEPTED

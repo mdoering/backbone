@@ -1,5 +1,4 @@
-Helicobacter bilis Fox et al., 1997 SPECIES
-=======
+# Helicobacter bilis Fox et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

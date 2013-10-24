@@ -1,5 +1,4 @@
-Platystomum hysterioides Earle SPECIES
-=======
+# Platystomum hysterioides Earle SPECIES
 
 #### Status
 ACCEPTED

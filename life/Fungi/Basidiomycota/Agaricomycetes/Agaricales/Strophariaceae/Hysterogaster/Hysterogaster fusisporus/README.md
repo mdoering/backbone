@@ -1,5 +1,4 @@
-Hysterogaster fusisporus (Massee & Rodway) C.W. Dodge SPECIES
-=======
+# Hysterogaster fusisporus (Massee & Rodway) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

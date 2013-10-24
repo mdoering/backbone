@@ -1,5 +1,4 @@
-Stachybotrys suthepensis Photita, P. Lumyong, K.D. Hyde & McKenzie, 2003 SPECIES
-=======
+# Stachybotrys suthepensis Photita, P. Lumyong, K.D. Hyde & McKenzie, 2003 SPECIES
 
 #### Status
 ACCEPTED

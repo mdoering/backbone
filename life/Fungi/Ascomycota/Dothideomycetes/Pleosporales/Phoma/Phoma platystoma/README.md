@@ -1,5 +1,4 @@
-Phoma platystoma Tassi SPECIES
-=======
+# Phoma platystoma Tassi SPECIES
 
 #### Status
 ACCEPTED

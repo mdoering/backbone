@@ -1,5 +1,4 @@
-Saidovina Haman, 1984 GENUS
-=======
+# Saidovina Haman, 1984 GENUS
 
 #### Status
 ACCEPTED

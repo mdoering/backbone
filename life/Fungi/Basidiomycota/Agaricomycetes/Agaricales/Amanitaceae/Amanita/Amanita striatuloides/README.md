@@ -1,5 +1,4 @@
-Amanita striatuloides A.E. Wood SPECIES
-=======
+# Amanita striatuloides A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

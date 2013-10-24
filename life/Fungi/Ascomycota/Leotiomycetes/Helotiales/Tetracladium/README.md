@@ -1,17 +1,16 @@
-Maxillispora Höhn. GENUS
-=======
+# Tetracladium De Wildeman, 1893 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 123: 138 (1914)
+Ann. Soc. Belge Microscop. 17: 39 (1893)
 
 #### Original name
-Maxillispora Höhn.
+Tetracladium De Wildeman, 1893
 
 ### Remarks
 null

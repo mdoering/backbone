@@ -1,5 +1,4 @@
-Cucurbitaria rubicarpa (Cooke) Kuntze SPECIES
-=======
+# Cucurbitaria rubicarpa (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella pterocarpigena U. Braun & Hosag. SPECIES
-=======
+# Stenella pterocarpigena U. Braun & Hosag. SPECIES
 
 #### Status
 ACCEPTED

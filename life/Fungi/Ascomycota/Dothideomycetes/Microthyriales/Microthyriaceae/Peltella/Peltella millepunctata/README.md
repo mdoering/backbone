@@ -1,5 +1,4 @@
-Peltella millepunctata (Penz. & Sacc.) F. Stevens SPECIES
-=======
+# Peltella millepunctata (Penz. & Sacc.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

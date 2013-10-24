@@ -1,5 +1,4 @@
-Coniolariella Dania García, Stchigel & Guarro GENUS
-=======
+# Coniolariella Dania García, Stchigel & Guarro GENUS
 
 #### Status
 ACCEPTED

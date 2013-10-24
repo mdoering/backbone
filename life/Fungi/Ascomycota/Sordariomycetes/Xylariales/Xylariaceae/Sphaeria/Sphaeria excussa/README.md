@@ -1,5 +1,4 @@
-Sphaeria excussa Schwein. SPECIES
-=======
+# Sphaeria excussa Schwein. SPECIES
 
 #### Status
 ACCEPTED

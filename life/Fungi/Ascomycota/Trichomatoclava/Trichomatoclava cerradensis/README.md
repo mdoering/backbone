@@ -1,5 +1,4 @@
-Trichomatoclava cerradensis G.F. Sepúlveda, Pereira-Carv. & Dianese SPECIES
-=======
+# Trichomatoclava cerradensis G.F. Sepúlveda, Pereira-Carv. & Dianese SPECIES
 
 #### Status
 ACCEPTED

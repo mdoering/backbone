@@ -1,5 +1,4 @@
-Paleoxiphosphaera Nazarov, 1973 GENUS
-=======
+# Paleoxiphosphaera Nazarov, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus nigrocristatus E. Horak & Ryvarden, 1984 SPECIES
-=======
+# Polyporus nigrocristatus E. Horak & Ryvarden, 1984 SPECIES
 
 #### Status
 ACCEPTED

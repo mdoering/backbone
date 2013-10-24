@@ -1,5 +1,4 @@
-Trichopeziza senecionis Raitv. SPECIES
-=======
+# Trichopeziza senecionis Raitv. SPECIES
 
 #### Status
 ACCEPTED

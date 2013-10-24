@@ -1,5 +1,4 @@
-Harendraia Sarkar, 1984 GENUS
-=======
+# Harendraia Sarkar, 1984 GENUS
 
 #### Status
 ACCEPTED

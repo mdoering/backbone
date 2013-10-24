@@ -1,5 +1,4 @@
-Arthonia polygrammodes var. polygrammodes VARIETY
-=======
+# Arthonia polygrammodes Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arthonia polygrammodes var. polygrammodes
+Arthonia polygrammodes Vain.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cucurbitaria rhytidospora (Pat.) Kuntze SPECIES
-=======
+# Cucurbitaria rhytidospora (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

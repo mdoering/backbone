@@ -1,5 +1,4 @@
-Coelosphaeria fusariospora Ellis & Everh. SPECIES
-=======
+# Coelosphaeria fusariospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora aloysiae Tassi SPECIES
-=======
+# Pleospora aloysiae Tassi SPECIES
 
 #### Status
 ACCEPTED

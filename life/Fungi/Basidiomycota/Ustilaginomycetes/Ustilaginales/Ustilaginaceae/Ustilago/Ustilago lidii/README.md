@@ -1,5 +1,4 @@
-Ustilago lidii (Liro) Nannf. SPECIES
-=======
+# Ustilago lidii (Liro) Nannf. SPECIES
 
 #### Status
 ACCEPTED

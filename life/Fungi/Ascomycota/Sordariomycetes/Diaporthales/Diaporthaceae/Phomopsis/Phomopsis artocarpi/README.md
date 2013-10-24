@@ -1,5 +1,4 @@
-Phomopsis artocarpi Syd. SPECIES
-=======
+# Phomopsis artocarpi Syd. SPECIES
 
 #### Status
 ACCEPTED

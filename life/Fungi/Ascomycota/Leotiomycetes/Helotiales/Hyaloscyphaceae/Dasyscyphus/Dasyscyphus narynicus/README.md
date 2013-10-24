@@ -1,5 +1,4 @@
-Dasyscyphus narynicus Raitv. SPECIES
-=======
+# Dasyscyphus narynicus Raitv. SPECIES
 
 #### Status
 ACCEPTED

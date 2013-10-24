@@ -1,5 +1,4 @@
-Dichomyces belonuchi Thaxt. SPECIES
-=======
+# Dichomyces belonuchi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

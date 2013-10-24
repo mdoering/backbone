@@ -1,5 +1,4 @@
-Agaricus frumentaceum Bull. SPECIES
-=======
+# Agaricus frumentaceum Bull. SPECIES
 
 #### Status
 ACCEPTED

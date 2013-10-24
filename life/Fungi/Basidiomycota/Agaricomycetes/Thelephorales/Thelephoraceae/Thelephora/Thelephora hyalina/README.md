@@ -1,5 +1,4 @@
-Thelephora hyalina Schrad. SPECIES
-=======
+# Thelephora hyalina Schrad. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia haematommatum Kalb & Hafellner SPECIES
-=======
+# Arthonia haematommatum Kalb & Hafellner SPECIES
 
 #### Status
 ACCEPTED

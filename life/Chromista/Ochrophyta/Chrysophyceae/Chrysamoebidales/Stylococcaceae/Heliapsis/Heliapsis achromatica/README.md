@@ -1,5 +1,4 @@
-Heliapsis achromatica R. E. Norris SPECIES
-=======
+# Heliapsis achromatica R. E. Norris SPECIES
 
 #### Status
 ACCEPTED

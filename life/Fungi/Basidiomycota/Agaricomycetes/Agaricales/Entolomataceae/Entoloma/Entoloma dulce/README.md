@@ -1,5 +1,4 @@
-Entoloma dulce E. Horak SPECIES
-=======
+# Entoloma dulce E. Horak SPECIES
 
 #### Status
 ACCEPTED

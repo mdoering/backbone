@@ -1,5 +1,4 @@
-Entomophthorales G. Winter ORDER
-=======
+# Entomophthorales G. Winter ORDER
 
 #### Status
 ACCEPTED

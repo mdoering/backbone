@@ -1,5 +1,4 @@
-Thielavia coprophila (R.K. Pathak & S.C. Agarwal) D. Hawksw. SPECIES
-=======
+# Thielavia coprophila (R.K. Pathak & S.C. Agarwal) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

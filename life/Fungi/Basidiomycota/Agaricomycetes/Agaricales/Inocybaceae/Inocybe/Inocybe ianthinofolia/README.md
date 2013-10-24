@@ -1,5 +1,4 @@
-Inocybe ianthinofolia Pegler SPECIES
-=======
+# Inocybe ianthinofolia Pegler SPECIES
 
 #### Status
 ACCEPTED

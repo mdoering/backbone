@@ -1,5 +1,4 @@
-Involucrothele subsimplex (Zschacke) Servít SPECIES
-=======
+# Involucrothele subsimplex (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia macrospora Arthur SPECIES
-=======
+# Puccinia macrospora Arthur SPECIES
 
 #### Status
 ACCEPTED

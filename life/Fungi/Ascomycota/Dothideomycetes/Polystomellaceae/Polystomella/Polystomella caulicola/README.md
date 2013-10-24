@@ -1,5 +1,4 @@
-Polystomella caulicola Doidge SPECIES
-=======
+# Polystomella caulicola Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erwinia pyrifoliae Kim et al., 1999 SPECIES
-=======
+# Erwinia pyrifoliae Kim et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

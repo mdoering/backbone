@@ -1,5 +1,4 @@
-Caloplaca soralifera Vondrák & Hrouzek SPECIES
-=======
+# Caloplaca soralifera Vondrák & Hrouzek SPECIES
 
 #### Status
 ACCEPTED

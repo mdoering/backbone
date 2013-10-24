@@ -1,5 +1,4 @@
-Heteromarginatus bugensis SPECIES
-=======
+# Heteromarginatus bugensis SPECIES
 
 #### Status
 ACCEPTED

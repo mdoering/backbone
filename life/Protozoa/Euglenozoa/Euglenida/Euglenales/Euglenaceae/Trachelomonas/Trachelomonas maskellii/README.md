@@ -1,5 +1,4 @@
-Trachelomonas maskellii Drezepolski SPECIES
-=======
+# Trachelomonas maskellii Drezepolski SPECIES
 
 #### Status
 ACCEPTED

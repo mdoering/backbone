@@ -1,5 +1,4 @@
-Spheconisca quassilaria (Norman) Norman SPECIES
-=======
+# Spheconisca quassilaria (Norman) Norman SPECIES
 
 #### Status
 ACCEPTED

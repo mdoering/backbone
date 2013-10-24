@@ -1,5 +1,4 @@
-Laboulbenia stenolophi Speg. SPECIES
-=======
+# Laboulbenia stenolophi Speg. SPECIES
 
 #### Status
 ACCEPTED

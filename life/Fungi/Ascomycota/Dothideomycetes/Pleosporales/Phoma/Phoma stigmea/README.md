@@ -1,5 +1,4 @@
-Phoma stigmea Durieu & Mont. SPECIES
-=======
+# Phoma stigmea Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

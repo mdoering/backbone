@@ -1,5 +1,4 @@
-Flammula devonica Pilát SPECIES
-=======
+# Flammula devonica Pilát SPECIES
 
 #### Status
 ACCEPTED

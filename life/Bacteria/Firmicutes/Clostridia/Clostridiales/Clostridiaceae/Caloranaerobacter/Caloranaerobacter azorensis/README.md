@@ -1,5 +1,4 @@
-Caloranaerobacter azorensis Wery et al., 2001 SPECIES
-=======
+# Caloranaerobacter azorensis Wery et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

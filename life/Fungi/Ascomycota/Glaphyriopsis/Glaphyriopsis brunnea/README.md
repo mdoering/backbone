@@ -1,5 +1,4 @@
-Glaphyriopsis brunnea B. Sutton & Pascoe, 1987 SPECIES
-=======
+# Glaphyriopsis brunnea B. Sutton & Pascoe, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus odorus (Vill.) Quél. SPECIES
-=======
+# Lentinus odorus (Vill.) Quél. SPECIES
 
 #### Status
 ACCEPTED

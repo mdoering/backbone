@@ -1,5 +1,4 @@
-Orbilia pulviscula (Cooke) Seaver SPECIES
-=======
+# Orbilia pulviscula (Cooke) Seaver SPECIES
 
 #### Status
 ACCEPTED

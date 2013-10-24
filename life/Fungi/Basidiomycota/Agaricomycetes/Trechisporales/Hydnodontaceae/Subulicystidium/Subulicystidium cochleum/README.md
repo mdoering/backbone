@@ -1,5 +1,4 @@
-Subulicystidium cochleum Punugu, 1980 SPECIES
-=======
+# Subulicystidium cochleum Punugu, 1980 SPECIES
 
 #### Status
 ACCEPTED

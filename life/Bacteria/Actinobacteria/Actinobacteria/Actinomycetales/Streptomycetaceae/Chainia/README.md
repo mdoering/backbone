@@ -1,5 +1,4 @@
-Chainia Thirum. GENUS
-=======
+# Chainia Thirum. GENUS
 
 #### Status
 ACCEPTED

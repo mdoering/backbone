@@ -1,5 +1,4 @@
-Tubercularia hydnoidea Richon SPECIES
-=======
+# Tubercularia hydnoidea Richon SPECIES
 
 #### Status
 ACCEPTED

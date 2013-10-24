@@ -1,5 +1,4 @@
-Diaporthe lagunensis Syd. SPECIES
-=======
+# Diaporthe lagunensis Syd. SPECIES
 
 #### Status
 ACCEPTED

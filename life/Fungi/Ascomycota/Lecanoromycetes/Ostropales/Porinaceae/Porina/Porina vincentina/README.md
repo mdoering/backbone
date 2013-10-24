@@ -1,5 +1,4 @@
-Porina vincentina Vain. SPECIES
-=======
+# Porina vincentina Vain. SPECIES
 
 #### Status
 ACCEPTED

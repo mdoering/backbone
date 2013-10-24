@@ -1,5 +1,4 @@
-Eutypa luteobasis (Ellis) Sacc. SPECIES
-=======
+# Eutypa luteobasis (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

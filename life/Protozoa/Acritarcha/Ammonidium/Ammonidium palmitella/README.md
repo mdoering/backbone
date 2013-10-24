@@ -1,5 +1,4 @@
-Ammonidium palmitella (Cramer & Díez, 1972) Dorning, 1981 SPECIES
-=======
+# Ammonidium palmitella (Cramer & Díez, 1972) Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

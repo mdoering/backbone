@@ -1,5 +1,4 @@
-Cercospora piperata Asthana & Mahmud SPECIES
-=======
+# Cercospora piperata Asthana & Mahmud SPECIES
 
 #### Status
 ACCEPTED

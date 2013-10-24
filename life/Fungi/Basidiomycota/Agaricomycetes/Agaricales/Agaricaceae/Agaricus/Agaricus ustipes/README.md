@@ -1,5 +1,4 @@
-Agaricus ustipes Berk. SPECIES
-=======
+# Agaricus ustipes Berk. SPECIES
 
 #### Status
 ACCEPTED

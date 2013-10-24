@@ -1,5 +1,4 @@
-Marasmius brunneoaurantiacus Antonín & Buyck SPECIES
-=======
+# Marasmius brunneoaurantiacus Antonín & Buyck SPECIES
 
 #### Status
 ACCEPTED

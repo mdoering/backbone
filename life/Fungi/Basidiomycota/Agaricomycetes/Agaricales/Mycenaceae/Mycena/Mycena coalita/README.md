@@ -1,5 +1,4 @@
-Mycena coalita Maas Geest. SPECIES
-=======
+# Mycena coalita Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

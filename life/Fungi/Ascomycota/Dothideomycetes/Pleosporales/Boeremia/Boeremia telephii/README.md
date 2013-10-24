@@ -1,5 +1,4 @@
-Boeremia telephii (Vestergr.) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Boeremia telephii (Vestergr.) Aveskamp, Gruyter & Verkley, 2010 SPECIES
 
 #### Status
 ACCEPTED

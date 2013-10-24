@@ -1,5 +1,4 @@
-Metabacterium GENUS
-=======
+# Metabacterium GENUS
 
 #### Status
 ACCEPTED

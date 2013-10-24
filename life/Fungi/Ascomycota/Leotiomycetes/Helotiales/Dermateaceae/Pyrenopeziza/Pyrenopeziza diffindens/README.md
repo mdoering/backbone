@@ -1,5 +1,4 @@
-Pyrenopeziza diffindens Rehm SPECIES
-=======
+# Pyrenopeziza diffindens Rehm SPECIES
 
 #### Status
 ACCEPTED

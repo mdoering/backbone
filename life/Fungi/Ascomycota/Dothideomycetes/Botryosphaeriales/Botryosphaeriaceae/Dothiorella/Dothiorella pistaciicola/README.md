@@ -1,14 +1,13 @@
-Dothiorella pistaciaecola (Sousa da Câmara) Sousa da Câmara SPECIES
-=======
+# Dothiorella pistaciicola (Sousa da Câmara) Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Agron. lusit. 13(2): 132 (1951)
 
 #### Original name
 Macrophoma pistaciicola Sousa da Câmara

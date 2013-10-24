@@ -1,5 +1,4 @@
-Bacidina caligans (Nyl.) Llop & Hladun SPECIES
-=======
+# Bacidina caligans (Nyl.) Llop & Hladun SPECIES
 
 #### Status
 ACCEPTED

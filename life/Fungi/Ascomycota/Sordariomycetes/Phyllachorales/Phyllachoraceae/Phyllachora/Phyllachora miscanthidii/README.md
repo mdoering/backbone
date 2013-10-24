@@ -1,5 +1,4 @@
-Phyllachora miscanthidii Doidge, 1942 SPECIES
-=======
+# Phyllachora miscanthidii Doidge, 1942 SPECIES
 
 #### Status
 ACCEPTED

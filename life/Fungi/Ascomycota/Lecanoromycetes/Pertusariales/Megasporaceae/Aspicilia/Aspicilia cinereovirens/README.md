@@ -1,5 +1,4 @@
-Aspicilia cinereovirens (Nyl.) Hue SPECIES
-=======
+# Aspicilia cinereovirens (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

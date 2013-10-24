@@ -1,5 +1,4 @@
-Verrucaria longiconida H. Magn. SPECIES
-=======
+# Verrucaria longiconida H. Magn. SPECIES
 
 #### Status
 ACCEPTED

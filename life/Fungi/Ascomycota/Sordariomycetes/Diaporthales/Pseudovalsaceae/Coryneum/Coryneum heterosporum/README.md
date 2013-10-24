@@ -1,5 +1,4 @@
-Coryneum heterosporum Preuss SPECIES
-=======
+# Coryneum heterosporum Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria praecox Schild SPECIES
-=======
+# Ramaria praecox Schild SPECIES
 
 #### Status
 ACCEPTED

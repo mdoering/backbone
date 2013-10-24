@@ -1,5 +1,4 @@
-Ascospora podophylli M.A. Curtis SPECIES
-=======
+# Ascospora podophylli M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

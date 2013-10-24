@@ -1,5 +1,4 @@
-Didymoporisporonites normalis Sheffy & Dilcher SPECIES
-=======
+# Didymoporisporonites normalis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

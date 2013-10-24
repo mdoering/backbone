@@ -1,17 +1,16 @@
-Uncinula evodiae R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Uncinula euodiae R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta microbiol. sin. 21(3): 303 (1981)
 
 #### Original name
-Uncinula evodiae R.Y. Zheng & G.Q. Chen
+Uncinula euodiae R.Y. Zheng & G.Q. Chen
 
 ### Remarks
 null

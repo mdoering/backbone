@@ -1,5 +1,4 @@
-Diaporthe eburensis Sacc. SPECIES
-=======
+# Diaporthe eburensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

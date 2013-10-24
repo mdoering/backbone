@@ -1,5 +1,4 @@
-Pestalotia capitata Ellis SPECIES
-=======
+# Pestalotia capitata Ellis SPECIES
 
 #### Status
 ACCEPTED

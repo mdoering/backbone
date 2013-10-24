@@ -1,5 +1,4 @@
-Lecidea subcinnabarina Tønsberg SPECIES
-=======
+# Lecidea subcinnabarina Tønsberg SPECIES
 
 #### Status
 ACCEPTED

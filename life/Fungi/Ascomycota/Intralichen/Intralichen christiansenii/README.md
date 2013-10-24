@@ -1,14 +1,13 @@
-Bispora christiansenii D. Hawksw., 1979 SPECIES
-=======
+# Intralichen christiansenii (D. Hawksw.) D. Hawksw. & M.S. Cole, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Br. Mus. nat. Hist. , Bot. 6(3): 207 (1979)
+Fungal Diversity 11: 90 (2002)
 
 #### Original name
 Bispora christiansenii D. Hawksw., 1979

@@ -1,5 +1,4 @@
-Psorothecium subcooperta (Anzi) Jatta SPECIES
-=======
+# Psorothecium subcooperta (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

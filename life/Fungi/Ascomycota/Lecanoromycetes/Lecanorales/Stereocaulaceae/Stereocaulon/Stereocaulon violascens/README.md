@@ -1,5 +1,4 @@
-Stereocaulon violascens Müll. Arg. SPECIES
-=======
+# Stereocaulon violascens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

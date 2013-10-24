@@ -1,5 +1,4 @@
-Trichia obtusa Wigand SPECIES
-=======
+# Trichia obtusa Wigand SPECIES
 
 #### Status
 ACCEPTED

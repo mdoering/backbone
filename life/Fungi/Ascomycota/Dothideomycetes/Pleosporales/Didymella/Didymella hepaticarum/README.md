@@ -1,5 +1,4 @@
-Didymella hepaticarum (Sacc.) E. Müll. SPECIES
-=======
+# Didymella hepaticarum (Sacc.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

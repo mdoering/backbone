@@ -1,5 +1,4 @@
-Nyctotherus befaysi Tuzet & Manier, 1958 SPECIES
-=======
+# Nyctotherus befaysi Tuzet & Manier, 1958 SPECIES
 
 #### Status
 ACCEPTED

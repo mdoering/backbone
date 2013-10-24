@@ -1,17 +1,16 @@
-Tyromyces flavidicera Corner, 1992 SPECIES
-=======
+# Rigidoporus dextrinoideus I. Johans. & Ryvarden, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 55(1-2): 143 (1992)
+Trans. Br. mycol. Soc. 72: 195 (1979)
 
 #### Original name
-Tyromyces flavidicera Corner, 1992
+Rigidoporus dextrinoideus I. Johans. & Ryvarden, 1979
 
 ### Remarks
 null

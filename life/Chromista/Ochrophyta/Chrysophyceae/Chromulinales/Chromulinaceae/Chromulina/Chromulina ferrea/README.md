@@ -1,5 +1,4 @@
-Chromulina ferrea J.W.G. Lund SPECIES
-=======
+# Chromulina ferrea J.W.G. Lund SPECIES
 
 #### Status
 ACCEPTED

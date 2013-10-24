@@ -1,5 +1,4 @@
-Ctenomyces felineus (R. Blanch.) Nann. SPECIES
-=======
+# Ctenomyces felineus (R. Blanch.) Nann. SPECIES
 
 #### Status
 ACCEPTED

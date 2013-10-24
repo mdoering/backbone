@@ -1,5 +1,4 @@
-Entoloma talisporum Corner & E. Horak SPECIES
-=======
+# Entoloma talisporum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

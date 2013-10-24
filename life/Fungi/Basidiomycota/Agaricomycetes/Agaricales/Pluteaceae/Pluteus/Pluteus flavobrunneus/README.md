@@ -1,5 +1,4 @@
-Pluteus flavobrunneus J. Favre SPECIES
-=======
+# Pluteus flavobrunneus J. Favre SPECIES
 
 #### Status
 ACCEPTED

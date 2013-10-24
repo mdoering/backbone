@@ -1,5 +1,4 @@
-Lecidea shushanii J.W. Thomson SPECIES
-=======
+# Lecidea shushanii J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

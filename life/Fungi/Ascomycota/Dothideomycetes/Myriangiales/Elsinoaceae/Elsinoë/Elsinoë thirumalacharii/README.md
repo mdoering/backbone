@@ -1,5 +1,4 @@
-Elsinoë thirumalacharii Ananthan., 1963 SPECIES
-=======
+# Elsinoë thirumalacharii Ananthan., 1963 SPECIES
 
 #### Status
 ACCEPTED

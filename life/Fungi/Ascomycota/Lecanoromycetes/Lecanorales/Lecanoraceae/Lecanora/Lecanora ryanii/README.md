@@ -1,5 +1,4 @@
-Lecanora ryanii T. H. Nash & Lumbsch SPECIES
-=======
+# Lecanora ryanii T. H. Nash & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

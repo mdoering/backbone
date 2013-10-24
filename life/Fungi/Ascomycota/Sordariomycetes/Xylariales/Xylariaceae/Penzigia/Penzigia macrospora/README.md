@@ -1,5 +1,4 @@
-Penzigia macrospora Penz. & Sacc. SPECIES
-=======
+# Penzigia macrospora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

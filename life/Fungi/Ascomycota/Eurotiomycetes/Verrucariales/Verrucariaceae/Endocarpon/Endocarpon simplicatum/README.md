@@ -1,5 +1,4 @@
-Endocarpon simplicatum var. simplicatum VARIETY
-=======
+# Endocarpon simplicatum (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hue, Rev. Bot. Courrensan 6: 104 (1888)
+null
 
 #### Original name
-Endocarpon simplicatum var. simplicatum
+null
 
 ### Remarks
 null

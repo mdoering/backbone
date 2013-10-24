@@ -1,5 +1,4 @@
-Rhabdogloeum abietinum Dearn. SPECIES
-=======
+# Rhabdogloeum abietinum Dearn. SPECIES
 
 #### Status
 ACCEPTED

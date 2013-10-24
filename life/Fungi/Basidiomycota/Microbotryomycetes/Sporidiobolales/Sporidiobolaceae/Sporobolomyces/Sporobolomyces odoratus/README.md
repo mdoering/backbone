@@ -1,5 +1,4 @@
-Sporobolomyces odoratus J.P. Samp., Fonseca & E. Valério SPECIES
-=======
+# Sporobolomyces odoratus J.P. Samp., Fonseca & E. Valério SPECIES
 
 #### Status
 ACCEPTED

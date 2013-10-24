@@ -1,17 +1,16 @@
-Chaetosphaeria caelestinoides Teng SPECIES
-=======
+# Chaetosphaeria coelestinoides Teng SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sinensia, Shanghai 7: 502 (1936)
 
 #### Original name
-Chaetosphaeria caelestinoides Teng
+Chaetosphaeria coelestinoides Teng
 
 ### Remarks
 null

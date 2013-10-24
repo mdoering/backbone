@@ -1,5 +1,4 @@
-Inocybe ovoideicystis Métrod SPECIES
-=======
+# Inocybe ovoideicystis Métrod SPECIES
 
 #### Status
 ACCEPTED

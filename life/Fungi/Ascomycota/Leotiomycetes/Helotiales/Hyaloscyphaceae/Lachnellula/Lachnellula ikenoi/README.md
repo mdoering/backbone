@@ -1,5 +1,4 @@
-Lachnellula ikenoi Henn. SPECIES
-=======
+# Lachnellula ikenoi Henn. SPECIES
 
 #### Status
 ACCEPTED

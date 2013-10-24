@@ -1,5 +1,4 @@
-Phytophthora pseudosyringae T. Jung & Delatour, 2003 SPECIES
-=======
+# Phytophthora pseudosyringae T. Jung & Delatour, 2003 SPECIES
 
 #### Status
 ACCEPTED

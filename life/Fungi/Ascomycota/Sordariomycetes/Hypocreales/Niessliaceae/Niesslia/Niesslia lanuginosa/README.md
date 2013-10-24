@@ -1,5 +1,4 @@
-Niesslia lanuginosa Butin SPECIES
-=======
+# Niesslia lanuginosa Butin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus longistriatus Peck SPECIES
-=======
+# Agaricus longistriatus Peck SPECIES
 
 #### Status
 ACCEPTED

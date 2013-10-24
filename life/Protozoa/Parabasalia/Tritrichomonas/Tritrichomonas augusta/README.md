@@ -1,5 +1,4 @@
-Tritrichomonas augusta Alexeieff SPECIES
-=======
+# Tritrichomonas augusta Alexeieff SPECIES
 
 #### Status
 ACCEPTED

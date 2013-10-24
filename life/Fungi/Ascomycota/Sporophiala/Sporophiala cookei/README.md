@@ -1,14 +1,13 @@
-Bahusakala cookei M.B. Ellis, 1976 SPECIES
-=======
+# Sporophiala cookei (M.B. Ellis) P.M. Kirk, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-More Dematiaceous Hyphomycetes (Kew) 18 (1976)
+Trans. Br. mycol. Soc. 78(3): 561 (1982)
 
 #### Original name
 Bahusakala cookei M.B. Ellis, 1976

@@ -1,5 +1,4 @@
-Puccinia burchardiae F. Ludw., 1893 SPECIES
-=======
+# Puccinia burchardiae F. Ludw., 1893 SPECIES
 
 #### Status
 ACCEPTED

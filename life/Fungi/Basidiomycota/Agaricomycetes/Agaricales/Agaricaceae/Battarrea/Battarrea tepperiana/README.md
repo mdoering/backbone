@@ -1,5 +1,4 @@
-Battarrea tepperiana F. Ludw. SPECIES
-=======
+# Battarrea tepperiana F. Ludw. SPECIES
 
 #### Status
 ACCEPTED

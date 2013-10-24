@@ -1,5 +1,4 @@
-Pyrenula cyrtospora (Stirt.) Müll. Arg. SPECIES
-=======
+# Pyrenula cyrtospora (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

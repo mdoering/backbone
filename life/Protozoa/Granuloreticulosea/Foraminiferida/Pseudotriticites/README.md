@@ -1,5 +1,4 @@
-Pseudotriticites GENUS
-=======
+# Pseudotriticites GENUS
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Spirillum sinuosum Williams & Rittenberg, 1957 SPECIES
-=======
+# Giesbergeria sinuosa (Williams & Rittenberg, 1957) Grabovich et al., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

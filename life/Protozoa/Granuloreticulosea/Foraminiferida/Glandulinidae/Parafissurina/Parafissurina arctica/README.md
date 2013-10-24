@@ -1,5 +1,4 @@
-Parafissurina arctica Green, 1960 SPECIES
-=======
+# Parafissurina arctica Green, 1960 SPECIES
 
 #### Status
 ACCEPTED

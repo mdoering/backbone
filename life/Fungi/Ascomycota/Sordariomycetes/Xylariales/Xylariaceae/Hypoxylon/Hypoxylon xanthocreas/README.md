@@ -1,5 +1,4 @@
-Hypoxylon xanthocreas Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon xanthocreas Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

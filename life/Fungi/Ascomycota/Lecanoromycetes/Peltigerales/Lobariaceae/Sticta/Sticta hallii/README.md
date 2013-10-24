@@ -1,5 +1,4 @@
-Sticta hallii Tuck. SPECIES
-=======
+# Sticta hallii Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acinetopsis rara Robin, 1879 SPECIES
-=======
+# Acinetopsis rara Robin, 1879 SPECIES
 
 #### Status
 ACCEPTED

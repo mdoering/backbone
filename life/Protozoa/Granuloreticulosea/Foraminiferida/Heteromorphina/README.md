@@ -1,5 +1,4 @@
-Heteromorphina Wynn Jones, 1984 GENUS
-=======
+# Heteromorphina Wynn Jones, 1984 GENUS
 
 #### Status
 ACCEPTED

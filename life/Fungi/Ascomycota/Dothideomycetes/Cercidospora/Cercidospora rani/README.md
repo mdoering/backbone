@@ -1,5 +1,4 @@
-Cercidospora rani (Berl. & Vogl.) Kuntze SPECIES
-=======
+# Cercidospora rani (Berl. & Vogl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

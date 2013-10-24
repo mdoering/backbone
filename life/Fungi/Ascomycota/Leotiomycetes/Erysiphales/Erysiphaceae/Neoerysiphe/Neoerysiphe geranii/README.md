@@ -1,14 +1,13 @@
-Erysiphe geranii Y. Nomura, 1997 SPECIES
-=======
+# Neoerysiphe geranii (Y. Nomura) U. Braun, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Taxonomical Study of Erysiphaceae of Japan (Tokyo) 217 (1997)
+Schlechtendalia 3: 50 (1999)
 
 #### Original name
 Erysiphe geranii Y. Nomura, 1997

@@ -1,5 +1,4 @@
-Porphyromonas cansulci Collins et al., 1994 SPECIES
-=======
+# Porphyromonas cansulci Collins et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

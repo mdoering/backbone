@@ -1,5 +1,4 @@
-Dermatocarpon taminium Heiðmarsson SPECIES
-=======
+# Dermatocarpon taminium Heiðmarsson SPECIES
 
 #### Status
 ACCEPTED

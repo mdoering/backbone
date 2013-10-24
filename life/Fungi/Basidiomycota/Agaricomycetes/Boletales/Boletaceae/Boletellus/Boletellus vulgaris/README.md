@@ -1,5 +1,4 @@
-Boletellus vulgaris C.S. Bi SPECIES
-=======
+# Boletellus vulgaris C.S. Bi SPECIES
 
 #### Status
 ACCEPTED

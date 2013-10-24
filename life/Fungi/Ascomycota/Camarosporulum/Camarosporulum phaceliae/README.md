@@ -1,5 +1,4 @@
-Camarosporulum phaceliae (Cooke & Harkn.) Tassi SPECIES
-=======
+# Camarosporulum phaceliae (Cooke & Harkn.) Tassi SPECIES
 
 #### Status
 ACCEPTED

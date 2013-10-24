@@ -1,5 +1,4 @@
-Diaporthe sponheimeri Kirschst. SPECIES
-=======
+# Diaporthe sponheimeri Kirschst. SPECIES
 
 #### Status
 ACCEPTED

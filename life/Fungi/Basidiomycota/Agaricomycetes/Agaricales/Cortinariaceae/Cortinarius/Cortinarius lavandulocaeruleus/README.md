@@ -1,17 +1,16 @@
-Cortinarius lavendocaeruleus Cleland & J.R. Harris SPECIES
-=======
+# Cortinarius lavandulocaeruleus Cleland & J.R. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Recds S. Austral. Mus. 9(1): 53 (1948)
 
 #### Original name
-Cortinarius lavendocaeruleus Cleland & J.R. Harris
+Cortinarius lavandulocaeruleus Cleland & J.R. Harris
 
 ### Remarks
 null

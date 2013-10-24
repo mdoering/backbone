@@ -1,5 +1,4 @@
-Coprococcus catus Holdeman and Moore, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Coprococcus catus Holdeman and Moore, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

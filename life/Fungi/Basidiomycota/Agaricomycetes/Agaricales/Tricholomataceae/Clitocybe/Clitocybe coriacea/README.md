@@ -1,5 +1,4 @@
-Clitocybe coriacea Velen. SPECIES
-=======
+# Clitocybe coriacea Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elsinoë caleae Bitanc. & Jenkins, 1941 SPECIES
-=======
+# Elsinoë caleae Bitanc. & Jenkins, 1941 SPECIES
 
 #### Status
 ACCEPTED

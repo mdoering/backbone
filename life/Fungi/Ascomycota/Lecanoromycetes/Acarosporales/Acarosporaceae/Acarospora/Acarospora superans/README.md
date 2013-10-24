@@ -1,5 +1,4 @@
-Acarospora superans H. Magn. SPECIES
-=======
+# Acarospora superans H. Magn. SPECIES
 
 #### Status
 ACCEPTED

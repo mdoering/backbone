@@ -1,5 +1,4 @@
-Rigidoporus hainanicus J.D. Zhao & X.Q. Zhang, 1991 SPECIES
-=======
+# Rigidoporus hainanicus J.D. Zhao & X.Q. Zhang, 1991 SPECIES
 
 #### Status
 ACCEPTED

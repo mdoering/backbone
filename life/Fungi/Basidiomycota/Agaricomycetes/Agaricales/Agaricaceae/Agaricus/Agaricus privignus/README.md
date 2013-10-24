@@ -1,5 +1,4 @@
-Agaricus privignus Speg. SPECIES
-=======
+# Agaricus privignus Speg. SPECIES
 
 #### Status
 ACCEPTED

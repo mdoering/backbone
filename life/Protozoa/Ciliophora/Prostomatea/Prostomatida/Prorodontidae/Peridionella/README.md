@@ -1,5 +1,4 @@
-Peridionella Vuxanovici, 1963 GENUS
-=======
+# Peridionella Vuxanovici, 1963 GENUS
 
 #### Status
 ACCEPTED

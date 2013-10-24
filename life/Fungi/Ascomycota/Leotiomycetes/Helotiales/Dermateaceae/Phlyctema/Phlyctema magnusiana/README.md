@@ -1,5 +1,4 @@
-Phlyctema magnusiana (Allesch.) Bres. SPECIES
-=======
+# Phlyctema magnusiana (Allesch.) Bres. SPECIES
 
 #### Status
 ACCEPTED

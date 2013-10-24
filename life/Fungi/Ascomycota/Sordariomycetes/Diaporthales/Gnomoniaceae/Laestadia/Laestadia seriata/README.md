@@ -1,5 +1,4 @@
-Laestadia seriata (Bäumler) Sacc. & D. Sacc. SPECIES
-=======
+# Laestadia seriata (Bäumler) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

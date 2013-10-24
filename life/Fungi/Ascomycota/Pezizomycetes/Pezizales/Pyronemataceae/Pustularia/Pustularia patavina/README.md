@@ -1,14 +1,13 @@
-Peziza patavina Cooke & Sacc., 1878 SPECIES
-=======
+# Pustularia patavina (Cooke & Sacc.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycographia seu Icones Fungorum (London), Vol. <b>1</b>. Discomycetes 213, fig. 360 (1877)
+null
 
 #### Original name
 Peziza patavina Cooke & Sacc., 1878

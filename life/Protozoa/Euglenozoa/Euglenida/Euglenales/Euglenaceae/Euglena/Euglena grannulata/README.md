@@ -1,5 +1,4 @@
-Euglena grannulata (Klebs) Lemmermann SPECIES
-=======
+# Euglena grannulata (Klebs) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

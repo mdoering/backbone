@@ -1,5 +1,4 @@
-Cystangium bisporum T. Lebel, 2003 SPECIES
-=======
+# Cystangium bisporum T. Lebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza ravenelii Berk. & M.A. Curtis SPECIES
-=======
+# Peziza ravenelii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Euuvigerina flintii (Cushman, 1923) SPECIES
-=======
+# Uvigerina flintii Cushman, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

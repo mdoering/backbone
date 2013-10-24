@@ -1,5 +1,4 @@
-Parmotrema afrocetratum Elix, Eb. Fischer & Killmann SPECIES
-=======
+# Parmotrema afrocetratum Elix, Eb. Fischer & Killmann SPECIES
 
 #### Status
 ACCEPTED

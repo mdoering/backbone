@@ -1,5 +1,4 @@
-Weraroa patagonica Singer & J.E. Wright, 1959 SPECIES
-=======
+# Weraroa patagonica Singer & J.E. Wright, 1959 SPECIES
 
 #### Status
 ACCEPTED

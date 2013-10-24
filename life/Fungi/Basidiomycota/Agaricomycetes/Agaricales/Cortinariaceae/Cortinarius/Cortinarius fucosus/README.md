@@ -1,5 +1,4 @@
-Cortinarius fucosus Britzelm. SPECIES
-=======
+# Cortinarius fucosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

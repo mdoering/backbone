@@ -1,5 +1,4 @@
-Tilletia digitariicola Pavgi & Thirum. SPECIES
-=======
+# Tilletia digitariicola Pavgi & Thirum. SPECIES
 
 #### Status
 ACCEPTED

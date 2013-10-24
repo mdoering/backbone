@@ -1,5 +1,4 @@
-Trachelomonas cactacea Playfair SPECIES
-=======
+# Trachelomonas cactacea Playfair SPECIES
 
 #### Status
 ACCEPTED

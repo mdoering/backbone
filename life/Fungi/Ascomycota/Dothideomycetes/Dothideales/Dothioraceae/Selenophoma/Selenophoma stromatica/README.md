@@ -1,5 +1,4 @@
-Selenophoma stromatica Petr. SPECIES
-=======
+# Selenophoma stromatica Petr. SPECIES
 
 #### Status
 ACCEPTED

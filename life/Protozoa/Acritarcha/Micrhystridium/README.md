@@ -1,5 +1,4 @@
-Micrhystridium S.N. Naumova, 1968 GENUS
-=======
+# Micrhystridium S.N. Naumova, 1968 GENUS
 
 #### Status
 ACCEPTED

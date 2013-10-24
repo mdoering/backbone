@@ -1,5 +1,4 @@
-Chondrospora semiteres (Mont. & Bosch) A. Massal. SPECIES
-=======
+# Chondrospora semiteres (Mont. & Bosch) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

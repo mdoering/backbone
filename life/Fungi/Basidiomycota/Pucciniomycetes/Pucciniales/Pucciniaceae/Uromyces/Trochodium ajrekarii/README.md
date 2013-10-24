@@ -1,5 +1,4 @@
-Trochodium ajrekarii Gharse SPECIES
-=======
+# Trochodium ajrekarii Gharse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phatnaspidium Haeckel, 1887 GENUS
-=======
+# Phatnaspidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

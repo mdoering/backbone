@@ -1,5 +1,4 @@
-Lachnella schumacheri SPECIES
-=======
+# Lachnella schumacheri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pseudoamycolata halophobica Akimov et al., 1989 SPECIES
-=======
+# Pseudonocardia halophobica (Akimov et al., 1989) McVeigh et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

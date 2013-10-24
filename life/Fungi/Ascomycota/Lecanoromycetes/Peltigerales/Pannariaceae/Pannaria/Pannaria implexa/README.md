@@ -1,5 +1,4 @@
-Pannaria implexa (Stirt.) Passo, S. Stenroos & Calvelo SPECIES
-=======
+# Pannaria implexa (Stirt.) Passo, S. Stenroos & Calvelo SPECIES
 
 #### Status
 ACCEPTED

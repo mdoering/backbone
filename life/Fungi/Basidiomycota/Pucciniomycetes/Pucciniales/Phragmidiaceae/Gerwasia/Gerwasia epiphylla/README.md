@@ -1,14 +1,13 @@
-Morispora epiphylla (Arthur) Salazar-Yepes, Pardo-Card. & Buriticá, 2007 SPECIES
-=======
+# Gerwasia epiphylla (Arthur) Cummins, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Caldasia 29(1): 117 (2007)
+null
 
 #### Original name
 Spirechina epiphylla Arthur, 1912

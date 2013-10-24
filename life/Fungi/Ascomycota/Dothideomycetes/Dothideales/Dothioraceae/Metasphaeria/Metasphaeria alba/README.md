@@ -1,5 +1,4 @@
-Metasphaeria alba Pass. SPECIES
-=======
+# Metasphaeria alba Pass. SPECIES
 
 #### Status
 ACCEPTED

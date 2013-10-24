@@ -1,5 +1,4 @@
-Berengeria bischoffii (Hepp) Trevis. SPECIES
-=======
+# Berengeria bischoffii (Hepp) Trevis. SPECIES
 
 #### Status
 ACCEPTED

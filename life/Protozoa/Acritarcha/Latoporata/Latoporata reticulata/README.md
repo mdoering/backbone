@@ -1,5 +1,4 @@
-Latoporata reticulata N. Umnova, 1975 SPECIES
-=======
+# Latoporata reticulata N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia nigrofimbriata Thaxt. SPECIES
-=======
+# Rickia nigrofimbriata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

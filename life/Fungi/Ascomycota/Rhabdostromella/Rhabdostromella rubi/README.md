@@ -1,5 +1,4 @@
-Rhabdostromella rubi Höhn., 1915 SPECIES
-=======
+# Rhabdostromella rubi Höhn., 1915 SPECIES
 
 #### Status
 ACCEPTED

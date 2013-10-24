@@ -1,5 +1,4 @@
-Amanita griseoconia D.A. Reid SPECIES
-=======
+# Amanita griseoconia D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

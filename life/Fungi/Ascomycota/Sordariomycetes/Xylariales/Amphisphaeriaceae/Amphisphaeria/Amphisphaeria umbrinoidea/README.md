@@ -1,5 +1,4 @@
-Amphisphaeria umbrinoidea var. umbrinoidea Pass. VARIETY
-=======
+# Amphisphaeria umbrinoidea Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amphisphaeria umbrinoidea var. umbrinoidea Pass.
+Amphisphaeria umbrinoidea Pass.
 
 ### Remarks
 null

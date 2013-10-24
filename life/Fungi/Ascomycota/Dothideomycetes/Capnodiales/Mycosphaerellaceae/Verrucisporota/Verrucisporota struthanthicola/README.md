@@ -1,5 +1,4 @@
-Verrucisporota struthanthicola R. Kirschner SPECIES
-=======
+# Verrucisporota struthanthicola R. Kirschner SPECIES
 
 #### Status
 ACCEPTED

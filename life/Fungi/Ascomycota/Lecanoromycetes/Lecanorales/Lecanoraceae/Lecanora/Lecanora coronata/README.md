@@ -1,5 +1,4 @@
-Lecanora coronata Röhl. SPECIES
-=======
+# Lecanora coronata Röhl. SPECIES
 
 #### Status
 ACCEPTED

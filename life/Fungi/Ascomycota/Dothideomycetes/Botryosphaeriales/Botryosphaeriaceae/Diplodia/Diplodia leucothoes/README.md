@@ -1,5 +1,4 @@
-Diplodia leucothoes Died. SPECIES
-=======
+# Diplodia leucothoes Died. SPECIES
 
 #### Status
 ACCEPTED

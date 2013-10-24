@@ -1,14 +1,13 @@
-Arthonia infuscata Kremp. SPECIES
-=======
+# Arthothelium infuscatum (Kremp.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Herb. Boissier 2(App. 1): 84 (1894)
 
 #### Original name
 Arthonia infuscata Kremp.

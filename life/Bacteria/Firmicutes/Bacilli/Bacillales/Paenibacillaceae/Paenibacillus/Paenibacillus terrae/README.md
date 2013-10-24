@@ -1,5 +1,4 @@
-Paenibacillus terrae Yoon et al., 2003 SPECIES
-=======
+# Paenibacillus terrae Yoon et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

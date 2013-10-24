@@ -1,5 +1,4 @@
-Trichoglossum rotundiformis (A. Kawam.) F.L. Tai & C.T. Wei SPECIES
-=======
+# Trichoglossum rotundiformis (A. Kawam.) F.L. Tai & C.T. Wei SPECIES
 
 #### Status
 ACCEPTED

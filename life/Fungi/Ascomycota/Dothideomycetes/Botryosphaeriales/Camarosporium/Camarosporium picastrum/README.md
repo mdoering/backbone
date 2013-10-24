@@ -1,5 +1,4 @@
-Camarosporium picastrum (Fr.) Sacc. SPECIES
-=======
+# Camarosporium picastrum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

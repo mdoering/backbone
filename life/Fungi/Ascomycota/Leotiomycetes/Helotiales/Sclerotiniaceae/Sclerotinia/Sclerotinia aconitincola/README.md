@@ -1,5 +1,4 @@
-Sclerotinia aconitincola Rehm SPECIES
-=======
+# Sclerotinia aconitincola Rehm SPECIES
 
 #### Status
 ACCEPTED

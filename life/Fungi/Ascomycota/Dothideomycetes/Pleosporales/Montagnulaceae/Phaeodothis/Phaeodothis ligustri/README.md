@@ -1,5 +1,4 @@
-Phaeodothis ligustri Sawada SPECIES
-=======
+# Phaeodothis ligustri Sawada SPECIES
 
 #### Status
 ACCEPTED

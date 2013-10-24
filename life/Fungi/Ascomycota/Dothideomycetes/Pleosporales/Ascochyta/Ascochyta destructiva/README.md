@@ -1,5 +1,4 @@
-Ascochyta destructiva (Desm.) Höhn. SPECIES
-=======
+# Ascochyta destructiva (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

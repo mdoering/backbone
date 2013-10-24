@@ -1,17 +1,16 @@
-Cystoderma simulatum var. bispora Glowinski & Gumb. VARIETY
-=======
+# Cystoderma simulatum P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. Mykol. 48(1): 35 (1982)
+Trans. Br. mycol. Soc. 43(2): 222 (1960)
 
 #### Original name
-Cystoderma simulatum var. bispora Glowinski & Gumb.
+Cystoderma simulatum P.D. Orton, 1960
 
 ### Remarks
 null

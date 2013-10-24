@@ -1,5 +1,4 @@
-Sigmomorphina subregularis Howchin, W & Parr, W J SPECIES
-=======
+# Sigmomorphina subregularis Howchin, W & Parr, W J SPECIES
 
 #### Status
 ACCEPTED

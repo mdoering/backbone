@@ -1,5 +1,4 @@
-Cercospora alternatherae Ellis & Langl. SPECIES
-=======
+# Cercospora alternatherae Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

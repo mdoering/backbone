@@ -1,5 +1,4 @@
-Agaricus ludius Fr. SPECIES
-=======
+# Agaricus ludius Fr. SPECIES
 
 #### Status
 ACCEPTED

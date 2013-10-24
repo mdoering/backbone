@@ -1,5 +1,4 @@
-Diexallophasis caperoradiola Loeblich, 1970 SPECIES
-=======
+# Diexallophasis caperoradiola Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

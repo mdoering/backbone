@@ -1,5 +1,4 @@
-Lenzites crataegi Berk. SPECIES
-=======
+# Lenzites crataegi Berk. SPECIES
 
 #### Status
 ACCEPTED

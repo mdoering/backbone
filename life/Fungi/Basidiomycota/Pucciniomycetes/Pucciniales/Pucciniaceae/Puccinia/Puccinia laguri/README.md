@@ -1,5 +1,4 @@
-Puccinia laguri Jaap SPECIES
-=======
+# Puccinia laguri Jaap SPECIES
 
 #### Status
 ACCEPTED

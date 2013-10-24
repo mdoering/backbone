@@ -1,5 +1,4 @@
-Clavulina coffeoflava P. Roberts, 1999 SPECIES
-=======
+# Clavulina coffeoflava P. Roberts, 1999 SPECIES
 
 #### Status
 ACCEPTED

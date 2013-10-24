@@ -1,17 +1,16 @@
-Cercospora acerina var. acerina VARIETY
-=======
+# Mycocentrospora acerina (R. Hartig) Deighton, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Untersuch. Forstbot. Inst. München 1: 59 (1880)
+Taxon 21(5-6): 716 (1972)
 
 #### Original name
-Cercospora acerina var. acerina
+Cercospora acerina R. Hartig, 1880
 
 ### Remarks
 null

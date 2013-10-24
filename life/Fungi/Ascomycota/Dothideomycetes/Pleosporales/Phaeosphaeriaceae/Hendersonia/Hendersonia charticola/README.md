@@ -1,5 +1,4 @@
-Hendersonia charticola Speg. SPECIES
-=======
+# Hendersonia charticola Speg. SPECIES
 
 #### Status
 ACCEPTED

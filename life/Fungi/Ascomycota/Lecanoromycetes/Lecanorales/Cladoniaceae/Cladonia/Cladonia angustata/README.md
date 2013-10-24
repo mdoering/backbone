@@ -1,5 +1,4 @@
-Cladonia angustata Nyl. SPECIES
-=======
+# Cladonia angustata Nyl. SPECIES
 
 #### Status
 ACCEPTED

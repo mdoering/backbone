@@ -1,5 +1,4 @@
-Septoria mortolensis Penz. & Sacc. SPECIES
-=======
+# Septoria mortolensis Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platygrapha nebulosa Stirt. SPECIES
-=======
+# Platygrapha nebulosa Stirt. SPECIES
 
 #### Status
 ACCEPTED

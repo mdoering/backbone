@@ -1,14 +1,13 @@
-Aleuria sepiatra (Cooke) Boud., 1907 SPECIES
-=======
+# Peziza sepiatra Cooke, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycographia seu Icones Fungorum (London), Vol. <b>1</b>. Discomycetes fig. 261 (1875)
 
 #### Original name
 Peziza sepiatra Cooke, 1875

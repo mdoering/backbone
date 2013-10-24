@@ -1,5 +1,4 @@
-Sclerotium mucor Tode SPECIES
-=======
+# Sclerotium mucor Tode SPECIES
 
 #### Status
 ACCEPTED

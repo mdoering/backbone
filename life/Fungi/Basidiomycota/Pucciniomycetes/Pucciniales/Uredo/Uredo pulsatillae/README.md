@@ -1,5 +1,4 @@
-Uredo pulsatillae Duby SPECIES
-=======
+# Uredo pulsatillae Duby SPECIES
 
 #### Status
 ACCEPTED

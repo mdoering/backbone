@@ -1,5 +1,4 @@
-Solenopezia groenlandica Raitv. SPECIES
-=======
+# Solenopezia groenlandica Raitv. SPECIES
 
 #### Status
 ACCEPTED

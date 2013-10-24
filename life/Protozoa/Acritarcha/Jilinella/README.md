@@ -1,5 +1,4 @@
-Jilinella Yin, 1987 GENUS
-=======
+# Jilinella Yin, 1987 GENUS
 
 #### Status
 ACCEPTED

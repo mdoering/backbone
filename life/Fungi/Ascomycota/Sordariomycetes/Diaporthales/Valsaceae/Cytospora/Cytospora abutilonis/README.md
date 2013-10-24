@@ -1,17 +1,16 @@
-Cytospora abutili R.C. Rajak, M.K. Rai & A.K. Pandey SPECIES
-=======
+# Cytospora abutilonis R.C. Rajak, M.K. Rai & A.K. Pandey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 12(2): 407 (1989)
 
 #### Original name
-Cytospora abutili R.C. Rajak, M.K. Rai & A.K. Pandey
+Cytospora abutilonis R.C. Rajak, M.K. Rai & A.K. Pandey
 
 ### Remarks
 null

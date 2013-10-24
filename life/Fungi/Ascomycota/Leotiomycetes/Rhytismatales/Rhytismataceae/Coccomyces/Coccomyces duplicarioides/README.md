@@ -1,5 +1,4 @@
-Coccomyces duplicarioides Sherwood, 1980 SPECIES
-=======
+# Coccomyces duplicarioides Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

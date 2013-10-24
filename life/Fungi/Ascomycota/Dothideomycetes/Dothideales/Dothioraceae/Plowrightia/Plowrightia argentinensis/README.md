@@ -1,17 +1,16 @@
-Plowrightia argentiniensis Speg. SPECIES
-=======
+# Plowrightia argentinensis Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. B. Aires, Ser. 3 8(1): 76 (1902)
 
 #### Original name
-Plowrightia argentiniensis Speg.
+Plowrightia argentinensis Speg.
 
 ### Remarks
 null

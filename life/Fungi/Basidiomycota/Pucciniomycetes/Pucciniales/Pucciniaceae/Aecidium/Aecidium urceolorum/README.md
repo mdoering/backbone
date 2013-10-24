@@ -1,5 +1,4 @@
-Aecidium urceolorum Schumach. SPECIES
-=======
+# Aecidium urceolorum Schumach. SPECIES
 
 #### Status
 ACCEPTED

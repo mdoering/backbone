@@ -1,5 +1,4 @@
-Gastroboletus Lohwag GENUS
-=======
+# Gastroboletus Lohwag GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycobacterium interjectum Springer et al., 1995 SPECIES
-=======
+# Mycobacterium interjectum Springer et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

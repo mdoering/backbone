@@ -1,5 +1,4 @@
-Lentinus integrus Reichert SPECIES
-=======
+# Lentinus integrus Reichert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanocorpusculum parvum Zellner et al., 1988 SPECIES
-=======
+# Methanocorpusculum parvum Zellner et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

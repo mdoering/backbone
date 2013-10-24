@@ -1,5 +1,4 @@
-Agaricus regius Fr. SPECIES
-=======
+# Agaricus regius Fr. SPECIES
 
 #### Status
 ACCEPTED

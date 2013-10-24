@@ -1,5 +1,4 @@
-Maronea chilensis B. de Lesd. SPECIES
-=======
+# Maronea chilensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

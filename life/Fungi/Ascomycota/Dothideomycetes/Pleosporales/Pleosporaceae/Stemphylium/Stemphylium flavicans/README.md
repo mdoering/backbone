@@ -1,5 +1,4 @@
-Stemphylium flavicans Jasevoli SPECIES
-=======
+# Stemphylium flavicans Jasevoli SPECIES
 
 #### Status
 ACCEPTED

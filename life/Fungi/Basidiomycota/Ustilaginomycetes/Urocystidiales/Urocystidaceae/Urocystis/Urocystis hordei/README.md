@@ -1,5 +1,4 @@
-Urocystis hordei (Cif.) Zundel SPECIES
-=======
+# Urocystis hordei (Cif.) Zundel SPECIES
 
 #### Status
 ACCEPTED

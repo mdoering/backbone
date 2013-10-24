@@ -1,5 +1,4 @@
-Sporisorium polycarpum (Syd.) Vánky SPECIES
-=======
+# Sporisorium polycarpum (Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

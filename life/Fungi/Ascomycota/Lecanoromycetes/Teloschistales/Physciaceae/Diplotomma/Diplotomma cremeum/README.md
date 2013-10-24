@@ -1,5 +1,4 @@
-Diplotomma cremeum (Hue) C.W. Dodge SPECIES
-=======
+# Diplotomma cremeum (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

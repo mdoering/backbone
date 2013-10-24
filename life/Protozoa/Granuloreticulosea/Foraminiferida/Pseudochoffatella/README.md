@@ -1,5 +1,4 @@
-Pseudochoffatella Deloffre, 1961 GENUS
-=======
+# Pseudochoffatella Deloffre, 1961 GENUS
 
 #### Status
 ACCEPTED

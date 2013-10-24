@@ -1,17 +1,16 @@
-Lecanora cinerea f. cinerea FORM
-=======
+# Aspicilia cinerea (L.) Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) 164 (1855)
 
 #### Original name
-Lecanora cinerea f. cinerea
+Lichen cinereus K.G. Hagen
 
 ### Remarks
 null

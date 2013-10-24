@@ -1,5 +1,4 @@
-Tilletia atacamensis Hirschh. SPECIES
-=======
+# Tilletia atacamensis Hirschh. SPECIES
 
 #### Status
 ACCEPTED

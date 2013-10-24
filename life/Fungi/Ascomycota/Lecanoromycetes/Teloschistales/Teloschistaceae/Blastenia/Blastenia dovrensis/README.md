@@ -1,5 +1,4 @@
-Blastenia dovrensis H. Magn. SPECIES
-=======
+# Blastenia dovrensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

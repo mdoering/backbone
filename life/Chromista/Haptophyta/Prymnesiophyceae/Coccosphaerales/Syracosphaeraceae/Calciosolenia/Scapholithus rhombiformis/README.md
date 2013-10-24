@@ -1,5 +1,4 @@
-Scapholithus rhombiformis Hay & Mohler, 1967 SPECIES
-=======
+# Scapholithus rhombiformis Hay & Mohler, 1967 SPECIES
 
 #### Status
 DOUBTFUL

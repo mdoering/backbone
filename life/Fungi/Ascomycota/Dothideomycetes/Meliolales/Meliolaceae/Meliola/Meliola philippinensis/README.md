@@ -1,5 +1,4 @@
-Meliola philippinensis (F. Stevens) Hansf. SPECIES
-=======
+# Meliola philippinensis (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

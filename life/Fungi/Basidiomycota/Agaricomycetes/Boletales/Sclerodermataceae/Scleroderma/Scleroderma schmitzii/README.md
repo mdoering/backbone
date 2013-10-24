@@ -1,5 +1,4 @@
-Scleroderma schmitzii Demoulin & Dring SPECIES
-=======
+# Scleroderma schmitzii Demoulin & Dring SPECIES
 
 #### Status
 ACCEPTED

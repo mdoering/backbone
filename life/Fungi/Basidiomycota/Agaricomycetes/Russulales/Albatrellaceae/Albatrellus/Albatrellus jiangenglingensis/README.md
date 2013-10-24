@@ -1,5 +1,4 @@
-Albatrellus jiangenglingensis SPECIES
-=======
+# Albatrellus jiangenglingensis SPECIES
 
 #### Status
 ACCEPTED

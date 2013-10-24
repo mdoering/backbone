@@ -1,5 +1,4 @@
-Discotricha papillifera Tuffrau, 1954 SPECIES
-=======
+# Discotricha papillifera Tuffrau, 1954 SPECIES
 
 #### Status
 ACCEPTED

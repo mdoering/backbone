@@ -1,5 +1,4 @@
-Endothiella natalensis Doidge SPECIES
-=======
+# Endothiella natalensis Doidge SPECIES
 
 #### Status
 ACCEPTED

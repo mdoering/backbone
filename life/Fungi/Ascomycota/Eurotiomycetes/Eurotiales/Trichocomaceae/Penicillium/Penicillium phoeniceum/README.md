@@ -1,17 +1,16 @@
-Penicillium idahoense Paden, 1971 SPECIES
-=======
+# Penicillium phoeniceum J.F.H. Beyma, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopath. Mycol. appl. 43(3-4): 261 (1971)
+Zentbl. Bakt. ParasitKde, Abt. II 88: 136 (1933)
 
 #### Original name
-Penicillium idahoense Paden, 1971
+Penicillium phoeniceum J.F.H. Beyma, 1933
 
 ### Remarks
 null

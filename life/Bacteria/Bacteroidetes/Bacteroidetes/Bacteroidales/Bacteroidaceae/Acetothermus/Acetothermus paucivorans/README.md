@@ -1,5 +1,4 @@
-Acetothermus paucivorans Dietrich et al., 1988 SPECIES
-=======
+# Acetothermus paucivorans Dietrich et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

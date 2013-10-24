@@ -1,5 +1,4 @@
-Herpotrichia leptospora Kirschst. SPECIES
-=======
+# Herpotrichia leptospora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaeria zizaniaeicola Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria zizaniicola Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Petersen, Biblthca Mycol. 72: 101 (1980)
 
 #### Original name
-Sphaeria zizaniaeicola Berk. & M.A. Curtis
+Sphaeria zizaniicola Berk. & M.A. Curtis
 
 ### Remarks
 null

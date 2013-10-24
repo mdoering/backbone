@@ -1,14 +1,13 @@
-Didymochlamys ustilaginoidea Henn., 1897 SPECIES
-=======
+# Kuntzeomyces ustilaginoideus (Henn.) Sacc., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 36: 246 (1897)
+Syll. fung. (Abellini) 14(1): 430 (1899)
 
 #### Original name
 Didymochlamys ustilaginoidea Henn., 1897

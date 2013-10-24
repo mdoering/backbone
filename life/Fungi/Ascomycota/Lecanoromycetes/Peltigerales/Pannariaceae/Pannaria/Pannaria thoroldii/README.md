@@ -1,5 +1,4 @@
-Pannaria thoroldii C.W. Dodge SPECIES
-=======
+# Pannaria thoroldii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

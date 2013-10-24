@@ -1,5 +1,4 @@
-Helenifore Nazarov & Ormiston, 1983 GENUS
-=======
+# Helenifore Nazarov & Ormiston, 1983 GENUS
 
 #### Status
 ACCEPTED

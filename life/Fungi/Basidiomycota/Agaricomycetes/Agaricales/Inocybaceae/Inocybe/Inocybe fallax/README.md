@@ -1,5 +1,4 @@
-Inocybe fallax Peck SPECIES
-=======
+# Inocybe fallax Peck SPECIES
 
 #### Status
 ACCEPTED

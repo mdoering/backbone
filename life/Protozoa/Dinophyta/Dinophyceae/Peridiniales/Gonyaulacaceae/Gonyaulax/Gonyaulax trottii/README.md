@@ -1,5 +1,4 @@
-Gonyaulax trottii Rampi, 1951 SPECIES
-=======
+# Gonyaulax trottii Rampi, 1951 SPECIES
 
 #### Status
 ACCEPTED

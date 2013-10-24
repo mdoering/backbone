@@ -1,5 +1,4 @@
-Mycena muciflua (Höhn.) Singer SPECIES
-=======
+# Mycena muciflua (Höhn.) Singer SPECIES
 
 #### Status
 ACCEPTED

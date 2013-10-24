@@ -1,5 +1,4 @@
-Cladonia leptophyllodes SPECIES
-=======
+# Cladonia leptophyllodes SPECIES
 
 #### Status
 ACCEPTED

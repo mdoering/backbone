@@ -1,5 +1,4 @@
-Anellaria griseofibrillosa Rick SPECIES
-=======
+# Anellaria griseofibrillosa Rick SPECIES
 
 #### Status
 ACCEPTED

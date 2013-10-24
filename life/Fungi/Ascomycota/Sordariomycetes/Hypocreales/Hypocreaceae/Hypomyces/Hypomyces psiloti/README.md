@@ -1,5 +1,4 @@
-Hypomyces psiloti Bernátsky SPECIES
-=======
+# Hypomyces psiloti Bernátsky SPECIES
 
 #### Status
 ACCEPTED

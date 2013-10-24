@@ -1,5 +1,4 @@
-Irene sororcula (Speg.) F. Stevens SPECIES
-=======
+# Irene sororcula (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

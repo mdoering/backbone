@@ -1,14 +1,13 @@
-Nodosella B. Prins ex A.P. Rood, W.W. Hay & T. Barnard, 1973 GENUS
-=======
+# Stradnerlithus M.Black, 1971 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Yorks. Geol. Soc. 38: 414.
 
 #### Original name
 null

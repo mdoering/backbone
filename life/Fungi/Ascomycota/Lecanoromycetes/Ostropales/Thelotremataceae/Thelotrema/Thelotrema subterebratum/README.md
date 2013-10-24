@@ -1,5 +1,4 @@
-Thelotrema subterebratum Nyl. SPECIES
-=======
+# Thelotrema subterebratum Nyl. SPECIES
 
 #### Status
 ACCEPTED

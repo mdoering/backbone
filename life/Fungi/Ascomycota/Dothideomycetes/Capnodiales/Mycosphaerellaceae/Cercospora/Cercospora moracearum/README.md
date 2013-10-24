@@ -1,5 +1,4 @@
-Cercospora moracearum A.N. Rai & Kamal SPECIES
-=======
+# Cercospora moracearum A.N. Rai & Kamal SPECIES
 
 #### Status
 ACCEPTED

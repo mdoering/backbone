@@ -1,5 +1,4 @@
-Lecidea glebaria Stizenb. SPECIES
-=======
+# Lecidea glebaria Stizenb. SPECIES
 
 #### Status
 ACCEPTED

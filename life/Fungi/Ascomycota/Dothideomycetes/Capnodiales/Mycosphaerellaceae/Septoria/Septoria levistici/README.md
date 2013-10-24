@@ -1,5 +1,4 @@
-Septoria levistici Westend. SPECIES
-=======
+# Septoria levistici Westend. SPECIES
 
 #### Status
 ACCEPTED

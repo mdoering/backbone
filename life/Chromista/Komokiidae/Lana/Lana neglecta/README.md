@@ -1,5 +1,4 @@
-Lana neglecta Tendal & Hessler, 1977 SPECIES
-=======
+# Lana neglecta Tendal & Hessler, 1977 SPECIES
 
 #### Status
 ACCEPTED

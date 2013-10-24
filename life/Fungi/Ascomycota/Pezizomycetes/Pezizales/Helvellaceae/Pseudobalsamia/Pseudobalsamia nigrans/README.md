@@ -1,17 +1,16 @@
-Pseudobalsamia nigrens (Harkn.) Gilkey SPECIES
-=======
+# Pseudobalsamia nigrans (Harkn.) Gilkey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fl. (New York), Ser. 2 1: 18 (1954)
 
 #### Original name
-Balsamia nigrens Harkn.
+Balsamia nigrans Harkn.
 
 ### Remarks
 null

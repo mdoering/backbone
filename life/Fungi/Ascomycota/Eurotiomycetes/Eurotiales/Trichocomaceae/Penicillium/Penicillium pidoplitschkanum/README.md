@@ -1,5 +1,4 @@
-Penicillium pidoplitschkanum Chalab. SPECIES
-=======
+# Penicillium pidoplitschkanum Chalab. SPECIES
 
 #### Status
 ACCEPTED

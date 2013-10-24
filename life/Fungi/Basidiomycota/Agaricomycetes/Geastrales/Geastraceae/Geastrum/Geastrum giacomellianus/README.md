@@ -1,8 +1,7 @@
-Geaster giacomellianus Speg. SPECIES
-=======
+# Geastrum giacomellianus Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster giacomellianus Speg.
+Geastrum giacomellianus Speg.
 
 ### Remarks
 null

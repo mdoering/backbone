@@ -1,5 +1,4 @@
-Lecania erysibopsis (Nyl.) Zahlbr. SPECIES
-=======
+# Lecania erysibopsis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

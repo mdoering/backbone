@@ -1,5 +1,4 @@
-Colletotrichum kickxiae Verwoerd & Du Plessis SPECIES
-=======
+# Colletotrichum kickxiae Verwoerd & Du Plessis SPECIES
 
 #### Status
 ACCEPTED

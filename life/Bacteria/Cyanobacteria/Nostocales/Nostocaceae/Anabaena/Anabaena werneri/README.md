@@ -1,5 +1,4 @@
-Anabaena werneri Brunnthaler SPECIES
-=======
+# Anabaena werneri Brunnthaler SPECIES
 
 #### Status
 ACCEPTED

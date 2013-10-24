@@ -1,14 +1,13 @@
-Pholiota funariophila (M.M. Moser) E. Ludw., 2001 SPECIES
-=======
+# Pachylepyrium funariophilum (M.M. Moser) Singer, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pilzkompendium (Eching) 1([2]): 553 (2001)
+null
 
 #### Original name
 Pholiotina funariophila M.M. Moser, 1953

@@ -1,5 +1,4 @@
-Halegrapha chimaera Rivas Plata & Lücking SPECIES
-=======
+# Halegrapha chimaera Rivas Plata & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobaria americana Vain. SPECIES
-=======
+# Lobaria americana Vain. SPECIES
 
 #### Status
 ACCEPTED

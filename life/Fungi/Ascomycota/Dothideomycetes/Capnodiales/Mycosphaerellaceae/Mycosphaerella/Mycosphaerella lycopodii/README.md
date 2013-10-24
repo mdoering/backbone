@@ -1,5 +1,4 @@
-Mycosphaerella lycopodii (Peck) House SPECIES
-=======
+# Mycosphaerella lycopodii (Peck) House SPECIES
 
 #### Status
 ACCEPTED

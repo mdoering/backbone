@@ -1,5 +1,4 @@
-Mycosphaerella sequoiae Bonar SPECIES
-=======
+# Mycosphaerella sequoiae Bonar SPECIES
 
 #### Status
 ACCEPTED

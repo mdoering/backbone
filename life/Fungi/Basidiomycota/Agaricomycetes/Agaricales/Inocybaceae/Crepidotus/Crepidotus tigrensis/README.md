@@ -1,5 +1,4 @@
-Crepidotus tigrensis var. tigrensis Speg. VARIETY
-=======
+# Crepidotus tigrensis Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Crepidotus tigrensis var. tigrensis Speg.
+Crepidotus tigrensis Speg.
 
 ### Remarks
 null

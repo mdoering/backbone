@@ -1,5 +1,4 @@
-Hymenelia arctica (Lynge) Lutzoni SPECIES
-=======
+# Hymenelia arctica (Lynge) Lutzoni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trechispora incisa K.H. Larss., 1996 SPECIES
-=======
+# Trechispora incisa K.H. Larss., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon bellii Peck SPECIES
-=======
+# Lycoperdon bellii Peck SPECIES
 
 #### Status
 ACCEPTED

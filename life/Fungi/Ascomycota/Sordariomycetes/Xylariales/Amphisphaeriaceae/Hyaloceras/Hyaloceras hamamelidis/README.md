@@ -1,5 +1,4 @@
-Hyaloceras hamamelidis Dearn. SPECIES
-=======
+# Hyaloceras hamamelidis Dearn. SPECIES
 
 #### Status
 ACCEPTED

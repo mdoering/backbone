@@ -1,5 +1,4 @@
-Thelohania maenadis Perez SPECIES
-=======
+# Thelohania maenadis Perez SPECIES
 
 #### Status
 ACCEPTED

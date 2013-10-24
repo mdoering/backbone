@@ -1,5 +1,4 @@
-Skujapelta W.T. Hall & G. Claus, 1967 GENUS
-=======
+# Skujapelta W.T. Hall & G. Claus, 1967 GENUS
 
 #### Status
 ACCEPTED

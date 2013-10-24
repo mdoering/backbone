@@ -1,5 +1,4 @@
-Haematomma brassii C.W. Dodge SPECIES
-=======
+# Haematomma brassii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

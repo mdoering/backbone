@@ -1,5 +1,4 @@
-Dobrogelina Neagu, 1979 GENUS
-=======
+# Dobrogelina Neagu, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Callopisma aurantiacum var. aurantiacum VARIETY
-=======
+# Callopisma aurantiacum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora cascadensis var. tortuosa H. Magn. VARIETY
-=======
+# Lecanora cascadensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora cascadensis var. tortuosa H. Magn.
+Lecanora cascadensis H. Magn.
 
 ### Remarks
 null

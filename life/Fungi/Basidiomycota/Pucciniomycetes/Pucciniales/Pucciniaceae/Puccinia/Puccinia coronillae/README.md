@@ -1,5 +1,4 @@
-Puccinia coronillae Woron. SPECIES
-=======
+# Puccinia coronillae Woron. SPECIES
 
 #### Status
 ACCEPTED

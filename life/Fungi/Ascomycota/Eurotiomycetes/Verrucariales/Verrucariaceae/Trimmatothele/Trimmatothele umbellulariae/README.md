@@ -1,5 +1,4 @@
-Trimmatothele umbellulariae Herre SPECIES
-=======
+# Trimmatothele umbellulariae Herre SPECIES
 
 #### Status
 ACCEPTED

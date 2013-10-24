@@ -1,5 +1,4 @@
-Diplodiella crustacea (P. Karst.) Sacc. SPECIES
-=======
+# Diplodiella crustacea (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

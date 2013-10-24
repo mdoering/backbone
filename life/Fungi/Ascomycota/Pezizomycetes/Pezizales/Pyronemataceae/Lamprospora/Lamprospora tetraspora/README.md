@@ -1,5 +1,4 @@
-Lamprospora tetraspora Hansf. SPECIES
-=======
+# Lamprospora tetraspora Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haploravenelia mesillana (Ellis & Barthol.) Syd. SPECIES
-=======
+# Haploravenelia mesillana (Ellis & Barthol.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protomyces carpogenus Sacc. SPECIES
-=======
+# Protomyces carpogenus Sacc. SPECIES
 
 #### Status
 ACCEPTED

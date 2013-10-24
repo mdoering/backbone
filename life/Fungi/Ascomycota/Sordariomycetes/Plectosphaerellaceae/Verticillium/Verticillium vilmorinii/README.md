@@ -1,17 +1,16 @@
-Acrostalagmus vilmorinii f. vilmorinii Guég. FORM
-=======
+# Verticillium vilmorinii (Guég.) Westerd. & Luijk, 1924 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Meded. Phytopath. Labor. Willie Commelin Scholten Baarn 8: 48 (1924)
 
 #### Original name
-Acrostalagmus vilmorinii f. vilmorinii Guég.
+Acrostalagmus vilmorinii Guég., 1906
 
 ### Remarks
 null

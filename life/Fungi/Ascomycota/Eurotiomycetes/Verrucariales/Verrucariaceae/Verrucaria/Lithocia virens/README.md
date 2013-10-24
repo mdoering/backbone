@@ -1,5 +1,4 @@
-Lithocia virens (Nyl.) Flagey SPECIES
-=======
+# Lithocia virens (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

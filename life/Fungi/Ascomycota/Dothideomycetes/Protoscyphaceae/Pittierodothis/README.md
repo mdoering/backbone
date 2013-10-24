@@ -1,5 +1,4 @@
-Pittierodothis GENUS
-=======
+# Pittierodothis GENUS
 
 #### Status
 ACCEPTED

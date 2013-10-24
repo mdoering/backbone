@@ -1,5 +1,4 @@
-Boletus cruentus Vent. SPECIES
-=======
+# Boletus cruentus Vent. SPECIES
 
 #### Status
 ACCEPTED

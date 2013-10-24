@@ -1,5 +1,4 @@
-Buellia epiconcolor Bagl. & Carestia SPECIES
-=======
+# Buellia epiconcolor Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

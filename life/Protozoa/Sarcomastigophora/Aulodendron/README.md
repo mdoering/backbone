@@ -1,5 +1,4 @@
-Aulodendron Haeckel, 1887 GENUS
-=======
+# Aulodendron Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

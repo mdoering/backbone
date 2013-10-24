@@ -1,5 +1,4 @@
-Ocellularia siamensis (Vain.) Zahlbr. SPECIES
-=======
+# Ocellularia siamensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

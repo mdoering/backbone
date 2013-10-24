@@ -1,5 +1,4 @@
-Dimacrocaryon brasilinese Vdacny & Foissner, 2011 SPECIES
-=======
+# Dimacrocaryon brasilinese Vdacny & Foissner, 2011 SPECIES
 
 #### Status
 ACCEPTED

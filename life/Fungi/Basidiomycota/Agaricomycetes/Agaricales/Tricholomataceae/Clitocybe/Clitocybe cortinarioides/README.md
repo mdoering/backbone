@@ -1,5 +1,4 @@
-Clitocybe cortinarioides Murrill SPECIES
-=======
+# Clitocybe cortinarioides Murrill SPECIES
 
 #### Status
 ACCEPTED

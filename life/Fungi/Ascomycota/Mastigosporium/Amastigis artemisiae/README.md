@@ -1,5 +1,4 @@
-Amastigis artemisiae Sawada SPECIES
-=======
+# Amastigis artemisiae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemphylium alboatrum P. Karst. SPECIES
-=======
+# Stemphylium alboatrum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

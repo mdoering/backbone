@@ -1,5 +1,4 @@
-Ellerbeckia Crawford GENUS
-=======
+# Ellerbeckia Crawford GENUS
 
 #### Status
 ACCEPTED

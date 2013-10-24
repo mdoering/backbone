@@ -1,8 +1,7 @@
-Nocardia pinensis Blackall et al., 1989 SPECIES
-=======
+# Skermania piniformis (Blackall et al., 1989) Chun et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

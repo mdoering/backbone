@@ -1,5 +1,4 @@
-Himantia nitens Pers., 1822 SPECIES
-=======
+# Himantia nitens Pers., 1822 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida diospyri F.Y. Bai & H.Z. Lu SPECIES
-=======
+# Candida diospyri F.Y. Bai & H.Z. Lu SPECIES
 
 #### Status
 ACCEPTED

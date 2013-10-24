@@ -1,14 +1,13 @@
-Pseudocercospora styracae (Chupp) Y.L. Guo & W.X. Zhao SPECIES
-=======
+# Pseudocercospora styracis (Chupp) Y.L. Guo & W.X. Zhao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycol. Sin. 12(3): 195 (1993)
 
 #### Original name
 Cercospora styracis Chupp

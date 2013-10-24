@@ -1,17 +1,16 @@
-Hypoxylon carabayanse Mont. SPECIES
-=======
+# Hypoxylon carabayense Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 5: 372 (1856)
+null
 
 #### Original name
-Hypoxylon carabayanse Mont.
+Hypoxylon carabayense Mont.
 
 ### Remarks
 null

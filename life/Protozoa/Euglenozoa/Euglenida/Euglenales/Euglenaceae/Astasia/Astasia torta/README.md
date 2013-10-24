@@ -1,5 +1,4 @@
-Astasia torta E. G. Pringsheim SPECIES
-=======
+# Astasia torta E. G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

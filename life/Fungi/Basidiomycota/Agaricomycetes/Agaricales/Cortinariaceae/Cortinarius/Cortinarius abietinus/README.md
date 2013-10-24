@@ -1,5 +1,4 @@
-Cortinarius abietinus (Velen.) J. Favre ex Bon SPECIES
-=======
+# Cortinarius abietinus (Velen.) J. Favre ex Bon SPECIES
 
 #### Status
 ACCEPTED

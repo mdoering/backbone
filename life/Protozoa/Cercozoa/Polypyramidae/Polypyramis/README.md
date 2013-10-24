@@ -1,5 +1,4 @@
-Polypyramis Dogiel & Resetnjak, 1952 GENUS
-=======
+# Polypyramis Dogiel & Resetnjak, 1952 GENUS
 
 #### Status
 ACCEPTED

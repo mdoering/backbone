@@ -1,5 +1,4 @@
-Aspicilia dubertretii (Werner) S.Y. Kondr. SPECIES
-=======
+# Aspicilia dubertretii (Werner) S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

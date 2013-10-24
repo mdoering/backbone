@@ -1,5 +1,4 @@
-Fenestella bambusicola Teng SPECIES
-=======
+# Fenestella bambusicola Teng SPECIES
 
 #### Status
 ACCEPTED

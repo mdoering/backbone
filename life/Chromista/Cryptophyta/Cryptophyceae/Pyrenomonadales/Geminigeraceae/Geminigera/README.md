@@ -1,5 +1,4 @@
-Geminigera D.R.A.Hill, 1991 GENUS
-=======
+# Geminigera D.R.A.Hill, 1991 GENUS
 
 #### Status
 ACCEPTED

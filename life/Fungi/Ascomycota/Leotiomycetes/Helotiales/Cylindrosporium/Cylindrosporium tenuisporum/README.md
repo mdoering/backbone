@@ -1,5 +1,4 @@
-Cylindrosporium tenuisporum Heald & F.A. Wolf SPECIES
-=======
+# Cylindrosporium tenuisporum Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella lyoniae Schmied. SPECIES
-=======
+# Asteridiella lyoniae Schmied. SPECIES
 
 #### Status
 ACCEPTED

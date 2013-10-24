@@ -1,5 +1,4 @@
-Ombrophila extumescens P. Karst. SPECIES
-=======
+# Ombrophila extumescens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassomonas loyana Thompson et al., 2006 SPECIES
-=======
+# Thalassomonas loyana Thompson et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

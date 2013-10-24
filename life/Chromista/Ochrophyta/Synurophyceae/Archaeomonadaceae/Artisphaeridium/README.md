@@ -1,5 +1,4 @@
-Artisphaeridium Stradner GENUS
-=======
+# Artisphaeridium Stradner GENUS
 
 #### Status
 ACCEPTED

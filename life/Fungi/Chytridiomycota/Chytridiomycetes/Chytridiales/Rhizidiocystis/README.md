@@ -1,5 +1,4 @@
-Rhizidiocystis Sideris GENUS
-=======
+# Rhizidiocystis Sideris GENUS
 
 #### Status
 ACCEPTED

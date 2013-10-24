@@ -1,5 +1,4 @@
-Asterina brasiliensis G. Winter SPECIES
-=======
+# Asterina brasiliensis G. Winter SPECIES
 
 #### Status
 ACCEPTED

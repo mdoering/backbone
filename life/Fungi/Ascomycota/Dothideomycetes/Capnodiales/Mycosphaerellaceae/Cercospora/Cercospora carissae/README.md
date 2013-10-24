@@ -1,5 +1,4 @@
-Cercospora carissae Harsch, V. Nath, C.K. Tiwari & Rehill SPECIES
-=======
+# Cercospora carissae Harsch, V. Nath, C.K. Tiwari & Rehill SPECIES
 
 #### Status
 ACCEPTED

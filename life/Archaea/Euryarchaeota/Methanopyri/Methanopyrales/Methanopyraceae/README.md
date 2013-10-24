@@ -1,5 +1,4 @@
-Methanopyraceae FAMILY
-=======
+# Methanopyraceae FAMILY
 
 #### Status
 ACCEPTED

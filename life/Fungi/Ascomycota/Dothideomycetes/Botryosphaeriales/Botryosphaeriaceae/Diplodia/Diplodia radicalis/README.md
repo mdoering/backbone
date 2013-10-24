@@ -1,5 +1,4 @@
-Diplodia radicalis Sacc. SPECIES
-=======
+# Diplodia radicalis Sacc. SPECIES
 
 #### Status
 ACCEPTED

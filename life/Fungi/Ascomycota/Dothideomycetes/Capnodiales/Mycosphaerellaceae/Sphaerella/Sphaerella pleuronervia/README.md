@@ -1,5 +1,4 @@
-Sphaerella pleuronervia (De Not.) Ces. & De Not. SPECIES
-=======
+# Sphaerella pleuronervia (De Not.) Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

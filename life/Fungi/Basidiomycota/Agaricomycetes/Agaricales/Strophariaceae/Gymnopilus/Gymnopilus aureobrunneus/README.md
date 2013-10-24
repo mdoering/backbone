@@ -1,5 +1,4 @@
-Gymnopilus aureobrunneus (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Gymnopilus aureobrunneus (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

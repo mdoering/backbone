@@ -1,5 +1,4 @@
-Mycena albororida Maas Geest. & de Meijer SPECIES
-=======
+# Mycena albororida Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

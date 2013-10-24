@@ -1,5 +1,4 @@
-Phacellula Syd. GENUS
-=======
+# Phacellula Syd. GENUS
 
 #### Status
 ACCEPTED

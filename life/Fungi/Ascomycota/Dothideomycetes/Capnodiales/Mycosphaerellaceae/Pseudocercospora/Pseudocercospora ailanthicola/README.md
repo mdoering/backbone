@@ -1,5 +1,4 @@
-Pseudocercospora ailanthicola (Patw.) Deighton SPECIES
-=======
+# Pseudocercospora ailanthicola (Patw.) Deighton SPECIES
 
 #### Status
 ACCEPTED

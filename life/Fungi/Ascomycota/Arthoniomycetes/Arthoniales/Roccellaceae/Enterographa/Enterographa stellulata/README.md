@@ -1,5 +1,4 @@
-Enterographa stellulata (Fée) A. Massal. SPECIES
-=======
+# Enterographa stellulata (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

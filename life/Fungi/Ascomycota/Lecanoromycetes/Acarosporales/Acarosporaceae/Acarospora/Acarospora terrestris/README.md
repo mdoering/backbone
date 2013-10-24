@@ -1,5 +1,4 @@
-Acarospora terrestris (Nyl.) H. Magn. SPECIES
-=======
+# Acarospora terrestris (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

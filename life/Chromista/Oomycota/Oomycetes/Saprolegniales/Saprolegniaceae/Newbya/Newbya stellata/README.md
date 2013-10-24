@@ -1,17 +1,16 @@
-Achlya stellata var. stellata de Bary, 1888 VARIETY
-=======
+# Newbya stellata (de Bary) Mark A. Spencer & M.W. Dick, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Spencer, Vick & Dick, Mycol. Res. 106(5): 559 (2002)
 
 #### Original name
-Achlya stellata var. stellata de Bary, 1888
+Achlya stellata de Bary, 1888
 
 ### Remarks
 null

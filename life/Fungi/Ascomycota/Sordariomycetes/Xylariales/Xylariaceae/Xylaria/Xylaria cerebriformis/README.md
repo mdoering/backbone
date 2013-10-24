@@ -1,5 +1,4 @@
-Xylaria cerebriformis Cooke SPECIES
-=======
+# Xylaria cerebriformis Cooke SPECIES
 
 #### Status
 ACCEPTED

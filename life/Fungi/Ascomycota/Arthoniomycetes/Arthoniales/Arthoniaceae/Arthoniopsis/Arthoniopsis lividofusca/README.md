@@ -1,5 +1,4 @@
-Arthoniopsis lividofusca (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Arthoniopsis lividofusca (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium mycophilum Ellis & Langl. SPECIES
-=======
+# Coniosporium mycophilum Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

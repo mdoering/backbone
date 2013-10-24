@@ -1,5 +1,4 @@
-Amoeba verrocosa SPECIES
-=======
+# Amoeba verrocosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta perillae Abramov SPECIES
-=======
+# Ascochyta perillae Abramov SPECIES
 
 #### Status
 ACCEPTED

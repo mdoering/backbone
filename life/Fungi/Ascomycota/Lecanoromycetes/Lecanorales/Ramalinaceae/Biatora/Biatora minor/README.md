@@ -1,5 +1,4 @@
-Biatora minor (Vain.) Räsänen SPECIES
-=======
+# Biatora minor (Vain.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

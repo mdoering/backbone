@@ -1,5 +1,4 @@
-Tintinnus tubulosus Ostenfeld, 1899 SPECIES
-=======
+# Tintinnus tubulosus Ostenfeld, 1899 SPECIES
 
 #### Status
 ACCEPTED

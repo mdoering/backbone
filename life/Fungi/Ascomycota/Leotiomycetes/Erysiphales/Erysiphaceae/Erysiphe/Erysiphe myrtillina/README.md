@@ -1,5 +1,4 @@
-Erysiphe myrtillina (Ficinus & C. Schub.) Fr. SPECIES
-=======
+# Erysiphe myrtillina (Ficinus & C. Schub.) Fr. SPECIES
 
 #### Status
 ACCEPTED

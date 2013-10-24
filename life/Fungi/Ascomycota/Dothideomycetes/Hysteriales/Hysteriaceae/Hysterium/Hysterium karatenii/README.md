@@ -1,5 +1,4 @@
-Hysterium karatenii SPECIES
-=======
+# Hysterium karatenii SPECIES
 
 #### Status
 ACCEPTED

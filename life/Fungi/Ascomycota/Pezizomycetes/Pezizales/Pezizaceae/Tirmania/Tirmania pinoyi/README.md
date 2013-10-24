@@ -1,5 +1,4 @@
-Tirmania pinoyi (Maire) Malençon SPECIES
-=======
+# Tirmania pinoyi (Maire) Malençon SPECIES
 
 #### Status
 ACCEPTED

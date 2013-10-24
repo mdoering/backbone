@@ -1,5 +1,4 @@
-Alternaria varians L. Planchon {?} SPECIES
-=======
+# Alternaria varians L. Planchon {?} SPECIES
 
 #### Status
 ACCEPTED

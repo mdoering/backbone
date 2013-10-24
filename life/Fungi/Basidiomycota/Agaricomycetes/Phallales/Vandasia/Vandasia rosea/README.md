@@ -1,5 +1,4 @@
-Vandasia rosea Velen., 1922 SPECIES
-=======
+# Vandasia rosea Velen., 1922 SPECIES
 
 #### Status
 ACCEPTED

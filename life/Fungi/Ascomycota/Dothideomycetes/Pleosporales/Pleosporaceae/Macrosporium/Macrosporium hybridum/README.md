@@ -1,5 +1,4 @@
-Macrosporium hybridum Ellis & Everh. SPECIES
-=======
+# Macrosporium hybridum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

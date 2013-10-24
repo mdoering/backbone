@@ -1,5 +1,4 @@
-Eutreptiella gymnastica Throndsen SPECIES
-=======
+# Eutreptiella gymnastica Throndsen SPECIES
 
 #### Status
 ACCEPTED

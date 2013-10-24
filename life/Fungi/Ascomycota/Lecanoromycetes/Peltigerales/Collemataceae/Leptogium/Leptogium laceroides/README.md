@@ -1,5 +1,4 @@
-Leptogium laceroides B. de Lesd. SPECIES
-=======
+# Leptogium laceroides B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

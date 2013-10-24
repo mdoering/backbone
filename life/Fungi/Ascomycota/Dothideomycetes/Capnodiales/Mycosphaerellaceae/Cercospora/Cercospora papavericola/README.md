@@ -1,5 +1,4 @@
-Cercospora papavericola Chupp SPECIES
-=======
+# Cercospora papavericola Chupp SPECIES
 
 #### Status
 ACCEPTED

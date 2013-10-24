@@ -1,5 +1,4 @@
-Rhizoctonia nandorii Biradar & Bonde SPECIES
-=======
+# Rhizoctonia nandorii Biradar & Bonde SPECIES
 
 #### Status
 ACCEPTED

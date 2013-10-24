@@ -1,5 +1,4 @@
-Tintinnus mucicola Claparède & Lachmann, 1858 SPECIES
-=======
+# Tintinnus mucicola Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

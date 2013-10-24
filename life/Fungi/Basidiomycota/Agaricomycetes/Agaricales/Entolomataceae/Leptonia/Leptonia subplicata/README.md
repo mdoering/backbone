@@ -1,5 +1,4 @@
-Leptonia subplicata (Hesler) Largent SPECIES
-=======
+# Leptonia subplicata (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

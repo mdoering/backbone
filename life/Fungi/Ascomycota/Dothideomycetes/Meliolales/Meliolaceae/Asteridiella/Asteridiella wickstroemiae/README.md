@@ -1,5 +1,4 @@
-Asteridiella wickstroemiae Petr. SPECIES
-=======
+# Asteridiella wickstroemiae Petr. SPECIES
 
 #### Status
 ACCEPTED

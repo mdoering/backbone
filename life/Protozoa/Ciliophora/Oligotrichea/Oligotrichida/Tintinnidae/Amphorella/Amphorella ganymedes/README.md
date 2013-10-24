@@ -1,5 +1,4 @@
-Amphorella ganymedes Entz, 1884 SPECIES
-=======
+# Amphorella ganymedes Entz, 1884 SPECIES
 
 #### Status
 ACCEPTED

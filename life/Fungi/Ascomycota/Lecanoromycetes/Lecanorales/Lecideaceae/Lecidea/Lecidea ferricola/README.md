@@ -1,5 +1,4 @@
-Lecidea ferricola A.L. Sm. SPECIES
-=======
+# Lecidea ferricola A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

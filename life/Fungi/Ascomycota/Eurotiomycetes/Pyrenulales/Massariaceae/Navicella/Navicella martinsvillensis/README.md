@@ -1,5 +1,4 @@
-Navicella martinsvillensis (Ellis & Everh.) Kuntze SPECIES
-=======
+# Navicella martinsvillensis (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

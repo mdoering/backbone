@@ -1,5 +1,4 @@
-Cercospora fici-septicae Sawada SPECIES
-=======
+# Cercospora fici-septicae Sawada SPECIES
 
 #### Status
 ACCEPTED

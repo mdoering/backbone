@@ -1,5 +1,4 @@
-Polythrix G.Zanardini ex É.Bornet & C.Flahault, 1886 GENUS
-=======
+# Polythrix G.Zanardini ex É.Bornet & C.Flahault, 1886 GENUS
 
 #### Status
 ACCEPTED

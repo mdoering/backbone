@@ -1,5 +1,4 @@
-Arthonia betulicola A. Massal. SPECIES
-=======
+# Arthonia betulicola A. Massal. SPECIES
 
 #### Status
 ACCEPTED

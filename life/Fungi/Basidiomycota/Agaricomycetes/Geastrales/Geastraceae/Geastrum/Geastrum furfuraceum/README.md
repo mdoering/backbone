@@ -1,5 +1,4 @@
-Geastrum furfuraceum P. Ponce de León SPECIES
-=======
+# Geastrum furfuraceum P. Ponce de León SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps tricentri Yasuda SPECIES
-=======
+# Cordyceps tricentri Yasuda SPECIES
 
 #### Status
 ACCEPTED

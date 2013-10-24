@@ -1,5 +1,4 @@
-Septoria macropora Sacc. SPECIES
-=======
+# Septoria macropora Sacc. SPECIES
 
 #### Status
 ACCEPTED

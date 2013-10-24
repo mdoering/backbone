@@ -1,5 +1,4 @@
-Trametes tristis (Pers.) Roum. SPECIES
-=======
+# Trametes tristis (Pers.) Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sydowiellina duckei Bat. & Peres SPECIES
-=======
+# Sydowiellina duckei Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

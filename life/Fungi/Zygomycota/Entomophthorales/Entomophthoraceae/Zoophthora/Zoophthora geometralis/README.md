@@ -1,14 +1,13 @@
-Empusa geometralis Thaxt., 1888 SPECIES
-=======
+# Zoophthora geometralis (Thaxt.) A. Batko, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)
+Bulletin Acad. Polonaise Sci. , Math. et Nat. , Sér. B 12: 404 (1964)
 
 #### Original name
 Empusa geometralis Thaxt., 1888

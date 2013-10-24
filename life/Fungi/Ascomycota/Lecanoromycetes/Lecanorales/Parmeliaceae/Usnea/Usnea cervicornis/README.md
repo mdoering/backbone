@@ -1,5 +1,4 @@
-Usnea cervicornis C.W. Dodge SPECIES
-=======
+# Usnea cervicornis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

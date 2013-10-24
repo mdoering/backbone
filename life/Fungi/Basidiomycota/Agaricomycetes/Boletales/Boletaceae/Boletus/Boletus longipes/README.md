@@ -1,5 +1,4 @@
-Boletus longipes Massee SPECIES
-=======
+# Boletus longipes Massee SPECIES
 
 #### Status
 ACCEPTED

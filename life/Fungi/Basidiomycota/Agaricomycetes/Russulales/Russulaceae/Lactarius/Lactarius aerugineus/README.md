@@ -1,5 +1,4 @@
-Lactarius aerugineus (Lam.) Burl. SPECIES
-=======
+# Lactarius aerugineus (Lam.) Burl. SPECIES
 
 #### Status
 ACCEPTED

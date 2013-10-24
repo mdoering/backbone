@@ -1,5 +1,4 @@
-Lachnella populicola Seaver SPECIES
-=======
+# Lachnella populicola Seaver SPECIES
 
 #### Status
 ACCEPTED

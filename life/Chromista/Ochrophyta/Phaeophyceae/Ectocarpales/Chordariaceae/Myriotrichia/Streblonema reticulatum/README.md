@@ -1,5 +1,4 @@
-Streblonema reticulatum Kraft, 2009 SPECIES
-=======
+# Streblonema reticulatum Kraft, 2009 SPECIES
 
 #### Status
 DOUBTFUL

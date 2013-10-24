@@ -1,5 +1,4 @@
-Lepraria muscorum (B. de Lesd.) Grev. SPECIES
-=======
+# Lepraria muscorum (B. de Lesd.) Grev. SPECIES
 
 #### Status
 ACCEPTED

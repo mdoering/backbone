@@ -1,5 +1,4 @@
-Meliola plectroniae Hansf. SPECIES
-=======
+# Meliola plectroniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

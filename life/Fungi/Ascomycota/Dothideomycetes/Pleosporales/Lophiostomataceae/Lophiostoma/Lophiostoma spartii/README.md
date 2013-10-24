@@ -1,5 +1,4 @@
-Lophiostoma spartii Nitschke SPECIES
-=======
+# Lophiostoma spartii Nitschke SPECIES
 
 #### Status
 ACCEPTED

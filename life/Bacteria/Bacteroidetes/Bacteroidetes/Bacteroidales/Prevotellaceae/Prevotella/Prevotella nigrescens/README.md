@@ -1,5 +1,4 @@
-Prevotella nigrescens Shah & Gharbia, 1992 SPECIES
-=======
+# Prevotella nigrescens Shah & Gharbia, 1992 SPECIES
 
 #### Status
 ACCEPTED

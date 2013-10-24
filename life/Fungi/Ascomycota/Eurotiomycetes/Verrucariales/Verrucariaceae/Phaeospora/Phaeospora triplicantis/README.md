@@ -1,5 +1,4 @@
-Phaeospora triplicantis (Vain.) Zopf SPECIES
-=======
+# Phaeospora triplicantis (Vain.) Zopf SPECIES
 
 #### Status
 ACCEPTED

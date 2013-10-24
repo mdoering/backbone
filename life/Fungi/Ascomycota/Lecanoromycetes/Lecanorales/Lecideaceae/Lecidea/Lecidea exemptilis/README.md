@@ -1,5 +1,4 @@
-Lecidea exemptilis (Arnold) Zahlbr. SPECIES
-=======
+# Lecidea exemptilis (Arnold) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

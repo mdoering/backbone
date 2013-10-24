@@ -1,5 +1,4 @@
-Verrucaria thelenula Nyl. SPECIES
-=======
+# Verrucaria thelenula Nyl. SPECIES
 
 #### Status
 ACCEPTED

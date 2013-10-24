@@ -1,5 +1,4 @@
-Prataprajella turpiniae (W. Yamam.) Hosag. SPECIES
-=======
+# Prataprajella turpiniae (W. Yamam.) Hosag. SPECIES
 
 #### Status
 ACCEPTED

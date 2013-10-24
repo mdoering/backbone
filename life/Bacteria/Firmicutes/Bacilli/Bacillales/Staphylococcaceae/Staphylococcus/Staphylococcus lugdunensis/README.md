@@ -1,5 +1,4 @@
-Staphylococcus lugdunensis Freney et al., 1988 SPECIES
-=======
+# Staphylococcus lugdunensis Freney et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

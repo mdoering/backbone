@@ -1,5 +1,4 @@
-Spathidium namibicola Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Spathidium namibicola Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

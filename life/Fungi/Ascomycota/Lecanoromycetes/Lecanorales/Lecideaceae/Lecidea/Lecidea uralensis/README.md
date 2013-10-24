@@ -1,5 +1,4 @@
-Lecidea uralensis Nyl. SPECIES
-=======
+# Lecidea uralensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

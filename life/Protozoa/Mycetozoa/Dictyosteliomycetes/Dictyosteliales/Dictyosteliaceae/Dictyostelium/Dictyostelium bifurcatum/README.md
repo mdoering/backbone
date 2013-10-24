@@ -1,5 +1,4 @@
-Dictyostelium bifurcatum Cavender, 1976 SPECIES
-=======
+# Dictyostelium bifurcatum Cavender, 1976 SPECIES
 
 #### Status
 ACCEPTED

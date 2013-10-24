@@ -1,5 +1,4 @@
-Amaricoccus kaplicensis Maszenan et al., 1997 SPECIES
-=======
+# Amaricoccus kaplicensis Maszenan et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cercospora salvadorae Maire, 1949 SPECIES
-=======
+# Pseudocercospora salvadorae (Maire) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Botaniste 34: 308 (1949)
+Mycol. Pap. 140: 99 (1976)
 
 #### Original name
 Cercospora salvadorae Maire, 1949

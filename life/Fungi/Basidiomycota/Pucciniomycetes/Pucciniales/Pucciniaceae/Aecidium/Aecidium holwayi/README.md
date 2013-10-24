@@ -1,5 +1,4 @@
-Aecidium holwayi H.S. Jacks. SPECIES
-=======
+# Aecidium holwayi H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

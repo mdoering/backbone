@@ -1,5 +1,4 @@
-Tintinus sulcatus SPECIES
-=======
+# Tintinus sulcatus SPECIES
 
 #### Status
 ACCEPTED

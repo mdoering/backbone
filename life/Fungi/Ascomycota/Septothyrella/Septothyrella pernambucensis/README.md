@@ -1,5 +1,4 @@
-Septothyrella pernambucensis Bat. & Cif. SPECIES
-=======
+# Septothyrella pernambucensis Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

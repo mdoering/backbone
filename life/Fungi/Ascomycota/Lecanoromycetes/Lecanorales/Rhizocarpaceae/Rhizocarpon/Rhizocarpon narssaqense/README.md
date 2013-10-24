@@ -1,17 +1,16 @@
-Rhizocarpon narssaqensis Alstrup SPECIES
-=======
+# Rhizocarpon narssaqense Alstrup SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Alstrup & Hawksworth, Meddr Grønland, Biosc. 31: 60 (1990)
 
 #### Original name
-Rhizocarpon narssaqensis Alstrup
+Rhizocarpon narssaqense Alstrup
 
 ### Remarks
 null

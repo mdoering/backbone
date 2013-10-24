@@ -1,5 +1,4 @@
-Protoerysiphe N. Sharma, R.K. Kar, A. Agarwal & R. Kar GENUS
-=======
+# Protoerysiphe N. Sharma, R.K. Kar, A. Agarwal & R. Kar GENUS
 
 #### Status
 ACCEPTED

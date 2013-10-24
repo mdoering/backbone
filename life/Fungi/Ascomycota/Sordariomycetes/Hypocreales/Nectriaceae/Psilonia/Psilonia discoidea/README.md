@@ -1,5 +1,4 @@
-Psilonia discoidea var. discoidea VARIETY
-=======
+# Psilonia discoidea Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 3 18: 122 (1866)
 
 #### Original name
-Psilonia discoidea var. discoidea
+Psilonia discoidea Berk. & Broome
 
 ### Remarks
 null

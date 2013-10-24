@@ -1,5 +1,4 @@
-Urocystis leucoji Bubák SPECIES
-=======
+# Urocystis leucoji Bubák SPECIES
 
 #### Status
 ACCEPTED

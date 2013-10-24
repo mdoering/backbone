@@ -1,5 +1,4 @@
-Persooniella tetragoniae (McAlpine) Syd. SPECIES
-=======
+# Persooniella tetragoniae (McAlpine) Syd. SPECIES
 
 #### Status
 ACCEPTED

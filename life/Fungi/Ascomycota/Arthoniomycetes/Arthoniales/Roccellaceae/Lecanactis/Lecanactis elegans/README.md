@@ -1,5 +1,4 @@
-Lecanactis elegans Stizenb. SPECIES
-=======
+# Lecanactis elegans Stizenb. SPECIES
 
 #### Status
 ACCEPTED

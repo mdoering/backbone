@@ -1,5 +1,4 @@
-Asteroma deflectens P. Karst. SPECIES
-=======
+# Asteroma deflectens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

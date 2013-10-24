@@ -1,5 +1,4 @@
-Arthrobotrys indica (Chowdhry & Bahl) M. Scholler, Hagedorn & A. Rubner SPECIES
-=======
+# Arthrobotrys indica (Chowdhry & Bahl) M. Scholler, Hagedorn & A. Rubner SPECIES
 
 #### Status
 ACCEPTED

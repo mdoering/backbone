@@ -1,5 +1,4 @@
-Meliola echinata Gaillard SPECIES
-=======
+# Meliola echinata Gaillard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialea ceratina (Berk.) Sacc. SPECIES
-=======
+# Phialea ceratina (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

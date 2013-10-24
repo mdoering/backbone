@@ -1,5 +1,4 @@
-Haplophragmoides Cushman, 1910 GENUS
-=======
+# Haplophragmoides Cushman, 1910 GENUS
 
 #### Status
 ACCEPTED

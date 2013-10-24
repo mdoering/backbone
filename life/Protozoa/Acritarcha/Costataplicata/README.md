@@ -1,5 +1,4 @@
-Costataplicata C. Downie, 1974 GENUS
-=======
+# Costataplicata C. Downie, 1974 GENUS
 
 #### Status
 ACCEPTED

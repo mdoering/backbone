@@ -1,17 +1,16 @@
-Tretospora thetei Hosag., T.K. Abraham, N. Ahmad & A.K. Sarbhoy SPECIES
-=======
+# Tretospora thitei Hosag., T.K. Abraham, N. Ahmad & A.K. Sarbhoy, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Indian Phytopath. 51(4): 387 (1999)
 
 #### Original name
-Tretospora thetei Hosag., T.K. Abraham, N. Ahmad & A.K. Sarbhoy
+Tretospora thitei Hosag., T.K. Abraham, N. Ahmad & A.K. Sarbhoy, 1999
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Septoria undulispora Bubák SPECIES
-=======
+# Septoria undulispora Bubák SPECIES
 
 #### Status
 ACCEPTED

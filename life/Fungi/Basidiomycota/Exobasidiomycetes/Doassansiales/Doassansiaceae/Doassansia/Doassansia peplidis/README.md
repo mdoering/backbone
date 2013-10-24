@@ -1,5 +1,4 @@
-Doassansia peplidis Bubák SPECIES
-=======
+# Doassansia peplidis Bubák SPECIES
 
 #### Status
 ACCEPTED

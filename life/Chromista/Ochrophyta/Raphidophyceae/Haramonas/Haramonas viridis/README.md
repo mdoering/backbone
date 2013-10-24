@@ -1,5 +1,4 @@
-Haramonas viridis Horiguchi, T. & Hoppenrath, M. SPECIES
-=======
+# Haramonas viridis Horiguchi, T. & Hoppenrath, M. SPECIES
 
 #### Status
 ACCEPTED

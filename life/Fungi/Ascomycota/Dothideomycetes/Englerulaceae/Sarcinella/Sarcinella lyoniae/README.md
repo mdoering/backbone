@@ -1,5 +1,4 @@
-Sarcinella lyoniae Hosag., J. Thomas & P.J. Robin SPECIES
-=======
+# Sarcinella lyoniae Hosag., J. Thomas & P.J. Robin SPECIES
 
 #### Status
 ACCEPTED

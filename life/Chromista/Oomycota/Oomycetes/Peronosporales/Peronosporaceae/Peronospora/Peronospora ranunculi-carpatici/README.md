@@ -1,5 +1,4 @@
-Peronospora ranunculi-carpatici Savul. & Rayss SPECIES
-=======
+# Peronospora ranunculi-carpatici Savul. & Rayss SPECIES
 
 #### Status
 ACCEPTED

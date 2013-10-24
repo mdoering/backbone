@@ -1,5 +1,4 @@
-Hypotrachyna tariensis Elix SPECIES
-=======
+# Hypotrachyna tariensis Elix SPECIES
 
 #### Status
 ACCEPTED

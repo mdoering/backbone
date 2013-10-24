@@ -1,5 +1,4 @@
-Leptomassaria americana Petr. SPECIES
-=======
+# Leptomassaria americana Petr. SPECIES
 
 #### Status
 ACCEPTED

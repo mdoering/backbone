@@ -1,5 +1,4 @@
-Pseudogibellula coleoptera ined. SPECIES
-=======
+# Pseudogibellula coleoptera ined. SPECIES
 
 #### Status
 ACCEPTED

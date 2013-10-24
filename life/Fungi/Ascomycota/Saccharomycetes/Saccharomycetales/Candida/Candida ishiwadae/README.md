@@ -1,5 +1,4 @@
-Candida ishiwadae Sugiy. & Goto, 1969 SPECIES
-=======
+# Candida ishiwadae Sugiy. & Goto, 1969 SPECIES
 
 #### Status
 ACCEPTED

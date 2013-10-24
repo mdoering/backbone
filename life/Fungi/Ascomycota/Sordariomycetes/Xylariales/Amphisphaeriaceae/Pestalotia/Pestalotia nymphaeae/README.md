@@ -1,5 +1,4 @@
-Pestalotia nymphaeae Maire SPECIES
-=======
+# Pestalotia nymphaeae Maire SPECIES
 
 #### Status
 ACCEPTED

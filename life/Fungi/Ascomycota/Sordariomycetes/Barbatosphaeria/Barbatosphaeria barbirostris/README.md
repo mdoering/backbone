@@ -1,14 +1,13 @@
-Amphitrichum barbirostre (Dufour) Kuntze, 1898 SPECIES
-=======
+# Barbatosphaeria barbirostris (Dufour) Réblová, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 443 (1898)
+Mycologia 99(5): 727 (2008)
 
 #### Original name
 Sphaeria barbirostris Dufour, 1820

@@ -1,17 +1,16 @@
-Phomopsis rossiana Sacc., 1906 SPECIES
-=======
+# Diaporthe woodii Punith., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 18: 265 (1906)
+Mycol. Pap. 136: 51 (1974)
 
 #### Original name
-Phomopsis rossiana Sacc., 1906
+Diaporthe woodii Punith., 1974
 
 ### Remarks
 null

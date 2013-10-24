@@ -1,5 +1,4 @@
-Chiodecton endococcineum Vain. SPECIES
-=======
+# Chiodecton endococcineum Vain. SPECIES
 
 #### Status
 ACCEPTED

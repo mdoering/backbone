@@ -1,14 +1,13 @@
-Antennularia pinophila (Nees) Farl., 1905 SPECIES
-=======
+# Capnophialophora pinophila (Nees) Borowska, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bibliogr. Index 223 (1905)
+Acta Mycologica, Warszawa 7(1): 100 (1971)
 
 #### Original name
 Antennaria pinophila Nees, 1816

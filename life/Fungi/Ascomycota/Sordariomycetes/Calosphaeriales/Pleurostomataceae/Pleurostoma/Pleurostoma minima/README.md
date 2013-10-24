@@ -1,5 +1,4 @@
-Pleurostoma minima (Tul. & C. Tul.) M.E. Barr SPECIES
-=======
+# Pleurostoma minima (Tul. & C. Tul.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

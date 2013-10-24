@@ -1,17 +1,16 @@
-Pyramis Colani, 1924 GENUS
-=======
+# Colaniella Licharew, 1939 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mém. Serv. Géol. Indo-Chine, 11, 181.
+Atlas leading forms fossil faunas U. S. S. R. , 6, 31.
 
 #### Original name
-null
+Pyramis Colani, 1924
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sporopodium hossei Vain. SPECIES
-=======
+# Sporopodium hossei Vain. SPECIES
 
 #### Status
 ACCEPTED

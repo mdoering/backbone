@@ -1,5 +1,4 @@
-Oidium compactum Cooke & Ellis SPECIES
-=======
+# Oidium compactum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

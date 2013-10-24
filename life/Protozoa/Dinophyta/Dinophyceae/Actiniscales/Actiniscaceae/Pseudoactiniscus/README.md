@@ -1,5 +1,4 @@
-Pseudoactiniscus Bursa, 1969 GENUS
-=======
+# Pseudoactiniscus Bursa, 1969 GENUS
 
 #### Status
 ACCEPTED

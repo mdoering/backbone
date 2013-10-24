@@ -1,5 +1,4 @@
-Stropharia ochreata (Holmsk.) Fr. SPECIES
-=======
+# Stropharia ochreata (Holmsk.) Fr. SPECIES
 
 #### Status
 ACCEPTED

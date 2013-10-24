@@ -1,5 +1,4 @@
-Uredo maculans Pat. SPECIES
-=======
+# Uredo maculans Pat. SPECIES
 
 #### Status
 ACCEPTED

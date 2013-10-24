@@ -1,5 +1,4 @@
-Pertusaria ramuensis A.W. Archer & Elix SPECIES
-=======
+# Pertusaria ramuensis A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

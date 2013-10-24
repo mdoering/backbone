@@ -1,5 +1,4 @@
-Anthostomella scirpi B.S. Lu & K.D. Hyde, 2000 SPECIES
-=======
+# Anthostomella scirpi B.S. Lu & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

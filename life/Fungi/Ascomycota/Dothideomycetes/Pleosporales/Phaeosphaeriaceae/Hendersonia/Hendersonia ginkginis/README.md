@@ -1,5 +1,4 @@
-Hendersonia ginkginis Naito SPECIES
-=======
+# Hendersonia ginkginis Naito SPECIES
 
 #### Status
 ACCEPTED

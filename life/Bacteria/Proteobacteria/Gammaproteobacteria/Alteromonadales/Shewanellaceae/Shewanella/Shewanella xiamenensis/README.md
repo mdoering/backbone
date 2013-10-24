@@ -1,5 +1,4 @@
-Shewanella xiamenensis Huang, Sun & Zhang, 2010 SPECIES
-=======
+# Shewanella xiamenensis Huang, Sun & Zhang, 2010 SPECIES
 
 #### Status
 ACCEPTED

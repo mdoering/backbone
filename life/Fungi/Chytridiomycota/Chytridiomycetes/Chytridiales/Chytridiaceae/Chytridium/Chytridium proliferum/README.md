@@ -1,5 +1,4 @@
-Chytridium proliferum Karling, 1968 SPECIES
-=======
+# Chytridium proliferum Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED

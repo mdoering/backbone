@@ -1,5 +1,4 @@
-Cellypha musicola (Berk. & M.A. Curtis) W.B. Cooke SPECIES
-=======
+# Cellypha musicola (Berk. & M.A. Curtis) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

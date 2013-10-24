@@ -1,5 +1,4 @@
-Fischerula subcaulis Trappe, 1975 SPECIES
-=======
+# Fischerula subcaulis Trappe, 1975 SPECIES
 
 #### Status
 ACCEPTED

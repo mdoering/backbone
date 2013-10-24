@@ -1,5 +1,4 @@
-Parmelia lindsayana Øvstedal & Elix SPECIES
-=======
+# Parmelia lindsayana Øvstedal & Elix SPECIES
 
 #### Status
 ACCEPTED

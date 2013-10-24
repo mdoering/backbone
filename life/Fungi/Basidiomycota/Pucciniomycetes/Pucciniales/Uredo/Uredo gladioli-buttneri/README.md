@@ -1,5 +1,4 @@
-Uredo gladioli-buttneri Bubák SPECIES
-=======
+# Uredo gladioli-buttneri Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Calothyriopeltis anonae Bat. & Gayão SPECIES
-=======
+# Calothyriopeltis annonae Bat. & Gayão SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calothyriopeltis anonae Bat. & Gayão
+Calothyriopeltis annonae Bat. & Gayão
 
 ### Remarks
 null

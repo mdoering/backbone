@@ -1,5 +1,4 @@
-Verrucaria palmarum Kremp. SPECIES
-=======
+# Verrucaria palmarum Kremp. SPECIES
 
 #### Status
 ACCEPTED

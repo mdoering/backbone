@@ -1,5 +1,4 @@
-Caloplaca asekremensis (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca asekremensis (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

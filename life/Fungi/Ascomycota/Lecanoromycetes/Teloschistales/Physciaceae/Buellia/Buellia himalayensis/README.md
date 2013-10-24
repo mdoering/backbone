@@ -1,5 +1,4 @@
-Buellia himalayensis (S. R. Singh & D. D. Awasthi) A. Nordin SPECIES
-=======
+# Buellia himalayensis (S. R. Singh & D. D. Awasthi) A. Nordin SPECIES
 
 #### Status
 ACCEPTED

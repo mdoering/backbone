@@ -1,5 +1,4 @@
-Trimmatostroma padi Rostr. SPECIES
-=======
+# Trimmatostroma padi Rostr. SPECIES
 
 #### Status
 ACCEPTED

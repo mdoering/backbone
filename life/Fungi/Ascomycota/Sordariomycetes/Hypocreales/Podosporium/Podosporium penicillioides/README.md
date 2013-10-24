@@ -1,17 +1,16 @@
-Podosporium penicilloides P. Karst. & Roum. SPECIES
-=======
+# Podosporium penicillioides P. Karst. & Roum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 12: 78 (1890)
 
 #### Original name
-Podosporium penicilloides P. Karst. & Roum.
+Podosporium penicillioides P. Karst. & Roum.
 
 ### Remarks
 null

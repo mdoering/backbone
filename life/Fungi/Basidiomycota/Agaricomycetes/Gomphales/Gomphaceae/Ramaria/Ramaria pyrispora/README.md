@@ -1,5 +1,4 @@
-Ramaria pyrispora R.H. Petersen & Watling, 1989 SPECIES
-=======
+# Ramaria pyrispora R.H. Petersen & Watling, 1989 SPECIES
 
 #### Status
 ACCEPTED

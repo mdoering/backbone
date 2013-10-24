@@ -1,5 +1,4 @@
-Lentaria pinicola var. pinicola VARIETY
-=======
+# Lentaria pinicola (Burt) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Elisha Mitchell scient. Soc. 90(2): 66 (1974)
 
 #### Original name
-Lentaria pinicola var. pinicola
+Clavaria pinicola Burt
 
 ### Remarks
 null

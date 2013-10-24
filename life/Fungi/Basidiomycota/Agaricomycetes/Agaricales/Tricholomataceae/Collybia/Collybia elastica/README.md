@@ -1,5 +1,4 @@
-Collybia elastica Lasch SPECIES
-=======
+# Collybia elastica Lasch SPECIES
 
 #### Status
 ACCEPTED

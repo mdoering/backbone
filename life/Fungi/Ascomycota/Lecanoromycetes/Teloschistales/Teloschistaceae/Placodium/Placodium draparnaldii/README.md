@@ -1,5 +1,4 @@
-Placodium draparnaldii Gratel. {?} SPECIES
-=======
+# Placodium draparnaldii Gratel. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drepanispora M.J. Berkeley & M.A. Curtis ex M.J. Berkeley, 1875 GENUS
-=======
+# Drepanispora M.J. Berkeley & M.A. Curtis ex M.J. Berkeley, 1875 GENUS
 
 #### Status
 ACCEPTED

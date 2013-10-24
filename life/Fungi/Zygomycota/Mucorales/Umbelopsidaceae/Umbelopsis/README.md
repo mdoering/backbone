@@ -1,17 +1,16 @@
-Micromucor Malchevsk. GENUS
-=======
+# Umbelopsis Amos & H.L. Barnett, 1966 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sydowia 35: 19 (1984)
+null
 
 #### Original name
-Micromucor Malchevsk.
+null
 
 ### Remarks
 null

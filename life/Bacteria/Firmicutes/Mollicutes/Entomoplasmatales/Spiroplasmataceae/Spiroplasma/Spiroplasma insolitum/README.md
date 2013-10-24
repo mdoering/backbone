@@ -1,5 +1,4 @@
-Spiroplasma insolitum Hackett et al., 1993 SPECIES
-=======
+# Spiroplasma insolitum Hackett et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

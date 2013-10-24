@@ -1,5 +1,4 @@
-Cyathus earlei Lloyd, 1906 SPECIES
-=======
+# Cyathus earlei Lloyd, 1906 SPECIES
 
 #### Status
 ACCEPTED

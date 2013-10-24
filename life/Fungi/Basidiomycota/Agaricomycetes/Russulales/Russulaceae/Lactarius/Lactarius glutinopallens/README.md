@@ -1,5 +1,4 @@
-Lactarius glutinopallens var. glutinopallens VARIETY
-=======
+# Lactarius glutinopallens F.H. Møller & J.E. Lange SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fl. Agaric. Danic. 5: 39 (1940)
 
 #### Original name
-Lactarius glutinopallens var. glutinopallens
+Lactarius glutinopallens F.H. Møller & J.E. Lange
 
 ### Remarks
 null

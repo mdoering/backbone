@@ -1,5 +1,4 @@
-Sphaceloma siculum Ciccar., 1959 SPECIES
-=======
+# Sphaceloma siculum Ciccar., 1959 SPECIES
 
 #### Status
 ACCEPTED

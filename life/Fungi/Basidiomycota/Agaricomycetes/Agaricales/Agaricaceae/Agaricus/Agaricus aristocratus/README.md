@@ -1,5 +1,4 @@
-Agaricus aristocratus Gulden SPECIES
-=======
+# Agaricus aristocratus Gulden SPECIES
 
 #### Status
 ACCEPTED

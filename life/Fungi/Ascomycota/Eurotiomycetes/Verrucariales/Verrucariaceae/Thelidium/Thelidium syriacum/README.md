@@ -1,5 +1,4 @@
-Thelidium syriacum Werner SPECIES
-=======
+# Thelidium syriacum Werner SPECIES
 
 #### Status
 ACCEPTED

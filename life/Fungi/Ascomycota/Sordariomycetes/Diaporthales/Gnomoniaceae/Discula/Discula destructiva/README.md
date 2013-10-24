@@ -1,5 +1,4 @@
-Discula destructiva Redlin, 1991 SPECIES
-=======
+# Discula destructiva Redlin, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platycola lageniformis SPECIES
-=======
+# Platycola lageniformis SPECIES
 
 #### Status
 ACCEPTED

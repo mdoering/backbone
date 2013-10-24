@@ -1,5 +1,4 @@
-Uredo phormii G. Cunn., 1924 SPECIES
-=======
+# Uredo phormii G. Cunn., 1924 SPECIES
 
 #### Status
 ACCEPTED

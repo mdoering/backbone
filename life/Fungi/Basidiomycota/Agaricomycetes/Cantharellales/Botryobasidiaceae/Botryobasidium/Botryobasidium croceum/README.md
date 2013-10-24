@@ -1,5 +1,4 @@
-Botryobasidium croceum Lentz SPECIES
-=======
+# Botryobasidium croceum Lentz SPECIES
 
 #### Status
 ACCEPTED

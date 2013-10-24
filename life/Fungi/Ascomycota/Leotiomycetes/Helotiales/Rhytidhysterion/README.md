@@ -1,5 +1,4 @@
-Rhytidhysterion Spegazzini, 1881 GENUS
-=======
+# Rhytidhysterion Spegazzini, 1881 GENUS
 
 #### Status
 ACCEPTED

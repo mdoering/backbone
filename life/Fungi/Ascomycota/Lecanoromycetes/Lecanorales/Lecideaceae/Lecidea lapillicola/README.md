@@ -1,5 +1,4 @@
-Lecidea lapillicola Darb. SPECIES
-=======
+# Lecidea lapillicola Darb. SPECIES
 
 #### Status
 ACCEPTED

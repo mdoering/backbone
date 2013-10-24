@@ -1,5 +1,4 @@
-Eutypella chlorina anon. SPECIES
-=======
+# Eutypella chlorina anon. SPECIES
 
 #### Status
 ACCEPTED

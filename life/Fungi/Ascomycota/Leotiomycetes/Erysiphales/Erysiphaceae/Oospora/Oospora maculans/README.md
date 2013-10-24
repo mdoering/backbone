@@ -1,5 +1,4 @@
-Oospora maculans (Bonord.) Sacc. & Voglino SPECIES
-=======
+# Oospora maculans (Bonord.) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

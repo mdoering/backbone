@@ -1,5 +1,4 @@
-Hypospila californica Dearn. & Barthol. SPECIES
-=======
+# Hypospila californica Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

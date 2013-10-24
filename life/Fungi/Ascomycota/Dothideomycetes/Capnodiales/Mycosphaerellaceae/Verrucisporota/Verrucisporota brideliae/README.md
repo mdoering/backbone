@@ -1,5 +1,4 @@
-Verrucisporota brideliae (A.K. Sarbhoy, Hosag. & N. Ahmad) D.E. Shaw & Alcorn SPECIES
-=======
+# Verrucisporota brideliae (A.K. Sarbhoy, Hosag. & N. Ahmad) D.E. Shaw & Alcorn SPECIES
 
 #### Status
 ACCEPTED

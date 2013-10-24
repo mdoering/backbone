@@ -1,5 +1,4 @@
-Caloplaca pseudofulgensia Gaya & Nav.-Ros. SPECIES
-=======
+# Caloplaca pseudofulgensia Gaya & Nav.-Ros. SPECIES
 
 #### Status
 ACCEPTED

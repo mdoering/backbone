@@ -1,5 +1,4 @@
-Plectosporium oratosquillae Duc, Yaguchi & Udagawa, 2009 SPECIES
-=======
+# Plectosporium oratosquillae Duc, Yaguchi & Udagawa, 2009 SPECIES
 
 #### Status
 ACCEPTED

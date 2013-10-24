@@ -1,5 +1,4 @@
-Hendersonia viburni Massa SPECIES
-=======
+# Hendersonia viburni Massa SPECIES
 
 #### Status
 ACCEPTED

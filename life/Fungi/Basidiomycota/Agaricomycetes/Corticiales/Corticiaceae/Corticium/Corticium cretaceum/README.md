@@ -1,5 +1,4 @@
-Corticium cretaceum Romell ex S. Lundell & Nannf. SPECIES
-=======
+# Corticium cretaceum Romell ex S. Lundell & Nannf. SPECIES
 
 #### Status
 ACCEPTED

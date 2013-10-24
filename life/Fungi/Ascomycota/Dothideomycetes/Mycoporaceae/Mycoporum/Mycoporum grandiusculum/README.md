@@ -1,5 +1,4 @@
-Mycoporum grandiusculum (Arnold) Jatta SPECIES
-=======
+# Mycoporum grandiusculum (Arnold) Jatta SPECIES
 
 #### Status
 ACCEPTED

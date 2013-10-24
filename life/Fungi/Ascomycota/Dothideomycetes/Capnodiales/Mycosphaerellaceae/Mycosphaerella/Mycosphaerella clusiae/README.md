@@ -1,14 +1,13 @@
-Sphaerella clusiae (F. Stevens) Sacc., 1928 SPECIES
-=======
+# Mycosphaerella clusiae F. Stevens, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 24(2): 869 (1928)
+Trans. Ill. St. Acad. Sci. 10: 181 (1917)
 
 #### Original name
 Mycosphaerella clusiae F. Stevens, 1917

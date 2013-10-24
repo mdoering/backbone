@@ -1,5 +1,4 @@
-Plagiosphaera helvetica (Rehm) Lar.N. Vassiljeva SPECIES
-=======
+# Plagiosphaera helvetica (Rehm) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

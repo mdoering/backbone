@@ -1,5 +1,4 @@
-Pulveraria GENUS
-=======
+# Pulveraria GENUS
 
 #### Status
 ACCEPTED

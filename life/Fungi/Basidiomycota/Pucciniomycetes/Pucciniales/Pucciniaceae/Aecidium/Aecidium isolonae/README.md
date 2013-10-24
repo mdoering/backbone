@@ -1,5 +1,4 @@
-Aecidium isolonae Gjaerum & D.A. Reid SPECIES
-=======
+# Aecidium isolonae Gjaerum & D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

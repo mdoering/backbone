@@ -1,5 +1,4 @@
-Clostridium thermopalmarium Soh et al., 1991 SPECIES
-=======
+# Clostridium thermopalmarium Soh et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

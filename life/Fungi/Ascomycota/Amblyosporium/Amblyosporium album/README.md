@@ -1,5 +1,4 @@
-Amblyosporium album Richon SPECIES
-=======
+# Amblyosporium album Richon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entomophthora plusiae Giard SPECIES
-=======
+# Entomophthora plusiae Giard SPECIES
 
 #### Status
 ACCEPTED

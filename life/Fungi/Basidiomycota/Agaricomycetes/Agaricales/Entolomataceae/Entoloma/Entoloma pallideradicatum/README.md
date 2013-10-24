@@ -1,5 +1,4 @@
-Entoloma pallideradicatum Hauskn. & Noordel. SPECIES
-=======
+# Entoloma pallideradicatum Hauskn. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

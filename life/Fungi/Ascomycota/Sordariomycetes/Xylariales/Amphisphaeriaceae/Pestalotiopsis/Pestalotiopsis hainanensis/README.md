@@ -1,5 +1,4 @@
-Pestalotiopsis hainanensis A.R. Liu, T. Xu & L.D. Guo SPECIES
-=======
+# Pestalotiopsis hainanensis A.R. Liu, T. Xu & L.D. Guo SPECIES
 
 #### Status
 ACCEPTED

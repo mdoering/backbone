@@ -1,5 +1,4 @@
-Puccinia caricis-montanae f. sp FORM
-=======
+# Puccinia caricis-montanae E. Fisch. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Herb. Boissier 6: 12 (1898)
 
 #### Original name
-Puccinia caricis-montanae f. sp
+Puccinia caricis-montanae E. Fisch.
 
 ### Remarks
 null

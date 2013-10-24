@@ -1,5 +1,4 @@
-Penicillium australicum Sopp ex J.F.H. Beyma SPECIES
-=======
+# Penicillium australicum Sopp ex J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

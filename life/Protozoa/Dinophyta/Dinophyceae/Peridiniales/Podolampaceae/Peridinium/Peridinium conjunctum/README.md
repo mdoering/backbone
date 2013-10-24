@@ -1,5 +1,4 @@
-Peridinium conjunctum SPECIES
-=======
+# Peridinium conjunctum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Azoarcus buckelii Mechichi et al., 2002 SPECIES
-=======
+# Azoarcus buckelii Mechichi et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tephrophana fimicola (Earle) Earle SPECIES
-=======
+# Tephrophana fimicola (Earle) Earle SPECIES
 
 #### Status
 ACCEPTED

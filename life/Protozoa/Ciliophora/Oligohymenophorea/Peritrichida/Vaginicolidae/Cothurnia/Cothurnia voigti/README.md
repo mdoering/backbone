@@ -1,5 +1,4 @@
-Cothurnia voigti Kahl, 1935 SPECIES
-=======
+# Cothurnia voigti Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Shewanella donghaensis Yang, Lee, Ryu, Kato & Kim, 2007 SPECIES
-=======
+# Shewanella donghaensis Yang, Lee, Ryu, Kato & Kim, 2007 SPECIES
 
 #### Status
 ACCEPTED

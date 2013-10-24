@@ -1,5 +1,4 @@
-Septoria pteridis Peck SPECIES
-=======
+# Septoria pteridis Peck SPECIES
 
 #### Status
 ACCEPTED

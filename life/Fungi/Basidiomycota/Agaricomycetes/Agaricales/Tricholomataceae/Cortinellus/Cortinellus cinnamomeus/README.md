@@ -1,5 +1,4 @@
-Cortinellus cinnamomeus Murrill SPECIES
-=======
+# Cortinellus cinnamomeus Murrill SPECIES
 
 #### Status
 ACCEPTED

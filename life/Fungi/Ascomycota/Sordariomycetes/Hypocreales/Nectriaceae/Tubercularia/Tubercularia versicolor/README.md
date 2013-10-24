@@ -1,17 +1,16 @@
-Tubercularia versicolor var. versicolor VARIETY
-=======
+# Tubercularia versicolor Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 2: 482 (1883)
 
 #### Original name
-Tubercularia versicolor var. versicolor
+Tubercularia versicolor Sacc., 1883
 
 ### Remarks
 null

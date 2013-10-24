@@ -1,5 +1,4 @@
-Entoloma cristobalense Corner & E. Horak SPECIES
-=======
+# Entoloma cristobalense Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

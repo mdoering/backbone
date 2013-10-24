@@ -1,5 +1,4 @@
-Amanita fernandeziana Singer SPECIES
-=======
+# Amanita fernandeziana Singer SPECIES
 
 #### Status
 ACCEPTED

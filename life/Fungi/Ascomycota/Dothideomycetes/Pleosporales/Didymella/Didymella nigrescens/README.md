@@ -1,5 +1,4 @@
-Didymella nigrescens Dearn. & Fairm. SPECIES
-=======
+# Didymella nigrescens Dearn. & Fairm. SPECIES
 
 #### Status
 ACCEPTED

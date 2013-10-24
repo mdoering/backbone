@@ -1,5 +1,4 @@
-Trogia subgelatinosa Corner SPECIES
-=======
+# Trogia subgelatinosa Corner SPECIES
 
 #### Status
 ACCEPTED

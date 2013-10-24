@@ -1,17 +1,16 @@
-Phyllostictina anonicola Bat. & A.F. Vital SPECIES
-=======
+# Phyllostictina annonicola Bat. & A.F. Vital SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bol. Secr. Agric. (Pernambuco) 19(1-2): 213 (1952)
 
 #### Original name
-Phyllostictina anonicola Bat. & A.F. Vital
+Phyllostictina annonicola Bat. & A.F. Vital
 
 ### Remarks
 null

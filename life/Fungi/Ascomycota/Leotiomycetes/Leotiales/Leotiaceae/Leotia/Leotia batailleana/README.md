@@ -1,5 +1,4 @@
-Leotia batailleana Bres. SPECIES
-=======
+# Leotia batailleana Bres. SPECIES
 
 #### Status
 ACCEPTED

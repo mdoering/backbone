@@ -1,14 +1,13 @@
-Flammulaster granulosa (J.E. Lange) Watling SPECIES
-=======
+# Flammulaster granulosus (J.E. Lange) Watling, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 28(1): 66 (1967)
 
 #### Original name
 Naucoria granulosa J.E. Lange, 1940

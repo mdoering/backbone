@@ -1,5 +1,4 @@
-Parafavella curvata Kofoid & Campbell, 1929 SPECIES
-=======
+# Parafavella curvata Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

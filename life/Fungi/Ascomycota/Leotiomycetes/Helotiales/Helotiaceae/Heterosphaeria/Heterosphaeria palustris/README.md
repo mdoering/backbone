@@ -1,5 +1,4 @@
-Heterosphaeria palustris Brunaud SPECIES
-=======
+# Heterosphaeria palustris Brunaud SPECIES
 
 #### Status
 ACCEPTED

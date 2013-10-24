@@ -1,5 +1,4 @@
-Hapalophragmium angylocalycis Vienn.-Bourg., 1959 SPECIES
-=======
+# Hapalophragmium angylocalycis Vienn.-Bourg., 1959 SPECIES
 
 #### Status
 ACCEPTED

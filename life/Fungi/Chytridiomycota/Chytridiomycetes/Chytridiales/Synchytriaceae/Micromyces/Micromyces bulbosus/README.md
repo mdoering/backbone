@@ -1,5 +1,4 @@
-Micromyces bulbosus Kadlub., 1999 SPECIES
-=======
+# Micromyces bulbosus Kadlub., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces induratus Syd., P. Syd. & Holw. SPECIES
-=======
+# Uromyces induratus Syd., P. Syd. & Holw. SPECIES
 
 #### Status
 ACCEPTED

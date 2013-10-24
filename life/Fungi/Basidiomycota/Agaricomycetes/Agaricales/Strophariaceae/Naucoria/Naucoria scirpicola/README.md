@@ -1,5 +1,4 @@
-Naucoria scirpicola Peck SPECIES
-=======
+# Naucoria scirpicola Peck SPECIES
 
 #### Status
 ACCEPTED

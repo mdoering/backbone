@@ -1,5 +1,4 @@
-Carbosphaerella leptosphaeroides I. Schmidt SPECIES
-=======
+# Carbosphaerella leptosphaeroides I. Schmidt SPECIES
 
 #### Status
 ACCEPTED

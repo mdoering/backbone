@@ -1,5 +1,4 @@
-Ramalina sintenisii var. sintenisii VARIETY
-=======
+# Ramalina sintenisii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramalina sintenisii var. sintenisii
+Ramalina sintenisii Müll. Arg.
 
 ### Remarks
 null

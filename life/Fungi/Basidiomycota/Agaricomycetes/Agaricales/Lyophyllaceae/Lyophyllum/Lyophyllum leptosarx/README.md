@@ -1,5 +1,4 @@
-Lyophyllum leptosarx Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum leptosarx Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

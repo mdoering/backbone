@@ -1,5 +1,4 @@
-Macrophoma viridarii Sacc. SPECIES
-=======
+# Macrophoma viridarii Sacc. SPECIES
 
 #### Status
 ACCEPTED

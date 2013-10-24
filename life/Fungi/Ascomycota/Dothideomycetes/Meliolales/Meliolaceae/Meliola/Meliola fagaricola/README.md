@@ -1,5 +1,4 @@
-Meliola fagaricola W. Yamam. SPECIES
-=======
+# Meliola fagaricola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

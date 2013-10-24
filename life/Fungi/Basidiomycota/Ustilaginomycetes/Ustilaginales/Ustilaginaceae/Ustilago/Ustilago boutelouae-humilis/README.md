@@ -1,5 +1,4 @@
-Ustilago boutelouae-humilis Bref. SPECIES
-=======
+# Ustilago boutelouae-humilis Bref. SPECIES
 
 #### Status
 ACCEPTED

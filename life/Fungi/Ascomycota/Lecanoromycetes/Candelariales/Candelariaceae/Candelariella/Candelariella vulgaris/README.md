@@ -1,5 +1,4 @@
-Candelariella vulgaris A. Massal. SPECIES
-=======
+# Candelariella vulgaris A. Massal. SPECIES
 
 #### Status
 ACCEPTED

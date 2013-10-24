@@ -1,5 +1,4 @@
-Micrhystridium minimum Uutela & Tynni, 1991 SPECIES
-=======
+# Micrhystridium minimum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza luteomarginata Beeli SPECIES
-=======
+# Peziza luteomarginata Beeli SPECIES
 
 #### Status
 ACCEPTED

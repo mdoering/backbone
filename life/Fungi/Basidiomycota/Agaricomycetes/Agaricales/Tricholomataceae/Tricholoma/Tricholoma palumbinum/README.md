@@ -1,5 +1,4 @@
-Tricholoma palumbinum Quél. SPECIES
-=======
+# Tricholoma palumbinum Quél. SPECIES
 
 #### Status
 ACCEPTED

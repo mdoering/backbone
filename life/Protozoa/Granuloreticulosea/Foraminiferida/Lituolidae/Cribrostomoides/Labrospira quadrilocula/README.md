@@ -1,5 +1,4 @@
-Labrospira quadrilocula Zheng & Fu, 2001 SPECIES
-=======
+# Labrospira quadrilocula Zheng & Fu, 2001 SPECIES
 
 #### Status
 DOUBTFUL

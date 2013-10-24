@@ -1,5 +1,4 @@
-Mallomonas grossa Dürrschm. SPECIES
-=======
+# Mallomonas grossa Dürrschm. SPECIES
 
 #### Status
 ACCEPTED

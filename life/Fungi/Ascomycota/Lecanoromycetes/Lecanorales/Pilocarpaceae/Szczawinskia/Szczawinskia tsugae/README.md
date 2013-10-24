@@ -1,5 +1,4 @@
-Szczawinskia tsugae A. Funk SPECIES
-=======
+# Szczawinskia tsugae A. Funk SPECIES
 
 #### Status
 ACCEPTED

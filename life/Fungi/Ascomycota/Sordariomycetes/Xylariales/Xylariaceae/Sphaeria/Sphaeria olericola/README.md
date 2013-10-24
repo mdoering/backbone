@@ -1,5 +1,4 @@
-Sphaeria olericola Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria olericola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

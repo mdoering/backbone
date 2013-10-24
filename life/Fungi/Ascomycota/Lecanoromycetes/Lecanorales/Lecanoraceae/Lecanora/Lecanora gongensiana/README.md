@@ -1,5 +1,4 @@
-Lecanora gongensiana Miyawaki SPECIES
-=======
+# Lecanora gongensiana Miyawaki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lophodinium dadayi Osorio-Tafall SPECIES
-=======
+# Lophodinium polylophum (Daday) Lemmermann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

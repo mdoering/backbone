@@ -1,8 +1,7 @@
-Polystictus tenuoroseus (Lloyd) Teng SPECIES
-=======
+# Polystictus tenuiroseus (Lloyd) Teng SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Lecania spotornensis (Klem.) H. Magn. SPECIES
-=======
+# Lecania spotornensis (Klem.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

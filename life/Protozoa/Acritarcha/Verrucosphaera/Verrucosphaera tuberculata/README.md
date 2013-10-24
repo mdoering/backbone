@@ -1,5 +1,4 @@
-Verrucosphaera tuberculata Jiabo, 1978 SPECIES
-=======
+# Verrucosphaera tuberculata Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

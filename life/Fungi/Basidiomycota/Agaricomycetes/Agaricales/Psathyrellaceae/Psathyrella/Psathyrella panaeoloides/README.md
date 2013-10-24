@@ -1,14 +1,13 @@
-Drosophila panaeoloides (Maire) Kühner & Romagn., 1953 SPECIES
-=======
+# Psathyrella panaeoloides (Maire) Arnolds, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Analyt. Champ. Supér. (Paris) 361 (1953)
+Biblthca Mycol. 90: 433 (1982)
 
 #### Original name
 Psathyra panaeoloides Maire, 1937

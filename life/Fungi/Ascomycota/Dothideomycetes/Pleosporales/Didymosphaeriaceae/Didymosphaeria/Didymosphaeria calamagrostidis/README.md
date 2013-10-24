@@ -1,5 +1,4 @@
-Didymosphaeria calamagrostidis Lobik SPECIES
-=======
+# Didymosphaeria calamagrostidis Lobik SPECIES
 
 #### Status
 ACCEPTED

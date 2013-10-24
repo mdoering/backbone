@@ -1,5 +1,4 @@
-Ustilago confusa Massee SPECIES
-=======
+# Ustilago confusa Massee SPECIES
 
 #### Status
 ACCEPTED

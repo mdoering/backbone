@@ -1,5 +1,4 @@
-Mycosphaerella staphyleae Miura SPECIES
-=======
+# Mycosphaerella staphyleae Miura SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella cylindrica (Sacc. & P. Syd.) Vanev SPECIES
-=======
+# Asteromella cylindrica (Sacc. & P. Syd.) Vanev SPECIES
 
 #### Status
 ACCEPTED

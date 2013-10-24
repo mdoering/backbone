@@ -1,5 +1,4 @@
-Depazea smilacis Heer SPECIES
-=======
+# Depazea smilacis Heer SPECIES
 
 #### Status
 ACCEPTED

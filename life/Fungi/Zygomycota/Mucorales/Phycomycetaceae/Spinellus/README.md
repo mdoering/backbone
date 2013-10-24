@@ -1,5 +1,4 @@
-Spinellus Van Tieghem, 1875 GENUS
-=======
+# Spinellus Van Tieghem, 1875 GENUS
 
 #### Status
 ACCEPTED

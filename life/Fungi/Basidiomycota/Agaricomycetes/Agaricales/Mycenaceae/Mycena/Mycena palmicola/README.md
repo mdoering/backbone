@@ -1,5 +1,4 @@
-Mycena palmicola Desjardin, Boonprat. & Hywel-Jones SPECIES
-=======
+# Mycena palmicola Desjardin, Boonprat. & Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

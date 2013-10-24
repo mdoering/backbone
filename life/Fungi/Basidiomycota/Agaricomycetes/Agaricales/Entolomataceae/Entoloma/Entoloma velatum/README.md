@@ -1,5 +1,4 @@
-Entoloma velatum Hesler SPECIES
-=======
+# Entoloma velatum Hesler SPECIES
 
 #### Status
 ACCEPTED

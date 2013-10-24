@@ -1,5 +1,4 @@
-Inocybe amygdalispora Métrod SPECIES
-=======
+# Inocybe amygdalispora Métrod SPECIES
 
 #### Status
 ACCEPTED

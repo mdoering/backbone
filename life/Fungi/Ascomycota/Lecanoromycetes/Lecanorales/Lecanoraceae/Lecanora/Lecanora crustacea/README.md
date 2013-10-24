@@ -1,5 +1,4 @@
-Lecanora crustacea (Savicz) Zahlbr. SPECIES
-=======
+# Lecanora crustacea (Savicz) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

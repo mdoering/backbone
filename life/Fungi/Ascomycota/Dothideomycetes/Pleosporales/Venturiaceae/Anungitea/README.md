@@ -1,5 +1,4 @@
-Anungitea B. Sutton, 1973 GENUS
-=======
+# Anungitea B. Sutton, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naemaspora populina Pers. SPECIES
-=======
+# Naemaspora populina Pers. SPECIES
 
 #### Status
 ACCEPTED

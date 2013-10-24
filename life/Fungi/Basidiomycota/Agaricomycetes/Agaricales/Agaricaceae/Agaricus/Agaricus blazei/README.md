@@ -1,5 +1,4 @@
-Agaricus blazei Murrill SPECIES
-=======
+# Agaricus blazei Murrill SPECIES
 
 #### Status
 ACCEPTED

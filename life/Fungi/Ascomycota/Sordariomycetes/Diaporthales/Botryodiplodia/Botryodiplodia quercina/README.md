@@ -1,5 +1,4 @@
-Botryodiplodia quercina anon. SPECIES
-=======
+# Botryodiplodia quercina anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiobolidium fallax Locq.-Lin. SPECIES
-=======
+# Lasiobolidium fallax Locq.-Lin. SPECIES
 
 #### Status
 ACCEPTED

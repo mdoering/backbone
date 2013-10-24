@@ -1,5 +1,4 @@
-Lecanora quadruplans Nyl. SPECIES
-=======
+# Lecanora quadruplans Nyl. SPECIES
 
 #### Status
 ACCEPTED

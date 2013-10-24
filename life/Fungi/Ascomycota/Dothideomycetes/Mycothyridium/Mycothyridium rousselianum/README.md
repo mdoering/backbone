@@ -1,5 +1,4 @@
-Mycothyridium rousselianum (Sacc. & Speg.) Petr. SPECIES
-=======
+# Mycothyridium rousselianum (Sacc. & Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

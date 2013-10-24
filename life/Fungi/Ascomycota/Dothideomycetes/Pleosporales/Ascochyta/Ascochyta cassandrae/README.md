@@ -1,5 +1,4 @@
-Ascochyta cassandrae Peck SPECIES
-=======
+# Ascochyta cassandrae Peck SPECIES
 
 #### Status
 ACCEPTED

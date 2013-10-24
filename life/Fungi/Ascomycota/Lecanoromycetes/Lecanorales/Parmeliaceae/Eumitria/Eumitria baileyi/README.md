@@ -1,17 +1,16 @@
-Usnea plicata var. substrigosa (Müll. Arg.) Zahlbr. VARIETY
-=======
+# Eumitria baileyi Stirt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Scott. Natural. 6: 100 (1881)
 
 #### Original name
-Usnea dasypogoides var. substrigosa Müll. Arg.
+Eumitria baileyi Stirt.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Favotrichophyton fuligineum (S. Ogata) C.W. Dodge SPECIES
-=======
+# Favotrichophyton fuligineum (S. Ogata) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

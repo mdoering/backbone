@@ -1,5 +1,4 @@
-Hypogymnia almquistii (Vain.) Rass. SPECIES
-=======
+# Hypogymnia almquistii (Vain.) Rass. SPECIES
 
 #### Status
 ACCEPTED

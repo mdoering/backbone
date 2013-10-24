@@ -1,5 +1,4 @@
-Fusicoccum indicum Tassi SPECIES
-=======
+# Fusicoccum indicum Tassi SPECIES
 
 #### Status
 ACCEPTED

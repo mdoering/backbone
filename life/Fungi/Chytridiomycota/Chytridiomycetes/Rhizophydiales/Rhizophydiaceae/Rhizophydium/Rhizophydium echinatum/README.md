@@ -1,5 +1,4 @@
-Rhizophydium echinatum (P.A. Dang.) A. Fisch. SPECIES
-=======
+# Rhizophydium echinatum (P.A. Dang.) A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

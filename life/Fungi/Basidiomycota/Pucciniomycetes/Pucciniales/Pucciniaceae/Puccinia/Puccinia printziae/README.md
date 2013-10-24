@@ -1,5 +1,4 @@
-Puccinia printziae Thüm. SPECIES
-=======
+# Puccinia printziae Thüm. SPECIES
 
 #### Status
 ACCEPTED

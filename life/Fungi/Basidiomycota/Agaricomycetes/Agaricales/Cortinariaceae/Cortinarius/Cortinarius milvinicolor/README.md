@@ -1,5 +1,4 @@
-Cortinarius milvinicolor Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius milvinicolor Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

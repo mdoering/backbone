@@ -1,5 +1,4 @@
-Pyrgidium leptoconium (Nyl.) Nádv. SPECIES
-=======
+# Pyrgidium leptoconium (Nyl.) Nádv. SPECIES
 
 #### Status
 ACCEPTED

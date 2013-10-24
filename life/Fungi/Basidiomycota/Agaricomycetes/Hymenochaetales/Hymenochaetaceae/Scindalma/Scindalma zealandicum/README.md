@@ -1,14 +1,13 @@
-Scindalma zelandicum (Cooke) Kuntze SPECIES
-=======
+# Scindalma zealandicum (Cooke) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 519 (1898)
 
 #### Original name
 Polyporus zeylanicus Berk., 1843

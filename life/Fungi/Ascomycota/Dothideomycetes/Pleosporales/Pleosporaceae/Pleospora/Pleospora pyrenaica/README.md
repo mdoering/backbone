@@ -1,5 +1,4 @@
-Pleospora pyrenaica Niessl SPECIES
-=======
+# Pleospora pyrenaica Niessl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Compressigerina Bermúdez, 1949 GENUS
-=======
+# Compressigerina Bermúdez, 1949 GENUS
 
 #### Status
 ACCEPTED

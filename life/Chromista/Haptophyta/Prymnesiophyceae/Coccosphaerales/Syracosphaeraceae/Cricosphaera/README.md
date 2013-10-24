@@ -1,5 +1,4 @@
-Cricosphaera Braarud, 1960 GENUS
-=======
+# Cricosphaera Braarud, 1960 GENUS
 
 #### Status
 ACCEPTED

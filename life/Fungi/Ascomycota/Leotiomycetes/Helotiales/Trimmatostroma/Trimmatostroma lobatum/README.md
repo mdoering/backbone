@@ -1,5 +1,4 @@
-Trimmatostroma lobatum (Berk. & Broome) M.B. Ellis SPECIES
-=======
+# Trimmatostroma lobatum (Berk. & Broome) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

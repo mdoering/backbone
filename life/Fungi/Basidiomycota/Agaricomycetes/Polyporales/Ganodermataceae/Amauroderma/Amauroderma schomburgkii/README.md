@@ -1,17 +1,16 @@
-Polyporus glazioui Berk. SPECIES
-=======
+# Amauroderma schomburgkii (Mont. & Berk.) Torrend, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Brotéria, sér. bot. 18: 140 (1920)
 
 #### Original name
-Polyporus glazioui Berk.
+Fomes schomburgkii (Mont. & Berk.) Sacc., 1885
 
 ### Remarks
 null

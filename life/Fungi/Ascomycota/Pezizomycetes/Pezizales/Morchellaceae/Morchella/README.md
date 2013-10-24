@@ -1,17 +1,16 @@
-Eromitra Lév. GENUS
-=======
+# Morchella Dillenius ex Persoon, 1794 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Orbigny, Dict. Univ. Hist. Nat. 8: 490 (1846)
+null
 
 #### Original name
-Eromitra Lév.
+null
 
 ### Remarks
 null

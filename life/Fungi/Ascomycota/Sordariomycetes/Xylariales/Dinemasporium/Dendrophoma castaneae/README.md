@@ -1,5 +1,4 @@
-Dendrophoma castaneae Sacc. SPECIES
-=======
+# Dendrophoma castaneae Sacc. SPECIES
 
 #### Status
 ACCEPTED

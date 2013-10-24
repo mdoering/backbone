@@ -1,5 +1,4 @@
-Chaetodiplodia P. Karst. GENUS
-=======
+# Chaetodiplodia P. Karst. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Divinia diatricha Cif., 1955 SPECIES
-=======
+# Divinia diatricha Cif., 1955 SPECIES
 
 #### Status
 ACCEPTED

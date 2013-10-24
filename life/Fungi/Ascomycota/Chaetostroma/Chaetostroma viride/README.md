@@ -1,5 +1,4 @@
-Chaetostroma viride Petch SPECIES
-=======
+# Chaetostroma viride Petch SPECIES
 
 #### Status
 ACCEPTED

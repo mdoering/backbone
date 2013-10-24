@@ -1,5 +1,4 @@
-Oospora rosella Grove SPECIES
-=======
+# Oospora rosella Grove SPECIES
 
 #### Status
 ACCEPTED

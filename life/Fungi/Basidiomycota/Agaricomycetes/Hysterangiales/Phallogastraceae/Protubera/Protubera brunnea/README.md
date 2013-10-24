@@ -1,14 +1,13 @@
-Protophallus brunneus Zeller, 1939 SPECIES
-=======
+# Protubera brunnea (Zeller) Zeller, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 31(1): 28 (1939)
+Mycologia 40(6): 644 (1948)
 
 #### Original name
 Protophallus brunneus Zeller, 1939

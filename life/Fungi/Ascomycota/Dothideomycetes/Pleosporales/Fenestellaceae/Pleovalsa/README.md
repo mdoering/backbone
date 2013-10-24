@@ -1,5 +1,4 @@
-Pleovalsa GENUS
-=======
+# Pleovalsa GENUS
 
 #### Status
 ACCEPTED

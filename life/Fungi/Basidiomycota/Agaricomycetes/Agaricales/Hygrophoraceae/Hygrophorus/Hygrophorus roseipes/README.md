@@ -1,5 +1,4 @@
-Hygrophorus roseipes (Massee) SPECIES
-=======
+# Hygrophorus roseipes (Massee) SPECIES
 
 #### Status
 ACCEPTED

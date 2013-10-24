@@ -1,14 +1,13 @@
-Heterothecium tricolor (Mont.) SPECIES
-=======
+# Brigantiaea tricolor (Mont.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Spighe Paglie 9 (1853)
 
 #### Original name
 Biatora tricolor Mont.

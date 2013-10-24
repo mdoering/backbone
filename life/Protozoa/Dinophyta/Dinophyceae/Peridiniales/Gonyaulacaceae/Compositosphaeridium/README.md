@@ -1,5 +1,4 @@
-Compositosphaeridium L. Dodekova, 1974 GENUS
-=======
+# Compositosphaeridium L. Dodekova, 1974 GENUS
 
 #### Status
 ACCEPTED

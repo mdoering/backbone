@@ -1,5 +1,4 @@
-Chiodecton cerebriforme Mont. SPECIES
-=======
+# Chiodecton cerebriforme Mont. SPECIES
 
 #### Status
 ACCEPTED

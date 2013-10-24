@@ -1,5 +1,4 @@
-Cercospora pruni-yedoensis Sawada SPECIES
-=======
+# Cercospora pruni-yedoensis Sawada SPECIES
 
 #### Status
 ACCEPTED

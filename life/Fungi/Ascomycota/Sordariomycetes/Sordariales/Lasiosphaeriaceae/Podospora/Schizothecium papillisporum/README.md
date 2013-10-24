@@ -1,5 +1,4 @@
-Schizothecium papillisporum (M. Sharma) L. Cai SPECIES
-=======
+# Schizothecium papillisporum (M. Sharma) L. Cai SPECIES
 
 #### Status
 ACCEPTED

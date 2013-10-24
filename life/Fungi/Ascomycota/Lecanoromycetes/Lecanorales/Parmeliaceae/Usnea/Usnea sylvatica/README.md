@@ -1,5 +1,4 @@
-Usnea sylvatica SPECIES
-=======
+# Usnea sylvatica SPECIES
 
 #### Status
 ACCEPTED

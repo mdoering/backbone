@@ -1,5 +1,4 @@
-Imshaugia S.L.F. Mey. GENUS
-=======
+# Imshaugia S.L.F. Mey. GENUS
 
 #### Status
 ACCEPTED

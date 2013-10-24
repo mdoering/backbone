@@ -1,5 +1,4 @@
-Septobasidium formosense Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium formosense Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

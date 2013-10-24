@@ -1,17 +1,16 @@
-Parmelia graminicola B. de Lesd. SPECIES
-=======
+# Punctelia graminicola (B. de Lesd.) Egan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 106(2): 315 (2003)
 
 #### Original name
-null
+Parmelia graminicola B. de Lesd.
 
 ### Remarks
 null

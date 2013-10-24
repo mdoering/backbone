@@ -1,5 +1,4 @@
-Elsinoe mangiferae Bitanc. & Jenkins, 1946 SPECIES
-=======
+# Elsinoe mangiferae Bitanc. & Jenkins, 1946 SPECIES
 
 #### Status
 ACCEPTED

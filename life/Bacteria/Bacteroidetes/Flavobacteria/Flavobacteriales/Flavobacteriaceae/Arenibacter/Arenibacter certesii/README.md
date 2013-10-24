@@ -1,5 +1,4 @@
-Arenibacter certesii Nedashkovskaya et al., 2004 SPECIES
-=======
+# Arenibacter certesii Nedashkovskaya et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

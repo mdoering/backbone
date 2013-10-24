@@ -1,5 +1,4 @@
-Uredo paronychiae H.S. Jacks. SPECIES
-=======
+# Uredo paronychiae H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

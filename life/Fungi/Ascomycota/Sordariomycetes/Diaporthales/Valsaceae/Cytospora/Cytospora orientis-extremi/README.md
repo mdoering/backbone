@@ -1,5 +1,4 @@
-Cytospora orientis-extremi Gvrit. SPECIES
-=======
+# Cytospora orientis-extremi Gvrit. SPECIES
 
 #### Status
 ACCEPTED

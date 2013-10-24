@@ -1,5 +1,4 @@
-Acanthamoeba hatchetti Sawyer, et Al., 1977 SPECIES
-=======
+# Acanthamoeba hatchetti Sawyer, et Al., 1977 SPECIES
 
 #### Status
 ACCEPTED

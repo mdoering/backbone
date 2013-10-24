@@ -1,5 +1,4 @@
-Septaria oxyacanthae Kunze SPECIES
-=======
+# Septaria oxyacanthae Kunze SPECIES
 
 #### Status
 ACCEPTED

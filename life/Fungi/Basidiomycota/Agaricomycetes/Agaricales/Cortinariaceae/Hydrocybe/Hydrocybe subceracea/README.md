@@ -1,5 +1,4 @@
-Hydrocybe subceracea Murrill SPECIES
-=======
+# Hydrocybe subceracea Murrill SPECIES
 
 #### Status
 ACCEPTED

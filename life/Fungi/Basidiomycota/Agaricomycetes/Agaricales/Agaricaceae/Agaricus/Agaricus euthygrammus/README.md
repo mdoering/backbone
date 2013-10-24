@@ -1,17 +1,16 @@
-Agaricus euthugrammus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus euthygrammus Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 10(no. 45): 290 (1868)
 
 #### Original name
-Agaricus euthugrammus Berk. & M.A. Curtis
+Agaricus euthygrammus Berk. & M.A. Curtis
 
 ### Remarks
 null

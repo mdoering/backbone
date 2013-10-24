@@ -1,5 +1,4 @@
-Aecidium eichelbaumii Henn. SPECIES
-=======
+# Aecidium eichelbaumii Henn. SPECIES
 
 #### Status
 ACCEPTED

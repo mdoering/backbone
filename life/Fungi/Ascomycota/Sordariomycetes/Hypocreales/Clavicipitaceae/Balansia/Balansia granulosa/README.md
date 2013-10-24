@@ -1,5 +1,4 @@
-Balansia granulosa (Chardón) J.F. White & P.V. Reddy SPECIES
-=======
+# Balansia granulosa (Chardón) J.F. White & P.V. Reddy SPECIES
 
 #### Status
 ACCEPTED

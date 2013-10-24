@@ -1,5 +1,4 @@
-Leptoporus vernalis Quél. SPECIES
-=======
+# Leptoporus vernalis Quél. SPECIES
 
 #### Status
 ACCEPTED

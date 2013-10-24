@@ -1,5 +1,4 @@
-Strombidinopsis acuminatum Fauré-Fremiet, 1924 SPECIES
-=======
+# Strombidinopsis acuminatum Fauré-Fremiet, 1924 SPECIES
 
 #### Status
 ACCEPTED

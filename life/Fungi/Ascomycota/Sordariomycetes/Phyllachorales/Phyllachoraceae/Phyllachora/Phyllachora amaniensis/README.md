@@ -1,5 +1,4 @@
-Phyllachora amaniensis Henn., 1905 SPECIES
-=======
+# Phyllachora amaniensis Henn., 1905 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactifluus caerulescens (Durieu & Lév.) Kuntze SPECIES
-=======
+# Lactifluus caerulescens (Durieu & Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

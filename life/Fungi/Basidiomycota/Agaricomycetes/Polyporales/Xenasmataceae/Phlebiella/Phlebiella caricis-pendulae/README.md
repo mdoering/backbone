@@ -1,5 +1,4 @@
-Phlebiella caricis-pendulae P. Roberts, 2007 SPECIES
-=======
+# Phlebiella caricis-pendulae P. Roberts, 2007 SPECIES
 
 #### Status
 ACCEPTED

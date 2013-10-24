@@ -1,5 +1,4 @@
-Phaeophleospora faureae (Syd. & P. Syd.) Joanne E. Taylor & Crous SPECIES
-=======
+# Phaeophleospora faureae (Syd. & P. Syd.) Joanne E. Taylor & Crous SPECIES
 
 #### Status
 ACCEPTED

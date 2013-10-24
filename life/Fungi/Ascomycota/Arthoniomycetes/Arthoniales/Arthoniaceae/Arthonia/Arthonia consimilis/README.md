@@ -1,5 +1,4 @@
-Arthonia consimilis Vain. SPECIES
-=======
+# Arthonia consimilis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia fumosa (Murrill) Murrill SPECIES
-=======
+# Omphalia fumosa (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ostracococcum Wallr. GENUS
-=======
+# Ostracococcum Wallr. GENUS
 
 #### Status
 ACCEPTED

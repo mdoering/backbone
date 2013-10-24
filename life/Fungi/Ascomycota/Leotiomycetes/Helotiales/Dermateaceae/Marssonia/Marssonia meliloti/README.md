@@ -1,5 +1,4 @@
-Marssonia meliloti Trel. SPECIES
-=======
+# Marssonia meliloti Trel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma ephedrae Gonz. Frag. SPECIES
-=======
+# Macrophoma ephedrae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

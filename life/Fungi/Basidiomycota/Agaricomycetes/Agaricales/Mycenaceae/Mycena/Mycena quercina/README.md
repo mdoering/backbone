@@ -1,5 +1,4 @@
-Mycena quercina Velen. SPECIES
-=======
+# Mycena quercina Velen. SPECIES
 
 #### Status
 ACCEPTED

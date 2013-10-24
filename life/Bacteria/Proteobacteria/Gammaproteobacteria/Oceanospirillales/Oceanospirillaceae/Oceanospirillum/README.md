@@ -1,5 +1,4 @@
-Oceanospirillum Hylemon, Wells, Krieg & Jannasch, 1973 GENUS
-=======
+# Oceanospirillum Hylemon, Wells, Krieg & Jannasch, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Peziza excelsior (P. Karst.) W. Phillips & Plowr. SPECIES
-=======
+# Belonium excelsius (P. Karst.) Boud. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Grevillea 8(no. 47): 102 (1880)
+Hist. Class. Discom. Eur. (Paris) 117 (1907)
 
 #### Original name
 Mollisia excelsior P. Karst., 1871

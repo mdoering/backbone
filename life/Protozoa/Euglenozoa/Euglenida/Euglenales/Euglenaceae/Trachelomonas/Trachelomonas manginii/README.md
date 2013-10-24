@@ -1,5 +1,4 @@
-Trachelomonas manginii f. subpuncta Safonowa FORM
-=======
+# Trachelomonas manginii Deflandre SPECIES
 
 #### Status
 ACCEPTED

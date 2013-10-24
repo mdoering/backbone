@@ -1,5 +1,4 @@
-Uredo garcesii (F. Kern & Thurst.) Buriticá SPECIES
-=======
+# Uredo garcesii (F. Kern & Thurst.) Buriticá SPECIES
 
 #### Status
 ACCEPTED

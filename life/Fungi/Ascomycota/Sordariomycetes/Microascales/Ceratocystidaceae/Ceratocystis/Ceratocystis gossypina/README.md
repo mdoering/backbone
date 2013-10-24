@@ -1,5 +1,4 @@
-Ceratocystis gossypina var. gossypina VARIETY
-=======
+# Ceratocystis gossypina R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycologia 63(1): 12 (1971)
 
 #### Original name
-Ceratocystis gossypina var. gossypina
+Ceratocystis gossypina R.W. Davidson
 
 ### Remarks
 null

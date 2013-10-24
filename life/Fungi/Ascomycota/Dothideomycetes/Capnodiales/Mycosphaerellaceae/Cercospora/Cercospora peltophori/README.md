@@ -1,5 +1,4 @@
-Cercospora peltophori J.M. Yen SPECIES
-=======
+# Cercospora peltophori J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

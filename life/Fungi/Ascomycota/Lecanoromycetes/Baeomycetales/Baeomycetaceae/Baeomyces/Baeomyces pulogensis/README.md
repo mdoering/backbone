@@ -1,5 +1,4 @@
-Baeomyces pulogensis Vain. SPECIES
-=======
+# Baeomyces pulogensis Vain. SPECIES
 
 #### Status
 ACCEPTED

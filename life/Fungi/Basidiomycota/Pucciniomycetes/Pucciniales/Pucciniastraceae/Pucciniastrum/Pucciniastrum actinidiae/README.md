@@ -1,5 +1,4 @@
-Pucciniastrum actinidiae Hirats. f. SPECIES
-=======
+# Pucciniastrum actinidiae Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida wuzhishanensis F.Y. Bai & Chen Wang bis SPECIES
-=======
+# Candida wuzhishanensis F.Y. Bai & Chen Wang bis SPECIES
 
 #### Status
 ACCEPTED

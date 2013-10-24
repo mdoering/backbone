@@ -1,5 +1,4 @@
-Lasiosphaeria alexandricola Joanne E. Taylor, J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Lasiosphaeria alexandricola Joanne E. Taylor, J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

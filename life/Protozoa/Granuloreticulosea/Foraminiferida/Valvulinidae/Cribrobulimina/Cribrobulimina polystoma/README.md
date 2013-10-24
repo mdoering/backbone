@@ -1,5 +1,4 @@
-Cribrobulimina polystoma SPECIES
-=======
+# Cribrobulimina polystoma SPECIES
 
 #### Status
 ACCEPTED

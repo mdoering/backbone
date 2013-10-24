@@ -1,5 +1,4 @@
-Brevicellopsis Hjortstam & Ryvarden GENUS
-=======
+# Brevicellopsis Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

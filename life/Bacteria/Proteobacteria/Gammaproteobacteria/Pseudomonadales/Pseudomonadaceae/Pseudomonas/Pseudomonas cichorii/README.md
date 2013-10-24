@@ -1,11 +1,10 @@
-Pseudomonas papaveris Lelliott & Wallace, 1955 SPECIES
-=======
+# Pseudomonas cichorii (Swingle, 1925) Stapp, 1928 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

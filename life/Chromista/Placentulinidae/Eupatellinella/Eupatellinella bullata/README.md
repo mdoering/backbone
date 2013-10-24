@@ -1,5 +1,4 @@
-Eupatellinella bullata Hatta in Hatta & Ujiié, 1992 SPECIES
-=======
+# Eupatellinella bullata Hatta in Hatta & Ujiié, 1992 SPECIES
 
 #### Status
 ACCEPTED

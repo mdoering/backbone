@@ -1,5 +1,4 @@
-Coccochorella microspora Bat., J.L. Bezerra & Chaves {?} SPECIES
-=======
+# Coccochorella microspora Bat., J.L. Bezerra & Chaves {?} SPECIES
 
 #### Status
 ACCEPTED

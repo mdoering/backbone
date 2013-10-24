@@ -1,5 +1,4 @@
-Ditomocladia Trevisan GENUS
-=======
+# Ditomocladia Trevisan GENUS
 
 #### Status
 ACCEPTED

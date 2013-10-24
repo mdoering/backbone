@@ -1,5 +1,4 @@
-Omphalia myrmecophila R. Heim SPECIES
-=======
+# Omphalia myrmecophila R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus cortinellus var. cortinellus VARIETY
-=======
+# Agaricus cortinellus DC. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 6: 50 (1815)
 
 #### Original name
-Agaricus cortinellus var. cortinellus
+Agaricus cortinellus DC.
 
 ### Remarks
 null

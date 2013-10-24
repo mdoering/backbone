@@ -1,5 +1,4 @@
-Lobaria luceana (Hampe) Zahlbr. SPECIES
-=======
+# Lobaria luceana (Hampe) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

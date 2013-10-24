@@ -1,5 +1,4 @@
-Mycena favrei Maas Geest. SPECIES
-=======
+# Mycena favrei Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

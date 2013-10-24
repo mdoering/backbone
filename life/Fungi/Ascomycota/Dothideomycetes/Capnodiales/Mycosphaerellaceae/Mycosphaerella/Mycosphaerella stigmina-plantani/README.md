@@ -1,5 +1,4 @@
-Mycosphaerella stigmina-plantani F.A. Wolf SPECIES
-=======
+# Mycosphaerella stigmina-plantani F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

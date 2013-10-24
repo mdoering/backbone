@@ -1,5 +1,4 @@
-Actinomma gastonis Sacc. SPECIES
-=======
+# Actinomma gastonis Sacc. SPECIES
 
 #### Status
 ACCEPTED

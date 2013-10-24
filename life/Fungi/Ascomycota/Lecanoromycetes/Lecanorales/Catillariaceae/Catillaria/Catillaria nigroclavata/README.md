@@ -1,14 +1,13 @@
-Microlecia nigroclavata (Nyl.) M. Choisy SPECIES
-=======
+# Catillaria nigroclavata (Nyl.) Schuler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flecht. Fiume 35 (1902)
 
 #### Original name
 Lecidea nigroclavata Nyl.

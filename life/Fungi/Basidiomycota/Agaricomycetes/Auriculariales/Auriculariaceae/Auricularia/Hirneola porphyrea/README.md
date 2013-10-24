@@ -1,5 +1,4 @@
-Hirneola porphyrea (Lév.) Fr. SPECIES
-=======
+# Hirneola porphyrea (Lév.) Fr. SPECIES
 
 #### Status
 ACCEPTED

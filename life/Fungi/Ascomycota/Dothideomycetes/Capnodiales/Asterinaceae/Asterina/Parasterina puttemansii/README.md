@@ -1,5 +1,4 @@
-Parasterina puttemansii (Henn.) Theiss. SPECIES
-=======
+# Parasterina puttemansii (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

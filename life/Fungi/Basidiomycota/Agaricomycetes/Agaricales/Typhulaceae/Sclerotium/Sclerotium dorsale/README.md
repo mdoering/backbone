@@ -1,5 +1,4 @@
-Sclerotium dorsale Roberge ex Desm. SPECIES
-=======
+# Sclerotium dorsale Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

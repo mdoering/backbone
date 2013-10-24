@@ -1,5 +1,4 @@
-Schizoxylon bethelii (Ellis & Everh.) E.K. Cash SPECIES
-=======
+# Schizoxylon bethelii (Ellis & Everh.) E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

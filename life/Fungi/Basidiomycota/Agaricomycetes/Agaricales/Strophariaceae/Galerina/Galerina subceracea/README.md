@@ -1,5 +1,4 @@
-Galerina subceracea A.H. Sm. & Singer SPECIES
-=======
+# Galerina subceracea A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

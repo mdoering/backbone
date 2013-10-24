@@ -1,17 +1,16 @@
-Polyporoletus sylvestris (Overh. ex Pouzar) Audet, 2010 SPECIES
-=======
+# Polyporoletus sublividus Snell, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 28: 467 (1936)
 
 #### Original name
-null
+Polyporoletus sublividus Snell, 1936
 
 ### Remarks
 null

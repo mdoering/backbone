@@ -1,5 +1,4 @@
-Calocera puiggarii Speg. SPECIES
-=======
+# Calocera puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

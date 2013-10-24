@@ -1,5 +1,4 @@
-Hypocrea nymani Henn. SPECIES
-=======
+# Hypocrea nymani Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeomarasmius bowmanii (F. Muell. ex Berk.) Pegler SPECIES
-=======
+# Phaeomarasmius bowmanii (F. Muell. ex Berk.) Pegler SPECIES
 
 #### Status
 ACCEPTED

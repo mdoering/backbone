@@ -1,5 +1,4 @@
-Candelabrum japonense Tubaki, 1957 SPECIES
-=======
+# Candelabrum japonense Tubaki, 1957 SPECIES
 
 #### Status
 ACCEPTED

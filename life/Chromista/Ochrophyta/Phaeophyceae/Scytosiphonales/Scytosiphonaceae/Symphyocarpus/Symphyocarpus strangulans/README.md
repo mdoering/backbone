@@ -1,5 +1,4 @@
-Symphyocarpus strangulans Rosenvinge SPECIES
-=======
+# Symphyocarpus strangulans Rosenvinge SPECIES
 
 #### Status
 ACCEPTED

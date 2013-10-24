@@ -1,5 +1,4 @@
-Helicominopsis fici Deighton, 1960 SPECIES
-=======
+# Helicominopsis fici Deighton, 1960 SPECIES
 
 #### Status
 ACCEPTED

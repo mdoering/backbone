@@ -1,5 +1,4 @@
-Stereum ochraceo-flavum (Schw.) Ell. SPECIES
-=======
+# Stereum ochraceo-flavum (Schw.) Ell. SPECIES
 
 #### Status
 ACCEPTED

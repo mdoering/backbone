@@ -1,5 +1,4 @@
-Octaviania soderstromii (Lagerh.) Lloyd SPECIES
-=======
+# Octaviania soderstromii (Lagerh.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

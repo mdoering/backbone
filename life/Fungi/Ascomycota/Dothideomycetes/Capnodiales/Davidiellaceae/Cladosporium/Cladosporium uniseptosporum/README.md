@@ -1,5 +1,4 @@
-Cladosporium uniseptosporum Matsush., 1975 SPECIES
-=======
+# Cladosporium uniseptosporum Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

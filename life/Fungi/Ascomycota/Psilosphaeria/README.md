@@ -1,5 +1,4 @@
-Psilosphaeria Cooke GENUS
-=======
+# Psilosphaeria Cooke GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scindalma opacum (Berk. & Mont.) Kuntze SPECIES
-=======
+# Scindalma opacum (Berk. & Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

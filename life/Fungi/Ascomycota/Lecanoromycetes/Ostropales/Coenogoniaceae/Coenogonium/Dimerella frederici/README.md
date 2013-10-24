@@ -1,5 +1,4 @@
-Dimerella frederici Kalb SPECIES
-=======
+# Dimerella frederici Kalb SPECIES
 
 #### Status
 ACCEPTED

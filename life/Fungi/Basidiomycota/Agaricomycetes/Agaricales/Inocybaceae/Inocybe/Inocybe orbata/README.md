@@ -1,5 +1,4 @@
-Inocybe orbata Malençon SPECIES
-=======
+# Inocybe orbata Malençon SPECIES
 
 #### Status
 ACCEPTED

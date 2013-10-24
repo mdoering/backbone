@@ -1,5 +1,4 @@
-Xanthomonadales Saddler & Bradbury, 2005 ORDER
-=======
+# Xanthomonadales Saddler & Bradbury, 2005 ORDER
 
 #### Status
 ACCEPTED

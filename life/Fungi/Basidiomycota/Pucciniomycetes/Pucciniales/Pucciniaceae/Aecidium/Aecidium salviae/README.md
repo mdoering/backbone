@@ -1,5 +1,4 @@
-Aecidium salviae Hazsl. SPECIES
-=======
+# Aecidium salviae Hazsl. SPECIES
 
 #### Status
 ACCEPTED

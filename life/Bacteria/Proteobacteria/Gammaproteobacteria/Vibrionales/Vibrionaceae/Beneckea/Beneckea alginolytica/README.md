@@ -1,8 +1,7 @@
-Vibrio alginolyticus (Miyamoto et al., 1961) Sakazaki, 1968 (Approved Lists, 1980) SPECIES
-=======
+# Beneckea alginolytica (Miyamoto et al., 1961) Baumann et al., 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

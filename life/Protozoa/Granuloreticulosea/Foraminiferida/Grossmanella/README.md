@@ -1,5 +1,4 @@
-Grossmanella Denne & Sen Gupta, 1996 GENUS
-=======
+# Grossmanella Denne & Sen Gupta, 1996 GENUS
 
 #### Status
 ACCEPTED

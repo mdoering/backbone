@@ -1,5 +1,4 @@
-Cochlodinium cavatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Cochlodinium cavatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

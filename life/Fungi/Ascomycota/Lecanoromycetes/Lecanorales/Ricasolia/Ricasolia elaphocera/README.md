@@ -1,5 +1,4 @@
-Ricasolia elaphocera Nyl. SPECIES
-=======
+# Ricasolia elaphocera Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria mesodon Ehrenberg SPECIES
-=======
+# Fragilaria mesodon Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

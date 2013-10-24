@@ -1,5 +1,4 @@
-Ceuthospora cocculi Speg. SPECIES
-=======
+# Ceuthospora cocculi Speg. SPECIES
 
 #### Status
 ACCEPTED

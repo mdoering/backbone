@@ -1,5 +1,4 @@
-Metschnikowia vanudenii Gim.-Jurado, Kurtzman & Spenc.-Mart., 2003 SPECIES
-=======
+# Metschnikowia vanudenii Gim.-Jurado, Kurtzman & Spenc.-Mart., 2003 SPECIES
 
 #### Status
 ACCEPTED

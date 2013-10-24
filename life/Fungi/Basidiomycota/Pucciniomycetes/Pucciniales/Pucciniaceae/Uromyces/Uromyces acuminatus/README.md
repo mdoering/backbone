@@ -1,5 +1,4 @@
-Uromyces acuminatus var. acuminatus VARIETY
-=======
+# Uromyces acuminatus Arthur SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bulletin Minn. Acad. 2: 35 (1883)
 
 #### Original name
-Uromyces acuminatus var. acuminatus
+Uromyces acuminatus Arthur
 
 ### Remarks
 null

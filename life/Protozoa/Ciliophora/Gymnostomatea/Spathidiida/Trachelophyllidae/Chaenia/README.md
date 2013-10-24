@@ -1,5 +1,4 @@
-Chaenia GENUS
-=======
+# Chaenia GENUS
 
 #### Status
 ACCEPTED

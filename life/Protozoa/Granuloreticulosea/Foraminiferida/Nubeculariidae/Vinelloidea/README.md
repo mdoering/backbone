@@ -1,14 +1,13 @@
-Nubeculinella Cushman, 1930 GENUS
-=======
+# Vinelloidea Canu, 1913 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Bull. Soc. Géol. France, (4) 13, 276.
 
 #### Original name
 null

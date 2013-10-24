@@ -1,14 +1,13 @@
-Hologloea pezizaeformis (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Favolaschia peziziformis (Berk. & M.A. Curtis) Kuntze, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(3): 476 (1898)
 
 #### Original name
 null

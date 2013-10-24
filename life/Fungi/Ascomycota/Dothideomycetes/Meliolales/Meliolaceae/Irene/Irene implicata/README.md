@@ -1,5 +1,4 @@
-Irene implicata Doidge SPECIES
-=======
+# Irene implicata Doidge SPECIES
 
 #### Status
 ACCEPTED

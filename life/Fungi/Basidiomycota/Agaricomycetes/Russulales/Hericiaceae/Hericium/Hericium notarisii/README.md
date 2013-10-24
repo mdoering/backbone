@@ -1,5 +1,4 @@
-Hericium notarisii (Inzenga) Fr. SPECIES
-=======
+# Hericium notarisii (Inzenga) Fr. SPECIES
 
 #### Status
 ACCEPTED

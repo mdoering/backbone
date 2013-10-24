@@ -1,5 +1,4 @@
-Tachysoma monstrosa SPECIES
-=======
+# Tachysoma monstrosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllopsora leucophyllina (Nyl.) Timdal SPECIES
-=======
+# Phyllopsora leucophyllina (Nyl.) Timdal SPECIES
 
 #### Status
 ACCEPTED

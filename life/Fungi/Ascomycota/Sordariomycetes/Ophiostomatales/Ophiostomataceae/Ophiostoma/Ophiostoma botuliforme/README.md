@@ -1,5 +1,4 @@
-Ophiostoma botuliforme Masuya SPECIES
-=======
+# Ophiostoma botuliforme Masuya SPECIES
 
 #### Status
 ACCEPTED

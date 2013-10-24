@@ -1,5 +1,4 @@
-Lachnum rubropunctatum Raitv. & Arendh. SPECIES
-=======
+# Lachnum rubropunctatum Raitv. & Arendh. SPECIES
 
 #### Status
 ACCEPTED

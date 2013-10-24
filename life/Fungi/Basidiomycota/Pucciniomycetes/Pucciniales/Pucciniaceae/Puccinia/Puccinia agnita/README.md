@@ -1,5 +1,4 @@
-Puccinia agnita Arthur SPECIES
-=======
+# Puccinia agnita Arthur SPECIES
 
 #### Status
 ACCEPTED

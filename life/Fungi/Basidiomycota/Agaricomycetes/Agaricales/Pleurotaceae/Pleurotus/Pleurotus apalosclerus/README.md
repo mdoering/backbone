@@ -1,5 +1,4 @@
-Pleurotus apalosclerus (Berk.) Sacc. SPECIES
-=======
+# Pleurotus apalosclerus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

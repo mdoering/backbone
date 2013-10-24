@@ -1,5 +1,4 @@
-Alloglobigerinoides conglobatus (Brady) SPECIES
-=======
+# Alloglobigerinoides conglobatus (Brady) SPECIES
 
 #### Status
 ACCEPTED

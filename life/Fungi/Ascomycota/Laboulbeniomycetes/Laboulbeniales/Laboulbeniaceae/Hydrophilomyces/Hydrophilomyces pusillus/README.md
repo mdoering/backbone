@@ -1,5 +1,4 @@
-Hydrophilomyces pusillus T. Majewski SPECIES
-=======
+# Hydrophilomyces pusillus T. Majewski SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletopsis squalida (Fr.) Beck SPECIES
-=======
+# Boletopsis squalida (Fr.) Beck SPECIES
 
 #### Status
 ACCEPTED

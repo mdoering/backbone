@@ -1,5 +1,4 @@
-Macrodiplodia Sacc. GENUS
-=======
+# Macrodiplodia Sacc. GENUS
 
 #### Status
 ACCEPTED

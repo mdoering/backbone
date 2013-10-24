@@ -1,5 +1,4 @@
-Hypholoma polylepidis Dennis SPECIES
-=======
+# Hypholoma polylepidis Dennis SPECIES
 
 #### Status
 ACCEPTED

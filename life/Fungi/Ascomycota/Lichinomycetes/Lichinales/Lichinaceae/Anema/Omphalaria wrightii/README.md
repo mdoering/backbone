@@ -1,5 +1,4 @@
-Omphalaria wrightii Tuck. SPECIES
-=======
+# Omphalaria wrightii Tuck. SPECIES
 
 #### Status
 ACCEPTED

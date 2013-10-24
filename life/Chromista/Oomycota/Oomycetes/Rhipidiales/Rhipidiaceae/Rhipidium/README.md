@@ -1,5 +1,4 @@
-Rhipidium Cornu, 1871 GENUS
-=======
+# Rhipidium Cornu, 1871 GENUS
 
 #### Status
 ACCEPTED

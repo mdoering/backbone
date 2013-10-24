@@ -1,5 +1,4 @@
-Archaeofavosina bipartita N. Umnova, 1975 SPECIES
-=======
+# Archaeofavosina bipartita N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

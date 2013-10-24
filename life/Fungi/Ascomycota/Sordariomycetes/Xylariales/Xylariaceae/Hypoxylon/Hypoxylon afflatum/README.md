@@ -1,5 +1,4 @@
-Hypoxylon afflatum (Schwein.) M.A. Curtis SPECIES
-=======
+# Hypoxylon afflatum (Schwein.) M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

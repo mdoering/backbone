@@ -1,5 +1,4 @@
-Endophyllum nairobianum (Cummins) A.R. Wood SPECIES
-=======
+# Endophyllum nairobianum (Cummins) A.R. Wood SPECIES
 
 #### Status
 ACCEPTED

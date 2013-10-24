@@ -1,5 +1,4 @@
-Habrostictis elegans Rabenh. SPECIES
-=======
+# Habrostictis elegans Rabenh. SPECIES
 
 #### Status
 ACCEPTED

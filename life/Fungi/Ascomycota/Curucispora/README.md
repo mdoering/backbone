@@ -1,5 +1,4 @@
-Curucispora Matsush. GENUS
-=======
+# Curucispora Matsush. GENUS
 
 #### Status
 ACCEPTED

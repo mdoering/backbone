@@ -1,5 +1,4 @@
-Hyalopeziza latispora Raitv. SPECIES
-=======
+# Hyalopeziza latispora Raitv. SPECIES
 
 #### Status
 ACCEPTED

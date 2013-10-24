@@ -1,5 +1,4 @@
-Cortinarius porphyrophaeus E. Horak, 1990 SPECIES
-=======
+# Cortinarius porphyrophaeus E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

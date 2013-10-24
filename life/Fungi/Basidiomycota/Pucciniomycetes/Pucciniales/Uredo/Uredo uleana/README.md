@@ -1,5 +1,4 @@
-Uredo uleana Dietel SPECIES
-=======
+# Uredo uleana Dietel SPECIES
 
 #### Status
 ACCEPTED

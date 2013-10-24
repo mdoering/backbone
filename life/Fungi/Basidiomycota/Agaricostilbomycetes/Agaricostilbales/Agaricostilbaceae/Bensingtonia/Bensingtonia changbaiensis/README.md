@@ -1,5 +1,4 @@
-Bensingtonia changbaiensis F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Bensingtonia changbaiensis F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

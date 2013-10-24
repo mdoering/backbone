@@ -1,5 +1,4 @@
-Austroboletus schichianus (Teng & L. Ling) E. Horak SPECIES
-=======
+# Austroboletus schichianus (Teng & L. Ling) E. Horak SPECIES
 
 #### Status
 ACCEPTED

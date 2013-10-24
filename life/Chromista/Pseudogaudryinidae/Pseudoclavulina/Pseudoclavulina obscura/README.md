@@ -1,5 +1,4 @@
-Pseudoclavulina obscura (Chaster, 1892) SPECIES
-=======
+# Pseudoclavulina obscura (Chaster, 1892) SPECIES
 
 #### Status
 ACCEPTED

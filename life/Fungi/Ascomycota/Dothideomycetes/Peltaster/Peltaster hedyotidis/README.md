@@ -1,5 +1,4 @@
-Peltaster hedyotidis Syd. & P. Syd., 1917 SPECIES
-=======
+# Peltaster hedyotidis Syd. & P. Syd., 1917 SPECIES
 
 #### Status
 ACCEPTED

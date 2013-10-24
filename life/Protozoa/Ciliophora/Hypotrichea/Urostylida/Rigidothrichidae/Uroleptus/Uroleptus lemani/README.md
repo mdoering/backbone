@@ -1,5 +1,4 @@
-Uroleptus lemani SPECIES
-=======
+# Uroleptus lemani SPECIES
 
 #### Status
 ACCEPTED

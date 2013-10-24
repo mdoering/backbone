@@ -1,5 +1,4 @@
-Ocellularia antillensis Hale SPECIES
-=======
+# Ocellularia antillensis Hale SPECIES
 
 #### Status
 ACCEPTED

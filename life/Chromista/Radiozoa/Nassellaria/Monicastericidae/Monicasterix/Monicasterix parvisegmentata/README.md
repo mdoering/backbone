@@ -1,5 +1,4 @@
-Monicasterix parvisegmentata SPECIES
-=======
+# Monicasterix parvisegmentata SPECIES
 
 #### Status
 ACCEPTED

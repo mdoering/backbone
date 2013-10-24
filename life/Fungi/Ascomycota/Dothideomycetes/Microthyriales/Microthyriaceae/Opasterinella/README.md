@@ -1,5 +1,4 @@
-Opasterinella GENUS
-=======
+# Opasterinella GENUS
 
 #### Status
 ACCEPTED

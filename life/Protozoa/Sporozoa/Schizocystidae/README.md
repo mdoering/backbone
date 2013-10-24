@@ -1,5 +1,4 @@
-Schizocystidae FAMILY
-=======
+# Schizocystidae FAMILY
 
 #### Status
 ACCEPTED

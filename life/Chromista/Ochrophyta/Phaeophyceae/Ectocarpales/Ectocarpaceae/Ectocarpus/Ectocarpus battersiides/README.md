@@ -1,5 +1,4 @@
-Ectocarpus battersiides Ercegovic SPECIES
-=======
+# Ectocarpus battersiides Ercegovic SPECIES
 
 #### Status
 ACCEPTED

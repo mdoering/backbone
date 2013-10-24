@@ -1,14 +1,13 @@
-Phlebia chiricahuaensis (Gilb. & Budington) Sheng H. Wu, 1990 SPECIES
-=======
+# Resinicium chiricahuaense Gilb. & Budington, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. fenn. 142: 34 (1990)
+Mycologia 62(4): 675 (1970)
 
 #### Original name
 Resinicium chiricahuaense Gilb. & Budington, 1970

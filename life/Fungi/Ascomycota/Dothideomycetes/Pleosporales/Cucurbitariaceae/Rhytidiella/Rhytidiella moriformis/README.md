@@ -1,5 +1,4 @@
-Rhytidiella moriformis Zalasky, 1968 SPECIES
-=======
+# Rhytidiella moriformis Zalasky, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius zugazae G. Moreno, Montoya, Bandala & Heykoop SPECIES
-=======
+# Lactarius zugazae G. Moreno, Montoya, Bandala & Heykoop SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmeliella adglutinata Asahina SPECIES
-=======
+# Parmeliella adglutinata Asahina SPECIES
 
 #### Status
 ACCEPTED

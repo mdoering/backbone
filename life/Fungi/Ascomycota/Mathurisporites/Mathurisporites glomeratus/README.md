@@ -1,5 +1,4 @@
-Mathurisporites glomeratus (S.K. Srivast.) Kalgutkar & Janson. SPECIES
-=======
+# Mathurisporites glomeratus (S.K. Srivast.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

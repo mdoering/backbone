@@ -1,5 +1,4 @@
-Coryne albida (Berk.) Korf & Cand., 1974 SPECIES
-=======
+# Coryne albida (Berk.) Korf & Cand., 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Selenomonas acidaminovorans Guangsheng et al., 1997 SPECIES
-=======
+# Thermanaerovibrio acidaminovorans (Guangsheng et al., 1997) Baena et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

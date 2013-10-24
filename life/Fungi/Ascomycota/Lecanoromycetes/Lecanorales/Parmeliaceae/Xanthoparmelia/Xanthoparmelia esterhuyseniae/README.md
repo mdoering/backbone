@@ -1,5 +1,4 @@
-Xanthoparmelia esterhuyseniae Hale SPECIES
-=======
+# Xanthoparmelia esterhuyseniae Hale SPECIES
 
 #### Status
 ACCEPTED

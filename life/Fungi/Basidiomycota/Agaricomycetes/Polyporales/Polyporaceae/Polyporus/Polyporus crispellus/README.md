@@ -1,5 +1,4 @@
-Polyporus crispellus Peck SPECIES
-=======
+# Polyporus crispellus Peck SPECIES
 
 #### Status
 ACCEPTED

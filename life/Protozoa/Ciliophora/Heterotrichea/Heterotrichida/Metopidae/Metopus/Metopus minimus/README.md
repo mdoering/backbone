@@ -1,5 +1,4 @@
-Metopus minimus Kahl, 1932 SPECIES
-=======
+# Metopus minimus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

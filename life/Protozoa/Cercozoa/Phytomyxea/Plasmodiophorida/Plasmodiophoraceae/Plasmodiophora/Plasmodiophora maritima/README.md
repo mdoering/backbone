@@ -1,5 +1,4 @@
-Plasmodiophora maritima Feldm.-Maz. SPECIES
-=======
+# Plasmodiophora maritima Feldm.-Maz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monoicomyces infuscatus Speg. SPECIES
-=======
+# Monoicomyces infuscatus Speg. SPECIES
 
 #### Status
 ACCEPTED

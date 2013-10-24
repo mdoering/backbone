@@ -1,5 +1,4 @@
-Berengeria aurea (Schaer.) Trevis. SPECIES
-=======
+# Berengeria aurea (Schaer.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

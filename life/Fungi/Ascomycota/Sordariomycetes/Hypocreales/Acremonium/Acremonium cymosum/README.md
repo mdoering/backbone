@@ -1,5 +1,4 @@
-Acremonium cymosum W. Gams, 1971 SPECIES
-=======
+# Acremonium cymosum W. Gams, 1971 SPECIES
 
 #### Status
 ACCEPTED

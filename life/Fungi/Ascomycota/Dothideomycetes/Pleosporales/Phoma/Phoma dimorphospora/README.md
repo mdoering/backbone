@@ -1,5 +1,4 @@
-Phoma dimorphospora (Speg.) Aa & Kesteren, 1979 SPECIES
-=======
+# Phoma dimorphospora (Speg.) Aa & Kesteren, 1979 SPECIES
 
 #### Status
 ACCEPTED

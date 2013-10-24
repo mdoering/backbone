@@ -1,14 +1,13 @@
-Ustilago carbo var. lepturi Thüm. VARIETY
-=======
+# Sporisorium lepturi (Thüm.) Vánky, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 40: 163 (1991)
 
 #### Original name
 Ustilago carbo var. lepturi Thüm.

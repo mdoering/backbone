@@ -1,5 +1,4 @@
-Microsphaera verruculosa Y.N. Yu & Y.Q. Lai SPECIES
-=======
+# Microsphaera verruculosa Y.N. Yu & Y.Q. Lai SPECIES
 
 #### Status
 ACCEPTED

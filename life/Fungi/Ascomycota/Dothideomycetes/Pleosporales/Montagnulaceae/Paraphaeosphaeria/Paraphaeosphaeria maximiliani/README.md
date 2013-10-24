@@ -1,5 +1,4 @@
-Paraphaeosphaeria maximiliani (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Paraphaeosphaeria maximiliani (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

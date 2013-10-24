@@ -1,5 +1,4 @@
-Lecanora chondroderma var. chondroderma VARIETY
-=======
+# Lecanora chondroderma Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora chondroderma var. chondroderma
+Lecanora chondroderma Zahlbr.
 
 ### Remarks
 null

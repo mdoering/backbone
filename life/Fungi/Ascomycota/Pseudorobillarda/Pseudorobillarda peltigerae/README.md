@@ -1,5 +1,4 @@
-Pseudorobillarda peltigerae Diederich, 1998 SPECIES
-=======
+# Pseudorobillarda peltigerae Diederich, 1998 SPECIES
 
 #### Status
 ACCEPTED

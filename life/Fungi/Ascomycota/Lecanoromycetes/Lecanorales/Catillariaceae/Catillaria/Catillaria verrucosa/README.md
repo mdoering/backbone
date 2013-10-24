@@ -1,5 +1,4 @@
-Catillaria verrucosa (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria verrucosa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

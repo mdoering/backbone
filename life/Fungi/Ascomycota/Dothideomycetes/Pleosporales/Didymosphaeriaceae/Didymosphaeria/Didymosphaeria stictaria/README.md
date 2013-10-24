@@ -1,5 +1,4 @@
-Didymosphaeria stictaria (Linds.) Sacc. & Trotter SPECIES
-=======
+# Didymosphaeria stictaria (Linds.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium sinuosum Cooke, 1880 SPECIES
-=======
+# Hysterium sinuosum Cooke, 1880 SPECIES
 
 #### Status
 ACCEPTED

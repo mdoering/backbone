@@ -1,5 +1,4 @@
-Phyllachora congregata Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora congregata Theiss. & Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

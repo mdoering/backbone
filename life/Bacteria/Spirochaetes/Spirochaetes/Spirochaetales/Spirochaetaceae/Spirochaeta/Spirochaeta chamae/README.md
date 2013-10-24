@@ -1,5 +1,4 @@
-Spirochaeta chamae SPECIES
-=======
+# Spirochaeta chamae SPECIES
 
 #### Status
 ACCEPTED

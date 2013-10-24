@@ -1,5 +1,4 @@
-Erysibe pachypus G. Martin SPECIES
-=======
+# Erysibe pachypus G. Martin SPECIES
 
 #### Status
 ACCEPTED

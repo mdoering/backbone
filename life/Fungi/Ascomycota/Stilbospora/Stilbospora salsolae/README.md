@@ -1,5 +1,4 @@
-Stilbospora salsolae Tassi SPECIES
-=======
+# Stilbospora salsolae Tassi SPECIES
 
 #### Status
 ACCEPTED

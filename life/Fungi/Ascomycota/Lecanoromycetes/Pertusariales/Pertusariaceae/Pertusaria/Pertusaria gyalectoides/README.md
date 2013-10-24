@@ -1,5 +1,4 @@
-Pertusaria gyalectoides Vezda SPECIES
-=======
+# Pertusaria gyalectoides Vezda SPECIES
 
 #### Status
 ACCEPTED

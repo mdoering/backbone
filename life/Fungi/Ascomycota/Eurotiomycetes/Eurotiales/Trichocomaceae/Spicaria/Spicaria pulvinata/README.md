@@ -1,5 +1,4 @@
-Spicaria pulvinata Mains SPECIES
-=======
+# Spicaria pulvinata Mains SPECIES
 
 #### Status
 ACCEPTED

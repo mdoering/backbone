@@ -1,5 +1,4 @@
-Caloplaca oxneri S.Y. Kondr. & Søchting SPECIES
-=======
+# Caloplaca oxneri S.Y. Kondr. & Søchting SPECIES
 
 #### Status
 ACCEPTED

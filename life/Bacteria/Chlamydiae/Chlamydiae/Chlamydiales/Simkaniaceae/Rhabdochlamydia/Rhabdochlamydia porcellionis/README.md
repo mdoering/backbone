@@ -1,5 +1,4 @@
-Rhabdochlamydia porcellionis Kostanjsek et al., 2004. SPECIES
-=======
+# Rhabdochlamydia porcellionis Kostanjsek et al., 2004. SPECIES
 
 #### Status
 ACCEPTED

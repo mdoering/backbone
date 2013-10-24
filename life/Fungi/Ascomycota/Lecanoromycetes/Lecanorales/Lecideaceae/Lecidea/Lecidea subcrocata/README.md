@@ -1,5 +1,4 @@
-Lecidea subcrocata (J. Steiner) Hue SPECIES
-=======
+# Lecidea subcrocata (J. Steiner) Hue SPECIES
 
 #### Status
 ACCEPTED

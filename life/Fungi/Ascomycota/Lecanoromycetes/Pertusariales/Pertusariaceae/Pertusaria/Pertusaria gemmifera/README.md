@@ -1,5 +1,4 @@
-Pertusaria gemmifera C. Knight SPECIES
-=======
+# Pertusaria gemmifera C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phyllachora topographica Sacc., 1899 SPECIES
-=======
+# Phyllachora catervaria (Berk.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

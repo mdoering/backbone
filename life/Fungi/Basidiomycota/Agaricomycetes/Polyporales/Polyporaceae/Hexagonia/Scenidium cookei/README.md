@@ -1,5 +1,4 @@
-Scenidium cookei (Sacc.) Kuntze SPECIES
-=======
+# Scenidium cookei (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

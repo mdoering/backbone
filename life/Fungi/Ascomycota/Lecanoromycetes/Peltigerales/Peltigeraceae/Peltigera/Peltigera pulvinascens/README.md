@@ -1,5 +1,4 @@
-Peltigera pulvinascens Bitter ex Gyeln. SPECIES
-=======
+# Peltigera pulvinascens Bitter ex Gyeln. SPECIES
 
 #### Status
 ACCEPTED

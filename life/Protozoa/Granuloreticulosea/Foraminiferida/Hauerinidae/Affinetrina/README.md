@@ -1,5 +1,4 @@
-Affinetrina Luczkowska, 1972 GENUS
-=======
+# Affinetrina Luczkowska, 1972 GENUS
 
 #### Status
 ACCEPTED

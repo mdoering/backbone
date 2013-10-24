@@ -1,5 +1,4 @@
-Hemimycena pseudogracilis (Kühner & Maire) Singer SPECIES
-=======
+# Hemimycena pseudogracilis (Kühner & Maire) Singer SPECIES
 
 #### Status
 ACCEPTED

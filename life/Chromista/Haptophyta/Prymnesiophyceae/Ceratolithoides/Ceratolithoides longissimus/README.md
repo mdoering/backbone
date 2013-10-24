@@ -1,5 +1,4 @@
-Ceratolithoides longissimus SPECIES
-=======
+# Ceratolithoides longissimus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea verrucosa (A. Massal.) Nyl. SPECIES
-=======
+# Lecidea verrucosa (A. Massal.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

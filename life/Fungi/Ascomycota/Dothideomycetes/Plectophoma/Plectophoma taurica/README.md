@@ -1,5 +1,4 @@
-Plectophoma taurica Gucevic SPECIES
-=======
+# Plectophoma taurica Gucevic SPECIES
 
 #### Status
 ACCEPTED

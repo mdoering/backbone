@@ -1,17 +1,16 @@
-Ramaria zippelii var. zippelii (Lév.) Corner, 1950 VARIETY
-=======
+# Ramaria palmata (Pers.) Donk, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 21: 106 (1933)
 
 #### Original name
-null
+Clavaria palmata Pers., 1797
 
 ### Remarks
 null

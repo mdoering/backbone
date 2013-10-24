@@ -1,5 +1,4 @@
-Sclerotinia verrucispora Baral SPECIES
-=======
+# Sclerotinia verrucispora Baral SPECIES
 
 #### Status
 ACCEPTED

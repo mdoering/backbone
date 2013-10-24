@@ -1,5 +1,4 @@
-Misgomyces spiralis Thaxt. SPECIES
-=======
+# Misgomyces spiralis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

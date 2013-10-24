@@ -1,5 +1,4 @@
-Mortierella citrakookensis B.S. Mehrotra SPECIES
-=======
+# Mortierella citrakookensis B.S. Mehrotra SPECIES
 
 #### Status
 ACCEPTED

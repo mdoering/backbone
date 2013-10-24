@@ -1,5 +1,4 @@
-Leptostroma caricinellum Höhn. SPECIES
-=======
+# Leptostroma caricinellum Höhn. SPECIES
 
 #### Status
 ACCEPTED

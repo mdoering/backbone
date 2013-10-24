@@ -1,17 +1,16 @@
-Agaricus sepiarius var. sepiarius VARIETY
-=======
+# Gloeophyllum sepiarium (Wulfen) P. Karst., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bidr. Känn. Finl. Nat. Folk 37: 79 (1882)
 
 #### Original name
-null
+Agaricus sepiarius Wulfen, 1786
 
 ### Remarks
 null

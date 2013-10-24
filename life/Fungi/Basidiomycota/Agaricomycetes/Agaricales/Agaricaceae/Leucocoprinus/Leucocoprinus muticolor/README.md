@@ -1,5 +1,4 @@
-Leucocoprinus muticolor (Murrill) Aberdeen SPECIES
-=======
+# Leucocoprinus muticolor (Murrill) Aberdeen SPECIES
 
 #### Status
 ACCEPTED

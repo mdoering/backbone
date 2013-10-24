@@ -1,5 +1,4 @@
-Anamika K.A. Thomas, Peintner, M.M. Moser & Manim. GENUS
-=======
+# Anamika K.A. Thomas, Peintner, M.M. Moser & Manim. GENUS
 
 #### Status
 ACCEPTED

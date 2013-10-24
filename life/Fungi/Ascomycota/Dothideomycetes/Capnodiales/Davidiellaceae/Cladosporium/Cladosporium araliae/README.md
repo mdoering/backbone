@@ -1,5 +1,4 @@
-Cladosporium araliae Sawada SPECIES
-=======
+# Cladosporium araliae Sawada SPECIES
 
 #### Status
 ACCEPTED

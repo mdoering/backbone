@@ -1,5 +1,4 @@
-Cercospora geniculata A.K. Das SPECIES
-=======
+# Cercospora geniculata A.K. Das SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neohendersonia pyriformis (G.H. Otth) Petr. SPECIES
-=======
+# Neohendersonia pyriformis (G.H. Otth) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euplotes latus Kahl, 1932 SPECIES
-=======
+# Euplotes latus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia phaeomelana (Meyen & Flot.) Zahlbr. SPECIES
-=======
+# Bacidia phaeomelana (Meyen & Flot.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

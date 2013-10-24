@@ -1,5 +1,4 @@
-Mycoderma pararugosum (Castell. & M. Douglas) C.W. Dodge SPECIES
-=======
+# Mycoderma pararugosum (Castell. & M. Douglas) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

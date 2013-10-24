@@ -1,5 +1,4 @@
-Usnea recurvata Chao {?}, Hsa {?} & Sun {?} SPECIES
-=======
+# Usnea recurvata Chao {?}, Hsa {?} & Sun {?} SPECIES
 
 #### Status
 ACCEPTED

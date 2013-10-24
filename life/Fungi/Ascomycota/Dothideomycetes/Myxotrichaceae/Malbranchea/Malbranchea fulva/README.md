@@ -1,5 +1,4 @@
-Malbranchea fulva Sigler & J.W. Carmich., 1976 SPECIES
-=======
+# Malbranchea fulva Sigler & J.W. Carmich., 1976 SPECIES
 
 #### Status
 ACCEPTED

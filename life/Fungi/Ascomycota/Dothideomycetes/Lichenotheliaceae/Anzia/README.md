@@ -1,5 +1,4 @@
-Anzia GENUS
-=======
+# Anzia GENUS
 
 #### Status
 ACCEPTED

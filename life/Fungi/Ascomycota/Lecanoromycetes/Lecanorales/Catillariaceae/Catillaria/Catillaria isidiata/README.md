@@ -1,5 +1,4 @@
-Catillaria isidiata Malme SPECIES
-=======
+# Catillaria isidiata Malme SPECIES
 
 #### Status
 ACCEPTED

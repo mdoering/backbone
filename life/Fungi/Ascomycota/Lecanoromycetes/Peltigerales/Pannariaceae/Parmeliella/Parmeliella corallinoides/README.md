@@ -1,5 +1,4 @@
-Parmeliella corallinoides var. corallinoides VARIETY
-=======
+# Parmeliella corallinoides (Hoffm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annln K. K. naturh. Hofmus. Wien 13: 462 (1899)
 
 #### Original name
-Parmeliella corallinoides var. corallinoides
+Stereocaulon corallinoides Hoffm.
 
 ### Remarks
 null

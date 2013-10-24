@@ -1,5 +1,4 @@
-Scolecopeltis transiens (Höhn.) Sacc. & Trotter SPECIES
-=======
+# Scolecopeltis transiens (Höhn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

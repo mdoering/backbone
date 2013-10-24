@@ -1,5 +1,4 @@
-Agaricus ericetosus Pers. SPECIES
-=======
+# Agaricus ericetosus Pers. SPECIES
 
 #### Status
 ACCEPTED

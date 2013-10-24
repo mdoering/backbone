@@ -1,5 +1,4 @@
-Litoreibacter Romanenko, Tanaka, Frolova, Svetashev & Mikhailov, 2011 GENUS
-=======
+# Litoreibacter Romanenko, Tanaka, Frolova, Svetashev & Mikhailov, 2011 GENUS
 
 #### Status
 ACCEPTED

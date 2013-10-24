@@ -1,5 +1,4 @@
-Filaspora gomphrocarpi (F. Tassi) Kuntze SPECIES
-=======
+# Filaspora gomphrocarpi (F. Tassi) Kuntze SPECIES
 
 #### Status
 ACCEPTED

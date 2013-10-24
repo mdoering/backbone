@@ -1,5 +1,4 @@
-Mycomicrothelia xanthonica Komposch, Aptroot & Hafellner SPECIES
-=======
+# Mycomicrothelia xanthonica Komposch, Aptroot & Hafellner SPECIES
 
 #### Status
 ACCEPTED

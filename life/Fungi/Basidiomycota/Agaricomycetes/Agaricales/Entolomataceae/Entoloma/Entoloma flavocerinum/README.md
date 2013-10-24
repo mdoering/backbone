@@ -1,5 +1,4 @@
-Entoloma flavocerinum E. Horak SPECIES
-=======
+# Entoloma flavocerinum E. Horak SPECIES
 
 #### Status
 ACCEPTED

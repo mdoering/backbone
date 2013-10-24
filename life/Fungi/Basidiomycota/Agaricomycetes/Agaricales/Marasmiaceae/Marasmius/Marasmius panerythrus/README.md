@@ -1,5 +1,4 @@
-Marasmius panerythrus Singer SPECIES
-=======
+# Marasmius panerythrus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Exoascus pruni var. pruni (Tul.) Fuckel VARIETY
-=======
+# Taphrina pruni Tul., 1866 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 29 (1870)
+Annls Sci. Nat. , Bot. , sér. 5 5: 129 (1866)
 
 #### Original name
-Exoascus pruni var. pruni (Tul.) Fuckel
+Taphrina pruni Tul., 1866
 
 ### Remarks
 null

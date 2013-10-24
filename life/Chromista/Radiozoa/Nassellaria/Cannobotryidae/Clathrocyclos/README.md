@@ -1,5 +1,4 @@
-Clathrocyclos Broch, 1905 GENUS
-=======
+# Clathrocyclos Broch, 1905 GENUS
 
 #### Status
 ACCEPTED

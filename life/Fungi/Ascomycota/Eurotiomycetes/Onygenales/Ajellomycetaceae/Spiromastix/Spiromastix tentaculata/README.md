@@ -1,5 +1,4 @@
-Spiromastix tentaculata Guarro, Gené & De Vroey SPECIES
-=======
+# Spiromastix tentaculata Guarro, Gené & De Vroey SPECIES
 
 #### Status
 ACCEPTED

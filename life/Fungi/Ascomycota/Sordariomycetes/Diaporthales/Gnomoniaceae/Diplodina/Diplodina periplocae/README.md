@@ -1,5 +1,4 @@
-Diplodina periplocae Hollós SPECIES
-=======
+# Diplodina periplocae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria majuscula Sacc. SPECIES
-=======
+# Botryosphaeria majuscula Sacc. SPECIES
 
 #### Status
 ACCEPTED

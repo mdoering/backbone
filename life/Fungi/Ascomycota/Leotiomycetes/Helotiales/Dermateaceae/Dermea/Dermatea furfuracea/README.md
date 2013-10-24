@@ -1,5 +1,4 @@
-Dermatea furfuracea Fuckel SPECIES
-=======
+# Dermatea furfuracea Fuckel SPECIES
 
 #### Status
 ACCEPTED

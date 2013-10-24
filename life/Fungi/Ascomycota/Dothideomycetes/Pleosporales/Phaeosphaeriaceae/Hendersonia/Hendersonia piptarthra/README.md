@@ -1,5 +1,4 @@
-Hendersonia piptarthra Sacc. SPECIES
-=======
+# Hendersonia piptarthra Sacc. SPECIES
 
 #### Status
 ACCEPTED

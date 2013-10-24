@@ -1,5 +1,4 @@
-Opercularia reifi SPECIES
-=======
+# Opercularia reifi SPECIES
 
 #### Status
 ACCEPTED

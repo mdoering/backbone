@@ -1,5 +1,4 @@
-Lecanora clancularia Nyl. SPECIES
-=======
+# Lecanora clancularia Nyl. SPECIES
 
 #### Status
 ACCEPTED

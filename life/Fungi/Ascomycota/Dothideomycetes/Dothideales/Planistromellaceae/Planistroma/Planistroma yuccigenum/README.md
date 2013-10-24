@@ -1,17 +1,16 @@
-Planistroma yuccigena A.W. Ramaley SPECIES
-=======
+# Planistroma yuccigenum A.W. Ramaley, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 42: 69 (1991)
 
 #### Original name
-Planistroma yuccigena A.W. Ramaley
+Planistroma yuccigenum A.W. Ramaley, 1991
 
 ### Remarks
 null

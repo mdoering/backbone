@@ -1,5 +1,4 @@
-Plecanium Reuss, 1862 GENUS
-=======
+# Plecanium Reuss, 1862 GENUS
 
 #### Status
 ACCEPTED

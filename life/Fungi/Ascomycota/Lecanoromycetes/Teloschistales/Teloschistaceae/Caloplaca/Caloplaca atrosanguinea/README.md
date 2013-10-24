@@ -1,5 +1,4 @@
-Caloplaca atrosanguinea (G. Merr.) I. M. Lamb SPECIES
-=======
+# Caloplaca atrosanguinea (G. Merr.) I. M. Lamb SPECIES
 
 #### Status
 ACCEPTED

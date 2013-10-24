@@ -1,17 +1,16 @@
-Isaria umbrina var. umbrina VARIETY
-=======
+# Nodulisporium umbrinum (Pers.) Deighton, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 85(3): 394 (1985)
 
 #### Original name
-null
+Isaria umbrina Pers., 1801
 
 ### Remarks
 null

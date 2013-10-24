@@ -1,5 +1,4 @@
-Inocybe fasciata (Cooke & Massee) Sacc. SPECIES
-=======
+# Inocybe fasciata (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

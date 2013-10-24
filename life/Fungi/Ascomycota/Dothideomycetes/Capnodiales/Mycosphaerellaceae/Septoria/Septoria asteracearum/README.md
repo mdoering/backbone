@@ -1,5 +1,4 @@
-Septoria asteracearum P.N. Singh, S.B. Gaikwad & S.K. Singh SPECIES
-=======
+# Septoria asteracearum P.N. Singh, S.B. Gaikwad & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

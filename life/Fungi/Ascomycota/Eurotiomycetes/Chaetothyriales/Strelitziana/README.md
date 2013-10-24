@@ -1,5 +1,4 @@
-Strelitziana Arzanlou & Crous GENUS
-=======
+# Strelitziana Arzanlou & Crous GENUS
 
 #### Status
 ACCEPTED

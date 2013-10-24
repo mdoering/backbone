@@ -1,5 +1,4 @@
-Rhabdospora cervariae Syd. {?} SPECIES
-=======
+# Rhabdospora cervariae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

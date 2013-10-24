@@ -1,5 +1,4 @@
-Artocarpium Haeckel, 1887 GENUS
-=======
+# Artocarpium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

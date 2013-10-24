@@ -1,5 +1,4 @@
-Rhizopogon odoratus A.H. Sm. SPECIES
-=======
+# Rhizopogon odoratus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

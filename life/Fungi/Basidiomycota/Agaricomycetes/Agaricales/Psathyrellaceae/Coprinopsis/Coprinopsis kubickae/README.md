@@ -1,5 +1,4 @@
-Coprinopsis kubickae (Pilát & Svrcek) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis kubickae (Pilát & Svrcek) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

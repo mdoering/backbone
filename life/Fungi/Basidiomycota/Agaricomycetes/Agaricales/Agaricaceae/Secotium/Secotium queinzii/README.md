@@ -1,5 +1,4 @@
-Secotium queinzii Kunze SPECIES
-=======
+# Secotium queinzii Kunze SPECIES
 
 #### Status
 ACCEPTED

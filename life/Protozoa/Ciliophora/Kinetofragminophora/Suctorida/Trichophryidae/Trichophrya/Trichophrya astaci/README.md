@@ -1,5 +1,4 @@
-Trichophrya astaci Stein, 1859 SPECIES
-=======
+# Trichophrya astaci Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

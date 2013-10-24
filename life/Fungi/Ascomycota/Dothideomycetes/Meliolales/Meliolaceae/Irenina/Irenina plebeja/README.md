@@ -1,5 +1,4 @@
-Irenina plebeja (Speg.) F. Stevens SPECIES
-=======
+# Irenina plebeja (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

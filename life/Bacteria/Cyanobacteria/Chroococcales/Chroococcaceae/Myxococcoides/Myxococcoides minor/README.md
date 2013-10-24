@@ -1,5 +1,4 @@
-Myxococcoides minor Schopf, 1968 SPECIES
-=======
+# Myxococcoides minor Schopf, 1968 SPECIES
 
 #### Status
 ACCEPTED

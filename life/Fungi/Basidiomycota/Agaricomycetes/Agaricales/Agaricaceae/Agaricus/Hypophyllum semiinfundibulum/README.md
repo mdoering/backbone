@@ -1,5 +1,4 @@
-Hypophyllum semiinfundibulum Paulet SPECIES
-=======
+# Hypophyllum semiinfundibulum Paulet SPECIES
 
 #### Status
 ACCEPTED

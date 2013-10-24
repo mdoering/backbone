@@ -1,5 +1,4 @@
-Phyllosticta euphorbiae Roum. SPECIES
-=======
+# Phyllosticta euphorbiae Roum. SPECIES
 
 #### Status
 ACCEPTED

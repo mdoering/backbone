@@ -1,5 +1,4 @@
-Discosporina carpinicola Petr., 1952 SPECIES
-=======
+# Discosporina carpinicola Petr., 1952 SPECIES
 
 #### Status
 ACCEPTED

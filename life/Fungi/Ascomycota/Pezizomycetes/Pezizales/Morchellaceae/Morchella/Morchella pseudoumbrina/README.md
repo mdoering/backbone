@@ -1,5 +1,4 @@
-Morchella pseudoumbrina var. pseudoumbrina VARIETY
-=======
+# Morchella pseudoumbrina Jacquet. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Jacquetant & Bon, Docums Mycol. 14(no. 56): 1 (1985)
 
 #### Original name
-Morchella pseudoumbrina var. pseudoumbrina
+Morchella pseudoumbrina Jacquet.
 
 ### Remarks
 null

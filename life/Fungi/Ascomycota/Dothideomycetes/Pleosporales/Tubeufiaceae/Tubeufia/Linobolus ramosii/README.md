@@ -1,17 +1,16 @@
-Linobolus ramusii Syd. & P. Syd. SPECIES
-=======
+# Linobolus ramosii Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 15(3/4): 204 (1917)
 
 #### Original name
-Linobolus ramusii Syd. & P. Syd.
+Linobolus ramosii Syd. & P. Syd.
 
 ### Remarks
 null

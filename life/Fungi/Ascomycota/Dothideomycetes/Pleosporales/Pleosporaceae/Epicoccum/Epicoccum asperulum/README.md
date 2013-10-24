@@ -1,5 +1,4 @@
-Epicoccum asperulum G.H. Otth SPECIES
-=======
+# Epicoccum asperulum G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

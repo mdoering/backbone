@@ -1,5 +1,4 @@
-Cryptothele cylindrophora (Vain.) Henssen SPECIES
-=======
+# Cryptothele cylindrophora (Vain.) Henssen SPECIES
 
 #### Status
 ACCEPTED

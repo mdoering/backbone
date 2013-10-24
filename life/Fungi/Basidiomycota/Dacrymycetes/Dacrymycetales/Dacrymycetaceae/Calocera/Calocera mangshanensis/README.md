@@ -1,5 +1,4 @@
-Calocera mangshanensis B. Liu & L. Fan SPECIES
-=======
+# Calocera mangshanensis B. Liu & L. Fan SPECIES
 
 #### Status
 ACCEPTED

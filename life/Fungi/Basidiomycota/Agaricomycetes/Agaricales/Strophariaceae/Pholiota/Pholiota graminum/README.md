@@ -1,5 +1,4 @@
-Pholiota graminum Cleland SPECIES
-=======
+# Pholiota graminum Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia deyeuxiae L. Ling SPECIES
-=======
+# Tilletia deyeuxiae L. Ling SPECIES
 
 #### Status
 ACCEPTED

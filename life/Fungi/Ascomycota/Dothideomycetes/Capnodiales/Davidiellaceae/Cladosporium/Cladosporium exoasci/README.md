@@ -1,5 +1,4 @@
-Cladosporium exoasci Lindau SPECIES
-=======
+# Cladosporium exoasci Lindau SPECIES
 
 #### Status
 ACCEPTED

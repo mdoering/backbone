@@ -1,5 +1,4 @@
-Stagonospora diversiseptata Rieuf & Teasca SPECIES
-=======
+# Stagonospora diversiseptata Rieuf & Teasca SPECIES
 
 #### Status
 ACCEPTED

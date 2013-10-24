@@ -1,17 +1,16 @@
-Didymosporis Clem. & Shear GENUS
-=======
+# Didymosporiella Traverso & Migliardi GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 365 (1931)
+in Migliardi & Traverso, Fl. Mic. Venez. 4 (1911)
 
 #### Original name
-Didymosporis Clem. & Shear
+Didymosporiella Traverso & Migliardi
 
 ### Remarks
 null

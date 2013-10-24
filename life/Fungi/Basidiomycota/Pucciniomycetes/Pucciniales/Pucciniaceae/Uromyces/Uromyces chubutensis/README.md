@@ -1,5 +1,4 @@
-Uromyces chubutensis Speg. SPECIES
-=======
+# Uromyces chubutensis Speg. SPECIES
 
 #### Status
 ACCEPTED

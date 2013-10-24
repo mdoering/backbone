@@ -1,5 +1,4 @@
-Penidiella columbiana Crous & U. Braun, 2007 SPECIES
-=======
+# Penidiella columbiana Crous & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

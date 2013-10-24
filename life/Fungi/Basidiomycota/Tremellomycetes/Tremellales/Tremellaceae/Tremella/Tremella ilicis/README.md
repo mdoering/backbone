@@ -1,5 +1,4 @@
-Tremella ilicis Boud. SPECIES
-=======
+# Tremella ilicis Boud. SPECIES
 
 #### Status
 ACCEPTED

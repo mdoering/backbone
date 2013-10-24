@@ -1,5 +1,4 @@
-Clitocybe ochracea Gillet SPECIES
-=======
+# Clitocybe ochracea Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella albotincta Rehm SPECIES
-=======
+# Pezizella albotincta Rehm SPECIES
 
 #### Status
 ACCEPTED

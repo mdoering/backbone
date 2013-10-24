@@ -1,5 +1,4 @@
-Lecidea ochrochlora Ach. SPECIES
-=======
+# Lecidea ochrochlora Ach. SPECIES
 
 #### Status
 ACCEPTED

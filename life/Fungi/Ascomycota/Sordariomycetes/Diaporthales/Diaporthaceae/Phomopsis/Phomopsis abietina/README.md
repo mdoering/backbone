@@ -1,8 +1,7 @@
-Phoma abietina Hartig SPECIES
-=======
+# Phomopsis abietina (Hartig) Höhn., 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

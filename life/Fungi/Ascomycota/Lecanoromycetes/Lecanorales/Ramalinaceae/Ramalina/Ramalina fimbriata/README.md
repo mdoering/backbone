@@ -1,14 +1,13 @@
-Fistulariella fimbriata (Krog & Swinscow) Bowler & Rundel SPECIES
-=======
+# Ramalina fimbriata Krog & Swinscow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 6(1): 198 (1977)
+Norw. Jl Bot. 21: 117 (1974)
 
 #### Original name
 Ramalina fimbriata Krog & Swinscow

@@ -1,5 +1,4 @@
-Umbilicaria polyphylloides Nyl. SPECIES
-=======
+# Umbilicaria polyphylloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

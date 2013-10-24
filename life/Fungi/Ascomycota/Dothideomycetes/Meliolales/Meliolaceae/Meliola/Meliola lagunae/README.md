@@ -1,5 +1,4 @@
-Meliola lagunae (Hansf.) Cif. SPECIES
-=======
+# Meliola lagunae (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

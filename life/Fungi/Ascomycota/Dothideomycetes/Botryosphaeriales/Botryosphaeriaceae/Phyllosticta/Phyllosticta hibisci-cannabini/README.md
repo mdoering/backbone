@@ -1,5 +1,4 @@
-Phyllosticta hibisci-cannabini Sawada SPECIES
-=======
+# Phyllosticta hibisci-cannabini Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus posadensis Speg. SPECIES
-=======
+# Agaricus posadensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Megalospora A. Massal. GENUS
-=======
+# Mycoblastus Norman GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nytt Mag. Natur. 7: 236 (1853)
 
 #### Original name
-Megalospora A. Massal.
+Mycoblastus Norman
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Boletus subgriseus C.Z. Bi SPECIES
-=======
+# Boletus subgriseus C.Z. Bi SPECIES
 
 #### Status
 ACCEPTED

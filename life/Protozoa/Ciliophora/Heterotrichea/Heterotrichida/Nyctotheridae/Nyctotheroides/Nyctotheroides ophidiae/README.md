@@ -1,5 +1,4 @@
-Nyctotheroides ophidiae (Fantham & Porter, 1950) ? SPECIES
-=======
+# Nyctotheroides ophidiae (Fantham & Porter, 1950) ? SPECIES
 
 #### Status
 ACCEPTED

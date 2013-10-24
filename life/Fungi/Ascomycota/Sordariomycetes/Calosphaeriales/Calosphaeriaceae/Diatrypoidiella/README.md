@@ -1,5 +1,4 @@
-Diatrypoidiella Manoharachary, Kunwar & Agarwal GENUS
-=======
+# Diatrypoidiella Manoharachary, Kunwar & Agarwal GENUS
 
 #### Status
 ACCEPTED

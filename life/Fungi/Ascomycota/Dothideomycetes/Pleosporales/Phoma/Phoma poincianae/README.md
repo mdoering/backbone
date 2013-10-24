@@ -1,5 +1,4 @@
-Phoma poincianae Gucevic SPECIES
-=======
+# Phoma poincianae Gucevic SPECIES
 
 #### Status
 ACCEPTED

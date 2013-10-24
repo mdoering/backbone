@@ -1,5 +1,4 @@
-Mitrula johnsonii Sacc. SPECIES
-=======
+# Mitrula johnsonii Sacc. SPECIES
 
 #### Status
 ACCEPTED

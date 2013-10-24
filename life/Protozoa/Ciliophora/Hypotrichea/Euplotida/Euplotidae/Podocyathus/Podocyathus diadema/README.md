@@ -1,5 +1,4 @@
-Podocyathus diadema Kent, 1882 SPECIES
-=======
+# Podocyathus diadema Kent, 1882 SPECIES
 
 #### Status
 ACCEPTED

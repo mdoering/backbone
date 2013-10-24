@@ -1,5 +1,4 @@
-Psalliota praemagniceps Murrill SPECIES
-=======
+# Psalliota praemagniceps Murrill SPECIES
 
 #### Status
 ACCEPTED

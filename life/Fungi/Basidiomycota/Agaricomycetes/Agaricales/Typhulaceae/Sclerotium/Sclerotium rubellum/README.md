@@ -1,5 +1,4 @@
-Sclerotium rubellum Lesq. SPECIES
-=======
+# Sclerotium rubellum Lesq. SPECIES
 
 #### Status
 ACCEPTED

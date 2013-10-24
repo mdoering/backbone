@@ -1,11 +1,10 @@
-Spirochaeta hispanica de Buen, 1926 SPECIES
-=======
+# Borrelia hispanica (de Buen, 1926) Steinhaus, 1946 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Sphaerobolus rubidus Berk. & Broome SPECIES
-=======
+# Sphaerobolus rubidus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

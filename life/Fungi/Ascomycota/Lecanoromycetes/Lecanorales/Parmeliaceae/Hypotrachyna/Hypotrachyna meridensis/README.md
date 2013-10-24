@@ -1,5 +1,4 @@
-Hypotrachyna meridensis Hale & López-Fig. SPECIES
-=======
+# Hypotrachyna meridensis Hale & López-Fig. SPECIES
 
 #### Status
 ACCEPTED

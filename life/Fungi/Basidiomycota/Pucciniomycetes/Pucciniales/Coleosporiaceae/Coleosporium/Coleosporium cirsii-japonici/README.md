@@ -1,5 +1,4 @@
-Coleosporium cirsii-japonici Dietel SPECIES
-=======
+# Coleosporium cirsii-japonici Dietel SPECIES
 
 #### Status
 ACCEPTED

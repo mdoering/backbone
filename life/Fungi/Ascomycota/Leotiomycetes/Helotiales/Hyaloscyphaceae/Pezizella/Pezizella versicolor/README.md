@@ -1,5 +1,4 @@
-Pezizella versicolor (Desm.) Spooner SPECIES
-=======
+# Pezizella versicolor (Desm.) Spooner SPECIES
 
 #### Status
 ACCEPTED

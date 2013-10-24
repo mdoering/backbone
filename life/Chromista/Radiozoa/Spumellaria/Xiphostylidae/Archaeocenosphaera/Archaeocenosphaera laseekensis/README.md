@@ -1,5 +1,4 @@
-Archaeocenosphaera laseekensis SPECIES
-=======
+# Archaeocenosphaera laseekensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus testudineus Pers. SPECIES
-=======
+# Agaricus testudineus Pers. SPECIES
 
 #### Status
 ACCEPTED

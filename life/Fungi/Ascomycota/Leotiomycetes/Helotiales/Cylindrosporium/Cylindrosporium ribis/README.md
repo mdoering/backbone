@@ -1,5 +1,4 @@
-Cylindrosporium ribis Davis SPECIES
-=======
+# Cylindrosporium ribis Davis SPECIES
 
 #### Status
 ACCEPTED

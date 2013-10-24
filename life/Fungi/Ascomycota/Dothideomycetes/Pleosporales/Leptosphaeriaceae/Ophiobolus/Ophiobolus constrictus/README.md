@@ -1,5 +1,4 @@
-Ophiobolus constrictus E. Müll. SPECIES
-=======
+# Ophiobolus constrictus E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nummularia patella Syd. & P. Syd. SPECIES
-=======
+# Nummularia patella Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

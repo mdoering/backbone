@@ -1,5 +1,4 @@
-Thermobrachium Engle et al., 1996 GENUS
-=======
+# Thermobrachium Engle et al., 1996 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea latypea var. latypea VARIETY
-=======
+# Lecidea latypea Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea latypea var. latypea
+Lecidea latypea Ach.
 
 ### Remarks
 null

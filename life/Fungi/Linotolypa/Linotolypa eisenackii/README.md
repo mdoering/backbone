@@ -1,5 +1,4 @@
-Linotolypa eisenackii Lopukhin, 1974 SPECIES
-=======
+# Linotolypa eisenackii Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

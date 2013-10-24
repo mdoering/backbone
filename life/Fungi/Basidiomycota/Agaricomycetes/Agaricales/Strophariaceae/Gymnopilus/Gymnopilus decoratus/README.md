@@ -1,5 +1,4 @@
-Gymnopilus decoratus Murrill SPECIES
-=======
+# Gymnopilus decoratus Murrill SPECIES
 
 #### Status
 ACCEPTED

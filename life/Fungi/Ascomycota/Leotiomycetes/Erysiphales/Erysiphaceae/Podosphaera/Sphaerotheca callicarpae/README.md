@@ -1,5 +1,4 @@
-Sphaerotheca callicarpae Tanda & Y. Nomura SPECIES
-=======
+# Sphaerotheca callicarpae Tanda & Y. Nomura SPECIES
 
 #### Status
 ACCEPTED

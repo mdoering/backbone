@@ -1,5 +1,4 @@
-Thyridium robiniae G.H. Otth SPECIES
-=======
+# Thyridium robiniae G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

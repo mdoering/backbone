@@ -1,17 +1,16 @@
-Pharcidiopsis Sacc. GENUS
-=======
+# Stigmidium Trevis. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 17: 646 (1905)
+Consp. Verruc. 17 (1860)
 
 #### Original name
-Pharcidiopsis Sacc.
+Stigmidium Trevis.
 
 ### Remarks
 null

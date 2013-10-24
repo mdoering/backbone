@@ -1,5 +1,4 @@
-Inocybe laeta Alessio SPECIES
-=======
+# Inocybe laeta Alessio SPECIES
 
 #### Status
 ACCEPTED

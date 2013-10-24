@@ -1,17 +1,16 @@
-Phomopsis mali f. sp FORM
-=======
+# Phomopsis prunorum (Cooke) Grove, 1917 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mikoflora Podgornoi Raviniy Kopetdaga i Tsentral'nykh Karakumov [Mycoflora of the mountainous plains of Kopet Dagh and Central Kara Kum] (Ashkhabad) 111 (1973)
 
 #### Original name
-Phomopsis mali f. sp
+Phomopsis prunorum (Cooke) Grove, 1917
 
 ### Remarks
 null

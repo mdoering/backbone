@@ -1,17 +1,16 @@
-Fimetaria Griffiths & Seaver GENUS
-=======
+# Sordaria Ces. & De Not. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Seaver, N. Amer. Fl. (New York) 3: 65 (1910)
+Comm. Soc. crittog. Ital. 1: 225 (1863)
 
 #### Original name
-Fimetaria Griffiths & Seaver
+Sordaria Ces. & De Not.
 
 ### Remarks
 null

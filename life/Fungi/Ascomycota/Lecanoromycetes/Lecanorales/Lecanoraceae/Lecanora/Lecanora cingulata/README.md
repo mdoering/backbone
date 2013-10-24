@@ -1,5 +1,4 @@
-Lecanora cingulata f. cingulata FORM
-=======
+# Lecanora cingulata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora cingulata f. cingulata
+Lecanora cingulata Zahlbr.
 
 ### Remarks
 null

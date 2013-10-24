@@ -1,5 +1,4 @@
-Trichia polymorpha Sowerby SPECIES
-=======
+# Trichia polymorpha Sowerby SPECIES
 
 #### Status
 ACCEPTED

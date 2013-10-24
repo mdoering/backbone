@@ -1,5 +1,4 @@
-Selenophoma exigua Petr. SPECIES
-=======
+# Selenophoma exigua Petr. SPECIES
 
 #### Status
 ACCEPTED

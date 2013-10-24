@@ -1,5 +1,4 @@
-Sphaeria fraudolenta Durieu & Mont. SPECIES
-=======
+# Sphaeria fraudolenta Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrophoropsis koidzumii (Yasuda) Räsänen SPECIES
-=======
+# Gyrophoropsis koidzumii (Yasuda) Räsänen SPECIES
 
 #### Status
 ACCEPTED

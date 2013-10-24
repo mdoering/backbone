@@ -1,5 +1,4 @@
-Amycolatopsis plumensis Saintpierre-Bonaccio et al., 2005 SPECIES
-=======
+# Amycolatopsis plumensis Saintpierre-Bonaccio et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

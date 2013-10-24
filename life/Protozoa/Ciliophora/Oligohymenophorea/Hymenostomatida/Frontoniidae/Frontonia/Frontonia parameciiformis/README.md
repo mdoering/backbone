@@ -1,5 +1,4 @@
-Frontonia parameciiformis Wenzel, 1953 SPECIES
-=======
+# Frontonia parameciiformis Wenzel, 1953 SPECIES
 
 #### Status
 ACCEPTED

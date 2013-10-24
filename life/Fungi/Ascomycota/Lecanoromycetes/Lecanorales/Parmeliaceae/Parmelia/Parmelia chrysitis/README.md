@@ -1,5 +1,4 @@
-Parmelia chrysitis Spreng. SPECIES
-=======
+# Parmelia chrysitis Spreng. SPECIES
 
 #### Status
 ACCEPTED

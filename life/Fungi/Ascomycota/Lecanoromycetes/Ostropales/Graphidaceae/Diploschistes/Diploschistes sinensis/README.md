@@ -1,5 +1,4 @@
-Diploschistes sinensis H. Magn. SPECIES
-=======
+# Diploschistes sinensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

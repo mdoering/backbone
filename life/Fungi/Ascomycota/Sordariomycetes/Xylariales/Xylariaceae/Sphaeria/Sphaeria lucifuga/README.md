@@ -1,5 +1,4 @@
-Sphaeria lucifuga Jungh. SPECIES
-=======
+# Sphaeria lucifuga Jungh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hystrichosphaeridium semanticum Chibrikova, 1972 SPECIES
-=======
+# Hystrichosphaeridium semanticum Chibrikova, 1972 SPECIES
 
 #### Status
 ACCEPTED

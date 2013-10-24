@@ -1,5 +1,4 @@
-Ascosphaera fusiformis Skou, 1988 SPECIES
-=======
+# Ascosphaera fusiformis Skou, 1988 SPECIES
 
 #### Status
 ACCEPTED

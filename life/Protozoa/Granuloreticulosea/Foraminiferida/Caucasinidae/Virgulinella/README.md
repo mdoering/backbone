@@ -1,5 +1,4 @@
-Virgulinella Cushman, 1932 GENUS
-=======
+# Virgulinella Cushman, 1932 GENUS
 
 #### Status
 ACCEPTED

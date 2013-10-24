@@ -1,5 +1,4 @@
-Pulveroboletus duckeanus Singer SPECIES
-=======
+# Pulveroboletus duckeanus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phylloporus manausensis Singer SPECIES
-=======
+# Phylloporus manausensis Singer SPECIES
 
 #### Status
 ACCEPTED

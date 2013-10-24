@@ -1,5 +1,4 @@
-Pseudopolyedriopsis skujae Gollerbach SPECIES
-=======
+# Pseudopolyedriopsis skujae Gollerbach SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus allescheri Britzelm. SPECIES
-=======
+# Agaricus allescheri Britzelm. SPECIES
 
 #### Status
 ACCEPTED

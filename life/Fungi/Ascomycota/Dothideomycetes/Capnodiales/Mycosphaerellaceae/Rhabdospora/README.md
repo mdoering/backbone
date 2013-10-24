@@ -1,17 +1,16 @@
-Cucurbitariopsis C. Massalongo, 1889 GENUS
-=======
+# Rhabdospora (Durieu & Montagne ex Saccardo) Saccardo, 1884 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Accad. Agric Verona, ser. 3 65: 133 (1889)
+Syll. fung. (Abellini) 3: 578 (1884)
 
 #### Original name
-Cucurbitariopsis C. Massalongo, 1889
+null
 
 ### Remarks
 null

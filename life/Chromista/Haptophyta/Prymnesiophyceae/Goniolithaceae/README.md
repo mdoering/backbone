@@ -1,5 +1,4 @@
-Goniolithaceae Deflandre, 1957 FAMILY
-=======
+# Goniolithaceae Deflandre, 1957 FAMILY
 
 #### Status
 ACCEPTED

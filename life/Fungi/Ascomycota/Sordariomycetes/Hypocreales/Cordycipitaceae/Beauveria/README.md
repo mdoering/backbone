@@ -1,5 +1,4 @@
-Beauveria Vuillemin, 1912 GENUS
-=======
+# Beauveria Vuillemin, 1912 GENUS
 
 #### Status
 ACCEPTED

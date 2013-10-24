@@ -1,5 +1,4 @@
-Vivianella sedi (Fuckel) Sacc. SPECIES
-=======
+# Vivianella sedi (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

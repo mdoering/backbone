@@ -1,5 +1,4 @@
-Gyalideopsis perminuta Vezda SPECIES
-=======
+# Gyalideopsis perminuta Vezda SPECIES
 
 #### Status
 ACCEPTED

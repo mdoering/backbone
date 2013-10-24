@@ -1,5 +1,4 @@
-Melanconium magnum (Grev.) Berk. SPECIES
-=======
+# Melanconium magnum (Grev.) Berk. SPECIES
 
 #### Status
 ACCEPTED

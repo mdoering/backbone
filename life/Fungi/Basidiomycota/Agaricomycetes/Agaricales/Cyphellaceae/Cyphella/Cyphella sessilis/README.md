@@ -1,5 +1,4 @@
-Cyphella sessilis Burt SPECIES
-=======
+# Cyphella sessilis Burt SPECIES
 
 #### Status
 ACCEPTED

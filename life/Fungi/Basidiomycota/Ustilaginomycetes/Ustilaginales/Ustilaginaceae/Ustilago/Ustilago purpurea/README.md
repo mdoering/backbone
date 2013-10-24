@@ -1,5 +1,4 @@
-Ustilago purpurea Bonord. SPECIES
-=======
+# Ustilago purpurea Bonord. SPECIES
 
 #### Status
 ACCEPTED

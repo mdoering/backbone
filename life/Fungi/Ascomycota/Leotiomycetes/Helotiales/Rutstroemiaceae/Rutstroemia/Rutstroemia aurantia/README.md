@@ -1,5 +1,4 @@
-Rutstroemia aurantia Velen. SPECIES
-=======
+# Rutstroemia aurantia Velen. SPECIES
 
 #### Status
 ACCEPTED

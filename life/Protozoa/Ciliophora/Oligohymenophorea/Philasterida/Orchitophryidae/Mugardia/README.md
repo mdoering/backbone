@@ -1,5 +1,4 @@
-Mugardia Small & Lynn, 1985 GENUS
-=======
+# Mugardia Small & Lynn, 1985 GENUS
 
 #### Status
 ACCEPTED

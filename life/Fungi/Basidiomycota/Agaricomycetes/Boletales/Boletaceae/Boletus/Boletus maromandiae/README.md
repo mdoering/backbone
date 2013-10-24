@@ -1,5 +1,4 @@
-Boletus maromandiae Pat. SPECIES
-=======
+# Boletus maromandiae Pat. SPECIES
 
 #### Status
 ACCEPTED

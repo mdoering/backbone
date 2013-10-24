@@ -1,5 +1,4 @@
-Typhula subulata Remsberg, 1940 SPECIES
-=======
+# Typhula subulata Remsberg, 1940 SPECIES
 
 #### Status
 ACCEPTED

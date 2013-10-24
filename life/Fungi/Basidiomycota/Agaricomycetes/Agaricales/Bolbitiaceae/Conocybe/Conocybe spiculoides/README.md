@@ -1,17 +1,16 @@
-Conocybe spicula var. spiculoides Kühner, 1935 VARIETY
-=======
+# Conocybe spiculoides Kühner & Watling, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encyclop. Mycol. 7: 61 (1935)
+in Watling, Notes R. bot. Gdn Edinb. 38(2): 339 (1980)
 
 #### Original name
-Conocybe spicula var. spiculoides Kühner, 1935
+Conocybe spiculoides Kühner & Watling, 1980
 
 ### Remarks
 null

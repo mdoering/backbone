@@ -1,5 +1,4 @@
-Stigmatomyces visinonii W. Rossi SPECIES
-=======
+# Stigmatomyces visinonii W. Rossi SPECIES
 
 #### Status
 ACCEPTED

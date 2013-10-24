@@ -1,5 +1,4 @@
-Diplodia epherdricola Gonz. Frag. SPECIES
-=======
+# Diplodia epherdricola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

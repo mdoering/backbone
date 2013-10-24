@@ -1,5 +1,4 @@
-Candida khaoyaiensis Jindam., Limtong, Yongman., Tuntir., Potach., H. Kawas. & Nakase SPECIES
-=======
+# Candida khaoyaiensis Jindam., Limtong, Yongman., Tuntir., Potach., H. Kawas. & Nakase SPECIES
 
 #### Status
 ACCEPTED

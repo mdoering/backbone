@@ -1,5 +1,4 @@
-Phaeoplacaceae FAMILY
-=======
+# Phaeoplacaceae FAMILY
 
 #### Status
 ACCEPTED

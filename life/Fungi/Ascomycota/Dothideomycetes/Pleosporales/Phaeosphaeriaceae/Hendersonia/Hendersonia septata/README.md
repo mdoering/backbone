@@ -1,5 +1,4 @@
-Hendersonia septata var. septata VARIETY
-=======
+# Hendersonia septata Westend. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia septata var. septata
+Hendersonia septata Westend.
 
 ### Remarks
 null

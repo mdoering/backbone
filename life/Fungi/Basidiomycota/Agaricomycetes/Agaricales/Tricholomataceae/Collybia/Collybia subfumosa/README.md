@@ -1,5 +1,4 @@
-Collybia subfumosa Speg. SPECIES
-=======
+# Collybia subfumosa Speg. SPECIES
 
 #### Status
 ACCEPTED

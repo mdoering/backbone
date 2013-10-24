@@ -1,5 +1,4 @@
-Leiosphaeridia effusa Shepeleva, 1963 ex Yin Leiming & Li Zaiping, 1978 SPECIES
-=======
+# Leiosphaeridia effusa Shepeleva, 1963 ex Yin Leiming & Li Zaiping, 1978 SPECIES
 
 #### Status
 ACCEPTED

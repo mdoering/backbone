@@ -1,5 +1,4 @@
-Lecanorella tavastiana Motyka SPECIES
-=======
+# Lecanorella tavastiana Motyka SPECIES
 
 #### Status
 ACCEPTED

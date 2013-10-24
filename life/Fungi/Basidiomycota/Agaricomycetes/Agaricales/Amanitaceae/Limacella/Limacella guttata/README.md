@@ -1,17 +1,16 @@
-Lepiota lenticularis subsp. lenticularis (Lasch) Gillet SUBSPECIES
-=======
+# Limacella guttata (Pers.) Konrad & Maubl., 1949 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomycètes (Alençon) 66 (1874)
+Encyclop. Mycol. 14: 70 (1949)
 
 #### Original name
-Lepiota lenticularis subsp. lenticularis (Lasch) Gillet
+Agaricus guttatus Pers., 1793
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Russula atrorubens Quél., 1898 SPECIES
-=======
+# Russula atrorubens Quél., 1898 SPECIES
 
 #### Status
 ACCEPTED

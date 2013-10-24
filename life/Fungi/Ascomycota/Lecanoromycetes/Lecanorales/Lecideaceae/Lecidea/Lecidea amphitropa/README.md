@@ -1,5 +1,4 @@
-Lecidea amphitropa Nyl. SPECIES
-=======
+# Lecidea amphitropa Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetracoccosporium Szabó GENUS
-=======
+# Tetracoccosporium Szabó GENUS
 
 #### Status
 ACCEPTED

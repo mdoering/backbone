@@ -1,5 +1,4 @@
-Mucor erysimi Sowerby SPECIES
-=======
+# Mucor erysimi Sowerby SPECIES
 
 #### Status
 ACCEPTED

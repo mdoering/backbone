@@ -1,5 +1,4 @@
-Reophax magnicapitatus Zheng & Fu, 2001 SPECIES
-=======
+# Reophax magnicapitatus Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

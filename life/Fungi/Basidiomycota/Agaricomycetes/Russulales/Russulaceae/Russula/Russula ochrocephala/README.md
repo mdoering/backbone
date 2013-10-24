@@ -1,5 +1,4 @@
-Russula ochrocephala Buyck SPECIES
-=======
+# Russula ochrocephala Buyck SPECIES
 
 #### Status
 ACCEPTED

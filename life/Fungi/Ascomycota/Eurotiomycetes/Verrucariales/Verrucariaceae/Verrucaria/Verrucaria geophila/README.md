@@ -1,5 +1,4 @@
-Verrucaria geophila Nyl. SPECIES
-=======
+# Verrucaria geophila Nyl. SPECIES
 
 #### Status
 ACCEPTED

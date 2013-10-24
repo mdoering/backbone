@@ -1,5 +1,4 @@
-Opegrapha nothella Nyl. SPECIES
-=======
+# Opegrapha nothella Nyl. SPECIES
 
 #### Status
 ACCEPTED

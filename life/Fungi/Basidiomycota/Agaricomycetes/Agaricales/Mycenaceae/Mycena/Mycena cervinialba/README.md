@@ -1,5 +1,4 @@
-Mycena cervinialba Murrill SPECIES
-=======
+# Mycena cervinialba Murrill SPECIES
 
 #### Status
 ACCEPTED

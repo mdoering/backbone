@@ -1,5 +1,4 @@
-Uredo citrina Cooke SPECIES
-=======
+# Uredo citrina Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flagelloscypha subnuda Agerer, 1983 SPECIES
-=======
+# Flagelloscypha subnuda Agerer, 1983 SPECIES
 
 #### Status
 ACCEPTED

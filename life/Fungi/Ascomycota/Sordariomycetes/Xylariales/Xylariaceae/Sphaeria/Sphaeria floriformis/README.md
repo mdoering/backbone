@@ -1,5 +1,4 @@
-Sphaeria floriformis Sowerby SPECIES
-=======
+# Sphaeria floriformis Sowerby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea confoederata Zahlbr. SPECIES
-=======
+# Lecidea confoederata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

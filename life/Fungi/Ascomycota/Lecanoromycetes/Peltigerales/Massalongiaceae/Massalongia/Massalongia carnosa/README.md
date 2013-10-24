@@ -1,17 +1,16 @@
-Pannaria muscorum f. muscorum FORM
-=======
+# Massalongia carnosa (Dicks.) Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) 109 (1855)
 
 #### Original name
-Pannaria muscorum f. muscorum
+Lichen carnosus Dicks.
 
 ### Remarks
 null

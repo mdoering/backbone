@@ -1,5 +1,4 @@
-Sticta asticta Nyl. SPECIES
-=======
+# Sticta asticta Nyl. SPECIES
 
 #### Status
 ACCEPTED

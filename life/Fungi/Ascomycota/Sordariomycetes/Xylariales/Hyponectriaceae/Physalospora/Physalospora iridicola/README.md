@@ -1,5 +1,4 @@
-Physalospora iridicola Roum. & Fautrey SPECIES
-=======
+# Physalospora iridicola Roum. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

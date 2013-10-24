@@ -1,5 +1,4 @@
-Leptosphaeria peruviana Speg., 1881 SPECIES
-=======
+# Leptosphaeria peruviana Speg., 1881 SPECIES
 
 #### Status
 ACCEPTED

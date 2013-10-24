@@ -1,5 +1,4 @@
-Gliocladium aspergillus (Berk. & Broome) Höhn. SPECIES
-=======
+# Gliocladium aspergillus (Berk. & Broome) Höhn. SPECIES
 
 #### Status
 ACCEPTED

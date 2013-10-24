@@ -1,5 +1,4 @@
-Actinopolyspora iraqiensis Ruan et al., 1994 SPECIES
-=======
+# Actinopolyspora iraqiensis Ruan et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

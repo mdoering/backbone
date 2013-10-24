@@ -1,5 +1,4 @@
-Hirsutella neovolkiana Kobayasi SPECIES
-=======
+# Hirsutella neovolkiana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

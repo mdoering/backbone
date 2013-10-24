@@ -1,5 +1,4 @@
-Hormomyces callorioides (Kalchbr. & Cooke) Sacc. SPECIES
-=======
+# Hormomyces callorioides (Kalchbr. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

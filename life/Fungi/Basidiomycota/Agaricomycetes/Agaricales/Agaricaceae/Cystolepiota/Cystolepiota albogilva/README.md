@@ -1,5 +1,4 @@
-Cystolepiota albogilva Singer SPECIES
-=======
+# Cystolepiota albogilva Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scyphosphaera intermedia Deflandre, 1942 SPECIES
-=======
+# Scyphosphaera intermedia Deflandre, 1942 SPECIES
 
 #### Status
 ACCEPTED

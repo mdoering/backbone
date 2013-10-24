@@ -1,17 +1,16 @@
-Baeomyces absolutus subsp. absolutus SUBSPECIES
-=======
+# Dibaeis absoluta (Tuck.) Kalb & Gierl SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gierl & Kalb, Herzogia 9(3-4): 613 (1993)
 
 #### Original name
-null
+Baeomyces absolutus Tuck.
 
 ### Remarks
 null

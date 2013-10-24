@@ -1,5 +1,4 @@
-Phomopsis eumorpha Sacc. SPECIES
-=======
+# Phomopsis eumorpha Sacc. SPECIES
 
 #### Status
 ACCEPTED

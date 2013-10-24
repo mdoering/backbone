@@ -1,14 +1,13 @@
-Polystictus glabro-rigens Lloyd SPECIES
-=======
+# Coriolopsis glabro-rigens (Lloyd) Núñez & Ryvarden SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syn. Fung. (Oslo) 14: 256 (2001)
 
 #### Original name
 Polystictus glabro-rigens Lloyd

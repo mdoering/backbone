@@ -1,14 +1,13 @@
-Drosophila pseudocorrugis Romagn., 1952 SPECIES
-=======
+# Psathyrella pseudocorrugis (Romagn.) Bon, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. mens. Soc. linn. Lyon 21: 152 (1952)
+Docums Mycol. 12(no. 48): 52 (1983)
 
 #### Original name
 Drosophila pseudocorrugis Romagn., 1952

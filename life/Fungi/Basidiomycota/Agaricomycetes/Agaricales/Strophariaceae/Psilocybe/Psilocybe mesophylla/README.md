@@ -1,5 +1,4 @@
-Psilocybe mesophylla Guzmán, J.Q. Jacobs & Escalona SPECIES
-=======
+# Psilocybe mesophylla Guzmán, J.Q. Jacobs & Escalona SPECIES
 
 #### Status
 ACCEPTED

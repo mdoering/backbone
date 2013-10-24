@@ -1,5 +1,4 @@
-Septogloeum hedysari Solheim SPECIES
-=======
+# Septogloeum hedysari Solheim SPECIES
 
 #### Status
 ACCEPTED

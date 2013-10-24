@@ -1,5 +1,4 @@
-Amphorothecium occultum P. M. McCarthy, Kantvilas & Elix SPECIES
-=======
+# Amphorothecium occultum P. M. McCarthy, Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

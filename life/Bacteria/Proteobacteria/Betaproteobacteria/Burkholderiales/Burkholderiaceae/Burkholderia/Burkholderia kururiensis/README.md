@@ -1,5 +1,4 @@
-Burkholderia kururiensis Zhang et al., 2000 SPECIES
-=======
+# Burkholderia kururiensis Zhang et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

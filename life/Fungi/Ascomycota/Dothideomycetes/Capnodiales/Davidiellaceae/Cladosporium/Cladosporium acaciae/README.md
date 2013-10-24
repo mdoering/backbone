@@ -1,5 +1,4 @@
-Cladosporium acaciae Reichert SPECIES
-=======
+# Cladosporium acaciae Reichert SPECIES
 
 #### Status
 ACCEPTED

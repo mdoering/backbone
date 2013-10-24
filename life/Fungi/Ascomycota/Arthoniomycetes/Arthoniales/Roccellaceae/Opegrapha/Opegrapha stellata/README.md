@@ -1,5 +1,4 @@
-Opegrapha stellata C. Knight SPECIES
-=======
+# Opegrapha stellata C. Knight SPECIES
 
 #### Status
 ACCEPTED

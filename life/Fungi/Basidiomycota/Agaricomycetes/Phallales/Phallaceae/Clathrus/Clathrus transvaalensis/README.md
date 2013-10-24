@@ -1,5 +1,4 @@
-Clathrus transvaalensis Eicker & D.A. Reid SPECIES
-=======
+# Clathrus transvaalensis Eicker & D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

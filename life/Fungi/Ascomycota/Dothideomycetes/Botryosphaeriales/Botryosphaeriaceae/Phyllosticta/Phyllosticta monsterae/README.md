@@ -1,5 +1,4 @@
-Phyllosticta monsterae P. Kumar & Kamal SPECIES
-=======
+# Phyllosticta monsterae P. Kumar & Kamal SPECIES
 
 #### Status
 ACCEPTED

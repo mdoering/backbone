@@ -1,5 +1,4 @@
-Triangulina alargada Cramer, 1964 SPECIES
-=======
+# Triangulina alargada Cramer, 1964 SPECIES
 
 #### Status
 ACCEPTED

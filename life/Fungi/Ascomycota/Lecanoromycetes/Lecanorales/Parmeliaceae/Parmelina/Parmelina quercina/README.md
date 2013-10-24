@@ -1,17 +1,16 @@
-Parmelina quercina f. quercina FORM
-=======
+# Parmelina quercina (Willd.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28: 483 (1974)
 
 #### Original name
-null
+Lichen quercinus Willd.
 
 ### Remarks
 null

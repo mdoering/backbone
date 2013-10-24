@@ -1,5 +1,4 @@
-Aspicilia aurantiaca Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia aurantiaca Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

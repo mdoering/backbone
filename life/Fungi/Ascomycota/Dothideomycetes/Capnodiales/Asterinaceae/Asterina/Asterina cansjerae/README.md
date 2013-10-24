@@ -1,5 +1,4 @@
-Asterina cansjerae R.W. Ryan SPECIES
-=======
+# Asterina cansjerae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kazachstania aerobia F.Y. Bai & Y.M. Cai, 2004 SPECIES
-=======
+# Kazachstania aerobia F.Y. Bai & Y.M. Cai, 2004 SPECIES
 
 #### Status
 ACCEPTED

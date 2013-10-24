@@ -1,5 +1,4 @@
-Ceratostoma vasculosum Fr. SPECIES
-=======
+# Ceratostoma vasculosum Fr. SPECIES
 
 #### Status
 ACCEPTED

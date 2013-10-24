@@ -1,5 +1,4 @@
-Placodium thallincolum (Wedd.) H. Olivier SPECIES
-=======
+# Placodium thallincolum (Wedd.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

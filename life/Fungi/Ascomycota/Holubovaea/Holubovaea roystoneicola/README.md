@@ -1,17 +1,16 @@
-Holubovaea roystonicola Mercado SPECIES
-=======
+# Holubovaea roystoneicola Mercado, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Bot. Cubana 15: 7 (1983)
 
 #### Original name
-Holubovaea roystonicola Mercado
+Holubovaea roystoneicola Mercado, 1983
 
 ### Remarks
 null

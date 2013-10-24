@@ -1,5 +1,4 @@
-Corinophoros GENUS
-=======
+# Corinophoros GENUS
 
 #### Status
 ACCEPTED

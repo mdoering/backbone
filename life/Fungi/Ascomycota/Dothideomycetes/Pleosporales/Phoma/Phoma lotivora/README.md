@@ -1,5 +1,4 @@
-Phoma lotivora P.R. Johnst., 1981 SPECIES
-=======
+# Phoma lotivora P.R. Johnst., 1981 SPECIES
 
 #### Status
 ACCEPTED

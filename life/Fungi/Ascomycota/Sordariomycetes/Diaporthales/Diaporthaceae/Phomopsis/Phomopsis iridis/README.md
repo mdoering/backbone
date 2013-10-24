@@ -1,14 +1,13 @@
-Phoma iridis Cooke, 1887 SPECIES
-=======
+# Phomopsis iridis (Cooke) D. Hawksw. & Punith., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 15(no. 76): 108 (1887)
+Trans. Br. mycol. Soc. 64(1): 95 (1975)
 
 #### Original name
 Phoma iridis Cooke, 1887

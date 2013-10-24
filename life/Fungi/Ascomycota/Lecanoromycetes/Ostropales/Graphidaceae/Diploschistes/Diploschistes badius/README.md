@@ -1,5 +1,4 @@
-Diploschistes badius Lumbsch & Elix SPECIES
-=======
+# Diploschistes badius Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

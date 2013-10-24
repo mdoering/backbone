@@ -1,5 +1,4 @@
-Rozites gamundiae E. Horak SPECIES
-=======
+# Rozites gamundiae E. Horak SPECIES
 
 #### Status
 ACCEPTED

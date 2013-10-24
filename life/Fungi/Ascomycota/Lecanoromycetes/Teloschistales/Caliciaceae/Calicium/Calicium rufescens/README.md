@@ -1,5 +1,4 @@
-Calicium rufescens (Vain.) R. Sant. SPECIES
-=======
+# Calicium rufescens (Vain.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

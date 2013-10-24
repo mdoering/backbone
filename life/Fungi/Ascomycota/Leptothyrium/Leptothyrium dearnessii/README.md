@@ -1,5 +1,4 @@
-Leptothyrium dearnessii Bubák SPECIES
-=======
+# Leptothyrium dearnessii Bubák SPECIES
 
 #### Status
 ACCEPTED

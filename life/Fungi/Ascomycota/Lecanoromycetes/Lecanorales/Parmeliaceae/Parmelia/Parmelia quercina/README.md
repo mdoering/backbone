@@ -1,11 +1,10 @@
-Parmelia quercina var. quercina VARIETY
-=======
+# Parmelia quercina SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null

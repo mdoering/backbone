@@ -1,5 +1,4 @@
-Pulchrasphaera Schioler, Brinkhuis, Roncaglia & Wilson, 1997 GENUS
-=======
+# Pulchrasphaera Schioler, Brinkhuis, Roncaglia & Wilson, 1997 GENUS
 
 #### Status
 ACCEPTED

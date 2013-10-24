@@ -1,14 +1,13 @@
-Dicaeoma obliquum (Berk. & M.A. Curtis) Kuntze, 1898 SPECIES
-=======
+# Puccinia obliqua Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 469 (1898)
+in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 356 (1868)
 
 #### Original name
 Puccinia obliqua Berk. & M.A. Curtis, 1868

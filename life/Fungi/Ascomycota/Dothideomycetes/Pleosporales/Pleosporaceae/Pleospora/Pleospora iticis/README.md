@@ -1,5 +1,4 @@
-Pleospora iticis Wehm. SPECIES
-=======
+# Pleospora iticis Wehm. SPECIES
 
 #### Status
 ACCEPTED

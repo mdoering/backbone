@@ -1,5 +1,4 @@
-Marasmius biformis Peck SPECIES
-=======
+# Marasmius biformis Peck SPECIES
 
 #### Status
 ACCEPTED

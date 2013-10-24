@@ -1,5 +1,4 @@
-Hystrichosphaeridium torynum Cookson & Eisenack SPECIES
-=======
+# Hystrichosphaeridium torynum Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

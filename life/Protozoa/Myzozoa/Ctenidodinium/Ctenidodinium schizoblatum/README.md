@@ -1,5 +1,4 @@
-Ctenidodinium schizoblatum (Norris, 1965) Lentin & Williams SPECIES
-=======
+# Ctenidodinium schizoblatum (Norris, 1965) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

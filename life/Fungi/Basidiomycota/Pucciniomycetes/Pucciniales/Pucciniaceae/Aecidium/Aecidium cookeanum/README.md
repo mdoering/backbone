@@ -1,5 +1,4 @@
-Aecidium cookeanum De Toni SPECIES
-=======
+# Aecidium cookeanum De Toni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora tersa Fr. SPECIES
-=======
+# Lecanora tersa Fr. SPECIES
 
 #### Status
 ACCEPTED

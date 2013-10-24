@@ -1,5 +1,4 @@
-Ceriporia microspora I. Lindblad & Ryvarden SPECIES
-=======
+# Ceriporia microspora I. Lindblad & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

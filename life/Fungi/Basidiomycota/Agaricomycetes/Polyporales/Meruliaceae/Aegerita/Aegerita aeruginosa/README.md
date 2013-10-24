@@ -1,5 +1,4 @@
-Aegerita aeruginosa Wallr. SPECIES
-=======
+# Aegerita aeruginosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

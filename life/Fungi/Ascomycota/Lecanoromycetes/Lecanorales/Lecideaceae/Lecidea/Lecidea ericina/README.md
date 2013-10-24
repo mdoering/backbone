@@ -1,5 +1,4 @@
-Lecidea ericina Nyl. SPECIES
-=======
+# Lecidea ericina Nyl. SPECIES
 
 #### Status
 ACCEPTED

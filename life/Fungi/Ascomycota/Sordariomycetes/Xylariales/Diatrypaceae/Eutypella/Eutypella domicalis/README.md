@@ -1,5 +1,4 @@
-Eutypella domicalis Fairm. SPECIES
-=======
+# Eutypella domicalis Fairm. SPECIES
 
 #### Status
 ACCEPTED

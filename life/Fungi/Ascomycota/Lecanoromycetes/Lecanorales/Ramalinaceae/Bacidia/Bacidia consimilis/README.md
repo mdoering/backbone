@@ -1,5 +1,4 @@
-Bacidia consimilis (Müll. Arg.) R. Sant. SPECIES
-=======
+# Bacidia consimilis (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methylosarcina quisquiliarum Wise et al., 2001 SPECIES
-=======
+# Methylosarcina quisquiliarum Wise et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

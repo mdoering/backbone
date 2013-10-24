@@ -1,5 +1,4 @@
-Thelephora mytilina Fr. SPECIES
-=======
+# Thelephora mytilina Fr. SPECIES
 
 #### Status
 ACCEPTED

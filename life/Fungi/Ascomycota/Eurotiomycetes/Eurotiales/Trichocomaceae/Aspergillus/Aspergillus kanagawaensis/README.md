@@ -1,5 +1,4 @@
-Aspergillus kanagawaensis Nehira, 1951 SPECIES
-=======
+# Aspergillus kanagawaensis Nehira, 1951 SPECIES
 
 #### Status
 ACCEPTED

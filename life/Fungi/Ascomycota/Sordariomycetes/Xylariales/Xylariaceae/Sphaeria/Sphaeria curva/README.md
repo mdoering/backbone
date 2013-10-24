@@ -1,5 +1,4 @@
-Sphaeria curva Wallr. SPECIES
-=======
+# Sphaeria curva Wallr. SPECIES
 
 #### Status
 ACCEPTED

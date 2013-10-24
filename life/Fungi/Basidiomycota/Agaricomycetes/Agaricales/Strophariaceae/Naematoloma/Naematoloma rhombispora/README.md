@@ -1,17 +1,16 @@
-Nematoloma rhombispora Guzmán SPECIES
-=======
+# Naematoloma rhombispora Guzmán SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 12(1): 237 (1980)
 
 #### Original name
-Nematoloma rhombispora Guzmán
+Naematoloma rhombispora Guzmán
 
 ### Remarks
 null

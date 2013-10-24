@@ -1,5 +1,4 @@
-Xylaria psamathos Boise, 1982 SPECIES
-=======
+# Xylaria psamathos Boise, 1982 SPECIES
 
 #### Status
 ACCEPTED

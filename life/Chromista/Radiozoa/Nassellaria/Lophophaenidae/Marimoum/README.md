@@ -1,5 +1,4 @@
-Marimoum Funakawa, 1994 GENUS
-=======
+# Marimoum Funakawa, 1994 GENUS
 
 #### Status
 ACCEPTED

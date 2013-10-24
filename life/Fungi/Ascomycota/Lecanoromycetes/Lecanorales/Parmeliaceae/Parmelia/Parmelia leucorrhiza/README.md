@@ -1,5 +1,4 @@
-Parmelia leucorrhiza Vain. SPECIES
-=======
+# Parmelia leucorrhiza Vain. SPECIES
 
 #### Status
 ACCEPTED

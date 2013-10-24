@@ -1,5 +1,4 @@
-Metasphaeria epimediicola I. Hino & Katum. SPECIES
-=======
+# Metasphaeria epimediicola I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

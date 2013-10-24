@@ -1,5 +1,4 @@
-Oidium destruens Peck SPECIES
-=======
+# Oidium destruens Peck SPECIES
 
 #### Status
 ACCEPTED

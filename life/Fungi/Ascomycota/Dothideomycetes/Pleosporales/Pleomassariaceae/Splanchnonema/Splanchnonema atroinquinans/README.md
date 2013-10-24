@@ -1,5 +1,4 @@
-Splanchnonema atroinquinans (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Splanchnonema atroinquinans (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

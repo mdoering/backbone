@@ -1,5 +1,4 @@
-Klebsiella trevisanii Ferragut et al., 1983 SPECIES
-=======
+# Klebsiella trevisanii Ferragut et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

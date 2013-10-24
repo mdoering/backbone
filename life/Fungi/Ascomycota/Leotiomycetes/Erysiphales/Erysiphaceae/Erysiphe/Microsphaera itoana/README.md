@@ -1,5 +1,4 @@
-Microsphaera itoana Y. Nomura, Tanada & U. Braun SPECIES
-=======
+# Microsphaera itoana Y. Nomura, Tanada & U. Braun SPECIES
 
 #### Status
 ACCEPTED

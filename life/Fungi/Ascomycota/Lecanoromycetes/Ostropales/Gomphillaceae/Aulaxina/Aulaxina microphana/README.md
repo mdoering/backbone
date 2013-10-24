@@ -1,5 +1,4 @@
-Aulaxina microphana (Vain.) R. Sant. SPECIES
-=======
+# Aulaxina microphana (Vain.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

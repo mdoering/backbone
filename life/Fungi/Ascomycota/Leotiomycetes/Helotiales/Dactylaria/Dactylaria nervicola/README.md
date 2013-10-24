@@ -1,5 +1,4 @@
-Dactylaria nervicola H.P. Upadhyay & Mankau SPECIES
-=======
+# Dactylaria nervicola H.P. Upadhyay & Mankau SPECIES
 
 #### Status
 ACCEPTED

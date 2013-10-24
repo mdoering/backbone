@@ -1,5 +1,4 @@
-Peltaster fructicola Eric M. Johnson, T.B. Sutton & Hodges, 1996 SPECIES
-=======
+# Peltaster fructicola Eric M. Johnson, T.B. Sutton & Hodges, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glabrocyphella W.B. Cooke GENUS
-=======
+# Glabrocyphella W.B. Cooke GENUS
 
 #### Status
 ACCEPTED

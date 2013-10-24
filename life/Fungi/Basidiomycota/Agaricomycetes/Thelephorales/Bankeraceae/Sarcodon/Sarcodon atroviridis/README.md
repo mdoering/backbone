@@ -1,17 +1,16 @@
-Sarcodon blackfordiae (Peck) Banker, 1906 SPECIES
-=======
+# Sarcodon atroviridis (Morgan) Banker, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. Torrey bot. Club 12: 148 (1906)
 
 #### Original name
-null
+Hydnum atroviride Morgan, 1895
 
 ### Remarks
 null

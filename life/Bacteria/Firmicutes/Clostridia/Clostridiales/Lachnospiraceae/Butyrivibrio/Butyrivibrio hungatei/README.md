@@ -1,5 +1,4 @@
-Butyrivibrio hungatei Kopecný et al., 2003 SPECIES
-=======
+# Butyrivibrio hungatei Kopecný et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

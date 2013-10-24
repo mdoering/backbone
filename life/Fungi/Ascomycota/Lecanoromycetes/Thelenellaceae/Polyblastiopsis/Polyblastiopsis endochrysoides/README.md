@@ -1,5 +1,4 @@
-Polyblastiopsis endochrysoides SPECIES
-=======
+# Polyblastiopsis endochrysoides SPECIES
 
 #### Status
 ACCEPTED

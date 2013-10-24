@@ -1,5 +1,4 @@
-Trichopeziza syringea (Wallr.) Fuckel SPECIES
-=======
+# Trichopeziza syringea (Wallr.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

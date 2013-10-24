@@ -1,5 +1,4 @@
-Sporodictyon canellae Trevis. SPECIES
-=======
+# Sporodictyon canellae Trevis. SPECIES
 
 #### Status
 ACCEPTED

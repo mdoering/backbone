@@ -1,5 +1,4 @@
-Staurolithites siesseri SPECIES
-=======
+# Staurolithites siesseri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiloma dispersum SPECIES
-=======
+# Spiloma dispersum SPECIES
 
 #### Status
 ACCEPTED

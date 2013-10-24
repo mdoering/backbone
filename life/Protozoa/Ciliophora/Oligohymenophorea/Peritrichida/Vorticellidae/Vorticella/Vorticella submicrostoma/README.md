@@ -1,5 +1,4 @@
-Vorticella submicrostoma Ghosh, 1922 SPECIES
-=======
+# Vorticella submicrostoma Ghosh, 1922 SPECIES
 
 #### Status
 ACCEPTED

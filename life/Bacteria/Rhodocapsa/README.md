@@ -1,5 +1,4 @@
-Rhodocapsa GENUS
-=======
+# Rhodocapsa GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora privae Chupp SPECIES
-=======
+# Cercospora privae Chupp SPECIES
 
 #### Status
 ACCEPTED

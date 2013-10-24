@@ -1,5 +1,4 @@
-Badhamlopsis Keller & Brooks, 1976 GENUS
-=======
+# Badhamlopsis Keller & Brooks, 1976 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exobasidium tengchongense Z.Y. Li & L. Guo SPECIES
-=======
+# Exobasidium tengchongense Z.Y. Li & L. Guo SPECIES
 
 #### Status
 ACCEPTED

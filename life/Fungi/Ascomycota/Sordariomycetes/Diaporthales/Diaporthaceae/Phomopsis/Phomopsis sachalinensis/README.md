@@ -1,5 +1,4 @@
-Phomopsis sachalinensis Arx SPECIES
-=======
+# Phomopsis sachalinensis Arx SPECIES
 
 #### Status
 ACCEPTED

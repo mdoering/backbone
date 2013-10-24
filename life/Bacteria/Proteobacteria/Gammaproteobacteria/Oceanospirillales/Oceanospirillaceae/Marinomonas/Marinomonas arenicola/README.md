@@ -1,5 +1,4 @@
-Marinomonas arenicola Romanenko, Tanaka & Frolova, 2009 SPECIES
-=======
+# Marinomonas arenicola Romanenko, Tanaka & Frolova, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia lobayensis Saccas SPECIES
-=======
+# Rosellinia lobayensis Saccas SPECIES
 
 #### Status
 ACCEPTED

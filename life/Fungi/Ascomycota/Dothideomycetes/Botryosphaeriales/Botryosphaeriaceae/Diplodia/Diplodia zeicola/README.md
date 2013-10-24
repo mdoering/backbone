@@ -1,5 +1,4 @@
-Diplodia zeicola Saccas SPECIES
-=======
+# Diplodia zeicola Saccas SPECIES
 
 #### Status
 ACCEPTED

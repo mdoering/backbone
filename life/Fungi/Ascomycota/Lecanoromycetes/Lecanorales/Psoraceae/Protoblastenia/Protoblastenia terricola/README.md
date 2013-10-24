@@ -1,5 +1,4 @@
-Protoblastenia terricola (Anzi) Lynge SPECIES
-=======
+# Protoblastenia terricola (Anzi) Lynge SPECIES
 
 #### Status
 ACCEPTED

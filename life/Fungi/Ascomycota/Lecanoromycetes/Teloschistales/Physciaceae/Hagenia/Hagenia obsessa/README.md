@@ -1,5 +1,4 @@
-Hagenia obsessa SPECIES
-=======
+# Hagenia obsessa SPECIES
 
 #### Status
 ACCEPTED

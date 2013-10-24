@@ -1,5 +1,4 @@
-Mycena cryptomeriicola Imazeki & Toki SPECIES
-=======
+# Mycena cryptomeriicola Imazeki & Toki SPECIES
 
 #### Status
 ACCEPTED

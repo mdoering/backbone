@@ -1,5 +1,4 @@
-Gullmarella Fenchel, 1964 GENUS
-=======
+# Gullmarella Fenchel, 1964 GENUS
 
 #### Status
 ACCEPTED

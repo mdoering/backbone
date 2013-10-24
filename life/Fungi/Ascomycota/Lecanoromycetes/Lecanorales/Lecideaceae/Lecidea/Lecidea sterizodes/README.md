@@ -1,5 +1,4 @@
-Lecidea sterizodes M. Choisy SPECIES
-=======
+# Lecidea sterizodes M. Choisy SPECIES
 
 #### Status
 ACCEPTED

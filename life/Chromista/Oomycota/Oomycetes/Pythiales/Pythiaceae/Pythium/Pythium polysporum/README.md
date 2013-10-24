@@ -1,5 +1,4 @@
-Pythium polysporum Sorokin SPECIES
-=======
+# Pythium polysporum Sorokin SPECIES
 
 #### Status
 ACCEPTED

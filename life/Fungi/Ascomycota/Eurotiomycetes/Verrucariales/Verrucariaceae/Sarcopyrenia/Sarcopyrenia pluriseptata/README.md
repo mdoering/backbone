@@ -1,5 +1,4 @@
-Sarcopyrenia pluriseptata Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Sarcopyrenia pluriseptata Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

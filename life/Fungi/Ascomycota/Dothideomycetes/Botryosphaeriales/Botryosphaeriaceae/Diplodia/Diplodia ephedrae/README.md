@@ -1,5 +1,4 @@
-Diplodia ephedrae Kravtzev SPECIES
-=======
+# Diplodia ephedrae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

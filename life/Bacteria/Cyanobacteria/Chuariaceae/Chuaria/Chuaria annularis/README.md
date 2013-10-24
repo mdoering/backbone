@@ -1,5 +1,4 @@
-Chuaria annularis Zheng Wenwu in Yang Qinghe et al., 1980 SPECIES
-=======
+# Chuaria annularis Zheng Wenwu in Yang Qinghe et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

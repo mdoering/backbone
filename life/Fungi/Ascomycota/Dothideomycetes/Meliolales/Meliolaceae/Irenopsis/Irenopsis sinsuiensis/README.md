@@ -1,5 +1,4 @@
-Irenopsis sinsuiensis W. Yamam. SPECIES
-=======
+# Irenopsis sinsuiensis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

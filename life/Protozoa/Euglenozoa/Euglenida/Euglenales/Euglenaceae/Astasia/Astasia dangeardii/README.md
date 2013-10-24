@@ -1,5 +1,4 @@
-Astasia dangeardii var. parva Pringsheim VARIETY
-=======
+# Astasia dangeardii Lemmermann SPECIES
 
 #### Status
 ACCEPTED

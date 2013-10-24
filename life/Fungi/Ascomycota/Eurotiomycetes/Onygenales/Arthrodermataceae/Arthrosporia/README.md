@@ -1,5 +1,4 @@
-Arthrosporia GENUS
-=======
+# Arthrosporia GENUS
 
 #### Status
 ACCEPTED

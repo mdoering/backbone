@@ -1,5 +1,4 @@
-Bryopelta variabilis Döbbeler & Poelt, 1978 SPECIES
-=======
+# Bryopelta variabilis Döbbeler & Poelt, 1978 SPECIES
 
 #### Status
 ACCEPTED

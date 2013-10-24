@@ -1,5 +1,4 @@
-Gyroporus caespitosus Cleland SPECIES
-=======
+# Gyroporus caespitosus Cleland SPECIES
 
 #### Status
 ACCEPTED

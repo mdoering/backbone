@@ -1,5 +1,4 @@
-Tricholoma granulosum Lebedeva SPECIES
-=======
+# Tricholoma granulosum Lebedeva SPECIES
 
 #### Status
 ACCEPTED

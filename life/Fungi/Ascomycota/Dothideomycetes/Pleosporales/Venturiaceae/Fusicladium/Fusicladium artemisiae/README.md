@@ -1,14 +1,13 @@
-Cladosporium artemisiae H.C. Greene, 1952 SPECIES
-=======
+# Fusicladium artemisiae (H.C. Greene) K. Schub. & U. Braun, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. Midl. Nat. 48: 757 (1952)
+Mycotaxon 92: 57 (2005)
 
 #### Original name
 Cladosporium artemisiae H.C. Greene, 1952

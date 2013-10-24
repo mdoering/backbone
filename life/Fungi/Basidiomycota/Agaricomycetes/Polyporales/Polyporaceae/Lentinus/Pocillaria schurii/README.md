@@ -1,5 +1,4 @@
-Pocillaria schurii (Schulzer) Kuntze SPECIES
-=======
+# Pocillaria schurii (Schulzer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

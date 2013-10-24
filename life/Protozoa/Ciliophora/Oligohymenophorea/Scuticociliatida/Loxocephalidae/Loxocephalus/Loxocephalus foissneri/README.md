@@ -1,5 +1,4 @@
-Loxocephalus foissneri Dragesco & Dragesco-Kernéis, 1991 SPECIES
-=======
+# Loxocephalus foissneri Dragesco & Dragesco-Kernéis, 1991 SPECIES
 
 #### Status
 ACCEPTED

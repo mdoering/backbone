@@ -1,5 +1,4 @@
-Sarcoscypha hosoyae F.A. Harr. SPECIES
-=======
+# Sarcoscypha hosoyae F.A. Harr. SPECIES
 
 #### Status
 ACCEPTED

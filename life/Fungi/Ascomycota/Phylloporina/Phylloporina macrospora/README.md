@@ -1,5 +1,4 @@
-Phylloporina macrospora Müll. Arg. SPECIES
-=======
+# Phylloporina macrospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

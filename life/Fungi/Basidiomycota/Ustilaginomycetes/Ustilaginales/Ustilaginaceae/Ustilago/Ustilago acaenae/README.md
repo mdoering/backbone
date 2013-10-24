@@ -1,5 +1,4 @@
-Ustilago acaenae Dietel & Neger SPECIES
-=======
+# Ustilago acaenae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

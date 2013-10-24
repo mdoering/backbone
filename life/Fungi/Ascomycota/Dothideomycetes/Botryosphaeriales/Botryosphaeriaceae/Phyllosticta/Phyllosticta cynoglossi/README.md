@@ -1,5 +1,4 @@
-Phyllosticta cynoglossi Ellis & Everh. SPECIES
-=======
+# Phyllosticta cynoglossi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

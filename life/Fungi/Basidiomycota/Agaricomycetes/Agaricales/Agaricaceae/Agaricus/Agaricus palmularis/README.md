@@ -1,5 +1,4 @@
-Agaricus palmularis Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus palmularis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

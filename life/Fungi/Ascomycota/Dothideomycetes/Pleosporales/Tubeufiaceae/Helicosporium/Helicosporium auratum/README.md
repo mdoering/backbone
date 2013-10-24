@@ -1,5 +1,4 @@
-Helicosporium auratum Ellis SPECIES
-=======
+# Helicosporium auratum Ellis SPECIES
 
 #### Status
 ACCEPTED

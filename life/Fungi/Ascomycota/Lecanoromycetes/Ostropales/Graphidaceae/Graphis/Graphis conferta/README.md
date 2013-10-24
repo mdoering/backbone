@@ -1,5 +1,4 @@
-Graphis conferta Zenker SPECIES
-=======
+# Graphis conferta Zenker SPECIES
 
 #### Status
 ACCEPTED

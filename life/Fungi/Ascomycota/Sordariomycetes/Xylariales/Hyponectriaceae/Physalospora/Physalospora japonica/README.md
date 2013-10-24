@@ -1,5 +1,4 @@
-Physalospora japonica Togashi SPECIES
-=======
+# Physalospora japonica Togashi SPECIES
 
 #### Status
 ACCEPTED

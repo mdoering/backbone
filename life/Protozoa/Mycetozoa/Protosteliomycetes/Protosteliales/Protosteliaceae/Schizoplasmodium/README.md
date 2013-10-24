@@ -1,5 +1,4 @@
-Schizoplasmodium L.S. Olive & Stoian. GENUS
-=======
+# Schizoplasmodium L.S. Olive & Stoian. GENUS
 
 #### Status
 ACCEPTED

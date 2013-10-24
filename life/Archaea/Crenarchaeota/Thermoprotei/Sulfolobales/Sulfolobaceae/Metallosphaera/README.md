@@ -1,5 +1,4 @@
-Metallosphaera Huber, Spinnler, Gambacorta & Stetter, 1989 GENUS
-=======
+# Metallosphaera Huber, Spinnler, Gambacorta & Stetter, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Typhula viburni Remsberg SPECIES
-=======
+# Typhula viburni Remsberg SPECIES
 
 #### Status
 ACCEPTED

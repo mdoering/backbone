@@ -1,5 +1,4 @@
-Aspergillus greconis C.W. Dodge SPECIES
-=======
+# Aspergillus greconis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

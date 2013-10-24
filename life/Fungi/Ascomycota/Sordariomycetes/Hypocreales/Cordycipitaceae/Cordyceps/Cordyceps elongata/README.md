@@ -1,5 +1,4 @@
-Cordyceps elongata Petch SPECIES
-=======
+# Cordyceps elongata Petch SPECIES
 
 #### Status
 ACCEPTED

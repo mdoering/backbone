@@ -1,5 +1,4 @@
-Clavulina arcuatus Douanla-Meli SPECIES
-=======
+# Clavulina arcuatus Douanla-Meli SPECIES
 
 #### Status
 ACCEPTED

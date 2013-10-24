@@ -1,5 +1,4 @@
-Leucoloma echinosperma (Peck) House SPECIES
-=======
+# Leucoloma echinosperma (Peck) House SPECIES
 
 #### Status
 ACCEPTED

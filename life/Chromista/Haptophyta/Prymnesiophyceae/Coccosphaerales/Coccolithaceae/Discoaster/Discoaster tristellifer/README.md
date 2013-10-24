@@ -1,5 +1,4 @@
-Discoaster tristellifer Bukry, 1976 SPECIES
-=======
+# Discoaster tristellifer Bukry, 1976 SPECIES
 
 #### Status
 ACCEPTED

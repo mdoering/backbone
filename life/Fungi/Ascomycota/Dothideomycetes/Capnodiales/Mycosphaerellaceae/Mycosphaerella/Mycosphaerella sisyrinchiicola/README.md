@@ -1,5 +1,4 @@
-Mycosphaerella sisyrinchiicola (Speg.) Cash SPECIES
-=======
+# Mycosphaerella sisyrinchiicola (Speg.) Cash SPECIES
 
 #### Status
 ACCEPTED

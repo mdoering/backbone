@@ -1,5 +1,4 @@
-Cryptohymenium Samuels & L.M. Kohn GENUS
-=======
+# Cryptohymenium Samuels & L.M. Kohn GENUS
 
 #### Status
 ACCEPTED

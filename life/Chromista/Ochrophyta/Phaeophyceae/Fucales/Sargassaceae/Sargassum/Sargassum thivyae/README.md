@@ -1,5 +1,4 @@
-Sargassum thivyae V. Krishnamurthy & R. Ezhili SPECIES
-=======
+# Sargassum thivyae V. Krishnamurthy & R. Ezhili SPECIES
 
 #### Status
 ACCEPTED

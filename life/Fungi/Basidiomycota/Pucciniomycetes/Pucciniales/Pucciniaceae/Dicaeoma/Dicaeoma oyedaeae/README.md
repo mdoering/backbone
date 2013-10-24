@@ -1,5 +1,4 @@
-Dicaeoma oyedaeae (Mayor) Arthur & H.S. Jacks. SPECIES
-=======
+# Dicaeoma oyedaeae (Mayor) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium gemmivorum Moreau SPECIES
-=======
+# Macrosporium gemmivorum Moreau SPECIES
 
 #### Status
 ACCEPTED

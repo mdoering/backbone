@@ -1,5 +1,4 @@
-Placosphaeria phaseoli Unamuno SPECIES
-=======
+# Placosphaeria phaseoli Unamuno SPECIES
 
 #### Status
 ACCEPTED

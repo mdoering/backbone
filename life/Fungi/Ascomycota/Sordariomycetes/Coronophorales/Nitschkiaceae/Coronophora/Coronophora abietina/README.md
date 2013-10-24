@@ -1,5 +1,4 @@
-Coronophora abietina Fuckel SPECIES
-=======
+# Coronophora abietina Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria portoricensis (Spreng.) Spreng. SPECIES
-=======
+# Patellaria portoricensis (Spreng.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

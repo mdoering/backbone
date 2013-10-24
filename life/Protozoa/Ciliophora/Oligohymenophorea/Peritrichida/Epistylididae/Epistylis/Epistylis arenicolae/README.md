@@ -1,5 +1,4 @@
-Epistylis arenicolae Fabre-Domergue, 1888 SPECIES
-=======
+# Epistylis arenicolae Fabre-Domergue, 1888 SPECIES
 
 #### Status
 ACCEPTED

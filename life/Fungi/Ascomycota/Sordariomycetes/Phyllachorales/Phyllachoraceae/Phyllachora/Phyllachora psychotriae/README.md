@@ -1,5 +1,4 @@
-Phyllachora psychotriae Rehm, 1897 SPECIES
-=======
+# Phyllachora psychotriae Rehm, 1897 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mallomonas retifera Dürrschmidt SPECIES
-=======
+# Mallomonas retifera Dürrschmidt SPECIES
 
 #### Status
 ACCEPTED

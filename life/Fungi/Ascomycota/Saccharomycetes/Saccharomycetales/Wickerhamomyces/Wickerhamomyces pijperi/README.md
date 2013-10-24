@@ -1,5 +1,4 @@
-Wickerhamomyces pijperi (Van der Walt & Tscheuschner) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Wickerhamomyces pijperi (Van der Walt & Tscheuschner) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zignoella dolichospora Sacc., 1883 SPECIES
-=======
+# Zignoella dolichospora Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

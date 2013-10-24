@@ -1,5 +1,4 @@
-Sphaeria paetula Fr. SPECIES
-=======
+# Sphaeria paetula Fr. SPECIES
 
 #### Status
 ACCEPTED

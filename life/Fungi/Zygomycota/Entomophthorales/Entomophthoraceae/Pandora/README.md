@@ -1,5 +1,4 @@
-Pandora Humber, 1989 GENUS
-=======
+# Pandora Humber, 1989 GENUS
 
 #### Status
 ACCEPTED

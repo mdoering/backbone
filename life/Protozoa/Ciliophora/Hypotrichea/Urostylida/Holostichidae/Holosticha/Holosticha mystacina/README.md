@@ -1,5 +1,4 @@
-Holosticha mystacina Stein, 1859 SPECIES
-=======
+# Holosticha mystacina Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

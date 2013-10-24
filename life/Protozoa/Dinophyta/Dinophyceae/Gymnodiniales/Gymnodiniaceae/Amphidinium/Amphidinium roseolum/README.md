@@ -1,8 +1,7 @@
-Gymnodinium roseolum (Schmarda) Stein, 1878 SPECIES
-=======
+# Amphidinium roseolum (Schmarda, 1854) Schiller, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Menegazzia dispora (Nyl.) R. Sant. SPECIES
-=======
+# Menegazzia dispora (Nyl.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

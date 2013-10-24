@@ -1,5 +1,4 @@
-Phomopsis chondrillae (Hollós) Dias & M.T. Lucas SPECIES
-=======
+# Phomopsis chondrillae (Hollós) Dias & M.T. Lucas SPECIES
 
 #### Status
 ACCEPTED

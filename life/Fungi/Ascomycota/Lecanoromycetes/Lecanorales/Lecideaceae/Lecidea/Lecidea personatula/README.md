@@ -1,5 +1,4 @@
-Lecidea personatula Müll. Arg. SPECIES
-=======
+# Lecidea personatula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

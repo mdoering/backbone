@@ -1,5 +1,4 @@
-Cercidospora soror Obermayer & Triebel SPECIES
-=======
+# Cercidospora soror Obermayer & Triebel SPECIES
 
 #### Status
 ACCEPTED

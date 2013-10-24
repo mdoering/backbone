@@ -1,14 +1,13 @@
-Stereocaulon ramulosum var. exalbidum (Nyl.) I.M. Lamb VARIETY
-=======
+# Stereocaulon exalbidum Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-J. Hattori bot. Lab. 43: 285 (1977)
+Annls Sci. Nat. , Bot. , sér. 4 11: 210 (1859)
 
 #### Original name
 Stereocaulon exalbidum Nyl.

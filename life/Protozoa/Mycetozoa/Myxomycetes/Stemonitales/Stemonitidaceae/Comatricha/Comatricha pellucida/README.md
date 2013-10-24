@@ -1,5 +1,4 @@
-Comatricha pellucida G. Moreno & Illana, 1992 SPECIES
-=======
+# Comatricha pellucida G. Moreno & Illana, 1992 SPECIES
 
 #### Status
 ACCEPTED

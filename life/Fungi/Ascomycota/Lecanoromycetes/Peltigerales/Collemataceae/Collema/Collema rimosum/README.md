@@ -1,5 +1,4 @@
-Collema rimosum Sommerf. SPECIES
-=======
+# Collema rimosum Sommerf. SPECIES
 
 #### Status
 ACCEPTED

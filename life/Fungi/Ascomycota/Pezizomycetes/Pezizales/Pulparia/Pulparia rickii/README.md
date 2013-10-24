@@ -1,5 +1,4 @@
-Pulparia rickii (Rehm) Donadini SPECIES
-=======
+# Pulparia rickii (Rehm) Donadini SPECIES
 
 #### Status
 ACCEPTED

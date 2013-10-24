@@ -1,5 +1,4 @@
-Lycoperdon glomeratum Lour. SPECIES
-=======
+# Lycoperdon glomeratum Lour. SPECIES
 
 #### Status
 ACCEPTED

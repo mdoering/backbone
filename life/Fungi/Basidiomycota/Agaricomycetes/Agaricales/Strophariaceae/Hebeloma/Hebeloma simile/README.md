@@ -1,5 +1,4 @@
-Hebeloma simile Kauffman SPECIES
-=======
+# Hebeloma simile Kauffman SPECIES
 
 #### Status
 ACCEPTED

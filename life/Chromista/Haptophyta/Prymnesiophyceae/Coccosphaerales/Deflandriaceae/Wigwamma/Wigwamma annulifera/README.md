@@ -1,5 +1,4 @@
-Wigwamma annulifera Manton, Sutherland & Oates, 1977 SPECIES
-=======
+# Wigwamma annulifera Manton, Sutherland & Oates, 1977 SPECIES
 
 #### Status
 ACCEPTED

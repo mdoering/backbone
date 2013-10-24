@@ -1,5 +1,4 @@
-Uromyces mulini f. mulini FORM
-=======
+# Uromyces mulini J. Schröt. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 35: 224 (1896)
 
 #### Original name
-Uromyces mulini f. mulini
+Uromyces mulini J. Schröt.
 
 ### Remarks
 null

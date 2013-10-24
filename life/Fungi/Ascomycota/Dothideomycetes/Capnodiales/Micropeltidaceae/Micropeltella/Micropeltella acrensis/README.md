@@ -1,5 +1,4 @@
-Micropeltella acrensis Syd. & P. Syd. SPECIES
-=======
+# Micropeltella acrensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

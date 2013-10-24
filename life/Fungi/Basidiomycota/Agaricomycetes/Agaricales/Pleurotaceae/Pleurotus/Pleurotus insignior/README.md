@@ -1,5 +1,4 @@
-Pleurotus insignior Fr. ex Sacc. SPECIES
-=======
+# Pleurotus insignior Fr. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

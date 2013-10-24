@@ -1,14 +1,13 @@
-Seimatosporium pestalozzioides (Sacc.) B. Sutton, 1975 SPECIES
-=======
+# Sporocadus pestalozzioides (Sacc.) M. Morelet, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 138: 155 (1975)
+Annales de la Société des Sciences Naturelles et d'Archéologie de Toulon et du Var 37(4): 234 (1985)
 
 #### Original name
 Coryneum pestalozzioides Sacc., 1877

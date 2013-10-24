@@ -1,5 +1,4 @@
-Relicina amphithrix Hale SPECIES
-=======
+# Relicina amphithrix Hale SPECIES
 
 #### Status
 ACCEPTED

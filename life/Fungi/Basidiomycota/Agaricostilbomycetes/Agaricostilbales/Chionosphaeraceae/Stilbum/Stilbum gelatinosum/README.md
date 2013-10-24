@@ -1,5 +1,4 @@
-Stilbum gelatinosum var. gelatinosum VARIETY
-=======
+# Stilbum gelatinosum Schumach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 240 (1803)
 
 #### Original name
-Stilbum gelatinosum var. gelatinosum
+Stilbum gelatinosum Schumach.
 
 ### Remarks
 null

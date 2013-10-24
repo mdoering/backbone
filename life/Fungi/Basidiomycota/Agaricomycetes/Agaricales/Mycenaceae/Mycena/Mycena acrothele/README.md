@@ -1,5 +1,4 @@
-Mycena acrothele Maas Geest. & E. Horak SPECIES
-=======
+# Mycena acrothele Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

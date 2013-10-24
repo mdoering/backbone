@@ -1,17 +1,16 @@
-Phoma pothosina V.G. Rao & B.R.D. Yadav SPECIES
-=======
+# Phoma pothina V.G. Rao & B.R.D. Yadav SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. bot. 2(2-3): 190 (1991)
 
 #### Original name
-Phoma pothosina V.G. Rao & B.R.D. Yadav
+Phoma pothina V.G. Rao & B.R.D. Yadav
 
 ### Remarks
 null

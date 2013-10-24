@@ -1,5 +1,4 @@
-Sethopera Haeckel, 1881 GENUS
-=======
+# Sethopera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

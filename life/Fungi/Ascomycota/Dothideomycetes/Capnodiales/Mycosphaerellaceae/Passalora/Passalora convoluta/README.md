@@ -1,5 +1,4 @@
-Passalora convoluta Crous & Den Breeÿen SPECIES
-=======
+# Passalora convoluta Crous & Den Breeÿen SPECIES
 
 #### Status
 ACCEPTED

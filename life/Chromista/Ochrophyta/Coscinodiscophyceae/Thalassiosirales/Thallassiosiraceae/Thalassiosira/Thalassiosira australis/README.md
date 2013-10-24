@@ -1,5 +1,4 @@
-Thalassiosira australis M. Peragallo SPECIES
-=======
+# Thalassiosira australis M. Peragallo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus hariotianus Speg. SPECIES
-=======
+# Polyporus hariotianus Speg. SPECIES
 
 #### Status
 ACCEPTED

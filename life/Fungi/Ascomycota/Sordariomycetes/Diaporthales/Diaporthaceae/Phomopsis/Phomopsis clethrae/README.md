@@ -1,5 +1,4 @@
-Phomopsis clethrae Novoss. SPECIES
-=======
+# Phomopsis clethrae Novoss. SPECIES
 
 #### Status
 ACCEPTED

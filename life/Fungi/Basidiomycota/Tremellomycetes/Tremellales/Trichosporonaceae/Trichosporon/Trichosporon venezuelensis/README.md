@@ -1,5 +1,4 @@
-Trichosporon venezuelensis del Corral SPECIES
-=======
+# Trichosporon venezuelensis del Corral SPECIES
 
 #### Status
 ACCEPTED

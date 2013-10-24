@@ -1,5 +1,4 @@
-Gloeosporium frankii Allesch. SPECIES
-=======
+# Gloeosporium frankii Allesch. SPECIES
 
 #### Status
 ACCEPTED

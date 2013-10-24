@@ -1,5 +1,4 @@
-Laculatina quadrangularis (Brady, 1884) SPECIES
-=======
+# Laculatina quadrangularis (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

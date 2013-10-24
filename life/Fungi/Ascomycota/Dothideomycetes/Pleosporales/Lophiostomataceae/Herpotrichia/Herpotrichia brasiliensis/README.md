@@ -1,5 +1,4 @@
-Herpotrichia brasiliensis Rick SPECIES
-=======
+# Herpotrichia brasiliensis Rick SPECIES
 
 #### Status
 ACCEPTED

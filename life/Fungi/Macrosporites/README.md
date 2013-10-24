@@ -1,5 +1,4 @@
-Macrosporites Renault GENUS
-=======
+# Macrosporites Renault GENUS
 
 #### Status
 ACCEPTED

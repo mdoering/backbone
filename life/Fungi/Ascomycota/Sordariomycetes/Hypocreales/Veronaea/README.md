@@ -1,5 +1,4 @@
-Veronaea Cif. & Montemart. GENUS
-=======
+# Veronaea Cif. & Montemart. GENUS
 
 #### Status
 ACCEPTED

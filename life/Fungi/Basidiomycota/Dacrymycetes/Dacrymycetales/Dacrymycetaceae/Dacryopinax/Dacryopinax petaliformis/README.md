@@ -1,5 +1,4 @@
-Dacryopinax petaliformis (Berk. & M.A. Curtis) McNabb, 1965 SPECIES
-=======
+# Dacryopinax petaliformis (Berk. & M.A. Curtis) McNabb, 1965 SPECIES
 
 #### Status
 ACCEPTED

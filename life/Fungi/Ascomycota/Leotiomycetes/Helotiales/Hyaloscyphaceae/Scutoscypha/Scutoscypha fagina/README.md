@@ -1,5 +1,4 @@
-Scutoscypha fagina (Ant. Schmidt & Arendh.) Raitv. SPECIES
-=======
+# Scutoscypha fagina (Ant. Schmidt & Arendh.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces anandii Batra and Bajaj, 1965 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces anandii Batra and Bajaj, 1965 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

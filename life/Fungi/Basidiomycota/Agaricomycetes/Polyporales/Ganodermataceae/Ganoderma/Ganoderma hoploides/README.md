@@ -1,5 +1,4 @@
-Ganoderma hoploides Steyaert, 1961 SPECIES
-=======
+# Ganoderma hoploides Steyaert, 1961 SPECIES
 
 #### Status
 ACCEPTED

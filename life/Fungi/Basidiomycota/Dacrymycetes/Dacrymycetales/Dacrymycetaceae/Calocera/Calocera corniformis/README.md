@@ -1,5 +1,4 @@
-Calocera corniformis Kobayasi SPECIES
-=======
+# Calocera corniformis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

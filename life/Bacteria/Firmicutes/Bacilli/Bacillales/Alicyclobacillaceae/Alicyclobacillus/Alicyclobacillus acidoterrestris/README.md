@@ -1,8 +1,7 @@
-Bacillus acidoterrestris Deinhard et al., 1988 SPECIES
-=======
+# Alicyclobacillus acidoterrestris (Deinhard et al., 1988) Wisotzkey et al., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

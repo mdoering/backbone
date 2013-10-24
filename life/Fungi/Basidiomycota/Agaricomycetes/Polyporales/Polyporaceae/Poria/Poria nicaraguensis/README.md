@@ -1,5 +1,4 @@
-Poria nicaraguensis (Murrill) Sacc. & Trotter SPECIES
-=======
+# Poria nicaraguensis (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

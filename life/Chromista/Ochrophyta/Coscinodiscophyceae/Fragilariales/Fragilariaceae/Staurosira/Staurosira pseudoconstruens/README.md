@@ -1,5 +1,4 @@
-Staurosira pseudoconstruens (Marciniak) Lange-Bertalot in Krammer & Lange-Bertalot SPECIES
-=======
+# Staurosira pseudoconstruens (Marciniak) Lange-Bertalot in Krammer & Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

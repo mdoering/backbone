@@ -1,5 +1,4 @@
-Arthrobacter cumminsii Funke et al., 1997 SPECIES
-=======
+# Arthrobacter cumminsii Funke et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

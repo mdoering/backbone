@@ -1,5 +1,4 @@
-Penicillium ilerdanum C. Ramírez, A.T. Martínez & Berer., 1980 SPECIES
-=======
+# Penicillium ilerdanum C. Ramírez, A.T. Martínez & Berer., 1980 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Uncinia uncinata Velen. SPECIES
-=======
+# Uncinia uncinata Velen. SPECIES
 
 #### Status
 ACCEPTED

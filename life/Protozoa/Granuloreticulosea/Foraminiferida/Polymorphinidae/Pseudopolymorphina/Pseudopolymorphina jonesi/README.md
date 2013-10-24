@@ -1,5 +1,4 @@
-Pseudopolymorphina jonesi Cushman & Ozawa SPECIES
-=======
+# Pseudopolymorphina jonesi Cushman & Ozawa SPECIES
 
 #### Status
 ACCEPTED

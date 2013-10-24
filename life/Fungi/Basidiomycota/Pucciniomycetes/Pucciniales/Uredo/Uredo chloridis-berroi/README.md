@@ -1,5 +1,4 @@
-Uredo chloridis-berroi Speg. SPECIES
-=======
+# Uredo chloridis-berroi Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium pachmariensis A.K. Gupta & S. Chauhan, 1996 SPECIES
-=======
+# Penicillium pachmariensis A.K. Gupta & S. Chauhan, 1996 SPECIES
 
 #### Status
 ACCEPTED

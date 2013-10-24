@@ -1,5 +1,4 @@
-Heronallenita nana SPECIES
-=======
+# Heronallenita nana SPECIES
 
 #### Status
 ACCEPTED

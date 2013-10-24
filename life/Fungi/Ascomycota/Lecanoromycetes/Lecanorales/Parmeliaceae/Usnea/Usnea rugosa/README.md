@@ -1,5 +1,4 @@
-Usnea rugosa Motyka SPECIES
-=======
+# Usnea rugosa Motyka SPECIES
 
 #### Status
 ACCEPTED

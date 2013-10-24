@@ -1,5 +1,4 @@
-Allescheriella microspora Cabello, Aramb. & Liggieri SPECIES
-=======
+# Allescheriella microspora Cabello, Aramb. & Liggieri SPECIES
 
 #### Status
 ACCEPTED

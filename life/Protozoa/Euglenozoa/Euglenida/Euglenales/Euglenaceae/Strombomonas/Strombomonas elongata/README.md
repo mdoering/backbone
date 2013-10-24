@@ -1,5 +1,4 @@
-Strombomonas elongata var. minor V. Conforti & G.-J. Joo VARIETY
-=======
+# Strombomonas elongata V. Conforti & G.-J. Joo SPECIES
 
 #### Status
 ACCEPTED

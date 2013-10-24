@@ -1,5 +1,4 @@
-Stereocaulon cinchonae (Willd.) Raeusch. SPECIES
-=======
+# Stereocaulon cinchonae (Willd.) Raeusch. SPECIES
 
 #### Status
 ACCEPTED

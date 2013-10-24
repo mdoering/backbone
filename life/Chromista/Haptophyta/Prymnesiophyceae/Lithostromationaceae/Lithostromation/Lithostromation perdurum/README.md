@@ -1,5 +1,4 @@
-Lithostromation perdurum Deflandre, 1942 SPECIES
-=======
+# Lithostromation perdurum Deflandre, 1942 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Fischera Schwabe, 1836 GENUS
-=======
+# Fischerella (Bornet & Flahault) Gomont, 1895 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-H. Schwabe, 1837. Linnaea: 124.
+J. Bot. 9: 52.
 
 #### Original name
 null

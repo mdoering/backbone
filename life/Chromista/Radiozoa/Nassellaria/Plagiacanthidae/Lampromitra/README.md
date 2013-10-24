@@ -1,5 +1,4 @@
-Lampromitra Haeckel, 1881 GENUS
-=======
+# Lampromitra Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

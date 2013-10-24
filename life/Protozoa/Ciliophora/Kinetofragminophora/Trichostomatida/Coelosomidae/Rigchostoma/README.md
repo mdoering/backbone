@@ -1,5 +1,4 @@
-Rigchostoma Vuxanovici, 1963 GENUS
-=======
+# Rigchostoma Vuxanovici, 1963 GENUS
 
 #### Status
 ACCEPTED

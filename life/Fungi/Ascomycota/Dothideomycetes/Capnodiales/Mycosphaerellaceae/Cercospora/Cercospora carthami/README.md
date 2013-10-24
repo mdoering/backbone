@@ -1,5 +1,4 @@
-Cercospora carthami Sundaram & T.S. Ramakr., 1928 SPECIES
-=======
+# Cercospora carthami Sundaram & T.S. Ramakr., 1928 SPECIES
 
 #### Status
 ACCEPTED

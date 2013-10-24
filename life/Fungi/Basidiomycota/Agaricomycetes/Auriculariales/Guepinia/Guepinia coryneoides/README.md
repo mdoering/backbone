@@ -1,5 +1,4 @@
-Guepinia coryneoides Henn. SPECIES
-=======
+# Guepinia coryneoides Henn. SPECIES
 
 #### Status
 ACCEPTED

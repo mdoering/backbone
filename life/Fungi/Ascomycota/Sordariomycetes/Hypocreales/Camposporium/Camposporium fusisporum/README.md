@@ -1,5 +1,4 @@
-Camposporium fusisporum Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Camposporium fusisporum Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

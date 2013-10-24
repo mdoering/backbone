@@ -1,5 +1,4 @@
-Opegrapha tigrensis C.W. Dodge SPECIES
-=======
+# Opegrapha tigrensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

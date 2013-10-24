@@ -1,8 +1,7 @@
-Flexibacter ovolyticus Hansen et al., 1992 SPECIES
-=======
+# Tenacibaculum ovolyticum (Hansen et al., 1992) Suzuki et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

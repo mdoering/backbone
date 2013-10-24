@@ -1,5 +1,4 @@
-Russula seperina var. seperina VARIETY
-=======
+# Russula seperina Dupain SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Soc. mycol. Fr. 28: 181 (1913)
 
 #### Original name
-Russula seperina var. seperina
+Russula seperina Dupain
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ophiobolus idamalayarensis V.G. Rao & Varghese SPECIES
-=======
+# Ophiobolus idamalayarensis V.G. Rao & Varghese SPECIES
 
 #### Status
 ACCEPTED

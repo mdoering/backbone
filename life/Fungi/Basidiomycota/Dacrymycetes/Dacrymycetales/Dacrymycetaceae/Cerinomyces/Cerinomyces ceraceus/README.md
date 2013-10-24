@@ -1,5 +1,4 @@
-Cerinomyces ceraceus Ginns, 1982 SPECIES
-=======
+# Cerinomyces ceraceus Ginns, 1982 SPECIES
 
 #### Status
 ACCEPTED

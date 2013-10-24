@@ -1,5 +1,4 @@
-Steyaertia GENUS
-=======
+# Steyaertia GENUS
 
 #### Status
 ACCEPTED

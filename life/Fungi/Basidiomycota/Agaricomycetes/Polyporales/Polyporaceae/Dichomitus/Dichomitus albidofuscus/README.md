@@ -1,14 +1,13 @@
-Poria albidofusca Domanski, 1966 SPECIES
-=======
+# Dichomitus albidofuscus (Domanski) Domanski, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Bot. Pol. 35: 461 (1966)
+Fungi, Polyporaceae 1, Mucronoporaceae 1, Revised transl. Ed. (Warsaw) 118 (1971)
 
 #### Original name
 Poria albidofusca Domanski, 1966

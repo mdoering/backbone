@@ -1,5 +1,4 @@
-Sphaeria cooperta Desm. SPECIES
-=======
+# Sphaeria cooperta Desm. SPECIES
 
 #### Status
 ACCEPTED

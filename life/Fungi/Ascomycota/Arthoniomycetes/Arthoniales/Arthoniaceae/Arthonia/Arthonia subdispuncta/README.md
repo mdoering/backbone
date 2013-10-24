@@ -1,5 +1,4 @@
-Arthonia subdispuncta Nyl. SPECIES
-=======
+# Arthonia subdispuncta Nyl. SPECIES
 
 #### Status
 ACCEPTED

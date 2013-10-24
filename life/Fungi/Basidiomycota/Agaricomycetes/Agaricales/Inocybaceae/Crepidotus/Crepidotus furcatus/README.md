@@ -1,5 +1,4 @@
-Crepidotus furcatus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus furcatus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora euclidii Golovin SPECIES
-=======
+# Cercospora euclidii Golovin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Distephanopsis octangulata (G. H. Wailes) T. V. Desikachary & P. Prema SPECIES
-=======
+# Distephanopsis octangulata (G. H. Wailes) T. V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

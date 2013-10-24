@@ -1,5 +1,4 @@
-Ascochyta phlogis var. phlogis VARIETY
-=======
+# Ascochyta phlogis Voglino SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta phlogis var. phlogis
+Ascochyta phlogis Voglino
 
 ### Remarks
 null

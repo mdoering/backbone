@@ -1,5 +1,4 @@
-Staurothele lithina Zahlbr. SPECIES
-=======
+# Staurothele lithina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

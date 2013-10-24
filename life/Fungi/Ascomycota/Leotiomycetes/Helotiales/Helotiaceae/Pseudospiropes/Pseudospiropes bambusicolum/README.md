@@ -1,5 +1,4 @@
-Pseudospiropes bambusicolum Sawada ex Goh & Hsieh SPECIES
-=======
+# Pseudospiropes bambusicolum Sawada ex Goh & Hsieh SPECIES
 
 #### Status
 ACCEPTED

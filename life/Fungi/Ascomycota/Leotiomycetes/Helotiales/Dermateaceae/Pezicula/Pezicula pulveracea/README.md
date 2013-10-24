@@ -1,5 +1,4 @@
-Pezicula pulveracea Hazsl. SPECIES
-=======
+# Pezicula pulveracea Hazsl. SPECIES
 
 #### Status
 ACCEPTED

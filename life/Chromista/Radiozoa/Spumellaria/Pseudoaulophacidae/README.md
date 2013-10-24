@@ -1,5 +1,4 @@
-Pseudoaulophacidae Riedel, 1967 FAMILY
-=======
+# Pseudoaulophacidae Riedel, 1967 FAMILY
 
 #### Status
 ACCEPTED

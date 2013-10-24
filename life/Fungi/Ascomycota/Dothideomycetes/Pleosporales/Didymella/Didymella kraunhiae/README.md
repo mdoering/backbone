@@ -1,5 +1,4 @@
-Didymella kraunhiae Gonz. Frag. SPECIES
-=======
+# Didymella kraunhiae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

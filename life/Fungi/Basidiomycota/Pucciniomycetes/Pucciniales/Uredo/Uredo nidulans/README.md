@@ -1,5 +1,4 @@
-Uredo nidulans Syd. & P. Syd. SPECIES
-=======
+# Uredo nidulans Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

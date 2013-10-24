@@ -1,5 +1,4 @@
-Sargassum teretifolium J. Agardh SPECIES
-=======
+# Sargassum teretifolium J. Agardh SPECIES
 
 #### Status
 ACCEPTED

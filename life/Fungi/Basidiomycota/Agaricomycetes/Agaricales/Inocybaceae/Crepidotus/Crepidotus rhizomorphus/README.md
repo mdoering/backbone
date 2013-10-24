@@ -1,5 +1,4 @@
-Crepidotus rhizomorphus Burt SPECIES
-=======
+# Crepidotus rhizomorphus Burt SPECIES
 
 #### Status
 ACCEPTED

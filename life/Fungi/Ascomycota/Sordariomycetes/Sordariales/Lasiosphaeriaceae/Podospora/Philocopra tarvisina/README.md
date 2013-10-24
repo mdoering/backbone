@@ -1,5 +1,4 @@
-Philocopra tarvisina (Sacc.) J.H. Mirza & Cain SPECIES
-=======
+# Philocopra tarvisina (Sacc.) J.H. Mirza & Cain SPECIES
 
 #### Status
 ACCEPTED

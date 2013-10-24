@@ -1,5 +1,4 @@
-Stephanodiscus pantocsekii F. Fricke SPECIES
-=======
+# Stephanodiscus pantocsekii F. Fricke SPECIES
 
 #### Status
 ACCEPTED

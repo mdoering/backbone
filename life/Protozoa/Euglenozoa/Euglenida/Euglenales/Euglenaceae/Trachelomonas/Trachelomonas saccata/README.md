@@ -1,5 +1,4 @@
-Trachelomonas saccata var. manschurica Skvortzov VARIETY
-=======
+# Trachelomonas saccata Lemmermann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerotheca cardamines Y. Nomura SPECIES
-=======
+# Sphaerotheca cardamines Y. Nomura SPECIES
 
 #### Status
 ACCEPTED

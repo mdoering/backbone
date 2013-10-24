@@ -1,5 +1,4 @@
-Myelochroa upretii Divakar & Elix SPECIES
-=======
+# Myelochroa upretii Divakar & Elix SPECIES
 
 #### Status
 ACCEPTED

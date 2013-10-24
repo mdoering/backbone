@@ -1,5 +1,4 @@
-Mycoderma chevalieri Guillierm. SPECIES
-=======
+# Mycoderma chevalieri Guillierm. SPECIES
 
 #### Status
 ACCEPTED

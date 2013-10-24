@@ -1,5 +1,4 @@
-Ramaria thalliovirescens Franchi & M. Marchetti, 2000 SPECIES
-=======
+# Ramaria thalliovirescens Franchi & M. Marchetti, 2000 SPECIES
 
 #### Status
 ACCEPTED

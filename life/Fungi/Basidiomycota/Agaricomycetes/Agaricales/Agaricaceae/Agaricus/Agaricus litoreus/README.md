@@ -1,5 +1,4 @@
-Agaricus litoreus With. SPECIES
-=======
+# Agaricus litoreus With. SPECIES
 
 #### Status
 ACCEPTED

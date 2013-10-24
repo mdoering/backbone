@@ -1,5 +1,4 @@
-Boletinellus intermedius (Pat.) E.-J. Gilbert SPECIES
-=======
+# Boletinellus intermedius (Pat.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

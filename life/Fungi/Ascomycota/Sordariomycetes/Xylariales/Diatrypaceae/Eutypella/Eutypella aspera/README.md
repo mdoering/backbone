@@ -1,5 +1,4 @@
-Eutypella aspera (Massee) Rappaz SPECIES
-=======
+# Eutypella aspera (Massee) Rappaz SPECIES
 
 #### Status
 ACCEPTED

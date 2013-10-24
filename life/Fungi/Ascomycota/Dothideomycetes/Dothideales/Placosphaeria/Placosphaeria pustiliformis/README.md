@@ -1,5 +1,4 @@
-Placosphaeria pustiliformis Maire SPECIES
-=======
+# Placosphaeria pustiliformis Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Palachroma Delage & Hérouard, 1896 GENUS
-=======
+# Dinophysis Ehrenberg, 1839 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zool. concr. , 1, 385.
+Ber. Verh. Preuss, Akad. Wiss. , 1839, 157.
 
 #### Original name
 null

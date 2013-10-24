@@ -1,5 +1,4 @@
-Ceratostomella hystricina (Cooke) Sacc. SPECIES
-=======
+# Ceratostomella hystricina (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

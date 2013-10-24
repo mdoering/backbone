@@ -1,5 +1,4 @@
-Helotium nummiforme Pat. SPECIES
-=======
+# Helotium nummiforme Pat. SPECIES
 
 #### Status
 ACCEPTED

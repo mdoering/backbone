@@ -1,5 +1,4 @@
-Porodiscus Haeckel, 1881 GENUS
-=======
+# Porodiscus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

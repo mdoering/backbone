@@ -1,5 +1,4 @@
-Pleurotus haedinus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus haedinus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

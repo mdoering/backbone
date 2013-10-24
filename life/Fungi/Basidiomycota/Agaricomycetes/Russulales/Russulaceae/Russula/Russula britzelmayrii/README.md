@@ -1,8 +1,7 @@
-Russula britzelmayri Romell SPECIES
-=======
+# Russula britzelmayrii Romell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Russula britzelmayri Romell
+Russula britzelmayrii Romell
 
 ### Remarks
 null

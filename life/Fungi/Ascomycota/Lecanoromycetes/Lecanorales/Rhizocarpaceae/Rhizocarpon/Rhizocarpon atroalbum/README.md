@@ -1,5 +1,4 @@
-Rhizocarpon atroalbum Arnold SPECIES
-=======
+# Rhizocarpon atroalbum Arnold SPECIES
 
 #### Status
 ACCEPTED

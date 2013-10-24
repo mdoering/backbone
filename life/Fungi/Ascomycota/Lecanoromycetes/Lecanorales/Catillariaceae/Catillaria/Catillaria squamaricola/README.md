@@ -1,5 +1,4 @@
-Catillaria squamaricola anon. SPECIES
-=======
+# Catillaria squamaricola anon. SPECIES
 
 #### Status
 ACCEPTED

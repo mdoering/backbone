@@ -1,5 +1,4 @@
-Trichodothis trachylaena (Syd.) E. Müll. & Sanwal SPECIES
-=======
+# Trichodothis trachylaena (Syd.) E. Müll. & Sanwal SPECIES
 
 #### Status
 ACCEPTED

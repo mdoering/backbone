@@ -1,14 +1,13 @@
-Hysterostomella myrtacearum Rehm, 1898 SPECIES
-=======
+# Inocyclus myrtacearum (Rehm) Theiss. & P. Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 37: 301 (1898)
+Annls mycol. 13(3-4): 211 (1915)
 
 #### Original name
 Hysterostomella myrtacearum Rehm, 1898

@@ -1,5 +1,4 @@
-Acytostelium minutissimum Cavender & Vadell, 2000 SPECIES
-=======
+# Acytostelium minutissimum Cavender & Vadell, 2000 SPECIES
 
 #### Status
 ACCEPTED

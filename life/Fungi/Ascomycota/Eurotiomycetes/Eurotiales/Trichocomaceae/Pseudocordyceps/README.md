@@ -1,5 +1,4 @@
-Pseudocordyceps Hauman GENUS
-=======
+# Pseudocordyceps Hauman GENUS
 
 #### Status
 ACCEPTED

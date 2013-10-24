@@ -1,5 +1,4 @@
-Lycoperdon viaticum Velen. SPECIES
-=======
+# Lycoperdon viaticum Velen. SPECIES
 
 #### Status
 ACCEPTED

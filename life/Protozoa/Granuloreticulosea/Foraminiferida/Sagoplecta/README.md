@@ -1,5 +1,4 @@
-Sagoplecta Tappan, 1951 GENUS
-=======
+# Sagoplecta Tappan, 1951 GENUS
 
 #### Status
 ACCEPTED

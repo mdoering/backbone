@@ -1,5 +1,4 @@
-Lagotia coerulea Hadzi, 1951 SPECIES
-=======
+# Lagotia coerulea Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

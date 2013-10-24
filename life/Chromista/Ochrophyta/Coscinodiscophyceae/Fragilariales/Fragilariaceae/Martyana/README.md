@@ -1,5 +1,4 @@
-Martyana Round, 1990 GENUS
-=======
+# Martyana Round, 1990 GENUS
 
 #### Status
 ACCEPTED

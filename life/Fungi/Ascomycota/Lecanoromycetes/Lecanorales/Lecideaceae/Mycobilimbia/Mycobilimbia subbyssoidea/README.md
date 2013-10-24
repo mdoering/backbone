@@ -1,5 +1,4 @@
-Mycobilimbia subbyssoidea Øvstedal SPECIES
-=======
+# Mycobilimbia subbyssoidea Øvstedal SPECIES
 
 #### Status
 ACCEPTED

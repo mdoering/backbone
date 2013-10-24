@@ -1,5 +1,4 @@
-Sphaerolina tanaceti Fuckel SPECIES
-=======
+# Sphaerolina tanaceti Fuckel SPECIES
 
 #### Status
 ACCEPTED

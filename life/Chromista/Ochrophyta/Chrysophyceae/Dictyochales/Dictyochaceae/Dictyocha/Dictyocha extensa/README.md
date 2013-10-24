@@ -1,5 +1,4 @@
-Dictyocha extensa (S. Locker) S. Locker & E. Martini SPECIES
-=======
+# Dictyocha extensa (S. Locker) S. Locker & E. Martini SPECIES
 
 #### Status
 ACCEPTED

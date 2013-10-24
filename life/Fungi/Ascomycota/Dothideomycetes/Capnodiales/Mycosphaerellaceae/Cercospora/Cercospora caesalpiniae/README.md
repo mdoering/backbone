@@ -1,5 +1,4 @@
-Cercospora caesalpiniae G.P. Agarwal & N.D. Sharma SPECIES
-=======
+# Cercospora caesalpiniae G.P. Agarwal & N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

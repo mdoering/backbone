@@ -1,5 +1,4 @@
-Stentofolliculina Hadzi, 1938 GENUS
-=======
+# Stentofolliculina Hadzi, 1938 GENUS
 
 #### Status
 ACCEPTED

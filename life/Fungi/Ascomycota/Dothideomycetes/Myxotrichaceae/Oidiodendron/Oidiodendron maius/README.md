@@ -1,17 +1,16 @@
-Oidiodendron maius var. maius VARIETY
-=======
+# Oidiodendron maius G.L. Barron, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 40: 600 (1962)
+null
 
 #### Original name
-Oidiodendron maius var. maius
+null
 
 ### Remarks
 null

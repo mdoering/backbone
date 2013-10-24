@@ -1,5 +1,4 @@
-Gibbera camerunensis Henn. SPECIES
-=======
+# Gibbera camerunensis Henn. SPECIES
 
 #### Status
 ACCEPTED

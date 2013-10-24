@@ -1,5 +1,4 @@
-Pleurotus excavatus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus excavatus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

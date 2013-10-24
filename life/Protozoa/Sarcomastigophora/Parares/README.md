@@ -1,5 +1,4 @@
-Parares Takemura, 1986 GENUS
-=======
+# Parares Takemura, 1986 GENUS
 
 #### Status
 ACCEPTED

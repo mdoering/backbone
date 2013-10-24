@@ -1,5 +1,4 @@
-Epipyxis tubulosa (Mack) Hilliard & Asmund SPECIES
-=======
+# Epipyxis tubulosa (Mack) Hilliard & Asmund SPECIES
 
 #### Status
 ACCEPTED

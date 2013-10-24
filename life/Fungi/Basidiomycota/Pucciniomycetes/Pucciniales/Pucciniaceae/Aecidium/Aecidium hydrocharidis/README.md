@@ -1,5 +1,4 @@
-Aecidium hydrocharidis Rabenh. SPECIES
-=======
+# Aecidium hydrocharidis Rabenh. SPECIES
 
 #### Status
 ACCEPTED

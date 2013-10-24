@@ -1,5 +1,4 @@
-Mucor juglandis Link SPECIES
-=======
+# Mucor juglandis Link SPECIES
 
 #### Status
 ACCEPTED

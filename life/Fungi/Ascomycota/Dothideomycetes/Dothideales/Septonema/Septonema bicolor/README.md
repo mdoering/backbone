@@ -1,5 +1,4 @@
-Septonema bicolor Peck SPECIES
-=======
+# Septonema bicolor Peck SPECIES
 
 #### Status
 ACCEPTED

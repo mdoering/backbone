@@ -1,14 +1,13 @@
-Isaria stenocoli (Quél.) Kobayasi SPECIES
-=======
+# Isaria stenocori (Quél.) Kobayasi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 23(3): 361 (1982)
 
 #### Original name
 Cordyceps stenocori Quél.

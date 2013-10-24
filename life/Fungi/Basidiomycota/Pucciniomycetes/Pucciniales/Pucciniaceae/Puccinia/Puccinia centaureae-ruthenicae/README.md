@@ -1,5 +1,4 @@
-Puccinia centaureae-ruthenicae Wróbl. SPECIES
-=======
+# Puccinia centaureae-ruthenicae Wróbl. SPECIES
 
 #### Status
 ACCEPTED

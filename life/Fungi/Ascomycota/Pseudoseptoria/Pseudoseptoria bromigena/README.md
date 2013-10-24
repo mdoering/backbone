@@ -1,14 +1,13 @@
-Selenophoma bromigena (Sacc.) R. Sprague & Aar.G. Johnson, 1940 SPECIES
-=======
+# Pseudoseptoria bromigena (Sacc.) B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 32(3): 415 (1940)
+The Coelomycetes (Kew) 98 (1980)
 
 #### Original name
 null

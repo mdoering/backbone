@@ -1,5 +1,4 @@
-Phoma cicinnoides Fautrey SPECIES
-=======
+# Phoma cicinnoides Fautrey SPECIES
 
 #### Status
 ACCEPTED

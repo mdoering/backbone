@@ -1,5 +1,4 @@
-Guignardia punctiformis Chardón SPECIES
-=======
+# Guignardia punctiformis Chardón SPECIES
 
 #### Status
 ACCEPTED

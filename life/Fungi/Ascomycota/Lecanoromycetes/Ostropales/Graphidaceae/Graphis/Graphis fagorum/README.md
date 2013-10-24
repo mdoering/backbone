@@ -1,5 +1,4 @@
-Graphis fagorum A. Massal. SPECIES
-=======
+# Graphis fagorum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ocellularia croceopora Hale SPECIES
-=======
+# Stegobolus croceoporus (Hale) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Br. Mus. nat. Hist. , Bot. 8(3): 302 (1981)
+in Frisch & Kalb, Biblthca Lichenol. 92: 451 (2006)
 
 #### Original name
 Ocellularia croceopora Hale

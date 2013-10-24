@@ -1,5 +1,4 @@
-Pseudozonosphaeridium compositum Andreeva, 1966 SPECIES
-=======
+# Pseudozonosphaeridium compositum Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

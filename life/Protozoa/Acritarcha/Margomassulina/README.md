@@ -1,5 +1,4 @@
-Margomassulina S.N. Naumova ex I.K. Chepikova in M.M. Aliev & K.R. Chepikov, 1971 GENUS
-=======
+# Margomassulina S.N. Naumova ex I.K. Chepikova in M.M. Aliev & K.R. Chepikov, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizoclosmatium aurantiacum Sparrow, 1937 SPECIES
-=======
+# Rhizoclosmatium aurantiacum Sparrow, 1937 SPECIES
 
 #### Status
 ACCEPTED

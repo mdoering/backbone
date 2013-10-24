@@ -1,5 +1,4 @@
-Phyllachora biareolata Speg., 1888 SPECIES
-=======
+# Phyllachora biareolata Speg., 1888 SPECIES
 
 #### Status
 DOUBTFUL

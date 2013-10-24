@@ -1,5 +1,4 @@
-Capronia irregularis M.E. Barr SPECIES
-=======
+# Capronia irregularis M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

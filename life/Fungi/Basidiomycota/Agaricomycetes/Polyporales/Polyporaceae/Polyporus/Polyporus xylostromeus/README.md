@@ -1,5 +1,4 @@
-Polyporus xylostromeus Pers. SPECIES
-=======
+# Polyporus xylostromeus Pers. SPECIES
 
 #### Status
 ACCEPTED

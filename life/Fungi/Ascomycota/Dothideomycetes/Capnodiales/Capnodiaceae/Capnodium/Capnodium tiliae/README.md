@@ -1,14 +1,13 @@
-Capnodaria tiliae (Fuckel) Theiss. & Syd., 1918 SPECIES
-=======
+# Capnodium tiliae (Fuckel) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 15(6): 474 (1918)
+Syll. fung. (Abellini) 1: 74 (1882)
 
 #### Original name
 Fumago tiliae Fuckel, 1870

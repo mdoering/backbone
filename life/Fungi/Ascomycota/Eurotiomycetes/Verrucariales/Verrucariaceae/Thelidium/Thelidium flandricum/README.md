@@ -1,5 +1,4 @@
-Thelidium flandricum B. de Lesd. SPECIES
-=======
+# Thelidium flandricum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neochiastozygus denticulatus (Perch-Nielsen, 1969) Perch-Nielsen, 1971 SPECIES
-=======
+# Neochiastozygus denticulatus (Perch-Nielsen, 1969) Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctochytrium longicollum Sparrow SPECIES
-=======
+# Phlyctochytrium longicollum Sparrow SPECIES
 
 #### Status
 ACCEPTED

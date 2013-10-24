@@ -1,5 +1,4 @@
-Phyllosticta tabernaemontanae (Syd.) Aa SPECIES
-=======
+# Phyllosticta tabernaemontanae (Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

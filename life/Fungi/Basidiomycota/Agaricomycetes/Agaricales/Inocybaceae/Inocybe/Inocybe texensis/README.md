@@ -1,5 +1,4 @@
-Inocybe texensis Thiers SPECIES
-=======
+# Inocybe texensis Thiers SPECIES
 
 #### Status
 ACCEPTED

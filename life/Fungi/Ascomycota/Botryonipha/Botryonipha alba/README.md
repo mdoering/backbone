@@ -1,5 +1,4 @@
-Botryonipha alba Preuss SPECIES
-=======
+# Botryonipha alba Preuss SPECIES
 
 #### Status
 ACCEPTED

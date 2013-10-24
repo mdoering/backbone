@@ -1,5 +1,4 @@
-Caucasicus Mamedov, 1984 GENUS
-=======
+# Caucasicus Mamedov, 1984 GENUS
 
 #### Status
 ACCEPTED

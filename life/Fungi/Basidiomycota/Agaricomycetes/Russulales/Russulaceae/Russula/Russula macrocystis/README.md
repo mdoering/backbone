@@ -1,5 +1,4 @@
-Russula macrocystis (R. Heim) Buyck SPECIES
-=======
+# Russula macrocystis (R. Heim) Buyck SPECIES
 
 #### Status
 ACCEPTED

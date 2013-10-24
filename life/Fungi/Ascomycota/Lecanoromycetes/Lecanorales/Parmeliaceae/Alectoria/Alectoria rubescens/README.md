@@ -1,5 +1,4 @@
-Alectoria rubescens (Arnold) Anders SPECIES
-=======
+# Alectoria rubescens (Arnold) Anders SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammula echinulispora Murrill SPECIES
-=======
+# Flammula echinulispora Murrill SPECIES
 
 #### Status
 ACCEPTED

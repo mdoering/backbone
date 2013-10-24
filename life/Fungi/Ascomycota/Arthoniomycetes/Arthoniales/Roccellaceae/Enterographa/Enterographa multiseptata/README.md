@@ -1,5 +1,4 @@
-Enterographa multiseptata R. Sant. SPECIES
-=======
+# Enterographa multiseptata R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calvarula Zeller GENUS
-=======
+# Calvarula Zeller GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobaria concolor (Dicks.) Hoffm. SPECIES
-=======
+# Lobaria concolor (Dicks.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

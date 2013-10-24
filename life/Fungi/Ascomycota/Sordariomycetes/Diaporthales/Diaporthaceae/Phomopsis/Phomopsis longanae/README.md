@@ -1,5 +1,4 @@
-Phomopsis longanae P.K. Chi & Z.D. Jiang SPECIES
-=======
+# Phomopsis longanae P.K. Chi & Z.D. Jiang SPECIES
 
 #### Status
 ACCEPTED

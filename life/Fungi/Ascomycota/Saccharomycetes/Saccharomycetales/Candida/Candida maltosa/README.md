@@ -1,5 +1,4 @@
-Candida maltosa Komag., Nakase & Katsuya, 1964 SPECIES
-=======
+# Candida maltosa Komag., Nakase & Katsuya, 1964 SPECIES
 
 #### Status
 ACCEPTED

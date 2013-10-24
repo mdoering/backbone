@@ -1,5 +1,4 @@
-Proboscia cretacea (M. Hajós & H. Stradner) R. W. Jordan & J. Priddle SPECIES
-=======
+# Proboscia cretacea (M. Hajós & H. Stradner) R. W. Jordan & J. Priddle SPECIES
 
 #### Status
 ACCEPTED

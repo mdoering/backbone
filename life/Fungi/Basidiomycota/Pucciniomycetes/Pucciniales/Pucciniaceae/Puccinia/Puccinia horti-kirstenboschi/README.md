@@ -1,5 +1,4 @@
-Puccinia horti-kirstenboschi Berndt & E. Uhlmann SPECIES
-=======
+# Puccinia horti-kirstenboschi Berndt & E. Uhlmann SPECIES
 
 #### Status
 ACCEPTED

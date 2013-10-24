@@ -1,5 +1,4 @@
-Usnea juncea Motyka ex Sulma {?} SPECIES
-=======
+# Usnea juncea Motyka ex Sulma {?} SPECIES
 
 #### Status
 ACCEPTED

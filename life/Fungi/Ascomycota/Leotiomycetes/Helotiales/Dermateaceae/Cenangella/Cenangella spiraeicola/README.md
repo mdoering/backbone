@@ -1,5 +1,4 @@
-Cenangella spiraeicola Henn. SPECIES
-=======
+# Cenangella spiraeicola Henn. SPECIES
 
 #### Status
 ACCEPTED

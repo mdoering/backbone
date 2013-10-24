@@ -1,5 +1,4 @@
-Agaricus macilentus Fr. SPECIES
-=======
+# Agaricus macilentus Fr. SPECIES
 
 #### Status
 ACCEPTED

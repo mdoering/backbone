@@ -1,5 +1,4 @@
-Lecidea hydropica Körb. SPECIES
-=======
+# Lecidea hydropica Körb. SPECIES
 
 #### Status
 ACCEPTED

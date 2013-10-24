@@ -1,5 +1,4 @@
-Omphalina wasumii Raithelh. SPECIES
-=======
+# Omphalina wasumii Raithelh. SPECIES
 
 #### Status
 ACCEPTED

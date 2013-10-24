@@ -1,5 +1,4 @@
-Sclerotium suffulta Rebent. SPECIES
-=======
+# Sclerotium suffulta Rebent. SPECIES
 
 #### Status
 ACCEPTED

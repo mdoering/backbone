@@ -1,5 +1,4 @@
-Cladochytrium mauryi Har. SPECIES
-=======
+# Cladochytrium mauryi Har. SPECIES
 
 #### Status
 ACCEPTED

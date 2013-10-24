@@ -1,5 +1,4 @@
-Pleurostomelloides GENUS
-=======
+# Pleurostomelloides GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammobaculites arenaria Natland, 1938 SPECIES
-=======
+# Ammobaculites arenaria Natland, 1938 SPECIES
 
 #### Status
 ACCEPTED

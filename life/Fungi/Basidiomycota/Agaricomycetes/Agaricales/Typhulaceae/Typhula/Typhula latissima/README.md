@@ -1,5 +1,4 @@
-Typhula latissima Remsberg, 1940 SPECIES
-=======
+# Typhula latissima Remsberg, 1940 SPECIES
 
 #### Status
 ACCEPTED

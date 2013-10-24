@@ -1,5 +1,4 @@
-Phyllosticta pallida Halst. SPECIES
-=======
+# Phyllosticta pallida Halst. SPECIES
 
 #### Status
 ACCEPTED

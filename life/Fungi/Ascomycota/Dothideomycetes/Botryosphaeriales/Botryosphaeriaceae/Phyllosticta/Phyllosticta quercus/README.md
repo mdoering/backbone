@@ -1,5 +1,4 @@
-Phyllosticta quercus Sacc. & Speg. SPECIES
-=======
+# Phyllosticta quercus Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

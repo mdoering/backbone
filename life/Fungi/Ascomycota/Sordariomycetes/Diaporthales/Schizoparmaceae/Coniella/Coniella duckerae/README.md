@@ -1,5 +1,4 @@
-Coniella duckerae H.Y. Yip SPECIES
-=======
+# Coniella duckerae H.Y. Yip SPECIES
 
 #### Status
 ACCEPTED

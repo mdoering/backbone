@@ -1,8 +1,7 @@
-Rinodina transsylvanica (Nyl.) H. Olivier SPECIES
-=======
+# Rinodina transilvanica (Nyl.) H. Olivier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

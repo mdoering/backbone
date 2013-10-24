@@ -1,5 +1,4 @@
-Psoroma pallidum Nyl. SPECIES
-=======
+# Psoroma pallidum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenopsis conferta (Tehon) F. Stevens SPECIES
-=======
+# Irenopsis conferta (Tehon) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

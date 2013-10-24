@@ -1,5 +1,4 @@
-Jenmaniomyces goebelii Cif. & Tomas. SPECIES
-=======
+# Jenmaniomyces goebelii Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

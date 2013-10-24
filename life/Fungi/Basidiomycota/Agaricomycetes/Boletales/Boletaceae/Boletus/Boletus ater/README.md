@@ -1,5 +1,4 @@
-Boletus ater Henn. SPECIES
-=======
+# Boletus ater Henn. SPECIES
 
 #### Status
 ACCEPTED

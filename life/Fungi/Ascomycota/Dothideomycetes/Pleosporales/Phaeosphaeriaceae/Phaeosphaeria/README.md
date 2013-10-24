@@ -1,5 +1,4 @@
-Phaeosphaeria I. Miyake GENUS
-=======
+# Phaeosphaeria I. Miyake GENUS
 
 #### Status
 ACCEPTED

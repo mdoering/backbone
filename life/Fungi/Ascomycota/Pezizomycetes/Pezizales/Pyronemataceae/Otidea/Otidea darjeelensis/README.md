@@ -1,5 +1,4 @@
-Otidea darjeelensis (Berk.) Sacc. SPECIES
-=======
+# Otidea darjeelensis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

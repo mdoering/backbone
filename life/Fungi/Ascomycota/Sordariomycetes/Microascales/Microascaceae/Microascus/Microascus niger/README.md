@@ -1,5 +1,4 @@
-Microascus niger (Sopp) Curzi SPECIES
-=======
+# Microascus niger (Sopp) Curzi SPECIES
 
 #### Status
 ACCEPTED

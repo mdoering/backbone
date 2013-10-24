@@ -1,5 +1,4 @@
-Mycosphaerella earliana (G. Winter) Tomilin SPECIES
-=======
+# Mycosphaerella earliana (G. Winter) Tomilin SPECIES
 
 #### Status
 ACCEPTED

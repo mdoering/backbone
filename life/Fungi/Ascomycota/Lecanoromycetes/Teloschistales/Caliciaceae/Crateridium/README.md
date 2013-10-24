@@ -1,5 +1,4 @@
-Crateridium GENUS
-=======
+# Crateridium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula albissima (Fée) Trevis. SPECIES
-=======
+# Pyrenula albissima (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

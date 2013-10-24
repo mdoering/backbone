@@ -1,14 +1,13 @@
-Leptothyrium pini-austriacae Fautrey SPECIES
-=======
+# Sirothyriella pini-austriacae (Roum. & Fautrey) B. Sutton, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 141(nil): 235 (1977)
 
 #### Original name
 Leptothyrium pini-austriacae Fautrey

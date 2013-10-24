@@ -1,5 +1,4 @@
-Phoma consocians Naumov SPECIES
-=======
+# Phoma consocians Naumov SPECIES
 
 #### Status
 ACCEPTED

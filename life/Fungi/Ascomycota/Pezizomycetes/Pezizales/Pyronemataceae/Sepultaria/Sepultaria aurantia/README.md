@@ -1,5 +1,4 @@
-Sepultaria aurantia Rodway SPECIES
-=======
+# Sepultaria aurantia Rodway SPECIES
 
 #### Status
 ACCEPTED

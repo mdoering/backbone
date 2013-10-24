@@ -1,5 +1,4 @@
-Thelotrema subweberi Sipman SPECIES
-=======
+# Thelotrema subweberi Sipman SPECIES
 
 #### Status
 ACCEPTED

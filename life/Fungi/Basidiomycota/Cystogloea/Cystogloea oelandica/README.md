@@ -1,5 +1,4 @@
-Cystogloea oelandica P. Roberts, 2006 SPECIES
-=======
+# Cystogloea oelandica P. Roberts, 2006 SPECIES
 
 #### Status
 ACCEPTED

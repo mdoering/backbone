@@ -1,5 +1,4 @@
-Amphirrhopella Haeckel, 1887 GENUS
-=======
+# Amphirrhopella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma necatrix Thüm. SPECIES
-=======
+# Phoma necatrix Thüm. SPECIES
 
 #### Status
 ACCEPTED

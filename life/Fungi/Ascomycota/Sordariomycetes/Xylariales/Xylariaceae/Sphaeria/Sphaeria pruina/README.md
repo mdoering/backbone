@@ -1,5 +1,4 @@
-Sphaeria pruina Schwein. SPECIES
-=======
+# Sphaeria pruina Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massariella microspora (G.H. Otth) Jacz. SPECIES
-=======
+# Massariella microspora (G.H. Otth) Jacz. SPECIES
 
 #### Status
 ACCEPTED

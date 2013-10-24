@@ -1,5 +1,4 @@
-Trichia ramulosa F. Rudolphi SPECIES
-=======
+# Trichia ramulosa F. Rudolphi SPECIES
 
 #### Status
 ACCEPTED

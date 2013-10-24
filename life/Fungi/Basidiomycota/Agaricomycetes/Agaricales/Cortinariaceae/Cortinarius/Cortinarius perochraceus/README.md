@@ -1,5 +1,4 @@
-Cortinarius perochraceus M.M. Moser SPECIES
-=======
+# Cortinarius perochraceus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

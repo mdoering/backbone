@@ -1,14 +1,13 @@
-Burrillia anomala Crowell, 1942 SPECIES
-=======
+# Nannfeldtiomyces anomalus (Crowell) Vánky, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Canadian Journal of Research, Section C 20: 327 (1942)
+Sydowia 34: 173 (1981)
 
 #### Original name
 Burrillia anomala Crowell, 1942

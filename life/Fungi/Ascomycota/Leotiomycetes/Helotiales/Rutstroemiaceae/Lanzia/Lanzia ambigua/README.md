@@ -1,5 +1,4 @@
-Lanzia ambigua (Bres. & Henn.) S.E. Carp. SPECIES
-=======
+# Lanzia ambigua (Bres. & Henn.) S.E. Carp. SPECIES
 
 #### Status
 ACCEPTED

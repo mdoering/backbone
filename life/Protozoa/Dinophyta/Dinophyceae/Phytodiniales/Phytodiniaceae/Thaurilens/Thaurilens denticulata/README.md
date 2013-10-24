@@ -1,5 +1,4 @@
-Thaurilens denticulata Pavillard SPECIES
-=======
+# Thaurilens denticulata Pavillard SPECIES
 
 #### Status
 ACCEPTED

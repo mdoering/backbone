@@ -1,5 +1,4 @@
-Arthonia graphidis Fée SPECIES
-=======
+# Arthonia graphidis Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Estiastra rhytidoa Wicander & Wood, 1981 SPECIES
-=======
+# Estiastra rhytidoa Wicander & Wood, 1981 SPECIES
 
 #### Status
 ACCEPTED

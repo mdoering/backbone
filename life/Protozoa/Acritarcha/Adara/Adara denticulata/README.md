@@ -1,5 +1,4 @@
-Adara denticulata Tongiorgi in Bagnoli et al., 1988 SPECIES
-=======
+# Adara denticulata Tongiorgi in Bagnoli et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

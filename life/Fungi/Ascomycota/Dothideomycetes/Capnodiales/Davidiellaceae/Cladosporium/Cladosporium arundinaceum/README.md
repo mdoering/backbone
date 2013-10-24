@@ -1,5 +1,4 @@
-Cladosporium arundinaceum Mont. SPECIES
-=======
+# Cladosporium arundinaceum Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza citriora var. citriora VARIETY
-=======
+# Peziza citriora Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Observ. mycol. (Havniae) 2: 306 (1818)
 
 #### Original name
-Peziza citriora var. citriora
+Peziza citriora Fr.
 
 ### Remarks
 null

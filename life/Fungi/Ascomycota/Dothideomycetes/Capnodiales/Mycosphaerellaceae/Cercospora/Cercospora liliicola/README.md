@@ -1,5 +1,4 @@
-Cercospora liliicola Richon SPECIES
-=======
+# Cercospora liliicola Richon SPECIES
 
 #### Status
 ACCEPTED

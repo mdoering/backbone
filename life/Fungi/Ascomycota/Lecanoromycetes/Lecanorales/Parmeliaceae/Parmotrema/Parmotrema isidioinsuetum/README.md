@@ -1,5 +1,4 @@
-Parmotrema isidioinsuetum Elix SPECIES
-=======
+# Parmotrema isidioinsuetum Elix SPECIES
 
 #### Status
 ACCEPTED

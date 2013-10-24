@@ -1,5 +1,4 @@
-Crocicreas nigrofuscum var. nigrofuscum VARIETY
-=======
+# Crocicreas nigrofuscum (Rehm) S.E. Carp. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Brittonia 32(2): 271 (1980)
 
 #### Original name
-Crocicreas nigrofuscum var. nigrofuscum
+Phialea nigrofusca Rehm
 
 ### Remarks
 null

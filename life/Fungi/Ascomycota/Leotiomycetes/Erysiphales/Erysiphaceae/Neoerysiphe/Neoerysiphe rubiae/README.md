@@ -1,17 +1,16 @@
-Neöerysiphe rubiae Bahç., U. Braun & Kabakt. SPECIES
-=======
+# Neoerysiphe rubiae Bahç., U. Braun & Kabakt., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 83(3-4): 490 (2006)
 
 #### Original name
-Neöerysiphe rubiae Bahç., U. Braun & Kabakt.
+Neoerysiphe rubiae Bahç., U. Braun & Kabakt., 2006
 
 ### Remarks
 null

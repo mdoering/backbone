@@ -1,5 +1,4 @@
-Asteridiella casimiroae Hansf. SPECIES
-=======
+# Asteridiella casimiroae Hansf. SPECIES
 
 #### Status
 ACCEPTED

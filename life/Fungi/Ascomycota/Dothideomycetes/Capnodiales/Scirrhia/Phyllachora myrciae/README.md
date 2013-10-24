@@ -1,5 +1,4 @@
-Phyllachora myrciae (Lév.) Sacc., 1883 SPECIES
-=======
+# Phyllachora myrciae (Lév.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

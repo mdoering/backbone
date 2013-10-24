@@ -1,5 +1,4 @@
-Macrocystis menziesii (Turner) C. Agardh SPECIES
-=======
+# Macrocystis menziesii (Turner) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

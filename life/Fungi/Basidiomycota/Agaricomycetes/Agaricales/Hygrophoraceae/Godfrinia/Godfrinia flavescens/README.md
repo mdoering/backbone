@@ -1,5 +1,4 @@
-Godfrinia flavescens (Kauffman) Herink SPECIES
-=======
+# Godfrinia flavescens (Kauffman) Herink SPECIES
 
 #### Status
 ACCEPTED

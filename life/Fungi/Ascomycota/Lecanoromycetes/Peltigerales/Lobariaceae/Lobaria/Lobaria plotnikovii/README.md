@@ -1,5 +1,4 @@
-Lobaria plotnikovii Tomin SPECIES
-=======
+# Lobaria plotnikovii Tomin SPECIES
 
 #### Status
 ACCEPTED

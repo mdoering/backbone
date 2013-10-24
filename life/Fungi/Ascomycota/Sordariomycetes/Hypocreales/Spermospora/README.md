@@ -1,5 +1,4 @@
-Spermospora R. Sprague, 1948 GENUS
-=======
+# Spermospora R. Sprague, 1948 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalosporium caerulens Matsumae, Kamio & Hata SPECIES
-=======
+# Cephalosporium caerulens Matsumae, Kamio & Hata SPECIES
 
 #### Status
 ACCEPTED

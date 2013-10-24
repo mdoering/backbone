@@ -1,5 +1,4 @@
-Physcia lithotea var. lithotea VARIETY
-=======
+# Physcia lithotea (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia lithotea var. lithotea
+Parmelia lithotea Ach.
 
 ### Remarks
 null

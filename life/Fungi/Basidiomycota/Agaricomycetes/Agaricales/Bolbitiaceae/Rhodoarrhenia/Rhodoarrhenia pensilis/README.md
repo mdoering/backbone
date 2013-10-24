@@ -1,14 +1,13 @@
-Favolaschia pensilis (Berk. & M.A. Curtis) Kuntze, 1898 SPECIES
-=======
+# Rhodoarrhenia pensilis (Berk. & M.A. Curtis) Pegler, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 476 (1898)
+Kew Bull. 42(3): 542 (1987)
 
 #### Original name
 null

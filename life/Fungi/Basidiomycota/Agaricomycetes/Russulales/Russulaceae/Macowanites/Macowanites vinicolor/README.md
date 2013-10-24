@@ -1,5 +1,4 @@
-Macowanites vinicolor A.H. Sm. SPECIES
-=======
+# Macowanites vinicolor A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

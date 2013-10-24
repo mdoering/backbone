@@ -1,5 +1,4 @@
-Trametes salmonea Imazeki SPECIES
-=======
+# Trametes salmonea Imazeki SPECIES
 
 #### Status
 ACCEPTED

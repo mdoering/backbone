@@ -1,5 +1,4 @@
-Navicella nigricans (Berl.) Kuntze SPECIES
-=======
+# Navicella nigricans (Berl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

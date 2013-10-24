@@ -1,5 +1,4 @@
-Chrysothrix chrysophthalma (P. James) P. James & J. R. Laundon SPECIES
-=======
+# Chrysothrix chrysophthalma (P. James) P. James & J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euglena antefossa L. P. Johnson SPECIES
-=======
+# Euglena antefossa L. P. Johnson SPECIES
 
 #### Status
 ACCEPTED

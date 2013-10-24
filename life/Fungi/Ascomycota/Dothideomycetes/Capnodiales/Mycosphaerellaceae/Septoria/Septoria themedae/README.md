@@ -1,5 +1,4 @@
-Septoria themedae B.V. Patil, Sukapure & Thirum. SPECIES
-=======
+# Septoria themedae B.V. Patil, Sukapure & Thirum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia tholera Zahlbr. SPECIES
-=======
+# Bacidia tholera Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

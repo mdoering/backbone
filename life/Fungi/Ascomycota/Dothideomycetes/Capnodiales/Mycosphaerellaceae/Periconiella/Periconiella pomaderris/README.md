@@ -1,17 +1,16 @@
-Periconiella pomaderridis McKenzie SPECIES
-=======
+# Periconiella pomaderris McKenzie, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 59: 43 (1996)
 
 #### Original name
-Periconiella pomaderridis McKenzie
+Periconiella pomaderris McKenzie, 1996
 
 ### Remarks
 null

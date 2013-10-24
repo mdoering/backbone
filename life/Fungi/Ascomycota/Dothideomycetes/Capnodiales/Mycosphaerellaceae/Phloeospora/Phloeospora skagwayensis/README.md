@@ -1,5 +1,4 @@
-Phloeospora skagwayensis R. Sprague SPECIES
-=======
+# Phloeospora skagwayensis R. Sprague SPECIES
 
 #### Status
 ACCEPTED

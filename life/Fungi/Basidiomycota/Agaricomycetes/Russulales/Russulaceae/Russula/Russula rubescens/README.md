@@ -1,5 +1,4 @@
-Russula rubescens Beardslee SPECIES
-=======
+# Russula rubescens Beardslee SPECIES
 
 #### Status
 ACCEPTED

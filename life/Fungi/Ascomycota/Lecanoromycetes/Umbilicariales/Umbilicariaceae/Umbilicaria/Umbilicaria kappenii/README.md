@@ -1,17 +1,16 @@
-Umbilicaria kappeni Sancho, B. Schroet. & Vallad. SPECIES
-=======
+# Umbilicaria kappenii Sancho, B. Schroet. & Vallad. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 67(3-4): 281 (1998)
 
 #### Original name
-Umbilicaria kappeni Sancho, B. Schroet. & Vallad.
+Umbilicaria kappenii Sancho, B. Schroet. & Vallad.
 
 ### Remarks
 null

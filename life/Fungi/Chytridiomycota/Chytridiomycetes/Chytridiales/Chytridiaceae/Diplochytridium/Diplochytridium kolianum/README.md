@@ -1,5 +1,4 @@
-Diplochytridium kolianum (Domján) Karling SPECIES
-=======
+# Diplochytridium kolianum (Domján) Karling SPECIES
 
 #### Status
 ACCEPTED

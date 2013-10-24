@@ -1,17 +1,16 @@
-Geastrum nanum var. nanum VARIETY
-=======
+# Geastrum schmidelii Vittad., 1842 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. (Desvaux) 2: 27 (1809)
+Monograph Lyc. 12 (1842)
 
 #### Original name
-Geastrum nanum var. nanum
+Geastrum schmidelii Vittad., 1842
 
 ### Remarks
 null

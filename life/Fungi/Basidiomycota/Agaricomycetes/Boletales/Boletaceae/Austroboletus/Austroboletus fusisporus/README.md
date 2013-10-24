@@ -1,5 +1,4 @@
-Austroboletus fusisporus (Kawam. ex Imazeki & Hongo) Wolfe SPECIES
-=======
+# Austroboletus fusisporus (Kawam. ex Imazeki & Hongo) Wolfe SPECIES
 
 #### Status
 ACCEPTED

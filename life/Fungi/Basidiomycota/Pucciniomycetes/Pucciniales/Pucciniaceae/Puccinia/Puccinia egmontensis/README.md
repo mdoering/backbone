@@ -1,5 +1,4 @@
-Puccinia egmontensis G. Cunn., 1923 SPECIES
-=======
+# Puccinia egmontensis G. Cunn., 1923 SPECIES
 
 #### Status
 ACCEPTED

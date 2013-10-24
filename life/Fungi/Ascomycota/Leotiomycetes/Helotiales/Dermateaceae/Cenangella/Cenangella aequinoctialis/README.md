@@ -1,5 +1,4 @@
-Cenangella aequinoctialis (Mont.) Sacc. SPECIES
-=======
+# Cenangella aequinoctialis (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

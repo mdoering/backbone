@@ -1,5 +1,4 @@
-Hazlinszkya gibberulosa (Ach.) Körb. SPECIES
-=======
+# Hazlinszkya gibberulosa (Ach.) Körb. SPECIES
 
 #### Status
 ACCEPTED

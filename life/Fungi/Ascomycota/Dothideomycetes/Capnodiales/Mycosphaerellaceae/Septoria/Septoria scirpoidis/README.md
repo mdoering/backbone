@@ -1,5 +1,4 @@
-Septoria scirpoidis Pass. SPECIES
-=======
+# Septoria scirpoidis Pass. SPECIES
 
 #### Status
 ACCEPTED

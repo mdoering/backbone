@@ -1,5 +1,4 @@
-Collemopsis rehmica Nyl. SPECIES
-=======
+# Collemopsis rehmica Nyl. SPECIES
 
 #### Status
 ACCEPTED

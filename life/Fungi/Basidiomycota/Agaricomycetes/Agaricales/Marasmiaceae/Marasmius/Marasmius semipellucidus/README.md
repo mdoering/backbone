@@ -1,5 +1,4 @@
-Marasmius semipellucidus Berk. & Broome SPECIES
-=======
+# Marasmius semipellucidus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Folliculina similis Dons, 1915 SPECIES
-=======
+# Folliculina similis Dons, 1915 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psora brunneocarpa Timdal SPECIES
-=======
+# Psora brunneocarpa Timdal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Coprinopsis piepenbroekii (Uljé & Bas) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis piepenbroekorum (Uljé & Bas) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 230 (2001)
 
 #### Original name
 Coprinus piepenbroekorum Uljé & Bas

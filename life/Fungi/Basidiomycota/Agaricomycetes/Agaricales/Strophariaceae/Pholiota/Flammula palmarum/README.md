@@ -1,5 +1,4 @@
-Flammula palmarum Speg. SPECIES
-=======
+# Flammula palmarum Speg. SPECIES
 
 #### Status
 ACCEPTED

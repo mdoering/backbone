@@ -1,8 +1,7 @@
-Blennoria evonymi Gabotto SPECIES
-=======
+# Blennoria euonymi Gabotto SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Blennoria evonymi Gabotto
+Blennoria euonymi Gabotto
 
 ### Remarks
 null

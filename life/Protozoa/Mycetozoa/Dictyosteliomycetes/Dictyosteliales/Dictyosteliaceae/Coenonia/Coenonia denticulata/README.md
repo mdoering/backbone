@@ -1,5 +1,4 @@
-Coenonia denticulata Tiegh., 1884 SPECIES
-=======
+# Coenonia denticulata Tiegh., 1884 SPECIES
 
 #### Status
 ACCEPTED

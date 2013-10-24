@@ -1,5 +1,4 @@
-Laboulbenia subulata Thaxt. SPECIES
-=======
+# Laboulbenia subulata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

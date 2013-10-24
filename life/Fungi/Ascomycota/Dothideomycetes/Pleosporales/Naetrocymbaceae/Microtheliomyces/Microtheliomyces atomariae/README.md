@@ -1,5 +1,4 @@
-Microtheliomyces atomariae Cif. & Tomas. SPECIES
-=======
+# Microtheliomyces atomariae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hygrophorus agathosmus var. agathosmus (Fr.) Fr. VARIETY
-=======
+# Hygrophorus agathosmus (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Epicr. syst. mycol. (Upsaliae) 325 (1838)
 
 #### Original name
-Hygrophorus agathosmus var. agathosmus (Fr.) Fr.
+Agaricus agathosmus Fr., 1815
 
 ### Remarks
 null

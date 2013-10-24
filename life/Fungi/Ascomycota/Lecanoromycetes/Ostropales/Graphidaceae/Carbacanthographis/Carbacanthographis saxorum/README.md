@@ -1,5 +1,4 @@
-Carbacanthographis saxorum (Egea & Torrente) Lücking & Bungartz SPECIES
-=======
+# Carbacanthographis saxorum (Egea & Torrente) Lücking & Bungartz SPECIES
 
 #### Status
 ACCEPTED

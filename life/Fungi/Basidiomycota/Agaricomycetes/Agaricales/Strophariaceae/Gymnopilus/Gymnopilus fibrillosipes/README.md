@@ -1,5 +1,4 @@
-Gymnopilus fibrillosipes Murrill SPECIES
-=======
+# Gymnopilus fibrillosipes Murrill SPECIES
 
 #### Status
 ACCEPTED

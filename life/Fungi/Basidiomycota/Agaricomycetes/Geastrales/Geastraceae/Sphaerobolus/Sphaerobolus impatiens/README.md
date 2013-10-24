@@ -1,5 +1,4 @@
-Sphaerobolus impatiens Boud. SPECIES
-=======
+# Sphaerobolus impatiens Boud. SPECIES
 
 #### Status
 ACCEPTED

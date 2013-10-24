@@ -1,5 +1,4 @@
-Glugea ovoidea Thélohan SPECIES
-=======
+# Glugea ovoidea Thélohan SPECIES
 
 #### Status
 ACCEPTED

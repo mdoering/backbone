@@ -1,5 +1,4 @@
-Pseudocercospora rugosi (Chupp) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora rugosi (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

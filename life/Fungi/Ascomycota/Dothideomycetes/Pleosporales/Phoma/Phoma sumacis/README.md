@@ -1,5 +1,4 @@
-Phoma sumacis f. sumacis FORM
-=======
+# Phoma sumacis Brunaud SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma sumacis f. sumacis
+Phoma sumacis Brunaud
 
 ### Remarks
 null

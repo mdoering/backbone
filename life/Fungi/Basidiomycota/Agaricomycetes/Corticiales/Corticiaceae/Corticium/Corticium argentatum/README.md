@@ -1,5 +1,4 @@
-Corticium argentatum Burt SPECIES
-=======
+# Corticium argentatum Burt SPECIES
 
 #### Status
 ACCEPTED

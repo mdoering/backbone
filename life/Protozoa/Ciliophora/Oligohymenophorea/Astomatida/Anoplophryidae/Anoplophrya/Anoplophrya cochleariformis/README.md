@@ -1,5 +1,4 @@
-Anoplophrya cochleariformis SPECIES
-=======
+# Anoplophrya cochleariformis SPECIES
 
 #### Status
 ACCEPTED

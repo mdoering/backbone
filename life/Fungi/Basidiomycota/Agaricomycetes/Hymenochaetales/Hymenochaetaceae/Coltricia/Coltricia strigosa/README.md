@@ -1,5 +1,4 @@
-Coltricia strigosa G. Cunn., 1948 SPECIES
-=======
+# Coltricia strigosa G. Cunn., 1948 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Subulicystidium allantosporum Boidin & Gilles SPECIES
-=======
+# Subulicystidium allantosporum Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

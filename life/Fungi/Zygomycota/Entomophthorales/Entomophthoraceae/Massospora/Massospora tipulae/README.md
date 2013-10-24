@@ -1,5 +1,4 @@
-Massospora tipulae J.P. Porter SPECIES
-=======
+# Massospora tipulae J.P. Porter SPECIES
 
 #### Status
 ACCEPTED

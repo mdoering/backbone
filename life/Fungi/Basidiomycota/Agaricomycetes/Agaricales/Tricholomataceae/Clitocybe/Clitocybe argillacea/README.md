@@ -1,5 +1,4 @@
-Clitocybe argillacea H.E. Bigelow SPECIES
-=======
+# Clitocybe argillacea H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

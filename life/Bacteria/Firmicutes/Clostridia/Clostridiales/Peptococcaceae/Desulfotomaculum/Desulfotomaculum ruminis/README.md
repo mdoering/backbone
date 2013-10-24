@@ -1,5 +1,4 @@
-Desulfotomaculum ruminis Campbell and Postgate, 1965 (Approved Lists, 1980) SPECIES
-=======
+# Desulfotomaculum ruminis Campbell and Postgate, 1965 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

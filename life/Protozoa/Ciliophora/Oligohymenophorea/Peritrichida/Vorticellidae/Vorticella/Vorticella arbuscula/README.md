@@ -1,5 +1,4 @@
-Vorticella arbuscula Ehrenberg SPECIES
-=======
+# Vorticella arbuscula Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

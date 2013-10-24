@@ -1,5 +1,4 @@
-Phomopsis tommaseana Gaja SPECIES
-=======
+# Phomopsis tommaseana Gaja SPECIES
 
 #### Status
 ACCEPTED

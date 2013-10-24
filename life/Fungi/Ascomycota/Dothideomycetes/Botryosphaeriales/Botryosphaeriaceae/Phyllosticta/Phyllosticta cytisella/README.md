@@ -1,5 +1,4 @@
-Phyllosticta cytisella Sacc. SPECIES
-=======
+# Phyllosticta cytisella Sacc. SPECIES
 
 #### Status
 ACCEPTED

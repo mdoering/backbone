@@ -1,5 +1,4 @@
-Streptomyces plicatus Pridham et al., 1958 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces plicatus Pridham et al., 1958 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

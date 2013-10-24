@@ -1,5 +1,4 @@
-Spermatodium subcinereum (Nyl.) Trevis. SPECIES
-=======
+# Spermatodium subcinereum (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

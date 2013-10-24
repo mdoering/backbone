@@ -1,5 +1,4 @@
-Siphonofera GENUS
-=======
+# Siphonofera GENUS
 
 #### Status
 ACCEPTED

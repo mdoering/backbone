@@ -1,5 +1,4 @@
-Gliophorus pallidus E. Horak SPECIES
-=======
+# Gliophorus pallidus E. Horak SPECIES
 
 #### Status
 ACCEPTED

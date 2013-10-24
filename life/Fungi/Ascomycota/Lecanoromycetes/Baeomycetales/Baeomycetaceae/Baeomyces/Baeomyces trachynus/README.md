@@ -1,5 +1,4 @@
-Baeomyces trachynus Ach. SPECIES
-=======
+# Baeomyces trachynus Ach. SPECIES
 
 #### Status
 ACCEPTED

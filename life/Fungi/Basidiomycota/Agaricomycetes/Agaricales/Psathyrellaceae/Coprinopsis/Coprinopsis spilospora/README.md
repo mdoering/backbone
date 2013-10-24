@@ -1,5 +1,4 @@
-Coprinopsis spilospora (Romagn.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis spilospora (Romagn.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

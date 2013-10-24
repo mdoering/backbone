@@ -1,5 +1,4 @@
-Valsa cyclospora Nitschke SPECIES
-=======
+# Valsa cyclospora Nitschke SPECIES
 
 #### Status
 ACCEPTED

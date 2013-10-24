@@ -1,5 +1,4 @@
-Sethoconus tabulatus Haeckel, 1887 SPECIES
-=======
+# Sethoconus tabulatus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

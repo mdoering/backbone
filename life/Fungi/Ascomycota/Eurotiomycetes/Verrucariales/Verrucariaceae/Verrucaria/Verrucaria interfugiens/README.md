@@ -1,5 +1,4 @@
-Verrucaria interfugiens Nyl. SPECIES
-=======
+# Verrucaria interfugiens Nyl. SPECIES
 
 #### Status
 ACCEPTED

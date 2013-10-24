@@ -1,5 +1,4 @@
-Hypocrea haematoplaca Mont. SPECIES
-=======
+# Hypocrea haematoplaca Mont. SPECIES
 
 #### Status
 ACCEPTED

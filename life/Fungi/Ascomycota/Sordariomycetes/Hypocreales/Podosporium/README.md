@@ -1,5 +1,4 @@
-Podosporium Schweinitz, 1832 GENUS
-=======
+# Podosporium Schweinitz, 1832 GENUS
 
 #### Status
 ACCEPTED

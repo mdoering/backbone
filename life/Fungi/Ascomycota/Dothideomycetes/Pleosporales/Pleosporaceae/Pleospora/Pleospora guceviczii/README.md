@@ -1,5 +1,4 @@
-Pleospora guceviczii Glezer SPECIES
-=======
+# Pleospora guceviczii Glezer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gnomonia jaczewskii Negru & Ditu SPECIES
-=======
+# Gnomonia jaczewskii Negru & Ditu SPECIES
 
 #### Status
 ACCEPTED

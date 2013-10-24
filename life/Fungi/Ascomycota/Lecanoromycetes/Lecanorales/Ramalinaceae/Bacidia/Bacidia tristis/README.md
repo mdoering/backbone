@@ -1,5 +1,4 @@
-Bacidia tristis Vain. SPECIES
-=======
+# Bacidia tristis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entosiphon ovatus Stokes SPECIES
-=======
+# Entosiphon ovatus Stokes SPECIES
 
 #### Status
 ACCEPTED

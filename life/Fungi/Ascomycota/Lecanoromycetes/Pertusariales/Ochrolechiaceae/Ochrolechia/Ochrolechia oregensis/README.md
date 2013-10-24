@@ -1,5 +1,4 @@
-Ochrolechia oregensis H. Magn. ex Sipe SPECIES
-=======
+# Ochrolechia oregensis H. Magn. ex Sipe SPECIES
 
 #### Status
 ACCEPTED

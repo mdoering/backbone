@@ -1,5 +1,4 @@
-Ceratosphaeria abietis Réblová SPECIES
-=======
+# Ceratosphaeria abietis Réblová SPECIES
 
 #### Status
 ACCEPTED

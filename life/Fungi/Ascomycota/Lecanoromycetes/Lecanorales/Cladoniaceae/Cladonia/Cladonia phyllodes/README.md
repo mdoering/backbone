@@ -1,5 +1,4 @@
-Cladonia phyllodes SPECIES
-=======
+# Cladonia phyllodes SPECIES
 
 #### Status
 ACCEPTED

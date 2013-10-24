@@ -1,5 +1,4 @@
-Dendryphiella uniseptata Matsush. SPECIES
-=======
+# Dendryphiella uniseptata Matsush. SPECIES
 
 #### Status
 ACCEPTED

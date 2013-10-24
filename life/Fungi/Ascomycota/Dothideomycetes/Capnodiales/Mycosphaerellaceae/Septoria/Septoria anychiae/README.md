@@ -1,5 +1,4 @@
-Septoria anychiae H.C. Greene SPECIES
-=======
+# Septoria anychiae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

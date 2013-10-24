@@ -1,5 +1,4 @@
-Pholiota stefaninii Bacc. SPECIES
-=======
+# Pholiota stefaninii Bacc. SPECIES
 
 #### Status
 ACCEPTED

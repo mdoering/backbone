@@ -1,5 +1,4 @@
-Sporocybe apiculata Penz. & Sacc. SPECIES
-=======
+# Sporocybe apiculata Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

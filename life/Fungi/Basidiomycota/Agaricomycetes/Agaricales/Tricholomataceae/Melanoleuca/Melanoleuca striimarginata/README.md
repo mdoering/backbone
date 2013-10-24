@@ -1,5 +1,4 @@
-Melanoleuca striimarginata Métrod SPECIES
-=======
+# Melanoleuca striimarginata Métrod SPECIES
 
 #### Status
 ACCEPTED

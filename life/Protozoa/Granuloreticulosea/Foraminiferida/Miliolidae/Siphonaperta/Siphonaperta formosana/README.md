@@ -1,5 +1,4 @@
-Siphonaperta formosana (Nakamura) SPECIES
-=======
+# Siphonaperta formosana (Nakamura) SPECIES
 
 #### Status
 ACCEPTED

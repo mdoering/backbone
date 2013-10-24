@@ -1,5 +1,4 @@
-Pyrrhospora aurantiaca Aptroot & Diederich SPECIES
-=======
+# Pyrrhospora aurantiaca Aptroot & Diederich SPECIES
 
 #### Status
 ACCEPTED

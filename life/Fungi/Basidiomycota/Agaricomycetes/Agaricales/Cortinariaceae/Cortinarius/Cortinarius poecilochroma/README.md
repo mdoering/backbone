@@ -1,5 +1,4 @@
-Cortinarius poecilochroma Rob. Henry SPECIES
-=======
+# Cortinarius poecilochroma Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

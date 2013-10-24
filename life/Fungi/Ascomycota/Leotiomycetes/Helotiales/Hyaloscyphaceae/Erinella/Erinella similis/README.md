@@ -1,5 +1,4 @@
-Erinella similis Bres. SPECIES
-=======
+# Erinella similis Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiostoma grande Samuels & E. Müll., 1979 SPECIES
-=======
+# Ophiostoma grande Samuels & E. Müll., 1979 SPECIES
 
 #### Status
 ACCEPTED

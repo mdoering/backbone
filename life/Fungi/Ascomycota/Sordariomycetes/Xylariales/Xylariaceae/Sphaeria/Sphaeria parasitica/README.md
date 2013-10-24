@@ -1,5 +1,4 @@
-Sphaeria parasitica Sowerby SPECIES
-=======
+# Sphaeria parasitica Sowerby SPECIES
 
 #### Status
 ACCEPTED

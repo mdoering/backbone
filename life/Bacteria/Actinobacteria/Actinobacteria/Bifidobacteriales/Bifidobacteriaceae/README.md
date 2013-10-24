@@ -1,5 +1,4 @@
-Bifidobacteriaceae FAMILY
-=======
+# Bifidobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

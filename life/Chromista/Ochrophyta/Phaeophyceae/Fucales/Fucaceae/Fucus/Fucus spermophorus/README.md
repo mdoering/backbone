@@ -1,5 +1,4 @@
-Fucus spermophorus Linnaeus SPECIES
-=======
+# Fucus spermophorus Linnaeus SPECIES
 
 #### Status
 ACCEPTED

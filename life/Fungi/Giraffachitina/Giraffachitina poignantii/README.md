@@ -1,5 +1,4 @@
-Giraffachitina poignantii Locq. SPECIES
-=======
+# Giraffachitina poignantii Locq. SPECIES
 
 #### Status
 ACCEPTED

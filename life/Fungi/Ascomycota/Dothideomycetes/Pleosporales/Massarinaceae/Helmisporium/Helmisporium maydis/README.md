@@ -1,5 +1,4 @@
-Helmisporium maydis Brond. SPECIES
-=======
+# Helmisporium maydis Brond. SPECIES
 
 #### Status
 ACCEPTED

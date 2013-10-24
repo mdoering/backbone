@@ -1,5 +1,4 @@
-Pleurotus filifer Speg. SPECIES
-=======
+# Pleurotus filifer Speg. SPECIES
 
 #### Status
 ACCEPTED

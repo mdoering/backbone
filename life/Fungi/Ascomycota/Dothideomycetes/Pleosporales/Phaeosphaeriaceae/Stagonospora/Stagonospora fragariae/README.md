@@ -1,14 +1,13 @@
-Phloeospora fragariae (Briard & Har.) Petr., 1920 SPECIES
-=======
+# Stagonospora fragariae Briard & Har., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue mycol. , Toulouse 13: 17 (1891)
 
 #### Original name
 Stagonospora fragariae Briard & Har., 1891

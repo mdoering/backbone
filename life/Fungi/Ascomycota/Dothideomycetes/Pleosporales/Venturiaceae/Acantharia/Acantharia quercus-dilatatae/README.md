@@ -1,5 +1,4 @@
-Acantharia quercus-dilatatae S.K. Bose & E. Müll., 1965 SPECIES
-=======
+# Acantharia quercus-dilatatae S.K. Bose & E. Müll., 1965 SPECIES
 
 #### Status
 ACCEPTED

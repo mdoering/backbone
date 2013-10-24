@@ -1,17 +1,16 @@
-Cytodiplospora alhagi S. Ahmad SPECIES
-=======
+# Cytodiplospora alhaginis S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 17(2): 71 (1971)
 
 #### Original name
-Cytodiplospora alhagi S. Ahmad
+Cytodiplospora alhaginis S. Ahmad
 
 ### Remarks
 null

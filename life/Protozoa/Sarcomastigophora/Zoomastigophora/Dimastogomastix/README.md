@@ -1,5 +1,4 @@
-Dimastogomastix I.F. de Mello, Ganencar & Loundó, 1938 GENUS
-=======
+# Dimastogomastix I.F. de Mello, Ganencar & Loundó, 1938 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colpoma rosae (Teng) Teng SPECIES
-=======
+# Colpoma rosae (Teng) Teng SPECIES
 
 #### Status
 ACCEPTED

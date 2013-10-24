@@ -1,5 +1,4 @@
-Melanospora coprophila Zukal SPECIES
-=======
+# Melanospora coprophila Zukal SPECIES
 
 #### Status
 ACCEPTED

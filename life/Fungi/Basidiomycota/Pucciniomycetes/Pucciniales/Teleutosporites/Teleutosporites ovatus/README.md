@@ -1,5 +1,4 @@
-Teleutosporites ovatus Trivedi & C.L. Verma SPECIES
-=======
+# Teleutosporites ovatus Trivedi & C.L. Verma SPECIES
 
 #### Status
 ACCEPTED

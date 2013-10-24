@@ -1,5 +1,4 @@
-Stephanocostis lucens (Hustedt) S. I. Genkal & I. V. Makarova SPECIES
-=======
+# Stephanocostis lucens (Hustedt) S. I. Genkal & I. V. Makarova SPECIES
 
 #### Status
 ACCEPTED

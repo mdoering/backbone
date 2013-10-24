@@ -1,5 +1,4 @@
-Puccinia brachycomes McAlpine SPECIES
-=======
+# Puccinia brachycomes McAlpine SPECIES
 
 #### Status
 ACCEPTED

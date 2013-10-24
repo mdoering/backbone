@@ -1,5 +1,4 @@
-Cordyceps fockei Miq. SPECIES
-=======
+# Cordyceps fockei Miq. SPECIES
 
 #### Status
 ACCEPTED

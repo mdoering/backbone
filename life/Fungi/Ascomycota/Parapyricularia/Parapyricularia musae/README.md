@@ -1,5 +1,4 @@
-Parapyricularia musae M.B. Ellis & Peregrine, 1972 SPECIES
-=======
+# Parapyricularia musae M.B. Ellis & Peregrine, 1972 SPECIES
 
 #### Status
 ACCEPTED

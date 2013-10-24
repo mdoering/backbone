@@ -1,5 +1,4 @@
-Uredo fici-nervosae Sawada SPECIES
-=======
+# Uredo fici-nervosae Sawada SPECIES
 
 #### Status
 ACCEPTED

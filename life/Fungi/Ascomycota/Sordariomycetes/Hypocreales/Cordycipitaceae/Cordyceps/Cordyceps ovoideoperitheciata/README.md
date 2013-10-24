@@ -1,5 +1,4 @@
-Cordyceps ovoideoperitheciata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps ovoideoperitheciata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

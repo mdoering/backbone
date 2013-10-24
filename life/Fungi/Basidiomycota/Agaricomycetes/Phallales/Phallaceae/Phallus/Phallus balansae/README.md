@@ -1,5 +1,4 @@
-Phallus balansae (Pat.) Kuntze SPECIES
-=======
+# Phallus balansae (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

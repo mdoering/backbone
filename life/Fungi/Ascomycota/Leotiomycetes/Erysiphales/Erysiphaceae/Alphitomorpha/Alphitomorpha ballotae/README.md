@@ -1,5 +1,4 @@
-Alphitomorpha ballotae Wallr. SPECIES
-=======
+# Alphitomorpha ballotae Wallr. SPECIES
 
 #### Status
 ACCEPTED

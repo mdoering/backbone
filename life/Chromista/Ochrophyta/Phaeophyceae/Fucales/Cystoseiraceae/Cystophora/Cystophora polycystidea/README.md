@@ -1,5 +1,4 @@
-Cystophora polycystidea Areschoug ex Agardh SPECIES
-=======
+# Cystophora polycystidea Areschoug ex Agardh SPECIES
 
 #### Status
 ACCEPTED

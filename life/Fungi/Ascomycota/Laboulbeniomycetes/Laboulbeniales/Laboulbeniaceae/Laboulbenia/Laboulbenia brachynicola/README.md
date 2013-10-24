@@ -1,5 +1,4 @@
-Laboulbenia brachynicola Speg. SPECIES
-=======
+# Laboulbenia brachynicola Speg. SPECIES
 
 #### Status
 ACCEPTED

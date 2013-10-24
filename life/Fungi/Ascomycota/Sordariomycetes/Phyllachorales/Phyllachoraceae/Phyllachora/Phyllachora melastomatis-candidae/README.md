@@ -1,17 +1,16 @@
-Phyllachora melastomae-candidae Sawada SPECIES
-=======
+# Phyllachora melastomatis-candidae Sawada, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Journal of the Taihoku Society of Agriculture & Forestry 7: 121 (1942)
 
 #### Original name
-Phyllachora melastomae-candidae Sawada
+Phyllachora melastomatis-candidae Sawada, 1942
 
 ### Remarks
 null

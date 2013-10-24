@@ -1,5 +1,4 @@
-Lichen cinereorufus Wahlenb. SPECIES
-=======
+# Lichen cinereorufus Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

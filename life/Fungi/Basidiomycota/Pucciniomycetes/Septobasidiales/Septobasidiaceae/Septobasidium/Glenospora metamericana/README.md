@@ -1,5 +1,4 @@
-Glenospora metamericana Castell. SPECIES
-=======
+# Glenospora metamericana Castell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum fechtneri Velen. SPECIES
-=======
+# Stereum fechtneri Velen. SPECIES
 
 #### Status
 ACCEPTED

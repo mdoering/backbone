@@ -1,5 +1,4 @@
-Actinothyrium maculosum Sacc. SPECIES
-=======
+# Actinothyrium maculosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

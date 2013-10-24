@@ -1,17 +1,16 @@
-Dasyscypha brdensis Velen. SPECIES
-=======
+# Amicodisca brdensis (Velen.) Svrcek, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 41(1): 16 (1987)
 
 #### Original name
-Dasyscypha brdensis Velen.
+Dasyscyphus brdensis Velen., 1934
 
 ### Remarks
 null

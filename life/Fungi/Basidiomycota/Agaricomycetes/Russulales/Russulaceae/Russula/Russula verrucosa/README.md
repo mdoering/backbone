@@ -1,5 +1,4 @@
-Russula verrucosa A. Blytt SPECIES
-=======
+# Russula verrucosa A. Blytt SPECIES
 
 #### Status
 ACCEPTED

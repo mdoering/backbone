@@ -1,5 +1,4 @@
-Thelephorales Corner ex Oberw. ORDER
-=======
+# Thelephorales Corner ex Oberw. ORDER
 
 #### Status
 ACCEPTED

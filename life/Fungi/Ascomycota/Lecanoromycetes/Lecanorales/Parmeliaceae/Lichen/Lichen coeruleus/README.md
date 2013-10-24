@@ -1,5 +1,4 @@
-Lichen coeruleus Ramond SPECIES
-=======
+# Lichen coeruleus Ramond SPECIES
 
 #### Status
 ACCEPTED

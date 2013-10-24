@@ -1,5 +1,4 @@
-Arthonia saxatilis Vain. SPECIES
-=======
+# Arthonia saxatilis Vain. SPECIES
 
 #### Status
 ACCEPTED

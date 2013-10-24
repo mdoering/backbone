@@ -1,5 +1,4 @@
-Uredo dissotidis-longicaudae Henn. SPECIES
-=======
+# Uredo dissotidis-longicaudae Henn. SPECIES
 
 #### Status
 ACCEPTED

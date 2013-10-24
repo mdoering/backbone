@@ -1,5 +1,4 @@
-Cyphella E.M. Fries, 1822 GENUS
-=======
+# Cyphella E.M. Fries, 1822 GENUS
 
 #### Status
 ACCEPTED

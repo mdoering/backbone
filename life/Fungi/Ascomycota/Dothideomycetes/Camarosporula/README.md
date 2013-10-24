@@ -1,5 +1,4 @@
-Camarosporula Petr. GENUS
-=======
+# Camarosporula Petr. GENUS
 
 #### Status
 ACCEPTED

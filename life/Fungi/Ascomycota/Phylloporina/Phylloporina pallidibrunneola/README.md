@@ -1,5 +1,4 @@
-Phylloporina pallidibrunneola (F. Schill.) Zahlbr. SPECIES
-=======
+# Phylloporina pallidibrunneola (F. Schill.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

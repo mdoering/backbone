@@ -1,5 +1,4 @@
-Squamanita squarrulosa G.S. Ridl., 1988 SPECIES
-=======
+# Squamanita squarrulosa G.S. Ridl., 1988 SPECIES
 
 #### Status
 ACCEPTED

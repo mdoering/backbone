@@ -1,5 +1,4 @@
-Gymnodinium subrufescens SPECIES
-=======
+# Gymnodinium subrufescens SPECIES
 
 #### Status
 ACCEPTED

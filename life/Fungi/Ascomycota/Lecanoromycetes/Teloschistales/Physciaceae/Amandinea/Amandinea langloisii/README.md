@@ -1,5 +1,4 @@
-Amandinea langloisii Imshaug ex Marbach SPECIES
-=======
+# Amandinea langloisii Imshaug ex Marbach SPECIES
 
 #### Status
 ACCEPTED

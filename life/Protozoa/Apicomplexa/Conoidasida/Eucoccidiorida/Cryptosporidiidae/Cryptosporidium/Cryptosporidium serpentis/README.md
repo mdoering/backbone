@@ -1,5 +1,4 @@
-Cryptosporidium serpentis Levine, 1980 SPECIES
-=======
+# Cryptosporidium serpentis Levine, 1980 SPECIES
 
 #### Status
 ACCEPTED

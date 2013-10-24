@@ -1,5 +1,4 @@
-Sacidium quercus Oudem. SPECIES
-=======
+# Sacidium quercus Oudem. SPECIES
 
 #### Status
 ACCEPTED

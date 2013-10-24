@@ -1,5 +1,4 @@
-Pannaria myrioloba Müll. Arg. SPECIES
-=======
+# Pannaria myrioloba Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micromphale acicola Knudsen SPECIES
-=======
+# Micromphale acicola Knudsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Araniscus S.Komura, 1998 GENUS
-=======
+# Araniscus S.Komura, 1998 GENUS
 
 #### Status
 ACCEPTED

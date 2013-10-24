@@ -1,14 +1,13 @@
-Sphacelotheca mysorensis Pavgi & Thirum., 1952 SPECIES
-=======
+# Sporisorium mysorense (Pavgi & Thirum.) Vánky, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 6(5-6): 394 (1952)
+Mycotaxon 54: 230 (1995)
 
 #### Original name
 Sphacelotheca mysorensis Pavgi & Thirum., 1952

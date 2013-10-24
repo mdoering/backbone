@@ -1,14 +1,13 @@
-Tomentella nigra Höhn. & Litsch., 1908 SPECIES
-=======
+# Pseudotomentella nigra (Höhn. & Litsch.) Svrcek, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Wiesner Festschrift (Wien) 78 (1908)
+Ceská Mykol. 12: 68 (1958)
 
 #### Original name
 Tomentella nigra Höhn. & Litsch., 1908

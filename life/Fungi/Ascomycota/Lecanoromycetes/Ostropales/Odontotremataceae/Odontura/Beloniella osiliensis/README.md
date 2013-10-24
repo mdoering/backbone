@@ -1,5 +1,4 @@
-Beloniella osiliensis Vestergr. SPECIES
-=======
+# Beloniella osiliensis Vestergr. SPECIES
 
 #### Status
 ACCEPTED

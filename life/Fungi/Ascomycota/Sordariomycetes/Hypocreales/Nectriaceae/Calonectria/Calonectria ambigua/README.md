@@ -1,5 +1,4 @@
-Calonectria ambigua var. ambigua VARIETY
-=======
+# Calonectria ambigua Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Soc. cient. argent. 12(5): 212 (1881)
 
 #### Original name
-Calonectria ambigua var. ambigua
+Calonectria ambigua Speg.
 
 ### Remarks
 null

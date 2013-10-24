@@ -1,5 +1,4 @@
-Panellus aureofactus E. Horak, 1980 SPECIES
-=======
+# Panellus aureofactus E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED

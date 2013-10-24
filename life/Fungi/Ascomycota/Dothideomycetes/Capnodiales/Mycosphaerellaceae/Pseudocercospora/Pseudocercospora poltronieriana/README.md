@@ -1,5 +1,4 @@
-Pseudocercospora poltronieriana U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora poltronieriana U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

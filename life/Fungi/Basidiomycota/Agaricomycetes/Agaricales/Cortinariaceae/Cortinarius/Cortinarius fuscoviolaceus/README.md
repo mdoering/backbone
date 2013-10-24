@@ -1,5 +1,4 @@
-Cortinarius fuscoviolaceus Britzelm. SPECIES
-=======
+# Cortinarius fuscoviolaceus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

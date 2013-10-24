@@ -1,5 +1,4 @@
-Caloplaca exasperata (Bagl.) Zahlbr. SPECIES
-=======
+# Caloplaca exasperata (Bagl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

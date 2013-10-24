@@ -1,8 +1,7 @@
-Pseudonectria aquifoliae (Cooke & Ellis) Dennis SPECIES
-=======
+# Pseudonectria aquifolii (Cooke & Ellis) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

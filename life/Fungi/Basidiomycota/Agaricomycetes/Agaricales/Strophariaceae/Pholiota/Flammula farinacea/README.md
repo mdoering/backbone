@@ -1,5 +1,4 @@
-Flammula farinacea (Murrill) Sacc. & Trotter SPECIES
-=======
+# Flammula farinacea (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

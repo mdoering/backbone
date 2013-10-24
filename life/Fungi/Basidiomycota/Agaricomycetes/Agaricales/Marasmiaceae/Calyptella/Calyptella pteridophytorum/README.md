@@ -1,5 +1,4 @@
-Calyptella pteridophytorum Singer, 1973 SPECIES
-=======
+# Calyptella pteridophytorum Singer, 1973 SPECIES
 
 #### Status
 ACCEPTED

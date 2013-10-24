@@ -1,5 +1,4 @@
-Laboulbenia ozenae Thaxt. SPECIES
-=======
+# Laboulbenia ozenae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

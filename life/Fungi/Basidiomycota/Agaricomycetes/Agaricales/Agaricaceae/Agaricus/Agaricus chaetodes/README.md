@@ -1,5 +1,4 @@
-Agaricus chaetodes Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus chaetodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

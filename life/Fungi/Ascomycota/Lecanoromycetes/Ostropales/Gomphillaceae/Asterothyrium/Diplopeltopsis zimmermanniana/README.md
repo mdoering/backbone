@@ -1,5 +1,4 @@
-Diplopeltopsis zimmermanniana (Henn.) Henn. ex Höhn. SPECIES
-=======
+# Diplopeltopsis zimmermanniana (Henn.) Henn. ex Höhn. SPECIES
 
 #### Status
 ACCEPTED

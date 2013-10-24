@@ -1,5 +1,4 @@
-Stemphylium paraguayense Speg. SPECIES
-=======
+# Stemphylium paraguayense Speg. SPECIES
 
 #### Status
 ACCEPTED

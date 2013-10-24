@@ -1,5 +1,4 @@
-Verrucaria subscabridula Nyl. SPECIES
-=======
+# Verrucaria subscabridula Nyl. SPECIES
 
 #### Status
 ACCEPTED

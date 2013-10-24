@@ -1,5 +1,4 @@
-Aspergillus acini-uvae Caball. SPECIES
-=======
+# Aspergillus acini-uvae Caball. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius roblemaulicola Garrido & E. Horak SPECIES
-=======
+# Cortinarius roblemaulicola Garrido & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pistillaria phaeosperma (Henn.) Corner SPECIES
-=======
+# Pistillaria phaeosperma (Henn.) Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Aspicilia pelobotrya var. pelobotrya VARIETY
-=======
+# Amygdalaria pelobotryon (Wahlenb.) Norman SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nytt Mag. Natur. 7: 320 (1853)
 
 #### Original name
-Aspicilia pelobotrya var. pelobotrya
+null
 
 ### Remarks
 null

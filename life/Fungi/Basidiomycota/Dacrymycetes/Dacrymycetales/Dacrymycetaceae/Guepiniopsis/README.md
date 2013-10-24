@@ -1,5 +1,4 @@
-Guepiniopsis Pat. GENUS
-=======
+# Guepiniopsis Pat. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hystrichosphaeridium intermedium Eisenack, 1954 SPECIES
-=======
+# Hystrichosphaeridium intermedium Eisenack, 1954 SPECIES
 
 #### Status
 ACCEPTED

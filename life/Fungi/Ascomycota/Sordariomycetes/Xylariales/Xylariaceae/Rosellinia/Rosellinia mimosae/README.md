@@ -1,5 +1,4 @@
-Rosellinia mimosae S.B. Kale SPECIES
-=======
+# Rosellinia mimosae S.B. Kale SPECIES
 
 #### Status
 ACCEPTED

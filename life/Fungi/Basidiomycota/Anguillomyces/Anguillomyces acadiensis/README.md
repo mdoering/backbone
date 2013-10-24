@@ -1,5 +1,4 @@
-Anguillomyces acadiensis Marvanová & Bärl., 2000 SPECIES
-=======
+# Anguillomyces acadiensis Marvanová & Bärl., 2000 SPECIES
 
 #### Status
 ACCEPTED

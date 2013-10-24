@@ -1,5 +1,4 @@
-Microsporum radiolatum (Sabour.) Guiart & Grigoraki SPECIES
-=======
+# Microsporum radiolatum (Sabour.) Guiart & Grigoraki SPECIES
 
 #### Status
 ACCEPTED

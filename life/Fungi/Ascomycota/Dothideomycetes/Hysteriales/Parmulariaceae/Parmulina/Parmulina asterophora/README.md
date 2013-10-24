@@ -1,5 +1,4 @@
-Parmulina asterophora G. Arnaud SPECIES
-=======
+# Parmulina asterophora G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

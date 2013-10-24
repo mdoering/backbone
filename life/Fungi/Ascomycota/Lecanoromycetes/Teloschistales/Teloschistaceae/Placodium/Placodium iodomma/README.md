@@ -1,5 +1,4 @@
-Placodium iodomma SPECIES
-=======
+# Placodium iodomma SPECIES
 
 #### Status
 ACCEPTED

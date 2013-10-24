@@ -1,5 +1,4 @@
-Arachnosphaera myriacantha Haeckel, 1860 SPECIES
-=======
+# Arachnosphaera myriacantha Haeckel, 1860 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanopyxis turgida (Grev.) Ralfs, 1861 SPECIES
-=======
+# Stephanopyxis turgida (Grev.) Ralfs, 1861 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eupenicillium nepalense Takada & Udagawa, 1983 SPECIES
-=======
+# Eupenicillium nepalense Takada & Udagawa, 1983 SPECIES
 
 #### Status
 ACCEPTED

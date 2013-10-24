@@ -1,5 +1,4 @@
-Mortierella diffluens Sorokin SPECIES
-=======
+# Mortierella diffluens Sorokin SPECIES
 
 #### Status
 ACCEPTED

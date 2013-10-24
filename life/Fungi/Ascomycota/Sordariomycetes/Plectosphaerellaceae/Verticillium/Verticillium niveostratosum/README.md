@@ -1,5 +1,4 @@
-Verticillium niveostratosum Lindau, 1903 SPECIES
-=======
+# Verticillium niveostratosum Lindau, 1903 SPECIES
 
 #### Status
 ACCEPTED

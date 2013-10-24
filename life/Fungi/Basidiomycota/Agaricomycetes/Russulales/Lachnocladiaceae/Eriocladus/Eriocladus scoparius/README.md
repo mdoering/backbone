@@ -1,5 +1,4 @@
-Eriocladus scoparius (Lév.) Lév. SPECIES
-=======
+# Eriocladus scoparius (Lév.) Lév. SPECIES
 
 #### Status
 ACCEPTED

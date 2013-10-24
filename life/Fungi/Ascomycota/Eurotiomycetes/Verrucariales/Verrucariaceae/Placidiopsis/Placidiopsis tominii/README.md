@@ -1,5 +1,4 @@
-Placidiopsis tominii Bredkina SPECIES
-=======
+# Placidiopsis tominii Bredkina SPECIES
 
 #### Status
 ACCEPTED

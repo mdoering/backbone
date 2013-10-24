@@ -1,5 +1,4 @@
-Aspergillus raperi Stolk & J.A. Mey., 1957 SPECIES
-=======
+# Aspergillus raperi Stolk & J.A. Mey., 1957 SPECIES
 
 #### Status
 ACCEPTED

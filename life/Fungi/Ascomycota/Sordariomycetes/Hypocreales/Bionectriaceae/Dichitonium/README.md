@@ -1,5 +1,4 @@
-Dichitonium GENUS
-=======
+# Dichitonium GENUS
 
 #### Status
 ACCEPTED

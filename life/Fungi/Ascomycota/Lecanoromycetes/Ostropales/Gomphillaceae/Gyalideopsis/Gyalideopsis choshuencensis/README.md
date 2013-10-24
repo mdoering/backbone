@@ -1,5 +1,4 @@
-Gyalideopsis choshuencensis Lücking & V. Wirth SPECIES
-=======
+# Gyalideopsis choshuencensis Lücking & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

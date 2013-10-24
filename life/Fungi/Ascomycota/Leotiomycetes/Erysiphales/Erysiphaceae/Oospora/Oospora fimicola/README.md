@@ -1,5 +1,4 @@
-Oospora fimicola Cub. & Megliola {?} SPECIES
-=======
+# Oospora fimicola Cub. & Megliola {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum subglabripes var. subglabripes VARIETY
-=======
+# Leccinum subglabripes (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 37: 799 (1945)
 
 #### Original name
-Leccinum subglabripes var. subglabripes
+Boletus subglabripes Peck
 
 ### Remarks
 null

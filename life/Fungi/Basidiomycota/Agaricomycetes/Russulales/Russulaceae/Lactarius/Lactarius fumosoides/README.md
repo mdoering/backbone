@@ -1,5 +1,4 @@
-Lactarius fumosoides A.H. Sm. & Hesler SPECIES
-=======
+# Lactarius fumosoides A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

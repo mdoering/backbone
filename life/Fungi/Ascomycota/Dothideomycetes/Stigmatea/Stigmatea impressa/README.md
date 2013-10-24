@@ -1,5 +1,4 @@
-Stigmatea impressa Fr. SPECIES
-=======
+# Stigmatea impressa Fr. SPECIES
 
 #### Status
 ACCEPTED

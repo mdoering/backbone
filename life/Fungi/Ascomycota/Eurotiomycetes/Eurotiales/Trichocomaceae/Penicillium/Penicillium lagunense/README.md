@@ -1,5 +1,4 @@
-Penicillium lagunense Udagawa, Uchiy. & Kamiya SPECIES
-=======
+# Penicillium lagunense Udagawa, Uchiy. & Kamiya SPECIES
 
 #### Status
 ACCEPTED

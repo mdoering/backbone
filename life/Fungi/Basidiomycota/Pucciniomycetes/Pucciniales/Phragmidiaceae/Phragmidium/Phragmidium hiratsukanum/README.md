@@ -1,5 +1,4 @@
-Phragmidium hiratsukanum S.X. Wei, 1988 SPECIES
-=======
+# Phragmidium hiratsukanum S.X. Wei, 1988 SPECIES
 
 #### Status
 ACCEPTED

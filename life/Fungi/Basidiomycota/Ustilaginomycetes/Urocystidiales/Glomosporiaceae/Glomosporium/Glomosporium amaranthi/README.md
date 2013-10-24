@@ -1,14 +1,13 @@
-Thecaphora amaranthi (Hirschh.) Vánky, 1994 SPECIES
-=======
+# Glomosporium amaranthi Hirschh., 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 51: 170 (1994)
+Mycologia 37(3): 280 (1945)
 
 #### Original name
 Glomosporium amaranthi Hirschh., 1945

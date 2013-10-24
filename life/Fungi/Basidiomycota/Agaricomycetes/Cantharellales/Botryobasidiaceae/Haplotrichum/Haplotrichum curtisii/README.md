@@ -1,17 +1,16 @@
-Oidium curtisii var. curtisii VARIETY
-=======
+# Haplotrichum curtisii (Berk.) Hol.-Jech., 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 5(3): 201 (1942)
+Ceská Mykol. 30(1): 4 (1976)
 
 #### Original name
-Oidium curtisii var. curtisii
+null
 
 ### Remarks
 null

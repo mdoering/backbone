@@ -1,5 +1,4 @@
-Dendryphion catechu Sawada SPECIES
-=======
+# Dendryphion catechu Sawada SPECIES
 
 #### Status
 ACCEPTED

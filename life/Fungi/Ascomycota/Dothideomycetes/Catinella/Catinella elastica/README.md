@@ -1,5 +1,4 @@
-Catinella elastica (Pat. & Gaillard) E.J. Durand SPECIES
-=======
+# Catinella elastica (Pat. & Gaillard) E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

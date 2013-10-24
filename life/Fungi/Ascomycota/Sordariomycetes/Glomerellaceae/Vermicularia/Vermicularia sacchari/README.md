@@ -1,5 +1,4 @@
-Vermicularia sacchari Av.-Saccá SPECIES
-=======
+# Vermicularia sacchari Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

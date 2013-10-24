@@ -1,5 +1,4 @@
-Aplosporella carpinea (Sacc. & Briard) Petr. SPECIES
-=======
+# Aplosporella carpinea (Sacc. & Briard) Petr. SPECIES
 
 #### Status
 ACCEPTED

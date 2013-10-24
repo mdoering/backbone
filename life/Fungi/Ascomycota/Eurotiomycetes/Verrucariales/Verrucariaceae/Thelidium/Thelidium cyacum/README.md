@@ -1,5 +1,4 @@
-Thelidium cyacum SPECIES
-=======
+# Thelidium cyacum SPECIES
 
 #### Status
 ACCEPTED

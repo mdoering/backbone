@@ -1,5 +1,4 @@
-Sargassum insulare Setchell & Gardner SPECIES
-=======
+# Sargassum insulare Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

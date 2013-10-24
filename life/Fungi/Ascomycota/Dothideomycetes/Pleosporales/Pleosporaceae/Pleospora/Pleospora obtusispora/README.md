@@ -1,5 +1,4 @@
-Pleospora obtusispora Z.Q. Yuan & M.E. Barr SPECIES
-=======
+# Pleospora obtusispora Z.Q. Yuan & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

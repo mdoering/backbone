@@ -1,5 +1,4 @@
-Entoloma singularisporum Corner & E. Horak SPECIES
-=======
+# Entoloma singularisporum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

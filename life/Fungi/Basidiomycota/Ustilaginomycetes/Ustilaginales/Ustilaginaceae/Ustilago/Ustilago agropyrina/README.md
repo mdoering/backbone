@@ -1,5 +1,4 @@
-Ustilago agropyrina Lavrov SPECIES
-=======
+# Ustilago agropyrina Lavrov SPECIES
 
 #### Status
 ACCEPTED

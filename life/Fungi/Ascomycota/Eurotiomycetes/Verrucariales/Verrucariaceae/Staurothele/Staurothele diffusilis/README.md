@@ -1,5 +1,4 @@
-Staurothele diffusilis (Nyl.) Zahlbr. SPECIES
-=======
+# Staurothele diffusilis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

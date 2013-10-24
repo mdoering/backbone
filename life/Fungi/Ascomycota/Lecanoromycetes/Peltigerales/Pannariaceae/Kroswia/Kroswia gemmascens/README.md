@@ -1,14 +1,13 @@
-Collema gemmascens (Nyl.) Hue SPECIES
-=======
+# Kroswia gemmascens (Nyl.) P. M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 34(4): 302 (2002)
 
 #### Original name
 Pannaria gemmascens Nyl.

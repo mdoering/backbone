@@ -1,5 +1,4 @@
-Karenia asterichroma de Salas, Bolch & Hallegraeff SPECIES
-=======
+# Karenia asterichroma de Salas, Bolch & Hallegraeff SPECIES
 
 #### Status
 ACCEPTED

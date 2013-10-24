@@ -1,5 +1,4 @@
-Hendersonia yerbae Speg. SPECIES
-=======
+# Hendersonia yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

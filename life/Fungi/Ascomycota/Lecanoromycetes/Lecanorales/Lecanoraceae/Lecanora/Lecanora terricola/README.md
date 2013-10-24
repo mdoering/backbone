@@ -1,5 +1,4 @@
-Lecanora terricola Ach. SPECIES
-=======
+# Lecanora terricola Ach. SPECIES
 
 #### Status
 ACCEPTED

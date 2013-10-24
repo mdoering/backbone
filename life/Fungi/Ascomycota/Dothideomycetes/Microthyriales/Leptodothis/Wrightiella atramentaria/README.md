@@ -1,5 +1,4 @@
-Wrightiella atramentaria (Berk. & M.A. Curtis) Speg. SPECIES
-=======
+# Wrightiella atramentaria (Berk. & M.A. Curtis) Speg. SPECIES
 
 #### Status
 ACCEPTED

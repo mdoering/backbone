@@ -1,5 +1,4 @@
-Rhabdospora lonicerae (Cooke & Ellis) Sacc. SPECIES
-=======
+# Rhabdospora lonicerae (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

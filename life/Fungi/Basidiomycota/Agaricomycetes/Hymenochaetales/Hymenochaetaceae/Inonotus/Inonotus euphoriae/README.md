@@ -1,8 +1,7 @@
-Polystictus euphoriae (Pat.) Sacc., 1895 SPECIES
-=======
+# Inonotus euphoriae (Pat.) Ryvarden, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

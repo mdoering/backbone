@@ -1,5 +1,4 @@
-Sarcoscypha striispora Ellis & Everh. SPECIES
-=======
+# Sarcoscypha striispora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ustilago linderi Hirschh., 1959 SPECIES
-=======
+# Juliohirschhornia linderi (Hirschh.) Hirschh., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Omagiu lui Traian Savulescu 311 (1959)
+Las Ustilaginales de la Flora Argentina (La Plata) 93 (1986)
 
 #### Original name
 Ustilago linderi Hirschh., 1959

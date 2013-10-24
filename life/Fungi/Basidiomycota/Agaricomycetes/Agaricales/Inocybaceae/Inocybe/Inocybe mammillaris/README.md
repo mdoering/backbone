@@ -1,5 +1,4 @@
-Inocybe mammillaris Pass. SPECIES
-=======
+# Inocybe mammillaris Pass. SPECIES
 
 #### Status
 ACCEPTED

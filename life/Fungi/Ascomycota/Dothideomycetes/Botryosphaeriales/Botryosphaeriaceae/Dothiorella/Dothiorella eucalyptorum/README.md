@@ -1,5 +1,4 @@
-Dothiorella eucalyptorum (Turconi) Petr. & Syd. SPECIES
-=======
+# Dothiorella eucalyptorum (Turconi) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

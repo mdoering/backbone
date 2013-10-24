@@ -1,5 +1,4 @@
-Arthopyrenia siamensis SPECIES
-=======
+# Arthopyrenia siamensis SPECIES
 
 #### Status
 ACCEPTED

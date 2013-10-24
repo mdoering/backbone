@@ -1,5 +1,4 @@
-Entoloma poymalangta Grgur. SPECIES
-=======
+# Entoloma poymalangta Grgur. SPECIES
 
 #### Status
 ACCEPTED

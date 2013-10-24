@@ -1,5 +1,4 @@
-Cordyceps neosuperficialis T.H. Li, C.Y. Deng & B. Song SPECIES
-=======
+# Cordyceps neosuperficialis T.H. Li, C.Y. Deng & B. Song SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solisphaera Bollmann, Cortes, Kleijne, Ostergaard & Young, 2006 GENUS
-=======
+# Solisphaera Bollmann, Cortes, Kleijne, Ostergaard & Young, 2006 GENUS
 
 #### Status
 ACCEPTED

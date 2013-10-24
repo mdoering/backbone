@@ -1,5 +1,4 @@
-Sphaeria convexula Schwein. SPECIES
-=======
+# Sphaeria convexula Schwein. SPECIES
 
 #### Status
 ACCEPTED

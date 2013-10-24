@@ -1,5 +1,4 @@
-Bacidia rubicosa SPECIES
-=======
+# Bacidia rubicosa SPECIES
 
 #### Status
 ACCEPTED

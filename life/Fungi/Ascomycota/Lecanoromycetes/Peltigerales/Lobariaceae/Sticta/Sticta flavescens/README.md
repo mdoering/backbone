@@ -1,5 +1,4 @@
-Sticta flavescens Delise SPECIES
-=======
+# Sticta flavescens Delise SPECIES
 
 #### Status
 ACCEPTED

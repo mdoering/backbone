@@ -1,5 +1,4 @@
-Uromyces tylosemae Gjaerum, 1990 SPECIES
-=======
+# Uromyces tylosemae Gjaerum, 1990 SPECIES
 
 #### Status
 ACCEPTED

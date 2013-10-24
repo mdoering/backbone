@@ -1,5 +1,4 @@
-Cercospora meibomiae Chupp SPECIES
-=======
+# Cercospora meibomiae Chupp SPECIES
 
 #### Status
 ACCEPTED

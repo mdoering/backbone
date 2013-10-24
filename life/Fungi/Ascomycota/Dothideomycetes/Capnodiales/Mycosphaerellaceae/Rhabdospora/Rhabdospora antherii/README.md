@@ -1,5 +1,4 @@
-Rhabdospora antherii Hollós SPECIES
-=======
+# Rhabdospora antherii Hollós SPECIES
 
 #### Status
 ACCEPTED

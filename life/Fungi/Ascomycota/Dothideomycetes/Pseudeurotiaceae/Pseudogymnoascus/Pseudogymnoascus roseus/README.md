@@ -1,17 +1,16 @@
-Pseudogymnoascus roseus var. ornatus Udagawa & Uchiy. VARIETY
-=======
+# Pseudogymnoascus roseus Raillo, 1929 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoscience 40(3): 289 (1999)
+Zentbl. Bakt. ParasitKde, Abt. II 78: 520 (1929)
 
 #### Original name
-Pseudogymnoascus roseus var. ornatus Udagawa & Uchiy.
+Pseudogymnoascus roseus Raillo, 1929
 
 ### Remarks
 null

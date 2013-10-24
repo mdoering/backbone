@@ -1,5 +1,4 @@
-Mycosphaerella fici-wightianae Sawada SPECIES
-=======
+# Mycosphaerella fici-wightianae Sawada SPECIES
 
 #### Status
 ACCEPTED

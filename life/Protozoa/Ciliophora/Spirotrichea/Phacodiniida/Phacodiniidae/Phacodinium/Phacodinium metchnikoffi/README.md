@@ -1,8 +1,7 @@
-Phacodinium metchnicoffi Prowazek, 1900 SPECIES
-=======
+# Phacodinium metchnikoffi (Certes, 1891) Kahl, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

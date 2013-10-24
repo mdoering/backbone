@@ -1,5 +1,4 @@
-Entomophthora acaridica SPECIES
-=======
+# Entomophthora acaridica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Tryblidium tunetanum A.L. Guyot SPECIES
-=======
+# Triblidium tunetanum A.L. Guyot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tryblidium tunetanum A.L. Guyot
+Triblidium tunetanum A.L. Guyot
 
 ### Remarks
 null

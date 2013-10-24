@@ -1,5 +1,4 @@
-Helotium krascheninikowii (Weinm.) Sacc. SPECIES
-=======
+# Helotium krascheninikowii (Weinm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

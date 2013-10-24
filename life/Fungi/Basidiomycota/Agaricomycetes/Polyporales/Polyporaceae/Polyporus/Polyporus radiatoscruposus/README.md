@@ -1,5 +1,4 @@
-Polyporus radiatoscruposus (Henn.) Lloyd SPECIES
-=======
+# Polyporus radiatoscruposus (Henn.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

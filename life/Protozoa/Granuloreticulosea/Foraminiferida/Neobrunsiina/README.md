@@ -1,5 +1,4 @@
-Neobrunsiina GENUS
-=======
+# Neobrunsiina GENUS
 
 #### Status
 ACCEPTED

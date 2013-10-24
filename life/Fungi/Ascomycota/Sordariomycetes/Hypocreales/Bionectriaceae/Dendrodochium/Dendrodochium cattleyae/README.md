@@ -1,5 +1,4 @@
-Dendrodochium cattleyae Allesch. SPECIES
-=======
+# Dendrodochium cattleyae Allesch. SPECIES
 
 #### Status
 ACCEPTED

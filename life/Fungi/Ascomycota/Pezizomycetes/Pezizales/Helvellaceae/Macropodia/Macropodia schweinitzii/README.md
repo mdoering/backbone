@@ -1,5 +1,4 @@
-Macropodia schweinitzii Sacc. SPECIES
-=======
+# Macropodia schweinitzii Sacc. SPECIES
 
 #### Status
 ACCEPTED

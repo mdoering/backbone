@@ -1,5 +1,4 @@
-Peniophora spathulata Sang H. Lin & Z.C. Chen, 1990 SPECIES
-=======
+# Peniophora spathulata Sang H. Lin & Z.C. Chen, 1990 SPECIES
 
 #### Status
 ACCEPTED

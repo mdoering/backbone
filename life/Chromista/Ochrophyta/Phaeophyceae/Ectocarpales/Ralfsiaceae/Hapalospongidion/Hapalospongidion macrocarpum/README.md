@@ -1,8 +1,7 @@
-Ralfsia macrocarpa Feldmann SPECIES
-=======
+# Hapalospongidion macrocarpum (Feldmann) León Álvarez & González SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

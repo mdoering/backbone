@@ -1,5 +1,4 @@
-Polystictus cascus Fr. SPECIES
-=======
+# Polystictus cascus Fr. SPECIES
 
 #### Status
 ACCEPTED

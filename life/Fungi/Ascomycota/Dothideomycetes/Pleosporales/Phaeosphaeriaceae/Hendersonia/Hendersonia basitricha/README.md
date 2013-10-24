@@ -1,5 +1,4 @@
-Hendersonia basitricha Sacc. SPECIES
-=======
+# Hendersonia basitricha Sacc. SPECIES
 
 #### Status
 ACCEPTED

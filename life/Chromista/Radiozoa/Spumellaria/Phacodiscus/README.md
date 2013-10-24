@@ -1,5 +1,4 @@
-Phacodiscus Haeckel, 1881 GENUS
-=======
+# Phacodiscus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

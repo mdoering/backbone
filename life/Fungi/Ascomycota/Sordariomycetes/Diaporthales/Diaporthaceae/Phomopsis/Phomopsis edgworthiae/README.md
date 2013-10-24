@@ -1,5 +1,4 @@
-Phomopsis edgworthiae (Sacc.) Grove SPECIES
-=======
+# Phomopsis edgworthiae (Sacc.) Grove SPECIES
 
 #### Status
 ACCEPTED

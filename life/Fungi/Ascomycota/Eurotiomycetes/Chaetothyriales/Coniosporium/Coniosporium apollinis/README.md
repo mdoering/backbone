@@ -1,5 +1,4 @@
-Coniosporium apollinis Sterfl. SPECIES
-=======
+# Coniosporium apollinis Sterfl. SPECIES
 
 #### Status
 ACCEPTED

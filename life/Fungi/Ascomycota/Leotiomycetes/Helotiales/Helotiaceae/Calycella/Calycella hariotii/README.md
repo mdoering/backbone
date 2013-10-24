@@ -1,8 +1,7 @@
-Calycella harioti Boud. SPECIES
-=======
+# Calycella hariotii Boud. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calycella harioti Boud.
+Calycella hariotii Boud.
 
 ### Remarks
 null

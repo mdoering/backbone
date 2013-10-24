@@ -1,5 +1,4 @@
-Diplodia beticola Prill. & Delacr. SPECIES
-=======
+# Diplodia beticola Prill. & Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxytricha oblongua SPECIES
-=======
+# Oxytricha oblongua SPECIES
 
 #### Status
 ACCEPTED

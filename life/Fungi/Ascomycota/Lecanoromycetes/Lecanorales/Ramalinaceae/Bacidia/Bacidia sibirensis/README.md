@@ -1,5 +1,4 @@
-Bacidia sibirensis (Willey) Zahlbr. SPECIES
-=======
+# Bacidia sibirensis (Willey) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

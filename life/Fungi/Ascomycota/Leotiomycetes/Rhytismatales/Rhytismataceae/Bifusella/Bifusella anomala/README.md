@@ -1,5 +1,4 @@
-Bifusella anomala Y.R. Lin SPECIES
-=======
+# Bifusella anomala Y.R. Lin SPECIES
 
 #### Status
 ACCEPTED

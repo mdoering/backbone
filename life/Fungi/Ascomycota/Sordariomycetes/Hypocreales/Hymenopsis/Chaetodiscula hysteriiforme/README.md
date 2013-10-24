@@ -1,17 +1,16 @@
-Chaetodiscula hysteriformis Bubák & Kabát SPECIES
-=======
+# Chaetodiscula hysteriiforme Bubák & Kabát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 50: 44 (1910)
 
 #### Original name
-Chaetodiscula hysteriformis Bubák & Kabát
+Chaetodiscula hysteriiforme Bubák & Kabát
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Agrocybe firma var. attenuata Kühner, 1953 VARIETY
-=======
+# Agrocybe attenuata (Kühner) P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schweiz. Z. Pilzk. 31: 150 (1953)
+Trans. Br. mycol. Soc. 43: 174 (1960)
 
 #### Original name
 Agrocybe firma var. attenuata Kühner, 1953

@@ -1,5 +1,4 @@
-Anthasthoopa aceris G.Z. Wang SPECIES
-=======
+# Anthasthoopa aceris G.Z. Wang SPECIES
 
 #### Status
 ACCEPTED

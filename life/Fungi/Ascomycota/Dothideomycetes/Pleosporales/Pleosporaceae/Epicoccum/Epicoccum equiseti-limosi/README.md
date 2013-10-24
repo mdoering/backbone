@@ -1,5 +1,4 @@
-Epicoccum equiseti-limosi Allesch. SPECIES
-=======
+# Epicoccum equiseti-limosi Allesch. SPECIES
 
 #### Status
 ACCEPTED

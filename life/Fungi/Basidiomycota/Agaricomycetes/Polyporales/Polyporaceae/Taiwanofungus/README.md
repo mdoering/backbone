@@ -1,5 +1,4 @@
-Taiwanofungus Sheng H. Wu, Z.H. Yu, Y.C. Dai & C.H. Su GENUS
-=======
+# Taiwanofungus Sheng H. Wu, Z.H. Yu, Y.C. Dai & C.H. Su GENUS
 
 #### Status
 ACCEPTED

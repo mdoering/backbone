@@ -1,5 +1,4 @@
-Aleuria pectinospora Svrcek SPECIES
-=======
+# Aleuria pectinospora Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia inflata Arthur SPECIES
-=======
+# Puccinia inflata Arthur SPECIES
 
 #### Status
 ACCEPTED

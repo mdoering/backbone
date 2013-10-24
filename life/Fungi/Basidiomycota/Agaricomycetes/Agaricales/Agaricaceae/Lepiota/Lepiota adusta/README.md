@@ -1,14 +1,13 @@
-Lepiotula adusta E. Horak, 1980 SPECIES
-=======
+# Lepiota adusta (E. Horak) E. Horak, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 18(2): 186 (1980)
+Sydowia 33: 140 (1980)
 
 #### Original name
 Lepiotula adusta E. Horak, 1980

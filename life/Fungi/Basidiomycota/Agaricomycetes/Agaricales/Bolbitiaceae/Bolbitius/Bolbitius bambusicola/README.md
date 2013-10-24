@@ -1,5 +1,4 @@
-Bolbitius bambusicola (Murrill) Murrill SPECIES
-=======
+# Bolbitius bambusicola (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

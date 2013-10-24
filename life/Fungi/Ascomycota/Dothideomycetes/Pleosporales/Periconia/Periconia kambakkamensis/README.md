@@ -1,5 +1,4 @@
-Periconia kambakkamensis Subram. SPECIES
-=======
+# Periconia kambakkamensis Subram. SPECIES
 
 #### Status
 ACCEPTED

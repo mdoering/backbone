@@ -1,5 +1,4 @@
-Dichomyces peruvianus Thaxt. SPECIES
-=======
+# Dichomyces peruvianus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

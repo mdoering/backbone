@@ -1,5 +1,4 @@
-Opegrapha ectolechiacearum Matzer & R. Sant. SPECIES
-=======
+# Opegrapha ectolechiacearum Matzer & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

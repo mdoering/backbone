@@ -1,14 +1,13 @@
-Ceratomyces rostratus Thaxt., 1893 SPECIES
-=======
+# Rhynchophoromyces rostratus (Thaxt.) Thaxt., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. Amer. Acad. Arts, ser. 2 13: 432 (1908)
 
 #### Original name
 Ceratomyces rostratus Thaxt., 1893

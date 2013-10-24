@@ -1,5 +1,4 @@
-Teleutospora nevadensis (Harkn.) Arthur & Bisby SPECIES
-=======
+# Teleutospora nevadensis (Harkn.) Arthur & Bisby SPECIES
 
 #### Status
 ACCEPTED

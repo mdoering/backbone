@@ -1,5 +1,4 @@
-Psilocybe verae-crucis Guzmán & Pérez Ortiz {?} SPECIES
-=======
+# Psilocybe verae-crucis Guzmán & Pérez Ortiz {?} SPECIES
 
 #### Status
 ACCEPTED

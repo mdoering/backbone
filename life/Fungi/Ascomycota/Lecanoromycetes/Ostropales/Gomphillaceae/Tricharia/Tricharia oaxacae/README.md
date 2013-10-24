@@ -1,5 +1,4 @@
-Tricharia oaxacae Herrera-Camp. & Lücking SPECIES
-=======
+# Tricharia oaxacae Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

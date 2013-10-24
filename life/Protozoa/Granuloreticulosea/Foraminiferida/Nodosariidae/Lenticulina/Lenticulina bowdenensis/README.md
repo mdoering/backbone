@@ -1,5 +1,4 @@
-Lenticulina bowdenensis SPECIES
-=======
+# Lenticulina bowdenensis SPECIES
 
 #### Status
 ACCEPTED

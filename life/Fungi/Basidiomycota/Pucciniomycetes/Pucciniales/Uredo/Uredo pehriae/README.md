@@ -1,5 +1,4 @@
-Uredo pehriae F. Kern & Thurst. SPECIES
-=======
+# Uredo pehriae F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia augustifolia SPECIES
-=======
+# Physcia augustifolia SPECIES
 
 #### Status
 ACCEPTED

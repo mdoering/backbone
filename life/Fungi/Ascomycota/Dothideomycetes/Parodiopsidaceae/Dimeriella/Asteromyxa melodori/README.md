@@ -1,5 +1,4 @@
-Asteromyxa melodori Hansf. SPECIES
-=======
+# Asteromyxa melodori Hansf. SPECIES
 
 #### Status
 ACCEPTED

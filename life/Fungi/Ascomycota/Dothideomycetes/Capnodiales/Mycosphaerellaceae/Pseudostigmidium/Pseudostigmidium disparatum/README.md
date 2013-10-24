@@ -1,5 +1,4 @@
-Pseudostigmidium disparatum Etayo, 2008 SPECIES
-=======
+# Pseudostigmidium disparatum Etayo, 2008 SPECIES
 
 #### Status
 ACCEPTED

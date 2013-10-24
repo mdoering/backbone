@@ -1,5 +1,4 @@
-Cercospora onobrychidis Bondartsev SPECIES
-=======
+# Cercospora onobrychidis Bondartsev SPECIES
 
 #### Status
 ACCEPTED

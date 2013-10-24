@@ -1,5 +1,4 @@
-Rinodina etayoi Giralt & van den Boom SPECIES
-=======
+# Rinodina etayoi Giralt & van den Boom SPECIES
 
 #### Status
 ACCEPTED

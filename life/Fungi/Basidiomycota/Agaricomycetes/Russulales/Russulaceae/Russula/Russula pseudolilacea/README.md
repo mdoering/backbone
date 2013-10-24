@@ -1,5 +1,4 @@
-Russula pseudolilacea J. Blum SPECIES
-=======
+# Russula pseudolilacea J. Blum SPECIES
 
 #### Status
 ACCEPTED

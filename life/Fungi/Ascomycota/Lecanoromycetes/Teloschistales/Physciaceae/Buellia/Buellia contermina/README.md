@@ -1,5 +1,4 @@
-Buellia contermina Arnold SPECIES
-=======
+# Buellia contermina Arnold SPECIES
 
 #### Status
 ACCEPTED

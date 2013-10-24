@@ -1,5 +1,4 @@
-Rhizophydium spinosum Willoughby SPECIES
-=======
+# Rhizophydium spinosum Willoughby SPECIES
 
 #### Status
 ACCEPTED

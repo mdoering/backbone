@@ -1,5 +1,4 @@
-Stridiporosporites spiralis Z.C. Song & G.X. Li SPECIES
-=======
+# Stridiporosporites spiralis Z.C. Song & G.X. Li SPECIES
 
 #### Status
 ACCEPTED

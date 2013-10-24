@@ -1,5 +1,4 @@
-Isaria citrinula Speg. SPECIES
-=======
+# Isaria citrinula Speg. SPECIES
 
 #### Status
 ACCEPTED

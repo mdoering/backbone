@@ -1,5 +1,4 @@
-Leciophysma japonicum Asahina SPECIES
-=======
+# Leciophysma japonicum Asahina SPECIES
 
 #### Status
 ACCEPTED

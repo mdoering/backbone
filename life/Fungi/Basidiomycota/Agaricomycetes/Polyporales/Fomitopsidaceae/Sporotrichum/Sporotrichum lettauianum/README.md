@@ -1,5 +1,4 @@
-Sporotrichum lettauianum Bachm. SPECIES
-=======
+# Sporotrichum lettauianum Bachm. SPECIES
 
 #### Status
 ACCEPTED

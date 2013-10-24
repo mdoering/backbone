@@ -1,5 +1,4 @@
-Galatheammina Tendal, 1972 GENUS
-=======
+# Galatheammina Tendal, 1972 GENUS
 
 #### Status
 ACCEPTED

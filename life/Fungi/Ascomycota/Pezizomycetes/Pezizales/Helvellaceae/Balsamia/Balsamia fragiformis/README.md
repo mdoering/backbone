@@ -1,5 +1,4 @@
-Balsamia fragiformis Tul. & C. Tul., 1851 SPECIES
-=======
+# Balsamia fragiformis Tul. & C. Tul., 1851 SPECIES
 
 #### Status
 ACCEPTED

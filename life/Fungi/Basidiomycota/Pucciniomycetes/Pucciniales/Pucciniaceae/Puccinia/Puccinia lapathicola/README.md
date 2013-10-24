@@ -1,5 +1,4 @@
-Puccinia lapathicola Hyl., Jørst. & Nannf. SPECIES
-=======
+# Puccinia lapathicola Hyl., Jørst. & Nannf. SPECIES
 
 #### Status
 ACCEPTED

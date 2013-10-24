@@ -1,5 +1,4 @@
-Uredo gamocarphae Klotzsch SPECIES
-=======
+# Uredo gamocarphae Klotzsch SPECIES
 
 #### Status
 ACCEPTED

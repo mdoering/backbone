@@ -1,5 +1,4 @@
-Tretomphalus clarus Cushman, 1934 SPECIES
-=======
+# Tretomphalus clarus Cushman, 1934 SPECIES
 
 #### Status
 ACCEPTED

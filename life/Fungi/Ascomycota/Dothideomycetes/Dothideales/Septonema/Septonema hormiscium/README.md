@@ -1,5 +1,4 @@
-Septonema hormiscium var. hormiscium VARIETY
-=======
+# Septonema hormiscium Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 2(no. 8): 559 (1882)
 
 #### Original name
-Septonema hormiscium var. hormiscium
+Septonema hormiscium Sacc.
 
 ### Remarks
 null

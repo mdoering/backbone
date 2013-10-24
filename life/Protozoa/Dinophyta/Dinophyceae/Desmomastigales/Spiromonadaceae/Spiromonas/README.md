@@ -1,5 +1,4 @@
-Spiromonas M. Perty, 1852 GENUS
-=======
+# Spiromonas M. Perty, 1852 GENUS
 
 #### Status
 ACCEPTED

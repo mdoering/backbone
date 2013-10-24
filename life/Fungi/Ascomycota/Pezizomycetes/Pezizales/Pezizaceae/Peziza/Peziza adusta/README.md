@@ -1,5 +1,4 @@
-Peziza adusta Schulzer SPECIES
-=======
+# Peziza adusta Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthothelium pertenerum (Vain.) Zahlbr. SPECIES
-=======
+# Arthothelium pertenerum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

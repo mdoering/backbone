@@ -1,5 +1,4 @@
-Schiffnerula secunda Höhn. SPECIES
-=======
+# Schiffnerula secunda Höhn. SPECIES
 
 #### Status
 ACCEPTED

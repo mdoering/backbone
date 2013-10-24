@@ -1,5 +1,4 @@
-Bryomyces scapaniae Döbbeler, 1978 SPECIES
-=======
+# Bryomyces scapaniae Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED

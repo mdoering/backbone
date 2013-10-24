@@ -1,5 +1,4 @@
-Melanoleuca malodora Murrill SPECIES
-=======
+# Melanoleuca malodora Murrill SPECIES
 
 #### Status
 ACCEPTED

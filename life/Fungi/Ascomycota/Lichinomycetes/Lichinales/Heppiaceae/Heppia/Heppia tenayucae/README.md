@@ -1,5 +1,4 @@
-Heppia tenayucae B. de Lesd. SPECIES
-=======
+# Heppia tenayucae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

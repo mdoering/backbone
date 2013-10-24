@@ -1,5 +1,4 @@
-Nodosaria scalaris SPECIES
-=======
+# Nodosaria scalaris SPECIES
 
 #### Status
 ACCEPTED

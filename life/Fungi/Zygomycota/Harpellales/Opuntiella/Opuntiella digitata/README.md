@@ -1,5 +1,4 @@
-Opuntiella digitata L. Léger & M. Gauthier SPECIES
-=======
+# Opuntiella digitata L. Léger & M. Gauthier SPECIES
 
 #### Status
 ACCEPTED

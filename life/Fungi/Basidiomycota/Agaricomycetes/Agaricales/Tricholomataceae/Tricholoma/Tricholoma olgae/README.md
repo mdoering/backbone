@@ -1,5 +1,4 @@
-Tricholoma olgae Velen. SPECIES
-=======
+# Tricholoma olgae Velen. SPECIES
 
 #### Status
 ACCEPTED

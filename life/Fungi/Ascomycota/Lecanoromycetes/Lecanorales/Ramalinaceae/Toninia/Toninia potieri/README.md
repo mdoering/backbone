@@ -1,5 +1,4 @@
-Toninia potieri Maheu & Werner SPECIES
-=======
+# Toninia potieri Maheu & Werner SPECIES
 
 #### Status
 ACCEPTED

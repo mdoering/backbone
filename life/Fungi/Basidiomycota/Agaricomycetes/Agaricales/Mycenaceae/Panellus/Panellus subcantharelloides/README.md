@@ -1,5 +1,4 @@
-Panellus subcantharelloides Murrill SPECIES
-=======
+# Panellus subcantharelloides Murrill SPECIES
 
 #### Status
 ACCEPTED

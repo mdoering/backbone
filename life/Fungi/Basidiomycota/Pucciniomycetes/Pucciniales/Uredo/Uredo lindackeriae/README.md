@@ -1,5 +1,4 @@
-Uredo lindackeriae Vienn.-Bourg. SPECIES
-=======
+# Uredo lindackeriae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

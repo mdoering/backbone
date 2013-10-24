@@ -1,5 +1,4 @@
-Roseisalinus Labrenz et al., 2005 GENUS
-=======
+# Roseisalinus Labrenz et al., 2005 GENUS
 
 #### Status
 ACCEPTED

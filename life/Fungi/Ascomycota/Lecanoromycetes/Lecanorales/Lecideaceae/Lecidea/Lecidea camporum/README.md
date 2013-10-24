@@ -1,5 +1,4 @@
-Lecidea camporum Zahlbr. SPECIES
-=======
+# Lecidea camporum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

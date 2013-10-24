@@ -1,5 +1,4 @@
-Leptopodia alpestris Boud. SPECIES
-=======
+# Leptopodia alpestris Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma argyropelle (Pegler) Courtec. & Fiard SPECIES
-=======
+# Entoloma argyropelle (Pegler) Courtec. & Fiard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostoma verrucula Penz. & Sacc. SPECIES
-=======
+# Anthostoma verrucula Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

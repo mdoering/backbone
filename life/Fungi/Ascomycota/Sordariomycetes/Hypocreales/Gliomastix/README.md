@@ -1,17 +1,16 @@
-Haplotrichella G. Arnaud GENUS
-=======
+# Gliomastix Guég. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 69: 282 (1954)
+Bull. Soc. mycol. Fr. 21: 240 (1905)
 
 #### Original name
-Haplotrichella G. Arnaud
+Gliomastix Guég.
 
 ### Remarks
 null

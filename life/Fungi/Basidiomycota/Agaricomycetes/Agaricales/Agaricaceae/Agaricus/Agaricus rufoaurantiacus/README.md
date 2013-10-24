@@ -1,5 +1,4 @@
-Agaricus rufoaurantiacus Heinem. SPECIES
-=======
+# Agaricus rufoaurantiacus Heinem. SPECIES
 
 #### Status
 ACCEPTED

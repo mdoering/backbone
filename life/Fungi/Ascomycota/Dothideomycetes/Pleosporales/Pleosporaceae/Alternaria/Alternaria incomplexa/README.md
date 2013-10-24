@@ -1,5 +1,4 @@
-Alternaria incomplexa E.G. Simmons SPECIES
-=======
+# Alternaria incomplexa E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

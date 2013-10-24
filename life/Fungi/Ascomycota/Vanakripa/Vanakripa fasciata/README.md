@@ -1,5 +1,4 @@
-Vanakripa fasciata R.F. Castañeda, M. Stadler & Decock SPECIES
-=======
+# Vanakripa fasciata R.F. Castañeda, M. Stadler & Decock SPECIES
 
 #### Status
 ACCEPTED

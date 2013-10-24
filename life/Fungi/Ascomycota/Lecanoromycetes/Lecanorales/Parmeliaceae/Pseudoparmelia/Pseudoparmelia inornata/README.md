@@ -1,5 +1,4 @@
-Pseudoparmelia inornata (Hale) Hale SPECIES
-=======
+# Pseudoparmelia inornata (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

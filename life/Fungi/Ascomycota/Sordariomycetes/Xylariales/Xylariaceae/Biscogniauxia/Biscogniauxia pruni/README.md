@@ -1,5 +1,4 @@
-Biscogniauxia pruni Granmo, Laessøe & Scheuer SPECIES
-=======
+# Biscogniauxia pruni Granmo, Laessøe & Scheuer SPECIES
 
 #### Status
 ACCEPTED

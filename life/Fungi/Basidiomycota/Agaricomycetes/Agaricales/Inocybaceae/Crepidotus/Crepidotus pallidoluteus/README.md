@@ -1,5 +1,4 @@
-Crepidotus pallidoluteus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus pallidoluteus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

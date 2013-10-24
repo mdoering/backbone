@@ -1,5 +1,4 @@
-Sporormia pithyophila Tengwall, 1924 SPECIES
-=======
+# Sporormia pithyophila Tengwall, 1924 SPECIES
 
 #### Status
 ACCEPTED

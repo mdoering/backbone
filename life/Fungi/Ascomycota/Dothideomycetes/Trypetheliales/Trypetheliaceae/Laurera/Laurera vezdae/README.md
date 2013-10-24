@@ -1,5 +1,4 @@
-Laurera vezdae Makhija & Patw. SPECIES
-=======
+# Laurera vezdae Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

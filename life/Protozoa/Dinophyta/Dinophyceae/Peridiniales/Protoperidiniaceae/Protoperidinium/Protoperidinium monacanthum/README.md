@@ -1,8 +1,7 @@
-Protoperidinium complanatum Meunier, 1910 SPECIES
-=======
+# Protoperidinium monacanthum (Broch, 1910) Balech, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

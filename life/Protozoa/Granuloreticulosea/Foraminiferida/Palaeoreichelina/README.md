@@ -1,5 +1,4 @@
-Palaeoreichelina Van Liem, 1974 GENUS
-=======
+# Palaeoreichelina Van Liem, 1974 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Grandiniella burtii (Romell) Burds., 1977 SPECIES
-=======
+# Phanerochaete burtii (Romell ex Burt) Parmasto, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Taxon 26: 329 (1977)
+Eesti NSV Tead. Akad. Toim. , Biol. seer 16(4): 338 (1967)
 
 #### Original name
 Peniophora burtii Romell ex Burt, 1926

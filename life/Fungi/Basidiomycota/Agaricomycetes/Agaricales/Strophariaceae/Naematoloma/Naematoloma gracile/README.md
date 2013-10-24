@@ -1,8 +1,7 @@
-Nematoloma gracile Hongo SPECIES
-=======
+# Naematoloma gracile Hongo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nematoloma gracile Hongo
+Naematoloma gracile Hongo
 
 ### Remarks
 null

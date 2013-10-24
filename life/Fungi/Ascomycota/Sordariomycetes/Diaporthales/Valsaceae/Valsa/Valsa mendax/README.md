@@ -1,5 +1,4 @@
-Valsa mendax Mont. SPECIES
-=======
+# Valsa mendax Mont. SPECIES
 
 #### Status
 ACCEPTED

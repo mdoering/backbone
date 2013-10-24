@@ -1,5 +1,4 @@
-Leptostroma praemorsum Brunaud SPECIES
-=======
+# Leptostroma praemorsum Brunaud SPECIES
 
 #### Status
 ACCEPTED

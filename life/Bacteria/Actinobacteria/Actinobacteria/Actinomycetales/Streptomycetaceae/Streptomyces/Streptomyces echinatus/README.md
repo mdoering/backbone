@@ -1,5 +1,4 @@
-Streptomyces echinatus Corbaz et al., 1957 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces echinatus Corbaz et al., 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

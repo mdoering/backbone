@@ -1,5 +1,4 @@
-Pyxicola constricta Stokes, 1884 SPECIES
-=======
+# Pyxicola constricta Stokes, 1884 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urostyla naumanni Lepsi, 1935 SPECIES
-=======
+# Urostyla naumanni Lepsi, 1935 SPECIES
 
 #### Status
 ACCEPTED

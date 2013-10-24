@@ -1,5 +1,4 @@
-Melampsora euonymi-incanae W.G. Schneid. SPECIES
-=======
+# Melampsora euonymi-incanae W.G. Schneid. SPECIES
 
 #### Status
 ACCEPTED

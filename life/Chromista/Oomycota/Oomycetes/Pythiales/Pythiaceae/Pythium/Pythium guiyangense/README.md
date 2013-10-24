@@ -1,5 +1,4 @@
-Pythium guiyangense X.Q. Su SPECIES
-=======
+# Pythium guiyangense X.Q. Su SPECIES
 
 #### Status
 ACCEPTED

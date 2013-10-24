@@ -1,5 +1,4 @@
-Myxosporium tumidum (Bonord.) Sacc. SPECIES
-=======
+# Myxosporium tumidum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

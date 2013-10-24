@@ -1,5 +1,4 @@
-Sargassum marcaccii Grunow, 1884 SPECIES
-=======
+# Sargassum marcaccii Grunow, 1884 SPECIES
 
 #### Status
 ACCEPTED

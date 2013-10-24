@@ -1,5 +1,4 @@
-Strombidium pollostomum Lynn & Gilron, 1993 SPECIES
-=======
+# Strombidium pollostomum Lynn & Gilron, 1993 SPECIES
 
 #### Status
 ACCEPTED

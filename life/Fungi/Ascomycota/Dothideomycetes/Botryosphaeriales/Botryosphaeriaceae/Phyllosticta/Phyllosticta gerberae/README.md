@@ -1,5 +1,4 @@
-Phyllosticta gerberae Dzhalag. SPECIES
-=======
+# Phyllosticta gerberae Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

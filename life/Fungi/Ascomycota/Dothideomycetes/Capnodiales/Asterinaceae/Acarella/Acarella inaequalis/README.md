@@ -1,5 +1,4 @@
-Acarella inaequalis M.L. Farr SPECIES
-=======
+# Acarella inaequalis M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

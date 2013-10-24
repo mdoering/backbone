@@ -1,5 +1,4 @@
-Skierka agallocha Racib., 1909 SPECIES
-=======
+# Skierka agallocha Racib., 1909 SPECIES
 
 #### Status
 ACCEPTED

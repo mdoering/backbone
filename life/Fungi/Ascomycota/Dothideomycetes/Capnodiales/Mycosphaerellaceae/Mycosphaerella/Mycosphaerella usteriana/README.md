@@ -1,5 +1,4 @@
-Mycosphaerella usteriana (Speg.) Hara SPECIES
-=======
+# Mycosphaerella usteriana (Speg.) Hara SPECIES
 
 #### Status
 ACCEPTED

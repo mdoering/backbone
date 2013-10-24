@@ -1,5 +1,4 @@
-Inocybe subfusca Kühner SPECIES
-=======
+# Inocybe subfusca Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria morthieriana Sacc. SPECIES
-=======
+# Leptosphaeria morthieriana Sacc. SPECIES
 
 #### Status
 ACCEPTED

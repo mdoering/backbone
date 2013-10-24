@@ -1,5 +1,4 @@
-Caloplaca brachyloba (Müll. Arg.) R. Sant. SPECIES
-=======
+# Caloplaca brachyloba (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

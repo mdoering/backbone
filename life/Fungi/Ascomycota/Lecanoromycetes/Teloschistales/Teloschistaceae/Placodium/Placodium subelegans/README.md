@@ -1,5 +1,4 @@
-Placodium subelegans (Nyl.) Nyl. SPECIES
-=======
+# Placodium subelegans (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus barlae Fr. SPECIES
-=======
+# Boletus barlae Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma pygmaeum Sacc. SPECIES
-=======
+# Lophiostoma pygmaeum Sacc. SPECIES
 
 #### Status
 ACCEPTED

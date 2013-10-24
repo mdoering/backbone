@@ -1,5 +1,4 @@
-Chaetothyrium muriforme J.M. Mend. SPECIES
-=======
+# Chaetothyrium muriforme J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

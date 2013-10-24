@@ -1,5 +1,4 @@
-Lepiota rubrostraminea Rick SPECIES
-=======
+# Lepiota rubrostraminea Rick SPECIES
 
 #### Status
 ACCEPTED

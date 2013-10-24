@@ -1,5 +1,4 @@
-Dicaeoma solidum (Schwein.) Kuntze SPECIES
-=======
+# Dicaeoma solidum (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

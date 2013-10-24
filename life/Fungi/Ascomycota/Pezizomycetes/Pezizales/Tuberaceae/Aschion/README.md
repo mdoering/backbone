@@ -1,5 +1,4 @@
-Aschion GENUS
-=======
+# Aschion GENUS
 
 #### Status
 ACCEPTED

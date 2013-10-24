@@ -1,5 +1,4 @@
-Corticium stabulare (Fr.) Fr. SPECIES
-=======
+# Corticium stabulare (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

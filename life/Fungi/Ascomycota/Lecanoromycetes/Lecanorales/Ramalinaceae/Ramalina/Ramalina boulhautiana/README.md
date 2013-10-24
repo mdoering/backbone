@@ -1,5 +1,4 @@
-Ramalina boulhautiana Maheu & A. Gillet SPECIES
-=======
+# Ramalina boulhautiana Maheu & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

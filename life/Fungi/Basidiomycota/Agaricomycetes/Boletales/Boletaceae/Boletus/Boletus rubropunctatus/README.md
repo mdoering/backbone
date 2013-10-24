@@ -1,5 +1,4 @@
-Boletus rubropunctatus Raddi SPECIES
-=======
+# Boletus rubropunctatus Raddi SPECIES
 
 #### Status
 ACCEPTED

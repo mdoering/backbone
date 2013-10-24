@@ -1,5 +1,4 @@
-Mortierella humilis Linnem. ex W. Gams, 1977 SPECIES
-=======
+# Mortierella humilis Linnem. ex W. Gams, 1977 SPECIES
 
 #### Status
 ACCEPTED

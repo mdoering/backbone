@@ -1,5 +1,4 @@
-Dasyscyphus GENUS
-=======
+# Dasyscyphus GENUS
 
 #### Status
 ACCEPTED

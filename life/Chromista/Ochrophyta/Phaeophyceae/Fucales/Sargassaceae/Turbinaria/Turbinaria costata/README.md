@@ -1,5 +1,4 @@
-Turbinaria costata Barton SPECIES
-=======
+# Turbinaria costata Barton SPECIES
 
 #### Status
 ACCEPTED

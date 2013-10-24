@@ -1,5 +1,4 @@
-Gerronema xanthodictyon Singer SPECIES
-=======
+# Gerronema xanthodictyon Singer SPECIES
 
 #### Status
 ACCEPTED

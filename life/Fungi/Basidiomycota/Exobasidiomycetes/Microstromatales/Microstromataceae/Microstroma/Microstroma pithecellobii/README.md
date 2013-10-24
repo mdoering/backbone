@@ -1,17 +1,16 @@
-Microstroma pithecolobii Lamkey SPECIES
-=======
+# Microstroma pithecellobii Lamkey, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 12(1): 52 (1920)
 
 #### Original name
-Microstroma pithecolobii Lamkey
+Microstroma pithecellobii Lamkey, 1920
 
 ### Remarks
 null

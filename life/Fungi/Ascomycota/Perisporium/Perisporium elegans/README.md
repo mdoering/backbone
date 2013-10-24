@@ -1,5 +1,4 @@
-Perisporium elegans Fr. SPECIES
-=======
+# Perisporium elegans Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagenosolenia tenuistriatiformis McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia tenuistriatiformis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta boehmeriae Sawada SPECIES
-=======
+# Phyllosticta boehmeriae Sawada SPECIES
 
 #### Status
 ACCEPTED

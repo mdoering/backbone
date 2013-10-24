@@ -1,5 +1,4 @@
-Hormodendrum griseum Hedgc. SPECIES
-=======
+# Hormodendrum griseum Hedgc. SPECIES
 
 #### Status
 ACCEPTED

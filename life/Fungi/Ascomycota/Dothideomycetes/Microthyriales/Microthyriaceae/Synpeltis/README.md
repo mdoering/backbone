@@ -1,5 +1,4 @@
-Synpeltis GENUS
-=======
+# Synpeltis GENUS
 
 #### Status
 ACCEPTED

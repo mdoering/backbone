@@ -1,5 +1,4 @@
-Kuetzingiella Kornmann, 1956 GENUS
-=======
+# Kuetzingiella Kornmann, 1956 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia caricis-daisenensis Morim. SPECIES
-=======
+# Puccinia caricis-daisenensis Morim. SPECIES
 
 #### Status
 ACCEPTED

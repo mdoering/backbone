@@ -1,5 +1,4 @@
-Cenangium tuberculiforme Ellis & Everh. SPECIES
-=======
+# Cenangium tuberculiforme Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

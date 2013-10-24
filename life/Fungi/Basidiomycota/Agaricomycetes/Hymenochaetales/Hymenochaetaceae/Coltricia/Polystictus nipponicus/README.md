@@ -1,5 +1,4 @@
-Polystictus nipponicus Yasuda SPECIES
-=======
+# Polystictus nipponicus Yasuda SPECIES
 
 #### Status
 ACCEPTED

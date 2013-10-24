@@ -1,5 +1,4 @@
-Peziza echinulata Auersw., 1868 SPECIES
-=======
+# Peziza echinulata Auersw., 1868 SPECIES
 
 #### Status
 ACCEPTED

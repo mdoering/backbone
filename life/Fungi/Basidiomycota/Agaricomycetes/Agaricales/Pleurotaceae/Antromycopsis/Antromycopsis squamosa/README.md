@@ -1,5 +1,4 @@
-Antromycopsis squamosa Henn. SPECIES
-=======
+# Antromycopsis squamosa Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula taeniospora Einhell., 1986 SPECIES
-=======
+# Russula taeniospora Einhell., 1986 SPECIES
 
 #### Status
 ACCEPTED

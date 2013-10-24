@@ -1,5 +1,4 @@
-Cortinarius parasebaceus Rob. Henry SPECIES
-=======
+# Cortinarius parasebaceus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

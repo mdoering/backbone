@@ -1,5 +1,4 @@
-Sticcasphaeridium incertum Zang Wen-long in Zang Wen-long & Walter SPECIES
-=======
+# Sticcasphaeridium incertum Zang Wen-long in Zang Wen-long & Walter SPECIES
 
 #### Status
 ACCEPTED

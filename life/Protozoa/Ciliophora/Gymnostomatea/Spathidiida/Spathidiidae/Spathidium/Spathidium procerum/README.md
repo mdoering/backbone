@@ -1,5 +1,4 @@
-Spathidium procerum Kahl, 1930 SPECIES
-=======
+# Spathidium procerum Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

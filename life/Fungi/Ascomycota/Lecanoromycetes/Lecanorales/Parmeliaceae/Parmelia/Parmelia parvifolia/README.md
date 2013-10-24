@@ -1,5 +1,4 @@
-Parmelia parvifolia Mont. SPECIES
-=======
+# Parmelia parvifolia Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbospora proteae Joanne E. Taylor & Crous, 2000 SPECIES
-=======
+# Stilbospora proteae Joanne E. Taylor & Crous, 2000 SPECIES
 
 #### Status
 ACCEPTED

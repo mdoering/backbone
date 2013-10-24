@@ -1,5 +1,4 @@
-Psilocybe smithiana Guzmán SPECIES
-=======
+# Psilocybe smithiana Guzmán SPECIES
 
 #### Status
 ACCEPTED

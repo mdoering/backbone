@@ -1,5 +1,4 @@
-Umbilicaria havaasii Llano SPECIES
-=======
+# Umbilicaria havaasii Llano SPECIES
 
 #### Status
 ACCEPTED

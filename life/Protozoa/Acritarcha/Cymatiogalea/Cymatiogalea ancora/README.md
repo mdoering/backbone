@@ -1,5 +1,4 @@
-Cymatiogalea ancora Paris & Deunff, 1970 SPECIES
-=======
+# Cymatiogalea ancora Paris & Deunff, 1970 SPECIES
 
 #### Status
 ACCEPTED

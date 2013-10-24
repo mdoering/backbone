@@ -1,5 +1,4 @@
-Petrotoga halophila Miranda-Tello, Fardeau, Joulian, Magot, Thomas, Tholozan & Ollivier, 2007 SPECIES
-=======
+# Petrotoga halophila Miranda-Tello, Fardeau, Joulian, Magot, Thomas, Tholozan & Ollivier, 2007 SPECIES
 
 #### Status
 ACCEPTED

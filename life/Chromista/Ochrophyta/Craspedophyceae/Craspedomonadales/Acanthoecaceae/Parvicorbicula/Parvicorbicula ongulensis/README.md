@@ -1,5 +1,4 @@
-Parvicorbicula ongulensis Takahashi, 1981 SPECIES
-=======
+# Parvicorbicula ongulensis Takahashi, 1981 SPECIES
 
 #### Status
 ACCEPTED

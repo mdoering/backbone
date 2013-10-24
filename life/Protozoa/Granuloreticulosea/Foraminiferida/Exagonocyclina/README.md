@@ -1,5 +1,4 @@
-Exagonocyclina Checchia-Rispoli, 1909 GENUS
-=======
+# Exagonocyclina Checchia-Rispoli, 1909 GENUS
 
 #### Status
 ACCEPTED

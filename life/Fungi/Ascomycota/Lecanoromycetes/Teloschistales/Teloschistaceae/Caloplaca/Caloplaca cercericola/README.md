@@ -1,5 +1,4 @@
-Caloplaca cercericola B. de Lesd. SPECIES
-=======
+# Caloplaca cercericola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

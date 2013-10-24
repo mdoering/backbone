@@ -1,5 +1,4 @@
-Phaeochaetia GENUS
-=======
+# Phaeochaetia GENUS
 
 #### Status
 ACCEPTED

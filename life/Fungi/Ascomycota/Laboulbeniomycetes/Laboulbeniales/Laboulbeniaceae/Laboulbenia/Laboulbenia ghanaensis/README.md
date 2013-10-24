@@ -1,5 +1,4 @@
-Laboulbenia ghanaensis W. Rossi & M. Blackw. SPECIES
-=======
+# Laboulbenia ghanaensis W. Rossi & M. Blackw. SPECIES
 
 #### Status
 ACCEPTED

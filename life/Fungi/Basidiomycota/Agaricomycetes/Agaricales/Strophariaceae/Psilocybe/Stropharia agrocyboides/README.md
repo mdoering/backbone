@@ -1,5 +1,4 @@
-Stropharia agrocyboides (Raithelh.) Raithelh. SPECIES
-=======
+# Stropharia agrocyboides (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

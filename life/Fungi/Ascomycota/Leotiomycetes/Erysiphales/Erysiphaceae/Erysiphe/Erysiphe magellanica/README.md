@@ -1,5 +1,4 @@
-Erysiphe magellanica (Thaxt.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe magellanica (Thaxt.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

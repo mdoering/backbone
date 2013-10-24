@@ -1,5 +1,4 @@
-Rhizomucor endophyticus R.Y. Zheng & H. Jiang, 1995 SPECIES
-=======
+# Rhizomucor endophyticus R.Y. Zheng & H. Jiang, 1995 SPECIES
 
 #### Status
 ACCEPTED

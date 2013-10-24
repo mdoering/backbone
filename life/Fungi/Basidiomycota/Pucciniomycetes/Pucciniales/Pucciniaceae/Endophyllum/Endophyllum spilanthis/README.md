@@ -1,5 +1,4 @@
-Endophyllum spilanthis Thirum. & Govindu SPECIES
-=======
+# Endophyllum spilanthis Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

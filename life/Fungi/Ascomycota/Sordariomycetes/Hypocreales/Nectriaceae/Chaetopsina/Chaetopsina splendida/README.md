@@ -1,5 +1,4 @@
-Chaetopsina splendida B. Sutton & Hodges SPECIES
-=======
+# Chaetopsina splendida B. Sutton & Hodges SPECIES
 
 #### Status
 ACCEPTED

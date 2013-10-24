@@ -1,5 +1,4 @@
-Coccularia rigida Corda SPECIES
-=======
+# Coccularia rigida Corda SPECIES
 
 #### Status
 ACCEPTED

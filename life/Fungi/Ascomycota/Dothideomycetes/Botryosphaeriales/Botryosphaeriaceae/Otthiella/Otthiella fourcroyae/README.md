@@ -1,5 +1,4 @@
-Otthiella fourcroyae F. Stevens & De Coursey SPECIES
-=======
+# Otthiella fourcroyae F. Stevens & De Coursey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia bulbostylidicola Piatek & Vánky SPECIES
-=======
+# Cintractia bulbostylidicola Piatek & Vánky SPECIES
 
 #### Status
 ACCEPTED

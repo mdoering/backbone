@@ -1,5 +1,4 @@
-Eutintinnus inguilinus Müller, 1776 SPECIES
-=======
+# Eutintinnus inguilinus Müller, 1776 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidotthia aspera (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Dothidotthia aspera (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

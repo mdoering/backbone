@@ -1,5 +1,4 @@
-Pertusaria shenandoensis Hale & Dibben SPECIES
-=======
+# Pertusaria shenandoensis Hale & Dibben SPECIES
 
 #### Status
 ACCEPTED

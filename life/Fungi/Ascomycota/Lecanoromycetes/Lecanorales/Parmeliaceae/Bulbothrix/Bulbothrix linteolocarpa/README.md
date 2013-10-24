@@ -1,5 +1,4 @@
-Bulbothrix linteolocarpa Marcelli SPECIES
-=======
+# Bulbothrix linteolocarpa Marcelli SPECIES
 
 #### Status
 ACCEPTED

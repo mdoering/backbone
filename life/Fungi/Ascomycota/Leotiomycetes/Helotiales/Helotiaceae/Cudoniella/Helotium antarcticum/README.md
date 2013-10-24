@@ -1,5 +1,4 @@
-Helotium antarcticum Speg. SPECIES
-=======
+# Helotium antarcticum Speg. SPECIES
 
 #### Status
 ACCEPTED

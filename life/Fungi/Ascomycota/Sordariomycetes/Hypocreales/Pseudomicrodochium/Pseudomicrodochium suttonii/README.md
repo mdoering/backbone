@@ -1,14 +1,13 @@
-Cyphellophora suttonii (Ajello, A.A. Padhye & M. Payne) Decock, 2003 SPECIES
-=======
+# Pseudomicrodochium suttonii Ajello, A.A. Padhye & M. Payne, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Decock, Delgado Rodriguez, Buchet, Seng, Antonie van Leeuwenhoek 84(3): 213 (2003)
+Mycotaxon 12(1): 133 (1980)
 
 #### Original name
 Pseudomicrodochium suttonii Ajello, A.A. Padhye & M. Payne, 1980

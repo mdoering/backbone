@@ -1,5 +1,4 @@
-Amauroderma nutans (Fr.) Murrill SPECIES
-=======
+# Amauroderma nutans (Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

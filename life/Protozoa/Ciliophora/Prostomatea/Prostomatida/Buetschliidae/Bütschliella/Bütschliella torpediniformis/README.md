@@ -1,5 +1,4 @@
-Bütschliella torpediniformis SPECIES
-=======
+# Bütschliella torpediniformis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia flavicans (Nyl.) H. Olivier SPECIES
-=======
+# Bacidia flavicans (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

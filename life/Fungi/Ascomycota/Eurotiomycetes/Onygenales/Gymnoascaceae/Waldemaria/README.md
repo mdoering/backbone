@@ -1,5 +1,4 @@
-Waldemaria GENUS
-=======
+# Waldemaria GENUS
 
 #### Status
 ACCEPTED

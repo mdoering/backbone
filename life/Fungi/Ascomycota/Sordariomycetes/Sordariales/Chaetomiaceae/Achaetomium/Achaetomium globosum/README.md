@@ -1,17 +1,16 @@
-Thielavia octospora (Natarajan) Arx, 1975 SPECIES
-=======
+# Achaetomium globosum J.N. Rai & J.P. Tewari, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 8: 6 (1975)
+in Rai, Tewari & Mukerji, Can. J. Bot. 42(6): 693 (1964)
 
 #### Original name
-Thielaviella octospora Natarajan, 1972
+Achaetomium globosum J.N. Rai & J.P. Tewari, 1964
 
 ### Remarks
 null

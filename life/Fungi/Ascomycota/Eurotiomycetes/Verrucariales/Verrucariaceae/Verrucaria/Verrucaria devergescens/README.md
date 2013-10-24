@@ -1,5 +1,4 @@
-Verrucaria devergescens Nyl. SPECIES
-=======
+# Verrucaria devergescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

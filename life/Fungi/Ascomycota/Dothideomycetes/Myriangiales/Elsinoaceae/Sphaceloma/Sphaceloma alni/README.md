@@ -1,5 +1,4 @@
-Sphaceloma alni C.C. Chen SPECIES
-=======
+# Sphaceloma alni C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

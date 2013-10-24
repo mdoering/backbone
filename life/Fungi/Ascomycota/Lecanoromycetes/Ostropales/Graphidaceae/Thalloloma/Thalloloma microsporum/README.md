@@ -1,5 +1,4 @@
-Thalloloma microsporum Z.F. Jia & J.C. Wei SPECIES
-=======
+# Thalloloma microsporum Z.F. Jia & J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

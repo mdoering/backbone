@@ -1,5 +1,4 @@
-Lobaria insularis Vain. SPECIES
-=======
+# Lobaria insularis Vain. SPECIES
 
 #### Status
 ACCEPTED

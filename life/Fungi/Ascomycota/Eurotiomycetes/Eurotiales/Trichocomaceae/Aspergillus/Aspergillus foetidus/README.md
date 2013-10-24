@@ -1,5 +1,4 @@
-Aspergillus foetidus var. foetidus VARIETY
-=======
+# Aspergillus foetidus Thom & Raper SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Manual of the Aspergilli 219 (1945)
 
 #### Original name
-Aspergillus foetidus var. foetidus
+Aspergillus foetidus Thom & Raper
 
 ### Remarks
 null

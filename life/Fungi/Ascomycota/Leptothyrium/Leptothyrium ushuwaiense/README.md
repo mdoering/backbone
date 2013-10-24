@@ -1,5 +1,4 @@
-Leptothyrium ushuwaiense Speg. SPECIES
-=======
+# Leptothyrium ushuwaiense Speg. SPECIES
 
 #### Status
 ACCEPTED

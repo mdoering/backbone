@@ -1,17 +1,16 @@
-Tomentoporus Ryvarden GENUS
-=======
+# Microporus Palisot de Beauvois, 1805 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Norw. Jl Bot. 20: 4 (1973)
+Fl. Oware 1: 12 (1805)
 
 #### Original name
-Tomentoporus Ryvarden
+Microporus Palisot de Beauvois, 1805
 
 ### Remarks
 null

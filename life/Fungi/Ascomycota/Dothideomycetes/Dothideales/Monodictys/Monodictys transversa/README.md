@@ -1,5 +1,4 @@
-Monodictys transversa G.Z. Zhao & T.Y. Zhang SPECIES
-=======
+# Monodictys transversa G.Z. Zhao & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

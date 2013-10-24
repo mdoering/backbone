@@ -1,5 +1,4 @@
-Marasmius iridescens Berk. SPECIES
-=======
+# Marasmius iridescens Berk. SPECIES
 
 #### Status
 ACCEPTED

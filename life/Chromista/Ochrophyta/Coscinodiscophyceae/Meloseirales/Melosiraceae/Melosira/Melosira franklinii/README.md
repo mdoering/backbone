@@ -1,5 +1,4 @@
-Melosira franklinii (Ehrenberg) Cleve SPECIES
-=======
+# Melosira franklinii (Ehrenberg) Cleve SPECIES
 
 #### Status
 ACCEPTED

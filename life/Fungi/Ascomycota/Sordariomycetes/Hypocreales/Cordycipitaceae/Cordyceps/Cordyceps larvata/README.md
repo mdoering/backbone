@@ -1,5 +1,4 @@
-Cordyceps larvata Mont. SPECIES
-=======
+# Cordyceps larvata Mont. SPECIES
 
 #### Status
 ACCEPTED

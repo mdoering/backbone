@@ -1,5 +1,4 @@
-Exosporium pusillum P. Karst. SPECIES
-=======
+# Exosporium pusillum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

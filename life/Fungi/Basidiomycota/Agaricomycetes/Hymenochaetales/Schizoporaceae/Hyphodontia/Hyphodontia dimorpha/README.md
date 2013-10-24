@@ -1,5 +1,4 @@
-Hyphodontia dimorpha Sang H. Lin & Z.C. Chen SPECIES
-=======
+# Hyphodontia dimorpha Sang H. Lin & Z.C. Chen SPECIES
 
 #### Status
 ACCEPTED

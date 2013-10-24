@@ -1,5 +1,4 @@
-Anathece (Komárek & Anagnostidis) Komárek, Kastovsky & Jezberová, 2011 GENUS
-=======
+# Anathece (Komárek & Anagnostidis) Komárek, Kastovsky & Jezberová, 2011 GENUS
 
 #### Status
 ACCEPTED

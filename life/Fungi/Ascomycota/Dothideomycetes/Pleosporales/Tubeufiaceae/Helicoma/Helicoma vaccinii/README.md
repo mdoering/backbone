@@ -1,5 +1,4 @@
-Helicoma vaccinii Carris, 1989 SPECIES
-=======
+# Helicoma vaccinii Carris, 1989 SPECIES
 
 #### Status
 ACCEPTED

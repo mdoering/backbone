@@ -1,5 +1,4 @@
-Cercospora heliconiae Chowdhry, D. Gupta & Padhi SPECIES
-=======
+# Cercospora heliconiae Chowdhry, D. Gupta & Padhi SPECIES
 
 #### Status
 ACCEPTED

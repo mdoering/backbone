@@ -1,5 +1,4 @@
-Fasciatispora lignicola Alias, E.B.G. Jones & Kuthub., 1994 SPECIES
-=======
+# Fasciatispora lignicola Alias, E.B.G. Jones & Kuthub., 1994 SPECIES
 
 #### Status
 ACCEPTED

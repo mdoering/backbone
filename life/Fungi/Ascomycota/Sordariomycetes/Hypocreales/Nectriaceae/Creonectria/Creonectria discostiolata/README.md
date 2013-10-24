@@ -1,5 +1,4 @@
-Creonectria discostiolata Chardón SPECIES
-=======
+# Creonectria discostiolata Chardón SPECIES
 
 #### Status
 ACCEPTED

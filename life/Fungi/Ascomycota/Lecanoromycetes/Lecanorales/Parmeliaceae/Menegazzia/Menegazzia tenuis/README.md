@@ -1,5 +1,4 @@
-Menegazzia tenuis R. Sant. SPECIES
-=======
+# Menegazzia tenuis R. Sant. SPECIES
 
 #### Status
 ACCEPTED

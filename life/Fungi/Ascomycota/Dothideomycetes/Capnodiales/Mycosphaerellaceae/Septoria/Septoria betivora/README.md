@@ -1,5 +1,4 @@
-Septoria betivora Urries SPECIES
-=======
+# Septoria betivora Urries SPECIES
 
 #### Status
 ACCEPTED

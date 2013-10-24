@@ -1,5 +1,4 @@
-Lichen illimatus Wahlenb. SPECIES
-=======
+# Lichen illimatus Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

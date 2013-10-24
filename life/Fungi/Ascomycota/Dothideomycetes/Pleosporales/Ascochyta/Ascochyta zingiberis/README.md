@@ -1,17 +1,16 @@
-Ascochyta zingiberi Sawada SPECIES
-=======
+# Ascochyta zingiberis Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Special Publication College of Agriculture, National Taiwan University 8: 152 (1959)
 
 #### Original name
-Ascochyta zingiberi Sawada
+Ascochyta zingiberis Sawada
 
 ### Remarks
 null

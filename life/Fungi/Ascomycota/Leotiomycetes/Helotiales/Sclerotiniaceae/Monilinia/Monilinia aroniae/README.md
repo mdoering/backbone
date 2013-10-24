@@ -1,5 +1,4 @@
-Monilinia aroniae Honey SPECIES
-=======
+# Monilinia aroniae Honey SPECIES
 
 #### Status
 ACCEPTED

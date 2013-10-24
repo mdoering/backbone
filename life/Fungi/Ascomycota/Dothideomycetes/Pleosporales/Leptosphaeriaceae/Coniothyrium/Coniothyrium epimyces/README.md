@@ -1,5 +1,4 @@
-Coniothyrium epimyces Sacc. & Speg. SPECIES
-=======
+# Coniothyrium epimyces Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

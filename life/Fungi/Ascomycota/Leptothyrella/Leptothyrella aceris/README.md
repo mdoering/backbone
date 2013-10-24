@@ -1,5 +1,4 @@
-Leptothyrella aceris Dearn. & House SPECIES
-=======
+# Leptothyrella aceris Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

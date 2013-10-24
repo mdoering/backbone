@@ -1,5 +1,4 @@
-Mycosphaerella pini-patulae M. Morelet SPECIES
-=======
+# Mycosphaerella pini-patulae M. Morelet SPECIES
 
 #### Status
 ACCEPTED

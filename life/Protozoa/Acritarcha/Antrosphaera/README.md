@@ -1,5 +1,4 @@
-Antrosphaera He, 1984 GENUS
-=======
+# Antrosphaera He, 1984 GENUS
 
 #### Status
 ACCEPTED

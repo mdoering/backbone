@@ -1,5 +1,4 @@
-Ogimotoa Ito & Imai, 2000 GENUS
-=======
+# Ogimotoa Ito & Imai, 2000 GENUS
 
 #### Status
 ACCEPTED

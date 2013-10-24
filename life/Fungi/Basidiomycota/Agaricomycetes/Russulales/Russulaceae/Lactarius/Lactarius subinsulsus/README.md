@@ -1,5 +1,4 @@
-Lactarius subinsulsus Peck SPECIES
-=======
+# Lactarius subinsulsus Peck SPECIES
 
 #### Status
 ACCEPTED

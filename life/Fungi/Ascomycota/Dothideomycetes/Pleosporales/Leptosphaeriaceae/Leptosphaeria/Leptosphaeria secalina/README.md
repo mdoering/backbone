@@ -1,5 +1,4 @@
-Leptosphaeria secalina Jacz. SPECIES
-=======
+# Leptosphaeria secalina Jacz. SPECIES
 
 #### Status
 ACCEPTED

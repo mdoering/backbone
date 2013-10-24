@@ -1,5 +1,4 @@
-Tachysoma terricola Hemberger, 1985 SPECIES
-=======
+# Tachysoma terricola Hemberger, 1985 SPECIES
 
 #### Status
 ACCEPTED

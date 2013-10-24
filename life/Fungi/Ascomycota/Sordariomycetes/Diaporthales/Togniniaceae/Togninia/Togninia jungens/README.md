@@ -1,5 +1,4 @@
-Togninia jungens (Nitschke) Berl. SPECIES
-=======
+# Togninia jungens (Nitschke) Berl. SPECIES
 
 #### Status
 ACCEPTED

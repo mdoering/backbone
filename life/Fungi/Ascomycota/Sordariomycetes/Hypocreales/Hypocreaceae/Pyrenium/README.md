@@ -1,5 +1,4 @@
-Pyrenium GENUS
-=======
+# Pyrenium GENUS
 
 #### Status
 ACCEPTED

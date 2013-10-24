@@ -1,5 +1,4 @@
-Lepiota fraterna E. Horak SPECIES
-=======
+# Lepiota fraterna E. Horak SPECIES
 
 #### Status
 ACCEPTED

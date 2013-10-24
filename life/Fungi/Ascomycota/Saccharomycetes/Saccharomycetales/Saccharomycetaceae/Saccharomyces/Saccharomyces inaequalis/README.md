@@ -1,5 +1,4 @@
-Saccharomyces inaequalis (Kütz.) A.B. Frank SPECIES
-=======
+# Saccharomyces inaequalis (Kütz.) A.B. Frank SPECIES
 
 #### Status
 ACCEPTED

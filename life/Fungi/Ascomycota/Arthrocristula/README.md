@@ -1,5 +1,4 @@
-Arthrocristula Sigler, M.T. Dunn & J.W. Carmich. GENUS
-=======
+# Arthrocristula Sigler, M.T. Dunn & J.W. Carmich. GENUS
 
 #### Status
 ACCEPTED

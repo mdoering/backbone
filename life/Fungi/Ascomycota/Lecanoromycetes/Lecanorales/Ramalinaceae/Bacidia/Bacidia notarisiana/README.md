@@ -1,5 +1,4 @@
-Bacidia notarisiana (A. Massal.) Zahlbr. SPECIES
-=======
+# Bacidia notarisiana (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

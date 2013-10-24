@@ -1,5 +1,4 @@
-Asteroparatrochammina Bronniman & Zaninetti, 1984 GENUS
-=======
+# Asteroparatrochammina Bronniman & Zaninetti, 1984 GENUS
 
 #### Status
 ACCEPTED

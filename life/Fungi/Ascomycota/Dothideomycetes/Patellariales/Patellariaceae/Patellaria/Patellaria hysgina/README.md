@@ -1,5 +1,4 @@
-Patellaria hysgina (Wahlenb.) Spreng. SPECIES
-=======
+# Patellaria hysgina (Wahlenb.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

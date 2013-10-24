@@ -1,5 +1,4 @@
-Biatorella glaucocarpoides (Nyl.) H. Magn. SPECIES
-=======
+# Biatorella glaucocarpoides (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

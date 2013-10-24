@@ -1,5 +1,4 @@
-Pseudocorythion Valkanov, 1970 GENUS
-=======
+# Pseudocorythion Valkanov, 1970 GENUS
 
 #### Status
 ACCEPTED

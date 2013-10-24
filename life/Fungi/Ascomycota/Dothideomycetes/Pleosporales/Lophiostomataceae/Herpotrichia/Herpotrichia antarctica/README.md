@@ -1,5 +1,4 @@
-Herpotrichia antarctica Speg. SPECIES
-=======
+# Herpotrichia antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

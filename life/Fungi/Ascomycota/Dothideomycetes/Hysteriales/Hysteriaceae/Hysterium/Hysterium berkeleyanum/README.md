@@ -1,5 +1,4 @@
-Hysterium berkeleyanum Ces. SPECIES
-=======
+# Hysterium berkeleyanum Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrothele nivosoides Gaignon, Duc & H. Michel SPECIES
-=======
+# Dendrothele nivosoides Gaignon, Duc & H. Michel SPECIES
 
 #### Status
 ACCEPTED

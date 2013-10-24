@@ -1,5 +1,4 @@
-Guignardia robiniae S. Ito & Kobayasi SPECIES
-=======
+# Guignardia robiniae S. Ito & Kobayasi SPECIES
 
 #### Status
 ACCEPTED

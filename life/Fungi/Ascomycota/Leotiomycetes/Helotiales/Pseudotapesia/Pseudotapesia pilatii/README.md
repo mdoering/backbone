@@ -1,5 +1,4 @@
-Pseudotapesia pilatii Velen., 1939 SPECIES
-=======
+# Pseudotapesia pilatii Velen., 1939 SPECIES
 
 #### Status
 ACCEPTED

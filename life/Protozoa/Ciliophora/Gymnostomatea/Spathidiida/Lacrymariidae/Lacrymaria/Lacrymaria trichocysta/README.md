@@ -1,5 +1,4 @@
-Lacrymaria trichocysta Dragesco, 1954 SPECIES
-=======
+# Lacrymaria trichocysta Dragesco, 1954 SPECIES
 
 #### Status
 ACCEPTED

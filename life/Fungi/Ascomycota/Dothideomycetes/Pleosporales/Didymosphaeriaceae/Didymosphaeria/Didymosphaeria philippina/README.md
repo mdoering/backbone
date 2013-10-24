@@ -1,5 +1,4 @@
-Didymosphaeria philippina Vain. SPECIES
-=======
+# Didymosphaeria philippina Vain. SPECIES
 
 #### Status
 ACCEPTED

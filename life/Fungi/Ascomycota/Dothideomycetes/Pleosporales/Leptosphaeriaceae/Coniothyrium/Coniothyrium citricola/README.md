@@ -1,5 +1,4 @@
-Coniothyrium citricola McAlpine SPECIES
-=======
+# Coniothyrium citricola McAlpine SPECIES
 
 #### Status
 ACCEPTED

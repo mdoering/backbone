@@ -1,5 +1,4 @@
-Endocarpon rufovirescens Taylor SPECIES
-=======
+# Endocarpon rufovirescens Taylor SPECIES
 
 #### Status
 ACCEPTED

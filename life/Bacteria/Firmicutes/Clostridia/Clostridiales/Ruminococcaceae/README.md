@@ -1,5 +1,4 @@
-Ruminococcaceae FAMILY
-=======
+# Ruminococcaceae FAMILY
 
 #### Status
 ACCEPTED

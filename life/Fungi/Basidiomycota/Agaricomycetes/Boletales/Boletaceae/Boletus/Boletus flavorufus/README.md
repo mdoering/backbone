@@ -1,5 +1,4 @@
-Boletus flavorufus Schaeff. SPECIES
-=======
+# Boletus flavorufus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

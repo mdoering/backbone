@@ -1,5 +1,4 @@
-Cylindroclavulina ovata Zheng, 1988 SPECIES
-=======
+# Cylindroclavulina ovata Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

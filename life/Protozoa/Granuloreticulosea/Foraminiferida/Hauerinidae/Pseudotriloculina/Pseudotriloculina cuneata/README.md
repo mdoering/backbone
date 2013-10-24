@@ -1,5 +1,4 @@
-Pseudotriloculina cuneata (Karrer, 1867) SPECIES
-=======
+# Pseudotriloculina cuneata (Karrer, 1867) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schulzeria squamigera Schulzer & Bres. SPECIES
-=======
+# Schulzeria squamigera Schulzer & Bres. SPECIES
 
 #### Status
 ACCEPTED

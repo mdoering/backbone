@@ -1,5 +1,4 @@
-Metasphaeria plegmariae (Ces.) Sacc. SPECIES
-=======
+# Metasphaeria plegmariae (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Canariomyces notabilis Arx, 1984 SPECIES
-=======
+# Canariomyces notabilis Arx, 1984 SPECIES
 
 #### Status
 ACCEPTED

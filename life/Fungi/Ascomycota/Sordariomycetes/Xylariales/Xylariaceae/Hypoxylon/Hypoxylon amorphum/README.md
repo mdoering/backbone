@@ -1,5 +1,4 @@
-Hypoxylon amorphum Ellis & Everh. SPECIES
-=======
+# Hypoxylon amorphum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

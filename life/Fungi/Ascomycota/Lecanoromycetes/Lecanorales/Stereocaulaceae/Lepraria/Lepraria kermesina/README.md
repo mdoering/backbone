@@ -1,5 +1,4 @@
-Lepraria kermesina Wrangel SPECIES
-=======
+# Lepraria kermesina Wrangel SPECIES
 
 #### Status
 ACCEPTED

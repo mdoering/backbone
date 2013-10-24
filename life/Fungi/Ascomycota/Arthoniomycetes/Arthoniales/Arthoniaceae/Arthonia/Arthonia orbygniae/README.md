@@ -1,17 +1,16 @@
-Opegrapha orbygniae H. B. P. Upadhyay SPECIES
-=======
+# Arthonia orbygniae (H. B. P. Upadhyay) Matzer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 30: 149 (1998)
 
 #### Original name
-null
+Arthonia orbygniae (H. B. P. Upadhyay) Matzer
 
 ### Remarks
 null

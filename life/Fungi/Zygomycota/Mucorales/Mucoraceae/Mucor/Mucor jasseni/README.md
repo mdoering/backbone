@@ -1,5 +1,4 @@
-Mucor jasseni (Lender.) Schipper SPECIES
-=======
+# Mucor jasseni (Lender.) Schipper SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus ivoriensis Bartoli & Maggi, 1979 SPECIES
-=======
+# Aspergillus ivoriensis Bartoli & Maggi, 1979 SPECIES
 
 #### Status
 ACCEPTED

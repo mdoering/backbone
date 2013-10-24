@@ -1,5 +1,4 @@
-Parmelia diacida (Hale) Brusse SPECIES
-=======
+# Parmelia diacida (Hale) Brusse SPECIES
 
 #### Status
 ACCEPTED

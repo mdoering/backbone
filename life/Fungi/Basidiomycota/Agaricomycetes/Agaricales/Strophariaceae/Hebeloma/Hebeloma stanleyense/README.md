@@ -1,5 +1,4 @@
-Hebeloma stanleyense A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma stanleyense A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plasmodiophorida ORDER
-=======
+# Plasmodiophorida ORDER
 
 #### Status
 ACCEPTED

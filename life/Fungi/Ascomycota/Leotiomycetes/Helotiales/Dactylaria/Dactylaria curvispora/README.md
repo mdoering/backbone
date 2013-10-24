@@ -1,5 +1,4 @@
-Dactylaria curvispora (Matsush.) de Hoog & Arx SPECIES
-=======
+# Dactylaria curvispora (Matsush.) de Hoog & Arx SPECIES
 
 #### Status
 ACCEPTED

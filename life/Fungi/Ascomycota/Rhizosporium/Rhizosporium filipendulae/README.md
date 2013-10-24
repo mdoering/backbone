@@ -1,5 +1,4 @@
-Rhizosporium filipendulae (Wallr.) Rabenh. SPECIES
-=======
+# Rhizosporium filipendulae (Wallr.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

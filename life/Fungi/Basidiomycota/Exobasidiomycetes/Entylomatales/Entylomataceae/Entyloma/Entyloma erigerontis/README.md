@@ -1,5 +1,4 @@
-Entyloma erigerontis Syd. & P. Syd. ex Cif., 1928 SPECIES
-=======
+# Entyloma erigerontis Syd. & P. Syd. ex Cif., 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Licmophora anglica (Kützing) Grunow SPECIES
-=======
+# Licmophora anglica (Kützing) Grunow SPECIES
 
 #### Status
 ACCEPTED

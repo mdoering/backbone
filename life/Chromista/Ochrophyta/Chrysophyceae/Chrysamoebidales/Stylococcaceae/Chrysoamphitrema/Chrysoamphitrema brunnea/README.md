@@ -1,5 +1,4 @@
-Chrysoamphitrema brunnea Scherffel SPECIES
-=======
+# Chrysoamphitrema brunnea Scherffel SPECIES
 
 #### Status
 ACCEPTED

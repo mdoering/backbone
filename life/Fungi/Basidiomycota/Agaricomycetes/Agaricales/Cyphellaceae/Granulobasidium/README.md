@@ -1,5 +1,4 @@
-Granulobasidium Jülich, 1979 GENUS
-=======
+# Granulobasidium Jülich, 1979 GENUS
 
 #### Status
 ACCEPTED

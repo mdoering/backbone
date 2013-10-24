@@ -1,5 +1,4 @@
-Podosporium demersum Bonord. SPECIES
-=======
+# Podosporium demersum Bonord. SPECIES
 
 #### Status
 ACCEPTED

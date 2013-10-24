@@ -1,5 +1,4 @@
-Xylaria coccinea J.H. Mill. SPECIES
-=======
+# Xylaria coccinea J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

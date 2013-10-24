@@ -1,5 +1,4 @@
-Crepidotus funalis Rick SPECIES
-=======
+# Crepidotus funalis Rick SPECIES
 
 #### Status
 ACCEPTED

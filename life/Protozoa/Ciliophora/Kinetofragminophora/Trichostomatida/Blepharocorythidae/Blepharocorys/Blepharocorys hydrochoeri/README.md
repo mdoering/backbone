@@ -1,5 +1,4 @@
-Blepharocorys hydrochoeri SPECIES
-=======
+# Blepharocorys hydrochoeri SPECIES
 
 #### Status
 ACCEPTED

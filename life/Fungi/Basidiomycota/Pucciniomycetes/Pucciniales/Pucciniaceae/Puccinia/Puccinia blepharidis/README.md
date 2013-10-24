@@ -1,5 +1,4 @@
-Puccinia blepharidis Henn. SPECIES
-=======
+# Puccinia blepharidis Henn. SPECIES
 
 #### Status
 ACCEPTED

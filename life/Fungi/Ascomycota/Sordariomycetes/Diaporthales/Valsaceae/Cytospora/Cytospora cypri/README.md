@@ -1,5 +1,4 @@
-Cytospora cypri Défago SPECIES
-=======
+# Cytospora cypri Défago SPECIES
 
 #### Status
 ACCEPTED

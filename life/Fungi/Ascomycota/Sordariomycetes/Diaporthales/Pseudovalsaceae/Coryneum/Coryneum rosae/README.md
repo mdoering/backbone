@@ -1,5 +1,4 @@
-Coryneum rosae Sawada SPECIES
-=======
+# Coryneum rosae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria aceris-macrophylli Peck SPECIES
-=======
+# Septoria aceris-macrophylli Peck SPECIES
 
 #### Status
 ACCEPTED

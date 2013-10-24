@@ -1,5 +1,4 @@
-Eutypella buddleiae Sousa da Câmara & A.T. Vasconc. SPECIES
-=======
+# Eutypella buddleiae Sousa da Câmara & A.T. Vasconc. SPECIES
 
 #### Status
 ACCEPTED

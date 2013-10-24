@@ -1,5 +1,4 @@
-Lophiotrema fraxini Ellis & Everh. SPECIES
-=======
+# Lophiotrema fraxini Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

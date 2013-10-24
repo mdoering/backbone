@@ -1,5 +1,4 @@
-Phyllosticta walleniae Gonz. Frag. & Cif. SPECIES
-=======
+# Phyllosticta walleniae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

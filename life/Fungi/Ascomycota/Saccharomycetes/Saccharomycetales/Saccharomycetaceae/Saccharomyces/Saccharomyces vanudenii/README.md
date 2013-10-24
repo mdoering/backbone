@@ -1,5 +1,4 @@
-Saccharomyces vanudenii Van der Walt & E.E. Nel SPECIES
-=======
+# Saccharomyces vanudenii Van der Walt & E.E. Nel SPECIES
 
 #### Status
 ACCEPTED

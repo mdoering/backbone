@@ -1,5 +1,4 @@
-Gerronema daamsii Marxm. & Clémençon SPECIES
-=======
+# Gerronema daamsii Marxm. & Clémençon SPECIES
 
 #### Status
 ACCEPTED

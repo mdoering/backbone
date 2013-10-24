@@ -1,5 +1,4 @@
-Parmelia cyliphora var. cyliphora VARIETY
-=======
+# Parmelia cyliphora (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia cyliphora var. cyliphora
+Parmelia caperata (L.) Ach.
 
 ### Remarks
 null

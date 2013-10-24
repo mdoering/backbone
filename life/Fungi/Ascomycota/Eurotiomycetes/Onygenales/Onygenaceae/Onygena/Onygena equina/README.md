@@ -1,17 +1,16 @@
-Onygena equina var. mougeotii Roum. VARIETY
-=======
+# Onygena equina (Willd.) Pers., 1800 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Observ. mycol. (Lipsiae) 2: 71 (1800)
 
 #### Original name
-Onygena equina var. mougeotii Roum.
+null
 
 ### Remarks
 null

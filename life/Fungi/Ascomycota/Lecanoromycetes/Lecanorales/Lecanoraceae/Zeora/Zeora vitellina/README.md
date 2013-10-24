@@ -1,5 +1,4 @@
-Zeora vitellina (Ehrh.) Flot. SPECIES
-=======
+# Zeora vitellina (Ehrh.) Flot. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Samara paniculata Roxb. SPECIES
-=======
+# Samara paniculata Roxb. SPECIES
 
 #### Status
 ACCEPTED

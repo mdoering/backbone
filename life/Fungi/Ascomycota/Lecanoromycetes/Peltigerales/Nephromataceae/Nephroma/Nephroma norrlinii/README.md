@@ -1,5 +1,4 @@
-Nephroma norrlinii Gyeln. SPECIES
-=======
+# Nephroma norrlinii Gyeln. SPECIES
 
 #### Status
 ACCEPTED

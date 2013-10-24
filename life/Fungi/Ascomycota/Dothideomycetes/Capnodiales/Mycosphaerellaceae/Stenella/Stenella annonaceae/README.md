@@ -1,5 +1,4 @@
-Stenella annonaceae (Henn.) U. Braun SPECIES
-=======
+# Stenella annonaceae (Henn.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

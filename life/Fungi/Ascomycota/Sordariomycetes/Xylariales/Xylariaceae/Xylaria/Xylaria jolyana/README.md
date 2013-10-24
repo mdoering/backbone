@@ -1,5 +1,4 @@
-Xylaria jolyana Bertault SPECIES
-=======
+# Xylaria jolyana Bertault SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Asterina blanda var. blanda Syd. VARIETY
-=======
+# Asterina blanda Syd., 1938 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls mycol. 36(2/3): 171 (1938)
 
 #### Original name
-Asterina blanda var. blanda Syd.
+Asterina blanda Syd., 1938
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cystobacter velatus SPECIES
-=======
+# Cystobacter velatus SPECIES
 
 #### Status
 ACCEPTED

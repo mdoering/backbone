@@ -1,5 +1,4 @@
-Dermocybe chrysolita (Kauffman) Ammirati SPECIES
-=======
+# Dermocybe chrysolita (Kauffman) Ammirati SPECIES
 
 #### Status
 ACCEPTED

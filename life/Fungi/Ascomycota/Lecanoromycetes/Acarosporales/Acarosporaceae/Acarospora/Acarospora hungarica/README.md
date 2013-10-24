@@ -1,5 +1,4 @@
-Acarospora hungarica H. Magn. SPECIES
-=======
+# Acarospora hungarica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

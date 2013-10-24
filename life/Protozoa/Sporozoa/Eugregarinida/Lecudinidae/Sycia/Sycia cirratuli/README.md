@@ -1,5 +1,4 @@
-Sycia cirratuli H. Hoshide, 1958 SPECIES
-=======
+# Sycia cirratuli H. Hoshide, 1958 SPECIES
 
 #### Status
 ACCEPTED

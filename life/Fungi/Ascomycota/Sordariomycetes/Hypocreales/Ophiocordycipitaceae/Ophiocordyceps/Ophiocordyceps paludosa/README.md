@@ -1,5 +1,4 @@
-Ophiocordyceps paludosa Mains SPECIES
-=======
+# Ophiocordyceps paludosa Mains SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bitubulogenerina aperta (Cushman) SPECIES
-=======
+# Bitubulogenerina aperta (Cushman) SPECIES
 
 #### Status
 ACCEPTED

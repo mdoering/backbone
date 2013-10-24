@@ -1,5 +1,4 @@
-Caloplaca trassii I. A. Galanina & S. Y. Kondr. SPECIES
-=======
+# Caloplaca trassii I. A. Galanina & S. Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

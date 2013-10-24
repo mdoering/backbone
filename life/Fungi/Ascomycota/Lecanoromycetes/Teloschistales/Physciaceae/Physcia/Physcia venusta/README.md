@@ -1,5 +1,4 @@
-Physcia venusta (Ach.) Nyl. SPECIES
-=======
+# Physcia venusta (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

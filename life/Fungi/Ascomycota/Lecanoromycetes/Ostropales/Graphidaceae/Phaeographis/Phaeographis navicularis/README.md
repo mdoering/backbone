@@ -1,5 +1,4 @@
-Phaeographis navicularis (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis navicularis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus asininus Cooke & Massee, 1893 SPECIES
-=======
+# Ascobolus asininus Cooke & Massee, 1893 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnocladium pteruliforme Henn. SPECIES
-=======
+# Lachnocladium pteruliforme Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius argillascens A. Pearson SPECIES
-=======
+# Lactarius argillascens A. Pearson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium magnibrachypus Matsush. SPECIES
-=======
+# Sporidesmium magnibrachypus Matsush. SPECIES
 
 #### Status
 ACCEPTED

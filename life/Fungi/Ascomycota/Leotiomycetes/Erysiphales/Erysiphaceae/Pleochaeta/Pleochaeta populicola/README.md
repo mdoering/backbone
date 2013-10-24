@@ -1,5 +1,4 @@
-Pleochaeta populicola X.L. Zhang SPECIES
-=======
+# Pleochaeta populicola X.L. Zhang SPECIES
 
 #### Status
 ACCEPTED

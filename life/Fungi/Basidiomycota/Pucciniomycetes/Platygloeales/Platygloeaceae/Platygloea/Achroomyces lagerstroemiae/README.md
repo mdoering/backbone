@@ -1,5 +1,4 @@
-Achroomyces lagerstroemiae (Coker) Wojewoda SPECIES
-=======
+# Achroomyces lagerstroemiae (Coker) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

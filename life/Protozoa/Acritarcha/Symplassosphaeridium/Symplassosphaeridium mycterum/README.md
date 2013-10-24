@@ -1,5 +1,4 @@
-Symplassosphaeridium mycterum Timofeev, 1960 SPECIES
-=======
+# Symplassosphaeridium mycterum Timofeev, 1960 SPECIES
 
 #### Status
 ACCEPTED

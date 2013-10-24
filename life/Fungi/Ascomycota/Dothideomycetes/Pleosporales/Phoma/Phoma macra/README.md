@@ -1,5 +1,4 @@
-Phoma macra P. Syd. SPECIES
-=======
+# Phoma macra P. Syd. SPECIES
 
 #### Status
 ACCEPTED

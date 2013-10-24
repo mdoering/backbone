@@ -1,5 +1,4 @@
-Bryodiscus hepaticarum Döbbeler & Poelt SPECIES
-=======
+# Bryodiscus hepaticarum Döbbeler & Poelt SPECIES
 
 #### Status
 ACCEPTED

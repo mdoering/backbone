@@ -1,5 +1,4 @@
-Lophium naviculare Schwein. SPECIES
-=======
+# Lophium naviculare Schwein. SPECIES
 
 #### Status
 ACCEPTED

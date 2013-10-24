@@ -1,5 +1,4 @@
-Tranzschelia microcerasi Tranzschel & M.A. Litv. SPECIES
-=======
+# Tranzschelia microcerasi Tranzschel & M.A. Litv. SPECIES
 
 #### Status
 ACCEPTED

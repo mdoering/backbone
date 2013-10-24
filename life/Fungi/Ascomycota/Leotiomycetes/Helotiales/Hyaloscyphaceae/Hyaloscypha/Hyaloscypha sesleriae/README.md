@@ -1,5 +1,4 @@
-Hyaloscypha sesleriae Velen. SPECIES
-=======
+# Hyaloscypha sesleriae Velen. SPECIES
 
 #### Status
 ACCEPTED

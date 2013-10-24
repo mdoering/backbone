@@ -1,5 +1,4 @@
-Cortinarius longicaudus M.M. Moser SPECIES
-=======
+# Cortinarius longicaudus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

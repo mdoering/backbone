@@ -1,5 +1,4 @@
-Alternaria cirsinoxia E.G. Simmons & K. Mort. SPECIES
-=======
+# Alternaria cirsinoxia E.G. Simmons & K. Mort. SPECIES
 
 #### Status
 ACCEPTED

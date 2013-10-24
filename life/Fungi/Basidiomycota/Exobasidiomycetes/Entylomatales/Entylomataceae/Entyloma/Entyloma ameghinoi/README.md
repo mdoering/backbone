@@ -1,5 +1,4 @@
-Entyloma ameghinoi Speg. SPECIES
-=======
+# Entyloma ameghinoi Speg. SPECIES
 
 #### Status
 ACCEPTED

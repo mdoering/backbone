@@ -1,5 +1,4 @@
-Cercospora cacaliae Y.L. Guo & Y. Jiang SPECIES
-=======
+# Cercospora cacaliae Y.L. Guo & Y. Jiang SPECIES
 
 #### Status
 ACCEPTED

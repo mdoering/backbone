@@ -1,5 +1,4 @@
-Stereum infundibuliforme (Hook.) Fr. SPECIES
-=======
+# Stereum infundibuliforme (Hook.) Fr. SPECIES
 
 #### Status
 ACCEPTED

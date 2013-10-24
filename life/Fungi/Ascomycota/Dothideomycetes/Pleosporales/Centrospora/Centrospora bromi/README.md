@@ -1,5 +1,4 @@
-Centrospora bromi (R. Sprague) A.G. Newhall SPECIES
-=======
+# Centrospora bromi (R. Sprague) A.G. Newhall SPECIES
 
 #### Status
 ACCEPTED

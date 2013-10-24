@@ -1,5 +1,4 @@
-Schismatomma atacamense C.W. Dodge SPECIES
-=======
+# Schismatomma atacamense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

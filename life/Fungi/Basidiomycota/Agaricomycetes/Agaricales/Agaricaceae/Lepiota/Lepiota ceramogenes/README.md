@@ -1,5 +1,4 @@
-Lepiota ceramogenes (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota ceramogenes (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

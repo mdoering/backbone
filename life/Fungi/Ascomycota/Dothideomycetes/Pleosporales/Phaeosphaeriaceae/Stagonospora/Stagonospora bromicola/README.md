@@ -1,5 +1,4 @@
-Stagonospora bromicola (Unamuno) E. Castell. & Germano SPECIES
-=======
+# Stagonospora bromicola (Unamuno) E. Castell. & Germano SPECIES
 
 #### Status
 ACCEPTED

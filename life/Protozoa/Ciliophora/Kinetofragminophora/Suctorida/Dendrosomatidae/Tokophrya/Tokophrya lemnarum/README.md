@@ -1,8 +1,7 @@
-Podophrya mollis Kent, 1882 SPECIES
-=======
+# Tokophrya lemnarum (Stein, 1859) Entz, 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

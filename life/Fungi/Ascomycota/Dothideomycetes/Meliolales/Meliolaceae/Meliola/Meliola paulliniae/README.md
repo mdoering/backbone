@@ -1,17 +1,16 @@
-Meliola paulliniae var. dentata F. Stevens VARIETY
-=======
+# Meliola paulliniae F. Stevens, 1916 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 26(3/4): 197 (1928)
+Illinois Biol. Monogr. (Urbana) 2(4): 513 (1916)
 
 #### Original name
-Meliola paulliniae var. dentata F. Stevens
+Meliola paulliniae F. Stevens, 1916
 
 ### Remarks
 null

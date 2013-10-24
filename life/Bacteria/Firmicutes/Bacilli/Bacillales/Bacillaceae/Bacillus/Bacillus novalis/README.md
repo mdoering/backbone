@@ -1,5 +1,4 @@
-Bacillus novalis Heyrman et al., 2004 SPECIES
-=======
+# Bacillus novalis Heyrman et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

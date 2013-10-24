@@ -1,5 +1,4 @@
-Phlyctochytrium indicum Karling, 1964 SPECIES
-=======
+# Phlyctochytrium indicum Karling, 1964 SPECIES
 
 #### Status
 ACCEPTED

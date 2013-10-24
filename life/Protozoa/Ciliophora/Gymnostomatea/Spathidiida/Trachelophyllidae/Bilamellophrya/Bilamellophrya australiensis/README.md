@@ -1,5 +1,4 @@
-Bilamellophrya australiensis Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Bilamellophrya australiensis Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

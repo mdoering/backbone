@@ -1,5 +1,4 @@
-Lecidea pseudosarcogynoides SPECIES
-=======
+# Lecidea pseudosarcogynoides SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micarea minima Poelt & Döbbeler SPECIES
-=======
+# Micarea minima Poelt & Döbbeler SPECIES
 
 #### Status
 ACCEPTED

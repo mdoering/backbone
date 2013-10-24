@@ -1,5 +1,4 @@
-Sphaeria schistostroma Duby SPECIES
-=======
+# Sphaeria schistostroma Duby SPECIES
 
 #### Status
 ACCEPTED

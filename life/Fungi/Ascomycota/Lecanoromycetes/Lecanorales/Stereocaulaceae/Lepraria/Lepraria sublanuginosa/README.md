@@ -1,5 +1,4 @@
-Lepraria sublanuginosa (B. de Lesd.) SPECIES
-=======
+# Lepraria sublanuginosa (B. de Lesd.) SPECIES
 
 #### Status
 ACCEPTED

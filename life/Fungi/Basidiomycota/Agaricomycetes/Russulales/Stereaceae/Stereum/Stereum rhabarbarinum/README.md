@@ -1,5 +1,4 @@
-Stereum rhabarbarinum Wakef. SPECIES
-=======
+# Stereum rhabarbarinum Wakef. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus rugulosoreticulatus Hongo SPECIES
-=======
+# Tylopilus rugulosoreticulatus Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Niptera castanea (Sacc.) Sacc. SPECIES
-=======
+# Niptera castanea (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

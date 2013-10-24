@@ -1,17 +1,16 @@
-Peniophora erucaeformis G. Cunn. SPECIES
-=======
+# Candelabrochaete eruciformis (G. Cunn.) Stalpers & P.K. Buchanan, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 29(3): 334 (1991)
 
 #### Original name
-Peniophora erucaeformis G. Cunn.
+Peniophora eruciformis G. Cunn., 1955
 
 ### Remarks
 null

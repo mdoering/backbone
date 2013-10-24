@@ -1,5 +1,4 @@
-Cortinarius microcyclus Fr. SPECIES
-=======
+# Cortinarius microcyclus Fr. SPECIES
 
 #### Status
 ACCEPTED

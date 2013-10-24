@@ -1,5 +1,4 @@
-Uromyces fraternus Lasch SPECIES
-=======
+# Uromyces fraternus Lasch SPECIES
 
 #### Status
 ACCEPTED

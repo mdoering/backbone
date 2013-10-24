@@ -1,17 +1,16 @@
-Puccinia digitaria-biformis P.B. Chavan & Hosag. SPECIES
-=======
+# Puccinia digitariae-biformis P.B. Chavan & Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 5(2): 448 (1984)
 
 #### Original name
-Puccinia digitaria-biformis P.B. Chavan & Hosag.
+Puccinia digitariae-biformis P.B. Chavan & Hosag.
 
 ### Remarks
 null

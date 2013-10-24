@@ -1,5 +1,4 @@
-Lecanoromyces GENUS
-=======
+# Lecanoromyces GENUS
 
 #### Status
 ACCEPTED

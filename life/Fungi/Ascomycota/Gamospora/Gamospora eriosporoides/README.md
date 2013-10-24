@@ -1,5 +1,4 @@
-Gamospora eriosporoides Sacc. & Berl. SPECIES
-=======
+# Gamospora eriosporoides Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

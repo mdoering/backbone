@@ -1,5 +1,4 @@
-Mycosphaerella schizandrae Mitrosh. SPECIES
-=======
+# Mycosphaerella schizandrae Mitrosh. SPECIES
 
 #### Status
 ACCEPTED

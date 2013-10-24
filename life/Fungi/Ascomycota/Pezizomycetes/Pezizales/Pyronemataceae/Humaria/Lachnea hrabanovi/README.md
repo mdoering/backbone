@@ -1,5 +1,4 @@
-Lachnea hrabanovi Velen. SPECIES
-=======
+# Lachnea hrabanovi Velen. SPECIES
 
 #### Status
 ACCEPTED

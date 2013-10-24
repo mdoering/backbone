@@ -1,5 +1,4 @@
-Collema cristatellum Tuck. SPECIES
-=======
+# Collema cristatellum Tuck. SPECIES
 
 #### Status
 ACCEPTED

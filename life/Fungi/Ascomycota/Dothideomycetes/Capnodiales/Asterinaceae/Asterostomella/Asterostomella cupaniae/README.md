@@ -1,5 +1,4 @@
-Asterostomella cupaniae Bat. & Cif. SPECIES
-=======
+# Asterostomella cupaniae Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

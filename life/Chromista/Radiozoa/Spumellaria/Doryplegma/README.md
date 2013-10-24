@@ -1,5 +1,4 @@
-Doryplegma Hinde, 1890 GENUS
-=======
+# Doryplegma Hinde, 1890 GENUS
 
 #### Status
 ACCEPTED

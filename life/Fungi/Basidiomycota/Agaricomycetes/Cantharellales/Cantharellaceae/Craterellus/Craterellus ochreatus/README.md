@@ -1,5 +1,4 @@
-Craterellus ochreatus Pers. SPECIES
-=======
+# Craterellus ochreatus Pers. SPECIES
 
 #### Status
 ACCEPTED

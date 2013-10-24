@@ -1,5 +1,4 @@
-Strigula nitidula Mont. SPECIES
-=======
+# Strigula nitidula Mont. SPECIES
 
 #### Status
 ACCEPTED

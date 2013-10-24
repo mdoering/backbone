@@ -1,5 +1,4 @@
-Vermicularia stachydis Tracy & Earle SPECIES
-=======
+# Vermicularia stachydis Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

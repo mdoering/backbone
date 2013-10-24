@@ -1,5 +1,4 @@
-Lophiotrema rickii Theiss. SPECIES
-=======
+# Lophiotrema rickii Theiss. SPECIES
 
 #### Status
 ACCEPTED

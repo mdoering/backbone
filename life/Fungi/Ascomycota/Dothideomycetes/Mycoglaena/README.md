@@ -1,17 +1,16 @@
-Sampaioa Gonz. Frag. GENUS
-=======
+# Mycoglaena Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bolm Soc. broteriana, sér. 2 2: 32 (1924)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 1210 (1909)
 
 #### Original name
-Sampaioa Gonz. Frag.
+Mycoglaena Höhn.
 
 ### Remarks
 null

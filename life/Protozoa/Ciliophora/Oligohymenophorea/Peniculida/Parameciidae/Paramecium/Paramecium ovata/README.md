@@ -1,5 +1,4 @@
-Paramecium ovata SPECIES
-=======
+# Paramecium ovata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favolus bengala Bose SPECIES
-=======
+# Favolus bengala Bose SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhinotrichum muricatum Ellis & Everh. SPECIES
-=======
+# Rhinotrichum muricatum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

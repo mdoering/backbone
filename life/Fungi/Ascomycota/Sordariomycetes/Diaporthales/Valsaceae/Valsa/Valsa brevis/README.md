@@ -1,5 +1,4 @@
-Valsa brevis Peck SPECIES
-=======
+# Valsa brevis Peck SPECIES
 
 #### Status
 ACCEPTED

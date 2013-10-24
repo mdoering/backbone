@@ -1,5 +1,4 @@
-Vorticella campanulata Sramek-Husek, 1948 SPECIES
-=======
+# Vorticella campanulata Sramek-Husek, 1948 SPECIES
 
 #### Status
 ACCEPTED

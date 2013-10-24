@@ -1,5 +1,4 @@
-Obelidium hamatum Sparrow, 1937 SPECIES
-=======
+# Obelidium hamatum Sparrow, 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenophora gnaphaliana (Cooke & Ellis) Rehm SPECIES
-=======
+# Pyrenophora gnaphaliana (Cooke & Ellis) Rehm SPECIES
 
 #### Status
 ACCEPTED

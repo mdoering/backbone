@@ -1,5 +1,4 @@
-Rhabdospora lantanoides (Peck) Jacz. SPECIES
-=======
+# Rhabdospora lantanoides (Peck) Jacz. SPECIES
 
 #### Status
 ACCEPTED

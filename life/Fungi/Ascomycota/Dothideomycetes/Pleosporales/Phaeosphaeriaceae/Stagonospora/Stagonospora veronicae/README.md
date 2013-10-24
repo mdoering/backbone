@@ -1,5 +1,4 @@
-Stagonospora veronicae Hollós SPECIES
-=======
+# Stagonospora veronicae Hollós SPECIES
 
 #### Status
 ACCEPTED

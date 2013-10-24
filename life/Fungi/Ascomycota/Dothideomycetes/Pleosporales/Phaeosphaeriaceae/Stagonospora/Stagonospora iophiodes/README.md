@@ -1,5 +1,4 @@
-Stagonospora iophiodes Sacc. SPECIES
-=======
+# Stagonospora iophiodes Sacc. SPECIES
 
 #### Status
 ACCEPTED

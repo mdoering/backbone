@@ -1,5 +1,4 @@
-Entyloma magocsyanum Bubák SPECIES
-=======
+# Entyloma magocsyanum Bubák SPECIES
 
 #### Status
 ACCEPTED

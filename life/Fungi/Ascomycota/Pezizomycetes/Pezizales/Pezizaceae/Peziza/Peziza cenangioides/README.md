@@ -1,5 +1,4 @@
-Peziza cenangioides Ellis SPECIES
-=======
+# Peziza cenangioides Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria depressa (Fuckel) Sacc. SPECIES
-=======
+# Metasphaeria depressa (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium neottopteridis Yun L. Liu & Yong H. He, 2000 SPECIES
-=======
+# Cladosporium neottopteridis Yun L. Liu & Yong H. He, 2000 SPECIES
 
 #### Status
 ACCEPTED

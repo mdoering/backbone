@@ -1,5 +1,4 @@
-Xanthoparmelia imbricata Hale SPECIES
-=======
+# Xanthoparmelia imbricata Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammobaculites rostratus Heron-Allen & Earland, 1929 SPECIES
-=======
+# Ammobaculites rostratus Heron-Allen & Earland, 1929 SPECIES
 
 #### Status
 ACCEPTED

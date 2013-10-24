@@ -1,8 +1,7 @@
-Thecaphora globuligera Berk. & Broome, 1880 SPECIES
-=======
+# Tolyposporium globuligerum (Berk. & Broome) Ricker, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

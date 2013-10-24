@@ -1,5 +1,4 @@
-Propionibacterium australiense Bernard et al., 2002 SPECIES
-=======
+# Propionibacterium australiense Bernard et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

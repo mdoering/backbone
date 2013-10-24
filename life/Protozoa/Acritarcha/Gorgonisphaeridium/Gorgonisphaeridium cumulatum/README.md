@@ -1,5 +1,4 @@
-Gorgonisphaeridium cumulatum Playford, 1977 SPECIES
-=======
+# Gorgonisphaeridium cumulatum Playford, 1977 SPECIES
 
 #### Status
 ACCEPTED

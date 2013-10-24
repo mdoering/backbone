@@ -1,5 +1,4 @@
-Floromyces Vánky, M. Lutz & R. Bauer GENUS
-=======
+# Floromyces Vánky, M. Lutz & R. Bauer GENUS
 
 #### Status
 ACCEPTED

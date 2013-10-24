@@ -1,5 +1,4 @@
-Amanita viscidolutea Menolli, Capelari & Baseia SPECIES
-=======
+# Amanita viscidolutea Menolli, Capelari & Baseia SPECIES
 
 #### Status
 ACCEPTED

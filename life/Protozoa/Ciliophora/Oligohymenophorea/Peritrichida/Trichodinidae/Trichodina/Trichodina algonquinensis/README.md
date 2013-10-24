@@ -1,5 +1,4 @@
-Trichodina algonquinensis SPECIES
-=======
+# Trichodina algonquinensis SPECIES
 
 #### Status
 ACCEPTED

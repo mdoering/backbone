@@ -1,5 +1,4 @@
-Hormomitaria GENUS
-=======
+# Hormomitaria GENUS
 
 #### Status
 ACCEPTED

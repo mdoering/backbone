@@ -1,5 +1,4 @@
-Sphaeria seminuda De Not. SPECIES
-=======
+# Sphaeria seminuda De Not. SPECIES
 
 #### Status
 ACCEPTED

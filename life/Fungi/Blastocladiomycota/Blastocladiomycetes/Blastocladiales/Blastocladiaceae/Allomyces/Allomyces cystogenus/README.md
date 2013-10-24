@@ -1,5 +1,4 @@
-Allomyces cystogenus R. Emers. SPECIES
-=======
+# Allomyces cystogenus R. Emers. SPECIES
 
 #### Status
 ACCEPTED

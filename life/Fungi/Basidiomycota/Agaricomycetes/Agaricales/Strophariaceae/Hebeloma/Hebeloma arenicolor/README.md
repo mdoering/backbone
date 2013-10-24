@@ -1,5 +1,4 @@
-Hebeloma arenicolor (Cooke & Massee) Sacc. SPECIES
-=======
+# Hebeloma arenicolor (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

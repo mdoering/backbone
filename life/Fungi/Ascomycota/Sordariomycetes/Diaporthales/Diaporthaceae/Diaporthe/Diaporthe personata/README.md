@@ -1,5 +1,4 @@
-Diaporthe personata (Cooke & Ellis) Sacc. SPECIES
-=======
+# Diaporthe personata (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globorotalia fimbriata (Brady) SPECIES
-=======
+# Globorotalia fimbriata (Brady) SPECIES
 
 #### Status
 ACCEPTED

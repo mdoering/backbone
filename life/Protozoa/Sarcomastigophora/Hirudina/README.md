@@ -1,5 +1,4 @@
-Hirudina Vialov, 1966 GENUS
-=======
+# Hirudina Vialov, 1966 GENUS
 
 #### Status
 ACCEPTED

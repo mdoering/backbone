@@ -1,5 +1,4 @@
-Cenomyce scabrosa Pers. SPECIES
-=======
+# Cenomyce scabrosa Pers. SPECIES
 
 #### Status
 ACCEPTED

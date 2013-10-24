@@ -1,5 +1,4 @@
-Hygrophorus elegantulus Peck SPECIES
-=======
+# Hygrophorus elegantulus Peck SPECIES
 
 #### Status
 ACCEPTED

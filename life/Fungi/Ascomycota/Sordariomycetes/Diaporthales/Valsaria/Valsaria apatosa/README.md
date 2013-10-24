@@ -1,5 +1,4 @@
-Valsaria apatosa (Cooke & Ellis) Sacc. SPECIES
-=======
+# Valsaria apatosa (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

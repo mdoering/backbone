@@ -1,5 +1,4 @@
-Macrophoma bacillaris (Sacc.) Berl. & Voglino SPECIES
-=======
+# Macrophoma bacillaris (Sacc.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

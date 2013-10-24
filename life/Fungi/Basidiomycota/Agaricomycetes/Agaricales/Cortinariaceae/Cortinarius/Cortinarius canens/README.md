@@ -1,5 +1,4 @@
-Cortinarius canens Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius canens Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

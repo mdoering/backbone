@@ -1,5 +1,4 @@
-Lembosia micrasa Syd. SPECIES
-=======
+# Lembosia micrasa Syd. SPECIES
 
 #### Status
 ACCEPTED

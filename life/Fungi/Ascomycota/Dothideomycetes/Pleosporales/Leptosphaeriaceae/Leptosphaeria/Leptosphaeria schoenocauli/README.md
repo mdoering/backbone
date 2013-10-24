@@ -1,5 +1,4 @@
-Leptosphaeria schoenocauli Syd. SPECIES
-=======
+# Leptosphaeria schoenocauli Syd. SPECIES
 
 #### Status
 ACCEPTED

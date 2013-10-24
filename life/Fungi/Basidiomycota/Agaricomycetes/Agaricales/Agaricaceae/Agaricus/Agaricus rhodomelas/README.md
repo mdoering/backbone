@@ -1,5 +1,4 @@
-Agaricus rhodomelas Lasch SPECIES
-=======
+# Agaricus rhodomelas Lasch SPECIES
 
 #### Status
 ACCEPTED

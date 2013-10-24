@@ -1,5 +1,4 @@
-Cercospora puderi B.H. Davis SPECIES
-=======
+# Cercospora puderi B.H. Davis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palaeostomocystis Deflandre, 1935 GENUS
-=======
+# Palaeostomocystis Deflandre, 1935 GENUS
 
 #### Status
 ACCEPTED

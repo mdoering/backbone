@@ -1,5 +1,4 @@
-Euplotes iliffei SPECIES
-=======
+# Euplotes iliffei SPECIES
 
 #### Status
 ACCEPTED

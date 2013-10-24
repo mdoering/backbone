@@ -1,5 +1,4 @@
-Xerocomus coniferarum Singer SPECIES
-=======
+# Xerocomus coniferarum Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella lacinulata Müller, 1786 SPECIES
-=======
+# Vorticella lacinulata Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

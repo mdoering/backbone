@@ -1,5 +1,4 @@
-Calothyriolum brasilicum Bat. & H. Maia SPECIES
-=======
+# Calothyriolum brasilicum Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

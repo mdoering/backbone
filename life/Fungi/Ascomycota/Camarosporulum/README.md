@@ -1,5 +1,4 @@
-Camarosporulum Tassi GENUS
-=======
+# Camarosporulum Tassi GENUS
 
 #### Status
 ACCEPTED

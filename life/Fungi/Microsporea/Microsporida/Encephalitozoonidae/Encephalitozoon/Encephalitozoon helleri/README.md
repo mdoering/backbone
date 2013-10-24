@@ -1,5 +1,4 @@
-Encephalitozoon helleri SPECIES
-=======
+# Encephalitozoon helleri SPECIES
 
 #### Status
 ACCEPTED

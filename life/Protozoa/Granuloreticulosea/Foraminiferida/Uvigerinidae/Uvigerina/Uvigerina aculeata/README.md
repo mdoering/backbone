@@ -1,8 +1,7 @@
-Euuvigerina aculeata (d'Orbigny, 1846) SPECIES
-=======
+# Uvigerina aculeata d'Orbigny, 1846 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

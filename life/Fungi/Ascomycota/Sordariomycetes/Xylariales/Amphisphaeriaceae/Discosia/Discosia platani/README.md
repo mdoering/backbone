@@ -1,5 +1,4 @@
-Discosia platani G.H. Otth SPECIES
-=======
+# Discosia platani G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

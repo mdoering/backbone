@@ -1,5 +1,4 @@
-Dicaeoma mutisiae (Lagerh.) Kuntze SPECIES
-=======
+# Dicaeoma mutisiae (Lagerh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

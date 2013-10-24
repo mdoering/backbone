@@ -1,5 +1,4 @@
-Hypocrea chlorina Cooke SPECIES
-=======
+# Hypocrea chlorina Cooke SPECIES
 
 #### Status
 ACCEPTED

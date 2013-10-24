@@ -1,5 +1,4 @@
-Debaryomyces manchuricus H. Nagan. SPECIES
-=======
+# Debaryomyces manchuricus H. Nagan. SPECIES
 
 #### Status
 ACCEPTED

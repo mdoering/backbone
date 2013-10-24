@@ -1,5 +1,4 @@
-Myriactula saromaensis Yamada & Iwamoto SPECIES
-=======
+# Myriactula saromaensis Yamada & Iwamoto SPECIES
 
 #### Status
 ACCEPTED

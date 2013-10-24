@@ -1,5 +1,4 @@
-Puccinia bessei Cruchet SPECIES
-=======
+# Puccinia bessei Cruchet SPECIES
 
 #### Status
 ACCEPTED

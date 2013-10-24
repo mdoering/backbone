@@ -1,5 +1,4 @@
-Lecidea cavatula Nyl. SPECIES
-=======
+# Lecidea cavatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus esculentus var. esculentus With. VARIETY
-=======
+# Boletus esculentus Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bot. arr. veg. Gr. Brit. 2: 769 (1776)
 
 #### Original name
-Boletus esculentus var. esculentus With.
+Boletus esculentus Pers.
 
 ### Remarks
 null

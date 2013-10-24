@@ -1,5 +1,4 @@
-Mesophellia clelandii Trappe, Castellano & Malajczuk, 1996 SPECIES
-=======
+# Mesophellia clelandii Trappe, Castellano & Malajczuk, 1996 SPECIES
 
 #### Status
 ACCEPTED

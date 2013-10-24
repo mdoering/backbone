@@ -1,5 +1,4 @@
-Androsaceus vulgaris P. Karst. SPECIES
-=======
+# Androsaceus vulgaris P. Karst. SPECIES
 
 #### Status
 ACCEPTED

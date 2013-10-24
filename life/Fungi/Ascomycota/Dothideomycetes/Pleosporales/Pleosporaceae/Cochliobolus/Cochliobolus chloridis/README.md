@@ -1,5 +1,4 @@
-Cochliobolus chloridis Alcorn, 1978 SPECIES
-=======
+# Cochliobolus chloridis Alcorn, 1978 SPECIES
 
 #### Status
 ACCEPTED

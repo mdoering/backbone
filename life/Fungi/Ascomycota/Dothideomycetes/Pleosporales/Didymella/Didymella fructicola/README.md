@@ -1,5 +1,4 @@
-Didymella fructicola (Naumov) Sacc. SPECIES
-=======
+# Didymella fructicola (Naumov) Sacc. SPECIES
 
 #### Status
 ACCEPTED

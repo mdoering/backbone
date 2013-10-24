@@ -1,5 +1,4 @@
-Puccinia taraxaci-serotini Picb. SPECIES
-=======
+# Puccinia taraxaci-serotini Picb. SPECIES
 
 #### Status
 ACCEPTED

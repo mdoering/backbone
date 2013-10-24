@@ -1,5 +1,4 @@
-Mainsia urediniformis (Müll. Hal.) H.S. Jacks. SPECIES
-=======
+# Mainsia urediniformis (Müll. Hal.) H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

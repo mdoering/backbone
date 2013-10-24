@@ -1,5 +1,4 @@
-Lepra isidioides Delastre SPECIES
-=======
+# Lepra isidioides Delastre SPECIES
 
 #### Status
 ACCEPTED

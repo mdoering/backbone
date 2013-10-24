@@ -1,5 +1,4 @@
-Phyllachora laurinearum Racib., 1900 SPECIES
-=======
+# Phyllachora laurinearum Racib., 1900 SPECIES
 
 #### Status
 DOUBTFUL

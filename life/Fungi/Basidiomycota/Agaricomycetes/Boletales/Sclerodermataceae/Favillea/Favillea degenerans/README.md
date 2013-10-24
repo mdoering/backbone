@@ -1,5 +1,4 @@
-Favillea degenerans (Fr.) Lloyd SPECIES
-=======
+# Favillea degenerans (Fr.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

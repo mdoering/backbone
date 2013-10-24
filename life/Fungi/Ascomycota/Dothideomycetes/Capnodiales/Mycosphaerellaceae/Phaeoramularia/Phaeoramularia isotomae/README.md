@@ -1,5 +1,4 @@
-Phaeoramularia isotomae Deighton SPECIES
-=======
+# Phaeoramularia isotomae Deighton SPECIES
 
 #### Status
 ACCEPTED

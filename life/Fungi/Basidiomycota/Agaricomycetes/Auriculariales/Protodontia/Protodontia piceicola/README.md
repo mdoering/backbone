@@ -1,5 +1,4 @@
-Protodontia piceicola (Kühner ex Bourdot) G.W. Martin SPECIES
-=======
+# Protodontia piceicola (Kühner ex Bourdot) G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

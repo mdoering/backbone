@@ -1,5 +1,4 @@
-Marasmius alliacioides Henn. SPECIES
-=======
+# Marasmius alliacioides Henn. SPECIES
 
 #### Status
 ACCEPTED

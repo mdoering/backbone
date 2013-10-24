@@ -1,5 +1,4 @@
-Psora mexicana B. de Lesd. SPECIES
-=======
+# Psora mexicana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

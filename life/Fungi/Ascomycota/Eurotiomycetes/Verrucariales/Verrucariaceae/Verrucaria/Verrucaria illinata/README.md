@@ -1,5 +1,4 @@
-Verrucaria illinata (Körb.) Nyl. SPECIES
-=======
+# Verrucaria illinata (Körb.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

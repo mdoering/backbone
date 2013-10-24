@@ -1,5 +1,4 @@
-Diplodia stachydis Politis SPECIES
-=======
+# Diplodia stachydis Politis SPECIES
 
 #### Status
 ACCEPTED

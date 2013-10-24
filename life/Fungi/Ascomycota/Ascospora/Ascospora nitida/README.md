@@ -1,5 +1,4 @@
-Ascospora nitida Lév. SPECIES
-=======
+# Ascospora nitida Lév. SPECIES
 
 #### Status
 ACCEPTED

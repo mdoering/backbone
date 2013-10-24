@@ -1,5 +1,4 @@
-Verrucaria epicarphinea Nyl. SPECIES
-=======
+# Verrucaria epicarphinea Nyl. SPECIES
 
 #### Status
 ACCEPTED

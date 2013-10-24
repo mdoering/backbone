@@ -1,8 +1,7 @@
-Talaromyces intermedius (Apinis) Stolk & Samson, 1972 SPECIES
-=======
+# Penicillium intermedium Stolk & Samson, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Stud. Mycol. 2: 21 (1972)
 
 #### Original name
-Arachniotus intermedius Apinis, 1964
+Penicillium intermedium Stolk & Samson, 1972
 
 ### Remarks
 null

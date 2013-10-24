@@ -1,5 +1,4 @@
-Schismatomma dirinellum (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma dirinellum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

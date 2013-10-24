@@ -1,5 +1,4 @@
-Talpapellis Alstrup & M. Cole GENUS
-=======
+# Talpapellis Alstrup & M. Cole GENUS
 
 #### Status
 ACCEPTED

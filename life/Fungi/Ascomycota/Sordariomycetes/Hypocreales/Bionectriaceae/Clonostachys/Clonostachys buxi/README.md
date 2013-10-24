@@ -1,14 +1,13 @@
-Fusisporium buxi (J.C. Schmidt ex Link) Fr., 1832 SPECIES
-=======
+# Clonostachys buxi (J.C. Schmidt ex Link) Schroers, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(2): 447 (1832)
+Stud. Mycol. 46: 203 (2001)
 
 #### Original name
 Fusidium buxi J.C. Schmidt, 1817

@@ -1,8 +1,7 @@
-Sargassopsis zanardinii (Schiffner) M. Nizamuddin, S. Hiscock, L. Barratt & R.F.G. Ormond SPECIES
-=======
+# Nizamuddinia zanardinii (Schiffner) P.C. Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

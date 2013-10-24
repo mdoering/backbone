@@ -1,5 +1,4 @@
-Cryptococcus rivoltae Fermi & Aruch SPECIES
-=======
+# Cryptococcus rivoltae Fermi & Aruch SPECIES
 
 #### Status
 ACCEPTED

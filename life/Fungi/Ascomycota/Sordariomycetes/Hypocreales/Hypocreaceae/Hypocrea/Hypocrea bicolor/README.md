@@ -1,5 +1,4 @@
-Hypocrea bicolor Ellis & Everh. SPECIES
-=======
+# Hypocrea bicolor Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

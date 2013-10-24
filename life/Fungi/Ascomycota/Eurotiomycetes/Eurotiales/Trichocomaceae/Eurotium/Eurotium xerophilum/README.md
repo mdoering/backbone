@@ -1,5 +1,4 @@
-Eurotium xerophilum Samson & Mouch., 1975 SPECIES
-=======
+# Eurotium xerophilum Samson & Mouch., 1975 SPECIES
 
 #### Status
 ACCEPTED

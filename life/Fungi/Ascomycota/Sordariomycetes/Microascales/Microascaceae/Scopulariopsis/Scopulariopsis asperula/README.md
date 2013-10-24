@@ -1,14 +1,13 @@
-Torula asperula Sacc., 1882 SPECIES
-=======
+# Scopulariopsis asperula (Sacc.) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 8): 560 (1882)
+Can. J. Bot. 36: 803 (1958)
 
 #### Original name
 Torula asperula Sacc., 1882

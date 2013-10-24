@@ -1,5 +1,4 @@
-Rigidoporopsis GENUS
-=======
+# Rigidoporopsis GENUS
 
 #### Status
 ACCEPTED

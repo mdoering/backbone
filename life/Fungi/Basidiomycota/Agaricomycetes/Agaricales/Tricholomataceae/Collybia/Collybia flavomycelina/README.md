@@ -1,5 +1,4 @@
-Collybia flavomycelina Singer SPECIES
-=======
+# Collybia flavomycelina Singer SPECIES
 
 #### Status
 ACCEPTED

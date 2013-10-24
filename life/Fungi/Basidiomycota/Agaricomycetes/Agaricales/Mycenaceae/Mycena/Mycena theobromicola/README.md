@@ -1,5 +1,4 @@
-Mycena theobromicola (Murrill) Dennis SPECIES
-=======
+# Mycena theobromicola (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

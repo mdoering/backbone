@@ -1,5 +1,4 @@
-Psathyrella vinescens A.H. Sm. SPECIES
-=======
+# Psathyrella vinescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

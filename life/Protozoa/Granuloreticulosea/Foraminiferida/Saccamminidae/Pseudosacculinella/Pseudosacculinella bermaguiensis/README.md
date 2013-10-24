@@ -1,5 +1,4 @@
-Pseudosacculinella bermaguiensis Yassini & Jones, 1995 SPECIES
-=======
+# Pseudosacculinella bermaguiensis Yassini & Jones, 1995 SPECIES
 
 #### Status
 ACCEPTED

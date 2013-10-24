@@ -1,5 +1,4 @@
-Leptosporella ambiens Rehm SPECIES
-=======
+# Leptosporella ambiens Rehm SPECIES
 
 #### Status
 ACCEPTED

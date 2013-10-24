@@ -1,5 +1,4 @@
-Hygrocybe swanetica Singer SPECIES
-=======
+# Hygrocybe swanetica Singer SPECIES
 
 #### Status
 ACCEPTED

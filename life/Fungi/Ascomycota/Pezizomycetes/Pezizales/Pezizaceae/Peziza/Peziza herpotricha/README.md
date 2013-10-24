@@ -1,5 +1,4 @@
-Peziza herpotricha Berk. SPECIES
-=======
+# Peziza herpotricha Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosarcus spodoleucus (Fr.) Kuntze SPECIES
-=======
+# Dendrosarcus spodoleucus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

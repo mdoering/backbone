@@ -1,5 +1,4 @@
-Sordaria clavariae Ces. & De Not. SPECIES
-=======
+# Sordaria clavariae Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

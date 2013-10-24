@@ -1,5 +1,4 @@
-Aspergillopsis fumosus Sopp SPECIES
-=======
+# Aspergillopsis fumosus Sopp SPECIES
 
 #### Status
 ACCEPTED

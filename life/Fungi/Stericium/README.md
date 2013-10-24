@@ -1,5 +1,4 @@
-Stericium Raf. GENUS
-=======
+# Stericium Raf. GENUS
 
 #### Status
 ACCEPTED

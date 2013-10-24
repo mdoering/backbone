@@ -1,5 +1,4 @@
-Colletotrichum carica Stevens & Hall SPECIES
-=======
+# Colletotrichum carica Stevens & Hall SPECIES
 
 #### Status
 ACCEPTED

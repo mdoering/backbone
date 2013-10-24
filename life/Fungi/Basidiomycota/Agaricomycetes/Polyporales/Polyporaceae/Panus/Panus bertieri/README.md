@@ -1,5 +1,4 @@
-Panus bertieri (Fr.) SPECIES
-=======
+# Panus bertieri (Fr.) SPECIES
 
 #### Status
 ACCEPTED

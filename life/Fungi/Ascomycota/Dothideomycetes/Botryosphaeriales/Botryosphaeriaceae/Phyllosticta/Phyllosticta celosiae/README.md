@@ -1,5 +1,4 @@
-Phyllosticta celosiae Thüm. SPECIES
-=======
+# Phyllosticta celosiae Thüm. SPECIES
 
 #### Status
 ACCEPTED

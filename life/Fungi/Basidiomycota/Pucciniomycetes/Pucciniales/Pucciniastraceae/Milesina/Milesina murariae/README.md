@@ -1,8 +1,7 @@
-Milesia murariae (Magnus) Faull, 1932 SPECIES
-=======
+# Milesina murariae Syd. & P. Syd., 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Contr. Arnold Arbor. 2: 34 (1932)
 
 #### Original name
-Uredo murariae Magnus, 1902
+Milesina murariae Syd. & P. Syd., 1932
 
 ### Remarks
 null

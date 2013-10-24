@@ -1,5 +1,4 @@
-Rhizopogon hypothallosus Velen. SPECIES
-=======
+# Rhizopogon hypothallosus Velen. SPECIES
 
 #### Status
 ACCEPTED

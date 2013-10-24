@@ -1,5 +1,4 @@
-Meliola batangasensis Hansf., 1957 SPECIES
-=======
+# Meliola batangasensis Hansf., 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistylis stevcici SPECIES
-=======
+# Epistylis stevcici SPECIES
 
 #### Status
 ACCEPTED

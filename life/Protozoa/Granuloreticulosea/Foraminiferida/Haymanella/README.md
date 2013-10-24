@@ -1,5 +1,4 @@
-Haymanella Sirel, 1999 GENUS
-=======
+# Haymanella Sirel, 1999 GENUS
 
 #### Status
 ACCEPTED

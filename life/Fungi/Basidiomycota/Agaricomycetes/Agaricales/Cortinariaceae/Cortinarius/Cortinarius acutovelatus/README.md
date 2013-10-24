@@ -1,5 +1,4 @@
-Cortinarius acutovelatus Rob. Henry SPECIES
-=======
+# Cortinarius acutovelatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

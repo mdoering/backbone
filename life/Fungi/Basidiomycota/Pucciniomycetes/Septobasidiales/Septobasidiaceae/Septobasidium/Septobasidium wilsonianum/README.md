@@ -1,5 +1,4 @@
-Septobasidium wilsonianum L.D. Gómez & Kisim.-Hor. SPECIES
-=======
+# Septobasidium wilsonianum L.D. Gómez & Kisim.-Hor. SPECIES
 
 #### Status
 ACCEPTED

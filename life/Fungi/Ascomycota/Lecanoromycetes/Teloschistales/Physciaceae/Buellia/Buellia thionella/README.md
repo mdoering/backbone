@@ -1,5 +1,4 @@
-Buellia thionella Norman SPECIES
-=======
+# Buellia thionella Norman SPECIES
 
 #### Status
 ACCEPTED

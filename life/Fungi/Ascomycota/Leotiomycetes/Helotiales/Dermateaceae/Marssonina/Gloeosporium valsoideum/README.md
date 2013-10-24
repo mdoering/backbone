@@ -1,5 +1,4 @@
-Gloeosporium valsoideum (Sacc.) Sacc. SPECIES
-=======
+# Gloeosporium valsoideum (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

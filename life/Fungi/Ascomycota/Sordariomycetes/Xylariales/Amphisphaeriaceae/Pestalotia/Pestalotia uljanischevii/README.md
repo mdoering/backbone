@@ -1,5 +1,4 @@
-Pestalotia uljanischevii T.M. Achundov SPECIES
-=======
+# Pestalotia uljanischevii T.M. Achundov SPECIES
 
 #### Status
 ACCEPTED

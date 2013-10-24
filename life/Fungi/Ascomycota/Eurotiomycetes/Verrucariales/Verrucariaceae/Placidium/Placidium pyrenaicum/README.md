@@ -1,5 +1,4 @@
-Placidium pyrenaicum (Breuss & Etayo) Breuss SPECIES
-=======
+# Placidium pyrenaicum (Breuss & Etayo) Breuss SPECIES
 
 #### Status
 ACCEPTED

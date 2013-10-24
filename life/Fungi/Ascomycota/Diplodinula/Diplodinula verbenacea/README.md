@@ -1,5 +1,4 @@
-Diplodinula verbenacea (Har. & Briard) Tassi SPECIES
-=======
+# Diplodinula verbenacea (Har. & Briard) Tassi SPECIES
 
 #### Status
 ACCEPTED

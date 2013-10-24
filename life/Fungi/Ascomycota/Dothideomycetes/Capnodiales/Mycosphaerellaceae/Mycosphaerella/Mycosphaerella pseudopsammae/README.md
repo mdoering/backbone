@@ -1,5 +1,4 @@
-Mycosphaerella pseudopsammae Munk SPECIES
-=======
+# Mycosphaerella pseudopsammae Munk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria violae-patrinii H.D. Shin & Sameva SPECIES
-=======
+# Septoria violae-patrinii H.D. Shin & Sameva SPECIES
 
 #### Status
 ACCEPTED

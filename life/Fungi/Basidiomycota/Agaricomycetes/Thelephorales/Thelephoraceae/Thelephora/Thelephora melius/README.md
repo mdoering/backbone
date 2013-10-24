@@ -1,5 +1,4 @@
-Thelephora melius Pers. SPECIES
-=======
+# Thelephora melius Pers. SPECIES
 
 #### Status
 ACCEPTED

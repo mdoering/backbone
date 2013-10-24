@@ -1,5 +1,4 @@
-Mycena californiensis Berk. & M.A. Curtis SPECIES
-=======
+# Mycena californiensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catapyrenium Flotow, 1850 GENUS
-=======
+# Catapyrenium Flotow, 1850 GENUS
 
 #### Status
 ACCEPTED

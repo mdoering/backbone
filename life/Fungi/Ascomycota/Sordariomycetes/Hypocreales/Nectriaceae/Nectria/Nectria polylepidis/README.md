@@ -1,5 +1,4 @@
-Nectria polylepidis Brayford & Samuels SPECIES
-=======
+# Nectria polylepidis Brayford & Samuels SPECIES
 
 #### Status
 ACCEPTED

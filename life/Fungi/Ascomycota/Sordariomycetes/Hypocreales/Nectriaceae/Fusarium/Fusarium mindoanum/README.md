@@ -1,5 +1,4 @@
-Fusarium mindoanum Petr. SPECIES
-=======
+# Fusarium mindoanum Petr. SPECIES
 
 #### Status
 ACCEPTED

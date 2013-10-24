@@ -1,8 +1,7 @@
-Physalospora adianthi Höhn. SPECIES
-=======
+# Physalospora adianti Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physalospora adianthi Höhn.
+Physalospora adianti Höhn.
 
 ### Remarks
 null

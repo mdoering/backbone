@@ -1,5 +1,4 @@
-Hendersonia palmigena Ponnappa SPECIES
-=======
+# Hendersonia palmigena Ponnappa SPECIES
 
 #### Status
 ACCEPTED

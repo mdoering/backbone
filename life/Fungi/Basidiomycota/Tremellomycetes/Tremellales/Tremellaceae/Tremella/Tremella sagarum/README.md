@@ -1,5 +1,4 @@
-Tremella sagarum Retz. SPECIES
-=======
+# Tremella sagarum Retz. SPECIES
 
 #### Status
 ACCEPTED

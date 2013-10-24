@@ -1,5 +1,4 @@
-Caloplaca tenuata (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca tenuata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

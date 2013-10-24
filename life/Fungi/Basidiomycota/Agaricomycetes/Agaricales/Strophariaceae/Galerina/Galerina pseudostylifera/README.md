@@ -1,5 +1,4 @@
-Galerina pseudostylifera A.H. Sm. SPECIES
-=======
+# Galerina pseudostylifera A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

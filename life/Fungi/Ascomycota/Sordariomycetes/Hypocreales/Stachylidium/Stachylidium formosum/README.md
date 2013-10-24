@@ -1,5 +1,4 @@
-Stachylidium formosum Oudem. SPECIES
-=======
+# Stachylidium formosum Oudem. SPECIES
 
 #### Status
 ACCEPTED

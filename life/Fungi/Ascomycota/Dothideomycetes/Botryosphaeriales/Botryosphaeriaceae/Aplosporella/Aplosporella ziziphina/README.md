@@ -1,17 +1,16 @@
-Aplosporella zizyphina S. Ahmad SPECIES
-=======
+# Aplosporella ziziphina S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 8(2): 148 (1962)
 
 #### Original name
-Aplosporella zizyphina S. Ahmad
+Aplosporella ziziphina S. Ahmad
 
 ### Remarks
 null

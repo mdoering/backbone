@@ -1,5 +1,4 @@
-Aplosporella obscura Pass. SPECIES
-=======
+# Aplosporella obscura Pass. SPECIES
 
 #### Status
 ACCEPTED

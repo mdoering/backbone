@@ -1,17 +1,16 @@
-Fomes sclerophyllaceus f. sclerophyllaceus FORM
-=======
+# Nigroporus vinosus (Berk.) Murrill, 1905 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 32(7): 361 (1905)
 
 #### Original name
-Fomes sclerophyllaceus f. sclerophyllaceus
+Polyporus vinosus Berk., 1852
 
 ### Remarks
 null

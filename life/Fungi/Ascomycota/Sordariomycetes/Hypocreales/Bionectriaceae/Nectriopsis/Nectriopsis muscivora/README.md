@@ -1,5 +1,4 @@
-Nectriopsis muscivora (Berk. & Broome) SPECIES
-=======
+# Nectriopsis muscivora (Berk. & Broome) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora liriodendri Sandu SPECIES
-=======
+# Rhabdospora liriodendri Sandu SPECIES
 
 #### Status
 ACCEPTED

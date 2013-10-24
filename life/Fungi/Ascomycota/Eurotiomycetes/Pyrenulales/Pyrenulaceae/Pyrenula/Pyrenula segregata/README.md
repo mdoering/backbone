@@ -1,14 +1,13 @@
-Verrucaria aggregata f. segregata Nyl. FORM
-=======
+# Pyrenula segregata (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Soc. linn. Normandie, sér. 2 2: 128 (1868)
+Flora, Jena 70: 429 (1887)
 
 #### Original name
 Verrucaria aggregata f. segregata Nyl.

@@ -1,5 +1,4 @@
-Fibulochlamys ferruginosa A.I. Romero & Cabral, 1989 SPECIES
-=======
+# Fibulochlamys ferruginosa A.I. Romero & Cabral, 1989 SPECIES
 
 #### Status
 ACCEPTED

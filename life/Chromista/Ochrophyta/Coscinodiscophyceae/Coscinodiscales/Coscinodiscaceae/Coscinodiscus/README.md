@@ -1,5 +1,4 @@
-Coscinodiscus C.G. Ehrenberg, 1839 GENUS
-=======
+# Coscinodiscus C.G. Ehrenberg, 1839 GENUS
 
 #### Status
 ACCEPTED

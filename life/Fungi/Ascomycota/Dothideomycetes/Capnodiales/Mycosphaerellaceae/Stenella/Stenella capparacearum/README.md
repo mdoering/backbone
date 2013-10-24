@@ -1,5 +1,4 @@
-Stenella capparacearum U. Braun & F.O. Freire SPECIES
-=======
+# Stenella capparacearum U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllachora sikkimense T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Phyllachora sikkimensis T.S. Ramakr. & K. Ramakr., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Indian Acad. Sci. , Pl. Sci. 32: 74 (1950)
 
 #### Original name
-Phyllachora sikkimense T.S. Ramakr. & K. Ramakr.
+Phyllachora sikkimensis T.S. Ramakr. & K. Ramakr., 1950
 
 ### Remarks
 null

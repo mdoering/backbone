@@ -1,5 +1,4 @@
-Hebeloma calyptrosporum Gröger SPECIES
-=======
+# Hebeloma calyptrosporum Gröger SPECIES
 
 #### Status
 ACCEPTED

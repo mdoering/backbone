@@ -1,5 +1,4 @@
-Canthariella (Kofoid & Campbell, 1929) GENUS
-=======
+# Canthariella (Kofoid & Campbell, 1929) GENUS
 
 #### Status
 ACCEPTED

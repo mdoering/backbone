@@ -1,5 +1,4 @@
-Helminthosporium sesseae Pat. SPECIES
-=======
+# Helminthosporium sesseae Pat. SPECIES
 
 #### Status
 ACCEPTED

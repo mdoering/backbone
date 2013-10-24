@@ -1,8 +1,7 @@
-Meliola trematis Speg., 1912 SPECIES
-=======
+# Irenina trematis (Speg.) F. Stevens, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

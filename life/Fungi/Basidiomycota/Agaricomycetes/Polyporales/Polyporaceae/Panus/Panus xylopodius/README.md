@@ -1,5 +1,4 @@
-Panus xylopodius (Lév.) Fr. SPECIES
-=======
+# Panus xylopodius (Lév.) Fr. SPECIES
 
 #### Status
 ACCEPTED

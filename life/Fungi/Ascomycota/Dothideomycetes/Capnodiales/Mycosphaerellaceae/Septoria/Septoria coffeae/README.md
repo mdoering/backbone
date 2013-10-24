@@ -1,5 +1,4 @@
-Septoria coffeae Wakef. SPECIES
-=======
+# Septoria coffeae Wakef. SPECIES
 
 #### Status
 ACCEPTED

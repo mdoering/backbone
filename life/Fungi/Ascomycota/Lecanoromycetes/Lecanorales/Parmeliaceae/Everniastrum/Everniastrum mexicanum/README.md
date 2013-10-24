@@ -1,5 +1,4 @@
-Everniastrum mexicanum (Egan ex W.L. Culb. & C.F. Culb.) Sipman SPECIES
-=======
+# Everniastrum mexicanum (Egan ex W.L. Culb. & C.F. Culb.) Sipman SPECIES
 
 #### Status
 ACCEPTED

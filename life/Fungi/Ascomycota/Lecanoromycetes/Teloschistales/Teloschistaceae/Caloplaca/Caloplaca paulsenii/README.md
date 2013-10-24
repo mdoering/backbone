@@ -1,5 +1,4 @@
-Caloplaca paulsenii f. paulsenii FORM
-=======
+# Caloplaca paulsenii (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 162 (1931)
 
 #### Original name
 Placodium paulsenii Vain.

@@ -1,5 +1,4 @@
-Boletus subsoliterius Fr. SPECIES
-=======
+# Boletus subsoliterius Fr. SPECIES
 
 #### Status
 ACCEPTED

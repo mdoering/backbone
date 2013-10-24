@@ -1,5 +1,4 @@
-Sphaeria monosperma Peck SPECIES
-=======
+# Sphaeria monosperma Peck SPECIES
 
 #### Status
 ACCEPTED

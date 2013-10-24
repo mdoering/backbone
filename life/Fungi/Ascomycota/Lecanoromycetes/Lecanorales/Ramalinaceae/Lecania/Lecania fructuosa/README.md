@@ -1,5 +1,4 @@
-Lecania fructuosa (Stizenb.) Zahlbr. SPECIES
-=======
+# Lecania fructuosa (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

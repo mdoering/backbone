@@ -1,5 +1,4 @@
-Exidia uvapsassa SPECIES
-=======
+# Exidia uvapsassa SPECIES
 
 #### Status
 ACCEPTED

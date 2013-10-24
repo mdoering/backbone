@@ -1,5 +1,4 @@
-Olpidiaster GENUS
-=======
+# Olpidiaster GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanobasidium acanthophoenicis Boidin & Gilles SPECIES
-=======
+# Aphanobasidium acanthophoenicis Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

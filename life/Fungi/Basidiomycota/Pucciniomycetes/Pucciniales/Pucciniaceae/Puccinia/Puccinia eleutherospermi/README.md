@@ -1,5 +1,4 @@
-Puccinia eleutherospermi Vienn.-Bourg. SPECIES
-=======
+# Puccinia eleutherospermi Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

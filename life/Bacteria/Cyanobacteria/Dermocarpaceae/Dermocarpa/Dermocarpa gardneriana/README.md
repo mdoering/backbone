@@ -1,5 +1,4 @@
-Dermocarpa gardneriana Drouet SPECIES
-=======
+# Dermocarpa gardneriana Drouet SPECIES
 
 #### Status
 ACCEPTED

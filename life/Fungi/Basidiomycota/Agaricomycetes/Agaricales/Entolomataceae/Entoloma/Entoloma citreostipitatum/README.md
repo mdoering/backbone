@@ -1,5 +1,4 @@
-Entoloma citreostipitatum G. Stev. SPECIES
-=======
+# Entoloma citreostipitatum G. Stev. SPECIES
 
 #### Status
 ACCEPTED

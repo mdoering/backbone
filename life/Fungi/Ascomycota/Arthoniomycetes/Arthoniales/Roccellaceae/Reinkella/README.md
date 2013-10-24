@@ -1,5 +1,4 @@
-Reinkella Darb. GENUS
-=======
+# Reinkella Darb. GENUS
 
 #### Status
 ACCEPTED

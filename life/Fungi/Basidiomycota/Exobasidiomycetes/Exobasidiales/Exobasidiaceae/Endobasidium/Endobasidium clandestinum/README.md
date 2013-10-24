@@ -1,5 +1,4 @@
-Endobasidium clandestinum Speschnew, 1901 SPECIES
-=======
+# Endobasidium clandestinum Speschnew, 1901 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus daucipes Pers. SPECIES
-=======
+# Agaricus daucipes Pers. SPECIES
 
 #### Status
 ACCEPTED

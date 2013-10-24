@@ -1,5 +1,4 @@
-Leptotrema neozelandicum C.W. Dodge SPECIES
-=======
+# Leptotrema neozelandicum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

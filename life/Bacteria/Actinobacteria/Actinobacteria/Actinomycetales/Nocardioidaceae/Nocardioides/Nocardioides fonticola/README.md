@@ -1,5 +1,4 @@
-Nocardioides fonticola Jui-Hsing Chou, 2008 SPECIES
-=======
+# Nocardioides fonticola Jui-Hsing Chou, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula cuprescens SPECIES
-=======
+# Pyrenula cuprescens SPECIES
 
 #### Status
 ACCEPTED

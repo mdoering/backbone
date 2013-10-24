@@ -1,5 +1,4 @@
-Oedocephalum intermixtum Peck SPECIES
-=======
+# Oedocephalum intermixtum Peck SPECIES
 
 #### Status
 ACCEPTED

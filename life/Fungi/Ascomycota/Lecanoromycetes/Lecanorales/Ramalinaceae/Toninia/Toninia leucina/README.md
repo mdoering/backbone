@@ -1,14 +1,13 @@
-Thalloidima leucinum Müll. Arg. SPECIES
-=======
+# Toninia leucina (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 1: 35 (1892)
+Cat. Lich. Univers. 4: 289 (1926)
 
 #### Original name
 Thalloidima leucinum Müll. Arg.

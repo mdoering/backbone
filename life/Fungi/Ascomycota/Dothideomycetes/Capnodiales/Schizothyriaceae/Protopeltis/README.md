@@ -1,5 +1,4 @@
-Protopeltis GENUS
-=======
+# Protopeltis GENUS
 
 #### Status
 ACCEPTED

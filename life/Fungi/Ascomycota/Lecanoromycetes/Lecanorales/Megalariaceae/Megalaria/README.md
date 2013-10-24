@@ -1,5 +1,4 @@
-Megalaria Hafellner GENUS
-=======
+# Megalaria Hafellner GENUS
 
 #### Status
 ACCEPTED

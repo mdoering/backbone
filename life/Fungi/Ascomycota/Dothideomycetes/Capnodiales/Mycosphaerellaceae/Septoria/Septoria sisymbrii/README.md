@@ -1,5 +1,4 @@
-Septoria sisymbrii Ellis, 1882 SPECIES
-=======
+# Septoria sisymbrii Ellis, 1882 SPECIES
 
 #### Status
 ACCEPTED

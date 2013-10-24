@@ -1,5 +1,4 @@
-Uromyces commelinae Cooke SPECIES
-=======
+# Uromyces commelinae Cooke SPECIES
 
 #### Status
 ACCEPTED

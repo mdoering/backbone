@@ -1,5 +1,4 @@
-Agaricus sanguinalis Batsch SPECIES
-=======
+# Agaricus sanguinalis Batsch SPECIES
 
 #### Status
 ACCEPTED

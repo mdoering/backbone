@@ -1,5 +1,4 @@
-Tilletia bungalorense Thirum. & Pavgi SPECIES
-=======
+# Tilletia bungalorense Thirum. & Pavgi SPECIES
 
 #### Status
 ACCEPTED

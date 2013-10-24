@@ -1,5 +1,4 @@
-Phyllosticta myricae Cooke SPECIES
-=======
+# Phyllosticta myricae Cooke SPECIES
 
 #### Status
 ACCEPTED

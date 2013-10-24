@@ -1,5 +1,4 @@
-Corylophomyces reflexus R.K. Benj., 1994 SPECIES
-=======
+# Corylophomyces reflexus R.K. Benj., 1994 SPECIES
 
 #### Status
 ACCEPTED

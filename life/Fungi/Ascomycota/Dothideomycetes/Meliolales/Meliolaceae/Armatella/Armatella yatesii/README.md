@@ -1,5 +1,4 @@
-Armatella yatesii Hansf. SPECIES
-=======
+# Armatella yatesii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fuscidea hoglandica (Nyl.) V. Wirth & Vezda SPECIES
-=======
+# Fuscidea hoglandica (Nyl.) V. Wirth & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea albofusca H. Magn. SPECIES
-=======
+# Lecidea albofusca H. Magn. SPECIES
 
 #### Status
 ACCEPTED

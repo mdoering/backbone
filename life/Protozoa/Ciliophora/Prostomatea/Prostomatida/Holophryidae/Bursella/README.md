@@ -1,5 +1,4 @@
-Bursella GENUS
-=======
+# Bursella GENUS
 
 #### Status
 ACCEPTED

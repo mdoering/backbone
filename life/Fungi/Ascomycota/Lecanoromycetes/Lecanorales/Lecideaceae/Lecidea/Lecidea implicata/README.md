@@ -1,5 +1,4 @@
-Lecidea implicata Stirt. SPECIES
-=======
+# Lecidea implicata Stirt. SPECIES
 
 #### Status
 ACCEPTED

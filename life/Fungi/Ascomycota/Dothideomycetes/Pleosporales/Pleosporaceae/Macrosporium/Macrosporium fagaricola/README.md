@@ -1,5 +1,4 @@
-Macrosporium fagaricola Speg. SPECIES
-=======
+# Macrosporium fagaricola Speg. SPECIES
 
 #### Status
 ACCEPTED

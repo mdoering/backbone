@@ -1,5 +1,4 @@
-Bacidia clementis Hasse SPECIES
-=======
+# Bacidia clementis Hasse SPECIES
 
 #### Status
 ACCEPTED

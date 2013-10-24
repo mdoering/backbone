@@ -1,5 +1,4 @@
-Takayama helix de Salas, Bolch, Botes & Hallegraeff, 2003 SPECIES
-=======
+# Takayama helix de Salas, Bolch, Botes & Hallegraeff, 2003 SPECIES
 
 #### Status
 ACCEPTED

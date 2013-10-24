@@ -1,5 +1,4 @@
-Venturia elaeidis Marchal & Steyaert SPECIES
-=======
+# Venturia elaeidis Marchal & Steyaert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisolenia clavipes Kofoid, 1907 SPECIES
-=======
+# Amphisolenia clavipes Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phylloporina sphaerella Malme SPECIES
-=======
+# Phylloporina sphaerella Malme SPECIES
 
 #### Status
 ACCEPTED

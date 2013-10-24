@@ -1,5 +1,4 @@
-Phyllosticta aquifolina Grove SPECIES
-=======
+# Phyllosticta aquifolina Grove SPECIES
 
 #### Status
 ACCEPTED

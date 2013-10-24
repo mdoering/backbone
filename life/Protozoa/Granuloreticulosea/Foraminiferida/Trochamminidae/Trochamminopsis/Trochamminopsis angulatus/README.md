@@ -1,5 +1,4 @@
-Trochamminopsis angulatus Brönnimann, Whittaker & Valleri, 1992 SPECIES
-=======
+# Trochamminopsis angulatus Brönnimann, Whittaker & Valleri, 1992 SPECIES
 
 #### Status
 ACCEPTED

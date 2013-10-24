@@ -1,5 +1,4 @@
-Macrosporium clematidis Peck SPECIES
-=======
+# Macrosporium clematidis Peck SPECIES
 
 #### Status
 ACCEPTED

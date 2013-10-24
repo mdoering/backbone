@@ -1,5 +1,4 @@
-Mycosphaerella tristaniae Wakef. SPECIES
-=======
+# Mycosphaerella tristaniae Wakef. SPECIES
 
 #### Status
 ACCEPTED

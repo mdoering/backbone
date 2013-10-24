@@ -1,5 +1,4 @@
-Janickiella Duboscq & Grassé GENUS
-=======
+# Janickiella Duboscq & Grassé GENUS
 
 #### Status
 ACCEPTED

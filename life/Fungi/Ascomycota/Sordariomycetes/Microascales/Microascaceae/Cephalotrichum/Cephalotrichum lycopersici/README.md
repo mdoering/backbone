@@ -1,5 +1,4 @@
-Cephalotrichum lycopersici (Plowr.) Kuntze SPECIES
-=======
+# Cephalotrichum lycopersici (Plowr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

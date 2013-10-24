@@ -1,17 +1,16 @@
-Biatora socialis (Körb.) Hepp SPECIES
-=======
+# Schadonia fecunda (Th. Fr.) Vezda & Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hawksworth, James & Coppins, Lichenologist 12(1): 107 (1980)
 
 #### Original name
-Lopadium sociale Körb.
+Lopadium fecundum Th. Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hypoxylonites minutus Elsik SPECIES
-=======
+# Hypoxylonites minutus Elsik SPECIES
 
 #### Status
 ACCEPTED

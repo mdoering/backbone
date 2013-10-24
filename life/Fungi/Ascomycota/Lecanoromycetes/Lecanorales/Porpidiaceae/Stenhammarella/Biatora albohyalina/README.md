@@ -1,5 +1,4 @@
-Biatora albohyalina (Nyl.) Bagl. & Carestia, 1881 SPECIES
-=======
+# Biatora albohyalina (Nyl.) Bagl. & Carestia, 1881 SPECIES
 
 #### Status
 DOUBTFUL

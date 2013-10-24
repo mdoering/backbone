@@ -1,14 +1,13 @@
-Nowakowskiella obscura Sparrow, 1931 SPECIES
-=======
+# Physocladia obscura (Sparrow) Sparrow, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 24: 285 (1932)
 
 #### Original name
 Nowakowskiella obscura Sparrow, 1931

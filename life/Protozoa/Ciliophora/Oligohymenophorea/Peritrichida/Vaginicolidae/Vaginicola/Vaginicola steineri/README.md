@@ -1,5 +1,4 @@
-Vaginicola steineri SPECIES
-=======
+# Vaginicola steineri SPECIES
 
 #### Status
 ACCEPTED

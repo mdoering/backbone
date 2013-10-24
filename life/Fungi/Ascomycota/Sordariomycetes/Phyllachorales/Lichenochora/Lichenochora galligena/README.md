@@ -1,5 +1,4 @@
-Lichenochora galligena R. Sant. & Hafellner, 1989 SPECIES
-=======
+# Lichenochora galligena R. Sant. & Hafellner, 1989 SPECIES
 
 #### Status
 ACCEPTED

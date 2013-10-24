@@ -1,17 +1,16 @@
-Dothiorella desmostachydis S. Ahmad SPECIES
-=======
+# Dothiorella desmostachyae S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 17(1): 12 (1971)
 
 #### Original name
-Dothiorella desmostachydis S. Ahmad
+Dothiorella desmostachyae S. Ahmad
 
 ### Remarks
 null

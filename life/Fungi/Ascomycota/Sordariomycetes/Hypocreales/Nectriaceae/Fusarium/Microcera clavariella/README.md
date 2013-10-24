@@ -1,5 +1,4 @@
-Microcera clavariella Speg. SPECIES
-=======
+# Microcera clavariella Speg. SPECIES
 
 #### Status
 ACCEPTED

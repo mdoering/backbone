@@ -1,5 +1,4 @@
-Discula kerriae Moesz & Smarods SPECIES
-=======
+# Discula kerriae Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

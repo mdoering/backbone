@@ -1,5 +1,4 @@
-Agaricus subcavus Schumach. SPECIES
-=======
+# Agaricus subcavus Schumach. SPECIES
 
 #### Status
 ACCEPTED

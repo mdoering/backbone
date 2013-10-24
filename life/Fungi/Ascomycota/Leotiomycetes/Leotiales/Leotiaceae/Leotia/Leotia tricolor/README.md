@@ -1,5 +1,4 @@
-Leotia tricolor Erler {?} & Benedix SPECIES
-=======
+# Leotia tricolor Erler {?} & Benedix SPECIES
 
 #### Status
 ACCEPTED

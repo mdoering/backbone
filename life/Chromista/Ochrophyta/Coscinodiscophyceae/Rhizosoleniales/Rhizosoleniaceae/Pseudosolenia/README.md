@@ -1,5 +1,4 @@
-Pseudosolenia B.G.Sundström, 1986 GENUS
-=======
+# Pseudosolenia B.G.Sundström, 1986 GENUS
 
 #### Status
 ACCEPTED

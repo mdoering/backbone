@@ -1,5 +1,4 @@
-Leioderma sorediatum D.J. Galloway & P.M. Jørg. SPECIES
-=======
+# Leioderma sorediatum D.J. Galloway & P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

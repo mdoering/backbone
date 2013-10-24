@@ -1,5 +1,4 @@
-Catillaria mycophila (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria mycophila (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

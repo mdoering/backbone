@@ -1,5 +1,4 @@
-Oscillatoria probiscidea SPECIES
-=======
+# Oscillatoria probiscidea SPECIES
 
 #### Status
 ACCEPTED

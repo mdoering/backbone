@@ -1,5 +1,4 @@
-Gabarnaudia Samson & W. Gams, 1974 GENUS
-=======
+# Gabarnaudia Samson & W. Gams, 1974 GENUS
 
 #### Status
 ACCEPTED

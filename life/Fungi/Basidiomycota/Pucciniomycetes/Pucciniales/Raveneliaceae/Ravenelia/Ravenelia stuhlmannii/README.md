@@ -1,17 +1,16 @@
-Ravenelia stuhlmanni Henn. SPECIES
-=======
+# Ravenelia stuhlmannii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 22: 82 (1895)
 
 #### Original name
-Ravenelia stuhlmanni Henn.
+Ravenelia stuhlmannii Henn.
 
 ### Remarks
 null

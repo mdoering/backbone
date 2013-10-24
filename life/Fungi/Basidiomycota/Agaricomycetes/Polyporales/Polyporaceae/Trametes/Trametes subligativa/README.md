@@ -1,5 +1,4 @@
-Trametes subligativa Corner SPECIES
-=======
+# Trametes subligativa Corner SPECIES
 
 #### Status
 ACCEPTED

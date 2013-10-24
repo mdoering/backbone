@@ -1,5 +1,4 @@
-Hyphoderma sabinicum Manjón & G. Moreno, 1983 SPECIES
-=======
+# Hyphoderma sabinicum Manjón & G. Moreno, 1983 SPECIES
 
 #### Status
 ACCEPTED

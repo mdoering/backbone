@@ -1,5 +1,4 @@
-Frumentella Stewart, 1958 GENUS
-=======
+# Frumentella Stewart, 1958 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fertilisphaera aegeritoides Descals SPECIES
-=======
+# Fertilisphaera aegeritoides Descals SPECIES
 
 #### Status
 ACCEPTED

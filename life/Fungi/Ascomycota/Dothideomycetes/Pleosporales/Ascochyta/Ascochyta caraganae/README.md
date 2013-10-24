@@ -1,5 +1,4 @@
-Ascochyta caraganae (Vestergr.) Melnik SPECIES
-=======
+# Ascochyta caraganae (Vestergr.) Melnik SPECIES
 
 #### Status
 ACCEPTED

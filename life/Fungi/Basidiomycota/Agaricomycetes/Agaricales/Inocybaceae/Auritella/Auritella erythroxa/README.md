@@ -1,5 +1,4 @@
-Auritella erythroxa (De Seynes) Matheny & Bougher, 2006 SPECIES
-=======
+# Auritella erythroxa (De Seynes) Matheny & Bougher, 2006 SPECIES
 
 #### Status
 ACCEPTED

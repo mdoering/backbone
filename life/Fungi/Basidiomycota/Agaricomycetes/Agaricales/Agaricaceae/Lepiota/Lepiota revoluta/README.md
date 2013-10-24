@@ -1,5 +1,4 @@
-Lepiota revoluta Rick SPECIES
-=======
+# Lepiota revoluta Rick SPECIES
 
 #### Status
 ACCEPTED

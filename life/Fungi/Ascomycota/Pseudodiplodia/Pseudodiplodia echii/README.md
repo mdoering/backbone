@@ -1,5 +1,4 @@
-Pseudodiplodia echii (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia echii (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

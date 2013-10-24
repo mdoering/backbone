@@ -1,5 +1,4 @@
-Tylopilus atrobrunneus (Lj.N. Vassiljeva) Wolfe SPECIES
-=======
+# Tylopilus atrobrunneus (Lj.N. Vassiljeva) Wolfe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum agaricoides Sw. SPECIES
-=======
+# Hydnum agaricoides Sw. SPECIES
 
 #### Status
 ACCEPTED

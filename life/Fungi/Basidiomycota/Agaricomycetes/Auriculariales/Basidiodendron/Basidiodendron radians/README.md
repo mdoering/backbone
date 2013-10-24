@@ -1,17 +1,16 @@
-Basidiodendron nodosum Luck-Allen, 1963 SPECIES
-=======
+# Basidiodendron radians (Rick) P. Roberts, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 41(7): 1045 (1963)
+Kew Bull. 56(1): 170 (2001)
 
 #### Original name
-Basidiodendron nodosum Luck-Allen, 1963
+Coniophorella radians Rick, 1934
 
 ### Remarks
 null

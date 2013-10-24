@@ -1,8 +1,7 @@
-Penicillium arvense Udagawa & T. Yokoy., 1974 SPECIES
-=======
+# Penicillium abidjanum Stolk, 1968 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

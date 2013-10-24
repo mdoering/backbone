@@ -1,5 +1,4 @@
-Orcheomyces labiatae Burgeff SPECIES
-=======
+# Orcheomyces labiatae Burgeff SPECIES
 
 #### Status
 ACCEPTED

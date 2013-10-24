@@ -1,8 +1,7 @@
-Vibrio marinus (ex Russell, 1892) Baumann et al., 1984 SPECIES
-=======
+# Moritella marina (Baumann et al., 1984) Urakawa et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

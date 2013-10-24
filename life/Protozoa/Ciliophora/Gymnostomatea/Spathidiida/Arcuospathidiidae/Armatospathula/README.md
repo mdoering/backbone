@@ -1,5 +1,4 @@
-Armatospathula GENUS
-=======
+# Armatospathula GENUS
 
 #### Status
 ACCEPTED

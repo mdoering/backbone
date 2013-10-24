@@ -1,5 +1,4 @@
-Urceolaria humilis Motyka SPECIES
-=======
+# Urceolaria humilis Motyka SPECIES
 
 #### Status
 ACCEPTED

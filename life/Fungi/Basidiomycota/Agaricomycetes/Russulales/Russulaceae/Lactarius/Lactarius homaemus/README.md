@@ -1,5 +1,4 @@
-Lactarius homaemus Britzelm. SPECIES
-=======
+# Lactarius homaemus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

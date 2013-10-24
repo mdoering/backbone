@@ -1,5 +1,4 @@
-Puccinia mentzeliae Dietel & Holw. SPECIES
-=======
+# Puccinia mentzeliae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

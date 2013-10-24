@@ -1,5 +1,4 @@
-Chaetomium lunasporium Udaiyan & V.S. Hosag. SPECIES
-=======
+# Chaetomium lunasporium Udaiyan & V.S. Hosag. SPECIES
 
 #### Status
 ACCEPTED

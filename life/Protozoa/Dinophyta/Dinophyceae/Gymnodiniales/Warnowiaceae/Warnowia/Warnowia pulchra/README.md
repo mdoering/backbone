@@ -1,5 +1,4 @@
-Warnowia pulchra (Schiller) Schiller, 1933 SPECIES
-=======
+# Warnowia pulchra (Schiller) Schiller, 1933 SPECIES
 
 #### Status
 ACCEPTED

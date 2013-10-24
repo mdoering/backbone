@@ -1,5 +1,4 @@
-Dasyscyphus indicus (E.K. Cash) S. Ahmad SPECIES
-=======
+# Dasyscyphus indicus (E.K. Cash) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

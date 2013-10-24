@@ -1,5 +1,4 @@
-Sphaeria inconstans Schwein. SPECIES
-=======
+# Sphaeria inconstans Schwein. SPECIES
 
 #### Status
 ACCEPTED

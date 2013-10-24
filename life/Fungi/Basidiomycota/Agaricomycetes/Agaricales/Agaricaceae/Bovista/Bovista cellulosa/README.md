@@ -1,5 +1,4 @@
-Bovista cellulosa Ellis & Everh. SPECIES
-=======
+# Bovista cellulosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

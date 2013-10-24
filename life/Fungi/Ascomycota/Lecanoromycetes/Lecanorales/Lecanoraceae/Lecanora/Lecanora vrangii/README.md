@@ -1,5 +1,4 @@
-Lecanora vrangii Malme SPECIES
-=======
+# Lecanora vrangii Malme SPECIES
 
 #### Status
 ACCEPTED

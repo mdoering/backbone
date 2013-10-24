@@ -1,5 +1,4 @@
-Neoclaviceps J.F. White, Bills, S.C. Alderman & Spatafora GENUS
-=======
+# Neoclaviceps J.F. White, Bills, S.C. Alderman & Spatafora GENUS
 
 #### Status
 ACCEPTED

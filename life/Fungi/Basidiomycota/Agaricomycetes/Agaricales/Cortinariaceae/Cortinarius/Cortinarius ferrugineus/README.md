@@ -1,5 +1,4 @@
-Cortinarius ferrugineus var. ferrugineus VARIETY
-=======
+# Cortinarius ferrugineus (Scop.) Fr. SPECIES
 
 #### Status
 ACCEPTED

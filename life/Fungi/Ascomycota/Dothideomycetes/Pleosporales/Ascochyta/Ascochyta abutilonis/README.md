@@ -1,5 +1,4 @@
-Ascochyta abutilonis Hollós SPECIES
-=======
+# Ascochyta abutilonis Hollós SPECIES
 
 #### Status
 ACCEPTED

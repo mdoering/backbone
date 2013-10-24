@@ -1,5 +1,4 @@
-Clisosporium fuscoatrum (Penz.) Kuntze SPECIES
-=======
+# Clisosporium fuscoatrum (Penz.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

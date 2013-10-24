@@ -1,5 +1,4 @@
-Hypoxylon palumbinum Quél. SPECIES
-=======
+# Hypoxylon palumbinum Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium sclerotioides Sherb. SPECIES
-=======
+# Fusarium sclerotioides Sherb. SPECIES
 
 #### Status
 ACCEPTED

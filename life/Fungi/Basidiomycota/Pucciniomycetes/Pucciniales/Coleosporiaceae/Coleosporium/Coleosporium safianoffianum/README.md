@@ -1,5 +1,4 @@
-Coleosporium safianoffianum Thüm. SPECIES
-=======
+# Coleosporium safianoffianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletopsis serotina (Frost) Henn. SPECIES
-=======
+# Boletopsis serotina (Frost) Henn. SPECIES
 
 #### Status
 ACCEPTED

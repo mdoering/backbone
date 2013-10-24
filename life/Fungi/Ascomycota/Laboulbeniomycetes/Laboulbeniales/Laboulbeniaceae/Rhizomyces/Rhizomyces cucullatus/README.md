@@ -1,5 +1,4 @@
-Rhizomyces cucullatus Thaxt., 1931 SPECIES
-=======
+# Rhizomyces cucullatus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

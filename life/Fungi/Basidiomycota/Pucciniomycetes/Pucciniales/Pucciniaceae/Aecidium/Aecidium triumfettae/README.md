@@ -1,5 +1,4 @@
-Aecidium triumfettae Henn. SPECIES
-=======
+# Aecidium triumfettae Henn. SPECIES
 
 #### Status
 ACCEPTED

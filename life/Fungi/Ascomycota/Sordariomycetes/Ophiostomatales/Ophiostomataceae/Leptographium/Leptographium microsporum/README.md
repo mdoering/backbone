@@ -1,5 +1,4 @@
-Leptographium microsporum R.W. Davidson SPECIES
-=======
+# Leptographium microsporum R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

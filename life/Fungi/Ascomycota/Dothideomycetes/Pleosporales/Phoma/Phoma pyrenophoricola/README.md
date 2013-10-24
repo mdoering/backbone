@@ -1,5 +1,4 @@
-Phoma pyrenophoricola Bat., Peres & S.H. Iqbal SPECIES
-=======
+# Phoma pyrenophoricola Bat., Peres & S.H. Iqbal SPECIES
 
 #### Status
 ACCEPTED

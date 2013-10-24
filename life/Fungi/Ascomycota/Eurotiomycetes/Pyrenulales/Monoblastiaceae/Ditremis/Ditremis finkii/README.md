@@ -1,5 +1,4 @@
-Ditremis finkii R.C. Harris SPECIES
-=======
+# Ditremis finkii R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

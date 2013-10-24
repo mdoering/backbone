@@ -1,5 +1,4 @@
-Coscinodiscus excentricus Ehrenberg, 1839 SPECIES
-=======
+# Coscinodiscus excentricus Ehrenberg, 1839 SPECIES
 
 #### Status
 ACCEPTED

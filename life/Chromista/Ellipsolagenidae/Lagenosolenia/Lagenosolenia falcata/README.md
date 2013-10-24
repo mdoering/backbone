@@ -1,8 +1,7 @@
-Lagenosolenia soulei McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia falcata (Chaster, 1892) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

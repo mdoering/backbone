@@ -1,5 +1,4 @@
-Coronasclerotes clavus Stach & Pickh. SPECIES
-=======
+# Coronasclerotes clavus Stach & Pickh. SPECIES
 
 #### Status
 ACCEPTED

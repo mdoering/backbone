@@ -1,5 +1,4 @@
-Dimerosporium macarangae Henn. SPECIES
-=======
+# Dimerosporium macarangae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius anthocephalus Sacc. SPECIES
-=======
+# Marasmius anthocephalus Sacc. SPECIES
 
 #### Status
 ACCEPTED

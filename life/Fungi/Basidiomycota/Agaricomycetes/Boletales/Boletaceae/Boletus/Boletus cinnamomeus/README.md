@@ -1,5 +1,4 @@
-Boletus cinnamomeus Rostk. SPECIES
-=======
+# Boletus cinnamomeus Rostk. SPECIES
 
 #### Status
 ACCEPTED

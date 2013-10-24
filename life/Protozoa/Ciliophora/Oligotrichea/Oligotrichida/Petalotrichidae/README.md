@@ -1,5 +1,4 @@
-Petalotrichidae Kofoid & Campbell, 1929 FAMILY
-=======
+# Petalotrichidae Kofoid & Campbell, 1929 FAMILY
 
 #### Status
 ACCEPTED

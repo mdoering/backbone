@@ -1,5 +1,4 @@
-Chytridiomycetes Caval.-Sm. CLASS
-=======
+# Chytridiomycetes Caval.-Sm. CLASS
 
 #### Status
 ACCEPTED

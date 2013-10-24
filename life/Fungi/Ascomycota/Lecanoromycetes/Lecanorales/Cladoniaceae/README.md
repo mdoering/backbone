@@ -1,17 +1,16 @@
-Cladonia coccifera f. cornucopioides (Gray) Branth & Rostr. FORM
-=======
+# Cladoniaceae Zenker FAMILY
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Dan. 12 (1869)
+in Goebel, Pharmaceutische Waarenkunde (Eisenach) 1: 124 (1827)
 
 #### Original name
-null
+Cladoniaceae Zenker
 
 ### Remarks
 null

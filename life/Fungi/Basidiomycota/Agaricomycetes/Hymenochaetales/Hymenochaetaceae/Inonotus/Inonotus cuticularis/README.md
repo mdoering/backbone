@@ -1,17 +1,16 @@
-Xanthochrous cuticularis f. cuticularis FORM
-=======
+# Inonotus cuticularis (Bull.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Tax. Hyménomyc. (Lons-le-Saunier) 100 (1900)
+Meddn Soc. Fauna Flora fenn. 5: 39 (1879)
 
 #### Original name
-Xanthochrous cuticularis f. cuticularis
+Boletus cuticularis Bull., 1789
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phomatospora nypae K.D. Hyde, 1993 SPECIES
-=======
+# Phomatospora nypae K.D. Hyde, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium balansae Speg. SPECIES
-=======
+# Helminthosporium balansae Speg. SPECIES
 
 #### Status
 ACCEPTED

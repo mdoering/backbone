@@ -1,5 +1,4 @@
-Cortinarius ruber Cleland SPECIES
-=======
+# Cortinarius ruber Cleland SPECIES
 
 #### Status
 ACCEPTED

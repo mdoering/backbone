@@ -1,5 +1,4 @@
-Puttemansiella desmodii Henn. SPECIES
-=======
+# Puttemansiella desmodii Henn. SPECIES
 
 #### Status
 ACCEPTED

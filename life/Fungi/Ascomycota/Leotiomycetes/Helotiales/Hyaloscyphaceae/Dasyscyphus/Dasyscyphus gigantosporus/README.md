@@ -1,17 +1,16 @@
-Dasyscypha gigantosporus Rehm SPECIES
-=======
+# Dasyscyphus gigantosporus Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 39(4): 219 (1900)
 
 #### Original name
-Dasyscypha gigantosporus Rehm
+Dasyscyphus gigantosporus Rehm
 
 ### Remarks
 null

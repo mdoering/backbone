@@ -1,5 +1,4 @@
-Proterospongia haeckelii SPECIES
-=======
+# Proterospongia haeckelii SPECIES
 
 #### Status
 ACCEPTED

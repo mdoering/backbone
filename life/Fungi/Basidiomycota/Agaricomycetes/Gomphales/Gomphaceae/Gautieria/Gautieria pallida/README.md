@@ -1,5 +1,4 @@
-Gautieria pallida Harkn. SPECIES
-=======
+# Gautieria pallida Harkn. SPECIES
 
 #### Status
 ACCEPTED

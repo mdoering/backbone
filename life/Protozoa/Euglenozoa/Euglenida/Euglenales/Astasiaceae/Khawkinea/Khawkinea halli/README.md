@@ -1,5 +1,4 @@
-Khawkinea halli Jahn & Mckibben SPECIES
-=======
+# Khawkinea halli Jahn & Mckibben SPECIES
 
 #### Status
 ACCEPTED

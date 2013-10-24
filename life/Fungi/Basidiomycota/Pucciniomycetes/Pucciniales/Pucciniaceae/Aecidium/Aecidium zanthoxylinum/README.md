@@ -1,17 +1,16 @@
-Aecidium xanthoxylinum Speg. SPECIES
-=======
+# Aecidium zanthoxylinum Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revista Argent. Hist. Nat. 1(6): 400 [no. 68, reprint page 24] (1891)
 
 #### Original name
-Aecidium xanthoxylinum Speg.
+Aecidium zanthoxylinum Speg.
 
 ### Remarks
 null

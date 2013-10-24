@@ -1,5 +1,4 @@
-Maronina Hafellner & R.W. Rogers GENUS
-=======
+# Maronina Hafellner & R.W. Rogers GENUS
 
 #### Status
 ACCEPTED

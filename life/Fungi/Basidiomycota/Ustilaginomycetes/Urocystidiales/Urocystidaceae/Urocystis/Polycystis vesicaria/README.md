@@ -1,5 +1,4 @@
-Polycystis vesicaria (J.S. Kaulf.) Mont. SPECIES
-=======
+# Polycystis vesicaria (J.S. Kaulf.) Mont. SPECIES
 
 #### Status
 ACCEPTED

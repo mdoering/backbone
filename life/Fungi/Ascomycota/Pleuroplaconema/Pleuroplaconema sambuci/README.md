@@ -1,5 +1,4 @@
-Pleuroplaconema sambuci Petr., 1923 SPECIES
-=======
+# Pleuroplaconema sambuci Petr., 1923 SPECIES
 
 #### Status
 ACCEPTED

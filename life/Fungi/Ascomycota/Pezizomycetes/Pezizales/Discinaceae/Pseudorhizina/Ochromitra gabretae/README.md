@@ -1,5 +1,4 @@
-Ochromitra gabretae (Kavina) Velen. SPECIES
-=======
+# Ochromitra gabretae (Kavina) Velen. SPECIES
 
 #### Status
 ACCEPTED

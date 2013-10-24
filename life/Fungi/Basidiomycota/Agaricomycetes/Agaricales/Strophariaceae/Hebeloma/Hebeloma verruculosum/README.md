@@ -1,5 +1,4 @@
-Hebeloma verruculosum Murrill SPECIES
-=======
+# Hebeloma verruculosum Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euthythyrites merenoinitis Selkirk SPECIES
-=======
+# Euthythyrites merenoinitis Selkirk SPECIES
 
 #### Status
 ACCEPTED

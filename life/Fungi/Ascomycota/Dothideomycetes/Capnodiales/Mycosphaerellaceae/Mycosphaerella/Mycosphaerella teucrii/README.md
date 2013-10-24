@@ -1,5 +1,4 @@
-Mycosphaerella teucrii (Unamuno) M. Morelet SPECIES
-=======
+# Mycosphaerella teucrii (Unamuno) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

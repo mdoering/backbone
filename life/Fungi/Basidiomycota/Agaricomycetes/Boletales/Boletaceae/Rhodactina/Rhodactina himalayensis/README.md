@@ -1,5 +1,4 @@
-Rhodactina himalayensis Pegler & T.W.K. Young, 1989 SPECIES
-=======
+# Rhodactina himalayensis Pegler & T.W.K. Young, 1989 SPECIES
 
 #### Status
 ACCEPTED

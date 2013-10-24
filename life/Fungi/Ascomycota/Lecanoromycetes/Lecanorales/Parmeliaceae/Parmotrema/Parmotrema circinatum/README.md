@@ -1,5 +1,4 @@
-Parmotrema circinatum Elix & R. W. Rogers SPECIES
-=======
+# Parmotrema circinatum Elix & R. W. Rogers SPECIES
 
 #### Status
 ACCEPTED

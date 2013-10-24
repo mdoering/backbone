@@ -1,5 +1,4 @@
-Cortinarius sclerosperma Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius sclerosperma Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopsidium sphinctotricha Vain. SPECIES
-=======
+# Pyrenopsidium sphinctotricha Vain. SPECIES
 
 #### Status
 ACCEPTED

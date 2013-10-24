@@ -1,14 +1,13 @@
-Omphalaria intricata Arnold SPECIES
-=======
+# Lempholemma intricatum (Arnold) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 52: 254 (1869)
+Cat. Lich. Univers. 3: 22 (1924)
 
 #### Original name
 Omphalaria intricata Arnold

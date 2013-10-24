@@ -1,5 +1,4 @@
-Phyllosticta usteriana (Speg.) Hara SPECIES
-=======
+# Phyllosticta usteriana (Speg.) Hara SPECIES
 
 #### Status
 ACCEPTED

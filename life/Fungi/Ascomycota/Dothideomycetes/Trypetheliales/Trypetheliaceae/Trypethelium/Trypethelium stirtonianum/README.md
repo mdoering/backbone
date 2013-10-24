@@ -1,5 +1,4 @@
-Trypethelium stirtonianum (Müll. Arg.) Hellb. SPECIES
-=======
+# Trypethelium stirtonianum (Müll. Arg.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

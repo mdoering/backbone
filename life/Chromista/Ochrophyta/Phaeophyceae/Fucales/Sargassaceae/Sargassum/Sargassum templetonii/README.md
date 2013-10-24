@@ -1,5 +1,4 @@
-Sargassum templetonii Setchell SPECIES
-=======
+# Sargassum templetonii Setchell SPECIES
 
 #### Status
 ACCEPTED

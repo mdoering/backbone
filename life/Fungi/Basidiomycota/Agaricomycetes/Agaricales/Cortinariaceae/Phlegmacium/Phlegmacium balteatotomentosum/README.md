@@ -1,5 +1,4 @@
-Phlegmacium balteatotomentosum (Rob. Henry ex Rob. Henry) M.M. Moser SPECIES
-=======
+# Phlegmacium balteatotomentosum (Rob. Henry ex Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

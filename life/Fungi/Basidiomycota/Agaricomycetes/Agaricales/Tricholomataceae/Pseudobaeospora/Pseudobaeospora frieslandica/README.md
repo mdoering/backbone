@@ -1,5 +1,4 @@
-Pseudobaeospora frieslandica Bas ex Bas SPECIES
-=======
+# Pseudobaeospora frieslandica Bas ex Bas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Divietipellis tianguaense Le Hérissé, Melo, Quadros, Grahn & Steemans, 2001 SPECIES
-=======
+# Divietipellis tianguaense Le Hérissé, Melo, Quadros, Grahn & Steemans, 2001 SPECIES
 
 #### Status
 ACCEPTED

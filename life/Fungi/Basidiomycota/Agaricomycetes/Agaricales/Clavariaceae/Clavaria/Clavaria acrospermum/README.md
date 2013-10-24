@@ -1,5 +1,4 @@
-Clavaria acrospermum Hoffm. SPECIES
-=======
+# Clavaria acrospermum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia ratticauda Fayod SPECIES
-=======
+# Collybia ratticauda Fayod SPECIES
 
 #### Status
 ACCEPTED

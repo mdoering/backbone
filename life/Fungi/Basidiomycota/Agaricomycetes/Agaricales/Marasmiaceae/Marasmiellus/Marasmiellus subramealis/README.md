@@ -1,5 +1,4 @@
-Marasmiellus subramealis (Dennis) Singer SPECIES
-=======
+# Marasmiellus subramealis (Dennis) Singer SPECIES
 
 #### Status
 ACCEPTED

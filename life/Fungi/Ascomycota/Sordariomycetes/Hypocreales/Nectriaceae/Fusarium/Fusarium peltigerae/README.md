@@ -1,5 +1,4 @@
-Fusarium peltigerae Westend., 1849 SPECIES
-=======
+# Fusarium peltigerae Westend., 1849 SPECIES
 
 #### Status
 ACCEPTED

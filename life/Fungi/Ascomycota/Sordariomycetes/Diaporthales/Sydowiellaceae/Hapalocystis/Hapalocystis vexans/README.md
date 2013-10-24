@@ -1,5 +1,4 @@
-Hapalocystis vexans Speg. SPECIES
-=======
+# Hapalocystis vexans Speg. SPECIES
 
 #### Status
 ACCEPTED

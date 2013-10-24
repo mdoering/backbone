@@ -1,5 +1,4 @@
-Rhynchophoromyces elephantinus Thaxt., 1908 SPECIES
-=======
+# Rhynchophoromyces elephantinus Thaxt., 1908 SPECIES
 
 #### Status
 ACCEPTED

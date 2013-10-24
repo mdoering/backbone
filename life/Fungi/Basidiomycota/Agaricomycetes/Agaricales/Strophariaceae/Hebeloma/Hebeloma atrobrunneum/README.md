@@ -1,5 +1,4 @@
-Hebeloma atrobrunneum Vesterh., 1989 SPECIES
-=======
+# Hebeloma atrobrunneum Vesterh., 1989 SPECIES
 
 #### Status
 ACCEPTED

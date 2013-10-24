@@ -1,5 +1,4 @@
-Bothrostoma mirabilis Kahl, 1927 SPECIES
-=======
+# Bothrostoma mirabilis Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

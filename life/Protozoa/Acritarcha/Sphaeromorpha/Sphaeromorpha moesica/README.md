@@ -1,5 +1,4 @@
-Sphaeromorpha moesica Baltes, 1969 SPECIES
-=======
+# Sphaeromorpha moesica Baltes, 1969 SPECIES
 
 #### Status
 ACCEPTED

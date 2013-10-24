@@ -1,8 +1,7 @@
-Evernia calycaris (L.) Link SPECIES
-=======
+# Evernia calicaris (L.) Link SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

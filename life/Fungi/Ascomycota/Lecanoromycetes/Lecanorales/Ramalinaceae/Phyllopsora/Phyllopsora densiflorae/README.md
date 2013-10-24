@@ -1,5 +1,4 @@
-Phyllopsora densiflorae (Vain.) Gotth. Schneid. SPECIES
-=======
+# Phyllopsora densiflorae (Vain.) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

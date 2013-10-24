@@ -1,5 +1,4 @@
-Clitocybe fallaciosa Speg. SPECIES
-=======
+# Clitocybe fallaciosa Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia lagoensis Henn. SPECIES
-=======
+# Puccinia lagoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

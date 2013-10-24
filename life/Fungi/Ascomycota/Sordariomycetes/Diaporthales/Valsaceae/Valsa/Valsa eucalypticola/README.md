@@ -1,5 +1,4 @@
-Valsa eucalypticola J.K. Sharma, C.N. Mohanan & Florence SPECIES
-=======
+# Valsa eucalypticola J.K. Sharma, C.N. Mohanan & Florence SPECIES
 
 #### Status
 ACCEPTED

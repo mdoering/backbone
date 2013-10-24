@@ -1,5 +1,4 @@
-Trichopeziza viridicoma (Peck) Sacc. SPECIES
-=======
+# Trichopeziza viridicoma (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

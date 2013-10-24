@@ -1,5 +1,4 @@
-Gymnopus xuchilensis Murrill SPECIES
-=======
+# Gymnopus xuchilensis Murrill SPECIES
 
 #### Status
 ACCEPTED

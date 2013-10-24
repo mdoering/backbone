@@ -1,5 +1,4 @@
-Doassansia sparganii Vánky, 1988 SPECIES
-=======
+# Doassansia sparganii Vánky, 1988 SPECIES
 
 #### Status
 ACCEPTED

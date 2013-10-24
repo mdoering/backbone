@@ -1,5 +1,4 @@
-Corollospora pseudopulchella Nakagiri & Tokura, 1988 SPECIES
-=======
+# Corollospora pseudopulchella Nakagiri & Tokura, 1988 SPECIES
 
 #### Status
 ACCEPTED

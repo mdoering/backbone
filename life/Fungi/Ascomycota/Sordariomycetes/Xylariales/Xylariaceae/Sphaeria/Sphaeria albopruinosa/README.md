@@ -1,5 +1,4 @@
-Sphaeria albopruinosa Schwein. SPECIES
-=======
+# Sphaeria albopruinosa Schwein. SPECIES
 
 #### Status
 ACCEPTED

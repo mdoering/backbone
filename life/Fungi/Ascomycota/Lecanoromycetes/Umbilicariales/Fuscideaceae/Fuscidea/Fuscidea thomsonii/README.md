@@ -1,5 +1,4 @@
-Fuscidea thomsonii Brodo & V. Wirth SPECIES
-=======
+# Fuscidea thomsonii Brodo & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

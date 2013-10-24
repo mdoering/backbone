@@ -1,5 +1,4 @@
-Verticillium sclerolobii Henn. SPECIES
-=======
+# Verticillium sclerolobii Henn. SPECIES
 
 #### Status
 ACCEPTED

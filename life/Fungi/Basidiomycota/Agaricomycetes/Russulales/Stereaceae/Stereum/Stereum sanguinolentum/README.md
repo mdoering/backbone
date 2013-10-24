@@ -1,17 +1,16 @@
-Stereum sanguinolentum subsp. sanguinolentum SUBSPECIES
-=======
+# Stereum sanguinolentum (Alb. & Schwein.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 549 (1838)
 
 #### Original name
-null
+Thelephora sanguinolenta Alb. & Schwein., 1805
 
 ### Remarks
 null

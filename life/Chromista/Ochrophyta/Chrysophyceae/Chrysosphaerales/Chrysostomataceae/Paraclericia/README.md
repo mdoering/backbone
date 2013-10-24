@@ -1,5 +1,4 @@
-Paraclericia Zanon, 1947 GENUS
-=======
+# Paraclericia Zanon, 1947 GENUS
 
 #### Status
 ACCEPTED

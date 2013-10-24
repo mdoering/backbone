@@ -1,5 +1,4 @@
-Phallus lobatus Batsch SPECIES
-=======
+# Phallus lobatus Batsch SPECIES
 
 #### Status
 ACCEPTED

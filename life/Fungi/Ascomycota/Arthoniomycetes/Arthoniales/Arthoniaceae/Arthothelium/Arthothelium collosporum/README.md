@@ -1,5 +1,4 @@
-Arthothelium collosporum (Vain.) Yoshim. SPECIES
-=======
+# Arthothelium collosporum (Vain.) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

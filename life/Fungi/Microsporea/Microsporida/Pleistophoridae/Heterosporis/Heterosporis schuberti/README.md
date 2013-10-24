@@ -1,5 +1,4 @@
-Heterosporis schuberti SPECIES
-=======
+# Heterosporis schuberti SPECIES
 
 #### Status
 ACCEPTED

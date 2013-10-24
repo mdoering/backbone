@@ -1,5 +1,4 @@
-Pseudaegerita foliicola Abdullah ex J.A. Cooper, 2005 SPECIES
-=======
+# Pseudaegerita foliicola Abdullah ex J.A. Cooper, 2005 SPECIES
 
 #### Status
 ACCEPTED

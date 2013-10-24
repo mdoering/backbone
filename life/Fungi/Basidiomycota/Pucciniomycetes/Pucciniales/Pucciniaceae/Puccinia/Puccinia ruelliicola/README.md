@@ -1,5 +1,4 @@
-Puccinia ruelliicola J.C. Lindq. SPECIES
-=======
+# Puccinia ruelliicola J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

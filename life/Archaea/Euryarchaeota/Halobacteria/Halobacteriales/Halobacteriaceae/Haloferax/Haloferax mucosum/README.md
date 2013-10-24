@@ -1,5 +1,4 @@
-Haloferax mucosum Allen, Goh, Leuko, Echigo, Mizuki, Usami, Kamekura, Neilan & Burns, 2008 SPECIES
-=======
+# Haloferax mucosum Allen, Goh, Leuko, Echigo, Mizuki, Usami, Kamekura, Neilan & Burns, 2008 SPECIES
 
 #### Status
 ACCEPTED

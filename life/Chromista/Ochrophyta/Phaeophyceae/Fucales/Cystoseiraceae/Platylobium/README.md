@@ -1,5 +1,4 @@
-Platylobium Kützing, 1849 GENUS
-=======
+# Platylobium Kützing, 1849 GENUS
 
 #### Status
 ACCEPTED

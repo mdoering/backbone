@@ -1,5 +1,4 @@
-Psilocybe polytrichophila (Peck) Pomerl. SPECIES
-=======
+# Psilocybe polytrichophila (Peck) Pomerl. SPECIES
 
 #### Status
 ACCEPTED

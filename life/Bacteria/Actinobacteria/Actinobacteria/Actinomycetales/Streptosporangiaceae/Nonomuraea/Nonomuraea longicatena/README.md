@@ -1,5 +1,4 @@
-Nonomuraea longicatena Chiba et al., 1999 SPECIES
-=======
+# Nonomuraea longicatena Chiba et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

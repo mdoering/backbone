@@ -1,5 +1,4 @@
-Notorotalia olsoni Vella, 1957 SPECIES
-=======
+# Notorotalia olsoni Vella, 1957 SPECIES
 
 #### Status
 ACCEPTED

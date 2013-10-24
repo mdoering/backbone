@@ -1,5 +1,4 @@
-Cultellothrix velhoi Foissner, 2003 SPECIES
-=======
+# Cultellothrix velhoi Foissner, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium amethystinum var. amethystinum VARIETY
-=======
+# Thelidium amethystinum Riehm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelidium amethystinum var. amethystinum
+Thelidium amethystinum Riehm.
 
 ### Remarks
 null

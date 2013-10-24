@@ -1,5 +1,4 @@
-Ralstonia insidiosa Coenye et al., 2003 SPECIES
-=======
+# Ralstonia insidiosa Coenye et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

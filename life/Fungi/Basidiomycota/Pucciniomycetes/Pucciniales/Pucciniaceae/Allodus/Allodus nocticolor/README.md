@@ -1,5 +1,4 @@
-Allodus nocticolor (Holw.) Orton SPECIES
-=======
+# Allodus nocticolor (Holw.) Orton SPECIES
 
 #### Status
 ACCEPTED

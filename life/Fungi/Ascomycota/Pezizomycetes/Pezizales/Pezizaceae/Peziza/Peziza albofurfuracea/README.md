@@ -1,5 +1,4 @@
-Peziza albofurfuracea Saut. SPECIES
-=======
+# Peziza albofurfuracea Saut. SPECIES
 
 #### Status
 ACCEPTED

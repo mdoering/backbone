@@ -1,5 +1,4 @@
-Buellia oleicola Zahlbr. SPECIES
-=======
+# Buellia oleicola Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

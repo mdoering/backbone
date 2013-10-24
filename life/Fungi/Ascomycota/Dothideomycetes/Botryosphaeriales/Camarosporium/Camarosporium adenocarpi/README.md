@@ -1,5 +1,4 @@
-Camarosporium adenocarpi Unamuno SPECIES
-=======
+# Camarosporium adenocarpi Unamuno SPECIES
 
 #### Status
 ACCEPTED

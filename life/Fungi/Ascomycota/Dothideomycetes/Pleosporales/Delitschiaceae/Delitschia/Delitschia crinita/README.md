@@ -1,5 +1,4 @@
-Delitschia crinita Luck-Allen & Cain, 1975 SPECIES
-=======
+# Delitschia crinita Luck-Allen & Cain, 1975 SPECIES
 
 #### Status
 ACCEPTED

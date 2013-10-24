@@ -1,5 +1,4 @@
-Asteromella silvarum Petr. SPECIES
-=======
+# Asteromella silvarum Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Koczyia Boudreaux & Hay GENUS
-=======
+# Koczyia Boudreaux & Hay GENUS
 
 #### Status
 ACCEPTED

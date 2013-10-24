@@ -1,5 +1,4 @@
-Cercophora acanthigera (Berk. & Broome) N. Lundq. SPECIES
-=======
+# Cercophora acanthigera (Berk. & Broome) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

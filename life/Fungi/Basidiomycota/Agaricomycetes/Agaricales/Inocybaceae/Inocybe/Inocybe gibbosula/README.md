@@ -1,5 +1,4 @@
-Inocybe gibbosula (E. Horak) Garrido SPECIES
-=======
+# Inocybe gibbosula (E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

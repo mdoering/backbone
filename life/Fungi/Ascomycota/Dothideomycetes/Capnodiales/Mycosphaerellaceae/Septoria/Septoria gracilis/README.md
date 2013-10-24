@@ -1,5 +1,4 @@
-Septoria gracilis Pass. SPECIES
-=======
+# Septoria gracilis Pass. SPECIES
 
 #### Status
 ACCEPTED

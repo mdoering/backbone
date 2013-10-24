@@ -1,5 +1,4 @@
-Trachyhystrichosphaera aimika German in Timofeev et al., 1976 SPECIES
-=======
+# Trachyhystrichosphaera aimika German in Timofeev et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

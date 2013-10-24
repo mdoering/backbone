@@ -1,5 +1,4 @@
-Clostridium collagenovorans Jain & Zeikus, 1988 SPECIES
-=======
+# Clostridium collagenovorans Jain & Zeikus, 1988 SPECIES
 
 #### Status
 ACCEPTED

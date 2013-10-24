@@ -1,5 +1,4 @@
-Exidia hispidula Berk. SPECIES
-=======
+# Exidia hispidula Berk. SPECIES
 
 #### Status
 ACCEPTED

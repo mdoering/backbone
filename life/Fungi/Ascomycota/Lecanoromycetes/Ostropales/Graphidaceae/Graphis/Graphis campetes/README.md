@@ -1,5 +1,4 @@
-Graphis campetes Kremp. SPECIES
-=======
+# Graphis campetes Kremp. SPECIES
 
 #### Status
 ACCEPTED

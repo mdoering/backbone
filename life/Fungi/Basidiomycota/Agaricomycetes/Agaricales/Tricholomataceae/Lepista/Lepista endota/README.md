@@ -1,5 +1,4 @@
-Lepista endota Grgur. SPECIES
-=======
+# Lepista endota Grgur. SPECIES
 
 #### Status
 ACCEPTED

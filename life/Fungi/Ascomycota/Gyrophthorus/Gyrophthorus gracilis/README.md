@@ -1,5 +1,4 @@
-Gyrophthorus gracilis Nik. Hoffm. & Hafellner SPECIES
-=======
+# Gyrophthorus gracilis Nik. Hoffm. & Hafellner SPECIES
 
 #### Status
 ACCEPTED

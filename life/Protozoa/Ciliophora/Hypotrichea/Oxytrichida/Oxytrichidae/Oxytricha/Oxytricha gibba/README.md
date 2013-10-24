@@ -1,5 +1,4 @@
-Oxytricha gibba Dujardin, 1841 SPECIES
-=======
+# Oxytricha gibba Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora paupera (Th. Fr.) Th. Fr. SPECIES
-=======
+# Lecanora paupera (Th. Fr.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

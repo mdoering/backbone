@@ -1,5 +1,4 @@
-Hendersonia peckii Clinton SPECIES
-=======
+# Hendersonia peckii Clinton SPECIES
 
 #### Status
 ACCEPTED

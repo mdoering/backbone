@@ -1,5 +1,4 @@
-Hygrocybe amazoniensis Singer SPECIES
-=======
+# Hygrocybe amazoniensis Singer SPECIES
 
 #### Status
 ACCEPTED

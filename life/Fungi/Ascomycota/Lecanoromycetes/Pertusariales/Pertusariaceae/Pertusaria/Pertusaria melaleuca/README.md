@@ -1,5 +1,4 @@
-Pertusaria melaleuca SPECIES
-=======
+# Pertusaria melaleuca SPECIES
 
 #### Status
 ACCEPTED

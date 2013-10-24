@@ -1,5 +1,4 @@
-Pichia hansen Hansson, H.G. (Comp.) (1998) SPECIES
-=======
+# Pichia hansen Hansson, H.G. (Comp.) (1998) SPECIES
 
 #### Status
 ACCEPTED

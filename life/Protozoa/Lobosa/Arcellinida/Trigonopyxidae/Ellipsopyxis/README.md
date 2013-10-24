@@ -1,5 +1,4 @@
-Ellipsopyxis Bonnet, 1965 GENUS
-=======
+# Ellipsopyxis Bonnet, 1965 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroplasma syrphidicola Whitcomb et al., 1996 SPECIES
-=======
+# Spiroplasma syrphidicola Whitcomb et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

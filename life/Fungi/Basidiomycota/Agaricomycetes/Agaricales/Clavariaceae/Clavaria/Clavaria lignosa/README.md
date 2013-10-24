@@ -1,5 +1,4 @@
-Clavaria lignosa Dicks. SPECIES
-=======
+# Clavaria lignosa Dicks. SPECIES
 
 #### Status
 ACCEPTED

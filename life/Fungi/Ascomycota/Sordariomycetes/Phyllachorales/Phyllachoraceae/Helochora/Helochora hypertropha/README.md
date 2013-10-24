@@ -1,5 +1,4 @@
-Helochora hypertropha Sherwood, 1979 SPECIES
-=======
+# Helochora hypertropha Sherwood, 1979 SPECIES
 
 #### Status
 ACCEPTED

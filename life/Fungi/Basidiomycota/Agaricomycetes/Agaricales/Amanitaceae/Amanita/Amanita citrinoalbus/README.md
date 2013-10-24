@@ -1,5 +1,4 @@
-Amanita citrinoalbus Vittad. SPECIES
-=======
+# Amanita citrinoalbus Vittad. SPECIES
 
 #### Status
 ACCEPTED

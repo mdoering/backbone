@@ -1,5 +1,4 @@
-Bjerkandera pura P. Karst. SPECIES
-=======
+# Bjerkandera pura P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neopeckia roberti Starbäck SPECIES
-=======
+# Neopeckia roberti Starbäck SPECIES
 
 #### Status
 ACCEPTED

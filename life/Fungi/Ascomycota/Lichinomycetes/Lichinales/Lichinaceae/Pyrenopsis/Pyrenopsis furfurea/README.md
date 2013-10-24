@@ -1,14 +1,13 @@
-Collema furfureum Nyl. SPECIES
-=======
+# Pyrenopsis furfurea (Nyl.) Leight. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. 3: 286 (1865)
+Bot. Notiser 58 (1866)
 
 #### Original name
 Collema furfureum Nyl.

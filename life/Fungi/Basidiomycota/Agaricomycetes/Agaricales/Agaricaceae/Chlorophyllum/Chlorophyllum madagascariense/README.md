@@ -1,5 +1,4 @@
-Chlorophyllum madagascariense (L.M. Dufour) Heinem. SPECIES
-=======
+# Chlorophyllum madagascariense (L.M. Dufour) Heinem. SPECIES
 
 #### Status
 ACCEPTED

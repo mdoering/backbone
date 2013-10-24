@@ -1,5 +1,4 @@
-Lyngbya brachynema Skuja SPECIES
-=======
+# Lyngbya brachynema Skuja SPECIES
 
 #### Status
 ACCEPTED

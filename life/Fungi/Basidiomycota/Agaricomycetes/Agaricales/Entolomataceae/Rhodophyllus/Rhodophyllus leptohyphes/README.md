@@ -1,5 +1,4 @@
-Rhodophyllus leptohyphes Romagn. SPECIES
-=======
+# Rhodophyllus leptohyphes Romagn. SPECIES
 
 #### Status
 ACCEPTED

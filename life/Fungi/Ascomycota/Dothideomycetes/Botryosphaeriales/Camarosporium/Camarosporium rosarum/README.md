@@ -1,5 +1,4 @@
-Camarosporium rosarum (Westend.) Sacc. SPECIES
-=======
+# Camarosporium rosarum (Westend.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

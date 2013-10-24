@@ -1,5 +1,4 @@
-Panartus Haeckel, 1887 GENUS
-=======
+# Panartus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

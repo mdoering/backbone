@@ -1,5 +1,4 @@
-Lacrymaria bulbosa SPECIES
-=======
+# Lacrymaria bulbosa SPECIES
 
 #### Status
 ACCEPTED

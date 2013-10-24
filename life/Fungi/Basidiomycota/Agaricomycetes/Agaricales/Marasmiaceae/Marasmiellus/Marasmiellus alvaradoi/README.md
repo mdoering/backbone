@@ -1,5 +1,4 @@
-Marasmiellus alvaradoi var. alvaradoi VARIETY
-=======
+# Marasmiellus alvaradoi Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 44: 322 (1973)
 
 #### Original name
-Marasmiellus alvaradoi var. alvaradoi
+Marasmiellus alvaradoi Singer
 
 ### Remarks
 null

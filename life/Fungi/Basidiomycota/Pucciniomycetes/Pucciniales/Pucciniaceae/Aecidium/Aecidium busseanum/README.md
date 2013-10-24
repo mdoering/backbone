@@ -1,5 +1,4 @@
-Aecidium busseanum Henn. SPECIES
-=======
+# Aecidium busseanum Henn. SPECIES
 
 #### Status
 ACCEPTED

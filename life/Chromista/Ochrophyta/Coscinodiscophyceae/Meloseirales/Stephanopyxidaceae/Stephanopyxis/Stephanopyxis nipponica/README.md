@@ -1,5 +1,4 @@
-Stephanopyxis nipponica Gran & Yendo SPECIES
-=======
+# Stephanopyxis nipponica Gran & Yendo SPECIES
 
 #### Status
 ACCEPTED

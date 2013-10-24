@@ -1,5 +1,4 @@
-Agaricus venustus Viv. SPECIES
-=======
+# Agaricus venustus Viv. SPECIES
 
 #### Status
 ACCEPTED

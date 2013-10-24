@@ -1,5 +1,4 @@
-Lepiota fulvodisca Peck SPECIES
-=======
+# Lepiota fulvodisca Peck SPECIES
 
 #### Status
 ACCEPTED

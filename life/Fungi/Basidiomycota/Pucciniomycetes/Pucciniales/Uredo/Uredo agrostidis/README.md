@@ -1,5 +1,4 @@
-Uredo agrostidis Arthur & Cummins SPECIES
-=======
+# Uredo agrostidis Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

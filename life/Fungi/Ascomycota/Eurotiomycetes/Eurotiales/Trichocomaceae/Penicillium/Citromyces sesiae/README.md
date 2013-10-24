@@ -1,5 +1,4 @@
-Citromyces sesiae Bainier & Sartory SPECIES
-=======
+# Citromyces sesiae Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED

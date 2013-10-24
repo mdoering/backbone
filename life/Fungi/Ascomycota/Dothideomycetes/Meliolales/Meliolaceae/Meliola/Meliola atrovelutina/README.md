@@ -1,5 +1,4 @@
-Meliola atrovelutina Speg. SPECIES
-=======
+# Meliola atrovelutina Speg. SPECIES
 
 #### Status
 ACCEPTED

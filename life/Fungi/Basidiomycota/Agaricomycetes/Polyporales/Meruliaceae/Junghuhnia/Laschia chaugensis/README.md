@@ -1,5 +1,4 @@
-Laschia chaugensis Rostr. SPECIES
-=======
+# Laschia chaugensis Rostr. SPECIES
 
 #### Status
 ACCEPTED

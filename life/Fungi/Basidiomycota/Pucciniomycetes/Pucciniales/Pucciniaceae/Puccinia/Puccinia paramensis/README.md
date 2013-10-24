@@ -1,5 +1,4 @@
-Puccinia paramensis Mayor SPECIES
-=======
+# Puccinia paramensis Mayor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euglenaria GENUS
-=======
+# Euglenaria GENUS
 
 #### Status
 ACCEPTED

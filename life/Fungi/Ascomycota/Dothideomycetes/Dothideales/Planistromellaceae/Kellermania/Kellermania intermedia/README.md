@@ -1,5 +1,4 @@
-Kellermania intermedia Vittal & Dorai SPECIES
-=======
+# Kellermania intermedia Vittal & Dorai SPECIES
 
 #### Status
 ACCEPTED

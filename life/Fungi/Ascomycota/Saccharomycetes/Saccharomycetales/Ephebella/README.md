@@ -1,5 +1,4 @@
-Ephebella Itzigs. GENUS
-=======
+# Ephebella Itzigs. GENUS
 
 #### Status
 ACCEPTED

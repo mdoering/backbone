@@ -1,14 +1,13 @@
-Flammula frowardii (Speg.) Sacc., 1891 SPECIES
-=======
+# Hypholoma frowardii (Speg.) Garrido, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 99: 135 (1985)
 
 #### Original name
 Agaricus frowardii Speg., 1887

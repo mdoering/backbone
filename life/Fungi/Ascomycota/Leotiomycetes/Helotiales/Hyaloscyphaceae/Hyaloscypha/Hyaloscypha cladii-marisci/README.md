@@ -1,5 +1,4 @@
-Hyaloscypha cladii-marisci Svrcek SPECIES
-=======
+# Hyaloscypha cladii-marisci Svrcek SPECIES
 
 #### Status
 ACCEPTED

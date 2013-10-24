@@ -1,5 +1,4 @@
-Chamaeceras dichrous (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras dichrous (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

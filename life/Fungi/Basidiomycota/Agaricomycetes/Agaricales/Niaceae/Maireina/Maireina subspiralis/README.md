@@ -1,5 +1,4 @@
-Maireina subspiralis W.B. Cooke SPECIES
-=======
+# Maireina subspiralis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

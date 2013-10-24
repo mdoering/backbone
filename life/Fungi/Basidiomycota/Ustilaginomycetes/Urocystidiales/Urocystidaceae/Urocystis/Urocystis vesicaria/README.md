@@ -1,5 +1,4 @@
-Urocystis vesicaria (J.S. Kaulf.) Brockmann SPECIES
-=======
+# Urocystis vesicaria (J.S. Kaulf.) Brockmann SPECIES
 
 #### Status
 ACCEPTED

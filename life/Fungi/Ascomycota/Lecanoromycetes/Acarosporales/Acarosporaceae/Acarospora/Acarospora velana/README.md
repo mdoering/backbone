@@ -1,5 +1,4 @@
-Acarospora velana A. Massal. SPECIES
-=======
+# Acarospora velana A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psychrobacter aquimaris Yoon et al., 2005 SPECIES
-=======
+# Psychrobacter aquimaris Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerostilbe caespitosa Fuckel SPECIES
-=======
+# Sphaerostilbe caespitosa Fuckel SPECIES
 
 #### Status
 ACCEPTED

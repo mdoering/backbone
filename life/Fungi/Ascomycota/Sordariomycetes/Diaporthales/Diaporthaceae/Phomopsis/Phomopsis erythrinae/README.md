@@ -1,5 +1,4 @@
-Phomopsis erythrinae (Petch) Petr. SPECIES
-=======
+# Phomopsis erythrinae (Petch) Petr. SPECIES
 
 #### Status
 ACCEPTED

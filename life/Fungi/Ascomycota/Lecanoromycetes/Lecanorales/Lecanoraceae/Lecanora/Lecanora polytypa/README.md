@@ -1,5 +1,4 @@
-Lecanora polytypa Vain. SPECIES
-=======
+# Lecanora polytypa Vain. SPECIES
 
 #### Status
 ACCEPTED

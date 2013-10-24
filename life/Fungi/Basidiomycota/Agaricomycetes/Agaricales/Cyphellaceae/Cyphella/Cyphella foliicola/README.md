@@ -1,5 +1,4 @@
-Cyphella foliicola Vain. SPECIES
-=======
+# Cyphella foliicola Vain. SPECIES
 
 #### Status
 ACCEPTED

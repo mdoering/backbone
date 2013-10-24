@@ -1,5 +1,4 @@
-Cystostereaceae FAMILY
-=======
+# Cystostereaceae FAMILY
 
 #### Status
 ACCEPTED

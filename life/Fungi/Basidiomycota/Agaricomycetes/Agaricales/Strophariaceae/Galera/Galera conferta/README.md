@@ -1,5 +1,4 @@
-Galera conferta Bolton SPECIES
-=======
+# Galera conferta Bolton SPECIES
 
 #### Status
 ACCEPTED

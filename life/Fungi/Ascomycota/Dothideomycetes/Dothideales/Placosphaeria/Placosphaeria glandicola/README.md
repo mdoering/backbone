@@ -1,5 +1,4 @@
-Placosphaeria glandicola C. Massal. SPECIES
-=======
+# Placosphaeria glandicola C. Massal. SPECIES
 
 #### Status
 ACCEPTED

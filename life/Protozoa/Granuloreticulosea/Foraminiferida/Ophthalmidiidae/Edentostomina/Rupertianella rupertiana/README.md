@@ -1,5 +1,4 @@
-Rupertianella rupertiana (Brady, 1881) SPECIES
-=======
+# Rupertianella rupertiana (Brady, 1881) SPECIES
 
 #### Status
 DOUBTFUL

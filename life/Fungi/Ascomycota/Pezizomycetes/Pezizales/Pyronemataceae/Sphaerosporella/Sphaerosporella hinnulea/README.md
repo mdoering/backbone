@@ -1,14 +1,13 @@
-Peziza hinnulea Berk. & Broome, 1870 SPECIES
-=======
+# Sphaerosporella hinnulea (Berk. & Broome) Rifai, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 4 6: (1870)
+Verh. K. Akad. Wet. , tweede sect. 57(3): 100 (1968)
 
 #### Original name
 Peziza hinnulea Berk. & Broome, 1870

@@ -1,5 +1,4 @@
-Pelodictyon Lauterborn GENUS
-=======
+# Pelodictyon Lauterborn GENUS
 
 #### Status
 ACCEPTED

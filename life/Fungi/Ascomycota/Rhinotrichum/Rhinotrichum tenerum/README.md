@@ -1,5 +1,4 @@
-Rhinotrichum tenerum Sumst. SPECIES
-=======
+# Rhinotrichum tenerum Sumst. SPECIES
 
 #### Status
 ACCEPTED

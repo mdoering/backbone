@@ -1,5 +1,4 @@
-Pelloporus fimbriatus (Bull.) Quél. SPECIES
-=======
+# Pelloporus fimbriatus (Bull.) Quél. SPECIES
 
 #### Status
 ACCEPTED

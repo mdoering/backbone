@@ -1,5 +1,4 @@
-Psathyrella retispora Corner SPECIES
-=======
+# Psathyrella retispora Corner SPECIES
 
 #### Status
 ACCEPTED

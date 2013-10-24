@@ -1,5 +1,4 @@
-Biatorella germanica A. Massal. SPECIES
-=======
+# Biatorella germanica A. Massal. SPECIES
 
 #### Status
 ACCEPTED

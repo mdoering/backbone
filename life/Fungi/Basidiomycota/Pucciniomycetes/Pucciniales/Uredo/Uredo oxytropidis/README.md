@@ -1,5 +1,4 @@
-Uredo oxytropidis Peck SPECIES
-=======
+# Uredo oxytropidis Peck SPECIES
 
 #### Status
 ACCEPTED

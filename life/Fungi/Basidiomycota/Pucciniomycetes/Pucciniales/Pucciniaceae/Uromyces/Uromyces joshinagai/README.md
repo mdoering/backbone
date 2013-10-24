@@ -1,5 +1,4 @@
-Uromyces joshinagai Henn. SPECIES
-=======
+# Uromyces joshinagai Henn. SPECIES
 
 #### Status
 ACCEPTED

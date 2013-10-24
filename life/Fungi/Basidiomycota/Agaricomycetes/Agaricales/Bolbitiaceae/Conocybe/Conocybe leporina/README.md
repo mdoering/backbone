@@ -1,5 +1,4 @@
-Conocybe leporina (Velen.) Singer SPECIES
-=======
+# Conocybe leporina (Velen.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletellus longipes var. longipes VARIETY
-=======
+# Boletellus longipes Heinem. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Jard. Bot. État 21: 292 (1951)
 
 #### Original name
-Boletellus longipes var. longipes
+Boletellus longipes Heinem.
 
 ### Remarks
 null

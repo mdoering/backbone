@@ -1,5 +1,4 @@
-Venenarius russuloides (Peck) Murrill SPECIES
-=======
+# Venenarius russuloides (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

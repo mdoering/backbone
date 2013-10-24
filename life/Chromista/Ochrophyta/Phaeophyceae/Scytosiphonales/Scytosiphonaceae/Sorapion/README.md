@@ -1,5 +1,4 @@
-Sorapion Kuckuck, 1894 GENUS
-=======
+# Sorapion Kuckuck, 1894 GENUS
 
 #### Status
 ACCEPTED

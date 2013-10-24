@@ -1,5 +1,4 @@
-Bakerophoma Died. GENUS
-=======
+# Bakerophoma Died. GENUS
 
 #### Status
 ACCEPTED

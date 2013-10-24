@@ -1,5 +1,4 @@
-Sphaeria plantaginicola Schwein. SPECIES
-=======
+# Sphaeria plantaginicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

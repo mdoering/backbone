@@ -1,17 +1,16 @@
-Pseudophysalospora Höhn. GENUS
-=======
+# Physalospora Niessl GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 16(1/2): 57 (1918)
+Verh. nat. Ver. Brünn 14: 170 (1876)
 
 #### Original name
-Pseudophysalospora Höhn.
+Physalospora Niessl
 
 ### Remarks
 null

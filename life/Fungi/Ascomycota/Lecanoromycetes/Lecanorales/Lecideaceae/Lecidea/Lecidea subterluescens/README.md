@@ -1,5 +1,4 @@
-Lecidea subterluescens f. subterluescens FORM
-=======
+# Lecidea subterluescens Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea subterluescens f. subterluescens
+Lecidea subterluescens Dalla Torre & Sarnth.
 
 ### Remarks
 null

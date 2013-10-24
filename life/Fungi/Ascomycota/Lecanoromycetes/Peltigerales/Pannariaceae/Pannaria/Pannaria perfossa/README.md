@@ -1,5 +1,4 @@
-Pannaria perfossa Stirt. SPECIES
-=======
+# Pannaria perfossa Stirt. SPECIES
 
 #### Status
 ACCEPTED

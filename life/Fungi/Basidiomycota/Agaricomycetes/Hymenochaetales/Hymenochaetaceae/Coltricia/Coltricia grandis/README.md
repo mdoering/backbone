@@ -1,5 +1,4 @@
-Coltricia grandis Corner SPECIES
-=======
+# Coltricia grandis Corner SPECIES
 
 #### Status
 ACCEPTED

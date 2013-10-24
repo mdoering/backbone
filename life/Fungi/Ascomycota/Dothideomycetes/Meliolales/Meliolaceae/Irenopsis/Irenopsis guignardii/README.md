@@ -1,5 +1,4 @@
-Irenopsis guignardii (Gaillard) F. Stevens SPECIES
-=======
+# Irenopsis guignardii (Gaillard) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

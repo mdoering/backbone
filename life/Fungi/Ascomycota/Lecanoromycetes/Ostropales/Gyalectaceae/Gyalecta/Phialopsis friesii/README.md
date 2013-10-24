@@ -1,5 +1,4 @@
-Phialopsis friesii SPECIES
-=======
+# Phialopsis friesii SPECIES
 
 #### Status
 ACCEPTED

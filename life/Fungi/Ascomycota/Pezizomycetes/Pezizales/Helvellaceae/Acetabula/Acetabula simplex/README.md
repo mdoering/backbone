@@ -1,5 +1,4 @@
-Acetabula simplex Rolland SPECIES
-=======
+# Acetabula simplex Rolland SPECIES
 
 #### Status
 ACCEPTED

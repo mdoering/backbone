@@ -1,5 +1,4 @@
-Didonia juniperina Velen. SPECIES
-=======
+# Didonia juniperina Velen. SPECIES
 
 #### Status
 ACCEPTED

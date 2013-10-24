@@ -1,5 +1,4 @@
-Penzigomyces uapacae (M.B. Ellis) Subram. SPECIES
-=======
+# Penzigomyces uapacae (M.B. Ellis) Subram. SPECIES
 
 #### Status
 ACCEPTED

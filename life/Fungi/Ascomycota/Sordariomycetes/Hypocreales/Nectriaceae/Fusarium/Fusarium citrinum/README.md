@@ -1,5 +1,4 @@
-Fusarium citrinum Wollenw. SPECIES
-=======
+# Fusarium citrinum Wollenw. SPECIES
 
 #### Status
 ACCEPTED

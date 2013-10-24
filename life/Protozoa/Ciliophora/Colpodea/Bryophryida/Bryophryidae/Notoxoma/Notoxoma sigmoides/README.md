@@ -1,5 +1,4 @@
-Notoxoma sigmoides Foissner, 1993 SPECIES
-=======
+# Notoxoma sigmoides Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

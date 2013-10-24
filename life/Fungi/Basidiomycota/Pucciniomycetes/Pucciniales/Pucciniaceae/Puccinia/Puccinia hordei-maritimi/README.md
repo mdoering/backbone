@@ -1,5 +1,4 @@
-Puccinia hordei-maritimi A.L. Guyot SPECIES
-=======
+# Puccinia hordei-maritimi A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

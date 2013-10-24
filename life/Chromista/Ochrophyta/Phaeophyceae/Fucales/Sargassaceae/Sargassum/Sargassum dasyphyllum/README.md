@@ -1,5 +1,4 @@
-Sargassum dasyphyllum SPECIES
-=======
+# Sargassum dasyphyllum SPECIES
 
 #### Status
 ACCEPTED

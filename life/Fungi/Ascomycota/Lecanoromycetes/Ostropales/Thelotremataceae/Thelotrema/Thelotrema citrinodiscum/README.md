@@ -1,5 +1,4 @@
-Thelotrema citrinodiscum Redinger SPECIES
-=======
+# Thelotrema citrinodiscum Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea mengyangensis Chao {?}, Hsa {?} & Sun {?} SPECIES
-=======
+# Usnea mengyangensis Chao {?}, Hsa {?} & Sun {?} SPECIES
 
 #### Status
 ACCEPTED

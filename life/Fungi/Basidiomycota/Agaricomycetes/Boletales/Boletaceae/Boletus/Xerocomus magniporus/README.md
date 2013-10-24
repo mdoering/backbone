@@ -1,5 +1,4 @@
-Xerocomus magniporus M. Zang & R.H. Petersen SPECIES
-=======
+# Xerocomus magniporus M. Zang & R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

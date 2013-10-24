@@ -1,8 +1,7 @@
-Holosticha interrupta Dragesco, 1966 SPECIES
-=======
+# Caudiholosticha interrupta (Dragesco, 1966) Berger, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

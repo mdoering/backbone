@@ -1,5 +1,4 @@
-Scirrhiella curvispora Speg. SPECIES
-=======
+# Scirrhiella curvispora Speg. SPECIES
 
 #### Status
 ACCEPTED

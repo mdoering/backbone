@@ -1,5 +1,4 @@
-Rhodophyllus anisothrix Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus anisothrix Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

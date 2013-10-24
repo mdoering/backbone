@@ -1,5 +1,4 @@
-Excipula betulae Fuckel SPECIES
-=======
+# Excipula betulae Fuckel SPECIES
 
 #### Status
 ACCEPTED

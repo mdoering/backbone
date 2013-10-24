@@ -1,5 +1,4 @@
-Panus strigellus (Berk.) Overh. SPECIES
-=======
+# Panus strigellus (Berk.) Overh. SPECIES
 
 #### Status
 ACCEPTED

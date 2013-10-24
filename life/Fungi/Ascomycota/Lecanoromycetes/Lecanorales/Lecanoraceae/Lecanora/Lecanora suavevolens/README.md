@@ -1,5 +1,4 @@
-Lecanora suavevolens Fée SPECIES
-=======
+# Lecanora suavevolens Fée SPECIES
 
 #### Status
 ACCEPTED

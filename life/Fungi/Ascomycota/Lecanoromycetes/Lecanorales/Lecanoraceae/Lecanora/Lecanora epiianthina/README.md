@@ -1,5 +1,4 @@
-Lecanora epiianthina SPECIES
-=======
+# Lecanora epiianthina SPECIES
 
 #### Status
 ACCEPTED

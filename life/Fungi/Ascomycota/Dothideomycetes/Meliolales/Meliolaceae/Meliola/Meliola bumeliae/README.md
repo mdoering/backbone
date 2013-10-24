@@ -1,5 +1,4 @@
-Meliola bumeliae Hansf. SPECIES
-=======
+# Meliola bumeliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

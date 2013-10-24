@@ -1,5 +1,4 @@
-Mycochrysis oligothiophila Skuja SPECIES
-=======
+# Mycochrysis oligothiophila Skuja SPECIES
 
 #### Status
 ACCEPTED

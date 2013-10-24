@@ -1,5 +1,4 @@
-Asterina toruligena Cooke SPECIES
-=======
+# Asterina toruligena Cooke SPECIES
 
 #### Status
 ACCEPTED

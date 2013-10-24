@@ -1,5 +1,4 @@
-Truncocolumella Zeller GENUS
-=======
+# Truncocolumella Zeller GENUS
 
 #### Status
 ACCEPTED

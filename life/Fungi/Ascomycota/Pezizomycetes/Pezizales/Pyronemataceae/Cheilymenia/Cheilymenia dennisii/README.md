@@ -1,5 +1,4 @@
-Cheilymenia dennisii J. Moravec SPECIES
-=======
+# Cheilymenia dennisii J. Moravec SPECIES
 
 #### Status
 ACCEPTED

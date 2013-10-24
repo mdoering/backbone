@@ -1,5 +1,4 @@
-Cercospora amaryllidis Ellis & Everh. SPECIES
-=======
+# Cercospora amaryllidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

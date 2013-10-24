@@ -1,5 +1,4 @@
-Phellinus baumii Pilát SPECIES
-=======
+# Phellinus baumii Pilát SPECIES
 
 #### Status
 ACCEPTED

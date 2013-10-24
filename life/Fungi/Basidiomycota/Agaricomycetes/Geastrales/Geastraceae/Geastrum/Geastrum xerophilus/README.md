@@ -1,17 +1,16 @@
-Geaster xerophilus Long SPECIES
-=======
+# Geastrum xerophilus Long SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 34(1): 13 (1942)
 
 #### Original name
-Geaster xerophilus Long
+Geastrum xerophilus Long
 
 ### Remarks
 null

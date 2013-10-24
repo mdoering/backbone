@@ -1,5 +1,4 @@
-Micropustulomyces R.W. Barreto GENUS
-=======
+# Micropustulomyces R.W. Barreto GENUS
 
 #### Status
 ACCEPTED

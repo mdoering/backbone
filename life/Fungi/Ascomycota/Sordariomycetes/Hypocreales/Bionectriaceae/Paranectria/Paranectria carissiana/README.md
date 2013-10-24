@@ -1,5 +1,4 @@
-Paranectria carissiana Sousa da Câmara & Luz SPECIES
-=======
+# Paranectria carissiana Sousa da Câmara & Luz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius melizeus E. Horak SPECIES
-=======
+# Cortinarius melizeus E. Horak SPECIES
 
 #### Status
 ACCEPTED

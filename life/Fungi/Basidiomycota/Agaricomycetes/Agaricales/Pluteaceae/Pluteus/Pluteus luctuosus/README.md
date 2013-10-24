@@ -1,17 +1,16 @@
-Pluteus marginatus var. cryptarum L. Remy VARIETY
-=======
+# Pluteus luctuosus Boud., 1905 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 21: 70 (1905)
 
 #### Original name
-Pluteus marginatus var. cryptarum L. Remy
+Pluteus luctuosus Boud., 1905
 
 ### Remarks
 null

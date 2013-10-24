@@ -1,5 +1,4 @@
-Lagena meridionalis SPECIES
-=======
+# Lagena meridionalis SPECIES
 
 #### Status
 ACCEPTED

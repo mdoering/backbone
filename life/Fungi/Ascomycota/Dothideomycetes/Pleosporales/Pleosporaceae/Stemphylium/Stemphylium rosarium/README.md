@@ -1,5 +1,4 @@
-Stemphylium rosarium (Penz.) E.G. Simmons SPECIES
-=======
+# Stemphylium rosarium (Penz.) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

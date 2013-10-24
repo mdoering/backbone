@@ -1,5 +1,4 @@
-Sporotrichum jubatum Link SPECIES
-=======
+# Sporotrichum jubatum Link SPECIES
 
 #### Status
 ACCEPTED

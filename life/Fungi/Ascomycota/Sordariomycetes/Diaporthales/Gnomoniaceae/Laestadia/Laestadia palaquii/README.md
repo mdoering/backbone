@@ -1,5 +1,4 @@
-Laestadia palaquii C.K. Bancr. SPECIES
-=======
+# Laestadia palaquii C.K. Bancr. SPECIES
 
 #### Status
 ACCEPTED

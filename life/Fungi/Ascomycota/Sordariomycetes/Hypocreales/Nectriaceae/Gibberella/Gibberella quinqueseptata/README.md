@@ -1,5 +1,4 @@
-Gibberella quinqueseptata Sherb. SPECIES
-=======
+# Gibberella quinqueseptata Sherb. SPECIES
 
 #### Status
 ACCEPTED

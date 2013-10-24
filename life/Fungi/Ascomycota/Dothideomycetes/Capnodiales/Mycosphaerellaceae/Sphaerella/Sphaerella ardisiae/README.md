@@ -1,5 +1,4 @@
-Sphaerella ardisiae Cif. & Gonz. Frag. SPECIES
-=======
+# Sphaerella ardisiae Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

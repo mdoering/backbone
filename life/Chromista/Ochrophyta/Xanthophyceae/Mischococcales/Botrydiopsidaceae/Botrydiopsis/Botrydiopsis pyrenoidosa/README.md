@@ -1,5 +1,4 @@
-Botrydiopsis pyrenoidosa H. Trenkwalder SPECIES
-=======
+# Botrydiopsis pyrenoidosa H. Trenkwalder SPECIES
 
 #### Status
 ACCEPTED

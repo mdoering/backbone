@@ -1,5 +1,4 @@
-Hypophyra López-Ochoterena, 1964 GENUS
-=======
+# Hypophyra López-Ochoterena, 1964 GENUS
 
 #### Status
 ACCEPTED

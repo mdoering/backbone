@@ -1,5 +1,4 @@
-Ramalina similis H. Magn. SPECIES
-=======
+# Ramalina similis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

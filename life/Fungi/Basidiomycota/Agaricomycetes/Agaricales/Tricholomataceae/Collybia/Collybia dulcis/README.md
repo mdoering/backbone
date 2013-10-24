@@ -1,5 +1,4 @@
-Collybia dulcis (Beeli) Singer SPECIES
-=======
+# Collybia dulcis (Beeli) Singer SPECIES
 
 #### Status
 ACCEPTED

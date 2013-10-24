@@ -1,5 +1,4 @@
-Syncesia glyphysoides (Fée) Tehler SPECIES
-=======
+# Syncesia glyphysoides (Fée) Tehler SPECIES
 
 #### Status
 ACCEPTED

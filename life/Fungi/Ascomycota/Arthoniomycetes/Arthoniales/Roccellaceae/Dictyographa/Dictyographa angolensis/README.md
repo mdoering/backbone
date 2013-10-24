@@ -1,5 +1,4 @@
-Dictyographa angolensis (Vain.) Zahlbr. SPECIES
-=======
+# Dictyographa angolensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

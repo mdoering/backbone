@@ -1,5 +1,4 @@
-Xerocomus subspinulosus Heinem. SPECIES
-=======
+# Xerocomus subspinulosus Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Niveostoma Svrcek GENUS
-=======
+# Solenopezia Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 42(3): 146 (1988)
+Syll. fung. (Abellini) 8: 477 (1889)
 
 #### Original name
-Niveostoma Svrcek
+Solenopezia Sacc.
 
 ### Remarks
 null

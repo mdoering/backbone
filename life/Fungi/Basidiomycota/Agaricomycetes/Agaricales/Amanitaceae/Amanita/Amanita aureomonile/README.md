@@ -1,5 +1,4 @@
-Amanita aureomonile Tulloss & Franco-Mol. SPECIES
-=======
+# Amanita aureomonile Tulloss & Franco-Mol. SPECIES
 
 #### Status
 ACCEPTED

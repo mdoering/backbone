@@ -1,5 +1,4 @@
-Hypocrea amazonica Cooke SPECIES
-=======
+# Hypocrea amazonica Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Janetia faureae (Piroz.) M.B. Ellis SPECIES
-=======
+# Janetia faureae (Piroz.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

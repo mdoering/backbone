@@ -1,5 +1,4 @@
-Meliola sapindacearum f. sapindacearum FORM
-=======
+# Meliola sapindacearum Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Revista Argent. Hist. Nat. 1: 29 (1891)
 
 #### Original name
-Meliola sapindacearum f. sapindacearum
+Meliola sapindacearum Speg.
 
 ### Remarks
 null

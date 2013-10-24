@@ -1,5 +1,4 @@
-Maudia Carter in Carter, Cameron & Smith, 1988 GENUS
-=======
+# Maudia Carter in Carter, Cameron & Smith, 1988 GENUS
 
 #### Status
 ACCEPTED

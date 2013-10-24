@@ -1,5 +1,4 @@
-Dictyocha grandis P. F. Ciesielski & C. A. Shaw SPECIES
-=======
+# Dictyocha grandis P. F. Ciesielski & C. A. Shaw SPECIES
 
 #### Status
 ACCEPTED

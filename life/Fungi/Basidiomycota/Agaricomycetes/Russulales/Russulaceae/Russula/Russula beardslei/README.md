@@ -1,5 +1,4 @@
-Russula beardslei Burl. SPECIES
-=======
+# Russula beardslei Burl. SPECIES
 
 #### Status
 ACCEPTED

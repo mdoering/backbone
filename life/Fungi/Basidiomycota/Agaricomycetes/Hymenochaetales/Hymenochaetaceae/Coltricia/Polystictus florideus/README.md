@@ -1,5 +1,4 @@
-Polystictus florideus (Berk.) Cooke SPECIES
-=======
+# Polystictus florideus (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

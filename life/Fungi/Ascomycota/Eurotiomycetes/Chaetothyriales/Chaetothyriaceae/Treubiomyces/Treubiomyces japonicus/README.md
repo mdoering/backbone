@@ -1,5 +1,4 @@
-Treubiomyces japonicus Hara SPECIES
-=======
+# Treubiomyces japonicus Hara SPECIES
 
 #### Status
 ACCEPTED

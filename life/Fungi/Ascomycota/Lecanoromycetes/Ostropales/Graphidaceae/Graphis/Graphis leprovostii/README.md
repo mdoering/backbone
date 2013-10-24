@@ -1,5 +1,4 @@
-Graphis leprovostii Mont. SPECIES
-=======
+# Graphis leprovostii Mont. SPECIES
 
 #### Status
 ACCEPTED

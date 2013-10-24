@@ -1,5 +1,4 @@
-Illosporium christansenii anon. SPECIES
-=======
+# Illosporium christansenii anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pachyella hydrophila (Sacc.) Pfister SPECIES
-=======
+# Pachyella hydrophila (Sacc.) Pfister SPECIES
 
 #### Status
 ACCEPTED

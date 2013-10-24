@@ -1,5 +1,4 @@
-Goplana micheliae Racib., 1900 SPECIES
-=======
+# Goplana micheliae Racib., 1900 SPECIES
 
 #### Status
 ACCEPTED

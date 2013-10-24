@@ -1,5 +1,4 @@
-Uredo salviae Dietel SPECIES
-=======
+# Uredo salviae Dietel SPECIES
 
 #### Status
 ACCEPTED

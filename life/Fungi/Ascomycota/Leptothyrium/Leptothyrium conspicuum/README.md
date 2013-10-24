@@ -1,5 +1,4 @@
-Leptothyrium conspicuum Dearn. & House SPECIES
-=======
+# Leptothyrium conspicuum Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

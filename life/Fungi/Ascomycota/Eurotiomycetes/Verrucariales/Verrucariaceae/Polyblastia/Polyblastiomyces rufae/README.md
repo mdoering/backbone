@@ -1,5 +1,4 @@
-Polyblastiomyces rufae Cif. & Tomas. SPECIES
-=======
+# Polyblastiomyces rufae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

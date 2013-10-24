@@ -1,5 +1,4 @@
-Glonium minusculum Sacc. & Penz. SPECIES
-=======
+# Glonium minusculum Sacc. & Penz. SPECIES
 
 #### Status
 ACCEPTED

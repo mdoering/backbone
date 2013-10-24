@@ -1,5 +1,4 @@
-Strigula macaronesica Sérus. SPECIES
-=======
+# Strigula macaronesica Sérus. SPECIES
 
 #### Status
 ACCEPTED

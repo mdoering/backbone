@@ -1,5 +1,4 @@
-Asteridiella combreti var. combreti VARIETY
-=======
+# Asteridiella combreti (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 159 (1961)
 
 #### Original name
-Asteridiella combreti var. combreti
+Irenina combreti F. Stevens
 
 ### Remarks
 null

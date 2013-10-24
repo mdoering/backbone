@@ -1,5 +1,4 @@
-Sphaeria congener Schumach. SPECIES
-=======
+# Sphaeria congener Schumach. SPECIES
 
 #### Status
 ACCEPTED

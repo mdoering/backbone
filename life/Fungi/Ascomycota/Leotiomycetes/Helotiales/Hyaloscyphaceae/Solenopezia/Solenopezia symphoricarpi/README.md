@@ -1,5 +1,4 @@
-Solenopezia symphoricarpi Ellis & Everh. SPECIES
-=======
+# Solenopezia symphoricarpi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

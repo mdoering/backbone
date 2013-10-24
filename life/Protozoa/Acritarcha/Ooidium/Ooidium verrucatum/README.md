@@ -1,5 +1,4 @@
-Ooidium verrucatum Yin Leiming, 1995 SPECIES
-=======
+# Ooidium verrucatum Yin Leiming, 1995 SPECIES
 
 #### Status
 ACCEPTED

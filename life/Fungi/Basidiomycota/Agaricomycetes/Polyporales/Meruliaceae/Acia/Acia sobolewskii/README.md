@@ -1,5 +1,4 @@
-Acia sobolewskii (Weinm.) P. Karst. SPECIES
-=======
+# Acia sobolewskii (Weinm.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

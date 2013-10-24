@@ -1,5 +1,4 @@
-Anthostomella eliminata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Anthostomella eliminata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

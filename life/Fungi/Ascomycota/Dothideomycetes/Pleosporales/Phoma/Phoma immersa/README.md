@@ -1,5 +1,4 @@
-Phoma immersa Sacc. SPECIES
-=======
+# Phoma immersa Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mesogloia coccinea C. Agardh SPECIES
-=======
+# Mesogloia coccinea C. Agardh SPECIES
 
 #### Status
 ACCEPTED

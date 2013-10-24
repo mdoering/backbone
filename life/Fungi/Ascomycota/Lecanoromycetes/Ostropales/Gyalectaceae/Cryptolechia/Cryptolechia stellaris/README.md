@@ -1,14 +1,13 @@
-Patellaria stellaris Müll. Arg. SPECIES
-=======
+# Cryptolechia stellaris (Müll. Arg.) D. Hawksw. & Dibben SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichenologist 14(1): 100 (1982)
 
 #### Original name
 Patellaria stellaris Müll. Arg.

@@ -1,5 +1,4 @@
-Potoromyces loculatus F. Muell. SPECIES
-=======
+# Potoromyces loculatus F. Muell. SPECIES
 
 #### Status
 ACCEPTED

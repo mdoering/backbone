@@ -1,5 +1,4 @@
-Polyporus alneus (Pers.) E.H.L. Krause SPECIES
-=======
+# Polyporus alneus (Pers.) E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus henningsii Sacc. & Trotter SPECIES
-=======
+# Pluteus henningsii Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

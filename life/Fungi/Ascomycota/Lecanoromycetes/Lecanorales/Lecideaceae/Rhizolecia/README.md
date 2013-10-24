@@ -1,5 +1,4 @@
-Rhizolecia Hertel GENUS
-=======
+# Rhizolecia Hertel GENUS
 
 #### Status
 ACCEPTED

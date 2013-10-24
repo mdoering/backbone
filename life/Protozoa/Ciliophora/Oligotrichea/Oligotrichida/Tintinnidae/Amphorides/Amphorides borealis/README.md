@@ -1,5 +1,4 @@
-Amphorides borealis (Hensen, 1890) SPECIES
-=======
+# Amphorides borealis (Hensen, 1890) SPECIES
 
 #### Status
 ACCEPTED

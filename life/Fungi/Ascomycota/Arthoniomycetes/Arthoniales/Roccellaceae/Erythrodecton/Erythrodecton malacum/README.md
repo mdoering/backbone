@@ -1,14 +1,13 @@
-Chiodecton malacum Kremp. SPECIES
-=======
+# Erythrodecton malacum (Kremp.) G. Thor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Op. bot. 103: 78 (1991)
 
 #### Original name
 Chiodecton malacum Kremp.

@@ -1,5 +1,4 @@
-Tricholoma diabolicum Rick SPECIES
-=======
+# Tricholoma diabolicum Rick SPECIES
 
 #### Status
 ACCEPTED

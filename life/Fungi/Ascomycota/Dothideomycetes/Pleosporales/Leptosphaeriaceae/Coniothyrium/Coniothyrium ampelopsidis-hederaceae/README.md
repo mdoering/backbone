@@ -1,17 +1,16 @@
-Coniothecium viticola Pass., 1888 SPECIES
-=======
+# Coniothyrium ampelopsidis-hederaceae (Sacc.) Biga, Cif. & Bestagno, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 12: 299 (1959)
 
 #### Original name
-Coniothecium viticola Pass., 1888
+Coniothecium ampelophloeum Sacc., 1892
 
 ### Remarks
 null

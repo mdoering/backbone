@@ -1,5 +1,4 @@
-Pertusaria fallax (Ach.) Howitt SPECIES
-=======
+# Pertusaria fallax (Ach.) Howitt SPECIES
 
 #### Status
 ACCEPTED

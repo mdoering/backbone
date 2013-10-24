@@ -1,5 +1,4 @@
-Rhytisma rhododendri-oldhamii Sawada SPECIES
-=======
+# Rhytisma rhododendri-oldhamii Sawada SPECIES
 
 #### Status
 ACCEPTED

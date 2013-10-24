@@ -1,14 +1,13 @@
-Cenangium spectabile (Kirschst.) Kirschst., 1938 SPECIES
-=======
+# Mollisia spectabilis Kirschst., 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 36(5/6): 389 (1938)
+Verh. bot. Ver. Prov. Brandenb. 48: 41 (1906)
 
 #### Original name
 Mollisia spectabilis Kirschst., 1906

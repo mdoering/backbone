@@ -1,5 +1,4 @@
-Gloeosporidium betularum (Ellis & G. Martin) Petr. SPECIES
-=======
+# Gloeosporidium betularum (Ellis & G. Martin) Petr. SPECIES
 
 #### Status
 ACCEPTED

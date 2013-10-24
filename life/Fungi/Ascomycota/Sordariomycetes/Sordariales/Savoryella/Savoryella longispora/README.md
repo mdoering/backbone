@@ -1,5 +1,4 @@
-Savoryella longispora E.B.G. Jones & K.D. Hyde, 1992 SPECIES
-=======
+# Savoryella longispora E.B.G. Jones & K.D. Hyde, 1992 SPECIES
 
 #### Status
 ACCEPTED

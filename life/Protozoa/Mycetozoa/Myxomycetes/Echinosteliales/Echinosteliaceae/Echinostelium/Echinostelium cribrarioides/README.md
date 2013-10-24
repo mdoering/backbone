@@ -1,5 +1,4 @@
-Echinostelium cribrarioides Alexop., 1961 SPECIES
-=======
+# Echinostelium cribrarioides Alexop., 1961 SPECIES
 
 #### Status
 ACCEPTED

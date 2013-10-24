@@ -1,5 +1,4 @@
-Pseudocercospora gomphrenae Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora gomphrenae Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

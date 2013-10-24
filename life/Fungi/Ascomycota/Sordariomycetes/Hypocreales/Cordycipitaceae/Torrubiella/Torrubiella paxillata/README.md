@@ -1,5 +1,4 @@
-Torrubiella paxillata Petch SPECIES
-=======
+# Torrubiella paxillata Petch SPECIES
 
 #### Status
 ACCEPTED

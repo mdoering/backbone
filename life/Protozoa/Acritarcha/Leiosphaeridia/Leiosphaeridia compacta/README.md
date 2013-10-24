@@ -1,5 +1,4 @@
-Leiosphaeridia compacta Nekryata, 1974 SPECIES
-=======
+# Leiosphaeridia compacta Nekryata, 1974 SPECIES
 
 #### Status
 ACCEPTED

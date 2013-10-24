@@ -1,17 +1,16 @@
-Ostenfeldiella Ferd. & Winge GENUS
-=======
+# Plasmodiophora Woronin GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. , Lond. 28: 648 (1914)
+Trudy S. Petersb. Obschch. Est. Otd. Bot. 8: 169 (1877)
 
 #### Original name
-Ostenfeldiella Ferd. & Winge
+Plasmodiophora Woronin
 
 ### Remarks
 null

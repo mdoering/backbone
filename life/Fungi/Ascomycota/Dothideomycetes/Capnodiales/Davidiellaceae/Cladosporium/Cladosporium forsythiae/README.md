@@ -1,5 +1,4 @@
-Cladosporium forsythiae Z.Y. Zhang & T. Zhang SPECIES
-=======
+# Cladosporium forsythiae Z.Y. Zhang & T. Zhang SPECIES
 
 #### Status
 ACCEPTED

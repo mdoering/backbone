@@ -1,5 +1,4 @@
-Cercospora mirabilis Tharp SPECIES
-=======
+# Cercospora mirabilis Tharp SPECIES
 
 #### Status
 ACCEPTED

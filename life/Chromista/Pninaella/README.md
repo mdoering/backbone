@@ -1,5 +1,4 @@
-Pninaella Brotzen, 1948 GENUS
-=======
+# Pninaella Brotzen, 1948 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxocephalus halophilus Kahl, 1931 SPECIES
-=======
+# Loxocephalus halophilus Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

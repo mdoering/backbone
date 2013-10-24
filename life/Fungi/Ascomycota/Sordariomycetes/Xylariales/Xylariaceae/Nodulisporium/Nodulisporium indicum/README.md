@@ -1,5 +1,4 @@
-Nodulisporium indicum S.M. Reddy & Bilgrami, 1972 SPECIES
-=======
+# Nodulisporium indicum S.M. Reddy & Bilgrami, 1972 SPECIES
 
 #### Status
 ACCEPTED

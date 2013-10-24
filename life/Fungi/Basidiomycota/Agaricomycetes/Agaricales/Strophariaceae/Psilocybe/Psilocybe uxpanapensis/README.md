@@ -1,5 +1,4 @@
-Psilocybe uxpanapensis Guzmán SPECIES
-=======
+# Psilocybe uxpanapensis Guzmán SPECIES
 
 #### Status
 ACCEPTED

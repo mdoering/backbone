@@ -1,5 +1,4 @@
-Anthracothecium ochroflavum (Nyl.) Müll. Arg. SPECIES
-=======
+# Anthracothecium ochroflavum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

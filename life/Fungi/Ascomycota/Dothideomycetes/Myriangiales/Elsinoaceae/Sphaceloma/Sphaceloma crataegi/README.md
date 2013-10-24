@@ -1,5 +1,4 @@
-Sphaceloma crataegi (Dearn. & Barthol.) Jenkins SPECIES
-=======
+# Sphaceloma crataegi (Dearn. & Barthol.) Jenkins SPECIES
 
 #### Status
 ACCEPTED

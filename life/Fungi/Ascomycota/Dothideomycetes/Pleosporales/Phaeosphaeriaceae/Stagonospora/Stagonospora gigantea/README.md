@@ -1,5 +1,4 @@
-Stagonospora gigantea Heald & F.A. Wolf SPECIES
-=======
+# Stagonospora gigantea Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

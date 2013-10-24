@@ -1,5 +1,4 @@
-Cortinarius badiovestitus Rob. Henry SPECIES
-=======
+# Cortinarius badiovestitus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

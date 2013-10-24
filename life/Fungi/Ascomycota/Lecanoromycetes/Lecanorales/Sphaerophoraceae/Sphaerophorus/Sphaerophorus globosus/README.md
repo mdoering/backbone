@@ -1,17 +1,16 @@
-Sphaerophorus coralloides f. coralloides FORM
-=======
+# Sphaerophorus globosus (Huds.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. (Usteri) 7: 23 (1794)
+Résult. Voy. Belgica, Lich. 35 (1903)
 
 #### Original name
-Sphaerophorus coralloides f. coralloides
+Lichen globosus Huds.
 
 ### Remarks
 null

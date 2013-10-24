@@ -1,5 +1,4 @@
-Ostreola sessilis Darker SPECIES
-=======
+# Ostreola sessilis Darker SPECIES
 
 #### Status
 ACCEPTED

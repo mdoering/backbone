@@ -1,5 +1,4 @@
-Erioderma meiocarpum Nyl. SPECIES
-=======
+# Erioderma meiocarpum Nyl. SPECIES
 
 #### Status
 ACCEPTED

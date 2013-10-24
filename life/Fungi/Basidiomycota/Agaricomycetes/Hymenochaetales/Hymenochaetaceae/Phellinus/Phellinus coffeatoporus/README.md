@@ -1,5 +1,4 @@
-Phellinus coffeatoporus Kotl. & Pouzar, 1979 SPECIES
-=======
+# Phellinus coffeatoporus Kotl. & Pouzar, 1979 SPECIES
 
 #### Status
 ACCEPTED

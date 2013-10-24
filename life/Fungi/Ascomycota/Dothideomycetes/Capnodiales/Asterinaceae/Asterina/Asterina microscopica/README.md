@@ -1,5 +1,4 @@
-Asterina microscopica Lév. SPECIES
-=======
+# Asterina microscopica Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotinia glandicola Velen. SPECIES
-=======
+# Sclerotinia glandicola Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meiothermus taiwanensis Chen et al., 2002 SPECIES
-=======
+# Meiothermus taiwanensis Chen et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

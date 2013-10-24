@@ -1,5 +1,4 @@
-Yamamotoa bomjardinensis Bat., 1960 SPECIES
-=======
+# Yamamotoa bomjardinensis Bat., 1960 SPECIES
 
 #### Status
 ACCEPTED

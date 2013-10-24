@@ -1,5 +1,4 @@
-Mycosphaerella polygoni-spectabilis R.W. Barreto SPECIES
-=======
+# Mycosphaerella polygoni-spectabilis R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

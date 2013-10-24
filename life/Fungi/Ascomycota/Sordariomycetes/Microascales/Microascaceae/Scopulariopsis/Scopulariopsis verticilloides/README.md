@@ -1,5 +1,4 @@
-Scopulariopsis verticilloides Kamyschko SPECIES
-=======
+# Scopulariopsis verticilloides Kamyschko SPECIES
 
 #### Status
 ACCEPTED

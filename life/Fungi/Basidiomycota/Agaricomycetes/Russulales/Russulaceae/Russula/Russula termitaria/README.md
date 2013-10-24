@@ -1,5 +1,4 @@
-Russula termitaria Buyck SPECIES
-=======
+# Russula termitaria Buyck SPECIES
 
 #### Status
 ACCEPTED

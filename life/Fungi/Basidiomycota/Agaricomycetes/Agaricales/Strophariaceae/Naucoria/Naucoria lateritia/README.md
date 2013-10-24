@@ -1,5 +1,4 @@
-Naucoria lateritia Velen. SPECIES
-=======
+# Naucoria lateritia Velen. SPECIES
 
 #### Status
 ACCEPTED

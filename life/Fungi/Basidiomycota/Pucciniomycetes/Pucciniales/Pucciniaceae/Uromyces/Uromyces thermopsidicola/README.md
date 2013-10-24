@@ -1,5 +1,4 @@
-Uromyces thermopsidicola Shimab. SPECIES
-=======
+# Uromyces thermopsidicola Shimab. SPECIES
 
 #### Status
 ACCEPTED

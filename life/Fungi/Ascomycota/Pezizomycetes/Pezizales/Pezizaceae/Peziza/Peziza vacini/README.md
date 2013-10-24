@@ -1,14 +1,13 @@
-Peziza vacinii (Velen.) Svrcek SPECIES
-=======
+# Peziza vacini (Velen.) Svrcek, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 31(2): 70 (1977)
 
 #### Original name
 Plicariella vacini Velen., 1939

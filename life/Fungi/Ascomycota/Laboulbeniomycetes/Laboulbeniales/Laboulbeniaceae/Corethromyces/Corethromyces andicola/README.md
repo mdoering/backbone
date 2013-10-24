@@ -1,5 +1,4 @@
-Corethromyces andicola Speg. SPECIES
-=======
+# Corethromyces andicola Speg. SPECIES
 
 #### Status
 ACCEPTED

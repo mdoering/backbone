@@ -1,5 +1,4 @@
-Sorosporium stenotaphri Vienn.-Bourg. SPECIES
-=======
+# Sorosporium stenotaphri Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

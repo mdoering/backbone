@@ -1,5 +1,4 @@
-Stereum pileolatum E.H.L. Krause SPECIES
-=======
+# Stereum pileolatum E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

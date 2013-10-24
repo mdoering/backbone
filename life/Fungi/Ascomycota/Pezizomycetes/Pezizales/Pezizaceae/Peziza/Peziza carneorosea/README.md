@@ -1,5 +1,4 @@
-Peziza carneorosea Cooke & Harkn. SPECIES
-=======
+# Peziza carneorosea Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

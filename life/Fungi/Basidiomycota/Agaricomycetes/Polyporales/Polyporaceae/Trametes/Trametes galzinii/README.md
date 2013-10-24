@@ -1,5 +1,4 @@
-Trametes galzinii (Bres.) Pilát SPECIES
-=======
+# Trametes galzinii (Bres.) Pilát SPECIES
 
 #### Status
 ACCEPTED

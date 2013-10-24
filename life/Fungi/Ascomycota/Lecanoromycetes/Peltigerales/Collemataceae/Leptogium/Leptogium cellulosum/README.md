@@ -1,5 +1,4 @@
-Leptogium cellulosum P. M. Jørg. & Tønsberg SPECIES
-=======
+# Leptogium cellulosum P. M. Jørg. & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

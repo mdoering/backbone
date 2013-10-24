@@ -1,5 +1,4 @@
-Lichen jussufii Link SPECIES
-=======
+# Lichen jussufii Link SPECIES
 
 #### Status
 ACCEPTED

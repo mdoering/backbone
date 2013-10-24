@@ -1,5 +1,4 @@
-Glaucinaria hololeuca (Mont. & Bosch) A. Massal. SPECIES
-=======
+# Glaucinaria hololeuca (Mont. & Bosch) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

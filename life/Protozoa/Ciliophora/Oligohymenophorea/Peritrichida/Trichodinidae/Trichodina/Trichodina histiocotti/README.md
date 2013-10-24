@@ -1,5 +1,4 @@
-Trichodina histiocotti Stein, 1979 SPECIES
-=======
+# Trichodina histiocotti Stein, 1979 SPECIES
 
 #### Status
 ACCEPTED

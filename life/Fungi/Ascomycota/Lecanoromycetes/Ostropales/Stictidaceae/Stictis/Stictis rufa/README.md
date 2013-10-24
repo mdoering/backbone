@@ -1,5 +1,4 @@
-Stictis rufa Pers. SPECIES
-=======
+# Stictis rufa Pers. SPECIES
 
 #### Status
 ACCEPTED

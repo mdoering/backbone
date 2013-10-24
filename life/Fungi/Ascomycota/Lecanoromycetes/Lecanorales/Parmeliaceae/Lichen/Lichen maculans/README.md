@@ -1,5 +1,4 @@
-Lichen maculans (Ach.) Lam. SPECIES
-=======
+# Lichen maculans (Ach.) Lam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoria ascendens S. Y. Kondr. SPECIES
-=======
+# Xanthoria ascendens S. Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria hypericorum Cooke SPECIES
-=======
+# Botryosphaeria hypericorum Cooke SPECIES
 
 #### Status
 ACCEPTED

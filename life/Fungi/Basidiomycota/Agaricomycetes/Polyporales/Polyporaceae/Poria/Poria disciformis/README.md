@@ -1,5 +1,4 @@
-Poria disciformis (Lév.) Sacc. SPECIES
-=======
+# Poria disciformis (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

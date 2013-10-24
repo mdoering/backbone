@@ -1,5 +1,4 @@
-Roccella galapagoensis Follmann SPECIES
-=======
+# Roccella galapagoensis Follmann SPECIES
 
 #### Status
 ACCEPTED

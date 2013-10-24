@@ -1,5 +1,4 @@
-Entyloma lapponicum Liro SPECIES
-=======
+# Entyloma lapponicum Liro SPECIES
 
 #### Status
 ACCEPTED

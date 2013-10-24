@@ -1,5 +1,4 @@
-Uromyces caricis-brunneae Morim. SPECIES
-=======
+# Uromyces caricis-brunneae Morim. SPECIES
 
 #### Status
 ACCEPTED

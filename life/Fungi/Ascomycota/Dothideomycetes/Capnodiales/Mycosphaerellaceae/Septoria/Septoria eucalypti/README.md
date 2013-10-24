@@ -1,5 +1,4 @@
-Septoria eucalypti G. Winter & Roum. SPECIES
-=======
+# Septoria eucalypti G. Winter & Roum. SPECIES
 
 #### Status
 ACCEPTED

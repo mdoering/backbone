@@ -1,5 +1,4 @@
-Marasmius nivicola Har. Takah. SPECIES
-=======
+# Marasmius nivicola Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

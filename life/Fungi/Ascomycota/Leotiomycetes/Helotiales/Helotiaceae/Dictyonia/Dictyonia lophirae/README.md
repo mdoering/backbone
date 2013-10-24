@@ -1,5 +1,4 @@
-Dictyonia lophirae Dennis, 1953 SPECIES
-=======
+# Dictyonia lophirae Dennis, 1953 SPECIES
 
 #### Status
 ACCEPTED

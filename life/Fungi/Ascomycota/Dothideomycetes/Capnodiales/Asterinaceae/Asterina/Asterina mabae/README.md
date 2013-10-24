@@ -1,5 +1,4 @@
-Asterina mabae M.S. Patil & A.B. Pawar SPECIES
-=======
+# Asterina mabae M.S. Patil & A.B. Pawar SPECIES
 
 #### Status
 ACCEPTED

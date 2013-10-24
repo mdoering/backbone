@@ -1,5 +1,4 @@
-Mycoderma dombrayi Vuill. SPECIES
-=======
+# Mycoderma dombrayi Vuill. SPECIES
 
 #### Status
 ACCEPTED

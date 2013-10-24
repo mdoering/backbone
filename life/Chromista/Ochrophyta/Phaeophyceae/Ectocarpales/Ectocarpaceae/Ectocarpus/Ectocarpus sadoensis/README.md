@@ -1,5 +1,4 @@
-Ectocarpus sadoensis Noda SPECIES
-=======
+# Ectocarpus sadoensis Noda SPECIES
 
 #### Status
 ACCEPTED

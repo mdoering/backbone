@@ -1,5 +1,4 @@
-Metaxystomium Berger, 1994 GENUS
-=======
+# Metaxystomium Berger, 1994 GENUS
 
 #### Status
 ACCEPTED

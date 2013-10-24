@@ -1,5 +1,4 @@
-Entolingulina veleroae McCulloch, 1977 SPECIES
-=======
+# Entolingulina veleroae McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

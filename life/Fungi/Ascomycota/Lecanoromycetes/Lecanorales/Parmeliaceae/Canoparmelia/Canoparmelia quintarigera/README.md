@@ -1,5 +1,4 @@
-Canoparmelia quintarigera Aptroot SPECIES
-=======
+# Canoparmelia quintarigera Aptroot SPECIES
 
 #### Status
 ACCEPTED

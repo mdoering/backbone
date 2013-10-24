@@ -1,5 +1,4 @@
-Diplodinula populi (Ellis & Everh.) Tassi SPECIES
-=======
+# Diplodinula populi (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

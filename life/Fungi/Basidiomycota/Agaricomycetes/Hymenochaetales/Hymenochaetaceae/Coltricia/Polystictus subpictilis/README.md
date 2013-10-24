@@ -1,5 +1,4 @@
-Polystictus subpictilis Henn. SPECIES
-=======
+# Polystictus subpictilis Henn. SPECIES
 
 #### Status
 ACCEPTED

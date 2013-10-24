@@ -1,5 +1,4 @@
-Chromocreopsis cubensis (Ellis & Holw.) Seaver SPECIES
-=======
+# Chromocreopsis cubensis (Ellis & Holw.) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum neriicolum SPECIES
-=======
+# Colletotrichum neriicolum SPECIES
 
 #### Status
 ACCEPTED

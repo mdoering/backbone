@@ -1,5 +1,4 @@
-Seimatosporiella Abbas, B. Sutton & Ghaffar GENUS
-=======
+# Seimatosporiella Abbas, B. Sutton & Ghaffar GENUS
 
 #### Status
 ACCEPTED

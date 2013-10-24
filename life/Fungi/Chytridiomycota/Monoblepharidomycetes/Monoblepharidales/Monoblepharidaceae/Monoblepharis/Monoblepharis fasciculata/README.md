@@ -1,14 +1,13 @@
-Diblepharis fasciculata (Thaxt.) Lagerh., 1900 SPECIES
-=======
+# Monoblepharis fasciculata Thaxt., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Gaz. 20: 439 (1895)
 
 #### Original name
 Monoblepharis fasciculata Thaxt., 1895

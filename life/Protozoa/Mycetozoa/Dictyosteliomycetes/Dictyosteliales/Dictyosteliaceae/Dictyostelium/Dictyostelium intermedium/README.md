@@ -1,5 +1,4 @@
-Dictyostelium intermedium Cavender, 1976 SPECIES
-=======
+# Dictyostelium intermedium Cavender, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ditremis anisomera (Müll. Arg.) Makhija & Patw. SPECIES
-=======
+# Ditremis anisomera (Müll. Arg.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

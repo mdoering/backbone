@@ -1,5 +1,4 @@
-Puccinia tatarinovii Kom. {?} & Tranzschel SPECIES
-=======
+# Puccinia tatarinovii Kom. {?} & Tranzschel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia tecomae Niessl SPECIES
-=======
+# Pestalotia tecomae Niessl SPECIES
 
 #### Status
 ACCEPTED

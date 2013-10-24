@@ -1,5 +1,4 @@
-Cystophora craterioides Rabenh. SPECIES
-=======
+# Cystophora craterioides Rabenh. SPECIES
 
 #### Status
 ACCEPTED

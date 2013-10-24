@@ -1,5 +1,4 @@
-Licea alpina A. Sánchez, G. Moreno, & D. W. Mitch., 2010 SPECIES
-=======
+# Licea alpina A. Sánchez, G. Moreno, & D. W. Mitch., 2010 SPECIES
 
 #### Status
 ACCEPTED

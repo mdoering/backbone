@@ -1,5 +1,4 @@
-Oropogon sperlingii Essl. SPECIES
-=======
+# Oropogon sperlingii Essl. SPECIES
 
 #### Status
 ACCEPTED

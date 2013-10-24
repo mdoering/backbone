@@ -1,5 +1,4 @@
-Agaricus tentatule Bull. SPECIES
-=======
+# Agaricus tentatule Bull. SPECIES
 
 #### Status
 ACCEPTED

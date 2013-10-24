@@ -1,5 +1,4 @@
-Thelephora betulae Schumach. SPECIES
-=======
+# Thelephora betulae Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria pulverulenta Müll. Arg. SPECIES
-=======
+# Patellaria pulverulenta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stylonychia frontosus Dumas SPECIES
-=======
+# Stylonychia frontosus Dumas SPECIES
 
 #### Status
 ACCEPTED

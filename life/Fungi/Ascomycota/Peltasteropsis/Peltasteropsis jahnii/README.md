@@ -1,5 +1,4 @@
-Peltasteropsis jahnii Bat., Cif. & H. Maia SPECIES
-=======
+# Peltasteropsis jahnii Bat., Cif. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

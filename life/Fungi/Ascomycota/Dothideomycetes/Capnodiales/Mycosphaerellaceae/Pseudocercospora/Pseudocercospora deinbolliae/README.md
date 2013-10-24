@@ -1,5 +1,4 @@
-Pseudocercospora deinbolliae Deighton SPECIES
-=======
+# Pseudocercospora deinbolliae Deighton SPECIES
 
 #### Status
 ACCEPTED

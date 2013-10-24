@@ -1,5 +1,4 @@
-Gyrodinium atractos J. Larsen, 1996 SPECIES
-=======
+# Gyrodinium atractos J. Larsen, 1996 SPECIES
 
 #### Status
 ACCEPTED

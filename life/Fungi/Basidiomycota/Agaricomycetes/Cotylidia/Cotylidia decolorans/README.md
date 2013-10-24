@@ -1,14 +1,13 @@
-Thelephora decolorans Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Cotylidia decolorans (Berk. & M.A. Curtis) A.L. Welden, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 10(no. 46): 328 (1868)
+Lloydia 21: 41 (1958)
 
 #### Original name
 Thelephora decolorans Berk. & M.A. Curtis, 1868

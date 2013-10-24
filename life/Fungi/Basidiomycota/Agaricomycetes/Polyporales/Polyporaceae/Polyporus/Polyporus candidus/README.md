@@ -1,5 +1,4 @@
-Polyporus candidus (Pers.) Pers. SPECIES
-=======
+# Polyporus candidus (Pers.) Pers. SPECIES
 
 #### Status
 ACCEPTED

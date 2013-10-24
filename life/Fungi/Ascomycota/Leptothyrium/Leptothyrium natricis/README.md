@@ -1,5 +1,4 @@
-Leptothyrium natricis (Mont.) Gonz. Frag. SPECIES
-=======
+# Leptothyrium natricis (Mont.) Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

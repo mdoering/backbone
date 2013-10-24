@@ -1,5 +1,4 @@
-Leiosphaeridia acerscabrella Johnson, 1985 SPECIES
-=======
+# Leiosphaeridia acerscabrella Johnson, 1985 SPECIES
 
 #### Status
 ACCEPTED

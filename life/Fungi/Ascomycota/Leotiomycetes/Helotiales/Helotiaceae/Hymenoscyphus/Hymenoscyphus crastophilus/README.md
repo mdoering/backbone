@@ -1,5 +1,4 @@
-Hymenoscyphus crastophilus (Sacc.) Dennis SPECIES
-=======
+# Hymenoscyphus crastophilus (Sacc.) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus lindquistii Gamundí & Giaiotti SPECIES
-=======
+# Hymenoscyphus lindquistii Gamundí & Giaiotti SPECIES
 
 #### Status
 ACCEPTED

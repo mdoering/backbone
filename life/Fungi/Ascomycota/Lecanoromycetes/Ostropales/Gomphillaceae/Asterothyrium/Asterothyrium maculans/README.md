@@ -1,5 +1,4 @@
-Asterothyrium maculans Vain. SPECIES
-=======
+# Asterothyrium maculans Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia coccispora (Norman) Arnold SPECIES
-=======
+# Polyblastia coccispora (Norman) Arnold SPECIES
 
 #### Status
 ACCEPTED

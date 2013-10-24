@@ -1,5 +1,4 @@
-Eutorula vulgaris H. Will SPECIES
-=======
+# Eutorula vulgaris H. Will SPECIES
 
 #### Status
 ACCEPTED

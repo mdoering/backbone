@@ -1,5 +1,4 @@
-Xanthoparmelia alligatensis Elix SPECIES
-=======
+# Xanthoparmelia alligatensis Elix SPECIES
 
 #### Status
 ACCEPTED

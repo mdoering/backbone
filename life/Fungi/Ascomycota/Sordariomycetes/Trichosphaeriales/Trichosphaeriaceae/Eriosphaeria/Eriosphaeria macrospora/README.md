@@ -1,5 +1,4 @@
-Eriosphaeria macrospora Wehm. SPECIES
-=======
+# Eriosphaeria macrospora Wehm. SPECIES
 
 #### Status
 ACCEPTED

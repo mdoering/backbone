@@ -1,5 +1,4 @@
-Cryptodiscus lacteus Starbäck SPECIES
-=======
+# Cryptodiscus lacteus Starbäck SPECIES
 
 #### Status
 ACCEPTED

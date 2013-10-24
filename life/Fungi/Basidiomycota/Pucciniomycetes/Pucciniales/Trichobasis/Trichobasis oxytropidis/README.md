@@ -1,5 +1,4 @@
-Trichobasis oxytropidis Peck SPECIES
-=======
+# Trichobasis oxytropidis Peck SPECIES
 
 #### Status
 ACCEPTED

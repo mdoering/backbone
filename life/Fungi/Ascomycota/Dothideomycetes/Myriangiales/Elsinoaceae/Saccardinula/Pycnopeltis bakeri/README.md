@@ -1,5 +1,4 @@
-Pycnopeltis bakeri Syd. & P. Syd. SPECIES
-=======
+# Pycnopeltis bakeri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

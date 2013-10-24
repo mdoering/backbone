@@ -1,5 +1,4 @@
-Dolosicoccus paucivorans Collins et al., 1999 SPECIES
-=======
+# Dolosicoccus paucivorans Collins et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

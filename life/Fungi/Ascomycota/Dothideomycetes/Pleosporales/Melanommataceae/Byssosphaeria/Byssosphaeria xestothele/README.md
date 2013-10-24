@@ -1,5 +1,4 @@
-Byssosphaeria xestothele (Berk. & M.A. Curtis) M.E. Barr SPECIES
-=======
+# Byssosphaeria xestothele (Berk. & M.A. Curtis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

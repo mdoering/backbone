@@ -1,5 +1,4 @@
-Teichospora rostrata P. Karst. SPECIES
-=======
+# Teichospora rostrata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius albidulus Murrill SPECIES
-=======
+# Cortinarius albidulus Murrill SPECIES
 
 #### Status
 ACCEPTED

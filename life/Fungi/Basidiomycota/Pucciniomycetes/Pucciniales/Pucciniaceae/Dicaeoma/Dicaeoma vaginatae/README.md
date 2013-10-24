@@ -1,5 +1,4 @@
-Dicaeoma vaginatae (Juel) Kuntze SPECIES
-=======
+# Dicaeoma vaginatae (Juel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

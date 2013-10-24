@@ -1,5 +1,4 @@
-Lecidea granuligera Hue SPECIES
-=======
+# Lecidea granuligera Hue SPECIES
 
 #### Status
 ACCEPTED

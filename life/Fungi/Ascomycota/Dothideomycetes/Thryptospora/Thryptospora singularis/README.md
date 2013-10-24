@@ -1,17 +1,16 @@
-Thryptospora singularia Petr. SPECIES
-=======
+# Thryptospora singularis Petr., 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 1: 52 (1947)
 
 #### Original name
-Thryptospora singularia Petr.
+Thryptospora singularis Petr., 1947
 
 ### Remarks
 null

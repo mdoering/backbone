@@ -1,5 +1,4 @@
-Sphaerocybe concentrica Magrou & Marneffe, 1946 SPECIES
-=======
+# Sphaerocybe concentrica Magrou & Marneffe, 1946 SPECIES
 
 #### Status
 ACCEPTED

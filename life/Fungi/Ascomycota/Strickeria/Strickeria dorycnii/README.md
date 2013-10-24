@@ -1,5 +1,4 @@
-Strickeria dorycnii Baudy & Pieb. SPECIES
-=======
+# Strickeria dorycnii Baudy & Pieb. SPECIES
 
 #### Status
 ACCEPTED

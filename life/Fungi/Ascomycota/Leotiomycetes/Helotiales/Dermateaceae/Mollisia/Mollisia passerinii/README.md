@@ -1,5 +1,4 @@
-Mollisia passerinii Sacc. SPECIES
-=======
+# Mollisia passerinii Sacc. SPECIES
 
 #### Status
 ACCEPTED

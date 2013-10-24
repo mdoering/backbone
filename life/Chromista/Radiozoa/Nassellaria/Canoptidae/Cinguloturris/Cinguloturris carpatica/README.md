@@ -1,5 +1,4 @@
-Cinguloturris carpatica SPECIES
-=======
+# Cinguloturris carpatica SPECIES
 
 #### Status
 ACCEPTED

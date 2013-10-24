@@ -1,5 +1,4 @@
-Conjunctospora vesiculifera Udagawa, Uchiy. & Kamiya, 1999 SPECIES
-=======
+# Conjunctospora vesiculifera Udagawa, Uchiy. & Kamiya, 1999 SPECIES
 
 #### Status
 ACCEPTED

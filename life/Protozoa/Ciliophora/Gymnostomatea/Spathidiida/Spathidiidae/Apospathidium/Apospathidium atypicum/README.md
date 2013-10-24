@@ -1,8 +1,7 @@
-Spathidium atypicum (Buitkamp & Wilbert, 1974) Buitkamp, 1977 SPECIES
-=======
+# Apospathidium atypicum (Buitkamp & Wilbert, 1974) Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

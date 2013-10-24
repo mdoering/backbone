@@ -1,5 +1,4 @@
-Puccinia procera Dietel & Holw. SPECIES
-=======
+# Puccinia procera Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

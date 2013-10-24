@@ -1,5 +1,4 @@
-Coniangium galactites Bagl. SPECIES
-=======
+# Coniangium galactites Bagl. SPECIES
 
 #### Status
 ACCEPTED

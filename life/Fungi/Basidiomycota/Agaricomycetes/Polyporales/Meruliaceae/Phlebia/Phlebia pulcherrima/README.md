@@ -1,5 +1,4 @@
-Phlebia pulcherrima Parmasto SPECIES
-=======
+# Phlebia pulcherrima Parmasto SPECIES
 
 #### Status
 ACCEPTED

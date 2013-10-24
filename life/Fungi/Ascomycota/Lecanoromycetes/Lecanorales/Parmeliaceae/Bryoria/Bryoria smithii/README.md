@@ -1,17 +1,16 @@
-Alectoria smithii f. smithii FORM
-=======
+# Bryoria smithii (Du Rietz) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. 42: 152 (1977)
 
 #### Original name
-Alectoria smithii f. smithii
+Alectoria smithii Du Rietz
 
 ### Remarks
 null

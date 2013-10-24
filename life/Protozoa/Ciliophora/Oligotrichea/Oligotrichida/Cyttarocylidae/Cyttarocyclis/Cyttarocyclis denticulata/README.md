@@ -1,5 +1,4 @@
-Cyttarocyclis denticulata SPECIES
-=======
+# Cyttarocyclis denticulata SPECIES
 
 #### Status
 ACCEPTED

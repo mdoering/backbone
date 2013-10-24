@@ -1,5 +1,4 @@
-Buellia tombadorensis A. Nordin SPECIES
-=======
+# Buellia tombadorensis A. Nordin SPECIES
 
 #### Status
 ACCEPTED

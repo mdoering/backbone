@@ -1,5 +1,4 @@
-Agaricus strictior Peck SPECIES
-=======
+# Agaricus strictior Peck SPECIES
 
 #### Status
 ACCEPTED

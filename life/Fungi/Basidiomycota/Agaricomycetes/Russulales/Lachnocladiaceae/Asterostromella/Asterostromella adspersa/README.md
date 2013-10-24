@@ -1,5 +1,4 @@
-Asterostromella adspersa Rick SPECIES
-=======
+# Asterostromella adspersa Rick SPECIES
 
 #### Status
 ACCEPTED

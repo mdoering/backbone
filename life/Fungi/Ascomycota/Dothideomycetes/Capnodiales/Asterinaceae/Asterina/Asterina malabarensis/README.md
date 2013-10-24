@@ -1,5 +1,4 @@
-Asterina malabarensis Syd. & P. Syd. SPECIES
-=======
+# Asterina malabarensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

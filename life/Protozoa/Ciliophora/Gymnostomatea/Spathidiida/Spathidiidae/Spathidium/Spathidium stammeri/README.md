@@ -1,5 +1,4 @@
-Spathidium stammeri SPECIES
-=======
+# Spathidium stammeri SPECIES
 
 #### Status
 ACCEPTED

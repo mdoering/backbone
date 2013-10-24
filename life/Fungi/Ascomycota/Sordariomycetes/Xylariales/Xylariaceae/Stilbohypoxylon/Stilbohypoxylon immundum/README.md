@@ -1,14 +1,13 @@
-Rosellinia immunda (Berk. & M.A. Curtis) Sacc., 1882 SPECIES
-=======
+# Stilbohypoxylon immundum (Berk. & M.A. Curtis) L.E. Petrini, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 56(1): 61 (2004)
 
 #### Original name
 Sphaeria immunda Berk. & M.A. Curtis, 1868

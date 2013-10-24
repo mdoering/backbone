@@ -1,5 +1,4 @@
-Stropharia araucariae Cortez & R.M. Silveira SPECIES
-=======
+# Stropharia araucariae Cortez & R.M. Silveira SPECIES
 
 #### Status
 ACCEPTED

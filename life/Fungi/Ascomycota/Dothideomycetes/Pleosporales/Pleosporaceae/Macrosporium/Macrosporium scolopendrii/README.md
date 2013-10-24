@@ -1,5 +1,4 @@
-Macrosporium scolopendrii Cooke SPECIES
-=======
+# Macrosporium scolopendrii Cooke SPECIES
 
 #### Status
 ACCEPTED

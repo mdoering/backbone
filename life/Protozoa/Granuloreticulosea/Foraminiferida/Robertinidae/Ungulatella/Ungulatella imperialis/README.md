@@ -1,5 +1,4 @@
-Ungulatella imperialis SPECIES
-=======
+# Ungulatella imperialis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psora subfumosa (Arnold) Arnold SPECIES
-=======
+# Psora subfumosa (Arnold) Arnold SPECIES
 
 #### Status
 ACCEPTED

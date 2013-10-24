@@ -1,5 +1,4 @@
-Mycosphaerella thironi A.L. Guyot SPECIES
-=======
+# Mycosphaerella thironi A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnocladium mussooriense Henn. SPECIES
-=======
+# Lachnocladium mussooriense Henn. SPECIES
 
 #### Status
 ACCEPTED

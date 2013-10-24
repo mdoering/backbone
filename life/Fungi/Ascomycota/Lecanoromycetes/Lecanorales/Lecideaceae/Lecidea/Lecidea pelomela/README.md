@@ -1,5 +1,4 @@
-Lecidea pelomela Nyl. SPECIES
-=======
+# Lecidea pelomela Nyl. SPECIES
 
 #### Status
 ACCEPTED

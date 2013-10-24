@@ -1,5 +1,4 @@
-Tricholoma fulvocastaneum Hongo SPECIES
-=======
+# Tricholoma fulvocastaneum Hongo SPECIES
 
 #### Status
 ACCEPTED

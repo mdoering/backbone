@@ -1,11 +1,10 @@
-Ceratium tricarinatum Kofoid, 1907 SPECIES
-=======
+# Ceratium geniculatum (Lemmermann) Cleve SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

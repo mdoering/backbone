@@ -1,14 +1,13 @@
-Sphaerulina myrtillina Sacc. & Fautrey, 1900 SPECIES
-=======
+# Leptosphaerulina myrtillina (Sacc. & Fautrey) Petr., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 16: 21 (1900)
+Sydowia 13: 76 (1959)
 
 #### Original name
 Sphaerulina myrtillina Sacc. & Fautrey, 1900

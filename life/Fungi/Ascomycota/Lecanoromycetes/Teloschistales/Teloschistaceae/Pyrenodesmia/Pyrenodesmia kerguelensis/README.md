@@ -1,5 +1,4 @@
-Pyrenodesmia kerguelensis (B. de Lesd.) C.W. Dodge SPECIES
-=======
+# Pyrenodesmia kerguelensis (B. de Lesd.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

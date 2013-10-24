@@ -1,5 +1,4 @@
-Polyporus pala Lév. SPECIES
-=======
+# Polyporus pala Lév. SPECIES
 
 #### Status
 ACCEPTED

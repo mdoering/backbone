@@ -1,5 +1,4 @@
-Septoria lilii Ikeno SPECIES
-=======
+# Septoria lilii Ikeno SPECIES
 
 #### Status
 ACCEPTED

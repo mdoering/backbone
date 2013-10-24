@@ -1,5 +1,4 @@
-Palmeria ostenfeldii von Stosch SPECIES
-=======
+# Palmeria ostenfeldii von Stosch SPECIES
 
 #### Status
 ACCEPTED

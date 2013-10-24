@@ -1,5 +1,4 @@
-Leiosphaeridia retigera (Deflandre, 1945) Eisenack, 1958 SPECIES
-=======
+# Leiosphaeridia retigera (Deflandre, 1945) Eisenack, 1958 SPECIES
 
 #### Status
 ACCEPTED

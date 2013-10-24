@@ -1,5 +1,4 @@
-Diplodina galeopsidis Picb. SPECIES
-=======
+# Diplodina galeopsidis Picb. SPECIES
 
 #### Status
 ACCEPTED

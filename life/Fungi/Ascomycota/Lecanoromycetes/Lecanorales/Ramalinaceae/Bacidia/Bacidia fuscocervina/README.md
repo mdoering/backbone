@@ -1,5 +1,4 @@
-Bacidia fuscocervina (Kremp.) Zahlbr. SPECIES
-=======
+# Bacidia fuscocervina (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

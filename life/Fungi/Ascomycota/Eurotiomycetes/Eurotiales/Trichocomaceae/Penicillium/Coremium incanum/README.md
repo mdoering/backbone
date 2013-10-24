@@ -1,5 +1,4 @@
-Coremium incanum P. Karst. SPECIES
-=======
+# Coremium incanum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

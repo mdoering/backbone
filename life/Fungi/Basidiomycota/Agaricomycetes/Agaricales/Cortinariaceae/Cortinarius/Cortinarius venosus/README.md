@@ -1,5 +1,4 @@
-Cortinarius venosus Johns. {?} SPECIES
-=======
+# Cortinarius venosus Johns. {?} SPECIES
 
 #### Status
 ACCEPTED

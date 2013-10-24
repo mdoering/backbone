@@ -1,5 +1,4 @@
-Megalospora reniformis (Shirley) Zahlbr. SPECIES
-=======
+# Megalospora reniformis (Shirley) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

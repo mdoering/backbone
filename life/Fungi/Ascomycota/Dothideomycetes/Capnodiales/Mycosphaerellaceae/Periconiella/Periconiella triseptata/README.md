@@ -1,5 +1,4 @@
-Periconiella triseptata (Bat. & J.L. Bezerra) M.B. Ellis SPECIES
-=======
+# Periconiella triseptata (Bat. & J.L. Bezerra) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

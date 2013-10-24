@@ -1,5 +1,4 @@
-Baltisphaeridium hirsutoides (Eisenack, 1951) Eisenack, 1959 SPECIES
-=======
+# Baltisphaeridium hirsutoides (Eisenack, 1951) Eisenack, 1959 SPECIES
 
 #### Status
 ACCEPTED

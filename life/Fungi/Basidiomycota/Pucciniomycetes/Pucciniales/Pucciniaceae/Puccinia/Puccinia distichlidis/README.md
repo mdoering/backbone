@@ -1,14 +1,13 @@
-Dicaeoma distichlydis (Ellis & Everh.) Kuntze, 1898 SPECIES
-=======
+# Puccinia distichlidis Ellis & Everh., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 468 (1898)
+Proc. Acad. nat. Sci. Philad. , 1893 45: 152 (1893)
 
 #### Original name
 Puccinia distichlidis Ellis & Everh., 1893

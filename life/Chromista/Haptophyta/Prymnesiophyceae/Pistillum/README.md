@@ -1,5 +1,4 @@
-Pistillum N. Hoffmann, 1970 GENUS
-=======
+# Pistillum N. Hoffmann, 1970 GENUS
 
 #### Status
 ACCEPTED

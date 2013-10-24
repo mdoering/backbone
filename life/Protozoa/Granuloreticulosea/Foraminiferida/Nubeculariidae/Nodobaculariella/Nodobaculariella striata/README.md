@@ -1,5 +1,4 @@
-Nodobaculariella striata SPECIES
-=======
+# Nodobaculariella striata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis cerviculata Redinger SPECIES
-=======
+# Phaeographis cerviculata Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora nitidissima (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
-=======
+# Phyllachora nitidissima (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

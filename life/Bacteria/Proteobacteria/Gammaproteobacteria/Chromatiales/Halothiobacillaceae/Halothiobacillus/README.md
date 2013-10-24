@@ -1,5 +1,4 @@
-Halothiobacillus Kelly & Wood, 2000 GENUS
-=======
+# Halothiobacillus Kelly & Wood, 2000 GENUS
 
 #### Status
 ACCEPTED

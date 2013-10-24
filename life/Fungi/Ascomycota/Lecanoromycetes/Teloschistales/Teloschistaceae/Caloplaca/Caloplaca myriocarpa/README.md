@@ -1,5 +1,4 @@
-Caloplaca myriocarpa (Malme) Zahlbr. SPECIES
-=======
+# Caloplaca myriocarpa (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

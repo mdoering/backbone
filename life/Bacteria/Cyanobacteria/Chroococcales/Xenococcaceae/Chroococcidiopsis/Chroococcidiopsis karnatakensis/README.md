@@ -1,5 +1,4 @@
-Chroococcidiopsis karnatakensis Kamat SPECIES
-=======
+# Chroococcidiopsis karnatakensis Kamat SPECIES
 
 #### Status
 ACCEPTED

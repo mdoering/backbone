@@ -1,5 +1,4 @@
-Urocystis gageae Kalymb. SPECIES
-=======
+# Urocystis gageae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

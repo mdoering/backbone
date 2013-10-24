@@ -1,5 +1,4 @@
-Ascochyta acericola Massa SPECIES
-=======
+# Ascochyta acericola Massa SPECIES
 
 #### Status
 ACCEPTED

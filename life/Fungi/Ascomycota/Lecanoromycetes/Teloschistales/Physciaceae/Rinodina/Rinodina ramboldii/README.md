@@ -1,5 +1,4 @@
-Rinodina ramboldii Kaschik SPECIES
-=======
+# Rinodina ramboldii Kaschik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bicoeca socialis (Lauterborn) Lemmermann SPECIES
-=======
+# Bicoeca socialis (Lauterborn) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

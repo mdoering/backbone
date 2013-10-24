@@ -1,5 +1,4 @@
-Polycystis italica Sacc. & Speg. SPECIES
-=======
+# Polycystis italica Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tomentella coriacea SPECIES
-=======
+# Tomentella coriacea SPECIES
 
 #### Status
 ACCEPTED

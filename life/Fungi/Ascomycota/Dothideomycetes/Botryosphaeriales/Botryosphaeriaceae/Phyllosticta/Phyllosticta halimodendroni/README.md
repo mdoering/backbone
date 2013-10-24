@@ -1,5 +1,4 @@
-Phyllosticta halimodendroni Murashk. SPECIES
-=======
+# Phyllosticta halimodendroni Murashk. SPECIES
 
 #### Status
 ACCEPTED

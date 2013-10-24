@@ -1,5 +1,4 @@
-Hendersonia leersiae Petr. SPECIES
-=======
+# Hendersonia leersiae Petr. SPECIES
 
 #### Status
 ACCEPTED

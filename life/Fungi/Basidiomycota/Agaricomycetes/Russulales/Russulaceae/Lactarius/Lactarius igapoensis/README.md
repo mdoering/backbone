@@ -1,5 +1,4 @@
-Lactarius igapoensis Singer SPECIES
-=======
+# Lactarius igapoensis Singer SPECIES
 
 #### Status
 ACCEPTED

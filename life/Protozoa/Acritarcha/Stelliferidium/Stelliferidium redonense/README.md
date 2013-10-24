@@ -1,5 +1,4 @@
-Stelliferidium redonense (Paris & Deunff, 1970) emend. Deunff, Górka & Rauscher, 1974 SPECIES
-=======
+# Stelliferidium redonense (Paris & Deunff, 1970) emend. Deunff, Górka & Rauscher, 1974 SPECIES
 
 #### Status
 ACCEPTED

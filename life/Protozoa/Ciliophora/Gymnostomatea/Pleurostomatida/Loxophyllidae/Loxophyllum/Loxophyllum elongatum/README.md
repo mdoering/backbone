@@ -1,5 +1,4 @@
-Loxophyllum elongatum Tucolesco, 1962 SPECIES
-=======
+# Loxophyllum elongatum Tucolesco, 1962 SPECIES
 
 #### Status
 ACCEPTED

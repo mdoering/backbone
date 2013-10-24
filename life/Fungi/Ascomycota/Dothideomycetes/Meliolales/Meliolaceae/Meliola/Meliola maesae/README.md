@@ -1,5 +1,4 @@
-Meliola maesae Rehm SPECIES
-=======
+# Meliola maesae Rehm SPECIES
 
 #### Status
 ACCEPTED

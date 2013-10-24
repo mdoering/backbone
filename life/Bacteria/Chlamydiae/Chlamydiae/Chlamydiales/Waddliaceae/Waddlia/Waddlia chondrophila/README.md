@@ -1,5 +1,4 @@
-Waddlia chondrophila Rurangirwa et al., 1999 SPECIES
-=======
+# Waddlia chondrophila Rurangirwa et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

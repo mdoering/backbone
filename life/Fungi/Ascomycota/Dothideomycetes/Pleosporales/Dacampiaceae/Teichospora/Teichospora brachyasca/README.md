@@ -1,5 +1,4 @@
-Teichospora brachyasca Ellis & Everh. SPECIES
-=======
+# Teichospora brachyasca Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

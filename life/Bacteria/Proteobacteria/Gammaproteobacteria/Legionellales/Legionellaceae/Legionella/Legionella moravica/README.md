@@ -1,5 +1,4 @@
-Legionella moravica Wilkinson et al., 1989 SPECIES
-=======
+# Legionella moravica Wilkinson et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

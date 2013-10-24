@@ -1,5 +1,4 @@
-Polyporus callochrous Lév. SPECIES
-=======
+# Polyporus callochrous Lév. SPECIES
 
 #### Status
 ACCEPTED

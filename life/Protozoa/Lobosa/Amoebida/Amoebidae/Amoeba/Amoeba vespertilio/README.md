@@ -1,5 +1,4 @@
-Amoeba vespertilio Pen. SPECIES
-=======
+# Amoeba vespertilio Pen. SPECIES
 
 #### Status
 ACCEPTED

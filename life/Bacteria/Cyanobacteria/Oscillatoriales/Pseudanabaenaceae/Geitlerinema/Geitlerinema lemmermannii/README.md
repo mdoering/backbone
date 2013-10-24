@@ -1,5 +1,4 @@
-Geitlerinema lemmermannii (Woloszynska) Anagnostidis SPECIES
-=======
+# Geitlerinema lemmermannii (Woloszynska) Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

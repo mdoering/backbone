@@ -1,5 +1,4 @@
-Chrysococcus cystophorus f. astigmata J.W.G.Lund FORM
-=======
+# Chrysococcus cystophorus Skuja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina atypica (Bat.) Hosag. & T.K. Abraham SPECIES
-=======
+# Asterina atypica (Bat.) Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

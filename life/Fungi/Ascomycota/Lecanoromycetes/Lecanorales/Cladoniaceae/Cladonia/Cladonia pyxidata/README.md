@@ -1,17 +1,16 @@
-Cladonia pyxidata subvar. pyxidata SUBVARIETY
-=======
+# Cladonia pyxidata (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Deutschl. Fl. (Erlangen), Zweiter Theil 121 (1796)
 
 #### Original name
-Cladonia pyxidata subvar. pyxidata
+Lichen pyxidatus L.
 
 ### Remarks
 null

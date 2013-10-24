@@ -1,5 +1,4 @@
-Sporotrichum psittacinum Link SPECIES
-=======
+# Sporotrichum psittacinum Link SPECIES
 
 #### Status
 ACCEPTED

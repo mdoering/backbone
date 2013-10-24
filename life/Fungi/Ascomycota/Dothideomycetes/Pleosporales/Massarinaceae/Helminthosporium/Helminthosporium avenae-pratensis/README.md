@@ -1,5 +1,4 @@
-Helminthosporium avenae-pratensis Died. SPECIES
-=======
+# Helminthosporium avenae-pratensis Died. SPECIES
 
 #### Status
 ACCEPTED

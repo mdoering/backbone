@@ -1,5 +1,4 @@
-Cheilymenia magnifica (W.Y. Zhuang & Korf) J. Moravec SPECIES
-=======
+# Cheilymenia magnifica (W.Y. Zhuang & Korf) J. Moravec SPECIES
 
 #### Status
 ACCEPTED
