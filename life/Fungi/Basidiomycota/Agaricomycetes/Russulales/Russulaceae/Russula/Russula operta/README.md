@@ -1,5 +1,4 @@
-Russula operta Burl. SPECIES
-=======
+# Russula operta Burl. SPECIES
 
 #### Status
 ACCEPTED

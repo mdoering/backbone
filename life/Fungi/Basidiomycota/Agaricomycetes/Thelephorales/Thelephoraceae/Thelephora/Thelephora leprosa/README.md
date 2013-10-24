@@ -1,5 +1,4 @@
-Thelephora leprosa Fr. SPECIES
-=======
+# Thelephora leprosa Fr. SPECIES
 
 #### Status
 ACCEPTED

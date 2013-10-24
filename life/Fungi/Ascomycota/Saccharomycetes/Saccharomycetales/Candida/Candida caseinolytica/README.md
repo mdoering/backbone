@@ -1,5 +1,4 @@
-Candida caseinolytica Phaff, Starmer, Lachance & Ganter, 1994 SPECIES
-=======
+# Candida caseinolytica Phaff, Starmer, Lachance & Ganter, 1994 SPECIES
 
 #### Status
 ACCEPTED

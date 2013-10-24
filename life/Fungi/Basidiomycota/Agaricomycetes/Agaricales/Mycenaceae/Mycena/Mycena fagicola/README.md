@@ -1,5 +1,4 @@
-Mycena fagicola A.H. Sm. SPECIES
-=======
+# Mycena fagicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

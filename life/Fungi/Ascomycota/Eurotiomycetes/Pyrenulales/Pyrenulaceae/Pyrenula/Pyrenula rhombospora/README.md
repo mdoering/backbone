@@ -1,5 +1,4 @@
-Pyrenula rhombospora Müll. Arg. SPECIES
-=======
+# Pyrenula rhombospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

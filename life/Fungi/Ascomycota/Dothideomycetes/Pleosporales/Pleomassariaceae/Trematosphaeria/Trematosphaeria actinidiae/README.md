@@ -1,5 +1,4 @@
-Trematosphaeria actinidiae Ablak. & Koval SPECIES
-=======
+# Trematosphaeria actinidiae Ablak. & Koval SPECIES
 
 #### Status
 ACCEPTED

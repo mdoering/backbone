@@ -1,17 +1,16 @@
-Stemonitis splendens splendens Rost. SUBSPECIES
-=======
+# Stemonitis splendens Rostaf., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sluzowce monogr. (Paryz) 195 (1875)
 
 #### Original name
-null
+Stemonitis splendens Rostaf., 1874
 
 ### Remarks
 null

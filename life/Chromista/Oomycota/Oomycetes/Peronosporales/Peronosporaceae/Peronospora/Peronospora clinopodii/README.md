@@ -1,5 +1,4 @@
-Peronospora clinopodii Terui SPECIES
-=======
+# Peronospora clinopodii Terui SPECIES
 
 #### Status
 ACCEPTED

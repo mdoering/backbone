@@ -1,14 +1,13 @@
-Didymium difforme var. comatum Lister VARIETY
-=======
+# Didymium comatum (Lister) Nann.-Bremek., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 39: 8 (1901)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 69: 361 (1966)
 
 #### Original name
 Didymium difforme var. comatum Lister

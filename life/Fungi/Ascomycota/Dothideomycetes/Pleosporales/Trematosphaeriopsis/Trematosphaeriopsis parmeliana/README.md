@@ -1,14 +1,13 @@
-Homostegia parmeliana (Jacz. & Elenkin) Vouaux, 1912 SPECIES
-=======
+# Trematosphaeriopsis parmeliana Jacz. & Elenkin, 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Izvêstiya Imperatorskago S. -Petersburgskago Botanicheskago Sada 1(4): 146 (1901)
 
 #### Original name
 Trematosphaeriopsis parmeliana Jacz. & Elenkin, 1901

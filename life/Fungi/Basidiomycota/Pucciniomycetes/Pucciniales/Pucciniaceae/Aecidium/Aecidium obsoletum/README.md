@@ -1,5 +1,4 @@
-Aecidium obsoletum Speg. SPECIES
-=======
+# Aecidium obsoletum Speg. SPECIES
 
 #### Status
 ACCEPTED

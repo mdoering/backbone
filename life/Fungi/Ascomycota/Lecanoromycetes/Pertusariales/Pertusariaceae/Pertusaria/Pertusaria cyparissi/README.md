@@ -1,5 +1,4 @@
-Pertusaria cyparissi Körb. SPECIES
-=======
+# Pertusaria cyparissi Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella minor (Rehm) Starbäck SPECIES
-=======
+# Pezizella minor (Rehm) Starbäck SPECIES
 
 #### Status
 ACCEPTED

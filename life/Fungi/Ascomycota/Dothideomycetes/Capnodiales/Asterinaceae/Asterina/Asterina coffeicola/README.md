@@ -1,5 +1,4 @@
-Asterina coffeicola Ellis & Everh. SPECIES
-=======
+# Asterina coffeicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

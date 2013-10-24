@@ -1,5 +1,4 @@
-Peteinosphaeridium polymorphum Yin Leiming, 1995 SPECIES
-=======
+# Peteinosphaeridium polymorphum Yin Leiming, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora liniperda Thüm. SPECIES
-=======
+# Pleospora liniperda Thüm. SPECIES
 
 #### Status
 ACCEPTED

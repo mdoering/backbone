@@ -1,5 +1,4 @@
-Polycoccum superficiale D. Hawksw. & Miadl. SPECIES
-=======
+# Polycoccum superficiale D. Hawksw. & Miadl. SPECIES
 
 #### Status
 ACCEPTED

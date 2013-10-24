@@ -1,14 +1,13 @@
-Dactylospora heimerlii (Zukal) Döbbeler & Triebel SPECIES
-=======
+# Paruephaedria heimerlii Zukal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bot. Jb. 107(1-4): 509 (1985)
+Flora, Jena 74: 98 (1891)
 
 #### Original name
 Paruephaedria heimerlii Zukal

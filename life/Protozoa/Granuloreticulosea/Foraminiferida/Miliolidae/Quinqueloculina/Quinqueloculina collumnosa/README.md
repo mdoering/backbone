@@ -1,5 +1,4 @@
-Quinqueloculina collumnosa SPECIES
-=======
+# Quinqueloculina collumnosa SPECIES
 
 #### Status
 ACCEPTED

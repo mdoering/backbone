@@ -1,5 +1,4 @@
-Polystictus engelii (Harz) Sacc. SPECIES
-=======
+# Polystictus engelii (Harz) Sacc. SPECIES
 
 #### Status
 ACCEPTED

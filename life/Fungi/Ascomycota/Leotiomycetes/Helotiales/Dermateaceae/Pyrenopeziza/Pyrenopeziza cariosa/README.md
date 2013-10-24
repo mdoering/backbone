@@ -1,5 +1,4 @@
-Pyrenopeziza cariosa (Peck) Sacc. SPECIES
-=======
+# Pyrenopeziza cariosa (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

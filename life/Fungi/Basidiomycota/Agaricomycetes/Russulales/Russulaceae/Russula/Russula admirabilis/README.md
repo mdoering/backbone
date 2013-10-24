@@ -1,5 +1,4 @@
-Russula admirabilis Beardslee & Burl. SPECIES
-=======
+# Russula admirabilis Beardslee & Burl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredinopsis komagatakensis Hirats. f. SPECIES
-=======
+# Uredinopsis komagatakensis Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

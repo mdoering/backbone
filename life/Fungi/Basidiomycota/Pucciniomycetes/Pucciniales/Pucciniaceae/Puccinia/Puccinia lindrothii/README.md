@@ -1,5 +1,4 @@
-Puccinia lindrothii subsp. sphalerocondra (Lindr.) Savile SUBSPECIES
-=======
+# Puccinia lindrothii Syd. ex Lindr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia sphalerocondra Lindr.
+Puccinia lindrothii Syd. ex Lindr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cystolepiota constricta Singer, 1952 SPECIES
-=======
+# Cystolepiota constricta Singer, 1952 SPECIES
 
 #### Status
 ACCEPTED

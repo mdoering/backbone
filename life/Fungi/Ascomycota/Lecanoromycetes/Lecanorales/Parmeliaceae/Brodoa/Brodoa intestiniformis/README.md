@@ -1,17 +1,16 @@
-Parmelia encausta var. encausta VARIETY
-=======
+# Brodoa intestiniformis (Vill.) Goward SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 89(3): 222 (1987)
 
 #### Original name
-Parmelia encausta var. encausta
+Lichen intestiniformis Vill.
 
 ### Remarks
 null

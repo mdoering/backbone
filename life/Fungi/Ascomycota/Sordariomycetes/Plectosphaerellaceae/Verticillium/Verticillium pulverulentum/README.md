@@ -1,5 +1,4 @@
-Verticillium pulverulentum Gouw. SPECIES
-=======
+# Verticillium pulverulentum Gouw. SPECIES
 
 #### Status
 ACCEPTED

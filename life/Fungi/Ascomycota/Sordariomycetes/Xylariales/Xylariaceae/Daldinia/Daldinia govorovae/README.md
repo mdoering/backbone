@@ -1,5 +1,4 @@
-Daldinia govorovae Lar.N. Vassiljeva & M. Stadler, 2008 SPECIES
-=======
+# Daldinia govorovae Lar.N. Vassiljeva & M. Stadler, 2008 SPECIES
 
 #### Status
 ACCEPTED

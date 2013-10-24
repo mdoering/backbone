@@ -1,5 +1,4 @@
-Tetraedriella regularis (Kützing) Fott SPECIES
-=======
+# Tetraedriella regularis (Kützing) Fott SPECIES
 
 #### Status
 ACCEPTED

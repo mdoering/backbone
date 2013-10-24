@@ -1,5 +1,4 @@
-Pyrenula personata (Malme) R.C. Harris SPECIES
-=======
+# Pyrenula personata (Malme) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

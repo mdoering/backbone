@@ -1,5 +1,4 @@
-Mycena riparia Maas Geest. SPECIES
-=======
+# Mycena riparia Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

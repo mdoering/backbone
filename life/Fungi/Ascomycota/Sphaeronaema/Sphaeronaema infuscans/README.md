@@ -1,5 +1,4 @@
-Sphaeronaema infuscans Ellis & Everh. SPECIES
-=======
+# Sphaeronaema infuscans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

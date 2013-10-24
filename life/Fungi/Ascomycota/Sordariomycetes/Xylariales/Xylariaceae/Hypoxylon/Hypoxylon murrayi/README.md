@@ -1,17 +1,16 @@
-Hypoxylon murraii Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon murrayi Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 4(no. 30): 49 (1875)
 
 #### Original name
-Hypoxylon murraii Berk. & M.A. Curtis
+Hypoxylon murrayi Berk. & M.A. Curtis
 
 ### Remarks
 null

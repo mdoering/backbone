@@ -1,5 +1,4 @@
-Cytosporina flavovirens (Sacc.) Grove SPECIES
-=======
+# Cytosporina flavovirens (Sacc.) Grove SPECIES
 
 #### Status
 ACCEPTED

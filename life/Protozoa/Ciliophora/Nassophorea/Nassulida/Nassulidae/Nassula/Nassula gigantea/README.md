@@ -1,5 +1,4 @@
-Nassula gigantea Bullington, 1940 SPECIES
-=======
+# Nassula gigantea Bullington, 1940 SPECIES
 
 #### Status
 ACCEPTED

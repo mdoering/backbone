@@ -1,5 +1,4 @@
-Synhymenia muscorum (Kahl) Jankowski, 1992 SPECIES
-=======
+# Synhymenia muscorum (Kahl) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea ekistophylla Clemente SPECIES
-=======
+# Lecidea ekistophylla Clemente SPECIES
 
 #### Status
 ACCEPTED

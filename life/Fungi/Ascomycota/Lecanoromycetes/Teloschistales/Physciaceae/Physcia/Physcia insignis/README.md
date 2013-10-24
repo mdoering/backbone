@@ -1,5 +1,4 @@
-Physcia insignis Mereschk. SPECIES
-=======
+# Physcia insignis Mereschk. SPECIES
 
 #### Status
 ACCEPTED

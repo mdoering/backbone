@@ -1,5 +1,4 @@
-Vararia cunninghamii Boidin & Lanq., 1976 SPECIES
-=======
+# Vararia cunninghamii Boidin & Lanq., 1976 SPECIES
 
 #### Status
 ACCEPTED

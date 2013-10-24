@@ -1,5 +1,4 @@
-Panus exilis (Klotzsch) Bres. SPECIES
-=======
+# Panus exilis (Klotzsch) Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora juglandis (Schwein.) Sacc. SPECIES
-=======
+# Rhabdospora juglandis (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

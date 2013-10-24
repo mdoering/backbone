@@ -1,5 +1,4 @@
-Phoma mali Schulzer & Sacc., 1884 SPECIES
-=======
+# Phoma mali Schulzer & Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

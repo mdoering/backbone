@@ -1,5 +1,4 @@
-Arcellina Du Plessis, 1876 GENUS
-=======
+# Arcellina Du Plessis, 1876 GENUS
 
 #### Status
 ACCEPTED

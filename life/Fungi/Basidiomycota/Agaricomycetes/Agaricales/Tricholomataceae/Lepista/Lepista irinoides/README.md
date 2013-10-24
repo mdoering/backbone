@@ -1,5 +1,4 @@
-Lepista irinoides Bohus SPECIES
-=======
+# Lepista irinoides Bohus SPECIES
 
 #### Status
 ACCEPTED

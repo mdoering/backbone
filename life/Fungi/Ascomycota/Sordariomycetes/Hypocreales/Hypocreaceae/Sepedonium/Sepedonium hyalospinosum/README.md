@@ -1,5 +1,4 @@
-Sepedonium hyalospinosum Matsush. SPECIES
-=======
+# Sepedonium hyalospinosum Matsush. SPECIES
 
 #### Status
 ACCEPTED

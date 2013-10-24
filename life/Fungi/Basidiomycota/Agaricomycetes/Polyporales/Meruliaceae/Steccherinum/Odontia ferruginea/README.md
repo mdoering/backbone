@@ -1,5 +1,4 @@
-Odontia ferruginea Pers. SPECIES
-=======
+# Odontia ferruginea Pers. SPECIES
 
 #### Status
 ACCEPTED

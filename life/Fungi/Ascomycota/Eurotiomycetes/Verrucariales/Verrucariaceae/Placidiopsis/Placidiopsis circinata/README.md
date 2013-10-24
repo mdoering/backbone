@@ -1,5 +1,4 @@
-Placidiopsis circinata Bagl. SPECIES
-=======
+# Placidiopsis circinata Bagl. SPECIES
 
 #### Status
 ACCEPTED

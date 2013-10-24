@@ -1,5 +1,4 @@
-Cercospora sesamigena J.M. Yen & Lim SPECIES
-=======
+# Cercospora sesamigena J.M. Yen & Lim SPECIES
 
 #### Status
 ACCEPTED

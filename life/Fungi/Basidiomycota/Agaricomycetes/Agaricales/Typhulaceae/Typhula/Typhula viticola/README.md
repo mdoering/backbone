@@ -1,17 +1,16 @@
-Pistillaria sclerotioides muelleri Saut., 1888 INFRASPECIFIC_NAME
-=======
+# Typhula viticola (Peck) Berthier, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monographie des Typhula, Pistillaria et des genres voisins 160 (1976)
 
 #### Original name
-null
+Pistillaria viticola Peck, 1889
 
 ### Remarks
 null

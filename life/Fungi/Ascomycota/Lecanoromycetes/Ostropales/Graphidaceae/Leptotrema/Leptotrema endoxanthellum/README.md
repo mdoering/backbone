@@ -1,5 +1,4 @@
-Leptotrema endoxanthellum Zahlbr. SPECIES
-=======
+# Leptotrema endoxanthellum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

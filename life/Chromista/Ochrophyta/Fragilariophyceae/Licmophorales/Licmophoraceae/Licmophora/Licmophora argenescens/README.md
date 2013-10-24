@@ -1,5 +1,4 @@
-Licmophora argenescens C. Agardh SPECIES
-=======
+# Licmophora argenescens C. Agardh SPECIES
 
 #### Status
 ACCEPTED

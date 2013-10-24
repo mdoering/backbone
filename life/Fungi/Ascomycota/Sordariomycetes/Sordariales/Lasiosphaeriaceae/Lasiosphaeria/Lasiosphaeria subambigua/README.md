@@ -1,5 +1,4 @@
-Lasiosphaeria subambigua Höhn. SPECIES
-=======
+# Lasiosphaeria subambigua Höhn. SPECIES
 
 #### Status
 ACCEPTED

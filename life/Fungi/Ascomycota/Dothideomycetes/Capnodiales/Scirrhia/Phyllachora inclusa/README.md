@@ -1,8 +1,7 @@
-Phyllachora quebrachii Speg., 1891 SPECIES
-=======
+# Phyllachora inclusa (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

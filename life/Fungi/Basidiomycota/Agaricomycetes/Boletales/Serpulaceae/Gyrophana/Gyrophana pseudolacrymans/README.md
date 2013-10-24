@@ -1,5 +1,4 @@
-Gyrophana pseudolacrymans (Henn.) Teng SPECIES
-=======
+# Gyrophana pseudolacrymans (Henn.) Teng SPECIES
 
 #### Status
 ACCEPTED

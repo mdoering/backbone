@@ -1,5 +1,4 @@
-Geusia Rühl & Korn GENUS
-=======
+# Geusia Rühl & Korn GENUS
 
 #### Status
 ACCEPTED

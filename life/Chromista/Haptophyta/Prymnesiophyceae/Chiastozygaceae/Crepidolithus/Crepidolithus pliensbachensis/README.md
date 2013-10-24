@@ -1,5 +1,4 @@
-Crepidolithus pliensbachensis SPECIES
-=======
+# Crepidolithus pliensbachensis SPECIES
 
 #### Status
 ACCEPTED

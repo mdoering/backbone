@@ -1,5 +1,4 @@
-Fusoma punctiforme P. Karst. SPECIES
-=======
+# Fusoma punctiforme P. Karst. SPECIES
 
 #### Status
 ACCEPTED

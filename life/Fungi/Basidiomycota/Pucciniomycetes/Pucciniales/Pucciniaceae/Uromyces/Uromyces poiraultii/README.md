@@ -1,5 +1,4 @@
-Uromyces poiraultii Har. SPECIES
-=======
+# Uromyces poiraultii Har. SPECIES
 
 #### Status
 ACCEPTED

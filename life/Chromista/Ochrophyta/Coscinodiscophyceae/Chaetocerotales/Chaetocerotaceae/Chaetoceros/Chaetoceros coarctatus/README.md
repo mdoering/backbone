@@ -1,5 +1,4 @@
-Chaetoceros coarctatus Lauder SPECIES
-=======
+# Chaetoceros coarctatus Lauder SPECIES
 
 #### Status
 ACCEPTED

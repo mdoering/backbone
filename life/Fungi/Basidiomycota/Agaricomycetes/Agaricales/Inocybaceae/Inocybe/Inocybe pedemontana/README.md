@@ -1,5 +1,4 @@
-Inocybe pedemontana Alessio SPECIES
-=======
+# Inocybe pedemontana Alessio SPECIES
 
 #### Status
 ACCEPTED

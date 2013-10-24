@@ -1,5 +1,4 @@
-Naucoria subtemulenta (Britzelm.) Sacc. SPECIES
-=======
+# Naucoria subtemulenta (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

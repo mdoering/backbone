@@ -1,5 +1,4 @@
-Lophosphaeridium crassum (Naumova, 1950) N. Umnova, 1975 SPECIES
-=======
+# Lophosphaeridium crassum (Naumova, 1950) N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

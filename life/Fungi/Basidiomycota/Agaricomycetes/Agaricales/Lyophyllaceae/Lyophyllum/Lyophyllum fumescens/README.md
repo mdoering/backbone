@@ -1,5 +1,4 @@
-Lyophyllum fumescens (Peck) Clémençon SPECIES
-=======
+# Lyophyllum fumescens (Peck) Clémençon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria problematicus Knowl. {?} & Lesq. SPECIES
-=======
+# Sphaeria problematicus Knowl. {?} & Lesq. SPECIES
 
 #### Status
 ACCEPTED

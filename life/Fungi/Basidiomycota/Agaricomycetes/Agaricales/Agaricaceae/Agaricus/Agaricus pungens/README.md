@@ -1,5 +1,4 @@
-Agaricus pungens Berk. & Broome SPECIES
-=======
+# Agaricus pungens Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

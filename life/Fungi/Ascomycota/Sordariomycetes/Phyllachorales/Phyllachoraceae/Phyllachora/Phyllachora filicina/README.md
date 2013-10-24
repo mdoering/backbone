@@ -1,14 +1,13 @@
-Trabutiella filicina (Sacc. & Scalia) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora filicina Sacc. & Scalia, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 359 (1915)
+Harriman Alaska Expedition 5: 27 (1904)
 
 #### Original name
 Phyllachora filicina Sacc. & Scalia, 1904

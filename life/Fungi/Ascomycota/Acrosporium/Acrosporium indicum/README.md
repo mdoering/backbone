@@ -1,5 +1,4 @@
-Acrosporium indicum (Kamat) Subram. SPECIES
-=======
+# Acrosporium indicum (Kamat) Subram. SPECIES
 
 #### Status
 ACCEPTED

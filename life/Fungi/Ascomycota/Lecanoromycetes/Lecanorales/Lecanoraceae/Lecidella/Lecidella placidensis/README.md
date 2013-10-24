@@ -1,5 +1,4 @@
-Lecidella placidensis (H. Magn.) R.C. Harris SPECIES
-=======
+# Lecidella placidensis (H. Magn.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

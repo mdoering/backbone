@@ -1,5 +1,4 @@
-Lepiota brunneocarnea Rick SPECIES
-=======
+# Lepiota brunneocarnea Rick SPECIES
 
 #### Status
 ACCEPTED

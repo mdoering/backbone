@@ -1,5 +1,4 @@
-Citrobacter braakii Brenner et al., 1993 SPECIES
-=======
+# Citrobacter braakii Brenner et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

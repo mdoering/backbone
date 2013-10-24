@@ -1,5 +1,4 @@
-Phyllachora mirandina Chardón, 1934 SPECIES
-=======
+# Phyllachora mirandina Chardón, 1934 SPECIES
 
 #### Status
 ACCEPTED

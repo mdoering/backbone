@@ -1,5 +1,4 @@
-Pertusaria subochracea Stirt. SPECIES
-=======
+# Pertusaria subochracea Stirt. SPECIES
 
 #### Status
 ACCEPTED

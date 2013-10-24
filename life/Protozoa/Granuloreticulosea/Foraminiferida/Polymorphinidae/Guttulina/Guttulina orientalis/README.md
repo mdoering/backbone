@@ -1,5 +1,4 @@
-Guttulina orientalis SPECIES
-=======
+# Guttulina orientalis SPECIES
 
 #### Status
 ACCEPTED

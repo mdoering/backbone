@@ -1,17 +1,16 @@
-Hydnum rawakense var. rawakense Pers. VARIETY
-=======
+# Steccherinum rawakense (Pers.) Banker, 1912 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gaudichaud-Beaupré, Voy. Uranie. Bot. 175 (1827)
+Mycologia 4(6): 312 (1912)
 
 #### Original name
-Hydnum rawakense var. rawakense Pers.
+Hydnum rawakense Pers., 1827
 
 ### Remarks
 null

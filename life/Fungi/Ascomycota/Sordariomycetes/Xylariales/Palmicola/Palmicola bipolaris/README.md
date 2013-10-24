@@ -1,5 +1,4 @@
-Palmicola bipolaris Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
-=======
+# Palmicola bipolaris Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspidella subalbida (Cleland) E.-J. Gilbert SPECIES
-=======
+# Aspidella subalbida (Cleland) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

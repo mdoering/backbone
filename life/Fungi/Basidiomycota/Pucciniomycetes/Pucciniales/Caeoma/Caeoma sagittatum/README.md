@@ -1,5 +1,4 @@
-Caeoma sagittatum Schwein. SPECIES
-=======
+# Caeoma sagittatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

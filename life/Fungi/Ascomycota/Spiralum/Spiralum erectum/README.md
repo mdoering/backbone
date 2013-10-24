@@ -1,5 +1,4 @@
-Spiralum erectum J.L. Mulder SPECIES
-=======
+# Spiralum erectum J.L. Mulder SPECIES
 
 #### Status
 ACCEPTED

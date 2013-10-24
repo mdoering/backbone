@@ -1,5 +1,4 @@
-Phyllosticta icarahyensis Rangel SPECIES
-=======
+# Phyllosticta icarahyensis Rangel SPECIES
 
 #### Status
 ACCEPTED

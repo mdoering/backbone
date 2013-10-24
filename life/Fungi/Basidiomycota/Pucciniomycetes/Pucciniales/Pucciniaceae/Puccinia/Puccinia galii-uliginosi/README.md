@@ -1,5 +1,4 @@
-Puccinia galii-uliginosi Libosch. SPECIES
-=======
+# Puccinia galii-uliginosi Libosch. SPECIES
 
 #### Status
 ACCEPTED

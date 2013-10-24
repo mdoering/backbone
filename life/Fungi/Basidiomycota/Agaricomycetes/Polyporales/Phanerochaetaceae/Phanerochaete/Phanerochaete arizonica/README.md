@@ -1,14 +1,13 @@
-Grandiniella arizonica (Burds. & Gilb.) Burds., 1977 SPECIES
-=======
+# Phanerochaete arizonica Burds. & Gilb., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Zmitrovich, Malysheva & Spirin, Mycena 6: 37 (2006)
+Mycologia 66(5): 785 (1974)
 
 #### Original name
 Phanerochaete arizonica Burds. & Gilb., 1974

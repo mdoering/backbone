@@ -1,5 +1,4 @@
-Hapalopera achnanthis (Friedmann) A. Batko SPECIES
-=======
+# Hapalopera achnanthis (Friedmann) A. Batko SPECIES
 
 #### Status
 ACCEPTED

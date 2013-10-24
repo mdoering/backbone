@@ -1,5 +1,4 @@
-Perenniporia fergusii Gilb. & Ryvarden, 1987 SPECIES
-=======
+# Perenniporia fergusii Gilb. & Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED

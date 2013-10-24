@@ -1,5 +1,4 @@
-Pandoraea apista Coenye et al., 2000 SPECIES
-=======
+# Pandoraea apista Coenye et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

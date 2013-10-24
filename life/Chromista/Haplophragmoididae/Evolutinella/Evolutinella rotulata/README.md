@@ -1,8 +1,7 @@
-Evolutinella rotulatum (Brady, 1881) SPECIES
-=======
+# Evolutinella rotulata (Brady, 1881) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

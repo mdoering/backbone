@@ -1,5 +1,4 @@
-Marinitalea sucinacia Kim, Park, Hahm & Cha, 2011 SPECIES
-=======
+# Marinitalea sucinacia Kim, Park, Hahm & Cha, 2011 SPECIES
 
 #### Status
 ACCEPTED

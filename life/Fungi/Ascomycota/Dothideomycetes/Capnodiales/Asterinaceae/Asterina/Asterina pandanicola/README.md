@@ -1,5 +1,4 @@
-Asterina pandanicola Hansf. SPECIES
-=======
+# Asterina pandanicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

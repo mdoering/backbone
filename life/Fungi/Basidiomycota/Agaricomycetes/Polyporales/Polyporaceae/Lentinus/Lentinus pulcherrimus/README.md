@@ -1,5 +1,4 @@
-Lentinus pulcherrimus Sumst. SPECIES
-=======
+# Lentinus pulcherrimus Sumst. SPECIES
 
 #### Status
 ACCEPTED

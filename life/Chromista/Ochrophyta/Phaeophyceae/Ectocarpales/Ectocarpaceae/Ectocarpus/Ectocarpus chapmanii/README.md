@@ -1,5 +1,4 @@
-Ectocarpus chapmanii Lindauer SPECIES
-=======
+# Ectocarpus chapmanii Lindauer SPECIES
 
 #### Status
 ACCEPTED

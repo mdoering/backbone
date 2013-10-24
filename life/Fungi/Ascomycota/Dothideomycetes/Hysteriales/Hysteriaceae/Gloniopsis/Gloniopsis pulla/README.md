@@ -1,5 +1,4 @@
-Gloniopsis pulla De Not. SPECIES
-=======
+# Gloniopsis pulla De Not. SPECIES
 
 #### Status
 ACCEPTED

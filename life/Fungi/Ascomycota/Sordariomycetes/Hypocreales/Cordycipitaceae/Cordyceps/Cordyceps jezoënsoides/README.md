@@ -1,5 +1,4 @@
-Cordyceps ×jezoënsoides Kobayasi SPECIES
-=======
+# Cordyceps ×jezoënsoides Kobayasi SPECIES
 
 #### Status
 ACCEPTED

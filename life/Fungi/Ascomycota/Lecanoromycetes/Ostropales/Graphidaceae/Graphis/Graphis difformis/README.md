@@ -1,5 +1,4 @@
-Graphis difformis Vain. SPECIES
-=======
+# Graphis difformis Vain. SPECIES
 
 #### Status
 ACCEPTED

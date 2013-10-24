@@ -1,5 +1,4 @@
-Cercospora anacardii A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora anacardii A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

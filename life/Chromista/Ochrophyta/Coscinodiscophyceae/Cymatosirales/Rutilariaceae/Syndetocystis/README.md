@@ -1,5 +1,4 @@
-Syndetocystis GENUS
-=======
+# Syndetocystis GENUS
 
 #### Status
 ACCEPTED

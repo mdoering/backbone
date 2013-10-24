@@ -1,5 +1,4 @@
-Hydnotrya dysodes Kirschst. SPECIES
-=======
+# Hydnotrya dysodes Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia hanyuenensis F.L. Tai SPECIES
-=======
+# Puccinia hanyuenensis F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

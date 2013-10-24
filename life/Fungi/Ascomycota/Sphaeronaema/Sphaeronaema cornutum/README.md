@@ -1,5 +1,4 @@
-Sphaeronaema cornutum Preuss SPECIES
-=======
+# Sphaeronaema cornutum Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myrmaeciella caraganae Höhn. SPECIES
-=======
+# Myrmaeciella caraganae Höhn. SPECIES
 
 #### Status
 ACCEPTED

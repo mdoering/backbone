@@ -1,5 +1,4 @@
-Textularia lauta Lalicker & McCulloch, 1940 SPECIES
-=======
+# Textularia lauta Lalicker & McCulloch, 1940 SPECIES
 
 #### Status
 ACCEPTED

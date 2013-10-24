@@ -1,5 +1,4 @@
-Neozygites tanajoae Delal., Humber & A.E. Hajek, 2004 SPECIES
-=======
+# Neozygites tanajoae Delal., Humber & A.E. Hajek, 2004 SPECIES
 
 #### Status
 ACCEPTED

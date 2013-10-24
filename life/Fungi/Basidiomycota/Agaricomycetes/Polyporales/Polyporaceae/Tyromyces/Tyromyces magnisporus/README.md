@@ -1,5 +1,4 @@
-Tyromyces magnisporus Murrill SPECIES
-=======
+# Tyromyces magnisporus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Visbysphaera oligofurcata (Eisenack, 1954) Lister, 1970 SPECIES
-=======
+# Visbysphaera oligofurcata (Eisenack, 1954) Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

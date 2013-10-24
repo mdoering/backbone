@@ -1,5 +1,4 @@
-Rhodopaxillus munduliformis Dennis SPECIES
-=======
+# Rhodopaxillus munduliformis Dennis SPECIES
 
 #### Status
 ACCEPTED

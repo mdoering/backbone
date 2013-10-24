@@ -1,5 +1,4 @@
-Entosordaria oreopanacis E. Müll. SPECIES
-=======
+# Entosordaria oreopanacis E. Müll. SPECIES
 
 #### Status
 ACCEPTED

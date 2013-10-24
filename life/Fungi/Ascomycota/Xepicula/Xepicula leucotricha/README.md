@@ -1,17 +1,16 @@
-Volutella piracicabana Verona & Joly {?} SPECIES
-=======
+# Xepicula leucotricha (Peck) Nag Raj, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Inst. Oswaldo Cruz 21: 121 (1956)
+Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 980 (1993)
 
 #### Original name
-Volutella piracicabana Verona & Joly {?}
+Excipula leucotricha Peck, 1878
 
 ### Remarks
 null

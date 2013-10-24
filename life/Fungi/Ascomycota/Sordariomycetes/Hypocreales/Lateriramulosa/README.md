@@ -1,5 +1,4 @@
-Lateriramulosa Matsush. GENUS
-=======
+# Lateriramulosa Matsush. GENUS
 
 #### Status
 ACCEPTED

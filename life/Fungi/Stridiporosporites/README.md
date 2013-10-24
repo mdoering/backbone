@@ -1,5 +1,4 @@
-Stridiporosporites P. Ke & Z.Y. Shi GENUS
-=======
+# Stridiporosporites P. Ke & Z.Y. Shi GENUS
 
 #### Status
 ACCEPTED

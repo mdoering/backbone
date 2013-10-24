@@ -1,5 +1,4 @@
-Cortinarius cycneus E. Horak, 1990 SPECIES
-=======
+# Cortinarius cycneus E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus oncopus Berk. & Broome SPECIES
-=======
+# Agaricus oncopus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

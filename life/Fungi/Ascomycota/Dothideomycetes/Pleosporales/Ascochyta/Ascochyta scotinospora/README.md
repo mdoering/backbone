@@ -1,5 +1,4 @@
-Ascochyta scotinospora Sousa da Câmara, 1929 SPECIES
-=======
+# Ascochyta scotinospora Sousa da Câmara, 1929 SPECIES
 
 #### Status
 ACCEPTED

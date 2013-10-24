@@ -1,5 +1,4 @@
-Dermea spiraeae Schwein. SPECIES
-=======
+# Dermea spiraeae Schwein. SPECIES
 
 #### Status
 ACCEPTED

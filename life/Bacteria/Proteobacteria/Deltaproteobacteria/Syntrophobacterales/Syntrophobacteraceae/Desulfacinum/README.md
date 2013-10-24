@@ -1,5 +1,4 @@
-Desulfacinum Rees et al., 1995 GENUS
-=======
+# Desulfacinum Rees et al., 1995 GENUS
 
 #### Status
 ACCEPTED

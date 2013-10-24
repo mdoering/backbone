@@ -1,5 +1,4 @@
-Lecanora concrescens (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecanora concrescens (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius palmivorus Sharples, 1928 SPECIES
-=======
+# Marasmius palmivorus Sharples, 1928 SPECIES
 
 #### Status
 ACCEPTED

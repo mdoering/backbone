@@ -1,5 +1,4 @@
-Stigmella rubicola Bres. SPECIES
-=======
+# Stigmella rubicola Bres. SPECIES
 
 #### Status
 ACCEPTED

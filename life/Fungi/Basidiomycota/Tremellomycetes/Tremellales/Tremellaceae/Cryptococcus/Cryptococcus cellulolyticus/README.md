@@ -1,5 +1,4 @@
-Cryptococcus cellulolyticus Nakase, M. Suzuki, Hamam. & M. Takash. SPECIES
-=======
+# Cryptococcus cellulolyticus Nakase, M. Suzuki, Hamam. & M. Takash. SPECIES
 
 #### Status
 ACCEPTED

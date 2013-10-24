@@ -1,17 +1,16 @@
-Melanogaster ambiguus var. ambiguus (Vittad.) Tul. & C. Tul. VARIETY
-=======
+# Melanogaster ambiguus (Vittad.) Tul. & C. Tul., 1843 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls Sci. Nat. , Bot. , sér. 2 19: 378 (1843)
 
 #### Original name
-Melanogaster ambiguus var. ambiguus (Vittad.) Tul. & C. Tul.
+Octaviania ambigua Vittad., 1831
 
 ### Remarks
 null

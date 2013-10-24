@@ -1,5 +1,4 @@
-Sarcopyrenia bacillospora Nav.-Ros. & Hladún SPECIES
-=======
+# Sarcopyrenia bacillospora Nav.-Ros. & Hladún SPECIES
 
 #### Status
 ACCEPTED

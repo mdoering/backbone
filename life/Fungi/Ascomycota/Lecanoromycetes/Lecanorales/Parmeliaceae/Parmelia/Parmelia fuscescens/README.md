@@ -1,5 +1,4 @@
-Parmelia fuscescens Hook. SPECIES
-=======
+# Parmelia fuscescens Hook. SPECIES
 
 #### Status
 ACCEPTED

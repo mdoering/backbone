@@ -1,5 +1,4 @@
-Herpotrichia erythrinae B. Huguenin SPECIES
-=======
+# Herpotrichia erythrinae B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

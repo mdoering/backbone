@@ -1,5 +1,4 @@
-Arthopyrenia insularis Vain. SPECIES
-=======
+# Arthopyrenia insularis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizites silvaticus (Ludw. {?} ) Mesch. SPECIES
-=======
+# Pezizites silvaticus (Ludw. {?} ) Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora saxicola f. saxicola FORM
-=======
+# Lecanora saxicola SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lichen saxicola Hoffm.
+null
 
 ### Remarks
 null

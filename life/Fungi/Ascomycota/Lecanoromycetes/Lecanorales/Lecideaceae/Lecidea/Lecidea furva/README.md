@@ -1,5 +1,4 @@
-Lecidea furva J. Lowe SPECIES
-=======
+# Lecidea furva J. Lowe SPECIES
 
 #### Status
 ACCEPTED

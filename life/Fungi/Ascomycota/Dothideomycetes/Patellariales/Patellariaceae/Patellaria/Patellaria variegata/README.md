@@ -1,5 +1,4 @@
-Patellaria variegata Müll. Arg. SPECIES
-=======
+# Patellaria variegata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

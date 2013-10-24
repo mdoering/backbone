@@ -1,17 +1,16 @@
-Tryblidium elasticae Koord. SPECIES
-=======
+# Triblidium elasticae Koord. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanische Untersuchungen Java 13(4): 162 (1907)
 
 #### Original name
-Tryblidium elasticae Koord.
+Triblidium elasticae Koord.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Clavaria flavoides (Schild) Cetto, 1983 SPECIES
-=======
+# Ramaria flavoides Schild, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-I Funghi dal Vero (Trento) 555 (1983)
+Schweiz. Z. Pilzk. 59(11): 170 (1981)
 
 #### Original name
 Ramaria flavoides Schild, 1981

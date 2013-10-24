@@ -1,17 +1,16 @@
-Pesotum roboris (Georgescu, Teodoru & Badea) Grobbelaar, Z.W. de Beer & M.J. Wingf., 2009 SPECIES
-=======
+# Ophiostoma piceae (Münch) Syd. & P. Syd., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 17(1): 43 (1919)
 
 #### Original name
-null
+Ceratostomella piceae Münch, 1907
 
 ### Remarks
 null

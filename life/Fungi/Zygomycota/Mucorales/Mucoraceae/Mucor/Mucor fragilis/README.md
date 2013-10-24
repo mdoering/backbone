@@ -1,5 +1,4 @@
-Mucor fragilis Bainier, 1884 SPECIES
-=======
+# Mucor fragilis Bainier, 1884 SPECIES
 
 #### Status
 ACCEPTED

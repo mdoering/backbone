@@ -1,5 +1,4 @@
-Lecidea coniopta SPECIES
-=======
+# Lecidea coniopta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Urotricha rotunda Fernandez-Leborans & Novillo, 1994 SPECIES
-=======
+# Urotricha castalia Munoz, Tellez & Fernandenz-Galiano, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Hypochnus atroruber (Peck) Burt SPECIES
-=======
+# Hypochnus atroruber (Peck) Burt SPECIES
 
 #### Status
 ACCEPTED

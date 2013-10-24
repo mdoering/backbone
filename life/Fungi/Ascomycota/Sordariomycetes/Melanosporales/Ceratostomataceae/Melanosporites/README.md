@@ -1,5 +1,4 @@
-Melanosporites Pampal. GENUS
-=======
+# Melanosporites Pampal. GENUS
 
 #### Status
 ACCEPTED

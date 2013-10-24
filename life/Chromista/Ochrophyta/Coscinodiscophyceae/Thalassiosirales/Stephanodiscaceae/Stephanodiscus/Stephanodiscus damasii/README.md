@@ -1,5 +1,4 @@
-Stephanodiscus damasii Hustedt SPECIES
-=======
+# Stephanodiscus damasii Hustedt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo subnigra Arthur & Cummins SPECIES
-=======
+# Uredo subnigra Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

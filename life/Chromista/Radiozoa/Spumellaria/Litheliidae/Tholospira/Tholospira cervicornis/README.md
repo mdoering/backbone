@@ -1,5 +1,4 @@
-Tholospira cervicornis Haeckel, 1887 SPECIES
-=======
+# Tholospira cervicornis Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

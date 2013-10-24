@@ -1,14 +1,13 @@
-Lizoniella johansonii (Rehm) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Cainiella johansonii (Rehm) E. Müll., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 17: 661 (1905)
+Sydowia 10: 121 (1957)
 
 #### Original name
 Lizonia johansonii Rehm, 1904

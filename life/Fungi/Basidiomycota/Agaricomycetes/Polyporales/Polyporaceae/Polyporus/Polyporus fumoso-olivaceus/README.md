@@ -1,5 +1,4 @@
-Polyporus fumoso-olivaceus Lloyd SPECIES
-=======
+# Polyporus fumoso-olivaceus Lloyd SPECIES
 
 #### Status
 ACCEPTED

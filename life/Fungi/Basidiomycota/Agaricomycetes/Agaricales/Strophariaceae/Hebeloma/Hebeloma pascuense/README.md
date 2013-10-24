@@ -1,5 +1,4 @@
-Hebeloma pascuense Peck SPECIES
-=======
+# Hebeloma pascuense Peck SPECIES
 
 #### Status
 ACCEPTED

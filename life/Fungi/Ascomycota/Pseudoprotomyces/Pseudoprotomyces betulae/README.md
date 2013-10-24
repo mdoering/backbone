@@ -1,5 +1,4 @@
-Pseudoprotomyces betulae Sacc. & Roum. SPECIES
-=======
+# Pseudoprotomyces betulae Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

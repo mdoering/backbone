@@ -1,5 +1,4 @@
-Phragmothyriella bakeri Rehm SPECIES
-=======
+# Phragmothyriella bakeri Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora cyperi var. cyperi Rehm, 1879 VARIETY
-=======
+# Phyllachora cyperi SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Thümen, Instituto de Coimbra 27: 45 (1879)
+null
 
 #### Original name
-Phyllachora cyperi var. cyperi Rehm, 1879
+null
 
 ### Remarks
 null

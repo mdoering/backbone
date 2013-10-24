@@ -1,14 +1,13 @@
-Dothidella andropogonis Henn., 1907 SPECIES
-=======
+# Endodothella andropogonis (Henn.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annals de Musée du Congo, Botanique Série 5 2(2): 98 (1907)
+Annls mycol. 13(5/6): 584 (1915)
 
 #### Original name
 Dothidella andropogonis Henn., 1907

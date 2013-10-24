@@ -1,5 +1,4 @@
-Asterella GENUS
-=======
+# Asterella GENUS
 
 #### Status
 ACCEPTED

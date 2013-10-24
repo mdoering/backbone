@@ -1,5 +1,4 @@
-Peziza abieticola Nyl. SPECIES
-=======
+# Peziza abieticola Nyl. SPECIES
 
 #### Status
 ACCEPTED

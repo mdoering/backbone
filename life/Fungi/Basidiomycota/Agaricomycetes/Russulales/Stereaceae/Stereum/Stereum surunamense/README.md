@@ -1,5 +1,4 @@
-Stereum surunamense Lév. SPECIES
-=======
+# Stereum surunamense Lév. SPECIES
 
 #### Status
 ACCEPTED

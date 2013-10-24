@@ -1,5 +1,4 @@
-Bapalmuia lineata Lücking & Kalb SPECIES
-=======
+# Bapalmuia lineata Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

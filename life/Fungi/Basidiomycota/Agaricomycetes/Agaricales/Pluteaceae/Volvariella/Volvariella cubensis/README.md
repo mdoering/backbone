@@ -1,5 +1,4 @@
-Volvariella cubensis (Murrill) Shaffer SPECIES
-=======
+# Volvariella cubensis (Murrill) Shaffer SPECIES
 
 #### Status
 ACCEPTED

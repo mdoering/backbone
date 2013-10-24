@@ -1,5 +1,4 @@
-Puccinia baccharidis-cylindricae Henn. SPECIES
-=======
+# Puccinia baccharidis-cylindricae Henn. SPECIES
 
 #### Status
 ACCEPTED

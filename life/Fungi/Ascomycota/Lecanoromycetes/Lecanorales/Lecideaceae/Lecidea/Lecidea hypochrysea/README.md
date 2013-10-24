@@ -1,5 +1,4 @@
-Lecidea hypochrysea Vain. SPECIES
-=======
+# Lecidea hypochrysea Vain. SPECIES
 
 #### Status
 ACCEPTED

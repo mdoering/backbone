@@ -1,5 +1,4 @@
-Ophryoglena rhabdocaryon SPECIES
-=======
+# Ophryoglena rhabdocaryon SPECIES
 
 #### Status
 ACCEPTED

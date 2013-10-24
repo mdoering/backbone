@@ -1,5 +1,4 @@
-Loxostomum applini (Plummer) SPECIES
-=======
+# Loxostomum applini (Plummer) SPECIES
 
 #### Status
 ACCEPTED

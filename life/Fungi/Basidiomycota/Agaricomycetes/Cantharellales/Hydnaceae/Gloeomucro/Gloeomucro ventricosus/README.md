@@ -1,17 +1,16 @@
-Gloeomucro ventricosum R.H. Petersen SPECIES
-=======
+# Gloeomucro ventricosus R.H. Petersen, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Castanea 50(3): 197 (1985)
 
 #### Original name
-Gloeomucro ventricosum R.H. Petersen
+Gloeomucro ventricosus R.H. Petersen, 1985
 
 ### Remarks
 null

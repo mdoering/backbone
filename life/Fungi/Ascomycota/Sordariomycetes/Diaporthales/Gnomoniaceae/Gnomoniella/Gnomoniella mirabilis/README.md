@@ -1,5 +1,4 @@
-Gnomoniella mirabilis (Peck) Sacc. SPECIES
-=======
+# Gnomoniella mirabilis (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria fahlunensis (L.) Hoffm. SPECIES
-=======
+# Squamaria fahlunensis (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

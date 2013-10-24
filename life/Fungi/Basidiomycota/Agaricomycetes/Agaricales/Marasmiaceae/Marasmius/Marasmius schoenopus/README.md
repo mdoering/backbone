@@ -1,5 +1,4 @@
-Marasmius schoenopus Kalchbr. SPECIES
-=======
+# Marasmius schoenopus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

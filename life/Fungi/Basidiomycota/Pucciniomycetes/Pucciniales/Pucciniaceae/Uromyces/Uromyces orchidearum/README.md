@@ -1,5 +1,4 @@
-Uromyces orchidearum Cooke & Massee SPECIES
-=======
+# Uromyces orchidearum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

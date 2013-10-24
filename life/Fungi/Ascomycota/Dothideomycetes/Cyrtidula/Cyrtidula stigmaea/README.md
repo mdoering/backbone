@@ -1,5 +1,4 @@
-Cyrtidula stigmaea Minks ex Willey SPECIES
-=======
+# Cyrtidula stigmaea Minks ex Willey SPECIES
 
 #### Status
 ACCEPTED

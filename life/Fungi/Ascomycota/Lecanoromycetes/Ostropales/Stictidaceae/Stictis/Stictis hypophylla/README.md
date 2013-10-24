@@ -1,5 +1,4 @@
-Stictis hypophylla Sherwood SPECIES
-=======
+# Stictis hypophylla Sherwood SPECIES
 
 #### Status
 ACCEPTED

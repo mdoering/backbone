@@ -1,5 +1,4 @@
-Xenococcus gracilis Lemmermann SPECIES
-=======
+# Xenococcus gracilis Lemmermann SPECIES
 
 #### Status
 ACCEPTED

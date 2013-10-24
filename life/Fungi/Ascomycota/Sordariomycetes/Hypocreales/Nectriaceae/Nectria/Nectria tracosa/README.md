@@ -1,5 +1,4 @@
-Nectria tracosa Brayford & Samuels SPECIES
-=======
+# Nectria tracosa Brayford & Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora lysimachiarum Naumov SPECIES
-=======
+# Rhabdospora lysimachiarum Naumov SPECIES
 
 #### Status
 ACCEPTED

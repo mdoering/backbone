@@ -1,5 +1,4 @@
-Ophiobolus paluster (J. Schröt.) Berl. & Voglino SPECIES
-=======
+# Ophiobolus paluster (J. Schröt.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euglena pumila SPECIES
-=======
+# Euglena pumila SPECIES
 
 #### Status
 ACCEPTED

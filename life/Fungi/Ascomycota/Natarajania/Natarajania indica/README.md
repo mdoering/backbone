@@ -1,5 +1,4 @@
-Natarajania indica Pratibha & Bhat, 2006 SPECIES
-=======
+# Natarajania indica Pratibha & Bhat, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium aurantioflammiferum C. Ramírez, A.T. Martínez & Berer., 1980 SPECIES
-=======
+# Penicillium aurantioflammiferum C. Ramírez, A.T. Martínez & Berer., 1980 SPECIES
 
 #### Status
 DOUBTFUL

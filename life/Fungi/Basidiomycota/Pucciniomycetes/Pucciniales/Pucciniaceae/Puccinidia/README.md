@@ -1,5 +1,4 @@
-Puccinidia GENUS
-=======
+# Puccinidia GENUS
 
 #### Status
 ACCEPTED

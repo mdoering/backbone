@@ -1,5 +1,4 @@
-Scutellinia hyperborea T. Schumach. SPECIES
-=======
+# Scutellinia hyperborea T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

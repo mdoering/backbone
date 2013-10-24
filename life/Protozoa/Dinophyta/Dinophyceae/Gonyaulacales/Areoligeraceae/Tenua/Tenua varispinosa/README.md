@@ -1,5 +1,4 @@
-Tenua varispinosa (Sarjeant) SPECIES
-=======
+# Tenua varispinosa (Sarjeant) SPECIES
 
 #### Status
 ACCEPTED

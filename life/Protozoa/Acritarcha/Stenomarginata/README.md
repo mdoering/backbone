@@ -1,5 +1,4 @@
-Stenomarginata GENUS
-=======
+# Stenomarginata GENUS
 
 #### Status
 ACCEPTED

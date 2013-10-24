@@ -1,5 +1,4 @@
-Microthyriella GENUS
-=======
+# Microthyriella GENUS
 
 #### Status
 ACCEPTED

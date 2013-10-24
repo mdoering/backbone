@@ -1,5 +1,4 @@
-Sphaerella arnicae Speg. SPECIES
-=======
+# Sphaerella arnicae Speg. SPECIES
 
 #### Status
 ACCEPTED

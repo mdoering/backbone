@@ -1,5 +1,4 @@
-Phragmidium rosae-setigerae Dietel SPECIES
-=======
+# Phragmidium rosae-setigerae Dietel SPECIES
 
 #### Status
 ACCEPTED

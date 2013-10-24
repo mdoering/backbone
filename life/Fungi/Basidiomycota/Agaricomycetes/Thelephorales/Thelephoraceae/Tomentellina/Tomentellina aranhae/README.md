@@ -1,5 +1,4 @@
-Tomentellina aranhae Rick SPECIES
-=======
+# Tomentellina aranhae Rick SPECIES
 
 #### Status
 ACCEPTED

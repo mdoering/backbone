@@ -1,5 +1,4 @@
-Torula aromatica F.C. Harrison SPECIES
-=======
+# Torula aromatica F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

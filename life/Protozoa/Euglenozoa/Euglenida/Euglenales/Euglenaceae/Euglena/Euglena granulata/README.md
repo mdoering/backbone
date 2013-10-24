@@ -1,5 +1,4 @@
-Euglena granulata var. polymorpha (Dangeard) Popowa VARIETY
-=======
+# Euglena granulata (G.A. Klebs) Schmitz SPECIES
 
 #### Status
 ACCEPTED

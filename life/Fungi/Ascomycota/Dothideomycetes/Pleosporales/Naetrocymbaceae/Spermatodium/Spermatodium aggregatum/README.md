@@ -1,5 +1,4 @@
-Spermatodium aggregatum (Fée) Trevis. SPECIES
-=======
+# Spermatodium aggregatum (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

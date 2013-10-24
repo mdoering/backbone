@@ -1,5 +1,4 @@
-Podospora fibrinocaudata R.S. Khan & J.C. Krug, 1992 SPECIES
-=======
+# Podospora fibrinocaudata R.S. Khan & J.C. Krug, 1992 SPECIES
 
 #### Status
 ACCEPTED

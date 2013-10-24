@@ -1,5 +1,4 @@
-Camarosporium malcolmiae Gapon. SPECIES
-=======
+# Camarosporium malcolmiae Gapon. SPECIES
 
 #### Status
 ACCEPTED

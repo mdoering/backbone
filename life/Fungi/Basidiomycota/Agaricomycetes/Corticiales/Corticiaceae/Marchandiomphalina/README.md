@@ -1,5 +1,4 @@
-Marchandiomphalina Diederich, Manfr. Binder & Lawrey GENUS
-=======
+# Marchandiomphalina Diederich, Manfr. Binder & Lawrey GENUS
 
 #### Status
 ACCEPTED

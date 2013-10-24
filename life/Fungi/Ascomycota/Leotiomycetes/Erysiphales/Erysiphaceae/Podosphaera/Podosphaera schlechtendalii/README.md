@@ -1,5 +1,4 @@
-Podosphaera schlechtendalii Lév. SPECIES
-=======
+# Podosphaera schlechtendalii Lév. SPECIES
 
 #### Status
 ACCEPTED

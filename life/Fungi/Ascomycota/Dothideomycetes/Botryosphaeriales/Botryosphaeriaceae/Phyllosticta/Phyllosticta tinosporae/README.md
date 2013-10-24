@@ -1,5 +1,4 @@
-Phyllosticta tinosporae Gäum. SPECIES
-=======
+# Phyllosticta tinosporae Gäum. SPECIES
 
 #### Status
 ACCEPTED

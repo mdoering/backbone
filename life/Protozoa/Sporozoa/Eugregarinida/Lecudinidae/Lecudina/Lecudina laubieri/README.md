@@ -1,5 +1,4 @@
-Lecudina laubieri Théodoridès, 1969 SPECIES
-=======
+# Lecudina laubieri Théodoridès, 1969 SPECIES
 
 #### Status
 ACCEPTED

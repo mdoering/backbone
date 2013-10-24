@@ -1,5 +1,4 @@
-Ogataea angusta (Teun., H.H. Hall & Wick.) Suh & Zhou, 2010 SPECIES
-=======
+# Ogataea angusta (Teun., H.H. Hall & Wick.) Suh & Zhou, 2010 SPECIES
 
 #### Status
 ACCEPTED

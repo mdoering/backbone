@@ -1,5 +1,4 @@
-Corynocladus radiatus Leidy, 1850 SPECIES
-=======
+# Corynocladus radiatus Leidy, 1850 SPECIES
 
 #### Status
 ACCEPTED

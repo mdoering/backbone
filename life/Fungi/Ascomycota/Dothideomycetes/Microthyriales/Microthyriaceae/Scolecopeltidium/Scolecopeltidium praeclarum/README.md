@@ -1,5 +1,4 @@
-Scolecopeltidium praeclarum Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium praeclarum Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

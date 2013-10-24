@@ -1,5 +1,4 @@
-Pyrenula pudica Zahlbr. SPECIES
-=======
+# Pyrenula pudica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leotia marcida Pers. SPECIES
-=======
+# Leotia marcida Pers. SPECIES
 
 #### Status
 ACCEPTED

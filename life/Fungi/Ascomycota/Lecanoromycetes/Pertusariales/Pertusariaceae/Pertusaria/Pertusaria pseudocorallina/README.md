@@ -1,17 +1,16 @@
-Pertusaria concreta var. concreta VARIETY
-=======
+# Pertusaria pseudocorallina (Lilj.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wein 37: 84 (1887)
 
 #### Original name
-Pertusaria concreta var. concreta
+Lichen pseudocorallinus Sw.
 
 ### Remarks
 null

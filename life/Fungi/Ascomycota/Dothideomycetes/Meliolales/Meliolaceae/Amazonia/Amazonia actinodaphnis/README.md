@@ -1,5 +1,4 @@
-Amazonia actinodaphnis Hosag. SPECIES
-=======
+# Amazonia actinodaphnis Hosag. SPECIES
 
 #### Status
 ACCEPTED

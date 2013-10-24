@@ -1,5 +1,4 @@
-Pterula fluminensis Corner, 1952 SPECIES
-=======
+# Pterula fluminensis Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

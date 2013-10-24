@@ -1,5 +1,4 @@
-Nectria piceae anon. SPECIES
-=======
+# Nectria piceae anon. SPECIES
 
 #### Status
 ACCEPTED

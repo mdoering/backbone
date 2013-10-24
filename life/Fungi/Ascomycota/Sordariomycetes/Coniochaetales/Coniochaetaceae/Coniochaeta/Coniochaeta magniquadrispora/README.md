@@ -1,5 +1,4 @@
-Coniochaeta magniquadrispora Matsush. SPECIES
-=======
+# Coniochaeta magniquadrispora Matsush. SPECIES
 
 #### Status
 ACCEPTED

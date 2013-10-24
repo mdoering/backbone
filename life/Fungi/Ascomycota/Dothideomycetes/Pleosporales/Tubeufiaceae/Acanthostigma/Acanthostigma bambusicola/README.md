@@ -1,5 +1,4 @@
-Acanthostigma bambusicola var. bambusicola Teng & Ou VARIETY
-=======
+# Acanthostigma bambusicola Teng & Ou SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sinensia, Shanghai 7: 500 (1936)
 
 #### Original name
-Acanthostigma bambusicola var. bambusicola Teng & Ou
+Acanthostigma bambusicola Teng & Ou
 
 ### Remarks
 null

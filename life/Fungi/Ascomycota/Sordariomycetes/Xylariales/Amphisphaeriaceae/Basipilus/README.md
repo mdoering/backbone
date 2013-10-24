@@ -1,5 +1,4 @@
-Basipilus GENUS
-=======
+# Basipilus GENUS
 
 #### Status
 ACCEPTED

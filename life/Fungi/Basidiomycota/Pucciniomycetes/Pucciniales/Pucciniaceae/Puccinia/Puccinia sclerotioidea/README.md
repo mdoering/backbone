@@ -1,5 +1,4 @@
-Puccinia sclerotioidea Cooke SPECIES
-=======
+# Puccinia sclerotioidea Cooke SPECIES
 
 #### Status
 ACCEPTED

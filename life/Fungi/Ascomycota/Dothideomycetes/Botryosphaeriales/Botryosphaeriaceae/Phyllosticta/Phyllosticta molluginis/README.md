@@ -1,5 +1,4 @@
-Phyllosticta molluginis Ellis & Halst. SPECIES
-=======
+# Phyllosticta molluginis Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

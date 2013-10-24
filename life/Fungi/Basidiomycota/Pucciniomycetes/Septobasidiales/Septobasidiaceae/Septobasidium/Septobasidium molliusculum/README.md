@@ -1,5 +1,4 @@
-Septobasidium molliusculum Syd. & P. Syd. SPECIES
-=======
+# Septobasidium molliusculum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

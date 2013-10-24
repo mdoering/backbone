@@ -1,5 +1,4 @@
-Blastocladiomycetes T.Y. James CLASS
-=======
+# Blastocladiomycetes T.Y. James CLASS
 
 #### Status
 ACCEPTED

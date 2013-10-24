@@ -1,5 +1,4 @@
-Typhula piceicola Berthier, 1974 SPECIES
-=======
+# Typhula piceicola Berthier, 1974 SPECIES
 
 #### Status
 ACCEPTED

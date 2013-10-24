@@ -1,5 +1,4 @@
-Licmophora hastata Mer. SPECIES
-=======
+# Licmophora hastata Mer. SPECIES
 
 #### Status
 ACCEPTED

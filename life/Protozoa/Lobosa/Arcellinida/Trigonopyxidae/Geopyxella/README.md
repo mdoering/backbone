@@ -1,5 +1,4 @@
-Geopyxella Bonnet & Thomas, 1955 GENUS
-=======
+# Geopyxella Bonnet & Thomas, 1955 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula atrosanguinea Velen. SPECIES
-=======
+# Russula atrosanguinea Velen. SPECIES
 
 #### Status
 ACCEPTED

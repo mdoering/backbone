@@ -1,5 +1,4 @@
-Godroniopsis Diehl & E.K. Cash GENUS
-=======
+# Godroniopsis Diehl & E.K. Cash GENUS
 
 #### Status
 ACCEPTED

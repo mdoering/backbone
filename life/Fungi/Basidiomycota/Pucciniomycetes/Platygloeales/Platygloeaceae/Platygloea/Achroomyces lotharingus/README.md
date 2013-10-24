@@ -1,5 +1,4 @@
-Achroomyces lotharingus Trichies SPECIES
-=======
+# Achroomyces lotharingus Trichies SPECIES
 
 #### Status
 ACCEPTED

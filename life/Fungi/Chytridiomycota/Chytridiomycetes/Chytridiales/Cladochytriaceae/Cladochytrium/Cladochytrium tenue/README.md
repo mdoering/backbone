@@ -1,5 +1,4 @@
-Cladochytrium tenue Nowak., 1877 SPECIES
-=======
+# Cladochytrium tenue Nowak., 1877 SPECIES
 
 #### Status
 ACCEPTED

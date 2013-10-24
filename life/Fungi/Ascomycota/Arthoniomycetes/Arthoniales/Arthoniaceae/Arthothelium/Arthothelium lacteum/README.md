@@ -1,5 +1,4 @@
-Arthothelium lacteum Müll. Arg. SPECIES
-=======
+# Arthothelium lacteum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

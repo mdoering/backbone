@@ -1,5 +1,4 @@
-Hymenoscyphus macroguttatus Baral, Declercq & Hengstm. SPECIES
-=======
+# Hymenoscyphus macroguttatus Baral, Declercq & Hengstm. SPECIES
 
 #### Status
 ACCEPTED

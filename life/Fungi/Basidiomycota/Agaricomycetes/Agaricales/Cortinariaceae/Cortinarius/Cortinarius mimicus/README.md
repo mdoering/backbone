@@ -1,5 +1,4 @@
-Cortinarius mimicus Carteret SPECIES
-=======
+# Cortinarius mimicus Carteret SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laccaria purpureobadia D.A. Reid, 1966 SPECIES
-=======
+# Laccaria purpureobadia D.A. Reid, 1966 SPECIES
 
 #### Status
 ACCEPTED

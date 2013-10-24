@@ -1,5 +1,4 @@
-Platysma ambignum (C. Bab.) Nyl. SPECIES
-=======
+# Platysma ambignum (C. Bab.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

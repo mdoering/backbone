@@ -1,5 +1,4 @@
-Balladynopsis portoricensis (F. Stevens & Dalbey) Petr. SPECIES
-=======
+# Balladynopsis portoricensis (F. Stevens & Dalbey) Petr. SPECIES
 
 #### Status
 ACCEPTED

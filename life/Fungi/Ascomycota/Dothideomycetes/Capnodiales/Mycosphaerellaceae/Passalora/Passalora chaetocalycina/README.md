@@ -1,5 +1,4 @@
-Passalora chaetocalycina (Petr. & Cif.) U. Braun SPECIES
-=======
+# Passalora chaetocalycina (Petr. & Cif.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

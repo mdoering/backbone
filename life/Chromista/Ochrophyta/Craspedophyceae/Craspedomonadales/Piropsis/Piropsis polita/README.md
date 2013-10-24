@@ -1,5 +1,4 @@
-Piropsis polita SPECIES
-=======
+# Piropsis polita SPECIES
 
 #### Status
 ACCEPTED

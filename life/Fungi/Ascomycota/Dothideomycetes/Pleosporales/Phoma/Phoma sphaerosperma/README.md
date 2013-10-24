@@ -1,5 +1,4 @@
-Phoma sphaerosperma P. Karst. SPECIES
-=======
+# Phoma sphaerosperma P. Karst. SPECIES
 
 #### Status
 ACCEPTED

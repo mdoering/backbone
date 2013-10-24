@@ -1,5 +1,4 @@
-Asterina lanneae Hosag. & Manojk. SPECIES
-=======
+# Asterina lanneae Hosag. & Manojk. SPECIES
 
 #### Status
 ACCEPTED

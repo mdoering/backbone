@@ -1,5 +1,4 @@
-Arthopyrenia atomarioides Müll. Arg. SPECIES
-=======
+# Arthopyrenia atomarioides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

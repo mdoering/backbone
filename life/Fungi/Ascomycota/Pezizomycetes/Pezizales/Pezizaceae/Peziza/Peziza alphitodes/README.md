@@ -1,5 +1,4 @@
-Peziza alphitodes Berk. SPECIES
-=======
+# Peziza alphitodes Berk. SPECIES
 
 #### Status
 ACCEPTED

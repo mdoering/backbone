@@ -1,5 +1,4 @@
-Leptosphaeria metasequoiae Gucevic SPECIES
-=======
+# Leptosphaeria metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercosporella eleonorae-reginae (Bubák & Malkoff ex Höhn.) U. Braun SPECIES
-=======
+# Pseudocercosporella eleonorae-reginae (Bubák & Malkoff ex Höhn.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

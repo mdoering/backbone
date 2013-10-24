@@ -1,5 +1,4 @@
-Irenopsis media Deighton SPECIES
-=======
+# Irenopsis media Deighton SPECIES
 
 #### Status
 ACCEPTED

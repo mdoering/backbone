@@ -1,5 +1,4 @@
-Pyrenophora eriogoni Tracy & Earle SPECIES
-=======
+# Pyrenophora eriogoni Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

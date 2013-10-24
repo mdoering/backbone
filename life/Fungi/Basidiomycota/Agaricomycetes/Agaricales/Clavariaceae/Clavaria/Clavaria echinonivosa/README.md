@@ -1,5 +1,4 @@
-Clavaria echinonivosa R.H. Petersen, 1988 SPECIES
-=======
+# Clavaria echinonivosa R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

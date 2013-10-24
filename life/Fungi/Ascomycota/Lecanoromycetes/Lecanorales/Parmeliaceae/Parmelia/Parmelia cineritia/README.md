@@ -1,5 +1,4 @@
-Parmelia cineritia Ach. SPECIES
-=======
+# Parmelia cineritia Ach. SPECIES
 
 #### Status
 ACCEPTED

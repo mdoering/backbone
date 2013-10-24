@@ -1,5 +1,4 @@
-Fusarium mesoamericanum T. Aoki, Kistler, Geiser & O'Donnell, 2004 SPECIES
-=======
+# Fusarium mesoamericanum T. Aoki, Kistler, Geiser & O'Donnell, 2004 SPECIES
 
 #### Status
 ACCEPTED

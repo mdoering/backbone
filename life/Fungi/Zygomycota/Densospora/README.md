@@ -1,5 +1,4 @@
-Densospora McGee GENUS
-=======
+# Densospora McGee GENUS
 
 #### Status
 ACCEPTED

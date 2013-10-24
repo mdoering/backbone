@@ -1,5 +1,4 @@
-Pseudobalanion Foissner, Oleksiv & Müller, 1990 GENUS
-=======
+# Pseudobalanion Foissner, Oleksiv & Müller, 1990 GENUS
 
 #### Status
 ACCEPTED

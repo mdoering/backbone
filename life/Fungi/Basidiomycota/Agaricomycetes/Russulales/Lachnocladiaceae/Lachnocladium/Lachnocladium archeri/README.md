@@ -1,5 +1,4 @@
-Lachnocladium archeri (Berk.) Lloyd SPECIES
-=======
+# Lachnocladium archeri (Berk.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

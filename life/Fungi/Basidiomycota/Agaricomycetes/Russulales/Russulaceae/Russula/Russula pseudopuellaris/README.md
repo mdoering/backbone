@@ -1,14 +1,13 @@
-Russula versicolor var. pseudopuellaris Bon, 1975 VARIETY
-=======
+# Russula pseudopuellaris (Bon) Bon, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 5(no. 20): 13 (1975)
+in Bon & Van Haluwyn, Docums Mycol. 11(no. 44): 44 (1981)
 
 #### Original name
 Russula versicolor var. pseudopuellaris Bon, 1975

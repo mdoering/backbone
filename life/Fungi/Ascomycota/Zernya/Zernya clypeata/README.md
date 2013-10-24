@@ -1,5 +1,4 @@
-Zernya clypeata Petr., 1947 SPECIES
-=======
+# Zernya clypeata Petr., 1947 SPECIES
 
 #### Status
 ACCEPTED

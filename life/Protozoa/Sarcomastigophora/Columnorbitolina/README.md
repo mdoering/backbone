@@ -1,5 +1,4 @@
-Columnorbitolina Zhang, 1982 GENUS
-=======
+# Columnorbitolina Zhang, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelotheca viegasiana Zundel SPECIES
-=======
+# Sphacelotheca viegasiana Zundel SPECIES
 
 #### Status
 ACCEPTED

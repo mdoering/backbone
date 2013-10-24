@@ -1,5 +1,4 @@
-Astrosporina longipes (Massee) E. Horak SPECIES
-=======
+# Astrosporina longipes (Massee) E. Horak SPECIES
 
 #### Status
 ACCEPTED

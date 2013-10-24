@@ -1,5 +1,4 @@
-Phomatospora saccardoi Rehm SPECIES
-=======
+# Phomatospora saccardoi Rehm SPECIES
 
 #### Status
 ACCEPTED

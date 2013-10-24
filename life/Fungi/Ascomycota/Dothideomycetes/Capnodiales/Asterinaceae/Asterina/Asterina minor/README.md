@@ -1,5 +1,4 @@
-Asterina minor Ellis & Everh. SPECIES
-=======
+# Asterina minor Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

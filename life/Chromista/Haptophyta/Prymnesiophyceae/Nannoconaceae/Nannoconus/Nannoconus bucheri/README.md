@@ -1,5 +1,4 @@
-Nannoconus bucheri Bronnimann, 1955 SPECIES
-=======
+# Nannoconus bucheri Bronnimann, 1955 SPECIES
 
 #### Status
 ACCEPTED

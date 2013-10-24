@@ -1,5 +1,4 @@
-Aspergillus nishimurae Takada, Y. Horie & Abliz SPECIES
-=======
+# Aspergillus nishimurae Takada, Y. Horie & Abliz SPECIES
 
 #### Status
 ACCEPTED

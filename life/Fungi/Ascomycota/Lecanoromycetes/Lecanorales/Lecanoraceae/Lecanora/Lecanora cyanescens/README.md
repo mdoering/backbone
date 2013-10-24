@@ -1,5 +1,4 @@
-Lecanora cyanescens var. austroamericanum Malme VARIETY
-=======
+# Lecanora cyanescens Fée SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Ark. Bot. 19(no. 8): 21 (1924)
+null
 
 #### Original name
-Lecanora cyanescens var. austroamericanum Malme
+Lecanora cyanescens Fée
 
 ### Remarks
 null

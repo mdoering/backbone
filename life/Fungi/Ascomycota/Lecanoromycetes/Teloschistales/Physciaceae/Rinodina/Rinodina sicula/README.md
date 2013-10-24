@@ -1,5 +1,4 @@
-Rinodina sicula H. Mayrhofer & Poelt SPECIES
-=======
+# Rinodina sicula H. Mayrhofer & Poelt SPECIES
 
 #### Status
 ACCEPTED

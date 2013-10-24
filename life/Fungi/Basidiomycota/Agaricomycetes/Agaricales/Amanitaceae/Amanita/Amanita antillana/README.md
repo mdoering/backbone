@@ -1,5 +1,4 @@
-Amanita antillana Dennis SPECIES
-=======
+# Amanita antillana Dennis SPECIES
 
 #### Status
 ACCEPTED

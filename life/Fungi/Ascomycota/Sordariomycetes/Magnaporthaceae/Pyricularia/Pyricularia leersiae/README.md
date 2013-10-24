@@ -1,14 +1,13 @@
-Piricularia leersiae (Sawada) S. Ito SPECIES
-=======
+# Pyricularia leersiae (Sawada) S. Ito SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Mag. , Tokyo 32: 307 (Japanese section) (1918)
 
 #### Original name
 Dactylaria leersiae Sawada

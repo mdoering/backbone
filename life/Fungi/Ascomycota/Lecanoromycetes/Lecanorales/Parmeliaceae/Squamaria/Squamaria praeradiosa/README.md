@@ -1,5 +1,4 @@
-Squamaria praeradiosa SPECIES
-=======
+# Squamaria praeradiosa SPECIES
 
 #### Status
 ACCEPTED

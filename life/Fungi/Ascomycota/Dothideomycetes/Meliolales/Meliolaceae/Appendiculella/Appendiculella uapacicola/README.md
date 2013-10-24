@@ -1,5 +1,4 @@
-Appendiculella uapacicola (S. Hughes) Hansf. SPECIES
-=======
+# Appendiculella uapacicola (S. Hughes) Hansf. SPECIES
 
 #### Status
 ACCEPTED

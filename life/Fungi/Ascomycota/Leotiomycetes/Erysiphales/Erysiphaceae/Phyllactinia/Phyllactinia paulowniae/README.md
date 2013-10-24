@@ -1,5 +1,4 @@
-Phyllactinia paulowniae Y.N. Yu & S.J. Han SPECIES
-=======
+# Phyllactinia paulowniae Y.N. Yu & S.J. Han SPECIES
 
 #### Status
 ACCEPTED

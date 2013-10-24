@@ -1,5 +1,4 @@
-Peniophora alba Burt SPECIES
-=======
+# Peniophora alba Burt SPECIES
 
 #### Status
 ACCEPTED

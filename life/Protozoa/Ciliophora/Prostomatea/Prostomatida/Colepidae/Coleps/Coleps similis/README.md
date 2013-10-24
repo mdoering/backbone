@@ -1,5 +1,4 @@
-Coleps similis Kahl, 1933 SPECIES
-=======
+# Coleps similis Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

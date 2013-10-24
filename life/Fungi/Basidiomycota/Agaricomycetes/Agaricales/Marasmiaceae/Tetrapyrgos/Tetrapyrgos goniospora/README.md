@@ -1,14 +1,13 @@
-Pterospora goniospora (D.A. Reid) E. Horak, 1983 SPECIES
-=======
+# Tetrapyrgos goniospora (D.A. Reid) E. Horak, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 36: 131 (1983)
+Sydowia 39: 102 (1987)
 
 #### Original name
 Marasmiellus goniosporus D.A. Reid, 1966

@@ -1,5 +1,4 @@
-Marssonia staritzii Bres. SPECIES
-=======
+# Marssonia staritzii Bres. SPECIES
 
 #### Status
 ACCEPTED

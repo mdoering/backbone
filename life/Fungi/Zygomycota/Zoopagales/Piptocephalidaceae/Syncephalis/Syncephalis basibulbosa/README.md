@@ -1,5 +1,4 @@
-Syncephalis basibulbosa Kuzuha, 1973 SPECIES
-=======
+# Syncephalis basibulbosa Kuzuha, 1973 SPECIES
 
 #### Status
 ACCEPTED

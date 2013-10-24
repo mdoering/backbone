@@ -1,5 +1,4 @@
-Hygromyxacium liquidum (Fr.) Locq. SPECIES
-=======
+# Hygromyxacium liquidum (Fr.) Locq. SPECIES
 
 #### Status
 ACCEPTED

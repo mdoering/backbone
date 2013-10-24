@@ -1,5 +1,4 @@
-Thermodiscus Stetter, 2003 GENUS
-=======
+# Thermodiscus Stetter, 2003 GENUS
 
 #### Status
 ACCEPTED

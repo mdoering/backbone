@@ -1,5 +1,4 @@
-Aschersonia tamurai Henn. SPECIES
-=======
+# Aschersonia tamurai Henn. SPECIES
 
 #### Status
 ACCEPTED

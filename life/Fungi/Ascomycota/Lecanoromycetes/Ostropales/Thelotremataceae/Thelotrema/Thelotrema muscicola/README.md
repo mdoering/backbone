@@ -1,5 +1,4 @@
-Thelotrema muscicola Hepp SPECIES
-=======
+# Thelotrema muscicola Hepp SPECIES
 
 #### Status
 ACCEPTED

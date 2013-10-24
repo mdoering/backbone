@@ -1,5 +1,4 @@
-Cladonia megaphylla Ahti & Marcelli SPECIES
-=======
+# Cladonia megaphylla Ahti & Marcelli SPECIES
 
 #### Status
 ACCEPTED

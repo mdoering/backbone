@@ -1,5 +1,4 @@
-Ascosphaera variegata Bissett SPECIES
-=======
+# Ascosphaera variegata Bissett SPECIES
 
 #### Status
 ACCEPTED

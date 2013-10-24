@@ -1,5 +1,4 @@
-Stigmateacites simplex S.L. Zheng & W. Zhang SPECIES
-=======
+# Stigmateacites simplex S.L. Zheng & W. Zhang SPECIES
 
 #### Status
 ACCEPTED

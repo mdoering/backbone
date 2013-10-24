@@ -1,5 +1,4 @@
-Acrotheca canescens Grove SPECIES
-=======
+# Acrotheca canescens Grove SPECIES
 
 #### Status
 ACCEPTED

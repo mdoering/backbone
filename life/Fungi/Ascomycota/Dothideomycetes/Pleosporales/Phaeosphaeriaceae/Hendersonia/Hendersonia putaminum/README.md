@@ -1,5 +1,4 @@
-Hendersonia putaminum Hollós SPECIES
-=======
+# Hendersonia putaminum Hollós SPECIES
 
 #### Status
 ACCEPTED

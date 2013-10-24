@@ -1,5 +1,4 @@
-Strombidion globosum Fromentel, 1876 SPECIES
-=======
+# Strombidion globosum Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

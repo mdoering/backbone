@@ -1,17 +1,16 @@
-Boletus alaxanderii Sagar & T.N. Lakh. SPECIES
-=======
+# Boletus alexandri Sagar & T.N. Lakh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Lakhanpal, Stud. Cryptog. Bot. 1: 29 (1996)
 
 #### Original name
-Boletus alaxanderii Sagar & T.N. Lakh.
+Boletus alexandri Sagar & T.N. Lakh.
 
 ### Remarks
 null

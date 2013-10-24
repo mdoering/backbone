@@ -1,5 +1,4 @@
-Cortinarius spinulosporus Reumaux SPECIES
-=======
+# Cortinarius spinulosporus Reumaux SPECIES
 
 #### Status
 ACCEPTED

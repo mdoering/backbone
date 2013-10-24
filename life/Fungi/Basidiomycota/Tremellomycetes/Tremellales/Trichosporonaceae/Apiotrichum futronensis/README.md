@@ -1,5 +1,4 @@
-Apiotrichum futronensis C. Ramírez & A.E. González SPECIES
-=======
+# Apiotrichum futronensis C. Ramírez & A.E. González SPECIES
 
 #### Status
 ACCEPTED

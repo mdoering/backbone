@@ -1,5 +1,4 @@
-Mytilostoma nobile (Sacc.) P. Karst. SPECIES
-=======
+# Mytilostoma nobile (Sacc.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

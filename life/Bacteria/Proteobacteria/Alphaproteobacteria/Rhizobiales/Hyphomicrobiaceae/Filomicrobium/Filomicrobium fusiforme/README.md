@@ -1,5 +1,4 @@
-Filomicrobium fusiforme Schlesner, 1988 SPECIES
-=======
+# Filomicrobium fusiforme Schlesner, 1988 SPECIES
 
 #### Status
 ACCEPTED

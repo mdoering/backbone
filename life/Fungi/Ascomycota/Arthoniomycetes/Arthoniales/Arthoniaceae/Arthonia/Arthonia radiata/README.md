@@ -1,17 +1,16 @@
-Opegrapha radiata var. radiata VARIETY
-=======
+# Arthonia radiata (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+K. svenska Vetensk-Akad. Handl. 29: 131 (1808)
 
 #### Original name
-Opegrapha radiata var. radiata
+Opegrapha radiata Pers.
 
 ### Remarks
 null

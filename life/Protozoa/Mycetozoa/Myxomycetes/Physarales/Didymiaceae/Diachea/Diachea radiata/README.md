@@ -1,5 +1,4 @@
-Diachea radiata G. Lister & Petch, 1916 SPECIES
-=======
+# Diachea radiata G. Lister & Petch, 1916 SPECIES
 
 #### Status
 ACCEPTED

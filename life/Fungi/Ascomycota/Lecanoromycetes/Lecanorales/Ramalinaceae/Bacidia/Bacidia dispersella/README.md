@@ -1,5 +1,4 @@
-Bacidia dispersella (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia dispersella (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

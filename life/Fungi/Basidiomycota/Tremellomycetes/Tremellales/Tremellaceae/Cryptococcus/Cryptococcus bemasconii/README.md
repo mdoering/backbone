@@ -1,5 +1,4 @@
-Cryptococcus bemasconii Fontoyn. & Boucher {?} SPECIES
-=======
+# Cryptococcus bemasconii Fontoyn. & Boucher {?} SPECIES
 
 #### Status
 ACCEPTED

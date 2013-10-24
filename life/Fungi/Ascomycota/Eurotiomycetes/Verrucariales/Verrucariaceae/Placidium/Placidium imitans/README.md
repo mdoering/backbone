@@ -1,5 +1,4 @@
-Placidium imitans (Breuss) Breuss SPECIES
-=======
+# Placidium imitans (Breuss) Breuss SPECIES
 
 #### Status
 ACCEPTED

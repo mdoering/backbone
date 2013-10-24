@@ -1,5 +1,4 @@
-Polystictus vilis (Ces.) Sacc. SPECIES
-=======
+# Polystictus vilis (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

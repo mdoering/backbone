@@ -1,5 +1,4 @@
-Lecania stigmatella (Tuck.) S. Ekman SPECIES
-=======
+# Lecania stigmatella (Tuck.) S. Ekman SPECIES
 
 #### Status
 ACCEPTED

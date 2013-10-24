@@ -1,5 +1,4 @@
-Phomopsis quercus (Sacc. & Speg.) Curzi & Barbaini SPECIES
-=======
+# Phomopsis quercus (Sacc. & Speg.) Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

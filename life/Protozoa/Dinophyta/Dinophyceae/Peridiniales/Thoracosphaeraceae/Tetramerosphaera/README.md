@@ -1,5 +1,4 @@
-Tetramerosphaera H.Willems, 1985 GENUS
-=======
+# Tetramerosphaera H.Willems, 1985 GENUS
 
 #### Status
 ACCEPTED

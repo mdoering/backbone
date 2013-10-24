@@ -1,5 +1,4 @@
-Psathyrella badiovestita P.D. Orton, 1960 SPECIES
-=======
+# Psathyrella badiovestita P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED

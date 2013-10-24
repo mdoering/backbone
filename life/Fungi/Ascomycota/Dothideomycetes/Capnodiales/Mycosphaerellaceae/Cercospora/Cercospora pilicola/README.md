@@ -1,5 +1,4 @@
-Cercospora pilicola Petr. & Cif. SPECIES
-=======
+# Cercospora pilicola Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

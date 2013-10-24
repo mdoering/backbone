@@ -1,5 +1,4 @@
-Dicoccum psoraleae Ellis & Barthol. SPECIES
-=======
+# Dicoccum psoraleae Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

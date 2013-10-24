@@ -1,5 +1,4 @@
-Sphaeria coryneoides Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria coryneoides Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

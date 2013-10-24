@@ -1,5 +1,4 @@
-Depazea aceris Desm. SPECIES
-=======
+# Depazea aceris Desm. SPECIES
 
 #### Status
 ACCEPTED

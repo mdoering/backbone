@@ -1,5 +1,4 @@
-Russula ochrostraminea Pegler SPECIES
-=======
+# Russula ochrostraminea Pegler SPECIES
 
 #### Status
 ACCEPTED

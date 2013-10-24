@@ -1,5 +1,4 @@
-Amandinea lecideina (H. Mayrhofer & Poelt) Scheid. & H. Mayrhofer SPECIES
-=======
+# Amandinea lecideina (H. Mayrhofer & Poelt) Scheid. & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

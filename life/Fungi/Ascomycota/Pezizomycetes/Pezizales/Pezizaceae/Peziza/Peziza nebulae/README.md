@@ -1,5 +1,4 @@
-Peziza nebulae Carradori {?} SPECIES
-=======
+# Peziza nebulae Carradori {?} SPECIES
 
 #### Status
 ACCEPTED

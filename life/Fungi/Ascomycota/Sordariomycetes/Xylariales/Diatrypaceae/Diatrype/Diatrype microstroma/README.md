@@ -1,5 +1,4 @@
-Diatrype microstroma var. microstroma VARIETY
-=======
+# Diatrype microstroma Syd., P. Syd. & Hara SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diatrype microstroma var. microstroma
+Diatrype microstroma Syd., P. Syd. & Hara
 
 ### Remarks
 null

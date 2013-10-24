@@ -1,5 +1,4 @@
-Bubakia crotonis-oligandri J.M. Yen SPECIES
-=======
+# Bubakia crotonis-oligandri J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

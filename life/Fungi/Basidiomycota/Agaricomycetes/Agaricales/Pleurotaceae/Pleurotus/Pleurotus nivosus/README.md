@@ -1,5 +1,4 @@
-Pleurotus nivosus Quél. SPECIES
-=======
+# Pleurotus nivosus Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antromyces Fresen. GENUS
-=======
+# Antromyces Fresen. GENUS
 
 #### Status
 ACCEPTED

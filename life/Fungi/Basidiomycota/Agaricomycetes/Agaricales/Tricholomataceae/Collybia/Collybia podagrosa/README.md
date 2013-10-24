@@ -1,5 +1,4 @@
-Collybia podagrosa Berk. SPECIES
-=======
+# Collybia podagrosa Berk. SPECIES
 
 #### Status
 ACCEPTED

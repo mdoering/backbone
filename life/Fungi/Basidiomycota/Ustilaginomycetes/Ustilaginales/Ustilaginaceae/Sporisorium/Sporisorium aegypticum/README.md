@@ -1,17 +1,16 @@
-Ustilago aegyptica A.A. Fisch. Waldh. SPECIES
-=======
+# Sporisorium aegypticum (A.A. Fisch. Waldh.) Vánky SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 33: 371 (1988)
 
 #### Original name
-Ustilago aegyptica A.A. Fisch. Waldh.
+Ustilago aegyptiaca A.A. Fisch. Waldh., 1879
 
 ### Remarks
 null

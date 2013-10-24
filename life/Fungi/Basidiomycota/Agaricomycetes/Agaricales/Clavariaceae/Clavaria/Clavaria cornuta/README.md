@@ -1,5 +1,4 @@
-Clavaria cornuta (Hoffm.) Bull. SPECIES
-=======
+# Clavaria cornuta (Hoffm.) Bull. SPECIES
 
 #### Status
 ACCEPTED

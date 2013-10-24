@@ -1,5 +1,4 @@
-Ammotium casamancensis Debenay, 1988 SPECIES
-=======
+# Ammotium casamancensis Debenay, 1988 SPECIES
 
 #### Status
 ACCEPTED

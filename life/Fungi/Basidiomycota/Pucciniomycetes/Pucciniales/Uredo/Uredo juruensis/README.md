@@ -1,5 +1,4 @@
-Uredo juruensis Henn. SPECIES
-=======
+# Uredo juruensis Henn. SPECIES
 
 #### Status
 ACCEPTED

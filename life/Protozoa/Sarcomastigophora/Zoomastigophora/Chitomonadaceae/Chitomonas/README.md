@@ -1,5 +1,4 @@
-Chitomonas Pérez Reyes, Freyre & Okón, 1965 GENUS
-=======
+# Chitomonas Pérez Reyes, Freyre & Okón, 1965 GENUS
 
 #### Status
 ACCEPTED

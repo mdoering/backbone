@@ -1,5 +1,4 @@
-Phyllosticta rottlerae (Berk. & Broome) Petch SPECIES
-=======
+# Phyllosticta rottlerae (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

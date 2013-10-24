@@ -1,5 +1,4 @@
-Polystictus puellaris (Kalchbr.) Cooke SPECIES
-=======
+# Polystictus puellaris (Kalchbr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina montana Dechatres & Werner SPECIES
-=======
+# Rinodina montana Dechatres & Werner SPECIES
 
 #### Status
 ACCEPTED

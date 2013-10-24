@@ -1,5 +1,4 @@
-Pleurophomella faginea Syd. SPECIES
-=======
+# Pleurophomella faginea Syd. SPECIES
 
 #### Status
 ACCEPTED

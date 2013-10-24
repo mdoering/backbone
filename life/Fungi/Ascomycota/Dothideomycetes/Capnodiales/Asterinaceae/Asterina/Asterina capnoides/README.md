@@ -1,5 +1,4 @@
-Asterina capnoides Ellis SPECIES
-=======
+# Asterina capnoides Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia buccinalis (Sowerby) Sacc. SPECIES
-=======
+# Omphalia buccinalis (Sowerby) Sacc. SPECIES
 
 #### Status
 ACCEPTED

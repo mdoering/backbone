@@ -1,5 +1,4 @@
-Fusicoccum elasticum Jamaluddin & Dadwal SPECIES
-=======
+# Fusicoccum elasticum Jamaluddin & Dadwal SPECIES
 
 #### Status
 ACCEPTED

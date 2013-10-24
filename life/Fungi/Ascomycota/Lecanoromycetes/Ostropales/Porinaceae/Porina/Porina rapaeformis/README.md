@@ -1,5 +1,4 @@
-Porina rapaeformis Vain. SPECIES
-=======
+# Porina rapaeformis Vain. SPECIES
 
 #### Status
 ACCEPTED

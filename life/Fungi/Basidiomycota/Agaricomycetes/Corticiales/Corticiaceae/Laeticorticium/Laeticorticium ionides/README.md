@@ -1,17 +1,16 @@
-Laeticorticium jonides (Bres.) Donk SPECIES
-=======
+# Laeticorticium ionides (Bres.) Donk SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungus, Wageningen 26(1-4): 17 (1956)
 
 #### Original name
-Corticium jonides Bres.
+Corticium ionides Bres.
 
 ### Remarks
 null

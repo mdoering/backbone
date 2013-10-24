@@ -1,5 +1,4 @@
-Sphaeria incrassata Jungh. SPECIES
-=======
+# Sphaeria incrassata Jungh. SPECIES
 
 #### Status
 ACCEPTED

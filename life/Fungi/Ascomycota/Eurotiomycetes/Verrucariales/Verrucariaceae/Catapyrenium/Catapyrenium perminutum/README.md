@@ -1,5 +1,4 @@
-Catapyrenium perminutum (H. Magn.) J.C. Wei SPECIES
-=======
+# Catapyrenium perminutum (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

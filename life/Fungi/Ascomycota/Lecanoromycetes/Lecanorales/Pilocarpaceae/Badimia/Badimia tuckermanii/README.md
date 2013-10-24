@@ -1,5 +1,4 @@
-Badimia tuckermanii (R. Sant.) Lücking, Lumbsch & Elix SPECIES
-=======
+# Badimia tuckermanii (R. Sant.) Lücking, Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

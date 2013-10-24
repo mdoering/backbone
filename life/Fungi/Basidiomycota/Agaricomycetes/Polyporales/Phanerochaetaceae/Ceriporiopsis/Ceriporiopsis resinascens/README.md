@@ -1,17 +1,16 @@
-Tyromyces resinascens var. resinascens VARIETY
-=======
+# Ceriporiopsis resinascens (Romell) Domanski, 1963 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 39(1): 52 (1941)
+Acta Soc. Bot. Pol. 32: 732 (1963)
 
 #### Original name
-Tyromyces resinascens var. resinascens
+Polyporus resinascens Romell, 1911
 
 ### Remarks
 null

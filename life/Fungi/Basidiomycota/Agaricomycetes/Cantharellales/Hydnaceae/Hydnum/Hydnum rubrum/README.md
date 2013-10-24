@@ -1,5 +1,4 @@
-Hydnum rubrum Pers. SPECIES
-=======
+# Hydnum rubrum Pers. SPECIES
 
 #### Status
 ACCEPTED

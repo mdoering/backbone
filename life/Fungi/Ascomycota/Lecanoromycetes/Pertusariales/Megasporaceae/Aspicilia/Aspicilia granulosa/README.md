@@ -1,5 +1,4 @@
-Aspicilia granulosa A. Nordin SPECIES
-=======
+# Aspicilia granulosa A. Nordin SPECIES
 
 #### Status
 ACCEPTED

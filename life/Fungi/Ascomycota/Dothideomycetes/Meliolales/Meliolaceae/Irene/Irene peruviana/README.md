@@ -1,5 +1,4 @@
-Irene peruviana (Syd.) Hansf. SPECIES
-=======
+# Irene peruviana (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

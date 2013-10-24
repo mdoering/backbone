@@ -1,5 +1,4 @@
-Thyrophylacidae Bergen in Corliss, 1961 FAMILY
-=======
+# Thyrophylacidae Bergen in Corliss, 1961 FAMILY
 
 #### Status
 ACCEPTED

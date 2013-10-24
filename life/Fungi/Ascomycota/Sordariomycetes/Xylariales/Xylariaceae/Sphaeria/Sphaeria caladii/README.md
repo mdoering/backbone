@@ -1,5 +1,4 @@
-Sphaeria caladii (Schwein.) Sacc. SPECIES
-=======
+# Sphaeria caladii (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

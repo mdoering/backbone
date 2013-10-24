@@ -1,5 +1,4 @@
-Pododimeria gelatinosa Luttr. & M.E. Barr, 1978 SPECIES
-=======
+# Pododimeria gelatinosa Luttr. & M.E. Barr, 1978 SPECIES
 
 #### Status
 ACCEPTED

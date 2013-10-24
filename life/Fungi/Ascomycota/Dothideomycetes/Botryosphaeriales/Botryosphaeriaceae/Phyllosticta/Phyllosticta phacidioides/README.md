@@ -1,5 +1,4 @@
-Phyllosticta phacidioides (Sacc.) Allescher in G. Winter SPECIES
-=======
+# Phyllosticta phacidioides (Sacc.) Allescher in G. Winter SPECIES
 
 #### Status
 ACCEPTED

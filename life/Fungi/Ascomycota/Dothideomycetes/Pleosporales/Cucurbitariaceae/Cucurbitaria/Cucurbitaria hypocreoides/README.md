@@ -1,14 +1,13 @@
-Cucurbitaria hypocreodes (Berk. & Cooke) Kuntze SPECIES
-=======
+# Cucurbitaria hypocreoides (Berk. & Cooke) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 461 (1898)
 
 #### Original name
 Nectria hypocreoides Berk. & Cooke

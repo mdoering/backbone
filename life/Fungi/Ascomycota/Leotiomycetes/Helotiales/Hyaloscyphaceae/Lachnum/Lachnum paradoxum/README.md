@@ -1,5 +1,4 @@
-Lachnum paradoxum P. Karst. SPECIES
-=======
+# Lachnum paradoxum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

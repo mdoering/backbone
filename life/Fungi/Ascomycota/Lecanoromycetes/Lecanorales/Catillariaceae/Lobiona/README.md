@@ -1,5 +1,4 @@
-Lobiona GENUS
-=======
+# Lobiona GENUS
 
 #### Status
 ACCEPTED

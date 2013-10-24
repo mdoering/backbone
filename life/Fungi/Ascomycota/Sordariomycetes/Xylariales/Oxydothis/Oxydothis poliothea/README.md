@@ -1,5 +1,4 @@
-Oxydothis poliothea Syd. SPECIES
-=======
+# Oxydothis poliothea Syd. SPECIES
 
 #### Status
 ACCEPTED

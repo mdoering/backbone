@@ -1,5 +1,4 @@
-Mycosphaerella maesae Crous & U. Braun SPECIES
-=======
+# Mycosphaerella maesae Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

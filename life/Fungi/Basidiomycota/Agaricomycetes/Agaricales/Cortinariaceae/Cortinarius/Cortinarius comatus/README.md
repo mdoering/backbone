@@ -1,5 +1,4 @@
-Cortinarius comatus J. Favre SPECIES
-=======
+# Cortinarius comatus J. Favre SPECIES
 
 #### Status
 ACCEPTED

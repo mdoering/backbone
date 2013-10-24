@@ -1,5 +1,4 @@
-Russula radicans R. Heim SPECIES
-=======
+# Russula radicans R. Heim SPECIES
 
 #### Status
 ACCEPTED

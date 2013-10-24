@@ -1,14 +1,13 @@
-Doassansia limnocharidis Cif., 1931 SPECIES
-=======
+# Doassansiopsis limnocharidis (Cif.) Vánky, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. 23A(4 (14)): 23 (1931)
+Mycotaxon 43: 424 (1992)
 
 #### Original name
 Doassansia limnocharidis Cif., 1931

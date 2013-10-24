@@ -1,5 +1,4 @@
-Arthopyrenia norata A. Massal. SPECIES
-=======
+# Arthopyrenia norata A. Massal. SPECIES
 
 #### Status
 ACCEPTED

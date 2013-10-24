@@ -1,5 +1,4 @@
-Bolivinoididae Loeblich & Tappan, 1984 FAMILY
-=======
+# Bolivinoididae Loeblich & Tappan, 1984 FAMILY
 
 #### Status
 ACCEPTED

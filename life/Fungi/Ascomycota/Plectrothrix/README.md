@@ -1,5 +1,4 @@
-Plectrothrix Shear GENUS
-=======
+# Plectrothrix Shear GENUS
 
 #### Status
 ACCEPTED

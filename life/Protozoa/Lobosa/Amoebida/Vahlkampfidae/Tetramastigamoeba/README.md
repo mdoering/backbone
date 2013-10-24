@@ -1,5 +1,4 @@
-Tetramastigamoeba Singh & Hanumaiah, 1977 GENUS
-=======
+# Tetramastigamoeba Singh & Hanumaiah, 1977 GENUS
 
 #### Status
 ACCEPTED

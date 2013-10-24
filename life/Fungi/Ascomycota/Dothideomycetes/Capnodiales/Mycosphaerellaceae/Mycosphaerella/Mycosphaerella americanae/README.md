@@ -1,5 +1,4 @@
-Mycosphaerella americanae B.V. Lima, R.W. Barreto & D.J. Soares, 2009 SPECIES
-=======
+# Mycosphaerella americanae B.V. Lima, R.W. Barreto & D.J. Soares, 2009 SPECIES
 
 #### Status
 ACCEPTED

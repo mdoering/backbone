@@ -1,5 +1,4 @@
-Striosphaeropsis mirabilis Verkley & Aa, 1997 SPECIES
-=======
+# Striosphaeropsis mirabilis Verkley & Aa, 1997 SPECIES
 
 #### Status
 ACCEPTED

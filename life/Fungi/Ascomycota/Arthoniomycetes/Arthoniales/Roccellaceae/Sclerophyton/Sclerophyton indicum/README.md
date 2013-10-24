@@ -1,5 +1,4 @@
-Sclerophyton indicum Makhija & Adaw. SPECIES
-=======
+# Sclerophyton indicum Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenidium branchiommatis Ray, 1930 SPECIES
-=======
+# Selenidium branchiommatis Ray, 1930 SPECIES
 
 #### Status
 ACCEPTED

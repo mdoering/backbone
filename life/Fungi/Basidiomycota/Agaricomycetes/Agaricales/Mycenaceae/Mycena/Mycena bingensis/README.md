@@ -1,5 +1,4 @@
-Mycena bingensis Beeli SPECIES
-=======
+# Mycena bingensis Beeli SPECIES
 
 #### Status
 ACCEPTED

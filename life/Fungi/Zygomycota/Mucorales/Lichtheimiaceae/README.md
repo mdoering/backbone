@@ -1,5 +1,4 @@
-Lichtheimiaceae K. Hoffm., Walther & K. Voigt FAMILY
-=======
+# Lichtheimiaceae K. Hoffm., Walther & K. Voigt FAMILY
 
 #### Status
 ACCEPTED

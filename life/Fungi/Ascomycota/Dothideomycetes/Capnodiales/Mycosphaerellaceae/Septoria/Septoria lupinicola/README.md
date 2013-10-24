@@ -1,5 +1,4 @@
-Septoria lupinicola Dearn. SPECIES
-=======
+# Septoria lupinicola Dearn. SPECIES
 
 #### Status
 ACCEPTED

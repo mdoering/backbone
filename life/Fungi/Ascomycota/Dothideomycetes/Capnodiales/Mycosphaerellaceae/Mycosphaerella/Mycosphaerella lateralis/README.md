@@ -1,5 +1,4 @@
-Mycosphaerella lateralis Crous & M.J. Wingf., 1996 SPECIES
-=======
+# Mycosphaerella lateralis Crous & M.J. Wingf., 1996 SPECIES
 
 #### Status
 ACCEPTED

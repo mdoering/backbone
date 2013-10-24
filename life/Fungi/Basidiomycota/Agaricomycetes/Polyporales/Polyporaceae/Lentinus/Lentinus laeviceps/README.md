@@ -1,5 +1,4 @@
-Lentinus laeviceps Kalchbr. SPECIES
-=======
+# Lentinus laeviceps Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

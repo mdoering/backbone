@@ -1,5 +1,4 @@
-Entomoplasmataceae FAMILY
-=======
+# Entomoplasmataceae FAMILY
 
 #### Status
 ACCEPTED

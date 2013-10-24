@@ -1,5 +1,4 @@
-Aplopsora hennenii Dianese & L.T.P. Santos, 1995 SPECIES
-=======
+# Aplopsora hennenii Dianese & L.T.P. Santos, 1995 SPECIES
 
 #### Status
 ACCEPTED

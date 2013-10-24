@@ -1,17 +1,16 @@
-Actinoscypha graminis P. Karst., 1888 SPECIES
-=======
+# Micropeziza karstenii Nannf., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 16: 5 (1888)
+Bot. Notiser 129(3): 336 (1976)
 
 #### Original name
-Actinoscypha graminis P. Karst., 1888
+Micropeziza karstenii Nannf., 1976
 
 ### Remarks
 null

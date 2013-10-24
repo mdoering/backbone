@@ -1,5 +1,4 @@
-Botrydium wallrothii Kützing SPECIES
-=======
+# Botrydium wallrothii Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spatoglossum asperum J. Agardh SPECIES
-=======
+# Spatoglossum asperum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

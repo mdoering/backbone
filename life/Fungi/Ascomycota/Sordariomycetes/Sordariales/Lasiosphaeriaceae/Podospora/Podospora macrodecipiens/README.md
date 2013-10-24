@@ -1,5 +1,4 @@
-Podospora macrodecipiens M.J. Richardson SPECIES
-=======
+# Podospora macrodecipiens M.J. Richardson SPECIES
 
 #### Status
 ACCEPTED

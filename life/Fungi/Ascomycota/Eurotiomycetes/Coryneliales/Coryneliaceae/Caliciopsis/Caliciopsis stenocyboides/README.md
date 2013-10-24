@@ -1,5 +1,4 @@
-Caliciopsis stenocyboides (Nyl.) Rehm SPECIES
-=======
+# Caliciopsis stenocyboides (Nyl.) Rehm SPECIES
 
 #### Status
 ACCEPTED

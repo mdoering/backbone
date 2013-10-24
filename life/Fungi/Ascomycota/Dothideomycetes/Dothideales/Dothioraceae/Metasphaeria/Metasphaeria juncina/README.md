@@ -1,5 +1,4 @@
-Metasphaeria juncina Feltgen SPECIES
-=======
+# Metasphaeria juncina Feltgen SPECIES
 
 #### Status
 ACCEPTED

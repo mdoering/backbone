@@ -1,5 +1,4 @@
-Lecidea pulla J. Lowe SPECIES
-=======
+# Lecidea pulla J. Lowe SPECIES
 
 #### Status
 ACCEPTED

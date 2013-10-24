@@ -1,5 +1,4 @@
-Peziza cerasina (Wulfen) Pers. SPECIES
-=======
+# Peziza cerasina (Wulfen) Pers. SPECIES
 
 #### Status
 ACCEPTED

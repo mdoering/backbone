@@ -1,5 +1,4 @@
-Entoloma veluticeps Corner & E. Horak SPECIES
-=======
+# Entoloma veluticeps Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

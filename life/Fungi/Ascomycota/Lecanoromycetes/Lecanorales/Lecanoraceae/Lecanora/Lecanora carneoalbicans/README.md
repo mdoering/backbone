@@ -1,5 +1,4 @@
-Lecanora carneoalbicans (Vain.) Motyka SPECIES
-=======
+# Lecanora carneoalbicans (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

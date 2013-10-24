@@ -1,17 +1,16 @@
-Pseudoinonotus hoehnelii (Bres.) Zmitr., Malysheva & Spirin, 2006 SPECIES
-=======
+# Phellinus hoehnelii (Bres.) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 173 (1980)
 
 #### Original name
-null
+Fomes hoehnelii Bres., 1912
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Peccaniopsis GENUS
-=======
+# Peccaniopsis GENUS
 
 #### Status
 ACCEPTED

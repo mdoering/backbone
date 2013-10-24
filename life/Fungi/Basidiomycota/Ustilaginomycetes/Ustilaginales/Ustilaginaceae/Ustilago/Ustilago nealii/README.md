@@ -1,5 +1,4 @@
-Ustilago nealii Ellis & F.W. Anderson SPECIES
-=======
+# Ustilago nealii Ellis & F.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eremotheca GENUS
-=======
+# Eremotheca GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Striatotheca transformata Burmann, 1970 SPECIES
-=======
+# Striatotheca transformata Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

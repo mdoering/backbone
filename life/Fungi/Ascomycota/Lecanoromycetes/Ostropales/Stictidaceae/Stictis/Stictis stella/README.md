@@ -1,5 +1,4 @@
-Stictis stella Schwein. SPECIES
-=======
+# Stictis stella Schwein. SPECIES
 
 #### Status
 ACCEPTED

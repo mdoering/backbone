@@ -1,5 +1,4 @@
-Puccinia convolvulacearum Mayor SPECIES
-=======
+# Puccinia convolvulacearum Mayor SPECIES
 
 #### Status
 ACCEPTED

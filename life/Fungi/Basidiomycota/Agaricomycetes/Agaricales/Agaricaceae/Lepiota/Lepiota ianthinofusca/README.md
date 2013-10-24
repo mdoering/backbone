@@ -1,5 +1,4 @@
-Lepiota ianthinofusca Locq. SPECIES
-=======
+# Lepiota ianthinofusca Locq. SPECIES
 
 #### Status
 ACCEPTED

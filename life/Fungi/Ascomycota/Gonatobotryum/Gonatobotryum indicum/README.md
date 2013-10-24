@@ -1,5 +1,4 @@
-Gonatobotryum indicum Munjal & H.S. Gill SPECIES
-=======
+# Gonatobotryum indicum Munjal & H.S. Gill SPECIES
 
 #### Status
 ACCEPTED

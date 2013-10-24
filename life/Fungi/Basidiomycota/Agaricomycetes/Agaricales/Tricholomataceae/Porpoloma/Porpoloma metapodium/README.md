@@ -1,17 +1,16 @@
-Agaricus metapodius var. metapodius VARIETY
-=======
+# Porpoloma metapodium (Fr.) Singer, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Sydowia 7: 19 (1973)
 
 #### Original name
-null
+Agaricus metapodius Fr., 1818
 
 ### Remarks
 null

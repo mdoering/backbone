@@ -1,5 +1,4 @@
-Cortinarius prunicola Miyauchi & His. Kobay. SPECIES
-=======
+# Cortinarius prunicola Miyauchi & His. Kobay. SPECIES
 
 #### Status
 ACCEPTED

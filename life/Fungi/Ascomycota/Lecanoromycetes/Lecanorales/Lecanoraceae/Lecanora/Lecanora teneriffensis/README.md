@@ -1,5 +1,4 @@
-Lecanora teneriffensis Erichsen SPECIES
-=======
+# Lecanora teneriffensis Erichsen SPECIES
 
 #### Status
 ACCEPTED

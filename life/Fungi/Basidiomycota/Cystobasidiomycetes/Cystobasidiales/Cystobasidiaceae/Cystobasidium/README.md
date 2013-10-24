@@ -1,5 +1,4 @@
-Cystobasidium (Lagerh.) Neuhoff GENUS
-=======
+# Cystobasidium (Lagerh.) Neuhoff GENUS
 
 #### Status
 ACCEPTED

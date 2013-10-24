@@ -1,5 +1,4 @@
-Inocybe tuberosa Clem. SPECIES
-=======
+# Inocybe tuberosa Clem. SPECIES
 
 #### Status
 ACCEPTED

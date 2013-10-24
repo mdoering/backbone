@@ -1,5 +1,4 @@
-Ornithocercus galea SPECIES
-=======
+# Ornithocercus galea SPECIES
 
 #### Status
 ACCEPTED

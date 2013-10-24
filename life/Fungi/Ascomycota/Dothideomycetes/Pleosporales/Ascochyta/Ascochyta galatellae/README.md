@@ -1,5 +1,4 @@
-Ascochyta galatellae Nevod. & Byzova SPECIES
-=======
+# Ascochyta galatellae Nevod. & Byzova SPECIES
 
 #### Status
 ACCEPTED

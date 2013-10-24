@@ -1,14 +1,13 @@
-Achlya recurva Cornu, 1880 SPECIES
-=======
+# Newbya recurva (Cornu) M.W. Dick & Mark A. Spencer, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lamb. Flor. myc. Relg. 120
+in Spencer, Vick & Dick, Mycol. Res. 106(5): 559 (2002)
 
 #### Original name
 Achlya recurva Cornu, 1880

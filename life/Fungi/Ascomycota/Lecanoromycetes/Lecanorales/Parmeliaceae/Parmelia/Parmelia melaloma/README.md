@@ -1,5 +1,4 @@
-Parmelia melaloma Ach. SPECIES
-=======
+# Parmelia melaloma Ach. SPECIES
 
 #### Status
 ACCEPTED

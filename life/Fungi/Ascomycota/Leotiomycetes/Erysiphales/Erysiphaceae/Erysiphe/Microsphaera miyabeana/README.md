@@ -1,5 +1,4 @@
-Microsphaera miyabeana U. Braun SPECIES
-=======
+# Microsphaera miyabeana U. Braun SPECIES
 
 #### Status
 ACCEPTED

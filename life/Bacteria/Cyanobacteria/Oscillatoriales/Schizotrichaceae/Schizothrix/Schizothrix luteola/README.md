@@ -1,5 +1,4 @@
-Schizothrix luteola C. Sarthou, Y. Thérézien & A. Couté SPECIES
-=======
+# Schizothrix luteola C. Sarthou, Y. Thérézien & A. Couté SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsonectria andina Pat. SPECIES
-=======
+# Valsonectria andina Pat. SPECIES
 
 #### Status
 ACCEPTED

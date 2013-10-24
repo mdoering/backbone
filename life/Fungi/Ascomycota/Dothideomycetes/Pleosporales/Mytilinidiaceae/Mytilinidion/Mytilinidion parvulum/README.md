@@ -1,17 +1,16 @@
-Mytilidion parvulum M.L. Lohman SPECIES
-=======
+# Mytilinidion parvulum M.L. Lohman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 24(4): 481 (1932)
 
 #### Original name
-Mytilidion parvulum M.L. Lohman
+Mytilinidion parvulum M.L. Lohman
 
 ### Remarks
 null

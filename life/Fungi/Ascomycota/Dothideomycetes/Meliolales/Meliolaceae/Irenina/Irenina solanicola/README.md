@@ -1,5 +1,4 @@
-Irenina solanicola (Henn.) F. Stevens SPECIES
-=======
+# Irenina solanicola (Henn.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

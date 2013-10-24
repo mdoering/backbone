@@ -1,17 +1,16 @@
-Kordyanella Höhn. GENUS
-=======
+# Tremellidium Petr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 2: 274 (1904)
+Annls mycol. 25(3/4): 387 (1927)
 
 #### Original name
-Kordyanella Höhn.
+Tremellidium Petr.
 
 ### Remarks
 null

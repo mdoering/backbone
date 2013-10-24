@@ -1,5 +1,4 @@
-Graphis myrtacea (Müll. Arg.) Lücking SPECIES
-=======
+# Graphis myrtacea (Müll. Arg.) Lücking SPECIES
 
 #### Status
 ACCEPTED

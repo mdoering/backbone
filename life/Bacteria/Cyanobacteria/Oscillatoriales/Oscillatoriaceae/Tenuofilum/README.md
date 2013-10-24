@@ -1,5 +1,4 @@
-Tenuofilum J.W. Schopf, 1968 GENUS
-=======
+# Tenuofilum J.W. Schopf, 1968 GENUS
 
 #### Status
 ACCEPTED

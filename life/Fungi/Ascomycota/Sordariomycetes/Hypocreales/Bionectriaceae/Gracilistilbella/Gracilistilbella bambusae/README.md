@@ -1,14 +1,13 @@
-Stilbella bambusae (Pat. & Gaillard) Seifert, 1985 SPECIES
-=======
+# Gracilistilbella bambusae (Pat. & Gaillard) Seifert, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 27: 92 (1985)
+in Seifert & Samuels, Stud. Mycol. 45: 18 (2000)
 
 #### Original name
 null

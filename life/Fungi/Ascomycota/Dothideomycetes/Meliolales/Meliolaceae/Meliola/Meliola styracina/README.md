@@ -1,5 +1,4 @@
-Meliola styracina Hansf. SPECIES
-=======
+# Meliola styracina Hansf. SPECIES
 
 #### Status
 ACCEPTED

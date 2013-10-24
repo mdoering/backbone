@@ -1,5 +1,4 @@
-Verrucaria aspera Taylor SPECIES
-=======
+# Verrucaria aspera Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplotomma alboatrior (Nyl.) Szatala SPECIES
-=======
+# Diplotomma alboatrior (Nyl.) Szatala SPECIES
 
 #### Status
 ACCEPTED

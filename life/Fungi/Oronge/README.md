@@ -1,5 +1,4 @@
-Oronge Paulet GENUS
-=======
+# Oronge Paulet GENUS
 
 #### Status
 ACCEPTED

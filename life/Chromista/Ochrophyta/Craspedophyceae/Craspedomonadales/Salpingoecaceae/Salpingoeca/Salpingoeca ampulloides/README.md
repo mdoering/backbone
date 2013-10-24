@@ -1,5 +1,4 @@
-Salpingoeca ampulloides D. de C. Bicudo & C. E. de M. Bicudo SPECIES
-=======
+# Salpingoeca ampulloides D. de C. Bicudo & C. E. de M. Bicudo SPECIES
 
 #### Status
 ACCEPTED

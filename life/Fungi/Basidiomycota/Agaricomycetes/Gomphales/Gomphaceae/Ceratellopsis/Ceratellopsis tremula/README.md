@@ -1,5 +1,4 @@
-Ceratellopsis tremula (Sacc.) Corner SPECIES
-=======
+# Ceratellopsis tremula (Sacc.) Corner SPECIES
 
 #### Status
 ACCEPTED

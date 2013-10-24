@@ -1,5 +1,4 @@
-Cercospora tithoniicola J.M. Yen SPECIES
-=======
+# Cercospora tithoniicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

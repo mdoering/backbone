@@ -1,5 +1,4 @@
-Limibacter armeniacum Yoon, Matsuo, Kasai & Yokota, 2008 SPECIES
-=======
+# Limibacter armeniacum Yoon, Matsuo, Kasai & Yokota, 2008 SPECIES
 
 #### Status
 ACCEPTED

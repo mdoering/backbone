@@ -1,5 +1,4 @@
-Argopsis megalospora Th. Fr. SPECIES
-=======
+# Argopsis megalospora Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

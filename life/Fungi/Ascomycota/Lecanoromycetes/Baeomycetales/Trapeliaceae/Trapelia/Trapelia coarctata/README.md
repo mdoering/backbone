@@ -1,17 +1,16 @@
-Lecidea coarctata subsp. coarctata SUBSPECIES
-=======
+# Trapelia coarctata (Sm.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. linn. Bordeaux 21: 358 (1856)
+in Werner, Bulletin de la Société des Sciences naturelles du Maroc 12: 160 (1932)
 
 #### Original name
-Lecidea coarctata subsp. coarctata
+Lichen coarctatus Turner ex Sm.
 
 ### Remarks
 null

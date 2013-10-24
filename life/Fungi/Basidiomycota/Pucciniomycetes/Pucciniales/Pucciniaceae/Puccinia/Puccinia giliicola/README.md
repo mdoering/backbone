@@ -1,5 +1,4 @@
-Puccinia giliicola Henn. SPECIES
-=======
+# Puccinia giliicola Henn. SPECIES
 
 #### Status
 ACCEPTED

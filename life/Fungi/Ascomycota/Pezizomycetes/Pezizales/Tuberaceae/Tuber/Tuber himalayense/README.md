@@ -1,5 +1,4 @@
-Tuber himalayense B.C. Zhang & Minter SPECIES
-=======
+# Tuber himalayense B.C. Zhang & Minter SPECIES
 
 #### Status
 ACCEPTED

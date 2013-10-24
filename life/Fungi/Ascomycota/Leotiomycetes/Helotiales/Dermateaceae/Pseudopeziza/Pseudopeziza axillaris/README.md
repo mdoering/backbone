@@ -1,5 +1,4 @@
-Pseudopeziza axillaris Rostr. SPECIES
-=======
+# Pseudopeziza axillaris Rostr. SPECIES
 
 #### Status
 ACCEPTED

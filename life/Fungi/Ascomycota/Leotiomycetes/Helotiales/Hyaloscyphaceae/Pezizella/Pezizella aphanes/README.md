@@ -1,5 +1,4 @@
-Pezizella aphanes Rehm SPECIES
-=======
+# Pezizella aphanes Rehm SPECIES
 
 #### Status
 ACCEPTED

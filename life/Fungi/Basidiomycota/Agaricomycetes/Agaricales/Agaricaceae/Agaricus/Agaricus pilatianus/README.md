@@ -1,5 +1,4 @@
-Agaricus pilatianus f. pilatianus FORM
-=======
+# Agaricus pilatianus (Bohus) Bohus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls hist. -nat. Mus. natn. hung. 66: 78 (1974)
 
 #### Original name
-Agaricus pilatianus f. pilatianus
+Agaricus xanthodermus var. pilatianus Bohus
 
 ### Remarks
 null

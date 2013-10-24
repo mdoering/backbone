@@ -1,5 +1,4 @@
-Puccinia tanaceti-balsamitae G. Winter SPECIES
-=======
+# Puccinia tanaceti-balsamitae G. Winter SPECIES
 
 #### Status
 ACCEPTED

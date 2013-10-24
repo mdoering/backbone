@@ -1,5 +1,4 @@
-Strigula umbilicata Müll. Arg. SPECIES
-=======
+# Strigula umbilicata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

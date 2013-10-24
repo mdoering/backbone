@@ -1,5 +1,4 @@
-Sorosporium ellisii var. ellisii VARIETY
-=======
+# Sorosporium ellisii G. Winter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sorosporium ellisii var. ellisii
+Sorosporium ellisii G. Winter
 
 ### Remarks
 null

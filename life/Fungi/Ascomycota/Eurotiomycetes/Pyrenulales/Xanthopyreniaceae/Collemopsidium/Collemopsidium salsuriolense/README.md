@@ -1,5 +1,4 @@
-Collemopsidium salsuriolense (Harm.) B. de Lesd. SPECIES
-=======
+# Collemopsidium salsuriolense (Harm.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Godronia rhabdospora (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Godronia rhabdospora (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

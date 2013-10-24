@@ -1,5 +1,4 @@
-Diplodina jacobaeae Oudem. SPECIES
-=======
+# Diplodina jacobaeae Oudem. SPECIES
 
 #### Status
 ACCEPTED

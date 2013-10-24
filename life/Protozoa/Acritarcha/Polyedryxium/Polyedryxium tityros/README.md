@@ -1,5 +1,4 @@
-Polyedryxium tityros Colbath, 1990 SPECIES
-=======
+# Polyedryxium tityros Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

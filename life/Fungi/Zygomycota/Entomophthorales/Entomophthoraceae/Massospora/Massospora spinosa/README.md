@@ -1,5 +1,4 @@
-Massospora spinosa Cif., A.A. Machado & Vittal, 1956 SPECIES
-=======
+# Massospora spinosa Cif., A.A. Machado & Vittal, 1956 SPECIES
 
 #### Status
 ACCEPTED

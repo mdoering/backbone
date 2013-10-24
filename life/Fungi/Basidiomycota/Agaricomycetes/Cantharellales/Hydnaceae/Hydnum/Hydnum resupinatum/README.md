@@ -1,5 +1,4 @@
-Hydnum resupinatum Sw. SPECIES
-=======
+# Hydnum resupinatum Sw. SPECIES
 
 #### Status
 ACCEPTED

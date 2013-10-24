@@ -1,5 +1,4 @@
-Sticta schaereri Mont. & Bosch SPECIES
-=======
+# Sticta schaereri Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ericianella GENUS
-=======
+# Ericianella GENUS
 
 #### Status
 ACCEPTED

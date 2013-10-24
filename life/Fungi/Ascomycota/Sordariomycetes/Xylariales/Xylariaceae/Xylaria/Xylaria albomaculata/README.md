@@ -1,5 +1,4 @@
-Xylaria albomaculata Lloyd SPECIES
-=======
+# Xylaria albomaculata Lloyd SPECIES
 
 #### Status
 ACCEPTED

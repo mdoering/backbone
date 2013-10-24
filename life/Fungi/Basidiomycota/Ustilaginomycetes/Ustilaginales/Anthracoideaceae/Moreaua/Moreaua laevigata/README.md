@@ -1,14 +1,13 @@
-Tolyposporium laevigatum Websdane & Vánky, 1995 SPECIES
-=======
+# Moreaua laevigata (Websdane & Vánky) Vánky, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Vánky & Websdane, Mycotaxon 56: 224 (1995)
+Mycotaxon 74(2): 352 (2000)
 
 #### Original name
 Tolyposporium laevigatum Websdane & Vánky, 1995

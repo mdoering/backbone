@@ -1,5 +1,4 @@
-Protoperidinium verrucosum (Meunier) Balech SPECIES
-=======
+# Protoperidinium verrucosum (Meunier) Balech SPECIES
 
 #### Status
 ACCEPTED

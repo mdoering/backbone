@@ -1,5 +1,4 @@
-Chlorosplenium foliaceum (Starbäck) Rick SPECIES
-=======
+# Chlorosplenium foliaceum (Starbäck) Rick SPECIES
 
 #### Status
 ACCEPTED

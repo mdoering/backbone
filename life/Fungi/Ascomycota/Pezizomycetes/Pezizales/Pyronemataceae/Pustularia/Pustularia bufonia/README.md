@@ -1,5 +1,4 @@
-Pustularia bufonia Grelet SPECIES
-=======
+# Pustularia bufonia Grelet SPECIES
 
 #### Status
 ACCEPTED

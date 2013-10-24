@@ -1,5 +1,4 @@
-Phyllosticta symploci C.C. Chen SPECIES
-=======
+# Phyllosticta symploci C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

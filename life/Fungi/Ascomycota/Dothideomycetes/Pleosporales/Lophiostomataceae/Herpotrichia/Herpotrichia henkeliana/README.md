@@ -1,5 +1,4 @@
-Herpotrichia henkeliana Syd. SPECIES
-=======
+# Herpotrichia henkeliana Syd. SPECIES
 
 #### Status
 ACCEPTED

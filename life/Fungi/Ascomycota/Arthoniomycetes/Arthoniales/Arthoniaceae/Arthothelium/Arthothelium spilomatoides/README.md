@@ -1,5 +1,4 @@
-Arthothelium spilomatoides (Nyl.) Zahlbr. SPECIES
-=======
+# Arthothelium spilomatoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

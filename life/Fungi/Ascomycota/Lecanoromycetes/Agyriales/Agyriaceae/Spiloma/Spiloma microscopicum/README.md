@@ -1,5 +1,4 @@
-Spiloma microscopicum Turner & Borrer SPECIES
-=======
+# Spiloma microscopicum Turner & Borrer SPECIES
 
 #### Status
 ACCEPTED

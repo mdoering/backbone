@@ -1,5 +1,4 @@
-Opisthostyla annulata Stokes, 1886 SPECIES
-=======
+# Opisthostyla annulata Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

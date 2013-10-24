@@ -1,5 +1,4 @@
-Ramularia epilobii P. Karst., 1892 SPECIES
-=======
+# Ramularia epilobii P. Karst., 1892 SPECIES
 
 #### Status
 ACCEPTED

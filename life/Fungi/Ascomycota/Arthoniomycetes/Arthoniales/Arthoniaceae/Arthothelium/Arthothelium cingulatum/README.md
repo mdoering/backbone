@@ -1,5 +1,4 @@
-Arthothelium cingulatum R. Sant. SPECIES
-=======
+# Arthothelium cingulatum R. Sant. SPECIES
 
 #### Status
 ACCEPTED

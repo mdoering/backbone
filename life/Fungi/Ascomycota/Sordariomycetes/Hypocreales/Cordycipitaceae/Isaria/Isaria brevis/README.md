@@ -1,5 +1,4 @@
-Isaria brevis Berk. & M.A. Curtis SPECIES
-=======
+# Isaria brevis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

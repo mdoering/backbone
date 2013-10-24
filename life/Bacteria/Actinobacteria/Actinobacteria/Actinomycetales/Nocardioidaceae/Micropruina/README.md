@@ -1,5 +1,4 @@
-Micropruina Shintani et al., 2000 GENUS
-=======
+# Micropruina Shintani et al., 2000 GENUS
 
 #### Status
 ACCEPTED

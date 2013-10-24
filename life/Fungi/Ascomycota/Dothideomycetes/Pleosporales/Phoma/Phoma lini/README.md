@@ -1,5 +1,4 @@
-Phoma lini Pass., 1890 SPECIES
-=======
+# Phoma lini Pass., 1890 SPECIES
 
 #### Status
 ACCEPTED

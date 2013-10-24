@@ -1,5 +1,4 @@
-Spyrodactylon GENUS
-=======
+# Spyrodactylon GENUS
 
 #### Status
 ACCEPTED

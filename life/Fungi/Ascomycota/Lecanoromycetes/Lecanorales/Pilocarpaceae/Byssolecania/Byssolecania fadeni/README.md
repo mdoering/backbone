@@ -1,5 +1,4 @@
-Byssolecania fadeni Vezda SPECIES
-=======
+# Byssolecania fadeni Vezda SPECIES
 
 #### Status
 ACCEPTED

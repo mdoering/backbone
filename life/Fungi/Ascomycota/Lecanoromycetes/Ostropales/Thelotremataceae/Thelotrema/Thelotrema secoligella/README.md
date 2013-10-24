@@ -1,5 +1,4 @@
-Thelotrema secoligella Müll. Arg. SPECIES
-=======
+# Thelotrema secoligella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

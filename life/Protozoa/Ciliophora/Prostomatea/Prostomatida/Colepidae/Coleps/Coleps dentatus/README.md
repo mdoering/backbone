@@ -1,5 +1,4 @@
-Coleps dentatus Lepsi, 1962 SPECIES
-=======
+# Coleps dentatus Lepsi, 1962 SPECIES
 
 #### Status
 ACCEPTED

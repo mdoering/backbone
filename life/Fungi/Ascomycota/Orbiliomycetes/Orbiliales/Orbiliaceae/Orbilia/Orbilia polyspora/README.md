@@ -1,5 +1,4 @@
-Orbilia polyspora Grelet SPECIES
-=======
+# Orbilia polyspora Grelet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercidospora epicarphinea (Nyl.) Grube & Hafellner SPECIES
-=======
+# Cercidospora epicarphinea (Nyl.) Grube & Hafellner SPECIES
 
 #### Status
 ACCEPTED

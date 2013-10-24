@@ -1,5 +1,4 @@
-Fragosphaera purpurea Shear SPECIES
-=======
+# Fragosphaera purpurea Shear SPECIES
 
 #### Status
 ACCEPTED

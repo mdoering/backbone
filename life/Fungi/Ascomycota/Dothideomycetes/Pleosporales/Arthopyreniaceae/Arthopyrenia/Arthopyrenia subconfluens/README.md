@@ -1,5 +1,4 @@
-Arthopyrenia subconfluens (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Arthopyrenia subconfluens (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

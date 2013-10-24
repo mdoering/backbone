@@ -1,5 +1,4 @@
-Syntrophothermus lipocalidus Sekiguchi et al., 2000 SPECIES
-=======
+# Syntrophothermus lipocalidus Sekiguchi et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

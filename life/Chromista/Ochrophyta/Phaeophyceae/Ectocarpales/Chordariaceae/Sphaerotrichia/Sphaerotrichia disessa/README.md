@@ -1,5 +1,4 @@
-Sphaerotrichia disessa (Setchell & Gardner) A. Zinova SPECIES
-=======
+# Sphaerotrichia disessa (Setchell & Gardner) A. Zinova SPECIES
 
 #### Status
 ACCEPTED

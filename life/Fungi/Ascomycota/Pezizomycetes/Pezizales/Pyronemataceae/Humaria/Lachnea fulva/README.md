@@ -1,5 +1,4 @@
-Lachnea fulva Velen. SPECIES
-=======
+# Lachnea fulva Velen. SPECIES
 
 #### Status
 ACCEPTED

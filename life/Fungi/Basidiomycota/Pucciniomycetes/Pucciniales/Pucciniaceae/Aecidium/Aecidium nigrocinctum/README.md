@@ -1,5 +1,4 @@
-Aecidium nigrocinctum Pat. & Har. SPECIES
-=======
+# Aecidium nigrocinctum Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

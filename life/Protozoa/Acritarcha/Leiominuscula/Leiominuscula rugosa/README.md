@@ -1,5 +1,4 @@
-Leiominuscula rugosa Naum. in Naumova, 1961 SPECIES
-=======
+# Leiominuscula rugosa Naum. in Naumova, 1961 SPECIES
 
 #### Status
 ACCEPTED

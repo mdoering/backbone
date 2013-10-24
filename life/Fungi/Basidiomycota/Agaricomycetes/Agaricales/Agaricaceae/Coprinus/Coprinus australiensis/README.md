@@ -1,5 +1,4 @@
-Coprinus australiensis Massee SPECIES
-=======
+# Coprinus australiensis Massee SPECIES
 
 #### Status
 ACCEPTED

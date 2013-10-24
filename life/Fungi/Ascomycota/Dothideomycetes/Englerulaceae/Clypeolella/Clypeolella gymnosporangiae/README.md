@@ -1,5 +1,4 @@
-Clypeolella gymnosporangiae Hansf. SPECIES
-=======
+# Clypeolella gymnosporangiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

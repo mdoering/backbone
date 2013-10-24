@@ -1,5 +1,4 @@
-Chaetomium jodhpurense Lodha, 1964 SPECIES
-=======
+# Chaetomium jodhpurense Lodha, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psiloparmelia dichotoma Elix & T.H. Nash SPECIES
-=======
+# Psiloparmelia dichotoma Elix & T.H. Nash SPECIES
 
 #### Status
 ACCEPTED

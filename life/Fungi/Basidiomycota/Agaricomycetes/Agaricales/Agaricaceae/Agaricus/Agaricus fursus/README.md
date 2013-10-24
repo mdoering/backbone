@@ -1,5 +1,4 @@
-Agaricus fursus Fr. SPECIES
-=======
+# Agaricus fursus Fr. SPECIES
 
 #### Status
 ACCEPTED

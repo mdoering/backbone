@@ -1,5 +1,4 @@
-Asterostomella ceropegiae Hosag., H. Biju & Manojk. SPECIES
-=======
+# Asterostomella ceropegiae Hosag., H. Biju & Manojk. SPECIES
 
 #### Status
 ACCEPTED

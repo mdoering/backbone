@@ -1,5 +1,4 @@
-Ellisiellina GENUS
-=======
+# Ellisiellina GENUS
 
 #### Status
 ACCEPTED

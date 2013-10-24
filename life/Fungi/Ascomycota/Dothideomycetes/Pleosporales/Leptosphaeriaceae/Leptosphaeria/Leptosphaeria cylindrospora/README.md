@@ -1,5 +1,4 @@
-Leptosphaeria cylindrospora Saccas SPECIES
-=======
+# Leptosphaeria cylindrospora Saccas SPECIES
 
 #### Status
 ACCEPTED

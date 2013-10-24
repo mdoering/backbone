@@ -1,17 +1,16 @@
-Comatricha persoonii var. fusca Lister VARIETY
-=======
+# Comatricha pulchella (C. Bab.) Rostaf., 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 35: 215 (1879)
+null
 
 #### Original name
-Comatricha persoonii var. fusca Lister
+null
 
 ### Remarks
 null

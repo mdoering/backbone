@@ -1,17 +1,16 @@
-Dekkeromyces dobzhanskii (Shehata, Mrak & Phaff) Santa María & Sánchez Nieto, 1970 SPECIES
-=======
+# Kluyveromyces dobzhanskii (Shehata, Mrak & Phaff) Van der Walt, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 31: 347 (1965)
 
 #### Original name
-null
+Saccharomyces dobzhanskii Shehata, Mrak & Phaff, 1956
 
 ### Remarks
 null

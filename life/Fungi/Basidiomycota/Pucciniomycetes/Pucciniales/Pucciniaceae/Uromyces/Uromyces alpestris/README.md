@@ -1,5 +1,4 @@
-Uromyces alpestris Tranzschel SPECIES
-=======
+# Uromyces alpestris Tranzschel SPECIES
 
 #### Status
 ACCEPTED

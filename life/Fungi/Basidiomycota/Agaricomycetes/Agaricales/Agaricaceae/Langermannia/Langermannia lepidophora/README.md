@@ -1,5 +1,4 @@
-Langermannia lepidophora (Ellis & Everh.) Calonge & M.P. Martín SPECIES
-=======
+# Langermannia lepidophora (Ellis & Everh.) Calonge & M.P. Martín SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryneum eucalypti J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Coryneum eucalypti J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

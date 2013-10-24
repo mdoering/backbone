@@ -1,5 +1,4 @@
-Lecudina caudata K.Hoshide, 1977 SPECIES
-=======
+# Lecudina caudata K.Hoshide, 1977 SPECIES
 
 #### Status
 ACCEPTED

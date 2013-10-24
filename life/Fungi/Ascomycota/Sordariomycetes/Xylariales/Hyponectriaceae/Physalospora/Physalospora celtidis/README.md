@@ -1,5 +1,4 @@
-Physalospora celtidis Vasyag. & Kostin SPECIES
-=======
+# Physalospora celtidis Vasyag. & Kostin SPECIES
 
 #### Status
 ACCEPTED

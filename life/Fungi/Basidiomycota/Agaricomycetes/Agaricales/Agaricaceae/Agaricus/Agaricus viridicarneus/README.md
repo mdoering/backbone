@@ -1,5 +1,4 @@
-Agaricus viridicarneus Berk. & Broome SPECIES
-=======
+# Agaricus viridicarneus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

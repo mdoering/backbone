@@ -1,5 +1,4 @@
-Collema micropaeum (Ach.) Röhl. SPECIES
-=======
+# Collema micropaeum (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

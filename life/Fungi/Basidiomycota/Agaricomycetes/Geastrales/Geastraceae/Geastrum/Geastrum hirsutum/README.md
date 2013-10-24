@@ -1,5 +1,4 @@
-Geastrum hirsutum Baseia & Calonge SPECIES
-=======
+# Geastrum hirsutum Baseia & Calonge SPECIES
 
 #### Status
 ACCEPTED

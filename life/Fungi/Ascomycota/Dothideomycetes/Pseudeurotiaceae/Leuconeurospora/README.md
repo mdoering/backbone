@@ -1,5 +1,4 @@
-Leuconeurospora Malloch & Cain GENUS
-=======
+# Leuconeurospora Malloch & Cain GENUS
 
 #### Status
 ACCEPTED

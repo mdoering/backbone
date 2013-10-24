@@ -1,5 +1,4 @@
-Placodium grimmiae (Nyl.) Vain. SPECIES
-=======
+# Placodium grimmiae (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

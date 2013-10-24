@@ -1,5 +1,4 @@
-Scrippsiella patagonica Akselman & Keupp, 1990 SPECIES
-=======
+# Scrippsiella patagonica Akselman & Keupp, 1990 SPECIES
 
 #### Status
 ACCEPTED

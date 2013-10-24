@@ -1,5 +1,4 @@
-Dermatea ononidis Velen. SPECIES
-=======
+# Dermatea ononidis Velen. SPECIES
 
 #### Status
 ACCEPTED

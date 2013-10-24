@@ -1,5 +1,4 @@
-Hysterostoma GENUS
-=======
+# Hysterostoma GENUS
 
 #### Status
 ACCEPTED

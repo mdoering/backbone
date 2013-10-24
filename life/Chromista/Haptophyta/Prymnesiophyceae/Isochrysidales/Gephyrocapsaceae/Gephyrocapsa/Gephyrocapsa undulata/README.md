@@ -1,5 +1,4 @@
-Gephyrocapsa undulata J. Lecal SPECIES
-=======
+# Gephyrocapsa undulata J. Lecal SPECIES
 
 #### Status
 ACCEPTED

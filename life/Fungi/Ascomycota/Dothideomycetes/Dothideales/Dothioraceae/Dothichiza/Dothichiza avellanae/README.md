@@ -1,5 +1,4 @@
-Dothichiza avellanae Petr. SPECIES
-=======
+# Dothichiza avellanae Petr. SPECIES
 
 #### Status
 ACCEPTED

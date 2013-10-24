@@ -1,5 +1,4 @@
-Synchytrium stachydis M.T. Cook SPECIES
-=======
+# Synchytrium stachydis M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium ebuli Sawada SPECIES
-=======
+# Helminthosporium ebuli Sawada SPECIES
 
 #### Status
 ACCEPTED

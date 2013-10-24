@@ -1,5 +1,4 @@
-Usnea cladodia Motyka SPECIES
-=======
+# Usnea cladodia Motyka SPECIES
 
 #### Status
 ACCEPTED

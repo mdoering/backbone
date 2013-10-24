@@ -1,5 +1,4 @@
-Strigula schizospora R. Sant. SPECIES
-=======
+# Strigula schizospora R. Sant. SPECIES
 
 #### Status
 ACCEPTED

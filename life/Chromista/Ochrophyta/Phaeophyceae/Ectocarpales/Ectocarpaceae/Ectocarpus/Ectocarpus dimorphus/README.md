@@ -1,5 +1,4 @@
-Ectocarpus dimorphus P.C. Silva SPECIES
-=======
+# Ectocarpus dimorphus P.C. Silva SPECIES
 
 #### Status
 ACCEPTED

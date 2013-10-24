@@ -1,5 +1,4 @@
-Dacrymyces dubius Lloyd SPECIES
-=======
+# Dacrymyces dubius Lloyd SPECIES
 
 #### Status
 ACCEPTED

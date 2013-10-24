@@ -1,5 +1,4 @@
-Spilodochium vernoniae Syd., 1927 SPECIES
-=======
+# Spilodochium vernoniae Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

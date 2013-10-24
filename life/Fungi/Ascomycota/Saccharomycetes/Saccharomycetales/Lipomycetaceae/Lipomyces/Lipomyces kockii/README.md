@@ -1,5 +1,4 @@
-Lipomyces kockii M.T. Sm. & Van der Walt, 1999 SPECIES
-=======
+# Lipomyces kockii M.T. Sm. & Van der Walt, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clonostachys candida Harz SPECIES
-=======
+# Clonostachys candida Harz SPECIES
 
 #### Status
 ACCEPTED

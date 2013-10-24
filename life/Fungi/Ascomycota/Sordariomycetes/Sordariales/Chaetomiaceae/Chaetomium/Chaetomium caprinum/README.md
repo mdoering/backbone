@@ -1,5 +1,4 @@
-Chaetomium caprinum Bainier, 1910 SPECIES
-=======
+# Chaetomium caprinum Bainier, 1910 SPECIES
 
 #### Status
 ACCEPTED

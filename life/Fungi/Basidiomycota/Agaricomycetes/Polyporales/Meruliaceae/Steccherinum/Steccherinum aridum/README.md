@@ -1,5 +1,4 @@
-Steccherinum aridum Svrcek SPECIES
-=======
+# Steccherinum aridum Svrcek SPECIES
 
 #### Status
 ACCEPTED

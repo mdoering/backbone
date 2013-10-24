@@ -1,5 +1,4 @@
-Ostropa Fr. GENUS
-=======
+# Ostropa Fr. GENUS
 
 #### Status
 ACCEPTED

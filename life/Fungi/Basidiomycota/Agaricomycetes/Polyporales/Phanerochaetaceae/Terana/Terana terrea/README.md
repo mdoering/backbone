@@ -1,5 +1,4 @@
-Terana terrea (Berk.) Kuntze SPECIES
-=======
+# Terana terrea (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria lilacina A. Massal. SPECIES
-=======
+# Verrucaria lilacina A. Massal. SPECIES
 
 #### Status
 ACCEPTED

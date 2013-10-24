@@ -1,5 +1,4 @@
-Boletus tessulatus (Fr.) Pollini SPECIES
-=======
+# Boletus tessulatus (Fr.) Pollini SPECIES
 
 #### Status
 ACCEPTED

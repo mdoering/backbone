@@ -1,5 +1,4 @@
-Stigmina lautii B. Sutton SPECIES
-=======
+# Stigmina lautii B. Sutton SPECIES
 
 #### Status
 ACCEPTED

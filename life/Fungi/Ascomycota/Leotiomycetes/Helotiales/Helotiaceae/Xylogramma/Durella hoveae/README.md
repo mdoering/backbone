@@ -1,5 +1,4 @@
-Durella hoveae Hansf. SPECIES
-=======
+# Durella hoveae Hansf. SPECIES
 
 #### Status
 ACCEPTED

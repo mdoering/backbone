@@ -1,5 +1,4 @@
-Cladonia valida (Abbayes) S. Stenroos SPECIES
-=======
+# Cladonia valida (Abbayes) S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

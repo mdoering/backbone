@@ -1,5 +1,4 @@
-Stictina tomentosa var. tomentosa VARIETY
-=======
+# Stictina tomentosa (Sw.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stictina tomentosa var. tomentosa
+Lichen tomentosus Sw.
 
 ### Remarks
 null

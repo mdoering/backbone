@@ -1,5 +1,4 @@
-Pseudohelotium gemmiferum (Wallr.) Sacc. SPECIES
-=======
+# Pseudohelotium gemmiferum (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trabutia erythrospora (Berk. & M.A. Curtis) Theiss. & Syd. SPECIES
-=======
+# Trabutia erythrospora (Berk. & M.A. Curtis) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

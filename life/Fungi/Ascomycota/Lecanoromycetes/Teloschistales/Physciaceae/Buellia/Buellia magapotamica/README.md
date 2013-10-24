@@ -1,5 +1,4 @@
-Buellia magapotamica Malme SPECIES
-=======
+# Buellia magapotamica Malme SPECIES
 
 #### Status
 ACCEPTED

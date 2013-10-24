@@ -1,5 +1,4 @@
-Sethocorys Haeckel, 1881 GENUS
-=======
+# Sethocorys Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

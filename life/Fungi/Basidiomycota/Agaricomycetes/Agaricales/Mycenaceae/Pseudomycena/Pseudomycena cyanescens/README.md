@@ -1,5 +1,4 @@
-Pseudomycena cyanescens Velen. SPECIES
-=======
+# Pseudomycena cyanescens Velen. SPECIES
 
 #### Status
 ACCEPTED

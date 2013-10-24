@@ -1,14 +1,13 @@
-Melonia Bronn, 1848 GENUS
-=======
+# Melonis de Montfort, 1808 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ind. Pal. , 720.
+Conch. , 1, 66.
 
 #### Original name
 null

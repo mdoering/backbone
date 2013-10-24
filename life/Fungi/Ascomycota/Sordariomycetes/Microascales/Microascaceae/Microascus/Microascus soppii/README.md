@@ -1,5 +1,4 @@
-Microascus soppii S.P. Abbott SPECIES
-=======
+# Microascus soppii S.P. Abbott SPECIES
 
 #### Status
 ACCEPTED

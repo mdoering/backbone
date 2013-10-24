@@ -1,17 +1,16 @@
-Margarinomyces heteromorphus var. heteromorphus VARIETY
-=======
+# Exophiala heteromorpha (Nannf.) de Hoog & Haase, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rev. gén. Bot. 59: 394 (1952)
+in de Hoog, Vicente, Caligiorne, Kantarcioglu, Tintelnot, Gerrits van den Ende& Haase, J. Clin. Microbiol. 41(10): 477 (2003)
 
 #### Original name
-Margarinomyces heteromorphus var. heteromorphus
+null
 
 ### Remarks
 null

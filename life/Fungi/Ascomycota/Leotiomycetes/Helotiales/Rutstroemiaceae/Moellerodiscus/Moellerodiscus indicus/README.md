@@ -1,5 +1,4 @@
-Moellerodiscus indicus (K.S. Thind & H. Singh) Dumont SPECIES
-=======
+# Moellerodiscus indicus (K.S. Thind & H. Singh) Dumont SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactifluus nominalis (Britzelm.) Kuntze SPECIES
-=======
+# Lactifluus nominalis (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

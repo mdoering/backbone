@@ -1,5 +1,4 @@
-Asterina cupressina Cooke SPECIES
-=======
+# Asterina cupressina Cooke SPECIES
 
 #### Status
 ACCEPTED

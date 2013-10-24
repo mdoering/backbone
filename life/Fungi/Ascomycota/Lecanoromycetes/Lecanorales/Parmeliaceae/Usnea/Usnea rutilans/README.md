@@ -1,5 +1,4 @@
-Usnea rutilans Motyka SPECIES
-=======
+# Usnea rutilans Motyka SPECIES
 
 #### Status
 ACCEPTED

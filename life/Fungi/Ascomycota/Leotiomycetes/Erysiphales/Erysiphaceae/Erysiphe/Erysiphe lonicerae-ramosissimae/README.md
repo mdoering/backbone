@@ -1,5 +1,4 @@
-Erysiphe lonicerae-ramosissimae (Tanda) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe lonicerae-ramosissimae (Tanda) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Bigenerina pennatula (Batsch, 1791) SPECIES
-=======
+# Vulvulina pennatula Batsch, 1791 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

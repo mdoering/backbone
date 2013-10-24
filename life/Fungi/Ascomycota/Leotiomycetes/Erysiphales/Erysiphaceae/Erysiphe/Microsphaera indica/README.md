@@ -1,5 +1,4 @@
-Microsphaera indica N. Ahmad, D.K. Agarwal & A.K. Sarbhoy SPECIES
-=======
+# Microsphaera indica N. Ahmad, D.K. Agarwal & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

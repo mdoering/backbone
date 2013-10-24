@@ -1,8 +1,7 @@
-Gastrostyla dubia Dragesco, 1954 SPECIES
-=======
+# Cossothigma dubium (Dragesco, 1954) Jankowski, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

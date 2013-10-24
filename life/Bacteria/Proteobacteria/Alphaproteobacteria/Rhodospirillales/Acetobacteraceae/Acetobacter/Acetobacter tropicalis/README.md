@@ -1,5 +1,4 @@
-Acetobacter tropicalis Lisdiyanti et al., 2001 SPECIES
-=======
+# Acetobacter tropicalis Lisdiyanti et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

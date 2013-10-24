@@ -1,5 +1,4 @@
-Lecanora stannea (Fr.) Schaer. SPECIES
-=======
+# Lecanora stannea (Fr.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

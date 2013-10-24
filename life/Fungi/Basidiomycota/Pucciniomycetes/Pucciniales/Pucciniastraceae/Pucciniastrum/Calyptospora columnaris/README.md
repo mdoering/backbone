@@ -1,5 +1,4 @@
-Calyptospora columnaris J.G. Kühn, 1886 SPECIES
-=======
+# Calyptospora columnaris J.G. Kühn, 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthelia striatispora Aebi, Harr & E. Müll. SPECIES
-=======
+# Microthelia striatispora Aebi, Harr & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

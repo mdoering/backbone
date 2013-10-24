@@ -1,14 +1,13 @@
-Sporormia borealis I. Egeland, 1969 SPECIES
-=======
+# Sporormiella borealis (I. Egeland) J.C. Krug, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nytt Mag. Bot. 16: 217 (1969)
+Trans. & Proc. Bot. Soc. Edinb. 41(2): 198 (1971)
 
 #### Original name
 Sporormia borealis I. Egeland, 1969

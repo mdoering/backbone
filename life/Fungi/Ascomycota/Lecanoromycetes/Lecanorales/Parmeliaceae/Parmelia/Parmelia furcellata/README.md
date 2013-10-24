@@ -1,5 +1,4 @@
-Parmelia furcellata SPECIES
-=======
+# Parmelia furcellata SPECIES
 
 #### Status
 ACCEPTED

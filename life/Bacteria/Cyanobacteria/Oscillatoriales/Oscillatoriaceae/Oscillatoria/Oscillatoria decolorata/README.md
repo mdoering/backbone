@@ -1,5 +1,4 @@
-Oscillatoria decolorata G.S. West SPECIES
-=======
+# Oscillatoria decolorata G.S. West SPECIES
 
 #### Status
 ACCEPTED

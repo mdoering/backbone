@@ -1,5 +1,4 @@
-Cryptosporiopsis actinidiae P.R. Johnst., M.A. Manning & X. Meier, 2004 SPECIES
-=======
+# Cryptosporiopsis actinidiae P.R. Johnst., M.A. Manning & X. Meier, 2004 SPECIES
 
 #### Status
 ACCEPTED

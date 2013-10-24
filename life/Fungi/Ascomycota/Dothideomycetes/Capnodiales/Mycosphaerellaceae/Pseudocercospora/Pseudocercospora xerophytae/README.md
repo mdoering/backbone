@@ -1,5 +1,4 @@
-Pseudocercospora xerophytae B. Sutton SPECIES
-=======
+# Pseudocercospora xerophytae B. Sutton SPECIES
 
 #### Status
 ACCEPTED

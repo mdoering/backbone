@@ -1,5 +1,4 @@
-Bacillus horti Yumoto et al., 1998 SPECIES
-=======
+# Bacillus horti Yumoto et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

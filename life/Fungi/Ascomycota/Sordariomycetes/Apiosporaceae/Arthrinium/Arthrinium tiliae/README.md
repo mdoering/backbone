@@ -1,5 +1,4 @@
-Arthrinium tiliae Bonord. SPECIES
-=======
+# Arthrinium tiliae Bonord. SPECIES
 
 #### Status
 ACCEPTED

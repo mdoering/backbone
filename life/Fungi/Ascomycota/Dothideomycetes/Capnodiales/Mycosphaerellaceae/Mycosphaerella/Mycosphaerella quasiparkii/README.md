@@ -1,5 +1,4 @@
-Mycosphaerella quasiparkii Cheew., K.D. Hyde & Crous, 2008 SPECIES
-=======
+# Mycosphaerella quasiparkii Cheew., K.D. Hyde & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

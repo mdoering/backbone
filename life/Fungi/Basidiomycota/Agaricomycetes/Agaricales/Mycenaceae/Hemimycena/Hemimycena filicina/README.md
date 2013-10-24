@@ -1,5 +1,4 @@
-Hemimycena filicina Dennis SPECIES
-=======
+# Hemimycena filicina Dennis SPECIES
 
 #### Status
 ACCEPTED

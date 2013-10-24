@@ -1,5 +1,4 @@
-Psora gresinonis B. de Lesd. SPECIES
-=======
+# Psora gresinonis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

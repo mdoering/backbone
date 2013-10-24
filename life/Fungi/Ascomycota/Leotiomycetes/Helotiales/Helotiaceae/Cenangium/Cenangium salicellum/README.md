@@ -1,5 +1,4 @@
-Cenangium salicellum Henn. SPECIES
-=======
+# Cenangium salicellum Henn. SPECIES
 
 #### Status
 ACCEPTED

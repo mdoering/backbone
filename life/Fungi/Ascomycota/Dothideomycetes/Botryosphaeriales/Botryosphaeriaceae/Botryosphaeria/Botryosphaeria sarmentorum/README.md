@@ -1,5 +1,4 @@
-Botryosphaeria sarmentorum A.J.L. Phillips, A. Alves & J. Luque, 2005 SPECIES
-=======
+# Botryosphaeria sarmentorum A.J.L. Phillips, A. Alves & J. Luque, 2005 SPECIES
 
 #### Status
 ACCEPTED

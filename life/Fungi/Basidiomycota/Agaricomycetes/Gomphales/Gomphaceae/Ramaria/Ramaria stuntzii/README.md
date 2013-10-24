@@ -1,17 +1,16 @@
-Ramaria stuntzii var. gelatinosa R.H. Petersen & Watling VARIETY
-=======
+# Ramaria stuntzii Marr, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notes R. bot. Gdn Edinb. 46(1): 150 (1989)
+Biblthca Mycol. 38: 118 (1974)
 
 #### Original name
-Ramaria stuntzii var. gelatinosa R.H. Petersen & Watling
+Ramaria stuntzii Marr, 1974
 
 ### Remarks
 null

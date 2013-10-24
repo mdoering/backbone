@@ -1,5 +1,4 @@
-Polystictus abietis Höhn. SPECIES
-=======
+# Polystictus abietis Höhn. SPECIES
 
 #### Status
 ACCEPTED

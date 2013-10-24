@@ -1,5 +1,4 @@
-Anaeroplasmatales ORDER
-=======
+# Anaeroplasmatales ORDER
 
 #### Status
 ACCEPTED

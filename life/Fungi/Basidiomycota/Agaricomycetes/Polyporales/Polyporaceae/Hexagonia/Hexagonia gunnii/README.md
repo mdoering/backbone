@@ -1,5 +1,4 @@
-Hexagonia gunnii var. gunnii Fr. VARIETY
-=======
+# Hexagonia gunnii Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 1 7: 452 (1841)
 
 #### Original name
-Hexagonia gunnii var. gunnii Fr.
+Hexagonia gunnii Fr.
 
 ### Remarks
 null

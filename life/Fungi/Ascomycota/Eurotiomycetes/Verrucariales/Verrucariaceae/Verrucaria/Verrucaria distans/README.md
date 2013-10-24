@@ -1,5 +1,4 @@
-Verrucaria distans Willey SPECIES
-=======
+# Verrucaria distans Willey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lepiota atro-caerulea Rick SPECIES
-=======
+# Lepiota atrocoerulea Rick SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Brotéria, sér. bot. 18: 50 (1920)
 
 #### Original name
-Lepiota atro-caerulea Rick
+Lepiota atrocoerulea Rick
 
 ### Remarks
 null

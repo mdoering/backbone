@@ -1,5 +1,4 @@
-Thalloidima aromatizans Müll. Arg. SPECIES
-=======
+# Thalloidima aromatizans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

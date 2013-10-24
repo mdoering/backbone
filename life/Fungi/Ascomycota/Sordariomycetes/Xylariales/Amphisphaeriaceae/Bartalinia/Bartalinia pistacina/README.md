@@ -1,14 +1,13 @@
-Hyalotia pistacina J.L. Maas, 1971 SPECIES
-=======
+# Bartalinia pistacina (J.L. Maas) Nag Raj, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 63(3): 663 (1971)
+Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 141 (1993)
 
 #### Original name
 Hyalotia pistacina J.L. Maas, 1971

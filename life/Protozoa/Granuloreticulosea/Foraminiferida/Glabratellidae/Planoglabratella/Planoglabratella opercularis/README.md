@@ -1,8 +1,7 @@
-Rosalina opercularis d'Orbigny, 1839 SPECIES
-=======
+# Planoglabratella opercularis (d’Orbigny, 1826) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

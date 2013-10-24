@@ -1,5 +1,4 @@
-Hypophyllum tricuspidatum Paulet SPECIES
-=======
+# Hypophyllum tricuspidatum Paulet SPECIES
 
 #### Status
 ACCEPTED

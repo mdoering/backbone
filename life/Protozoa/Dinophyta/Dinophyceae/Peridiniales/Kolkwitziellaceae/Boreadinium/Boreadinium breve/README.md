@@ -1,11 +1,10 @@
-Diplopsalis brevis Abé SPECIES
-=======
+# Boreadinium breve (Abé, 1981) Sournia, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Eriomycopsis flagellata Hansf. SPECIES
-=======
+# Eriomycopsis flagellata Hansf. SPECIES
 
 #### Status
 ACCEPTED

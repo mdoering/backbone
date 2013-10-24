@@ -1,14 +1,13 @@
-Aquascypha vibrans (Berk. & M.A. Curtis) A.L. Welden, 1967 SPECIES
-=======
+# Boreostereum vibrans (Berk. & M.A. Curtis) Davydkina & Bondartseva, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Tenn. Acad. Sci. 42: 81 (1967)
+Novitates Systematicae Plantarum non Vascularium 13: 74 (1976)
 
 #### Original name
 Stereum vibrans Berk. & M.A. Curtis, 1868

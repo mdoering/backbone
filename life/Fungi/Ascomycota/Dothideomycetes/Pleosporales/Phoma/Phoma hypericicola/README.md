@@ -1,5 +1,4 @@
-Phoma hypericicola Gucevic SPECIES
-=======
+# Phoma hypericicola Gucevic SPECIES
 
 #### Status
 ACCEPTED

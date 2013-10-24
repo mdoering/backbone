@@ -1,5 +1,4 @@
-Uvigerina sulcata d'Orbigny in Fornasini, 1902 SPECIES
-=======
+# Uvigerina sulcata d'Orbigny in Fornasini, 1902 SPECIES
 
 #### Status
 ACCEPTED

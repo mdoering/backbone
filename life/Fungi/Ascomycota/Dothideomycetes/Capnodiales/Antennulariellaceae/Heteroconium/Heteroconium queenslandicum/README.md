@@ -1,5 +1,4 @@
-Heteroconium queenslandicum Matsush. SPECIES
-=======
+# Heteroconium queenslandicum Matsush. SPECIES
 
 #### Status
 ACCEPTED

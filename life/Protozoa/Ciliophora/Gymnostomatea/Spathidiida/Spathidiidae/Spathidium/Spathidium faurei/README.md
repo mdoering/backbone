@@ -1,5 +1,4 @@
-Spathidium faurei Kahl, 1930 SPECIES
-=======
+# Spathidium faurei Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

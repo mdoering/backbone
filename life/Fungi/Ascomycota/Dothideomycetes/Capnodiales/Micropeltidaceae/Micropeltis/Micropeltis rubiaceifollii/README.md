@@ -1,5 +1,4 @@
-Micropeltis rubiaceifollii Bat., Peres & O.M. Fonseca SPECIES
-=======
+# Micropeltis rubiaceifollii Bat., Peres & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

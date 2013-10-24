@@ -1,5 +1,4 @@
-Amanitopsis regalis (Berk.) Sacc. SPECIES
-=======
+# Amanitopsis regalis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

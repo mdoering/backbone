@@ -1,5 +1,4 @@
-Vermicularia graminicola Westend. SPECIES
-=======
+# Vermicularia graminicola Westend. SPECIES
 
 #### Status
 ACCEPTED

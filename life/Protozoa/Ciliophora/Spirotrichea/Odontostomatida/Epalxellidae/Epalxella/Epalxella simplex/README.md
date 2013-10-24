@@ -1,5 +1,4 @@
-Epalxella simplex Jankowski, 1964 SPECIES
-=======
+# Epalxella simplex Jankowski, 1964 SPECIES
 
 #### Status
 ACCEPTED

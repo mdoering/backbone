@@ -1,5 +1,4 @@
-Lutypha sclerotiophila Khurana, K.S. Thind & Berthier, 1977 SPECIES
-=======
+# Lutypha sclerotiophila Khurana, K.S. Thind & Berthier, 1977 SPECIES
 
 #### Status
 ACCEPTED

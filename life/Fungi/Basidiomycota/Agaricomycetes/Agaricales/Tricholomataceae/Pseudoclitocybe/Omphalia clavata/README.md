@@ -1,5 +1,4 @@
-Omphalia clavata Peck SPECIES
-=======
+# Omphalia clavata Peck SPECIES
 
 #### Status
 ACCEPTED

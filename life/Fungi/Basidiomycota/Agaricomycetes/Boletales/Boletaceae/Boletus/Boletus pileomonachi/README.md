@@ -1,5 +1,4 @@
-Boletus pileomonachi Battarra SPECIES
-=======
+# Boletus pileomonachi Battarra SPECIES
 
 #### Status
 ACCEPTED

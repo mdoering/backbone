@@ -1,5 +1,4 @@
-Melampsora ribesii-viminalis Kleb., 1900 SPECIES
-=======
+# Melampsora ribesii-viminalis Kleb., 1900 SPECIES
 
 #### Status
 ACCEPTED

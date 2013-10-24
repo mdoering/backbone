@@ -1,5 +1,4 @@
-Cystopus tropicus Lagerh. SPECIES
-=======
+# Cystopus tropicus Lagerh. SPECIES
 
 #### Status
 ACCEPTED

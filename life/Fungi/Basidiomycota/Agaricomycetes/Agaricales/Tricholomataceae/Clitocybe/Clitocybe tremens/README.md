@@ -1,5 +1,4 @@
-Clitocybe tremens Velen. SPECIES
-=======
+# Clitocybe tremens Velen. SPECIES
 
 #### Status
 ACCEPTED

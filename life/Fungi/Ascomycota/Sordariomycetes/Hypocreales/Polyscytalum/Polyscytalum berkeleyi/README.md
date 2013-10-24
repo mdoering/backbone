@@ -1,5 +1,4 @@
-Polyscytalum berkeleyi M.B. Ellis, 1976 SPECIES
-=======
+# Polyscytalum berkeleyi M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

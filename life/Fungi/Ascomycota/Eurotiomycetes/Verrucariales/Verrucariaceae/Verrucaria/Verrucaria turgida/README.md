@@ -1,5 +1,4 @@
-Verrucaria turgida Servít SPECIES
-=======
+# Verrucaria turgida Servít SPECIES
 
 #### Status
 ACCEPTED

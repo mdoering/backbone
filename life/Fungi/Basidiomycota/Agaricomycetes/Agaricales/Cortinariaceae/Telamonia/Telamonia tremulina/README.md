@@ -1,5 +1,4 @@
-Telamonia tremulina Velen. SPECIES
-=======
+# Telamonia tremulina Velen. SPECIES
 
 #### Status
 ACCEPTED

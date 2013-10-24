@@ -1,5 +1,4 @@
-Ustilago vilfae G. Winter SPECIES
-=======
+# Ustilago vilfae G. Winter SPECIES
 
 #### Status
 ACCEPTED

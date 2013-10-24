@@ -1,5 +1,4 @@
-Colacium Ehrenberg, 1834 GENUS
-=======
+# Colacium Ehrenberg, 1834 GENUS
 
 #### Status
 ACCEPTED

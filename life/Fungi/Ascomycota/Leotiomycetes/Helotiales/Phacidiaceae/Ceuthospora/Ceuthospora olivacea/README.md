@@ -1,5 +1,4 @@
-Ceuthospora olivacea Corda SPECIES
-=======
+# Ceuthospora olivacea Corda SPECIES
 
 #### Status
 ACCEPTED

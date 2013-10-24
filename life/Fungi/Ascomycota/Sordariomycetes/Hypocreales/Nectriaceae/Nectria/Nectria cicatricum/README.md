@@ -1,5 +1,4 @@
-Nectria cicatricum (Berk.) Tul. & C. Tul. SPECIES
-=======
+# Nectria cicatricum (Berk.) Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

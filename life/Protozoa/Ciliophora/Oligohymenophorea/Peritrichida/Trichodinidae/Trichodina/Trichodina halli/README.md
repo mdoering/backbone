@@ -1,5 +1,4 @@
-Trichodina halli Padnos & Nigrelli, 1942 SPECIES
-=======
+# Trichodina halli Padnos & Nigrelli, 1942 SPECIES
 
 #### Status
 ACCEPTED

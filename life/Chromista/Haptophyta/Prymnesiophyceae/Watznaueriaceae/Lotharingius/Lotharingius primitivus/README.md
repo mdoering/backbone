@@ -1,8 +1,7 @@
-Striatomarginis primitivus (Prins, 1969) ex Rood et al., 1973 SPECIES
-=======
+# Lotharingius primitivus (Prins, 1969 ex Rood et al., 1973) Prins in Grün et al., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

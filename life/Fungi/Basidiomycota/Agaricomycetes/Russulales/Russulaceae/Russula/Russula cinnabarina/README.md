@@ -1,5 +1,4 @@
-Russula cinnabarina Berk. SPECIES
-=======
+# Russula cinnabarina Berk. SPECIES
 
 #### Status
 ACCEPTED

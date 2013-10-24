@@ -1,5 +1,4 @@
-Stigmatea grewiae Henn. SPECIES
-=======
+# Stigmatea grewiae Henn. SPECIES
 
 #### Status
 ACCEPTED

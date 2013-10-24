@@ -1,5 +1,4 @@
-Stereum occidentale Lloyd SPECIES
-=======
+# Stereum occidentale Lloyd SPECIES
 
 #### Status
 ACCEPTED

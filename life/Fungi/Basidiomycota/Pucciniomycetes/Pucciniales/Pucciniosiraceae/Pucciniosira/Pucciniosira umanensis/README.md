@@ -1,5 +1,4 @@
-Pucciniosira umanensis Buriticá, 1996 SPECIES
-=======
+# Pucciniosira umanensis Buriticá, 1996 SPECIES
 
 #### Status
 ACCEPTED

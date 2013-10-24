@@ -1,5 +1,4 @@
-Diatrype carpinigera Berk. & M.A. Curtis SPECIES
-=======
+# Diatrype carpinigera Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

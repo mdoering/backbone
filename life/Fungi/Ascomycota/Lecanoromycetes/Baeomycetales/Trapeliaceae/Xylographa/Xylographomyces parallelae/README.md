@@ -1,5 +1,4 @@
-Xylographomyces parallelae Cif. & Tomas. SPECIES
-=======
+# Xylographomyces parallelae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

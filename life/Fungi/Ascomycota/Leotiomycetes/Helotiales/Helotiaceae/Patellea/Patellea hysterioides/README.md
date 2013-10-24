@@ -1,5 +1,4 @@
-Patellea hysterioides Ellis & Everh. SPECIES
-=======
+# Patellea hysterioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

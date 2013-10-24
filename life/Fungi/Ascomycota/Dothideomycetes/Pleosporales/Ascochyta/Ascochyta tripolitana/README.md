@@ -1,5 +1,4 @@
-Ascochyta tripolitana Sacc. & Trotter SPECIES
-=======
+# Ascochyta tripolitana Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

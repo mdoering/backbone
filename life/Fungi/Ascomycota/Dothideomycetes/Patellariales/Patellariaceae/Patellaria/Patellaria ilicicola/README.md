@@ -1,5 +1,4 @@
-Patellaria ilicicola P. Crouan & H. Crouan SPECIES
-=======
+# Patellaria ilicicola P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

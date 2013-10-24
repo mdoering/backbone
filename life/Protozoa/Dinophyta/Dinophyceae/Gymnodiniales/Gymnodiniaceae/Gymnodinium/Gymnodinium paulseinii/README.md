@@ -1,5 +1,4 @@
-Gymnodinium paulseinii Schiller SPECIES
-=======
+# Gymnodinium paulseinii Schiller SPECIES
 
 #### Status
 ACCEPTED

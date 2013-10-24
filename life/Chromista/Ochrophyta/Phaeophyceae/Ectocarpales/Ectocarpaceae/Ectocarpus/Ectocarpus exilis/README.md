@@ -1,5 +1,4 @@
-Ectocarpus exilis Zanardini SPECIES
-=======
+# Ectocarpus exilis Zanardini SPECIES
 
 #### Status
 ACCEPTED

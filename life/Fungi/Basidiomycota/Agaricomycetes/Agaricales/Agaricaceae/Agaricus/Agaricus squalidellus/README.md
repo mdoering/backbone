@@ -1,5 +1,4 @@
-Agaricus squalidellus Peck SPECIES
-=======
+# Agaricus squalidellus Peck SPECIES
 
 #### Status
 ACCEPTED

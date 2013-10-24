@@ -1,5 +1,4 @@
-Amniculicola lignicola Ying Zhang & K.D. Hyde, 2008 SPECIES
-=======
+# Amniculicola lignicola Ying Zhang & K.D. Hyde, 2008 SPECIES
 
 #### Status
 ACCEPTED

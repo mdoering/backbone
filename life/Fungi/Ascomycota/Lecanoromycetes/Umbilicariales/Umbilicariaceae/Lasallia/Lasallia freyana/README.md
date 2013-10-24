@@ -1,5 +1,4 @@
-Lasallia freyana D.D. Awasthi SPECIES
-=======
+# Lasallia freyana D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

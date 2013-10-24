@@ -1,5 +1,4 @@
-Verrucaria corticola (Arnold) Servít SPECIES
-=======
+# Verrucaria corticola (Arnold) Servít SPECIES
 
 #### Status
 ACCEPTED

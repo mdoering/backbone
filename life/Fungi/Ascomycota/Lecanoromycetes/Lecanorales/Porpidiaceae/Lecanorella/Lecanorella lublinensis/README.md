@@ -1,5 +1,4 @@
-Lecanorella lublinensis Motyka SPECIES
-=======
+# Lecanorella lublinensis Motyka SPECIES
 
 #### Status
 ACCEPTED

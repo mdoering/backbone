@@ -1,5 +1,4 @@
-Sclerococcum lichenicola (Linds.) D. Hawksw. SPECIES
-=======
+# Sclerococcum lichenicola (Linds.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

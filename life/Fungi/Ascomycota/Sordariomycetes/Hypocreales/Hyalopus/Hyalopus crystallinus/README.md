@@ -1,5 +1,4 @@
-Hyalopus crystallinus (Corda) Corda SPECIES
-=======
+# Hyalopus crystallinus (Corda) Corda SPECIES
 
 #### Status
 ACCEPTED

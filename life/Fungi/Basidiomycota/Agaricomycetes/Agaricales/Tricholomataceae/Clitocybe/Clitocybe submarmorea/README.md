@@ -1,5 +1,4 @@
-Clitocybe submarmorea Murrill SPECIES
-=======
+# Clitocybe submarmorea Murrill SPECIES
 
 #### Status
 ACCEPTED

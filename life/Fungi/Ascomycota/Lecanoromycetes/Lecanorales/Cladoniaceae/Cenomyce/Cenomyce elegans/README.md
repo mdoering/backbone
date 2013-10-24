@@ -1,5 +1,4 @@
-Cenomyce elegans Delile SPECIES
-=======
+# Cenomyce elegans Delile SPECIES
 
 #### Status
 ACCEPTED

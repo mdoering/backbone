@@ -1,5 +1,4 @@
-Pleurage macrostoma (Speg.) C. Moreau SPECIES
-=======
+# Pleurage macrostoma (Speg.) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

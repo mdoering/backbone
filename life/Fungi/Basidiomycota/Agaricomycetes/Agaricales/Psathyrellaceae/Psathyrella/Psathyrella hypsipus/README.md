@@ -1,5 +1,4 @@
-Psathyrella hypsipus (Fr.) Konrad & Maubl. SPECIES
-=======
+# Psathyrella hypsipus (Fr.) Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED

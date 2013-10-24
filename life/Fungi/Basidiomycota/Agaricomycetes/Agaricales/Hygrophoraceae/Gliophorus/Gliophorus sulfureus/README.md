@@ -1,14 +1,13 @@
-Omphalina sulfurea G. Stev., 1964 SPECIES
-=======
+# Gliophorus sulfureus (G. Stev.) E. Horak, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 19(1): 12 (1964)
+N. Z. Jl Bot. 28(3): 283 (1990)
 
 #### Original name
 Omphalina sulfurea G. Stev., 1964

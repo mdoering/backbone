@@ -1,5 +1,4 @@
-Leptosphaeria macrorostra Saccas SPECIES
-=======
+# Leptosphaeria macrorostra Saccas SPECIES
 
 #### Status
 ACCEPTED

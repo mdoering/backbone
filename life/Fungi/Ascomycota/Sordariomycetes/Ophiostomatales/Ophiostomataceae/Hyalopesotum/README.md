@@ -1,5 +1,4 @@
-Hyalopesotum H.P. Upadhyay & W.B. Kendr. GENUS
-=======
+# Hyalopesotum H.P. Upadhyay & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Litschaueria longipila (Peck) M.E. Barr SPECIES
-=======
+# Litschaueria longipila (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

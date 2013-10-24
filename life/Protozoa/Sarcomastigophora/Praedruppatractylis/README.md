@@ -1,5 +1,4 @@
-Praedruppatractylis Kozur & Mostler, 1979 GENUS
-=======
+# Praedruppatractylis Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

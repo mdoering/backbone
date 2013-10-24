@@ -1,17 +1,16 @@
-Outhovia Nieuwl. GENUS
-=======
+# Scopularia Preuss, 1851 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. Midl. Nat. 4: 384 (1916)
+Linnaea 24: 133 (1851)
 
 #### Original name
-Outhovia Nieuwl.
+Scopularia Preuss, 1851
 
 ### Remarks
 null

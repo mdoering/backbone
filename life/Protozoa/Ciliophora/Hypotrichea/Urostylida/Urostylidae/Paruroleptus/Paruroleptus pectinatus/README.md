@@ -1,5 +1,4 @@
-Paruroleptus pectinatus SPECIES
-=======
+# Paruroleptus pectinatus SPECIES
 
 #### Status
 ACCEPTED

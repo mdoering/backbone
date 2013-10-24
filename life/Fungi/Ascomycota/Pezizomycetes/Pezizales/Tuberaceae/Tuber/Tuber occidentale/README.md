@@ -1,5 +1,4 @@
-Tuber occidentale Corda SPECIES
-=======
+# Tuber occidentale Corda SPECIES
 
 #### Status
 ACCEPTED

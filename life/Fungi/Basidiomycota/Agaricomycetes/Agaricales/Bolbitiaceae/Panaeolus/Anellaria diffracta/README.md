@@ -1,5 +1,4 @@
-Anellaria diffracta Rick SPECIES
-=======
+# Anellaria diffracta Rick SPECIES
 
 #### Status
 ACCEPTED

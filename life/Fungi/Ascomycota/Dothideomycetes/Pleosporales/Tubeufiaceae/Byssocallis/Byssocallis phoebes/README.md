@@ -1,14 +1,13 @@
-Puttemansia phoebes (Syd.) Petr., 1931 SPECIES
-=======
+# Byssocallis phoebes Syd., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 29: 343 (1931)
+Annls mycol. 25(1/2): 14 (1927)
 
 #### Original name
 Byssocallis phoebes Syd., 1927

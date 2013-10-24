@@ -1,8 +1,7 @@
-Sirosiphon tomentosus Kützing SPECIES
-=======
+# Stigonema tomentosum (Kützing) Hieronymus SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

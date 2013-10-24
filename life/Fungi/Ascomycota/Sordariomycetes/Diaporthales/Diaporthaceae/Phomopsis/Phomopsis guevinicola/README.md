@@ -1,5 +1,4 @@
-Phomopsis guevinicola (Speg.) Aa SPECIES
-=======
+# Phomopsis guevinicola (Speg.) Aa SPECIES
 
 #### Status
 ACCEPTED

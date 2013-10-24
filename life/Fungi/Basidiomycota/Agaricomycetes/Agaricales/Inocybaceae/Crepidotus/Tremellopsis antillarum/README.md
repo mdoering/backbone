@@ -1,5 +1,4 @@
-Tremellopsis antillarum Pat. SPECIES
-=======
+# Tremellopsis antillarum Pat. SPECIES
 
 #### Status
 ACCEPTED

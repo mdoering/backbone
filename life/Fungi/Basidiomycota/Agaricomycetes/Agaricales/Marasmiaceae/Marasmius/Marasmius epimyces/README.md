@@ -1,5 +1,4 @@
-Marasmius epimyces Berk. SPECIES
-=======
+# Marasmius epimyces Berk. SPECIES
 
 #### Status
 ACCEPTED

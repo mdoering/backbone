@@ -1,5 +1,4 @@
-Euoidium GENUS
-=======
+# Euoidium GENUS
 
 #### Status
 ACCEPTED

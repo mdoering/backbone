@@ -1,5 +1,4 @@
-Graphis fraxinea (Ach.) Röhl. SPECIES
-=======
+# Graphis fraxinea (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

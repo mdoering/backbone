@@ -1,5 +1,4 @@
-Chaetomium lentum Van Warmelo, 1967 SPECIES
-=======
+# Chaetomium lentum Van Warmelo, 1967 SPECIES
 
 #### Status
 ACCEPTED

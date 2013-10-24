@@ -1,5 +1,4 @@
-Anthracocystis GENUS
-=======
+# Anthracocystis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia rohlenae Bubák SPECIES
-=======
+# Vermicularia rohlenae Bubák SPECIES
 
 #### Status
 ACCEPTED

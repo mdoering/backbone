@@ -1,5 +1,4 @@
-Lophiostoma suaedicola C. Lechat, 2008 SPECIES
-=======
+# Lophiostoma suaedicola C. Lechat, 2008 SPECIES
 
 #### Status
 ACCEPTED

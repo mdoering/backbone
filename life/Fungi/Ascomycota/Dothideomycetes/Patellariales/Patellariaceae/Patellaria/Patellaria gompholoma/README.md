@@ -1,5 +1,4 @@
-Patellaria gompholoma Müll. Arg. SPECIES
-=======
+# Patellaria gompholoma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

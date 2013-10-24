@@ -1,5 +1,4 @@
-Odontotrema richardsonii Leight. SPECIES
-=======
+# Odontotrema richardsonii Leight. SPECIES
 
 #### Status
 ACCEPTED

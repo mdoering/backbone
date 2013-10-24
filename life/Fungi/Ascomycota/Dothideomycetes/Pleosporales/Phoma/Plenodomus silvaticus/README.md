@@ -1,14 +1,13 @@
-Plenodomus silvatica (Sacc.) H. Ruppr. SPECIES
-=======
+# Plenodomus silvaticus (Sacc.) H. Ruppr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 13: 21 (1959)
 
 #### Original name
 Phoma silvatica Sacc.

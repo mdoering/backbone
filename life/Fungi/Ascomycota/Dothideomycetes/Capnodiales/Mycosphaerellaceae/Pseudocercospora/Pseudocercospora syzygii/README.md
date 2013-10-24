@@ -1,5 +1,4 @@
-Pseudocercospora syzygii (M. Mandal) Raghu Ram & Mallaiah SPECIES
-=======
+# Pseudocercospora syzygii (M. Mandal) Raghu Ram & Mallaiah SPECIES
 
 #### Status
 ACCEPTED

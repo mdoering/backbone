@@ -1,5 +1,4 @@
-Pseudocercospora clematidis Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora clematidis Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

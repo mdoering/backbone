@@ -1,14 +1,13 @@
-Pirulina Bronn in Bronn & Roemer, 1852 GENUS
-=======
+# Pyrulina d'Orbigny, 1839 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bronn & Roemer, Lethaea, 2 (5), ed. 3, 88.
+in Sagra, Cuba (Foram. ), 107.
 
 #### Original name
 null

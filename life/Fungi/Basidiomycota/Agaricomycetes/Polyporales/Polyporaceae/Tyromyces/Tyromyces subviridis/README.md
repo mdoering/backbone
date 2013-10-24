@@ -1,17 +1,16 @@
-Tyromyces subviride Ryvarden & Guzmán SPECIES
-=======
+# Tyromyces subviridis Ryvarden & Guzmán, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 78: 252 (2001)
 
 #### Original name
-Tyromyces subviride Ryvarden & Guzmán
+Tyromyces subviridis Ryvarden & Guzmán, 2001
 
 ### Remarks
 null

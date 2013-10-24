@@ -1,5 +1,4 @@
-Septobasidium castaneum var. castaneum VARIETY
-=======
+# Septobasidium castaneum Burt SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septobasidium castaneum var. castaneum
+Septobasidium castaneum Burt
 
 ### Remarks
 null

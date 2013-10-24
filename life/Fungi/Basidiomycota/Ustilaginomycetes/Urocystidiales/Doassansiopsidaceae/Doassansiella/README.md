@@ -1,5 +1,4 @@
-Doassansiella Zambett. GENUS
-=======
+# Doassansiella Zambett. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deflexula secundiramea (Lév.) Corner SPECIES
-=======
+# Deflexula secundiramea (Lév.) Corner SPECIES
 
 #### Status
 ACCEPTED

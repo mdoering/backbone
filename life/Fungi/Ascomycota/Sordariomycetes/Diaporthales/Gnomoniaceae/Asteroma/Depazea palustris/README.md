@@ -1,5 +1,4 @@
-Depazea palustris Ces. SPECIES
-=======
+# Depazea palustris Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrophoma syringae Dearn. SPECIES
-=======
+# Dendrophoma syringae Dearn. SPECIES
 
 #### Status
 ACCEPTED

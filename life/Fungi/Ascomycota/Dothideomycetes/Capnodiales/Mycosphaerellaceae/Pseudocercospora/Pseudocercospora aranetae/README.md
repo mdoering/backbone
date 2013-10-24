@@ -1,17 +1,16 @@
-Cercospora aranetae Borlaza & Roldan, 1964 SPECIES
-=======
+# Pseudocercospora aranetae Borlaza & Roldan ex J.M. Yen, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Sci. Nat. (Paris) 11: 184 (1964)
+Cryptog. Mycol. 1(3): 257 (1980)
 
 #### Original name
-Cercospora aranetae Borlaza & Roldan, 1964
+Pseudocercospora aranetae Borlaza & Roldan ex J.M. Yen, 1980
 
 ### Remarks
 null

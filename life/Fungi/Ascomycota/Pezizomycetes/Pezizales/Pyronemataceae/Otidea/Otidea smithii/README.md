@@ -1,5 +1,4 @@
-Otidea smithii Kanouse SPECIES
-=======
+# Otidea smithii Kanouse SPECIES
 
 #### Status
 ACCEPTED

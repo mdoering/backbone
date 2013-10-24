@@ -1,5 +1,4 @@
-Kondoa malvinella (Fell & I.L. Hunter) Y. Yamada, Nakagawa & I. Banno, 1989 SPECIES
-=======
+# Kondoa malvinella (Fell & I.L. Hunter) Y. Yamada, Nakagawa & I. Banno, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloniopsis xylogramma Vouaux SPECIES
-=======
+# Gloniopsis xylogramma Vouaux SPECIES
 
 #### Status
 ACCEPTED

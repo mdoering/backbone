@@ -1,5 +1,4 @@
-Aplosporella sarmenticola Speg. SPECIES
-=======
+# Aplosporella sarmenticola Speg. SPECIES
 
 #### Status
 ACCEPTED

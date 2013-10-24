@@ -1,5 +1,4 @@
-Nassula conica SPECIES
-=======
+# Nassula conica SPECIES
 
 #### Status
 ACCEPTED

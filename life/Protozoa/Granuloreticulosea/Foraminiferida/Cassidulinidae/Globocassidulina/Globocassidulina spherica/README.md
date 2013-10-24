@@ -1,5 +1,4 @@
-Globocassidulina spherica Eade, 1967 SPECIES
-=======
+# Globocassidulina spherica Eade, 1967 SPECIES
 
 #### Status
 ACCEPTED

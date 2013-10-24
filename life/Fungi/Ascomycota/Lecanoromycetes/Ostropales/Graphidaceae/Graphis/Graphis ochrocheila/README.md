@@ -1,5 +1,4 @@
-Graphis ochrocheila Vain. SPECIES
-=======
+# Graphis ochrocheila Vain. SPECIES
 
 #### Status
 ACCEPTED

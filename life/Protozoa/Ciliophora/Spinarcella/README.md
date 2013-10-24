@@ -1,5 +1,4 @@
-Spinarcella GENUS
-=======
+# Spinarcella GENUS
 
 #### Status
 ACCEPTED

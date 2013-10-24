@@ -1,5 +1,4 @@
-Leptosphaeria onagrae Rehm SPECIES
-=======
+# Leptosphaeria onagrae Rehm SPECIES
 
 #### Status
 ACCEPTED

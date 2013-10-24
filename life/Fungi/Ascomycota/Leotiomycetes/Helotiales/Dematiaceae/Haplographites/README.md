@@ -1,5 +1,4 @@
-Haplographites Félix GENUS
-=======
+# Haplographites Félix GENUS
 
 #### Status
 ACCEPTED

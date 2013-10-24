@@ -1,5 +1,4 @@
-Septoria diversimaculans Died. SPECIES
-=======
+# Septoria diversimaculans Died. SPECIES
 
 #### Status
 ACCEPTED

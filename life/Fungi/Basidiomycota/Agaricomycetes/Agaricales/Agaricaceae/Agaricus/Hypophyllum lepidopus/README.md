@@ -1,5 +1,4 @@
-Hypophyllum lepidopus Paulet SPECIES
-=======
+# Hypophyllum lepidopus Paulet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Remanellina Tappan & Loeblich, 1968 GENUS
-=======
+# Remanellina Tappan & Loeblich, 1968 GENUS
 
 #### Status
 ACCEPTED

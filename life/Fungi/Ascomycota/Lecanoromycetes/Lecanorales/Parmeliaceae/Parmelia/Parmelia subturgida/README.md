@@ -1,5 +1,4 @@
-Parmelia subturgida Kurok. SPECIES
-=======
+# Parmelia subturgida Kurok. SPECIES
 
 #### Status
 ACCEPTED

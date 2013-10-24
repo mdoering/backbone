@@ -1,5 +1,4 @@
-Parmotrema hawaiiensis (H. Magn.) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
-=======
+# Parmotrema hawaiiensis (H. Magn.) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

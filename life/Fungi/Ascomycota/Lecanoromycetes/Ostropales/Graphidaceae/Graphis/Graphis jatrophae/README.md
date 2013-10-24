@@ -1,5 +1,4 @@
-Graphis jatrophae Müll. Arg. SPECIES
-=======
+# Graphis jatrophae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces muticus Paoli SPECIES
-=======
+# Dimeromyces muticus Paoli SPECIES
 
 #### Status
 ACCEPTED

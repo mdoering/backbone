@@ -1,5 +1,4 @@
-Placodium xanthostigmoideum Räsänen SPECIES
-=======
+# Placodium xanthostigmoideum Räsänen SPECIES
 
 #### Status
 ACCEPTED

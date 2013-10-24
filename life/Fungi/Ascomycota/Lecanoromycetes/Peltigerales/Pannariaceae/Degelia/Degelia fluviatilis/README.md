@@ -1,5 +1,4 @@
-Degelia fluviatilis P.M. Jørg. & P. James SPECIES
-=======
+# Degelia fluviatilis P.M. Jørg. & P. James SPECIES
 
 #### Status
 ACCEPTED

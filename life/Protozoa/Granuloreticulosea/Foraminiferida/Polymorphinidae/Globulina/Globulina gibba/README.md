@@ -1,5 +1,4 @@
-Globulina gibba SPECIES
-=======
+# Globulina gibba SPECIES
 
 #### Status
 ACCEPTED

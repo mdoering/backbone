@@ -1,5 +1,4 @@
-Dothiopsis spiraeae P. Karst. & Har. SPECIES
-=======
+# Dothiopsis spiraeae P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Echinosteliopsidae FAMILY
-=======
+# Echinosteliopsidaceae L.S. Olive FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Rev. 36: 83 (1970)
 
 #### Original name
-null
+Echinosteliopsidaceae L.S. Olive
 
 ### Remarks
 null

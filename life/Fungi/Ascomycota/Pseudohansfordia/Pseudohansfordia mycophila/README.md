@@ -1,5 +1,4 @@
-Pseudohansfordia mycophila (Tubaki) de Hoog, 1978 SPECIES
-=======
+# Pseudohansfordia mycophila (Tubaki) de Hoog, 1978 SPECIES
 
 #### Status
 ACCEPTED

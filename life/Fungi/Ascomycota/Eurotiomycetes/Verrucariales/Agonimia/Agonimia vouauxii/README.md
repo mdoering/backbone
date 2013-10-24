@@ -1,17 +1,16 @@
-Polyblastia vouauxii var. vouauxii VARIETY
-=======
+# Agonimia vouauxii (B. de Lesd.) M. Brand & Diederich SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Polyblastia vouauxii var. vouauxii
+null
 
 ### Remarks
 null

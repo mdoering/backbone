@@ -1,14 +1,13 @@
-Phaeographina mirabilis Zahlbr. SPECIES
-=======
+# Thelotrema mirabile (Zahlbr.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Symb. Sin. 3: 60 (1930)
+Mycotaxon 11(1): 132 (1980)
 
 #### Original name
 Phaeographina mirabilis Zahlbr.

@@ -1,5 +1,4 @@
-Coniophora mollis Ginns, 1982 SPECIES
-=======
+# Coniophora mollis Ginns, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora geogena H. Magn. SPECIES
-=======
+# Acarospora geogena H. Magn. SPECIES
 
 #### Status
 ACCEPTED

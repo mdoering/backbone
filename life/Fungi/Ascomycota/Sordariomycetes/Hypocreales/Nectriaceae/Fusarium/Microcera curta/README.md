@@ -1,5 +1,4 @@
-Microcera curta Sacc. SPECIES
-=======
+# Microcera curta Sacc. SPECIES
 
 #### Status
 ACCEPTED

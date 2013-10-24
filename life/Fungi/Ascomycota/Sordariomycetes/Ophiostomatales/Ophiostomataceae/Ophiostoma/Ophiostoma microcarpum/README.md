@@ -1,5 +1,4 @@
-Ophiostoma microcarpum Yamaoka & Masuya SPECIES
-=======
+# Ophiostoma microcarpum Yamaoka & Masuya SPECIES
 
 #### Status
 ACCEPTED

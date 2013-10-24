@@ -1,5 +1,4 @@
-Coccomyces crystalligerus Sherwood, 1980 SPECIES
-=======
+# Coccomyces crystalligerus Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphileptus yuianus Lin, Song & Warren, 2005 SPECIES
-=======
+# Amphileptus yuianus Lin, Song & Warren, 2005 SPECIES
 
 #### Status
 ACCEPTED

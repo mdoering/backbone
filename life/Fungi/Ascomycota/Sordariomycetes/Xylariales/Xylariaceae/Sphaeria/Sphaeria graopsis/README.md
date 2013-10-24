@@ -1,5 +1,4 @@
-Sphaeria graopsis Ellis SPECIES
-=======
+# Sphaeria graopsis Ellis SPECIES
 
 #### Status
 ACCEPTED

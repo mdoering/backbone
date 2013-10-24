@@ -1,5 +1,4 @@
-Mycosphaerella rosae Sawada SPECIES
-=======
+# Mycosphaerella rosae Sawada SPECIES
 
 #### Status
 ACCEPTED

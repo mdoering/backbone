@@ -1,5 +1,4 @@
-Bahianora Kalb GENUS
-=======
+# Bahianora Kalb GENUS
 
 #### Status
 ACCEPTED

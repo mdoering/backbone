@@ -1,5 +1,4 @@
-Phyllosticta mimusopis Cufino SPECIES
-=======
+# Phyllosticta mimusopis Cufino SPECIES
 
 #### Status
 ACCEPTED

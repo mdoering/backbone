@@ -1,5 +1,4 @@
-Lathagrium salevense (Müll. Arg.) M. Choisy SPECIES
-=======
+# Lathagrium salevense (Müll. Arg.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

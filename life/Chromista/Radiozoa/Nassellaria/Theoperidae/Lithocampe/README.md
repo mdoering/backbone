@@ -1,5 +1,4 @@
-Lithocampe Ehrenberg, 1844 GENUS
-=======
+# Lithocampe Ehrenberg, 1844 GENUS
 
 #### Status
 ACCEPTED

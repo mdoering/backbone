@@ -1,5 +1,4 @@
-Septoria liquidambaris Cooke & Ellis SPECIES
-=======
+# Septoria liquidambaris Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

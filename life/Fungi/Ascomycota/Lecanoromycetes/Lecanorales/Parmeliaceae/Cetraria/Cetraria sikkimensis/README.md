@@ -1,5 +1,4 @@
-Cetraria sikkimensis Räsänen SPECIES
-=======
+# Cetraria sikkimensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

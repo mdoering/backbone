@@ -1,5 +1,4 @@
-Galera parvula (Murrill) Sacc. & Trotter SPECIES
-=======
+# Galera parvula (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

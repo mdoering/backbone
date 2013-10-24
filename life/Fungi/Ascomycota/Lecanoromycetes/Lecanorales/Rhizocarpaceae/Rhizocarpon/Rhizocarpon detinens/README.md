@@ -1,5 +1,4 @@
-Rhizocarpon detinens (Nyl.) Zahlbr. SPECIES
-=======
+# Rhizocarpon detinens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

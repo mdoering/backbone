@@ -1,5 +1,4 @@
-Alternaria celosiae (Tassi) O. Savul. SPECIES
-=======
+# Alternaria celosiae (Tassi) O. Savul. SPECIES
 
 #### Status
 ACCEPTED

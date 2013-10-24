@@ -1,5 +1,4 @@
-Gemmatimonadetes PHYLUM
-=======
+# Gemmatimonadetes PHYLUM
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Emericella purpurea Samson & Mouch., 1975 SPECIES
-=======
+# Emericella purpurea Samson & Mouch., 1975 SPECIES
 
 #### Status
 ACCEPTED

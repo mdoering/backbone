@@ -1,5 +1,4 @@
-Cyanocatenula van Joosten, 2006 GENUS
-=======
+# Cyanocatenula van Joosten, 2006 GENUS
 
 #### Status
 ACCEPTED

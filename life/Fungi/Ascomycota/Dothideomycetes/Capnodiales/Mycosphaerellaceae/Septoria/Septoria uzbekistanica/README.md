@@ -1,5 +1,4 @@
-Septoria uzbekistanica Melnik SPECIES
-=======
+# Septoria uzbekistanica Melnik SPECIES
 
 #### Status
 ACCEPTED

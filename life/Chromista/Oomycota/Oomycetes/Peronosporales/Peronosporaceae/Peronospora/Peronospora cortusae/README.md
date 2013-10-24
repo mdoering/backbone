@@ -1,5 +1,4 @@
-Peronospora cortusae Gäum. & S. Blumer SPECIES
-=======
+# Peronospora cortusae Gäum. & S. Blumer SPECIES
 
 #### Status
 ACCEPTED

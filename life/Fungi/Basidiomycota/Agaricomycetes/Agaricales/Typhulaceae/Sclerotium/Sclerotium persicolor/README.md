@@ -1,5 +1,4 @@
-Sclerotium persicolor Schumach. SPECIES
-=======
+# Sclerotium persicolor Schumach. SPECIES
 
 #### Status
 ACCEPTED

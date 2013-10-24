@@ -1,17 +1,16 @@
-Fusarium ciliatum var. ciliatum Link VARIETY
-=======
+# Fusarium ciliatum Link, 1825 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sp. pl. 2: 105 (1878)
 
 #### Original name
-Fusarium ciliatum var. ciliatum Link
+Fusarium ciliatum Link, 1825
 
 ### Remarks
 null

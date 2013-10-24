@@ -1,5 +1,4 @@
-Phragmidium miyakeanum Hirats. SPECIES
-=======
+# Phragmidium miyakeanum Hirats. SPECIES
 
 #### Status
 ACCEPTED

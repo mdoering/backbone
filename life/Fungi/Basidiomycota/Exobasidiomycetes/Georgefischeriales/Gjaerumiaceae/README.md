@@ -1,5 +1,4 @@
-Gjaerumiaceae R. Bauer, M. Lutz & Oberw. FAMILY
-=======
+# Gjaerumiaceae R. Bauer, M. Lutz & Oberw. FAMILY
 
 #### Status
 ACCEPTED

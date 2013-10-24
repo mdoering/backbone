@@ -1,5 +1,4 @@
-Syringospora GENUS
-=======
+# Syringospora GENUS
 
 #### Status
 ACCEPTED

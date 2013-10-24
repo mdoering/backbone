@@ -1,5 +1,4 @@
-Parmastomyces Kotl. & Pouzar GENUS
-=======
+# Parmastomyces Kotl. & Pouzar GENUS
 
 #### Status
 ACCEPTED

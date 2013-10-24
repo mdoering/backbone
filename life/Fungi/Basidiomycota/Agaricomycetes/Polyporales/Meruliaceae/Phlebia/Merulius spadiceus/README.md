@@ -1,5 +1,4 @@
-Merulius spadiceus Berk. & M.A. Curtis SPECIES
-=======
+# Merulius spadiceus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

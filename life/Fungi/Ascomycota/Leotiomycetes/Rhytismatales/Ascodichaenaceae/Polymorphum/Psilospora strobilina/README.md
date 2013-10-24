@@ -1,5 +1,4 @@
-Psilospora strobilina Sacc. SPECIES
-=======
+# Psilospora strobilina Sacc. SPECIES
 
 #### Status
 ACCEPTED

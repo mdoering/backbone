@@ -1,5 +1,4 @@
-Filaspora chlorae (Sacc. & Speg.) Kuntze SPECIES
-=======
+# Filaspora chlorae (Sacc. & Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

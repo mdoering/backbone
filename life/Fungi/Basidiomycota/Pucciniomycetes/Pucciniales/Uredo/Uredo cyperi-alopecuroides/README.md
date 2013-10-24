@@ -1,5 +1,4 @@
-Uredo cyperi-alopecuroides Reichert SPECIES
-=======
+# Uredo cyperi-alopecuroides Reichert SPECIES
 
 #### Status
 ACCEPTED

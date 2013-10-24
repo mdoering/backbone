@@ -1,5 +1,4 @@
-Hysteropezizella hydrophila (E. Bommer, M. Rousseau & Sacc.) Nannf. SPECIES
-=======
+# Hysteropezizella hydrophila (E. Bommer, M. Rousseau & Sacc.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

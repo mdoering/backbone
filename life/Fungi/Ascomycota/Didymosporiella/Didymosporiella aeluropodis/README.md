@@ -1,5 +1,4 @@
-Didymosporiella aeluropodis Traverso & Migliardi SPECIES
-=======
+# Didymosporiella aeluropodis Traverso & Migliardi SPECIES
 
 #### Status
 ACCEPTED

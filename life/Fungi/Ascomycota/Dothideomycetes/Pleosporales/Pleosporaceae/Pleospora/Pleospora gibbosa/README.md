@@ -1,5 +1,4 @@
-Pleospora gibbosa Berl. SPECIES
-=======
+# Pleospora gibbosa Berl. SPECIES
 
 #### Status
 ACCEPTED

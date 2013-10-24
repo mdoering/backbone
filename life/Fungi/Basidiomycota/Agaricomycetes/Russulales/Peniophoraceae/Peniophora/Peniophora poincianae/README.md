@@ -1,5 +1,4 @@
-Peniophora poincianae (Pat.) Sacc. & Trotter SPECIES
-=======
+# Peniophora poincianae (Pat.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

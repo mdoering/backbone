@@ -1,17 +1,16 @@
-Leptoteichion Kleb. GENUS
-=======
+# Phacidiopycnis Potebnia, 1912 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Phytopath. Z. 6(3): 297 (1933)
+null
 
 #### Original name
-Leptoteichion Kleb.
+null
 
 ### Remarks
 null

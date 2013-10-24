@@ -1,5 +1,4 @@
-Staurentodiscus Haeckel, 1887 GENUS
-=======
+# Staurentodiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

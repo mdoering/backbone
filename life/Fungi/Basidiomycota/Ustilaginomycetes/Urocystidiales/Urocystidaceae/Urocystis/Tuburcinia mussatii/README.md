@@ -1,8 +1,7 @@
-Tuburcinia mussati Massenot SPECIES
-=======
+# Tuburcinia mussatii Massenot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tuburcinia mussati Massenot
+Tuburcinia mussatii Massenot
 
 ### Remarks
 null

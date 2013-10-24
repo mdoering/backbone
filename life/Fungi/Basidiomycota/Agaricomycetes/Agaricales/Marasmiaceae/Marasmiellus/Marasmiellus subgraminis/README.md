@@ -1,5 +1,4 @@
-Marasmiellus subgraminis (Murrill) Singer SPECIES
-=======
+# Marasmiellus subgraminis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

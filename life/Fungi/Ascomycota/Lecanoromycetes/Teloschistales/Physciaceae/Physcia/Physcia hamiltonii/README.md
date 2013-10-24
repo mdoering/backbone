@@ -1,5 +1,4 @@
-Physcia hamiltonii Müll. Arg. SPECIES
-=======
+# Physcia hamiltonii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

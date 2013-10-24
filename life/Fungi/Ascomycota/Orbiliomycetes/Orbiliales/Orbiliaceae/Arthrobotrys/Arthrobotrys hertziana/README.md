@@ -1,5 +1,4 @@
-Arthrobotrys hertziana M. Scholler & A. Rubner SPECIES
-=======
+# Arthrobotrys hertziana M. Scholler & A. Rubner SPECIES
 
 #### Status
 ACCEPTED

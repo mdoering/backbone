@@ -1,5 +1,4 @@
-Phyllachora sylvatica Sacc. & Speg., 1878 SPECIES
-=======
+# Phyllachora sylvatica Sacc. & Speg., 1878 SPECIES
 
 #### Status
 DOUBTFUL

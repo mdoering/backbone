@@ -1,5 +1,4 @@
-Monoicomyces furcatus Thaxt. SPECIES
-=======
+# Monoicomyces furcatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

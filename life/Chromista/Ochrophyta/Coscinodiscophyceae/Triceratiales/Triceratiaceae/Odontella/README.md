@@ -1,5 +1,4 @@
-Odontella C. A. Agardh, 1832 GENUS
-=======
+# Odontella C. A. Agardh, 1832 GENUS
 
 #### Status
 ACCEPTED

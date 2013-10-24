@@ -1,8 +1,7 @@
-Wolinella curva Tanner et al., 1984 SPECIES
-=======
+# Campylobacter curvus (Tanner et al., 1984) Vandamme et al., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

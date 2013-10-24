@@ -1,5 +1,4 @@
-Loxodes plicatus Ehrenberg, 1831 SPECIES
-=======
+# Loxodes plicatus Ehrenberg, 1831 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anixiopsis japonica Saito & Minoura SPECIES
-=======
+# Anixiopsis japonica Saito & Minoura SPECIES
 
 #### Status
 ACCEPTED

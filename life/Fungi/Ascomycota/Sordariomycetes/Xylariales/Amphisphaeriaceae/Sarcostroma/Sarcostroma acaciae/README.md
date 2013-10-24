@@ -1,5 +1,4 @@
-Sarcostroma acaciae Nag Raj SPECIES
-=======
+# Sarcostroma acaciae Nag Raj SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Galera pygmaeoaffinis (Fr.) Quél., 1872 SPECIES
-=======
+# Conocybe pygmaeoaffinis (Fr.) Kühner, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 135 (1872)
+Encyclop. Mycol. 7: 133 (1935)
 
 #### Original name
-Galera pygmaeoaffinis (Fr.) Quél., 1872
+Agaricus pygmaeoaffinis Fr., 1857
 
 ### Remarks
 null

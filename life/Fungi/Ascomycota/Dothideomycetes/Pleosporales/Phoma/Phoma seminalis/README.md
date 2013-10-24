@@ -1,5 +1,4 @@
-Phoma seminalis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Phoma seminalis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

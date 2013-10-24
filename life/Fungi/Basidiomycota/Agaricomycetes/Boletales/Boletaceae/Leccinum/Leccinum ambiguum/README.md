@@ -1,5 +1,4 @@
-Leccinum ambiguum A.H. Sm. & Thiers SPECIES
-=======
+# Leccinum ambiguum A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

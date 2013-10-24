@@ -1,5 +1,4 @@
-Marasmius subalbiceps Murrill SPECIES
-=======
+# Marasmius subalbiceps Murrill SPECIES
 
 #### Status
 ACCEPTED

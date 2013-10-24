@@ -1,5 +1,4 @@
-Meliola holocalycis Speg. SPECIES
-=======
+# Meliola holocalycis Speg. SPECIES
 
 #### Status
 ACCEPTED

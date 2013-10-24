@@ -1,5 +1,4 @@
-Ascochyta pruni Kabát & Bubák SPECIES
-=======
+# Ascochyta pruni Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

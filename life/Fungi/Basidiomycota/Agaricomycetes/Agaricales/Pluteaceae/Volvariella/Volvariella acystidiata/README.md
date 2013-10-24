@@ -1,5 +1,4 @@
-Volvariella acystidiata N.C. Pathak SPECIES
-=======
+# Volvariella acystidiata N.C. Pathak SPECIES
 
 #### Status
 ACCEPTED

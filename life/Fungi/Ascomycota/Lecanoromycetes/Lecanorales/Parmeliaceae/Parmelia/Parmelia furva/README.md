@@ -1,5 +1,4 @@
-Parmelia furva (Ach.) Ach. SPECIES
-=======
+# Parmelia furva (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

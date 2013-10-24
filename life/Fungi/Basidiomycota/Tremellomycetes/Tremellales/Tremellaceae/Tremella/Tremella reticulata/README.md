@@ -1,5 +1,4 @@
-Tremella reticulata (Berk.) Farl. SPECIES
-=======
+# Tremella reticulata (Berk.) Farl. SPECIES
 
 #### Status
 ACCEPTED

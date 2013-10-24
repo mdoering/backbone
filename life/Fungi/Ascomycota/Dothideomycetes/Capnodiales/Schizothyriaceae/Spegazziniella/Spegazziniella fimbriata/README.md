@@ -1,5 +1,4 @@
-Spegazziniella fimbriata Bat. SPECIES
-=======
+# Spegazziniella fimbriata Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma insigne Ovrebo SPECIES
-=======
+# Tricholoma insigne Ovrebo SPECIES
 
 #### Status
 ACCEPTED

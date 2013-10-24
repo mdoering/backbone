@@ -1,5 +1,4 @@
-Bykoviella Korchagin, 1964 GENUS
-=======
+# Bykoviella Korchagin, 1964 GENUS
 
 #### Status
 ACCEPTED

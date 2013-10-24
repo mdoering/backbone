@@ -1,17 +1,16 @@
-Halophytophthora kandelii H.H. Ho, S.Y. Hsieh & H.S. Chang SPECIES
-=======
+# Halophytophthora kandeliae H.H. Ho, H.S. Chang & S.Y. Hsieh, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 83(4): 419 (1991)
 
 #### Original name
-Halophytophthora kandelii H.H. Ho, S.Y. Hsieh & H.S. Chang
+Halophytophthora kandeliae H.H. Ho, H.S. Chang & S.Y. Hsieh, 1991
 
 ### Remarks
 null

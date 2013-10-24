@@ -1,5 +1,4 @@
-Meripilus P. Karsten, 1882 GENUS
-=======
+# Meripilus P. Karsten, 1882 GENUS
 
 #### Status
 ACCEPTED

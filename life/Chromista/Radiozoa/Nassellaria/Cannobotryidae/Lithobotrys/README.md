@@ -1,5 +1,4 @@
-Lithobotrys Haeckel, 1887 GENUS
-=======
+# Lithobotrys Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

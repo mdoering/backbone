@@ -1,5 +1,4 @@
-Cercospora betae (Rabenh.) A.B. Frank SPECIES
-=======
+# Cercospora betae (Rabenh.) A.B. Frank SPECIES
 
 #### Status
 ACCEPTED

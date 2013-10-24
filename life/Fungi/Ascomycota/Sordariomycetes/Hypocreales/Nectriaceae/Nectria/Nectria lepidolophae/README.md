@@ -1,5 +1,4 @@
-Nectria lepidolophae Schwarzman SPECIES
-=======
+# Nectria lepidolophae Schwarzman SPECIES
 
 #### Status
 ACCEPTED

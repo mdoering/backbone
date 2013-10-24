@@ -1,5 +1,4 @@
-Clathrosorus campanulae Ferd. & Winge SPECIES
-=======
+# Clathrosorus campanulae Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

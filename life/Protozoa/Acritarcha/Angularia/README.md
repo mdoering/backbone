@@ -1,5 +1,4 @@
-Angularia S.R. Samoilovitch ex G. Norris & W.A.S. Sarjeant, 1965 GENUS
-=======
+# Angularia S.R. Samoilovitch ex G. Norris & W.A.S. Sarjeant, 1965 GENUS
 
 #### Status
 ACCEPTED

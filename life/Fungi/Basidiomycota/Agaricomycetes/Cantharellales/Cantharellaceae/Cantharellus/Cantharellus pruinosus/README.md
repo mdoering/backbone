@@ -1,5 +1,4 @@
-Cantharellus pruinosus Peck SPECIES
-=======
+# Cantharellus pruinosus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus heteropus (Speg.) Speg. SPECIES
-=======
+# Pleurotus heteropus (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

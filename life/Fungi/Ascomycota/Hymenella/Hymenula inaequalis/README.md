@@ -1,5 +1,4 @@
-Hymenula inaequalis Penz. & Sacc. SPECIES
-=======
+# Hymenula inaequalis Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

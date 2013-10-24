@@ -1,5 +1,4 @@
-Tremella amethystea Bull. SPECIES
-=======
+# Tremella amethystea Bull. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagynophrya maxima Burkovsky, 1970 SPECIES
-=======
+# Lagynophrya maxima Burkovsky, 1970 SPECIES
 
 #### Status
 ACCEPTED

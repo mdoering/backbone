@@ -1,17 +1,16 @@
-Tricholoma conicosporum Métrod, 1939 SPECIES
-=======
+# Calocybe obscurissima (A. Pearson) M.M. Moser, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 4(3-4): 107 (1939)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 101 (1967)
 
 #### Original name
-Tricholoma conicosporum Métrod, 1939
+Tricholoma ionides var. obscurissima A. Pearson, 1946
 
 ### Remarks
 null

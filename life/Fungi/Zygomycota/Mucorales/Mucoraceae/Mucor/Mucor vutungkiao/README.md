@@ -1,5 +1,4 @@
-Mucor vutungkiao anon. SPECIES
-=======
+# Mucor vutungkiao anon. SPECIES
 
 #### Status
 ACCEPTED

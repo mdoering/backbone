@@ -1,5 +1,4 @@
-Lecidea maculans var. maculans VARIETY
-=======
+# Lecidea maculans Kremp. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea maculans var. maculans
+Lecidea maculans Kremp.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chrysothallus pezizellaeformis Velen. SPECIES
-=======
+# Chrysothallus pezizellaeformis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Mazzantia tjampeana (Racib.) Theiss. & Syd. SPECIES
-=======
+# Mazzantia tiampeana (Racib.) Theiss. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 13(3/4): 192 (1915)
 
 #### Original name
 Botryosphaeria tiampeana Racib.

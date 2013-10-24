@@ -1,11 +1,10 @@
-Climacostomum virens subsp. virens SUBSPECIES
-=======
+# Climacostomum virens (Ehrenberg, 1834) Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

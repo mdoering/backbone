@@ -1,5 +1,4 @@
-Lachnea albogrisea Rehm SPECIES
-=======
+# Lachnea albogrisea Rehm SPECIES
 
 #### Status
 ACCEPTED

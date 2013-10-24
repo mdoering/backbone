@@ -1,5 +1,4 @@
-Melanospora chrysomalla Berk. & Broome SPECIES
-=======
+# Melanospora chrysomalla Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

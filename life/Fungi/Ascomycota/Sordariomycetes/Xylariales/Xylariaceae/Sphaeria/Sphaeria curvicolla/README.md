@@ -1,5 +1,4 @@
-Sphaeria curvicolla Peck SPECIES
-=======
+# Sphaeria curvicolla Peck SPECIES
 
 #### Status
 ACCEPTED

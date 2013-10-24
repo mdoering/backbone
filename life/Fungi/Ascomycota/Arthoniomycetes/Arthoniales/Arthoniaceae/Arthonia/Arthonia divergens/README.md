@@ -1,5 +1,4 @@
-Arthonia divergens Fée SPECIES
-=======
+# Arthonia divergens Fée SPECIES
 
 #### Status
 ACCEPTED

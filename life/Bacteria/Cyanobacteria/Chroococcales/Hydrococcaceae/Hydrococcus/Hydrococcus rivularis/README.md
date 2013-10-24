@@ -1,8 +1,7 @@
-Oncobyrsa rivularis (Kützing) Meneghini SPECIES
-=======
+# Hydrococcus rivularis Kützing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

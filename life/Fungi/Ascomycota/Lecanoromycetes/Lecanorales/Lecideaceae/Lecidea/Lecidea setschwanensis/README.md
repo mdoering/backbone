@@ -1,5 +1,4 @@
-Lecidea setschwanensis Zahlbr. SPECIES
-=======
+# Lecidea setschwanensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

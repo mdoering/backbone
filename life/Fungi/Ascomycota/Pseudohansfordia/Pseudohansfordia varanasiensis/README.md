@@ -1,5 +1,4 @@
-Pseudohansfordia varanasiensis (Deighton & Piroz.) de Hoog SPECIES
-=======
+# Pseudohansfordia varanasiensis (Deighton & Piroz.) de Hoog SPECIES
 
 #### Status
 ACCEPTED

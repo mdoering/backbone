@@ -1,5 +1,4 @@
-Buellia novomexicana f. novomexicana FORM
-=======
+# Buellia novomexicana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia novomexicana f. novomexicana
+Buellia novomexicana B. de Lesd.
 
 ### Remarks
 null

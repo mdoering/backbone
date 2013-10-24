@@ -1,5 +1,4 @@
-Mycobacterium branderi Koukila-Kähkölä et al., 1995 SPECIES
-=======
+# Mycobacterium branderi Koukila-Kähkölä et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

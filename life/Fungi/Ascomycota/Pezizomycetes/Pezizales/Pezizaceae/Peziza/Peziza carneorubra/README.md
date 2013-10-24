@@ -1,5 +1,4 @@
-Peziza carneorubra Ellis SPECIES
-=======
+# Peziza carneorubra Ellis SPECIES
 
 #### Status
 ACCEPTED

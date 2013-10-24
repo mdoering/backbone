@@ -1,5 +1,4 @@
-Hebeloma incarnatulum A.H. Sm., 1984 SPECIES
-=======
+# Hebeloma incarnatulum A.H. Sm., 1984 SPECIES
 
 #### Status
 ACCEPTED

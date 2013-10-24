@@ -1,5 +1,4 @@
-Vorticella chlorellata Stiller, 1940 SPECIES
-=======
+# Vorticella chlorellata Stiller, 1940 SPECIES
 
 #### Status
 ACCEPTED

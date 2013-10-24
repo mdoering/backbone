@@ -1,17 +1,16 @@
-Uredo muehlenbergiae Dietel SPECIES
-=======
+# Uredo muhlenbergiae Dietel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin of Cornell University 3(1): 22 (1897)
 
 #### Original name
-Uredo muehlenbergiae Dietel
+Uredo muhlenbergiae Dietel
 
 ### Remarks
 null

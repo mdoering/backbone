@@ -1,17 +1,16 @@
-Wangiella McGinnis GENUS
-=======
+# Exophiala J.W. Carmichael, 1966 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycotaxon 5(1): 354 (1977)
+null
 
 #### Original name
-Wangiella McGinnis
+null
 
 ### Remarks
 null

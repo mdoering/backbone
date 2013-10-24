@@ -1,5 +1,4 @@
-Flammula immutabilis (Britzelm.) Sacc. SPECIES
-=======
+# Flammula immutabilis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

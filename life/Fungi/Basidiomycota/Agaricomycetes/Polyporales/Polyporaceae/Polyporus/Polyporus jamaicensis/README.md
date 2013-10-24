@@ -1,5 +1,4 @@
-Polyporus jamaicensis (Murrill) Sacc. & Trotter SPECIES
-=======
+# Polyporus jamaicensis (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

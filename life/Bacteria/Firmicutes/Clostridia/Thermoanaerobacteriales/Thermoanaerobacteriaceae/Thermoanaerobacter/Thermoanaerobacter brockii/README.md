@@ -1,5 +1,4 @@
-Thermoanaerobacter brockii subsp. brockii SUBSPECIES
-=======
+# Thermoanaerobacter brockii (Zeikus et al., 1983) Lee et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

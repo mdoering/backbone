@@ -1,5 +1,4 @@
-Lichen vermicellaris G.F. Gmel. SPECIES
-=======
+# Lichen vermicellaris G.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalina ballesteri Calonge & Tomo SPECIES
-=======
+# Omphalina ballesteri Calonge & Tomo SPECIES
 
 #### Status
 ACCEPTED

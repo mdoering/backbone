@@ -1,17 +1,16 @@
-Clavaria palmata var. palmata VARIETY
-=======
+# Ramaria gracilis (Pers.) Quél., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. mycol. (Paris) 463 (1888)
 
 #### Original name
-Clavaria palmata var. palmata
+Clavaria gracilis Pers., 1797
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Prunulus crystallinus (Peck) Murrill SPECIES
-=======
+# Prunulus crystallinus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

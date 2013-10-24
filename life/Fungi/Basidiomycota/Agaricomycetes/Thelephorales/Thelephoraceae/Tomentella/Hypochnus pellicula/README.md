@@ -1,5 +1,4 @@
-Hypochnus pellicula Fr. SPECIES
-=======
+# Hypochnus pellicula Fr. SPECIES
 
 #### Status
 ACCEPTED

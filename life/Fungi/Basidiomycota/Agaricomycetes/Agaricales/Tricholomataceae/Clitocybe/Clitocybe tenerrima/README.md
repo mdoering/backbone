@@ -1,5 +1,4 @@
-Clitocybe tenerrima Velen. SPECIES
-=======
+# Clitocybe tenerrima Velen. SPECIES
 
 #### Status
 ACCEPTED

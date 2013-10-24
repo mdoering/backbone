@@ -1,5 +1,4 @@
-Verrucaria modestula Servít SPECIES
-=======
+# Verrucaria modestula Servít SPECIES
 
 #### Status
 ACCEPTED

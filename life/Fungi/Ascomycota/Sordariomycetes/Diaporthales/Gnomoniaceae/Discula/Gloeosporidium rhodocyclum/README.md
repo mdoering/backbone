@@ -1,5 +1,4 @@
-Gloeosporidium rhodocyclum (Mont.) Höhn. SPECIES
-=======
+# Gloeosporidium rhodocyclum (Mont.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

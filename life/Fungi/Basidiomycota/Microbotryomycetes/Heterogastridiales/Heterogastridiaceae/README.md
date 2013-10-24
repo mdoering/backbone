@@ -1,5 +1,4 @@
-Heterogastridiaceae Oberw. & R. Bauer FAMILY
-=======
+# Heterogastridiaceae Oberw. & R. Bauer FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyropolyporus crustatus Sacc. & D. Sacc. SPECIES
-=======
+# Pyropolyporus crustatus Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

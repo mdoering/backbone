@@ -1,17 +1,16 @@
-Catillaria lenticularis subsp. lenticularis SUBSPECIES
-=======
+# Catillaria lenticularis (Ach.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 1: 567 (1874)
 
 #### Original name
-null
+Lecidea lenticularis Ach.
 
 ### Remarks
 null

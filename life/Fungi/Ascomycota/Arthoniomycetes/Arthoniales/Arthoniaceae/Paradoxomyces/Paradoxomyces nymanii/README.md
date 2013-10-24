@@ -1,5 +1,4 @@
-Paradoxomyces nymanii Matzer SPECIES
-=======
+# Paradoxomyces nymanii Matzer SPECIES
 
 #### Status
 ACCEPTED

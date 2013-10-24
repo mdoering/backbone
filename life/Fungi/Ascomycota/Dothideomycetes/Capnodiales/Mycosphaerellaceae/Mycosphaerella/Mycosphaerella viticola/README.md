@@ -1,5 +1,4 @@
-Mycosphaerella viticola Koshk. SPECIES
-=======
+# Mycosphaerella viticola Koshk. SPECIES
 
 #### Status
 ACCEPTED

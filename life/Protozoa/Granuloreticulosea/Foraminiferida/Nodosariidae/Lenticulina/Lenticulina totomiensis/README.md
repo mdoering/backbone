@@ -1,5 +1,4 @@
-Lenticulina totomiensis Makiyama SPECIES
-=======
+# Lenticulina totomiensis Makiyama SPECIES
 
 #### Status
 ACCEPTED

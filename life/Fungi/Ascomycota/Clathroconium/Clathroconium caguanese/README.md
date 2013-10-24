@@ -1,5 +1,4 @@
-Clathroconium caguanese Mercado & J. Mena SPECIES
-=======
+# Clathroconium caguanese Mercado & J. Mena SPECIES
 
 #### Status
 ACCEPTED

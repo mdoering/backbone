@@ -1,5 +1,4 @@
-Legionella bozemanii (sic) Brenner et al., 1980 SPECIES
-=======
+# Legionella bozemanii (sic) Brenner et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

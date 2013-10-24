@@ -1,5 +1,4 @@
-Rhodocybe hygrophoroides T.J. Baroni & Halling SPECIES
-=======
+# Rhodocybe hygrophoroides T.J. Baroni & Halling SPECIES
 
 #### Status
 ACCEPTED

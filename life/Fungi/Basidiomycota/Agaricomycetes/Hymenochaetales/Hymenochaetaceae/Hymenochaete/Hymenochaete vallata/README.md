@@ -1,5 +1,4 @@
-Hymenochaete vallata G. Cunn., 1957 SPECIES
-=======
+# Hymenochaete vallata G. Cunn., 1957 SPECIES
 
 #### Status
 ACCEPTED

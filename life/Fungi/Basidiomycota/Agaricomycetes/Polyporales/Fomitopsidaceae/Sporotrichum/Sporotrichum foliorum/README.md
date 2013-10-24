@@ -1,5 +1,4 @@
-Sporotrichum foliorum Desm. SPECIES
-=======
+# Sporotrichum foliorum Desm. SPECIES
 
 #### Status
 ACCEPTED

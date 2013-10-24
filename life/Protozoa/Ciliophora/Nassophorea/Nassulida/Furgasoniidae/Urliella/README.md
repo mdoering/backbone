@@ -1,5 +1,4 @@
-Urliella Foissner, 1987 GENUS
-=======
+# Urliella Foissner, 1987 GENUS
 
 #### Status
 ACCEPTED

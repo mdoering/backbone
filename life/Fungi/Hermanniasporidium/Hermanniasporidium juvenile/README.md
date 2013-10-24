@@ -1,5 +1,4 @@
-Hermanniasporidium juvenile G. Thor SPECIES
-=======
+# Hermanniasporidium juvenile G. Thor SPECIES
 
 #### Status
 ACCEPTED

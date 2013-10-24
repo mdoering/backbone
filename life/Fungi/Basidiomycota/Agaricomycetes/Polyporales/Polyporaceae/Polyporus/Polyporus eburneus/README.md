@@ -1,5 +1,4 @@
-Polyporus eburneus Wallr. SPECIES
-=======
+# Polyporus eburneus Wallr. SPECIES
 
 #### Status
 ACCEPTED

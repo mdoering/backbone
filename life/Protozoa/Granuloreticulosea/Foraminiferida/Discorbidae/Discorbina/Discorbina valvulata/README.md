@@ -1,5 +1,4 @@
-Discorbina valvulata var. granulosa Heron-Allen & Earland, 1915 VARIETY
-=======
+# Discorbina valvulata (d’Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

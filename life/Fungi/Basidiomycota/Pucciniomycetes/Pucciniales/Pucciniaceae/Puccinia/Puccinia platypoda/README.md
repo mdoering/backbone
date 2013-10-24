@@ -1,5 +1,4 @@
-Puccinia platypoda Syd. & P. Syd. SPECIES
-=======
+# Puccinia platypoda Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

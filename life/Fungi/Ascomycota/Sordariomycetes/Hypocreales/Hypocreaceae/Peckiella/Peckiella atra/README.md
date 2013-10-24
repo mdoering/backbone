@@ -1,5 +1,4 @@
-Peckiella atra (Fr.) Sacc. SPECIES
-=======
+# Peckiella atra (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physarum myricanum Y. Yamam., 2000 SPECIES
-=======
+# Physarum myricanum Y. Yamam., 2000 SPECIES
 
 #### Status
 ACCEPTED

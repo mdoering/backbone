@@ -1,17 +1,16 @@
-Humaria leucolomoides var. leucolomoides VARIETY
-=======
+# Octospora humosa (Fr.) Dennis, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+British Cup Fungi & their Allies 33 (1960)
 
 #### Original name
-Humaria leucolomoides var. leucolomoides
+Peziza humosa Fr., 1818
 
 ### Remarks
 null

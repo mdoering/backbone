@@ -1,5 +1,4 @@
-Perenniporia meridionalis Decock & Stalpers, 2006 SPECIES
-=======
+# Perenniporia meridionalis Decock & Stalpers, 2006 SPECIES
 
 #### Status
 ACCEPTED

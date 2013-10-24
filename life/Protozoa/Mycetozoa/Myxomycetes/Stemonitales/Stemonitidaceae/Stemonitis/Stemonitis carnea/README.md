@@ -1,5 +1,4 @@
-Stemonitis carnea Schrank SPECIES
-=======
+# Stemonitis carnea Schrank SPECIES
 
 #### Status
 ACCEPTED

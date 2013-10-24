@@ -1,5 +1,4 @@
-Phyllerium lignitum Ettingsh. SPECIES
-=======
+# Phyllerium lignitum Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

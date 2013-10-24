@@ -1,5 +1,4 @@
-Globoquadrina dehiscens subsp. dehiscens SUBSPECIES
-=======
+# Globoquadrina dehiscens (Chapman, Parr & Collins) SPECIES
 
 #### Status
 ACCEPTED

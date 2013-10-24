@@ -1,14 +1,13 @@
-Pyrenula tokyensis (Müll. Arg.) H. Harada SPECIES
-=======
+# Pyrenula tokyoensis (Müll. Arg.) H. Harada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Harada, Okamoto & Yoshimura, Lichenology 2(2): 132 (2004)
 
 #### Original name
 Pyrenastrum tokyoense Müll. Arg.

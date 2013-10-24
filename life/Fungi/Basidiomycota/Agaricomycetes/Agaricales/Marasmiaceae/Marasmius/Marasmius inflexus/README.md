@@ -1,5 +1,4 @@
-Marasmius inflexus Mont. SPECIES
-=======
+# Marasmius inflexus Mont. SPECIES
 
 #### Status
 ACCEPTED

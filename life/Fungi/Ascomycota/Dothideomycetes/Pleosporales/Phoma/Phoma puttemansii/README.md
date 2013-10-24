@@ -1,5 +1,4 @@
-Phoma puttemansii Benatar SPECIES
-=======
+# Phoma puttemansii Benatar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenophoma chondrillae (Nikol.) Petr. SPECIES
-=======
+# Selenophoma chondrillae (Nikol.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria depressula Servít SPECIES
-=======
+# Verrucaria depressula Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopyrenula elliptica Müll. Arg. SPECIES
-=======
+# Pseudopyrenula elliptica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

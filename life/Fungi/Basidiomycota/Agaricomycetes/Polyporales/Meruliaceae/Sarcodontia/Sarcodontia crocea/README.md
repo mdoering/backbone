@@ -1,17 +1,16 @@
-Hydnum schiedermayeri var. schiedermayeri VARIETY
-=======
+# Sarcodontia crocea (Schwein.) Kotl., 1953 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öst. bot. Z. 20(2): 33 (1870)
+Ceská Mykol. 7: 117 (1953)
 
 #### Original name
-Hydnum schiedermayeri var. schiedermayeri
+Sistotrema croceum Schwein., 1822
 
 ### Remarks
 null

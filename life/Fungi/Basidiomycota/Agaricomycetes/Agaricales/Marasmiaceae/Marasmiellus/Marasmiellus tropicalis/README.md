@@ -1,14 +1,13 @@
-Pleurotus tropicalis Speg., 1888 SPECIES
-=======
+# Marasmiellus tropicalis (Speg.) Singer, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 26: 5 (1888)
+Lilloa 23: 189 (1950)
 
 #### Original name
 Pleurotus tropicalis Speg., 1888

@@ -1,5 +1,4 @@
-Tremella dufourii Brond. SPECIES
-=======
+# Tremella dufourii Brond. SPECIES
 
 #### Status
 ACCEPTED

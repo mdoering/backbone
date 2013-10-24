@@ -1,5 +1,4 @@
-Aecidium veronicae Berk. SPECIES
-=======
+# Aecidium veronicae Berk. SPECIES
 
 #### Status
 ACCEPTED

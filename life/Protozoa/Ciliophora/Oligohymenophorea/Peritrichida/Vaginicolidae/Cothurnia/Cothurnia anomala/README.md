@@ -1,5 +1,4 @@
-Cothurnia anomala SPECIES
-=======
+# Cothurnia anomala SPECIES
 
 #### Status
 ACCEPTED

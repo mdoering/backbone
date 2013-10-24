@@ -1,5 +1,4 @@
-Lambottiella fuckelii Sacc. SPECIES
-=======
+# Lambottiella fuckelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

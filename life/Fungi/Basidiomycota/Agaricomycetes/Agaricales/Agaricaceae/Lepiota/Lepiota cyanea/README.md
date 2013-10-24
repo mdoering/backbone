@@ -1,5 +1,4 @@
-Lepiota cyanea Rick SPECIES
-=======
+# Lepiota cyanea Rick SPECIES
 
 #### Status
 ACCEPTED

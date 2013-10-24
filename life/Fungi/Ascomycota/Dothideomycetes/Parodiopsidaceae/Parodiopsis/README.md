@@ -1,5 +1,4 @@
-Parodiopsis GENUS
-=======
+# Parodiopsis GENUS
 
 #### Status
 ACCEPTED

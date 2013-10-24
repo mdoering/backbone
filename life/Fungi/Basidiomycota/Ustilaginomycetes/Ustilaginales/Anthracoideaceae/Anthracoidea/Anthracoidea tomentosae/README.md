@@ -1,5 +1,4 @@
-Anthracoidea tomentosae Vánky SPECIES
-=======
+# Anthracoidea tomentosae Vánky SPECIES
 
 #### Status
 ACCEPTED

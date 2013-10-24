@@ -1,5 +1,4 @@
-Tricholoma striatellum Murrill SPECIES
-=======
+# Tricholoma striatellum Murrill SPECIES
 
 #### Status
 ACCEPTED

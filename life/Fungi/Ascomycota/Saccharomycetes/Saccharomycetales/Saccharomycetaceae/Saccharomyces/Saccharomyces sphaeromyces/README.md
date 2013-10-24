@@ -1,5 +1,4 @@
-Saccharomyces sphaeromyces Beij. SPECIES
-=======
+# Saccharomyces sphaeromyces Beij. SPECIES
 
 #### Status
 ACCEPTED

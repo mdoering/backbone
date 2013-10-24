@@ -1,5 +1,4 @@
-Nectria celastri (Schwein.) Peck SPECIES
-=======
+# Nectria celastri (Schwein.) Peck SPECIES
 
 #### Status
 ACCEPTED

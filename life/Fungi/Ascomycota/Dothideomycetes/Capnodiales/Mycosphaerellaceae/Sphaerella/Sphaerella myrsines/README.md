@@ -1,5 +1,4 @@
-Sphaerella myrsines Kalchbr. & Cooke SPECIES
-=======
+# Sphaerella myrsines Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

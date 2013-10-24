@@ -1,5 +1,4 @@
-Sclerotium fuscum Wallr. SPECIES
-=======
+# Sclerotium fuscum Wallr. SPECIES
 
 #### Status
 ACCEPTED

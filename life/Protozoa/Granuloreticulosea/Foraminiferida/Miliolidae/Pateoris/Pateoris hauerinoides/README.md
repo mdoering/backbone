@@ -1,5 +1,4 @@
-Pateoris hauerinoides (Rhumbler, 1936) SPECIES
-=======
+# Pateoris hauerinoides (Rhumbler, 1936) SPECIES
 
 #### Status
 ACCEPTED

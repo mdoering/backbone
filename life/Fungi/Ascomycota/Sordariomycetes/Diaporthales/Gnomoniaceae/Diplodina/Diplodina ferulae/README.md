@@ -1,5 +1,4 @@
-Diplodina ferulae Gonz. Frag. SPECIES
-=======
+# Diplodina ferulae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

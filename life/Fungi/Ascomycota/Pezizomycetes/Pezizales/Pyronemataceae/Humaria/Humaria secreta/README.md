@@ -1,5 +1,4 @@
-Humaria secreta (W. Phillips) Sacc. SPECIES
-=======
+# Humaria secreta (W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

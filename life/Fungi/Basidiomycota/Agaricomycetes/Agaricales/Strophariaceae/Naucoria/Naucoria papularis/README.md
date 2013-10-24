@@ -1,5 +1,4 @@
-Naucoria papularis Fr. SPECIES
-=======
+# Naucoria papularis Fr. SPECIES
 
 #### Status
 ACCEPTED

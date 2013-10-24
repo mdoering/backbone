@@ -1,17 +1,16 @@
-Sparassis herbstii Peck, 1895 SPECIES
-=======
+# Sparassis laminosa Fr., 1836 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 22: 207 (1895)
+Anteckn. Sver. Ätl. Svamp. 64 (1836)
 
 #### Original name
-Sparassis herbstii Peck, 1895
+Sparassis laminosa Fr., 1836
 
 ### Remarks
 null

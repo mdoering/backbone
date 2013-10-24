@@ -1,5 +1,4 @@
-Opegrapha phylloporina Müll. Arg. SPECIES
-=======
+# Opegrapha phylloporina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

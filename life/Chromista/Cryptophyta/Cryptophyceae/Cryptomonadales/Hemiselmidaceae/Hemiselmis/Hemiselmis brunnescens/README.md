@@ -1,5 +1,4 @@
-Hemiselmis brunnescens Butcher SPECIES
-=======
+# Hemiselmis brunnescens Butcher SPECIES
 
 #### Status
 ACCEPTED

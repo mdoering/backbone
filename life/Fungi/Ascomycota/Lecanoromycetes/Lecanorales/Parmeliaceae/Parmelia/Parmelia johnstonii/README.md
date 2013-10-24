@@ -1,17 +1,16 @@
-Parmelia johnstoni C.W. Dodge SPECIES
-=======
+# Parmelia johnstonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 191 (1948)
 
 #### Original name
-Parmelia johnstoni C.W. Dodge
+Parmelia johnstonii C.W. Dodge
 
 ### Remarks
 null

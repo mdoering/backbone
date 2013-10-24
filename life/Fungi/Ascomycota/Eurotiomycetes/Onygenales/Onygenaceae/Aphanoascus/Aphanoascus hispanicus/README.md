@@ -1,5 +1,4 @@
-Aphanoascus hispanicus Cano & Guarro, 1990 SPECIES
-=======
+# Aphanoascus hispanicus Cano & Guarro, 1990 SPECIES
 
 #### Status
 ACCEPTED

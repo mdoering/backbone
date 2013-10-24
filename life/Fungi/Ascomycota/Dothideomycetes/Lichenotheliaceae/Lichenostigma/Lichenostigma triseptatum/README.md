@@ -1,5 +1,4 @@
-Lichenostigma triseptatum Halici & D. Hawksw. SPECIES
-=======
+# Lichenostigma triseptatum Halici & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

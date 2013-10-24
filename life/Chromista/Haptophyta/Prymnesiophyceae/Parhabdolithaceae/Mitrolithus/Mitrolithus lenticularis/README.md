@@ -1,5 +1,4 @@
-Mitrolithus lenticularis SPECIES
-=======
+# Mitrolithus lenticularis SPECIES
 
 #### Status
 ACCEPTED

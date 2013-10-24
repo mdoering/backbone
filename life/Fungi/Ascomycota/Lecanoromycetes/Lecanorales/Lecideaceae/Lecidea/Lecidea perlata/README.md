@@ -1,5 +1,4 @@
-Lecidea perlata var. perlata VARIETY
-=======
+# Lecidea perlata H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea perlata var. perlata
+Lecidea perlata H. Magn.
 
 ### Remarks
 null

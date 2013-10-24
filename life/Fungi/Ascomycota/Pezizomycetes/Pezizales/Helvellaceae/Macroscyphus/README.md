@@ -1,5 +1,4 @@
-Macroscyphus GENUS
-=======
+# Macroscyphus GENUS
 
 #### Status
 ACCEPTED

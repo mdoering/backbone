@@ -1,5 +1,4 @@
-Streptomyces scopiformis Li et al., 2002 SPECIES
-=======
+# Streptomyces scopiformis Li et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

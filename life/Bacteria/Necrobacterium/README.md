@@ -1,5 +1,4 @@
-Necrobacterium GENUS
-=======
+# Necrobacterium GENUS
 
 #### Status
 ACCEPTED

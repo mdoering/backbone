@@ -1,5 +1,4 @@
-Octospora albidula Hedw. SPECIES
-=======
+# Octospora albidula Hedw. SPECIES
 
 #### Status
 ACCEPTED

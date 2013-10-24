@@ -1,17 +1,16 @@
-Oidium heliotropii-strigosum N. Ahmad, A.K. Sarbhoy, Kamal & D.K. Agarwal SPECIES
-=======
+# Oidium heliotropii-strigosi N. Ahmad, A.K. Sarbhoy, Kamal & D.K. Agarwal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 58(1): 103 (2005)
 
 #### Original name
-Oidium heliotropii-strigosum N. Ahmad, A.K. Sarbhoy, Kamal & D.K. Agarwal
+Oidium heliotropii-strigosi N. Ahmad, A.K. Sarbhoy, Kamal & D.K. Agarwal
 
 ### Remarks
 null

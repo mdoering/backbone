@@ -1,5 +1,4 @@
-Lophomarginata habitualis Pykhova, 1973 SPECIES
-=======
+# Lophomarginata habitualis Pykhova, 1973 SPECIES
 
 #### Status
 ACCEPTED

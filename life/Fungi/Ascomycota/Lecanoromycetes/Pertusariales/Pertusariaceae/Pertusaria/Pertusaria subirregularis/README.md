@@ -1,5 +1,4 @@
-Pertusaria subirregularis Müll. Arg. SPECIES
-=======
+# Pertusaria subirregularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

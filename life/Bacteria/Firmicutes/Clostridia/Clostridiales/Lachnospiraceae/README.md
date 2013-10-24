@@ -1,5 +1,4 @@
-Lachnospiraceae FAMILY
-=======
+# Lachnospiraceae FAMILY
 
 #### Status
 ACCEPTED

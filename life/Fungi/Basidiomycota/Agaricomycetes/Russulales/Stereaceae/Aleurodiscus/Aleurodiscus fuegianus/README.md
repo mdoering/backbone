@@ -1,5 +1,4 @@
-Aleurodiscus fuegianus Núñez & Ryvarden SPECIES
-=======
+# Aleurodiscus fuegianus Núñez & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

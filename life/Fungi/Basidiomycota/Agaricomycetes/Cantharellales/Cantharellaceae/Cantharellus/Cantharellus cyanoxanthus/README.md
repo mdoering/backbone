@@ -1,5 +1,4 @@
-Cantharellus cyanoxanthus R. Heim ex Heinem., 1958 SPECIES
-=======
+# Cantharellus cyanoxanthus R. Heim ex Heinem., 1958 SPECIES
 
 #### Status
 ACCEPTED

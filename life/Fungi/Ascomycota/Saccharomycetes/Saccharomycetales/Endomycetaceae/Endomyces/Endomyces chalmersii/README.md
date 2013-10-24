@@ -1,17 +1,16 @@
-Endomyces chalmersi Castell. SPECIES
-=======
+# Endomyces chalmersii Castell. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Archs Parasit. 16(1): 186 (1913)
 
 #### Original name
-Endomyces chalmersi Castell.
+Endomyces chalmersii Castell.
 
 ### Remarks
 null

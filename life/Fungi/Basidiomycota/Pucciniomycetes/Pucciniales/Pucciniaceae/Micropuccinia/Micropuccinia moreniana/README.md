@@ -1,5 +1,4 @@
-Micropuccinia moreniana (Dudley & C.H. Thomps.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia moreniana (Dudley & C.H. Thomps.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

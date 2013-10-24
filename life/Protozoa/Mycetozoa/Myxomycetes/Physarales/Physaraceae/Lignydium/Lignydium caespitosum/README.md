@@ -1,5 +1,4 @@
-Lignydium caespitosum (Schwein.) Kuntze SPECIES
-=======
+# Lignydium caespitosum (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

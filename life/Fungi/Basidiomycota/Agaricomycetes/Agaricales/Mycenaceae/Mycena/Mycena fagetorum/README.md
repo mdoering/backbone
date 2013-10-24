@@ -1,14 +1,13 @@
-Agaricus fagetorum Fr. SPECIES
-=======
+# Mycena fagetorum (Fr.) Gillet, 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hyménomycètes (Alençon) 274 (1876)
 
 #### Original name
 Agaricus fagetorum Fr.

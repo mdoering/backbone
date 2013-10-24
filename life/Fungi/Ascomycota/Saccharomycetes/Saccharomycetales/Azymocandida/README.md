@@ -1,5 +1,4 @@
-Azymocandida GENUS
-=======
+# Azymocandida GENUS
 
 #### Status
 ACCEPTED

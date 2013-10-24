@@ -1,5 +1,4 @@
-Micropsalliota lutescens Heinem. SPECIES
-=======
+# Micropsalliota lutescens Heinem. SPECIES
 
 #### Status
 ACCEPTED

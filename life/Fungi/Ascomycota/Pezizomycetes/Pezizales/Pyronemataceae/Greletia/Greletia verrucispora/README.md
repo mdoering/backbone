@@ -1,5 +1,4 @@
-Greletia verrucispora (Donadini & Monier) Donadini SPECIES
-=======
+# Greletia verrucispora (Donadini & Monier) Donadini SPECIES
 
 #### Status
 ACCEPTED

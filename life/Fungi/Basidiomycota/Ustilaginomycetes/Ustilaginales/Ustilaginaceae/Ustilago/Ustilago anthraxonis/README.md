@@ -1,5 +1,4 @@
-Ustilago anthraxonis Pat. SPECIES
-=======
+# Ustilago anthraxonis Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulasnella asymmetrica Warcup & P.H.B. Talbot SPECIES
-=======
+# Tulasnella asymmetrica Warcup & P.H.B. Talbot SPECIES
 
 #### Status
 ACCEPTED

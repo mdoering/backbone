@@ -1,5 +1,4 @@
-Bacidia jacobi (Tuck.) Hasse SPECIES
-=======
+# Bacidia jacobi (Tuck.) Hasse SPECIES
 
 #### Status
 ACCEPTED

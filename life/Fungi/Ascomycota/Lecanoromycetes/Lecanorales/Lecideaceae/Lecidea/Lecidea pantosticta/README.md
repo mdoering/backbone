@@ -1,5 +1,4 @@
-Lecidea pantosticta Ach. SPECIES
-=======
+# Lecidea pantosticta Ach. SPECIES
 
 #### Status
 ACCEPTED

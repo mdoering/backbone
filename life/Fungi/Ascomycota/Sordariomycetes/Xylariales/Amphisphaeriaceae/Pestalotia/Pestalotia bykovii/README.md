@@ -1,5 +1,4 @@
-Pestalotia bykovii Kravtzev SPECIES
-=======
+# Pestalotia bykovii Kravtzev SPECIES
 
 #### Status
 ACCEPTED

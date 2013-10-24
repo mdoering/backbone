@@ -1,5 +1,4 @@
-Leucoporus paraguayensis (Speg.) Speg. SPECIES
-=======
+# Leucoporus paraguayensis (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

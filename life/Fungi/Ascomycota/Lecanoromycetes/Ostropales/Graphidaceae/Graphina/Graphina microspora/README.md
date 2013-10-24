@@ -1,5 +1,4 @@
-Graphina microspora Redinger SPECIES
-=======
+# Graphina microspora Redinger SPECIES
 
 #### Status
 ACCEPTED

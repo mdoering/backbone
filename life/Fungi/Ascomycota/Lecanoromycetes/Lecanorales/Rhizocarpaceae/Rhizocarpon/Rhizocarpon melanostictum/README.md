@@ -1,5 +1,4 @@
-Rhizocarpon melanostictum (Hue) Darb. SPECIES
-=======
+# Rhizocarpon melanostictum (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

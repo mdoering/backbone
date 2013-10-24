@@ -1,5 +1,4 @@
-Trichophyton microsporum Sabour. SPECIES
-=======
+# Trichophyton microsporum Sabour. SPECIES
 
 #### Status
 ACCEPTED

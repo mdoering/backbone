@@ -1,5 +1,4 @@
-Lecidea thouarsii Fée SPECIES
-=======
+# Lecidea thouarsii Fée SPECIES
 
 #### Status
 ACCEPTED

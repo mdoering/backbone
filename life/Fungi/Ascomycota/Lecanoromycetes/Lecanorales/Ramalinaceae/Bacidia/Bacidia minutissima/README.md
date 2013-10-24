@@ -1,5 +1,4 @@
-Bacidia minutissima Knoph SPECIES
-=======
+# Bacidia minutissima Knoph SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia epistroma Moesz & Smarods SPECIES
-=======
+# Ramularia epistroma Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acetitomaculum Greening & Leedle, 1995 GENUS
-=======
+# Acetitomaculum Greening & Leedle, 1995 GENUS
 
 #### Status
 ACCEPTED

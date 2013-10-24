@@ -1,5 +1,4 @@
-Asteridiella galipanensis Toro ex Hansf. SPECIES
-=======
+# Asteridiella galipanensis Toro ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

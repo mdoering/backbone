@@ -1,5 +1,4 @@
-Flammulaster tigrensis Raithelh. SPECIES
-=======
+# Flammulaster tigrensis Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septotrichum Corda GENUS
-=======
+# Septotrichum Corda GENUS
 
 #### Status
 ACCEPTED

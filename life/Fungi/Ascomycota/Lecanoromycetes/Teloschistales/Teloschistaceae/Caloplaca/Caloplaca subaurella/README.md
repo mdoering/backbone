@@ -1,5 +1,4 @@
-Caloplaca subaurella (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca subaurella (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

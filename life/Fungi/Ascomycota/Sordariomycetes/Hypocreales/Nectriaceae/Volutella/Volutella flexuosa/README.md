@@ -1,5 +1,4 @@
-Volutella flexuosa Cooke & Ellis SPECIES
-=======
+# Volutella flexuosa Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

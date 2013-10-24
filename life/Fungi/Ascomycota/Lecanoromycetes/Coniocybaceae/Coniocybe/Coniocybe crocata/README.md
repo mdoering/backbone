@@ -1,5 +1,4 @@
-Coniocybe crocata Körb. SPECIES
-=======
+# Coniocybe crocata Körb. SPECIES
 
 #### Status
 ACCEPTED

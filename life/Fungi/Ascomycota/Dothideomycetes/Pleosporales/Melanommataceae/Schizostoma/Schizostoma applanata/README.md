@@ -1,5 +1,4 @@
-Schizostoma applanata Petch SPECIES
-=======
+# Schizostoma applanata Petch SPECIES
 
 #### Status
 ACCEPTED

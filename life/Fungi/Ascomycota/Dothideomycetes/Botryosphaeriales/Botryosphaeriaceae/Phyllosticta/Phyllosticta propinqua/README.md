@@ -1,5 +1,4 @@
-Phyllosticta propinqua var. propinqua VARIETY
-=======
+# Phyllosticta propinqua Ferrer & Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta propinqua var. propinqua
+Phyllosticta propinqua Ferrer & Sacc.
 
 ### Remarks
 null

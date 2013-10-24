@@ -1,5 +1,4 @@
-Prillieuxia cremoricolor Rick SPECIES
-=======
+# Prillieuxia cremoricolor Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptostromella dicanthina S. Ahmad SPECIES
-=======
+# Leptostromella dicanthina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platycola coelochila Stokes, 1887 SPECIES
-=======
+# Platycola coelochila Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus scabrinellus Peck SPECIES
-=======
+# Agaricus scabrinellus Peck SPECIES
 
 #### Status
 ACCEPTED

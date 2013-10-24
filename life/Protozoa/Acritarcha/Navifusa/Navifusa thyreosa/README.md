@@ -1,5 +1,4 @@
-Navifusa thyreosa Colbath, 1979 SPECIES
-=======
+# Navifusa thyreosa Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

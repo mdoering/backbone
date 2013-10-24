@@ -1,5 +1,4 @@
-Sphaeria peregrina Mont. & Fr. SPECIES
-=======
+# Sphaeria peregrina Mont. & Fr. SPECIES
 
 #### Status
 ACCEPTED

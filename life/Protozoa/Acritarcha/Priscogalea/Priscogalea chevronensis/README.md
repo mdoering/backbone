@@ -1,5 +1,4 @@
-Priscogalea chevronensis Vanguestaine, 1974 SPECIES
-=======
+# Priscogalea chevronensis Vanguestaine, 1974 SPECIES
 
 #### Status
 ACCEPTED

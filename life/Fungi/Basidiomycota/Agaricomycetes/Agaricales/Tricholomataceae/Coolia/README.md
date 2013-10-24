@@ -1,5 +1,4 @@
-Coolia GENUS
-=======
+# Coolia GENUS
 
 #### Status
 ACCEPTED

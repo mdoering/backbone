@@ -1,5 +1,4 @@
-Fusarium cymbiferum Berk. & M.A. Curtis SPECIES
-=======
+# Fusarium cymbiferum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiotrichum GENUS
-=======
+# Apiotrichum GENUS
 
 #### Status
 ACCEPTED

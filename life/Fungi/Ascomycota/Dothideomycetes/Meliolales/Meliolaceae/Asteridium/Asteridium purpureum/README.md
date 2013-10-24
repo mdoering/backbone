@@ -1,5 +1,4 @@
-Asteridium purpureum Ellis & G. Martin SPECIES
-=======
+# Asteridium purpureum Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

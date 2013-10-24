@@ -1,17 +1,16 @@
-Septoria phyllostichoides Sacc. SPECIES
-=======
+# Septoria phyllostictoides Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trudy Sredneaz. Univ. 14(5): 39 (1950)
 
 #### Original name
-Septoria phyllostichoides Sacc.
+Septoria phyllostictoides Sacc.
 
 ### Remarks
 null

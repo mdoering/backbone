@@ -1,17 +1,16 @@
-Candida kochii (Wettst.) Basgal, 1931 SPECIES
-=======
+# Sporidiobolus salmonicolor Fell & Tallman, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Curr. Microbiol. 5(2): 80 (1981)
 
 #### Original name
-null
+Sporidiobolus salmonicolor Fell & Tallman, 1981
 
 ### Remarks
 null

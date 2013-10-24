@@ -1,5 +1,4 @@
-Amphipternis Foreman, 1973 GENUS
-=======
+# Amphipternis Foreman, 1973 GENUS
 
 #### Status
 ACCEPTED

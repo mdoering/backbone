@@ -1,5 +1,4 @@
-Cordyceps ussuriensis Koval SPECIES
-=======
+# Cordyceps ussuriensis Koval SPECIES
 
 #### Status
 ACCEPTED

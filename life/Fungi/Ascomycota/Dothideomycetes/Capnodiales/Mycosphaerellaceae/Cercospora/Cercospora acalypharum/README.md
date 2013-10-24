@@ -1,5 +1,4 @@
-Cercospora acalypharum Tharp SPECIES
-=======
+# Cercospora acalypharum Tharp SPECIES
 
 #### Status
 ACCEPTED

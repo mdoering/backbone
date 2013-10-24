@@ -1,5 +1,4 @@
-Lycoperdon capite anon. SPECIES
-=======
+# Lycoperdon capite anon. SPECIES
 
 #### Status
 ACCEPTED

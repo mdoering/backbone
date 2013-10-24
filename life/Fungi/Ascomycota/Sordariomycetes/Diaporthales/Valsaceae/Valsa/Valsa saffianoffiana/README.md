@@ -1,5 +1,4 @@
-Valsa saffianoffiana Sacc. & Berl. SPECIES
-=======
+# Valsa saffianoffiana Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

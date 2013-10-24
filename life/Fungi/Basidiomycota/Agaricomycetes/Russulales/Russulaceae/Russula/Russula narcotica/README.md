@@ -1,5 +1,4 @@
-Russula narcotica P. Kumm. SPECIES
-=======
+# Russula narcotica P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudofavososphaera Xing, 1982 GENUS
-=======
+# Pseudofavososphaera Xing, 1982 GENUS
 
 #### Status
 ACCEPTED

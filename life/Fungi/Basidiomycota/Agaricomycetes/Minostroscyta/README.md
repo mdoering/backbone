@@ -1,5 +1,4 @@
-Minostroscyta Hjortstam & Ryvarden GENUS
-=======
+# Minostroscyta Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

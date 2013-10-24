@@ -1,5 +1,4 @@
-Aphanostigme lantanae Srinivasulu & P.G. Sathe SPECIES
-=======
+# Aphanostigme lantanae Srinivasulu & P.G. Sathe SPECIES
 
 #### Status
 ACCEPTED

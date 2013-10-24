@@ -1,5 +1,4 @@
-Biconiosporella Schaumann GENUS
-=======
+# Biconiosporella Schaumann GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria glacialis (Arnold) Motyka SPECIES
-=======
+# Urceolaria glacialis (Arnold) Motyka SPECIES
 
 #### Status
 ACCEPTED

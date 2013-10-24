@@ -1,14 +1,13 @@
-Helminthosporium pedunculatum (Peck) Pound & Clem., 1896 SPECIES
-=======
+# Sporidesmium pedunculatum (Peck) M.B. Ellis, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Y. St. Mus. 219-220: 234 (1920)
+Mycol. Pap. 70: 67 (1958)
 
 #### Original name
 Clasterosporium pedunculatum Peck, 1873

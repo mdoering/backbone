@@ -1,5 +1,4 @@
-Xylaria himalayensis Narula & Rawla SPECIES
-=======
+# Xylaria himalayensis Narula & Rawla SPECIES
 
 #### Status
 ACCEPTED

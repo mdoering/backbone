@@ -1,5 +1,4 @@
-Belonioscypha GENUS
-=======
+# Belonioscypha GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptovalsa eutypiformis Sacc. SPECIES
-=======
+# Cryptovalsa eutypiformis Sacc. SPECIES
 
 #### Status
 ACCEPTED

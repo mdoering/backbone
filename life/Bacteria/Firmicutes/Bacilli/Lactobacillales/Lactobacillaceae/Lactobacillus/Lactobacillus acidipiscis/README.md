@@ -1,5 +1,4 @@
-Lactobacillus acidipiscis Tanasupawat et al., 2000 SPECIES
-=======
+# Lactobacillus acidipiscis Tanasupawat et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

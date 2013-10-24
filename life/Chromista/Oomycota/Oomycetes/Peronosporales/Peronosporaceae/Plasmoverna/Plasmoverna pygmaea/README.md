@@ -1,17 +1,16 @@
-Plasmopara pygmaea f. pygmaea (Unger) J. Schröt. FORM
-=======
+# Plasmoverna pygmaea (Unger) Constant., Voglmayr, Fatehi & Thines, 2005 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(916): 239 (1886)
+Taxon 54(3): 818 (2005)
 
 #### Original name
-Plasmopara pygmaea f. pygmaea (Unger) J. Schröt.
+Botrytis pygmaea Unger, 1833
 
 ### Remarks
 null

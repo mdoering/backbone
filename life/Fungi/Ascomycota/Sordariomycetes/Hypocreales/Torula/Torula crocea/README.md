@@ -1,5 +1,4 @@
-Torula crocea Mart. SPECIES
-=======
+# Torula crocea Mart. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella andryalae Gonz. Frag. SPECIES
-=======
+# Sphaerella andryalae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta allii Rothers SPECIES
-=======
+# Phyllosticta allii Rothers SPECIES
 
 #### Status
 ACCEPTED

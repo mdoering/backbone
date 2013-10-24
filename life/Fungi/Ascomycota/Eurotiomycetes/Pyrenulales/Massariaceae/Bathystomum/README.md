@@ -1,5 +1,4 @@
-Bathystomum GENUS
-=======
+# Bathystomum GENUS
 
 #### Status
 ACCEPTED

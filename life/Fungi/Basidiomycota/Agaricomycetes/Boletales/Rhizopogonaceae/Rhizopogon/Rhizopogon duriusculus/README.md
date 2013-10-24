@@ -1,5 +1,4 @@
-Rhizopogon duriusculus Velen. SPECIES
-=======
+# Rhizopogon duriusculus Velen. SPECIES
 
 #### Status
 ACCEPTED

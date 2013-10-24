@@ -1,5 +1,4 @@
-Collybia subsimulans P. Karst. SPECIES
-=======
+# Collybia subsimulans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

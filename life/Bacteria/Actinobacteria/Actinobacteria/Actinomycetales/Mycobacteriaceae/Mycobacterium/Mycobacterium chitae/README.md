@@ -1,5 +1,4 @@
-Mycobacterium chitae Tsukamura, 1967 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium chitae Tsukamura, 1967 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

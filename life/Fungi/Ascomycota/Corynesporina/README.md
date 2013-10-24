@@ -1,5 +1,4 @@
-Corynesporina Subram. GENUS
-=======
+# Corynesporina Subram. GENUS
 
 #### Status
 ACCEPTED

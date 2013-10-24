@@ -1,5 +1,4 @@
-Lecanora garovaglioi subsp. garovaglioi SUBSPECIES
-=======
+# Lecanora garovaglioi (Körb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

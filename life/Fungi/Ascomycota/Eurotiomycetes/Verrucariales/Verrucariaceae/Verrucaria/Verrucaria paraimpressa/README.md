@@ -1,5 +1,4 @@
-Verrucaria paraimpressa Servít SPECIES
-=======
+# Verrucaria paraimpressa Servít SPECIES
 
 #### Status
 ACCEPTED

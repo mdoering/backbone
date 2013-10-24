@@ -1,5 +1,4 @@
-Cordana solitaria V. Rao & de Hoog, 1986 SPECIES
-=======
+# Cordana solitaria V. Rao & de Hoog, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycenella funebris Singer SPECIES
-=======
+# Mycenella funebris Singer SPECIES
 
 #### Status
 ACCEPTED

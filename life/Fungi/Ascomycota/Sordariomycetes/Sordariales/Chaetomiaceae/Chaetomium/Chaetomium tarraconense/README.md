@@ -1,5 +1,4 @@
-Chaetomium tarraconense Stchigel, K. Rodr. & Guarro, 2002 SPECIES
-=======
+# Chaetomium tarraconense Stchigel, K. Rodr. & Guarro, 2002 SPECIES
 
 #### Status
 ACCEPTED

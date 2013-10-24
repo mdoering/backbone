@@ -1,5 +1,4 @@
-Lactifluus rigens (Durieu & Lév.) Kuntze SPECIES
-=======
+# Lactifluus rigens (Durieu & Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

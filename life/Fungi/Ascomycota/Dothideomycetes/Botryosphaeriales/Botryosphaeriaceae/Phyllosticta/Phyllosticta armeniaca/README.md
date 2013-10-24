@@ -1,5 +1,4 @@
-Phyllosticta armeniaca Tasl. SPECIES
-=======
+# Phyllosticta armeniaca Tasl. SPECIES
 
 #### Status
 ACCEPTED

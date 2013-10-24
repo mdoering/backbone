@@ -1,5 +1,4 @@
-Hexatortilisphaera Kozur, Krainer & Mostler, 1996 GENUS
-=======
+# Hexatortilisphaera Kozur, Krainer & Mostler, 1996 GENUS
 
 #### Status
 ACCEPTED

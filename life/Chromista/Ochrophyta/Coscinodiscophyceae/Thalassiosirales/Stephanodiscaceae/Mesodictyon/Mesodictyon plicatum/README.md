@@ -1,5 +1,4 @@
-Mesodictyon plicatum E. Theriot SPECIES
-=======
+# Mesodictyon plicatum E. Theriot SPECIES
 
 #### Status
 ACCEPTED

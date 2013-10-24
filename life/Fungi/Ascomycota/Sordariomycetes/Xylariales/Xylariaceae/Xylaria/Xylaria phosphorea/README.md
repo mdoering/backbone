@@ -1,5 +1,4 @@
-Xylaria phosphorea Berk. SPECIES
-=======
+# Xylaria phosphorea Berk. SPECIES
 
 #### Status
 ACCEPTED

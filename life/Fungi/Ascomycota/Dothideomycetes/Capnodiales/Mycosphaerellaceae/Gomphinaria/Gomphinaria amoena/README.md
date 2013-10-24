@@ -1,5 +1,4 @@
-Gomphinaria amoena Preuss SPECIES
-=======
+# Gomphinaria amoena Preuss SPECIES
 
 #### Status
 ACCEPTED

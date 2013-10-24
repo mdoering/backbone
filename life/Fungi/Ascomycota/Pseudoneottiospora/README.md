@@ -1,5 +1,4 @@
-Pseudoneottiospora Faurel & Schotter GENUS
-=======
+# Pseudoneottiospora Faurel & Schotter GENUS
 
 #### Status
 ACCEPTED

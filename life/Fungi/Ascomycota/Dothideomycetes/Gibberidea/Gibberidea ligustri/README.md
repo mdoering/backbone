@@ -1,5 +1,4 @@
-Gibberidea ligustri (Fabre) Kuntze SPECIES
-=======
+# Gibberidea ligustri (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

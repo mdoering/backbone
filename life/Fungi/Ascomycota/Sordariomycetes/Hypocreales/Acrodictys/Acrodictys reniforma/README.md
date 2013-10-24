@@ -1,5 +1,4 @@
-Acrodictys reniforma J. L. Chen & Tzean SPECIES
-=======
+# Acrodictys reniforma J. L. Chen & Tzean SPECIES
 
 #### Status
 ACCEPTED

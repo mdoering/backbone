@@ -1,5 +1,4 @@
-Peniophora wrightii (Berk. & M.A. Curtis) Rick SPECIES
-=======
+# Peniophora wrightii (Berk. & M.A. Curtis) Rick SPECIES
 
 #### Status
 ACCEPTED

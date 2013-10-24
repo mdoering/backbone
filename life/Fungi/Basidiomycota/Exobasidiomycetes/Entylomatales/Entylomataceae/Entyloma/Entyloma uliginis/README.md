@@ -1,5 +1,4 @@
-Entyloma uliginis Speg. SPECIES
-=======
+# Entyloma uliginis Speg. SPECIES
 
 #### Status
 ACCEPTED

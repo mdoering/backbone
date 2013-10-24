@@ -1,5 +1,4 @@
-Myriotrema peninsulae R.C. Harris SPECIES
-=======
+# Myriotrema peninsulae R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

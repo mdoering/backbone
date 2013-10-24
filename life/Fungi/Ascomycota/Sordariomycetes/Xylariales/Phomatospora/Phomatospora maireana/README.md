@@ -1,5 +1,4 @@
-Phomatospora maireana Fautrey & Lambotte SPECIES
-=======
+# Phomatospora maireana Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

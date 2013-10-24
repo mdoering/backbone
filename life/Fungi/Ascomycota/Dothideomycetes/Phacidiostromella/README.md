@@ -1,5 +1,4 @@
-Phacidiostromella Höhn. GENUS
-=======
+# Phacidiostromella Höhn. GENUS
 
 #### Status
 ACCEPTED

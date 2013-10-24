@@ -1,5 +1,4 @@
-Vermicularia hispida Lib. SPECIES
-=======
+# Vermicularia hispida Lib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calathinus calceolus Pat. & Demange SPECIES
-=======
+# Calathinus calceolus Pat. & Demange SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ferrimonas balearica Rosselló-Mora et al., 1996 SPECIES
-=======
+# Ferrimonas balearica Rosselló-Mora et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

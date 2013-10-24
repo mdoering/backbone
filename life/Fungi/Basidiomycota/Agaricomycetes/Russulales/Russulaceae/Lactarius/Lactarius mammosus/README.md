@@ -1,17 +1,16 @@
-Lactarius mammosus var. minor Boud. VARIETY
-=======
+# Lactarius mammosus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. Mycol. (Paris) 4: 29 (1: pl. 58) (1911)
+Epicr. syst. mycol. (Upsaliae) 347 (1838)
 
 #### Original name
-Lactarius mammosus var. minor Boud.
+Lactarius mammosus Fr., 1838
 
 ### Remarks
 null

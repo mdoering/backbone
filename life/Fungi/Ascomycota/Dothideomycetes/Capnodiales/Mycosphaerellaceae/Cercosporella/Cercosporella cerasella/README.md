@@ -1,5 +1,4 @@
-Cercosporella cerasella Sacc. SPECIES
-=======
+# Cercosporella cerasella Sacc. SPECIES
 
 #### Status
 ACCEPTED

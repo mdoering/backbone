@@ -1,17 +1,16 @@
-Physcia nepalensis Poelt SPECIES
-=======
+# Phaeophyscia nepalensis (Poelt) D. D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Hattori bot. Lab. 65: 208 (1989)
 
 #### Original name
-null
+Physcia nepalensis Poelt
 
 ### Remarks
 null

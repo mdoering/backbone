@@ -1,5 +1,4 @@
-Meliola paropsiae (Beeli) Hansf. SPECIES
-=======
+# Meliola paropsiae (Beeli) Hansf. SPECIES
 
 #### Status
 ACCEPTED

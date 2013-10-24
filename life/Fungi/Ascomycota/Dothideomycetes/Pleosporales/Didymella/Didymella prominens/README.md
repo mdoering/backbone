@@ -1,5 +1,4 @@
-Didymella prominens Ellis & Everh. SPECIES
-=======
+# Didymella prominens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

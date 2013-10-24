@@ -1,5 +1,4 @@
-Rhynchosphaeria alpina P. Karst. SPECIES
-=======
+# Rhynchosphaeria alpina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema aemulans Berk. & Broome, 1873 SPECIES
-=======
+# Sphaeronaema aemulans Berk. & Broome, 1873 SPECIES
 
 #### Status
 ACCEPTED

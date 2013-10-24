@@ -1,5 +1,4 @@
-Entoloma liquescens (Cooke) Sacc. SPECIES
-=======
+# Entoloma liquescens (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quinqueloculina angustidentata Terquem, 1876 SPECIES
-=======
+# Quinqueloculina angustidentata Terquem, 1876 SPECIES
 
 #### Status
 ACCEPTED

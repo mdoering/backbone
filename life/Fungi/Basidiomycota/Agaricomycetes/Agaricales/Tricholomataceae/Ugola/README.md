@@ -1,5 +1,4 @@
-Ugola Adanson, 1763 GENUS
-=======
+# Ugola Adanson, 1763 GENUS
 
 #### Status
 ACCEPTED

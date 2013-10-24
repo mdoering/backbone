@@ -1,5 +1,4 @@
-Rhodocybe incarnata T.J. Baroni & Halling SPECIES
-=======
+# Rhodocybe incarnata T.J. Baroni & Halling SPECIES
 
 #### Status
 ACCEPTED

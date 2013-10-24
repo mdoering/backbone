@@ -1,5 +1,4 @@
-Hymenochaete cinnabarina Henn. SPECIES
-=======
+# Hymenochaete cinnabarina Henn. SPECIES
 
 #### Status
 ACCEPTED

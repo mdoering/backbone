@@ -1,5 +1,4 @@
-Hendersonia rhoina (Briard & Har.) Kuntze SPECIES
-=======
+# Hendersonia rhoina (Briard & Har.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

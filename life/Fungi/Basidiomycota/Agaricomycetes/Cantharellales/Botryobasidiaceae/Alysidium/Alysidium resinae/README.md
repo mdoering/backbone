@@ -1,5 +1,4 @@
-Alysidium resinae var. resinae VARIETY
-=======
+# Alysidium resinae (Fr.) M.B. Ellis, 1971 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dematiaceous Hyphomycetes (Kew) 90 (1971)
+null
 
 #### Original name
-Myxotrichum resinae Fr., 1832
+null
 
 ### Remarks
 null

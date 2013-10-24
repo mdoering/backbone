@@ -1,5 +1,4 @@
-Otthia buteae S.D. Patil & C. Ramesh SPECIES
-=======
+# Otthia buteae S.D. Patil & C. Ramesh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wetzeliella tenuivirgula var. crassiramosa G.L. Williams & C. Downie VARIETY
-=======
+# Wetzeliella tenuivirgula G.L. Williams & C. Downie SPECIES
 
 #### Status
 ACCEPTED

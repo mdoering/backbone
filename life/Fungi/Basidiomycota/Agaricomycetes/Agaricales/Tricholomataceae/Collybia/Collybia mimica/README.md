@@ -1,5 +1,4 @@
-Collybia mimica (W.G. Sm.) Sacc. SPECIES
-=======
+# Collybia mimica (W.G. Sm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

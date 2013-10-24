@@ -1,5 +1,4 @@
-Fusarium castaneicola W. Yamam. SPECIES
-=======
+# Fusarium castaneicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

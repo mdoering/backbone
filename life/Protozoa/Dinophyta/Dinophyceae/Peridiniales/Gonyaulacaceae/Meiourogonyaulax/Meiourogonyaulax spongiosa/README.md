@@ -1,5 +1,4 @@
-Meiourogonyaulax spongiosa M. Smelror SPECIES
-=======
+# Meiourogonyaulax spongiosa M. Smelror SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea homalea (Ach.) Tuck. SPECIES
-=======
+# Usnea homalea (Ach.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kuehneromyces pseudoblattaria E. Horak SPECIES
-=======
+# Kuehneromyces pseudoblattaria E. Horak SPECIES
 
 #### Status
 ACCEPTED

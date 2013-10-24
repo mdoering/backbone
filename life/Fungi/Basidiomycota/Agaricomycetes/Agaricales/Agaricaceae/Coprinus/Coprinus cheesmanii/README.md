@@ -1,17 +1,16 @@
-Coprinus cheesmani T. Gibbs SPECIES
-=======
+# Coprinus cheesmanii T. Gibbs SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 38: 414 (1909)
 
 #### Original name
-Coprinus cheesmani T. Gibbs
+Coprinus cheesmanii T. Gibbs
 
 ### Remarks
 null

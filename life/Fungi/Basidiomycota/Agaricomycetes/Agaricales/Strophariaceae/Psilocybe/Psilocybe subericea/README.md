@@ -1,5 +1,4 @@
-Psilocybe subericea (Fr.) Sacc. SPECIES
-=======
+# Psilocybe subericea (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

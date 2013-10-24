@@ -1,5 +1,4 @@
-Septoria conyzae Died. SPECIES
-=======
+# Septoria conyzae Died. SPECIES
 
 #### Status
 ACCEPTED

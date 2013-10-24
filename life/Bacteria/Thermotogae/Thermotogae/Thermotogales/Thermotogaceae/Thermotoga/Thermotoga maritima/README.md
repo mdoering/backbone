@@ -1,5 +1,4 @@
-Thermotoga maritima Stetter & Huber, 1986 SPECIES
-=======
+# Thermotoga maritima Stetter & Huber, 1986 SPECIES
 
 #### Status
 ACCEPTED

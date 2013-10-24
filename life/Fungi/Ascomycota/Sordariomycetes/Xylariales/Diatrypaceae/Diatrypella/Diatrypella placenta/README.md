@@ -1,5 +1,4 @@
-Diatrypella placenta Rehm SPECIES
-=======
+# Diatrypella placenta Rehm SPECIES
 
 #### Status
 ACCEPTED

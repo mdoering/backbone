@@ -1,17 +1,16 @@
-Lacrimasporonites traversii V.S. Ediger & Alisan SPECIES
-=======
+# Lacrimasporonites traversei V.S. Ediger & Alisan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Review of Palaeobotany and Palynology (Amsterdam) 58(2-4): 154 + pl. II, fig. 5 (1989)
 
 #### Original name
-Lacrimasporonites traversii V.S. Ediger & Alisan
+Lacrimasporonites traversei V.S. Ediger & Alisan
 
 ### Remarks
 null

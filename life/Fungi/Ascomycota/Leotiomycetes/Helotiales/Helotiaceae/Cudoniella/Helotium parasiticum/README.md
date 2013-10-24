@@ -1,5 +1,4 @@
-Helotium parasiticum Ellis & Everh. SPECIES
-=======
+# Helotium parasiticum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rhodococcus Hansgirg in Wittrock & Nordstedt, 1884 GENUS
-=======
+# Chroococcus Nageli, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Alg. Exsicc. 14: 697.
+Neue Denkschr. Allg. Schweiz. Ges. Gesammten Naturwiss. 10(7): 45.
 
 #### Original name
 null

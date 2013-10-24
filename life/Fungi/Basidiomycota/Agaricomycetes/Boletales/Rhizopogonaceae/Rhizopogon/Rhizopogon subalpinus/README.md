@@ -1,5 +1,4 @@
-Rhizopogon subalpinus A.H. Sm. SPECIES
-=======
+# Rhizopogon subalpinus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Radiophryopsis Georgévitch, 1941 GENUS
-=======
+# Radiophryopsis Georgévitch, 1941 GENUS
 
 #### Status
 ACCEPTED

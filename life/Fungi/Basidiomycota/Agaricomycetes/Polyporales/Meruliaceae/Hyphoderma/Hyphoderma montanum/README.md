@@ -1,5 +1,4 @@
-Hyphoderma montanum (Burt) Donk SPECIES
-=======
+# Hyphoderma montanum (Burt) Donk SPECIES
 
 #### Status
 ACCEPTED

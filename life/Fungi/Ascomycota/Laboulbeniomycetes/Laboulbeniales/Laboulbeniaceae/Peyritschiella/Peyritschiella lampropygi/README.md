@@ -1,5 +1,4 @@
-Peyritschiella lampropygi Thaxt. SPECIES
-=======
+# Peyritschiella lampropygi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

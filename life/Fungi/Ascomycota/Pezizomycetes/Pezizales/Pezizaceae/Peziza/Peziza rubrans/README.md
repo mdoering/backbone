@@ -1,5 +1,4 @@
-Peziza rubrans Quél. SPECIES
-=======
+# Peziza rubrans Quél. SPECIES
 
 #### Status
 ACCEPTED

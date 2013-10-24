@@ -1,5 +1,4 @@
-Ganoderma limushanense J.D. Zhao & X.Q. Zhang, 1986 SPECIES
-=======
+# Ganoderma limushanense J.D. Zhao & X.Q. Zhang, 1986 SPECIES
 
 #### Status
 ACCEPTED

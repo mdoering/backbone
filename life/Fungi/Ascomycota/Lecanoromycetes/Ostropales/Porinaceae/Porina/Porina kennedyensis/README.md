@@ -1,5 +1,4 @@
-Porina kennedyensis P. M. McCarthy SPECIES
-=======
+# Porina kennedyensis P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

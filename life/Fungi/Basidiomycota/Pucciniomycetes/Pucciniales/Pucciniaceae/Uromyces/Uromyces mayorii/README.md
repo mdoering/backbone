@@ -1,5 +1,4 @@
-Uromyces mayorii Tranzschel SPECIES
-=======
+# Uromyces mayorii Tranzschel SPECIES
 
 #### Status
 ACCEPTED

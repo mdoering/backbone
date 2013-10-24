@@ -1,5 +1,4 @@
-Diplophragmia petsamoensis var. petsamoensis Vain. VARIETY
-=======
+# Diplophragmia petsamoensis Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta Soc. Fauna Flora fenn. 57(2): (1934)
 
 #### Original name
-Diplophragmia petsamoensis var. petsamoensis Vain.
+Diplophragmia petsamoensis Vain.
 
 ### Remarks
 null

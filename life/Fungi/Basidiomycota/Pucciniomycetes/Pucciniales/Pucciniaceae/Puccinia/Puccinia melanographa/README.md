@@ -1,5 +1,4 @@
-Puccinia melanographa Petr. SPECIES
-=======
+# Puccinia melanographa Petr. SPECIES
 
 #### Status
 ACCEPTED

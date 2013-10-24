@@ -1,5 +1,4 @@
-Clitocybe foveolata H.E. Bigelow SPECIES
-=======
+# Clitocybe foveolata H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

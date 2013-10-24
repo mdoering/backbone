@@ -1,5 +1,4 @@
-Cladonia polycarpia G. Merr. SPECIES
-=======
+# Cladonia polycarpia G. Merr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudobakuella Alekperov, 1992 GENUS
-=======
+# Pseudobakuella Alekperov, 1992 GENUS
 
 #### Status
 ACCEPTED

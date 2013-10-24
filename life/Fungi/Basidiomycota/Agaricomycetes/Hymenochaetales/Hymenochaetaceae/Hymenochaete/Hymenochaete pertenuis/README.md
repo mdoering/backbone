@@ -1,5 +1,4 @@
-Hymenochaete pertenuis S. Ito & S. Imai, 1940 SPECIES
-=======
+# Hymenochaete pertenuis S. Ito & S. Imai, 1940 SPECIES
 
 #### Status
 ACCEPTED

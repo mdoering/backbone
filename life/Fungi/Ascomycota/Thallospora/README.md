@@ -1,5 +1,4 @@
-Thallospora L.S. Olive GENUS
-=======
+# Thallospora L.S. Olive GENUS
 
 #### Status
 ACCEPTED

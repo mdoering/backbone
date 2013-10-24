@@ -1,5 +1,4 @@
-Verrucaria subdolosa Servít SPECIES
-=======
+# Verrucaria subdolosa Servít SPECIES
 
 #### Status
 ACCEPTED

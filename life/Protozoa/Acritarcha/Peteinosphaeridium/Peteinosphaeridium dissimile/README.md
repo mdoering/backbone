@@ -1,5 +1,4 @@
-Peteinosphaeridium dissimile Górka, 1969 emend, Yin Leiming, 1995 SPECIES
-=======
+# Peteinosphaeridium dissimile Górka, 1969 emend, Yin Leiming, 1995 SPECIES
 
 #### Status
 ACCEPTED

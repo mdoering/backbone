@@ -1,17 +1,16 @@
-Pyrenula nitida f. nitida FORM
-=======
+# Pyrenula nitida (Weigel) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syn. meth. lich. 125 (1814)
 
 #### Original name
-Pyrenula nitida f. nitida
+Sphaeria nitida Weigel
 
 ### Remarks
 null

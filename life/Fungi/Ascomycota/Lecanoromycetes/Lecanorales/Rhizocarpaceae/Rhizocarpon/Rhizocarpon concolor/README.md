@@ -1,5 +1,4 @@
-Rhizocarpon concolor (Nyl.) Zahlbr. SPECIES
-=======
+# Rhizocarpon concolor (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Acrotheca giordani Rambelli SPECIES
-=======
+# Acrotheca giordanii Rambelli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 11(1-2): 141 (1959)
 
 #### Original name
-Acrotheca giordani Rambelli
+Acrotheca giordanii Rambelli
 
 ### Remarks
 null

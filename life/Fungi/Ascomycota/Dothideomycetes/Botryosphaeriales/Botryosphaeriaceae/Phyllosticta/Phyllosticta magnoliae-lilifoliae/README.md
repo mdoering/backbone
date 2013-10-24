@@ -1,5 +1,4 @@
-Phyllosticta magnoliae-lilifoliae Miura SPECIES
-=======
+# Phyllosticta magnoliae-lilifoliae Miura SPECIES
 
 #### Status
 ACCEPTED

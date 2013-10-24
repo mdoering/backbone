@@ -1,5 +1,4 @@
-Aspicilia curvabilis (Nyl.) Hue SPECIES
-=======
+# Aspicilia curvabilis (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

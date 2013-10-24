@@ -1,5 +1,4 @@
-Meliola dognyensis B. Huguenin SPECIES
-=======
+# Meliola dognyensis B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon americanum Demoulin SPECIES
-=======
+# Lycoperdon americanum Demoulin SPECIES
 
 #### Status
 ACCEPTED

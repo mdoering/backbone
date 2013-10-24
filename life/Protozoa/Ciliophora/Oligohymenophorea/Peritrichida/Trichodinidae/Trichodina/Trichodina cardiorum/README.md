@@ -1,5 +1,4 @@
-Trichodina cardiorum Raabe & Raabe, 1959 SPECIES
-=======
+# Trichodina cardiorum Raabe & Raabe, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium alchorneae-rugosae Gjaerum & D.A. Reid SPECIES
-=======
+# Aecidium alchorneae-rugosae Gjaerum & D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

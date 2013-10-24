@@ -1,5 +1,4 @@
-Polythyrium pernambucensis Bat. & J.L. Bezerra SPECIES
-=======
+# Polythyrium pernambucensis Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

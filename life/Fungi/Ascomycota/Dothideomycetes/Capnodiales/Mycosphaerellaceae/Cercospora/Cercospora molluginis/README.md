@@ -1,5 +1,4 @@
-Cercospora molluginis Davis SPECIES
-=======
+# Cercospora molluginis Davis SPECIES
 
 #### Status
 ACCEPTED

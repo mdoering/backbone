@@ -1,5 +1,4 @@
-Sydowia versiformis M.E. Barr SPECIES
-=======
+# Sydowia versiformis M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

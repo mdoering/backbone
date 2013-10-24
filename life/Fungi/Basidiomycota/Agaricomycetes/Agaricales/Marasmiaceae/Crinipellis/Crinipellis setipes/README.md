@@ -1,5 +1,4 @@
-Crinipellis setipes (Peck) Singer SPECIES
-=======
+# Crinipellis setipes (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

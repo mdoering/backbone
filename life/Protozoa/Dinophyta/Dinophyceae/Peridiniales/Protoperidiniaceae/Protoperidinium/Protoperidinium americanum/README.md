@@ -1,5 +1,4 @@
-Protoperidinium americanum (Gran & Braarud) Balech SPECIES
-=======
+# Protoperidinium americanum (Gran & Braarud) Balech SPECIES
 
 #### Status
 ACCEPTED

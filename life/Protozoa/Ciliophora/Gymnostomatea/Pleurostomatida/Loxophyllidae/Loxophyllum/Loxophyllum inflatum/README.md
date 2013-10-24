@@ -1,5 +1,4 @@
-Loxophyllum inflatum SPECIES
-=======
+# Loxophyllum inflatum SPECIES
 
 #### Status
 ACCEPTED

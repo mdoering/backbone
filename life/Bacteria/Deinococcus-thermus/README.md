@@ -1,5 +1,4 @@
-Deinococcus-thermus PHYLUM
-=======
+# Deinococcus-thermus PHYLUM
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena lepida Maas Geest. & de Meijer SPECIES
-=======
+# Mycena lepida Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

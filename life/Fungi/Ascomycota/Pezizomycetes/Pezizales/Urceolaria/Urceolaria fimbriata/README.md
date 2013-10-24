@@ -1,5 +1,4 @@
-Urceolaria fimbriata Ach. SPECIES
-=======
+# Urceolaria fimbriata Ach. SPECIES
 
 #### Status
 ACCEPTED

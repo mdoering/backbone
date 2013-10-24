@@ -1,5 +1,4 @@
-Lecidea nana Vain. SPECIES
-=======
+# Lecidea nana Vain. SPECIES
 
 #### Status
 ACCEPTED

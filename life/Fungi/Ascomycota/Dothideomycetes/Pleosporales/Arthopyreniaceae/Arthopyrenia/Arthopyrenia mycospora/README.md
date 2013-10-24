@@ -1,5 +1,4 @@
-Arthopyrenia mycospora (C. Knight) Müll. Arg. SPECIES
-=======
+# Arthopyrenia mycospora (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

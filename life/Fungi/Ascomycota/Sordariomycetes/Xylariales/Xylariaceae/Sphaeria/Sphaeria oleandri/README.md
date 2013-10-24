@@ -1,5 +1,4 @@
-Sphaeria oleandri Durieu & Mont. SPECIES
-=======
+# Sphaeria oleandri Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

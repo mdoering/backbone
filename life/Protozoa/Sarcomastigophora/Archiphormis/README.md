@@ -1,5 +1,4 @@
-Archiphormis Haeckel, 1881 GENUS
-=======
+# Archiphormis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

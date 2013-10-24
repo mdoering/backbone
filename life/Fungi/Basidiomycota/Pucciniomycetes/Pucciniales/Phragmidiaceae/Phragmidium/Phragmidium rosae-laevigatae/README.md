@@ -1,5 +1,4 @@
-Phragmidium rosae-laevigatae Fujik. SPECIES
-=======
+# Phragmidium rosae-laevigatae Fujik. SPECIES
 
 #### Status
 ACCEPTED

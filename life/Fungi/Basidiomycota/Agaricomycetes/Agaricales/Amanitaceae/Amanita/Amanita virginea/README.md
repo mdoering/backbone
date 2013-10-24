@@ -1,5 +1,4 @@
-Amanita virginea Massee SPECIES
-=======
+# Amanita virginea Massee SPECIES
 
 #### Status
 ACCEPTED

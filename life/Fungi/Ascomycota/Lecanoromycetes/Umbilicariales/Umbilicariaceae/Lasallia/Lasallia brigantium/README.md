@@ -1,5 +1,4 @@
-Lasallia brigantium (Zschacke) Llano SPECIES
-=======
+# Lasallia brigantium (Zschacke) Llano SPECIES
 
 #### Status
 ACCEPTED

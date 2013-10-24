@@ -1,5 +1,4 @@
-Euglena clavata Skuja SPECIES
-=======
+# Euglena clavata Skuja SPECIES
 
 #### Status
 ACCEPTED

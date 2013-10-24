@@ -1,5 +1,4 @@
-Planulinoides srinivasani Gupta & Sen Gupta, 1993 SPECIES
-=======
+# Planulinoides srinivasani Gupta & Sen Gupta, 1993 SPECIES
 
 #### Status
 ACCEPTED

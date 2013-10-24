@@ -1,5 +1,4 @@
-Agaricus gracilenta Cooke & Massee SPECIES
-=======
+# Agaricus gracilenta Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Veramycella bispora G. Delgado SPECIES
-=======
+# Veramycella bispora G. Delgado SPECIES
 
 #### Status
 ACCEPTED

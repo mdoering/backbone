@@ -1,5 +1,4 @@
-Platysma perlatum (Huds.) Frege SPECIES
-=======
+# Platysma perlatum (Huds.) Frege SPECIES
 
 #### Status
 ACCEPTED

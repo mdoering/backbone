@@ -1,5 +1,4 @@
-Hypophyllum scriblita Paulet SPECIES
-=======
+# Hypophyllum scriblita Paulet SPECIES
 
 #### Status
 ACCEPTED

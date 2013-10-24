@@ -1,17 +1,16 @@
-Endocarpon lepadinum var. lepadinum VARIETY
-=======
+# Thelotrema lepadinum (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encycl. Méth. Bot. , Suppl. 3: 409 (1826)
+Method. Lich. 132 (1803)
 
 #### Original name
-Endocarpon lepadinum var. lepadinum
+Lichen lepadinus Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Helotium furinum Velen. SPECIES
-=======
+# Helotium furinum Velen. SPECIES
 
 #### Status
 ACCEPTED

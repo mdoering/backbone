@@ -1,5 +1,4 @@
-Psorinia conglomerata (Ach.) Gotth. Schneid. SPECIES
-=======
+# Psorinia conglomerata (Ach.) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

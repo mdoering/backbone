@@ -1,5 +1,4 @@
-Bullera globospora B.N. Johri & Bandoni SPECIES
-=======
+# Bullera globospora B.N. Johri & Bandoni SPECIES
 
 #### Status
 ACCEPTED

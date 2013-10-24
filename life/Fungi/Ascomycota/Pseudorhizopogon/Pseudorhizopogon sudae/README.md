@@ -1,5 +1,4 @@
-Pseudorhizopogon sudae Kobayasi, 1983 SPECIES
-=======
+# Pseudorhizopogon sudae Kobayasi, 1983 SPECIES
 
 #### Status
 ACCEPTED

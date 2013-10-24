@@ -1,5 +1,4 @@
-Phyllachora forsteroniae (Rehm) Petr., 1934 SPECIES
-=======
+# Phyllachora forsteroniae (Rehm) Petr., 1934 SPECIES
 
 #### Status
 DOUBTFUL

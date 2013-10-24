@@ -1,5 +1,4 @@
-Pestalotiopsis cryptomeriae (Cooke) B. Sutton SPECIES
-=======
+# Pestalotiopsis cryptomeriae (Cooke) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

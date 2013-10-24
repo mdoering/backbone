@@ -1,5 +1,4 @@
-Linotexis GENUS
-=======
+# Linotexis GENUS
 
 #### Status
 ACCEPTED

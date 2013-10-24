@@ -1,5 +1,4 @@
-Segestrella massalongiana (Hepp) Beltr. SPECIES
-=======
+# Segestrella massalongiana (Hepp) Beltr. SPECIES
 
 #### Status
 ACCEPTED

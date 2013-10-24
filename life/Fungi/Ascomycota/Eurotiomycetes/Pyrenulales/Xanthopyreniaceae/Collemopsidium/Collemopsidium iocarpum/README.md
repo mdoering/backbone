@@ -1,14 +1,13 @@
-Pyrenopsis iocarpa Nyl. SPECIES
-=======
+# Collemopsidium iocarpum (Nyl.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 64: (1881)
 
 #### Original name
 Pyrenopsis iocarpa Nyl.

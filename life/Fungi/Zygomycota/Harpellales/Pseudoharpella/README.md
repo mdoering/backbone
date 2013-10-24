@@ -1,5 +1,4 @@
-Pseudoharpella Ferrington, M.M. White & Lichtw. GENUS
-=======
+# Pseudoharpella Ferrington, M.M. White & Lichtw. GENUS
 
 #### Status
 ACCEPTED

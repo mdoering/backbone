@@ -1,5 +1,4 @@
-Isaria arbuscula Bres. & Roum. SPECIES
-=======
+# Isaria arbuscula Bres. & Roum. SPECIES
 
 #### Status
 ACCEPTED

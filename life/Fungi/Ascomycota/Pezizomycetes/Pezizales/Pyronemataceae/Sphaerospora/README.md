@@ -1,5 +1,4 @@
-Sphaerospora GENUS
-=======
+# Sphaerospora GENUS
 
 #### Status
 ACCEPTED

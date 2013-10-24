@@ -1,5 +1,4 @@
-Diplodinula smilacis (Ellis & Everh.) Tassi SPECIES
-=======
+# Diplodinula smilacis (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

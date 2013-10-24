@@ -1,5 +1,4 @@
-Microsphaera caprifoliacearum U. Braun SPECIES
-=======
+# Microsphaera caprifoliacearum U. Braun SPECIES
 
 #### Status
 ACCEPTED

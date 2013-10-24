@@ -1,5 +1,4 @@
-Sphaeria albomaculans Schwein. SPECIES
-=======
+# Sphaeria albomaculans Schwein. SPECIES
 
 #### Status
 ACCEPTED

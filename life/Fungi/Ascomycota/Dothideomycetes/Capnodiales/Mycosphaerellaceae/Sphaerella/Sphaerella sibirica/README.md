@@ -1,5 +1,4 @@
-Sphaerella sibirica Thüm. SPECIES
-=======
+# Sphaerella sibirica Thüm. SPECIES
 
 #### Status
 ACCEPTED

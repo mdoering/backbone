@@ -1,5 +1,4 @@
-Phragmidium octoloculare Barclay SPECIES
-=======
+# Phragmidium octoloculare Barclay SPECIES
 
 #### Status
 ACCEPTED

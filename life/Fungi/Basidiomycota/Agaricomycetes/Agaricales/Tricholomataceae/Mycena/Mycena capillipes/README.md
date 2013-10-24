@@ -1,5 +1,4 @@
-Mycena capillipes Peck SPECIES
-=======
+# Mycena capillipes Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphistaurus Schewiakoff, 1926 GENUS
-=======
+# Amphistaurus Schewiakoff, 1926 GENUS
 
 #### Status
 ACCEPTED

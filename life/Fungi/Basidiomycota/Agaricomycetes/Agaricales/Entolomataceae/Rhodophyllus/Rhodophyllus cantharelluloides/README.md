@@ -1,5 +1,4 @@
-Rhodophyllus cantharelluloides Singer SPECIES
-=======
+# Rhodophyllus cantharelluloides Singer SPECIES
 
 #### Status
 ACCEPTED

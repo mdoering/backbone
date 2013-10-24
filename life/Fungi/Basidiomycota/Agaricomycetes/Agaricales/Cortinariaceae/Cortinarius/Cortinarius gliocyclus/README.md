@@ -1,5 +1,4 @@
-Cortinarius gliocyclus E. Horak SPECIES
-=======
+# Cortinarius gliocyclus E. Horak SPECIES
 
 #### Status
 ACCEPTED

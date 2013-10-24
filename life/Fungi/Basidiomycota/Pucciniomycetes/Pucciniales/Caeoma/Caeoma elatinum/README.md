@@ -1,5 +1,4 @@
-Caeoma elatinum Link SPECIES
-=======
+# Caeoma elatinum Link SPECIES
 
 #### Status
 ACCEPTED

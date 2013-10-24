@@ -1,5 +1,4 @@
-Cyathella striata (Huds.) Brot. SPECIES
-=======
+# Cyathella striata (Huds.) Brot. SPECIES
 
 #### Status
 ACCEPTED

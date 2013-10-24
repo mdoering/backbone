@@ -1,5 +1,4 @@
-Mycosphaerella pericampyli Syd. SPECIES
-=======
+# Mycosphaerella pericampyli Syd. SPECIES
 
 #### Status
 ACCEPTED

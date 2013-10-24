@@ -1,14 +1,13 @@
-Verrucaria melanobapha Kremp. SPECIES
-=======
+# Strigula melanobapha (Kremp.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Foliic. Leg. Beccari 18 (1874)
+Symb. bot. upsal. 12(no. 1): 188 (1952)
 
 #### Original name
 Verrucaria melanobapha Kremp.

@@ -1,5 +1,4 @@
-Carpophoromyces Thaxt. GENUS
-=======
+# Carpophoromyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

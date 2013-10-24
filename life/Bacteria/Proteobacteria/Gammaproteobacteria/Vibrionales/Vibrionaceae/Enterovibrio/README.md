@@ -1,5 +1,4 @@
-Enterovibrio Thompson et al., 2002 GENUS
-=======
+# Enterovibrio Thompson et al., 2002 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septonema breviarticulatum Berk. & M.A. Curtis SPECIES
-=======
+# Septonema breviarticulatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

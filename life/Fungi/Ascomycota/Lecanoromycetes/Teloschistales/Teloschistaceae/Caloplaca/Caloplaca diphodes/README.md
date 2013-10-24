@@ -1,5 +1,4 @@
-Caloplaca diphodes (Nyl.) Jatta SPECIES
-=======
+# Caloplaca diphodes (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

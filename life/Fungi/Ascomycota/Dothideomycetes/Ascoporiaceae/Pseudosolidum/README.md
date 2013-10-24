@@ -1,5 +1,4 @@
-Pseudosolidum Lloyd GENUS
-=======
+# Pseudosolidum Lloyd GENUS
 
 #### Status
 ACCEPTED

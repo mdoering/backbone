@@ -1,5 +1,4 @@
-Acidimicrobium Clark & Norris, 1996 GENUS
-=======
+# Acidimicrobium Clark & Norris, 1996 GENUS
 
 #### Status
 ACCEPTED

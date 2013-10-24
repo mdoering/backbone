@@ -1,5 +1,4 @@
-Mycosyrinx Beck GENUS
-=======
+# Mycosyrinx Beck GENUS
 
 #### Status
 ACCEPTED

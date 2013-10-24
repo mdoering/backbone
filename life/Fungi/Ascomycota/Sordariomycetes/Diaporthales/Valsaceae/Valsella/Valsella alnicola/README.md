@@ -1,5 +1,4 @@
-Valsella alnicola Berl. SPECIES
-=======
+# Valsella alnicola Berl. SPECIES
 
 #### Status
 ACCEPTED

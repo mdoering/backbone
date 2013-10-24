@@ -1,5 +1,4 @@
-Leciophysma finmarkicum Th. Fr. SPECIES
-=======
+# Leciophysma finmarkicum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hoegklintia corallina (Eisenack, 1959) Le Hérissé, 1989 SPECIES
-=======
+# Hoegklintia corallina (Eisenack, 1959) Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

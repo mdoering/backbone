@@ -1,5 +1,4 @@
-Ingvariella Guderley & Lumbsch GENUS
-=======
+# Ingvariella Guderley & Lumbsch GENUS
 
 #### Status
 ACCEPTED

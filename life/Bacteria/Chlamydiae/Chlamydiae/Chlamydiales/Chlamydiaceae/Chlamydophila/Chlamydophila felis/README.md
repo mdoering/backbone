@@ -1,5 +1,4 @@
-Chlamydophila felis Everett et al., 1999 SPECIES
-=======
+# Chlamydophila felis Everett et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

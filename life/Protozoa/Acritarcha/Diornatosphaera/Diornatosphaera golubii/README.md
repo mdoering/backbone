@@ -1,5 +1,4 @@
-Diornatosphaera golubii (Fensome et al., 1990) Paalits & Heuse, 2000 SPECIES
-=======
+# Diornatosphaera golubii (Fensome et al., 1990) Paalits & Heuse, 2000 SPECIES
 
 #### Status
 ACCEPTED

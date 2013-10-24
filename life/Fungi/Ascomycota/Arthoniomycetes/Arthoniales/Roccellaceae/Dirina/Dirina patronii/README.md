@@ -1,5 +1,4 @@
-Dirina patronii Bagl. SPECIES
-=======
+# Dirina patronii Bagl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epichloë oplismeni Henn. SPECIES
-=======
+# Epichloë oplismeni Henn. SPECIES
 
 #### Status
 ACCEPTED

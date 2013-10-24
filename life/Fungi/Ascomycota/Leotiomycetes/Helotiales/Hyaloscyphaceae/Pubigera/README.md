@@ -1,5 +1,4 @@
-Pubigera Baral, Gminder & Svrcek GENUS
-=======
+# Pubigera Baral, Gminder & Svrcek GENUS
 
 #### Status
 ACCEPTED

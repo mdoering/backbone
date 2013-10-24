@@ -1,5 +1,4 @@
-Aleurina vinacea (Clem.) Sacc. & P. Syd. SPECIES
-=======
+# Aleurina vinacea (Clem.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allodus yosemitana (Blasdale) Arthur & Orton SPECIES
-=======
+# Allodus yosemitana (Blasdale) Arthur & Orton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lamprospora wisconsinensis Seaver SPECIES
-=======
+# Lamprospora wisconsinensis Seaver SPECIES
 
 #### Status
 ACCEPTED

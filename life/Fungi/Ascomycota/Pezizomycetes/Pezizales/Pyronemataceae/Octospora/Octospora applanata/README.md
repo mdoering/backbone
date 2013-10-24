@@ -1,5 +1,4 @@
-Octospora applanata Hedw. SPECIES
-=======
+# Octospora applanata Hedw. SPECIES
 
 #### Status
 ACCEPTED

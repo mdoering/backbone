@@ -1,5 +1,4 @@
-Squamarina serpentini Poelt SPECIES
-=======
+# Squamarina serpentini Poelt SPECIES
 
 #### Status
 ACCEPTED

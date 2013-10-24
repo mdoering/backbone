@@ -1,5 +1,4 @@
-Valeria T.V. Jankauskas, 1982 GENUS
-=======
+# Valeria T.V. Jankauskas, 1982 GENUS
 
 #### Status
 ACCEPTED

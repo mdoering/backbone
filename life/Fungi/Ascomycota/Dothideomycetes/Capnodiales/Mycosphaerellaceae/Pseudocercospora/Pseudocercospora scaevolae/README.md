@@ -1,5 +1,4 @@
-Pseudocercospora scaevolae U. Braun & Mouch. SPECIES
-=======
+# Pseudocercospora scaevolae U. Braun & Mouch. SPECIES
 
 #### Status
 ACCEPTED

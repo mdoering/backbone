@@ -1,5 +1,4 @@
-Myriotrema halei (Tuck. & Mont.) Hale SPECIES
-=======
+# Myriotrema halei (Tuck. & Mont.) Hale SPECIES
 
 #### Status
 ACCEPTED

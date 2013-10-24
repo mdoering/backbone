@@ -1,5 +1,4 @@
-Lecanorella detritula Motyka SPECIES
-=======
+# Lecanorella detritula Motyka SPECIES
 
 #### Status
 ACCEPTED

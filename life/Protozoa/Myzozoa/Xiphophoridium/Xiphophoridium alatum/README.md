@@ -1,5 +1,4 @@
-Xiphophoridium alatum (Cookson & Eisenack, 1962) Sarjeant SPECIES
-=======
+# Xiphophoridium alatum (Cookson & Eisenack, 1962) Sarjeant SPECIES
 
 #### Status
 ACCEPTED

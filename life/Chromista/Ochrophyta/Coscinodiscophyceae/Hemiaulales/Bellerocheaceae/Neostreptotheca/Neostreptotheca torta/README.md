@@ -1,5 +1,4 @@
-Neostreptotheca torta f. triangularis von Stosch FORM
-=======
+# Neostreptotheca torta von Stosch SPECIES
 
 #### Status
 ACCEPTED

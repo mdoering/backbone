@@ -1,5 +1,4 @@
-Exidia uvapassa Lloyd SPECIES
-=======
+# Exidia uvapassa Lloyd SPECIES
 
 #### Status
 ACCEPTED

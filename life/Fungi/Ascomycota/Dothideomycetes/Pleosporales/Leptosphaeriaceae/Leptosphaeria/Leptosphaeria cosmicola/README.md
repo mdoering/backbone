@@ -1,5 +1,4 @@
-Leptosphaeria cosmicola Chipl. SPECIES
-=======
+# Leptosphaeria cosmicola Chipl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Characium minutum A. Braun SPECIES
-=======
+# Pseudocharaciopsis minuta (A. Braun) Hibberd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

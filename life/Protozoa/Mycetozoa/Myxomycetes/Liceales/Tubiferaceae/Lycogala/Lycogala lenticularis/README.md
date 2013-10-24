@@ -1,5 +1,4 @@
-Lycogala lenticularis Durieu & Mont. SPECIES
-=======
+# Lycogala lenticularis Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea kirinensis Chao {?}, Hsa {?} & Sun {?} SPECIES
-=======
+# Usnea kirinensis Chao {?}, Hsa {?} & Sun {?} SPECIES
 
 #### Status
 ACCEPTED

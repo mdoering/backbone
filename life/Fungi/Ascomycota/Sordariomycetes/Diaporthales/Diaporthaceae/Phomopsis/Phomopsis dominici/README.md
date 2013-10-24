@@ -1,5 +1,4 @@
-Phomopsis dominici (Traverso) Sacc. & D. Sacc. SPECIES
-=======
+# Phomopsis dominici (Traverso) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

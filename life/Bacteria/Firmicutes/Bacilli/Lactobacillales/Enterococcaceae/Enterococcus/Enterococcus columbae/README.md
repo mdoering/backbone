@@ -1,5 +1,4 @@
-Enterococcus columbae Devriese et al., 1993 SPECIES
-=======
+# Enterococcus columbae Devriese et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

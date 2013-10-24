@@ -1,5 +1,4 @@
-Neopericonia Kamal, A.N. Rai & Morgan-Jones GENUS
-=======
+# Neopericonia Kamal, A.N. Rai & Morgan-Jones GENUS
 
 #### Status
 ACCEPTED

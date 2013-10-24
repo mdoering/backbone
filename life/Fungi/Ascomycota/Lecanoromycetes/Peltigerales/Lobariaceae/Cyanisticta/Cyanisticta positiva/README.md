@@ -1,5 +1,4 @@
-Cyanisticta positiva Gyeln. SPECIES
-=======
+# Cyanisticta positiva Gyeln. SPECIES
 
 #### Status
 ACCEPTED

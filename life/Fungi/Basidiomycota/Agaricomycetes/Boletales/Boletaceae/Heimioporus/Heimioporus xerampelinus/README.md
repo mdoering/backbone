@@ -1,14 +1,13 @@
-Boletellus xerampelinus M. Zang & W.K. Zheng, 1986 SPECIES
-=======
+# Heimioporus xerampelinus (M. Zang & W.K. Zheng) E. Horak, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Zang, Acta bot. Yunn. 7(4): 394 (1985)
+Sydowia 56(2): 239 (2004)
 
 #### Original name
 Boletellus xerampelinus M. Zang & W.K. Zheng, 1986

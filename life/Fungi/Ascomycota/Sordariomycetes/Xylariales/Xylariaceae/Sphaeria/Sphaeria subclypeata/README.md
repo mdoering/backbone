@@ -1,5 +1,4 @@
-Sphaeria subclypeata Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria subclypeata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

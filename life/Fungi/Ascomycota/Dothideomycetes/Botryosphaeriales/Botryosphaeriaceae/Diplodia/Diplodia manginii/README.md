@@ -1,8 +1,7 @@
-Diplodia mangini Rayss SPECIES
-=======
+# Diplodia manginii Rayss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diplodia mangini Rayss
+Diplodia manginii Rayss
 
 ### Remarks
 null

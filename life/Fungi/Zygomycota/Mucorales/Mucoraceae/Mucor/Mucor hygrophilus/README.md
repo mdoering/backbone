@@ -1,5 +1,4 @@
-Mucor hygrophilus Oudem. SPECIES
-=======
+# Mucor hygrophilus Oudem. SPECIES
 
 #### Status
 ACCEPTED

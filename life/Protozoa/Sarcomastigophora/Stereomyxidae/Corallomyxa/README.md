@@ -1,5 +1,4 @@
-Corallomyxa Grell, 1965 GENUS
-=======
+# Corallomyxa Grell, 1965 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Auloscenium Haeckel, 1887 GENUS
-=======
+# Auloscenium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

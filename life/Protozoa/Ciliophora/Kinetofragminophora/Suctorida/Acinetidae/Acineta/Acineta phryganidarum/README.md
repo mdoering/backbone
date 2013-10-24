@@ -1,5 +1,4 @@
-Acineta phryganidarum SPECIES
-=======
+# Acineta phryganidarum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Erysiphe pachypodiae Lebeda SPECIES
-=======
+# Erysiphe pachypodii Lebeda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Lebeda, Mieslerová & Dolealová, J. Phytopath. 150(3): 152 (2002)
 
 #### Original name
-Erysiphe pachypodiae Lebeda
+Erysiphe pachypodii Lebeda
 
 ### Remarks
 null

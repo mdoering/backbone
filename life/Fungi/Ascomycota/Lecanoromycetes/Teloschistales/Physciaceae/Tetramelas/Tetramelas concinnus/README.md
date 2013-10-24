@@ -1,17 +1,16 @@
-Buellia concinna var. concinna VARIETY
-=======
+# Tetramelas concinnus (Th. Fr.) Giralt SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Buellia concinna var. concinna
+null
 
 ### Remarks
 null

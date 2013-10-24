@@ -1,5 +1,4 @@
-Scyphidia beebei Nenninger, 1948 SPECIES
-=======
+# Scyphidia beebei Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

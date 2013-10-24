@@ -1,5 +1,4 @@
-Dictyopeltella Bat. & I.H. Lima GENUS
-=======
+# Dictyopeltella Bat. & I.H. Lima GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neonectria tokuoensis Hirooka & Tak. Kobay. SPECIES
-=======
+# Neonectria tokuoensis Hirooka & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

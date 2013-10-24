@@ -1,5 +1,4 @@
-Favolus papulosus Ces. SPECIES
-=======
+# Favolus papulosus Ces. SPECIES
 
 #### Status
 ACCEPTED

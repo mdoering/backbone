@@ -1,5 +1,4 @@
-Rhodocybe cyathoidea (Cooke & Massee) E. Horak SPECIES
-=======
+# Rhodocybe cyathoidea (Cooke & Massee) E. Horak SPECIES
 
 #### Status
 ACCEPTED

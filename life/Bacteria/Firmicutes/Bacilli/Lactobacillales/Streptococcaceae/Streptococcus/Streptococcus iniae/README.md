@@ -1,5 +1,4 @@
-Streptococcus iniae Pier and Madin, 1976 (Approved Lists, 1980) SPECIES
-=======
+# Streptococcus iniae Pier and Madin, 1976 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

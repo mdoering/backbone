@@ -1,5 +1,4 @@
-Asterina elmeri Syd. & P. Syd. SPECIES
-=======
+# Asterina elmeri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

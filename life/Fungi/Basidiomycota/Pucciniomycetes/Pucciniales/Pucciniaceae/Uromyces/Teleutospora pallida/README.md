@@ -1,5 +1,4 @@
-Teleutospora pallida (Niessl) Syd. SPECIES
-=======
+# Teleutospora pallida (Niessl) Syd. SPECIES
 
 #### Status
 ACCEPTED

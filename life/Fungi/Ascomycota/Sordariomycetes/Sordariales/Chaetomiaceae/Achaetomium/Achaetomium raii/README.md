@@ -1,5 +1,4 @@
-Achaetomium raii Locq.-Lin. SPECIES
-=======
+# Achaetomium raii Locq.-Lin. SPECIES
 
 #### Status
 ACCEPTED

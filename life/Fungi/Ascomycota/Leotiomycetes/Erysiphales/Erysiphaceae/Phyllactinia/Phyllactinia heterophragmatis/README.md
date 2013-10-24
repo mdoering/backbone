@@ -1,5 +1,4 @@
-Phyllactinia heterophragmatis T.S. Ramakr. SPECIES
-=======
+# Phyllactinia heterophragmatis T.S. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum serpuloides Henn. SPECIES
-=======
+# Hydnum serpuloides Henn. SPECIES
 
 #### Status
 ACCEPTED

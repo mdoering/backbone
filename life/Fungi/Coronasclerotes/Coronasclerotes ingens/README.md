@@ -1,5 +1,4 @@
-Coronasclerotes ingens Stach & Pickh. SPECIES
-=======
+# Coronasclerotes ingens Stach & Pickh. SPECIES
 
 #### Status
 ACCEPTED

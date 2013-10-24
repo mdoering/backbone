@@ -1,5 +1,4 @@
-Thelotrema ahtii Sipman SPECIES
-=======
+# Thelotrema ahtii Sipman SPECIES
 
 #### Status
 ACCEPTED

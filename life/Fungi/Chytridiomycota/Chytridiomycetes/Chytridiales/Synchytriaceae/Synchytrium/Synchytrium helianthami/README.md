@@ -1,5 +1,4 @@
-Synchytrium helianthami Trotter SPECIES
-=======
+# Synchytrium helianthami Trotter SPECIES
 
 #### Status
 ACCEPTED

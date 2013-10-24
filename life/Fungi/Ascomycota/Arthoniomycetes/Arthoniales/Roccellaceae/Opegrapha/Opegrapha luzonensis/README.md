@@ -1,5 +1,4 @@
-Opegrapha luzonensis Sérus. SPECIES
-=======
+# Opegrapha luzonensis Sérus. SPECIES
 
 #### Status
 ACCEPTED

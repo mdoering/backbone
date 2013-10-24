@@ -1,5 +1,4 @@
-Septoria toxicodendri M.A. Curtis SPECIES
-=======
+# Septoria toxicodendri M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

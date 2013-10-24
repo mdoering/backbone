@@ -1,5 +1,4 @@
-Candida jianshihensis C.F. Lee & C.H. Liu SPECIES
-=======
+# Candida jianshihensis C.F. Lee & C.H. Liu SPECIES
 
 #### Status
 ACCEPTED

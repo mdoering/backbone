@@ -1,5 +1,4 @@
-Rhizopogon briardii Boud. SPECIES
-=======
+# Rhizopogon briardii Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius alopecuis (Berk. & M.A. Curtis) Neda SPECIES
-=======
+# Marasmius alopecuis (Berk. & M.A. Curtis) Neda SPECIES
 
 #### Status
 ACCEPTED

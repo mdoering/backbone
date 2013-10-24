@@ -1,5 +1,4 @@
-Flammula eucalyptorum Cleland SPECIES
-=======
+# Flammula eucalyptorum Cleland SPECIES
 
 #### Status
 ACCEPTED

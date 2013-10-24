@@ -1,5 +1,4 @@
-Cuneospirella Cherchi, Schroeder & Ruberti, 2009 GENUS
-=======
+# Cuneospirella Cherchi, Schroeder & Ruberti, 2009 GENUS
 
 #### Status
 ACCEPTED

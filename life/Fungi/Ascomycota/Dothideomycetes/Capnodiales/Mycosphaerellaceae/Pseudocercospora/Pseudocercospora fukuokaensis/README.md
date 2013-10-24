@@ -1,5 +1,4 @@
-Pseudocercospora fukuokaensis (Chupp) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora fukuokaensis (Chupp) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium lentocellum Murray et al., 1987 SPECIES
-=======
+# Clostridium lentocellum Murray et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

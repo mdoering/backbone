@@ -1,5 +1,4 @@
-Lembosia heptapleuri Sacc. SPECIES
-=======
+# Lembosia heptapleuri Sacc. SPECIES
 
 #### Status
 ACCEPTED

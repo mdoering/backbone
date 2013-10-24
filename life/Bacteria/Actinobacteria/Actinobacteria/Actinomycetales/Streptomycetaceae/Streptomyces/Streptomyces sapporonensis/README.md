@@ -1,11 +1,10 @@
-Streptoverticillium sapporonensis (Sakai & Miyoshi, 1972) Arai, 1976 SPECIES
-=======
+# Streptomyces sapporonensis (Locci & Schofield, 1989) Witt & Stackebrandt, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

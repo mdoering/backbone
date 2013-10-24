@@ -1,5 +1,4 @@
-Hypocrea cerebriformis Berk., 1872 SPECIES
-=======
+# Hypocrea cerebriformis Berk., 1872 SPECIES
 
 #### Status
 ACCEPTED

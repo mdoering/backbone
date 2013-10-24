@@ -1,5 +1,4 @@
-Lagynus cucumis (Penard, 1922) Buitkamp, 1977 SPECIES
-=======
+# Lagynus cucumis (Penard, 1922) Buitkamp, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria aspecta Breuss SPECIES
-=======
+# Verrucaria aspecta Breuss SPECIES
 
 #### Status
 ACCEPTED

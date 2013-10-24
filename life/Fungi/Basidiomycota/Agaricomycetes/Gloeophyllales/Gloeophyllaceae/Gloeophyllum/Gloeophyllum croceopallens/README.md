@@ -1,5 +1,4 @@
-Gloeophyllum croceopallens Bres. SPECIES
-=======
+# Gloeophyllum croceopallens Bres. SPECIES
 
 #### Status
 ACCEPTED

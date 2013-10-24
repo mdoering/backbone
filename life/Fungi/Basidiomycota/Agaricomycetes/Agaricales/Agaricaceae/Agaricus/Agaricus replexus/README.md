@@ -1,5 +1,4 @@
-Agaricus replexus Fr. SPECIES
-=======
+# Agaricus replexus Fr. SPECIES
 
 #### Status
 ACCEPTED

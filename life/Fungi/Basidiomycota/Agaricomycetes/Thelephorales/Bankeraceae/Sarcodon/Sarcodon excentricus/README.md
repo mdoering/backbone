@@ -1,5 +1,4 @@
-Sarcodon excentricus Coker & Beers ex R.E. Baird, 1985 SPECIES
-=======
+# Sarcodon excentricus Coker & Beers ex R.E. Baird, 1985 SPECIES
 
 #### Status
 ACCEPTED

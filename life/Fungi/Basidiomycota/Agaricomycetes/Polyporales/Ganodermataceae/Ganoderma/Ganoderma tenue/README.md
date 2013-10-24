@@ -1,5 +1,4 @@
-Ganoderma tenue J.D. Zhao, L.W. Hsu & X.Q. Zhang, 1979 SPECIES
-=======
+# Ganoderma tenue J.D. Zhao, L.W. Hsu & X.Q. Zhang, 1979 SPECIES
 
 #### Status
 ACCEPTED

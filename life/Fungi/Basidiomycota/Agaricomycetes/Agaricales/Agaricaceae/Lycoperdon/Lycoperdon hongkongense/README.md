@@ -1,5 +1,4 @@
-Lycoperdon hongkongense Berk. & M.A. Curtis SPECIES
-=======
+# Lycoperdon hongkongense Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

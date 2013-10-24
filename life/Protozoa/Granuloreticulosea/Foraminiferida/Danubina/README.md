@@ -1,5 +1,4 @@
-Danubina Neagu, 1997 GENUS
-=======
+# Danubina Neagu, 1997 GENUS
 
 #### Status
 ACCEPTED

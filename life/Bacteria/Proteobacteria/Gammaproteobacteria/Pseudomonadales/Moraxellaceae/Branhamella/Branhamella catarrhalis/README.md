@@ -1,8 +1,7 @@
-Mikrokokkus catarrhalis Frosch & Kolle in Flügge, 1896 SPECIES
-=======
+# Branhamella catarrhalis (Frosch & Kolle, 1896) Catlin, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

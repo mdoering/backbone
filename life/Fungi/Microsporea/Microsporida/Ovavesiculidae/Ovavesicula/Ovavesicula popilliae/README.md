@@ -1,5 +1,4 @@
-Ovavesicula popilliae T.G. Andreadis & J.L. Hanula SPECIES
-=======
+# Ovavesicula popilliae T.G. Andreadis & J.L. Hanula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dentalina pomuligera Stache SPECIES
-=======
+# Dentalina pomuligera Stache SPECIES
 
 #### Status
 ACCEPTED

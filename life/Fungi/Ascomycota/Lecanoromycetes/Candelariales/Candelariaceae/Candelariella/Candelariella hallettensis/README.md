@@ -1,5 +1,4 @@
-Candelariella hallettensis (B.J. Murray) Øvstedal SPECIES
-=======
+# Candelariella hallettensis (B.J. Murray) Øvstedal SPECIES
 
 #### Status
 ACCEPTED

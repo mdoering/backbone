@@ -1,5 +1,4 @@
-Sphaeria mesascium De Not. SPECIES
-=======
+# Sphaeria mesascium De Not. SPECIES
 
 #### Status
 ACCEPTED

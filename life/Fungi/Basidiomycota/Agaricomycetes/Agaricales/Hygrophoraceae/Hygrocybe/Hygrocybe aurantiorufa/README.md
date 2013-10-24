@@ -1,5 +1,4 @@
-Hygrocybe aurantiorufa A. Pearson ex Pegler SPECIES
-=======
+# Hygrocybe aurantiorufa A. Pearson ex Pegler SPECIES
 
 #### Status
 ACCEPTED

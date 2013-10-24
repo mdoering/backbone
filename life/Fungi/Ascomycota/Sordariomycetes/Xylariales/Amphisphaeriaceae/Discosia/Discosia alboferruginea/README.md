@@ -1,5 +1,4 @@
-Discosia alboferruginea (Ellis & Everh.) Vanev SPECIES
-=======
+# Discosia alboferruginea (Ellis & Everh.) Vanev SPECIES
 
 #### Status
 ACCEPTED

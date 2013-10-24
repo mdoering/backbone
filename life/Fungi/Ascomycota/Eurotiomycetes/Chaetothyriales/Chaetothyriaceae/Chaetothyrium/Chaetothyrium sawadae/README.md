@@ -1,17 +1,16 @@
-Chaetothyrium sawadai W. Yamam. SPECIES
-=======
+# Chaetothyrium sawadae W. Yamam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. phytopath. Soc. Japan 21(4): 167 (1956)
 
 #### Original name
-Chaetothyrium sawadai W. Yamam.
+Chaetothyrium sawadae W. Yamam.
 
 ### Remarks
 null

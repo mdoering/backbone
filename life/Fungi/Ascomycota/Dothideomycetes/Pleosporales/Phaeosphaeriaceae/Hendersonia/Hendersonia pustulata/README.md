@@ -1,5 +1,4 @@
-Hendersonia pustulata Ellis & Everh. SPECIES
-=======
+# Hendersonia pustulata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

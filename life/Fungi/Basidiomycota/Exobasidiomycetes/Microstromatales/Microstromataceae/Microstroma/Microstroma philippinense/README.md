@@ -1,5 +1,4 @@
-Microstroma philippinense Syd. SPECIES
-=======
+# Microstroma philippinense Syd. SPECIES
 
 #### Status
 ACCEPTED

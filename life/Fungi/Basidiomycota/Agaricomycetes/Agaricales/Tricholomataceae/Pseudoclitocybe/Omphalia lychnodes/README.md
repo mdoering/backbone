@@ -1,5 +1,4 @@
-Omphalia lychnodes Berk. & Broome SPECIES
-=======
+# Omphalia lychnodes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

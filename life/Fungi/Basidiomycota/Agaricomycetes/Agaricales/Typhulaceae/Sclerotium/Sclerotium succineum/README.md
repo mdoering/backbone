@@ -1,5 +1,4 @@
-Sclerotium succineum Roberge ex Desm. SPECIES
-=======
+# Sclerotium succineum Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora sphenochleae Deighton SPECIES
-=======
+# Cercospora sphenocleae Deighton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 75: 36 (1959)
 
 #### Original name
-Cercospora sphenochleae Deighton
+Cercospora sphenocleae Deighton
 
 ### Remarks
 null

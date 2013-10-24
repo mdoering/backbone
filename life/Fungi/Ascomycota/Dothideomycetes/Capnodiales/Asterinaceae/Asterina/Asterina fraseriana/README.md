@@ -1,5 +1,4 @@
-Asterina fraseriana Syd. SPECIES
-=======
+# Asterina fraseriana Syd. SPECIES
 
 #### Status
 ACCEPTED

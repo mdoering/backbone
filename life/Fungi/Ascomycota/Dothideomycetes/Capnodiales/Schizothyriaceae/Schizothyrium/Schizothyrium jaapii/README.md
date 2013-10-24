@@ -1,5 +1,4 @@
-Schizothyrium jaapii (Rehm) Sacc. & Trotter SPECIES
-=======
+# Schizothyrium jaapii (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

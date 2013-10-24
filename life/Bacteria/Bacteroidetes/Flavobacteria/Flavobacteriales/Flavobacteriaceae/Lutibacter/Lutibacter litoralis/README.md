@@ -1,5 +1,4 @@
-Lutibacter litoralis Choi & Cho, 2006 SPECIES
-=======
+# Lutibacter litoralis Choi & Cho, 2006 SPECIES
 
 #### Status
 ACCEPTED

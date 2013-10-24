@@ -1,5 +1,4 @@
-Cyttarocylis laticollis Daday, 1887 SPECIES
-=======
+# Cyttarocylis laticollis Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Wickerhamomyces subpeliculosa (Kurtzman) Kurtzman, Robnett & Basehoar-Powers SPECIES
-=======
+# Wickerhamomyces subpelliculosa (Kurtzman) Kurtzman, Robnett & Basehoar-Powers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+FEMS Yeast Res. 8(6): 952 (2008)
 
 #### Original name
 Pichia subpelliculosa Kurtzman, 1984

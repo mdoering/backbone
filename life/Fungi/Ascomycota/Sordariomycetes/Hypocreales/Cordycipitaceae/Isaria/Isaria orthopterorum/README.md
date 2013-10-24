@@ -1,5 +1,4 @@
-Isaria orthopterorum Petch SPECIES
-=======
+# Isaria orthopterorum Petch SPECIES
 
 #### Status
 ACCEPTED

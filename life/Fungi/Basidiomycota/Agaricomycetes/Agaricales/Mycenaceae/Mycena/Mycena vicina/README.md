@@ -1,5 +1,4 @@
-Mycena vicina M. Villarreal, Heykoop & Maas Geest. SPECIES
-=======
+# Mycena vicina M. Villarreal, Heykoop & Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

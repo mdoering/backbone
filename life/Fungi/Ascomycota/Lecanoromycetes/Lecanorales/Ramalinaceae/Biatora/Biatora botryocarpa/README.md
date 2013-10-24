@@ -1,5 +1,4 @@
-Biatora botryocarpa (Nyl.) Arnold SPECIES
-=======
+# Biatora botryocarpa (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

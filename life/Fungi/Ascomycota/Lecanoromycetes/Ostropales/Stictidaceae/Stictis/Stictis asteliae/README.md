@@ -1,5 +1,4 @@
-Stictis asteliae P.R. Johnst. SPECIES
-=======
+# Stictis asteliae P.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

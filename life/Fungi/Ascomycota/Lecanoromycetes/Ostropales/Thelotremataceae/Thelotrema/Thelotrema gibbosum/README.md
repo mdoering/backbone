@@ -1,5 +1,4 @@
-Thelotrema gibbosum H. Magn. SPECIES
-=======
+# Thelotrema gibbosum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

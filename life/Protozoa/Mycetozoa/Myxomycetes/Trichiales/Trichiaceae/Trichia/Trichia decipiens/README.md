@@ -1,17 +1,16 @@
-Trichia fallax var. fallax Pers. VARIETY
-=======
+# Trichia decipiens (Pers.) T. Macbr., 1899 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Lipsiae) 1: 59 (1796)
+N. Amer. Slime-Moulds (New York) 218 (1899)
 
 #### Original name
-Trichia fallax var. fallax Pers.
+Arcyria decipiens Pers., 1795
 
 ### Remarks
 null

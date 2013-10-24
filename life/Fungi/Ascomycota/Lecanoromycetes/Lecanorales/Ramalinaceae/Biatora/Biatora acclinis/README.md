@@ -1,5 +1,4 @@
-Biatora acclinis (Flot.) Hepp SPECIES
-=======
+# Biatora acclinis (Flot.) Hepp SPECIES
 
 #### Status
 ACCEPTED

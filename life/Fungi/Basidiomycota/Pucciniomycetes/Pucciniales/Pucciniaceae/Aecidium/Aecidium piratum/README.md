@@ -1,5 +1,4 @@
-Aecidium piratum Schwein. SPECIES
-=======
+# Aecidium piratum Schwein. SPECIES
 
 #### Status
 ACCEPTED

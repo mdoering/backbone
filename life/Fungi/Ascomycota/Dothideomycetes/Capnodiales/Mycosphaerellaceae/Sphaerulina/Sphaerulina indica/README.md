@@ -1,5 +1,4 @@
-Sphaerulina indica Panwar & Singh {?} ined. SPECIES
-=======
+# Sphaerulina indica Panwar & Singh {?} ined. SPECIES
 
 #### Status
 ACCEPTED

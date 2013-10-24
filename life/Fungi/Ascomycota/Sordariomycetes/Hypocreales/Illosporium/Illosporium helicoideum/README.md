@@ -1,5 +1,4 @@
-Illosporium helicoideum Sacc. & Ellis SPECIES
-=======
+# Illosporium helicoideum Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

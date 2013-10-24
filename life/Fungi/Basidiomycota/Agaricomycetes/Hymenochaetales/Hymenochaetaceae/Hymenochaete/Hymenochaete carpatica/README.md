@@ -1,5 +1,4 @@
-Hymenochaete carpatica Pilát, 1930 SPECIES
-=======
+# Hymenochaete carpatica Pilát, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gluconacetobacter sacchari Franke et al., 1999 SPECIES
-=======
+# Gluconacetobacter sacchari Franke et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

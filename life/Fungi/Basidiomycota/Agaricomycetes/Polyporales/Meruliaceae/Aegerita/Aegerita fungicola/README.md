@@ -1,5 +1,4 @@
-Aegerita fungicola (Zeller) Hennebert SPECIES
-=======
+# Aegerita fungicola (Zeller) Hennebert SPECIES
 
 #### Status
 ACCEPTED

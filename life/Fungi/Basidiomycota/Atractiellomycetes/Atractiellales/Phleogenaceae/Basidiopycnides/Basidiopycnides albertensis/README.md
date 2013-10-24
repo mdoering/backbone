@@ -1,5 +1,4 @@
-Basidiopycnides albertensis J. Reid, Eyjólfsd. & Georg Hausner, 2008 SPECIES
-=======
+# Basidiopycnides albertensis J. Reid, Eyjólfsd. & Georg Hausner, 2008 SPECIES
 
 #### Status
 ACCEPTED

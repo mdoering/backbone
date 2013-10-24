@@ -1,5 +1,4 @@
-Isariopsella paspali Syd. SPECIES
-=======
+# Isariopsella paspali Syd. SPECIES
 
 #### Status
 ACCEPTED

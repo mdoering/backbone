@@ -1,5 +1,4 @@
-Dichothrix olivacea Bornet & Flahault SPECIES
-=======
+# Dichothrix olivacea Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

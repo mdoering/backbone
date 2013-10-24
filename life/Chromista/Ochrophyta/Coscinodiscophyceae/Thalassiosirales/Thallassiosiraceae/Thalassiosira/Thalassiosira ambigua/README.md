@@ -1,5 +1,4 @@
-Thalassiosira ambigua Kozlova, 1962 SPECIES
-=======
+# Thalassiosira ambigua Kozlova, 1962 SPECIES
 
 #### Status
 ACCEPTED

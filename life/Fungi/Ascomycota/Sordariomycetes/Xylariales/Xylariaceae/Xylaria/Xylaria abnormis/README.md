@@ -1,5 +1,4 @@
-Xylaria abnormis Berk. SPECIES
-=======
+# Xylaria abnormis Berk. SPECIES
 
 #### Status
 ACCEPTED

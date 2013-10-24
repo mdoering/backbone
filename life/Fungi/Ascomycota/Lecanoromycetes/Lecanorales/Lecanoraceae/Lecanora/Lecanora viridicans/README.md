@@ -1,5 +1,4 @@
-Lecanora viridicans Nyl. SPECIES
-=======
+# Lecanora viridicans Nyl. SPECIES
 
 #### Status
 ACCEPTED

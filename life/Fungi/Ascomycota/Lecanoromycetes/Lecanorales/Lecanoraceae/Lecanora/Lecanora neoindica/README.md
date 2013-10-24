@@ -1,5 +1,4 @@
-Lecanora neoindica Lumbsch SPECIES
-=======
+# Lecanora neoindica Lumbsch SPECIES
 
 #### Status
 ACCEPTED

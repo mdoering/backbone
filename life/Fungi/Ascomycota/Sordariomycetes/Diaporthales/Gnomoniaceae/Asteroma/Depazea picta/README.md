@@ -1,5 +1,4 @@
-Depazea picta Heer SPECIES
-=======
+# Depazea picta Heer SPECIES
 
 #### Status
 ACCEPTED

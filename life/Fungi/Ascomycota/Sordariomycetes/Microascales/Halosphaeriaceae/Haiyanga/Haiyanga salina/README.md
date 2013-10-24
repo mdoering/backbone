@@ -1,5 +1,4 @@
-Haiyanga salina (Meyers) K.L. Pang & E.B.G. Jones, 2008 SPECIES
-=======
+# Haiyanga salina (Meyers) K.L. Pang & E.B.G. Jones, 2008 SPECIES
 
 #### Status
 ACCEPTED

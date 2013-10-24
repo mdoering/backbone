@@ -1,5 +1,4 @@
-Chiodecton candidum Müll. Arg. SPECIES
-=======
+# Chiodecton candidum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

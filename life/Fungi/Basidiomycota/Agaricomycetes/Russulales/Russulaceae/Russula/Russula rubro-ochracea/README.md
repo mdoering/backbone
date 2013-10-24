@@ -1,5 +1,4 @@
-Russula rubro-ochracea Murrill SPECIES
-=======
+# Russula rubro-ochracea Murrill SPECIES
 
 #### Status
 ACCEPTED

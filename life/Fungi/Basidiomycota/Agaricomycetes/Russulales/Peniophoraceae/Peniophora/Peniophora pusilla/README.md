@@ -1,5 +1,4 @@
-Peniophora pusilla H.S. Jacks., 1948 SPECIES
-=======
+# Peniophora pusilla H.S. Jacks., 1948 SPECIES
 
 #### Status
 ACCEPTED

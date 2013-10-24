@@ -1,5 +1,4 @@
-Monoicomyces fragilis Scheloske, 1969 SPECIES
-=======
+# Monoicomyces fragilis Scheloske, 1969 SPECIES
 
 #### Status
 ACCEPTED

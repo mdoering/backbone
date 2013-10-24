@@ -1,5 +1,4 @@
-Mucrosporium verticillatum (Preuss) Sacc. SPECIES
-=======
+# Mucrosporium verticillatum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

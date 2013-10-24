@@ -1,5 +1,4 @@
-Coniothyrium fibrisequum (Sacc.) Kuntze SPECIES
-=======
+# Coniothyrium fibrisequum (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

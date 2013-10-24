@@ -1,5 +1,4 @@
-Striatojaponocapsa conexa SPECIES
-=======
+# Striatojaponocapsa conexa SPECIES
 
 #### Status
 ACCEPTED

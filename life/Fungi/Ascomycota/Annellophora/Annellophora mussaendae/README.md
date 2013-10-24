@@ -1,5 +1,4 @@
-Annellophora mussaendae M.B. Ellis SPECIES
-=======
+# Annellophora mussaendae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiospora myrtincola Rehm SPECIES
-=======
+# Apiospora myrtincola Rehm SPECIES
 
 #### Status
 ACCEPTED

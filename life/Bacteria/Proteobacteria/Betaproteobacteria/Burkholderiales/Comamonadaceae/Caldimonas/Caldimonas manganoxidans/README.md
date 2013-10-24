@@ -1,5 +1,4 @@
-Caldimonas manganoxidans Takeda et al., 2002 SPECIES
-=======
+# Caldimonas manganoxidans Takeda et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

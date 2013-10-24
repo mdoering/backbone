@@ -1,5 +1,4 @@
-Uredo iridicola (Peck) De Toni SPECIES
-=======
+# Uredo iridicola (Peck) De Toni SPECIES
 
 #### Status
 ACCEPTED

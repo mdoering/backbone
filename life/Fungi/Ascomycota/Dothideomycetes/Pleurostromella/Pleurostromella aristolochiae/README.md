@@ -1,5 +1,4 @@
-Pleurostromella aristolochiae Petr. SPECIES
-=======
+# Pleurostromella aristolochiae Petr. SPECIES
 
 #### Status
 ACCEPTED

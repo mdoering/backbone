@@ -1,5 +1,4 @@
-Podophrya ferrum-equinum SPECIES
-=======
+# Podophrya ferrum-equinum SPECIES
 
 #### Status
 ACCEPTED

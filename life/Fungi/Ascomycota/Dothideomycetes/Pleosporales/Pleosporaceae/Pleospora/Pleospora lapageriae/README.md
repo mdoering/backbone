@@ -1,5 +1,4 @@
-Pleospora lapageriae Speg. SPECIES
-=======
+# Pleospora lapageriae Speg. SPECIES
 
 #### Status
 ACCEPTED

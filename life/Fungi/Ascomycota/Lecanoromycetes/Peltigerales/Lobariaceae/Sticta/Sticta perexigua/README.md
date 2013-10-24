@@ -1,5 +1,4 @@
-Sticta perexigua Zahlbr. SPECIES
-=======
+# Sticta perexigua Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

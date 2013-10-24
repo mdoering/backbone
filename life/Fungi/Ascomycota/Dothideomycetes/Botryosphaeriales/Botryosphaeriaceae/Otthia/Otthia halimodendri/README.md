@@ -1,5 +1,4 @@
-Otthia halimodendri Kravtzev SPECIES
-=======
+# Otthia halimodendri Kravtzev SPECIES
 
 #### Status
 ACCEPTED

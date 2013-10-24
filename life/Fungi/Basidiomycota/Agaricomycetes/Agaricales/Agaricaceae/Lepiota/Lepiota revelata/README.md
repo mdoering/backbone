@@ -1,5 +1,4 @@
-Lepiota revelata (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota revelata (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ungulina nigrolaccata (Cooke) Pat., 1900 SPECIES
-=======
+# Fomes nigrolaccatus (Cooke) Sacc., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Tax. Hyménomyc. (Lons-le-Saunier) 103 (1900)
+null
 
 #### Original name
 Polyporus nigrolaccatus Cooke, 1881

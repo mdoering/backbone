@@ -1,5 +1,4 @@
-Irenopsis coimbatorica Hosag., C.M. Pillai & Raghu SPECIES
-=======
+# Irenopsis coimbatorica Hosag., C.M. Pillai & Raghu SPECIES
 
 #### Status
 ACCEPTED

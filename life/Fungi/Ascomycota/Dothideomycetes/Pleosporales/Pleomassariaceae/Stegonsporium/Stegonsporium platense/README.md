@@ -1,5 +1,4 @@
-Stegonsporium platense Speg. SPECIES
-=======
+# Stegonsporium platense Speg. SPECIES
 
 #### Status
 ACCEPTED

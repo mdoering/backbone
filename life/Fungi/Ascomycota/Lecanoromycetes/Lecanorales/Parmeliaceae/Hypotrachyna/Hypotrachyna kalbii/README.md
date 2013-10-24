@@ -1,5 +1,4 @@
-Hypotrachyna kalbii Elix, T. H. Nash & Sipman SPECIES
-=======
+# Hypotrachyna kalbii Elix, T. H. Nash & Sipman SPECIES
 
 #### Status
 ACCEPTED

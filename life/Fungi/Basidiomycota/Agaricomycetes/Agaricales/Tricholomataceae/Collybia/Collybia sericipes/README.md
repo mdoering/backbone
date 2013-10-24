@@ -1,5 +1,4 @@
-Collybia sericipes (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Collybia sericipes (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoporellum melaspileoides (Nyl.) Müll. Arg. SPECIES
-=======
+# Mycoporellum melaspileoides (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

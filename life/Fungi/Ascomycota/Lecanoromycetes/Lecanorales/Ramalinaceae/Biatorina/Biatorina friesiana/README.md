@@ -1,5 +1,4 @@
-Biatorina friesiana Hepp SPECIES
-=======
+# Biatorina friesiana Hepp SPECIES
 
 #### Status
 ACCEPTED

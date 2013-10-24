@@ -1,5 +1,4 @@
-Athelia pellicula Chevall. SPECIES
-=======
+# Athelia pellicula Chevall. SPECIES
 
 #### Status
 ACCEPTED

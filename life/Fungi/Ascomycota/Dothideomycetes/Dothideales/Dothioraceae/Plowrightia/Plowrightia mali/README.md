@@ -1,5 +1,4 @@
-Plowrightia mali Feltgen SPECIES
-=======
+# Plowrightia mali Feltgen SPECIES
 
 #### Status
 ACCEPTED

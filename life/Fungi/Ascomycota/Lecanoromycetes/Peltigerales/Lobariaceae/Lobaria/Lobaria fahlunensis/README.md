@@ -1,5 +1,4 @@
-Lobaria fahlunensis (L.) Hoffm. SPECIES
-=======
+# Lobaria fahlunensis (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palaeostomocystis pulchella Conrad, 1941 SPECIES
-=======
+# Palaeostomocystis pulchella Conrad, 1941 SPECIES
 
 #### Status
 ACCEPTED

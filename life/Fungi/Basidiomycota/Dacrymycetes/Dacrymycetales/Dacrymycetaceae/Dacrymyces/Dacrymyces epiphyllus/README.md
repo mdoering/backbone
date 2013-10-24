@@ -1,5 +1,4 @@
-Dacrymyces epiphyllus Schwein. SPECIES
-=======
+# Dacrymyces epiphyllus Schwein. SPECIES
 
 #### Status
 ACCEPTED

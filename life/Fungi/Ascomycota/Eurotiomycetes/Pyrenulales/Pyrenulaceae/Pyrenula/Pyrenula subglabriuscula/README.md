@@ -1,5 +1,4 @@
-Pyrenula subglabriuscula Vain. SPECIES
-=======
+# Pyrenula subglabriuscula Vain. SPECIES
 
 #### Status
 ACCEPTED

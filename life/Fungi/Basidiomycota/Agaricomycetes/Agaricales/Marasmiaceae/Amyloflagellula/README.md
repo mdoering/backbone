@@ -1,5 +1,4 @@
-Amyloflagellula Singer GENUS
-=======
+# Amyloflagellula Singer GENUS
 
 #### Status
 ACCEPTED

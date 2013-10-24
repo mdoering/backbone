@@ -1,5 +1,4 @@
-Thalassolituus Yakimov, Giuliano, Denaro, Crisafi, Chernikova, Abraham, Lunsdorf, Timmis & Golyshin, 2004 GENUS
-=======
+# Thalassolituus Yakimov, Giuliano, Denaro, Crisafi, Chernikova, Abraham, Lunsdorf, Timmis & Golyshin, 2004 GENUS
 
 #### Status
 ACCEPTED

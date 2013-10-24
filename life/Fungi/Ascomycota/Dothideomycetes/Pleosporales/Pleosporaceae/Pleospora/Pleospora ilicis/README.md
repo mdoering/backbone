@@ -1,5 +1,4 @@
-Pleospora ilicis Wehm., 1953 SPECIES
-=======
+# Pleospora ilicis Wehm., 1953 SPECIES
 
 #### Status
 ACCEPTED

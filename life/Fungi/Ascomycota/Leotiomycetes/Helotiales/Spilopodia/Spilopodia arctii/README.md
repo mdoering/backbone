@@ -1,5 +1,4 @@
-Spilopodia arctii (Lib.) Höhn. SPECIES
-=======
+# Spilopodia arctii (Lib.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

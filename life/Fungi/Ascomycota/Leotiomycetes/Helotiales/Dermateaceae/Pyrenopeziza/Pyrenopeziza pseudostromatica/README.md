@@ -1,5 +1,4 @@
-Pyrenopeziza pseudostromatica E. Müll. SPECIES
-=======
+# Pyrenopeziza pseudostromatica E. Müll. SPECIES
 
 #### Status
 ACCEPTED

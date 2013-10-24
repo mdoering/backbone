@@ -1,5 +1,4 @@
-Puccinia obtectella Cummins, 1940 SPECIES
-=======
+# Puccinia obtectella Cummins, 1940 SPECIES
 
 #### Status
 ACCEPTED

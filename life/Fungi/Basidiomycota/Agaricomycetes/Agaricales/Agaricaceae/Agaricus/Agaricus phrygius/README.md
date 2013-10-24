@@ -1,5 +1,4 @@
-Agaricus phrygius Wallr. SPECIES
-=======
+# Agaricus phrygius Wallr. SPECIES
 
 #### Status
 ACCEPTED

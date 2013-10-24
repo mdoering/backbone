@@ -1,5 +1,4 @@
-Neta Shearer & J.L. Crane, 1971 GENUS
-=======
+# Neta Shearer & J.L. Crane, 1971 GENUS
 
 #### Status
 ACCEPTED

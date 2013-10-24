@@ -1,5 +1,4 @@
-Rinodina xanthinula SPECIES
-=======
+# Rinodina xanthinula SPECIES
 
 #### Status
 ACCEPTED

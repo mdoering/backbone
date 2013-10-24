@@ -1,5 +1,4 @@
-Waddlia Rurangirwa et al., 1999 GENUS
-=======
+# Waddlia Rurangirwa et al., 1999 GENUS
 
 #### Status
 ACCEPTED

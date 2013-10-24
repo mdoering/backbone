@@ -1,5 +1,4 @@
-Hexacontosa Haeckel, 1887 GENUS
-=======
+# Hexacontosa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

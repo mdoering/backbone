@@ -1,5 +1,4 @@
-Puccinia otavalensis Berndt SPECIES
-=======
+# Puccinia otavalensis Berndt SPECIES
 
 #### Status
 ACCEPTED

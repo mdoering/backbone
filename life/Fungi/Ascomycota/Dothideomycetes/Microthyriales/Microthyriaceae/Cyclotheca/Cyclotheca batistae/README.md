@@ -1,5 +1,4 @@
-Cyclotheca batistae Arx SPECIES
-=======
+# Cyclotheca batistae Arx SPECIES
 
 #### Status
 ACCEPTED

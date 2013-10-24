@@ -1,5 +1,4 @@
-Pertusaria mendax Müll. Arg. SPECIES
-=======
+# Pertusaria mendax Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

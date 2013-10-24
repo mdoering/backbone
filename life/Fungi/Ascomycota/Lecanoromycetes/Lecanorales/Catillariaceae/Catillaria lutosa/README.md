@@ -1,5 +1,4 @@
-Catillaria lutosa A. Massal. SPECIES
-=======
+# Catillaria lutosa A. Massal. SPECIES
 
 #### Status
 ACCEPTED

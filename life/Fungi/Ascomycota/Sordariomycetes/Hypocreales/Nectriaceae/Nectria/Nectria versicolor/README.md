@@ -1,5 +1,4 @@
-Nectria versicolor (F. Brig.) Sacc. & Trotter SPECIES
-=======
+# Nectria versicolor (F. Brig.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

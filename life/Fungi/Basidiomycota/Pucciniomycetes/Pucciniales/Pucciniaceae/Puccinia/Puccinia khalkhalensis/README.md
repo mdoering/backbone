@@ -1,5 +1,4 @@
-Puccinia khalkhalensis Ershad, Abbasi & Gjaerum SPECIES
-=======
+# Puccinia khalkhalensis Ershad, Abbasi & Gjaerum SPECIES
 
 #### Status
 ACCEPTED

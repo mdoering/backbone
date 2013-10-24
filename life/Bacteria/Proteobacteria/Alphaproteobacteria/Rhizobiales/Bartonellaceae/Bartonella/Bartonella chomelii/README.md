@@ -1,5 +1,4 @@
-Bartonella chomelii Maillard et al., 2004 SPECIES
-=======
+# Bartonella chomelii Maillard et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

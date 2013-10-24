@@ -1,5 +1,4 @@
-Phialoarthrobotryum Matsush. GENUS
-=======
+# Phialoarthrobotryum Matsush. GENUS
 
 #### Status
 ACCEPTED

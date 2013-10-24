@@ -1,5 +1,4 @@
-Rhizocarpon microsporizum Räsänen SPECIES
-=======
+# Rhizocarpon microsporizum Räsänen SPECIES
 
 #### Status
 ACCEPTED

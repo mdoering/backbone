@@ -1,5 +1,4 @@
-Masseeëlla terminaliae Patw., 1964 SPECIES
-=======
+# Masseeëlla terminaliae Patw., 1964 SPECIES
 
 #### Status
 ACCEPTED

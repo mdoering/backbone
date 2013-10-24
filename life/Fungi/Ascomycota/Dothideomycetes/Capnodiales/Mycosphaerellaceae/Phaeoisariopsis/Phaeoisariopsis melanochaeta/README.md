@@ -1,5 +1,4 @@
-Phaeoisariopsis melanochaeta (Ellis & Everh.) Deighton SPECIES
-=======
+# Phaeoisariopsis melanochaeta (Ellis & Everh.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis subdura M. Nakan. SPECIES
-=======
+# Graphis subdura M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

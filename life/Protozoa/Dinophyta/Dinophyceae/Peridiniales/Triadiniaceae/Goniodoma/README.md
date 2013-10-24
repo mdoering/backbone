@@ -1,14 +1,13 @@
-Gonyodoma Entz, 1905 GENUS
-=======
+# Goniodoma F. Stein, 1883 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Math. termés. Értes. , 20, 1902, 110.
+Org. Infus. , 3 (2) 12.
 
 #### Original name
 null

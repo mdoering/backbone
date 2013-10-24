@@ -1,5 +1,4 @@
-Discosia magna Peck SPECIES
-=======
+# Discosia magna Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia ceratina (Stirt.) Hellb. SPECIES
-=======
+# Bacidia ceratina (Stirt.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

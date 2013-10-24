@@ -1,5 +1,4 @@
-Cothurina nodosa SPECIES
-=======
+# Cothurina nodosa SPECIES
 
 #### Status
 ACCEPTED

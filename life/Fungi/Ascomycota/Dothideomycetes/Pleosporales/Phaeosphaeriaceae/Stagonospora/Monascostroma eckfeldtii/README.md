@@ -1,5 +1,4 @@
-Monascostroma eckfeldtii (Ellis) M.E. Barr SPECIES
-=======
+# Monascostroma eckfeldtii (Ellis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

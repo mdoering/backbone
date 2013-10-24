@@ -1,5 +1,4 @@
-Corethromyces cryptobii Thaxt., 1892 SPECIES
-=======
+# Corethromyces cryptobii Thaxt., 1892 SPECIES
 
 #### Status
 ACCEPTED

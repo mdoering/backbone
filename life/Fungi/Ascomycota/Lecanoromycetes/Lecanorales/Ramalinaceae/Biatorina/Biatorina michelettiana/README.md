@@ -1,5 +1,4 @@
-Biatorina michelettiana A. Massal. SPECIES
-=======
+# Biatorina michelettiana A. Massal. SPECIES
 
 #### Status
 ACCEPTED

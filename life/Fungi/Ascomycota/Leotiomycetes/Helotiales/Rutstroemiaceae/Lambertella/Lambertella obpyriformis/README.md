@@ -1,5 +1,4 @@
-Lambertella obpyriformis W.Y. Zhuang & Zheng Wang SPECIES
-=======
+# Lambertella obpyriformis W.Y. Zhuang & Zheng Wang SPECIES
 
 #### Status
 ACCEPTED

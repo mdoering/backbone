@@ -1,5 +1,4 @@
-Lecidea rimulicola Müll. Arg. SPECIES
-=======
+# Lecidea rimulicola Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

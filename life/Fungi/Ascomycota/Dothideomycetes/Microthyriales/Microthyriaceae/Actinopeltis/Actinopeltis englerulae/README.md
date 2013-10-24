@@ -1,5 +1,4 @@
-Actinopeltis englerulae (Hansf.) Arx SPECIES
-=======
+# Actinopeltis englerulae (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

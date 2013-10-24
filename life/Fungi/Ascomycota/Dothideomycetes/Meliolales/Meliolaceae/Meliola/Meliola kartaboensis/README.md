@@ -1,5 +1,4 @@
-Meliola kartaboensis F. Stevens SPECIES
-=======
+# Meliola kartaboensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

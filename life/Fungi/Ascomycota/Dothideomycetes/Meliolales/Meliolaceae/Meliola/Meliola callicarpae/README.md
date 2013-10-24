@@ -1,5 +1,4 @@
-Meliola callicarpae Syd. & P. Syd. SPECIES
-=======
+# Meliola callicarpae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

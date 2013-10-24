@@ -1,5 +1,4 @@
-Rhynchomeliola lichenicola Henssen & Kantvilas SPECIES
-=======
+# Rhynchomeliola lichenicola Henssen & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia cinnamomicola Cummins SPECIES
-=======
+# Puccinia cinnamomicola Cummins SPECIES
 
 #### Status
 ACCEPTED

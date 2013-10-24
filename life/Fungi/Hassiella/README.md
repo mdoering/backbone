@@ -1,5 +1,4 @@
-Hassiella T.N. Taylor, Krings & Kerp GENUS
-=======
+# Hassiella T.N. Taylor, Krings & Kerp GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pleospora venturia Speg., 1879 SPECIES
-=======
+# Pyrenophora venturia (Speg.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 5): 461 (1879)
+Syll. fung. (Abellini) 2: 280 (1883)
 
 #### Original name
 Pleospora venturia Speg., 1879

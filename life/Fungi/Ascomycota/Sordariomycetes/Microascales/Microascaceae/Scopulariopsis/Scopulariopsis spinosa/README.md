@@ -1,5 +1,4 @@
-Scopulariopsis spinosa E. Müll. & Pacha-Aue SPECIES
-=======
+# Scopulariopsis spinosa E. Müll. & Pacha-Aue SPECIES
 
 #### Status
 ACCEPTED

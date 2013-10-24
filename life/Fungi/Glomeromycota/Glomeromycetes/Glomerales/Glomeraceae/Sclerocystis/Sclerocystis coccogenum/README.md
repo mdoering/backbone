@@ -1,5 +1,4 @@
-Sclerocystis coccogenum (Pat.) Höhn. SPECIES
-=======
+# Sclerocystis coccogenum (Pat.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

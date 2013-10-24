@@ -1,5 +1,4 @@
-Porina pertusarina Zahlbr. SPECIES
-=======
+# Porina pertusarina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia spinicola (Ellis & Everh.) Sacc. SPECIES
-=======
+# Laestadia spinicola (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

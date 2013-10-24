@@ -1,5 +1,4 @@
-Striglia orbicularis (Bagl.) Kuntze SPECIES
-=======
+# Striglia orbicularis (Bagl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

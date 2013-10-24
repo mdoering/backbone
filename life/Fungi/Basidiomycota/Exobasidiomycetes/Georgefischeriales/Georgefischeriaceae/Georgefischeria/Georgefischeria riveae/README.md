@@ -1,17 +1,16 @@
-Georgefischeria riveae var. macrospora Naras., Thirum. & Sriniv., 1964 VARIETY
-=======
+# Georgefischeria riveae Thirum. & Naras., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Curr. Sci. 33: 688 (1964)
+in Narasimhan, Thirumalachar, Srinivasan & Govindu, Mycologia 55(1): 33 (1963)
 
 #### Original name
-Georgefischeria riveae var. macrospora Naras., Thirum. & Sriniv., 1964
+Georgefischeria riveae Thirum. & Naras., 1963
 
 ### Remarks
 null

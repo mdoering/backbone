@@ -1,5 +1,4 @@
-Schismatomma dirineum var. dirineum (Nyl.) Räsänen VARIETY
-=======
+# Schismatomma dirineum (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Schismatomma dirineum var. dirineum (Nyl.) Räsänen
+Platygrapha dirinea Nyl.
 
 ### Remarks
 null

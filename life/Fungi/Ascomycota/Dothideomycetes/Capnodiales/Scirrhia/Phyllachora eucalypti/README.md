@@ -1,5 +1,4 @@
-Phyllachora eucalypti (Speg.) Petr., 1929 SPECIES
-=======
+# Phyllachora eucalypti (Speg.) Petr., 1929 SPECIES
 
 #### Status
 DOUBTFUL

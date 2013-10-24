@@ -1,5 +1,4 @@
-Gymnopus reflexus (Pers.) Gray SPECIES
-=======
+# Gymnopus reflexus (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED

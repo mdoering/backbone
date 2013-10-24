@@ -1,5 +1,4 @@
-Sphaeria emergens Schwein. SPECIES
-=======
+# Sphaeria emergens Schwein. SPECIES
 
 #### Status
 ACCEPTED

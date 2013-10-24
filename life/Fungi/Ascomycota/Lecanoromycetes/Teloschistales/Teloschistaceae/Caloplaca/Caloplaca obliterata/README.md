@@ -1,5 +1,4 @@
-Caloplaca obliterata (Pers.) Malme SPECIES
-=======
+# Caloplaca obliterata (Pers.) Malme SPECIES
 
 #### Status
 ACCEPTED

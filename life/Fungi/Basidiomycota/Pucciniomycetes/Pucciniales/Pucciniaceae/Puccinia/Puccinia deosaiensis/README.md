@@ -1,5 +1,4 @@
-Puccinia deosaiensis Khalid & S.H. Iqbal SPECIES
-=======
+# Puccinia deosaiensis Khalid & S.H. Iqbal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopyrenula neglecta Müll. Arg. SPECIES
-=======
+# Pseudopyrenula neglecta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

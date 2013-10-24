@@ -1,5 +1,4 @@
-Uromyces phalaridicola Katajev SPECIES
-=======
+# Uromyces phalaridicola Katajev SPECIES
 
 #### Status
 ACCEPTED

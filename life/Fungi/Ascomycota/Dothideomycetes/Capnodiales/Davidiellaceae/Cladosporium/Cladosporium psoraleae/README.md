@@ -1,5 +1,4 @@
-Cladosporium psoraleae M.B. Ellis, 1972 SPECIES
-=======
+# Cladosporium psoraleae M.B. Ellis, 1972 SPECIES
 
 #### Status
 ACCEPTED

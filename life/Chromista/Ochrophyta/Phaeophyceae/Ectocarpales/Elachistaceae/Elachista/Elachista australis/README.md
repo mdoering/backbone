@@ -1,8 +1,7 @@
-Philippia australis (J. Agardh) Kuckuck ex Oltmanns SPECIES
-=======
+# Elachista australis J. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Sphaerodothis trinitensis Chardón, 1932 SPECIES
-=======
+# Sphaerodothis trinitensis Chardón, 1932 SPECIES
 
 #### Status
 ACCEPTED

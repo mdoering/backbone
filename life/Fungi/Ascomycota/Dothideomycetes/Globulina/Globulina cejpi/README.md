@@ -1,5 +1,4 @@
-Globulina cejpi Velen. SPECIES
-=======
+# Globulina cejpi Velen. SPECIES
 
 #### Status
 ACCEPTED

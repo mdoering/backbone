@@ -1,5 +1,4 @@
-Helotium aspidiorum Rehm SPECIES
-=======
+# Helotium aspidiorum Rehm SPECIES
 
 #### Status
 ACCEPTED

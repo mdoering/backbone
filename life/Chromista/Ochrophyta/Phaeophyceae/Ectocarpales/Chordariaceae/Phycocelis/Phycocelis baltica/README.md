@@ -1,5 +1,4 @@
-Phycocelis baltica (Reinke) De Toni SPECIES
-=======
+# Phycocelis baltica (Reinke) De Toni SPECIES
 
 #### Status
 ACCEPTED

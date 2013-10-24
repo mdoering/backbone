@@ -1,5 +1,4 @@
-Trichophyton albiciscans Nieuwenh. SPECIES
-=======
+# Trichophyton albiciscans Nieuwenh. SPECIES
 
 #### Status
 ACCEPTED

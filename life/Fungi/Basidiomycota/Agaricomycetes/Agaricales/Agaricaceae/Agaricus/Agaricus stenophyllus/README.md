@@ -1,5 +1,4 @@
-Agaricus stenophyllus J. Otto SPECIES
-=======
+# Agaricus stenophyllus J. Otto SPECIES
 
 #### Status
 ACCEPTED

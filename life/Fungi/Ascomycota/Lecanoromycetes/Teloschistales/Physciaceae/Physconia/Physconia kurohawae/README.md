@@ -1,5 +1,4 @@
-Physconia kurohawae SPECIES
-=======
+# Physconia kurohawae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeodimeriella asterinicola Doidge SPECIES
-=======
+# Phaeodimeriella asterinicola Doidge SPECIES
 
 #### Status
 ACCEPTED

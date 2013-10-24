@@ -1,5 +1,4 @@
-Agaricus eleuterophyllus Lév. SPECIES
-=======
+# Agaricus eleuterophyllus Lév. SPECIES
 
 #### Status
 ACCEPTED

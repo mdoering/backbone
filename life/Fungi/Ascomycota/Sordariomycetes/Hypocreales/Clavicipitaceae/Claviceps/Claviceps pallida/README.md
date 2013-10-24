@@ -1,5 +1,4 @@
-Claviceps pallida var. pallida VARIETY
-=======
+# Claviceps pallida (G. Winter) Henn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 26: 24 (1887)
 
 #### Original name
-Claviceps pallida var. pallida
+null
 
 ### Remarks
 null

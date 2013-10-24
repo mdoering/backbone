@@ -1,5 +1,4 @@
-Allotelium Syd. GENUS
-=======
+# Allotelium Syd. GENUS
 
 #### Status
 ACCEPTED

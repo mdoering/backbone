@@ -1,5 +1,4 @@
-Sargassum bataanense G.C. Trono SPECIES
-=======
+# Sargassum bataanense G.C. Trono SPECIES
 
 #### Status
 ACCEPTED

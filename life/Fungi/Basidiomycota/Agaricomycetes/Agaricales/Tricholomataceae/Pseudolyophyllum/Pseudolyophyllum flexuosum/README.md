@@ -1,5 +1,4 @@
-Pseudolyophyllum flexuosum var. flexuosum VARIETY
-=======
+# Pseudolyophyllum flexuosum (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Metrodiana 8(2-3): 54 (1979)
 
 #### Original name
-Pseudolyophyllum flexuosum var. flexuosum
+Clitocybe flexuosa Raithelh.
 
 ### Remarks
 null

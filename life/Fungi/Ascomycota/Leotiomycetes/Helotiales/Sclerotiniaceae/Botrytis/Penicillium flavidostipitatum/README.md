@@ -1,5 +1,4 @@
-Penicillium flavidostipitatum C. Ramírez & C.C. González, 1984 SPECIES
-=======
+# Penicillium flavidostipitatum C. Ramírez & C.C. González, 1984 SPECIES
 
 #### Status
 DOUBTFUL

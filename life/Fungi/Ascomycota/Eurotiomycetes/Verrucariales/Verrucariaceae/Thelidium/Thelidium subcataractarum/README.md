@@ -1,5 +1,4 @@
-Thelidium subcataractarum (Servít) SPECIES
-=======
+# Thelidium subcataractarum (Servít) SPECIES
 
 #### Status
 ACCEPTED

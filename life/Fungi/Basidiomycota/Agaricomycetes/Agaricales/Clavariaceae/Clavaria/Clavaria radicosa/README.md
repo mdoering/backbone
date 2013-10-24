@@ -1,5 +1,4 @@
-Clavaria radicosa Bull. SPECIES
-=======
+# Clavaria radicosa Bull. SPECIES
 
 #### Status
 ACCEPTED

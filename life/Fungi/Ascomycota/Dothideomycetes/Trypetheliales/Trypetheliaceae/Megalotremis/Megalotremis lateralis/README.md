@@ -1,5 +1,4 @@
-Megalotremis lateralis Aptroot SPECIES
-=======
+# Megalotremis lateralis Aptroot SPECIES
 
 #### Status
 ACCEPTED

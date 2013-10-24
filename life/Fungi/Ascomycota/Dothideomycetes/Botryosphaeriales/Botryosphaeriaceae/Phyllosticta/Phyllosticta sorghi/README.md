@@ -1,5 +1,4 @@
-Phyllosticta sorghi Anzi SPECIES
-=======
+# Phyllosticta sorghi Anzi SPECIES
 
 #### Status
 ACCEPTED

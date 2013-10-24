@@ -1,5 +1,4 @@
-Boletinus appendiculatus Peck SPECIES
-=======
+# Boletinus appendiculatus Peck SPECIES
 
 #### Status
 ACCEPTED

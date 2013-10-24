@@ -1,8 +1,7 @@
-Cryptostictis kennediae (McAlpine) Subram. & K. Ramakr., 1956 SPECIES
-=======
+# Sarcostroma kennediae (McAlpine) M. Morelet, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

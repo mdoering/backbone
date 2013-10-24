@@ -1,5 +1,4 @@
-Dactylaria eucalypti Vittal & Dorai SPECIES
-=======
+# Dactylaria eucalypti Vittal & Dorai SPECIES
 
 #### Status
 ACCEPTED

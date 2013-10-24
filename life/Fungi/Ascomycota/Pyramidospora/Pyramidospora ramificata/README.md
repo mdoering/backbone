@@ -1,5 +1,4 @@
-Pyramidospora ramificata Miura SPECIES
-=======
+# Pyramidospora ramificata Miura SPECIES
 
 #### Status
 ACCEPTED

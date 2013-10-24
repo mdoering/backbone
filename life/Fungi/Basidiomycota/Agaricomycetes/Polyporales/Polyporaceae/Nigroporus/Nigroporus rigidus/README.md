@@ -1,5 +1,4 @@
-Nigroporus rigidus Ryvarden SPECIES
-=======
+# Nigroporus rigidus Ryvarden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maireiella Pilát, 1925 GENUS
-=======
+# Maireiella Pilát, 1925 GENUS
 
 #### Status
 ACCEPTED

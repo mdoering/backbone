@@ -1,5 +1,4 @@
-Bjerkandera P. Karsten, 1879 GENUS
-=======
+# Bjerkandera P. Karsten, 1879 GENUS
 
 #### Status
 ACCEPTED

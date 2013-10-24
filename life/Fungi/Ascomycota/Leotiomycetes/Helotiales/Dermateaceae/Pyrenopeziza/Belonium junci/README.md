@@ -1,5 +1,4 @@
-Belonium junci Jaap SPECIES
-=======
+# Belonium junci Jaap SPECIES
 
 #### Status
 ACCEPTED

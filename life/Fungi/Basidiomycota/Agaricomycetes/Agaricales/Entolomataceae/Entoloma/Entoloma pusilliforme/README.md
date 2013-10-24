@@ -1,5 +1,4 @@
-Entoloma pusilliforme Romagn. SPECIES
-=======
+# Entoloma pusilliforme Romagn. SPECIES
 
 #### Status
 ACCEPTED

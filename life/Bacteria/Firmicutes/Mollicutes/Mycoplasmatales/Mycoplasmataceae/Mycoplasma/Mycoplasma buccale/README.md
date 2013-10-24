@@ -1,5 +1,4 @@
-Mycoplasma buccale Freundt et al., 1974 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma buccale Freundt et al., 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

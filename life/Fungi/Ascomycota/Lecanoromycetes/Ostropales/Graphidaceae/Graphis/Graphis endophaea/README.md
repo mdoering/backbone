@@ -1,5 +1,4 @@
-Graphis endophaea Zahlbr. SPECIES
-=======
+# Graphis endophaea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

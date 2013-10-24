@@ -1,5 +1,4 @@
-Coscinodiscus steinyi Hanna SPECIES
-=======
+# Coscinodiscus steinyi Hanna SPECIES
 
 #### Status
 ACCEPTED

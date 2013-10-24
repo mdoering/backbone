@@ -1,5 +1,4 @@
-Biostictis Petr. GENUS
-=======
+# Biostictis Petr. GENUS
 
 #### Status
 ACCEPTED

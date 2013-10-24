@@ -1,5 +1,4 @@
-Loricophrya edmondsoni (King, 1931) Matthes, 1956 SPECIES
-=======
+# Loricophrya edmondsoni (King, 1931) Matthes, 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor helvelloides Sowerby SPECIES
-=======
+# Mucor helvelloides Sowerby SPECIES
 
 #### Status
 ACCEPTED

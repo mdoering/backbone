@@ -1,5 +1,4 @@
-Clitocybe pseudocandida H.E. Bigelow SPECIES
-=======
+# Clitocybe pseudocandida H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

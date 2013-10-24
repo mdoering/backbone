@@ -1,5 +1,4 @@
-Ramalina mediterranea H. Magn. SPECIES
-=======
+# Ramalina mediterranea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

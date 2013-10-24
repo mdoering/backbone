@@ -1,5 +1,4 @@
-Stachybotrys kapiti Whitton, McKenzie & K.D. Hyde, 2001 SPECIES
-=======
+# Stachybotrys kapiti Whitton, McKenzie & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED

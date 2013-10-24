@@ -1,5 +1,4 @@
-Clitocybe fulvonitens Gillet SPECIES
-=======
+# Clitocybe fulvonitens Gillet SPECIES
 
 #### Status
 ACCEPTED

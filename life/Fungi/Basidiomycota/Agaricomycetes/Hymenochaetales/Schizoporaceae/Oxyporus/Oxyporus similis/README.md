@@ -1,14 +1,13 @@
-Poria similis Bres., 1925 SPECIES
-=======
+# Oxyporus similis (Bres.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 17(2): 76 (1925)
+Persoonia 7(1): 20 (1972)
 
 #### Original name
 Poria similis Bres., 1925

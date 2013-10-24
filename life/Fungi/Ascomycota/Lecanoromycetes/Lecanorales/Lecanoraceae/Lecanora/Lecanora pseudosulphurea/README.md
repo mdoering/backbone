@@ -1,5 +1,4 @@
-Lecanora pseudosulphurea M. Choisy SPECIES
-=======
+# Lecanora pseudosulphurea M. Choisy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma physalidis Hollós SPECIES
-=======
+# Phoma physalidis Hollós SPECIES
 
 #### Status
 ACCEPTED

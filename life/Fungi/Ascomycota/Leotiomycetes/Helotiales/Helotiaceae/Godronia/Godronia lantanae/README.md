@@ -1,5 +1,4 @@
-Godronia lantanae (E.K. Cash) Seaver SPECIES
-=======
+# Godronia lantanae (E.K. Cash) Seaver SPECIES
 
 #### Status
 ACCEPTED

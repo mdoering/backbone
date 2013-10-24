@@ -1,5 +1,4 @@
-Salinispora tropica Maldonado et al., 2005 SPECIES
-=======
+# Salinispora tropica Maldonado et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius brevipes Berk. & Ravenel SPECIES
-=======
+# Marasmius brevipes Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

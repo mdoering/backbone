@@ -1,5 +1,4 @@
-Diplodia edgworthiae Sacc. SPECIES
-=======
+# Diplodia edgworthiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

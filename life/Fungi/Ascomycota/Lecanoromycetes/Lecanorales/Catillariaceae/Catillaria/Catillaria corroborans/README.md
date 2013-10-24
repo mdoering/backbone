@@ -1,5 +1,4 @@
-Catillaria corroborans (Stirt.) Zahlbr. SPECIES
-=======
+# Catillaria corroborans (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

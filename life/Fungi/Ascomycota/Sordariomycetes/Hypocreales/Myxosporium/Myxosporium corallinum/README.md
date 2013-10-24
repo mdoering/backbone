@@ -1,5 +1,4 @@
-Myxosporium corallinum Peyl SPECIES
-=======
+# Myxosporium corallinum Peyl SPECIES
 
 #### Status
 ACCEPTED

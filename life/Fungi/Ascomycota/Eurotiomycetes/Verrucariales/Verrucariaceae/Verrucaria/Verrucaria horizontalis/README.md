@@ -1,5 +1,4 @@
-Verrucaria horizontalis Zschacke SPECIES
-=======
+# Verrucaria horizontalis Zschacke SPECIES
 
 #### Status
 ACCEPTED

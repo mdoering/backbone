@@ -1,5 +1,4 @@
-Acuformis GENUS
-=======
+# Acuformis GENUS
 
 #### Status
 ACCEPTED

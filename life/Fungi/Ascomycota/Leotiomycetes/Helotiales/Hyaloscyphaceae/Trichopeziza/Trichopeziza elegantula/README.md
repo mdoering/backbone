@@ -1,14 +1,13 @@
-Helotium elegantulum (P. Karst.) P. Karst., 1871 SPECIES
-=======
+# Trichopeziza elegantula (P. Karst.) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoth. fenn. (Helsinki) 1: 132 (1870)
+Syll. fung. (Abellini) 8: 405 (1889)
 
 #### Original name
 null

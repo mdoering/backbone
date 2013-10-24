@@ -1,5 +1,4 @@
-Hiatula lycoperdoides (Cooke & Massee) W.G. Sm. SPECIES
-=======
+# Hiatula lycoperdoides (Cooke & Massee) W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

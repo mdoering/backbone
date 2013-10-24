@@ -1,5 +1,4 @@
-Entoloma cuspidatum (Peck) Sacc. SPECIES
-=======
+# Entoloma cuspidatum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

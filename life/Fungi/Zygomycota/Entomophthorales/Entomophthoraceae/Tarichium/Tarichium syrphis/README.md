@@ -1,5 +1,4 @@
-Tarichium syrphis Z.Z. Li, B. Huang & M.Z. Fan SPECIES
-=======
+# Tarichium syrphis Z.Z. Li, B. Huang & M.Z. Fan SPECIES
 
 #### Status
 ACCEPTED

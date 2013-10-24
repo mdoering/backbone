@@ -1,5 +1,4 @@
-Aspicilia hispana B. de Lesd. SPECIES
-=======
+# Aspicilia hispana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

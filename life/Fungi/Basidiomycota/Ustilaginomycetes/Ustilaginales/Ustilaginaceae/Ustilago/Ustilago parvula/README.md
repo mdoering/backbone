@@ -1,5 +1,4 @@
-Ustilago parvula Syd. SPECIES
-=======
+# Ustilago parvula Syd. SPECIES
 
 #### Status
 ACCEPTED

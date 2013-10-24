@@ -1,17 +1,16 @@
-Poloniodiscus Svrcek & Kubicka GENUS
-=======
+# Ameghiniella Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 21: 153 (1967)
+Boln Acad. nac. Cienc. Córdoba 11(2): 270 (1888)
 
 #### Original name
-Poloniodiscus Svrcek & Kubicka
+Ameghiniella Speg.
 
 ### Remarks
 null

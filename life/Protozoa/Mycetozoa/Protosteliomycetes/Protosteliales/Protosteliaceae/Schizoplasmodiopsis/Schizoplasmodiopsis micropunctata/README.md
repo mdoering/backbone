@@ -1,5 +1,4 @@
-Schizoplasmodiopsis micropunctata L.S. Olive & Stoian., 1975 SPECIES
-=======
+# Schizoplasmodiopsis micropunctata L.S. Olive & Stoian., 1975 SPECIES
 
 #### Status
 ACCEPTED

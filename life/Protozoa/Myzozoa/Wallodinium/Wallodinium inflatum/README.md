@@ -1,5 +1,4 @@
-Wallodinium inflatum (Habib, 1969) Habib, 1970 SPECIES
-=======
+# Wallodinium inflatum (Habib, 1969) Habib, 1970 SPECIES
 
 #### Status
 ACCEPTED

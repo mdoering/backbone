@@ -1,5 +1,4 @@
-Graphina epiglauca Müll. Arg. SPECIES
-=======
+# Graphina epiglauca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

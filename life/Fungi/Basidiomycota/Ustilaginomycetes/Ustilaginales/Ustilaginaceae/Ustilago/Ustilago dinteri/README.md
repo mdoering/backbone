@@ -1,5 +1,4 @@
-Ustilago dinteri Syd. & P. Syd. SPECIES
-=======
+# Ustilago dinteri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

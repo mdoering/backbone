@@ -1,5 +1,4 @@
-Mucor ingricus Naumov SPECIES
-=======
+# Mucor ingricus Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rikenellaceae FAMILY
-=======
+# Rikenellaceae FAMILY
 
 #### Status
 ACCEPTED

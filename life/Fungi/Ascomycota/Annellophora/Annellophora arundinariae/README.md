@@ -1,17 +1,16 @@
-Annellophora arundinaria Chowdhry SPECIES
-=======
+# Annellophora arundinariae Chowdhry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 35(4): 694 (1982)
 
 #### Original name
-Annellophora arundinaria Chowdhry
+Annellophora arundinariae Chowdhry
 
 ### Remarks
 null

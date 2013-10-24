@@ -1,5 +1,4 @@
-Leptolegnia eccentrica Coker SPECIES
-=======
+# Leptolegnia eccentrica Coker SPECIES
 
 #### Status
 ACCEPTED

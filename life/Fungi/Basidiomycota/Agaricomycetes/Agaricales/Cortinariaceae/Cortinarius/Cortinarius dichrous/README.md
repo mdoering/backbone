@@ -1,5 +1,4 @@
-Cortinarius dichrous M.M. Moser SPECIES
-=======
+# Cortinarius dichrous M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

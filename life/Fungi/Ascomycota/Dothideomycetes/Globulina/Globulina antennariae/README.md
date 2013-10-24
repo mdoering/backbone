@@ -1,5 +1,4 @@
-Globulina antennariae Hasselbr. SPECIES
-=======
+# Globulina antennariae Hasselbr. SPECIES
 
 #### Status
 ACCEPTED

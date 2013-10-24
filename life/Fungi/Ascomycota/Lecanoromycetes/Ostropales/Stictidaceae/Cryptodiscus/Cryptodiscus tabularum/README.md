@@ -1,5 +1,4 @@
-Cryptodiscus tabularum Kirschst. SPECIES
-=======
+# Cryptodiscus tabularum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

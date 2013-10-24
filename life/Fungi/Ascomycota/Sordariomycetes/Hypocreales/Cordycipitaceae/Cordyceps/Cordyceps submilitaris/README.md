@@ -1,5 +1,4 @@
-Cordyceps submilitaris Henn. SPECIES
-=======
+# Cordyceps submilitaris Henn. SPECIES
 
 #### Status
 ACCEPTED

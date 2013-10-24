@@ -1,5 +1,4 @@
-Cercospora microsorii P. Kumar & Kamal SPECIES
-=======
+# Cercospora microsorii P. Kumar & Kamal SPECIES
 
 #### Status
 ACCEPTED

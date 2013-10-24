@@ -1,5 +1,4 @@
-Agaricus vagans Fr. SPECIES
-=======
+# Agaricus vagans Fr. SPECIES
 
 #### Status
 ACCEPTED

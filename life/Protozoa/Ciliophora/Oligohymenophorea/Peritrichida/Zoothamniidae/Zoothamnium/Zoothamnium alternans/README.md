@@ -1,5 +1,4 @@
-Zoothamnium alternans Claparède & Lachmann, 1858 SPECIES
-=======
+# Zoothamnium alternans Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus seminis-alni Baral, Grauw. & M. Eckel SPECIES
-=======
+# Hymenoscyphus seminis-alni Baral, Grauw. & M. Eckel SPECIES
 
 #### Status
 ACCEPTED

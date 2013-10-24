@@ -1,5 +1,4 @@
-Streptomyces noursei Brown et al., 1953 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces noursei Brown et al., 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

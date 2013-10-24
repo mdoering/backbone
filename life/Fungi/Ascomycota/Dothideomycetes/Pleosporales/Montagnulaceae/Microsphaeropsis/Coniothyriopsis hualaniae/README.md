@@ -1,5 +1,4 @@
-Coniothyriopsis hualaniae Speg. SPECIES
-=======
+# Coniothyriopsis hualaniae Speg. SPECIES
 
 #### Status
 ACCEPTED

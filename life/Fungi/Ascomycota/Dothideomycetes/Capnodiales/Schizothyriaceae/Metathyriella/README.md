@@ -1,5 +1,4 @@
-Metathyriella Syd. GENUS
-=======
+# Metathyriella Syd. GENUS
 
 #### Status
 ACCEPTED

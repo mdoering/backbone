@@ -1,5 +1,4 @@
-Lepista purpurascens (Berk. & M.A. Curtis) Pegler SPECIES
-=======
+# Lepista purpurascens (Berk. & M.A. Curtis) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phorcys chaetomioides f. chaetomioides FORM
-=======
+# Phorcys chaetomioides (P. Karst.) Höhn. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 129: 158 (1920)
 
 #### Original name
-Phorcys chaetomioides f. chaetomioides
+Delitschia chaetomioides P. Karst.
 
 ### Remarks
 null

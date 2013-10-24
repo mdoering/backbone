@@ -1,5 +1,4 @@
-Fucus aculeatus Esper, nom. illeg. SPECIES
-=======
+# Fucus aculeatus Esper, nom. illeg. SPECIES
 
 #### Status
 ACCEPTED

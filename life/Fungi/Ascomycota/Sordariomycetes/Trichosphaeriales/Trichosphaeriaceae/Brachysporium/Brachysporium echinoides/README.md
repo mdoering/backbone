@@ -1,5 +1,4 @@
-Brachysporium echinoides Lagarde SPECIES
-=======
+# Brachysporium echinoides Lagarde SPECIES
 
 #### Status
 ACCEPTED

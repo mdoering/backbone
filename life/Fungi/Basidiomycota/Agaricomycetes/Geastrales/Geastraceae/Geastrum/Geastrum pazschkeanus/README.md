@@ -1,8 +1,7 @@
-Geaster pazschkeanus Henn. SPECIES
-=======
+# Geastrum pazschkeanus Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster pazschkeanus Henn.
+Geastrum pazschkeanus Henn.
 
 ### Remarks
 null

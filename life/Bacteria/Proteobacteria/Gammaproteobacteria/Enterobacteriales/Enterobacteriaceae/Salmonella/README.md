@@ -1,5 +1,4 @@
-Salmonella Lignieres, 1900 GENUS
-=======
+# Salmonella Lignieres, 1900 GENUS
 
 #### Status
 ACCEPTED

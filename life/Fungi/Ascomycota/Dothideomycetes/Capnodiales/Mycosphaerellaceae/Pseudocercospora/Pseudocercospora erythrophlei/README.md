@@ -1,5 +1,4 @@
-Pseudocercospora erythrophlei Z.Q. Yuan SPECIES
-=======
+# Pseudocercospora erythrophlei Z.Q. Yuan SPECIES
 
 #### Status
 ACCEPTED

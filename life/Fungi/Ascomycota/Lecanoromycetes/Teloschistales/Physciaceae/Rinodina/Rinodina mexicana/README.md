@@ -1,5 +1,4 @@
-Rinodina mexicana SPECIES
-=======
+# Rinodina mexicana SPECIES
 
 #### Status
 ACCEPTED

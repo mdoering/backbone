@@ -1,5 +1,4 @@
-Dicaeoma gymnolomiae (Arthur) Arthur & H.S. Jacks. SPECIES
-=======
+# Dicaeoma gymnolomiae (Arthur) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

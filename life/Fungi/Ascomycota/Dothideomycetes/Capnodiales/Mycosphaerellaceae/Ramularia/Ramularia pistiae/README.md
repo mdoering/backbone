@@ -1,5 +1,4 @@
-Ramularia pistiae R.C. Fern. & R.W. Barreto SPECIES
-=======
+# Ramularia pistiae R.C. Fern. & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glyphium tillandsiae (Cash) H. Zogg SPECIES
-=======
+# Glyphium tillandsiae (Cash) H. Zogg SPECIES
 
 #### Status
 ACCEPTED

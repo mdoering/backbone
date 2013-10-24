@@ -1,5 +1,4 @@
-Penicillium radians Bonord. SPECIES
-=======
+# Penicillium radians Bonord. SPECIES
 
 #### Status
 ACCEPTED

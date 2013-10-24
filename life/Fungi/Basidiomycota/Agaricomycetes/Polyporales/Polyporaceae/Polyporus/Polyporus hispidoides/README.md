@@ -1,5 +1,4 @@
-Polyporus hispidoides P. Karst. SPECIES
-=======
+# Polyporus hispidoides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

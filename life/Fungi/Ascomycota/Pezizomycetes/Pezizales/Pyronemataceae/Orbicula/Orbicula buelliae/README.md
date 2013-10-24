@@ -1,5 +1,4 @@
-Orbicula buelliae C.W. Dodge SPECIES
-=======
+# Orbicula buelliae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

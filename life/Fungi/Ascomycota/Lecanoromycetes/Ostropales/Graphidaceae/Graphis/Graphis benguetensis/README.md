@@ -1,5 +1,4 @@
-Graphis benguetensis Vain. SPECIES
-=======
+# Graphis benguetensis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Macrophoma zylanicae B.R.D. Yadav & V.G. Rao SPECIES
-=======
+# Macrophoma zeylanicae B.R.D. Yadav & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 47(12): 437 (1978)
 
 #### Original name
-Macrophoma zylanicae B.R.D. Yadav & V.G. Rao
+Macrophoma zeylanicae B.R.D. Yadav & V.G. Rao
 
 ### Remarks
 null

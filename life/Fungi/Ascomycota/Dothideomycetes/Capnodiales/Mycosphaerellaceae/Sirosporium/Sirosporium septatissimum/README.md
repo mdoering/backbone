@@ -1,14 +1,13 @@
-Sirosporium septatissima (Tracy & Earle) U. Braun & Crous SPECIES
-=======
+# Sirosporium septatissimum (Tracy & Earle) U. Braun & Crous SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 373 (2003)
 
 #### Original name
 Cercospora septatissima Tracy & Earle

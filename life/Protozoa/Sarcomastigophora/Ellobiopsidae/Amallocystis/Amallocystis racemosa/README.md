@@ -1,8 +1,7 @@
-Amallocystis racemosus (Coutière) Fage SPECIES
-=======
+# Amallocystis racemosa (Coutière) Fage SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

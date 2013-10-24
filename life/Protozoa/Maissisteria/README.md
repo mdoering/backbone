@@ -1,5 +1,4 @@
-Maissisteria Larsen & Patterson, 1990 GENUS
-=======
+# Maissisteria Larsen & Patterson, 1990 GENUS
 
 #### Status
 ACCEPTED

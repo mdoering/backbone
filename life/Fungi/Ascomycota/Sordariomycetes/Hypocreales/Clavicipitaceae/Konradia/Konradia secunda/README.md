@@ -1,5 +1,4 @@
-Konradia secunda Racib. SPECIES
-=======
+# Konradia secunda Racib. SPECIES
 
 #### Status
 ACCEPTED

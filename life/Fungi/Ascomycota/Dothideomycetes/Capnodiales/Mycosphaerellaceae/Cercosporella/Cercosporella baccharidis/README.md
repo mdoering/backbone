@@ -1,5 +1,4 @@
-Cercosporella baccharidis Ellis & Everh. SPECIES
-=======
+# Cercosporella baccharidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

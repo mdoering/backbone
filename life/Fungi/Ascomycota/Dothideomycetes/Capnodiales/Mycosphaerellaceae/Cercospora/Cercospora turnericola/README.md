@@ -1,5 +1,4 @@
-Cercospora turnericola Syd. & P. Syd. SPECIES
-=======
+# Cercospora turnericola Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Manginula maegdefravii R.T. Lange SPECIES
-=======
+# Manginula maegdefravii R.T. Lange SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium incrustans (Sacc.) Sacc. SPECIES
-=======
+# Camarosporium incrustans (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

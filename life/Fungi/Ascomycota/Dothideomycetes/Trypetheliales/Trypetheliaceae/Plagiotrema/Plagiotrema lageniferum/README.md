@@ -1,5 +1,4 @@
-Plagiotrema lageniferum (Ach.) Müll. Arg. SPECIES
-=======
+# Plagiotrema lageniferum (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

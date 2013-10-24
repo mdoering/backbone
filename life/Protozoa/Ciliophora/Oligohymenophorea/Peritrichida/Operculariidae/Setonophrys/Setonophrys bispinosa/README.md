@@ -1,8 +1,7 @@
-Lagenophrys bispinosa Kane, 1965 SPECIES
-=======
+# Setonophrys bispinosa (Kane, 1965) Clamp, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

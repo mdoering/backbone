@@ -1,5 +1,4 @@
-Omphalaria quinquetubera (Delise) Müll. Arg. SPECIES
-=======
+# Omphalaria quinquetubera (Delise) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

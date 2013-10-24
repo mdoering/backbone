@@ -1,5 +1,4 @@
-Entoloma earlei (Murrill) Hesler SPECIES
-=======
+# Entoloma earlei (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

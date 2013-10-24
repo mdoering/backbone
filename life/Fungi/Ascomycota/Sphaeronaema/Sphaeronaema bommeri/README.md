@@ -1,5 +1,4 @@
-Sphaeronaema bommeri Illman SPECIES
-=======
+# Sphaeronaema bommeri Illman SPECIES
 
 #### Status
 ACCEPTED

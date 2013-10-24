@@ -1,17 +1,16 @@
-Cephalosporium coccorum var. uredinis U.P. Singh & Pavgi VARIETY
-=======
+# Lecanicillium lecanii (Zimm.) Zare & W. Gams, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia, Beih. 47: 604 (1974)
+in Gams & Zare, Nova Hedwigia 72(3-4): 333 (2001)
 
 #### Original name
-Cephalosporium coccorum var. uredinis U.P. Singh & Pavgi
+Cephalosporium lecanii Zimm., 1898
 
 ### Remarks
 null

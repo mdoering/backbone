@@ -1,5 +1,4 @@
-Collybia subclavata W.G. Sm. SPECIES
-=======
+# Collybia subclavata W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

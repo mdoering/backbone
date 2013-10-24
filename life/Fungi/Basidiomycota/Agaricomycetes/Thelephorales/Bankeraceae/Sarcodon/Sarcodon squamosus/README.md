@@ -1,17 +1,16 @@
-Hydnum squamosum subsp. squamosum SUBSPECIES
-=======
+# Sarcodon squamosus (Schaeff.) Quél., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Forh. Vidensk. -Selsk. Kristiania 188 (1886)
 
 #### Original name
-Hydnum squamosum subsp. squamosum
+Hydnum squamosum Schaeff., 1774
 
 ### Remarks
 null

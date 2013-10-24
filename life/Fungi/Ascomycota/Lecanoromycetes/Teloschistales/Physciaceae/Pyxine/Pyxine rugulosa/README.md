@@ -1,5 +1,4 @@
-Pyxine rugulosa Stirt. SPECIES
-=======
+# Pyxine rugulosa Stirt. SPECIES
 
 #### Status
 ACCEPTED

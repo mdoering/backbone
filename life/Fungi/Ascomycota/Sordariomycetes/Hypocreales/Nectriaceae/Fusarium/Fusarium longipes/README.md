@@ -1,14 +1,13 @@
-Fusarium scirpi var. longipes (Wollenw. & Reinking) Wollenw., 1931 VARIETY
-=======
+# Fusarium longipes Wollenw. & Reinking, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fusaria autographica delineata 3(3): 337 (1931)
+Phytopathology 15: 160 (1925)
 
 #### Original name
 Fusarium longipes Wollenw. & Reinking, 1925

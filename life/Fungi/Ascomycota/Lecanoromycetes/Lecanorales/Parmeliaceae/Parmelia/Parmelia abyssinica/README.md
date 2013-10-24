@@ -1,5 +1,4 @@
-Parmelia abyssinica Nyl. SPECIES
-=======
+# Parmelia abyssinica Nyl. SPECIES
 
 #### Status
 ACCEPTED

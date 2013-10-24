@@ -1,17 +1,16 @@
-Hygrophorus unguinosus var. unguinosus VARIETY
-=======
+# Hygrocybe irrigata (Pers.) Bon, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 332 (1838)
+Docums Mycol. 6(no. 24): 41 (1976)
 
 #### Original name
-Hygrophorus unguinosus var. unguinosus
+Agaricus irrigatus Pers., 1801
 
 ### Remarks
 null

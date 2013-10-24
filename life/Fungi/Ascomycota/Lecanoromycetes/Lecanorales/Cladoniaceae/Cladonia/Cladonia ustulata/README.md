@@ -1,5 +1,4 @@
-Cladonia subdigitata var. subdigitata VARIETY
-=======
+# Cladonia ustulata (Hook. f. & Taylor) Leight. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-C. r. hebd. Séanc. Acad. Sci. , Paris 83: 88 (1876)
+Ann. Mag. nat. Hist. , Ser. 3 19: 109 (1867)
 
 #### Original name
-Cladonia subdigitata var. subdigitata
+Cenomyce ustulata Hook. f. & Taylor
 
 ### Remarks
 null

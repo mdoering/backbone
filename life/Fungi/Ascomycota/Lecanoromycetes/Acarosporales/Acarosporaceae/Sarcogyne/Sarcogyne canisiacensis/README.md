@@ -1,5 +1,4 @@
-Sarcogyne canisiacensis (Hue) H. Magn. SPECIES
-=======
+# Sarcogyne canisiacensis (Hue) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

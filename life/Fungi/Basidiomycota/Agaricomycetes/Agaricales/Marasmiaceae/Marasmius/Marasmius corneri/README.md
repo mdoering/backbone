@@ -1,5 +1,4 @@
-Marasmius corneri Wannathes, Desjardin & Lumyong SPECIES
-=======
+# Marasmius corneri Wannathes, Desjardin & Lumyong SPECIES
 
 #### Status
 ACCEPTED

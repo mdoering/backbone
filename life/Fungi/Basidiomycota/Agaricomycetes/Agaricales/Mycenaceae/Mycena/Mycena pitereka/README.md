@@ -1,5 +1,4 @@
-Mycena pitereka Grgur. SPECIES
-=======
+# Mycena pitereka Grgur. SPECIES
 
 #### Status
 ACCEPTED

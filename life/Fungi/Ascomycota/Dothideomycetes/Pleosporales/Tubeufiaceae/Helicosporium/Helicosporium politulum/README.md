@@ -1,5 +1,4 @@
-Helicosporium politulum Schulzer SPECIES
-=======
+# Helicosporium politulum Schulzer SPECIES
 
 #### Status
 ACCEPTED

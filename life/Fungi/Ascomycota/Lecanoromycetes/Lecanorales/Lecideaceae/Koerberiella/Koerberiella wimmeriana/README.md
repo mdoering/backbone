@@ -1,17 +1,16 @@
-Perspicinora leucophyma (Leight.) Riedl SPECIES
-=======
+# Koerberiella wimmeriana (Körb.) Stein SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linzer biol. Beitr. 22(1): 153 (1990)
+Krypt. -Fl. Schlesien (Breslau) 2(2): 143 (1879)
 
 #### Original name
-Lecanora leucophyma Leight.
+Zeora wimmeriana Körb.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lichen spinosus Huds. SPECIES
-=======
+# Lichen spinosus Huds. SPECIES
 
 #### Status
 ACCEPTED

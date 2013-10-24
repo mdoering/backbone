@@ -1,5 +1,4 @@
-Peniophora kalchbrenneri (Massee) Höhn. & Litsch. SPECIES
-=======
+# Peniophora kalchbrenneri (Massee) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

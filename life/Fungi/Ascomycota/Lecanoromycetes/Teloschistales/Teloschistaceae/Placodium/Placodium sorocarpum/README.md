@@ -1,5 +1,4 @@
-Placodium sorocarpum SPECIES
-=======
+# Placodium sorocarpum SPECIES
 
 #### Status
 ACCEPTED

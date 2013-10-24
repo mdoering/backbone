@@ -1,5 +1,4 @@
-Clitocybe toxica Stephens SPECIES
-=======
+# Clitocybe toxica Stephens SPECIES
 
 #### Status
 ACCEPTED

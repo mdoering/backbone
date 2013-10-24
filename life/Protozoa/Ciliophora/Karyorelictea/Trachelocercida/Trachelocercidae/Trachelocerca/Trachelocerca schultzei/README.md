@@ -1,5 +1,4 @@
-Trachelocerca schultzei Dragesco, 1960 SPECIES
-=======
+# Trachelocerca schultzei Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

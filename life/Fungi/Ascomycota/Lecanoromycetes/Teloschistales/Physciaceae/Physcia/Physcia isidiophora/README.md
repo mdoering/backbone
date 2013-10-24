@@ -1,5 +1,4 @@
-Physcia isidiophora (Nyl.) Abbayes SPECIES
-=======
+# Physcia isidiophora (Nyl.) Abbayes SPECIES
 
 #### Status
 ACCEPTED

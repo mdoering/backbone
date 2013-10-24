@@ -1,5 +1,4 @@
-Uromyces oblongisporus Ellis & Everh. SPECIES
-=======
+# Uromyces oblongisporus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

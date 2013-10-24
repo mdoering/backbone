@@ -1,5 +1,4 @@
-Teratosphaeria encephalarti Crous & A.R. Wood, 2008 SPECIES
-=======
+# Teratosphaeria encephalarti Crous & A.R. Wood, 2008 SPECIES
 
 #### Status
 ACCEPTED

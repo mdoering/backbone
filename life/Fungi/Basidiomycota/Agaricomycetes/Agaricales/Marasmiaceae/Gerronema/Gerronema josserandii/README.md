@@ -1,14 +1,13 @@
-Nothopanus josserandii (Singer) Bon, 1992 SPECIES
-=======
+# Gerronema josserandii Singer, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 22(no. 86): 40 (1992)
+Sydowia 16: 49 (1963)
 
 #### Original name
 Gerronema josserandii Singer, 1963

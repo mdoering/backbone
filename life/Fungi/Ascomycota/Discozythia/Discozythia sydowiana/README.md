@@ -1,5 +1,4 @@
-Discozythia sydowiana Petr., 1922 SPECIES
-=======
+# Discozythia sydowiana Petr., 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eucantharomyces introflexus Santam. SPECIES
-=======
+# Eucantharomyces introflexus Santam. SPECIES
 
 #### Status
 ACCEPTED

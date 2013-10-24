@@ -1,5 +1,4 @@
-Coenogonium davidii Kalb SPECIES
-=======
+# Coenogonium davidii Kalb SPECIES
 
 #### Status
 ACCEPTED

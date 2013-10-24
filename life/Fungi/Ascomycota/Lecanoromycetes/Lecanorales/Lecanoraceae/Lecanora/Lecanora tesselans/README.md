@@ -1,5 +1,4 @@
-Lecanora tesselans Zahlbr. SPECIES
-=======
+# Lecanora tesselans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

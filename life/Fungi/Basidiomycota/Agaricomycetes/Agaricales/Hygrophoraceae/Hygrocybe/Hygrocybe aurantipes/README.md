@@ -1,5 +1,4 @@
-Hygrocybe aurantipes A.M. Young SPECIES
-=======
+# Hygrocybe aurantipes A.M. Young SPECIES
 
 #### Status
 ACCEPTED

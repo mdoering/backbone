@@ -1,5 +1,4 @@
-Pseudofusicoccum Mohali, Slippers & M.J. Wingf. GENUS
-=======
+# Pseudofusicoccum Mohali, Slippers & M.J. Wingf. GENUS
 
 #### Status
 ACCEPTED

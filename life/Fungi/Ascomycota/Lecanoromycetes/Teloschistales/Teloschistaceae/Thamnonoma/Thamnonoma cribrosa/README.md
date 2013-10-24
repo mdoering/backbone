@@ -1,5 +1,4 @@
-Thamnonoma cribrosa (Hue) Gyeln. SPECIES
-=======
+# Thamnonoma cribrosa (Hue) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

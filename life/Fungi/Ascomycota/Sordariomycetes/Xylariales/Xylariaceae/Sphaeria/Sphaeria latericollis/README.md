@@ -1,5 +1,4 @@
-Sphaeria latericollis Fr. SPECIES
-=======
+# Sphaeria latericollis Fr. SPECIES
 
 #### Status
 ACCEPTED

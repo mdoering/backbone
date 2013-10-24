@@ -1,17 +1,16 @@
-Tricholoma orirubens f. orirubens FORM
-=======
+# Tricholoma orirubens Quél., 1873 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 327 (1873)
 
 #### Original name
-null
+Tricholoma orirubens Quél., 1873
 
 ### Remarks
 null

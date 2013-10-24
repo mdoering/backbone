@@ -1,5 +1,4 @@
-Leucocoprinus nigricans Jezek {?} SPECIES
-=======
+# Leucocoprinus nigricans Jezek {?} SPECIES
 
 #### Status
 ACCEPTED

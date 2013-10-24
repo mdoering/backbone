@@ -1,5 +1,4 @@
-Verrucaria megalospora Kremp. SPECIES
-=======
+# Verrucaria megalospora Kremp. SPECIES
 
 #### Status
 ACCEPTED

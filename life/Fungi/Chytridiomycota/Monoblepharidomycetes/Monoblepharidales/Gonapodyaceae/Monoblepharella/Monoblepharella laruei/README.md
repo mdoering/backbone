@@ -1,5 +1,4 @@
-Monoblepharella laruei Springer, 1945 SPECIES
-=======
+# Monoblepharella laruei Springer, 1945 SPECIES
 
 #### Status
 ACCEPTED

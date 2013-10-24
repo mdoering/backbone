@@ -1,5 +1,4 @@
-Erinella corticola Massee SPECIES
-=======
+# Erinella corticola Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium goniosporum (Massee) L. Ling SPECIES
-=======
+# Sorosporium goniosporum (Massee) L. Ling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces subuliferus Thaxt. SPECIES
-=======
+# Dimeromyces subuliferus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

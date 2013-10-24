@@ -1,5 +1,4 @@
-Naucoria olivaceonana Singer SPECIES
-=======
+# Naucoria olivaceonana Singer SPECIES
 
 #### Status
 ACCEPTED

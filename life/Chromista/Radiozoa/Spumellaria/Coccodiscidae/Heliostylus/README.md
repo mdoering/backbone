@@ -1,5 +1,4 @@
-Heliostylus Haeckel, 1881 GENUS
-=======
+# Heliostylus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

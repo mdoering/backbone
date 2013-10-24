@@ -1,5 +1,4 @@
-Arthroderma Currey, 1860 GENUS
-=======
+# Arthroderma Currey, 1860 GENUS
 
 #### Status
 ACCEPTED

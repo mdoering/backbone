@@ -1,5 +1,4 @@
-Anisomeridium tuckeri R.C. Harris SPECIES
-=======
+# Anisomeridium tuckeri R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

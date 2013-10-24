@@ -1,5 +1,4 @@
-Bacidia radicicola (Riddle) Zahlbr. SPECIES
-=======
+# Bacidia radicicola (Riddle) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

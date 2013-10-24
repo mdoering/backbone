@@ -1,14 +1,13 @@
-Labridella transvalensis (Papendorf) Arx, 1981 SPECIES
-=======
+# Hyalotiella transvalensis Papendorf, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 228 (1981)
+Trans. Br. mycol. Soc. 50(1): 69 (1967)
 
 #### Original name
 Hyalotiella transvalensis Papendorf, 1967

@@ -1,5 +1,4 @@
-Valsa muelleriana Cooke SPECIES
-=======
+# Valsa muelleriana Cooke SPECIES
 
 #### Status
 ACCEPTED

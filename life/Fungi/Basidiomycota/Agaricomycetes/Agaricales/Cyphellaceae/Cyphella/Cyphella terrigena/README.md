@@ -1,5 +1,4 @@
-Cyphella terrigena P. Karst. SPECIES
-=======
+# Cyphella terrigena P. Karst. SPECIES
 
 #### Status
 ACCEPTED

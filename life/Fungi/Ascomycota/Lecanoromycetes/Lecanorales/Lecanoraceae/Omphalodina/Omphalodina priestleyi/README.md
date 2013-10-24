@@ -1,5 +1,4 @@
-Omphalodina priestleyi (C.W. Dodge) C.W. Dodge SPECIES
-=======
+# Omphalodina priestleyi (C.W. Dodge) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

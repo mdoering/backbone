@@ -1,5 +1,4 @@
-Marasmius rubrostipitatus Antonín & P. Roberts SPECIES
-=======
+# Marasmius rubrostipitatus Antonín & P. Roberts SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopyxis rehmii Turnau SPECIES
-=======
+# Geopyxis rehmii Turnau SPECIES
 
 #### Status
 ACCEPTED

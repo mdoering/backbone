@@ -1,17 +1,16 @@
-Cheiromycella jafaria R. Begum SPECIES
-=======
+# Cheiromycella jafarii R. Begum SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Geobios, Lyon 5(3): 130 (1978)
 
 #### Original name
-Cheiromycella jafaria R. Begum
+Cheiromycella jafarii R. Begum
 
 ### Remarks
 null

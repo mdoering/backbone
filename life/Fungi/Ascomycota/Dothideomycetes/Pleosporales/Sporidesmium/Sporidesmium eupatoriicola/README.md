@@ -1,5 +1,4 @@
-Sporidesmium eupatoriicola M.B. Ellis, 1958 SPECIES
-=======
+# Sporidesmium eupatoriicola M.B. Ellis, 1958 SPECIES
 
 #### Status
 ACCEPTED

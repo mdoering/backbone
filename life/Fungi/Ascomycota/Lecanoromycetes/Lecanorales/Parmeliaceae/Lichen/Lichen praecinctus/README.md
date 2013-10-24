@@ -1,5 +1,4 @@
-Lichen praecinctus Ach. SPECIES
-=======
+# Lichen praecinctus Ach. SPECIES
 
 #### Status
 ACCEPTED

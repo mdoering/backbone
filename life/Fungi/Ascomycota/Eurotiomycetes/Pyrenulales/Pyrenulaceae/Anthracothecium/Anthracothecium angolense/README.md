@@ -1,5 +1,4 @@
-Anthracothecium angolense Upreti & Ajay Singh SPECIES
-=======
+# Anthracothecium angolense Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Aecidium patulum Syd. & P. Syd., 1907 SPECIES
-=======
+# Roestelia patula (Syd. & P. Syd.) F. Kern, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 5: 506 (1907)
+Revised Taxonomic Account of Gymnosporangium (Univ. Park & London) 89 (1973)
 
 #### Original name
 Aecidium patulum Syd. & P. Syd., 1907

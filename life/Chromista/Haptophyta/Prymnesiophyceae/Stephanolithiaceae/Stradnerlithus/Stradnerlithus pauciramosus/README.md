@@ -1,5 +1,4 @@
-Stradnerlithus pauciramosus M. Black SPECIES
-=======
+# Stradnerlithus pauciramosus M. Black SPECIES
 
 #### Status
 ACCEPTED

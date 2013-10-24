@@ -1,5 +1,4 @@
-Lecidea albomaculans Nyl. SPECIES
-=======
+# Lecidea albomaculans Nyl. SPECIES
 
 #### Status
 ACCEPTED

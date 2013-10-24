@@ -1,5 +1,4 @@
-Chalara phaeospora P.M. Kirk, 1985 SPECIES
-=======
+# Chalara phaeospora P.M. Kirk, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria floccosa C.W. Dodge & G.E. Baker SPECIES
-=======
+# Catillaria floccosa C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

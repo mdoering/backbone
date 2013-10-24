@@ -1,5 +1,4 @@
-Chamaeceras gordipes (Paol. & Sacc.) Kuntze SPECIES
-=======
+# Chamaeceras gordipes (Paol. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

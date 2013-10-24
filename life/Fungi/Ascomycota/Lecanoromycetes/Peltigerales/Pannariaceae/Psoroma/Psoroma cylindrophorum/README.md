@@ -1,5 +1,4 @@
-Psoroma cylindrophorum (Taylor) Nyl. SPECIES
-=======
+# Psoroma cylindrophorum (Taylor) Nyl. SPECIES
 
 #### Status
 ACCEPTED

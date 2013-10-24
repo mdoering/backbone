@@ -1,5 +1,4 @@
-Lecidea pseudomelana Müll. Arg. SPECIES
-=======
+# Lecidea pseudomelana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

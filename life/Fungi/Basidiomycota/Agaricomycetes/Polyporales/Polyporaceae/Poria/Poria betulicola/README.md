@@ -1,5 +1,4 @@
-Poria betulicola Peck SPECIES
-=======
+# Poria betulicola Peck SPECIES
 
 #### Status
 ACCEPTED

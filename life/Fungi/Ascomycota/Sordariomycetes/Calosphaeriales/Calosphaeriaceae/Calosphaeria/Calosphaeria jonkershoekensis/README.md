@@ -1,5 +1,4 @@
-Calosphaeria jonkershoekensis Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Calosphaeria jonkershoekensis Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

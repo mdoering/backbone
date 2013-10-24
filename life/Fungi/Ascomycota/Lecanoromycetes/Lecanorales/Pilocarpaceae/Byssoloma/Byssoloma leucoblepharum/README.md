@@ -1,17 +1,16 @@
-Pilocarpon leucoblepharum var. leucoblepharum VARIETY
-=======
+# Byssoloma leucoblepharum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Dansk bot. Ark. 4(no. 11): 23 (1926)
 
 #### Original name
-null
+Lecidea leucoblephara Nyl.
 
 ### Remarks
 null

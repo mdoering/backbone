@@ -1,5 +1,4 @@
-Desulfomonas Moore et al., 1976 (Approved Lists, 1980) GENUS
-=======
+# Desulfomonas Moore et al., 1976 (Approved Lists, 1980) GENUS
 
 #### Status
 ACCEPTED

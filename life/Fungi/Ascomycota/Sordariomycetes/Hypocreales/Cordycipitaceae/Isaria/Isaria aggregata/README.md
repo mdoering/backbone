@@ -1,5 +1,4 @@
-Isaria aggregata Cooke & Massee, 1890 SPECIES
-=======
+# Isaria aggregata Cooke & Massee, 1890 SPECIES
 
 #### Status
 ACCEPTED

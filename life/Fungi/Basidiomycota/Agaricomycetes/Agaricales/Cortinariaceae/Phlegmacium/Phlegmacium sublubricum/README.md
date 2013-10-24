@@ -1,5 +1,4 @@
-Phlegmacium sublubricum Jul. Schäff. ex M.M. Moser SPECIES
-=======
+# Phlegmacium sublubricum Jul. Schäff. ex M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

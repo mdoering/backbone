@@ -1,5 +1,4 @@
-Cenangium inculcatum (P. Karst.) Sacc. SPECIES
-=======
+# Cenangium inculcatum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

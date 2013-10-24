@@ -1,5 +1,4 @@
-Pertusaria reagens var. reagens VARIETY
-=======
+# Pertusaria reagens Malme SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria reagens var. reagens
+Pertusaria reagens Malme
 
 ### Remarks
 null

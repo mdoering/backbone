@@ -1,5 +1,4 @@
-Mycosphaerella algarbiensis Dias SPECIES
-=======
+# Mycosphaerella algarbiensis Dias SPECIES
 
 #### Status
 ACCEPTED

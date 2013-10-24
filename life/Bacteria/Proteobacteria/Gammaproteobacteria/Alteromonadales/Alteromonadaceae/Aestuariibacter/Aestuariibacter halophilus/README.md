@@ -1,5 +1,4 @@
-Aestuariibacter halophilus Yi et al., 2004 SPECIES
-=======
+# Aestuariibacter halophilus Yi et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

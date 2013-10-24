@@ -1,5 +1,4 @@
-Phoma bakeriana Sacc., 1914 SPECIES
-=======
+# Phoma bakeriana Sacc., 1914 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaeria tiliae var. tiliae Fr., 1823 VARIETY
-=======
+# Rabenhorstia tiliae (Fr.) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 2(2): 485 (1823)
+Summa veg. Scand. (Stockholm), Section Post. 410 (1849)
 
 #### Original name
-Sphaeria tiliae var. tiliae Fr., 1823
+Sphaeria tiliae Pers., 1794
 
 ### Remarks
 null

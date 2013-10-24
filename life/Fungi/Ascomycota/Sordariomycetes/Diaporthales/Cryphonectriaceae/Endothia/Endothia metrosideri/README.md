@@ -1,5 +1,4 @@
-Endothia metrosideri (Roane & Fosberg) M.E. Barr SPECIES
-=======
+# Endothia metrosideri (Roane & Fosberg) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

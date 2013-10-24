@@ -1,17 +1,16 @@
-Graphyllium dasylirionis A.W. Ramaley SPECIES
-=======
+# Graphyllium dasylirii A.W. Ramaley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Aliso 14(2): 147 (1995)
 
 #### Original name
-Graphyllium dasylirionis A.W. Ramaley
+Graphyllium dasylirii A.W. Ramaley
 
 ### Remarks
 null

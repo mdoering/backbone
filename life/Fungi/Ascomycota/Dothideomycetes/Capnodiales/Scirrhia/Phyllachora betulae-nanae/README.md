@@ -1,5 +1,4 @@
-Phyllachora betulae-nanae (Wahlenb.) P. Karst. ex Mussat, 1901 SPECIES
-=======
+# Phyllachora betulae-nanae (Wahlenb.) P. Karst. ex Mussat, 1901 SPECIES
 
 #### Status
 DOUBTFUL

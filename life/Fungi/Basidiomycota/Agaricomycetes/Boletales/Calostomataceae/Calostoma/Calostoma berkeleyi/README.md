@@ -1,5 +1,4 @@
-Calostoma berkeleyi Massee SPECIES
-=======
+# Calostoma berkeleyi Massee SPECIES
 
 #### Status
 ACCEPTED

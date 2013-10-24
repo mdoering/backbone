@@ -1,17 +1,16 @@
-Lactaria glutinosa Sumst. SPECIES
-=======
+# Lactarius glutinosus Sumst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 33(1): 18 (1941)
 
 #### Original name
-Lactaria glutinosa Sumst.
+Lactarius glutinosus Sumst.
 
 ### Remarks
 null

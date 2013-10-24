@@ -1,5 +1,4 @@
-Thelenella sordidula (Th. Fr.) H. Mayrhofer SPECIES
-=======
+# Thelenella sordidula (Th. Fr.) H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

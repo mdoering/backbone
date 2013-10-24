@@ -1,11 +1,10 @@
-Heliophrya rotunda subsp. rotunda SUBSPECIES
-=======
+# Heliophrya rotunda (Hentschel, 1916) Matthes, 1954 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

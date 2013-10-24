@@ -1,5 +1,4 @@
-Mycena furcatifolia Corner SPECIES
-=======
+# Mycena furcatifolia Corner SPECIES
 
 #### Status
 ACCEPTED

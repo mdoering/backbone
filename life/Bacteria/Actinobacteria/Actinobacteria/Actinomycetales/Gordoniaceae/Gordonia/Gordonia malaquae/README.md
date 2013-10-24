@@ -1,5 +1,4 @@
-Gordonia malaquae Yassin et al., 2007 SPECIES
-=======
+# Gordonia malaquae Yassin et al., 2007 SPECIES
 
 #### Status
 ACCEPTED

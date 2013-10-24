@@ -1,5 +1,4 @@
-Pityrosporum cantliei Castell. SPECIES
-=======
+# Pityrosporum cantliei Castell. SPECIES
 
 #### Status
 ACCEPTED

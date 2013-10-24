@@ -1,5 +1,4 @@
-Aecidium viscosum J.C. Lindq. SPECIES
-=======
+# Aecidium viscosum J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

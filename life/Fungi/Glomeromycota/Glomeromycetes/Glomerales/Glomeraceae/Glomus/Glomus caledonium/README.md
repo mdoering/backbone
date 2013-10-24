@@ -1,14 +1,13 @@
-Glomus caledonius (T.H. Nicolson & Gerd.) Trappe & Gerd. SPECIES
-=======
+# Glomus caledonium (T.H. Nicolson & Gerd.) Trappe & Gerd., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gerdemann & Trappe, Mycol. Mem. 5: 56 (1974)
 
 #### Original name
 Endogone macrocarpa var. caledonia T.H. Nicolson & Gerd., 1968

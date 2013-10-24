@@ -1,5 +1,4 @@
-Heliodiscura Haeckel, 1887 GENUS
-=======
+# Heliodiscura Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

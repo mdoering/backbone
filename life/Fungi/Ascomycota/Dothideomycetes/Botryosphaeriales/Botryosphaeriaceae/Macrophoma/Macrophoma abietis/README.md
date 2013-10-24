@@ -1,5 +1,4 @@
-Macrophoma abietis L. Mangin & Har. SPECIES
-=======
+# Macrophoma abietis L. Mangin & Har. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Parathelium decumbens Müll. Arg. SPECIES
-=======
+# Pyrenula decumbens (Müll. Arg.) Upreti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 32: 134 (1893)
+Nova Hedwigia 66(3-4): 568 (1998)
 
 #### Original name
 Parathelium decumbens Müll. Arg.

@@ -1,5 +1,4 @@
-Porina erumpens (A. Massal.) Zahlbr. SPECIES
-=======
+# Porina erumpens (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

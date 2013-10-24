@@ -1,5 +1,4 @@
-Tremella telleriae M. Dueñas, 2001 SPECIES
-=======
+# Tremella telleriae M. Dueñas, 2001 SPECIES
 
 #### Status
 ACCEPTED

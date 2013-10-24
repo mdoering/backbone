@@ -1,5 +1,4 @@
-Ramalina sandwicensis Zahlbr. SPECIES
-=======
+# Ramalina sandwicensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

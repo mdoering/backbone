@@ -1,5 +1,4 @@
-Coniothyrium cereale E. Müll. SPECIES
-=======
+# Coniothyrium cereale E. Müll. SPECIES
 
 #### Status
 ACCEPTED

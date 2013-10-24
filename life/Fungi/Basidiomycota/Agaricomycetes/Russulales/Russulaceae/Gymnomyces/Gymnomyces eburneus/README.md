@@ -1,5 +1,4 @@
-Gymnomyces eburneus T. Lebel, 2003 SPECIES
-=======
+# Gymnomyces eburneus T. Lebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

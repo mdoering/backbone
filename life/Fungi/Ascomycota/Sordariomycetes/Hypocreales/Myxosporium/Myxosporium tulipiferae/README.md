@@ -1,5 +1,4 @@
-Myxosporium tulipiferae Died. SPECIES
-=======
+# Myxosporium tulipiferae Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinomyces pelletieri SPECIES
-=======
+# Actinomyces pelletieri SPECIES
 
 #### Status
 ACCEPTED

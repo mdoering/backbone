@@ -1,5 +1,4 @@
-Schizocephalum atrofuscum Preuss SPECIES
-=======
+# Schizocephalum atrofuscum Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora hypopodia (Nyl.) Arnold SPECIES
-=======
+# Biatora hypopodia (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

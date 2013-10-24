@@ -1,5 +1,4 @@
-Ochromonas mutabilis Klebs SPECIES
-=======
+# Ochromonas mutabilis Klebs SPECIES
 
 #### Status
 ACCEPTED

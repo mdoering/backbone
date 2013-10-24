@@ -1,5 +1,4 @@
-Inocybe mixtilioides Krieglst. SPECIES
-=======
+# Inocybe mixtilioides Krieglst. SPECIES
 
 #### Status
 ACCEPTED

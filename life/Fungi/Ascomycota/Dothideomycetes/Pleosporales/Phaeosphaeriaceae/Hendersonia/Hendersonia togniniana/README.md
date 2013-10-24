@@ -1,5 +1,4 @@
-Hendersonia togniniana Pollacci SPECIES
-=======
+# Hendersonia togniniana Pollacci SPECIES
 
 #### Status
 ACCEPTED

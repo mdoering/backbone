@@ -1,5 +1,4 @@
-Nazarovites Afanasieva, 2000 GENUS
-=======
+# Nazarovites Afanasieva, 2000 GENUS
 
 #### Status
 ACCEPTED

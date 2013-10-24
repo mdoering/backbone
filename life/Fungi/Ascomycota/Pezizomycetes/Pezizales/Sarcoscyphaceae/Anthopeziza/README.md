@@ -1,5 +1,4 @@
-Anthopeziza GENUS
-=======
+# Anthopeziza GENUS
 
 #### Status
 ACCEPTED

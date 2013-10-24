@@ -1,5 +1,4 @@
-Mucronoporus triqueter (Fr.) Kreisel SPECIES
-=======
+# Mucronoporus triqueter (Fr.) Kreisel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterographium praeandinum Speg. SPECIES
-=======
+# Hysterographium praeandinum Speg. SPECIES
 
 #### Status
 ACCEPTED

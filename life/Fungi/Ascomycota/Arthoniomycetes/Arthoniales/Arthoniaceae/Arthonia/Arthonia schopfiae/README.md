@@ -1,5 +1,4 @@
-Arthonia schopfiae SPECIES
-=======
+# Arthonia schopfiae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Trichodinella sphaeronuclea Lom, 1956 SPECIES
-=======
+# Semitrichodina sphaeronuclea (Lom, 1956) Kazubski, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

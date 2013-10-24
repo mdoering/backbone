@@ -1,5 +1,4 @@
-Tytthocorys Tappan & Loeblich, 1968 GENUS
-=======
+# Tytthocorys Tappan & Loeblich, 1968 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polydiscidium Wakef. GENUS
-=======
+# Polydiscidium Wakef. GENUS
 
 #### Status
 ACCEPTED

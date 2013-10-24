@@ -1,5 +1,4 @@
-Sphacelotheca panici-teneriffae Picb. SPECIES
-=======
+# Sphacelotheca panici-teneriffae Picb. SPECIES
 
 #### Status
 ACCEPTED

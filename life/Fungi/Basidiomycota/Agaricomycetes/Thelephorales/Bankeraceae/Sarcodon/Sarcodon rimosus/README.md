@@ -1,5 +1,4 @@
-Sarcodon rimosus (K.A. Harrison) K.A. Harrison, 1984 SPECIES
-=======
+# Sarcodon rimosus (K.A. Harrison) K.A. Harrison, 1984 SPECIES
 
 #### Status
 ACCEPTED

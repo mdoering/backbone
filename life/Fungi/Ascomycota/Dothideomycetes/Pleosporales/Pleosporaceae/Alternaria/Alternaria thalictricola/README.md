@@ -1,17 +1,16 @@
-Alternaria thalictriicola Y.L. Guo SPECIES
-=======
+# Alternaria thalictricola Y.L. Guo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Anhui Agricultural University 26(Suppl. ): 44 (1999)
 
 #### Original name
-Alternaria thalictriicola Y.L. Guo
+Alternaria thalictricola Y.L. Guo
 
 ### Remarks
 null

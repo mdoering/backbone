@@ -1,5 +1,4 @@
-Gymnopilus baileyi (Berk. & Broome) Pegler SPECIES
-=======
+# Gymnopilus baileyi (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoxanthobacter soli A. B. Arun, 2008 accepted SPECIES
-=======
+# Pseudoxanthobacter soli A. B. Arun, 2008 accepted SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltopsis quinquecladiopsis E.B.G. Jones, Sivichai & Hywel-Jones SPECIES
-=======
+# Micropeltopsis quinquecladiopsis E.B.G. Jones, Sivichai & Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

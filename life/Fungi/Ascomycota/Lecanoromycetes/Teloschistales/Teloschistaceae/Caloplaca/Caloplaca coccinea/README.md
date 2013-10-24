@@ -1,5 +1,4 @@
-Caloplaca coccinea (Müll. Arg.) Poelt SPECIES
-=======
+# Caloplaca coccinea (Müll. Arg.) Poelt SPECIES
 
 #### Status
 ACCEPTED

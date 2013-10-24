@@ -1,5 +1,4 @@
-Octaviania sarcomelas Vittad. SPECIES
-=======
+# Octaviania sarcomelas Vittad. SPECIES
 
 #### Status
 ACCEPTED

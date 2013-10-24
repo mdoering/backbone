@@ -1,5 +1,4 @@
-Passalora saururi (Ellis & Everh.) Crous & U. Braun SPECIES
-=======
+# Passalora saururi (Ellis & Everh.) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum soppitii (Massee) Raitv. SPECIES
-=======
+# Lachnum soppitii (Massee) Raitv. SPECIES
 
 #### Status
 ACCEPTED

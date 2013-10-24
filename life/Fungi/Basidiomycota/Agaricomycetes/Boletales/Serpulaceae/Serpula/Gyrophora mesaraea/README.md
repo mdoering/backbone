@@ -1,5 +1,4 @@
-Gyrophora mesaraea Ach. SPECIES
-=======
+# Gyrophora mesaraea Ach. SPECIES
 
 #### Status
 ACCEPTED

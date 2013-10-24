@@ -1,5 +1,4 @@
-Ascochyta brassicae-junceae Sawada SPECIES
-=======
+# Ascochyta brassicae-junceae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia koflerae Clauzade & Poelt SPECIES
-=======
+# Pleurosticta koflerae (Clauzade & Poelt) Elix & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lumbsch, Kothe & Elix, Mycotaxon 33: 453 (1988)
 
 #### Original name
-null
+Parmelia koflerae Clauzade & Poelt
 
 ### Remarks
 null

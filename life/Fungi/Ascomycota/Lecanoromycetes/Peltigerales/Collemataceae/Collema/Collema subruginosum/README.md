@@ -1,5 +1,4 @@
-Collema subruginosum Nyl. SPECIES
-=======
+# Collema subruginosum Nyl. SPECIES
 
 #### Status
 ACCEPTED

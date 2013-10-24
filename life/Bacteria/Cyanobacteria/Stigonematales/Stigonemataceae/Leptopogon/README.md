@@ -1,5 +1,4 @@
-Leptopogon A. Borzì, 1907 GENUS
-=======
+# Leptopogon A. Borzì, 1907 GENUS
 
 #### Status
 ACCEPTED

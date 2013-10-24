@@ -1,17 +1,16 @@
-Endocalyx indica J.N. Kapoor & Munjal SPECIES
-=======
+# Endocalyx indicus J.N. Kapoor & Munjal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. , Suppl. Issue 19(4): 348 (1967)
 
 #### Original name
-Endocalyx indica J.N. Kapoor & Munjal
+Endocalyx indicus J.N. Kapoor & Munjal
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Myriactis F.T. Kützing, 1843 GENUS
-=======
+# Myriactis F.T. Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

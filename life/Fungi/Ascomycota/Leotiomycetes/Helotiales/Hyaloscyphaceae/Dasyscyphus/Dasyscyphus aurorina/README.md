@@ -1,8 +1,7 @@
-Dasyscypha aurorina (Quél.) Sacc. SPECIES
-=======
+# Dasyscyphus aurorina (Quél.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

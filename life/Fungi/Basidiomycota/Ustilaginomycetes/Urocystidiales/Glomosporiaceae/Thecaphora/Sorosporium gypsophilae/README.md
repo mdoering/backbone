@@ -1,5 +1,4 @@
-Sorosporium gypsophilae Cif. SPECIES
-=======
+# Sorosporium gypsophilae Cif. SPECIES
 
 #### Status
 ACCEPTED

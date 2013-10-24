@@ -1,5 +1,4 @@
-Cortinarius montensis Bidaud SPECIES
-=======
+# Cortinarius montensis Bidaud SPECIES
 
 #### Status
 ACCEPTED

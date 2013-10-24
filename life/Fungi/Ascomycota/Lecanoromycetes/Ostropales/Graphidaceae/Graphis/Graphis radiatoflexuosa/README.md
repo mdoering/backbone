@@ -1,5 +1,4 @@
-Graphis radiatoflexuosa Zenker SPECIES
-=======
+# Graphis radiatoflexuosa Zenker SPECIES
 
 #### Status
 ACCEPTED

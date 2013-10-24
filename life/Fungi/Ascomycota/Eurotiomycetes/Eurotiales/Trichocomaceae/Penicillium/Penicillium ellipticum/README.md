@@ -1,5 +1,4 @@
-Penicillium ellipticum Y. Sasaki SPECIES
-=======
+# Penicillium ellipticum Y. Sasaki SPECIES
 
 #### Status
 ACCEPTED

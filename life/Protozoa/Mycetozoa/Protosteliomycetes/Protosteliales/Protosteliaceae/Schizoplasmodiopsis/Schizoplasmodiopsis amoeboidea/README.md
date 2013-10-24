@@ -1,5 +1,4 @@
-Schizoplasmodiopsis amoeboidea L.S. Olive & K.D. Whitney, 1982 SPECIES
-=======
+# Schizoplasmodiopsis amoeboidea L.S. Olive & K.D. Whitney, 1982 SPECIES
 
 #### Status
 ACCEPTED

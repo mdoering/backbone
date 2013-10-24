@@ -1,5 +1,4 @@
-Ascochyta fagi Woron. SPECIES
-=======
+# Ascochyta fagi Woron. SPECIES
 
 #### Status
 ACCEPTED

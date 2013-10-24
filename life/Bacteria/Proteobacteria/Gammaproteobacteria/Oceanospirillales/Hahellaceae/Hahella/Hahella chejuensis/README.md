@@ -1,5 +1,4 @@
-Hahella chejuensis Lee et al., 2001 SPECIES
-=======
+# Hahella chejuensis Lee et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

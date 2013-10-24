@@ -1,5 +1,4 @@
-Chaetophoma penzigii Sacc. SPECIES
-=======
+# Chaetophoma penzigii Sacc. SPECIES
 
 #### Status
 ACCEPTED

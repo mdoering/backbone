@@ -1,5 +1,4 @@
-Dinemasporium robiniae W.R. Gerard SPECIES
-=======
+# Dinemasporium robiniae W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

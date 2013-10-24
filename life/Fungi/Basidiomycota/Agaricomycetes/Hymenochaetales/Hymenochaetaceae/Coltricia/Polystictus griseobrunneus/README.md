@@ -1,5 +1,4 @@
-Polystictus griseobrunneus Henn. ex Sacc. & P. Syd. SPECIES
-=======
+# Polystictus griseobrunneus Henn. ex Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia berberidis Sacc. SPECIES
-=======
+# Diplodia berberidis Sacc. SPECIES
 
 #### Status
 ACCEPTED

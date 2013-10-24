@@ -1,5 +1,4 @@
-Spiremidium Haeckel, 1887 GENUS
-=======
+# Spiremidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

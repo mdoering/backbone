@@ -1,5 +1,4 @@
-Parmelia leucostigma (Brusse) Brusse SPECIES
-=======
+# Parmelia leucostigma (Brusse) Brusse SPECIES
 
 #### Status
 ACCEPTED

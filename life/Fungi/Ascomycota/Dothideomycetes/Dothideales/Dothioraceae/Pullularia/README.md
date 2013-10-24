@@ -1,5 +1,4 @@
-Pullularia Berkhout, 1923 GENUS
-=======
+# Pullularia Berkhout, 1923 GENUS
 
 #### Status
 ACCEPTED

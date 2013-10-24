@@ -1,5 +1,4 @@
-Lichenohendersonia uniseptata Etayo & Calat., 2001 SPECIES
-=======
+# Lichenohendersonia uniseptata Etayo & Calat., 2001 SPECIES
 
 #### Status
 ACCEPTED

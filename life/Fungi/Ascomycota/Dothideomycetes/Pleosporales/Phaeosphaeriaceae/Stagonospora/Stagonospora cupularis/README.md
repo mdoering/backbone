@@ -1,5 +1,4 @@
-Stagonospora cupularis P. Karst. SPECIES
-=======
+# Stagonospora cupularis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

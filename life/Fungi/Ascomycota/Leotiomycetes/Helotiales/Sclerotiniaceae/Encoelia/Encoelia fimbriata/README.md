@@ -1,5 +1,4 @@
-Encoelia fimbriata Spooner & Trigaux, 1985 SPECIES
-=======
+# Encoelia fimbriata Spooner & Trigaux, 1985 SPECIES
 
 #### Status
 ACCEPTED

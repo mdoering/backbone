@@ -1,5 +1,4 @@
-Dasyscyphella claviculata (Velen.) Baral & Svrcek SPECIES
-=======
+# Dasyscyphella claviculata (Velen.) Baral & Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chytridium deltanum M.J. Mast. SPECIES
-=======
+# Chytridium deltanum M.J. Mast. SPECIES
 
 #### Status
 ACCEPTED

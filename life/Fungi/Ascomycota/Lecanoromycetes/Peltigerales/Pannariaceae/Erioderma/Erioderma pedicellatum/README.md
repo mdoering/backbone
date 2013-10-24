@@ -1,5 +1,4 @@
-Erioderma pedicellatum (Hue) P.M. Jørg. SPECIES
-=======
+# Erioderma pedicellatum (Hue) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

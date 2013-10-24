@@ -1,5 +1,4 @@
-Siphula verrucigera (J.F. Gmel.) R. Sant. SPECIES
-=======
+# Siphula verrucigera (J.F. Gmel.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

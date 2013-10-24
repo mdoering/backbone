@@ -1,5 +1,4 @@
-Dicaeoma wrightii (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma wrightii (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

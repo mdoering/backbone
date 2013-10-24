@@ -1,5 +1,4 @@
-Melanopsammina carinthiaca Höhn. SPECIES
-=======
+# Melanopsammina carinthiaca Höhn. SPECIES
 
 #### Status
 ACCEPTED

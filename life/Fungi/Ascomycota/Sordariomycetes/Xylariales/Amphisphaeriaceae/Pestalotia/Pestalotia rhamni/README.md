@@ -1,5 +1,4 @@
-Pestalotia rhamni Celotti SPECIES
-=======
+# Pestalotia rhamni Celotti SPECIES
 
 #### Status
 ACCEPTED

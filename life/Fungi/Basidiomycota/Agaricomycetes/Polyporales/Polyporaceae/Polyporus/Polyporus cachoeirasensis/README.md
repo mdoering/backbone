@@ -1,5 +1,4 @@
-Polyporus cachoeirasensis Henn. SPECIES
-=======
+# Polyporus cachoeirasensis Henn. SPECIES
 
 #### Status
 ACCEPTED

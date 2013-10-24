@@ -1,5 +1,4 @@
-Polyporus ravenelii Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus ravenelii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

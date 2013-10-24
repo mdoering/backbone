@@ -1,5 +1,4 @@
-Cercospora kopkei Krueger SPECIES
-=======
+# Cercospora kopkei Krueger SPECIES
 
 #### Status
 ACCEPTED

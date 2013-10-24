@@ -1,5 +1,4 @@
-Schizoxylon hippophaës Rehm SPECIES
-=======
+# Schizoxylon hippophaës Rehm SPECIES
 
 #### Status
 ACCEPTED

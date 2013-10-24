@@ -1,5 +1,4 @@
-Russula pseudoemetica Secr. ex Singer SPECIES
-=======
+# Russula pseudoemetica Secr. ex Singer SPECIES
 
 #### Status
 ACCEPTED

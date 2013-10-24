@@ -1,5 +1,4 @@
-Leptosphaeria lophanthi (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Leptosphaeria lophanthi (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina ekmanii Petr. & Cif. SPECIES
-=======
+# Asterina ekmanii Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

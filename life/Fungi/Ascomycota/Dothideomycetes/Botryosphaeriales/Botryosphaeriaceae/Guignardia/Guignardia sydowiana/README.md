@@ -1,5 +1,4 @@
-Guignardia sydowiana Trotter SPECIES
-=======
+# Guignardia sydowiana Trotter SPECIES
 
 #### Status
 ACCEPTED

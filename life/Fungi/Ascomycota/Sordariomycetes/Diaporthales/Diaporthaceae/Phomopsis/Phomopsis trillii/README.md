@@ -1,5 +1,4 @@
-Phomopsis trillii Fairm. SPECIES
-=======
+# Phomopsis trillii Fairm. SPECIES
 
 #### Status
 ACCEPTED

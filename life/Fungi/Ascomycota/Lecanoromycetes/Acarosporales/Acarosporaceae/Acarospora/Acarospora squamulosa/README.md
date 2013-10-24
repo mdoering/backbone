@@ -1,5 +1,4 @@
-Acarospora squamulosa SPECIES
-=======
+# Acarospora squamulosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina schimae Hosag., Jac. Thomas & P.J. Robin, 2009 SPECIES
-=======
+# Asterina schimae Hosag., Jac. Thomas & P.J. Robin, 2009 SPECIES
 
 #### Status
 ACCEPTED

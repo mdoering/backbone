@@ -1,5 +1,4 @@
-Buellia substellulata SPECIES
-=======
+# Buellia substellulata SPECIES
 
 #### Status
 ACCEPTED

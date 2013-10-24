@@ -1,5 +1,4 @@
-Peniophora tenuissima Peck SPECIES
-=======
+# Peniophora tenuissima Peck SPECIES
 
 #### Status
 ACCEPTED

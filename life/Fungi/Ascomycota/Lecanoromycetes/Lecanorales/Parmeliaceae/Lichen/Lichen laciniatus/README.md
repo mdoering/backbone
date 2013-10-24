@@ -1,5 +1,4 @@
-Lichen laciniatus Sw. SPECIES
-=======
+# Lichen laciniatus Sw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epalxis bideus Kahl, 1932 SPECIES
-=======
+# Epalxis bideus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

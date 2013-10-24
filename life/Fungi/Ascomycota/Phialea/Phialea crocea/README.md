@@ -1,5 +1,4 @@
-Phialea crocea (Schwein.) Sacc. SPECIES
-=======
+# Phialea crocea (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

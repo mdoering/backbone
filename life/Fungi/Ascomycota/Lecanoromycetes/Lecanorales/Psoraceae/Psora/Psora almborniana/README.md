@@ -1,5 +1,4 @@
-Psora almborniana Lumbsch & Kothe SPECIES
-=======
+# Psora almborniana Lumbsch & Kothe SPECIES
 
 #### Status
 ACCEPTED

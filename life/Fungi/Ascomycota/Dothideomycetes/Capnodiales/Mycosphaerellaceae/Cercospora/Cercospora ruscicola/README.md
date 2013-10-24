@@ -1,5 +1,4 @@
-Cercospora ruscicola V.G. Rao & A.S. Patil SPECIES
-=======
+# Cercospora ruscicola V.G. Rao & A.S. Patil SPECIES
 
 #### Status
 ACCEPTED

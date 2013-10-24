@@ -1,5 +1,4 @@
-Caloplaca cerina var. cerina VARIETY
-=======
+# Caloplaca cerina (Ehrh. ex Hedw.) Th. Fr., 1861 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 3: 218 (1861)
+null
 
 #### Original name
-Lichen cerinus Ehrh. ex Hedw.
+null
 
 ### Remarks
 null

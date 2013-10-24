@@ -1,5 +1,4 @@
-Macrosporium atriplicis Massee & Rodway SPECIES
-=======
+# Macrosporium atriplicis Massee & Rodway SPECIES
 
 #### Status
 ACCEPTED

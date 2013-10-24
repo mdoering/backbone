@@ -1,5 +1,4 @@
-Scopulariopsis argentea Svilv. SPECIES
-=======
+# Scopulariopsis argentea Svilv. SPECIES
 
 #### Status
 ACCEPTED

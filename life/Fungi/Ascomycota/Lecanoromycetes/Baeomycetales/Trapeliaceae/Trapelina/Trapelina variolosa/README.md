@@ -1,5 +1,4 @@
-Trapelina variolosa (Flot.) Motyka SPECIES
-=======
+# Trapelina variolosa (Flot.) Motyka SPECIES
 
 #### Status
 ACCEPTED

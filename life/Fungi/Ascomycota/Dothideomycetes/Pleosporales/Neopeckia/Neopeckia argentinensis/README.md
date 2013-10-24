@@ -1,17 +1,16 @@
-Neopeckia argentiniensis Speg. SPECIES
-=======
+# Neopeckia argentinensis Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 47(6): 175 (1899)
 
 #### Original name
-Neopeckia argentiniensis Speg.
+Neopeckia argentinensis Speg.
 
 ### Remarks
 null

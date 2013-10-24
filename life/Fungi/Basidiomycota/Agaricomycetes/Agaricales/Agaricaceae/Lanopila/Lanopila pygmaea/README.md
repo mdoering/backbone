@@ -1,5 +1,4 @@
-Lanopila pygmaea R.E. Fr. SPECIES
-=======
+# Lanopila pygmaea R.E. Fr. SPECIES
 
 #### Status
 ACCEPTED

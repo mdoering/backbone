@@ -1,5 +1,4 @@
-Parmelia sublatifolia J.D. Zhao, L.W. Hsu & Z.M. Sun SPECIES
-=======
+# Parmelia sublatifolia J.D. Zhao, L.W. Hsu & Z.M. Sun SPECIES
 
 #### Status
 ACCEPTED

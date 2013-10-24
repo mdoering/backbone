@@ -1,5 +1,4 @@
-Ascochyta alni Siemaszko SPECIES
-=======
+# Ascochyta alni Siemaszko SPECIES
 
 #### Status
 ACCEPTED

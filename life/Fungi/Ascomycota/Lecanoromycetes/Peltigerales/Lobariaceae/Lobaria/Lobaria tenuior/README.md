@@ -1,5 +1,4 @@
-Lobaria tenuior (Hue) M. Satô SPECIES
-=======
+# Lobaria tenuior (Hue) M. Satô SPECIES
 
 #### Status
 ACCEPTED

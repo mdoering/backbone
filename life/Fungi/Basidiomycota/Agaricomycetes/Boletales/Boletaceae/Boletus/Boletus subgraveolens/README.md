@@ -1,5 +1,4 @@
-Boletus subgraveolens A.H. Sm. & Thiers SPECIES
-=======
+# Boletus subgraveolens A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella coralloides Scop. SPECIES
-=======
+# Tremella coralloides Scop. SPECIES
 
 #### Status
 ACCEPTED

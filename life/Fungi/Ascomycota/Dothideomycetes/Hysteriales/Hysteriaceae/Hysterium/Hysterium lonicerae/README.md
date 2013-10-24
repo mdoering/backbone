@@ -1,5 +1,4 @@
-Hysterium lonicerae W. Phillips & Harkn. SPECIES
-=======
+# Hysterium lonicerae W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

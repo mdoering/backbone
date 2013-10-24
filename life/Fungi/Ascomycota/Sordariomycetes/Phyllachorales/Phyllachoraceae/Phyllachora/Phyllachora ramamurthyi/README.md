@@ -1,5 +1,4 @@
-Phyllachora ramamurthyi Hosag., Manian & Pandur., 1993 SPECIES
-=======
+# Phyllachora ramamurthyi Hosag., Manian & Pandur., 1993 SPECIES
 
 #### Status
 ACCEPTED

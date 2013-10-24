@@ -1,5 +1,4 @@
-Lecidella protrusa (Fr.) Körb. SPECIES
-=======
+# Lecidella protrusa (Fr.) Körb. SPECIES
 
 #### Status
 ACCEPTED

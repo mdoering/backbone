@@ -1,5 +1,4 @@
-Gibbera guaranitica Speg. SPECIES
-=======
+# Gibbera guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

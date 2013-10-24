@@ -1,5 +1,4 @@
-Entosiphon striatum Hollande SPECIES
-=======
+# Entosiphon striatum Hollande SPECIES
 
 #### Status
 ACCEPTED

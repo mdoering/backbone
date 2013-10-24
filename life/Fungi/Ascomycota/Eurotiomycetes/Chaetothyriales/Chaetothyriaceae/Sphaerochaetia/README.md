@@ -1,5 +1,4 @@
-Sphaerochaetia GENUS
-=======
+# Sphaerochaetia GENUS
 
 #### Status
 ACCEPTED

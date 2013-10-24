@@ -1,5 +1,4 @@
-Polystictus nuceus Fr. SPECIES
-=======
+# Polystictus nuceus Fr. SPECIES
 
 #### Status
 ACCEPTED

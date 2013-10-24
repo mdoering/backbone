@@ -1,5 +1,4 @@
-Puccinia angelicicola Henn. SPECIES
-=======
+# Puccinia angelicicola Henn. SPECIES
 
 #### Status
 ACCEPTED

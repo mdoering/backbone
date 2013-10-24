@@ -1,5 +1,4 @@
-Aecidium perralderianum Maire SPECIES
-=======
+# Aecidium perralderianum Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius luteocarnosus (Raithelh.) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius luteocarnosus (Raithelh.) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

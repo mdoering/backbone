@@ -1,5 +1,4 @@
-Ophiuridium rugulosum Hazsl. SPECIES
-=======
+# Ophiuridium rugulosum Hazsl. SPECIES
 
 #### Status
 ACCEPTED

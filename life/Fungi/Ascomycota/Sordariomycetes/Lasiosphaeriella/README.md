@@ -1,5 +1,4 @@
-Lasiosphaeriella Sivan. GENUS
-=======
+# Lasiosphaeriella Sivan. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paracichlidotherus leeuwenhoeki Grim, 1992 SPECIES
-=======
+# Paracichlidotherus leeuwenhoeki Grim, 1992 SPECIES
 
 #### Status
 ACCEPTED

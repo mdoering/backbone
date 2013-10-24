@@ -1,5 +1,4 @@
-Arthonia hormidiella Stirt. SPECIES
-=======
+# Arthonia hormidiella Stirt. SPECIES
 
 #### Status
 ACCEPTED

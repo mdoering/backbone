@@ -1,5 +1,4 @@
-Colletotrichum crotalariae-junceae Sawada SPECIES
-=======
+# Colletotrichum crotalariae-junceae Sawada SPECIES
 
 #### Status
 ACCEPTED

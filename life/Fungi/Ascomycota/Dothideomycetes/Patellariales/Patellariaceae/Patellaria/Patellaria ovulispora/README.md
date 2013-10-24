@@ -1,5 +1,4 @@
-Patellaria ovulispora P. Karst. SPECIES
-=======
+# Patellaria ovulispora P. Karst. SPECIES
 
 #### Status
 ACCEPTED

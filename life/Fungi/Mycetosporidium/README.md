@@ -1,5 +1,4 @@
-Mycetosporidium L. Léger & E. Hesse GENUS
-=======
+# Mycetosporidium L. Léger & E. Hesse GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina coccospora Aptroot SPECIES
-=======
+# Graphina coccospora Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta subscrobiculata (Nyl.) Gyeln. SPECIES
-=======
+# Sticta subscrobiculata (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodulisporium ellisii (Sacc. & P. Syd.) S. Hughes SPECIES
-=======
+# Nodulisporium ellisii (Sacc. & P. Syd.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Camarosporium caesalpinium Gucevic SPECIES
-=======
+# Camarosporium caesalpiniae Gucevic SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trudy gos. nikit. bot. Sada 32: 149 (1960)
 
 #### Original name
-Camarosporium caesalpinium Gucevic
+Camarosporium caesalpiniae Gucevic
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polystictus holstii Henn. SPECIES
-=======
+# Polystictus holstii Henn. SPECIES
 
 #### Status
 ACCEPTED

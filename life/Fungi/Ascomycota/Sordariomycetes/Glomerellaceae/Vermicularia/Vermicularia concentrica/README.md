@@ -1,5 +1,4 @@
-Vermicularia concentrica Peck & Cooke SPECIES
-=======
+# Vermicularia concentrica Peck & Cooke SPECIES
 
 #### Status
 ACCEPTED

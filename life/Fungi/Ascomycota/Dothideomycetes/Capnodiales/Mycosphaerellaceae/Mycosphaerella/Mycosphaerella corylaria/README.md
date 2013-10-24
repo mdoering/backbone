@@ -1,5 +1,4 @@
-Mycosphaerella corylaria (Wallr.) SPECIES
-=======
+# Mycosphaerella corylaria (Wallr.) SPECIES
 
 #### Status
 ACCEPTED

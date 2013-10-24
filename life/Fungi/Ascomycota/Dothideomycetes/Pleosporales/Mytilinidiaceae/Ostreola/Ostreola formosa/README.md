@@ -1,5 +1,4 @@
-Ostreola formosa (Cooke) M.E. Barr SPECIES
-=======
+# Ostreola formosa (Cooke) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

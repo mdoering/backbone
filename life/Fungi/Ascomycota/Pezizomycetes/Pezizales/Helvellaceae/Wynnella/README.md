@@ -1,17 +1,16 @@
-Midotis Fr. GENUS
-=======
+# Wynnella Boud. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Greifswald) 2: 29 (1828)
+Bull. Soc. mycol. Fr. 1: 102 (1885)
 
 #### Original name
-Midotis Fr.
+Wynnella Boud.
 
 ### Remarks
 null

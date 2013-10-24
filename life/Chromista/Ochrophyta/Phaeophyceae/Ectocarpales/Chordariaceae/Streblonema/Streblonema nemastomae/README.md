@@ -1,5 +1,4 @@
-Streblonema nemastomae Baardseth SPECIES
-=======
+# Streblonema nemastomae Baardseth SPECIES
 
 #### Status
 ACCEPTED

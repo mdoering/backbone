@@ -1,5 +1,4 @@
-Parmelia fertilis Müll. Arg. SPECIES
-=======
+# Parmelia fertilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

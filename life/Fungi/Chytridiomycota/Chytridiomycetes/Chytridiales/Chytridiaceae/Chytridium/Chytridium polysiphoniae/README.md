@@ -1,5 +1,4 @@
-Chytridium polysiphoniae E. Cohn SPECIES
-=======
+# Chytridium polysiphoniae E. Cohn SPECIES
 
 #### Status
 ACCEPTED

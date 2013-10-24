@@ -1,5 +1,4 @@
-Hydnum diaphanum Schrad. SPECIES
-=======
+# Hydnum diaphanum Schrad. SPECIES
 
 #### Status
 ACCEPTED

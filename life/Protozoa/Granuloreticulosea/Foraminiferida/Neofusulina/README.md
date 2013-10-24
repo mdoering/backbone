@@ -1,5 +1,4 @@
-Neofusulina Miklukho-Maklay, 1963 GENUS
-=======
+# Neofusulina Miklukho-Maklay, 1963 GENUS
 
 #### Status
 ACCEPTED

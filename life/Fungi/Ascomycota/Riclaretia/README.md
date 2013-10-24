@@ -1,5 +1,4 @@
-Riclaretia Peyronel GENUS
-=======
+# Riclaretia Peyronel GENUS
 
 #### Status
 ACCEPTED

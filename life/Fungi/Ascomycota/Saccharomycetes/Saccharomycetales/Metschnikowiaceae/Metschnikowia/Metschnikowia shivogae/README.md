@@ -1,5 +1,4 @@
-Metschnikowia shivogae Lachance, J.M. Bowles & Starmer, 2008 SPECIES
-=======
+# Metschnikowia shivogae Lachance, J.M. Bowles & Starmer, 2008 SPECIES
 
 #### Status
 ACCEPTED

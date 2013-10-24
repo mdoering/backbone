@@ -1,5 +1,4 @@
-Meliola canthiigena Hosag., Archana & D.K. Agarwal SPECIES
-=======
+# Meliola canthiigena Hosag., Archana & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

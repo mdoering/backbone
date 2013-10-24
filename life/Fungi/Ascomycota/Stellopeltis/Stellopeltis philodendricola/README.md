@@ -1,17 +1,16 @@
-Stellopeltis philodendricola var. philodendricola VARIETY
-=======
+# Stellopeltis philodendricola (Bat.) Bat. & A.F. Vital, 1959 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Batista & Ciferri, Mycopathologia 11(1-2): 89 (1959)
 
 #### Original name
-Stellopeltis philodendricola var. philodendricola
+Pycnothyrium philodendricola Bat., 1953
 
 ### Remarks
 null

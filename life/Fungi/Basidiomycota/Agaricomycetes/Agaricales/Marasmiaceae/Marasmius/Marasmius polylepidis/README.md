@@ -1,5 +1,4 @@
-Marasmius polylepidis Dennis ex Singer SPECIES
-=======
+# Marasmius polylepidis Dennis ex Singer SPECIES
 
 #### Status
 ACCEPTED

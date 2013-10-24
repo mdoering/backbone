@@ -1,5 +1,4 @@
-Gyalideopsis stipitata Kalb & Vezda SPECIES
-=======
+# Gyalideopsis stipitata Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

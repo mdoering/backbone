@@ -1,5 +1,4 @@
-Phractopeltatidae FAMILY
-=======
+# Phractopeltatidae FAMILY
 
 #### Status
 ACCEPTED

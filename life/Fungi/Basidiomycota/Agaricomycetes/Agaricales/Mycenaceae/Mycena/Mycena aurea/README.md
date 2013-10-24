@@ -1,5 +1,4 @@
-Mycena aurea Beeli SPECIES
-=======
+# Mycena aurea Beeli SPECIES
 
 #### Status
 ACCEPTED

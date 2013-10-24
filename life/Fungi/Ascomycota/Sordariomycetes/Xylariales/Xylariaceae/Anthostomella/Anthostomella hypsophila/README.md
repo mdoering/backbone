@@ -1,5 +1,4 @@
-Anthostomella hypsophila Ellis & Everh. SPECIES
-=======
+# Anthostomella hypsophila Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllosticta zingiberia F. Stevens & R.W. Ryan SPECIES
-=======
+# Phyllosticta zingiberis F. Stevens & R.W. Ryan, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin of the Bernice P. Bishop Museum, Honolulu, Hawaii 19: 133 (1925)
 
 #### Original name
-Phyllosticta zingiberia F. Stevens & R.W. Ryan
+Phyllosticta zingiberis F. Stevens & R.W. Ryan, 1925
 
 ### Remarks
 null

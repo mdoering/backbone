@@ -1,5 +1,4 @@
-Sphaeria nigripes Ellis SPECIES
-=======
+# Sphaeria nigripes Ellis SPECIES
 
 #### Status
 ACCEPTED

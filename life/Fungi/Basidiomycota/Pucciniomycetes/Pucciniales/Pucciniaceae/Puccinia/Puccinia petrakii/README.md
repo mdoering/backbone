@@ -1,5 +1,4 @@
-Puccinia petrakii J.C. Lindq. SPECIES
-=======
+# Puccinia petrakii J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia angulosa (Schreb.) Ach. SPECIES
-=======
+# Parmelia angulosa (Schreb.) Ach. SPECIES
 
 #### Status
 ACCEPTED

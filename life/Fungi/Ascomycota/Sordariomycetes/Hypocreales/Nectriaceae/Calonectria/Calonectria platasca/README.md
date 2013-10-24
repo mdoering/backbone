@@ -1,14 +1,13 @@
-Nectria platasca (Berk.) Berk., 1860 SPECIES
-=======
+# Calonectria platasca (Berk.) Sacc., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 1(no. 3): 308 (1878)
 
 #### Original name
 Nectria platasca (Berk.) Berk., 1860

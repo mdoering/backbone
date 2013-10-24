@@ -1,5 +1,4 @@
-Asteridiella meibomiae var. meibomiae VARIETY
-=======
+# Asteridiella meibomiae (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 10: 49 (1957)
 
 #### Original name
-Asteridiella meibomiae var. meibomiae
+Irenina meibomiae F. Stevens
 
 ### Remarks
 null

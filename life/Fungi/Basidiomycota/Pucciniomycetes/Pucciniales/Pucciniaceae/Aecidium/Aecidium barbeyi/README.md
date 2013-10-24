@@ -1,5 +1,4 @@
-Aecidium barbeyi Roum. SPECIES
-=======
+# Aecidium barbeyi Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gigartacon Schewiakoff, 1926 GENUS
-=======
+# Gigartacon Schewiakoff, 1926 GENUS
 
 #### Status
 ACCEPTED

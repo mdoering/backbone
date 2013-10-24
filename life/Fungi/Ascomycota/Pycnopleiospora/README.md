@@ -1,5 +1,4 @@
-Pycnopleiospora C.Z. Wei, Y. Harada & Katum. GENUS
-=======
+# Pycnopleiospora C.Z. Wei, Y. Harada & Katum. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tridentocyrtis Steiger & Steiger, 1994 GENUS
-=======
+# Tridentocyrtis Steiger & Steiger, 1994 GENUS
 
 #### Status
 ACCEPTED

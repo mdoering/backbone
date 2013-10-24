@@ -1,5 +1,4 @@
-Phoma microspora Pat. SPECIES
-=======
+# Phoma microspora Pat. SPECIES
 
 #### Status
 ACCEPTED

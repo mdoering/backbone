@@ -1,5 +1,4 @@
-Scopella kevorkianii Cummins SPECIES
-=======
+# Scopella kevorkianii Cummins SPECIES
 
 #### Status
 ACCEPTED

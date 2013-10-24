@@ -1,5 +1,4 @@
-Watznaueria frequens (NoÃ«l) D. Bukry SPECIES
-=======
+# Watznaueria frequens (NoÃ«l) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita pilosella f. pilosella FORM
-=======
+# Amanita pilosella Corner & Bas SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Persoonia 2(3): 267 (1962)
 
 #### Original name
-Amanita pilosella f. pilosella
+Amanita pilosella Corner & Bas
 
 ### Remarks
 null

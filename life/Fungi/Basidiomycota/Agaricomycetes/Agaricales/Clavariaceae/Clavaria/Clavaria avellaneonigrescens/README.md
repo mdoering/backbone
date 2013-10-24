@@ -1,5 +1,4 @@
-Clavaria avellaneonigrescens S. Imai SPECIES
-=======
+# Clavaria avellaneonigrescens S. Imai SPECIES
 
 #### Status
 ACCEPTED

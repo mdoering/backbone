@@ -1,5 +1,4 @@
-Nosema vespula SPECIES
-=======
+# Nosema vespula SPECIES
 
 #### Status
 ACCEPTED

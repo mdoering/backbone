@@ -1,5 +1,4 @@
-Tyromyces albosordescens (Romell) SPECIES
-=======
+# Tyromyces albosordescens (Romell) SPECIES
 
 #### Status
 ACCEPTED

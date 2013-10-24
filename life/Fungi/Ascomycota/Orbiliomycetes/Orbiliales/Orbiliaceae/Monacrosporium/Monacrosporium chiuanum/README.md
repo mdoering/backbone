@@ -1,5 +1,4 @@
-Monacrosporium chiuanum Xing Z. Liu & K.Q. Zhang SPECIES
-=======
+# Monacrosporium chiuanum Xing Z. Liu & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

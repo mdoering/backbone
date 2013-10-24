@@ -1,5 +1,4 @@
-Hendersonia leptospora Trail SPECIES
-=======
+# Hendersonia leptospora Trail SPECIES
 
 #### Status
 ACCEPTED

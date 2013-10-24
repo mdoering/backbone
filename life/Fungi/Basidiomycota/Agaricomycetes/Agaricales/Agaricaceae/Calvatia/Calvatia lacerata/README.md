@@ -1,5 +1,4 @@
-Calvatia lacerata A.H. Sm. SPECIES
-=======
+# Calvatia lacerata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

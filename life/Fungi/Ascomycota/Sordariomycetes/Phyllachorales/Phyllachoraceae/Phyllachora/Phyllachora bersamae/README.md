@@ -1,14 +1,13 @@
-Plectosphaera bersamae (Lingelsh.) Theiss., 1917 SPECIES
-=======
+# Phyllachora bersamae Lingelsh., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 14(6): 413 (1917)
+Bot. Jb. 39: 604 (1907)
 
 #### Original name
 Phyllachora bersamae Lingelsh., 1907

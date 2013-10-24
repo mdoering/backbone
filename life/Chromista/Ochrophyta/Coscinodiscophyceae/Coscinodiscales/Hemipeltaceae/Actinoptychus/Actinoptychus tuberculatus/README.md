@@ -1,5 +1,4 @@
-Actinoptychus tuberculatus N. I. Strelnikova SPECIES
-=======
+# Actinoptychus tuberculatus N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

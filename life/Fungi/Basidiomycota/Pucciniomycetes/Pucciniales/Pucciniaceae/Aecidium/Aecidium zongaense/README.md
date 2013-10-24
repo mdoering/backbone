@@ -1,5 +1,4 @@
-Aecidium zongaense Henn. SPECIES
-=======
+# Aecidium zongaense Henn. SPECIES
 
 #### Status
 ACCEPTED

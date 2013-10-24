@@ -1,5 +1,4 @@
-Agaricus stereopus Pers. SPECIES
-=======
+# Agaricus stereopus Pers. SPECIES
 
 #### Status
 ACCEPTED

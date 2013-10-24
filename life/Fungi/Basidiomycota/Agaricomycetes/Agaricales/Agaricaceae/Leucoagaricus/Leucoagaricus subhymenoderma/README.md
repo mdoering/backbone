@@ -1,5 +1,4 @@
-Leucoagaricus subhymenoderma Bon & A. Caball. SPECIES
-=======
+# Leucoagaricus subhymenoderma Bon & A. Caball. SPECIES
 
 #### Status
 ACCEPTED

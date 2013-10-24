@@ -1,8 +1,7 @@
-Arthopyrenia taylori M. Choisy SPECIES
-=======
+# Arthopyrenia taylorii M. Choisy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arthopyrenia taylori M. Choisy
+Arthopyrenia taylorii M. Choisy
 
 ### Remarks
 null

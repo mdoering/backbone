@@ -1,5 +1,4 @@
-Lecanora cretensis Motyka SPECIES
-=======
+# Lecanora cretensis Motyka SPECIES
 
 #### Status
 ACCEPTED

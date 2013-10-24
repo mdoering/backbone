@@ -1,5 +1,4 @@
-Buellia lividescens SPECIES
-=======
+# Buellia lividescens SPECIES
 
 #### Status
 ACCEPTED

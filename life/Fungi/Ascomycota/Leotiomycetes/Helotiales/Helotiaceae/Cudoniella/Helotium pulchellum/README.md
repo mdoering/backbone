@@ -1,5 +1,4 @@
-Helotium pulchellum (Sacc.) Boud., 1907 SPECIES
-=======
+# Helotium pulchellum (Sacc.) Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED

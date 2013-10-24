@@ -1,14 +1,13 @@
-Coryne fennica (P. Karst.) P. Karst., 1871 SPECIES
-=======
+# Chlorospleniella fennica (P. Karst.) Sacc. ex Clem. & Shear, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 19: 94 (1871)
+null
 
 #### Original name
 Peziza fennica P. Karst.

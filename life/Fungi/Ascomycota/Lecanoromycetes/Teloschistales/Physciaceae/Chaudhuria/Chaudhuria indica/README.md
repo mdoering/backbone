@@ -1,5 +1,4 @@
-Chaudhuria indica Zahlbr. SPECIES
-=======
+# Chaudhuria indica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

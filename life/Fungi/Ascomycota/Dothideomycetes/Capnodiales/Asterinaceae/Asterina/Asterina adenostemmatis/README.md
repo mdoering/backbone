@@ -1,17 +1,16 @@
-Asterina adenostemmae A.K. Kar & S.N. Ghosh SPECIES
-=======
+# Asterina adenostemmatis A.K. Kar & S.N. Ghosh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 39(2): 208 (1987)
 
 #### Original name
-Asterina adenostemmae A.K. Kar & S.N. Ghosh
+Asterina adenostemmatis A.K. Kar & S.N. Ghosh
 
 ### Remarks
 null

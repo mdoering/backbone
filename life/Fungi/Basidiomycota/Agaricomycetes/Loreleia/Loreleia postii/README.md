@@ -1,17 +1,16 @@
-Omphalia postii var. postii VARIETY
-=======
+# Loreleia postii (Fr.) Redhead, Moncalvo, Vilgalys & Lutzoni, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rysslands, Finlands och den Skandinaviska Halföns. Hattsvampar 129 (1879)
+Mycotaxon 82: 162 (2002)
 
 #### Original name
-Omphalia postii var. postii
+Agaricus postii Fr., 1863
 
 ### Remarks
 null

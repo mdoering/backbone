@@ -1,14 +1,13 @@
-Dictyopeltis domingensis Petr. & Cif., 1932 SPECIES
-=======
+# Dictyopeltella domingensis (Petr. & Cif.) Bat. & I.H. Lima, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 30(3/4): 179 (1932)
+in Batista, Publções Inst. Micol. Recife 56: 243 (1959)
 
 #### Original name
 Dictyopeltis domingensis Petr. & Cif., 1932

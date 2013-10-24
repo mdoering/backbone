@@ -1,5 +1,4 @@
-Gymnopilus avellanus (Cooke & Massee) Pegler SPECIES
-=======
+# Gymnopilus avellanus (Cooke & Massee) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula japonica Hongo SPECIES
-=======
+# Russula japonica Hongo SPECIES
 
 #### Status
 ACCEPTED

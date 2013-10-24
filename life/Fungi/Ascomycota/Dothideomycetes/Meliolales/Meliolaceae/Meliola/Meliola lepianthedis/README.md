@@ -1,5 +1,4 @@
-Meliola lepianthedis Hosag. & Kamar. SPECIES
-=======
+# Meliola lepianthedis Hosag. & Kamar. SPECIES
 
 #### Status
 ACCEPTED

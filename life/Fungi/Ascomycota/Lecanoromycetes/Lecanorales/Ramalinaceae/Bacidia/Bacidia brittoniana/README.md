@@ -1,5 +1,4 @@
-Bacidia brittoniana (Riddle) Zahlbr. SPECIES
-=======
+# Bacidia brittoniana (Riddle) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

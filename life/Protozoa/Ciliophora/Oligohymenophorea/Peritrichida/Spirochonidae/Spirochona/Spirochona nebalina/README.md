@@ -1,5 +1,4 @@
-Spirochona nebalina (Kent, 1881) ? SPECIES
-=======
+# Spirochona nebalina (Kent, 1881) ? SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeroderma aculeatum (E.C. Hansen) Sacc. SPECIES
-=======
+# Sphaeroderma aculeatum (E.C. Hansen) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discostroma saccardoanum (Jacz.) Brockmann SPECIES
-=======
+# Discostroma saccardoanum (Jacz.) Brockmann SPECIES
 
 #### Status
 ACCEPTED

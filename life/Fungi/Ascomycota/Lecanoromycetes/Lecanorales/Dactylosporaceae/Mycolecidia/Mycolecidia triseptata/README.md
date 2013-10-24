@@ -1,5 +1,4 @@
-Mycolecidia triseptata P. Karst. SPECIES
-=======
+# Mycolecidia triseptata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

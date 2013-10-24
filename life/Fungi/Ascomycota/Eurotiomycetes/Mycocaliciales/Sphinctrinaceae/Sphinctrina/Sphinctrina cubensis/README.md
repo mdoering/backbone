@@ -1,5 +1,4 @@
-Sphinctrina cubensis Berk. & M.A. Curtis SPECIES
-=======
+# Sphinctrina cubensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

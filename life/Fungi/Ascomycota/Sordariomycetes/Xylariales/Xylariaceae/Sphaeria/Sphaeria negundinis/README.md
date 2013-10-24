@@ -1,5 +1,4 @@
-Sphaeria negundinis Opiz SPECIES
-=======
+# Sphaeria negundinis Opiz SPECIES
 
 #### Status
 ACCEPTED

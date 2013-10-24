@@ -1,5 +1,4 @@
-Agaricus horridulus Lasch SPECIES
-=======
+# Agaricus horridulus Lasch SPECIES
 
 #### Status
 ACCEPTED

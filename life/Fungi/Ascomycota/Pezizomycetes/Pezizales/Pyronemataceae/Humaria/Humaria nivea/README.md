@@ -1,5 +1,4 @@
-Humaria nivea Velen. SPECIES
-=======
+# Humaria nivea Velen. SPECIES
 
 #### Status
 ACCEPTED

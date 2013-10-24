@@ -1,5 +1,4 @@
-Trogia silvestris (Holterm.) Corner SPECIES
-=======
+# Trogia silvestris (Holterm.) Corner SPECIES
 
 #### Status
 ACCEPTED

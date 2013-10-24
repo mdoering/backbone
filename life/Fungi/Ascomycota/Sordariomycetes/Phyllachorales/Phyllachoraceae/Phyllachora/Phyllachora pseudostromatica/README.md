@@ -1,14 +1,13 @@
-Sphaeria melaleucae Lév., 1846 SPECIES
-=======
+# Phyllachora pseudostromatica Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 5: 261 (1846)
+Beitr. Kryptfl. Schweiz 11(no. 1): 222 (1954)
 
 #### Original name
 Sphaeria melaleucae Lév., 1846

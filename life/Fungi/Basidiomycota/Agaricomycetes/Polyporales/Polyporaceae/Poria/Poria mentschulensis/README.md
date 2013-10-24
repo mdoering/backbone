@@ -1,5 +1,4 @@
-Poria mentschulensis Pilát ex Pilát SPECIES
-=======
+# Poria mentschulensis Pilát ex Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pucciniola porosa (Peck) Arthur SPECIES
-=======
+# Pucciniola porosa (Peck) Arthur SPECIES
 
 #### Status
 ACCEPTED

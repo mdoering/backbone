@@ -1,5 +1,4 @@
-Colletogloeum protii B. Sutton & M.D. Mehrotra SPECIES
-=======
+# Colletogloeum protii B. Sutton & M.D. Mehrotra SPECIES
 
 #### Status
 ACCEPTED

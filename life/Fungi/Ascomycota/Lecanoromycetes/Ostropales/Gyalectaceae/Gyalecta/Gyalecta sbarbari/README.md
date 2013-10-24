@@ -1,5 +1,4 @@
-Gyalecta sbarbari Vezda SPECIES
-=======
+# Gyalecta sbarbari Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella stuntzii A.H. Sm. SPECIES
-=======
+# Psathyrella stuntzii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

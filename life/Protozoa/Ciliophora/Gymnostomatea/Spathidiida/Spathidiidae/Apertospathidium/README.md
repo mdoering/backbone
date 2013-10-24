@@ -1,5 +1,4 @@
-Apertospathidium GENUS
-=======
+# Apertospathidium GENUS
 
 #### Status
 ACCEPTED

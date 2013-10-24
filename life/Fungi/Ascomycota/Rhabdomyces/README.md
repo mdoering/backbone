@@ -1,5 +1,4 @@
-Rhabdomyces Balbiani GENUS
-=======
+# Rhabdomyces Balbiani GENUS
 
 #### Status
 ACCEPTED

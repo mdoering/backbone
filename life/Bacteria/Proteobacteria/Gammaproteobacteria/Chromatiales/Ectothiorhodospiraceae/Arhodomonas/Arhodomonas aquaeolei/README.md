@@ -1,5 +1,4 @@
-Arhodomonas aquaeolei Adkins et al., 1993 SPECIES
-=======
+# Arhodomonas aquaeolei Adkins et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

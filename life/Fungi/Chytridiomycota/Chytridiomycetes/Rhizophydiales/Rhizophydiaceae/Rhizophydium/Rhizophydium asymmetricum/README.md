@@ -1,5 +1,4 @@
-Rhizophydium asymmetricum (P.A. Dang.) De Wild. SPECIES
-=======
+# Rhizophydium asymmetricum (P.A. Dang.) De Wild. SPECIES
 
 #### Status
 ACCEPTED

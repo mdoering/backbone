@@ -1,5 +1,4 @@
-Parmeliella hawaiiensis H. Magn. SPECIES
-=======
+# Parmeliella hawaiiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

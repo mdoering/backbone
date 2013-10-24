@@ -1,5 +1,4 @@
-Polyporus pavonius (Hook.) Fr. SPECIES
-=======
+# Polyporus pavonius (Hook.) Fr. SPECIES
 
 #### Status
 ACCEPTED

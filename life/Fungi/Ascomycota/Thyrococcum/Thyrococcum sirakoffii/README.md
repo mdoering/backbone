@@ -1,5 +1,4 @@
-Thyrococcum sirakoffii Bubák SPECIES
-=======
+# Thyrococcum sirakoffii Bubák SPECIES
 
 #### Status
 ACCEPTED

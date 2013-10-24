@@ -1,5 +1,4 @@
-Tubaria pallidospora J.E. Lange SPECIES
-=======
+# Tubaria pallidospora J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

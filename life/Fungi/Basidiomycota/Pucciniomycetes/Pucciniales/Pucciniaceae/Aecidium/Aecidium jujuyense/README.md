@@ -1,5 +1,4 @@
-Aecidium jujuyense J.C. Lindq. SPECIES
-=======
+# Aecidium jujuyense J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

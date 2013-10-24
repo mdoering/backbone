@@ -1,5 +1,4 @@
-Urocystis colchici-lutei Zundel SPECIES
-=======
+# Urocystis colchici-lutei Zundel SPECIES
 
 #### Status
 ACCEPTED

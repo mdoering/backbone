@@ -1,5 +1,4 @@
-Guignardia sterculaie SPECIES
-=======
+# Guignardia sterculaie SPECIES
 
 #### Status
 ACCEPTED

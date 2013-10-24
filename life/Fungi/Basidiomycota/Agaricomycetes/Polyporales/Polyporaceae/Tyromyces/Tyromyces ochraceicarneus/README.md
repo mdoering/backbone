@@ -1,5 +1,4 @@
-Tyromyces ochraceicarneus Corner, 1992 SPECIES
-=======
+# Tyromyces ochraceicarneus Corner, 1992 SPECIES
 
 #### Status
 ACCEPTED

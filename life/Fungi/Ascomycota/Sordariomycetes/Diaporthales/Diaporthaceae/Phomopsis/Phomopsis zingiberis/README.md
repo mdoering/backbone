@@ -1,5 +1,4 @@
-Phomopsis zingiberis M.S. Ali & Saikia SPECIES
-=======
+# Phomopsis zingiberis M.S. Ali & Saikia SPECIES
 
 #### Status
 ACCEPTED

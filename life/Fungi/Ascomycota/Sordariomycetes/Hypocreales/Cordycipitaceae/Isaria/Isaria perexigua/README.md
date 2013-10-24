@@ -1,5 +1,4 @@
-Isaria perexigua Kobayasi SPECIES
-=======
+# Isaria perexigua Kobayasi SPECIES
 
 #### Status
 ACCEPTED

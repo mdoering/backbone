@@ -1,17 +1,16 @@
-Chaetopyrena hesperidum Pass. SPECIES
-=======
+# Chaetopyrena hesperidium Pass., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Erb. critt. Ital. , Ser. 2 no. 1088 (1881)
 
 #### Original name
-Chaetopyrena hesperidum Pass.
+Chaetopyrena hesperidium Pass., 1881
 
 ### Remarks
 null

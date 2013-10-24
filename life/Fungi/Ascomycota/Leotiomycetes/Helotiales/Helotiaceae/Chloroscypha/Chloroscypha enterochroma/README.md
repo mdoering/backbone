@@ -1,5 +1,4 @@
-Chloroscypha enterochroma (Peck) Petrini SPECIES
-=======
+# Chloroscypha enterochroma (Peck) Petrini SPECIES
 
 #### Status
 ACCEPTED

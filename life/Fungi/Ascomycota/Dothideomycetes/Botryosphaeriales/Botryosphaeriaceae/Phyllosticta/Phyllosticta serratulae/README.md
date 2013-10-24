@@ -1,5 +1,4 @@
-Phyllosticta serratulae Kalymb. SPECIES
-=======
+# Phyllosticta serratulae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

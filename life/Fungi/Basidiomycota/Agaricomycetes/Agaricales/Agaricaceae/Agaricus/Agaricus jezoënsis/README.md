@@ -1,5 +1,4 @@
-Agaricus jezoënsis S. Imai SPECIES
-=======
+# Agaricus jezoënsis S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Siphotextularia intermedia Spandel SPECIES
-=======
+# Siphotextularia intermedia Spandel SPECIES
 
 #### Status
 ACCEPTED

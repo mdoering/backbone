@@ -1,5 +1,4 @@
-Phoma encephalarti Negodi SPECIES
-=======
+# Phoma encephalarti Negodi SPECIES
 
 #### Status
 ACCEPTED

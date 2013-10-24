@@ -1,5 +1,4 @@
-Marasmius inundabilis Singer SPECIES
-=======
+# Marasmius inundabilis Singer SPECIES
 
 #### Status
 ACCEPTED

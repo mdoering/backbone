@@ -1,8 +1,7 @@
-Acarospora tromsoensis Norman SPECIES
-=======
+# Acarospora tromsoënsis Norman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acarospora tromsoensis Norman
+Acarospora tromsoënsis Norman
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tremella rinodinae Diederich & M.S. Christ. SPECIES
-=======
+# Tremella rinodinae Diederich & M.S. Christ. SPECIES
 
 #### Status
 ACCEPTED

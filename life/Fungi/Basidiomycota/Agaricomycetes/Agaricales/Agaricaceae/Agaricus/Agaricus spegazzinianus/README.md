@@ -1,5 +1,4 @@
-Agaricus spegazzinianus Heinem. SPECIES
-=======
+# Agaricus spegazzinianus Heinem. SPECIES
 
 #### Status
 ACCEPTED

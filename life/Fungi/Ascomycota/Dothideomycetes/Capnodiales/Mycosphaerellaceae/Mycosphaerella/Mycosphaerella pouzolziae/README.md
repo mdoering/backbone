@@ -1,5 +1,4 @@
-Mycosphaerella pouzolziae Sawada SPECIES
-=======
+# Mycosphaerella pouzolziae Sawada SPECIES
 
 #### Status
 ACCEPTED

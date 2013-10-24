@@ -1,14 +1,13 @@
-Morella entamoebae (E.R. Becker) Pérez Reyes, 1964 SPECIES
-=======
+# Sphaerita entamoebae E.R. Becker, 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Soc. mex. Hist. nat. 24: 5 (1964)
+Biol. Bull. mar. biol. Lab. , Wood's Hole 50(6): 447 (1926)
 
 #### Original name
 Sphaerita entamoebae E.R. Becker, 1926

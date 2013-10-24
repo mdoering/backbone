@@ -1,5 +1,4 @@
-Psathyrella pseudocorrugata A.H. Sm. SPECIES
-=======
+# Psathyrella pseudocorrugata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

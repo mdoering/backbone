@@ -1,5 +1,4 @@
-Baltisphaeridium plicatum Timofeev, 1959 ex Hu Yunxu, 1986 SPECIES
-=======
+# Baltisphaeridium plicatum Timofeev, 1959 ex Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

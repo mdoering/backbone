@@ -1,17 +1,16 @@
-Chaetopsis wauchii Grev., 1825 SPECIES
-=======
+# Chaetopsis grisea (Ehrenb.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Edinb. Phil. J. 13: 63 (1825)
+Michelia 2(no. 8): 640 (1882)
 
 #### Original name
-Chaetopsis wauchii Grev., 1825
+Chloridium griseum Ehrenb.
 
 ### Remarks
 null

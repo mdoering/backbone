@@ -1,5 +1,4 @@
-Tetrapodorhabdus shawensis SPECIES
-=======
+# Tetrapodorhabdus shawensis SPECIES
 
 #### Status
 ACCEPTED

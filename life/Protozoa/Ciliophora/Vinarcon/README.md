@@ -1,5 +1,4 @@
-Vinarcon Jankowski, 1981 GENUS
-=======
+# Vinarcon Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

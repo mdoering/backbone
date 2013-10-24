@@ -1,5 +1,4 @@
-Austrographa GENUS
-=======
+# Austrographa GENUS
 
 #### Status
 ACCEPTED

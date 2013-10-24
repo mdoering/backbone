@@ -1,5 +1,4 @@
-Xystonella lohmanni (Brandt) Kofoid & Campbell, 1929 SPECIES
-=======
+# Xystonella lohmanni (Brandt) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

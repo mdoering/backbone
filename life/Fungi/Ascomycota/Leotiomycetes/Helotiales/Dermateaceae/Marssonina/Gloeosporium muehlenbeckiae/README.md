@@ -1,5 +1,4 @@
-Gloeosporium muehlenbeckiae Briosi & Cavara SPECIES
-=======
+# Gloeosporium muehlenbeckiae Briosi & Cavara SPECIES
 
 #### Status
 ACCEPTED

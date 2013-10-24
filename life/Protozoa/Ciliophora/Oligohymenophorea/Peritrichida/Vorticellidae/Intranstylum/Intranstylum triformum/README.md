@@ -1,5 +1,4 @@
-Intranstylum triformum Schödel, 1983 SPECIES
-=======
+# Intranstylum triformum Schödel, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria arisana Zahlbr. SPECIES
-=======
+# Verrucaria arisana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

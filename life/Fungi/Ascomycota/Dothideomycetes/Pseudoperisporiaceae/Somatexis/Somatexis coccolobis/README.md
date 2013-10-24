@@ -1,5 +1,4 @@
-Somatexis coccolobis Toro SPECIES
-=======
+# Somatexis coccolobis Toro SPECIES
 
 #### Status
 ACCEPTED

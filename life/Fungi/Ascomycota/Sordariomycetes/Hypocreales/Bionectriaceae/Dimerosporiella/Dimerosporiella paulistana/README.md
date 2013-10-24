@@ -1,5 +1,4 @@
-Dimerosporiella paulistana Speg., 1908 SPECIES
-=======
+# Dimerosporiella paulistana Speg., 1908 SPECIES
 
 #### Status
 ACCEPTED

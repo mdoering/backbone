@@ -1,5 +1,4 @@
-Armatella cinnamomicola Hansf. SPECIES
-=======
+# Armatella cinnamomicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

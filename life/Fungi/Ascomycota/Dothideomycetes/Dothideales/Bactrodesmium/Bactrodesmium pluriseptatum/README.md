@@ -1,5 +1,4 @@
-Bactrodesmium pluriseptatum Révay SPECIES
-=======
+# Bactrodesmium pluriseptatum Révay SPECIES
 
 #### Status
 ACCEPTED

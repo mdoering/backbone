@@ -1,5 +1,4 @@
-Rhizophydium marshallense Sparrow SPECIES
-=======
+# Rhizophydium marshallense Sparrow SPECIES
 
 #### Status
 ACCEPTED

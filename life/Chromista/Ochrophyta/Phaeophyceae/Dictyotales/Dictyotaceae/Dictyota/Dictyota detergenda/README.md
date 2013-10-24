@@ -1,5 +1,4 @@
-Dictyota detergenda Kraft, 2009 SPECIES
-=======
+# Dictyota detergenda Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

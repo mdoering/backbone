@@ -1,5 +1,4 @@
-Phyllachora tetraspora Chardón, 1932 SPECIES
-=======
+# Phyllachora tetraspora Chardón, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metus efflorescens D.J. Galloway & P. James SPECIES
-=======
+# Metus efflorescens D.J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helmisporium bornetii Brond. SPECIES
-=======
+# Helmisporium bornetii Brond. SPECIES
 
 #### Status
 ACCEPTED

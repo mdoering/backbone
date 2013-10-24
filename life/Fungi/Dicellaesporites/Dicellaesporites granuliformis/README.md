@@ -1,5 +1,4 @@
-Dicellaesporites granuliformis Sheffy & Dilcher SPECIES
-=======
+# Dicellaesporites granuliformis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

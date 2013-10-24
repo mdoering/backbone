@@ -1,5 +1,4 @@
-Gloniella serpens (Ces.) Sacc. SPECIES
-=======
+# Gloniella serpens (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

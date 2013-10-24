@@ -1,5 +1,4 @@
-Lecanora caduca Motyka SPECIES
-=======
+# Lecanora caduca Motyka SPECIES
 
 #### Status
 ACCEPTED

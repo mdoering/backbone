@@ -1,5 +1,4 @@
-Asteroma thalictri Gonz. Frag. SPECIES
-=======
+# Asteroma thalictri Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

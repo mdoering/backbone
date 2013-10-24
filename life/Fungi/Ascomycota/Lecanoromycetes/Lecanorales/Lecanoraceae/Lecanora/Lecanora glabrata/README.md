@@ -1,17 +1,16 @@
-Lecanora glabrata var. glabrata VARIETY
-=======
+# Lecanora glabrata (Ach.) Malme SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecanora glabrata var. glabrata
+Lecanora subfusca var. glabrata Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bambuites Sommer, 1971 GENUS
-=======
+# Bambuites Sommer, 1971 GENUS
 
 #### Status
 ACCEPTED

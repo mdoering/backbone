@@ -1,5 +1,4 @@
-Phaeotrema isidiiferum Hale SPECIES
-=======
+# Phaeotrema isidiiferum Hale SPECIES
 
 #### Status
 ACCEPTED

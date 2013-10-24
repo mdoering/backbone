@@ -1,5 +1,4 @@
-Phyllosticta excavata Sacc. SPECIES
-=======
+# Phyllosticta excavata Sacc. SPECIES
 
 #### Status
 ACCEPTED

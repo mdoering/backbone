@@ -1,5 +1,4 @@
-Puccinia scabiosae-sempervirentis Hasler SPECIES
-=======
+# Puccinia scabiosae-sempervirentis Hasler SPECIES
 
 #### Status
 ACCEPTED

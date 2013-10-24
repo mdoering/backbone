@@ -1,5 +1,4 @@
-Didymosphaeria theodulina Unamuno SPECIES
-=======
+# Didymosphaeria theodulina Unamuno SPECIES
 
 #### Status
 ACCEPTED

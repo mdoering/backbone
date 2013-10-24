@@ -1,17 +1,16 @@
-Plagiostoma geranii (Hollós) Sogonov, 2008 SPECIES
-=======
+# Gnomonia geranii Hollós, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mus. nat. Hung. , Pars bot. 7: 52 (1909)
 
 #### Original name
-null
+Gnomonia geranii Hollós, 1909
 
 ### Remarks
 null

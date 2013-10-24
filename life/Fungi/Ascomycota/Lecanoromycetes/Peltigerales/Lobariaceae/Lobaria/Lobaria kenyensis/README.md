@@ -1,5 +1,4 @@
-Lobaria kenyensis C.W. Dodge SPECIES
-=======
+# Lobaria kenyensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Degelia cyanoloma (Schaer.) H. H. Blom & L. Lindblom SPECIES
-=======
+# Degelia cyanoloma (Schaer.) H. H. Blom & L. Lindblom SPECIES
 
 #### Status
 ACCEPTED

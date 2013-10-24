@@ -1,5 +1,4 @@
-Lecanographa subdryophila (Follmann & Vezda) Egea & Torrente SPECIES
-=======
+# Lecanographa subdryophila (Follmann & Vezda) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

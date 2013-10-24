@@ -1,5 +1,4 @@
-Helvella hyperborea Harmaja SPECIES
-=======
+# Helvella hyperborea Harmaja SPECIES
 
 #### Status
 ACCEPTED

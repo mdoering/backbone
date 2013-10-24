@@ -1,5 +1,4 @@
-Phycocastanum bulbosum Kützing SPECIES
-=======
+# Phycocastanum bulbosum Kützing SPECIES
 
 #### Status
 ACCEPTED

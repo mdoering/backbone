@@ -1,5 +1,4 @@
-Botrytis setuligera Pidopl. SPECIES
-=======
+# Botrytis setuligera Pidopl. SPECIES
 
 #### Status
 ACCEPTED

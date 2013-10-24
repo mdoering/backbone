@@ -1,5 +1,4 @@
-Enchnosphaeria parietalis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Enchnosphaeria parietalis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

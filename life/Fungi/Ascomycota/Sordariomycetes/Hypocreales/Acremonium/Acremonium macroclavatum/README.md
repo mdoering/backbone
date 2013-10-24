@@ -1,5 +1,4 @@
-Acremonium macroclavatum Ts. Watan. SPECIES
-=======
+# Acremonium macroclavatum Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

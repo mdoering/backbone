@@ -1,5 +1,4 @@
-Haplosporida ORDER
-=======
+# Haplosporida ORDER
 
 #### Status
 ACCEPTED

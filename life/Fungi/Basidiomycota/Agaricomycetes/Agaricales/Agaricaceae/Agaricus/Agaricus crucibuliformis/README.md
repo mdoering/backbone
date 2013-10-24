@@ -1,5 +1,4 @@
-Agaricus crucibuliformis Schumach. SPECIES
-=======
+# Agaricus crucibuliformis Schumach. SPECIES
 
 #### Status
 ACCEPTED

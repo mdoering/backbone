@@ -1,5 +1,4 @@
-Polypleuris Haeckel, 1887 GENUS
-=======
+# Polypleuris Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

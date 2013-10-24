@@ -1,5 +1,4 @@
-Mollisia dactyligluma Cooke, 1891 SPECIES
-=======
+# Mollisia dactyligluma Cooke, 1891 SPECIES
 
 #### Status
 ACCEPTED

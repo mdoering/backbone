@@ -1,5 +1,4 @@
-Naetrocymbe mauritiae Bat. SPECIES
-=======
+# Naetrocymbe mauritiae Bat. SPECIES
 
 #### Status
 ACCEPTED

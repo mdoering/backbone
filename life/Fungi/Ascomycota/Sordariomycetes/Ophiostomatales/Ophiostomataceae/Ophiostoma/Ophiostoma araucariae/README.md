@@ -1,14 +1,13 @@
-Ceratocystis araucariae Butin, 1968 SPECIES
-=======
+# Ophiostoma araucariae (Butin) de Hoog & R.J. Scheff., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 46: 41 (1968)
+Mycologia 76(2): 297 (1984)
 
 #### Original name
 Ceratocystis araucariae Butin, 1968

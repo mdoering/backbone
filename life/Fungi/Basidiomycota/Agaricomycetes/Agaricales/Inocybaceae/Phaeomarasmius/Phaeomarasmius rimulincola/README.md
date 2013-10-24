@@ -1,14 +1,13 @@
-Agaricus rimulincola Rabenh., 1851 SPECIES
-=======
+# Phaeomarasmius rimulincola (Rabenh.) P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Deutschl. Krypt. -Fl. (Leipzig) 1: 676 (1851)
+in Moesz, Bot. Közl. 13: 20 (1914)
 
 #### Original name
 Agaricus rimulincola Rabenh., 1851

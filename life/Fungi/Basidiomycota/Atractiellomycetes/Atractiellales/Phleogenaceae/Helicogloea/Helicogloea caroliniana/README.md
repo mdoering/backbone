@@ -1,5 +1,4 @@
-Helicogloea caroliniana (Coker) G.E. Baker SPECIES
-=======
+# Helicogloea caroliniana (Coker) G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

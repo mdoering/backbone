@@ -1,5 +1,4 @@
-Stilophora attenuata (C. Agardh) Trevisan SPECIES
-=======
+# Stilophora attenuata (C. Agardh) Trevisan SPECIES
 
 #### Status
 ACCEPTED

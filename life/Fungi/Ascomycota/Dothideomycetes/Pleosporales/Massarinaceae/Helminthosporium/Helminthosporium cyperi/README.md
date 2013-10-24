@@ -1,5 +1,4 @@
-Helminthosporium cyperi Bacc. SPECIES
-=======
+# Helminthosporium cyperi Bacc. SPECIES
 
 #### Status
 ACCEPTED

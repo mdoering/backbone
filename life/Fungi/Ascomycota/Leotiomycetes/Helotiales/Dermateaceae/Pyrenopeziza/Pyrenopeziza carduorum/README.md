@@ -1,14 +1,13 @@
-Niptera carduorum (Rehm) Rehm, 1891 SPECIES
-=======
+# Pyrenopeziza carduorum Rehm, 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rehm, Rabenh. Krypt. -Fl. (Leipzig) 1(3): 555 (1891)
+Ascomyceten no. 68 (1872)
 
 #### Original name
 Pyrenopeziza carduorum Rehm, 1872

@@ -1,5 +1,4 @@
-Dehalobacter restrictus Holliger et al., 1998 SPECIES
-=======
+# Dehalobacter restrictus Holliger et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

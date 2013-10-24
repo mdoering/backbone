@@ -1,17 +1,16 @@
-Kompsoscypha zizyphi (E.K. Cash) Pfister SPECIES
-=======
+# Kompsoscypha ziziphi (E.K. Cash) Pfister, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 49: 343 (1989)
 
 #### Original name
-Kompsoscypha zizyphi (E.K. Cash) Pfister
+Humarina ziziphi E.K. Cash, 1948
 
 ### Remarks
 null

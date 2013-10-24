@@ -1,17 +1,16 @@
-Peniophora carneola var. carneola VARIETY
-=======
+# Hyphoderma argillaceum (Bres.) Donk, 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Wiesner Festschrift (Wien) 70 (1908)
+Fungus, Wageningen 27: 14 (1957)
 
 #### Original name
-Peniophora carneola var. carneola
+Corticium argillaceum Bres., 1898
 
 ### Remarks
 null

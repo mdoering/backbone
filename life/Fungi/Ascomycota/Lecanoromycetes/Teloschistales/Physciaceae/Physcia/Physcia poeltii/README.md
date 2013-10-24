@@ -1,5 +1,4 @@
-Physcia poeltii Frey SPECIES
-=======
+# Physcia poeltii Frey SPECIES
 
 #### Status
 ACCEPTED

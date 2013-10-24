@@ -1,5 +1,4 @@
-Agaricus theiophyllus J. Otto SPECIES
-=======
+# Agaricus theiophyllus J. Otto SPECIES
 
 #### Status
 ACCEPTED

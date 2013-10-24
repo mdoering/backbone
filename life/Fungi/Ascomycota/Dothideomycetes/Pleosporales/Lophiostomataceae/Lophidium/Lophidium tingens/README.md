@@ -1,5 +1,4 @@
-Lophidium tingens (Ellis) Sacc. SPECIES
-=======
+# Lophidium tingens (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

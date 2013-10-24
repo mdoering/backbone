@@ -1,14 +1,13 @@
-Psilocybe murcida (Fr.) P. Karst., 1879 SPECIES
-=======
+# Psathyrella murcida (Fr.) Kits van Wav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia, Suppl. 2: 281 (1985)
 
 #### Original name
 Agaricus murcidus Fr., 1821

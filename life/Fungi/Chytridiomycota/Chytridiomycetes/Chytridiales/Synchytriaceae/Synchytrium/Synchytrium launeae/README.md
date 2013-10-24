@@ -1,5 +1,4 @@
-Synchytrium launeae Lingappa SPECIES
-=======
+# Synchytrium launeae Lingappa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptostromella elastica Ellis & Everh. SPECIES
-=======
+# Leptostromella elastica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

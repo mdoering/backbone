@@ -1,5 +1,4 @@
-Cyclotella operculata var. unipunctata Hustedt VARIETY
-=======
+# Cyclotella operculata (C. Agardh) Kützing SPECIES
 
 #### Status
 ACCEPTED

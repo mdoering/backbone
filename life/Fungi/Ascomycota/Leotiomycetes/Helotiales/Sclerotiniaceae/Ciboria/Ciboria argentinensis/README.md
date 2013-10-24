@@ -1,5 +1,4 @@
-Ciboria argentinensis Speg. SPECIES
-=======
+# Ciboria argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caliciella hospitans (Th. Fr.) H. Magn. SPECIES
-=======
+# Caliciella hospitans (Th. Fr.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

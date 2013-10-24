@@ -1,5 +1,4 @@
-Meliola srinivasului Hosag. SPECIES
-=======
+# Meliola srinivasului Hosag. SPECIES
 
 #### Status
 ACCEPTED

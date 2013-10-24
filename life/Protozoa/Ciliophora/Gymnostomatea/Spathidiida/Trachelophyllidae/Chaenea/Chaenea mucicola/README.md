@@ -1,5 +1,4 @@
-Chaenea mucicola Wang, 1935 SPECIES
-=======
+# Chaenea mucicola Wang, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota velutina Beeli SPECIES
-=======
+# Lepiota velutina Beeli SPECIES
 
 #### Status
 ACCEPTED

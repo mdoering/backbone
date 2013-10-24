@@ -1,5 +1,4 @@
-Tristylocorys Haeckel, 1887 GENUS
-=======
+# Tristylocorys Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola remireae Bat. SPECIES
-=======
+# Meliola remireae Bat. SPECIES
 
 #### Status
 ACCEPTED

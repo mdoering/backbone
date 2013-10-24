@@ -1,5 +1,4 @@
-Agaricus amoenus Weinm. ex Fr. SPECIES
-=======
+# Agaricus amoenus Weinm. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

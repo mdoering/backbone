@@ -1,5 +1,4 @@
-Craterellus australis (Cleland & Cheel) Grgur. SPECIES
-=======
+# Craterellus australis (Cleland & Cheel) Grgur. SPECIES
 
 #### Status
 ACCEPTED

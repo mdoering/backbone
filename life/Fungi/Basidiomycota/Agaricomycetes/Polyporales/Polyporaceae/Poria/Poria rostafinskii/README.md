@@ -1,5 +1,4 @@
-Poria rostafinskii P. Karst. SPECIES
-=======
+# Poria rostafinskii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

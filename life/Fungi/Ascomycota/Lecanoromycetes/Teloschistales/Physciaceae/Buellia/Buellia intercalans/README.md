@@ -1,5 +1,4 @@
-Buellia intercalans (Nyl.) SPECIES
-=======
+# Buellia intercalans (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

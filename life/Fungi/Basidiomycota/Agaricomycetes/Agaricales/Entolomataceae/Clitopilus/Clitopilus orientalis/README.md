@@ -1,5 +1,4 @@
-Clitopilus orientalis T.J. Baroni & Watling SPECIES
-=======
+# Clitopilus orientalis T.J. Baroni & Watling SPECIES
 
 #### Status
 ACCEPTED

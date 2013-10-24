@@ -1,5 +1,4 @@
-Hydnum salmoneum R. Heim SPECIES
-=======
+# Hydnum salmoneum R. Heim SPECIES
 
 #### Status
 ACCEPTED

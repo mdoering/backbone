@@ -1,17 +1,16 @@
-Sphaeria nebulosa var. nebulosa VARIETY
-=======
+# Phoma nebulosa (Pers.) Mont., 1860 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Lipsiae) 2: 69 (1800)
+Outl. Brit. Fung. (London) 314 (1860)
 
 #### Original name
-Sphaeria nebulosa var. nebulosa
+Sphaeria nebulosa Pers., 1800
 
 ### Remarks
 null

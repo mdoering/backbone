@@ -1,5 +1,4 @@
-Mycosphaerella impatientis (Peck & Clinton) House SPECIES
-=======
+# Mycosphaerella impatientis (Peck & Clinton) House SPECIES
 
 #### Status
 ACCEPTED

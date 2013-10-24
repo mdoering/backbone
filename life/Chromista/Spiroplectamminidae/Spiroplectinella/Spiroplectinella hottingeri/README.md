@@ -1,5 +1,4 @@
-Spiroplectinella hottingeri Langer, 1992 SPECIES
-=======
+# Spiroplectinella hottingeri Langer, 1992 SPECIES
 
 #### Status
 ACCEPTED

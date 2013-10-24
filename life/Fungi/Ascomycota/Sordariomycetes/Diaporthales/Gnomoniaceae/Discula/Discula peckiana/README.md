@@ -1,5 +1,4 @@
-Discula peckiana Sacc. SPECIES
-=======
+# Discula peckiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

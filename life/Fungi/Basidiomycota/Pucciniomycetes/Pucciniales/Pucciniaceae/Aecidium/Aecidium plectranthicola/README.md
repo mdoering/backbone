@@ -1,5 +1,4 @@
-Aecidium plectranthicola Cummins SPECIES
-=======
+# Aecidium plectranthicola Cummins SPECIES
 
 #### Status
 ACCEPTED

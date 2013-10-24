@@ -1,5 +1,4 @@
-Polyporus incrustatus Fr. SPECIES
-=======
+# Polyporus incrustatus Fr. SPECIES
 
 #### Status
 ACCEPTED

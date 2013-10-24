@@ -1,17 +1,16 @@
-Lembosia manaoensis Henn. SPECIES
-=======
+# Lembosia manaosensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 43: 265 (1904)
 
 #### Original name
-Lembosia manaoensis Henn.
+Lembosia manaosensis Henn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhytisma leptospilum Berk. & M.A. Curtis SPECIES
-=======
+# Rhytisma leptospilum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

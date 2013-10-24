@@ -1,5 +1,4 @@
-Aecidium barbareae DC. SPECIES
-=======
+# Aecidium barbareae DC. SPECIES
 
 #### Status
 ACCEPTED

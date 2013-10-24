@@ -1,5 +1,4 @@
-Caloplaca schisticola D. J. Galloway SPECIES
-=======
+# Caloplaca schisticola D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

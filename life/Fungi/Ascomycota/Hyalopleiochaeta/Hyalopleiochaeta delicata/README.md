@@ -1,5 +1,4 @@
-Hyalopleiochaeta delicata R.F. Castañeda, Guarro & Cano, 1996 SPECIES
-=======
+# Hyalopleiochaeta delicata R.F. Castañeda, Guarro & Cano, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Subulicystidium perlongisporum Boidin & Gilles, 1988 SPECIES
-=======
+# Subulicystidium perlongisporum Boidin & Gilles, 1988 SPECIES
 
 #### Status
 ACCEPTED

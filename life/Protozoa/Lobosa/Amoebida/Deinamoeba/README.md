@@ -1,14 +1,13 @@
-Dinamoeba Leidy, 1875 GENUS
-=======
+# Deinamoeba Leidy, 1874 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Proc. Acad. Nat. Sci. Philad. , 1875, 415.
+Proc. Acad. Nat. Sci. Philad. , 1874, 143.
 
 #### Original name
 null

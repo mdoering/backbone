@@ -1,5 +1,4 @@
-Nanosylvanella pattersoni Loeblich & Tappan, 1994 SPECIES
-=======
+# Nanosylvanella pattersoni Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

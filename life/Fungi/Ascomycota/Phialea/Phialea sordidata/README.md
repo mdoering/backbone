@@ -1,5 +1,4 @@
-Phialea sordidata (P. Karst. & Starbäck) Sacc. SPECIES
-=======
+# Phialea sordidata (P. Karst. & Starbäck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

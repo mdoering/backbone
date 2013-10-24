@@ -1,5 +1,4 @@
-Thosea baibarana Npv SPECIES
-=======
+# Thosea baibarana Npv SPECIES
 
 #### Status
 ACCEPTED

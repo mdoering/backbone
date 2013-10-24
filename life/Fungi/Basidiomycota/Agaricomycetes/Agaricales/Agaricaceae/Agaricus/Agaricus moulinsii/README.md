@@ -1,5 +1,4 @@
-Agaricus moulinsii Brond. SPECIES
-=======
+# Agaricus moulinsii Brond. SPECIES
 
 #### Status
 ACCEPTED

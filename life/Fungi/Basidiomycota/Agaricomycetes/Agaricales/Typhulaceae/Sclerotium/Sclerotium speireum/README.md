@@ -1,5 +1,4 @@
-Sclerotium speireum (Fr.) Fr. SPECIES
-=======
+# Sclerotium speireum (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

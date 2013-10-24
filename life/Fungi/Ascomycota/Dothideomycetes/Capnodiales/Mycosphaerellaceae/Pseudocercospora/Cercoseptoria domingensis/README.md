@@ -1,5 +1,4 @@
-Cercoseptoria domingensis Cif. SPECIES
-=======
+# Cercoseptoria domingensis Cif. SPECIES
 
 #### Status
 ACCEPTED

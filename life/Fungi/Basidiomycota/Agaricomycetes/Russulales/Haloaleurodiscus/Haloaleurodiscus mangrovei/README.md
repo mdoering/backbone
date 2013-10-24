@@ -1,5 +1,4 @@
-Haloaleurodiscus mangrovei N. Maek., Suhara & K. Kinjo, 2005 SPECIES
-=======
+# Haloaleurodiscus mangrovei N. Maek., Suhara & K. Kinjo, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyrea pitardii (Harm.) Zahlbr. SPECIES
-=======
+# Thyrea pitardii (Harm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

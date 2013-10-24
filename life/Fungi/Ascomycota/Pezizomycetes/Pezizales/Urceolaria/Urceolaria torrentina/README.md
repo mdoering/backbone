@@ -1,5 +1,4 @@
-Urceolaria torrentina Motyka SPECIES
-=======
+# Urceolaria torrentina Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciboria vinosa Berl. & Sacc. SPECIES
-=======
+# Ciboria vinosa Berl. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

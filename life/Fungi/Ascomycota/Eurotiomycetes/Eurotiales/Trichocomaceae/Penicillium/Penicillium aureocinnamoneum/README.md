@@ -1,5 +1,4 @@
-Penicillium aureocinnamoneum SPECIES
-=======
+# Penicillium aureocinnamoneum SPECIES
 
 #### Status
 ACCEPTED

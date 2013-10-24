@@ -1,5 +1,4 @@
-Thorntonius Singh, Misra & Sharma, 1982 GENUS
-=======
+# Thorntonius Singh, Misra & Sharma, 1982 GENUS
 
 #### Status
 ACCEPTED

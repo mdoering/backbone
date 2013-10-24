@@ -1,5 +1,4 @@
-Otthia haloxyli Kravtzev SPECIES
-=======
+# Otthia haloxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

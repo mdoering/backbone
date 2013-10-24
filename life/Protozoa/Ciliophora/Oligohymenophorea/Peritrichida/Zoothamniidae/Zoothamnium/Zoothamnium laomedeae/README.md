@@ -1,5 +1,4 @@
-Zoothamnium laomedeae Precht, 1935 SPECIES
-=======
+# Zoothamnium laomedeae Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

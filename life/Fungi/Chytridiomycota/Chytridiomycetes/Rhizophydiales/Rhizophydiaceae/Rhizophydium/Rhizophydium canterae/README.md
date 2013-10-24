@@ -1,5 +1,4 @@
-Rhizophydium canterae Sparrow SPECIES
-=======
+# Rhizophydium canterae Sparrow SPECIES
 
 #### Status
 ACCEPTED

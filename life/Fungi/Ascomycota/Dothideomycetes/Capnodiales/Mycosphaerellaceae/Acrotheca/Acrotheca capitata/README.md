@@ -1,5 +1,4 @@
-Acrotheca capitata G. Arnaud SPECIES
-=======
+# Acrotheca capitata G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

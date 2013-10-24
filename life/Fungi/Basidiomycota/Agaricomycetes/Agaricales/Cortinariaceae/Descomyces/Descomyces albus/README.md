@@ -1,17 +1,16 @@
-Hymenangium album var. album VARIETY
-=======
+# Descomyces albus (Berk.) Bougher & Castellano, 1993 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Dietrich, Fl. Regn. Boruss. 7: 466 (1839)
+Mycologia 85(2): 280 (1993)
 
 #### Original name
-Hymenangium album var. album
+Hymenangium album Klotzsch, 1839
 
 ### Remarks
 null

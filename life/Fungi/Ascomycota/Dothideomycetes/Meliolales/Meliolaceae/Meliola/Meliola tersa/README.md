@@ -1,5 +1,4 @@
-Meliola tersa Cif. SPECIES
-=======
+# Meliola tersa Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus lipidocystis Bonnard SPECIES
-=======
+# Pluteus lipidocystis Bonnard SPECIES
 
 #### Status
 ACCEPTED

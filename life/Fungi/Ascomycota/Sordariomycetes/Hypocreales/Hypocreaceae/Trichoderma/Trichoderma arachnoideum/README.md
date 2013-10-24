@@ -1,17 +1,16 @@
-Trichoderma arachnoidea Kuritzina & Sizova SPECIES
-=======
+# Trichoderma arachnoideum Kuritzina & Sizova, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mikol. Fitopatol. 1(4): 343 (1967)
 
 #### Original name
-Trichoderma arachnoidea Kuritzina & Sizova
+Trichoderma arachnoideum Kuritzina & Sizova, 1967
 
 ### Remarks
 null

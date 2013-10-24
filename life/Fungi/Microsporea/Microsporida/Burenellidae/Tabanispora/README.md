@@ -1,5 +1,4 @@
-Tabanispora H.I. Bykova, Y.Y. Sokolova & I.V. Issi GENUS
-=======
+# Tabanispora H.I. Bykova, Y.Y. Sokolova & I.V. Issi GENUS
 
 #### Status
 ACCEPTED

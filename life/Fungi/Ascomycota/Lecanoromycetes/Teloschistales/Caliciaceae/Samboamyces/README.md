@@ -1,5 +1,4 @@
-Samboamyces GENUS
-=======
+# Samboamyces GENUS
 
 #### Status
 ACCEPTED

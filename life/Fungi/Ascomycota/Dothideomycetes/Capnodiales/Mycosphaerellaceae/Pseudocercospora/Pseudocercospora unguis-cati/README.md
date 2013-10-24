@@ -1,5 +1,4 @@
-Pseudocercospora unguis-cati (Speg.) U. Braun SPECIES
-=======
+# Pseudocercospora unguis-cati (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

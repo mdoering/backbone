@@ -1,5 +1,4 @@
-Crinipellis piceae Singer SPECIES
-=======
+# Crinipellis piceae Singer SPECIES
 
 #### Status
 ACCEPTED

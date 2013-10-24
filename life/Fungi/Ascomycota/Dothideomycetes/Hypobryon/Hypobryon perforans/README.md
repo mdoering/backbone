@@ -1,14 +1,13 @@
-Punctillum perforans Döbbeler, 1979 SPECIES
-=======
+# Hypobryon perforans (Döbbeler) Döbbeler, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. bot. StSamml. , Münch. 15: 218 (1979)
+Nova Hedwigia 37(1): 12 (1983)
 
 #### Original name
 Punctillum perforans Döbbeler, 1979

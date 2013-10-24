@@ -1,5 +1,4 @@
-Conocybe sonderiana (Berk.) Kits van Wav. SPECIES
-=======
+# Conocybe sonderiana (Berk.) Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

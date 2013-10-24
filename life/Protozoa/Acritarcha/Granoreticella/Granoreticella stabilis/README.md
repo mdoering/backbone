@@ -1,5 +1,4 @@
-Granoreticella stabilis Lu Mengning & Wang Ruoshan, 1980 SPECIES
-=======
+# Granoreticella stabilis Lu Mengning & Wang Ruoshan, 1980 SPECIES
 
 #### Status
 ACCEPTED

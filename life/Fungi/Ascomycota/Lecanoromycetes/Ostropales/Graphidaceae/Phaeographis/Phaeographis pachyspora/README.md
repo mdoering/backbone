@@ -1,5 +1,4 @@
-Phaeographis pachyspora Redinger SPECIES
-=======
+# Phaeographis pachyspora Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium klugkistianum Dietel SPECIES
-=======
+# Aecidium klugkistianum Dietel SPECIES
 
 #### Status
 ACCEPTED

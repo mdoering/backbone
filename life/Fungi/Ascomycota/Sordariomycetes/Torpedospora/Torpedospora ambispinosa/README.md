@@ -1,5 +1,4 @@
-Torpedospora ambispinosa Kohlm., 1960 SPECIES
-=======
+# Torpedospora ambispinosa Kohlm., 1960 SPECIES
 
 #### Status
 ACCEPTED

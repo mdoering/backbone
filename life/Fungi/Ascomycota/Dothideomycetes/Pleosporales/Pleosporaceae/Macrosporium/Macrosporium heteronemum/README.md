@@ -1,5 +1,4 @@
-Macrosporium heteronemum var. heteronemum VARIETY
-=======
+# Macrosporium heteronemum (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 4: 524 (1886)
 
 #### Original name
 Septonema heteronemum Desm.

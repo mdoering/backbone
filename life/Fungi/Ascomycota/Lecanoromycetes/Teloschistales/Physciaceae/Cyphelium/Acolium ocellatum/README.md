@@ -1,5 +1,4 @@
-Acolium ocellatum Flot. SPECIES
-=======
+# Acolium ocellatum Flot. SPECIES
 
 #### Status
 ACCEPTED

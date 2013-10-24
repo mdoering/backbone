@@ -1,17 +1,16 @@
-Leccinum variicolor f. variicolor Watling FORM
-=======
+# Leccinum variicolor Watling, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Notes R. bot. Gdn Edinb. 24: 268 (1969)
 
 #### Original name
-Leccinum variicolor f. variicolor Watling
+Leccinum variicolor Watling, 1969
 
 ### Remarks
 null

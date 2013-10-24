@@ -1,5 +1,4 @@
-Colletotrichum prunicola H.C. Greene SPECIES
-=======
+# Colletotrichum prunicola H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

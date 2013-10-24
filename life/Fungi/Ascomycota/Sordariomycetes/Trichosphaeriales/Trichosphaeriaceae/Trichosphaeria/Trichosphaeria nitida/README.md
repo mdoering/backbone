@@ -1,5 +1,4 @@
-Trichosphaeria nitida Kirschst. SPECIES
-=======
+# Trichosphaeria nitida Kirschst. SPECIES
 
 #### Status
 ACCEPTED

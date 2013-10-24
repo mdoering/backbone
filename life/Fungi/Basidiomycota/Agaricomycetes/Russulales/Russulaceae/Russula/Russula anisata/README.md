@@ -1,5 +1,4 @@
-Russula anisata Murrill SPECIES
-=======
+# Russula anisata Murrill SPECIES
 
 #### Status
 ACCEPTED

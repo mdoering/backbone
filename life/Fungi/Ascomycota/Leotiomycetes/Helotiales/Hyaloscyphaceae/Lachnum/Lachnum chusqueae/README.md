@@ -1,5 +1,4 @@
-Lachnum chusqueae (Pat.) J.H. Haines & Dumont SPECIES
-=======
+# Lachnum chusqueae (Pat.) J.H. Haines & Dumont SPECIES
 
 #### Status
 ACCEPTED

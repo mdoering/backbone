@@ -1,5 +1,4 @@
-Diplodia decorticata Cooke & Ellis SPECIES
-=======
+# Diplodia decorticata Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

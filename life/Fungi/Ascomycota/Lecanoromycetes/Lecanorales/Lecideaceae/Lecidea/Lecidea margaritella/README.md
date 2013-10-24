@@ -1,5 +1,4 @@
-Lecidea margaritella Hulting SPECIES
-=======
+# Lecidea margaritella Hulting SPECIES
 
 #### Status
 ACCEPTED

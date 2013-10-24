@@ -1,5 +1,4 @@
-Galerula cervinialba (Murrill) G.F. Atk. SPECIES
-=======
+# Galerula cervinialba (Murrill) G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

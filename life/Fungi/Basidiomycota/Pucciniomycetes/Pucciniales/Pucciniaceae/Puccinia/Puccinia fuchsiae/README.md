@@ -1,5 +1,4 @@
-Puccinia fuchsiae Syd. & Holw. SPECIES
-=======
+# Puccinia fuchsiae Syd. & Holw. SPECIES
 
 #### Status
 ACCEPTED

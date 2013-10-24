@@ -1,5 +1,4 @@
-Cercospora callae Peck & Clinton SPECIES
-=======
+# Cercospora callae Peck & Clinton SPECIES
 
 #### Status
 ACCEPTED

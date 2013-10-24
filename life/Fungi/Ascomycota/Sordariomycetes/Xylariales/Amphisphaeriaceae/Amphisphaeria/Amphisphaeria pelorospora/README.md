@@ -1,5 +1,4 @@
-Amphisphaeria pelorospora Dearn. SPECIES
-=======
+# Amphisphaeria pelorospora Dearn. SPECIES
 
 #### Status
 ACCEPTED

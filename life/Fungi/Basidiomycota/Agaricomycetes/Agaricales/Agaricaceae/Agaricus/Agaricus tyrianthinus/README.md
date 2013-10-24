@@ -1,5 +1,4 @@
-Agaricus tyrianthinus Fr. SPECIES
-=======
+# Agaricus tyrianthinus Fr. SPECIES
 
 #### Status
 ACCEPTED

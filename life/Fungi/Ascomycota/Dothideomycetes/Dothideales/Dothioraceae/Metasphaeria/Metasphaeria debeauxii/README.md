@@ -1,5 +1,4 @@
-Metasphaeria debeauxii (Sacc. & Roum.) Sacc. SPECIES
-=======
+# Metasphaeria debeauxii (Sacc. & Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

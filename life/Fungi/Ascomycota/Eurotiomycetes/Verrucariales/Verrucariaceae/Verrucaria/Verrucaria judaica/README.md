@@ -1,5 +1,4 @@
-Verrucaria judaica Servít SPECIES
-=======
+# Verrucaria judaica Servít SPECIES
 
 #### Status
 ACCEPTED

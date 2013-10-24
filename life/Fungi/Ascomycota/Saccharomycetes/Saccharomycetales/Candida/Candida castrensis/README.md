@@ -1,5 +1,4 @@
-Candida castrensis C. Ramírez & A.E. González, 1984 SPECIES
-=======
+# Candida castrensis C. Ramírez & A.E. González, 1984 SPECIES
 
 #### Status
 ACCEPTED

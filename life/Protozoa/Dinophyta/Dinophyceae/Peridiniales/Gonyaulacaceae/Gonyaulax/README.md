@@ -1,14 +1,13 @@
-Roulea Gourret, 1883 GENUS
-=======
+# Gonyaulax Diesing GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mus. Marseille, 1, no. 8, 86.
+S. B. Akad. Wiss. Wien, Math. -Naturw. Kl. , 52 (1) (1865), 382.
 
 #### Original name
 null

@@ -1,17 +1,16 @@
-Sagedia pyrenophora var. pyrenophora VARIETY
-=======
+# Sagedia pyrenophora SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Sagedia pyrenophora var. pyrenophora
+null
 
 ### Remarks
 null

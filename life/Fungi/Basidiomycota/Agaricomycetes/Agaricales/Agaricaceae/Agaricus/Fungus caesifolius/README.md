@@ -1,5 +1,4 @@
-Fungus caesifolius (Peck) Kuntze SPECIES
-=======
+# Fungus caesifolius (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

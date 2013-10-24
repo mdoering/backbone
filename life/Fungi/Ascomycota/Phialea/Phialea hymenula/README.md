@@ -1,5 +1,4 @@
-Phialea hymenula (Fuckel) Sacc. SPECIES
-=======
+# Phialea hymenula (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

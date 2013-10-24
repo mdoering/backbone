@@ -1,5 +1,4 @@
-Corethromyces shazawae T. Majewski & K. Sugiy. SPECIES
-=======
+# Corethromyces shazawae T. Majewski & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

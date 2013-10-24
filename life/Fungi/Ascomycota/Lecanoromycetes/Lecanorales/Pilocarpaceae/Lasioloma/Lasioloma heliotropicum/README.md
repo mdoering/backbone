@@ -1,5 +1,4 @@
-Lasioloma heliotropicum Bat. & M.P. Herrera SPECIES
-=======
+# Lasioloma heliotropicum Bat. & M.P. Herrera SPECIES
 
 #### Status
 ACCEPTED

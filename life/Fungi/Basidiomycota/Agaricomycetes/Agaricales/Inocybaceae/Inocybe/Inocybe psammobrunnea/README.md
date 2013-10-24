@@ -1,5 +1,4 @@
-Inocybe psammobrunnea Bon SPECIES
-=======
+# Inocybe psammobrunnea Bon SPECIES
 
 #### Status
 ACCEPTED

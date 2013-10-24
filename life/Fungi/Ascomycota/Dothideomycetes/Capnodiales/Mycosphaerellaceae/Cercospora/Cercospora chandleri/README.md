@@ -1,5 +1,4 @@
-Cercospora chandleri Hansf. SPECIES
-=======
+# Cercospora chandleri Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenocybe flexuosa Selva & Tibell SPECIES
-=======
+# Stenocybe flexuosa Selva & Tibell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma basirubens (Bon) A. Riva & Bon SPECIES
-=======
+# Tricholoma basirubens (Bon) A. Riva & Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kansanella Thompson, 1957 GENUS
-=======
+# Kansanella Thompson, 1957 GENUS
 
 #### Status
 ACCEPTED

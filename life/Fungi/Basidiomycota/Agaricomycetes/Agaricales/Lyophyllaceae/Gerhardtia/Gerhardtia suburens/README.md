@@ -1,5 +1,4 @@
-Gerhardtia suburens (Clémençon) Consiglio & Contu SPECIES
-=======
+# Gerhardtia suburens (Clémençon) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

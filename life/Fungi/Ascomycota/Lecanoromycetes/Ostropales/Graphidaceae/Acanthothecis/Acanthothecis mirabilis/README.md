@@ -1,5 +1,4 @@
-Acanthothecis mirabilis Staiger & Kalb SPECIES
-=======
+# Acanthothecis mirabilis Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

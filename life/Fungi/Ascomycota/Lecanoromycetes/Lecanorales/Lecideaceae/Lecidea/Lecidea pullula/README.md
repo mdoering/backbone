@@ -1,5 +1,4 @@
-Lecidea pullula (Tuck.) Zahlbr. SPECIES
-=======
+# Lecidea pullula (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

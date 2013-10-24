@@ -1,5 +1,4 @@
-Ellipsoidion parvum H. Reisigl SPECIES
-=======
+# Ellipsoidion parvum H. Reisigl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizoxylon compositum Ellis & Everh. SPECIES
-=======
+# Schizoxylon compositum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

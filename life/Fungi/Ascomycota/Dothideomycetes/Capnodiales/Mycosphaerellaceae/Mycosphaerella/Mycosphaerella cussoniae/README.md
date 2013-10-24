@@ -1,5 +1,4 @@
-Mycosphaerella cussoniae Crous & M.J. Wingf. SPECIES
-=======
+# Mycosphaerella cussoniae Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

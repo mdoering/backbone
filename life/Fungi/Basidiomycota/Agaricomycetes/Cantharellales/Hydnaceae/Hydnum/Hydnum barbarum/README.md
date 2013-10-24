@@ -1,5 +1,4 @@
-Hydnum barbarum Schmalz SPECIES
-=======
+# Hydnum barbarum Schmalz SPECIES
 
 #### Status
 ACCEPTED

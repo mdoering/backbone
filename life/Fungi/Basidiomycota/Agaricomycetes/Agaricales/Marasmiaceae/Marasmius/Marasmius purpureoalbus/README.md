@@ -1,5 +1,4 @@
-Marasmius purpureoalbus Petch SPECIES
-=======
+# Marasmius purpureoalbus Petch SPECIES
 
 #### Status
 ACCEPTED

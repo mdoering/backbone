@@ -1,5 +1,4 @@
-Usnea densirostra Taylor SPECIES
-=======
+# Usnea densirostra Taylor SPECIES
 
 #### Status
 ACCEPTED

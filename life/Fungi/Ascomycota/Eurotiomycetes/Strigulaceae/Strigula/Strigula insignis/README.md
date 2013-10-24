@@ -1,5 +1,4 @@
-Strigula insignis Jatta SPECIES
-=======
+# Strigula insignis Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella aspidospermatis (Speg.) Hansf. SPECIES
-=======
+# Asteridiella aspidospermatis (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

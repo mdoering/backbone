@@ -1,5 +1,4 @@
-Coprinus subradiatus Murrill SPECIES
-=======
+# Coprinus subradiatus Murrill SPECIES
 
 #### Status
 ACCEPTED

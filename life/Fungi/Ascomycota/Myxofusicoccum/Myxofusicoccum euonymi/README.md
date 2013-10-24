@@ -1,5 +1,4 @@
-Myxofusicoccum euonymi Jaap SPECIES
-=======
+# Myxofusicoccum euonymi Jaap SPECIES
 
 #### Status
 ACCEPTED

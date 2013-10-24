@@ -1,5 +1,4 @@
-Lichenostigma hyalospora Kalb & Hafellner SPECIES
-=======
+# Lichenostigma hyalospora Kalb & Hafellner SPECIES
 
 #### Status
 ACCEPTED

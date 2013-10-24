@@ -1,5 +1,4 @@
-Parmelia protovirens Gyeln. SPECIES
-=======
+# Parmelia protovirens Gyeln. SPECIES
 
 #### Status
 ACCEPTED

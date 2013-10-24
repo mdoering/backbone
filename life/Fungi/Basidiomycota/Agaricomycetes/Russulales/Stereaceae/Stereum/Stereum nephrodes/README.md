@@ -1,5 +1,4 @@
-Stereum nephrodes Mont. SPECIES
-=======
+# Stereum nephrodes Mont. SPECIES
 
 #### Status
 ACCEPTED

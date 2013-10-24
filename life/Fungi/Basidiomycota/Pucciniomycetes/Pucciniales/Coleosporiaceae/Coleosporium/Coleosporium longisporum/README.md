@@ -1,5 +1,4 @@
-Coleosporium longisporum Cummins SPECIES
-=======
+# Coleosporium longisporum Cummins SPECIES
 
 #### Status
 ACCEPTED

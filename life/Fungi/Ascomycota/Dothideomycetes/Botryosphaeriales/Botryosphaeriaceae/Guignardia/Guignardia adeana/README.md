@@ -1,5 +1,4 @@
-Guignardia adeana Rehm SPECIES
-=======
+# Guignardia adeana Rehm SPECIES
 
 #### Status
 ACCEPTED

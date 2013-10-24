@@ -1,5 +1,4 @@
-Puccinia linderae-setchuenensis J.Y. Zhuang SPECIES
-=======
+# Puccinia linderae-setchuenensis J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

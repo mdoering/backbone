@@ -1,8 +1,7 @@
-Lindnera misumaiensis (Y. Sasaki & Tak. Yoshida ex Kurtzman) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Cyberlindnera misumaiensis (Y. Sasaki & Tak. Yoshida ex Kurtzman) Minter, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Pichia misumaiensis Y. Sasaki & Tak. Yoshida ex Kurtzman, 2000
 
 ### Remarks
 null

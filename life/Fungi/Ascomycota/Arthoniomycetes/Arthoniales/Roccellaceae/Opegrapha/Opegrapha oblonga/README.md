@@ -1,5 +1,4 @@
-Opegrapha oblonga Nyl. SPECIES
-=======
+# Opegrapha oblonga Nyl. SPECIES
 
 #### Status
 ACCEPTED

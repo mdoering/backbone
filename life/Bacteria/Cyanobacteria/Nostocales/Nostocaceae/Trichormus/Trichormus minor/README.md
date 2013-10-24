@@ -1,5 +1,4 @@
-Trichormus minor (V. K. Laloraya & A. K. Mitra) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus minor (V. K. Laloraya & A. K. Mitra) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cocconia astrocaryi (Mont.) Sacc., 1889 SPECIES
-=======
+# Cocconia astrocaryi (Mont.) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

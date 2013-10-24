@@ -1,5 +1,4 @@
-Puccinia naumovii Golovin SPECIES
-=======
+# Puccinia naumovii Golovin SPECIES
 
 #### Status
 ACCEPTED

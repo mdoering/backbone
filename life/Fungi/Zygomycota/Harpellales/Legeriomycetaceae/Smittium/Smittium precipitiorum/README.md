@@ -1,5 +1,4 @@
-Smittium precipitiorum M.M. White & Lichtw., 2004 SPECIES
-=======
+# Smittium precipitiorum M.M. White & Lichtw., 2004 SPECIES
 
 #### Status
 ACCEPTED

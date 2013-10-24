@@ -1,5 +1,4 @@
-Verrucaria vitreonitens Zahlbr. SPECIES
-=======
+# Verrucaria vitreonitens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

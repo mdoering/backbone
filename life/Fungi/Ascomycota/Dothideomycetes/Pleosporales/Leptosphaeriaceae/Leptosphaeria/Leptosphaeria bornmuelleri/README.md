@@ -1,5 +1,4 @@
-Leptosphaeria bornmuelleri Jaap SPECIES
-=======
+# Leptosphaeria bornmuelleri Jaap SPECIES
 
 #### Status
 ACCEPTED

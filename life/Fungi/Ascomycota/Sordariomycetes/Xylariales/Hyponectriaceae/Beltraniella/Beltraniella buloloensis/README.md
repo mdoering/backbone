@@ -1,5 +1,4 @@
-Beltraniella buloloensis Matsush. SPECIES
-=======
+# Beltraniella buloloensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

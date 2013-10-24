@@ -1,17 +1,16 @@
-Chaetomium pusillum Fr., 1829 SPECIES
-=======
+# Niesslia exilis (Alb. & Schwein.) G. Winter, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(1): 255 (1829)
+Rabenhorst's Kryptogamenflora (Leipzig) 1(2): 196 (1887)
 
 #### Original name
-Chaetomium pusillum Fr., 1829
+Sphaeria exilis Schwein. ex Cooke, 1887
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leptogium kraussii (Flot.) Zahlbr. SPECIES
-=======
+# Leptogium kraussii (Flot.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

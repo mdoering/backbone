@@ -1,5 +1,4 @@
-Metasphaeria microëcia Ellis & Everh. SPECIES
-=======
+# Metasphaeria microëcia Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

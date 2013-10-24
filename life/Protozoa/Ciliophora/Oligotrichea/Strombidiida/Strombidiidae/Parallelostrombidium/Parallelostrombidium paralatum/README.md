@@ -1,5 +1,4 @@
-Parallelostrombidium paralatum Xu, Song & Warren, 2006 SPECIES
-=======
+# Parallelostrombidium paralatum Xu, Song & Warren, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongocorisca Haeckel, 1887 GENUS
-=======
+# Spongocorisca Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

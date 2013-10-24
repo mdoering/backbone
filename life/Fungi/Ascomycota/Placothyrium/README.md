@@ -1,5 +1,4 @@
-Placothyrium Bubák GENUS
-=======
+# Placothyrium Bubák GENUS
 
 #### Status
 ACCEPTED

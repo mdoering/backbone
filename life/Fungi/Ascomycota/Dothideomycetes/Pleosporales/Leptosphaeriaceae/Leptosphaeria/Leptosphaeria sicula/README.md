@@ -1,5 +1,4 @@
-Leptosphaeria sicula Sacc. & Beltr. SPECIES
-=======
+# Leptosphaeria sicula Sacc. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

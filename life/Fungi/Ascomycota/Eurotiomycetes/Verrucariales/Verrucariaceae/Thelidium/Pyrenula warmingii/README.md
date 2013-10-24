@@ -1,5 +1,4 @@
-Pyrenula warmingii (Kremp.) Müll. Arg., 1884 SPECIES
-=======
+# Pyrenula warmingii (Kremp.) Müll. Arg., 1884 SPECIES
 
 #### Status
 DOUBTFUL

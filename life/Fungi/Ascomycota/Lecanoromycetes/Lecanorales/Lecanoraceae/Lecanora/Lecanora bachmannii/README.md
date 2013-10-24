@@ -1,5 +1,4 @@
-Lecanora bachmannii Zahlbr. SPECIES
-=======
+# Lecanora bachmannii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

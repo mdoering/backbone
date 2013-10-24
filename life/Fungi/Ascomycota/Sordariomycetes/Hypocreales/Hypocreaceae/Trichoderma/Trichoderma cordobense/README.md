@@ -1,5 +1,4 @@
-Trichoderma cordobense Speg., 1926 SPECIES
-=======
+# Trichoderma cordobense Speg., 1926 SPECIES
 
 #### Status
 ACCEPTED

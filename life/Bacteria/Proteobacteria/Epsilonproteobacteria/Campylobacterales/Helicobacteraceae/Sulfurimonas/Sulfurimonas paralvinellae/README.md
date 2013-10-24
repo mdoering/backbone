@@ -1,5 +1,4 @@
-Sulfurimonas paralvinellae Takai et al., 2006 SPECIES
-=======
+# Sulfurimonas paralvinellae Takai et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

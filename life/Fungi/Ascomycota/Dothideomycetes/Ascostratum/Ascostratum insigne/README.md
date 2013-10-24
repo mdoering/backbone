@@ -1,5 +1,4 @@
-Ascostratum insigne Syd. & P. Syd., 1912 SPECIES
-=======
+# Ascostratum insigne Syd. & P. Syd., 1912 SPECIES
 
 #### Status
 ACCEPTED

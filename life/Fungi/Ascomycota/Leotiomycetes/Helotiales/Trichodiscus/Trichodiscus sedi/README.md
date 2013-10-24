@@ -1,5 +1,4 @@
-Trichodiscus sedi E. Müll. SPECIES
-=======
+# Trichodiscus sedi E. Müll. SPECIES
 
 #### Status
 ACCEPTED

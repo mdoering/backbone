@@ -1,5 +1,4 @@
-Dicaeoma sommerfeltii (Johanson) Arthur SPECIES
-=======
+# Dicaeoma sommerfeltii (Johanson) Arthur SPECIES
 
 #### Status
 ACCEPTED

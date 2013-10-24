@@ -1,5 +1,4 @@
-Tetrachaetum marchalianum (De Wild.) SPECIES
-=======
+# Tetrachaetum marchalianum (De Wild.) SPECIES
 
 #### Status
 ACCEPTED

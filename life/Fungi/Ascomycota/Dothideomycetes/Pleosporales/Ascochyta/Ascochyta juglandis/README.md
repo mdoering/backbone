@@ -1,5 +1,4 @@
-Ascochyta juglandis Boltsh., 1898 SPECIES
-=======
+# Ascochyta juglandis Boltsh., 1898 SPECIES
 
 #### Status
 ACCEPTED

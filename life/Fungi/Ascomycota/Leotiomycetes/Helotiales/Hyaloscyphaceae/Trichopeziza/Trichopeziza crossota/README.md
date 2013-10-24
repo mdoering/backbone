@@ -1,14 +1,13 @@
-Trichopeziza crossata (Ellis) Sacc. SPECIES
-=======
+# Trichopeziza crossota (Ellis) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 413 (1889)
 
 #### Original name
 Lachnella crossota Ellis

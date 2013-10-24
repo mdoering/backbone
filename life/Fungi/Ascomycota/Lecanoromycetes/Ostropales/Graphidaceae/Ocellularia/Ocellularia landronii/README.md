@@ -1,5 +1,4 @@
-Ocellularia landronii Hale SPECIES
-=======
+# Ocellularia landronii Hale SPECIES
 
 #### Status
 ACCEPTED

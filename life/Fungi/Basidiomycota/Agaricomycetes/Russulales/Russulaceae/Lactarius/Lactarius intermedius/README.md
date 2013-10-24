@@ -1,5 +1,4 @@
-Lactarius intermedius Krombh. SPECIES
-=======
+# Lactarius intermedius Krombh. SPECIES
 
 #### Status
 ACCEPTED

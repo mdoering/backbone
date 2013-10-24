@@ -1,5 +1,4 @@
-Sclerotiopsis protracta (Sacc.) Died. SPECIES
-=======
+# Sclerotiopsis protracta (Sacc.) Died. SPECIES
 
 #### Status
 ACCEPTED

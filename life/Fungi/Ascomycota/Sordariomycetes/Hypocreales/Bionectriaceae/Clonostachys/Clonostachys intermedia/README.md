@@ -1,5 +1,4 @@
-Clonostachys intermedia Schroers SPECIES
-=======
+# Clonostachys intermedia Schroers SPECIES
 
 #### Status
 ACCEPTED

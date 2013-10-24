@@ -1,5 +1,4 @@
-Hohenbuehelia pahangensis Corner SPECIES
-=======
+# Hohenbuehelia pahangensis Corner SPECIES
 
 #### Status
 ACCEPTED

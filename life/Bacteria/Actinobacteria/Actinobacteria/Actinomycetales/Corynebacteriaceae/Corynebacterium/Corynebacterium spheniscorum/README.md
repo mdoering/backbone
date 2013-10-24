@@ -1,5 +1,4 @@
-Corynebacterium spheniscorum Goyache et al., 2003 SPECIES
-=======
+# Corynebacterium spheniscorum Goyache et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

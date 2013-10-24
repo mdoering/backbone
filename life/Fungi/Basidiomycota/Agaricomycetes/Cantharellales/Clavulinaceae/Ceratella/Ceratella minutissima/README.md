@@ -1,5 +1,4 @@
-Ceratella minutissima Beauseign. SPECIES
-=======
+# Ceratella minutissima Beauseign. SPECIES
 
 #### Status
 ACCEPTED

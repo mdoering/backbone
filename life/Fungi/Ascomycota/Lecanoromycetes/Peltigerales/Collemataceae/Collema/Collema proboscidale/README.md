@@ -1,5 +1,4 @@
-Collema proboscidale Mont. SPECIES
-=======
+# Collema proboscidale Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha subcalcarea Müll. Arg. SPECIES
-=======
+# Opegrapha subcalcarea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

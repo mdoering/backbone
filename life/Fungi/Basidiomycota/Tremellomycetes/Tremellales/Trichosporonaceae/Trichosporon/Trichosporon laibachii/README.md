@@ -1,17 +1,16 @@
-Endomyces laibachii Windisch, 1965 SPECIES
-=======
+# Trichosporon laibachii (Windisch) E. Guého & M.T. Sm., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 61(4): 302 (1992)
 
 #### Original name
-null
+Endomyces laibachii Windisch, 1965
 
 ### Remarks
 null

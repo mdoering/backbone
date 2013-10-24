@@ -1,5 +1,4 @@
-Heteropedia polychloris Pascher SPECIES
-=======
+# Heteropedia polychloris Pascher SPECIES
 
 #### Status
 ACCEPTED

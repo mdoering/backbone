@@ -1,5 +1,4 @@
-Dictyonema laxum Müll. Arg. SPECIES
-=======
+# Dictyonema laxum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sydowia gregaria Bres., 1895 SPECIES
-=======
+# Sydowia gregaria Bres., 1895 SPECIES
 
 #### Status
 ACCEPTED

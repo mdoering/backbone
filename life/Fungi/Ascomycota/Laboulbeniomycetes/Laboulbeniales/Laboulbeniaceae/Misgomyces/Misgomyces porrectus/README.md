@@ -1,5 +1,4 @@
-Misgomyces porrectus Thaxt. SPECIES
-=======
+# Misgomyces porrectus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

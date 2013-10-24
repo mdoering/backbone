@@ -1,5 +1,4 @@
-Porina decrescens P. M. McCarthy & Kantvilas SPECIES
-=======
+# Porina decrescens P. M. McCarthy & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

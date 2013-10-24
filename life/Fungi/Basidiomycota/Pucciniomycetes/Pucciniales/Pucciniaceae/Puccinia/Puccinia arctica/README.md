@@ -1,5 +1,4 @@
-Puccinia arctica Lagerh. SPECIES
-=======
+# Puccinia arctica Lagerh. SPECIES
 
 #### Status
 ACCEPTED

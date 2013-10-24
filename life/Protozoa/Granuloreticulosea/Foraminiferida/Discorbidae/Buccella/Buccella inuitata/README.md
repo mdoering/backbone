@@ -1,5 +1,4 @@
-Buccella inuitata SPECIES
-=======
+# Buccella inuitata SPECIES
 
 #### Status
 ACCEPTED

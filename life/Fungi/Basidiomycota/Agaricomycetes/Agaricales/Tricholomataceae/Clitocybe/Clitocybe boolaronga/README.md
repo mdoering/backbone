@@ -1,5 +1,4 @@
-Clitocybe boolaronga Grgur. SPECIES
-=======
+# Clitocybe boolaronga Grgur. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Martellia subalpina A.H. Sm., 1963 SPECIES
-=======
+# Gymnomyces subalpinus (A.H. Sm.) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 55(4): 439 (1963)
+Mycotaxon 81: 201 (2002)
 
 #### Original name
 Martellia subalpina A.H. Sm., 1963

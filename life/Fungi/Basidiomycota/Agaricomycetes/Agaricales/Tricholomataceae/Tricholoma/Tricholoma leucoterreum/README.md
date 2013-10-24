@@ -1,5 +1,4 @@
-Tricholoma leucoterreum Mariotto & Turetta SPECIES
-=======
+# Tricholoma leucoterreum Mariotto & Turetta SPECIES
 
 #### Status
 ACCEPTED

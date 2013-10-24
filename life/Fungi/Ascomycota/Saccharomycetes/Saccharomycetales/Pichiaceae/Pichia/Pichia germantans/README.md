@@ -1,5 +1,4 @@
-Pichia germantans Lodder SPECIES
-=======
+# Pichia germantans Lodder SPECIES
 
 #### Status
 ACCEPTED

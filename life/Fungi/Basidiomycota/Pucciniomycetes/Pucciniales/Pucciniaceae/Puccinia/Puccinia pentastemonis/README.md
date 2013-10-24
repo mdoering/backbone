@@ -1,5 +1,4 @@
-Puccinia pentastemonis Peck SPECIES
-=======
+# Puccinia pentastemonis Peck SPECIES
 
 #### Status
 ACCEPTED

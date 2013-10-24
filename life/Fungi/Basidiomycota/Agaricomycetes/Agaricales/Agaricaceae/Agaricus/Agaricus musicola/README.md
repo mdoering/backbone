@@ -1,17 +1,16 @@
-Agaricus musaecola Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus musicola Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 1 9: 453 (1842)
 
 #### Original name
-Agaricus musaecola Berk. & M.A. Curtis
+Agaricus musicola Berk.
 
 ### Remarks
 null

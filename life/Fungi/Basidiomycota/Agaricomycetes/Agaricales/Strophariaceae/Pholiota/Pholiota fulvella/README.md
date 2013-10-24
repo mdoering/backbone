@@ -1,5 +1,4 @@
-Pholiota fulvella (Peck) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota fulvella (Peck) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

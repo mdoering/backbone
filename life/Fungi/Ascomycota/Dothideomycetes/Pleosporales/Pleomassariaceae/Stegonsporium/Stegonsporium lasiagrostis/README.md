@@ -1,8 +1,7 @@
-Stegonsporium lasiagrostidis Koshk. SPECIES
-=======
+# Stegonsporium lasiagrostis Koshk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stegonsporium lasiagrostidis Koshk.
+Stegonsporium lasiagrostis Koshk.
 
 ### Remarks
 null

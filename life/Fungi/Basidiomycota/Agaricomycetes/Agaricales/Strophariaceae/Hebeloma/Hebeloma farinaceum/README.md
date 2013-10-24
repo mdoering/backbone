@@ -1,5 +1,4 @@
-Hebeloma farinaceum Murrill SPECIES
-=======
+# Hebeloma farinaceum Murrill SPECIES
 
 #### Status
 ACCEPTED

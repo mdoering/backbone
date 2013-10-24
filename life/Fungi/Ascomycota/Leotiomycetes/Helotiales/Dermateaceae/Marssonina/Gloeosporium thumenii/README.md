@@ -1,5 +1,4 @@
-Gloeosporium thumenii Sacc. SPECIES
-=======
+# Gloeosporium thumenii Sacc. SPECIES
 
 #### Status
 ACCEPTED

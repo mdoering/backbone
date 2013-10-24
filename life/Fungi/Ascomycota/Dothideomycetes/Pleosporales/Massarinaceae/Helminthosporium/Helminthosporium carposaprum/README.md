@@ -1,5 +1,4 @@
-Helminthosporium carposaprum Pollack SPECIES
-=======
+# Helminthosporium carposaprum Pollack SPECIES
 
 #### Status
 ACCEPTED

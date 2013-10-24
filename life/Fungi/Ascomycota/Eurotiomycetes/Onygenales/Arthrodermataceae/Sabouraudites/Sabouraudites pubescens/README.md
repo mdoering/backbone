@@ -1,5 +1,4 @@
-Sabouraudites pubescens (Sabour.) M. Ota & Langeron SPECIES
-=======
+# Sabouraudites pubescens (Sabour.) M. Ota & Langeron SPECIES
 
 #### Status
 ACCEPTED

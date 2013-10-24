@@ -1,5 +1,4 @@
-Truncatella pampeana (Speg.) Steyaert SPECIES
-=======
+# Truncatella pampeana (Speg.) Steyaert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium hwangense Vánky & C. Vánky, 2000 SPECIES
-=======
+# Sporisorium hwangense Vánky & C. Vánky, 2000 SPECIES
 
 #### Status
 ACCEPTED

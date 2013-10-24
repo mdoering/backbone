@@ -1,5 +1,4 @@
-Lecidea samoënsis Zahlbr. SPECIES
-=======
+# Lecidea samoënsis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

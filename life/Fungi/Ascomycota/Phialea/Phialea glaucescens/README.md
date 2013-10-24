@@ -1,5 +1,4 @@
-Phialea glaucescens Penz. & Sacc. SPECIES
-=======
+# Phialea glaucescens Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

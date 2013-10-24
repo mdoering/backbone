@@ -1,5 +1,4 @@
-Sepedonium flavidum Sacc. & Ellis SPECIES
-=======
+# Sepedonium flavidum Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

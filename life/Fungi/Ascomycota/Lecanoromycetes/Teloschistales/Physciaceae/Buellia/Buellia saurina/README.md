@@ -1,5 +1,4 @@
-Buellia saurina W.A. Weber SPECIES
-=======
+# Buellia saurina W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapesia bromeliacearum Dennis SPECIES
-=======
+# Tapesia bromeliacearum Dennis SPECIES
 
 #### Status
 ACCEPTED

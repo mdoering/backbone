@@ -1,5 +1,4 @@
-Discorbina margaritifera Heron-Allen & Earland, 1924 SPECIES
-=======
+# Discorbina margaritifera Heron-Allen & Earland, 1924 SPECIES
 
 #### Status
 ACCEPTED

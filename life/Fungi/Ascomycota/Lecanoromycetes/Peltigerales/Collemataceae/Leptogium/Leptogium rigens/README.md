@@ -1,5 +1,4 @@
-Leptogium rigens Nyl. SPECIES
-=======
+# Leptogium rigens Nyl. SPECIES
 
 #### Status
 ACCEPTED

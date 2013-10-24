@@ -1,5 +1,4 @@
-Heppia umbilicata Vain. SPECIES
-=======
+# Heppia umbilicata Vain. SPECIES
 
 #### Status
 ACCEPTED

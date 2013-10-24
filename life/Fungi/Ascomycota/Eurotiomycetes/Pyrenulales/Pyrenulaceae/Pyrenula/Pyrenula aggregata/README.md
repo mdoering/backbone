@@ -1,5 +1,4 @@
-Pyrenula aggregata (Fée) Fée SPECIES
-=======
+# Pyrenula aggregata (Fée) Fée SPECIES
 
 #### Status
 ACCEPTED

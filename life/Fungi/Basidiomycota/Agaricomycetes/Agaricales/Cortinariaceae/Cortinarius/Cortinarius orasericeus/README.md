@@ -1,5 +1,4 @@
-Cortinarius orasericeus Rob. Henry SPECIES
-=======
+# Cortinarius orasericeus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

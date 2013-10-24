@@ -1,5 +1,4 @@
-Russula prinophila Sarnari SPECIES
-=======
+# Russula prinophila Sarnari SPECIES
 
 #### Status
 ACCEPTED

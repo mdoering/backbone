@@ -1,5 +1,4 @@
-Arthonia octolocularis Vain. SPECIES
-=======
+# Arthonia octolocularis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Winterina lobata (Tracy & Earle) Sacc. & P. Syd. SPECIES
-=======
+# Winterina lobata (Tracy & Earle) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

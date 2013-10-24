@@ -1,5 +1,4 @@
-Teratosphaeria biformis Whyte & Andjic, 2010 SPECIES
-=======
+# Teratosphaeria biformis Whyte & Andjic, 2010 SPECIES
 
 #### Status
 ACCEPTED

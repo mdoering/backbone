@@ -1,5 +1,4 @@
-Melanotus gelineus Pegler SPECIES
-=======
+# Melanotus gelineus Pegler SPECIES
 
 #### Status
 ACCEPTED

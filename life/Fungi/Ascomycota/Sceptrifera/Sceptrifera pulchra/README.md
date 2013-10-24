@@ -1,5 +1,4 @@
-Sceptrifera pulchra Deighton, 1965 SPECIES
-=======
+# Sceptrifera pulchra Deighton, 1965 SPECIES
 
 #### Status
 ACCEPTED

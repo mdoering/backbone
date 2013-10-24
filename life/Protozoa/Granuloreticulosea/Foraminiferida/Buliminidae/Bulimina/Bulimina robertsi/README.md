@@ -1,5 +1,4 @@
-Bulimina robertsi Ellis & Howe SPECIES
-=======
+# Bulimina robertsi Ellis & Howe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella lovoae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella lovoae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

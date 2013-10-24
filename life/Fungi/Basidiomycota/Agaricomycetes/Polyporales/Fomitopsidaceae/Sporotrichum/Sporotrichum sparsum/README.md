@@ -1,5 +1,4 @@
-Sporotrichum sparsum Link SPECIES
-=======
+# Sporotrichum sparsum Link SPECIES
 
 #### Status
 ACCEPTED

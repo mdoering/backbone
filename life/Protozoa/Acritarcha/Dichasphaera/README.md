@@ -1,5 +1,4 @@
-Dichasphaera GENUS
-=======
+# Dichasphaera GENUS
 
 #### Status
 ACCEPTED

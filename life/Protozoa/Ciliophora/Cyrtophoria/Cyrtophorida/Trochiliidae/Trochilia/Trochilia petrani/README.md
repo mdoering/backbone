@@ -1,5 +1,4 @@
-Trochilia petrani Dragesco, 1966 SPECIES
-=======
+# Trochilia petrani Dragesco, 1966 SPECIES
 
 #### Status
 ACCEPTED

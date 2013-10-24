@@ -1,5 +1,4 @@
-Uromyces costesianus Speg. SPECIES
-=======
+# Uromyces costesianus Speg. SPECIES
 
 #### Status
 ACCEPTED

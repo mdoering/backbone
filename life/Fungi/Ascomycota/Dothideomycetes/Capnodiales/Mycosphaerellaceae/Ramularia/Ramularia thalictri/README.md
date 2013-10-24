@@ -1,5 +1,4 @@
-Ramularia thalictri Bondartsev SPECIES
-=======
+# Ramularia thalictri Bondartsev SPECIES
 
 #### Status
 ACCEPTED

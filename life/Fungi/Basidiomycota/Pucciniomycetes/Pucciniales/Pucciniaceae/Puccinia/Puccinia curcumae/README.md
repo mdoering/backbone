@@ -1,5 +1,4 @@
-Puccinia curcumae T.S. Ramakr. & Sundaram SPECIES
-=======
+# Puccinia curcumae T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

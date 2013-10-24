@@ -1,5 +1,4 @@
-Geotrichella G. Arnaud GENUS
-=======
+# Geotrichella G. Arnaud GENUS
 
 #### Status
 ACCEPTED

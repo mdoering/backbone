@@ -1,5 +1,4 @@
-Berengeria bracteata (Hoffm.) Trevis. SPECIES
-=======
+# Berengeria bracteata (Hoffm.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

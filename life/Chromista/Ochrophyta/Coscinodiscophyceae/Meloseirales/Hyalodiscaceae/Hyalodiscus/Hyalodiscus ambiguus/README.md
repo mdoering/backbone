@@ -1,5 +1,4 @@
-Hyalodiscus ambiguus var. kamtschaticus (Grunow) A. P. Jousé VARIETY
-=======
+# Hyalodiscus ambiguus (Grunow) Tempère & Peragallo SPECIES
 
 #### Status
 ACCEPTED

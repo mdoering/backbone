@@ -1,5 +1,4 @@
-Caloplaca albolutescens (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca albolutescens (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

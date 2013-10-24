@@ -1,5 +1,4 @@
-Cercospora phyteumatis A.B. Frank SPECIES
-=======
+# Cercospora phyteumatis A.B. Frank SPECIES
 
 #### Status
 ACCEPTED

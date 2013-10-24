@@ -1,8 +1,7 @@
-Dasyscypha sphaerocephalus (Wallr.) Rehm SPECIES
-=======
+# Dasyscyphus sphaerocephalus (Wallr.) Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

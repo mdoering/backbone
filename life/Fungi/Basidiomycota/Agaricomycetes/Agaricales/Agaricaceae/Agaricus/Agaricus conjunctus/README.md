@@ -1,5 +1,4 @@
-Agaricus conjunctus J. Otto SPECIES
-=======
+# Agaricus conjunctus J. Otto SPECIES
 
 #### Status
 ACCEPTED

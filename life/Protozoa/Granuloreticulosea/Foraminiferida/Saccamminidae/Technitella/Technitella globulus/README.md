@@ -1,5 +1,4 @@
-Technitella globulus Wiesner, 1931 SPECIES
-=======
+# Technitella globulus Wiesner, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neocosmospora indica Wadhwani SPECIES
-=======
+# Neocosmospora indica Wadhwani SPECIES
 
 #### Status
 ACCEPTED

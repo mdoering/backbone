@@ -1,5 +1,4 @@
-Rhodocybe pleurogena Pegler SPECIES
-=======
+# Rhodocybe pleurogena Pegler SPECIES
 
 #### Status
 ACCEPTED

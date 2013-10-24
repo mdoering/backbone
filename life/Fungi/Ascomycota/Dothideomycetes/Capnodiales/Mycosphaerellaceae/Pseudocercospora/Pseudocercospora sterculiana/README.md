@@ -1,5 +1,4 @@
-Pseudocercospora sterculiana Deighton SPECIES
-=======
+# Pseudocercospora sterculiana Deighton SPECIES
 
 #### Status
 ACCEPTED

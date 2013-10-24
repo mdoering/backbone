@@ -1,5 +1,4 @@
-Buccella angulata Uchio, 1960 SPECIES
-=======
+# Buccella angulata Uchio, 1960 SPECIES
 
 #### Status
 ACCEPTED

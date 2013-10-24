@@ -1,5 +1,4 @@
-Lanzia filicis-maris Svrcek SPECIES
-=======
+# Lanzia filicis-maris Svrcek SPECIES
 
 #### Status
 ACCEPTED

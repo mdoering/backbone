@@ -1,5 +1,4 @@
-Physarum daamsii Nann.-Bremek., 1971 SPECIES
-=======
+# Physarum daamsii Nann.-Bremek., 1971 SPECIES
 
 #### Status
 ACCEPTED

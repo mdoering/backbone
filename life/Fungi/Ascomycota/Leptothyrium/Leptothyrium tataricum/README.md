@@ -1,5 +1,4 @@
-Leptothyrium tataricum Brunaud SPECIES
-=======
+# Leptothyrium tataricum Brunaud SPECIES
 
 #### Status
 ACCEPTED

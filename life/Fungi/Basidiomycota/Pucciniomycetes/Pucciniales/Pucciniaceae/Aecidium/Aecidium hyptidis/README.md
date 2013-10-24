@@ -1,5 +1,4 @@
-Aecidium hyptidis Henn. SPECIES
-=======
+# Aecidium hyptidis Henn. SPECIES
 
 #### Status
 ACCEPTED

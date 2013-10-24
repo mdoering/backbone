@@ -1,5 +1,4 @@
-Cladosporiella Deighton GENUS
-=======
+# Cladosporiella Deighton GENUS
 
 #### Status
 ACCEPTED

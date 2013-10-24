@@ -1,5 +1,4 @@
-Lachnum leucophaeum P. Karst. SPECIES
-=======
+# Lachnum leucophaeum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

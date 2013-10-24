@@ -1,5 +1,4 @@
-Sphaerulina fraxinea (Sacc. & Speg.) Sacc. SPECIES
-=======
+# Sphaerulina fraxinea (Sacc. & Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

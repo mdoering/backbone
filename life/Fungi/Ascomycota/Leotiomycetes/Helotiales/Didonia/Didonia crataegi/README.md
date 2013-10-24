@@ -1,5 +1,4 @@
-Didonia crataegi Velen. SPECIES
-=======
+# Didonia crataegi Velen. SPECIES
 
 #### Status
 ACCEPTED

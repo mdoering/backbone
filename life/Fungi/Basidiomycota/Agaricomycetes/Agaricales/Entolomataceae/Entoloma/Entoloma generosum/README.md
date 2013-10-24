@@ -1,5 +1,4 @@
-Entoloma generosum Corner & E. Horak SPECIES
-=======
+# Entoloma generosum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

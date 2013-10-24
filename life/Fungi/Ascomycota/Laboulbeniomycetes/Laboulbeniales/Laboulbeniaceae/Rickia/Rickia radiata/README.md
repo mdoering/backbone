@@ -1,5 +1,4 @@
-Rickia radiata Thaxt. SPECIES
-=======
+# Rickia radiata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

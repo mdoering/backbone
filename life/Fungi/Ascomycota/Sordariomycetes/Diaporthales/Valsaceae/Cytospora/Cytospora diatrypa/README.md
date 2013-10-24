@@ -1,5 +1,4 @@
-Cytospora diatrypa Sacc. SPECIES
-=======
+# Cytospora diatrypa Sacc. SPECIES
 
 #### Status
 ACCEPTED

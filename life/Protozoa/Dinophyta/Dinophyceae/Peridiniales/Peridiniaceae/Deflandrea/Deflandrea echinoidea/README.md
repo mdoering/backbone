@@ -1,5 +1,4 @@
-Deflandrea echinoidea Cookson & Eisenack SPECIES
-=======
+# Deflandrea echinoidea Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

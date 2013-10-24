@@ -1,5 +1,4 @@
-Puccinia pattersoniae P. Syd. & Syd., 1904 SPECIES
-=======
+# Puccinia pattersoniae P. Syd. & Syd., 1904 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parascorias spinosa Mendoza {?} SPECIES
-=======
+# Parascorias spinosa Mendoza {?} SPECIES
 
 #### Status
 ACCEPTED

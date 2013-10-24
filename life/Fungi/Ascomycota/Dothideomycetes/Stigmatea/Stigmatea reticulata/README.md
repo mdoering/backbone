@@ -1,5 +1,4 @@
-Stigmatea reticulata Roum. SPECIES
-=======
+# Stigmatea reticulata Roum. SPECIES
 
 #### Status
 ACCEPTED

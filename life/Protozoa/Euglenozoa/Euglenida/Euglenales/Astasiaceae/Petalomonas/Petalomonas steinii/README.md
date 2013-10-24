@@ -1,5 +1,4 @@
-Petalomonas steinii var. similis Christen VARIETY
-=======
+# Petalomonas steinii Klebs SPECIES
 
 #### Status
 ACCEPTED

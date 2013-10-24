@@ -1,5 +1,4 @@
-Laschia gemma Höhn. SPECIES
-=======
+# Laschia gemma Höhn. SPECIES
 
 #### Status
 ACCEPTED

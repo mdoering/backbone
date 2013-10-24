@@ -1,5 +1,4 @@
-Nectria tympaniformis Petr. SPECIES
-=======
+# Nectria tympaniformis Petr. SPECIES
 
 #### Status
 ACCEPTED

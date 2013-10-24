@@ -1,14 +1,13 @@
-Fungus lepiotodes (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus lepiotoides (Berk. & Broome) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 480 (1898)
 
 #### Original name
 Agaricus lepiotoides Speg.

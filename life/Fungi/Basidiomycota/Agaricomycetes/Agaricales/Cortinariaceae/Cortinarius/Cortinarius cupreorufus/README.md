@@ -1,17 +1,16 @@
-Cortinarius orichalceus f. orichalceus (Batsch) Fr. FORM
-=======
+# Cortinarius cupreorufus Brandrud, 1994 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 267 (1838)
+in Brandrud, Lindström, Marklund, Melot & Muskos, Cortinarius (Matfors), Flora Photographica [English translation by J. Melot] 3: 27 (1994)
 
 #### Original name
-Cortinarius orichalceus f. orichalceus (Batsch) Fr.
+Cortinarius cupreorufus Brandrud, 1994
 
 ### Remarks
 null

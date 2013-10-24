@@ -1,5 +1,4 @@
-Puccinia gynandriridis M. Abbasi, Hedjar. & Gjaerum SPECIES
-=======
+# Puccinia gynandriridis M. Abbasi, Hedjar. & Gjaerum SPECIES
 
 #### Status
 ACCEPTED

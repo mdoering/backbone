@@ -1,5 +1,4 @@
-Nodogordiospira Trifonova, 1977 GENUS
-=======
+# Nodogordiospira Trifonova, 1977 GENUS
 
 #### Status
 ACCEPTED

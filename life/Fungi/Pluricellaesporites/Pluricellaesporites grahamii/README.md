@@ -1,5 +1,4 @@
-Pluricellaesporites grahamii Mart.-Hern. & Tom.-Ort. SPECIES
-=======
+# Pluricellaesporites grahamii Mart.-Hern. & Tom.-Ort. SPECIES
 
 #### Status
 ACCEPTED

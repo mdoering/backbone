@@ -1,5 +1,4 @@
-Buellia tabacina (Müll. Arg.) Malme SPECIES
-=======
+# Buellia tabacina (Müll. Arg.) Malme SPECIES
 
 #### Status
 ACCEPTED

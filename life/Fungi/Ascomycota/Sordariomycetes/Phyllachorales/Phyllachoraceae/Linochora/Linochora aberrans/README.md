@@ -1,5 +1,4 @@
-Linochora aberrans Syd., 1924 SPECIES
-=======
+# Linochora aberrans Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

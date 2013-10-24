@@ -1,5 +1,4 @@
-Ramularia paludosa Fr. SPECIES
-=======
+# Ramularia paludosa Fr. SPECIES
 
 #### Status
 ACCEPTED

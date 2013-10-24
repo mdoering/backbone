@@ -1,5 +1,4 @@
-Agaricus pulvinatus Bolton SPECIES
-=======
+# Agaricus pulvinatus Bolton SPECIES
 
 #### Status
 ACCEPTED

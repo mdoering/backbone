@@ -1,5 +1,4 @@
-Macrovalsaria leonensis (Deighton) Petr., 1962 SPECIES
-=======
+# Macrovalsaria leonensis (Deighton) Petr., 1962 SPECIES
 
 #### Status
 ACCEPTED

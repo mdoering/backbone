@@ -1,5 +1,4 @@
-Ocellularia dominicana Hale SPECIES
-=======
+# Ocellularia dominicana Hale SPECIES
 
 #### Status
 ACCEPTED

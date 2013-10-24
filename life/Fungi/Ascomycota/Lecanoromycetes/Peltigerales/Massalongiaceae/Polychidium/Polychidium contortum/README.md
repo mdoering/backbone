@@ -1,5 +1,4 @@
-Polychidium contortum Henssen SPECIES
-=======
+# Polychidium contortum Henssen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius nigroimplicatus Corner SPECIES
-=======
+# Marasmius nigroimplicatus Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helmisporium repens Dearn. & Barthol. SPECIES
-=======
+# Helminthosporium repens Dearn. & Barthol. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Dearn. , Mycologia 9(6): 363 (1917)
 
 #### Original name
-Helmisporium repens Dearn. & Barthol.
+Helminthosporium repens Dearn. & Barthol.
 
 ### Remarks
 null

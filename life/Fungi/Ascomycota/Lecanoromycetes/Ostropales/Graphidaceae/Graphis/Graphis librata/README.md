@@ -1,5 +1,4 @@
-Graphis librata C. Knight SPECIES
-=======
+# Graphis librata C. Knight SPECIES
 
 #### Status
 ACCEPTED

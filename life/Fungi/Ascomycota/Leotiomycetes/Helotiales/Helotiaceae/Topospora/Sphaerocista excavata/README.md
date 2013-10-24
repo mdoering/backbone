@@ -1,5 +1,4 @@
-Sphaerocista excavata Preuss SPECIES
-=======
+# Sphaerocista excavata Preuss SPECIES
 
 #### Status
 ACCEPTED

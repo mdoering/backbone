@@ -1,5 +1,4 @@
-Albatrellus citrinus Ryman SPECIES
-=======
+# Albatrellus citrinus Ryman SPECIES
 
 #### Status
 ACCEPTED

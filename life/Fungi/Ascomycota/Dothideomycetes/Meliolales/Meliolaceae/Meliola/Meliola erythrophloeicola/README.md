@@ -1,5 +1,4 @@
-Meliola erythrophloeicola Mibey SPECIES
-=======
+# Meliola erythrophloeicola Mibey SPECIES
 
 #### Status
 ACCEPTED

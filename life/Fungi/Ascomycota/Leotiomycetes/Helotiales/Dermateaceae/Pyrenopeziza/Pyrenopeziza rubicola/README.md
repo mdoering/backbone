@@ -1,5 +1,4 @@
-Pyrenopeziza rubicola Losa SPECIES
-=======
+# Pyrenopeziza rubicola Losa SPECIES
 
 #### Status
 ACCEPTED

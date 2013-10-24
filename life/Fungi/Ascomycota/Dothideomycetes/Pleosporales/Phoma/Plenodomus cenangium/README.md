@@ -1,5 +1,4 @@
-Plenodomus cenangium (Corda) Oudem. SPECIES
-=======
+# Plenodomus cenangium (Corda) Oudem. SPECIES
 
 #### Status
 ACCEPTED

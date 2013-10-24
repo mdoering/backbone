@@ -1,5 +1,4 @@
-Siphonosphaera pannonica F. Hindák SPECIES
-=======
+# Siphonosphaera pannonica F. Hindák SPECIES
 
 #### Status
 ACCEPTED

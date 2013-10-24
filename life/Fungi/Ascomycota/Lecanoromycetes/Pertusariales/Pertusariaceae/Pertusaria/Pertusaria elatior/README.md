@@ -1,5 +1,4 @@
-Pertusaria elatior Stirt. SPECIES
-=======
+# Pertusaria elatior Stirt. SPECIES
 
 #### Status
 ACCEPTED

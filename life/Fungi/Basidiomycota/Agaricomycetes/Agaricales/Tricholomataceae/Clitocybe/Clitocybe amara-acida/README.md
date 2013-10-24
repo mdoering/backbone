@@ -1,5 +1,4 @@
-Clitocybe amara-acida Raithelh. SPECIES
-=======
+# Clitocybe amara-acida Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rhabdospora cirsii var. cirsii VARIETY
-=======
+# Nodulosphaeria cirsii (P. Karst.) L. Holm, 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symbolae mycologicae 15: 151 (1884)
+Symb. bot. upsal. 14(no. 3): 92 (1957)
 
 #### Original name
-Rhabdospora cirsii var. cirsii
+Rhabdospora cirsii P. Karst., 1884
 
 ### Remarks
 null

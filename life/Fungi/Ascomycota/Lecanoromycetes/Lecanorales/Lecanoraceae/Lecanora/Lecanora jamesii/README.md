@@ -1,5 +1,4 @@
-Lecanora jamesii J. R. Laundon SPECIES
-=======
+# Lecanora jamesii J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces australiensis Höhn. SPECIES
-=======
+# Hypomyces australiensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

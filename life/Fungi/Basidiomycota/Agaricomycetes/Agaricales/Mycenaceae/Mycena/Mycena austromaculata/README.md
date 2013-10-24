@@ -1,5 +1,4 @@
-Mycena austromaculata Grgur. & T.W. May, 1997 SPECIES
-=======
+# Mycena austromaculata Grgur. & T.W. May, 1997 SPECIES
 
 #### Status
 ACCEPTED

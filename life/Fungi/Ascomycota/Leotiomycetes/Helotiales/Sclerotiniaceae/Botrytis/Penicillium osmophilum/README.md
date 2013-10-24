@@ -1,5 +1,4 @@
-Penicillium osmophilum Stolk & Veenb.-Rijks, 1974 SPECIES
-=======
+# Penicillium osmophilum Stolk & Veenb.-Rijks, 1974 SPECIES
 
 #### Status
 DOUBTFUL

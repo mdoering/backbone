@@ -1,5 +1,4 @@
-Omphalina columbiana Singer SPECIES
-=======
+# Omphalina columbiana Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenina clidemiae F. Stevens SPECIES
-=======
+# Irenina clidemiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

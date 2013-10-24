@@ -1,5 +1,4 @@
-Scindalma declive (Kalchbr.) Kuntze SPECIES
-=======
+# Scindalma declive (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

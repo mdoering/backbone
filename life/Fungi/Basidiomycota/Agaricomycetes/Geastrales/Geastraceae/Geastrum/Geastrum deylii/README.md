@@ -1,5 +1,4 @@
-Geastrum deylii Pilát SPECIES
-=======
+# Geastrum deylii Pilát SPECIES
 
 #### Status
 ACCEPTED

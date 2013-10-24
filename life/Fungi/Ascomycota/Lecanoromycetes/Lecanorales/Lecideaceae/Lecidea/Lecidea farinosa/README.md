@@ -1,5 +1,4 @@
-Lecidea farinosa (Ach.) Röhl. SPECIES
-=======
+# Lecidea farinosa (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

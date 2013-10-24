@@ -1,5 +1,4 @@
-Laboulbenia microveliae R.K. Benj. SPECIES
-=======
+# Laboulbenia microveliae R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

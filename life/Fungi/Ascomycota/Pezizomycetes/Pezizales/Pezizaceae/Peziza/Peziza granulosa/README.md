@@ -1,14 +1,13 @@
-Aleuria granulosa (Schumach.) Gillet, 1881 SPECIES
-=======
+# Peziza granulosa Schumach., 1803 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 415 (1803)
 
 #### Original name
 Peziza granulosa Schumach., 1803

@@ -1,5 +1,4 @@
-Scolecoccoidea costaricensis F. Stevens, 1927 SPECIES
-=======
+# Scolecoccoidea costaricensis F. Stevens, 1927 SPECIES
 
 #### Status
 ACCEPTED

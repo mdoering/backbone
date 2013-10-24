@@ -1,5 +1,4 @@
-Puccinia mandshurica Miura SPECIES
-=======
+# Puccinia mandshurica Miura SPECIES
 
 #### Status
 ACCEPTED

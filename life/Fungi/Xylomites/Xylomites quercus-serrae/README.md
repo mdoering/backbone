@@ -1,5 +1,4 @@
-Xylomites quercus-serrae Ettingsh. SPECIES
-=======
+# Xylomites quercus-serrae Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

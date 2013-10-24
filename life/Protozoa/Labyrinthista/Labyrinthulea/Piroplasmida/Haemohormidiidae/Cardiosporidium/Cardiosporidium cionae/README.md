@@ -1,5 +1,4 @@
-Cardiosporidium cionae SPECIES
-=======
+# Cardiosporidium cionae SPECIES
 
 #### Status
 ACCEPTED

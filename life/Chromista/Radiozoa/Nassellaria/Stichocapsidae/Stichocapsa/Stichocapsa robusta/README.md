@@ -1,5 +1,4 @@
-Stichocapsa robusta SPECIES
-=======
+# Stichocapsa robusta SPECIES
 
 #### Status
 ACCEPTED

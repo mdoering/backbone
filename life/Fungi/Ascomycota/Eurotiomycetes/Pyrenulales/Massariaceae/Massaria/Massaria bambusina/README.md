@@ -1,5 +1,4 @@
-Massaria bambusina Teng SPECIES
-=======
+# Massaria bambusina Teng SPECIES
 
 #### Status
 ACCEPTED

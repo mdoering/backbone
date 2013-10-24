@@ -1,5 +1,4 @@
-Navicella insculpta (Rehm) Kuntze SPECIES
-=======
+# Navicella insculpta (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

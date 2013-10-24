@@ -1,5 +1,4 @@
-Agaricus pallor Batsch SPECIES
-=======
+# Agaricus pallor Batsch SPECIES
 
 #### Status
 ACCEPTED

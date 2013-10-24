@@ -1,5 +1,4 @@
-Phyllosticta dimocarpi Q. Wang & C.Y. Lai SPECIES
-=======
+# Phyllosticta dimocarpi Q. Wang & C.Y. Lai SPECIES
 
 #### Status
 ACCEPTED

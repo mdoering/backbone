@@ -1,5 +1,4 @@
-Venturia nivalis (F. Strauss) Berl. & Voglino SPECIES
-=======
+# Venturia nivalis (F. Strauss) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

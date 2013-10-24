@@ -1,8 +1,7 @@
-Uredo kyllingiae-brevifoliae Dietel SPECIES
-=======
+# Uredo kyllingae-brevifoliae Dietel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo kyllingiae-brevifoliae Dietel
+Uredo kyllingae-brevifoliae Dietel
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clavulinopsis aurantiobrunnea K.S. Thind & Sharda, 1984 SPECIES
-=======
+# Clavulinopsis aurantiobrunnea K.S. Thind & Sharda, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pucciniastrum celastri Syd. & P. Syd. SPECIES
-=======
+# Pucciniastrum celastri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

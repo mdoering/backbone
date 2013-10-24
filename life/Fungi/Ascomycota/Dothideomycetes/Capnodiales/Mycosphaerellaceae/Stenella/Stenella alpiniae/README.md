@@ -1,5 +1,4 @@
-Stenella alpiniae (Syd. & P. Syd.) U. Braun SPECIES
-=======
+# Stenella alpiniae (Syd. & P. Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

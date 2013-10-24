@@ -1,5 +1,4 @@
-Lecanora isabellina H. Magn. SPECIES
-=======
+# Lecanora isabellina H. Magn. SPECIES
 
 #### Status
 ACCEPTED

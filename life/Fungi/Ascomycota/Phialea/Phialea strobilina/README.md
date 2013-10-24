@@ -1,17 +1,16 @@
-Phialea strobilina var. strobilina VARIETY
-=======
+# Phialea strobilina (Fr.) Gillet, 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Champignons de France, Discom. (1881)
 
 #### Original name
-Phialea strobilina var. strobilina
+Peziza strobilina Pers.
 
 ### Remarks
 null

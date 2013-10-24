@@ -1,5 +1,4 @@
-Metasphaeria apiculata (Wallr.) Sacc. SPECIES
-=======
+# Metasphaeria apiculata (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

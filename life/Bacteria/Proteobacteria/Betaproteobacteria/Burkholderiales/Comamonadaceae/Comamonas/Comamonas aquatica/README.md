@@ -1,8 +1,7 @@
-Aquaspirillum aquaticum Hylemon et al., 1973 (Approved Lists, 1980) SPECIES
-=======
+# Comamonas aquatica (Hylemon et al., 1973) Wauters et al., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

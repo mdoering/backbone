@@ -1,5 +1,4 @@
-Crinipellis chrysochaetes (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Crinipellis chrysochaetes (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

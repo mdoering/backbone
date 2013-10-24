@@ -1,5 +1,4 @@
-Fusicoccum tanaense Moesz SPECIES
-=======
+# Fusicoccum tanaense Moesz SPECIES
 
 #### Status
 ACCEPTED

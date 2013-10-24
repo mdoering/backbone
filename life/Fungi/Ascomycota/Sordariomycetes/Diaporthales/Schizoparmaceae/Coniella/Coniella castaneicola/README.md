@@ -1,17 +1,16 @@
-Coniella simba (Subram. & K. Ramakr.) B. Sutton, 1969 SPECIES
-=======
+# Coniella castaneicola (Ellis & Everh.) B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 47: 607 (1969)
+The Coelomycetes (Kew) 420 (1980)
 
 #### Original name
-Anthasthoopa simba Subram. & K. Ramakr., 1956
+Gloeosporium castaneicola Ellis & Everh., 1895
 
 ### Remarks
 null

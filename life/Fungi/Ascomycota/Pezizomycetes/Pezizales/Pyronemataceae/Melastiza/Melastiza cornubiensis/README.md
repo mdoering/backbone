@@ -1,14 +1,13 @@
-Lachnea cornubiensis (Berk. & Broome) W. Phillips, 1887 SPECIES
-=======
+# Melastiza cornubiensis (Berk. & Broome) J. Moravec, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 229 (1887)
+Mycotaxon 44(1): 68 (1992)
 
 #### Original name
 Peziza cornubiensis Berk. & Broome, 1854

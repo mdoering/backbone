@@ -1,5 +1,4 @@
-Russula brunneomarginata Cern. & H. Raab SPECIES
-=======
+# Russula brunneomarginata Cern. & H. Raab SPECIES
 
 #### Status
 ACCEPTED

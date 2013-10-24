@@ -1,5 +1,4 @@
-Sphaerulina codicola Dawson, 1949 SPECIES
-=======
+# Sphaerulina codicola Dawson, 1949 SPECIES
 
 #### Status
 ACCEPTED

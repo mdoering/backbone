@@ -1,5 +1,4 @@
-Phaeosphaerella oryzae Hara SPECIES
-=======
+# Phaeosphaerella oryzae Hara SPECIES
 
 #### Status
 ACCEPTED

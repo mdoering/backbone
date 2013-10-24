@@ -1,5 +1,4 @@
-Psoroglaena costaricensis A. Henssen SPECIES
-=======
+# Psoroglaena costaricensis A. Henssen SPECIES
 
 #### Status
 ACCEPTED

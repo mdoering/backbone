@@ -1,5 +1,4 @@
-Eremotheca swartziae Bat. & Gayão SPECIES
-=======
+# Eremotheca swartziae Bat. & Gayão SPECIES
 
 #### Status
 ACCEPTED

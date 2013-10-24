@@ -1,5 +1,4 @@
-Lobophora minima V. Krishnamurthy & M. Baluswami SPECIES
-=======
+# Lobophora minima V. Krishnamurthy & M. Baluswami SPECIES
 
 #### Status
 ACCEPTED

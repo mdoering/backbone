@@ -1,5 +1,4 @@
-Streptothrix tarozzii Miescher SPECIES
-=======
+# Streptothrix tarozzii Miescher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa deformis (Fr.) Cooke SPECIES
-=======
+# Valsa deformis (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

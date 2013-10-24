@@ -1,5 +1,4 @@
-Coriolus pictilis (Berk.) Singer SPECIES
-=======
+# Coriolus pictilis (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

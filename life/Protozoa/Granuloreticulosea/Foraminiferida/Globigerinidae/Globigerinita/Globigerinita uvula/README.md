@@ -1,5 +1,4 @@
-Globigerinita uvula (Ehrenberg, 1861) SPECIES
-=======
+# Globigerinita uvula (Ehrenberg, 1861) SPECIES
 
 #### Status
 ACCEPTED

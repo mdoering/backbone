@@ -1,5 +1,4 @@
-Dichlaena indica A.B. Pawar, M.S. Patil & Hosag. SPECIES
-=======
+# Dichlaena indica A.B. Pawar, M.S. Patil & Hosag. SPECIES
 
 #### Status
 ACCEPTED

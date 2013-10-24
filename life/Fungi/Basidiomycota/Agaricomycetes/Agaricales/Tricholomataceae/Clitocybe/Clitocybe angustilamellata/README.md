@@ -1,5 +1,4 @@
-Clitocybe angustilamellata Mont. SPECIES
-=======
+# Clitocybe angustilamellata Mont. SPECIES
 
 #### Status
 ACCEPTED

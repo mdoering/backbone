@@ -1,5 +1,4 @@
-Neolinocarpon penniseti Bhilab. & K.D. Hyde, 2006 SPECIES
-=======
+# Neolinocarpon penniseti Bhilab. & K.D. Hyde, 2006 SPECIES
 
 #### Status
 ACCEPTED

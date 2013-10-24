@@ -1,5 +1,4 @@
-Scolecobasidium mycoleptodisci M.B. Ellis SPECIES
-=======
+# Scolecobasidium mycoleptodisci M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

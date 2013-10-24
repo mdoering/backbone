@@ -1,5 +1,4 @@
-Entyloma scalianum Cif. SPECIES
-=======
+# Entyloma scalianum Cif. SPECIES
 
 #### Status
 ACCEPTED

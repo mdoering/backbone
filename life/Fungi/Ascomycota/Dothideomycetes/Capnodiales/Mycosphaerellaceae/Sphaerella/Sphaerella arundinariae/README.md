@@ -1,5 +1,4 @@
-Sphaerella arundinariae G.F. Atk. SPECIES
-=======
+# Sphaerella arundinariae G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

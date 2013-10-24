@@ -1,5 +1,4 @@
-Cantharellus ramosus Schulzer & Kalchbr. SPECIES
-=======
+# Cantharellus ramosus Schulzer & Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

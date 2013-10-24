@@ -1,5 +1,4 @@
-Dictyota crux f. parva A. Bachmann FORM
-=======
+# Dictyota crux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chernousovella Hutton, 1967 GENUS
-=======
+# Chernousovella Hutton, 1967 GENUS
 
 #### Status
 ACCEPTED

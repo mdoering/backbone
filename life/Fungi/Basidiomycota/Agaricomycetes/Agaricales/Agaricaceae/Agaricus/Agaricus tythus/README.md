@@ -1,5 +1,4 @@
-Agaricus tythus Berk. & Broome SPECIES
-=======
+# Agaricus tythus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

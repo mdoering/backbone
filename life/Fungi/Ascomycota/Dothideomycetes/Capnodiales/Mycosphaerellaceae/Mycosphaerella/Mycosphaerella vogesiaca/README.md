@@ -1,5 +1,4 @@
-Mycosphaerella vogesiaca (Syd. & P. Syd.) Tomilin SPECIES
-=======
+# Mycosphaerella vogesiaca (Syd. & P. Syd.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

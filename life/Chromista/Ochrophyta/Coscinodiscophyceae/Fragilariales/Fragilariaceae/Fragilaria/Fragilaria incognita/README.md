@@ -1,5 +1,4 @@
-Fragilaria incognita Reichardt SPECIES
-=======
+# Fragilaria incognita Reichardt SPECIES
 
 #### Status
 ACCEPTED

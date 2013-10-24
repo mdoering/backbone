@@ -1,5 +1,4 @@
-Phyllopsora pertexta (Nyl.) Swinscow & Krog SPECIES
-=======
+# Phyllopsora pertexta (Nyl.) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hyphoderma tsugae (Burt) J. Erikss. & Å. Strid, 1975 SPECIES
-=======
+# Peniophorella tsugae (Burt) K.H. Larss., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Eriksson & Ryvarden, Cortic. N. Eur. (Oslo), <b>3</b> Coronicium-Hyphoderma 3: 541 (1975)
+Mycol. Res. 111(2): 192 (2007)
 
 #### Original name
 null

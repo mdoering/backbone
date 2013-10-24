@@ -1,5 +1,4 @@
-Caloplaca geogena (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca geogena (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

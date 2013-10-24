@@ -1,5 +1,4 @@
-Pseudopolymorphina elongata Yassini & Jones, 1995 SPECIES
-=======
+# Pseudopolymorphina elongata Yassini & Jones, 1995 SPECIES
 
 #### Status
 ACCEPTED

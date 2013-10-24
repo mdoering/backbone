@@ -1,5 +1,4 @@
-Discozoon Vuxanovici, 1960 GENUS
-=======
+# Discozoon Vuxanovici, 1960 GENUS
 
 #### Status
 ACCEPTED

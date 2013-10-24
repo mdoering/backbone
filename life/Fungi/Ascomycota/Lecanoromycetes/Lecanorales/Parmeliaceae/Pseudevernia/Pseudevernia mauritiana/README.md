@@ -1,5 +1,4 @@
-Pseudevernia mauritiana (Gyeln.) C.W. Dodge SPECIES
-=======
+# Pseudevernia mauritiana (Gyeln.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

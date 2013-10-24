@@ -1,5 +1,4 @@
-Verrucaria antillarum B. de Lesd. SPECIES
-=======
+# Verrucaria antillarum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

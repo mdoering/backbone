@@ -1,5 +1,4 @@
-Gonatobotrytites primigenius (Casp.) Pia SPECIES
-=======
+# Gonatobotrytites primigenius (Casp.) Pia SPECIES
 
 #### Status
 ACCEPTED

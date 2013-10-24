@@ -1,5 +1,4 @@
-Thelephora pilosiuscula Mont. SPECIES
-=======
+# Thelephora pilosiuscula Mont. SPECIES
 
 #### Status
 ACCEPTED

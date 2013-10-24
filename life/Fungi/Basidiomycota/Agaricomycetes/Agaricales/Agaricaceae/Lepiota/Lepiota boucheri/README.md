@@ -1,5 +1,4 @@
-Lepiota boucheri Ramain SPECIES
-=======
+# Lepiota boucheri Ramain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium capparoniae Petr. & Cif. SPECIES
-=======
+# Helminthosporium capparoniae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

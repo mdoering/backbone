@@ -1,5 +1,4 @@
-Macrolepiota mallea (Berk.) Manjula SPECIES
-=======
+# Macrolepiota mallea (Berk.) Manjula SPECIES
 
 #### Status
 ACCEPTED

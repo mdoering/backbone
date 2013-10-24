@@ -1,5 +1,4 @@
-Omphalia incana Quél. SPECIES
-=======
+# Omphalia incana Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anabaena fullebornii Schmidle SPECIES
-=======
+# Anabaena fullebornii Schmidle SPECIES
 
 #### Status
 ACCEPTED

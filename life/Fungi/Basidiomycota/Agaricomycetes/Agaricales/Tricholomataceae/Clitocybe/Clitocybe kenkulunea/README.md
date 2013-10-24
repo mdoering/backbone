@@ -1,5 +1,4 @@
-Clitocybe kenkulunea Grgur. SPECIES
-=======
+# Clitocybe kenkulunea Grgur. SPECIES
 
 #### Status
 ACCEPTED

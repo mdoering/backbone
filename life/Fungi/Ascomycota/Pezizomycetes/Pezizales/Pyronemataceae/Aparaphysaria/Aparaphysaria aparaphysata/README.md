@@ -1,14 +1,13 @@
-Geopyxis aparaphysata Speg., 1898 SPECIES
-=======
+# Aparaphysaria aparaphysata (Speg.) Korf, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 2 6: 302 (1899)
+Phytologia 21(4): 202 (1971)
 
 #### Original name
 Geopyxis aparaphysata Speg., 1898

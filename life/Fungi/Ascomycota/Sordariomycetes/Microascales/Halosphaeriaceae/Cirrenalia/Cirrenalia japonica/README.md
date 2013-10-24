@@ -1,5 +1,4 @@
-Cirrenalia japonica Sugiy. SPECIES
-=======
+# Cirrenalia japonica Sugiy. SPECIES
 
 #### Status
 ACCEPTED

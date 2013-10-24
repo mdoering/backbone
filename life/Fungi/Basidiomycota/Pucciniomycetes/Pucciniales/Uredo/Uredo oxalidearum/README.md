@@ -1,5 +1,4 @@
-Uredo oxalidearum Cooke SPECIES
-=======
+# Uredo oxalidearum Cooke SPECIES
 
 #### Status
 ACCEPTED

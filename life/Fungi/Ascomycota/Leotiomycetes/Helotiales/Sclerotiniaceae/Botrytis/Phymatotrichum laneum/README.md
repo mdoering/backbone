@@ -1,5 +1,4 @@
-Phymatotrichum laneum Bonord. SPECIES
-=======
+# Phymatotrichum laneum Bonord. SPECIES
 
 #### Status
 ACCEPTED

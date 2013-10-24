@@ -1,5 +1,4 @@
-Octospora umbrina (E.K. Cash) S. Ahmad SPECIES
-=======
+# Octospora umbrina (E.K. Cash) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

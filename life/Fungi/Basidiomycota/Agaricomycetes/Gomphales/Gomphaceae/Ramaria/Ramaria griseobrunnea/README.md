@@ -1,5 +1,4 @@
-Ramaria griseobrunnea Singer, 1983 SPECIES
-=======
+# Ramaria griseobrunnea Singer, 1983 SPECIES
 
 #### Status
 ACCEPTED

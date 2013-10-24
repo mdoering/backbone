@@ -1,5 +1,4 @@
-Septagathammina Lin, 1984 GENUS
-=======
+# Septagathammina Lin, 1984 GENUS
 
 #### Status
 ACCEPTED

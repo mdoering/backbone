@@ -1,5 +1,4 @@
-Australoporus P.K. Buchanan & Ryvarden GENUS
-=======
+# Australoporus P.K. Buchanan & Ryvarden GENUS
 
 #### Status
 ACCEPTED

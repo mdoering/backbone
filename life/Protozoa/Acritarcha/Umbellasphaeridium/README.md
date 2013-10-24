@@ -1,5 +1,4 @@
-Umbellasphaeridium S.M.Jardine et al. GENUS
-=======
+# Umbellasphaeridium S.M.Jardine et al. GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Agaricus flavidorufus Berk. & Broome, 1871 SPECIES
-=======
+# Xanthagaricus flavidorufus (Berk. & Broome) Little Flower, Hosag. & T.K. Abraham, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 11(no. 56): 504 (1871)
+New Botanist 24: 94 (1997)
 
 #### Original name
 Agaricus flavidorufus Berk. & Broome, 1871

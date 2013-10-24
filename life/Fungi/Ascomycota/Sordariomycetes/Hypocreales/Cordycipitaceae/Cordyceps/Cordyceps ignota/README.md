@@ -1,5 +1,4 @@
-Cordyceps ignota Marchion. SPECIES
-=======
+# Cordyceps ignota Marchion. SPECIES
 
 #### Status
 ACCEPTED

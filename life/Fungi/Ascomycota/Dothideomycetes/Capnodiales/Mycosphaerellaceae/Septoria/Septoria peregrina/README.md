@@ -1,5 +1,4 @@
-Septoria peregrina Sacc. SPECIES
-=======
+# Septoria peregrina Sacc. SPECIES
 
 #### Status
 ACCEPTED

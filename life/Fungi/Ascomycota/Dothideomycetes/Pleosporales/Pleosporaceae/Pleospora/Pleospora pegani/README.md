@@ -1,5 +1,4 @@
-Pleospora pegani Bubák SPECIES
-=======
+# Pleospora pegani Bubák SPECIES
 
 #### Status
 ACCEPTED

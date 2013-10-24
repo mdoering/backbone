@@ -1,5 +1,4 @@
-Carnobacterium funditum Franzmann et al., 1993 SPECIES
-=======
+# Carnobacterium funditum Franzmann et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

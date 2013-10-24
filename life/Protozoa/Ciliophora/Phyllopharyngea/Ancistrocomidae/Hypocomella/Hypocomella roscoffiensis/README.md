@@ -1,5 +1,4 @@
-Hypocomella roscoffiensis Chatton & Lwoff, 1950 SPECIES
-=======
+# Hypocomella roscoffiensis Chatton & Lwoff, 1950 SPECIES
 
 #### Status
 ACCEPTED

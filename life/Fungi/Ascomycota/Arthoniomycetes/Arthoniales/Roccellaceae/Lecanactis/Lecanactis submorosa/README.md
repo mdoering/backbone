@@ -1,5 +1,4 @@
-Lecanactis submorosa Zahlbr. SPECIES
-=======
+# Lecanactis submorosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

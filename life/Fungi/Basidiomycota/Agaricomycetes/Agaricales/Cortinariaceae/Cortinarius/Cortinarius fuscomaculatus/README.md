@@ -1,5 +1,4 @@
-Cortinarius fuscomaculatus f. fuscomaculatus FORM
-=======
+# Cortinarius fuscomaculatus Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius fuscomaculatus f. fuscomaculatus
+Cortinarius fuscomaculatus Jul. Schäff.
 
 ### Remarks
 null

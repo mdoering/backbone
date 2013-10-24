@@ -1,5 +1,4 @@
-Trochamminita salsa SPECIES
-=======
+# Trochamminita salsa SPECIES
 
 #### Status
 ACCEPTED

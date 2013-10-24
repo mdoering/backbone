@@ -1,5 +1,4 @@
-Reticulotubulus Takemura, 1986 GENUS
-=======
+# Reticulotubulus Takemura, 1986 GENUS
 
 #### Status
 ACCEPTED

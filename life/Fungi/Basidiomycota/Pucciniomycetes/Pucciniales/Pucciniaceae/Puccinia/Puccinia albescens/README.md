@@ -1,17 +1,16 @@
-Aecidium adoxae Grev., 1824 SPECIES
-=======
+# Puccinia albescens Grev., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Edin. 444 (1824)
+Monograph Brit. Ured. 153 (1889)
 
 #### Original name
-Aecidium adoxae Grev., 1824
+Puccinia albescens Grev., 1889
 
 ### Remarks
 null

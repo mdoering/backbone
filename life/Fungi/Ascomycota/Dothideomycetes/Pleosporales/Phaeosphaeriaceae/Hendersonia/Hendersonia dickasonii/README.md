@@ -1,5 +1,4 @@
-Hendersonia dickasonii Wehm. SPECIES
-=======
+# Hendersonia dickasonii Wehm. SPECIES
 
 #### Status
 ACCEPTED

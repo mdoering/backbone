@@ -1,5 +1,4 @@
-Mycena minima Dennis SPECIES
-=======
+# Mycena minima Dennis SPECIES
 
 #### Status
 ACCEPTED

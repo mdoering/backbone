@@ -1,5 +1,4 @@
-Microspora Velenovský, 1934 GENUS
-=======
+# Microspora Velenovský, 1934 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora paederiae Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora paederiae Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanopsamma salicaria subsp. salicaria SUBSPECIES
-=======
+# Melanopsamma salicaria (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanopsamma salicaria subsp. salicaria
+Sphaeria salicaria P. Karst.
 
 ### Remarks
 null

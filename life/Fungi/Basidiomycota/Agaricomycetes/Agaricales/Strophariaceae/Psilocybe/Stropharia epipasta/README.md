@@ -1,5 +1,4 @@
-Stropharia epipasta Berk. & Broome SPECIES
-=======
+# Stropharia epipasta Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

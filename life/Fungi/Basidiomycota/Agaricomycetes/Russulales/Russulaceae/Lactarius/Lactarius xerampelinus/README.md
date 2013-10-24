@@ -1,5 +1,4 @@
-Lactarius xerampelinus Karhula & Verbeken SPECIES
-=======
+# Lactarius xerampelinus Karhula & Verbeken SPECIES
 
 #### Status
 ACCEPTED

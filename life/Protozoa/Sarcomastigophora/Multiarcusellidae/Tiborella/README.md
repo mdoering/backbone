@@ -1,5 +1,4 @@
-Tiborella Dumitrica, Kozur & Mostler, 1980 GENUS
-=======
+# Tiborella Dumitrica, Kozur & Mostler, 1980 GENUS
 
 #### Status
 ACCEPTED

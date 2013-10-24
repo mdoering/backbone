@@ -1,5 +1,4 @@
-Entophysalis samoensis Wille SPECIES
-=======
+# Entophysalis samoensis Wille SPECIES
 
 #### Status
 ACCEPTED

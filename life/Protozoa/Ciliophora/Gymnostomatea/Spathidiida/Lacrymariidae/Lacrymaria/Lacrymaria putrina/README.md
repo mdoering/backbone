@@ -1,5 +1,4 @@
-Lacrymaria putrina Kahl, 1926 SPECIES
-=======
+# Lacrymaria putrina Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

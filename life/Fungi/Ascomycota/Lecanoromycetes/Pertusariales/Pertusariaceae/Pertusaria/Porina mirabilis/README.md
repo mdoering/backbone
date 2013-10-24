@@ -1,5 +1,4 @@
-Porina mirabilis Lücking & Vezda, 1998 SPECIES
-=======
+# Porina mirabilis Lücking & Vezda, 1998 SPECIES
 
 #### Status
 DOUBTFUL

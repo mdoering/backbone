@@ -1,5 +1,4 @@
-Hypocrella prasina Bat., J.L. Bezerra & C.R. Almeida SPECIES
-=======
+# Hypocrella prasina Bat., J.L. Bezerra & C.R. Almeida SPECIES
 
 #### Status
 ACCEPTED

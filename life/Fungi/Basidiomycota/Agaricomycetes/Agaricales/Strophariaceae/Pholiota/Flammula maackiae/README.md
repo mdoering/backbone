@@ -1,5 +1,4 @@
-Flammula maackiae Singer SPECIES
-=======
+# Flammula maackiae Singer SPECIES
 
 #### Status
 ACCEPTED

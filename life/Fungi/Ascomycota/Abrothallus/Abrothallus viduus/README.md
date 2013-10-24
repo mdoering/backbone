@@ -1,5 +1,4 @@
-Abrothallus viduus Körb. SPECIES
-=======
+# Abrothallus viduus Körb. SPECIES
 
 #### Status
 ACCEPTED

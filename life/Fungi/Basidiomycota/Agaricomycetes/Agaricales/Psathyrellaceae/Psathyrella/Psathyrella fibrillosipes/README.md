@@ -1,5 +1,4 @@
-Psathyrella fibrillosipes A.H. Sm. SPECIES
-=======
+# Psathyrella fibrillosipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizobodo E.Chatton GENUS
-=======
+# Schizobodo E.Chatton GENUS
 
 #### Status
 ACCEPTED

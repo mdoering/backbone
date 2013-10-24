@@ -1,5 +1,4 @@
-Strobilidium lacustris Foissner, Skogstad & Pratt, 1988 SPECIES
-=======
+# Strobilidium lacustris Foissner, Skogstad & Pratt, 1988 SPECIES
 
 #### Status
 ACCEPTED

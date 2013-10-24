@@ -1,5 +1,4 @@
-Pyrenula obtusior (Nyl.) Zahlbr. SPECIES
-=======
+# Pyrenula obtusior (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

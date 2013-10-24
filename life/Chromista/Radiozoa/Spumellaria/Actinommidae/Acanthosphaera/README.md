@@ -1,5 +1,4 @@
-Acanthosphaera Ehrenberg, 1858 GENUS
-=======
+# Acanthosphaera Ehrenberg, 1858 GENUS
 
 #### Status
 ACCEPTED

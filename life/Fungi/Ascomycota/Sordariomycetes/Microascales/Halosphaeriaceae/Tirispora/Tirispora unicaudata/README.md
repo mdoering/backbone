@@ -1,5 +1,4 @@
-Tirispora unicaudata E.B.G. Jones & Vrijmoed, 1994 SPECIES
-=======
+# Tirispora unicaudata E.B.G. Jones & Vrijmoed, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Seiridium abietinum (Ellis & Everh.) B. Sutton SPECIES
-=======
+# Seiridium abietinum (Ellis & Everh.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

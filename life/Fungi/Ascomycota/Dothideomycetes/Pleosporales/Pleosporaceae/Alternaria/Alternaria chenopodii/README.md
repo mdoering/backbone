@@ -1,5 +1,4 @@
-Alternaria chenopodii Raabe SPECIES
-=======
+# Alternaria chenopodii Raabe SPECIES
 
 #### Status
 ACCEPTED

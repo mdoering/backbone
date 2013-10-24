@@ -1,5 +1,4 @@
-Spadicoides bicolores R.F. Castañeda SPECIES
-=======
+# Spadicoides bicolores R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

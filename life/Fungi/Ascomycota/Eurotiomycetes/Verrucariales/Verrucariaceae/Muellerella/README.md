@@ -1,17 +1,16 @@
-Muellerellomyces Cif. & Tomas. GENUS
-=======
+# Muellerella Hepp, 1862 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 33, 60 (1953)
+in Müller Argoviensis, Mém. Soc. Phys. Hist. nat. Genève 16(2): 419 (1862)
 
 #### Original name
-Muellerellomyces Cif. & Tomas.
+Muellerella Hepp, 1862
 
 ### Remarks
 null

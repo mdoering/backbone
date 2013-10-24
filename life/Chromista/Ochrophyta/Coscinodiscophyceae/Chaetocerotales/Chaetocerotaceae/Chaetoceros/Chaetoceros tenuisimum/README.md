@@ -1,5 +1,4 @@
-Chaetoceros tenuisimum Meunier SPECIES
-=======
+# Chaetoceros tenuisimum Meunier SPECIES
 
 #### Status
 ACCEPTED

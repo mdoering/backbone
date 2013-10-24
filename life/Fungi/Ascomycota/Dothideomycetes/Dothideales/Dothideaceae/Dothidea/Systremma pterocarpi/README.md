@@ -1,5 +1,4 @@
-Systremma pterocarpi Doidge SPECIES
-=======
+# Systremma pterocarpi Doidge SPECIES
 
 #### Status
 ACCEPTED

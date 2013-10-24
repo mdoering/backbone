@@ -1,5 +1,4 @@
-Amazoniella straussiae Bat. & H. Maia SPECIES
-=======
+# Amazoniella straussiae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

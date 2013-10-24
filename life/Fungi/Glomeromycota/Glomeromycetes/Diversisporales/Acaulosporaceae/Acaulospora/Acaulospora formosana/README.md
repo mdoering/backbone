@@ -1,5 +1,4 @@
-Acaulospora formosana Hu SPECIES
-=======
+# Acaulospora formosana Hu SPECIES
 
 #### Status
 ACCEPTED

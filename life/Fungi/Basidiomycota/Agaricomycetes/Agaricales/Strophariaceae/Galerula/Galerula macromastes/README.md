@@ -1,5 +1,4 @@
-Galerula macromastes (Fr.) Murrill SPECIES
-=======
+# Galerula macromastes (Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

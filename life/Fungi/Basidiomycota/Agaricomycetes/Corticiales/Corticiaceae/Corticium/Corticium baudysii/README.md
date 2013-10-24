@@ -1,5 +1,4 @@
-Corticium baudysii Pilát SPECIES
-=======
+# Corticium baudysii Pilát SPECIES
 
 #### Status
 ACCEPTED

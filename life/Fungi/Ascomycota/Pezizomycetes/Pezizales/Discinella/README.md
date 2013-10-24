@@ -1,5 +1,4 @@
-Discinella P. Karsten, 1891 GENUS
-=======
+# Discinella P. Karsten, 1891 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium thapsiae-garganicae Casu SPECIES
-=======
+# Aecidium thapsiae-garganicae Casu SPECIES
 
 #### Status
 ACCEPTED

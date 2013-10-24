@@ -1,5 +1,4 @@
-Pseudolyophyllum amarum-acidum (Raithelh.) Raithelh. SPECIES
-=======
+# Pseudolyophyllum amarum-acidum (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

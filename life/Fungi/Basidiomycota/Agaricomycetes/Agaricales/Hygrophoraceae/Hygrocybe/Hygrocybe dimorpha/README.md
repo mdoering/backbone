@@ -1,5 +1,4 @@
-Hygrocybe dimorpha (Berk. & Broome) Pegler SPECIES
-=======
+# Hygrocybe dimorpha (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

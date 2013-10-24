@@ -1,5 +1,4 @@
-Indosporus Overstreet & Weidner, 1974 GENUS
-=======
+# Indosporus Overstreet & Weidner, 1974 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius periscelis Fr. SPECIES
-=======
+# Cortinarius periscelis Fr. SPECIES
 
 #### Status
 ACCEPTED

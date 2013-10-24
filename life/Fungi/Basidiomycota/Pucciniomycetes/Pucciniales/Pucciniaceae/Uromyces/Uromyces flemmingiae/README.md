@@ -1,5 +1,4 @@
-Uromyces flemmingiae Henn. SPECIES
-=======
+# Uromyces flemmingiae Henn. SPECIES
 
 #### Status
 ACCEPTED

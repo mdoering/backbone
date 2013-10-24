@@ -1,5 +1,4 @@
-Spondylocladiopsis M.B. Ellis GENUS
-=======
+# Spondylocladiopsis M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

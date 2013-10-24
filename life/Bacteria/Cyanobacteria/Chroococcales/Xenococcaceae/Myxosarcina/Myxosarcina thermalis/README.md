@@ -1,5 +1,4 @@
-Myxosarcina thermalis Thomas & Gonzalves SPECIES
-=======
+# Myxosarcina thermalis Thomas & Gonzalves SPECIES
 
 #### Status
 ACCEPTED

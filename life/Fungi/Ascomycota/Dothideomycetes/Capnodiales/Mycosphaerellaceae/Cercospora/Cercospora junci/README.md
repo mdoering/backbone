@@ -1,5 +1,4 @@
-Cercospora junci Davis SPECIES
-=======
+# Cercospora junci Davis SPECIES
 
 #### Status
 ACCEPTED

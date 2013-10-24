@@ -1,5 +1,4 @@
-Peniophora niphodes (Pat.) Sacc. & Trotter SPECIES
-=======
+# Peniophora niphodes (Pat.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

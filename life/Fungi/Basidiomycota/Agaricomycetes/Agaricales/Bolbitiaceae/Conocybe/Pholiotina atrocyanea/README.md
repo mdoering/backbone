@@ -1,5 +1,4 @@
-Pholiotina atrocyanea Esteve-Rav., Hauskn. & Rejos SPECIES
-=======
+# Pholiotina atrocyanea Esteve-Rav., Hauskn. & Rejos SPECIES
 
 #### Status
 ACCEPTED

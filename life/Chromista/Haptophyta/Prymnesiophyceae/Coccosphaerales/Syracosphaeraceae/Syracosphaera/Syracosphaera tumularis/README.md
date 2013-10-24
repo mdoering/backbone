@@ -1,5 +1,4 @@
-Syracosphaera tumularis Sanchez-Suarez, 1990. SPECIES
-=======
+# Syracosphaera tumularis Sanchez-Suarez, 1990. SPECIES
 
 #### Status
 ACCEPTED

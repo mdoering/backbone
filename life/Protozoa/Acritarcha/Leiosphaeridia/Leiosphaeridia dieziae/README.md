@@ -1,5 +1,4 @@
-Leiosphaeridia dieziae Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia dieziae Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

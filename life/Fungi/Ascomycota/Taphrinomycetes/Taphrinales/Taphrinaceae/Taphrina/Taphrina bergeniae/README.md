@@ -1,5 +1,4 @@
-Taphrina bergeniae Döbbeler SPECIES
-=======
+# Taphrina bergeniae Döbbeler SPECIES
 
 #### Status
 ACCEPTED

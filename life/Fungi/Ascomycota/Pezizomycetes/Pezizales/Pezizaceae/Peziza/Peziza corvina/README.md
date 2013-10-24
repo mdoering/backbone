@@ -1,5 +1,4 @@
-Peziza corvina Fr. SPECIES
-=======
+# Peziza corvina Fr. SPECIES
 
 #### Status
 ACCEPTED

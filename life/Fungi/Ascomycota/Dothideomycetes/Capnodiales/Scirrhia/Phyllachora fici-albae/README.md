@@ -1,5 +1,4 @@
-Phyllachora fici-albae Koord., 1907 SPECIES
-=======
+# Phyllachora fici-albae Koord., 1907 SPECIES
 
 #### Status
 DOUBTFUL

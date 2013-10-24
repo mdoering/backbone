@@ -1,5 +1,4 @@
-Septoria pacifica R. Sprague SPECIES
-=======
+# Septoria pacifica R. Sprague SPECIES
 
 #### Status
 ACCEPTED

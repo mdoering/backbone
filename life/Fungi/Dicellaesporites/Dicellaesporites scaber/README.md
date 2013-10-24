@@ -1,5 +1,4 @@
-Dicellaesporites scaber Mart.-Hern. & Tom.-Ort. SPECIES
-=======
+# Dicellaesporites scaber Mart.-Hern. & Tom.-Ort. SPECIES
 
 #### Status
 ACCEPTED

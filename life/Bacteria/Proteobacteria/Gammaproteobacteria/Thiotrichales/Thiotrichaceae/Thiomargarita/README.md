@@ -1,5 +1,4 @@
-Thiomargarita Schulz et al., 1999 GENUS
-=======
+# Thiomargarita Schulz et al., 1999 GENUS
 
 #### Status
 ACCEPTED

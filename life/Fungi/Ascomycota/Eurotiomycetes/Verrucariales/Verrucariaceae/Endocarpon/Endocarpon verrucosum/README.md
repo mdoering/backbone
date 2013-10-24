@@ -1,5 +1,4 @@
-Endocarpon verrucosum Wallr. SPECIES
-=======
+# Endocarpon verrucosum Wallr. SPECIES
 
 #### Status
 ACCEPTED

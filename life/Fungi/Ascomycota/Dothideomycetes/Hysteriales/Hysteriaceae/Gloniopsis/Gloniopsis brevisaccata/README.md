@@ -1,5 +1,4 @@
-Gloniopsis brevisaccata M.L. Lohman, 1933 SPECIES
-=======
+# Gloniopsis brevisaccata M.L. Lohman, 1933 SPECIES
 
 #### Status
 ACCEPTED

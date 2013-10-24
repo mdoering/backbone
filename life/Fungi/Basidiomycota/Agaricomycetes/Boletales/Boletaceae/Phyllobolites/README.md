@@ -1,5 +1,4 @@
-Phyllobolites Singer GENUS
-=======
+# Phyllobolites Singer GENUS
 
 #### Status
 ACCEPTED

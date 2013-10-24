@@ -1,5 +1,4 @@
-Parastentor Vuxanovici, 1961 GENUS
-=======
+# Parastentor Vuxanovici, 1961 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Paranectria minuta Hansf., 1941 SPECIES
-=======
+# Paranectriella minuta (Hansf.) Piroz., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. London 153: 30 (1941)
+Kew Bull. 31(3): 600 (1977)
 
 #### Original name
 Paranectria minuta Hansf., 1941

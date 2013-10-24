@@ -1,5 +1,4 @@
-Enterobacter ludwigii Hoffmann et al., 2005 SPECIES
-=======
+# Enterobacter ludwigii Hoffmann et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

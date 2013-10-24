@@ -1,5 +1,4 @@
-Pseudocercosporella shoreae A.N. Rai, B. Rai & Kamal SPECIES
-=======
+# Pseudocercosporella shoreae A.N. Rai, B. Rai & Kamal SPECIES
 
 #### Status
 ACCEPTED

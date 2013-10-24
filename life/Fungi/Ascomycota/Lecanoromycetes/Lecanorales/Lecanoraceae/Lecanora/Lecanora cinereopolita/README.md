@@ -1,5 +1,4 @@
-Lecanora cinereopolita f. cinereopolita FORM
-=======
+# Lecanora cinereopolita Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora cinereopolita f. cinereopolita
+Lecanora cinereopolita Zahlbr.
 
 ### Remarks
 null

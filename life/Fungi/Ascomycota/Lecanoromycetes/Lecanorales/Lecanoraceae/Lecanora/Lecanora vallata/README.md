@@ -1,5 +1,4 @@
-Lecanora vallata Stirt. SPECIES
-=======
+# Lecanora vallata Stirt. SPECIES
 
 #### Status
 ACCEPTED

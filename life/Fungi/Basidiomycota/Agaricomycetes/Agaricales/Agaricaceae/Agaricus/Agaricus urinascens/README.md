@@ -1,17 +1,16 @@
-Psalliota villatica var. villatica VARIETY
-=======
+# Agaricus urinascens (Jul. Schäff. & F.H. Møller) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. trident. 1: 54 (1884)
+null
 
 #### Original name
-Psalliota villatica var. villatica
+null
 
 ### Remarks
 null

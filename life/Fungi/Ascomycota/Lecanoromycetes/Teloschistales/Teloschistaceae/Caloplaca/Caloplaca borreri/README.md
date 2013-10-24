@@ -1,14 +1,13 @@
-Lepraria ochracea Turner & Borrer ex Sm. SPECIES
-=======
+# Caloplaca borreri J.R. Laundon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Engl. Bot. 34: tab. 2408 (1812)
+J. Linn. Soc. , Bot. 147(4): 490 (2005)
 
 #### Original name
 Lepraria ochracea Turner & Borrer ex Sm.

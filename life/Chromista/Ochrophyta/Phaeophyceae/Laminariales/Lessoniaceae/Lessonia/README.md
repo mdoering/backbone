@@ -1,5 +1,4 @@
-Lessonia Bory de Saint-Vincent, 1825 GENUS
-=======
+# Lessonia Bory de Saint-Vincent, 1825 GENUS
 
 #### Status
 ACCEPTED

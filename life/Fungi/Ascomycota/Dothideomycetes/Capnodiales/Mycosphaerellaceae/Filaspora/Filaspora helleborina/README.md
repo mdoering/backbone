@@ -1,5 +1,4 @@
-Filaspora helleborina (Sacc.) Kuntze SPECIES
-=======
+# Filaspora helleborina (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

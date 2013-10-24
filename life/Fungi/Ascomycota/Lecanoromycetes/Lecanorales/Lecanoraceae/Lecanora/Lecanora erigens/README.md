@@ -1,5 +1,4 @@
-Lecanora erigens Anders SPECIES
-=======
+# Lecanora erigens Anders SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lamprospora cailletii Benkert SPECIES
-=======
+# Lamprospora cailletii Benkert SPECIES
 
 #### Status
 ACCEPTED

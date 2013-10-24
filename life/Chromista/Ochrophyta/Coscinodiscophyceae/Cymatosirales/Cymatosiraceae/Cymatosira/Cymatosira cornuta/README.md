@@ -1,5 +1,4 @@
-Cymatosira cornuta H. J. Schrader & J. Fenner SPECIES
-=======
+# Cymatosira cornuta H. J. Schrader & J. Fenner SPECIES
 
 #### Status
 ACCEPTED

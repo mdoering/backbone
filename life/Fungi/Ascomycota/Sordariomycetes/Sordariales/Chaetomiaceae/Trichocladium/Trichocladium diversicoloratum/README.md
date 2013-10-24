@@ -1,5 +1,4 @@
-Trichocladium diversicoloratum Gamundí & Aramb. SPECIES
-=======
+# Trichocladium diversicoloratum Gamundí & Aramb. SPECIES
 
 #### Status
 ACCEPTED

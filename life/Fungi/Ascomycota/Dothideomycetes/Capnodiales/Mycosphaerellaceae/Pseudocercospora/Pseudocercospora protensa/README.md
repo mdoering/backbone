@@ -1,14 +1,13 @@
-Cercospora protensa Syd., 1930 SPECIES
-=======
+# Pseudocercospora protensa (Syd.) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 28(5-6): 446 (1930)
+Mycol. Pap. 140: 150 (1976)
 
 #### Original name
 Cercospora protensa Syd., 1930

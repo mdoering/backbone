@@ -1,5 +1,4 @@
-Hemimycena epichloe (Kühner) Singer SPECIES
-=======
+# Hemimycena epichloe (Kühner) Singer SPECIES
 
 #### Status
 ACCEPTED

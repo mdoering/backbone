@@ -1,5 +1,4 @@
-Collybia conigena var. conigena VARIETY
-=======
+# Collybia conigena (Pers.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Führ. Pilzk. (Zwickau) (1871)
 
 #### Original name
-Collybia conigena var. conigena
+Agaricus conigenus
 
 ### Remarks
 null

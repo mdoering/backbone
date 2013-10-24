@@ -1,5 +1,4 @@
-Marasmiellus minutalis Singer SPECIES
-=======
+# Marasmiellus minutalis Singer SPECIES
 
 #### Status
 ACCEPTED

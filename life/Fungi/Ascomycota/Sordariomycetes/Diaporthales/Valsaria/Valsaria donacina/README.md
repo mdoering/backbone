@@ -1,5 +1,4 @@
-Valsaria donacina (De Not.) De Not. SPECIES
-=======
+# Valsaria donacina (De Not.) De Not. SPECIES
 
 #### Status
 ACCEPTED

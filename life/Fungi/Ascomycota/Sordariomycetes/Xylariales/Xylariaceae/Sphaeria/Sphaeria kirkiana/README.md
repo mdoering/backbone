@@ -1,5 +1,4 @@
-Sphaeria kirkiana Linds. SPECIES
-=======
+# Sphaeria kirkiana Linds. SPECIES
 
 #### Status
 ACCEPTED

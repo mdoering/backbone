@@ -1,5 +1,4 @@
-Harpagomyces lomnickii Wilcz., 1911 SPECIES
-=======
+# Harpagomyces lomnickii Wilcz., 1911 SPECIES
 
 #### Status
 ACCEPTED

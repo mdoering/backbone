@@ -1,5 +1,4 @@
-Septoria corockeae Henn. SPECIES
-=======
+# Septoria corockeae Henn. SPECIES
 
 #### Status
 ACCEPTED

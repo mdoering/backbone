@@ -1,5 +1,4 @@
-Tetrandromyces brachidae Thaxt., 1912 SPECIES
-=======
+# Tetrandromyces brachidae Thaxt., 1912 SPECIES
 
 #### Status
 ACCEPTED

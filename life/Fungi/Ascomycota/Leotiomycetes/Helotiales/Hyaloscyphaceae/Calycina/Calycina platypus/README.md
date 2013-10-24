@@ -1,5 +1,4 @@
-Calycina platypus (Hazsl.) Kuntze SPECIES
-=======
+# Calycina platypus (Hazsl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

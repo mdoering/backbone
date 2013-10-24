@@ -1,5 +1,4 @@
-Stropharia tavastensis P. Karst. SPECIES
-=======
+# Stropharia tavastensis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

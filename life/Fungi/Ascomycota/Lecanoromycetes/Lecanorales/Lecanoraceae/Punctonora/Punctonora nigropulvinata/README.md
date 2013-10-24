@@ -1,5 +1,4 @@
-Punctonora nigropulvinata Aptroot SPECIES
-=======
+# Punctonora nigropulvinata Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe testaceofulva (Britzelm.) Sacc. SPECIES
-=======
+# Psilocybe testaceofulva (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

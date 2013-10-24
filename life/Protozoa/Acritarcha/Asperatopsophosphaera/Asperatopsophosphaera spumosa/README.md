@@ -1,5 +1,4 @@
-Asperatopsophosphaera spumosa L.A. Sergeeva, 1976 SPECIES
-=======
+# Asperatopsophosphaera spumosa L.A. Sergeeva, 1976 SPECIES
 
 #### Status
 ACCEPTED

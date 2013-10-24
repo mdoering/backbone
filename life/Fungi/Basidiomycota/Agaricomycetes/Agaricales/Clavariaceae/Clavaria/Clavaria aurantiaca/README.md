@@ -1,5 +1,4 @@
-Clavaria aurantiaca Fr. SPECIES
-=======
+# Clavaria aurantiaca Fr. SPECIES
 
 #### Status
 ACCEPTED

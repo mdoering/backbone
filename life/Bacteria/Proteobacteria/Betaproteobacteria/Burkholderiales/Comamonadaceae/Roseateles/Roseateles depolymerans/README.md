@@ -1,5 +1,4 @@
-Roseateles depolymerans Suyama et al., 1999 SPECIES
-=======
+# Roseateles depolymerans Suyama et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

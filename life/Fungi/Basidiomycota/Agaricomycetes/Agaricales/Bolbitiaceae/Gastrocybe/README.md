@@ -1,5 +1,4 @@
-Gastrocybe GENUS
-=======
+# Gastrocybe GENUS
 
 #### Status
 ACCEPTED

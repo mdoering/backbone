@@ -1,5 +1,4 @@
-Pleurostromella castaneae Petr. SPECIES
-=======
+# Pleurostromella castaneae Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmopeltheca caseariicola Bat. & C.A.A. Costa SPECIES
-=======
+# Phragmopeltheca caseariicola Bat. & C.A.A. Costa SPECIES
 
 #### Status
 ACCEPTED

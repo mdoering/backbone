@@ -1,8 +1,7 @@
-Protococcus crepidinum Thuret SPECIES
-=======
+# Gloeocapsopsis crepidinum (Thuret) Geitler ex Komàrek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

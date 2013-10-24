@@ -1,5 +1,4 @@
-Gymnodinium cucumis Schutt SPECIES
-=======
+# Gymnodinium cucumis Schutt SPECIES
 
 #### Status
 ACCEPTED

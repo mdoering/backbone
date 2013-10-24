@@ -1,5 +1,4 @@
-Pseudorhizina korshinskii Jacz., 1913 SPECIES
-=======
+# Pseudorhizina korshinskii Jacz., 1913 SPECIES
 
 #### Status
 ACCEPTED

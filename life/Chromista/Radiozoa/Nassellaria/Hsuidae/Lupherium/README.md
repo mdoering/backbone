@@ -1,5 +1,4 @@
-Lupherium Pessagno & Whalen, 1982 GENUS
-=======
+# Lupherium Pessagno & Whalen, 1982 GENUS
 
 #### Status
 ACCEPTED

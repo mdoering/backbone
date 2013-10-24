@@ -1,5 +1,4 @@
-Inocephalus murrayi (Berk. & M.A. Curtis) Rutter & Watling SPECIES
-=======
+# Inocephalus murrayi (Berk. & M.A. Curtis) Rutter & Watling SPECIES
 
 #### Status
 ACCEPTED

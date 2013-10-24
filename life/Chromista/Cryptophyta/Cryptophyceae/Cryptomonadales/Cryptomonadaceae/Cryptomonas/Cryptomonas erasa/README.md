@@ -1,5 +1,4 @@
-Cryptomonas erasa Ehrenberg SPECIES
-=======
+# Cryptomonas erasa Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

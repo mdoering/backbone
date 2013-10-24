@@ -1,5 +1,4 @@
-Hebelomatis subconcolor (Bruchet) Locq. SPECIES
-=======
+# Hebelomatis subconcolor (Bruchet) Locq. SPECIES
 
 #### Status
 ACCEPTED

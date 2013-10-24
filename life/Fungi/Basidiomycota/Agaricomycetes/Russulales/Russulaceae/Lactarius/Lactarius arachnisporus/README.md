@@ -1,5 +1,4 @@
-Lactarius arachnisporus R. Heim & Perr.-Bertr. SPECIES
-=======
+# Lactarius arachnisporus R. Heim & Perr.-Bertr. SPECIES
 
 #### Status
 ACCEPTED

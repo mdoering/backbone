@@ -1,17 +1,16 @@
-Dendrographium calycoptericola Patw. & A.K. Pande SPECIES
-=======
+# Dendrographium calycopteridicola Patw. & A.K. Pande SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 23(1-6): 98 (1970)
 
 #### Original name
-Dendrographium calycoptericola Patw. & A.K. Pande
+Dendrographium calycopteridicola Patw. & A.K. Pande
 
 ### Remarks
 null

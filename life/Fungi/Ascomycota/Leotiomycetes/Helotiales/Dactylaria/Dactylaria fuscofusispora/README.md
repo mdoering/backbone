@@ -1,5 +1,4 @@
-Dactylaria fuscofusispora Matsush. SPECIES
-=======
+# Dactylaria fuscofusispora Matsush. SPECIES
 
 #### Status
 ACCEPTED

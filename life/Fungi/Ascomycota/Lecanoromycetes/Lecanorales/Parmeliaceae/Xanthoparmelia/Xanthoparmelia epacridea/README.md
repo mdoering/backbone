@@ -1,17 +1,16 @@
-Parmelia epacridea Brusse SPECIES
-=======
+# Xanthoparmelia epacridea (Brusse) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 63: 342 (1997)
 
 #### Original name
-null
+Parmelia epacridea Brusse
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tintinnopsis cincta (Claparède & Lachmann, 1858) ?, ? SPECIES
-=======
+# Tintinnopsis cincta (Claparède & Lachmann, 1858) ?, ? SPECIES
 
 #### Status
 ACCEPTED

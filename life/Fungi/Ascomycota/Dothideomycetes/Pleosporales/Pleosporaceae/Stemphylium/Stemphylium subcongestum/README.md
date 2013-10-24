@@ -1,5 +1,4 @@
-Stemphylium subcongestum Yatel SPECIES
-=======
+# Stemphylium subcongestum Yatel SPECIES
 
 #### Status
 ACCEPTED

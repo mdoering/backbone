@@ -1,5 +1,4 @@
-Porocyphus arnoldii SPECIES
-=======
+# Porocyphus arnoldii SPECIES
 
 #### Status
 ACCEPTED

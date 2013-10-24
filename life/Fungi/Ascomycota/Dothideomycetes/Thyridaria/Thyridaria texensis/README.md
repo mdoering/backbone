@@ -1,5 +1,4 @@
-Thyridaria texensis (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Thyridaria texensis (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

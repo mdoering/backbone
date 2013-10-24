@@ -1,5 +1,4 @@
-Physisporus flavus P. Karst. SPECIES
-=======
+# Physisporus flavus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

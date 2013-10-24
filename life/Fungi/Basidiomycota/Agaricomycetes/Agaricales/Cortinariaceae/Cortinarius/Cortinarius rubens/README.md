@@ -1,5 +1,4 @@
-Cortinarius rubens Kauffman SPECIES
-=======
+# Cortinarius rubens Kauffman SPECIES
 
 #### Status
 ACCEPTED

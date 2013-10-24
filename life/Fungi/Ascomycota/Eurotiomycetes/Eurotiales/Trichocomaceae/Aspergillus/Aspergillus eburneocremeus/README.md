@@ -1,5 +1,4 @@
-Aspergillus eburneocremeus Sappa, 1954 SPECIES
-=======
+# Aspergillus eburneocremeus Sappa, 1954 SPECIES
 
 #### Status
 ACCEPTED

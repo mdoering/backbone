@@ -1,5 +1,4 @@
-Mycoderma pergameneum Pers. SPECIES
-=======
+# Mycoderma pergameneum Pers. SPECIES
 
 #### Status
 ACCEPTED

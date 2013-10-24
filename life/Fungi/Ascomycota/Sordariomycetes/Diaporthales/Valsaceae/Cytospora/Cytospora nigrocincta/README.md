@@ -1,5 +1,4 @@
-Cytospora nigrocincta Traverso SPECIES
-=======
+# Cytospora nigrocincta Traverso SPECIES
 
 #### Status
 ACCEPTED

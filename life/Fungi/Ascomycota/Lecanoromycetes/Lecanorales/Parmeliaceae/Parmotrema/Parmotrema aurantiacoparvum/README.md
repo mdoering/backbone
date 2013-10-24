@@ -1,5 +1,4 @@
-Parmotrema aurantiacoparvum Sipman SPECIES
-=======
+# Parmotrema aurantiacoparvum Sipman SPECIES
 
 #### Status
 ACCEPTED

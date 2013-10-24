@@ -1,5 +1,4 @@
-Platyfolliculina sahrhageana (Sahrhage, 1917) Hadzi, 1938 SPECIES
-=======
+# Platyfolliculina sahrhageana (Sahrhage, 1917) Hadzi, 1938 SPECIES
 
 #### Status
 ACCEPTED

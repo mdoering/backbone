@@ -1,14 +1,13 @@
-Efibula subodontioidea (Sheng H. Wu) Zmitr. & Spirin SPECIES
-=======
+# Efibula subodontoidea (Sheng H. Wu) Zmitr. & Spirin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Zmitrovich, Malysheva & Spirin, Mycena 6: 33 (2006)
 
 #### Original name
 Phanerochaete subodontoidea Sheng H. Wu

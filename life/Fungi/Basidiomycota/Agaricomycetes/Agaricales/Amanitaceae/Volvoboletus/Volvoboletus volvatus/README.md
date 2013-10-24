@@ -1,5 +1,4 @@
-Volvoboletus volvatus (Pers.) Henn. SPECIES
-=======
+# Volvoboletus volvatus (Pers.) Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe alba Petr. SPECIES
-=======
+# Conocybe alba Petr. SPECIES
 
 #### Status
 ACCEPTED

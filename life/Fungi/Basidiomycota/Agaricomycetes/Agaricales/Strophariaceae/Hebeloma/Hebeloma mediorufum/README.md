@@ -1,5 +1,4 @@
-Hebeloma mediorufum Soop, 2001 SPECIES
-=======
+# Hebeloma mediorufum Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

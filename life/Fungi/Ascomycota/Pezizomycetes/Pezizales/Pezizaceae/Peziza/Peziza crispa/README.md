@@ -1,5 +1,4 @@
-Peziza crispa Sowerby SPECIES
-=======
+# Peziza crispa Sowerby SPECIES
 
 #### Status
 ACCEPTED

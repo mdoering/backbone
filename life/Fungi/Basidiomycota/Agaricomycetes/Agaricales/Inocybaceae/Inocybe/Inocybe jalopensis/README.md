@@ -1,5 +1,4 @@
-Inocybe jalopensis SPECIES
-=======
+# Inocybe jalopensis SPECIES
 
 #### Status
 ACCEPTED

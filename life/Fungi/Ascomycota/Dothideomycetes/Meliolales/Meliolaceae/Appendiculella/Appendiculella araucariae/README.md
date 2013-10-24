@@ -1,5 +1,4 @@
-Appendiculella araucariae Butin & Speer SPECIES
-=======
+# Appendiculella araucariae Butin & Speer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrocarpon amamiense Hirooka & Tak. Kobay. SPECIES
-=======
+# Cylindrocarpon amamiense Hirooka & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

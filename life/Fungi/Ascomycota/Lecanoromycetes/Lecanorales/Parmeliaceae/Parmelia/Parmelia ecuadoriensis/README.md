@@ -1,5 +1,4 @@
-Parmelia ecuadoriensis R. Sant. SPECIES
-=======
+# Parmelia ecuadoriensis R. Sant. SPECIES
 
 #### Status
 ACCEPTED

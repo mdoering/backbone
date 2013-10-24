@@ -1,5 +1,4 @@
-Protocryptomonas acuta A. Castro, C. Bicudo & D. Bicudo SPECIES
-=======
+# Protocryptomonas acuta A. Castro, C. Bicudo & D. Bicudo SPECIES
 
 #### Status
 ACCEPTED

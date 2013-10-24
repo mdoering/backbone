@@ -1,8 +1,7 @@
-Sulfolobus brierleyi Zillig et al., 1980 SPECIES
-=======
+# Acidianus brierleyi (Zillig et al., 1980) Segerer et al., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

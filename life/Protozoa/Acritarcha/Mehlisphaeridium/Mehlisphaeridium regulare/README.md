@@ -1,5 +1,4 @@
-Mehlisphaeridium regulare Anderson, 1977 SPECIES
-=======
+# Mehlisphaeridium regulare Anderson, 1977 SPECIES
 
 #### Status
 ACCEPTED

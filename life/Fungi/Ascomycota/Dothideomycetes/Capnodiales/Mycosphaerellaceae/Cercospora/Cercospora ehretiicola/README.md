@@ -1,17 +1,16 @@
-Cercospora ehriticola A. Saleem & Mirza SPECIES
-=======
+# Cercospora ehretiicola A. Saleem & Mirza SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pakist. J. Bot. 9(2): 151 (1977)
 
 #### Original name
-Cercospora ehriticola A. Saleem & Mirza
+Cercospora ehretiicola A. Saleem & Mirza
 
 ### Remarks
 null

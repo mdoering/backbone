@@ -1,5 +1,4 @@
-Ceratostomella capilliformis E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Ceratostomella capilliformis E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

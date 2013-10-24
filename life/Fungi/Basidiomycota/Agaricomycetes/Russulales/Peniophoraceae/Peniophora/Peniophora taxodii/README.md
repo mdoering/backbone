@@ -1,5 +1,4 @@
-Peniophora taxodii Burt SPECIES
-=======
+# Peniophora taxodii Burt SPECIES
 
 #### Status
 ACCEPTED

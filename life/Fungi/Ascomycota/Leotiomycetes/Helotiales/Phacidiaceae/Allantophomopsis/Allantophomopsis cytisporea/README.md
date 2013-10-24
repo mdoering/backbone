@@ -1,14 +1,13 @@
-Sphaeria cytisporea Fr., 1823 SPECIES
-=======
+# Allantophomopsis cytisporea (Fr.) Petr., 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 2(2): 489 (1823)
+Annls mycol. 23(1/2): 104 (1925)
 
 #### Original name
 Sphaeria cytisporea Fr., 1823

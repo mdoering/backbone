@@ -1,5 +1,4 @@
-Aspergillus neobridgeri Frisvad & Samson SPECIES
-=======
+# Aspergillus neobridgeri Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

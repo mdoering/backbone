@@ -1,5 +1,4 @@
-Diplorhinotrichum clavatum Hennebert SPECIES
-=======
+# Diplorhinotrichum clavatum Hennebert SPECIES
 
 #### Status
 ACCEPTED

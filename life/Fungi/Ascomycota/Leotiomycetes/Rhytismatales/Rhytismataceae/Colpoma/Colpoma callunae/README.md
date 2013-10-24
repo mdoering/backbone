@@ -1,5 +1,4 @@
-Colpoma callunae Rehm SPECIES
-=======
+# Colpoma callunae Rehm SPECIES
 
 #### Status
 ACCEPTED

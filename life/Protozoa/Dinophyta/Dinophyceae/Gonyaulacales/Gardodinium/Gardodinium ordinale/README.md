@@ -1,5 +1,4 @@
-Gardodinium ordinale R. J. Davey SPECIES
-=======
+# Gardodinium ordinale R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

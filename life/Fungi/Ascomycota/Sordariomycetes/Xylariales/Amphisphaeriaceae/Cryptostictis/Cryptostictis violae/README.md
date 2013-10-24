@@ -1,5 +1,4 @@
-Cryptostictis violae Tehon & E.Y. Daniels SPECIES
-=======
+# Cryptostictis violae Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

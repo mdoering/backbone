@@ -1,5 +1,4 @@
-Ovularia indica Rao SPECIES
-=======
+# Ovularia indica Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alloglugea Paperna & Lainson GENUS
-=======
+# Alloglugea Paperna & Lainson GENUS
 
 #### Status
 ACCEPTED

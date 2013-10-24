@@ -1,14 +1,13 @@
-Astrothelium interlatens Nyl. SPECIES
-=======
+# Parmentaria interlatens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 66: 244 (1883)
 
 #### Original name
 Astrothelium interlatens Nyl.

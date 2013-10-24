@@ -1,5 +1,4 @@
-Aphanomyces acinetophagus A.F. Bartsch & F.T. Wolf SPECIES
-=======
+# Aphanomyces acinetophagus A.F. Bartsch & F.T. Wolf SPECIES
 
 #### Status
 ACCEPTED

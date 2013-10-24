@@ -1,5 +1,4 @@
-Spiloma melaleucum var. melaleucum Ach. VARIETY
-=======
+# Spiloma melaleucum Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Spiloma melaleucum var. melaleucum Ach.
+Spiloma melaleucum Ach.
 
 ### Remarks
 null

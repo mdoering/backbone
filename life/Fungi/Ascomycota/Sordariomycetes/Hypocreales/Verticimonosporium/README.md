@@ -1,5 +1,4 @@
-Verticimonosporium Matsush. GENUS
-=======
+# Verticimonosporium Matsush. GENUS
 
 #### Status
 ACCEPTED

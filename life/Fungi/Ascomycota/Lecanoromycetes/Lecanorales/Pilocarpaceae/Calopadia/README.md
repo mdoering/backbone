@@ -1,17 +1,16 @@
-Crocicreomyces Bat. & Peres GENUS
-=======
+# Calopadia Vezda GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anais Congr. Soc. Bot. Brasil 92 (1964)
+Folia geobot. phytotax. 21(2): 208, 215 (1986)
 
 #### Original name
-Crocicreomyces Bat. & Peres
+Calopadia Vezda
 
 ### Remarks
 null

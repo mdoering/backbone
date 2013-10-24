@@ -1,5 +1,4 @@
-Diderma corrugatum T.E. Brooks & H.W. Keller, 1977 SPECIES
-=======
+# Diderma corrugatum T.E. Brooks & H.W. Keller, 1977 SPECIES
 
 #### Status
 ACCEPTED

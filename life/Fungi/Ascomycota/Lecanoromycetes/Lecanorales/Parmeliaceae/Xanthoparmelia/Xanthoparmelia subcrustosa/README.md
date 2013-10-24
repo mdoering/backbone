@@ -1,5 +1,4 @@
-Xanthoparmelia subcrustosa Hale SPECIES
-=======
+# Xanthoparmelia subcrustosa Hale SPECIES
 
 #### Status
 ACCEPTED

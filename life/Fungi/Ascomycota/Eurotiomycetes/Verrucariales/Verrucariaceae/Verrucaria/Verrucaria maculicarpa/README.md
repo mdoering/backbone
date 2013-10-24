@@ -1,5 +1,4 @@
-Verrucaria maculicarpa Breuss SPECIES
-=======
+# Verrucaria maculicarpa Breuss SPECIES
 
 #### Status
 ACCEPTED

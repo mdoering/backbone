@@ -1,5 +1,4 @@
-Collybia inarmillata Schulzer SPECIES
-=======
+# Collybia inarmillata Schulzer SPECIES
 
 #### Status
 ACCEPTED

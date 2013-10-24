@@ -1,5 +1,4 @@
-Calonectria jimenezii Pat. SPECIES
-=======
+# Calonectria jimenezii Pat. SPECIES
 
 #### Status
 ACCEPTED

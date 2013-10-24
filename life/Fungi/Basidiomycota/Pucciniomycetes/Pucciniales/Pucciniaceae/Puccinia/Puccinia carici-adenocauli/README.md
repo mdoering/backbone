@@ -1,5 +1,4 @@
-Puccinia carici-adenocauli Kakish., Yokoi & Y. Harada SPECIES
-=======
+# Puccinia carici-adenocauli Kakish., Yokoi & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

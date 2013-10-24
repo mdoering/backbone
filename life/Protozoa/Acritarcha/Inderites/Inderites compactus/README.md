@@ -1,5 +1,4 @@
-Inderites compactus (Luber in Luber & Vaults, 1941) Abramova & Martchenko, 1964 SPECIES
-=======
+# Inderites compactus (Luber in Luber & Vaults, 1941) Abramova & Martchenko, 1964 SPECIES
 
 #### Status
 ACCEPTED

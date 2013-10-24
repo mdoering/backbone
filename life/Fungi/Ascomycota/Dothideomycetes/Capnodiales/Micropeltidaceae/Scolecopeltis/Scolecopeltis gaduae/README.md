@@ -1,5 +1,4 @@
-Scolecopeltis gaduae Henn. SPECIES
-=======
+# Scolecopeltis gaduae Henn. SPECIES
 
 #### Status
 ACCEPTED

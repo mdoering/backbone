@@ -1,14 +1,13 @@
-Fusicoccum eucalyptorum Crous, H. Sm. ter & M.J. Wingf., 2001 SPECIES
-=======
+# Neofusicoccum eucalyptorum (Crous, H. Sm. ter & M.J. Wingf.) Crous, Slippers & A.J.L. Phillips, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Smith, Crous, Wingfield, Coutinho & Wingfield, Mycologia 93(2): 280 (2001)
+in Crous, Slippers, Wingfield, Rheeder, Marasas, Phillips, Alves, Burgess, Barber & Groenewald, Stud. Mycol. 55: 248 (2006)
 
 #### Original name
 Fusicoccum eucalyptorum Crous, H. Sm. ter & M.J. Wingf., 2001

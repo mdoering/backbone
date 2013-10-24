@@ -1,17 +1,16 @@
-Dendrostilbella bonari E.F. Morris SPECIES
-=======
+# Dendrostilbella bonarii E.F. Morris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 28: 100 (1966)
 
 #### Original name
-Dendrostilbella bonari E.F. Morris
+Dendrostilbella bonarii E.F. Morris
 
 ### Remarks
 null

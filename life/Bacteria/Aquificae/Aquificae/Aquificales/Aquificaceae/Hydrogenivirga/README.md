@@ -1,5 +1,4 @@
-Hydrogenivirga Nakagawa, Nakamura, Inagaki, Takai, Shirai & Sako, 2004 GENUS
-=======
+# Hydrogenivirga Nakagawa, Nakamura, Inagaki, Takai, Shirai & Sako, 2004 GENUS
 
 #### Status
 ACCEPTED

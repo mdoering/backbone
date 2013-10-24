@@ -1,5 +1,4 @@
-Asterella megalospora Berk. & M.A. Curtis SPECIES
-=======
+# Asterella megalospora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

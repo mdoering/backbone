@@ -1,5 +1,4 @@
-Quasiphloeospora B. Sutton, Crous & Shamoun GENUS
-=======
+# Quasiphloeospora B. Sutton, Crous & Shamoun GENUS
 
 #### Status
 ACCEPTED

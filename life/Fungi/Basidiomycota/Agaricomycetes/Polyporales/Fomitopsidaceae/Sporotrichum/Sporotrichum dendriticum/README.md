@@ -1,5 +1,4 @@
-Sporotrichum dendriticum (C. Agardh) Duby SPECIES
-=======
+# Sporotrichum dendriticum (C. Agardh) Duby SPECIES
 
 #### Status
 ACCEPTED

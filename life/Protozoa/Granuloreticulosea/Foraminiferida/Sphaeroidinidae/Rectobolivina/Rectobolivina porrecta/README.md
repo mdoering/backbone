@@ -1,5 +1,4 @@
-Rectobolivina porrecta SPECIES
-=======
+# Rectobolivina porrecta SPECIES
 
 #### Status
 ACCEPTED

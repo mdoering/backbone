@@ -1,5 +1,4 @@
-Cryptothecia conferta A.L. Sm. SPECIES
-=======
+# Cryptothecia conferta A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

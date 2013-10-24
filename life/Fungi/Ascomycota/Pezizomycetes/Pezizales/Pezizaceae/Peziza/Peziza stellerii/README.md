@@ -1,5 +1,4 @@
-Peziza stellerii Weinm. SPECIES
-=======
+# Peziza stellerii Weinm. SPECIES
 
 #### Status
 ACCEPTED

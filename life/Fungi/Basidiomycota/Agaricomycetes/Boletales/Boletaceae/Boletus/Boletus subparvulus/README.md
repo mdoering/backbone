@@ -1,5 +1,4 @@
-Boletus subparvulus A.H. Sm. & Thiers SPECIES
-=======
+# Boletus subparvulus A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

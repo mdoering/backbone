@@ -1,5 +1,4 @@
-Magdalaenaea monogramma G. Arnaud, 1952 SPECIES
-=======
+# Magdalaenaea monogramma G. Arnaud, 1952 SPECIES
 
 #### Status
 ACCEPTED

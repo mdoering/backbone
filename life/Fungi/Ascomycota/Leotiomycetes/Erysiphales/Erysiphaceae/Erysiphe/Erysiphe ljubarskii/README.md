@@ -1,5 +1,4 @@
-Erysiphe ljubarskii (Golovin) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe ljubarskii (Golovin) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cystotheca phytophila (Kellerm. & Swingle) Golovin SPECIES
-=======
+# Cystotheca phytoptophila (Kellerm. & Swingle) Golovin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 165 (1964)
 
 #### Original name
 Sphaerotheca phytoptophila Kellerm. & Swingle

@@ -1,5 +1,4 @@
-Puccinia tararua G. Cunn., 1923 SPECIES
-=======
+# Puccinia tararua G. Cunn., 1923 SPECIES
 
 #### Status
 ACCEPTED

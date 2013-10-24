@@ -1,8 +1,7 @@
-Bacillus lautus (ex Batchelor, 1919) Nakamura, 1984 SPECIES
-=======
+# Paenibacillus lautus (Nakamura, 1984) Heyndrickx et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

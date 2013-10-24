@@ -1,5 +1,4 @@
-Cucurbitariella moravica Petr. SPECIES
-=======
+# Cucurbitariella moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

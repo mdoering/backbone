@@ -1,5 +1,4 @@
-Lactella aphodii Maessen SPECIES
-=======
+# Lactella aphodii Maessen SPECIES
 
 #### Status
 ACCEPTED

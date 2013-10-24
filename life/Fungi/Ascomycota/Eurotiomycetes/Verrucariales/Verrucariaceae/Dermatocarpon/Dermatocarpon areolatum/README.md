@@ -1,5 +1,4 @@
-Dermatocarpon areolatum B. de Lesd. SPECIES
-=======
+# Dermatocarpon areolatum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

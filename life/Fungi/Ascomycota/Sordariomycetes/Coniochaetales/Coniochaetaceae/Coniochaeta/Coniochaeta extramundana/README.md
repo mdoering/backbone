@@ -1,5 +1,4 @@
-Coniochaeta extramundana Mahoney & La Favre, 1981 SPECIES
-=======
+# Coniochaeta extramundana Mahoney & La Favre, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia ripleyi Hale SPECIES
-=======
+# Ocellularia ripleyi Hale SPECIES
 
 #### Status
 ACCEPTED

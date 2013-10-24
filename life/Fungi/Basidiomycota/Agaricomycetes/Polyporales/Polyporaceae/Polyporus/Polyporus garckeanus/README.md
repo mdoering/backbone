@@ -1,5 +1,4 @@
-Polyporus garckeanus Henn. SPECIES
-=======
+# Polyporus garckeanus Henn. SPECIES
 
 #### Status
 ACCEPTED

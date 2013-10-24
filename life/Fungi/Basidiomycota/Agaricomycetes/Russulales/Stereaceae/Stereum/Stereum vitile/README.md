@@ -1,5 +1,4 @@
-Stereum vitile Fr. SPECIES
-=======
+# Stereum vitile Fr. SPECIES
 
 #### Status
 ACCEPTED

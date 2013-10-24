@@ -1,5 +1,4 @@
-Lecidea belangeri (Mont. & Bosch) Overeem SPECIES
-=======
+# Lecidea belangeri (Mont. & Bosch) Overeem SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenopezia tetraspora Henn. SPECIES
-=======
+# Solenopezia tetraspora Henn. SPECIES
 
 #### Status
 ACCEPTED

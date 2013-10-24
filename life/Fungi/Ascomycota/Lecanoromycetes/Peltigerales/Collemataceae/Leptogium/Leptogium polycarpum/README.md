@@ -1,5 +1,4 @@
-Leptogium polycarpum P. M. Jørg. & Goward SPECIES
-=======
+# Leptogium polycarpum P. M. Jørg. & Goward SPECIES
 
 #### Status
 ACCEPTED

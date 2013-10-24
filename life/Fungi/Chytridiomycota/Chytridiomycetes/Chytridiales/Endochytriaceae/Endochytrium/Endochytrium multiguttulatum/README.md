@@ -1,5 +1,4 @@
-Endochytrium multiguttulatum Dogma, 1969 SPECIES
-=======
+# Endochytrium multiguttulatum Dogma, 1969 SPECIES
 
 #### Status
 ACCEPTED

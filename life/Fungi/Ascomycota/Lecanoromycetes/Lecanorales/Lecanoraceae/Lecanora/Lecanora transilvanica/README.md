@@ -1,8 +1,7 @@
-Lecanora transsylvanica Nyl. SPECIES
-=======
+# Lecanora transilvanica Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora transsylvanica Nyl.
+Lecanora transilvanica Nyl.
 
 ### Remarks
 null

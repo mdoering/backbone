@@ -1,5 +1,4 @@
-Sphaceloma carissae Wani & Thirum. SPECIES
-=======
+# Sphaceloma carissae Wani & Thirum. SPECIES
 
 #### Status
 ACCEPTED

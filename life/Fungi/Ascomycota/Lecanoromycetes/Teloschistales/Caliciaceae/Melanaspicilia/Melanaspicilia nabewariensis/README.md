@@ -1,5 +1,4 @@
-Melanaspicilia nabewariensis Yasuda ex Räsänen SPECIES
-=======
+# Melanaspicilia nabewariensis Yasuda ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

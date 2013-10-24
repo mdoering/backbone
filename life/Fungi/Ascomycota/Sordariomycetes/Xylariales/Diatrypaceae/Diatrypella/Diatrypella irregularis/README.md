@@ -1,5 +1,4 @@
-Diatrypella irregularis Cooke & Ellis SPECIES
-=======
+# Diatrypella irregularis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

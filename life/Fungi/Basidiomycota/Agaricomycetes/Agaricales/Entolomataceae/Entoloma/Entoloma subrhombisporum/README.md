@@ -1,5 +1,4 @@
-Entoloma subrhombisporum Hesler SPECIES
-=======
+# Entoloma subrhombisporum Hesler SPECIES
 
 #### Status
 ACCEPTED

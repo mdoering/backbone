@@ -1,5 +1,4 @@
-Thermococcus barophilus Marteinsson et al., 1999 SPECIES
-=======
+# Thermococcus barophilus Marteinsson et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

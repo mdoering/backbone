@@ -1,5 +1,4 @@
-Ceratophyllum obscuratum (Ach.) M. Choisy SPECIES
-=======
+# Ceratophyllum obscuratum (Ach.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

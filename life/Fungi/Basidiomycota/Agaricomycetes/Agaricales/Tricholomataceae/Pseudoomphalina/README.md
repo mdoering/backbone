@@ -1,5 +1,4 @@
-Pseudoomphalina (Singer) Singer, 1956 GENUS
-=======
+# Pseudoomphalina (Singer) Singer, 1956 GENUS
 
 #### Status
 ACCEPTED

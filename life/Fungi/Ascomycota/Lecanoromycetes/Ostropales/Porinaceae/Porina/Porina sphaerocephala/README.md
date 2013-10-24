@@ -1,5 +1,4 @@
-Porina sphaerocephala Vain. SPECIES
-=======
+# Porina sphaerocephala Vain. SPECIES
 
 #### Status
 ACCEPTED

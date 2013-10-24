@@ -1,5 +1,4 @@
-Phyllosticta sultanii Abbas, B. Sutton & Ghaffar SPECIES
-=======
+# Phyllosticta sultanii Abbas, B. Sutton & Ghaffar SPECIES
 
 #### Status
 ACCEPTED

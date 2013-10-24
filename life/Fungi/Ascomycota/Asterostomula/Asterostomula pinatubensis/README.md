@@ -1,5 +1,4 @@
-Asterostomula pinatubensis Syd. SPECIES
-=======
+# Asterostomula pinatubensis Syd. SPECIES
 
 #### Status
 ACCEPTED

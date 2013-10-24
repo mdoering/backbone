@@ -1,5 +1,4 @@
-Spheriphorus GENUS
-=======
+# Spheriphorus GENUS
 
 #### Status
 ACCEPTED

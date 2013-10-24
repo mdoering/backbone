@@ -1,5 +1,4 @@
-Rivularia piae (M. M. Frollo) O. Dragastan SPECIES
-=======
+# Rivularia piae (M. M. Frollo) O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

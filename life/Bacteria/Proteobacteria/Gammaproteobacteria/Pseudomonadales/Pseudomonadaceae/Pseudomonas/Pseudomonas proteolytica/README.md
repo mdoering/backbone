@@ -1,5 +1,4 @@
-Pseudomonas proteolytica Reddy et al., 2004 SPECIES
-=======
+# Pseudomonas proteolytica Reddy et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

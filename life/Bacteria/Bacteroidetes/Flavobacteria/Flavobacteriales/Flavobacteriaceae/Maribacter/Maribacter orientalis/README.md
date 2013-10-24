@@ -1,5 +1,4 @@
-Maribacter orientalis Nedashkovskaya et al., 2004 SPECIES
-=======
+# Maribacter orientalis Nedashkovskaya et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

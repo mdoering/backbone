@@ -1,5 +1,4 @@
-Polyporus mirus Kalchbr. SPECIES
-=======
+# Polyporus mirus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

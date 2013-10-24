@@ -1,5 +1,4 @@
-Galzinia cystidiata S.S. Rattan & Abdullah, 1977 SPECIES
-=======
+# Galzinia cystidiata S.S. Rattan & Abdullah, 1977 SPECIES
 
 #### Status
 ACCEPTED

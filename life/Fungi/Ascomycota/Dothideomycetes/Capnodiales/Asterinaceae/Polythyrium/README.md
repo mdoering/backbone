@@ -1,5 +1,4 @@
-Polythyrium GENUS
-=======
+# Polythyrium GENUS
 
 #### Status
 ACCEPTED

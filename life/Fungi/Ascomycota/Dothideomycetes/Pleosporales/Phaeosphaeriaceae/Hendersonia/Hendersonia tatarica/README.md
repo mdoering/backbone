@@ -1,5 +1,4 @@
-Hendersonia tatarica Kirschst. SPECIES
-=======
+# Hendersonia tatarica Kirschst. SPECIES
 
 #### Status
 ACCEPTED

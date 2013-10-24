@@ -1,5 +1,4 @@
-Boletus latus Sowerby SPECIES
-=======
+# Boletus latus Sowerby SPECIES
 
 #### Status
 ACCEPTED

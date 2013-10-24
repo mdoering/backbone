@@ -1,5 +1,4 @@
-Caloplaca janina (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca janina (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

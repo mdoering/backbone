@@ -1,5 +1,4 @@
-Coprinus eurysporus M. Lange & A.H. Sm. SPECIES
-=======
+# Coprinus eurysporus M. Lange & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

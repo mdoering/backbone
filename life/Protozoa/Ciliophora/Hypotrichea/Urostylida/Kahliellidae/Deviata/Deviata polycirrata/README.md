@@ -1,5 +1,4 @@
-Deviata polycirrata Küppers & Claps, 2010 SPECIES
-=======
+# Deviata polycirrata Küppers & Claps, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pullenia apertula Cushman SPECIES
-=======
+# Pullenia apertula Cushman SPECIES
 
 #### Status
 ACCEPTED

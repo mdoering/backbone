@@ -1,5 +1,4 @@
-Lithomyxa calcigena Howe SPECIES
-=======
+# Lithomyxa calcigena Howe SPECIES
 
 #### Status
 ACCEPTED

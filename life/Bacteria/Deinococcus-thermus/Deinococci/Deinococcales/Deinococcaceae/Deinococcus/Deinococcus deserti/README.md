@@ -1,5 +1,4 @@
-Deinococcus deserti de Groot et al., 2005 SPECIES
-=======
+# Deinococcus deserti de Groot et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

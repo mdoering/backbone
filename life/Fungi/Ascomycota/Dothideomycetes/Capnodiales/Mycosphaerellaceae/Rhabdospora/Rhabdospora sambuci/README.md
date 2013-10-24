@@ -1,5 +1,4 @@
-Rhabdospora sambuci Mekht. SPECIES
-=======
+# Rhabdospora sambuci Mekht. SPECIES
 
 #### Status
 ACCEPTED

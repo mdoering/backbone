@@ -1,5 +1,4 @@
-Polyporus repsoldi Möller SPECIES
-=======
+# Polyporus repsoldi Möller SPECIES
 
 #### Status
 ACCEPTED

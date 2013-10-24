@@ -1,5 +1,4 @@
-Collemopsidium ostreatum SPECIES
-=======
+# Collemopsidium ostreatum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massariella Spegazzini, 1880 GENUS
-=======
+# Massariella Spegazzini, 1880 GENUS
 
 #### Status
 ACCEPTED

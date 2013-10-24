@@ -1,17 +1,16 @@
-Pyricularia boreale de Hoog & Oorschot SPECIES
-=======
+# Pyricularia borealis de Hoog & Oorschot, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 26: 114 (1985)
 
 #### Original name
-Pyricularia boreale de Hoog & Oorschot
+Diplorhinotrichum juncicola MacGarvie, 1965
 
 ### Remarks
 null

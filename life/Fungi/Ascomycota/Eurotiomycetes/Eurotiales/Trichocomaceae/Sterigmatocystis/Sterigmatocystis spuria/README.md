@@ -1,5 +1,4 @@
-Sterigmatocystis spuria J. Schröt. SPECIES
-=======
+# Sterigmatocystis spuria J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinites beyschlagii R. Potonié SPECIES
-=======
+# Rosellinites beyschlagii R. Potonié SPECIES
 
 #### Status
 ACCEPTED

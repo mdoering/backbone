@@ -1,5 +1,4 @@
-Metschnikowia orientalis Lachance & J.M. Bowles, 2006 SPECIES
-=======
+# Metschnikowia orientalis Lachance & J.M. Bowles, 2006 SPECIES
 
 #### Status
 ACCEPTED

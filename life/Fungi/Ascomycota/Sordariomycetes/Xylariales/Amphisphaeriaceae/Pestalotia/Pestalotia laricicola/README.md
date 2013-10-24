@@ -1,5 +1,4 @@
-Pestalotia laricicola Sawada SPECIES
-=======
+# Pestalotia laricicola Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acia mucida (Pers.) P. Karst. SPECIES
-=======
+# Acia mucida (Pers.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

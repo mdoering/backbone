@@ -1,14 +1,13 @@
-Polystigma amphididyma (Penz. & Sacc.) Höhn., 1919 SPECIES
-=======
+# Phyllachora amphididyma Penz. & Sacc., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 128: 566 (1919)
+Malpighia 11: 504 (1897)
 
 #### Original name
 Phyllachora amphididyma Penz. & Sacc., 1897

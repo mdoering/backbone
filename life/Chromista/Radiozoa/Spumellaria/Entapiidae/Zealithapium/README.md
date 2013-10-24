@@ -1,5 +1,4 @@
-Zealithapium O'Connor, 1999 GENUS
-=======
+# Zealithapium O'Connor, 1999 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Labyrinthidoma Adams, Knight & Hodgkinson, 1973 GENUS
-=======
+# Labyrinthidoma Adams, Knight & Hodgkinson, 1973 GENUS
 
 #### Status
 ACCEPTED

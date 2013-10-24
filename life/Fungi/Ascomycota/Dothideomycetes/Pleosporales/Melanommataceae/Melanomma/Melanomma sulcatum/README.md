@@ -1,5 +1,4 @@
-Melanomma sulcatum (Ellis) Berl. & Voglino SPECIES
-=======
+# Melanomma sulcatum (Ellis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Griphosphaerioma zelkovicola Yas. Ono & Tak. Kobay. SPECIES
-=======
+# Griphosphaerioma zelkovicola Yas. Ono & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

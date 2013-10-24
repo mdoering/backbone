@@ -1,5 +1,4 @@
-Hypocrea cubispora Ellis & Holw. SPECIES
-=======
+# Hypocrea cubispora Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon microsporum Lynge SPECIES
-=======
+# Rhizocarpon microsporum Lynge SPECIES
 
 #### Status
 ACCEPTED

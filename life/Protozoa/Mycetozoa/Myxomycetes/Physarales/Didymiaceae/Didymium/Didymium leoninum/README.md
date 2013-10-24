@@ -1,17 +1,16 @@
-Didymium leoninum var. effusum G. Lister VARIETY
-=======
+# Didymium leoninum Berk. & Broome, 1873 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. 71: 220 (1933)
+null
 
 #### Original name
-Didymium leoninum var. effusum G. Lister
+Didymium leoninum Berk. & Broome, 1873
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mollisia fungicola Kirschst. SPECIES
-=======
+# Mollisia fungicola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

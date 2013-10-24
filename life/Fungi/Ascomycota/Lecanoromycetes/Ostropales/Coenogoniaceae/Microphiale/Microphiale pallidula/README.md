@@ -1,5 +1,4 @@
-Microphiale pallidula (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Microphiale pallidula (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

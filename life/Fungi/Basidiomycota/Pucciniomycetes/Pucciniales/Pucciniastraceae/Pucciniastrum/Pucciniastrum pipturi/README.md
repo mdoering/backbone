@@ -1,5 +1,4 @@
-Pucciniastrum pipturi Syd. SPECIES
-=======
+# Pucciniastrum pipturi Syd. SPECIES
 
 #### Status
 ACCEPTED

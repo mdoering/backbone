@@ -1,5 +1,4 @@
-Hebeloma helvolescens S. Imai SPECIES
-=======
+# Hebeloma helvolescens S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tomasellia arthonioides var. arthonioides VARIETY
-=======
+# Tomasellia arthonioides (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 39: 284 (1856)
 
 #### Original name
-Tomasellia arthonioides var. arthonioides
+Arthopyrenia arthonioides A. Massal.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Teichosporella (Sacc.) Sacc. GENUS
-=======
+# Teichosporella (Sacc.) Sacc. GENUS
 
 #### Status
 ACCEPTED

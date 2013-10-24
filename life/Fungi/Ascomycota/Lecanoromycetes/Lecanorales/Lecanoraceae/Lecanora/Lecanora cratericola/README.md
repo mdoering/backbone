@@ -1,5 +1,4 @@
-Lecanora cratericola Lynge SPECIES
-=======
+# Lecanora cratericola Lynge SPECIES
 
 #### Status
 ACCEPTED

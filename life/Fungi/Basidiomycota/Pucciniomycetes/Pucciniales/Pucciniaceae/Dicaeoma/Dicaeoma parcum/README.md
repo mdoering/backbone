@@ -1,5 +1,4 @@
-Dicaeoma parcum Arthur SPECIES
-=======
+# Dicaeoma parcum Arthur SPECIES
 
 #### Status
 ACCEPTED

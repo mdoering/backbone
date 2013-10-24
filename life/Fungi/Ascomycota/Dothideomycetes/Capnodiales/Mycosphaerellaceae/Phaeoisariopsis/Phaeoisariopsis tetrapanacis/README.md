@@ -1,5 +1,4 @@
-Phaeoisariopsis tetrapanacis Sawada SPECIES
-=======
+# Phaeoisariopsis tetrapanacis Sawada SPECIES
 
 #### Status
 ACCEPTED

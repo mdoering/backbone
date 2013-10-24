@@ -1,5 +1,4 @@
-Pseudopyrenula erumpens Müll. Arg. SPECIES
-=======
+# Pseudopyrenula erumpens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

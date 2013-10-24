@@ -1,5 +1,4 @@
-Ellipsopyxella Bonnet, 1975 GENUS
-=======
+# Ellipsopyxella Bonnet, 1975 GENUS
 
 #### Status
 ACCEPTED

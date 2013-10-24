@@ -1,5 +1,4 @@
-Rhizophydium signyense Willoughby SPECIES
-=======
+# Rhizophydium signyense Willoughby SPECIES
 
 #### Status
 ACCEPTED

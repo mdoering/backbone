@@ -1,5 +1,4 @@
-Pholiotina flava (Peck) Hauskn., Krisai & Voglmayr SPECIES
-=======
+# Pholiotina flava (Peck) Hauskn., Krisai & Voglmayr SPECIES
 
 #### Status
 ACCEPTED

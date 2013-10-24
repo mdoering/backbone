@@ -1,5 +1,4 @@
-Lecanora amorpha Poelt SPECIES
-=======
+# Lecanora amorpha Poelt SPECIES
 
 #### Status
 ACCEPTED

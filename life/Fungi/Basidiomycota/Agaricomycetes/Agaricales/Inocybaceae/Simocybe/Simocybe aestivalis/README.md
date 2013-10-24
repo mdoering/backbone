@@ -1,5 +1,4 @@
-Simocybe aestivalis Singer SPECIES
-=======
+# Simocybe aestivalis Singer SPECIES
 
 #### Status
 ACCEPTED

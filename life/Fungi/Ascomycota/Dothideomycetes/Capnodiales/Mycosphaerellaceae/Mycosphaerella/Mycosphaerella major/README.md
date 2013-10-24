@@ -1,5 +1,4 @@
-Mycosphaerella major (Auersw.) Lindau SPECIES
-=======
+# Mycosphaerella major (Auersw.) Lindau SPECIES
 
 #### Status
 ACCEPTED

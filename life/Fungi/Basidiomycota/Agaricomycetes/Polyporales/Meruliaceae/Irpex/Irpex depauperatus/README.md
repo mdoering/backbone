@@ -1,5 +1,4 @@
-Irpex depauperatus Berk. & Broome SPECIES
-=======
+# Irpex depauperatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

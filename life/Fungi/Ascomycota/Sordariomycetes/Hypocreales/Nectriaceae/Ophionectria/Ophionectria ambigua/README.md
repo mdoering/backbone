@@ -1,5 +1,4 @@
-Ophionectria ambigua Höhn. SPECIES
-=======
+# Ophionectria ambigua Höhn. SPECIES
 
 #### Status
 ACCEPTED

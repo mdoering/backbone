@@ -1,5 +1,4 @@
-Pirottaea symphyti Nannf., 1985 SPECIES
-=======
+# Pirottaea symphyti Nannf., 1985 SPECIES
 
 #### Status
 ACCEPTED

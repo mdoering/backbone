@@ -1,5 +1,4 @@
-Didymella arthonispora Rehm ex Fairm. SPECIES
-=======
+# Didymella arthonispora Rehm ex Fairm. SPECIES
 
 #### Status
 ACCEPTED

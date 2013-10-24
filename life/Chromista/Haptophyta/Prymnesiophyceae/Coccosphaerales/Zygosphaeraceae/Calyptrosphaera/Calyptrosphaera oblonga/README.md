@@ -1,5 +1,4 @@
-Calyptrosphaera oblonga Lohmann SPECIES
-=======
+# Calyptrosphaera oblonga Lohmann SPECIES
 
 #### Status
 ACCEPTED

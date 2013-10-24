@@ -1,5 +1,4 @@
-Chytridium alarium Kibbe SPECIES
-=======
+# Chytridium alarium Kibbe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lactobacillus maltaromicus Miller et al., 1974 (Approved Lists, 1980) SPECIES
-=======
+# Carnobacterium maltaromaticum (Miller et al., 1974) Mora et al., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

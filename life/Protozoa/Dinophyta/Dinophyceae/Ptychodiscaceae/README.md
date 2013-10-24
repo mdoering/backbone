@@ -1,5 +1,4 @@
-Ptychodiscaceae (Schütt) Lemmermann, 1899 FAMILY
-=======
+# Ptychodiscaceae (Schütt) Lemmermann, 1899 FAMILY
 
 #### Status
 ACCEPTED

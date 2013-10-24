@@ -1,5 +1,4 @@
-Peziza aconiti Saut. SPECIES
-=======
+# Peziza aconiti Saut. SPECIES
 
 #### Status
 ACCEPTED

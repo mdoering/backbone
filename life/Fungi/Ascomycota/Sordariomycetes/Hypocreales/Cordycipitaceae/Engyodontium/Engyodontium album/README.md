@@ -1,14 +1,13 @@
-Engyodontium albus (Limber) de Hoog SPECIES
-=======
+# Engyodontium album (Limber) de Hoog, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 10(1): 53 (1978)
 
 #### Original name
 Tritirachium album Limber, 1940

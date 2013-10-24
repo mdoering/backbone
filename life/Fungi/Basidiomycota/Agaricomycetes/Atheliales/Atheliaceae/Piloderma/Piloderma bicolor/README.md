@@ -1,17 +1,16 @@
-Athelia bicolor f. bicolor FORM
-=======
+# Piloderma bicolor (Peck) Jülich, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Eesti NSV Tead. Akad. Toim. , Biol. seer 16(4): 379 (1967)
+Ber. dt. bot. Ges. 81(9): 417 (1969)
 
 #### Original name
-Athelia bicolor f. bicolor
+null
 
 ### Remarks
 null

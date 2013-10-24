@@ -1,5 +1,4 @@
-Blepharocorys bovis SPECIES
-=======
+# Blepharocorys bovis SPECIES
 
 #### Status
 ACCEPTED

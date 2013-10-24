@@ -1,17 +1,16 @@
-Omphalia angustispora Joss., 1937 SPECIES
-=======
+# Hemimycena angustispora (P.D. Orton) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Soc. Linn. Lyon 80: 81 (1937)
+Sydowia 15: 62 (1962)
 
 #### Original name
-Omphalia angustispora Joss., 1937
+Mycena angustispora Raithelh.
 
 ### Remarks
 null

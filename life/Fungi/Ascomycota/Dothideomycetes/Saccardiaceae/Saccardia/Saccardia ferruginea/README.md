@@ -1,5 +1,4 @@
-Saccardia ferruginea G. Winter SPECIES
-=======
+# Saccardia ferruginea G. Winter SPECIES
 
 #### Status
 ACCEPTED

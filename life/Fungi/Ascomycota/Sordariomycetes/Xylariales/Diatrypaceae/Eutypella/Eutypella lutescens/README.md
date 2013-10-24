@@ -1,5 +1,4 @@
-Eutypella lutescens (Ellis) Sacc. SPECIES
-=======
+# Eutypella lutescens (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

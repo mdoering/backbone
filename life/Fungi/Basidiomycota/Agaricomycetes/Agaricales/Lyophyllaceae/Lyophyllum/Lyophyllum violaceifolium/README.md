@@ -1,5 +1,4 @@
-Lyophyllum violaceifolium Contu & Bon SPECIES
-=======
+# Lyophyllum violaceifolium Contu & Bon SPECIES
 
 #### Status
 ACCEPTED

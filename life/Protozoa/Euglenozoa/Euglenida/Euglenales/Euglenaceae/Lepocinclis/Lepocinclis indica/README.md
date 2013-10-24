@@ -1,5 +1,4 @@
-Lepocinclis indica Skvortzov SPECIES
-=======
+# Lepocinclis indica Skvortzov SPECIES
 
 #### Status
 ACCEPTED

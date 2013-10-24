@@ -1,5 +1,4 @@
-Belonidium litoreum P. Karst. SPECIES
-=======
+# Belonidium litoreum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

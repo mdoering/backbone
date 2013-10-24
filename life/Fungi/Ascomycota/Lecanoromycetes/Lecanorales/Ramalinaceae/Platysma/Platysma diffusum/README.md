@@ -1,5 +1,4 @@
-Platysma diffusum (Weber) Nyl. SPECIES
-=======
+# Platysma diffusum (Weber) Nyl. SPECIES
 
 #### Status
 ACCEPTED

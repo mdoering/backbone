@@ -1,5 +1,4 @@
-Camarophyllus caespitosus (Murrill) Murrill SPECIES
-=======
+# Camarophyllus caespitosus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

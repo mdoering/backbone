@@ -1,5 +1,4 @@
-Leptostroma scriptum Fr. SPECIES
-=======
+# Leptostroma scriptum Fr. SPECIES
 
 #### Status
 ACCEPTED

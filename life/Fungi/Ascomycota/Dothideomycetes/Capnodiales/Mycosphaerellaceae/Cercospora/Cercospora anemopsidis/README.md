@@ -1,5 +1,4 @@
-Cercospora anemopsidis Chupp SPECIES
-=======
+# Cercospora anemopsidis Chupp SPECIES
 
 #### Status
 ACCEPTED

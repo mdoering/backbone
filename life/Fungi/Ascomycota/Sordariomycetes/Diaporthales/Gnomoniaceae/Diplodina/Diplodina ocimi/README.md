@@ -1,5 +1,4 @@
-Diplodina ocimi Picb. SPECIES
-=======
+# Diplodina ocimi Picb. SPECIES
 
 #### Status
 ACCEPTED

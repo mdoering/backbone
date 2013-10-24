@@ -1,5 +1,4 @@
-Reticulosporidium globosum G. Thor SPECIES
-=======
+# Reticulosporidium globosum G. Thor SPECIES
 
 #### Status
 ACCEPTED

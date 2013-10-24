@@ -1,5 +1,4 @@
-Bartalinia bombacicola Bat. SPECIES
-=======
+# Bartalinia bombacicola Bat. SPECIES
 
 #### Status
 ACCEPTED

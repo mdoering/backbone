@@ -1,5 +1,4 @@
-Aspicilia trachytica (A. Massal.) Arnold SPECIES
-=======
+# Aspicilia trachytica (A. Massal.) Arnold SPECIES
 
 #### Status
 ACCEPTED

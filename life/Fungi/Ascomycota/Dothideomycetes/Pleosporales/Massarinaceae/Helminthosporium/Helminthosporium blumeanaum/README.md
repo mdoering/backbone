@@ -1,5 +1,4 @@
-Helminthosporium blumeanaum Sacc. SPECIES
-=======
+# Helminthosporium blumeanaum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo longozyi Bouriquet & Bassino SPECIES
-=======
+# Uredo longozyi Bouriquet & Bassino SPECIES
 
 #### Status
 ACCEPTED

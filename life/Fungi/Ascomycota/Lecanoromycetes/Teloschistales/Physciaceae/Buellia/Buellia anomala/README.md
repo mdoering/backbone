@@ -1,5 +1,4 @@
-Buellia anomala Zahlbr. SPECIES
-=======
+# Buellia anomala Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

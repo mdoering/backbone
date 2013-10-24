@@ -1,5 +1,4 @@
-Streptothrix glauca Ellis & Everh. SPECIES
-=======
+# Streptothrix glauca Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

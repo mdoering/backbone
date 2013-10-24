@@ -1,5 +1,4 @@
-Stenoxybacter Wertz & Breznak, 2008 GENUS
-=======
+# Stenoxybacter Wertz & Breznak, 2008 GENUS
 
 #### Status
 ACCEPTED

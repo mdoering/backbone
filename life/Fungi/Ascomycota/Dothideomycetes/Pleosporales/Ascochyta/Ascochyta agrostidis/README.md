@@ -1,17 +1,16 @@
-Ascochyta agrostis Polozova SPECIES
-=======
+# Ascochyta agrostidis Polozova, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mikol. Fitopatol. 3: 189 (1969)
 
 #### Original name
-Ascochyta agrostis Polozova
+Ascochyta agrostidis Polozova, 1969
 
 ### Remarks
 null

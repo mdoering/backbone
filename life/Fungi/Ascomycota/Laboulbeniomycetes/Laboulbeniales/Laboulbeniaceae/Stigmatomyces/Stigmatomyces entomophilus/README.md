@@ -1,14 +1,13 @@
-Appendicularia entomophila Peck, 1885 SPECIES
-=======
+# Stigmatomyces entomophilus (Peck) Thaxt., 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 38: (1885)
+null
 
 #### Original name
 Appendicularia entomophila Peck, 1885

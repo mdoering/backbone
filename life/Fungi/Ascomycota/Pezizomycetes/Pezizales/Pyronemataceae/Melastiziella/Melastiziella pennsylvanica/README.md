@@ -1,5 +1,4 @@
-Melastiziella pennsylvanica (Seaver) Svrcek SPECIES
-=======
+# Melastiziella pennsylvanica (Seaver) Svrcek SPECIES
 
 #### Status
 ACCEPTED

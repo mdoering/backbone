@@ -1,5 +1,4 @@
-Mucor clavatus var. clavatus VARIETY
-=======
+# Mucor clavatus Link SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Willdenow, Caroli a Linné Species Plantarum exhibentes Plantas Rite Cognitas ad Genera Relatas 1(1): 92 (1824)
 
 #### Original name
-Mucor clavatus var. clavatus
+Mucor clavatus Link
 
 ### Remarks
 null

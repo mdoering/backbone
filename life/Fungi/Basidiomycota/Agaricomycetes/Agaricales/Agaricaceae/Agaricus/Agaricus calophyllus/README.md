@@ -1,5 +1,4 @@
-Agaricus calophyllus Pers. SPECIES
-=======
+# Agaricus calophyllus Pers. SPECIES
 
 #### Status
 ACCEPTED

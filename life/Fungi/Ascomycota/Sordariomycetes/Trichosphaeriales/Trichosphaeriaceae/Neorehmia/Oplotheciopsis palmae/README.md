@@ -1,5 +1,4 @@
-Oplotheciopsis palmae (F. Stevens) Bat. & Cif. SPECIES
-=======
+# Oplotheciopsis palmae (F. Stevens) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

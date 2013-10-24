@@ -1,5 +1,4 @@
-Metasphaeria coffaeiphila Speg. SPECIES
-=======
+# Metasphaeria coffaeiphila Speg. SPECIES
 
 #### Status
 ACCEPTED

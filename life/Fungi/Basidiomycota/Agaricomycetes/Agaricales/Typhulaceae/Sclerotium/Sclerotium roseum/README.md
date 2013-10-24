@@ -1,5 +1,4 @@
-Sclerotium roseum Moug. ex Fr., 1828 SPECIES
-=======
+# Sclerotium roseum Moug. ex Fr., 1828 SPECIES
 
 #### Status
 ACCEPTED

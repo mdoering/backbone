@@ -1,5 +1,4 @@
-Strongylidium packi Calkins, 1902 SPECIES
-=======
+# Strongylidium packi Calkins, 1902 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia thujae Sawada, 1950 SPECIES
-=======
+# Pestalotia thujae Sawada, 1950 SPECIES
 
 #### Status
 ACCEPTED

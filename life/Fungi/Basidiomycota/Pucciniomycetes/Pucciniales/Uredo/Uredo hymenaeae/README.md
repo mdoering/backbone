@@ -1,5 +1,4 @@
-Uredo hymenaeae Mayor SPECIES
-=======
+# Uredo hymenaeae Mayor SPECIES
 
 #### Status
 ACCEPTED

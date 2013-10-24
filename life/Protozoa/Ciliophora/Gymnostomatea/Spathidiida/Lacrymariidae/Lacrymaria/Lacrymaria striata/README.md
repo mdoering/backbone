@@ -1,5 +1,4 @@
-Lacrymaria striata Gulati, 1926 SPECIES
-=======
+# Lacrymaria striata Gulati, 1926 SPECIES
 
 #### Status
 ACCEPTED

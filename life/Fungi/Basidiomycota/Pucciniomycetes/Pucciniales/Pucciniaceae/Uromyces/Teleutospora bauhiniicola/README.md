@@ -1,5 +1,4 @@
-Teleutospora bauhiniicola Arthur & Bisby SPECIES
-=======
+# Teleutospora bauhiniicola Arthur & Bisby SPECIES
 
 #### Status
 ACCEPTED

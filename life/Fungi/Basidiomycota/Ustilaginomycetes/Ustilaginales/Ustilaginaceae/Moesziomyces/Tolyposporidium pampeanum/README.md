@@ -1,5 +1,4 @@
-Tolyposporidium pampeanum (Speg.) Thirum. & Neerg. SPECIES
-=======
+# Tolyposporidium pampeanum (Speg.) Thirum. & Neerg. SPECIES
 
 #### Status
 ACCEPTED

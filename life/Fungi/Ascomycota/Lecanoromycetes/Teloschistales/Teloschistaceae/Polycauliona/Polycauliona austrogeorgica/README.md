@@ -1,5 +1,4 @@
-Polycauliona austrogeorgica C.W. Dodge SPECIES
-=======
+# Polycauliona austrogeorgica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

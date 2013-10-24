@@ -1,5 +1,4 @@
-Endoscypha perforans Syd., 1924 SPECIES
-=======
+# Endoscypha perforans Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora sorokinii Sacc. SPECIES
-=======
+# Cercospora sorokinii Sacc. SPECIES
 
 #### Status
 ACCEPTED

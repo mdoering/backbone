@@ -1,5 +1,4 @@
-Entoloma eximium Romagn. ex Noordel. SPECIES
-=======
+# Entoloma eximium Romagn. ex Noordel. SPECIES
 
 #### Status
 ACCEPTED

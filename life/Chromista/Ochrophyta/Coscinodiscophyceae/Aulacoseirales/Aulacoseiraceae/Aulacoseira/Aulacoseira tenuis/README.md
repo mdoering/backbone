@@ -1,5 +1,4 @@
-Aulacoseira tenuis Krammer SPECIES
-=======
+# Aulacoseira tenuis Krammer SPECIES
 
 #### Status
 ACCEPTED

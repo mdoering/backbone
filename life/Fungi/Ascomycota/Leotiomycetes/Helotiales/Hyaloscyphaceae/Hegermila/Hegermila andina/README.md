@@ -1,14 +1,13 @@
-Erinella andina Pat. SPECIES
-=======
+# Hegermila andina (Pat.) Raitv., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Raitviir & Järv, Eesti Teaduste Akadeemia Toimetised, Bioloogia 44(1-2): 24 (1995)
 
 #### Original name
 Erinella andina Pat.

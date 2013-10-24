@@ -1,5 +1,4 @@
-Strobilomyces gilbertianus var. gilbertianus VARIETY
-=======
+# Strobilomyces gilbertianus Heinem. & Rammeloo SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Jard. Bot. Nat. Belg. 64(1-2): 215 (1995)
 
 #### Original name
-Strobilomyces gilbertianus var. gilbertianus
+Strobilomyces gilbertianus Heinem. & Rammeloo
 
 ### Remarks
 null

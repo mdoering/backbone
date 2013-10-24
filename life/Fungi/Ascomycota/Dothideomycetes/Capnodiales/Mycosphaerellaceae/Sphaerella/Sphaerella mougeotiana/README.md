@@ -1,5 +1,4 @@
-Sphaerella mougeotiana Sacc. SPECIES
-=======
+# Sphaerella mougeotiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxytoxum scolopax Stein SPECIES
-=======
+# Oxytoxum scolopax Stein SPECIES
 
 #### Status
 ACCEPTED

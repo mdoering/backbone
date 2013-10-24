@@ -1,5 +1,4 @@
-Tilletia schenckiana Henn. SPECIES
-=======
+# Tilletia schenckiana Henn. SPECIES
 
 #### Status
 ACCEPTED

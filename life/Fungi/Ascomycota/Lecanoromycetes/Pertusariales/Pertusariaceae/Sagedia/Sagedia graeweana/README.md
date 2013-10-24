@@ -1,5 +1,4 @@
-Sagedia graeweana Blomb. SPECIES
-=======
+# Sagedia graeweana Blomb. SPECIES
 
 #### Status
 ACCEPTED

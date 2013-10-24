@@ -1,5 +1,4 @@
-Meliola simillima Ellis & Everh. SPECIES
-=======
+# Meliola simillima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

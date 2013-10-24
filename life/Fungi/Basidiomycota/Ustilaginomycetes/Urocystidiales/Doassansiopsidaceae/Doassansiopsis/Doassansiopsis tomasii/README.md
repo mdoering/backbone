@@ -1,5 +1,4 @@
-Doassansiopsis tomasii Vánky, 2006 SPECIES
-=======
+# Doassansiopsis tomasii Vánky, 2006 SPECIES
 
 #### Status
 ACCEPTED

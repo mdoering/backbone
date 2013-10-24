@@ -1,5 +1,4 @@
-Fosliea Reinke, 1891 GENUS
-=======
+# Fosliea Reinke, 1891 GENUS
 
 #### Status
 ACCEPTED

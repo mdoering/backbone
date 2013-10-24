@@ -1,14 +1,13 @@
-Curvularia caryopsida (Sacc.) Teng SPECIES
-=======
+# Curvularia caryopsidum (Sacc.) Teng SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. Sci. Nat. Saône-et-Loire, ser. 2 760 (1964)
 
 #### Original name
 Helminthosporium caryopsidum Sacc.

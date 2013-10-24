@@ -1,17 +1,16 @@
-Umbilicaria virginis var. virginis VARIETY
-=======
+# Umbilicaria virginis Schaer. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Umbilicaria virginis var. virginis
+Umbilicaria virginis Schaer.
 
 ### Remarks
 null

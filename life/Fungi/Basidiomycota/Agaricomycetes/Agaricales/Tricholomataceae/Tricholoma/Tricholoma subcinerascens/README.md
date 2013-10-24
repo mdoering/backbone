@@ -1,5 +1,4 @@
-Tricholoma subcinerascens Rick SPECIES
-=======
+# Tricholoma subcinerascens Rick SPECIES
 
 #### Status
 ACCEPTED

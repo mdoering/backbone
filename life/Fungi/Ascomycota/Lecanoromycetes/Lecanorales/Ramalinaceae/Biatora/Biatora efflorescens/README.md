@@ -1,17 +1,16 @@
-Lecidea epixanthoidiza f. epixanthoidiza FORM
-=======
+# Biatora efflorescens (Hedl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Fenn. Exs. no. 133 (1935)
 
 #### Original name
-Lecidea epixanthoidiza f. epixanthoidiza
+Lecidea helvola f. efflorescens Nyl.
 
 ### Remarks
 null

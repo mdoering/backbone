@@ -1,5 +1,4 @@
-Nocardioides plantarum Collins et al., 1994 SPECIES
-=======
+# Nocardioides plantarum Collins et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

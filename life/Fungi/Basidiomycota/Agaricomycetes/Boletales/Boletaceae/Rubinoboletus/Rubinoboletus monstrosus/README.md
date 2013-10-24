@@ -1,5 +1,4 @@
-Rubinoboletus monstrosus Har. Takah. SPECIES
-=======
+# Rubinoboletus monstrosus Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

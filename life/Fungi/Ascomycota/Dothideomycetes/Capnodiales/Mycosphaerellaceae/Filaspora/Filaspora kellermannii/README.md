@@ -1,5 +1,4 @@
-Filaspora kellermannii (Ellis & G. Martin) Kuntze SPECIES
-=======
+# Filaspora kellermannii (Ellis & G. Martin) Kuntze SPECIES
 
 #### Status
 ACCEPTED

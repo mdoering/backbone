@@ -1,5 +1,4 @@
-Hollandosphaera Deflandre, 1973 GENUS
-=======
+# Hollandosphaera Deflandre, 1973 GENUS
 
 #### Status
 ACCEPTED

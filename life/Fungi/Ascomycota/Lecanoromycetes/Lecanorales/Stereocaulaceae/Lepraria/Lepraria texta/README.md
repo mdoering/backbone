@@ -1,5 +1,4 @@
-Lepraria texta K. Knudsen, Elix & Lendemer SPECIES
-=======
+# Lepraria texta K. Knudsen, Elix & Lendemer SPECIES
 
 #### Status
 ACCEPTED

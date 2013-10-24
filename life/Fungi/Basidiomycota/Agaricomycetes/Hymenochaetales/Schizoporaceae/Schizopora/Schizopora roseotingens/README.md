@@ -1,5 +1,4 @@
-Schizopora roseotingens Hjortstam & Ryvarden SPECIES
-=======
+# Schizopora roseotingens Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

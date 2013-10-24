@@ -1,5 +1,4 @@
-Reussella atlantica SPECIES
-=======
+# Reussella atlantica SPECIES
 
 #### Status
 ACCEPTED

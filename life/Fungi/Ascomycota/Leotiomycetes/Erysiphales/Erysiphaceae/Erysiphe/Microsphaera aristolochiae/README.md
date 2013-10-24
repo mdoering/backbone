@@ -1,5 +1,4 @@
-Microsphaera aristolochiae Y.N. Yu SPECIES
-=======
+# Microsphaera aristolochiae Y.N. Yu SPECIES
 
 #### Status
 ACCEPTED

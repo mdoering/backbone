@@ -1,5 +1,4 @@
-Lecanora cineracea Nyl. SPECIES
-=======
+# Lecanora cineracea Nyl. SPECIES
 
 #### Status
 ACCEPTED

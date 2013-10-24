@@ -1,5 +1,4 @@
-Ceracea aureofulva Bres. SPECIES
-=======
+# Ceracea aureofulva Bres. SPECIES
 
 #### Status
 ACCEPTED

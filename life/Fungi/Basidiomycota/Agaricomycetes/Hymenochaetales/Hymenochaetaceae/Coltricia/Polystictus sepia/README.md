@@ -1,5 +1,4 @@
-Polystictus sepia Lloyd SPECIES
-=======
+# Polystictus sepia Lloyd SPECIES
 
 #### Status
 ACCEPTED

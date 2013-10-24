@@ -1,5 +1,4 @@
-Sericeomyces GENUS
-=======
+# Sericeomyces GENUS
 
 #### Status
 ACCEPTED

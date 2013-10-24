@@ -1,5 +1,4 @@
-Cyclostephanos pliocenicus G.K. Khursevich & V.V. Mukhina SPECIES
-=======
+# Cyclostephanos pliocenicus G.K. Khursevich & V.V. Mukhina SPECIES
 
 #### Status
 ACCEPTED

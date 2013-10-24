@@ -1,5 +1,4 @@
-Terana kalchbrenneri (Sacc.) Kuntze SPECIES
-=======
+# Terana kalchbrenneri (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

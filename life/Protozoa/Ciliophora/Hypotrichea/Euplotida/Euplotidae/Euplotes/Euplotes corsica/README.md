@@ -1,5 +1,4 @@
-Euplotes corsica Berger & Foissner, 1989 SPECIES
-=======
+# Euplotes corsica Berger & Foissner, 1989 SPECIES
 
 #### Status
 ACCEPTED

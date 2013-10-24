@@ -1,5 +1,4 @@
-Dicaeoma gymnandrae (Tranzschel) Kuntze SPECIES
-=======
+# Dicaeoma gymnandrae (Tranzschel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

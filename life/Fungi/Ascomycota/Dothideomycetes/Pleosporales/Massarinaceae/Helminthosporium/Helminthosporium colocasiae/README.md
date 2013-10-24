@@ -1,5 +1,4 @@
-Helminthosporium colocasiae anon. SPECIES
-=======
+# Helminthosporium colocasiae anon. SPECIES
 
 #### Status
 ACCEPTED

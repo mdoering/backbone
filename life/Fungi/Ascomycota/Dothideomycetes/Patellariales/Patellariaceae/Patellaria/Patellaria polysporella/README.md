@@ -1,5 +1,4 @@
-Patellaria polysporella Müll. Arg. SPECIES
-=======
+# Patellaria polysporella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

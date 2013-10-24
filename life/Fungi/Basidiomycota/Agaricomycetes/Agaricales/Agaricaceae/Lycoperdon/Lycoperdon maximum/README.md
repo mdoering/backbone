@@ -1,5 +1,4 @@
-Lycoperdon maximum Schaeff. SPECIES
-=======
+# Lycoperdon maximum Schaeff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ramariopsis depokensis f. depokensis FORM
-=======
+# Clavulinopsis depokensis (Overeem) Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 70(3): 668 (1978)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 364 (1950)
 
 #### Original name
-Ramariopsis depokensis f. depokensis
+Clavaria depokensis Overeem, 1923
 
 ### Remarks
 null

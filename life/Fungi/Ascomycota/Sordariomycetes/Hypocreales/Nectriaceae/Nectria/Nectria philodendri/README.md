@@ -1,5 +1,4 @@
-Nectria philodendri Samuels & Brayford SPECIES
-=======
+# Nectria philodendri Samuels & Brayford SPECIES
 
 #### Status
 ACCEPTED

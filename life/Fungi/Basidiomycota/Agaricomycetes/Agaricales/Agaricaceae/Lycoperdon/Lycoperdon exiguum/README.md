@@ -1,5 +1,4 @@
-Lycoperdon exiguum Velen. SPECIES
-=======
+# Lycoperdon exiguum Velen. SPECIES
 
 #### Status
 ACCEPTED

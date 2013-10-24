@@ -1,5 +1,4 @@
-Oribacterium sinus Carlier et al., 2004 SPECIES
-=======
+# Oribacterium sinus Carlier et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

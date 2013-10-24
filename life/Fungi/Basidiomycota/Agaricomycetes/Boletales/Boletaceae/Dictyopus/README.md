@@ -1,5 +1,4 @@
-Dictyopus GENUS
-=======
+# Dictyopus GENUS
 
 #### Status
 ACCEPTED

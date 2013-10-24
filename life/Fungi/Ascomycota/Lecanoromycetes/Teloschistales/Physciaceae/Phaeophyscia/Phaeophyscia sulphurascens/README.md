@@ -1,5 +1,4 @@
-Phaeophyscia sulphurascens (Zahlbr.) Trass SPECIES
-=======
+# Phaeophyscia sulphurascens (Zahlbr.) Trass SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermobacillus xylanilyticus Touzel et al., 2000 SPECIES
-=======
+# Thermobacillus xylanilyticus Touzel et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

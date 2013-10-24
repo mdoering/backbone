@@ -1,5 +1,4 @@
-Hertelidea wankaensis Kantvilas & Elix SPECIES
-=======
+# Hertelidea wankaensis Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

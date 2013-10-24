@@ -1,5 +1,4 @@
-Biatora irrubata (Ach.) Kernst. SPECIES
-=======
+# Biatora irrubata (Ach.) Kernst. SPECIES
 
 #### Status
 ACCEPTED

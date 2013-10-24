@@ -1,5 +1,4 @@
-Volvaria terastria (Berk. & Broome) Sacc. SPECIES
-=======
+# Volvaria terastria (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

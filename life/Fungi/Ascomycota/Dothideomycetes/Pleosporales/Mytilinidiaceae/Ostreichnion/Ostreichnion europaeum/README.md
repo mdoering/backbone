@@ -1,5 +1,4 @@
-Ostreichnion europaeum Duby SPECIES
-=======
+# Ostreichnion europaeum Duby SPECIES
 
 #### Status
 ACCEPTED

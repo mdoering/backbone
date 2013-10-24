@@ -1,5 +1,4 @@
-Pucciniosira holwayi H.S. Jacks., 1932 SPECIES
-=======
+# Pucciniosira holwayi H.S. Jacks., 1932 SPECIES
 
 #### Status
 ACCEPTED

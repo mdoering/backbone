@@ -1,5 +1,4 @@
-Lecythea speciosa Peck SPECIES
-=======
+# Lecythea speciosa Peck SPECIES
 
 #### Status
 ACCEPTED

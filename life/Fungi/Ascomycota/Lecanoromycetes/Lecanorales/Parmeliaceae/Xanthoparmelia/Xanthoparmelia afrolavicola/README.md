@@ -1,5 +1,4 @@
-Xanthoparmelia afrolavicola Hale SPECIES
-=======
+# Xanthoparmelia afrolavicola Hale SPECIES
 
 #### Status
 ACCEPTED

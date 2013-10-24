@@ -1,5 +1,4 @@
-Caloplaca endodermia Wetmore SPECIES
-=======
+# Caloplaca endodermia Wetmore SPECIES
 
 #### Status
 ACCEPTED

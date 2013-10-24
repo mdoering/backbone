@@ -1,5 +1,4 @@
-Dothiora valdiviana Butin SPECIES
-=======
+# Dothiora valdiviana Butin SPECIES
 
 #### Status
 ACCEPTED

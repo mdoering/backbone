@@ -1,5 +1,4 @@
-Lactobacillus plantarum subsp. plantarum SUBSPECIES
-=======
+# Lactobacillus plantarum (Orla-Jensen, 1919) Bergey et al., 1923 SPECIES
 
 #### Status
 ACCEPTED

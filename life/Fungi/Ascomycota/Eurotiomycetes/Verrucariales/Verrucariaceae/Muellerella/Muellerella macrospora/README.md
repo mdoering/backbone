@@ -1,14 +1,13 @@
-Muellerella müllerella (Servít) Servít SPECIES
-=======
+# Muellerella macrospora (Servít) Servít SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Stud. Bot. Cechoslav. 9(2-4): 113 (1948)
 
 #### Original name
 Verrucaria interlatens f. macrospora Servít

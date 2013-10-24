@@ -1,5 +1,4 @@
-Brevibacterium fermentans Chatelain and Second, 1966 (Approved Lists, 1980) SPECIES
-=======
+# Brevibacterium fermentans Chatelain and Second, 1966 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

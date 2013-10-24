@@ -1,5 +1,4 @@
-Plectonema volkensii Schmidle SPECIES
-=======
+# Plectonema volkensii Schmidle SPECIES
 
 #### Status
 ACCEPTED

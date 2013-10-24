@@ -1,5 +1,4 @@
-Neoramularia asteris (Solheim) U. Braun SPECIES
-=======
+# Neoramularia asteris (Solheim) U. Braun SPECIES
 
 #### Status
 ACCEPTED

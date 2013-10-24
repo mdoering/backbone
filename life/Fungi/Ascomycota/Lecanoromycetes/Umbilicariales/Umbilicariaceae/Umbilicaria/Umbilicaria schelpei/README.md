@@ -1,5 +1,4 @@
-Umbilicaria schelpei Frey SPECIES
-=======
+# Umbilicaria schelpei Frey SPECIES
 
 #### Status
 ACCEPTED

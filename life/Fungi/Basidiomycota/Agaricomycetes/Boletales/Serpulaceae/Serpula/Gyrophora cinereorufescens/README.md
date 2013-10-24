@@ -1,5 +1,4 @@
-Gyrophora cinereorufescens (Schaer.) Schol. SPECIES
-=======
+# Gyrophora cinereorufescens (Schaer.) Schol. SPECIES
 
 #### Status
 ACCEPTED

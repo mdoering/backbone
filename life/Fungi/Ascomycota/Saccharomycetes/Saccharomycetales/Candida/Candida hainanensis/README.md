@@ -1,5 +1,4 @@
-Candida hainanensis F.Y. Bai & S.A. Wang SPECIES
-=======
+# Candida hainanensis F.Y. Bai & S.A. Wang SPECIES
 
 #### Status
 ACCEPTED

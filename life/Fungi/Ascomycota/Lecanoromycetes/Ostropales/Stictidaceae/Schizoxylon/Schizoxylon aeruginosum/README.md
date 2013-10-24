@@ -1,5 +1,4 @@
-Schizoxylon aeruginosum Fuckel SPECIES
-=======
+# Schizoxylon aeruginosum Fuckel SPECIES
 
 #### Status
 ACCEPTED

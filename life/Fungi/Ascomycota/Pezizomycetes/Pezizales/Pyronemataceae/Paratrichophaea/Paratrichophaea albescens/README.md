@@ -1,5 +1,4 @@
-Paratrichophaea albescens (Dissing & Raitv.) T. Schumach. SPECIES
-=======
+# Paratrichophaea albescens (Dissing & Raitv.) T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

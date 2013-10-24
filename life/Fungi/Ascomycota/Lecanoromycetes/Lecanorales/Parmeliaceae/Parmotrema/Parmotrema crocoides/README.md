@@ -1,5 +1,4 @@
-Parmotrema crocoides (Hale) Hale SPECIES
-=======
+# Parmotrema crocoides (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

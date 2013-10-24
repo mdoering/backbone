@@ -1,5 +1,4 @@
-Hebelomatis versipelle (Fr.) Locq. SPECIES
-=======
+# Hebelomatis versipelle (Fr.) Locq. SPECIES
 
 #### Status
 ACCEPTED

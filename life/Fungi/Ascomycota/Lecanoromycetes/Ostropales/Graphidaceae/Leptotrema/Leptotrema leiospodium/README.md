@@ -1,5 +1,4 @@
-Leptotrema leiospodium (Nyl.) Zahlbr. SPECIES
-=======
+# Leptotrema leiospodium (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

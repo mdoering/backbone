@@ -1,5 +1,4 @@
-Stephanospora Prema & Janardanan, 1989 GENUS
-=======
+# Stephanospora Prema & Janardanan, 1989 GENUS
 
 #### Status
 ACCEPTED

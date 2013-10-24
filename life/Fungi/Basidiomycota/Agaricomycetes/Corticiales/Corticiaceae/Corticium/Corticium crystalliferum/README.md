@@ -1,5 +1,4 @@
-Corticium crystalliferum Rick SPECIES
-=======
+# Corticium crystalliferum Rick SPECIES
 
 #### Status
 ACCEPTED

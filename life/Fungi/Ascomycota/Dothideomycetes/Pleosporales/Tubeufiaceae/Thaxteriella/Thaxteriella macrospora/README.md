@@ -1,5 +1,4 @@
-Thaxteriella macrospora (V.G. Rao & Varghese) J.L. Crane, Shearer & M.E. Barr SPECIES
-=======
+# Thaxteriella macrospora (V.G. Rao & Varghese) J.L. Crane, Shearer & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

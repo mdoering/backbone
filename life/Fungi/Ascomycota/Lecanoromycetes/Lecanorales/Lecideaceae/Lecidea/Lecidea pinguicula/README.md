@@ -1,5 +1,4 @@
-Lecidea pinguicula (Bagl. & Carestia) SPECIES
-=======
+# Lecidea pinguicula (Bagl. & Carestia) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Uromyces magnusii f. sp FORM
-=======
+# Uromyces magnusii Kleb., 1913 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 42(4): 336 (1978)
+Krypt. -Fl. Brandenburg (Leipzig) 5a(2): 236 (1913)
 
 #### Original name
-Uromyces magnusii f. sp
+Uromyces magnusii Kleb., 1913
 
 ### Remarks
 null

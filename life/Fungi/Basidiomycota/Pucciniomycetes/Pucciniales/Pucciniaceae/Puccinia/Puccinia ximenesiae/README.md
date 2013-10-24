@@ -1,5 +1,4 @@
-Puccinia ximenesiae Long SPECIES
-=======
+# Puccinia ximenesiae Long SPECIES
 
 #### Status
 ACCEPTED

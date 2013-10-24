@@ -1,5 +1,4 @@
-Peckiella apiospora (Cooke) Sacc. SPECIES
-=======
+# Peckiella apiospora (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

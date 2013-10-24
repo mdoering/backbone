@@ -1,5 +1,4 @@
-Scopulariopsis acremonium (Delacr.) Vuill., 1911 SPECIES
-=======
+# Scopulariopsis acremonium (Delacr.) Vuill., 1911 SPECIES
 
 #### Status
 ACCEPTED

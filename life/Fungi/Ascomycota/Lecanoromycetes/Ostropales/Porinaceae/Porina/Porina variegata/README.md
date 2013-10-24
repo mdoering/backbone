@@ -1,5 +1,4 @@
-Porina variegata Fée SPECIES
-=======
+# Porina variegata Fée SPECIES
 
 #### Status
 ACCEPTED

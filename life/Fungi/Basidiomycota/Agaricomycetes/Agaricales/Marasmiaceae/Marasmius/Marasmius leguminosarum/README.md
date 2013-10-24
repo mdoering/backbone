@@ -1,5 +1,4 @@
-Marasmius leguminosarum Singer SPECIES
-=======
+# Marasmius leguminosarum Singer SPECIES
 
 #### Status
 ACCEPTED

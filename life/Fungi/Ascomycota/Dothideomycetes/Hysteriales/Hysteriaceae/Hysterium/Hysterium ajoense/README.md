@@ -1,5 +1,4 @@
-Hysterium ajoense Speg. SPECIES
-=======
+# Hysterium ajoense Speg. SPECIES
 
 #### Status
 ACCEPTED

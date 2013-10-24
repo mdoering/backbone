@@ -1,5 +1,4 @@
-Colletotrichum memecyli Narendra & V.G. Rao SPECIES
-=======
+# Colletotrichum memecyli Narendra & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

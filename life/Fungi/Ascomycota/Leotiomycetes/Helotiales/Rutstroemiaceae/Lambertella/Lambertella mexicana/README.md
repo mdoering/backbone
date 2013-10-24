@@ -1,5 +1,4 @@
-Lambertella mexicana Dumont SPECIES
-=======
+# Lambertella mexicana Dumont SPECIES
 
 #### Status
 ACCEPTED

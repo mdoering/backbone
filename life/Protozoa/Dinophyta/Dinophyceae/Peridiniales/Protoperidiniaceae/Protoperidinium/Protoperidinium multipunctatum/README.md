@@ -1,5 +1,4 @@
-Protoperidinium multipunctatum (Fauré-Fremiet, 1908) Balech, 1994 SPECIES
-=======
+# Protoperidinium multipunctatum (Fauré-Fremiet, 1908) Balech, 1994 SPECIES
 
 #### Status
 ACCEPTED

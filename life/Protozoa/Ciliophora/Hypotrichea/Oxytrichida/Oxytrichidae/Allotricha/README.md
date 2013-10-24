@@ -1,5 +1,4 @@
-Allotricha Sterki, 1878 GENUS
-=======
+# Allotricha Sterki, 1878 GENUS
 
 #### Status
 ACCEPTED

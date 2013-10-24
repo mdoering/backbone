@@ -1,17 +1,16 @@
-Mucor reflexus (Bainier) Mig., 1910 SPECIES
-=======
+# Rhizopus lyococcus (Ehrenb.) G.Y. Liou, F.L. Lee, G.F. Yuan & Stalpers, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Krypt. -Fl. Deutschl. , Deutsch-Oesterreich und der Schweiz 3(1): 197 (1910)
+in Liou, Chen, Wei, Lee, Fu, Yuan & Stalpers, Mycol. Res. 111(2): 199 (2007)
 
 #### Original name
-Rhizopus reflexus Bainier, 1880
+Sporotrichum lyococcum Ehrenb., 1818
 
 ### Remarks
 null

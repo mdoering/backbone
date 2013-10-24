@@ -1,5 +1,4 @@
-Macrophoma cordylines N.D. Sharma SPECIES
-=======
+# Macrophoma cordylines N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia porrigens Thaxt. SPECIES
-=======
+# Laboulbenia porrigens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

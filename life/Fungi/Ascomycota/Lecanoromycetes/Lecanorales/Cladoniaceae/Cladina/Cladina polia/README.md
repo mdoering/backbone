@@ -1,5 +1,4 @@
-Cladina polia (R. Sant.) W.A. Weber SPECIES
-=======
+# Cladina polia (R. Sant.) W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

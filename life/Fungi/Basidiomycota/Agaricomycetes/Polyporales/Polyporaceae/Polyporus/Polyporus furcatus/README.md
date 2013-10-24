@@ -1,5 +1,4 @@
-Polyporus furcatus Jungh. SPECIES
-=======
+# Polyporus furcatus Jungh. SPECIES
 
 #### Status
 ACCEPTED

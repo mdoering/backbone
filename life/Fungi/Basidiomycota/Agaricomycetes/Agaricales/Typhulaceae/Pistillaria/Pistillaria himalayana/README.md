@@ -1,5 +1,4 @@
-Pistillaria himalayana Corner SPECIES
-=======
+# Pistillaria himalayana Corner SPECIES
 
 #### Status
 ACCEPTED

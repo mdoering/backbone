@@ -1,5 +1,4 @@
-Peziza vulcanalis Peck SPECIES
-=======
+# Peziza vulcanalis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gorynielaa Timofeev, 1973 GENUS
-=======
+# Gorynielaa Timofeev, 1973 GENUS
 
 #### Status
 ACCEPTED

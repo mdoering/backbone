@@ -1,17 +1,16 @@
-Xylaria rhopaloides var. rhopaloides VARIETY
-=======
+# Xylaria rhopaloides (Kunze) Mont., 1855 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. nat. 3: 99 (1855)
 
 #### Original name
-null
+Sphaeria rhopaloides Kunze, 1817
 
 ### Remarks
 null

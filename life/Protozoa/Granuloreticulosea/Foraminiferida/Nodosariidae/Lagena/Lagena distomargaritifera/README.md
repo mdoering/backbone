@@ -1,5 +1,4 @@
-Lagena distomargaritifera Jones & Parker SPECIES
-=======
+# Lagena distomargaritifera Jones & Parker SPECIES
 
 #### Status
 ACCEPTED

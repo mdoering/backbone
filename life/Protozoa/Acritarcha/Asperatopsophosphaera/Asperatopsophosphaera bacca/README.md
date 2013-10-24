@@ -1,5 +1,4 @@
-Asperatopsophosphaera bacca Chen Jinbiao et al., 1980 SPECIES
-=======
+# Asperatopsophosphaera bacca Chen Jinbiao et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

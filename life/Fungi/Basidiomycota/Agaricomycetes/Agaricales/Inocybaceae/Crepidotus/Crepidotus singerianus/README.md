@@ -1,5 +1,4 @@
-Crepidotus singerianus Courtec. SPECIES
-=======
+# Crepidotus singerianus Courtec. SPECIES
 
 #### Status
 ACCEPTED

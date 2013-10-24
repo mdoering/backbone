@@ -1,5 +1,4 @@
-Puccinia cylindrica Opiz SPECIES
-=======
+# Puccinia cylindrica Opiz SPECIES
 
 #### Status
 ACCEPTED

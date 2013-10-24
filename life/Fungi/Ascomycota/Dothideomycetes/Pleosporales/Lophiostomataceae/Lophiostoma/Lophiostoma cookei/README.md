@@ -1,5 +1,4 @@
-Lophiostoma cookei Nitschke SPECIES
-=======
+# Lophiostoma cookei Nitschke SPECIES
 
 #### Status
 ACCEPTED

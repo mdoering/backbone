@@ -1,5 +1,4 @@
-Stokesiella Lemmermann, 1908 GENUS
-=======
+# Stokesiella Lemmermann, 1908 GENUS
 
 #### Status
 ACCEPTED

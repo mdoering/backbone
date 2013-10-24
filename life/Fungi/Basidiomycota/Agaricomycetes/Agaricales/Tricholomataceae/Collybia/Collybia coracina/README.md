@@ -1,5 +1,4 @@
-Collybia coracina var. coracina VARIETY
-=======
+# Collybia coracina (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hyménomycètes (Alençon) 307 (1876)
 
 #### Original name
-Collybia coracina var. coracina
+Agaricus coracinus Fr.
 
 ### Remarks
 null

@@ -1,11 +1,10 @@
-Discella carbonacea var. carbonacea VARIETY
-=======
+# Discella carbonacea SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+NUB Generator [implicit canonical]
 
 #### Published in
 null

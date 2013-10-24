@@ -1,5 +1,4 @@
-Goniosphaeridium granosum Khanna, 1984 SPECIES
-=======
+# Goniosphaeridium granosum Khanna, 1984 SPECIES
 
 #### Status
 ACCEPTED

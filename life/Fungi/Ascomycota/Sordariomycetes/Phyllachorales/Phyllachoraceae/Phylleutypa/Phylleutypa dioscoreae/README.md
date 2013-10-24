@@ -1,14 +1,13 @@
-Bagnisiopsis dioscoreae Wakef., 1918 SPECIES
-=======
+# Phylleutypa dioscoreae (Wakef.) Petr., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 201 (1918)
+Annls mycol. 32: 429 (1934)
 
 #### Original name
 Bagnisiopsis dioscoreae Wakef., 1918

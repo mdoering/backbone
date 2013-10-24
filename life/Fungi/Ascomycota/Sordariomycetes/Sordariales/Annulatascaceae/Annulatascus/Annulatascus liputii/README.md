@@ -1,5 +1,4 @@
-Annulatascus liputii L. Cai & K.D. Hyde SPECIES
-=======
+# Annulatascus liputii L. Cai & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

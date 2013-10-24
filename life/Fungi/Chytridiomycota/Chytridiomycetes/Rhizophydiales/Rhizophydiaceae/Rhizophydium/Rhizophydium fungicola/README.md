@@ -1,5 +1,4 @@
-Rhizophydium fungicola Zimm. SPECIES
-=======
+# Rhizophydium fungicola Zimm. SPECIES
 
 #### Status
 ACCEPTED

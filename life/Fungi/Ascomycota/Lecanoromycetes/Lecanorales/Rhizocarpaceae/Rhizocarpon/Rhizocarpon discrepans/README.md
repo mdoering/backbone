@@ -1,5 +1,4 @@
-Rhizocarpon discrepans Samp. SPECIES
-=======
+# Rhizocarpon discrepans Samp. SPECIES
 
 #### Status
 ACCEPTED

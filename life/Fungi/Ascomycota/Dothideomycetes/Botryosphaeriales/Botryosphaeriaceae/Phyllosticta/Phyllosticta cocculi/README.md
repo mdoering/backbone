@@ -1,5 +1,4 @@
-Phyllosticta cocculi Thüm. SPECIES
-=======
+# Phyllosticta cocculi Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia fastigiata (Pers.) DC. SPECIES
-=======
+# Physcia fastigiata (Pers.) DC. SPECIES
 
 #### Status
 ACCEPTED

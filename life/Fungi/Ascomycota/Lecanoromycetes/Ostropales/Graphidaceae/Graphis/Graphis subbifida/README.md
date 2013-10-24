@@ -1,5 +1,4 @@
-Graphis subbifida Zenker SPECIES
-=======
+# Graphis subbifida Zenker SPECIES
 
 #### Status
 ACCEPTED

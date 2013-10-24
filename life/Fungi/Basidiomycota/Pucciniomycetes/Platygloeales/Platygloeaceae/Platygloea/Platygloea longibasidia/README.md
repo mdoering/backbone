@@ -1,5 +1,4 @@
-Platygloea longibasidia Lowy SPECIES
-=======
+# Platygloea longibasidia Lowy SPECIES
 
 #### Status
 ACCEPTED

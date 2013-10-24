@@ -1,5 +1,4 @@
-Psathyrella glandispora Pegler SPECIES
-=======
+# Psathyrella glandispora Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Karstenula antiqua (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Karstenula antiqua (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

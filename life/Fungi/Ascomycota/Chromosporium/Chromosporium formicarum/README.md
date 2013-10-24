@@ -1,5 +1,4 @@
-Chromosporium formicarum Ferd. & Winge SPECIES
-=======
+# Chromosporium formicarum Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum delicatulum Klotzsch SPECIES
-=======
+# Hydnum delicatulum Klotzsch SPECIES
 
 #### Status
 ACCEPTED

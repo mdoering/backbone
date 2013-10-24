@@ -1,5 +1,4 @@
-Elphidium aculeatum (d'Orbigny, 1846) SPECIES
-=======
+# Elphidium aculeatum (d'Orbigny, 1846) SPECIES
 
 #### Status
 ACCEPTED

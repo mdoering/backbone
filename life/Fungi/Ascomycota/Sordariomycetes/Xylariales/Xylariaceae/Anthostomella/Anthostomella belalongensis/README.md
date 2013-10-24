@@ -1,5 +1,4 @@
-Anthostomella belalongensis K.D. Hyde, 1996 SPECIES
-=======
+# Anthostomella belalongensis K.D. Hyde, 1996 SPECIES
 
 #### Status
 ACCEPTED

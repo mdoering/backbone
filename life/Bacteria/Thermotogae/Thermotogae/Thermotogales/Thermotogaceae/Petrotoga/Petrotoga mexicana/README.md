@@ -1,5 +1,4 @@
-Petrotoga mexicana Miranda-Tello et al., 2004 SPECIES
-=======
+# Petrotoga mexicana Miranda-Tello et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

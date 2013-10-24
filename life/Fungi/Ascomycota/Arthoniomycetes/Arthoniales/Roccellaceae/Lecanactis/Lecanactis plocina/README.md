@@ -1,5 +1,4 @@
-Lecanactis plocina f. plocina FORM
-=======
+# Lecanactis plocina (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 271 (1860)
 
 #### Original name
-Lecanactis plocina f. plocina
+Lecidea plocina Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Globigerinella Cushman, 1927 GENUS
-=======
+# Globigerinella Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormiella clavispora Guarro, Calvo & C. Ramírez SPECIES
-=======
+# Sporormiella clavispora Guarro, Calvo & C. Ramírez SPECIES
 
 #### Status
 ACCEPTED

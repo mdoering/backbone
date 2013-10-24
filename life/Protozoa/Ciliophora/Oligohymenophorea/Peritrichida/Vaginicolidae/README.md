@@ -1,5 +1,4 @@
-Vaginicolidae de Fromentel, 1874 FAMILY
-=======
+# Vaginicolidae de Fromentel, 1874 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleophoma apatela (Allesch.) Aa SPECIES
-=======
+# Coleophoma apatela (Allesch.) Aa SPECIES
 
 #### Status
 ACCEPTED

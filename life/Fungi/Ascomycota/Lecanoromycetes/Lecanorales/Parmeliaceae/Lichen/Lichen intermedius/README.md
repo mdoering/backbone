@@ -1,5 +1,4 @@
-Lichen intermedius SPECIES
-=======
+# Lichen intermedius SPECIES
 
 #### Status
 ACCEPTED

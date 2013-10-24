@@ -1,5 +1,4 @@
-Pluteus spinosae Velen. SPECIES
-=======
+# Pluteus spinosae Velen. SPECIES
 
 #### Status
 ACCEPTED

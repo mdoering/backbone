@@ -1,5 +1,4 @@
-Fitzpatrickella Benny, Samuelson & Kimbr. GENUS
-=======
+# Fitzpatrickella Benny, Samuelson & Kimbr. GENUS
 
 #### Status
 ACCEPTED

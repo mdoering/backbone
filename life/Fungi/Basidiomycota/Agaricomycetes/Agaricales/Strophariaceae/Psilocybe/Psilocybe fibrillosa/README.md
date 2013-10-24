@@ -1,5 +1,4 @@
-Psilocybe fibrillosa (Pers.) Henn. SPECIES
-=======
+# Psilocybe fibrillosa (Pers.) Henn. SPECIES
 
 #### Status
 ACCEPTED

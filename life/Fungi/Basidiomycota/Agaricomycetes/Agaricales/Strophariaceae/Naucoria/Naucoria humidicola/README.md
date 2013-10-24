@@ -1,5 +1,4 @@
-Naucoria humidicola Murrill SPECIES
-=======
+# Naucoria humidicola Murrill SPECIES
 
 #### Status
 ACCEPTED

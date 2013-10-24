@@ -1,5 +1,4 @@
-Hystrichosphaeropsis ovum Deflandre, 1935 SPECIES
-=======
+# Hystrichosphaeropsis ovum Deflandre, 1935 SPECIES
 
 #### Status
 ACCEPTED

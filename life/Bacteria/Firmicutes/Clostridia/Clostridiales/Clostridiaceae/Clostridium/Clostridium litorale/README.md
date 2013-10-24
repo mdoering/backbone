@@ -1,5 +1,4 @@
-Clostridium litorale Fendrich et al., 1991 SPECIES
-=======
+# Clostridium litorale Fendrich et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

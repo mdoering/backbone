@@ -1,5 +1,4 @@
-Dendrodochium gigasporum Bres. & Sacc. SPECIES
-=======
+# Dendrodochium gigasporum Bres. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

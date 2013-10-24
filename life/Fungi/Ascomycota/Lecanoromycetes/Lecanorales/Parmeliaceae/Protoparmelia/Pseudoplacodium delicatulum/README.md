@@ -1,5 +1,4 @@
-Pseudoplacodium delicatulum Motyka SPECIES
-=======
+# Pseudoplacodium delicatulum Motyka SPECIES
 
 #### Status
 ACCEPTED

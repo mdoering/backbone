@@ -1,5 +1,4 @@
-Cochlodinium scintillans Kofoid & Swezy, 1921 SPECIES
-=======
+# Cochlodinium scintillans Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

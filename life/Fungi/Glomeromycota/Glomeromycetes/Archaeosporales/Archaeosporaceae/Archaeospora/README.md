@@ -1,5 +1,4 @@
-Archaeospora Morton & Redecker GENUS
-=======
+# Archaeospora Morton & Redecker GENUS
 
 #### Status
 ACCEPTED

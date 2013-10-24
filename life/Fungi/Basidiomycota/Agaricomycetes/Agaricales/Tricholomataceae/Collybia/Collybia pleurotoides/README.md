@@ -1,5 +1,4 @@
-Collybia pleurotoides Dennis SPECIES
-=======
+# Collybia pleurotoides Dennis SPECIES
 
 #### Status
 ACCEPTED

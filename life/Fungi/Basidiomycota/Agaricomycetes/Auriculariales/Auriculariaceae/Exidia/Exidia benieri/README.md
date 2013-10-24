@@ -1,5 +1,4 @@
-Exidia benieri Pat. SPECIES
-=======
+# Exidia benieri Pat. SPECIES
 
 #### Status
 ACCEPTED

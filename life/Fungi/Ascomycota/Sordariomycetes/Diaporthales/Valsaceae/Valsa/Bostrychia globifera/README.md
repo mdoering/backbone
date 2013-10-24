@@ -1,5 +1,4 @@
-Bostrychia globifera Kunze SPECIES
-=======
+# Bostrychia globifera Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea intercalans Nyl. SPECIES
-=======
+# Lecidea intercalans Nyl. SPECIES
 
 #### Status
 ACCEPTED

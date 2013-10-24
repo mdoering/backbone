@@ -1,5 +1,4 @@
-Resigia Schnitker & Tjalsma, 1980 GENUS
-=======
+# Resigia Schnitker & Tjalsma, 1980 GENUS
 
 #### Status
 ACCEPTED

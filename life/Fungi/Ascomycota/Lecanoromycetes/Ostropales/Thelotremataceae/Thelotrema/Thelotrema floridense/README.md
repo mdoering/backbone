@@ -1,5 +1,4 @@
-Thelotrema floridense R.C. Harris SPECIES
-=======
+# Thelotrema floridense R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

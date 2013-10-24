@@ -1,5 +1,4 @@
-Celidium varians var. varians VARIETY
-=======
+# Celidium varians SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Celidium varians var. varians
+null
 
 ### Remarks
 null

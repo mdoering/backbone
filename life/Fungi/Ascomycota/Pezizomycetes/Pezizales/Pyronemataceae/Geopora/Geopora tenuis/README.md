@@ -1,17 +1,16 @@
-Lachnea tenuis var. tenuis (Fuckel) Sacc. VARIETY
-=======
+# Geopora tenuis (Fuckel) T. Schumach., 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 167 (1889)
+Norw. Jl Bot. 26(1): 56 (1979)
 
 #### Original name
-Lachnea tenuis var. tenuis (Fuckel) Sacc.
+Humaria tenuis Fuckel, 1871
 
 ### Remarks
 null

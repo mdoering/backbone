@@ -1,5 +1,4 @@
-Stipitochrysis monorhiza Korshikov SPECIES
-=======
+# Stipitochrysis monorhiza Korshikov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora brachypus Ellis & Everh. SPECIES
-=======
+# Cercospora brachypus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

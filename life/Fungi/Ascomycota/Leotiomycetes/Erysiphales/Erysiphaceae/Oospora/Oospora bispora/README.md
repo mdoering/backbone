@@ -1,5 +1,4 @@
-Oospora bispora Jasevoli SPECIES
-=======
+# Oospora bispora Jasevoli SPECIES
 
 #### Status
 ACCEPTED

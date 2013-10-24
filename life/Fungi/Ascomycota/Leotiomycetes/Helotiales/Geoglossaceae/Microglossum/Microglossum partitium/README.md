@@ -1,5 +1,4 @@
-Microglossum partitium Pat. SPECIES
-=======
+# Microglossum partitium Pat. SPECIES
 
 #### Status
 ACCEPTED

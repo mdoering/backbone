@@ -1,5 +1,4 @@
-Puccinia longinqua Cummins SPECIES
-=======
+# Puccinia longinqua Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Laboulbenia tavaresae Balazuc SPECIES
-=======
+# Laboulbenia tavaresiae Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 43(4): 400 (1979)
 
 #### Original name
-Laboulbenia tavaresae Balazuc
+Laboulbenia tavaresiae Balazuc
 
 ### Remarks
 null

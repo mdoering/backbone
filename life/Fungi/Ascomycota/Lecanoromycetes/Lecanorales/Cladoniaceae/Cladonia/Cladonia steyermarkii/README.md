@@ -1,5 +1,4 @@
-Cladonia steyermarkii Ahti SPECIES
-=======
+# Cladonia steyermarkii Ahti SPECIES
 
 #### Status
 ACCEPTED

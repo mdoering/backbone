@@ -1,5 +1,4 @@
-Calicium carpaticum (Nádv.) Oxner SPECIES
-=======
+# Calicium carpaticum (Nádv.) Oxner SPECIES
 
 #### Status
 ACCEPTED

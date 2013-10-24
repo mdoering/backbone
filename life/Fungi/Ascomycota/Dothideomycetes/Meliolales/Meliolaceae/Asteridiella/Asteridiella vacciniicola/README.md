@@ -1,5 +1,4 @@
-Asteridiella vacciniicola Hansf. SPECIES
-=======
+# Asteridiella vacciniicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

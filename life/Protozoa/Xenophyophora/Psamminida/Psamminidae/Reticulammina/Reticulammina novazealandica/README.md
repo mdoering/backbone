@@ -1,5 +1,4 @@
-Reticulammina novazealandica Tendal, 1972 SPECIES
-=======
+# Reticulammina novazealandica Tendal, 1972 SPECIES
 
 #### Status
 ACCEPTED

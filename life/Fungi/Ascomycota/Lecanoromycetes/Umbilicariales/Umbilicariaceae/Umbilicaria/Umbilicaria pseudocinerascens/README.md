@@ -1,5 +1,4 @@
-Umbilicaria pseudocinerascens J.C. Wei & Y.M. Jiang SPECIES
-=======
+# Umbilicaria pseudocinerascens J.C. Wei & Y.M. Jiang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenopsora crenata (Herre) Zahlbr. SPECIES
-=======
+# Solenopsora crenata (Herre) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

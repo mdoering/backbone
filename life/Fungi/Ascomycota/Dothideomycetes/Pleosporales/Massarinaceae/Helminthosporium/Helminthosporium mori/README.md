@@ -1,5 +1,4 @@
-Helminthosporium mori Hara SPECIES
-=======
+# Helminthosporium mori Hara SPECIES
 
 #### Status
 ACCEPTED

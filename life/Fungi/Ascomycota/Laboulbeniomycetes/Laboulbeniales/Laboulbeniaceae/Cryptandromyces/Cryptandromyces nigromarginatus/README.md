@@ -1,5 +1,4 @@
-Cryptandromyces nigromarginatus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Cryptandromyces nigromarginatus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

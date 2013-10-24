@@ -1,5 +1,4 @@
-Lecidea owaniana Müll. Arg. SPECIES
-=======
+# Lecidea owaniana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discorbis rarescens (Brady, 1884) SPECIES
-=======
+# Discorbis rarescens (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

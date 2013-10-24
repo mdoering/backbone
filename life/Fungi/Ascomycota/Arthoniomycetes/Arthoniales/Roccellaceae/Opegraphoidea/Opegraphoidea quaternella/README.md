@@ -1,5 +1,4 @@
-Opegraphoidea quaternella (Nyl.) Fink SPECIES
-=======
+# Opegraphoidea quaternella (Nyl.) Fink SPECIES
 
 #### Status
 ACCEPTED

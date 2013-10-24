@@ -1,5 +1,4 @@
-Lecanora badiola Müll. Arg. SPECIES
-=======
+# Lecanora badiola Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Leathesia berkeleyi (Greville) Harvey SPECIES
-=======
+# Petrospongium berkeleyi (Greville) Nägeli ex Kützing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

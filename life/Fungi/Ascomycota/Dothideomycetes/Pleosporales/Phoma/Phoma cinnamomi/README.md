@@ -1,5 +1,4 @@
-Phoma cinnamomi Sacc. SPECIES
-=======
+# Phoma cinnamomi Sacc. SPECIES
 
 #### Status
 ACCEPTED

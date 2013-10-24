@@ -1,5 +1,4 @@
-Acremonium brunnescens W. Gams, 1975 SPECIES
-=======
+# Acremonium brunnescens W. Gams, 1975 SPECIES
 
 #### Status
 ACCEPTED

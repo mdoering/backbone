@@ -1,5 +1,4 @@
-Irene seminata (Berk. & M.A. Curtis) Seaver & Chardón SPECIES
-=======
+# Irene seminata (Berk. & M.A. Curtis) Seaver & Chardón SPECIES
 
 #### Status
 ACCEPTED

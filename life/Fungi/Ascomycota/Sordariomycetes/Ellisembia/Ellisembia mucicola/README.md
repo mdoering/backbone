@@ -1,5 +1,4 @@
-Ellisembia mucicola W.P. Wu SPECIES
-=======
+# Ellisembia mucicola W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

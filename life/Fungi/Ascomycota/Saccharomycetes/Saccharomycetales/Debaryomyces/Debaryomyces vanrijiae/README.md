@@ -1,14 +1,13 @@
-Debaryomyces vanriji (Van der Walt & Tscheuschner) Abadie, Pignal & J.L. Jacob SPECIES
-=======
+# Debaryomyces vanrijiae (Van der Walt & Tscheuschner) Abadie, Pignal & J.L. Jacob SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 79: 36 (1963)
 
 #### Original name
 Pichia vanrijiae Van der Walt & Tscheuschner, 1956

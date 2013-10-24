@@ -1,5 +1,4 @@
-Sphaeria ignobilis P. Karst. SPECIES
-=======
+# Sphaeria ignobilis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

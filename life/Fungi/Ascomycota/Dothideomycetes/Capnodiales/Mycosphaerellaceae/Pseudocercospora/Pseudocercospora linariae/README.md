@@ -1,5 +1,4 @@
-Pseudocercospora linariae (Chidd.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora linariae (Chidd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

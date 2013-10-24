@@ -1,5 +1,4 @@
-Nolanea mammifera (Romagn.) Pegler SPECIES
-=======
+# Nolanea mammifera (Romagn.) Pegler SPECIES
 
 #### Status
 ACCEPTED

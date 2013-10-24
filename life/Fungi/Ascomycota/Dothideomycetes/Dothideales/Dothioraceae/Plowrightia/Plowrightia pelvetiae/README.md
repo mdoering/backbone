@@ -1,5 +1,4 @@
-Plowrightia pelvetiae Gonz. Frag. SPECIES
-=======
+# Plowrightia pelvetiae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyopolyschema pirozynskii M.B. Ellis, 1976 SPECIES
-=======
+# Dictyopolyschema pirozynskii M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

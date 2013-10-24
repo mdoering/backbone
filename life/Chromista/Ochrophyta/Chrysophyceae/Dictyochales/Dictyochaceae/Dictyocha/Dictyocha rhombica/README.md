@@ -1,5 +1,4 @@
-Dictyocha rhombica (P. Schulz) Deflandre SPECIES
-=======
+# Dictyocha rhombica (P. Schulz) Deflandre SPECIES
 
 #### Status
 ACCEPTED

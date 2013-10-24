@@ -1,8 +1,7 @@
-Stigmatomyces parydus Thaxt. SPECIES
-=======
+# Stigmatomyces parydrae Thaxt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stigmatomyces parydus Thaxt.
+Stigmatomyces parydrae Thaxt.
 
 ### Remarks
 null

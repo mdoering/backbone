@@ -1,5 +1,4 @@
-Elleipsisomatidae FAMILY
-=======
+# Elleipsisomatidae FAMILY
 
 #### Status
 ACCEPTED

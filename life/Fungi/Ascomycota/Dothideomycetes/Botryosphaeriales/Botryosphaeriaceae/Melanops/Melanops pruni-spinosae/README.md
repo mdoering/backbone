@@ -1,5 +1,4 @@
-Melanops pruni-spinosae (Delacr.) Weese SPECIES
-=======
+# Melanops pruni-spinosae (Delacr.) Weese SPECIES
 
 #### Status
 ACCEPTED

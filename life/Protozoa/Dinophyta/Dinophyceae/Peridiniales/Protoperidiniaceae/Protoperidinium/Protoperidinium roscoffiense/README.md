@@ -1,5 +1,4 @@
-Protoperidinium roscoffiense (Balech) Balech SPECIES
-=======
+# Protoperidinium roscoffiense (Balech) Balech SPECIES
 
 #### Status
 ACCEPTED

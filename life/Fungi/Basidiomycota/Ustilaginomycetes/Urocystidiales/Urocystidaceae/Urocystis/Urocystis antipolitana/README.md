@@ -1,5 +1,4 @@
-Urocystis antipolitana Magnus SPECIES
-=======
+# Urocystis antipolitana Magnus SPECIES
 
 #### Status
 ACCEPTED

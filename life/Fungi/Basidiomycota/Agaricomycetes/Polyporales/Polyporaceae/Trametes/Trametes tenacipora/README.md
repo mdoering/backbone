@@ -1,5 +1,4 @@
-Trametes tenacipora Corner SPECIES
-=======
+# Trametes tenacipora Corner SPECIES
 
 #### Status
 ACCEPTED

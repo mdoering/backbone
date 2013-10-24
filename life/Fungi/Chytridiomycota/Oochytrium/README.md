@@ -1,5 +1,4 @@
-Oochytrium Renault GENUS
-=======
+# Oochytrium Renault GENUS
 
 #### Status
 ACCEPTED

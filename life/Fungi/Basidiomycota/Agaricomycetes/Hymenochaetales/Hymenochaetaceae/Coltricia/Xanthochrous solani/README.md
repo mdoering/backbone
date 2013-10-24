@@ -1,5 +1,4 @@
-Xanthochrous solani Roze SPECIES
-=======
+# Xanthochrous solani Roze SPECIES
 
 #### Status
 ACCEPTED

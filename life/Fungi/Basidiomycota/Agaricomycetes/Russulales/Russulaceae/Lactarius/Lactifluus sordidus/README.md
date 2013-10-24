@@ -1,5 +1,4 @@
-Lactifluus sordidus (Peck) Kuntze SPECIES
-=======
+# Lactifluus sordidus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

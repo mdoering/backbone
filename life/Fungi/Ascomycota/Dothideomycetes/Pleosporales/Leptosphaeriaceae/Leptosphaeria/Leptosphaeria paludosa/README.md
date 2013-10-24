@@ -1,5 +1,4 @@
-Leptosphaeria paludosa Feltgen SPECIES
-=======
+# Leptosphaeria paludosa Feltgen SPECIES
 
 #### Status
 ACCEPTED

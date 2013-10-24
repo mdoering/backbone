@@ -1,5 +1,4 @@
-Rhizophydium ampullaceum (Al. Broome) A. Fischer in G. Winter SPECIES
-=======
+# Rhizophydium ampullaceum (Al. Broome) A. Fischer in G. Winter SPECIES
 
 #### Status
 ACCEPTED

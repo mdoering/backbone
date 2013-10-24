@@ -1,5 +1,4 @@
-Pyronema argentinum Speg. SPECIES
-=======
+# Pyronema argentinum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Piptocephalis corymbifera Vuill., 1887 SPECIES
-=======
+# Piptocephalis freseniana de Bary, 1865 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 3: 111 (1887)
+Abh. senckenb. naturforsch. Ges. 5: 356 (1865)
 
 #### Original name
-Piptocephalis corymbifera Vuill., 1887
+Piptocephalis freseniana de Bary, 1865
 
 ### Remarks
 null

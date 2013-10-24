@@ -1,17 +1,16 @@
-Trichaptum crustaceum var. crustaceum VARIETY
-=======
+# Junghuhnia crustacea (Jungh.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 55(1-2): 133 (1992)
+Persoonia 7(1): 18 (1972)
 
 #### Original name
-Trichaptum crustaceum var. crustaceum
+Laschia crustacea Jungh., 1839
 
 ### Remarks
 null

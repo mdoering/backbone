@@ -1,5 +1,4 @@
-Scindalma scalare (Fr.) Kuntze SPECIES
-=======
+# Scindalma scalare (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

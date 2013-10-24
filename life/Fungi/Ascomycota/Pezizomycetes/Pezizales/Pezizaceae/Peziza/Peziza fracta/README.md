@@ -1,5 +1,4 @@
-Peziza fracta Berk. & M.A. Curtis SPECIES
-=======
+# Peziza fracta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

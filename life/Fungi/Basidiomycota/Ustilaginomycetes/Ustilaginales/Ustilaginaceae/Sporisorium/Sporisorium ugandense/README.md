@@ -1,5 +1,4 @@
-Sporisorium ugandense (Henn.) Vánky SPECIES
-=======
+# Sporisorium ugandense (Henn.) Vánky SPECIES
 
 #### Status
 ACCEPTED

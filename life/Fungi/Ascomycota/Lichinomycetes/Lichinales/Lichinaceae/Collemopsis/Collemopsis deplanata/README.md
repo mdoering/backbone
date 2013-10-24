@@ -1,5 +1,4 @@
-Collemopsis deplanata Vain. SPECIES
-=======
+# Collemopsis deplanata Vain. SPECIES
 
 #### Status
 ACCEPTED

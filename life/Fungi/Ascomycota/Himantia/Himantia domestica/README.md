@@ -1,5 +1,4 @@
-Himantia domestica Schumach. SPECIES
-=======
+# Himantia domestica Schumach. SPECIES
 
 #### Status
 ACCEPTED

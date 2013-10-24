@@ -1,8 +1,7 @@
-Colpoda augustini Foissner, 1987 SPECIES
-=======
+# Exocolpoda augustini (Foissner, 1987) Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

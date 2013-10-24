@@ -1,17 +1,16 @@
-Colloderma oculatum castaneum Krzemien., 1934 INFRASPECIFIC_NAME
-=======
+# Colloderma robustum Meyl., 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Diagn. Mycoth. Univ. Cent. 57: 83 (1933)
 
 #### Original name
-null
+Colloderma robustum Meyl., 1933
 
 ### Remarks
 null

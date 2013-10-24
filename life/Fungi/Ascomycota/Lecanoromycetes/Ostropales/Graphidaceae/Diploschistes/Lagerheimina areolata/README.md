@@ -1,5 +1,4 @@
-Lagerheimina areolata (Nyl.) Kuntze SPECIES
-=======
+# Lagerheimina areolata (Nyl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

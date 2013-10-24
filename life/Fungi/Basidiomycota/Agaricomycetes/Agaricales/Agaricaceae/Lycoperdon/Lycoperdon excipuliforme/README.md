@@ -1,17 +1,16 @@
-Lycoperdon saccatum f. saccatum FORM
-=======
+# Lycoperdon excipuliforme (Scop.) Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Danic. tab. 1139 (1794)
+Syn. meth. fung. (Göttingen) 1: 143 (1801)
 
 #### Original name
-Lycoperdon saccatum f. saccatum
+Lycoperdon polymorphum var. excipuliforme Scop., 1772
 
 ### Remarks
 null

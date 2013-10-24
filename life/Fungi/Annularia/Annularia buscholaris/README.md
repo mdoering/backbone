@@ -1,5 +1,4 @@
-Annularia buscholaris E.H.L. Krause SPECIES
-=======
+# Annularia buscholaris E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

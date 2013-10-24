@@ -1,5 +1,4 @@
-Graphina tectigera (Eschw.) Müll. Arg. SPECIES
-=======
+# Graphina tectigera (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

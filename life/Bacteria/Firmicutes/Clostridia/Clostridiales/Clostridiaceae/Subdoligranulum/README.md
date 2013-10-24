@@ -1,5 +1,4 @@
-Subdoligranulum Holmstrom, Collins, Moller, Falsen & Lawson, 2004 GENUS
-=======
+# Subdoligranulum Holmstrom, Collins, Moller, Falsen & Lawson, 2004 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthagaricus nanus Little Flower, Hosag. & T.K. Abraham, 1997 SPECIES
-=======
+# Xanthagaricus nanus Little Flower, Hosag. & T.K. Abraham, 1997 SPECIES
 
 #### Status
 ACCEPTED

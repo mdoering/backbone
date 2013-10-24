@@ -1,5 +1,4 @@
-Sphaerella sesbaniae Ellis & Everh. SPECIES
-=======
+# Sphaerella sesbaniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

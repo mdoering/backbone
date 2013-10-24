@@ -1,17 +1,16 @@
-Pleotrachelus lobata Petersen, 1905 SPECIES
-=======
+# Petersenia lobata (H.E. Petersen) Sparrow, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Dansk bot. Ark. 8(no. 6): 13 (1934)
 
 #### Original name
-null
+Pleotrachelus lobatus H.E. Petersen, 1905
 
 ### Remarks
 null

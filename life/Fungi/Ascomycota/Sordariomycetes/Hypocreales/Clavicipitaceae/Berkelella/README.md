@@ -1,5 +1,4 @@
-Berkelella (Sacc.) Sacc. GENUS
-=======
+# Berkelella (Sacc.) Sacc. GENUS
 
 #### Status
 ACCEPTED

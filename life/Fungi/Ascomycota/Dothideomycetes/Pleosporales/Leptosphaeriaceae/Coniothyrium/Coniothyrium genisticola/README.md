@@ -1,5 +1,4 @@
-Coniothyrium genisticola Oudem. SPECIES
-=======
+# Coniothyrium genisticola Oudem. SPECIES
 
 #### Status
 ACCEPTED

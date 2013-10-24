@@ -1,5 +1,4 @@
-Diplotomma hyperizum (Stirt.) Szatala SPECIES
-=======
+# Diplotomma hyperizum (Stirt.) Szatala SPECIES
 
 #### Status
 ACCEPTED

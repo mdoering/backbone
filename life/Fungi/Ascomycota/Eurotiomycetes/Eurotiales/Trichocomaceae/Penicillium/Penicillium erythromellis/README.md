@@ -1,5 +1,4 @@
-Penicillium erythromellis A.D. Hocking, 1980 SPECIES
-=======
+# Penicillium erythromellis A.D. Hocking, 1980 SPECIES
 
 #### Status
 ACCEPTED

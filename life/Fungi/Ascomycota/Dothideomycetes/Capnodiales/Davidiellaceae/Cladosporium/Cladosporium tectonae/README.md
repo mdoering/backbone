@@ -1,5 +1,4 @@
-Cladosporium tectonae Sawada SPECIES
-=======
+# Cladosporium tectonae Sawada SPECIES
 
 #### Status
 ACCEPTED

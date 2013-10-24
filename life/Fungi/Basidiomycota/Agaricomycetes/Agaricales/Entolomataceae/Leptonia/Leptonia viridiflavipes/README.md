@@ -1,5 +1,4 @@
-Leptonia viridiflavipes Largent SPECIES
-=======
+# Leptonia viridiflavipes Largent SPECIES
 
 #### Status
 ACCEPTED

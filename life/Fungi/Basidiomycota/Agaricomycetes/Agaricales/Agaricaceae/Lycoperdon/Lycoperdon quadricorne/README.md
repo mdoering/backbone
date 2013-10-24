@@ -1,5 +1,4 @@
-Lycoperdon quadricorne Sw. SPECIES
-=======
+# Lycoperdon quadricorne Sw. SPECIES
 
 #### Status
 ACCEPTED

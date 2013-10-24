@@ -1,5 +1,4 @@
-Mononema demangei Manier, Gasc & Bouix SPECIES
-=======
+# Mononema demangei Manier, Gasc & Bouix SPECIES
 
 #### Status
 ACCEPTED

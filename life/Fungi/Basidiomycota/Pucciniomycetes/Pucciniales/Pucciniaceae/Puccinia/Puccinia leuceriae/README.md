@@ -1,5 +1,4 @@
-Puccinia leuceriae Dietel & Neger SPECIES
-=======
+# Puccinia leuceriae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

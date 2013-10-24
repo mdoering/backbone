@@ -1,5 +1,4 @@
-Lecidea nivaria (Arnold) Dalla Torre & Sarnth. SPECIES
-=======
+# Lecidea nivaria (Arnold) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

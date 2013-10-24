@@ -1,5 +1,4 @@
-Gliomastix elasticae (Koord.) J.L. Crane & Schokn. SPECIES
-=======
+# Gliomastix elasticae (Koord.) J.L. Crane & Schokn. SPECIES
 
 #### Status
 ACCEPTED

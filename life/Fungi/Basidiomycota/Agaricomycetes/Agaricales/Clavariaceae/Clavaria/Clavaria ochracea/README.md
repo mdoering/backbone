@@ -1,5 +1,4 @@
-Clavaria ochracea Velen. SPECIES
-=======
+# Clavaria ochracea Velen. SPECIES
 
 #### Status
 ACCEPTED

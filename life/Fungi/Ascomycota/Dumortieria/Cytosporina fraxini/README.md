@@ -1,5 +1,4 @@
-Cytosporina fraxini Ellis & Everh. SPECIES
-=======
+# Cytosporina fraxini Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

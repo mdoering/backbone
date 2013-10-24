@@ -1,5 +1,4 @@
-Baltisphaeridium longispinosum (Eisenack, 1931 ex O. Wetzel, 1933) Eisenack, 1959 SPECIES
-=======
+# Baltisphaeridium longispinosum (Eisenack, 1931 ex O. Wetzel, 1933) Eisenack, 1959 SPECIES
 
 #### Status
 ACCEPTED

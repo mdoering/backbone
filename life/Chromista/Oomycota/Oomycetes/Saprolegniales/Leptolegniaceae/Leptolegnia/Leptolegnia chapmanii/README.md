@@ -1,5 +1,4 @@
-Leptolegnia chapmanii R.L. Seym., 1984 SPECIES
-=======
+# Leptolegnia chapmanii R.L. Seym., 1984 SPECIES
 
 #### Status
 ACCEPTED

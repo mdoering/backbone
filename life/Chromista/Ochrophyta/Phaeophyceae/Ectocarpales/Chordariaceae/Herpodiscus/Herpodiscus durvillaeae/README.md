@@ -1,8 +1,7 @@
-Hapalospongidion durvillaeae Lindauer, 1949 SPECIES
-=======
+# Herpodiscus durvillaeae (Lindauer) G.R.South, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Pyrenula chloroplaca Shirley, 1894 SPECIES
-=======
+# Pyrenula chloroplaca Shirley, 1894 SPECIES
 
 #### Status
 DOUBTFUL

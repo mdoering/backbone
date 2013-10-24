@@ -1,5 +1,4 @@
-Legionella adelaidensis Benson et al., 1991 SPECIES
-=======
+# Legionella adelaidensis Benson et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria aethusae I.E. Brezhnev SPECIES
-=======
+# Septoria aethusae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

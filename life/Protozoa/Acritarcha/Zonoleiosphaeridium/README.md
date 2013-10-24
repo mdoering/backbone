@@ -1,5 +1,4 @@
-Zonoleiosphaeridium A.M. Medwedewa in A.M. Medwedewa & G.A. Aksjonova, 1976 GENUS
-=======
+# Zonoleiosphaeridium A.M. Medwedewa in A.M. Medwedewa & G.A. Aksjonova, 1976 GENUS
 
 #### Status
 ACCEPTED

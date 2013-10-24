@@ -1,5 +1,4 @@
-Condylostoma remanei subsp. oxyoura Dragesco, 1960 SUBSPECIES
-=======
+# Condylostoma remanei Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

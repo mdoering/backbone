@@ -1,5 +1,4 @@
-Dictyopteris J.V.F. Lamouroux, 1809 GENUS
-=======
+# Dictyopteris J.V.F. Lamouroux, 1809 GENUS
 
 #### Status
 ACCEPTED

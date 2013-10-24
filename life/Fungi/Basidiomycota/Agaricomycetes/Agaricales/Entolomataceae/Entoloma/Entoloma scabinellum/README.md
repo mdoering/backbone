@@ -1,5 +1,4 @@
-Entoloma scabinellum Peck SPECIES
-=======
+# Entoloma scabinellum Peck SPECIES
 
 #### Status
 ACCEPTED

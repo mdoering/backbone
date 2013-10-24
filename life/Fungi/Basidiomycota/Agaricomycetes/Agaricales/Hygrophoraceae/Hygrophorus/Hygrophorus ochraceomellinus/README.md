@@ -1,5 +1,4 @@
-Hygrophorus ochraceomellinus Velen. SPECIES
-=======
+# Hygrophorus ochraceomellinus Velen. SPECIES
 
 #### Status
 ACCEPTED

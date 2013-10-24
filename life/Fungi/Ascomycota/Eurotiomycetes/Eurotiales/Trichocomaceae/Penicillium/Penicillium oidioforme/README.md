@@ -1,5 +1,4 @@
-Penicillium oidioforme Orlova SPECIES
-=======
+# Penicillium oidioforme Orlova SPECIES
 
 #### Status
 ACCEPTED

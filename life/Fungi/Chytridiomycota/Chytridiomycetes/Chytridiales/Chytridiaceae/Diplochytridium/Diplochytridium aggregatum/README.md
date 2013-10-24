@@ -1,5 +1,4 @@
-Diplochytridium aggregatum (Karling) Karling SPECIES
-=======
+# Diplochytridium aggregatum (Karling) Karling SPECIES
 
 #### Status
 ACCEPTED

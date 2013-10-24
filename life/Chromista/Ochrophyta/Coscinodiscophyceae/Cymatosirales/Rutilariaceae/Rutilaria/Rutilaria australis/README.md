@@ -1,5 +1,4 @@
-Rutilaria australis R. Ross SPECIES
-=======
+# Rutilaria australis R. Ross SPECIES
 
 #### Status
 ACCEPTED

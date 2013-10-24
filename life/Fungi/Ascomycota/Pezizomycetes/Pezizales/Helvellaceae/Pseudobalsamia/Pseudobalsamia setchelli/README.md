@@ -1,5 +1,4 @@
-Pseudobalsamia setchelli E. Fisch. SPECIES
-=======
+# Pseudobalsamia setchelli E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phialophora luteo-viridis (J.F.H. Beyma) Schol-Schwarz SPECIES
-=======
+# Lecythophora luteoviridis (J.F.H. Beyma) E. Weber, Görke & Begerow, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Weber, Nova Hedwigia 74(1-2): 171 (2002)
 
 #### Original name
 Margarinomyces luteoviridis J.F.H. Beyma, 1938

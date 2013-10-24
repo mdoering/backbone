@@ -1,5 +1,4 @@
-Cryptosphaeria vicinula (Nyl.) P. Karst. SPECIES
-=======
+# Cryptosphaeria vicinula (Nyl.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

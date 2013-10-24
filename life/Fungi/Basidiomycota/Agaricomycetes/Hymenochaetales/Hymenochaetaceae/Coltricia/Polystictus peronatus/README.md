@@ -1,5 +1,4 @@
-Polystictus peronatus (Schulzer) Cooke SPECIES
-=======
+# Polystictus peronatus (Schulzer) Cooke SPECIES
 
 #### Status
 ACCEPTED

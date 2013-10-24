@@ -1,5 +1,4 @@
-Chaetomium spiculipilium L.M. Ames SPECIES
-=======
+# Chaetomium spiculipilium L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

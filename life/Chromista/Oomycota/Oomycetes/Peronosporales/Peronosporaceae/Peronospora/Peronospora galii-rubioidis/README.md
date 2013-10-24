@@ -1,5 +1,4 @@
-Peronospora galii-rubioidis Savul. & Rayss SPECIES
-=======
+# Peronospora galii-rubioidis Savul. & Rayss SPECIES
 
 #### Status
 ACCEPTED

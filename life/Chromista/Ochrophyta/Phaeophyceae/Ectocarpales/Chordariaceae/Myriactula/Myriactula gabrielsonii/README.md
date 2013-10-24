@@ -1,5 +1,4 @@
-Myriactula gabrielsonii Kraft, 2009 SPECIES
-=======
+# Myriactula gabrielsonii Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

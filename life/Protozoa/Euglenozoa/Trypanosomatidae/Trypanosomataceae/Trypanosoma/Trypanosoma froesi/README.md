@@ -1,8 +1,7 @@
-Trypanosoma mugilicolum Becker & Overstreet, 1979 SPECIES
-=======
+# Trypanosoma froesi Lima, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

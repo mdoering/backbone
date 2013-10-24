@@ -1,5 +1,4 @@
-Cortinarius elegans Reumaux SPECIES
-=======
+# Cortinarius elegans Reumaux SPECIES
 
 #### Status
 ACCEPTED

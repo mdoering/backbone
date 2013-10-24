@@ -1,5 +1,4 @@
-Omphalina subalpina E. Horak SPECIES
-=======
+# Omphalina subalpina E. Horak SPECIES
 
 #### Status
 ACCEPTED

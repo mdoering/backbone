@@ -1,5 +1,4 @@
-Sphaeria infarciens Wallr. SPECIES
-=======
+# Sphaeria infarciens Wallr. SPECIES
 
 #### Status
 ACCEPTED

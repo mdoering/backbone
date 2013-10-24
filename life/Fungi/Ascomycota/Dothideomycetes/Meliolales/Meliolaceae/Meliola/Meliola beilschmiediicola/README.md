@@ -1,5 +1,4 @@
-Meliola beilschmiediicola Hosag. SPECIES
-=======
+# Meliola beilschmiediicola Hosag. SPECIES
 
 #### Status
 ACCEPTED

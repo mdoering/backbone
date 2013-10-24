@@ -1,17 +1,16 @@
-Puccinia valerianae Carestia, 1863 SPECIES
-=======
+# Puccinia commutata P. Syd. & Syd., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Erb. critt. Ital. , Ser. 1 no. 500 (1863)
+Monogr. Uredin. (Lipsiae) 1(2): 201 (1902)
 
 #### Original name
-Puccinia valerianae Carestia, 1863
+Puccinia commutata P. Syd. & Syd., 1902
 
 ### Remarks
 null

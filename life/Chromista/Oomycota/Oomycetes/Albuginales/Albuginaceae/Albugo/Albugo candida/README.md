@@ -1,17 +1,16 @@
-Uredo candida var. candida VARIETY
-=======
+# Albugo candida (Pers.) Roussel, 1806 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Calvados, Edn 2 (1806)
 
 #### Original name
-Uredo candida var. candida
+Aecidium candidum Pers., 1792
 
 ### Remarks
 null

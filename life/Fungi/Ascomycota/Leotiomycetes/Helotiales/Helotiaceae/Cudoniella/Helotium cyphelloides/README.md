@@ -1,5 +1,4 @@
-Helotium cyphelloides Redhead SPECIES
-=======
+# Helotium cyphelloides Redhead SPECIES
 
 #### Status
 ACCEPTED

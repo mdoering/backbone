@@ -1,5 +1,4 @@
-Dermatocarpon tomentulosum Amtoft SPECIES
-=======
+# Dermatocarpon tomentulosum Amtoft SPECIES
 
 #### Status
 ACCEPTED

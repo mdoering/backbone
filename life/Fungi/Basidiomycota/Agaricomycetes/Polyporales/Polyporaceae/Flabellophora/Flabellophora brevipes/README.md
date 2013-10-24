@@ -1,5 +1,4 @@
-Flabellophora brevipes Corner, 1987 SPECIES
-=======
+# Flabellophora brevipes Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

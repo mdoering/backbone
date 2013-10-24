@@ -1,5 +1,4 @@
-Fragilaria viereckiana G. Moser SPECIES
-=======
+# Fragilaria viereckiana G. Moser SPECIES
 
 #### Status
 ACCEPTED

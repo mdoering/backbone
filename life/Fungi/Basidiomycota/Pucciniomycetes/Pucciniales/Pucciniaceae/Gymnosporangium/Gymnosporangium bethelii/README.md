@@ -1,17 +1,16 @@
-Gymnosporangium tubulatum F. Kern, 1926 SPECIES
-=======
+# Gymnosporangium bethelii F. Kern, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7: 738 (1926)
+Bull. Torrey bot. Club 34: 459 (1907)
 
 #### Original name
-Gymnosporangium tubulatum F. Kern, 1926
+Gymnosporangium bethelii F. Kern, 1907
 
 ### Remarks
 null

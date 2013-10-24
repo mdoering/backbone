@@ -1,5 +1,4 @@
-Percolozoa Caval.-Sm. PHYLUM
-=======
+# Percolozoa Caval.-Sm. PHYLUM
 
 #### Status
 ACCEPTED

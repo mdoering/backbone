@@ -1,5 +1,4 @@
-Placidiopsis cervinula (Nyl.) Zahlbr. SPECIES
-=======
+# Placidiopsis cervinula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

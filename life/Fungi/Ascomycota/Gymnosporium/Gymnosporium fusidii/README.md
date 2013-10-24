@@ -1,5 +1,4 @@
-Gymnosporium fusidii Fuckel SPECIES
-=======
+# Gymnosporium fusidii Fuckel SPECIES
 
 #### Status
 ACCEPTED

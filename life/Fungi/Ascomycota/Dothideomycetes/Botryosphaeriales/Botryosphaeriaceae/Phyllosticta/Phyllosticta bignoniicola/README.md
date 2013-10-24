@@ -1,17 +1,16 @@
-Phyllosticta bignonicola V.G. Rao & Solank. SPECIES
-=======
+# Phyllosticta bignoniicola V.G. Rao & Solank. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 40(16): 444 (1971)
 
 #### Original name
-Phyllosticta bignonicola V.G. Rao & Solank.
+Phyllosticta bignoniicola V.G. Rao & Solank.
 
 ### Remarks
 null

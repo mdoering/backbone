@@ -1,5 +1,4 @@
-Diplonema rupicola Borzì SPECIES
-=======
+# Diplonema rupicola Borzì SPECIES
 
 #### Status
 DOUBTFUL

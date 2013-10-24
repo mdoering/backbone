@@ -1,14 +1,13 @@
-Clathroporina nuculastrum Müll. Arg. SPECIES
-=======
+# Porina nuculastrum (Müll. Arg.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 67: 618 (1884)
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 174 (1995)
 
 #### Original name
 Clathroporina nuculastrum Müll. Arg.

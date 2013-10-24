@@ -1,5 +1,4 @@
-Triposporina Höhn. GENUS
-=======
+# Triposporina Höhn. GENUS
 
 #### Status
 ACCEPTED

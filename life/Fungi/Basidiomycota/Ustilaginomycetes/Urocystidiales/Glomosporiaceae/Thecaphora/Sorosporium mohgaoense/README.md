@@ -1,5 +1,4 @@
-Sorosporium mohgaoense Chitaley & Yawale SPECIES
-=======
+# Sorosporium mohgaoense Chitaley & Yawale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scyphophorus didymus Fée SPECIES
-=======
+# Scyphophorus didymus Fée SPECIES
 
 #### Status
 ACCEPTED

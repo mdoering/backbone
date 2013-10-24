@@ -1,5 +1,4 @@
-Kofoidella Cépède, 1910 GENUS
-=======
+# Kofoidella Cépède, 1910 GENUS
 
 #### Status
 ACCEPTED

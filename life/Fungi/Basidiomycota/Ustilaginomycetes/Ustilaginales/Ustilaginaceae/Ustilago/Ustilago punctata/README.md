@@ -1,5 +1,4 @@
-Ustilago punctata G.P. Clinton SPECIES
-=======
+# Ustilago punctata G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

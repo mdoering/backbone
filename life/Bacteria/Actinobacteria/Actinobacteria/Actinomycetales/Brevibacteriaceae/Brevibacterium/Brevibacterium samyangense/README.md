@@ -1,5 +1,4 @@
-Brevibacterium samyangense Lee, 2006 SPECIES
-=======
+# Brevibacterium samyangense Lee, 2006 SPECIES
 
 #### Status
 ACCEPTED

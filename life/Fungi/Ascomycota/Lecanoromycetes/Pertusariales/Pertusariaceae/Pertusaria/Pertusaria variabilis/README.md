@@ -1,5 +1,4 @@
-Pertusaria variabilis Elix & A. W. Archer SPECIES
-=======
+# Pertusaria variabilis Elix & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

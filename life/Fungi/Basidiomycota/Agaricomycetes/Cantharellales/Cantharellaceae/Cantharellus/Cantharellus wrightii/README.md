@@ -1,5 +1,4 @@
-Cantharellus wrightii Berk. & M.A. Curtis SPECIES
-=======
+# Cantharellus wrightii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

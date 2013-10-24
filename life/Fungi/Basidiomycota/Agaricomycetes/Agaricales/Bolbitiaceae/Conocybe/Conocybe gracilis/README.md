@@ -1,5 +1,4 @@
-Conocybe gracilis Hauskn. SPECIES
-=======
+# Conocybe gracilis Hauskn. SPECIES
 
 #### Status
 ACCEPTED

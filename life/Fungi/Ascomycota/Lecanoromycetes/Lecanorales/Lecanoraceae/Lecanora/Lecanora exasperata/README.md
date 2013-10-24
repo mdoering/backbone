@@ -1,5 +1,4 @@
-Lecanora exasperata (Bagl.) Sitzung. SPECIES
-=======
+# Lecanora exasperata (Bagl.) Sitzung. SPECIES
 
 #### Status
 ACCEPTED

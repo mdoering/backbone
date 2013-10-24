@@ -1,5 +1,4 @@
-Polyporus reniformis Morgan SPECIES
-=======
+# Polyporus reniformis Morgan SPECIES
 
 #### Status
 ACCEPTED

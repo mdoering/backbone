@@ -1,5 +1,4 @@
-Diplodina euphorbiae Grove SPECIES
-=======
+# Diplodina euphorbiae Grove SPECIES
 
 #### Status
 ACCEPTED

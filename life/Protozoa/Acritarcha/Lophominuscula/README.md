@@ -1,5 +1,4 @@
-Lophominuscula S.N. Naumova, 1960 GENUS
-=======
+# Lophominuscula S.N. Naumova, 1960 GENUS
 
 #### Status
 ACCEPTED

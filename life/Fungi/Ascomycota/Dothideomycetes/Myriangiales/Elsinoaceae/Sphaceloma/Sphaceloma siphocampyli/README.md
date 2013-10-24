@@ -1,5 +1,4 @@
-Sphaceloma siphocampyli Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma siphocampyli Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

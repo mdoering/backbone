@@ -1,5 +1,4 @@
-Physalospora minuta T. Miyake SPECIES
-=======
+# Physalospora minuta T. Miyake SPECIES
 
 #### Status
 ACCEPTED

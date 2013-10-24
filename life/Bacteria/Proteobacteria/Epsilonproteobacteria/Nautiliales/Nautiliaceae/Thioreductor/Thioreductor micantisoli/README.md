@@ -1,5 +1,4 @@
-Thioreductor micantisoli Nakagawa et al., 2005 SPECIES
-=======
+# Thioreductor micantisoli Nakagawa et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gymnopus pseudo-omphalodes (Dennis) J.L. Mata SPECIES
-=======
+# Gymnopus pseudomphalodes (Dennis) J.L. Mata SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Mata, Hughes & Petersen, Sydowia 58(2): 289 (2006)
 
 #### Original name
 Collybia pseudomphalodes Dennis

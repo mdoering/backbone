@@ -1,5 +1,4 @@
-Blastophorella Boedijn GENUS
-=======
+# Blastophorella Boedijn GENUS
 
 #### Status
 ACCEPTED

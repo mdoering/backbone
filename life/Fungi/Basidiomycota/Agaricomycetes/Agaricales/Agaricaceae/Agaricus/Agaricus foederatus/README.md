@@ -1,5 +1,4 @@
-Agaricus foederatus Berk. & Mont. SPECIES
-=======
+# Agaricus foederatus Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

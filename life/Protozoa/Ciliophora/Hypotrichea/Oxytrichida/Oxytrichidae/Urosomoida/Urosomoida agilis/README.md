@@ -1,8 +1,7 @@
-Oxytricha agilis (Engelmann, 1862) ? SPECIES
-=======
+# Urosomoida agilis (Engelmann, 1862) Hemberger in Foissner, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

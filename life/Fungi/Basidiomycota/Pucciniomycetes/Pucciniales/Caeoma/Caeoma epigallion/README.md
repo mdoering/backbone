@@ -1,5 +1,4 @@
-Caeoma epigallion Schltdl. SPECIES
-=======
+# Caeoma epigallion Schltdl. SPECIES
 
 #### Status
 ACCEPTED

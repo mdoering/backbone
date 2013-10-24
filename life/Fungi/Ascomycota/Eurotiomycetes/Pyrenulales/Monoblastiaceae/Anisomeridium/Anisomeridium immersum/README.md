@@ -1,5 +1,4 @@
-Anisomeridium immersum (Makhija & Patw.) R.C. Harris SPECIES
-=======
+# Anisomeridium immersum (Makhija & Patw.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

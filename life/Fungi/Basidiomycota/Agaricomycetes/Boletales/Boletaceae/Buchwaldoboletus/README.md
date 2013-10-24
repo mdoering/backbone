@@ -1,5 +1,4 @@
-Buchwaldoboletus Pilát GENUS
-=======
+# Buchwaldoboletus Pilát GENUS
 
 #### Status
 ACCEPTED

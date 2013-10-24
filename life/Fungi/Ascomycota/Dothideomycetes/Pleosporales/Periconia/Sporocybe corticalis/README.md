@@ -1,5 +1,4 @@
-Sporocybe corticalis (Cooke & Peck) Sacc. SPECIES
-=======
+# Sporocybe corticalis (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

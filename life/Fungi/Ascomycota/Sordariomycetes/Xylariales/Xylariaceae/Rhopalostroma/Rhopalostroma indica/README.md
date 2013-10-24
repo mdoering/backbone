@@ -1,5 +1,4 @@
-Rhopalostroma indica Sur. Kaur & Ojha, 2000 SPECIES
-=======
+# Rhopalostroma indica Sur. Kaur & Ojha, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxine caesiopruinosa (Tuck.) Imshaug SPECIES
-=======
+# Pyxine caesiopruinosa (Tuck.) Imshaug SPECIES
 
 #### Status
 ACCEPTED

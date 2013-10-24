@@ -1,5 +1,4 @@
-Albugo solivarum (Speg.) Herter SPECIES
-=======
+# Albugo solivarum (Speg.) Herter SPECIES
 
 #### Status
 ACCEPTED

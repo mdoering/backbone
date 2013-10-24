@@ -1,5 +1,4 @@
-Empusa elegans Maimone {?} SPECIES
-=======
+# Empusa elegans Maimone {?} SPECIES
 
 #### Status
 ACCEPTED

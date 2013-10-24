@@ -1,5 +1,4 @@
-Halophytophthora masteri Nakagiri & S.Y. Newell, 1994 SPECIES
-=======
+# Halophytophthora masteri Nakagiri & S.Y. Newell, 1994 SPECIES
 
 #### Status
 ACCEPTED

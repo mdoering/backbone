@@ -1,5 +1,4 @@
-Cryptomyces myrciae (Mont.) Sacc. SPECIES
-=======
+# Cryptomyces myrciae (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius nimkeae Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius nimkeae Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

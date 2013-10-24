@@ -1,5 +1,4 @@
-Rhizoplacopsis weichingii J.C. Wei & Q.M. Zhou SPECIES
-=======
+# Rhizoplacopsis weichingii J.C. Wei & Q.M. Zhou SPECIES
 
 #### Status
 ACCEPTED

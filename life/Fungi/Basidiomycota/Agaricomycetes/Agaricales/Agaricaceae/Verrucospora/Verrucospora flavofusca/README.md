@@ -1,14 +1,13 @@
-Horakia flavofusca (Henn.) Oberw., 1976 SPECIES
-=======
+# Verrucospora flavofusca (Henn.) Jülich, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 28(1-6): 359 (1976)
+Biblthca Mycol. 85: 401 (1982)
 
 #### Original name
 Inocybe flavofusca Henn., 1901

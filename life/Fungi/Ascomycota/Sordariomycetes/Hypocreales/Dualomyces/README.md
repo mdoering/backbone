@@ -1,5 +1,4 @@
-Dualomyces Matsush. GENUS
-=======
+# Dualomyces Matsush. GENUS
 
 #### Status
 ACCEPTED

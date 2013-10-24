@@ -1,5 +1,4 @@
-Telamonia evernia (Fr.) Ricken SPECIES
-=======
+# Telamonia evernia (Fr.) Ricken SPECIES
 
 #### Status
 ACCEPTED

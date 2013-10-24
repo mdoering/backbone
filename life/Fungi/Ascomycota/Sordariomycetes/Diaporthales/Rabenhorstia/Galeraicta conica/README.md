@@ -1,5 +1,4 @@
-Galeraicta conica Preuss SPECIES
-=======
+# Galeraicta conica Preuss SPECIES
 
 #### Status
 ACCEPTED

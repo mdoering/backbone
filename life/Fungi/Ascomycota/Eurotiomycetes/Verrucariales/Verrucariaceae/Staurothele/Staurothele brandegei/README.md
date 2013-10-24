@@ -1,5 +1,4 @@
-Staurothele brandegei Tuck. SPECIES
-=======
+# Staurothele brandegei Tuck. SPECIES
 
 #### Status
 ACCEPTED

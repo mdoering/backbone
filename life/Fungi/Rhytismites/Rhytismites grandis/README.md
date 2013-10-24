@@ -1,5 +1,4 @@
-Rhytismites grandis (Ettingsh.) Mesch. SPECIES
-=======
+# Rhytismites grandis (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

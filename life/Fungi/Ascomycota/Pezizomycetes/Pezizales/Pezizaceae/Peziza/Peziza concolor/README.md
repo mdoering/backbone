@@ -1,5 +1,4 @@
-Peziza concolor Speg. SPECIES
-=======
+# Peziza concolor Speg. SPECIES
 
 #### Status
 ACCEPTED

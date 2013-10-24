@@ -1,5 +1,4 @@
-Pyricularia scripta (Bonord.) Sacc. SPECIES
-=======
+# Pyricularia scripta (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

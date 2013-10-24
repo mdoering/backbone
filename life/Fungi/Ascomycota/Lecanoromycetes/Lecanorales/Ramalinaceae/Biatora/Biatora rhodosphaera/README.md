@@ -1,5 +1,4 @@
-Biatora rhodosphaera (Th. Fr.) SPECIES
-=======
+# Biatora rhodosphaera (Th. Fr.) SPECIES
 
 #### Status
 ACCEPTED

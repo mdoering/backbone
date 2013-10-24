@@ -1,5 +1,4 @@
-Psoroma boninense Kurok. SPECIES
-=======
+# Psoroma boninense Kurok. SPECIES
 
 #### Status
 ACCEPTED

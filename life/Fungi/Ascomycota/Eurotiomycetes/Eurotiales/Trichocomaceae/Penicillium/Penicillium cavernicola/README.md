@@ -1,5 +1,4 @@
-Penicillium cavernicola Frisvad & Samson SPECIES
-=======
+# Penicillium cavernicola Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

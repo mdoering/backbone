@@ -1,5 +1,4 @@
-Buellia hilaris Zahlbr. SPECIES
-=======
+# Buellia hilaris Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

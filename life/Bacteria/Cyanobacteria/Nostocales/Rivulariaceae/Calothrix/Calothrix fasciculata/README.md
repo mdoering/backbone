@@ -1,5 +1,4 @@
-Calothrix fasciculata C. Agardh SPECIES
-=======
+# Calothrix fasciculata C. Agardh SPECIES
 
 #### Status
 ACCEPTED

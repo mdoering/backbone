@@ -1,5 +1,4 @@
-Ingoldiella nutans Bandoni & Marvanová, 1989 SPECIES
-=======
+# Ingoldiella nutans Bandoni & Marvanová, 1989 SPECIES
 
 #### Status
 ACCEPTED

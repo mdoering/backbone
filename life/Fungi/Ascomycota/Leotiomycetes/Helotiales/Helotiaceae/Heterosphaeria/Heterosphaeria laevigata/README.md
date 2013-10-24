@@ -1,5 +1,4 @@
-Heterosphaeria laevigata Fr. SPECIES
-=======
+# Heterosphaeria laevigata Fr. SPECIES
 
 #### Status
 ACCEPTED

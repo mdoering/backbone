@@ -1,14 +1,13 @@
-Sphaerella thais Sacc., 1875 SPECIES
-=======
+# Mycosphaerella thais (Sacc.) Negru & Benec, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi venet. nov. vel. Crit. , Ser. 2 305 (1875)
+in Negru, Bull. trimest. Soc. mycol. Fr. 80(3): 319 (1965)
 
 #### Original name
 Sphaerella thais Sacc., 1875

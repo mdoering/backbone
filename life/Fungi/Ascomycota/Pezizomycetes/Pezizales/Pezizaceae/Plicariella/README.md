@@ -1,5 +1,4 @@
-Plicariella GENUS
-=======
+# Plicariella GENUS
 
 #### Status
 ACCEPTED

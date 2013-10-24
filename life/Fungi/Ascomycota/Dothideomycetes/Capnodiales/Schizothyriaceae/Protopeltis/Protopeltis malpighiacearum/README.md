@@ -1,5 +1,4 @@
-Protopeltis malpighiacearum Bat. & A.F. Vital SPECIES
-=======
+# Protopeltis malpighiacearum Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

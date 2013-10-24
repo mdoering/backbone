@@ -1,5 +1,4 @@
-Macowanites tomentosa (J.W. Cribb) T. Lebel & Castellano SPECIES
-=======
+# Macowanites tomentosa (J.W. Cribb) T. Lebel & Castellano SPECIES
 
 #### Status
 ACCEPTED

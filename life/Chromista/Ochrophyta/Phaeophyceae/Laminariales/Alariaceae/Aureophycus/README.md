@@ -1,5 +1,4 @@
-Aureophycus H.Kawai, T.Hanyuda, Lindeberg & S.C.Lindstrom, 2008 GENUS
-=======
+# Aureophycus H.Kawai, T.Hanyuda, Lindeberg & S.C.Lindstrom, 2008 GENUS
 
 #### Status
 ACCEPTED

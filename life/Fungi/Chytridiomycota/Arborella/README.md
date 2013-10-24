@@ -1,5 +1,4 @@
-Arborella Zebrowski, 1936 GENUS
-=======
+# Arborella Zebrowski, 1936 GENUS
 
 #### Status
 ACCEPTED

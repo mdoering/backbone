@@ -1,8 +1,7 @@
-Mycocalicium ornicolum (J. Steiner) Nádv. SPECIES
-=======
+# Mycocalicium ornicola (J. Steiner) Nádv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

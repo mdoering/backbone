@@ -1,5 +1,4 @@
-Hebelomatis perpallidum (M.M. Moser) Locq. SPECIES
-=======
+# Hebelomatis perpallidum (M.M. Moser) Locq. SPECIES
 
 #### Status
 ACCEPTED

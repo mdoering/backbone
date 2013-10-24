@@ -1,5 +1,4 @@
-Cantharellus brasiliensis Mont. SPECIES
-=======
+# Cantharellus brasiliensis Mont. SPECIES
 
 #### Status
 ACCEPTED

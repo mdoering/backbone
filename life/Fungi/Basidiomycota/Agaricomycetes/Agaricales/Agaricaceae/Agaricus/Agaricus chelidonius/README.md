@@ -1,5 +1,4 @@
-Agaricus chelidonius Fr. SPECIES
-=======
+# Agaricus chelidonius Fr. SPECIES
 
 #### Status
 ACCEPTED

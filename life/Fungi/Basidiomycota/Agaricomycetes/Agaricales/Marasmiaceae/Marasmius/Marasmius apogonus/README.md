@@ -1,5 +1,4 @@
-Marasmius apogonus Singer SPECIES
-=======
+# Marasmius apogonus Singer SPECIES
 
 #### Status
 ACCEPTED

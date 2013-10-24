@@ -1,5 +1,4 @@
-Ganoderma ravenelii Steyaert, 1980 SPECIES
-=======
+# Ganoderma ravenelii Steyaert, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium cocculi Sacc. SPECIES
-=======
+# Gloeosporium cocculi Sacc. SPECIES
 
 #### Status
 ACCEPTED

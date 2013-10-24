@@ -1,5 +1,4 @@
-Albugo polygoni Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Albugo polygoni Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

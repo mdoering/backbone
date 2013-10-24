@@ -1,5 +1,4 @@
-Amphisphaeria arengae Rehm SPECIES
-=======
+# Amphisphaeria arengae Rehm SPECIES
 
 #### Status
 ACCEPTED

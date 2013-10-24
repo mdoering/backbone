@@ -1,5 +1,4 @@
-Allarthonia peltigerina (Almq.) H. Magn. SPECIES
-=======
+# Allarthonia peltigerina (Almq.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

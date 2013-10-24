@@ -1,5 +1,4 @@
-Hymenoscyphus peruni (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus peruni (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

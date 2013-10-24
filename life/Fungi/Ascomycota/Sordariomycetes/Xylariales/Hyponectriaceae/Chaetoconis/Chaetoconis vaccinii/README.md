@@ -1,5 +1,4 @@
-Chaetoconis vaccinii Melnik & Nag Raj SPECIES
-=======
+# Chaetoconis vaccinii Melnik & Nag Raj SPECIES
 
 #### Status
 ACCEPTED

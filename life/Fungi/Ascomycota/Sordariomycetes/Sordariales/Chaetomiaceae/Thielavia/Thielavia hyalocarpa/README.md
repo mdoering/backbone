@@ -1,5 +1,4 @@
-Thielavia hyalocarpa Arx, 1975 SPECIES
-=======
+# Thielavia hyalocarpa Arx, 1975 SPECIES
 
 #### Status
 ACCEPTED

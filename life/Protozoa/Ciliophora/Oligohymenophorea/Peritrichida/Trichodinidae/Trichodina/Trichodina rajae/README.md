@@ -1,5 +1,4 @@
-Trichodina rajae Evdokimova, Kuznetsova & Shtein, 1969 SPECIES
-=======
+# Trichodina rajae Evdokimova, Kuznetsova & Shtein, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Terana adiposa (Pass. & Beltr.) Kuntze SPECIES
-=======
+# Terana adiposa (Pass. & Beltr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo irrequisita H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo irrequisita H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

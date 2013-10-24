@@ -1,14 +1,13 @@
-Helio-discoaster Theodoridis, 1984 GENUS
-=======
+# Discoaster GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Akad. Wetenschap. Amsterdam, 30, no. 3, 411.
+null
 
 #### Original name
 null

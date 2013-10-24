@@ -1,5 +1,4 @@
-Clitocybe sublaccata Berk. & Broome SPECIES
-=======
+# Clitocybe sublaccata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolus platyrhynchus f. skujae Popova FORM
-=======
+# Urceolus platyrhynchus Skuja SPECIES
 
 #### Status
 ACCEPTED

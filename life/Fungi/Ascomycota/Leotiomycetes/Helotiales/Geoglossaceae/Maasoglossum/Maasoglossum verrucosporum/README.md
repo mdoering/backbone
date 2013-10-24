@@ -1,5 +1,4 @@
-Maasoglossum verrucosporum K.S. Thind & R. Sharma, 1985 SPECIES
-=======
+# Maasoglossum verrucosporum K.S. Thind & R. Sharma, 1985 SPECIES
 
 #### Status
 ACCEPTED

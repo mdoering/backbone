@@ -1,5 +1,4 @@
-Crepidotus haerens Peck SPECIES
-=======
+# Crepidotus haerens Peck SPECIES
 
 #### Status
 ACCEPTED

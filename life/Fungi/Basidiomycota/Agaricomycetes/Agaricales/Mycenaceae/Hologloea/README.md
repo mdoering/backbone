@@ -1,5 +1,4 @@
-Hologloea GENUS
-=======
+# Hologloea GENUS
 
 #### Status
 ACCEPTED

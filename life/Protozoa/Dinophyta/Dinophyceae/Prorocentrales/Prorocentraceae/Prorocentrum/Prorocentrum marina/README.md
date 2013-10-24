@@ -1,5 +1,4 @@
-Prorocentrum marina SPECIES
-=======
+# Prorocentrum marina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Geaster turbinatus Cragin SPECIES
-=======
+# Geastrum turbinatus Cragin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster turbinatus Cragin
+Geastrum turbinatus Cragin
 
 ### Remarks
 null

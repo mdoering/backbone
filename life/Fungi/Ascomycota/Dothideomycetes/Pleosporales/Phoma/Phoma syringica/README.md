@@ -1,5 +1,4 @@
-Phoma syringica Thüm. SPECIES
-=======
+# Phoma syringica Thüm. SPECIES
 
 #### Status
 ACCEPTED

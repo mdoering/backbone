@@ -1,5 +1,4 @@
-Valsa fusani Henn. & E. Nyman SPECIES
-=======
+# Valsa fusani Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

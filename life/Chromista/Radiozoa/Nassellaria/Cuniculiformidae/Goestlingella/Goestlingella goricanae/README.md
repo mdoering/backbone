@@ -1,5 +1,4 @@
-Goestlingella goricanae SPECIES
-=======
+# Goestlingella goricanae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lalaria carpini Á. Fonseca, J. Inácio & M.G. Rodrigues SPECIES
-=======
+# Lalaria carpini Á. Fonseca, J. Inácio & M.G. Rodrigues SPECIES
 
 #### Status
 ACCEPTED

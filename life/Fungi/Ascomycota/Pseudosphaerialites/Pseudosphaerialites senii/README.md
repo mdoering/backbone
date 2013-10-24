@@ -1,5 +1,4 @@
-Pseudosphaerialites senii Venkatach. & R.K. Kar SPECIES
-=======
+# Pseudosphaerialites senii Venkatach. & R.K. Kar SPECIES
 
 #### Status
 ACCEPTED

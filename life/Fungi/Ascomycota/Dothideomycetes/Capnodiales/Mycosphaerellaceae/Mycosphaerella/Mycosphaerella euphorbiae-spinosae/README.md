@@ -1,5 +1,4 @@
-Mycosphaerella euphorbiae-spinosae (De Not.) Lindau SPECIES
-=======
+# Mycosphaerella euphorbiae-spinosae (De Not.) Lindau SPECIES
 
 #### Status
 ACCEPTED

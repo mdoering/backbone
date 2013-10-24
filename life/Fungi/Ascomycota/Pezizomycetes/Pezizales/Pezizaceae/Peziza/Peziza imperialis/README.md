@@ -1,5 +1,4 @@
-Peziza imperialis Beck SPECIES
-=======
+# Peziza imperialis Beck SPECIES
 
 #### Status
 ACCEPTED

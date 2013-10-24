@@ -1,5 +1,4 @@
-Mycosphaerella eumusae Carlier, M.-F. Zapater, Lapeyre, D.R. Jones & Mour., 2000 SPECIES
-=======
+# Mycosphaerella eumusae Carlier, M.-F. Zapater, Lapeyre, D.R. Jones & Mour., 2000 SPECIES
 
 #### Status
 ACCEPTED

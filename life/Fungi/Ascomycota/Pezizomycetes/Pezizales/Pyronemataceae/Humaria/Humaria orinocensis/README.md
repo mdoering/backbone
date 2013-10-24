@@ -1,5 +1,4 @@
-Humaria orinocensis Pat. & Gaillard SPECIES
-=======
+# Humaria orinocensis Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

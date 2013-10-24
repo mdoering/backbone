@@ -1,5 +1,4 @@
-Lecidea angelica (Parrique) Zahlbr. SPECIES
-=======
+# Lecidea angelica (Parrique) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

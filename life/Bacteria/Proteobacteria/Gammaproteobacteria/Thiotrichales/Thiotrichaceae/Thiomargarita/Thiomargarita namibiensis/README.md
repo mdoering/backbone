@@ -1,5 +1,4 @@
-Thiomargarita namibiensis Schulz et al., 1999 SPECIES
-=======
+# Thiomargarita namibiensis Schulz et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

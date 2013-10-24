@@ -1,5 +1,4 @@
-Armillaria codinae (Maire) Locq. SPECIES
-=======
+# Armillaria codinae (Maire) Locq. SPECIES
 
 #### Status
 ACCEPTED

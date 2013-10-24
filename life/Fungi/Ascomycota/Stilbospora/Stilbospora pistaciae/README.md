@@ -1,5 +1,4 @@
-Stilbospora pistaciae (Pat.) B. Sutton SPECIES
-=======
+# Stilbospora pistaciae (Pat.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

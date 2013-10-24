@@ -1,5 +1,4 @@
-Ramularia geranii-sanguinei C. Massal. SPECIES
-=======
+# Ramularia geranii-sanguinei C. Massal. SPECIES
 
 #### Status
 ACCEPTED

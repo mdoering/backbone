@@ -1,5 +1,4 @@
-Merulius humilis (Berk. & Broome) Kuntze SPECIES
-=======
+# Merulius humilis (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

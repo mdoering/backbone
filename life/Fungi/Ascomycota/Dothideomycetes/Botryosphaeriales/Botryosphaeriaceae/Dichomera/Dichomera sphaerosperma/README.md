@@ -1,5 +1,4 @@
-Dichomera sphaerosperma (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Dichomera sphaerosperma (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

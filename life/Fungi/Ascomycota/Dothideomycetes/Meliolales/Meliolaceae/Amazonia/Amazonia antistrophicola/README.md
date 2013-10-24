@@ -1,17 +1,16 @@
-Amazonia antistrophecola Hosag. & T.K. Abraham SPECIES
-=======
+# Amazonia antistrophicola Hosag. & T.K. Abraham SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Mycopathological Research 36(2): 95 (1998)
 
 #### Original name
-Amazonia antistrophecola Hosag. & T.K. Abraham
+Amazonia antistrophicola Hosag. & T.K. Abraham
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Placolecanora laatokkaënsis (Räsänen) Kopach. SPECIES
-=======
+# Placolecanora laatokkensis (Räsänen) Kopach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 9: 294 (1972)
 
 #### Original name
 Parmularia laatokkensis Räsänen

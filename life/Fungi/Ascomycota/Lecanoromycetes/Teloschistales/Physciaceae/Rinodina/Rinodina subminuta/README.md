@@ -1,5 +1,4 @@
-Rinodina subminuta H. Magn. SPECIES
-=======
+# Rinodina subminuta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

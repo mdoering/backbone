@@ -1,5 +1,4 @@
-Humaria microspora var. microspora VARIETY
-=======
+# Humaria microspora (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Humaria microspora var. microspora
+Peziza microspora Berk. & M.A. Curtis
 
 ### Remarks
 null

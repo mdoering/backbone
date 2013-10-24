@@ -1,14 +1,13 @@
-Coniochaeta kellermanni (Ellis & Everh.) Munk SPECIES
-=======
+# Coniochaeta kellermanii (Ellis & Everh.) Munk, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Dansk bot. Ark. 15(no. 2): 54 (1953)
 
 #### Original name
 Rosellinia kellermanii Ellis & Everh., 1890

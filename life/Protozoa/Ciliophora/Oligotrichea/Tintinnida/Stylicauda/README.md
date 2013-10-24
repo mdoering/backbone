@@ -1,5 +1,4 @@
-Stylicauda Balech, 1951 GENUS
-=======
+# Stylicauda Balech, 1951 GENUS
 
 #### Status
 ACCEPTED

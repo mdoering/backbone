@@ -1,5 +1,4 @@
-Graphis cymbegrapha Leight. SPECIES
-=======
+# Graphis cymbegrapha Leight. SPECIES
 
 #### Status
 ACCEPTED

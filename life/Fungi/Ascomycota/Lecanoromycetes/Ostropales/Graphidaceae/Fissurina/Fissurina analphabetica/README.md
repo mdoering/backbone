@@ -1,5 +1,4 @@
-Fissurina analphabetica Common & Lücking SPECIES
-=======
+# Fissurina analphabetica Common & Lücking SPECIES
 
 #### Status
 ACCEPTED

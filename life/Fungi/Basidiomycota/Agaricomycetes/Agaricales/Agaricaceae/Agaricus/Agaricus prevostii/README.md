@@ -1,5 +1,4 @@
-Agaricus prevostii Roum. SPECIES
-=======
+# Agaricus prevostii Roum. SPECIES
 
 #### Status
 ACCEPTED

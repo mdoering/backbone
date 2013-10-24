@@ -1,5 +1,4 @@
-Polymorphospora rubra Tamura et al., 2006 SPECIES
-=======
+# Polymorphospora rubra Tamura et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

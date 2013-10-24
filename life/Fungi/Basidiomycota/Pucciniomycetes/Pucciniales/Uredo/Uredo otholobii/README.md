@@ -1,5 +1,4 @@
-Uredo otholobii Berndt, A.R. Wood & E. Uhlmann SPECIES
-=======
+# Uredo otholobii Berndt, A.R. Wood & E. Uhlmann SPECIES
 
 #### Status
 ACCEPTED

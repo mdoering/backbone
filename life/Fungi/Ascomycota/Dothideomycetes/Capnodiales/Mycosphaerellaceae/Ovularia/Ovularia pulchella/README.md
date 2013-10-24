@@ -1,5 +1,4 @@
-Ovularia pulchella var. pulchella VARIETY
-=======
+# Ovularia pulchella Sawada SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Special Publication College of Agriculture, National Taiwan University 8: 188 (1959)
 
 #### Original name
-Ovularia pulchella var. pulchella
+Ovularia pulchella Sawada
 
 ### Remarks
 null

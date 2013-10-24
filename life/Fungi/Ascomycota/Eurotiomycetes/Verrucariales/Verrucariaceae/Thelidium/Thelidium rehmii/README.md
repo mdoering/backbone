@@ -1,8 +1,7 @@
-Involucrothele rehmii (Zschacke) Servít SPECIES
-=======
+# Thelidium rehmii Zschacke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Thelidium rehmii Zschacke
 
 ### Remarks
 null

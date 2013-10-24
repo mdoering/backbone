@@ -1,5 +1,4 @@
-Hymenagaricus Heinem. GENUS
-=======
+# Hymenagaricus Heinem. GENUS
 
 #### Status
 ACCEPTED

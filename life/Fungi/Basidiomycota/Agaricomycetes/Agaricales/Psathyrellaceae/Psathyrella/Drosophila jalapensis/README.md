@@ -1,5 +1,4 @@
-Drosophila jalapensis Murrill SPECIES
-=======
+# Drosophila jalapensis Murrill SPECIES
 
 #### Status
 ACCEPTED

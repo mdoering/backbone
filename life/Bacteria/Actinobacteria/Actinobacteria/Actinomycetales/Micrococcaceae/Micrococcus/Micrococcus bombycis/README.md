@@ -1,5 +1,4 @@
-Micrococcus bombycis SPECIES
-=======
+# Micrococcus bombycis SPECIES
 
 #### Status
 ACCEPTED

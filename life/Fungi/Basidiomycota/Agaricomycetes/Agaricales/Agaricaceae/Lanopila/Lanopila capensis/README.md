@@ -1,5 +1,4 @@
-Lanopila capensis Lloyd SPECIES
-=======
+# Lanopila capensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

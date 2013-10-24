@@ -1,5 +1,4 @@
-Lactarius mea Grgur. SPECIES
-=======
+# Lactarius mea Grgur. SPECIES
 
 #### Status
 ACCEPTED

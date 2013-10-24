@@ -1,17 +1,16 @@
-Fenestella princeps f. princeps FORM
-=======
+# Fenestella princeps Tul. & C. Tul., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Select. fung. carpol. (Paris) 2: 207 (1863)
 
 #### Original name
-Fenestella princeps f. princeps
+Fenestella princeps Tul. & C. Tul., 1863
 
 ### Remarks
 null

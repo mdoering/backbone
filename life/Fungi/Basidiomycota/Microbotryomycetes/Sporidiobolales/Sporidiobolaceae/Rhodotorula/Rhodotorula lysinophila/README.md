@@ -1,17 +1,16 @@
-Rhodotorula lysiniphila Nagah., Hamam., Nakase & Horikoshi SPECIES
-=======
+# Rhodotorula lysinophila Nagah., Hamam., Nakase & Horikoshi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Int. J. Syst. Evol. Microbiol. 53(3): 901 (2003)
 
 #### Original name
-Rhodotorula lysiniphila Nagah., Hamam., Nakase & Horikoshi
+Rhodotorula lysinophila Nagah., Hamam., Nakase & Horikoshi
 
 ### Remarks
 null

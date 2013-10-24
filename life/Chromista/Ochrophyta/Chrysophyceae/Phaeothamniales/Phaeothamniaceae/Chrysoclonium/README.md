@@ -1,5 +1,4 @@
-Chrysoclonium Pascher, 1925 GENUS
-=======
+# Chrysoclonium Pascher, 1925 GENUS
 
 #### Status
 ACCEPTED

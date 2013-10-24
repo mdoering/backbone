@@ -1,14 +1,13 @@
-Acrothecium falcatum Tehon, 1919 SPECIES
-=======
+# Curvularia falcata (Tehon) Boedijn, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 67(6): 509, tab. 18, fig. 1 (1919)
+Bull. bot. Gdns Buitenz. , Ser. III 13(1): 130 (1933)
 
 #### Original name
 Acrothecium falcatum Tehon, 1919

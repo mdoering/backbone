@@ -1,5 +1,4 @@
-Calvatia craniiformis (Schwein.) Fr. ex De Toni SPECIES
-=======
+# Calvatia craniiformis (Schwein.) Fr. ex De Toni SPECIES
 
 #### Status
 ACCEPTED

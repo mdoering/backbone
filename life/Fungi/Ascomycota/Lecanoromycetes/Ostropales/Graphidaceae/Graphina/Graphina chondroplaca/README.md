@@ -1,5 +1,4 @@
-Graphina chondroplaca Redinger SPECIES
-=======
+# Graphina chondroplaca Redinger SPECIES
 
 #### Status
 ACCEPTED

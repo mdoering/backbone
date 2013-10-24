@@ -1,5 +1,4 @@
-Tomentella autochroa var. autochroa VARIETY
-=======
+# Tomentella autochroa (Pers.) Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tomentella autochroa var. autochroa
+Thelephora autochroa Pers.
 
 ### Remarks
 null

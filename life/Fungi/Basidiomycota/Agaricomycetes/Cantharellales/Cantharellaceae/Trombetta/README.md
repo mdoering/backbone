@@ -1,5 +1,4 @@
-Trombetta GENUS
-=======
+# Trombetta GENUS
 
 #### Status
 ACCEPTED

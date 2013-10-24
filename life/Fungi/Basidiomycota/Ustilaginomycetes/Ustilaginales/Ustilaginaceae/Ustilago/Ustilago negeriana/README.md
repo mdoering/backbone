@@ -1,5 +1,4 @@
-Ustilago negeriana Dietel SPECIES
-=======
+# Ustilago negeriana Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria vicinalis Arnold SPECIES
-=======
+# Verrucaria vicinalis Arnold SPECIES
 
 #### Status
 ACCEPTED

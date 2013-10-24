@@ -1,5 +1,4 @@
-Calonectria pacifica (J.C. Kang, Crous & C.L. Schoch) L. Lombard, M.J. Wingf. & Crous, 2010 SPECIES
-=======
+# Calonectria pacifica (J.C. Kang, Crous & C.L. Schoch) L. Lombard, M.J. Wingf. & Crous, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora microplaca H. Magn. SPECIES
-=======
+# Lecanora microplaca H. Magn. SPECIES
 
 #### Status
 ACCEPTED

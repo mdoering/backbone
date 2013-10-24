@@ -1,5 +1,4 @@
-Sheariella Petr. GENUS
-=======
+# Sheariella Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphenolithus pseudoradians Bramlette & Wilcoxon, 1967 SPECIES
-=======
+# Sphenolithus pseudoradians Bramlette & Wilcoxon, 1967 SPECIES
 
 #### Status
 ACCEPTED

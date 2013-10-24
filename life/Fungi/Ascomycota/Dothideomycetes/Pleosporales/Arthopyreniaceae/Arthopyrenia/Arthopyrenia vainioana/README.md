@@ -1,5 +1,4 @@
-Arthopyrenia vainioana Räsänen ex Sbarbaro SPECIES
-=======
+# Arthopyrenia vainioana Räsänen ex Sbarbaro SPECIES
 
 #### Status
 ACCEPTED

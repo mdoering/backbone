@@ -1,5 +1,4 @@
-Protodaedalea hispida Imazeki, 1955 SPECIES
-=======
+# Protodaedalea hispida Imazeki, 1955 SPECIES
 
 #### Status
 ACCEPTED

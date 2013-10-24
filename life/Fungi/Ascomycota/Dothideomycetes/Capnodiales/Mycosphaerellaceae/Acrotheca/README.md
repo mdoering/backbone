@@ -1,5 +1,4 @@
-Acrotheca GENUS
-=======
+# Acrotheca GENUS
 
 #### Status
 ACCEPTED

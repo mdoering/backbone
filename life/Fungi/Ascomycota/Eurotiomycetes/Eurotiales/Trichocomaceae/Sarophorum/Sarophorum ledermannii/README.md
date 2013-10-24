@@ -1,14 +1,13 @@
-Penicilliopsis ledermannii (Syd. & P. Syd.) Hauman, 1936 SPECIES
-=======
+# Sarophorum ledermannii Syd. & P. Syd., 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Am. J. Trop. Med. 54: (1916)
 
 #### Original name
 Sarophorum ledermannii Syd. & P. Syd., 1916

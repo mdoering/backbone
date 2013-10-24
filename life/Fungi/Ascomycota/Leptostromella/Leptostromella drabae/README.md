@@ -1,5 +1,4 @@
-Leptostromella drabae Dearn. SPECIES
-=======
+# Leptostromella drabae Dearn. SPECIES
 
 #### Status
 ACCEPTED

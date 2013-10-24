@@ -1,5 +1,4 @@
-Placodium peragratum (Fée) Vain. SPECIES
-=======
+# Placodium peragratum (Fée) Vain. SPECIES
 
 #### Status
 ACCEPTED

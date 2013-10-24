@@ -1,5 +1,4 @@
-Ocellularia sticticans Hale SPECIES
-=======
+# Ocellularia sticticans Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dialonectria depallens (Cooke & Harkn.) Cooke SPECIES
-=======
+# Dialonectria depallens (Cooke & Harkn.) Cooke SPECIES
 
 #### Status
 ACCEPTED

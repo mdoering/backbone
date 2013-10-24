@@ -1,5 +1,4 @@
-Didymascina salicicola (Allesch.) Höhn. SPECIES
-=======
+# Didymascina salicicola (Allesch.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

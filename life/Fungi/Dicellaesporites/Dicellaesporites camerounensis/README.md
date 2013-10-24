@@ -1,5 +1,4 @@
-Dicellaesporites camerounensis Sal.-Cheb. & Locq. SPECIES
-=======
+# Dicellaesporites camerounensis Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocoprinus Maire GENUS
-=======
+# Xerocoprinus Maire GENUS
 
 #### Status
 ACCEPTED

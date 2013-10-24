@@ -1,5 +1,4 @@
-Urocystis uleana Henn. SPECIES
-=======
+# Urocystis uleana Henn. SPECIES
 
 #### Status
 ACCEPTED

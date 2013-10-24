@@ -1,5 +1,4 @@
-Lanzia echinophila (Bull.) Korf, 1982 SPECIES
-=======
+# Lanzia echinophila (Bull.) Korf, 1982 SPECIES
 
 #### Status
 ACCEPTED

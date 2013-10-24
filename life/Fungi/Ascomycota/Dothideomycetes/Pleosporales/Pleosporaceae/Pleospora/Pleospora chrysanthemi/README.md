@@ -1,5 +1,4 @@
-Pleospora chrysanthemi E. Nielsen SPECIES
-=======
+# Pleospora chrysanthemi E. Nielsen SPECIES
 
 #### Status
 ACCEPTED

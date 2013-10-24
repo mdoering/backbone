@@ -1,5 +1,4 @@
-Torresina Parr, 1947 GENUS
-=======
+# Torresina Parr, 1947 GENUS
 
 #### Status
 ACCEPTED

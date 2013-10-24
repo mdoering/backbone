@@ -1,5 +1,4 @@
-Lepiota exocarpi Cleland SPECIES
-=======
+# Lepiota exocarpi Cleland SPECIES
 
 #### Status
 ACCEPTED

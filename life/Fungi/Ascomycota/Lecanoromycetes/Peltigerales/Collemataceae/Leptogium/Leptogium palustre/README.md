@@ -1,5 +1,4 @@
-Leptogium palustre P. M. Jørg. SPECIES
-=======
+# Leptogium palustre P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

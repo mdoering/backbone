@@ -1,5 +1,4 @@
-Cytosporina halimodendri Kravtzev SPECIES
-=======
+# Cytosporina halimodendri Kravtzev SPECIES
 
 #### Status
 ACCEPTED

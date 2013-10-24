@@ -1,5 +1,4 @@
-Rectostipulina Jenny-Deshusses, 1985 GENUS
-=======
+# Rectostipulina Jenny-Deshusses, 1985 GENUS
 
 #### Status
 ACCEPTED

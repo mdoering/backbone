@@ -1,5 +1,4 @@
-Lacrymaria spiralis Kahl, 1926 SPECIES
-=======
+# Lacrymaria spiralis Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

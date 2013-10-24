@@ -1,5 +1,4 @@
-Englerulaster orbiculata McAlpine SPECIES
-=======
+# Englerulaster orbiculata McAlpine SPECIES
 
 #### Status
 ACCEPTED

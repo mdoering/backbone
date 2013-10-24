@@ -1,17 +1,16 @@
-Diplocarponella schoephiae Bat. SPECIES
-=======
+# Diplocarponella schoepfiae Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anais Soc. Biol. Pernambuco 15(1): 142 (1957)
 
 #### Original name
-Diplocarponella schoephiae Bat.
+Diplocarponella schoepfiae Bat.
 
 ### Remarks
 null

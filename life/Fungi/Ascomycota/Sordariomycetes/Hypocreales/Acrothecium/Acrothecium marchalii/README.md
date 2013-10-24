@@ -1,5 +1,4 @@
-Acrothecium marchalii Sacc. SPECIES
-=======
+# Acrothecium marchalii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothideomycetes O.E. Erikss. & Winka CLASS
-=======
+# Dothideomycetes O.E. Erikss. & Winka CLASS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplodothis GENUS
-=======
+# Haplodothis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella piliostigmatis Ts. Kobay. & E.D. Guzmán, 1988 SPECIES
-=======
+# Mycosphaerella piliostigmatis Ts. Kobay. & E.D. Guzmán, 1988 SPECIES
 
 #### Status
 ACCEPTED

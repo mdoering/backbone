@@ -1,5 +1,4 @@
-Physcia podocarpa SPECIES
-=======
+# Physcia podocarpa SPECIES
 
 #### Status
 ACCEPTED

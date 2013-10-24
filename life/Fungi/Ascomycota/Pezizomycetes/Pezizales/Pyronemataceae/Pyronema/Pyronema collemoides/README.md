@@ -1,5 +1,4 @@
-Pyronema collemoides Rehm SPECIES
-=======
+# Pyronema collemoides Rehm SPECIES
 
 #### Status
 ACCEPTED

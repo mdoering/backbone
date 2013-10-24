@@ -1,5 +1,4 @@
-Monascus mucoroides Tiegh. SPECIES
-=======
+# Monascus mucoroides Tiegh. SPECIES
 
 #### Status
 ACCEPTED

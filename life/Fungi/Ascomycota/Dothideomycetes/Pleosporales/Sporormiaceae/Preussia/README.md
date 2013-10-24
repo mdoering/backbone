@@ -1,17 +1,16 @@
-Fleischhakia Auerswald, 1869 GENUS
-=======
+# Preussia Fuckel, 1867 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 8: 2 (1869)
+Hedwigia 6: 175 (1867)
 
 #### Original name
-Fleischhakia Auerswald, 1869
+Preussia Fuckel, 1867
 
 ### Remarks
 null

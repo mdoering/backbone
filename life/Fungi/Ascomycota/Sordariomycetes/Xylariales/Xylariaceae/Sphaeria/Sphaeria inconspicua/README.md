@@ -1,5 +1,4 @@
-Sphaeria inconspicua Desm. SPECIES
-=======
+# Sphaeria inconspicua Desm. SPECIES
 
 #### Status
 ACCEPTED

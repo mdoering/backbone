@@ -1,5 +1,4 @@
-Septoria tunicae Sacc. SPECIES
-=======
+# Septoria tunicae Sacc. SPECIES
 
 #### Status
 ACCEPTED

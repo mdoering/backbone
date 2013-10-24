@@ -1,5 +1,4 @@
-Rinodina subtubulata SPECIES
-=======
+# Rinodina subtubulata SPECIES
 
 #### Status
 ACCEPTED

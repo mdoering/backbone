@@ -1,5 +1,4 @@
-Cellularia pallida (Berk.) Kuntze SPECIES
-=======
+# Cellularia pallida (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

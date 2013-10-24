@@ -1,5 +1,4 @@
-Marginulina striatula SPECIES
-=======
+# Marginulina striatula SPECIES
 
 #### Status
 ACCEPTED

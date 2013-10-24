@@ -1,5 +1,4 @@
-Septoria corynocarpi Thüm. SPECIES
-=======
+# Septoria corynocarpi Thüm. SPECIES
 
 #### Status
 ACCEPTED

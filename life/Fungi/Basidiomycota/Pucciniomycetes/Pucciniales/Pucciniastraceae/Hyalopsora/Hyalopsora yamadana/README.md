@@ -1,5 +1,4 @@
-Hyalopsora yamadana Hirats. f. SPECIES
-=======
+# Hyalopsora yamadana Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycolangloisia GENUS
-=======
+# Mycolangloisia GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Arthonia macrotheca Fée SPECIES
-=======
+# Arthothelium macrothecum (Fée) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ric. auton. lich. crost. (Verona) 55 (1852)
 
 #### Original name
 Arthonia macrotheca Fée

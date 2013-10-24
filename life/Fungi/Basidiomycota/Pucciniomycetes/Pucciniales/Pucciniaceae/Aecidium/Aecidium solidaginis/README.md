@@ -1,5 +1,4 @@
-Aecidium solidaginis Schwein. SPECIES
-=======
+# Aecidium solidaginis Schwein. SPECIES
 
 #### Status
 ACCEPTED

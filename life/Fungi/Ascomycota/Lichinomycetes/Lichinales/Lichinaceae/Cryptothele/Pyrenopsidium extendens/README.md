@@ -1,5 +1,4 @@
-Pyrenopsidium extendens (Nyl.) Forssell SPECIES
-=======
+# Pyrenopsidium extendens (Nyl.) Forssell SPECIES
 
 #### Status
 ACCEPTED

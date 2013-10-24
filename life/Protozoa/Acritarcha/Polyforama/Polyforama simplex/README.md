@@ -1,5 +1,4 @@
-Polyforama simplex Pykhova, 1969 SPECIES
-=======
+# Polyforama simplex Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

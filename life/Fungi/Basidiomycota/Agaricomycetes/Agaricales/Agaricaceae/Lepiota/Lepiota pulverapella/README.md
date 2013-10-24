@@ -1,5 +1,4 @@
-Lepiota pulverapella Zeller SPECIES
-=======
+# Lepiota pulverapella Zeller SPECIES
 
 #### Status
 ACCEPTED

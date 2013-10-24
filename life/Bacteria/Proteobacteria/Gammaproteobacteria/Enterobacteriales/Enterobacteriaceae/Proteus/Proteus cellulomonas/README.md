@@ -1,5 +1,4 @@
-Proteus cellulomonas SPECIES
-=======
+# Proteus cellulomonas SPECIES
 
 #### Status
 ACCEPTED

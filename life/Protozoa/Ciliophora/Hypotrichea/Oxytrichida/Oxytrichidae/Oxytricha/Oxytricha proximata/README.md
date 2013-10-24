@@ -1,5 +1,4 @@
-Oxytricha proximata Shibuya, 1930 SPECIES
-=======
+# Oxytricha proximata Shibuya, 1930 SPECIES
 
 #### Status
 ACCEPTED

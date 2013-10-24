@@ -1,5 +1,4 @@
-Excipulites neesii Göpp. SPECIES
-=======
+# Excipulites neesii Göpp. SPECIES
 
 #### Status
 ACCEPTED

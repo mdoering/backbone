@@ -1,17 +1,16 @@
-Cryptosporium betulinum var. carpini Grove VARIETY
-=======
+# Cryptosporium betulinum Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 2: 299 (1937)
+null
 
 #### Original name
-Cryptosporium betulinum var. carpini Grove
+Cryptosporium betulinum Corda, 1837
 
 ### Remarks
 null

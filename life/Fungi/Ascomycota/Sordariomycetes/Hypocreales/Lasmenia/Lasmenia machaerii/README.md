@@ -1,5 +1,4 @@
-Lasmenia machaerii Henn. SPECIES
-=======
+# Lasmenia machaerii Henn. SPECIES
 
 #### Status
 ACCEPTED

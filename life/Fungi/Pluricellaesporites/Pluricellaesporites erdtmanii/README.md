@@ -1,5 +1,4 @@
-Pluricellaesporites erdtmanii Hammen SPECIES
-=======
+# Pluricellaesporites erdtmanii Hammen SPECIES
 
 #### Status
 ACCEPTED

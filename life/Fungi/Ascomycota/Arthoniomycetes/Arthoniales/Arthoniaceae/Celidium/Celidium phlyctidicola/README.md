@@ -1,8 +1,7 @@
-Celidium phlycticola Vouaux SPECIES
-=======
+# Celidium phlyctidicola Vouaux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Celidium phlycticola Vouaux
+Celidium phlyctidicola Vouaux
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dermatocarpon pachylepis (Anzi) Zahlbr. SPECIES
-=======
+# Dermatocarpon pachylepis (Anzi) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

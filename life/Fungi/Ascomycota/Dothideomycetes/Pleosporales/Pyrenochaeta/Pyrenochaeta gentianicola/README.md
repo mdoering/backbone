@@ -1,5 +1,4 @@
-Pyrenochaeta gentianicola Ts. Watan. SPECIES
-=======
+# Pyrenochaeta gentianicola Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

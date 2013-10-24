@@ -1,5 +1,4 @@
-Botryobasidium longisporum G. Langer, 1994 SPECIES
-=======
+# Botryobasidium longisporum G. Langer, 1994 SPECIES
 
 #### Status
 ACCEPTED

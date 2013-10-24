@@ -1,5 +1,4 @@
-Sporotrichum stromateum Link SPECIES
-=======
+# Sporotrichum stromateum Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleosporium arundinae (Racib.) Syd. & P. Syd. SPECIES
-=======
+# Coleosporium arundinae (Racib.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

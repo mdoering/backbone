@@ -1,5 +1,4 @@
-Metasphaeria arundinariae (Cooke) Sacc. SPECIES
-=======
+# Metasphaeria arundinariae (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

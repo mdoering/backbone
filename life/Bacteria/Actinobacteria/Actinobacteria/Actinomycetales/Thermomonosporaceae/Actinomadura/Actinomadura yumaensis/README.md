@@ -1,5 +1,4 @@
-Actinomadura yumaensis Labeda et al., 1985 SPECIES
-=======
+# Actinomadura yumaensis Labeda et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

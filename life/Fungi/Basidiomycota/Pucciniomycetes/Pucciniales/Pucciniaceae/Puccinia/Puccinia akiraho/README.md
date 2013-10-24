@@ -1,5 +1,4 @@
-Puccinia akiraho G. Cunn., 1930 SPECIES
-=======
+# Puccinia akiraho G. Cunn., 1930 SPECIES
 
 #### Status
 ACCEPTED

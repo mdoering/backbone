@@ -1,5 +1,4 @@
-Sphaeria polypora Kunze SPECIES
-=======
+# Sphaeria polypora Kunze SPECIES
 
 #### Status
 ACCEPTED

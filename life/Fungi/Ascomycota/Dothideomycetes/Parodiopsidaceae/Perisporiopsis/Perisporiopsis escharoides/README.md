@@ -1,5 +1,4 @@
-Perisporiopsis escharoides (Syd.) Arx SPECIES
-=======
+# Perisporiopsis escharoides (Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

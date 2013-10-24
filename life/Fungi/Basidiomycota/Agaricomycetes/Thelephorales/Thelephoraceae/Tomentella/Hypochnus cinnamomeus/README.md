@@ -1,5 +1,4 @@
-Hypochnus cinnamomeus (Pers.) Bonord. SPECIES
-=======
+# Hypochnus cinnamomeus (Pers.) Bonord. SPECIES
 
 #### Status
 ACCEPTED

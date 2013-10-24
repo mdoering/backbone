@@ -1,5 +1,4 @@
-Polyporus inermis Ellis SPECIES
-=======
+# Polyporus inermis Ellis SPECIES
 
 #### Status
 ACCEPTED

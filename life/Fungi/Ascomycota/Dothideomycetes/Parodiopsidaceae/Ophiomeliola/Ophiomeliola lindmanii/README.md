@@ -1,5 +1,4 @@
-Ophiomeliola lindmanii Starbäck, 1899 SPECIES
-=======
+# Ophiomeliola lindmanii Starbäck, 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora vaccinii Katsuki & Tak. Kobay. SPECIES
-=======
+# Cercospora vaccinii Katsuki & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

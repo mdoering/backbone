@@ -1,5 +1,4 @@
-Anthostomella nigrotecta (Berk. & Ravenel) Sacc. SPECIES
-=======
+# Anthostomella nigrotecta (Berk. & Ravenel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophidium brachystomum (Nitschke) Berl. & Voglino SPECIES
-=======
+# Lophidium brachystomum (Nitschke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

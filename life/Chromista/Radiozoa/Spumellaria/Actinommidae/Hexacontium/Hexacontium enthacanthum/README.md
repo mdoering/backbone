@@ -1,5 +1,4 @@
-Hexacontium enthacanthum Joergensen, 1900 SPECIES
-=======
+# Hexacontium enthacanthum Joergensen, 1900 SPECIES
 
 #### Status
 ACCEPTED

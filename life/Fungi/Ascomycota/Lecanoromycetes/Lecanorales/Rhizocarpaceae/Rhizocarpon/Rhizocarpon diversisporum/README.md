@@ -1,5 +1,4 @@
-Rhizocarpon diversisporum Hav. SPECIES
-=======
+# Rhizocarpon diversisporum Hav. SPECIES
 
 #### Status
 ACCEPTED

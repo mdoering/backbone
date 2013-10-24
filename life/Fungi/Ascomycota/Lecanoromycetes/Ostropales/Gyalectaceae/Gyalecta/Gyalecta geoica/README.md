@@ -1,14 +1,13 @@
-Urceolaria geoica Wahlenb. SPECIES
-=======
+# Gyalecta geoica (Wahlenb.) Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Method. Lich. 149 (1803)
+K. Vetensk-Acad. Nya Handl. 229 (1808)
 
 #### Original name
 Urceolaria geoica Wahlenb.

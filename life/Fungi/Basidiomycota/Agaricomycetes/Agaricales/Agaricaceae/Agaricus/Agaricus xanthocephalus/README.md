@@ -1,5 +1,4 @@
-Agaricus xanthocephalus Berk. SPECIES
-=======
+# Agaricus xanthocephalus Berk. SPECIES
 
 #### Status
 ACCEPTED

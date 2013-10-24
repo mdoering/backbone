@@ -1,5 +1,4 @@
-Ordovicina Eisenack, 1937 GENUS
-=======
+# Ordovicina Eisenack, 1937 GENUS
 
 #### Status
 ACCEPTED

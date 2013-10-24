@@ -1,5 +1,4 @@
-Thiomonas Moreira & Amils, 1997 GENUS
-=======
+# Thiomonas Moreira & Amils, 1997 GENUS
 
 #### Status
 ACCEPTED

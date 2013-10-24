@@ -1,5 +1,4 @@
-Nectria dasyscyphoides Henn. SPECIES
-=======
+# Nectria dasyscyphoides Henn. SPECIES
 
 #### Status
 ACCEPTED

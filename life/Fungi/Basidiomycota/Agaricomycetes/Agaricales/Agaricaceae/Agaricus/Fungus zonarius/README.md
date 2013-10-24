@@ -1,5 +1,4 @@
-Fungus zonarius (Brond.) Kuntze SPECIES
-=======
+# Fungus zonarius (Brond.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella sphaerosperma Rostr. SPECIES
-=======
+# Sphaerella sphaerosperma Rostr. SPECIES
 
 #### Status
 ACCEPTED

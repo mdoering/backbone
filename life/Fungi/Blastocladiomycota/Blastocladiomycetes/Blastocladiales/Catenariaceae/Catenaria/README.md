@@ -1,5 +1,4 @@
-Catenaria Sorokin, 1889 GENUS
-=======
+# Catenaria Sorokin, 1889 GENUS
 
 #### Status
 ACCEPTED

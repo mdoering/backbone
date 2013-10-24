@@ -1,5 +1,4 @@
-Monoicomyces doryloniae Thaxt. SPECIES
-=======
+# Monoicomyces doryloniae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

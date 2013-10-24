@@ -1,17 +1,16 @@
-Laboulbeniella dysonichae Speg. SPECIES
-=======
+# Laboulbeniella disonichae Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. B. Aires, Ser. 3 23: 188 (1912)
 
 #### Original name
-Laboulbeniella dysonichae Speg.
+Laboulbeniella disonichae Speg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pseudocercospora symphyti Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora symphyti Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lachnella laburni W. Phillips, 1891 SPECIES
-=======
+# Lachnum laburni (W. Phillips) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Lachnella laburni W. Phillips
 
 ### Remarks
 null

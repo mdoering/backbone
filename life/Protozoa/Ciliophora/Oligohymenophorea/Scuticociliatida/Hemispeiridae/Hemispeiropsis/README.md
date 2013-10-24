@@ -1,5 +1,4 @@
-Hemispeiropsis König, 1894 GENUS
-=======
+# Hemispeiropsis König, 1894 GENUS
 
 #### Status
 ACCEPTED

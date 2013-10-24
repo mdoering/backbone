@@ -1,5 +1,4 @@
-Dactylospora pseudourceolata Sarrión & Hafellner SPECIES
-=======
+# Dactylospora pseudourceolata Sarrión & Hafellner SPECIES
 
 #### Status
 ACCEPTED

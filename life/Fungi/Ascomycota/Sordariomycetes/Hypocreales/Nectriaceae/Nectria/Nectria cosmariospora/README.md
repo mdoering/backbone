@@ -1,5 +1,4 @@
-Nectria cosmariospora Ces. & De Not. SPECIES
-=======
+# Nectria cosmariospora Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

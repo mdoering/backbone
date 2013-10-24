@@ -1,5 +1,4 @@
-Aecidium foederatum Cummins SPECIES
-=======
+# Aecidium foederatum Cummins SPECIES
 
 #### Status
 ACCEPTED

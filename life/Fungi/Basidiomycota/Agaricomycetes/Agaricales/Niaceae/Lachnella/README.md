@@ -1,5 +1,4 @@
-Lachnella E.M. Fries, 1836 GENUS
-=======
+# Lachnella E.M. Fries, 1836 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora ononidicola Gonz. Frag. SPECIES
-=======
+# Rhabdospora ononidicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

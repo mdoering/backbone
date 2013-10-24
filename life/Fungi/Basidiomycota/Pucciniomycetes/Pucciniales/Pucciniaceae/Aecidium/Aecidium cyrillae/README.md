@@ -1,5 +1,4 @@
-Aecidium cyrillae Arthur SPECIES
-=======
+# Aecidium cyrillae Arthur SPECIES
 
 #### Status
 ACCEPTED

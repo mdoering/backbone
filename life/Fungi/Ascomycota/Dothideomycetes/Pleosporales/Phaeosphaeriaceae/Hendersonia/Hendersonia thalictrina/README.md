@@ -1,5 +1,4 @@
-Hendersonia thalictrina Petr. SPECIES
-=======
+# Hendersonia thalictrina Petr. SPECIES
 
 #### Status
 ACCEPTED

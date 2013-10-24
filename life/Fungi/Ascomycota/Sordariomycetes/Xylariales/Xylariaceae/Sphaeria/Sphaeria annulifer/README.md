@@ -1,5 +1,4 @@
-Sphaeria annulifer Heer SPECIES
-=======
+# Sphaeria annulifer Heer SPECIES
 
 #### Status
 ACCEPTED

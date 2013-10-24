@@ -1,14 +1,13 @@
-Rhinotrichum macrosporum Farl., 1880 SPECIES
-=======
+# Olpitrichum macrosporum (Farl. ex Sacc.) Sumst., 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 6): 148 (1880)
+Mycologia 3(2): 55 (1911)
 
 #### Original name
 Rhinotrichum macrosporum Farl., 1880

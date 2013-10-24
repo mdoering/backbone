@@ -1,5 +1,4 @@
-Cortinarius neotriumphans Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius neotriumphans Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

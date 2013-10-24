@@ -1,14 +1,13 @@
-Geopora michaelis E. Fisch., 1898 SPECIES
-=======
+# Hydnotrya michaelis (E. Fisch.) Trappe, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 2(1): 113 (1975)
 
 #### Original name
 Geopora michaelis E. Fisch., 1898

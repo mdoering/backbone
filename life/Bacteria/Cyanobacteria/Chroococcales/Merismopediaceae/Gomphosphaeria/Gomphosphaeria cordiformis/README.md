@@ -1,5 +1,4 @@
-Gomphosphaeria cordiformis (Wille) Hansgirg SPECIES
-=======
+# Gomphosphaeria cordiformis (Wille) Hansgirg SPECIES
 
 #### Status
 ACCEPTED

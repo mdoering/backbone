@@ -1,5 +1,4 @@
-Protoleiosphaeridium petaliferum (Fombella, 1978) Fensome et al., 1990 SPECIES
-=======
+# Protoleiosphaeridium petaliferum (Fombella, 1978) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

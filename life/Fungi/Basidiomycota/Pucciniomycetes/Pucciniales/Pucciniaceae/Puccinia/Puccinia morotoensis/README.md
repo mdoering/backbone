@@ -1,5 +1,4 @@
-Puccinia morotoensis Gjaerum SPECIES
-=======
+# Puccinia morotoensis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

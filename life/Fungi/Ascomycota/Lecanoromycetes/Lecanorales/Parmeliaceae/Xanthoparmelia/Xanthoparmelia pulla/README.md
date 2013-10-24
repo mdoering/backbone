@@ -1,17 +1,16 @@
-Imbricaria prolixa var. prolixa VARIETY
-=======
+# Xanthoparmelia pulla (Ach.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxon 53(4): 970 (2004)
 
 #### Original name
-Imbricaria prolixa var. prolixa
+Parmelia pulla
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sticta gainii Hue SPECIES
-=======
+# Sticta gainii Hue SPECIES
 
 #### Status
 ACCEPTED

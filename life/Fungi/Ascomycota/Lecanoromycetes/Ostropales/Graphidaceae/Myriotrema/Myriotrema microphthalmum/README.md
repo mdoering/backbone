@@ -1,5 +1,4 @@
-Myriotrema microphthalmum (Müll. Arg.) Nagarkar & Hale SPECIES
-=======
+# Myriotrema microphthalmum (Müll. Arg.) Nagarkar & Hale SPECIES
 
 #### Status
 ACCEPTED

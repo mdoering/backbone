@@ -1,17 +1,16 @@
-Aithaloderma hederae var. hederae VARIETY
-=======
+# Acanthostigma hederae Pat., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Bot. , London 3: 250 (1889)
 
 #### Original name
-Aithaloderma hederae var. hederae
+Acanthostigma hederae Pat., 1889
 
 ### Remarks
 null

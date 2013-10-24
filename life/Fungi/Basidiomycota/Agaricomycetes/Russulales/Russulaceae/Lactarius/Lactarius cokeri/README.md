@@ -1,5 +1,4 @@
-Lactarius cokeri A.H. Sm. & Hesler SPECIES
-=======
+# Lactarius cokeri A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

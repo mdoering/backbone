@@ -1,5 +1,4 @@
-Diplodia osyridis (Castagne) Har. & Brunaud SPECIES
-=======
+# Diplodia osyridis (Castagne) Har. & Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enchelys caudata SPECIES
-=======
+# Enchelys caudata SPECIES
 
 #### Status
 ACCEPTED

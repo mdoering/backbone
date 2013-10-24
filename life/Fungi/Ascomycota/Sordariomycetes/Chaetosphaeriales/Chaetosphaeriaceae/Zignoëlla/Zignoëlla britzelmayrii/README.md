@@ -1,8 +1,7 @@
-Zignoëlla britzelmayri Sacc. SPECIES
-=======
+# Zignoëlla britzelmayrii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Zignoëlla britzelmayri Sacc.
+Zignoëlla britzelmayrii Sacc.
 
 ### Remarks
 null

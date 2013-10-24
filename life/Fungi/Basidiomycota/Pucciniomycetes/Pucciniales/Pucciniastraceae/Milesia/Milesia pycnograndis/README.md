@@ -1,5 +1,4 @@
-Milesia pycnograndis Arthur SPECIES
-=======
+# Milesia pycnograndis Arthur SPECIES
 
 #### Status
 ACCEPTED

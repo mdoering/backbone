@@ -1,5 +1,4 @@
-Crepidotus submollis Murrill SPECIES
-=======
+# Crepidotus submollis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Lessonia grandifolia A. Gepp & E.S. Gepp SPECIES
-=======
+# Himantothallus grandifolius (A. Gepp & E.S. Gepp) Zinova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

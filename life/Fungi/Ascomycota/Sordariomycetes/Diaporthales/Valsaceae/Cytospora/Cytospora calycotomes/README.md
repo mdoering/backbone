@@ -1,5 +1,4 @@
-Cytospora calycotomes Politis SPECIES
-=======
+# Cytospora calycotomes Politis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyngbya chlorospira Skuja SPECIES
-=======
+# Lyngbya chlorospira Skuja SPECIES
 
 #### Status
 ACCEPTED

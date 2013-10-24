@@ -1,5 +1,4 @@
-Vermicularia phlogina Fairm. SPECIES
-=======
+# Vermicularia phlogina Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria calycina J. Kickx f. SPECIES
-=======
+# Septoria calycina J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

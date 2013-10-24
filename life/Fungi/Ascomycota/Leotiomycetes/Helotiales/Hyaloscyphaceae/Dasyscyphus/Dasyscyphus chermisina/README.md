@@ -1,8 +1,7 @@
-Dasyscypha chermisina E.K. Cash SPECIES
-=======
+# Dasyscyphus chermisina E.K. Cash SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha chermisina E.K. Cash
+Dasyscyphus chermisina E.K. Cash
 
 ### Remarks
 null

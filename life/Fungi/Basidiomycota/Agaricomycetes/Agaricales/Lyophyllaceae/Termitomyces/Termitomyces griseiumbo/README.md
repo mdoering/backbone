@@ -1,17 +1,16 @@
-Termitomyces grisumbo Mossebo SPECIES
-=======
+# Termitomyces griseiumbo Mossebo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Mossebo, Amougou & Atangana, Bull. Soc. mycol. Fr. 118(3): 217 (2003)
 
 #### Original name
-Termitomyces grisumbo Mossebo
+Termitomyces griseiumbo Mossebo
 
 ### Remarks
 null

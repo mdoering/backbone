@@ -1,5 +1,4 @@
-Arthonia beltraminiana (A. Massal.) H. Olivier SPECIES
-=======
+# Arthonia beltraminiana (A. Massal.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

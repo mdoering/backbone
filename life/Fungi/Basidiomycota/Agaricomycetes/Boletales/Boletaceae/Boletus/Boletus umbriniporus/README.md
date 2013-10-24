@@ -1,5 +1,4 @@
-Boletus umbriniporus Hongo SPECIES
-=======
+# Boletus umbriniporus Hongo SPECIES
 
 #### Status
 ACCEPTED

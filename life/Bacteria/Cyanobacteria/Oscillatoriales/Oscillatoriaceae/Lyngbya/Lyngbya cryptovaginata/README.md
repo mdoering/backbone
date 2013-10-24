@@ -1,5 +1,4 @@
-Lyngbya cryptovaginata var. major B.N. Prasad, R.K. Mehrotra & Y. Singh VARIETY
-=======
+# Lyngbya cryptovaginata SPECIES
 
 #### Status
 ACCEPTED

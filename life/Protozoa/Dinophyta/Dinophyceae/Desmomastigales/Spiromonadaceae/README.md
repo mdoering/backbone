@@ -1,5 +1,4 @@
-Spiromonadaceae FAMILY
-=======
+# Spiromonadaceae FAMILY
 
 #### Status
 ACCEPTED

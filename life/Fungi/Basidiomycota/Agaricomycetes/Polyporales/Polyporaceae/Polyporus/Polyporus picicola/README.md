@@ -1,5 +1,4 @@
-Polyporus picicola Velen. SPECIES
-=======
+# Polyporus picicola Velen. SPECIES
 
 #### Status
 ACCEPTED

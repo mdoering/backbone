@@ -1,5 +1,4 @@
-Verpa grisea Corda SPECIES
-=======
+# Verpa grisea Corda SPECIES
 
 #### Status
 ACCEPTED

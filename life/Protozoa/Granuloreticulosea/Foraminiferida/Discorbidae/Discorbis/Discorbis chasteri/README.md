@@ -1,5 +1,4 @@
-Discorbis chasteri Earland & Heron-Allen SPECIES
-=======
+# Discorbis chasteri Earland & Heron-Allen SPECIES
 
 #### Status
 ACCEPTED

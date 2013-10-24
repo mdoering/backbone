@@ -1,5 +1,4 @@
-Lepiota le-testui Pat. SPECIES
-=======
+# Lepiota le-testui Pat. SPECIES
 
 #### Status
 ACCEPTED

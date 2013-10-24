@@ -1,5 +1,4 @@
-Seimatosporium hebeiense W.P. Wu SPECIES
-=======
+# Seimatosporium hebeiense W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

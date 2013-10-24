@@ -1,5 +1,4 @@
-Fusidium persicinum Fuckel SPECIES
-=======
+# Fusidium persicinum Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria apposita Nyl. SPECIES
-=======
+# Verrucaria apposita Nyl. SPECIES
 
 #### Status
 ACCEPTED

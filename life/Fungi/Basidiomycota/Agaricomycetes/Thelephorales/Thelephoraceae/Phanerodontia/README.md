@@ -1,5 +1,4 @@
-Phanerodontia GENUS
-=======
+# Phanerodontia GENUS
 
 #### Status
 ACCEPTED

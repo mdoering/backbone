@@ -1,17 +1,16 @@
-Enteridaceae FAMILY
-=======
+# Cribrariaceae Corda FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. fung. (Prague) 2: 22 (1838)
 
 #### Original name
-null
+Cribrariaceae Corda
 
 ### Remarks
 null

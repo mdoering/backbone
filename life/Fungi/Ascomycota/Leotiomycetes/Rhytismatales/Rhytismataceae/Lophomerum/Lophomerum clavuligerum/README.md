@@ -1,14 +1,13 @@
-Hypoderma clavuligerum (Speg.) Kuntze, 1898 SPECIES
-=======
+# Lophomerum clavuligerum (Speg.) Darker, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 487 (1898)
+Can. J. Bot. 45: 1434 (1967)
 
 #### Original name
 Lophodermium clavuligerum Speg., 1888

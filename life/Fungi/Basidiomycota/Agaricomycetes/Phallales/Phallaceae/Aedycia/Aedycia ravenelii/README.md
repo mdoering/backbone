@@ -1,5 +1,4 @@
-Aedycia ravenelii (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Aedycia ravenelii (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

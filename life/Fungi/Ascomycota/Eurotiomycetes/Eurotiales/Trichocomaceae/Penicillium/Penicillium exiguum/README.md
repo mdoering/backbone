@@ -1,5 +1,4 @@
-Penicillium exiguum Bainier SPECIES
-=======
+# Penicillium exiguum Bainier SPECIES
 
 #### Status
 ACCEPTED

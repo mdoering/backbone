@@ -1,5 +1,4 @@
-Astasia granulata E.G. Pringsheim SPECIES
-=======
+# Astasia granulata E.G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

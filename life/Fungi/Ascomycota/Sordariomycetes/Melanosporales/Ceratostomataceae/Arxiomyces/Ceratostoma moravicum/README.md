@@ -1,5 +1,4 @@
-Ceratostoma moravicum Petr. SPECIES
-=======
+# Ceratostoma moravicum Petr. SPECIES
 
 #### Status
 ACCEPTED

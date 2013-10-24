@@ -1,5 +1,4 @@
-Amoebomyces pseudolmediae Bat. & H. Maia SPECIES
-=======
+# Amoebomyces pseudolmediae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

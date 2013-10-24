@@ -1,5 +1,4 @@
-Morenoina azorica Dennis & Spooner SPECIES
-=======
+# Morenoina azorica Dennis & Spooner SPECIES
 
 #### Status
 ACCEPTED

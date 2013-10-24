@@ -1,5 +1,4 @@
-Diplodina pisana Berl. SPECIES
-=======
+# Diplodina pisana Berl. SPECIES
 
 #### Status
 ACCEPTED

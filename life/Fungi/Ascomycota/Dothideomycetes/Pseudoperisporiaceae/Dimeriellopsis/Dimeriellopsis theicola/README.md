@@ -1,5 +1,4 @@
-Dimeriellopsis theicola Sawada & W. Yamam. SPECIES
-=======
+# Dimeriellopsis theicola Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

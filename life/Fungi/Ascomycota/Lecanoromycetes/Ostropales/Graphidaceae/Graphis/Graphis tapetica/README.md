@@ -1,5 +1,4 @@
-Graphis tapetica Zahlbr. SPECIES
-=======
+# Graphis tapetica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

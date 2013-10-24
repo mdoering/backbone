@@ -1,5 +1,4 @@
-Scleroconidioma sphagnicola Tsuneda, Currah & Thormann, 2000 SPECIES
-=======
+# Scleroconidioma sphagnicola Tsuneda, Currah & Thormann, 2000 SPECIES
 
 #### Status
 ACCEPTED

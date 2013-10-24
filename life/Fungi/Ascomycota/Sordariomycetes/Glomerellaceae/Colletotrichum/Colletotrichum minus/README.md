@@ -1,5 +1,4 @@
-Colletotrichum minus Zimm. SPECIES
-=======
+# Colletotrichum minus Zimm. SPECIES
 
 #### Status
 ACCEPTED

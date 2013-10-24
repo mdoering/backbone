@@ -1,5 +1,4 @@
-Valetoniellopsis laxa Samuels & M.E. Barr, 1998 SPECIES
-=======
+# Valetoniellopsis laxa Samuels & M.E. Barr, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia artemisiae Schumach. SPECIES
-=======
+# Tubercularia artemisiae Schumach. SPECIES
 
 #### Status
 ACCEPTED

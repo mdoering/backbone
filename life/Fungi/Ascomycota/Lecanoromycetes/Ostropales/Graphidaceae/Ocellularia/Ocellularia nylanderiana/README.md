@@ -1,5 +1,4 @@
-Ocellularia nylanderiana Hale SPECIES
-=======
+# Ocellularia nylanderiana Hale SPECIES
 
 #### Status
 ACCEPTED

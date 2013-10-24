@@ -1,5 +1,4 @@
-Gonyaulax ligustica Rampi, 1951 SPECIES
-=======
+# Gonyaulax ligustica Rampi, 1951 SPECIES
 
 #### Status
 ACCEPTED

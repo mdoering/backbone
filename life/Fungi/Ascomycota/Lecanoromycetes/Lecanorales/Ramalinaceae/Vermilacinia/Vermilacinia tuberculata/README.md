@@ -1,5 +1,4 @@
-Vermilacinia tuberculata (Riefner, Bowler, J.E. Marsh & T.H. Nash) Spjut SPECIES
-=======
+# Vermilacinia tuberculata (Riefner, Bowler, J.E. Marsh & T.H. Nash) Spjut SPECIES
 
 #### Status
 ACCEPTED

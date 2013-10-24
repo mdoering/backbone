@@ -1,5 +1,4 @@
-Cercidospora myricae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Cercidospora myricae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

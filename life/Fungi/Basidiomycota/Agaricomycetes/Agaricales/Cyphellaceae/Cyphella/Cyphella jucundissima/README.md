@@ -1,5 +1,4 @@
-Cyphella jucundissima (Desm.) Höhn. SPECIES
-=======
+# Cyphella jucundissima (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

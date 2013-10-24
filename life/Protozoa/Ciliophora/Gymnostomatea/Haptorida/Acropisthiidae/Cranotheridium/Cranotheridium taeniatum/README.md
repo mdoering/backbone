@@ -1,5 +1,4 @@
-Cranotheridium taeniatum Schewiakoff, 1893 SPECIES
-=======
+# Cranotheridium taeniatum Schewiakoff, 1893 SPECIES
 
 #### Status
 ACCEPTED

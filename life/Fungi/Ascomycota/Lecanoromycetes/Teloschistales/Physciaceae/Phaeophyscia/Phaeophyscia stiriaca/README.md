@@ -1,5 +1,4 @@
-Phaeophyscia stiriaca (Poelt) Clauzade & Cl. Roux SPECIES
-=======
+# Phaeophyscia stiriaca (Poelt) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

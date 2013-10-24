@@ -1,11 +1,10 @@
-Rhodomonas Kluyver & van Niel, 1936 GENUS
-=======
+# Rhodopseudomonas GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

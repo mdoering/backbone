@@ -1,5 +1,4 @@
-Ascocalyx asiaticus J.W. Groves SPECIES
-=======
+# Ascocalyx asiaticus J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

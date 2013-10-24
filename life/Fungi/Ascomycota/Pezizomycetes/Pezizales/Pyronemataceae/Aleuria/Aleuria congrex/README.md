@@ -1,5 +1,4 @@
-Aleuria congrex (P. Karst.) Svrcek SPECIES
-=======
+# Aleuria congrex (P. Karst.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

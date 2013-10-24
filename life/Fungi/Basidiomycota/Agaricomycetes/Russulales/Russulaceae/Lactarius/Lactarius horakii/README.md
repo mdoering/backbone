@@ -1,5 +1,4 @@
-Lactarius horakii Nuytinck & Verbeken SPECIES
-=======
+# Lactarius horakii Nuytinck & Verbeken SPECIES
 
 #### Status
 ACCEPTED

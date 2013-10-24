@@ -1,5 +1,4 @@
-Macrophoma vincetoxici Traverso & Spessa SPECIES
-=======
+# Macrophoma vincetoxici Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

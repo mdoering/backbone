@@ -1,5 +1,4 @@
-Micropera mali Pass. SPECIES
-=======
+# Micropera mali Pass. SPECIES
 
 #### Status
 ACCEPTED

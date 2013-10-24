@@ -1,5 +1,4 @@
-Ramlibacter Heulin et al., 2003 GENUS
-=======
+# Ramlibacter Heulin et al., 2003 GENUS
 
 #### Status
 ACCEPTED

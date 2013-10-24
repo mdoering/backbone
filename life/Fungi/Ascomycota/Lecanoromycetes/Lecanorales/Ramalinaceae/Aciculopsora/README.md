@@ -1,5 +1,4 @@
-Aciculopsora Aptroot & Trest GENUS
-=======
+# Aciculopsora Aptroot & Trest GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytisma eugeniacearum Corda SPECIES
-=======
+# Rhytisma eugeniacearum Corda SPECIES
 
 #### Status
 ACCEPTED

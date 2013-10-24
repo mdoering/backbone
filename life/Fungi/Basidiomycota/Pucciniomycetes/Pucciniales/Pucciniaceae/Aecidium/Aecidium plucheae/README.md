@@ -1,5 +1,4 @@
-Aecidium plucheae Henn. SPECIES
-=======
+# Aecidium plucheae Henn. SPECIES
 
 #### Status
 ACCEPTED

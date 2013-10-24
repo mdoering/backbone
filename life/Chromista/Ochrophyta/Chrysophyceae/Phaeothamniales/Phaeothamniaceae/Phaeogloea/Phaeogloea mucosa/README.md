@@ -1,5 +1,4 @@
-Phaeogloea mucosa Chodat SPECIES
-=======
+# Phaeogloea mucosa Chodat SPECIES
 
 #### Status
 ACCEPTED

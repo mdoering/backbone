@@ -1,5 +1,4 @@
-Tyromyces subgiganteus (Berk. & M.A. Curtis) Ryvarden SPECIES
-=======
+# Tyromyces subgiganteus (Berk. & M.A. Curtis) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

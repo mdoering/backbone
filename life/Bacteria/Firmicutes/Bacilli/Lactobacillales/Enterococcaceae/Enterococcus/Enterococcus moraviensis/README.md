@@ -1,5 +1,4 @@
-Enterococcus moraviensis Svec et al., 2001 SPECIES
-=======
+# Enterococcus moraviensis Svec et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletinus borealis Peck SPECIES
-=======
+# Boletinus borealis Peck SPECIES
 
 #### Status
 ACCEPTED

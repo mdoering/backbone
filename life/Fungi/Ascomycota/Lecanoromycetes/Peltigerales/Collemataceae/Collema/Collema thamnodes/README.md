@@ -1,5 +1,4 @@
-Collema thamnodes Riddle SPECIES
-=======
+# Collema thamnodes Riddle SPECIES
 
 #### Status
 ACCEPTED

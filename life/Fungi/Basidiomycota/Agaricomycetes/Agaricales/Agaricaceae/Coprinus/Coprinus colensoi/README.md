@@ -1,5 +1,4 @@
-Coprinus colensoi Berk., 1855 SPECIES
-=======
+# Coprinus colensoi Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Korotnevella Goodkov, 1988 GENUS
-=======
+# Korotnevella Goodkov, 1988 GENUS
 
 #### Status
 ACCEPTED

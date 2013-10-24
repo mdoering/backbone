@@ -1,5 +1,4 @@
-Pythium scleroteichum Drechsler, 1934 SPECIES
-=======
+# Pythium scleroteichum Drechsler, 1934 SPECIES
 
 #### Status
 ACCEPTED

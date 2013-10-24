@@ -1,5 +1,4 @@
-Metasphaeria palmetta (Cooke) Sacc. SPECIES
-=======
+# Metasphaeria palmetta (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

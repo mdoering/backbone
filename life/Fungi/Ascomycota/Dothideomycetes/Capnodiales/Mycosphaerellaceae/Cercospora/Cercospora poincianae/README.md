@@ -1,5 +1,4 @@
-Cercospora poincianae Chupp & A.S. Mull. SPECIES
-=======
+# Cercospora poincianae Chupp & A.S. Mull. SPECIES
 
 #### Status
 ACCEPTED

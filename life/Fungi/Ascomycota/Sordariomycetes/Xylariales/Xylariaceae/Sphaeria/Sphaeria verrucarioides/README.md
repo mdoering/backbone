@@ -1,5 +1,4 @@
-Sphaeria verrucarioides P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria verrucarioides P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

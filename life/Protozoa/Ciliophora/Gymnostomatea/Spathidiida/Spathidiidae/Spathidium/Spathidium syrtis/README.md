@@ -1,5 +1,4 @@
-Spathidium syrtis Lepsi, 1962 SPECIES
-=======
+# Spathidium syrtis Lepsi, 1962 SPECIES
 
 #### Status
 ACCEPTED

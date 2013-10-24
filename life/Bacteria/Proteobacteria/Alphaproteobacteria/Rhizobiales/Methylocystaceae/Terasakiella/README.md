@@ -1,5 +1,4 @@
-Terasakiella Satomi et al., 2002 GENUS
-=======
+# Terasakiella Satomi et al., 2002 GENUS
 
 #### Status
 ACCEPTED

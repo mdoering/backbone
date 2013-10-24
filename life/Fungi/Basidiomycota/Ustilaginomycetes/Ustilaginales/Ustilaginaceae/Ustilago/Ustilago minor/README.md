@@ -1,5 +1,4 @@
-Ustilago minor Norton SPECIES
-=======
+# Ustilago minor Norton SPECIES
 
 #### Status
 ACCEPTED

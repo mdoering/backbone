@@ -1,17 +1,16 @@
-Meliola barlariae Srinivasulu SPECIES
-=======
+# Meliola barleriae Srinivasulu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 47: 423 (1974)
 
 #### Original name
-Meliola barlariae Srinivasulu
+Meliola barleriae Srinivasulu
 
 ### Remarks
 null

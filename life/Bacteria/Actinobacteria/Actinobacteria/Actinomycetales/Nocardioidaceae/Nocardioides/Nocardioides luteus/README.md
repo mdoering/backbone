@@ -1,5 +1,4 @@
-Nocardioides luteus Prauser, 1985 SPECIES
-=======
+# Nocardioides luteus Prauser, 1985 SPECIES
 
 #### Status
 ACCEPTED

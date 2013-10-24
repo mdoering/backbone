@@ -1,5 +1,4 @@
-Gloeoglossum affine E.J. Durand SPECIES
-=======
+# Gloeoglossum affine E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

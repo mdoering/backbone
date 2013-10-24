@@ -1,5 +1,4 @@
-Helotium effugiens (Roberge ex Desm.) P. Karst. SPECIES
-=======
+# Helotium effugiens (Roberge ex Desm.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

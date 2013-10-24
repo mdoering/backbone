@@ -1,5 +1,4 @@
-Helminthosporium palmigenum Matsush., 1971 SPECIES
-=======
+# Helminthosporium palmigenum Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

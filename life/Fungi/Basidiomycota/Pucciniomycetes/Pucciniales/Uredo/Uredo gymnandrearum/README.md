@@ -1,5 +1,4 @@
-Uredo gymnandrearum Corda SPECIES
-=======
+# Uredo gymnandrearum Corda SPECIES
 
 #### Status
 ACCEPTED

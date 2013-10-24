@@ -1,5 +1,4 @@
-Nectria adelphica Cooke & Massee SPECIES
-=======
+# Nectria adelphica Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

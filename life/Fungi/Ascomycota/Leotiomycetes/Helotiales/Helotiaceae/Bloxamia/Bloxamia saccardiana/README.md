@@ -1,5 +1,4 @@
-Bloxamia saccardiana Allesch. SPECIES
-=======
+# Bloxamia saccardiana Allesch. SPECIES
 
 #### Status
 ACCEPTED

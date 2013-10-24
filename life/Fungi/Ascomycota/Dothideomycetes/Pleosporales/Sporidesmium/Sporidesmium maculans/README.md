@@ -1,5 +1,4 @@
-Sporidesmium maculans Berk. & M.A. Curtis SPECIES
-=======
+# Sporidesmium maculans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

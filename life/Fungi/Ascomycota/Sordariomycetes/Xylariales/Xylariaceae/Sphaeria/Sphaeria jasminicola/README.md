@@ -1,5 +1,4 @@
-Sphaeria jasminicola Desm. SPECIES
-=======
+# Sphaeria jasminicola Desm. SPECIES
 
 #### Status
 ACCEPTED

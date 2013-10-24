@@ -1,5 +1,4 @@
-Psilocybe guilartensis Guzmán, F. Tapia & Nieves-Riv. SPECIES
-=======
+# Psilocybe guilartensis Guzmán, F. Tapia & Nieves-Riv. SPECIES
 
 #### Status
 ACCEPTED

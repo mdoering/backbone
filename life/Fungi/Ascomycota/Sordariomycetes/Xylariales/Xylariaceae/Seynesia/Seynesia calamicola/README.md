@@ -1,5 +1,4 @@
-Seynesia calamicola Henn. & E. Nyman SPECIES
-=======
+# Seynesia calamicola Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

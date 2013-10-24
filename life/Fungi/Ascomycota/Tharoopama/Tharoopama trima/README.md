@@ -1,5 +1,4 @@
-Tharoopama trima Subram. SPECIES
-=======
+# Tharoopama trima Subram. SPECIES
 
 #### Status
 ACCEPTED

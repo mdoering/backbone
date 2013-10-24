@@ -1,5 +1,4 @@
-Russula clementinae Reumaux SPECIES
-=======
+# Russula clementinae Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius paludigenus Desjardin SPECIES
-=======
+# Marasmius paludigenus Desjardin SPECIES
 
 #### Status
 ACCEPTED

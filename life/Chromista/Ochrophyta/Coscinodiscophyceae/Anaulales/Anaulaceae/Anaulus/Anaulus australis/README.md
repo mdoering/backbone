@@ -1,5 +1,4 @@
-Anaulus australis G. Drebes & D. Schulz SPECIES
-=======
+# Anaulus australis G. Drebes & D. Schulz SPECIES
 
 #### Status
 ACCEPTED

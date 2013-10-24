@@ -1,5 +1,4 @@
-Ramaria highlandensis R.H. Petersen, 1988 SPECIES
-=======
+# Ramaria highlandensis R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

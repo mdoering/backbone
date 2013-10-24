@@ -1,5 +1,4 @@
-Dermocybe egmontiana E. Horak, 1988 SPECIES
-=======
+# Dermocybe egmontiana E. Horak, 1988 SPECIES
 
 #### Status
 ACCEPTED

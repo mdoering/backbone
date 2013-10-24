@@ -1,5 +1,4 @@
-Arrhenia subglobispora (G. Moreno, Heykoop & E. Horak) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
-=======
+# Arrhenia subglobispora (G. Moreno, Heykoop & E. Horak) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

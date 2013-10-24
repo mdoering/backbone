@@ -1,5 +1,4 @@
-Aleurisma salmoneum Vuill. SPECIES
-=======
+# Aleurisma salmoneum Vuill. SPECIES
 
 #### Status
 ACCEPTED

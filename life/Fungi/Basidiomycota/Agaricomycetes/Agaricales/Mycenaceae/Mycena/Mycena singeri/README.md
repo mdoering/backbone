@@ -1,5 +1,4 @@
-Mycena singeri Lodge SPECIES
-=======
+# Mycena singeri Lodge SPECIES
 
 #### Status
 ACCEPTED

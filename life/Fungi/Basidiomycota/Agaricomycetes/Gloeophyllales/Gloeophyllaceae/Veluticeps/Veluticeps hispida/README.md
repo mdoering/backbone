@@ -1,5 +1,4 @@
-Veluticeps hispida Berk. ex Cooke SPECIES
-=======
+# Veluticeps hispida Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

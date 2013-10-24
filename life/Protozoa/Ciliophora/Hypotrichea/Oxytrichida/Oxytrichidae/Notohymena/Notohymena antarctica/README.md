@@ -1,5 +1,4 @@
-Notohymena antarctica Foissner, 1996 SPECIES
-=======
+# Notohymena antarctica Foissner, 1996 SPECIES
 
 #### Status
 ACCEPTED

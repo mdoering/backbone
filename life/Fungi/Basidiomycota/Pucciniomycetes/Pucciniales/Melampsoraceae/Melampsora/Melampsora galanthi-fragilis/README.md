@@ -1,5 +1,4 @@
-Melampsora galanthi-fragilis Kleb., 1901 SPECIES
-=======
+# Melampsora galanthi-fragilis Kleb., 1901 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Selenidium sipunculi (Dogiel, 1907) SPECIES
-=======
+# Selenidioides sipunculi Dogiel, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

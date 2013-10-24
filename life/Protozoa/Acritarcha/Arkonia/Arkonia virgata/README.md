@@ -1,5 +1,4 @@
-Arkonia virgata Burmann, 1970 SPECIES
-=======
+# Arkonia virgata Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria sparganii Pass. SPECIES
-=======
+# Septoria sparganii Pass. SPECIES
 
 #### Status
 ACCEPTED

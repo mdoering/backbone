@@ -1,5 +1,4 @@
-Caeoma smilacinum Barclay SPECIES
-=======
+# Caeoma smilacinum Barclay SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma mucosa Speg. SPECIES
-=======
+# Phoma mucosa Speg. SPECIES
 
 #### Status
 ACCEPTED

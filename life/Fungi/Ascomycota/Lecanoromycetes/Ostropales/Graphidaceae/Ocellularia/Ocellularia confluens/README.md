@@ -1,17 +1,16 @@
-Ascidium confluens var. polyporum Kremp. VARIETY
-=======
+# Ocellularia confluens (Kremp.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 587 (1923)
 
 #### Original name
-null
+Ascidium confluens Kremp.
 
 ### Remarks
 null

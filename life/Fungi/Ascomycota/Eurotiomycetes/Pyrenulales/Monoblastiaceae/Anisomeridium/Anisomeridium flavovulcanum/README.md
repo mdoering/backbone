@@ -1,17 +1,16 @@
-Anisomeridium flavovulcanus Komposch SPECIES
-=======
+# Anisomeridium flavovulcanum Komposch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 37(6): 520 (2005)
 
 #### Original name
-Anisomeridium flavovulcanus Komposch
+Anisomeridium flavovulcanum Komposch
 
 ### Remarks
 null

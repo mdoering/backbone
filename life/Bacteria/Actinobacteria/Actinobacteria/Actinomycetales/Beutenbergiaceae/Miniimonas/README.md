@@ -1,5 +1,4 @@
-Miniimonas Ue, Matsuo, Kasai & Yokota, 2011 GENUS
-=======
+# Miniimonas Ue, Matsuo, Kasai & Yokota, 2011 GENUS
 
 #### Status
 ACCEPTED

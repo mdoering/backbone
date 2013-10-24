@@ -1,8 +1,7 @@
-Rhabdoderma gorskii Woloszynsky SPECIES
-=======
+# Rhabdoderma lineare Schmidle & Lauterborn SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

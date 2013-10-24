@@ -1,5 +1,4 @@
-Lecanora glaucoatrodes Zahlbr. SPECIES
-=======
+# Lecanora glaucoatrodes Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

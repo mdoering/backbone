@@ -1,5 +1,4 @@
-Lecidea commutans (Nyl.) Hue SPECIES
-=======
+# Lecidea commutans (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania phaeolucens (Nyl.) Zahlbr. SPECIES
-=======
+# Lecania phaeolucens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

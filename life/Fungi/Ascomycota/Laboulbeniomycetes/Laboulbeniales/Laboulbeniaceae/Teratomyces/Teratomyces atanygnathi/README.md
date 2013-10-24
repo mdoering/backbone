@@ -1,5 +1,4 @@
-Teratomyces atanygnathi Thaxt. SPECIES
-=======
+# Teratomyces atanygnathi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo balsamodendri Cooke SPECIES
-=======
+# Uredo balsamodendri Cooke SPECIES
 
 #### Status
 ACCEPTED

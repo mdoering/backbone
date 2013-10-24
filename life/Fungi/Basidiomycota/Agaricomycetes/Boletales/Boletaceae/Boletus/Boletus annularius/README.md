@@ -1,5 +1,4 @@
-Boletus annularius Sowerby SPECIES
-=======
+# Boletus annularius Sowerby SPECIES
 
 #### Status
 ACCEPTED

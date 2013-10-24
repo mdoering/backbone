@@ -1,14 +1,13 @@
-Callopisma pindarense Räsänen SPECIES
-=======
+# Ioplaca pindarensis (Räsänen) Poelt & Hinter. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 50: 235 (1993)
 
 #### Original name
 Callopisma pindarense Räsänen

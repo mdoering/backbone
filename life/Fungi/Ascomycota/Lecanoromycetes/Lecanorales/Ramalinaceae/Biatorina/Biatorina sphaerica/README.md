@@ -1,5 +1,4 @@
-Biatorina sphaerica A. Massal. SPECIES
-=======
+# Biatorina sphaerica A. Massal. SPECIES
 
 #### Status
 ACCEPTED

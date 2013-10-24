@@ -1,5 +1,4 @@
-Glonium interruptum var. interruptum VARIETY
-=======
+# Glonium interruptum Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Glonium interruptum var. interruptum
+Glonium interruptum Sacc.
 
 ### Remarks
 null

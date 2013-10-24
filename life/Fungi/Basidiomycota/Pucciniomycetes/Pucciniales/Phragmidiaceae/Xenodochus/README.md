@@ -1,5 +1,4 @@
-Xenodochus Schlechtendal, 1826 GENUS
-=======
+# Xenodochus Schlechtendal, 1826 GENUS
 
 #### Status
 ACCEPTED

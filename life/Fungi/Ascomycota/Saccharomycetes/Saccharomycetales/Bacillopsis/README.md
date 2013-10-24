@@ -1,5 +1,4 @@
-Bacillopsis Petschenko, 1908 GENUS
-=======
+# Bacillopsis Petschenko, 1908 GENUS
 
 #### Status
 ACCEPTED

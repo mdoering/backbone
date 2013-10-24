@@ -1,5 +1,4 @@
-Phyllosticta euchlaenae Sacc. SPECIES
-=======
+# Phyllosticta euchlaenae Sacc. SPECIES
 
 #### Status
 ACCEPTED

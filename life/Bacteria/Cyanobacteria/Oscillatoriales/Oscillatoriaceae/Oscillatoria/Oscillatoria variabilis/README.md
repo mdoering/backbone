@@ -1,5 +1,4 @@
-Oscillatoria variabilis C.B. Rao SPECIES
-=======
+# Oscillatoria variabilis C.B. Rao SPECIES
 
 #### Status
 ACCEPTED

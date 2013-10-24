@@ -1,5 +1,4 @@
-Uredo lafoenseae H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo lafoenseae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

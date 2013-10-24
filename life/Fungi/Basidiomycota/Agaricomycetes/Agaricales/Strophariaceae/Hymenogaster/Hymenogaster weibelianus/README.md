@@ -1,5 +1,4 @@
-Hymenogaster weibelianus Maire SPECIES
-=======
+# Hymenogaster weibelianus Maire SPECIES
 
 #### Status
 ACCEPTED

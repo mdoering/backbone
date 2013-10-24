@@ -1,5 +1,4 @@
-Botrydium granulatum var. kolkwitzianum Vischer VARIETY
-=======
+# Botrydium granulatum (Linnaeus) Greville SPECIES
 
 #### Status
 ACCEPTED

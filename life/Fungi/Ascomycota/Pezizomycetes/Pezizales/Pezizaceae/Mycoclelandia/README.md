@@ -1,17 +1,16 @@
-Clelandia Trappe GENUS
-=======
+# Mycoclelandia Trappe & G.W. Beaton GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 9(1): 331 (1979)
+Trans. Br. mycol. Soc. 83(536): 536 (1984)
 
 #### Original name
-Clelandia Trappe
+Mycoclelandia Trappe & G.W. Beaton
 
 ### Remarks
 null

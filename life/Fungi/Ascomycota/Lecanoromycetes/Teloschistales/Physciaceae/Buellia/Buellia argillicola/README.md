@@ -1,5 +1,4 @@
-Buellia argillicola B. de Lesd. SPECIES
-=======
+# Buellia argillicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

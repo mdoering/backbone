@@ -1,5 +1,4 @@
-Anthostoma linospermum (Mont.) Sacc. SPECIES
-=======
+# Anthostoma linospermum (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

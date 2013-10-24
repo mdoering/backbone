@@ -1,5 +1,4 @@
-Sphaerella taediosa Pass. SPECIES
-=======
+# Sphaerella taediosa Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavariadelphus flavidus Methven, 1989 SPECIES
-=======
+# Clavariadelphus flavidus Methven, 1989 SPECIES
 
 #### Status
 ACCEPTED

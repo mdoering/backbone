@@ -1,5 +1,4 @@
-Fomes pes-simiae (Berk.) Sacc. SPECIES
-=======
+# Fomes pes-simiae (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirosigmoilina bradyi Collins, 1958 SPECIES
-=======
+# Spirosigmoilina bradyi Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

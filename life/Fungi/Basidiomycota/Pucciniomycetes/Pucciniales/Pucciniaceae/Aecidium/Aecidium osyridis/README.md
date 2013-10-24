@@ -1,5 +1,4 @@
-Aecidium osyridis Rabenh. SPECIES
-=======
+# Aecidium osyridis Rabenh. SPECIES
 
 #### Status
 ACCEPTED

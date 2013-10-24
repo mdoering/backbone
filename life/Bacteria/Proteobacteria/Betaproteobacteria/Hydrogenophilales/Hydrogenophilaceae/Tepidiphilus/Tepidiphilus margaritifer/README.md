@@ -1,5 +1,4 @@
-Tepidiphilus margaritifer Manaia et al., 2003 SPECIES
-=======
+# Tepidiphilus margaritifer Manaia et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

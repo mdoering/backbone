@@ -1,5 +1,4 @@
-Striatodinium J.B. Riding & R. Helby, 2001 GENUS
-=======
+# Striatodinium J.B. Riding & R. Helby, 2001 GENUS
 
 #### Status
 ACCEPTED

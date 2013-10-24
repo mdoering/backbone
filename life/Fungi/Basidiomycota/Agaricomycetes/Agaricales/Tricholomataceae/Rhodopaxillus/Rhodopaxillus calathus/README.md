@@ -1,5 +1,4 @@
-Rhodopaxillus calathus (Fr.) Bon SPECIES
-=======
+# Rhodopaxillus calathus (Fr.) Bon SPECIES
 
 #### Status
 ACCEPTED

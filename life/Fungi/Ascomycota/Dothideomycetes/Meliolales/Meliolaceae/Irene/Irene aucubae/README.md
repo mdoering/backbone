@@ -1,5 +1,4 @@
-Irene aucubae (Henn.) Hansf. SPECIES
-=======
+# Irene aucubae (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

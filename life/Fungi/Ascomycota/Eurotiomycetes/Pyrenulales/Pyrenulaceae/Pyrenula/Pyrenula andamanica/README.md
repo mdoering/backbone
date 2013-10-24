@@ -1,5 +1,4 @@
-Pyrenula andamanica Ajay Singh & Upreti SPECIES
-=======
+# Pyrenula andamanica Ajay Singh & Upreti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Arcyria adnata var. helvetica (Meyl.) Sacc. & Trotter VARIETY
-=======
+# Arcyria helvetica (Meyl.) H. Neubert, Nowotny & K. Baumann, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 22: 811 (1913)
+Carolinea 47: 43 (1989)
 
 #### Original name
 Arcyria incarnata var. helvetica Meyl.

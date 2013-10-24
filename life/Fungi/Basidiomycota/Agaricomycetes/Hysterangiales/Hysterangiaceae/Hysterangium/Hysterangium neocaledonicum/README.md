@@ -1,5 +1,4 @@
-Hysterangium neocaledonicum Pat. SPECIES
-=======
+# Hysterangium neocaledonicum Pat. SPECIES
 
 #### Status
 ACCEPTED

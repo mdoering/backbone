@@ -1,5 +1,4 @@
-Phacidiopycnis washingtonensis C.L. Xiao & J.D. Rogers SPECIES
-=======
+# Phacidiopycnis washingtonensis C.L. Xiao & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

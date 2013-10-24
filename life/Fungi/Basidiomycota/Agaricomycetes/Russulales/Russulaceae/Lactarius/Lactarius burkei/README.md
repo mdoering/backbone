@@ -1,5 +1,4 @@
-Lactarius burkei A.H. Sm. & Hesler SPECIES
-=======
+# Lactarius burkei A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

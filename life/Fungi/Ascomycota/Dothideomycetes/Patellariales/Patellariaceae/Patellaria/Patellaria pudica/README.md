@@ -1,5 +1,4 @@
-Patellaria pudica Berk. & M.A. Curtis SPECIES
-=======
+# Patellaria pudica Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

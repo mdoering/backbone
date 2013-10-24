@@ -1,5 +1,4 @@
-Postia amylocystis Y.C. Dai & Renvall SPECIES
-=======
+# Postia amylocystis Y.C. Dai & Renvall SPECIES
 
 #### Status
 ACCEPTED

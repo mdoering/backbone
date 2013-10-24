@@ -1,5 +1,4 @@
-Hypocrea aurantiolutea Yoshim. Doi SPECIES
-=======
+# Hypocrea aurantiolutea Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

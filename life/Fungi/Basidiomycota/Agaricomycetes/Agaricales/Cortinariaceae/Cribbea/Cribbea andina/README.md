@@ -1,14 +1,13 @@
-Secotium andinum Speg., 1902 SPECIES
-=======
+# Cribbea andina (Speg.) J.E. Wright & E. Horak, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Darwiniana 12(4): 607 (1961)
 
 #### Original name
 Secotium andinum Speg., 1902

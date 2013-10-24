@@ -1,17 +1,16 @@
-Cortiniopsis J. Schröt. GENUS
-=======
+# Lacrymaria Patouillard, 1887 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(3340): 566 (1889)
+Hyménomyc. Eur. (Paris) 122 (1887)
 
 #### Original name
-Cortiniopsis J. Schröt.
+Lacrymaria Patouillard, 1887
 
 ### Remarks
 null

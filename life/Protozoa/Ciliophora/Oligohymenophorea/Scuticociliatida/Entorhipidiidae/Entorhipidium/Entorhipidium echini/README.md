@@ -1,5 +1,4 @@
-Entorhipidium echini Lynch, 1929 SPECIES
-=======
+# Entorhipidium echini Lynch, 1929 SPECIES
 
 #### Status
 ACCEPTED

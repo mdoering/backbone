@@ -1,5 +1,4 @@
-Puccinia malvastri Peck SPECIES
-=======
+# Puccinia malvastri Peck SPECIES
 
 #### Status
 ACCEPTED

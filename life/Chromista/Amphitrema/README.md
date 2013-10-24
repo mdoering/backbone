@@ -1,14 +1,13 @@
-Ditrema Archer, 1877 GENUS
-=======
+# Amphitrema Archer, 1867 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Quart. J. Micr. Sci. , (N. S. ) 17, 103, 336.
+Quart. J. Micr. Soc. , (N. S. ) 10, 20.
 
 #### Original name
 null

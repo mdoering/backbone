@@ -1,5 +1,4 @@
-Synchytrium smilacis M.T. Cook SPECIES
-=======
+# Synchytrium smilacis M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria cariosa (Fairm.) Boise SPECIES
-=======
+# Trematosphaeria cariosa (Fairm.) Boise SPECIES
 
 #### Status
 ACCEPTED

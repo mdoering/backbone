@@ -1,5 +1,4 @@
-Sphaeria baptisiae Cooke SPECIES
-=======
+# Sphaeria baptisiae Cooke SPECIES
 
 #### Status
 ACCEPTED

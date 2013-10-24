@@ -1,5 +1,4 @@
-Dothidea sphaerioides Fr., 1818 SPECIES
-=======
+# Dothidea sphaerioides Fr., 1818 SPECIES
 
 #### Status
 ACCEPTED

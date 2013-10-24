@@ -1,5 +1,4 @@
-Collema nylanderianum Zahlbr. SPECIES
-=======
+# Collema nylanderianum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

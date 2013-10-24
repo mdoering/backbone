@@ -1,5 +1,4 @@
-Arthonia byssacea (Weigel) Almq. SPECIES
-=======
+# Arthonia byssacea (Weigel) Almq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenogaster gautierioides Lloyd SPECIES
-=======
+# Hymenogaster gautierioides Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistylis astaci Nenninger, 1948 SPECIES
-=======
+# Epistylis astaci Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

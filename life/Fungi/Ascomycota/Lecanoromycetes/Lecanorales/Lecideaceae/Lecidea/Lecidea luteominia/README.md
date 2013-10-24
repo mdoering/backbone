@@ -1,5 +1,4 @@
-Lecidea luteominia (Tuck.) Hue SPECIES
-=======
+# Lecidea luteominia (Tuck.) Hue SPECIES
 
 #### Status
 ACCEPTED

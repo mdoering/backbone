@@ -1,5 +1,4 @@
-Helmisporium amansii Brond. SPECIES
-=======
+# Helmisporium amansii Brond. SPECIES
 
 #### Status
 ACCEPTED

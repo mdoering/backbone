@@ -1,5 +1,4 @@
-Soreuma Haeckel, 1881 GENUS
-=======
+# Soreuma Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

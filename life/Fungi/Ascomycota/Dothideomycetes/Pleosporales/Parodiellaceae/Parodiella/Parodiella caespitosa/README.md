@@ -1,5 +1,4 @@
-Parodiella caespitosa G. Winter SPECIES
-=======
+# Parodiella caespitosa G. Winter SPECIES
 
 #### Status
 ACCEPTED

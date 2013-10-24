@@ -1,5 +1,4 @@
-Sticta zahlbruckneri B. de Lesd. SPECIES
-=======
+# Sticta zahlbruckneri B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

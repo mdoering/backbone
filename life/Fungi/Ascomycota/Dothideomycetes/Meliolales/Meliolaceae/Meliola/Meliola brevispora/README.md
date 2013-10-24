@@ -1,5 +1,4 @@
-Meliola brevispora M.L. Farr SPECIES
-=======
+# Meliola brevispora M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

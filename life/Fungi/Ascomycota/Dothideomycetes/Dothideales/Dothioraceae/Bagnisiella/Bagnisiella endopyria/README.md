@@ -1,5 +1,4 @@
-Bagnisiella endopyria Sacc. SPECIES
-=======
+# Bagnisiella endopyria Sacc. SPECIES
 
 #### Status
 ACCEPTED

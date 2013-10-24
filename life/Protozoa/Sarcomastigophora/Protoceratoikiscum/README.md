@@ -1,5 +1,4 @@
-Protoceratoikiscum Goto, Umeda & Ishiga, 1992 GENUS
-=======
+# Protoceratoikiscum Goto, Umeda & Ishiga, 1992 GENUS
 
 #### Status
 ACCEPTED

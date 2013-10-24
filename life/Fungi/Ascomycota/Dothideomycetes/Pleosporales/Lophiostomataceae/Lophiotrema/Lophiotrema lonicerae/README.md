@@ -1,5 +1,4 @@
-Lophiotrema lonicerae Fabre SPECIES
-=======
+# Lophiotrema lonicerae Fabre SPECIES
 
 #### Status
 ACCEPTED

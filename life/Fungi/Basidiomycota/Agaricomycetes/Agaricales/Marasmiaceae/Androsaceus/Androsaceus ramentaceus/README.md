@@ -1,5 +1,4 @@
-Androsaceus ramentaceus Pat. & Gaillard SPECIES
-=======
+# Androsaceus ramentaceus Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

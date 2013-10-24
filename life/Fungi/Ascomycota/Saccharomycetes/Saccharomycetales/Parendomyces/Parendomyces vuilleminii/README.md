@@ -1,5 +1,4 @@
-Parendomyces vuilleminii (Mello & Fernandes {?} ) C.W. Dodge SPECIES
-=======
+# Parendomyces vuilleminii (Mello & Fernandes {?} ) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

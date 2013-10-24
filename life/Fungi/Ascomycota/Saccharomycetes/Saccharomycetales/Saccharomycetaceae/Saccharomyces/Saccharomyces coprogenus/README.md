@@ -1,5 +1,4 @@
-Saccharomyces coprogenus Sacc. & Speg. SPECIES
-=======
+# Saccharomyces coprogenus Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

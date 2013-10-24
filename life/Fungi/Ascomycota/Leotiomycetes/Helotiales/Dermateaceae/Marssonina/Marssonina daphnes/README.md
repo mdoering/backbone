@@ -1,17 +1,16 @@
-Marssonia daphnes var. daphnes VARIETY
-=======
+# Marssonina daphnes (Roberge ex Desm.) Magnus, 1906 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 498 (1884)
+Hedwigia 45: 89 (1906)
 
 #### Original name
-Marssonia daphnes var. daphnes
+Septoria daphnes Roberge ex Desm., 1850
 
 ### Remarks
 null

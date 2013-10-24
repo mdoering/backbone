@@ -1,5 +1,4 @@
-Hysterangium cistophilum (Tul.) Zeller & C.W. Dodge SPECIES
-=======
+# Hysterangium cistophilum (Tul.) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

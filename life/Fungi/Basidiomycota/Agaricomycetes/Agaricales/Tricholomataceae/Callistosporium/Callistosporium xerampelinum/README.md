@@ -1,5 +1,4 @@
-Callistosporium xerampelinum Pegler, 1977 SPECIES
-=======
+# Callistosporium xerampelinum Pegler, 1977 SPECIES
 
 #### Status
 ACCEPTED

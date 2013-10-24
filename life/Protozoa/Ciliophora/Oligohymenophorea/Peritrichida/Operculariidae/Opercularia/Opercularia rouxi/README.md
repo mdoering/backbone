@@ -1,5 +1,4 @@
-Opercularia rouxi SPECIES
-=======
+# Opercularia rouxi SPECIES
 
 #### Status
 ACCEPTED

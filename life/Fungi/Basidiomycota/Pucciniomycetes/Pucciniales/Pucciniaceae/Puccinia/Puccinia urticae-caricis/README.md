@@ -1,5 +1,4 @@
-Puccinia urticae-caricis (Schumach.) Rebent. SPECIES
-=======
+# Puccinia urticae-caricis (Schumach.) Rebent. SPECIES
 
 #### Status
 ACCEPTED

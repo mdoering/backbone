@@ -1,5 +1,4 @@
-Aschion atrorubens Wallr. SPECIES
-=======
+# Aschion atrorubens Wallr. SPECIES
 
 #### Status
 ACCEPTED

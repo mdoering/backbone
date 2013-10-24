@@ -1,5 +1,4 @@
-Mollisia isabellina E.K. Cash & Corner SPECIES
-=======
+# Mollisia isabellina E.K. Cash & Corner SPECIES
 
 #### Status
 ACCEPTED

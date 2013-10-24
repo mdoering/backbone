@@ -1,5 +1,4 @@
-Pseudophyllachora Speg. GENUS
-=======
+# Pseudophyllachora Speg. GENUS
 
 #### Status
 ACCEPTED

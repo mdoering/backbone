@@ -1,5 +1,4 @@
-Monopus caballeroi Urries SPECIES
-=======
+# Monopus caballeroi Urries SPECIES
 
 #### Status
 ACCEPTED

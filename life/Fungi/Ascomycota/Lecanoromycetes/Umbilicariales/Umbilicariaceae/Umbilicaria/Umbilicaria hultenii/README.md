@@ -1,5 +1,4 @@
-Umbilicaria hultenii Du Rietz SPECIES
-=======
+# Umbilicaria hultenii Du Rietz SPECIES
 
 #### Status
 ACCEPTED

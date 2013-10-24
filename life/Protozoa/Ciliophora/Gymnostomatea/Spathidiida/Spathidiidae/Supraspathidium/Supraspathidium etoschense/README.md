@@ -1,5 +1,4 @@
-Supraspathidium etoschense Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Supraspathidium etoschense Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

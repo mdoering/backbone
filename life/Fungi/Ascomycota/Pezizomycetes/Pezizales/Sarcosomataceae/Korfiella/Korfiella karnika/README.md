@@ -1,5 +1,4 @@
-Korfiella karnika D.C. Pant & V.P. Tewari, 1970 SPECIES
-=======
+# Korfiella karnika D.C. Pant & V.P. Tewari, 1970 SPECIES
 
 #### Status
 ACCEPTED

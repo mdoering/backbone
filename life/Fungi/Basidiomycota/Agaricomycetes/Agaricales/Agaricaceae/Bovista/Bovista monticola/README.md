@@ -1,5 +1,4 @@
-Bovista monticola Speg. SPECIES
-=======
+# Bovista monticola Speg. SPECIES
 
 #### Status
 ACCEPTED

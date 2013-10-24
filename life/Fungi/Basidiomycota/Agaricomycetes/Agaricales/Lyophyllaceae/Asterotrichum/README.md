@@ -1,5 +1,4 @@
-Asterotrichum GENUS
-=======
+# Asterotrichum GENUS
 
 #### Status
 ACCEPTED

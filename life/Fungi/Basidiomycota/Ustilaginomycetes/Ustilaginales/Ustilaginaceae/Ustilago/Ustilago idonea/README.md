@@ -1,5 +1,4 @@
-Ustilago idonea Syd. SPECIES
-=======
+# Ustilago idonea Syd. SPECIES
 
 #### Status
 ACCEPTED

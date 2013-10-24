@@ -1,5 +1,4 @@
-Metasphaeria jasmini Grove SPECIES
-=======
+# Metasphaeria jasmini Grove SPECIES
 
 #### Status
 ACCEPTED

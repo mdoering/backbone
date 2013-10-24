@@ -1,5 +1,4 @@
-Schizopeltis longispora (Pat.) Bat. SPECIES
-=======
+# Schizopeltis longispora (Pat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

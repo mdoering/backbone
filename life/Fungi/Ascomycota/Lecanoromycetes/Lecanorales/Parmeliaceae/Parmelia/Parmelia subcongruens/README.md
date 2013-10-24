@@ -1,5 +1,4 @@
-Parmelia subcongruens Müll. Arg. SPECIES
-=======
+# Parmelia subcongruens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

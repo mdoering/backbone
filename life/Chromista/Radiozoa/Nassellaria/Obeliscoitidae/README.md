@@ -1,5 +1,4 @@
-Obeliscoitidae O'Dogherty, 1994 FAMILY
-=======
+# Obeliscoitidae O'Dogherty, 1994 FAMILY
 
 #### Status
 ACCEPTED

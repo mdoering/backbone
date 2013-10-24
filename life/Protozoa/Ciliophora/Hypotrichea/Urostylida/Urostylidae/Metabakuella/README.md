@@ -1,5 +1,4 @@
-Metabakuella GENUS
-=======
+# Metabakuella GENUS
 
 #### Status
 ACCEPTED

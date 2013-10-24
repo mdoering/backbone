@@ -1,5 +1,4 @@
-Agaricus inaurata Secr. SPECIES
-=======
+# Agaricus inaurata Secr. SPECIES
 
 #### Status
 ACCEPTED

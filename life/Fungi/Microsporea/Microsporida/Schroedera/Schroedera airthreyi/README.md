@@ -1,5 +1,4 @@
-Schroedera airthreyi D.J. Morris, R.S. Terry & A. Adams SPECIES
-=======
+# Schroedera airthreyi D.J. Morris, R.S. Terry & A. Adams SPECIES
 
 #### Status
 ACCEPTED

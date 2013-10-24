@@ -1,5 +1,4 @@
-Pseudocyphellaria otawayensis (Jatta) H. Magn. SPECIES
-=======
+# Pseudocyphellaria otawayensis (Jatta) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

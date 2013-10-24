@@ -1,5 +1,4 @@
-Uredo festucae-ovinae Erikss. SPECIES
-=======
+# Uredo festucae-ovinae Erikss. SPECIES
 
 #### Status
 ACCEPTED

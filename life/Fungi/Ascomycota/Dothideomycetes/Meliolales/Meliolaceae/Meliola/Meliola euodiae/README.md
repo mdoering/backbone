@@ -1,17 +1,16 @@
-Meliola evodiae Pat. SPECIES
-=======
+# Meliola euodiae Pat., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue mycol. , Toulouse 10: 139 (1888)
 
 #### Original name
-Meliola evodiae Pat.
+Meliola euodiae Pat., 1888
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pistillaria penniseti Henn. SPECIES
-=======
+# Pistillaria penniseti Henn. SPECIES
 
 #### Status
 ACCEPTED

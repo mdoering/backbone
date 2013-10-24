@@ -1,5 +1,4 @@
-Pertusaria malmei Elix & A. W. Archer SPECIES
-=======
+# Pertusaria malmei Elix & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

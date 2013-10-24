@@ -1,5 +1,4 @@
-Parmelia subtestacea Hale SPECIES
-=======
+# Parmelia subtestacea Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria noveboracensis Shoemaker SPECIES
-=======
+# Leptosphaeria noveboracensis Shoemaker SPECIES
 
 #### Status
 ACCEPTED

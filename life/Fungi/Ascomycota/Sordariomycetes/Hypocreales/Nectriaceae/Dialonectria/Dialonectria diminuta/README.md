@@ -1,5 +1,4 @@
-Dialonectria diminuta (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Dialonectria diminuta (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium culmigenum var. culmigenum Fr. VARIETY
-=======
+# Hysterium culmigenum ß culmigenum Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Observ. mycol. (Havniae) 2: 355 (1818)
 
 #### Original name
-Hysterium culmigenum var. culmigenum Fr.
+Hysterium culmigenum ß culmigenum Fr.
 
 ### Remarks
 null

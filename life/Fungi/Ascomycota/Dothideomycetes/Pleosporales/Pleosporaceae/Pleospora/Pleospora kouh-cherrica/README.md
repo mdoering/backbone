@@ -1,5 +1,4 @@
-Pleospora kouh-cherrica Gonz. Frag. SPECIES
-=======
+# Pleospora kouh-cherrica Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

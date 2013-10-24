@@ -1,5 +1,4 @@
-Lecanorella zahlbruckneri (Lynge) Motyka SPECIES
-=======
+# Lecanorella zahlbruckneri (Lynge) Motyka SPECIES
 
 #### Status
 ACCEPTED

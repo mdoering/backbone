@@ -1,5 +1,4 @@
-Coniosporium oryzae (Catt.) Sacc. SPECIES
-=======
+# Coniosporium oryzae (Catt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

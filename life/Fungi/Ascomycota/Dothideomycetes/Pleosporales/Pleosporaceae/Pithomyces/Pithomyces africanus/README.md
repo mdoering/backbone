@@ -1,5 +1,4 @@
-Pithomyces africanus M.B. Ellis SPECIES
-=======
+# Pithomyces africanus M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

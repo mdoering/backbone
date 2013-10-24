@@ -1,5 +1,4 @@
-Sporidesmium longissimum Panwar & Chouhan SPECIES
-=======
+# Sporidesmium longissimum Panwar & Chouhan SPECIES
 
 #### Status
 ACCEPTED

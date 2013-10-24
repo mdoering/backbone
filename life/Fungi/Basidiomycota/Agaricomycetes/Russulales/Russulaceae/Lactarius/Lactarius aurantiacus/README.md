@@ -1,17 +1,16 @@
-Lactarius mitissimus var. mitissimus VARIETY
-=======
+# Lactarius aurantiacus (Pers.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 345 (1838)
+Nat. Arr. Brit. Pl. (London) 1: 624 (1821)
 
 #### Original name
-Lactarius mitissimus var. mitissimus
+Agaricus testaceus agg. unranked
 
 ### Remarks
 null

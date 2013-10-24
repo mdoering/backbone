@@ -1,5 +1,4 @@
-Placodiella GENUS
-=======
+# Placodiella GENUS
 
 #### Status
 ACCEPTED

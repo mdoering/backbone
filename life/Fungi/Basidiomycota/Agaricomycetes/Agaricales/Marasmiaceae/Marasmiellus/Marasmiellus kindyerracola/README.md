@@ -1,5 +1,4 @@
-Marasmiellus kindyerracola Grgur. SPECIES
-=======
+# Marasmiellus kindyerracola Grgur. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia imperialis Ahti & Marcelli SPECIES
-=======
+# Cladonia imperialis Ahti & Marcelli SPECIES
 
 #### Status
 ACCEPTED

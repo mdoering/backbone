@@ -1,5 +1,4 @@
-Kyphomyces appendiculatus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Kyphomyces appendiculatus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

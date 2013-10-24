@@ -1,5 +1,4 @@
-Phaeographis hawaiiensis H. Magn. SPECIES
-=======
+# Phaeographis hawaiiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma eugeniarum Cooke & Massee SPECIES
-=======
+# Entyloma eugeniarum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

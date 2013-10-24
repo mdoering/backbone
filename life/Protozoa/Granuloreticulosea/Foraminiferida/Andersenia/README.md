@@ -1,5 +1,4 @@
-Andersenia Neagu, 1968 GENUS
-=======
+# Andersenia Neagu, 1968 GENUS
 
 #### Status
 ACCEPTED

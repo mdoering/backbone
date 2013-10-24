@@ -1,5 +1,4 @@
-Englerulella ugandensis Hansf. SPECIES
-=======
+# Englerulella ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

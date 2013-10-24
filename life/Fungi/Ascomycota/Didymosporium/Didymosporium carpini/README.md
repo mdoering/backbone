@@ -1,5 +1,4 @@
-Didymosporium carpini Corda SPECIES
-=======
+# Didymosporium carpini Corda SPECIES
 
 #### Status
 ACCEPTED

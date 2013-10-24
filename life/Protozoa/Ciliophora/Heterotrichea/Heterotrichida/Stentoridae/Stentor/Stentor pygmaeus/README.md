@@ -1,5 +1,4 @@
-Stentor pygmaeus Ehrenberg, 1831 SPECIES
-=======
+# Stentor pygmaeus Ehrenberg, 1831 SPECIES
 
 #### Status
 ACCEPTED

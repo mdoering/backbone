@@ -1,17 +1,16 @@
-Eupenicillium terrenum D.B. Scott, 1968 SPECIES
-=======
+# Penicillium lapidosum Raper & Fennell, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopath. Mycol. appl. 36: 1 (1968)
+Mycologia 40(5): 524 (1948)
 
 #### Original name
-Eupenicillium terrenum D.B. Scott, 1968
+Penicillium lapidosum Raper & Fennell, 1948
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cytodiplospora mori I. Miyake SPECIES
-=======
+# Cytodiplospora mori I. Miyake SPECIES
 
 #### Status
 ACCEPTED

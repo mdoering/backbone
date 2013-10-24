@@ -1,5 +1,4 @@
-Russula indecorata P. Karst. SPECIES
-=======
+# Russula indecorata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

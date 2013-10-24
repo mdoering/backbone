@@ -1,5 +1,4 @@
-Sclerophomella anonyma Höhn. SPECIES
-=======
+# Sclerophomella anonyma Höhn. SPECIES
 
 #### Status
 ACCEPTED

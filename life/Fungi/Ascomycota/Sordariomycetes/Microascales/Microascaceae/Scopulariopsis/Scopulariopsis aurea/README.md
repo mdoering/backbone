@@ -1,5 +1,4 @@
-Scopulariopsis aurea Sartory SPECIES
-=======
+# Scopulariopsis aurea Sartory SPECIES
 
 #### Status
 ACCEPTED

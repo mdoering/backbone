@@ -1,5 +1,4 @@
-Stagonopsis psidii S. Ahmad SPECIES
-=======
+# Stagonopsis psidii S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

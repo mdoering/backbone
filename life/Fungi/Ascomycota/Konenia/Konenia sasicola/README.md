@@ -1,5 +1,4 @@
-Konenia sasicola I. Hino & Katum. SPECIES
-=======
+# Konenia sasicola I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

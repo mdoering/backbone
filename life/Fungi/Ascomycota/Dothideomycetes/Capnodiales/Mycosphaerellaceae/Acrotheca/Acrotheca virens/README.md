@@ -1,5 +1,4 @@
-Acrotheca virens (Tul.) Costantin SPECIES
-=======
+# Acrotheca virens (Tul.) Costantin SPECIES
 
 #### Status
 ACCEPTED

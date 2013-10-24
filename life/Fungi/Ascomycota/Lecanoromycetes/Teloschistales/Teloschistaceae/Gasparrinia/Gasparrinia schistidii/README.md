@@ -1,5 +1,4 @@
-Gasparrinia schistidii (Anzi) Verseghy SPECIES
-=======
+# Gasparrinia schistidii (Anzi) Verseghy SPECIES
 
 #### Status
 ACCEPTED

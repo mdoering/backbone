@@ -1,5 +1,4 @@
-Milesia bauhiniae Y. Ono, Buriticá & J.F. Hennen SPECIES
-=======
+# Milesia bauhiniae Y. Ono, Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

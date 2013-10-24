@@ -1,5 +1,4 @@
-Phormidium simplicissimum (Gomont) Anagnostidis & Komárek, 1988 SPECIES
-=======
+# Phormidium simplicissimum (Gomont) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balladynastrum diplosporae (W. Yamam.) W. Yamam. SPECIES
-=======
+# Balladynastrum diplosporae (W. Yamam.) W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

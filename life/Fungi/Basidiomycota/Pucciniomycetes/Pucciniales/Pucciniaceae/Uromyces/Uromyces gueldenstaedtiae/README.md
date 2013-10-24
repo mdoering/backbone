@@ -1,5 +1,4 @@
-Uromyces gueldenstaedtiae Liou & Wang {?} SPECIES
-=======
+# Uromyces gueldenstaedtiae Liou & Wang {?} SPECIES
 
 #### Status
 ACCEPTED

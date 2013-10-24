@@ -1,5 +1,4 @@
-Ectotrichophyton griseum SPECIES
-=======
+# Ectotrichophyton griseum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella liriodendri Cooke SPECIES
-=======
+# Sphaerella liriodendri Cooke SPECIES
 
 #### Status
 ACCEPTED

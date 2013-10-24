@@ -1,5 +1,4 @@
-Desulfotomaculum thermoacetoxidans Min & Zinder, 1995 SPECIES
-=======
+# Desulfotomaculum thermoacetoxidans Min & Zinder, 1995 SPECIES
 
 #### Status
 ACCEPTED

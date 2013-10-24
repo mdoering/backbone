@@ -1,5 +1,4 @@
-Parmelia pallida (Pers.) Wallr. SPECIES
-=======
+# Parmelia pallida (Pers.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

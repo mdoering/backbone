@@ -1,5 +1,4 @@
-Lecidea suprasedens Zahlbr. SPECIES
-=======
+# Lecidea suprasedens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

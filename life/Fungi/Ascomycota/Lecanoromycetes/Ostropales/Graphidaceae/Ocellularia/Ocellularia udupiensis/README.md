@@ -1,5 +1,4 @@
-Ocellularia udupiensis Patw., Sethy & Nagarkar SPECIES
-=======
+# Ocellularia udupiensis Patw., Sethy & Nagarkar SPECIES
 
 #### Status
 ACCEPTED

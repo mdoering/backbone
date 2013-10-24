@@ -1,5 +1,4 @@
-Fomitiporia undulata Murrill SPECIES
-=======
+# Fomitiporia undulata Murrill SPECIES
 
 #### Status
 ACCEPTED

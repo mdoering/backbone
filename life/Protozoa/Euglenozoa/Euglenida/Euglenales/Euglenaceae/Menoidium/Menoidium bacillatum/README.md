@@ -1,5 +1,4 @@
-Menoidium bacillatum E. G. Pringsheim SPECIES
-=======
+# Menoidium bacillatum E. G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

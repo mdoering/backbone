@@ -1,5 +1,4 @@
-Telastroma A.G. Vologdin, 1962 GENUS
-=======
+# Telastroma A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

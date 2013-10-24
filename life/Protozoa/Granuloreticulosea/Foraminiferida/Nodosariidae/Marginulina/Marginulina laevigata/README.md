@@ -1,5 +1,4 @@
-Marginulina laevigata d'Orbigny, 1826 SPECIES
-=======
+# Marginulina laevigata d'Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

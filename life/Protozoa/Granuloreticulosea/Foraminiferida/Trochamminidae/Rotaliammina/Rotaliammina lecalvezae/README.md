@@ -1,5 +1,4 @@
-Rotaliammina lecalvezae Vénec-Peyré, 1988 SPECIES
-=======
+# Rotaliammina lecalvezae Vénec-Peyré, 1988 SPECIES
 
 #### Status
 ACCEPTED

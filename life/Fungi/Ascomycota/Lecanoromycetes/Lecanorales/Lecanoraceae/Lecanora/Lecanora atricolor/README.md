@@ -1,5 +1,4 @@
-Lecanora atricolor Hue SPECIES
-=======
+# Lecanora atricolor Hue SPECIES
 
 #### Status
 ACCEPTED

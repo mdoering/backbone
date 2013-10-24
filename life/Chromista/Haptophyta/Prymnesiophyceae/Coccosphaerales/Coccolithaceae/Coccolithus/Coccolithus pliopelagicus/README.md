@@ -1,5 +1,4 @@
-Coccolithus pliopelagicus S.W. Wise SPECIES
-=======
+# Coccolithus pliopelagicus S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

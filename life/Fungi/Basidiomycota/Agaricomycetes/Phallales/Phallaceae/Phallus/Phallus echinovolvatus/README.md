@@ -1,5 +1,4 @@
-Phallus echinovolvatus (M. Zang, D.R. Zheng & Z.X. Hu) Kreisel SPECIES
-=======
+# Phallus echinovolvatus (M. Zang, D.R. Zheng & Z.X. Hu) Kreisel SPECIES
 
 #### Status
 ACCEPTED

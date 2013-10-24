@@ -1,5 +1,4 @@
-Russula schizoderma Pat. SPECIES
-=======
+# Russula schizoderma Pat. SPECIES
 
 #### Status
 ACCEPTED

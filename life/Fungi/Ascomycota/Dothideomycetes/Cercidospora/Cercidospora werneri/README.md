@@ -1,5 +1,4 @@
-Cercidospora werneri Nav.-Ros., Calat. & Hafellner, 2009 SPECIES
-=======
+# Cercidospora werneri Nav.-Ros., Calat. & Hafellner, 2009 SPECIES
 
 #### Status
 ACCEPTED

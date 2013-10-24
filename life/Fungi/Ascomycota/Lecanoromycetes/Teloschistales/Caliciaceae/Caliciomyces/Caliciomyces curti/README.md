@@ -1,5 +1,4 @@
-Caliciomyces curti E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Caliciomyces curti E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

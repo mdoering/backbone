@@ -1,5 +1,4 @@
-Nidularia bonaerensis Speg. SPECIES
-=======
+# Nidularia bonaerensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Godavariella N.C. Mehrotra & W.A.S. Sarjeant, 1987 GENUS
-=======
+# Godavariella N.C. Mehrotra & W.A.S. Sarjeant, 1987 GENUS
 
 #### Status
 ACCEPTED

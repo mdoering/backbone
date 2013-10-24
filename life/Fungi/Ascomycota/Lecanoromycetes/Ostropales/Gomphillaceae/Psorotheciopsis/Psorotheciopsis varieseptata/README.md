@@ -1,5 +1,4 @@
-Psorotheciopsis varieseptata (Vezda) Henssen & Lücking SPECIES
-=======
+# Psorotheciopsis varieseptata (Vezda) Henssen & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phallobata alba G. Cunn., 1926 SPECIES
-=======
+# Phallobata alba G. Cunn., 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidella noumeana Savul. SPECIES
-=======
+# Dothidella noumeana Savul. SPECIES
 
 #### Status
 ACCEPTED

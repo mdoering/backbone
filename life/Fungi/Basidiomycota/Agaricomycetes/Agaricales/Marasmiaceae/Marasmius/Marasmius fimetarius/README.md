@@ -1,5 +1,4 @@
-Marasmius fimetarius Velen. SPECIES
-=======
+# Marasmius fimetarius Velen. SPECIES
 
 #### Status
 ACCEPTED

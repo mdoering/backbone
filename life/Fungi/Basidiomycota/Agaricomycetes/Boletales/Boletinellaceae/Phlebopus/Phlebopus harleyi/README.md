@@ -1,5 +1,4 @@
-Phlebopus harleyi Heinem. & Rammeloo, 1982 SPECIES
-=======
+# Phlebopus harleyi Heinem. & Rammeloo, 1982 SPECIES
 
 #### Status
 ACCEPTED

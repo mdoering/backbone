@@ -1,5 +1,4 @@
-Leiorreuma hepaticum Eschw. SPECIES
-=======
+# Leiorreuma hepaticum Eschw. SPECIES
 
 #### Status
 ACCEPTED

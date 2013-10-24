@@ -1,14 +1,13 @@
-Discosia alnea (Pers.) Berk. SPECIES
-=======
+# Asteroma alneum (Pers.) B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+The Coelomycetes (Kew) 495 (1980)
 
 #### Original name
 null

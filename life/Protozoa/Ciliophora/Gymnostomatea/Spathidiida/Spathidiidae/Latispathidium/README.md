@@ -1,5 +1,4 @@
-Latispathidium Foissner, Berger & Zechmeister-Boltenstern, 2005 GENUS
-=======
+# Latispathidium Foissner, Berger & Zechmeister-Boltenstern, 2005 GENUS
 
 #### Status
 ACCEPTED

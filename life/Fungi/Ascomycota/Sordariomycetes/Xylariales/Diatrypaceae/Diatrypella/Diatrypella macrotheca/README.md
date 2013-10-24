@@ -1,5 +1,4 @@
-Diatrypella macrotheca Starbäck SPECIES
-=======
+# Diatrypella macrotheca Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia purpurea (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Collybia purpurea (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

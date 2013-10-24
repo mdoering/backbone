@@ -1,5 +1,4 @@
-Peniophora deglubens Berk. SPECIES
-=======
+# Peniophora deglubens Berk. SPECIES
 
 #### Status
 ACCEPTED

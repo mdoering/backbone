@@ -1,5 +1,4 @@
-Podospora millespora (Alf. Schmidt) Cain SPECIES
-=======
+# Podospora millespora (Alf. Schmidt) Cain SPECIES
 
 #### Status
 ACCEPTED

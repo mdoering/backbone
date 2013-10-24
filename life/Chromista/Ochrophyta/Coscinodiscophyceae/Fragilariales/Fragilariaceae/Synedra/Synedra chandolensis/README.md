@@ -1,5 +1,4 @@
-Synedra chandolensis var. capitata H.P. Gandhi VARIETY
-=======
+# Synedra chandolensis SPECIES
 
 #### Status
 ACCEPTED

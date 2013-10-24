@@ -1,5 +1,4 @@
-Vibrio fluvialis Lee et al., 1981 SPECIES
-=======
+# Vibrio fluvialis Lee et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

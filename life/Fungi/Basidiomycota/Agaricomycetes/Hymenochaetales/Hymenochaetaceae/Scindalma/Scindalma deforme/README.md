@@ -1,5 +1,4 @@
-Scindalma deforme (Schaeff.) Kuntze SPECIES
-=======
+# Scindalma deforme (Schaeff.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

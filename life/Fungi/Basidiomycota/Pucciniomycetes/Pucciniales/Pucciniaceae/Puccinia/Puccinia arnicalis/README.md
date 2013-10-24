@@ -1,5 +1,4 @@
-Puccinia arnicalis Peck SPECIES
-=======
+# Puccinia arnicalis Peck SPECIES
 
 #### Status
 ACCEPTED

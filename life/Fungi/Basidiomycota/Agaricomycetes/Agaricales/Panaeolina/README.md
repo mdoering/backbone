@@ -1,5 +1,4 @@
-Panaeolina Maire, 1933 GENUS
-=======
+# Panaeolina Maire, 1933 GENUS
 
 #### Status
 ACCEPTED

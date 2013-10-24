@@ -1,5 +1,4 @@
-Hyaloscypha sulfurina Dennis SPECIES
-=======
+# Hyaloscypha sulfurina Dennis SPECIES
 
 #### Status
 ACCEPTED

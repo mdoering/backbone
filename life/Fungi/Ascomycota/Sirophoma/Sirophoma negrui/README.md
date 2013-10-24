@@ -1,5 +1,4 @@
-Sirophoma negrui Docea SPECIES
-=======
+# Sirophoma negrui Docea SPECIES
 
 #### Status
 ACCEPTED

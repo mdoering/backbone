@@ -1,5 +1,4 @@
-Hastarcon Jankowski, 1981 GENUS
-=======
+# Hastarcon Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

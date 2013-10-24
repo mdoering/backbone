@@ -1,5 +1,4 @@
-Sclerotinia ginseng C.R. Wang, C.F. Chen & J. Chen SPECIES
-=======
+# Sclerotinia ginseng C.R. Wang, C.F. Chen & J. Chen SPECIES
 
 #### Status
 ACCEPTED

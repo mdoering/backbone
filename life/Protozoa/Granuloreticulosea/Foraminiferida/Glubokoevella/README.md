@@ -1,5 +1,4 @@
-Glubokoevella Pronina, 1970 GENUS
-=======
+# Glubokoevella Pronina, 1970 GENUS
 
 #### Status
 ACCEPTED

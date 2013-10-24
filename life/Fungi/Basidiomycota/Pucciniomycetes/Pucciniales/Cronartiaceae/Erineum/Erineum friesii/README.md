@@ -1,5 +1,4 @@
-Erineum friesii A. Braun SPECIES
-=======
+# Erineum friesii A. Braun SPECIES
 
 #### Status
 ACCEPTED

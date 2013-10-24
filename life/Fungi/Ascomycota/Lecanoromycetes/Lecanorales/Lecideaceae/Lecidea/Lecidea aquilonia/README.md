@@ -1,5 +1,4 @@
-Lecidea aquilonia Kremp. SPECIES
-=======
+# Lecidea aquilonia Kremp. SPECIES
 
 #### Status
 ACCEPTED

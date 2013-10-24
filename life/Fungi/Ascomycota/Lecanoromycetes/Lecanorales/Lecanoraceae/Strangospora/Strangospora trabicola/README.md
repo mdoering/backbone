@@ -1,5 +1,4 @@
-Strangospora trabicola Körb. SPECIES
-=======
+# Strangospora trabicola Körb. SPECIES
 
 #### Status
 ACCEPTED

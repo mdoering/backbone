@@ -1,5 +1,4 @@
-Tupia rosea L. Marchand SPECIES
-=======
+# Tupia rosea L. Marchand SPECIES
 
 #### Status
 ACCEPTED

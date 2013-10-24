@@ -1,5 +1,4 @@
-Peltigera cinchonarum (Fée) Spreng. SPECIES
-=======
+# Peltigera cinchonarum (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

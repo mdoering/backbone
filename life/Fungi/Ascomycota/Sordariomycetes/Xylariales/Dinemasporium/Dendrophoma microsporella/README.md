@@ -1,5 +1,4 @@
-Dendrophoma microsporella Tassi SPECIES
-=======
+# Dendrophoma microsporella Tassi SPECIES
 
 #### Status
 ACCEPTED

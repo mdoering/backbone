@@ -1,5 +1,4 @@
-Verrucaria pseudoacrotella Servít SPECIES
-=======
+# Verrucaria pseudoacrotella Servít SPECIES
 
 #### Status
 ACCEPTED

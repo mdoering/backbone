@@ -1,17 +1,16 @@
-Pezicula pruinosa var. pruinosa Farl. VARIETY
-=======
+# Pezicula pruinosa Farl., 1922 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Thaxter, Mycologia 14(3): 102 (1922)
 
 #### Original name
-Pezicula pruinosa var. pruinosa Farl.
+Pezicula pruinosa Farl., 1922
 
 ### Remarks
 null

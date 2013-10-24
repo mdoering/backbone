@@ -1,5 +1,4 @@
-Phyllachora meliae Pat., 1913 SPECIES
-=======
+# Phyllachora meliae Pat., 1913 SPECIES
 
 #### Status
 ACCEPTED

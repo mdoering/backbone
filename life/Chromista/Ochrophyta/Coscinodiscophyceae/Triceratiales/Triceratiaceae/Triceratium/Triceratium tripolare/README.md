@@ -1,5 +1,4 @@
-Triceratium tripolare Temp. & Bright SPECIES
-=======
+# Triceratium tripolare Temp. & Bright SPECIES
 
 #### Status
 ACCEPTED

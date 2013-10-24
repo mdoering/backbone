@@ -1,5 +1,4 @@
-Entophysalis collinsii De Toni SPECIES
-=======
+# Entophysalis collinsii De Toni SPECIES
 
 #### Status
 ACCEPTED

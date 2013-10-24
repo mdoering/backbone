@@ -1,14 +1,13 @@
-Hyalothyridium calamgrostidis H.C. Greene SPECIES
-=======
+# Orphanocoela calamagrostidis (H.C. Greene) Nag Raj, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 67(11): 3178 (1989)
 
 #### Original name
 Hyalothyridium calamgrostidis H.C. Greene

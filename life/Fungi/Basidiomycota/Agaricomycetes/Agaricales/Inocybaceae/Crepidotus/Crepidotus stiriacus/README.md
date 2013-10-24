@@ -1,5 +1,4 @@
-Crepidotus stiriacus Wettst. SPECIES
-=======
+# Crepidotus stiriacus Wettst. SPECIES
 
 #### Status
 ACCEPTED

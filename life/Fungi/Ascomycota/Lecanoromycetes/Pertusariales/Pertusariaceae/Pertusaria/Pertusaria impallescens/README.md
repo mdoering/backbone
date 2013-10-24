@@ -1,5 +1,4 @@
-Pertusaria impallescens Nyl. SPECIES
-=======
+# Pertusaria impallescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

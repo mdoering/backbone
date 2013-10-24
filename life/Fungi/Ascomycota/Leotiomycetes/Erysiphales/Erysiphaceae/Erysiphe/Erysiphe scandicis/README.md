@@ -1,5 +1,4 @@
-Erysiphe scandicis DC. SPECIES
-=======
+# Erysiphe scandicis DC. SPECIES
 
 #### Status
 ACCEPTED

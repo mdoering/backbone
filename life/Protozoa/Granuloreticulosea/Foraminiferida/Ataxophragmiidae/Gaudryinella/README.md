@@ -1,5 +1,4 @@
-Gaudryinella Plummer, 1931 GENUS
-=======
+# Gaudryinella Plummer, 1931 GENUS
 
 #### Status
 ACCEPTED

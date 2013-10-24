@@ -1,5 +1,4 @@
-Coniothyrina Syd. GENUS
-=======
+# Coniothyrina Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria persimon Schwein. SPECIES
-=======
+# Sphaeria persimon Schwein. SPECIES
 
 #### Status
 ACCEPTED

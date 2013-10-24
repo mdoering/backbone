@@ -1,5 +1,4 @@
-Siroligniella cryptomeriae Sawada SPECIES
-=======
+# Siroligniella cryptomeriae Sawada SPECIES
 
 #### Status
 ACCEPTED

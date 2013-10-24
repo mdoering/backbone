@@ -1,5 +1,4 @@
-Sphaerobolus corii Schwein. SPECIES
-=======
+# Sphaerobolus corii Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acoliomyces ocellati Cif. & Tomas. SPECIES
-=======
+# Acoliomyces ocellati Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

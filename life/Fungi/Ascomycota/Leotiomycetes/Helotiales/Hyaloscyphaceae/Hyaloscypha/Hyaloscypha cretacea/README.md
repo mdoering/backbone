@@ -1,5 +1,4 @@
-Hyaloscypha cretacea var. cretacea VARIETY
-=======
+# Hyaloscypha cretacea Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 278 (1934)
 
 #### Original name
-Hyaloscypha cretacea var. cretacea
+Hyaloscypha cretacea Velen.
 
 ### Remarks
 null

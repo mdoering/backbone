@@ -1,5 +1,4 @@
-Zygodesmus truncatus P. Karst. SPECIES
-=======
+# Zygodesmus truncatus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

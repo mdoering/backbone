@@ -1,5 +1,4 @@
-Efibula pallidovirens (Bourdot & Galzin) Sheng H. Wu SPECIES
-=======
+# Efibula pallidovirens (Bourdot & Galzin) Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

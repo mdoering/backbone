@@ -1,14 +1,13 @@
-Verrucaria verrucicola Wedd. SPECIES
-=======
+# Lichenochora verrucicola (Wedd.) Nik. Hoffm. & Hafellner, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 21: 346 (1874)
+Biblthca Lichenol. 77: 55 (2000)
 
 #### Original name
 Verrucaria verrucicola Wedd.

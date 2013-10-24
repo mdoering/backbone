@@ -1,5 +1,4 @@
-Pyropolyporus GENUS
-=======
+# Pyropolyporus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora myracrodruonis (Inácio & Dianese) U. Braun & Crous SPECIES
-=======
+# Passalora myracrodruonis (Inácio & Dianese) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporidium ecuadorianum (Constant.) L.G. Br. & E.B.G. Jones SPECIES
-=======
+# Cercosporidium ecuadorianum (Constant.) L.G. Br. & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

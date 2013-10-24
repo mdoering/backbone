@@ -1,5 +1,4 @@
-Sporidesmium helicoides Ellis & Everh. SPECIES
-=======
+# Sporidesmium helicoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

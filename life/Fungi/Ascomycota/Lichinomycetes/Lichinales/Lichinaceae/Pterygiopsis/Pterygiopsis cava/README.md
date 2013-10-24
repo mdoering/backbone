@@ -1,5 +1,4 @@
-Pterygiopsis cava M. Schultz SPECIES
-=======
+# Pterygiopsis cava M. Schultz SPECIES
 
 #### Status
 ACCEPTED

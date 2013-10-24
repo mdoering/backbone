@@ -1,5 +1,4 @@
-Melanoleuca leucophylloides var. leucophylloides VARIETY
-=======
+# Melanoleuca leucophylloides (Bon) Bon SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Docums Mycol. 11(no. 41): 40 (1980)
 
 #### Original name
-Melanoleuca leucophylloides var. leucophylloides
+Melanoleuca rasilis var. leucophylloides Bon
 
 ### Remarks
 null

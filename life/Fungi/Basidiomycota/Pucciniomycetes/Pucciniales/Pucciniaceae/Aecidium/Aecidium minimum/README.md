@@ -1,5 +1,4 @@
-Aecidium minimum H.S. Jacks. & Holw. SPECIES
-=======
+# Aecidium minimum H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

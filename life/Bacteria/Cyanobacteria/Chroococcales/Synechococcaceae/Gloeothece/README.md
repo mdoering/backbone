@@ -1,5 +1,4 @@
-Gloeothece Nageli, 1849 GENUS
-=======
+# Gloeothece Nageli, 1849 GENUS
 
 #### Status
 ACCEPTED

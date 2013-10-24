@@ -1,5 +1,4 @@
-Naucoria praeandina Singer SPECIES
-=======
+# Naucoria praeandina Singer SPECIES
 
 #### Status
 ACCEPTED

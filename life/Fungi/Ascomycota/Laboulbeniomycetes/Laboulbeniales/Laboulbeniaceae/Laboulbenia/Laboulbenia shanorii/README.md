@@ -1,5 +1,4 @@
-Laboulbenia shanorii Bánhegyi SPECIES
-=======
+# Laboulbenia shanorii Bánhegyi SPECIES
 
 #### Status
 ACCEPTED

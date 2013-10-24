@@ -1,5 +1,4 @@
-Cyphella heveae Massee SPECIES
-=======
+# Cyphella heveae Massee SPECIES
 
 #### Status
 ACCEPTED

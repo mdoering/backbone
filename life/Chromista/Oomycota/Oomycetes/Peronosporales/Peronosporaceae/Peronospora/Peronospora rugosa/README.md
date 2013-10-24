@@ -1,5 +1,4 @@
-Peronospora rugosa Jacz. & P.A. Jacz. SPECIES
-=======
+# Peronospora rugosa Jacz. & P.A. Jacz. SPECIES
 
 #### Status
 ACCEPTED

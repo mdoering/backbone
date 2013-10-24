@@ -1,5 +1,4 @@
-Metasphaeria taiwanensis J.M. Yen SPECIES
-=======
+# Metasphaeria taiwanensis J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

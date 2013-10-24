@@ -1,5 +1,4 @@
-Gordonia lacunae Le Roes, Goodwin & Meyers, 2009 SPECIES
-=======
+# Gordonia lacunae Le Roes, Goodwin & Meyers, 2009 SPECIES
 
 #### Status
 ACCEPTED

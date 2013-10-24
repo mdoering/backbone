@@ -1,5 +1,4 @@
-Cylindrosporium orobicola (Sacc.) Bubák SPECIES
-=======
+# Cylindrosporium orobicola (Sacc.) Bubák SPECIES
 
 #### Status
 ACCEPTED

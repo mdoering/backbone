@@ -1,5 +1,4 @@
-Phyllosticta chamaenerii Allesch. SPECIES
-=======
+# Phyllosticta chamaenerii Allesch. SPECIES
 
 #### Status
 ACCEPTED

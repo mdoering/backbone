@@ -1,5 +1,4 @@
-Cephalothecium lycopersici (Plowr.) Sacc. SPECIES
-=======
+# Cephalothecium lycopersici (Plowr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

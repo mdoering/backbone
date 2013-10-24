@@ -1,5 +1,4 @@
-Chiodecton cretaceum Tav. SPECIES
-=======
+# Chiodecton cretaceum Tav. SPECIES
 
 #### Status
 ACCEPTED

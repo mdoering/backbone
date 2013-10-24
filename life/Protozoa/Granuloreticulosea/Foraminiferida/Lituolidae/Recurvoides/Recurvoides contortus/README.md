@@ -1,5 +1,4 @@
-Recurvoides contortus SPECIES
-=======
+# Recurvoides contortus SPECIES
 
 #### Status
 ACCEPTED

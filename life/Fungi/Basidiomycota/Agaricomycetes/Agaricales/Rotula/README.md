@@ -1,5 +1,4 @@
-Rotula Rafinesque, 1815 GENUS
-=======
+# Rotula Rafinesque, 1815 GENUS
 
 #### Status
 ACCEPTED

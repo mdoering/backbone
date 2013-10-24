@@ -1,5 +1,4 @@
-Septoria aucupariae Bres. SPECIES
-=======
+# Septoria aucupariae Bres. SPECIES
 
 #### Status
 ACCEPTED

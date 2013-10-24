@@ -1,5 +1,4 @@
-Pleuropus adnatifolius Murrill SPECIES
-=======
+# Pleuropus adnatifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

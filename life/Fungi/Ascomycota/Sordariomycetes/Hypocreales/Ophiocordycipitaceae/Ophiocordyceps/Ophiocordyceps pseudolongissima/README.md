@@ -1,5 +1,4 @@
-Ophiocordyceps pseudolongissima (Kobayasi & Shimizu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps pseudolongissima (Kobayasi & Shimizu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

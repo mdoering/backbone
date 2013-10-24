@@ -1,5 +1,4 @@
-Palaeopericonia C.G. Ibáñez & Zamuner GENUS
-=======
+# Palaeopericonia C.G. Ibáñez & Zamuner GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sinoboletus magniporus M. Zang, 1992 SPECIES
-=======
+# Sinoboletus magniporus M. Zang, 1992 SPECIES
 
 #### Status
 ACCEPTED

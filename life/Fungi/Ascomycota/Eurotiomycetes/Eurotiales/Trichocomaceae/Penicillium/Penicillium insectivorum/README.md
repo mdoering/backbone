@@ -1,5 +1,4 @@
-Penicillium insectivorum (Sopp) Biourge SPECIES
-=======
+# Penicillium insectivorum (Sopp) Biourge SPECIES
 
 #### Status
 ACCEPTED

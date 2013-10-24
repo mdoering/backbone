@@ -1,5 +1,4 @@
-Gloiocephala nothofagi Desjardin & E. Horak, 1997 SPECIES
-=======
+# Gloiocephala nothofagi Desjardin & E. Horak, 1997 SPECIES
 
 #### Status
 ACCEPTED

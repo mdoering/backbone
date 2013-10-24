@@ -1,5 +1,4 @@
-Discosmatella Corliss, 1960 GENUS
-=======
+# Discosmatella Corliss, 1960 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia kurara Grgur. SPECIES
-=======
+# Collybia kurara Grgur. SPECIES
 
 #### Status
 ACCEPTED

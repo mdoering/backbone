@@ -1,5 +1,4 @@
-Trachelomonas incerta var. punctata Lemmermann VARIETY
-=======
+# Trachelomonas incerta Lemmermann SPECIES
 
 #### Status
 ACCEPTED

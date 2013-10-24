@@ -1,5 +1,4 @@
-Sporidesmium asteriscus Berk. & M.A. Curtis SPECIES
-=======
+# Sporidesmium asteriscus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

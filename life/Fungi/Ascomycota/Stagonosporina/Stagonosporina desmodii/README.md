@@ -1,5 +1,4 @@
-Stagonosporina desmodii (Ellis & Everh.) Tassi SPECIES
-=======
+# Stagonosporina desmodii (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

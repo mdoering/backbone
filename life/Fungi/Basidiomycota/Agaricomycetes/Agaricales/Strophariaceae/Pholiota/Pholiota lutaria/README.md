@@ -1,5 +1,4 @@
-Pholiota lutaria (Maire) Kuyper & Tjall.-Beuk. SPECIES
-=======
+# Pholiota lutaria (Maire) Kuyper & Tjall.-Beuk. SPECIES
 
 #### Status
 ACCEPTED

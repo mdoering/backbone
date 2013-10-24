@@ -1,5 +1,4 @@
-Spheconisca margaritula Bachm. SPECIES
-=======
+# Spheconisca margaritula Bachm. SPECIES
 
 #### Status
 ACCEPTED

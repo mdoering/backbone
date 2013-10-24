@@ -1,17 +1,16 @@
-Conidiobolus adiaeretus Drechsler SPECIES
-=======
+# Conidiobolus adieretus Drechsler, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Wash. Acad. Sci. 43: 42 (1953)
 
 #### Original name
-Conidiobolus adiaeretus Drechsler
+Conidiobolus adieretus Drechsler, 1953
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Peniophora citrinella (Berk. & M.A. Curtis) Burt SPECIES
-=======
+# Peniophora citrinella (Berk. & M.A. Curtis) Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas omphalon Drezepolski SPECIES
-=======
+# Trachelomonas omphalon Drezepolski SPECIES
 
 #### Status
 ACCEPTED

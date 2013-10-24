@@ -1,5 +1,4 @@
-Candelariella ralfsii (Salwey) Zahlbr. SPECIES
-=======
+# Candelariella ralfsii (Salwey) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

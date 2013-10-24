@@ -1,5 +1,4 @@
-Lacrymaria ovata Burkovsky, 1970 SPECIES
-=======
+# Lacrymaria ovata Burkovsky, 1970 SPECIES
 
 #### Status
 ACCEPTED

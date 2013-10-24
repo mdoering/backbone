@@ -1,5 +1,4 @@
-Diatrype xumenensis Doidge SPECIES
-=======
+# Diatrype xumenensis Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trombetta ocreata (Pers.) Kuntze SPECIES
-=======
+# Trombetta ocreata (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

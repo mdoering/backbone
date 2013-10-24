@@ -1,17 +1,16 @@
-Cladochaete horrida var. setosimplicia Bat. & J.A. Lima VARIETY
-=======
+# Chaetomella horrida Oudem., 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Néerlandaises des Sc. exacts et nat. 7: 280 (1902)
 
 #### Original name
-Cladochaete horrida var. setosimplicia Bat. & J.A. Lima
+Chaetomella horrida Oudem., 1902
 
 ### Remarks
 null

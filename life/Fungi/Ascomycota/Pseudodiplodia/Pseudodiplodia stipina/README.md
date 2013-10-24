@@ -1,5 +1,4 @@
-Pseudodiplodia stipina (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia stipina (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

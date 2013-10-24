@@ -1,5 +1,4 @@
-Colletotrichum cavendishii Petr. SPECIES
-=======
+# Colletotrichum cavendishii Petr. SPECIES
 
 #### Status
 ACCEPTED

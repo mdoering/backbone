@@ -1,17 +1,16 @@
-Diatrypella demetrionis Ellis & Everh. SPECIES
-=======
+# Diatrypella demetrioniana Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. , 1890 42: 225 (1890)
 
 #### Original name
-Diatrypella demetrionis Ellis & Everh.
+Diatrypella demetrioniana Ellis & Everh.
 
 ### Remarks
 null

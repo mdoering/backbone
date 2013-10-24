@@ -1,5 +1,4 @@
-Entoloma subinocybiforme Hesler SPECIES
-=======
+# Entoloma subinocybiforme Hesler SPECIES
 
 #### Status
 ACCEPTED

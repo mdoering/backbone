@@ -1,5 +1,4 @@
-Paraparmelia alabamensis (Hale & McCull.) Elix & J. Johnst. SPECIES
-=======
+# Paraparmelia alabamensis (Hale & McCull.) Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

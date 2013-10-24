@@ -1,5 +1,4 @@
-Sphaeria tremulicola DC. SPECIES
-=======
+# Sphaeria tremulicola DC. SPECIES
 
 #### Status
 ACCEPTED

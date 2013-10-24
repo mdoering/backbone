@@ -1,5 +1,4 @@
-Cortinarius ionosmus M.M. Moser, Nespiak & Schwöbel SPECIES
-=======
+# Cortinarius ionosmus M.M. Moser, Nespiak & Schwöbel SPECIES
 
 #### Status
 ACCEPTED

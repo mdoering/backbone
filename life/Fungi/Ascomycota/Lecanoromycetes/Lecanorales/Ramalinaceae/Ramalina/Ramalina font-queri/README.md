@@ -1,5 +1,4 @@
-Ramalina font-queri Maheu SPECIES
-=======
+# Ramalina font-queri Maheu SPECIES
 
 #### Status
 ACCEPTED

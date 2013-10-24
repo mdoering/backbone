@@ -1,14 +1,13 @@
-Parmelia glareosa Kurok. & Filson SPECIES
-=======
+# Xanthoparmelia glareosa (Kurok. & Filson) Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Filson, Aust. J. Bot. 30(5): 536 (1982)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 256 (1986)
 
 #### Original name
 Parmelia glareosa Kurok. & Filson

@@ -1,5 +1,4 @@
-Leptostroma buphthalmi H. Ruppr. SPECIES
-=======
+# Leptostroma buphthalmi H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

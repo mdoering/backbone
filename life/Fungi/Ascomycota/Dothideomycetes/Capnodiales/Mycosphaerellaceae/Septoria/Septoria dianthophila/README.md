@@ -1,5 +1,4 @@
-Septoria dianthophila Speg. SPECIES
-=======
+# Septoria dianthophila Speg. SPECIES
 
 #### Status
 ACCEPTED

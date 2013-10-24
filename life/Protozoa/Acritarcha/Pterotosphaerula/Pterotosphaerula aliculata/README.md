@@ -1,5 +1,4 @@
-Pterotosphaerula aliculata Cramer, 1966 SPECIES
-=======
+# Pterotosphaerula aliculata Cramer, 1966 SPECIES
 
 #### Status
 ACCEPTED

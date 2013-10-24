@@ -1,5 +1,4 @@
-Collybia graminea (Lév.) Quél. SPECIES
-=======
+# Collybia graminea (Lév.) Quél. SPECIES
 
 #### Status
 ACCEPTED

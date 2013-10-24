@@ -1,5 +1,4 @@
-Ustilago milii (Fuckel) Liro SPECIES
-=======
+# Ustilago milii (Fuckel) Liro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Amanita fulva var. fulva VARIETY
-=======
+# Amanita fulva Fr., 1815 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Observ. mycol. (Havniae) 1: 2 (1815)
 
 #### Original name
-Amanita fulva var. fulva
+Agaricus fulvus Schaeff., 1774
 
 ### Remarks
 null

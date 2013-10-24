@@ -1,5 +1,4 @@
-Cylindrosporium allii Annal. SPECIES
-=======
+# Cylindrosporium allii Annal. SPECIES
 
 #### Status
 ACCEPTED

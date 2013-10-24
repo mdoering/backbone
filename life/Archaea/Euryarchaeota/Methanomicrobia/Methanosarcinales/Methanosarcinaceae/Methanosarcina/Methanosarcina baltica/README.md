@@ -1,5 +1,4 @@
-Methanosarcina baltica von Klein et al., 2002 SPECIES
-=======
+# Methanosarcina baltica von Klein et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

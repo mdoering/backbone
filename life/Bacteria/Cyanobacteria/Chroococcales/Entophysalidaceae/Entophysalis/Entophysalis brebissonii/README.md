@@ -1,5 +1,4 @@
-Entophysalis brebissonii (Meneghini) Drouet & Daily SPECIES
-=======
+# Entophysalis brebissonii (Meneghini) Drouet & Daily SPECIES
 
 #### Status
 ACCEPTED

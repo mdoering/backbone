@@ -1,5 +1,4 @@
-Verrucaria crassescens Stirt. SPECIES
-=======
+# Verrucaria crassescens Stirt. SPECIES
 
 #### Status
 ACCEPTED

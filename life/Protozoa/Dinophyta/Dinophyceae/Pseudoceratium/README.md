@@ -1,14 +1,13 @@
-Eopseudoceratium (J.W. Neale & W.A.S. Sarjeant) T.F. Vozzhennikova, 1965 GENUS
-=======
+# Pseudoceratium H.Gocht, 1957 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Paläont. Z. 31: 166.
 
 #### Original name
 null

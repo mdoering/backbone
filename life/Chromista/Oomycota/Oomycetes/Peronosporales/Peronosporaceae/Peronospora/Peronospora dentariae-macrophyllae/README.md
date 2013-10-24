@@ -1,17 +1,16 @@
-Peronospora dentariae-macrophillae Gäum. SPECIES
-=======
+# Peronospora dentariae-macrophyllae Gäum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. bot. Zbl. , Abt. 1 35: 133 (1918)
 
 #### Original name
-Peronospora dentariae-macrophillae Gäum.
+Peronospora dentariae-macrophyllae Gäum.
 
 ### Remarks
 null

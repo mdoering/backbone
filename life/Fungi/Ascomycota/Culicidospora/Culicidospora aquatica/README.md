@@ -1,5 +1,4 @@
-Culicidospora aquatica R.H. Petersen, 1960 SPECIES
-=======
+# Culicidospora aquatica R.H. Petersen, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diporicellaesporites suboblongatus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Diporicellaesporites suboblongatus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

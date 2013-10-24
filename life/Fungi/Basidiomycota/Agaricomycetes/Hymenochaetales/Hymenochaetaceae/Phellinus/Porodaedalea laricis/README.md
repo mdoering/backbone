@@ -1,14 +1,13 @@
-Xanthochrous pini f. laricis Jacz. ex Pilát, 1934 FORM
-=======
+# Porodaedalea laricis (Jacz. ex Pilát) Niemelä, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Niemelä, Kinnunen, Larsson Schige & Larsson, Karstenia 45(2): 78 (2005)
 
 #### Original name
 Xanthochrous pini f. laricis Jacz. ex Pilát, 1934

@@ -1,5 +1,4 @@
-Arthothelium nephelinum (Nyl.) Zahlbr. SPECIES
-=======
+# Arthothelium nephelinum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

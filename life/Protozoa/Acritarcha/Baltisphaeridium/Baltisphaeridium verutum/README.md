@@ -1,5 +1,4 @@
-Baltisphaeridium verutum Vecoli, 1996 SPECIES
-=======
+# Baltisphaeridium verutum Vecoli, 1996 SPECIES
 
 #### Status
 ACCEPTED

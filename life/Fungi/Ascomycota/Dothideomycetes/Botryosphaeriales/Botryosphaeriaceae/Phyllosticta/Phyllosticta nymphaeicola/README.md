@@ -1,5 +1,4 @@
-Phyllosticta nymphaeicola Tehon & E.Y. Daniels SPECIES
-=======
+# Phyllosticta nymphaeicola Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

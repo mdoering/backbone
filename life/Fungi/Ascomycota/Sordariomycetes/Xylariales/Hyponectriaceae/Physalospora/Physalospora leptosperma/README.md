@@ -1,5 +1,4 @@
-Physalospora leptosperma Rostr. SPECIES
-=======
+# Physalospora leptosperma Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia novae-semliae SPECIES
-=======
+# Aspicilia novae-semliae SPECIES
 
 #### Status
 ACCEPTED

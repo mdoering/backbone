@@ -1,5 +1,4 @@
-Entomocorticium H.S. Whitney, Bandoni & Oberw. GENUS
-=======
+# Entomocorticium H.S. Whitney, Bandoni & Oberw. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peylia GENUS
-=======
+# Peylia GENUS
 
 #### Status
 ACCEPTED

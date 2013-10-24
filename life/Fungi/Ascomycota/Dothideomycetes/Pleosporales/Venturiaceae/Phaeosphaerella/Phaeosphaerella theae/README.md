@@ -1,5 +1,4 @@
-Phaeosphaerella theae Petch SPECIES
-=======
+# Phaeosphaerella theae Petch SPECIES
 
 #### Status
 ACCEPTED

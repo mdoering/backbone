@@ -1,5 +1,4 @@
-Naucoria rubricata (Berk. & Broome) Sacc. SPECIES
-=======
+# Naucoria rubricata (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

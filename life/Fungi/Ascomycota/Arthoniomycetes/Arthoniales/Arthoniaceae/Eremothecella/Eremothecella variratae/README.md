@@ -1,5 +1,4 @@
-Eremothecella variratae (Aptroot & Sipman) Sérus. SPECIES
-=======
+# Eremothecella variratae (Aptroot & Sipman) Sérus. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Bradyella Munier-Chalmas, 1902 GENUS
-=======
+# Amphisorus Ehrenberg, 1839 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Abh. Preuss. Akad. Wiss. , 1838 (1840), 130.
 
 #### Original name
 null

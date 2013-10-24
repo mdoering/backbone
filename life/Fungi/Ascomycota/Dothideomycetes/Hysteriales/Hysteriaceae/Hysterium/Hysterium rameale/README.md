@@ -1,5 +1,4 @@
-Hysterium rameale (Fr.) Sacc. & Traverso SPECIES
-=======
+# Hysterium rameale (Fr.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

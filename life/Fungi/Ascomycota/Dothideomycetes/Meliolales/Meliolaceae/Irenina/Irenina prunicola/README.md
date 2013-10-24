@@ -1,5 +1,4 @@
-Irenina prunicola (Speg.) F. Stevens SPECIES
-=======
+# Irenina prunicola (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella atomariella (Nyl.) H. Magn. SPECIES
-=======
+# Didymella atomariella (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

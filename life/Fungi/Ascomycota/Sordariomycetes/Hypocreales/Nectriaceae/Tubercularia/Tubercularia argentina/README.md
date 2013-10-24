@@ -1,5 +1,4 @@
-Tubercularia argentina Speg. SPECIES
-=======
+# Tubercularia argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

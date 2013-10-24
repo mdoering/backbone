@@ -1,5 +1,4 @@
-Descolea majestatica E. Horak, 1971 SPECIES
-=======
+# Descolea majestatica E. Horak, 1971 SPECIES
 
 #### Status
 ACCEPTED

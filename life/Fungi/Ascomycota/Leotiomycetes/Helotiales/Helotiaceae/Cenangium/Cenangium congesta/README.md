@@ -1,5 +1,4 @@
-Cenangium congesta Massee SPECIES
-=======
+# Cenangium congesta Massee SPECIES
 
 #### Status
 ACCEPTED

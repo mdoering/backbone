@@ -1,5 +1,4 @@
-Amanita manginiana Har. & Pat. SPECIES
-=======
+# Amanita manginiana Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

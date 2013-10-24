@@ -1,5 +1,4 @@
-Puccinia papillifera P. Syd. & Syd. SPECIES
-=======
+# Puccinia papillifera P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

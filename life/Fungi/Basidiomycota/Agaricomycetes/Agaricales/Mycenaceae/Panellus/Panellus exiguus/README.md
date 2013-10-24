@@ -1,5 +1,4 @@
-Panellus exiguus Corner, 1986 SPECIES
-=======
+# Panellus exiguus Corner, 1986 SPECIES
 
 #### Status
 ACCEPTED

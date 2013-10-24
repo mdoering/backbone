@@ -1,14 +1,13 @@
-Thelotrema turgidulum (Müll. Arg.) Hale SPECIES
-=======
+# Ocellularia turgidula Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 11(1): 132 (1980)
+J. Bot. 7: 94 (1893)
 
 #### Original name
 Ocellularia turgidula Müll. Arg.

@@ -1,5 +1,4 @@
-Sphaerella antivarensis Bubák SPECIES
-=======
+# Sphaerella antivarensis Bubák SPECIES
 
 #### Status
 ACCEPTED

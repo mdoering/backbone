@@ -1,5 +1,4 @@
-Peziza crenulata Berk. & Broome SPECIES
-=======
+# Peziza crenulata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

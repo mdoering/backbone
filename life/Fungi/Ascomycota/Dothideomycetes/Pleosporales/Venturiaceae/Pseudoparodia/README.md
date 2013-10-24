@@ -1,5 +1,4 @@
-Pseudoparodia Theiss. & Syd. GENUS
-=======
+# Pseudoparodia Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

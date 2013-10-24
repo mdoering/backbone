@@ -1,5 +1,4 @@
-Sclerotium fallax Sacc. SPECIES
-=======
+# Sclerotium fallax Sacc. SPECIES
 
 #### Status
 ACCEPTED

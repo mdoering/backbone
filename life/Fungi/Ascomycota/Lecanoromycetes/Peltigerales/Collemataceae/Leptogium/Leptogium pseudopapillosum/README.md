@@ -1,5 +1,4 @@
-Leptogium pseudopapillosum P. M. Jørg. SPECIES
-=======
+# Leptogium pseudopapillosum P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

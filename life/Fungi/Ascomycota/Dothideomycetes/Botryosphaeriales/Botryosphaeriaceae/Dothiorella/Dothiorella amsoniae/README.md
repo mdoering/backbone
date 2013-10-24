@@ -1,5 +1,4 @@
-Dothiorella amsoniae (Tassi) Petr. & Syd. SPECIES
-=======
+# Dothiorella amsoniae (Tassi) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

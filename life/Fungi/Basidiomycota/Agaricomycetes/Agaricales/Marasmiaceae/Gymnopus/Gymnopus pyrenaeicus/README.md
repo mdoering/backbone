@@ -1,5 +1,4 @@
-Gymnopus pyrenaeicus (Bon & Ballara) Antonín & Noordel. SPECIES
-=======
+# Gymnopus pyrenaeicus (Bon & Ballara) Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED

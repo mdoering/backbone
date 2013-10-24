@@ -1,5 +1,4 @@
-Lecidea subtabacina Nyl. SPECIES
-=======
+# Lecidea subtabacina Nyl. SPECIES
 
 #### Status
 ACCEPTED

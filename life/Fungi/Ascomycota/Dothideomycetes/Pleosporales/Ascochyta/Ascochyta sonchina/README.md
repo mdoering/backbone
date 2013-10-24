@@ -1,5 +1,4 @@
-Ascochyta sonchina Lobik SPECIES
-=======
+# Ascochyta sonchina Lobik SPECIES
 
 #### Status
 ACCEPTED

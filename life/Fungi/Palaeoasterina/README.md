@@ -1,5 +1,4 @@
-Palaeoasterina S. Mitra, Bera & Manju Banerjee GENUS
-=======
+# Palaeoasterina S. Mitra, Bera & Manju Banerjee GENUS
 
 #### Status
 ACCEPTED

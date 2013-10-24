@@ -1,5 +1,4 @@
-Phoma strobilina Peck & G.P. Clinton SPECIES
-=======
+# Phoma strobilina Peck & G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

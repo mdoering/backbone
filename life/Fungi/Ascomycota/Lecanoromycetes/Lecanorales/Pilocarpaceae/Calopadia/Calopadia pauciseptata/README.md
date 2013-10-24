@@ -1,5 +1,4 @@
-Calopadia pauciseptata Lücking SPECIES
-=======
+# Calopadia pauciseptata Lücking SPECIES
 
 #### Status
 ACCEPTED

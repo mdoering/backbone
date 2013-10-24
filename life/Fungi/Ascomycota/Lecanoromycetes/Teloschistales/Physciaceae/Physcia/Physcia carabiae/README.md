@@ -1,5 +1,4 @@
-Physcia carabiae B. de Lesd. SPECIES
-=======
+# Physcia carabiae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

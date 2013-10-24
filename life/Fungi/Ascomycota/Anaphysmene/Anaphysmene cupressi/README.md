@@ -1,5 +1,4 @@
-Anaphysmene cupressi B. Sutton & Hodges, 1990 SPECIES
-=======
+# Anaphysmene cupressi B. Sutton & Hodges, 1990 SPECIES
 
 #### Status
 ACCEPTED

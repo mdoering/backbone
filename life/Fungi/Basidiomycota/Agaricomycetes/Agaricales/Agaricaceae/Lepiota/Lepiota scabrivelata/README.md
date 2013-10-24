@@ -1,5 +1,4 @@
-Lepiota scabrivelata Murrill SPECIES
-=======
+# Lepiota scabrivelata Murrill SPECIES
 
 #### Status
 ACCEPTED

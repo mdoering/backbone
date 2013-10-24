@@ -1,5 +1,4 @@
-Septobasidium fuscoviolaceum Bres. SPECIES
-=======
+# Septobasidium fuscoviolaceum Bres. SPECIES
 
 #### Status
 ACCEPTED

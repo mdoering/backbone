@@ -1,5 +1,4 @@
-Delitschia didymella Luck-Allen & Cain SPECIES
-=======
+# Delitschia didymella Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora revoluta Raf. SPECIES
-=======
+# Thelephora revoluta Raf. SPECIES
 
 #### Status
 ACCEPTED

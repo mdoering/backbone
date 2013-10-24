@@ -1,5 +1,4 @@
-Cercospora strigae Nag Raj, Govindu & Thirum. SPECIES
-=======
+# Cercospora strigae Nag Raj, Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

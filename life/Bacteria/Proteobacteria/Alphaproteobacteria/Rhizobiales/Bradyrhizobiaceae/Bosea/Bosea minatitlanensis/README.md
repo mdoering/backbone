@@ -1,5 +1,4 @@
-Bosea minatitlanensis Ouattara et al., 2003 SPECIES
-=======
+# Bosea minatitlanensis Ouattara et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

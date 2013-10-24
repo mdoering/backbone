@@ -1,5 +1,4 @@
-Gomphidius litigiosus Britzelm. SPECIES
-=======
+# Gomphidius litigiosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

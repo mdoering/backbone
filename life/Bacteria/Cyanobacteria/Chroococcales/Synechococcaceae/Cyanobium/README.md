@@ -1,5 +1,4 @@
-Cyanobium Rippka & Cohen-Bazire, 1983 GENUS
-=======
+# Cyanobium Rippka & Cohen-Bazire, 1983 GENUS
 
 #### Status
 ACCEPTED

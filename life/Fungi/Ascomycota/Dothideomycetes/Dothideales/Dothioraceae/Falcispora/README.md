@@ -1,5 +1,4 @@
-Falcispora GENUS
-=======
+# Falcispora GENUS
 
 #### Status
 ACCEPTED

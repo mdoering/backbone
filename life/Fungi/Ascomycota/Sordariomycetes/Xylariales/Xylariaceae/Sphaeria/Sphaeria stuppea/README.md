@@ -1,5 +1,4 @@
-Sphaeria stuppea Wallr. SPECIES
-=======
+# Sphaeria stuppea Wallr. SPECIES
 
 #### Status
 ACCEPTED

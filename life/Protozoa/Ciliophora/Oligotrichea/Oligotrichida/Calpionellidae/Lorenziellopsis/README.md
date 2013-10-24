@@ -1,5 +1,4 @@
-Lorenziellopsis Nagy, 1989 GENUS
-=======
+# Lorenziellopsis Nagy, 1989 GENUS
 
 #### Status
 ACCEPTED

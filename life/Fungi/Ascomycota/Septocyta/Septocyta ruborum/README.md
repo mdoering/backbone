@@ -1,17 +1,16 @@
-Rhabdospora rubi var. rubi VARIETY
-=======
+# Septocyta ruborum (Lib.) Petr., 1968 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 21: 245 (1968)
 
 #### Original name
-Rhabdospora rubi var. rubi
+Ascochyta ruborum Lib., 1834
 
 ### Remarks
 null

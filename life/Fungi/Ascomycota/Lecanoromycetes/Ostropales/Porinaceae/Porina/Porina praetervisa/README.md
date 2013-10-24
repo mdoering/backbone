@@ -1,5 +1,4 @@
-Porina praetervisa Vain. SPECIES
-=======
+# Porina praetervisa Vain. SPECIES
 
 #### Status
 ACCEPTED

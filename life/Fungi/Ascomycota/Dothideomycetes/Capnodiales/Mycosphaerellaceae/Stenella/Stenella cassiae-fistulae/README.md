@@ -1,5 +1,4 @@
-Stenella cassiae-fistulae U. Braun & Kamal SPECIES
-=======
+# Stenella cassiae-fistulae U. Braun & Kamal SPECIES
 
 #### Status
 ACCEPTED

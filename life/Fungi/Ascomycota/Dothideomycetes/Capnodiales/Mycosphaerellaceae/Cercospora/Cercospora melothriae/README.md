@@ -1,5 +1,4 @@
-Cercospora melothriae Sawada SPECIES
-=======
+# Cercospora melothriae Sawada SPECIES
 
 #### Status
 ACCEPTED

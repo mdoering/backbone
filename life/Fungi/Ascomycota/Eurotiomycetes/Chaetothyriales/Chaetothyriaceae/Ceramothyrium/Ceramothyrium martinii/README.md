@@ -1,5 +1,4 @@
-Ceramothyrium martinii (Ellis & Sacc.) M.E. Barr SPECIES
-=======
+# Ceramothyrium martinii (Ellis & Sacc.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

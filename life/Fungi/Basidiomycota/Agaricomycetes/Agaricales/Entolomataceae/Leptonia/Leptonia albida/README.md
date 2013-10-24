@@ -1,5 +1,4 @@
-Leptonia albida Murrill SPECIES
-=======
+# Leptonia albida Murrill SPECIES
 
 #### Status
 ACCEPTED

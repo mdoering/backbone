@@ -1,5 +1,4 @@
-Omphalia serotina Hruby SPECIES
-=======
+# Omphalia serotina Hruby SPECIES
 
 #### Status
 ACCEPTED

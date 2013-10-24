@@ -1,5 +1,4 @@
-Lecanora microps SPECIES
-=======
+# Lecanora microps SPECIES
 
 #### Status
 ACCEPTED

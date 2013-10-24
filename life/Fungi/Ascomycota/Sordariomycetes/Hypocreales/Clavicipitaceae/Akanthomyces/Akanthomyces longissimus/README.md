@@ -1,5 +1,4 @@
-Akanthomyces longissimus Thaxt. SPECIES
-=======
+# Akanthomyces longissimus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

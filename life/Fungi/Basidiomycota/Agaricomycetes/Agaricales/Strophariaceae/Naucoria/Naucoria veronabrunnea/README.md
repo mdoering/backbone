@@ -1,17 +1,16 @@
-Naucoria veronabrunneus Cleland SPECIES
-=======
+# Naucoria veronabrunnea Cleland SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Toadstools and Mushrooms and Other Larger Fungi of South Australia (Adelaide) 127 (1934)
 
 #### Original name
-Naucoria veronabrunneus Cleland
+Naucoria veronabrunnea Cleland
 
 ### Remarks
 null

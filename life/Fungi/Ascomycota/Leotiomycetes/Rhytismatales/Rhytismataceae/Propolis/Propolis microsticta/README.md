@@ -1,5 +1,4 @@
-Propolis microsticta Mont. SPECIES
-=======
+# Propolis microsticta Mont. SPECIES
 
 #### Status
 ACCEPTED

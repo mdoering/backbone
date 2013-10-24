@@ -1,5 +1,4 @@
-Lecanora flavoleprosa Tønsberg SPECIES
-=======
+# Lecanora flavoleprosa Tønsberg SPECIES
 
 #### Status
 ACCEPTED

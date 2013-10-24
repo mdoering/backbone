@@ -1,5 +1,4 @@
-Corticium vinososcabens Burt SPECIES
-=======
+# Corticium vinososcabens Burt SPECIES
 
 #### Status
 ACCEPTED

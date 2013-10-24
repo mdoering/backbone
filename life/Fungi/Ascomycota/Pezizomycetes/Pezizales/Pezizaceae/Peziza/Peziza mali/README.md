@@ -1,5 +1,4 @@
-Peziza mali (Rehm) SPECIES
-=======
+# Peziza mali (Rehm) SPECIES
 
 #### Status
 ACCEPTED

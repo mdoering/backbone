@@ -1,5 +1,4 @@
-Colletotrichum holopteleae Hasija SPECIES
-=======
+# Colletotrichum holopteleae Hasija SPECIES
 
 #### Status
 ACCEPTED

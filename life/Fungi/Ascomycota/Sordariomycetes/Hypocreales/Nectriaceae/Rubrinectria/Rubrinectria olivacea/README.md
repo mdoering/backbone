@@ -1,14 +1,13 @@
-Nectria olivacea (Seaver) Samuels, 1974 SPECIES
-=======
+# Rubrinectria olivacea (Seaver) Rossman & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 65(6): 1279 (1974)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 164 (1999)
 
 #### Original name
 Macbridella olivacea Seaver, 1910

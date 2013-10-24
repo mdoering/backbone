@@ -1,5 +1,4 @@
-Aecidium pycnostachydis (Kalchbr.) Doidge SPECIES
-=======
+# Aecidium pycnostachydis (Kalchbr.) Doidge SPECIES
 
 #### Status
 ACCEPTED

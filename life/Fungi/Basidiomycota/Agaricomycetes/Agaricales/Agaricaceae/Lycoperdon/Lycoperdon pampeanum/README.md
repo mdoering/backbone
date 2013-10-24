@@ -1,5 +1,4 @@
-Lycoperdon pampeanum Speg. SPECIES
-=======
+# Lycoperdon pampeanum Speg. SPECIES
 
 #### Status
 ACCEPTED

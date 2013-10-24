@@ -1,5 +1,4 @@
-Hypocrea solenostoma Berk. & Ravenel SPECIES
-=======
+# Hypocrea solenostoma Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

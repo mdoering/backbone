@@ -1,5 +1,4 @@
-Ascochyta imperatae Punith. SPECIES
-=======
+# Ascochyta imperatae Punith. SPECIES
 
 #### Status
 ACCEPTED

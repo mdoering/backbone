@@ -1,5 +1,4 @@
-Diplorhinotrichum GENUS
-=======
+# Diplorhinotrichum GENUS
 
 #### Status
 ACCEPTED

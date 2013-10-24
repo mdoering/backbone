@@ -1,5 +1,4 @@
-Russula albofloccosa Buyck, 1990 SPECIES
-=======
+# Russula albofloccosa Buyck, 1990 SPECIES
 
 #### Status
 ACCEPTED

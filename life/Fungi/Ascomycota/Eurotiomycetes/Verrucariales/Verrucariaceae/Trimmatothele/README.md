@@ -1,5 +1,4 @@
-Trimmatothele Norman ex Zahlbr. GENUS
-=======
+# Trimmatothele Norman ex Zahlbr. GENUS
 
 #### Status
 ACCEPTED

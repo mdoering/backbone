@@ -1,5 +1,4 @@
-Uromyces psamathonophilus Speg. SPECIES
-=======
+# Uromyces psamathonophilus Speg. SPECIES
 
 #### Status
 ACCEPTED

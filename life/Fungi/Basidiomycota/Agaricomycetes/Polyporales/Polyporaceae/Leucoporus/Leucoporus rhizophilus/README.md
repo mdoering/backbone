@@ -1,5 +1,4 @@
-Leucoporus rhizophilus var. rhizophilus VARIETY
-=======
+# Leucoporus rhizophilus SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mém. Acad. malgache 6: 13 (1928)
+null
 
 #### Original name
-Leucoporus rhizophilus var. rhizophilus
+null
 
 ### Remarks
 null

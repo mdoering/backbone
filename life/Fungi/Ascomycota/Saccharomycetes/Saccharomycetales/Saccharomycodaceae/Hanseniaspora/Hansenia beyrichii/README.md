@@ -1,5 +1,4 @@
-Hansenia beyrichii (Fr.) P. Karst. SPECIES
-=======
+# Hansenia beyrichii (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

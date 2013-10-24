@@ -1,5 +1,4 @@
-Ramariopsis novae-hibernica Corner, 1971 SPECIES
-=======
+# Ramariopsis novae-hibernica Corner, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyophyllum tucumanense Singer SPECIES
-=======
+# Lyophyllum tucumanense Singer SPECIES
 
 #### Status
 ACCEPTED

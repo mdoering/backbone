@@ -1,5 +1,4 @@
-Lithopteranna Haeckel, 1887 GENUS
-=======
+# Lithopteranna Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

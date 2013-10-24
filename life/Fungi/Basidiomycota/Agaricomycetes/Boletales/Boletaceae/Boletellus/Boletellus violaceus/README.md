@@ -1,5 +1,4 @@
-Boletellus violaceus M. Zang & H.C. Tan SPECIES
-=======
+# Boletellus violaceus M. Zang & H.C. Tan SPECIES
 
 #### Status
 ACCEPTED

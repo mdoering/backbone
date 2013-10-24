@@ -1,5 +1,4 @@
-Coniothyriopsis mangiferae Shreem. & Bilgrami SPECIES
-=======
+# Coniothyriopsis mangiferae Shreem. & Bilgrami SPECIES
 
 #### Status
 ACCEPTED

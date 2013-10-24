@@ -1,5 +1,4 @@
-Scytonema cuatrecasasii P. González SPECIES
-=======
+# Scytonema cuatrecasasii P. González SPECIES
 
 #### Status
 ACCEPTED

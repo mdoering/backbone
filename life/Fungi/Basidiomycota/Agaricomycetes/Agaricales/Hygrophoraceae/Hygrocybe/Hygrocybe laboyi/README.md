@@ -1,5 +1,4 @@
-Hygrocybe laboyi S.A. Cantrell & Lodge SPECIES
-=======
+# Hygrocybe laboyi S.A. Cantrell & Lodge SPECIES
 
 #### Status
 ACCEPTED

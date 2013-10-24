@@ -1,14 +1,13 @@
-Polyporus placodes Kalchbr., 1875 SPECIES
-=======
+# Hapalopilus placodes (Kalchbr.) N. Walters & E.W.B. Costa, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 4(no. 30): 73 (1875)
+Commonw. ind. sci. Res. Org. Catal. 16 (1956)
 
 #### Original name
 Polyporus placodes Kalchbr., 1875

@@ -1,5 +1,4 @@
-Didymosphaeria tetraspora Massee SPECIES
-=======
+# Didymosphaeria tetraspora Massee SPECIES
 
 #### Status
 ACCEPTED

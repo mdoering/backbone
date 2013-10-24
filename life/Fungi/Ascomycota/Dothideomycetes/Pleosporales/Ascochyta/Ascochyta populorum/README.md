@@ -1,5 +1,4 @@
-Ascochyta populorum (Sacc. & Roum.) Voglino SPECIES
-=======
+# Ascochyta populorum (Sacc. & Roum.) Voglino SPECIES
 
 #### Status
 ACCEPTED

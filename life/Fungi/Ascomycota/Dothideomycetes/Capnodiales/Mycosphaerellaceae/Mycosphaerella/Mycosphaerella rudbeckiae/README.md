@@ -1,5 +1,4 @@
-Mycosphaerella rudbeckiae Clem., 1906 SPECIES
-=======
+# Mycosphaerella rudbeckiae Clem., 1906 SPECIES
 
 #### Status
 ACCEPTED

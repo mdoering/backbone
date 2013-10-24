@@ -1,5 +1,4 @@
-Peziza rivularis P. Crouan & H. Crouan SPECIES
-=======
+# Peziza rivularis P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

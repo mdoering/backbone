@@ -1,5 +1,4 @@
-Laestadia minima Pass. SPECIES
-=======
+# Laestadia minima Pass. SPECIES
 
 #### Status
 ACCEPTED

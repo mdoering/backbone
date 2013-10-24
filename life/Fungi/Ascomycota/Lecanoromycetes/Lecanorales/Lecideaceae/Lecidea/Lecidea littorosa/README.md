@@ -1,5 +1,4 @@
-Lecidea littorosa Werner SPECIES
-=======
+# Lecidea littorosa Werner SPECIES
 
 #### Status
 ACCEPTED

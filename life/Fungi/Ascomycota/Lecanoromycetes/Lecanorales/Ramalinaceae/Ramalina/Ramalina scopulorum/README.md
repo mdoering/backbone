@@ -1,5 +1,4 @@
-Ramalina scopulorum f. scopulorum FORM
-=======
+# Ramalina scopulorum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Lich. univ. 604 (1810)
+null
 
 #### Original name
-Ramalina scopulorum f. scopulorum
+null
 
 ### Remarks
 null

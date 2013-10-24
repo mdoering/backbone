@@ -1,14 +1,13 @@
-Helminthosphaeria malacotricha (Auersw. ex Niessl) Kirschst., 1934 SPECIES
-=======
+# Coniochaeta malacotricha (Auersw. ex Niessl) Traverso, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 18(4): 305 (1933)
+Fl. ital. crypt. 1(2): 473 (1907)
 
 #### Original name
 Rosellinia malacotricha Auersw. ex Niessl, 1872

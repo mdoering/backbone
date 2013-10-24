@@ -1,5 +1,4 @@
-Verrucaria infida Nyl. SPECIES
-=======
+# Verrucaria infida Nyl. SPECIES
 
 #### Status
 ACCEPTED

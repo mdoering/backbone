@@ -1,5 +1,4 @@
-Gymnopus aquosus (Bull.) Antonín & Noordel., 1997 SPECIES
-=======
+# Gymnopus aquosus (Bull.) Antonín & Noordel., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synechoblastus coccophorum SPECIES
-=======
+# Synechoblastus coccophorum SPECIES
 
 #### Status
 ACCEPTED

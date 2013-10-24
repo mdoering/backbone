@@ -1,14 +1,13 @@
-Fungus howeanus (Peck) Kuntze, 1898 SPECIES
-=======
+# Agrocybe howeana (Peck) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 480 (1898)
+Lilloa 22: 492 (1951)
 
 #### Original name
 Agaricus howeanus Peck, 1874

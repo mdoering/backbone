@@ -1,5 +1,4 @@
-Castellania hominis (Castell. & Chalm.) C.W. Dodge SPECIES
-=======
+# Castellania hominis (Castell. & Chalm.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rimbachia puiggarii (Speg.) Rick, 1960 SPECIES
-=======
+# Calyptella puiggarii (Speg.) W.B. Cooke, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rambo (Ed. ), Iheringia, Sér. Bot. 7: 199 (1960)
+Beih. Sydowia 4: 42 (1961)
 
 #### Original name
 Cyphella puiggarii Speg., 1889

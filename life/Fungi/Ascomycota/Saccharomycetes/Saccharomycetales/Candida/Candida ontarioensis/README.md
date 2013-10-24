@@ -1,5 +1,4 @@
-Candida ontarioensis Kurtzman & Robnett SPECIES
-=======
+# Candida ontarioensis Kurtzman & Robnett SPECIES
 
 #### Status
 ACCEPTED

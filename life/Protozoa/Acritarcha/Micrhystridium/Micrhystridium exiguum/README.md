@@ -1,5 +1,4 @@
-Micrhystridium exiguum Rasul, 1979 SPECIES
-=======
+# Micrhystridium exiguum Rasul, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exosporium eryngii (Pers.) Duby SPECIES
-=======
+# Exosporium eryngii (Pers.) Duby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma hypomutilospora J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Macrophoma hypomutilospora J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

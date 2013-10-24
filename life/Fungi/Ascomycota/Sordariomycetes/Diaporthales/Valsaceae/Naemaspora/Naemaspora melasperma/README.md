@@ -1,5 +1,4 @@
-Naemaspora melasperma Fr. SPECIES
-=======
+# Naemaspora melasperma Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum lendigerum var. mombassaense Grunow VARIETY
-=======
+# Sargassum lendigerum (Linnaeus) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

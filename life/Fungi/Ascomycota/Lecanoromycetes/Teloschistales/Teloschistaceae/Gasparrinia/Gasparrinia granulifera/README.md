@@ -1,5 +1,4 @@
-Gasparrinia granulifera var. granulifera VARIETY
-=======
+# Gasparrinia granulifera (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 38: 109 (1971)
 
 #### Original name
-Gasparrinia granulifera var. granulifera
+Amphiloma granuliferum Müll. Arg.
 
 ### Remarks
 null

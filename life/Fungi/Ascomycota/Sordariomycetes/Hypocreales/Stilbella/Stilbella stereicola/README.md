@@ -1,5 +1,4 @@
-Stilbella stereicola Seifert SPECIES
-=======
+# Stilbella stereicola Seifert SPECIES
 
 #### Status
 ACCEPTED

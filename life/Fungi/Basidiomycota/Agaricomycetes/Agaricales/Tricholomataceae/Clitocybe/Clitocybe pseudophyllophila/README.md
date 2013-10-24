@@ -1,5 +1,4 @@
-Clitocybe pseudophyllophila Z.S. Bi & G.Y. Zheng SPECIES
-=======
+# Clitocybe pseudophyllophila Z.S. Bi & G.Y. Zheng SPECIES
 
 #### Status
 ACCEPTED

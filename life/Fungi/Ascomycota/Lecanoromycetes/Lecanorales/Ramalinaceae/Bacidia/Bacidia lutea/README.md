@@ -1,5 +1,4 @@
-Bacidia lutea Lücking SPECIES
-=======
+# Bacidia lutea Lücking SPECIES
 
 #### Status
 ACCEPTED

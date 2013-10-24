@@ -1,5 +1,4 @@
-Coremium fragariastri Schwein. SPECIES
-=======
+# Coremium fragariastri Schwein. SPECIES
 
 #### Status
 ACCEPTED

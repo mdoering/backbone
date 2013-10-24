@@ -1,5 +1,4 @@
-Molgosphaera Dumort. GENUS
-=======
+# Molgosphaera Dumort. GENUS
 
 #### Status
 ACCEPTED

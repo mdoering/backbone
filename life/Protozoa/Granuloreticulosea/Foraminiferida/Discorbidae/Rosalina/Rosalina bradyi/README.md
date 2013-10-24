@@ -1,5 +1,4 @@
-Rosalina bradyi (Cushman, 1915) SPECIES
-=======
+# Rosalina bradyi (Cushman, 1915) SPECIES
 
 #### Status
 ACCEPTED

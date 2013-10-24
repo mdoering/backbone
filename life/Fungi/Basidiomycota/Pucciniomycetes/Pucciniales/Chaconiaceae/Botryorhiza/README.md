@@ -1,5 +1,4 @@
-Botryorhiza Whetzel & Olive GENUS
-=======
+# Botryorhiza Whetzel & Olive GENUS
 
 #### Status
 ACCEPTED

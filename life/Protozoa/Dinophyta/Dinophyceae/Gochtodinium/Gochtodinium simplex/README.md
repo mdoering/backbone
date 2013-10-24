@@ -1,5 +1,4 @@
-Gochtodinium simplex J. P. Bujak SPECIES
-=======
+# Gochtodinium simplex J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

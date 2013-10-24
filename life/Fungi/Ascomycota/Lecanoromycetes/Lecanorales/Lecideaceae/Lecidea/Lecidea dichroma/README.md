@@ -1,5 +1,4 @@
-Lecidea dichroma Fée SPECIES
-=======
+# Lecidea dichroma Fée SPECIES
 
 #### Status
 ACCEPTED

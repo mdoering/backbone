@@ -1,5 +1,4 @@
-Cladobotryum gelatinosum Fuckel SPECIES
-=======
+# Cladobotryum gelatinosum Fuckel SPECIES
 
 #### Status
 ACCEPTED

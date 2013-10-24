@@ -1,5 +1,4 @@
-Lecidea connexula Nyl. SPECIES
-=======
+# Lecidea connexula Nyl. SPECIES
 
 #### Status
 ACCEPTED

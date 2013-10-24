@@ -1,5 +1,4 @@
-Chaetoceros laciniosus Schütt SPECIES
-=======
+# Chaetoceros laciniosus Schütt SPECIES
 
 #### Status
 ACCEPTED

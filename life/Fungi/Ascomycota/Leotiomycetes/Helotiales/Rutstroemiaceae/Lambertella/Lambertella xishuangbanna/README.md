@@ -1,5 +1,4 @@
-Lambertella xishuangbanna W.Y. Zhuang SPECIES
-=======
+# Lambertella xishuangbanna W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

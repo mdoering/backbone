@@ -1,5 +1,4 @@
-Amidella subviscosa (Beeli) E.-J. Gilbert SPECIES
-=======
+# Amidella subviscosa (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

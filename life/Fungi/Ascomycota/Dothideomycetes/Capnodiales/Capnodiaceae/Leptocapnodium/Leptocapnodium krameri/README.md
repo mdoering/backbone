@@ -1,5 +1,4 @@
-Leptocapnodium krameri Bat. & Cif. SPECIES
-=======
+# Leptocapnodium krameri Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

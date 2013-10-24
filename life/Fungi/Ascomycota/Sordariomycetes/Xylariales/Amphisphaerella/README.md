@@ -1,17 +1,16 @@
-Spilobolus Link GENUS
-=======
+# Amphisphaerella (Saccardo) Kirschstein, 1934 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 18(4): 306 (1934)
 
 #### Original name
-Spilobolus Link
+null
 
 ### Remarks
 null

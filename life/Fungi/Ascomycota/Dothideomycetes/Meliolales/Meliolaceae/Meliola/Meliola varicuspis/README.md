@@ -1,5 +1,4 @@
-Meliola varicuspis F. Stevens & Tehon SPECIES
-=======
+# Meliola varicuspis F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED

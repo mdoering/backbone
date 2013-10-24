@@ -1,5 +1,4 @@
-Pseudotrochammina triloba Frerichs, 1969 SPECIES
-=======
+# Pseudotrochammina triloba Frerichs, 1969 SPECIES
 
 #### Status
 ACCEPTED

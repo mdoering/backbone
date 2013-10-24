@@ -1,5 +1,4 @@
-Sphaerulina scirpi Pass. SPECIES
-=======
+# Sphaerulina scirpi Pass. SPECIES
 
 #### Status
 ACCEPTED

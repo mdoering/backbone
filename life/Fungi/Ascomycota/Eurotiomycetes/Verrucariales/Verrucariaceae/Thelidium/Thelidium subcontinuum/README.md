@@ -1,5 +1,4 @@
-Thelidium subcontinuum (Nyl.) Servít SPECIES
-=======
+# Thelidium subcontinuum (Nyl.) Servít SPECIES
 
 #### Status
 ACCEPTED

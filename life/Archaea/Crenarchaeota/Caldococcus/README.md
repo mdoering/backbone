@@ -1,5 +1,4 @@
-Caldococcus GENUS
-=======
+# Caldococcus GENUS
 
 #### Status
 ACCEPTED

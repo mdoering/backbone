@@ -1,5 +1,4 @@
-Tolyposporella semenoviana Lavrov SPECIES
-=======
+# Tolyposporella semenoviana Lavrov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urnula geaster Peck SPECIES
-=======
+# Urnula geaster Peck SPECIES
 
 #### Status
 ACCEPTED

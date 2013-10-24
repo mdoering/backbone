@@ -1,5 +1,4 @@
-Vibrio superstes Hayashi et al., 2003 SPECIES
-=======
+# Vibrio superstes Hayashi et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo glechonis Henn. SPECIES
-=======
+# Uredo glechonis Henn. SPECIES
 
 #### Status
 ACCEPTED

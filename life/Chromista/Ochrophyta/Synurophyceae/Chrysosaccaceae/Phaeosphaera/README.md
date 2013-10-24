@@ -1,5 +1,4 @@
-Phaeosphaera W. West & G.S. West, 1903 GENUS
-=======
+# Phaeosphaera W. West & G.S. West, 1903 GENUS
 
 #### Status
 ACCEPTED

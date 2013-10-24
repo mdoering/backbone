@@ -1,5 +1,4 @@
-Inocybe fuligineoatra Huijsman, 1955 SPECIES
-=======
+# Inocybe fuligineoatra Huijsman, 1955 SPECIES
 
 #### Status
 ACCEPTED

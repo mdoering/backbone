@@ -1,5 +1,4 @@
-Sargassum cotoense Nguyen Huu Dai SPECIES
-=======
+# Sargassum cotoense Nguyen Huu Dai SPECIES
 
 #### Status
 ACCEPTED

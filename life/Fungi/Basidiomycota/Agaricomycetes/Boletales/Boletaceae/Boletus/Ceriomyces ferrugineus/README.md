@@ -1,5 +1,4 @@
-Ceriomyces ferrugineus Speg. SPECIES
-=======
+# Ceriomyces ferrugineus Speg. SPECIES
 
 #### Status
 ACCEPTED

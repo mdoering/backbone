@@ -1,5 +1,4 @@
-Lizoniella syzygii (Racib.) Sacc. & Trotter SPECIES
-=======
+# Lizoniella syzygii (Racib.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

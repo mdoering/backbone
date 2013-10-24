@@ -1,5 +1,4 @@
-Stictis dennisii Sherwood SPECIES
-=======
+# Stictis dennisii Sherwood SPECIES
 
 #### Status
 ACCEPTED

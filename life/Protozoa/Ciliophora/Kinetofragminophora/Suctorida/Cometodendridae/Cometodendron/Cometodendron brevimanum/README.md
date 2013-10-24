@@ -1,5 +1,4 @@
-Cometodendron brevimanum Swarczewsky, 1928 SPECIES
-=======
+# Cometodendron brevimanum Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

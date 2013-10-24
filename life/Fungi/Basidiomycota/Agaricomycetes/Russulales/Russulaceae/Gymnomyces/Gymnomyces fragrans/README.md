@@ -1,14 +1,13 @@
-Martellia fragrans A.H. Sm., 1963 SPECIES
-=======
+# Gymnomyces fragrans (A.H. Sm.) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 55(4): 437 (1963)
+Mycotaxon 81: 199 (2002)
 
 #### Original name
 Martellia fragrans A.H. Sm., 1963

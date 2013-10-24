@@ -1,5 +1,4 @@
-Puccinia seaveriana Arthur SPECIES
-=======
+# Puccinia seaveriana Arthur SPECIES
 
 #### Status
 ACCEPTED

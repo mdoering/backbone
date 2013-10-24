@@ -1,5 +1,4 @@
-Polytrichiella longispora M.E. Barr SPECIES
-=======
+# Polytrichiella longispora M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius pudorinus Reumaux SPECIES
-=======
+# Cortinarius pudorinus Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Michenera Berk. & M.A. Curtis GENUS
-=======
+# Michenera Berk. & M.A. Curtis GENUS
 
 #### Status
 ACCEPTED

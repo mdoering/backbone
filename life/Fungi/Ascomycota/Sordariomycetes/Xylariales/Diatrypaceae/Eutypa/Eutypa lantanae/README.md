@@ -1,5 +1,4 @@
-Eutypa lantanae M.S. Patil SPECIES
-=======
+# Eutypa lantanae M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

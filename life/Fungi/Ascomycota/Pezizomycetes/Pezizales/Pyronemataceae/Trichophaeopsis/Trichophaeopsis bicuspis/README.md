@@ -1,17 +1,16 @@
-Trichophaeopsis bicuspis subsp. bicuspis SUBSPECIES
-=======
+# Trichophaeopsis bicuspis (Boud.) Korf & Erb, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Phytologia 24(1): 18 (1972)
 
 #### Original name
-Trichophaeopsis bicuspis subsp. bicuspis
+Ciliaria bicuspis Boud., 1896
 
 ### Remarks
 null

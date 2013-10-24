@@ -1,5 +1,4 @@
-Mycoblastus duplicellus (Nyl.) Zahlbr. SPECIES
-=======
+# Mycoblastus duplicellus (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

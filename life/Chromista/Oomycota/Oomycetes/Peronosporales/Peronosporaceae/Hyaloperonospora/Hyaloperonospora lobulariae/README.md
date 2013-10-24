@@ -1,5 +1,4 @@
-Hyaloperonospora lobulariae (Ubrizsy & Vörös) Göker, Voglmayr & Oberw. SPECIES
-=======
+# Hyaloperonospora lobulariae (Ubrizsy & Vörös) Göker, Voglmayr & Oberw. SPECIES
 
 #### Status
 ACCEPTED

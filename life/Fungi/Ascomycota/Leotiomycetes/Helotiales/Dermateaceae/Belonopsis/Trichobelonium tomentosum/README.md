@@ -1,5 +1,4 @@
-Trichobelonium tomentosum Feltgen SPECIES
-=======
+# Trichobelonium tomentosum Feltgen SPECIES
 
 #### Status
 ACCEPTED

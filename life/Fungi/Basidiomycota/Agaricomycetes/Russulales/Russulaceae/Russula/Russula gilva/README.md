@@ -1,5 +1,4 @@
-Russula gilva var. gilva VARIETY
-=======
+# Russula gilva Zvára SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Russula gilva var. gilva
+Russula gilva Zvára
 
 ### Remarks
 null

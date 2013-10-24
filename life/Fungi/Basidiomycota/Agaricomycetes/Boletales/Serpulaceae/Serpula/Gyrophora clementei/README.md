@@ -1,5 +1,4 @@
-Gyrophora clementei Ach. SPECIES
-=======
+# Gyrophora clementei Ach. SPECIES
 
 #### Status
 ACCEPTED

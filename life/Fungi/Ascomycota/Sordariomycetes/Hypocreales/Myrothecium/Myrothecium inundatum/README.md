@@ -1,5 +1,4 @@
-Myrothecium inundatum Tode, 1790 SPECIES
-=======
+# Myrothecium inundatum Tode, 1790 SPECIES
 
 #### Status
 ACCEPTED

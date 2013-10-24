@@ -1,5 +1,4 @@
-Triscutum expansus SPECIES
-=======
+# Triscutum expansus SPECIES
 
 #### Status
 ACCEPTED

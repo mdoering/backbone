@@ -1,5 +1,4 @@
-Cyathicula queletii Sacc. SPECIES
-=======
+# Cyathicula queletii Sacc. SPECIES
 
 #### Status
 ACCEPTED

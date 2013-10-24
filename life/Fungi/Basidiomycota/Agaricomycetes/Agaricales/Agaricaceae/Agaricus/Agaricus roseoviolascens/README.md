@@ -1,5 +1,4 @@
-Agaricus roseoviolascens Lasch SPECIES
-=======
+# Agaricus roseoviolascens Lasch SPECIES
 
 #### Status
 ACCEPTED

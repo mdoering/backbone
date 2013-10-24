@@ -1,5 +1,4 @@
-Xyloma taxi Fr. SPECIES
-=======
+# Xyloma taxi Fr. SPECIES
 
 #### Status
 ACCEPTED

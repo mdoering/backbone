@@ -1,5 +1,4 @@
-Trichia lichenoides With. SPECIES
-=======
+# Trichia lichenoides With. SPECIES
 
 #### Status
 ACCEPTED

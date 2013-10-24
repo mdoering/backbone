@@ -1,5 +1,4 @@
-Phacus splendens Pochmann SPECIES
-=======
+# Phacus splendens Pochmann SPECIES
 
 #### Status
 ACCEPTED

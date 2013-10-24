@@ -1,5 +1,4 @@
-Glomopsis D.M. Henderson, 1961 GENUS
-=======
+# Glomopsis D.M. Henderson, 1961 GENUS
 
 #### Status
 ACCEPTED

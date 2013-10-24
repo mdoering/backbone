@@ -1,5 +1,4 @@
-Derxomyces qinlingensis F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Derxomyces qinlingensis F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

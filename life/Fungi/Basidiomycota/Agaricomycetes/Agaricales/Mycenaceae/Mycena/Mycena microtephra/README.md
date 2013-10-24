@@ -1,5 +1,4 @@
-Mycena microtephra Singer SPECIES
-=======
+# Mycena microtephra Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachysporium striiforme (Corda) Sacc. SPECIES
-=======
+# Brachysporium striiforme (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hirsutosporos austrosimulii B.S. Batson SPECIES
-=======
+# Hirsutosporos austrosimulii B.S. Batson SPECIES
 
 #### Status
 ACCEPTED

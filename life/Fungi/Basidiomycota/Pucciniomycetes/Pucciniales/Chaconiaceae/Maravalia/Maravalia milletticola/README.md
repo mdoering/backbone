@@ -1,17 +1,16 @@
-Maravalia melleticola Y. Ono & J.F. Hennen SPECIES
-=======
+# Maravalia milletticola Y. Ono & J.F. Hennen, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 24(4): 387 (1984)
 
 #### Original name
-Maravalia melleticola Y. Ono & J.F. Hennen
+Chaconia millettiae Suj. Singh, 1968
 
 ### Remarks
 null

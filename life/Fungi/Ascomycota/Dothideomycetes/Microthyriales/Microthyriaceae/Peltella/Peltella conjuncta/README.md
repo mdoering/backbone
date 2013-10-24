@@ -1,5 +1,4 @@
-Peltella conjuncta (Syd. & P. Syd.) Syd. & P. Syd. SPECIES
-=======
+# Peltella conjuncta (Syd. & P. Syd.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

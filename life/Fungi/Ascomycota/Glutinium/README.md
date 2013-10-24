@@ -1,5 +1,4 @@
-Glutinium Fr. GENUS
-=======
+# Glutinium Fr. GENUS
 
 #### Status
 ACCEPTED

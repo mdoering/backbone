@@ -1,5 +1,4 @@
-Entoloma fumosoalbum Murrill SPECIES
-=======
+# Entoloma fumosoalbum Murrill SPECIES
 
 #### Status
 ACCEPTED

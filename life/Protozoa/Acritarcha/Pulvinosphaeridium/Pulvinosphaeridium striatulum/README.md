@@ -1,5 +1,4 @@
-Pulvinosphaeridium striatulum Kiryanov, 1978 SPECIES
-=======
+# Pulvinosphaeridium striatulum Kiryanov, 1978 SPECIES
 
 #### Status
 ACCEPTED

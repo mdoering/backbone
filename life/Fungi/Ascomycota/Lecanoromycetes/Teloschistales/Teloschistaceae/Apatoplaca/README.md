@@ -1,5 +1,4 @@
-Apatoplaca Poelt & Hafellner GENUS
-=======
+# Apatoplaca Poelt & Hafellner GENUS
 
 #### Status
 ACCEPTED

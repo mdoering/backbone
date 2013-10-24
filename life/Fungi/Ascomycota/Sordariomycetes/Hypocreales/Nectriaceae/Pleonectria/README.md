@@ -1,5 +1,4 @@
-Pleonectria GENUS
-=======
+# Pleonectria GENUS
 
 #### Status
 ACCEPTED

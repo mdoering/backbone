@@ -1,5 +1,4 @@
-Ceratostoma corticola Ellis & Everh. SPECIES
-=======
+# Ceratostoma corticola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

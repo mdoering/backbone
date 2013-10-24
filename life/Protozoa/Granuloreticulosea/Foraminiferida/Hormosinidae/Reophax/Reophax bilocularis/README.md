@@ -1,5 +1,4 @@
-Reophax bilocularis Flint, 1899 SPECIES
-=======
+# Reophax bilocularis Flint, 1899 SPECIES
 
 #### Status
 ACCEPTED

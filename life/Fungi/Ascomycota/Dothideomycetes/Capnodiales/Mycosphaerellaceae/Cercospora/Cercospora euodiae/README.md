@@ -1,8 +1,7 @@
-Cercospora evodiae Syd. & P. Syd. SPECIES
-=======
+# Cercospora euodiae Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercospora evodiae Syd. & P. Syd.
+Cercospora euodiae Syd. & P. Syd.
 
 ### Remarks
 null

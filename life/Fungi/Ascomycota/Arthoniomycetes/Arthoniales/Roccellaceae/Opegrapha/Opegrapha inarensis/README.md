@@ -1,5 +1,4 @@
-Opegrapha inarensis (Vain.) H. Olivier SPECIES
-=======
+# Opegrapha inarensis (Vain.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus austrovinaceus Grgur. & T.W. May SPECIES
-=======
+# Agaricus austrovinaceus Grgur. & T.W. May SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium de-tonianum Sacc. SPECIES
-=======
+# Fusarium de-tonianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

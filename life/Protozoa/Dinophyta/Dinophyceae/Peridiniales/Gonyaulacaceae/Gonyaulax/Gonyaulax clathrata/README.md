@@ -1,5 +1,4 @@
-Gonyaulax clathrata Cookson & Eisenack SPECIES
-=======
+# Gonyaulax clathrata Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

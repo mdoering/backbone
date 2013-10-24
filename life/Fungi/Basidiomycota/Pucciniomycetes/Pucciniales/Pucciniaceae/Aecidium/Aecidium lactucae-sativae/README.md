@@ -1,5 +1,4 @@
-Aecidium lactucae-sativae Syd. & P. Syd. SPECIES
-=======
+# Aecidium lactucae-sativae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

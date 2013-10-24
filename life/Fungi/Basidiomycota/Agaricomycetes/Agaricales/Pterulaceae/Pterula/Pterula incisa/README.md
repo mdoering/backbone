@@ -1,5 +1,4 @@
-Pterula incisa Lloyd SPECIES
-=======
+# Pterula incisa Lloyd SPECIES
 
 #### Status
 ACCEPTED

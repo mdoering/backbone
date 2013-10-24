@@ -1,5 +1,4 @@
-Chromulina verrucosa SPECIES
-=======
+# Chromulina verrucosa SPECIES
 
 #### Status
 ACCEPTED

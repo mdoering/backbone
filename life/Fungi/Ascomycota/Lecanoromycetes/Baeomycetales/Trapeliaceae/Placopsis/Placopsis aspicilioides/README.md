@@ -1,5 +1,4 @@
-Placopsis aspicilioides D. J. Galloway SPECIES
-=======
+# Placopsis aspicilioides D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

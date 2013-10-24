@@ -1,5 +1,4 @@
-Bleptosporium montteae Speg. ex Steyaert, 1961 SPECIES
-=======
+# Bleptosporium montteae Speg. ex Steyaert, 1961 SPECIES
 
 #### Status
 ACCEPTED

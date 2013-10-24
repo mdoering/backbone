@@ -1,5 +1,4 @@
-Leptodothiorella berengeriana (Sacc.) Höhn. SPECIES
-=======
+# Leptodothiorella berengeriana (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

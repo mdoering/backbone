@@ -1,5 +1,4 @@
-Lachnella hystricula Ellis & Everh. SPECIES
-=======
+# Lachnella hystricula Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria cupula (Ellis) Sacc. SPECIES
-=======
+# Didymosphaeria cupula (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

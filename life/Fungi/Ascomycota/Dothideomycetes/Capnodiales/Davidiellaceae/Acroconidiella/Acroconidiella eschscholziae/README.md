@@ -1,8 +1,7 @@
-Heterosporium eschscholziae Harkn., 1884 SPECIES
-=======
+# Acroconidiella eschscholziae (Harkn.) M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

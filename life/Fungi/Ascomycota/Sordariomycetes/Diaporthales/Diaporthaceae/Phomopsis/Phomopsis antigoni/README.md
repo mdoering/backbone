@@ -1,17 +1,16 @@
-Phomopsis antigononii R.C. Rajak SPECIES
-=======
+# Phomopsis antigoni R.C. Rajak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 11(1): 76 (1981)
 
 #### Original name
-Phomopsis antigononii R.C. Rajak
+Phomopsis antigoni R.C. Rajak
 
 ### Remarks
 null

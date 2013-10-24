@@ -1,8 +1,7 @@
-Mycoderma matalensis (Castell.) Brumpt SPECIES
-=======
+# Mycoderma matalense (Castell.) Brumpt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycoderma matalensis (Castell.) Brumpt
+Oidium matalense Castell., 1920
 
 ### Remarks
 null

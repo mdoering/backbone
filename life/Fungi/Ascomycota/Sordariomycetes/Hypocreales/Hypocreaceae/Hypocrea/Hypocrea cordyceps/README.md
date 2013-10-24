@@ -1,5 +1,4 @@
-Hypocrea cordyceps Velen. SPECIES
-=======
+# Hypocrea cordyceps Velen. SPECIES
 
 #### Status
 ACCEPTED

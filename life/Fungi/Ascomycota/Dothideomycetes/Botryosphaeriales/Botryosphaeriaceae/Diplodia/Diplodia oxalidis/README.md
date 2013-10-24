@@ -1,5 +1,4 @@
-Diplodia oxalidis Tassi SPECIES
-=======
+# Diplodia oxalidis Tassi SPECIES
 
 #### Status
 ACCEPTED

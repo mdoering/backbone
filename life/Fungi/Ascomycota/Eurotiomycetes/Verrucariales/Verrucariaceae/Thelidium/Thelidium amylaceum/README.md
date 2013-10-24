@@ -1,14 +1,13 @@
-Spermatodium amylaceum (A. Massal.) Trevis. SPECIES
-=======
+# Thelidium amylaceum A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Framm. Lichenogr. 15 (1855)
 
 #### Original name
 Thelidium amylaceum A. Massal.

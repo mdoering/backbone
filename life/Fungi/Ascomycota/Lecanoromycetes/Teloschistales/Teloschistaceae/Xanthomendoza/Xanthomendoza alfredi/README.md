@@ -1,8 +1,7 @@
-Xanthoria alfredi S. Y. Kondr. & Poelt SPECIES
-=======
+# Xanthomendoza alfredi (S. Y. Kondr. & Poelt) Søchting, Kärnefelt & S. Y. Kondr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Xanthoria alfredi S. Y. Kondr. & Poelt
+null
 
 ### Remarks
 null

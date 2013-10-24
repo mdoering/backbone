@@ -1,5 +1,4 @@
-Phomopsis glabrae C.Q. Chang, Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Phomopsis glabrae C.Q. Chang, Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

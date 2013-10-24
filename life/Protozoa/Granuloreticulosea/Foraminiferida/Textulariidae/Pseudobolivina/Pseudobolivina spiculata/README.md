@@ -1,5 +1,4 @@
-Pseudobolivina spiculata SPECIES
-=======
+# Pseudobolivina spiculata SPECIES
 
 #### Status
 ACCEPTED

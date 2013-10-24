@@ -1,17 +1,16 @@
-Parmelia eximia Brusse SPECIES
-=======
+# Xanthoparmelia competita Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 27: 568 (1986)
 
 #### Original name
-null
+Xanthoparmelia competita Hale
 
 ### Remarks
 null

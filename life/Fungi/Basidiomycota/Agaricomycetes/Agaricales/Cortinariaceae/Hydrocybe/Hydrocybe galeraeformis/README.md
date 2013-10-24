@@ -1,5 +1,4 @@
-Hydrocybe galeraeformis Velen. SPECIES
-=======
+# Hydrocybe galeraeformis Velen. SPECIES
 
 #### Status
 ACCEPTED

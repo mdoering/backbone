@@ -1,5 +1,4 @@
-Gliocephalotrichum longibrachium Decock & Charue SPECIES
-=======
+# Gliocephalotrichum longibrachium Decock & Charue SPECIES
 
 #### Status
 ACCEPTED

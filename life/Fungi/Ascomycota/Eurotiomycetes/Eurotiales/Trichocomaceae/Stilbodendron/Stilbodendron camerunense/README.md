@@ -1,5 +1,4 @@
-Stilbodendron camerunense Syd. & P. Syd., 1916 SPECIES
-=======
+# Stilbodendron camerunense Syd. & P. Syd., 1916 SPECIES
 
 #### Status
 ACCEPTED

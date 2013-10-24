@@ -1,5 +1,4 @@
-Callopisma brachysporum Malme SPECIES
-=======
+# Callopisma brachysporum Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora subsulphurea Nyl. SPECIES
-=======
+# Lecanora subsulphurea Nyl. SPECIES
 
 #### Status
 ACCEPTED

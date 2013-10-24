@@ -1,5 +1,4 @@
-Pyrrhoglossum Singer GENUS
-=======
+# Pyrrhoglossum Singer GENUS
 
 #### Status
 ACCEPTED

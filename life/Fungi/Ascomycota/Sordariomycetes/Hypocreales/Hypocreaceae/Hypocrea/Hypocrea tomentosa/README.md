@@ -1,5 +1,4 @@
-Hypocrea tomentosa Berk. SPECIES
-=======
+# Hypocrea tomentosa Berk. SPECIES
 
 #### Status
 ACCEPTED

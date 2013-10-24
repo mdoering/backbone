@@ -1,5 +1,4 @@
-Chlorothecium africanum J. A. Rino SPECIES
-=======
+# Chlorothecium africanum J. A. Rino SPECIES
 
 #### Status
 ACCEPTED

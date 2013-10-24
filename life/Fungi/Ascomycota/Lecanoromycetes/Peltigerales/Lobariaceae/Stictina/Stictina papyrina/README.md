@@ -1,5 +1,4 @@
-Stictina papyrina (Nyl.) C.W. Dodge SPECIES
-=======
+# Stictina papyrina (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

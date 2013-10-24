@@ -1,5 +1,4 @@
-Arthonia berberina Zahlbr. SPECIES
-=======
+# Arthonia berberina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum dazhouense Tseng & Lu SPECIES
-=======
+# Sargassum dazhouense Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

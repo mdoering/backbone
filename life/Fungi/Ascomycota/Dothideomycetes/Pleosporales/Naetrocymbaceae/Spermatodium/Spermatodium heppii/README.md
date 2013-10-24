@@ -1,5 +1,4 @@
-Spermatodium heppii Trevis. SPECIES
-=======
+# Spermatodium heppii Trevis. SPECIES
 
 #### Status
 ACCEPTED

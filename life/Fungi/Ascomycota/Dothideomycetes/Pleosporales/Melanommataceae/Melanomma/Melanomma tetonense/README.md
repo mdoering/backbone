@@ -1,5 +1,4 @@
-Melanomma tetonense Ellis & Everh. SPECIES
-=======
+# Melanomma tetonense Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

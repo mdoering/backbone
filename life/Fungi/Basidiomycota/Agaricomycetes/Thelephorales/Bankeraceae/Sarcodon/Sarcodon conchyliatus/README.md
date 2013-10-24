@@ -1,5 +1,4 @@
-Sarcodon conchyliatus Maas Geest., 1971 SPECIES
-=======
+# Sarcodon conchyliatus Maas Geest., 1971 SPECIES
 
 #### Status
 ACCEPTED

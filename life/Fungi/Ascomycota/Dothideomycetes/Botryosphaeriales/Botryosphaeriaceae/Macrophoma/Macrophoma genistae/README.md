@@ -1,5 +1,4 @@
-Macrophoma genistae Gonz. Frag. SPECIES
-=======
+# Macrophoma genistae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Melanotaenium brachiariae var. arthraxonis Thirum. & Pavgi, 1953 VARIETY
-=======
+# Melanotaenium arthraxonis (Thirum. & Pavgi) Vánky, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 7(1-4): 101 (1953)
+Mycotaxon 62: 144 (1997)
 
 #### Original name
 Melanotaenium brachiariae var. arthraxonis Thirum. & Pavgi, 1953

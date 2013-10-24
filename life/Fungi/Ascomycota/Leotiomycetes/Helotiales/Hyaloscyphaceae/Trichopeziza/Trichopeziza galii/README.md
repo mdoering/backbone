@@ -1,5 +1,4 @@
-Trichopeziza galii Boud. SPECIES
-=======
+# Trichopeziza galii Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella magnusiana Allesch. SPECIES
-=======
+# Cercosporella magnusiana Allesch. SPECIES
 
 #### Status
 ACCEPTED

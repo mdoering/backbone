@@ -1,17 +1,16 @@
-Trichothelium epiphyllum var. epiphyllum VARIETY
-=======
+# Trichothelium epiphyllum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Engler's Bot. Jahrb. 6: 418 (1885)
+null
 
 #### Original name
-Trichothelium epiphyllum var. epiphyllum
+null
 
 ### Remarks
 null

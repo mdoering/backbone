@@ -1,5 +1,4 @@
-Batistaella coumae (Bat. & A.F. Vital) Cif. SPECIES
-=======
+# Batistaella coumae (Bat. & A.F. Vital) Cif. SPECIES
 
 #### Status
 ACCEPTED

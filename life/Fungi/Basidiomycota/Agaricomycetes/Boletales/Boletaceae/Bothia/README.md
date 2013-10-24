@@ -1,5 +1,4 @@
-Bothia Halling, T.J. Baroni & Manfr. Binder GENUS
-=======
+# Bothia Halling, T.J. Baroni & Manfr. Binder GENUS
 
 #### Status
 ACCEPTED

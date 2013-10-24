@@ -1,5 +1,4 @@
-Placodium flavocroceum SPECIES
-=======
+# Placodium flavocroceum SPECIES
 
 #### Status
 ACCEPTED

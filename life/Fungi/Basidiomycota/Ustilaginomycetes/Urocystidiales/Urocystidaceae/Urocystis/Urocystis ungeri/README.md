@@ -1,5 +1,4 @@
-Urocystis ungeri Zundel SPECIES
-=======
+# Urocystis ungeri Zundel SPECIES
 
 #### Status
 ACCEPTED

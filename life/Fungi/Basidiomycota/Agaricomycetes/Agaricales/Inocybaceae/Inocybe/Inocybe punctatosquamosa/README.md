@@ -1,5 +1,4 @@
-Inocybe punctatosquamosa (E. Horak) Garrido SPECIES
-=======
+# Inocybe punctatosquamosa (E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

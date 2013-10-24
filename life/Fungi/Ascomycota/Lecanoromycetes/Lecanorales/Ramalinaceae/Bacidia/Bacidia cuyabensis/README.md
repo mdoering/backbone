@@ -1,5 +1,4 @@
-Bacidia cuyabensis Malme SPECIES
-=======
+# Bacidia cuyabensis Malme SPECIES
 
 #### Status
 ACCEPTED

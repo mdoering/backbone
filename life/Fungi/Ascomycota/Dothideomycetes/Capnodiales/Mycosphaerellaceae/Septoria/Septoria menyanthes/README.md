@@ -1,5 +1,4 @@
-Septoria menyanthes Desm. SPECIES
-=======
+# Septoria menyanthes Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glabratella charlottensis SPECIES
-=======
+# Glabratella charlottensis SPECIES
 
 #### Status
 ACCEPTED

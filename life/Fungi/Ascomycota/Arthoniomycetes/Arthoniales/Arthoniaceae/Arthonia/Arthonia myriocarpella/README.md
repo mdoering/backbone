@@ -1,5 +1,4 @@
-Arthonia myriocarpella Nyl. SPECIES
-=======
+# Arthonia myriocarpella Nyl. SPECIES
 
 #### Status
 ACCEPTED

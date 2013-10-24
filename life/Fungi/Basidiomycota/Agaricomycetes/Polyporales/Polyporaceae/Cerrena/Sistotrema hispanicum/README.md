@@ -1,5 +1,4 @@
-Sistotrema hispanicum M. Dueñas, Ryvarden & Tellería, 1988 SPECIES
-=======
+# Sistotrema hispanicum M. Dueñas, Ryvarden & Tellería, 1988 SPECIES
 
 #### Status
 DOUBTFUL

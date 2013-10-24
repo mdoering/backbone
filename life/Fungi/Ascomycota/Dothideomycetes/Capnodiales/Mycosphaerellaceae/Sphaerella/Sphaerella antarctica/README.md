@@ -1,5 +1,4 @@
-Sphaerella antarctica Speg. SPECIES
-=======
+# Sphaerella antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

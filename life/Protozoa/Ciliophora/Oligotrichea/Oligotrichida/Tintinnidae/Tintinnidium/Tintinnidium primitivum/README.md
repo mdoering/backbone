@@ -1,5 +1,4 @@
-Tintinnidium primitivum Busch, 1923 SPECIES
-=======
+# Tintinnidium primitivum Busch, 1923 SPECIES
 
 #### Status
 ACCEPTED

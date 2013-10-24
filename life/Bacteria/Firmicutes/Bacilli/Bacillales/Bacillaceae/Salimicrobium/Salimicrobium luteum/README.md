@@ -1,5 +1,4 @@
-Salimicrobium luteum Yoon, Kang & Oh, 2007 SPECIES
-=======
+# Salimicrobium luteum Yoon, Kang & Oh, 2007 SPECIES
 
 #### Status
 ACCEPTED

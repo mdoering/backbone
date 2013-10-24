@@ -1,5 +1,4 @@
-Cenangium singulare (Rehm) R.W. Davidson & Cash SPECIES
-=======
+# Cenangium singulare (Rehm) R.W. Davidson & Cash SPECIES
 
 #### Status
 ACCEPTED

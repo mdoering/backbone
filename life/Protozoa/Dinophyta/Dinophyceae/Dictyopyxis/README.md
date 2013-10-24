@@ -1,5 +1,4 @@
-Dictyopyxis GENUS
-=======
+# Dictyopyxis GENUS
 
 #### Status
 ACCEPTED

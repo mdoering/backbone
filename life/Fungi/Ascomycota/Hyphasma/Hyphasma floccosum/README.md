@@ -1,5 +1,4 @@
-Hyphasma floccosum Rebent. SPECIES
-=======
+# Hyphasma floccosum Rebent. SPECIES
 
 #### Status
 ACCEPTED

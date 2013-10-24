@@ -1,5 +1,4 @@
-Inocybe hygrophana Glowinski & Stangl SPECIES
-=======
+# Inocybe hygrophana Glowinski & Stangl SPECIES
 
 #### Status
 ACCEPTED

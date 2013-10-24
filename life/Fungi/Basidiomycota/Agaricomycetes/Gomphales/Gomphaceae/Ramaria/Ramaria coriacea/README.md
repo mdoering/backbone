@@ -1,5 +1,4 @@
-Ramaria coriacea (Bull.) Gray SPECIES
-=======
+# Ramaria coriacea (Bull.) Gray SPECIES
 
 #### Status
 ACCEPTED

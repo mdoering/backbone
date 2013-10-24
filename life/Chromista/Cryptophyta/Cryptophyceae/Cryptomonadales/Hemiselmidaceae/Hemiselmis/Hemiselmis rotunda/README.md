@@ -1,5 +1,4 @@
-Hemiselmis rotunda Butcher, 1967 SPECIES
-=======
+# Hemiselmis rotunda Butcher, 1967 SPECIES
 
 #### Status
 ACCEPTED

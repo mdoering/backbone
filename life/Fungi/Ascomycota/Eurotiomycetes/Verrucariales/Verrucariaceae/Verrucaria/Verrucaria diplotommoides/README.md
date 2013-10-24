@@ -1,5 +1,4 @@
-Verrucaria diplotommoides Servít SPECIES
-=======
+# Verrucaria diplotommoides Servít SPECIES
 
 #### Status
 ACCEPTED

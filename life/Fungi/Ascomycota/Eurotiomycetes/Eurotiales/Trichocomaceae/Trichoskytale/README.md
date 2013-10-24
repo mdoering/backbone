@@ -1,5 +1,4 @@
-Trichoskytale GENUS
-=======
+# Trichoskytale GENUS
 
 #### Status
 ACCEPTED

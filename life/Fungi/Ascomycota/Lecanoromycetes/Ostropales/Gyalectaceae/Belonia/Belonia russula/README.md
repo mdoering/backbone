@@ -1,17 +1,16 @@
-Beloniella cinerea Norman SPECIES
-=======
+# Belonia russula Körb. ex Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) no. 79 (1855)
 
 #### Original name
-null
+Belonia russula Körb. ex Nyl.
 
 ### Remarks
 null

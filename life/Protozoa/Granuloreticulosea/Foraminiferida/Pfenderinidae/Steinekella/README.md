@@ -1,5 +1,4 @@
-Steinekella Redmond, 1964 GENUS
-=======
+# Steinekella Redmond, 1964 GENUS
 
 #### Status
 ACCEPTED

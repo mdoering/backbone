@@ -1,5 +1,4 @@
-Microthyrium albigenum Berk. & M.A. Curtis SPECIES
-=======
+# Microthyrium albigenum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

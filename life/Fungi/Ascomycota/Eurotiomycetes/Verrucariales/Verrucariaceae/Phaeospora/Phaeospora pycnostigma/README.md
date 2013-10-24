@@ -1,5 +1,4 @@
-Phaeospora pycnostigma (Nyl.) Arnold SPECIES
-=======
+# Phaeospora pycnostigma (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

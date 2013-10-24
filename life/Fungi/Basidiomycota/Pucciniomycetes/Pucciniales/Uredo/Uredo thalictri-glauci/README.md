@@ -1,5 +1,4 @@
-Uredo thalictri-glauci Gonz. Frag. SPECIES
-=======
+# Uredo thalictri-glauci Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

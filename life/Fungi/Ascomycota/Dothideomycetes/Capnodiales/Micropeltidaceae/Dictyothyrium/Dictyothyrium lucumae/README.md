@@ -1,5 +1,4 @@
-Dictyothyrium lucumae Bat. & I.H. Lima SPECIES
-=======
+# Dictyothyrium lucumae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

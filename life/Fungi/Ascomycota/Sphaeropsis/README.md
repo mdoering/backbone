@@ -1,5 +1,4 @@
-Sphaeropsis Léveillé, 1842 GENUS
-=======
+# Sphaeropsis Léveillé, 1842 GENUS
 
 #### Status
 ACCEPTED

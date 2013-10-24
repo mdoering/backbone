@@ -1,5 +1,4 @@
-Dictyocha stauracanthus Ehrenberg SPECIES
-=======
+# Dictyocha stauracanthus Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

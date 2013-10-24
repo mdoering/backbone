@@ -1,5 +1,4 @@
-Inocybe misakaensis Matheny & Watling SPECIES
-=======
+# Inocybe misakaensis Matheny & Watling SPECIES
 
 #### Status
 ACCEPTED

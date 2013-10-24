@@ -1,5 +1,4 @@
-Aphanocapsa nivalis Lagerheim SPECIES
-=======
+# Aphanocapsa nivalis Lagerheim SPECIES
 
 #### Status
 ACCEPTED

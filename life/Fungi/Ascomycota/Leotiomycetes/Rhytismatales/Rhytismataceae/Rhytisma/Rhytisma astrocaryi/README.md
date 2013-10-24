@@ -1,5 +1,4 @@
-Rhytisma astrocaryi Mont. SPECIES
-=======
+# Rhytisma astrocaryi Mont. SPECIES
 
 #### Status
 ACCEPTED

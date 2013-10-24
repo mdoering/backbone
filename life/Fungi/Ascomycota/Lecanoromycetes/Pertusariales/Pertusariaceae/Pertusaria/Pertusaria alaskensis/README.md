@@ -1,5 +1,4 @@
-Pertusaria alaskensis Erichsen SPECIES
-=======
+# Pertusaria alaskensis Erichsen SPECIES
 
 #### Status
 ACCEPTED

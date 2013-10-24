@@ -1,5 +1,4 @@
-Amanita austropulchella f. austropulchella FORM
-=======
+# Amanita austropulchella D.A. Reid SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Victorian Nat. 95(2): 47 (1978)
 
 #### Original name
-Amanita austropulchella f. austropulchella
+Amanita austropulchella D.A. Reid
 
 ### Remarks
 null

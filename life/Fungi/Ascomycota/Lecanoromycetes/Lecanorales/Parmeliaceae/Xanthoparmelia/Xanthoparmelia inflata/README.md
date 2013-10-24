@@ -1,5 +1,4 @@
-Xanthoparmelia inflata Hale SPECIES
-=======
+# Xanthoparmelia inflata Hale SPECIES
 
 #### Status
 ACCEPTED

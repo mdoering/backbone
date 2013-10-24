@@ -1,5 +1,4 @@
-Uredo mimosae-invisae Viégas SPECIES
-=======
+# Uredo mimosae-invisae Viégas SPECIES
 
 #### Status
 ACCEPTED

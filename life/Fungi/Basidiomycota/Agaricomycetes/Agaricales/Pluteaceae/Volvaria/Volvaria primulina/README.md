@@ -1,14 +1,13 @@
-Agaricus primulinus Cooke & Massee, 1890 SPECIES
-=======
+# Volvaria primulina (Cooke & Massee) Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cooke, Grevillea 19(no. 89): 1 (1890)
+Syll. fung. (Abellini) 9: 82 (1891)
 
 #### Original name
 Agaricus primulinus Cooke & Massee, 1890

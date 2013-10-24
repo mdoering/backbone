@@ -1,14 +1,13 @@
-Myriangiella molleriana (Sacc.) Toro SPECIES
-=======
+# Myriangiella moelleriana (Sacc.) Toro SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 19(2): 71 (1927)
 
 #### Original name
 Micropeltis moelleriana Sacc.

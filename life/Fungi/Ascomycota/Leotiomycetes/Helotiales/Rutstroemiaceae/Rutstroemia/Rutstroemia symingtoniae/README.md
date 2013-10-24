@@ -1,5 +1,4 @@
-Rutstroemia symingtoniae K.S. Thind & H. Singh SPECIES
-=======
+# Rutstroemia symingtoniae K.S. Thind & H. Singh SPECIES
 
 #### Status
 ACCEPTED

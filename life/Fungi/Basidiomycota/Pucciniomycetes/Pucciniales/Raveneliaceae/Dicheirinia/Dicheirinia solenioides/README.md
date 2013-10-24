@@ -1,17 +1,16 @@
-Uredo solenoides Henn. SPECIES
-=======
+# Dicheirinia solenioides (Henn.) Cummins, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 67: 70 (1940)
 
 #### Original name
-Uredo solenoides Henn.
+Uredo solenioides Henn., 1896
 
 ### Remarks
 null

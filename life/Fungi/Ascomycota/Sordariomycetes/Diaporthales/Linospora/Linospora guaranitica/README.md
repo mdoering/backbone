@@ -1,5 +1,4 @@
-Linospora guaranitica Speg. SPECIES
-=======
+# Linospora guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

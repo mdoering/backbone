@@ -1,5 +1,4 @@
-Rhabdospora oleandri Durieu & Mont., 1849 SPECIES
-=======
+# Rhabdospora oleandri Durieu & Mont., 1849 SPECIES
 
 #### Status
 ACCEPTED

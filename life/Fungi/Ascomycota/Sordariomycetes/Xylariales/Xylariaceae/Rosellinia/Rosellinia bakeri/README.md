@@ -1,5 +1,4 @@
-Rosellinia bakeri Ellis SPECIES
-=======
+# Rosellinia bakeri Ellis SPECIES
 
 #### Status
 ACCEPTED

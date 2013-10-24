@@ -1,5 +1,4 @@
-Genistella choanifera Tuzet & Manier SPECIES
-=======
+# Genistella choanifera Tuzet & Manier SPECIES
 
 #### Status
 ACCEPTED

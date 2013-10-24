@@ -1,5 +1,4 @@
-Macrophoma senecionis J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Macrophoma senecionis J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

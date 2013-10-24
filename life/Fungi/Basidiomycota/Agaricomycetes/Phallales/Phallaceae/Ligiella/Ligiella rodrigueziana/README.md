@@ -1,5 +1,4 @@
-Ligiella rodrigueziana J.A. Sáenz, 1980 SPECIES
-=======
+# Ligiella rodrigueziana J.A. Sáenz, 1980 SPECIES
 
 #### Status
 ACCEPTED

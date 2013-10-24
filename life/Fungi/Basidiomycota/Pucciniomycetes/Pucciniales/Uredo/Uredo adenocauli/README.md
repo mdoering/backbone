@@ -1,14 +1,13 @@
-Uredo adenocaulonis (H.S. Jacks.) Cummins SPECIES
-=======
+# Uredo adenocauli (H.S. Jacks.) Cummins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 48(4): 607 (1956)
 
 #### Original name
 Coleosporium adenocauli H.S. Jacks.

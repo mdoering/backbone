@@ -1,5 +1,4 @@
-Trachyxylaria GENUS
-=======
+# Trachyxylaria GENUS
 
 #### Status
 ACCEPTED

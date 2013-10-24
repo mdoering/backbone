@@ -1,5 +1,4 @@
-Microthelia lycii (Sacc.) Kuntze SPECIES
-=======
+# Microthelia lycii (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

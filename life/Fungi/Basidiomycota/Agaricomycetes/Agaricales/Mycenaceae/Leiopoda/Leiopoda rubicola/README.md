@@ -1,5 +1,4 @@
-Leiopoda rubicola Velen. SPECIES
-=======
+# Leiopoda rubicola Velen. SPECIES
 
 #### Status
 ACCEPTED

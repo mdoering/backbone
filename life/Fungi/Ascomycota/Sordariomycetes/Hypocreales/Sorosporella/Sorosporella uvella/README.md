@@ -1,8 +1,7 @@
-Tarichium uvella Krass., 1904 SPECIES
-=======
+# Sorosporella uvella (Krass.) Giard SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

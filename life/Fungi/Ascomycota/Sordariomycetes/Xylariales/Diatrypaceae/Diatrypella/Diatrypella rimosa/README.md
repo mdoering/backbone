@@ -1,5 +1,4 @@
-Diatrypella rimosa Shear SPECIES
-=======
+# Diatrypella rimosa Shear SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina domerguei subsp. domerguei Wallengren, 1897 SUBSPECIES
-=======
+# Trichodina domerguei Wallengren, 1897 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea caerulea Kremp. SPECIES
-=======
+# Lecidea caerulea Kremp. SPECIES
 
 #### Status
 ACCEPTED

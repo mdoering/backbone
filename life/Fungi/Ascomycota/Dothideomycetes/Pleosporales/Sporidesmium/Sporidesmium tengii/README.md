@@ -1,5 +1,4 @@
-Sporidesmium tengii W.P. Wu SPECIES
-=======
+# Sporidesmium tengii W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

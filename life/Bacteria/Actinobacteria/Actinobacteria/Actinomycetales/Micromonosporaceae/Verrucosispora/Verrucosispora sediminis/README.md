@@ -1,5 +1,4 @@
-Verrucosispora sediminis Dai, Wang, Xin, Pei, Tang, Ren, Ward, Ruan, Li & Zhang, 2010 SPECIES
-=======
+# Verrucosispora sediminis Dai, Wang, Xin, Pei, Tang, Ren, Ward, Ruan, Li & Zhang, 2010 SPECIES
 
 #### Status
 ACCEPTED

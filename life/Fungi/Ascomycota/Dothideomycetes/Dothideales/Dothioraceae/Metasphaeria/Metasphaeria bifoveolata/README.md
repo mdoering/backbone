@@ -1,5 +1,4 @@
-Metasphaeria bifoveolata Speg. SPECIES
-=======
+# Metasphaeria bifoveolata Speg. SPECIES
 
 #### Status
 ACCEPTED

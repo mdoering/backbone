@@ -1,5 +1,4 @@
-Dacrymyces gallaica Losa SPECIES
-=======
+# Dacrymyces gallaica Losa SPECIES
 
 #### Status
 ACCEPTED

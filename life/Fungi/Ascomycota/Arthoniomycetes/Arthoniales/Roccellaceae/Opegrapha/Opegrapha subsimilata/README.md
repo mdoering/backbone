@@ -1,5 +1,4 @@
-Opegrapha subsimilata Nyl. SPECIES
-=======
+# Opegrapha subsimilata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exiguisphaera S. Duxbury, 1979 GENUS
-=======
+# Exiguisphaera S. Duxbury, 1979 GENUS
 
 #### Status
 ACCEPTED

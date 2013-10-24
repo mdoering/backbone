@@ -1,5 +1,4 @@
-Polyporus regius Miq. SPECIES
-=======
+# Polyporus regius Miq. SPECIES
 
 #### Status
 ACCEPTED

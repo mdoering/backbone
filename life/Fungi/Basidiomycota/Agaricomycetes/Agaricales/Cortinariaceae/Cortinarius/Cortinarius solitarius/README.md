@@ -1,5 +1,4 @@
-Cortinarius solitarius Rob. Henry SPECIES
-=======
+# Cortinarius solitarius Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

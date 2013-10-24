@@ -1,17 +1,16 @@
-Candida amphixiae S.O. Suh, N.H. Nguyen & M. Blackw. SPECIES
-=======
+# Candida amphicis S.O. Suh, N.H. Nguyen & M. Blackw., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 109(9): 1049 (2005)
 
 #### Original name
-Candida amphixiae S.O. Suh, N.H. Nguyen & M. Blackw.
+Candida amphicis S.O. Suh, N.H. Nguyen & M. Blackw., 2005
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phaeotrema glyphidellum (Stirt.) Zahlbr. SPECIES
-=======
+# Phaeotrema glyphidellum (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

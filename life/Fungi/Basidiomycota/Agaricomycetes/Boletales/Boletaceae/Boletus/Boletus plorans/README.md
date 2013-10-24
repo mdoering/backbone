@@ -1,17 +1,16 @@
-Boletus plorans var. plorans VARIETY
-=======
+# Boletus plorans SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Boletus plorans var. plorans
+null
 
 ### Remarks
 null

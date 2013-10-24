@@ -1,5 +1,4 @@
-Lagena clavata SPECIES
-=======
+# Lagena clavata SPECIES
 
 #### Status
 ACCEPTED

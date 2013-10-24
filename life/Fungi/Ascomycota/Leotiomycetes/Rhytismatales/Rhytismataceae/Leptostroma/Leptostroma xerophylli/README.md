@@ -1,5 +1,4 @@
-Leptostroma xerophylli Petr. SPECIES
-=======
+# Leptostroma xerophylli Petr. SPECIES
 
 #### Status
 ACCEPTED

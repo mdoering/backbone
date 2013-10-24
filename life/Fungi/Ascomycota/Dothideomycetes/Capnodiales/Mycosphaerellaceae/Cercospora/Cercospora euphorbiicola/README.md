@@ -1,5 +1,4 @@
-Cercospora euphorbiicola G.F. Atk. SPECIES
-=======
+# Cercospora euphorbiicola G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

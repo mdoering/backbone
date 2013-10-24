@@ -1,5 +1,4 @@
-Cladosporium punctatum Sacc. SPECIES
-=======
+# Cladosporium punctatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

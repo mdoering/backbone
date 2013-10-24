@@ -1,5 +1,4 @@
-Asterina henianii R.C. Verma, M.S. Tripathi & R.K. Chaudhary SPECIES
-=======
+# Asterina henianii R.C. Verma, M.S. Tripathi & R.K. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

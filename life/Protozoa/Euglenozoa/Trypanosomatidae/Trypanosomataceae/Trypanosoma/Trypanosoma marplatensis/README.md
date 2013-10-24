@@ -1,5 +1,4 @@
-Trypanosoma marplatensis Bacigalupo & de la Plaza, 1948 SPECIES
-=======
+# Trypanosoma marplatensis Bacigalupo & de la Plaza, 1948 SPECIES
 
 #### Status
 ACCEPTED

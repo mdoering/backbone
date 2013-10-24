@@ -1,17 +1,16 @@
-Peniophora sororia G. Cunn., 1955 SPECIES
-=======
+# Subulicystidium nikau (G. Cunn.) Jülich, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 83: 280 (1955)
+Ber. dt. bot. Ges. 81(9): 419 (1969)
 
 #### Original name
-Peniophora sororia G. Cunn., 1955
+Peniophora nikau G. Cunn., 1963
 
 ### Remarks
 null

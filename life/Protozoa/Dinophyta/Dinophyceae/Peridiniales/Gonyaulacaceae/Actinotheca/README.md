@@ -1,5 +1,4 @@
-Actinotheca I.C. Cookson & A. Eisenack, 1960 GENUS
-=======
+# Actinotheca I.C. Cookson & A. Eisenack, 1960 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema subhumosum Nyl. SPECIES
-=======
+# Collema subhumosum Nyl. SPECIES
 
 #### Status
 ACCEPTED

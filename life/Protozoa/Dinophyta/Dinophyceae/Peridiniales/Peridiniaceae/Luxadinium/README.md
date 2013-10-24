@@ -1,5 +1,4 @@
-Luxadinium W.W. Brideaux & D.J. McIntyre, 1975 GENUS
-=======
+# Luxadinium W.W. Brideaux & D.J. McIntyre, 1975 GENUS
 
 #### Status
 ACCEPTED

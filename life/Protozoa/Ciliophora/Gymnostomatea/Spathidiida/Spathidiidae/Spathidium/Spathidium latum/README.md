@@ -1,5 +1,4 @@
-Spathidium latum Kahl, 1926 SPECIES
-=======
+# Spathidium latum Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbilicaria josiae Frey SPECIES
-=======
+# Umbilicaria josiae Frey SPECIES
 
 #### Status
 ACCEPTED

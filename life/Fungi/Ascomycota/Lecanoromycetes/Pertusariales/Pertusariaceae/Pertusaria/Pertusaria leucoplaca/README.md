@@ -1,5 +1,4 @@
-Pertusaria leucoplaca Müll. Arg. SPECIES
-=======
+# Pertusaria leucoplaca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

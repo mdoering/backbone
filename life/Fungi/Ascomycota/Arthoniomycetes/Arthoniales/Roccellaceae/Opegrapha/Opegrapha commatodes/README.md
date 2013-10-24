@@ -1,5 +1,4 @@
-Opegrapha commatodes Nyl. SPECIES
-=======
+# Opegrapha commatodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

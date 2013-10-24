@@ -1,5 +1,4 @@
-Xerocomus bambusicola M. Zang SPECIES
-=======
+# Xerocomus bambusicola M. Zang SPECIES
 
 #### Status
 ACCEPTED

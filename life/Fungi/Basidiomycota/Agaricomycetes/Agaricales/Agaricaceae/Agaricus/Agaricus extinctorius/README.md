@@ -1,5 +1,4 @@
-Agaricus extinctorius Bull. SPECIES
-=======
+# Agaricus extinctorius Bull. SPECIES
 
 #### Status
 ACCEPTED

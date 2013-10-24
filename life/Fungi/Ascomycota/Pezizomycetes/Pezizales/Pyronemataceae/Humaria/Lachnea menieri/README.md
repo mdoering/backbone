@@ -1,5 +1,4 @@
-Lachnea menieri Boud. SPECIES
-=======
+# Lachnea menieri Boud. SPECIES
 
 #### Status
 ACCEPTED

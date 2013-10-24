@@ -1,5 +1,4 @@
-Foveodiporites foedus (Norris) Kalgutkar & Janson. SPECIES
-=======
+# Foveodiporites foedus (Norris) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

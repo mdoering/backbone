@@ -1,5 +1,4 @@
-Aulographum canepae De Not. SPECIES
-=======
+# Aulographum canepae De Not. SPECIES
 
 #### Status
 ACCEPTED

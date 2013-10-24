@@ -1,5 +1,4 @@
-Bispora muehlenbeekiae SPECIES
-=======
+# Bispora muehlenbeekiae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microglaena lactea (A. Massal.) Lönnr. SPECIES
-=======
+# Microglaena lactea (A. Massal.) Lönnr. SPECIES
 
 #### Status
 ACCEPTED

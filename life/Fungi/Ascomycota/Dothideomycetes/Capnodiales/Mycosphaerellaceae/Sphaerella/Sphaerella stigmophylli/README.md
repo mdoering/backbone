@@ -1,5 +1,4 @@
-Sphaerella stigmophylli (Rangel) Sacc. SPECIES
-=======
+# Sphaerella stigmophylli (Rangel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleomassaria andina Speg. SPECIES
-=======
+# Pleomassaria andina Speg. SPECIES
 
 #### Status
 ACCEPTED

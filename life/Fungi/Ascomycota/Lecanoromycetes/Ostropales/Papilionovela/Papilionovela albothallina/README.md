@@ -1,5 +1,4 @@
-Papilionovela albothallina Aptroot SPECIES
-=======
+# Papilionovela albothallina Aptroot SPECIES
 
 #### Status
 ACCEPTED

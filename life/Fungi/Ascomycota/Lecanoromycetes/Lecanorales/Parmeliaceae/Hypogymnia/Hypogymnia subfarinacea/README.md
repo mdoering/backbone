@@ -1,5 +1,4 @@
-Hypogymnia subfarinacea X.L. Wei & J.C. Wei SPECIES
-=======
+# Hypogymnia subfarinacea X.L. Wei & J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

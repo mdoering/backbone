@@ -1,5 +1,4 @@
-Gloeosporium curculiginis Gutner SPECIES
-=======
+# Gloeosporium curculiginis Gutner SPECIES
 
 #### Status
 ACCEPTED

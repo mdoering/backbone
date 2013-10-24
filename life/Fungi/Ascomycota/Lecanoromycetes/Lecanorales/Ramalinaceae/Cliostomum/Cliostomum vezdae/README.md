@@ -1,5 +1,4 @@
-Cliostomum vezdae Kantvilas & Elix SPECIES
-=======
+# Cliostomum vezdae Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

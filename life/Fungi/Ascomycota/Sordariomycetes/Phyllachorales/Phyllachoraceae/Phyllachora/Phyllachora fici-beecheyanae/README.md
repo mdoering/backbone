@@ -1,5 +1,4 @@
-Phyllachora fici-beecheyanae Sawada SPECIES
-=======
+# Phyllachora fici-beecheyanae Sawada SPECIES
 
 #### Status
 ACCEPTED

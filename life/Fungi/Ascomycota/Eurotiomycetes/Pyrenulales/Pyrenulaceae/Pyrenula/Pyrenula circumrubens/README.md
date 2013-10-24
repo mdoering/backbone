@@ -1,5 +1,4 @@
-Pyrenula circumrubens SPECIES
-=======
+# Pyrenula circumrubens SPECIES
 
 #### Status
 ACCEPTED

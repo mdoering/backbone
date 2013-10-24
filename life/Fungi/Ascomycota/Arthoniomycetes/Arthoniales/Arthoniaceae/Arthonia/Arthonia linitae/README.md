@@ -1,5 +1,4 @@
-Arthonia linitae R. Sant. SPECIES
-=======
+# Arthonia linitae R. Sant. SPECIES
 
 #### Status
 ACCEPTED

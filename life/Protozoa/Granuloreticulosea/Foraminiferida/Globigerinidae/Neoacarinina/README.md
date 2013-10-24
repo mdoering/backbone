@@ -1,5 +1,4 @@
-Neoacarinina Thompson, 1973 GENUS
-=======
+# Neoacarinina Thompson, 1973 GENUS
 
 #### Status
 ACCEPTED

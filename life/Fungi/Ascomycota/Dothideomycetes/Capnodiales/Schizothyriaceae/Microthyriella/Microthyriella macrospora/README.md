@@ -1,5 +1,4 @@
-Microthyriella macrospora Höhn. SPECIES
-=======
+# Microthyriella macrospora Höhn. SPECIES
 
 #### Status
 ACCEPTED

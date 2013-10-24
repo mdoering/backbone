@@ -1,5 +1,4 @@
-Dothidea hypophyla Schwein. SPECIES
-=======
+# Dothidea hypophyla Schwein. SPECIES
 
 #### Status
 ACCEPTED

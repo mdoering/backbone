@@ -1,5 +1,4 @@
-Sordaria lugubris Ces. & De Not. SPECIES
-=======
+# Sordaria lugubris Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

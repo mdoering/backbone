@@ -1,5 +1,4 @@
-Batiacasphaera granulosa (I. C. Cookson & A. Eisenack) J. Jansonius SPECIES
-=======
+# Batiacasphaera granulosa (I. C. Cookson & A. Eisenack) J. Jansonius SPECIES
 
 #### Status
 ACCEPTED

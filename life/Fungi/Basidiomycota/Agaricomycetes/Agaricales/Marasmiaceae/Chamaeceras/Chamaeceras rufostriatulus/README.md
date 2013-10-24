@@ -1,5 +1,4 @@
-Chamaeceras rufostriatulus (Mont.) Kuntze SPECIES
-=======
+# Chamaeceras rufostriatulus (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

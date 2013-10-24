@@ -1,5 +1,4 @@
-Nakatopsis malaysiana Whitton, McKenzie & K.D. Hyde, 2001 SPECIES
-=======
+# Nakatopsis malaysiana Whitton, McKenzie & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta amorphae Kabát & Bubák SPECIES
-=======
+# Phyllosticta amorphae Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

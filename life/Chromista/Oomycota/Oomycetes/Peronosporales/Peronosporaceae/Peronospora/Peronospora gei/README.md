@@ -1,5 +1,4 @@
-Peronospora gei Syd., 1923 SPECIES
-=======
+# Peronospora gei Syd., 1923 SPECIES
 
 #### Status
 ACCEPTED

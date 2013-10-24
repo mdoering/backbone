@@ -1,5 +1,4 @@
-Psathyrella insignis A.H. Sm. SPECIES
-=======
+# Psathyrella insignis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

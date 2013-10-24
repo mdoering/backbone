@@ -1,5 +1,4 @@
-Camptomyces brunneomarginatus Thaxt., 1926 SPECIES
-=======
+# Camptomyces brunneomarginatus Thaxt., 1926 SPECIES
 
 #### Status
 ACCEPTED

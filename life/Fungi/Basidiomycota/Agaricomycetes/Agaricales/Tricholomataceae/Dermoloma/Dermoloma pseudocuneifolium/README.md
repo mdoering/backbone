@@ -1,17 +1,16 @@
-Dermoloma pseudocuneifolium var. pseudocuneifolium Herink ex Bon VARIETY
-=======
+# Dermoloma pseudocuneifolium Herink, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Docums Mycol. 17(no. 65): 52 (1958)
 
 #### Original name
-Dermoloma pseudocuneifolium var. pseudocuneifolium Herink ex Bon
+Dermoloma pseudocuneifolium Herink, 1958
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycoblastus saxicola M. Satô SPECIES
-=======
+# Mycoblastus saxicola M. Satô SPECIES
 
 #### Status
 ACCEPTED

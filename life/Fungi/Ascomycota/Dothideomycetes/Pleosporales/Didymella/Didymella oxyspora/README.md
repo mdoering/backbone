@@ -1,5 +1,4 @@
-Didymella oxyspora (Davis) Shoemaker & C.E. Babc. SPECIES
-=======
+# Didymella oxyspora (Davis) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

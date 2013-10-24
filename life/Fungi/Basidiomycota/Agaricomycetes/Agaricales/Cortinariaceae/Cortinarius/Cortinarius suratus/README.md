@@ -1,5 +1,4 @@
-Cortinarius suratus Fr. SPECIES
-=======
+# Cortinarius suratus Fr. SPECIES
 
 #### Status
 ACCEPTED

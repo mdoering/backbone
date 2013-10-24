@@ -1,8 +1,7 @@
-Nautilus craticulatus Fichtel & Moll, 1798 SPECIES
-=======
+# Elphidium craticulatum (Fichtel & Moll, 1798) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

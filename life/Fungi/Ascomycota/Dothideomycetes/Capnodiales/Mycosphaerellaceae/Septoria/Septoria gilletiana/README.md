@@ -1,5 +1,4 @@
-Septoria gilletiana Sacc. SPECIES
-=======
+# Septoria gilletiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

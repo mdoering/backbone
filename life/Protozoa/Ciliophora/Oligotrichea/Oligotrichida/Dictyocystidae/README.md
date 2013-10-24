@@ -1,5 +1,4 @@
-Dictyocystidae Haeckel, 1873 FAMILY
-=======
+# Dictyocystidae Haeckel, 1873 FAMILY
 
 #### Status
 ACCEPTED

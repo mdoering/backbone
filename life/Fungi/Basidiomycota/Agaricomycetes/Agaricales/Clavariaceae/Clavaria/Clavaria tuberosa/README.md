@@ -1,5 +1,4 @@
-Clavaria tuberosa Sowerby SPECIES
-=======
+# Clavaria tuberosa Sowerby SPECIES
 
 #### Status
 ACCEPTED

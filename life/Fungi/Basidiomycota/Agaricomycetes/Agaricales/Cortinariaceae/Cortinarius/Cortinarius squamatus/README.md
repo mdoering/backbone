@@ -1,5 +1,4 @@
-Cortinarius squamatus (Halling) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius squamatus (Halling) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

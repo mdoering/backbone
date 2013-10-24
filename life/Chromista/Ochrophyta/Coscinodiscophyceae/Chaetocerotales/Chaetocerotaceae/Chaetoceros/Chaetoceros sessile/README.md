@@ -1,5 +1,4 @@
-Chaetoceros sessile Grøntved SPECIES
-=======
+# Chaetoceros sessile Grøntved SPECIES
 
 #### Status
 ACCEPTED

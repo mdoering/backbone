@@ -1,5 +1,4 @@
-Apiospora rosae Oudem. SPECIES
-=======
+# Apiospora rosae Oudem. SPECIES
 
 #### Status
 ACCEPTED

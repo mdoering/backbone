@@ -1,14 +1,13 @@
-Physarum virescens var. lateritium (Berk. & Ravenel) Berl. VARIETY
-=======
+# Physarum lateritium (Berk. & Ravenel) Morgan, 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berlese, De Toni & Fischer, Syll. fung. (Abellini) 7: 342 (1888)
+J. Cincinnati Soc. Nat. Hist. 19: 23 (1896)
 
 #### Original name
 Didymium lateritium Berk. & Ravenel, 1873

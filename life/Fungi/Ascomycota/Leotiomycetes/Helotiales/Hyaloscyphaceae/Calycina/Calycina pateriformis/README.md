@@ -1,5 +1,4 @@
-Calycina pateriformis (Berk.) Kuntze SPECIES
-=======
+# Calycina pateriformis (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

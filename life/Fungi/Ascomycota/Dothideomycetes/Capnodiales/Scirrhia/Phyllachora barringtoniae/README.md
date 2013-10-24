@@ -1,5 +1,4 @@
-Phyllachora barringtoniae (Berk. & Broome) Sacc., 1883 SPECIES
-=======
+# Phyllachora barringtoniae (Berk. & Broome) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

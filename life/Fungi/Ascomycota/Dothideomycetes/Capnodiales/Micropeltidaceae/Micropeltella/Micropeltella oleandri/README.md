@@ -1,5 +1,4 @@
-Micropeltella oleandri (Briard & Har.) Bat. SPECIES
-=======
+# Micropeltella oleandri (Briard & Har.) Bat. SPECIES
 
 #### Status
 ACCEPTED

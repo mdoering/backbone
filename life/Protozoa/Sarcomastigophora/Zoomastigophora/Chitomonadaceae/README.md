@@ -1,5 +1,4 @@
-Chitomonadaceae FAMILY
-=======
+# Chitomonadaceae FAMILY
 
 #### Status
 ACCEPTED

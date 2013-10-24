@@ -1,5 +1,4 @@
-Krombholziella obscura (A.H. Sm., Thiers & Watling) utara SPECIES
-=======
+# Krombholziella obscura (A.H. Sm., Thiers & Watling) utara SPECIES
 
 #### Status
 ACCEPTED

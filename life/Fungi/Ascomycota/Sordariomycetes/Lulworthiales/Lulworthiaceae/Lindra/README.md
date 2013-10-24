@@ -1,5 +1,4 @@
-Lindra I.M. Wilson, 1956 GENUS
-=======
+# Lindra I.M. Wilson, 1956 GENUS
 
 #### Status
 ACCEPTED

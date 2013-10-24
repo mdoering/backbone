@@ -1,11 +1,10 @@
-Actinomyces rutgersensis Waksman & Henrici, 1916 SPECIES
-=======
+# Streptomyces rutgersensis (Waksman & Curtis, 1916) Waksman & Henrici, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

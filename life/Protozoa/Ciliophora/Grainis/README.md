@@ -1,5 +1,4 @@
-Grainis Jankowski, 1997 GENUS
-=======
+# Grainis Jankowski, 1997 GENUS
 
 #### Status
 ACCEPTED

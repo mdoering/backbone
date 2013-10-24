@@ -1,5 +1,4 @@
-Septoria podolepidis Priest SPECIES
-=======
+# Septoria podolepidis Priest SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelopsis foveolata Renob. & Barreno SPECIES
-=======
+# Thelopsis foveolata Renob. & Barreno SPECIES
 
 #### Status
 ACCEPTED

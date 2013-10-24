@@ -1,5 +1,4 @@
-Russula obscuriformis Murrill SPECIES
-=======
+# Russula obscuriformis Murrill SPECIES
 
 #### Status
 ACCEPTED

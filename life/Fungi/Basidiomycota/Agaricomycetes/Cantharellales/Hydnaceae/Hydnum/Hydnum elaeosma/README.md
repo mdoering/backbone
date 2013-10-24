@@ -1,5 +1,4 @@
-Hydnum elaeosma Pers. SPECIES
-=======
+# Hydnum elaeosma Pers. SPECIES
 
 #### Status
 ACCEPTED

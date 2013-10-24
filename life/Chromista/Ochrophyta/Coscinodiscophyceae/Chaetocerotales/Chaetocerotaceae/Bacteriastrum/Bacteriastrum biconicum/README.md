@@ -1,5 +1,4 @@
-Bacteriastrum biconicum Pavillard, 1916 SPECIES
-=======
+# Bacteriastrum biconicum Pavillard, 1916 SPECIES
 
 #### Status
 ACCEPTED

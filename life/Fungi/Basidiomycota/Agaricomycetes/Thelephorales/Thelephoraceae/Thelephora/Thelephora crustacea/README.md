@@ -1,5 +1,4 @@
-Thelephora crustacea Schumach. SPECIES
-=======
+# Thelephora crustacea Schumach. SPECIES
 
 #### Status
 ACCEPTED

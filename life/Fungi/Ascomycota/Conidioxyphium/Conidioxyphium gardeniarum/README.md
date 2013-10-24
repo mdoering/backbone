@@ -1,17 +1,16 @@
-Conidioxyphium gardeniorum Bat. & Cif. SPECIES
-=======
+# Conidioxyphium gardeniarum Bat. & Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Quad. Lab. crittogam. , Pavia 31: 73 (1963)
 
 #### Original name
-Conidioxyphium gardeniorum Bat. & Cif.
+Conidioxyphium gardeniarum Bat. & Cif.
 
 ### Remarks
 null

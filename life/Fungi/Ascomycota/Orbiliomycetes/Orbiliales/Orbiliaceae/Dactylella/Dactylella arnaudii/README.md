@@ -1,5 +1,4 @@
-Dactylella arnaudii Yadav, 1960 SPECIES
-=======
+# Dactylella arnaudii Yadav, 1960 SPECIES
 
 #### Status
 ACCEPTED

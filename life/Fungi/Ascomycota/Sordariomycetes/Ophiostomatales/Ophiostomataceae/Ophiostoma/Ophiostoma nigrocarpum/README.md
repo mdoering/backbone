@@ -1,8 +1,7 @@
-Ophiostoma nigrocarpon (R.W. Davidson) de Hoog, 1974 SPECIES
-=======
+# Ophiostoma nigrocarpum (R.W. Davidson) de Hoog, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

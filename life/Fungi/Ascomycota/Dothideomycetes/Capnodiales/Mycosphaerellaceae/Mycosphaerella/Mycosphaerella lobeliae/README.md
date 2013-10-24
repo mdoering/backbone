@@ -1,5 +1,4 @@
-Mycosphaerella lobeliae Petr. SPECIES
-=======
+# Mycosphaerella lobeliae Petr. SPECIES
 
 #### Status
 ACCEPTED

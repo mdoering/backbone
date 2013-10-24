@@ -1,5 +1,4 @@
-Paratrichophaea macrocystis Trigaux, 1985 SPECIES
-=======
+# Paratrichophaea macrocystis Trigaux, 1985 SPECIES
 
 #### Status
 ACCEPTED

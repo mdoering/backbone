@@ -1,14 +1,13 @@
-Parmelina pruinata (Müll. Arg.) Hale SPECIES
-=======
+# Canoparmelia pruinata (Müll. Arg.) Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 28: 483 (1974)
+Brunonia 9: 158 (1986)
 
 #### Original name
 Parmelia pruinata Müll. Arg.

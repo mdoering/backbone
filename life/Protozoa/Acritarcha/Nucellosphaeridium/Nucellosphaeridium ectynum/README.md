@@ -1,5 +1,4 @@
-Nucellosphaeridium ectynum Grishina in Grishina & Klenina, 1981 SPECIES
-=======
+# Nucellosphaeridium ectynum Grishina in Grishina & Klenina, 1981 SPECIES
 
 #### Status
 ACCEPTED

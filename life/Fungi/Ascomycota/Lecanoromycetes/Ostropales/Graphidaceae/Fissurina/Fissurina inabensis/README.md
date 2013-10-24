@@ -1,5 +1,4 @@
-Fissurina inabensis (Vain.) M. Nakan. & Kashiw. SPECIES
-=======
+# Fissurina inabensis (Vain.) M. Nakan. & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

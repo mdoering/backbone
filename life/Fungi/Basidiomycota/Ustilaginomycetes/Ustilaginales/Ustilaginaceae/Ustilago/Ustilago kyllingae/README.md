@@ -1,5 +1,4 @@
-Ustilago kyllingae B.V. Patil & Thirum. SPECIES
-=======
+# Ustilago kyllingae B.V. Patil & Thirum. SPECIES
 
 #### Status
 ACCEPTED

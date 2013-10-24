@@ -1,5 +1,4 @@
-Ceriporiopsis lagerheimii Laessøe & Ryvarden, 2010 SPECIES
-=======
+# Ceriporiopsis lagerheimii Laessøe & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

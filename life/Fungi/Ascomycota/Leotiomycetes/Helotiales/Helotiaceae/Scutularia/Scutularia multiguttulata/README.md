@@ -1,5 +1,4 @@
-Scutularia multiguttulata Rostr. SPECIES
-=======
+# Scutularia multiguttulata Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tympanis seriota Schwein. SPECIES
-=======
+# Tympanis seriota Schwein. SPECIES
 
 #### Status
 ACCEPTED

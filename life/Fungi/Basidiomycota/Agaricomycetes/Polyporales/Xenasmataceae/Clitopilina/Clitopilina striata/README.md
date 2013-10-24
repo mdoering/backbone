@@ -1,5 +1,4 @@
-Clitopilina striata G. Arnaud, 1951 SPECIES
-=======
+# Clitopilina striata G. Arnaud, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus paraguayensis Speg. SPECIES
-=======
+# Polyporus paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

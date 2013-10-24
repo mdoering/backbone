@@ -1,5 +1,4 @@
-Alphitomorpha epigaea Wallr. SPECIES
-=======
+# Alphitomorpha epigaea Wallr. SPECIES
 
 #### Status
 ACCEPTED

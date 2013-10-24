@@ -1,5 +1,4 @@
-Exosporella theae Sawada SPECIES
-=======
+# Exosporella theae Sawada SPECIES
 
 #### Status
 ACCEPTED

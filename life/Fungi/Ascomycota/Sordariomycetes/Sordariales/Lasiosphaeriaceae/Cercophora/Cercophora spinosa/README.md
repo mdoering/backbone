@@ -1,5 +1,4 @@
-Cercophora spinosa (Harkn.) M.E. Barr SPECIES
-=======
+# Cercophora spinosa (Harkn.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

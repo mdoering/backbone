@@ -1,5 +1,4 @@
-Phoma xanthii Hollós SPECIES
-=======
+# Phoma xanthii Hollós SPECIES
 
 #### Status
 ACCEPTED

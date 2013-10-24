@@ -1,5 +1,4 @@
-Kurtzmaniella M.A. Lachance & W.T. Starmer GENUS
-=======
+# Kurtzmaniella M.A. Lachance & W.T. Starmer GENUS
 
 #### Status
 ACCEPTED

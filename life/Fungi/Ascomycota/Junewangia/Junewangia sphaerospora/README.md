@@ -1,5 +1,4 @@
-Junewangia sphaerospora W.A. Baker & Morgan-Jones, 2002 SPECIES
-=======
+# Junewangia sphaerospora W.A. Baker & Morgan-Jones, 2002 SPECIES
 
 #### Status
 ACCEPTED

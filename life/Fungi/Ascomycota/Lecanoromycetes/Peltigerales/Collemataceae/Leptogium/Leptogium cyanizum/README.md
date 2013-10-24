@@ -1,5 +1,4 @@
-Leptogium cyanizum (Nyl.) Nyl. SPECIES
-=======
+# Leptogium cyanizum (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

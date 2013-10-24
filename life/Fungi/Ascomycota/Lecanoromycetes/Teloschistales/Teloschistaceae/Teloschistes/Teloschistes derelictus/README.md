@@ -1,5 +1,4 @@
-Teloschistes derelictus (A. Massal.) Zahlbr. SPECIES
-=======
+# Teloschistes derelictus (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

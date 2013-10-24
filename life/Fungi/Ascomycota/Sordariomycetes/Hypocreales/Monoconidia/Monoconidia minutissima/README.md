@@ -1,5 +1,4 @@
-Monoconidia minutissima Roze SPECIES
-=======
+# Monoconidia minutissima Roze SPECIES
 
 #### Status
 ACCEPTED

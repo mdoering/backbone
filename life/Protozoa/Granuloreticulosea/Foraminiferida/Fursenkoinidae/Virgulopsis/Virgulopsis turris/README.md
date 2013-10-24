@@ -1,8 +1,7 @@
-Verneuilina turris Heron-Allen & Earland, 1922 SPECIES
-=======
+# Virgulopsis turris (Heron-Allen & Earland, 1922) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

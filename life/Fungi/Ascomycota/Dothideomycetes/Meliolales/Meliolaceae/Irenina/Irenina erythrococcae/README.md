@@ -1,5 +1,4 @@
-Irenina erythrococcae Hansf. SPECIES
-=======
+# Irenina erythrococcae Hansf. SPECIES
 
 #### Status
 ACCEPTED

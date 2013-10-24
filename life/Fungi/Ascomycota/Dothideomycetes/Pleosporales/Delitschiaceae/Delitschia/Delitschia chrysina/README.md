@@ -1,5 +1,4 @@
-Delitschia chrysina Luck-Allen SPECIES
-=======
+# Delitschia chrysina Luck-Allen SPECIES
 
 #### Status
 ACCEPTED

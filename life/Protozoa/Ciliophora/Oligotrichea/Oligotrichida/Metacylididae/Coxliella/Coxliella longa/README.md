@@ -1,5 +1,4 @@
-Coxliella longa Kofoid & Campbell, 1929 SPECIES
-=======
+# Coxliella longa Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 DOUBTFUL

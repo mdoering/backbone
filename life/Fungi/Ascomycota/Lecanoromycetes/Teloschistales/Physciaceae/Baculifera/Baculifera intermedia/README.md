@@ -1,5 +1,4 @@
-Baculifera intermedia Marbach SPECIES
-=======
+# Baculifera intermedia Marbach SPECIES
 
 #### Status
 ACCEPTED

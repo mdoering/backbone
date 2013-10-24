@@ -1,5 +1,4 @@
-Globaria queletii Schulzer SPECIES
-=======
+# Globaria queletii Schulzer SPECIES
 
 #### Status
 ACCEPTED

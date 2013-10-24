@@ -1,17 +1,16 @@
-Tubercularis Clem. & Shear GENUS
-=======
+# Tuberculariopsis Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 221, 401 (1931)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 421 (1909)
 
 #### Original name
-Tubercularis Clem. & Shear
+Tuberculariopsis Höhn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dichomitus amygdalinus (Berk. & Ravenel) Ryvarden SPECIES
-=======
+# Dichomitus amygdalinus (Berk. & Ravenel) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

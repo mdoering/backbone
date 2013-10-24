@@ -1,5 +1,4 @@
-Boletus poeticus Corner SPECIES
-=======
+# Boletus poeticus Corner SPECIES
 
 #### Status
 ACCEPTED

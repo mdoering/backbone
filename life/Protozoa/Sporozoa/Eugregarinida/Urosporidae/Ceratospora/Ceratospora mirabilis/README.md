@@ -1,5 +1,4 @@
-Ceratospora mirabilis Léger, 1892 SPECIES
-=======
+# Ceratospora mirabilis Léger, 1892 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calyptrosphaera dentata A. Kleijne SPECIES
-=======
+# Calyptrosphaera dentata A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachyhystrichosphaera triangula Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
-=======
+# Trachyhystrichosphaera triangula Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
 
 #### Status
 ACCEPTED

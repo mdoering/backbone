@@ -1,5 +1,4 @@
-Diacanthodes Singer GENUS
-=======
+# Diacanthodes Singer GENUS
 
 #### Status
 ACCEPTED

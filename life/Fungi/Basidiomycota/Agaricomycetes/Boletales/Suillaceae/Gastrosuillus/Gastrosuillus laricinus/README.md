@@ -1,5 +1,4 @@
-Gastrosuillus laricinus (Singer & Both) Thiers SPECIES
-=======
+# Gastrosuillus laricinus (Singer & Both) Thiers SPECIES
 
 #### Status
 ACCEPTED

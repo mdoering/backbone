@@ -1,5 +1,4 @@
-Diplodina valerianae Henn. SPECIES
-=======
+# Diplodina valerianae Henn. SPECIES
 
 #### Status
 ACCEPTED

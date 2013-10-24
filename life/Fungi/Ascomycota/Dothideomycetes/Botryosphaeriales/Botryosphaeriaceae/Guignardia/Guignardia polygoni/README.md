@@ -1,5 +1,4 @@
-Guignardia polygoni Reusser SPECIES
-=======
+# Guignardia polygoni Reusser SPECIES
 
 #### Status
 ACCEPTED

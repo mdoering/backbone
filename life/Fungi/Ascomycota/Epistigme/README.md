@@ -1,5 +1,4 @@
-Epistigme Syd. GENUS
-=======
+# Epistigme Syd. GENUS
 
 #### Status
 ACCEPTED

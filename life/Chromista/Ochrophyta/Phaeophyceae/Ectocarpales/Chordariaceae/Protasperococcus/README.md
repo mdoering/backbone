@@ -1,5 +1,4 @@
-Protasperococcus Sauvageau, 1931 GENUS
-=======
+# Protasperococcus Sauvageau, 1931 GENUS
 
 #### Status
 ACCEPTED

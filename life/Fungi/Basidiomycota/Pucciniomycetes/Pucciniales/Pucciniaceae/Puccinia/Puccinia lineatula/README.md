@@ -1,5 +1,4 @@
-Puccinia lineatula Bubák SPECIES
-=======
+# Puccinia lineatula Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeolella tectonae Thite & C.R. Patil SPECIES
-=======
+# Clypeolella tectonae Thite & C.R. Patil SPECIES
 
 #### Status
 ACCEPTED

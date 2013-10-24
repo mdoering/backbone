@@ -1,5 +1,4 @@
-Polystictus seytinus Lloyd SPECIES
-=======
+# Polystictus seytinus Lloyd SPECIES
 
 #### Status
 ACCEPTED

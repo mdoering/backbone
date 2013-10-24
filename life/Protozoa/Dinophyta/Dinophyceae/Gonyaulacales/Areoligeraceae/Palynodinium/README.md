@@ -1,5 +1,4 @@
-Palynodinium H. Gocht, 1970 GENUS
-=======
+# Palynodinium H. Gocht, 1970 GENUS
 
 #### Status
 ACCEPTED

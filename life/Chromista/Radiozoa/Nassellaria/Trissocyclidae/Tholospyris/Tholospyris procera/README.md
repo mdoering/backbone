@@ -1,5 +1,4 @@
-Tholospyris procera Goll, 1969 SPECIES
-=======
+# Tholospyris procera Goll, 1969 SPECIES
 
 #### Status
 ACCEPTED

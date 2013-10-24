@@ -1,5 +1,4 @@
-Thelephora pachyderma Pers. SPECIES
-=======
+# Thelephora pachyderma Pers. SPECIES
 
 #### Status
 ACCEPTED

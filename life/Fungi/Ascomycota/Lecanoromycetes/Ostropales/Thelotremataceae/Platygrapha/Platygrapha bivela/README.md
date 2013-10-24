@@ -1,5 +1,4 @@
-Platygrapha bivela Berk. & Broome SPECIES
-=======
+# Platygrapha bivela Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

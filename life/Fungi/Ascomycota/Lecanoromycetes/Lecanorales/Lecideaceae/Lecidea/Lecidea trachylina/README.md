@@ -1,5 +1,4 @@
-Lecidea trachylina Nyl. SPECIES
-=======
+# Lecidea trachylina Nyl. SPECIES
 
 #### Status
 ACCEPTED

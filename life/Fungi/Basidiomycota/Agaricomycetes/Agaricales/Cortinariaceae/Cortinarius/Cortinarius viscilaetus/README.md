@@ -1,5 +1,4 @@
-Cortinarius viscilaetus Soop, 2001 SPECIES
-=======
+# Cortinarius viscilaetus Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

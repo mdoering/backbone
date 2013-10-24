@@ -1,5 +1,4 @@
-Actinonema pomi Lév. SPECIES
-=======
+# Actinonema pomi Lév. SPECIES
 
 #### Status
 ACCEPTED

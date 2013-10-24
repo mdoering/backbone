@@ -1,5 +1,4 @@
-Asporomyces mugera (Mattlet) C.W. Dodge SPECIES
-=======
+# Asporomyces mugera (Mattlet) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

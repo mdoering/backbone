@@ -1,5 +1,4 @@
-Graphis gomphospora Müll. Arg. SPECIES
-=======
+# Graphis gomphospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

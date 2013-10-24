@@ -1,5 +1,4 @@
-Aphelidium tribonemae Scherff. SPECIES
-=======
+# Aphelidium tribonemae Scherff. SPECIES
 
 #### Status
 ACCEPTED

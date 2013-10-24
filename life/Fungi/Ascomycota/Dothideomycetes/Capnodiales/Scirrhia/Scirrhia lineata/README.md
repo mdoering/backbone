@@ -1,5 +1,4 @@
-Scirrhia lineata Dearn. & House SPECIES
-=======
+# Scirrhia lineata Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytosporina verrucosa Rieuf SPECIES
-=======
+# Cytosporina verrucosa Rieuf SPECIES
 
 #### Status
 ACCEPTED

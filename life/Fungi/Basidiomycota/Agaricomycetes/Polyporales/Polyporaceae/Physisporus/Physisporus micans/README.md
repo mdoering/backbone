@@ -1,5 +1,4 @@
-Physisporus micans (Ehrenb.) P. Karst. SPECIES
-=======
+# Physisporus micans (Ehrenb.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

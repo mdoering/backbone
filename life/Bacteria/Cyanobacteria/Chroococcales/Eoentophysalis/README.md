@@ -1,5 +1,4 @@
-Eoentophysalis Hofmann, 1976 emend. Mendelson & Schopf, 1982 GENUS
-=======
+# Eoentophysalis Hofmann, 1976 emend. Mendelson & Schopf, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dangeardia Schröd., 1898 GENUS
-=======
+# Dangeardia Schröd., 1898 GENUS
 
 #### Status
 ACCEPTED

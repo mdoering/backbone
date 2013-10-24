@@ -1,5 +1,4 @@
-Synarthoniomyces bicoloris Cif. & Tomas. SPECIES
-=======
+# Synarthoniomyces bicoloris Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

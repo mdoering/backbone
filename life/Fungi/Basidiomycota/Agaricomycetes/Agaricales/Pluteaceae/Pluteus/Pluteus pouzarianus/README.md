@@ -1,17 +1,16 @@
-Pluteus pouzarianus var. pouzarianus VARIETY
-=======
+# Pluteus pouzarianus Singer, 1983 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Sydowia 36: 283 (1983)
 
 #### Original name
-Pluteus pouzarianus var. pouzarianus
+Pluteus pouzarianus Singer, 1983
 
 ### Remarks
 null

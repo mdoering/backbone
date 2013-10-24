@@ -1,5 +1,4 @@
-Physarum subglobosum Berk. & M.A. Curtis SPECIES
-=======
+# Physarum subglobosum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Krombholzia porphyreus Heinem. SPECIES
-=======
+# Krombholzia porphyreus Heinem. SPECIES
 
 #### Status
 ACCEPTED

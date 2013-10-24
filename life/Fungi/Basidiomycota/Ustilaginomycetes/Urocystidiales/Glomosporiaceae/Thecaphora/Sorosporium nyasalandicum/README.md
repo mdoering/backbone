@@ -1,5 +1,4 @@
-Sorosporium nyasalandicum L. Ling SPECIES
-=======
+# Sorosporium nyasalandicum L. Ling SPECIES
 
 #### Status
 ACCEPTED

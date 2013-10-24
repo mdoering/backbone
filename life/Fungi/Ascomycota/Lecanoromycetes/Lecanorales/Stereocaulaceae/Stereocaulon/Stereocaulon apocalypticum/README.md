@@ -1,5 +1,4 @@
-Stereocaulon apocalypticum Nyl. SPECIES
-=======
+# Stereocaulon apocalypticum Nyl. SPECIES
 
 #### Status
 ACCEPTED

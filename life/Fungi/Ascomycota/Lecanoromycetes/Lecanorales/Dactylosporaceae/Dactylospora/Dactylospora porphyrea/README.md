@@ -1,5 +1,4 @@
-Dactylospora porphyrea Hafellner & Kalb SPECIES
-=======
+# Dactylospora porphyrea Hafellner & Kalb SPECIES
 
 #### Status
 ACCEPTED

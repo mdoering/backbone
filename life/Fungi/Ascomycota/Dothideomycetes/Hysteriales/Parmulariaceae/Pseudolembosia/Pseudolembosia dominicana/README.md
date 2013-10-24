@@ -1,5 +1,4 @@
-Pseudolembosia dominicana Petr. & Cif., 1932 SPECIES
-=======
+# Pseudolembosia dominicana Petr. & Cif., 1932 SPECIES
 
 #### Status
 ACCEPTED

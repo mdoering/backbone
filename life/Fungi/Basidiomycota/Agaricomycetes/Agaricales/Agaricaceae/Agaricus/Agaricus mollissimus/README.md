@@ -1,5 +1,4 @@
-Agaricus mollissimus J.F. Gmel. SPECIES
-=======
+# Agaricus mollissimus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

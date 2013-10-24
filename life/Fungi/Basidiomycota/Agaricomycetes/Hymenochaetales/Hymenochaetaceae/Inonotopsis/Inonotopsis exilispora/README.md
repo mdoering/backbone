@@ -1,5 +1,4 @@
-Inonotopsis exilispora (Y.C. Dai & Niemelä) Y.C. Dai SPECIES
-=======
+# Inonotopsis exilispora (Y.C. Dai & Niemelä) Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

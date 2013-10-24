@@ -1,5 +1,4 @@
-Dothiorella tricholenae Cif. & Gonz. Frag. SPECIES
-=======
+# Dothiorella tricholenae Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

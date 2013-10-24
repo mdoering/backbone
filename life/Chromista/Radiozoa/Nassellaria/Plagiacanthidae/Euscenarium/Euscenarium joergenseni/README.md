@@ -1,5 +1,4 @@
-Euscenarium joergenseni Sugiyama, 1994 SPECIES
-=======
+# Euscenarium joergenseni Sugiyama, 1994 SPECIES
 
 #### Status
 ACCEPTED

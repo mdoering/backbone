@@ -1,5 +1,4 @@
-Leptonia aemulans P. Karst. SPECIES
-=======
+# Leptonia aemulans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

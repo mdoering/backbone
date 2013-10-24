@@ -1,5 +1,4 @@
-Cortinarius juranus var. juranus VARIETY
-=======
+# Cortinarius juranus Reumaux SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Bidaud, Moënne-Loccoz, Reumaux & Henry, Atlas des Cortinaires (Annecy), Pars V 152 (1993)
 
 #### Original name
-Cortinarius juranus var. juranus
+Cortinarius juranus Reumaux
 
 ### Remarks
 null

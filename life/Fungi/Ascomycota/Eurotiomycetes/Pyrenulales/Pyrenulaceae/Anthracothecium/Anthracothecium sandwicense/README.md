@@ -1,5 +1,4 @@
-Anthracothecium sandwicense Zahlbr. SPECIES
-=======
+# Anthracothecium sandwicense Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

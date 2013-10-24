@@ -1,5 +1,4 @@
-Mycena calceata Robich SPECIES
-=======
+# Mycena calceata Robich SPECIES
 
 #### Status
 ACCEPTED

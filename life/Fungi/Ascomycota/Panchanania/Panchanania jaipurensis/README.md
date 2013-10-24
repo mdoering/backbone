@@ -1,14 +1,13 @@
-Paathramaya jaipurensis (Subram. & N.G. Nair) Bhat, 1985 SPECIES
-=======
+# Panchanania jaipurensis Subram. & N.G. Nair, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 85(1): 106 (1985)
+Antonie van Leeuwenhoek 32: 382 (1966)
 
 #### Original name
 Panchanania jaipurensis Subram. & N.G. Nair, 1966

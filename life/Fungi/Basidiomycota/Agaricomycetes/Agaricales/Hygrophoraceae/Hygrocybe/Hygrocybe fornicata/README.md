@@ -1,17 +1,16 @@
-Hygrocybe fornicata var. fornicata VARIETY
-=======
+# Hygrocybe fornicata (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lilloa 22: 152 (1951)
+null
 
 #### Original name
-Hygrocybe fornicata var. fornicata
+null
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Selenidium grassei Théorides & Desportes, 1968 SPECIES
-=======
+# Selenidioides grassei Théorides & Desportes, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

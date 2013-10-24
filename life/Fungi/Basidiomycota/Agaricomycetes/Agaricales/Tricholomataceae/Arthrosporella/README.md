@@ -1,5 +1,4 @@
-Arthrosporella Singer GENUS
-=======
+# Arthrosporella Singer GENUS
 
 #### Status
 ACCEPTED

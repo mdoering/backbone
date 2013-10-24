@@ -1,5 +1,4 @@
-Alternaria instipitata (Preuss) E.G. Simmons SPECIES
-=======
+# Alternaria instipitata (Preuss) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

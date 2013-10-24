@@ -1,5 +1,4 @@
-Buellia fraudulenta (Körb.) Rabenh. SPECIES
-=======
+# Buellia fraudulenta (Körb.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

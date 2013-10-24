@@ -1,5 +1,4 @@
-Strattonia borealis N. Lundq. SPECIES
-=======
+# Strattonia borealis N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus brunneus Hesler SPECIES
-=======
+# Crepidotus brunneus Hesler SPECIES
 
 #### Status
 ACCEPTED

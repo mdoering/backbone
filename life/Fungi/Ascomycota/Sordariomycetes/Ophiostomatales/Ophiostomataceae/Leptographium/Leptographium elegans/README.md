@@ -1,5 +1,4 @@
-Leptographium elegans M.J. Wingf., Crous & Tzean SPECIES
-=======
+# Leptographium elegans M.J. Wingf., Crous & Tzean SPECIES
 
 #### Status
 ACCEPTED

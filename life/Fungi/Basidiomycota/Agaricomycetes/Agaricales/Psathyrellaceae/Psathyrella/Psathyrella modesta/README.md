@@ -1,5 +1,4 @@
-Psathyrella modesta Berk. SPECIES
-=======
+# Psathyrella modesta Berk. SPECIES
 
 #### Status
 ACCEPTED

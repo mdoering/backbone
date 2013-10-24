@@ -1,5 +1,4 @@
-Helicobacter felis Paster et al., 1991 SPECIES
-=======
+# Helicobacter felis Paster et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

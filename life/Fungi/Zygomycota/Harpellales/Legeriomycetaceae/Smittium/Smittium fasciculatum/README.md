@@ -1,5 +1,4 @@
-Smittium fasciculatum Lichtw., 1994 SPECIES
-=======
+# Smittium fasciculatum Lichtw., 1994 SPECIES
 
 #### Status
 ACCEPTED

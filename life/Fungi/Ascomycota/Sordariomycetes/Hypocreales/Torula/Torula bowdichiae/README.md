@@ -1,5 +1,4 @@
-Torula bowdichiae Petr. SPECIES
-=======
+# Torula bowdichiae Petr. SPECIES
 
 #### Status
 ACCEPTED

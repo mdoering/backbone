@@ -1,5 +1,4 @@
-Septoria polymniae Ellis & Everh. SPECIES
-=======
+# Septoria polymniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

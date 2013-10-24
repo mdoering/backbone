@@ -1,17 +1,16 @@
-Waltiozyma H.B. Mull. & Kock GENUS
-=======
+# Lipomyces Lodder & Kreger, 1952 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-S. Afr. J. Sci. 82: 491 (1986)
+null
 
 #### Original name
-Waltiozyma H.B. Mull. & Kock
+null
 
 ### Remarks
 null

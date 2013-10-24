@@ -1,5 +1,4 @@
-Coleosporium detergibile Thüm. SPECIES
-=======
+# Coleosporium detergibile Thüm. SPECIES
 
 #### Status
 ACCEPTED

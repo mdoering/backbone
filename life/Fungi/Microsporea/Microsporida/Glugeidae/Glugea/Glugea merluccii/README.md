@@ -1,5 +1,4 @@
-Glugea merluccii SPECIES
-=======
+# Glugea merluccii SPECIES
 
 #### Status
 ACCEPTED

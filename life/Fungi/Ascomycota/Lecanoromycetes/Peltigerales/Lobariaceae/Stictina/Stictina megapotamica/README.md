@@ -1,5 +1,4 @@
-Stictina megapotamica (Malme) Räsänen SPECIES
-=======
+# Stictina megapotamica (Malme) Räsänen SPECIES
 
 #### Status
 ACCEPTED

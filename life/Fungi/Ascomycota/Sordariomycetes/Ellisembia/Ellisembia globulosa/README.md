@@ -1,5 +1,4 @@
-Ellisembia globulosa W.P. Wu SPECIES
-=======
+# Ellisembia globulosa W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

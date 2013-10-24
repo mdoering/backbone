@@ -1,5 +1,4 @@
-Pertusaria granulata var. granulata VARIETY
-=======
+# Pertusaria granulata (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

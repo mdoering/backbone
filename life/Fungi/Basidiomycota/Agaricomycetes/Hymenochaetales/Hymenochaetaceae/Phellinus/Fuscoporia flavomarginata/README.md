@@ -1,14 +1,13 @@
-Poria flavomarginata (Murrill) Sacc. & Trotter, 1912 SPECIES
-=======
+# Fuscoporia flavomarginata (Murrill) Groposo, Log.-Leite & Góes-Neto, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 333 (1912)
+Mycotaxon 101: 59 (2007)
 
 #### Original name
 Fomitiporia flavomarginata Murrill, 1907

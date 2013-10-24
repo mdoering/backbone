@@ -1,5 +1,4 @@
-Naucoria phaedropsis Berk. & Broome SPECIES
-=======
+# Naucoria phaedropsis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

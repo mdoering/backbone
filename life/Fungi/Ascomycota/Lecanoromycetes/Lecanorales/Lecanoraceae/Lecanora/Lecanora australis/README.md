@@ -1,5 +1,4 @@
-Lecanora australis (Arnold) Nyl. SPECIES
-=======
+# Lecanora australis (Arnold) Nyl. SPECIES
 
 #### Status
 ACCEPTED

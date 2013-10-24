@@ -1,5 +1,4 @@
-Puteolina pseudodiscoidea SPECIES
-=======
+# Puteolina pseudodiscoidea SPECIES
 
 #### Status
 ACCEPTED

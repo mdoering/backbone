@@ -1,5 +1,4 @@
-Vestergrenia achyranthis (Ramakr. {?} ) Arx & E. Müll. SPECIES
-=======
+# Vestergrenia achyranthis (Ramakr. {?} ) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

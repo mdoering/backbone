@@ -1,5 +1,4 @@
-Sphaeria rufescens Schwein. SPECIES
-=======
+# Sphaeria rufescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

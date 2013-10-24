@@ -1,5 +1,4 @@
-Helmisporium chaubardii Brond. SPECIES
-=======
+# Helmisporium chaubardii Brond. SPECIES
 
 #### Status
 ACCEPTED

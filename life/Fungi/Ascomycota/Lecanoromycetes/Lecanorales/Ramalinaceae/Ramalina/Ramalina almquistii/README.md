@@ -1,5 +1,4 @@
-Ramalina almquistii Vain. SPECIES
-=======
+# Ramalina almquistii Vain. SPECIES
 
 #### Status
 ACCEPTED

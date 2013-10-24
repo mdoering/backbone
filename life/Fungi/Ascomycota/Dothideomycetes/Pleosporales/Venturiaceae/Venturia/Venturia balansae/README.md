@@ -1,5 +1,4 @@
-Venturia balansae Speg. SPECIES
-=======
+# Venturia balansae Speg. SPECIES
 
 #### Status
 ACCEPTED

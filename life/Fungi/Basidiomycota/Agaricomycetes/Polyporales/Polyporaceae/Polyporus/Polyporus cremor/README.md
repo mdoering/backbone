@@ -1,5 +1,4 @@
-Polyporus cremor Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus cremor Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

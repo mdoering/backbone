@@ -1,5 +1,4 @@
-Geotrichum multifermentans Castell. SPECIES
-=======
+# Geotrichum multifermentans Castell. SPECIES
 
 #### Status
 ACCEPTED

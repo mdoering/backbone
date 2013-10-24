@@ -1,5 +1,4 @@
-Streptomyces scabrisporus Xu et al., 2004 SPECIES
-=======
+# Streptomyces scabrisporus Xu et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

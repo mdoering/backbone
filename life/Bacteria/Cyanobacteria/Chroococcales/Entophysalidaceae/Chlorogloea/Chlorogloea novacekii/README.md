@@ -1,5 +1,4 @@
-Chlorogloea novacekii J. Komárek & G. Montejano SPECIES
-=======
+# Chlorogloea novacekii J. Komárek & G. Montejano SPECIES
 
 #### Status
 ACCEPTED

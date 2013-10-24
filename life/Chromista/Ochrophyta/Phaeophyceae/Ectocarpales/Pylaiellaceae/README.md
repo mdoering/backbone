@@ -1,5 +1,4 @@
-Pylaiellaceae FAMILY
-=======
+# Pylaiellaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biddulphia pelagica J.L.B.Schröder SPECIES
-=======
+# Biddulphia pelagica J.L.B.Schröder SPECIES
 
 #### Status
 ACCEPTED

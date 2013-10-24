@@ -1,5 +1,4 @@
-Cytosporina leucomyxa (Corda) Sacc. SPECIES
-=======
+# Cytosporina leucomyxa (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia pulchra Jørst. SPECIES
-=======
+# Puccinia pulchra Jørst. SPECIES
 
 #### Status
 ACCEPTED

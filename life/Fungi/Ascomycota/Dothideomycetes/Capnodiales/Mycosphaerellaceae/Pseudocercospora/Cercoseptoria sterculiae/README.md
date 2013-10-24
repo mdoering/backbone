@@ -1,5 +1,4 @@
-Cercoseptoria sterculiae M.D. Mehrotra SPECIES
-=======
+# Cercoseptoria sterculiae M.D. Mehrotra SPECIES
 
 #### Status
 ACCEPTED

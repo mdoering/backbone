@@ -1,5 +1,4 @@
-Hymenoscyphus micans (Saut.) Kuntze SPECIES
-=======
+# Hymenoscyphus micans (Saut.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordierites boedijnii W.Y. Zhuang SPECIES
-=======
+# Cordierites boedijnii W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

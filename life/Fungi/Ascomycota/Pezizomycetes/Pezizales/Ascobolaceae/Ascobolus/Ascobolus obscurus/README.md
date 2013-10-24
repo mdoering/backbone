@@ -1,5 +1,4 @@
-Ascobolus obscurus Cooke SPECIES
-=======
+# Ascobolus obscurus Cooke SPECIES
 
 #### Status
 ACCEPTED

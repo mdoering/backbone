@@ -1,5 +1,4 @@
-Coniocybe nigricans Fr. SPECIES
-=======
+# Coniocybe nigricans Fr. SPECIES
 
 #### Status
 ACCEPTED

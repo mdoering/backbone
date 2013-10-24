@@ -1,5 +1,4 @@
-Epistylis tincta Stokes, 1887 SPECIES
-=======
+# Epistylis tincta Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

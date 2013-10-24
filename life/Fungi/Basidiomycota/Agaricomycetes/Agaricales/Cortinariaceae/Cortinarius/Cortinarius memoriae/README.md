@@ -1,5 +1,4 @@
-Cortinarius memoriae (Rob. Henry) Rob. Henry SPECIES
-=======
+# Cortinarius memoriae (Rob. Henry) Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

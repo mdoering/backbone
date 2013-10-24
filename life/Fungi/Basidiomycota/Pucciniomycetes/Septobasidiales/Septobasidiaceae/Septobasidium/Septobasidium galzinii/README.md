@@ -1,5 +1,4 @@
-Septobasidium galzinii Bourdot SPECIES
-=======
+# Septobasidium galzinii Bourdot SPECIES
 
 #### Status
 ACCEPTED

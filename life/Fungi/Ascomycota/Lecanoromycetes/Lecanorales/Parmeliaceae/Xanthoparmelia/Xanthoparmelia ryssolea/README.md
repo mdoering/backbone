@@ -1,17 +1,16 @@
-Parmelia ryssolea f. ryssolea FORM
-=======
+# Xanthoparmelia ryssolea (Ach.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. lich. 1(2): 397 (1860)
+Taxon 53(4): 970 (2004)
 
 #### Original name
-Parmelia ryssolea f. ryssolea
+Dufourea ryssolea Ach.
 
 ### Remarks
 null

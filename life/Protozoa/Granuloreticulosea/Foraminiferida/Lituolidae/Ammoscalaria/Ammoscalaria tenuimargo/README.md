@@ -1,5 +1,4 @@
-Ammoscalaria tenuimargo SPECIES
-=======
+# Ammoscalaria tenuimargo SPECIES
 
 #### Status
 ACCEPTED

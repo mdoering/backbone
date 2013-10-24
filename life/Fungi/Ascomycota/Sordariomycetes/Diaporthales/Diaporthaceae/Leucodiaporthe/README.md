@@ -1,5 +1,4 @@
-Leucodiaporthe M.E. Barr & Lar.N. Vassiljeva GENUS
-=======
+# Leucodiaporthe M.E. Barr & Lar.N. Vassiljeva GENUS
 
 #### Status
 ACCEPTED

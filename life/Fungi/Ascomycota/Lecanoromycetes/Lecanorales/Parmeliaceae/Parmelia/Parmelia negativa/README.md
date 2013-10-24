@@ -1,5 +1,4 @@
-Parmelia negativa Gyeln. SPECIES
-=======
+# Parmelia negativa Gyeln. SPECIES
 
 #### Status
 ACCEPTED

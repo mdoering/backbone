@@ -1,5 +1,4 @@
-Fumago fungicola Sacc. SPECIES
-=======
+# Fumago fungicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

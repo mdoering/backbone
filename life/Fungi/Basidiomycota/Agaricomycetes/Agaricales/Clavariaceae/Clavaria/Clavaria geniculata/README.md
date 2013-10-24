@@ -1,5 +1,4 @@
-Clavaria geniculata Lév. SPECIES
-=======
+# Clavaria geniculata Lév. SPECIES
 
 #### Status
 ACCEPTED

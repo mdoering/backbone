@@ -1,5 +1,4 @@
-Clitopilus stilbocephalus (Berk. & Broome) Sacc. SPECIES
-=======
+# Clitopilus stilbocephalus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

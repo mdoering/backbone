@@ -1,5 +1,4 @@
-Omphalodium cartilagineum (Ach.) Minks SPECIES
-=======
+# Omphalodium cartilagineum (Ach.) Minks SPECIES
 
 #### Status
 ACCEPTED

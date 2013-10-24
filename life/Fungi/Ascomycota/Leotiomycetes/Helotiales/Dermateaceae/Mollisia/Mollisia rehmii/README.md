@@ -1,14 +1,13 @@
-Mollisia fuscidula Rehm, 1882 SPECIES
-=======
+# Mollisia rehmii Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ascom. Alp. 21: no. 17 (1882)
+Syll. fung. (Abellini) 8: 329 (1889)
 
 #### Original name
 Mollisia fuscidula Rehm, 1882

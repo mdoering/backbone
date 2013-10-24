@@ -1,5 +1,4 @@
-Peridinium perminutum Cleve-Euler SPECIES
-=======
+# Peridinium perminutum Cleve-Euler SPECIES
 
 #### Status
 ACCEPTED

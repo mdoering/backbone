@@ -1,14 +1,13 @@
-Filobasidiella arachnophila Malloch, J. Kane & Lahaie, 1978 SPECIES
-=======
+# Filobasidiella depauperata (Petch) Samson, Stalpers & Weijman, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 49(4/5): 454 (1983)
 
 #### Original name
 null

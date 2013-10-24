@@ -1,5 +1,4 @@
-Planomicrobium Yoon, Kang, Lee, Lee, Kho, Kang & Park, 2001 GENUS
-=======
+# Planomicrobium Yoon, Kang, Lee, Lee, Kho, Kang & Park, 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anzia pustulata Yoshim. SPECIES
-=======
+# Anzia pustulata Yoshim. SPECIES
 
 #### Status
 ACCEPTED

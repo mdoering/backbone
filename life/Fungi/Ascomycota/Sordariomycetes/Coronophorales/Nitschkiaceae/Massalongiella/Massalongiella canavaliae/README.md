@@ -1,5 +1,4 @@
-Massalongiella canavaliae F. Stevens & P.A. Young SPECIES
-=======
+# Massalongiella canavaliae F. Stevens & P.A. Young SPECIES
 
 #### Status
 ACCEPTED

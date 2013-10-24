@@ -1,5 +1,4 @@
-Hesperomyces chilomenis Thaxt. SPECIES
-=======
+# Hesperomyces chilomenis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudothecadinium Hoppenrath & Selina, 2006 GENUS
-=======
+# Pseudothecadinium Hoppenrath & Selina, 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sculptobaculites Loeblich & Tappan, 1984 GENUS
-=======
+# Sculptobaculites Loeblich & Tappan, 1984 GENUS
 
 #### Status
 ACCEPTED

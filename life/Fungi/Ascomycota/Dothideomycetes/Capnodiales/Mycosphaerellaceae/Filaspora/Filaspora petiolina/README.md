@@ -1,5 +1,4 @@
-Filaspora petiolina (Penz. & Sacc.) Kuntze SPECIES
-=======
+# Filaspora petiolina (Penz. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

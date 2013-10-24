@@ -1,5 +1,4 @@
-Epithyrium obscurum (Pass.) Sacc. SPECIES
-=======
+# Epithyrium obscurum (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

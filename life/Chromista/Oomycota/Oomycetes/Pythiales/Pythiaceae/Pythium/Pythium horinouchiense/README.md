@@ -1,5 +1,4 @@
-Pythium horinouchiense Hirane SPECIES
-=======
+# Pythium horinouchiense Hirane SPECIES
 
 #### Status
 ACCEPTED

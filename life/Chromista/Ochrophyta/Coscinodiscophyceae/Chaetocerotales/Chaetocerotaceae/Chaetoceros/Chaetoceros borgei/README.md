@@ -1,5 +1,4 @@
-Chaetoceros borgei Lemmermann, 1904 SPECIES
-=======
+# Chaetoceros borgei Lemmermann, 1904 SPECIES
 
 #### Status
 ACCEPTED

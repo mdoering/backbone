@@ -1,5 +1,4 @@
-Trametes subsuaveolens B.K. Cui & Y.C. Dai SPECIES
-=======
+# Trametes subsuaveolens B.K. Cui & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Coryneum biseptata J.N. Kapoor & Munjal SPECIES
-=======
+# Coryneum biseptatum J.N. Kapoor & Munjal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 21: 107 (1968)
 
 #### Original name
-Coryneum biseptata J.N. Kapoor & Munjal
+Coryneum biseptatum J.N. Kapoor & Munjal
 
 ### Remarks
 null

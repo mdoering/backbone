@@ -1,5 +1,4 @@
-Perichaena cano-flavescens Raunk. SPECIES
-=======
+# Perichaena cano-flavescens Raunk. SPECIES
 
 #### Status
 ACCEPTED

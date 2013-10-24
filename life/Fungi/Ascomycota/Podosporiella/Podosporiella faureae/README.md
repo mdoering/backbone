@@ -1,5 +1,4 @@
-Podosporiella faureae (Chupp & Doidge) M.B. Ellis SPECIES
-=======
+# Podosporiella faureae (Chupp & Doidge) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

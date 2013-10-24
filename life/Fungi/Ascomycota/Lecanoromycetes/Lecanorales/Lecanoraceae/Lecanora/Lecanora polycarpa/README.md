@@ -1,5 +1,4 @@
-Lecanora polycarpa Schltdl. SPECIES
-=======
+# Lecanora polycarpa Schltdl. SPECIES
 
 #### Status
 ACCEPTED

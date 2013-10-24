@@ -1,5 +1,4 @@
-Geotrichum proteolyticum (Negroni & Villafañe) Coudert SPECIES
-=======
+# Geotrichum proteolyticum (Negroni & Villafañe) Coudert SPECIES
 
 #### Status
 ACCEPTED

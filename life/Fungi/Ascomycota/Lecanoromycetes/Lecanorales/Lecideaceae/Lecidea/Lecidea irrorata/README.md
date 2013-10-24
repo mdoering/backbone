@@ -1,5 +1,4 @@
-Lecidea irrorata (Körb.) H. Olivier SPECIES
-=======
+# Lecidea irrorata (Körb.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

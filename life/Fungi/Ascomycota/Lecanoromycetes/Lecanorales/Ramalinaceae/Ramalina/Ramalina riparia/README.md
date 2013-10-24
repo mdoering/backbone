@@ -1,5 +1,4 @@
-Ramalina riparia Blanchon, Braggins & Alison Stewart SPECIES
-=======
+# Ramalina riparia Blanchon, Braggins & Alison Stewart SPECIES
 
 #### Status
 ACCEPTED

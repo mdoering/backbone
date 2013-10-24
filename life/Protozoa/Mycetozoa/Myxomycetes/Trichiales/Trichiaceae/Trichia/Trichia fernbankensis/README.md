@@ -1,5 +1,4 @@
-Trichia fernbankensis Frederick, R. Simons & I.L. Roth, 1984 SPECIES
-=======
+# Trichia fernbankensis Frederick, R. Simons & I.L. Roth, 1984 SPECIES
 
 #### Status
 ACCEPTED

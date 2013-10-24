@@ -1,5 +1,4 @@
-Amphiceratium Vanhoeffen, 1896 GENUS
-=======
+# Amphiceratium Vanhoeffen, 1896 GENUS
 
 #### Status
 ACCEPTED

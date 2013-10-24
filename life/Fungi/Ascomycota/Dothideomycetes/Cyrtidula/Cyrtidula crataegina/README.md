@@ -1,5 +1,4 @@
-Cyrtidula crataegina Minks SPECIES
-=======
+# Cyrtidula crataegina Minks SPECIES
 
 #### Status
 ACCEPTED

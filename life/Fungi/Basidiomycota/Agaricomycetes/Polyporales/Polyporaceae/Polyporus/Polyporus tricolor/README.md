@@ -1,5 +1,4 @@
-Polyporus tricolor Lév. SPECIES
-=======
+# Polyporus tricolor Lév. SPECIES
 
 #### Status
 ACCEPTED

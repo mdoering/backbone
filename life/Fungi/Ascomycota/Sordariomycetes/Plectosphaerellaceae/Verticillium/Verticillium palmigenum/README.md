@@ -1,5 +1,4 @@
-Verticillium palmigenum Speg. SPECIES
-=======
+# Verticillium palmigenum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia serjaniae Ellis & Everh. SPECIES
-=======
+# Puccinia serjaniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

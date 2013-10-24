@@ -1,5 +1,4 @@
-Cercospora symploci Sawada ex Katsuki & Ts. Kobay. SPECIES
-=======
+# Cercospora symploci Sawada ex Katsuki & Ts. Kobay. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium deformans Mayor SPECIES
-=======
+# Aecidium deformans Mayor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pawlsenella vonstoschii Drebes & Schnepf SPECIES
-=======
+# Pawlsenella vonstoschii Drebes & Schnepf SPECIES
 
 #### Status
 ACCEPTED

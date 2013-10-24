@@ -1,5 +1,4 @@
-Psathyra langei Singer SPECIES
-=======
+# Psathyra langei Singer SPECIES
 
 #### Status
 ACCEPTED

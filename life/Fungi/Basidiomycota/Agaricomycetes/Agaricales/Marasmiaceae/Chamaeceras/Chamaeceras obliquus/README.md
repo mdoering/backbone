@@ -1,5 +1,4 @@
-Chamaeceras obliquus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras obliquus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sporoacania A. Massal. GENUS
-=======
+# Lecidea Ach. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Framm. Lichenogr. 11 (1855)
+Method. Lich. xxx, 32 (1803)
 
 #### Original name
-Sporoacania A. Massal.
+Lecidea Ach.
 
 ### Remarks
 null

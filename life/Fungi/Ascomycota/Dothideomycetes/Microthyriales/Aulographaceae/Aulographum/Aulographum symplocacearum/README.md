@@ -1,5 +1,4 @@
-Aulographum symplocacearum I. Hino & Katum. SPECIES
-=======
+# Aulographum symplocacearum I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria arceutinoides (Nyl.) SPECIES
-=======
+# Patellaria arceutinoides (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

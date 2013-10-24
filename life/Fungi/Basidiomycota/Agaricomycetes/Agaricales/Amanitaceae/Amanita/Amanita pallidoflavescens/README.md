@@ -1,5 +1,4 @@
-Amanita pallidoflavescens D.T. Jenkins SPECIES
-=======
+# Amanita pallidoflavescens D.T. Jenkins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe permucida Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe permucida Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

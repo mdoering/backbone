@@ -1,5 +1,4 @@
-Peziza subfurfuracea Nyl. SPECIES
-=======
+# Peziza subfurfuracea Nyl. SPECIES
 
 #### Status
 ACCEPTED

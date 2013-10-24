@@ -1,5 +1,4 @@
-Anthracoidea altera Nannf. SPECIES
-=======
+# Anthracoidea altera Nannf. SPECIES
 
 #### Status
 ACCEPTED

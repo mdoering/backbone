@@ -1,5 +1,4 @@
-Aecidium batrachii Katajev SPECIES
-=======
+# Aecidium batrachii Katajev SPECIES
 
 #### Status
 ACCEPTED

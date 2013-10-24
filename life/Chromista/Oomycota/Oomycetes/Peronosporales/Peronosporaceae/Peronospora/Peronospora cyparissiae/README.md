@@ -1,5 +1,4 @@
-Peronospora cyparissiae de Bary, 1863 SPECIES
-=======
+# Peronospora cyparissiae de Bary, 1863 SPECIES
 
 #### Status
 ACCEPTED

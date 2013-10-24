@@ -1,5 +1,4 @@
-Lecanora lasalliae Pérez-Ortega & Etayo SPECIES
-=======
+# Lecanora lasalliae Pérez-Ortega & Etayo SPECIES
 
 #### Status
 ACCEPTED

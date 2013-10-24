@@ -1,5 +1,4 @@
-Alteromonas litorea Yoon et al., 2004 SPECIES
-=======
+# Alteromonas litorea Yoon et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

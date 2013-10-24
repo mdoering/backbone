@@ -1,5 +1,4 @@
-Autoicomyces anaceros Speg. SPECIES
-=======
+# Autoicomyces anaceros Speg. SPECIES
 
 #### Status
 ACCEPTED

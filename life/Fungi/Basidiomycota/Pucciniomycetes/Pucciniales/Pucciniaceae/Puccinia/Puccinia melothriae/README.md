@@ -1,5 +1,4 @@
-Puccinia melothriae F. Stevens SPECIES
-=======
+# Puccinia melothriae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

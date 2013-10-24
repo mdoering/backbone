@@ -1,5 +1,4 @@
-Sphaeropsis menispora Sacc., 1880 SPECIES
-=======
+# Sphaeropsis menispora Sacc., 1880 SPECIES
 
 #### Status
 ACCEPTED

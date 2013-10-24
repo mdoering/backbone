@@ -1,5 +1,4 @@
-Phoma montanae Gonz. Frag. SPECIES
-=======
+# Phoma montanae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

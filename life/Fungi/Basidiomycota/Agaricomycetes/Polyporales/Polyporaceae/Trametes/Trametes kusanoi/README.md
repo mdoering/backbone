@@ -1,5 +1,4 @@
-Trametes kusanoi (Murrill) Sacc. & Trotter SPECIES
-=======
+# Trametes kusanoi (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

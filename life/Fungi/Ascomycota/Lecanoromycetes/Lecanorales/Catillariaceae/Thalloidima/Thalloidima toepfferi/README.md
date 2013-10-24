@@ -1,5 +1,4 @@
-Thalloidima toepfferi Stein SPECIES
-=======
+# Thalloidima toepfferi Stein SPECIES
 
 #### Status
 ACCEPTED

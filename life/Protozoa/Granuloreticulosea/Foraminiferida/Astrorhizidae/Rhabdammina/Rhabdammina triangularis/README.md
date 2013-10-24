@@ -1,5 +1,4 @@
-Rhabdammina triangularis SPECIES
-=======
+# Rhabdammina triangularis SPECIES
 
 #### Status
 ACCEPTED

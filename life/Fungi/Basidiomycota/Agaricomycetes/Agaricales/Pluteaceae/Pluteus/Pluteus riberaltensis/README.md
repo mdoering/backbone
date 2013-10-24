@@ -1,5 +1,4 @@
-Pluteus riberaltensis var. riberaltensis VARIETY
-=======
+# Pluteus riberaltensis Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lloydia 21: 255 (1959)
 
 #### Original name
-Pluteus riberaltensis var. riberaltensis
+Pluteus riberaltensis Singer
 
 ### Remarks
 null

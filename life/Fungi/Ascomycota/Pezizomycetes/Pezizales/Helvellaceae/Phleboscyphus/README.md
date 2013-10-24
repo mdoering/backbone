@@ -1,5 +1,4 @@
-Phleboscyphus GENUS
-=======
+# Phleboscyphus GENUS
 
 #### Status
 ACCEPTED

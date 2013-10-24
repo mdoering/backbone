@@ -1,14 +1,13 @@
-Chaetospora quezelii Faurel & Schotter, 1965 SPECIES
-=======
+# Neochaetospora quezelii (Faurel & Schotter) B. Sutton & Sankaran, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 29(3): 149 (1965)
+Mycol. Res. 95(6): 768 (1991)
 
 #### Original name
 Chaetospora quezelii Faurel & Schotter, 1965

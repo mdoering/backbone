@@ -1,5 +1,4 @@
-Aspergillus koningii Oudem. SPECIES
-=======
+# Aspergillus koningii Oudem. SPECIES
 
 #### Status
 ACCEPTED

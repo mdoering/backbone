@@ -1,8 +1,7 @@
-Lachnobolus comatus (G. Lister & Brândza) Lado, 2001 SPECIES
-=======
+# Amaurochaete comata G. Lister & Brândza, 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

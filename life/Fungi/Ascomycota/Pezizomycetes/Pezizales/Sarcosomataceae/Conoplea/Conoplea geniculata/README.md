@@ -1,5 +1,4 @@
-Conoplea geniculata (Corda) S. Hughes SPECIES
-=======
+# Conoplea geniculata (Corda) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

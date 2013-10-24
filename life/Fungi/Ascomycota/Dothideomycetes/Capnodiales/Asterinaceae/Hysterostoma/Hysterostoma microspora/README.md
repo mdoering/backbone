@@ -1,5 +1,4 @@
-Hysterostoma microspora Doidge SPECIES
-=======
+# Hysterostoma microspora Doidge SPECIES
 
 #### Status
 ACCEPTED

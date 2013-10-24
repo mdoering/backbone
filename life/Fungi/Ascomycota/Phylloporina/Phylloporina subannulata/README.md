@@ -1,5 +1,4 @@
-Phylloporina subannulata Zahlbr. SPECIES
-=======
+# Phylloporina subannulata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

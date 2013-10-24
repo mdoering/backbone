@@ -1,5 +1,4 @@
-Irene amphilophii Hansf. SPECIES
-=======
+# Irene amphilophii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps aemonae Lloyd SPECIES
-=======
+# Cordyceps aemonae Lloyd SPECIES
 
 #### Status
 ACCEPTED

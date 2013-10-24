@@ -1,5 +1,4 @@
-Fusarium muentzii Delacr. SPECIES
-=======
+# Fusarium muentzii Delacr. SPECIES
 
 #### Status
 ACCEPTED

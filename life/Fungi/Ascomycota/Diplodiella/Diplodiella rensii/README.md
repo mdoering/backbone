@@ -1,5 +1,4 @@
-Diplodiella rensii Bres. SPECIES
-=======
+# Diplodiella rensii Bres. SPECIES
 
 #### Status
 ACCEPTED

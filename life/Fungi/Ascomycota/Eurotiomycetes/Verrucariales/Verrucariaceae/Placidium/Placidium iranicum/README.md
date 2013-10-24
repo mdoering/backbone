@@ -1,5 +1,4 @@
-Placidium iranicum Szatala SPECIES
-=======
+# Placidium iranicum Szatala SPECIES
 
 #### Status
 ACCEPTED

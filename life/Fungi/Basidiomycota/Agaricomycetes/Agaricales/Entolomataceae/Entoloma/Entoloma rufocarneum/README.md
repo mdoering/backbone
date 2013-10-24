@@ -1,14 +1,13 @@
-Agaricus rufocarneus Berk., 1836 SPECIES
-=======
+# Entoloma rufocarneum (Berk.) Noordel., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Engl. Fl. , Edn 2 5(2): 82 (1836)
+Persoonia 12(4): 462 (1985)
 
 #### Original name
 Agaricus rufocarneus Berk., 1836

@@ -1,5 +1,4 @@
-Crepidotus parasiticus Massee ex Pilát SPECIES
-=======
+# Crepidotus parasiticus Massee ex Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pringsheimia crotalariae Tilak SPECIES
-=======
+# Pringsheimia crotalariae Tilak SPECIES
 
 #### Status
 ACCEPTED

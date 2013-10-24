@@ -1,5 +1,4 @@
-Vertebralina mucronata d'Orbigny SPECIES
-=======
+# Vertebralina mucronata d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

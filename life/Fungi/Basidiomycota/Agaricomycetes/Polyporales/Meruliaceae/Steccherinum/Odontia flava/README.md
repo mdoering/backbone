@@ -1,5 +1,4 @@
-Odontia flava Rick SPECIES
-=======
+# Odontia flava Rick SPECIES
 
 #### Status
 ACCEPTED

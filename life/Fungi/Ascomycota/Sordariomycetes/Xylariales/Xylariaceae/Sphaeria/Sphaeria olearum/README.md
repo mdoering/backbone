@@ -1,5 +1,4 @@
-Sphaeria olearum Castagne SPECIES
-=======
+# Sphaeria olearum Castagne SPECIES
 
 #### Status
 ACCEPTED

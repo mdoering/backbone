@@ -1,5 +1,4 @@
-Stictis subiculata P.R. Johnst. SPECIES
-=======
+# Stictis subiculata P.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

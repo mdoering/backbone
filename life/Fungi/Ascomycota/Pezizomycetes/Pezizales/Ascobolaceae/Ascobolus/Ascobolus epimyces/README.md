@@ -1,14 +1,13 @@
-Ascobolus epimycis (Cooke) Seaver SPECIES
-=======
+# Ascobolus epimyces (Cooke) Seaver, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+North American Cup-fungi (New York), (Operculates) 91 (1928)
 
 #### Original name
 Chlorosplenium epimyces Cooke, 1875

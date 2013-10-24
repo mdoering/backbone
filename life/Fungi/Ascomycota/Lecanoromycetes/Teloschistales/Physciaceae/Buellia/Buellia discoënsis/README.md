@@ -1,5 +1,4 @@
-Buellia discoënsis Lynge SPECIES
-=======
+# Buellia discoënsis Lynge SPECIES
 
 #### Status
 ACCEPTED

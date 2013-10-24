@@ -1,5 +1,4 @@
-Bacidia heteroloma (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia heteroloma (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

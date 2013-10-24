@@ -1,5 +1,4 @@
-Ammobaculites balkwilli Haynes, 1973 SPECIES
-=======
+# Ammobaculites balkwilli Haynes, 1973 SPECIES
 
 #### Status
 ACCEPTED

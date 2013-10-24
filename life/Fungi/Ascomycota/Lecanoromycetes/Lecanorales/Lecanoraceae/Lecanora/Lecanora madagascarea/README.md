@@ -1,5 +1,4 @@
-Lecanora madagascarea Vain. SPECIES
-=======
+# Lecanora madagascarea Vain. SPECIES
 
 #### Status
 ACCEPTED

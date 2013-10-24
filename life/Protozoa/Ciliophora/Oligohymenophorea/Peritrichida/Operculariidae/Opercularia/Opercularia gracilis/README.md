@@ -1,5 +1,4 @@
-Opercularia gracilis Faure-Fremiet, 1904 SPECIES
-=======
+# Opercularia gracilis Faure-Fremiet, 1904 SPECIES
 
 #### Status
 ACCEPTED

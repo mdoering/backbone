@@ -1,5 +1,4 @@
-Polyphagus laevis A.F. Bartsch, 1945 SPECIES
-=======
+# Polyphagus laevis A.F. Bartsch, 1945 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemimycena pseudocrispata (Valla) Maas Geest. SPECIES
-=======
+# Hemimycena pseudocrispata (Valla) Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

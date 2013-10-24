@@ -1,5 +1,4 @@
-Navicella utriculus (Rebent.) Kuntze SPECIES
-=======
+# Navicella utriculus (Rebent.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

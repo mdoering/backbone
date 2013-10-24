@@ -1,5 +1,4 @@
-Marasmiellus tener Singer SPECIES
-=======
+# Marasmiellus tener Singer SPECIES
 
 #### Status
 ACCEPTED

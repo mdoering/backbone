@@ -1,5 +1,4 @@
-Lecidea plesia C. Knight SPECIES
-=======
+# Lecidea plesia C. Knight SPECIES
 
 #### Status
 ACCEPTED

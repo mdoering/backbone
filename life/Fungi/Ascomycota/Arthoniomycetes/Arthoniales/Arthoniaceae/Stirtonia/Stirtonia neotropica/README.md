@@ -1,5 +1,4 @@
-Stirtonia neotropica Aptroot SPECIES
-=======
+# Stirtonia neotropica Aptroot SPECIES
 
 #### Status
 ACCEPTED

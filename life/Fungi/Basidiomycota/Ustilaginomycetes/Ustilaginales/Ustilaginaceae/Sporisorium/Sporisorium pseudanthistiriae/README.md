@@ -1,5 +1,4 @@
-Sporisorium pseudanthistiriae (Syd., P. Syd. & E.J. Butler) Vánky SPECIES
-=======
+# Sporisorium pseudanthistiriae (Syd., P. Syd. & E.J. Butler) Vánky SPECIES
 
 #### Status
 ACCEPTED

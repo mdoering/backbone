@@ -1,5 +1,4 @@
-Dimerium pseudoperisporioides Rehm SPECIES
-=======
+# Dimerium pseudoperisporioides Rehm SPECIES
 
 #### Status
 ACCEPTED

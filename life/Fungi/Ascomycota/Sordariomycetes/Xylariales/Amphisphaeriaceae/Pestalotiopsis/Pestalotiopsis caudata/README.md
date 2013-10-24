@@ -1,14 +1,13 @@
-Pestalotia caudata Syd., 1900 SPECIES
-=======
+# Pestalotiopsis caudata (Syd.) B. Sutton, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mysore Journal of agricultural Science 7: 409 (1973)
 
 #### Original name
 Pestalotia caudata Syd., 1900

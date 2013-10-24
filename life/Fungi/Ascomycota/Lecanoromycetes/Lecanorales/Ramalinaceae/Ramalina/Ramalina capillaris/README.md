@@ -1,5 +1,4 @@
-Ramalina capillaris Kashiw. & Kalb SPECIES
-=======
+# Ramalina capillaris Kashiw. & Kalb SPECIES
 
 #### Status
 ACCEPTED

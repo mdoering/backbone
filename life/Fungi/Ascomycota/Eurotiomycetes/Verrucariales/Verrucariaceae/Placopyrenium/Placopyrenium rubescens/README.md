@@ -1,5 +1,4 @@
-Placopyrenium rubescens (Timkó) Breuss SPECIES
-=======
+# Placopyrenium rubescens (Timkó) Breuss SPECIES
 
 #### Status
 ACCEPTED

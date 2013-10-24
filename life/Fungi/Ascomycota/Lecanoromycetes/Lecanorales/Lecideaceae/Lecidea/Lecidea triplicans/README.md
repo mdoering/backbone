@@ -1,5 +1,4 @@
-Lecidea triplicans Nyl. SPECIES
-=======
+# Lecidea triplicans Nyl. SPECIES
 
 #### Status
 ACCEPTED

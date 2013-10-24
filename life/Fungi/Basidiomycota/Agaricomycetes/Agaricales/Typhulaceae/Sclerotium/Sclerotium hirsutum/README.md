@@ -1,5 +1,4 @@
-Sclerotium hirsutum Schumach. SPECIES
-=======
+# Sclerotium hirsutum Schumach. SPECIES
 
 #### Status
 ACCEPTED

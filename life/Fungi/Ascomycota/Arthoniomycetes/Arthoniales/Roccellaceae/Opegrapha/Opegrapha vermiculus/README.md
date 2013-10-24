@@ -1,5 +1,4 @@
-Opegrapha vermiculus Fée SPECIES
-=======
+# Opegrapha vermiculus Fée SPECIES
 
 #### Status
 ACCEPTED

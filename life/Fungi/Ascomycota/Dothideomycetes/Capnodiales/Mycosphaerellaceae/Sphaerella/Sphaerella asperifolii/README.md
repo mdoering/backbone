@@ -1,5 +1,4 @@
-Sphaerella asperifolii E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Sphaerella asperifolii E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

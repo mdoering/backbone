@@ -1,5 +1,4 @@
-Macrophoma exaci Pat. SPECIES
-=======
+# Macrophoma exaci Pat. SPECIES
 
 #### Status
 ACCEPTED

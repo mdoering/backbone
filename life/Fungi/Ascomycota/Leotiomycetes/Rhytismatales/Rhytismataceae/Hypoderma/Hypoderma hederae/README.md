@@ -1,17 +1,16 @@
-Sphaeria hederae var. hederae VARIETY
-=======
+# Hypoderma hederae (T. Nees ex Mart.) De Not., 1847 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Col. fig. Engl. Fung. Mushr. (London) 3: pl. 371:5 (1803)
+G. bot. ital. 2(7-8): 36 (1847)
 
 #### Original name
-Sphaeria hederae var. hederae
+Hysterium hederae T. Nees ex Mart., 1817
 
 ### Remarks
 null

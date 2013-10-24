@@ -1,5 +1,4 @@
-Apiosordaria obliqua (Cain & Farrow) Guarro SPECIES
-=======
+# Apiosordaria obliqua (Cain & Farrow) Guarro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxormia terminaliae (Syd. & E.J. Butler) Arx SPECIES
-=======
+# Myxormia terminaliae (Syd. & E.J. Butler) Arx SPECIES
 
 #### Status
 ACCEPTED

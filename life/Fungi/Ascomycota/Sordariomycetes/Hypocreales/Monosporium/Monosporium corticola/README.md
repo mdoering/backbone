@@ -1,8 +1,7 @@
-Monosporium corticolum Sacc. & Schulzer SPECIES
-=======
+# Monosporium corticola Sacc. & Schulzer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Monosporium corticolum Sacc. & Schulzer
+Monosporium corticola Sacc. & Schulzer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asteridium pleurostyliae (Berk. & Broome) Clem. & Shear SPECIES
-=======
+# Asteridium pleurostyliae (Berk. & Broome) Clem. & Shear SPECIES
 
 #### Status
 ACCEPTED

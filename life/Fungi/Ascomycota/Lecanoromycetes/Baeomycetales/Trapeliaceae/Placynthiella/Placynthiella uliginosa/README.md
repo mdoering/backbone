@@ -1,17 +1,16 @@
-Lecidea uliginosa f. uliginosa FORM
-=======
+# Placynthiella uliginosa (Schrad.) Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Method. Lich. 43 (1803)
+Lichenologist 16(3): 245 (1984)
 
 #### Original name
-Lecidea uliginosa f. uliginosa
+Lichen uliginosus Schrad.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus epipastus Berk. & Broome SPECIES
-=======
+# Agaricus epipastus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

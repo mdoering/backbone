@@ -1,5 +1,4 @@
-Trimmatostroma intertrappea K.S. Patil & Datar SPECIES
-=======
+# Trimmatostroma intertrappea K.S. Patil & Datar SPECIES
 
 #### Status
 ACCEPTED

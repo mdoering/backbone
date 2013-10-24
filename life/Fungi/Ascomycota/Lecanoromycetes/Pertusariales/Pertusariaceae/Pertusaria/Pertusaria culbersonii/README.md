@@ -1,5 +1,4 @@
-Pertusaria culbersonii Vezda SPECIES
-=======
+# Pertusaria culbersonii Vezda SPECIES
 
 #### Status
 ACCEPTED

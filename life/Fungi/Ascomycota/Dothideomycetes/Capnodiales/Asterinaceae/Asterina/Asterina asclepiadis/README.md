@@ -1,5 +1,4 @@
-Asterina asclepiadis Hosag. & Goos SPECIES
-=======
+# Asterina asclepiadis Hosag. & Goos SPECIES
 
 #### Status
 ACCEPTED

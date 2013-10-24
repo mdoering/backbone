@@ -1,5 +1,4 @@
-Ascochyta lallemantiae erbele SPECIES
-=======
+# Ascochyta lallemantiae erbele SPECIES
 
 #### Status
 ACCEPTED

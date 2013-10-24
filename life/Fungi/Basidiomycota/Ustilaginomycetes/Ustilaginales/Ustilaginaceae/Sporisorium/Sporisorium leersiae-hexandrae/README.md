@@ -1,5 +1,4 @@
-Sporisorium leersiae-hexandrae Vánky SPECIES
-=======
+# Sporisorium leersiae-hexandrae Vánky SPECIES
 
 #### Status
 ACCEPTED

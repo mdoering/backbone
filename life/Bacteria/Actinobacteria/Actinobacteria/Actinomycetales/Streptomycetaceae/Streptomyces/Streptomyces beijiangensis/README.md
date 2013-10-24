@@ -1,5 +1,4 @@
-Streptomyces beijiangensis Li et al., 2002 SPECIES
-=======
+# Streptomyces beijiangensis Li et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

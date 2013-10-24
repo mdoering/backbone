@@ -1,5 +1,4 @@
-Lithocia umbrinula (Nyl.) Arnold SPECIES
-=======
+# Lithocia umbrinula (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

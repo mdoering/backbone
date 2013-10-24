@@ -1,5 +1,4 @@
-Thelenella muelleri SPECIES
-=======
+# Thelenella muelleri SPECIES
 
 #### Status
 ACCEPTED

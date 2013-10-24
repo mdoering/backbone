@@ -1,17 +1,16 @@
-Entoloma rosemariae Wölfel & Noordel. SPECIES
-=======
+# Entoloma rosemarieae Wölfel & Noordel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Öst. Z. Pilzk. 10: 198 (2001)
 
 #### Original name
-Entoloma rosemariae Wölfel & Noordel.
+Entoloma rosemarieae Wölfel & Noordel.
 
 ### Remarks
 null

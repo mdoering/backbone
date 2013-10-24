@@ -1,5 +1,4 @@
-Rickettsia sibirica Zdrodovskii, 1948 (Approved Lists, 1980) SPECIES
-=======
+# Rickettsia sibirica Zdrodovskii, 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

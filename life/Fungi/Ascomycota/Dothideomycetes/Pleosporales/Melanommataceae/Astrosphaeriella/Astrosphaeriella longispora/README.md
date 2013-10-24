@@ -1,5 +1,4 @@
-Astrosphaeriella longispora J.D. Rogers & M.E. Barr, 2003 SPECIES
-=======
+# Astrosphaeriella longispora J.D. Rogers & M.E. Barr, 2003 SPECIES
 
 #### Status
 ACCEPTED

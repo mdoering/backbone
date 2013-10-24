@@ -1,5 +1,4 @@
-Toninia tenuisecta (Vain.) Zahlbr. SPECIES
-=======
+# Toninia tenuisecta (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

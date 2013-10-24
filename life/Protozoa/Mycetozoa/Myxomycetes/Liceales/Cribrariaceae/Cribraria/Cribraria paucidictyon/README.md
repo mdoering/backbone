@@ -1,5 +1,4 @@
-Cribraria paucidictyon Yu Li, 2002 SPECIES
-=======
+# Cribraria paucidictyon Yu Li, 2002 SPECIES
 
 #### Status
 ACCEPTED

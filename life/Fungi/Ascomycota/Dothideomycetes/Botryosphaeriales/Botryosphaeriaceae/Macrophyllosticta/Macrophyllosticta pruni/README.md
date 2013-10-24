@@ -1,5 +1,4 @@
-Macrophyllosticta pruni Dias & Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta pruni Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoplectania stygia (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pseudoplectania stygia (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

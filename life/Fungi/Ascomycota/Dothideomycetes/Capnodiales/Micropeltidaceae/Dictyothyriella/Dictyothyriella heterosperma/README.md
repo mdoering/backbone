@@ -1,5 +1,4 @@
-Dictyothyriella heterosperma Syd. & P. Syd., 1917 SPECIES
-=======
+# Dictyothyriella heterosperma Syd. & P. Syd., 1917 SPECIES
 
 #### Status
 ACCEPTED

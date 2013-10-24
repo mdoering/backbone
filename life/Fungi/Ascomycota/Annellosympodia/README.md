@@ -1,5 +1,4 @@
-Annellosympodia McTaggart, R.G. Shivas & U. Braun GENUS
-=======
+# Annellosympodia McTaggart, R.G. Shivas & U. Braun GENUS
 
 #### Status
 ACCEPTED

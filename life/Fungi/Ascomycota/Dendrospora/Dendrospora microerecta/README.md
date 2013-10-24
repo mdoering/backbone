@@ -1,5 +1,4 @@
-Dendrospora microerecta ined. SPECIES
-=======
+# Dendrospora microerecta ined. SPECIES
 
 #### Status
 ACCEPTED

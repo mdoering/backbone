@@ -1,5 +1,4 @@
-Splanchnonema horizontale M.E. Barr SPECIES
-=======
+# Splanchnonema horizontale M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

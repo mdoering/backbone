@@ -1,5 +1,4 @@
-Follicucullus Ormiston & Babcock, 1979 GENUS
-=======
+# Follicucullus Ormiston & Babcock, 1979 GENUS
 
 #### Status
 ACCEPTED

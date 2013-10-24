@@ -1,5 +1,4 @@
-Dictyolus peziziformis (Velen.) Pilát SPECIES
-=======
+# Dictyolus peziziformis (Velen.) Pilát SPECIES
 
 #### Status
 ACCEPTED

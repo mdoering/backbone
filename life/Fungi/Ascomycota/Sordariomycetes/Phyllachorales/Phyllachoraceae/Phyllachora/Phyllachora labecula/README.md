@@ -1,5 +1,4 @@
-Phyllachora labecula (Lév.) Cooke SPECIES
-=======
+# Phyllachora labecula (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbum arborescens Sacc. SPECIES
-=======
+# Stilbum arborescens Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Amphisphaerella prinicola (Berk. & M.A. Curtis) Kirschst., 1934 SPECIES
-=======
+# Creosphaeria sassafras (Schwein.) Y.M. Ju, F. San Martín & J.D. Rogers, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 18(4): 306 (1934)
+Mycotaxon 47: 223 (1993)
 
 #### Original name
-Sphaeria prinicola Berk. & M.A. Curtis, 1876
+Sphaeria sassafras Schwein., 1822
 
 ### Remarks
 null

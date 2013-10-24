@@ -1,5 +1,4 @@
-Peziza annulata Holmsk. SPECIES
-=======
+# Peziza annulata Holmsk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium ampullulipedum Speg. SPECIES
-=======
+# Leptothyrium ampullulipedum Speg. SPECIES
 
 #### Status
 ACCEPTED

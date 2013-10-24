@@ -1,5 +1,4 @@
-Plicatosphaera Potter in Baudelot & Gery, 1979 GENUS
-=======
+# Plicatosphaera Potter in Baudelot & Gery, 1979 GENUS
 
 #### Status
 ACCEPTED

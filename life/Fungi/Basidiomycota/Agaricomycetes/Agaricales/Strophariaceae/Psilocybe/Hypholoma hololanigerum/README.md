@@ -1,5 +1,4 @@
-Hypholoma hololanigerum G.F. Atk. SPECIES
-=======
+# Hypholoma hololanigerum G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

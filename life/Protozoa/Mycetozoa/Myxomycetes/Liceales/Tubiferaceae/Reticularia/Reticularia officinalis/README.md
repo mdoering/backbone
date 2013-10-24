@@ -1,5 +1,4 @@
-Reticularia officinalis Baumg. SPECIES
-=======
+# Reticularia officinalis Baumg. SPECIES
 
 #### Status
 ACCEPTED

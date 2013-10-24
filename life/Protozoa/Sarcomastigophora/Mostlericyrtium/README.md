@@ -1,5 +1,4 @@
-Mostlericyrtium Tekin, 1999 GENUS
-=======
+# Mostlericyrtium Tekin, 1999 GENUS
 
 #### Status
 ACCEPTED

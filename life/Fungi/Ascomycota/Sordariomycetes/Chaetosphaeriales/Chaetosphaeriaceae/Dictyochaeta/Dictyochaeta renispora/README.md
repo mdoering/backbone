@@ -1,5 +1,4 @@
-Dictyochaeta renispora Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Dictyochaeta renispora Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

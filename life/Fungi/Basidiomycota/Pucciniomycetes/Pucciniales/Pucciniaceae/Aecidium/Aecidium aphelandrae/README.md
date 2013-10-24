@@ -1,5 +1,4 @@
-Aecidium aphelandrae Henn. SPECIES
-=======
+# Aecidium aphelandrae Henn. SPECIES
 
 #### Status
 ACCEPTED

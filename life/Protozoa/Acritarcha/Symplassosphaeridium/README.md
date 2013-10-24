@@ -1,5 +1,4 @@
-Symplassosphaeridium B.V.Timofeev ex B.V.Timofeev, 1966 GENUS
-=======
+# Symplassosphaeridium B.V.Timofeev ex B.V.Timofeev, 1966 GENUS
 
 #### Status
 ACCEPTED

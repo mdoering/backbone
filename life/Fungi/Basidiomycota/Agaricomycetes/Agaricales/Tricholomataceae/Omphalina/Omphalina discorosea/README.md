@@ -1,5 +1,4 @@
-Omphalina discorosea (Pilát) Herink & Kotl. SPECIES
-=======
+# Omphalina discorosea (Pilát) Herink & Kotl. SPECIES
 
 #### Status
 ACCEPTED

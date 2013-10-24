@@ -1,5 +1,4 @@
-Balansia gigas Racib. SPECIES
-=======
+# Balansia gigas Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma ferruginans Peck SPECIES
-=======
+# Entoloma ferruginans Peck SPECIES
 
 #### Status
 ACCEPTED

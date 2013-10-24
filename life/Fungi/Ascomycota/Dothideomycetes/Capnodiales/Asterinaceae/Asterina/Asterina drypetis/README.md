@@ -1,5 +1,4 @@
-Asterina drypetis R.W. Ryan SPECIES
-=======
+# Asterina drypetis R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

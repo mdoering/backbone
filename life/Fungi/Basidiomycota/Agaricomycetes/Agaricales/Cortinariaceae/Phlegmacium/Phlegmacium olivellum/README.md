@@ -1,5 +1,4 @@
-Phlegmacium olivellum (Rob. Henry) M.M. Moser SPECIES
-=======
+# Phlegmacium olivellum (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

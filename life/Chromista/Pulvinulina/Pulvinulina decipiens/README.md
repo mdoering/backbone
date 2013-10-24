@@ -1,5 +1,4 @@
-Pulvinulina decipiens Heron-Allen & Earland, 1928 SPECIES
-=======
+# Pulvinulina decipiens Heron-Allen & Earland, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalosporium dutertri Richon SPECIES
-=======
+# Cephalosporium dutertri Richon SPECIES
 
 #### Status
 ACCEPTED

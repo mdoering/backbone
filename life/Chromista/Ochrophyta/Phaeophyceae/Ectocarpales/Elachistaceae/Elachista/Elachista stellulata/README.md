@@ -1,5 +1,4 @@
-Elachista stellulata SPECIES
-=======
+# Elachista stellulata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus ellipsoideus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus ellipsoideus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

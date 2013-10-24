@@ -1,5 +1,4 @@
-Sporormia tuberculata Griffiths SPECIES
-=======
+# Sporormia tuberculata Griffiths SPECIES
 
 #### Status
 ACCEPTED

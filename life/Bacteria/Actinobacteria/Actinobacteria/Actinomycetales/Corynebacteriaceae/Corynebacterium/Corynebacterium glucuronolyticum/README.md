@@ -1,5 +1,4 @@
-Corynebacterium glucuronolyticum Funke et al., 1995 SPECIES
-=======
+# Corynebacterium glucuronolyticum Funke et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

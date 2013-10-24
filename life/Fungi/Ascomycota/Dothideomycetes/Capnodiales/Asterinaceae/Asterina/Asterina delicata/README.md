@@ -1,5 +1,4 @@
-Asterina delicata Doidge SPECIES
-=======
+# Asterina delicata Doidge SPECIES
 
 #### Status
 ACCEPTED

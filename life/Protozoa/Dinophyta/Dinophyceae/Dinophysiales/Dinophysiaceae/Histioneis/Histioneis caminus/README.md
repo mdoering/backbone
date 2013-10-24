@@ -1,5 +1,4 @@
-Histioneis caminus Böhm, 1933 SPECIES
-=======
+# Histioneis caminus Böhm, 1933 SPECIES
 
 #### Status
 ACCEPTED

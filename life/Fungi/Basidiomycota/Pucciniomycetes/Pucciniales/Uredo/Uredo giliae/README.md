@@ -1,5 +1,4 @@
-Uredo giliae Lindr. SPECIES
-=======
+# Uredo giliae Lindr. SPECIES
 
 #### Status
 ACCEPTED

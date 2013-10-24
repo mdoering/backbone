@@ -1,5 +1,4 @@
-Daedalea sulphurella Peck SPECIES
-=======
+# Daedalea sulphurella Peck SPECIES
 
 #### Status
 ACCEPTED

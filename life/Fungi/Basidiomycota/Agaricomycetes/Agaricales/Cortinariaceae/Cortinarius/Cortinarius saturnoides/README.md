@@ -1,5 +1,4 @@
-Cortinarius saturnoides Rob. Henry SPECIES
-=======
+# Cortinarius saturnoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

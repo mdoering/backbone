@@ -1,5 +1,4 @@
-Pezizella umbrata Velen. SPECIES
-=======
+# Pezizella umbrata Velen. SPECIES
 
 #### Status
 ACCEPTED

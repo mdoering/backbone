@@ -1,5 +1,4 @@
-Micrhystridium toigae de Quadros, 2002 SPECIES
-=======
+# Micrhystridium toigae de Quadros, 2002 SPECIES
 
 #### Status
 ACCEPTED

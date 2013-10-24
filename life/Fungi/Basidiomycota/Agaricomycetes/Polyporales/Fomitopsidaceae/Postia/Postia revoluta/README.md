@@ -1,5 +1,4 @@
-Postia revoluta (Bres.) SPECIES
-=======
+# Postia revoluta (Bres.) SPECIES
 
 #### Status
 ACCEPTED

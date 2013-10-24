@@ -1,5 +1,4 @@
-Ophiocordyceps koreana (Kobayasi) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps koreana (Kobayasi) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

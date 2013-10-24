@@ -1,5 +1,4 @@
-Volvoamanita austro-olivacea (Raithelh.) Raithelh. SPECIES
-=======
+# Volvoamanita austro-olivacea (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

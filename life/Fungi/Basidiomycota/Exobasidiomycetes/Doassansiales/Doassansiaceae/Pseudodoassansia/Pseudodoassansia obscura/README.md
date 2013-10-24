@@ -1,14 +1,13 @@
-Doassansia obscura Setch., 1892 SPECIES
-=======
+# Pseudodoassansia obscura (Setch.) Vánky, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 26: 16 (1892)
+Sydowia 34: 175 (1981)
 
 #### Original name
 Doassansia obscura Setch., 1892

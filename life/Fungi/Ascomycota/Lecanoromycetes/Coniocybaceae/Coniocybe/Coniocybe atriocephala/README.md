@@ -1,5 +1,4 @@
-Coniocybe atriocephala F. Wilson SPECIES
-=======
+# Coniocybe atriocephala F. Wilson SPECIES
 
 #### Status
 ACCEPTED

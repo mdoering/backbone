@@ -1,5 +1,4 @@
-Cyclodomus Höhn. GENUS
-=======
+# Cyclodomus Höhn. GENUS
 
 #### Status
 ACCEPTED

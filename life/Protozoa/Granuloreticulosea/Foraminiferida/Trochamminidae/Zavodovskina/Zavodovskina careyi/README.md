@@ -1,5 +1,4 @@
-Zavodovskina careyi Brönnimann & Whittaker, 1988 SPECIES
-=======
+# Zavodovskina careyi Brönnimann & Whittaker, 1988 SPECIES
 
 #### Status
 ACCEPTED

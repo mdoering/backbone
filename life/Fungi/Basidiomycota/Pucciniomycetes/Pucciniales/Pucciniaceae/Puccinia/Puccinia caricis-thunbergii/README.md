@@ -1,5 +1,4 @@
-Puccinia caricis-thunbergii Homma SPECIES
-=======
+# Puccinia caricis-thunbergii Homma SPECIES
 
 #### Status
 ACCEPTED

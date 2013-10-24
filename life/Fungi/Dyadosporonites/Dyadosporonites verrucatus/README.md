@@ -1,5 +1,4 @@
-Dyadosporonites verrucatus Ramanujam & Srisailam SPECIES
-=======
+# Dyadosporonites verrucatus Ramanujam & Srisailam SPECIES
 
 #### Status
 ACCEPTED

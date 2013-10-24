@@ -1,5 +1,4 @@
-Sclerophoma salicis Died. SPECIES
-=======
+# Sclerophoma salicis Died. SPECIES
 
 #### Status
 ACCEPTED

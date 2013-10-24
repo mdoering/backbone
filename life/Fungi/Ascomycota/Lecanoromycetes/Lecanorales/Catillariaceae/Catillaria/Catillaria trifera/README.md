@@ -1,5 +1,4 @@
-Catillaria trifera (Vain.) Zahlbr. SPECIES
-=======
+# Catillaria trifera (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

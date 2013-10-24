@@ -1,5 +1,4 @@
-Anellaria firmipes P. Karst. SPECIES
-=======
+# Anellaria firmipes P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gelidibacter algens Bowman et al., 1997 SPECIES
-=======
+# Gelidibacter algens Bowman et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

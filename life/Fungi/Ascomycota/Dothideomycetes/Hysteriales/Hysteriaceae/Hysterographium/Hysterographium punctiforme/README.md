@@ -1,5 +1,4 @@
-Hysterographium punctiforme Pat. SPECIES
-=======
+# Hysterographium punctiforme Pat. SPECIES
 
 #### Status
 ACCEPTED

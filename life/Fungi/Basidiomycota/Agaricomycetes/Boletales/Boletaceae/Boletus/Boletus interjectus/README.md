@@ -1,5 +1,4 @@
-Boletus interjectus Herp. SPECIES
-=======
+# Boletus interjectus Herp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapesia fulgens Hazsl. SPECIES
-=======
+# Tapesia fulgens Hazsl. SPECIES
 
 #### Status
 ACCEPTED

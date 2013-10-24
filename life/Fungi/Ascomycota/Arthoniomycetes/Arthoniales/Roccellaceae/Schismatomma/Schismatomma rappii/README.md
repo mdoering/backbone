@@ -1,14 +1,13 @@
-Schismatomma rappi (Zahlbr.) R.C. Harris SPECIES
-=======
+# Schismatomma rappii (Zahlbr.) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Evansia 5(1): 5 (1988)
 
 #### Original name
 Haematomma rappii Zahlbr.

@@ -1,5 +1,4 @@
-Resinicium confertum Nakasone, 2007 SPECIES
-=======
+# Resinicium confertum Nakasone, 2007 SPECIES
 
 #### Status
 ACCEPTED

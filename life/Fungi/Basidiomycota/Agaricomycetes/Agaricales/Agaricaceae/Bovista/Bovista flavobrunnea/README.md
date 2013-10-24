@@ -1,5 +1,4 @@
-Bovista flavobrunnea Petch SPECIES
-=======
+# Bovista flavobrunnea Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymium nectriiforme Berk. & M.A. Curtis SPECIES
-=======
+# Didymium nectriiforme Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

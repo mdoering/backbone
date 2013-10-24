@@ -1,5 +1,4 @@
-Pyrenopsis riparia (Körb.) Nyl. SPECIES
-=======
+# Pyrenopsis riparia (Körb.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

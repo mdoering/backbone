@@ -1,5 +1,4 @@
-Bulgaria celebica Henn. SPECIES
-=======
+# Bulgaria celebica Henn. SPECIES
 
 #### Status
 ACCEPTED

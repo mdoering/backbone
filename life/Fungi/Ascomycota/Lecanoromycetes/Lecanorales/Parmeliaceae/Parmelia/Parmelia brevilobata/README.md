@@ -1,5 +1,4 @@
-Parmelia brevilobata (Hale) Brusse SPECIES
-=======
+# Parmelia brevilobata (Hale) Brusse SPECIES
 
 #### Status
 ACCEPTED

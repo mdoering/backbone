@@ -1,5 +1,4 @@
-Phaeocryptopus araucariae Butin SPECIES
-=======
+# Phaeocryptopus araucariae Butin SPECIES
 
 #### Status
 ACCEPTED

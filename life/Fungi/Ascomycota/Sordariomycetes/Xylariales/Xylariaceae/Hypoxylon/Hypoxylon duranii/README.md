@@ -1,5 +1,4 @@
-Hypoxylon duranii J.D. Rogers, 1985 SPECIES
-=======
+# Hypoxylon duranii J.D. Rogers, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Geaster striatulus Lloyd SPECIES
-=======
+# Geastrum striatulus Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster striatulus Lloyd
+Geastrum striatulus Lloyd
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Wernerella maheui (Werner) Nav.-Ros., Cl. Roux & Giralt, 1998 SPECIES
-=======
+# Wernerella maheui (Werner) Nav.-Ros., Cl. Roux & Giralt, 1998 SPECIES
 
 #### Status
 ACCEPTED

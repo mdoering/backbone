@@ -1,5 +1,4 @@
-Patellaria subvigilans Müll. Arg. SPECIES
-=======
+# Patellaria subvigilans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora rubeola Hue SPECIES
-=======
+# Lecanora rubeola Hue SPECIES
 
 #### Status
 ACCEPTED

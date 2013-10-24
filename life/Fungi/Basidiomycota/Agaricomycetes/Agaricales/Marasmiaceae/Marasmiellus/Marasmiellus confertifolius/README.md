@@ -1,5 +1,4 @@
-Marasmiellus confertifolius Singer SPECIES
-=======
+# Marasmiellus confertifolius Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus hongoi Wolfe & Bougher SPECIES
-=======
+# Tylopilus hongoi Wolfe & Bougher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces limosinoides Thaxt. SPECIES
-=======
+# Stigmatomyces limosinoides Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaeropsis rugospora Someya, Yaguchi & Udagawa SPECIES
-=======
+# Microsphaeropsis rugospora Someya, Yaguchi & Udagawa SPECIES
 
 #### Status
 ACCEPTED

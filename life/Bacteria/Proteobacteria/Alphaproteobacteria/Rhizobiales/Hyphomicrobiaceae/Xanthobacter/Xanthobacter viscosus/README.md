@@ -1,5 +1,4 @@
-Xanthobacter viscosus Doronina & Trotsenko, 2003 SPECIES
-=======
+# Xanthobacter viscosus Doronina & Trotsenko, 2003 SPECIES
 
 #### Status
 ACCEPTED

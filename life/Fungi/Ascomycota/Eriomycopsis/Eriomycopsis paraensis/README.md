@@ -1,5 +1,4 @@
-Eriomycopsis paraensis Bat. & Peres SPECIES
-=======
+# Eriomycopsis paraensis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclotella plitvicensis Hustedt SPECIES
-=======
+# Cyclotella plitvicensis Hustedt SPECIES
 
 #### Status
 ACCEPTED

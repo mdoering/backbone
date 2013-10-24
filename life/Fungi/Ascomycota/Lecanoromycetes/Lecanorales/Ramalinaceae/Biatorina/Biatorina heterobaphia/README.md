@@ -1,5 +1,4 @@
-Biatorina heterobaphia Anzi SPECIES
-=======
+# Biatorina heterobaphia Anzi SPECIES
 
 #### Status
 ACCEPTED

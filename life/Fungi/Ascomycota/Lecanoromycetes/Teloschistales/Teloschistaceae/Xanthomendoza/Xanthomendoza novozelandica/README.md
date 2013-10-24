@@ -1,5 +1,4 @@
-Xanthomendoza novozelandica (Hillm.) Søchting, Kärnefelt & S. Y. Kondr. SPECIES
-=======
+# Xanthomendoza novozelandica (Hillm.) Søchting, Kärnefelt & S. Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

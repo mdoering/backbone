@@ -1,5 +1,4 @@
-Saccobolus michiganensis O'Donnell SPECIES
-=======
+# Saccobolus michiganensis O'Donnell SPECIES
 
 #### Status
 ACCEPTED

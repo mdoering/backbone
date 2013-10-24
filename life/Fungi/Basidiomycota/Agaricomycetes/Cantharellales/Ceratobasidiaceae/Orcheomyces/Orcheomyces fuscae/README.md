@@ -1,5 +1,4 @@
-Orcheomyces fuscae Burgeff SPECIES
-=======
+# Orcheomyces fuscae Burgeff SPECIES
 
 #### Status
 ACCEPTED

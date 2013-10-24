@@ -1,5 +1,4 @@
-Strophomorpha Miller & Eames, 1982 GENUS
-=======
+# Strophomorpha Miller & Eames, 1982 GENUS
 
 #### Status
 ACCEPTED

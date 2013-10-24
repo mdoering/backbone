@@ -1,5 +1,4 @@
-Clypeococcum bisporum Zhurb. SPECIES
-=======
+# Clypeococcum bisporum Zhurb. SPECIES
 
 #### Status
 ACCEPTED

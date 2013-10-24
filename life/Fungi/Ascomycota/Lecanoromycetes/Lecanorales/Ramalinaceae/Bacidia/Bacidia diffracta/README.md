@@ -1,5 +1,4 @@
-Bacidia diffracta S. Ekman SPECIES
-=======
+# Bacidia diffracta S. Ekman SPECIES
 
 #### Status
 ACCEPTED

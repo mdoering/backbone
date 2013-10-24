@@ -1,5 +1,4 @@
-Fusicladiopsis GENUS
-=======
+# Fusicladiopsis GENUS
 
 #### Status
 ACCEPTED

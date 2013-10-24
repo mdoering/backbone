@@ -1,14 +1,13 @@
-Sibirina gamsii D.J. Gray & Morgan-Jones, 1980 SPECIES
-=======
+# Cladobotryum gamsii (D.J. Gray & Morgan-Jones) K. Põldmaa, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 10(2): 396 (1980)
+Mycologia 95(5): 929 (2003)
 
 #### Original name
 Sibirina gamsii D.J. Gray & Morgan-Jones, 1980

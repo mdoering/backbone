@@ -1,5 +1,4 @@
-Tricholoma oreades Murrill SPECIES
-=======
+# Tricholoma oreades Murrill SPECIES
 
 #### Status
 ACCEPTED

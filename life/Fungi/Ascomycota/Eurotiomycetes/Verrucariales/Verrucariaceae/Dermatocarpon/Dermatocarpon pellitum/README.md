@@ -1,5 +1,4 @@
-Dermatocarpon pellitum (Poelt & V. Wirth) Breuss SPECIES
-=======
+# Dermatocarpon pellitum (Poelt & V. Wirth) Breuss SPECIES
 
 #### Status
 ACCEPTED

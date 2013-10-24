@@ -1,14 +1,13 @@
-Sporidesmium cambrense M.B. Ellis, 1958 SPECIES
-=======
+# Repetophragma cambrense (M.B. Ellis) McKenzie, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 70: 44 (1958)
+Mycotaxon 56: 22 (1995)
 
 #### Original name
 Sporidesmium cambrense M.B. Ellis, 1958

@@ -1,14 +1,13 @@
-Reophanus Saidova, 1970 GENUS
-=======
+# Hormosinella Shchedrina, 1969 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Vop. Mikropaleont. 11: 170.
 
 #### Original name
 null

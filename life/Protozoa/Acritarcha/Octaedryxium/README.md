@@ -1,5 +1,4 @@
-Octaedryxium V.A.Rudavskaja, 1973 GENUS
-=======
+# Octaedryxium V.A.Rudavskaja, 1973 GENUS
 
 #### Status
 ACCEPTED

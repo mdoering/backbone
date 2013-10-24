@@ -1,5 +1,4 @@
-Helminthosporium parvulum Cooke SPECIES
-=======
+# Helminthosporium parvulum Cooke SPECIES
 
 #### Status
 ACCEPTED

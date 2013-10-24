@@ -1,5 +1,4 @@
-Sphaeria subcongregata Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria subcongregata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria junci-glauci Unamuno SPECIES
-=======
+# Leptosphaeria junci-glauci Unamuno SPECIES
 
 #### Status
 ACCEPTED

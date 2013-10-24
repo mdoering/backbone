@@ -1,5 +1,4 @@
-Micrhystridium tubulispinosum de Coninck, 1975 SPECIES
-=======
+# Micrhystridium tubulispinosum de Coninck, 1975 SPECIES
 
 #### Status
 ACCEPTED

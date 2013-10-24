@@ -1,5 +1,4 @@
-Cytospora shinhagadensis V.G. Rao & Anahosur SPECIES
-=======
+# Cytospora shinhagadensis V.G. Rao & Anahosur SPECIES
 
 #### Status
 ACCEPTED

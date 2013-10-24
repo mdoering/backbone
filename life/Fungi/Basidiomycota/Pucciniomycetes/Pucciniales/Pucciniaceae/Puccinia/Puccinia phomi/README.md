@@ -1,5 +1,4 @@
-Puccinia phomi (J.F. Gmel.) Wettst. SPECIES
-=======
+# Puccinia phomi (J.F. Gmel.) Wettst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecanora perminuta Juss. ex Müll. Arg. SPECIES
-=======
+# Xylographa perminuta (Juss. ex Müll. Arg.) R.W. Rogers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 1: 39 (1893)
+Muelleria 5(1): 33 (1982)
 
 #### Original name
 Lecanora perminuta Juss. ex Müll. Arg.

@@ -1,5 +1,4 @@
-Polyentactiniidae Nazarov, 1975 FAMILY
-=======
+# Polyentactiniidae Nazarov, 1975 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Omphalia rusticus (Fr.) Quél. SPECIES
-=======
+# Arrhenia rustica (Fr.) Redhead, Lutzoni, Moncalvo & Vilgalys, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 83: 48 (2002)
 
 #### Original name
 Agaricus rusticus Fr., 1874

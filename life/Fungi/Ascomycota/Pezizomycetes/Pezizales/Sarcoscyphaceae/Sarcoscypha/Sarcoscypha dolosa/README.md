@@ -1,5 +1,4 @@
-Sarcoscypha dolosa (O. Weberb.) Sacc. SPECIES
-=======
+# Sarcoscypha dolosa (O. Weberb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

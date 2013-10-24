@@ -1,5 +1,4 @@
-Ramularia schwarziana (Magnus) Gunnerb. SPECIES
-=======
+# Ramularia schwarziana (Magnus) Gunnerb. SPECIES
 
 #### Status
 ACCEPTED

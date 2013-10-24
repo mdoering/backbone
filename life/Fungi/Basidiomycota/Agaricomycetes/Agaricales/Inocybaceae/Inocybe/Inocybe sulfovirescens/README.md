@@ -1,5 +1,4 @@
-Inocybe sulfovirescens Poirier SPECIES
-=======
+# Inocybe sulfovirescens Poirier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatidium GENUS
-=======
+# Stigmatidium GENUS
 
 #### Status
 ACCEPTED

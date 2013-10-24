@@ -1,5 +1,4 @@
-Asterina atalantiae Hosag. & D.K. Agarwal SPECIES
-=======
+# Asterina atalantiae Hosag. & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

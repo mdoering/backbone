@@ -1,5 +1,4 @@
-Colletotrichum cinchonae Koord. SPECIES
-=======
+# Colletotrichum cinchonae Koord. SPECIES
 
 #### Status
 ACCEPTED

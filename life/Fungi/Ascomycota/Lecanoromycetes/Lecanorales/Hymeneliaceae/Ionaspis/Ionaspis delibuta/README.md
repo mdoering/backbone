@@ -1,5 +1,4 @@
-Ionaspis delibuta (Ach.) Hue SPECIES
-=======
+# Ionaspis delibuta (Ach.) Hue SPECIES
 
 #### Status
 ACCEPTED

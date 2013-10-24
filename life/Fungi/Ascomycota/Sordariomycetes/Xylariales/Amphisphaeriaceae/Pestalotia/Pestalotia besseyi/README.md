@@ -1,5 +1,4 @@
-Pestalotia besseyi Guba SPECIES
-=======
+# Pestalotia besseyi Guba SPECIES
 
 #### Status
 ACCEPTED

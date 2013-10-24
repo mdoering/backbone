@@ -1,5 +1,4 @@
-Sarcoscypha pseudomelastoma Henn. SPECIES
-=======
+# Sarcoscypha pseudomelastoma Henn. SPECIES
 
 #### Status
 ACCEPTED

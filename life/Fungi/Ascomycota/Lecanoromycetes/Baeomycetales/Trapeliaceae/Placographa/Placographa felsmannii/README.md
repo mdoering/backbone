@@ -1,5 +1,4 @@
-Placographa felsmannii (Stein) Sacc. SPECIES
-=======
+# Placographa felsmannii (Stein) Sacc. SPECIES
 
 #### Status
 ACCEPTED

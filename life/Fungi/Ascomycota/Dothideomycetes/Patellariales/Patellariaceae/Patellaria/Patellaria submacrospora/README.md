@@ -1,5 +1,4 @@
-Patellaria submacrospora Rehm SPECIES
-=======
+# Patellaria submacrospora Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta humulina Sacc. & P. Syd. SPECIES
-=======
+# Phyllosticta humulina Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

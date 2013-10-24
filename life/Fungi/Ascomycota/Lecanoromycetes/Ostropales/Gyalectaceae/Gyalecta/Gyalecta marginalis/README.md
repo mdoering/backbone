@@ -1,5 +1,4 @@
-Gyalecta marginalis Vain. SPECIES
-=======
+# Gyalecta marginalis Vain. SPECIES
 
 #### Status
 ACCEPTED

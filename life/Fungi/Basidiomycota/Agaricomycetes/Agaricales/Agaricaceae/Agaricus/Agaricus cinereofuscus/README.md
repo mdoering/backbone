@@ -1,5 +1,4 @@
-Agaricus cinereofuscus Britzelm. SPECIES
-=======
+# Agaricus cinereofuscus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

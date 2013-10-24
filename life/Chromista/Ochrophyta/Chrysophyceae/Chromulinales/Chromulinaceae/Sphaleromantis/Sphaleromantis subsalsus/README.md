@@ -1,5 +1,4 @@
-Sphaleromantis subsalsus SPECIES
-=======
+# Sphaleromantis subsalsus SPECIES
 
 #### Status
 ACCEPTED

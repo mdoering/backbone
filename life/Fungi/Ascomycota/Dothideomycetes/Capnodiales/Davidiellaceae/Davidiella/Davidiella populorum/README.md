@@ -1,17 +1,16 @@
-Septoria musiva Peck, 1884 SPECIES
-=======
+# Davidiella populorum (G.E. Thomps.) Aptroot, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 35: 138 (1884)
+Mycosphaerella and its anamorphs: 2. Conspectus of Mycosphaerella 161 (2006)
 
 #### Original name
-Septoria musiva Peck, 1884
+Mycosphaerella populorum G.E. Thomps., 1941
 
 ### Remarks
 null

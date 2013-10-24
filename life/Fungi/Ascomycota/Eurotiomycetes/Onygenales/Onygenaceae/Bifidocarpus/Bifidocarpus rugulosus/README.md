@@ -1,5 +1,4 @@
-Bifidocarpus rugulosus Udagawa & Uchiy., 2000 SPECIES
-=======
+# Bifidocarpus rugulosus Udagawa & Uchiy., 2000 SPECIES
 
 #### Status
 ACCEPTED

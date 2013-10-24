@@ -1,5 +1,4 @@
-Chamaeceras cubensis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras cubensis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

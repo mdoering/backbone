@@ -1,5 +1,4 @@
-Spirillina dimidiata Wiesner, 1931 SPECIES
-=======
+# Spirillina dimidiata Wiesner, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypethelium sphaerioides Mont. SPECIES
-=======
+# Trypethelium sphaerioides Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia ochropulchra (Hale) Brusse SPECIES
-=======
+# Parmelia ochropulchra (Hale) Brusse SPECIES
 
 #### Status
 ACCEPTED

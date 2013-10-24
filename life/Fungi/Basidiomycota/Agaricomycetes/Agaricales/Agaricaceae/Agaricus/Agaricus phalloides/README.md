@@ -1,5 +1,4 @@
-Agaricus phalloides Bull. SPECIES
-=======
+# Agaricus phalloides Bull. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca curtipes (Fr.) Bon SPECIES
-=======
+# Melanoleuca curtipes (Fr.) Bon SPECIES
 
 #### Status
 ACCEPTED

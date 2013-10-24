@@ -1,5 +1,4 @@
-Conidiobolus stromoideus Sriniv. & Thirum., 1963 SPECIES
-=======
+# Conidiobolus stromoideus Sriniv. & Thirum., 1963 SPECIES
 
 #### Status
 ACCEPTED

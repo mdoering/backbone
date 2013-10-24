@@ -1,5 +1,4 @@
-Spegazzinia ornata Sacc., 1880 SPECIES
-=======
+# Spegazzinia ornata Sacc., 1880 SPECIES
 
 #### Status
 ACCEPTED

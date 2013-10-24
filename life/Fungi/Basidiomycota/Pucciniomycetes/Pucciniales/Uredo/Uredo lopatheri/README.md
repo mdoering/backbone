@@ -1,5 +1,4 @@
-Uredo lopatheri Petch SPECIES
-=======
+# Uredo lopatheri Petch SPECIES
 
 #### Status
 ACCEPTED

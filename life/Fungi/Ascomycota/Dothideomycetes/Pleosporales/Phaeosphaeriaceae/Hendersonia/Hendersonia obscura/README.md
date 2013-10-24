@@ -1,5 +1,4 @@
-Hendersonia obscura Pass. SPECIES
-=======
+# Hendersonia obscura Pass. SPECIES
 
 #### Status
 ACCEPTED

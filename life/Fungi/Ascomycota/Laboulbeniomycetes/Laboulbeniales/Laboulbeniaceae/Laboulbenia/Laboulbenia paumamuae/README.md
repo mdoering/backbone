@@ -1,5 +1,4 @@
-Laboulbenia paumamuae Speg. SPECIES
-=======
+# Laboulbenia paumamuae Speg. SPECIES
 
 #### Status
 ACCEPTED

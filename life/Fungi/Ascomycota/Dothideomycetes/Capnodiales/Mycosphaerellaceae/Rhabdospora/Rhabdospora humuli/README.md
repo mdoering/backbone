@@ -1,5 +1,4 @@
-Rhabdospora humuli Hollós SPECIES
-=======
+# Rhabdospora humuli Hollós SPECIES
 
 #### Status
 ACCEPTED

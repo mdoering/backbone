@@ -1,5 +1,4 @@
-Dictyothyrium combreti Hansf. SPECIES
-=======
+# Dictyothyrium combreti Hansf. SPECIES
 
 #### Status
 ACCEPTED

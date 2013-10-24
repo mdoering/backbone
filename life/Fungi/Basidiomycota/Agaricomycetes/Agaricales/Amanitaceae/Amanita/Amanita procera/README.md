@@ -1,5 +1,4 @@
-Amanita procera Pers. SPECIES
-=======
+# Amanita procera Pers. SPECIES
 
 #### Status
 ACCEPTED

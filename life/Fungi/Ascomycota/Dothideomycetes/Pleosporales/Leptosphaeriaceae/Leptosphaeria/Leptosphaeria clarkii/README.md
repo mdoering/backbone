@@ -1,5 +1,4 @@
-Leptosphaeria clarkii D. Hawksw., 1980 SPECIES
-=======
+# Leptosphaeria clarkii D. Hawksw., 1980 SPECIES
 
 #### Status
 ACCEPTED

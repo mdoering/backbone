@@ -1,5 +1,4 @@
-Sistotrema heteronemum (J. Erikss.) Å. Strid, 1975 SPECIES
-=======
+# Sistotrema heteronemum (J. Erikss.) Å. Strid, 1975 SPECIES
 
 #### Status
 ACCEPTED

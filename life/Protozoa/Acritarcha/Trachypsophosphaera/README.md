@@ -1,5 +1,4 @@
-Trachypsophosphaera Naumova, 1964 GENUS
-=======
+# Trachypsophosphaera Naumova, 1964 GENUS
 
 #### Status
 ACCEPTED

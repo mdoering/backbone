@@ -1,5 +1,4 @@
-Cortinarius epileucus M.M. Moser SPECIES
-=======
+# Cortinarius epileucus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

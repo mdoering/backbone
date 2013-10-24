@@ -1,5 +1,4 @@
-Peniculida Fauré-Fremiet in Corliss, 1956 ORDER
-=======
+# Peniculida Fauré-Fremiet in Corliss, 1956 ORDER
 
 #### Status
 ACCEPTED

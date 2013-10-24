@@ -1,5 +1,4 @@
-Diplodia bambusae Ellis & Langl. SPECIES
-=======
+# Diplodia bambusae Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

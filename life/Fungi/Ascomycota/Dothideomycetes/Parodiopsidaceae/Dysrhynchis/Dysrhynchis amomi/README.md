@@ -1,5 +1,4 @@
-Dysrhynchis amomi (Berk. & Broome) Arx SPECIES
-=======
+# Dysrhynchis amomi (Berk. & Broome) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina micropeltis Berk. & Broome SPECIES
-=======
+# Asterina micropeltis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

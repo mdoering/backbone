@@ -1,5 +1,4 @@
-Endocarpon nantianum H. Olivier SPECIES
-=======
+# Endocarpon nantianum H. Olivier SPECIES
 
 #### Status
 ACCEPTED

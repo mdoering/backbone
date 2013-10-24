@@ -1,8 +1,7 @@
-Melosira dendrophila (Ehrenberg) R. Ross & Sims SPECIES
-=======
+# Orthoseira dendrophila (Ehrenberg) R.M. Crawford, E.Y. Haw. & M.G. Kelly SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

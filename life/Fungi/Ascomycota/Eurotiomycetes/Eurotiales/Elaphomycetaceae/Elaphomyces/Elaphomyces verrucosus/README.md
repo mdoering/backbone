@@ -1,5 +1,4 @@
-Elaphomyces verrucosus C.W. Dodge SPECIES
-=======
+# Elaphomyces verrucosus C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

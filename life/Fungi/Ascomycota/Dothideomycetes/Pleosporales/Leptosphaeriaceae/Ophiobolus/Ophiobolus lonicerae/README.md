@@ -1,5 +1,4 @@
-Ophiobolus lonicerae Fabre SPECIES
-=======
+# Ophiobolus lonicerae Fabre SPECIES
 
 #### Status
 ACCEPTED

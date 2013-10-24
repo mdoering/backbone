@@ -1,5 +1,4 @@
-Cercospora crossandrae Jagan., Palan. & Narayanas. SPECIES
-=======
+# Cercospora crossandrae Jagan., Palan. & Narayanas. SPECIES
 
 #### Status
 ACCEPTED

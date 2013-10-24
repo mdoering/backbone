@@ -1,5 +1,4 @@
-Parmelia rosulata SPECIES
-=======
+# Parmelia rosulata SPECIES
 
 #### Status
 ACCEPTED

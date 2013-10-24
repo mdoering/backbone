@@ -1,5 +1,4 @@
-Lecanora greschikiana Motyka SPECIES
-=======
+# Lecanora greschikiana Motyka SPECIES
 
 #### Status
 ACCEPTED

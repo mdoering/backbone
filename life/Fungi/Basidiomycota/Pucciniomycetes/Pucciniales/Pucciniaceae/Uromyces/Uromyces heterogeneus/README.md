@@ -1,5 +1,4 @@
-Uromyces heterogeneus Cooke SPECIES
-=======
+# Uromyces heterogeneus Cooke SPECIES
 
 #### Status
 ACCEPTED

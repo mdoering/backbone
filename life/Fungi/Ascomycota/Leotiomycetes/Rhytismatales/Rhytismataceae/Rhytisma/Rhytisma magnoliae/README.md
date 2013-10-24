@@ -1,5 +1,4 @@
-Rhytisma magnoliae Schwein. SPECIES
-=======
+# Rhytisma magnoliae Schwein. SPECIES
 
 #### Status
 ACCEPTED

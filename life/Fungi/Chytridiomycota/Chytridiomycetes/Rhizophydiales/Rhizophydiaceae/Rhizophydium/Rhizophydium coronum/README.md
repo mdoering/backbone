@@ -1,5 +1,4 @@
-Rhizophydium coronum A.M. Hanson, 1944 SPECIES
-=======
+# Rhizophydium coronum A.M. Hanson, 1944 SPECIES
 
 #### Status
 ACCEPTED

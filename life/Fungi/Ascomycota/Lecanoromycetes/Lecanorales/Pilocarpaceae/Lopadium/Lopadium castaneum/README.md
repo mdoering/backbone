@@ -1,5 +1,4 @@
-Lopadium castaneum (Meyen & Flot.) Riddle SPECIES
-=======
+# Lopadium castaneum (Meyen & Flot.) Riddle SPECIES
 
 #### Status
 ACCEPTED

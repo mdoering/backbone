@@ -1,14 +1,13 @@
-Nectria longiasca (Möller) E. Müll., 1962 SPECIES
-=======
+# Calostilbe longiasca (Möller) Sacc. & P. Syd., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 11(2): 636 (1962)
+Syll. fung. (Abellini) 16: 591 (1902)
 
 #### Original name
 Sphaerostilbe longiasca Möller, 1901

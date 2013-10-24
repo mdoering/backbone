@@ -1,5 +1,4 @@
-Euglenopsis Klebs, 1892 GENUS
-=======
+# Euglenopsis Klebs, 1892 GENUS
 
 #### Status
 ACCEPTED

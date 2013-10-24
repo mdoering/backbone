@@ -1,5 +1,4 @@
-Mycena generosa Maas Geest. & de Meijer SPECIES
-=======
+# Mycena generosa Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

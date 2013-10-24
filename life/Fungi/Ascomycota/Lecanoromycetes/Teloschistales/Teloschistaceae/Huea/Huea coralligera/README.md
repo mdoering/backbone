@@ -1,5 +1,4 @@
-Huea coralligera (Hue) C.W. Dodge & G.E. Baker SPECIES
-=======
+# Huea coralligera (Hue) C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

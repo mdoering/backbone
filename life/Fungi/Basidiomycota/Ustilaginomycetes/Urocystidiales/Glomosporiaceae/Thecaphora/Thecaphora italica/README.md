@@ -1,5 +1,4 @@
-Thecaphora italica M. Lutz & Vánky SPECIES
-=======
+# Thecaphora italica M. Lutz & Vánky SPECIES
 
 #### Status
 ACCEPTED

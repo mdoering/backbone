@@ -1,5 +1,4 @@
-Anthostomella coffeae Delacr. SPECIES
-=======
+# Anthostomella coffeae Delacr. SPECIES
 
 #### Status
 ACCEPTED

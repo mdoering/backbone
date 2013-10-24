@@ -1,5 +1,4 @@
-Verrucaria chlorotica Hepp SPECIES
-=======
+# Verrucaria chlorotica Hepp SPECIES
 
 #### Status
 ACCEPTED

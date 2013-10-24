@@ -1,8 +1,7 @@
-Myxosarcina spectabilis var. decolorata Varma & Mitra VARIETY
-=======
+# Myxosarcina decolorata (Varma & Mitra) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Isaria cosmopsaltriae Yasuda SPECIES
-=======
+# Isaria cosmopsaltriae Yasuda SPECIES
 
 #### Status
 ACCEPTED

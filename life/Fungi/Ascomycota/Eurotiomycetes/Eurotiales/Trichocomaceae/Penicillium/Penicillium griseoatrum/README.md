@@ -1,5 +1,4 @@
-Penicillium griseoatrum Biourge SPECIES
-=======
+# Penicillium griseoatrum Biourge SPECIES
 
 #### Status
 ACCEPTED

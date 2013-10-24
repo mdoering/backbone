@@ -1,5 +1,4 @@
-Guignardia psidii Ullasa & Rawal, 1984 SPECIES
-=======
+# Guignardia psidii Ullasa & Rawal, 1984 SPECIES
 
 #### Status
 ACCEPTED

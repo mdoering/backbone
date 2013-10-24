@@ -1,5 +1,4 @@
-Omphalia arfakensis Ramsb. SPECIES
-=======
+# Omphalia arfakensis Ramsb. SPECIES
 
 #### Status
 ACCEPTED

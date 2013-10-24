@@ -1,5 +1,4 @@
-Nectria simillima Rehm SPECIES
-=======
+# Nectria simillima Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Mesospora vanbosseae Børgesen, 1924 SPECIES
-=======
+# Hapalospongidion vanbosseae (Børgesen) D.León-Alvarez & J.González-González, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

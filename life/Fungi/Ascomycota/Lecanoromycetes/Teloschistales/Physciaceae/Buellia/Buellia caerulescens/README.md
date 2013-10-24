@@ -1,5 +1,4 @@
-Buellia caerulescens H. Magn. SPECIES
-=======
+# Buellia caerulescens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

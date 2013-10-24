@@ -1,5 +1,4 @@
-Microthelia rhytidosperma (Speg.) Kuntze SPECIES
-=======
+# Microthelia rhytidosperma (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

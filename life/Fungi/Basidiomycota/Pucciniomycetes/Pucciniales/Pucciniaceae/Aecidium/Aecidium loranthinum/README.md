@@ -1,5 +1,4 @@
-Aecidium loranthinum (Pass.) Canonaco SPECIES
-=======
+# Aecidium loranthinum (Pass.) Canonaco SPECIES
 
 #### Status
 ACCEPTED

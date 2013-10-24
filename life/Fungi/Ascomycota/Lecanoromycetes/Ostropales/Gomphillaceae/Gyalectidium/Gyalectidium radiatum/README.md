@@ -1,5 +1,4 @@
-Gyalectidium radiatum Lücking, G. Thor & Tat. Matsumoto SPECIES
-=======
+# Gyalectidium radiatum Lücking, G. Thor & Tat. Matsumoto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia albispora Y. Ono & Kakish. SPECIES
-=======
+# Puccinia albispora Y. Ono & Kakish. SPECIES
 
 #### Status
 ACCEPTED

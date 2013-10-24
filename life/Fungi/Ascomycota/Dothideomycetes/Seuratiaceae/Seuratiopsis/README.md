@@ -1,5 +1,4 @@
-Seuratiopsis Woron. GENUS
-=======
+# Seuratiopsis Woron. GENUS
 
 #### Status
 ACCEPTED

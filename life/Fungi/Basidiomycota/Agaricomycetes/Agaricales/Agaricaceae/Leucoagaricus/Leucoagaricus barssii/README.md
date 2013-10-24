@@ -1,17 +1,16 @@
-Leucoagaricus macrorhizus var. macrorhizus VARIETY
-=======
+# Leucoagaricus barssii (Zeller) Vellinga, 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 13: 344 (1968)
+Mycotaxon 76: 431 (2000)
 
 #### Original name
-Leucoagaricus macrorhizus var. macrorhizus
+Lepiota barssii Zeller, 1934
 
 ### Remarks
 null

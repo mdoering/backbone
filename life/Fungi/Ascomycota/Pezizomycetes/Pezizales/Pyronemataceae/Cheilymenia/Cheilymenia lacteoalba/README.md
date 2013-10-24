@@ -1,5 +1,4 @@
-Cheilymenia lacteoalba Arnolds & J. Moravec SPECIES
-=======
+# Cheilymenia lacteoalba Arnolds & J. Moravec SPECIES
 
 #### Status
 ACCEPTED

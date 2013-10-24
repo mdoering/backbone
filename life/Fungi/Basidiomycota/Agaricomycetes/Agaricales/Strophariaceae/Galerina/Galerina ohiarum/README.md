@@ -1,5 +1,4 @@
-Galerina ohiarum E. Horak & Desjardin SPECIES
-=======
+# Galerina ohiarum E. Horak & Desjardin SPECIES
 
 #### Status
 ACCEPTED

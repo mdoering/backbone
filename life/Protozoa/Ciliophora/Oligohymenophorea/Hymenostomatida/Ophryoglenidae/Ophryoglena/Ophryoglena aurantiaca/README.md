@@ -1,5 +1,4 @@
-Ophryoglena aurantiaca Ehr. SPECIES
-=======
+# Ophryoglena aurantiaca Ehr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina nyanzae Hansf., 1938 SPECIES
-=======
+# Asterina nyanzae Hansf., 1938 SPECIES
 
 #### Status
 ACCEPTED

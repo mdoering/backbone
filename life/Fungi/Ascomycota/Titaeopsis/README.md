@@ -1,5 +1,4 @@
-Titaeopsis B. Sutton & Deighton GENUS
-=======
+# Titaeopsis B. Sutton & Deighton GENUS
 
 #### Status
 ACCEPTED

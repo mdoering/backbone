@@ -1,5 +1,4 @@
-Squamarina poeltii Vänskä SPECIES
-=======
+# Squamarina poeltii Vänskä SPECIES
 
 #### Status
 ACCEPTED

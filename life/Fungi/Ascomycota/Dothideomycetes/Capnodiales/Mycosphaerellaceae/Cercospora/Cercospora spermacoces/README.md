@@ -1,5 +1,4 @@
-Cercospora spermacoces Thirum. & Govindu SPECIES
-=======
+# Cercospora spermacoces Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

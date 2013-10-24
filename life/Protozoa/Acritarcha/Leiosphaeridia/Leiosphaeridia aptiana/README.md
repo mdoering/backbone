@@ -1,5 +1,4 @@
-Leiosphaeridia aptiana Eisenack, 1958 SPECIES
-=======
+# Leiosphaeridia aptiana Eisenack, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthothelium picilum A. Massal. SPECIES
-=======
+# Arthothelium picilum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

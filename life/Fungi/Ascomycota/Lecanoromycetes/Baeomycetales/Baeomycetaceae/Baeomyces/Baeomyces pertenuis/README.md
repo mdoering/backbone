@@ -1,5 +1,4 @@
-Baeomyces pertenuis Stirt. SPECIES
-=======
+# Baeomyces pertenuis Stirt. SPECIES
 
 #### Status
 ACCEPTED

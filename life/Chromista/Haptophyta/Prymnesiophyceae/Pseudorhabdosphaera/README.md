@@ -1,5 +1,4 @@
-Pseudorhabdosphaera Lecal & Bernheim, 1960 GENUS
-=======
+# Pseudorhabdosphaera Lecal & Bernheim, 1960 GENUS
 
 #### Status
 ACCEPTED

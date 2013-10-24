@@ -1,5 +1,4 @@
-Leptostroma rhuinum Schwein. SPECIES
-=======
+# Leptostroma rhuinum Schwein. SPECIES
 
 #### Status
 ACCEPTED

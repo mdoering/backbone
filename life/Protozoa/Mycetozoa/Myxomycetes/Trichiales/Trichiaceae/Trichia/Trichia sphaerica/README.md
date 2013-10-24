@@ -1,5 +1,4 @@
-Trichia sphaerica Trentep. SPECIES
-=======
+# Trichia sphaerica Trentep. SPECIES
 
 #### Status
 ACCEPTED

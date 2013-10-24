@@ -1,5 +1,4 @@
-Gloeosporium ginkgonis Negru SPECIES
-=======
+# Gloeosporium ginkgonis Negru SPECIES
 
 #### Status
 ACCEPTED

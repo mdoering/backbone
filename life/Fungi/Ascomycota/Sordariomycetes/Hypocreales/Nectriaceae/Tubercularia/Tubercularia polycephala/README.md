@@ -1,5 +1,4 @@
-Tubercularia polycephala Lév. SPECIES
-=======
+# Tubercularia polycephala Lév. SPECIES
 
 #### Status
 ACCEPTED

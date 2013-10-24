@@ -1,5 +1,4 @@
-Isthmia nervosa Kützing, 1844 SPECIES
-=======
+# Isthmia nervosa Kützing, 1844 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria submaculans L. Holm, 1957 SPECIES
-=======
+# Leptosphaeria submaculans L. Holm, 1957 SPECIES
 
 #### Status
 ACCEPTED

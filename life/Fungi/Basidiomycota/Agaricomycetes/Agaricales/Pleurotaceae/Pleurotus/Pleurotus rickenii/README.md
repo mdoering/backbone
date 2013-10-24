@@ -1,5 +1,4 @@
-Pleurotus rickenii Kühner SPECIES
-=======
+# Pleurotus rickenii Kühner SPECIES
 
 #### Status
 ACCEPTED

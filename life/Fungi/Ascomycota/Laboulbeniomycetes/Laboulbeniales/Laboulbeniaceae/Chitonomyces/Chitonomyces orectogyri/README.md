@@ -1,5 +1,4 @@
-Chitonomyces orectogyri Thaxt. SPECIES
-=======
+# Chitonomyces orectogyri Thaxt. SPECIES
 
 #### Status
 ACCEPTED

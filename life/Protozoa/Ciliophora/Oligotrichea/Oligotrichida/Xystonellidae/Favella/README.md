@@ -1,5 +1,4 @@
-Favella Jörgensen, 1925 GENUS
-=======
+# Favella Jörgensen, 1925 GENUS
 
 #### Status
 ACCEPTED

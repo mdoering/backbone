@@ -1,5 +1,4 @@
-Dermomycoides beccarii Granata, 1919 SPECIES
-=======
+# Dermomycoides beccarii Granata, 1919 SPECIES
 
 #### Status
 ACCEPTED

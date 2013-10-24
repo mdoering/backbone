@@ -1,5 +1,4 @@
-Omphalia typhae Schweers SPECIES
-=======
+# Omphalia typhae Schweers SPECIES
 
 #### Status
 ACCEPTED

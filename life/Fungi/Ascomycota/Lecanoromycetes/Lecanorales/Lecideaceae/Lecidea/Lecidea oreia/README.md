@@ -1,5 +1,4 @@
-Lecidea oreia Stizenb. SPECIES
-=======
+# Lecidea oreia Stizenb. SPECIES
 
 #### Status
 ACCEPTED

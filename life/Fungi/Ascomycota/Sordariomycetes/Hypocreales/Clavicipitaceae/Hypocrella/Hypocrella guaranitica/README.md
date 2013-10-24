@@ -1,5 +1,4 @@
-Hypocrella guaranitica Speg. SPECIES
-=======
+# Hypocrella guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

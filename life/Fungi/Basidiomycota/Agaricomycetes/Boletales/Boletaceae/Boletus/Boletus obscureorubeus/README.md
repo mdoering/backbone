@@ -1,5 +1,4 @@
-Boletus obscureorubeus T.H. Li & Watling SPECIES
-=======
+# Boletus obscureorubeus T.H. Li & Watling SPECIES
 
 #### Status
 ACCEPTED

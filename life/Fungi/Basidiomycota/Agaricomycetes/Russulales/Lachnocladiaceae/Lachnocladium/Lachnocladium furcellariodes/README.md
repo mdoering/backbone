@@ -1,5 +1,4 @@
-Lachnocladium furcellariodes Henn. SPECIES
-=======
+# Lachnocladium furcellariodes Henn. SPECIES
 
 #### Status
 ACCEPTED

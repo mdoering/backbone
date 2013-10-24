@@ -1,5 +1,4 @@
-Laboulbenia palmella Thaxt. SPECIES
-=======
+# Laboulbenia palmella Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoaciella flavomarginata Hjortstam, 1993 SPECIES
-=======
+# Mycoaciella flavomarginata Hjortstam, 1993 SPECIES
 
 #### Status
 ACCEPTED

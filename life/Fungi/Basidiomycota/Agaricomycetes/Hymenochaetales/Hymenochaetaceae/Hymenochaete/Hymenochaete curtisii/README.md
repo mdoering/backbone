@@ -1,14 +1,13 @@
-Stereum curtisii Berk., 1873 SPECIES
-=======
+# Hymenochaete curtisii (Berk.) Morgan, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 1(no. 11): 164 (1873)
+J. Cincinnati Soc. Nat. Hist. 10: 197 (1888)
 
 #### Original name
 Stereum curtisii Berk., 1873

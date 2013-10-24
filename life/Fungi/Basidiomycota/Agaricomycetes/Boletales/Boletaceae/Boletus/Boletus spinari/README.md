@@ -1,5 +1,4 @@
-Boletus spinari Hlavácek SPECIES
-=======
+# Boletus spinari Hlavácek SPECIES
 
 #### Status
 ACCEPTED

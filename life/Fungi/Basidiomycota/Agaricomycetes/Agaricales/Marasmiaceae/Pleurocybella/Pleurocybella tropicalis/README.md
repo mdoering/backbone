@@ -1,5 +1,4 @@
-Pleurocybella tropicalis (Singer) Raithelh. SPECIES
-=======
+# Pleurocybella tropicalis (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

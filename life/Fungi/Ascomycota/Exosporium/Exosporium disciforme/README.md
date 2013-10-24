@@ -1,5 +1,4 @@
-Exosporium disciforme (Corda) Höhn. SPECIES
-=======
+# Exosporium disciforme (Corda) Höhn. SPECIES
 
 #### Status
 ACCEPTED

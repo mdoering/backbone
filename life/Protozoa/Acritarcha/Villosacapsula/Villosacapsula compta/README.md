@@ -1,5 +1,4 @@
-Villosacapsula compta Wicander & Wood, 1997 SPECIES
-=======
+# Villosacapsula compta Wicander & Wood, 1997 SPECIES
 
 #### Status
 ACCEPTED

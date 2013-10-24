@@ -1,17 +1,16 @@
-Lopadium vulpinum var. vulpinum VARIETY
-=======
+# Letrouitia vulpina (Tuck.) Hafellner & Bellem. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 4: 316 (1927)
+Nova Hedwigia 35(2 & 3): 281 (1982)
 
 #### Original name
-Lopadium vulpinum var. vulpinum
+Lecidea vulpina Tuck.
 
 ### Remarks
 null

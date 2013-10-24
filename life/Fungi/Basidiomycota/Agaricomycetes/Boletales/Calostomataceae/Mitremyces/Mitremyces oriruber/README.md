@@ -1,5 +1,4 @@
-Mitremyces oriruber Cooke SPECIES
-=======
+# Mitremyces oriruber Cooke SPECIES
 
 #### Status
 ACCEPTED

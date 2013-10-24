@@ -1,5 +1,4 @@
-Ustilago imperatae Mundk. SPECIES
-=======
+# Ustilago imperatae Mundk. SPECIES
 
 #### Status
 ACCEPTED

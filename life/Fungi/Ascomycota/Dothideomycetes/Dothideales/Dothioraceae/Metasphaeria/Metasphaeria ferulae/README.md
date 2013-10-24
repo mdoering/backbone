@@ -1,5 +1,4 @@
-Metasphaeria ferulae Bacc. & P. Avetta SPECIES
-=======
+# Metasphaeria ferulae Bacc. & P. Avetta SPECIES
 
 #### Status
 ACCEPTED

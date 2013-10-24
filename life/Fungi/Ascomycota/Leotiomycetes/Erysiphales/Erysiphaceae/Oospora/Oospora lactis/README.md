@@ -1,17 +1,16 @@
-Oospora lactis var. lactis VARIETY
-=======
+# Oospora lactis SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Oospora lactis var. lactis
+null
 
 ### Remarks
 null

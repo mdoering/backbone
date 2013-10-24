@@ -1,17 +1,16 @@
-Meliola obtissifoliae Mibey SPECIES
-=======
+# Meliola obtusifoliae Mibey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Mibey & Hawksworth, Mycol. Pap. 174: 59 (1997)
 
 #### Original name
-Meliola obtissifoliae Mibey
+Meliola obtusifoliae Mibey
 
 ### Remarks
 null

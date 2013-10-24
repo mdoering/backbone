@@ -1,5 +1,4 @@
-Rhizophydium minus (Suringar) Oudem. SPECIES
-=======
+# Rhizophydium minus (Suringar) Oudem. SPECIES
 
 #### Status
 ACCEPTED

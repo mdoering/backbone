@@ -1,5 +1,4 @@
-Mniaecia Boud. GENUS
-=======
+# Mniaecia Boud. GENUS
 
 #### Status
 ACCEPTED

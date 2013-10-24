@@ -1,8 +1,7 @@
-Stephanoeca diplocostata paucicostata Thronden, 1969 SUBSPECIES
-=======
+# Stephanoeca paucicostata Throndsen, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Lecidea hypomela var. hypomela VARIETY
-=======
+# Lecidea hypomela Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea hypomela var. hypomela
+Lecidea hypomela Nyl.
 
 ### Remarks
 null

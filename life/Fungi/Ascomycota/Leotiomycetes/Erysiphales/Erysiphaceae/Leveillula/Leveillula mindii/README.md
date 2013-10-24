@@ -1,5 +1,4 @@
-Leveillula mindii Khodap. & Hedjar. SPECIES
-=======
+# Leveillula mindii Khodap. & Hedjar. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania sordida Reese Naesb. SPECIES
-=======
+# Lecania sordida Reese Naesb. SPECIES
 
 #### Status
 ACCEPTED

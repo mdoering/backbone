@@ -1,5 +1,4 @@
-Hirsutusporos austrosimulii Batson, 1983 SPECIES
-=======
+# Hirsutusporos austrosimulii Batson, 1983 SPECIES
 
 #### Status
 ACCEPTED

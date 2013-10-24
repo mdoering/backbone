@@ -1,5 +1,4 @@
-Schizothyrium juglandis Richon SPECIES
-=======
+# Schizothyrium juglandis Richon SPECIES
 
 #### Status
 ACCEPTED

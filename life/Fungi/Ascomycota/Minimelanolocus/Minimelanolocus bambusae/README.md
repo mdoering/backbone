@@ -1,14 +1,13 @@
-Pseudospiropes bambusae N.D. Sharma, 1980 SPECIES
-=======
+# Minimelanolocus bambusae (N.D. Sharma) R.F. Castañeda & Heredia, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Indian bot. Soc. 59(1): 75 (1980)
+in Castañeda Ruiz, Heredia, Reyes, Arias & Decock, Cryptog. Mycol. 22(1): 9 (2001)
 
 #### Original name
 Pseudospiropes bambusae N.D. Sharma, 1980

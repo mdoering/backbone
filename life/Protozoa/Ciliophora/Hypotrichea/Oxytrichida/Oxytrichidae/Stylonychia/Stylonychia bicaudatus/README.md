@@ -1,5 +1,4 @@
-Stylonychia bicaudatus Dumas, 1937 SPECIES
-=======
+# Stylonychia bicaudatus Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

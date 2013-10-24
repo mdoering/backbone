@@ -1,5 +1,4 @@
-Pseudocercospora opuntiae Ayala-Escobar, U. Braun & Crous SPECIES
-=======
+# Pseudocercospora opuntiae Ayala-Escobar, U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

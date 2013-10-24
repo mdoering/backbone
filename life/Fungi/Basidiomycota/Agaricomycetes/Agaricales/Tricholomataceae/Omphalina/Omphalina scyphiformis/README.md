@@ -1,5 +1,4 @@
-Omphalina scyphiformis (Fr.) Quél. SPECIES
-=======
+# Omphalina scyphiformis (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

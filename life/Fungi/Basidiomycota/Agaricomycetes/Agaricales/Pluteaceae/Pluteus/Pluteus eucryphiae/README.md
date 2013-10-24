@@ -1,5 +1,4 @@
-Pluteus eucryphiae Singer SPECIES
-=======
+# Pluteus eucryphiae Singer SPECIES
 
 #### Status
 ACCEPTED

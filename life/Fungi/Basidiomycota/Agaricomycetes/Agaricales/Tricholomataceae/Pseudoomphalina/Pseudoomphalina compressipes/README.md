@@ -1,5 +1,4 @@
-Pseudoomphalina compressipes (Peck) Singer SPECIES
-=======
+# Pseudoomphalina compressipes (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

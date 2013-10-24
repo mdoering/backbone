@@ -1,5 +1,4 @@
-Mycothyridium argentinense (Speg.) Petr. SPECIES
-=======
+# Mycothyridium argentinense (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

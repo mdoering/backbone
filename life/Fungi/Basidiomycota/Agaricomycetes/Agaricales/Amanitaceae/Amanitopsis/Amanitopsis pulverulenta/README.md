@@ -1,5 +1,4 @@
-Amanitopsis pulverulenta Peck SPECIES
-=======
+# Amanitopsis pulverulenta Peck SPECIES
 
 #### Status
 ACCEPTED

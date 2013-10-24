@@ -1,5 +1,4 @@
-Cercosporella californica Bonar SPECIES
-=======
+# Cercosporella californica Bonar SPECIES
 
 #### Status
 ACCEPTED

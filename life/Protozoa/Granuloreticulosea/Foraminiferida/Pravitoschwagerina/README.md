@@ -1,5 +1,4 @@
-Pravitoschwagerina Toriyama, 1982 GENUS
-=======
+# Pravitoschwagerina Toriyama, 1982 GENUS
 
 #### Status
 ACCEPTED

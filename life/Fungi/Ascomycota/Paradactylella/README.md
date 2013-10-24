@@ -1,5 +1,4 @@
-Paradactylella Matsush. GENUS
-=======
+# Paradactylella Matsush. GENUS
 
 #### Status
 ACCEPTED

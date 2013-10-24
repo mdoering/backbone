@@ -1,5 +1,4 @@
-Triceratium Ehrenb. GENUS
-=======
+# Triceratium Ehrenb. GENUS
 
 #### Status
 ACCEPTED

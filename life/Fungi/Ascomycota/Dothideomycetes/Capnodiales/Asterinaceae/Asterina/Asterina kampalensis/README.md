@@ -1,5 +1,4 @@
-Asterina kampalensis Hansf. SPECIES
-=======
+# Asterina kampalensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium stanhopea Allesch. SPECIES
-=======
+# Cladosporium stanhopea Allesch. SPECIES
 
 #### Status
 ACCEPTED

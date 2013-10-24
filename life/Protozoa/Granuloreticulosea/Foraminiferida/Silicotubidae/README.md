@@ -1,5 +1,4 @@
-Silicotubidae Vyalov, 1968 FAMILY
-=======
+# Silicotubidae Vyalov, 1968 FAMILY
 
 #### Status
 ACCEPTED

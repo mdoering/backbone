@@ -1,5 +1,4 @@
-Reussella aculeata Cushman SPECIES
-=======
+# Reussella aculeata Cushman SPECIES
 
 #### Status
 ACCEPTED

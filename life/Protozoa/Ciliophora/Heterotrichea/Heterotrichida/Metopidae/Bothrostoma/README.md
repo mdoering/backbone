@@ -1,5 +1,4 @@
-Bothrostoma Stokes, 1888 GENUS
-=======
+# Bothrostoma Stokes, 1888 GENUS
 
 #### Status
 ACCEPTED

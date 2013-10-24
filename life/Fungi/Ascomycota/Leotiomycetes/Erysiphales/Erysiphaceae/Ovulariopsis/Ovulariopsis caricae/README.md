@@ -1,5 +1,4 @@
-Ovulariopsis caricae Sawada SPECIES
-=======
+# Ovulariopsis caricae Sawada SPECIES
 
 #### Status
 ACCEPTED

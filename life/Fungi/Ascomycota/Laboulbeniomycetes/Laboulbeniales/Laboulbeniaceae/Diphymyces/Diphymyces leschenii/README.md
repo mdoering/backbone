@@ -1,5 +1,4 @@
-Diphymyces leschenii M.B. Hughes, A. Weir & C. Judd, 2004 SPECIES
-=======
+# Diphymyces leschenii M.B. Hughes, A. Weir & C. Judd, 2004 SPECIES
 
 #### Status
 ACCEPTED

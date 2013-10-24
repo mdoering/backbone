@@ -1,5 +1,4 @@
-Agaricus mortuosus (Fr.) Fr. SPECIES
-=======
+# Agaricus mortuosus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

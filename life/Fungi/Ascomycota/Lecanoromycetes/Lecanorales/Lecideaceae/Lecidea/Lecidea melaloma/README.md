@@ -1,5 +1,4 @@
-Lecidea melaloma (Fr.) Steud. SPECIES
-=======
+# Lecidea melaloma (Fr.) Steud. SPECIES
 
 #### Status
 ACCEPTED

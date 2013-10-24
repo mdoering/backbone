@@ -1,5 +1,4 @@
-Uredo tordillensis Speg. SPECIES
-=======
+# Uredo tordillensis Speg. SPECIES
 
 #### Status
 ACCEPTED

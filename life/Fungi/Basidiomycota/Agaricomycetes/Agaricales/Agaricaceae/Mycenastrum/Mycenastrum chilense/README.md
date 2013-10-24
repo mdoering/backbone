@@ -1,5 +1,4 @@
-Mycenastrum chilense Mont. SPECIES
-=======
+# Mycenastrum chilense Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochytula euonymella (Sacc.) Grove SPECIES
-=======
+# Ascochytula euonymella (Sacc.) Grove SPECIES
 
 #### Status
 ACCEPTED

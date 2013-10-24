@@ -1,5 +1,4 @@
-Siphula polyschides Kremp. SPECIES
-=======
+# Siphula polyschides Kremp. SPECIES
 
 #### Status
 ACCEPTED

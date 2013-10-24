@@ -1,5 +1,4 @@
-Plectosira Petr. GENUS
-=======
+# Plectosira Petr. GENUS
 
 #### Status
 ACCEPTED

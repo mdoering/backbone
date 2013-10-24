@@ -1,5 +1,4 @@
-Acladium ellipticum Bat. SPECIES
-=======
+# Acladium ellipticum Bat. SPECIES
 
 #### Status
 ACCEPTED

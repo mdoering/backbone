@@ -1,5 +1,4 @@
-Phaeographina transcendens SPECIES
-=======
+# Phaeographina transcendens SPECIES
 
 #### Status
 ACCEPTED

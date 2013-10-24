@@ -1,5 +1,4 @@
-Panellus cystidiatus Singer SPECIES
-=======
+# Panellus cystidiatus Singer SPECIES
 
 #### Status
 ACCEPTED

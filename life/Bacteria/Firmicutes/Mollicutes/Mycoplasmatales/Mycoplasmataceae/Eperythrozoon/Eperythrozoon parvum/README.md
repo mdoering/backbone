@@ -1,5 +1,4 @@
-Eperythrozoon parvum Splitter, 1950 (Approved Lists, 1980) SPECIES
-=======
+# Eperythrozoon parvum Splitter, 1950 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

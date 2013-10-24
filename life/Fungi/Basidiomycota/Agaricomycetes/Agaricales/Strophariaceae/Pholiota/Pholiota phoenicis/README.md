@@ -1,5 +1,4 @@
-Pholiota phoenicis Sacc. SPECIES
-=======
+# Pholiota phoenicis Sacc. SPECIES
 
 #### Status
 ACCEPTED

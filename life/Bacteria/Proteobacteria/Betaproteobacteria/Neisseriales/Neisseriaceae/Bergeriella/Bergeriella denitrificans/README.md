@@ -1,8 +1,7 @@
-Neisseria denitrificans Berger, 1962 (Approved Lists, 1980) SPECIES
-=======
+# Bergeriella denitrificans (Berger, 1962) Xie & Yokota, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

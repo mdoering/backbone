@@ -1,5 +1,4 @@
-Hysterographium betulinum Schwein. SPECIES
-=======
+# Hysterographium betulinum Schwein. SPECIES
 
 #### Status
 ACCEPTED

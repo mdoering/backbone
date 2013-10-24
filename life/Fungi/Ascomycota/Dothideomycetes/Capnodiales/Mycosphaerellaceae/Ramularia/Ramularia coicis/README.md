@@ -1,17 +1,16 @@
-Ramularia coicides S.K. Singh, P.N. Singh & Waing. SPECIES
-=======
+# Ramularia coicis S.K. Singh, P.N. Singh & Waing. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 29(1): 206 (2005)
 
 #### Original name
-Ramularia coicides S.K. Singh, P.N. Singh & Waing.
+Ramularia coicis S.K. Singh, P.N. Singh & Waing.
 
 ### Remarks
 null

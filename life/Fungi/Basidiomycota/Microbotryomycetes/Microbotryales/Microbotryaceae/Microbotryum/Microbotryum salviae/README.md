@@ -1,5 +1,4 @@
-Microbotryum salviae (Ferraris) Kemler, M. Lutz, Oberw. & Begerow SPECIES
-=======
+# Microbotryum salviae (Ferraris) Kemler, M. Lutz, Oberw. & Begerow SPECIES
 
 #### Status
 ACCEPTED

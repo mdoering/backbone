@@ -1,5 +1,4 @@
-Xanthomonas cucurbitae (ex Bryan, 1926) Vauterin et al., 1995 SPECIES
-=======
+# Xanthomonas cucurbitae (ex Bryan, 1926) Vauterin et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

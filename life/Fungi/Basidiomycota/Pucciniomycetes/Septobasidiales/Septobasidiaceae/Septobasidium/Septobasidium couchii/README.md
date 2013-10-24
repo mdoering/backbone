@@ -1,5 +1,4 @@
-Septobasidium couchii Donk SPECIES
-=======
+# Septobasidium couchii Donk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Onygena ungulina Rostr. SPECIES
-=======
+# Onygena ungulina Rostr. SPECIES
 
 #### Status
 ACCEPTED

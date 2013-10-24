@@ -1,5 +1,4 @@
-Cyanocystis olivacea (Reinsch) Komárek & Anagnostidis SPECIES
-=======
+# Cyanocystis olivacea (Reinsch) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

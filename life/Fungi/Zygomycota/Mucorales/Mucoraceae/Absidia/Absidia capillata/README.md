@@ -1,5 +1,4 @@
-Absidia capillata Tiegh. SPECIES
-=======
+# Absidia capillata Tiegh. SPECIES
 
 #### Status
 ACCEPTED

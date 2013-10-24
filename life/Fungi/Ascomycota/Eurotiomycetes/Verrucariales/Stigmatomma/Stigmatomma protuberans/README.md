@@ -1,5 +1,4 @@
-Stigmatomma protuberans (Schaer.) Kremp. SPECIES
-=======
+# Stigmatomma protuberans (Schaer.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium simmondsii Couch SPECIES
-=======
+# Septobasidium simmondsii Couch SPECIES
 
 #### Status
 ACCEPTED

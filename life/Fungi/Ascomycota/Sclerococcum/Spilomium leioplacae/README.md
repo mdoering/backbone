@@ -1,8 +1,7 @@
-Spilomium lejoplacae Olive SPECIES
-=======
+# Spilomium leioplacae Olive SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Spilomium lejoplacae Olive
+Spilomium leioplacae Olive
 
 ### Remarks
 null

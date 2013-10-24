@@ -1,5 +1,4 @@
-Camptomyces melanopus Thaxt., 1894 SPECIES
-=======
+# Camptomyces melanopus Thaxt., 1894 SPECIES
 
 #### Status
 ACCEPTED

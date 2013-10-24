@@ -1,5 +1,4 @@
-Volvariella alachuana (Murrill) Shaffer SPECIES
-=======
+# Volvariella alachuana (Murrill) Shaffer SPECIES
 
 #### Status
 ACCEPTED

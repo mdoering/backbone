@@ -1,5 +1,4 @@
-Parmelia elongata Hillmann SPECIES
-=======
+# Parmelia elongata Hillmann SPECIES
 
 #### Status
 ACCEPTED

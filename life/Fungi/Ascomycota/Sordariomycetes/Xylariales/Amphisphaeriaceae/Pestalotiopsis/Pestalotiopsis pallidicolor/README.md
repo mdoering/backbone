@@ -1,5 +1,4 @@
-Pestalotiopsis pallidicolor (Speg.) Steyaert SPECIES
-=======
+# Pestalotiopsis pallidicolor (Speg.) Steyaert SPECIES
 
 #### Status
 ACCEPTED

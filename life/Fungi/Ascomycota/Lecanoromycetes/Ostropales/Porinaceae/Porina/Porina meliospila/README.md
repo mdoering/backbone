@@ -1,5 +1,4 @@
-Porina meliospila (Nyl.) Zahlbr. SPECIES
-=======
+# Porina meliospila (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

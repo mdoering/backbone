@@ -1,5 +1,4 @@
-Hypocopra punctiformis (Ces.) Sacc. SPECIES
-=======
+# Hypocopra punctiformis (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

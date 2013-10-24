@@ -1,5 +1,4 @@
-Peridermium balansae Cornu SPECIES
-=======
+# Peridermium balansae Cornu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporium densum Fr. SPECIES
-=======
+# Trichosporium densum Fr. SPECIES
 
 #### Status
 ACCEPTED

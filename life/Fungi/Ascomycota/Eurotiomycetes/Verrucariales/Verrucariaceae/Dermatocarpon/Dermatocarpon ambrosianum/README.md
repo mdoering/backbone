@@ -1,5 +1,4 @@
-Dermatocarpon ambrosianum (A. Massal.) A. Massal. SPECIES
-=======
+# Dermatocarpon ambrosianum (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

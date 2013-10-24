@@ -1,5 +1,4 @@
-Vesiculla Tikhomirova, 1989 GENUS
-=======
+# Vesiculla Tikhomirova, 1989 GENUS
 
 #### Status
 ACCEPTED

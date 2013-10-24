@@ -1,5 +1,4 @@
-Rhabdospora fuchsiicola Speg. SPECIES
-=======
+# Rhabdospora fuchsiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

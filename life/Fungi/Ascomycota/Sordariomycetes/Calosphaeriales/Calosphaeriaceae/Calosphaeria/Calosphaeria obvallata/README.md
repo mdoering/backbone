@@ -1,5 +1,4 @@
-Calosphaeria obvallata G.H. Otth ex Jacz. SPECIES
-=======
+# Calosphaeria obvallata G.H. Otth ex Jacz. SPECIES
 
 #### Status
 ACCEPTED

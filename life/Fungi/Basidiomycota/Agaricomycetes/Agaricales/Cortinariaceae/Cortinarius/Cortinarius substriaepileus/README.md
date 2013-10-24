@@ -1,5 +1,4 @@
-Cortinarius substriaepileus Melot SPECIES
-=======
+# Cortinarius substriaepileus Melot SPECIES
 
 #### Status
 ACCEPTED

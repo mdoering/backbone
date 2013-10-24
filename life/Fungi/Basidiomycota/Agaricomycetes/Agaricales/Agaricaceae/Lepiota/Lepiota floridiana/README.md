@@ -1,5 +1,4 @@
-Lepiota floridiana Garrido SPECIES
-=======
+# Lepiota floridiana Garrido SPECIES
 
 #### Status
 ACCEPTED

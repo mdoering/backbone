@@ -1,5 +1,4 @@
-Diplodina geranii Gucevic SPECIES
-=======
+# Diplodina geranii Gucevic SPECIES
 
 #### Status
 ACCEPTED

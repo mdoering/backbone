@@ -1,5 +1,4 @@
-Phyllopsora atrocarpa Timdal SPECIES
-=======
+# Phyllopsora atrocarpa Timdal SPECIES
 
 #### Status
 ACCEPTED

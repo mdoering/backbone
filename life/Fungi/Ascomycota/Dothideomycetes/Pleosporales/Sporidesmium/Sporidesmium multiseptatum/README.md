@@ -1,5 +1,4 @@
-Sporidesmium multiseptatum W.P. Wu SPECIES
-=======
+# Sporidesmium multiseptatum W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

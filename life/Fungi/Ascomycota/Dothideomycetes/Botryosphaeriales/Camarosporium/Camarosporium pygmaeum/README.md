@@ -1,5 +1,4 @@
-Camarosporium pygmaeum (Sacc.) Van Warmelo & B. Sutton SPECIES
-=======
+# Camarosporium pygmaeum (Sacc.) Van Warmelo & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

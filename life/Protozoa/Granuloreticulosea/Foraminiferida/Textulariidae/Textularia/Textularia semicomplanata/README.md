@@ -1,5 +1,4 @@
-Textularia semicomplanata Carsey SPECIES
-=======
+# Textularia semicomplanata Carsey SPECIES
 
 #### Status
 ACCEPTED

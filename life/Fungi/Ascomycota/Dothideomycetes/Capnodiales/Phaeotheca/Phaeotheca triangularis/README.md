@@ -1,5 +1,4 @@
-Phaeotheca triangularis de Hoog & Beguin, 1997 SPECIES
-=======
+# Phaeotheca triangularis de Hoog & Beguin, 1997 SPECIES
 
 #### Status
 ACCEPTED

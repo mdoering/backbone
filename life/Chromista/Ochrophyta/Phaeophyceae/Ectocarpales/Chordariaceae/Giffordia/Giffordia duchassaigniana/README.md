@@ -1,5 +1,4 @@
-Giffordia duchassaigniana SPECIES
-=======
+# Giffordia duchassaigniana SPECIES
 
 #### Status
 ACCEPTED

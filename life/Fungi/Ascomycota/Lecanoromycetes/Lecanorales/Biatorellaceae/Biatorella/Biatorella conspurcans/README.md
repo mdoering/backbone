@@ -1,5 +1,4 @@
-Biatorella conspurcans Norman SPECIES
-=======
+# Biatorella conspurcans Norman SPECIES
 
 #### Status
 ACCEPTED

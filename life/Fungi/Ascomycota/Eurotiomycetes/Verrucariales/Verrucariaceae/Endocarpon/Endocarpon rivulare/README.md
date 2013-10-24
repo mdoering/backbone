@@ -1,5 +1,4 @@
-Endocarpon rivulare Hellb. SPECIES
-=======
+# Endocarpon rivulare Hellb. SPECIES
 
 #### Status
 ACCEPTED

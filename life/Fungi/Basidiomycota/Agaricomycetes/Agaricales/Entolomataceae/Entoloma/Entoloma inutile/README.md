@@ -1,14 +1,13 @@
-Agaricus inutilis Britzelm., 1898 SPECIES
-=======
+# Entoloma inutile (Britzelm.) Noordel., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Zbl. 75: 169 (1898)
+Persoonia 10(4): 512 (1980)
 
 #### Original name
 Agaricus inutilis Britzelm., 1898

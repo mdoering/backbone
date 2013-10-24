@@ -1,5 +1,4 @@
-Septoria cardunculii Pass. SPECIES
-=======
+# Septoria cardunculii Pass. SPECIES
 
 #### Status
 ACCEPTED

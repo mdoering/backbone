@@ -1,5 +1,4 @@
-Lopidia bacidioides Vezda SPECIES
-=======
+# Lopidia bacidioides Vezda SPECIES
 
 #### Status
 ACCEPTED

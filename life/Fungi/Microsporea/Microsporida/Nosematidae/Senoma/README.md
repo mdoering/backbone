@@ -1,5 +1,4 @@
-Senoma A.V. Simakova, T.F. Pankova, Y.S. Tokarev & I.V. Issi GENUS
-=======
+# Senoma A.V. Simakova, T.F. Pankova, Y.S. Tokarev & I.V. Issi GENUS
 
 #### Status
 ACCEPTED

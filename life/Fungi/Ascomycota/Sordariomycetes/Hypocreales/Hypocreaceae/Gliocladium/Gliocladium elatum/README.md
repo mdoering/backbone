@@ -1,5 +1,4 @@
-Gliocladium elatum Sacc. SPECIES
-=======
+# Gliocladium elatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

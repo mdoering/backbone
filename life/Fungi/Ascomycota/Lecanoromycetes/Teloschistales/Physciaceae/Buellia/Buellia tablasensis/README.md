@@ -1,5 +1,4 @@
-Buellia tablasensis Herre SPECIES
-=======
+# Buellia tablasensis Herre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fracchiaea microspora Sacc. SPECIES
-=======
+# Fracchiaea microspora Sacc. SPECIES
 
 #### Status
 ACCEPTED

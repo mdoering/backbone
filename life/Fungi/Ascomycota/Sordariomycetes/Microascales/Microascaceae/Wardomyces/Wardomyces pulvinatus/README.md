@@ -1,17 +1,16 @@
-Wardomyces papillata C.H. Dickinson SPECIES
-=======
+# Wardomyces pulvinatus (Marchal) C.H. Dickinson, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 49: 521 (1966)
 
 #### Original name
-Wardomyces papillata C.H. Dickinson
+Echinobotryum pulvinatum Marchal, 1895
 
 ### Remarks
 null

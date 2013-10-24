@@ -1,5 +1,4 @@
-Mollisia lycopodii Lebreton & Malbr. SPECIES
-=======
+# Mollisia lycopodii Lebreton & Malbr. SPECIES
 
 #### Status
 ACCEPTED

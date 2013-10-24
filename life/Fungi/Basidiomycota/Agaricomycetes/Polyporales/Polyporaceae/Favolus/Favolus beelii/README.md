@@ -1,5 +1,4 @@
-Favolus beelii Hendr. SPECIES
-=======
+# Favolus beelii Hendr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chalciporus africanus J. Degreef & De Kesel SPECIES
-=======
+# Chalciporus africanus J. Degreef & De Kesel SPECIES
 
 #### Status
 ACCEPTED

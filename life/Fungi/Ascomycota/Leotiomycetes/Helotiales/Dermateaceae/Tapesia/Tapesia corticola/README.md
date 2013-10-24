@@ -1,5 +1,4 @@
-Tapesia corticola Velen. SPECIES
-=======
+# Tapesia corticola Velen. SPECIES
 
 #### Status
 ACCEPTED

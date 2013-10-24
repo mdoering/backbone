@@ -1,5 +1,4 @@
-Aleurina calospora (Rifai) Korf & W.Y. Zhuang, 1986 SPECIES
-=======
+# Aleurina calospora (Rifai) Korf & W.Y. Zhuang, 1986 SPECIES
 
 #### Status
 ACCEPTED

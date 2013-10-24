@@ -1,17 +1,16 @@
-Crepidotus togoënsis Henn. SPECIES
-=======
+# Crepidotus togoensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 22: 102 (1895)
 
 #### Original name
-Crepidotus togoënsis Henn.
+Crepidotus togoensis Henn.
 
 ### Remarks
 null

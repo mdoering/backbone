@@ -1,5 +1,4 @@
-Bolbitius citrinus (Murrill) Watling SPECIES
-=======
+# Bolbitius citrinus (Murrill) Watling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirulina crispum Kullberg SPECIES
-=======
+# Spirulina crispum Kullberg SPECIES
 
 #### Status
 ACCEPTED

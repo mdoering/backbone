@@ -1,5 +1,4 @@
-Scolecobasidium dendroides Piroz. & Hodges SPECIES
-=======
+# Scolecobasidium dendroides Piroz. & Hodges SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus splendens (Lév.) Cooke SPECIES
-=======
+# Polystictus splendens (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

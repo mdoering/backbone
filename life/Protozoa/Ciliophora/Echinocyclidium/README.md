@@ -1,5 +1,4 @@
-Echinocyclidium Yankovskij, 1980 GENUS
-=======
+# Echinocyclidium Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiodecton glaucum B. de Lesd. SPECIES
-=======
+# Chiodecton glaucum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

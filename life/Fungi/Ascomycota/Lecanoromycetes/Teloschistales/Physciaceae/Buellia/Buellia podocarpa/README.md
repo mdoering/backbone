@@ -1,5 +1,4 @@
-Buellia podocarpa C.W. Dodge SPECIES
-=======
+# Buellia podocarpa C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

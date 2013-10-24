@@ -1,5 +1,4 @@
-Corrugaria viridiflava Métrod SPECIES
-=======
+# Corrugaria viridiflava Métrod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia changaica (Klem.) N.S. Golubk. SPECIES
-=======
+# Aspicilia changaica (Klem.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

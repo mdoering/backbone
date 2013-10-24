@@ -1,5 +1,4 @@
-Caloplaca mastophora (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca mastophora (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomatospora aucubae (Shirai & Hara) Ts. Kobay. & Y. Suto SPECIES
-=======
+# Phomatospora aucubae (Shirai & Hara) Ts. Kobay. & Y. Suto SPECIES
 
 #### Status
 ACCEPTED

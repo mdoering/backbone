@@ -1,5 +1,4 @@
-Phoma myelocola Preuss SPECIES
-=======
+# Phoma myelocola Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vibrio splendidus (Beijerinck, 1900) Baumann et al., 1981 SPECIES
-=======
+# Vibrio splendidus (Beijerinck, 1900) Baumann et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

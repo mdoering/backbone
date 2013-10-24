@@ -1,5 +1,4 @@
-Phoma origani Mark.-Let. SPECIES
-=======
+# Phoma origani Mark.-Let. SPECIES
 
 #### Status
 ACCEPTED

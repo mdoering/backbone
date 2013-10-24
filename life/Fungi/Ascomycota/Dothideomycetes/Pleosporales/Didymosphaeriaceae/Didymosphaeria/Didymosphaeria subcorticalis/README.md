@@ -1,5 +1,4 @@
-Didymosphaeria subcorticalis Feltgen SPECIES
-=======
+# Didymosphaeria subcorticalis Feltgen SPECIES
 
 #### Status
 ACCEPTED

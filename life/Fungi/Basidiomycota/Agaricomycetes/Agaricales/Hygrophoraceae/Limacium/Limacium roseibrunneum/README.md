@@ -1,5 +1,4 @@
-Limacium roseibrunneum (Murrill) Singer SPECIES
-=======
+# Limacium roseibrunneum (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius lepidotus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius lepidotus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

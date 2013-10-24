@@ -1,5 +1,4 @@
-Uredo investita (Faull) Cummins SPECIES
-=======
+# Uredo investita (Faull) Cummins SPECIES
 
 #### Status
 ACCEPTED

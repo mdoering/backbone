@@ -1,5 +1,4 @@
-Paranectria ugandae Hansf. SPECIES
-=======
+# Paranectria ugandae Hansf. SPECIES
 
 #### Status
 ACCEPTED

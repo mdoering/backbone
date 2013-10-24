@@ -1,5 +1,4 @@
-Spirostrombidium agathae Xu, Song, Lin & Warren, 2006 SPECIES
-=======
+# Spirostrombidium agathae Xu, Song, Lin & Warren, 2006 SPECIES
 
 #### Status
 ACCEPTED

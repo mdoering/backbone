@@ -1,5 +1,4 @@
-Oxydothis nonamyloidea K.D. Hyde SPECIES
-=======
+# Oxydothis nonamyloidea K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

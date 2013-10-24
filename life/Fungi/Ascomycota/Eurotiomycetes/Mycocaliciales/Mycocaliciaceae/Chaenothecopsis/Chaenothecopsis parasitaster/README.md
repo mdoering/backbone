@@ -1,14 +1,13 @@
-Calicium parasitaster (Bagl. & Carestia) Zopf SPECIES
-=======
+# Chaenothecopsis parasitaster (Bagl. & Carestia) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 36(1): 184 (1978)
 
 #### Original name
 Calicium pusillum var. parasitaster Bagl. & Carestia

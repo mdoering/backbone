@@ -1,5 +1,4 @@
-Quinqueloculina berthelotiana SPECIES
-=======
+# Quinqueloculina berthelotiana SPECIES
 
 #### Status
 ACCEPTED

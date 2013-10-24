@@ -1,5 +1,4 @@
-Eomarssonella GENUS
-=======
+# Eomarssonella GENUS
 
 #### Status
 ACCEPTED

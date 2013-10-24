@@ -1,5 +1,4 @@
-Camarophyllus auratocephalus (Ellis) Murrill SPECIES
-=======
+# Camarophyllus auratocephalus (Ellis) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Coremiella cystopoides Bubák & Krieg. SPECIES
-=======
+# Coremiella cystopodoides Bubák & Krieg., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Bubák, Annls mycol. 10(1): 52 (1912)
 
 #### Original name
-Coremiella cystopoides Bubák & Krieg.
+Coremiella cystopodoides Bubák & Krieg., 1912
 
 ### Remarks
 null

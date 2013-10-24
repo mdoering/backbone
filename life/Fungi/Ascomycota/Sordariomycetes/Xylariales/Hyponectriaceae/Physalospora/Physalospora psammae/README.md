@@ -1,5 +1,4 @@
-Physalospora psammae Oudem. SPECIES
-=======
+# Physalospora psammae Oudem. SPECIES
 
 #### Status
 ACCEPTED

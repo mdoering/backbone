@@ -1,5 +1,4 @@
-Cladosporium zeylanicum Sacc. & Trotter SPECIES
-=======
+# Cladosporium zeylanicum Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

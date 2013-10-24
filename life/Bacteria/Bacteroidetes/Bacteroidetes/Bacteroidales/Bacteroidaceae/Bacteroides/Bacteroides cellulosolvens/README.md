@@ -1,5 +1,4 @@
-Bacteroides cellulosolvens Murray et al., 1984 SPECIES
-=======
+# Bacteroides cellulosolvens Murray et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

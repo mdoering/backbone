@@ -1,5 +1,4 @@
-Kirschsteiniella canariensis Petr. SPECIES
-=======
+# Kirschsteiniella canariensis Petr. SPECIES
 
 #### Status
 ACCEPTED

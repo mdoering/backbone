@@ -1,5 +1,4 @@
-Blitridium fenestratum (Cooke & Peck) Sacc. SPECIES
-=======
+# Blitridium fenestratum (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

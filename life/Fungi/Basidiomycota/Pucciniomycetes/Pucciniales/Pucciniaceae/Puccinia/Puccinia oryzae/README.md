@@ -1,5 +1,4 @@
-Puccinia oryzae anon. SPECIES
-=======
+# Puccinia oryzae anon. SPECIES
 
 #### Status
 ACCEPTED

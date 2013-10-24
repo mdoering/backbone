@@ -1,5 +1,4 @@
-Acarosporium maxoni SPECIES
-=======
+# Acarosporium maxoni SPECIES
 
 #### Status
 ACCEPTED

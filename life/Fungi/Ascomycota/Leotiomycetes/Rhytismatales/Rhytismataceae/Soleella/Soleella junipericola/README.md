@@ -1,5 +1,4 @@
-Soleella junipericola C.L. Hou & M. Piepenbr., 2005 SPECIES
-=======
+# Soleella junipericola C.L. Hou & M. Piepenbr., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Appendiculella vernoniae (F. Stevens) Hansf. SPECIES
-=======
+# Appendiculella vernoniae (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

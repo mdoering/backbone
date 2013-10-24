@@ -1,5 +1,4 @@
-Hymenoscyphus nigrofuscus (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus nigrofuscus (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

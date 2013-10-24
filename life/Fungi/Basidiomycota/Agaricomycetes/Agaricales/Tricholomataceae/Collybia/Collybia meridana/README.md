@@ -1,5 +1,4 @@
-Collybia meridana Dennis SPECIES
-=======
+# Collybia meridana Dennis SPECIES
 
 #### Status
 ACCEPTED

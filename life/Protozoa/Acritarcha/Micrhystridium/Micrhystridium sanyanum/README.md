@@ -1,5 +1,4 @@
-Micrhystridium sanyanum (He Chengquan & Li Peng, 1981) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Micrhystridium sanyanum (He Chengquan & Li Peng, 1981) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

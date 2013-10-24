@@ -1,5 +1,4 @@
-Helicosphaera truempyi Biolzi & Perch-Nielsen, 1982 SPECIES
-=======
+# Helicosphaera truempyi Biolzi & Perch-Nielsen, 1982 SPECIES
 
 #### Status
 ACCEPTED

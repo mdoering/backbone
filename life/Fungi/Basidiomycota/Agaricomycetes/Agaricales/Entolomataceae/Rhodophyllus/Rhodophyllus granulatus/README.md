@@ -1,5 +1,4 @@
-Rhodophyllus granulatus Romagn. SPECIES
-=======
+# Rhodophyllus granulatus Romagn. SPECIES
 
 #### Status
 ACCEPTED

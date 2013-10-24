@@ -1,5 +1,4 @@
-Microstromatales R. Bauer & Oberw. ORDER
-=======
+# Microstromatales R. Bauer & Oberw. ORDER
 
 #### Status
 ACCEPTED

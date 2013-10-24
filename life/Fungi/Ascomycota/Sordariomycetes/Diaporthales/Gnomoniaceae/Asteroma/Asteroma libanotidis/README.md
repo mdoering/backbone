@@ -1,5 +1,4 @@
-Asteroma libanotidis Died. SPECIES
-=======
+# Asteroma libanotidis Died. SPECIES
 
 #### Status
 ACCEPTED

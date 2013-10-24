@@ -1,5 +1,4 @@
-Paxina barlae (Boud.) Seaver SPECIES
-=======
+# Paxina barlae (Boud.) Seaver SPECIES
 
 #### Status
 ACCEPTED

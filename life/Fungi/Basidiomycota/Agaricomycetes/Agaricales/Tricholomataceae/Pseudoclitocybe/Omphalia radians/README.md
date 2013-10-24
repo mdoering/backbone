@@ -1,5 +1,4 @@
-Omphalia radians Maire SPECIES
-=======
+# Omphalia radians Maire SPECIES
 
 #### Status
 ACCEPTED

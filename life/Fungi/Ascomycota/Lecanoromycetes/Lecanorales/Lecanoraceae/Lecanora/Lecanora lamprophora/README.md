@@ -1,5 +1,4 @@
-Lecanora lamprophora (Körb.) Lettau SPECIES
-=======
+# Lecanora lamprophora (Körb.) Lettau SPECIES
 
 #### Status
 ACCEPTED

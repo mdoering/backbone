@@ -1,5 +1,4 @@
-Pluteus dennisii Singer SPECIES
-=======
+# Pluteus dennisii Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plagiopyxis Pénard, 1910 GENUS
-=======
+# Plagiopyxis Pénard, 1910 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phoma capparidis Pass. SPECIES
-=======
+# Phoma capparis Pass. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma capparidis Pass.
+Phoma capparis Pass.
 
 ### Remarks
 null

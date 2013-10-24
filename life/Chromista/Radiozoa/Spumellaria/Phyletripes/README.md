@@ -1,5 +1,4 @@
-Phyletripes Campbell, 1951 GENUS
-=======
+# Phyletripes Campbell, 1951 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia mahuiana T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia mahuiana T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

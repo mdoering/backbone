@@ -1,5 +1,4 @@
-Phlyctis ocellata C. Knight SPECIES
-=======
+# Phlyctis ocellata C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hoegklintia K.J. Dorning, 1981 GENUS
-=======
+# Hoegklintia K.J. Dorning, 1981 GENUS
 
 #### Status
 ACCEPTED

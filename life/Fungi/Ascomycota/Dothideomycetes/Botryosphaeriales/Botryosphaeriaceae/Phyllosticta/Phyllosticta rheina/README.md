@@ -1,5 +1,4 @@
-Phyllosticta rheina (Thüm. & Bolle) Allesch. SPECIES
-=======
+# Phyllosticta rheina (Thüm. & Bolle) Allesch. SPECIES
 
 #### Status
 ACCEPTED

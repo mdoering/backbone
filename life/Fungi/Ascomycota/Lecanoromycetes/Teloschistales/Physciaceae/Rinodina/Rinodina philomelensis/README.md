@@ -1,5 +1,4 @@
-Rinodina philomelensis Zahlbr. SPECIES
-=======
+# Rinodina philomelensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

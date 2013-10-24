@@ -1,5 +1,4 @@
-Discorbina acuminata Chapman, 1902 SPECIES
-=======
+# Discorbina acuminata Chapman, 1902 SPECIES
 
 #### Status
 ACCEPTED

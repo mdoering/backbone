@@ -1,5 +1,4 @@
-Bryoria fremontii (Tuck.) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria fremontii (Tuck.) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

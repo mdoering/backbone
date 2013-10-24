@@ -1,5 +1,4 @@
-Distephanosira Z.I.Glezer, 1992 GENUS
-=======
+# Distephanosira Z.I.Glezer, 1992 GENUS
 
 #### Status
 ACCEPTED

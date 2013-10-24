@@ -1,5 +1,4 @@
-Phoma equiseticola Hollós SPECIES
-=======
+# Phoma equiseticola Hollós SPECIES
 
 #### Status
 ACCEPTED

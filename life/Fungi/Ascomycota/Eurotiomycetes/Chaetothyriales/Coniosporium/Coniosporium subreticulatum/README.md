@@ -1,5 +1,4 @@
-Coniosporium subreticulatum P. Karst. SPECIES
-=======
+# Coniosporium subreticulatum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

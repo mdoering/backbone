@@ -1,5 +1,4 @@
-Coniothyrium stigmosporum (Sacc. & F. Lamb.) Kuntze SPECIES
-=======
+# Coniothyrium stigmosporum (Sacc. & F. Lamb.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

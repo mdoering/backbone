@@ -1,5 +1,4 @@
-Hyalopus stuehmeri (Schmidt {?} & J.F.H. Beyma) M.A.J. Barbosa SPECIES
-=======
+# Hyalopus stuehmeri (Schmidt {?} & J.F.H. Beyma) M.A.J. Barbosa SPECIES
 
 #### Status
 ACCEPTED

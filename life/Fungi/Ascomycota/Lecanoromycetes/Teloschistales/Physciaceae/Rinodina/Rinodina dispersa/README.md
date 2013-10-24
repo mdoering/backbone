@@ -1,5 +1,4 @@
-Rinodina dispersa Malme SPECIES
-=======
+# Rinodina dispersa Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Diploschistes calcareus var. calcareus VARIETY
-=======
+# Diploschistes candidissimus (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 660 (1924)
 
 #### Original name
-Diploschistes calcareus var. calcareus
+Limboria candidissima Kremp.
 
 ### Remarks
 null

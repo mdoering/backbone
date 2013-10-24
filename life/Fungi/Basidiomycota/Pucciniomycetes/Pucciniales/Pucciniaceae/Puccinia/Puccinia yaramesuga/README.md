@@ -1,5 +1,4 @@
-Puccinia yaramesuga Homma SPECIES
-=======
+# Puccinia yaramesuga Homma SPECIES
 
 #### Status
 ACCEPTED

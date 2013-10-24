@@ -1,5 +1,4 @@
-Spegazzinia ammophilae Rostr. SPECIES
-=======
+# Spegazzinia ammophilae Rostr. SPECIES
 
 #### Status
 ACCEPTED

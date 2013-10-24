@@ -1,8 +1,7 @@
-Phyllachora cornispora-necrotica Chardón, 1928 SPECIES
-=======
+# Phyllachora acutispora Speg., 1891 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

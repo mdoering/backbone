@@ -1,5 +1,4 @@
-Sarcodon lundellii Maas Geest. & Nannf., 1969 SPECIES
-=======
+# Sarcodon lundellii Maas Geest. & Nannf., 1969 SPECIES
 
 #### Status
 ACCEPTED

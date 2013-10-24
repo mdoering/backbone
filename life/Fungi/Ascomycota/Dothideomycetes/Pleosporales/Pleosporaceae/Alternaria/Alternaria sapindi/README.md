@@ -1,5 +1,4 @@
-Alternaria sapindi Rajd. SPECIES
-=======
+# Alternaria sapindi Rajd. SPECIES
 
 #### Status
 ACCEPTED

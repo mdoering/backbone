@@ -1,5 +1,4 @@
-Abollifer Vors, 1992 GENUS
-=======
+# Abollifer Vors, 1992 GENUS
 
 #### Status
 ACCEPTED

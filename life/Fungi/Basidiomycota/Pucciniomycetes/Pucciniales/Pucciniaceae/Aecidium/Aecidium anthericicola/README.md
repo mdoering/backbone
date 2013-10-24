@@ -1,5 +1,4 @@
-Aecidium anthericicola Arthur SPECIES
-=======
+# Aecidium anthericicola Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Segestria saxicola (C. Knight) Hellb. SPECIES
-=======
+# Segestria saxicola (C. Knight) Hellb. SPECIES
 
 #### Status
 ACCEPTED

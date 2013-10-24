@@ -1,5 +1,4 @@
-Microdiplodia secalis (Lib.) Tassi SPECIES
-=======
+# Microdiplodia secalis (Lib.) Tassi SPECIES
 
 #### Status
 ACCEPTED

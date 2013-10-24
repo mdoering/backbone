@@ -1,5 +1,4 @@
-Involucrothele jodophila (Servít) Servít SPECIES
-=======
+# Involucrothele jodophila (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

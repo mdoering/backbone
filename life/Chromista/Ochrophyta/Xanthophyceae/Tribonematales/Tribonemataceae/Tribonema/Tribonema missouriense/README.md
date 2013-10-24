@@ -1,5 +1,4 @@
-Tribonema missouriense SPECIES
-=======
+# Tribonema missouriense SPECIES
 
 #### Status
 ACCEPTED

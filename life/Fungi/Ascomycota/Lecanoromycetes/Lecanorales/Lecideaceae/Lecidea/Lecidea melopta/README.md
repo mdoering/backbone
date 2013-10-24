@@ -1,5 +1,4 @@
-Lecidea melopta Nyl. SPECIES
-=======
+# Lecidea melopta Nyl. SPECIES
 
 #### Status
 ACCEPTED

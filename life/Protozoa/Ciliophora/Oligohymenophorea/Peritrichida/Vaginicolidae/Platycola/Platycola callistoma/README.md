@@ -1,5 +1,4 @@
-Platycola callistoma SPECIES
-=======
+# Platycola callistoma SPECIES
 
 #### Status
 ACCEPTED

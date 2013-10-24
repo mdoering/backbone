@@ -1,5 +1,4 @@
-Parahistioneis mediterranea Schiller SPECIES
-=======
+# Parahistioneis mediterranea Schiller SPECIES
 
 #### Status
 ACCEPTED

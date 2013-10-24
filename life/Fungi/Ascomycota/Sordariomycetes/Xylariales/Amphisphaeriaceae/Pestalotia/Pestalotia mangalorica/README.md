@@ -1,5 +1,4 @@
-Pestalotia mangalorica Thüm. SPECIES
-=======
+# Pestalotia mangalorica Thüm. SPECIES
 
 #### Status
 ACCEPTED

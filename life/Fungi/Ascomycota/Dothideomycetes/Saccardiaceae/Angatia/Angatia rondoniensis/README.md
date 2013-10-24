@@ -1,5 +1,4 @@
-Angatia rondoniensis Bat., J.L. Bezerra & Castr., 1966 SPECIES
-=======
+# Angatia rondoniensis Bat., J.L. Bezerra & Castr., 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizothyrium lagunculariae (G. Winter) Arx SPECIES
-=======
+# Schizothyrium lagunculariae (G. Winter) Arx SPECIES
 
 #### Status
 ACCEPTED

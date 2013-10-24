@@ -1,5 +1,4 @@
-Septoria petiolina Penz. & Sacc. SPECIES
-=======
+# Septoria petiolina Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

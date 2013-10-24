@@ -1,5 +1,4 @@
-Phellomycetes dubius Renault SPECIES
-=======
+# Phellomycetes dubius Renault SPECIES
 
 #### Status
 ACCEPTED

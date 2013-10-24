@@ -1,5 +1,4 @@
-Agaricus sudans Wallr. SPECIES
-=======
+# Agaricus sudans Wallr. SPECIES
 
 #### Status
 ACCEPTED

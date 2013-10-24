@@ -1,14 +1,13 @@
-Puccinia dioicae var. opizii (Bubák) U. Braun, 1982 VARIETY
-=======
+# Puccinia opizii Bubák, 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. Spec. Nov. Regni Veg. 93(3-4): 264 (1982)
+Zentbl. Bakt. ParasitKde, Abt. II 9: 925 (1902)
 
 #### Original name
 Puccinia opizii Bubák, 1902

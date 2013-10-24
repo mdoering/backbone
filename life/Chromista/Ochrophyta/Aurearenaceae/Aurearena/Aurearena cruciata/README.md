@@ -1,5 +1,4 @@
-Aurearena cruciata Kai, Yoshii, Nakayama & Inouye, 2008 SPECIES
-=======
+# Aurearena cruciata Kai, Yoshii, Nakayama & Inouye, 2008 SPECIES
 
 #### Status
 ACCEPTED

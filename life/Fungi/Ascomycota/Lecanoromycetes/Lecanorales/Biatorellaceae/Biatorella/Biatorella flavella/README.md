@@ -1,5 +1,4 @@
-Biatorella flavella (Nyl.) Lettau SPECIES
-=======
+# Biatorella flavella (Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

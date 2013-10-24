@@ -1,5 +1,4 @@
-Tyromyces subpendulus G.F. Atk. SPECIES
-=======
+# Tyromyces subpendulus G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

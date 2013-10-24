@@ -1,5 +1,4 @@
-Bacidia acclinoides (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia acclinoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Odontia conferta Petch SPECIES
-=======
+# Odontia conferta Petch SPECIES
 
 #### Status
 ACCEPTED

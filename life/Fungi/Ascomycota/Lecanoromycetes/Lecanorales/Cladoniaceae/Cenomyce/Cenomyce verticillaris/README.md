@@ -1,5 +1,4 @@
-Cenomyce verticillaris Raddi SPECIES
-=======
+# Cenomyce verticillaris Raddi SPECIES
 
 #### Status
 ACCEPTED

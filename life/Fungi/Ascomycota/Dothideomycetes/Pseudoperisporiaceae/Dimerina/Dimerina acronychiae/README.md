@@ -1,5 +1,4 @@
-Dimerina acronychiae Syd. SPECIES
-=======
+# Dimerina acronychiae Syd. SPECIES
 
 #### Status
 ACCEPTED

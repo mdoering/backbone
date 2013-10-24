@@ -1,5 +1,4 @@
-Plicaria retincola Velen. SPECIES
-=======
+# Plicaria retincola Velen. SPECIES
 
 #### Status
 ACCEPTED

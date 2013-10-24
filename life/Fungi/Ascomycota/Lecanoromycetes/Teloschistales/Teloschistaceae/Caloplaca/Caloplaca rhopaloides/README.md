@@ -1,5 +1,4 @@
-Caloplaca rhopaloides (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca rhopaloides (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inoviridae FAMILY
-=======
+# Inoviridae FAMILY
 
 #### Status
 ACCEPTED

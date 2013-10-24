@@ -1,5 +1,4 @@
-Phyllosticta phlei Lavrov SPECIES
-=======
+# Phyllosticta phlei Lavrov SPECIES
 
 #### Status
 ACCEPTED

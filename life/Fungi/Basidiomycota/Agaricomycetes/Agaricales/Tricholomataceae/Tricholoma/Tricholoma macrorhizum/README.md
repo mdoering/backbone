@@ -1,5 +1,4 @@
-Tricholoma macrorhizum Sacc. SPECIES
-=======
+# Tricholoma macrorhizum Sacc. SPECIES
 
 #### Status
 ACCEPTED

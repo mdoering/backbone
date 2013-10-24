@@ -1,17 +1,16 @@
-Thelotrema glaucopallens var. glaucopallens VARIETY
-=======
+# Wirthiotrema glaucopallens (Nyl.) Rivas Plata, Kalb & Frisch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Sci. fenn. 7: 451 (1863)
+null
 
 #### Original name
-Thelotrema glaucopallens var. glaucopallens
+null
 
 ### Remarks
 null

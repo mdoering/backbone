@@ -1,5 +1,4 @@
-Psathyrella rudericola A.H. Sm. SPECIES
-=======
+# Psathyrella rudericola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

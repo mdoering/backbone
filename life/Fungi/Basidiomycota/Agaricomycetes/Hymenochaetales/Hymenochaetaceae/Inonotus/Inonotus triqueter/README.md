@@ -1,17 +1,16 @@
-Boletus triqueter var. triqueter Alb. & Schwein., 1805 VARIETY
-=======
+# Inonotus triqueter (Alb. & Schwein.) Teixeira, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revista Brasileira de Botânica 15(2): 126 (1992)
 
 #### Original name
-null
+Boletus triqueter Alb. & Schwein., 1805
 
 ### Remarks
 null

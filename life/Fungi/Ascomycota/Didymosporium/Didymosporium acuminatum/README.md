@@ -1,5 +1,4 @@
-Didymosporium acuminatum Schwein. SPECIES
-=======
+# Didymosporium acuminatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

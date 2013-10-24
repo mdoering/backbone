@@ -1,5 +1,4 @@
-Septoria nicaeaensis Thüm. SPECIES
-=======
+# Septoria nicaeaensis Thüm. SPECIES
 
 #### Status
 ACCEPTED

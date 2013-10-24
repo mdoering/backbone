@@ -1,5 +1,4 @@
-Otidea felina (Pers.) Bres. SPECIES
-=======
+# Otidea felina (Pers.) Bres. SPECIES
 
 #### Status
 ACCEPTED

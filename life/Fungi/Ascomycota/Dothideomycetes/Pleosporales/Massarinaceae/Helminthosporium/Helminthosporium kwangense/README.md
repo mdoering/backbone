@@ -1,5 +1,4 @@
-Helminthosporium kwangense Henn. SPECIES
-=======
+# Helminthosporium kwangense Henn. SPECIES
 
 #### Status
 ACCEPTED

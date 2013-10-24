@@ -1,5 +1,4 @@
-Tulostoma kogaschiki Schwarzman & Philimonova SPECIES
-=======
+# Tulostoma kogaschiki Schwarzman & Philimonova SPECIES
 
 #### Status
 ACCEPTED

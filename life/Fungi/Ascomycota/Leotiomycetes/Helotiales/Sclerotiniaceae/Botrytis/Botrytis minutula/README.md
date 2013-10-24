@@ -1,5 +1,4 @@
-Botrytis minutula Schwein. SPECIES
-=======
+# Botrytis minutula Schwein. SPECIES
 
 #### Status
 ACCEPTED

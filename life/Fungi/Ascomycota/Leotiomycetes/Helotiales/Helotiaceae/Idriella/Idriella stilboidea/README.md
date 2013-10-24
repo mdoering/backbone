@@ -1,5 +1,4 @@
-Idriella stilboidea R.F. Castañeda SPECIES
-=======
+# Idriella stilboidea R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

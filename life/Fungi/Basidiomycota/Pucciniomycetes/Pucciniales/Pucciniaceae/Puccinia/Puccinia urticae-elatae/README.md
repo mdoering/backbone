@@ -1,5 +1,4 @@
-Puccinia urticae-elatae Hasler SPECIES
-=======
+# Puccinia urticae-elatae Hasler SPECIES
 
 #### Status
 ACCEPTED

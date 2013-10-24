@@ -1,5 +1,4 @@
-Patellaria anomala Spreng. SPECIES
-=======
+# Patellaria anomala Spreng. SPECIES
 
 #### Status
 ACCEPTED

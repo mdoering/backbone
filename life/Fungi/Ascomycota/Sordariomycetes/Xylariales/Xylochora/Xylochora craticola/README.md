@@ -1,14 +1,13 @@
-Physalospora craticola H. Wegelin, 1894 SPECIES
-=======
+# Xylochora craticola (H. Wegelin) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 11(no. 1): 176 (1954)
 
 #### Original name
 Physalospora craticola H. Wegelin, 1894

@@ -1,5 +1,4 @@
-Polystroma ferdinandezii Clemente SPECIES
-=======
+# Polystroma ferdinandezii Clemente SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hyalolampe Greeff, 1869 GENUS
-=======
+# Pompholyxophrys Archer, 1869 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. mikr. Anat. , 5, 501.
+Quart. J. Micr. Sci. , (N. S. ) 9, 271, 386.
 
 #### Original name
 null

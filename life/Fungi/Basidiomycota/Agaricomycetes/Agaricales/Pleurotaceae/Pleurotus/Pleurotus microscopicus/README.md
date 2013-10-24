@@ -1,5 +1,4 @@
-Pleurotus microscopicus (Speg.) Speg. SPECIES
-=======
+# Pleurotus microscopicus (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

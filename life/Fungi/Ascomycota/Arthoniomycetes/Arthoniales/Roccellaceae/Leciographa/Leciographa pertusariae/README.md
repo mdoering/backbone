@@ -1,5 +1,4 @@
-Leciographa pertusariae Vouaux SPECIES
-=======
+# Leciographa pertusariae Vouaux SPECIES
 
 #### Status
 ACCEPTED

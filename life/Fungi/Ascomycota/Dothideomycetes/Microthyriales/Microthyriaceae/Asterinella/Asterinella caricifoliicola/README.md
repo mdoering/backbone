@@ -1,5 +1,4 @@
-Asterinella caricifoliicola (I. Hino & Katum.) Katum. SPECIES
-=======
+# Asterinella caricifoliicola (I. Hino & Katum.) Katum. SPECIES
 
 #### Status
 ACCEPTED

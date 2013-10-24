@@ -1,5 +1,4 @@
-Lachnum sagarum Velen. SPECIES
-=======
+# Lachnum sagarum Velen. SPECIES
 
 #### Status
 ACCEPTED

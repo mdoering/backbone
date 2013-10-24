@@ -1,5 +1,4 @@
-Lagotia spirobis SPECIES
-=======
+# Lagotia spirobis SPECIES
 
 #### Status
 ACCEPTED

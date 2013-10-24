@@ -1,5 +1,4 @@
-Tilletia montemartinii Canonaco SPECIES
-=======
+# Tilletia montemartinii Canonaco SPECIES
 
 #### Status
 ACCEPTED

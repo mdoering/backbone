@@ -1,5 +1,4 @@
-Oscillatoria lauterbornii Schmidle SPECIES
-=======
+# Oscillatoria lauterbornii Schmidle SPECIES
 
 #### Status
 ACCEPTED

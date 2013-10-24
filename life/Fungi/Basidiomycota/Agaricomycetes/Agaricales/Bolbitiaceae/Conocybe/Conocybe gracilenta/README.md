@@ -1,5 +1,4 @@
-Conocybe gracilenta Watling & G.M. Taylor, 1987 SPECIES
-=======
+# Conocybe gracilenta Watling & G.M. Taylor, 1987 SPECIES
 
 #### Status
 ACCEPTED

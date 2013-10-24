@@ -1,5 +1,4 @@
-Liliasterites atlanticus Stradner & Steinmetz, 1984 SPECIES
-=======
+# Liliasterites atlanticus Stradner & Steinmetz, 1984 SPECIES
 
 #### Status
 ACCEPTED

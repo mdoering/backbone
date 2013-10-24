@@ -1,5 +1,4 @@
-Synchytrium citrinum (Lagerh. ex Trotter) Gäum. SPECIES
-=======
+# Synchytrium citrinum (Lagerh. ex Trotter) Gäum. SPECIES
 
 #### Status
 ACCEPTED

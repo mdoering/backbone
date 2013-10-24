@@ -1,8 +1,7 @@
-Puccinia lejoderma Lindr. SPECIES
-=======
+# Puccinia leioderma Lindr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia lejoderma Lindr.
+Puccinia leioderma Lindr.
 
 ### Remarks
 null

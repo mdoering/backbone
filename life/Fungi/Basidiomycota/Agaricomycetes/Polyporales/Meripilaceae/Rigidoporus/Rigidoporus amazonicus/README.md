@@ -1,5 +1,4 @@
-Rigidoporus amazonicus Ryvarden, 1987 SPECIES
-=======
+# Rigidoporus amazonicus Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED

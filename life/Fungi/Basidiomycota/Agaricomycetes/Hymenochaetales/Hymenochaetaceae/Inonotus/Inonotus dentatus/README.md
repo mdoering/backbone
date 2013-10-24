@@ -1,5 +1,4 @@
-Inonotus dentatus Decock & Ryvarden, 2002 SPECIES
-=======
+# Inonotus dentatus Decock & Ryvarden, 2002 SPECIES
 
 #### Status
 ACCEPTED

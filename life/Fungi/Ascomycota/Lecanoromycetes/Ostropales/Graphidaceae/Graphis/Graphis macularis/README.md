@@ -1,5 +1,4 @@
-Graphis macularis Spreng. SPECIES
-=======
+# Graphis macularis Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricolopera Haeckel, 1881 GENUS
-=======
+# Tricolopera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

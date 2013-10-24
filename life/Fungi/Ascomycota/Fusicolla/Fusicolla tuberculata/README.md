@@ -1,5 +1,4 @@
-Fusicolla tuberculata Har. & P. Karst. SPECIES
-=======
+# Fusicolla tuberculata Har. & P. Karst. SPECIES
 
 #### Status
 ACCEPTED

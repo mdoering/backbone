@@ -1,5 +1,4 @@
-Xanthoparmelia domokosioides Elix & T. H. Nash SPECIES
-=======
+# Xanthoparmelia domokosioides Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

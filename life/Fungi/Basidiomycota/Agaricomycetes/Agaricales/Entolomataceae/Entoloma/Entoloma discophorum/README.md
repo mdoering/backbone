@@ -1,5 +1,4 @@
-Entoloma discophorum Corner & E. Horak SPECIES
-=======
+# Entoloma discophorum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

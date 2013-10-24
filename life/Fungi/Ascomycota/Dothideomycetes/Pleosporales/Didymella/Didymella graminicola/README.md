@@ -1,5 +1,4 @@
-Didymella graminicola Punith., 1970 SPECIES
-=======
+# Didymella graminicola Punith., 1970 SPECIES
 
 #### Status
 ACCEPTED

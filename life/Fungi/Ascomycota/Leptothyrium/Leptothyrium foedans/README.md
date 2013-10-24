@@ -1,14 +1,13 @@
-Leptothyrium foedens (Ces.) Sacc. SPECIES
-=======
+# Leptothyrium foedans (Ces.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 634 (1884)
 
 #### Original name
 Sacidium foedans Ces.

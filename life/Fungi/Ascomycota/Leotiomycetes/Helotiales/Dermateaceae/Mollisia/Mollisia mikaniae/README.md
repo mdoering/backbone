@@ -1,5 +1,4 @@
-Mollisia mikaniae Rehm SPECIES
-=======
+# Mollisia mikaniae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Satchmopsis australiensis B. Sutton & Pascoe SPECIES
-=======
+# Satchmopsis australiensis B. Sutton & Pascoe SPECIES
 
 #### Status
 ACCEPTED

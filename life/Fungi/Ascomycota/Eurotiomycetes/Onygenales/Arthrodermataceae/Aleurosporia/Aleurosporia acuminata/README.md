@@ -1,5 +1,4 @@
-Aleurosporia acuminata (E. Bodin) Grigorakis {?} SPECIES
-=======
+# Aleurosporia acuminata (E. Bodin) Grigorakis {?} SPECIES
 
 #### Status
 ACCEPTED

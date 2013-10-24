@@ -1,5 +1,4 @@
-Trichia antartica Aramb. & Spinedi, 1989 SPECIES
-=======
+# Trichia antartica Aramb. & Spinedi, 1989 SPECIES
 
 #### Status
 ACCEPTED

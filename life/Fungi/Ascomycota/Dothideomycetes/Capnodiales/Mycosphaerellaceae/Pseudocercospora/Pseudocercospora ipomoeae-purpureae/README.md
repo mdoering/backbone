@@ -1,5 +1,4 @@
-Pseudocercospora ipomoeae-purpureae (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora ipomoeae-purpureae (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

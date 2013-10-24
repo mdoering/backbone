@@ -1,5 +1,4 @@
-Phaeoisaria tuberculata B. Sutton SPECIES
-=======
+# Phaeoisaria tuberculata B. Sutton SPECIES
 
 #### Status
 ACCEPTED

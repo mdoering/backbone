@@ -1,5 +1,4 @@
-Verrucaria stenospora (J. Steiner) Zahlbr. SPECIES
-=======
+# Verrucaria stenospora (J. Steiner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

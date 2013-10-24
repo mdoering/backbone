@@ -1,5 +1,4 @@
-Psora sessitana (Bagl. & Carestia) Bagl. & Carestia SPECIES
-=======
+# Psora sessitana (Bagl. & Carestia) Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

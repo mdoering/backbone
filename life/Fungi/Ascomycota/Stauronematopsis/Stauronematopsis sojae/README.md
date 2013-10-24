@@ -1,14 +1,13 @@
-Pseudorobillarda sojae Uecker & Kulik, 1986 SPECIES
-=======
+# Stauronematopsis sojae (Uecker & Kulik) Abbas, B. Sutton & Ghaffar, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 78(3): 450 (1986)
+Pakist. J. Bot. 34(2): 123 (2002)
 
 #### Original name
 Pseudorobillarda sojae Uecker & Kulik, 1986

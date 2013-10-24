@@ -1,5 +1,4 @@
-Plagiocampa pentadactyla Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Plagiocampa pentadactyla Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

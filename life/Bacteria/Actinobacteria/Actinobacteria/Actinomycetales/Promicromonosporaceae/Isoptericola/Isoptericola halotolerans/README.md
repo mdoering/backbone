@@ -1,5 +1,4 @@
-Isoptericola halotolerans Zhang et al., 2005 SPECIES
-=======
+# Isoptericola halotolerans Zhang et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

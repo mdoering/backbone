@@ -1,5 +1,4 @@
-Solorina octospora Arnold SPECIES
-=======
+# Solorina octospora Arnold SPECIES
 
 #### Status
 ACCEPTED

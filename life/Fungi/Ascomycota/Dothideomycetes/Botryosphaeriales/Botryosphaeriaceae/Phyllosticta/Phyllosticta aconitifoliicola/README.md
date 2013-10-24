@@ -1,5 +1,4 @@
-Phyllosticta aconitifoliicola A.S. Patil & V.G. Rao SPECIES
-=======
+# Phyllosticta aconitifoliicola A.S. Patil & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta oahuensis Cash SPECIES
-=======
+# Phyllosticta oahuensis Cash SPECIES
 
 #### Status
 ACCEPTED

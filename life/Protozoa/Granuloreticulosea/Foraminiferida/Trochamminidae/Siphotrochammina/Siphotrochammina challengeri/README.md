@@ -1,5 +1,4 @@
-Siphotrochammina challengeri SPECIES
-=======
+# Siphotrochammina challengeri SPECIES
 
 #### Status
 ACCEPTED

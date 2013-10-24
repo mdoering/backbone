@@ -1,5 +1,4 @@
-Amanita muscoides (Wulfen) E.H.L. Krause SPECIES
-=======
+# Amanita muscoides (Wulfen) E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

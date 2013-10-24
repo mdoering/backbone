@@ -1,5 +1,4 @@
-Phomatospora radegundensis Scheuer SPECIES
-=======
+# Phomatospora radegundensis Scheuer SPECIES
 
 #### Status
 ACCEPTED

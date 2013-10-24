@@ -1,5 +1,4 @@
-Rigidoporopsis tegularis Juan Li & Y.C. Dai SPECIES
-=======
+# Rigidoporopsis tegularis Juan Li & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

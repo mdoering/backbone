@@ -1,5 +1,4 @@
-Polyporus eucalyptorum Lloyd SPECIES
-=======
+# Polyporus eucalyptorum Lloyd SPECIES
 
 #### Status
 ACCEPTED

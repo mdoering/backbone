@@ -1,5 +1,4 @@
-Macrosporium trisectum A. Raabe SPECIES
-=======
+# Macrosporium trisectum A. Raabe SPECIES
 
 #### Status
 ACCEPTED

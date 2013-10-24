@@ -1,5 +1,4 @@
-Placodium chysochroum (Mont.) Nyl. SPECIES
-=======
+# Placodium chysochroum (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

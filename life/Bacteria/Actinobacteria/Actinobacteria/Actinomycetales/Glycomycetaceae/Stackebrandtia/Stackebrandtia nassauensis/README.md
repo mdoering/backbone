@@ -1,5 +1,4 @@
-Stackebrandtia nassauensis Labeda & Kroppenstedt, 2005 SPECIES
-=======
+# Stackebrandtia nassauensis Labeda & Kroppenstedt, 2005 SPECIES
 
 #### Status
 ACCEPTED

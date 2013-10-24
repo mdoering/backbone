@@ -1,5 +1,4 @@
-Opegrapha circumducta Nyl. SPECIES
-=======
+# Opegrapha circumducta Nyl. SPECIES
 
 #### Status
 ACCEPTED

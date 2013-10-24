@@ -1,5 +1,4 @@
-Didymella microspora Vain. SPECIES
-=======
+# Didymella microspora Vain. SPECIES
 
 #### Status
 ACCEPTED

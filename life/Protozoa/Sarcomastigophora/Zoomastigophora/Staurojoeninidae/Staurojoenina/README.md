@@ -1,5 +1,4 @@
-Staurojoenina Grassi, 1920 GENUS
-=======
+# Staurojoenina Grassi, 1920 GENUS
 
 #### Status
 ACCEPTED

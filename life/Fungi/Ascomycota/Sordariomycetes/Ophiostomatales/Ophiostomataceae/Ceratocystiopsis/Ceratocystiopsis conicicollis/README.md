@@ -1,5 +1,4 @@
-Ceratocystiopsis conicicollis (Olchow. & J. Reid) H.P. Upadhyay SPECIES
-=======
+# Ceratocystiopsis conicicollis (Olchow. & J. Reid) H.P. Upadhyay SPECIES
 
 #### Status
 ACCEPTED

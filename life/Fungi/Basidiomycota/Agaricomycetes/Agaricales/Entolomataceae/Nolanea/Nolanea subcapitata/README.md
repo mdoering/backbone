@@ -1,5 +1,4 @@
-Nolanea subcapitata Largent SPECIES
-=======
+# Nolanea subcapitata Largent SPECIES
 
 #### Status
 ACCEPTED

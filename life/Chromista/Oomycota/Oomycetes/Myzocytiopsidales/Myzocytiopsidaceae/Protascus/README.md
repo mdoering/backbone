@@ -1,5 +1,4 @@
-Protascus P.A. Dangeard, 1903 GENUS
-=======
+# Protascus P.A. Dangeard, 1903 GENUS
 
 #### Status
 ACCEPTED

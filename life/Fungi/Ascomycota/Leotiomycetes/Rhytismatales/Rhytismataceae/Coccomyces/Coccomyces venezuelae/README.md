@@ -1,5 +1,4 @@
-Coccomyces venezuelae Sherwood, 1980 SPECIES
-=======
+# Coccomyces venezuelae Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

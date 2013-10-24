@@ -1,5 +1,4 @@
-Demetria Groth et al., 1997 GENUS
-=======
+# Demetria Groth et al., 1997 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora gratiolae Ellis & Everh. SPECIES
-=======
+# Cercospora gratiolae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

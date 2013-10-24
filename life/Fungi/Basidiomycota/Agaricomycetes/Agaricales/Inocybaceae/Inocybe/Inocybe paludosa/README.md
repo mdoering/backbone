@@ -1,5 +1,4 @@
-Inocybe paludosa Kühner SPECIES
-=======
+# Inocybe paludosa Kühner SPECIES
 
 #### Status
 ACCEPTED

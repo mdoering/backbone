@@ -1,5 +1,4 @@
-Solorina vitellina Fée SPECIES
-=======
+# Solorina vitellina Fée SPECIES
 
 #### Status
 ACCEPTED

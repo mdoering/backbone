@@ -1,5 +1,4 @@
-Stictina heppiana Müll. Arg. SPECIES
-=======
+# Stictina heppiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

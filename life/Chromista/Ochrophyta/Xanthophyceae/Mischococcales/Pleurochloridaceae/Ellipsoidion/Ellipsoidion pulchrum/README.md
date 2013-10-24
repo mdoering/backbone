@@ -1,5 +1,4 @@
-Ellipsoidion pulchrum Pascher SPECIES
-=======
+# Ellipsoidion pulchrum Pascher SPECIES
 
 #### Status
 ACCEPTED

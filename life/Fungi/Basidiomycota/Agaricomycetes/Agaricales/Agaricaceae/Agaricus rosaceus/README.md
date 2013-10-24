@@ -1,5 +1,4 @@
-Agaricus rosaceus Pers. SPECIES
-=======
+# Agaricus rosaceus Pers. SPECIES
 
 #### Status
 ACCEPTED

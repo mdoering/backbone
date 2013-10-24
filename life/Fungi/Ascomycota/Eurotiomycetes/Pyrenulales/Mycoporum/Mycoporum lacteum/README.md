@@ -1,8 +1,7 @@
-Mycoporum sparsellum Nyl., 1867 SPECIES
-=======
+# Mycoporum lacteum (Ach.) R.C. Harris, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

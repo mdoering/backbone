@@ -1,5 +1,4 @@
-Macrophyllosticta corynocarpi (J.V. Almeida & Sousa da Câmara) Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta corynocarpi (J.V. Almeida & Sousa da Câmara) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

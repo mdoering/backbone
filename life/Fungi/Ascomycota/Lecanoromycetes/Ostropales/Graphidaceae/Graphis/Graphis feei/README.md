@@ -1,5 +1,4 @@
-Graphis feei Zahlbr. SPECIES
-=======
+# Graphis feei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma ranunculi (Seym.) Kuntze SPECIES
-=======
+# Dicaeoma ranunculi (Seym.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

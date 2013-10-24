@@ -1,5 +1,4 @@
-Parapeltella mediocris Speg. SPECIES
-=======
+# Parapeltella mediocris Speg. SPECIES
 
 #### Status
 ACCEPTED

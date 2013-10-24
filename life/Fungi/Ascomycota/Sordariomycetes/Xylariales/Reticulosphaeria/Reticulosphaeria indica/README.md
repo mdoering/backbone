@@ -1,5 +1,4 @@
-Reticulosphaeria indica Sivan. & Bahekar, 1982 SPECIES
-=======
+# Reticulosphaeria indica Sivan. & Bahekar, 1982 SPECIES
 
 #### Status
 ACCEPTED

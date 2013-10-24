@@ -1,5 +1,4 @@
-Lepraria granulosa E. Slavíková SPECIES
-=======
+# Lepraria granulosa E. Slavíková SPECIES
 
 #### Status
 ACCEPTED

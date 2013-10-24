@@ -1,5 +1,4 @@
-Laboulbenia truncata Thaxt. SPECIES
-=======
+# Laboulbenia truncata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

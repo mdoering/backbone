@@ -1,5 +1,4 @@
-Mycaureola dilseae Maire & Chemin, 1922 SPECIES
-=======
+# Mycaureola dilseae Maire & Chemin, 1922 SPECIES
 
 #### Status
 ACCEPTED

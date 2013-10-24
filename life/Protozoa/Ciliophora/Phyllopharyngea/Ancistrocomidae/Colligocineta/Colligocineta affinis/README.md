@@ -1,5 +1,4 @@
-Colligocineta affinis Kozloff, 1976 SPECIES
-=======
+# Colligocineta affinis Kozloff, 1976 SPECIES
 
 #### Status
 ACCEPTED

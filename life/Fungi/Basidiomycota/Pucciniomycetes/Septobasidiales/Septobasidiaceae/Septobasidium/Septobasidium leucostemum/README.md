@@ -1,5 +1,4 @@
-Septobasidium leucostemum Pat. SPECIES
-=======
+# Septobasidium leucostemum Pat. SPECIES
 
 #### Status
 ACCEPTED

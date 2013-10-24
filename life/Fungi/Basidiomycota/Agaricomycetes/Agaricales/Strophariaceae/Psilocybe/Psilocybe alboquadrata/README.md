@@ -1,5 +1,4 @@
-Psilocybe alboquadrata Berk. SPECIES
-=======
+# Psilocybe alboquadrata Berk. SPECIES
 
 #### Status
 ACCEPTED

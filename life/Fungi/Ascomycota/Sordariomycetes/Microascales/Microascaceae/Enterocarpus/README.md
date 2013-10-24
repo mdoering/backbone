@@ -1,5 +1,4 @@
-Enterocarpus Locq.-Lin. GENUS
-=======
+# Enterocarpus Locq.-Lin. GENUS
 
 #### Status
 ACCEPTED

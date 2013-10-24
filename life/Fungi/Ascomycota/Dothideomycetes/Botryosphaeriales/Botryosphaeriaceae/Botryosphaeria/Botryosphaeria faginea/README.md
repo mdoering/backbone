@@ -1,5 +1,4 @@
-Botryosphaeria faginea De Not. & Ces. SPECIES
-=======
+# Botryosphaeria faginea De Not. & Ces. SPECIES
 
 #### Status
 ACCEPTED

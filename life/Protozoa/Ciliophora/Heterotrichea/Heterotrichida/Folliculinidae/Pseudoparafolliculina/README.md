@@ -1,5 +1,4 @@
-Pseudoparafolliculina Andrews & Nelson, 1942 GENUS
-=======
+# Pseudoparafolliculina Andrews & Nelson, 1942 GENUS
 
 #### Status
 ACCEPTED

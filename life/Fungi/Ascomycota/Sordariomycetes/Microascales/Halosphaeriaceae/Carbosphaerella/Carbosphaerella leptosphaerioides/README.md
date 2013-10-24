@@ -1,5 +1,4 @@
-Carbosphaerella leptosphaerioides I. Schmidt, 1969 SPECIES
-=======
+# Carbosphaerella leptosphaerioides I. Schmidt, 1969 SPECIES
 
 #### Status
 ACCEPTED

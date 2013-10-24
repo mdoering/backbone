@@ -1,5 +1,4 @@
-Trichototaxis villaensis (Sarmiento & Guerra, 1960) Buitkamp, 1977 SPECIES
-=======
+# Trichototaxis villaensis (Sarmiento & Guerra, 1960) Buitkamp, 1977 SPECIES
 
 #### Status
 ACCEPTED

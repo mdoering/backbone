@@ -1,5 +1,4 @@
-Sporocybe acicularis Penz. & Sacc. SPECIES
-=======
+# Sporocybe acicularis Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

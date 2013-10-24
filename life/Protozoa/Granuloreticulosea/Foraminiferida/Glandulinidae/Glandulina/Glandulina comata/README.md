@@ -1,5 +1,4 @@
-Glandulina comata (Batsch) SPECIES
-=======
+# Glandulina comata (Batsch) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Troposporopsis S.R. Whitton, McKenzie & K.D. Hyde GENUS
-=======
+# Troposporopsis S.R. Whitton, McKenzie & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

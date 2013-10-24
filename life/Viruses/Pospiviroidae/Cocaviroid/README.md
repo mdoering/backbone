@@ -1,5 +1,4 @@
-Cocaviroid GENUS
-=======
+# Cocaviroid GENUS
 
 #### Status
 ACCEPTED

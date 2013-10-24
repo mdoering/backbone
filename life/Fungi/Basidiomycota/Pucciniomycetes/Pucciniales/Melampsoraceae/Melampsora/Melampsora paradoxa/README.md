@@ -1,5 +1,4 @@
-Melampsora paradoxa Dietel & Holw., 1901 SPECIES
-=======
+# Melampsora paradoxa Dietel & Holw., 1901 SPECIES
 
 #### Status
 ACCEPTED

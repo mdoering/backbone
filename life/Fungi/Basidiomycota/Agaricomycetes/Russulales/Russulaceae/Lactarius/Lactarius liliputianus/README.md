@@ -1,5 +1,4 @@
-Lactarius liliputianus Verbeken & E. Horak SPECIES
-=======
+# Lactarius liliputianus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

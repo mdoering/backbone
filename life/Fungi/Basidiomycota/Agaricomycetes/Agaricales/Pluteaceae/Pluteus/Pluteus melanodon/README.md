@@ -1,5 +1,4 @@
-Pluteus melanodon Sacc. SPECIES
-=======
+# Pluteus melanodon Sacc. SPECIES
 
 #### Status
 ACCEPTED

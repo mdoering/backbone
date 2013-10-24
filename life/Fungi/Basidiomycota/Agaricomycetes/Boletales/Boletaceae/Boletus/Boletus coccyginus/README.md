@@ -1,5 +1,4 @@
-Boletus coccyginus Thiers SPECIES
-=======
+# Boletus coccyginus Thiers SPECIES
 
 #### Status
 ACCEPTED

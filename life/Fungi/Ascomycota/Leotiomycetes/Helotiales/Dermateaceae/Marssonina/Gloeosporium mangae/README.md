@@ -1,5 +1,4 @@
-Gloeosporium mangae F. Noack SPECIES
-=======
+# Gloeosporium mangae F. Noack SPECIES
 
 #### Status
 ACCEPTED

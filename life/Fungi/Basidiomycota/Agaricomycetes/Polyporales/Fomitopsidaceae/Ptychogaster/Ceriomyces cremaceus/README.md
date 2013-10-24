@@ -1,5 +1,4 @@
-Ceriomyces cremaceus Henn. SPECIES
-=======
+# Ceriomyces cremaceus Henn. SPECIES
 
 #### Status
 ACCEPTED

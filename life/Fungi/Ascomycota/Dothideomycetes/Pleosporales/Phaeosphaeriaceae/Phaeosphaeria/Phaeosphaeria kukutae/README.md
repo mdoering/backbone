@@ -1,5 +1,4 @@
-Phaeosphaeria kukutae G.S. Ridl., 1988 SPECIES
-=======
+# Phaeosphaeria kukutae G.S. Ridl., 1988 SPECIES
 
 #### Status
 ACCEPTED

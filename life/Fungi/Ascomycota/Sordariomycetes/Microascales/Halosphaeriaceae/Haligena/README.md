@@ -1,5 +1,4 @@
-Haligena Kohlm. GENUS
-=======
+# Haligena Kohlm. GENUS
 
 #### Status
 ACCEPTED

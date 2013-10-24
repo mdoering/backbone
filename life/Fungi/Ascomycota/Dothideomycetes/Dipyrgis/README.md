@@ -1,5 +1,4 @@
-Dipyrgis Clem. GENUS
-=======
+# Dipyrgis Clem. GENUS
 
 #### Status
 ACCEPTED

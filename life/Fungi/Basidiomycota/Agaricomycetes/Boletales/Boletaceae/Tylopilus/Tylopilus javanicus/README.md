@@ -1,5 +1,4 @@
-Tylopilus javanicus Henn. SPECIES
-=======
+# Tylopilus javanicus Henn. SPECIES
 
 #### Status
 ACCEPTED

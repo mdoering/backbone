@@ -1,5 +1,4 @@
-Mycosphaerella pachypleuri (Fuckel) Jacz. SPECIES
-=======
+# Mycosphaerella pachypleuri (Fuckel) Jacz. SPECIES
 
 #### Status
 ACCEPTED

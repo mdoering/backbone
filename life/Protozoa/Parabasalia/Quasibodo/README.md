@@ -1,5 +1,4 @@
-Quasibodo Bernard, Simpson & Patterson, 2000 GENUS
-=======
+# Quasibodo Bernard, Simpson & Patterson, 2000 GENUS
 
 #### Status
 ACCEPTED

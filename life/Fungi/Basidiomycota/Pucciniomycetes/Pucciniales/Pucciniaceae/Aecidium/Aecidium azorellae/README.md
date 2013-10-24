@@ -1,5 +1,4 @@
-Aecidium azorellae Speg. SPECIES
-=======
+# Aecidium azorellae Speg. SPECIES
 
 #### Status
 ACCEPTED

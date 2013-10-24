@@ -1,5 +1,4 @@
-Cercospora cocculicola W.W. Ray SPECIES
-=======
+# Cercospora cocculicola W.W. Ray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia erythrosperma Vain. SPECIES
-=======
+# Cladonia erythrosperma Vain. SPECIES
 
 #### Status
 ACCEPTED

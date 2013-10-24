@@ -1,11 +1,10 @@
-Tenua R.J. Davey, 1978 GENUS
-=======
+# Sentusidinium W.A.S.Sarjeant & L.E.Stover, 1978 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

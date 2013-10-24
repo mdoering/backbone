@@ -1,5 +1,4 @@
-Lecanora murorum var. murorum VARIETY
-=======
+# Lecanora murorum SPECIES
 
 #### Status
 ACCEPTED

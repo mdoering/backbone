@@ -1,5 +1,4 @@
-Merulius dichotomus (Peck) Kuntze SPECIES
-=======
+# Merulius dichotomus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

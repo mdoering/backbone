@@ -1,5 +1,4 @@
-Ascochyta herreana Henn. & Staritz SPECIES
-=======
+# Ascochyta herreana Henn. & Staritz SPECIES
 
 #### Status
 ACCEPTED

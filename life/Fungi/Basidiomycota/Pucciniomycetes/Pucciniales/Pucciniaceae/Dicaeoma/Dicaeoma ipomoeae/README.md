@@ -1,5 +1,4 @@
-Dicaeoma ipomoeae (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma ipomoeae (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

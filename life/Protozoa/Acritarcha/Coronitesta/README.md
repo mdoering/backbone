@@ -1,5 +1,4 @@
-Coronitesta Uutela & Tynni, 1991 GENUS
-=======
+# Coronitesta Uutela & Tynni, 1991 GENUS
 
 #### Status
 ACCEPTED

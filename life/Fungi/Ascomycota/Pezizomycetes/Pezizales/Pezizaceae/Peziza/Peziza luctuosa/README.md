@@ -1,5 +1,4 @@
-Peziza luctuosa Cooke SPECIES
-=======
+# Peziza luctuosa Cooke SPECIES
 
 #### Status
 ACCEPTED

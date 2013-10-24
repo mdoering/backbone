@@ -1,5 +1,4 @@
-Polyporus melanosporus Lloyd SPECIES
-=======
+# Polyporus melanosporus Lloyd SPECIES
 
 #### Status
 ACCEPTED

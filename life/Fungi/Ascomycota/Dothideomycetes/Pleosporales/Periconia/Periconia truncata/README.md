@@ -1,5 +1,4 @@
-Periconia truncata Cooke & Peck SPECIES
-=======
+# Periconia truncata Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

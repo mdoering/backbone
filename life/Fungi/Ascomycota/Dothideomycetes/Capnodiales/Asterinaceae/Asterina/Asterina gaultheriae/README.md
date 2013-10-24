@@ -1,5 +1,4 @@
-Asterina gaultheriae M.A. Curtis SPECIES
-=======
+# Asterina gaultheriae M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

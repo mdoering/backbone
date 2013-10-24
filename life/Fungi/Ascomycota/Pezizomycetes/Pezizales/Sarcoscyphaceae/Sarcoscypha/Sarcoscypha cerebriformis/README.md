@@ -1,5 +1,4 @@
-Sarcoscypha cerebriformis W.Y. Zhuang & Zheng Wang SPECIES
-=======
+# Sarcoscypha cerebriformis W.Y. Zhuang & Zheng Wang SPECIES
 
 #### Status
 ACCEPTED

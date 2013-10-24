@@ -1,5 +1,4 @@
-Polyporus declivis Kalchbr. SPECIES
-=======
+# Polyporus declivis Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

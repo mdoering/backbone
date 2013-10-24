@@ -1,5 +1,4 @@
-Phlyctochytrium stellatum H.E. Petersen SPECIES
-=======
+# Phlyctochytrium stellatum H.E. Petersen SPECIES
 
 #### Status
 ACCEPTED

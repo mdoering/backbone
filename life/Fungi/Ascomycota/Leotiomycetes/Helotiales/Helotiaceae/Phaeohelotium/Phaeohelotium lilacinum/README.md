@@ -1,14 +1,13 @@
-Pezicula lilacina Bres. SPECIES
-=======
+# Phaeohelotium lilacinum (Bres.) Dennis, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+British Ascomycetes 118 (1968)
 
 #### Original name
 Pezicula lilacina Bres.

@@ -1,5 +1,4 @@
-Amanita westii (Murrill) Murrill SPECIES
-=======
+# Amanita westii (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

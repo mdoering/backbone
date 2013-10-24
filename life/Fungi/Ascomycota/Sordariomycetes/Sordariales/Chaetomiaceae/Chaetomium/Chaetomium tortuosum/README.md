@@ -1,5 +1,4 @@
-Chaetomium tortuosum Garb., 1936 SPECIES
-=======
+# Chaetomium tortuosum Garb., 1936 SPECIES
 
 #### Status
 ACCEPTED

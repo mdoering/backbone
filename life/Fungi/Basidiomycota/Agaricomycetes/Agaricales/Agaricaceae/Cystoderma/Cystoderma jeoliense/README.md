@@ -1,5 +1,4 @@
-Cystoderma jeoliense Dhanch., J.C. Bhatt & S.K. Pant SPECIES
-=======
+# Cystoderma jeoliense Dhanch., J.C. Bhatt & S.K. Pant SPECIES
 
 #### Status
 ACCEPTED

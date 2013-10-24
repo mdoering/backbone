@@ -1,5 +1,4 @@
-Tulostoma fuscoviolaceostipitatum Schwarzman & Philimonova SPECIES
-=======
+# Tulostoma fuscoviolaceostipitatum Schwarzman & Philimonova SPECIES
 
 #### Status
 ACCEPTED

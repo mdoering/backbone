@@ -1,5 +1,4 @@
-Dendrophoma tiliae Peck SPECIES
-=======
+# Dendrophoma tiliae Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia archangelicae Rostr. SPECIES
-=======
+# Laestadia archangelicae Rostr. SPECIES
 
 #### Status
 ACCEPTED

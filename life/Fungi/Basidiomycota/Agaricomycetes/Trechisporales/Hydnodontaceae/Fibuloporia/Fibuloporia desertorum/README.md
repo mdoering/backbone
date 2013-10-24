@@ -1,5 +1,4 @@
-Fibuloporia desertorum (Kravtzev) Schwarzman SPECIES
-=======
+# Fibuloporia desertorum (Kravtzev) Schwarzman SPECIES
 
 #### Status
 ACCEPTED

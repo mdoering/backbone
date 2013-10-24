@@ -1,5 +1,4 @@
-Ancistrum arcopagiae Fenchel, 1965 SPECIES
-=======
+# Ancistrum arcopagiae Fenchel, 1965 SPECIES
 
 #### Status
 ACCEPTED

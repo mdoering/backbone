@@ -1,5 +1,4 @@
-Humaria mussooriensis K.S. Thind, E.K. Cash & Sethi {?} SPECIES
-=======
+# Humaria mussooriensis K.S. Thind, E.K. Cash & Sethi {?} SPECIES
 
 #### Status
 ACCEPTED

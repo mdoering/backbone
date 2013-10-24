@@ -1,5 +1,4 @@
-Cortinarius fuscodiscus A.H. Sm. SPECIES
-=======
+# Cortinarius fuscodiscus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

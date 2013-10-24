@@ -1,5 +1,4 @@
-Inocybe devulgata (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe devulgata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

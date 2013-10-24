@@ -1,5 +1,4 @@
-Diplodia moelleriana Thüm. SPECIES
-=======
+# Diplodia moelleriana Thüm. SPECIES
 
 #### Status
 ACCEPTED

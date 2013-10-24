@@ -1,8 +1,7 @@
-Sigmoilina grata (Terquem, 1878) SPECIES
-=======
+# Sigmoilinita grata (Terquem, 1878) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

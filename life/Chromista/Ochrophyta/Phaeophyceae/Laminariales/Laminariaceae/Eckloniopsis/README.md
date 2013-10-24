@@ -1,5 +1,4 @@
-Eckloniopsis Okamura, 1927 GENUS
-=======
+# Eckloniopsis Okamura, 1927 GENUS
 
 #### Status
 ACCEPTED

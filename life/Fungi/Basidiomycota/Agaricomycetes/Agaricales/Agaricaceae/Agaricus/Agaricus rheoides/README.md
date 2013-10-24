@@ -1,5 +1,4 @@
-Agaricus rheoides With. SPECIES
-=======
+# Agaricus rheoides With. SPECIES
 
 #### Status
 ACCEPTED

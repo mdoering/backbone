@@ -1,5 +1,4 @@
-Parmelia leiocarpa Taylor SPECIES
-=======
+# Parmelia leiocarpa Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Paralaestadia fimbriatae Vain. SPECIES
-=======
+# Lichenosticta alcicornaria (Linds.) D. Hawksw., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 49(2): 75 et 245 (1921)
+in Hawksworth, James & Coppins, Lichenologist 12(1): 107 (1980)
 
 #### Original name
-Paralaestadia fimbriatae Vain.
+Microthelia alcicornaria Linds., 1869
 
 ### Remarks
 null

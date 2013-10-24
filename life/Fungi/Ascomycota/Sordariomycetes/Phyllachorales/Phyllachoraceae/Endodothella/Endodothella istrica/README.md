@@ -1,5 +1,4 @@
-Endodothella istrica Petr., 1921 SPECIES
-=======
+# Endodothella istrica Petr., 1921 SPECIES
 
 #### Status
 ACCEPTED

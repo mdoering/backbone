@@ -1,5 +1,4 @@
-Aecidium mei-athamantici J. Schröt. SPECIES
-=======
+# Aecidium mei-athamantici J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

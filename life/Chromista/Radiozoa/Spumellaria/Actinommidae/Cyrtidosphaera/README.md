@@ -1,5 +1,4 @@
-Cyrtidosphaera Haeckel, 1860 GENUS
-=======
+# Cyrtidosphaera Haeckel, 1860 GENUS
 
 #### Status
 ACCEPTED

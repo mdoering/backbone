@@ -1,5 +1,4 @@
-Caloplaca deflexa SPECIES
-=======
+# Caloplaca deflexa SPECIES
 
 #### Status
 ACCEPTED

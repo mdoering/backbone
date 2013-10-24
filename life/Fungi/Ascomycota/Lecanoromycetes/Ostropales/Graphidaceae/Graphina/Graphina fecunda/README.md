@@ -1,5 +1,4 @@
-Graphina fecunda SPECIES
-=======
+# Graphina fecunda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conidiobolus margaritatus B. Huang, Humber & K.T. Hodge, 2007 SPECIES
-=======
+# Conidiobolus margaritatus B. Huang, Humber & K.T. Hodge, 2007 SPECIES
 
 #### Status
 ACCEPTED

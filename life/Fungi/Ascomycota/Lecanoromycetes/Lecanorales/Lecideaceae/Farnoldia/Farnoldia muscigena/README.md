@@ -1,5 +1,4 @@
-Farnoldia muscigena (Vezda) Clauzade & Cl. Roux SPECIES
-=======
+# Farnoldia muscigena (Vezda) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

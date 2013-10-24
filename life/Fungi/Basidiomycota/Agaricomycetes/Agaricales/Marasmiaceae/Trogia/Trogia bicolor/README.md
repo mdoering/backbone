@@ -1,5 +1,4 @@
-Trogia bicolor Berk. & Broome SPECIES
-=======
+# Trogia bicolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

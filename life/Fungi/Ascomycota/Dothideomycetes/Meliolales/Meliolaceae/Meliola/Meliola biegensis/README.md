@@ -1,5 +1,4 @@
-Meliola biegensis Hansf. SPECIES
-=======
+# Meliola biegensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

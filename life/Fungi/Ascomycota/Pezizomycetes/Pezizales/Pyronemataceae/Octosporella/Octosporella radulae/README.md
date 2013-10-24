@@ -1,5 +1,4 @@
-Octosporella radulae Döbbeler & Menjívar, 1992 SPECIES
-=======
+# Octosporella radulae Döbbeler & Menjívar, 1992 SPECIES
 
 #### Status
 ACCEPTED

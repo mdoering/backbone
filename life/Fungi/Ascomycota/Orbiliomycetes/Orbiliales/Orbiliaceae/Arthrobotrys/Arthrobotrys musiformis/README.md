@@ -1,14 +1,13 @@
-Dactylella musiformis (Drechsler) Matsush., 1971 SPECIES
-=======
+# Arthrobotrys musiformis Drechsler, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Microfungi of the Solomon Islands and Papua-New Guinea (Osaka) 22 (1971)
+Mycologia 29(4): 481 (1937)
 
 #### Original name
 Arthrobotrys musiformis Drechsler, 1937

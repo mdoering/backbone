@@ -1,5 +1,4 @@
-Streptomyces phaeopurpureus Shinobu, 1957 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces phaeopurpureus Shinobu, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

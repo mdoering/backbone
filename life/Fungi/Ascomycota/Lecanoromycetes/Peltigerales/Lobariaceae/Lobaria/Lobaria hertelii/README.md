@@ -1,5 +1,4 @@
-Lobaria hertelii Sipman SPECIES
-=======
+# Lobaria hertelii Sipman SPECIES
 
 #### Status
 ACCEPTED

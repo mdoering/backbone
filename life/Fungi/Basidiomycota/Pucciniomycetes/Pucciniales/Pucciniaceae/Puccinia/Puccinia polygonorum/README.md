@@ -1,5 +1,4 @@
-Puccinia polygonorum Schltdl. SPECIES
-=======
+# Puccinia polygonorum Schltdl. SPECIES
 
 #### Status
 ACCEPTED

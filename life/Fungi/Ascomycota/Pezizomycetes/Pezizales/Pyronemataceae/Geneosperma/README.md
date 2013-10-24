@@ -1,5 +1,4 @@
-Geneosperma Rifai GENUS
-=======
+# Geneosperma Rifai GENUS
 
 #### Status
 ACCEPTED

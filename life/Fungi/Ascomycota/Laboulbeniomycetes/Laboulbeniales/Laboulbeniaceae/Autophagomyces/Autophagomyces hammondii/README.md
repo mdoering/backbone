@@ -1,5 +1,4 @@
-Autophagomyces hammondii R.K. Benj. SPECIES
-=======
+# Autophagomyces hammondii R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

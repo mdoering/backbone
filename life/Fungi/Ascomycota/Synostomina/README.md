@@ -1,5 +1,4 @@
-Synostomina Petr. GENUS
-=======
+# Synostomina Petr. GENUS
 
 #### Status
 ACCEPTED

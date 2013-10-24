@@ -1,5 +1,4 @@
-Sphaeria subiculata Schwein. SPECIES
-=======
+# Sphaeria subiculata Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocollybia monticola Halling & J.L. Mata SPECIES
-=======
+# Rhodocollybia monticola Halling & J.L. Mata SPECIES
 
 #### Status
 ACCEPTED

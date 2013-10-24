@@ -1,5 +1,4 @@
-Microsphaera americana U. Braun SPECIES
-=======
+# Microsphaera americana U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo helianthemi Rabenh. SPECIES
-=======
+# Uredo helianthemi Rabenh. SPECIES
 
 #### Status
 ACCEPTED

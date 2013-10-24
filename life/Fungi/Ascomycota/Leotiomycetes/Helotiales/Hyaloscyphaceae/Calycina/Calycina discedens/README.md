@@ -1,5 +1,4 @@
-Calycina discedens (P. Karst.) Kuntze SPECIES
-=======
+# Calycina discedens (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

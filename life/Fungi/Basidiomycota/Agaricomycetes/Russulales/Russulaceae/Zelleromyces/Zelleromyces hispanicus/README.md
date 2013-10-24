@@ -1,5 +1,4 @@
-Zelleromyces hispanicus Calonge & Pegler, 1998 SPECIES
-=======
+# Zelleromyces hispanicus Calonge & Pegler, 1998 SPECIES
 
 #### Status
 ACCEPTED

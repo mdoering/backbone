@@ -1,5 +1,4 @@
-Erysiphe cercidis T. Xu SPECIES
-=======
+# Erysiphe cercidis T. Xu SPECIES
 
 #### Status
 ACCEPTED

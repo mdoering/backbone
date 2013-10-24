@@ -1,5 +1,4 @@
-Meliola hessii F. Stevens SPECIES
-=======
+# Meliola hessii F. Stevens SPECIES
 
 #### Status
 ACCEPTED

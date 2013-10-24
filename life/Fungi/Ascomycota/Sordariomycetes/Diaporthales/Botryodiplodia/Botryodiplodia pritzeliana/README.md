@@ -1,5 +1,4 @@
-Botryodiplodia pritzeliana Henn. SPECIES
-=======
+# Botryodiplodia pritzeliana Henn. SPECIES
 
 #### Status
 ACCEPTED

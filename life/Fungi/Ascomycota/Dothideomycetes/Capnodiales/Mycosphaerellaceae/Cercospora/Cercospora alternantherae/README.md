@@ -1,5 +1,4 @@
-Cercospora alternantherae Ellis & Langl. SPECIES
-=======
+# Cercospora alternantherae Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

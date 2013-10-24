@@ -1,5 +1,4 @@
-Teichosporella lantanae Tilak SPECIES
-=======
+# Teichosporella lantanae Tilak SPECIES
 
 #### Status
 ACCEPTED

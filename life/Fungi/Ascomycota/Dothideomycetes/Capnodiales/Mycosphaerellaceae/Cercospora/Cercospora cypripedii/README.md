@@ -1,5 +1,4 @@
-Cercospora cypripedii Ellis & Dearn. SPECIES
-=======
+# Cercospora cypripedii Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

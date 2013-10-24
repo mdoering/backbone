@@ -1,5 +1,4 @@
-Gyrodinium resplendens Hulburt SPECIES
-=======
+# Gyrodinium resplendens Hulburt SPECIES
 
 #### Status
 ACCEPTED

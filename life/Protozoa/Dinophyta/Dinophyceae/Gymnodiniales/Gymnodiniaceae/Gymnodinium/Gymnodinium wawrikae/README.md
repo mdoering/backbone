@@ -1,5 +1,4 @@
-Gymnodinium wawrikae Schiller SPECIES
-=======
+# Gymnodinium wawrikae Schiller SPECIES
 
 #### Status
 ACCEPTED

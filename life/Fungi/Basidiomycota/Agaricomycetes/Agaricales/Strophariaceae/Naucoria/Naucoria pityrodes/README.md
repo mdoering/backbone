@@ -1,5 +1,4 @@
-Naucoria pityrodes (F. Brig.) Sacc. SPECIES
-=======
+# Naucoria pityrodes (F. Brig.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

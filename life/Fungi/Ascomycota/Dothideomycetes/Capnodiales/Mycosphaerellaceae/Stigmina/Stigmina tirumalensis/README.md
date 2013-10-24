@@ -1,5 +1,4 @@
-Stigmina tirumalensis U. Braun & Bagyan. SPECIES
-=======
+# Stigmina tirumalensis U. Braun & Bagyan. SPECIES
 
 #### Status
 ACCEPTED

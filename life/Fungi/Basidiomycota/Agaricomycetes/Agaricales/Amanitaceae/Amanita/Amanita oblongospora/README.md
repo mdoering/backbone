@@ -1,5 +1,4 @@
-Amanita oblongospora Contu SPECIES
-=======
+# Amanita oblongospora Contu SPECIES
 
 #### Status
 ACCEPTED

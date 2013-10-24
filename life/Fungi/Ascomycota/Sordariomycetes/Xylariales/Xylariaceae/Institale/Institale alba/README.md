@@ -1,5 +1,4 @@
-Institale alba Lloyd SPECIES
-=======
+# Institale alba Lloyd SPECIES
 
 #### Status
 ACCEPTED

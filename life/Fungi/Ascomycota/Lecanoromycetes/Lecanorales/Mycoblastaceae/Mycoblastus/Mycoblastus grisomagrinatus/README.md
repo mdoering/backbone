@@ -1,5 +1,4 @@
-Mycoblastus grisomagrinatus Groenh. SPECIES
-=======
+# Mycoblastus grisomagrinatus Groenh. SPECIES
 
 #### Status
 ACCEPTED

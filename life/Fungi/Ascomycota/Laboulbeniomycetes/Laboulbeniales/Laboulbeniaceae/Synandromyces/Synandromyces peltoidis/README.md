@@ -1,5 +1,4 @@
-Synandromyces peltoidis Thaxt., 1931 SPECIES
-=======
+# Synandromyces peltoidis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

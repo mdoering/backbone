@@ -1,5 +1,4 @@
-Hyphodontia rickii (Hjortstam & Ryvarden) Gresl. & Rajchenb. SPECIES
-=======
+# Hyphodontia rickii (Hjortstam & Ryvarden) Gresl. & Rajchenb. SPECIES
 
 #### Status
 ACCEPTED

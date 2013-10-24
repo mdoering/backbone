@@ -1,5 +1,4 @@
-Ocellaria vanillae Henn. SPECIES
-=======
+# Ocellaria vanillae Henn. SPECIES
 
 #### Status
 ACCEPTED

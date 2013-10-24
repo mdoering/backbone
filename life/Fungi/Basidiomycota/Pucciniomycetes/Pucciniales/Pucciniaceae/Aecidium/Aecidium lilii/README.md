@@ -1,5 +1,4 @@
-Aecidium lilii Clinton SPECIES
-=======
+# Aecidium lilii Clinton SPECIES
 
 #### Status
 ACCEPTED

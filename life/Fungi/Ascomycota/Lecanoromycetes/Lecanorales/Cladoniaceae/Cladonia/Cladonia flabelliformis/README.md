@@ -1,5 +1,4 @@
-Cladonia flabelliformis var. flabelliformis VARIETY
-=======
+# Cladonia flabelliformis (Flörke) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta Soc. Fauna Flora fenn. 4: 113 (1887)
 
 #### Original name
-Cladonia flabelliformis var. flabelliformis
+null
 
 ### Remarks
 null

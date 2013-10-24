@@ -1,5 +1,4 @@
-Irene photiniicola W. Yamam. SPECIES
-=======
+# Irene photiniicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia nathorstii (Lynge) J.W. Thomson SPECIES
-=======
+# Aspicilia nathorstii (Lynge) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

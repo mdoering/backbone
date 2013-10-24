@@ -1,5 +1,4 @@
-Peltosphaeria petrakiana Rehm SPECIES
-=======
+# Peltosphaeria petrakiana Rehm SPECIES
 
 #### Status
 ACCEPTED

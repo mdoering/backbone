@@ -1,5 +1,4 @@
-Thelotrema leiospodium Nyl. SPECIES
-=======
+# Thelotrema leiospodium Nyl. SPECIES
 
 #### Status
 ACCEPTED

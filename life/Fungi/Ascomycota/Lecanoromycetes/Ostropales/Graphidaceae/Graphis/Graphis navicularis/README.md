@@ -1,5 +1,4 @@
-Graphis navicularis Vain. SPECIES
-=======
+# Graphis navicularis Vain. SPECIES
 
 #### Status
 ACCEPTED

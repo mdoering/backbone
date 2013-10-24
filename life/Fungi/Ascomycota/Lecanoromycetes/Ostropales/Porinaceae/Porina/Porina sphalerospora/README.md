@@ -1,5 +1,4 @@
-Porina sphalerospora Vain. SPECIES
-=======
+# Porina sphalerospora Vain. SPECIES
 
 #### Status
 ACCEPTED

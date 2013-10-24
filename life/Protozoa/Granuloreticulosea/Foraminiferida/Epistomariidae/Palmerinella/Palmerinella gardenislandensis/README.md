@@ -1,5 +1,4 @@
-Palmerinella gardenislandensis (Akers, 1952) SPECIES
-=======
+# Palmerinella gardenislandensis (Akers, 1952) SPECIES
 
 #### Status
 ACCEPTED

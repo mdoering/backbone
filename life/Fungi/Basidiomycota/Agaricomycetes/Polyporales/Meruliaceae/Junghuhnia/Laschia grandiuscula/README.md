@@ -1,5 +1,4 @@
-Laschia grandiuscula (Syd.) Trotter SPECIES
-=======
+# Laschia grandiuscula (Syd.) Trotter SPECIES
 
 #### Status
 ACCEPTED

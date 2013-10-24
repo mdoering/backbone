@@ -1,5 +1,4 @@
-Pyrenographa xylographoides Aptroot SPECIES
-=======
+# Pyrenographa xylographoides Aptroot SPECIES
 
 #### Status
 ACCEPTED

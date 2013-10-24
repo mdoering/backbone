@@ -1,5 +1,4 @@
-Fomes auriscalpioides Henn. SPECIES
-=======
+# Fomes auriscalpioides Henn. SPECIES
 
 #### Status
 ACCEPTED

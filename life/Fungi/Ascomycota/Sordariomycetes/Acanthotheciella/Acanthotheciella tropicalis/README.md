@@ -1,5 +1,4 @@
-Acanthotheciella tropicalis Nag Raj SPECIES
-=======
+# Acanthotheciella tropicalis Nag Raj SPECIES
 
 #### Status
 ACCEPTED

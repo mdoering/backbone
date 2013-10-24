@@ -1,5 +1,4 @@
-Corynespora morindae-tinctoriae Meenu & Kamal SPECIES
-=======
+# Corynespora morindae-tinctoriae Meenu & Kamal SPECIES
 
 #### Status
 ACCEPTED

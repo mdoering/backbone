@@ -1,5 +1,4 @@
-Leptostroma rhoinum Schwein. SPECIES
-=======
+# Leptostroma rhoinum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora moghaniae (Suj. Singh) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora moghaniae (Suj. Singh) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

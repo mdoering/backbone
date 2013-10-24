@@ -1,5 +1,4 @@
-Coniothecium nitrariae Bubák SPECIES
-=======
+# Coniothecium nitrariae Bubák SPECIES
 
 #### Status
 ACCEPTED

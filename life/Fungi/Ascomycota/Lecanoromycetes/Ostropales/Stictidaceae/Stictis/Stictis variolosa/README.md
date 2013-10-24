@@ -1,5 +1,4 @@
-Stictis variolosa Pers. SPECIES
-=======
+# Stictis variolosa Pers. SPECIES
 
 #### Status
 ACCEPTED

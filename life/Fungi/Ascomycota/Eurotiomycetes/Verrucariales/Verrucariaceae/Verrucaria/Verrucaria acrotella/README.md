@@ -1,17 +1,16 @@
-Verrucaria acrotella var. acrotella Ach. VARIETY
-=======
+# Verrucaria acrotella Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Method. Lich. 123 (1803)
 
 #### Original name
-Verrucaria acrotella var. acrotella Ach.
+Verrucaria acrotella Ach.
 
 ### Remarks
 null

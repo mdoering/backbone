@@ -1,5 +1,4 @@
-Camillea globosoturbinata Lloyd SPECIES
-=======
+# Camillea globosoturbinata Lloyd SPECIES
 
 #### Status
 ACCEPTED

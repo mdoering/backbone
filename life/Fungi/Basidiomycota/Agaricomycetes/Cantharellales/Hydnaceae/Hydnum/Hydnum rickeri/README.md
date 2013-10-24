@@ -1,5 +1,4 @@
-Hydnum rickeri (Banker) Sacc. SPECIES
-=======
+# Hydnum rickeri (Banker) Sacc. SPECIES
 
 #### Status
 ACCEPTED

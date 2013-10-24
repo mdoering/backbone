@@ -1,5 +1,4 @@
-Hopkinsina pacifica Cushman, 1933 SPECIES
-=======
+# Hopkinsina pacifica Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

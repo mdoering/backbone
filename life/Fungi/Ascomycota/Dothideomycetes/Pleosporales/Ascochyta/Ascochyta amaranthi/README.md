@@ -1,5 +1,4 @@
-Ascochyta amaranthi Allesch. SPECIES
-=======
+# Ascochyta amaranthi Allesch. SPECIES
 
 #### Status
 ACCEPTED

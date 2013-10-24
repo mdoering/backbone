@@ -1,5 +1,4 @@
-Phellinus shoushanus T.T. Chang & W.N. Chou SPECIES
-=======
+# Phellinus shoushanus T.T. Chang & W.N. Chou SPECIES
 
 #### Status
 ACCEPTED

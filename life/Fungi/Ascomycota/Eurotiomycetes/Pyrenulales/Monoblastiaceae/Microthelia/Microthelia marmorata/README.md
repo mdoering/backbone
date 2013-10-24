@@ -1,5 +1,4 @@
-Microthelia marmorata SPECIES
-=======
+# Microthelia marmorata SPECIES
 
 #### Status
 ACCEPTED

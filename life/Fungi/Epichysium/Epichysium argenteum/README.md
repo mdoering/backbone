@@ -1,5 +1,4 @@
-Epichysium argenteum Tode SPECIES
-=======
+# Epichysium argenteum Tode SPECIES
 
 #### Status
 ACCEPTED

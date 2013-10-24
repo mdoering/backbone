@@ -1,5 +1,4 @@
-Pseudoscypha abietis J. Reid & Piroz., 1966 SPECIES
-=======
+# Pseudoscypha abietis J. Reid & Piroz., 1966 SPECIES
 
 #### Status
 ACCEPTED

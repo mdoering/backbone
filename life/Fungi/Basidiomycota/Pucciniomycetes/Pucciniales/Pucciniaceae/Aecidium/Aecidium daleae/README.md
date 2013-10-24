@@ -1,5 +1,4 @@
-Aecidium daleae Kellerm. & Swingle SPECIES
-=======
+# Aecidium daleae Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Leucocytospora corni (Westend.) Höhn., 1927 SPECIES
-=======
+# Cytospora corni Westend., 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. bot. Inst. tech. Hochsch. Wien 4: 73 (1927)
+null
 
 #### Original name
 Cytospora corni Westend., 1890

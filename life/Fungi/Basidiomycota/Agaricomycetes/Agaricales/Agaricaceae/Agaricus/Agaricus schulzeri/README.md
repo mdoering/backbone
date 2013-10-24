@@ -1,5 +1,4 @@
-Agaricus schulzeri Kalchbr. SPECIES
-=======
+# Agaricus schulzeri Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

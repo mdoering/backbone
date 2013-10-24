@@ -1,5 +1,4 @@
-Bacillus luciferensis Logan et al., 2002 SPECIES
-=======
+# Bacillus luciferensis Logan et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

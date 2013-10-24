@@ -1,5 +1,4 @@
-Merulius puiggarii Speg. SPECIES
-=======
+# Merulius puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

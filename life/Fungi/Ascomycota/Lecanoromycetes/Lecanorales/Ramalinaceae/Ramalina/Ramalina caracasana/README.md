@@ -1,5 +1,4 @@
-Ramalina caracasana var. caracasana VARIETY
-=======
+# Ramalina caracasana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 60: 471 (1877)
 
 #### Original name
-Ramalina caracasana var. caracasana
+Ramalina caracasana Müll. Arg.
 
 ### Remarks
 null

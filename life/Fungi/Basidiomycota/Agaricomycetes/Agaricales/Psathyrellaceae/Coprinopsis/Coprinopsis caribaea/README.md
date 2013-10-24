@@ -1,5 +1,4 @@
-Coprinopsis caribaea (Pegler) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis caribaea (Pegler) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

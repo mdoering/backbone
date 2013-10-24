@@ -1,5 +1,4 @@
-Calochaetis GENUS
-=======
+# Calochaetis GENUS
 
 #### Status
 ACCEPTED

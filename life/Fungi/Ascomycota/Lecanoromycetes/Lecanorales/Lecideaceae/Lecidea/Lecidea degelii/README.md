@@ -1,5 +1,4 @@
-Lecidea degelii H. Magn. SPECIES
-=======
+# Lecidea degelii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ustilago typhoides (Wallr.) Berk. & Broome, 1850 SPECIES
-=======
+# Ustilago grandis Fr., 1832 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 5: 463 (1850)
+Syst. mycol. (Lundae) 3(2): 518 (1832)
 
 #### Original name
-null
+Ustilago grandis Fr., 1832
 
 ### Remarks
 null

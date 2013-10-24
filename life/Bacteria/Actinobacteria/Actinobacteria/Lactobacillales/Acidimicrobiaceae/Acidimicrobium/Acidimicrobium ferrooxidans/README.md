@@ -1,5 +1,4 @@
-Acidimicrobium ferrooxidans Clark & Norris, 1996 SPECIES
-=======
+# Acidimicrobium ferrooxidans Clark & Norris, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium pubescens Pers. SPECIES
-=======
+# Sclerotium pubescens Pers. SPECIES
 
 #### Status
 ACCEPTED

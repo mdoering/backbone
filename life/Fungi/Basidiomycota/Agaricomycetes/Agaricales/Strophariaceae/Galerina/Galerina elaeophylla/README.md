@@ -1,5 +1,4 @@
-Galerina elaeophylla Singer SPECIES
-=======
+# Galerina elaeophylla Singer SPECIES
 
 #### Status
 ACCEPTED

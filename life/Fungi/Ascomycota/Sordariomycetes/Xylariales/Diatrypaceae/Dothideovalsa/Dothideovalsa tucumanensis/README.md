@@ -1,14 +1,13 @@
-Eutypa tucumanensis (Speg.) Petr., 1934 SPECIES
-=======
+# Dothideovalsa tucumanensis Speg., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 32: 356 (1934)
+Anal. Mus. nac. B. Aires, Ser. 3 19(12): 414 (1909)
 
 #### Original name
 Dothideovalsa tucumanensis Speg., 1909

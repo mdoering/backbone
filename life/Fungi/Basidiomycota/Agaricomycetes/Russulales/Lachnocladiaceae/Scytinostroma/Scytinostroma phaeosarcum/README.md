@@ -1,5 +1,4 @@
-Scytinostroma phaeosarcum Boidin & Lanq., 1976 SPECIES
-=======
+# Scytinostroma phaeosarcum Boidin & Lanq., 1976 SPECIES
 
 #### Status
 ACCEPTED

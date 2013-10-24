@@ -1,5 +1,4 @@
-Deflandrea bakeri Deflandre & Cookson, 1955 SPECIES
-=======
+# Deflandrea bakeri Deflandre & Cookson, 1955 SPECIES
 
 #### Status
 ACCEPTED

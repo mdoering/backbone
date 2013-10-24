@@ -1,5 +1,4 @@
-Niptera nigrificans G. Winter SPECIES
-=======
+# Niptera nigrificans G. Winter SPECIES
 
 #### Status
 ACCEPTED

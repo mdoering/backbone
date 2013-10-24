@@ -1,5 +1,4 @@
-Polyporus muscicola Wettst. SPECIES
-=======
+# Polyporus muscicola Wettst. SPECIES
 
 #### Status
 ACCEPTED

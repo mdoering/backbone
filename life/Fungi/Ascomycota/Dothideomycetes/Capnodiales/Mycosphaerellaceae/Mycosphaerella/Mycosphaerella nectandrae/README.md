@@ -1,5 +1,4 @@
-Mycosphaerella nectandrae (F. Stevens) Cif. SPECIES
-=======
+# Mycosphaerella nectandrae (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physarum ramentaceum Fr. SPECIES
-=======
+# Physarum ramentaceum Fr. SPECIES
 
 #### Status
 ACCEPTED

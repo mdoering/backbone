@@ -1,5 +1,4 @@
-Tricholoma grave Peck SPECIES
-=======
+# Tricholoma grave Peck SPECIES
 
 #### Status
 ACCEPTED

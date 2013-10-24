@@ -1,5 +1,4 @@
-Stenella colocasiae Sarbajna & Chattopadh. SPECIES
-=======
+# Stenella colocasiae Sarbajna & Chattopadh. SPECIES
 
 #### Status
 ACCEPTED

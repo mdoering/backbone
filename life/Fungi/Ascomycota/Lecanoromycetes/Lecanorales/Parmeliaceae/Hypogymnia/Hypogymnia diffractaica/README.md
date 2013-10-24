@@ -1,5 +1,4 @@
-Hypogymnia diffractaica McCune SPECIES
-=======
+# Hypogymnia diffractaica McCune SPECIES
 
 #### Status
 ACCEPTED

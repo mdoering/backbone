@@ -1,5 +1,4 @@
-Mycobacterium komossense Kazda and Muller, 1979 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium komossense Kazda and Muller, 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

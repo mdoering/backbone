@@ -1,5 +1,4 @@
-Alternaria pharbitidis T.Y. Zhang & W.Q. Chen SPECIES
-=======
+# Alternaria pharbitidis T.Y. Zhang & W.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

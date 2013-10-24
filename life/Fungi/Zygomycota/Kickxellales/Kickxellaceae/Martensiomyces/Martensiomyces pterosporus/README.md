@@ -1,5 +1,4 @@
-Martensiomyces pterosporus J.A. Mey., 1957 SPECIES
-=======
+# Martensiomyces pterosporus J.A. Mey., 1957 SPECIES
 
 #### Status
 ACCEPTED

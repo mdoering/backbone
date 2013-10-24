@@ -1,8 +1,7 @@
-Gloeosporium pithecolobii Koord. SPECIES
-=======
+# Gloeosporium pithecellobii Koord. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gloeosporium pithecolobii Koord.
+Gloeosporium pithecellobii Koord.
 
 ### Remarks
 null

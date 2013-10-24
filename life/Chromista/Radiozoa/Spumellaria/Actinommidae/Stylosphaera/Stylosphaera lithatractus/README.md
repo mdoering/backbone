@@ -1,5 +1,4 @@
-Stylosphaera lithatractus Haeckel, 1887 SPECIES
-=======
+# Stylosphaera lithatractus Haeckel, 1887 SPECIES
 
 #### Status
 DOUBTFUL

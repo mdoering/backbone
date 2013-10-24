@@ -1,5 +1,4 @@
-Lecanora camptotheca Fée SPECIES
-=======
+# Lecanora camptotheca Fée SPECIES
 
 #### Status
 ACCEPTED

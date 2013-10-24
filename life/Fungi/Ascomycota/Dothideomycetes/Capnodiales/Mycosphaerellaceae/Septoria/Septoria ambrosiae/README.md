@@ -1,5 +1,4 @@
-Septoria ambrosiae Hemmi & N. Naito SPECIES
-=======
+# Septoria ambrosiae Hemmi & N. Naito SPECIES
 
 #### Status
 ACCEPTED

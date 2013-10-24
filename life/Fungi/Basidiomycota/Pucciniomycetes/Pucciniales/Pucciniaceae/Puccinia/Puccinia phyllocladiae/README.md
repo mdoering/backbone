@@ -1,17 +1,16 @@
-Puccinia phyllocladia Cooke SPECIES
-=======
+# Puccinia phyllocladiae Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 10(no. 56): 125 (1882)
 
 #### Original name
-Puccinia phyllocladia Cooke
+Puccinia phyllocladiae Cooke
 
 ### Remarks
 null

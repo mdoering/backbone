@@ -1,5 +1,4 @@
-Cortinarius viridoalbus Ramm & Rob. Henry SPECIES
-=======
+# Cortinarius viridoalbus Ramm & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

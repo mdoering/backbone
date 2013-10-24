@@ -1,5 +1,4 @@
-Stylocometes Stein, 1867 GENUS
-=======
+# Stylocometes Stein, 1867 GENUS
 
 #### Status
 ACCEPTED

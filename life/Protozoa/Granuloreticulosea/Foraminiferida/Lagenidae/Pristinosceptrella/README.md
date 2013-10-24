@@ -1,5 +1,4 @@
-Pristinosceptrella Patterson & Richardson, 1987 GENUS
-=======
+# Pristinosceptrella Patterson & Richardson, 1987 GENUS
 
 #### Status
 ACCEPTED

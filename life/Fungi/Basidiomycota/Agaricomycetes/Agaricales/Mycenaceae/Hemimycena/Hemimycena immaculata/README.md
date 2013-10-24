@@ -1,5 +1,4 @@
-Hemimycena immaculata (Peck) Watling SPECIES
-=======
+# Hemimycena immaculata (Peck) Watling SPECIES
 
 #### Status
 ACCEPTED

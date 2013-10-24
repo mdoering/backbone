@@ -1,5 +1,4 @@
-Peziza crocea Schwein. SPECIES
-=======
+# Peziza crocea Schwein. SPECIES
 
 #### Status
 ACCEPTED

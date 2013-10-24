@@ -1,5 +1,4 @@
-Rosellinia andina Speg. SPECIES
-=======
+# Rosellinia andina Speg. SPECIES
 
 #### Status
 ACCEPTED

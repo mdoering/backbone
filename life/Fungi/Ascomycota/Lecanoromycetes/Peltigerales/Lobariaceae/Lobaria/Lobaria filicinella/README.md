@@ -1,5 +1,4 @@
-Lobaria filicinella (Nyl.) Trevis. SPECIES
-=======
+# Lobaria filicinella (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

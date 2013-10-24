@@ -1,5 +1,4 @@
-Hypocrea nybergiana T. Ulvinen & H.L. Chamb. SPECIES
-=======
+# Hypocrea nybergiana T. Ulvinen & H.L. Chamb. SPECIES
 
 #### Status
 ACCEPTED

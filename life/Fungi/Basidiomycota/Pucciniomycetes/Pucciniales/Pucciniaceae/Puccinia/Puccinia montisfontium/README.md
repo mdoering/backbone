@@ -1,5 +1,4 @@
-Puccinia montisfontium B. Huguenin SPECIES
-=======
+# Puccinia montisfontium B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

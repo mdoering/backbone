@@ -1,5 +1,4 @@
-Ebrinula G. Deflandre, 1950 GENUS
-=======
+# Ebrinula G. Deflandre, 1950 GENUS
 
 #### Status
 ACCEPTED

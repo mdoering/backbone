@@ -1,5 +1,4 @@
-Melatolla Strank, 1983 GENUS
-=======
+# Melatolla Strank, 1983 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina subargillacea Müll. Arg., 1893 SPECIES
-=======
+# Porina subargillacea Müll. Arg., 1893 SPECIES
 
 #### Status
 DOUBTFUL

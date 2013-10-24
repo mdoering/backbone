@@ -1,5 +1,4 @@
-Phomopsis indica Kamal, P. Kumar & R.P. Singh SPECIES
-=======
+# Phomopsis indica Kamal, P. Kumar & R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

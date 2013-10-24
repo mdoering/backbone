@@ -1,5 +1,4 @@
-Haematomma brevisporum Kalb & Staiger SPECIES
-=======
+# Haematomma brevisporum Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED

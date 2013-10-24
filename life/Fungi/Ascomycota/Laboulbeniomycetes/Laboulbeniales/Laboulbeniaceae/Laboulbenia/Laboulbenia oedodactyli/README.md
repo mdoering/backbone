@@ -1,5 +1,4 @@
-Laboulbenia oedodactyli Thaxt. SPECIES
-=======
+# Laboulbenia oedodactyli Thaxt. SPECIES
 
 #### Status
 ACCEPTED

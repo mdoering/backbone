@@ -1,5 +1,4 @@
-Microdiplodia ligustricola Girz. SPECIES
-=======
+# Microdiplodia ligustricola Girz. SPECIES
 
 #### Status
 ACCEPTED

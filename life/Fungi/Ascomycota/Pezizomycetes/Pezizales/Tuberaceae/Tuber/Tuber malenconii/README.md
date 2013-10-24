@@ -1,17 +1,16 @@
-Tuber malenconi Donadini, Riousset, G. Riousset & G. Chev. SPECIES
-=======
+# Tuber malenconii Donadini, Riousset, G. Riousset & G. Chev. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 94(4): 357 (1979)
 
 #### Original name
-Tuber malenconi Donadini, Riousset, G. Riousset & G. Chev.
+Tuber malenconii Donadini, Riousset, G. Riousset & G. Chev.
 
 ### Remarks
 null

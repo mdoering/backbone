@@ -1,5 +1,4 @@
-Xerocomus inundabilis Singer SPECIES
-=======
+# Xerocomus inundabilis Singer SPECIES
 
 #### Status
 ACCEPTED

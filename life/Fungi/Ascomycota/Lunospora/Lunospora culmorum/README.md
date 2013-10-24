@@ -1,5 +1,4 @@
-Lunospora culmorum (Grove) Frandsen SPECIES
-=======
+# Lunospora culmorum (Grove) Frandsen SPECIES
 
 #### Status
 ACCEPTED

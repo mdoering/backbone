@@ -1,17 +1,16 @@
-Hypogymnia bitteri f. bitteri FORM
-=======
+# Hypogymnia bitteri (Lynge) Ahti SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ann. bot. fenn. 1: 20 (1964)
 
 #### Original name
-Hypogymnia bitteri f. bitteri
+Parmelia bitteri Lynge
 
 ### Remarks
 null

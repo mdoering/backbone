@@ -1,5 +1,4 @@
-Ganoderma stratoideum S.C. He, 1989 SPECIES
-=======
+# Ganoderma stratoideum S.C. He, 1989 SPECIES
 
 #### Status
 ACCEPTED

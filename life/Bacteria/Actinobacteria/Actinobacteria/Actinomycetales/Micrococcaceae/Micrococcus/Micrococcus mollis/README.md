@@ -1,5 +1,4 @@
-Micrococcus mollis SPECIES
-=======
+# Micrococcus mollis SPECIES
 
 #### Status
 ACCEPTED

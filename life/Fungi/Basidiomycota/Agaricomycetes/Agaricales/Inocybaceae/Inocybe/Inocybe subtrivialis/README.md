@@ -1,5 +1,4 @@
-Inocybe subtrivialis Esteve-Rav., M. Villarreal & Heykoop SPECIES
-=======
+# Inocybe subtrivialis Esteve-Rav., M. Villarreal & Heykoop SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma evanescens Long & S. Ahmad SPECIES
-=======
+# Tulostoma evanescens Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

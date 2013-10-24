@@ -1,5 +1,4 @@
-Entyloma semenoviana (Lavrov) Gutner SPECIES
-=======
+# Entyloma semenoviana (Lavrov) Gutner SPECIES
 
 #### Status
 ACCEPTED

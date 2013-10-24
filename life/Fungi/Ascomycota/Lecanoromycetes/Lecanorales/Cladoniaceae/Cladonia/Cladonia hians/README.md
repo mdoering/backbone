@@ -1,5 +1,4 @@
-Cladonia hians Ahti SPECIES
-=======
+# Cladonia hians Ahti SPECIES
 
 #### Status
 ACCEPTED

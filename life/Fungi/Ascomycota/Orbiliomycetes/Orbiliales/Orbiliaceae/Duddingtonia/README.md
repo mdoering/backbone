@@ -1,5 +1,4 @@
-Duddingtonia GENUS
-=======
+# Duddingtonia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Celeribacter Ivanova, Webb, Christen, Zhukova, Kurilenko, Kalinovskaya & Crawford, 2010 GENUS
-=======
+# Celeribacter Ivanova, Webb, Christen, Zhukova, Kurilenko, Kalinovskaya & Crawford, 2010 GENUS
 
 #### Status
 ACCEPTED

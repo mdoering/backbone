@@ -1,5 +1,4 @@
-Bombardia coronata Cailleux SPECIES
-=======
+# Bombardia coronata Cailleux SPECIES
 
 #### Status
 ACCEPTED

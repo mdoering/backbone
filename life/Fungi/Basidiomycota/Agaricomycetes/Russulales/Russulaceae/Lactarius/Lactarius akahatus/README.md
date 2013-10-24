@@ -1,5 +1,4 @@
-Lactarius akahatus Tanaka SPECIES
-=======
+# Lactarius akahatus Tanaka SPECIES
 
 #### Status
 ACCEPTED

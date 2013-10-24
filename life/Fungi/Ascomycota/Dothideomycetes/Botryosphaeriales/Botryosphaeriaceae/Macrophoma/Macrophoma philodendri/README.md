@@ -1,5 +1,4 @@
-Macrophoma philodendri Peck SPECIES
-=======
+# Macrophoma philodendri Peck SPECIES
 
 #### Status
 ACCEPTED

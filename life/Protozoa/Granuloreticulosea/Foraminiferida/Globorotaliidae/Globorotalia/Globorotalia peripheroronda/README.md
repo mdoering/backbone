@@ -1,5 +1,4 @@
-Globorotalia peripheroronda Blow & Banner SPECIES
-=======
+# Globorotalia peripheroronda Blow & Banner SPECIES
 
 #### Status
 ACCEPTED

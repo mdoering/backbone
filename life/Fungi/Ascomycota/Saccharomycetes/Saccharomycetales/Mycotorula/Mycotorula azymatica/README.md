@@ -1,5 +1,4 @@
-Mycotorula azymatica Serrano SPECIES
-=======
+# Mycotorula azymatica Serrano SPECIES
 
 #### Status
 ACCEPTED

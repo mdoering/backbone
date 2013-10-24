@@ -1,5 +1,4 @@
-Leptothyrium vervisedum Cole SPECIES
-=======
+# Leptothyrium vervisedum Cole SPECIES
 
 #### Status
 ACCEPTED

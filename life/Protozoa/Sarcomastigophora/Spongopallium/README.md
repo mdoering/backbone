@@ -1,5 +1,4 @@
-Spongopallium Dumitrica, Kozur & Mostler, 1980 GENUS
-=======
+# Spongopallium Dumitrica, Kozur & Mostler, 1980 GENUS
 
 #### Status
 ACCEPTED

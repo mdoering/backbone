@@ -1,5 +1,4 @@
-Dendrosarcus strigellus (Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus strigellus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

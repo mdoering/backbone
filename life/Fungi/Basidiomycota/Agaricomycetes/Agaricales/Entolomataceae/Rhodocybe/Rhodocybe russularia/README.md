@@ -1,5 +1,4 @@
-Rhodocybe russularia Singer SPECIES
-=======
+# Rhodocybe russularia Singer SPECIES
 
 #### Status
 ACCEPTED

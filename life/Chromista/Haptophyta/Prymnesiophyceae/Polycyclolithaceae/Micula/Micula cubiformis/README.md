@@ -1,5 +1,4 @@
-Micula cubiformis Forchheimer, 1972 SPECIES
-=======
+# Micula cubiformis Forchheimer, 1972 SPECIES
 
 #### Status
 ACCEPTED

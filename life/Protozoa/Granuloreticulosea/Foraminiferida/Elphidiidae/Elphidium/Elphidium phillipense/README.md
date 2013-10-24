@@ -1,5 +1,4 @@
-Elphidium phillipense Hayward, 1997 in Hayward, Hollis & Grenfell, 1997 SPECIES
-=======
+# Elphidium phillipense Hayward, 1997 in Hayward, Hollis & Grenfell, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ptychostomum saenuridis Stein, 1860 SPECIES
-=======
+# Ptychostomum saenuridis Stein, 1860 SPECIES
 
 #### Status
 ACCEPTED

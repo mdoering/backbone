@@ -1,5 +1,4 @@
-Martyschiella Myatlyuk, 1966 GENUS
-=======
+# Martyschiella Myatlyuk, 1966 GENUS
 
 #### Status
 ACCEPTED

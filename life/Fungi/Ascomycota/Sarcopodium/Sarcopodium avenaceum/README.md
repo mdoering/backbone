@@ -1,5 +1,4 @@
-Sarcopodium avenaceum Fr. SPECIES
-=======
+# Sarcopodium avenaceum Fr. SPECIES
 
 #### Status
 ACCEPTED

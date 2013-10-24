@@ -1,5 +1,4 @@
-Coprinus nycthemerus var. nycthemerus VARIETY
-=======
+# Coprinus nycthemerus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 251 (1838)
 
 #### Original name
-Coprinus nycthemerus var. nycthemerus
+Coprinus nycthemerus Fr.
 
 ### Remarks
 null

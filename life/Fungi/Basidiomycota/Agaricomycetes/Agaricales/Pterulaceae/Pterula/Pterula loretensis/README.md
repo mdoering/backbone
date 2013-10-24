@@ -1,5 +1,4 @@
-Pterula loretensis Corner, 1952 SPECIES
-=======
+# Pterula loretensis Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

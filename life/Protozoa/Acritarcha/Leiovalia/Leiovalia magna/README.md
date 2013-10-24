@@ -1,5 +1,4 @@
-Leiovalia magna Jiabo, 1978 SPECIES
-=======
+# Leiovalia magna Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

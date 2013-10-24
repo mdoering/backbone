@@ -1,5 +1,4 @@
-Microthyrium antivarensis (Bubák) Crous SPECIES
-=======
+# Microthyrium antivarensis (Bubák) Crous SPECIES
 
 #### Status
 ACCEPTED

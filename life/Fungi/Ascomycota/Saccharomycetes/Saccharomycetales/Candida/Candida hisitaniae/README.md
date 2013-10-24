@@ -1,5 +1,4 @@
-Candida hisitaniae anon. SPECIES
-=======
+# Candida hisitaniae anon. SPECIES
 
 #### Status
 ACCEPTED

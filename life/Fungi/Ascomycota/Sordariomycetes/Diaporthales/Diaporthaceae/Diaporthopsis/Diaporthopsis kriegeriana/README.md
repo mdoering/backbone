@@ -1,5 +1,4 @@
-Diaporthopsis kriegeriana (Rehm) Höhn. SPECIES
-=======
+# Diaporthopsis kriegeriana (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

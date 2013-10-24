@@ -1,5 +1,4 @@
-Physcia pubera (Ach.) Nyl. SPECIES
-=======
+# Physcia pubera (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

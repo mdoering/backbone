@@ -1,5 +1,4 @@
-Baeomyces turbinatus var. verticillatus Ach. VARIETY
-=======
+# Baeomyces turbinatus Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Baeomyces turbinatus var. verticillatus Ach.
+Baeomyces turbinatus Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stereum sepia Lloyd SPECIES
-=======
+# Stereum sepia Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geastrum rugulosum Dissing & M. Lange SPECIES
-=======
+# Geastrum rugulosum Dissing & M. Lange SPECIES
 
 #### Status
 ACCEPTED

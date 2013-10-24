@@ -1,5 +1,4 @@
-Microdochium triticicola Kwasna & G.L. Bateman, 2008 SPECIES
-=======
+# Microdochium triticicola Kwasna & G.L. Bateman, 2008 SPECIES
 
 #### Status
 ACCEPTED

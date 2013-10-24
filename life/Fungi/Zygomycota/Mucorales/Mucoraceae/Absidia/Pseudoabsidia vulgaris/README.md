@@ -1,5 +1,4 @@
-Pseudoabsidia vulgaris Bainier SPECIES
-=======
+# Pseudoabsidia vulgaris Bainier SPECIES
 
 #### Status
 ACCEPTED

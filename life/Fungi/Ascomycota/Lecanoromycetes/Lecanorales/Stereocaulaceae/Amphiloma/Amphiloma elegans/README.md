@@ -1,11 +1,10 @@
-Amphiloma elegans var. elegans VARIETY
-=======
+# Amphiloma elegans SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null

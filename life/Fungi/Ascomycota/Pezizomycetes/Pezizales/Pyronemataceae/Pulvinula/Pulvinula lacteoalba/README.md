@@ -1,5 +1,4 @@
-Pulvinula lacteoalba J. Moravec SPECIES
-=======
+# Pulvinula lacteoalba J. Moravec SPECIES
 
 #### Status
 ACCEPTED

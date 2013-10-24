@@ -1,5 +1,4 @@
-Lentinellus sublineolatus R.H. Petersen SPECIES
-=======
+# Lentinellus sublineolatus R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

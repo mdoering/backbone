@@ -1,5 +1,4 @@
-Bagliettoa sphinctrina f. sphinctrina FORM
-=======
+# Bagliettoa sphinctrina (Ach.) Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syst. lich. germ. (Breslau) 375 (1855)
 
 #### Original name
-Bagliettoa sphinctrina f. sphinctrina
+Verrucaria sphinctrina (Dufour) Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Torula viticola Allesch. SPECIES
-=======
+# Torula viticola Allesch. SPECIES
 
 #### Status
 ACCEPTED

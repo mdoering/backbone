@@ -1,5 +1,4 @@
-Pseudodiplodia ingrica Naumov SPECIES
-=======
+# Pseudodiplodia ingrica Naumov SPECIES
 
 #### Status
 ACCEPTED

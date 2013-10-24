@@ -1,5 +1,4 @@
-Anncaliia algerae (Vávra & Undeen) C. Franzen, E.S. Nassonova, J. Scholmerich & I.V. Issi SPECIES
-=======
+# Anncaliia algerae (Vávra & Undeen) C. Franzen, E.S. Nassonova, J. Scholmerich & I.V. Issi SPECIES
 
 #### Status
 ACCEPTED

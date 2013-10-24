@@ -1,5 +1,4 @@
-Pluteus ricardii Singer SPECIES
-=======
+# Pluteus ricardii Singer SPECIES
 
 #### Status
 ACCEPTED

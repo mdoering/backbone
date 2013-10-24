@@ -1,5 +1,4 @@
-Bertrandia GENUS
-=======
+# Bertrandia GENUS
 
 #### Status
 ACCEPTED

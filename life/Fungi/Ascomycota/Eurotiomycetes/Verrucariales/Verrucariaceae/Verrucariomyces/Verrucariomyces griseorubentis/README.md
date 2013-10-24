@@ -1,5 +1,4 @@
-Verrucariomyces griseorubentis Werner SPECIES
-=======
+# Verrucariomyces griseorubentis Werner SPECIES
 
 #### Status
 ACCEPTED

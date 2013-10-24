@@ -1,5 +1,4 @@
-Polyporus lauterbachii (Henn.) Lloyd SPECIES
-=======
+# Polyporus lauterbachii (Henn.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

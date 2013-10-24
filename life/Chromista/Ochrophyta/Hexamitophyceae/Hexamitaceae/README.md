@@ -1,5 +1,4 @@
-Hexamitaceae FAMILY
-=======
+# Hexamitaceae FAMILY
 
 #### Status
 ACCEPTED

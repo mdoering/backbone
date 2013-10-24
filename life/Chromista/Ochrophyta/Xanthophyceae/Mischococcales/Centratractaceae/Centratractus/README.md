@@ -1,5 +1,4 @@
-Centratractus GENUS
-=======
+# Centratractus GENUS
 
 #### Status
 ACCEPTED

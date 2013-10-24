@@ -1,5 +1,4 @@
-Psoroma beatum (Hue) Zahlbr. SPECIES
-=======
+# Psoroma beatum (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

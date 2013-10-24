@@ -1,5 +1,4 @@
-Lecanora subsimilis (Th. Fr.) Vain SPECIES
-=======
+# Lecanora subsimilis (Th. Fr.) Vain SPECIES
 
 #### Status
 ACCEPTED

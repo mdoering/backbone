@@ -1,8 +1,7 @@
-Pactilia stercocaria (Corda) Fr. SPECIES
-=======
+# Pactilia stercoraria (Corda) Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

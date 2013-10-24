@@ -1,5 +1,4 @@
-Ascosphaera solina D.L. Anderson & N.L. Gibson SPECIES
-=======
+# Ascosphaera solina D.L. Anderson & N.L. Gibson SPECIES
 
 #### Status
 ACCEPTED

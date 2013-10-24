@@ -1,5 +1,4 @@
-Sphaeria brachiata Kalchbr. & Cooke SPECIES
-=======
+# Sphaeria brachiata Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

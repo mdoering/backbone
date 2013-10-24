@@ -1,17 +1,16 @@
-Nectria bainii var. bainii Massee VARIETY
-=======
+# Nectria bainii Massee, 1899 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Misc. Inf. , Kew 5 (1899)
 
 #### Original name
-Nectria bainii var. bainii Massee
+Nectria bainii Massee, 1899
 
 ### Remarks
 null

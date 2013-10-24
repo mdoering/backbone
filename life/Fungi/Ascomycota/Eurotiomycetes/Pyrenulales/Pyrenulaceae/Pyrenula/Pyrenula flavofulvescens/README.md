@@ -1,5 +1,4 @@
-Pyrenula flavofulvescens SPECIES
-=======
+# Pyrenula flavofulvescens SPECIES
 
 #### Status
 ACCEPTED

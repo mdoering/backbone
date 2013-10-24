@@ -1,5 +1,4 @@
-Ascochyta actaeae (Bres.) Davis SPECIES
-=======
+# Ascochyta actaeae (Bres.) Davis SPECIES
 
 #### Status
 ACCEPTED

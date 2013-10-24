@@ -1,5 +1,4 @@
-Stigmatomyces diapetis SPECIES
-=======
+# Stigmatomyces diapetis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ulnaria delicatissima var. angustissima (Grunow) M. Aboal & P.C. Silva, 2004 VARIETY
-=======
+# Ulnaria delicatissima (W. Smith) M. Aboal & P.C. Silva, 2004 SPECIES
 
 #### Status
 ACCEPTED

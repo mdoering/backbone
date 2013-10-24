@@ -1,5 +1,4 @@
-Giacominia parolini Cif. & Tomas. SPECIES
-=======
+# Giacominia parolini Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

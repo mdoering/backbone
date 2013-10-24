@@ -1,5 +1,4 @@
-Prospodium trinidadense Cummins SPECIES
-=======
+# Prospodium trinidadense Cummins SPECIES
 
 #### Status
 ACCEPTED

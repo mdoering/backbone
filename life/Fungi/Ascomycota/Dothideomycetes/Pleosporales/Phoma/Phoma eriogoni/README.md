@@ -1,5 +1,4 @@
-Phoma eriogoni W.B. Cooke SPECIES
-=======
+# Phoma eriogoni W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

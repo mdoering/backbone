@@ -1,17 +1,16 @@
-Evernia americana f. americana FORM
-=======
+# Everniastrum americanum (Meyen & Flot.) Hale ex Sipman SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 26: 239 (1986)
 
 #### Original name
-Evernia americana f. americana
+Evernia americana Meyen & Flot.
 
 ### Remarks
 null

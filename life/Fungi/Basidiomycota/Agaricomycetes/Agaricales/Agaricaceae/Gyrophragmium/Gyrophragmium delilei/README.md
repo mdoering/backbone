@@ -1,5 +1,4 @@
-Gyrophragmium delilei Mont., 1843 SPECIES
-=======
+# Gyrophragmium delilei Mont., 1843 SPECIES
 
 #### Status
 ACCEPTED

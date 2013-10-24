@@ -1,14 +1,13 @@
-Coeomurus phaseolorum (R. Hedw. ex DC.) Gray SPECIES
-=======
+# Coeomurus phaseolarum (R. Hedw. ex DC.) Gray SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: (1821)
 
 #### Original name
 Uredo phaseolarum R. Hedw. ex DC.

@@ -1,17 +1,16 @@
-Laboulbenia vulgaris var. perilepti Bánhegyi VARIETY
-=======
+# Laboulbenia vulgaris Peyr., 1873 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 68: 248 (1873)
 
 #### Original name
-Laboulbenia vulgaris var. perilepti Bánhegyi
+Laboulbenia vulgaris Peyr., 1873
 
 ### Remarks
 null

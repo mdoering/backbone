@@ -1,5 +1,4 @@
-Dicaeoma campulosi (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma campulosi (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

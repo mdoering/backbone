@@ -1,5 +1,4 @@
-Lepiota sulphurina Clem. SPECIES
-=======
+# Lepiota sulphurina Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis erubescens Kremp. SPECIES
-=======
+# Graphis erubescens Kremp. SPECIES
 
 #### Status
 ACCEPTED

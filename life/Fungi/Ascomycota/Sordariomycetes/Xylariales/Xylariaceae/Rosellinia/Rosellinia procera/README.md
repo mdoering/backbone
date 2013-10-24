@@ -1,5 +1,4 @@
-Rosellinia procera Syd. SPECIES
-=======
+# Rosellinia procera Syd. SPECIES
 
 #### Status
 ACCEPTED

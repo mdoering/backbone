@@ -1,5 +1,4 @@
-Mollisia introviridis Cooke & Ellis SPECIES
-=======
+# Mollisia introviridis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

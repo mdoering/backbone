@@ -1,5 +1,4 @@
-Gueguenia truncata (Cooke) S. Hughes SPECIES
-=======
+# Gueguenia truncata (Cooke) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoderma lagenae Pers. SPECIES
-=======
+# Mycoderma lagenae Pers. SPECIES
 
 #### Status
 ACCEPTED

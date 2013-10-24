@@ -1,5 +1,4 @@
-Gymnodinium atomatum J. Larsen SPECIES
-=======
+# Gymnodinium atomatum J. Larsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola camaragibeicola Bat. & H. Maia SPECIES
-=======
+# Meliola camaragibeicola Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

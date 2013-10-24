@@ -1,5 +1,4 @@
-Eriosphaeria calospora var. calospora VARIETY
-=======
+# Eriosphaeria calospora Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Soc. cient. argent. 18(6): 282 (1884)
 
 #### Original name
-Eriosphaeria calospora var. calospora
+Eriosphaeria calospora Speg.
 
 ### Remarks
 null

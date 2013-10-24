@@ -1,5 +1,4 @@
-Pholiota cerasina Peck SPECIES
-=======
+# Pholiota cerasina Peck SPECIES
 
 #### Status
 ACCEPTED

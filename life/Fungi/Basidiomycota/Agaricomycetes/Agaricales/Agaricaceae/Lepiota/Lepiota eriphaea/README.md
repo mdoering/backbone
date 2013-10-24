@@ -1,5 +1,4 @@
-Lepiota eriphaea (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota eriphaea (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

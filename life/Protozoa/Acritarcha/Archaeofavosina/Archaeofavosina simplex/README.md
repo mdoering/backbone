@@ -1,5 +1,4 @@
-Archaeofavosina simplex Naumova, 1961 SPECIES
-=======
+# Archaeofavosina simplex Naumova, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bursellopsis Corliss, 1960 GENUS
-=======
+# Bursellopsis Corliss, 1960 GENUS
 
 #### Status
 ACCEPTED

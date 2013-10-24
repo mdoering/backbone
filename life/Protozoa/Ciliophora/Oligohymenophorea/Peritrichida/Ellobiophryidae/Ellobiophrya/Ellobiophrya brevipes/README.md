@@ -1,5 +1,4 @@
-Ellobiophrya brevipes SPECIES
-=======
+# Ellobiophrya brevipes SPECIES
 
 #### Status
 ACCEPTED

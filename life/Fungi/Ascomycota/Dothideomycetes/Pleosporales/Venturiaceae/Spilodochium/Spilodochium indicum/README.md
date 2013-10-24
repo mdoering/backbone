@@ -1,5 +1,4 @@
-Spilodochium indicum Subhedar & V.G. Rao SPECIES
-=======
+# Spilodochium indicum Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

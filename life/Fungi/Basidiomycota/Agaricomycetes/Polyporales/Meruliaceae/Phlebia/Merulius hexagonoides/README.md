@@ -1,5 +1,4 @@
-Merulius hexagonoides Burt SPECIES
-=======
+# Merulius hexagonoides Burt SPECIES
 
 #### Status
 ACCEPTED

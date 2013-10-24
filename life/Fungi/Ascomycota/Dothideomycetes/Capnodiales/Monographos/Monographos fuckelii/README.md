@@ -1,5 +1,4 @@
-Monographos fuckelii L. Holm & K. Holm, 1978 SPECIES
-=======
+# Monographos fuckelii L. Holm & K. Holm, 1978 SPECIES
 
 #### Status
 ACCEPTED

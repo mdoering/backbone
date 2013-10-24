@@ -1,5 +1,4 @@
-Diplococcium conjunctum (Bonord.) Sacc. SPECIES
-=======
+# Diplococcium conjunctum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

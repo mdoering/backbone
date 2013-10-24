@@ -1,5 +1,4 @@
-Ceratium candelabrum (Ehrenberg) Stein SPECIES
-=======
+# Ceratium candelabrum (Ehrenberg) Stein SPECIES
 
 #### Status
 ACCEPTED

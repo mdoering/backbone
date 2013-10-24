@@ -1,5 +1,4 @@
-Hypotrachyna neosingularis Divakar, Upreti & Elix SPECIES
-=======
+# Hypotrachyna neosingularis Divakar, Upreti & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon flavofuscum Berk. & Broome ex Sacc. SPECIES
-=======
+# Hypoxylon flavofuscum Berk. & Broome ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

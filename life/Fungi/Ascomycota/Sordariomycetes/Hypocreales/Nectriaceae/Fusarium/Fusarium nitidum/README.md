@@ -1,5 +1,4 @@
-Fusarium nitidum Berk. & M.A. Curtis SPECIES
-=======
+# Fusarium nitidum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

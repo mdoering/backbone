@@ -1,5 +1,4 @@
-Uromyces rubida Arthur & Holw. SPECIES
-=======
+# Uromyces rubida Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera molesta Delise SPECIES
-=======
+# Peltigera molesta Delise SPECIES
 
 #### Status
 ACCEPTED

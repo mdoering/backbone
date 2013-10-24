@@ -1,17 +1,16 @@
-Wettsteinina barrae Shoemaker & C.E. Babc. SPECIES
-=======
+# Wettsteinina barriae Shoemaker & C.E. Babc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 65(2): 376 (1987)
 
 #### Original name
-Wettsteinina barrae Shoemaker & C.E. Babc.
+Wettsteinina barriae Shoemaker & C.E. Babc.
 
 ### Remarks
 null

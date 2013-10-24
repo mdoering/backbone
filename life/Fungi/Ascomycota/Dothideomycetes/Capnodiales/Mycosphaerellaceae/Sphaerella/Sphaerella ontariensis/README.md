@@ -1,5 +1,4 @@
-Sphaerella ontariensis (R. Stone) Sacc. SPECIES
-=======
+# Sphaerella ontariensis (R. Stone) Sacc. SPECIES
 
 #### Status
 ACCEPTED

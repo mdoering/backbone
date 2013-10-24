@@ -1,5 +1,4 @@
-Scyphosphaera graphica Müller, 1974 SPECIES
-=======
+# Scyphosphaera graphica Müller, 1974 SPECIES
 
 #### Status
 ACCEPTED

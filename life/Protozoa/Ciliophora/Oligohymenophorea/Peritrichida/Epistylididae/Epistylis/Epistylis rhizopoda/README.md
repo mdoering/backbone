@@ -1,5 +1,4 @@
-Epistylis rhizopoda SPECIES
-=======
+# Epistylis rhizopoda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenodesmia ochromela Vodopjanova {?} SPECIES
-=======
+# Pyrenodesmia ochromela Vodopjanova {?} SPECIES
 
 #### Status
 ACCEPTED

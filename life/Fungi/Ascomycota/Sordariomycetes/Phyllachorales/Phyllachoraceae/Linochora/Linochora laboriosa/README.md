@@ -1,5 +1,4 @@
-Linochora laboriosa Bat. & H. Maia SPECIES
-=======
+# Linochora laboriosa Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

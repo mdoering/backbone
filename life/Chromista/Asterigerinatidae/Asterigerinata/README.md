@@ -1,5 +1,4 @@
-Asterigerinata Bermúdez, 1949 GENUS
-=======
+# Asterigerinata Bermúdez, 1949 GENUS
 
 #### Status
 ACCEPTED

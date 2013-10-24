@@ -1,5 +1,4 @@
-Leptothyrium genistae Höhn. SPECIES
-=======
+# Leptothyrium genistae Höhn. SPECIES
 
 #### Status
 ACCEPTED

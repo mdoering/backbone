@@ -1,5 +1,4 @@
-Cladosporium compactiusculum Sacc. & P. Syd. SPECIES
-=======
+# Cladosporium compactiusculum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

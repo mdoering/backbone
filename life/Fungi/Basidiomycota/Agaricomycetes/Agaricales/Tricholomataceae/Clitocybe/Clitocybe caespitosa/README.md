@@ -1,5 +1,4 @@
-Clitocybe caespitosa Peck SPECIES
-=======
+# Clitocybe caespitosa Peck SPECIES
 
 #### Status
 ACCEPTED

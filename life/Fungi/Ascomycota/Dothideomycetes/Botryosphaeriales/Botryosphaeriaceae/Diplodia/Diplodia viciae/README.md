@@ -1,14 +1,13 @@
-Pseudodiplodia viciae (Schembel) Petr., 1953 SPECIES
-=======
+# Diplodia viciae Schembel, 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 7: 304 (1953)
+Bulletin f. angew. Bot. St. Petersburg 6: 704 (1913)
 
 #### Original name
 Diplodia viciae Schembel, 1913

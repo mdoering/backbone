@@ -1,5 +1,4 @@
-Candida soli Okuma & Goto SPECIES
-=======
+# Candida soli Okuma & Goto SPECIES
 
 #### Status
 ACCEPTED

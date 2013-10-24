@@ -1,5 +1,4 @@
-Gabura decipiens (A. Massal.) Kuntze SPECIES
-=======
+# Gabura decipiens (A. Massal.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

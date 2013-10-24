@@ -1,5 +1,4 @@
-Anabaenothrix M.S.Randhawa GENUS
-=======
+# Anabaenothrix M.S.Randhawa GENUS
 
 #### Status
 ACCEPTED

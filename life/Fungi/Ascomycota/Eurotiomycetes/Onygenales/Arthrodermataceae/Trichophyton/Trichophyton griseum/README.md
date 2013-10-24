@@ -1,5 +1,4 @@
-Trichophyton griseum Vasconc. {?} SPECIES
-=======
+# Trichophyton griseum Vasconc. {?} SPECIES
 
 #### Status
 ACCEPTED

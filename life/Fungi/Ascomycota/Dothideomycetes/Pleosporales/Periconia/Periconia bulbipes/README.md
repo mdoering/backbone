@@ -1,5 +1,4 @@
-Periconia bulbipes Corda SPECIES
-=======
+# Periconia bulbipes Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Mollisia succinea (Fr.) Gillet, 1882 SPECIES
-=======
+# Hyalinia succinea (Fr.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hist. Class. Discom. Eur. (Paris) 104 (1907)
 
 #### Original name
 null

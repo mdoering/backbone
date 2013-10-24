@@ -1,5 +1,4 @@
-Laboulbenia inflata Thaxt., 1892 SPECIES
-=======
+# Laboulbenia inflata Thaxt., 1892 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Atractium cronartioides Speg. SPECIES
-=======
+# Atractium cronartioides Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pharcidia frigida (Sacc.) Vouaux SPECIES
-=======
+# Pharcidia frigida (Sacc.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

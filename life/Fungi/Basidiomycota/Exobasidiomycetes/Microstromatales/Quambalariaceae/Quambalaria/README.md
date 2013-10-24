@@ -1,5 +1,4 @@
-Quambalaria J.A. Simpson GENUS
-=======
+# Quambalaria J.A. Simpson GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia argilliseda Zahlbr. SPECIES
-=======
+# Buellia argilliseda Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

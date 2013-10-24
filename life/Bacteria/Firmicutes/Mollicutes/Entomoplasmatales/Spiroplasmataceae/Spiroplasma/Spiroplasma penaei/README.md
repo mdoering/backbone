@@ -1,5 +1,4 @@
-Spiroplasma penaei Nunan et al., 2005 SPECIES
-=======
+# Spiroplasma penaei Nunan et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

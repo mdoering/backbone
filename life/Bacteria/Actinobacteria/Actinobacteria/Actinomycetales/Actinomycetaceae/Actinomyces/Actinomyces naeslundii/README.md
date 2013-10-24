@@ -1,5 +1,4 @@
-Actinomyces naeslundii Thompson and Lovestedt, 1951 (Approved Lists, 1980) SPECIES
-=======
+# Actinomyces naeslundii Thompson and Lovestedt, 1951 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

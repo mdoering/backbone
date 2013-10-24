@@ -1,5 +1,4 @@
-Poria albogrisea (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Poria albogrisea (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia stevenii Gucevic SPECIES
-=======
+# Hendersonia stevenii Gucevic SPECIES
 
 #### Status
 ACCEPTED

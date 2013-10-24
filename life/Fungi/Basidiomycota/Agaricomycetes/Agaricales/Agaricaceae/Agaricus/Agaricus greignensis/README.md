@@ -1,5 +1,4 @@
-Agaricus greignensis Peck SPECIES
-=======
+# Agaricus greignensis Peck SPECIES
 
 #### Status
 ACCEPTED

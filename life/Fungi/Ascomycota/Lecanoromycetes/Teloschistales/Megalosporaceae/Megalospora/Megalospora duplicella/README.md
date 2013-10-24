@@ -1,5 +1,4 @@
-Megalospora duplicella (Nyl.) H. Olivier SPECIES
-=======
+# Megalospora duplicella (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

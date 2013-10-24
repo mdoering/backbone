@@ -1,5 +1,4 @@
-Colletotrichum rhexiae Ellis & Everh. SPECIES
-=======
+# Colletotrichum rhexiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Parmelia diadeta Hale SPECIES
-=======
+# Xanthoparmelia diadeta (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Notiser 124(3): 346 (1971)
+Phytologia 28: 487 (1974)
 
 #### Original name
 Parmelia diadeta Hale

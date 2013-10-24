@@ -1,5 +1,4 @@
-Proplectella angustior Jörgensen, 1924 SPECIES
-=======
+# Proplectella angustior Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

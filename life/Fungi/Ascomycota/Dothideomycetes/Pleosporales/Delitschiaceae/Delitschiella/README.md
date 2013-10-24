@@ -1,5 +1,4 @@
-Delitschiella GENUS
-=======
+# Delitschiella GENUS
 
 #### Status
 ACCEPTED

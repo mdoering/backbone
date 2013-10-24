@@ -1,5 +1,4 @@
-Aecidium werneriae Jørst. SPECIES
-=======
+# Aecidium werneriae Jørst. SPECIES
 
 #### Status
 ACCEPTED

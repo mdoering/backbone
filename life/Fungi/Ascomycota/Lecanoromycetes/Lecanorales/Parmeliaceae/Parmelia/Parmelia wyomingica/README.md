@@ -1,5 +1,4 @@
-Parmelia wyomingica (Gyeln.) Hale SPECIES
-=======
+# Parmelia wyomingica (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED

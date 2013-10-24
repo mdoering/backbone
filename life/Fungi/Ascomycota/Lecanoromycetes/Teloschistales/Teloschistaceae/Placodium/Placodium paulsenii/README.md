@@ -1,5 +1,4 @@
-Placodium paulsenii Vain. SPECIES
-=======
+# Placodium paulsenii Vain. SPECIES
 
 #### Status
 ACCEPTED

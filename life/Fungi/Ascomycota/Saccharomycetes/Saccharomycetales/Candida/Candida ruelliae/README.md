@@ -1,5 +1,4 @@
-Candida ruelliae Saluja & G.S. Prasad SPECIES
-=======
+# Candida ruelliae Saluja & G.S. Prasad SPECIES
 
 #### Status
 ACCEPTED

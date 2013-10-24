@@ -1,5 +1,4 @@
-Penicillium rubefaciens Quintan., 1982 SPECIES
-=======
+# Penicillium rubefaciens Quintan., 1982 SPECIES
 
 #### Status
 ACCEPTED

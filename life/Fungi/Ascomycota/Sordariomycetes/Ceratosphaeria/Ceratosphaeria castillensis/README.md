@@ -1,5 +1,4 @@
-Ceratosphaeria castillensis C.L. Sm. SPECIES
-=======
+# Ceratosphaeria castillensis C.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

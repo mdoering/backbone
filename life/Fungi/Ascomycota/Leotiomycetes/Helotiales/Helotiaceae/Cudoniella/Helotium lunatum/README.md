@@ -1,5 +1,4 @@
-Helotium lunatum Velen. SPECIES
-=======
+# Helotium lunatum Velen. SPECIES
 
 #### Status
 ACCEPTED

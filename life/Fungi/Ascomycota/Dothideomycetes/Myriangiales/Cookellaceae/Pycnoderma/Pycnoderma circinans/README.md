@@ -1,5 +1,4 @@
-Pycnoderma circinans Syd. & P. Syd. SPECIES
-=======
+# Pycnoderma circinans Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

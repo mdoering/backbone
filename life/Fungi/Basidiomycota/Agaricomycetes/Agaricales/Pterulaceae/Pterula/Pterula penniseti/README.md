@@ -1,5 +1,4 @@
-Pterula penniseti (Henn.) Corner SPECIES
-=======
+# Pterula penniseti (Henn.) Corner SPECIES
 
 #### Status
 ACCEPTED

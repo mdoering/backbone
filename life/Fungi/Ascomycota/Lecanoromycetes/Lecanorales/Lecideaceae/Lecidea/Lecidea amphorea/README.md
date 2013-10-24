@@ -1,5 +1,4 @@
-Lecidea amphorea Tuck. SPECIES
-=======
+# Lecidea amphorea Tuck. SPECIES
 
 #### Status
 ACCEPTED

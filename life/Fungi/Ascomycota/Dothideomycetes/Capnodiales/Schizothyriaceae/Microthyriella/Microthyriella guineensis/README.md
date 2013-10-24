@@ -1,5 +1,4 @@
-Microthyriella guineensis Roger SPECIES
-=======
+# Microthyriella guineensis Roger SPECIES
 
 #### Status
 ACCEPTED

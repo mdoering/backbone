@@ -1,14 +1,13 @@
-Microthelia queenslandica Müll. Arg. SPECIES
-=======
+# Mycomicrothelia queenslandica (Müll. Arg.) Sipman & Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Meetings Australs. Assoc. Advancem. Sci. 455 (1895)
+Lichenologist 37(4): 309 (2005)
 
 #### Original name
 Microthelia queenslandica Müll. Arg.

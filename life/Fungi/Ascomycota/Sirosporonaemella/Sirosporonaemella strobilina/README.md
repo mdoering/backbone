@@ -1,5 +1,4 @@
-Sirosporonaemella strobilina Naumov, 1951 SPECIES
-=======
+# Sirosporonaemella strobilina Naumov, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptothallus GENUS
-=======
+# Cryptothallus GENUS
 
 #### Status
 ACCEPTED

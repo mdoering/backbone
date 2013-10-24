@@ -1,5 +1,4 @@
-Oxytricha nauplia Berger & Foissner, 1987 SPECIES
-=======
+# Oxytricha nauplia Berger & Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

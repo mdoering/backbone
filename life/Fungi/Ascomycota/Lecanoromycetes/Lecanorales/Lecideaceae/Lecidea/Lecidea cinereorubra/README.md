@@ -1,5 +1,4 @@
-Lecidea cinereorubra Vain. SPECIES
-=======
+# Lecidea cinereorubra Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Robiginitalea Cho & Giovannoni, 2004 GENUS
-=======
+# Robiginitalea Cho & Giovannoni, 2004 GENUS
 
 #### Status
 ACCEPTED

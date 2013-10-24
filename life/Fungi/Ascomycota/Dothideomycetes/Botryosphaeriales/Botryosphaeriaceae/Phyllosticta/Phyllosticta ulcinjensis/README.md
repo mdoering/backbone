@@ -1,5 +1,4 @@
-Phyllosticta ulcinjensis Bubák SPECIES
-=======
+# Phyllosticta ulcinjensis Bubák SPECIES
 
 #### Status
 ACCEPTED

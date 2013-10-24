@@ -1,5 +1,4 @@
-Ophiobolus kniepii Ade & Bauch SPECIES
-=======
+# Ophiobolus kniepii Ade & Bauch SPECIES
 
 #### Status
 ACCEPTED

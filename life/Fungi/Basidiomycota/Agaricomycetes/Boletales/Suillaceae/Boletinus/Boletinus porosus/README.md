@@ -1,5 +1,4 @@
-Boletinus porosus (Berk.) Peck SPECIES
-=======
+# Boletinus porosus (Berk.) Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periconiella caseariae Mercado SPECIES
-=======
+# Periconiella caseariae Mercado SPECIES
 
 #### Status
 ACCEPTED

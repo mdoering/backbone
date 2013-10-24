@@ -1,5 +1,4 @@
-Celidium grumosum Körb. SPECIES
-=======
+# Celidium grumosum Körb. SPECIES
 
 #### Status
 ACCEPTED

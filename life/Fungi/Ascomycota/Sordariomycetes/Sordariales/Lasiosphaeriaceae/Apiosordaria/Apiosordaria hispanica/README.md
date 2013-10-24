@@ -1,5 +1,4 @@
-Apiosordaria hispanica Dania García, Stchigel & Guarro SPECIES
-=======
+# Apiosordaria hispanica Dania García, Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eucyrtidium hexagonatum Haeckel SPECIES
-=======
+# Eucyrtidium hexagonatum Haeckel SPECIES
 
 #### Status
 ACCEPTED

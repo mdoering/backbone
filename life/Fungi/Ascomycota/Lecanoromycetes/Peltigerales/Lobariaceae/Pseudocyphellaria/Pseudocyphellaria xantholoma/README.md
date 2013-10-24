@@ -1,5 +1,4 @@
-Pseudocyphellaria xantholoma (Delise) C.W. Dodge SPECIES
-=======
+# Pseudocyphellaria xantholoma (Delise) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

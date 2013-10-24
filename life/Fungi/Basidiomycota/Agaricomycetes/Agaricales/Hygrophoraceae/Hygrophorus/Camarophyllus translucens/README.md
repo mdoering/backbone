@@ -1,5 +1,4 @@
-Camarophyllus translucens Murrill SPECIES
-=======
+# Camarophyllus translucens Murrill SPECIES
 
 #### Status
 ACCEPTED

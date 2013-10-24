@@ -1,5 +1,4 @@
-Selenidioides hawesi Levine, 1971 SPECIES
-=======
+# Selenidioides hawesi Levine, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota stelligera Speg. SPECIES
-=======
+# Lepiota stelligera Speg. SPECIES
 
 #### Status
 ACCEPTED

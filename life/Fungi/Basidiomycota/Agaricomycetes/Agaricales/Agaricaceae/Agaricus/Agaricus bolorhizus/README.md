@@ -1,5 +1,4 @@
-Agaricus bolorhizus Berk. & Broome SPECIES
-=======
+# Agaricus bolorhizus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

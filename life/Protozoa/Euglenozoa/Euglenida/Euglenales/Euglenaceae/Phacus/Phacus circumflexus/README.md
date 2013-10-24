@@ -1,5 +1,4 @@
-Phacus circumflexus Pochmann SPECIES
-=======
+# Phacus circumflexus Pochmann SPECIES
 
 #### Status
 ACCEPTED

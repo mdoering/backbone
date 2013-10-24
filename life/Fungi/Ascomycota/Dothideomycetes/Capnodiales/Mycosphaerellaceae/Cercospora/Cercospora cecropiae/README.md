@@ -1,5 +1,4 @@
-Cercospora cecropiae A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora cecropiae A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

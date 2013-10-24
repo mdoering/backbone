@@ -1,5 +1,4 @@
-Scoliciosporum schadeanum (Erichsen) Vezda SPECIES
-=======
+# Scoliciosporum schadeanum (Erichsen) Vezda SPECIES
 
 #### Status
 ACCEPTED

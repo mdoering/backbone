@@ -1,5 +1,4 @@
-Amandinea melaxanthella (Nyl.) Marbach SPECIES
-=======
+# Amandinea melaxanthella (Nyl.) Marbach SPECIES
 
 #### Status
 ACCEPTED

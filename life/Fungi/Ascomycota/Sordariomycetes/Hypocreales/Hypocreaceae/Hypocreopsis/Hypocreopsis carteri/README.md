@@ -1,5 +1,4 @@
-Hypocreopsis carteri (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Hypocreopsis carteri (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

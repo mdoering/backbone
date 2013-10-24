@@ -1,5 +1,4 @@
-Disparidicellites paradoxus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Disparidicellites paradoxus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

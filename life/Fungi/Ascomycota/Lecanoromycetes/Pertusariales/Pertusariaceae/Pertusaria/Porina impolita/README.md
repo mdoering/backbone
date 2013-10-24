@@ -1,5 +1,4 @@
-Porina impolita P.M. McCarthy, 1994 SPECIES
-=======
+# Porina impolita P.M. McCarthy, 1994 SPECIES
 
 #### Status
 DOUBTFUL

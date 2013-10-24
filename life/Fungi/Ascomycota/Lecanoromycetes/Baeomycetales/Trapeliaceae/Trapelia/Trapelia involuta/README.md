@@ -1,17 +1,16 @@
-Lecidea coarctata var. elachista (Ach.) Th. Fr. VARIETY
-=======
+# Trapelia involuta (Taylor) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Scand. (Uppsala) 447 (1871)
+Herzogia 2(4): 508 (1973)
 
 #### Original name
-Parmelia elacista Ach.
+Lecanora involuta Taylor
 
 ### Remarks
 null

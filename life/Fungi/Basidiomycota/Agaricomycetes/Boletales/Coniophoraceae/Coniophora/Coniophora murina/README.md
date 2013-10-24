@@ -1,5 +1,4 @@
-Coniophora murina (Berk. & Broome) Massee SPECIES
-=======
+# Coniophora murina (Berk. & Broome) Massee SPECIES
 
 #### Status
 ACCEPTED

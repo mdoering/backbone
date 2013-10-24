@@ -1,5 +1,4 @@
-Agaricus bicinctus Kalchbr. SPECIES
-=======
+# Agaricus bicinctus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendryphion leguminosarum Bat. SPECIES
-=======
+# Dendryphion leguminosarum Bat. SPECIES
 
 #### Status
 ACCEPTED

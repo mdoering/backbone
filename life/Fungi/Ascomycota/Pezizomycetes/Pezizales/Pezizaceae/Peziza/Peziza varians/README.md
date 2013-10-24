@@ -1,5 +1,4 @@
-Peziza varians Saut. SPECIES
-=======
+# Peziza varians Saut. SPECIES
 
 #### Status
 ACCEPTED

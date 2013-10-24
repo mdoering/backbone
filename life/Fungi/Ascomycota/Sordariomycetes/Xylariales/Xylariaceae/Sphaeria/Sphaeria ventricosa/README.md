@@ -1,5 +1,4 @@
-Sphaeria ventricosa Pers. SPECIES
-=======
+# Sphaeria ventricosa Pers. SPECIES
 
 #### Status
 ACCEPTED

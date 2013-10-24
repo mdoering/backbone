@@ -1,5 +1,4 @@
-Inocybe cucullata G. Martin SPECIES
-=======
+# Inocybe cucullata G. Martin SPECIES
 
 #### Status
 ACCEPTED

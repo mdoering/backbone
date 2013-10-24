@@ -1,5 +1,4 @@
-Biscogniauxia viscosicentra var. viscosicentra VARIETY
-=======
+# Biscogniauxia viscosicentra J.D. Rogers, F. San Martín & Y.M. Ju SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rogers, San Martín, Ju & Hansen, Nova Hedwigia 71(3-4): 432 (2000)
 
 #### Original name
-null
+Biscogniauxia viscosicentra J.D. Rogers, F. San Martín & Y.M. Ju
 
 ### Remarks
 null

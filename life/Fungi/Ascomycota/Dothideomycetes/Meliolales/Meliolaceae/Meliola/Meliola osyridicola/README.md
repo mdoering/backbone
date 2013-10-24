@@ -1,5 +1,4 @@
-Meliola osyridicola Hansf. SPECIES
-=======
+# Meliola osyridicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

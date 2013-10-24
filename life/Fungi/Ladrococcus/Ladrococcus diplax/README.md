@@ -1,5 +1,4 @@
-Ladrococcus diplax Locq. SPECIES
-=======
+# Ladrococcus diplax Locq. SPECIES
 
 #### Status
 ACCEPTED

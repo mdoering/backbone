@@ -1,5 +1,4 @@
-Halteria tenuicollis SPECIES
-=======
+# Halteria tenuicollis SPECIES
 
 #### Status
 ACCEPTED

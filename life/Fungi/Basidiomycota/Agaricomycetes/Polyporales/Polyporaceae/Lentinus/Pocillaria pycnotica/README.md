@@ -1,5 +1,4 @@
-Pocillaria pycnotica (Klotzsch) Kuntze SPECIES
-=======
+# Pocillaria pycnotica (Klotzsch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

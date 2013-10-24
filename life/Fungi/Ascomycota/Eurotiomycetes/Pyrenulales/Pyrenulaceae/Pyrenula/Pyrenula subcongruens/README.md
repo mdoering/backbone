@@ -1,17 +1,16 @@
-Pyrenula pileata Vain. SPECIES
-=======
+# Pyrenula subcongruens Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rep. Meetings Australs. Assoc. Advancem. Sci. 457 (1895)
 
 #### Original name
-null
+Pyrenula subcongruens Müll. Arg.
 
 ### Remarks
 null

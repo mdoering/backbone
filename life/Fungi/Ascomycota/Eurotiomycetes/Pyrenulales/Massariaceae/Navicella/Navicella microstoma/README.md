@@ -1,5 +1,4 @@
-Navicella microstoma (Cooke & Ellis) Kuntze SPECIES
-=======
+# Navicella microstoma (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

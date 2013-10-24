@@ -1,5 +1,4 @@
-Cuphophyllus antillanus (Pegler) Courtec. SPECIES
-=======
+# Cuphophyllus antillanus (Pegler) Courtec. SPECIES
 
 #### Status
 ACCEPTED

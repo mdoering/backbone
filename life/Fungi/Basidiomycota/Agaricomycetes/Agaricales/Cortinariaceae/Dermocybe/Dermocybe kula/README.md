@@ -1,5 +1,4 @@
-Dermocybe kula Grgur. SPECIES
-=======
+# Dermocybe kula Grgur. SPECIES
 
 #### Status
 ACCEPTED

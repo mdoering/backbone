@@ -1,14 +1,13 @@
-Venturia turfosorum Mouton, 1886 SPECIES
-=======
+# Epibryon turfosorum (Mouton) Döbbeler, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 25: 149 (1886)
+Mitt. bot. StSamml. , Münch. 14: 303 (1978)
 
 #### Original name
 Venturia turfosorum Mouton, 1886

@@ -1,5 +1,4 @@
-Rosellinia beccariana Ces. SPECIES
-=======
+# Rosellinia beccariana Ces. SPECIES
 
 #### Status
 ACCEPTED

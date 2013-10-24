@@ -1,5 +1,4 @@
-Balladyna affinis Syd. & P. Syd. SPECIES
-=======
+# Balladyna affinis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

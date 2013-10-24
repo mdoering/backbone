@@ -1,5 +1,4 @@
-Russula dulcis Schulzer SPECIES
-=======
+# Russula dulcis Schulzer SPECIES
 
 #### Status
 ACCEPTED

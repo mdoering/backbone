@@ -1,5 +1,4 @@
-Dirina africana Kremp. SPECIES
-=======
+# Dirina africana Kremp. SPECIES
 
 #### Status
 ACCEPTED

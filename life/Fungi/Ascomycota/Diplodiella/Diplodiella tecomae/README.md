@@ -1,5 +1,4 @@
-Diplodiella tecomae (Cooke) Sacc. SPECIES
-=======
+# Diplodiella tecomae (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tympanis punctoidea Cooke SPECIES
-=======
+# Tympanis punctoidea Cooke SPECIES
 
 #### Status
 ACCEPTED

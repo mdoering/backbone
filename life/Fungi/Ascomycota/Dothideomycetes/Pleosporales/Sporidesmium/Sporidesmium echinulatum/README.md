@@ -1,5 +1,4 @@
-Sporidesmium echinulatum Speg. SPECIES
-=======
+# Sporidesmium echinulatum Speg. SPECIES
 
 #### Status
 ACCEPTED

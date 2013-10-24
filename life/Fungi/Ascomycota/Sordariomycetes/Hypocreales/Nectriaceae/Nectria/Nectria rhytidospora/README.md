@@ -1,5 +1,4 @@
-Nectria rhytidospora Pat. SPECIES
-=======
+# Nectria rhytidospora Pat. SPECIES
 
 #### Status
 ACCEPTED

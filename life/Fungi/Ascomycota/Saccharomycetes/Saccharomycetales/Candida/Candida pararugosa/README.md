@@ -1,5 +1,4 @@
-Candida pararugosa Nakase, Komag. & Fukaz., 1978 SPECIES
-=======
+# Candida pararugosa Nakase, Komag. & Fukaz., 1978 SPECIES
 
 #### Status
 ACCEPTED

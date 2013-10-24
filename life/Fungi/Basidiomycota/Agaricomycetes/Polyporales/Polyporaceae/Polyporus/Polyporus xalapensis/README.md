@@ -1,5 +1,4 @@
-Polyporus xalapensis Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus xalapensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

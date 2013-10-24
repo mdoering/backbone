@@ -1,5 +1,4 @@
-Sphenolithus predistentus Bramlette & Wilcoxon, 1967 SPECIES
-=======
+# Sphenolithus predistentus Bramlette & Wilcoxon, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria glebarum (Berk.) Sacc. SPECIES
-=======
+# Naucoria glebarum (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe tecta (Cooke) Sacc. SPECIES
-=======
+# Diaporthe tecta (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

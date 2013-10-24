@@ -1,5 +1,4 @@
-Reichenowella Kahl, 1932 GENUS
-=======
+# Reichenowella Kahl, 1932 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella depokensis (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella depokensis (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

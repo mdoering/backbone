@@ -1,5 +1,4 @@
-Macmillanina lupini (Cooke) Kuntze SPECIES
-=======
+# Macmillanina lupini (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

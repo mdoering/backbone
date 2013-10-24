@@ -1,5 +1,4 @@
-Lentinus gogoensis Har. & Pat. SPECIES
-=======
+# Lentinus gogoensis Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

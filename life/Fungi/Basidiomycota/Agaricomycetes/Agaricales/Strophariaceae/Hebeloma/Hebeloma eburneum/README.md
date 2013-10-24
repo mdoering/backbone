@@ -1,5 +1,4 @@
-Hebeloma eburneum Malençon SPECIES
-=======
+# Hebeloma eburneum Malençon SPECIES
 
 #### Status
 ACCEPTED

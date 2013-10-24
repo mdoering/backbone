@@ -1,5 +1,4 @@
-Myxobaktron salinum Walsby SPECIES
-=======
+# Myxobaktron salinum Walsby SPECIES
 
 #### Status
 ACCEPTED

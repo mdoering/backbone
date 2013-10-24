@@ -1,5 +1,4 @@
-Cothurnia gracilis Kent, 1882 SPECIES
-=======
+# Cothurnia gracilis Kent, 1882 SPECIES
 
 #### Status
 ACCEPTED

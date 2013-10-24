@@ -1,5 +1,4 @@
-Fusarium ailanthinum Speg. SPECIES
-=======
+# Fusarium ailanthinum Speg. SPECIES
 
 #### Status
 ACCEPTED

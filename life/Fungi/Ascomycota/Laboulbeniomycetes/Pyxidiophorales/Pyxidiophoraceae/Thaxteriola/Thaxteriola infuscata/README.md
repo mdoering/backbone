@@ -1,5 +1,4 @@
-Thaxteriola infuscata Speg. SPECIES
-=======
+# Thaxteriola infuscata Speg. SPECIES
 
 #### Status
 ACCEPTED

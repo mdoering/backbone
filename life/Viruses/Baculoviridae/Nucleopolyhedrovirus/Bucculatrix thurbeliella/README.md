@@ -1,5 +1,4 @@
-Bucculatrix thurbeliella Npv SPECIES
-=======
+# Bucculatrix thurbeliella Npv SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena anoectochili L. Fan & S.X. Guo SPECIES
-=======
+# Mycena anoectochili L. Fan & S.X. Guo SPECIES
 
 #### Status
 ACCEPTED

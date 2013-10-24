@@ -1,5 +1,4 @@
-Xylaria pumila (Fr.) Sacc. SPECIES
-=======
+# Xylaria pumila (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

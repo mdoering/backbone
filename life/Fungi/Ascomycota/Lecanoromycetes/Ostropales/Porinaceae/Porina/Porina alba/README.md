@@ -1,17 +1,16 @@
-Porina alba (R. Sant.) Lücking SPECIES
-=======
+# Porina alba (R. Sant.) Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 88: 412 (2004)
+null
 
 #### Original name
-Phyllophiale alba R. Sant.
+null
 
 ### Remarks
 null

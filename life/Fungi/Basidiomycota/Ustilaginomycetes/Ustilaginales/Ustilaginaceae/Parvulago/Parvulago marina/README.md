@@ -1,14 +1,13 @@
-Ustilago marina Durieu, 1866 SPECIES
-=======
+# Parvulago marina (Durieu) R. Bauer, M. Lutz, Piatek, Vánky & Oberw., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 5 5: 134 (1866)
+Mycol. Res. 111(10): 1203 (2007)
 
 #### Original name
 Ustilago marina Durieu, 1866

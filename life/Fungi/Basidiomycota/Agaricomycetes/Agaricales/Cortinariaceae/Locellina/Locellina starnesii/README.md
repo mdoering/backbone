@@ -1,5 +1,4 @@
-Locellina starnesii Peck SPECIES
-=======
+# Locellina starnesii Peck SPECIES
 
 #### Status
 ACCEPTED

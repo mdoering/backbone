@@ -1,5 +1,4 @@
-Clavariadelphus mucronatus V.L. Wells & Kempton, 1968 SPECIES
-=======
+# Clavariadelphus mucronatus V.L. Wells & Kempton, 1968 SPECIES
 
 #### Status
 ACCEPTED

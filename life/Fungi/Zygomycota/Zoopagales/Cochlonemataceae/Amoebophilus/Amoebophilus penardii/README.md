@@ -1,17 +1,16 @@
-Amoebophilus penardi P.A. Dang. SPECIES
-=======
+# Amoebophilus penardii P.A. Dang., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Botaniste 11: 57 (1910)
 
 #### Original name
-Amoebophilus penardi P.A. Dang.
+Amoebophilus penardii P.A. Dang., 1910
 
 ### Remarks
 null

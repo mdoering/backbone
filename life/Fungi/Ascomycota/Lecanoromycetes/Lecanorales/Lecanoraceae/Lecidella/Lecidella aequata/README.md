@@ -1,5 +1,4 @@
-Lecidella aequata (Flörke) Kremp. SPECIES
-=======
+# Lecidella aequata (Flörke) Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eriothyrium cassiae Bat. & A.A. Silva SPECIES
-=======
+# Eriothyrium cassiae Bat. & A.A. Silva SPECIES
 
 #### Status
 ACCEPTED

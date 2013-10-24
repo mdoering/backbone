@@ -1,5 +1,4 @@
-Psora hypotheja (I.M. Lamb) Timdal SPECIES
-=======
+# Psora hypotheja (I.M. Lamb) Timdal SPECIES
 
 #### Status
 ACCEPTED

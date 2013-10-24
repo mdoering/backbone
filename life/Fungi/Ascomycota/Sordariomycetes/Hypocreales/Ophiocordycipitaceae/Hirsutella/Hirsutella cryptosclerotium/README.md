@@ -1,5 +1,4 @@
-Hirsutella cryptosclerotium Fern.-García, H.C. Evans & Samson, 1990 SPECIES
-=======
+# Hirsutella cryptosclerotium Fern.-García, H.C. Evans & Samson, 1990 SPECIES
 
 #### Status
 ACCEPTED

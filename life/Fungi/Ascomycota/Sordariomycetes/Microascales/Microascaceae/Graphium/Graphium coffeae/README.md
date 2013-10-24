@@ -1,5 +1,4 @@
-Graphium coffeae Zimm. SPECIES
-=======
+# Graphium coffeae Zimm. SPECIES
 
 #### Status
 ACCEPTED

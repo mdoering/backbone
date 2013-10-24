@@ -1,5 +1,4 @@
-Tetracyclus subdivisium D. M. Williams & J. Li SPECIES
-=======
+# Tetracyclus subdivisium D. M. Williams & J. Li SPECIES
 
 #### Status
 ACCEPTED

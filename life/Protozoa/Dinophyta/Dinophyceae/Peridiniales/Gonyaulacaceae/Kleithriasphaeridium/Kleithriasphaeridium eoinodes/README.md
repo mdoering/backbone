@@ -1,5 +1,4 @@
-Kleithriasphaeridium eoinodes (A. Eisenack) R. J. Davey SPECIES
-=======
+# Kleithriasphaeridium eoinodes (A. Eisenack) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

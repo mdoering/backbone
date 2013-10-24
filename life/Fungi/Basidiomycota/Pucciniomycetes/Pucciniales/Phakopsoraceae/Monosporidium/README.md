@@ -1,5 +1,4 @@
-Monosporidium Barclay GENUS
-=======
+# Monosporidium Barclay GENUS
 
 #### Status
 ACCEPTED

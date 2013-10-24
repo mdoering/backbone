@@ -1,5 +1,4 @@
-Caleutypa maculans Petr., 1934 SPECIES
-=======
+# Caleutypa maculans Petr., 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Geaster minus (Pers.) G. Cunn. SPECIES
-=======
+# Geastrum minus (Pers.) G. Cunn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. N. S. W. 81 (1926)
 
 #### Original name
 Geastrum quadrifidum var. minus Pers.

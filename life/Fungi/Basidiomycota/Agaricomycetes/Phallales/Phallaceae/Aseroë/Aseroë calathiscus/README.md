@@ -1,5 +1,4 @@
-Aseroë calathiscus Schltdl. SPECIES
-=======
+# Aseroë calathiscus Schltdl. SPECIES
 
 #### Status
 ACCEPTED

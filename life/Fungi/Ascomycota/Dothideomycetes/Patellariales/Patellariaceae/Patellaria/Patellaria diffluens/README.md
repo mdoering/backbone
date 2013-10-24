@@ -1,5 +1,4 @@
-Patellaria diffluens Müll. Arg. SPECIES
-=======
+# Patellaria diffluens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

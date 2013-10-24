@@ -1,5 +1,4 @@
-Lichen pollinarius Ach. SPECIES
-=======
+# Lichen pollinarius Ach. SPECIES
 
 #### Status
 ACCEPTED

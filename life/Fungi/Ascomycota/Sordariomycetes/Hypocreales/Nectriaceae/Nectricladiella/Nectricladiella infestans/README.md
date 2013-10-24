@@ -1,5 +1,4 @@
-Nectricladiella infestans Crous & C.L. Schoch, 2000 SPECIES
-=======
+# Nectricladiella infestans Crous & C.L. Schoch, 2000 SPECIES
 
 #### Status
 ACCEPTED

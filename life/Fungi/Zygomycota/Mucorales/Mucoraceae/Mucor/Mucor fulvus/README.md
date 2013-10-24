@@ -1,17 +1,16 @@
-Mucor fulva Sowerby SPECIES
-=======
+# Mucor fulvus Sowerby SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Col. fig. Engl. Fung. Mushr. (London) 3: 182, pl. 378:8 (1803)
 
 #### Original name
-Mucor fulva Sowerby
+Mucor fulvus Sowerby
 
 ### Remarks
 null

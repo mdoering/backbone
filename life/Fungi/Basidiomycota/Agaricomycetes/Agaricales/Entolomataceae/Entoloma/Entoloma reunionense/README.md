@@ -1,5 +1,4 @@
-Entoloma reunionense Noordel. & Hauskn. SPECIES
-=======
+# Entoloma reunionense Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium minutissimum P. Karst. & Starbäck SPECIES
-=======
+# Helotium minutissimum P. Karst. & Starbäck SPECIES
 
 #### Status
 ACCEPTED

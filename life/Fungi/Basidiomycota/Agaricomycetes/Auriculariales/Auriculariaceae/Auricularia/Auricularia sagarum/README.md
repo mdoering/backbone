@@ -1,5 +1,4 @@
-Auricularia sagarum (Retz.) Wahlenb. SPECIES
-=======
+# Auricularia sagarum (Retz.) Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

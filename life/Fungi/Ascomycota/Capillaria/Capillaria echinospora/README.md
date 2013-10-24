@@ -1,5 +1,4 @@
-Capillaria echinospora Velen. SPECIES
-=======
+# Capillaria echinospora Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Actinonema acteae Allesch. SPECIES
-=======
+# Actinonema actaeae Allesch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Actinonema acteae Allesch.
+Actinonema actaeae Allesch.
 
 ### Remarks
 null

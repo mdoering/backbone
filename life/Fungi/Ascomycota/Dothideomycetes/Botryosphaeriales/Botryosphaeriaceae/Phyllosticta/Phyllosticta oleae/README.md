@@ -1,5 +1,4 @@
-Phyllosticta oleae Ellis & G. Martin SPECIES
-=======
+# Phyllosticta oleae Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

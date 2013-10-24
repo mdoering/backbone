@@ -1,5 +1,4 @@
-Boletus pseudoparvulus C.S. Bi SPECIES
-=======
+# Boletus pseudoparvulus C.S. Bi SPECIES
 
 #### Status
 ACCEPTED

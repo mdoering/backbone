@@ -1,5 +1,4 @@
-Clavaria roseoviolacea R.H. Petersen, 1988 SPECIES
-=======
+# Clavaria roseoviolacea R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia luzulae Westend. SPECIES
-=======
+# Vermicularia luzulae Westend. SPECIES
 
 #### Status
 ACCEPTED

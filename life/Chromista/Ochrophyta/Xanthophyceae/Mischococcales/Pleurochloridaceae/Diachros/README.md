@@ -1,5 +1,4 @@
-Diachros Pascher, 1937 GENUS
-=======
+# Diachros Pascher, 1937 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Anthurus woodi MacOwan SPECIES
-=======
+# Anthurus woodii MacOwan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Anthurus woodi MacOwan
+Anthurus woodii MacOwan
 
 ### Remarks
 null

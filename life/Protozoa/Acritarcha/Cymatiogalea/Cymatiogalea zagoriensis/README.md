@@ -1,5 +1,4 @@
-Cymatiogalea zagoriensis Deunff, 1977 SPECIES
-=======
+# Cymatiogalea zagoriensis Deunff, 1977 SPECIES
 
 #### Status
 ACCEPTED

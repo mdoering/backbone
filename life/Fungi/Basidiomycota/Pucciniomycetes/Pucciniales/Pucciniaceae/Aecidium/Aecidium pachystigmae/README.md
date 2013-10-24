@@ -1,5 +1,4 @@
-Aecidium pachystigmae Doidge SPECIES
-=======
+# Aecidium pachystigmae Doidge SPECIES
 
 #### Status
 ACCEPTED

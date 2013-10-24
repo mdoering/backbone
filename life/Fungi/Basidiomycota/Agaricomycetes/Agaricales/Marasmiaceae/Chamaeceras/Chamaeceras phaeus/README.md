@@ -1,5 +1,4 @@
-Chamaeceras phaeus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras phaeus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea grisea Zenk. SPECIES
-=======
+# Lecidea grisea Zenk. SPECIES
 
 #### Status
 ACCEPTED

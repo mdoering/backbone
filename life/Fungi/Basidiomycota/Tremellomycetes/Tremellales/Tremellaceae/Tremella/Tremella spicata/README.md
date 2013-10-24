@@ -1,5 +1,4 @@
-Tremella spicata Bourdot & Galzin SPECIES
-=======
+# Tremella spicata Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

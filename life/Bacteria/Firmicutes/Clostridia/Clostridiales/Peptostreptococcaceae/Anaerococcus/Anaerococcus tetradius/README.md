@@ -1,11 +1,10 @@
-Gaffkya anaerobius (Choukévitch, 1911) Prévot, 1933 SPECIES
-=======
+# Anaerococcus tetradius (Ezaki et al., 1983) Ezaki et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

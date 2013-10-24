@@ -1,5 +1,4 @@
-Oligoporus norrlandicus Berglund & Ryvarden SPECIES
-=======
+# Oligoporus norrlandicus Berglund & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

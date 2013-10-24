@@ -1,5 +1,4 @@
-Lycoperdon proximum Rick SPECIES
-=======
+# Lycoperdon proximum Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachysporium oligocarpum (Corda) Sacc. SPECIES
-=======
+# Brachysporium oligocarpum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

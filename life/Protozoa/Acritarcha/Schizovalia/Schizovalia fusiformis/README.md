@@ -1,5 +1,4 @@
-Schizovalia fusiformis Yan Yuzhong, 1985 SPECIES
-=======
+# Schizovalia fusiformis Yan Yuzhong, 1985 SPECIES
 
 #### Status
 ACCEPTED

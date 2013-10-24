@@ -1,5 +1,4 @@
-Asterina deviata Syd., 1939 SPECIES
-=======
+# Asterina deviata Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Olpidium uredinis (Lagerh.) A. Fisch. SPECIES
-=======
+# Olpidium uredinis (Lagerh.) A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

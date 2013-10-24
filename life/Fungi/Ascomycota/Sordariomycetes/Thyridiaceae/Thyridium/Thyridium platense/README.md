@@ -1,5 +1,4 @@
-Thyridium platense Speg. SPECIES
-=======
+# Thyridium platense Speg. SPECIES
 
 #### Status
 ACCEPTED

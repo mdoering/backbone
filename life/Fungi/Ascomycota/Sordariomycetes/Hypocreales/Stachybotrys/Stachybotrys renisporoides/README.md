@@ -1,5 +1,4 @@
-Stachybotrys renisporoides K.G. Karand., S.M. Kulk. & Patw. SPECIES
-=======
+# Stachybotrys renisporoides K.G. Karand., S.M. Kulk. & Patw. SPECIES
 
 #### Status
 ACCEPTED

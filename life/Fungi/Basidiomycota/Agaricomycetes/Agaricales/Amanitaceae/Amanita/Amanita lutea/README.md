@@ -1,5 +1,4 @@
-Amanita lutea G.H. Otth SPECIES
-=======
+# Amanita lutea G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

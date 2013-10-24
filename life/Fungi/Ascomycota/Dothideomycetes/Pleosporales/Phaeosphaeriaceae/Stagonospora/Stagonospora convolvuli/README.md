@@ -1,5 +1,4 @@
-Stagonospora convolvuli Dearn. & House SPECIES
-=======
+# Stagonospora convolvuli Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

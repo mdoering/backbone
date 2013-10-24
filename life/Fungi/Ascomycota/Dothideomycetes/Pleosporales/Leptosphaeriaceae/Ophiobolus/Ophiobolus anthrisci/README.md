@@ -1,17 +1,16 @@
-Ophiobolus nigromaculatus f. anthrisci L. Holm, 1948 FORM
-=======
+# Ophiobolus anthrisci (L. Holm) L. Holm, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 14(3): 77 (1957)
 
 #### Original name
-null
+Ophiobolus nigromaculatus f. anthrisci L. Holm, 1948
 
 ### Remarks
 null

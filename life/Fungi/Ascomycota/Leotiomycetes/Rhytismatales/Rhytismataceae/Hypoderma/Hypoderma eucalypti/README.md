@@ -1,14 +1,13 @@
-Hypodermopsis eucalypti (Cooke & Harkn.) Kuntze, 1898 SPECIES
-=======
+# Hypoderma eucalypti Cooke & Harkn., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 487 (1898)
+Grevillea 13(no. 65): 21 (1884)
 
 #### Original name
 Hypoderma eucalypti Cooke & Harkn., 1884

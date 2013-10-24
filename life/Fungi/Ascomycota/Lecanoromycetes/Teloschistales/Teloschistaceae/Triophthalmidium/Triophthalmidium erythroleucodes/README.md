@@ -1,5 +1,4 @@
-Triophthalmidium erythroleucodes (Nyl.) Gyeln. SPECIES
-=======
+# Triophthalmidium erythroleucodes (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

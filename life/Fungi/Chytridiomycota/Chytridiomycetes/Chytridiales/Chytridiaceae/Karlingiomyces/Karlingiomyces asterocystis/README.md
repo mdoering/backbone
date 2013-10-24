@@ -1,14 +1,13 @@
-Karlingia asterocysta Karling, 1949 SPECIES
-=======
+# Karlingiomyces asterocystis (Karling) Sparrow, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 41(5): 509 (1949)
+Aquatic Phycomycetes (Ann Arbor), Edn 2 560 (1960)
 
 #### Original name
 Karlingia asterocysta Karling, 1949

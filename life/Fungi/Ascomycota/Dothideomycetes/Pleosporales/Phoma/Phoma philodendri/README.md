@@ -1,5 +1,4 @@
-Phoma philodendri Ferraris SPECIES
-=======
+# Phoma philodendri Ferraris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kabatiella prunicola (Ellis & Everh.) Arx SPECIES
-=======
+# Kabatiella prunicola (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

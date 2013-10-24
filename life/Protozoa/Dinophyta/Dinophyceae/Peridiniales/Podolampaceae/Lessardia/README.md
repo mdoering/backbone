@@ -1,5 +1,4 @@
-Lessardia J.F.Saldarriaga & F.J.R.Taylor, 2003 GENUS
-=======
+# Lessardia J.F.Saldarriaga & F.J.R.Taylor, 2003 GENUS
 
 #### Status
 ACCEPTED

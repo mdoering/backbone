@@ -1,17 +1,16 @@
-Macrophoma theae Speschnew, 1904 SPECIES
-=======
+# Macrophoma theicola Petch, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. R. bot. Gdns Peradeniya 6: 234 (1917)
 
 #### Original name
-Macrophoma theae Speschnew, 1904
+Macrophoma theicola Petch, 1917
 
 ### Remarks
 null

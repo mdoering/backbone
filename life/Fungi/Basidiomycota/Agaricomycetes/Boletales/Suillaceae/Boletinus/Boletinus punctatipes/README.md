@@ -1,5 +1,4 @@
-Boletinus punctatipes Snell SPECIES
-=======
+# Boletinus punctatipes Snell SPECIES
 
 #### Status
 ACCEPTED

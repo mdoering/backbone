@@ -1,8 +1,7 @@
-Labrospira triangularis (Saidova, 1961) SPECIES
-=======
+# Cribrostomoides triangularis Saidova, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

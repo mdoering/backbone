@@ -1,14 +1,13 @@
-Aeruginospora microspora (A.H. Sm. & Hesler) Singer, 1962 SPECIES
-=======
+# Camarophyllopsis microspora (A.H. Sm. & Hesler) Bon, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 15: 46 (1962)
+Docums Mycol. 26(no. 103): 20 (1996)
 
 #### Original name
 Hygrophorus microsporus A.H. Sm. & Hesler, 1942

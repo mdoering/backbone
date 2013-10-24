@@ -1,5 +1,4 @@
-Coniothyrium cruciatum Fuckel SPECIES
-=======
+# Coniothyrium cruciatum Fuckel SPECIES
 
 #### Status
 ACCEPTED

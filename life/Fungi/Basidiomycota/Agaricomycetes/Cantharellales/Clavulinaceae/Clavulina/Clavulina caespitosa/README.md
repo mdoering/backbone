@@ -1,5 +1,4 @@
-Clavulina caespitosa T.W. Henkel, Meszaros & Aime, 2005 SPECIES
-=======
+# Clavulina caespitosa T.W. Henkel, Meszaros & Aime, 2005 SPECIES
 
 #### Status
 ACCEPTED

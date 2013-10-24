@@ -1,5 +1,4 @@
-Acarospora castanea var. castanea VARIETY
-=======
+# Acarospora castanea (DC.) Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Parerga lichenol. (Breslau) 58 (1859)
 
 #### Original name
-Acarospora castanea var. castanea
+Urceolaria castanea DC.
 
 ### Remarks
 null

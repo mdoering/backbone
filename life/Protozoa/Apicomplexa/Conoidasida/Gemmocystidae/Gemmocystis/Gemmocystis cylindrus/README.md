@@ -1,5 +1,4 @@
-Gemmocystis cylindrus Upton & Peters, 1986 SPECIES
-=======
+# Gemmocystis cylindrus Upton & Peters, 1986 SPECIES
 
 #### Status
 ACCEPTED

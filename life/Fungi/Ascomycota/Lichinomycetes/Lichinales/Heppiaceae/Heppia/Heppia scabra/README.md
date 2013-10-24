@@ -1,5 +1,4 @@
-Heppia scabra Groenh. SPECIES
-=======
+# Heppia scabra Groenh. SPECIES
 
 #### Status
 ACCEPTED

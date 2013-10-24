@@ -1,5 +1,4 @@
-Sphaerulina phellogena D. Sacc. SPECIES
-=======
+# Sphaerulina phellogena D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

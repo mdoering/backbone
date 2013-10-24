@@ -1,5 +1,4 @@
-Cystopus froelichiae (G.W. Wilson) Sacc. & Trotter SPECIES
-=======
+# Cystopus froelichiae (G.W. Wilson) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella cupressicola S. Ahmad SPECIES
-=======
+# Aplosporella cupressicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

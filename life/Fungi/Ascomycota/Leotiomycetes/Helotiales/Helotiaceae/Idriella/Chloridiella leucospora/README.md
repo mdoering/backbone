@@ -1,5 +1,4 @@
-Chloridiella leucospora (Bonord.) G. Arnaud SPECIES
-=======
+# Chloridiella leucospora (Bonord.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Piromyces spiralis Y.W. Ho, 1993 SPECIES
-=======
+# Piromyces spiralis Y.W. Ho, 1993 SPECIES
 
 #### Status
 ACCEPTED

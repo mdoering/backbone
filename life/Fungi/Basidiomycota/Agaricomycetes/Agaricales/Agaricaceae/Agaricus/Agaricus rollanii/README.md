@@ -1,5 +1,4 @@
-Agaricus rollanii L.A. Parra SPECIES
-=======
+# Agaricus rollanii L.A. Parra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella senecionis (Petch) M. Morelet SPECIES
-=======
+# Mycosphaerella senecionis (Petch) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

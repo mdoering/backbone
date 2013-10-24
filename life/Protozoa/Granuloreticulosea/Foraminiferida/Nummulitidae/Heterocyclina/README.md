@@ -1,5 +1,4 @@
-Heterocyclina Hottinger, 1977 GENUS
-=======
+# Heterocyclina Hottinger, 1977 GENUS
 
 #### Status
 ACCEPTED

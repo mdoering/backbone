@@ -1,5 +1,4 @@
-Lecanora endorhodea Zahlbr. SPECIES
-=======
+# Lecanora endorhodea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

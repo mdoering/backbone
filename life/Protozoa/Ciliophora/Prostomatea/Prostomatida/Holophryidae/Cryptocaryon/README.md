@@ -1,5 +1,4 @@
-Cryptocaryon Brown, 1951 GENUS
-=======
+# Cryptocaryon Brown, 1951 GENUS
 
 #### Status
 ACCEPTED

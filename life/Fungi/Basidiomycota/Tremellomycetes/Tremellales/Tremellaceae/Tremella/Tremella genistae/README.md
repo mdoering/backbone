@@ -1,5 +1,4 @@
-Tremella genistae Lib. SPECIES
-=======
+# Tremella genistae Lib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia adspersa Mont. & Bosch SPECIES
-=======
+# Cladonia adspersa Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

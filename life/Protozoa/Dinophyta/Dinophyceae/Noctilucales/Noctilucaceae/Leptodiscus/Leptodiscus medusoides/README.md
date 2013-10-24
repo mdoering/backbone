@@ -1,5 +1,4 @@
-Leptodiscus medusoides Hertwig SPECIES
-=======
+# Leptodiscus medusoides Hertwig SPECIES
 
 #### Status
 ACCEPTED

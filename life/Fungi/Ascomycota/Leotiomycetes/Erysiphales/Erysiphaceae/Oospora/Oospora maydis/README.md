@@ -1,5 +1,4 @@
-Oospora maydis Henn. SPECIES
-=======
+# Oospora maydis Henn. SPECIES
 
 #### Status
 ACCEPTED

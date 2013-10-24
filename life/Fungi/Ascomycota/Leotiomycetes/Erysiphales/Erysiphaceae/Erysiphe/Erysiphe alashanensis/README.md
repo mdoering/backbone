@@ -1,5 +1,4 @@
-Erysiphe alashanensis T.Z. Liu & Y.Z. Shang SPECIES
-=======
+# Erysiphe alashanensis T.Z. Liu & Y.Z. Shang SPECIES
 
 #### Status
 ACCEPTED

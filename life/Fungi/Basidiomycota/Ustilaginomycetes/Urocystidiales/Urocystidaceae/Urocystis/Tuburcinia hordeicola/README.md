@@ -1,5 +1,4 @@
-Tuburcinia hordeicola Lavrov SPECIES
-=======
+# Tuburcinia hordeicola Lavrov SPECIES
 
 #### Status
 ACCEPTED

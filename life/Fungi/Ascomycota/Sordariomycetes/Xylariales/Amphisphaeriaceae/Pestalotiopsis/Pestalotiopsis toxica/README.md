@@ -1,5 +1,4 @@
-Pestalotiopsis toxica (Ellis & Everh.) X.A. Sun & Q.X. Ge SPECIES
-=======
+# Pestalotiopsis toxica (Ellis & Everh.) X.A. Sun & Q.X. Ge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptothrix effusa Sumst. SPECIES
-=======
+# Streptothrix effusa Sumst. SPECIES
 
 #### Status
 ACCEPTED

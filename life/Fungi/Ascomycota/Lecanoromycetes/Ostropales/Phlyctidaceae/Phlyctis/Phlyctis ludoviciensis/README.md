@@ -1,5 +1,4 @@
-Phlyctis ludoviciensis (Müll. Arg.) Lendemer SPECIES
-=======
+# Phlyctis ludoviciensis (Müll. Arg.) Lendemer SPECIES
 
 #### Status
 ACCEPTED

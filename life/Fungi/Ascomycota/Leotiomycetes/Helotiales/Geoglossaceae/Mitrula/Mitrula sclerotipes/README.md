@@ -1,5 +1,4 @@
-Mitrula sclerotipes Boud. SPECIES
-=======
+# Mitrula sclerotipes Boud. SPECIES
 
 #### Status
 ACCEPTED

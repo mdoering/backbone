@@ -1,5 +1,4 @@
-Nothyocha Deflandre, 1949 GENUS
-=======
+# Nothyocha Deflandre, 1949 GENUS
 
 #### Status
 ACCEPTED

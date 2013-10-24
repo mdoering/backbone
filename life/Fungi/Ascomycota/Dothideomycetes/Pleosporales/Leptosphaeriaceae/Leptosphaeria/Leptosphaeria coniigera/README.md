@@ -1,5 +1,4 @@
-Leptosphaeria coniigera SPECIES
-=======
+# Leptosphaeria coniigera SPECIES
 
 #### Status
 ACCEPTED

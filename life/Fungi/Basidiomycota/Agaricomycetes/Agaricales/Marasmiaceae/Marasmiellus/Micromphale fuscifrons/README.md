@@ -1,5 +1,4 @@
-Micromphale fuscifrons (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Micromphale fuscifrons (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

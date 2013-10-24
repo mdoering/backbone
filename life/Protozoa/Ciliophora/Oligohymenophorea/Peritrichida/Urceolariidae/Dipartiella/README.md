@@ -1,5 +1,4 @@
-Dipartiella Stein, 1961 GENUS
-=======
+# Dipartiella Stein, 1961 GENUS
 
 #### Status
 ACCEPTED

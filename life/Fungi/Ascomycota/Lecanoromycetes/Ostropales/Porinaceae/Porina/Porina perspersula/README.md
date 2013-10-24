@@ -1,5 +1,4 @@
-Porina perspersula (Nyl.) Zahlbr. SPECIES
-=======
+# Porina perspersula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

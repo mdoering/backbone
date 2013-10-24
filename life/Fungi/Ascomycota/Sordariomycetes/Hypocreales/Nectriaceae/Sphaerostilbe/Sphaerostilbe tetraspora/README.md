@@ -1,5 +1,4 @@
-Sphaerostilbe tetraspora Pat. & Gaillard SPECIES
-=======
+# Sphaerostilbe tetraspora Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

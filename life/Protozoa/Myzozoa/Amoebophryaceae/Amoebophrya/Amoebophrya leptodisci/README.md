@@ -1,5 +1,4 @@
-Amoebophrya leptodisci Cachon SPECIES
-=======
+# Amoebophrya leptodisci Cachon SPECIES
 
 #### Status
 ACCEPTED

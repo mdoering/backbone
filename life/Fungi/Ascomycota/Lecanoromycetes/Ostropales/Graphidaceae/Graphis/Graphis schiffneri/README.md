@@ -1,5 +1,4 @@
-Graphis schiffneri Zahlbr. SPECIES
-=======
+# Graphis schiffneri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

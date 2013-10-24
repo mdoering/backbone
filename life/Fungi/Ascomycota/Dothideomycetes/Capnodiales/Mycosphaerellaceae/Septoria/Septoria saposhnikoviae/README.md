@@ -1,5 +1,4 @@
-Septoria saposhnikoviae G.Z. Lu & J.K. Bai SPECIES
-=======
+# Septoria saposhnikoviae G.Z. Lu & J.K. Bai SPECIES
 
 #### Status
 ACCEPTED

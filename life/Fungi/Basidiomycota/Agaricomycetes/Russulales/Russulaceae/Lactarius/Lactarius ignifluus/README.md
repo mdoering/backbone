@@ -1,5 +1,4 @@
-Lactarius ignifluus K.B. Vrinda & C.K. Pradeep SPECIES
-=======
+# Lactarius ignifluus K.B. Vrinda & C.K. Pradeep SPECIES
 
 #### Status
 ACCEPTED

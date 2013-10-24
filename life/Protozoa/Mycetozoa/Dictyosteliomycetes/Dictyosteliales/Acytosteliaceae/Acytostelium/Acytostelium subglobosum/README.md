@@ -1,5 +1,4 @@
-Acytostelium subglobosum Cavender, 1976 SPECIES
-=======
+# Acytostelium subglobosum Cavender, 1976 SPECIES
 
 #### Status
 ACCEPTED

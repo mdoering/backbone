@@ -1,5 +1,4 @@
-Linocarpon elaeidis Petr., 1952 SPECIES
-=======
+# Linocarpon elaeidis Petr., 1952 SPECIES
 
 #### Status
 ACCEPTED

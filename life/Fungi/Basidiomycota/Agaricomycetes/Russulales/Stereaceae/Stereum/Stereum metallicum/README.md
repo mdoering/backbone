@@ -1,5 +1,4 @@
-Stereum metallicum Rick SPECIES
-=======
+# Stereum metallicum Rick SPECIES
 
 #### Status
 ACCEPTED

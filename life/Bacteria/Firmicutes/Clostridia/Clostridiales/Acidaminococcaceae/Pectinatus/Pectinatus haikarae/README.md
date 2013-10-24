@@ -1,5 +1,4 @@
-Pectinatus haikarae Juvonen & Suihko, 2006 SPECIES
-=======
+# Pectinatus haikarae Juvonen & Suihko, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus luteus f. luteus A.E. Johnson FORM
-=======
+# Hygrophorus luteus Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 1: 105 (1920)
 
 #### Original name
-Hygrophorus luteus f. luteus A.E. Johnson
+Hygrophorus luteus Velen.
 
 ### Remarks
 null

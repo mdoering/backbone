@@ -1,5 +1,4 @@
-Stictis brunnescens Gilenstam, Döring & Wedin SPECIES
-=======
+# Stictis brunnescens Gilenstam, Döring & Wedin SPECIES
 
 #### Status
 ACCEPTED

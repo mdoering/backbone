@@ -1,5 +1,4 @@
-Sclerotium nicandrae Schwein. SPECIES
-=======
+# Sclerotium nicandrae Schwein. SPECIES
 
 #### Status
 ACCEPTED

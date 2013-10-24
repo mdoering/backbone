@@ -1,5 +1,4 @@
-Granularia Kowalski, 1983 GENUS
-=======
+# Granularia Kowalski, 1983 GENUS
 
 #### Status
 ACCEPTED

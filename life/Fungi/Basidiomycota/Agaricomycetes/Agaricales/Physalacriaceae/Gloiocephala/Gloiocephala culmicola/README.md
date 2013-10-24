@@ -1,5 +1,4 @@
-Gloiocephala culmicola Singer SPECIES
-=======
+# Gloiocephala culmicola Singer SPECIES
 
 #### Status
 ACCEPTED

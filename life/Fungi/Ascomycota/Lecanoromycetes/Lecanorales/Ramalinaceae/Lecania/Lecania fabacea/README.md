@@ -1,5 +1,4 @@
-Lecania fabacea (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Lecania fabacea (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

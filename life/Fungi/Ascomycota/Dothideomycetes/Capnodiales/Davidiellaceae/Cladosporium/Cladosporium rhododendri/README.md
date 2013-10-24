@@ -1,5 +1,4 @@
-Cladosporium rhododendri K. Schub. SPECIES
-=======
+# Cladosporium rhododendri K. Schub. SPECIES
 
 #### Status
 ACCEPTED

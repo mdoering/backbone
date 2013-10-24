@@ -1,5 +1,4 @@
-Korfia J. Reid & Cain GENUS
-=======
+# Korfia J. Reid & Cain GENUS
 
 #### Status
 ACCEPTED

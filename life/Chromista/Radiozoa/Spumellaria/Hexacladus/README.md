@@ -1,5 +1,4 @@
-Hexacladus Vinassa de Regny, 1900 GENUS
-=======
+# Hexacladus Vinassa de Regny, 1900 GENUS
 
 #### Status
 ACCEPTED

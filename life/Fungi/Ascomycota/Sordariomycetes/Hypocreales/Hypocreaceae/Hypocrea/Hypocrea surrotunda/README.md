@@ -1,5 +1,4 @@
-Hypocrea surrotunda P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea surrotunda P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium tylophorae Hansf. SPECIES
-=======
+# Helminthosporium tylophorae Hansf. SPECIES
 
 #### Status
 ACCEPTED

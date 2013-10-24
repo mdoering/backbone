@@ -1,5 +1,4 @@
-Mycobacterium pinnipedii Cousins et al., 2003 SPECIES
-=======
+# Mycobacterium pinnipedii Cousins et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera umbilici Kom. SPECIES
-=======
+# Microsphaera umbilici Kom. SPECIES
 
 #### Status
 ACCEPTED

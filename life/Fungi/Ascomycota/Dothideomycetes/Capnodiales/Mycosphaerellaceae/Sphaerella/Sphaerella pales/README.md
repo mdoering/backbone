@@ -1,5 +1,4 @@
-Sphaerella pales Sacc. SPECIES
-=======
+# Sphaerella pales Sacc. SPECIES
 
 #### Status
 ACCEPTED

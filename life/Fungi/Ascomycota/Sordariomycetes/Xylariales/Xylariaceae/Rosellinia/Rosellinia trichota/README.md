@@ -1,5 +1,4 @@
-Rosellinia trichota (Cooke & Ellis) Ellis & Everh. SPECIES
-=======
+# Rosellinia trichota (Cooke & Ellis) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

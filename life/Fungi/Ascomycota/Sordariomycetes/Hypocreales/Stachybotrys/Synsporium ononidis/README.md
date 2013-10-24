@@ -1,5 +1,4 @@
-Synsporium ononidis Unamuno SPECIES
-=======
+# Synsporium ononidis Unamuno SPECIES
 
 #### Status
 ACCEPTED

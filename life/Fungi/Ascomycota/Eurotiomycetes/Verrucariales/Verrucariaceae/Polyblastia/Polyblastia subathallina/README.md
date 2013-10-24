@@ -1,5 +1,4 @@
-Polyblastia subathallina Hav. SPECIES
-=======
+# Polyblastia subathallina Hav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma crassipes Long & S. Ahmad SPECIES
-=======
+# Tulostoma crassipes Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

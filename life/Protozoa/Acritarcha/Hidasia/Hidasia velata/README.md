@@ -1,5 +1,4 @@
-Hidasia velata Nagy, 1969 SPECIES
-=======
+# Hidasia velata Nagy, 1969 SPECIES
 
 #### Status
 ACCEPTED

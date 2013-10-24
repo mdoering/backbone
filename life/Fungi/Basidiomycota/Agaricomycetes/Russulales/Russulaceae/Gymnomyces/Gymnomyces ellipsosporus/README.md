@@ -1,14 +1,13 @@
-Martellia ellipsospora (Zeller) Singer & A.H. Sm., 1961 SPECIES
-=======
+# Gymnomyces ellipsosporus (Zeller) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Torrey bot. Club 21(3): 30 (1961)
+Mycotaxon 81: 199 (2002)
 
 #### Original name
 Hydnangium ellipsosporum Zeller, 1939

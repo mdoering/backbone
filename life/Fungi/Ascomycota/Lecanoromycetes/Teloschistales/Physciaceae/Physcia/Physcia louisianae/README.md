@@ -1,5 +1,4 @@
-Physcia louisianae B. de Lesd. SPECIES
-=======
+# Physcia louisianae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

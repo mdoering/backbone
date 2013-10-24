@@ -1,5 +1,4 @@
-Trichosporon aneurinolyticum Yonez. & Aoki SPECIES
-=======
+# Trichosporon aneurinolyticum Yonez. & Aoki SPECIES
 
 #### Status
 ACCEPTED

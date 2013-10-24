@@ -1,5 +1,4 @@
-Cetraria corniculata Egeling SPECIES
-=======
+# Cetraria corniculata Egeling SPECIES
 
 #### Status
 ACCEPTED

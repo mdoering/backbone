@@ -1,5 +1,4 @@
-Arthonia mirabilis Grube SPECIES
-=======
+# Arthonia mirabilis Grube SPECIES
 
 #### Status
 ACCEPTED

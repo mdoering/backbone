@@ -1,5 +1,4 @@
-Vermicularia spaethiana Allesch. SPECIES
-=======
+# Vermicularia spaethiana Allesch. SPECIES
 
 #### Status
 ACCEPTED

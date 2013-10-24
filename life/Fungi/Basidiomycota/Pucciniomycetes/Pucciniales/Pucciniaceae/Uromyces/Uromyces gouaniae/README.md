@@ -1,5 +1,4 @@
-Uromyces gouaniae F. Kern SPECIES
-=======
+# Uromyces gouaniae F. Kern SPECIES
 
 #### Status
 ACCEPTED

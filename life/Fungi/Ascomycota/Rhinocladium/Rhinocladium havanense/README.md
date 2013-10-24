@@ -1,5 +1,4 @@
-Rhinocladium havanense Mercado & R.F. Castañeda SPECIES
-=======
+# Rhinocladium havanense Mercado & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balansiella orthocladae Henn. SPECIES
-=======
+# Balansiella orthocladae Henn. SPECIES
 
 #### Status
 ACCEPTED

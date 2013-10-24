@@ -1,5 +1,4 @@
-Polysphondylium patagonicum Vadell, Cavender, Romeralo & S.L. Stephenson, 2011 SPECIES
-=======
+# Polysphondylium patagonicum Vadell, Cavender, Romeralo & S.L. Stephenson, 2011 SPECIES
 
 #### Status
 ACCEPTED

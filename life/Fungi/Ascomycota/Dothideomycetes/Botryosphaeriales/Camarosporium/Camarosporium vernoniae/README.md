@@ -1,5 +1,4 @@
-Camarosporium vernoniae S. Ahmad SPECIES
-=======
+# Camarosporium vernoniae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia endoleuca Müll. Arg. SPECIES
-=======
+# Ocellularia endoleuca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

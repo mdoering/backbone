@@ -1,5 +1,4 @@
-Septoria leucadis Sukapure & Thirum. SPECIES
-=======
+# Septoria leucadis Sukapure & Thirum. SPECIES
 
 #### Status
 ACCEPTED

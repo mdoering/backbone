@@ -1,5 +1,4 @@
-Thaxterogaster basipurpureum Bougher SPECIES
-=======
+# Thaxterogaster basipurpureum Bougher SPECIES
 
 #### Status
 ACCEPTED

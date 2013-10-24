@@ -1,8 +1,7 @@
-Oscillaria formosa Bory de Saint-Vincent SPECIES
-=======
+# Phormidium formosum (Bory de Saint-Vincent) Anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

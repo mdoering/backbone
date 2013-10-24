@@ -1,5 +1,4 @@
-Phyllosticta cyclaminella Bubák SPECIES
-=======
+# Phyllosticta cyclaminella Bubák SPECIES
 
 #### Status
 ACCEPTED

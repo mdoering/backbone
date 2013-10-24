@@ -1,5 +1,4 @@
-Uredo macella H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo macella H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

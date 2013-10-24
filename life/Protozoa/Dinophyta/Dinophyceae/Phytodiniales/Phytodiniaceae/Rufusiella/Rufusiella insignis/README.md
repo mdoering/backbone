@@ -1,5 +1,4 @@
-Rufusiella insignis (Hassall) A.R. Loeblich SPECIES
-=======
+# Rufusiella insignis (Hassall) A.R. Loeblich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon tuckermanii (Ravenel ex Mont.) Zahlbr. SPECIES
-=======
+# Dermatocarpon tuckermanii (Ravenel ex Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Craterocolla Brefeld, 1888 GENUS
-=======
+# Craterocolla Brefeld, 1888 GENUS
 
 #### Status
 ACCEPTED

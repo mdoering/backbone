@@ -1,5 +1,4 @@
-Pleurotus subtilis (Berk.) Singer SPECIES
-=======
+# Pleurotus subtilis (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stomiopeltis antarctica (Speg.) Arx SPECIES
-=======
+# Stomiopeltis antarctica (Speg.) Arx SPECIES
 
 #### Status
 ACCEPTED

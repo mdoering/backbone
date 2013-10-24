@@ -1,5 +1,4 @@
-Celothelium dominicanum (Vain.) M. B. Aguirre SPECIES
-=======
+# Celothelium dominicanum (Vain.) M. B. Aguirre SPECIES
 
 #### Status
 ACCEPTED

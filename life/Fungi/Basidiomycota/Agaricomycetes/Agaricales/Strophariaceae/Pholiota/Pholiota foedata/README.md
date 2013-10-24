@@ -1,5 +1,4 @@
-Pholiota foedata (Peck) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota foedata (Peck) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

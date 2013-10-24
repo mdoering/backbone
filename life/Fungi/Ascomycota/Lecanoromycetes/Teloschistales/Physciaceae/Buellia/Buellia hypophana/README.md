@@ -1,5 +1,4 @@
-Buellia hypophana (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia hypophana (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

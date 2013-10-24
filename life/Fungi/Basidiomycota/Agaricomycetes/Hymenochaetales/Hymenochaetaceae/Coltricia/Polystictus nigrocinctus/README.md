@@ -1,5 +1,4 @@
-Polystictus nigrocinctus Berk. SPECIES
-=======
+# Polystictus nigrocinctus Berk. SPECIES
 
 #### Status
 ACCEPTED

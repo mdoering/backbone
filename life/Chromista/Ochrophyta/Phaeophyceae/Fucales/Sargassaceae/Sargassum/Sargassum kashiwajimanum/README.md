@@ -1,5 +1,4 @@
-Sargassum kashiwajimanum Yendo SPECIES
-=======
+# Sargassum kashiwajimanum Yendo SPECIES
 
 #### Status
 ACCEPTED

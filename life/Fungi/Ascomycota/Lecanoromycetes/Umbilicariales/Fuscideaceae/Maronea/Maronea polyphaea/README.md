@@ -1,5 +1,4 @@
-Maronea polyphaea H. Magn. SPECIES
-=======
+# Maronea polyphaea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

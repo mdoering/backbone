@@ -1,5 +1,4 @@
-Dorea longicatena Taras et al., 2002 SPECIES
-=======
+# Dorea longicatena Taras et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridermium weirii Arthur SPECIES
-=======
+# Peridermium weirii Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Latifascia Loeblich & A.R.Loeblich, 1966 GENUS
-=======
+# Latifascia Loeblich & A.R.Loeblich, 1966 GENUS
 
 #### Status
 ACCEPTED

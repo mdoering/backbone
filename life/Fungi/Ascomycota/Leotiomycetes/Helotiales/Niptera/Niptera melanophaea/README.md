@@ -1,5 +1,4 @@
-Niptera melanophaea Rehm, 1891 SPECIES
-=======
+# Niptera melanophaea Rehm, 1891 SPECIES
 
 #### Status
 ACCEPTED

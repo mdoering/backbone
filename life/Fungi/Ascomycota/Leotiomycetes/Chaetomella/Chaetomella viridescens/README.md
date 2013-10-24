@@ -1,5 +1,4 @@
-Chaetomella viridescens Torrend SPECIES
-=======
+# Chaetomella viridescens Torrend SPECIES
 
 #### Status
 ACCEPTED

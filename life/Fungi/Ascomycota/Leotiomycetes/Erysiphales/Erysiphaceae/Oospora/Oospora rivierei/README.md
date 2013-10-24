@@ -1,5 +1,4 @@
-Oospora rivierei (Verdun) Sartory SPECIES
-=======
+# Oospora rivierei (Verdun) Sartory SPECIES
 
 #### Status
 ACCEPTED

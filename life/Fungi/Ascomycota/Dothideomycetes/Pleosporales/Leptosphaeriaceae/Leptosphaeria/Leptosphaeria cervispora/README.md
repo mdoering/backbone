@@ -1,5 +1,4 @@
-Leptosphaeria cervispora (Kalchbr. & Cooke) Sacc. SPECIES
-=======
+# Leptosphaeria cervispora (Kalchbr. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

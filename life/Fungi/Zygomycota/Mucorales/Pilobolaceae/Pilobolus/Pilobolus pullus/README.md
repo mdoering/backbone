@@ -1,5 +1,4 @@
-Pilobolus pullus Massee SPECIES
-=======
+# Pilobolus pullus Massee SPECIES
 
 #### Status
 ACCEPTED

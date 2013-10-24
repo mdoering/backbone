@@ -1,5 +1,4 @@
-Nolanea earlei Murrill SPECIES
-=======
+# Nolanea earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

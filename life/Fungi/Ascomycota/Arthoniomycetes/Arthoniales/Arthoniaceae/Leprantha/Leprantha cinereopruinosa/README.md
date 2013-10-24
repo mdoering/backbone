@@ -1,5 +1,4 @@
-Leprantha cinereopruinosa (A. Massal.) Körb. SPECIES
-=======
+# Leprantha cinereopruinosa (A. Massal.) Körb. SPECIES
 
 #### Status
 ACCEPTED

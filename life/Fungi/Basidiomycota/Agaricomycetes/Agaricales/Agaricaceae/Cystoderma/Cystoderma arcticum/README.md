@@ -1,5 +1,4 @@
-Cystoderma arcticum Harmaja, 1984 SPECIES
-=======
+# Cystoderma arcticum Harmaja, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma nigrovelatum (Ellis & Tracy) Kuntze SPECIES
-=======
+# Dicaeoma nigrovelatum (Ellis & Tracy) Kuntze SPECIES
 
 #### Status
 ACCEPTED

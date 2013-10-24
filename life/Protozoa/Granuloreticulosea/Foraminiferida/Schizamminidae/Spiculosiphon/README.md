@@ -1,5 +1,4 @@
-Spiculosiphon Christiansen, 1964 GENUS
-=======
+# Spiculosiphon Christiansen, 1964 GENUS
 
 #### Status
 ACCEPTED

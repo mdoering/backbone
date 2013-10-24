@@ -1,14 +1,13 @@
-Botryonipha cinnabarina (Mont.) Kuntze, 1891 SPECIES
-=======
+# Tubercularia lateritia (Berk.) Seifert, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 27: 119 (1985)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Penicillium sclerotigenum T. Yamam., 1955 SPECIES
-=======
+# Penicillium sclerotigenum T. Yamam., 1955 SPECIES
 
 #### Status
 ACCEPTED

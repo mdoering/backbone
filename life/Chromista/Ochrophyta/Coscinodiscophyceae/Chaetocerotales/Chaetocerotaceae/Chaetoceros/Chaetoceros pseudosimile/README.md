@@ -1,5 +1,4 @@
-Chaetoceros pseudosimile Cleve-Euler SPECIES
-=======
+# Chaetoceros pseudosimile Cleve-Euler SPECIES
 
 #### Status
 ACCEPTED

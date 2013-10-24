@@ -1,5 +1,4 @@
-Enterobryus enterobrus SPECIES
-=======
+# Enterobryus enterobrus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius hinnuleoarmillatus Reumaux SPECIES
-=======
+# Cortinarius hinnuleoarmillatus Reumaux SPECIES
 
 #### Status
 ACCEPTED

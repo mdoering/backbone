@@ -1,5 +1,4 @@
-Cyphelium ollare Ach. SPECIES
-=======
+# Cyphelium ollare Ach. SPECIES
 
 #### Status
 ACCEPTED

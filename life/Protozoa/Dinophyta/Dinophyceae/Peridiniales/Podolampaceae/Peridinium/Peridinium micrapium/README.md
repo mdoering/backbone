@@ -1,5 +1,4 @@
-Peridinium micrapium Meunier SPECIES
-=======
+# Peridinium micrapium Meunier SPECIES
 
 #### Status
 ACCEPTED

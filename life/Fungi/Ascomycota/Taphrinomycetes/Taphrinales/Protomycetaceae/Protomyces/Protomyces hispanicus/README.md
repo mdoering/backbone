@@ -1,5 +1,4 @@
-Protomyces hispanicus Cif. SPECIES
-=======
+# Protomyces hispanicus Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia guaranitica (Speg.) Guba SPECIES
-=======
+# Pestalotia guaranitica (Speg.) Guba SPECIES
 
 #### Status
 ACCEPTED

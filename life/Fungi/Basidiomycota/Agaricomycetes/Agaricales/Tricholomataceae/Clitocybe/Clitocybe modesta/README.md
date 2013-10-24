@@ -1,5 +1,4 @@
-Clitocybe modesta Kalchbr. SPECIES
-=======
+# Clitocybe modesta Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

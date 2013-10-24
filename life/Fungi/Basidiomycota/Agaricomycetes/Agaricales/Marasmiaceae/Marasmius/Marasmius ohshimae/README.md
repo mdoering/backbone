@@ -1,5 +1,4 @@
-Marasmius ohshimae Hongo & Matsuda SPECIES
-=======
+# Marasmius ohshimae Hongo & Matsuda SPECIES
 
 #### Status
 ACCEPTED

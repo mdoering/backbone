@@ -1,17 +1,16 @@
-Panus strigosus Berk. & M.A. Curtis, 1859 SPECIES
-=======
+# Lentinus levis (Berk. & M.A. Curtis) Murrill, 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 4: 296 (1859)
+N. Amer. Fl. (New York) 9(4): 293 (1915)
 
 #### Original name
-Panus strigosus Berk. & M.A. Curtis, 1859
+Panus levis Berk. & M.A. Curtis, 1853
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lactarius rubrofuscus Britzelm. SPECIES
-=======
+# Lactarius rubrofuscus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

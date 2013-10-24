@@ -1,5 +1,4 @@
-Meliola artocarpi var. artocarpi VARIETY
-=======
+# Meliola artocarpi H.S. Yates SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Philipp. J. Sci. , C, Bot. 12: 362 (1917)
 
 #### Original name
-Meliola artocarpi var. artocarpi
+Meliola artocarpi H.S. Yates
 
 ### Remarks
 null

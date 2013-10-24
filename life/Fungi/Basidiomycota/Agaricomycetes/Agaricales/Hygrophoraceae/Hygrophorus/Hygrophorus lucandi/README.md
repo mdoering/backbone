@@ -1,5 +1,4 @@
-Hygrophorus lucandi Gillet SPECIES
-=======
+# Hygrophorus lucandi Gillet SPECIES
 
 #### Status
 ACCEPTED

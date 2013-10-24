@@ -1,5 +1,4 @@
-Bacidia chrysocolla Olech, Czarnota & Llop SPECIES
-=======
+# Bacidia chrysocolla Olech, Czarnota & Llop SPECIES
 
 #### Status
 ACCEPTED

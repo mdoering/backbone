@@ -1,17 +1,16 @@
-Cercospora blumeaegena S. Narayan, P.N. Singh & G.P. Rao SPECIES
-=======
+# Cercospora blumeigena S. Narayan, P.N. Singh & G.P. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sugarcane Pathology (Enfield), <b>1</b>: Fungal Diseases 62 (1999)
 
 #### Original name
-Cercospora blumeaegena S. Narayan, P.N. Singh & G.P. Rao
+Cercospora blumeigena S. Narayan, P.N. Singh & G.P. Rao
 
 ### Remarks
 null

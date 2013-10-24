@@ -1,5 +1,4 @@
-Phaeodaria ORDER
-=======
+# Phaeodaria ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora anamyloidea Zahlbr. SPECIES
-=======
+# Lecanora anamyloidea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

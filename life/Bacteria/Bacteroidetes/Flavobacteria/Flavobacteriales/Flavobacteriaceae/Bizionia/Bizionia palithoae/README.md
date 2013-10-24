@@ -1,5 +1,4 @@
-Bizionia palithoae Nedashkovskaya, Kim, Shin, Kwak, Bae & Mikhailov, 2006 SPECIES
-=======
+# Bizionia palithoae Nedashkovskaya, Kim, Shin, Kwak, Bae & Mikhailov, 2006 SPECIES
 
 #### Status
 ACCEPTED

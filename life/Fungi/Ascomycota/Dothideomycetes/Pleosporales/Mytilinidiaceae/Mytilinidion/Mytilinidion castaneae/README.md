@@ -1,17 +1,16 @@
-Mytilidion castaneae P. Crouan & H. Crouan SPECIES
-=======
+# Mytilinidion castaneae P. Crouan & H. Crouan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Florule Finistère (Paris) 30 (1867)
 
 #### Original name
-Mytilidion castaneae P. Crouan & H. Crouan
+Mytilinidion castaneae P. Crouan & H. Crouan
 
 ### Remarks
 null

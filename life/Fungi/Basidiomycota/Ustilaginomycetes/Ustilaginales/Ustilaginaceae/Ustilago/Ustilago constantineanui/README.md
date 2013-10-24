@@ -1,5 +1,4 @@
-Ustilago constantineanui (Savul.) Vánky SPECIES
-=======
+# Ustilago constantineanui (Savul.) Vánky SPECIES
 
 #### Status
 ACCEPTED

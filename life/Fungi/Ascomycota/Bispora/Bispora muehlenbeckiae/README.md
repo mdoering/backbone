@@ -1,5 +1,4 @@
-Bispora muehlenbeckiae Chipl. SPECIES
-=======
+# Bispora muehlenbeckiae Chipl. SPECIES
 
 #### Status
 ACCEPTED

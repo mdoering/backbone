@@ -1,5 +1,4 @@
-Lecidea seducta Nyl. SPECIES
-=======
+# Lecidea seducta Nyl. SPECIES
 
 #### Status
 ACCEPTED

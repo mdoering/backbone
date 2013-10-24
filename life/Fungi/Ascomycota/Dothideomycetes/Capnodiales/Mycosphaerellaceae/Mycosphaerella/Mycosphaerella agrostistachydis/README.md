@@ -1,17 +1,16 @@
-Mycosphaerella agrostistachidis Anahosur SPECIES
-=======
+# Mycosphaerella agrostistachydis Anahosur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 24(1-6): 287 (1971)
 
 #### Original name
-Mycosphaerella agrostistachidis Anahosur
+Mycosphaerella agrostistachydis Anahosur
 
 ### Remarks
 null

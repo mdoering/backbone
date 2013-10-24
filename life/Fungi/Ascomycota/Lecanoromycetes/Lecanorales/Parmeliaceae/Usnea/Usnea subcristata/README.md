@@ -1,5 +1,4 @@
-Usnea subcristata C.W. Dodge SPECIES
-=======
+# Usnea subcristata C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus cinereipallens A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus cinereipallens A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

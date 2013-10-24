@@ -1,5 +1,4 @@
-Sphaeria uraniae Mont. SPECIES
-=======
+# Sphaeria uraniae Mont. SPECIES
 
 #### Status
 ACCEPTED

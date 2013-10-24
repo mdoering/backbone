@@ -1,5 +1,4 @@
-Laccaria gibba (Singer) Pázmány SPECIES
-=======
+# Laccaria gibba (Singer) Pázmány SPECIES
 
 #### Status
 ACCEPTED

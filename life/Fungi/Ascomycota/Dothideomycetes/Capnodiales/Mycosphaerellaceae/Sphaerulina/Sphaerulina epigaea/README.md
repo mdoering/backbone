@@ -1,5 +1,4 @@
-Sphaerulina epigaea Henn. SPECIES
-=======
+# Sphaerulina epigaea Henn. SPECIES
 
 #### Status
 ACCEPTED

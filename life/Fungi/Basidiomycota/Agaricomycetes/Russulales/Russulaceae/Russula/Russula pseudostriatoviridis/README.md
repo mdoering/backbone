@@ -1,5 +1,4 @@
-Russula pseudostriatoviridis Buyck SPECIES
-=======
+# Russula pseudostriatoviridis Buyck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria permunda (Cooke) Sacc. SPECIES
-=======
+# Humaria permunda (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

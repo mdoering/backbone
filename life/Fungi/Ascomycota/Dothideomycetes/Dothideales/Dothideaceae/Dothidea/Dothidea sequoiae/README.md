@@ -1,17 +1,16 @@
-Dothidea sequojae Cooke SPECIES
-=======
+# Dothidea sequoiae Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 9(no. 51): 87 (1881)
 
 #### Original name
-Dothidea sequojae Cooke
+Dothidea sequoiae Cooke
 
 ### Remarks
 null

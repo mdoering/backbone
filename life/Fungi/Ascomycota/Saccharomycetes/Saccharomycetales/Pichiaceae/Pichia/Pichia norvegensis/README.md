@@ -1,17 +1,16 @@
-Candida mycoderma var. annulata Dietrichson, 1954 VARIETY
-=======
+# Pichia norvegensis Leask & Yarrow, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sabouraudia 14: 61 (1976)
 
 #### Original name
-null
+Pichia norvegensis Leask & Yarrow, 1976
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gambierdiscus belizeanus M. A. Faust SPECIES
-=======
+# Gambierdiscus belizeanus M. A. Faust SPECIES
 
 #### Status
 ACCEPTED

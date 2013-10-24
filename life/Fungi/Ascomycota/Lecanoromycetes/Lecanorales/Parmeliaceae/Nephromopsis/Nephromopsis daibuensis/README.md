@@ -1,5 +1,4 @@
-Nephromopsis daibuensis (Räsänen) Räsänen SPECIES
-=======
+# Nephromopsis daibuensis (Räsänen) Räsänen SPECIES
 
 #### Status
 ACCEPTED

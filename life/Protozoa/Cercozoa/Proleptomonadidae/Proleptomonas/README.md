@@ -1,5 +1,4 @@
-Proleptomonas Woodcock GENUS
-=======
+# Proleptomonas Woodcock GENUS
 
 #### Status
 ACCEPTED

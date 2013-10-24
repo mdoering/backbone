@@ -1,5 +1,4 @@
-Stigmatomyces hydrochasmatis W. Rossi SPECIES
-=======
+# Stigmatomyces hydrochasmatis W. Rossi SPECIES
 
 #### Status
 ACCEPTED

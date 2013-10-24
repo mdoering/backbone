@@ -1,5 +1,4 @@
-Rhodococcus kroppenstedtii Mayilraj et al., 2006 SPECIES
-=======
+# Rhodococcus kroppenstedtii Mayilraj et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

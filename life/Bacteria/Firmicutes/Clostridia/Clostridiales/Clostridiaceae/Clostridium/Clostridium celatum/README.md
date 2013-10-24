@@ -1,5 +1,4 @@
-Clostridium celatum Hauschild and Holdeman, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium celatum Hauschild and Holdeman, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

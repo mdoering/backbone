@@ -1,5 +1,4 @@
-Chaetocypha junci (P. Crouan & H. Crouan) Kuntze SPECIES
-=======
+# Chaetocypha junci (P. Crouan & H. Crouan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza versatilis Fr. SPECIES
-=======
+# Peziza versatilis Fr. SPECIES
 
 #### Status
 ACCEPTED

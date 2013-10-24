@@ -1,5 +1,4 @@
-Crocysporium album Preuss SPECIES
-=======
+# Crocysporium album Preuss SPECIES
 
 #### Status
 ACCEPTED

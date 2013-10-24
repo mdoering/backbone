@@ -1,5 +1,4 @@
-Astrosporina pusillima Corner & E. Horak SPECIES
-=======
+# Astrosporina pusillima Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

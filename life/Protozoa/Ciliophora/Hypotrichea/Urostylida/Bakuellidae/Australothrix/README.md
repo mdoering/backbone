@@ -1,5 +1,4 @@
-Australothrix Blatterer & Foissner, 1988 GENUS
-=======
+# Australothrix Blatterer & Foissner, 1988 GENUS
 
 #### Status
 ACCEPTED

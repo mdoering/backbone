@@ -1,5 +1,4 @@
-Galera depressa Velen. SPECIES
-=======
+# Galera depressa Velen. SPECIES
 
 #### Status
 ACCEPTED

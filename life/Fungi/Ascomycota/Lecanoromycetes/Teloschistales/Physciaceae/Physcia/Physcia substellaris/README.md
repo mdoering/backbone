@@ -1,5 +1,4 @@
-Physcia substellaris SPECIES
-=======
+# Physcia substellaris SPECIES
 
 #### Status
 ACCEPTED

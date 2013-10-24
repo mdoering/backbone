@@ -1,5 +1,4 @@
-Polyporus satpoorensis Beck SPECIES
-=======
+# Polyporus satpoorensis Beck SPECIES
 
 #### Status
 ACCEPTED

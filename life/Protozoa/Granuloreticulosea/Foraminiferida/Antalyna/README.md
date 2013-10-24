@@ -1,5 +1,4 @@
-Antalyna Farinacci & Koyluoglu, 1985 GENUS
-=======
+# Antalyna Farinacci & Koyluoglu, 1985 GENUS
 
 #### Status
 ACCEPTED

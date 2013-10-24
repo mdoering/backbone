@@ -1,5 +1,4 @@
-Uredo imperatae Magnus SPECIES
-=======
+# Uredo imperatae Magnus SPECIES
 
 #### Status
 ACCEPTED

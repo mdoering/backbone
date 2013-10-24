@@ -1,5 +1,4 @@
-Achroomyces sibiricus Hauerslev SPECIES
-=======
+# Achroomyces sibiricus Hauerslev SPECIES
 
 #### Status
 ACCEPTED

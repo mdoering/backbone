@@ -1,5 +1,4 @@
-Winteria zahlbruckneri Bäumler SPECIES
-=======
+# Winteria zahlbruckneri Bäumler SPECIES
 
 #### Status
 ACCEPTED

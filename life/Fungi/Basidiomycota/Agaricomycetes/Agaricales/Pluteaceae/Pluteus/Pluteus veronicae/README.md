@@ -1,5 +1,4 @@
-Pluteus veronicae G. Stev. SPECIES
-=======
+# Pluteus veronicae G. Stev. SPECIES
 
 #### Status
 ACCEPTED

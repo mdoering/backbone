@@ -1,5 +1,4 @@
-Zygosaccharomyces versicolor Sacch. SPECIES
-=======
+# Zygosaccharomyces versicolor Sacch. SPECIES
 
 #### Status
 ACCEPTED

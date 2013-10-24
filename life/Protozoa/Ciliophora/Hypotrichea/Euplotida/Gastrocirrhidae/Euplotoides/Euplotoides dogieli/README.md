@@ -1,5 +1,4 @@
-Euplotoides dogieli SPECIES
-=======
+# Euplotoides dogieli SPECIES
 
 #### Status
 ACCEPTED

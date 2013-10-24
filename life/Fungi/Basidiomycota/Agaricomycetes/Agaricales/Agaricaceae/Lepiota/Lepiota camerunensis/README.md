@@ -1,5 +1,4 @@
-Lepiota camerunensis Henn. SPECIES
-=======
+# Lepiota camerunensis Henn. SPECIES
 
 #### Status
 ACCEPTED

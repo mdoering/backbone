@@ -1,5 +1,4 @@
-Biatorina theobaldii (Körb.) Hazsl. SPECIES
-=======
+# Biatorina theobaldii (Körb.) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

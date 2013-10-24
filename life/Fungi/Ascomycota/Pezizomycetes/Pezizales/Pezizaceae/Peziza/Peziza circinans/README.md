@@ -1,5 +1,4 @@
-Peziza circinans Lib. SPECIES
-=======
+# Peziza circinans Lib. SPECIES
 
 #### Status
 ACCEPTED

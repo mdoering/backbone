@@ -1,5 +1,4 @@
-Aspicilia maheui B. de Lesd. SPECIES
-=======
+# Aspicilia maheui B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

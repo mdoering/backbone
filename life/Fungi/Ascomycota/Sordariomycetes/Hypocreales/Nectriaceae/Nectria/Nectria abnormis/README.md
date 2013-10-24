@@ -1,5 +1,4 @@
-Nectria abnormis Henn. SPECIES
-=======
+# Nectria abnormis Henn. SPECIES
 
 #### Status
 ACCEPTED

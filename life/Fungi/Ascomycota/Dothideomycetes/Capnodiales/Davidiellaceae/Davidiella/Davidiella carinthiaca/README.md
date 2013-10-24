@@ -1,14 +1,13 @@
-Sphaerella carinthiaca (Jaap) Sacc. & Trotter, 1913 SPECIES
-=======
+# Davidiella carinthiaca (Jaap) Aptroot, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 22: 128 (1913)
+Mycosphaerella and its anamorphs: 2. Conspectus of Mycosphaerella 55 (2006)
 
 #### Original name
 Mycosphaerella carinthiaca Jaap, 1908

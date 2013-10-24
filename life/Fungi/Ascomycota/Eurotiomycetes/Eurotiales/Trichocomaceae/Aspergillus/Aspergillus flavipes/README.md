@@ -1,17 +1,16 @@
-Fennellia flavipes B.J. Wiley & E.G. Simmons, 1973 SPECIES
-=======
+# Aspergillus flavipes (Bainier & R. Sartory) Thom & Church, 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 65(4): 937 (1973)
+Manual of the Aspergilli 179 (1926)
 
 #### Original name
-Fennellia flavipes B.J. Wiley & E.G. Simmons, 1973
+Sterigmatocystis flavipes Bainier & R. Sartory, 1911
 
 ### Remarks
 null

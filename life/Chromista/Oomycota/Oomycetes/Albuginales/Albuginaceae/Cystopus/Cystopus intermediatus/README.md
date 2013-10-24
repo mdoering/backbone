@@ -1,5 +1,4 @@
-Cystopus intermediatus Damle SPECIES
-=======
+# Cystopus intermediatus Damle SPECIES
 
 #### Status
 ACCEPTED

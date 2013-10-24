@@ -1,5 +1,4 @@
-Coniocybe subpallida Nyl. SPECIES
-=======
+# Coniocybe subpallida Nyl. SPECIES
 
 #### Status
 ACCEPTED

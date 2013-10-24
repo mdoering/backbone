@@ -1,14 +1,13 @@
-Simplicillium wallacei H.C. Evans, 2001 SPECIES
-=======
+# Lecanicillium wallacei (H.C. Evans) H.C. Evans & Zare, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 73(1-2): 43 (2001)
+Mycol. Res. 112(7): 816 (2008)
 
 #### Original name
 Simplicillium wallacei H.C. Evans, 2001

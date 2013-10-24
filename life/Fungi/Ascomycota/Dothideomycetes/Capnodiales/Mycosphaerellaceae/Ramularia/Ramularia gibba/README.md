@@ -1,5 +1,4 @@
-Ramularia gibba SPECIES
-=======
+# Ramularia gibba SPECIES
 
 #### Status
 ACCEPTED

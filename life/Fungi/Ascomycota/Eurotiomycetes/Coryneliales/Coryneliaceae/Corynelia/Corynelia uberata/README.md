@@ -1,5 +1,4 @@
-Corynelia uberata Fr., 1818 SPECIES
-=======
+# Corynelia uberata Fr., 1818 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella bicincta Syd. & P. Syd. SPECIES
-=======
+# Anthostomella bicincta Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

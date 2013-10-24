@@ -1,17 +1,16 @@
-Elateraecium divinum Thirum., F. Kern & B.V. Patil, 1966 SPECIES
-=======
+# Hiratsukamyces divinus Thirum., F. Kern & B.V. Patil, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 58(3): 395 (1966)
+Sydowia 27(1-6): 80 (1975)
 
 #### Original name
-Elateraecium divinum Thirum., F. Kern & B.V. Patil, 1966
+Hiratsukamyces divinus Thirum., F. Kern & B.V. Patil, 1975
 
 ### Remarks
 null

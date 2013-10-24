@@ -1,14 +1,13 @@
-Parmelia platytrema Müll. Arg. SPECIES
-=======
+# Menegazzia platytrema (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 70: 60 (1887)
+Ark. Bot. 30A(11): 13 (1942)
 
 #### Original name
 Parmelia platytrema Müll. Arg.

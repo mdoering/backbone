@@ -1,5 +1,4 @@
-Heterodermia spathulifera Moberg & Purvis SPECIES
-=======
+# Heterodermia spathulifera Moberg & Purvis SPECIES
 
 #### Status
 ACCEPTED

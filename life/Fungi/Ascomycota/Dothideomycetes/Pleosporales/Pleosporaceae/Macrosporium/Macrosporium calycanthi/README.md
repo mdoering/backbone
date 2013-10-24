@@ -1,5 +1,4 @@
-Macrosporium calycanthi Cavara SPECIES
-=======
+# Macrosporium calycanthi Cavara SPECIES
 
 #### Status
 ACCEPTED

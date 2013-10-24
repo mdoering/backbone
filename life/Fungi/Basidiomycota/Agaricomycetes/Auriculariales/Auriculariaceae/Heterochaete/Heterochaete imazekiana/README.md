@@ -1,5 +1,4 @@
-Heterochaete imazekiana Kobayasi SPECIES
-=======
+# Heterochaete imazekiana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

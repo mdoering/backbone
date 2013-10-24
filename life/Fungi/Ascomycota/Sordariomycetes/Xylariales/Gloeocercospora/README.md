@@ -1,5 +1,4 @@
-Gloeocercospora D.C. Bain & Edgerton ex Deighton GENUS
-=======
+# Gloeocercospora D.C. Bain & Edgerton ex Deighton GENUS
 
 #### Status
 ACCEPTED

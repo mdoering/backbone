@@ -1,5 +1,4 @@
-Dermatocarpon nodulosum (Kremp.) Zahlbr. SPECIES
-=======
+# Dermatocarpon nodulosum (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

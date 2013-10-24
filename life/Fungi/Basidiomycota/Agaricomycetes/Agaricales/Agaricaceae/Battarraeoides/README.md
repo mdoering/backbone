@@ -1,5 +1,4 @@
-Battarraeoides GENUS
-=======
+# Battarraeoides GENUS
 
 #### Status
 ACCEPTED

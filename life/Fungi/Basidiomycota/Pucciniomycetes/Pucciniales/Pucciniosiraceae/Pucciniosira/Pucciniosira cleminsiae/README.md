@@ -1,5 +1,4 @@
-Pucciniosira cleminsiae Arth.et Cumm. SPECIES
-=======
+# Pucciniosira cleminsiae Arth.et Cumm. SPECIES
 
 #### Status
 ACCEPTED

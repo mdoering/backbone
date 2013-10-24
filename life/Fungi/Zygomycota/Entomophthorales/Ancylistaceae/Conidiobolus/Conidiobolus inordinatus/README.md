@@ -1,5 +1,4 @@
-Conidiobolus inordinatus Drechsler SPECIES
-=======
+# Conidiobolus inordinatus Drechsler SPECIES
 
 #### Status
 ACCEPTED

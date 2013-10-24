@@ -1,5 +1,4 @@
-Himantormia I.M. Lamb GENUS
-=======
+# Himantormia I.M. Lamb GENUS
 
 #### Status
 ACCEPTED

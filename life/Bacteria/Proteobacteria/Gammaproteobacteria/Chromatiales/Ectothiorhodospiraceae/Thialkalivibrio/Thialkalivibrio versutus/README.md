@@ -1,5 +1,4 @@
-Thialkalivibrio versutus SPECIES
-=======
+# Thialkalivibrio versutus SPECIES
 
 #### Status
 ACCEPTED

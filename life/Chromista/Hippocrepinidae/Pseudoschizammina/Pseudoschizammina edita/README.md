@@ -1,5 +1,4 @@
-Pseudoschizammina edita Saidova, 1975 SPECIES
-=======
+# Pseudoschizammina edita Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

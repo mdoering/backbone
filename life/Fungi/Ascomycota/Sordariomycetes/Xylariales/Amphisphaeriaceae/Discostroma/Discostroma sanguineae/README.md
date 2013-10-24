@@ -1,5 +1,4 @@
-Discostroma sanguineae Brockmann SPECIES
-=======
+# Discostroma sanguineae Brockmann SPECIES
 
 #### Status
 ACCEPTED

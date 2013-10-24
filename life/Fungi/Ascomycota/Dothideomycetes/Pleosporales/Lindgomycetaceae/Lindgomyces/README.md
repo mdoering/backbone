@@ -1,5 +1,4 @@
-Lindgomyces GENUS
-=======
+# Lindgomyces GENUS
 
 #### Status
 ACCEPTED

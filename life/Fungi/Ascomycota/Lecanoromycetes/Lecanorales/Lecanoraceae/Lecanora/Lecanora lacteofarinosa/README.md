@@ -1,5 +1,4 @@
-Lecanora lacteofarinosa (Lettau) Motyka SPECIES
-=======
+# Lecanora lacteofarinosa (Lettau) Motyka SPECIES
 
 #### Status
 ACCEPTED

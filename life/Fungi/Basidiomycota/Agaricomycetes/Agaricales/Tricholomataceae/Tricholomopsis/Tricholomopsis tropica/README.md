@@ -1,5 +1,4 @@
-Tricholomopsis tropica Dennis SPECIES
-=======
+# Tricholomopsis tropica Dennis SPECIES
 
 #### Status
 ACCEPTED

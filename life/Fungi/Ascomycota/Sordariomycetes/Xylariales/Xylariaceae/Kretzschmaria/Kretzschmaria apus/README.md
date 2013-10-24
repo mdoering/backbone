@@ -1,5 +1,4 @@
-Kretzschmaria apus Rick SPECIES
-=======
+# Kretzschmaria apus Rick SPECIES
 
 #### Status
 ACCEPTED

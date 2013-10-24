@@ -1,5 +1,4 @@
-Sticta kunthii Hook. f. SPECIES
-=======
+# Sticta kunthii Hook. f. SPECIES
 
 #### Status
 ACCEPTED

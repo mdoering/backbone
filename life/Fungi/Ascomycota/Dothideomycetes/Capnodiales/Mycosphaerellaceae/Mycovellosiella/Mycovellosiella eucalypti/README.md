@@ -1,5 +1,4 @@
-Mycovellosiella eucalypti Crous & Alfenas SPECIES
-=======
+# Mycovellosiella eucalypti Crous & Alfenas SPECIES
 
 #### Status
 ACCEPTED

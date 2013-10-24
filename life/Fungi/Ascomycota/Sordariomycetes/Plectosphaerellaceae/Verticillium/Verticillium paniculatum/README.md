@@ -1,5 +1,4 @@
-Verticillium paniculatum Rostr. SPECIES
-=======
+# Verticillium paniculatum Rostr. SPECIES
 
 #### Status
 ACCEPTED

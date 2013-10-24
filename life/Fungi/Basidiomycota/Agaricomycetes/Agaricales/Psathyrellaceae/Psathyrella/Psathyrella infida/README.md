@@ -1,5 +1,4 @@
-Psathyrella infida Quél. SPECIES
-=======
+# Psathyrella infida Quél. SPECIES
 
 #### Status
 ACCEPTED

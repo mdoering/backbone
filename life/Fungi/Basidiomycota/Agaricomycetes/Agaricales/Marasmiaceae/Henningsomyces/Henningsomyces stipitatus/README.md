@@ -1,5 +1,4 @@
-Henningsomyces stipitatus (Fuckel) Kuntze SPECIES
-=======
+# Henningsomyces stipitatus (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

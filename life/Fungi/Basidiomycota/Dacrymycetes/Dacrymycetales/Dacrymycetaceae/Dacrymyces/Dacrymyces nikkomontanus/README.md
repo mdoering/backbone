@@ -1,5 +1,4 @@
-Dacrymyces nikkomontanus Kobayasi SPECIES
-=======
+# Dacrymyces nikkomontanus Kobayasi SPECIES
 
 #### Status
 ACCEPTED

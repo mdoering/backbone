@@ -1,5 +1,4 @@
-Thalassiosira gerloffii Rivera, 1981 SPECIES
-=======
+# Thalassiosira gerloffii Rivera, 1981 SPECIES
 
 #### Status
 ACCEPTED

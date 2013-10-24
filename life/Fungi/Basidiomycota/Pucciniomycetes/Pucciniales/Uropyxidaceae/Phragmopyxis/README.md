@@ -1,17 +1,16 @@
-Tricella Long GENUS
-=======
+# Phragmopyxis Dietel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 4(5): 282 (1912)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1: 70 (1897)
 
 #### Original name
-Tricella Long
+Phragmopyxis Dietel
 
 ### Remarks
 null

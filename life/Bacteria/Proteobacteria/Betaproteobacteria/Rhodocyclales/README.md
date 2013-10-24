@@ -1,5 +1,4 @@
-Rhodocyclales ORDER
-=======
+# Rhodocyclales ORDER
 
 #### Status
 ACCEPTED

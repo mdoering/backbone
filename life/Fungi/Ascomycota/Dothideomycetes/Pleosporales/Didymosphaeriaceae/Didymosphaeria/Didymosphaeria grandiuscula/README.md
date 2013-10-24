@@ -1,5 +1,4 @@
-Didymosphaeria grandiuscula Anzi SPECIES
-=======
+# Didymosphaeria grandiuscula Anzi SPECIES
 
 #### Status
 ACCEPTED

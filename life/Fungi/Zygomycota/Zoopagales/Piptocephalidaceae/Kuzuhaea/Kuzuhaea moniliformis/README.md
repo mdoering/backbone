@@ -1,5 +1,4 @@
-Kuzuhaea moniliformis R.K. Benj., 1985 SPECIES
-=======
+# Kuzuhaea moniliformis R.K. Benj., 1985 SPECIES
 
 #### Status
 ACCEPTED

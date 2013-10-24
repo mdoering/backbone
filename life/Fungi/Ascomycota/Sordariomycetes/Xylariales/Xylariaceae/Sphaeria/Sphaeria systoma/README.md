@@ -1,5 +1,4 @@
-Sphaeria systoma Fr. SPECIES
-=======
+# Sphaeria systoma Fr. SPECIES
 
 #### Status
 ACCEPTED

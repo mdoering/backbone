@@ -1,5 +1,4 @@
-Paecilomyces pascuus Pitt & A.D. Hocking, 1985 SPECIES
-=======
+# Paecilomyces pascuus Pitt & A.D. Hocking, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entorhipidiidae Madsen, 1931 FAMILY
-=======
+# Entorhipidiidae Madsen, 1931 FAMILY
 
 #### Status
 ACCEPTED

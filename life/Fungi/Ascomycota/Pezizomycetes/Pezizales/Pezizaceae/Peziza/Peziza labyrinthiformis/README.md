@@ -1,5 +1,4 @@
-Peziza labyrinthiformis (Schumach.) SPECIES
-=======
+# Peziza labyrinthiformis (Schumach.) SPECIES
 
 #### Status
 ACCEPTED

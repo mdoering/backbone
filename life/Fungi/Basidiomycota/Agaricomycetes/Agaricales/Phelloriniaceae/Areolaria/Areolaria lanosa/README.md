@@ -1,5 +1,4 @@
-Areolaria lanosa (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Areolaria lanosa (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Papulaspora gansuensis S.Q. He & D.Z. Tang SPECIES
-=======
+# Papulaspora gansuensis S.Q. He & D.Z. Tang SPECIES
 
 #### Status
 ACCEPTED

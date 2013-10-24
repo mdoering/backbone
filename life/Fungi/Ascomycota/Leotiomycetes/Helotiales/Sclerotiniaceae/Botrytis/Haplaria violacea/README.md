@@ -1,5 +1,4 @@
-Haplaria violacea Sousa da Câmara SPECIES
-=======
+# Haplaria violacea Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

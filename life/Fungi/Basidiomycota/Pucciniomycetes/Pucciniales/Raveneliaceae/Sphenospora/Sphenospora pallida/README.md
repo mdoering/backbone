@@ -1,14 +1,13 @@
-Diorchidium pallidum G. Winter, 1887 SPECIES
-=======
+# Sphenospora pallida (G. Winter) Dietel, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 15(no. 75): 86 (1887)
+null
 
 #### Original name
 Diorchidium pallidum G. Winter, 1887

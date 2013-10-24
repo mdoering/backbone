@@ -1,5 +1,4 @@
-Lactarius laricinus Singer SPECIES
-=======
+# Lactarius laricinus Singer SPECIES
 
 #### Status
 ACCEPTED

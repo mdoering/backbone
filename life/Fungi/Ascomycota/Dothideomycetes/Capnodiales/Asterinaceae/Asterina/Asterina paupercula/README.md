@@ -1,5 +1,4 @@
-Asterina paupercula Ellis & Everh. SPECIES
-=======
+# Asterina paupercula Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

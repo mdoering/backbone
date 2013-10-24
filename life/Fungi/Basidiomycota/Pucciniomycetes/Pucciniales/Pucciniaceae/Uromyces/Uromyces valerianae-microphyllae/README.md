@@ -1,5 +1,4 @@
-Uromyces valerianae-microphyllae Berndt, 1998 SPECIES
-=======
+# Uromyces valerianae-microphyllae Berndt, 1998 SPECIES
 
 #### Status
 ACCEPTED

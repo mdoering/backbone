@@ -1,17 +1,16 @@
-Hygrophorus obrusseus f. obrusseus FORM
-=======
+# Hygrocybe citrinovirens (J.E. Lange) Jul. Schäff., 1947 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. dt. bot. Ges. 27: 222 (1947)
 
 #### Original name
-Hygrophorus obrusseus f. obrusseus
+Camarophyllus citrinovirens J.E. Lange, 1923
 
 ### Remarks
 null

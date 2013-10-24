@@ -1,14 +1,13 @@
-Plasmopara curta var. fusca (Peck) Skalický, 1954 VARIETY
-=======
+# Plasmoverna fusca (Peck) Constant., Voglmayr, Fatehi & Thines, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Preslia 26: 128 (1954)
+Taxon 54(3): 819 (2005)
 
 #### Original name
 Protomyces fusca Peck, 1880

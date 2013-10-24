@@ -1,5 +1,4 @@
-Trichasterina goniothalami Hosag. & Goos SPECIES
-=======
+# Trichasterina goniothalami Hosag. & Goos SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces holci Jørst. SPECIES
-=======
+# Uromyces holci Jørst. SPECIES
 
 #### Status
 ACCEPTED

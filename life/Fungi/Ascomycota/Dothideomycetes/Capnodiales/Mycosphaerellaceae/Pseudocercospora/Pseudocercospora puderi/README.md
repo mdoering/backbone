@@ -1,5 +1,4 @@
-Pseudocercospora puderi B.H. Davis ex Deighton SPECIES
-=======
+# Pseudocercospora puderi B.H. Davis ex Deighton SPECIES
 
 #### Status
 ACCEPTED

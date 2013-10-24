@@ -1,5 +1,4 @@
-Reticularia hortensis Bull. SPECIES
-=======
+# Reticularia hortensis Bull. SPECIES
 
 #### Status
 ACCEPTED

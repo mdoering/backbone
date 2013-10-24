@@ -1,5 +1,4 @@
-Lepiota griseosticta Cifuentes & Guzmán SPECIES
-=======
+# Lepiota griseosticta Cifuentes & Guzmán SPECIES
 
 #### Status
 ACCEPTED

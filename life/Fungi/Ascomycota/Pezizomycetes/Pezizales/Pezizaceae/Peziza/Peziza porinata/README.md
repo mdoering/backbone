@@ -1,5 +1,4 @@
-Peziza porinata Cooke SPECIES
-=======
+# Peziza porinata Cooke SPECIES
 
 #### Status
 ACCEPTED

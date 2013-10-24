@@ -1,5 +1,4 @@
-Pseudepistylis paramphora Sun et al., 2009 SPECIES
-=======
+# Pseudepistylis paramphora Sun et al., 2009 SPECIES
 
 #### Status
 ACCEPTED

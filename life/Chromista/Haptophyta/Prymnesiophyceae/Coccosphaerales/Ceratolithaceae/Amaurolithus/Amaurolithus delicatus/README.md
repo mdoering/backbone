@@ -1,5 +1,4 @@
-Amaurolithus delicatus Gartner & Bukry, 1975 SPECIES
-=======
+# Amaurolithus delicatus Gartner & Bukry, 1975 SPECIES
 
 #### Status
 ACCEPTED

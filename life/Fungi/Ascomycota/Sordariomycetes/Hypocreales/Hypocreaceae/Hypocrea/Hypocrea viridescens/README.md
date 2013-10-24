@@ -1,5 +1,4 @@
-Hypocrea viridescens Jaklitsch & Samuels, 2006 SPECIES
-=======
+# Hypocrea viridescens Jaklitsch & Samuels, 2006 SPECIES
 
 #### Status
 ACCEPTED

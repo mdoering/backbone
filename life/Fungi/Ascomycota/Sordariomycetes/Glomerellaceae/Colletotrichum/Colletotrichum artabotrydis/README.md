@@ -1,5 +1,4 @@
-Colletotrichum artabotrydis Sawada SPECIES
-=======
+# Colletotrichum artabotrydis Sawada SPECIES
 
 #### Status
 ACCEPTED

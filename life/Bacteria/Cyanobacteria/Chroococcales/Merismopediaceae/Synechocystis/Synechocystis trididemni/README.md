@@ -1,8 +1,7 @@
-Synechocystis didemni var. rosea Lewin VARIETY
-=======
+# Synechocystis trididemni Lafargue & Duclaux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

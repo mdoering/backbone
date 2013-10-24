@@ -1,5 +1,4 @@
-Caldalkalibacillus thermarum Xue et al., 2006 SPECIES
-=======
+# Caldalkalibacillus thermarum Xue et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

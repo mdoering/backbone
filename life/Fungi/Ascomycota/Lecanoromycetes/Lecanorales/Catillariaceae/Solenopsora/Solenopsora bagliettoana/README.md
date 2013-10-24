@@ -1,5 +1,4 @@
-Solenopsora bagliettoana Tav. SPECIES
-=======
+# Solenopsora bagliettoana Tav. SPECIES
 
 #### Status
 ACCEPTED

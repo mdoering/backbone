@@ -1,5 +1,4 @@
-Ayria appendiculata Fryar & K.D. Hyde, 2004 SPECIES
-=======
+# Ayria appendiculata Fryar & K.D. Hyde, 2004 SPECIES
 
 #### Status
 ACCEPTED

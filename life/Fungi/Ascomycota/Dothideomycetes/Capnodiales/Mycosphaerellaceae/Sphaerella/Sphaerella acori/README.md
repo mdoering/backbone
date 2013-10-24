@@ -1,5 +1,4 @@
-Sphaerella acori (Höhn.) Sacc. SPECIES
-=======
+# Sphaerella acori (Höhn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

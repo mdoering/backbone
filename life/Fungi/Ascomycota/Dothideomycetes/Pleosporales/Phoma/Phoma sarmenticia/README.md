@@ -1,5 +1,4 @@
-Phoma sarmenticia Sacc. SPECIES
-=======
+# Phoma sarmenticia Sacc. SPECIES
 
 #### Status
 ACCEPTED

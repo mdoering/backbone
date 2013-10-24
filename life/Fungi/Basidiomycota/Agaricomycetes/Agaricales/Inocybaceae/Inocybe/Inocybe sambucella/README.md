@@ -1,5 +1,4 @@
-Inocybe sambucella G.F. Atk. SPECIES
-=======
+# Inocybe sambucella G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

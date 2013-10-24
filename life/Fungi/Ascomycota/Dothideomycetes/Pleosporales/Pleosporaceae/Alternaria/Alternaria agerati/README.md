@@ -1,5 +1,4 @@
-Alternaria agerati Sawada ex E.G. Simmons SPECIES
-=======
+# Alternaria agerati Sawada ex E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

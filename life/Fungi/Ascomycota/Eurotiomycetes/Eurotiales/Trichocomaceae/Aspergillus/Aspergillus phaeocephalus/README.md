@@ -1,5 +1,4 @@
-Aspergillus phaeocephalus Durieu & Mont. SPECIES
-=======
+# Aspergillus phaeocephalus Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

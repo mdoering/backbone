@@ -1,5 +1,4 @@
-Usnea pyrenaica Motyka SPECIES
-=======
+# Usnea pyrenaica Motyka SPECIES
 
 #### Status
 ACCEPTED

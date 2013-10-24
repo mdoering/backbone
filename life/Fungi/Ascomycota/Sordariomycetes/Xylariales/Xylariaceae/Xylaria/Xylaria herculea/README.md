@@ -1,5 +1,4 @@
-Xylaria herculea (Miq.) Cooke SPECIES
-=======
+# Xylaria herculea (Miq.) Cooke SPECIES
 
 #### Status
 ACCEPTED

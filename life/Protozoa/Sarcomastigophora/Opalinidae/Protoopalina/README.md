@@ -1,14 +1,13 @@
-Protopalina Doflein, 1929 GENUS
-=======
+# Protoopalina Metcalf, 1918 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Lehrb. Protozoenkunde, 5 (2), 1164.
+J. Washington Acad. Sci. , 8, 428.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Phloeospora symploci Sawada SPECIES
-=======
+# Phloeospora symploci Sawada SPECIES
 
 #### Status
 ACCEPTED

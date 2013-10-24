@@ -1,5 +1,4 @@
-Uromyces trifolii-megalanthi (Dietel & Neger) H.S. Jacks. & Holw. SPECIES
-=======
+# Uromyces trifolii-megalanthi (Dietel & Neger) H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

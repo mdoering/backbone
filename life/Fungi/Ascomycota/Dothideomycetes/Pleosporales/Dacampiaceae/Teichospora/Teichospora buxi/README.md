@@ -1,5 +1,4 @@
-Teichospora buxi Fabre SPECIES
-=======
+# Teichospora buxi Fabre SPECIES
 
 #### Status
 ACCEPTED

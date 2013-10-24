@@ -1,5 +1,4 @@
-Hendersonia mucipara (Sacc.) Kuntze SPECIES
-=======
+# Hendersonia mucipara (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

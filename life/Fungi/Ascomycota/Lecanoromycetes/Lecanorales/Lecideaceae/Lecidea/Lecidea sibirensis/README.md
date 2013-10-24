@@ -1,5 +1,4 @@
-Lecidea sibirensis Willey SPECIES
-=======
+# Lecidea sibirensis Willey SPECIES
 
 #### Status
 ACCEPTED

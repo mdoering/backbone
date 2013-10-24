@@ -1,5 +1,4 @@
-Aranidium T.V. Jankauskas, 1975 GENUS
-=======
+# Aranidium T.V. Jankauskas, 1975 GENUS
 
 #### Status
 ACCEPTED

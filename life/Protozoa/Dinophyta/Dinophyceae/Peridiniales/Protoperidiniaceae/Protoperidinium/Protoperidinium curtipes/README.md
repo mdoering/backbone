@@ -1,5 +1,4 @@
-Protoperidinium curtipes (Jörgensen) Balech SPECIES
-=======
+# Protoperidinium curtipes (Jörgensen) Balech SPECIES
 
 #### Status
 ACCEPTED

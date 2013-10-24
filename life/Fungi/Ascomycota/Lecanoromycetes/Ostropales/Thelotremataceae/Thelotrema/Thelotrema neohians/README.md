@@ -1,5 +1,4 @@
-Thelotrema neohians Patw. & Makhija SPECIES
-=======
+# Thelotrema neohians Patw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

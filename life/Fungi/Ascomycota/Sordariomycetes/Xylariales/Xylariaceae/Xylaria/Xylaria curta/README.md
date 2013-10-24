@@ -1,5 +1,4 @@
-Xylaria curta Fr. SPECIES
-=======
+# Xylaria curta Fr. SPECIES
 
 #### Status
 ACCEPTED

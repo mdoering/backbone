@@ -1,5 +1,4 @@
-Laminaria brongardiana var. palmata Postels & Ruprecht VARIETY
-=======
+# Laminaria brongardiana Postels & Ruprecht SPECIES
 
 #### Status
 ACCEPTED

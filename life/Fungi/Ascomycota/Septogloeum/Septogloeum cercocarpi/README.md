@@ -1,5 +1,4 @@
-Septogloeum cercocarpi Bonar SPECIES
-=======
+# Septogloeum cercocarpi Bonar SPECIES
 
 #### Status
 ACCEPTED

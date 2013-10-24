@@ -1,17 +1,16 @@
-Xanthoparmelia xanthosorediata (Elix) Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia xanthofarinosa Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 357 (1986)
+Mycotaxon 47: 127 (1993)
 
 #### Original name
-Parmelia xanthosorediata Elix
+Xanthoparmelia xanthofarinosa Elix
 
 ### Remarks
 null

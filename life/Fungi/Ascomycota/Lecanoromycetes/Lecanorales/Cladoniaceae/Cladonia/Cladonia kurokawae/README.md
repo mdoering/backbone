@@ -1,5 +1,4 @@
-Cladonia kurokawae Ahti & S. Stenroos SPECIES
-=======
+# Cladonia kurokawae Ahti & S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

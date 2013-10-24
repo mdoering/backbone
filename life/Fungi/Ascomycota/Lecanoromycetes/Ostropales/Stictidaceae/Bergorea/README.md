@@ -1,5 +1,4 @@
-Bergorea GENUS
-=======
+# Bergorea GENUS
 
 #### Status
 ACCEPTED

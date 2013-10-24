@@ -1,5 +1,4 @@
-Ophiobolus montellicus Sacc. SPECIES
-=======
+# Ophiobolus montellicus Sacc. SPECIES
 
 #### Status
 ACCEPTED

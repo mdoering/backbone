@@ -1,5 +1,4 @@
-Omphalia fibuloides Peck SPECIES
-=======
+# Omphalia fibuloides Peck SPECIES
 
 #### Status
 ACCEPTED

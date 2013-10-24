@@ -1,5 +1,4 @@
-Psilocybe mendica E. Horak & Desjardin SPECIES
-=======
+# Psilocybe mendica E. Horak & Desjardin SPECIES
 
 #### Status
 ACCEPTED

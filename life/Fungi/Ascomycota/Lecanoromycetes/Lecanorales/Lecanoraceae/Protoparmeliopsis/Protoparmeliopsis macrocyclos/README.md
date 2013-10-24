@@ -1,5 +1,4 @@
-Protoparmeliopsis macrocyclos (H. Magn.) Moberg & R. Sant. SPECIES
-=======
+# Protoparmeliopsis macrocyclos (H. Magn.) Moberg & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

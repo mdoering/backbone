@@ -1,5 +1,4 @@
-Bionectria mellea (Teng & S.H. Ou) W.Y. Zhuang & X.M. Zhang SPECIES
-=======
+# Bionectria mellea (Teng & S.H. Ou) W.Y. Zhuang & X.M. Zhang SPECIES
 
 #### Status
 ACCEPTED

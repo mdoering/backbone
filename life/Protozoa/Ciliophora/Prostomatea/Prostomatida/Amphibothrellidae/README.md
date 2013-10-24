@@ -1,5 +1,4 @@
-Amphibothrellidae FAMILY
-=======
+# Amphibothrellidae FAMILY
 
 #### Status
 ACCEPTED

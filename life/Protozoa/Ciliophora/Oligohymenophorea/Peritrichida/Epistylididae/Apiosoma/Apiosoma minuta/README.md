@@ -1,5 +1,4 @@
-Apiosoma minuta SPECIES
-=======
+# Apiosoma minuta SPECIES
 
 #### Status
 ACCEPTED

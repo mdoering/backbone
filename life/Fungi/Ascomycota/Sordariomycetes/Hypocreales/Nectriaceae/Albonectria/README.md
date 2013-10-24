@@ -1,5 +1,4 @@
-Albonectria Rossman & Samuels GENUS
-=======
+# Albonectria Rossman & Samuels GENUS
 
 #### Status
 ACCEPTED

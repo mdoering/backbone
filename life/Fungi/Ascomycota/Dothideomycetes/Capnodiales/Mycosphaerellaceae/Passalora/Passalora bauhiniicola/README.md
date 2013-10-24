@@ -1,5 +1,4 @@
-Passalora bauhiniicola U. Braun SPECIES
-=======
+# Passalora bauhiniicola U. Braun SPECIES
 
 #### Status
 ACCEPTED

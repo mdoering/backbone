@@ -1,5 +1,4 @@
-Lecidea woodberryi Filson SPECIES
-=======
+# Lecidea woodberryi Filson SPECIES
 
 #### Status
 ACCEPTED

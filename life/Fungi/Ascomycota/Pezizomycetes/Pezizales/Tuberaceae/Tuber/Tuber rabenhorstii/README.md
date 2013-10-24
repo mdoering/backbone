@@ -1,5 +1,4 @@
-Tuber rabenhorstii Corda SPECIES
-=======
+# Tuber rabenhorstii Corda SPECIES
 
 #### Status
 ACCEPTED

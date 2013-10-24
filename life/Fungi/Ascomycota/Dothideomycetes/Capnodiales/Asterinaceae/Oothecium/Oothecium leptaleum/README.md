@@ -1,5 +1,4 @@
-Oothecium leptaleum Petr. SPECIES
-=======
+# Oothecium leptaleum Petr. SPECIES
 
 #### Status
 ACCEPTED

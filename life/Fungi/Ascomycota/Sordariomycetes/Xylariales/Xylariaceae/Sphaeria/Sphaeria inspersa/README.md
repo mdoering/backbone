@@ -1,5 +1,4 @@
-Sphaeria inspersa Berk. SPECIES
-=======
+# Sphaeria inspersa Berk. SPECIES
 
 #### Status
 ACCEPTED

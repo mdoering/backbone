@@ -1,5 +1,4 @@
-Polyporus bataviensis Holterm. SPECIES
-=======
+# Polyporus bataviensis Holterm. SPECIES
 
 #### Status
 ACCEPTED

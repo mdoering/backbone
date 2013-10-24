@@ -1,14 +1,13 @@
-Entomophthora tipulae Fresen., 1858 SPECIES
-=======
+# Entomophaga tipulae (Fresen.) Humber, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Abh. senckenb. naturforsch. Ges. 2(2): 206 (1858)
+Mycotaxon 34(2): 448 (1989)
 
 #### Original name
 Entomophthora tipulae Fresen., 1858

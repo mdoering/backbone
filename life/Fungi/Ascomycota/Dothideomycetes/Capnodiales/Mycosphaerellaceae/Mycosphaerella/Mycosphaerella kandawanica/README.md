@@ -1,5 +1,4 @@
-Mycosphaerella kandawanica Petr. SPECIES
-=======
+# Mycosphaerella kandawanica Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella fumaginea Catt. SPECIES
-=======
+# Sphaerella fumaginea Catt. SPECIES
 
 #### Status
 ACCEPTED

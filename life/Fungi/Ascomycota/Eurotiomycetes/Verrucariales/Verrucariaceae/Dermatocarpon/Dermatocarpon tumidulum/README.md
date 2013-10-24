@@ -1,5 +1,4 @@
-Dermatocarpon tumidulum I.M. Lamb SPECIES
-=======
+# Dermatocarpon tumidulum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

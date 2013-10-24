@@ -1,5 +1,4 @@
-Fusarium rhizochromatistes Sideris SPECIES
-=======
+# Fusarium rhizochromatistes Sideris SPECIES
 
 #### Status
 ACCEPTED

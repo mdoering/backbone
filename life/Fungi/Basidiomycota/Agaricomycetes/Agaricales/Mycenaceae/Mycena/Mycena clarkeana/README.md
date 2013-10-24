@@ -1,5 +1,4 @@
-Mycena clarkeana Grgur. SPECIES
-=======
+# Mycena clarkeana Grgur. SPECIES
 
 #### Status
 ACCEPTED

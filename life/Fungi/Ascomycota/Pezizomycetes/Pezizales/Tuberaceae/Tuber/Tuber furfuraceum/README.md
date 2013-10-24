@@ -1,5 +1,4 @@
-Tuber furfuraceum H.T. Hu & Y.I. Wang SPECIES
-=======
+# Tuber furfuraceum H.T. Hu & Y.I. Wang SPECIES
 
 #### Status
 ACCEPTED

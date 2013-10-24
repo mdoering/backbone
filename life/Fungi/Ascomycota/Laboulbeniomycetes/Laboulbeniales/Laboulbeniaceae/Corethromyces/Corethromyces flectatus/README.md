@@ -1,5 +1,4 @@
-Corethromyces flectatus Thaxt. SPECIES
-=======
+# Corethromyces flectatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

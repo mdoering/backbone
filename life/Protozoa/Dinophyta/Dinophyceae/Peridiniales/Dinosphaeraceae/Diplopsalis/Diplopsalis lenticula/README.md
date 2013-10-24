@@ -1,5 +1,4 @@
-Diplopsalis lenticula Bergh SPECIES
-=======
+# Diplopsalis lenticula Bergh SPECIES
 
 #### Status
 ACCEPTED

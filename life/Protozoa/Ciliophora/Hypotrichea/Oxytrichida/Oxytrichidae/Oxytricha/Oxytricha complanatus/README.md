@@ -1,5 +1,4 @@
-Oxytricha complanatus Stokes, 1887 SPECIES
-=======
+# Oxytricha complanatus Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

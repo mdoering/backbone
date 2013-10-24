@@ -1,17 +1,16 @@
-Microglaena mawsoni C.W. Dodge SPECIES
-=======
+# Thelenella mawsonii (C.W. Dodge) H. Mayrhofer & P.M. McCarthy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Muelleria 7(3): 337 (1991)
 
 #### Original name
-Microglaena mawsoni C.W. Dodge
+Microglaena mawsonii C.W. Dodge
 
 ### Remarks
 null

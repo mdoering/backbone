@@ -1,5 +1,4 @@
-Phyllosticta polypodiorum Bat. SPECIES
-=======
+# Phyllosticta polypodiorum Bat. SPECIES
 
 #### Status
 ACCEPTED

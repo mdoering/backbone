@@ -1,5 +1,4 @@
-Engizostoma dimorphum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Engizostoma dimorphum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

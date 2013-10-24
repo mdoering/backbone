@@ -1,5 +1,4 @@
-Areosphaeridium diktyoplokus (Klumpp, 1958) Eaton, 1971 SPECIES
-=======
+# Areosphaeridium diktyoplokus (Klumpp, 1958) Eaton, 1971 SPECIES
 
 #### Status
 ACCEPTED

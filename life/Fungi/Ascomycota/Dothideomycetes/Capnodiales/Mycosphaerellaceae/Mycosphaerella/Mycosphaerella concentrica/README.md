@@ -1,14 +1,13 @@
-Gibellina concentrica Racib., 1900 SPECIES
-=======
+# Mycosphaerella concentrica (Racib.) Joanne E. Taylor & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Parasit. Alg. Pilze Java's (Jakarta) 2: 11 (1900)
+in Taylor, Groenewald & Crous, Mycol. Res. 107(6): 657 (2003)
 
 #### Original name
 Gibellina concentrica Racib., 1900

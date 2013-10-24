@@ -1,5 +1,4 @@
-Psilonia rosea Engl. SPECIES
-=======
+# Psilonia rosea Engl. SPECIES
 
 #### Status
 ACCEPTED

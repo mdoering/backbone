@@ -1,5 +1,4 @@
-Lactarius moseri Harmaja SPECIES
-=======
+# Lactarius moseri Harmaja SPECIES
 
 #### Status
 ACCEPTED

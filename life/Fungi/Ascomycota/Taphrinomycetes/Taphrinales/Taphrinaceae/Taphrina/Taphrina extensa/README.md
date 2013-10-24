@@ -1,5 +1,4 @@
-Taphrina extensa (Peck) Sacc. SPECIES
-=======
+# Taphrina extensa (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

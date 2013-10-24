@@ -1,5 +1,4 @@
-Lecanora mougeotioides SPECIES
-=======
+# Lecanora mougeotioides SPECIES
 
 #### Status
 ACCEPTED

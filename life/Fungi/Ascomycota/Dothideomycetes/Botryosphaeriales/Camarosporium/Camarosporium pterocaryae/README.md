@@ -1,17 +1,16 @@
-Camarosporium pterocarya Gucevic SPECIES
-=======
+# Camarosporium pterocaryae Gucevic SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notul. Syst. Sect. Crypt. Inst. Bot. Acad. Sci. U. S. S. R. 13: 256 (1960)
 
 #### Original name
-Camarosporium pterocarya Gucevic
+Camarosporium pterocaryae Gucevic
 
 ### Remarks
 null

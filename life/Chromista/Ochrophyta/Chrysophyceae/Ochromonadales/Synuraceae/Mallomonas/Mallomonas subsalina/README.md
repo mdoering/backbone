@@ -1,5 +1,4 @@
-Mallomonas subsalina Conrad & Kefferath SPECIES
-=======
+# Mallomonas subsalina Conrad & Kefferath SPECIES
 
 #### Status
 ACCEPTED

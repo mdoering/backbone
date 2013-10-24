@@ -1,5 +1,4 @@
-Okibacterium fritillariae Evtushenko et al., 2002 SPECIES
-=======
+# Okibacterium fritillariae Evtushenko et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

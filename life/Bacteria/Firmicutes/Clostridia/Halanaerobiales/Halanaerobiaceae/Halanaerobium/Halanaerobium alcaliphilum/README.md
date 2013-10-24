@@ -1,5 +1,4 @@
-Halanaerobium alcaliphilum Tsai et al., 1995 SPECIES
-=======
+# Halanaerobium alcaliphilum Tsai et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

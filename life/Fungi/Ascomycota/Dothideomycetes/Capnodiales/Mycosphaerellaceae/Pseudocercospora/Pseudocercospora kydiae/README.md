@@ -1,5 +1,4 @@
-Pseudocercospora kydiae A.K. Singh & Kamal SPECIES
-=======
+# Pseudocercospora kydiae A.K. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

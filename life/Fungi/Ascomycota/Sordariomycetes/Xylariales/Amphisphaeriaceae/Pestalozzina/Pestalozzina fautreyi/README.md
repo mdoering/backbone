@@ -1,5 +1,4 @@
-Pestalozzina fautreyi P. Karst. & Roum. SPECIES
-=======
+# Pestalozzina fautreyi P. Karst. & Roum. SPECIES
 
 #### Status
 ACCEPTED

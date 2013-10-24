@@ -1,5 +1,4 @@
-Polyblastia lecanorae H. Olivier SPECIES
-=======
+# Polyblastia lecanorae H. Olivier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocomus delphinus (Hook. f.) Manjula SPECIES
-=======
+# Xerocomus delphinus (Hook. f.) Manjula SPECIES
 
 #### Status
 ACCEPTED

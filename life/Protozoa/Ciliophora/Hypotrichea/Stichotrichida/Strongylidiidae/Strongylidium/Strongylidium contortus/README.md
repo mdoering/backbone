@@ -1,5 +1,4 @@
-Strongylidium contortus (Gelei, 1954) ? SPECIES
-=======
+# Strongylidium contortus (Gelei, 1954) ? SPECIES
 
 #### Status
 ACCEPTED

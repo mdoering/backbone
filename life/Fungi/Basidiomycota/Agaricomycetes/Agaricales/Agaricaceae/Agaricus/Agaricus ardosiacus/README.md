@@ -1,5 +1,4 @@
-Agaricus ardosiacus Bull. SPECIES
-=======
+# Agaricus ardosiacus Bull. SPECIES
 
 #### Status
 ACCEPTED

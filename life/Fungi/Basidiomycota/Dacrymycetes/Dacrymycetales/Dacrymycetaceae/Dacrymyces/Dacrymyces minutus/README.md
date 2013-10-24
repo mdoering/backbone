@@ -1,5 +1,4 @@
-Dacrymyces minutus (L.S. Olive) McNabb SPECIES
-=======
+# Dacrymyces minutus (L.S. Olive) McNabb SPECIES
 
 #### Status
 ACCEPTED

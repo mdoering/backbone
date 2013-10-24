@@ -1,5 +1,4 @@
-Merostictis perpusilla (Rehm) Défago SPECIES
-=======
+# Merostictis perpusilla (Rehm) Défago SPECIES
 
 #### Status
 ACCEPTED

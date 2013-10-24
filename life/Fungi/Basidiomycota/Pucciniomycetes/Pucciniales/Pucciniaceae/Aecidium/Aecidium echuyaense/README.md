@@ -1,17 +1,16 @@
-Aecidium echuyaënse Gjaerum SPECIES
-=======
+# Aecidium echuyaense Gjaerum SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 27: 509 (1986)
 
 #### Original name
-Aecidium echuyaënse Gjaerum
+Aecidium echuyaense Gjaerum
 
 ### Remarks
 null

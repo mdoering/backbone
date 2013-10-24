@@ -1,5 +1,4 @@
-Lecanora configurata Nyl. SPECIES
-=======
+# Lecanora configurata Nyl. SPECIES
 
 #### Status
 ACCEPTED

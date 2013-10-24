@@ -1,5 +1,4 @@
-Diplodia yuccae Speg. SPECIES
-=======
+# Diplodia yuccae Speg. SPECIES
 
 #### Status
 ACCEPTED

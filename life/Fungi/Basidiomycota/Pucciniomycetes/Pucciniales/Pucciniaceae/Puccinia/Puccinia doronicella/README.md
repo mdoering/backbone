@@ -1,5 +1,4 @@
-Puccinia doronicella P. Syd. & Syd. SPECIES
-=======
+# Puccinia doronicella P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

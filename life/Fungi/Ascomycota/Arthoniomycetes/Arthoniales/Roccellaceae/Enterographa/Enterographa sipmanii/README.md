@@ -1,5 +1,4 @@
-Enterographa sipmanii Sparrius SPECIES
-=======
+# Enterographa sipmanii Sparrius SPECIES
 
 #### Status
 ACCEPTED

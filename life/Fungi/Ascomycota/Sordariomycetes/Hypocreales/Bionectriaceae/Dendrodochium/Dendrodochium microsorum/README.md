@@ -1,5 +1,4 @@
-Dendrodochium microsorum f. microsorum FORM
-=======
+# Dendrodochium microsorum Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 2(no. 7): 298 (1881)
 
 #### Original name
-Dendrodochium microsorum f. microsorum
+Dendrodochium microsorum Sacc.
 
 ### Remarks
 null

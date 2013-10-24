@@ -1,5 +1,4 @@
-Blastopirellula Schlesner et al., 2004 GENUS
-=======
+# Blastopirellula Schlesner et al., 2004 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe atkinsonii Watling SPECIES
-=======
+# Conocybe atkinsonii Watling SPECIES
 
 #### Status
 ACCEPTED

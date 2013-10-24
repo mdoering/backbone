@@ -1,17 +1,16 @@
-Staurothele elegans (Wallr.) Zwackh SPECIES
-=======
+# Staurothele frustulenta Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Fauna Flora fenn. 49(2): 93 (1921)
 
 #### Original name
-null
+Staurothele frustulenta Vain.
 
 ### Remarks
 null

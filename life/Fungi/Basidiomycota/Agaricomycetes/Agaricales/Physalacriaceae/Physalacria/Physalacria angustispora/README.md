@@ -1,5 +1,4 @@
-Physalacria angustispora Desjardin & Hemmes, 2001 SPECIES
-=======
+# Physalacria angustispora Desjardin & Hemmes, 2001 SPECIES
 
 #### Status
 ACCEPTED

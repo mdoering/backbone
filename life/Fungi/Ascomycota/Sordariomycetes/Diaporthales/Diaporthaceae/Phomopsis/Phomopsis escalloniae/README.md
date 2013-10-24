@@ -1,5 +1,4 @@
-Phomopsis escalloniae Grove SPECIES
-=======
+# Phomopsis escalloniae Grove SPECIES
 
 #### Status
 ACCEPTED

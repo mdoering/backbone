@@ -1,5 +1,4 @@
-Coprinus quinaultensis Bogart SPECIES
-=======
+# Coprinus quinaultensis Bogart SPECIES
 
 #### Status
 ACCEPTED

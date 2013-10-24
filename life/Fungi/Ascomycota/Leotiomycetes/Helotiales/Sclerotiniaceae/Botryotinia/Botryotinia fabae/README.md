@@ -1,5 +1,4 @@
-Botryotinia fabae J.Y. Lu & T.H. Wu, 1991 SPECIES
-=======
+# Botryotinia fabae J.Y. Lu & T.H. Wu, 1991 SPECIES
 
 #### Status
 ACCEPTED

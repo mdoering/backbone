@@ -1,5 +1,4 @@
-Bojamyces transfuga L.G. Valle & Santam., 2004 SPECIES
-=======
+# Bojamyces transfuga L.G. Valle & Santam., 2004 SPECIES
 
 #### Status
 ACCEPTED

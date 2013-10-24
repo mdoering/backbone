@@ -1,5 +1,4 @@
-Cyathus gracilis H.J. Brodie SPECIES
-=======
+# Cyathus gracilis H.J. Brodie SPECIES
 
 #### Status
 ACCEPTED

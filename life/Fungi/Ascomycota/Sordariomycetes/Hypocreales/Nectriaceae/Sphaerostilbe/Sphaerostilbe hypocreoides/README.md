@@ -1,5 +1,4 @@
-Sphaerostilbe hypocreoides Kalchbr. & Cooke SPECIES
-=======
+# Sphaerostilbe hypocreoides Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria salsolae Nasyrov SPECIES
-=======
+# Trematosphaeria salsolae Nasyrov SPECIES
 
 #### Status
 ACCEPTED

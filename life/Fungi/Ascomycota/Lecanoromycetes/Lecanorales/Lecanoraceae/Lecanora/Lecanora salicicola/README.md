@@ -1,17 +1,16 @@
-Lecanora subfuscata var. rhododendri Poelt VARIETY
-=======
+# Lecanora salicicola H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Porosty (Lichenes). <b>3</b> (Lublin), Rodzina <i>Lecanoraceae</i>. <i>Lecanora</i> 412 (1996)
 
 #### Original name
-null
+Lecanora salicicola H. Magn.
 
 ### Remarks
 null

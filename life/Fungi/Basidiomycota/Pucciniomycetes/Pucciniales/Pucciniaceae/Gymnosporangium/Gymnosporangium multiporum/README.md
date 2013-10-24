@@ -1,5 +1,4 @@
-Gymnosporangium multiporum F. Kern, 1909 SPECIES
-=======
+# Gymnosporangium multiporum F. Kern, 1909 SPECIES
 
 #### Status
 ACCEPTED

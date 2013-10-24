@@ -1,5 +1,4 @@
-Pyrenodesmia xochitepecensis B. de Lesd. SPECIES
-=======
+# Pyrenodesmia xochitepecensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria micula var. micula Flot. VARIETY
-=======
+# Verrucaria micula Flot. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria micula var. micula Flot.
+Verrucaria micula Flot.
 
 ### Remarks
 null

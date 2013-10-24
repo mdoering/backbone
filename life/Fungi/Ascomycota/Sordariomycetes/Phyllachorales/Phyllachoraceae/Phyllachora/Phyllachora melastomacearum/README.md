@@ -1,5 +1,4 @@
-Phyllachora melastomacearum Racib., 1915 SPECIES
-=======
+# Phyllachora melastomacearum Racib., 1915 SPECIES
 
 #### Status
 ACCEPTED

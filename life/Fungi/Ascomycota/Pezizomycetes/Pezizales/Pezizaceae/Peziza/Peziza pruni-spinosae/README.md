@@ -1,5 +1,4 @@
-Peziza pruni-spinosae Lib. SPECIES
-=======
+# Peziza pruni-spinosae Lib. SPECIES
 
 #### Status
 ACCEPTED

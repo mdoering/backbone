@@ -1,5 +1,4 @@
-Hyaloscypha sulphurea Velen. SPECIES
-=======
+# Hyaloscypha sulphurea Velen. SPECIES
 
 #### Status
 ACCEPTED

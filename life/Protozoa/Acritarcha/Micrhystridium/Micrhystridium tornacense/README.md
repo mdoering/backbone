@@ -1,5 +1,4 @@
-Micrhystridium tornacense Stockmans & Willière, 1960 SPECIES
-=======
+# Micrhystridium tornacense Stockmans & Willière, 1960 SPECIES
 
 #### Status
 ACCEPTED

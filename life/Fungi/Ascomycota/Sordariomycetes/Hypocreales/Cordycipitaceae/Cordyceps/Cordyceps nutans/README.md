@@ -1,14 +1,13 @@
-Cordyceps bicephala subsp. nutans (Pat.) Moreau SUBSPECIES
-=======
+# Cordyceps nutans Pat., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 3(2): 127 (1887)
 
 #### Original name
 Cordyceps nutans Pat., 1887

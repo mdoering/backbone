@@ -1,5 +1,4 @@
-Hysterium rotundum Bernh. SPECIES
-=======
+# Hysterium rotundum Bernh. SPECIES
 
 #### Status
 ACCEPTED

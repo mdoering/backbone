@@ -1,5 +1,4 @@
-Stylonychia octonistylus Dumas, 1937 SPECIES
-=======
+# Stylonychia octonistylus Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

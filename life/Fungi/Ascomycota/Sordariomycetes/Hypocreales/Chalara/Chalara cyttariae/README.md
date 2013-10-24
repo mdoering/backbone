@@ -1,5 +1,4 @@
-Chalara cyttariae E. Bommer & M. Rousseau SPECIES
-=======
+# Chalara cyttariae E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phaeochora neowashingtoniae (Shear) Theiss. & Syd., 1915 SPECIES
-=======
+# Phaeochoropsis neowashingtoniae (Shear) K.D. Hyde & P.F. Cannon, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 405 (1915)
+Mycol. Pap. 175: 33 (1999)
 
 #### Original name
 Sphaerodothis neowashingtoniae Shear, 1909

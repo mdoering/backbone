@@ -1,17 +1,16 @@
-Cortinarius collinitus var. collinitus (Pers.) Fr. VARIETY
-=======
+# Cortinarius collinitus (Pers.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Epicr. syst. mycol. (Upsaliae) 274 (1838)
 
 #### Original name
-Cortinarius collinitus var. collinitus (Pers.) Fr.
+Agaricus collinitus Pers., 1801
 
 ### Remarks
 null

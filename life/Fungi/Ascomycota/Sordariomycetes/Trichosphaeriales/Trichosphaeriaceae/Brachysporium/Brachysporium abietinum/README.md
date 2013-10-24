@@ -1,5 +1,4 @@
-Brachysporium abietinum Hol.-Jech. SPECIES
-=======
+# Brachysporium abietinum Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

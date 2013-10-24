@@ -1,5 +1,4 @@
-Bulbocatenospora complanata R.F. Castañeda, Iturr. & Decock, 2000 SPECIES
-=======
+# Bulbocatenospora complanata R.F. Castañeda, Iturr. & Decock, 2000 SPECIES
 
 #### Status
 ACCEPTED

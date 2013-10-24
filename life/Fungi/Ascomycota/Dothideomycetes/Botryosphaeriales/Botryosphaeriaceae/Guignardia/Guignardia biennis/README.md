@@ -1,5 +1,4 @@
-Guignardia biennis (Dearn.) Sacc. SPECIES
-=======
+# Guignardia biennis (Dearn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

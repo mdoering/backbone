@@ -1,5 +1,4 @@
-Mycohypallage margaretae Marinc., Gryzenh. & M.J. Wingf., 2010 SPECIES
-=======
+# Mycohypallage margaretae Marinc., Gryzenh. & M.J. Wingf., 2010 SPECIES
 
 #### Status
 ACCEPTED

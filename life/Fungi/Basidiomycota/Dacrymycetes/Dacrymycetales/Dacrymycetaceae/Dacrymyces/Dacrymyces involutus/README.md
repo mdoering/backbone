@@ -1,5 +1,4 @@
-Dacrymyces involutus Schwein. SPECIES
-=======
+# Dacrymyces involutus Schwein. SPECIES
 
 #### Status
 ACCEPTED

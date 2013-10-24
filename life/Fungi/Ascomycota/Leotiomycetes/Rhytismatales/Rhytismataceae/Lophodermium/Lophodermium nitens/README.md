@@ -1,14 +1,13 @@
-Lophodermina nitens (Darker) Tehon, 1935 SPECIES
-=======
+# Lophodermium nitens Darker, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 13(4): 102 (1935)
+Contr. Arnold Arbor. 1: 74 (1932)
 
 #### Original name
 Lophodermium nitens Darker, 1932

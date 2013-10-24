@@ -1,5 +1,4 @@
-Tenacibaculum discolor Pineiro-Vidal, Riaza & Santos, 2008 SPECIES
-=======
+# Tenacibaculum discolor Pineiro-Vidal, Riaza & Santos, 2008 SPECIES
 
 #### Status
 ACCEPTED

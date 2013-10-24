@@ -1,5 +1,4 @@
-Parmelia subcetrarioides Abbayes SPECIES
-=======
+# Parmelia subcetrarioides Abbayes SPECIES
 
 #### Status
 ACCEPTED

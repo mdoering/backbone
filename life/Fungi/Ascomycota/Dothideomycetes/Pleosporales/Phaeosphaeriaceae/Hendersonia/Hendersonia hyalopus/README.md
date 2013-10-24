@@ -1,5 +1,4 @@
-Hendersonia hyalopus Berk. & M.A. Curtis SPECIES
-=======
+# Hendersonia hyalopus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

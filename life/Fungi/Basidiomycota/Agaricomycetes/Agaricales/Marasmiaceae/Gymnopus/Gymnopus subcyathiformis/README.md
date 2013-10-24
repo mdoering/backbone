@@ -1,5 +1,4 @@
-Gymnopus subcyathiformis (Murrill) Desjardin, Halling & Hemmes SPECIES
-=======
+# Gymnopus subcyathiformis (Murrill) Desjardin, Halling & Hemmes SPECIES
 
 #### Status
 ACCEPTED

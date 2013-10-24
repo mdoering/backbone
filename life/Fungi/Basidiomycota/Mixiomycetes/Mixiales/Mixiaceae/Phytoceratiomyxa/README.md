@@ -1,5 +1,4 @@
-Phytoceratiomyxa GENUS
-=======
+# Phytoceratiomyxa GENUS
 
 #### Status
 ACCEPTED

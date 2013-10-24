@@ -1,5 +1,4 @@
-Phomopsis thymi Sandu SPECIES
-=======
+# Phomopsis thymi Sandu SPECIES
 
 #### Status
 ACCEPTED

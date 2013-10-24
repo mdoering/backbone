@@ -1,5 +1,4 @@
-Hymenochaete legeri Parmasto SPECIES
-=======
+# Hymenochaete legeri Parmasto SPECIES
 
 #### Status
 ACCEPTED

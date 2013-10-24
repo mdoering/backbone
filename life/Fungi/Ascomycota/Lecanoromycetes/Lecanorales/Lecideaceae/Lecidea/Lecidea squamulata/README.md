@@ -1,5 +1,4 @@
-Lecidea squamulata Nyl. SPECIES
-=======
+# Lecidea squamulata Nyl. SPECIES
 
 #### Status
 ACCEPTED

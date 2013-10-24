@@ -1,5 +1,4 @@
-Hincksia prolifera (V. Krishnamurthy & Baluswami) P.C. Silva SPECIES
-=======
+# Hincksia prolifera (V. Krishnamurthy & Baluswami) P.C. Silva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zygostephus Haeckel, 1881 GENUS
-=======
+# Zygostephus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

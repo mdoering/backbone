@@ -1,5 +1,4 @@
-Group GENUS
-=======
+# Group GENUS
 
 #### Status
 ACCEPTED

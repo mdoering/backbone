@@ -1,5 +1,4 @@
-Colletotrichum actinidiae Togashi & Unuma {?} SPECIES
-=======
+# Colletotrichum actinidiae Togashi & Unuma {?} SPECIES
 
 #### Status
 ACCEPTED

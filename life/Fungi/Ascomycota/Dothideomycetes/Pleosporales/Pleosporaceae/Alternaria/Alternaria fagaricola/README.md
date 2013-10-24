@@ -1,5 +1,4 @@
-Alternaria fagaricola (Speg.) P. Joly SPECIES
-=======
+# Alternaria fagaricola (Speg.) P. Joly SPECIES
 
 #### Status
 ACCEPTED

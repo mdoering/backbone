@@ -1,5 +1,4 @@
-Chloridium matsushimae W. Gams & Hol.-Jech. SPECIES
-=======
+# Chloridium matsushimae W. Gams & Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

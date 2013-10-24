@@ -1,8 +1,7 @@
-Uroleptopsis multiseta Dragesco, 1970 SPECIES
-=======
+# Kahliella microstoma Dragesco & Dragesco-Kernéis, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

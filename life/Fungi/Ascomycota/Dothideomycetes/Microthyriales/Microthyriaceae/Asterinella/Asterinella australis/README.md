@@ -1,5 +1,4 @@
-Asterinella australis Speg. SPECIES
-=======
+# Asterinella australis Speg. SPECIES
 
 #### Status
 ACCEPTED

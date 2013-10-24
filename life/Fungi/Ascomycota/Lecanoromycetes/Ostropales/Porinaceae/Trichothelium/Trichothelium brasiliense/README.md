@@ -1,5 +1,4 @@
-Trichothelium brasiliense J. L. Bezerra & L. Xavier SPECIES
-=======
+# Trichothelium brasiliense J. L. Bezerra & L. Xavier SPECIES
 
 #### Status
 ACCEPTED

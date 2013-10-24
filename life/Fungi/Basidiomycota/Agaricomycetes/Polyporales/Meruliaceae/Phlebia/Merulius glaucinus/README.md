@@ -1,5 +1,4 @@
-Merulius glaucinus Bourdot & Galzin SPECIES
-=======
+# Merulius glaucinus Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

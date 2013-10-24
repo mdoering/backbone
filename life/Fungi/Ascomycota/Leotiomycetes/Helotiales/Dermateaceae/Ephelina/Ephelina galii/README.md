@@ -1,5 +1,4 @@
-Ephelina galii (Lasch) Sacc. SPECIES
-=======
+# Ephelina galii (Lasch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

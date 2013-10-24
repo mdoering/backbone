@@ -1,5 +1,4 @@
-Hydrocybe sciophylla (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe sciophylla (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

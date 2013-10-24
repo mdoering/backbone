@@ -1,5 +1,4 @@
-Pestalosphaeria austroamericana Nag Raj & DiCosmo SPECIES
-=======
+# Pestalosphaeria austroamericana Nag Raj & DiCosmo SPECIES
 
 #### Status
 ACCEPTED

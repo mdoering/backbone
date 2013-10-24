@@ -1,14 +1,13 @@
-Rhodophyllus arachnoides (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Rhodophyllus arachnoideus (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 7: 96 (1973)
 
 #### Original name
 Marasmius arachnoideus Berk. & M.A. Curtis

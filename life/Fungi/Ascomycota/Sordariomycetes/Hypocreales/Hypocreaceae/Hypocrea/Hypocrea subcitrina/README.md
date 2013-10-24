@@ -1,5 +1,4 @@
-Hypocrea subcitrina Kalchbr. & Cooke SPECIES
-=======
+# Hypocrea subcitrina Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

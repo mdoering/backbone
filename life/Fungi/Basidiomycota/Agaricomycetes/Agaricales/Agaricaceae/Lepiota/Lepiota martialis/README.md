@@ -1,5 +1,4 @@
-Lepiota martialis (Cooke & Massee) Sacc. SPECIES
-=======
+# Lepiota martialis (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

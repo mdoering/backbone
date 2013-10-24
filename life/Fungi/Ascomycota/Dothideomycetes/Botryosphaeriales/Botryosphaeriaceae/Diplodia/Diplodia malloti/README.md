@@ -1,5 +1,4 @@
-Diplodia malloti S. Ahmad & Arshad SPECIES
-=======
+# Diplodia malloti S. Ahmad & Arshad SPECIES
 
 #### Status
 ACCEPTED

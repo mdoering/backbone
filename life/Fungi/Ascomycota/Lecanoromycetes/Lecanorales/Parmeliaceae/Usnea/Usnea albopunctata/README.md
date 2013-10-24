@@ -1,5 +1,4 @@
-Usnea albopunctata Nyl. SPECIES
-=======
+# Usnea albopunctata Nyl. SPECIES
 
 #### Status
 ACCEPTED

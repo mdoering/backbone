@@ -1,5 +1,4 @@
-Stagonospora humuli-americani Fairm. SPECIES
-=======
+# Stagonospora humuli-americani Fairm. SPECIES
 
 #### Status
 ACCEPTED

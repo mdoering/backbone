@@ -1,5 +1,4 @@
-Phoma knautiae Tassi SPECIES
-=======
+# Phoma knautiae Tassi SPECIES
 
 #### Status
 ACCEPTED

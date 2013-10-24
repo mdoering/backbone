@@ -1,5 +1,4 @@
-Endophyllum decoloratum (Schwein.) Whetzel & Olive, 1917 SPECIES
-=======
+# Endophyllum decoloratum (Schwein.) Whetzel & Olive, 1917 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia sassafras Tracy & Earle SPECIES
-=======
+# Diplodia sassafras Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

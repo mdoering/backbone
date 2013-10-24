@@ -1,5 +1,4 @@
-Mucophrya Gajevskaia, 1928 GENUS
-=======
+# Mucophrya Gajevskaia, 1928 GENUS
 
 #### Status
 ACCEPTED

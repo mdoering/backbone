@@ -1,5 +1,4 @@
-Lepidoderma alpestroides Mar.Mey. & Poulain, 2002 SPECIES
-=======
+# Lepidoderma alpestroides Mar.Mey. & Poulain, 2002 SPECIES
 
 #### Status
 ACCEPTED

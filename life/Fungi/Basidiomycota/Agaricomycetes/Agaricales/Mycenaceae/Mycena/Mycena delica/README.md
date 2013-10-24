@@ -1,5 +1,4 @@
-Mycena delica Singer SPECIES
-=======
+# Mycena delica Singer SPECIES
 
 #### Status
 ACCEPTED

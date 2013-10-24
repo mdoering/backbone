@@ -1,8 +1,7 @@
-Phyllosticta eryngiicola Bubák SPECIES
-=======
+# Phyllosticta eryngicola Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta eryngiicola Bubák
+Phyllosticta eryngicola Bubák
 
 ### Remarks
 null

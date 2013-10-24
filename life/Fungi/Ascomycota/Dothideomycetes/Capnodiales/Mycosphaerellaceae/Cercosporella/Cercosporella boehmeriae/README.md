@@ -1,5 +1,4 @@
-Cercosporella boehmeriae Sawada SPECIES
-=======
+# Cercosporella boehmeriae Sawada SPECIES
 
 #### Status
 ACCEPTED

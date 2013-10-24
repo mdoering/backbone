@@ -1,5 +1,4 @@
-Sphaeria leiphaema Fr. SPECIES
-=======
+# Sphaeria leiphaema Fr. SPECIES
 
 #### Status
 ACCEPTED

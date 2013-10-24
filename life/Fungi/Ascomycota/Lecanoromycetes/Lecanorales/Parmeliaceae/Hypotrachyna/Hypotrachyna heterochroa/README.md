@@ -1,17 +1,16 @@
-Parmelia quercina var. rugulata (Müll. Arg.) Zahlbr. VARIETY
-=======
+# Hypotrachyna heterochroa (Hale & Kurok.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenes Australasici Exsiccati (Canberra), Fascicle <b>9</b> (nos 201-225) 4: no. 82 (1985)
 
 #### Original name
-null
+Parmelia heterochroa Hale & Kurok.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lachnum canariense Urries SPECIES
-=======
+# Lachnum canariense Urries SPECIES
 
 #### Status
 ACCEPTED

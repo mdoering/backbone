@@ -1,5 +1,4 @@
-Opisthodon Stein, 1859 GENUS
-=======
+# Opisthodon Stein, 1859 GENUS
 
 #### Status
 ACCEPTED

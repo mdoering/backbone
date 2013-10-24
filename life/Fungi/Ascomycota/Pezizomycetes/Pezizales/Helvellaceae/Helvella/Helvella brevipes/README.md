@@ -1,5 +1,4 @@
-Helvella brevipes Gillet SPECIES
-=======
+# Helvella brevipes Gillet SPECIES
 
 #### Status
 ACCEPTED

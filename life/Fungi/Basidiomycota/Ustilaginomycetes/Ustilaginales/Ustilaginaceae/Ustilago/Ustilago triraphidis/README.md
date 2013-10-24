@@ -1,5 +1,4 @@
-Ustilago triraphidis Vánky, 2001 SPECIES
-=======
+# Ustilago triraphidis Vánky, 2001 SPECIES
 
 #### Status
 ACCEPTED

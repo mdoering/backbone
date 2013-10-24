@@ -1,14 +1,13 @@
-Pleurophragmium rousselianum (Mont.) S. Hughes, 1958 SPECIES
-=======
+# Minimelanolocus rousselianus (Mont.) R.F. Castañeda & Heredia, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 36: 798 (1958)
+in Castañeda Ruiz, Heredia, Reyes, Arias & Decock, Cryptog. Mycol. 22(1): 10 (2001)
 
 #### Original name
 Helminthosporium rousselianum Mont., 1839

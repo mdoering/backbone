@@ -1,5 +1,4 @@
-Ceratostoma melanosporioides G. Winter SPECIES
-=======
+# Ceratostoma melanosporioides G. Winter SPECIES
 
 #### Status
 ACCEPTED

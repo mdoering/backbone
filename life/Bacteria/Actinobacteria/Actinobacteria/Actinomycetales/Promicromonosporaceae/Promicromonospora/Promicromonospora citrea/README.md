@@ -1,5 +1,4 @@
-Promicromonospora citrea Krasil'nikov et al., 1961 (Approved Lists, 1980) SPECIES
-=======
+# Promicromonospora citrea Krasil'nikov et al., 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

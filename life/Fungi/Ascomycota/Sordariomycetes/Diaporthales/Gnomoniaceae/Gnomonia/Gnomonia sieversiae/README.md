@@ -1,5 +1,4 @@
-Gnomonia sieversiae M. Monod SPECIES
-=======
+# Gnomonia sieversiae M. Monod SPECIES
 
 #### Status
 ACCEPTED

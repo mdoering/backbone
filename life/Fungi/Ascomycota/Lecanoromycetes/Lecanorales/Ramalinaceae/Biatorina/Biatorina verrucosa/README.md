@@ -1,5 +1,4 @@
-Biatorina verrucosa (A. Massal.) Jatta SPECIES
-=======
+# Biatorina verrucosa (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

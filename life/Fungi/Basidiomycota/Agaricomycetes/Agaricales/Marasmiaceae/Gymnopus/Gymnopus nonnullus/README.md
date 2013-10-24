@@ -1,5 +1,4 @@
-Gymnopus nonnullus var. nonnullus VARIETY
-=======
+# Gymnopus nonnullus (Corner) A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 56(1): 191 (2004)
 
 #### Original name
-Gymnopus nonnullus var. nonnullus
+Marasmius nonnullus Corner
 
 ### Remarks
 null

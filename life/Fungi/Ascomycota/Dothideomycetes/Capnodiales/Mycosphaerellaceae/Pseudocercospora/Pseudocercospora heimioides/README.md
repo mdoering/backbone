@@ -1,5 +1,4 @@
-Pseudocercospora heimioides Crous & M.J. Wingf. SPECIES
-=======
+# Pseudocercospora heimioides Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

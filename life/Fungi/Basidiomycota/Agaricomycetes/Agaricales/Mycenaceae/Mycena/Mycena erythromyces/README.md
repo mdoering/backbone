@@ -1,5 +1,4 @@
-Mycena erythromyces Grgur. & A.A. Holland SPECIES
-=======
+# Mycena erythromyces Grgur. & A.A. Holland SPECIES
 
 #### Status
 ACCEPTED

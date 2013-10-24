@@ -1,5 +1,4 @@
-Scytonema ocellatum var. purpureum Gardner VARIETY
-=======
+# Scytonema ocellatum (Lyngbye) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

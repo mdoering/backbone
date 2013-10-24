@@ -1,5 +1,4 @@
-Russula murinacea R. Heim SPECIES
-=======
+# Russula murinacea R. Heim SPECIES
 
 #### Status
 ACCEPTED

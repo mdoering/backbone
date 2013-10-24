@@ -1,5 +1,4 @@
-Parmotrema crassescens (Stirt.) Hale SPECIES
-=======
+# Parmotrema crassescens (Stirt.) Hale SPECIES
 
 #### Status
 ACCEPTED

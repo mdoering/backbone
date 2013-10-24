@@ -1,5 +1,4 @@
-Pantanelliidae Pessagno, 1977 FAMILY
-=======
+# Pantanelliidae Pessagno, 1977 FAMILY
 
 #### Status
 ACCEPTED

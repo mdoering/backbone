@@ -1,5 +1,4 @@
-Cantharellaceae J. Schröt. FAMILY
-=======
+# Cantharellaceae J. Schröt. FAMILY
 
 #### Status
 ACCEPTED

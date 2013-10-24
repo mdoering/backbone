@@ -1,5 +1,4 @@
-Russula queletiana Schulzer SPECIES
-=======
+# Russula queletiana Schulzer SPECIES
 
 #### Status
 ACCEPTED

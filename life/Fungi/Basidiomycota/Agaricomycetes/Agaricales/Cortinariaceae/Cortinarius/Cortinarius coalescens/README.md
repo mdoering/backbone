@@ -1,5 +1,4 @@
-Cortinarius coalescens Kärcher & Seibt SPECIES
-=======
+# Cortinarius coalescens Kärcher & Seibt SPECIES
 
 #### Status
 ACCEPTED

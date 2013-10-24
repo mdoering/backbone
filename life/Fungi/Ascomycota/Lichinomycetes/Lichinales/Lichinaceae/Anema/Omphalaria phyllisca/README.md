@@ -1,5 +1,4 @@
-Omphalaria phyllisca (Wahlenb.) Tuck. SPECIES
-=======
+# Omphalaria phyllisca (Wahlenb.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

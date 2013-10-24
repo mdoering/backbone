@@ -1,5 +1,4 @@
-Tricholoma chrysophyllum A. Riva, C.E. Hermos. & Jul. Sánchez SPECIES
-=======
+# Tricholoma chrysophyllum A. Riva, C.E. Hermos. & Jul. Sánchez SPECIES
 
 #### Status
 ACCEPTED

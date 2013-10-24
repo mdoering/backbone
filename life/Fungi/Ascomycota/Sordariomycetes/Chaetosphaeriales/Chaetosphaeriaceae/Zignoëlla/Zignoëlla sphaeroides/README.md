@@ -1,5 +1,4 @@
-Zignoëlla sphaeroides (Schaer.) Rehm SPECIES
-=======
+# Zignoëlla sphaeroides (Schaer.) Rehm SPECIES
 
 #### Status
 ACCEPTED

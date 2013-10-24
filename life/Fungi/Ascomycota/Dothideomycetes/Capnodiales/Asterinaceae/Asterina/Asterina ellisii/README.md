@@ -1,5 +1,4 @@
-Asterina ellisii Sacc. & P. Syd. SPECIES
-=======
+# Asterina ellisii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

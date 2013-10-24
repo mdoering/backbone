@@ -1,5 +1,4 @@
-Prunulus elegantulus (Peck) Murrill SPECIES
-=======
+# Prunulus elegantulus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

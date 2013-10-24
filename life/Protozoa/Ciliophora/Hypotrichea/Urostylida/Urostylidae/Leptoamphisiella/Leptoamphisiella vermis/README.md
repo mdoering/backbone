@@ -1,5 +1,4 @@
-Leptoamphisiella vermis (Gruber, 1888) Li, Song, Al-Rasheid, Hu & Al-Quraishy, 2007 SPECIES
-=======
+# Leptoamphisiella vermis (Gruber, 1888) Li, Song, Al-Rasheid, Hu & Al-Quraishy, 2007 SPECIES
 
 #### Status
 ACCEPTED

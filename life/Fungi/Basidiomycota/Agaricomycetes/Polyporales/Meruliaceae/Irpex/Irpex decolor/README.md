@@ -1,5 +1,4 @@
-Irpex decolor (Berk. & Broome) Cooke SPECIES
-=======
+# Irpex decolor (Berk. & Broome) Cooke SPECIES
 
 #### Status
 ACCEPTED

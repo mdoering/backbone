@@ -1,5 +1,4 @@
-Micropuccinia hysteriiformis (Peck) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia hysteriiformis (Peck) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

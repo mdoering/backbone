@@ -1,5 +1,4 @@
-Psilocybe egonii Guzmán & T.J. Baroni SPECIES
-=======
+# Psilocybe egonii Guzmán & T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdonella valdestriata (Brandt) Kofoid & Campbell, 1929 SPECIES
-=======
+# Rhabdonella valdestriata (Brandt) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

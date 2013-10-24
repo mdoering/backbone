@@ -1,5 +1,4 @@
-Favotrichophyton coronatum (Cazalbou) C.W. Dodge SPECIES
-=======
+# Favotrichophyton coronatum (Cazalbou) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Roussoella aequatoriensis K.D. Hyde SPECIES
-=======
+# Roussoella aequatoriensis K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

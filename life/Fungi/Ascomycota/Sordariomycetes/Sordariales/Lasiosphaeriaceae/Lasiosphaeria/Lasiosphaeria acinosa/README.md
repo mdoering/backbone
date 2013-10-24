@@ -1,5 +1,4 @@
-Lasiosphaeria acinosa (Batsch) Sacc. SPECIES
-=======
+# Lasiosphaeria acinosa (Batsch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

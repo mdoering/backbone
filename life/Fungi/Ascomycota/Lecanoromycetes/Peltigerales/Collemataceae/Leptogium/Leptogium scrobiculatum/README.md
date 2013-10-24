@@ -1,5 +1,4 @@
-Leptogium scrobiculatum P. M. Jørg. SPECIES
-=======
+# Leptogium scrobiculatum P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

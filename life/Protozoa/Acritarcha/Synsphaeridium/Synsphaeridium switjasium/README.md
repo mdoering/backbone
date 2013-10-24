@@ -1,5 +1,4 @@
-Synsphaeridium switjasium Kiryanov, 1974 SPECIES
-=======
+# Synsphaeridium switjasium Kiryanov, 1974 SPECIES
 
 #### Status
 ACCEPTED

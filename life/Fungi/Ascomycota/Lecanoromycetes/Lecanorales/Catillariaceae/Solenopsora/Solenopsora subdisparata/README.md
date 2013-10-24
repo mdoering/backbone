@@ -1,5 +1,4 @@
-Solenopsora subdisparata (Nyl.) Samp. SPECIES
-=======
+# Solenopsora subdisparata (Nyl.) Samp. SPECIES
 
 #### Status
 ACCEPTED

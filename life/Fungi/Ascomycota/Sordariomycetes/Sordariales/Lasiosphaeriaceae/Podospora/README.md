@@ -1,17 +1,16 @@
-Andreanszkya Tóth GENUS
-=======
+# Podospora Cesati, 1856 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 20: 173 (1968)
+in Rabenhorst, Herb. myc. , Edn 2 no. 259 (vel 258) (1856)
 
 #### Original name
-Andreanszkya Tóth
+Podospora Cesati, 1856
 
 ### Remarks
 null

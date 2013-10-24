@@ -1,5 +1,4 @@
-Tulostoma meristostoma Long SPECIES
-=======
+# Tulostoma meristostoma Long SPECIES
 
 #### Status
 ACCEPTED

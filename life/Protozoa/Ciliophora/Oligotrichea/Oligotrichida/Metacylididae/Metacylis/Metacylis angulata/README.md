@@ -1,5 +1,4 @@
-Metacylis angulata SPECIES
-=======
+# Metacylis angulata SPECIES
 
 #### Status
 ACCEPTED

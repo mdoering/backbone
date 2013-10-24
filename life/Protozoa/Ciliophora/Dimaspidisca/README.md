@@ -1,5 +1,4 @@
-Dimaspidisca Yankovskij, 1979 GENUS
-=======
+# Dimaspidisca Yankovskij, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerella isidiifera Lücking SPECIES
-=======
+# Dimerella isidiifera Lücking SPECIES
 
 #### Status
 ACCEPTED

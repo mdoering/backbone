@@ -1,5 +1,4 @@
-Graphis sikkimensis Nagarkar & Patw. SPECIES
-=======
+# Graphis sikkimensis Nagarkar & Patw. SPECIES
 
 #### Status
 ACCEPTED

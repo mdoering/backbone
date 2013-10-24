@@ -1,5 +1,4 @@
-Triposporium ledermannii Hansf. SPECIES
-=======
+# Triposporium ledermannii Hansf. SPECIES
 
 #### Status
 ACCEPTED

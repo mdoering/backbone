@@ -1,5 +1,4 @@
-Phomopsis sorghi Morochk. SPECIES
-=======
+# Phomopsis sorghi Morochk. SPECIES
 
 #### Status
 ACCEPTED

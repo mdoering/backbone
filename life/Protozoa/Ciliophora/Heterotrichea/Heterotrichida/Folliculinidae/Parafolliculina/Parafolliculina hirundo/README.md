@@ -1,8 +1,7 @@
-Atriofolliculina hirundo (Kent, 1881) Hadzi, 1951 SPECIES
-=======
+# Parafolliculina hirundo (Kent, 1881) Dons, 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

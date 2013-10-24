@@ -1,5 +1,4 @@
-Stereocaulon subintricans Nyl. SPECIES
-=======
+# Stereocaulon subintricans Nyl. SPECIES
 
 #### Status
 ACCEPTED

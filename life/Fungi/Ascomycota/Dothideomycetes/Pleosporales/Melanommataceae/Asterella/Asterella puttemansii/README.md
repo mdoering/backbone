@@ -1,5 +1,4 @@
-Asterella puttemansii Henn. SPECIES
-=======
+# Asterella puttemansii Henn. SPECIES
 
 #### Status
 ACCEPTED

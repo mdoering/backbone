@@ -1,5 +1,4 @@
-Obertrumia kahli Foissner, 1989 SPECIES
-=======
+# Obertrumia kahli Foissner, 1989 SPECIES
 
 #### Status
 ACCEPTED

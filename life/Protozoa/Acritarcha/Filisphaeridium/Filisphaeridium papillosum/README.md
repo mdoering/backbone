@@ -1,5 +1,4 @@
-Filisphaeridium papillosum (Timofeev, 1959 ex Volkova, 1968) Hu Yunxu, 1986 SPECIES
-=======
+# Filisphaeridium papillosum (Timofeev, 1959 ex Volkova, 1968) Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

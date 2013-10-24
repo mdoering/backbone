@@ -1,5 +1,4 @@
-Agaricus tetrodorus V. Brig. SPECIES
-=======
+# Agaricus tetrodorus V. Brig. SPECIES
 
 #### Status
 ACCEPTED

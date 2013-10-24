@@ -1,5 +1,4 @@
-Dicaeoma arabicola (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma arabicola (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza olivaceolutea Berk. SPECIES
-=======
+# Peziza olivaceolutea Berk. SPECIES
 
 #### Status
 ACCEPTED

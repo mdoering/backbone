@@ -1,5 +1,4 @@
-Sphacelotheca veracruziana Zundel & Dunlap SPECIES
-=======
+# Sphacelotheca veracruziana Zundel & Dunlap SPECIES
 
 #### Status
 ACCEPTED

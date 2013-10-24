@@ -1,5 +1,4 @@
-Asterina examinans Berk. & M.A. Curtis SPECIES
-=======
+# Asterina examinans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

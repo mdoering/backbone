@@ -1,5 +1,4 @@
-Cercospora garryae Harkn. SPECIES
-=======
+# Cercospora garryae Harkn. SPECIES
 
 #### Status
 ACCEPTED

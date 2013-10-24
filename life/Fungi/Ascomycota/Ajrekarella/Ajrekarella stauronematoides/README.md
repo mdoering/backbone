@@ -1,17 +1,16 @@
-Ajrekarella stauronemoides Nag Raj SPECIES
-=======
+# Ajrekarella stauronematoides Nag Raj SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 105 (1993)
 
 #### Original name
-Ajrekarella stauronemoides Nag Raj
+Ajrekarella stauronematoides Nag Raj
 
 ### Remarks
 null

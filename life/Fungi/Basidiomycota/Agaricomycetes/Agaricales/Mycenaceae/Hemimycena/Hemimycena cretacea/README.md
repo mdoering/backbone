@@ -1,5 +1,4 @@
-Hemimycena cretacea Raithelh. SPECIES
-=======
+# Hemimycena cretacea Raithelh. SPECIES
 
 #### Status
 ACCEPTED

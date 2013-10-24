@@ -1,11 +1,10 @@
-Protoperidinium pedunculatum Jørgensen, 1905 SPECIES
-=======
+# Protoperidinium joergensenii (Balech, 1971) Balech, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

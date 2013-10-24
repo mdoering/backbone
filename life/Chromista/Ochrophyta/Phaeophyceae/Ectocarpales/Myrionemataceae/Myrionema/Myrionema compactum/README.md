@@ -1,5 +1,4 @@
-Myrionema compactum Lindauer SPECIES
-=======
+# Myrionema compactum Lindauer SPECIES
 
 #### Status
 ACCEPTED

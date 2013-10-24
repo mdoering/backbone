@@ -1,5 +1,4 @@
-Stropharia battarrae (Fr.) Sacc. SPECIES
-=======
+# Stropharia battarrae (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

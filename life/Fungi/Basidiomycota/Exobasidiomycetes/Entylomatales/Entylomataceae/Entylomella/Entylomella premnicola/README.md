@@ -1,5 +1,4 @@
-Entylomella premnicola U. Braun SPECIES
-=======
+# Entylomella premnicola U. Braun SPECIES
 
 #### Status
 ACCEPTED

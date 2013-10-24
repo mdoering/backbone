@@ -1,5 +1,4 @@
-Hexacontium laevigatum Haeckel, 1887 SPECIES
-=======
+# Hexacontium laevigatum Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

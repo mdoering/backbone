@@ -1,5 +1,4 @@
-Sistotrema occarium (Batsch) Fr. SPECIES
-=======
+# Sistotrema occarium (Batsch) Fr. SPECIES
 
 #### Status
 ACCEPTED

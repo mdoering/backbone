@@ -1,5 +1,4 @@
-Caloplaca spaldingii Zahlbr. SPECIES
-=======
+# Caloplaca spaldingii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

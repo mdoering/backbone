@@ -1,5 +1,4 @@
-Orthosphaeridium ternatum (Burmann, 1970) Eisenack et al., 1976 SPECIES
-=======
+# Orthosphaeridium ternatum (Burmann, 1970) Eisenack et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

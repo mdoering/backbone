@@ -1,5 +1,4 @@
-Calyptotricha chlorelligera (Lepsi, 1957) Foissner, 1987 SPECIES
-=======
+# Calyptotricha chlorelligera (Lepsi, 1957) Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

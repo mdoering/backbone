@@ -1,5 +1,4 @@
-Lachnella ivae (Rehm) Seaver SPECIES
-=======
+# Lachnella ivae (Rehm) Seaver SPECIES
 
 #### Status
 ACCEPTED

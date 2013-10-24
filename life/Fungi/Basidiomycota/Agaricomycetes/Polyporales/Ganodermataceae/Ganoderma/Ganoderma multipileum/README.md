@@ -1,17 +1,16 @@
-Ganoderma multipilea Ding Hou SPECIES
-=======
+# Ganoderma multipileum Ding Hou, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Quarterly Journal of the Taiwan Museum 3: 101 (1950)
 
 #### Original name
-Ganoderma multipilea Ding Hou
+Ganoderma multipileum Ding Hou, 1950
 
 ### Remarks
 null

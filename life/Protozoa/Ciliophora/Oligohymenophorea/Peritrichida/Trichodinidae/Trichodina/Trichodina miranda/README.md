@@ -1,5 +1,4 @@
-Trichodina miranda De Toledo Piza, 1973 SPECIES
-=======
+# Trichodina miranda De Toledo Piza, 1973 SPECIES
 
 #### Status
 ACCEPTED

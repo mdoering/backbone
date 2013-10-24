@@ -1,5 +1,4 @@
-Alternaria capsici-annui Savul. & Sandu, 1936 SPECIES
-=======
+# Alternaria capsici-annui Savul. & Sandu, 1936 SPECIES
 
 #### Status
 ACCEPTED

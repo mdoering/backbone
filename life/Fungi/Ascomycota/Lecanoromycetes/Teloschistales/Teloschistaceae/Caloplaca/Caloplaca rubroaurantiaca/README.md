@@ -1,5 +1,4 @@
-Caloplaca rubroaurantiaca B. de Lesd. SPECIES
-=======
+# Caloplaca rubroaurantiaca B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

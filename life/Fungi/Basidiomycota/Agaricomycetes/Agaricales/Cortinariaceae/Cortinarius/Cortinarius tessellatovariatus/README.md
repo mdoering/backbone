@@ -1,5 +1,4 @@
-Cortinarius tessellatovariatus Rob. Henry SPECIES
-=======
+# Cortinarius tessellatovariatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

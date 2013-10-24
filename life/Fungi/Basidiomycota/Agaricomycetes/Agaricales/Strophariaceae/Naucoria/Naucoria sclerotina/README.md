@@ -1,5 +1,4 @@
-Naucoria sclerotina Velen. SPECIES
-=======
+# Naucoria sclerotina Velen. SPECIES
 
 #### Status
 ACCEPTED

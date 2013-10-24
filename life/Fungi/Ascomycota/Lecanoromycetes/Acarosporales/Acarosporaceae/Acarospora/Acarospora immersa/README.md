@@ -1,5 +1,4 @@
-Acarospora immersa Fink ex J. Hedrick SPECIES
-=======
+# Acarospora immersa Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

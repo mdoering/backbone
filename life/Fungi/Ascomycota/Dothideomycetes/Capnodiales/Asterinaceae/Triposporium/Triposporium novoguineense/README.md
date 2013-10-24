@@ -1,5 +1,4 @@
-Triposporium novoguineense Rifai SPECIES
-=======
+# Triposporium novoguineense Rifai SPECIES
 
 #### Status
 ACCEPTED

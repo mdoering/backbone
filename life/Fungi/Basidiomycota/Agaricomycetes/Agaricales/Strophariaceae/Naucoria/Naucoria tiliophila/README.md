@@ -1,5 +1,4 @@
-Naucoria tiliophila (Peck) Singer SPECIES
-=======
+# Naucoria tiliophila (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea pamparia Nyl. SPECIES
-=======
+# Lecidea pamparia Nyl. SPECIES
 
 #### Status
 ACCEPTED

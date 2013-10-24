@@ -1,5 +1,4 @@
-Pithya fascicularis (Berk. & Broome) Sacc. SPECIES
-=======
+# Pithya fascicularis (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

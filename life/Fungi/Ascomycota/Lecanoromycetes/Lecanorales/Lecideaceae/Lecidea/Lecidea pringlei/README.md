@@ -1,5 +1,4 @@
-Lecidea pringlei Tuck. SPECIES
-=======
+# Lecidea pringlei Tuck. SPECIES
 
 #### Status
 ACCEPTED

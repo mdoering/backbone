@@ -1,5 +1,4 @@
-Sordaria capturae Speg. SPECIES
-=======
+# Sordaria capturae Speg. SPECIES
 
 #### Status
 ACCEPTED

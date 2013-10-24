@@ -1,5 +1,4 @@
-Hypogymnia salsa Goward SPECIES
-=======
+# Hypogymnia salsa Goward SPECIES
 
 #### Status
 ACCEPTED

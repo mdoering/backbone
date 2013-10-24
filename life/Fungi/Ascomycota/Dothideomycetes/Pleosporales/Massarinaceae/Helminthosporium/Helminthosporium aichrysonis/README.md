@@ -1,5 +1,4 @@
-Helminthosporium aichrysonis Jørst. SPECIES
-=======
+# Helminthosporium aichrysonis Jørst. SPECIES
 
 #### Status
 ACCEPTED

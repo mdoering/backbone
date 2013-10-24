@@ -1,5 +1,4 @@
-Septoria streptopodis Peck SPECIES
-=======
+# Septoria streptopodis Peck SPECIES
 
 #### Status
 ACCEPTED

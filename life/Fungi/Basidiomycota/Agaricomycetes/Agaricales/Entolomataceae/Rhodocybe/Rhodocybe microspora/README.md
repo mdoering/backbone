@@ -1,14 +1,13 @@
-Rhodocybe microsporum (Velen.) Noordel. SPECIES
-=======
+# Rhodocybe microspora (Velen.) Noordel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Persoonia 12(1): 45 (1983)
 
 #### Original name
 Entoloma microsporum Velen.

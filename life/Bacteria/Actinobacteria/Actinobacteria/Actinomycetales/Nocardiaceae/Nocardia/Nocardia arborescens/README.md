@@ -1,5 +1,4 @@
-Nocardia arborescens (Edingt. {?} ) Trevis. SPECIES
-=======
+# Nocardia arborescens (Edingt. {?} ) Trevis. SPECIES
 
 #### Status
 ACCEPTED

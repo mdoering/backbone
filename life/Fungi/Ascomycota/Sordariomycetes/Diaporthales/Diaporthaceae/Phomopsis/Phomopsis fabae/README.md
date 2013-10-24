@@ -1,5 +1,4 @@
-Phomopsis fabae Ondrej SPECIES
-=======
+# Phomopsis fabae Ondrej SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa pusio Berk. & M.A. Curtis SPECIES
-=======
+# Valsa pusio Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnophaeum laricis (W.B. Cooke & C.G. Shaw) Bat. & Cif. SPECIES
-=======
+# Capnophaeum laricis (W.B. Cooke & C.G. Shaw) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

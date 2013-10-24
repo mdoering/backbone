@@ -1,5 +1,4 @@
-Ammonia ammoniformis (d'Orbigny, 1846) SPECIES
-=======
+# Ammonia ammoniformis (d'Orbigny, 1846) SPECIES
 
 #### Status
 ACCEPTED

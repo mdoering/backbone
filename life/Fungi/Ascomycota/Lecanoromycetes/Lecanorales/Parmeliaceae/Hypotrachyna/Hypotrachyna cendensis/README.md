@@ -1,5 +1,4 @@
-Hypotrachyna cendensis Hale & López-Figueiras SPECIES
-=======
+# Hypotrachyna cendensis Hale & López-Figueiras SPECIES
 
 #### Status
 ACCEPTED

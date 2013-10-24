@@ -1,5 +1,4 @@
-Cladosporium phyllachorae M.B. Ellis, 1976 SPECIES
-=======
+# Cladosporium phyllachorae M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

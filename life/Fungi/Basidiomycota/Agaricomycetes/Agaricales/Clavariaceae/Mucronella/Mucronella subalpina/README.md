@@ -1,5 +1,4 @@
-Mucronella subalpina K.S. Thind & Khurana, 1974 SPECIES
-=======
+# Mucronella subalpina K.S. Thind & Khurana, 1974 SPECIES
 
 #### Status
 ACCEPTED

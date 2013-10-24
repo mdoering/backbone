@@ -1,5 +1,4 @@
-Ozonium radians Pers. SPECIES
-=======
+# Ozonium radians Pers. SPECIES
 
 #### Status
 ACCEPTED

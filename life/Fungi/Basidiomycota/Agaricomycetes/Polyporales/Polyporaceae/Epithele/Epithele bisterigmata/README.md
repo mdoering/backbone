@@ -1,5 +1,4 @@
-Epithele bisterigmata Boidin, Gilles & Duhem SPECIES
-=======
+# Epithele bisterigmata Boidin, Gilles & Duhem SPECIES
 
 #### Status
 ACCEPTED

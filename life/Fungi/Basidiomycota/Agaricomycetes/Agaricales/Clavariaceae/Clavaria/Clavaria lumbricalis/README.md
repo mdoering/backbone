@@ -1,5 +1,4 @@
-Clavaria lumbricalis Batsch SPECIES
-=======
+# Clavaria lumbricalis Batsch SPECIES
 
 #### Status
 ACCEPTED

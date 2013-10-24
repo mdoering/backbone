@@ -1,5 +1,4 @@
-Pestalotia excelsa (Petr.) Shoemaker & E. Müll. SPECIES
-=======
+# Pestalotia excelsa (Petr.) Shoemaker & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

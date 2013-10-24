@@ -1,5 +1,4 @@
-Cercosporina stenolobiicola Speg. SPECIES
-=======
+# Cercosporina stenolobiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbilicaria murihikuana D. J. Galloway & Sancho SPECIES
-=======
+# Umbilicaria murihikuana D. J. Galloway & Sancho SPECIES
 
 #### Status
 ACCEPTED

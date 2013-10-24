@@ -1,5 +1,4 @@
-Sphaeria haustellata Fr. SPECIES
-=======
+# Sphaeria haustellata Fr. SPECIES
 
 #### Status
 ACCEPTED

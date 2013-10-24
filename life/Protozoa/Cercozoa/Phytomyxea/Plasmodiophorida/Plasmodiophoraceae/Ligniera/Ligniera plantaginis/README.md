@@ -1,14 +1,13 @@
-Anisomyxa plantaginis Nemec, 1913 SPECIES
-=======
+# Ligniera plantaginis (Nemec) Karling, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. Congr. natn. Socs. sav. Paris 105 Sect. Sci. Fasc. 1 Paleobotanique 18: (1913)
+Plasmodiophorales (New York), Edn 2 85 (1968)
 
 #### Original name
 Anisomyxa plantaginis Nemec, 1913

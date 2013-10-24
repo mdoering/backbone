@@ -1,17 +1,16 @@
-Pseudodiplodia Speg. GENUS
-=======
+# Botryodiplodia (Saccardo) Saccardo, 1884 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Anal. Soc. cient. argent. 90: 183 (1920)
+null
 
 #### Original name
-Pseudodiplodia Speg.
+null
 
 ### Remarks
 null

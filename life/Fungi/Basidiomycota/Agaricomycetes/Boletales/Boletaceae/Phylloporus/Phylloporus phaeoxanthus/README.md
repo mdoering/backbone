@@ -1,5 +1,4 @@
-Phylloporus phaeoxanthus Singer & L.D. Gómez SPECIES
-=======
+# Phylloporus phaeoxanthus Singer & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

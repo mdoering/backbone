@@ -1,5 +1,4 @@
-Volvariella subxerophytica Singer SPECIES
-=======
+# Volvariella subxerophytica Singer SPECIES
 
 #### Status
 ACCEPTED

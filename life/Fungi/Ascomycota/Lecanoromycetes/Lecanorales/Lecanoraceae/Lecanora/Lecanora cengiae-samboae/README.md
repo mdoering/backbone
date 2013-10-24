@@ -1,5 +1,4 @@
-Lecanora cengiae-samboae Szatala SPECIES
-=======
+# Lecanora cengiae-samboae Szatala SPECIES
 
 #### Status
 ACCEPTED

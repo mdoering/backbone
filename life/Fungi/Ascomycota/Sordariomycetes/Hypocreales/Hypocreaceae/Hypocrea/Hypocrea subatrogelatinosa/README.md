@@ -1,5 +1,4 @@
-Hypocrea subatrogelatinosa Yoshim. Doi SPECIES
-=======
+# Hypocrea subatrogelatinosa Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

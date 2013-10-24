@@ -1,5 +1,4 @@
-Laurera sundaica (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Laurera sundaica (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

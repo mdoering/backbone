@@ -1,5 +1,4 @@
-Sphaerella phaseolicola (Roberge ex Desm.) Sacc. SPECIES
-=======
+# Sphaerella phaseolicola (Roberge ex Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

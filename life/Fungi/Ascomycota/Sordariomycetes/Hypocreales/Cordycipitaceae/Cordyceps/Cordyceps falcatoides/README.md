@@ -1,5 +1,4 @@
-Cordyceps falcatoides Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps falcatoides Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

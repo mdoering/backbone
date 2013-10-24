@@ -1,5 +1,4 @@
-Endomelanconiopsis endophytica E.I. Rojas & Samuels SPECIES
-=======
+# Endomelanconiopsis endophytica E.I. Rojas & Samuels SPECIES
 
 #### Status
 ACCEPTED

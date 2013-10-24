@@ -1,5 +1,4 @@
-Panhistophyton Lebert GENUS
-=======
+# Panhistophyton Lebert GENUS
 
 #### Status
 ACCEPTED

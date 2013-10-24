@@ -1,5 +1,4 @@
-Cystidiodendron roseum (Rick) Rick SPECIES
-=======
+# Cystidiodendron roseum (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

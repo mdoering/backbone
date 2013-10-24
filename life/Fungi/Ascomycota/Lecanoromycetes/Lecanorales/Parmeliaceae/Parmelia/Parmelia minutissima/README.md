@@ -1,5 +1,4 @@
-Parmelia minutissima (Räsänen) Räsänen SPECIES
-=======
+# Parmelia minutissima (Räsänen) Räsänen SPECIES
 
 #### Status
 ACCEPTED

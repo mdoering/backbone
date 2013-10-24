@@ -1,5 +1,4 @@
-Clostridium populeti Sleat & Mah, 1985 SPECIES
-=======
+# Clostridium populeti Sleat & Mah, 1985 SPECIES
 
 #### Status
 ACCEPTED

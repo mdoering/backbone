@@ -1,5 +1,4 @@
-Usnea subroseola Asahina SPECIES
-=======
+# Usnea subroseola Asahina SPECIES
 
 #### Status
 ACCEPTED

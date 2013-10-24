@@ -1,5 +1,4 @@
-Triphragmium schwarzmanianum Pisareva SPECIES
-=======
+# Triphragmium schwarzmanianum Pisareva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Klebsiella variicola Rosenblueth et al., 2004 SPECIES
-=======
+# Klebsiella variicola Rosenblueth et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

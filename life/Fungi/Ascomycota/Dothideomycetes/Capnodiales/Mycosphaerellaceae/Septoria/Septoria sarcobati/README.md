@@ -1,5 +1,4 @@
-Septoria sarcobati Dearn. & Barthol. SPECIES
-=======
+# Septoria sarcobati Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

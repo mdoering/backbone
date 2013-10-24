@@ -1,5 +1,4 @@
-Russula kauffmaniana (Singer) Singer SPECIES
-=======
+# Russula kauffmaniana (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora pestis-nigra var. pestis-nigra VARIETY
-=======
+# Phyllachora pestis-nigra SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 19: 244 (1885)
+null
 
 #### Original name
-Phyllachora pestis-nigra var. pestis-nigra
+null
 
 ### Remarks
 null

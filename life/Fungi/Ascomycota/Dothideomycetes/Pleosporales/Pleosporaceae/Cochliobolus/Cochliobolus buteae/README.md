@@ -1,5 +1,4 @@
-Cochliobolus buteae S.D. Patil & C. Ramesh SPECIES
-=======
+# Cochliobolus buteae S.D. Patil & C. Ramesh SPECIES
 
 #### Status
 ACCEPTED

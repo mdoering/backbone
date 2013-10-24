@@ -1,5 +1,4 @@
-Dimorphotricha australis Spooner, 1987 SPECIES
-=======
+# Dimorphotricha australis Spooner, 1987 SPECIES
 
 #### Status
 ACCEPTED

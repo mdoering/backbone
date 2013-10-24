@@ -1,14 +1,13 @@
-Oospora pustulans M.N. Owen & Wakef. SPECIES
-=======
+# Polyscytalum pustulans (M.N. Owen & Wakef.) M.B. Ellis, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Owen, Bull. Misc. Inf. , Kew 8: 297 (1919)
+More Dematiaceous Hyphomycetes (Kew) 159 (1976)
 
 #### Original name
 Oospora pustulans M.N. Owen & Wakef.

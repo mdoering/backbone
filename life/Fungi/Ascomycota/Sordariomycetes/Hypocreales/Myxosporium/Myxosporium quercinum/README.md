@@ -1,5 +1,4 @@
-Myxosporium quercinum Lasch SPECIES
-=======
+# Myxosporium quercinum Lasch SPECIES
 
 #### Status
 ACCEPTED

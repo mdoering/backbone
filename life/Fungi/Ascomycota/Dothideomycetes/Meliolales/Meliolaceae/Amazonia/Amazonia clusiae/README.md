@@ -1,5 +1,4 @@
-Amazonia clusiae F. Stevens SPECIES
-=======
+# Amazonia clusiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

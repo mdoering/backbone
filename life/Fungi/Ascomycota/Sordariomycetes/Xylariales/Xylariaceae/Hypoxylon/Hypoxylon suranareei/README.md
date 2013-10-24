@@ -1,5 +1,4 @@
-Hypoxylon suranareei Suwann., Rodtong, Thienh. & Whalley, 2006 SPECIES
-=======
+# Hypoxylon suranareei Suwann., Rodtong, Thienh. & Whalley, 2006 SPECIES
 
 #### Status
 ACCEPTED

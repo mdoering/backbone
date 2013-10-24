@@ -1,5 +1,4 @@
-Neopeckia constricta (Berk. & Broome) Petch SPECIES
-=======
+# Neopeckia constricta (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

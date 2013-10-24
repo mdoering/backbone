@@ -1,5 +1,4 @@
-Euacanthe foveolata (Berk. & M.A. Curtis ex Berk.) Subram. & Sekar SPECIES
-=======
+# Euacanthe foveolata (Berk. & M.A. Curtis ex Berk.) Subram. & Sekar SPECIES
 
 #### Status
 ACCEPTED

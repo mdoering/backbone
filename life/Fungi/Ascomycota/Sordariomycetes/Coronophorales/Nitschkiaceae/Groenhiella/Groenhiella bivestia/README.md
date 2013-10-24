@@ -1,5 +1,4 @@
-Groenhiella bivestia Jørg. Koch, E.B.G. Jones & S.T. Moss, 1983 SPECIES
-=======
+# Groenhiella bivestia Jørg. Koch, E.B.G. Jones & S.T. Moss, 1983 SPECIES
 
 #### Status
 ACCEPTED

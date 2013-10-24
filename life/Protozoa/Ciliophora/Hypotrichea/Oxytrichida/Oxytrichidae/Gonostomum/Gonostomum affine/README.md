@@ -1,8 +1,7 @@
-Stichochaeta affinis Stein SPECIES
-=======
+# Gonostomum affine (Stein, 1859) Sterki, 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

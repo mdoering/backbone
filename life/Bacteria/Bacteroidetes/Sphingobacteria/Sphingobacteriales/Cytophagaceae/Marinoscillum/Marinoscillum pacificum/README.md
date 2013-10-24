@@ -1,5 +1,4 @@
-Marinoscillum pacificum Seo, Kwon, Yang, Lee, Bae, Lee, Kim, 2009 SPECIES
-=======
+# Marinoscillum pacificum Seo, Kwon, Yang, Lee, Bae, Lee, Kim, 2009 SPECIES
 
 #### Status
 ACCEPTED

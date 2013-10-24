@@ -1,5 +1,4 @@
-Cryptomela confluens (Kunze) Sacc. SPECIES
-=======
+# Cryptomela confluens (Kunze) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella vitreola Velen. SPECIES
-=======
+# Pezizella vitreola Velen. SPECIES
 
 #### Status
 ACCEPTED

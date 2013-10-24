@@ -1,5 +1,4 @@
-Trichosporon proteolyticum Negroni & Villafañe SPECIES
-=======
+# Trichosporon proteolyticum Negroni & Villafañe SPECIES
 
 #### Status
 ACCEPTED

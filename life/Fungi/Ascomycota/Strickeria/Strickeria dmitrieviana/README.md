@@ -1,5 +1,4 @@
-Strickeria dmitrieviana Kravtzev SPECIES
-=======
+# Strickeria dmitrieviana Kravtzev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina lobata Syd. & P. Syd. SPECIES
-=======
+# Asterina lobata Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

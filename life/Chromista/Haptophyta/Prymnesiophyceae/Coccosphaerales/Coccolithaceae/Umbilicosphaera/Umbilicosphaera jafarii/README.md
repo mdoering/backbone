@@ -1,5 +1,4 @@
-Umbilicosphaera jafarii Müller, 1974 SPECIES
-=======
+# Umbilicosphaera jafarii Müller, 1974 SPECIES
 
 #### Status
 ACCEPTED

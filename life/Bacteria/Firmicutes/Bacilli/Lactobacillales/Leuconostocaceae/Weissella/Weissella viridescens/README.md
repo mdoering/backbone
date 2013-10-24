@@ -1,5 +1,4 @@
-Weissella viridescens (Niven & Evans, 1957) Collins et al., 1994 SPECIES
-=======
+# Weissella viridescens (Niven & Evans, 1957) Collins et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laminaria yezoensis Miyabe SPECIES
-=======
+# Laminaria yezoensis Miyabe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanographa werneri (Faurel, Ozenda & Schotter) Egea & Torrente SPECIES
-=======
+# Lecanographa werneri (Faurel, Ozenda & Schotter) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

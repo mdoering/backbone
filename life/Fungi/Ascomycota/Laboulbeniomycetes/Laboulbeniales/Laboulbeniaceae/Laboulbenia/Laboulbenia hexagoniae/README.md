@@ -1,5 +1,4 @@
-Laboulbenia hexagoniae Balazuc SPECIES
-=======
+# Laboulbenia hexagoniae Balazuc SPECIES
 
 #### Status
 ACCEPTED

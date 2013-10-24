@@ -1,5 +1,4 @@
-Agaricus fuegianus Speg. SPECIES
-=======
+# Agaricus fuegianus Speg. SPECIES
 
 #### Status
 ACCEPTED

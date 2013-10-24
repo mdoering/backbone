@@ -1,5 +1,4 @@
-Skiadosphaera divergens (Lohmann) Pascher SPECIES
-=======
+# Skiadosphaera divergens (Lohmann) Pascher SPECIES
 
 #### Status
 ACCEPTED

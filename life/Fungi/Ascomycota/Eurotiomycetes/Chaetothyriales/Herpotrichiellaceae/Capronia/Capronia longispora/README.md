@@ -1,5 +1,4 @@
-Capronia longispora (M.E. Barr) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman SPECIES
-=======
+# Capronia longispora (M.E. Barr) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman SPECIES
 
 #### Status
 ACCEPTED

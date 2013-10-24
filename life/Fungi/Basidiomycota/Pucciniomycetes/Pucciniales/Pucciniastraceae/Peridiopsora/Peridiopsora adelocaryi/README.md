@@ -1,5 +1,4 @@
-Peridiopsora adelocaryi Kamat & Sathe, 1969 SPECIES
-=======
+# Peridiopsora adelocaryi Kamat & Sathe, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leptostroma rostrupii Minter, 1980 SPECIES
-=======
+# Lophodermium seditiosum Minter, Staley & Millar, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 58(8): 912 (1980)
+Trans. Br. mycol. Soc. 71(2): 300 (1978)
 
 #### Original name
-Depazea linearis Rostr., 1883
+Lophodermium seditiosum Minter, Staley & Millar, 1978
 
 ### Remarks
 null

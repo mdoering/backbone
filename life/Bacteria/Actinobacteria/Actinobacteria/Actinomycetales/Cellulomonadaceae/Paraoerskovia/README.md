@@ -1,5 +1,4 @@
-Paraoerskovia Khan, Harayam, Tamura, Ando, Takagi & Kazuo, 2009 GENUS
-=======
+# Paraoerskovia Khan, Harayam, Tamura, Ando, Takagi & Kazuo, 2009 GENUS
 
 #### Status
 ACCEPTED

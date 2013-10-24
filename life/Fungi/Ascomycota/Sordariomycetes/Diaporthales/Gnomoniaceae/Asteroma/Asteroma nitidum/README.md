@@ -1,5 +1,4 @@
-Asteroma nitidum Desm. SPECIES
-=======
+# Asteroma nitidum Desm. SPECIES
 
 #### Status
 ACCEPTED

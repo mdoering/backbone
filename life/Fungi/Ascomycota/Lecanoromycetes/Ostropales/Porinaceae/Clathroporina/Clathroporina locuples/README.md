@@ -1,5 +1,4 @@
-Clathroporina locuples (Stizenb.) Zahlbr. SPECIES
-=======
+# Clathroporina locuples (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

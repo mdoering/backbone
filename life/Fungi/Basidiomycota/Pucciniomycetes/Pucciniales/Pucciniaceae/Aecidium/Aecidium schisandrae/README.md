@@ -1,5 +1,4 @@
-Aecidium schisandrae J.Y. Zhuang SPECIES
-=======
+# Aecidium schisandrae J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

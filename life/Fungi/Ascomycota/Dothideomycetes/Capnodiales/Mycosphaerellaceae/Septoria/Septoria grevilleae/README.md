@@ -1,5 +1,4 @@
-Septoria grevilleae Cejp SPECIES
-=======
+# Septoria grevilleae Cejp SPECIES
 
 #### Status
 ACCEPTED

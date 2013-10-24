@@ -1,5 +1,4 @@
-Pholiotina subverrucispora (J. Veselský & Watling) M.M. Moser SPECIES
-=======
+# Pholiotina subverrucispora (J. Veselský & Watling) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

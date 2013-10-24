@@ -1,5 +1,4 @@
-Verrucaria dendritica Grognot SPECIES
-=======
+# Verrucaria dendritica Grognot SPECIES
 
 #### Status
 ACCEPTED

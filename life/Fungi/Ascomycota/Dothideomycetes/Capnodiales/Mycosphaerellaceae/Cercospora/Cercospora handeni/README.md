@@ -1,5 +1,4 @@
-Cercospora handeni Ellis & Everh. SPECIES
-=======
+# Cercospora handeni Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

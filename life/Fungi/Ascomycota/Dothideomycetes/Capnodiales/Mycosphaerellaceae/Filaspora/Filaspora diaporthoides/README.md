@@ -1,14 +1,13 @@
-Filaspora diaporthodes (Sacc.) Kuntze SPECIES
-=======
+# Filaspora diaporthoides (Sacc.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 477 (1898)
 
 #### Original name
 Septoria diaporthoides Sacc.

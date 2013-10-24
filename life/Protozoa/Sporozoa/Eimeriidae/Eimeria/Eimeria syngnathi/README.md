@@ -1,5 +1,4 @@
-Eimeria syngnathi Yakimoff & Gouseff, 1936 SPECIES
-=======
+# Eimeria syngnathi Yakimoff & Gouseff, 1936 SPECIES
 
 #### Status
 ACCEPTED

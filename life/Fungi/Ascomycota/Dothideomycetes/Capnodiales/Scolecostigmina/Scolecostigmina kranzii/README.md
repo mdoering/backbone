@@ -1,5 +1,4 @@
-Scolecostigmina kranzii (M.B. Ellis) U. Braun SPECIES
-=======
+# Scolecostigmina kranzii (M.B. Ellis) U. Braun SPECIES
 
 #### Status
 ACCEPTED

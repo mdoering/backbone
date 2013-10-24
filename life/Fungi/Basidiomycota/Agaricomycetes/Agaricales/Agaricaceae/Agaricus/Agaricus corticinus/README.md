@@ -1,5 +1,4 @@
-Agaricus corticinus Scop. SPECIES
-=======
+# Agaricus corticinus Scop. SPECIES
 
 #### Status
 ACCEPTED

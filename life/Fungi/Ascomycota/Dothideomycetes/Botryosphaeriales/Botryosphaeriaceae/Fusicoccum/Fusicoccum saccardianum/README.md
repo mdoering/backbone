@@ -1,5 +1,4 @@
-Fusicoccum saccardianum Trotter SPECIES
-=======
+# Fusicoccum saccardianum Trotter SPECIES
 
 #### Status
 ACCEPTED

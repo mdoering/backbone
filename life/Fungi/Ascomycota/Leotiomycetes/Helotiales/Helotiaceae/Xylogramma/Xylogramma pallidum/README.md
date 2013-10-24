@@ -1,17 +1,16 @@
-Patinella pallida (Berk.) Sacc., 1889 SPECIES
-=======
+# Xylogramma pallidum Syd., 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 770 (1889)
+Annls mycol. 34: 419 (1936)
 
 #### Original name
-null
+Xylogramma pallidum Syd., 1936
 
 ### Remarks
 null

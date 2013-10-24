@@ -1,5 +1,4 @@
-Redbia pucciniicola Deighton & Piroz., 1972 SPECIES
-=======
+# Redbia pucciniicola Deighton & Piroz., 1972 SPECIES
 
 #### Status
 ACCEPTED

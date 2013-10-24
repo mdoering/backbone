@@ -1,5 +1,4 @@
-Pseudolingulina milletti (Brady, 1884) SPECIES
-=======
+# Pseudolingulina milletti (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

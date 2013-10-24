@@ -1,5 +1,4 @@
-Asterina velutina Berk. & M.A. Curtis SPECIES
-=======
+# Asterina velutina Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichaleurina polytricha Rehm SPECIES
-=======
+# Trichaleurina polytricha Rehm SPECIES
 
 #### Status
 ACCEPTED

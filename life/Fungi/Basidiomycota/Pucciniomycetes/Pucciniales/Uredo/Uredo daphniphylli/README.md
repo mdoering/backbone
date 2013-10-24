@@ -1,5 +1,4 @@
-Uredo daphniphylli Kakish. & Tak. Kobay. SPECIES
-=======
+# Uredo daphniphylli Kakish. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita griseoverrucosa Zhu L. Yang SPECIES
-=======
+# Amanita griseoverrucosa Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

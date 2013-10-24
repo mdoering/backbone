@@ -1,5 +1,4 @@
-Mosigia sporadica (Schaer.) Motyka SPECIES
-=======
+# Mosigia sporadica (Schaer.) Motyka SPECIES
 
 #### Status
 ACCEPTED

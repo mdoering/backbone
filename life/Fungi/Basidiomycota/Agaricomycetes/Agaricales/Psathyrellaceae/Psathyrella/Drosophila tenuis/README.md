@@ -1,5 +1,4 @@
-Drosophila tenuis Murrill SPECIES
-=======
+# Drosophila tenuis Murrill SPECIES
 
 #### Status
 ACCEPTED

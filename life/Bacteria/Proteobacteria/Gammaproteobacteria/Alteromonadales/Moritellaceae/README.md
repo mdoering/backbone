@@ -1,5 +1,4 @@
-Moritellaceae FAMILY
-=======
+# Moritellaceae FAMILY
 
 #### Status
 ACCEPTED

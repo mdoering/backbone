@@ -1,5 +1,4 @@
-Neofuscelia Essl. GENUS
-=======
+# Neofuscelia Essl. GENUS
 
 #### Status
 ACCEPTED

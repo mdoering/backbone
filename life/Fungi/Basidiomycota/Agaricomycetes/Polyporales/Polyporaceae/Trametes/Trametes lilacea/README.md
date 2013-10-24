@@ -1,5 +1,4 @@
-Trametes lilacea Bres. SPECIES
-=======
+# Trametes lilacea Bres. SPECIES
 
 #### Status
 ACCEPTED

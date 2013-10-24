@@ -1,5 +1,4 @@
-Conidiobolus firmipilleus Drechsler, 1953 SPECIES
-=======
+# Conidiobolus firmipilleus Drechsler, 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dryodon subcarnaceum (Fr.) Quél. SPECIES
-=======
+# Dryodon subcarnaceus (Fr.) Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Enchir. fung. (Paris) 193 (1886)
 
 #### Original name
 Hydnum subcarnaceum Fr.

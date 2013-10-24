@@ -1,5 +1,4 @@
-Hypocreopsis solidus (Berk.) Lloyd SPECIES
-=======
+# Hypocreopsis solidus (Berk.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

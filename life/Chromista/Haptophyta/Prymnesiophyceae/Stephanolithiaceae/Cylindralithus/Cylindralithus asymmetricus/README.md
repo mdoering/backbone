@@ -1,5 +1,4 @@
-Cylindralithus asymmetricus SPECIES
-=======
+# Cylindralithus asymmetricus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria fusispora Rossman, 1983 SPECIES
-=======
+# Nectria fusispora Rossman, 1983 SPECIES
 
 #### Status
 ACCEPTED

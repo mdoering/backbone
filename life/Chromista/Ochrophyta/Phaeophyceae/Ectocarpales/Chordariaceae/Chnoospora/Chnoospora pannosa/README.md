@@ -1,5 +1,4 @@
-Chnoospora pannosa J. Agardh SPECIES
-=======
+# Chnoospora pannosa J. Agardh SPECIES
 
 #### Status
 ACCEPTED

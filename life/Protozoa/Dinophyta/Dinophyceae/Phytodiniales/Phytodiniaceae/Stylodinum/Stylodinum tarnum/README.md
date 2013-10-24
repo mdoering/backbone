@@ -1,5 +1,4 @@
-Stylodinum tarnum SPECIES
-=======
+# Stylodinum tarnum SPECIES
 
 #### Status
 ACCEPTED

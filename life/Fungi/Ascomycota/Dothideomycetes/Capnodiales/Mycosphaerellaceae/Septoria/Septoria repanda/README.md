@@ -1,5 +1,4 @@
-Septoria repanda Bubák SPECIES
-=======
+# Septoria repanda Bubák SPECIES
 
 #### Status
 ACCEPTED

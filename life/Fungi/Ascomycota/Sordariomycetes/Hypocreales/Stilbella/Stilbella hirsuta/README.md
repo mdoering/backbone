@@ -1,5 +1,4 @@
-Stilbella hirsuta (Hoffm.) Lindau SPECIES
-=======
+# Stilbella hirsuta (Hoffm.) Lindau SPECIES
 
 #### Status
 ACCEPTED

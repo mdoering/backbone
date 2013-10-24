@@ -1,5 +1,4 @@
-Entyloma espinosae Unamuno SPECIES
-=======
+# Entyloma espinosae Unamuno SPECIES
 
 #### Status
 ACCEPTED

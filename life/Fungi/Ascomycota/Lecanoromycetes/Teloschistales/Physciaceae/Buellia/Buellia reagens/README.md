@@ -1,5 +1,4 @@
-Buellia reagens H. Magn. SPECIES
-=======
+# Buellia reagens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

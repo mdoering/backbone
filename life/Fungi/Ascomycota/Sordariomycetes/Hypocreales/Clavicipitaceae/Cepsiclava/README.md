@@ -1,5 +1,4 @@
-Cepsiclava J. Walker GENUS
-=======
+# Cepsiclava J. Walker GENUS
 
 #### Status
 ACCEPTED

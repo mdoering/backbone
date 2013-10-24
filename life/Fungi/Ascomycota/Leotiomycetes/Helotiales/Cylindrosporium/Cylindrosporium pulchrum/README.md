@@ -1,5 +1,4 @@
-Cylindrosporium pulchrum Speg. SPECIES
-=======
+# Cylindrosporium pulchrum Speg. SPECIES
 
 #### Status
 ACCEPTED

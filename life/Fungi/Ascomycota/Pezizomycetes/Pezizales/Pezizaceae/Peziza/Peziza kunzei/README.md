@@ -1,5 +1,4 @@
-Peziza kunzei Saut. SPECIES
-=======
+# Peziza kunzei Saut. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Filellum gabrielae (Vannucci, 1955) Jankowski, 2007 SPECIES
-=======
+# Lagotia gabrielae Vannucci, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

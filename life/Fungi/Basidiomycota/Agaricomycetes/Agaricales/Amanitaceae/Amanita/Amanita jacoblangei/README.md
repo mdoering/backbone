@@ -1,5 +1,4 @@
-Amanita jacoblangei E.H.L. Krause SPECIES
-=======
+# Amanita jacoblangei E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

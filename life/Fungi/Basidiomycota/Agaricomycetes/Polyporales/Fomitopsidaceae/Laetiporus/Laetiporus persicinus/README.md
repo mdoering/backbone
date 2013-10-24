@@ -1,17 +1,16 @@
-Polyporus subcolossus Beeli, 1922 SPECIES
-=======
+# Laetiporus persicinus (Berk. & M.A. Curtis) Gilb., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin du Jardin Botanique de l'État, Bruxelles 8: 252 (1922)
+Mycotaxon 12(2): 385 (1981)
 
 #### Original name
-Polyporus subcolossus Beeli, 1922
+Polyporus persicinus Berk. & M.A. Curtis, 1872
 
 ### Remarks
 null

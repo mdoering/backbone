@@ -1,5 +1,4 @@
-Boletus malaccensis (Pat. & C.F. Baker) Corner SPECIES
-=======
+# Boletus malaccensis (Pat. & C.F. Baker) Corner SPECIES
 
 #### Status
 ACCEPTED

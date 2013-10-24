@@ -1,14 +1,13 @@
-Speira stipitata Goid., 1935 SPECIES
-=======
+# Ceratosporella stipitata (Goid.) S. Hughes, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Malpighia 34: 38 (1935)
+Trans. Br. mycol. Soc. 35(4): 243 (1952)
 
 #### Original name
 Speira stipitata Goid., 1935

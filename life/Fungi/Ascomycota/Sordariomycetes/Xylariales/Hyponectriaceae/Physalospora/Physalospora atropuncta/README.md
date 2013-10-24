@@ -1,5 +1,4 @@
-Physalospora atropuncta Starbäck SPECIES
-=======
+# Physalospora atropuncta Starbäck SPECIES
 
 #### Status
 ACCEPTED

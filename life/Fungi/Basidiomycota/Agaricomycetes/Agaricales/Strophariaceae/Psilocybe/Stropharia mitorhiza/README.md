@@ -1,5 +1,4 @@
-Stropharia mitorhiza Speg. SPECIES
-=======
+# Stropharia mitorhiza Speg. SPECIES
 
 #### Status
 ACCEPTED

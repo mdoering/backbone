@@ -1,5 +1,4 @@
-Gyroporus earlei Murrill SPECIES
-=======
+# Gyroporus earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

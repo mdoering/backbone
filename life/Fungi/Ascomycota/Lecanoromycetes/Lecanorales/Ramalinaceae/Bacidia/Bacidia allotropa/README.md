@@ -1,5 +1,4 @@
-Bacidia allotropa (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia allotropa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

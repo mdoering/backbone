@@ -1,5 +1,4 @@
-Sphaeria dubia Sowerby SPECIES
-=======
+# Sphaeria dubia Sowerby SPECIES
 
 #### Status
 ACCEPTED

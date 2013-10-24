@@ -1,5 +1,4 @@
-Lenzites trabeiformis (Murrill) Murrill SPECIES
-=======
+# Lenzites trabeiformis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

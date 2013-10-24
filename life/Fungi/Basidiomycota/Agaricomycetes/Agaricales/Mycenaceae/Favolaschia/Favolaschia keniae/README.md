@@ -1,5 +1,4 @@
-Favolaschia keniae Otieno SPECIES
-=======
+# Favolaschia keniae Otieno SPECIES
 
 #### Status
 ACCEPTED

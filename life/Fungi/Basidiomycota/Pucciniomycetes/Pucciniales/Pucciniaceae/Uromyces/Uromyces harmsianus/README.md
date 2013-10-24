@@ -1,5 +1,4 @@
-Uromyces harmsianus Henn. SPECIES
-=======
+# Uromyces harmsianus Henn. SPECIES
 
 #### Status
 ACCEPTED

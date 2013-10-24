@@ -1,5 +1,4 @@
-Zoothamnium adamsi Stokes, 1885 SPECIES
-=======
+# Zoothamnium adamsi Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

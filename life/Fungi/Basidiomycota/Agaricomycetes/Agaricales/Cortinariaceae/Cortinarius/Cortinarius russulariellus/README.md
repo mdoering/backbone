@@ -1,5 +1,4 @@
-Cortinarius russulariellus Speg. SPECIES
-=======
+# Cortinarius russulariellus Speg. SPECIES
 
 #### Status
 ACCEPTED

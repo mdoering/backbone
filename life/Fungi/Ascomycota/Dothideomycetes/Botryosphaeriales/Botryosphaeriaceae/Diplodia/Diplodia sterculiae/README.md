@@ -1,5 +1,4 @@
-Diplodia sterculiae G. Winter SPECIES
-=======
+# Diplodia sterculiae G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoria ulophylla (Wallr.) Arnold SPECIES
-=======
+# Xanthoria ulophylla (Wallr.) Arnold SPECIES
 
 #### Status
 ACCEPTED

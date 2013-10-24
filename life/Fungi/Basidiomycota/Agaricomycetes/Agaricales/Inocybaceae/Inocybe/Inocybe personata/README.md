@@ -1,5 +1,4 @@
-Inocybe personata Kühner SPECIES
-=======
+# Inocybe personata Kühner SPECIES
 
 #### Status
 ACCEPTED

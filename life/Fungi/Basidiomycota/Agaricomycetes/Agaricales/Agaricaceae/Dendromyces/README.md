@@ -1,5 +1,4 @@
-Dendromyces GENUS
-=======
+# Dendromyces GENUS
 
 #### Status
 ACCEPTED

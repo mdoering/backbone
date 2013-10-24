@@ -1,5 +1,4 @@
-Helicosphaera wilcoxonii Gartner, 1971 SPECIES
-=======
+# Helicosphaera wilcoxonii Gartner, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus fumosa (Murrill) Murrill SPECIES
-=======
+# Polystictus fumosa (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

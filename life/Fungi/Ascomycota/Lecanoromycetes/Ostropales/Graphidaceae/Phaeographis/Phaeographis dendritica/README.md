@@ -1,17 +1,16 @@
-Phaeographis dendritica var. dendritica VARIETY
-=======
+# Phaeographis dendritica (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Flora, Jena 65: 382 (1882)
 
 #### Original name
-Phaeographis dendritica var. dendritica
+Opegrapha dendritica Ach.
 
 ### Remarks
 null

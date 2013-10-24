@@ -1,5 +1,4 @@
-Stemonitis uvifera T. Macbr., 1922 SPECIES
-=======
+# Stemonitis uvifera T. Macbr., 1922 SPECIES
 
 #### Status
 ACCEPTED

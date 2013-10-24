@@ -1,17 +1,16 @@
-Adhogamina Subram. & Lodha GENUS
-=======
+# Gilmaniella G.L. Barron, 1964 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Antonie van Leeuwenhoek Ned. Tijdschr. Hyg. 30: 328 (1964)
+null
 
 #### Original name
-Adhogamina Subram. & Lodha
+null
 
 ### Remarks
 null

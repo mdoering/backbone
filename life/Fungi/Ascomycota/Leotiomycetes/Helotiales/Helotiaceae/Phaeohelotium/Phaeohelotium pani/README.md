@@ -1,5 +1,4 @@
-Phaeohelotium pani (Velen.) Svrcek SPECIES
-=======
+# Phaeohelotium pani (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

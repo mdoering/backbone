@@ -1,5 +1,4 @@
-Distromium obrienii Kraft, 2009 SPECIES
-=======
+# Distromium obrienii Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

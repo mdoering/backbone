@@ -1,5 +1,4 @@
-Umbilicaria magnussonii Llano SPECIES
-=======
+# Umbilicaria magnussonii Llano SPECIES
 
 #### Status
 ACCEPTED

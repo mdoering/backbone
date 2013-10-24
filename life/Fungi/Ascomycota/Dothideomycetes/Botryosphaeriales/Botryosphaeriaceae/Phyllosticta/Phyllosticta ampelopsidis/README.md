@@ -1,5 +1,4 @@
-Phyllosticta ampelopsidis Speschnew SPECIES
-=======
+# Phyllosticta ampelopsidis Speschnew SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entomophaga transitans (S. Keller) A.E. Hajek & Eilenberg, 2003 SPECIES
-=======
+# Entomophaga transitans (S. Keller) A.E. Hajek & Eilenberg, 2003 SPECIES
 
 #### Status
 ACCEPTED

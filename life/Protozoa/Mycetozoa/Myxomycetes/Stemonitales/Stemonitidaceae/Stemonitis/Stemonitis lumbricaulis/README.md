@@ -1,5 +1,4 @@
-Stemonitis lumbricaulis J.F. Gmel. SPECIES
-=======
+# Stemonitis lumbricaulis J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

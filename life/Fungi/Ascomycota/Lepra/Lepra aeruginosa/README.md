@@ -1,5 +1,4 @@
-Lepra aeruginosa F.H. Wigg. SPECIES
-=======
+# Lepra aeruginosa F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

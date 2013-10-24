@@ -1,5 +1,4 @@
-Loktanella hongkongensis Lau et al., 2004 SPECIES
-=======
+# Loktanella hongkongensis Lau et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

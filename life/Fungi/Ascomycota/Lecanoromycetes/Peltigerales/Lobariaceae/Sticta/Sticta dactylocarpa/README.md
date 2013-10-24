@@ -1,5 +1,4 @@
-Sticta dactylocarpa Hue SPECIES
-=======
+# Sticta dactylocarpa Hue SPECIES
 
 #### Status
 ACCEPTED

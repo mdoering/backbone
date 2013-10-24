@@ -1,5 +1,4 @@
-Amerosporium applanatum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Amerosporium applanatum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia madeirae Thaxt. SPECIES
-=======
+# Laboulbenia madeirae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

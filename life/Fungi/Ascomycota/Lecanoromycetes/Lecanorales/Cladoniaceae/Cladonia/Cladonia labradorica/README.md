@@ -1,5 +1,4 @@
-Cladonia labradorica Ahti & Brodo SPECIES
-=======
+# Cladonia labradorica Ahti & Brodo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clisosporium GENUS
-=======
+# Clisosporium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fimbriaglomerella crameri Pöthé de Baldis, 1981 SPECIES
-=======
+# Fimbriaglomerella crameri Pöthé de Baldis, 1981 SPECIES
 
 #### Status
 ACCEPTED

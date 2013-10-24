@@ -1,5 +1,4 @@
-Stereum spongipes Berk. SPECIES
-=======
+# Stereum spongipes Berk. SPECIES
 
 #### Status
 ACCEPTED

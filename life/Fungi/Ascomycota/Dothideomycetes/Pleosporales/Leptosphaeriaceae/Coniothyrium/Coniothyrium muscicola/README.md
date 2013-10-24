@@ -1,5 +1,4 @@
-Coniothyrium muscicola Ellis SPECIES
-=======
+# Coniothyrium muscicola Ellis SPECIES
 
 #### Status
 ACCEPTED

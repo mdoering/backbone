@@ -1,5 +1,4 @@
-Pyrenula subaggregata Müll. Arg. SPECIES
-=======
+# Pyrenula subaggregata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

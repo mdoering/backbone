@@ -1,5 +1,4 @@
-Resigella polaris Gooday, Kamenskaya & Soltwedel, 2010 SPECIES
-=======
+# Resigella polaris Gooday, Kamenskaya & Soltwedel, 2010 SPECIES
 
 #### Status
 ACCEPTED

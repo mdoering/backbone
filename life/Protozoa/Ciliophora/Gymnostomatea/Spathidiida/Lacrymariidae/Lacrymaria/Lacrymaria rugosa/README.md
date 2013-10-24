@@ -1,5 +1,4 @@
-Lacrymaria rugosa Ehrenberg, 1831 SPECIES
-=======
+# Lacrymaria rugosa Ehrenberg, 1831 SPECIES
 
 #### Status
 ACCEPTED

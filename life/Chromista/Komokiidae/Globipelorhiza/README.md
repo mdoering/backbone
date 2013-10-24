@@ -1,5 +1,4 @@
-Globipelorhiza Cedhagen & Mattson, 1991 GENUS
-=======
+# Globipelorhiza Cedhagen & Mattson, 1991 GENUS
 
 #### Status
 ACCEPTED

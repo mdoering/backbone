@@ -1,5 +1,4 @@
-Tylopilus humilis Thiers SPECIES
-=======
+# Tylopilus humilis Thiers SPECIES
 
 #### Status
 ACCEPTED

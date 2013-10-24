@@ -1,5 +1,4 @@
-Passalora gayophyti (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Passalora gayophyti (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

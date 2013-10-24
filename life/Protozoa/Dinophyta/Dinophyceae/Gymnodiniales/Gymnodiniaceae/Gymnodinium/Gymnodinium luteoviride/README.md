@@ -1,5 +1,4 @@
-Gymnodinium luteoviride Van Meel SPECIES
-=======
+# Gymnodinium luteoviride Van Meel SPECIES
 
 #### Status
 ACCEPTED

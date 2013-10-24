@@ -1,17 +1,16 @@
-Palaeocirrenalia oligoseptatum Ramanujam & Srisailam SPECIES
-=======
+# Palaeocirrenalia oligoseptata Ramanujam & Srisailam SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanique, Nagpur 9(1-4): 125 + pl. 2, fig. 16 (1980)
 
 #### Original name
-Palaeocirrenalia oligoseptatum Ramanujam & Srisailam
+Palaeocirrenalia oligoseptata Ramanujam & Srisailam
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeria excipulans Schwein. SPECIES
-=======
+# Sphaeria excipulans Schwein. SPECIES
 
 #### Status
 ACCEPTED

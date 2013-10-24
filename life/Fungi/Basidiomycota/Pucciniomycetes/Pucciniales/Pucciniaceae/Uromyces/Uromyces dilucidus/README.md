@@ -1,5 +1,4 @@
-Uromyces dilucidus Cummins SPECIES
-=======
+# Uromyces dilucidus Cummins SPECIES
 
 #### Status
 ACCEPTED

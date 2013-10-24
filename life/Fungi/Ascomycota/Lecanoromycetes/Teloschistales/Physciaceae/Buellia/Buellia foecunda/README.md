@@ -1,5 +1,4 @@
-Buellia foecunda Filson SPECIES
-=======
+# Buellia foecunda Filson SPECIES
 
 #### Status
 ACCEPTED

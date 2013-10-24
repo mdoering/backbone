@@ -1,5 +1,4 @@
-Dictyopteris prolifera (Okamura) Okamura SPECIES
-=======
+# Dictyopteris prolifera (Okamura) Okamura SPECIES
 
 #### Status
 ACCEPTED

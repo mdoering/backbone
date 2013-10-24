@@ -1,5 +1,4 @@
-Trichothyrites ostiolatus (Cookson) Kalgutkar & Janson. SPECIES
-=======
+# Trichothyrites ostiolatus (Cookson) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

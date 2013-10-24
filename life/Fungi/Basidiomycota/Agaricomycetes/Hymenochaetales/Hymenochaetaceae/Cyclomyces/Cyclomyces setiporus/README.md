@@ -1,17 +1,16 @@
-Microporus fuscus (Lév.) Kuntze, 1898 SPECIES
-=======
+# Cyclomyces setiporus (Berk.) Pat., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 496 (1898)
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 98 (1900)
 
 #### Original name
-Polyporus fuscus (Lázaro Ibiza) Sacc. & Trotter, 1925
+Polyporus setiporus Berk., 1847
 
 ### Remarks
 null

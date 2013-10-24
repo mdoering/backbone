@@ -1,5 +1,4 @@
-Entoloma cuboideum Hesler SPECIES
-=======
+# Entoloma cuboideum Hesler SPECIES
 
 #### Status
 ACCEPTED

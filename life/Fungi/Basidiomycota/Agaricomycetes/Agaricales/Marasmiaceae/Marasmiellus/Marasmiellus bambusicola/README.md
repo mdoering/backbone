@@ -1,5 +1,4 @@
-Marasmiellus bambusicola (Corner) Redhead SPECIES
-=======
+# Marasmiellus bambusicola (Corner) Redhead SPECIES
 
 #### Status
 ACCEPTED

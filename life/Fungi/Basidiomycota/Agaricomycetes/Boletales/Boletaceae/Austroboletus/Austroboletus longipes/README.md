@@ -1,5 +1,4 @@
-Austroboletus longipes (Massee) Wolfe SPECIES
-=======
+# Austroboletus longipes (Massee) Wolfe SPECIES
 
 #### Status
 ACCEPTED

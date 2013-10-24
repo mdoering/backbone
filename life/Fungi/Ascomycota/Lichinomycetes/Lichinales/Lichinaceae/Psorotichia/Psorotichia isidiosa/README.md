@@ -1,5 +1,4 @@
-Psorotichia isidiosa Werner SPECIES
-=======
+# Psorotichia isidiosa Werner SPECIES
 
 #### Status
 ACCEPTED

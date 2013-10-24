@@ -1,14 +1,13 @@
-Anthostomella sphaerotheca Earle, 1898 SPECIES
-=======
+# Phaeochora sphaerotheca (Earle) Moesz, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 25: 360 (1898)
+Magyar Bot. Lapok 21: 11 (1922)
 
 #### Original name
 Anthostomella sphaerotheca Earle, 1898

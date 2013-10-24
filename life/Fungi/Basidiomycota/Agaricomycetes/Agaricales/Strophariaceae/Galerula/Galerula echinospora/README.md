@@ -1,5 +1,4 @@
-Galerula echinospora (Murrill) Murrill SPECIES
-=======
+# Galerula echinospora (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

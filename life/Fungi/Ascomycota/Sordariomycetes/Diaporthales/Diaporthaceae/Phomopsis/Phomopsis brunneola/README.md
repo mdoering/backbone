@@ -1,5 +1,4 @@
-Phomopsis brunneola (Berk. & M.A. Curtis) Died. SPECIES
-=======
+# Phomopsis brunneola (Berk. & M.A. Curtis) Died. SPECIES
 
 #### Status
 ACCEPTED

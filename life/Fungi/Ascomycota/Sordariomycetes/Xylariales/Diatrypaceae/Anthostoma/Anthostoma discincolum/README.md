@@ -1,5 +1,4 @@
-Anthostoma discincolum (Schwein.) Sacc. SPECIES
-=======
+# Anthostoma discincolum (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium peruamazonicum Matsush. SPECIES
-=======
+# Sporidesmium peruamazonicum Matsush. SPECIES
 
 #### Status
 ACCEPTED

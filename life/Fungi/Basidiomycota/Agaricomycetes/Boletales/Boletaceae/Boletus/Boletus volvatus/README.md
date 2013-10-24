@@ -1,5 +1,4 @@
-Boletus volvatus Pers. SPECIES
-=======
+# Boletus volvatus Pers. SPECIES
 
 #### Status
 ACCEPTED

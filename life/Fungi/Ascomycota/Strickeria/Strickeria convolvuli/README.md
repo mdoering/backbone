@@ -1,5 +1,4 @@
-Strickeria convolvuli Koshk. SPECIES
-=======
+# Strickeria convolvuli Koshk. SPECIES
 
 #### Status
 ACCEPTED

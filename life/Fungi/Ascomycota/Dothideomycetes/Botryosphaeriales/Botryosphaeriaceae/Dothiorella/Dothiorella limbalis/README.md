@@ -1,5 +1,4 @@
-Dothiorella limbalis (Syd.) Syd. SPECIES
-=======
+# Dothiorella limbalis (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

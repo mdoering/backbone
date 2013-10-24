@@ -1,5 +1,4 @@
-Gerronema infundibuliforme Singer SPECIES
-=======
+# Gerronema infundibuliforme Singer SPECIES
 
 #### Status
 ACCEPTED

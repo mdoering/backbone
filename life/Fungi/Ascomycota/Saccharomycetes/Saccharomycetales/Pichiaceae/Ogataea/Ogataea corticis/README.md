@@ -1,5 +1,4 @@
-Ogataea corticis Nagats., S. Saito & Sugiy., 2008 SPECIES
-=======
+# Ogataea corticis Nagats., S. Saito & Sugiy., 2008 SPECIES
 
 #### Status
 ACCEPTED

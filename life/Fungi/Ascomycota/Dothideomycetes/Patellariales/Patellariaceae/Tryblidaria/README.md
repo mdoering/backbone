@@ -1,5 +1,4 @@
-Tryblidaria (Sacc.) Rehm GENUS
-=======
+# Tryblidaria (Sacc.) Rehm GENUS
 
 #### Status
 ACCEPTED

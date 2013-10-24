@@ -1,5 +1,4 @@
-Myriospora morio (Duby) SPECIES
-=======
+# Myriospora morio (Duby) SPECIES
 
 #### Status
 ACCEPTED

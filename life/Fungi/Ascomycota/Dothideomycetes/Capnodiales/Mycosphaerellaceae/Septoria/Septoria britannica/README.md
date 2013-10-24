@@ -1,5 +1,4 @@
-Septoria britannica Trotter SPECIES
-=======
+# Septoria britannica Trotter SPECIES
 
 #### Status
 ACCEPTED

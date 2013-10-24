@@ -1,5 +1,4 @@
-Psilocybe cyanofibrillosa Guzmán & Stamets SPECIES
-=======
+# Psilocybe cyanofibrillosa Guzmán & Stamets SPECIES
 
 #### Status
 ACCEPTED

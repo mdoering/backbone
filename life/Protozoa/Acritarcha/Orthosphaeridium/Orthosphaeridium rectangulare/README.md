@@ -1,5 +1,4 @@
-Orthosphaeridium rectangulare (Eisenack, 1963) Eisenack, 1968 SPECIES
-=======
+# Orthosphaeridium rectangulare (Eisenack, 1963) Eisenack, 1968 SPECIES
 
 #### Status
 ACCEPTED

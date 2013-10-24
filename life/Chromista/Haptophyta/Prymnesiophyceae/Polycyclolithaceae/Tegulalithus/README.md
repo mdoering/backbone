@@ -1,5 +1,4 @@
-Tegulalithus Crux, 1986 GENUS
-=======
+# Tegulalithus Crux, 1986 GENUS
 
 #### Status
 ACCEPTED

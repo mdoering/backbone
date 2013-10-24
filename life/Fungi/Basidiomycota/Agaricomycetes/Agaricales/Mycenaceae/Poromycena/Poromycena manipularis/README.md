@@ -1,5 +1,4 @@
-Poromycena manipularis (Berk.) R. Heim SPECIES
-=======
+# Poromycena manipularis (Berk.) R. Heim SPECIES
 
 #### Status
 ACCEPTED

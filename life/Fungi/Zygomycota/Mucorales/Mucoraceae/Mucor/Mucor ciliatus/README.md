@@ -1,5 +1,4 @@
-Mucor ciliatus Bonord. SPECIES
-=======
+# Mucor ciliatus Bonord. SPECIES
 
 #### Status
 ACCEPTED

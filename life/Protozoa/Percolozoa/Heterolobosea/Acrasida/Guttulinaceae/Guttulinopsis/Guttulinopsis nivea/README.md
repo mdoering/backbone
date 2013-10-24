@@ -1,5 +1,4 @@
-Guttulinopsis nivea Raper, Worley & D. Kessler, 1977 SPECIES
-=======
+# Guttulinopsis nivea Raper, Worley & D. Kessler, 1977 SPECIES
 
 #### Status
 ACCEPTED

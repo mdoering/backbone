@@ -1,5 +1,4 @@
-Verticillium dichotomum Ellis & Everh. SPECIES
-=======
+# Verticillium dichotomum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

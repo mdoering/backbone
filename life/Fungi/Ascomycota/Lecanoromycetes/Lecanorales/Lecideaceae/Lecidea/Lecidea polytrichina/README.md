@@ -1,5 +1,4 @@
-Lecidea polytrichina Hertel SPECIES
-=======
+# Lecidea polytrichina Hertel SPECIES
 
 #### Status
 ACCEPTED

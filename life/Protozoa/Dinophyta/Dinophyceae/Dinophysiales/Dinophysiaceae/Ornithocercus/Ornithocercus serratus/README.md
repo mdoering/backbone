@@ -1,5 +1,4 @@
-Ornithocercus serratus Stein SPECIES
-=======
+# Ornithocercus serratus Stein SPECIES
 
 #### Status
 ACCEPTED

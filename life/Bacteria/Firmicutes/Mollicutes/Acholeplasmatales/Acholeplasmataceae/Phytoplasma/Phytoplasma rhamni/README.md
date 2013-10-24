@@ -1,5 +1,4 @@
-Phytoplasma rhamni Marcone et al., 2004. SPECIES
-=======
+# Phytoplasma rhamni Marcone et al., 2004. SPECIES
 
 #### Status
 ACCEPTED

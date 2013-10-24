@@ -1,5 +1,4 @@
-Cladonia crustacea Ahti SPECIES
-=======
+# Cladonia crustacea Ahti SPECIES
 
 #### Status
 ACCEPTED

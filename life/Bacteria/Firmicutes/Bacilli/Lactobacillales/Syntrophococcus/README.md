@@ -1,5 +1,4 @@
-Syntrophococcus Krumholz & Bryant, 1986 GENUS
-=======
+# Syntrophococcus Krumholz & Bryant, 1986 GENUS
 
 #### Status
 ACCEPTED

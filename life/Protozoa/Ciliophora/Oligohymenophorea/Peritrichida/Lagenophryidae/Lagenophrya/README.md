@@ -1,5 +1,4 @@
-Lagenophrya GENUS
-=======
+# Lagenophrya GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Triceratium alternans J.W. Bailey SPECIES
-=======
+# Biddulphia alternans (J.W. Bailey) Van Heurck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

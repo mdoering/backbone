@@ -1,14 +1,13 @@
-Gymnopilus macrosporus (Singer) Singer, 1986 SPECIES
-=======
+# Pyrrhoglossum macrosporum Singer, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Agaric. mod. Tax. (Koenigstein), Edn 4 661 (1986)
+Beih. Sydowia 7: 92 (1973)
 
 #### Original name
 Pyrrhoglossum macrosporum Singer, 1973

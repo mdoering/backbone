@@ -1,5 +1,4 @@
-Bacidia phyllopsoropsis R. C. Harris & Lendemer SPECIES
-=======
+# Bacidia phyllopsoropsis R. C. Harris & Lendemer SPECIES
 
 #### Status
 ACCEPTED

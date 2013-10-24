@@ -1,17 +1,16 @@
-Tripedotrichum G.F. Orr & Kuehn GENUS
-=======
+# Gymnoascus Baran. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 56: 483 (1964)
+Bot. Ztg. 30: 158 (1872)
 
 #### Original name
-Tripedotrichum G.F. Orr & Kuehn
+Gymnoascus Baran.
 
 ### Remarks
 null

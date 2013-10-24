@@ -1,5 +1,4 @@
-Stagonospora astericola (Davis) H.C. Greene SPECIES
-=======
+# Stagonospora astericola (Davis) H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

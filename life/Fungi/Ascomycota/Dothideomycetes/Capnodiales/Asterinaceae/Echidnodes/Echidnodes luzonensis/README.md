@@ -1,5 +1,4 @@
-Echidnodes luzonensis Petr. SPECIES
-=======
+# Echidnodes luzonensis Petr. SPECIES
 
 #### Status
 ACCEPTED

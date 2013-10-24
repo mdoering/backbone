@@ -1,5 +1,4 @@
-Sphacelotheca paspali-notati (Henn.) G.P. Clinton SPECIES
-=======
+# Sphacelotheca paspali-notati (Henn.) G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia benguetensis Syd. {?} SPECIES
-=======
+# Puccinia benguetensis Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosphaeria stangeriae (H. Zimm.) Bubák SPECIES
-=======
+# Placosphaeria stangeriae (H. Zimm.) Bubák SPECIES
 
 #### Status
 ACCEPTED

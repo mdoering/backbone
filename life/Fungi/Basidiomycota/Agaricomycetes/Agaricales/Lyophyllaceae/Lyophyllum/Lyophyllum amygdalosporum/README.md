@@ -1,5 +1,4 @@
-Lyophyllum amygdalosporum Kalamees SPECIES
-=======
+# Lyophyllum amygdalosporum Kalamees SPECIES
 
 #### Status
 ACCEPTED

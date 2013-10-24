@@ -1,5 +1,4 @@
-Laboulbenia typhlocharidis Santam. SPECIES
-=======
+# Laboulbenia typhlocharidis Santam. SPECIES
 
 #### Status
 ACCEPTED

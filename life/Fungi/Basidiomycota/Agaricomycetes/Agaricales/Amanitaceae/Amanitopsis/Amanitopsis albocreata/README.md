@@ -1,5 +1,4 @@
-Amanitopsis albocreata G.F. Atk. SPECIES
-=======
+# Amanitopsis albocreata G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

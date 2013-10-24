@@ -1,5 +1,4 @@
-Fragilariforma strangulata (Zanon) D.M.Williams & Round SPECIES
-=======
+# Fragilariforma strangulata (Zanon) D.M.Williams & Round SPECIES
 
 #### Status
 ACCEPTED

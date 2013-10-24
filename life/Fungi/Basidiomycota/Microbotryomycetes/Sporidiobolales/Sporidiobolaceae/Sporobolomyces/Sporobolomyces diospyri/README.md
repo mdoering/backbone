@@ -1,17 +1,16 @@
-Sporobolomyces diospyroris Nakase, Tsuzuki, F.L. Lee, Jindam. & M. Takash. SPECIES
-=======
+# Sporobolomyces diospyri Nakase, Tsuzuki, F.L. Lee, Jindam. & M. Takash. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Nakase, Tsuzuki, Lee, Jindamorakot, Jan-ngam, Am-in, Potacharoen & Tanticharoen, J. gen. appl. Microbiol. , Tokyo 51(5): 280 (2005)
 
 #### Original name
-Sporobolomyces diospyroris Nakase, Tsuzuki, F.L. Lee, Jindam. & M. Takash.
+Sporobolomyces diospyri Nakase, Tsuzuki, F.L. Lee, Jindam. & M. Takash.
 
 ### Remarks
 null

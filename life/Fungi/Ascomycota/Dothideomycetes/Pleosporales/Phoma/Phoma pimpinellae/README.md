@@ -1,5 +1,4 @@
-Phoma pimpinellae Boerema & Gruyter SPECIES
-=======
+# Phoma pimpinellae Boerema & Gruyter SPECIES
 
 #### Status
 ACCEPTED

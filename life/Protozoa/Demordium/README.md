@@ -1,5 +1,4 @@
-Demordium Link GENUS
-=======
+# Demordium Link GENUS
 
 #### Status
 ACCEPTED

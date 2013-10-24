@@ -1,5 +1,4 @@
-Lachnum gracilescens P. Karst. SPECIES
-=======
+# Lachnum gracilescens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

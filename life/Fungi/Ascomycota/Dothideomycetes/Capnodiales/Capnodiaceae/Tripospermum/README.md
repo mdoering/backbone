@@ -1,5 +1,4 @@
-Tripospermum Spegazzini, 1918 GENUS
-=======
+# Tripospermum Spegazzini, 1918 GENUS
 
 #### Status
 ACCEPTED

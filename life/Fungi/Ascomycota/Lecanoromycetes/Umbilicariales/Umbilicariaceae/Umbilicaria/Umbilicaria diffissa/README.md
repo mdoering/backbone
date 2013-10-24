@@ -1,5 +1,4 @@
-Umbilicaria diffissa (Nyl.) Llano SPECIES
-=======
+# Umbilicaria diffissa (Nyl.) Llano SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma alboflavidum Rick SPECIES
-=======
+# Entoloma alboflavidum Rick SPECIES
 
 #### Status
 ACCEPTED

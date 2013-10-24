@@ -1,5 +1,4 @@
-Russula murrillii Burl. SPECIES
-=======
+# Russula murrillii Burl. SPECIES
 
 #### Status
 ACCEPTED

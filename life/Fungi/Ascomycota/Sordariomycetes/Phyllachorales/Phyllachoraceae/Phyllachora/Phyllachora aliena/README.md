@@ -1,5 +1,4 @@
-Phyllachora aliena Syd. & P. Syd., 1912 SPECIES
-=======
+# Phyllachora aliena Syd. & P. Syd., 1912 SPECIES
 
 #### Status
 ACCEPTED

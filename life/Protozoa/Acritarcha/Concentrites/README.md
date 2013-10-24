@@ -1,5 +1,4 @@
-Concentrites B.S. Venkatachala et al., 1974 GENUS
-=======
+# Concentrites B.S. Venkatachala et al., 1974 GENUS
 
 #### Status
 ACCEPTED

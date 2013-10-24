@@ -1,5 +1,4 @@
-Monosporium avellaneum Fairm. SPECIES
-=======
+# Monosporium avellaneum Fairm. SPECIES
 
 #### Status
 ACCEPTED

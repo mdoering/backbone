@@ -1,5 +1,4 @@
-Graphis elmeri Vain. SPECIES
-=======
+# Graphis elmeri Vain. SPECIES
 
 #### Status
 ACCEPTED

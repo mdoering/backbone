@@ -1,5 +1,4 @@
-Puccinia lithospermi Ellis & Kellerm., 1885 SPECIES
-=======
+# Puccinia lithospermi Ellis & Kellerm., 1885 SPECIES
 
 #### Status
 ACCEPTED

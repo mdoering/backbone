@@ -1,5 +1,4 @@
-Obelidium Nowak. GENUS
-=======
+# Obelidium Nowak. GENUS
 
 #### Status
 ACCEPTED

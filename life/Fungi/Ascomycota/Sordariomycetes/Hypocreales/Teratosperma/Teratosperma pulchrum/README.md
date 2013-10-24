@@ -1,5 +1,4 @@
-Teratosperma pulchrum (Ellis & Everh.) M.B. Ellis SPECIES
-=======
+# Teratosperma pulchrum (Ellis & Everh.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

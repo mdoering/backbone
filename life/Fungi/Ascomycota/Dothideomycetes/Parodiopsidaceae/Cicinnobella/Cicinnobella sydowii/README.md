@@ -1,5 +1,4 @@
-Cicinnobella sydowii G. Arnaud SPECIES
-=======
+# Cicinnobella sydowii G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

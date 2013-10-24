@@ -1,5 +1,4 @@
-Opegrapha medusula Pers. SPECIES
-=======
+# Opegrapha medusula Pers. SPECIES
 
 #### Status
 ACCEPTED

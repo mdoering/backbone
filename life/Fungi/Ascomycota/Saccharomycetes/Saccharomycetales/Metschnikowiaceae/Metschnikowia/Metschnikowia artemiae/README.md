@@ -1,5 +1,4 @@
-Metschnikowia artemiae T. Kamienski, 1899 SPECIES
-=======
+# Metschnikowia artemiae T. Kamienski, 1899 SPECIES
 
 #### Status
 ACCEPTED

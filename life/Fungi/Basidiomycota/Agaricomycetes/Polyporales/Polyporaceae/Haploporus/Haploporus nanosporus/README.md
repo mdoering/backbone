@@ -1,5 +1,4 @@
-Haploporus nanosporus (A. David & Rajchenb.) Piatek, 2005 SPECIES
-=======
+# Haploporus nanosporus (A. David & Rajchenb.) Piatek, 2005 SPECIES
 
 #### Status
 ACCEPTED

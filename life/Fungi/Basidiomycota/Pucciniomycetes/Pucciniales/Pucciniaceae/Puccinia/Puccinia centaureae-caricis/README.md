@@ -1,5 +1,4 @@
-Puccinia centaureae-caricis Tranzschel SPECIES
-=======
+# Puccinia centaureae-caricis Tranzschel SPECIES
 
 #### Status
 ACCEPTED

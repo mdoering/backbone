@@ -1,5 +1,4 @@
-Ascochyta calystegiae Sacc., 1878 SPECIES
-=======
+# Ascochyta calystegiae Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

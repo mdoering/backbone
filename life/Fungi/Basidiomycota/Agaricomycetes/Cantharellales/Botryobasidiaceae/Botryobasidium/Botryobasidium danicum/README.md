@@ -1,5 +1,4 @@
-Botryobasidium danicum J. Erikss. & Hjortstam, 1969 SPECIES
-=======
+# Botryobasidium danicum J. Erikss. & Hjortstam, 1969 SPECIES
 
 #### Status
 ACCEPTED

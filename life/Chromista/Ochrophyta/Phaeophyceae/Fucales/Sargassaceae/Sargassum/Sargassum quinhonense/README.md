@@ -1,5 +1,4 @@
-Sargassum quinhonense Nguyen Huu Dai SPECIES
-=======
+# Sargassum quinhonense Nguyen Huu Dai SPECIES
 
 #### Status
 ACCEPTED

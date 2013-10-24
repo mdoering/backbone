@@ -1,5 +1,4 @@
-Buellia tuamotensis Herre SPECIES
-=======
+# Buellia tuamotensis Herre SPECIES
 
 #### Status
 ACCEPTED

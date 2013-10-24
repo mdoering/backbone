@@ -1,5 +1,4 @@
-Phoma ebuli Schulzer & Sacc. SPECIES
-=======
+# Phoma ebuli Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

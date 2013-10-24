@@ -1,5 +1,4 @@
-Lophosphaeridium disparipelliculum Playford & Martin, 1984 SPECIES
-=======
+# Lophosphaeridium disparipelliculum Playford & Martin, 1984 SPECIES
 
 #### Status
 ACCEPTED

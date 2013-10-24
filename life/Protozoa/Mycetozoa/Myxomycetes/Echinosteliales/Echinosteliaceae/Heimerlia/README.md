@@ -1,5 +1,4 @@
-Heimerlia von Höhnel, 1903 GENUS
-=======
+# Heimerlia von Höhnel, 1903 GENUS
 
 #### Status
 ACCEPTED

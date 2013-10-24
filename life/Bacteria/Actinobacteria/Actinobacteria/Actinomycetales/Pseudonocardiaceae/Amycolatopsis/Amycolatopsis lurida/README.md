@@ -1,8 +1,7 @@
-Amycolatopsis orientalis subsp. lurida (ex Grundy et al., 1957) Lechevalier et al., 1986 SUBSPECIES
-=======
+# Amycolatopsis lurida (Lechevalier et al., 1986) Stackebrandt et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Menegazzia nigrescens (Stirt.) R. Sant. SPECIES
-=======
+# Menegazzia nigrescens (Stirt.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patella maculosa (W. Phillips) Seaver SPECIES
-=======
+# Patella maculosa (W. Phillips) Seaver SPECIES
 
 #### Status
 ACCEPTED

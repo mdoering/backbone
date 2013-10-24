@@ -1,17 +1,16 @@
-Edmundmasonia Subram. GENUS
-=======
+# Brachysporiella Bat. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Indian bot. Soc. 37: 403 (1958)
+Bol. Secr. Agric. (Pernambuco) 19(1-2): 108 (1952)
 
 #### Original name
-Edmundmasonia Subram.
+Brachysporiella Bat.
 
 ### Remarks
 null

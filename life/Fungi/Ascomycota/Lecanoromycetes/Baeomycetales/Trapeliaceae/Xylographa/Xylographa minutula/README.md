@@ -1,5 +1,4 @@
-Xylographa minutula Körb. SPECIES
-=======
+# Xylographa minutula Körb. SPECIES
 
 #### Status
 ACCEPTED

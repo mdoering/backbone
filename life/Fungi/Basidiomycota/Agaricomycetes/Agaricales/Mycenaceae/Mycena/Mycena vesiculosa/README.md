@@ -1,5 +1,4 @@
-Mycena vesiculosa Maas Geest. & E. Horak SPECIES
-=======
+# Mycena vesiculosa Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonyaulax inflata (Kofoid, 1907) Kofoid, 1911 SPECIES
-=======
+# Gonyaulax inflata (Kofoid, 1907) Kofoid, 1911 SPECIES
 
 #### Status
 ACCEPTED

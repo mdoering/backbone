@@ -1,5 +1,4 @@
-Tephromela algaea (Sommerf.) Hertel & Rambold SPECIES
-=======
+# Tephromela algaea (Sommerf.) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

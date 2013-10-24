@@ -1,5 +1,4 @@
-Hapalosiphon tenuis Gardner SPECIES
-=======
+# Hapalosiphon tenuis Gardner SPECIES
 
 #### Status
 ACCEPTED

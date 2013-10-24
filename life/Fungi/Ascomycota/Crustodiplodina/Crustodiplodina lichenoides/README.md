@@ -1,14 +1,13 @@
-Diplodina lichenoides A.L. Sm. SPECIES
-=======
+# Crustodiplodina lichenoides (A.L. Sm.) Punith., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 159: 200 (1988)
 
 #### Original name
 Diplodina lichenoides A.L. Sm.

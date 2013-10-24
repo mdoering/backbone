@@ -1,5 +1,4 @@
-Cercosporella woronowii Siemaszko SPECIES
-=======
+# Cercosporella woronowii Siemaszko SPECIES
 
 #### Status
 ACCEPTED

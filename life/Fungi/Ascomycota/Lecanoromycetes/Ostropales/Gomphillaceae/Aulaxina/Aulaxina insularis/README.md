@@ -1,5 +1,4 @@
-Aulaxina insularis Vain. SPECIES
-=======
+# Aulaxina insularis Vain. SPECIES
 
 #### Status
 ACCEPTED

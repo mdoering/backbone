@@ -1,5 +1,4 @@
-Pedilospora GENUS
-=======
+# Pedilospora GENUS
 
 #### Status
 ACCEPTED

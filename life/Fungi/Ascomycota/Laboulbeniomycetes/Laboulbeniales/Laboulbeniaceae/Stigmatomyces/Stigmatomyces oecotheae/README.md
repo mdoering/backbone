@@ -1,5 +1,4 @@
-Stigmatomyces oecotheae Thaxt. SPECIES
-=======
+# Stigmatomyces oecotheae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

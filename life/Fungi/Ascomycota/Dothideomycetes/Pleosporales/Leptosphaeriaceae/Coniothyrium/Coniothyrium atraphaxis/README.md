@@ -1,17 +1,16 @@
-Coniothyrium atraphaxidis Esfand. SPECIES
-=======
+# Coniothyrium atraphaxis Esfand. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 4(1-6): 26 (1950)
 
 #### Original name
-Coniothyrium atraphaxidis Esfand.
+Coniothyrium atraphaxis Esfand.
 
 ### Remarks
 null

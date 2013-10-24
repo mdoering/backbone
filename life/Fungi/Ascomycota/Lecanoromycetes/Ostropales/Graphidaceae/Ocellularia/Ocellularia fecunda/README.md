@@ -1,14 +1,13 @@
-Ocellularia domingensis var. fecunda (Vain.) Zahlbr. VARIETY
-=======
+# Ocellularia fecunda (Vain.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 2: 590 (1923)
+Smithson. Contr. bot. 16: 20 (1974)
 
 #### Original name
 Thelotrema domingense var. fecundum Vain.

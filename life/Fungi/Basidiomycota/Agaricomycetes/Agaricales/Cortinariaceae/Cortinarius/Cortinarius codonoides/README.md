@@ -1,5 +1,4 @@
-Cortinarius codonoides Rob. Henry SPECIES
-=======
+# Cortinarius codonoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

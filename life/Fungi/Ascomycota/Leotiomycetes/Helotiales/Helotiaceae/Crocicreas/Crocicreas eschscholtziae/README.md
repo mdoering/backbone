@@ -1,5 +1,4 @@
-Crocicreas eschscholtziae (W. Phillips & Harkn.) S.E. Carp. SPECIES
-=======
+# Crocicreas eschscholtziae (W. Phillips & Harkn.) S.E. Carp. SPECIES
 
 #### Status
 ACCEPTED

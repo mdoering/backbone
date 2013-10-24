@@ -1,5 +1,4 @@
-Parmelia filipina Hale SPECIES
-=======
+# Parmelia filipina Hale SPECIES
 
 #### Status
 ACCEPTED

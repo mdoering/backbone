@@ -1,5 +1,4 @@
-Eriospora hypsophila Speg. SPECIES
-=======
+# Eriospora hypsophila Speg. SPECIES
 
 #### Status
 ACCEPTED

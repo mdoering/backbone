@@ -1,5 +1,4 @@
-Sphaeria haematorhyncha Sommerf. SPECIES
-=======
+# Sphaeria haematorhyncha Sommerf. SPECIES
 
 #### Status
 ACCEPTED

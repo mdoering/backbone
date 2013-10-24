@@ -1,5 +1,4 @@
-Biatora subglomerella (Nyl.) Arnold SPECIES
-=======
+# Biatora subglomerella (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hypoxylon perfidiosum (De Not.) P.M.D. Martin, 1976 SPECIES
-=======
+# Clypeosphaeria perfidiosa (De Not.) M.E. Barr, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jl S. Afr. Bot. 42: 73 (1976)
+Syst. Ascom. 8(1): 5 (1989)
 
 #### Original name
 Sordaria perfidiosa De Not., 1867

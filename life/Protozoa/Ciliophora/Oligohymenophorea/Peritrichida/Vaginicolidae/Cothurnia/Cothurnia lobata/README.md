@@ -1,5 +1,4 @@
-Cothurnia lobata SPECIES
-=======
+# Cothurnia lobata SPECIES
 
 #### Status
 ACCEPTED

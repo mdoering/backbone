@@ -1,5 +1,4 @@
-Entoloma tristificum E. Horak SPECIES
-=======
+# Entoloma tristificum E. Horak SPECIES
 
 #### Status
 ACCEPTED

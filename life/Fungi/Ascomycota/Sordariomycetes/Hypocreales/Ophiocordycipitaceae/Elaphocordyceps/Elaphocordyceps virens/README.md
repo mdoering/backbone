@@ -1,14 +1,13 @@
-Cordyceps virens Kobayasi, 1983 SPECIES
-=======
+# Elaphocordyceps virens (Kobayasi) G.H. Sung, J.M. Sung & Spatafora, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Jap. Bot. 58(7): 222 (1983)
+in Sung, Hywel-Jones, Sung, Luangsa-ard, Shrestha & Spatafora, Stud. Mycol. 57: 38 (2007)
 
 #### Original name
 Cordyceps virens Kobayasi, 1983

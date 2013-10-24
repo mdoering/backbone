@@ -1,5 +1,4 @@
-Phaeoseptoria rubiae Nann. SPECIES
-=======
+# Phaeoseptoria rubiae Nann. SPECIES
 
 #### Status
 ACCEPTED

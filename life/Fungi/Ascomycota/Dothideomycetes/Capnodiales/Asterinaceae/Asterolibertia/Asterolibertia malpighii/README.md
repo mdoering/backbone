@@ -1,5 +1,4 @@
-Asterolibertia malpighii Bat. & H. Maia SPECIES
-=======
+# Asterolibertia malpighii Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

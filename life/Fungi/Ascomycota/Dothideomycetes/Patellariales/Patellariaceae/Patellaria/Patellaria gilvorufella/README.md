@@ -1,5 +1,4 @@
-Patellaria gilvorufella (Nyl.) SPECIES
-=======
+# Patellaria gilvorufella (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

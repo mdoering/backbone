@@ -1,5 +1,4 @@
-Achorion caninum (Costantin & Sabrazès) Brumpt SPECIES
-=======
+# Achorion caninum (Costantin & Sabrazès) Brumpt SPECIES
 
 #### Status
 ACCEPTED

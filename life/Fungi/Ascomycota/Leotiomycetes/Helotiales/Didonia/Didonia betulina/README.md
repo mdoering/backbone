@@ -1,5 +1,4 @@
-Didonia betulina Velen. SPECIES
-=======
+# Didonia betulina Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylotumulus gibbisporus J.D. Rogers, Y.M. Ju & Hemmes, 2006 SPECIES
-=======
+# Xylotumulus gibbisporus J.D. Rogers, Y.M. Ju & Hemmes, 2006 SPECIES
 
 #### Status
 ACCEPTED

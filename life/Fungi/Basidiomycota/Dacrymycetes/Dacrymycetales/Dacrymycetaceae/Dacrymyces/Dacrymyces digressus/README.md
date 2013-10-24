@@ -1,5 +1,4 @@
-Dacrymyces digressus Lloyd SPECIES
-=======
+# Dacrymyces digressus Lloyd SPECIES
 
 #### Status
 ACCEPTED

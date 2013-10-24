@@ -1,5 +1,4 @@
-Marasmius rufo-ochraceus Petch SPECIES
-=======
+# Marasmius rufo-ochraceus Petch SPECIES
 
 #### Status
 ACCEPTED

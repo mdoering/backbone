@@ -1,5 +1,4 @@
-Marasmiellus albiceps C.S. Bi SPECIES
-=======
+# Marasmiellus albiceps C.S. Bi SPECIES
 
 #### Status
 ACCEPTED

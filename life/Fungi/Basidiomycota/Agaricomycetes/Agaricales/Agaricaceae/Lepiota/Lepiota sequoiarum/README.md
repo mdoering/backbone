@@ -1,5 +1,4 @@
-Lepiota sequoiarum Murrill SPECIES
-=======
+# Lepiota sequoiarum Murrill SPECIES
 
 #### Status
 ACCEPTED

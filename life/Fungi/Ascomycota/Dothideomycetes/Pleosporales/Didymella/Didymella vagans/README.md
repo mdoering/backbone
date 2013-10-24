@@ -1,5 +1,4 @@
-Didymella vagans Fabre SPECIES
-=======
+# Didymella vagans Fabre SPECIES
 
 #### Status
 ACCEPTED

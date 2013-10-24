@@ -1,5 +1,4 @@
-Gloeandromyces streblae Thaxt., 1931 SPECIES
-=======
+# Gloeandromyces streblae Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

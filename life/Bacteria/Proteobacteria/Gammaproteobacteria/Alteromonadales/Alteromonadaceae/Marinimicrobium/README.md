@@ -1,5 +1,4 @@
-Marinimicrobium Lim et al., 2006 GENUS
-=======
+# Marinimicrobium Lim et al., 2006 GENUS
 
 #### Status
 ACCEPTED

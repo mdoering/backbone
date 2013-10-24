@@ -1,5 +1,4 @@
-Phloeospora bonanseana Sacc. SPECIES
-=======
+# Phloeospora bonanseana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entophysalis rubra M. Watanabe & Komárek SPECIES
-=======
+# Entophysalis rubra M. Watanabe & Komárek SPECIES
 
 #### Status
 ACCEPTED

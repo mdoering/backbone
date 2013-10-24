@@ -1,5 +1,4 @@
-Micrhystridium combazii Playford & Wicander, 1988 SPECIES
-=======
+# Micrhystridium combazii Playford & Wicander, 1988 SPECIES
 
 #### Status
 ACCEPTED

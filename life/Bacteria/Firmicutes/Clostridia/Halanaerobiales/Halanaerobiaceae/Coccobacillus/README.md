@@ -1,5 +1,4 @@
-Coccobacillus GENUS
-=======
+# Coccobacillus GENUS
 
 #### Status
 ACCEPTED

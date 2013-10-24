@@ -1,5 +1,4 @@
-Psathyra cyclospora Massee SPECIES
-=======
+# Psathyra cyclospora Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Campylocarpon fasciculare Schroers, Halleen & Crous, 2004 SPECIES
-=======
+# Campylocarpon fasciculare Schroers, Halleen & Crous, 2004 SPECIES
 
 #### Status
 ACCEPTED

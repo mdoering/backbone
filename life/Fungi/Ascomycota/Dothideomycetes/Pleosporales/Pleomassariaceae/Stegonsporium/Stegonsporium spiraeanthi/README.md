@@ -1,5 +1,4 @@
-Stegonsporium spiraeanthi Schwarzman & Byzova SPECIES
-=======
+# Stegonsporium spiraeanthi Schwarzman & Byzova SPECIES
 
 #### Status
 ACCEPTED

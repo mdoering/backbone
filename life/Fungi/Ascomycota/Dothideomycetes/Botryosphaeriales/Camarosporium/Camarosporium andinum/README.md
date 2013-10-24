@@ -1,5 +1,4 @@
-Camarosporium andinum Speg. SPECIES
-=======
+# Camarosporium andinum Speg. SPECIES
 
 #### Status
 ACCEPTED

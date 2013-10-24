@@ -1,5 +1,4 @@
-Pyrenochaeta ligni-putridi T.N. Sieber SPECIES
-=======
+# Pyrenochaeta ligni-putridi T.N. Sieber SPECIES
 
 #### Status
 ACCEPTED

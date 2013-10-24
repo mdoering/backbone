@@ -1,5 +1,4 @@
-Rhizina zonata Berk. SPECIES
-=======
+# Rhizina zonata Berk. SPECIES
 
 #### Status
 ACCEPTED

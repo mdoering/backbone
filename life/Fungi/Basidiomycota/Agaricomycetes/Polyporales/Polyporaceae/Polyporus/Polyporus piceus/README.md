@@ -1,5 +1,4 @@
-Polyporus piceus Ces. SPECIES
-=======
+# Polyporus piceus Ces. SPECIES
 
 #### Status
 ACCEPTED

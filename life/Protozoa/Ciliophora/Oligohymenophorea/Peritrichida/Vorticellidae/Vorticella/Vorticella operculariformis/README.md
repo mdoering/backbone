@@ -1,5 +1,4 @@
-Vorticella operculariformis Foissner, 1979 SPECIES
-=======
+# Vorticella operculariformis Foissner, 1979 SPECIES
 
 #### Status
 ACCEPTED

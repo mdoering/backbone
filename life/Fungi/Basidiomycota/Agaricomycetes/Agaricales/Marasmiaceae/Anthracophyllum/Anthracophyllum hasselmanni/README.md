@@ -1,5 +1,4 @@
-Anthracophyllum hasselmanni Rick SPECIES
-=======
+# Anthracophyllum hasselmanni Rick SPECIES
 
 #### Status
 ACCEPTED

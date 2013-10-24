@@ -1,5 +1,4 @@
-Trichamoeba Fromental, 1874 GENUS
-=======
+# Trichamoeba Fromental, 1874 GENUS
 
 #### Status
 ACCEPTED

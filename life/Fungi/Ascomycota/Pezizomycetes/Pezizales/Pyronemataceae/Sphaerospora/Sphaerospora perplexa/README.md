@@ -1,5 +1,4 @@
-Sphaerospora perplexa Seaver SPECIES
-=======
+# Sphaerospora perplexa Seaver SPECIES
 
 #### Status
 ACCEPTED

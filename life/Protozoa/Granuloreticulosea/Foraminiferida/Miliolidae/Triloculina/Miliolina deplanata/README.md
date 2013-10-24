@@ -1,5 +1,4 @@
-Miliolina deplanata Rhumbler, 1906 SPECIES
-=======
+# Miliolina deplanata Rhumbler, 1906 SPECIES
 
 #### Status
 DOUBTFUL

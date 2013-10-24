@@ -1,5 +1,4 @@
-Trochila atrosanguinea Rostr. SPECIES
-=======
+# Trochila atrosanguinea Rostr. SPECIES
 
 #### Status
 ACCEPTED

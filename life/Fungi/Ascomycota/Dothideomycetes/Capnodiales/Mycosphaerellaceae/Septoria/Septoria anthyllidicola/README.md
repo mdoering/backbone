@@ -1,5 +1,4 @@
-Septoria anthyllidicola Baudy SPECIES
-=======
+# Septoria anthyllidicola Baudy SPECIES
 
 #### Status
 ACCEPTED

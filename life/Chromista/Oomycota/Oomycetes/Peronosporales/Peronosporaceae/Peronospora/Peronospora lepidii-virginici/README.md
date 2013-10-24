@@ -1,5 +1,4 @@
-Peronospora lepidii-virginici Gäum. SPECIES
-=======
+# Peronospora lepidii-virginici Gäum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavulinopsis hexaspora Corner SPECIES
-=======
+# Clavulinopsis hexaspora Corner SPECIES
 
 #### Status
 ACCEPTED

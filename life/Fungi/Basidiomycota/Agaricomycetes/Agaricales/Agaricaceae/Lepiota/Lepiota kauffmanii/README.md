@@ -1,17 +1,16 @@
-Lepiota kauffmani Zeller SPECIES
-=======
+# Lepiota kauffmanii Zeller SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 25: 381 (1933)
 
 #### Original name
-Lepiota kauffmani Zeller
+Lepiota kauffmanii Zeller
 
 ### Remarks
 null

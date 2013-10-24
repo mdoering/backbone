@@ -1,17 +1,16 @@
-Entyloma arctotheca Vánky SPECIES
-=======
+# Entyloma arctothecae Vánky, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 18(2): 322 (1983)
 
 #### Original name
-Entyloma arctotheca Vánky
+Entyloma arctothecae Vánky, 1983
 
 ### Remarks
 null

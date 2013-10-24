@@ -1,5 +1,4 @@
-Stridiporosporites dolium P. Ke & Z.Y. Shi SPECIES
-=======
+# Stridiporosporites dolium P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

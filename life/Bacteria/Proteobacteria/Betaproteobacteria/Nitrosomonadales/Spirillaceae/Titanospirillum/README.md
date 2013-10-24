@@ -1,5 +1,4 @@
-Titanospirillum Guerrero, Haselton, Solé, Wier & Margulis, 1999 GENUS
-=======
+# Titanospirillum Guerrero, Haselton, Solé, Wier & Margulis, 1999 GENUS
 
 #### Status
 ACCEPTED

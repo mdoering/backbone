@@ -1,5 +1,4 @@
-Acrothecium ebuli Brunaud SPECIES
-=======
+# Acrothecium ebuli Brunaud SPECIES
 
 #### Status
 ACCEPTED

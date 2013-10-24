@@ -1,5 +1,4 @@
-Hebeloma subzonatum Weinm. SPECIES
-=======
+# Hebeloma subzonatum Weinm. SPECIES
 
 #### Status
 ACCEPTED

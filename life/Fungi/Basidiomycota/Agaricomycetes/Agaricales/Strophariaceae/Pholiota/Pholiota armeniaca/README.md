@@ -1,5 +1,4 @@
-Pholiota armeniaca A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota armeniaca A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

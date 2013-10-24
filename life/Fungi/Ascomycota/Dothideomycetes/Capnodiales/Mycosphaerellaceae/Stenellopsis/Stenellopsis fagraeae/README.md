@@ -1,5 +1,4 @@
-Stenellopsis fagraeae B. Huguenin, 1966 SPECIES
-=======
+# Stenellopsis fagraeae B. Huguenin, 1966 SPECIES
 
 #### Status
 ACCEPTED

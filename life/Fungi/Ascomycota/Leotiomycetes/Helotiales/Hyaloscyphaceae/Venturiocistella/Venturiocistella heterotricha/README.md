@@ -1,14 +1,13 @@
-Trichodiscus heterotrichus Graddon, 1974 SPECIES
-=======
+# Venturiocistella heterotricha (Graddon) Baral, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 63(3): 484 (1974)
+Z. Mykol. 59(1): 15 (1993)
 
 #### Original name
 Trichodiscus heterotrichus Graddon, 1974

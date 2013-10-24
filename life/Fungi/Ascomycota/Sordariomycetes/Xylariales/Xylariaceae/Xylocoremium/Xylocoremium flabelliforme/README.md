@@ -1,14 +1,13 @@
-Xylaria flabelliformis (Schwein.) Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Xylocoremium flabelliforme (Schwein.) J.D. Rogers, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 381 (1868)
+Mycologia 76(5): 914 (1984)
 
 #### Original name
 Sphaeria flabelliformis Schwein., 1828

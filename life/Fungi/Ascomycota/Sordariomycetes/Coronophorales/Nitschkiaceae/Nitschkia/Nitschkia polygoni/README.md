@@ -1,5 +1,4 @@
-Nitschkia polygoni Tehon & E.Y. Daniels SPECIES
-=======
+# Nitschkia polygoni Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia vernicis Müll. Arg. SPECIES
-=======
+# Arthonia vernicis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetraporina foraminulosa Kondratyev, 1963 SPECIES
-=======
+# Tetraporina foraminulosa Kondratyev, 1963 SPECIES
 
 #### Status
 ACCEPTED

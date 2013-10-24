@@ -1,5 +1,4 @@
-Thelephora rosella Peck SPECIES
-=======
+# Thelephora rosella Peck SPECIES
 
 #### Status
 ACCEPTED

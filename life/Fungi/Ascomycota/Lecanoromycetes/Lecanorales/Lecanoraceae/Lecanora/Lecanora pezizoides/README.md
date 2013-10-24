@@ -1,5 +1,4 @@
-Lecanora pezizoides (Baumg.) Borrer SPECIES
-=======
+# Lecanora pezizoides (Baumg.) Borrer SPECIES
 
 #### Status
 ACCEPTED

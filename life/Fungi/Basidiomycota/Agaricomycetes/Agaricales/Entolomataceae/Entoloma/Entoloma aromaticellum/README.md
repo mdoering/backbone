@@ -1,5 +1,4 @@
-Entoloma aromaticellum E. Horak, 2008 SPECIES
-=======
+# Entoloma aromaticellum E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

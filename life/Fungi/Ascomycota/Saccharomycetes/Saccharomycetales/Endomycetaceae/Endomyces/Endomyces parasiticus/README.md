@@ -1,5 +1,4 @@
-Endomyces parasiticus Fayod SPECIES
-=======
+# Endomyces parasiticus Fayod SPECIES
 
 #### Status
 ACCEPTED

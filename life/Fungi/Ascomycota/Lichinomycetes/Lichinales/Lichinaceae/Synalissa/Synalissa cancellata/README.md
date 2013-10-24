@@ -1,5 +1,4 @@
-Synalissa cancellata F. Wilson SPECIES
-=======
+# Synalissa cancellata F. Wilson SPECIES
 
 #### Status
 ACCEPTED

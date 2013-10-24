@@ -1,5 +1,4 @@
-Rinodina iowensis Zahlbr. SPECIES
-=======
+# Rinodina iowensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

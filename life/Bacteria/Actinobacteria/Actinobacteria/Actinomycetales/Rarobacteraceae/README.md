@@ -1,5 +1,4 @@
-Rarobacteraceae FAMILY
-=======
+# Rarobacteraceae FAMILY
 
 #### Status
 ACCEPTED

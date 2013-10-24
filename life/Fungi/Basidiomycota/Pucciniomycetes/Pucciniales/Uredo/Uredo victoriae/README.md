@@ -1,5 +1,4 @@
-Uredo victoriae Cummins SPECIES
-=======
+# Uredo victoriae Cummins SPECIES
 
 #### Status
 ACCEPTED

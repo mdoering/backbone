@@ -1,17 +1,16 @@
-Roussoëlla calamicola J. Fröhl., K.D. Hyde & Aptroot SPECIES
-=======
+# Roussoella calamicola J. Fröhl., K.D. Hyde & Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hyde, Aptroot, Fröhlich & Taylor, Nova Hedwigia 69(3-4): 466 (1999)
 
 #### Original name
-Roussoëlla calamicola J. Fröhl., K.D. Hyde & Aptroot
+Roussoella calamicola J. Fröhl., K.D. Hyde & Aptroot
 
 ### Remarks
 null

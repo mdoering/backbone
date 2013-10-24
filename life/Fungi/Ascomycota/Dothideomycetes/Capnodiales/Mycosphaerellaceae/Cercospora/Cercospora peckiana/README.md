@@ -1,5 +1,4 @@
-Cercospora peckiana Chupp SPECIES
-=======
+# Cercospora peckiana Chupp SPECIES
 
 #### Status
 ACCEPTED

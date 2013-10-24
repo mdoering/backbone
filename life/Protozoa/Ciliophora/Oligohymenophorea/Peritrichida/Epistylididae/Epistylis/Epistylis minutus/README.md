@@ -1,5 +1,4 @@
-Epistylis minutus SPECIES
-=======
+# Epistylis minutus SPECIES
 
 #### Status
 ACCEPTED

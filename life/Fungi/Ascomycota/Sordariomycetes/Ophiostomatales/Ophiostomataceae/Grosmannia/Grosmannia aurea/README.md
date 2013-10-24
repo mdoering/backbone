@@ -1,14 +1,13 @@
-Ophiostoma aureum (Rob.-Jeffr. & R.W. Davidson) T.C. Harr., 1987 SPECIES
-=======
+# Grosmannia aurea (Rob.-Jeffr. & R.W. Davidson) Zipfel, Z.W. de Beer & M.J. Wingf., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 28(1): 41 (1987)
+in Zipfel, Beer, Jacobs, Wingfield & Wingfield, Stud. Mycol. 55: 89 (2006)
 
 #### Original name
 Europhium aureum Rob.-Jeffr. & R.W. Davidson, 1968

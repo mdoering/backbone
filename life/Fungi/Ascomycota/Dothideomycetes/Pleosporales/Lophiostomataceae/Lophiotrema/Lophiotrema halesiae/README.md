@@ -1,5 +1,4 @@
-Lophiotrema halesiae Fairm. SPECIES
-=======
+# Lophiotrema halesiae Fairm. SPECIES
 
 #### Status
 ACCEPTED

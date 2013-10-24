@@ -1,5 +1,4 @@
-Sphaeronaema pruinosum Berk. & M.A. Curtis, 1874 SPECIES
-=======
+# Sphaeronaema pruinosum Berk. & M.A. Curtis, 1874 SPECIES
 
 #### Status
 ACCEPTED

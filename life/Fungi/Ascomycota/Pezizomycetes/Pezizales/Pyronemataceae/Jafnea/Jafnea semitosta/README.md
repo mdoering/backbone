@@ -1,5 +1,4 @@
-Jafnea semitosta (Berk. & M.A. Curtis) Korf SPECIES
-=======
+# Jafnea semitosta (Berk. & M.A. Curtis) Korf SPECIES
 
 #### Status
 ACCEPTED

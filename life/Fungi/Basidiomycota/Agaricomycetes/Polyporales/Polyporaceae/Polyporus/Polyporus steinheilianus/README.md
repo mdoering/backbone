@@ -1,5 +1,4 @@
-Polyporus steinheilianus Berk. & Lév. SPECIES
-=======
+# Polyporus steinheilianus Berk. & Lév. SPECIES
 
 #### Status
 ACCEPTED

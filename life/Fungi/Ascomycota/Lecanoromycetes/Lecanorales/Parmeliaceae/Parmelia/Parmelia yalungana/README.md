@@ -1,5 +1,4 @@
-Parmelia yalungana Zahlbr. SPECIES
-=======
+# Parmelia yalungana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

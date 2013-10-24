@@ -1,5 +1,4 @@
-Paragonostomum caudatum Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Paragonostomum caudatum Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

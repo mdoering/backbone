@@ -1,5 +1,4 @@
-Cylindrosporium ephedrae Golovin SPECIES
-=======
+# Cylindrosporium ephedrae Golovin SPECIES
 
 #### Status
 ACCEPTED

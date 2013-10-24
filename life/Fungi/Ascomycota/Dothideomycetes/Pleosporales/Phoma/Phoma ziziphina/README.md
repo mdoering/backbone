@@ -1,17 +1,16 @@
-Phoma zizyphina Pat. SPECIES
-=======
+# Phoma ziziphina Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 2: 78 (1948)
 
 #### Original name
-Phoma zizyphina Pat.
+Phoma ziziphina Pat.
 
 ### Remarks
 null

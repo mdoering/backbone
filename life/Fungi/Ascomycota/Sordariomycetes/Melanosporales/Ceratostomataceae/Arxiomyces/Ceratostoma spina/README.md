@@ -1,5 +1,4 @@
-Ceratostoma spina (Schwein.) Sacc. SPECIES
-=======
+# Ceratostoma spina (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

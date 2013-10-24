@@ -1,5 +1,4 @@
-Aspicilia distincta Britzelm. SPECIES
-=======
+# Aspicilia distincta Britzelm. SPECIES
 
 #### Status
 ACCEPTED

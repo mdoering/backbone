@@ -1,5 +1,4 @@
-Amanita xerocybe Bas SPECIES
-=======
+# Amanita xerocybe Bas SPECIES
 
 #### Status
 ACCEPTED

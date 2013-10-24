@@ -1,5 +1,4 @@
-Psilocybe zonalis Velen. SPECIES
-=======
+# Psilocybe zonalis Velen. SPECIES
 
 #### Status
 ACCEPTED

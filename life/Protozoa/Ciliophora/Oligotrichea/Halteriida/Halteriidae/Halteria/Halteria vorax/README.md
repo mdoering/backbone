@@ -1,5 +1,4 @@
-Halteria vorax (Ehrenberg, 1831) Fromentel, 1876 SPECIES
-=======
+# Halteria vorax (Ehrenberg, 1831) Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

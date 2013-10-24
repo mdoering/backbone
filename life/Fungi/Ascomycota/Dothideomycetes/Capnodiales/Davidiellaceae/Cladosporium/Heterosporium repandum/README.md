@@ -1,5 +1,4 @@
-Heterosporium repandum Ferd. & Winge SPECIES
-=======
+# Heterosporium repandum Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

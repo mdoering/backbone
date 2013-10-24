@@ -1,5 +1,4 @@
-Periconia citharexyli Henn. SPECIES
-=======
+# Periconia citharexyli Henn. SPECIES
 
 #### Status
 ACCEPTED

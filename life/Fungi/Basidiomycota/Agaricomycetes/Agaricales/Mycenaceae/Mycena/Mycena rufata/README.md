@@ -1,5 +1,4 @@
-Mycena rufata Berk. SPECIES
-=======
+# Mycena rufata Berk. SPECIES
 
 #### Status
 ACCEPTED

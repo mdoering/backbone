@@ -1,5 +1,4 @@
-Helmisporium graminum Brond. SPECIES
-=======
+# Helmisporium graminum Brond. SPECIES
 
 #### Status
 ACCEPTED

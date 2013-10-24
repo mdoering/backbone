@@ -1,5 +1,4 @@
-Ainsworthia negeriana (Sacc., Syd. & P. Syd.) Bat. & Cif. SPECIES
-=======
+# Ainsworthia negeriana (Sacc., Syd. & P. Syd.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

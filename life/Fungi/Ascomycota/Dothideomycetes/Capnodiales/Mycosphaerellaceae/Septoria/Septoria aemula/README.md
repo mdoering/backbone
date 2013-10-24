@@ -1,5 +1,4 @@
-Septoria aemula Tassi SPECIES
-=======
+# Septoria aemula Tassi SPECIES
 
 #### Status
 ACCEPTED

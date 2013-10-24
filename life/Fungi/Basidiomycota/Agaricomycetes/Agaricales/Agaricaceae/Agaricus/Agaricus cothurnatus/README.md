@@ -1,5 +1,4 @@
-Agaricus cothurnatus Peck SPECIES
-=======
+# Agaricus cothurnatus Peck SPECIES
 
 #### Status
 ACCEPTED

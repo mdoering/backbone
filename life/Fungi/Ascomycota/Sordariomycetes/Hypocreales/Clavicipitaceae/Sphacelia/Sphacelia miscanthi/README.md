@@ -1,5 +1,4 @@
-Sphacelia miscanthi Henn. SPECIES
-=======
+# Sphacelia miscanthi Henn. SPECIES
 
 #### Status
 ACCEPTED

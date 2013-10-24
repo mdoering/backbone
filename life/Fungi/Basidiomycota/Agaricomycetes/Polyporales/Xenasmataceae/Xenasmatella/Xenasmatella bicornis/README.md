@@ -1,5 +1,4 @@
-Xenasmatella bicornis (Boidin & Duhem) Piatek SPECIES
-=======
+# Xenasmatella bicornis (Boidin & Duhem) Piatek SPECIES
 
 #### Status
 ACCEPTED

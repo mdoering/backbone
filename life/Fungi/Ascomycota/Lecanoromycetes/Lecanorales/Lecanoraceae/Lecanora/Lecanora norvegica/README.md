@@ -1,5 +1,4 @@
-Lecanora norvegica Tønsberg SPECIES
-=======
+# Lecanora norvegica Tønsberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea tetrasticha (Nyl.) Hue SPECIES
-=======
+# Lecidea tetrasticha (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

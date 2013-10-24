@@ -1,5 +1,4 @@
-Asterina tetrazygiicola Ahn & J.L. Crane, 2004 SPECIES
-=======
+# Asterina tetrazygiicola Ahn & J.L. Crane, 2004 SPECIES
 
 #### Status
 ACCEPTED

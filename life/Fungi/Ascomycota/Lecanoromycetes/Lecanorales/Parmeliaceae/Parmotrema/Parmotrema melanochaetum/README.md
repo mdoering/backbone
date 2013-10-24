@@ -1,5 +1,4 @@
-Parmotrema melanochaetum (Kurok.) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
-=======
+# Parmotrema melanochaetum (Kurok.) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

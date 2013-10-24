@@ -1,17 +1,16 @@
-Puccinia boerhaviaefoliae Thirum. SPECIES
-=======
+# Puccinia boerhaviifoliae Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 37(3): 304 (1945)
 
 #### Original name
-Puccinia boerhaviaefoliae Thirum.
+Puccinia boerhaviifoliae Thirum.
 
 ### Remarks
 null

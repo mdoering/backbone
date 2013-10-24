@@ -1,5 +1,4 @@
-Streptomyces chrysomallus subsp. chrysomallus SUBSPECIES
-=======
+# Streptomyces chrysomallus Lindenbein, 1952 SPECIES
 
 #### Status
 ACCEPTED

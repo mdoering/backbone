@@ -1,5 +1,4 @@
-Delosina polymorphinoides Earland SPECIES
-=======
+# Delosina polymorphinoides Earland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea subrectangulata Chao {?}, Hsa {?} & Sun {?} SPECIES
-=======
+# Usnea subrectangulata Chao {?}, Hsa {?} & Sun {?} SPECIES
 
 #### Status
 ACCEPTED

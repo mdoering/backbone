@@ -1,5 +1,4 @@
-Graphina pseudophlyctis var. pseudophlyctis VARIETY
-=======
+# Graphina pseudophlyctis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphina pseudophlyctis var. pseudophlyctis
+Graphis pseudophlyctis Nyl.
 
 ### Remarks
 null

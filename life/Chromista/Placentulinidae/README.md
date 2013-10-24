@@ -1,5 +1,4 @@
-Placentulinidae Kasimova, Poroshina & Geodakchan, 1980 FAMILY
-=======
+# Placentulinidae Kasimova, Poroshina & Geodakchan, 1980 FAMILY
 
 #### Status
 ACCEPTED

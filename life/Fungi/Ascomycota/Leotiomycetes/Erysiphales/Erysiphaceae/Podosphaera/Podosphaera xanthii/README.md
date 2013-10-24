@@ -1,17 +1,16 @@
-Oidium citrulli J.M. Yen & Chin C. Wang, 1973 SPECIES
-=======
+# Podosphaera xanthii (Castagne) U. Braun & Shishkoff, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 37(3): 135 (1973)
+in Braun & Takamatsu, Schlechtendalia 4: 31 (2000)
 
 #### Original name
-Oidium citrulli J.M. Yen & Chin C. Wang, 1973
+Erysiphe xanthii Castagne, 1845
 
 ### Remarks
 null

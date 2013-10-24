@@ -1,5 +1,4 @@
-Microthecium phoenicis Maire SPECIES
-=======
+# Microthecium phoenicis Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium bataticola Khokhr. & Dyur. SPECIES
-=======
+# Coniothyrium bataticola Khokhr. & Dyur. SPECIES
 
 #### Status
 ACCEPTED

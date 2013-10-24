@@ -1,5 +1,4 @@
-Entoloma porphyrium (Berk. & Broome) A.M. Young SPECIES
-=======
+# Entoloma porphyrium (Berk. & Broome) A.M. Young SPECIES
 
 #### Status
 ACCEPTED

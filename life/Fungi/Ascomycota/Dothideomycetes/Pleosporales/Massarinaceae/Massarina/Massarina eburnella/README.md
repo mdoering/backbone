@@ -1,5 +1,4 @@
-Massarina eburnella Sacc. SPECIES
-=======
+# Massarina eburnella Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea rusticorum Stizenb. SPECIES
-=======
+# Lecidea rusticorum Stizenb. SPECIES
 
 #### Status
 ACCEPTED

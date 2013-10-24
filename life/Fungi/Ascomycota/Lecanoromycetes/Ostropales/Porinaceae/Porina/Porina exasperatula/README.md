@@ -1,5 +1,4 @@
-Porina exasperatula Vain. SPECIES
-=======
+# Porina exasperatula Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Strickera megastega (Ellis & Everh.) Kuntze SPECIES
-=======
+# Teichospora megastega Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. , 1890 42: 243 (1890)
 
 #### Original name
 Teichospora megastega Ellis & Everh.

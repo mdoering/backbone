@@ -1,5 +1,4 @@
-Leptorhaphis straminea (Eschw.) Zahlbr. SPECIES
-=======
+# Leptorhaphis straminea (Eschw.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

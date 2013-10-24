@@ -1,5 +1,4 @@
-Meliola makilingiana Syd. & P. Syd. SPECIES
-=======
+# Meliola makilingiana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon atlanticus Coker & Doidge SPECIES
-=======
+# Rhizopogon atlanticus Coker & Doidge SPECIES
 
 #### Status
 ACCEPTED

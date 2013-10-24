@@ -1,5 +1,4 @@
-Stagonospora musae (Cooke) Sacc. SPECIES
-=======
+# Stagonospora musae (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochrobactrum intermedium Velasco et al., 1998 SPECIES
-=======
+# Ochrobactrum intermedium Velasco et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

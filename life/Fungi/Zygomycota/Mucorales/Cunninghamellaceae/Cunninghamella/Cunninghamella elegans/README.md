@@ -1,14 +1,13 @@
-Cunninghamella echinulata var. elegans (Lendn.) Lunn & Shipton, 1983 VARIETY
-=======
+# Cunninghamella elegans Lendn., 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 81(2): 312 (1983)
+Bull. Herb. Boissier, 2 sér. 5: 250 (1905)
 
 #### Original name
 Cunninghamella elegans Lendn., 1905

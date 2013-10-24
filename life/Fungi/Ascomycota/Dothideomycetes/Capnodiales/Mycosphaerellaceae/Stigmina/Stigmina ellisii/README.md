@@ -1,5 +1,4 @@
-Stigmina ellisii M.B. Ellis SPECIES
-=======
+# Stigmina ellisii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

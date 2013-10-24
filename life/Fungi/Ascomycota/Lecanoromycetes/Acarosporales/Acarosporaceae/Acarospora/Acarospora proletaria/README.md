@@ -1,5 +1,4 @@
-Acarospora proletaria H. Magn. SPECIES
-=======
+# Acarospora proletaria H. Magn. SPECIES
 
 #### Status
 ACCEPTED

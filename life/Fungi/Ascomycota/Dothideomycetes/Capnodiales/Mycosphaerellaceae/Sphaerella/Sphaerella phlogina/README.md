@@ -1,5 +1,4 @@
-Sphaerella phlogina Ellis & Everh. SPECIES
-=======
+# Sphaerella phlogina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

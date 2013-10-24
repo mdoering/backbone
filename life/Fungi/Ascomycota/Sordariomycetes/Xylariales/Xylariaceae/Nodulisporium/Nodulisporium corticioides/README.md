@@ -1,14 +1,13 @@
-Geniculosporium corticioides (Ferraris & Sacc.) de Hoog, 1977 SPECIES
-=======
+# Nodulisporium corticioides (Ferraris & Sacc.) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 15: 198 (1977)
+Can. J. Bot. 36: 789 (1958)
 
 #### Original name
 Haplaria corticioides Ferraris & Sacc., 1902

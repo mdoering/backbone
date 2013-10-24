@@ -1,5 +1,4 @@
-Ramularia pachysandrae U. Braun SPECIES
-=======
+# Ramularia pachysandrae U. Braun SPECIES
 
 #### Status
 ACCEPTED

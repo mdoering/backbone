@@ -1,5 +1,4 @@
-Nocardia nova Tsukamura, 1983 SPECIES
-=======
+# Nocardia nova Tsukamura, 1983 SPECIES
 
 #### Status
 ACCEPTED

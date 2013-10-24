@@ -1,5 +1,4 @@
-Badhamia fasciculata (Jungh.) Rostaf. SPECIES
-=======
+# Badhamia fasciculata (Jungh.) Rostaf. SPECIES
 
 #### Status
 ACCEPTED

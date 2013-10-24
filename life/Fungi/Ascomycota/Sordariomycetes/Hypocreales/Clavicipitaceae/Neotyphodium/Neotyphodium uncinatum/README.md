@@ -1,14 +1,13 @@
-Acremonium uncinatum W. Gams, Petrini & D. Schmidt, 1990 SPECIES
-=======
+# Neotyphodium uncinatum (W. Gams, Petrini & D. Schmidt) Glenn, C.W. Bacon & Hanlin, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 37: 68 (1990)
+in Glenn, Bacon, Price & Hanlin, Mycologia 88(3): 378 (1996)
 
 #### Original name
 Acremonium uncinatum W. Gams, Petrini & D. Schmidt, 1990

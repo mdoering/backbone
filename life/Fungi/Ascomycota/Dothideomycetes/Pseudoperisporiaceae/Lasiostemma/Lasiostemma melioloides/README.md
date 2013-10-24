@@ -1,14 +1,13 @@
-Dimeriella melioloides Berk. & Ravenel SPECIES
-=======
+# Lasiostemma melioloides (Berk. & Ravenel) Theiss., Syd. & P. Syd., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sydow & Sydow, Annls mycol. 15(3/4): 218 (1917)
 
 #### Original name
 Dimeriella melioloides Berk. & Ravenel

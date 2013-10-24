@@ -1,5 +1,4 @@
-Arthonia austinii Willey SPECIES
-=======
+# Arthonia austinii Willey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyanisticta GENUS
-=======
+# Cyanisticta GENUS
 
 #### Status
 ACCEPTED

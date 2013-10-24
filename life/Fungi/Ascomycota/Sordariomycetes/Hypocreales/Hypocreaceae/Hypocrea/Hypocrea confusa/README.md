@@ -1,5 +1,4 @@
-Hypocrea confusa Petch SPECIES
-=======
+# Hypocrea confusa Petch SPECIES
 
 #### Status
 ACCEPTED

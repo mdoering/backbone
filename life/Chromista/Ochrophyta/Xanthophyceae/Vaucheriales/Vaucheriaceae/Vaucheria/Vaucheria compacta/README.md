@@ -1,8 +1,7 @@
-Vaucheria sphaerospora var. dioica Rosenvinge VARIETY
-=======
+# Vaucheria compacta (F.S. Collins) F.S. Collins ex W.R. Taylor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

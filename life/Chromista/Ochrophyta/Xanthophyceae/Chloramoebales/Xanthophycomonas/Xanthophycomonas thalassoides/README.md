@@ -1,5 +1,4 @@
-Xanthophycomonas thalassoides (R. Scagel & J. Stein) R. Scagel & J. Stein SPECIES
-=======
+# Xanthophycomonas thalassoides (R. Scagel & J. Stein) R. Scagel & J. Stein SPECIES
 
 #### Status
 ACCEPTED

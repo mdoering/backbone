@@ -1,5 +1,4 @@
-Ophiobolus rechingeri Petr. SPECIES
-=======
+# Ophiobolus rechingeri Petr. SPECIES
 
 #### Status
 ACCEPTED

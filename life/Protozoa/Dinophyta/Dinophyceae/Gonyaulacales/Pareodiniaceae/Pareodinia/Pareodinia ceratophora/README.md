@@ -1,5 +1,4 @@
-Pareodinia ceratophora Deflandre, 1947 SPECIES
-=======
+# Pareodinia ceratophora Deflandre, 1947 SPECIES
 
 #### Status
 ACCEPTED

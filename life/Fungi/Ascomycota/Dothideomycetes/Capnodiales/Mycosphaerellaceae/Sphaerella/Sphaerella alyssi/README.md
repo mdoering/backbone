@@ -1,5 +1,4 @@
-Sphaerella alyssi Hollós SPECIES
-=======
+# Sphaerella alyssi Hollós SPECIES
 
 #### Status
 ACCEPTED

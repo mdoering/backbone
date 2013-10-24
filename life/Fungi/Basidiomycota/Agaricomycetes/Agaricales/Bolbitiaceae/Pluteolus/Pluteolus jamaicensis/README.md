@@ -1,5 +1,4 @@
-Pluteolus jamaicensis Murrill SPECIES
-=======
+# Pluteolus jamaicensis Murrill SPECIES
 
 #### Status
 ACCEPTED

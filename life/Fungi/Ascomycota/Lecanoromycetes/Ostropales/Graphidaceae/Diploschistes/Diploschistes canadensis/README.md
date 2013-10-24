@@ -1,5 +1,4 @@
-Diploschistes canadensis Räsänen SPECIES
-=======
+# Diploschistes canadensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

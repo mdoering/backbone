@@ -1,14 +1,13 @@
-Golovinomyces hydrophyllaceorum (U. Braun) V.P. Heluta SPECIES
-=======
+# Golovinomyces hydrophyllacearum (U. Braun) V.P. Heluta SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ukr. bot. Zh. 45(5): 62 (1988)
 
 #### Original name
 Erysiphe hydrophyllacearum U. Braun

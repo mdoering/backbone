@@ -1,5 +1,4 @@
-Cercospora helicteris Syd. & P. Syd. SPECIES
-=======
+# Cercospora helicteris Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

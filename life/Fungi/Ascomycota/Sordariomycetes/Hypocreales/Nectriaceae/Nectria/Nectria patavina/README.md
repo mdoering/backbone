@@ -1,5 +1,4 @@
-Nectria patavina (Sacc.) Rossman SPECIES
-=======
+# Nectria patavina (Sacc.) Rossman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coriolus nigrescens P. Karst. SPECIES
-=======
+# Coriolus nigrescens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

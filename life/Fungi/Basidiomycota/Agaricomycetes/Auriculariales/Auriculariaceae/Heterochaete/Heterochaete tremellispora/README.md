@@ -1,5 +1,4 @@
-Heterochaete tremellispora (F.H. Møller) Bodman SPECIES
-=======
+# Heterochaete tremellispora (F.H. Møller) Bodman SPECIES
 
 #### Status
 ACCEPTED

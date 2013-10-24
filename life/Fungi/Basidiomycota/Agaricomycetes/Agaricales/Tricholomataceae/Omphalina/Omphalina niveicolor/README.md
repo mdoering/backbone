@@ -1,5 +1,4 @@
-Omphalina niveicolor Murrill SPECIES
-=======
+# Omphalina niveicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

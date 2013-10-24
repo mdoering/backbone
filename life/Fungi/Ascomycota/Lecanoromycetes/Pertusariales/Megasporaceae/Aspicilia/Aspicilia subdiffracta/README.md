@@ -1,5 +1,4 @@
-Aspicilia subdiffracta (H. Magn.) J.C. Wei SPECIES
-=======
+# Aspicilia subdiffracta (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius laccarioides Miyauchi SPECIES
-=======
+# Cortinarius laccarioides Miyauchi SPECIES
 
 #### Status
 ACCEPTED

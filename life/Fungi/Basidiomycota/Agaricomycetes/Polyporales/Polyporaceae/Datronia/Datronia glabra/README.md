@@ -1,5 +1,4 @@
-Datronia glabra Ryvarden, 1987 SPECIES
-=======
+# Datronia glabra Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED

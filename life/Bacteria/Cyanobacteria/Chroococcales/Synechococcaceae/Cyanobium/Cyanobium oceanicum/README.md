@@ -1,5 +1,4 @@
-Cyanobium oceanicum (Hall & Claus) J. Komárek, J. Kopeck & V. Cepák SPECIES
-=======
+# Cyanobium oceanicum (Hall & Claus) J. Komárek, J. Kopeck & V. Cepák SPECIES
 
 #### Status
 ACCEPTED

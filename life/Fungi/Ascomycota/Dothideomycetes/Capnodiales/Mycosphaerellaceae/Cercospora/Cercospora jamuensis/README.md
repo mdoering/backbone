@@ -1,5 +1,4 @@
-Cercospora jamuensis Pandotra SPECIES
-=======
+# Cercospora jamuensis Pandotra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptovalsa suadicola Spooner SPECIES
-=======
+# Cryptovalsa suadicola Spooner SPECIES
 
 #### Status
 ACCEPTED

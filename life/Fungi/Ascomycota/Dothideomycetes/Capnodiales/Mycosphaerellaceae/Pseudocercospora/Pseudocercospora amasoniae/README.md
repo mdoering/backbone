@@ -1,17 +1,16 @@
-Pseudocercospora amazoniae U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora amasoniae U. Braun & F.O. Freire SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. Mycol. 25(3): 226 (2004)
 
 #### Original name
-Pseudocercospora amazoniae U. Braun & F.O. Freire
+Pseudocercospora amasoniae U. Braun & F.O. Freire
 
 ### Remarks
 null

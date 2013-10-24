@@ -1,5 +1,4 @@
-Diporicellaesporites papillatus Kalgutkar SPECIES
-=======
+# Diporicellaesporites papillatus Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

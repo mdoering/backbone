@@ -1,5 +1,4 @@
-Urceolaria choroleuca Tuck. SPECIES
-=======
+# Urceolaria choroleuca Tuck. SPECIES
 
 #### Status
 ACCEPTED

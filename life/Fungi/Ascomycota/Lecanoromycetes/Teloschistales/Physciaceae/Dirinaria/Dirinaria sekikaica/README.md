@@ -1,5 +1,4 @@
-Dirinaria sekikaica Elix SPECIES
-=======
+# Dirinaria sekikaica Elix SPECIES
 
 #### Status
 ACCEPTED

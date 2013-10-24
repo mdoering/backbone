@@ -1,5 +1,4 @@
-Mycena subceracea A.H. Sm. & Solheim SPECIES
-=======
+# Mycena subceracea A.H. Sm. & Solheim SPECIES
 
 #### Status
 ACCEPTED

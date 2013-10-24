@@ -1,5 +1,4 @@
-Endoptychum kolya Grgur., 1997 SPECIES
-=======
+# Endoptychum kolya Grgur., 1997 SPECIES
 
 #### Status
 ACCEPTED

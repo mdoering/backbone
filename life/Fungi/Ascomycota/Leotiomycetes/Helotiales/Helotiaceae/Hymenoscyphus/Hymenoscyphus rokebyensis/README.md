@@ -1,14 +1,13 @@
-Helotium rokebyense Svrcek, 1962 SPECIES
-=======
+# Hymenoscyphus rokebyensis (Svrcek) Matheis, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 16: 113 (1962)
+Mitt. thurgau. naturf. Ges. 43: 157 (1979)
 
 #### Original name
 Helotium rokebyense Svrcek, 1962

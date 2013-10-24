@@ -1,5 +1,4 @@
-Macmillanina hippocastani (Cooke) Kuntze SPECIES
-=======
+# Macmillanina hippocastani (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thiobaca Rees et al., 2002 GENUS
-=======
+# Thiobaca Rees et al., 2002 GENUS
 
 #### Status
 ACCEPTED

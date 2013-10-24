@@ -1,5 +1,4 @@
-Microthyrium alsodeiae Henn. SPECIES
-=======
+# Microthyrium alsodeiae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrgo depressa SPECIES
-=======
+# Pyrgo depressa SPECIES
 
 #### Status
 ACCEPTED

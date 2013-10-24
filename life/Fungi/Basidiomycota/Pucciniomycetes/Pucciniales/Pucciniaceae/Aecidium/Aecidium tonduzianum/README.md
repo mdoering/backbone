@@ -1,5 +1,4 @@
-Aecidium tonduzianum Speg. SPECIES
-=======
+# Aecidium tonduzianum Speg. SPECIES
 
 #### Status
 ACCEPTED

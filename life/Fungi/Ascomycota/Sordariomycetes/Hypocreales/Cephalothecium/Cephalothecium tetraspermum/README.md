@@ -1,5 +1,4 @@
-Cephalothecium tetraspermum Richon SPECIES
-=======
+# Cephalothecium tetraspermum Richon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroloculina tenuiseptata Brady, 1884 SPECIES
-=======
+# Spiroloculina tenuiseptata Brady, 1884 SPECIES
 
 #### Status
 ACCEPTED

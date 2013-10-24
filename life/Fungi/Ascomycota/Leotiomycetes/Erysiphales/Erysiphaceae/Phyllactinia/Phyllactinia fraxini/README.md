@@ -1,5 +1,4 @@
-Phyllactinia fraxini (DC.) Fuss, 1878 SPECIES
-=======
+# Phyllactinia fraxini (DC.) Fuss, 1878 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uleiella J. Schröt. GENUS
-=======
+# Uleiella J. Schröt. GENUS
 
 #### Status
 ACCEPTED

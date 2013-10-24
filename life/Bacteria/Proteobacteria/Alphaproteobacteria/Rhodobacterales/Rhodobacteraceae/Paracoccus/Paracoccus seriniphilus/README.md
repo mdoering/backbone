@@ -1,5 +1,4 @@
-Paracoccus seriniphilus Pukall et al., 2003 SPECIES
-=======
+# Paracoccus seriniphilus Pukall et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

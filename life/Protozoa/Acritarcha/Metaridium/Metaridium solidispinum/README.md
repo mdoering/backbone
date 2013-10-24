@@ -1,5 +1,4 @@
-Metaridium solidispinum Riding, Matthews, Miles & Wolfard, 1998 SPECIES
-=======
+# Metaridium solidispinum Riding, Matthews, Miles & Wolfard, 1998 SPECIES
 
 #### Status
 ACCEPTED

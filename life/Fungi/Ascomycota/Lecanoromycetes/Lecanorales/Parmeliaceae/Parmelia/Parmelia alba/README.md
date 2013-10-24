@@ -1,5 +1,4 @@
-Parmelia alba Fée SPECIES
-=======
+# Parmelia alba Fée SPECIES
 
 #### Status
 ACCEPTED

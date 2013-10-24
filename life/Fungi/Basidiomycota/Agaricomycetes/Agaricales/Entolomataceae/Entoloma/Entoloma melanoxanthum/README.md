@@ -1,5 +1,4 @@
-Entoloma melanoxanthum E. Horak SPECIES
-=======
+# Entoloma melanoxanthum E. Horak SPECIES
 
 #### Status
 ACCEPTED

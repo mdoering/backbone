@@ -1,5 +1,4 @@
-Phragmidium incompletum Barclay SPECIES
-=======
+# Phragmidium incompletum Barclay SPECIES
 
 #### Status
 ACCEPTED

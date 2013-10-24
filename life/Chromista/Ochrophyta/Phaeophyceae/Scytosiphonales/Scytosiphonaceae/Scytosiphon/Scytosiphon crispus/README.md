@@ -1,5 +1,4 @@
-Scytosiphon crispus Skottsberg SPECIES
-=======
+# Scytosiphon crispus Skottsberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium quitense Syd. SPECIES
-=======
+# Cladosporium quitense Syd. SPECIES
 
 #### Status
 ACCEPTED

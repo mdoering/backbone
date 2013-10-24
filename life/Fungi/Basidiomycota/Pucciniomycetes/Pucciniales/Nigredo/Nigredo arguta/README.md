@@ -1,5 +1,4 @@
-Nigredo arguta (F. Kern) Arthur SPECIES
-=======
+# Nigredo arguta (F. Kern) Arthur SPECIES
 
 #### Status
 ACCEPTED

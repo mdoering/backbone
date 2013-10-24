@@ -1,5 +1,4 @@
-Spirillina tuberosa Carter, 1958 SPECIES
-=======
+# Spirillina tuberosa Carter, 1958 SPECIES
 
 #### Status
 ACCEPTED

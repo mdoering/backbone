@@ -1,14 +1,13 @@
-Septoriopsis leptosperma (Peck) Davis, 1922 SPECIES
-=======
+# Pseudocercosporella leptosperma (Peck) U. Braun, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Wis. Acad. Sci. Arts Lett. 20: 401 (1922)
+Monogr. Cercosporella, Ramularia Allied Genera (Phytopath. Hyphom. ) 1: 143 (1995)
 
 #### Original name
 Cercospora leptosperma Peck, 1878

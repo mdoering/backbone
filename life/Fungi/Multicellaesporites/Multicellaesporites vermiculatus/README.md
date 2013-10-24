@@ -1,5 +1,4 @@
-Multicellaesporites vermiculatus P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites vermiculatus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

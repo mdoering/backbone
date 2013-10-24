@@ -1,5 +1,4 @@
-Terfezia zeynebiae Harkn. SPECIES
-=======
+# Terfezia zeynebiae Harkn. SPECIES
 
 #### Status
 ACCEPTED

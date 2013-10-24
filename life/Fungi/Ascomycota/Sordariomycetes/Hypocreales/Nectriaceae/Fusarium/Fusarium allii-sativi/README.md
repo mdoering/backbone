@@ -1,5 +1,4 @@
-Fusarium allii-sativi Allesch. SPECIES
-=======
+# Fusarium allii-sativi Allesch. SPECIES
 
 #### Status
 ACCEPTED

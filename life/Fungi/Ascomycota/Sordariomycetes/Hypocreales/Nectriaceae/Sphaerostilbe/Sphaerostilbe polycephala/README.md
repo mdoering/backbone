@@ -1,5 +1,4 @@
-Sphaerostilbe polycephala Maubl. & Roger SPECIES
-=======
+# Sphaerostilbe polycephala Maubl. & Roger SPECIES
 
 #### Status
 ACCEPTED

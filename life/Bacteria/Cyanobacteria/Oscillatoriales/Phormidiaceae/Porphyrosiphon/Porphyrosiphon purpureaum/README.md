@@ -1,5 +1,4 @@
-Porphyrosiphon purpureaum SPECIES
-=======
+# Porphyrosiphon purpureaum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria abjecta Wallr. SPECIES
-=======
+# Sphaeria abjecta Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kabatiella gleditschiae Negru SPECIES
-=======
+# Kabatiella gleditschiae Negru SPECIES
 
 #### Status
 ACCEPTED

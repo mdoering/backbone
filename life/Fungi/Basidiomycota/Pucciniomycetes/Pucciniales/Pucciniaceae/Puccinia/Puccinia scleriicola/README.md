@@ -1,5 +1,4 @@
-Puccinia scleriicola Arthur SPECIES
-=======
+# Puccinia scleriicola Arthur SPECIES
 
 #### Status
 ACCEPTED

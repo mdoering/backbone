@@ -1,5 +1,4 @@
-Guepinia crassipes Mont. SPECIES
-=======
+# Guepinia crassipes Mont. SPECIES
 
 #### Status
 ACCEPTED

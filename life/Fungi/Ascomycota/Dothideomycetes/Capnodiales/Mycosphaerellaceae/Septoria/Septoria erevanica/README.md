@@ -1,5 +1,4 @@
-Septoria erevanica D.N. Babajan & Simonyan SPECIES
-=======
+# Septoria erevanica D.N. Babajan & Simonyan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella myriadea Cooke, 1890 SPECIES
-=======
+# Asteromella myriadea Cooke, 1890 SPECIES
 
 #### Status
 ACCEPTED

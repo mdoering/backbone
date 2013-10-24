@@ -1,5 +1,4 @@
-Phomopsis scutiae (Speg.) Aa SPECIES
-=======
+# Phomopsis scutiae (Speg.) Aa SPECIES
 
 #### Status
 ACCEPTED

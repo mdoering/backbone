@@ -1,5 +1,4 @@
-Otidea purpurea (M. Zang) Korf & W.Y. Zhuang SPECIES
-=======
+# Otidea purpurea (M. Zang) Korf & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

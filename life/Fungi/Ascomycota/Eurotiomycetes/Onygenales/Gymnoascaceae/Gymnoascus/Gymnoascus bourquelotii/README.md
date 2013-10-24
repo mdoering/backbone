@@ -1,5 +1,4 @@
-Gymnoascus bourquelotii Boud. SPECIES
-=======
+# Gymnoascus bourquelotii Boud. SPECIES
 
 #### Status
 ACCEPTED

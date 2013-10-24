@@ -1,5 +1,4 @@
-Ceratosporium rilstonei S. Hughes, 1951 SPECIES
-=======
+# Ceratosporium rilstonei S. Hughes, 1951 SPECIES
 
 #### Status
 ACCEPTED

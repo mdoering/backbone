@@ -1,5 +1,4 @@
-Gyrophora lecanocarpoides (Nyl.) SPECIES
-=======
+# Gyrophora lecanocarpoides (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

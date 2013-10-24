@@ -1,5 +1,4 @@
-Asterella himantia (Pers.) Sacc. SPECIES
-=======
+# Asterella himantia (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

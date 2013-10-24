@@ -1,5 +1,4 @@
-Paulomyces F.W. Sommer in F.W. Lange, 1954 GENUS
-=======
+# Paulomyces F.W. Sommer in F.W. Lange, 1954 GENUS
 
 #### Status
 ACCEPTED

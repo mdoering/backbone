@@ -1,5 +1,4 @@
-Tricholoma fuliginea Beeli SPECIES
-=======
+# Tricholoma fuliginea Beeli SPECIES
 
 #### Status
 ACCEPTED

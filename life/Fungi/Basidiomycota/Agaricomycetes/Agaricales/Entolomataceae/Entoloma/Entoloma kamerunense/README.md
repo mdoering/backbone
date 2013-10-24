@@ -1,5 +1,4 @@
-Entoloma kamerunense Bres. SPECIES
-=======
+# Entoloma kamerunense Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium verbesinae Schwein. SPECIES
-=======
+# Aecidium verbesinae Schwein. SPECIES
 
 #### Status
 ACCEPTED

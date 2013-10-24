@@ -1,5 +1,4 @@
-Leptothyrium dendrocalami Sawada SPECIES
-=======
+# Leptothyrium dendrocalami Sawada SPECIES
 
 #### Status
 ACCEPTED

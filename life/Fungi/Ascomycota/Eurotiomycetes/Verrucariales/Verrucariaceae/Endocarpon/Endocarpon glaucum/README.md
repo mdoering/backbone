@@ -1,5 +1,4 @@
-Endocarpon glaucum Ach. SPECIES
-=======
+# Endocarpon glaucum Ach. SPECIES
 
 #### Status
 ACCEPTED

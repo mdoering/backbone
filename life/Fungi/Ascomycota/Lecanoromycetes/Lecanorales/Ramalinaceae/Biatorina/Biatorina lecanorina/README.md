@@ -1,5 +1,4 @@
-Biatorina lecanorina (Anzi) Jatta SPECIES
-=======
+# Biatorina lecanorina (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

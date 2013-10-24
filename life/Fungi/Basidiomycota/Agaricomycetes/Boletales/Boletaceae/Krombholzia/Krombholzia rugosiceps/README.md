@@ -1,5 +1,4 @@
-Krombholzia rugosiceps (Peck) Singer SPECIES
-=======
+# Krombholzia rugosiceps (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

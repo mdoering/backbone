@@ -1,5 +1,4 @@
-Peziza prolifera Berk. SPECIES
-=======
+# Peziza prolifera Berk. SPECIES
 
 #### Status
 ACCEPTED

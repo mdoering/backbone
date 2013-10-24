@@ -1,5 +1,4 @@
-Laboulbenia cryptici Speg. SPECIES
-=======
+# Laboulbenia cryptici Speg. SPECIES
 
 #### Status
 ACCEPTED

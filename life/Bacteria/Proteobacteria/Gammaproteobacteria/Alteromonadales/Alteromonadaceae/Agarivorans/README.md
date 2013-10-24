@@ -1,5 +1,4 @@
-Agarivorans Kurahashi & Yokota, 2004 GENUS
-=======
+# Agarivorans Kurahashi & Yokota, 2004 GENUS
 
 #### Status
 ACCEPTED

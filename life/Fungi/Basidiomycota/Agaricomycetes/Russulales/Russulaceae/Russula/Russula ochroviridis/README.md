@@ -1,5 +1,4 @@
-Russula ochroviridis (Cooke) Reumaux SPECIES
-=======
+# Russula ochroviridis (Cooke) Reumaux SPECIES
 
 #### Status
 ACCEPTED

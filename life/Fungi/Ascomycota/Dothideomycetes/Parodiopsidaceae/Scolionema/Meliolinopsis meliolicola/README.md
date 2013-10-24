@@ -1,5 +1,4 @@
-Meliolinopsis meliolicola (Syd. & P. Syd.) Petr. SPECIES
-=======
+# Meliolinopsis meliolicola (Syd. & P. Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

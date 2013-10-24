@@ -1,5 +1,4 @@
-Lichen erinaceus Ach. SPECIES
-=======
+# Lichen erinaceus Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus zelleri Murrill SPECIES
-=======
+# Boletus zelleri Murrill SPECIES
 
 #### Status
 ACCEPTED

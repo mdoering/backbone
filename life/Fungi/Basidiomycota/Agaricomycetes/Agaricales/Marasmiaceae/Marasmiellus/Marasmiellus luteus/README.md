@@ -1,5 +1,4 @@
-Marasmiellus luteus (Dennis) Singer SPECIES
-=======
+# Marasmiellus luteus (Dennis) Singer SPECIES
 
 #### Status
 ACCEPTED

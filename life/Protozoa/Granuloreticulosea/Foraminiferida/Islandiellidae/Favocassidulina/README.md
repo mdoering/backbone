@@ -1,5 +1,4 @@
-Favocassidulina Loeblich & Tappan, 1957 GENUS
-=======
+# Favocassidulina Loeblich & Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria configurata (Nyl.) SPECIES
-=======
+# Squamaria configurata (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

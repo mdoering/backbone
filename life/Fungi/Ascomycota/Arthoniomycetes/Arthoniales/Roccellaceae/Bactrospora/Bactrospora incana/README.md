@@ -1,5 +1,4 @@
-Bactrospora incana Egea & Torrente SPECIES
-=======
+# Bactrospora incana Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

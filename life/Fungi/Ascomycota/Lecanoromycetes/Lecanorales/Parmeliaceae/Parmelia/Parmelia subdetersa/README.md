@@ -1,5 +1,4 @@
-Parmelia subdetersa SPECIES
-=======
+# Parmelia subdetersa SPECIES
 
 #### Status
 ACCEPTED

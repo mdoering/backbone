@@ -1,5 +1,4 @@
-Cryptomonas tetrapyrenoidifera SPECIES
-=======
+# Cryptomonas tetrapyrenoidifera SPECIES
 
 #### Status
 ACCEPTED

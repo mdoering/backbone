@@ -1,5 +1,4 @@
-Schizothyrella angustispora Chevaug. SPECIES
-=======
+# Schizothyrella angustispora Chevaug. SPECIES
 
 #### Status
 ACCEPTED

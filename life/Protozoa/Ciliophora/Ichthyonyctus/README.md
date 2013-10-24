@@ -1,5 +1,4 @@
-Ichthyonyctus Yankovskii, 1974 GENUS
-=======
+# Ichthyonyctus Yankovskii, 1974 GENUS
 
 #### Status
 ACCEPTED

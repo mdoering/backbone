@@ -1,5 +1,4 @@
-Mycena substannea Henn. SPECIES
-=======
+# Mycena substannea Henn. SPECIES
 
 #### Status
 ACCEPTED

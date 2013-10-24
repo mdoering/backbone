@@ -1,5 +1,4 @@
-Emericella erythrospora H.P. Chowdhury SPECIES
-=======
+# Emericella erythrospora H.P. Chowdhury SPECIES
 
 #### Status
 ACCEPTED

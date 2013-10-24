@@ -1,5 +1,4 @@
-Nidularia granulifera Holmsk. SPECIES
-=======
+# Nidularia granulifera Holmsk. SPECIES
 
 #### Status
 ACCEPTED

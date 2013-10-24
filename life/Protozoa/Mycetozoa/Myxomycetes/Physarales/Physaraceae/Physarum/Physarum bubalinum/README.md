@@ -1,5 +1,4 @@
-Physarum bubalinum M.L. Farr, 1969 SPECIES
-=======
+# Physarum bubalinum M.L. Farr, 1969 SPECIES
 
 #### Status
 ACCEPTED

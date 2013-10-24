@@ -1,14 +1,13 @@
-Biatora nylanderi Anzi SPECIES
-=======
+# Lecidea nylanderi (Anzi) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Catal. Lich. Sondr. 75 (1860)
+Lich. Scand. (Uppsala) 1: 462 (1874)
 
 #### Original name
 Biatora nylanderi Anzi

@@ -1,5 +1,4 @@
-Teratosphaeria veloci Crous & Summerell, 2009 SPECIES
-=======
+# Teratosphaeria veloci Crous & Summerell, 2009 SPECIES
 
 #### Status
 ACCEPTED

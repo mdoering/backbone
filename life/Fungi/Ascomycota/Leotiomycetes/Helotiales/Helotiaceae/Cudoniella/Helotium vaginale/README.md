@@ -1,5 +1,4 @@
-Helotium vaginale Velen. SPECIES
-=======
+# Helotium vaginale Velen. SPECIES
 
 #### Status
 ACCEPTED

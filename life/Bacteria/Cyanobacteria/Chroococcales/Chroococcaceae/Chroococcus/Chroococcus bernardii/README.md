@@ -1,5 +1,4 @@
-Chroococcus bernardii Van Oye SPECIES
-=======
+# Chroococcus bernardii Van Oye SPECIES
 
 #### Status
 ACCEPTED

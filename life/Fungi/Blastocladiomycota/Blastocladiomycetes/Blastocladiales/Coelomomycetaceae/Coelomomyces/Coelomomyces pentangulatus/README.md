@@ -1,5 +1,4 @@
-Coelomomyces pentangulatus Couch SPECIES
-=======
+# Coelomomyces pentangulatus Couch SPECIES
 
 #### Status
 ACCEPTED

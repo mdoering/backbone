@@ -1,5 +1,4 @@
-Sphaeria aeriginosa Tode SPECIES
-=======
+# Sphaeria aeriginosa Tode SPECIES
 
 #### Status
 ACCEPTED

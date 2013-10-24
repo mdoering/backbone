@@ -1,14 +1,13 @@
-Agaricus uncialis Britzelm., 1890 SPECIES
-=======
+# Galerina uncialis (Britzelm.) Kühner, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. naturw. Augsburg 30: 21 (1890)
+Encyclop. Mycol. 7: 217 (1935)
 
 #### Original name
 Agaricus uncialis Britzelm., 1890

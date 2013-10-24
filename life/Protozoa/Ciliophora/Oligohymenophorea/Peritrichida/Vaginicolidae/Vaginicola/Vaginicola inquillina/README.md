@@ -1,5 +1,4 @@
-Vaginicola inquillina SPECIES
-=======
+# Vaginicola inquillina SPECIES
 
 #### Status
 ACCEPTED

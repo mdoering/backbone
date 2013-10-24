@@ -1,5 +1,4 @@
-Mycena nothofagetorum Singer SPECIES
-=======
+# Mycena nothofagetorum Singer SPECIES
 
 #### Status
 ACCEPTED

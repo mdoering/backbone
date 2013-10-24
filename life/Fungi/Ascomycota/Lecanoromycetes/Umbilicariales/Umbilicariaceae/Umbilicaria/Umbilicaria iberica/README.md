@@ -1,5 +1,4 @@
-Umbilicaria iberica Sancho & Krzew. SPECIES
-=======
+# Umbilicaria iberica Sancho & Krzew. SPECIES
 
 #### Status
 ACCEPTED

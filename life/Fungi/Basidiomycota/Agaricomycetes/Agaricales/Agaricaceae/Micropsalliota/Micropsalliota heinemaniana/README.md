@@ -1,5 +1,4 @@
-Micropsalliota heinemaniana Guzm.-Dáv. SPECIES
-=======
+# Micropsalliota heinemaniana Guzm.-Dáv. SPECIES
 
 #### Status
 ACCEPTED

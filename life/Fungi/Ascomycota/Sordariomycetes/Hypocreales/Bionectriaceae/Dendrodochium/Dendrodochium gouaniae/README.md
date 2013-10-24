@@ -1,5 +1,4 @@
-Dendrodochium gouaniae Syd. SPECIES
-=======
+# Dendrodochium gouaniae Syd. SPECIES
 
 #### Status
 ACCEPTED

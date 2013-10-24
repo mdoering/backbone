@@ -1,5 +1,4 @@
-Rhizomucor Lucet & Costantin, 1900 GENUS
-=======
+# Rhizomucor Lucet & Costantin, 1900 GENUS
 
 #### Status
 ACCEPTED

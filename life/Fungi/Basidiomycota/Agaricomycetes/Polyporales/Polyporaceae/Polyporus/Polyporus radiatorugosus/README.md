@@ -1,5 +1,4 @@
-Polyporus radiatorugosus Berk. SPECIES
-=======
+# Polyporus radiatorugosus Berk. SPECIES
 
 #### Status
 ACCEPTED

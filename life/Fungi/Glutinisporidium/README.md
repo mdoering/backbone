@@ -1,5 +1,4 @@
-Glutinisporidium Thor GENUS
-=======
+# Glutinisporidium Thor GENUS
 
 #### Status
 ACCEPTED

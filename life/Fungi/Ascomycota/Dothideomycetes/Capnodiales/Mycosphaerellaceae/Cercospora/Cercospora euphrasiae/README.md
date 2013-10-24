@@ -1,5 +1,4 @@
-Cercospora euphrasiae Ondrej SPECIES
-=======
+# Cercospora euphrasiae Ondrej SPECIES
 
 #### Status
 ACCEPTED

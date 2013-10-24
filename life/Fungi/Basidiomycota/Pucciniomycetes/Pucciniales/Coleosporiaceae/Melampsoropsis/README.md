@@ -1,5 +1,4 @@
-Melampsoropsis GENUS
-=======
+# Melampsoropsis GENUS
 
 #### Status
 ACCEPTED

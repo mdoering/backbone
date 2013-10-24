@@ -1,5 +1,4 @@
-Aecidium paramignyae Racib. SPECIES
-=======
+# Aecidium paramignyae Racib. SPECIES
 
 #### Status
 ACCEPTED

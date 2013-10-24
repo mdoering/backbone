@@ -1,5 +1,4 @@
-Cortinarius tympanicus (E. Horak) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius tympanicus (E. Horak) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

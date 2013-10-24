@@ -1,5 +1,4 @@
-Dothiorella turconii (Curzi) Petr. & Syd. SPECIES
-=======
+# Dothiorella turconii (Curzi) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

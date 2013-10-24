@@ -1,5 +1,4 @@
-Chitonomyces tricornis Thaxt. SPECIES
-=======
+# Chitonomyces tricornis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

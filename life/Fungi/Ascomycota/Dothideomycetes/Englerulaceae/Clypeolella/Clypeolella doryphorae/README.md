@@ -1,5 +1,4 @@
-Clypeolella doryphorae Syd. SPECIES
-=======
+# Clypeolella doryphorae Syd. SPECIES
 
 #### Status
 ACCEPTED

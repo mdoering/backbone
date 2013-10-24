@@ -1,5 +1,4 @@
-Septoria pustulata Preuss SPECIES
-=======
+# Septoria pustulata Preuss SPECIES
 
 #### Status
 ACCEPTED

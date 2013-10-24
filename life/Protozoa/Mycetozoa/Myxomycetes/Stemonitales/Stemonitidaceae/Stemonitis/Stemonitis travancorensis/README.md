@@ -1,5 +1,4 @@
-Stemonitis travancorensis Erady SPECIES
-=======
+# Stemonitis travancorensis Erady SPECIES
 
 #### Status
 ACCEPTED

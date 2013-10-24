@@ -1,5 +1,4 @@
-Strongylidium packii SPECIES
-=======
+# Strongylidium packii SPECIES
 
 #### Status
 ACCEPTED

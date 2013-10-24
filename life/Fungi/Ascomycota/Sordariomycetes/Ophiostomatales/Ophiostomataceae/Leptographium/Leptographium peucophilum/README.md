@@ -1,5 +1,4 @@
-Leptographium peucophilum K. Jacobs & M.J. Wingf. SPECIES
-=======
+# Leptographium peucophilum K. Jacobs & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

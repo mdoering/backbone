@@ -1,5 +1,4 @@
-Beijerinckia indica subsp. indica SUBSPECIES
-=======
+# Beijerinckia indica (Starkey & De, 1939) Derx, 1950 SPECIES
 
 #### Status
 ACCEPTED

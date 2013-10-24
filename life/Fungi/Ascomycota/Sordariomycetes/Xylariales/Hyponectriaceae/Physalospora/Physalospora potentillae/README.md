@@ -1,5 +1,4 @@
-Physalospora potentillae Rostr. SPECIES
-=======
+# Physalospora potentillae Rostr. SPECIES
 
 #### Status
 ACCEPTED

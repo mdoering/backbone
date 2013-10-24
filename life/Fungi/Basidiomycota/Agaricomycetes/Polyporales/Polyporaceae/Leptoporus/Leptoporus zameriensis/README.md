@@ -1,5 +1,4 @@
-Leptoporus zameriensis Pilát SPECIES
-=======
+# Leptoporus zameriensis Pilát SPECIES
 
 #### Status
 ACCEPTED

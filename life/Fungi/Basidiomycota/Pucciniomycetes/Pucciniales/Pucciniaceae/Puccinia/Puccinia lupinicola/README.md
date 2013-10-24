@@ -1,5 +1,4 @@
-Puccinia lupinicola Gäum. SPECIES
-=======
+# Puccinia lupinicola Gäum. SPECIES
 
 #### Status
 ACCEPTED

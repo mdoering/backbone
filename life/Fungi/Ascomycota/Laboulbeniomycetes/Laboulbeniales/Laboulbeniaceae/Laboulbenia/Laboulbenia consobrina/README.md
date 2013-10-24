@@ -1,5 +1,4 @@
-Laboulbenia consobrina Terada SPECIES
-=======
+# Laboulbenia consobrina Terada SPECIES
 
 #### Status
 ACCEPTED

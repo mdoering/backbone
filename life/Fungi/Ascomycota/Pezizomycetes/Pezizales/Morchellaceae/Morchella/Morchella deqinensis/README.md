@@ -1,5 +1,4 @@
-Morchella deqinensis Shu H. Li, Y.C. Zhao, H.M. Chai & M.H. Zhong SPECIES
-=======
+# Morchella deqinensis Shu H. Li, Y.C. Zhao, H.M. Chai & M.H. Zhong SPECIES
 
 #### Status
 ACCEPTED

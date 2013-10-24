@@ -1,5 +1,4 @@
-Puccinia yokotensis Miura SPECIES
-=======
+# Puccinia yokotensis Miura SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia exalbida Largent SPECIES
-=======
+# Leptonia exalbida Largent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora refecta Nyl. SPECIES
-=======
+# Lecanora refecta Nyl. SPECIES
 
 #### Status
 ACCEPTED

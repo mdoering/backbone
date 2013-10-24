@@ -1,5 +1,4 @@
-Acidiphilium multivorum Wakao et al., 1995 SPECIES
-=======
+# Acidiphilium multivorum Wakao et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

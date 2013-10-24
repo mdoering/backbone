@@ -1,5 +1,4 @@
-Daedalea cerasi Schulzer SPECIES
-=======
+# Daedalea cerasi Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopus oryzae var. oryzae VARIETY
-=======
+# Rhizopus oryzae Went & Prins. Geerl., 1895 SPECIES
 
 #### Status
 ACCEPTED

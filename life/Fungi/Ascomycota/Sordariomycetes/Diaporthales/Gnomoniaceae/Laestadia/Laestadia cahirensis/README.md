@@ -1,5 +1,4 @@
-Laestadia cahirensis J. Steiner SPECIES
-=======
+# Laestadia cahirensis J. Steiner SPECIES
 
 #### Status
 ACCEPTED

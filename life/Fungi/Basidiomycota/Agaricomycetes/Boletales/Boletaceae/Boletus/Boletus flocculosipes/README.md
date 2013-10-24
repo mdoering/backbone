@@ -1,5 +1,4 @@
-Boletus flocculosipes Murrill SPECIES
-=======
+# Boletus flocculosipes Murrill SPECIES
 
 #### Status
 ACCEPTED

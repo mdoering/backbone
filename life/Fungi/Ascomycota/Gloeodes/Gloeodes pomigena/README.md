@@ -1,5 +1,4 @@
-Gloeodes pomigena (Schwein.) Colby, 1920 SPECIES
-=======
+# Gloeodes pomigena (Schwein.) Colby, 1920 SPECIES
 
 #### Status
 ACCEPTED

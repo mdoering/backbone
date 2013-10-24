@@ -1,17 +1,16 @@
-Tyromyces ostreiformis var. ostreiformis VARIETY
-=======
+# Polyporus ostreiformis Berk., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Tokyo Sci. Mus. 6: 84 (1943)
+J. Linn. Soc. , Bot. 16: 46 (1878)
 
 #### Original name
-Tyromyces ostreiformis var. ostreiformis
+Polyporus ostreiformis Berk., 1878
 
 ### Remarks
 null

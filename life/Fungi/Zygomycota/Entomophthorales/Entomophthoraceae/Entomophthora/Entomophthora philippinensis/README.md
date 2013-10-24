@@ -1,5 +1,4 @@
-Entomophthora philippinensis Villac. & Wilding, 1994 SPECIES
-=======
+# Entomophthora philippinensis Villac. & Wilding, 1994 SPECIES
 
 #### Status
 ACCEPTED

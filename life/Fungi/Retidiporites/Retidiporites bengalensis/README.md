@@ -1,5 +1,4 @@
-Retidiporites bengalensis C.P. Varma & Rawat SPECIES
-=======
+# Retidiporites bengalensis C.P. Varma & Rawat SPECIES
 
 #### Status
 ACCEPTED

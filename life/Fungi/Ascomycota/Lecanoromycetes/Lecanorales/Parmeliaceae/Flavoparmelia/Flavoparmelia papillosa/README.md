@@ -1,17 +1,16 @@
-Parmelia papillosa var. papillosa VARIETY
-=======
+# Flavoparmelia papillosa (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 25(2): 605 (1986)
 
 #### Original name
-Parmelia papillosa var. papillosa
+Parmelia papillosa Gyeln.
 
 ### Remarks
 null

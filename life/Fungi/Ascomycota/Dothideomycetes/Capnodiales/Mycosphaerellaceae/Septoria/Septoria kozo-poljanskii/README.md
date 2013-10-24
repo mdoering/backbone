@@ -1,5 +1,4 @@
-Septoria kozo-poljanskii M.I. Nikol. SPECIES
-=======
+# Septoria kozo-poljanskii M.I. Nikol. SPECIES
 
 #### Status
 ACCEPTED

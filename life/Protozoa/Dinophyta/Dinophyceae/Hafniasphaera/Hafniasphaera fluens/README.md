@@ -1,5 +1,4 @@
-Hafniasphaera fluens J. M. Hansen SPECIES
-=======
+# Hafniasphaera fluens J. M. Hansen SPECIES
 
 #### Status
 ACCEPTED

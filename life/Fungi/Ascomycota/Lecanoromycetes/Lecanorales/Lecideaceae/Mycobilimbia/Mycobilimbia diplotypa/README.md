@@ -1,5 +1,4 @@
-Mycobilimbia diplotypa (Vain.) Kalb SPECIES
-=======
+# Mycobilimbia diplotypa (Vain.) Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scopularia microspora (R.W. Davidson) Goid. SPECIES
-=======
+# Scopularia microspora (R.W. Davidson) Goid. SPECIES
 
 #### Status
 ACCEPTED

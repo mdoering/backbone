@@ -1,5 +1,4 @@
-Hymenoscyphus salicinus (Pers.) Kuntze SPECIES
-=======
+# Hymenoscyphus salicinus (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

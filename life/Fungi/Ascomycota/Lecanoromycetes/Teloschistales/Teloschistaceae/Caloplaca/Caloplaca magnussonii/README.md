@@ -1,8 +1,7 @@
-Caloplaca magnussoni Herre SPECIES
-=======
+# Caloplaca magnussonii Herre SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca magnussoni Herre
+Caloplaca magnussonii Herre
 
 ### Remarks
 null

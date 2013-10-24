@@ -1,5 +1,4 @@
-Oligohymenophorea de Puytorac, Batisse, Bohatier, Corliss, Deroux, Didier, Dragesco, Fryd-Versavel, Grain, Grollere, Horasse, Mode, Laval, Roque, Savoie & Tuffrau, 1974 CLASS
-=======
+# Oligohymenophorea de Puytorac, Batisse, Bohatier, Corliss, Deroux, Didier, Dragesco, Fryd-Versavel, Grain, Grollere, Horasse, Mode, Laval, Roque, Savoie & Tuffrau, 1974 CLASS
 
 #### Status
 ACCEPTED

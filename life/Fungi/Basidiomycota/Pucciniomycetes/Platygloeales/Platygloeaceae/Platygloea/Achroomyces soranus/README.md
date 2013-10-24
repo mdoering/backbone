@@ -1,5 +1,4 @@
-Achroomyces soranus Hauerslev SPECIES
-=======
+# Achroomyces soranus Hauerslev SPECIES
 
 #### Status
 ACCEPTED

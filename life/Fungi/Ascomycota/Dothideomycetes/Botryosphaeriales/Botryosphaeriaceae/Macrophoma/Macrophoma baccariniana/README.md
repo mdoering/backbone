@@ -1,5 +1,4 @@
-Macrophoma baccariniana Trotter SPECIES
-=======
+# Macrophoma baccariniana Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius semivestitus M.M. Moser SPECIES
-=======
+# Cortinarius semivestitus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

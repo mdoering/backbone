@@ -1,5 +1,4 @@
-Dyadosporites Hammen GENUS
-=======
+# Dyadosporites Hammen GENUS
 
 #### Status
 ACCEPTED

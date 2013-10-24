@@ -1,5 +1,4 @@
-Placolecanora bogdoënsis (Tomin) Kopach. SPECIES
-=======
+# Placolecanora bogdoënsis (Tomin) Kopach. SPECIES
 
 #### Status
 ACCEPTED

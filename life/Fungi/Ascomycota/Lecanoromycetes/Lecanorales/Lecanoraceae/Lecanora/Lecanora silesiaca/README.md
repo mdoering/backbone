@@ -1,5 +1,4 @@
-Lecanora silesiaca Stein SPECIES
-=======
+# Lecanora silesiaca Stein SPECIES
 
 #### Status
 ACCEPTED

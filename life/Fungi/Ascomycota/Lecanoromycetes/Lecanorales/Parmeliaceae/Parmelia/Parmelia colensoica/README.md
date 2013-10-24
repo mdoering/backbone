@@ -1,5 +1,4 @@
-Parmelia colensoica (T.H. Nash, Elix & J. Johnst.) Brusse SPECIES
-=======
+# Parmelia colensoica (T.H. Nash, Elix & J. Johnst.) Brusse SPECIES
 
 #### Status
 ACCEPTED

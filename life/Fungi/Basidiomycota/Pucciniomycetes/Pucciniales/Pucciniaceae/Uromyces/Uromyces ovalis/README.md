@@ -1,5 +1,4 @@
-Uromyces ovalis Dietel SPECIES
-=======
+# Uromyces ovalis Dietel SPECIES
 
 #### Status
 ACCEPTED

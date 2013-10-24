@@ -1,5 +1,4 @@
-Vaucheria synandra Woronin SPECIES
-=======
+# Vaucheria synandra Woronin SPECIES
 
 #### Status
 ACCEPTED

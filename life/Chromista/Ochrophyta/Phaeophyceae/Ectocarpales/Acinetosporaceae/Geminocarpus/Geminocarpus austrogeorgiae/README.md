@@ -1,5 +1,4 @@
-Geminocarpus austrogeorgiae Skottsberg SPECIES
-=======
+# Geminocarpus austrogeorgiae Skottsberg SPECIES
 
 #### Status
 ACCEPTED

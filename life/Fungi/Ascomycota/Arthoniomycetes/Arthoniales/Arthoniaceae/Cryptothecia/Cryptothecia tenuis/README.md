@@ -1,5 +1,4 @@
-Cryptothecia tenuis Groenh. SPECIES
-=======
+# Cryptothecia tenuis Groenh. SPECIES
 
 #### Status
 ACCEPTED

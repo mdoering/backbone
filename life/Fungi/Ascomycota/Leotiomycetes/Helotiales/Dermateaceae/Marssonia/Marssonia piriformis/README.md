@@ -1,5 +1,4 @@
-Marssonia piriformis (Riess) Sacc. SPECIES
-=======
+# Marssonia piriformis (Riess) Sacc. SPECIES
 
 #### Status
 ACCEPTED

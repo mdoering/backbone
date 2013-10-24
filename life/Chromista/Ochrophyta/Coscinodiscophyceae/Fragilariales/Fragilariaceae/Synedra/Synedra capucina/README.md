@@ -1,5 +1,4 @@
-Synedra capucina, nom. illeg. SPECIES
-=======
+# Synedra capucina, nom. illeg. SPECIES
 
 #### Status
 ACCEPTED

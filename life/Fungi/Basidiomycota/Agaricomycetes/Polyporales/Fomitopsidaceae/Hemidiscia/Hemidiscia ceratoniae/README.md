@@ -1,5 +1,4 @@
-Hemidiscia ceratoniae Lázaro Ibiza SPECIES
-=======
+# Hemidiscia ceratoniae Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

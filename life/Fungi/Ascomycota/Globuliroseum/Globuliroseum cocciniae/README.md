@@ -1,5 +1,4 @@
-Globuliroseum cocciniae Sullia & K.R. Khan, 1984 SPECIES
-=======
+# Globuliroseum cocciniae Sullia & K.R. Khan, 1984 SPECIES
 
 #### Status
 ACCEPTED

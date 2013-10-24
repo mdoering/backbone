@@ -1,5 +1,4 @@
-Dermocybe canaria E. Horak, 1988 SPECIES
-=======
+# Dermocybe canaria E. Horak, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polystoma coliforme (Dicks.) Gray, 1821 SPECIES
-=======
+# Myriostoma coliforme (Dicks.) Corda, 1842 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Arr. Brit. Pl. (London) 1: 586 (1821)
+Anleit. Stud. Mykol. , Prag 131 (1842)
 
 #### Original name
 Lycoperdon coliforme Dicks., 1776

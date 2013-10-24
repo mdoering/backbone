@@ -1,5 +1,4 @@
-Roseofomes GENUS
-=======
+# Roseofomes GENUS
 
 #### Status
 ACCEPTED

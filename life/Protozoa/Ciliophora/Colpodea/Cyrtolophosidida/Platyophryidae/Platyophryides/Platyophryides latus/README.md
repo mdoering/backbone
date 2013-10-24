@@ -1,8 +1,7 @@
-Woodruffia lichenicola Gellert, 1955 SPECIES
-=======
+# Platyophryides latus (Kahl, 1930) Foissner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

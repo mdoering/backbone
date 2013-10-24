@@ -1,5 +1,4 @@
-Polyporus lithophylloides Har. & Pat. SPECIES
-=======
+# Polyporus lithophylloides Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

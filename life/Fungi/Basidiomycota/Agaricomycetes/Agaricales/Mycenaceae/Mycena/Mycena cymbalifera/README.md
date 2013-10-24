@@ -1,5 +1,4 @@
-Mycena cymbalifera (Mont.) Sacc. SPECIES
-=======
+# Mycena cymbalifera (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

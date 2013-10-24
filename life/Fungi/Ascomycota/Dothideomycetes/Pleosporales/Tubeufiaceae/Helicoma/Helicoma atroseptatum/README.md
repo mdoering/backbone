@@ -1,5 +1,4 @@
-Helicoma atroseptatum Linder SPECIES
-=======
+# Helicoma atroseptatum Linder SPECIES
 
 #### Status
 ACCEPTED

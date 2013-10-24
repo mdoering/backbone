@@ -1,5 +1,4 @@
-Aspicilia cinereofusca Motyka SPECIES
-=======
+# Aspicilia cinereofusca Motyka SPECIES
 
 #### Status
 ACCEPTED

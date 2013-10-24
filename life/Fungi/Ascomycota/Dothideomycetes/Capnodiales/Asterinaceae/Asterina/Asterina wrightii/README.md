@@ -1,5 +1,4 @@
-Asterina wrightii Berk. & M.A. Curtis SPECIES
-=======
+# Asterina wrightii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

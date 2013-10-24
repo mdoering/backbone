@@ -1,5 +1,4 @@
-Lophosphaeridium deminutum Playford in Playford & Dring, 1981 SPECIES
-=======
+# Lophosphaeridium deminutum Playford in Playford & Dring, 1981 SPECIES
 
 #### Status
 ACCEPTED

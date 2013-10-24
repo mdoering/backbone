@@ -1,5 +1,4 @@
-Lactarius riparius Methven SPECIES
-=======
+# Lactarius riparius Methven SPECIES
 
 #### Status
 ACCEPTED

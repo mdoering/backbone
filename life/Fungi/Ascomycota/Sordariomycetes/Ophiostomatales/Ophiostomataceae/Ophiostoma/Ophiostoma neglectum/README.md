@@ -1,5 +1,4 @@
-Ophiostoma neglectum R. Kirschner & Oberw., 1999 SPECIES
-=======
+# Ophiostoma neglectum R. Kirschner & Oberw., 1999 SPECIES
 
 #### Status
 ACCEPTED

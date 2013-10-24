@@ -1,5 +1,4 @@
-Hypophyllum integrum Paulet SPECIES
-=======
+# Hypophyllum integrum Paulet SPECIES
 
 #### Status
 ACCEPTED

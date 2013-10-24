@@ -1,5 +1,4 @@
-Pseudomassaria bambusae (I. Miyake & Katum.) I. Hino & Katum. SPECIES
-=======
+# Pseudomassaria bambusae (I. Miyake & Katum.) I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

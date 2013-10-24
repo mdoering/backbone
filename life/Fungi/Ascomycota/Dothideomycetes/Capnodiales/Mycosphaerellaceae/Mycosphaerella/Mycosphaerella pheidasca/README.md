@@ -1,5 +1,4 @@
-Mycosphaerella pheidasca J. Schröt. SPECIES
-=======
+# Mycosphaerella pheidasca J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

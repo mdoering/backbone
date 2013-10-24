@@ -1,17 +1,16 @@
-Inocybe conspicuospora Buyck & Eyssart. SPECIES
-=======
+# Inocybe conspicuispora Buyck & Eyssart. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. 54(3): 676 (1999)
 
 #### Original name
-Inocybe conspicuospora Buyck & Eyssart.
+Inocybe conspicuispora Buyck & Eyssart.
 
 ### Remarks
 null

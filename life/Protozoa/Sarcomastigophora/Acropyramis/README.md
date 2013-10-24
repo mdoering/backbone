@@ -1,5 +1,4 @@
-Acropyramis Haeckel, 1881 GENUS
-=======
+# Acropyramis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

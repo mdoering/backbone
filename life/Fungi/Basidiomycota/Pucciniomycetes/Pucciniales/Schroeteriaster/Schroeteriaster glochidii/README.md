@@ -1,5 +1,4 @@
-Schroeteriaster glochidii Syd. & P. Syd. SPECIES
-=======
+# Schroeteriaster glochidii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

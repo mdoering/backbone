@@ -1,5 +1,4 @@
-Catillaria efflorescens Malme SPECIES
-=======
+# Catillaria efflorescens Malme SPECIES
 
 #### Status
 ACCEPTED

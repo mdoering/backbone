@@ -1,5 +1,4 @@
-Sirodesmium ellipticum (Cooke) Sacc. SPECIES
-=======
+# Sirodesmium ellipticum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

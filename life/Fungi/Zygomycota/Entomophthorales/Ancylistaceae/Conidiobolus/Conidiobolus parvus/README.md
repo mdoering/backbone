@@ -1,5 +1,4 @@
-Conidiobolus parvus Drechsler SPECIES
-=======
+# Conidiobolus parvus Drechsler SPECIES
 
 #### Status
 ACCEPTED

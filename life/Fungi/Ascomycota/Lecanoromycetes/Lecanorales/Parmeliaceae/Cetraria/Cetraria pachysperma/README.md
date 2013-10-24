@@ -1,5 +1,4 @@
-Cetraria pachysperma (Hue) Zahlbr. SPECIES
-=======
+# Cetraria pachysperma (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

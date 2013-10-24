@@ -1,5 +1,4 @@
-Diadorhombus rectus Worsley, 1971 SPECIES
-=======
+# Diadorhombus rectus Worsley, 1971 SPECIES
 
 #### Status
 ACCEPTED

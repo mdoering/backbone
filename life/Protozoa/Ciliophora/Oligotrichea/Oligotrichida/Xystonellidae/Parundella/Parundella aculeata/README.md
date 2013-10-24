@@ -1,5 +1,4 @@
-Parundella aculeata (Joergensen, 1924) SPECIES
-=======
+# Parundella aculeata (Joergensen, 1924) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Puccinia notobasis Gonz. Frag. SPECIES
-=======
+# Puccinia notobasidis Gonz. Frag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Brotéria 22: 52 (1926)
 
 #### Original name
-Puccinia notobasis Gonz. Frag.
+Puccinia notobasidis Gonz. Frag.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllachora vulgata Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora vulgata Theiss. & Syd., 1915 SPECIES
 
 #### Status
 DOUBTFUL

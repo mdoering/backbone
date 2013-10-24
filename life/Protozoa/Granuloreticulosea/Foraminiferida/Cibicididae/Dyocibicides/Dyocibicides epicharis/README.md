@@ -1,5 +1,4 @@
-Dyocibicides epicharis Zhang, 1988 SPECIES
-=======
+# Dyocibicides epicharis Zhang, 1988 SPECIES
 
 #### Status
 ACCEPTED

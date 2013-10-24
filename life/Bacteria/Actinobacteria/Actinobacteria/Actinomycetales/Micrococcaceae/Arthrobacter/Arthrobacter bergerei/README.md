@@ -1,5 +1,4 @@
-Arthrobacter bergerei Irlinger et al., 2005 SPECIES
-=======
+# Arthrobacter bergerei Irlinger et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

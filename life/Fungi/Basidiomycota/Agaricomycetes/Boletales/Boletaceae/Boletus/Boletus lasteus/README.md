@@ -1,5 +1,4 @@
-Boletus lasteus Batsch SPECIES
-=======
+# Boletus lasteus Batsch SPECIES
 
 #### Status
 ACCEPTED

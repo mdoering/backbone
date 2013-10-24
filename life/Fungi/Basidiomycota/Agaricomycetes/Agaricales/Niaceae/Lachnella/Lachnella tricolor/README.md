@@ -1,17 +1,16 @@
-Lachnella tricolor var. tricolor VARIETY
-=======
+# Lachnella tricolor SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Syll. fung. (Abellini) 8: 394 (1889)
+null
 
 #### Original name
-Lachnella tricolor var. tricolor
+null
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Candelariella aurella var. aurella VARIETY
-=======
+# Candelariella aurella (Hoffm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 5: 790 (1928)
+null
 
 #### Original name
-Candelariella aurella var. aurella
+null
 
 ### Remarks
 null

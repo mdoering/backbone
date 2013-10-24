@@ -1,5 +1,4 @@
-Cercoseptoria platani (J.M. Yen) J.M. Yen SPECIES
-=======
+# Cercoseptoria platani (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

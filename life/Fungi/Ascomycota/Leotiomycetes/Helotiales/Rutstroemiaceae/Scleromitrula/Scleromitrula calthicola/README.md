@@ -1,17 +1,16 @@
-Verpatinia calthicola var. calthicola Whetzel VARIETY
-=======
+# Scleromitrula calthicola (Whetzel) T. Schumach. & Holst-Jensen, 1997 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 37(6): 692 (1945)
+Mycoscience 38(1): 64 (1997)
 
 #### Original name
-Verpatinia calthicola var. calthicola Whetzel
+Verpatinia calthicola Whetzel, 1945
 
 ### Remarks
 null

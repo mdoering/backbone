@@ -1,5 +1,4 @@
-Rhabdospora seseli Hollós SPECIES
-=======
+# Rhabdospora seseli Hollós SPECIES
 
 #### Status
 ACCEPTED

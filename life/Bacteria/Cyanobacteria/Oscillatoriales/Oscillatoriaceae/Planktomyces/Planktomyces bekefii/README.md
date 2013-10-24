@@ -1,5 +1,4 @@
-Planktomyces bekefii Gemesi SPECIES
-=======
+# Planktomyces bekefii Gemesi SPECIES
 
 #### Status
 ACCEPTED

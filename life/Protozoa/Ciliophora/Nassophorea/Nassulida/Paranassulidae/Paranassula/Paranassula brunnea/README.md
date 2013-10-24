@@ -1,5 +1,4 @@
-Paranassula brunnea Fabre-Domerge, 1885 SPECIES
-=======
+# Paranassula brunnea Fabre-Domerge, 1885 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercostigmina liebenbergii (Syd.) Crous & U. Braun SPECIES
-=======
+# Cercostigmina liebenbergii (Syd.) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

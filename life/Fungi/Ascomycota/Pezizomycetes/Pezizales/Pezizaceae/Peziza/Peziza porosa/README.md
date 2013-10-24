@@ -1,5 +1,4 @@
-Peziza porosa Pers. SPECIES
-=======
+# Peziza porosa Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria aucta Niessl SPECIES
-=======
+# Leptosphaeria aucta Niessl SPECIES
 
 #### Status
 ACCEPTED

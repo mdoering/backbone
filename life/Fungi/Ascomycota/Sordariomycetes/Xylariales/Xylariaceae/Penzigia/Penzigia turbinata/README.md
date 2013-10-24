@@ -1,5 +1,4 @@
-Penzigia turbinata (Ellis & Everh.) J.H. Mill. SPECIES
-=======
+# Penzigia turbinata (Ellis & Everh.) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermium mangatepopense P.R. Johnst., 1989 SPECIES
-=======
+# Lophodermium mangatepopense P.R. Johnst., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichia deformis Yu Li & Q. Wang SPECIES
-=======
+# Trichia deformis Yu Li & Q. Wang SPECIES
 
 #### Status
 ACCEPTED

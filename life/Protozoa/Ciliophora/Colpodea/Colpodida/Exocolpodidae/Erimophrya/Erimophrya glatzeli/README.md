@@ -1,5 +1,4 @@
-Erimophrya glatzeli Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Erimophrya glatzeli Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

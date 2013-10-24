@@ -1,5 +1,4 @@
-Lamprospora biannulata Beauseign. SPECIES
-=======
+# Lamprospora biannulata Beauseign. SPECIES
 
 #### Status
 ACCEPTED

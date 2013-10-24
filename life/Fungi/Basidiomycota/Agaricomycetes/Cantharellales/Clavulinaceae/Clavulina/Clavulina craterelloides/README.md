@@ -1,5 +1,4 @@
-Clavulina craterelloides Thacker & T.W. Henkel, 2004 SPECIES
-=======
+# Clavulina craterelloides Thacker & T.W. Henkel, 2004 SPECIES
 
 #### Status
 ACCEPTED

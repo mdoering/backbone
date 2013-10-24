@@ -1,14 +1,13 @@
-Omphalaria polyglossa Nyl. SPECIES
-=======
+# Digitothyrea polyglossa (Nyl.) Moreno & Egea SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 59: 558 (1876)
+Lichenologist 24(3): 223 (1992)
 
 #### Original name
 Omphalaria polyglossa Nyl.

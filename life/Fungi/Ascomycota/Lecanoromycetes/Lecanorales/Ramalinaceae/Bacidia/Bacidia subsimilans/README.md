@@ -1,5 +1,4 @@
-Bacidia subsimilans (Nyl.) Hellb. SPECIES
-=======
+# Bacidia subsimilans (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

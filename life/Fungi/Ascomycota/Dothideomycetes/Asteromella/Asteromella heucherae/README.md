@@ -1,5 +1,4 @@
-Asteromella heucherae (Ellis & Everh.) Petr. SPECIES
-=======
+# Asteromella heucherae (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

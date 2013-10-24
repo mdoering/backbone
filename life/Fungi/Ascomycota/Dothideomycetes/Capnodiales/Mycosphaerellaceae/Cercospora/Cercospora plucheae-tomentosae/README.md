@@ -1,17 +1,16 @@
-Cercospora pluchea-tomentosae Tripathi & R.S. Mathur SPECIES
-=======
+# Cercospora plucheae-tomentosae Tripathi & R.S. Mathur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 34(5): 154 (1965)
 
 #### Original name
-Cercospora pluchea-tomentosae Tripathi & R.S. Mathur
+Cercospora plucheae-tomentosae Tripathi & R.S. Mathur
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Diplodina brachypodii Syd. SPECIES
-=======
+# Ascochyta brachypodii (Syd.) R. Sprague & Aar.G. Johnson, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 42(4): 537 (1950)
 
 #### Original name
 Diplodina brachypodii Syd.

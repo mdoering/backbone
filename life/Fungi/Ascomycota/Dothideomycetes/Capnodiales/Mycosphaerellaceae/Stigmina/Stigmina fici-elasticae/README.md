@@ -1,5 +1,4 @@
-Stigmina fici-elasticae J.N. Kapoor SPECIES
-=======
+# Stigmina fici-elasticae J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

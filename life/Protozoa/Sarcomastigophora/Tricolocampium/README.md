@@ -1,5 +1,4 @@
-Tricolocampium Haeckel, 1887 GENUS
-=======
+# Tricolocampium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

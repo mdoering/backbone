@@ -1,5 +1,4 @@
-Pyrenodesmia hampeana A. Massal. SPECIES
-=======
+# Pyrenodesmia hampeana A. Massal. SPECIES
 
 #### Status
 ACCEPTED

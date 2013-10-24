@@ -1,17 +1,16 @@
-Cercospora triseptospora J.M. Yen SPECIES
-=======
+# Cercospora triseptispora J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 31: 148 (1966)
 
 #### Original name
-Cercospora triseptospora J.M. Yen
+Cercospora triseptispora J.M. Yen
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Schizoderma hypodermoides Kunze SPECIES
-=======
+# Schizoderma hypodermoides Kunze SPECIES
 
 #### Status
 ACCEPTED

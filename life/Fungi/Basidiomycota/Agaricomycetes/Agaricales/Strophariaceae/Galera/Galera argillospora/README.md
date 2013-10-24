@@ -1,5 +1,4 @@
-Galera argillospora Rick SPECIES
-=======
+# Galera argillospora Rick SPECIES
 
 #### Status
 ACCEPTED

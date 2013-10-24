@@ -1,5 +1,4 @@
-Stylonychia harbinensis Shi & Ammermann, 2004 SPECIES
-=======
+# Stylonychia harbinensis Shi & Ammermann, 2004 SPECIES
 
 #### Status
 ACCEPTED

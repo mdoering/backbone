@@ -1,5 +1,4 @@
-Phlyctema iridis (Ellis & Everh.) Petr. SPECIES
-=======
+# Phlyctema iridis (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

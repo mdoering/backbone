@@ -1,5 +1,4 @@
-Auricularia laevis Sowerby SPECIES
-=======
+# Auricularia laevis Sowerby SPECIES
 
 #### Status
 ACCEPTED

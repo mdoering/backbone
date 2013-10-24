@@ -1,5 +1,4 @@
-Sporisorium walkeri Vánky SPECIES
-=======
+# Sporisorium walkeri Vánky SPECIES
 
 #### Status
 ACCEPTED

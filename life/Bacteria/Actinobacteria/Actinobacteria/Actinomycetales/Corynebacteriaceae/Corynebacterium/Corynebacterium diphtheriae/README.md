@@ -1,11 +1,10 @@
-Mycobacterium diphtheriae (Kruse, 1886) Krasil'nikov, 1941 SPECIES
-=======
+# Corynebacterium diphtheriae (Kruse, 1886) Lehmann and Neumann, 1896 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

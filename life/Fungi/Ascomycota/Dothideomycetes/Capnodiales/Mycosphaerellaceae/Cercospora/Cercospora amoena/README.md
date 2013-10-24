@@ -1,5 +1,4 @@
-Cercospora amoena Syd. SPECIES
-=======
+# Cercospora amoena Syd. SPECIES
 
 #### Status
 ACCEPTED

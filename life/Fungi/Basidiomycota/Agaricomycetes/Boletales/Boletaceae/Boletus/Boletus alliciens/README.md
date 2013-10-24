@@ -1,5 +1,4 @@
-Boletus alliciens Berk. SPECIES
-=======
+# Boletus alliciens Berk. SPECIES
 
 #### Status
 ACCEPTED

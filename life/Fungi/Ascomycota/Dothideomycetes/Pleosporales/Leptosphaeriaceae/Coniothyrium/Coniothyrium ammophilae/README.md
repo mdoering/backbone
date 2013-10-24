@@ -1,5 +1,4 @@
-Coniothyrium ammophilae Oudem. ex Petr. & Syd. SPECIES
-=======
+# Coniothyrium ammophilae Oudem. ex Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

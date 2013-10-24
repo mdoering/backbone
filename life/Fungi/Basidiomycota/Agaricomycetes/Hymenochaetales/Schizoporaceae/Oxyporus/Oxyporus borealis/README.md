@@ -1,5 +1,4 @@
-Oxyporus borealis G.M. Jenssen & Ryvarden, 1985 SPECIES
-=======
+# Oxyporus borealis G.M. Jenssen & Ryvarden, 1985 SPECIES
 
 #### Status
 ACCEPTED

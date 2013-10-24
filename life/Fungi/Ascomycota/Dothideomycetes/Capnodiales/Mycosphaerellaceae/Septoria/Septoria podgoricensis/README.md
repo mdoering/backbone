@@ -1,5 +1,4 @@
-Septoria podgoricensis Bubák SPECIES
-=======
+# Septoria podgoricensis Bubák SPECIES
 
 #### Status
 ACCEPTED

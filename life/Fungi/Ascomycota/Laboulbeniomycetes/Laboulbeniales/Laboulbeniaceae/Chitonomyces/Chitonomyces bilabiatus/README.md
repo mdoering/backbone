@@ -1,5 +1,4 @@
-Chitonomyces bilabiatus Thaxt. SPECIES
-=======
+# Chitonomyces bilabiatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

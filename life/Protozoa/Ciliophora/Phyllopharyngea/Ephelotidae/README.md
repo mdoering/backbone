@@ -1,5 +1,4 @@
-Ephelotidae Kent, 1882 FAMILY
-=======
+# Ephelotidae Kent, 1882 FAMILY
 
 #### Status
 ACCEPTED

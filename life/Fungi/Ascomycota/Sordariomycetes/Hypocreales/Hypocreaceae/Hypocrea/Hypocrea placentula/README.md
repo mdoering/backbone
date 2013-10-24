@@ -1,5 +1,4 @@
-Hypocrea placentula Grove, 1885 SPECIES
-=======
+# Hypocrea placentula Grove, 1885 SPECIES
 
 #### Status
 ACCEPTED

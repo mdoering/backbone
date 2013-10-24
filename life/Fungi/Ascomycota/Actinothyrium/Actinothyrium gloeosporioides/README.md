@@ -1,5 +1,4 @@
-Actinothyrium gloeosporioides Tehon SPECIES
-=======
+# Actinothyrium gloeosporioides Tehon SPECIES
 
 #### Status
 ACCEPTED

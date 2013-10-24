@@ -1,5 +1,4 @@
-Challengeron diodon SPECIES
-=======
+# Challengeron diodon SPECIES
 
 #### Status
 ACCEPTED

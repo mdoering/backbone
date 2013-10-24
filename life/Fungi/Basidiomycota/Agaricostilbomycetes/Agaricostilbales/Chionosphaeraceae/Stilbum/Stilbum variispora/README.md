@@ -1,5 +1,4 @@
-Stilbum variispora Kirschst. SPECIES
-=======
+# Stilbum variispora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

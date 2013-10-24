@@ -1,5 +1,4 @@
-Clitocybe lenticulosa Gillet SPECIES
-=======
+# Clitocybe lenticulosa Gillet SPECIES
 
 #### Status
 ACCEPTED

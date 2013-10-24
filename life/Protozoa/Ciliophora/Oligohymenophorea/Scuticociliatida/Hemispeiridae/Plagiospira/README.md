@@ -1,5 +1,4 @@
-Plagiospira Issel, 1903 GENUS
-=======
+# Plagiospira Issel, 1903 GENUS
 
 #### Status
 ACCEPTED

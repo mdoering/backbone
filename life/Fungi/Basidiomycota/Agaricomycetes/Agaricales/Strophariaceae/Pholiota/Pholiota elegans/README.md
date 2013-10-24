@@ -1,5 +1,4 @@
-Pholiota elegans Jacobsson SPECIES
-=======
+# Pholiota elegans Jacobsson SPECIES
 
 #### Status
 ACCEPTED

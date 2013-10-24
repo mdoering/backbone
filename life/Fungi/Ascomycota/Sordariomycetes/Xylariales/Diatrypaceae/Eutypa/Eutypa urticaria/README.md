@@ -1,5 +1,4 @@
-Eutypa urticaria (Mont.) Sacc. SPECIES
-=======
+# Eutypa urticaria (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothelium atroviolaceum (Henn.) Höhn. SPECIES
-=======
+# Trichothelium atroviolaceum (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

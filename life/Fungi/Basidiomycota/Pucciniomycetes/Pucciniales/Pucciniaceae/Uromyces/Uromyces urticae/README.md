@@ -1,5 +1,4 @@
-Uromyces urticae Cooke SPECIES
-=======
+# Uromyces urticae Cooke SPECIES
 
 #### Status
 ACCEPTED

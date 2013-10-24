@@ -1,5 +1,4 @@
-Marasmius flavidulus Henn. SPECIES
-=======
+# Marasmius flavidulus Henn. SPECIES
 
 #### Status
 ACCEPTED

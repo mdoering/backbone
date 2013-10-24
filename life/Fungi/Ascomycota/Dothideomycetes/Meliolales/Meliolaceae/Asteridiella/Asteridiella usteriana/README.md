@@ -1,5 +1,4 @@
-Asteridiella usteriana (Syd.) Hansf. SPECIES
-=======
+# Asteridiella usteriana (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

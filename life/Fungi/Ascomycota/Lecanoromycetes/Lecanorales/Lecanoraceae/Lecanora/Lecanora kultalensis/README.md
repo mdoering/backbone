@@ -1,5 +1,4 @@
-Lecanora kultalensis Vain. SPECIES
-=======
+# Lecanora kultalensis Vain. SPECIES
 
 #### Status
 ACCEPTED

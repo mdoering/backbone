@@ -1,5 +1,4 @@
-Meliola newbouldiae Hansf. & Deighton SPECIES
-=======
+# Meliola newbouldiae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

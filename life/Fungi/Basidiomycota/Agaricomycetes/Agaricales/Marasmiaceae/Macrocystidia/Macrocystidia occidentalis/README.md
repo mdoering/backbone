@@ -1,5 +1,4 @@
-Macrocystidia occidentalis Singer SPECIES
-=======
+# Macrocystidia occidentalis Singer SPECIES
 
 #### Status
 ACCEPTED

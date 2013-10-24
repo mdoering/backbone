@@ -1,5 +1,4 @@
-Dactylaria dasguptai S.K. Shome & U. Shome SPECIES
-=======
+# Dactylaria dasguptai S.K. Shome & U. Shome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laschia micropora (Pat.) Sacc. SPECIES
-=======
+# Laschia micropora (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

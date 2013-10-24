@@ -1,5 +1,4 @@
-Marasmius rimuphilus Desjardin & E. Horak, 1997 SPECIES
-=======
+# Marasmius rimuphilus Desjardin & E. Horak, 1997 SPECIES
 
 #### Status
 ACCEPTED

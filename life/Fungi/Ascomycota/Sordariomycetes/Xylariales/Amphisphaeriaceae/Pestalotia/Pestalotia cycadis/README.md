@@ -1,5 +1,4 @@
-Pestalotia cycadis Allesch. SPECIES
-=======
+# Pestalotia cycadis Allesch. SPECIES
 
 #### Status
 ACCEPTED

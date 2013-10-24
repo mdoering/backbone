@@ -1,5 +1,4 @@
-Thamnolia elegans Nyl. SPECIES
-=======
+# Thamnolia elegans Nyl. SPECIES
 
 #### Status
 ACCEPTED

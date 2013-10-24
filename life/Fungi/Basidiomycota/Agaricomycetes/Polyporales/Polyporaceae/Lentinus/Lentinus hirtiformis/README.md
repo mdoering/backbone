@@ -1,5 +1,4 @@
-Lentinus hirtiformis Murrill SPECIES
-=======
+# Lentinus hirtiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

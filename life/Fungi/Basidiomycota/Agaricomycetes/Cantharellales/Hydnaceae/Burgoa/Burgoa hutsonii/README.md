@@ -1,5 +1,4 @@
-Burgoa hutsonii Goid. SPECIES
-=======
+# Burgoa hutsonii Goid. SPECIES
 
 #### Status
 ACCEPTED

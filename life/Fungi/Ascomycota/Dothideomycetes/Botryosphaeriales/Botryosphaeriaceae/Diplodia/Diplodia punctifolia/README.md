@@ -1,5 +1,4 @@
-Diplodia punctifolia J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Diplodia punctifolia J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

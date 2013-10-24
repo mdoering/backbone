@@ -1,5 +1,4 @@
-Geotrichum pararugosum (Castell., M. Douglas & Thomps. {?} ) Almeida {?} & Silva Lacaz SPECIES
-=======
+# Geotrichum pararugosum (Castell., M. Douglas & Thomps. {?} ) Almeida {?} & Silva Lacaz SPECIES
 
 #### Status
 ACCEPTED

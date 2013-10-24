@@ -1,5 +1,4 @@
-Puccinia baschmica Petr. SPECIES
-=======
+# Puccinia baschmica Petr. SPECIES
 
 #### Status
 ACCEPTED

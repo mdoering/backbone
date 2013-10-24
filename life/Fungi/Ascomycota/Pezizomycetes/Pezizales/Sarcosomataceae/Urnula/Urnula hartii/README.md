@@ -1,5 +1,4 @@
-Urnula hartii Berk. SPECIES
-=======
+# Urnula hartii Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protobolella jonesii Chapman, 1935 SPECIES
-=======
+# Protobolella jonesii Chapman, 1935 SPECIES
 
 #### Status
 ACCEPTED

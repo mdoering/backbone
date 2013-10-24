@@ -1,14 +1,13 @@
-Physalosporella calami (Syd.) Höhn. SPECIES
-=======
+# Guignardia calami (Syd.) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 11(no. 1): 55 (1954)
 
 #### Original name
 Physalospora calami Syd., 1911

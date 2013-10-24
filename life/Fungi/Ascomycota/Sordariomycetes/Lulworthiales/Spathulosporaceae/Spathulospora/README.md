@@ -1,5 +1,4 @@
-Spathulospora A.R. Caval. & T.W. Johnson GENUS
-=======
+# Spathulospora A.R. Caval. & T.W. Johnson GENUS
 
 #### Status
 ACCEPTED

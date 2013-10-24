@@ -1,5 +1,4 @@
-Laurera ambigua Malme SPECIES
-=======
+# Laurera ambigua Malme SPECIES
 
 #### Status
 ACCEPTED

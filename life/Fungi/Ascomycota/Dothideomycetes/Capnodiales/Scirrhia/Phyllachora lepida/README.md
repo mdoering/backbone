@@ -1,5 +1,4 @@
-Phyllachora lepida Syd. & P. Syd., 1910 SPECIES
-=======
+# Phyllachora lepida Syd. & P. Syd., 1910 SPECIES
 
 #### Status
 DOUBTFUL

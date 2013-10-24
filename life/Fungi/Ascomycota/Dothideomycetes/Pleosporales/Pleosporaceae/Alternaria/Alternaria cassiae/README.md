@@ -1,5 +1,4 @@
-Alternaria cassiae Jurair & A. Khan, 1960 SPECIES
-=======
+# Alternaria cassiae Jurair & A. Khan, 1960 SPECIES
 
 #### Status
 ACCEPTED

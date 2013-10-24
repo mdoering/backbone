@@ -1,5 +1,4 @@
-Falcispora chondrillae Nikol. SPECIES
-=======
+# Falcispora chondrillae Nikol. SPECIES
 
 #### Status
 ACCEPTED

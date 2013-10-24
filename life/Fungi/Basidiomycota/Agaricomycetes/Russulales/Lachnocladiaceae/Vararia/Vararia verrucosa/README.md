@@ -1,5 +1,4 @@
-Vararia verrucosa Boidin, 1967 SPECIES
-=======
+# Vararia verrucosa Boidin, 1967 SPECIES
 
 #### Status
 ACCEPTED

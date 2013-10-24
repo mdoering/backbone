@@ -1,5 +1,4 @@
-Leptosphaeria castagnei (Durieu & Mont.) Sacc., 1875 SPECIES
-=======
+# Leptosphaeria castagnei (Durieu & Mont.) Sacc., 1875 SPECIES
 
 #### Status
 ACCEPTED

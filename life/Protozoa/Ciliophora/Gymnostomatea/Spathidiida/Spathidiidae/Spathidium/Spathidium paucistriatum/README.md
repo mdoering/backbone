@@ -1,5 +1,4 @@
-Spathidium paucistriatum Kahl, 1930 SPECIES
-=======
+# Spathidium paucistriatum Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

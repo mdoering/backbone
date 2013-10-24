@@ -1,5 +1,4 @@
-Hymenochaete infundibuliformis Henn. SPECIES
-=======
+# Hymenochaete infundibuliformis Henn. SPECIES
 
 #### Status
 ACCEPTED

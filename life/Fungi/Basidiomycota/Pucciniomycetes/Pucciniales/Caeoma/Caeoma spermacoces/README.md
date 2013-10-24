@@ -1,5 +1,4 @@
-Caeoma spermacoces (Schwein.) Link SPECIES
-=======
+# Caeoma spermacoces (Schwein.) Link SPECIES
 
 #### Status
 ACCEPTED

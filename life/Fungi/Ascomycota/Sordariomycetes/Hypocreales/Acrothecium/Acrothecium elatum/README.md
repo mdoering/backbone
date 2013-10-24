@@ -1,5 +1,4 @@
-Acrothecium elatum Grove SPECIES
-=======
+# Acrothecium elatum Grove SPECIES
 
 #### Status
 ACCEPTED

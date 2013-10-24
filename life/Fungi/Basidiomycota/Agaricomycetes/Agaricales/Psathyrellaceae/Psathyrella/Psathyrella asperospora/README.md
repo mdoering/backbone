@@ -1,14 +1,13 @@
-Psilocybe asperospora Cleland, 1934 SPECIES
-=======
+# Psathyrella asperospora (Cleland) Guzmán, Bandala & Montoya, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Roy. Soc. S. Australia 58: 212 (1935)
+Revta Mex. Micol. 6: 112 (1991)
 
 #### Original name
 Psilocybe asperospora Cleland, 1934

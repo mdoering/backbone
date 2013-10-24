@@ -1,5 +1,4 @@
-Uredo formosana (Syd. & P. Syd.) F.L. Tai SPECIES
-=======
+# Uredo formosana (Syd. & P. Syd.) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

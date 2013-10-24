@@ -1,5 +1,4 @@
-Trogia marasmioides Corner SPECIES
-=======
+# Trogia marasmioides Corner SPECIES
 
 #### Status
 ACCEPTED

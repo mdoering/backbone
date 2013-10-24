@@ -1,5 +1,4 @@
-Pezizella collematis (Boud.) Keissl. SPECIES
-=======
+# Pezizella collematis (Boud.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

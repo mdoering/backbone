@@ -1,5 +1,4 @@
-Dimelaena propinqua SPECIES
-=======
+# Dimelaena propinqua SPECIES
 
 #### Status
 ACCEPTED

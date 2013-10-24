@@ -1,17 +1,16 @@
-Lecanora gelida f. gelida FORM
-=======
+# Placopsis gelida (L.) Linds. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. 429 (1810)
+Trans. Linn. Soc. London 25: 536 (1866)
 
 #### Original name
-Lecanora gelida f. gelida
+Lichen gelidus L.
 
 ### Remarks
 null

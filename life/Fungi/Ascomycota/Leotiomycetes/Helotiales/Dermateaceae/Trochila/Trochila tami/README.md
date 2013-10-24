@@ -1,5 +1,4 @@
-Trochila tami Grelet & Croz. SPECIES
-=======
+# Trochila tami Grelet & Croz. SPECIES
 
 #### Status
 ACCEPTED

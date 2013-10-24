@@ -1,14 +1,13 @@
-Pleurotus caespitosoterrester (Henn.) Pilát SPECIES
-=======
+# Pleurotus caespitosoterrestris (Henn.) Pilát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atlas des Champignons de l'Europe, II: Pleurotus Fries 134 (1935)
 
 #### Original name
 Pleurotus eryngii var. caespitosoterrestris Henn.

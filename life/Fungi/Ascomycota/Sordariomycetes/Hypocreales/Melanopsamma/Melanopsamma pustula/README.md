@@ -1,14 +1,13 @@
-Sphaeria pustula Curr., 1859 SPECIES
-=======
+# Melanopsamma pustula (Curr.) Sacc., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Linn. Soc. London 22: 317 (1859)
+Michelia 1(no. 3): 347 (1878)
 
 #### Original name
 Sphaeria pustula Curr., 1859

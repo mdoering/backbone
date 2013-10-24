@@ -1,5 +1,4 @@
-Gloeosporium lapponicum Lind SPECIES
-=======
+# Gloeosporium lapponicum Lind SPECIES
 
 #### Status
 ACCEPTED

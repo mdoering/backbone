@@ -1,5 +1,4 @@
-Pestalotia sorbi Pat. SPECIES
-=======
+# Pestalotia sorbi Pat. SPECIES
 
 #### Status
 ACCEPTED

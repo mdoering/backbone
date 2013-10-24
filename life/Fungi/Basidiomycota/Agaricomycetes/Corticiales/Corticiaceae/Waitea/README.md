@@ -1,5 +1,4 @@
-Waitea Warcup & P.H.B. Talbot, 1962 GENUS
-=======
+# Waitea Warcup & P.H.B. Talbot, 1962 GENUS
 
 #### Status
 ACCEPTED

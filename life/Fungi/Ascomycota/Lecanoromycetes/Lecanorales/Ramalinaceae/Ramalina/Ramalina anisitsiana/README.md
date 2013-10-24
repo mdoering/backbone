@@ -1,5 +1,4 @@
-Ramalina anisitsiana Gyeln. SPECIES
-=======
+# Ramalina anisitsiana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

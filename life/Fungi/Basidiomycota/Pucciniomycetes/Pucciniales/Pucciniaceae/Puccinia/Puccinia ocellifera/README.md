@@ -1,5 +1,4 @@
-Puccinia ocellifera Cummins SPECIES
-=======
+# Puccinia ocellifera Cummins SPECIES
 
 #### Status
 ACCEPTED

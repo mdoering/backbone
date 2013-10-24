@@ -1,5 +1,4 @@
-Parmelia bella (Ach.) Spreng. SPECIES
-=======
+# Parmelia bella (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

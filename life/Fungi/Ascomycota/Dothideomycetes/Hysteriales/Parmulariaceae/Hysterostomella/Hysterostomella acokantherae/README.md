@@ -1,14 +1,13 @@
-Hysterostomella acocantherae (Henn.) Arx SPECIES
-=======
+# Hysterostomella acokantherae (Henn.) Arx SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 62 (1962)
 
 #### Original name
 Dimerosporium acokantherae Henn.

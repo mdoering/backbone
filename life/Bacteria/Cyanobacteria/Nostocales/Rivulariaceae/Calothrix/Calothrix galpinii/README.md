@@ -1,5 +1,4 @@
-Calothrix galpinii K. Cholnoky-Pfannkuche SPECIES
-=======
+# Calothrix galpinii K. Cholnoky-Pfannkuche SPECIES
 
 #### Status
 ACCEPTED

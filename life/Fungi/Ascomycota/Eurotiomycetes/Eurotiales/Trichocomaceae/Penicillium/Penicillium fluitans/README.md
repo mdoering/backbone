@@ -1,5 +1,4 @@
-Penicillium fluitans Tiegs {?} SPECIES
-=======
+# Penicillium fluitans Tiegs {?} SPECIES
 
 #### Status
 ACCEPTED

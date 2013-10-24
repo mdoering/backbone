@@ -1,5 +1,4 @@
-Lecanora glomerulans Poelt SPECIES
-=======
+# Lecanora glomerulans Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium perfringens (Veillon and Zuber, 1898) Hauduroy et al., 1937 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium perfringens (Veillon and Zuber, 1898) Hauduroy et al., 1937 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

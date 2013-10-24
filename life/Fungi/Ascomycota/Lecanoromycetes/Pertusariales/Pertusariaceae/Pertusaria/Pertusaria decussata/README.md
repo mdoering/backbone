@@ -1,5 +1,4 @@
-Pertusaria decussata Kremp. SPECIES
-=======
+# Pertusaria decussata Kremp. SPECIES
 
 #### Status
 ACCEPTED

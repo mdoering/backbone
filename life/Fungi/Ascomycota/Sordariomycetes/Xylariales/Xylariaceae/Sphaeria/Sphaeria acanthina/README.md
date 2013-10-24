@@ -1,5 +1,4 @@
-Sphaeria acanthina Mont. SPECIES
-=======
+# Sphaeria acanthina Mont. SPECIES
 
 #### Status
 ACCEPTED

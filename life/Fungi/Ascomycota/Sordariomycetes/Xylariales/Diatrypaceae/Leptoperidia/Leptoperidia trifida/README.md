@@ -1,14 +1,13 @@
-Diatrype trifida Ellis & T. Macbr., 1896 SPECIES
-=======
+# Leptoperidia trifida (Ellis & T. Macbr.) Rappaz, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Lab. Nat. Hist. Iowa State Univ. 4: 71 (1896)
+Mycol. helv. 2(3): 546 (1987)
 
 #### Original name
 Diatrype trifida Ellis & T. Macbr., 1896

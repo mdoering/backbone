@@ -1,5 +1,4 @@
-Illosporium minimum Ellis & Everh. SPECIES
-=======
+# Illosporium minimum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

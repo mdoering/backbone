@@ -1,17 +1,16 @@
-Lecidea instrata Nyl. SPECIES
-=======
+# Miriquidica instrata (Nyl.) Hertel & Rambold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 23: 385 (1987)
 
 #### Original name
-null
+Lecidea instrata Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Helotium cedricola K.S. Thind & Saini SPECIES
-=======
+# Helotium cedricola K.S. Thind & Saini SPECIES
 
 #### Status
 ACCEPTED

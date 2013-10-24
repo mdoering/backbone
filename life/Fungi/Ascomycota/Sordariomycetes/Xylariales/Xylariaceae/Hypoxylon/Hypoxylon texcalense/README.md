@@ -1,5 +1,4 @@
-Hypoxylon texcalense F. San Martín, Port.-Port. & P. Lavín, 1999 SPECIES
-=======
+# Hypoxylon texcalense F. San Martín, Port.-Port. & P. Lavín, 1999 SPECIES
 
 #### Status
 ACCEPTED

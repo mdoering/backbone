@@ -1,8 +1,7 @@
-Saccharothrix violacea Lee et al., 2000 SPECIES
-=======
+# Lentzea violacea (Lee et al., 2000) Labeda et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

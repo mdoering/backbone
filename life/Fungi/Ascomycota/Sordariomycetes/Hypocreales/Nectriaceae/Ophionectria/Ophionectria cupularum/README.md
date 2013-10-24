@@ -1,5 +1,4 @@
-Ophionectria cupularum Kirschst. SPECIES
-=======
+# Ophionectria cupularum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

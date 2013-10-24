@@ -1,5 +1,4 @@
-Rhymbocarpus geographici (Stein) Vouaux SPECIES
-=======
+# Rhymbocarpus geographici (Stein) Vouaux SPECIES
 
 #### Status
 ACCEPTED

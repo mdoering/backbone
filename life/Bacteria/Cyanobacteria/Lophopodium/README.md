@@ -1,5 +1,4 @@
-Lophopodium Kützing, 1849 GENUS
-=======
+# Lophopodium Kützing, 1849 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria opuntiae Rolland SPECIES
-=======
+# Nectria opuntiae Rolland SPECIES
 
 #### Status
 ACCEPTED

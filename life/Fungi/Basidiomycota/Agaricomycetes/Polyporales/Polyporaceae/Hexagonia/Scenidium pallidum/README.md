@@ -1,5 +1,4 @@
-Scenidium pallidum (Schulzer) Kuntze SPECIES
-=======
+# Scenidium pallidum (Schulzer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella picea Massee SPECIES
-=======
+# Tremella picea Massee SPECIES
 
 #### Status
 ACCEPTED

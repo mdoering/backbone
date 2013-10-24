@@ -1,5 +1,4 @@
-Rhizosolenia debyana H. Peragallo SPECIES
-=======
+# Rhizosolenia debyana H. Peragallo SPECIES
 
 #### Status
 ACCEPTED

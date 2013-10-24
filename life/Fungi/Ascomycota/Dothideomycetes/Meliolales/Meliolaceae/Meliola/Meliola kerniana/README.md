@@ -1,5 +1,4 @@
-Meliola kerniana Cif. SPECIES
-=======
+# Meliola kerniana Cif. SPECIES
 
 #### Status
 ACCEPTED

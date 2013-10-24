@@ -1,5 +1,4 @@
-Tremella samoensis Lloyd SPECIES
-=======
+# Tremella samoensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

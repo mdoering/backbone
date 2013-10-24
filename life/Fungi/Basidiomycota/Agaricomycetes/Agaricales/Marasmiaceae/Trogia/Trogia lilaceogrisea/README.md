@@ -1,5 +1,4 @@
-Trogia lilaceogrisea var. lilaceogrisea VARIETY
-=======
+# Trogia lilaceogrisea Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monogr. Cantharelloid Fungi 221 (1966)
 
 #### Original name
-Trogia lilaceogrisea var. lilaceogrisea
+Trogia lilaceogrisea Corner
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phoma rosarum Mont. SPECIES
-=======
+# Phoma rosarum Mont. SPECIES
 
 #### Status
 ACCEPTED

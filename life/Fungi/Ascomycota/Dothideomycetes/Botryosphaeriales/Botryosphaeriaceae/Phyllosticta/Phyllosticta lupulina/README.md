@@ -1,5 +1,4 @@
-Phyllosticta lupulina Petr. SPECIES
-=======
+# Phyllosticta lupulina Petr. SPECIES
 
 #### Status
 ACCEPTED

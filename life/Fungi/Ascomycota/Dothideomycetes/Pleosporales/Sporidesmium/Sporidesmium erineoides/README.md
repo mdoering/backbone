@@ -1,5 +1,4 @@
-Sporidesmium erineoides Ces. SPECIES
-=======
+# Sporidesmium erineoides Ces. SPECIES
 
 #### Status
 ACCEPTED

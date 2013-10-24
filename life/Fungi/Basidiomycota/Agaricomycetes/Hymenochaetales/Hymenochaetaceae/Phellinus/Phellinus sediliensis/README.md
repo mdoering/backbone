@@ -1,5 +1,4 @@
-Phellinus sediliensis Corner SPECIES
-=======
+# Phellinus sediliensis Corner SPECIES
 
 #### Status
 ACCEPTED

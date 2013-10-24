@@ -1,5 +1,4 @@
-Ramaria glaucoaromatica R.H. Petersen, 1981 SPECIES
-=======
+# Ramaria glaucoaromatica R.H. Petersen, 1981 SPECIES
 
 #### Status
 ACCEPTED

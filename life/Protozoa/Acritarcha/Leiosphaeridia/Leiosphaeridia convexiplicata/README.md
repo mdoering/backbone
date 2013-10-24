@@ -1,5 +1,4 @@
-Leiosphaeridia convexiplicata (Naumova, 1968) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia convexiplicata (Naumova, 1968) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

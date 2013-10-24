@@ -1,5 +1,4 @@
-Septoria gladioli Pass., 1875 SPECIES
-=======
+# Septoria gladioli Pass., 1875 SPECIES
 
 #### Status
 ACCEPTED

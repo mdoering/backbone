@@ -1,5 +1,4 @@
-Myxacium alutipes (Lasch) P. Kumm. SPECIES
-=======
+# Myxacium alutipes (Lasch) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

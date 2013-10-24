@@ -1,5 +1,4 @@
-Filaspora chlorogali (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Filaspora chlorogali (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

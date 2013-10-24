@@ -1,5 +1,4 @@
-Leotia amara (Lour.) Fr. SPECIES
-=======
+# Leotia amara (Lour.) Fr. SPECIES
 
 #### Status
 ACCEPTED

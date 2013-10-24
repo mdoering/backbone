@@ -1,5 +1,4 @@
-Uromyces hyalinus Peck SPECIES
-=======
+# Uromyces hyalinus Peck SPECIES
 
 #### Status
 ACCEPTED

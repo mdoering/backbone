@@ -1,5 +1,4 @@
-Spiloma gregarium SPECIES
-=======
+# Spiloma gregarium SPECIES
 
 #### Status
 ACCEPTED

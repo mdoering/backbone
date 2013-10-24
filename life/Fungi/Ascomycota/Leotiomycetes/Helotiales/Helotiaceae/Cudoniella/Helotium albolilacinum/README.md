@@ -1,5 +1,4 @@
-Helotium albolilacinum Pat. SPECIES
-=======
+# Helotium albolilacinum Pat. SPECIES
 
 #### Status
 ACCEPTED

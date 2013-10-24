@@ -1,5 +1,4 @@
-Patellaria epipolia (Ach.) DC. SPECIES
-=======
+# Patellaria epipolia (Ach.) DC. SPECIES
 
 #### Status
 ACCEPTED

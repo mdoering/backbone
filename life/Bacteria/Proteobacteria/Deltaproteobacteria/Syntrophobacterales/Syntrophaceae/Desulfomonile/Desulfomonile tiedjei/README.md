@@ -1,5 +1,4 @@
-Desulfomonile tiedjei DeWeerd et al., 1991 SPECIES
-=======
+# Desulfomonile tiedjei DeWeerd et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

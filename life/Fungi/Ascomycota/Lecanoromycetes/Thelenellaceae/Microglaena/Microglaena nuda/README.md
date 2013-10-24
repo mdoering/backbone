@@ -1,5 +1,4 @@
-Microglaena nuda Wheldon & Travis SPECIES
-=======
+# Microglaena nuda Wheldon & Travis SPECIES
 
 #### Status
 ACCEPTED

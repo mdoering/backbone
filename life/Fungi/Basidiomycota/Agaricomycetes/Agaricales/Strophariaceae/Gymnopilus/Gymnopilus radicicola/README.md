@@ -1,5 +1,4 @@
-Gymnopilus radicicola Singer SPECIES
-=======
+# Gymnopilus radicicola Singer SPECIES
 
 #### Status
 ACCEPTED

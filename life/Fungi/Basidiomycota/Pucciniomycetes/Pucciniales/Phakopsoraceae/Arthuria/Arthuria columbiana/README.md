@@ -1,5 +1,4 @@
-Arthuria columbiana (F. Kern & Whetzel) Cummins, 1943 SPECIES
-=======
+# Arthuria columbiana (F. Kern & Whetzel) Cummins, 1943 SPECIES
 
 #### Status
 ACCEPTED

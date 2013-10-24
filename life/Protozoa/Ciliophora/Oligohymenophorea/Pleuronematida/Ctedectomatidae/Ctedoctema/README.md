@@ -1,5 +1,4 @@
-Ctedoctema Stokes, 1884 GENUS
-=======
+# Ctedoctema Stokes, 1884 GENUS
 
 #### Status
 ACCEPTED

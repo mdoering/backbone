@@ -1,5 +1,4 @@
-Irenopsis malpighiae Hansf. SPECIES
-=======
+# Irenopsis malpighiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

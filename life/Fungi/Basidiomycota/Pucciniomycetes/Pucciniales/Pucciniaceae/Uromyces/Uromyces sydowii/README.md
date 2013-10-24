@@ -1,5 +1,4 @@
-Uromyces sydowii Z.K. Liu & L. Guo SPECIES
-=======
+# Uromyces sydowii Z.K. Liu & L. Guo SPECIES
 
 #### Status
 ACCEPTED

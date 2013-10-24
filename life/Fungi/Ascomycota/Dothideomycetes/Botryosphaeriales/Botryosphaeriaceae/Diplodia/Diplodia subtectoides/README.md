@@ -1,5 +1,4 @@
-Diplodia subtectoides Peck SPECIES
-=======
+# Diplodia subtectoides Peck SPECIES
 
 #### Status
 ACCEPTED

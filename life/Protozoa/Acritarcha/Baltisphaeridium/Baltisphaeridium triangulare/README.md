@@ -1,5 +1,4 @@
-Baltisphaeridium triangulare Stockmans & Willière, 1962 SPECIES
-=======
+# Baltisphaeridium triangulare Stockmans & Willière, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza confusa Sacc. SPECIES
-=======
+# Trichopeziza confusa Sacc. SPECIES
 
 #### Status
 ACCEPTED

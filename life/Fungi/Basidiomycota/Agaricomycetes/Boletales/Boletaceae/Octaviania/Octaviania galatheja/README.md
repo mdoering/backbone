@@ -1,5 +1,4 @@
-Octaviania galatheja (Quél.) De Toni SPECIES
-=======
+# Octaviania galatheja (Quél.) De Toni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metaleiofusa diagonalis Wall, 1965 SPECIES
-=======
+# Metaleiofusa diagonalis Wall, 1965 SPECIES
 
 #### Status
 ACCEPTED

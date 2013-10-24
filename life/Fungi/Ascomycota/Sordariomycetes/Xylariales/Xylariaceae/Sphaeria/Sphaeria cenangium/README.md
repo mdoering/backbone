@@ -1,5 +1,4 @@
-Sphaeria cenangium Corda SPECIES
-=======
+# Sphaeria cenangium Corda SPECIES
 
 #### Status
 ACCEPTED

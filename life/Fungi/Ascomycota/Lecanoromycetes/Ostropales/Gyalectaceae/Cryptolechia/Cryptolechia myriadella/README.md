@@ -1,14 +1,13 @@
-Gyalecta myriadella (Nyl.) Hellb. SPECIES
-=======
+# Cryptolechia myriadella (Nyl.) D. Hawksw. & Dibben SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichenologist 14(1): 99 (1982)
 
 #### Original name
 Lecidea myriadella Nyl.

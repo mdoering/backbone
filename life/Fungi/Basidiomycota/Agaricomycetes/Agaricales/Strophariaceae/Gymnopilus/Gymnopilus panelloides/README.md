@@ -1,5 +1,4 @@
-Gymnopilus panelloides E. Horak & Corner SPECIES
-=======
+# Gymnopilus panelloides E. Horak & Corner SPECIES
 
 #### Status
 ACCEPTED

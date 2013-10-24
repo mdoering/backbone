@@ -1,8 +1,7 @@
-Ceratostomella nyssaecola (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Ceratostomella nyssicola (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

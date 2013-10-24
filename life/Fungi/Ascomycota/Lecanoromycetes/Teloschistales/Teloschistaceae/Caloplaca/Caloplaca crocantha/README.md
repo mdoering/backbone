@@ -1,5 +1,4 @@
-Caloplaca crocantha (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca crocantha (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arachnoidiscus ehrenbergi SPECIES
-=======
+# Arachnoidiscus ehrenbergi SPECIES
 
 #### Status
 ACCEPTED

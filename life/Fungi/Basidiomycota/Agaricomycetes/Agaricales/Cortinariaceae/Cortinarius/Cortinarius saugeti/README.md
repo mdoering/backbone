@@ -1,5 +1,4 @@
-Cortinarius saugeti Rob. Henry SPECIES
-=======
+# Cortinarius saugeti Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

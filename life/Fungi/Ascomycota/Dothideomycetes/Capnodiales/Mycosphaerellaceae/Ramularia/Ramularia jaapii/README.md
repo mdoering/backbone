@@ -1,5 +1,4 @@
-Ramularia jaapii Trotter SPECIES
-=======
+# Ramularia jaapii Trotter SPECIES
 
 #### Status
 ACCEPTED

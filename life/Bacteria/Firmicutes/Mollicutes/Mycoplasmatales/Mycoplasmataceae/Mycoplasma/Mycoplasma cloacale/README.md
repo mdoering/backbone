@@ -1,5 +1,4 @@
-Mycoplasma cloacale Bradbury & Forrest, 1984 SPECIES
-=======
+# Mycoplasma cloacale Bradbury & Forrest, 1984 SPECIES
 
 #### Status
 ACCEPTED

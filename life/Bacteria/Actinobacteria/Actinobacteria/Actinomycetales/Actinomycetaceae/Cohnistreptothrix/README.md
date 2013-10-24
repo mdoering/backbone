@@ -1,5 +1,4 @@
-Cohnistreptothrix GENUS
-=======
+# Cohnistreptothrix GENUS
 
 #### Status
 ACCEPTED

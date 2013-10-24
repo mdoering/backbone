@@ -1,5 +1,4 @@
-Microbispora thermorosea Nonomura and Ohara, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Microbispora thermorosea Nonomura and Ohara, 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

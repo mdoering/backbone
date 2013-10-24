@@ -1,5 +1,4 @@
-Hypoxylon gleditsiae Shear SPECIES
-=======
+# Hypoxylon gleditsiae Shear SPECIES
 
 #### Status
 ACCEPTED

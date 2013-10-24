@@ -1,5 +1,4 @@
-Dermatea piceae Rehm SPECIES
-=======
+# Dermatea piceae Rehm SPECIES
 
 #### Status
 ACCEPTED

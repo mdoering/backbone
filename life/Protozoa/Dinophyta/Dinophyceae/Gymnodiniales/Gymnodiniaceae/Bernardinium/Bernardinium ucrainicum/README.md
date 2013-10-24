@@ -1,5 +1,4 @@
-Bernardinium ucrainicum (Proshkina-Lavrenko) P. Javornick SPECIES
-=======
+# Bernardinium ucrainicum (Proshkina-Lavrenko) P. Javornick SPECIES
 
 #### Status
 ACCEPTED

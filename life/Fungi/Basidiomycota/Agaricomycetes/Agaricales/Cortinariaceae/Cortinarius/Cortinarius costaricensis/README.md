@@ -1,5 +1,4 @@
-Cortinarius costaricensis Ammirati, Halling & Garnica SPECIES
-=======
+# Cortinarius costaricensis Ammirati, Halling & Garnica SPECIES
 
 #### Status
 ACCEPTED

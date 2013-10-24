@@ -1,5 +1,4 @@
-Rosellinia massinkii Sacc. SPECIES
-=======
+# Rosellinia massinkii Sacc. SPECIES
 
 #### Status
 ACCEPTED

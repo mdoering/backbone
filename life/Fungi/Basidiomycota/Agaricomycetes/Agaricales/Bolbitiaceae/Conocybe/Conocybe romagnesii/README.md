@@ -1,5 +1,4 @@
-Conocybe romagnesii Hauskn. & G. Moreno SPECIES
-=======
+# Conocybe romagnesii Hauskn. & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

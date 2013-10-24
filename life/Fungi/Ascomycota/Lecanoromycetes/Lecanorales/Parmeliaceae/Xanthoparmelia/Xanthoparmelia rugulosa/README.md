@@ -1,5 +1,4 @@
-Xanthoparmelia rugulosa Hale SPECIES
-=======
+# Xanthoparmelia rugulosa Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Irpex fuscoviolaceus f. fuscoviolaceus FORM
-=======
+# Trichaptum fuscoviolaceum (Ehrenb.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Greifswald) 1: 144 (1828)
+Norw. Jl Bot. 19: 237 (1972)
 
 #### Original name
-Irpex fuscoviolaceus f. fuscoviolaceus
+Sistotrema fuscoviolaceum Ehrenb., 1818
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Helicomyces albus Preuss SPECIES
-=======
+# Helicomyces albus Preuss SPECIES
 
 #### Status
 ACCEPTED

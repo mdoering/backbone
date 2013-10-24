@@ -1,5 +1,4 @@
-Merulius expansus St.-Amans SPECIES
-=======
+# Merulius expansus St.-Amans SPECIES
 
 #### Status
 ACCEPTED

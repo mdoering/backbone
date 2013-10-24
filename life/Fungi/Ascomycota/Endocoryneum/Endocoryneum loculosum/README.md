@@ -1,14 +1,13 @@
-Coryneum loculosum Sacc., 1913 SPECIES
-=======
+# Endocoryneum loculosum (Sacc.) Petr., 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 20(5/6): 334 (1922)
 
 #### Original name
 Coryneum loculosum Sacc., 1913

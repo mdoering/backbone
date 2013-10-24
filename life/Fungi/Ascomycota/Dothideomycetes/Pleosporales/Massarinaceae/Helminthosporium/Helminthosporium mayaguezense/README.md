@@ -1,5 +1,4 @@
-Helminthosporium mayaguezense Miles SPECIES
-=======
+# Helminthosporium mayaguezense Miles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora sisyrinchii Speg. SPECIES
-=======
+# Pleospora sisyrinchii Speg. SPECIES
 
 #### Status
 ACCEPTED

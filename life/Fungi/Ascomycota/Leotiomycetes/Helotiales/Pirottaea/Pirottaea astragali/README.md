@@ -1,5 +1,4 @@
-Pirottaea astragali Nannf. SPECIES
-=======
+# Pirottaea astragali Nannf. SPECIES
 
 #### Status
 ACCEPTED

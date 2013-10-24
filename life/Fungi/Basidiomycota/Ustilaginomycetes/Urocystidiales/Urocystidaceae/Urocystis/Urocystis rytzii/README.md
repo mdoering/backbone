@@ -1,5 +1,4 @@
-Urocystis rytzii (Massenot) J. Müll. SPECIES
-=======
+# Urocystis rytzii (Massenot) J. Müll. SPECIES
 
 #### Status
 ACCEPTED

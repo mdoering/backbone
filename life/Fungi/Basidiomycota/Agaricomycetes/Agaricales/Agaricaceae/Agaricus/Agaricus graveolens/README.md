@@ -1,5 +1,4 @@
-Agaricus graveolens Schrad. SPECIES
-=======
+# Agaricus graveolens Schrad. SPECIES
 
 #### Status
 ACCEPTED

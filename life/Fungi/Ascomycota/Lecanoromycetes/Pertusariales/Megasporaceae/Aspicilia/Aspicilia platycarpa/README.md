@@ -1,5 +1,4 @@
-Aspicilia platycarpa var. tincta (J. Steiner) Szatala VARIETY
-=======
+# Aspicilia platycarpa Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora platycarpa var. tincta J. Steiner
+Aspicilia platycarpa Hue
 
 ### Remarks
 null

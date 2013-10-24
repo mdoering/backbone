@@ -1,5 +1,4 @@
-Inocybe matrisdei Singer SPECIES
-=======
+# Inocybe matrisdei Singer SPECIES
 
 #### Status
 ACCEPTED

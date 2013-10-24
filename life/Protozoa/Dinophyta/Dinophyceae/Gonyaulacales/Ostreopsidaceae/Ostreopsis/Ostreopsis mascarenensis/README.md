@@ -1,5 +1,4 @@
-Ostreopsis mascarenensis J. P. Quod SPECIES
-=======
+# Ostreopsis mascarenensis J. P. Quod SPECIES
 
 #### Status
 ACCEPTED

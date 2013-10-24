@@ -1,5 +1,4 @@
-Lepiota imperialis Speg. SPECIES
-=======
+# Lepiota imperialis Speg. SPECIES
 
 #### Status
 ACCEPTED

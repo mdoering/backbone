@@ -1,5 +1,4 @@
-Haeckelicyrtium Kozur & Mostler, 1980 GENUS
-=======
+# Haeckelicyrtium Kozur & Mostler, 1980 GENUS
 
 #### Status
 ACCEPTED

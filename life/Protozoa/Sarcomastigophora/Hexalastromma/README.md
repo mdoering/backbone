@@ -1,5 +1,4 @@
-Hexalastromma Haeckel, 1887 GENUS
-=======
+# Hexalastromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

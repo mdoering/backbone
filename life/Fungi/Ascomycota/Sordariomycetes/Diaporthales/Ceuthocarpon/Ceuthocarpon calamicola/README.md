@@ -1,8 +1,7 @@
-Ceuthocarpon calamicolum Teng & Ou SPECIES
-=======
+# Ceuthocarpon calamicola Teng & Ou SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ceuthocarpon calamicolum Teng & Ou
+Ceuthocarpon calamicola Teng & Ou
 
 ### Remarks
 null

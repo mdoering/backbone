@@ -1,5 +1,4 @@
-Peronospora seymourii Burrill SPECIES
-=======
+# Peronospora seymourii Burrill SPECIES
 
 #### Status
 ACCEPTED

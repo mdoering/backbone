@@ -1,5 +1,4 @@
-Cetrariastrum nigrociliatum (B. de Lesd.) W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Cetrariastrum nigrociliatum (B. de Lesd.) W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED

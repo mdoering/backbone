@@ -1,5 +1,4 @@
-Dimeriellopsis araliae Bat. SPECIES
-=======
+# Dimeriellopsis araliae Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desulfobacula toluolica Rabus et al., 2000 SPECIES
-=======
+# Desulfobacula toluolica Rabus et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

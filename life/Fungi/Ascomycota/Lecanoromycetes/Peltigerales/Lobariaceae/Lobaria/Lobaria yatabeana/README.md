@@ -1,5 +1,4 @@
-Lobaria yatabeana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lobaria yatabeana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

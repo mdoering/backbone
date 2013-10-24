@@ -1,5 +1,4 @@
-Crocicreas gigantosporum S.E. Carp. SPECIES
-=======
+# Crocicreas gigantosporum S.E. Carp. SPECIES
 
 #### Status
 ACCEPTED

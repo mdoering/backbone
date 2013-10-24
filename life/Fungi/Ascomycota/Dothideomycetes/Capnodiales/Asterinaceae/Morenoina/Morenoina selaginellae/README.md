@@ -1,5 +1,4 @@
-Morenoina selaginellae M.L. Farr SPECIES
-=======
+# Morenoina selaginellae M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

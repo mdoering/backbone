@@ -1,5 +1,4 @@
-Salpingorhiza Klug, 1936 GENUS
-=======
+# Salpingorhiza Klug, 1936 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea nugaria Nyl. SPECIES
-=======
+# Lecidea nugaria Nyl. SPECIES
 
 #### Status
 ACCEPTED

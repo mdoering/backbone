@@ -1,5 +1,4 @@
-Psathyra delicata Cleland SPECIES
-=======
+# Psathyra delicata Cleland SPECIES
 
 #### Status
 ACCEPTED

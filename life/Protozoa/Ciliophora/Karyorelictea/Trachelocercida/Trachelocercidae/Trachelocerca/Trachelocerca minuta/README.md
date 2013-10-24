@@ -1,5 +1,4 @@
-Trachelocerca minuta Dragesco, 1960 SPECIES
-=======
+# Trachelocerca minuta Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

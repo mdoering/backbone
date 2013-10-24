@@ -1,5 +1,4 @@
-Hepadnaviridae FAMILY
-=======
+# Hepadnaviridae FAMILY
 
 #### Status
 ACCEPTED

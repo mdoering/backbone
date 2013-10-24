@@ -1,5 +1,4 @@
-Lichen schraderi Ach. SPECIES
-=======
+# Lichen schraderi Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verruculina Kohlmeyer & Volkmann-Kohlmeyer, 1990 GENUS
-=======
+# Verruculina Kohlmeyer & Volkmann-Kohlmeyer, 1990 GENUS
 
 #### Status
 ACCEPTED

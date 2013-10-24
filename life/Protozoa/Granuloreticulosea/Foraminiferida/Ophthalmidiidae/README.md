@@ -1,5 +1,4 @@
-Ophthalmidiidae Wiesner, 1920 FAMILY
-=======
+# Ophthalmidiidae Wiesner, 1920 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cenangium juniperi Dennis, 1971 SPECIES
-=======
+# Velutarina juniperi (Dennis) K. Holm & L. Holm, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. , Addit. Ser. 25(2): 349 (1971)
+Symb. bot. upsal. 21(no. 3): 10 (1977)
 
 #### Original name
 Cenangium juniperi Dennis, 1971

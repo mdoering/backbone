@@ -1,14 +1,13 @@
-Sphaerothrombium Kützing, 1833 GENUS
-=======
+# Microcystis E. Lemmermann, 1907 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 8: 370.
+Kryptogamenfl. Mark Brandenburg 3: 45, 72.
 
 #### Original name
 null

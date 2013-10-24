@@ -1,5 +1,4 @@
-Nectria diminuata (Cooke) Sacc. SPECIES
-=======
+# Nectria diminuata (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

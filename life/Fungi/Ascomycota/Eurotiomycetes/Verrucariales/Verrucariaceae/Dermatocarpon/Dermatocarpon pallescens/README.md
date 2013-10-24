@@ -1,5 +1,4 @@
-Dermatocarpon pallescens (Servít) Servít SPECIES
-=======
+# Dermatocarpon pallescens (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

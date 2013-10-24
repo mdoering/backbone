@@ -1,5 +1,4 @@
-Camurammina Bronnimann & Keij, 1986 GENUS
-=======
+# Camurammina Bronnimann & Keij, 1986 GENUS
 
 #### Status
 ACCEPTED

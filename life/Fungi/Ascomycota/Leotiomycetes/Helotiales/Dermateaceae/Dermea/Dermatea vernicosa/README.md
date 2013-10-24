@@ -1,5 +1,4 @@
-Dermatea vernicosa Rehm SPECIES
-=======
+# Dermatea vernicosa Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anelloviridae FAMILY
-=======
+# Anelloviridae FAMILY
 
 #### Status
 ACCEPTED

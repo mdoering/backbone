@@ -1,5 +1,4 @@
-Gnomoniella microspora M. Monod SPECIES
-=======
+# Gnomoniella microspora M. Monod SPECIES
 
 #### Status
 ACCEPTED

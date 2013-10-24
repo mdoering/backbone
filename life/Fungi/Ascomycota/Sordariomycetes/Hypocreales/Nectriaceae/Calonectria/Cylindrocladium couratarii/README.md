@@ -1,17 +1,16 @@
-Cylindrocladium couratariae C. Ram & A. Ram SPECIES
-=======
+# Cylindrocladium couratarii C. Ram & A. Ram SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Reale Accad. Sci. Napoli 41(1-2): 90 (1972)
 
 #### Original name
-Cylindrocladium couratariae C. Ram & A. Ram
+Cylindrocladium couratarii C. Ram & A. Ram
 
 ### Remarks
 null

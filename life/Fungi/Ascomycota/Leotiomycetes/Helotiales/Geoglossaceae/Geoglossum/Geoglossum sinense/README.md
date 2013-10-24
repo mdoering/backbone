@@ -1,5 +1,4 @@
-Geoglossum sinense F.L. Tai SPECIES
-=======
+# Geoglossum sinense F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

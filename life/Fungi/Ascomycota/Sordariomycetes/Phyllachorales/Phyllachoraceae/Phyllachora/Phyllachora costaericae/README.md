@@ -1,5 +1,4 @@
-Phyllachora costaericae Trotter, 1926 SPECIES
-=======
+# Phyllachora costaericae Trotter, 1926 SPECIES
 
 #### Status
 ACCEPTED

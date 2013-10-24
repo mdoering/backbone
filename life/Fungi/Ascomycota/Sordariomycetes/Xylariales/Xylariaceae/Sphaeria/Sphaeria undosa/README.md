@@ -1,5 +1,4 @@
-Sphaeria undosa Lév. SPECIES
-=======
+# Sphaeria undosa Lév. SPECIES
 
 #### Status
 ACCEPTED

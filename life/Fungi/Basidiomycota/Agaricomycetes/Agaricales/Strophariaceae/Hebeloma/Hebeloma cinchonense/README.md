@@ -1,5 +1,4 @@
-Hebeloma cinchonense Murrill SPECIES
-=======
+# Hebeloma cinchonense Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glaphyrocysta texta (Bujak, 1976) Stover & Evitt, 1978 SPECIES
-=======
+# Glaphyrocysta texta (Bujak, 1976) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

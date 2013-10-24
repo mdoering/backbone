@@ -1,5 +1,4 @@
-Physarum subtile Pers. SPECIES
-=======
+# Physarum subtile Pers. SPECIES
 
 #### Status
 ACCEPTED

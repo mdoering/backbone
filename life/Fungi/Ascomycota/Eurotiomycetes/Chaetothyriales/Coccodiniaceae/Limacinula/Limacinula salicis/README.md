@@ -1,5 +1,4 @@
-Limacinula salicis (G. Arnaud) Sacc. & Trotter SPECIES
-=======
+# Limacinula salicis (G. Arnaud) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

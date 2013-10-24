@@ -1,5 +1,4 @@
-Balladynastrum philippinense Hansf. SPECIES
-=======
+# Balladynastrum philippinense Hansf. SPECIES
 
 #### Status
 ACCEPTED

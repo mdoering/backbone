@@ -1,5 +1,4 @@
-Xerula globospora R.H. Petersen & Nagas. SPECIES
-=======
+# Xerula globospora R.H. Petersen & Nagas. SPECIES
 
 #### Status
 ACCEPTED

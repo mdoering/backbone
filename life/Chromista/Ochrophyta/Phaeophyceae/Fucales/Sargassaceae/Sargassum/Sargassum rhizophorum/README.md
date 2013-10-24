@@ -1,5 +1,4 @@
-Sargassum rhizophorum Tseng & Lu SPECIES
-=======
+# Sargassum rhizophorum Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

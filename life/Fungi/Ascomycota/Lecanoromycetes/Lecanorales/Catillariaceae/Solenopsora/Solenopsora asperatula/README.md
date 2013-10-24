@@ -1,5 +1,4 @@
-Solenopsora asperatula (J. Steiner) Zahlbr. SPECIES
-=======
+# Solenopsora asperatula (J. Steiner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

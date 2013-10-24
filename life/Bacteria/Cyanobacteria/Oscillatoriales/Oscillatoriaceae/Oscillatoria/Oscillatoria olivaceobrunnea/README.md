@@ -1,5 +1,4 @@
-Oscillatoria olivaceobrunnea var. motuporensis L. Hoffmann & V. Demoulin VARIETY
-=======
+# Oscillatoria olivaceobrunnea L. Hoffmann & V. Demoulin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Endocarpidium custanii (A. Massal.) Müll. Arg. SPECIES
-=======
+# Endocarpidium custnani (A. Massal.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mém. Soc. Phys. Hist. nat. Genève (1862)
 
 #### Original name
 Placidium custnani A. Massal.

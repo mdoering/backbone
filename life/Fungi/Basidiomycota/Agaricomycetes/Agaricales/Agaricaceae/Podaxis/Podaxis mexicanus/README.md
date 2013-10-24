@@ -1,8 +1,7 @@
-Podaxon mexicanus Ellis SPECIES
-=======
+# Podaxis mexicanus Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon mexicanus Ellis
+Podaxis mexicanus Ellis
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bolbitius expansus (Peck) Watling SPECIES
-=======
+# Bolbitius expansus (Peck) Watling SPECIES
 
 #### Status
 ACCEPTED

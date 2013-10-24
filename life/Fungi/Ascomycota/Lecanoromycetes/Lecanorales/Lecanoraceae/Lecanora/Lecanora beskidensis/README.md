@@ -1,5 +1,4 @@
-Lecanora beskidensis Motyka SPECIES
-=======
+# Lecanora beskidensis Motyka SPECIES
 
 #### Status
 ACCEPTED

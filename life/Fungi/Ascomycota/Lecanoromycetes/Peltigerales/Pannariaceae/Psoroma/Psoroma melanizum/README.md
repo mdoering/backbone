@@ -1,5 +1,4 @@
-Psoroma melanizum Zahlbr. SPECIES
-=======
+# Psoroma melanizum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

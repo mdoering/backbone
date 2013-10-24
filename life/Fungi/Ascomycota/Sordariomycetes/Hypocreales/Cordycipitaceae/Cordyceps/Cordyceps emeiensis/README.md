@@ -1,5 +1,4 @@
-Cordyceps emeiensis A.Y. Liu & Z.Q. Liang SPECIES
-=======
+# Cordyceps emeiensis A.Y. Liu & Z.Q. Liang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxydothis acutata (Syd. & P. Syd.) K.D. Hyde SPECIES
-=======
+# Oxydothis acutata (Syd. & P. Syd.) K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

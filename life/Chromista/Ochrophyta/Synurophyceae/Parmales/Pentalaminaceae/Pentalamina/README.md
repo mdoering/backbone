@@ -1,5 +1,4 @@
-Pentalamina H.J.Marchant, 1987 GENUS
-=======
+# Pentalamina H.J.Marchant, 1987 GENUS
 
 #### Status
 ACCEPTED

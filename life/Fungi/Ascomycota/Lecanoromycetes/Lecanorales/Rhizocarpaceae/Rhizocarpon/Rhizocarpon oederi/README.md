@@ -1,14 +1,13 @@
-Diplotomma oederi (Weber) Jatta SPECIES
-=======
+# Rhizocarpon oederi (Weber) Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Parerga lichenol. (Breslau) 232 (1861)
 
 #### Original name
 Lichen oederi Weber

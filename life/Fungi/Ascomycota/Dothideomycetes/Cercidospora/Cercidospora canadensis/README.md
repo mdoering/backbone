@@ -1,5 +1,4 @@
-Cercidospora canadensis (Ellis & Everh.) Kuntze SPECIES
-=======
+# Cercidospora canadensis (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

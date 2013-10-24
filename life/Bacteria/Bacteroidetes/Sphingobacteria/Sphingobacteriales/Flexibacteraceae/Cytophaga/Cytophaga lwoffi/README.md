@@ -1,5 +1,4 @@
-Cytophaga lwoffi SPECIES
-=======
+# Cytophaga lwoffi SPECIES
 
 #### Status
 ACCEPTED

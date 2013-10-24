@@ -1,5 +1,4 @@
-Uredo pusilla F. Kern, Thurst. & Whetzel SPECIES
-=======
+# Uredo pusilla F. Kern, Thurst. & Whetzel SPECIES
 
 #### Status
 ACCEPTED

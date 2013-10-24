@@ -1,5 +1,4 @@
-Agromyces italicus Jurado et al., 2005 SPECIES
-=======
+# Agromyces italicus Jurado et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

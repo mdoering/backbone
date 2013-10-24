@@ -1,5 +1,4 @@
-Clavulinopsis subumbrinella (S. Imai) Corner SPECIES
-=======
+# Clavulinopsis subumbrinella (S. Imai) Corner SPECIES
 
 #### Status
 ACCEPTED

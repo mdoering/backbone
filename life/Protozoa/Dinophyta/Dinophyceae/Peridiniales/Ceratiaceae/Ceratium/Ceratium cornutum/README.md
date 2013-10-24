@@ -1,5 +1,4 @@
-Ceratium cornutum (Ehrenberg) Claparède & J. Lachmann SPECIES
-=======
+# Ceratium cornutum (Ehrenberg) Claparède & J. Lachmann SPECIES
 
 #### Status
 ACCEPTED

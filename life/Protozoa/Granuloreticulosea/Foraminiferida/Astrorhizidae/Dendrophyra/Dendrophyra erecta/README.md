@@ -1,5 +1,4 @@
-Dendrophyra erecta Wright, 1861 SPECIES
-=======
+# Dendrophyra erecta Wright, 1861 SPECIES
 
 #### Status
 ACCEPTED

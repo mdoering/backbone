@@ -1,5 +1,4 @@
-Catillaria silvestris (Arnold) Lettau SPECIES
-=======
+# Catillaria silvestris (Arnold) Lettau SPECIES
 
 #### Status
 ACCEPTED

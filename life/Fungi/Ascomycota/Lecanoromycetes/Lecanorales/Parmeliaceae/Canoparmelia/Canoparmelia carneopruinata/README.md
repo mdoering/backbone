@@ -1,17 +1,16 @@
-Pseudoparmelia carneopruinata (Zahlbr.) Hale SPECIES
-=======
+# Canoparmelia carneopruinata (Zahlbr.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 29: 189 (1974)
+null
 
 #### Original name
-Parmelia carneopruinata Zahlbr.
+null
 
 ### Remarks
 null

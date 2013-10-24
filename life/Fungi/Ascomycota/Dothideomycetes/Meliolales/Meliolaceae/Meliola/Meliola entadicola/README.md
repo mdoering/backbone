@@ -1,5 +1,4 @@
-Meliola entadicola Deighton SPECIES
-=======
+# Meliola entadicola Deighton SPECIES
 
 #### Status
 ACCEPTED

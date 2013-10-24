@@ -1,5 +1,4 @@
-Cercospora cocciniae Munjal, Lall & Chona SPECIES
-=======
+# Cercospora cocciniae Munjal, Lall & Chona SPECIES
 
 #### Status
 ACCEPTED

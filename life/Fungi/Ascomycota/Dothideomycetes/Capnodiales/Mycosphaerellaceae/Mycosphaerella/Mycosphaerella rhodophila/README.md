@@ -1,5 +1,4 @@
-Mycosphaerella rhodophila (Pass.) Cruchet SPECIES
-=======
+# Mycosphaerella rhodophila (Pass.) Cruchet SPECIES
 
 #### Status
 ACCEPTED

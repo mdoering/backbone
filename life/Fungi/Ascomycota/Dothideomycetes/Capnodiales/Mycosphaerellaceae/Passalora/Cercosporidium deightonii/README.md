@@ -1,5 +1,4 @@
-Cercosporidium deightonii N. Pons & B. Sutton SPECIES
-=======
+# Cercosporidium deightonii N. Pons & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

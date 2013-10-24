@@ -1,5 +1,4 @@
-Synchytrium mercurialis (Lib.) Fuckel, 1870 SPECIES
-=======
+# Synchytrium mercurialis (Lib.) Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

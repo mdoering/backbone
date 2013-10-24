@@ -1,5 +1,4 @@
-Botryobasidium baicalinum Kotir. & Ryvarden SPECIES
-=======
+# Botryobasidium baicalinum Kotir. & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

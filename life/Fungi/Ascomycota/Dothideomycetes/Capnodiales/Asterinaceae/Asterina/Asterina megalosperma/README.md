@@ -1,5 +1,4 @@
-Asterina megalosperma Speg. SPECIES
-=======
+# Asterina megalosperma Speg. SPECIES
 
 #### Status
 ACCEPTED

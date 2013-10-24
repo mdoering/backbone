@@ -1,5 +1,4 @@
-Coniothyrium dianthi Staritz SPECIES
-=======
+# Coniothyrium dianthi Staritz SPECIES
 
 #### Status
 ACCEPTED

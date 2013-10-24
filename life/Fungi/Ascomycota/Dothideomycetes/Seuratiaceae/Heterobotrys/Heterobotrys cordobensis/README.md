@@ -1,5 +1,4 @@
-Heterobotrys cordobensis Speg. SPECIES
-=======
+# Heterobotrys cordobensis Speg. SPECIES
 
 #### Status
 ACCEPTED

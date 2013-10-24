@@ -1,5 +1,4 @@
-Coprinopsis herinkii (Pilát & Svrcek) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis herinkii (Pilát & Svrcek) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia auruntii (A. Massal.) Boistel SPECIES
-=======
+# Arthopyrenia auruntii (A. Massal.) Boistel SPECIES
 
 #### Status
 ACCEPTED

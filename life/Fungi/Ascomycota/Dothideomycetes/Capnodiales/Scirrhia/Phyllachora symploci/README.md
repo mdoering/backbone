@@ -1,5 +1,4 @@
-Phyllachora symploci Pat., 1893 SPECIES
-=======
+# Phyllachora symploci Pat., 1893 SPECIES
 
 #### Status
 DOUBTFUL

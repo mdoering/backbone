@@ -1,5 +1,4 @@
-Stuartella briardiana (Sacc.) Sacc. SPECIES
-=======
+# Stuartella briardiana (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

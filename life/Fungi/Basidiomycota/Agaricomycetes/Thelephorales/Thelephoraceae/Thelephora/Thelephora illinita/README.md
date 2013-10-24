@@ -1,5 +1,4 @@
-Thelephora illinita Wallr. SPECIES
-=======
+# Thelephora illinita Wallr. SPECIES
 
 #### Status
 ACCEPTED

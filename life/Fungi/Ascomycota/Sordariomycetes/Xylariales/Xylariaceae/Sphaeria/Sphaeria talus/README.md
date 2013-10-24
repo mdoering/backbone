@@ -1,5 +1,4 @@
-Sphaeria talus var. talus VARIETY
-=======
+# Sphaeria talus Tode SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fung. mecklenb. sel. (Lüneburg) 2: 24, tab. 11:92 (1791)
 
 #### Original name
-Sphaeria talus var. talus
+Sphaeria talus Tode
 
 ### Remarks
 null

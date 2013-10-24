@@ -1,5 +1,4 @@
-Pteromyces E. Bommer, M. Rousseau & Sacc. GENUS
-=======
+# Pteromyces E. Bommer, M. Rousseau & Sacc. GENUS
 
 #### Status
 ACCEPTED

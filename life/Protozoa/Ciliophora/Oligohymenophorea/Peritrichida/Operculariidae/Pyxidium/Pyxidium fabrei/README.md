@@ -1,8 +1,7 @@
-Opercularia fabrei Faure-Fremiet, 1904 SPECIES
-=======
+# Pyxidium fabrei Faure-Fremiet, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

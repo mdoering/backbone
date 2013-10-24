@@ -1,5 +1,4 @@
-Lecanora nuda Motyka SPECIES
-=======
+# Lecanora nuda Motyka SPECIES
 
 #### Status
 ACCEPTED

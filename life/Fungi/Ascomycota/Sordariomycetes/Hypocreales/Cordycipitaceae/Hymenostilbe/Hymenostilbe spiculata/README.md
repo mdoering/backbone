@@ -1,5 +1,4 @@
-Hymenostilbe spiculata B. Huang, M.Z. Fan & Z.Z. Li SPECIES
-=======
+# Hymenostilbe spiculata B. Huang, M.Z. Fan & Z.Z. Li SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria paulistana Speg. SPECIES
-=======
+# Metasphaeria paulistana Speg. SPECIES
 
 #### Status
 ACCEPTED

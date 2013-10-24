@@ -1,5 +1,4 @@
-Tricholoma flavum P. Kumm. SPECIES
-=======
+# Tricholoma flavum P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

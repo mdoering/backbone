@@ -1,5 +1,4 @@
-Racodium turfaceum subsp. turfaceum SUBSPECIES
-=======
+# Racodium turfaceum Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. eur. (Erlanga) 1: 68 (1822)
 
 #### Original name
-Racodium turfaceum subsp. turfaceum
+Racodium turfaceum Pers.
 
 ### Remarks
 null

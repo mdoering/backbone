@@ -1,5 +1,4 @@
-Phaeosphaerium F.R. Kjellman, 1890 GENUS
-=======
+# Phaeosphaerium F.R. Kjellman, 1890 GENUS
 
 #### Status
 ACCEPTED

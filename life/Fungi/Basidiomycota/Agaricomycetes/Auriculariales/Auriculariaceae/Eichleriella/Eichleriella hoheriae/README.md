@@ -1,5 +1,4 @@
-Eichleriella hoheriae McNabb, 1969 SPECIES
-=======
+# Eichleriella hoheriae McNabb, 1969 SPECIES
 
 #### Status
 ACCEPTED

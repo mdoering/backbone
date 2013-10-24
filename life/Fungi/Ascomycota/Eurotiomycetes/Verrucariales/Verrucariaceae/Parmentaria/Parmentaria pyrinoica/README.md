@@ -1,5 +1,4 @@
-Parmentaria pyrinoica (Ach.) Müll. Arg. SPECIES
-=======
+# Parmentaria pyrinoica (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

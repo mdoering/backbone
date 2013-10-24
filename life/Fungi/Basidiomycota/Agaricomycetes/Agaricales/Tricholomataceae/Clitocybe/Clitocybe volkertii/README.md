@@ -1,5 +1,4 @@
-Clitocybe volkertii (Murrill) H.E. Bigelow SPECIES
-=======
+# Clitocybe volkertii (Murrill) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

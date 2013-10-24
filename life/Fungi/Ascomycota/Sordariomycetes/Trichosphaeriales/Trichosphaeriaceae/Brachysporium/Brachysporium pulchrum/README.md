@@ -1,5 +1,4 @@
-Brachysporium pulchrum M.B. Ellis SPECIES
-=======
+# Brachysporium pulchrum M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia nimandairana f. nimandairana FORM
-=======
+# Parmelia nimandairana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia nimandairana f. nimandairana
+Parmelia nimandairana Zahlbr.
 
 ### Remarks
 null

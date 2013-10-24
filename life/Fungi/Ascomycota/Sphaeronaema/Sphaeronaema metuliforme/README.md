@@ -1,5 +1,4 @@
-Sphaeronaema metuliforme Berk. SPECIES
-=======
+# Sphaeronaema metuliforme Berk. SPECIES
 
 #### Status
 ACCEPTED

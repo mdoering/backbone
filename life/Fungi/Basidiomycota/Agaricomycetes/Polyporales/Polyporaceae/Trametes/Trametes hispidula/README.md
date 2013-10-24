@@ -1,5 +1,4 @@
-Trametes hispidula Berk. & M.A. Curtis SPECIES
-=======
+# Trametes hispidula Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

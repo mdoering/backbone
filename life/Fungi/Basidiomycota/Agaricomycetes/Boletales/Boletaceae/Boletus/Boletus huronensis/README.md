@@ -1,5 +1,4 @@
-Boletus huronensis A.H. Sm. & Thiers SPECIES
-=======
+# Boletus huronensis A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

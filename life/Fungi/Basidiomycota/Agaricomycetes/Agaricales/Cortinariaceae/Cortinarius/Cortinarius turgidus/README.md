@@ -1,5 +1,4 @@
-Cortinarius turgidus Fr., 1838 SPECIES
-=======
+# Cortinarius turgidus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED

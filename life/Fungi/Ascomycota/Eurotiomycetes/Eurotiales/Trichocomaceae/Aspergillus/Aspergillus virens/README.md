@@ -1,5 +1,4 @@
-Aspergillus virens Link SPECIES
-=======
+# Aspergillus virens Link SPECIES
 
 #### Status
 ACCEPTED

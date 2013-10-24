@@ -1,5 +1,4 @@
-Rosellinia belgica Mouton SPECIES
-=======
+# Rosellinia belgica Mouton SPECIES
 
 #### Status
 ACCEPTED

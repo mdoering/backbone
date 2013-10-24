@@ -1,5 +1,4 @@
-Heterodermia major SPECIES
-=======
+# Heterodermia major SPECIES
 
 #### Status
 ACCEPTED

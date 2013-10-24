@@ -1,5 +1,4 @@
-Asteridiella winteri (Speg.) Hansf. SPECIES
-=======
+# Asteridiella winteri (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

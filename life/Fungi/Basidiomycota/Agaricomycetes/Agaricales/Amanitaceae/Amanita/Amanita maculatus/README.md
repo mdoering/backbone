@@ -1,5 +1,4 @@
-Amanita maculatus Schumach. SPECIES
-=======
+# Amanita maculatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria nuda Ellis & Everh. SPECIES
-=======
+# Amphisphaeria nuda Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

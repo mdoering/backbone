@@ -1,5 +1,4 @@
-Lagenosolenia vannicoronata McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia vannicoronata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

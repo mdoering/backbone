@@ -1,5 +1,4 @@
-Chaenothecopsis formosa Titov SPECIES
-=======
+# Chaenothecopsis formosa Titov SPECIES
 
 #### Status
 ACCEPTED

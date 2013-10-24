@@ -1,5 +1,4 @@
-Pterula brunneosetosa Corner, 1952 SPECIES
-=======
+# Pterula brunneosetosa Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

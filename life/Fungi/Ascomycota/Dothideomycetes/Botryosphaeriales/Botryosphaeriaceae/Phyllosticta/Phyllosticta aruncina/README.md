@@ -1,5 +1,4 @@
-Phyllosticta aruncina Sacc. SPECIES
-=======
+# Phyllosticta aruncina Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diderma virgineum (Massee) Kuntze SPECIES
-=======
+# Diderma virgineum (Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

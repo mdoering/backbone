@@ -1,5 +1,4 @@
-Nectria sasae-kurilensis S. Imai SPECIES
-=======
+# Nectria sasae-kurilensis S. Imai SPECIES
 
 #### Status
 ACCEPTED

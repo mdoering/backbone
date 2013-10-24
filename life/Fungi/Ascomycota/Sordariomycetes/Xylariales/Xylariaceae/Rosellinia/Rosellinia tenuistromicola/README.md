@@ -1,5 +1,4 @@
-Rosellinia tenuistromicola Petch SPECIES
-=======
+# Rosellinia tenuistromicola Petch SPECIES
 
 #### Status
 ACCEPTED

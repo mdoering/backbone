@@ -1,5 +1,4 @@
-Sydowiella stellatifolii Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Sydowiella stellatifolii Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

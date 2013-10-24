@@ -1,5 +1,4 @@
-Byssosphaeria alnea (Peck) M.E. Barr SPECIES
-=======
+# Byssosphaeria alnea (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

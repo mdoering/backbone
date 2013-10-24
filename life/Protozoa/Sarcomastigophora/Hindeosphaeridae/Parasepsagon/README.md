@@ -1,5 +1,4 @@
-Parasepsagon Dumitrica, Kozur & Mostler, 1980 GENUS
-=======
+# Parasepsagon Dumitrica, Kozur & Mostler, 1980 GENUS
 
 #### Status
 ACCEPTED

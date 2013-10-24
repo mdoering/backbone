@@ -1,5 +1,4 @@
-Tilletia montana Ellis & Everh. SPECIES
-=======
+# Tilletia montana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reticularia atrorufa Berk. & M.A. Curtis SPECIES
-=======
+# Reticularia atrorufa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

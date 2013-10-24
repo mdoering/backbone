@@ -1,5 +1,4 @@
-Phyllactinia dalbergiae Piroz. SPECIES
-=======
+# Phyllactinia dalbergiae Piroz. SPECIES
 
 #### Status
 ACCEPTED

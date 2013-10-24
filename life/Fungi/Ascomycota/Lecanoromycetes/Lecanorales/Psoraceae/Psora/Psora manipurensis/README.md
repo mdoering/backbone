@@ -1,5 +1,4 @@
-Psora manipurensis Müll. Arg. SPECIES
-=======
+# Psora manipurensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

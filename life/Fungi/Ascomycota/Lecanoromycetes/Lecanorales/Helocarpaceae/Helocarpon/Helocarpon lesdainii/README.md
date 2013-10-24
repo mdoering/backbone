@@ -1,5 +1,4 @@
-Helocarpon lesdainii (Zahlbr.) Breuss SPECIES
-=======
+# Helocarpon lesdainii (Zahlbr.) Breuss SPECIES
 
 #### Status
 ACCEPTED

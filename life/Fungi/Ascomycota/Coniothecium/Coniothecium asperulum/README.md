@@ -1,5 +1,4 @@
-Coniothecium asperulum Durieu & Mont. SPECIES
-=======
+# Coniothecium asperulum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acidisphaera Hiraishi, Matsuzawa, Kanbe & Wakao, 2000 GENUS
-=======
+# Acidisphaera Hiraishi, Matsuzawa, Kanbe & Wakao, 2000 GENUS
 
 #### Status
 ACCEPTED

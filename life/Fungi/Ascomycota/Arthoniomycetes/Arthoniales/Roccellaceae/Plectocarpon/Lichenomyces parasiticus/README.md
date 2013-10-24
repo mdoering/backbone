@@ -1,5 +1,4 @@
-Lichenomyces parasiticus Trevis. SPECIES
-=======
+# Lichenomyces parasiticus Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina willeyi R. Howe SPECIES
-=======
+# Ramalina willeyi R. Howe SPECIES
 
 #### Status
 ACCEPTED

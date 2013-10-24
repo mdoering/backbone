@@ -1,5 +1,4 @@
-Gymnoglossum majus (Zeller & C.W. Dodge) Zeller SPECIES
-=======
+# Gymnoglossum majus (Zeller & C.W. Dodge) Zeller SPECIES
 
 #### Status
 ACCEPTED

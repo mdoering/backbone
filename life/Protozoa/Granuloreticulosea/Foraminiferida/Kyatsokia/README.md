@@ -1,5 +1,4 @@
-Kyatsokia Sahni & Sastri, 1954 GENUS
-=======
+# Kyatsokia Sahni & Sastri, 1954 GENUS
 
 #### Status
 ACCEPTED

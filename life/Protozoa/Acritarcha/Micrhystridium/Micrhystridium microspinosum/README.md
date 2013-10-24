@@ -1,5 +1,4 @@
-Micrhystridium microspinosum Schaarschmidt, 1963 SPECIES
-=======
+# Micrhystridium microspinosum Schaarschmidt, 1963 SPECIES
 
 #### Status
 ACCEPTED

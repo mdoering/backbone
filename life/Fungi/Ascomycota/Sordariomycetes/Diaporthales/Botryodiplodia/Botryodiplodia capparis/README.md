@@ -1,17 +1,16 @@
-Botryodiplodia capparidis S. Ahmad SPECIES
-=======
+# Botryodiplodia capparis S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 15(1-2): 3 (1969)
 
 #### Original name
-Botryodiplodia capparidis S. Ahmad
+Botryodiplodia capparis S. Ahmad
 
 ### Remarks
 null

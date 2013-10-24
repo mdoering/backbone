@@ -1,5 +1,4 @@
-Arthonia stenospora Müll. Arg. SPECIES
-=======
+# Arthonia stenospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

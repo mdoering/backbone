@@ -1,5 +1,4 @@
-Thermotoga naphthophila Takahata et al., 2001 SPECIES
-=======
+# Thermotoga naphthophila Takahata et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

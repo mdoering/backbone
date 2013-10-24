@@ -1,5 +1,4 @@
-Pluricellaesporites tamilensis R.K. Saxena & S. Khare SPECIES
-=======
+# Pluricellaesporites tamilensis R.K. Saxena & S. Khare SPECIES
 
 #### Status
 ACCEPTED

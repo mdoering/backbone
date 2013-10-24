@@ -1,5 +1,4 @@
-Coccostroma cynometrae Sivan., 1974 SPECIES
-=======
+# Coccostroma cynometrae Sivan., 1974 SPECIES
 
 #### Status
 ACCEPTED

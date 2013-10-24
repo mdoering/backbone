@@ -1,5 +1,4 @@
-Psathyrella betulina Peck SPECIES
-=======
+# Psathyrella betulina Peck SPECIES
 
 #### Status
 ACCEPTED

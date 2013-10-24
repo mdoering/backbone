@@ -1,5 +1,4 @@
-Aecidium sinhagadense Sathe SPECIES
-=======
+# Aecidium sinhagadense Sathe SPECIES
 
 #### Status
 ACCEPTED

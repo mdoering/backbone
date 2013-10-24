@@ -1,5 +1,4 @@
-Cladonia penicillata (Vain.) Ahti & Marcelli SPECIES
-=======
+# Cladonia penicillata (Vain.) Ahti & Marcelli SPECIES
 
 #### Status
 ACCEPTED

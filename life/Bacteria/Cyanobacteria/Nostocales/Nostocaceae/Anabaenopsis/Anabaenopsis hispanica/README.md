@@ -1,5 +1,4 @@
-Anabaenopsis hispanica var. luteola P. González VARIETY
-=======
+# Anabaenopsis hispanica P. González SPECIES
 
 #### Status
 ACCEPTED

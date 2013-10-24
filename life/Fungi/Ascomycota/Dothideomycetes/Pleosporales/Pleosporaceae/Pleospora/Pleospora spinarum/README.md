@@ -1,5 +1,4 @@
-Pleospora spinarum Syd. SPECIES
-=======
+# Pleospora spinarum Syd. SPECIES
 
 #### Status
 ACCEPTED

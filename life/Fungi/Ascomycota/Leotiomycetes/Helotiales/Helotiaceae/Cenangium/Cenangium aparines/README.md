@@ -1,5 +1,4 @@
-Cenangium aparines (Wallr.) Fuckel SPECIES
-=======
+# Cenangium aparines (Wallr.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

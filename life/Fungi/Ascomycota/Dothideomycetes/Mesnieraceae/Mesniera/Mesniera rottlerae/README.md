@@ -1,14 +1,13 @@
-Mesniera rotlerae (Racib.) Sacc. & P. Syd. SPECIES
-=======
+# Mesniera rottlerae (Racib.) Sacc. & P. Syd., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 16: 441 (1902)
 
 #### Original name
 Anthostomella rottlerae Racib., 1900

@@ -1,5 +1,4 @@
-Mycosphaerella lippiae (Cif. & Gonz. Frag.) Cif. SPECIES
-=======
+# Mycosphaerella lippiae (Cif. & Gonz. Frag.) Cif. SPECIES
 
 #### Status
 ACCEPTED

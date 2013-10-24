@@ -1,5 +1,4 @@
-Dichomyces gracilis Thaxt. SPECIES
-=======
+# Dichomyces gracilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracoidea microspora L. Guo SPECIES
-=======
+# Anthracoidea microspora L. Guo SPECIES
 
 #### Status
 ACCEPTED

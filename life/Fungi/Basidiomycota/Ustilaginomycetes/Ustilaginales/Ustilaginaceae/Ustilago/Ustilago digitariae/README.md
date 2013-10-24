@@ -1,5 +1,4 @@
-Ustilago digitariae f. digitariae FORM
-=======
+# Ustilago digitariae (Kunze) Rabenh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ustilago digitariae f. digitariae
+Uredo digitariae Kunze
 
 ### Remarks
 null

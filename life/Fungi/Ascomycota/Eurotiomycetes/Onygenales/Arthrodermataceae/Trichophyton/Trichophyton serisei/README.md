@@ -1,5 +1,4 @@
-Trichophyton serisei (Cazalbou) Nann. SPECIES
-=======
+# Trichophyton serisei (Cazalbou) Nann. SPECIES
 
 #### Status
 ACCEPTED

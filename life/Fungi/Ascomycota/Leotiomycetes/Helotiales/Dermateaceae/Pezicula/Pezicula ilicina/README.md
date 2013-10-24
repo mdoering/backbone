@@ -1,5 +1,4 @@
-Pezicula ilicina Kirschst. SPECIES
-=======
+# Pezicula ilicina Kirschst. SPECIES
 
 #### Status
 ACCEPTED

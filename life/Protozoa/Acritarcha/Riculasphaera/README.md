@@ -1,5 +1,4 @@
-Riculasphaera A.R. Loeblich Jr. & Drugg, 1968 GENUS
-=======
+# Riculasphaera A.R. Loeblich Jr. & Drugg, 1968 GENUS
 
 #### Status
 ACCEPTED

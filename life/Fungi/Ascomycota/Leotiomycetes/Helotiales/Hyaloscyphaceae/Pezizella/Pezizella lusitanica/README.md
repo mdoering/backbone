@@ -1,5 +1,4 @@
-Pezizella lusitanica Dennis SPECIES
-=======
+# Pezizella lusitanica Dennis SPECIES
 
 #### Status
 ACCEPTED

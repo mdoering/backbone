@@ -1,5 +1,4 @@
-Phyllosticta caraganae Tassi SPECIES
-=======
+# Phyllosticta caraganae Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemileia colombiana Buriticá, 1978 SPECIES
-=======
+# Hemileia colombiana Buriticá, 1978 SPECIES
 
 #### Status
 ACCEPTED

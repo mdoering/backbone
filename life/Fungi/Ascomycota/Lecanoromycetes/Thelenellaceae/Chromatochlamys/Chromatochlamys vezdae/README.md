@@ -1,5 +1,4 @@
-Chromatochlamys vezdae H. Mayrhofer & Poelt SPECIES
-=======
+# Chromatochlamys vezdae H. Mayrhofer & Poelt SPECIES
 
 #### Status
 ACCEPTED

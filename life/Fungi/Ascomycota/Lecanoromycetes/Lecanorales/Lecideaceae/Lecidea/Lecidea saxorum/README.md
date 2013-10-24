@@ -1,5 +1,4 @@
-Lecidea saxorum SPECIES
-=======
+# Lecidea saxorum SPECIES
 
 #### Status
 ACCEPTED

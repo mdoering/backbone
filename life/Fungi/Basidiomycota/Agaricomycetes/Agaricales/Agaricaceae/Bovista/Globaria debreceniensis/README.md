@@ -1,5 +1,4 @@
-Globaria debreceniensis Hazsl. SPECIES
-=======
+# Globaria debreceniensis Hazsl. SPECIES
 
 #### Status
 ACCEPTED

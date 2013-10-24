@@ -1,5 +1,4 @@
-Synhymenia numerosa (Ozaki & Yagiu, 1941) Jankowski, 1992 SPECIES
-=======
+# Synhymenia numerosa (Ozaki & Yagiu, 1941) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

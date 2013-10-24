@@ -1,5 +1,4 @@
-Amanitopsis fritillaria (Berk.) Sacc. SPECIES
-=======
+# Amanitopsis fritillaria (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

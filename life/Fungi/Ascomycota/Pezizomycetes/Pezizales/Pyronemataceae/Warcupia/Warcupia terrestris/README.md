@@ -1,5 +1,4 @@
-Warcupia terrestris var. terrestris Paden & J.V. Cameron, 1972 VARIETY
-=======
+# Warcupia terrestris Paden & J.V. Cameron SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Can. J. Bot. 50(5): 999 (1972)
 
 #### Original name
-Warcupia terrestris var. terrestris Paden & J.V. Cameron, 1972
+Warcupia terrestris Paden & J.V. Cameron
 
 ### Remarks
 null

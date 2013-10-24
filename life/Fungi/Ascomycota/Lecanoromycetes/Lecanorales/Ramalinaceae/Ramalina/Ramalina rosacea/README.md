@@ -1,5 +1,4 @@
-Ramalina rosacea (A. Massal.) Hepp SPECIES
-=======
+# Ramalina rosacea (A. Massal.) Hepp SPECIES
 
 #### Status
 ACCEPTED

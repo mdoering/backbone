@@ -1,5 +1,4 @@
-Encoeliella australiensis Höhn. SPECIES
-=======
+# Encoeliella australiensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

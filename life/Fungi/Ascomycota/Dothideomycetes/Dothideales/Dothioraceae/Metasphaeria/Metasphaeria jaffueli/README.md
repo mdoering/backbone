@@ -1,5 +1,4 @@
-Metasphaeria jaffueli Speg. SPECIES
-=======
+# Metasphaeria jaffueli Speg. SPECIES
 
 #### Status
 ACCEPTED

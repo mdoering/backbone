@@ -1,5 +1,4 @@
-Hexastylus Haeckel, 1881 GENUS
-=======
+# Hexastylus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

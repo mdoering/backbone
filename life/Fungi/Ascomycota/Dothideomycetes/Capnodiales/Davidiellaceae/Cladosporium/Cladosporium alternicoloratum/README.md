@@ -1,5 +1,4 @@
-Cladosporium alternicoloratum R.F. Castañeda & W.B. Kendr., 1991 SPECIES
-=======
+# Cladosporium alternicoloratum R.F. Castañeda & W.B. Kendr., 1991 SPECIES
 
 #### Status
 ACCEPTED

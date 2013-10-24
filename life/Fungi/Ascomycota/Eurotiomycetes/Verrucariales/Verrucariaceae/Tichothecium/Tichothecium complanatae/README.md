@@ -1,5 +1,4 @@
-Tichothecium complanatae (Arnold) G. Winter SPECIES
-=======
+# Tichothecium complanatae (Arnold) G. Winter SPECIES
 
 #### Status
 ACCEPTED

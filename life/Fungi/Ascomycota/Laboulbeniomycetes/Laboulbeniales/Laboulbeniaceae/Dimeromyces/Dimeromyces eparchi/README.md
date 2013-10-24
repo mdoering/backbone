@@ -1,5 +1,4 @@
-Dimeromyces eparchi Y.B. Lee & T. Majewski SPECIES
-=======
+# Dimeromyces eparchi Y.B. Lee & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

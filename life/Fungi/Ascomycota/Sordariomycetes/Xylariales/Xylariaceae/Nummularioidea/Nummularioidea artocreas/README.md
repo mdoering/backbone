@@ -1,5 +1,4 @@
-Nummularioidea artocreas (Cooke & Massee) Lloyd SPECIES
-=======
+# Nummularioidea artocreas (Cooke & Massee) Lloyd SPECIES
 
 #### Status
 ACCEPTED

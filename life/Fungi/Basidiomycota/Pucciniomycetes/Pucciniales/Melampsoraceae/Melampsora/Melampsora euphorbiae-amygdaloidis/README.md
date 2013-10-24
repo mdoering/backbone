@@ -1,5 +1,4 @@
-Melampsora euphorbiae-amygdaloidis W. Muell. SPECIES
-=======
+# Melampsora euphorbiae-amygdaloidis W. Muell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena atrofusca Velen. SPECIES
-=======
+# Mycena atrofusca Velen. SPECIES
 
 #### Status
 ACCEPTED

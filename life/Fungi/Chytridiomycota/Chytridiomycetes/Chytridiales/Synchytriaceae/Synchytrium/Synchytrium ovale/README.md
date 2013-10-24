@@ -1,5 +1,4 @@
-Synchytrium ovale var. giganteum (Sparrow & M.E. Barr) Karling VARIETY
-=======
+# Synchytrium ovale (Rieth) Karling SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 45(2): 278 (1953)
 
 #### Original name
-Micromyces ovalis var. giganteus Sparrow & M.E. Barr
+Micromyces ovalis Rieth
 
 ### Remarks
 null

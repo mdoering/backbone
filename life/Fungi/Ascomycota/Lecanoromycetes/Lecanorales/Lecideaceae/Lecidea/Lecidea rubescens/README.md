@@ -1,5 +1,4 @@
-Lecidea rubescens (Th. Fr.) Nyl. SPECIES
-=======
+# Lecidea rubescens (Th. Fr.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcographa monographis Fée SPECIES
-=======
+# Sarcographa monographis Fée SPECIES
 
 #### Status
 ACCEPTED

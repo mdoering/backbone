@@ -1,5 +1,4 @@
-Lecaniocola rosae (Buchner) Brain SPECIES
-=======
+# Lecaniocola rosae (Buchner) Brain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus tropicus Natarajan SPECIES
-=======
+# Gymnopilus tropicus Natarajan SPECIES
 
 #### Status
 ACCEPTED

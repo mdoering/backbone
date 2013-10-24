@@ -1,5 +1,4 @@
-Puccinia kirghisica Thüm. SPECIES
-=======
+# Puccinia kirghisica Thüm. SPECIES
 
 #### Status
 ACCEPTED

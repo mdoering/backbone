@@ -1,5 +1,4 @@
-Cercospora xanthosomatis Gonz. Frag. & Cif., 1926 SPECIES
-=======
+# Cercospora xanthosomatis Gonz. Frag. & Cif., 1926 SPECIES
 
 #### Status
 ACCEPTED

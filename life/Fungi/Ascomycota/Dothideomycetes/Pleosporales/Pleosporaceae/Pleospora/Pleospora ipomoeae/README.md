@@ -1,5 +1,4 @@
-Pleospora ipomoeae (Clem.) Wehm. SPECIES
-=======
+# Pleospora ipomoeae (Clem.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

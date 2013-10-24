@@ -1,5 +1,4 @@
-Pseudephebe striata (Lynge) Poelt & Vezda SPECIES
-=======
+# Pseudephebe striata (Lynge) Poelt & Vezda SPECIES
 
 #### Status
 ACCEPTED

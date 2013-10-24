@@ -1,5 +1,4 @@
-Plagiotoma blattarum SPECIES
-=======
+# Plagiotoma blattarum SPECIES
 
 #### Status
 ACCEPTED

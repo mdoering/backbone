@@ -1,5 +1,4 @@
-Rutstroemia aurea Velen. SPECIES
-=======
+# Rutstroemia aurea Velen. SPECIES
 
 #### Status
 ACCEPTED

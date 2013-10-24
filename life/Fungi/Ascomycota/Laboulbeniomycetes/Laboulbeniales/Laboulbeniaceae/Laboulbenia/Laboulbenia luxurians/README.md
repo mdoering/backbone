@@ -1,5 +1,4 @@
-Laboulbenia luxurians Peyr. SPECIES
-=======
+# Laboulbenia luxurians Peyr. SPECIES
 
 #### Status
 ACCEPTED

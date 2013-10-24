@@ -1,5 +1,4 @@
-Phyllachora ateleiae Seaver, 1920 SPECIES
-=======
+# Phyllachora ateleiae Seaver, 1920 SPECIES
 
 #### Status
 ACCEPTED

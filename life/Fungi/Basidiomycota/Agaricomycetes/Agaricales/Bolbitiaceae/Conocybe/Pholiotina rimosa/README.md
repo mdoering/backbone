@@ -1,5 +1,4 @@
-Pholiotina rimosa (Velen.) Hauskn. & Svrcek SPECIES
-=======
+# Pholiotina rimosa (Velen.) Hauskn. & Svrcek SPECIES
 
 #### Status
 ACCEPTED

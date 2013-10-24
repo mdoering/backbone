@@ -1,5 +1,4 @@
-Valsa miniata Scop. SPECIES
-=======
+# Valsa miniata Scop. SPECIES
 
 #### Status
 ACCEPTED

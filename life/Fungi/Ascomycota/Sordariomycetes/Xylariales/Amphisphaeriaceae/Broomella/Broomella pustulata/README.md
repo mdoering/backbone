@@ -1,5 +1,4 @@
-Broomella pustulata I. Hino & Katum. SPECIES
-=======
+# Broomella pustulata I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

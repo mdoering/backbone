@@ -1,5 +1,4 @@
-Engizostoma ceanothi (Schwein.) Kuntze SPECIES
-=======
+# Engizostoma ceanothi (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

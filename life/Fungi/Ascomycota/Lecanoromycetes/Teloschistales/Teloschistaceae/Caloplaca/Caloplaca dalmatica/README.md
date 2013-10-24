@@ -1,14 +1,13 @@
-Callopisma dalmaticum A. Massal. SPECIES
-=======
+# Caloplaca dalmatica (A. Massal.) H. Olivier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Symmict. Lich. 30 (1855)
+Mém. Soc. natn. Sci. nat. math. Cherbourg 37: 112 (1909)
 
 #### Original name
 Callopisma dalmaticum A. Massal.

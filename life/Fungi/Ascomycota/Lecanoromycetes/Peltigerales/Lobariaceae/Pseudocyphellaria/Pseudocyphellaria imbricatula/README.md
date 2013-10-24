@@ -1,5 +1,4 @@
-Pseudocyphellaria imbricatula (Taylor) D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria imbricatula (Taylor) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Psilothecium Fuckel, 1866 GENUS
-=======
+# Cercospora Fresenius, 1863 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Mykol. 3: 91 (1863)
 
 #### Original name
-null
+Cercospora Fresenius, 1863
 
 ### Remarks
 null

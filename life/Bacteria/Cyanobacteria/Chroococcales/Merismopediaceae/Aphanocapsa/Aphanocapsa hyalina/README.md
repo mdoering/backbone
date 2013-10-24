@@ -1,5 +1,4 @@
-Aphanocapsa hyalina (Lyngbye) Hansgirg SPECIES
-=======
+# Aphanocapsa hyalina (Lyngbye) Hansgirg SPECIES
 
 #### Status
 ACCEPTED

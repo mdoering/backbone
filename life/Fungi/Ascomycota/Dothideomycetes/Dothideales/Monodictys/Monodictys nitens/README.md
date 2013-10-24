@@ -1,5 +1,4 @@
-Monodictys nitens (Schwein.) S. Hughes SPECIES
-=======
+# Monodictys nitens (Schwein.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

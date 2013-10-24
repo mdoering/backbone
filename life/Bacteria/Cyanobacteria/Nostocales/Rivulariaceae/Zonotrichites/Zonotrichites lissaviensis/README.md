@@ -1,5 +1,4 @@
-Zonotrichites lissaviensis J.G. Bornemann SPECIES
-=======
+# Zonotrichites lissaviensis J.G. Bornemann SPECIES
 
 #### Status
 ACCEPTED

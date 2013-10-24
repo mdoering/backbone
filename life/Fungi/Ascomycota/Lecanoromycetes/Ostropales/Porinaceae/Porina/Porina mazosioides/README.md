@@ -1,5 +1,4 @@
-Porina mazosioides Lücking & Vezda SPECIES
-=======
+# Porina mazosioides Lücking & Vezda SPECIES
 
 #### Status
 ACCEPTED

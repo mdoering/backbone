@@ -1,5 +1,4 @@
-Phakopsora colubrinae Viégas SPECIES
-=======
+# Phakopsora colubrinae Viégas SPECIES
 
 #### Status
 ACCEPTED

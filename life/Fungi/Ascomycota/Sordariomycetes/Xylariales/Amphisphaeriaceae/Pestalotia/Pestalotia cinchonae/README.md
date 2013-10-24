@@ -1,5 +1,4 @@
-Pestalotia cinchonae Zimm. SPECIES
-=======
+# Pestalotia cinchonae Zimm. SPECIES
 
 #### Status
 ACCEPTED

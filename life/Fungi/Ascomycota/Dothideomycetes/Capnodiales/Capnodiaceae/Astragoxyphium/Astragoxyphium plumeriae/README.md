@@ -1,17 +1,16 @@
-Astragoxyphium plumieriae Bat. & Matta SPECIES
-=======
+# Astragoxyphium plumeriae Bat. & Matta SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Batista & Ciferri, Quad. Lab. crittogam. , Pavia 31: 49 (1963)
 
 #### Original name
-Astragoxyphium plumieriae Bat. & Matta
+Astragoxyphium plumeriae Bat. & Matta
 
 ### Remarks
 null

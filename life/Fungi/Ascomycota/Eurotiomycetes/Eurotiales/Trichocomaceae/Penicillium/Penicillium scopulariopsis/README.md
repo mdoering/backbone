@@ -1,5 +1,4 @@
-Penicillium scopulariopsis Sacc. SPECIES
-=======
+# Penicillium scopulariopsis Sacc. SPECIES
 
 #### Status
 ACCEPTED

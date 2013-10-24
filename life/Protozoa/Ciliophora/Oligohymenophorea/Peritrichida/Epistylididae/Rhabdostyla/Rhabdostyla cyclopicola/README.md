@@ -1,5 +1,4 @@
-Rhabdostyla cyclopicola SPECIES
-=======
+# Rhabdostyla cyclopicola SPECIES
 
 #### Status
 ACCEPTED

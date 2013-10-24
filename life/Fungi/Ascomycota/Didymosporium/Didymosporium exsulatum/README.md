@@ -1,5 +1,4 @@
-Didymosporium exsulatum Jungh. SPECIES
-=======
+# Didymosporium exsulatum Jungh. SPECIES
 
 #### Status
 ACCEPTED

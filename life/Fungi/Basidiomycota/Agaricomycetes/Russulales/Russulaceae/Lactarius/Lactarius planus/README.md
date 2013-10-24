@@ -1,5 +1,4 @@
-Lactarius planus Umemura SPECIES
-=======
+# Lactarius planus Umemura SPECIES
 
 #### Status
 ACCEPTED

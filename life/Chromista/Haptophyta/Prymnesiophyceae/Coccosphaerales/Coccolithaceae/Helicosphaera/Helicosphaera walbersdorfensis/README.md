@@ -1,5 +1,4 @@
-Helicosphaera walbersdorfensis Muller, 1974 SPECIES
-=======
+# Helicosphaera walbersdorfensis Muller, 1974 SPECIES
 
 #### Status
 ACCEPTED

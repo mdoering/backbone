@@ -1,5 +1,4 @@
-Coprothermobacter Rainey & Stackebrandt, 1993 GENUS
-=======
+# Coprothermobacter Rainey & Stackebrandt, 1993 GENUS
 
 #### Status
 ACCEPTED

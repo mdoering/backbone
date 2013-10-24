@@ -1,14 +1,13 @@
-Appelia (Sacc.) Trotter GENUS
-=======
+# Trichoconis Clements, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 25: 721 (1931)
+null
 
 #### Original name
 null

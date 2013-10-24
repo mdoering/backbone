@@ -1,5 +1,4 @@
-Thermodesulfobacterium commune Zeikus et al., 1995 SPECIES
-=======
+# Thermodesulfobacterium commune Zeikus et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

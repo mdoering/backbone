@@ -1,5 +1,4 @@
-Patellaria lata (Berk.) W. Phillips SPECIES
-=======
+# Patellaria lata (Berk.) W. Phillips SPECIES
 
 #### Status
 ACCEPTED

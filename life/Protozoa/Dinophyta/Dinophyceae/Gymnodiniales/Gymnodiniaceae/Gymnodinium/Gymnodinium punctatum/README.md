@@ -1,5 +1,4 @@
-Gymnodinium punctatum Pouchet SPECIES
-=======
+# Gymnodinium punctatum Pouchet SPECIES
 
 #### Status
 ACCEPTED

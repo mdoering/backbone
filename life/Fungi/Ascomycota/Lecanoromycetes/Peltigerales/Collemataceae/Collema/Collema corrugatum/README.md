@@ -1,5 +1,4 @@
-Collema corrugatum SPECIES
-=======
+# Collema corrugatum SPECIES
 
 #### Status
 ACCEPTED

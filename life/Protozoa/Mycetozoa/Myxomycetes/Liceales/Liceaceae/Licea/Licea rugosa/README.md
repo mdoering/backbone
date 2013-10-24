@@ -1,17 +1,16 @@
-Licea rugosa var. fujiokana (Y. Yamam.) D. Wrigley & Lado VARIETY
-=======
+# Licea rugosa Nann.-Bremek. & Y. Yamam., 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungal Diversity 20: 296 (2005)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 90(3): 326 (1987)
 
 #### Original name
-Licea capitatoides var. fujiokana Y. Yamam.
+Licea rugosa Nann.-Bremek. & Y. Yamam., 1987
 
 ### Remarks
 null

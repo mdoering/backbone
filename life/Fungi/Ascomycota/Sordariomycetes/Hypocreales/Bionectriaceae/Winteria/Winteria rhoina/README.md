@@ -1,5 +1,4 @@
-Winteria rhoina Ellis & Everh. SPECIES
-=======
+# Winteria rhoina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Penicillium rugulosum var. lunzinense Svilv. VARIETY
-=======
+# Penicillium rugulosum Thom, 1910 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 103: 160 (1941)
+Bulletin of the U. S. Department of Agriculture 118: 60 (1910)
 
 #### Original name
-Penicillium rugulosum var. lunzinense Svilv.
+Penicillium rugulosum Thom, 1910
 
 ### Remarks
 null

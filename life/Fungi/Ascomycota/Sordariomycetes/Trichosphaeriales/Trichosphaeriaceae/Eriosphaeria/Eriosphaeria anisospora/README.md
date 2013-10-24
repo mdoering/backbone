@@ -1,5 +1,4 @@
-Eriosphaeria anisospora Saccas SPECIES
-=======
+# Eriosphaeria anisospora Saccas SPECIES
 
 #### Status
 ACCEPTED

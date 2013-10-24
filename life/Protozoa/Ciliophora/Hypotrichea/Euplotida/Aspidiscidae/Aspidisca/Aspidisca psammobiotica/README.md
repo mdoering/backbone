@@ -1,5 +1,4 @@
-Aspidisca psammobiotica Burkovsky, 1970 SPECIES
-=======
+# Aspidisca psammobiotica Burkovsky, 1970 SPECIES
 
 #### Status
 ACCEPTED

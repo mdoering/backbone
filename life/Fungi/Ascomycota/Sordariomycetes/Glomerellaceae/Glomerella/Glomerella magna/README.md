@@ -1,5 +1,4 @@
-Glomerella magna Jenkins & Winstead, 1964 SPECIES
-=======
+# Glomerella magna Jenkins & Winstead, 1964 SPECIES
 
 #### Status
 ACCEPTED

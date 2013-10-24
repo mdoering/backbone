@@ -1,5 +1,4 @@
-Urceolaria atroalba (Räsänen) Motyka SPECIES
-=======
+# Urceolaria atroalba (Räsänen) Motyka SPECIES
 
 #### Status
 ACCEPTED

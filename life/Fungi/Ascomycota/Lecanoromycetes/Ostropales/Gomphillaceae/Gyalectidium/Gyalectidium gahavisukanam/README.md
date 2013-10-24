@@ -1,5 +1,4 @@
-Gyalectidium gahavisukanam Sérus. SPECIES
-=======
+# Gyalectidium gahavisukanam Sérus. SPECIES
 
 #### Status
 ACCEPTED

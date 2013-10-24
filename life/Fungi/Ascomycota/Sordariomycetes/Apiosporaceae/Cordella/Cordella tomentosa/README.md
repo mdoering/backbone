@@ -1,5 +1,4 @@
-Cordella tomentosa Speg. SPECIES
-=======
+# Cordella tomentosa Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pocillaria inverseconica (Lerchenf. & Schulzer) Kuntze SPECIES
-=======
+# Pocillaria inverseconica (Lerchenf. & Schulzer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

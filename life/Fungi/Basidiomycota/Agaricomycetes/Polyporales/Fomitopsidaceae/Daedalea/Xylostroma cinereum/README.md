@@ -1,5 +1,4 @@
-Xylostroma cinereum Pers. SPECIES
-=======
+# Xylostroma cinereum Pers. SPECIES
 
 #### Status
 ACCEPTED

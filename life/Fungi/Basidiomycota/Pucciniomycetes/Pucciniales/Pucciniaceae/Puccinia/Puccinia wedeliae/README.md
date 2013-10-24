@@ -1,5 +1,4 @@
-Puccinia wedeliae Mayor SPECIES
-=======
+# Puccinia wedeliae Mayor SPECIES
 
 #### Status
 ACCEPTED

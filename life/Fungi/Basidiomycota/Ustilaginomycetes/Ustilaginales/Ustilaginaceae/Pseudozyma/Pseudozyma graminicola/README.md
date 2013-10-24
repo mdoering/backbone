@@ -1,5 +1,4 @@
-Pseudozyma graminicola Golubev, Sugita & N.W. Golubev SPECIES
-=======
+# Pseudozyma graminicola Golubev, Sugita & N.W. Golubev SPECIES
 
 #### Status
 ACCEPTED

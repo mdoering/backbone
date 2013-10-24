@@ -1,5 +1,4 @@
-Camarosporium leucadendri Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Camarosporium leucadendri Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

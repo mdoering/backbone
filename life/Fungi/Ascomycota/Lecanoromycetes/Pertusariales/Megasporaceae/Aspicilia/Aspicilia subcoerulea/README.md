@@ -1,5 +1,4 @@
-Aspicilia subcoerulea (Delise) Hue SPECIES
-=======
+# Aspicilia subcoerulea (Delise) Hue SPECIES
 
 #### Status
 ACCEPTED

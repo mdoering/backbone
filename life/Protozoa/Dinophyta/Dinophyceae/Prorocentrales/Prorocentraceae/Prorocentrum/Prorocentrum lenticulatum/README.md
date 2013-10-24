@@ -1,5 +1,4 @@
-Prorocentrum lenticulatum (Matzenauer, 1933) F.J.R. Taylor, 1976 SPECIES
-=======
+# Prorocentrum lenticulatum (Matzenauer, 1933) F.J.R. Taylor, 1976 SPECIES
 
 #### Status
 ACCEPTED

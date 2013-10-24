@@ -1,5 +1,4 @@
-Pleurotus lividulus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus lividulus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

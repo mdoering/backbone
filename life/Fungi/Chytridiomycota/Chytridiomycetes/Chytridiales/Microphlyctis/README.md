@@ -1,5 +1,4 @@
-Microphlyctis J. Schröt. GENUS
-=======
+# Microphlyctis J. Schröt. GENUS
 
 #### Status
 ACCEPTED

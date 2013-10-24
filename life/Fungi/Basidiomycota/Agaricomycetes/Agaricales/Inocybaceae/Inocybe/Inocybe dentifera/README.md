@@ -1,5 +1,4 @@
-Inocybe dentifera Velen. SPECIES
-=======
+# Inocybe dentifera Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tulasnella intrusa Hauerslev, 1989 SPECIES
-=======
+# Tulasnella albida Bourdot & Galzin, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Op. bot. 100: 114 (1989)
+Hyménomyc. de France 59 (1928)
 
 #### Original name
-Tulasnella intrusa Hauerslev, 1989
+Tulasnella albida Bourdot & Galzin, 1928
 
 ### Remarks
 null

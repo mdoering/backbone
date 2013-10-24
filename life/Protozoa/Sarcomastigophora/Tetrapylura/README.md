@@ -1,5 +1,4 @@
-Tetrapylura Haeckel, 1887 GENUS
-=======
+# Tetrapylura Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

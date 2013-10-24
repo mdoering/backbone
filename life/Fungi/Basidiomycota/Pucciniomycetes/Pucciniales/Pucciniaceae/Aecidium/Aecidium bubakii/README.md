@@ -1,5 +1,4 @@
-Aecidium bubakii Gonz. Frag. SPECIES
-=======
+# Aecidium bubakii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

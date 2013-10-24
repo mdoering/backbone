@@ -1,5 +1,4 @@
-Arthrobacter methylotrophus Borodina et al., 2002 SPECIES
-=======
+# Arthrobacter methylotrophus Borodina et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

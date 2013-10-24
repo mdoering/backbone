@@ -1,5 +1,4 @@
-Vermiculum striatum Montagu, 1803 SPECIES
-=======
+# Vermiculum striatum Montagu, 1803 SPECIES
 
 #### Status
 ACCEPTED

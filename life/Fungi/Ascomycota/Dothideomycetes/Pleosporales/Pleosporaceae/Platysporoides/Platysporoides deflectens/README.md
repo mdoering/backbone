@@ -1,14 +1,13 @@
-Pleospora deflectens P. Karst., 1872 SPECIES
-=======
+# Platysporoides deflectens (P. Karst.) Shoemaker & C.E. Babc., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öfvers. kongl. Svensk. Vetensk. -Akad. Förhandl. 29(2): 99 (1872)
+Can. J. Bot. 70(8): 1652 (1992)
 
 #### Original name
 Pleospora deflectens P. Karst., 1872

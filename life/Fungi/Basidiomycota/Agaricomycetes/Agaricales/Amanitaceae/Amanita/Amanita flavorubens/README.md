@@ -1,5 +1,4 @@
-Amanita flavorubens var. flavorubens VARIETY
-=======
+# Amanita flavorubens (Berk. & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 17 (1887)
 
 #### Original name
 Agaricus flavorubens Berk. & Mont.

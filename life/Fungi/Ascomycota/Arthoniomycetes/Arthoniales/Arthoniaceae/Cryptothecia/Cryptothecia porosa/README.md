@@ -1,5 +1,4 @@
-Cryptothecia porosa Makhija & Patw. SPECIES
-=======
+# Cryptothecia porosa Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paracoccus methylutens Doronina et al., 1998 SPECIES
-=======
+# Paracoccus methylutens Doronina et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

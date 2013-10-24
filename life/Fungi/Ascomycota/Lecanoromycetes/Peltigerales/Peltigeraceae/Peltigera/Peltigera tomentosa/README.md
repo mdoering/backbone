@@ -1,5 +1,4 @@
-Peltigera tomentosa Vain. SPECIES
-=======
+# Peltigera tomentosa Vain. SPECIES
 
 #### Status
 ACCEPTED

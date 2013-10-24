@@ -1,5 +1,4 @@
-Lepocinclis polonica Palik SPECIES
-=======
+# Lepocinclis polonica Palik SPECIES
 
 #### Status
 ACCEPTED

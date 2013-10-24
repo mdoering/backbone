@@ -1,5 +1,4 @@
-Sclerophoma nieliana (P. Karst. & Roum.) Höhn. SPECIES
-=======
+# Sclerophoma nieliana (P. Karst. & Roum.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

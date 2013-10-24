@@ -1,5 +1,4 @@
-Tuber sampadarium Rumph. SPECIES
-=======
+# Tuber sampadarium Rumph. SPECIES
 
 #### Status
 ACCEPTED

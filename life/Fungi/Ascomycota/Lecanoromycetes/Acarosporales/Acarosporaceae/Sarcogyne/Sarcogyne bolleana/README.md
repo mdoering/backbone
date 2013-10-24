@@ -1,5 +1,4 @@
-Sarcogyne bolleana H. Magn. SPECIES
-=======
+# Sarcogyne bolleana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

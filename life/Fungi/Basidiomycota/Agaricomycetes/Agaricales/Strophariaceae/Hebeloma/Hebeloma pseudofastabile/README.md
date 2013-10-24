@@ -1,5 +1,4 @@
-Hebeloma pseudofastabile A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma pseudofastabile A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

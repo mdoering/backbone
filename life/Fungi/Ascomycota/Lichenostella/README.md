@@ -1,5 +1,4 @@
-Lichenostella Calat. & Etayo GENUS
-=======
+# Lichenostella Calat. & Etayo GENUS
 
 #### Status
 ACCEPTED

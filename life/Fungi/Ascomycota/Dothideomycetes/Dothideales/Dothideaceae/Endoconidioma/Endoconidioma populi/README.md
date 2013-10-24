@@ -1,5 +1,4 @@
-Endoconidioma populi Tsuneda, Hambl. & Currah, 2004 SPECIES
-=======
+# Endoconidioma populi Tsuneda, Hambl. & Currah, 2004 SPECIES
 
 #### Status
 ACCEPTED

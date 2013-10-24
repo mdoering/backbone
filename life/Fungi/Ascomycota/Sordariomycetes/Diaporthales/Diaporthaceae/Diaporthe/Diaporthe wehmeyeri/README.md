@@ -1,5 +1,4 @@
-Diaporthe wehmeyeri A. Pande & V.G. Rao SPECIES
-=======
+# Diaporthe wehmeyeri A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptosporium populi Bonord. SPECIES
-=======
+# Cryptosporium populi Bonord. SPECIES
 
 #### Status
 ACCEPTED

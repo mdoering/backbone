@@ -1,5 +1,4 @@
-Agaricus ornellus Peck SPECIES
-=======
+# Agaricus ornellus Peck SPECIES
 
 #### Status
 ACCEPTED

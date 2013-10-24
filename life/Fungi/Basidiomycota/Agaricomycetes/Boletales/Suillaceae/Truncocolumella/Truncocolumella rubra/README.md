@@ -1,14 +1,13 @@
-Gastroboletus ruber (Zeller) Cázares & Trappe, 1991 SPECIES
-=======
+# Truncocolumella rubra Zeller, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 42: 341 (1991)
+Mycologia 31: 7 (1939)
 
 #### Original name
 Truncocolumella rubra Zeller, 1939

@@ -1,5 +1,4 @@
-Sauroplasma Du Toit, 1937 GENUS
-=======
+# Sauroplasma Du Toit, 1937 GENUS
 
 #### Status
 ACCEPTED

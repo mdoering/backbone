@@ -1,5 +1,4 @@
-Chaenotheca chloroxantha Tibell SPECIES
-=======
+# Chaenotheca chloroxantha Tibell SPECIES
 
 #### Status
 ACCEPTED

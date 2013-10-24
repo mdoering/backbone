@@ -1,5 +1,4 @@
-Tuber luteum Regel SPECIES
-=======
+# Tuber luteum Regel SPECIES
 
 #### Status
 ACCEPTED

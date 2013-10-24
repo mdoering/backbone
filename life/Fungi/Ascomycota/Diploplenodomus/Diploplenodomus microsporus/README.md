@@ -1,5 +1,4 @@
-Diploplenodomus microsporus (Berl.) Höhn. SPECIES
-=======
+# Diploplenodomus microsporus (Berl.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

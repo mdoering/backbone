@@ -1,17 +1,16 @@
-Rinodina gallowayii H. Mayrhofer SPECIES
-=======
+# Rinodina gallowayi H. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichenologist 15(3): 272 (1983)
 
 #### Original name
-Rinodina gallowayii H. Mayrhofer
+Rinodina gallowayi H. Mayrhofer
 
 ### Remarks
 null

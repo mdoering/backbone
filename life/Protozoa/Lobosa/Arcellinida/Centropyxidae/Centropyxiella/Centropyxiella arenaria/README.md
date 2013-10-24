@@ -1,5 +1,4 @@
-Centropyxiella arenaria Valkanov, 1970 SPECIES
-=======
+# Centropyxiella arenaria Valkanov, 1970 SPECIES
 
 #### Status
 ACCEPTED

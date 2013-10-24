@@ -1,5 +1,4 @@
-Pseudocercospora midnapurensis (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora midnapurensis (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

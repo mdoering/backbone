@@ -1,5 +1,4 @@
-Koerberiella crystallina Motyka SPECIES
-=======
+# Koerberiella crystallina Motyka SPECIES
 
 #### Status
 ACCEPTED

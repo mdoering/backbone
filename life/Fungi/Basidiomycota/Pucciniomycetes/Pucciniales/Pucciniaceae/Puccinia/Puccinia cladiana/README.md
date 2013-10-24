@@ -1,5 +1,4 @@
-Puccinia cladiana Guyot SPECIES
-=======
+# Puccinia cladiana Guyot SPECIES
 
 #### Status
 ACCEPTED

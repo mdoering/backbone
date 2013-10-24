@@ -1,5 +1,4 @@
-Cortinarius badioflavus Herp. SPECIES
-=======
+# Cortinarius badioflavus Herp. SPECIES
 
 #### Status
 ACCEPTED

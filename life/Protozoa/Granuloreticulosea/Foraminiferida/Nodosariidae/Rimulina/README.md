@@ -1,5 +1,4 @@
-Rimulina d’Orbigny, 1826 GENUS
-=======
+# Rimulina d’Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

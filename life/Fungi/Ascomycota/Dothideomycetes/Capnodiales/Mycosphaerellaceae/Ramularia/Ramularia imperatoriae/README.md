@@ -1,5 +1,4 @@
-Ramularia imperatoriae J. Lindau SPECIES
-=======
+# Ramularia imperatoriae J. Lindau SPECIES
 
 #### Status
 ACCEPTED

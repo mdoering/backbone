@@ -1,5 +1,4 @@
-Irenopsis torrietiae Hansf. & Deighton SPECIES
-=======
+# Irenopsis torrietiae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

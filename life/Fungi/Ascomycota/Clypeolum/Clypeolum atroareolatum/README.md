@@ -1,5 +1,4 @@
-Clypeolum atroareolatum Speg., 1881 SPECIES
-=======
+# Clypeolum atroareolatum Speg., 1881 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oridorsalis westi SPECIES
-=======
+# Oridorsalis westi SPECIES
 
 #### Status
 ACCEPTED

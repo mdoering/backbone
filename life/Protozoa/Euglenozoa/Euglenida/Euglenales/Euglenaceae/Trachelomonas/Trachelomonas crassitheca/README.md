@@ -1,5 +1,4 @@
-Trachelomonas crassitheca Skuja SPECIES
-=======
+# Trachelomonas crassitheca Skuja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenia ochracea Hoffm. SPECIES
-=======
+# Solenia ochracea Hoffm. SPECIES
 
 #### Status
 ACCEPTED

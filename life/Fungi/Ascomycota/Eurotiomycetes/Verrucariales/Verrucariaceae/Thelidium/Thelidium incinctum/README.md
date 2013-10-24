@@ -1,5 +1,4 @@
-Thelidium incinctum (Vain.) Vain. SPECIES
-=======
+# Thelidium incinctum (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

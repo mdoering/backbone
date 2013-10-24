@@ -1,5 +1,4 @@
-Peronospora astragali-purpurei Mayor & Vienn.-Bourg. SPECIES
-=======
+# Peronospora astragali-purpurei Mayor & Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

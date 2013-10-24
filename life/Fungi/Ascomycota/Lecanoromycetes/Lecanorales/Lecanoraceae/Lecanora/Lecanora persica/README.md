@@ -1,5 +1,4 @@
-Lecanora persica (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecanora persica (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

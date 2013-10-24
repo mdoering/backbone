@@ -1,5 +1,4 @@
-Porina mendax Müll. Arg. SPECIES
-=======
+# Porina mendax Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

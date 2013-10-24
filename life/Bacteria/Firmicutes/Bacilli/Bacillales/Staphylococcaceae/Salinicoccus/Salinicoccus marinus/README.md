@@ -1,5 +1,4 @@
-Salinicoccus marinus Yong, Lee & Park, 2003 SPECIES
-=======
+# Salinicoccus marinus Yong, Lee & Park, 2003 SPECIES
 
 #### Status
 ACCEPTED

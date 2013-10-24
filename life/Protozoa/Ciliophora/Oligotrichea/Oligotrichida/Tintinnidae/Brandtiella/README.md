@@ -1,5 +1,4 @@
-Brandtiella Kofoid & Campbell, 1929 GENUS
-=======
+# Brandtiella Kofoid & Campbell, 1929 GENUS
 
 #### Status
 ACCEPTED

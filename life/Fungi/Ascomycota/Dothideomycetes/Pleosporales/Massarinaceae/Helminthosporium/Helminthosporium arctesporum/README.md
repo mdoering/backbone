@@ -1,17 +1,16 @@
-Helminthosporium arctisporum Cooke & Ellis SPECIES
-=======
+# Helminthosporium arctesporum Cooke & Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 6(no. 39): 88 (1878)
 
 #### Original name
-Helminthosporium arctisporum Cooke & Ellis
+Helminthosporium arctesporum Cooke & Ellis
 
 ### Remarks
 null

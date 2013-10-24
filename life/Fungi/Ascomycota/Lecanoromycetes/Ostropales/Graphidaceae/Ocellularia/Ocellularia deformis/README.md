@@ -1,5 +1,4 @@
-Ocellularia deformis Nagarkar & Hale SPECIES
-=======
+# Ocellularia deformis Nagarkar & Hale SPECIES
 
 #### Status
 ACCEPTED

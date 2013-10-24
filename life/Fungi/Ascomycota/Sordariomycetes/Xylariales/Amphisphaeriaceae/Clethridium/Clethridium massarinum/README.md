@@ -1,8 +1,7 @@
-Clathridium massarinum (Sacc.) Berl. SPECIES
-=======
+# Clethridium massarinum (Sacc.) Berl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

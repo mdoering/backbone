@@ -1,5 +1,4 @@
-Calostoma pengii B. Liu & Yin H. Liu SPECIES
-=======
+# Calostoma pengii B. Liu & Yin H. Liu SPECIES
 
 #### Status
 ACCEPTED

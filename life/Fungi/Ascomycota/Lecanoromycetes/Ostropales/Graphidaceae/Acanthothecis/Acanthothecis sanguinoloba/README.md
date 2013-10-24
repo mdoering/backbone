@@ -1,5 +1,4 @@
-Acanthothecis sanguinoloba (Redinger) Staiger & Kalb SPECIES
-=======
+# Acanthothecis sanguinoloba (Redinger) Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

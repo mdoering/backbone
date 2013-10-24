@@ -1,5 +1,4 @@
-Bryopogon spadiceus (K.G.W. Lång) Gyeln. SPECIES
-=======
+# Bryopogon spadiceus (K.G.W. Lång) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

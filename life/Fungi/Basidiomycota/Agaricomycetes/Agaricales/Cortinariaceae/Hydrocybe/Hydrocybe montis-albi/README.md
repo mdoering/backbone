@@ -1,5 +1,4 @@
-Hydrocybe montis-albi Velen. SPECIES
-=======
+# Hydrocybe montis-albi Velen. SPECIES
 
 #### Status
 ACCEPTED

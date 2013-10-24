@@ -1,5 +1,4 @@
-Ramalina parva Krog & Østh. SPECIES
-=======
+# Ramalina parva Krog & Østh. SPECIES
 
 #### Status
 ACCEPTED

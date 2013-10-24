@@ -1,8 +1,7 @@
-Melittosporium attenuatum (Durieu & Lév.) Sacc. SPECIES
-=======
+# Mellitiosporium attenuatum (Durieu & Lév.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

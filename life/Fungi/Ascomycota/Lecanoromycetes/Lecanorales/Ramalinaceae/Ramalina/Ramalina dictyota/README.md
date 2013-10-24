@@ -1,5 +1,4 @@
-Ramalina dictyota C.W. Dodge & Vareschi SPECIES
-=======
+# Ramalina dictyota C.W. Dodge & Vareschi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aulacoseiraceae Crawford FAMILY
-=======
+# Aulacoseiraceae Crawford FAMILY
 
 #### Status
 ACCEPTED

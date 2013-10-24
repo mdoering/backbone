@@ -1,5 +1,4 @@
-Dermocybe versicolor A. Blytt SPECIES
-=======
+# Dermocybe versicolor A. Blytt SPECIES
 
 #### Status
 ACCEPTED

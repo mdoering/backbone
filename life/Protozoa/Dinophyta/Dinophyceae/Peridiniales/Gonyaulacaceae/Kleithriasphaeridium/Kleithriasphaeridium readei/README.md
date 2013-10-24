@@ -1,5 +1,4 @@
-Kleithriasphaeridium readei (Davey & Williams, 1966) Davey & Verdier, 1976 SPECIES
-=======
+# Kleithriasphaeridium readei (Davey & Williams, 1966) Davey & Verdier, 1976 SPECIES
 
 #### Status
 ACCEPTED

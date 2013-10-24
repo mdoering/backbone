@@ -1,5 +1,4 @@
-Hapalocystis mirabilis Sorokin SPECIES
-=======
+# Hapalocystis mirabilis Sorokin SPECIES
 
 #### Status
 ACCEPTED

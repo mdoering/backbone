@@ -1,17 +1,16 @@
-Lyophyllum brunneoochrascens E. Ludw. SPECIES
-=======
+# Lyophyllum brunneo-ochrascens E. Ludw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pilzkompendium (Eching) 1([2]): 301 (2001)
 
 #### Original name
-Lyophyllum brunneoochrascens E. Ludw.
+Lyophyllum brunneo-ochrascens E. Ludw.
 
 ### Remarks
 null

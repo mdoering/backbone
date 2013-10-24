@@ -1,5 +1,4 @@
-Ganoderma parviungulatum J.D. Zhao & X.Q. Zhang, 1986 SPECIES
-=======
+# Ganoderma parviungulatum J.D. Zhao & X.Q. Zhang, 1986 SPECIES
 
 #### Status
 ACCEPTED

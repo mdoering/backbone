@@ -1,5 +1,4 @@
-Erinellina tomentella (Pezz. & Sacc.) F.L. Tai SPECIES
-=======
+# Erinellina tomentella (Pezz. & Sacc.) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

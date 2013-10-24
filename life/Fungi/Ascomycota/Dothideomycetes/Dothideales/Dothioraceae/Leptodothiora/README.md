@@ -1,5 +1,4 @@
-Leptodothiora GENUS
-=======
+# Leptodothiora GENUS
 
 #### Status
 ACCEPTED

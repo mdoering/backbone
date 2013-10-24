@@ -1,5 +1,4 @@
-Schizotrichella GENUS
-=======
+# Schizotrichella GENUS
 
 #### Status
 ACCEPTED

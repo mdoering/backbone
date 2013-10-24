@@ -1,5 +1,4 @@
-Palaeocytosphaera intertrappeana R.B. Singh & G.V. Patil SPECIES
-=======
+# Palaeocytosphaera intertrappeana R.B. Singh & G.V. Patil SPECIES
 
 #### Status
 ACCEPTED

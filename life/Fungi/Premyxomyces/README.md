@@ -1,5 +1,4 @@
-Premyxomyces Locq. GENUS
-=======
+# Premyxomyces Locq. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalodium umbilicatum (Delise) C.W. Dodge SPECIES
-=======
+# Omphalodium umbilicatum (Delise) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

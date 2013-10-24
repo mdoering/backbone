@@ -1,5 +1,4 @@
-Polyblastia nigella Kremp. SPECIES
-=======
+# Polyblastia nigella Kremp. SPECIES
 
 #### Status
 ACCEPTED

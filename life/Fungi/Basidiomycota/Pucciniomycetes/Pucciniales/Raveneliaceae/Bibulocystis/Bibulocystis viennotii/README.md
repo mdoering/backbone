@@ -1,14 +1,13 @@
-Dicheirinia viennotii B. Huguenin, 1966 SPECIES
-=======
+# Bibulocystis viennotii (B. Huguenin) J. Walker, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 82: 254 (1966)
+in Walker, Beilharz, Pascoe & Priest, Australas. Pl. Path. 35(1): 18 (2006)
 
 #### Original name
 Dicheirinia viennotii B. Huguenin, 1966

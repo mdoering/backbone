@@ -1,5 +1,4 @@
-Annulatopsophosphaera N.G. Pychova in A.Y. Rozanov et al., 1969 GENUS
-=======
+# Annulatopsophosphaera N.G. Pychova in A.Y. Rozanov et al., 1969 GENUS
 
 #### Status
 ACCEPTED

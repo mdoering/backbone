@@ -1,5 +1,4 @@
-Pseudotrype rehmiana Henn. & E. Nyman SPECIES
-=======
+# Pseudotrype rehmiana Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

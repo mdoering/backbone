@@ -1,5 +1,4 @@
-Rosellinia andurnensis var. andurnensis Ces. & De Not. VARIETY
-=======
+# Rosellinia andurnensis Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rosellinia andurnensis var. andurnensis Ces. & De Not.
+Rosellinia andurnensis Ces. & De Not.
 
 ### Remarks
 null

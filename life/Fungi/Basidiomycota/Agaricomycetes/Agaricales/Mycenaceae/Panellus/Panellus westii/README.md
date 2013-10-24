@@ -1,5 +1,4 @@
-Panellus westii SPECIES
-=======
+# Panellus westii SPECIES
 
 #### Status
 ACCEPTED

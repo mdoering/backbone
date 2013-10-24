@@ -1,5 +1,4 @@
-Microthelia typhina (Pass.) Kuntze SPECIES
-=======
+# Microthelia typhina (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

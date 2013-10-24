@@ -1,5 +1,4 @@
-Uredo balsamorrhizae (Peck) De Toni SPECIES
-=======
+# Uredo balsamorrhizae (Peck) De Toni SPECIES
 
 #### Status
 ACCEPTED

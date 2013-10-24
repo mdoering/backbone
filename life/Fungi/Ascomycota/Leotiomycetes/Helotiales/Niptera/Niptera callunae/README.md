@@ -1,5 +1,4 @@
-Niptera callunae Syd., 1911 SPECIES
-=======
+# Niptera callunae Syd., 1911 SPECIES
 
 #### Status
 ACCEPTED

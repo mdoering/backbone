@@ -1,5 +1,4 @@
-Podospora mexicana Mirza & Cain SPECIES
-=======
+# Podospora mexicana Mirza & Cain SPECIES
 
 #### Status
 ACCEPTED

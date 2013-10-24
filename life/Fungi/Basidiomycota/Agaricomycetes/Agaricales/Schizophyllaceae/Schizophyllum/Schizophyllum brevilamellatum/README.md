@@ -1,5 +1,4 @@
-Schizophyllum brevilamellatum Linder SPECIES
-=======
+# Schizophyllum brevilamellatum Linder SPECIES
 
 #### Status
 ACCEPTED

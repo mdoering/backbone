@@ -1,5 +1,4 @@
-Laminaria polyphylla (S. G. Gmelin) Steudel SPECIES
-=======
+# Laminaria polyphylla (S. G. Gmelin) Steudel SPECIES
 
 #### Status
 ACCEPTED

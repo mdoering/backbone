@@ -1,5 +1,4 @@
-Leptomeliola muscorum Racov. SPECIES
-=======
+# Leptomeliola muscorum Racov. SPECIES
 
 #### Status
 ACCEPTED

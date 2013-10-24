@@ -1,5 +1,4 @@
-Stylosphaera melpomene Haeckel, 1887 SPECIES
-=======
+# Stylosphaera melpomene Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

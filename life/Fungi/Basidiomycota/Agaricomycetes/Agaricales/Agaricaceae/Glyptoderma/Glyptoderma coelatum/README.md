@@ -1,14 +1,13 @@
-Glyptoderma caelatum (Pat. ex R. Heim) R. Heim & Perr.-Bertr. SPECIES
-=======
+# Glyptoderma coelatum (Pat. ex R. Heim) R. Heim & Perr.-Bertr., 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue Mycol. , Paris 36(2): 90 (1971)
 
 #### Original name
 Mycenastrum coelatum Pat., 1899

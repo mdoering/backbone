@@ -1,5 +1,4 @@
-Hohenbuehelia chevalieri (Pat.) Pegler SPECIES
-=======
+# Hohenbuehelia chevalieri (Pat.) Pegler SPECIES
 
 #### Status
 ACCEPTED

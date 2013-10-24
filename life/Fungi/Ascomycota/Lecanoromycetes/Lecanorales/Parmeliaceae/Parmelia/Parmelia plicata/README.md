@@ -1,5 +1,4 @@
-Parmelia plicata Pers. SPECIES
-=======
+# Parmelia plicata Pers. SPECIES
 
 #### Status
 ACCEPTED

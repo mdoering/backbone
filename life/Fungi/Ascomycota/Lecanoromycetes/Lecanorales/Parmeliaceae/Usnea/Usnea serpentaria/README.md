@@ -1,5 +1,4 @@
-Usnea serpentaria (Motyka) Motyka SPECIES
-=======
+# Usnea serpentaria (Motyka) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glonium Mühlenberg, 1813 GENUS
-=======
+# Glonium Mühlenberg, 1813 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea glomerella f. glomerella FORM
-=======
+# Lecidea glomerella Stirt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Bailey, Queensland Agric. J. 5: 487 (1899)
 
 #### Original name
-Lecidea glomerella f. glomerella
+Lecidea glomerella Stirt.
 
 ### Remarks
 null

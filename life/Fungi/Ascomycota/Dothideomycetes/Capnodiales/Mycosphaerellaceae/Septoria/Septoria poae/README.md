@@ -1,5 +1,4 @@
-Septoria poae Catt. SPECIES
-=======
+# Septoria poae Catt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tomentella himalayana S.S. Rattan, 1977 SPECIES
-=======
+# Tomentella himalayana S.S. Rattan, 1977 SPECIES
 
 #### Status
 ACCEPTED

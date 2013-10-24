@@ -1,5 +1,4 @@
-Crepidotus cassiaecolor (Berk.) Sacc. SPECIES
-=======
+# Crepidotus cassiaecolor (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

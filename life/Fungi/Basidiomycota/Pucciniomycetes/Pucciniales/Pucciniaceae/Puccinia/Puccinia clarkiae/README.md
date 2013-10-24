@@ -1,5 +1,4 @@
-Puccinia clarkiae Peck SPECIES
-=======
+# Puccinia clarkiae Peck SPECIES
 
 #### Status
 ACCEPTED

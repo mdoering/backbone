@@ -1,5 +1,4 @@
-Ellipsoidion perminimum var. cryophilum E. Kol VARIETY
-=======
+# Ellipsoidion perminimum Pascher SPECIES
 
 #### Status
 ACCEPTED

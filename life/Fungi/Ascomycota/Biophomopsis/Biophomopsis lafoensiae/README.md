@@ -1,5 +1,4 @@
-Biophomopsis lafoensiae Bat. & J.L. Bezerra SPECIES
-=======
+# Biophomopsis lafoensiae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

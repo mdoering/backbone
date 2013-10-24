@@ -1,5 +1,4 @@
-Parodiopsis ingarum (Henn.) G. Arnaud SPECIES
-=======
+# Parodiopsis ingarum (Henn.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

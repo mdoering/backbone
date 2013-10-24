@@ -1,5 +1,4 @@
-Entoloma umbonatum Massee SPECIES
-=======
+# Entoloma umbonatum Massee SPECIES
 
 #### Status
 ACCEPTED

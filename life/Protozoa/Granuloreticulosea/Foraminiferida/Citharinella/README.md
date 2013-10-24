@@ -1,5 +1,4 @@
-Citharinella Marie, 1938 GENUS
-=======
+# Citharinella Marie, 1938 GENUS
 
 #### Status
 ACCEPTED

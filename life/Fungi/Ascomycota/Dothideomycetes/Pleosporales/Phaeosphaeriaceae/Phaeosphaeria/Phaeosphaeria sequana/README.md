@@ -1,5 +1,4 @@
-Phaeosphaeria sequana (A.L. Guyot) Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria sequana (A.L. Guyot) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

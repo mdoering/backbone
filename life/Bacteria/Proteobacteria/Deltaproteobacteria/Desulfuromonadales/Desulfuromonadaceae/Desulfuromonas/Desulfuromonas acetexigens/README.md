@@ -1,5 +1,4 @@
-Desulfuromonas acetexigens Finster et al., 1997 SPECIES
-=======
+# Desulfuromonas acetexigens Finster et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

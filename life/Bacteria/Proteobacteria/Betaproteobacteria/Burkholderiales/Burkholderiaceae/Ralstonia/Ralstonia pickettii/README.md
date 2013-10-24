@@ -1,8 +1,7 @@
-Burkholderia pickettii (Ralston et al., 1973) Yabuuchi et al., 1993 SPECIES
-=======
+# Ralstonia pickettii (Ralston et al., 1973) Yabuuchi et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

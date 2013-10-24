@@ -1,5 +1,4 @@
-Helvella hypocrateriformis Schaeff. SPECIES
-=======
+# Helvella hypocrateriformis Schaeff. SPECIES
 
 #### Status
 ACCEPTED

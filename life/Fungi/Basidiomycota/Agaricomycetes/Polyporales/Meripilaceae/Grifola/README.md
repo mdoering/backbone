@@ -1,17 +1,16 @@
-Cladodendron Lázaro Ibiza GENUS
-=======
+# Grifola Gray, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Rev. Acad. Ci. Madrid 14: 863 (1916)
+null
 
 #### Original name
-Cladodendron Lázaro Ibiza
+null
 
 ### Remarks
 null

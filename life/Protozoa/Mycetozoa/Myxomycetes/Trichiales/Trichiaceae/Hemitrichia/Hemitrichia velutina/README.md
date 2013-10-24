@@ -1,5 +1,4 @@
-Hemitrichia velutina Nann.-Bremek. & Y. Yamam., 1986 SPECIES
-=======
+# Hemitrichia velutina Nann.-Bremek. & Y. Yamam., 1986 SPECIES
 
 #### Status
 ACCEPTED

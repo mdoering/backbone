@@ -1,5 +1,4 @@
-Peziza explanata Holmsk. SPECIES
-=======
+# Peziza explanata Holmsk. SPECIES
 
 #### Status
 ACCEPTED

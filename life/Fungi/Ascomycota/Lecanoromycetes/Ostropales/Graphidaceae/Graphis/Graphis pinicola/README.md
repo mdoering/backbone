@@ -1,5 +1,4 @@
-Graphis pinicola SPECIES
-=======
+# Graphis pinicola SPECIES
 
 #### Status
 ACCEPTED

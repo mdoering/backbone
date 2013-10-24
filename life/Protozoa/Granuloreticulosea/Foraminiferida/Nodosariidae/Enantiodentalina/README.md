@@ -1,14 +1,13 @@
-Paradentalina Uchio, 1960 GENUS
-=======
+# Enantiodentalina Marie, 1941 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Mém. Mus. Hist. Nat. Paris, (N. S. ) 12, 149.
 
 #### Original name
 null

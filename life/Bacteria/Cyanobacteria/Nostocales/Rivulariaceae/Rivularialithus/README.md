@@ -1,5 +1,4 @@
-Rivularialithus V.P. Maslov, 1955 GENUS
-=======
+# Rivularialithus V.P. Maslov, 1955 GENUS
 
 #### Status
 ACCEPTED

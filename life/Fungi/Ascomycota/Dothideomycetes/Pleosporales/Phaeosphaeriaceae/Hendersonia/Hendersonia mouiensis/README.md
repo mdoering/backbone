@@ -1,5 +1,4 @@
-Hendersonia mouiensis Petr. SPECIES
-=======
+# Hendersonia mouiensis Petr. SPECIES
 
 #### Status
 ACCEPTED

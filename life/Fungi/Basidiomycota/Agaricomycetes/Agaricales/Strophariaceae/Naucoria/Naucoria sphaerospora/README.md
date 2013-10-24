@@ -1,5 +1,4 @@
-Naucoria sphaerospora Henn. SPECIES
-=======
+# Naucoria sphaerospora Henn. SPECIES
 
 #### Status
 ACCEPTED

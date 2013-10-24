@@ -1,5 +1,4 @@
-Rhizocarpon oidaleum (Nyl.) Fink SPECIES
-=======
+# Rhizocarpon oidaleum (Nyl.) Fink SPECIES
 
 #### Status
 ACCEPTED

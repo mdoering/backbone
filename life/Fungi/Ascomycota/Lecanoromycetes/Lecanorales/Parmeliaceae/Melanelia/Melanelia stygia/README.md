@@ -1,14 +1,13 @@
-Parmelia stygia var. stygia VARIETY
-=======
+# Melanelia stygia (L.) Essl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 7(1): 47 (1978)
 
 #### Original name
 Lichen stygius L.

@@ -1,5 +1,4 @@
-Discorbis Lamarck, 1804 GENUS
-=======
+# Discorbis Lamarck, 1804 GENUS
 
 #### Status
 ACCEPTED

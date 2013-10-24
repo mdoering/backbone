@@ -1,5 +1,4 @@
-Sporidesmiella vignalensis W.B. Kendr. & R.F. Castañeda SPECIES
-=======
+# Sporidesmiella vignalensis W.B. Kendr. & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

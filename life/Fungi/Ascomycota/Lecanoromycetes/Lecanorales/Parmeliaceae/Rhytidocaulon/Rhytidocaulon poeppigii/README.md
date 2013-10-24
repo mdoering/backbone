@@ -1,5 +1,4 @@
-Rhytidocaulon poeppigii (Nees & Flot.) Elenkin SPECIES
-=======
+# Rhytidocaulon poeppigii (Nees & Flot.) Elenkin SPECIES
 
 #### Status
 ACCEPTED

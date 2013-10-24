@@ -1,5 +1,4 @@
-Synchytrium aecidioides var. citrinum Lagerh. ex Trotter VARIETY
-=======
+# Synchytrium aecidioides Farl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 24(1): 17 (1926)
+Bull. Herb. Boissier 61 (1895)
 
 #### Original name
-Synchytrium aecidioides var. citrinum Lagerh. ex Trotter
+Synchytrium aecidioides Farl.
 
 ### Remarks
 null

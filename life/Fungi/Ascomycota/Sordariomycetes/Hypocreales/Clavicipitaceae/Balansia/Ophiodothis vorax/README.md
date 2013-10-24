@@ -1,5 +1,4 @@
-Ophiodothis vorax var. vorax VARIETY
-=======
+# Ophiodothis vorax (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 652 (1883)
 
 #### Original name
-Ophiodothis vorax var. vorax
+Dothidea vorax Berk. & M.A. Curtis
 
 ### Remarks
 null

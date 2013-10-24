@@ -1,5 +1,4 @@
-Aecidium atragenes Tranzschel SPECIES
-=======
+# Aecidium atragenes Tranzschel SPECIES
 
 #### Status
 ACCEPTED

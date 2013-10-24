@@ -1,5 +1,4 @@
-Asterina balakrishnanii Hosag. SPECIES
-=======
+# Asterina balakrishnanii Hosag. SPECIES
 
 #### Status
 ACCEPTED

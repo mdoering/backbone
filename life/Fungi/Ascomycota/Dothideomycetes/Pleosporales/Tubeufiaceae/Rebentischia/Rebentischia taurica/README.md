@@ -1,5 +1,4 @@
-Rebentischia taurica Naumov & Dobrozr. SPECIES
-=======
+# Rebentischia taurica Naumov & Dobrozr. SPECIES
 
 #### Status
 ACCEPTED

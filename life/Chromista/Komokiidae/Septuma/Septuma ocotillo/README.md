@@ -1,5 +1,4 @@
-Septuma ocotillo Tendal & Hessler, 1977 SPECIES
-=======
+# Septuma ocotillo Tendal & Hessler, 1977 SPECIES
 
 #### Status
 ACCEPTED

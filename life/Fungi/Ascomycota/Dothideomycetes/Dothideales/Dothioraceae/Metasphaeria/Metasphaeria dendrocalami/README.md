@@ -1,17 +1,16 @@
-Metasphaeria dendrocalamae Subhedar & V.G. Rao SPECIES
-=======
+# Metasphaeria dendrocalami Subhedar & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 15(2): 181 (1986)
 
 #### Original name
-Metasphaeria dendrocalamae Subhedar & V.G. Rao
+Metasphaeria dendrocalami Subhedar & V.G. Rao
 
 ### Remarks
 null

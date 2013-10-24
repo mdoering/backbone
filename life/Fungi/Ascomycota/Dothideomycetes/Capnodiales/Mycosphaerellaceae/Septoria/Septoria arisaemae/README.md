@@ -1,5 +1,4 @@
-Septoria arisaemae Petch SPECIES
-=======
+# Septoria arisaemae Petch SPECIES
 
 #### Status
 ACCEPTED

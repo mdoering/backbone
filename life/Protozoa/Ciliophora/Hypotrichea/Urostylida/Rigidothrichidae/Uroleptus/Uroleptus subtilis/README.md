@@ -1,5 +1,4 @@
-Uroleptus subtilis SPECIES
-=======
+# Uroleptus subtilis SPECIES
 
 #### Status
 ACCEPTED

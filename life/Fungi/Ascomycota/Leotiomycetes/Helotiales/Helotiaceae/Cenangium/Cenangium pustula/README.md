@@ -1,5 +1,4 @@
-Cenangium pustula Rehm SPECIES
-=======
+# Cenangium pustula Rehm SPECIES
 
 #### Status
 ACCEPTED

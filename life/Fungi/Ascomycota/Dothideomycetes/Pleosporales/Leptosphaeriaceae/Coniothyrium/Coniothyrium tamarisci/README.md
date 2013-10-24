@@ -1,14 +1,13 @@
-Phoma tamarisci (Mont.) Sacc., 1884 SPECIES
-=======
+# Coniothyrium tamarisci (Mont.) Petr., 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 94 (1884)
+Annls mycol. 23(1/2): 48 (1925)
 
 #### Original name
 Clisosporium tamarisci Mont., 1856

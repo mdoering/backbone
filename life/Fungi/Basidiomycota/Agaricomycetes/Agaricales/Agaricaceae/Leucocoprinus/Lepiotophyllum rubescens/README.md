@@ -1,5 +1,4 @@
-Lepiotophyllum rubescens (Velen.) Locq. SPECIES
-=======
+# Lepiotophyllum rubescens (Velen.) Locq. SPECIES
 
 #### Status
 ACCEPTED

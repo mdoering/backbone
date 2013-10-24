@@ -1,5 +1,4 @@
-Clasterosporium traversianum Peyronel SPECIES
-=======
+# Clasterosporium traversianum Peyronel SPECIES
 
 #### Status
 ACCEPTED

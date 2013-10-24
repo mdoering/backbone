@@ -1,5 +1,4 @@
-Clinorhabdus Sanfilippo & Caulet, 1998 GENUS
-=======
+# Clinorhabdus Sanfilippo & Caulet, 1998 GENUS
 
 #### Status
 ACCEPTED

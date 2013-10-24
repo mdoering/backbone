@@ -1,5 +1,4 @@
-Strobilurus lignitilis V.L. Wells & Kempton SPECIES
-=======
+# Strobilurus lignitilis V.L. Wells & Kempton SPECIES
 
 #### Status
 ACCEPTED

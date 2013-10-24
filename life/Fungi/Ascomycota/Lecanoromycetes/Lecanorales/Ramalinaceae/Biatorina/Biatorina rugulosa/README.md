@@ -1,5 +1,4 @@
-Biatorina rugulosa (Hepp) SPECIES
-=======
+# Biatorina rugulosa (Hepp) SPECIES
 
 #### Status
 ACCEPTED

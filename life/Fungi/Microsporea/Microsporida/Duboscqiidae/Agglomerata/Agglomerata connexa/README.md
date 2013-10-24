@@ -1,5 +1,4 @@
-Agglomerata connexa M.?. Ovcharenko & I. Wita SPECIES
-=======
+# Agglomerata connexa M.?. Ovcharenko & I. Wita SPECIES
 
 #### Status
 ACCEPTED

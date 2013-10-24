@@ -1,5 +1,4 @@
-Cryptosphaeria exornata Lar.N. Vassiljeva SPECIES
-=======
+# Cryptosphaeria exornata Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoria ulothrix (Ach.) Horw. SPECIES
-=======
+# Xanthoria ulothrix (Ach.) Horw. SPECIES
 
 #### Status
 ACCEPTED

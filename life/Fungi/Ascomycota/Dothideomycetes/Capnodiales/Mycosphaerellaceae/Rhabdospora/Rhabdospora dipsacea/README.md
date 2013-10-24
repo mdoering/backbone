@@ -1,5 +1,4 @@
-Rhabdospora dipsacea Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Rhabdospora dipsacea Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

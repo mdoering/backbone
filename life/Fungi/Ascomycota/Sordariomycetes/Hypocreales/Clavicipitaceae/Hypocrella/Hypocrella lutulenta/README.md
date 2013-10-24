@@ -1,5 +1,4 @@
-Hypocrella lutulenta Höhn. SPECIES
-=======
+# Hypocrella lutulenta Höhn. SPECIES
 
 #### Status
 ACCEPTED

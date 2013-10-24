@@ -1,5 +1,4 @@
-Caloplaca tremniacensis A. Massal. SPECIES
-=======
+# Caloplaca tremniacensis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

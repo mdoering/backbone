@@ -1,5 +1,4 @@
-Irpex roseotingens (Hjortstam & Ryvarden) Saaren. & Kotir. SPECIES
-=======
+# Irpex roseotingens (Hjortstam & Ryvarden) Saaren. & Kotir. SPECIES
 
 #### Status
 ACCEPTED

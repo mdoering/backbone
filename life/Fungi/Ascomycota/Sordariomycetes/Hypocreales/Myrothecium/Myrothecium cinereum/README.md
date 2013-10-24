@@ -1,5 +1,4 @@
-Myrothecium cinereum Cooke SPECIES
-=======
+# Myrothecium cinereum Cooke SPECIES
 
 #### Status
 ACCEPTED

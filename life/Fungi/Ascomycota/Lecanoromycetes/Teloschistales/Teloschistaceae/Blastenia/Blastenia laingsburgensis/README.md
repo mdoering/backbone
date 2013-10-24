@@ -1,5 +1,4 @@
-Blastenia laingsburgensis Zahlbr. SPECIES
-=======
+# Blastenia laingsburgensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

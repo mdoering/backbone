@@ -1,5 +1,4 @@
-Peziza disparispora Calonge SPECIES
-=======
+# Peziza disparispora Calonge SPECIES
 
 #### Status
 ACCEPTED

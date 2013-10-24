@@ -1,5 +1,4 @@
-Rhodocybe ilicicola Lonati SPECIES
-=======
+# Rhodocybe ilicicola Lonati SPECIES
 
 #### Status
 ACCEPTED

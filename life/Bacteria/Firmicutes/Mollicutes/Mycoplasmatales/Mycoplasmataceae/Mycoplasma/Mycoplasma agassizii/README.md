@@ -1,5 +1,4 @@
-Mycoplasma agassizii Brown et al., 2001 SPECIES
-=======
+# Mycoplasma agassizii Brown et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

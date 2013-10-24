@@ -1,5 +1,4 @@
-Mycena multicaudata Singer SPECIES
-=======
+# Mycena multicaudata Singer SPECIES
 
 #### Status
 ACCEPTED

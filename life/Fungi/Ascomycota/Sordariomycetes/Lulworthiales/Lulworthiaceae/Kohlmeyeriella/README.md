@@ -1,5 +1,4 @@
-Kohlmeyeriella E.B.G. Jones, R.G. Johnson & S.T. Moss GENUS
-=======
+# Kohlmeyeriella E.B.G. Jones, R.G. Johnson & S.T. Moss GENUS
 
 #### Status
 ACCEPTED

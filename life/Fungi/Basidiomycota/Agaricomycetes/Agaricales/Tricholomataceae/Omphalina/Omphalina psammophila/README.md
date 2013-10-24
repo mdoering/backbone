@@ -1,5 +1,4 @@
-Omphalina psammophila Shchukin SPECIES
-=======
+# Omphalina psammophila Shchukin SPECIES
 
 #### Status
 ACCEPTED

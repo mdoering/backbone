@@ -1,14 +1,13 @@
-Lachnea pseudotrechispora (J. Schröt.) Sacc., 1895 SPECIES
-=======
+# Scutellinia pseudotrechispora (J. Schröt.) Le Gal, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 78: 213 (1962)
 
 #### Original name
 Humariella pseudotrechispora J. Schröt., 1893

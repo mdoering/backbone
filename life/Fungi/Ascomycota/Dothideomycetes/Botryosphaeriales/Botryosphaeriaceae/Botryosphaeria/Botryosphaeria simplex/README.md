@@ -1,5 +1,4 @@
-Botryosphaeria simplex Syd. SPECIES
-=======
+# Botryosphaeria simplex Syd. SPECIES
 
 #### Status
 ACCEPTED

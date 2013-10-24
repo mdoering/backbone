@@ -1,5 +1,4 @@
-Phoma teretiuscula Sacc. SPECIES
-=======
+# Phoma teretiuscula Sacc. SPECIES
 
 #### Status
 ACCEPTED

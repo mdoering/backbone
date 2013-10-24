@@ -1,5 +1,4 @@
-Crinipellis alcalivirens Singer SPECIES
-=======
+# Crinipellis alcalivirens Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma involucratum Long SPECIES
-=======
+# Tulostoma involucratum Long SPECIES
 
 #### Status
 ACCEPTED

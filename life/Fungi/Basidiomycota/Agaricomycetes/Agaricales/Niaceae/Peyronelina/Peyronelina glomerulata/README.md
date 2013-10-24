@@ -1,5 +1,4 @@
-Peyronelina glomerulata P.J. Fisher, J. Webster & D.F. Kane, 1976 SPECIES
-=======
+# Peyronelina glomerulata P.J. Fisher, J. Webster & D.F. Kane, 1976 SPECIES
 
 #### Status
 ACCEPTED

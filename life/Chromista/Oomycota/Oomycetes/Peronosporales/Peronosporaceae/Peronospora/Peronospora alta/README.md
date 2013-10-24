@@ -1,5 +1,4 @@
-Peronospora alta Fuckel, 1870 SPECIES
-=======
+# Peronospora alta Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

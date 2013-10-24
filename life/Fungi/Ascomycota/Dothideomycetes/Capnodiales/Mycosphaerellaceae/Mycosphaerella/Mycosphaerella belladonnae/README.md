@@ -1,5 +1,4 @@
-Mycosphaerella belladonnae (Briard & Har.) Tomilin SPECIES
-=======
+# Mycosphaerella belladonnae (Briard & Har.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

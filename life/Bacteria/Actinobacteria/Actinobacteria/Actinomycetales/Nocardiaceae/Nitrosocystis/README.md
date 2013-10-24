@@ -1,5 +1,4 @@
-Nitrosocystis GENUS
-=======
+# Nitrosocystis GENUS
 
 #### Status
 ACCEPTED

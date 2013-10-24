@@ -1,5 +1,4 @@
-Asterina subcyanea Ellis SPECIES
-=======
+# Asterina subcyanea Ellis SPECIES
 
 #### Status
 ACCEPTED

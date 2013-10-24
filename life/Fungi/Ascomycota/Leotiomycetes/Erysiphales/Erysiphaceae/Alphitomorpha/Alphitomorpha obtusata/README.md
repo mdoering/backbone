@@ -1,5 +1,4 @@
-Alphitomorpha obtusata Schltdl. SPECIES
-=======
+# Alphitomorpha obtusata Schltdl. SPECIES
 
 #### Status
 ACCEPTED

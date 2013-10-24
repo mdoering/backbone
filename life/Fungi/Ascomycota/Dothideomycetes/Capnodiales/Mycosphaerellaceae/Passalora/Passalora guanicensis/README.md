@@ -1,14 +1,13 @@
-Polythrincium guanicense (F. Stevens) Cif., 1938 SPECIES
-=======
+# Passalora guanicensis (F. Stevens) U. Braun & R.F. Castañeda, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 36: 233 (1938)
+in Castañeda Ruiz & Braun, Cryptog. bot. 1(1): 46 (1989)
 
 #### Original name
 Cladosporium guanicense F. Stevens, 1917

@@ -1,5 +1,4 @@
-Strickeria ammothamni Koshk. & Frolov SPECIES
-=======
+# Strickeria ammothamni Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

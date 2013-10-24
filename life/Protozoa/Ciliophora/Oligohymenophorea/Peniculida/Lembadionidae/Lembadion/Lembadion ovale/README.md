@@ -1,5 +1,4 @@
-Lembadion ovale Dumas, 1886 SPECIES
-=======
+# Lembadion ovale Dumas, 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium sociale Kabát & Bubák SPECIES
-=======
+# Leptothyrium sociale Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

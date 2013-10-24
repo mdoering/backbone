@@ -1,5 +1,4 @@
-Poria leonildis Mancini & Sacc. SPECIES
-=======
+# Poria leonildis Mancini & Sacc. SPECIES
 
 #### Status
 ACCEPTED

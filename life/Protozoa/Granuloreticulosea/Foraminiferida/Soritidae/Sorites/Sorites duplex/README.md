@@ -1,8 +1,7 @@
-Orbitolites duplex Carpenter, 1883 SPECIES
-=======
+# Sorites duplex (Carpenter, 1883) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

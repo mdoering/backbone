@@ -1,5 +1,4 @@
-Lecanora submetaboliza B. de Lesd. SPECIES
-=======
+# Lecanora submetaboliza B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

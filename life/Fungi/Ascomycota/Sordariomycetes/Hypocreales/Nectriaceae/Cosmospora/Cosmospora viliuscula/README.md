@@ -1,5 +1,4 @@
-Cosmospora viliuscula (Samuels, Yoshim. Doi & Rogerson) Rossman & Samuels SPECIES
-=======
+# Cosmospora viliuscula (Samuels, Yoshim. Doi & Rogerson) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

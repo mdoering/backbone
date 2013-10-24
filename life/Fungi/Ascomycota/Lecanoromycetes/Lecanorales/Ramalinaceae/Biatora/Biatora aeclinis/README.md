@@ -1,5 +1,4 @@
-Biatora aeclinis SPECIES
-=======
+# Biatora aeclinis SPECIES
 
 #### Status
 ACCEPTED

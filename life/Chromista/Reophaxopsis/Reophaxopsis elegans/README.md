@@ -1,5 +1,4 @@
-Reophaxopsis elegans de Folin, 1887 SPECIES
-=======
+# Reophaxopsis elegans de Folin, 1887 SPECIES
 
 #### Status
 ACCEPTED

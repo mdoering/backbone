@@ -1,5 +1,4 @@
-Arenaea javanica Penz. & Sacc. SPECIES
-=======
+# Arenaea javanica Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

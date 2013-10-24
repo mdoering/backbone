@@ -1,5 +1,4 @@
-Gasparrinia biatorina var. biatorina VARIETY
-=======
+# Gasparrinia biatorina (A. Massal.) Szatala SPECIES
 
 #### Status
 ACCEPTED

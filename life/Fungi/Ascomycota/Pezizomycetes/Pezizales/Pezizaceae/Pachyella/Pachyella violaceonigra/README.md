@@ -1,17 +1,16 @@
-Peziza barlaeana Bres., 1898 SPECIES
-=======
+# Pachyella violaceonigra (Rehm) Pfister, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 51(1): 2021 (1974)
 
 #### Original name
-null
+Plicaria violaceonigra (Rehm) Rehm, 1894
 
 ### Remarks
 null

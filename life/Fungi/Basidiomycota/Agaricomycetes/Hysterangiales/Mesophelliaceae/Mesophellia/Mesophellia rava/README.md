@@ -1,5 +1,4 @@
-Mesophellia rava Trappe, Castellano & Malajczuk, 1996 SPECIES
-=======
+# Mesophellia rava Trappe, Castellano & Malajczuk, 1996 SPECIES
 
 #### Status
 ACCEPTED

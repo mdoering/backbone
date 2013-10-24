@@ -1,5 +1,4 @@
-Anthracothecium indicum Ajay Singh SPECIES
-=======
+# Anthracothecium indicum Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

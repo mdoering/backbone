@@ -1,5 +1,4 @@
-Scirrhia gigantochloae Rehm SPECIES
-=======
+# Scirrhia gigantochloae Rehm SPECIES
 
 #### Status
 ACCEPTED

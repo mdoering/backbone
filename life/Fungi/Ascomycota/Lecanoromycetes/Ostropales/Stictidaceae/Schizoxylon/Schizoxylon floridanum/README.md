@@ -1,5 +1,4 @@
-Schizoxylon floridanum Sherwood SPECIES
-=======
+# Schizoxylon floridanum Sherwood SPECIES
 
 #### Status
 ACCEPTED

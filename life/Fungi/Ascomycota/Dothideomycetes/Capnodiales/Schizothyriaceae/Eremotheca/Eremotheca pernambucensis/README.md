@@ -1,5 +1,4 @@
-Eremotheca pernambucensis Bat. SPECIES
-=======
+# Eremotheca pernambucensis Bat. SPECIES
 
 #### Status
 ACCEPTED

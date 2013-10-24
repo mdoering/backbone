@@ -1,5 +1,4 @@
-Paratuzetia L.G. Poddubnaya, Y.S. Tokarev & I.V. Issi GENUS
-=======
+# Paratuzetia L.G. Poddubnaya, Y.S. Tokarev & I.V. Issi GENUS
 
 #### Status
 ACCEPTED

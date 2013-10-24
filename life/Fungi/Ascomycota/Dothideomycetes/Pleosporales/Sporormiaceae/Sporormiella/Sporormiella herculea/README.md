@@ -1,5 +1,4 @@
-Sporormiella herculea (Ellis & Everh.) S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella herculea (Ellis & Everh.) S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

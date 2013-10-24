@@ -1,5 +1,4 @@
-Dimerium guinieri Maire SPECIES
-=======
+# Dimerium guinieri Maire SPECIES
 
 #### Status
 ACCEPTED

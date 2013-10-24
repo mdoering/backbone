@@ -1,5 +1,4 @@
-Verrucaria wilczekii Körb. SPECIES
-=======
+# Verrucaria wilczekii Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Letharia arenaria (Fr.) Harm. SPECIES
-=======
+# Letharia arenaria (Fr.) Harm. SPECIES
 
 #### Status
 ACCEPTED

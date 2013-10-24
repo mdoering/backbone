@@ -1,5 +1,4 @@
-Gomphus szechwanensis R.H. Petersen, 1972 SPECIES
-=======
+# Gomphus szechwanensis R.H. Petersen, 1972 SPECIES
 
 #### Status
 ACCEPTED

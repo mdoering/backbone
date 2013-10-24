@@ -1,5 +1,4 @@
-Verrucaria monguilloni Servít SPECIES
-=======
+# Verrucaria monguilloni Servít SPECIES
 
 #### Status
 ACCEPTED

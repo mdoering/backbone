@@ -1,5 +1,4 @@
-Spilodium affine A. Massal. SPECIES
-=======
+# Spilodium affine A. Massal. SPECIES
 
 #### Status
 ACCEPTED

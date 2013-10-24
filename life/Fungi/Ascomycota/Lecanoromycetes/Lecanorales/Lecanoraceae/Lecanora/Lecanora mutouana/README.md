@@ -1,5 +1,4 @@
-Lecanora mutouana Zahlbr. SPECIES
-=======
+# Lecanora mutouana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

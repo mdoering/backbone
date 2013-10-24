@@ -1,5 +1,4 @@
-Agaricus albopersistens Zuccher. SPECIES
-=======
+# Agaricus albopersistens Zuccher. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria synothea (Ach.) Duby SPECIES
-=======
+# Patellaria synothea (Ach.) Duby SPECIES
 
 #### Status
 ACCEPTED

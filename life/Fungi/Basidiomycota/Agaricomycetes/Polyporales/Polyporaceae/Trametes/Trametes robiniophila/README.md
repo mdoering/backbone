@@ -1,14 +1,13 @@
-Poria robiniophila (Murrill) Ginns, 1984 SPECIES
-=======
+# Trametes robiniophila Murrill, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 21: 331 (1984)
+N. Amer. Fl. (New York) 9(1): 42 (1907)
 
 #### Original name
 Trametes robiniophila Murrill, 1907

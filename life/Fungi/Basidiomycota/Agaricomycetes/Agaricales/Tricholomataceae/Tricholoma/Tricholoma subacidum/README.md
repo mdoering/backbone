@@ -1,5 +1,4 @@
-Tricholoma subacidum (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma subacidum (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

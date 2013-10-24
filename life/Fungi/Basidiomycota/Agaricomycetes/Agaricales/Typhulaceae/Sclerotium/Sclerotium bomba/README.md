@@ -1,5 +1,4 @@
-Sclerotium bomba Dufour & Fr. SPECIES
-=======
+# Sclerotium bomba Dufour & Fr. SPECIES
 
 #### Status
 ACCEPTED

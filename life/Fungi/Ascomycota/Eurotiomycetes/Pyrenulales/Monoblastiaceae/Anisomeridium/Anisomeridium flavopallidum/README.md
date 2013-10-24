@@ -1,5 +1,4 @@
-Anisomeridium flavopallidum (Makhija & Patw.) R.C. Harris SPECIES
-=======
+# Anisomeridium flavopallidum (Makhija & Patw.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

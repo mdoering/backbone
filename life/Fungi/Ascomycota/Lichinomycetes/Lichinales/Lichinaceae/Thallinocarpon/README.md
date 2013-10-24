@@ -1,5 +1,4 @@
-Thallinocarpon GENUS
-=======
+# Thallinocarpon GENUS
 
 #### Status
 ACCEPTED

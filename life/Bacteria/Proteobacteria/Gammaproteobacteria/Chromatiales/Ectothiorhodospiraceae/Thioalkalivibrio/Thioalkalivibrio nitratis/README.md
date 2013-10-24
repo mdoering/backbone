@@ -1,5 +1,4 @@
-Thioalkalivibrio nitratis Sorokin et al., 2001 SPECIES
-=======
+# Thioalkalivibrio nitratis Sorokin et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

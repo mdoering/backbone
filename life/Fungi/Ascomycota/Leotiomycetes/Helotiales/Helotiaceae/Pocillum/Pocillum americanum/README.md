@@ -1,5 +1,4 @@
-Pocillum americanum Cooke SPECIES
-=======
+# Pocillum americanum Cooke SPECIES
 
 #### Status
 ACCEPTED

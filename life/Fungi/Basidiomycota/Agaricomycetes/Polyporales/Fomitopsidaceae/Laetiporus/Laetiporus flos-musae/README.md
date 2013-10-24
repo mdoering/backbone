@@ -1,5 +1,4 @@
-Laetiporus flos-musae Overeem SPECIES
-=======
+# Laetiporus flos-musae Overeem SPECIES
 
 #### Status
 ACCEPTED

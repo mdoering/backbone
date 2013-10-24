@@ -1,5 +1,4 @@
-Leptowallaceina Podlipaev & Frolov, 2000 GENUS
-=======
+# Leptowallaceina Podlipaev & Frolov, 2000 GENUS
 
 #### Status
 ACCEPTED

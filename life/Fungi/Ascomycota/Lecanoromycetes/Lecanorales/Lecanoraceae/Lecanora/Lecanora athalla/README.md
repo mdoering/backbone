@@ -1,5 +1,4 @@
-Lecanora athalla Nyl. SPECIES
-=======
+# Lecanora athalla Nyl. SPECIES
 
 #### Status
 ACCEPTED

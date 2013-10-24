@@ -1,5 +1,4 @@
-Cortinarius salmaster Gasparini SPECIES
-=======
+# Cortinarius salmaster Gasparini SPECIES
 
 #### Status
 ACCEPTED

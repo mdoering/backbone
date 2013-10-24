@@ -1,5 +1,4 @@
-Sclerotium narcissi (Sacc.) Boerema & Hamers SPECIES
-=======
+# Sclerotium narcissi (Sacc.) Boerema & Hamers SPECIES
 
 #### Status
 ACCEPTED

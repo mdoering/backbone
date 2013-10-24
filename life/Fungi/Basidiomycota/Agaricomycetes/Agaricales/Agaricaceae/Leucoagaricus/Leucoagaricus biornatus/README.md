@@ -1,5 +1,4 @@
-Leucoagaricus biornatus (Berk. & Broome) Bon SPECIES
-=======
+# Leucoagaricus biornatus (Berk. & Broome) Bon SPECIES
 
 #### Status
 ACCEPTED

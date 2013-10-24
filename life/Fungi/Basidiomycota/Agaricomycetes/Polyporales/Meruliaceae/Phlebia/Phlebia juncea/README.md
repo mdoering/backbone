@@ -1,5 +1,4 @@
-Phlebia juncea var. juncea VARIETY
-=======
+# Phlebia juncea SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phlebia juncea var. juncea
+Phlebia juncea
 
 ### Remarks
 null

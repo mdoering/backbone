@@ -1,5 +1,4 @@
-Irenina pothodis Hansf. SPECIES
-=======
+# Irenina pothodis Hansf. SPECIES
 
 #### Status
 ACCEPTED

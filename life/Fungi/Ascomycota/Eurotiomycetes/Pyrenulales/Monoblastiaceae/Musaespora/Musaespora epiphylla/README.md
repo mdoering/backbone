@@ -1,14 +1,13 @@
-Astrothelium epiphyllum R. Sant. SPECIES
-=======
+# Musaespora epiphylla (R. Sant.) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Symb. bot. upsal. 12(no. 1): 131 (1952)
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 133 (1995)
 
 #### Original name
 Astrothelium epiphyllum R. Sant.

@@ -1,14 +1,13 @@
-Phoma malvacearum Westend., 1859 SPECIES
-=======
+# Phomopsis malvacearum (Westend.) Died., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Krypt. -Fl. Brandenburg augr. Gebiete 9(2): 245 (1912)
 
 #### Original name
 Phoma malvacearum Westend., 1859

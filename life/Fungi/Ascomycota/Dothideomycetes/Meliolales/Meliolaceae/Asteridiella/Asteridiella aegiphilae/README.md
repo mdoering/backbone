@@ -1,5 +1,4 @@
-Asteridiella aegiphilae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella aegiphilae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blepharisma minima Lepsi, 1926 SPECIES
-=======
+# Blepharisma minima Lepsi, 1926 SPECIES
 
 #### Status
 ACCEPTED

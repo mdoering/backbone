@@ -1,5 +1,4 @@
-Polycaulonia GENUS
-=======
+# Polycaulonia GENUS
 
 #### Status
 ACCEPTED

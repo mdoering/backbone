@@ -1,5 +1,4 @@
-Amanita grossa Berk. SPECIES
-=======
+# Amanita grossa Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loricella Velenovský, 1934 GENUS
-=======
+# Loricella Velenovský, 1934 GENUS
 
 #### Status
 ACCEPTED

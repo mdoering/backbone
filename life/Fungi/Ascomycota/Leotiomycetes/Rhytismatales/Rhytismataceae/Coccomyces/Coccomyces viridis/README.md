@@ -1,5 +1,4 @@
-Coccomyces viridis (Richon) Sacc. SPECIES
-=======
+# Coccomyces viridis (Richon) Sacc. SPECIES
 
 #### Status
 ACCEPTED

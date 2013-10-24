@@ -1,5 +1,4 @@
-Uromyces procerus J.C. Lindq. SPECIES
-=======
+# Uromyces procerus J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

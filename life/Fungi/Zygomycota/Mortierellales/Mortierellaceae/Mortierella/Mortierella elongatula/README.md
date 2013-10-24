@@ -1,5 +1,4 @@
-Mortierella elongatula W. Gams & Domsch, 1976 SPECIES
-=======
+# Mortierella elongatula W. Gams & Domsch, 1976 SPECIES
 
 #### Status
 ACCEPTED

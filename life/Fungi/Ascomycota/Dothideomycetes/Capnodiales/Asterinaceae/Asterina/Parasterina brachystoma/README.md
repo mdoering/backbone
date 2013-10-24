@@ -1,5 +1,4 @@
-Parasterina brachystoma var. brachystoma VARIETY
-=======
+# Parasterina brachystoma (Rehm) Theiss. SPECIES
 
 #### Status
 ACCEPTED

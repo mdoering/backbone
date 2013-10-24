@@ -1,5 +1,4 @@
-Cytospora phellodendri Gucevic SPECIES
-=======
+# Cytospora phellodendri Gucevic SPECIES
 
 #### Status
 ACCEPTED

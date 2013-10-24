@@ -1,5 +1,4 @@
-Margoporata GENUS
-=======
+# Margoporata GENUS
 
 #### Status
 ACCEPTED

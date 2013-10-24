@@ -1,5 +1,4 @@
-Tilletia sphenopi Ulyanshchev SPECIES
-=======
+# Tilletia sphenopi Ulyanshchev SPECIES
 
 #### Status
 ACCEPTED

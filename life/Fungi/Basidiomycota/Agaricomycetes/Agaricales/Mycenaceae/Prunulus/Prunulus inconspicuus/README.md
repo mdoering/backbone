@@ -1,5 +1,4 @@
-Prunulus inconspicuus Murrill SPECIES
-=======
+# Prunulus inconspicuus Murrill SPECIES
 
 #### Status
 ACCEPTED

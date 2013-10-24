@@ -1,5 +1,4 @@
-Hydnotrya jurana Quél. SPECIES
-=======
+# Hydnotrya jurana Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septotrichum populinum Sorokin SPECIES
-=======
+# Septotrichum populinum Sorokin SPECIES
 
 #### Status
 ACCEPTED

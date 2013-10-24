@@ -1,5 +1,4 @@
-Polyporus transiens Ces. SPECIES
-=======
+# Polyporus transiens Ces. SPECIES
 
 #### Status
 ACCEPTED

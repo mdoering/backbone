@@ -1,5 +1,4 @@
-Phoma macromphala Pat. SPECIES
-=======
+# Phoma macromphala Pat. SPECIES
 
 #### Status
 ACCEPTED

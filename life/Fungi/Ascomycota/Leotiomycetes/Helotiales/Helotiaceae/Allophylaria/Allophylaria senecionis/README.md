@@ -1,5 +1,4 @@
-Allophylaria senecionis Clem. SPECIES
-=======
+# Allophylaria senecionis Clem. SPECIES
 
 #### Status
 ACCEPTED

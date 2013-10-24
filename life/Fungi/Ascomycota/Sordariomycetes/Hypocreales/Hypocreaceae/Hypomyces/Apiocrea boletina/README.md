@@ -1,5 +1,4 @@
-Apiocrea boletina (Peck) G.R.W. Arnold SPECIES
-=======
+# Apiocrea boletina (Peck) G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

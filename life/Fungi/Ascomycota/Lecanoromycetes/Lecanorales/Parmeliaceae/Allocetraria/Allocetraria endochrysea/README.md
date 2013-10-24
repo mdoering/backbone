@@ -1,5 +1,4 @@
-Allocetraria endochrysea (Lynge) Kärnefelt & A. Thell SPECIES
-=======
+# Allocetraria endochrysea (Lynge) Kärnefelt & A. Thell SPECIES
 
 #### Status
 ACCEPTED

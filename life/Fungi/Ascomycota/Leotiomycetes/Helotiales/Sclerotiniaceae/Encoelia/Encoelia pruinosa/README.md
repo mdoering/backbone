@@ -1,5 +1,4 @@
-Encoelia pruinosa (Ellis & Everh.) Tork. & Eckblad SPECIES
-=======
+# Encoelia pruinosa (Ellis & Everh.) Tork. & Eckblad SPECIES
 
 #### Status
 ACCEPTED

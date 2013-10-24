@@ -1,5 +1,4 @@
-Xerula mammicystis R.H. Petersen SPECIES
-=======
+# Xerula mammicystis R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

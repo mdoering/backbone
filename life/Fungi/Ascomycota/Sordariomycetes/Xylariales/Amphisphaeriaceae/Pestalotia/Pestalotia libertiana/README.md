@@ -1,5 +1,4 @@
-Pestalotia libertiana Sacc. SPECIES
-=======
+# Pestalotia libertiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

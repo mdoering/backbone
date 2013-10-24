@@ -1,17 +1,16 @@
-Amauroderma perplexum var. perplexum VARIETY
-=======
+# Amauroderma perplexum Corner, 1983 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Beih. Nova Hedwigia 75: 82 (1983)
 
 #### Original name
-Amauroderma perplexum var. perplexum
+Amauroderma perplexum Corner, 1983
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ombrophila rubicunda Höhn. SPECIES
-=======
+# Ombrophila rubicunda Höhn. SPECIES
 
 #### Status
 ACCEPTED

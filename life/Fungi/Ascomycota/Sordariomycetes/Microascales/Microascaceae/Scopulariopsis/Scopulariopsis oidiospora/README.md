@@ -1,5 +1,4 @@
-Scopulariopsis oidiospora Zach SPECIES
-=======
+# Scopulariopsis oidiospora Zach SPECIES
 
 #### Status
 ACCEPTED

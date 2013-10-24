@@ -1,5 +1,4 @@
-Aspicilia geographica Hue SPECIES
-=======
+# Aspicilia geographica Hue SPECIES
 
 #### Status
 ACCEPTED

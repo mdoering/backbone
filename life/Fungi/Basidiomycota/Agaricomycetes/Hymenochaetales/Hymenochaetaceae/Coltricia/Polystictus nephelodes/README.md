@@ -1,5 +1,4 @@
-Polystictus nephelodes (Lév.) Cooke SPECIES
-=======
+# Polystictus nephelodes (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

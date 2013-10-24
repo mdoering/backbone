@@ -1,5 +1,4 @@
-Thalassiphyllum GENUS
-=======
+# Thalassiphyllum GENUS
 
 #### Status
 ACCEPTED

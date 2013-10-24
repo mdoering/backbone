@@ -1,5 +1,4 @@
-Rhynchogastremataceae Oberw. & B. Metzler FAMILY
-=======
+# Rhynchogastremataceae Oberw. & B. Metzler FAMILY
 
 #### Status
 ACCEPTED

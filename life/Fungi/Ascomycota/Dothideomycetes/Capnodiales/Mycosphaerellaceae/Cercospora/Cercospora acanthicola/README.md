@@ -1,5 +1,4 @@
-Cercospora acanthicola Hansf. SPECIES
-=======
+# Cercospora acanthicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

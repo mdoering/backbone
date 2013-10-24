@@ -1,5 +1,4 @@
-Micrhystridium goldwyerense Playford & Martin, 1984 SPECIES
-=======
+# Micrhystridium goldwyerense Playford & Martin, 1984 SPECIES
 
 #### Status
 ACCEPTED

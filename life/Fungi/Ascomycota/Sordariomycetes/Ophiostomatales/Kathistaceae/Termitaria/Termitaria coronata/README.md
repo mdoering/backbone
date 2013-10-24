@@ -1,5 +1,4 @@
-Termitaria coronata Thaxt. SPECIES
-=======
+# Termitaria coronata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

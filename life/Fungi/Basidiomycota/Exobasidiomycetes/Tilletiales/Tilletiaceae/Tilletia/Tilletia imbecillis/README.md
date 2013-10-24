@@ -1,5 +1,4 @@
-Tilletia imbecillis Vánky, 2004 SPECIES
-=======
+# Tilletia imbecillis Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

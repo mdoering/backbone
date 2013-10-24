@@ -1,5 +1,4 @@
-Sorosporium androsaces (P. Karst.) Lavrov SPECIES
-=======
+# Sorosporium androsaces (P. Karst.) Lavrov SPECIES
 
 #### Status
 ACCEPTED

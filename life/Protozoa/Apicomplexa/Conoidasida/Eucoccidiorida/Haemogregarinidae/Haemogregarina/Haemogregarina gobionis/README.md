@@ -1,5 +1,4 @@
-Haemogregarina gobionis Franchini & Saini, 1923 SPECIES
-=======
+# Haemogregarina gobionis Franchini & Saini, 1923 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula kermesina T. Lebel, 2007 SPECIES
-=======
+# Russula kermesina T. Lebel, 2007 SPECIES
 
 #### Status
 ACCEPTED

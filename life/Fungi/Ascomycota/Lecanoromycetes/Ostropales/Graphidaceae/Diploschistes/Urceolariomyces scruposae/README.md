@@ -1,5 +1,4 @@
-Urceolariomyces scruposae Cif. & Tomas. SPECIES
-=======
+# Urceolariomyces scruposae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

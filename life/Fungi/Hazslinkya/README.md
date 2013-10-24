@@ -1,5 +1,4 @@
-Hazslinkya Körber, 1861 GENUS
-=======
+# Hazslinkya Körber, 1861 GENUS
 
 #### Status
 ACCEPTED

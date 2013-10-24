@@ -1,5 +1,4 @@
-Psilocybe toogaadyalis Grgur. SPECIES
-=======
+# Psilocybe toogaadyalis Grgur. SPECIES
 
 #### Status
 ACCEPTED

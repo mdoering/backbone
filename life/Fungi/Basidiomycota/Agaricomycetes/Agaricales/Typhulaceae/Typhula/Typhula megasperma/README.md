@@ -1,5 +1,4 @@
-Typhula megasperma Berthier, 1976 SPECIES
-=======
+# Typhula megasperma Berthier, 1976 SPECIES
 
 #### Status
 ACCEPTED

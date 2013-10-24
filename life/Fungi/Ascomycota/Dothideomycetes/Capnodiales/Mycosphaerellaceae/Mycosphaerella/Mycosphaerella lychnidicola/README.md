@@ -1,5 +1,4 @@
-Mycosphaerella lychnidicola Syd. {?} SPECIES
-=======
+# Mycosphaerella lychnidicola Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

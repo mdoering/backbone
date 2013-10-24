@@ -1,5 +1,4 @@
-Ascochyta bidentis Cejp & Dolej SPECIES
-=======
+# Ascochyta bidentis Cejp & Dolej SPECIES
 
 #### Status
 ACCEPTED

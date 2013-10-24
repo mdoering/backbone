@@ -1,5 +1,4 @@
-Micropuccinia paupercula (Arthur) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia paupercula (Arthur) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Badhamia panicea var. heterospora G. Lister VARIETY
-=======
+# Badhamia panicea (Fr.) Rostaf., 1873 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Mycetozoa (London) 17 (1925)
+in Fuckel, Symb. mycol. nachtrag 2: 71 (1873)
 
 #### Original name
-Badhamia panicea var. heterospora G. Lister
+Physarum paniceum Fr., 1829
 
 ### Remarks
 null

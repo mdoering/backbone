@@ -1,5 +1,4 @@
-Sclerotium erumpens Schwein. SPECIES
-=======
+# Sclerotium erumpens Schwein. SPECIES
 
 #### Status
 ACCEPTED

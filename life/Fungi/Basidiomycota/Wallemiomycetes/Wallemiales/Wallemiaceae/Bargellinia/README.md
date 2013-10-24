@@ -1,5 +1,4 @@
-Bargellinia GENUS
-=======
+# Bargellinia GENUS
 
 #### Status
 ACCEPTED

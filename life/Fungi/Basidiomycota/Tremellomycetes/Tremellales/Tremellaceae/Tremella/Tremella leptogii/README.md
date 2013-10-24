@@ -1,5 +1,4 @@
-Tremella leptogii Diederich SPECIES
-=======
+# Tremella leptogii Diederich SPECIES
 
 #### Status
 ACCEPTED

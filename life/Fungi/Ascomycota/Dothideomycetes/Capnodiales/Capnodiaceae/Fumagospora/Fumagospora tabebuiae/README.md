@@ -1,5 +1,4 @@
-Fumagospora tabebuiae Inácio & Dianese SPECIES
-=======
+# Fumagospora tabebuiae Inácio & Dianese SPECIES
 
 #### Status
 ACCEPTED

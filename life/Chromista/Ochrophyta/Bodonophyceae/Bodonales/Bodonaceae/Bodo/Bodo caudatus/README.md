@@ -1,5 +1,4 @@
-Bodo caudatus (Duj.) SPECIES
-=======
+# Bodo caudatus (Duj.) SPECIES
 
 #### Status
 ACCEPTED

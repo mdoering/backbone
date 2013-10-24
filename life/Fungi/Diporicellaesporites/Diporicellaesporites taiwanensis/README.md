@@ -1,5 +1,4 @@
-Diporicellaesporites taiwanensis T.C. Huang SPECIES
-=======
+# Diporicellaesporites taiwanensis T.C. Huang SPECIES
 
 #### Status
 ACCEPTED

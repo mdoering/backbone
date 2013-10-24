@@ -1,5 +1,4 @@
-Mycosphaerella pernettyae (Speg.) Syd. SPECIES
-=======
+# Mycosphaerella pernettyae (Speg.) Syd. SPECIES
 
 #### Status
 ACCEPTED

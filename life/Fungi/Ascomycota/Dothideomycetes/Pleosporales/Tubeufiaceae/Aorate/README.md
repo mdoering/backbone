@@ -1,5 +1,4 @@
-Aorate GENUS
-=======
+# Aorate GENUS
 
 #### Status
 ACCEPTED

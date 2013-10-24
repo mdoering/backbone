@@ -1,5 +1,4 @@
-Hypogymnia duplicatoides (Oxner) Rass. SPECIES
-=======
+# Hypogymnia duplicatoides (Oxner) Rass. SPECIES
 
 #### Status
 ACCEPTED

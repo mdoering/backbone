@@ -1,17 +1,16 @@
-Lecanographa littoralis Kantvilas SPECIES
-=======
+# Angiactis littoralis (Kantvilas) Aptroot & Sparrius SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Aptroot, Sparrius, LaGreca & Bungartz, Bryologist 111(3): 513 (2008)
 
 #### Original name
-null
+Lecanographa littoralis Kantvilas
 
 ### Remarks
 null

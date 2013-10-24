@@ -1,5 +1,4 @@
-Physalospora persicae Abiko & Kitaj. SPECIES
-=======
+# Physalospora persicae Abiko & Kitaj. SPECIES
 
 #### Status
 ACCEPTED

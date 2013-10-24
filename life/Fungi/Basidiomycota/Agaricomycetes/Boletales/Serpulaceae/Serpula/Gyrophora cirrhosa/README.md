@@ -1,5 +1,4 @@
-Gyrophora cirrhosa var. mammulata (Ach.) Zahlbr. VARIETY
-=======
+# Gyrophora cirrhosa (Hoffm.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Meddn Soc. Fauna Flora fenn. 14: 23 (1888)
 
 #### Original name
-Gyrophora mammulata Ach.
+Lichen cirrhosus Hoffm.
 
 ### Remarks
 null

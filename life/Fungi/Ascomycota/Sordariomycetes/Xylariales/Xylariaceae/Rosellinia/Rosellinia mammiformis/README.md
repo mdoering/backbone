@@ -1,14 +1,13 @@
-Hypoxylon mammaeforme (Pers.) Berk. SPECIES
-=======
+# Rosellinia mammiformis (Pers.) Ces. & De Not., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Comm. Soc. crittog. Ital. 1(4): 227 (1863)
 
 #### Original name
 Sphaeria mammiformis Hoffm., 1787

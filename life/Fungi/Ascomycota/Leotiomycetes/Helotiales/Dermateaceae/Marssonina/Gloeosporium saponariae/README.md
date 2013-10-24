@@ -1,5 +1,4 @@
-Gloeosporium saponariae Siemaszko SPECIES
-=======
+# Gloeosporium saponariae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

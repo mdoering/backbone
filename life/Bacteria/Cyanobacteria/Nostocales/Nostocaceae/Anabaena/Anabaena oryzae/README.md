@@ -1,5 +1,4 @@
-Anabaena oryzae F. E. Fritsch SPECIES
-=======
+# Anabaena oryzae F. E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

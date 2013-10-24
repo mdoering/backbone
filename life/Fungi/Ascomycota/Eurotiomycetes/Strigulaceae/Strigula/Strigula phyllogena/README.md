@@ -1,14 +1,13 @@
-Porina phyllogena Müll. Arg. SPECIES
-=======
+# Strigula phyllogena (Müll. Arg.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 66: 27 (no. 663) (1883)
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 159 (1995)
 
 #### Original name
 Porina phyllogena Müll. Arg.

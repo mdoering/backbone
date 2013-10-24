@@ -1,5 +1,4 @@
-Phragmidium quinqueloculare var. quinqueloculare Barclay VARIETY
-=======
+# Phragmidium quinqueloculare Barclay SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Saccardo, Syll. fung. (Abellini) 9: 315 (1891)
 
 #### Original name
-Phragmidium quinqueloculare var. quinqueloculare Barclay
+Phragmidium quinqueloculare Barclay
 
 ### Remarks
 null

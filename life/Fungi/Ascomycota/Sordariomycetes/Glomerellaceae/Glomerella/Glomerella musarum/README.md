@@ -1,5 +1,4 @@
-Glomerella musarum Petch SPECIES
-=======
+# Glomerella musarum Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Illosporium muscorum Rostr. SPECIES
-=======
+# Illosporium muscorum Rostr. SPECIES
 
 #### Status
 ACCEPTED

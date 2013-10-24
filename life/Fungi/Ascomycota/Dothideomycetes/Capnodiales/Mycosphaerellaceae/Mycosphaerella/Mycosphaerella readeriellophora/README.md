@@ -1,17 +1,16 @@
-Teratosphaeria readeriellophora (Crous & Mansilla) Crous & U. Braun, 2007 SPECIES
-=======
+# Mycosphaerella readeriellophora Crous & Mansilla, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous, Groenewald, Mansilla, Hunter & Wingfield, Stud. Mycol. 50(1): 207 (2004)
 
 #### Original name
-null
+Mycosphaerella readeriellophora Crous & Mansilla, 2004
 
 ### Remarks
 null

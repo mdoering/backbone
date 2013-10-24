@@ -1,5 +1,4 @@
-Paranophrys carnivora SPECIES
-=======
+# Paranophrys carnivora SPECIES
 
 #### Status
 ACCEPTED

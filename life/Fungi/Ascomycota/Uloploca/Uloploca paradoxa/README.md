@@ -1,5 +1,4 @@
-Uloploca paradoxa Kleb. SPECIES
-=======
+# Uloploca paradoxa Kleb. SPECIES
 
 #### Status
 ACCEPTED

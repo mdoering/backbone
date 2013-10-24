@@ -1,5 +1,4 @@
-Placodium psorothecioides Vain. SPECIES
-=======
+# Placodium psorothecioides Vain. SPECIES
 
 #### Status
 ACCEPTED

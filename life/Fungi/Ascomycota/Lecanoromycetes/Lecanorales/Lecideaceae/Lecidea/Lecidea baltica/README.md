@@ -1,5 +1,4 @@
-Lecidea baltica Malme SPECIES
-=======
+# Lecidea baltica Malme SPECIES
 
 #### Status
 ACCEPTED

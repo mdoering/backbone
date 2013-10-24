@@ -1,5 +1,4 @@
-Parmotrema ravum (Krog & Swinscow) Sérus. SPECIES
-=======
+# Parmotrema ravum (Krog & Swinscow) Sérus. SPECIES
 
 #### Status
 ACCEPTED

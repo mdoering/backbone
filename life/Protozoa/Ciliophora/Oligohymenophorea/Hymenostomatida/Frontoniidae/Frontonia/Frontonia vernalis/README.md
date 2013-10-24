@@ -1,8 +1,7 @@
-Panophris vernalis (Ehrenberg, 1833) Dujardin, 1841 SPECIES
-=======
+# Frontonia vernalis (Ehrenberg, 1834) Kahl, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

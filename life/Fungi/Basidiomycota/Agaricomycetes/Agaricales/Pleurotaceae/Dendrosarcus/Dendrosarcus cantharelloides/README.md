@@ -1,14 +1,13 @@
-Dendrosarcus cantharellodes (Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus cantharelloides (Berk.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 463 (1898)
 
 #### Original name
 Agaricus cantharelloides Sowerby, 1797

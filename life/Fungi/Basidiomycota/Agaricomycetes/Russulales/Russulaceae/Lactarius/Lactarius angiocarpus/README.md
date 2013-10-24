@@ -1,5 +1,4 @@
-Lactarius angiocarpus Verbeken & U. Eberh. SPECIES
-=======
+# Lactarius angiocarpus Verbeken & U. Eberh. SPECIES
 
 #### Status
 ACCEPTED

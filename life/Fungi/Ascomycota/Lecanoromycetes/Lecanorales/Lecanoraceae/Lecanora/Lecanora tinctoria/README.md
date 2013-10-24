@@ -1,5 +1,4 @@
-Lecanora tinctoria (DC.) Czerwiak. {?} SPECIES
-=======
+# Lecanora tinctoria (DC.) Czerwiak. {?} SPECIES
 
 #### Status
 ACCEPTED

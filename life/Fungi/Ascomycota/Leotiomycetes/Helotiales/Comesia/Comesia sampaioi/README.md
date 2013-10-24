@@ -1,5 +1,4 @@
-Comesia sampaioi Gonz. Frag. SPECIES
-=======
+# Comesia sampaioi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

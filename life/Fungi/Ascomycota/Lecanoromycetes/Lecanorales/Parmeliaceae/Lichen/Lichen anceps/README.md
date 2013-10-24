@@ -1,5 +1,4 @@
-Lichen anceps Rustr. SPECIES
-=======
+# Lichen anceps Rustr. SPECIES
 
 #### Status
 ACCEPTED

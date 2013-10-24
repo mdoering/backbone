@@ -1,5 +1,4 @@
-Epidochium affine Desm. SPECIES
-=======
+# Epidochium affine Desm. SPECIES
 
 #### Status
 ACCEPTED

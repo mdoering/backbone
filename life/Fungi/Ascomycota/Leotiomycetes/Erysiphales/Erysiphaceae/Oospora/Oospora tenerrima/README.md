@@ -1,5 +1,4 @@
-Oospora tenerrima (Preuss) Sacc. & Voglino SPECIES
-=======
+# Oospora tenerrima (Preuss) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

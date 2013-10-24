@@ -1,5 +1,4 @@
-Gloeosporium sanguisorbae Fuckel SPECIES
-=======
+# Gloeosporium sanguisorbae Fuckel SPECIES
 
 #### Status
 ACCEPTED

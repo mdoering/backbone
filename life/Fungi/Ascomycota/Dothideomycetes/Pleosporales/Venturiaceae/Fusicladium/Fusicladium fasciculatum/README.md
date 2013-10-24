@@ -1,5 +1,4 @@
-Fusicladium fasciculatum var. didymum Deighton VARIETY
-=======
+# Fusicladium fasciculatum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mycol. Pap. 112: 21 (1967)
+Grevillea 6(no. 39): 88 (1878)
 
 #### Original name
-Fusicladium fasciculatum var. didymum Deighton
+Fusicladium fasciculatum Cooke & Ellis
 
 ### Remarks
 null

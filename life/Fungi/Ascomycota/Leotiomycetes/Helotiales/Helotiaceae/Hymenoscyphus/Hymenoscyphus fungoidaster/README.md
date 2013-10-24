@@ -1,5 +1,4 @@
-Hymenoscyphus fungoidaster (Hedw.) Kuntze SPECIES
-=======
+# Hymenoscyphus fungoidaster (Hedw.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

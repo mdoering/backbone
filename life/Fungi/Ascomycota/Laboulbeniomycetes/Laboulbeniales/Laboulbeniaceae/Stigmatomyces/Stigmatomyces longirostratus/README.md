@@ -1,5 +1,4 @@
-Stigmatomyces longirostratus Thaxt. SPECIES
-=======
+# Stigmatomyces longirostratus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

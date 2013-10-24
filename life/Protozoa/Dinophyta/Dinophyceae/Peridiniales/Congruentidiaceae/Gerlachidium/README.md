@@ -1,5 +1,4 @@
-Gerlachidium P.N. von Benedek & W.A.S. Sarjeant, 1982 GENUS
-=======
+# Gerlachidium P.N. von Benedek & W.A.S. Sarjeant, 1982 GENUS
 
 #### Status
 ACCEPTED

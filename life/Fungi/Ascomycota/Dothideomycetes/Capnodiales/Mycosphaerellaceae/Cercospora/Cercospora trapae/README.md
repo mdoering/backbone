@@ -1,5 +1,4 @@
-Cercospora trapae Thirum. & Govindu SPECIES
-=======
+# Cercospora trapae Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

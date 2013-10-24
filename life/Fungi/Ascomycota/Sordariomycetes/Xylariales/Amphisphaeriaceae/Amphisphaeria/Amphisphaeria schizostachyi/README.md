@@ -1,5 +1,4 @@
-Amphisphaeria schizostachyi Rehm SPECIES
-=======
+# Amphisphaeria schizostachyi Rehm SPECIES
 
 #### Status
 ACCEPTED

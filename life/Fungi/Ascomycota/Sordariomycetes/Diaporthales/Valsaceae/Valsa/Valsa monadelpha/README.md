@@ -1,5 +1,4 @@
-Valsa monadelpha (Fr.) Sacc. SPECIES
-=======
+# Valsa monadelpha (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

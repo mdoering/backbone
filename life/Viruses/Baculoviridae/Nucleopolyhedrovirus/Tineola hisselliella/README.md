@@ -1,5 +1,4 @@
-Tineola hisselliella Npv SPECIES
-=======
+# Tineola hisselliella Npv SPECIES
 
 #### Status
 ACCEPTED

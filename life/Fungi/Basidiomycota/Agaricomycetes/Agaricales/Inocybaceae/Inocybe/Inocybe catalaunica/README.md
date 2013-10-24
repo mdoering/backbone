@@ -1,17 +1,16 @@
-Inocybe leiocephala D.E. Stuntz, 1950 SPECIES
-=======
+# Inocybe catalaunica Singer, 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 42(1): 98 (1950)
+Collnea bot. , Barcinone Bot. Instit. 1: 245 (1947)
 
 #### Original name
-Inocybe leiocephala D.E. Stuntz, 1950
+Inocybe catalaunica Singer, 1947
 
 ### Remarks
 null

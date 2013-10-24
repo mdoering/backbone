@@ -1,5 +1,4 @@
-Roccellina portentosa (Mont.) Tehler SPECIES
-=======
+# Roccellina portentosa (Mont.) Tehler SPECIES
 
 #### Status
 ACCEPTED

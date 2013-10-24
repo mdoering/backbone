@@ -1,5 +1,4 @@
-Blastotrichum fusisporum (Preuss) Sacc. SPECIES
-=======
+# Blastotrichum fusisporum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

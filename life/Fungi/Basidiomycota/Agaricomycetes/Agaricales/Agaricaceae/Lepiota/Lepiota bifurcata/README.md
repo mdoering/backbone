@@ -1,5 +1,4 @@
-Lepiota bifurcata A.B. Pereira SPECIES
-=======
+# Lepiota bifurcata A.B. Pereira SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria resedae Neerg., 1945 SPECIES
-=======
+# Alternaria resedae Neerg., 1945 SPECIES
 
 #### Status
 ACCEPTED

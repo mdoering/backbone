@@ -1,5 +1,4 @@
-Uromyces hieronymianus Henn. SPECIES
-=======
+# Uromyces hieronymianus Henn. SPECIES
 
 #### Status
 ACCEPTED

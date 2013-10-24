@@ -1,5 +1,4 @@
-Isaria ceratoides Speg. SPECIES
-=======
+# Isaria ceratoides Speg. SPECIES
 
 #### Status
 ACCEPTED

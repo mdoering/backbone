@@ -1,5 +1,4 @@
-Capnocybe S. Hughes GENUS
-=======
+# Capnocybe S. Hughes GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Drechslera glycini S. Naray. & Durairaj SPECIES
-=======
+# Drechslera glycines S. Naray. & Durairaj SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Madras agric. J. 58(8): 712 (1971)
 
 #### Original name
-Drechslera glycini S. Naray. & Durairaj
+Drechslera glycines S. Naray. & Durairaj
 
 ### Remarks
 null

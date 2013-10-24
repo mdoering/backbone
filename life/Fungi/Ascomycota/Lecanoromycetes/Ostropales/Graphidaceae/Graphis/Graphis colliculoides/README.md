@@ -1,5 +1,4 @@
-Graphis colliculoides Adaw. & Makhija SPECIES
-=======
+# Graphis colliculoides Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodermia coronata (Kurok.) D.D. Awasthi SPECIES
-=======
+# Heterodermia coronata (Kurok.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

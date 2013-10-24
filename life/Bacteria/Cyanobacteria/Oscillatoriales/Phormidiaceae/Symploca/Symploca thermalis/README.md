@@ -1,5 +1,4 @@
-Symploca thermalis f. longiarticulata Emoto & Hirose FORM
-=======
+# Symploca thermalis SPECIES
 
 #### Status
 ACCEPTED

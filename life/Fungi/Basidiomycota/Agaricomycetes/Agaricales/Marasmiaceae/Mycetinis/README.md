@@ -1,5 +1,4 @@
-Mycetinis GENUS
-=======
+# Mycetinis GENUS
 
 #### Status
 ACCEPTED

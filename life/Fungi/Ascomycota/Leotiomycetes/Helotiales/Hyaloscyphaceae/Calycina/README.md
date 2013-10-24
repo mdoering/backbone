@@ -1,17 +1,16 @@
-Calycella (E.M. Fries) Boudier, 1885 GENUS
-=======
+# Calycina Nees ex Gray, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: 669 (1821)
 
 #### Original name
-null
+Calycina Nees ex Gray, 1821
 
 ### Remarks
 null

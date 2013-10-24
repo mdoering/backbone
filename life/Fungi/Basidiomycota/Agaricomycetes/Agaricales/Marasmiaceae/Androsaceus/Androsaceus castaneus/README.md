@@ -1,5 +1,4 @@
-Androsaceus castaneus (Mont.) Pat. SPECIES
-=======
+# Androsaceus castaneus (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

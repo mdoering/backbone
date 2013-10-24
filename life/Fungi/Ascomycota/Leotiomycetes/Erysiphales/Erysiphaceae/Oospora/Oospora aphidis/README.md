@@ -1,5 +1,4 @@
-Oospora aphidis Cooke & Massee SPECIES
-=======
+# Oospora aphidis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

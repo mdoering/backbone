@@ -1,5 +1,4 @@
-Eonapora Kozur & Mostler, 1980 GENUS
-=======
+# Eonapora Kozur & Mostler, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina metasequoiae Gucevic SPECIES
-=======
+# Diplodina metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

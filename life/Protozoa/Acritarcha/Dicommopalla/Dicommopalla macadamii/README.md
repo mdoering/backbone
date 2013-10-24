@@ -1,5 +1,4 @@
-Dicommopalla macadamii Loeblich, 1970 SPECIES
-=======
+# Dicommopalla macadamii Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

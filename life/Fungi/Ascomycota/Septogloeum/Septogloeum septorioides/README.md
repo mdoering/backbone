@@ -1,5 +1,4 @@
-Septogloeum septorioides Pass. SPECIES
-=======
+# Septogloeum septorioides Pass. SPECIES
 
 #### Status
 ACCEPTED

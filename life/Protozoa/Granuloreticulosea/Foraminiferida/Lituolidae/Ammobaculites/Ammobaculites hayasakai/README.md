@@ -1,5 +1,4 @@
-Ammobaculites hayasakai Ishizaki SPECIES
-=======
+# Ammobaculites hayasakai Ishizaki SPECIES
 
 #### Status
 ACCEPTED

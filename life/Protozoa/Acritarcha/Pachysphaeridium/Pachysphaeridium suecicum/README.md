@@ -1,5 +1,4 @@
-Pachysphaeridium suecicum (Eisenack, 1959) Ribecai & Tongiorgi, 1999 SPECIES
-=======
+# Pachysphaeridium suecicum (Eisenack, 1959) Ribecai & Tongiorgi, 1999 SPECIES
 
 #### Status
 ACCEPTED

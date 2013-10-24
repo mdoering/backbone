@@ -1,5 +1,4 @@
-Agromyces cerinus subsp. cerinus SUBSPECIES
-=======
+# Agromyces cerinus Zgurskaya et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

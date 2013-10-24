@@ -1,5 +1,4 @@
-Corynespora micheliae Z.Q. Shang & X.G. Zhang SPECIES
-=======
+# Corynespora micheliae Z.Q. Shang & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella citricola McAlpine SPECIES
-=======
+# Sphaerella citricola McAlpine SPECIES
 
 #### Status
 ACCEPTED

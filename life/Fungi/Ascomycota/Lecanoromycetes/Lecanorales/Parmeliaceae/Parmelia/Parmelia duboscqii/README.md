@@ -1,5 +1,4 @@
-Parmelia duboscqii Abbayes SPECIES
-=======
+# Parmelia duboscqii Abbayes SPECIES
 
 #### Status
 ACCEPTED

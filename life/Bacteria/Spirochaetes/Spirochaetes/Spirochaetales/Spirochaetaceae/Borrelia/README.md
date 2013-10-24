@@ -1,5 +1,4 @@
-Borrelia Swellengrebel, 1907 GENUS
-=======
+# Borrelia Swellengrebel, 1907 GENUS
 
 #### Status
 ACCEPTED

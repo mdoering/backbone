@@ -1,5 +1,4 @@
-Cladonia paludicola (Tuck.) G. Merr. SPECIES
-=======
+# Cladonia paludicola (Tuck.) G. Merr. SPECIES
 
 #### Status
 ACCEPTED

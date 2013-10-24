@@ -1,5 +1,4 @@
-Passalora umbrata (Ellis & Holw.) U. Braun SPECIES
-=======
+# Passalora umbrata (Ellis & Holw.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

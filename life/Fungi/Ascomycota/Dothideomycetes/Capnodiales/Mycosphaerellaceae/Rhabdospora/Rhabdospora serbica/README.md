@@ -1,5 +1,4 @@
-Rhabdospora serbica Bubák & Ranoj. SPECIES
-=======
+# Rhabdospora serbica Bubák & Ranoj. SPECIES
 
 #### Status
 ACCEPTED

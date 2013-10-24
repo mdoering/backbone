@@ -1,5 +1,4 @@
-Parmelia pseudocoronata Gyeln. SPECIES
-=======
+# Parmelia pseudocoronata Gyeln. SPECIES
 
 #### Status
 ACCEPTED

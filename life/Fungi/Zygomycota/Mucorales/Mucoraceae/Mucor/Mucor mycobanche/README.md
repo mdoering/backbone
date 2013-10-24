@@ -1,5 +1,4 @@
-Mucor mycobanche Link SPECIES
-=======
+# Mucor mycobanche Link SPECIES
 
 #### Status
 ACCEPTED

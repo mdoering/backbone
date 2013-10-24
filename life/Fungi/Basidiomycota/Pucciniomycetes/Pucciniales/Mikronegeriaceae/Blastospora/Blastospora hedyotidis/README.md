@@ -1,5 +1,4 @@
-Blastospora hedyotidis Petch SPECIES
-=======
+# Blastospora hedyotidis Petch SPECIES
 
 #### Status
 ACCEPTED

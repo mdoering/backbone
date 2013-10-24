@@ -1,5 +1,4 @@
-Eutypa ligustri Richon SPECIES
-=======
+# Eutypa ligustri Richon SPECIES
 
 #### Status
 ACCEPTED

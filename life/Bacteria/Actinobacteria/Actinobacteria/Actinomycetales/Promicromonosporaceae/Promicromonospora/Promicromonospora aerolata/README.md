@@ -1,5 +1,4 @@
-Promicromonospora aerolata Busse et al., 2003 SPECIES
-=======
+# Promicromonospora aerolata Busse et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

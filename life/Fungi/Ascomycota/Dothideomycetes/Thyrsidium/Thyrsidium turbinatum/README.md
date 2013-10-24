@@ -1,5 +1,4 @@
-Thyrsidium turbinatum (Bonord.) Sacc. SPECIES
-=======
+# Thyrsidium turbinatum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

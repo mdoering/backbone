@@ -1,5 +1,4 @@
-Sporocybe robiniae (Schwein.) Fr. SPECIES
-=======
+# Sporocybe robiniae (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

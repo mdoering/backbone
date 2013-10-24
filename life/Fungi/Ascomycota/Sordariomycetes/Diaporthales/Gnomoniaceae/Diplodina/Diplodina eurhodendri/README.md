@@ -1,5 +1,4 @@
-Diplodina eurhodendri W. Voss SPECIES
-=======
+# Diplodina eurhodendri W. Voss SPECIES
 
 #### Status
 ACCEPTED

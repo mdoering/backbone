@@ -1,5 +1,4 @@
-Coprinus solstitialis (P. Karst.) Sacc. SPECIES
-=======
+# Coprinus solstitialis (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

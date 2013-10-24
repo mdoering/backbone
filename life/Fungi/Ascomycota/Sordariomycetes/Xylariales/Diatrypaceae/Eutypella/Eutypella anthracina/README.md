@@ -1,5 +1,4 @@
-Eutypella anthracina Speg. SPECIES
-=======
+# Eutypella anthracina Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Linochora lagerheimii Petr., 1927 SPECIES
-=======
+# Phyllachora araliae (Pat.) Petr., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Annls mycol. 25(3/4): 306 (1927)
 
 #### Original name
-Linochora lagerheimii Petr., 1927
+Physalospora araliae Pat., 1895
 
 ### Remarks
 null

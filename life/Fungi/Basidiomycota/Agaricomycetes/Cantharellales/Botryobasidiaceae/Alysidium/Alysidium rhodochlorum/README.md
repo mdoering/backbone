@@ -1,5 +1,4 @@
-Alysidium rhodochlorum (Sacc.) Kuntze SPECIES
-=======
+# Alysidium rhodochlorum (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

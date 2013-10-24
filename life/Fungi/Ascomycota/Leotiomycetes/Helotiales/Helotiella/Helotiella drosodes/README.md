@@ -1,5 +1,4 @@
-Helotiella drosodes (Rehm) Sacc. SPECIES
-=======
+# Helotiella drosodes (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

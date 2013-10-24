@@ -1,5 +1,4 @@
-Laschia subcaerulea Berk. & M.A. Curtis SPECIES
-=======
+# Laschia subcaerulea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

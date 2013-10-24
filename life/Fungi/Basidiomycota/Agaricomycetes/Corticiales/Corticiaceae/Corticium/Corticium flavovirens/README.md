@@ -1,5 +1,4 @@
-Corticium flavovirens Massee SPECIES
-=======
+# Corticium flavovirens Massee SPECIES
 
 #### Status
 ACCEPTED

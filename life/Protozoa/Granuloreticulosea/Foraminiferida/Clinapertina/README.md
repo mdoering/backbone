@@ -1,5 +1,4 @@
-Clinapertina Tjalsma & Lohmann, 1983 GENUS
-=======
+# Clinapertina Tjalsma & Lohmann, 1983 GENUS
 
 #### Status
 ACCEPTED

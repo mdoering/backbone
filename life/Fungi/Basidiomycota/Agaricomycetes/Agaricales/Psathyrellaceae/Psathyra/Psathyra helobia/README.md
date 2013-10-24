@@ -1,5 +1,4 @@
-Psathyra helobia (Kalchbr.) Sacc. SPECIES
-=======
+# Psathyra helobia (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

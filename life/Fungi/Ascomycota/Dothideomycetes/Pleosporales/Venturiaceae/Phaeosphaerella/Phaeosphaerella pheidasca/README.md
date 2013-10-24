@@ -1,5 +1,4 @@
-Phaeosphaerella pheidasca (J. Schröt.) Sacc. SPECIES
-=======
+# Phaeosphaerella pheidasca (J. Schröt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

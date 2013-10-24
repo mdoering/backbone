@@ -1,5 +1,4 @@
-Spathidiopsis ovum (Kahl, 1926) Corliss, 1979 SPECIES
-=======
+# Spathidiopsis ovum (Kahl, 1926) Corliss, 1979 SPECIES
 
 #### Status
 ACCEPTED

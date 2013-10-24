@@ -1,5 +1,4 @@
-Graphium paspali Cif. & Vegni SPECIES
-=======
+# Graphium paspali Cif. & Vegni SPECIES
 
 #### Status
 ACCEPTED

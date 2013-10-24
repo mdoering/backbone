@@ -1,5 +1,4 @@
-Lecanora mayrhoferi Lumbsch SPECIES
-=======
+# Lecanora mayrhoferi Lumbsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Oscillatoria pseudogeminata pseudogeminata Yamagishi SUBSPECIES
-=======
+# Jaaginema pseudogeminata (Schmidle) Anagnostidis & Kkomárek SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

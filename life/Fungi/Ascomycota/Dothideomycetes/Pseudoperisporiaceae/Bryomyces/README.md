@@ -1,5 +1,4 @@
-Bryomyces Döbbeler, 1978 GENUS
-=======
+# Bryomyces Döbbeler, 1978 GENUS
 
 #### Status
 ACCEPTED

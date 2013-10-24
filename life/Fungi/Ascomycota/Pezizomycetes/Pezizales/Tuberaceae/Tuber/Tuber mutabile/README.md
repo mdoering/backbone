@@ -1,5 +1,4 @@
-Tuber mutabile Quél. SPECIES
-=======
+# Tuber mutabile Quél. SPECIES
 
 #### Status
 ACCEPTED

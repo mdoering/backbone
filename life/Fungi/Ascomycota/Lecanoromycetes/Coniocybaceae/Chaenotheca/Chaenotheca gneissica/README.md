@@ -1,5 +1,4 @@
-Chaenotheca gneissica (Nyl.) Szatala SPECIES
-=======
+# Chaenotheca gneissica (Nyl.) Szatala SPECIES
 
 #### Status
 ACCEPTED

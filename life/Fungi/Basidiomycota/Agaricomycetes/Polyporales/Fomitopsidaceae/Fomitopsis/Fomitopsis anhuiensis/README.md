@@ -1,5 +1,4 @@
-Fomitopsis anhuiensis X.F. Ren & X.Q. Zhang, 1992 SPECIES
-=======
+# Fomitopsis anhuiensis X.F. Ren & X.Q. Zhang, 1992 SPECIES
 
 #### Status
 ACCEPTED

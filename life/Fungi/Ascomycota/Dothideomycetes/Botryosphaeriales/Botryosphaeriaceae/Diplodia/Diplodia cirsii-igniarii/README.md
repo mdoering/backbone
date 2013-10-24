@@ -1,5 +1,4 @@
-Diplodia cirsii-igniarii Murashk. SPECIES
-=======
+# Diplodia cirsii-igniarii Murashk. SPECIES
 
 #### Status
 ACCEPTED

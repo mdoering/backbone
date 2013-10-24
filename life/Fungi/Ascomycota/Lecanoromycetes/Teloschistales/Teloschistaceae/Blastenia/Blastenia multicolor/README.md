@@ -1,5 +1,4 @@
-Blastenia multicolor (Hue) Zahlbr. SPECIES
-=======
+# Blastenia multicolor (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

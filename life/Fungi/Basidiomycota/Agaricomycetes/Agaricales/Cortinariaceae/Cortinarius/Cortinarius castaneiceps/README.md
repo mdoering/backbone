@@ -1,5 +1,4 @@
-Cortinarius castaneiceps E. Horak, 1990 SPECIES
-=======
+# Cortinarius castaneiceps E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

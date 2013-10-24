@@ -1,5 +1,4 @@
-Amanita farinacea (Sacc.) Cleland & Cheel SPECIES
-=======
+# Amanita farinacea (Sacc.) Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

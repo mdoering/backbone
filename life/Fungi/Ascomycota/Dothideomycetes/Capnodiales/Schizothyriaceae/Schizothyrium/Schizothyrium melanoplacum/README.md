@@ -1,5 +1,4 @@
-Schizothyrium melanoplacum (Mont.) Sacc. SPECIES
-=======
+# Schizothyrium melanoplacum (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

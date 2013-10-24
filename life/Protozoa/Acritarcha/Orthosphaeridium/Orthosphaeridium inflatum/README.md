@@ -1,5 +1,4 @@
-Orthosphaeridium inflatum Loeblich, 1970 SPECIES
-=======
+# Orthosphaeridium inflatum Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

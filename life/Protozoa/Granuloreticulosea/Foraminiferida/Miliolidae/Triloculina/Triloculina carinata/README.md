@@ -1,5 +1,4 @@
-Triloculina carinata SPECIES
-=======
+# Triloculina carinata SPECIES
 
 #### Status
 ACCEPTED

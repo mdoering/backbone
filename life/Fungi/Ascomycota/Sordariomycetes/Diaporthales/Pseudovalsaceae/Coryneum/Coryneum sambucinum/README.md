@@ -1,5 +1,4 @@
-Coryneum sambucinum Ellis & Everh. SPECIES
-=======
+# Coryneum sambucinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

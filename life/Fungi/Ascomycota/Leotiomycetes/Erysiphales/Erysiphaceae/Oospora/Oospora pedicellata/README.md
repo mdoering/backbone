@@ -1,5 +1,4 @@
-Oospora pedicellata (Preuss) Sacc. & Voglino SPECIES
-=======
+# Oospora pedicellata (Preuss) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

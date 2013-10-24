@@ -1,5 +1,4 @@
-Flavobacterium limicola Tamaki et al., 2003 SPECIES
-=======
+# Flavobacterium limicola Tamaki et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

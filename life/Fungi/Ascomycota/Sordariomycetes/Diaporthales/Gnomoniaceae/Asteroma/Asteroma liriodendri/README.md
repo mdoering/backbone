@@ -1,5 +1,4 @@
-Asteroma liriodendri Cooke SPECIES
-=======
+# Asteroma liriodendri Cooke SPECIES
 
 #### Status
 ACCEPTED

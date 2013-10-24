@@ -1,5 +1,4 @@
-Stigmina asperulata Hol.-Jech. SPECIES
-=======
+# Stigmina asperulata Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

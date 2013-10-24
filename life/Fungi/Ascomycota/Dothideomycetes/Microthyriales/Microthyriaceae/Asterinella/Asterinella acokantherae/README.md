@@ -1,5 +1,4 @@
-Asterinella acokantherae Doidge SPECIES
-=======
+# Asterinella acokantherae Doidge SPECIES
 
 #### Status
 ACCEPTED

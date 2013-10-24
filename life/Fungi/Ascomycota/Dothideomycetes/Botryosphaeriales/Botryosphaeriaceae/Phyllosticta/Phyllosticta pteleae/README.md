@@ -1,5 +1,4 @@
-Phyllosticta pteleae Hollós SPECIES
-=======
+# Phyllosticta pteleae Hollós SPECIES
 
 #### Status
 ACCEPTED

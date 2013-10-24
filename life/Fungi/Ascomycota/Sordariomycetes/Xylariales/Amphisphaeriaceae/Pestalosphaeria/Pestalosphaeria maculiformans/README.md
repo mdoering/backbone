@@ -1,5 +1,4 @@
-Pestalosphaeria maculiformans Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Pestalosphaeria maculiformans Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

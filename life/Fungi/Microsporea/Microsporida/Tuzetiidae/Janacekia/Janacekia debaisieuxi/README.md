@@ -1,5 +1,4 @@
-Janacekia debaisieuxi (Jírovec) J.I.R. Larsson SPECIES
-=======
+# Janacekia debaisieuxi (Jírovec) J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

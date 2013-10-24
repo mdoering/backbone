@@ -1,5 +1,4 @@
-Brachysporium pendulisporum S. Hughes SPECIES
-=======
+# Brachysporium pendulisporum S. Hughes SPECIES
 
 #### Status
 ACCEPTED

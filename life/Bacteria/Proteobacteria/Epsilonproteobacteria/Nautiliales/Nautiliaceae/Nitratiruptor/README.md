@@ -1,5 +1,4 @@
-Nitratiruptor Nakagawa et al., 2005 GENUS
-=======
+# Nitratiruptor Nakagawa et al., 2005 GENUS
 
 #### Status
 ACCEPTED

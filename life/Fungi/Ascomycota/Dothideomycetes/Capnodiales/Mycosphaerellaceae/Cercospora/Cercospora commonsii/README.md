@@ -1,5 +1,4 @@
-Cercospora commonsii Sacc. SPECIES
-=======
+# Cercospora commonsii Sacc. SPECIES
 
 #### Status
 ACCEPTED

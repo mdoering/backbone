@@ -1,5 +1,4 @@
-Porpidia afromontana Brusse SPECIES
-=======
+# Porpidia afromontana Brusse SPECIES
 
 #### Status
 ACCEPTED

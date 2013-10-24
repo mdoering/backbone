@@ -1,5 +1,4 @@
-Peziza subretincola Svrcek SPECIES
-=======
+# Peziza subretincola Svrcek SPECIES
 
 #### Status
 ACCEPTED

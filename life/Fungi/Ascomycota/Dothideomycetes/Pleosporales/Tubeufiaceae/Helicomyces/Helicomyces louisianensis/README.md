@@ -1,5 +1,4 @@
-Helicomyces louisianensis Goos SPECIES
-=======
+# Helicomyces louisianensis Goos SPECIES
 
 #### Status
 ACCEPTED

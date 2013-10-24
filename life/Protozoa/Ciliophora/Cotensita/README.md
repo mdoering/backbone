@@ -1,5 +1,4 @@
-Cotensita Yankovskij, 1982 GENUS
-=======
+# Cotensita Yankovskij, 1982 GENUS
 
 #### Status
 ACCEPTED

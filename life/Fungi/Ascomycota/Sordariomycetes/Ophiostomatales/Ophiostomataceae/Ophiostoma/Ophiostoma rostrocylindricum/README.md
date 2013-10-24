@@ -1,5 +1,4 @@
-Ophiostoma rostrocylindricum (R.W. Davidson) Arx SPECIES
-=======
+# Ophiostoma rostrocylindricum (R.W. Davidson) Arx SPECIES
 
 #### Status
 ACCEPTED

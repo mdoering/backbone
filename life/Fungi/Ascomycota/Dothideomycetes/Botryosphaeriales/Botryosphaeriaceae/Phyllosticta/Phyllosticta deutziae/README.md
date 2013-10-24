@@ -1,5 +1,4 @@
-Phyllosticta deutziae Ellis & Everh. SPECIES
-=======
+# Phyllosticta deutziae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

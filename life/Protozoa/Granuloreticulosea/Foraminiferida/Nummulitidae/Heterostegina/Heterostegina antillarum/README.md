@@ -1,5 +1,4 @@
-Heterostegina antillarum SPECIES
-=======
+# Heterostegina antillarum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora eclipticola Chidd. SPECIES
-=======
+# Cercospora eclipticola Chidd. SPECIES
 
 #### Status
 ACCEPTED

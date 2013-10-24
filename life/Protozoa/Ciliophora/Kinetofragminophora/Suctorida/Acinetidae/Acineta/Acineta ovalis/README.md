@@ -1,5 +1,4 @@
-Acineta ovalis Swarczewsky, 1928 SPECIES
-=======
+# Acineta ovalis Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

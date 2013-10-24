@@ -1,5 +1,4 @@
-Pleuronema ovata SPECIES
-=======
+# Pleuronema ovata SPECIES
 
 #### Status
 ACCEPTED

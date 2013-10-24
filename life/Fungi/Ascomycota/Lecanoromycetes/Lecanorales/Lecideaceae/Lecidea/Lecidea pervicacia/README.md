@@ -1,5 +1,4 @@
-Lecidea pervicacia J.S. Murray SPECIES
-=======
+# Lecidea pervicacia J.S. Murray SPECIES
 
 #### Status
 ACCEPTED

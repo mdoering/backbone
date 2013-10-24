@@ -1,5 +1,4 @@
-Sphacelotheca seymouriana G.P. Clinton SPECIES
-=======
+# Sphacelotheca seymouriana G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

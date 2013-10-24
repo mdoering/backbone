@@ -1,5 +1,4 @@
-Melanoleuca microspora (Ellis) Murrill SPECIES
-=======
+# Melanoleuca microspora (Ellis) Murrill SPECIES
 
 #### Status
 ACCEPTED

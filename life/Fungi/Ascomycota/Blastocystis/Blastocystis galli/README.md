@@ -1,5 +1,4 @@
-Blastocystis galli Belova & Kostenko SPECIES
-=======
+# Blastocystis galli Belova & Kostenko SPECIES
 
 #### Status
 ACCEPTED

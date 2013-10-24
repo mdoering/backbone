@@ -1,5 +1,4 @@
-Brachythrix A.Braun, 1865 GENUS
-=======
+# Brachythrix A.Braun, 1865 GENUS
 
 #### Status
 SYNONYM

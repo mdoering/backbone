@@ -1,5 +1,4 @@
-Meliola cissi-rhombifoliae Hansf. SPECIES
-=======
+# Meliola cissi-rhombifoliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

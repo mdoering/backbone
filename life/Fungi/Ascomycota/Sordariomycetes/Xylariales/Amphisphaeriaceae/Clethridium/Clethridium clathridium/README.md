@@ -1,5 +1,4 @@
-Clethridium clathridium (Fuckel) Shoemaker & E. Müll. SPECIES
-=======
+# Clethridium clathridium (Fuckel) Shoemaker & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

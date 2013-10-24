@@ -1,5 +1,4 @@
-Lembosia verrucosa W. Yamam. SPECIES
-=======
+# Lembosia verrucosa W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

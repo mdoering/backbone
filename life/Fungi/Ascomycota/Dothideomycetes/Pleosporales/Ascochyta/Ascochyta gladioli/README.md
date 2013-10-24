@@ -1,5 +1,4 @@
-Ascochyta gladioli Traverso & Spessa SPECIES
-=======
+# Ascochyta gladioli Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

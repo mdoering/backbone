@@ -1,5 +1,4 @@
-Diplodina verbasci Died. SPECIES
-=======
+# Diplodina verbasci Died. SPECIES
 
 #### Status
 ACCEPTED

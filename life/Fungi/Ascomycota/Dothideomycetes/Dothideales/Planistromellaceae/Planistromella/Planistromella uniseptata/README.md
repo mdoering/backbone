@@ -1,5 +1,4 @@
-Planistromella uniseptata A.W. Ramaley, 1993 SPECIES
-=======
+# Planistromella uniseptata A.W. Ramaley, 1993 SPECIES
 
 #### Status
 ACCEPTED

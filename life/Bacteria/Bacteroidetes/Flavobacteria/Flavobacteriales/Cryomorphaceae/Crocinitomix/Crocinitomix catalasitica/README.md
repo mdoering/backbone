@@ -1,5 +1,4 @@
-Crocinitomix catalasitica Bowman et al., 2003 SPECIES
-=======
+# Crocinitomix catalasitica Bowman et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

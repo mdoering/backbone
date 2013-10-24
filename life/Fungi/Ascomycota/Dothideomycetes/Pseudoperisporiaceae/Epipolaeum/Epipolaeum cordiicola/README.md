@@ -1,5 +1,4 @@
-Epipolaeum cordiicola (Henn.) Arx & E. Müll. SPECIES
-=======
+# Epipolaeum cordiicola (Henn.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

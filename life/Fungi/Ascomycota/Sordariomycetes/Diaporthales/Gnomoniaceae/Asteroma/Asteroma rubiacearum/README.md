@@ -1,5 +1,4 @@
-Asteroma rubiacearum Lév. SPECIES
-=======
+# Asteroma rubiacearum Lév. SPECIES
 
 #### Status
 ACCEPTED

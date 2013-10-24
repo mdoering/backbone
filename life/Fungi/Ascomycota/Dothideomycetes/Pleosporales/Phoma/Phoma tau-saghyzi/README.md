@@ -1,5 +1,4 @@
-Phoma tau-saghyzi Cherem. SPECIES
-=======
+# Phoma tau-saghyzi Cherem. SPECIES
 
 #### Status
 ACCEPTED

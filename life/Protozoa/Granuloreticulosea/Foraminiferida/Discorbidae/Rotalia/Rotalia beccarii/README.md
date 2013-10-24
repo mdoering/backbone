@@ -1,5 +1,4 @@
-Rotalia beccarii SPECIES
-=======
+# Rotalia beccarii SPECIES
 
 #### Status
 ACCEPTED

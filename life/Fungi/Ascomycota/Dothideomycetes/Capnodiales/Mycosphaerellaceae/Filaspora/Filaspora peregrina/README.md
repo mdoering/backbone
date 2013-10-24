@@ -1,5 +1,4 @@
-Filaspora peregrina (Durieu & Mont.) Kuntze SPECIES
-=======
+# Filaspora peregrina (Durieu & Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

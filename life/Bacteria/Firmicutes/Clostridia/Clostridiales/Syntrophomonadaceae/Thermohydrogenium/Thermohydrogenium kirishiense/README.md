@@ -1,5 +1,4 @@
-Thermohydrogenium kirishiense Zacharova et al., 1996 SPECIES
-=======
+# Thermohydrogenium kirishiense Zacharova et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

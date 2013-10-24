@@ -1,5 +1,4 @@
-Atractina GENUS
-=======
+# Atractina GENUS
 
 #### Status
 ACCEPTED

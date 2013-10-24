@@ -1,5 +1,4 @@
-Diplodina stevensii Sacc. SPECIES
-=======
+# Diplodina stevensii Sacc. SPECIES
 
 #### Status
 ACCEPTED

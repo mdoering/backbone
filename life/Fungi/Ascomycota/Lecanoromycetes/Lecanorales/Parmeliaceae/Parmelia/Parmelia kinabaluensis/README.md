@@ -1,8 +1,7 @@
-Parmelia kinabalensis Hale SPECIES
-=======
+# Parmelia kinabaluensis Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia kinabalensis Hale
+Parmelia kinabaluensis Hale
 
 ### Remarks
 null

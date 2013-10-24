@@ -1,5 +1,4 @@
-Lecidea akagiensis Vain. SPECIES
-=======
+# Lecidea akagiensis Vain. SPECIES
 
 #### Status
 ACCEPTED

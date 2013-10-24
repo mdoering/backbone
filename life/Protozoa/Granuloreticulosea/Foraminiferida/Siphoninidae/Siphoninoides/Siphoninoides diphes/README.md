@@ -1,5 +1,4 @@
-Siphoninoides diphes Loeblich & Tappan, 1994 SPECIES
-=======
+# Siphoninoides diphes Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

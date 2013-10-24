@@ -1,5 +1,4 @@
-Puccinia campanulae-herminii Gonz. Frag. SPECIES
-=======
+# Puccinia campanulae-herminii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

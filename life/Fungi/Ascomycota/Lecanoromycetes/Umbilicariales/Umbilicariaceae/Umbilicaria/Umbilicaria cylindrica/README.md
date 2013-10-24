@@ -1,17 +1,16 @@
-Umbilicaria cylindrica f. cylindrica FORM
-=======
+# Umbilicaria cylindrica (L.) Delise ex Duby SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Duby, Aug. Pyrami de Candolle. Botanicon Gallicum, seu Synopsis Plantarum in Flora Gallica Descriptarum, Edn 2 2: 595 (1830)
 
 #### Original name
-Umbilicaria cylindrica f. cylindrica
+Lichen cylindricus L.
 
 ### Remarks
 null

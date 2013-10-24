@@ -1,5 +1,4 @@
-Spirillina tuberculatolimbata Chapman, 1900 SPECIES
-=======
+# Spirillina tuberculatolimbata Chapman, 1900 SPECIES
 
 #### Status
 ACCEPTED

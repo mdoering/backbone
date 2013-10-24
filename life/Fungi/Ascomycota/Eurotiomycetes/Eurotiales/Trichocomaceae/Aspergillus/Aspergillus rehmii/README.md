@@ -1,5 +1,4 @@
-Aspergillus rehmii Zukal SPECIES
-=======
+# Aspergillus rehmii Zukal SPECIES
 
 #### Status
 ACCEPTED

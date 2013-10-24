@@ -1,5 +1,4 @@
-Eprolithus antiquus Perch-Nielsen, 1979 SPECIES
-=======
+# Eprolithus antiquus Perch-Nielsen, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diblastospermella aequatorialis Speg. SPECIES
-=======
+# Diblastospermella aequatorialis Speg. SPECIES
 
 #### Status
 ACCEPTED

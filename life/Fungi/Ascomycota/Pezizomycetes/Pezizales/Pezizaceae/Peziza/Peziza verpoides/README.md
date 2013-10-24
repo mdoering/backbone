@@ -1,5 +1,4 @@
-Peziza verpoides Saut. SPECIES
-=======
+# Peziza verpoides Saut. SPECIES
 
 #### Status
 ACCEPTED

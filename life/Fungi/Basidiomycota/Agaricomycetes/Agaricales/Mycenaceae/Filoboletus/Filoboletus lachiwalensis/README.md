@@ -1,5 +1,4 @@
-Filoboletus lachiwalensis Maas Geest. SPECIES
-=======
+# Filoboletus lachiwalensis Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

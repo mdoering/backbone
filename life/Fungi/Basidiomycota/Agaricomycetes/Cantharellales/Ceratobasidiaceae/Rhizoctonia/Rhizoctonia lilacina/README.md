@@ -1,5 +1,4 @@
-Rhizoctonia lilacina Sappa & Mosca SPECIES
-=======
+# Rhizoctonia lilacina Sappa & Mosca SPECIES
 
 #### Status
 ACCEPTED

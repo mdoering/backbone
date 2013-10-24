@@ -1,5 +1,4 @@
-Acineta satyanandani SPECIES
-=======
+# Acineta satyanandani SPECIES
 
 #### Status
 ACCEPTED

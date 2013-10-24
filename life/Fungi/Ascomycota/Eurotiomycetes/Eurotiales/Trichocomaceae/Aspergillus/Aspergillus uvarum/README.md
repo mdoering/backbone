@@ -1,5 +1,4 @@
-Aspergillus uvarum G. Perrone, Varga & Kozak. SPECIES
-=======
+# Aspergillus uvarum G. Perrone, Varga & Kozak. SPECIES
 
 #### Status
 ACCEPTED

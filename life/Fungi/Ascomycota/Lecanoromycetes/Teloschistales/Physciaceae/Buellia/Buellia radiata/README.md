@@ -1,5 +1,4 @@
-Buellia radiata Tuck. SPECIES
-=======
+# Buellia radiata Tuck. SPECIES
 
 #### Status
 ACCEPTED

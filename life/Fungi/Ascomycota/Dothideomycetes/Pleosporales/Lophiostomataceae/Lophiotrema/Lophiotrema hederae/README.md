@@ -1,5 +1,4 @@
-Lophiotrema hederae SPECIES
-=======
+# Lophiotrema hederae SPECIES
 
 #### Status
 ACCEPTED

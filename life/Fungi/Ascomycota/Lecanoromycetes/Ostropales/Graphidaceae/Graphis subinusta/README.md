@@ -1,5 +1,4 @@
-Graphis subinusta Nyl. SPECIES
-=======
+# Graphis subinusta Nyl. SPECIES
 
 #### Status
 ACCEPTED

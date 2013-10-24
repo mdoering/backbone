@@ -1,5 +1,4 @@
-Parmelia tegulicola Zahlbr. SPECIES
-=======
+# Parmelia tegulicola Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

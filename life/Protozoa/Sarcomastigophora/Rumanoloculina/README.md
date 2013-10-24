@@ -1,5 +1,4 @@
-Rumanoloculina Neagu, 1984 GENUS
-=======
+# Rumanoloculina Neagu, 1984 GENUS
 
 #### Status
 ACCEPTED

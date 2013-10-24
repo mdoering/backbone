@@ -1,5 +1,4 @@
-Gloeosporium usteri Speg. SPECIES
-=======
+# Gloeosporium usteri Speg. SPECIES
 
 #### Status
 ACCEPTED

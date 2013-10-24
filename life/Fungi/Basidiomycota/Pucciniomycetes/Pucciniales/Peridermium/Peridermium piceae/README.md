@@ -1,5 +1,4 @@
-Peridermium piceae Barclay SPECIES
-=======
+# Peridermium piceae Barclay SPECIES
 
 #### Status
 ACCEPTED

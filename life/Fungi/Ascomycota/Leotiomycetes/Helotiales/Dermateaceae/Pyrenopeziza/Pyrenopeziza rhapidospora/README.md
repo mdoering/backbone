@@ -1,5 +1,4 @@
-Pyrenopeziza rhapidospora Rehm SPECIES
-=======
+# Pyrenopeziza rhapidospora Rehm SPECIES
 
 #### Status
 ACCEPTED

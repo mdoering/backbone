@@ -1,5 +1,4 @@
-Pucciniola elegans (Beck) Arthur SPECIES
-=======
+# Pucciniola elegans (Beck) Arthur SPECIES
 
 #### Status
 ACCEPTED

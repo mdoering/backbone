@@ -1,5 +1,4 @@
-Lecanora parasitica (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecanora parasitica (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

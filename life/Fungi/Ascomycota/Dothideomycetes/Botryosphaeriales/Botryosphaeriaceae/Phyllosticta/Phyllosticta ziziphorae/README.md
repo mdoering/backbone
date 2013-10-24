@@ -1,5 +1,4 @@
-Phyllosticta ziziphorae Pisareva SPECIES
-=======
+# Phyllosticta ziziphorae Pisareva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kriegeriella mirabilis Höhn., 1918 SPECIES
-=======
+# Kriegeriella mirabilis Höhn., 1918 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia veronicae Rostr. SPECIES
-=======
+# Laestadia veronicae Rostr. SPECIES
 
 #### Status
 ACCEPTED

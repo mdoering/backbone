@@ -1,5 +1,4 @@
-Myxosporium ellisii Sacc. SPECIES
-=======
+# Myxosporium ellisii Sacc. SPECIES
 
 #### Status
 ACCEPTED

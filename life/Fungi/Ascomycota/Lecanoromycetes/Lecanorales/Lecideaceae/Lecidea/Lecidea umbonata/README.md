@@ -1,5 +1,4 @@
-Lecidea umbonata var. umbonata VARIETY
-=======
+# Lecidea umbonata (Hepp) Mudd SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Man. Brit. Lich. 204 (1861)
 
 #### Original name
-Lecidea umbonata var. umbonata
+Biatora umbonata Hepp
 
 ### Remarks
 null

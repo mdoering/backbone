@@ -1,5 +1,4 @@
-Cercospora phyllanthi-pentandri J.M. Yen & Gilles SPECIES
-=======
+# Cercospora phyllanthi-pentandri J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

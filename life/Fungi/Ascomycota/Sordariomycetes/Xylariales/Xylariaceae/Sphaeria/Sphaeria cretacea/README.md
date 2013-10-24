@@ -1,5 +1,4 @@
-Sphaeria cretacea Heer SPECIES
-=======
+# Sphaeria cretacea Heer SPECIES
 
 #### Status
 ACCEPTED

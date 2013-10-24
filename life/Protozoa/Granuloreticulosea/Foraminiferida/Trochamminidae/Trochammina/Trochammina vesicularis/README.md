@@ -1,5 +1,4 @@
-Trochammina vesicularis SPECIES
-=======
+# Trochammina vesicularis SPECIES
 
 #### Status
 ACCEPTED

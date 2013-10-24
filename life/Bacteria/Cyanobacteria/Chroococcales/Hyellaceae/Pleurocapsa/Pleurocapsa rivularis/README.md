@@ -1,5 +1,4 @@
-Pleurocapsa rivularis Hansgirg SPECIES
-=======
+# Pleurocapsa rivularis Hansgirg SPECIES
 
 #### Status
 ACCEPTED

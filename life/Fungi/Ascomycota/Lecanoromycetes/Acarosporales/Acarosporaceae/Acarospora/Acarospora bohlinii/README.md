@@ -1,5 +1,4 @@
-Acarospora bohlinii H. Magn. SPECIES
-=======
+# Acarospora bohlinii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

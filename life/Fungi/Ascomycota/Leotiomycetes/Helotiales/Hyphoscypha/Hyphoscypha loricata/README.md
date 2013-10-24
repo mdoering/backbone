@@ -1,5 +1,4 @@
-Hyphoscypha loricata Velen., 1934 SPECIES
-=======
+# Hyphoscypha loricata Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

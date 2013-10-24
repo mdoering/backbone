@@ -1,5 +1,4 @@
-Filisphaeridium lanugiferum (Jacobson & Achab, 1985) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium lanugiferum (Jacobson & Achab, 1985) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

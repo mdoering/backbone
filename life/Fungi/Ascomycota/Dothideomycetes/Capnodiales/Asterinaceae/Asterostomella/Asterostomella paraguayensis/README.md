@@ -1,5 +1,4 @@
-Asterostomella paraguayensis Speg., 1886 SPECIES
-=======
+# Asterostomella paraguayensis Speg., 1886 SPECIES
 
 #### Status
 ACCEPTED

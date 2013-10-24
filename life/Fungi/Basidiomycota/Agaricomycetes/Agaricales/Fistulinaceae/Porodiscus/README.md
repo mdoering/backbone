@@ -1,5 +1,4 @@
-Porodiscus GENUS
-=======
+# Porodiscus GENUS
 
 #### Status
 ACCEPTED

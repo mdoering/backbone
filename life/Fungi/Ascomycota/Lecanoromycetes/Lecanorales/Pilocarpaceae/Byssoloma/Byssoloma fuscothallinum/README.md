@@ -1,5 +1,4 @@
-Byssoloma fuscothallinum Lücking SPECIES
-=======
+# Byssoloma fuscothallinum Lücking SPECIES
 
 #### Status
 ACCEPTED

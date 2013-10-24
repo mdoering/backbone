@@ -1,5 +1,4 @@
-Irenina lagerheimii (Gaillard) F. Stevens SPECIES
-=======
+# Irenina lagerheimii (Gaillard) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

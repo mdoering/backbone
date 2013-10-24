@@ -1,5 +1,4 @@
-Sporidiobolales Doweld ORDER
-=======
+# Sporidiobolales Doweld ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panaeolus uliginosus Jul. Schäff. SPECIES
-=======
+# Panaeolus uliginosus Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

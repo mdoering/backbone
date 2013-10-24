@@ -1,5 +1,4 @@
-Heterocephalum aurantiacum Thaxt., 1903 SPECIES
-=======
+# Heterocephalum aurantiacum Thaxt., 1903 SPECIES
 
 #### Status
 ACCEPTED

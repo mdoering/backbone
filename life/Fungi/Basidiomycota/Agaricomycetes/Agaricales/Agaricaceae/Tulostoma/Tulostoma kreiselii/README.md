@@ -1,5 +1,4 @@
-Tulostoma kreiselii G. Moreno, E. Horak & Altés, 2002 SPECIES
-=======
+# Tulostoma kreiselii G. Moreno, E. Horak & Altés, 2002 SPECIES
 
 #### Status
 ACCEPTED

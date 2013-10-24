@@ -1,5 +1,4 @@
-Chiodecton heterotropum Nyl. SPECIES
-=======
+# Chiodecton heterotropum Nyl. SPECIES
 
 #### Status
 ACCEPTED

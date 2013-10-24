@@ -1,5 +1,4 @@
-Polyporus clathratus Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus clathratus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

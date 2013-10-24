@@ -1,5 +1,4 @@
-Semilecanora caementicola Motyka SPECIES
-=======
+# Semilecanora caementicola Motyka SPECIES
 
 #### Status
 ACCEPTED

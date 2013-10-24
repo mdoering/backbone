@@ -1,5 +1,4 @@
-Virgasporium maculatum Cooke SPECIES
-=======
+# Virgasporium maculatum Cooke SPECIES
 
 #### Status
 ACCEPTED

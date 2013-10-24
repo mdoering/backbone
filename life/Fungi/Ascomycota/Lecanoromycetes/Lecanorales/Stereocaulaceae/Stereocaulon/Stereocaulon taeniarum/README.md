@@ -1,5 +1,4 @@
-Stereocaulon taeniarum (H. Magn.) Kivistö SPECIES
-=======
+# Stereocaulon taeniarum (H. Magn.) Kivistö SPECIES
 
 #### Status
 ACCEPTED

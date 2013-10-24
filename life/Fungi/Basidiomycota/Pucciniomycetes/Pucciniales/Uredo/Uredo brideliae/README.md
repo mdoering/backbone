@@ -1,5 +1,4 @@
-Uredo brideliae Koord. SPECIES
-=======
+# Uredo brideliae Koord. SPECIES
 
 #### Status
 ACCEPTED

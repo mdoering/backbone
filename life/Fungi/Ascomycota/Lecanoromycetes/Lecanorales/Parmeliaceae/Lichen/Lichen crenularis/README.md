@@ -1,5 +1,4 @@
-Lichen crenularis Hull SPECIES
-=======
+# Lichen crenularis Hull SPECIES
 
 #### Status
 ACCEPTED

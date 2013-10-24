@@ -1,5 +1,4 @@
-Corniculariella harpographoidea Dearn. ex DiCosmo SPECIES
-=======
+# Corniculariella harpographoidea Dearn. ex DiCosmo SPECIES
 
 #### Status
 ACCEPTED

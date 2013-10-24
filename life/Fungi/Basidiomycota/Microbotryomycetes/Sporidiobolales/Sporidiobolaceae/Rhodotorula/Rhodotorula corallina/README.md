@@ -1,5 +1,4 @@
-Rhodotorula corallina F.C. Harrison SPECIES
-=======
+# Rhodotorula corallina F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

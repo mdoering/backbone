@@ -1,5 +1,4 @@
-Graecodiscus Vachard in Vachard Clift & Decrouez, 1993 GENUS
-=======
+# Graecodiscus Vachard in Vachard Clift & Decrouez, 1993 GENUS
 
 #### Status
 ACCEPTED

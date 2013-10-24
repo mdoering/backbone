@@ -1,5 +1,4 @@
-Hydnellum cristatum (Bres.) Stalpers, 1993 SPECIES
-=======
+# Hydnellum cristatum (Bres.) Stalpers, 1993 SPECIES
 
 #### Status
 DOUBTFUL

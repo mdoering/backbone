@@ -1,5 +1,4 @@
-Hypomyces destruens-equi Haan & Hoogkamer SPECIES
-=======
+# Hypomyces destruens-equi Haan & Hoogkamer SPECIES
 
 #### Status
 ACCEPTED

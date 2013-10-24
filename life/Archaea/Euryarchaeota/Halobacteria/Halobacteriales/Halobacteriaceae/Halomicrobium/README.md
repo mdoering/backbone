@@ -1,5 +1,4 @@
-Halomicrobium Oren et al., 2002 GENUS
-=======
+# Halomicrobium Oren et al., 2002 GENUS
 
 #### Status
 ACCEPTED

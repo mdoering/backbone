@@ -1,5 +1,4 @@
-Hurlandsia J.K. Lister & D.J. Batten, 1988 GENUS
-=======
+# Hurlandsia J.K. Lister & D.J. Batten, 1988 GENUS
 
 #### Status
 ACCEPTED

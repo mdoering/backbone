@@ -1,5 +1,4 @@
-Microthelia minor Kernst. SPECIES
-=======
+# Microthelia minor Kernst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius sciurodes M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius sciurodes M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

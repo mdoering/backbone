@@ -1,5 +1,4 @@
-Rinodina connectens Malme SPECIES
-=======
+# Rinodina connectens Malme SPECIES
 
 #### Status
 ACCEPTED

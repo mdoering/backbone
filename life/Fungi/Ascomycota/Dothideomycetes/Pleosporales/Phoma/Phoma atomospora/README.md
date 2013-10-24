@@ -1,5 +1,4 @@
-Phoma atomospora Penz. & Sacc. SPECIES
-=======
+# Phoma atomospora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

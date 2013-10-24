@@ -1,5 +1,4 @@
-Oxyporus lacera Ryvarden SPECIES
-=======
+# Oxyporus lacera Ryvarden SPECIES
 
 #### Status
 ACCEPTED

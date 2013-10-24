@@ -1,5 +1,4 @@
-Podosordaria Ellis & Holway, 1897 GENUS
-=======
+# Podosordaria Ellis & Holway, 1897 GENUS
 
 #### Status
 ACCEPTED

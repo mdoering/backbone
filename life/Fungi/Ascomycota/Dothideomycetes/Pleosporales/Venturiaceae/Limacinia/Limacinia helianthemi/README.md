@@ -1,5 +1,4 @@
-Limacinia helianthemi Maire SPECIES
-=======
+# Limacinia helianthemi Maire SPECIES
 
 #### Status
 ACCEPTED

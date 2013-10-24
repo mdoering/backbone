@@ -1,5 +1,4 @@
-Spatulosporonites minutus Z.C. Song, Qian & Y.H. Zheng SPECIES
-=======
+# Spatulosporonites minutus Z.C. Song, Qian & Y.H. Zheng SPECIES
 
 #### Status
 ACCEPTED

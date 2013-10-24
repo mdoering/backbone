@@ -1,5 +1,4 @@
-Thermomicrobium fosteri Phillips and Perry, 1976 (Approved Lists, 1980) SPECIES
-=======
+# Thermomicrobium fosteri Phillips and Perry, 1976 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

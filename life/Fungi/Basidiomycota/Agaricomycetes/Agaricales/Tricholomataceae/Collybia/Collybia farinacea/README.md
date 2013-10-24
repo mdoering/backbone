@@ -1,5 +1,4 @@
-Collybia farinacea (Murrill) Murrill SPECIES
-=======
+# Collybia farinacea (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

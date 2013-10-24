@@ -1,5 +1,4 @@
-Fusarium heteronema Berk. & Broome SPECIES
-=======
+# Fusarium heteronema Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pinacisca quadruplans (Nyl.) Hue SPECIES
-=======
+# Pinacisca quadruplans (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeropsis thecicola Berk., 1850 SPECIES
-=======
+# Sphaeropsis thecicola Berk., 1850 SPECIES
 
 #### Status
 ACCEPTED

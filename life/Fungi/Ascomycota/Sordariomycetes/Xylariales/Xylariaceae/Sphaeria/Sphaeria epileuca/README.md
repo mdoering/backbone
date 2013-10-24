@@ -1,5 +1,4 @@
-Sphaeria epileuca Berk. & Broome SPECIES
-=======
+# Sphaeria epileuca Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

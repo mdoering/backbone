@@ -1,5 +1,4 @@
-Spegazziniella picramniae (Bat. & Gayão) Bat. SPECIES
-=======
+# Spegazziniella picramniae (Bat. & Gayão) Bat. SPECIES
 
 #### Status
 ACCEPTED

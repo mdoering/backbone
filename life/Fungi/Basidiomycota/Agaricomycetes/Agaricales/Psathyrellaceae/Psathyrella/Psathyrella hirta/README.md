@@ -1,17 +1,16 @@
-Drosophila coprobia (J.E. Lange) Kühner & Romagn., 1953 SPECIES
-=======
+# Psathyrella hirta Peck, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Analyt. Champ. Supér. (Paris) 355 (1953)
+Ann. Rep. N. Y. St. Mus. 50: 107 (1898)
 
 #### Original name
-Psathyra coprobia J.E. Lange, 1940
+Psathyrella hirta Peck, 1898
 
 ### Remarks
 null

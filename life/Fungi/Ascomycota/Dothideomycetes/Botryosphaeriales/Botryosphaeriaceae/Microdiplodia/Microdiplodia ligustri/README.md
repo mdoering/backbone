@@ -1,5 +1,4 @@
-Microdiplodia ligustri Hollós SPECIES
-=======
+# Microdiplodia ligustri Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea strigulosa (Zahlbr.) Motyka SPECIES
-=======
+# Usnea strigulosa (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maronea malmei H. Magn. SPECIES
-=======
+# Maronea malmei H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictina callithamnia (Taylor) Müll. Arg. SPECIES
-=======
+# Stictina callithamnia (Taylor) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

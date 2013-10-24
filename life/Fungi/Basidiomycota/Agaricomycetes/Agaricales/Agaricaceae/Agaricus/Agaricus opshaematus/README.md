@@ -1,5 +1,4 @@
-Agaricus opshaematus Berk. & Broome SPECIES
-=======
+# Agaricus opshaematus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

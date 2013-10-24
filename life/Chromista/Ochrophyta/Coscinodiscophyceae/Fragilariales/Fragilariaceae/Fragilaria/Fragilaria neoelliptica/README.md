@@ -1,5 +1,4 @@
-Fragilaria neoelliptica A. Witkowski SPECIES
-=======
+# Fragilaria neoelliptica A. Witkowski SPECIES
 
 #### Status
 ACCEPTED

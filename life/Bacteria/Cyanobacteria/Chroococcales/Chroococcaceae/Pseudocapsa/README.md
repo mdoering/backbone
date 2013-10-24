@@ -1,5 +1,4 @@
-Pseudocapsa Ercegovic, 1925 GENUS
-=======
+# Pseudocapsa Ercegovic, 1925 GENUS
 
 #### Status
 ACCEPTED

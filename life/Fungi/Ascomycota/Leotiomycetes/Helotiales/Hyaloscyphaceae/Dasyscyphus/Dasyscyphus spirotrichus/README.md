@@ -1,8 +1,7 @@
-Dasyscypha spirotrichus Rehm SPECIES
-=======
+# Dasyscyphus spirotrichus Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha spirotrichus Rehm
+Dasyscyphus spirotrichus Rehm
 
 ### Remarks
 null

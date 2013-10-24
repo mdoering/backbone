@@ -1,5 +1,4 @@
-Atrosetaphiale Matsush. GENUS
-=======
+# Atrosetaphiale Matsush. GENUS
 
 #### Status
 ACCEPTED

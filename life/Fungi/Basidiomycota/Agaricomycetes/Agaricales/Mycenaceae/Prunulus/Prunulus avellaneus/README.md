@@ -1,5 +1,4 @@
-Prunulus avellaneus Murrill SPECIES
-=======
+# Prunulus avellaneus Murrill SPECIES
 
 #### Status
 ACCEPTED

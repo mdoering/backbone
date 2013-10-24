@@ -1,17 +1,16 @@
-Russula cookeiana Reumaux SPECIES
-=======
+# Russula cookeana Reumaux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Reumaux, Bidaud & Moënne-Loccoz, Russules Rares ou Méconnues (Marlioz) 283 (1996)
 
 #### Original name
-Russula cookeiana Reumaux
+Russula cookeana Reumaux
 
 ### Remarks
 null

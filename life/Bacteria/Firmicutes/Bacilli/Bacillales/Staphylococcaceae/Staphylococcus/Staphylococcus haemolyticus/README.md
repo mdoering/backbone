@@ -1,5 +1,4 @@
-Staphylococcus haemolyticus Schleifer and Kloos, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Staphylococcus haemolyticus Schleifer and Kloos, 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

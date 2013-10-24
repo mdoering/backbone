@@ -1,5 +1,4 @@
-Aplosporella rhizophila Shear SPECIES
-=======
+# Aplosporella rhizophila Shear SPECIES
 
 #### Status
 ACCEPTED

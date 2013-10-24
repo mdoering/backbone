@@ -1,5 +1,4 @@
-Teredinibacter turnerae Distel et al., 2002 SPECIES
-=======
+# Teredinibacter turnerae Distel et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

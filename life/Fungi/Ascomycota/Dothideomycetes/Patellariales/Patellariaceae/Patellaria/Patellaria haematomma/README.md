@@ -1,17 +1,16 @@
-Patellaria haematomma f. haematomma FORM
-=======
+# Patellaria haematomma SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Patellaria haematomma f. haematomma
+null
 
 ### Remarks
 null

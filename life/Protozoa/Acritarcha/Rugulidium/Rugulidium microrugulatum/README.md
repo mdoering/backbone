@@ -1,5 +1,4 @@
-Rugulidium microrugulatum Cramer, Kanes, Díez & Christopher, 1974 SPECIES
-=======
+# Rugulidium microrugulatum Cramer, Kanes, Díez & Christopher, 1974 SPECIES
 
 #### Status
 ACCEPTED

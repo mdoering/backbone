@@ -1,5 +1,4 @@
-Meliola adunciseta Hansf. SPECIES
-=======
+# Meliola adunciseta Hansf. SPECIES
 
 #### Status
 ACCEPTED

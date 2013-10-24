@@ -1,5 +1,4 @@
-Porina subarticulata (Arnold) Lettau SPECIES
-=======
+# Porina subarticulata (Arnold) Lettau SPECIES
 
 #### Status
 ACCEPTED

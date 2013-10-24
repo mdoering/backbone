@@ -1,5 +1,4 @@
-Heppia atlantica Gyeln. SPECIES
-=======
+# Heppia atlantica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

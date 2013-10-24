@@ -1,14 +1,13 @@
-Marssonia betulae (Lib.) Sacc., 1892 SPECIES
-=======
+# Marssonina betulae (Lib.) Magnus, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 10: 477 (1892)
+Hedwigia 45: 89 (1906)
 
 #### Original name
 Leptothyrium betulae Lib., 1832

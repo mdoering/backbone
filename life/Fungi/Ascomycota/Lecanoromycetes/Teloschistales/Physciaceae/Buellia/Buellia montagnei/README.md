@@ -1,5 +1,4 @@
-Buellia montagnei (Flot.) Tuck. SPECIES
-=======
+# Buellia montagnei (Flot.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

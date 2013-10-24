@@ -1,17 +1,16 @@
-Acervulopsora Thirum. GENUS
-=======
+# Maravalia Arthur GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 37(3): 299 (1945)
+Bot. Gaz. 73: 60 (1922)
 
 #### Original name
-Acervulopsora Thirum.
+Maravalia Arthur
 
 ### Remarks
 null

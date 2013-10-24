@@ -1,17 +1,16 @@
-Parmotrema conferendum Hale SPECIES
-=======
+# Canomaculina conferenda (Hale) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 65: 476 (1997)
 
 #### Original name
-null
+Parmotrema conferendum Hale
 
 ### Remarks
 null

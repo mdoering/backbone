@@ -1,5 +1,4 @@
-Diploschistes cervinus Zahlbr. SPECIES
-=======
+# Diploschistes cervinus Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

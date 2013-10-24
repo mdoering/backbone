@@ -1,5 +1,4 @@
-Wettsteinina magnifica Shoemaker & C.E. Babc. SPECIES
-=======
+# Wettsteinina magnifica Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

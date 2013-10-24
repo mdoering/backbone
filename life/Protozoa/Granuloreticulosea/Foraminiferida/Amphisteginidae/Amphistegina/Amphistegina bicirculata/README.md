@@ -1,5 +1,4 @@
-Amphistegina bicirculata Larsen, 1976 SPECIES
-=======
+# Amphistegina bicirculata Larsen, 1976 SPECIES
 
 #### Status
 ACCEPTED

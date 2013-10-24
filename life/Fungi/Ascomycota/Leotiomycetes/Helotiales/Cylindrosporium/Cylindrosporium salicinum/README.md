@@ -1,5 +1,4 @@
-Cylindrosporium salicinum (Peck) Dearn. SPECIES
-=======
+# Cylindrosporium salicinum (Peck) Dearn. SPECIES
 
 #### Status
 ACCEPTED

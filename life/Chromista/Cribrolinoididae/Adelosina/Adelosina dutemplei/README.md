@@ -1,5 +1,4 @@
-Adelosina dutemplei (d'Orbigny, 1846) SPECIES
-=======
+# Adelosina dutemplei (d'Orbigny, 1846) SPECIES
 
 #### Status
 ACCEPTED

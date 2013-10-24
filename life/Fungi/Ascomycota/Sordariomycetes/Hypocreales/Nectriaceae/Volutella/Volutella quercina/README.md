@@ -1,5 +1,4 @@
-Volutella quercina Schwein. SPECIES
-=======
+# Volutella quercina Schwein. SPECIES
 
 #### Status
 ACCEPTED

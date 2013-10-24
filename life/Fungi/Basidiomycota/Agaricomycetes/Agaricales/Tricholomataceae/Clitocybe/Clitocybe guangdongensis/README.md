@@ -1,5 +1,4 @@
-Clitocybe guangdongensis Z.S. Bi & G.Y. Zheng SPECIES
-=======
+# Clitocybe guangdongensis Z.S. Bi & G.Y. Zheng SPECIES
 
 #### Status
 ACCEPTED

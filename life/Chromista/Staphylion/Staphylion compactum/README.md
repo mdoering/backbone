@@ -1,5 +1,4 @@
-Staphylion compactum Schröder, Medioli & Scott, 1989 SPECIES
-=======
+# Staphylion compactum Schröder, Medioli & Scott, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria ramulariospora Bubák SPECIES
-=======
+# Septoria ramulariospora Bubák SPECIES
 
 #### Status
 ACCEPTED

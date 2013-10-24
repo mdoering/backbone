@@ -1,5 +1,4 @@
-Trichodina borealis Stein & Stein-Albova, 1953 SPECIES
-=======
+# Trichodina borealis Stein & Stein-Albova, 1953 SPECIES
 
 #### Status
 ACCEPTED

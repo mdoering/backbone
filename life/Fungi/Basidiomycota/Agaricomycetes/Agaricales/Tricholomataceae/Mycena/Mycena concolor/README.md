@@ -1,5 +1,4 @@
-Mycena concolor (J.E. Lange) Kühner SPECIES
-=======
+# Mycena concolor (J.E. Lange) Kühner SPECIES
 
 #### Status
 ACCEPTED

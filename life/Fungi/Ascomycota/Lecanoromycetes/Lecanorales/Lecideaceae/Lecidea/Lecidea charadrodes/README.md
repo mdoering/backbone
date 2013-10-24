@@ -1,5 +1,4 @@
-Lecidea charadrodes Zahlbr. SPECIES
-=======
+# Lecidea charadrodes Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

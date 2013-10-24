@@ -1,5 +1,4 @@
-Cronartium strobilinum Hedgc. & G. Hahn SPECIES
-=======
+# Cronartium strobilinum Hedgc. & G. Hahn SPECIES
 
 #### Status
 ACCEPTED

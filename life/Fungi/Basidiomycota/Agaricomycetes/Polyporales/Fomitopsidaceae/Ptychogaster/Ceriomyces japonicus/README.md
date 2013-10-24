@@ -1,5 +1,4 @@
-Ceriomyces japonicus (Lloyd) Trotter SPECIES
-=======
+# Ceriomyces japonicus (Lloyd) Trotter SPECIES
 
 #### Status
 ACCEPTED

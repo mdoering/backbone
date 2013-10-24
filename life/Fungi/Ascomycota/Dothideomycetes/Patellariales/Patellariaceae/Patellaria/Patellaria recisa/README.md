@@ -1,5 +1,4 @@
-Patellaria recisa Berk. & M.A. Curtis SPECIES
-=======
+# Patellaria recisa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

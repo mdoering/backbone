@@ -1,5 +1,4 @@
-Cortinarius phaeomaculatus Rob. Henry SPECIES
-=======
+# Cortinarius phaeomaculatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

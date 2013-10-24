@@ -1,17 +1,16 @@
-Syncephalis pycnosperma var. subglobosa B.S. Mehrotra & R. Prasad VARIETY
-=======
+# Syncephalis pycnosperma Thaxt., 1897 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Gaz. 24(1): 11 (1897)
 
 #### Original name
-Syncephalis pycnosperma var. subglobosa B.S. Mehrotra & R. Prasad
+Syncephalis pycnosperma Thaxt., 1897
 
 ### Remarks
 null

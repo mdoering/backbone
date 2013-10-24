@@ -1,5 +1,4 @@
-Leptothyrium smilacis-chinae Teng SPECIES
-=======
+# Leptothyrium smilacis-chinae Teng SPECIES
 
 #### Status
 ACCEPTED

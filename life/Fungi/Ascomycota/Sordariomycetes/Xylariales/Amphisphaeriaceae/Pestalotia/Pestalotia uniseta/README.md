@@ -1,5 +1,4 @@
-Pestalotia uniseta Tracy & Earle SPECIES
-=======
+# Pestalotia uniseta Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

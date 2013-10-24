@@ -1,5 +1,4 @@
-Ectocarpus ramellosus Kützing SPECIES
-=======
+# Ectocarpus ramellosus Kützing SPECIES
 
 #### Status
 ACCEPTED

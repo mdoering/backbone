@@ -1,5 +1,4 @@
-Tylopilus ammiratii Thiers SPECIES
-=======
+# Tylopilus ammiratii Thiers SPECIES
 
 #### Status
 ACCEPTED

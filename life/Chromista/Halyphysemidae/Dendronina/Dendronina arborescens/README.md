@@ -1,5 +1,4 @@
-Dendronina arborescens var. antarctica Heron-Allen & Earland, 1922 VARIETY
-=======
+# Dendronina arborescens Heron-Allen & Earland, 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus syringicolor Svrcek, 1975 SPECIES
-=======
+# Hymenoscyphus syringicolor Svrcek, 1975 SPECIES
 
 #### Status
 ACCEPTED

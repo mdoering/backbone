@@ -1,5 +1,4 @@
-Coryneum affine Sacc. SPECIES
-=======
+# Coryneum affine Sacc. SPECIES
 
 #### Status
 ACCEPTED

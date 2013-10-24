@@ -1,17 +1,16 @@
-Tubulicrinis hastata G. Cunn. SPECIES
-=======
+# Litschauerella hastata (G. Cunn.) Stalpers & P.K. Buchanan, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 29(3): 336 (1991)
 
 #### Original name
-Tubulicrinis hastata G. Cunn.
+Tubulicrinis hastatus G. Cunn., 1963
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Streptomyces albofaciens Thirumalachar and Bhatt, 1960 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces albofaciens Thirumalachar and Bhatt, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

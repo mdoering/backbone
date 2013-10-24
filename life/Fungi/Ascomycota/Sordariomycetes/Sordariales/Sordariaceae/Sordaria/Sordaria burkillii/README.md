@@ -1,5 +1,4 @@
-Sordaria burkillii Massee SPECIES
-=======
+# Sordaria burkillii Massee SPECIES
 
 #### Status
 ACCEPTED

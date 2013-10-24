@@ -1,5 +1,4 @@
-Desulfosporosinus meridiei Robertson et al., 2001 SPECIES
-=======
+# Desulfosporosinus meridiei Robertson et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

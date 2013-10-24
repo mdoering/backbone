@@ -1,8 +1,7 @@
-Laminaria japonica var. ochotensis (Miyabe) Okamura VARIETY
-=======
+# Laminaria ochotensis Miyabe SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Sogdianina Saltovskaya, 1973 GENUS
-=======
+# Sogdianina Saltovskaya, 1973 GENUS
 
 #### Status
 ACCEPTED

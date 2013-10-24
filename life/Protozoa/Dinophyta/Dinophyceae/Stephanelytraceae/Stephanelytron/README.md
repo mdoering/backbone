@@ -1,5 +1,4 @@
-Stephanelytron W.A.S. Sarjeant, 1961 GENUS
-=======
+# Stephanelytron W.A.S. Sarjeant, 1961 GENUS
 
 #### Status
 ACCEPTED

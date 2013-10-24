@@ -1,5 +1,4 @@
-Rhabdospora hedeomina (Peck) Sacc. SPECIES
-=======
+# Rhabdospora hedeomina (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

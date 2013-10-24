@@ -1,5 +1,4 @@
-Polyporites GENUS
-=======
+# Polyporites GENUS
 
 #### Status
 ACCEPTED

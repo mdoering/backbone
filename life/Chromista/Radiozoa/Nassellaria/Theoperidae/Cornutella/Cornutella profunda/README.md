@@ -1,5 +1,4 @@
-Cornutella profunda Ehrenberg, 1856 SPECIES
-=======
+# Cornutella profunda Ehrenberg, 1856 SPECIES
 
 #### Status
 ACCEPTED

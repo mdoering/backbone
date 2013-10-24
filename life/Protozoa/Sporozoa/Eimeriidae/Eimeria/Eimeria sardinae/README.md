@@ -1,5 +1,4 @@
-Eimeria sardinae (Thélohan, 1890) Reichenow, 1921 SPECIES
-=======
+# Eimeria sardinae (Thélohan, 1890) Reichenow, 1921 SPECIES
 
 #### Status
 ACCEPTED

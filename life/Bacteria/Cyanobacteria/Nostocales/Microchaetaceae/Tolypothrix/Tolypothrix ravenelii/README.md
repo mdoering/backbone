@@ -1,5 +1,4 @@
-Tolypothrix ravenelii Wolle SPECIES
-=======
+# Tolypothrix ravenelii Wolle SPECIES
 
 #### Status
 ACCEPTED

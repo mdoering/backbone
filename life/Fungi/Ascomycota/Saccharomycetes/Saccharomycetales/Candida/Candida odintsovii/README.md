@@ -1,5 +1,4 @@
-Candida odintsovii Babeva, Reshetova, Blagod. & Galimova SPECIES
-=======
+# Candida odintsovii Babeva, Reshetova, Blagod. & Galimova SPECIES
 
 #### Status
 ACCEPTED

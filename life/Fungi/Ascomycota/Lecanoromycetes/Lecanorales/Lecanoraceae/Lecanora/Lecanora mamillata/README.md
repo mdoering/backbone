@@ -1,5 +1,4 @@
-Lecanora mamillata Motyka SPECIES
-=======
+# Lecanora mamillata Motyka SPECIES
 
 #### Status
 ACCEPTED

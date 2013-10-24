@@ -1,5 +1,4 @@
-Schwagerina Möller, 1877 GENUS
-=======
+# Schwagerina Möller, 1877 GENUS
 
 #### Status
 ACCEPTED

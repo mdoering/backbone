@@ -1,5 +1,4 @@
-Lactarius incarnatozonatus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius incarnatozonatus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

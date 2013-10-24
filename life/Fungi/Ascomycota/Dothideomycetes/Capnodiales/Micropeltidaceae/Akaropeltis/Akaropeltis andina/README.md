@@ -1,5 +1,4 @@
-Akaropeltis andina (Petr.) Arx SPECIES
-=======
+# Akaropeltis andina (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus dissectus Britzelm. SPECIES
-=======
+# Agaricus dissectus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

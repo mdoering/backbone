@@ -1,5 +1,4 @@
-Baeospora curtipes Corner SPECIES
-=======
+# Baeospora curtipes Corner SPECIES
 
 #### Status
 ACCEPTED

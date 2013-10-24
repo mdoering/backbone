@@ -1,5 +1,4 @@
-Citromyces glaber Wehmer SPECIES
-=======
+# Citromyces glaber Wehmer SPECIES
 
 #### Status
 ACCEPTED

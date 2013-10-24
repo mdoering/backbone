@@ -1,5 +1,4 @@
-Belonioscypha ranarum Velen. SPECIES
-=======
+# Belonioscypha ranarum Velen. SPECIES
 
 #### Status
 ACCEPTED

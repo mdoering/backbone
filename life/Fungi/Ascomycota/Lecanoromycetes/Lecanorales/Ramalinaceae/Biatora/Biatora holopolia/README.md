@@ -1,5 +1,4 @@
-Biatora holopolia Tuck. SPECIES
-=======
+# Biatora holopolia Tuck. SPECIES
 
 #### Status
 ACCEPTED

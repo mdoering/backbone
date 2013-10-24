@@ -1,5 +1,4 @@
-Collema duemmeri C.W. Dodge SPECIES
-=======
+# Collema duemmeri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

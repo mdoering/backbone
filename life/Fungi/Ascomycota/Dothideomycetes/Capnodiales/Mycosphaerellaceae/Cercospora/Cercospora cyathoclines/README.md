@@ -1,5 +1,4 @@
-Cercospora cyathoclines M.S. Patil SPECIES
-=======
+# Cercospora cyathoclines M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

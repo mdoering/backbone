@@ -1,5 +1,4 @@
-Lachnum longispineum Hosoya & Issh. Tanaka SPECIES
-=======
+# Lachnum longispineum Hosoya & Issh. Tanaka SPECIES
 
 #### Status
 ACCEPTED

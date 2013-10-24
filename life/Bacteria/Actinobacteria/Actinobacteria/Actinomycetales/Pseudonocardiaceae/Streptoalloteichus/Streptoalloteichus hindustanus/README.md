@@ -1,5 +1,4 @@
-Streptoalloteichus hindustanus (ex Tomita et al., 1978) Tomita et al., 1987 SPECIES
-=======
+# Streptoalloteichus hindustanus (ex Tomita et al., 1978) Tomita et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

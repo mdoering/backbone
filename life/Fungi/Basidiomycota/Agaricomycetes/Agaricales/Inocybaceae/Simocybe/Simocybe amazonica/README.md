@@ -1,5 +1,4 @@
-Simocybe amazonica Singer SPECIES
-=======
+# Simocybe amazonica Singer SPECIES
 
 #### Status
 ACCEPTED

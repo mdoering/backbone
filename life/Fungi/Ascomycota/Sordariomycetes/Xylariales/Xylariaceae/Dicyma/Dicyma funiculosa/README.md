@@ -1,5 +1,4 @@
-Dicyma funiculosa Guarro & Calvo, 1983 SPECIES
-=======
+# Dicyma funiculosa Guarro & Calvo, 1983 SPECIES
 
 #### Status
 ACCEPTED

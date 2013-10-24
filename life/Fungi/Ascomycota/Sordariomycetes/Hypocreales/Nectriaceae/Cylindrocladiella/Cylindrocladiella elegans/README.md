@@ -1,5 +1,4 @@
-Cylindrocladiella elegans Crous & M.J. Wingf., 1993 SPECIES
-=======
+# Cylindrocladiella elegans Crous & M.J. Wingf., 1993 SPECIES
 
 #### Status
 ACCEPTED

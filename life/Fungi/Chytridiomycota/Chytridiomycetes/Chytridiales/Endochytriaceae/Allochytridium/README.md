@@ -1,5 +1,4 @@
-Allochytridium Salkin GENUS
-=======
+# Allochytridium Salkin GENUS
 
 #### Status
 ACCEPTED

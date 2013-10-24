@@ -1,5 +1,4 @@
-Armillariella squamosa Massee SPECIES
-=======
+# Armillariella squamosa Massee SPECIES
 
 #### Status
 ACCEPTED

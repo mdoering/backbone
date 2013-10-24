@@ -1,5 +1,4 @@
-Pelobacter Schink & Pfennig, 1983 GENUS
-=======
+# Pelobacter Schink & Pfennig, 1983 GENUS
 
 #### Status
 ACCEPTED

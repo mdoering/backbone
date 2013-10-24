@@ -1,5 +1,4 @@
-Uropyxis heterospora J.F. Hennen & Cummins SPECIES
-=======
+# Uropyxis heterospora J.F. Hennen & Cummins SPECIES
 
 #### Status
 ACCEPTED

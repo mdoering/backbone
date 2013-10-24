@@ -1,5 +1,4 @@
-Opegrapha hysterioides Stirt. SPECIES
-=======
+# Opegrapha hysterioides Stirt. SPECIES
 
 #### Status
 ACCEPTED

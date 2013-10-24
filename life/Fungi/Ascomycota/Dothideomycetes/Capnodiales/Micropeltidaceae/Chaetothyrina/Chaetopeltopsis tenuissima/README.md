@@ -1,5 +1,4 @@
-Chaetopeltopsis tenuissima (Petch) Theiss. SPECIES
-=======
+# Chaetopeltopsis tenuissima (Petch) Theiss. SPECIES
 
 #### Status
 ACCEPTED

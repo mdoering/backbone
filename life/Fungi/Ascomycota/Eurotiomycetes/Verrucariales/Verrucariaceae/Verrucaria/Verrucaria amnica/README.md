@@ -1,5 +1,4 @@
-Verrucaria amnica P. M. McCarthy & P. N. Johnson SPECIES
-=======
+# Verrucaria amnica P. M. McCarthy & P. N. Johnson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus sulphureocinnamomeus Zanted. {?} SPECIES
-=======
+# Boletus sulphureocinnamomeus Zanted. {?} SPECIES
 
 #### Status
 ACCEPTED

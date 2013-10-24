@@ -1,5 +1,4 @@
-Parauronema virginianum Thompson, 1967 SPECIES
-=======
+# Parauronema virginianum Thompson, 1967 SPECIES
 
 #### Status
 ACCEPTED

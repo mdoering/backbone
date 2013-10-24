@@ -1,5 +1,4 @@
-Haematomma campaleum (Tuck.) Zahlbr. SPECIES
-=======
+# Haematomma campaleum (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

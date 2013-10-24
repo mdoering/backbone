@@ -1,5 +1,4 @@
-Poria cereo Sacc. SPECIES
-=======
+# Poria cereo Sacc. SPECIES
 
 #### Status
 ACCEPTED

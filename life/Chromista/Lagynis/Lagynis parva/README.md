@@ -1,5 +1,4 @@
-Lagynis parva Schultze, 1854 SPECIES
-=======
+# Lagynis parva Schultze, 1854 SPECIES
 
 #### Status
 ACCEPTED

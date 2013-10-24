@@ -1,5 +1,4 @@
-Armillariella compressipes (Murrill) Singer SPECIES
-=======
+# Armillariella compressipes (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

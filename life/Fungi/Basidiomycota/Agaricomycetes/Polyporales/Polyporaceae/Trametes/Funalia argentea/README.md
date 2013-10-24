@@ -1,17 +1,16 @@
-Polystictus glaucoeffusus Lloyd, 1925 SPECIES
-=======
+# Funalia argentea (Lloyd) D.A. Reid, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1334 (1925)
+Jl S. Afr. Bot. 39(2): 158 (1973)
 
 #### Original name
-Polystictus glaucoeffusus Lloyd, 1925
+Polystictus argenteus Lloyd, 1922
 
 ### Remarks
 null

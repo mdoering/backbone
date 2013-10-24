@@ -1,5 +1,4 @@
-Schizophyllum exiguum Miq. SPECIES
-=======
+# Schizophyllum exiguum Miq. SPECIES
 
 #### Status
 ACCEPTED

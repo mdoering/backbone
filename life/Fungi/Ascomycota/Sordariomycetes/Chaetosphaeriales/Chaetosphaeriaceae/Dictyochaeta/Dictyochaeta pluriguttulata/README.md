@@ -1,5 +1,4 @@
-Dictyochaeta pluriguttulata Kuthub. & Nawawi SPECIES
-=======
+# Dictyochaeta pluriguttulata Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED

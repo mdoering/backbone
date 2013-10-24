@@ -1,5 +1,4 @@
-Parmelia granulosula Oxner SPECIES
-=======
+# Parmelia granulosula Oxner SPECIES
 
 #### Status
 ACCEPTED

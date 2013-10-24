@@ -1,5 +1,4 @@
-Cytospora leucomyxa (Corda) Rabenh. SPECIES
-=======
+# Cytospora leucomyxa (Corda) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

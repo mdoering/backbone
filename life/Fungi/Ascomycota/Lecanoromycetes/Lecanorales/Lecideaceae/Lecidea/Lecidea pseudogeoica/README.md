@@ -1,5 +1,4 @@
-Lecidea pseudogeoica (Anzi) Stizenb. SPECIES
-=======
+# Lecidea pseudogeoica (Anzi) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

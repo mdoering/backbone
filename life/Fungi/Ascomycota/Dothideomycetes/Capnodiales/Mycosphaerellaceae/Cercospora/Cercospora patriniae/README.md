@@ -1,5 +1,4 @@
-Cercospora patriniae X.J. Liu & Y.L. Guo SPECIES
-=======
+# Cercospora patriniae X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

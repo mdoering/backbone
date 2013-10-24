@@ -1,14 +1,13 @@
-Lachnella venturioides (Ellis & Everh.) Sacc., 1889 SPECIES
-=======
+# Venturiocistella gaylussaciae Baral, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 419 (1889)
+Z. Mykol. 59(1): 13 (1993)
 
 #### Original name
 null

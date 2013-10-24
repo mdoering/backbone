@@ -1,5 +1,4 @@
-Ciliospora GENUS
-=======
+# Ciliospora GENUS
 
 #### Status
 ACCEPTED

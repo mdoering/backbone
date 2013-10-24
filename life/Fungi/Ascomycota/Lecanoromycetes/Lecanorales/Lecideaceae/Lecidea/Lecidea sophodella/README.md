@@ -1,5 +1,4 @@
-Lecidea sophodella Nyl. SPECIES
-=======
+# Lecidea sophodella Nyl. SPECIES
 
 #### Status
 ACCEPTED

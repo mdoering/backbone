@@ -1,5 +1,4 @@
-Sciniatosporium celastri (Kalchbr.) E.B.G. Jones SPECIES
-=======
+# Sciniatosporium celastri (Kalchbr.) E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

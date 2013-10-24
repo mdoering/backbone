@@ -1,5 +1,4 @@
-Elsinoë eucalypti Hansf., 1954 SPECIES
-=======
+# Elsinoë eucalypti Hansf., 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium trophirhapium Loeblich & Tappan, 1978 SPECIES
-=======
+# Baltisphaeridium trophirhapium Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

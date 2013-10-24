@@ -1,5 +1,4 @@
-Allarthothelium albovirescens (Nyl.) Zahlbr. SPECIES
-=======
+# Allarthothelium albovirescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

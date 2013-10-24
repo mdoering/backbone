@@ -1,5 +1,4 @@
-Cortinarius castaneolens Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius castaneolens Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

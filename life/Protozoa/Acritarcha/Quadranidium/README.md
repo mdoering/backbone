@@ -1,5 +1,4 @@
-Quadranidium Stancliffe & Sarjeant, 1996 GENUS
-=======
+# Quadranidium Stancliffe & Sarjeant, 1996 GENUS
 
 #### Status
 ACCEPTED

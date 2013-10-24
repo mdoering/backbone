@@ -1,5 +1,4 @@
-Agaricus fuligineonigrescens Britzelm. SPECIES
-=======
+# Agaricus fuligineonigrescens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Venturia asperata Samuels & Sivan., 1975 SPECIES
-=======
+# Venturia asperata Samuels & Sivan., 1975 SPECIES
 
 #### Status
 ACCEPTED

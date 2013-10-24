@@ -1,5 +1,4 @@
-Puccinia dichelostemmae Dietel & Holw. SPECIES
-=======
+# Puccinia dichelostemmae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

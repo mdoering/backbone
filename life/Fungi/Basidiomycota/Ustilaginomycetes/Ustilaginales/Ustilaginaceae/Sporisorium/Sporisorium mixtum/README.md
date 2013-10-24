@@ -1,5 +1,4 @@
-Sporisorium mixtum (Massee) Vánky SPECIES
-=======
+# Sporisorium mixtum (Massee) Vánky SPECIES
 
 #### Status
 ACCEPTED

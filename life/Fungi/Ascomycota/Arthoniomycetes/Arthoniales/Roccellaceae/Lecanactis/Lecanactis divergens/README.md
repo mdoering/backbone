@@ -1,5 +1,4 @@
-Lecanactis divergens (Fée) Nyl. SPECIES
-=======
+# Lecanactis divergens (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massaria gigaspora Fuckel SPECIES
-=======
+# Massaria gigaspora Fuckel SPECIES
 
 #### Status
 ACCEPTED

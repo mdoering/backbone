@@ -1,5 +1,4 @@
-Puccinia convallariae-digraphidis (Sopp) Kleb. SPECIES
-=======
+# Puccinia convallariae-digraphidis (Sopp) Kleb. SPECIES
 
 #### Status
 ACCEPTED

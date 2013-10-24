@@ -1,5 +1,4 @@
-Microporus spadiceus (Jungh.) Kuntze SPECIES
-=======
+# Microporus spadiceus (Jungh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

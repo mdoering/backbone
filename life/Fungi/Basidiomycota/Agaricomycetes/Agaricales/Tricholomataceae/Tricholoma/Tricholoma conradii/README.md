@@ -1,5 +1,4 @@
-Tricholoma conradii P. Karst. SPECIES
-=======
+# Tricholoma conradii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

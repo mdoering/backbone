@@ -1,5 +1,4 @@
-Caloplaca novae-caledonica Zahlbr. SPECIES
-=======
+# Caloplaca novae-caledonica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

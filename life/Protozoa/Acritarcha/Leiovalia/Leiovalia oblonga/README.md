@@ -1,5 +1,4 @@
-Leiovalia oblonga (Eisenack, 1959) Eisenack et al., 1979 SPECIES
-=======
+# Leiovalia oblonga (Eisenack, 1959) Eisenack et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

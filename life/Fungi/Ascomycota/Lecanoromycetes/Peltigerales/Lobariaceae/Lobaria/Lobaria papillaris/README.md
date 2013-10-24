@@ -1,5 +1,4 @@
-Lobaria papillaris Tomin SPECIES
-=======
+# Lobaria papillaris Tomin SPECIES
 
 #### Status
 ACCEPTED

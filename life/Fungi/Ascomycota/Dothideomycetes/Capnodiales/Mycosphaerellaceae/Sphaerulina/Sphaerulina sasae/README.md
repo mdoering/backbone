@@ -1,5 +1,4 @@
-Sphaerulina sasae Hara SPECIES
-=======
+# Sphaerulina sasae Hara SPECIES
 
 #### Status
 ACCEPTED

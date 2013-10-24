@@ -1,5 +1,4 @@
-Urceolaria rediviva Lamarck, 1801 SPECIES
-=======
+# Urceolaria rediviva Lamarck, 1801 SPECIES
 
 #### Status
 ACCEPTED

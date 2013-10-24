@@ -1,5 +1,4 @@
-Nepotatus stellatus Lloyd SPECIES
-=======
+# Nepotatus stellatus Lloyd SPECIES
 
 #### Status
 ACCEPTED

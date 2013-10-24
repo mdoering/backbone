@@ -1,5 +1,4 @@
-Pleurocapsa minuta Geitler SPECIES
-=======
+# Pleurocapsa minuta Geitler SPECIES
 
 #### Status
 ACCEPTED

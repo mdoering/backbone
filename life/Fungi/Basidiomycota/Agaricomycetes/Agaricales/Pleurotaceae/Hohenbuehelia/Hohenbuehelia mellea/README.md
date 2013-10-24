@@ -1,5 +1,4 @@
-Hohenbuehelia mellea Corner SPECIES
-=======
+# Hohenbuehelia mellea Corner SPECIES
 
 #### Status
 ACCEPTED

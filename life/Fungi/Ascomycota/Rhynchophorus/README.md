@@ -1,5 +1,4 @@
-Rhynchophorus GENUS
-=======
+# Rhynchophorus GENUS
 
 #### Status
 ACCEPTED

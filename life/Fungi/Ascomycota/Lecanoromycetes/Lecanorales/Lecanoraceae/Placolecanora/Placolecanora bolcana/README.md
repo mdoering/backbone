@@ -1,5 +1,4 @@
-Placolecanora bolcana (Pollini) Kopach. SPECIES
-=======
+# Placolecanora bolcana (Pollini) Kopach. SPECIES
 
 #### Status
 ACCEPTED

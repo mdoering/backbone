@@ -1,5 +1,4 @@
-Trichia flexuose Schumach. SPECIES
-=======
+# Trichia flexuose Schumach. SPECIES
 
 #### Status
 ACCEPTED

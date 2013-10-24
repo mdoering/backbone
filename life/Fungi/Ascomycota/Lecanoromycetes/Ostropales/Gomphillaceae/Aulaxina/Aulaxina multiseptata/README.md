@@ -1,5 +1,4 @@
-Aulaxina multiseptata R. Sant. SPECIES
-=======
+# Aulaxina multiseptata R. Sant. SPECIES
 
 #### Status
 ACCEPTED

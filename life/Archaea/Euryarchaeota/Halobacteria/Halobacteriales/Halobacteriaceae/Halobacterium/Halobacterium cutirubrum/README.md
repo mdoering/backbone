@@ -1,5 +1,4 @@
-Halobacterium cutirubrum (Lochhead, 1934) Elazari-Volcani, 1957 (Approved Lists, 1980) SPECIES
-=======
+# Halobacterium cutirubrum (Lochhead, 1934) Elazari-Volcani, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

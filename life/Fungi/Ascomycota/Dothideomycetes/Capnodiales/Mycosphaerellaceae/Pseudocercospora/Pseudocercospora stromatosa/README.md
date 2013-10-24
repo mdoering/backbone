@@ -1,5 +1,4 @@
-Pseudocercospora stromatosa Joanne E. Taylor & Crous SPECIES
-=======
+# Pseudocercospora stromatosa Joanne E. Taylor & Crous SPECIES
 
 #### Status
 ACCEPTED

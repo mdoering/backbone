@@ -1,17 +1,16 @@
-Acolium tigillare var. tigillare VARIETY
-=======
+# Cyphelium tigillare (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Arr. Brit. Pl. (London) 1: (1821)
+K. svenska Vetensk-Akad. Handl. (1815)
 
 #### Original name
-Acolium tigillare var. tigillare
+Lichen tigillaris Ach.
 
 ### Remarks
 null

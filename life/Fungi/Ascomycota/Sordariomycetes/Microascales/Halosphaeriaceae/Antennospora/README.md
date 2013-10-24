@@ -1,5 +1,4 @@
-Antennospora Meyers GENUS
-=======
+# Antennospora Meyers GENUS
 
 #### Status
 ACCEPTED

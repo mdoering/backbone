@@ -1,5 +1,4 @@
-Cercospora camptosori Davis SPECIES
-=======
+# Cercospora camptosori Davis SPECIES
 
 #### Status
 ACCEPTED

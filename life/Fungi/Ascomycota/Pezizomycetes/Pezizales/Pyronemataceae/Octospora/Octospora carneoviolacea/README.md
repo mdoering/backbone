@@ -1,5 +1,4 @@
-Octospora carneoviolacea (Velen.) Svrcek SPECIES
-=======
+# Octospora carneoviolacea (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporum coccidicola Sacc. SPECIES
-=======
+# Trichosporum coccidicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

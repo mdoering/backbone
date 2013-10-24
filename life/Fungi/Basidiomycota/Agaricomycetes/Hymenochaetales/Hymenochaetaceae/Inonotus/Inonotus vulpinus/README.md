@@ -1,5 +1,4 @@
-Inonotus vulpinus var. vulpinus VARIETY
-=======
+# Inonotus vulpinus (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bidr. Känn. Finl. Nat. Folk 37: 72 (1882)
 
 #### Original name
-Inonotus vulpinus var. vulpinus
+Polyporus vulpinus (Link) Fr., 1821
 
 ### Remarks
 null

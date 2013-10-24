@@ -1,5 +1,4 @@
-Polystictus peradeniae (Berk. & Broome) Cooke SPECIES
-=======
+# Polystictus peradeniae (Berk. & Broome) Cooke SPECIES
 
 #### Status
 ACCEPTED

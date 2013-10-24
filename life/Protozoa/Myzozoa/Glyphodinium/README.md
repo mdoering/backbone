@@ -1,5 +1,4 @@
-Glyphodinium Fresenius, 1865 GENUS
-=======
+# Glyphodinium Fresenius, 1865 GENUS
 
 #### Status
 SYNONYM

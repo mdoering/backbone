@@ -1,5 +1,4 @@
-Omphalina xanthodictyon (Singer) Raithelh. SPECIES
-=======
+# Omphalina xanthodictyon (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

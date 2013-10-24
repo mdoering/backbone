@@ -1,5 +1,4 @@
-Inocybe johannae Kühner SPECIES
-=======
+# Inocybe johannae Kühner SPECIES
 
 #### Status
 ACCEPTED

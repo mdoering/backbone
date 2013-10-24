@@ -1,14 +1,13 @@
-Noctuluca Blainville, 1830 GENUS
-=======
+# Noctiluca Suriray, 1836 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dict. Sci. Nat. , 60, 128.
+An. s. Vert. , 2, 471.
 
 #### Original name
 null

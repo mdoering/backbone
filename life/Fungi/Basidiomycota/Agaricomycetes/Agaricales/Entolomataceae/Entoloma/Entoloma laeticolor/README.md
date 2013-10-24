@@ -1,5 +1,4 @@
-Entoloma laeticolor (Cooke & Massee) Sacc. SPECIES
-=======
+# Entoloma laeticolor (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clonostachys simmonsii Massee SPECIES
-=======
+# Clonostachys simmonsii Massee SPECIES
 
 #### Status
 ACCEPTED

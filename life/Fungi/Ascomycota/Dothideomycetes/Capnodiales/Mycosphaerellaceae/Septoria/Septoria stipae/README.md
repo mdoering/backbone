@@ -1,5 +1,4 @@
-Septoria stipae Died. SPECIES
-=======
+# Septoria stipae Died. SPECIES
 
 #### Status
 ACCEPTED

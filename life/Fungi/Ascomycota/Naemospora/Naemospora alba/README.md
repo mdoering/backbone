@@ -1,5 +1,4 @@
-Naemospora alba Lib. SPECIES
-=======
+# Naemospora alba Lib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia meridensis Balazuc SPECIES
-=======
+# Laboulbenia meridensis Balazuc SPECIES
 
 #### Status
 ACCEPTED

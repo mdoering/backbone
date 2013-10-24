@@ -1,5 +1,4 @@
-Nectria peponum var. peponum VARIETY
-=======
+# Nectria peponum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nectria peponum var. peponum
+Nectria peponum Berk. & M.A. Curtis
 
 ### Remarks
 null

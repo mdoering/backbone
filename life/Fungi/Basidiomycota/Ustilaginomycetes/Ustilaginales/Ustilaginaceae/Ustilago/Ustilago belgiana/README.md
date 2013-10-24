@@ -1,5 +1,4 @@
-Ustilago belgiana Zundel SPECIES
-=======
+# Ustilago belgiana Zundel SPECIES
 
 #### Status
 ACCEPTED

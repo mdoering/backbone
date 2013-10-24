@@ -1,5 +1,4 @@
-Chrysothrix granulosa G. Thor SPECIES
-=======
+# Chrysothrix granulosa G. Thor SPECIES
 
 #### Status
 ACCEPTED

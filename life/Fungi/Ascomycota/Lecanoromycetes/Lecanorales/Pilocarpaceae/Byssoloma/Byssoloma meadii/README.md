@@ -1,5 +1,4 @@
-Byssoloma meadii (Tuck.) S. Ekman SPECIES
-=======
+# Byssoloma meadii (Tuck.) S. Ekman SPECIES
 
 #### Status
 ACCEPTED

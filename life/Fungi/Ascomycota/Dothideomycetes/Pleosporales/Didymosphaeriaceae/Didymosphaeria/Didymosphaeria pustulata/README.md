@@ -1,5 +1,4 @@
-Didymosphaeria pustulata I. Hino & Katum. SPECIES
-=======
+# Didymosphaeria pustulata I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

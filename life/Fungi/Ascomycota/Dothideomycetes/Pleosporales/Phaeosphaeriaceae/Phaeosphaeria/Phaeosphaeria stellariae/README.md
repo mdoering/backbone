@@ -1,5 +1,4 @@
-Phaeosphaeria stellariae (Rostr.) Leuchtm. SPECIES
-=======
+# Phaeosphaeria stellariae (Rostr.) Leuchtm. SPECIES
 
 #### Status
 ACCEPTED

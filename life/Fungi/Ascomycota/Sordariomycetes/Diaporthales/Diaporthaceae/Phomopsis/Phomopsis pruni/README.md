@@ -1,5 +1,4 @@
-Phomopsis pruni (Ellis & Dearn.) Wehm. SPECIES
-=======
+# Phomopsis pruni (Ellis & Dearn.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

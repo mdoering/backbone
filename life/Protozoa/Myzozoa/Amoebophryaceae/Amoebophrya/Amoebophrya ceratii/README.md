@@ -1,5 +1,4 @@
-Amoebophrya ceratii (Koeppen) Cachon SPECIES
-=======
+# Amoebophrya ceratii (Koeppen) Cachon SPECIES
 
 #### Status
 ACCEPTED

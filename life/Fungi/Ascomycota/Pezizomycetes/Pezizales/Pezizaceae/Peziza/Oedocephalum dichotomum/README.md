@@ -1,5 +1,4 @@
-Oedocephalum dichotomum Preuss SPECIES
-=======
+# Oedocephalum dichotomum Preuss SPECIES
 
 #### Status
 ACCEPTED

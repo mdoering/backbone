@@ -1,5 +1,4 @@
-Omphalaria phylliscoides Nyl. SPECIES
-=======
+# Omphalaria phylliscoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus olivaceiluteus Corner SPECIES
-=======
+# Boletus olivaceiluteus Corner SPECIES
 
 #### Status
 ACCEPTED

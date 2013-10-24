@@ -1,5 +1,4 @@
-Trichoderma vulpinum Fuckel, 1874 SPECIES
-=======
+# Trichoderma vulpinum Fuckel, 1874 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acetabula acetabulum (L.) SPECIES
-=======
+# Acetabula acetabulum (L.) SPECIES
 
 #### Status
 ACCEPTED

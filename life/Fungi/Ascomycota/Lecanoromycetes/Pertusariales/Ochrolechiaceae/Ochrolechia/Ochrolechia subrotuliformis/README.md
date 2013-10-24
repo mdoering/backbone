@@ -1,5 +1,4 @@
-Ochrolechia subrotuliformis (Jatta) Overeem SPECIES
-=======
+# Ochrolechia subrotuliformis (Jatta) Overeem SPECIES
 
 #### Status
 ACCEPTED

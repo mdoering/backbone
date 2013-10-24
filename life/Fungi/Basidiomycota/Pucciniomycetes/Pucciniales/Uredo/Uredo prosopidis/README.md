@@ -1,5 +1,4 @@
-Uredo prosopidis Jacz. SPECIES
-=======
+# Uredo prosopidis Jacz. SPECIES
 
 #### Status
 ACCEPTED

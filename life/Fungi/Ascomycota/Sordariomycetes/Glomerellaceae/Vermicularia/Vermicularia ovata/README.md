@@ -1,5 +1,4 @@
-Vermicularia ovata Schwein. SPECIES
-=======
+# Vermicularia ovata Schwein. SPECIES
 
 #### Status
 ACCEPTED

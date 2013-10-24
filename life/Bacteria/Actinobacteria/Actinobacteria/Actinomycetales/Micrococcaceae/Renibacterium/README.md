@@ -1,5 +1,4 @@
-Renibacterium Sanders & Fryer, 1980 GENUS
-=======
+# Renibacterium Sanders & Fryer, 1980 GENUS
 
 #### Status
 ACCEPTED

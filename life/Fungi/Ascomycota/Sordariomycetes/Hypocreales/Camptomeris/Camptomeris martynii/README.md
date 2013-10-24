@@ -1,5 +1,4 @@
-Camptomeris martynii E.A. Bessey SPECIES
-=======
+# Camptomeris martynii E.A. Bessey SPECIES
 
 #### Status
 ACCEPTED

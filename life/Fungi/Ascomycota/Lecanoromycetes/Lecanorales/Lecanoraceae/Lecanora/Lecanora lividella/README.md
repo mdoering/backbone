@@ -1,5 +1,4 @@
-Lecanora lividella Nyl. SPECIES
-=======
+# Lecanora lividella Nyl. SPECIES
 
 #### Status
 ACCEPTED

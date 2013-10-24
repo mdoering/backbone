@@ -1,14 +1,13 @@
-Gibberidea coluteae (Rabenh.) Kuntze, 1898 SPECIES
-=======
+# Cucurbitaria coluteae (Rabenh.) Auersw., 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 481 (1898)
+Jb. nassau. Ver. Naturk. 23-24: 174 (1870)
 
 #### Original name
 Sphaeria coluteae Rabenh.

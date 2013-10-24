@@ -1,5 +1,4 @@
-Teichospora ampullacea Rehm SPECIES
-=======
+# Teichospora ampullacea Rehm SPECIES
 
 #### Status
 ACCEPTED

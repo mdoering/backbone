@@ -1,5 +1,4 @@
-Dileptus crinitus (Müller, 1786) Fromentel, 1876 SPECIES
-=======
+# Dileptus crinitus (Müller, 1786) Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

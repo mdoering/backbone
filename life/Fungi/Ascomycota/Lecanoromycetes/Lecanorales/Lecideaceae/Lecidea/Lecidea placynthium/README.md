@@ -1,5 +1,4 @@
-Lecidea placynthium Eschw. SPECIES
-=======
+# Lecidea placynthium Eschw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apectodinium hyperacanthum (Cookson & Eisenack, 1965) Lentin & Williams SPECIES
-=======
+# Apectodinium hyperacanthum (Cookson & Eisenack, 1965) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

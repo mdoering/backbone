@@ -1,5 +1,4 @@
-Galera martipes Kauffman SPECIES
-=======
+# Galera martipes Kauffman SPECIES
 
 #### Status
 ACCEPTED

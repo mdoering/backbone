@@ -1,5 +1,4 @@
-Peniophora disparens Rick SPECIES
-=======
+# Peniophora disparens Rick SPECIES
 
 #### Status
 ACCEPTED

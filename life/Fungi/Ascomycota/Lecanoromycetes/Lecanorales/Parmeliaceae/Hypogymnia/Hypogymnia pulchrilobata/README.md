@@ -1,14 +1,13 @@
-Parmelia pulchrilobata Bitter SPECIES
-=======
+# Hypogymnia pulchrilobata (Bitter) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 40: 244 (1901)
+Brunonia 2(2): 214 (1980)
 
 #### Original name
 Parmelia pulchrilobata Bitter

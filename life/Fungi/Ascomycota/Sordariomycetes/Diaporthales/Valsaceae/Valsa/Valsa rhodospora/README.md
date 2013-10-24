@@ -1,5 +1,4 @@
-Valsa rhodospora Sacc. SPECIES
-=======
+# Valsa rhodospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

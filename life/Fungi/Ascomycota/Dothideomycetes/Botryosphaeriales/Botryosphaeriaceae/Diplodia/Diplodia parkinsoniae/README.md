@@ -1,5 +1,4 @@
-Diplodia parkinsoniae Speg. SPECIES
-=======
+# Diplodia parkinsoniae Speg. SPECIES
 
 #### Status
 ACCEPTED

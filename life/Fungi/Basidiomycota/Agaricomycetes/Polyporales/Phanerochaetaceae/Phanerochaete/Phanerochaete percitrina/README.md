@@ -1,5 +1,4 @@
-Phanerochaete percitrina P. Roberts & Hjortstam, 2000 SPECIES
-=======
+# Phanerochaete percitrina P. Roberts & Hjortstam, 2000 SPECIES
 
 #### Status
 ACCEPTED

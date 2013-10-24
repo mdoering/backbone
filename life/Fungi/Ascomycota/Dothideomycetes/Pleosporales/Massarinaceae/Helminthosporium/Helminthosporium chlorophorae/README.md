@@ -1,5 +1,4 @@
-Helminthosporium chlorophorae M.B. Ellis SPECIES
-=======
+# Helminthosporium chlorophorae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

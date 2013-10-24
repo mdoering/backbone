@@ -1,5 +1,4 @@
-Anthostoma polynesia (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Anthostoma polynesia (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

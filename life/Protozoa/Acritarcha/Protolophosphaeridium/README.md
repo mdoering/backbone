@@ -1,5 +1,4 @@
-Protolophosphaeridium B.V. Timofeev, 1963 GENUS
-=======
+# Protolophosphaeridium B.V. Timofeev, 1963 GENUS
 
 #### Status
 ACCEPTED

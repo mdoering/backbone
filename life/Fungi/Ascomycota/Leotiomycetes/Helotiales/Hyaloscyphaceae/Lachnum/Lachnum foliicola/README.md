@@ -1,5 +1,4 @@
-Lachnum foliicola Keissl. SPECIES
-=======
+# Lachnum foliicola Keissl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stensioeina Brotzen, 1936 GENUS
-=======
+# Stensioeina Brotzen, 1936 GENUS
 
 #### Status
 ACCEPTED

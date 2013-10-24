@@ -1,5 +1,4 @@
-Remispora minuta E.B.G. Jones, K.L. Pang & Vrijmoed, 2004 SPECIES
-=======
+# Remispora minuta E.B.G. Jones, K.L. Pang & Vrijmoed, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calicium orochroum Wahlenb. SPECIES
-=======
+# Calicium orochroum Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

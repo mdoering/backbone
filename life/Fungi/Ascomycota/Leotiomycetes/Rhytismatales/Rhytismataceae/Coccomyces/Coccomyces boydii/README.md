@@ -1,17 +1,16 @@
-Coccomyces boydii f. boydii A.L. Sm. FORM
-=======
+# Coccomyces boydii A.L. Sm., 1908 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Br. mycol. Soc. 3: 39 (1907)
 
 #### Original name
-Coccomyces boydii f. boydii A.L. Sm.
+Coccomyces boydii A.L. Sm., 1908
 
 ### Remarks
 null

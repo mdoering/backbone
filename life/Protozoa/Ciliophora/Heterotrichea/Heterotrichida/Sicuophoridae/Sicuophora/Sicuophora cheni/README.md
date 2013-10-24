@@ -1,8 +1,7 @@
-Nyctotherus cheni Wichterman, 1934 SPECIES
-=======
+# Sicuophora cheni (Wichterman, 1934) Corliss, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

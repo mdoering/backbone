@@ -1,5 +1,4 @@
-Entomophthora phalloides (A. Batko) Remaud et al. {?} ined. SPECIES
-=======
+# Entomophthora phalloides (A. Batko) Remaud et al. {?} ined. SPECIES
 
 #### Status
 ACCEPTED

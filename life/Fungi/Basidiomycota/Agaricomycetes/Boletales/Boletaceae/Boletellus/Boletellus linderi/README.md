@@ -1,5 +1,4 @@
-Boletellus linderi Singer SPECIES
-=======
+# Boletellus linderi Singer SPECIES
 
 #### Status
 ACCEPTED

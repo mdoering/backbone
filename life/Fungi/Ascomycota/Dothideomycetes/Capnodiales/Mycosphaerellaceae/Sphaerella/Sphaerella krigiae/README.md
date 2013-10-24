@@ -1,5 +1,4 @@
-Sphaerella krigiae Ellis & Everh. SPECIES
-=======
+# Sphaerella krigiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

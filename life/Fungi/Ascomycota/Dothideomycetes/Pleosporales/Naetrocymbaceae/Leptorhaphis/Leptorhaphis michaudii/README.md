@@ -1,5 +1,4 @@
-Leptorhaphis michaudii B. de Lesd. SPECIES
-=======
+# Leptorhaphis michaudii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glugea Thélohan GENUS
-=======
+# Glugea Thélohan GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladina magnussonii (Ahti) Ahti SPECIES
-=======
+# Cladina magnussonii (Ahti) Ahti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium farinaceum (Pers.) Rehm SPECIES
-=======
+# Cenangium farinaceum (Pers.) Rehm SPECIES
 
 #### Status
 ACCEPTED

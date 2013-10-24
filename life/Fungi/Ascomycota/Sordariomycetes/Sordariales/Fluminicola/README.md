@@ -1,5 +1,4 @@
-Fluminicola S.W. Wong, K.D. Hyde & E.B.G. Jones, 1999 GENUS
-=======
+# Fluminicola S.W. Wong, K.D. Hyde & E.B.G. Jones, 1999 GENUS
 
 #### Status
 ACCEPTED

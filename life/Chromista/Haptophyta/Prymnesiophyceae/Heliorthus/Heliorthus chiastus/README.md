@@ -1,5 +1,4 @@
-Heliorthus chiastus (M. N. Bramlette & F. R. Sullivan) D. Bukry SPECIES
-=======
+# Heliorthus chiastus (M. N. Bramlette & F. R. Sullivan) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

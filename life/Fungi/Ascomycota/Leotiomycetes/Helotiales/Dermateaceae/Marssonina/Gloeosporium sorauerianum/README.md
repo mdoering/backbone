@@ -1,5 +1,4 @@
-Gloeosporium sorauerianum Allesch. SPECIES
-=======
+# Gloeosporium sorauerianum Allesch. SPECIES
 
 #### Status
 ACCEPTED

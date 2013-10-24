@@ -1,5 +1,4 @@
-Agaricus oculus Peck SPECIES
-=======
+# Agaricus oculus Peck SPECIES
 
 #### Status
 ACCEPTED

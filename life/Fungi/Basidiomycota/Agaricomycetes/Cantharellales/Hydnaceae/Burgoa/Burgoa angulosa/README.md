@@ -1,5 +1,4 @@
-Burgoa angulosa Diederich, Lawrey & Etayo SPECIES
-=======
+# Burgoa angulosa Diederich, Lawrey & Etayo SPECIES
 
 #### Status
 ACCEPTED

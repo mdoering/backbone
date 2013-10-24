@@ -1,5 +1,4 @@
-Tintinnus attenuatus Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnus attenuatus Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

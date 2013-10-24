@@ -1,5 +1,4 @@
-Cortinarius bresadolae Schulzer SPECIES
-=======
+# Cortinarius bresadolae Schulzer SPECIES
 
 #### Status
 ACCEPTED

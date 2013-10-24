@@ -1,5 +1,4 @@
-Parmotrema subpallescens (Kurok.) Kurok. SPECIES
-=======
+# Parmotrema subpallescens (Kurok.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

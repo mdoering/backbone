@@ -1,5 +1,4 @@
-Endoplacodium Petr. GENUS
-=======
+# Endoplacodium Petr. GENUS
 
 #### Status
 ACCEPTED

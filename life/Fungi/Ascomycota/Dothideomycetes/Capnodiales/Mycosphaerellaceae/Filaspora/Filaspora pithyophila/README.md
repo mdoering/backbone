@@ -1,5 +1,4 @@
-Filaspora pithyophila (Sacc.) Kuntze SPECIES
-=======
+# Filaspora pithyophila (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

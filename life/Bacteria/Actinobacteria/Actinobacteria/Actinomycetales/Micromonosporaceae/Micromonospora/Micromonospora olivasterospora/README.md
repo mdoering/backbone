@@ -1,5 +1,4 @@
-Micromonospora olivasterospora Kawamoto et al., 1983 SPECIES
-=======
+# Micromonospora olivasterospora Kawamoto et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

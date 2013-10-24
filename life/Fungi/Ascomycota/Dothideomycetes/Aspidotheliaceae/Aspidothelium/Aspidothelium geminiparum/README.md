@@ -1,5 +1,4 @@
-Aspidothelium geminiparum (Malme) R. Sant. SPECIES
-=======
+# Aspidothelium geminiparum (Malme) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

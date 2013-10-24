@@ -1,5 +1,4 @@
-Prathigada thalictri (Thüm.) U. Braun SPECIES
-=======
+# Prathigada thalictri (Thüm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

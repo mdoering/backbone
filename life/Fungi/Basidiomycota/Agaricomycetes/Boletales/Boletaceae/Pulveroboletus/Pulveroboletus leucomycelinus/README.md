@@ -1,5 +1,4 @@
-Pulveroboletus leucomycelinus Singer & M.H. Ivory SPECIES
-=======
+# Pulveroboletus leucomycelinus Singer & M.H. Ivory SPECIES
 
 #### Status
 ACCEPTED

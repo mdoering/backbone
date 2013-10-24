@@ -1,5 +1,4 @@
-Nosema pyrausta SPECIES
-=======
+# Nosema pyrausta SPECIES
 
 #### Status
 ACCEPTED

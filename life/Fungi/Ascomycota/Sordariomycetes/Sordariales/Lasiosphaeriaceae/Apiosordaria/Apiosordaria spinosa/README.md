@@ -1,14 +1,13 @@
-Tripterospora spinosa Cailleux, 1970 SPECIES
-=======
+# Apiosordaria spinosa (Cailleux) J.C. Krug, Udagawa & Jeng, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cahiers de La Maboké 8(1): 16 (1970)
+Mycotaxon 17: 546 (1983)
 
 #### Original name
 Tripterospora spinosa Cailleux, 1970

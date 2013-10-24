@@ -1,5 +1,4 @@
-Agaricus riparius Lasch SPECIES
-=======
+# Agaricus riparius Lasch SPECIES
 
 #### Status
 ACCEPTED

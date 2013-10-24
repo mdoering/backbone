@@ -1,5 +1,4 @@
-Sphaceloma punicae Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma punicae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Diploceras leptospermi (R.G. Bagn. & Sheridan) Nag Raj, 1993 SPECIES
-=======
+# Discostroma leptospermi (H.J. Swart) Sivan., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 291 (1993)
+in Sivanesan & Shivas, Fungal Diversity 11: 152 (2002)
 
 #### Original name
-Seimatosporium leptospermi R.G. Bagn. & Sheridan, 1972
+Discostromopsis leptospermi H.J. Swart, 1979
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Parvulago R. Bauer, M. Lutz, Piatek, Vánky & Oberw. GENUS
-=======
+# Parvulago R. Bauer, M. Lutz, Piatek, Vánky & Oberw. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gastroboletus dinoffii Nouhra & Castellano, 1995 SPECIES
-=======
+# Gastroboletus dinoffii Nouhra & Castellano, 1995 SPECIES
 
 #### Status
 ACCEPTED

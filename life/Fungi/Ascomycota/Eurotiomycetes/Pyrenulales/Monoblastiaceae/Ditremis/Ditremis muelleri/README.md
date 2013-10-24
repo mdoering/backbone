@@ -1,17 +1,16 @@
-Ditremis müller Makhija & Patw. SPECIES
-=======
+# Ditremis muelleri Makhija & Patw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biovigyanam 16(1): 20 (1990)
 
 #### Original name
-Ditremis müller Makhija & Patw.
+Ditremis muelleri Makhija & Patw.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Polyporus pulcherrimus Rodway, 1922 SPECIES
-=======
+# Tyromyces pulcherrimus (Rodway) G. Cunn., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 176 (1922)
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 164: 121 (1965)
 
 #### Original name
 Polyporus pulcherrimus Rodway, 1922

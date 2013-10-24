@@ -1,5 +1,4 @@
-Dothiorella crataegi Ellis & Everh. SPECIES
-=======
+# Dothiorella crataegi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

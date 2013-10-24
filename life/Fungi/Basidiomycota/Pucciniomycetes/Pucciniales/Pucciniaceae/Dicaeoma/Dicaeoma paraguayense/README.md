@@ -1,5 +1,4 @@
-Dicaeoma paraguayense (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma paraguayense (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

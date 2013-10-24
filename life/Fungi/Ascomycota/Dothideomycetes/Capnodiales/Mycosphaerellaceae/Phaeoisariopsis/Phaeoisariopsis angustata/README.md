@@ -1,5 +1,4 @@
-Phaeoisariopsis angustata (Chupp & Solheim) L.G. Br. & E.B.G. Jones SPECIES
-=======
+# Phaeoisariopsis angustata (Chupp & Solheim) L.G. Br. & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

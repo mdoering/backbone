@@ -1,5 +1,4 @@
-Nectria aemulans Rehm, 1909 SPECIES
-=======
+# Nectria aemulans Rehm, 1909 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lambertella cryptomeriae K.S. Thind & H. Singh SPECIES
-=======
+# Lambertella cryptomeriae K.S. Thind & H. Singh SPECIES
 
 #### Status
 ACCEPTED

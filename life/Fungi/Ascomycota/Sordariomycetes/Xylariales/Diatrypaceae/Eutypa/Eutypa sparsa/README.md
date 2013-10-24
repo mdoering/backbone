@@ -1,5 +1,4 @@
-Eutypa sparsa Romell SPECIES
-=======
+# Eutypa sparsa Romell SPECIES
 
 #### Status
 ACCEPTED

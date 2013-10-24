@@ -1,5 +1,4 @@
-Pannaria tjibodensis Zahlbr. SPECIES
-=======
+# Pannaria tjibodensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora atromaculans Syd. & P. Syd., 1913 SPECIES
-=======
+# Phyllachora atromaculans Syd. & P. Syd., 1913 SPECIES
 
 #### Status
 ACCEPTED

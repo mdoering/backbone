@@ -1,5 +1,4 @@
-Physcia tuckermanii Lynge SPECIES
-=======
+# Physcia tuckermanii Lynge SPECIES
 
 #### Status
 ACCEPTED

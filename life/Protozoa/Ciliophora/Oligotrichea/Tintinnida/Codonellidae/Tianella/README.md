@@ -1,5 +1,4 @@
-Tianella Bugrova, 2003 GENUS
-=======
+# Tianella Bugrova, 2003 GENUS
 
 #### Status
 ACCEPTED

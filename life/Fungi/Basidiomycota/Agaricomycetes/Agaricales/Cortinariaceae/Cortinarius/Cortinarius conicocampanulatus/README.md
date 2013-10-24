@@ -1,5 +1,4 @@
-Cortinarius conicocampanulatus Rob. Henry SPECIES
-=======
+# Cortinarius conicocampanulatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

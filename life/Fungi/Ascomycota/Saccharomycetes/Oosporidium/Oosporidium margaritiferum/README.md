@@ -1,5 +1,4 @@
-Oosporidium margaritiferum Stautz, 1931 SPECIES
-=======
+# Oosporidium margaritiferum Stautz, 1931 SPECIES
 
 #### Status
 ACCEPTED

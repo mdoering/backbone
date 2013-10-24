@@ -1,5 +1,4 @@
-Leioderma spongiosum P.M. Jørg. & Arv. SPECIES
-=======
+# Leioderma spongiosum P.M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

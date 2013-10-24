@@ -1,5 +1,4 @@
-Gelatinosporium fulvum Peck SPECIES
-=======
+# Gelatinosporium fulvum Peck SPECIES
 
 #### Status
 ACCEPTED

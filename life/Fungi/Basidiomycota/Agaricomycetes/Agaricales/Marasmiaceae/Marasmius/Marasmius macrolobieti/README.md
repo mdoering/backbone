@@ -1,5 +1,4 @@
-Marasmius macrolobieti Singer SPECIES
-=======
+# Marasmius macrolobieti Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marsupulinoides Brönnimann, 1988 GENUS
-=======
+# Marsupulinoides Brönnimann, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cassidelina davisi (Chapman & Parr, 19370) SPECIES
-=======
+# Cassidelina davisi (Chapman & Parr, 19370) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia critatella SPECIES
-=======
+# Cladonia critatella SPECIES
 
 #### Status
 ACCEPTED

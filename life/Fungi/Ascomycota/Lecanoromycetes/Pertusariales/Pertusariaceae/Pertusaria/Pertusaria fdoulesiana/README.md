@@ -1,5 +1,4 @@
-Pertusaria fdoulesiana Harm. SPECIES
-=======
+# Pertusaria fdoulesiana Harm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemphylium domesticum Sacc. SPECIES
-=======
+# Stemphylium domesticum Sacc. SPECIES
 
 #### Status
 ACCEPTED

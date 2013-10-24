@@ -1,5 +1,4 @@
-Archistephus Haeckel, 1887 GENUS
-=======
+# Archistephus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

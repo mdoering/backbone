@@ -1,5 +1,4 @@
-Phyllosticta asteris Bres. SPECIES
-=======
+# Phyllosticta asteris Bres. SPECIES
 
 #### Status
 ACCEPTED

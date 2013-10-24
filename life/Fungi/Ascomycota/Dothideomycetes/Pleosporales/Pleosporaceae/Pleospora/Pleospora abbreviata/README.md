@@ -1,5 +1,4 @@
-Pleospora abbreviata Fuckel SPECIES
-=======
+# Pleospora abbreviata Fuckel SPECIES
 
 #### Status
 ACCEPTED

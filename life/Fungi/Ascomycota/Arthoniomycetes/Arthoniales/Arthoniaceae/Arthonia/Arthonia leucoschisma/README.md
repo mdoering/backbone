@@ -1,5 +1,4 @@
-Arthonia leucoschisma Müll. Arg. SPECIES
-=======
+# Arthonia leucoschisma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

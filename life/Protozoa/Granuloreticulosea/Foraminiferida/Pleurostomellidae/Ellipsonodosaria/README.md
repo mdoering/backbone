@@ -1,5 +1,4 @@
-Ellipsonodosaria Silvestri, 1900 GENUS
-=======
+# Ellipsonodosaria Silvestri, 1900 GENUS
 
 #### Status
 ACCEPTED

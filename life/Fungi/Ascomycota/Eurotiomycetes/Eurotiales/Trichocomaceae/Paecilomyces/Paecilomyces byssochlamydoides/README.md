@@ -1,5 +1,4 @@
-Paecilomyces byssochlamydoides Stolk & Samson, 1972 SPECIES
-=======
+# Paecilomyces byssochlamydoides Stolk & Samson, 1972 SPECIES
 
 #### Status
 ACCEPTED

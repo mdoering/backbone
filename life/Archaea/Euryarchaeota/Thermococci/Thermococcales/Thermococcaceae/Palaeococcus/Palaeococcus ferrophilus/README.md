@@ -1,5 +1,4 @@
-Palaeococcus ferrophilus Takai et al., 2000 SPECIES
-=======
+# Palaeococcus ferrophilus Takai et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

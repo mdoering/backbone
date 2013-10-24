@@ -1,5 +1,4 @@
-Nectria flavovirens G.H. Otth SPECIES
-=======
+# Nectria flavovirens G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

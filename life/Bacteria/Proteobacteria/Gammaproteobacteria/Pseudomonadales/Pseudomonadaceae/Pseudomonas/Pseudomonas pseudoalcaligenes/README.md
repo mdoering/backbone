@@ -1,5 +1,4 @@
-Pseudomonas pseudoalcaligenes subsp. pseudoalcaligenes SUBSPECIES
-=======
+# Pseudomonas pseudoalcaligenes Stanier, 1966 SPECIES
 
 #### Status
 ACCEPTED

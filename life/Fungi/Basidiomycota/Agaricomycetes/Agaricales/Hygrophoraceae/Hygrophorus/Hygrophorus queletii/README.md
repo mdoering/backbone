@@ -1,5 +1,4 @@
-Hygrophorus queletii Bres. SPECIES
-=======
+# Hygrophorus queletii Bres. SPECIES
 
 #### Status
 ACCEPTED

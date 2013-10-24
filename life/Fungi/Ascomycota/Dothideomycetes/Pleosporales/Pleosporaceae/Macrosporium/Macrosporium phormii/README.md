@@ -1,5 +1,4 @@
-Macrosporium phormii Speg. SPECIES
-=======
+# Macrosporium phormii Speg. SPECIES
 
 #### Status
 ACCEPTED

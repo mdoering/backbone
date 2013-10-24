@@ -1,5 +1,4 @@
-Peziza albocitrina Cooke SPECIES
-=======
+# Peziza albocitrina Cooke SPECIES
 
 #### Status
 ACCEPTED

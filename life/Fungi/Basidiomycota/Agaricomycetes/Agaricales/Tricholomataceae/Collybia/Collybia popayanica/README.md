@@ -1,5 +1,4 @@
-Collybia popayanica Halling SPECIES
-=======
+# Collybia popayanica Halling SPECIES
 
 #### Status
 ACCEPTED

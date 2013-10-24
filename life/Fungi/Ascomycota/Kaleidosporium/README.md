@@ -1,5 +1,4 @@
-Kaleidosporium Van Warmelo & B. Sutton GENUS
-=======
+# Kaleidosporium Van Warmelo & B. Sutton GENUS
 
 #### Status
 ACCEPTED

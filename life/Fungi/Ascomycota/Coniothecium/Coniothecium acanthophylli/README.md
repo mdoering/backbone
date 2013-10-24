@@ -1,5 +1,4 @@
-Coniothecium acanthophylli Massee SPECIES
-=======
+# Coniothecium acanthophylli Massee SPECIES
 
 #### Status
 ACCEPTED

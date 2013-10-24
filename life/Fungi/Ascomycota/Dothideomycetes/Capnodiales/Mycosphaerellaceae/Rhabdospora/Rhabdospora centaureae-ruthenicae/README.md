@@ -1,5 +1,4 @@
-Rhabdospora centaureae-ruthenicae Bubák & Wróbl. SPECIES
-=======
+# Rhabdospora centaureae-ruthenicae Bubák & Wróbl. SPECIES
 
 #### Status
 ACCEPTED

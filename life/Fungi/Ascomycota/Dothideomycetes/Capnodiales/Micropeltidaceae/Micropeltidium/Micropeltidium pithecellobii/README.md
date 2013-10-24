@@ -1,17 +1,16 @@
-Micropeltidium pithecolobii (Bat.) Bat. SPECIES
-=======
+# Micropeltidium pithecellobii (Bat.) Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Publções Inst. Micol. Recife 56: 274 (1959)
 
 #### Original name
-Micropeltis pithecolobii Bat.
+Micropeltis pithecellobii Bat.
 
 ### Remarks
 null

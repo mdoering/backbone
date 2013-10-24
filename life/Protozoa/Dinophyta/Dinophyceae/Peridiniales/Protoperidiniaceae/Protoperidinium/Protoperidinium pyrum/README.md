@@ -1,5 +1,4 @@
-Protoperidinium pyrum (Balech) Balech SPECIES
-=======
+# Protoperidinium pyrum (Balech) Balech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Scolecobasidium microspoum H.M. Liu & T.Y. Zhang SPECIES
-=======
+# Scolecobasidium microsporum H.M. Liu & T.Y. Zhang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycosystema 25(3): 387 (2006)
 
 #### Original name
-Scolecobasidium microspoum H.M. Liu & T.Y. Zhang
+Scolecobasidium microsporum H.M. Liu & T.Y. Zhang
 
 ### Remarks
 null

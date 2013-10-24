@@ -1,5 +1,4 @@
-Collemopsidiomyces GENUS
-=======
+# Collemopsidiomyces GENUS
 
 #### Status
 ACCEPTED

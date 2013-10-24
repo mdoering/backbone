@@ -1,5 +1,4 @@
-Colletotrichum milii Verpl. & Van den Broecke SPECIES
-=======
+# Colletotrichum milii Verpl. & Van den Broecke SPECIES
 
 #### Status
 ACCEPTED

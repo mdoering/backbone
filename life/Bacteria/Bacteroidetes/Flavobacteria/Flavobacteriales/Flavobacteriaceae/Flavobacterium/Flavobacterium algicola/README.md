@@ -1,5 +1,4 @@
-Flavobacterium algicola Miyashita, Fujimura, Nakagawa, Nishizawa, Tomizuka, Nakagawa, Nakagawa, 2010 SPECIES
-=======
+# Flavobacterium algicola Miyashita, Fujimura, Nakagawa, Nishizawa, Tomizuka, Nakagawa, Nakagawa, 2010 SPECIES
 
 #### Status
 ACCEPTED

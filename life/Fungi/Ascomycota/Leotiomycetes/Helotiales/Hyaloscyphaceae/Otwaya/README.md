@@ -1,5 +1,4 @@
-Otwaya G.W. Beaton GENUS
-=======
+# Otwaya G.W. Beaton GENUS
 
 #### Status
 ACCEPTED

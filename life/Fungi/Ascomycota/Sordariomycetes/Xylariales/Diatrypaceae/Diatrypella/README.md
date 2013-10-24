@@ -1,17 +1,16 @@
-Sphaerosperma Preuss, 1853 GENUS
-=======
+# Diatrypella (Cesati & De Notaris) De Notaris, 1863 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 25: 732 (1853)
+Sfer. Ital. 29 (1863)
 
 #### Original name
-Sphaerosperma Preuss, 1853
+null
 
 ### Remarks
 null

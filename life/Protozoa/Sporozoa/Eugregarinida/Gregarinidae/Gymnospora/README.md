@@ -1,5 +1,4 @@
-Gymnospora Moniez, 1886 GENUS
-=======
+# Gymnospora Moniez, 1886 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiognomonia myricae (Cooke & Ellis) Dennis SPECIES
-=======
+# Apiognomonia myricae (Cooke & Ellis) Dennis SPECIES
 
 #### Status
 ACCEPTED

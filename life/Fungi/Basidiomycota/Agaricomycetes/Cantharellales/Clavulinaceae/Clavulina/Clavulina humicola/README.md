@@ -1,5 +1,4 @@
-Clavulina humicola T.W. Henkel, Meszaros & Aime, 2005 SPECIES
-=======
+# Clavulina humicola T.W. Henkel, Meszaros & Aime, 2005 SPECIES
 
 #### Status
 ACCEPTED

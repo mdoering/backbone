@@ -1,5 +1,4 @@
-Agaricus semistriatus Vahl SPECIES
-=======
+# Agaricus semistriatus Vahl SPECIES
 
 #### Status
 ACCEPTED

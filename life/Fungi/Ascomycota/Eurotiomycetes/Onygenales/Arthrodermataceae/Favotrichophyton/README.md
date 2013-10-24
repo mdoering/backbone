@@ -1,5 +1,4 @@
-Favotrichophyton GENUS
-=======
+# Favotrichophyton GENUS
 
 #### Status
 ACCEPTED

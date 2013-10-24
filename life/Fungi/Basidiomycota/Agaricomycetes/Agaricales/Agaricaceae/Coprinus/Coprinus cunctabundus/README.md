@@ -1,5 +1,4 @@
-Coprinus cunctabundus Mont. SPECIES
-=======
+# Coprinus cunctabundus Mont. SPECIES
 
 #### Status
 ACCEPTED

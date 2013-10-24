@@ -1,5 +1,4 @@
-Helotium aesculi Velen. SPECIES
-=======
+# Helotium aesculi Velen. SPECIES
 
 #### Status
 ACCEPTED

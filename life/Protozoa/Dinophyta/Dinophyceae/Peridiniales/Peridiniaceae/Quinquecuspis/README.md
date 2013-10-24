@@ -1,5 +1,4 @@
-Quinquecuspis R.Harland, 1977 GENUS
-=======
+# Quinquecuspis R.Harland, 1977 GENUS
 
 #### Status
 ACCEPTED

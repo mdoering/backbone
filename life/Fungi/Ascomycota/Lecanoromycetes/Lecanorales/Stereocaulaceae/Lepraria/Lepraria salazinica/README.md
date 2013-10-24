@@ -1,5 +1,4 @@
-Lepraria salazinica Tønsberg SPECIES
-=======
+# Lepraria salazinica Tønsberg SPECIES
 
 #### Status
 ACCEPTED

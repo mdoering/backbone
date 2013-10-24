@@ -1,5 +1,4 @@
-Nectriella jucunda (Mont.) Sacc. SPECIES
-=======
+# Nectriella jucunda (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

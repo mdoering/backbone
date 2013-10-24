@@ -1,5 +1,4 @@
-Omphalia cyathoides (Bolton) Gray SPECIES
-=======
+# Omphalia cyathoides (Bolton) Gray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia propinqua SPECIES
-=======
+# Physcia propinqua SPECIES
 
 #### Status
 ACCEPTED

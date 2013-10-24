@@ -1,5 +1,4 @@
-Stigonema mesentericum Geitler SPECIES
-=======
+# Stigonema mesentericum Geitler SPECIES
 
 #### Status
 ACCEPTED

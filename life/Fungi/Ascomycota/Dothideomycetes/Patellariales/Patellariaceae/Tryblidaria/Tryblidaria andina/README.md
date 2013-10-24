@@ -1,5 +1,4 @@
-Tryblidaria andina (Speg.) Rosato SPECIES
-=======
+# Tryblidaria andina (Speg.) Rosato SPECIES
 
 #### Status
 ACCEPTED

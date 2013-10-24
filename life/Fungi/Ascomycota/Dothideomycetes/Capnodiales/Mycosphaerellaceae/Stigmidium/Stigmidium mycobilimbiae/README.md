@@ -1,5 +1,4 @@
-Stigmidium mycobilimbiae Cl. Roux, Triebel & Etayo, 1994 SPECIES
-=======
+# Stigmidium mycobilimbiae Cl. Roux, Triebel & Etayo, 1994 SPECIES
 
 #### Status
 ACCEPTED

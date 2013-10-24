@@ -1,5 +1,4 @@
-Biatora sublugens Hepp SPECIES
-=======
+# Biatora sublugens Hepp SPECIES
 
 #### Status
 ACCEPTED

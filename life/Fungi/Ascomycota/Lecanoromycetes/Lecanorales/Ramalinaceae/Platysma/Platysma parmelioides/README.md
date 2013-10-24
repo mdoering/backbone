@@ -1,5 +1,4 @@
-Platysma parmelioides B. de Lesd. SPECIES
-=======
+# Platysma parmelioides B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

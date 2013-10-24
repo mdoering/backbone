@@ -1,5 +1,4 @@
-Peziza polytrichi Rabenh. SPECIES
-=======
+# Peziza polytrichi Rabenh. SPECIES
 
 #### Status
 ACCEPTED

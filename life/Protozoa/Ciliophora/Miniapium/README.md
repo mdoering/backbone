@@ -1,5 +1,4 @@
-Miniapium Banina in Banina, Voronin, Donets, Issi, Khaibulaev, Shmein, Shulman & Yankovskij, 1984 GENUS
-=======
+# Miniapium Banina in Banina, Voronin, Donets, Issi, Khaibulaev, Shmein, Shulman & Yankovskij, 1984 GENUS
 
 #### Status
 ACCEPTED

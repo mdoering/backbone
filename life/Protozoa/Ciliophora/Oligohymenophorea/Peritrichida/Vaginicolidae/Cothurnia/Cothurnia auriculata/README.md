@@ -1,5 +1,4 @@
-Cothurnia auriculata SPECIES
-=======
+# Cothurnia auriculata SPECIES
 
 #### Status
 ACCEPTED

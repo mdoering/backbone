@@ -1,5 +1,4 @@
-Micropeltis lagunensis Bat. & Peres SPECIES
-=======
+# Micropeltis lagunensis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

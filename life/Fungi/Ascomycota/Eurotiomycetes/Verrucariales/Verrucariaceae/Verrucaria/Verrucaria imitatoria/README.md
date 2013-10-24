@@ -1,5 +1,4 @@
-Verrucaria imitatoria Servít SPECIES
-=======
+# Verrucaria imitatoria Servít SPECIES
 
 #### Status
 ACCEPTED

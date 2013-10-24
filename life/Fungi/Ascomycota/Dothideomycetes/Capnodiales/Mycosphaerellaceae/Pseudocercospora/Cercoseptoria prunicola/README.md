@@ -1,5 +1,4 @@
-Cercoseptoria prunicola (Ellis & Everh.) J.M. Yen SPECIES
-=======
+# Cercoseptoria prunicola (Ellis & Everh.) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

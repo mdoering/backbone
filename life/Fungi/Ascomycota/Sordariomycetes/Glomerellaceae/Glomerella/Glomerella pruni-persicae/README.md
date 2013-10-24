@@ -1,5 +1,4 @@
-Glomerella pruni-persicae Yamam. {?} SPECIES
-=======
+# Glomerella pruni-persicae Yamam. {?} SPECIES
 
 #### Status
 ACCEPTED

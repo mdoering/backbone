@@ -1,5 +1,4 @@
-Stannophyllum mollum Tendal, 1972 SPECIES
-=======
+# Stannophyllum mollum Tendal, 1972 SPECIES
 
 #### Status
 ACCEPTED

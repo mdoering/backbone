@@ -1,14 +1,13 @@
-Diploicia cacuminum A. Massal. SPECIES
-=======
+# Lepraria cacuminum (A. Massal.) Kümmerl. & Leuckert SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symm. Lich. Nov. 52 (1855)
+in Leuckert, Kümmerling & Wirth, Biblthca Lichenol. 58: 252 (1995)
 
 #### Original name
 Diploicia cacuminum A. Massal.

@@ -1,5 +1,4 @@
-Fusidomus moricola Grove SPECIES
-=======
+# Fusidomus moricola Grove SPECIES
 
 #### Status
 ACCEPTED

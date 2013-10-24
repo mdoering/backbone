@@ -1,8 +1,7 @@
-Xenococcus chroococcoides F.E. Fritsch SPECIES
-=======
+# Chroococcopsis chroococcoides (Fritsch) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

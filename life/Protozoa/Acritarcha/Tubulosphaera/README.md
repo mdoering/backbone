@@ -1,5 +1,4 @@
-Tubulosphaera Palacios in Palacios & Moczydlowska, 1998 GENUS
-=======
+# Tubulosphaera Palacios in Palacios & Moczydlowska, 1998 GENUS
 
 #### Status
 ACCEPTED

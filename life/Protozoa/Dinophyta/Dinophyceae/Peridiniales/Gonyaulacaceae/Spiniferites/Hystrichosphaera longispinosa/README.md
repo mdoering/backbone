@@ -1,5 +1,4 @@
-Hystrichosphaera longispinosa (Eisenack, 1931) Wetzel, 1932 SPECIES
-=======
+# Hystrichosphaera longispinosa (Eisenack, 1931) Wetzel, 1932 SPECIES
 
 #### Status
 DOUBTFUL

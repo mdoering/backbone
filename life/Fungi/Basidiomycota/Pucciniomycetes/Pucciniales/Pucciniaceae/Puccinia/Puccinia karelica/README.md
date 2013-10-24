@@ -1,5 +1,4 @@
-Puccinia karelica subsp. laurentina Savile SUBSPECIES
-=======
+# Puccinia karelica Tranzschel SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Trav. Mus. Bot. Acad. Sci. St. Petersburg 2: 16 (1905)
 
 #### Original name
-Puccinia karelica subsp. laurentina Savile
+Puccinia karelica Tranzschel
 
 ### Remarks
 null

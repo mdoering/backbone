@@ -1,5 +1,4 @@
-Humaria carpoboloides (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Humaria carpoboloides (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

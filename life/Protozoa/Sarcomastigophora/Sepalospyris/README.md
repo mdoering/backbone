@@ -1,5 +1,4 @@
-Sepalospyris Haeckel, 1881 GENUS
-=======
+# Sepalospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

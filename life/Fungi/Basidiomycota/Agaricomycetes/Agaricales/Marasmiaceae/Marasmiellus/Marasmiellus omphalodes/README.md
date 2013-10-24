@@ -1,5 +1,4 @@
-Marasmiellus omphalodes (Berk.) Singer SPECIES
-=======
+# Marasmiellus omphalodes (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

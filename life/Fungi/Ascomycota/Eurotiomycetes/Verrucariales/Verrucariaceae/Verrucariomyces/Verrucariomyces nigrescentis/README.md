@@ -1,5 +1,4 @@
-Verrucariomyces nigrescentis Werner SPECIES
-=======
+# Verrucariomyces nigrescentis Werner SPECIES
 
 #### Status
 ACCEPTED

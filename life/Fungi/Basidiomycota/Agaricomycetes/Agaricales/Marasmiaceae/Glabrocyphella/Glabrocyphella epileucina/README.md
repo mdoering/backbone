@@ -1,17 +1,16 @@
-Cyphella epileuca Berk. & M.A. Curtis, 1860 SPECIES
-=======
+# Glabrocyphella epileucina (Sacc.) W.B. Cooke, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 4: 124 (1860)
+Beih. Sydowia 4: 48 (1961)
 
 #### Original name
-Cyphella epileuca Berk. & M.A. Curtis, 1860
+Cyphella epileucina Sacc., 1888
 
 ### Remarks
 null

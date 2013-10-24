@@ -1,5 +1,4 @@
-Polyporus intercalaris Berk. & Cooke SPECIES
-=======
+# Polyporus intercalaris Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

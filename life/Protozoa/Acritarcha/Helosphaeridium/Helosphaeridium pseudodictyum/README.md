@@ -1,5 +1,4 @@
-Helosphaeridium pseudodictyum Lister, 1970 SPECIES
-=======
+# Helosphaeridium pseudodictyum Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

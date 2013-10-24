@@ -1,5 +1,4 @@
-Halobacillus aidingensis Liu et al., 2005 SPECIES
-=======
+# Halobacillus aidingensis Liu et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

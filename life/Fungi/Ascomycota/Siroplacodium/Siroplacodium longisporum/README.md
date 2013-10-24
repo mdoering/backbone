@@ -1,5 +1,4 @@
-Siroplacodium longisporum Petr., 1958 SPECIES
-=======
+# Siroplacodium longisporum Petr., 1958 SPECIES
 
 #### Status
 ACCEPTED

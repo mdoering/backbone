@@ -1,5 +1,4 @@
-Lepiota elaiophylla Vellinga & Huijser SPECIES
-=======
+# Lepiota elaiophylla Vellinga & Huijser SPECIES
 
 #### Status
 ACCEPTED

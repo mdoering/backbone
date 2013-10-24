@@ -1,5 +1,4 @@
-Dithelopsis subporinella (Nyl.) Clem. SPECIES
-=======
+# Dithelopsis subporinella (Nyl.) Clem. SPECIES
 
 #### Status
 ACCEPTED

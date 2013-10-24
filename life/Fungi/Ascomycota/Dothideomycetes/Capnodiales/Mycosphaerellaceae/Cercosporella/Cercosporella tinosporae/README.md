@@ -1,5 +1,4 @@
-Cercosporella tinosporae (Lacy & Thirum.) Deighton SPECIES
-=======
+# Cercosporella tinosporae (Lacy & Thirum.) Deighton SPECIES
 
 #### Status
 ACCEPTED

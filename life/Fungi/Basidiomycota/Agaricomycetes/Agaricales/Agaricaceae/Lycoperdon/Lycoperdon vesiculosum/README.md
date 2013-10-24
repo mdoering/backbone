@@ -1,5 +1,4 @@
-Lycoperdon vesiculosum Batsch SPECIES
-=======
+# Lycoperdon vesiculosum Batsch SPECIES
 
 #### Status
 ACCEPTED

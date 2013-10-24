@@ -1,5 +1,4 @@
-Poculum mahoniae Dumont SPECIES
-=======
+# Poculum mahoniae Dumont SPECIES
 
 #### Status
 ACCEPTED

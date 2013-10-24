@@ -1,5 +1,4 @@
-Passalora merremiae (X.J. Liu & Y.L. Guo) U. Braun & Crous SPECIES
-=======
+# Passalora merremiae (X.J. Liu & Y.L. Guo) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

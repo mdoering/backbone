@@ -1,5 +1,4 @@
-Pistillaria attenuata Syd. & P. Syd. SPECIES
-=======
+# Pistillaria attenuata Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

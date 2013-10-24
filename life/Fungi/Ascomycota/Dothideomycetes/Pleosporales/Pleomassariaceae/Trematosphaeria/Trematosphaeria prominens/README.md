@@ -1,5 +1,4 @@
-Trematosphaeria prominens Sacc. & Trotter SPECIES
-=======
+# Trematosphaeria prominens Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

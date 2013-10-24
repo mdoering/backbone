@@ -1,5 +1,4 @@
-Triloculina subcylindrica Zheng, 1988 SPECIES
-=======
+# Triloculina subcylindrica Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

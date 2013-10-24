@@ -1,5 +1,4 @@
-Lecanora perconfusa Printzen SPECIES
-=======
+# Lecanora perconfusa Printzen SPECIES
 
 #### Status
 ACCEPTED

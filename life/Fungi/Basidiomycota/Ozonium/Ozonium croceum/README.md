@@ -1,5 +1,4 @@
-Ozonium croceum (Kunze) Pers. SPECIES
-=======
+# Ozonium croceum (Kunze) Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeophyscia hirtella Essl. SPECIES
-=======
+# Phaeophyscia hirtella Essl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Fusicoccum arbuti D.F. Farr & M. Elliott, 2005 SPECIES
-=======
+# Neofusicoccum arbuti (D.F. Farr & M. Elliott) Crous, Slippers & A.J.L. Phillips, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 97(3): 731 (2005)
+in Crous, Slippers, Wingfield, Rheeder, Marasas, Phillips, Alves, Burgess, Barber & Groenewald, Stud. Mycol. 55: 248 (2006)
 
 #### Original name
 Fusicoccum arbuti D.F. Farr & M. Elliott, 2005

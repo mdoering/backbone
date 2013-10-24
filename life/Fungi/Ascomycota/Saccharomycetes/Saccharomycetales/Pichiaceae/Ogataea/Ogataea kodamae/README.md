@@ -1,17 +1,16 @@
-Pichia kodamae Van der Walt & Yarrow, 1982 SPECIES
-=======
+# Ogataea kodamae (Van der Walt & Yarrow) Mikata & Y. Yamada, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Res. Commun. , Inst. Ferm. , Osaka 17: 100 (1995)
 
 #### Original name
-null
+Pichia kodamae Van der Walt & Yarrow, 1982
 
 ### Remarks
 null

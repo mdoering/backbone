@@ -1,17 +1,16 @@
-Fuscopannaria atlantica P. M. Jørg. & P. James SPECIES
-=======
+# Vahliella atlantica (P. M. Jørg. & P. James) P. M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 40(3): 223 (2008)
 
 #### Original name
-null
+Fuscopannaria atlantica P. M. Jørg. & P. James
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aleurodiscus subglobosporus Ginns & Bandoni, 1991 SPECIES
-=======
+# Aleurodiscus subglobosporus Ginns & Bandoni, 1991 SPECIES
 
 #### Status
 ACCEPTED

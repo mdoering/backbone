@@ -1,5 +1,4 @@
-Lichen vulvella Ach. SPECIES
-=======
+# Lichen vulvella Ach. SPECIES
 
 #### Status
 ACCEPTED

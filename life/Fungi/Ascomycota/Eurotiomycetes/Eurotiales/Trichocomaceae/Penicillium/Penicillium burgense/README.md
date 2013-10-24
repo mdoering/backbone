@@ -1,5 +1,4 @@
-Penicillium burgense Quintan. SPECIES
-=======
+# Penicillium burgense Quintan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cannartidella Haeckel, 1887 GENUS
-=======
+# Cannartidella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

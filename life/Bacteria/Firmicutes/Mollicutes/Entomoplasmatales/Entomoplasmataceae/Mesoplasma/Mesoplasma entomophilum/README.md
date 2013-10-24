@@ -1,8 +1,7 @@
-Acholeplasma entomophilum Tully et al., 1988 SPECIES
-=======
+# Mesoplasma entomophilum (Tully et al., 1988) Tully et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

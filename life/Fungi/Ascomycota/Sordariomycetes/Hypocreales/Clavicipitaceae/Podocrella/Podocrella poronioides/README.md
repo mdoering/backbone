@@ -1,17 +1,16 @@
-Podocrella poronoides Seaver SPECIES
-=======
+# Podocrella poronioides Seaver, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 20(2): 57 (1928)
 
 #### Original name
-Podocrella poronoides Seaver
+Podocrella poronioides Seaver, 1928
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chamaeceras velutipes (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras velutipes (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

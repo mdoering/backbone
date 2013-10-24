@@ -1,5 +1,4 @@
-Massalongiella pleurostoma Starbäck SPECIES
-=======
+# Massalongiella pleurostoma Starbäck SPECIES
 
 #### Status
 ACCEPTED

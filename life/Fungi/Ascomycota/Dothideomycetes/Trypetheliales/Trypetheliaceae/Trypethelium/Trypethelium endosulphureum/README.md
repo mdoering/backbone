@@ -1,5 +1,4 @@
-Trypethelium endosulphureum Makhija & Patw. SPECIES
-=======
+# Trypethelium endosulphureum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

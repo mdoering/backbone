@@ -1,5 +1,4 @@
-Leptonia bizzozeriana Sacc. SPECIES
-=======
+# Leptonia bizzozeriana Sacc. SPECIES
 
 #### Status
 ACCEPTED

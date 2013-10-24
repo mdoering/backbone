@@ -1,5 +1,4 @@
-Thecacapsula Tikhomirova, 1983 GENUS
-=======
+# Thecacapsula Tikhomirova, 1983 GENUS
 
 #### Status
 ACCEPTED

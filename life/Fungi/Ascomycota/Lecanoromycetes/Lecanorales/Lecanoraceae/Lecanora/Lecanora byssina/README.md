@@ -1,5 +1,4 @@
-Lecanora byssina Hook. SPECIES
-=======
+# Lecanora byssina Hook. SPECIES
 
 #### Status
 ACCEPTED

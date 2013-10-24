@@ -1,5 +1,4 @@
-Ceratomyces selinae Thaxt. SPECIES
-=======
+# Ceratomyces selinae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

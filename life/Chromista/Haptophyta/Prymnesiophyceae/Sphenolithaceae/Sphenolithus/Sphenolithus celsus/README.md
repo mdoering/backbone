@@ -1,5 +1,4 @@
-Sphenolithus celsus Haq, 1971 SPECIES
-=======
+# Sphenolithus celsus Haq, 1971 SPECIES
 
 #### Status
 ACCEPTED

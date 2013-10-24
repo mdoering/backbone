@@ -1,5 +1,4 @@
-Karenia mikimotoi (Miyake & Kominami ex Oda) G. Hansen & Ø. Moestrup SPECIES
-=======
+# Karenia mikimotoi (Miyake & Kominami ex Oda) G. Hansen & Ø. Moestrup SPECIES
 
 #### Status
 ACCEPTED

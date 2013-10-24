@@ -1,5 +1,4 @@
-Planistromella A.W. Ramaley GENUS
-=======
+# Planistromella A.W. Ramaley GENUS
 
 #### Status
 ACCEPTED

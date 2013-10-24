@@ -1,5 +1,4 @@
-Phaeomarasmius gigasporus (Cooke & Massee) Pegler SPECIES
-=======
+# Phaeomarasmius gigasporus (Cooke & Massee) Pegler SPECIES
 
 #### Status
 ACCEPTED

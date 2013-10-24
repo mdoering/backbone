@@ -1,5 +1,4 @@
-Psilonia GENUS
-=======
+# Psilonia GENUS
 
 #### Status
 ACCEPTED

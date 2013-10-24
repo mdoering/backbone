@@ -1,5 +1,4 @@
-Puccinia carnegiana Arthur SPECIES
-=======
+# Puccinia carnegiana Arthur SPECIES
 
 #### Status
 ACCEPTED

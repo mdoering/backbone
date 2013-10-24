@@ -1,5 +1,4 @@
-Leptosphaera Haeckel, 1887 GENUS
-=======
+# Leptosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

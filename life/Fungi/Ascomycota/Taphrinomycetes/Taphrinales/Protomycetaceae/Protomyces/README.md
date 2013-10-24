@@ -1,5 +1,4 @@
-Protomyces Unger, 1832 GENUS
-=======
+# Protomyces Unger, 1832 GENUS
 
 #### Status
 ACCEPTED

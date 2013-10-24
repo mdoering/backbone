@@ -1,5 +1,4 @@
-Dictyochorina Chardón GENUS
-=======
+# Dictyochorina Chardón GENUS
 
 #### Status
 ACCEPTED

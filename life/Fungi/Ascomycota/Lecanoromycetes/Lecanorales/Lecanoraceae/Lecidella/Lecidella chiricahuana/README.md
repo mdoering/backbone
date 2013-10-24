@@ -1,5 +1,4 @@
-Lecidella chiricahuana Knoph & Leuckert SPECIES
-=======
+# Lecidella chiricahuana Knoph & Leuckert SPECIES
 
 #### Status
 ACCEPTED

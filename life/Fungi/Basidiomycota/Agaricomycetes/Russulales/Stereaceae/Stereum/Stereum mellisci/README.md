@@ -1,5 +1,4 @@
-Stereum mellisci SPECIES
-=======
+# Stereum mellisci SPECIES
 
 #### Status
 ACCEPTED

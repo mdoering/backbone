@@ -1,5 +1,4 @@
-Volvariella fibrillosa (Bres. ex Rick) Singer SPECIES
-=======
+# Volvariella fibrillosa (Bres. ex Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

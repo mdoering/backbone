@@ -1,14 +1,13 @@
-Corticium separatum H.S. Jacks. & Dearden, 1949 SPECIES
-=======
+# Phlebia separata (H.S. Jacks. & Dearden) Parmasto, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Canadian Journal of Research, Section C 27: 154 (1949)
+Eesti NSV Tead. Akad. Toim. , Biol. seer 16(4): 393 (1967)
 
 #### Original name
 Corticium separatum H.S. Jacks. & Dearden, 1949

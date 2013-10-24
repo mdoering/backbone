@@ -1,5 +1,4 @@
-Asteromyces cruciatus Moreau & M. Moreau ex Hennebert, 1962 SPECIES
-=======
+# Asteromyces cruciatus Moreau & M. Moreau ex Hennebert, 1962 SPECIES
 
 #### Status
 ACCEPTED

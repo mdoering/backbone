@@ -1,5 +1,4 @@
-Palaiosphaeridium kamax Rasul, 1977 SPECIES
-=======
+# Palaiosphaeridium kamax Rasul, 1977 SPECIES
 
 #### Status
 ACCEPTED

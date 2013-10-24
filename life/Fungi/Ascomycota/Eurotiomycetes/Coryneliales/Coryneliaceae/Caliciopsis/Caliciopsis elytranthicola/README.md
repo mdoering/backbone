@@ -1,5 +1,4 @@
-Caliciopsis elytranthicola Hansf. SPECIES
-=======
+# Caliciopsis elytranthicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

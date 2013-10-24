@@ -1,5 +1,4 @@
-Bovista capensis (Fr.) J.C. Coetzee & A.E. van Wyk SPECIES
-=======
+# Bovista capensis (Fr.) J.C. Coetzee & A.E. van Wyk SPECIES
 
 #### Status
 ACCEPTED

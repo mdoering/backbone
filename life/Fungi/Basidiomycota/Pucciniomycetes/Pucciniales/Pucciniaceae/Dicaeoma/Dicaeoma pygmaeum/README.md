@@ -1,5 +1,4 @@
-Dicaeoma pygmaeum (Erikss.) Arthur & Fromme SPECIES
-=======
+# Dicaeoma pygmaeum (Erikss.) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

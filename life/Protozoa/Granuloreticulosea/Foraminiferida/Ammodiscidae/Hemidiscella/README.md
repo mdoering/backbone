@@ -1,5 +1,4 @@
-Hemidiscella Bock, 1968 GENUS
-=======
+# Hemidiscella Bock, 1968 GENUS
 
 #### Status
 ACCEPTED

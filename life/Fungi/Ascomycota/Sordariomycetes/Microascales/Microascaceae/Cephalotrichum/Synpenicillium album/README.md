@@ -1,5 +1,4 @@
-Synpenicillium album Costantin SPECIES
-=======
+# Synpenicillium album Costantin SPECIES
 
 #### Status
 ACCEPTED

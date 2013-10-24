@@ -1,5 +1,4 @@
-Diorygma grammitis Eschw. SPECIES
-=======
+# Diorygma grammitis Eschw. SPECIES
 
 #### Status
 ACCEPTED

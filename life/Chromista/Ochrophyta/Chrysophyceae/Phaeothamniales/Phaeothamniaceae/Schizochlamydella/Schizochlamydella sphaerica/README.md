@@ -1,5 +1,4 @@
-Schizochlamydella sphaerica S. Watanabe SPECIES
-=======
+# Schizochlamydella sphaerica S. Watanabe SPECIES
 
 #### Status
 ACCEPTED

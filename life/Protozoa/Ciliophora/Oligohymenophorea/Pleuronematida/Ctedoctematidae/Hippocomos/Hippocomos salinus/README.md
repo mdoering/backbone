@@ -1,5 +1,4 @@
-Hippocomos salinus Small & Lynn, 1985 SPECIES
-=======
+# Hippocomos salinus Small & Lynn, 1985 SPECIES
 
 #### Status
 ACCEPTED

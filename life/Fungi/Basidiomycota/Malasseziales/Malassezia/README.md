@@ -1,17 +1,16 @@
-Pityrosporum Sabour. GENUS
-=======
+# Malassezia Baillon, 1889 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Maladies Chevelu; II Les Maladies Desquamatives (1904)
+null
 
 #### Original name
-Pityrosporum Sabour.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ceratostomella trichina (Pers.) Sacc. SPECIES
-=======
+# Ceratostomella trichina (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

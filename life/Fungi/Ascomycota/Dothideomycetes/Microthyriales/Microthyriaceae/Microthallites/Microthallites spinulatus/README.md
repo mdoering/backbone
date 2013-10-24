@@ -1,5 +1,4 @@
-Microthallites spinulatus Dilcher SPECIES
-=======
+# Microthallites spinulatus Dilcher SPECIES
 
 #### Status
 ACCEPTED

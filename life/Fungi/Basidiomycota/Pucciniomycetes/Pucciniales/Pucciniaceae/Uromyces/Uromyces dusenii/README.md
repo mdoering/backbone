@@ -1,5 +1,4 @@
-Uromyces dusenii Dietel & Neger SPECIES
-=======
+# Uromyces dusenii Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

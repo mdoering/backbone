@@ -1,5 +1,4 @@
-Stereum sarmienti Speg. SPECIES
-=======
+# Stereum sarmienti Speg. SPECIES
 
 #### Status
 ACCEPTED

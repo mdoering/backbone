@@ -1,5 +1,4 @@
-Farysia longispora Vánky & McKenzie, 2009 SPECIES
-=======
+# Farysia longispora Vánky & McKenzie, 2009 SPECIES
 
 #### Status
 ACCEPTED

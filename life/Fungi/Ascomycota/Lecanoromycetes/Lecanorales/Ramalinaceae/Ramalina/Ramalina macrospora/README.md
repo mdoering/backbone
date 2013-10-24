@@ -1,5 +1,4 @@
-Ramalina macrospora Kashiw. SPECIES
-=======
+# Ramalina macrospora Kashiw. SPECIES
 
 #### Status
 ACCEPTED

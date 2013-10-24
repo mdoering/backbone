@@ -1,5 +1,4 @@
-Beverwykella cerebriformis Nawawi & Kuthub. SPECIES
-=======
+# Beverwykella cerebriformis Nawawi & Kuthub. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Seismosarca tomentosa Olive SPECIES
-=======
+# Seismosarca tomentosa Olive SPECIES
 
 #### Status
 ACCEPTED

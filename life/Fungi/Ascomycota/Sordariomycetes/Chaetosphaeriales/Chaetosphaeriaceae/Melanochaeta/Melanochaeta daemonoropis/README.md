@@ -1,17 +1,16 @@
-Melanochaeta daemonoropsis J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Melanochaeta daemonoropis J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungal Diversity Res. Ser. (Hong Kong) 3: 235 (2000)
 
 #### Original name
-Melanochaeta daemonoropsis J. Fröhl. & K.D. Hyde
+Melanochaeta daemonoropis J. Fröhl. & K.D. Hyde
 
 ### Remarks
 null

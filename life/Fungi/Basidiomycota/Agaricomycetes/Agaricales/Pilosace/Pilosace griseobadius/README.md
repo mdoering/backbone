@@ -1,5 +1,4 @@
-Pilosace griseobadius (Pat.) Kuntze SPECIES
-=======
+# Pilosace griseobadius (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

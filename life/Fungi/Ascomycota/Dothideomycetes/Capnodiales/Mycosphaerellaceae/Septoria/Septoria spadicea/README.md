@@ -1,5 +1,4 @@
-Septoria spadicea F. Patt. & Charles SPECIES
-=======
+# Septoria spadicea F. Patt. & Charles SPECIES
 
 #### Status
 ACCEPTED

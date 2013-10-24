@@ -1,5 +1,4 @@
-Trichocladia golovinii Domashova SPECIES
-=======
+# Trichocladia golovinii Domashova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongoplegma Haeckel, 1881 GENUS
-=======
+# Spongoplegma Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

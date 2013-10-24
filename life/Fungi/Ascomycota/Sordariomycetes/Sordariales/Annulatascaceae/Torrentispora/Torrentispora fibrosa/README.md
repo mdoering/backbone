@@ -1,5 +1,4 @@
-Torrentispora fibrosa K.D. Hyde, Wai H. Ho, E.B.G. Jones, K.M. Tsui & S.W. Wong, 2000 SPECIES
-=======
+# Torrentispora fibrosa K.D. Hyde, Wai H. Ho, E.B.G. Jones, K.M. Tsui & S.W. Wong, 2000 SPECIES
 
 #### Status
 ACCEPTED

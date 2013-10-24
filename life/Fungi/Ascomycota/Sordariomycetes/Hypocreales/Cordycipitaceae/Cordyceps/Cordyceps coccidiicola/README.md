@@ -1,5 +1,4 @@
-Cordyceps coccidiicola Kobayasi SPECIES
-=======
+# Cordyceps coccidiicola Kobayasi SPECIES
 
 #### Status
 ACCEPTED

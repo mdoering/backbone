@@ -1,5 +1,4 @@
-Cothurnia minutissima (Penard, 1914) Kahl, 1935 SPECIES
-=======
+# Cothurnia minutissima (Penard, 1914) Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

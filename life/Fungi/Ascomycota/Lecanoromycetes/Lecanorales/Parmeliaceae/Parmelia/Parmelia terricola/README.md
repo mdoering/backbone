@@ -1,5 +1,4 @@
-Parmelia terricola J. Steiner & Zahlbr. SPECIES
-=======
+# Parmelia terricola J. Steiner & Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

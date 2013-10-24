@@ -1,5 +1,4 @@
-Pyxine endocrocea Kalb SPECIES
-=======
+# Pyxine endocrocea Kalb SPECIES
 
 #### Status
 ACCEPTED

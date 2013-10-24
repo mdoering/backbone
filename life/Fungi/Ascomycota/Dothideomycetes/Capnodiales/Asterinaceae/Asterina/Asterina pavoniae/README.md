@@ -1,5 +1,4 @@
-Asterina pavoniae Werderm. SPECIES
-=======
+# Asterina pavoniae Werderm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurocyclus stechlinensis S. Casper & W. Scheffler SPECIES
-=======
+# Pleurocyclus stechlinensis S. Casper & W. Scheffler SPECIES
 
 #### Status
 ACCEPTED

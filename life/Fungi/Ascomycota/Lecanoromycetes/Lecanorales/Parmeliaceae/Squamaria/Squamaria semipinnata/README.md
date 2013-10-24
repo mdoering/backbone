@@ -1,5 +1,4 @@
-Squamaria semipinnata SPECIES
-=======
+# Squamaria semipinnata SPECIES
 
 #### Status
 ACCEPTED

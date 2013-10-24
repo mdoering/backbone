@@ -1,5 +1,4 @@
-Blepharisma bothrostoma Stokes, 1887 SPECIES
-=======
+# Blepharisma bothrostoma Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

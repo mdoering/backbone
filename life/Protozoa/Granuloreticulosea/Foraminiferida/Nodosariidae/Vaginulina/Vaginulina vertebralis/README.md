@@ -1,5 +1,4 @@
-Vaginulina vertebralis Parr, 1932 SPECIES
-=======
+# Vaginulina vertebralis Parr, 1932 SPECIES
 
 #### Status
 ACCEPTED

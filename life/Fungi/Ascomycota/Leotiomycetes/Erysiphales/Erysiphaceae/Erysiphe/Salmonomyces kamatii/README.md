@@ -1,5 +1,4 @@
-Salmonomyces kamatii Chidd. SPECIES
-=======
+# Salmonomyces kamatii Chidd. SPECIES
 
 #### Status
 ACCEPTED

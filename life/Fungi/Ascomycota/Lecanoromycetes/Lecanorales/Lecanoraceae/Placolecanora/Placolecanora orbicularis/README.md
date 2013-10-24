@@ -1,5 +1,4 @@
-Placolecanora orbicularis (Schaer.) Kopach. SPECIES
-=======
+# Placolecanora orbicularis (Schaer.) Kopach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora favorum (Berk. & Broome) Sacc. & Voglino SPECIES
-=======
+# Oospora favorum (Berk. & Broome) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

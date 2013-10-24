@@ -1,5 +1,4 @@
-Dothidea rugulosa Cooke SPECIES
-=======
+# Dothidea rugulosa Cooke SPECIES
 
 #### Status
 ACCEPTED

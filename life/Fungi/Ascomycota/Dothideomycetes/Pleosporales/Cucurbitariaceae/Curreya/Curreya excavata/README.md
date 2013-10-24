@@ -1,5 +1,4 @@
-Curreya excavata (Cooke & Ellis) Sacc. SPECIES
-=======
+# Curreya excavata (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

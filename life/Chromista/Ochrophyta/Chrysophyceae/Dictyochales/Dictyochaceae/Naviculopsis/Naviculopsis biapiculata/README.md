@@ -1,5 +1,4 @@
-Naviculopsis biapiculata var. constricta (Schulz) Glezer VARIETY
-=======
+# Naviculopsis biapiculata (Lemmermann) Frenguelli SPECIES
 
 #### Status
 ACCEPTED

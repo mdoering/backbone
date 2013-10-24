@@ -1,5 +1,4 @@
-Laboulbenia bonariensis Thaxt. SPECIES
-=======
+# Laboulbenia bonariensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

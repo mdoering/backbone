@@ -1,5 +1,4 @@
-Gnomoniella abortiva M. Monod SPECIES
-=======
+# Gnomoniella abortiva M. Monod SPECIES
 
 #### Status
 ACCEPTED

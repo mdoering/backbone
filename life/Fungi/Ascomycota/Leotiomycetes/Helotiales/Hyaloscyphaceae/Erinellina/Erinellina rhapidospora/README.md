@@ -1,5 +1,4 @@
-Erinellina rhapidospora (Ellis) Seaver SPECIES
-=======
+# Erinellina rhapidospora (Ellis) Seaver SPECIES
 
 #### Status
 ACCEPTED

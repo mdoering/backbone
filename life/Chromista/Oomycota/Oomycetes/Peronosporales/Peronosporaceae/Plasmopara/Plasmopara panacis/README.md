@@ -1,5 +1,4 @@
-Plasmopara panacis Bunkina ex Bondartsev & Bunkina SPECIES
-=======
+# Plasmopara panacis Bunkina ex Bondartsev & Bunkina SPECIES
 
 #### Status
 ACCEPTED

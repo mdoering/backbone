@@ -1,5 +1,4 @@
-Hyaloscypha longevestita Velen. SPECIES
-=======
+# Hyaloscypha longevestita Velen. SPECIES
 
 #### Status
 ACCEPTED

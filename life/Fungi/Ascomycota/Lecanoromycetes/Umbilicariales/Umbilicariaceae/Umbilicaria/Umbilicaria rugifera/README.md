@@ -1,5 +1,4 @@
-Umbilicaria rugifera var. rugifera VARIETY
-=======
+# Umbilicaria rugifera Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Umbilicaria rugifera var. rugifera
+Umbilicaria rugifera Nyl.
 
 ### Remarks
 null

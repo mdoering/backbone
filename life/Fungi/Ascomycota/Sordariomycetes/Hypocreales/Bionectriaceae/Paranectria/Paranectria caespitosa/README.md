@@ -1,5 +1,4 @@
-Paranectria caespitosa Speg. SPECIES
-=======
+# Paranectria caespitosa Speg. SPECIES
 
 #### Status
 ACCEPTED

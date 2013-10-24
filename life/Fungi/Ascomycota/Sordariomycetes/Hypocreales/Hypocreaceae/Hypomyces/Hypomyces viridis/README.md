@@ -1,14 +1,13 @@
-Peckiella viridis (Alb. & Schwein.) Sacc., 1891 SPECIES
-=======
+# Hypomyces viridis (Alb. & Schwein.) P. Karst., 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 9: 944 (1891)
+Mycoth. fenn. (Helsinki) 2: 211 (1873)
 
 #### Original name
 Sphaeria viridis Alb. & Schwein., 1805

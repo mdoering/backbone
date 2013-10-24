@@ -1,5 +1,4 @@
-Peziza echinophora Donadini SPECIES
-=======
+# Peziza echinophora Donadini SPECIES
 
 #### Status
 ACCEPTED

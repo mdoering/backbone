@@ -1,5 +1,4 @@
-Dicaeoma prainianum (Barclay) Kuntze SPECIES
-=======
+# Dicaeoma prainianum (Barclay) Kuntze SPECIES
 
 #### Status
 ACCEPTED

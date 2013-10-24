@@ -1,5 +1,4 @@
-Porina cannareana Bat. & J.A. Lima SPECIES
-=======
+# Porina cannareana Bat. & J.A. Lima SPECIES
 
 #### Status
 ACCEPTED

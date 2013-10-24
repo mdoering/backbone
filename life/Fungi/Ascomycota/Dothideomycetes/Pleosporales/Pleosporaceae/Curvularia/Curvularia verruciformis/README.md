@@ -1,17 +1,16 @@
-Curvularia verruciformis var. verruciformis VARIETY
-=======
+# Curvularia verruciformis G.P. Agarwal & V.P. Sahni, 1963 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Curr. Sci. 32: 277 (1963)
 
 #### Original name
-Curvularia verruciformis var. verruciformis
+Curvularia verruciformis G.P. Agarwal & V.P. Sahni, 1963
 
 ### Remarks
 null

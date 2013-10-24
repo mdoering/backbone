@@ -1,5 +1,4 @@
-Buellia pulverea Coppins & P. James SPECIES
-=======
+# Buellia pulverea Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

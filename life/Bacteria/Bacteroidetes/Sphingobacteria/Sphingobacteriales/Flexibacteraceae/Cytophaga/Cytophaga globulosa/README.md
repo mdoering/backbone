@@ -1,5 +1,4 @@
-Cytophaga globulosa SPECIES
-=======
+# Cytophaga globulosa SPECIES
 
 #### Status
 ACCEPTED

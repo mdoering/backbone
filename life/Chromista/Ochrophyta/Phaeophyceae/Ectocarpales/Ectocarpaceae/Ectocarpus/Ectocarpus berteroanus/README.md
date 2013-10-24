@@ -1,5 +1,4 @@
-Ectocarpus berteroanus Montagne, 1852 SPECIES
-=======
+# Ectocarpus berteroanus Montagne, 1852 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynespora queenslandica B. Sutton & Pascoe SPECIES
-=======
+# Corynespora queenslandica B. Sutton & Pascoe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elsinoë dolichi Jenkins, Bitanc. & C.C. Cheo SPECIES
-=======
+# Elsinoë dolichi Jenkins, Bitanc. & C.C. Cheo SPECIES
 
 #### Status
 ACCEPTED

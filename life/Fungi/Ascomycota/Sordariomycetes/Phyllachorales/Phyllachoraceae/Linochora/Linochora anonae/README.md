@@ -1,5 +1,4 @@
-Linochora anonae (Speg.) Höhn. SPECIES
-=======
+# Linochora anonae (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massarina spartii Pass. SPECIES
-=======
+# Massarina spartii Pass. SPECIES
 
 #### Status
 ACCEPTED

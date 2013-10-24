@@ -1,5 +1,4 @@
-Pleospora malacospora Speg. SPECIES
-=======
+# Pleospora malacospora Speg. SPECIES
 
 #### Status
 ACCEPTED

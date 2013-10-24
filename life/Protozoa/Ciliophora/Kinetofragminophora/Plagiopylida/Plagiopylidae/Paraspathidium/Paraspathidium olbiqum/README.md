@@ -1,5 +1,4 @@
-Paraspathidium olbiqum Dragesco, 1963 SPECIES
-=======
+# Paraspathidium olbiqum Dragesco, 1963 SPECIES
 
 #### Status
 ACCEPTED

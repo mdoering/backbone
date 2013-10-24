@@ -1,5 +1,4 @@
-Erioderma pulchrum Müll. Arg. SPECIES
-=======
+# Erioderma pulchrum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

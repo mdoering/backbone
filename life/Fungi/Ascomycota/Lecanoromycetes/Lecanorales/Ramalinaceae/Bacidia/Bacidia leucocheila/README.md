@@ -1,5 +1,4 @@
-Bacidia leucocheila Tuck. SPECIES
-=======
+# Bacidia leucocheila Tuck. SPECIES
 
 #### Status
 ACCEPTED

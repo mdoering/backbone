@@ -1,5 +1,4 @@
-Renatobasidium Hauerslev, 1993 GENUS
-=======
+# Renatobasidium Hauerslev, 1993 GENUS
 
 #### Status
 ACCEPTED

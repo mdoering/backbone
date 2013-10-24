@@ -1,17 +1,16 @@
-Cephalosporium gramineum Y. Nisik. & Ikata, 1934 SPECIES
-=======
+# Hymenula cerealis Ellis & Everh., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. Ohara Inst. Landwirt. Fursch. 6(2): 275 (1934)
+Proc. Acad. nat. Sci. Philad. , 1894 46: 386 (1894)
 
 #### Original name
-Cephalosporium gramineum Y. Nisik. & Ikata, 1934
+Hymenula cerealis Ellis & Everh., 1894
 
 ### Remarks
 null

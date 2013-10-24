@@ -1,5 +1,4 @@
-Plectosira adeana Petr., 1929 SPECIES
-=======
+# Plectosira adeana Petr., 1929 SPECIES
 
 #### Status
 ACCEPTED

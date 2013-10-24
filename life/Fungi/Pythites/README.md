@@ -1,5 +1,4 @@
-Pythites Pampal. GENUS
-=======
+# Pythites Pampal. GENUS
 
 #### Status
 ACCEPTED

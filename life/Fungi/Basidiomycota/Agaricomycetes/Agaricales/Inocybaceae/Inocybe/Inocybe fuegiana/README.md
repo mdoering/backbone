@@ -1,5 +1,4 @@
-Inocybe fuegiana Speg. SPECIES
-=======
+# Inocybe fuegiana Speg. SPECIES
 
 #### Status
 ACCEPTED

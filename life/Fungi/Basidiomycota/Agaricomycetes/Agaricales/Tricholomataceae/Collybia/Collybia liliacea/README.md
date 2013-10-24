@@ -1,5 +1,4 @@
-Collybia liliacea Quél. SPECIES
-=======
+# Collybia liliacea Quél. SPECIES
 
 #### Status
 ACCEPTED

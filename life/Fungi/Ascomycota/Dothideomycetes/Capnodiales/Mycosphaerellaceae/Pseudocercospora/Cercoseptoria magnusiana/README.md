@@ -1,5 +1,4 @@
-Cercoseptoria magnusiana (Allesch.) Arx SPECIES
-=======
+# Cercoseptoria magnusiana (Allesch.) Arx SPECIES
 
 #### Status
 ACCEPTED

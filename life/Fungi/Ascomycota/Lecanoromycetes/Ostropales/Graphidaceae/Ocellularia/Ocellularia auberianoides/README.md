@@ -1,17 +1,16 @@
-Thelotrema trachodes Nyl. SPECIES
-=======
+# Ocellularia auberianoides (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 52: 120 (1869)
+Nuovo Giorn. Bot. Ital. 23: 395 (1891)
 
 #### Original name
-Thelotrema trachodes Nyl.
+Thelotrema auberianoides Nyl.
 
 ### Remarks
 null

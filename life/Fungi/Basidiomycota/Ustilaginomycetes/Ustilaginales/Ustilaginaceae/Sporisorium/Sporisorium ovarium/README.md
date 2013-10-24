@@ -1,14 +1,13 @@
-Sorosporium ovarium Griffiths, 1907 SPECIES
-=======
+# Sporisorium ovarium (Griffiths) Vánky, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 34: 209 (1907)
+Mycotaxon 65: 138 (1997)
 
 #### Original name
 Sorosporium ovarium Griffiths, 1907

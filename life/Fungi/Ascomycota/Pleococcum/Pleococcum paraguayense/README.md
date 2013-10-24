@@ -1,5 +1,4 @@
-Pleococcum paraguayense Speg. SPECIES
-=======
+# Pleococcum paraguayense Speg. SPECIES
 
 #### Status
 ACCEPTED

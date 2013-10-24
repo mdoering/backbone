@@ -1,5 +1,4 @@
-Hygrophorus subbasidiosus Largent SPECIES
-=======
+# Hygrophorus subbasidiosus Largent SPECIES
 
 #### Status
 ACCEPTED

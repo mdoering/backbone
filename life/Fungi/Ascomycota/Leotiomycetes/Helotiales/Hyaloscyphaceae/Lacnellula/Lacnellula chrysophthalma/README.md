@@ -1,5 +1,4 @@
-Lacnellula chrysophthalma (Persoon) P. A. Karston SPECIES
-=======
+# Lacnellula chrysophthalma (Persoon) P. A. Karston SPECIES
 
 #### Status
 ACCEPTED

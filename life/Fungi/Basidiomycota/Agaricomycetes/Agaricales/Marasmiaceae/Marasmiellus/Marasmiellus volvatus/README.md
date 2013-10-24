@@ -1,5 +1,4 @@
-Marasmiellus volvatus Singer SPECIES
-=======
+# Marasmiellus volvatus Singer SPECIES
 
 #### Status
 ACCEPTED

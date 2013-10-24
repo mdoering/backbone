@@ -1,5 +1,4 @@
-Heterostomella rugosa (d'Orbigny) SPECIES
-=======
+# Heterostomella rugosa (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

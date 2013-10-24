@@ -1,5 +1,4 @@
-Agaricus abscondens Peck SPECIES
-=======
+# Agaricus abscondens Peck SPECIES
 
 #### Status
 ACCEPTED

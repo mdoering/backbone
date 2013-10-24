@@ -1,5 +1,4 @@
-Oscillatoria putrida Schmidle SPECIES
-=======
+# Oscillatoria putrida Schmidle SPECIES
 
 #### Status
 ACCEPTED

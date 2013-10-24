@@ -1,5 +1,4 @@
-Lecanora eitneri Zschacke SPECIES
-=======
+# Lecanora eitneri Zschacke SPECIES
 
 #### Status
 ACCEPTED

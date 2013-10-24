@@ -1,5 +1,4 @@
-Daldinia occidentalis Child, 1932 SPECIES
-=======
+# Daldinia occidentalis Child, 1932 SPECIES
 
 #### Status
 ACCEPTED

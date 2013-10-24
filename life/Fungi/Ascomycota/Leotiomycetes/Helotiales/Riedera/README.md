@@ -1,5 +1,4 @@
-Riedera Fr. GENUS
-=======
+# Riedera Fr. GENUS
 
 #### Status
 ACCEPTED

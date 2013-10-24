@@ -1,5 +1,4 @@
-Phyllosticta corni-canadensis Dearn. & Bisby SPECIES
-=======
+# Phyllosticta corni-canadensis Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

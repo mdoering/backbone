@@ -1,5 +1,4 @@
-Hypoxylon munkii Whalley, Hammelev & Talig., 1988 SPECIES
-=======
+# Hypoxylon munkii Whalley, Hammelev & Talig., 1988 SPECIES
 
 #### Status
 ACCEPTED

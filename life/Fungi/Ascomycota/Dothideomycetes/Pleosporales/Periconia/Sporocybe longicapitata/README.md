@@ -1,5 +1,4 @@
-Sporocybe longicapitata Zimm. SPECIES
-=======
+# Sporocybe longicapitata Zimm. SPECIES
 
 #### Status
 ACCEPTED

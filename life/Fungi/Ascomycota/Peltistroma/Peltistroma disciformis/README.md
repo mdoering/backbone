@@ -1,5 +1,4 @@
-Peltistroma disciformis (Pat.) Inácio & P.F. Cannon SPECIES
-=======
+# Peltistroma disciformis (Pat.) Inácio & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

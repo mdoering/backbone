@@ -1,14 +1,13 @@
-Ustilago cyperi-lucidi J. Walker, 1971 SPECIES
-=======
+# Bauerago cyperi-lucidi (J. Walker) Vánky, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. N. S. W. 96(2): 97 (1971)
+Mycotaxon 70: 44 (1999)
 
 #### Original name
 Ustilago cyperi-lucidi J. Walker, 1971

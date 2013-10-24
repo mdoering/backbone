@@ -1,5 +1,4 @@
-Cephalotheca abellinensis Sacc. SPECIES
-=======
+# Cephalotheca abellinensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

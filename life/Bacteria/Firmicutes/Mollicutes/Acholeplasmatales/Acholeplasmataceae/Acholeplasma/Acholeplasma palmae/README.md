@@ -1,5 +1,4 @@
-Acholeplasma palmae Tully et al., 1994 SPECIES
-=======
+# Acholeplasma palmae Tully et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoleptodiscus sphaericus Ostaz., 1968 SPECIES
-=======
+# Mycoleptodiscus sphaericus Ostaz., 1968 SPECIES
 
 #### Status
 ACCEPTED

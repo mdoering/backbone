@@ -1,5 +1,4 @@
-Junctospora pulchra Minter & Hol.-Jech., 1981 SPECIES
-=======
+# Junctospora pulchra Minter & Hol.-Jech., 1981 SPECIES
 
 #### Status
 ACCEPTED

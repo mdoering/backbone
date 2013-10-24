@@ -1,5 +1,4 @@
-Cryptococcus vini Kütz. SPECIES
-=======
+# Cryptococcus vini Kütz. SPECIES
 
 #### Status
 ACCEPTED

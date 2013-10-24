@@ -1,5 +1,4 @@
-Exserohilum heteromorphum G.Y. Sun SPECIES
-=======
+# Exserohilum heteromorphum G.Y. Sun SPECIES
 
 #### Status
 ACCEPTED

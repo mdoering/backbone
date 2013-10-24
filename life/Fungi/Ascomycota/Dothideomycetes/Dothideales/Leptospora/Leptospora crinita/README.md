@@ -1,5 +1,4 @@
-Leptospora crinita (Pers.) Fuckel SPECIES
-=======
+# Leptospora crinita (Pers.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

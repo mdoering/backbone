@@ -1,5 +1,4 @@
-Bovista polymorpha (Vittad.) Kreisel, 1964 SPECIES
-=======
+# Bovista polymorpha (Vittad.) Kreisel, 1964 SPECIES
 
 #### Status
 ACCEPTED

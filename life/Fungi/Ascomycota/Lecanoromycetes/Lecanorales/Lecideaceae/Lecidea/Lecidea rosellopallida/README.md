@@ -1,5 +1,4 @@
-Lecidea rosellopallida Nyl. SPECIES
-=======
+# Lecidea rosellopallida Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria myosotidis Vanev & Bakalova SPECIES
-=======
+# Septoria myosotidis Vanev & Bakalova SPECIES
 
 #### Status
 ACCEPTED

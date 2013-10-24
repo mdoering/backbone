@@ -1,5 +1,4 @@
-Trichoderma konilangbra Samuels, Petrini & C.P. Kubicek, 1998 SPECIES
-=======
+# Trichoderma konilangbra Samuels, Petrini & C.P. Kubicek, 1998 SPECIES
 
 #### Status
 ACCEPTED

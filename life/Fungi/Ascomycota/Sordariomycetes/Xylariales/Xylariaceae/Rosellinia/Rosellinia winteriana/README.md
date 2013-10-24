@@ -1,5 +1,4 @@
-Rosellinia winteriana Speg. SPECIES
-=======
+# Rosellinia winteriana Speg. SPECIES
 
 #### Status
 ACCEPTED

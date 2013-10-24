@@ -1,17 +1,16 @@
-Pholiota destruens var. destruens VARIETY
-=======
+# Pholiota populnea (Pers.) Kuyper & Tjall.-Beuk., 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomycètes (Alençon) 442 (1876)
+Persoonia 13(1): 81 (1986)
 
 #### Original name
-Pholiota destruens var. destruens
+Agaricus populneus Pers., 1828
 
 ### Remarks
 null

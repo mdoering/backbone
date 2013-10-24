@@ -1,5 +1,4 @@
-Fomes homalopilus (Mont.) Sacc. SPECIES
-=======
+# Fomes homalopilus (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

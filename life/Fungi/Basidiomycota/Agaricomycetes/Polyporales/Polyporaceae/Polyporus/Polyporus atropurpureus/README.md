@@ -1,5 +1,4 @@
-Polyporus atropurpureus Berk. SPECIES
-=======
+# Polyporus atropurpureus Berk. SPECIES
 
 #### Status
 ACCEPTED

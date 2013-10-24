@@ -1,17 +1,16 @@
-Parmelia verrucigera Nyl. SPECIES
-=======
+# Xanthoparmelia verrucigera (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 74: 220 (1990)
 
 #### Original name
-null
+Parmelia verrucigera Nyl.
 
 ### Remarks
 null

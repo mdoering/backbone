@@ -1,5 +1,4 @@
-Scyphidia annulata Edmondson, 1912 SPECIES
-=======
+# Scyphidia annulata Edmondson, 1912 SPECIES
 
 #### Status
 ACCEPTED

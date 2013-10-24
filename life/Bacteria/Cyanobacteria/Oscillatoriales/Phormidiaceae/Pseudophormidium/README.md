@@ -1,5 +1,4 @@
-Pseudophormidium (Forti) Anagnostidis & Komárek, 1988 GENUS
-=======
+# Pseudophormidium (Forti) Anagnostidis & Komárek, 1988 GENUS
 
 #### Status
 ACCEPTED

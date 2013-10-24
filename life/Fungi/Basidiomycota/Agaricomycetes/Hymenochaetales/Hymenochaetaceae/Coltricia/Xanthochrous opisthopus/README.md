@@ -1,5 +1,4 @@
-Xanthochrous opisthopus Pat. SPECIES
-=======
+# Xanthochrous opisthopus Pat. SPECIES
 
 #### Status
 ACCEPTED

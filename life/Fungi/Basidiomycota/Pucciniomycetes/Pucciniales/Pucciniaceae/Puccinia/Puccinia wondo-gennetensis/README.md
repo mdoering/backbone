@@ -1,5 +1,4 @@
-Puccinia wondo-gennetensis Gjaerum SPECIES
-=======
+# Puccinia wondo-gennetensis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

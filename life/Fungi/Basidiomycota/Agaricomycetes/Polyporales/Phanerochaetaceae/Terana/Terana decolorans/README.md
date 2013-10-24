@@ -1,5 +1,4 @@
-Terana decolorans (P. Karst.) Kuntze SPECIES
-=======
+# Terana decolorans (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

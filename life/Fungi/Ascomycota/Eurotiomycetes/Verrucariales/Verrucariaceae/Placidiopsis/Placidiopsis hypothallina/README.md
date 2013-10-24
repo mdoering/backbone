@@ -1,5 +1,4 @@
-Placidiopsis hypothallina Aptroot SPECIES
-=======
+# Placidiopsis hypothallina Aptroot SPECIES
 
 #### Status
 ACCEPTED

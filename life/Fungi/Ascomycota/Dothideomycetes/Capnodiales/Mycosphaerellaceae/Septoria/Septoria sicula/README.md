@@ -1,5 +1,4 @@
-Septoria sicula Penz. SPECIES
-=======
+# Septoria sicula Penz. SPECIES
 
 #### Status
 ACCEPTED

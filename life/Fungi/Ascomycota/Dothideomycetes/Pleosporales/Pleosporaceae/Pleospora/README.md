@@ -1,17 +1,16 @@
-Cleistothecopsis F. Stevens & E.Y. True GENUS
-=======
+# Pleospora Rabenhorst ex Cesati & De Notaris, 1863 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Univ. Illinois Agric. Exp. Sta. Bull. 220: 530 (1919)
+Comm. Soc. crittog. Ital. 1: 217 (1863)
 
 #### Original name
-Cleistothecopsis F. Stevens & E.Y. True
+Pleospora Rabenhorst ex Cesati & De Notaris, 1863
 
 ### Remarks
 null

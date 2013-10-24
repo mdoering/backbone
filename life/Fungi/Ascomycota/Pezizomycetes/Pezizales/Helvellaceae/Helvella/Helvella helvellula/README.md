@@ -1,5 +1,4 @@
-Helvella helvellula (Durieu & Mont.) Dissing SPECIES
-=======
+# Helvella helvellula (Durieu & Mont.) Dissing SPECIES
 
 #### Status
 ACCEPTED

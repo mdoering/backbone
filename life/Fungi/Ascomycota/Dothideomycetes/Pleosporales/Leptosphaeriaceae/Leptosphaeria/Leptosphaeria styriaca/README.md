@@ -1,5 +1,4 @@
-Leptosphaeria styriaca Nograsek SPECIES
-=======
+# Leptosphaeria styriaca Nograsek SPECIES
 
 #### Status
 ACCEPTED

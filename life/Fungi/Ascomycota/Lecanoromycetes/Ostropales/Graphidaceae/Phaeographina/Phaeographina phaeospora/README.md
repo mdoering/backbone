@@ -1,5 +1,4 @@
-Phaeographina phaeospora (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographina phaeospora (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

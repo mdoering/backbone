@@ -1,5 +1,4 @@
-Peyronellaea herbarum SPECIES
-=======
+# Peyronellaea herbarum SPECIES
 
 #### Status
 ACCEPTED

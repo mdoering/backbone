@@ -1,5 +1,4 @@
-Phyllosticta lagerstroemiae Ellis & Everh. SPECIES
-=======
+# Phyllosticta lagerstroemiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

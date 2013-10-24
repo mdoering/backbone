@@ -1,5 +1,4 @@
-Eoschubertella Thompson, 1937 GENUS
-=======
+# Eoschubertella Thompson, 1937 GENUS
 
 #### Status
 ACCEPTED

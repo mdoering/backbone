@@ -1,5 +1,4 @@
-Ustilago taiana Syd. SPECIES
-=======
+# Ustilago taiana Syd. SPECIES
 
 #### Status
 ACCEPTED

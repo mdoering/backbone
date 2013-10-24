@@ -1,5 +1,4 @@
-Phyllachora macarangae Henn., 1908 SPECIES
-=======
+# Phyllachora macarangae Henn., 1908 SPECIES
 
 #### Status
 DOUBTFUL

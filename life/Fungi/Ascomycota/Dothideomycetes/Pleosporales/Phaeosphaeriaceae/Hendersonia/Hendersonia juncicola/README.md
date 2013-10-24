@@ -1,5 +1,4 @@
-Hendersonia juncicola Sacc. SPECIES
-=======
+# Hendersonia juncicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodococcus bronchialis (Tsukamura, 1971) Tsukamura, 1974 SPECIES
-=======
+# Rhodococcus bronchialis (Tsukamura, 1971) Tsukamura, 1974 SPECIES
 
 #### Status
 ACCEPTED

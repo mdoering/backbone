@@ -1,5 +1,4 @@
-Dendryphion muricatum Ellis & Everh. SPECIES
-=======
+# Dendryphion muricatum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

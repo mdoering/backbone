@@ -1,5 +1,4 @@
-Diaporthe kunashirensis Lar.N. Vassiljeva SPECIES
-=======
+# Diaporthe kunashirensis Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

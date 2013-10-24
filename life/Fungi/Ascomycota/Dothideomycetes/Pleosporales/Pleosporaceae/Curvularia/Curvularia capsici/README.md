@@ -1,14 +1,13 @@
-Brachysporium capsici Hiroë & N. Watan., 1934 SPECIES
-=======
+# Curvularia capsici (Hiroë & N. Watan.) Munt.-Cvetk., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rev. agron. Noroeste Argent. 2: 322 (1957)
 
 #### Original name
 Brachysporium capsici Hiroë & N. Watan., 1934

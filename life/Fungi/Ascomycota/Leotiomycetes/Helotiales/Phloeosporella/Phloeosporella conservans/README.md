@@ -1,5 +1,4 @@
-Phloeosporella conservans (Peck) Höhn. SPECIES
-=======
+# Phloeosporella conservans (Peck) Höhn. SPECIES
 
 #### Status
 ACCEPTED

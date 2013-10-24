@@ -1,5 +1,4 @@
-Enchelyotricha binucleata Foissner, 1987 SPECIES
-=======
+# Enchelyotricha binucleata Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

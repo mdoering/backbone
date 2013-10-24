@@ -1,5 +1,4 @@
-Enterographa angustissima (Vain.) R. Sant. SPECIES
-=======
+# Enterographa angustissima (Vain.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

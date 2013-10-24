@@ -1,5 +1,4 @@
-Winterella eutypoides Penz. & Sacc. SPECIES
-=======
+# Winterella eutypoides Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

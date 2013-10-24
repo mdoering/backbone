@@ -1,5 +1,4 @@
-Merismopedia elegans var. constrictum Playfair VARIETY
-=======
+# Merismopedia elegans A. Braun ex Kützing SPECIES
 
 #### Status
 ACCEPTED

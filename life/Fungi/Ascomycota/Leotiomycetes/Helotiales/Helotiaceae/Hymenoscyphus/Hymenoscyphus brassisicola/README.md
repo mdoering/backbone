@@ -1,5 +1,4 @@
-Hymenoscyphus brassisicola (Berk.) Kuntze SPECIES
-=======
+# Hymenoscyphus brassisicola (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protospathidium vermiforme Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Protospathidium vermiforme Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

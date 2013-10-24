@@ -1,5 +1,4 @@
-Scutellinia jaczewskiana (Henn.) Le Gal SPECIES
-=======
+# Scutellinia jaczewskiana (Henn.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

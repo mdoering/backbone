@@ -1,5 +1,4 @@
-Lactobacillus perolens Back et al., 2000 SPECIES
-=======
+# Lactobacillus perolens Back et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

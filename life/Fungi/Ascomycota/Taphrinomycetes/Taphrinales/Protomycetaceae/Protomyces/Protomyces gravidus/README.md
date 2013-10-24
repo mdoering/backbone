@@ -1,5 +1,4 @@
-Protomyces gravidus Davis SPECIES
-=======
+# Protomyces gravidus Davis SPECIES
 
 #### Status
 ACCEPTED

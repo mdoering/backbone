@@ -1,5 +1,4 @@
-Cladochytrium tmesipteridis P.A. Dang. SPECIES
-=======
+# Cladochytrium tmesipteridis P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

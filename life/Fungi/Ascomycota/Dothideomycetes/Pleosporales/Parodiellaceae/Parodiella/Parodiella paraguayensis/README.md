@@ -1,5 +1,4 @@
-Parodiella paraguayensis Speg. SPECIES
-=======
+# Parodiella paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

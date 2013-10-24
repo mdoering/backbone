@@ -1,5 +1,4 @@
-Mycena longispora Rick SPECIES
-=======
+# Mycena longispora Rick SPECIES
 
 #### Status
 ACCEPTED

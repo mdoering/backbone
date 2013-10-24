@@ -1,5 +1,4 @@
-Asanoa ferruginea (Asano & Kawamoto, 1986) Lee & Hah, 2002 SPECIES
-=======
+# Asanoa ferruginea (Asano & Kawamoto, 1986) Lee & Hah, 2002 SPECIES
 
 #### Status
 ACCEPTED

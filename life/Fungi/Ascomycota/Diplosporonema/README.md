@@ -1,5 +1,4 @@
-Diplosporonema von Höhnel, 1917 GENUS
-=======
+# Diplosporonema von Höhnel, 1917 GENUS
 
 #### Status
 ACCEPTED

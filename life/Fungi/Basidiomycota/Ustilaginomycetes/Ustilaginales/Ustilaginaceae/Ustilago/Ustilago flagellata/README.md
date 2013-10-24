@@ -1,5 +1,4 @@
-Ustilago flagellata Syd. & P. Syd. SPECIES
-=======
+# Ustilago flagellata Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

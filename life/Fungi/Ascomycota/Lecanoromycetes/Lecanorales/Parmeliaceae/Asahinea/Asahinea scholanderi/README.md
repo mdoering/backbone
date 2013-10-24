@@ -1,5 +1,4 @@
-Asahinea scholanderi (Llano) W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Asahinea scholanderi (Llano) W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED

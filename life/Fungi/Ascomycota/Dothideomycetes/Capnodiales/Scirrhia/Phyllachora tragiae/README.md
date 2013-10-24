@@ -1,5 +1,4 @@
-Phyllachora tragiae (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
-=======
+# Phyllachora tragiae (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

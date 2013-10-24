@@ -1,5 +1,4 @@
-Flaviviridae FAMILY
-=======
+# Flaviviridae FAMILY
 
 #### Status
 ACCEPTED

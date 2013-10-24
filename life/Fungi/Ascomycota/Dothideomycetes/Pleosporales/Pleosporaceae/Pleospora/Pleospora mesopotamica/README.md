@@ -1,5 +1,4 @@
-Pleospora mesopotamica Bubák SPECIES
-=======
+# Pleospora mesopotamica Bubák SPECIES
 
 #### Status
 ACCEPTED

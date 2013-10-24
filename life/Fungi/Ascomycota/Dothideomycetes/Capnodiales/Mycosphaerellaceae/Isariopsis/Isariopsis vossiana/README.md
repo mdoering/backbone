@@ -1,5 +1,4 @@
-Isariopsis vossiana (Thüm.) U. Braun SPECIES
-=======
+# Isariopsis vossiana (Thüm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

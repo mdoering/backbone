@@ -1,5 +1,4 @@
-Taraella Haman, 1988 GENUS
-=======
+# Taraella Haman, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora roupalae Bat. & Peres SPECIES
-=======
+# Cercospora roupalae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

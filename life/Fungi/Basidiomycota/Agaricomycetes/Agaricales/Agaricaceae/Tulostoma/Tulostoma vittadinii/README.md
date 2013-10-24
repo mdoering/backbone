@@ -1,5 +1,4 @@
-Tulostoma vittadinii Petri SPECIES
-=======
+# Tulostoma vittadinii Petri SPECIES
 
 #### Status
 ACCEPTED

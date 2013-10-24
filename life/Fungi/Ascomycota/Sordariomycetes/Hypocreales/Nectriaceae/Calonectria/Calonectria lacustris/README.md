@@ -1,5 +1,4 @@
-Calonectria lacustris Kirschst. SPECIES
-=======
+# Calonectria lacustris Kirschst. SPECIES
 
 #### Status
 ACCEPTED

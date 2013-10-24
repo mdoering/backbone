@@ -1,5 +1,4 @@
-Lophodermium canberrianum W. Stahl ex Minter & Millar, 1978 SPECIES
-=======
+# Lophodermium canberrianum W. Stahl ex Minter & Millar, 1978 SPECIES
 
 #### Status
 ACCEPTED

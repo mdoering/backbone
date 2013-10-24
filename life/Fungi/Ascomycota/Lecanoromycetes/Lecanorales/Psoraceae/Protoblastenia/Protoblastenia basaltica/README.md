@@ -1,5 +1,4 @@
-Protoblastenia basaltica Faurel & Schotter SPECIES
-=======
+# Protoblastenia basaltica Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

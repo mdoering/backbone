@@ -1,5 +1,4 @@
-Septoria solanina Speg. SPECIES
-=======
+# Septoria solanina Speg. SPECIES
 
 #### Status
 ACCEPTED

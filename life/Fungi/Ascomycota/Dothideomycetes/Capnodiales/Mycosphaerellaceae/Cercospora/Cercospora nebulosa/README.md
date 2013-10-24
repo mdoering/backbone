@@ -1,5 +1,4 @@
-Cercospora nebulosa Sacc. SPECIES
-=======
+# Cercospora nebulosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

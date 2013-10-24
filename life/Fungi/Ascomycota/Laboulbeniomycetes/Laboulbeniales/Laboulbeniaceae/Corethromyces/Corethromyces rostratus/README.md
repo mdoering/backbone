@@ -1,5 +1,4 @@
-Corethromyces rostratus Thaxt. SPECIES
-=======
+# Corethromyces rostratus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

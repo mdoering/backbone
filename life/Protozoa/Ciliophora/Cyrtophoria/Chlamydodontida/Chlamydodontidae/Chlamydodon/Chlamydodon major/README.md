@@ -1,5 +1,4 @@
-Chlamydodon major Kahl, 1931 SPECIES
-=======
+# Chlamydodon major Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

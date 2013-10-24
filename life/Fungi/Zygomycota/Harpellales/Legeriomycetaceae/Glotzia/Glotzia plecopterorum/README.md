@@ -1,5 +1,4 @@
-Glotzia plecopterorum Lichtw., 1990 SPECIES
-=======
+# Glotzia plecopterorum Lichtw., 1990 SPECIES
 
 #### Status
 ACCEPTED

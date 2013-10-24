@@ -1,5 +1,4 @@
-Sphaerella parnassiae Rostr. SPECIES
-=======
+# Sphaerella parnassiae Rostr. SPECIES
 
 #### Status
 ACCEPTED

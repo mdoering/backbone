@@ -1,17 +1,16 @@
-Cercospora boerhaavicola Thirum. & Govindu SPECIES
-=======
+# Cercospora boerhaviicola Thirum. & Govindu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 7(1-4): 45 (1953)
 
 #### Original name
-Cercospora boerhaavicola Thirum. & Govindu
+Cercospora boerhaviicola Thirum. & Govindu
 
 ### Remarks
 null

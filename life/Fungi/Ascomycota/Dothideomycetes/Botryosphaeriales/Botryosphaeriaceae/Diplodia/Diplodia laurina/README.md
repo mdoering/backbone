@@ -1,17 +1,16 @@
-Diplodia laurina var. laurina Sacc. VARIETY
-=======
+# Diplodia laurina Sacc., 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotheca veneti no. 508 (1876)
+Grevillea 9(no. 51): 83 (1881)
 
 #### Original name
-Diplodia laurina var. laurina Sacc.
+Diplodia laurina Sacc., 1876
 
 ### Remarks
 null

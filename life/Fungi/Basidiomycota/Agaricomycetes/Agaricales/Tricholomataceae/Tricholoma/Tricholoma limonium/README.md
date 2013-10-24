@@ -1,5 +1,4 @@
-Tricholoma limonium Peck SPECIES
-=======
+# Tricholoma limonium Peck SPECIES
 
 #### Status
 ACCEPTED

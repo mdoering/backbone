@@ -1,5 +1,4 @@
-Mycosphaerella acaciae (Cooke & Harkn.) Tomilin SPECIES
-=======
+# Mycosphaerella acaciae (Cooke & Harkn.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

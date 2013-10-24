@@ -1,5 +1,4 @@
-Peltasterella lauracearum Bat., Cavalc. & Peres SPECIES
-=======
+# Peltasterella lauracearum Bat., Cavalc. & Peres SPECIES
 
 #### Status
 ACCEPTED

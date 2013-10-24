@@ -1,5 +1,4 @@
-Outesia Frenguelli, 1925 GENUS
-=======
+# Outesia Frenguelli, 1925 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boreostereum sulphuratum (Berk. & Ravenel) G.Y. Zheng & Z.S. Bi, 1990 SPECIES
-=======
+# Boreostereum sulphuratum (Berk. & Ravenel) G.Y. Zheng & Z.S. Bi, 1990 SPECIES
 
 #### Status
 ACCEPTED

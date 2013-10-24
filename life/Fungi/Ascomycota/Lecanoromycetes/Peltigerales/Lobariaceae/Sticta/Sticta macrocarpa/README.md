@@ -1,5 +1,4 @@
-Sticta macrocarpa Delise SPECIES
-=======
+# Sticta macrocarpa Delise SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia spinaciae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Hendersonia spinaciae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

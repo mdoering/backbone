@@ -1,5 +1,4 @@
-Phoma aquifolii Cooke SPECIES
-=======
+# Phoma aquifolii Cooke SPECIES
 
 #### Status
 ACCEPTED

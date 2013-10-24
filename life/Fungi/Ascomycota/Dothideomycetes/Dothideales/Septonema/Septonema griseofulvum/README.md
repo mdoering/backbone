@@ -1,5 +1,4 @@
-Septonema griseofulvum Ellis & Everh. SPECIES
-=======
+# Septonema griseofulvum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptopuccinia actinellae (Webber) Syd. {?} SPECIES
-=======
+# Leptopuccinia actinellae (Webber) Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

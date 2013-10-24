@@ -1,5 +1,4 @@
-Rinodina sabulosa Tuck. SPECIES
-=======
+# Rinodina sabulosa Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyptotrama dennisii Singer, 1973 SPECIES
-=======
+# Cyptotrama dennisii Singer, 1973 SPECIES
 
 #### Status
 ACCEPTED

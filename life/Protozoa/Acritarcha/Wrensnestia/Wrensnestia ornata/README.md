@@ -1,5 +1,4 @@
-Wrensnestia ornata Dorning, 1981 SPECIES
-=======
+# Wrensnestia ornata Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

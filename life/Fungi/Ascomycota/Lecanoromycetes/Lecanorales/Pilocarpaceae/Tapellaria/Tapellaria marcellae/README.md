@@ -1,5 +1,4 @@
-Tapellaria marcellae Lücking SPECIES
-=======
+# Tapellaria marcellae Lücking SPECIES
 
 #### Status
 ACCEPTED

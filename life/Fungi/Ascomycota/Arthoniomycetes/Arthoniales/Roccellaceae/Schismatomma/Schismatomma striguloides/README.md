@@ -1,5 +1,4 @@
-Schismatomma striguloides (Nyl.) Overeem SPECIES
-=======
+# Schismatomma striguloides (Nyl.) Overeem SPECIES
 
 #### Status
 ACCEPTED

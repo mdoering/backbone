@@ -1,5 +1,4 @@
-Puccinia caricis-ribis f. sp FORM
-=======
+# Puccinia caricis-ribis Erikss. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 50: 443 (1920)
+null
 
 #### Original name
-Puccinia caricis-ribis f. sp
+Puccinia caricis-ribis Erikss.
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Protoperidinium perbreve Balech & Soares, 1967 SPECIES
-=======
+# Protoperidinium humile (Schiller, 1937) Balech, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

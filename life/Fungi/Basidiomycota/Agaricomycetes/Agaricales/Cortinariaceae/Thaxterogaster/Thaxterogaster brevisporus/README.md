@@ -1,5 +1,4 @@
-Thaxterogaster brevisporus Singer SPECIES
-=======
+# Thaxterogaster brevisporus Singer SPECIES
 
 #### Status
 ACCEPTED

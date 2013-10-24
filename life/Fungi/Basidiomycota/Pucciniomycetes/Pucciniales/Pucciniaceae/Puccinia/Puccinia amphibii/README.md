@@ -1,5 +1,4 @@
-Puccinia amphibii Fuckel SPECIES
-=======
+# Puccinia amphibii Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthocyrtissa Haeckel, 1887 GENUS
-=======
+# Anthocyrtissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

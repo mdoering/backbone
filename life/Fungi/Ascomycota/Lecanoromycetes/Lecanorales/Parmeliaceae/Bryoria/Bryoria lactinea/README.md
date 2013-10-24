@@ -1,5 +1,4 @@
-Bryoria lactinea (Nyl.) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria lactinea (Nyl.) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmodimerium GENUS
-=======
+# Phragmodimerium GENUS
 
 #### Status
 ACCEPTED

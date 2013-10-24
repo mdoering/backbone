@@ -1,5 +1,4 @@
-Tubulicium macrosporum (Liberta) G. Moreno & Esteve-Rav. SPECIES
-=======
+# Tubulicium macrosporum (Liberta) G. Moreno & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

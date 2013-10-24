@@ -1,5 +1,4 @@
-Graphis oshioi M. Nakan. SPECIES
-=======
+# Graphis oshioi M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

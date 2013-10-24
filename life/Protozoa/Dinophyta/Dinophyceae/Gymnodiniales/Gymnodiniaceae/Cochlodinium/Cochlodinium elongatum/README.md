@@ -1,5 +1,4 @@
-Cochlodinium elongatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Cochlodinium elongatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

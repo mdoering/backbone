@@ -1,5 +1,4 @@
-Methanospirillum GENUS
-=======
+# Methanospirillum GENUS
 
 #### Status
 ACCEPTED

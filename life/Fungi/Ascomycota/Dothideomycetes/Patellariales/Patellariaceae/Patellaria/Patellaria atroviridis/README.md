@@ -1,5 +1,4 @@
-Patellaria atroviridis Müll. Arg. SPECIES
-=======
+# Patellaria atroviridis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

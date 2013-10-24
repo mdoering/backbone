@@ -1,5 +1,4 @@
-Escherichia anata SPECIES
-=======
+# Escherichia anata SPECIES
 
 #### Status
 ACCEPTED

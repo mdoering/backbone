@@ -1,5 +1,4 @@
-Cenangium betulinum Peck SPECIES
-=======
+# Cenangium betulinum Peck SPECIES
 
 #### Status
 ACCEPTED

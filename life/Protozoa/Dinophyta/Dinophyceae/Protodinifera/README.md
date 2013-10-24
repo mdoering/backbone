@@ -1,5 +1,4 @@
-Protodinifera FAMILY
-=======
+# Protodinifera FAMILY
 
 #### Status
 ACCEPTED

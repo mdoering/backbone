@@ -1,5 +1,4 @@
-Biatorella immersa var. atrosanguinea A. Massal. VARIETY
-=======
+# Biatorella immersa A. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatorella immersa var. atrosanguinea A. Massal.
+Biatorella immersa A. Massal.
 
 ### Remarks
 null

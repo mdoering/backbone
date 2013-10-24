@@ -1,5 +1,4 @@
-Cudoniella lateritiorosea (Vacek) Benedix SPECIES
-=======
+# Cudoniella lateritiorosea (Vacek) Benedix SPECIES
 
 #### Status
 ACCEPTED

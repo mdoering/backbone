@@ -1,17 +1,16 @@
-Hydnum mucidum var. mucidum VARIETY
-=======
+# Cristinia gallica (Pilát) Jülich, 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 8(3): 298 (1975)
 
 #### Original name
-Hydnum mucidum var. mucidum
+Radulum gallicum Pilát, 1925
 
 ### Remarks
 null

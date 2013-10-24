@@ -1,5 +1,4 @@
-Uncinula pistaciae (J.Y. Lu & K.R. Wang) U. Braun SPECIES
-=======
+# Uncinula pistaciae (J.Y. Lu & K.R. Wang) U. Braun SPECIES
 
 #### Status
 ACCEPTED

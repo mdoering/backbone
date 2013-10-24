@@ -1,5 +1,4 @@
-Ramalina roccelliformis Bory SPECIES
-=======
+# Ramalina roccelliformis Bory SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella vesicaria W.G. Sm. SPECIES
-=======
+# Tremella vesicaria W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

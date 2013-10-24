@@ -1,5 +1,4 @@
-Phyllogloea singeri Lowy, 1961 SPECIES
-=======
+# Phyllogloea singeri Lowy, 1961 SPECIES
 
 #### Status
 ACCEPTED

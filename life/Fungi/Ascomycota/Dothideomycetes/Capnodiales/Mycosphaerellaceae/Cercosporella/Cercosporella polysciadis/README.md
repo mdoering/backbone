@@ -1,14 +1,13 @@
-Cercosporella polysciatis (Henn.) Hansf. SPECIES
-=======
+# Cercosporella polysciadis (Henn.) Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. London 155: 43 (1943)
 
 #### Original name
 Pionnotes polysciatis Henn.

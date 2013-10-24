@@ -1,5 +1,4 @@
-Ascochyta cocoina Gonz. Frag. SPECIES
-=======
+# Ascochyta cocoina Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

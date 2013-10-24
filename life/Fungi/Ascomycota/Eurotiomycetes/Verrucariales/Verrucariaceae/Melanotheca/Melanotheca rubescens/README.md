@@ -1,17 +1,16 @@
-Trypethelium rubescens C. Knight SPECIES
-=======
+# Melanotheca rubescens C. Knight SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Bailey, Lich. Fl. Queensland 4: 167 (1889)
+in Shirley, Lich. Fl. Queensland 4: 167 (1889)
 
 #### Original name
-Trypethelium rubescens C. Knight
+Melanotheca rubescens C. Knight
 
 ### Remarks
 null

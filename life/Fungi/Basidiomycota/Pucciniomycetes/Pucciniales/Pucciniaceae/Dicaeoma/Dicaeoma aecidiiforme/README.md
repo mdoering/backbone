@@ -1,5 +1,4 @@
-Dicaeoma aecidiiforme (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma aecidiiforme (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

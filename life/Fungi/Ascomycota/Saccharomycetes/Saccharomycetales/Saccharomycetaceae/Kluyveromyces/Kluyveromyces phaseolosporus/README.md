@@ -1,5 +1,4 @@
-Kluyveromyces phaseolosporus (Shehata, Mrak & Phaff) Van der Walt SPECIES
-=======
+# Kluyveromyces phaseolosporus (Shehata, Mrak & Phaff) Van der Walt SPECIES
 
 #### Status
 ACCEPTED

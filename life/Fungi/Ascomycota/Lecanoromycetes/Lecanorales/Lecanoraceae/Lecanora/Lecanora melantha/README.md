@@ -1,5 +1,4 @@
-Lecanora melantha Nyl. SPECIES
-=======
+# Lecanora melantha Nyl. SPECIES
 
 #### Status
 ACCEPTED

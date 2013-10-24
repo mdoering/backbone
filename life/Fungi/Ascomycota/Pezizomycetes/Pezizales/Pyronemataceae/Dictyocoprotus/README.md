@@ -1,5 +1,4 @@
-Dictyocoprotus J.C. Krug & R.S. Khan GENUS
-=======
+# Dictyocoprotus J.C. Krug & R.S. Khan GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus cupreobrunneus (Jul. Schäff. & Steer) Pilát, 1951 SPECIES
-=======
+# Agaricus cupreobrunneus (Jul. Schäff. & Steer) Pilát, 1951 SPECIES
 
 #### Status
 ACCEPTED

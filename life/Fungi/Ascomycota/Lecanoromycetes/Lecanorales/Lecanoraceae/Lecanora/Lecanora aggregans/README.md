@@ -1,5 +1,4 @@
-Lecanora aggregans Vain. SPECIES
-=======
+# Lecanora aggregans Vain. SPECIES
 
 #### Status
 ACCEPTED

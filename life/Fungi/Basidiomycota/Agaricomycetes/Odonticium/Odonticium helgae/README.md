@@ -1,5 +1,4 @@
-Odonticium helgae Hjortstam & Ryvarden, 1986 SPECIES
-=======
+# Odonticium helgae Hjortstam & Ryvarden, 1986 SPECIES
 
 #### Status
 ACCEPTED

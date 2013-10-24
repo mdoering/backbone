@@ -1,5 +1,4 @@
-Herponema minutum Levring SPECIES
-=======
+# Herponema minutum Levring SPECIES
 
 #### Status
 ACCEPTED

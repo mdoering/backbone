@@ -1,5 +1,4 @@
-Amorphothecaceae Parbery FAMILY
-=======
+# Amorphothecaceae Parbery FAMILY
 
 #### Status
 ACCEPTED

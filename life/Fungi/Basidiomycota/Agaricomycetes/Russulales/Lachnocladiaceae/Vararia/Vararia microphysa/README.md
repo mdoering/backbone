@@ -1,5 +1,4 @@
-Vararia microphysa Boidin & Lanq., 1975 SPECIES
-=======
+# Vararia microphysa Boidin & Lanq., 1975 SPECIES
 
 #### Status
 ACCEPTED

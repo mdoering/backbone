@@ -1,5 +1,4 @@
-Leccinum umbrinum anon. SPECIES
-=======
+# Leccinum umbrinum anon. SPECIES
 
 #### Status
 ACCEPTED

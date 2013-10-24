@@ -1,5 +1,4 @@
-Zoothamnium vermicola Precht, 1935 SPECIES
-=======
+# Zoothamnium vermicola Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium phyllophora Hoffm. SPECIES
-=======
+# Chaetomium phyllophora Hoffm. SPECIES
 
 #### Status
 ACCEPTED

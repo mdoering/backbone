@@ -1,5 +1,4 @@
-Gloeosporium daphnes Oudem. SPECIES
-=======
+# Gloeosporium daphnes Oudem. SPECIES
 
 #### Status
 ACCEPTED

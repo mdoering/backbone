@@ -1,5 +1,4 @@
-Uvigerina conariensis SPECIES
-=======
+# Uvigerina conariensis SPECIES
 
 #### Status
 ACCEPTED

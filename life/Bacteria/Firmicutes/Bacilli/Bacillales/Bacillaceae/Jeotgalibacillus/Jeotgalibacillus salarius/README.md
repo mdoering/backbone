@@ -1,5 +1,4 @@
-Jeotgalibacillus salarius Yoon, Kang, Schumann & Oh, 2010 SPECIES
-=======
+# Jeotgalibacillus salarius Yoon, Kang, Schumann & Oh, 2010 SPECIES
 
 #### Status
 ACCEPTED

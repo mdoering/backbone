@@ -1,5 +1,4 @@
-Phoma tulasnei Sacc. SPECIES
-=======
+# Phoma tulasnei Sacc. SPECIES
 
 #### Status
 ACCEPTED

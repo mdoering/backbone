@@ -1,5 +1,4 @@
-Sphaeria scarlatina Schumach. SPECIES
-=======
+# Sphaeria scarlatina Schumach. SPECIES
 
 #### Status
 ACCEPTED

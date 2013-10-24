@@ -1,5 +1,4 @@
-Verrucaria portofinensis Servít SPECIES
-=======
+# Verrucaria portofinensis Servít SPECIES
 
 #### Status
 ACCEPTED

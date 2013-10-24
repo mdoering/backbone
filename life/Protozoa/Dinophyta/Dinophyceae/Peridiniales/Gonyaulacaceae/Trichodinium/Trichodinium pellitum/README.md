@@ -1,5 +1,4 @@
-Trichodinium pellitum Eisenack & Cookson, 1960 SPECIES
-=======
+# Trichodinium pellitum Eisenack & Cookson, 1960 SPECIES
 
 #### Status
 ACCEPTED

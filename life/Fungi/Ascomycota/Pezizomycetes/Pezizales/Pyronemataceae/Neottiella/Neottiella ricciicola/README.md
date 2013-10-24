@@ -1,8 +1,7 @@
-Neottiella ricciaecola (Corda) Racov. SPECIES
-=======
+# Neottiella ricciicola (Corda) Racov. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

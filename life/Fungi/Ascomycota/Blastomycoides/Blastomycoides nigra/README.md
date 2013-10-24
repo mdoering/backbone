@@ -1,5 +1,4 @@
-Blastomycoides nigra Castell. SPECIES
-=======
+# Blastomycoides nigra Castell. SPECIES
 
 #### Status
 ACCEPTED

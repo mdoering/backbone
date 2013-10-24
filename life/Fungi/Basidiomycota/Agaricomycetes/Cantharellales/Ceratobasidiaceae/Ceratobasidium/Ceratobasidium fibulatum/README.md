@@ -1,5 +1,4 @@
-Ceratobasidium fibulatum C.C. Tu & Kimbr. SPECIES
-=======
+# Ceratobasidium fibulatum C.C. Tu & Kimbr. SPECIES
 
 #### Status
 ACCEPTED

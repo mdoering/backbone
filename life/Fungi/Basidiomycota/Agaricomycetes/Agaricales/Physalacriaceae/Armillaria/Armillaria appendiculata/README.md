@@ -1,5 +1,4 @@
-Armillaria appendiculata Peck SPECIES
-=======
+# Armillaria appendiculata Peck SPECIES
 
 #### Status
 ACCEPTED

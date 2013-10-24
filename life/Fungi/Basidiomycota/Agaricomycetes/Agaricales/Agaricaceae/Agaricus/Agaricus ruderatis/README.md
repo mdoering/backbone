@@ -1,5 +1,4 @@
-Agaricus ruderatis Batsch SPECIES
-=======
+# Agaricus ruderatis Batsch SPECIES
 
 #### Status
 ACCEPTED

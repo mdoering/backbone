@@ -1,5 +1,4 @@
-Favolus reticulatus Fr. SPECIES
-=======
+# Favolus reticulatus Fr. SPECIES
 
 #### Status
 ACCEPTED

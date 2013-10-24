@@ -1,5 +1,4 @@
-Sabouraudites plurizoniformis (MacCarthy) Brumpt SPECIES
-=======
+# Sabouraudites plurizoniformis (MacCarthy) Brumpt SPECIES
 
 #### Status
 ACCEPTED

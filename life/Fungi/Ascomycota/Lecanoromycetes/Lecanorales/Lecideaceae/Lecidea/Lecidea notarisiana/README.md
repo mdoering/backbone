@@ -1,5 +1,4 @@
-Lecidea notarisiana Jatta SPECIES
-=======
+# Lecidea notarisiana Jatta SPECIES
 
 #### Status
 ACCEPTED

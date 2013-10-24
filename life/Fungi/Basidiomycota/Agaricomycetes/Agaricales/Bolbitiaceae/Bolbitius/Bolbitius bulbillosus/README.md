@@ -1,5 +1,4 @@
-Bolbitius bulbillosus (Fr.) Gillet SPECIES
-=======
+# Bolbitius bulbillosus (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

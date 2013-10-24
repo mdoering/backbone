@@ -1,5 +1,4 @@
-Puccinia caricis-dimorpholepis Morim. SPECIES
-=======
+# Puccinia caricis-dimorpholepis Morim. SPECIES
 
 #### Status
 ACCEPTED

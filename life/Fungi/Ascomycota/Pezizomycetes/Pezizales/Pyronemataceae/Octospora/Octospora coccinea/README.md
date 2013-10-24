@@ -1,17 +1,16 @@
-Humarina coccinea var. coccinea VARIETY
-=======
+# Octospora coccinea (P. Crouan & H. Crouan) Brumm., 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia, Suppl. 1: 213 (1967)
 
 #### Original name
-Humarina coccinea var. coccinea
+Ascobolus coccineus P. Crouan & H. Crouan, 1857
 
 ### Remarks
 null

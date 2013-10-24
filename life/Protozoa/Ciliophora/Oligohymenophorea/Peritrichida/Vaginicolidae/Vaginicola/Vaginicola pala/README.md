@@ -1,5 +1,4 @@
-Vaginicola pala Swarczewsky, 1930 SPECIES
-=======
+# Vaginicola pala Swarczewsky, 1930 SPECIES
 
 #### Status
 ACCEPTED

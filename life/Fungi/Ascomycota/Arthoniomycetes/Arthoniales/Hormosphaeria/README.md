@@ -1,5 +1,4 @@
-Hormosphaeria Lév. GENUS
-=======
+# Hormosphaeria Lév. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exobasidium gaylussaciae Henn. SPECIES
-=======
+# Exobasidium gaylussaciae Henn. SPECIES
 
 #### Status
 ACCEPTED

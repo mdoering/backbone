@@ -1,5 +1,4 @@
-Myxosporium viciae Fautrey SPECIES
-=======
+# Myxosporium viciae Fautrey SPECIES
 
 #### Status
 ACCEPTED

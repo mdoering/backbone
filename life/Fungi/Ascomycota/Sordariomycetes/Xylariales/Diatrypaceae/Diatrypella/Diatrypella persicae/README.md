@@ -1,5 +1,4 @@
-Diatrypella persicae Rick SPECIES
-=======
+# Diatrypella persicae Rick SPECIES
 
 #### Status
 ACCEPTED

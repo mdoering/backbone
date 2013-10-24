@@ -1,5 +1,4 @@
-Lanopila nipponica (Kawam.) Kobayasi SPECIES
-=======
+# Lanopila nipponica (Kawam.) Kobayasi SPECIES
 
 #### Status
 ACCEPTED

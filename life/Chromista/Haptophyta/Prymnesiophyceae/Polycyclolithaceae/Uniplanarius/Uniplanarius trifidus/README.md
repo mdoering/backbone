@@ -1,5 +1,4 @@
-Uniplanarius trifidus (H. Stradner) J.G. Hattner & S.W. Wise SPECIES
-=======
+# Uniplanarius trifidus (H. Stradner) J.G. Hattner & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

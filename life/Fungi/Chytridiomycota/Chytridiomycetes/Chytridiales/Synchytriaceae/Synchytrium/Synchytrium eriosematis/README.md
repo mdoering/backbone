@@ -1,5 +1,4 @@
-Synchytrium eriosematis (Henn.) SPECIES
-=======
+# Synchytrium eriosematis (Henn.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria nothofagi Jauch & Valla SPECIES
-=======
+# Septoria nothofagi Jauch & Valla SPECIES
 
 #### Status
 ACCEPTED

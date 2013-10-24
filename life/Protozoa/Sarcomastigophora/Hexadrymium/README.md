@@ -1,5 +1,4 @@
-Hexadrymium Haeckel, 1881 GENUS
-=======
+# Hexadrymium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sneathiellaceae Kurahashi, Fukunaga, Harayama & Yokota, 2008 FAMILY
-=======
+# Sneathiellaceae Kurahashi, Fukunaga, Harayama & Yokota, 2008 FAMILY
 
 #### Status
 ACCEPTED

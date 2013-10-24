@@ -1,5 +1,4 @@
-Acarospora fuscohepatica (Nyl.) Hue SPECIES
-=======
+# Acarospora fuscohepatica (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

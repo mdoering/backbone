@@ -1,5 +1,4 @@
-Bryodiscus B. Hein, E. Müll. & Poelt GENUS
-=======
+# Bryodiscus B. Hein, E. Müll. & Poelt GENUS
 
 #### Status
 ACCEPTED

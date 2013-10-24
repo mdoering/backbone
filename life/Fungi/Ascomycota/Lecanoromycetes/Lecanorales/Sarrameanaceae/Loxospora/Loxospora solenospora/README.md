@@ -1,14 +1,13 @@
-Lecanora solenospora Müll. Arg. SPECIES
-=======
+# Loxospora solenospora (Müll. Arg.) Kantvilas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 1: 38 (1893)
+Herzogia 14: 36 (2000)
 
 #### Original name
 Lecanora solenospora Müll. Arg.

@@ -1,5 +1,4 @@
-Sphenolithus dissimilis Bukry & Percival, 1971 SPECIES
-=======
+# Sphenolithus dissimilis Bukry & Percival, 1971 SPECIES
 
 #### Status
 ACCEPTED

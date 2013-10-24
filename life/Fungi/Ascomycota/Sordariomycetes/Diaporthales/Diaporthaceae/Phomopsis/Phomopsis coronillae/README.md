@@ -1,5 +1,4 @@
-Phomopsis coronillae (Westend.) Bubák SPECIES
-=======
+# Phomopsis coronillae (Westend.) Bubák SPECIES
 
 #### Status
 ACCEPTED

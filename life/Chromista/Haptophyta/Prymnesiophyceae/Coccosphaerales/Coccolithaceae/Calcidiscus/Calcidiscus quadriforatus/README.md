@@ -1,5 +1,4 @@
-Calcidiscus quadriforatus Kamptner, 1950 SPECIES
-=======
+# Calcidiscus quadriforatus Kamptner, 1950 SPECIES
 
 #### Status
 ACCEPTED

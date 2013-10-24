@@ -1,5 +1,4 @@
-Collybia subhaerens Berk. & M.A. Curtis SPECIES
-=======
+# Collybia subhaerens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcinella ancoche Speg. SPECIES
-=======
+# Sarcinella ancoche Speg. SPECIES
 
 #### Status
 ACCEPTED

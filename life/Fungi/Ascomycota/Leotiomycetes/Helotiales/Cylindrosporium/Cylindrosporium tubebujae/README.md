@@ -1,5 +1,4 @@
-Cylindrosporium tubebujae Sacc. SPECIES
-=======
+# Cylindrosporium tubebujae Sacc. SPECIES
 
 #### Status
 ACCEPTED

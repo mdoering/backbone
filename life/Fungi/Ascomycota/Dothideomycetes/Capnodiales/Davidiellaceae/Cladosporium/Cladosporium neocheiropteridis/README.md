@@ -1,5 +1,4 @@
-Cladosporium neocheiropteridis Yun L. Liu & Z.Y. Zhang, 2000 SPECIES
-=======
+# Cladosporium neocheiropteridis Yun L. Liu & Z.Y. Zhang, 2000 SPECIES
 
 #### Status
 ACCEPTED

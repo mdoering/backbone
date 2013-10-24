@@ -1,5 +1,4 @@
-Tuber borchianum Zobel SPECIES
-=======
+# Tuber borchianum Zobel SPECIES
 
 #### Status
 ACCEPTED

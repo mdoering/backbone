@@ -1,5 +1,4 @@
-Dimerium degenerans Syd. & P. Syd. SPECIES
-=======
+# Dimerium degenerans Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

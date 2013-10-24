@@ -1,5 +1,4 @@
-Pleospora culmigena Feltgen SPECIES
-=======
+# Pleospora culmigena Feltgen SPECIES
 
 #### Status
 ACCEPTED

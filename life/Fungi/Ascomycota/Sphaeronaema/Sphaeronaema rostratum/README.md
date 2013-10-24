@@ -1,14 +1,13 @@
-Fenestella rostrata (Fuckel) Sacc. SPECIES
-=======
+# Sphaeronaema rostratum Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 330 (1883)
+Jb. nassau. Ver. Naturk. 23-24: 399 (1870)
 
 #### Original name
 Sphaeronaema rostratum Fuckel, 1870

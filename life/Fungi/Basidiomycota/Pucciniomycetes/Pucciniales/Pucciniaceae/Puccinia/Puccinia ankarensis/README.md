@@ -1,5 +1,4 @@
-Puccinia ankarensis Petr. SPECIES
-=======
+# Puccinia ankarensis Petr. SPECIES
 
 #### Status
 ACCEPTED

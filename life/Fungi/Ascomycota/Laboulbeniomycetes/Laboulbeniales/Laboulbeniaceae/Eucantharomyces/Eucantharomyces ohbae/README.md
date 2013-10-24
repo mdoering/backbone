@@ -1,5 +1,4 @@
-Eucantharomyces ohbae K. Sugiy. SPECIES
-=======
+# Eucantharomyces ohbae K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

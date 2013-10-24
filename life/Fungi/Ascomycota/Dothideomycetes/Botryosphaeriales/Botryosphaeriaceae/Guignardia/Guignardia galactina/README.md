@@ -1,5 +1,4 @@
-Guignardia galactina (Dearn. & House) Sacc. SPECIES
-=======
+# Guignardia galactina (Dearn. & House) Sacc. SPECIES
 
 #### Status
 ACCEPTED

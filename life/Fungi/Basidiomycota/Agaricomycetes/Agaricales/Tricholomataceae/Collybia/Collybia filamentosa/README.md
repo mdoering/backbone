@@ -1,5 +1,4 @@
-Collybia filamentosa Velen. SPECIES
-=======
+# Collybia filamentosa Velen. SPECIES
 
 #### Status
 ACCEPTED

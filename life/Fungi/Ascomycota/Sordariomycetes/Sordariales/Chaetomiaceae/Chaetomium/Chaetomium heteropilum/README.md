@@ -1,5 +1,4 @@
-Chaetomium heteropilum N.J. Artemczuk, 1980 SPECIES
-=======
+# Chaetomium heteropilum N.J. Artemczuk, 1980 SPECIES
 
 #### Status
 ACCEPTED

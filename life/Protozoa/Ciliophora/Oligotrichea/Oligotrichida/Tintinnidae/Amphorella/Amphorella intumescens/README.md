@@ -1,5 +1,4 @@
-Amphorella intumescens SPECIES
-=======
+# Amphorella intumescens SPECIES
 
 #### Status
 ACCEPTED

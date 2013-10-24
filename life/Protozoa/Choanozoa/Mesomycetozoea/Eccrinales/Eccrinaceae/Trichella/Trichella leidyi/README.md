@@ -1,5 +1,4 @@
-Trichella leidyi (L. Léger & Duboscq) R.A. Poiss. SPECIES
-=======
+# Trichella leidyi (L. Léger & Duboscq) R.A. Poiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Archaecyclus GENUS
-=======
+# Archaecyclus GENUS
 
 #### Status
 ACCEPTED

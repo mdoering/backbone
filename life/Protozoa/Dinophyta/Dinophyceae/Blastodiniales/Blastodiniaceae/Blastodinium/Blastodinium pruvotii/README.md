@@ -1,5 +1,4 @@
-Blastodinium pruvotii Chatton SPECIES
-=======
+# Blastodinium pruvotii Chatton SPECIES
 
 #### Status
 ACCEPTED

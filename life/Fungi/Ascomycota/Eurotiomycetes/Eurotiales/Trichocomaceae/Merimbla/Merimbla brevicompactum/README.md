@@ -1,5 +1,4 @@
-Merimbla brevicompactum H.Z. Kong, 1999 SPECIES
-=======
+# Merimbla brevicompactum H.Z. Kong, 1999 SPECIES
 
 #### Status
 ACCEPTED

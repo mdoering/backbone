@@ -1,5 +1,4 @@
-Mycosphaerella hordei (P. Karst.) Kirchn. SPECIES
-=======
+# Mycosphaerella hordei (P. Karst.) Kirchn. SPECIES
 
 #### Status
 ACCEPTED

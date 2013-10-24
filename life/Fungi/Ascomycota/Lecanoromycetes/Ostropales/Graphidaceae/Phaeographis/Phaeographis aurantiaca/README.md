@@ -1,5 +1,4 @@
-Phaeographis aurantiaca Müll. Arg. SPECIES
-=======
+# Phaeographis aurantiaca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

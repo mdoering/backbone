@@ -1,5 +1,4 @@
-Xylographa perparvula (Stirt.) Müll. Arg. SPECIES
-=======
+# Xylographa perparvula (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

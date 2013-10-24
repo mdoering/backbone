@@ -1,5 +1,4 @@
-Clitocybula oculus (Peck) Singer SPECIES
-=======
+# Clitocybula oculus (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

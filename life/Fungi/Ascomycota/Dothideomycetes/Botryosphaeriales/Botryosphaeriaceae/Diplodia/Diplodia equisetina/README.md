@@ -1,5 +1,4 @@
-Diplodia equisetina Morochk. SPECIES
-=======
+# Diplodia equisetina Morochk. SPECIES
 
 #### Status
 ACCEPTED

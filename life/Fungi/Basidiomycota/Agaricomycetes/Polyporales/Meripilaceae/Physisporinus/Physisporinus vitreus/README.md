@@ -1,17 +1,16 @@
-Poria vitrea f. pergamenea Pilát FORM
-=======
+# Physisporinus vitreus (Pers.) P. Karst., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Finl. Basidsvamp. 324 (1889)
 
 #### Original name
-Poria vitrea f. pergamenea Pilát
+Poria vitrea Pers., 1796
 
 ### Remarks
 null

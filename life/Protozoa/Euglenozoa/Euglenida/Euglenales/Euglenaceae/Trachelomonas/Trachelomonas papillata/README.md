@@ -1,5 +1,4 @@
-Trachelomonas papillata SPECIES
-=======
+# Trachelomonas papillata SPECIES
 
 #### Status
 ACCEPTED

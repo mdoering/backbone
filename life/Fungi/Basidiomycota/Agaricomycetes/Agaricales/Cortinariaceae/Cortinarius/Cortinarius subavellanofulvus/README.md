@@ -1,5 +1,4 @@
-Cortinarius subavellanofulvus var. subavellanofulvus VARIETY
-=======
+# Cortinarius subavellanofulvus Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Bidaud, Carteret, Eyssartier, Moënne-Loccoz & Reumaux, Atlas des Cortinaires (Meyzieu) 13: 789 (2003)
 
 #### Original name
-Cortinarius subavellanofulvus var. subavellanofulvus
+Cortinarius subavellanofulvus Carteret & Reumaux
 
 ### Remarks
 null

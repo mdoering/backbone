@@ -1,5 +1,4 @@
-Sporisorium andropogonis-hirtifolii (Henn.) M. Piepenbr. SPECIES
-=======
+# Sporisorium andropogonis-hirtifolii (Henn.) M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

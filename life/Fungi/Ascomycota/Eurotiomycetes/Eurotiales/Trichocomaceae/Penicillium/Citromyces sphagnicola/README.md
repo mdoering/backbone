@@ -1,5 +1,4 @@
-Citromyces sphagnicola Malchevsk. SPECIES
-=======
+# Citromyces sphagnicola Malchevsk. SPECIES
 
 #### Status
 ACCEPTED

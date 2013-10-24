@@ -1,5 +1,4 @@
-Hypochnus sparsus Burt SPECIES
-=======
+# Hypochnus sparsus Burt SPECIES
 
 #### Status
 ACCEPTED

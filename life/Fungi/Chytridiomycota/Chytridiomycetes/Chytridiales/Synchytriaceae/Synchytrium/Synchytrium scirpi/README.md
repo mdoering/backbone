@@ -1,5 +1,4 @@
-Synchytrium scirpi Davis SPECIES
-=======
+# Synchytrium scirpi Davis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnocystis californica Gilkey SPECIES
-=======
+# Hydnocystis californica Gilkey SPECIES
 
 #### Status
 ACCEPTED

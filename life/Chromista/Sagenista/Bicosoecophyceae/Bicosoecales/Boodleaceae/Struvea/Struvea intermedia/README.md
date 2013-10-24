@@ -1,5 +1,4 @@
-Struvea intermedia C.F. Chang & E.Z. Xia SPECIES
-=======
+# Struvea intermedia C.F. Chang & E.Z. Xia SPECIES
 
 #### Status
 ACCEPTED

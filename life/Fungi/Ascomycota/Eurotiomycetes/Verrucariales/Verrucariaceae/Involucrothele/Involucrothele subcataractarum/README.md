@@ -1,5 +1,4 @@
-Involucrothele subcataractarum Servít SPECIES
-=======
+# Involucrothele subcataractarum Servít SPECIES
 
 #### Status
 ACCEPTED

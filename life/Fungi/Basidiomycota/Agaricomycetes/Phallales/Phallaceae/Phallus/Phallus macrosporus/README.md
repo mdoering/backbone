@@ -1,5 +1,4 @@
-Phallus macrosporus B. Liu, Z.Y. Li & Du SPECIES
-=======
+# Phallus macrosporus B. Liu, Z.Y. Li & Du SPECIES
 
 #### Status
 ACCEPTED

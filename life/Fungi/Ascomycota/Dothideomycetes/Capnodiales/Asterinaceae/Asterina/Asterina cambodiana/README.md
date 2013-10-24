@@ -1,5 +1,4 @@
-Asterina cambodiana Joly {?} SPECIES
-=======
+# Asterina cambodiana Joly {?} SPECIES
 
 #### Status
 ACCEPTED

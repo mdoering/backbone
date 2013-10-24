@@ -1,5 +1,4 @@
-Pholiota myxacioides Singer SPECIES
-=======
+# Pholiota myxacioides Singer SPECIES
 
 #### Status
 ACCEPTED

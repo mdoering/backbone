@@ -1,5 +1,4 @@
-Agaricus gomphodes Kalchbr. SPECIES
-=======
+# Agaricus gomphodes Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoellneria GENUS
-=======
+# Zoellneria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirospora paradoxa Scherff. SPECIES
-=======
+# Spirospora paradoxa Scherff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen subcarneus Sw. SPECIES
-=======
+# Lichen subcarneus Sw. SPECIES
 
 #### Status
 ACCEPTED

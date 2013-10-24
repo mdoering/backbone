@@ -1,5 +1,4 @@
-Leptonia coacta Largent SPECIES
-=======
+# Leptonia coacta Largent SPECIES
 
 #### Status
 ACCEPTED

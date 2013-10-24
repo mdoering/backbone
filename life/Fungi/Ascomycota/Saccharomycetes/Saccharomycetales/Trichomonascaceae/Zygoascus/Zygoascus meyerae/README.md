@@ -1,5 +1,4 @@
-Zygoascus meyerae M.T. Sm. & V. Robert, 2005 SPECIES
-=======
+# Zygoascus meyerae M.T. Sm. & V. Robert, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella nephromatis Diederich SPECIES
-=======
+# Tremella nephromatis Diederich SPECIES
 
 #### Status
 ACCEPTED

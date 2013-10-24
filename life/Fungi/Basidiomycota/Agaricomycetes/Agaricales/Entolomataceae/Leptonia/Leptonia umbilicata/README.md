@@ -1,5 +1,4 @@
-Leptonia umbilicata (Dennis) Dennis SPECIES
-=======
+# Leptonia umbilicata (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

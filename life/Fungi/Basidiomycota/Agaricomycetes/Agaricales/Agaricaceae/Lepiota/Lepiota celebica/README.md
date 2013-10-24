@@ -1,5 +1,4 @@
-Lepiota celebica Henn. SPECIES
-=======
+# Lepiota celebica Henn. SPECIES
 
 #### Status
 ACCEPTED

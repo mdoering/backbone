@@ -1,5 +1,4 @@
-Helotiella herpotricha (Berk.) Sacc. SPECIES
-=======
+# Helotiella herpotricha (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

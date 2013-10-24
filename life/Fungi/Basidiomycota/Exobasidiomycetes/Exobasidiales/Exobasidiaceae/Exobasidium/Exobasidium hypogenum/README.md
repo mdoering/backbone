@@ -1,5 +1,4 @@
-Exobasidium hypogenum Nannf., 1981 SPECIES
-=======
+# Exobasidium hypogenum Nannf., 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Colloderma oculatum var. castaneum Krzemien. VARIETY
-=======
+# Colloderma oculatum (C. Lippert) G. Lister, 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Bot. Pol. 11: 123 (1934)
+Taxonomie und medizinische Bedeutung der zur Gattung Geotrichum Link gehorenden Arten (Med. Habil. -Schrift, Magdeburg) 48: 312 (1910)
 
 #### Original name
-Colloderma oculatum var. castaneum Krzemien.
+Didymium oculatum C. Lippert, 1894
 
 ### Remarks
 null

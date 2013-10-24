@@ -1,17 +1,16 @@
-Lecidea cuprea var. cuprea Sommerf. VARIETY
-=======
+# Biatora cuprea (Sommerf.) Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. eur. reform. (Lund) 265 (1831)
 
 #### Original name
-Lecidea cuprea var. cuprea Sommerf.
+Lecidea cuprea Sommerf.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Spirochona tuba Swarczewsky, 1928 SPECIES
-=======
+# Spirochona tuba Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

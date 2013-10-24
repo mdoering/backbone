@@ -1,5 +1,4 @@
-Vampyrella polyblasta Sorokin SPECIES
-=======
+# Vampyrella polyblasta Sorokin SPECIES
 
 #### Status
 ACCEPTED

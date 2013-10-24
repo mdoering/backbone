@@ -1,5 +1,4 @@
-Urotricha globosa Schewiakoff, 1892 SPECIES
-=======
+# Urotricha globosa Schewiakoff, 1892 SPECIES
 
 #### Status
 ACCEPTED

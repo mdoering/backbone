@@ -1,5 +1,4 @@
-Thelidium nylanderi (Hepp) Lönnr. SPECIES
-=======
+# Thelidium nylanderi (Hepp) Lönnr. SPECIES
 
 #### Status
 ACCEPTED

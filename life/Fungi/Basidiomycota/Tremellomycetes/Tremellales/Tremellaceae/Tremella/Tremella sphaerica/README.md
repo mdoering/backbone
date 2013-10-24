@@ -1,5 +1,4 @@
-Tremella sphaerica Gled. SPECIES
-=======
+# Tremella sphaerica Gled. SPECIES
 
 #### Status
 ACCEPTED

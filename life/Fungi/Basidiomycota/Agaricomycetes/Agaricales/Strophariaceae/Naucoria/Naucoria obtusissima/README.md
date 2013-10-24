@@ -1,5 +1,4 @@
-Naucoria obtusissima Kauffman SPECIES
-=======
+# Naucoria obtusissima Kauffman SPECIES
 
 #### Status
 ACCEPTED

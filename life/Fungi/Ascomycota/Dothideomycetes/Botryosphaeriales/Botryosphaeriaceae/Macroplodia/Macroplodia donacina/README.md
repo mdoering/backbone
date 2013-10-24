@@ -1,5 +1,4 @@
-Macroplodia donacina (Mont.) Kuntze SPECIES
-=======
+# Macroplodia donacina (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatidium melastigma Nyl. SPECIES
-=======
+# Stigmatidium melastigma Nyl. SPECIES
 
 #### Status
 ACCEPTED

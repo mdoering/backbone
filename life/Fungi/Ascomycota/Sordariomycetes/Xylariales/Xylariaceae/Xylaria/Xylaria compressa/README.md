@@ -1,5 +1,4 @@
-Xylaria compressa Pat. & Gaillard SPECIES
-=======
+# Xylaria compressa Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

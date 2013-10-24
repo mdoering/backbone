@@ -1,5 +1,4 @@
-Calocybe pudica (Bon & Contu) Arnolds SPECIES
-=======
+# Calocybe pudica (Bon & Contu) Arnolds SPECIES
 
 #### Status
 ACCEPTED

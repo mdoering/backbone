@@ -1,5 +1,4 @@
-Leptothyrium mercurialis Kabát & Bubák SPECIES
-=======
+# Leptothyrium mercurialis Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

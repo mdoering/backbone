@@ -1,5 +1,4 @@
-Coccodinium A. Massal. GENUS
-=======
+# Coccodinium A. Massal. GENUS
 
 #### Status
 ACCEPTED

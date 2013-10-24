@@ -1,5 +1,4 @@
-Aspicilia endococcinea (Vain.) Oxner SPECIES
-=======
+# Aspicilia endococcinea (Vain.) Oxner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma striolatum (Speg.) Arthur SPECIES
-=======
+# Dicaeoma striolatum (Speg.) Arthur SPECIES
 
 #### Status
 ACCEPTED

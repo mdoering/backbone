@@ -1,5 +1,4 @@
-Spongosphaeromma Haeckel, 1887 GENUS
-=======
+# Spongosphaeromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diophrys salina Ruinen, 1938 SPECIES
-=======
+# Diophrys salina Ruinen, 1938 SPECIES
 
 #### Status
 ACCEPTED

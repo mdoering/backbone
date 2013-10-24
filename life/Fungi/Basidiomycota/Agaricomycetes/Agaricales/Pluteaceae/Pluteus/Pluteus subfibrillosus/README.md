@@ -1,5 +1,4 @@
-Pluteus subfibrillosus Singer SPECIES
-=======
+# Pluteus subfibrillosus Singer SPECIES
 
 #### Status
 ACCEPTED

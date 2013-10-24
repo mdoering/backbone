@@ -1,17 +1,16 @@
-Arecomyces epigeni K.D. Hyde SPECIES
-=======
+# Arecomyces epigenus K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 48(2): 231 (1996)
 
 #### Original name
-Arecomyces epigeni K.D. Hyde
+Arecomyces epigenus K.D. Hyde
 
 ### Remarks
 null

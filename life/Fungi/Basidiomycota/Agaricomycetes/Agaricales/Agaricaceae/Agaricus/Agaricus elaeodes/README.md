@@ -1,5 +1,4 @@
-Agaricus elaeodes Fr. SPECIES
-=======
+# Agaricus elaeodes Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella reticulata Peck SPECIES
-=======
+# Cercosporella reticulata Peck SPECIES
 
 #### Status
 ACCEPTED

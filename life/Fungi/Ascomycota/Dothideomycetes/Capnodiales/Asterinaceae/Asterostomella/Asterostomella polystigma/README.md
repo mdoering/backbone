@@ -1,5 +1,4 @@
-Asterostomella polystigma Syd. SPECIES
-=======
+# Asterostomella polystigma Syd. SPECIES
 
 #### Status
 ACCEPTED

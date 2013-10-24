@@ -1,5 +1,4 @@
-Ascochyta betonicicola Simonyan & Melnik SPECIES
-=======
+# Ascochyta betonicicola Simonyan & Melnik SPECIES
 
 #### Status
 ACCEPTED

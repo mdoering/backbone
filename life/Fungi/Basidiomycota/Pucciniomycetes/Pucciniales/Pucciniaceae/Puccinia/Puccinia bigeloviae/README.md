@@ -1,5 +1,4 @@
-Puccinia bigeloviae Ellis & Everh. SPECIES
-=======
+# Puccinia bigeloviae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Candida obtusa var. oregonensis (Phaff & Carmo Souza) Montrocher, 1967 VARIETY
-=======
+# Candida oregonensis Phaff & Carmo Souza, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Leeuwenhoek ned. Tidjdschr. 28: 206 (1962)
 
 #### Original name
-null
+Candida oregonensis Phaff & Carmo Souza, 1962
 
 ### Remarks
 null

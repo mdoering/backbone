@@ -1,5 +1,4 @@
-Polystomella GENUS
-=======
+# Polystomella GENUS
 
 #### Status
 ACCEPTED

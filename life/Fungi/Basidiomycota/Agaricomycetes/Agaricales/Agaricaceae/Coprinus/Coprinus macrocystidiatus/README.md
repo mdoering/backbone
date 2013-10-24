@@ -1,5 +1,4 @@
-Coprinus macrocystidiatus Bogart SPECIES
-=======
+# Coprinus macrocystidiatus Bogart SPECIES
 
 #### Status
 ACCEPTED

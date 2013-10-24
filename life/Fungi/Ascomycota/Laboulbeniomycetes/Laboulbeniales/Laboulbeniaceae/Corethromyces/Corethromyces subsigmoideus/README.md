@@ -1,5 +1,4 @@
-Corethromyces subsigmoideus Speg. SPECIES
-=======
+# Corethromyces subsigmoideus Speg. SPECIES
 
 #### Status
 ACCEPTED

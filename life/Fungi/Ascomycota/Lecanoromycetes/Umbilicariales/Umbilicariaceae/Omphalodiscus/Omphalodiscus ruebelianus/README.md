@@ -1,5 +1,4 @@
-Omphalodiscus ruebelianus (Du Rietz & Frey) Schol. SPECIES
-=======
+# Omphalodiscus ruebelianus (Du Rietz & Frey) Schol. SPECIES
 
 #### Status
 ACCEPTED

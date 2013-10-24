@@ -1,5 +1,4 @@
-Octospora meslinii (Le Gal) Svrcek & Kubicka SPECIES
-=======
+# Octospora meslinii (Le Gal) Svrcek & Kubicka SPECIES
 
 #### Status
 ACCEPTED

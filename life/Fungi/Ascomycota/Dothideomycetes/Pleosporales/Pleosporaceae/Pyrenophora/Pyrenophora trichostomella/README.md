@@ -1,5 +1,4 @@
-Pyrenophora trichostomella Sacc. SPECIES
-=======
+# Pyrenophora trichostomella Sacc. SPECIES
 
 #### Status
 ACCEPTED

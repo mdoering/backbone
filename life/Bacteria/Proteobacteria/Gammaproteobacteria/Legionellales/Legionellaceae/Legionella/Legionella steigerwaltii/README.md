@@ -1,5 +1,4 @@
-Legionella steigerwaltii Brenner et al., 1985 SPECIES
-=======
+# Legionella steigerwaltii Brenner et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

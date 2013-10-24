@@ -1,5 +1,4 @@
-Agaricus fucatus Fr. SPECIES
-=======
+# Agaricus fucatus Fr. SPECIES
 
 #### Status
 ACCEPTED

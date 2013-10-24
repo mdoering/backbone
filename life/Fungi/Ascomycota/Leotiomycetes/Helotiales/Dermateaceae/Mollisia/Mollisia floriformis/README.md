@@ -1,5 +1,4 @@
-Mollisia floriformis Peck SPECIES
-=======
+# Mollisia floriformis Peck SPECIES
 
 #### Status
 ACCEPTED

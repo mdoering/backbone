@@ -1,5 +1,4 @@
-Peziza fungorum Opiz SPECIES
-=======
+# Peziza fungorum Opiz SPECIES
 
 #### Status
 ACCEPTED

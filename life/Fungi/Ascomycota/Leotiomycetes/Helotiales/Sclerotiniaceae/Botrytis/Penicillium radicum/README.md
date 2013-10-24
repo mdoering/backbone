@@ -1,5 +1,4 @@
-Penicillium radicum A.D. Hocking & Whitelaw, 1998 SPECIES
-=======
+# Penicillium radicum A.D. Hocking & Whitelaw, 1998 SPECIES
 
 #### Status
 DOUBTFUL

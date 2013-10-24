@@ -1,5 +1,4 @@
-Thalassomyces batei Niezab. SPECIES
-=======
+# Thalassomyces batei Niezab. SPECIES
 
 #### Status
 ACCEPTED

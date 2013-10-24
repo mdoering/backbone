@@ -1,5 +1,4 @@
-Helotium aglaeosporum Berk. SPECIES
-=======
+# Helotium aglaeosporum Berk. SPECIES
 
 #### Status
 ACCEPTED

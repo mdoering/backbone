@@ -1,14 +1,13 @@
-Agaricus cocciformis Berk., 1855 SPECIES
-=======
+# Chaetocalathus cocciformis (Berk.) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Botany of the Antarctic Voyage of H. M. Discovery Ships Erebus and Terror, in the years 1839-1843, I. 2: 174 (1855)
+N. Z. Jl Bot. 9(3): 413 (1971)
 
 #### Original name
 Agaricus cocciformis Berk., 1855

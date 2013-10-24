@@ -1,5 +1,4 @@
-Diplogelasinospora princeps Cain, 1961 SPECIES
-=======
+# Diplogelasinospora princeps Cain, 1961 SPECIES
 
 #### Status
 ACCEPTED

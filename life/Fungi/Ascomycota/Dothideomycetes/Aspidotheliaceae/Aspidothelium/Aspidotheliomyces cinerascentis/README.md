@@ -1,5 +1,4 @@
-Aspidotheliomyces cinerascentis Cif. & Tomas. SPECIES
-=======
+# Aspidotheliomyces cinerascentis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

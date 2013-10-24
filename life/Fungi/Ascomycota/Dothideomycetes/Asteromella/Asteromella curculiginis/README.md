@@ -1,5 +1,4 @@
-Asteromella curculiginis (Bond.-Mont.) Vanev & Aa SPECIES
-=======
+# Asteromella curculiginis (Bond.-Mont.) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

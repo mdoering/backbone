@@ -1,5 +1,4 @@
-Leptosphaeria acanthi Pat. SPECIES
-=======
+# Leptosphaeria acanthi Pat. SPECIES
 
 #### Status
 ACCEPTED

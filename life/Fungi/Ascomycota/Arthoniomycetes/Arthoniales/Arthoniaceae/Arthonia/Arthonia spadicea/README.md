@@ -1,17 +1,16 @@
-Arthonia lurida var. lurida VARIETY
-=======
+# Arthonia spadicea Leight. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. (1810)
+Ann. Mag. nat. Hist. , Ser. 2 13: 442 (1854)
 
 #### Original name
-Arthonia lurida var. lurida
+Arthonia spadicea Leight.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Parmotrema affluens (Hale) Hale SPECIES
-=======
+# Parmotrema affluens (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

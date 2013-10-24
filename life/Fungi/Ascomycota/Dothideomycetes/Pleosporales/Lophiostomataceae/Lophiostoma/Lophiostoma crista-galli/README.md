@@ -1,5 +1,4 @@
-Lophiostoma crista-galli (Durieu & Mont.) Sacc. SPECIES
-=======
+# Lophiostoma crista-galli (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

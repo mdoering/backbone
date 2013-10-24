@@ -1,5 +1,4 @@
-Nectria dealbata Berk. & Broome, 1875 SPECIES
-=======
+# Nectria dealbata Berk. & Broome, 1875 SPECIES
 
 #### Status
 ACCEPTED

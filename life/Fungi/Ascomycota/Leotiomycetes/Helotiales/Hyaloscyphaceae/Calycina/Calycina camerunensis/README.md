@@ -1,5 +1,4 @@
-Calycina camerunensis (Henn.) Kuntze SPECIES
-=======
+# Calycina camerunensis (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

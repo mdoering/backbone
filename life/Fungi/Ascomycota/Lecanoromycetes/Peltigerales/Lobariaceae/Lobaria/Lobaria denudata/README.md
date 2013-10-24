@@ -1,5 +1,4 @@
-Lobaria denudata (Taylor) C.W. Dodge SPECIES
-=======
+# Lobaria denudata (Taylor) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

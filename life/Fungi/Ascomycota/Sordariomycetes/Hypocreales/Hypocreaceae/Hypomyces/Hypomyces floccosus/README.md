@@ -1,5 +1,4 @@
-Hypomyces floccosus Fr. SPECIES
-=======
+# Hypomyces floccosus Fr. SPECIES
 
 #### Status
 ACCEPTED

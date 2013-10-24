@@ -1,5 +1,4 @@
-Parmelia hystrix G. Mey. SPECIES
-=======
+# Parmelia hystrix G. Mey. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanocella Sakai et al., 2008 GENUS
-=======
+# Methanocella Sakai et al., 2008 GENUS
 
 #### Status
 ACCEPTED

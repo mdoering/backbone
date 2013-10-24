@@ -1,5 +1,4 @@
-Rinodina magnussonii Sheard SPECIES
-=======
+# Rinodina magnussonii Sheard SPECIES
 
 #### Status
 ACCEPTED

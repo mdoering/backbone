@@ -1,5 +1,4 @@
-Diatrype spongiosa Pat. SPECIES
-=======
+# Diatrype spongiosa Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina robiniae Peck SPECIES
-=======
+# Diplodina robiniae Peck SPECIES
 
 #### Status
 ACCEPTED

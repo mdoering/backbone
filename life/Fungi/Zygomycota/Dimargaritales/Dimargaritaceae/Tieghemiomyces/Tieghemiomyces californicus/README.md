@@ -1,5 +1,4 @@
-Tieghemiomyces californicus R.K. Benj., 1959 SPECIES
-=======
+# Tieghemiomyces californicus R.K. Benj., 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platystomum argentinense Speg. SPECIES
-=======
+# Platystomum argentinense Speg. SPECIES
 
 #### Status
 ACCEPTED

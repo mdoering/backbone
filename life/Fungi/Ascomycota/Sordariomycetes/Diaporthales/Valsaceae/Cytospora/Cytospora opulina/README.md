@@ -1,5 +1,4 @@
-Cytospora opulina Allesch. SPECIES
-=======
+# Cytospora opulina Allesch. SPECIES
 
 #### Status
 ACCEPTED

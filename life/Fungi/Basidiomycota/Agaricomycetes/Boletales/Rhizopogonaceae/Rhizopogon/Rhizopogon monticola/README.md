@@ -1,5 +1,4 @@
-Rhizopogon monticola A.H. Sm. SPECIES
-=======
+# Rhizopogon monticola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

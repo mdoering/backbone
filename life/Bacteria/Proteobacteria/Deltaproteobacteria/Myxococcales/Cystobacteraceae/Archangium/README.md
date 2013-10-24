@@ -1,5 +1,4 @@
-Archangium GENUS
-=======
+# Archangium GENUS
 
 #### Status
 ACCEPTED

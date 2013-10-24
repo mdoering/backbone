@@ -1,5 +1,4 @@
-Cercospora petila Thirum. & Chupp SPECIES
-=======
+# Cercospora petila Thirum. & Chupp SPECIES
 
 #### Status
 ACCEPTED

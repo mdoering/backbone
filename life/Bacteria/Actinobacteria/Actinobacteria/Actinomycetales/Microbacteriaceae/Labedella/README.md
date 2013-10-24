@@ -1,5 +1,4 @@
-Labedella Lee, 2007 GENUS
-=======
+# Labedella Lee, 2007 GENUS
 
 #### Status
 ACCEPTED

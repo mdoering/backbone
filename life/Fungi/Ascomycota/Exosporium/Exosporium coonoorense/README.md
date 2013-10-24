@@ -1,5 +1,4 @@
-Exosporium coonoorense Subram. SPECIES
-=======
+# Exosporium coonoorense Subram. SPECIES
 
 #### Status
 ACCEPTED

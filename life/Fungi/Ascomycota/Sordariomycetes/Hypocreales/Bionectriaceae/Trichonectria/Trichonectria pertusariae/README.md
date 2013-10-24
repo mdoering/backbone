@@ -1,5 +1,4 @@
-Trichonectria pertusariae Etayo & van den Boom SPECIES
-=======
+# Trichonectria pertusariae Etayo & van den Boom SPECIES
 
 #### Status
 ACCEPTED

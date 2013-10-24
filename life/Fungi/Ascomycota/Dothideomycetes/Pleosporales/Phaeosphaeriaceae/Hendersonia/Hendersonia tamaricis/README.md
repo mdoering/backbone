@@ -1,17 +1,16 @@
-Hendersonia tamaricis f. tamaricis FORM
-=======
+# Hendersonia tamaricis SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Hendersonia tamaricis f. tamaricis
+null
 
 ### Remarks
 null

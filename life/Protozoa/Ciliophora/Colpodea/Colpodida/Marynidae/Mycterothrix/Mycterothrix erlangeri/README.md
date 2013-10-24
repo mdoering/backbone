@@ -1,8 +1,7 @@
-Trichorynchus erlangeri SPECIES
-=======
+# Mycterothrix erlangeri Lauterborn, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

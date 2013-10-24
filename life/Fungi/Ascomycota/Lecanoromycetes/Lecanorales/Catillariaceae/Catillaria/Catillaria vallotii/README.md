@@ -1,5 +1,4 @@
-Catillaria vallotii (Lamy) Zahlbr. SPECIES
-=======
+# Catillaria vallotii (Lamy) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

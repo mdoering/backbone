@@ -1,5 +1,4 @@
-Cercospora echinochloae Davis SPECIES
-=======
+# Cercospora echinochloae Davis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoothamnium kenti Leidy, ? SPECIES
-=======
+# Zoothamnium kenti Leidy, ? SPECIES
 
 #### Status
 ACCEPTED

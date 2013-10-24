@@ -1,5 +1,4 @@
-Inocybe fuscodisca (Peck) Massee SPECIES
-=======
+# Inocybe fuscodisca (Peck) Massee SPECIES
 
 #### Status
 ACCEPTED

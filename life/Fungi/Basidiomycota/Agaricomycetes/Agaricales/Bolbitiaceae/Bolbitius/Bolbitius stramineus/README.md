@@ -1,5 +1,4 @@
-Bolbitius stramineus (Murrill) Watling SPECIES
-=======
+# Bolbitius stramineus (Murrill) Watling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces xyloboli K. Põldmaa & Samuels SPECIES
-=======
+# Hypomyces xyloboli K. Põldmaa & Samuels SPECIES
 
 #### Status
 ACCEPTED

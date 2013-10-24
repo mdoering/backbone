@@ -1,5 +1,4 @@
-Lycoperdon clavatum (Fr.) Bonord. SPECIES
-=======
+# Lycoperdon clavatum (Fr.) Bonord. SPECIES
 
 #### Status
 ACCEPTED

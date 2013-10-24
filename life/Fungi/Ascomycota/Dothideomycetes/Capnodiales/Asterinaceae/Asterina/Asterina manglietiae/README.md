@@ -1,5 +1,4 @@
-Asterina manglietiae B. Song & Ouyang SPECIES
-=======
+# Asterina manglietiae B. Song & Ouyang SPECIES
 
 #### Status
 ACCEPTED

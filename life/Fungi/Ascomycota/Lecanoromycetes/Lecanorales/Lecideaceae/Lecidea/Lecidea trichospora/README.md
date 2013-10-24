@@ -1,5 +1,4 @@
-Lecidea trichospora Nyl. SPECIES
-=======
+# Lecidea trichospora Nyl. SPECIES
 
 #### Status
 ACCEPTED

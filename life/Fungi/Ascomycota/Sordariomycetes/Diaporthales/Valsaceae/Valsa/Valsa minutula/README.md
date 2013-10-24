@@ -1,5 +1,4 @@
-Valsa minutula Sacc. SPECIES
-=======
+# Valsa minutula Sacc. SPECIES
 
 #### Status
 ACCEPTED

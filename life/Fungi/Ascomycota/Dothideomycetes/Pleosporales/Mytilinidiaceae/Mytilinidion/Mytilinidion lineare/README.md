@@ -1,17 +1,16 @@
-Mytilidion lineare Rehm SPECIES
-=======
+# Mytilinidion lineare Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ber. naturw. Augsburg 26: 55 (1881)
 
 #### Original name
-Mytilidion lineare Rehm
+Mytilinidion lineare Rehm
 
 ### Remarks
 null

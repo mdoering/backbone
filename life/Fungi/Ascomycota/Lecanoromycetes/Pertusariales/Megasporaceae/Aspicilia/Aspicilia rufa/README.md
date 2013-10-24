@@ -1,5 +1,4 @@
-Aspicilia rufa Kremp. SPECIES
-=======
+# Aspicilia rufa Kremp. SPECIES
 
 #### Status
 ACCEPTED

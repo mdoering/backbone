@@ -1,5 +1,4 @@
-Asterina phyllostegiae F. Stevens & R.W. Ryan SPECIES
-=======
+# Asterina phyllostegiae F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

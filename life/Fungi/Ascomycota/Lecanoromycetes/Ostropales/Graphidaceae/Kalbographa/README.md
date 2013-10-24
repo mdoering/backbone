@@ -1,5 +1,4 @@
-Kalbographa Lücking GENUS
-=======
+# Kalbographa Lücking GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophosphaeridium vieillum Cramer & Díez, 1972 SPECIES
-=======
+# Lophosphaeridium vieillum Cramer & Díez, 1972 SPECIES
 
 #### Status
 ACCEPTED

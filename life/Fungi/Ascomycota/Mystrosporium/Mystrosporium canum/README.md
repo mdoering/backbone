@@ -1,5 +1,4 @@
-Mystrosporium canum Preuss SPECIES
-=======
+# Mystrosporium canum Preuss SPECIES
 
 #### Status
 ACCEPTED

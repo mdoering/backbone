@@ -1,5 +1,4 @@
-Pseudohalonectria longirostrum Shearer, 1989 SPECIES
-=======
+# Pseudohalonectria longirostrum Shearer, 1989 SPECIES
 
 #### Status
 ACCEPTED

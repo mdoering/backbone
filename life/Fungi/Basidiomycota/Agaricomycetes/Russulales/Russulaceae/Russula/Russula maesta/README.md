@@ -1,5 +1,4 @@
-Russula maesta Kucera SPECIES
-=======
+# Russula maesta Kucera SPECIES
 
 #### Status
 ACCEPTED

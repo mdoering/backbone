@@ -1,17 +1,16 @@
-Inocybe xanthocephala f. xanthocephala FORM
-=======
+# Inocybe flavella P. Karst., 1890 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43(2): 277 (1960)
+Meddn Soc. Fauna Flora fenn. 16: 100 (1890)
 
 #### Original name
-Inocybe xanthocephala f. xanthocephala
+Inocybe flavella P. Karst., 1890
 
 ### Remarks
 null

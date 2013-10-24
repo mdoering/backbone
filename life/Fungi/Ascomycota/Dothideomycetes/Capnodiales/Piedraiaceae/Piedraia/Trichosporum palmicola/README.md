@@ -1,5 +1,4 @@
-Trichosporum palmicola (Cooke) Sacc. SPECIES
-=======
+# Trichosporum palmicola (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

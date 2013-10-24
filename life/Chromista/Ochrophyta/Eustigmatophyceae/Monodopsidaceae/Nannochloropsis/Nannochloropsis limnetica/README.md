@@ -1,5 +1,4 @@
-Nannochloropsis limnetica L. Krienitz, D. Hepperle, H.-B. Stich & W. Weiler SPECIES
-=======
+# Nannochloropsis limnetica L. Krienitz, D. Hepperle, H.-B. Stich & W. Weiler SPECIES
 
 #### Status
 ACCEPTED

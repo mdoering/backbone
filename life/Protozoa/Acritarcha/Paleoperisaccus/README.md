@@ -1,5 +1,4 @@
-Paleoperisaccus GENUS
-=======
+# Paleoperisaccus GENUS
 
 #### Status
 ACCEPTED

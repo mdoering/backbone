@@ -1,5 +1,4 @@
-Vladracula almoreum R.C. Gupta & Fotedar, 2004 SPECIES
-=======
+# Vladracula almoreum R.C. Gupta & Fotedar, 2004 SPECIES
 
 #### Status
 ACCEPTED

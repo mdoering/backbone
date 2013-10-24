@@ -1,5 +1,4 @@
-Cobetia Arahal et al., 2002 GENUS
-=======
+# Cobetia Arahal et al., 2002 GENUS
 
 #### Status
 ACCEPTED

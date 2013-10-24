@@ -1,5 +1,4 @@
-Sphaerella begoniae Pat. SPECIES
-=======
+# Sphaerella begoniae Pat. SPECIES
 
 #### Status
 ACCEPTED

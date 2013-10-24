@@ -1,14 +1,13 @@
-Membranomyces delectabilis (H.S. Jacks.) Kotir. & Saaren., 1993 SPECIES
-=======
+# Clavulicium delectabile (H.S. Jacks.) Hjortstam, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. bot. fenn. 30(3): 227 (1993)
+Svensk bot. Tidskr. 67(2): 107 (1973)
 
 #### Original name
 null

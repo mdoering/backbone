@@ -1,5 +1,4 @@
-Puccinia longispora McAlpine SPECIES
-=======
+# Puccinia longispora McAlpine SPECIES
 
 #### Status
 ACCEPTED

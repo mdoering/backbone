@@ -1,5 +1,4 @@
-Bisporella macra Svrcek SPECIES
-=======
+# Bisporella macra Svrcek SPECIES
 
 #### Status
 ACCEPTED

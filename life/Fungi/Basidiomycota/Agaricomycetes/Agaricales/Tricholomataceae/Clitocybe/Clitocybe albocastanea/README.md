@@ -1,5 +1,4 @@
-Clitocybe albocastanea Murrill SPECIES
-=======
+# Clitocybe albocastanea Murrill SPECIES
 
 #### Status
 ACCEPTED

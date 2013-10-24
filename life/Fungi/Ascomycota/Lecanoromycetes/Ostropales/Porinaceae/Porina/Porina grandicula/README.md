@@ -1,5 +1,4 @@
-Porina grandicula (Nyl.) Zahlbr. SPECIES
-=======
+# Porina grandicula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

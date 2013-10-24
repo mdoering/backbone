@@ -1,5 +1,4 @@
-Bovista acuminata (Bosc) Kreisel SPECIES
-=======
+# Bovista acuminata (Bosc) Kreisel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystobacter erectus J. Schröt. SPECIES
-=======
+# Cystobacter erectus J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

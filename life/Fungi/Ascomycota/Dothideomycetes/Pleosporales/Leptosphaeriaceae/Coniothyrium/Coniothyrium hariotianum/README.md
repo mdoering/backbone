@@ -1,5 +1,4 @@
-Coniothyrium hariotianum Speg. SPECIES
-=======
+# Coniothyrium hariotianum Speg. SPECIES
 
 #### Status
 ACCEPTED

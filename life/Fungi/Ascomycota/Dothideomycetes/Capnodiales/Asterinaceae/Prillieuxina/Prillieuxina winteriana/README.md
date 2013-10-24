@@ -1,14 +1,13 @@
-Asterina winteriana Pazschke, 1892 SPECIES
-=======
+# Prillieuxina winteriana (Pazschke) G. Arnaud, 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 31(3): 104 (1892)
+Ann. Ecole Nat. Agr. Montpell. 16(1-4): 162 (1918)
 
 #### Original name
 Asterina winteriana Pazschke, 1892

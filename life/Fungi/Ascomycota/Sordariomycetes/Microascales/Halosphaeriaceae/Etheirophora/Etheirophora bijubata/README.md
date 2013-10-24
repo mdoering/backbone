@@ -1,5 +1,4 @@
-Etheirophora bijubata Kohlm. & Volkm.-Kohlm., 1989 SPECIES
-=======
+# Etheirophora bijubata Kohlm. & Volkm.-Kohlm., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nolanea rigidipes Torrend SPECIES
-=======
+# Nolanea rigidipes Torrend SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chytridium cresentum S.N. Dasgupta SPECIES
-=======
+# Chytridium cresentum S.N. Dasgupta SPECIES
 
 #### Status
 ACCEPTED

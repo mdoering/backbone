@@ -1,5 +1,4 @@
-Phoma bentianae Kuhn SPECIES
-=======
+# Phoma bentianae Kuhn SPECIES
 
 #### Status
 ACCEPTED

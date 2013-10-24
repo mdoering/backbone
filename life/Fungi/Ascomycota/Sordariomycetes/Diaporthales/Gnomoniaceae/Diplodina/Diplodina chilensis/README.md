@@ -1,5 +1,4 @@
-Diplodina chilensis Speg. SPECIES
-=======
+# Diplodina chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

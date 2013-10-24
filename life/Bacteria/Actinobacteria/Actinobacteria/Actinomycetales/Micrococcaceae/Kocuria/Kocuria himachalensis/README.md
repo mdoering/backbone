@@ -1,5 +1,4 @@
-Kocuria himachalensis Mayilraj et al., 2006 SPECIES
-=======
+# Kocuria himachalensis Mayilraj et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

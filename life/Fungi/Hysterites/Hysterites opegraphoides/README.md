@@ -1,5 +1,4 @@
-Hysterites opegraphoides Göpp. SPECIES
-=======
+# Hysterites opegraphoides Göpp. SPECIES
 
 #### Status
 ACCEPTED

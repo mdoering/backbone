@@ -1,5 +1,4 @@
-Mycosphaerella pachystimae Dearn. SPECIES
-=======
+# Mycosphaerella pachystimae Dearn. SPECIES
 
 #### Status
 ACCEPTED

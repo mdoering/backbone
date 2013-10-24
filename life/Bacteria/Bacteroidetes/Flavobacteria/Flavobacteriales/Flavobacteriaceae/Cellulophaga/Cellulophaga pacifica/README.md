@@ -1,5 +1,4 @@
-Cellulophaga pacifica Nedashkovskaya et al., 2004 SPECIES
-=======
+# Cellulophaga pacifica Nedashkovskaya et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

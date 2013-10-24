@@ -1,5 +1,4 @@
-Melomastia aquilegiae Domashova SPECIES
-=======
+# Melomastia aquilegiae Domashova SPECIES
 
 #### Status
 ACCEPTED

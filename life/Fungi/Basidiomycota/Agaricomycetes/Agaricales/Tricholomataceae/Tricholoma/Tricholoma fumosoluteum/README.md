@@ -1,5 +1,4 @@
-Tricholoma fumosoluteum Peck SPECIES
-=======
+# Tricholoma fumosoluteum Peck SPECIES
 
 #### Status
 ACCEPTED

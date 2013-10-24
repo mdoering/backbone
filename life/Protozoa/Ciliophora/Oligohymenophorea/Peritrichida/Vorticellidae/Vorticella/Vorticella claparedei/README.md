@@ -1,5 +1,4 @@
-Vorticella claparedei Andrussowa, 1886 SPECIES
-=======
+# Vorticella claparedei Andrussowa, 1886 SPECIES
 
 #### Status
 ACCEPTED

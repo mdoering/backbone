@@ -1,5 +1,4 @@
-Pluricellaesporites beaufortensis M.G. Parsons & G. Norris SPECIES
-=======
+# Pluricellaesporites beaufortensis M.G. Parsons & G. Norris SPECIES
 
 #### Status
 ACCEPTED

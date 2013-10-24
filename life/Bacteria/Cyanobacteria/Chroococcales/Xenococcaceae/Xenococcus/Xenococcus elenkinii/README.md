@@ -1,5 +1,4 @@
-Xenococcus elenkinii Pohribniak SPECIES
-=======
+# Xenococcus elenkinii Pohribniak SPECIES
 
 #### Status
 ACCEPTED

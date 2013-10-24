@@ -1,5 +1,4 @@
-Polyporus submaculosus Murrill SPECIES
-=======
+# Polyporus submaculosus Murrill SPECIES
 
 #### Status
 ACCEPTED

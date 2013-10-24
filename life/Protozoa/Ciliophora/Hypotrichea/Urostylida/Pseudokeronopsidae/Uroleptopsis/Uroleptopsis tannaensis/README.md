@@ -1,5 +1,4 @@
-Uroleptopsis tannaensis (Shigematsu, 1953) Berger, 2004 SPECIES
-=======
+# Uroleptopsis tannaensis (Shigematsu, 1953) Berger, 2004 SPECIES
 
 #### Status
 ACCEPTED

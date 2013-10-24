@@ -1,5 +1,4 @@
-Omphalodiscus africanus (Jatta) Llano SPECIES
-=======
+# Omphalodiscus africanus (Jatta) Llano SPECIES
 
 #### Status
 ACCEPTED

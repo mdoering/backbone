@@ -1,5 +1,4 @@
-Hypotrachyna goiasii Elix & T. H. Nash SPECIES
-=======
+# Hypotrachyna goiasii Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

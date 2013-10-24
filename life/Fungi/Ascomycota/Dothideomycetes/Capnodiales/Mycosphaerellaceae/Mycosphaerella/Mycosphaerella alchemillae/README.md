@@ -1,5 +1,4 @@
-Mycosphaerella alchemillae Vassiljevsky SPECIES
-=======
+# Mycosphaerella alchemillae Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

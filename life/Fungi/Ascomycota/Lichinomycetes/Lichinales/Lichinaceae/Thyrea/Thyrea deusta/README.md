@@ -1,5 +1,4 @@
-Thyrea deusta (Tuck.) Zahlbr. SPECIES
-=======
+# Thyrea deusta (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoleptodiscus affinis Alcorn & P.F. Cannon SPECIES
-=======
+# Mycoleptodiscus affinis Alcorn & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

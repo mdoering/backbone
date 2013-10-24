@@ -1,5 +1,4 @@
-Caeoma grossulariatum Link SPECIES
-=======
+# Caeoma grossulariatum Link SPECIES
 
 #### Status
 ACCEPTED

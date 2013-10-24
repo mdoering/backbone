@@ -1,5 +1,4 @@
-Coniothyrium scapisedum Sacc. & Speg. SPECIES
-=======
+# Coniothyrium scapisedum Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

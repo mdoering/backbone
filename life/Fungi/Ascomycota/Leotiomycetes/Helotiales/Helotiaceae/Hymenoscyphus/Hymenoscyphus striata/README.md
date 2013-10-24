@@ -1,8 +1,7 @@
-Hymenoscypha striata W. Phillips SPECIES
-=======
+# Hymenoscyphus striata W. Phillips SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hymenoscypha striata W. Phillips
+Hymenoscyphus striata W. Phillips
 
 ### Remarks
 null

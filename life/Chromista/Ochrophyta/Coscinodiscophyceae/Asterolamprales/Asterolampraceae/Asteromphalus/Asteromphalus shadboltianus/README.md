@@ -1,5 +1,4 @@
-Asteromphalus shadboltianus (Greville) Ralfs, 1861 SPECIES
-=======
+# Asteromphalus shadboltianus (Greville) Ralfs, 1861 SPECIES
 
 #### Status
 ACCEPTED

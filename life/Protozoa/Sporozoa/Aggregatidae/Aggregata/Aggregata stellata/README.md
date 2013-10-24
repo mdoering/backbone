@@ -1,5 +1,4 @@
-Aggregata stellata Moroff, 1908 SPECIES
-=======
+# Aggregata stellata Moroff, 1908 SPECIES
 
 #### Status
 ACCEPTED

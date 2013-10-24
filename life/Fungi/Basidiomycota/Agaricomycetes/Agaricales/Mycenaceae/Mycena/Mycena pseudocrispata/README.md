@@ -1,5 +1,4 @@
-Mycena pseudocrispata Valla SPECIES
-=======
+# Mycena pseudocrispata Valla SPECIES
 
 #### Status
 ACCEPTED

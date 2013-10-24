@@ -1,5 +1,4 @@
-Pirea calvitia Vavrdová, 1986 SPECIES
-=======
+# Pirea calvitia Vavrdová, 1986 SPECIES
 
 #### Status
 ACCEPTED

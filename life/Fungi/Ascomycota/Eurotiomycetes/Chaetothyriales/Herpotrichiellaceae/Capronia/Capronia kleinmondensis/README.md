@@ -1,5 +1,4 @@
-Capronia kleinmondensis Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Capronia kleinmondensis Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

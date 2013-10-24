@@ -1,8 +1,7 @@
-Calyptrolithina poritectum (B.R. Heimdal) Norris SPECIES
-=======
+# Poritectolithus poritectum (B.R. Heimdal) A. Kleijne SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

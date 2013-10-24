@@ -1,5 +1,4 @@
-Candida restingae C.A. Rosa, Lachance, Starmer, J.S.F. Barker, J.M. Bowles & Schlag-Edl. SPECIES
-=======
+# Candida restingae C.A. Rosa, Lachance, Starmer, J.S.F. Barker, J.M. Bowles & Schlag-Edl. SPECIES
 
 #### Status
 ACCEPTED

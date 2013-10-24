@@ -1,5 +1,4 @@
-Transversopontis fimbriatus (Bramlette & Sullivan, 1961) Locker, 1968 SPECIES
-=======
+# Transversopontis fimbriatus (Bramlette & Sullivan, 1961) Locker, 1968 SPECIES
 
 #### Status
 ACCEPTED

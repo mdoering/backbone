@@ -1,5 +1,4 @@
-Calosphaeria ciliatula var. ciliatula VARIETY
-=======
+# Calosphaeria ciliatula (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calosphaeria ciliatula var. ciliatula
+Sphaeria ciliatula Fr.
 
 ### Remarks
 null

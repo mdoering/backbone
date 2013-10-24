@@ -1,5 +1,4 @@
-Telimena pleioblasti I. Hino & Katum., 1956 SPECIES
-=======
+# Telimena pleioblasti I. Hino & Katum., 1956 SPECIES
 
 #### Status
 ACCEPTED

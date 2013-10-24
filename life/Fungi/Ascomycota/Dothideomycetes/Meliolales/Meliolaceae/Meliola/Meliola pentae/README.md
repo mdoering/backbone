@@ -1,5 +1,4 @@
-Meliola pentae anon. SPECIES
-=======
+# Meliola pentae anon. SPECIES
 
 #### Status
 ACCEPTED

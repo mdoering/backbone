@@ -1,5 +1,4 @@
-Pluteolus parvulus Murrill SPECIES
-=======
+# Pluteolus parvulus Murrill SPECIES
 
 #### Status
 ACCEPTED

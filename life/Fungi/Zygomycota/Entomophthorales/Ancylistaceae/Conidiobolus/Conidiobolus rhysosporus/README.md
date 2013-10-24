@@ -1,5 +1,4 @@
-Conidiobolus rhysosporus Drechsler, 1954 SPECIES
-=======
+# Conidiobolus rhysosporus Drechsler, 1954 SPECIES
 
 #### Status
 ACCEPTED

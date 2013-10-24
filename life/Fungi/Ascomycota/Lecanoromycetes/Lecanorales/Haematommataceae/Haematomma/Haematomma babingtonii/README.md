@@ -1,5 +1,4 @@
-Haematomma babingtonii A. Massal. SPECIES
-=======
+# Haematomma babingtonii A. Massal. SPECIES
 
 #### Status
 ACCEPTED

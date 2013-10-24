@@ -1,5 +1,4 @@
-Strumella griseola Höhn., 1903 SPECIES
-=======
+# Strumella griseola Höhn., 1903 SPECIES
 
 #### Status
 ACCEPTED

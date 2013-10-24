@@ -1,5 +1,4 @@
-Hypocrea solida (Schwein.) Cooke SPECIES
-=======
+# Hypocrea solida (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

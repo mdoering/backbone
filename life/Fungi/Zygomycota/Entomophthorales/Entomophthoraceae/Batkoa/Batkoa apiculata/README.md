@@ -1,17 +1,16 @@
-Empusa apiculata var. apiculata Thaxt. VARIETY
-=======
+# Batkoa apiculata (Thaxt.) Humber, 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)
+Mycotaxon 34(2): 446 (1989)
 
 #### Original name
-Empusa apiculata var. apiculata Thaxt.
+Empusa apiculata Thaxt., 1888
 
 ### Remarks
 null

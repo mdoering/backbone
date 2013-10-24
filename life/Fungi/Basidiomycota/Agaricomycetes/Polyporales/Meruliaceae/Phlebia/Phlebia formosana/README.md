@@ -1,14 +1,13 @@
-Lilaceophlebia formosana (Sheng H. Wu) Spirin & Zmitr., 2004 SPECIES
-=======
+# Phlebia formosana Sheng H. Wu, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. 37: 179 (2004)
+Acta bot. fenn. 142: 27 (1990)
 
 #### Original name
 Phlebia formosana Sheng H. Wu, 1990

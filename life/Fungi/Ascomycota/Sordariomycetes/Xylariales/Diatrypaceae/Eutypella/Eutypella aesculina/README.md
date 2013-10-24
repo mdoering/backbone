@@ -1,5 +1,4 @@
-Eutypella aesculina Ellis & Everh. SPECIES
-=======
+# Eutypella aesculina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

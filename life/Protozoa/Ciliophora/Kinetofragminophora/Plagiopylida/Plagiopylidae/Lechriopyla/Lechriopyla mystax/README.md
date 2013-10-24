@@ -1,5 +1,4 @@
-Lechriopyla mystax Lynch, 1930 SPECIES
-=======
+# Lechriopyla mystax Lynch, 1930 SPECIES
 
 #### Status
 ACCEPTED

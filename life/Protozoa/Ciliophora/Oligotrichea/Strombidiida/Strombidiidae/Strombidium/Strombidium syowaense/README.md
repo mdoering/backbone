@@ -1,5 +1,4 @@
-Strombidium syowaense (Hada, 1970) Maeda & Carey, 1985 SPECIES
-=======
+# Strombidium syowaense (Hada, 1970) Maeda & Carey, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius curtipes Murrill SPECIES
-=======
+# Marasmius curtipes Murrill SPECIES
 
 #### Status
 ACCEPTED

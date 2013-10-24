@@ -1,5 +1,4 @@
-Anomomorpha subtorquens (Nyl.) Staiger SPECIES
-=======
+# Anomomorpha subtorquens (Nyl.) Staiger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis phyllanthicola C.Q. Chang, Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Phomopsis phyllanthicola C.Q. Chang, Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomeliola GENUS
-=======
+# Chaetomeliola GENUS
 
 #### Status
 ACCEPTED

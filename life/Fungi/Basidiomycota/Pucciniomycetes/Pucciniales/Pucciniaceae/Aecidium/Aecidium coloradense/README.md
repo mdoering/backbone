@@ -1,5 +1,4 @@
-Aecidium coloradense Dietel SPECIES
-=======
+# Aecidium coloradense Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia perspicabilis H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia perspicabilis H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia effusa Berk. & M.A. Curtis SPECIES
-=======
+# Hendersonia effusa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

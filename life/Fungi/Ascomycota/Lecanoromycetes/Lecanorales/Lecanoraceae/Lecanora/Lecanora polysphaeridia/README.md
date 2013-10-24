@@ -1,5 +1,4 @@
-Lecanora polysphaeridia Alstrup SPECIES
-=======
+# Lecanora polysphaeridia Alstrup SPECIES
 
 #### Status
 ACCEPTED

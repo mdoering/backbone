@@ -1,14 +1,13 @@
-Torulopsis sonorensis M.W. Mill., Phaff, M. Miranda, Heed & Starmer, 1976 SPECIES
-=======
+# Candida sonorensis (J.H. Mill., Giddens & A.A. Foster) S.A. Mey. & Yarrow, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Yarrow & Meyer, Int. J. Syst. Bacteriol. 28(4): 613 (1978)
 
 #### Original name
 null

@@ -1,17 +1,16 @@
-Phaeodiscus L.R. Batra GENUS
-=======
+# Lambertella von Höhnel, 1918 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 55: 1205 (1968)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 127: 375 (1918)
 
 #### Original name
-Phaeodiscus L.R. Batra
+Lambertella von Höhnel, 1918
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Caloplaca bahiensis Zahlbr. ex Luetzelb. SPECIES
-=======
+# Caloplaca bahiensis Zahlbr. ex Luetzelb. SPECIES
 
 #### Status
 ACCEPTED

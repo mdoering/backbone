@@ -1,5 +1,4 @@
-Staurothele saprophila (Arnold) J. Lahm SPECIES
-=======
+# Staurothele saprophila (Arnold) J. Lahm SPECIES
 
 #### Status
 ACCEPTED

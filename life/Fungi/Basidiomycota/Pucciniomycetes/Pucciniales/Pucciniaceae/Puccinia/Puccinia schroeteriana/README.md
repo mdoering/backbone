@@ -1,5 +1,4 @@
-Puccinia schroeteriana Kleb. SPECIES
-=======
+# Puccinia schroeteriana Kleb. SPECIES
 
 #### Status
 ACCEPTED

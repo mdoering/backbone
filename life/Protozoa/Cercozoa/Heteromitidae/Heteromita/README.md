@@ -1,14 +1,13 @@
-Sciviamonas Ekelund & Patterson, 1997 GENUS
-=======
+# Heteromita Dujardin GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Arch Protistenkd 148 (4), Dezember: 474.
+(Roret's Suite à Buffon) Infusoires, 297.
 
 #### Original name
 null

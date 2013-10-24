@@ -1,5 +1,4 @@
-Hemimycena pleurotiformis Singer SPECIES
-=======
+# Hemimycena pleurotiformis Singer SPECIES
 
 #### Status
 ACCEPTED

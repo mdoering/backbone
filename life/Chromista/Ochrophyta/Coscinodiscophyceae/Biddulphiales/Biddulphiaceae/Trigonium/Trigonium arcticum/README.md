@@ -1,5 +1,4 @@
-Trigonium arcticum f. quadratum T.V. Desikachary FORM
-=======
+# Trigonium arcticum (Brightwell) Cleve SPECIES
 
 #### Status
 ACCEPTED

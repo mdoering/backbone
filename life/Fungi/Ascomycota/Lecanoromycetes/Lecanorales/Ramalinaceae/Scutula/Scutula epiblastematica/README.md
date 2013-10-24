@@ -1,5 +1,4 @@
-Scutula epiblastematica f. epiblastematica FORM
-=======
+# Scutula epiblastematica (Wallr.) Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(3): 294 (1890)
 
 #### Original name
-Scutula epiblastematica f. epiblastematica
+null
 
 ### Remarks
 null

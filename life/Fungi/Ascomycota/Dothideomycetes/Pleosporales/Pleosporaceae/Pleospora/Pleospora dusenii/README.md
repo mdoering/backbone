@@ -1,5 +1,4 @@
-Pleospora dusenii Petr. SPECIES
-=======
+# Pleospora dusenii Petr. SPECIES
 
 #### Status
 ACCEPTED

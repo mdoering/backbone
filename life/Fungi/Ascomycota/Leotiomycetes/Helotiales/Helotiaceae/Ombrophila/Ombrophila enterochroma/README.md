@@ -1,5 +1,4 @@
-Ombrophila enterochroma (Peck) Sacc. SPECIES
-=======
+# Ombrophila enterochroma (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

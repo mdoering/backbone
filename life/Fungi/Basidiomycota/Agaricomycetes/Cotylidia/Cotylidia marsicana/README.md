@@ -1,5 +1,4 @@
-Cotylidia marsicana Lonati, 2000 SPECIES
-=======
+# Cotylidia marsicana Lonati, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida lassenensis Kurtzman SPECIES
-=======
+# Candida lassenensis Kurtzman SPECIES
 
 #### Status
 ACCEPTED

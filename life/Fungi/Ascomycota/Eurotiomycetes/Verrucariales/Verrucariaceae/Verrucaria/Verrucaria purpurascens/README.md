@@ -1,5 +1,4 @@
-Verrucaria purpurascens var. purpurascens VARIETY
-=======
+# Verrucaria purpurascens Hoffm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria purpurascens var. purpurascens
+Verrucaria purpurascens Hoffm.
 
 ### Remarks
 null

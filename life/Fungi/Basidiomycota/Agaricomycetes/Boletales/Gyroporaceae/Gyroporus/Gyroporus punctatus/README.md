@@ -1,5 +1,4 @@
-Gyroporus punctatus Lj.N. Vassiljeva SPECIES
-=======
+# Gyroporus punctatus Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

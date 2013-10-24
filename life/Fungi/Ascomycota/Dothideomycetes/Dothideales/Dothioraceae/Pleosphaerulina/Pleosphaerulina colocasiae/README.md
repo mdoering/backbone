@@ -1,5 +1,4 @@
-Pleosphaerulina colocasiae Rangel SPECIES
-=======
+# Pleosphaerulina colocasiae Rangel SPECIES
 
 #### Status
 ACCEPTED

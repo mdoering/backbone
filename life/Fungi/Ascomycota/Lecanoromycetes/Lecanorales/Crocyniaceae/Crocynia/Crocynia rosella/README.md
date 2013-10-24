@@ -1,5 +1,4 @@
-Crocynia rosella Hue SPECIES
-=======
+# Crocynia rosella Hue SPECIES
 
 #### Status
 ACCEPTED

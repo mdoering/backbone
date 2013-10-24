@@ -1,5 +1,4 @@
-Streptomyces jietaisiensis He et al., 2005 SPECIES
-=======
+# Streptomyces jietaisiensis He et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

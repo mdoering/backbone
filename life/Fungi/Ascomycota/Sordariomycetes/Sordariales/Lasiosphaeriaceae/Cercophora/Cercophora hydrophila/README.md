@@ -1,5 +1,4 @@
-Cercophora hydrophila (Kirschst.) P. Chaudhary, J. Fourn. & A.N. Mill. SPECIES
-=======
+# Cercophora hydrophila (Kirschst.) P. Chaudhary, J. Fourn. & A.N. Mill. SPECIES
 
 #### Status
 ACCEPTED

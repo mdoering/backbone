@@ -1,5 +1,4 @@
-Sphaeria pertusa Berk. & Broome SPECIES
-=======
+# Sphaeria pertusa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

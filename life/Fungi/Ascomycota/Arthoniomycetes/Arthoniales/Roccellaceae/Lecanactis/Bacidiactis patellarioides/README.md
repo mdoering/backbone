@@ -1,5 +1,4 @@
-Bacidiactis patellarioides (Nyl.) M. Choisy SPECIES
-=======
+# Bacidiactis patellarioides (Nyl.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

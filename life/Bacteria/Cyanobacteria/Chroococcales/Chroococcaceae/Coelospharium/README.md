@@ -1,5 +1,4 @@
-Coelospharium GENUS
-=======
+# Coelospharium GENUS
 
 #### Status
 ACCEPTED

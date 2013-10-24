@@ -1,5 +1,4 @@
-Midotis guaranitica (Speg.) Rick SPECIES
-=======
+# Midotis guaranitica (Speg.) Rick SPECIES
 
 #### Status
 ACCEPTED

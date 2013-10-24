@@ -1,5 +1,4 @@
-Phoma stiparum Speg. SPECIES
-=======
+# Phoma stiparum Speg. SPECIES
 
 #### Status
 ACCEPTED

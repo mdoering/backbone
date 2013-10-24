@@ -1,5 +1,4 @@
-Arthonia horaria Norman SPECIES
-=======
+# Arthonia horaria Norman SPECIES
 
 #### Status
 ACCEPTED

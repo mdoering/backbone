@@ -1,5 +1,4 @@
-Squamaria reticulata var. reticulata (Kremp.) Szatala VARIETY
-=======
+# Squamaria reticulata (Kremp.) Szatala SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamaria reticulata var. reticulata (Kremp.) Szatala
+null
 
 ### Remarks
 null

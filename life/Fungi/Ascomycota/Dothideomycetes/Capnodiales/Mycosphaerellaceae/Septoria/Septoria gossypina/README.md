@@ -1,5 +1,4 @@
-Septoria gossypina Cooke SPECIES
-=======
+# Septoria gossypina Cooke SPECIES
 
 #### Status
 ACCEPTED

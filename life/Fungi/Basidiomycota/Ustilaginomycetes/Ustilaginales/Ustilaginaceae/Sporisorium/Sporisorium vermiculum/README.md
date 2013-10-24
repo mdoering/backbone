@@ -1,5 +1,4 @@
-Sporisorium vermiculum R.G. Shivas, McTaggart & Vánky SPECIES
-=======
+# Sporisorium vermiculum R.G. Shivas, McTaggart & Vánky SPECIES
 
 #### Status
 ACCEPTED

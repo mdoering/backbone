@@ -1,5 +1,4 @@
-Gyroporus fumosiceps Murrill SPECIES
-=======
+# Gyroporus fumosiceps Murrill SPECIES
 
 #### Status
 ACCEPTED

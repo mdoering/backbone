@@ -1,5 +1,4 @@
-Multicellaesporites megafusus Z.C. Song, Qian & Y.H. Zheng SPECIES
-=======
+# Multicellaesporites megafusus Z.C. Song, Qian & Y.H. Zheng SPECIES
 
 #### Status
 ACCEPTED

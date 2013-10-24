@@ -1,5 +1,4 @@
-Teichospora gilliesi f. gilliesi FORM
-=======
+# Teichospora gilliesi Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Mus. nac. B. Aires, Ser. 3 19(12): 394 (1909)
 
 #### Original name
-Teichospora gilliesi f. gilliesi
+Teichospora gilliesi Speg.
 
 ### Remarks
 null

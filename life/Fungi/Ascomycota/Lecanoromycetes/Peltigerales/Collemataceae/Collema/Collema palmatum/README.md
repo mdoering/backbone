@@ -1,5 +1,4 @@
-Collema palmatum Sommerf. SPECIES
-=======
+# Collema palmatum Sommerf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybula cyanocephala (Pat.) Singer SPECIES
-=======
+# Clitocybula cyanocephala (Pat.) Singer SPECIES
 
 #### Status
 ACCEPTED

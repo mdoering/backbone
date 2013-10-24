@@ -1,5 +1,4 @@
-Puccinia nuda Ellis & Everh. SPECIES
-=======
+# Puccinia nuda Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

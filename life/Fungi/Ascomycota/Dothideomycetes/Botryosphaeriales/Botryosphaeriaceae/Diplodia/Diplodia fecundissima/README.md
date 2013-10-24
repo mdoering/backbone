@@ -1,5 +1,4 @@
-Diplodia fecundissima Sacc. SPECIES
-=======
+# Diplodia fecundissima Sacc. SPECIES
 
 #### Status
 ACCEPTED

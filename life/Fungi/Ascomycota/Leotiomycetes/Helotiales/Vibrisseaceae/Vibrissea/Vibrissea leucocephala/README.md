@@ -1,5 +1,4 @@
-Vibrissea leucocephala G.W. Beaton & Weste SPECIES
-=======
+# Vibrissea leucocephala G.W. Beaton & Weste SPECIES
 
 #### Status
 ACCEPTED

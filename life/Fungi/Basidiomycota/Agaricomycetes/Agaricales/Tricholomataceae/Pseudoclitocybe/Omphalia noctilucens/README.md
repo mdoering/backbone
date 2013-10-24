@@ -1,5 +1,4 @@
-Omphalia noctilucens Rick SPECIES
-=======
+# Omphalia noctilucens Rick SPECIES
 
 #### Status
 ACCEPTED

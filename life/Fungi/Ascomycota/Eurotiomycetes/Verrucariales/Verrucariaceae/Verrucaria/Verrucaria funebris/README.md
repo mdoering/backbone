@@ -1,5 +1,4 @@
-Verrucaria funebris Zahlbr. SPECIES
-=======
+# Verrucaria funebris Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

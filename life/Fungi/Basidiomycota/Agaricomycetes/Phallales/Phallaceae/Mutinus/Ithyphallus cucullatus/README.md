@@ -1,5 +1,4 @@
-Ithyphallus cucullatus Pat. SPECIES
-=======
+# Ithyphallus cucullatus Pat. SPECIES
 
 #### Status
 ACCEPTED

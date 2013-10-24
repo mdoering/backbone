@@ -1,5 +1,4 @@
-Cytosporella paradoxa Trotter SPECIES
-=======
+# Cytosporella paradoxa Trotter SPECIES
 
 #### Status
 ACCEPTED

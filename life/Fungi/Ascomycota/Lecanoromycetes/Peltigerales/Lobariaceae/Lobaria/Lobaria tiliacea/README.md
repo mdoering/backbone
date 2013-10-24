@@ -1,5 +1,4 @@
-Lobaria tiliacea (Hoffm.) Hoffm. SPECIES
-=======
+# Lobaria tiliacea (Hoffm.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

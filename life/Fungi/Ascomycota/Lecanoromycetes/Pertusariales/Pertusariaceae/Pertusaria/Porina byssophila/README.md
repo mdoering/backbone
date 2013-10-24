@@ -1,8 +1,7 @@
-Verrucaria byssophila (Körb.) Nyl., 1882 SPECIES
-=======
+# Porina byssophila (Körb. ex Hepp) Zahlbr., 1903 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

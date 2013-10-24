@@ -1,14 +1,13 @@
-Arthrobotrys arcuata (Scheuer & J. Webster) Yan Li, 2006 SPECIES
-=======
+# Dactylellina arcuata (Scheuer & J. Webster) Ying Yang & Xing Z. Liu, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Li, Hyde, Jeewon, Cai, Vijaykrishna & Zhang, Mycologia 97(5): 1042 (2006)
+Mycotaxon 97: 158 (2006)
 
 #### Original name
 Dactylella arcuata Scheuer & J. Webster, 1990

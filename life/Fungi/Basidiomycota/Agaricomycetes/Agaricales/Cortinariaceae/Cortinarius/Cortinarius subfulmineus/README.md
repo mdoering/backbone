@@ -1,5 +1,4 @@
-Cortinarius subfulmineus Murrill SPECIES
-=======
+# Cortinarius subfulmineus Murrill SPECIES
 
 #### Status
 ACCEPTED

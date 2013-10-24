@@ -1,5 +1,4 @@
-Hydnum incanum Lév. SPECIES
-=======
+# Hydnum incanum Lév. SPECIES
 
 #### Status
 ACCEPTED

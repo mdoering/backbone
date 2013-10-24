@@ -1,5 +1,4 @@
-Cortinarius pardinipes Romagn. SPECIES
-=======
+# Cortinarius pardinipes Romagn. SPECIES
 
 #### Status
 ACCEPTED

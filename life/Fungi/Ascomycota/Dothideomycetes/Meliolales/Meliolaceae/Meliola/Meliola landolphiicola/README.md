@@ -1,5 +1,4 @@
-Meliola landolphiicola Hansf. SPECIES
-=======
+# Meliola landolphiicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbilicaria dillenii var. dillenii VARIETY
-=======
+# Umbilicaria dillenii Tuck. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Umbilicaria dillenii var. dillenii
+Umbilicaria dillenii Tuck.
 
 ### Remarks
 null

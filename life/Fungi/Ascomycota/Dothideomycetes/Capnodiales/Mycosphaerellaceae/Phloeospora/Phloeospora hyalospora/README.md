@@ -1,5 +1,4 @@
-Phloeospora hyalospora (Cooke & Massee) Sacc. SPECIES
-=======
+# Phloeospora hyalospora (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

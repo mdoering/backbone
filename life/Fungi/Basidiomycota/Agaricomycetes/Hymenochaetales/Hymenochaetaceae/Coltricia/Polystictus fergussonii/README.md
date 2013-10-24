@@ -1,8 +1,7 @@
-Polystictus fergussoni Berk. ex Cooke SPECIES
-=======
+# Polystictus fergussonii Berk. ex Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polystictus fergussoni Berk. ex Cooke
+Polystictus fergussonii Berk. ex Cooke
 
 ### Remarks
 null

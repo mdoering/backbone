@@ -1,5 +1,4 @@
-Acarospora bylii H. Magn. SPECIES
-=======
+# Acarospora bylii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

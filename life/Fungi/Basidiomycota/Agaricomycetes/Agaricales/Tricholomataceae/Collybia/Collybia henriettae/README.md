@@ -1,5 +1,4 @@
-Collybia henriettae (W.G. Sm.) Sacc. & D. Sacc. SPECIES
-=======
+# Collybia henriettae (W.G. Sm.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

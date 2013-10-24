@@ -1,5 +1,4 @@
-Agaricus tephras Berk. & Broome SPECIES
-=======
+# Agaricus tephras Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

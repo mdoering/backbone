@@ -1,5 +1,4 @@
-Terana hepatica (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Terana hepatica (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

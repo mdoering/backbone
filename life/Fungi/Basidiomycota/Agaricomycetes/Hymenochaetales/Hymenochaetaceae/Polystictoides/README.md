@@ -1,5 +1,4 @@
-Polystictoides GENUS
-=======
+# Polystictoides GENUS
 
 #### Status
 ACCEPTED

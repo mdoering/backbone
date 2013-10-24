@@ -1,5 +1,4 @@
-Tremella aurantiolutea Lowy SPECIES
-=======
+# Tremella aurantiolutea Lowy SPECIES
 
 #### Status
 ACCEPTED

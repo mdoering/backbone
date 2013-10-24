@@ -1,5 +1,4 @@
-Diplocladium rennyi (Berk. & Broome) Sacc. SPECIES
-=======
+# Diplocladium rennyi (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

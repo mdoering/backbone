@@ -1,5 +1,4 @@
-Laboulbenia negrei subsp. negrei SUBSPECIES
-=======
+# Laboulbenia negrei Balazuc SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia negrei subsp. negrei
+Laboulbenia negrei Balazuc
 
 ### Remarks
 null

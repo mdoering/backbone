@@ -1,5 +1,4 @@
-Phomopsis kalmiae Eulows {?} SPECIES
-=======
+# Phomopsis kalmiae Eulows {?} SPECIES
 
 #### Status
 ACCEPTED

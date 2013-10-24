@@ -1,8 +1,7 @@
-Mattickiolichen triphragmoides (Anzi) Tomas. & Cif. SPECIES
-=======
+# Mattickiolichen triphragmioides (Anzi) Tomas. & Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

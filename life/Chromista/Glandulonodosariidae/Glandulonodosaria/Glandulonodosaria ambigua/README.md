@@ -1,5 +1,4 @@
-Glandulonodosaria ambigua (Neugeboren, 1856) SPECIES
-=======
+# Glandulonodosaria ambigua (Neugeboren, 1856) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia rubicola Sacc. SPECIES
-=======
+# Diplodia rubicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

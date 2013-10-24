@@ -1,14 +1,13 @@
-Cocconia parinarii Henn., 1901 SPECIES
-=======
+# Phaeochorella parinarii (Henn.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Engler's Bot. Jahrb. 30: 257 (1901)
+Annls mycol. 13(3/4): 405 (1915)
 
 #### Original name
 Cocconia parinarii Henn., 1901

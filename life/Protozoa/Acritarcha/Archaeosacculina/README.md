@@ -1,5 +1,4 @@
-Archaeosacculina Pykhova, 1967 GENUS
-=======
+# Archaeosacculina Pykhova, 1967 GENUS
 
 #### Status
 ACCEPTED

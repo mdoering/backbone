@@ -1,5 +1,4 @@
-Sporobolomyces tenuis Kluyver & C.B. Niel SPECIES
-=======
+# Sporobolomyces tenuis Kluyver & C.B. Niel SPECIES
 
 #### Status
 ACCEPTED

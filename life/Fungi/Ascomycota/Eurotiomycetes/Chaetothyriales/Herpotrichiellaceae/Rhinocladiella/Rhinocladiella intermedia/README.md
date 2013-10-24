@@ -1,5 +1,4 @@
-Rhinocladiella intermedia Matsush. SPECIES
-=======
+# Rhinocladiella intermedia Matsush. SPECIES
 
 #### Status
 ACCEPTED

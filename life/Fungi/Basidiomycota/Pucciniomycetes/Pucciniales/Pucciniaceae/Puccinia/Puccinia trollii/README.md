@@ -1,5 +1,4 @@
-Puccinia trollii P. Karst. SPECIES
-=======
+# Puccinia trollii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

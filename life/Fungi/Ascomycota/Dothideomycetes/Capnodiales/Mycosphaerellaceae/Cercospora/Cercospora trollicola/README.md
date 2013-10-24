@@ -1,5 +1,4 @@
-Cercospora trollicola Bondartsev SPECIES
-=======
+# Cercospora trollicola Bondartsev SPECIES
 
 #### Status
 ACCEPTED

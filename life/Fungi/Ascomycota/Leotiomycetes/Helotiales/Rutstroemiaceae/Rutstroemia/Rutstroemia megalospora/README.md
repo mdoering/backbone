@@ -1,5 +1,4 @@
-Rutstroemia megalospora (Speg.) Gamundí SPECIES
-=======
+# Rutstroemia megalospora (Speg.) Gamundí SPECIES
 
 #### Status
 ACCEPTED

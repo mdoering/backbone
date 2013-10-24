@@ -1,5 +1,4 @@
-Resinomycena acadiensis Redhead & Singer, 1981 SPECIES
-=======
+# Resinomycena acadiensis Redhead & Singer, 1981 SPECIES
 
 #### Status
 ACCEPTED

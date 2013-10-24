@@ -1,5 +1,4 @@
-Phoma holoschoenicola Brunaud SPECIES
-=======
+# Phoma holoschoenicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

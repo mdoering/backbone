@@ -1,5 +1,4 @@
-Sphaerella pampini Thüm. SPECIES
-=======
+# Sphaerella pampini Thüm. SPECIES
 
 #### Status
 ACCEPTED

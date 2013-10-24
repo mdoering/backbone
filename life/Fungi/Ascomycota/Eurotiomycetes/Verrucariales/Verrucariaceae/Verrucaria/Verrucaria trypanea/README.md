@@ -1,5 +1,4 @@
-Verrucaria trypanea (Ach.) Spreng. SPECIES
-=======
+# Verrucaria trypanea (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

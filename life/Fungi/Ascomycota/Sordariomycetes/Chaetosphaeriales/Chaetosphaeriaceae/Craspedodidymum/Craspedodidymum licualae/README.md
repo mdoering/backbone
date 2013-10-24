@@ -1,17 +1,16 @@
-Craspedodidymum licuale Pinruan SPECIES
-=======
+# Craspedodidymum licualae Pinruan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Pinruan, Lumyong, McKenzie, Jones & Hyde, Fungal Diversity 45(3): 178 (2004)
 
 #### Original name
-Craspedodidymum licuale Pinruan
+Craspedodidymum licualae Pinruan
 
 ### Remarks
 null

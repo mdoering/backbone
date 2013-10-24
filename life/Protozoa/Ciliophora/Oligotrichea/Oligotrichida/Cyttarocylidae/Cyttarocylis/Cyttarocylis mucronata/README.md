@@ -1,5 +1,4 @@
-Cyttarocylis mucronata Kofoid & Campbell, 1929 SPECIES
-=======
+# Cyttarocylis mucronata Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

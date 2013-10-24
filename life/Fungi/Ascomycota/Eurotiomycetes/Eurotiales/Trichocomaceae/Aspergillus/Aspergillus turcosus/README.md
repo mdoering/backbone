@@ -1,5 +1,4 @@
-Aspergillus turcosus S.B. Hong, Frisvad & Samson SPECIES
-=======
+# Aspergillus turcosus S.B. Hong, Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

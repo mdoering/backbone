@@ -1,5 +1,4 @@
-Schoenleinium achorion Johan-Olsen SPECIES
-=======
+# Schoenleinium achorion Johan-Olsen SPECIES
 
 #### Status
 ACCEPTED

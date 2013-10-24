@@ -1,5 +1,4 @@
-Bryopogon viridescens f. viridescens FORM
-=======
+# Bryopogon viridescens (Gyeln.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bryopogon viridescens f. viridescens
+Alectoria viridescens Gyeln.
 
 ### Remarks
 null

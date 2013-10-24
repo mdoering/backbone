@@ -1,5 +1,4 @@
-Eomicrhystridium barghoornii Deflandre, 1968 SPECIES
-=======
+# Eomicrhystridium barghoornii Deflandre, 1968 SPECIES
 
 #### Status
 ACCEPTED

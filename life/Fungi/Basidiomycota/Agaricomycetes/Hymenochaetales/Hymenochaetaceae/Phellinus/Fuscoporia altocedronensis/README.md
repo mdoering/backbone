@@ -1,5 +1,4 @@
-Fuscoporia altocedronensis (Murrill) Bondartseva & S. Herrera SPECIES
-=======
+# Fuscoporia altocedronensis (Murrill) Bondartseva & S. Herrera SPECIES
 
 #### Status
 ACCEPTED

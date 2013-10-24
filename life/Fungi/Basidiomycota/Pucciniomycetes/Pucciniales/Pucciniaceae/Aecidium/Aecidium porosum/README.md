@@ -1,5 +1,4 @@
-Aecidium porosum Peck SPECIES
-=======
+# Aecidium porosum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia rubelii Volkart SPECIES
-=======
+# Puccinia rubelii Volkart SPECIES
 
 #### Status
 ACCEPTED

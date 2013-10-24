@@ -1,5 +1,4 @@
-Neopeckia palustris Mouton SPECIES
-=======
+# Neopeckia palustris Mouton SPECIES
 
 #### Status
 ACCEPTED

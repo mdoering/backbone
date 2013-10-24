@@ -1,5 +1,4 @@
-Entyloma tolpidis Unamuno SPECIES
-=======
+# Entyloma tolpidis Unamuno SPECIES
 
 #### Status
 ACCEPTED

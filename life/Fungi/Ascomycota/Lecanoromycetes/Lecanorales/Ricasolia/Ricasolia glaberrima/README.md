@@ -1,5 +1,4 @@
-Ricasolia glaberrima (De Not.) Nyl. SPECIES
-=======
+# Ricasolia glaberrima (De Not.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

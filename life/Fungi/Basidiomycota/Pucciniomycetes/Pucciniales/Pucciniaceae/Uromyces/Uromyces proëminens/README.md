@@ -1,5 +1,4 @@
-Uromyces proëminens var. proëminens VARIETY
-=======
+# Uromyces proëminens (DC.) Lév. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 8: 371 (1847)
 
 #### Original name
-Uromyces proëminens var. proëminens
+Uredo proëminens DC.
 
 ### Remarks
 null

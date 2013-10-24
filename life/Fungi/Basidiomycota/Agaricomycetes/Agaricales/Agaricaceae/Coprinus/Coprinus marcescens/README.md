@@ -1,5 +1,4 @@
-Coprinus marcescens P. Karst. SPECIES
-=======
+# Coprinus marcescens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

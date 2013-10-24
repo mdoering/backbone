@@ -1,5 +1,4 @@
-Diatrype rugosa Curr. SPECIES
-=======
+# Diatrype rugosa Curr. SPECIES
 
 #### Status
 ACCEPTED

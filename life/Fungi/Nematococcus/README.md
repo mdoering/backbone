@@ -1,5 +1,4 @@
-Nematococcus Kütz. GENUS
-=======
+# Nematococcus Kütz. GENUS
 
 #### Status
 ACCEPTED

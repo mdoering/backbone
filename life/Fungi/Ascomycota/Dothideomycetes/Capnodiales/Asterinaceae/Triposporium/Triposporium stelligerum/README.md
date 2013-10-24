@@ -1,5 +1,4 @@
-Triposporium stelligerum Speg. SPECIES
-=======
+# Triposporium stelligerum Speg. SPECIES
 
 #### Status
 ACCEPTED

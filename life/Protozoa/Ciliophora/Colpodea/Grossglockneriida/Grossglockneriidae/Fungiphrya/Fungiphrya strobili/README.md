@@ -1,8 +1,7 @@
-Fungiphrya stobili Foissner, 1999 SPECIES
-=======
+# Fungiphrya strobili Foissner, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

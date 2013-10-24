@@ -1,5 +1,4 @@
-Graphina heteroplaca Müll. Arg. SPECIES
-=======
+# Graphina heteroplaca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

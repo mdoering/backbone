@@ -1,5 +1,4 @@
-Meliola curvata H.S. Yates SPECIES
-=======
+# Meliola curvata H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

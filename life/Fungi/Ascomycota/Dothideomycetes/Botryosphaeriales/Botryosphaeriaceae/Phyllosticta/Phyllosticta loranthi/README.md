@@ -1,5 +1,4 @@
-Phyllosticta loranthi (Ponnappa) Aa SPECIES
-=======
+# Phyllosticta loranthi (Ponnappa) Aa SPECIES
 
 #### Status
 ACCEPTED

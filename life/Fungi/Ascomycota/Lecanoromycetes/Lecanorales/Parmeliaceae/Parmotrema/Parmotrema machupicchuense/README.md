@@ -1,5 +1,4 @@
-Parmotrema machupicchuense Kurok. SPECIES
-=======
+# Parmotrema machupicchuense Kurok. SPECIES
 
 #### Status
 ACCEPTED

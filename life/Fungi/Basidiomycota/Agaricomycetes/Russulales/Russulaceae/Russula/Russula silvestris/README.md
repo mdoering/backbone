@@ -1,17 +1,16 @@
-Russula emeticella var. emeticella VARIETY
-=======
+# Russula silvestris (Singer) Reumaux, 1996 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Reumaux, Bidaud & Moënne-Loccoz, Russules Rares ou Méconnues (Marlioz) 289 (1996)
 
 #### Original name
-null
+Russula emetica var. silvestris Singer, 1924
 
 ### Remarks
 null

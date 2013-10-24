@@ -1,8 +1,7 @@
-Otthiella fairmani Sacc. SPECIES
-=======
+# Otthiella fairmanii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Otthiella fairmani Sacc.
+Otthiella fairmanii Sacc.
 
 ### Remarks
 null

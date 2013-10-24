@@ -1,5 +1,4 @@
-Tricholoma fuscinanum Corner SPECIES
-=======
+# Tricholoma fuscinanum Corner SPECIES
 
 #### Status
 ACCEPTED

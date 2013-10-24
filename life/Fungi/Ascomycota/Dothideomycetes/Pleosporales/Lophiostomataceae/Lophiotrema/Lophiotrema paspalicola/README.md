@@ -1,5 +1,4 @@
-Lophiotrema paspalicola Speg. SPECIES
-=======
+# Lophiotrema paspalicola Speg. SPECIES
 
 #### Status
 ACCEPTED

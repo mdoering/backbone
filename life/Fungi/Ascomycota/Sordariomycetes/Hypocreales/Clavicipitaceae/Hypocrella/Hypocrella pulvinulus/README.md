@@ -1,5 +1,4 @@
-Hypocrella pulvinulus (Berk. & Broome) Sacc. SPECIES
-=======
+# Hypocrella pulvinulus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

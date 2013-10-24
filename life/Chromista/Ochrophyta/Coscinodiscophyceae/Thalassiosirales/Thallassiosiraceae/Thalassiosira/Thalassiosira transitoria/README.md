@@ -1,5 +1,4 @@
-Thalassiosira transitoria Y. Tanimura SPECIES
-=======
+# Thalassiosira transitoria Y. Tanimura SPECIES
 
 #### Status
 ACCEPTED

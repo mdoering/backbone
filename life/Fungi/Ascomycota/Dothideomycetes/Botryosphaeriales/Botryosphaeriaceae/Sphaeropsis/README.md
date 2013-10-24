@@ -1,17 +1,16 @@
-Catosphaeropsis Tehon GENUS
-=======
+# Sphaeropsis Saccardo, 1880 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-Mycologia 31: 542 (1939)
+Michelia 2(no. 6): 105 (1880)
 
 #### Original name
-Catosphaeropsis Tehon
+Sphaeropsis Saccardo, 1880
 
 ### Remarks
 null

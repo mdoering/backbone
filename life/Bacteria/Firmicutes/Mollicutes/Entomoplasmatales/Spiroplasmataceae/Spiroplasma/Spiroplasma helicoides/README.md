@@ -1,5 +1,4 @@
-Spiroplasma helicoides Whitcomb et al., 1997 SPECIES
-=======
+# Spiroplasma helicoides Whitcomb et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

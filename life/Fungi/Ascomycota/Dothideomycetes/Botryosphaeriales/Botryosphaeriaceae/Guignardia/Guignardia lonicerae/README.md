@@ -1,5 +1,4 @@
-Guignardia lonicerae Dearn. & Barthol. SPECIES
-=======
+# Guignardia lonicerae Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

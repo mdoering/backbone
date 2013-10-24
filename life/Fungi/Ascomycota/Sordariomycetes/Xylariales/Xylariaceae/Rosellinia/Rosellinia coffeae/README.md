@@ -1,5 +1,4 @@
-Rosellinia coffeae Saccas SPECIES
-=======
+# Rosellinia coffeae Saccas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helminthosporium gramineum f. sp FORM
-=======
+# Pyrenophora tritici-repentis (Died.) Drechsler, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 9: 329 (1902)
+J. Agric. Res. , Washington 24(3): 667 (1923)
 
 #### Original name
-Helminthosporium gramineum f. sp
+Pleospora tritici-repentis Died., 1903
 
 ### Remarks
 null

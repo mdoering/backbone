@@ -1,5 +1,4 @@
-Physarum vermiforme Y. Yamam., 2000 SPECIES
-=======
+# Physarum vermiforme Y. Yamam., 2000 SPECIES
 
 #### Status
 ACCEPTED

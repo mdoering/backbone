@@ -1,5 +1,4 @@
-Lactarius pallidiolivaceus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius pallidiolivaceus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

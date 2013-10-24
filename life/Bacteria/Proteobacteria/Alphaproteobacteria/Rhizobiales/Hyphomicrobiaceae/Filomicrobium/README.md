@@ -1,5 +1,4 @@
-Filomicrobium Schlesner, 1988 GENUS
-=======
+# Filomicrobium Schlesner, 1988 GENUS
 
 #### Status
 ACCEPTED

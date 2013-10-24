@@ -1,5 +1,4 @@
-Laboulbenia gebleri Terada SPECIES
-=======
+# Laboulbenia gebleri Terada SPECIES
 
 #### Status
 ACCEPTED

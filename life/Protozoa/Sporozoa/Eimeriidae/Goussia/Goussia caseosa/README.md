@@ -1,5 +1,4 @@
-Goussia caseosa Lom & Dyková, 1982 SPECIES
-=======
+# Goussia caseosa Lom & Dyková, 1982 SPECIES
 
 #### Status
 ACCEPTED

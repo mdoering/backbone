@@ -1,5 +1,4 @@
-Mortierella tirolensis Linnem. SPECIES
-=======
+# Mortierella tirolensis Linnem. SPECIES
 
 #### Status
 ACCEPTED

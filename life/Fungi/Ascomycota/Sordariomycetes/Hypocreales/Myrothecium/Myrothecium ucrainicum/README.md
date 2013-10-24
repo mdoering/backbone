@@ -1,5 +1,4 @@
-Myrothecium ucrainicum Pidopl. & Kiril. SPECIES
-=======
+# Myrothecium ucrainicum Pidopl. & Kiril. SPECIES
 
 #### Status
 ACCEPTED

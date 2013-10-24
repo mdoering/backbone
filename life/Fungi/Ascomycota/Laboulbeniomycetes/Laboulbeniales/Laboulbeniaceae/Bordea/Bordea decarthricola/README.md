@@ -1,5 +1,4 @@
-Bordea decarthricola Speg. SPECIES
-=======
+# Bordea decarthricola Speg. SPECIES
 
 #### Status
 ACCEPTED

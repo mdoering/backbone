@@ -1,5 +1,4 @@
-Aplosporella propullans (Schwein.) Petr. & Syd. SPECIES
-=======
+# Aplosporella propullans (Schwein.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

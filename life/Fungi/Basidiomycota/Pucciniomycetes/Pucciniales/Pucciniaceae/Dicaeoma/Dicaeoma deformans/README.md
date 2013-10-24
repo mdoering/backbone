@@ -1,5 +1,4 @@
-Dicaeoma deformans (G. Winter) Kuntze SPECIES
-=======
+# Dicaeoma deformans (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

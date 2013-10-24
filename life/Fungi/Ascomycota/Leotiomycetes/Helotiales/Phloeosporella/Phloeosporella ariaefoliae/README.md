@@ -1,5 +1,4 @@
-Phloeosporella ariaefoliae (Ellis & Everh.) B. Sutton SPECIES
-=======
+# Phloeosporella ariaefoliae (Ellis & Everh.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

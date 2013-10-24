@@ -1,5 +1,4 @@
-Pleurage taenioides Griffiths SPECIES
-=======
+# Pleurage taenioides Griffiths SPECIES
 
 #### Status
 ACCEPTED

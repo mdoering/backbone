@@ -1,5 +1,4 @@
-Clavaria coriaria Pers. SPECIES
-=======
+# Clavaria coriaria Pers. SPECIES
 
 #### Status
 ACCEPTED

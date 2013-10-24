@@ -1,5 +1,4 @@
-Lophodermium grandialpinum P.R. Johnst., 2001 SPECIES
-=======
+# Lophodermium grandialpinum P.R. Johnst., 2001 SPECIES
 
 #### Status
 ACCEPTED

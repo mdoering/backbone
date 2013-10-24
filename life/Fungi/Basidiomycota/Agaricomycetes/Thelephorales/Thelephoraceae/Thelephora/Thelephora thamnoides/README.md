@@ -1,5 +1,4 @@
-Thelephora thamnoides Fr. SPECIES
-=======
+# Thelephora thamnoides Fr. SPECIES
 
 #### Status
 ACCEPTED

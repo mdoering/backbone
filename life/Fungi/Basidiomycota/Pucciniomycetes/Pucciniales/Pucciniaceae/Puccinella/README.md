@@ -1,5 +1,4 @@
-Puccinella GENUS
-=======
+# Puccinella GENUS
 
 #### Status
 ACCEPTED

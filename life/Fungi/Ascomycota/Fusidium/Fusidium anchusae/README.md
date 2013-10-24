@@ -1,5 +1,4 @@
-Fusidium anchusae Oudem. SPECIES
-=======
+# Fusidium anchusae Oudem. SPECIES
 
 #### Status
 ACCEPTED

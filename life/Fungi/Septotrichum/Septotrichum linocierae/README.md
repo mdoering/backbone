@@ -1,5 +1,4 @@
-Septotrichum linocierae Corda SPECIES
-=======
+# Septotrichum linocierae Corda SPECIES
 
 #### Status
 ACCEPTED

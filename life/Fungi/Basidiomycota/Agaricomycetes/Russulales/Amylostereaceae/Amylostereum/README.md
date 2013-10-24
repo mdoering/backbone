@@ -1,17 +1,16 @@
-Trichocarpus P. Karst. GENUS
-=======
+# Amylostereum Boidin, 1958 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 48: 407 (1889)
+null
 
 #### Original name
-Trichocarpus P. Karst.
+null
 
 ### Remarks
 null

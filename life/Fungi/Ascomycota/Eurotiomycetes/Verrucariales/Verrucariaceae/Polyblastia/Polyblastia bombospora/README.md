@@ -1,5 +1,4 @@
-Polyblastia bombospora Th. Fr. & Almq. SPECIES
-=======
+# Polyblastia bombospora Th. Fr. & Almq. SPECIES
 
 #### Status
 ACCEPTED

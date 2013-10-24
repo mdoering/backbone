@@ -1,5 +1,4 @@
-Melanospora arachnophila Fuckel SPECIES
-=======
+# Melanospora arachnophila Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tettigomyces filiformis D.H. Ye SPECIES
-=======
+# Tettigomyces filiformis D.H. Ye SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis lumbschii var. lumbschii VARIETY
-=======
+# Graphis lumbschii (A.W. Archer) A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

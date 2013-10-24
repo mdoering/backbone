@@ -1,5 +1,4 @@
-Neofabraea populi G.E. Thomps. SPECIES
-=======
+# Neofabraea populi G.E. Thomps. SPECIES
 
 #### Status
 ACCEPTED

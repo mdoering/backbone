@@ -1,5 +1,4 @@
-Heterocapsa niei (Loeblich) Morrill & Loeblich Iii SPECIES
-=======
+# Heterocapsa niei (Loeblich) Morrill & Loeblich Iii SPECIES
 
 #### Status
 ACCEPTED

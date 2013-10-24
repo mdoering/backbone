@@ -1,5 +1,4 @@
-Halecania viridescens Coppins & P. James SPECIES
-=======
+# Halecania viridescens Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

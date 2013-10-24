@@ -1,5 +1,4 @@
-Arthonia dispersella Müll. Arg. SPECIES
-=======
+# Arthonia dispersella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

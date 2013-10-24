@@ -1,5 +1,4 @@
-Trichodina zaikai Grupcheva, Lom & Dyková, 1989 SPECIES
-=======
+# Trichodina zaikai Grupcheva, Lom & Dyková, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora leptacinella Nyl. SPECIES
-=======
+# Lecanora leptacinella Nyl. SPECIES
 
 #### Status
 ACCEPTED

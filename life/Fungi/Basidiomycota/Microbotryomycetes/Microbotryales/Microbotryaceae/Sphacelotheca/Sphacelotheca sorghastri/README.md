@@ -1,5 +1,4 @@
-Sphacelotheca sorghastri Zundel SPECIES
-=======
+# Sphacelotheca sorghastri Zundel SPECIES
 
 #### Status
 ACCEPTED

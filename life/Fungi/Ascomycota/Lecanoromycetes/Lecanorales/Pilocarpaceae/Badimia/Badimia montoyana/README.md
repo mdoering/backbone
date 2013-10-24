@@ -1,5 +1,4 @@
-Badimia montoyana Lücking SPECIES
-=======
+# Badimia montoyana Lücking SPECIES
 
 #### Status
 ACCEPTED

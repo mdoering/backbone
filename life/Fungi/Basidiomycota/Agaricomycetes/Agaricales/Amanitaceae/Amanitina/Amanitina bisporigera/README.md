@@ -1,5 +1,4 @@
-Amanitina bisporigera (G.F. Atk.) E.-J. Gilbert SPECIES
-=======
+# Amanitina bisporigera (G.F. Atk.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

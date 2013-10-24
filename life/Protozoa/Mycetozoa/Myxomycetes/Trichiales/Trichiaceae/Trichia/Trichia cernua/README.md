@@ -1,5 +1,4 @@
-Trichia cernua Schumach. SPECIES
-=======
+# Trichia cernua Schumach. SPECIES
 
 #### Status
 ACCEPTED

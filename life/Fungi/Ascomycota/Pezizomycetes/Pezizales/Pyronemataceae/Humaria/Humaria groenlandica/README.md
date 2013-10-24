@@ -1,5 +1,4 @@
-Humaria groenlandica Rostr. SPECIES
-=======
+# Humaria groenlandica Rostr. SPECIES
 
 #### Status
 ACCEPTED

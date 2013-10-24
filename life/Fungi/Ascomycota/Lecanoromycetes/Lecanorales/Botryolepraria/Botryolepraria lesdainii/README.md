@@ -1,17 +1,16 @@
-Crocynia grevilleana B. de Lesd. SPECIES
-=======
+# Botryolepraria lesdainii (Hue) Canals, Hern.-Mar., Gómez-Bolea & Llimona SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 71: 346 (1924)
+Lichenologist 29(4): 340 (1997)
 
 #### Original name
-Crocynia grevilleana B. de Lesd.
+Crocynia lesdainii Hue
 
 ### Remarks
 null

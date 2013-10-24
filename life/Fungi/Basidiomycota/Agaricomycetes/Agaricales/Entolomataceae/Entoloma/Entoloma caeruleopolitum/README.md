@@ -1,5 +1,4 @@
-Entoloma caeruleopolitum Noordel. & Brandt-Ped., 1984 SPECIES
-=======
+# Entoloma caeruleopolitum Noordel. & Brandt-Ped., 1984 SPECIES
 
 #### Status
 ACCEPTED

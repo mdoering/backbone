@@ -1,5 +1,4 @@
-Cochlodinium radiatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Cochlodinium radiatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

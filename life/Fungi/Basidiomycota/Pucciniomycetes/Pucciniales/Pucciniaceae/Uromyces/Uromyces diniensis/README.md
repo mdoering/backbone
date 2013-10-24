@@ -1,5 +1,4 @@
-Uromyces diniensis A.L. Guyot SPECIES
-=======
+# Uromyces diniensis A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

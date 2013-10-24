@@ -1,5 +1,4 @@
-Sporocybe inquinans (Schwein.) Sacc. SPECIES
-=======
+# Sporocybe inquinans (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

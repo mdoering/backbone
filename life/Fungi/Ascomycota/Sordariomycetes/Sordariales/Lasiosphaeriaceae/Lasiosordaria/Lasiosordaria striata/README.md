@@ -1,5 +1,4 @@
-Lasiosordaria striata (Ellis & Everh.) Chenant. SPECIES
-=======
+# Lasiosordaria striata (Ellis & Everh.) Chenant. SPECIES
 
 #### Status
 ACCEPTED

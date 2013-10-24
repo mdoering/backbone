@@ -1,5 +1,4 @@
-Colletotrichum dichorisandrae Rangel SPECIES
-=======
+# Colletotrichum dichorisandrae Rangel SPECIES
 
 #### Status
 ACCEPTED

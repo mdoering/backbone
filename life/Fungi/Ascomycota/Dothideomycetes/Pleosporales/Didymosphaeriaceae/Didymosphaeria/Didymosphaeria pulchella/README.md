@@ -1,5 +1,4 @@
-Didymosphaeria pulchella Sacc. & Speg. SPECIES
-=======
+# Didymosphaeria pulchella Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Praetriceratium P.A.Sims, 2001 GENUS
-=======
+# Praetriceratium P.A.Sims, 2001 GENUS
 
 #### Status
 ACCEPTED

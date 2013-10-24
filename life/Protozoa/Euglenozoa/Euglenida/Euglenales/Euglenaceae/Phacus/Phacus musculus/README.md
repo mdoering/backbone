@@ -1,5 +1,4 @@
-Phacus musculus Pochmann SPECIES
-=======
+# Phacus musculus Pochmann SPECIES
 
 #### Status
 ACCEPTED

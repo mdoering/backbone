@@ -1,5 +1,4 @@
-Uromyces strobilanthis Barclay SPECIES
-=======
+# Uromyces strobilanthis Barclay SPECIES
 
 #### Status
 ACCEPTED

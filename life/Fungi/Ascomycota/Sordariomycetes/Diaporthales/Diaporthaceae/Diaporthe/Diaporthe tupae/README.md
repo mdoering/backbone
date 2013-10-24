@@ -1,5 +1,4 @@
-Diaporthe tupae Speg. SPECIES
-=======
+# Diaporthe tupae Speg. SPECIES
 
 #### Status
 ACCEPTED

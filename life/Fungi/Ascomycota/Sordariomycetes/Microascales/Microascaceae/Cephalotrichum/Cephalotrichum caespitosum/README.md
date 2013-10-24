@@ -1,5 +1,4 @@
-Cephalotrichum caespitosum Demelius SPECIES
-=======
+# Cephalotrichum caespitosum Demelius SPECIES
 
 #### Status
 ACCEPTED

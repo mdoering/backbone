@@ -1,5 +1,4 @@
-Phyllachora clypeata (Theiss.) Theiss., 1915 SPECIES
-=======
+# Phyllachora clypeata (Theiss.) Theiss., 1915 SPECIES
 
 #### Status
 DOUBTFUL

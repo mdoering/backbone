@@ -1,5 +1,4 @@
-Endocarpon tephroides (Ach.) Ach. SPECIES
-=======
+# Endocarpon tephroides (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strumella darntiana Roum. & G. Winter SPECIES
-=======
+# Strumella darntiana Roum. & G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalosphaeria jinggangensis P.L. Zhu, T. Xu & Q.X. Ge SPECIES
-=======
+# Pestalosphaeria jinggangensis P.L. Zhu, T. Xu & Q.X. Ge SPECIES
 
 #### Status
 ACCEPTED

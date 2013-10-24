@@ -1,8 +1,7 @@
-Chlorarachnion globosum K. Ishida & Y. Hara SPECIES
-=======
+# Lotharella globosa (K. Ishida & Y. Hara) K. Ishida & Y. Hara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

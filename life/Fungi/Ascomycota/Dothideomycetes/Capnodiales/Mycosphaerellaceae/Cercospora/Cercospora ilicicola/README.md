@@ -1,5 +1,4 @@
-Cercospora ilicicola Maubl. SPECIES
-=======
+# Cercospora ilicicola Maubl. SPECIES
 
 #### Status
 ACCEPTED

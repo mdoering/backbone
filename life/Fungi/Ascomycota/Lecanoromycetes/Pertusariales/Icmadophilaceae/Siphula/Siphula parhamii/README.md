@@ -1,5 +1,4 @@
-Siphula parhamii Kantvilas SPECIES
-=======
+# Siphula parhamii Kantvilas SPECIES
 
 #### Status
 ACCEPTED

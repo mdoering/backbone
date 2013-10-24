@@ -1,5 +1,4 @@
-Thecaphora lupini Mayor SPECIES
-=======
+# Thecaphora lupini Mayor SPECIES
 
 #### Status
 ACCEPTED

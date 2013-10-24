@@ -1,5 +1,4 @@
-Endocarpon phylliscum Wahlenb. SPECIES
-=======
+# Endocarpon phylliscum Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

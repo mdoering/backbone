@@ -1,5 +1,4 @@
-Tephromela velloziae Kalb SPECIES
-=======
+# Tephromela velloziae Kalb SPECIES
 
 #### Status
 ACCEPTED

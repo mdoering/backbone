@@ -1,5 +1,4 @@
-Dermatocarpon subtrachyticum (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Dermatocarpon subtrachyticum (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

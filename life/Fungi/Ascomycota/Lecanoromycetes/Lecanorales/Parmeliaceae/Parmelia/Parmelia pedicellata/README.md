@@ -1,5 +1,4 @@
-Parmelia pedicellata var. pedicellata VARIETY
-=======
+# Parmelia pedicellata J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia pedicellata var. pedicellata
+Parmelia pedicellata J. Steiner
 
 ### Remarks
 null

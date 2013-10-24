@@ -1,5 +1,4 @@
-Daedalea angustata (Sowerby) Fr. SPECIES
-=======
+# Daedalea angustata (Sowerby) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcopyreniomyces gibbae Cif. & Tomas. SPECIES
-=======
+# Sarcopyreniomyces gibbae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

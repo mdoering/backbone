@@ -1,5 +1,4 @@
-Philonectria variabilis Hara, 1914 SPECIES
-=======
+# Philonectria variabilis Hara, 1914 SPECIES
 
 #### Status
 ACCEPTED

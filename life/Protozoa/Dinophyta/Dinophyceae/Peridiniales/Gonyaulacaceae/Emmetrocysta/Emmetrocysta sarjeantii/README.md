@@ -1,5 +1,4 @@
-Emmetrocysta sarjeantii (Gitmez, 1970) Stover & Evitt, 1978 SPECIES
-=======
+# Emmetrocysta sarjeantii (Gitmez, 1970) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

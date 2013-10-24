@@ -1,5 +1,4 @@
-Amanitopsis illudens Berk. & M.A. Curtis SPECIES
-=======
+# Amanitopsis illudens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiodothis schillingii Henn. SPECIES
-=======
+# Ophiodothis schillingii Henn. SPECIES
 
 #### Status
 ACCEPTED

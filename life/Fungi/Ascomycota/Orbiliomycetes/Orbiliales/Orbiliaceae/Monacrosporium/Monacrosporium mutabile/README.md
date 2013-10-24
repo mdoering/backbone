@@ -1,17 +1,16 @@
-Monacrosporium mutabilis R.C. Cooke SPECIES
-=======
+# Monacrosporium mutabile R.C. Cooke, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 53(2): 318 (1969)
 
 #### Original name
-Monacrosporium mutabilis R.C. Cooke
+Monacrosporium mutabile R.C. Cooke, 1969
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Gloeocystidium croceotingens Wakef., 1920 SPECIES
-=======
+# Basidiodendron eyrei (Wakef.) Luck-Allen, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bresadola, Annls mycol. 18(1/3): 48 (1920)
+Can. J. Bot. 41: 1034 (1963)
 
 #### Original name
-Gloeocystidium croceotingens Wakef., 1920
+Sebacina eyrei Wakef., 1915
 
 ### Remarks
 null

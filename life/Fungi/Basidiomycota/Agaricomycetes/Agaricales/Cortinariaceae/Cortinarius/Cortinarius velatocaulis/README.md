@@ -1,5 +1,4 @@
-Cortinarius velatocaulis Rob. Henry SPECIES
-=======
+# Cortinarius velatocaulis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

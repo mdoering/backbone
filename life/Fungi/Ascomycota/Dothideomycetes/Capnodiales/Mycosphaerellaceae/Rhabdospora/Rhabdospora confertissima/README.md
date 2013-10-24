@@ -1,5 +1,4 @@
-Rhabdospora confertissima Sacc. SPECIES
-=======
+# Rhabdospora confertissima Sacc. SPECIES
 
 #### Status
 ACCEPTED

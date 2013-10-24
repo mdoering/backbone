@@ -1,5 +1,4 @@
-Phlyctochytrium planicorne G.F. Atk., 1909 SPECIES
-=======
+# Phlyctochytrium planicorne G.F. Atk., 1909 SPECIES
 
 #### Status
 ACCEPTED

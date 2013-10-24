@@ -1,5 +1,4 @@
-Sarcoscypha sherriffii Balf.-Browne SPECIES
-=======
+# Sarcoscypha sherriffii Balf.-Browne SPECIES
 
 #### Status
 ACCEPTED

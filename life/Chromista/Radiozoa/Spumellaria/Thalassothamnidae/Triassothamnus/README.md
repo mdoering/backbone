@@ -1,5 +1,4 @@
-Triassothamnus GENUS
-=======
+# Triassothamnus GENUS
 
 #### Status
 ACCEPTED

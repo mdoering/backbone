@@ -1,5 +1,4 @@
-Lepiota candida Copel. SPECIES
-=======
+# Lepiota candida Copel. SPECIES
 
 #### Status
 ACCEPTED

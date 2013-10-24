@@ -1,5 +1,4 @@
-Inonotus henanensis Juan Li & Y.C. Dai SPECIES
-=======
+# Inonotus henanensis Juan Li & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

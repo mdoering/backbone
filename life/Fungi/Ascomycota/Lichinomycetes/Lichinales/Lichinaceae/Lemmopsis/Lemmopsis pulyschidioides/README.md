@@ -1,5 +1,4 @@
-Lemmopsis pulyschidioides SPECIES
-=======
+# Lemmopsis pulyschidioides SPECIES
 
 #### Status
 ACCEPTED

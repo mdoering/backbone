@@ -1,5 +1,4 @@
-Smittium chinliense Strongman & S.Q. Xu, 2006 SPECIES
-=======
+# Smittium chinliense Strongman & S.Q. Xu, 2006 SPECIES
 
 #### Status
 ACCEPTED

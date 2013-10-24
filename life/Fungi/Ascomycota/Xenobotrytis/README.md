@@ -1,5 +1,4 @@
-Xenobotrytis GENUS
-=======
+# Xenobotrytis GENUS
 
 #### Status
 ACCEPTED

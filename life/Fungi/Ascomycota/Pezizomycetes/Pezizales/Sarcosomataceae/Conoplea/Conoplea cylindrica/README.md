@@ -1,5 +1,4 @@
-Conoplea cylindrica Pers. SPECIES
-=======
+# Conoplea cylindrica Pers. SPECIES
 
 #### Status
 ACCEPTED

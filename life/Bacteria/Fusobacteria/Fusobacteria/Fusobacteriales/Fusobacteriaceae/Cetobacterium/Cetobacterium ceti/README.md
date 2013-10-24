@@ -1,5 +1,4 @@
-Cetobacterium ceti Foster et al., 1996 SPECIES
-=======
+# Cetobacterium ceti Foster et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

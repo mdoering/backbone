@@ -1,5 +1,4 @@
-Verrucaria werthii Zahlbr. SPECIES
-=======
+# Verrucaria werthii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

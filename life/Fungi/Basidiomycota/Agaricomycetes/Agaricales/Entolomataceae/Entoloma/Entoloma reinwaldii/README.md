@@ -1,5 +1,4 @@
-Entoloma reinwaldii Noordel. & Hauskn. SPECIES
-=======
+# Entoloma reinwaldii Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

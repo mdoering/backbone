@@ -1,5 +1,4 @@
-Psathyrella tubarioides A.H. Sm. SPECIES
-=======
+# Psathyrella tubarioides A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

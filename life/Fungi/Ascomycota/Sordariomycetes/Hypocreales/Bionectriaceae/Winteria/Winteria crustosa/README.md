@@ -1,5 +1,4 @@
-Winteria crustosa Ellis & Everh. SPECIES
-=======
+# Winteria crustosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

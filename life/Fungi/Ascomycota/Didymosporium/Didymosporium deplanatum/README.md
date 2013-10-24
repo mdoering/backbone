@@ -1,5 +1,4 @@
-Didymosporium deplanatum Lib. SPECIES
-=======
+# Didymosporium deplanatum Lib. SPECIES
 
 #### Status
 ACCEPTED

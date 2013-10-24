@@ -1,5 +1,4 @@
-Gibbera andina Petr. SPECIES
-=======
+# Gibbera andina Petr. SPECIES
 
 #### Status
 ACCEPTED

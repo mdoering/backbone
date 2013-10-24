@@ -1,5 +1,4 @@
-Peltigera ulcerata Müll. Arg. SPECIES
-=======
+# Peltigera ulcerata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

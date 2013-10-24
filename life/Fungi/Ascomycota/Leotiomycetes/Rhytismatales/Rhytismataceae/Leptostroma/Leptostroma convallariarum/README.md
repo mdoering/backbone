@@ -1,5 +1,4 @@
-Leptostroma convallariarum Oudem. SPECIES
-=======
+# Leptostroma convallariarum Oudem. SPECIES
 
 #### Status
 ACCEPTED

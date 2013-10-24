@@ -1,17 +1,16 @@
-Graphis pallido-ochracea Kremp. SPECIES
-=======
+# Diorygma hieroglyphicum (Pers.) Staiger & Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 7(1): 32 (1875)
+in Kalb et al. , Symb. bot. upsal. 34(no. 1): 151 (2004)
 
 #### Original name
-Graphis pallido-ochracea Kremp.
+Opegrapha hieroglyphica Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arthonia ingaderiae Follmann SPECIES
-=======
+# Arthonia ingaderiae Follmann SPECIES
 
 #### Status
 ACCEPTED

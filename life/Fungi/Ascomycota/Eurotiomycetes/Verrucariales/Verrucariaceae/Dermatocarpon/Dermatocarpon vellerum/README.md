@@ -1,5 +1,4 @@
-Dermatocarpon vellerum SPECIES
-=======
+# Dermatocarpon vellerum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora charcotiana Hue SPECIES
-=======
+# Lecanora charcotiana Hue SPECIES
 
 #### Status
 ACCEPTED

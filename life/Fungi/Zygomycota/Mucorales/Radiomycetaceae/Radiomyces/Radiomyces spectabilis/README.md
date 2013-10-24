@@ -1,5 +1,4 @@
-Radiomyces spectabilis Embree, 1959 SPECIES
-=======
+# Radiomyces spectabilis Embree, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allantonectria yuccae Earle SPECIES
-=======
+# Allantonectria yuccae Earle SPECIES
 
 #### Status
 ACCEPTED

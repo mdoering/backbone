@@ -1,5 +1,4 @@
-Phelodinium tricuspe (O. Wetzel, 1933) Stover & Evitt, 1978 SPECIES
-=======
+# Phelodinium tricuspe (O. Wetzel, 1933) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

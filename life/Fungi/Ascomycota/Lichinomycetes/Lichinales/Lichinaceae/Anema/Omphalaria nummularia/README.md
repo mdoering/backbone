@@ -1,5 +1,4 @@
-Omphalaria nummularia Durieu & Mont. SPECIES
-=======
+# Omphalaria nummularia Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

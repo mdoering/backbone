@@ -1,5 +1,4 @@
-Ascospora asphodeli Mont. SPECIES
-=======
+# Ascospora asphodeli Mont. SPECIES
 
 #### Status
 ACCEPTED

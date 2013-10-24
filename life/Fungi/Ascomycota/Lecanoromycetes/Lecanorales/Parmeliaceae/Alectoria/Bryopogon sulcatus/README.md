@@ -1,5 +1,4 @@
-Bryopogon sulcatus f. sulcatus FORM
-=======
+# Bryopogon sulcatus (Lév.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bryopogon sulcatus f. sulcatus
+Alectoria sulcata (Lév.) Nyl.
 
 ### Remarks
 null

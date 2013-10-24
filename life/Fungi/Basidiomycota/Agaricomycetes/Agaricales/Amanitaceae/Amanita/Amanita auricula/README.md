@@ -1,5 +1,4 @@
-Amanita auricula Dubois SPECIES
-=======
+# Amanita auricula Dubois SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochrolechia chondriocarpa Zahlbr. SPECIES
-=======
+# Ochrolechia chondriocarpa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

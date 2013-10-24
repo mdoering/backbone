@@ -1,5 +1,4 @@
-Asteridiella lucumae (Cif. & Gonz. Frag.) Hansf. SPECIES
-=======
+# Asteridiella lucumae (Cif. & Gonz. Frag.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

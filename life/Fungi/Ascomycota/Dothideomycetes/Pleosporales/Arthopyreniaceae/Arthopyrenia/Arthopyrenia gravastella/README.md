@@ -1,5 +1,4 @@
-Arthopyrenia gravastella (Kremp.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia gravastella (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

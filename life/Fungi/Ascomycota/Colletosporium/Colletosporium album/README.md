@@ -1,5 +1,4 @@
-Colletosporium album Bonord. SPECIES
-=======
+# Colletosporium album Bonord. SPECIES
 
 #### Status
 ACCEPTED

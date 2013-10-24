@@ -1,5 +1,4 @@
-Gymnopus aurantiacus Murrill SPECIES
-=======
+# Gymnopus aurantiacus Murrill SPECIES
 
 #### Status
 ACCEPTED

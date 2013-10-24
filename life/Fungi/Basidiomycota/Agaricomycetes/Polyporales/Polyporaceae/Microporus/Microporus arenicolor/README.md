@@ -1,5 +1,4 @@
-Microporus arenicolor (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Microporus arenicolor (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

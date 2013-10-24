@@ -1,17 +1,16 @@
-Placidiopsis tatrensis Vezda SPECIES
-=======
+# Placopyrenium tatrense (Vezda) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Linzer biol. Beitr. 22(2): 721 (1990)
 
 #### Original name
-null
+Placidiopsis tatrensis Vezda
 
 ### Remarks
 null

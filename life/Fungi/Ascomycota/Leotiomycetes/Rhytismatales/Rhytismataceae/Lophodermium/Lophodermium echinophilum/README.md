@@ -1,5 +1,4 @@
-Lophodermium echinophilum Speg. SPECIES
-=======
+# Lophodermium echinophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

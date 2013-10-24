@@ -1,5 +1,4 @@
-Caeoma pedatatum Schwein. SPECIES
-=======
+# Caeoma pedatatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombidium inclinatum Montagnes, Taylor & Lynn, 1990 SPECIES
-=======
+# Strombidium inclinatum Montagnes, Taylor & Lynn, 1990 SPECIES
 
 #### Status
 ACCEPTED

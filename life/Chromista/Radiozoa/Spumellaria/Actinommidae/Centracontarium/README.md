@@ -1,5 +1,4 @@
-Centracontarium GENUS
-=======
+# Centracontarium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplographium toruloides (Fresen.) Sacc. SPECIES
-=======
+# Haplographium toruloides (Fresen.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

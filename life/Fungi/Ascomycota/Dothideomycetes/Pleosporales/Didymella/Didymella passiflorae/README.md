@@ -1,5 +1,4 @@
-Didymella passiflorae Höhn. SPECIES
-=======
+# Didymella passiflorae Höhn. SPECIES
 
 #### Status
 ACCEPTED

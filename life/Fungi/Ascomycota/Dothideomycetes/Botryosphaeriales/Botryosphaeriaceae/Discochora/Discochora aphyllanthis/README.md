@@ -1,5 +1,4 @@
-Discochora aphyllanthis (Unamuno) Bissett SPECIES
-=======
+# Discochora aphyllanthis (Unamuno) Bissett SPECIES
 
 #### Status
 ACCEPTED

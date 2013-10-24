@@ -1,5 +1,4 @@
-Meliola holigarnae F. Stevens SPECIES
-=======
+# Meliola holigarnae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

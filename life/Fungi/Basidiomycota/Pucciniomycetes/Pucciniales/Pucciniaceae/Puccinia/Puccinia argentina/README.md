@@ -1,5 +1,4 @@
-Puccinia argentina Speg. SPECIES
-=======
+# Puccinia argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

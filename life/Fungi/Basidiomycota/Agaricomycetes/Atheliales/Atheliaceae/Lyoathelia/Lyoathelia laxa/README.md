@@ -1,14 +1,13 @@
-Peniophora laxa Burt, 1926 SPECIES
-=======
+# Lyoathelia laxa (Burt) Hjortstam & Ryvarden, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 12: 224 (1926)
+Syn. Fung. (Oslo) 18: 11 (2004)
 
 #### Original name
 Peniophora laxa Burt, 1926

@@ -1,5 +1,4 @@
-Orbilia corculispora Baral & G. Marson SPECIES
-=======
+# Orbilia corculispora Baral & G. Marson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerula striatula (Clem.) Murrill SPECIES
-=======
+# Galerula striatula (Clem.) Murrill SPECIES
 
 #### Status
 ACCEPTED

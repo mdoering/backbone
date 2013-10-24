@@ -1,5 +1,4 @@
-Bactrodesmium fusiforme Udaiyan SPECIES
-=======
+# Bactrodesmium fusiforme Udaiyan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina babingtonii (Hook. f. & Taylor) C.W. Dodge SPECIES
-=======
+# Rinodina babingtonii (Hook. f. & Taylor) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

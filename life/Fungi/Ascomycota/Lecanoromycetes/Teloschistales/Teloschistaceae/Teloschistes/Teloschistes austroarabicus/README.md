@@ -1,5 +1,4 @@
-Teloschistes austroarabicus Sipman SPECIES
-=======
+# Teloschistes austroarabicus Sipman SPECIES
 
 #### Status
 ACCEPTED

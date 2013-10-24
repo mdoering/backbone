@@ -1,5 +1,4 @@
-Dictyostelium elegans H. Hagiw., 1990 SPECIES
-=======
+# Dictyostelium elegans H. Hagiw., 1990 SPECIES
 
 #### Status
 ACCEPTED

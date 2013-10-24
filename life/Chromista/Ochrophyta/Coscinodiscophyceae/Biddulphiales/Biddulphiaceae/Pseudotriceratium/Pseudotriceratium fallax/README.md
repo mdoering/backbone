@@ -1,5 +1,4 @@
-Pseudotriceratium fallax Grunow SPECIES
-=======
+# Pseudotriceratium fallax Grunow SPECIES
 
 #### Status
 ACCEPTED

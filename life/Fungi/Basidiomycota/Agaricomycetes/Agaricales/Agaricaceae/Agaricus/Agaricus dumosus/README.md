@@ -1,5 +1,4 @@
-Agaricus dumosus Fr. SPECIES
-=======
+# Agaricus dumosus Fr. SPECIES
 
 #### Status
 ACCEPTED

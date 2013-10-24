@@ -1,5 +1,4 @@
-Phaeographina laevigata M. Nakan. SPECIES
-=======
+# Phaeographina laevigata M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

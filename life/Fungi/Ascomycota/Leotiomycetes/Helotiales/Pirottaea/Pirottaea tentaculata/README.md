@@ -1,5 +1,4 @@
-Pirottaea tentaculata (Wallr.) Sacc. SPECIES
-=======
+# Pirottaea tentaculata (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

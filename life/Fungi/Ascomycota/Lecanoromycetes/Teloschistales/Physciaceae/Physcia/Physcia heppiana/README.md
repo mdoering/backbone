@@ -1,5 +1,4 @@
-Physcia heppiana f. heppiana FORM
-=======
+# Physcia heppiana SPECIES
 
 #### Status
 ACCEPTED

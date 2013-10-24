@@ -1,5 +1,4 @@
-Lemalis olivaceovirens (Schwein.) Schwein. SPECIES
-=======
+# Lemalis olivaceovirens (Schwein.) Schwein. SPECIES
 
 #### Status
 ACCEPTED

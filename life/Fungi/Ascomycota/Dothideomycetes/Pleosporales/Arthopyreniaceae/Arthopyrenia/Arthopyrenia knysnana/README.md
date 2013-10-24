@@ -1,5 +1,4 @@
-Arthopyrenia knysnana Zahlbr. SPECIES
-=======
+# Arthopyrenia knysnana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

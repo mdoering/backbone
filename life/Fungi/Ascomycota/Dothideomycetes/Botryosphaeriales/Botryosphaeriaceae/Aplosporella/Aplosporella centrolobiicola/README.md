@@ -1,5 +1,4 @@
-Aplosporella centrolobiicola Henn. SPECIES
-=======
+# Aplosporella centrolobiicola Henn. SPECIES
 
 #### Status
 ACCEPTED

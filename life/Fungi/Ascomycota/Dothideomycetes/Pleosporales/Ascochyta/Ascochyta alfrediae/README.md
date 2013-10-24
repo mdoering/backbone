@@ -1,5 +1,4 @@
-Ascochyta alfrediae Vasyag. SPECIES
-=======
+# Ascochyta alfrediae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

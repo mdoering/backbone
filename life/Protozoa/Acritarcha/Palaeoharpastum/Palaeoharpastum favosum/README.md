@@ -1,5 +1,4 @@
-Palaeoharpastum favosum (Pykhova, 1973) Fensome et al., 1990 SPECIES
-=======
+# Palaeoharpastum favosum (Pykhova, 1973) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

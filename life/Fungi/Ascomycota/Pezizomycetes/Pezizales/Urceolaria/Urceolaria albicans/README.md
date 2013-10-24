@@ -1,5 +1,4 @@
-Urceolaria albicans (Arnold) Motyka SPECIES
-=======
+# Urceolaria albicans (Arnold) Motyka SPECIES
 
 #### Status
 ACCEPTED

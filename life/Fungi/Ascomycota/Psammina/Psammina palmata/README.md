@@ -1,5 +1,4 @@
-Psammina palmata Earl.-Benn. & D. Hawksw., 2005 SPECIES
-=======
+# Psammina palmata Earl.-Benn. & D. Hawksw., 2005 SPECIES
 
 #### Status
 ACCEPTED

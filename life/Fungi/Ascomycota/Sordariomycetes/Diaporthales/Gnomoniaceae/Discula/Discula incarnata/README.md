@@ -1,5 +1,4 @@
-Discula incarnata (Kunze) Höhn. SPECIES
-=======
+# Discula incarnata (Kunze) Höhn. SPECIES
 
 #### Status
 ACCEPTED

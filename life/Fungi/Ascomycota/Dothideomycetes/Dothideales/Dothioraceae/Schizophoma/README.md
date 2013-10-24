@@ -1,5 +1,4 @@
-Schizophoma GENUS
-=======
+# Schizophoma GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea derelicta Nyl. SPECIES
-=======
+# Lecidea derelicta Nyl. SPECIES
 
 #### Status
 ACCEPTED

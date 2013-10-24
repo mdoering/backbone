@@ -1,14 +1,13 @@
-Phlegmacium lavendulense (Cleland) M.M. Moser, 1960 SPECIES
-=======
+# Cortinarius lavendulensis Cleland, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. & Proc. Roy. Soc. S. Australia 52: 217 (1928)
 
 #### Original name
 Cortinarius lavendulensis Cleland, 1928

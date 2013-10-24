@@ -1,5 +1,4 @@
-Euepixylon quercina Lar.N. Vassiljeva SPECIES
-=======
+# Euepixylon quercina Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

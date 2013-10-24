@@ -1,5 +1,4 @@
-Rhinotrichum pulchrum Berk. SPECIES
-=======
+# Rhinotrichum pulchrum Berk. SPECIES
 
 #### Status
 ACCEPTED

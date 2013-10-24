@@ -1,5 +1,4 @@
-Botrytis ellisii Sacc. & P. Syd. SPECIES
-=======
+# Botrytis ellisii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

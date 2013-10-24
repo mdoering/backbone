@@ -1,5 +1,4 @@
-Ophiomassaria haraeana I. Hino & Katum. SPECIES
-=======
+# Ophiomassaria haraeana I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

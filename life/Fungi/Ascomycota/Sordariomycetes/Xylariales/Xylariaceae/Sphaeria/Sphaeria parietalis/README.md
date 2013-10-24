@@ -1,5 +1,4 @@
-Sphaeria parietalis Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria parietalis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

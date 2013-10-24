@@ -1,5 +1,4 @@
-Scutellaria coerulescens Baumg. SPECIES
-=======
+# Scutellaria coerulescens Baumg. SPECIES
 
 #### Status
 ACCEPTED

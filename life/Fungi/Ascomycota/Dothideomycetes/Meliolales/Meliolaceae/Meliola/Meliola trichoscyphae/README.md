@@ -1,5 +1,4 @@
-Meliola trichoscyphae Hansf. & Deighton SPECIES
-=======
+# Meliola trichoscyphae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

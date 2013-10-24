@@ -1,5 +1,4 @@
-Odontia dubia (Rick) Rick SPECIES
-=======
+# Odontia dubia (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

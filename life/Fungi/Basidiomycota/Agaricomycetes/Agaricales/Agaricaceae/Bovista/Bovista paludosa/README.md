@@ -1,14 +1,13 @@
-Bovistella paludosa (Lév.) Pat., 1902 SPECIES
-=======
+# Bovista paludosa Lév., 1846 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lloyd, Mycol. Writ. 1(no. 9): 88 (1902)
+Annls Sci. Nat. , Bot. , sér. 3 5: 163 (1846)
 
 #### Original name
 Bovista paludosa Lév., 1846

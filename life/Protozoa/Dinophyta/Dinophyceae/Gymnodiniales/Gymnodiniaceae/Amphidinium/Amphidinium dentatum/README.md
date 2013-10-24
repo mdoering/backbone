@@ -1,5 +1,4 @@
-Amphidinium dentatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Amphidinium dentatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

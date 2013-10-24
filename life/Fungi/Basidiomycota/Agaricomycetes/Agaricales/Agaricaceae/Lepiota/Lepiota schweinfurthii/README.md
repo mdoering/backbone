@@ -1,5 +1,4 @@
-Lepiota schweinfurthii Henn. SPECIES
-=======
+# Lepiota schweinfurthii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurodictya Haeckel, 1881 GENUS
-=======
+# Staurodictya Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

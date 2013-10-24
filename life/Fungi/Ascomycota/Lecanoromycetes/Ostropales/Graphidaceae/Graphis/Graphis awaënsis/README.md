@@ -1,5 +1,4 @@
-Graphis awaënsis Vain. SPECIES
-=======
+# Graphis awaënsis Vain. SPECIES
 
 #### Status
 ACCEPTED

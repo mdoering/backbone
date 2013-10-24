@@ -1,5 +1,4 @@
-Dermatocarpon taernaënse H. Magn. SPECIES
-=======
+# Dermatocarpon taernaënse H. Magn. SPECIES
 
 #### Status
 ACCEPTED

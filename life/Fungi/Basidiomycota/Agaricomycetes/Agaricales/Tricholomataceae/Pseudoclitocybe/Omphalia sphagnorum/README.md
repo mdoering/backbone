@@ -1,5 +1,4 @@
-Omphalia sphagnorum Kobayasi SPECIES
-=======
+# Omphalia sphagnorum Kobayasi SPECIES
 
 #### Status
 ACCEPTED

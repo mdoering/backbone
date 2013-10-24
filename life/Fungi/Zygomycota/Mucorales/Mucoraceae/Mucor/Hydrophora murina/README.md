@@ -1,5 +1,4 @@
-Hydrophora murina (Pers.) Fr. SPECIES
-=======
+# Hydrophora murina (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

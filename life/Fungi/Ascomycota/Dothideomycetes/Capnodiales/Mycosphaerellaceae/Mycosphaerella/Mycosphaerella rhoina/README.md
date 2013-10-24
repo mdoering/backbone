@@ -1,5 +1,4 @@
-Mycosphaerella rhoina (Sacc.) Joly {?} SPECIES
-=======
+# Mycosphaerella rhoina (Sacc.) Joly {?} SPECIES
 
 #### Status
 ACCEPTED

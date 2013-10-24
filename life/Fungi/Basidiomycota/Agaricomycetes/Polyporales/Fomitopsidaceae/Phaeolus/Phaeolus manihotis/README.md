@@ -1,5 +1,4 @@
-Phaeolus manihotis R. Heim SPECIES
-=======
+# Phaeolus manihotis R. Heim SPECIES
 
 #### Status
 ACCEPTED

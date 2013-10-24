@@ -1,5 +1,4 @@
-Acanthothecis caesiocarnea (Vain.) Kalb SPECIES
-=======
+# Acanthothecis caesiocarnea (Vain.) Kalb SPECIES
 
 #### Status
 ACCEPTED

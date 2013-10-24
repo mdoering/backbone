@@ -1,14 +1,13 @@
-Cystoderma luteohemisphaericum Dennis, 1961 SPECIES
-=======
+# Cystolepiota luteohemisphaerica (Dennis) I. Saar & Laessøe, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 15(1): 109 (1961)
+Mycotaxon 104: 317 (2008)
 
 #### Original name
 Cystoderma luteohemisphaericum Dennis, 1961

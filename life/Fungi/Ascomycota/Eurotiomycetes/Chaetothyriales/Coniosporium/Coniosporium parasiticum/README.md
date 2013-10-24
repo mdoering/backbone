@@ -1,5 +1,4 @@
-Coniosporium parasiticum Dearn. SPECIES
-=======
+# Coniosporium parasiticum Dearn. SPECIES
 
 #### Status
 ACCEPTED

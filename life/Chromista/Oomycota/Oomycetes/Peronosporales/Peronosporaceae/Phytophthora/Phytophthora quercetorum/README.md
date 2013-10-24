@@ -1,5 +1,4 @@
-Phytophthora quercetorum Y. Balci & S. Balci SPECIES
-=======
+# Phytophthora quercetorum Y. Balci & S. Balci SPECIES
 
 #### Status
 ACCEPTED

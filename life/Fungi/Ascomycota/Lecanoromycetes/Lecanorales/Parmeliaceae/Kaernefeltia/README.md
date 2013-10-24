@@ -1,5 +1,4 @@
-Kaernefeltia A. Thell & Goward GENUS
-=======
+# Kaernefeltia A. Thell & Goward GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia piperi subsp. piperi SUBSPECIES
-=======
+# Puccinia piperi Ricker SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Mycol. 11: 114 (1905)
 
 #### Original name
-Puccinia piperi subsp. piperi
+Puccinia piperi Ricker
 
 ### Remarks
 null

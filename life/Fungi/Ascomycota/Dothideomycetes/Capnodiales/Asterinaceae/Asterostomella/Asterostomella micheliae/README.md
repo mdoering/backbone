@@ -1,5 +1,4 @@
-Asterostomella micheliae Hosag. & Goos SPECIES
-=======
+# Asterostomella micheliae Hosag. & Goos SPECIES
 
 #### Status
 ACCEPTED

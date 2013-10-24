@@ -1,5 +1,4 @@
-Physalospora jasmini Moesz SPECIES
-=======
+# Physalospora jasmini Moesz SPECIES
 
 #### Status
 ACCEPTED

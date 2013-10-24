@@ -1,5 +1,4 @@
-Buellia stillingiae SPECIES
-=======
+# Buellia stillingiae SPECIES
 
 #### Status
 ACCEPTED

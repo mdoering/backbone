@@ -1,5 +1,4 @@
-Leptotrichomaria Vologdin GENUS
-=======
+# Leptotrichomaria Vologdin GENUS
 
 #### Status
 ACCEPTED

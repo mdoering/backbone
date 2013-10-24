@@ -1,5 +1,4 @@
-Desulfovirgula Kaksonen et al., 2007 GENUS
-=======
+# Desulfovirgula Kaksonen et al., 2007 GENUS
 
 #### Status
 ACCEPTED

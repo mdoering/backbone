@@ -1,5 +1,4 @@
-Saccharomyces macropsidis-lanionis ulc SPECIES
-=======
+# Saccharomyces macropsidis-lanionis ulc SPECIES
 
 #### Status
 ACCEPTED

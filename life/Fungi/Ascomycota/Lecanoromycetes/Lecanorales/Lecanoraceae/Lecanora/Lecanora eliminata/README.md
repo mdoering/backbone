@@ -1,5 +1,4 @@
-Lecanora eliminata (Arnold) Nyl. SPECIES
-=======
+# Lecanora eliminata (Arnold) Nyl. SPECIES
 
 #### Status
 ACCEPTED

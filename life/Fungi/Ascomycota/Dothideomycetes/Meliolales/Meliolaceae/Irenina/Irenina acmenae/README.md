@@ -1,5 +1,4 @@
-Irenina acmenae Hansf. SPECIES
-=======
+# Irenina acmenae Hansf. SPECIES
 
 #### Status
 ACCEPTED

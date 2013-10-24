@@ -1,5 +1,4 @@
-Tricholoma losii Kavina SPECIES
-=======
+# Tricholoma losii Kavina SPECIES
 
 #### Status
 ACCEPTED

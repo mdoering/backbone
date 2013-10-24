@@ -1,5 +1,4 @@
-Fomes carneogriseus (A. David) SPECIES
-=======
+# Fomes carneogriseus (A. David) SPECIES
 
 #### Status
 ACCEPTED

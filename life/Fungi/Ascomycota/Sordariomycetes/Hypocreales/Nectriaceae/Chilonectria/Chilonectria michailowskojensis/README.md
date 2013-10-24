@@ -1,17 +1,16 @@
-Chilonectria michailewskojensis Henn. SPECIES
-=======
+# Chilonectria michailowskojensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 43: 69 (1904)
 
 #### Original name
-Chilonectria michailewskojensis Henn.
+Chilonectria michailowskojensis Henn.
 
 ### Remarks
 null

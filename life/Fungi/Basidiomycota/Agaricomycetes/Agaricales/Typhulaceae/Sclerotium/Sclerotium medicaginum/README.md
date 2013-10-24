@@ -1,5 +1,4 @@
-Sclerotium medicaginum Biv. SPECIES
-=======
+# Sclerotium medicaginum Biv. SPECIES
 
 #### Status
 ACCEPTED

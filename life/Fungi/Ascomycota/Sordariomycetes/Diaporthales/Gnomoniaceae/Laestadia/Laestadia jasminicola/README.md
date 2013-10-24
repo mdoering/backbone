@@ -1,5 +1,4 @@
-Laestadia jasminicola (Desm.) Sacc. SPECIES
-=======
+# Laestadia jasminicola (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

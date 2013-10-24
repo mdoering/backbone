@@ -1,5 +1,4 @@
-Dentalina laevicostata (Cushman, 1917) SPECIES
-=======
+# Dentalina laevicostata (Cushman, 1917) SPECIES
 
 #### Status
 ACCEPTED

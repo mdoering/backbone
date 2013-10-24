@@ -1,5 +1,4 @@
-Phomopsis truncicola Miura SPECIES
-=======
+# Phomopsis truncicola Miura SPECIES
 
 #### Status
 ACCEPTED

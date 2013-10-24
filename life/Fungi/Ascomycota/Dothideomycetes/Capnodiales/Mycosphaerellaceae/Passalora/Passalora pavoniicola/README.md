@@ -1,5 +1,4 @@
-Passalora pavoniicola U. Braun & F.O. Freire SPECIES
-=======
+# Passalora pavoniicola U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Euxinella Conil & Dil in Dil, 1977 GENUS
-=======
+# Euxinita Conil & Dil in Conil, Longerstaey & Ramsbottom, 1980 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Dil, Annls Soc. Geol. Belg. 99: 380.
+in Conil, Longerstaey & Ramsbottom, Memoires Inst. Geol. Univ. Louvain 30: 87.
 
 #### Original name
-null
+Euxinella Conil & Dil in Dil, 1977
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stagonospora aegaea Petr. SPECIES
-=======
+# Stagonospora aegaea Petr. SPECIES
 
 #### Status
 ACCEPTED

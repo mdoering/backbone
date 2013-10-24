@@ -1,5 +1,4 @@
-Aschersonia eugeniae Koord. SPECIES
-=======
+# Aschersonia eugeniae Koord. SPECIES
 
 #### Status
 ACCEPTED

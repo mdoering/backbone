@@ -1,5 +1,4 @@
-Sarcographomyces inquinantis Cif. & Tomas. SPECIES
-=======
+# Sarcographomyces inquinantis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

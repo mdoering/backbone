@@ -1,5 +1,4 @@
-Ampullaria aurea A.L. Sm. SPECIES
-=======
+# Ampullaria aurea A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

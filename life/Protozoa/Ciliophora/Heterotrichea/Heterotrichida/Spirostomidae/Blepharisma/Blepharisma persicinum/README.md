@@ -1,5 +1,4 @@
-Blepharisma persicinum Perty, 1849 SPECIES
-=======
+# Blepharisma persicinum Perty, 1849 SPECIES
 
 #### Status
 ACCEPTED

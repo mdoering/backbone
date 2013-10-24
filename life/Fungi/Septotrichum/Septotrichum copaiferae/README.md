@@ -1,5 +1,4 @@
-Septotrichum copaiferae Corda SPECIES
-=======
+# Septotrichum copaiferae Corda SPECIES
 
 #### Status
 ACCEPTED

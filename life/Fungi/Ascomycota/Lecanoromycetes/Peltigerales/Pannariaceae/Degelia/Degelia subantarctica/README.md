@@ -1,5 +1,4 @@
-Degelia subantarctica Øvstedal SPECIES
-=======
+# Degelia subantarctica Øvstedal SPECIES
 
 #### Status
 ACCEPTED

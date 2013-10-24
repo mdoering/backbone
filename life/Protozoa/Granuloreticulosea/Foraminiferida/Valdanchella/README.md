@@ -1,5 +1,4 @@
-Valdanchella Canerot & Moullade, 1971 GENUS
-=======
+# Valdanchella Canerot & Moullade, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ramaria fumigata var. fumigata VARIETY
-=======
+# Ramaria fennica (P. Karst.) Ricken, 1920 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 591 (1950)
+null
 
 #### Original name
-Ramaria fumigata var. fumigata
+null
 
 ### Remarks
 null

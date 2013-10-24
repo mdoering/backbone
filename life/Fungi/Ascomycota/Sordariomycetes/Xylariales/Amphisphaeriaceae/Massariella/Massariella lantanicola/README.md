@@ -1,5 +1,4 @@
-Massariella lantanicola (G.H. Otth) Jacz. SPECIES
-=======
+# Massariella lantanicola (G.H. Otth) Jacz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chytriomyces hyalinus var. hyalinus VARIETY
-=======
+# Chytriomyces hyalinus Karling, 1945 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 32: 363 (1945)
+null
 
 #### Original name
-Chytriomyces hyalinus var. hyalinus
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uredo vittariae S. Uchida SPECIES
-=======
+# Uredo vittariae S. Uchida SPECIES
 
 #### Status
 ACCEPTED

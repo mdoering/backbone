@@ -1,5 +1,4 @@
-Ectocarpus simpliciusculus var. vitiensis Askenasy VARIETY
-=======
+# Ectocarpus simpliciusculus C. Agardh SPECIES
 
 #### Status
 ACCEPTED

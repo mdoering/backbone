@@ -1,5 +1,4 @@
-Phlyctochytrium peruvianum J.S. Knox SPECIES
-=======
+# Phlyctochytrium peruvianum J.S. Knox SPECIES
 
 #### Status
 ACCEPTED

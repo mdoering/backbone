@@ -1,5 +1,4 @@
-Lamprospora norvegica Benkert, Aas & R. Kristiansen SPECIES
-=======
+# Lamprospora norvegica Benkert, Aas & R. Kristiansen SPECIES
 
 #### Status
 ACCEPTED

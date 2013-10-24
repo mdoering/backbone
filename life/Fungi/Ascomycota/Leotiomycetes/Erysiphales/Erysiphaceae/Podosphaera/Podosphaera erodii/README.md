@@ -1,5 +1,4 @@
-Podosphaera erodii (Durieu & Mont.) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera erodii (Durieu & Mont.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

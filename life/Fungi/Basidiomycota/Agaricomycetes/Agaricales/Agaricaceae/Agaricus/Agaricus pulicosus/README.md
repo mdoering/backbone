@@ -1,5 +1,4 @@
-Agaricus pulicosus Mont. SPECIES
-=======
+# Agaricus pulicosus Mont. SPECIES
 
 #### Status
 ACCEPTED

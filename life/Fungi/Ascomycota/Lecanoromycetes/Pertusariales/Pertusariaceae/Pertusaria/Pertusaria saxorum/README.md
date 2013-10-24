@@ -1,5 +1,4 @@
-Pertusaria saxorum B. de Lesd. SPECIES
-=======
+# Pertusaria saxorum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

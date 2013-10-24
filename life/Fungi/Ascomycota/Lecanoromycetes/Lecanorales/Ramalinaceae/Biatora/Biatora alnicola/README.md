@@ -1,5 +1,4 @@
-Biatora alnicola Anzi SPECIES
-=======
+# Biatora alnicola Anzi SPECIES
 
 #### Status
 ACCEPTED

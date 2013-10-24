@@ -1,5 +1,4 @@
-Lenzites torrida Kalchbr. SPECIES
-=======
+# Lenzites torrida Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

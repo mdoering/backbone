@@ -1,5 +1,4 @@
-Pholiota urvilleana Sacc. SPECIES
-=======
+# Pholiota urvilleana Sacc. SPECIES
 
 #### Status
 ACCEPTED

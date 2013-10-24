@@ -1,5 +1,4 @@
-Fucus bastera S.G. Gmelin SPECIES
-=======
+# Fucus bastera S.G. Gmelin SPECIES
 
 #### Status
 ACCEPTED

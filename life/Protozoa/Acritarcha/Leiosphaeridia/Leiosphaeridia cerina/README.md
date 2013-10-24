@@ -1,5 +1,4 @@
-Leiosphaeridia cerina Timofeev, 1966 SPECIES
-=======
+# Leiosphaeridia cerina Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

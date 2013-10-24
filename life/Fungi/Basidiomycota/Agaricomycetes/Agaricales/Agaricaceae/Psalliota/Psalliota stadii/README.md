@@ -1,5 +1,4 @@
-Psalliota stadii Petch SPECIES
-=======
+# Psalliota stadii Petch SPECIES
 
 #### Status
 ACCEPTED

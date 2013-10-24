@@ -1,14 +1,13 @@
-Peronospora cyperi Miyabe & Ideta, 1904 SPECIES
-=======
+# Phytophthora cyperi (Ideta) S. Ito, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Sapporo nat. Hist. Soc. 14(1): 13 (1935)
 
 #### Original name
 Peronospora cyperi Miyabe & Ideta, 1904

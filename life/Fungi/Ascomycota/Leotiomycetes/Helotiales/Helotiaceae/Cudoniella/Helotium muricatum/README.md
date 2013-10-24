@@ -1,5 +1,4 @@
-Helotium muricatum Velen. SPECIES
-=======
+# Helotium muricatum Velen. SPECIES
 
 #### Status
 ACCEPTED

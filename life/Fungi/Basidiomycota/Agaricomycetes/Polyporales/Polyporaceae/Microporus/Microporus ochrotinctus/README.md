@@ -1,5 +1,4 @@
-Microporus ochrotinctus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Microporus ochrotinctus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

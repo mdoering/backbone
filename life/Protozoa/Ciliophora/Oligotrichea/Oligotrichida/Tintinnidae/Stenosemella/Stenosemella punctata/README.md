@@ -1,5 +1,4 @@
-Stenosemella punctata Wailes, 1925 SPECIES
-=======
+# Stenosemella punctata Wailes, 1925 SPECIES
 
 #### Status
 ACCEPTED

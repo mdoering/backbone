@@ -1,5 +1,4 @@
-Geotricum candidium Link SPECIES
-=======
+# Geotricum candidium Link SPECIES
 
 #### Status
 ACCEPTED

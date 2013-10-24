@@ -1,5 +1,4 @@
-Cercosporina carolinensis (Tharp) Sacc. SPECIES
-=======
+# Cercosporina carolinensis (Tharp) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum roseolum Oudem. & Beij., 1903 SPECIES
-=======
+# Sporotrichum roseolum Oudem. & Beij., 1903 SPECIES
 
 #### Status
 ACCEPTED

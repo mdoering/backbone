@@ -1,5 +1,4 @@
-Asteromella stachydis (Brunaud) Petr. SPECIES
-=======
+# Asteromella stachydis (Brunaud) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium atrovenetum G. Sm., 1956 SPECIES
-=======
+# Penicillium atrovenetum G. Sm., 1956 SPECIES
 
 #### Status
 ACCEPTED

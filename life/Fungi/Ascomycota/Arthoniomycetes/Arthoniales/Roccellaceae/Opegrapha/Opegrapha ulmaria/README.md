@@ -1,5 +1,4 @@
-Opegrapha ulmaria Chevall. SPECIES
-=======
+# Opegrapha ulmaria Chevall. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium arcuosporum Sherb. SPECIES
-=======
+# Fusarium arcuosporum Sherb. SPECIES
 
 #### Status
 ACCEPTED

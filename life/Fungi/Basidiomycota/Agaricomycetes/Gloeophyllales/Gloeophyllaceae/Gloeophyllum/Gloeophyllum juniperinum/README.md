@@ -1,14 +1,13 @@
-Lenzites juniperina Teng & L. Ling, 1932 SPECIES
-=======
+# Gloeophyllum juniperinum (Teng & L. Ling) Teng, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contribution from the Biological Laboratory of the Scientific Society of China, Botanical Series (1932)
+Chung-kuo Ti Chen-chun, [Fungi of China] 761 (1963)
 
 #### Original name
 Lenzites juniperina Teng & L. Ling, 1932

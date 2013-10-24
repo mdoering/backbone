@@ -1,17 +1,16 @@
-Apiognomonia tiliae var. tiliae VARIETY
-=======
+# Apiognomonia errabunda (Roberge ex Desm.) Höhn., 1918 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 16(1/2): 51 (1918)
 
 #### Original name
-Apiognomonia tiliae var. tiliae
+Sphaeria errabunda Roberge ex Desm., 1849
 
 ### Remarks
 null

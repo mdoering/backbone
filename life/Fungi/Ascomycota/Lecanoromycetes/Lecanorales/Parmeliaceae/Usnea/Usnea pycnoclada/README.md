@@ -1,5 +1,4 @@
-Usnea pycnoclada Vain. SPECIES
-=======
+# Usnea pycnoclada Vain. SPECIES
 
 #### Status
 ACCEPTED

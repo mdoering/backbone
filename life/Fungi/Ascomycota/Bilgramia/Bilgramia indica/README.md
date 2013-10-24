@@ -1,17 +1,16 @@
-Bilgramia indicum Panwar, Purohit & Chouhan SPECIES
-=======
+# Bilgramia indica Panwar, Purohit & Chouhan, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Curr. Sci. 43(17): 552 (1974)
 
 #### Original name
-Bilgramia indicum Panwar, Purohit & Chouhan
+Bilgramia indica Panwar, Purohit & Chouhan, 1974
 
 ### Remarks
 null

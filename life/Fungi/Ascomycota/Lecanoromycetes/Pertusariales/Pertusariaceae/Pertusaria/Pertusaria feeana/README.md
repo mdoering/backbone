@@ -1,5 +1,4 @@
-Pertusaria feeana Zahlbr. SPECIES
-=======
+# Pertusaria feeana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reissella Hamaoui, 1963 GENUS
-=======
+# Reissella Hamaoui, 1963 GENUS
 
 #### Status
 ACCEPTED

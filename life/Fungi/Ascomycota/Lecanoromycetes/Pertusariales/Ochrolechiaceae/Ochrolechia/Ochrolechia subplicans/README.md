@@ -1,17 +1,16 @@
-Ochrolechia subplicans var. subplicans VARIETY
-=======
+# Ochrolechia subplicans (Nyl.) Brodo SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 66(7): 1269 (1988)
 
 #### Original name
-null
+Pertusaria subplicans Nyl.
 
 ### Remarks
 null

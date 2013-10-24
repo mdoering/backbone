@@ -1,5 +1,4 @@
-Inocybe elliptica Takah. Kobay. SPECIES
-=======
+# Inocybe elliptica Takah. Kobay. SPECIES
 
 #### Status
 ACCEPTED

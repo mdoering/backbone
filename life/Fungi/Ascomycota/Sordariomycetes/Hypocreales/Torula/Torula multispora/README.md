@@ -1,5 +1,4 @@
-Torula multispora K.B. Deshp. & K.S. Deshp. SPECIES
-=======
+# Torula multispora K.B. Deshp. & K.S. Deshp. SPECIES
 
 #### Status
 ACCEPTED

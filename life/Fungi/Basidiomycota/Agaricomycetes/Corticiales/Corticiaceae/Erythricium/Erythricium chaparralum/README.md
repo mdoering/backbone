@@ -1,5 +1,4 @@
-Erythricium chaparralum Burds. & Gilb., 1982 SPECIES
-=======
+# Erythricium chaparralum Burds. & Gilb., 1982 SPECIES
 
 #### Status
 ACCEPTED

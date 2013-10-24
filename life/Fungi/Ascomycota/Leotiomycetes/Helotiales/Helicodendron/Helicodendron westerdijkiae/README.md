@@ -1,5 +1,4 @@
-Helicodendron westerdijkiae Beverw., 1953 SPECIES
-=======
+# Helicodendron westerdijkiae Beverw., 1953 SPECIES
 
 #### Status
 ACCEPTED

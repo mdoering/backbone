@@ -1,5 +1,4 @@
-Trichothelium echinocarpum Lücking SPECIES
-=======
+# Trichothelium echinocarpum Lücking SPECIES
 
 #### Status
 ACCEPTED

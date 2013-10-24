@@ -1,5 +1,4 @@
-Hartmannula entzi Kahl, 1931 SPECIES
-=======
+# Hartmannula entzi Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

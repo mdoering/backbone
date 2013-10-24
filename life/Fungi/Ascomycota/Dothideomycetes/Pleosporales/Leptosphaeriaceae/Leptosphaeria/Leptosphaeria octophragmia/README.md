@@ -1,5 +1,4 @@
-Leptosphaeria octophragmia var. octophragmia Traverso & Gonz. Frag., 1915 VARIETY
-=======
+# Leptosphaeria octophragmia Traverso & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Leptosphaeria octophragmia var. octophragmia Traverso & Gonz. Frag., 1915
+null
 
 ### Remarks
 null

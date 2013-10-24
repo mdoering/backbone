@@ -1,5 +1,4 @@
-Lalaria purpurascens R.T. Moore SPECIES
-=======
+# Lalaria purpurascens R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

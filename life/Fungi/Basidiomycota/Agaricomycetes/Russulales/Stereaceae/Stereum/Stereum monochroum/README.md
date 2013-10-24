@@ -1,5 +1,4 @@
-Stereum monochroum Cooke SPECIES
-=======
+# Stereum monochroum Cooke SPECIES
 
 #### Status
 ACCEPTED

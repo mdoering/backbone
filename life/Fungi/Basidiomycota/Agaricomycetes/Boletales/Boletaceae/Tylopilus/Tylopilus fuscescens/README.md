@@ -1,5 +1,4 @@
-Tylopilus fuscescens Watling SPECIES
-=======
+# Tylopilus fuscescens Watling SPECIES
 
 #### Status
 ACCEPTED

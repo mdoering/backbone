@@ -1,5 +1,4 @@
-Ramichloridium bambusae (Morgan-Jones) de Hoog SPECIES
-=======
+# Ramichloridium bambusae (Morgan-Jones) de Hoog SPECIES
 
 #### Status
 ACCEPTED

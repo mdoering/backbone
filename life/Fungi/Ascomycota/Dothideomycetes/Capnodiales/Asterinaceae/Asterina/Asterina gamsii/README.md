@@ -1,5 +1,4 @@
-Asterina gamsii Hosag. & C.K. Biju, 2005 SPECIES
-=======
+# Asterina gamsii Hosag. & C.K. Biju, 2005 SPECIES
 
 #### Status
 ACCEPTED

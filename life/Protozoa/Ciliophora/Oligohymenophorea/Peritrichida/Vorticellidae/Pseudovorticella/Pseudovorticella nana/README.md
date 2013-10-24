@@ -1,5 +1,4 @@
-Pseudovorticella nana SPECIES
-=======
+# Pseudovorticella nana SPECIES
 
 #### Status
 ACCEPTED

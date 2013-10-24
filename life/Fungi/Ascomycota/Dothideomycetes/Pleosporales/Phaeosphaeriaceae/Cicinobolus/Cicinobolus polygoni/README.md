@@ -1,8 +1,7 @@
-Cicinnobolus polygoni Potebnia SPECIES
-=======
+# Cicinobolus polygoni Potebnia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus polygoni Potebnia
+Cicinobolus polygoni Potebnia
 
 ### Remarks
 null

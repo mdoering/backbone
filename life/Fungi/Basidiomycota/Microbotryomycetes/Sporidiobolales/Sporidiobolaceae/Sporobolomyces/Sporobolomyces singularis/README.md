@@ -1,5 +1,4 @@
-Sporobolomyces singularis Phaff & Carmo Souza SPECIES
-=======
+# Sporobolomyces singularis Phaff & Carmo Souza SPECIES
 
 #### Status
 ACCEPTED

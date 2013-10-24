@@ -1,5 +1,4 @@
-Diplodia mamillana Fr., 1849 SPECIES
-=======
+# Diplodia mamillana Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED

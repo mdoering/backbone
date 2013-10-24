@@ -1,5 +1,4 @@
-Coccomyces annulatus Sherwood, 1980 SPECIES
-=======
+# Coccomyces annulatus Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

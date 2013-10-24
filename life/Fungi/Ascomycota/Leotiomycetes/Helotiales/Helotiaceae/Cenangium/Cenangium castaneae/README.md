@@ -1,5 +1,4 @@
-Cenangium castaneae Schwein. SPECIES
-=======
+# Cenangium castaneae Schwein. SPECIES
 
 #### Status
 ACCEPTED

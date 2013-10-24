@@ -1,5 +1,4 @@
-Cortinarius praelatus M.M. Moser SPECIES
-=======
+# Cortinarius praelatus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

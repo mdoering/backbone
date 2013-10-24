@@ -1,5 +1,4 @@
-Cryptococcus fagi Middelhoven & Scorzetti SPECIES
-=======
+# Cryptococcus fagi Middelhoven & Scorzetti SPECIES
 
 #### Status
 ACCEPTED

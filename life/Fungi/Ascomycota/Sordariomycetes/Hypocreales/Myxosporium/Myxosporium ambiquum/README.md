@@ -1,5 +1,4 @@
-Myxosporium ambiquum Sacc. & Flageolet SPECIES
-=======
+# Myxosporium ambiquum Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

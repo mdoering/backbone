@@ -1,5 +1,4 @@
-Canoparmelia amabilis Heiman & Elix SPECIES
-=======
+# Canoparmelia amabilis Heiman & Elix SPECIES
 
 #### Status
 ACCEPTED

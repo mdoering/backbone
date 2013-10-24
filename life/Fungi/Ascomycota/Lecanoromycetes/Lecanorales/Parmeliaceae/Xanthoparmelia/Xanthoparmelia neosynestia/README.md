@@ -1,5 +1,4 @@
-Xanthoparmelia neosynestia Hale SPECIES
-=======
+# Xanthoparmelia neosynestia Hale SPECIES
 
 #### Status
 ACCEPTED

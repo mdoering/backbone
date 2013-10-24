@@ -1,5 +1,4 @@
-Aposphaeria quercina Jacz. SPECIES
-=======
+# Aposphaeria quercina Jacz. SPECIES
 
 #### Status
 ACCEPTED

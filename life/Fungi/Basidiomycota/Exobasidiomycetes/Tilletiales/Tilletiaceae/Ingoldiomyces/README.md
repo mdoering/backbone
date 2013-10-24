@@ -1,5 +1,4 @@
-Ingoldiomyces Vánky GENUS
-=======
+# Ingoldiomyces Vánky GENUS
 
 #### Status
 ACCEPTED

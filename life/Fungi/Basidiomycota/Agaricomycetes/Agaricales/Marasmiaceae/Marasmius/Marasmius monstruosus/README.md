@@ -1,5 +1,4 @@
-Marasmius monstruosus Corner SPECIES
-=======
+# Marasmius monstruosus Corner SPECIES
 
 #### Status
 ACCEPTED

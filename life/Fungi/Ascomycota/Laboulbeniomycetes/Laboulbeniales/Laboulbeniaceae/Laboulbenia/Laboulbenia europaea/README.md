@@ -1,5 +1,4 @@
-Laboulbenia europaea Thaxt. SPECIES
-=======
+# Laboulbenia europaea Thaxt. SPECIES
 
 #### Status
 ACCEPTED

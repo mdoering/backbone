@@ -1,5 +1,4 @@
-Chytridium microcystidis Skuja SPECIES
-=======
+# Chytridium microcystidis Skuja SPECIES
 
 #### Status
 ACCEPTED

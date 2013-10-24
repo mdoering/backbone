@@ -1,5 +1,4 @@
-Agrocybe leechii (A.H. Sm.) Watling SPECIES
-=======
+# Agrocybe leechii (A.H. Sm.) Watling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Miliolithes Cuvier, 1817 GENUS
-=======
+# Miliola Lamarck, 1804 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Régne an. , 2, 376.
+Ann. Mus. H. N. (Paris), 5 (29), 349 (as Miliolites p. 351).
 
 #### Original name
 null

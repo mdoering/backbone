@@ -1,5 +1,4 @@
-Helicomyces macrofilamentosus Matsush. SPECIES
-=======
+# Helicomyces macrofilamentosus Matsush. SPECIES
 
 #### Status
 ACCEPTED

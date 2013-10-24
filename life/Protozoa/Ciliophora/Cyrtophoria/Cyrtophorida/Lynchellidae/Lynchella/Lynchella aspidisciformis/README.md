@@ -1,5 +1,4 @@
-Lynchella aspidisciformis Kahl, 1933 SPECIES
-=======
+# Lynchella aspidisciformis Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

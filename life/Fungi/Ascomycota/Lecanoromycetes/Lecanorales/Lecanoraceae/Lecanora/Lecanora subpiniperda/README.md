@@ -1,5 +1,4 @@
-Lecanora subpiniperda C. Knight SPECIES
-=======
+# Lecanora subpiniperda C. Knight SPECIES
 
 #### Status
 ACCEPTED

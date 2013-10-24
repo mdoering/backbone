@@ -1,5 +1,4 @@
-Entomosigma simplicius Conrad SPECIES
-=======
+# Entomosigma simplicius Conrad SPECIES
 
 #### Status
 ACCEPTED

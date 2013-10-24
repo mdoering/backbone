@@ -1,5 +1,4 @@
-Priscogalea parva Uutela & Tynni, 1991 SPECIES
-=======
+# Priscogalea parva Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lophiotrema vagabundum f. vagabundum FORM
-=======
+# Lophiostoma vagabundum Sacc., 1875 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 4): 447 (1878)
+Hedwigia 14: 70 (1875)
 
 #### Original name
-Lophiotrema vagabundum f. vagabundum
+Lophiostoma vagabundum Sacc., 1875
 
 ### Remarks
 null

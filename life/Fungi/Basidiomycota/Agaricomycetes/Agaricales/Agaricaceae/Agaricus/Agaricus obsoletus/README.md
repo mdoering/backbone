@@ -1,5 +1,4 @@
-Agaricus obsoletus Batsch SPECIES
-=======
+# Agaricus obsoletus Batsch SPECIES
 
 #### Status
 ACCEPTED

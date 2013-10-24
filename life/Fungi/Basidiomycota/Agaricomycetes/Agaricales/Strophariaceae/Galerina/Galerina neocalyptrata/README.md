@@ -1,5 +1,4 @@
-Galerina neocalyptrata A.E. Wood SPECIES
-=======
+# Galerina neocalyptrata A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

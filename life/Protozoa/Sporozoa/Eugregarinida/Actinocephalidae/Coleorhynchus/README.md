@@ -1,17 +1,16 @@
-Coleophora Schneider, 1885 GENUS
-=======
+# Coleorhynchus Labbé, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Tabl. Zool. , 1, 94.
+Tierreich, 5, 23.
 
 #### Original name
-null
+Coleophora Schneider, 1885
 
 ### Remarks
 null

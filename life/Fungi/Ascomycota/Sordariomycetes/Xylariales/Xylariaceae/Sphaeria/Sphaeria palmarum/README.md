@@ -1,5 +1,4 @@
-Sphaeria palmarum Duby SPECIES
-=======
+# Sphaeria palmarum Duby SPECIES
 
 #### Status
 ACCEPTED

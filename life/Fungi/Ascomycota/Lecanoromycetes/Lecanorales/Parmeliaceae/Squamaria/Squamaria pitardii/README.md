@@ -1,5 +1,4 @@
-Squamaria pitardii B. de Lesd. SPECIES
-=======
+# Squamaria pitardii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

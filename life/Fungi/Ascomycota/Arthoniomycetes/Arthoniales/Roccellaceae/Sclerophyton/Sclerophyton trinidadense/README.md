@@ -1,5 +1,4 @@
-Sclerophyton trinidadense Sparrius SPECIES
-=======
+# Sclerophyton trinidadense Sparrius SPECIES
 
 #### Status
 ACCEPTED

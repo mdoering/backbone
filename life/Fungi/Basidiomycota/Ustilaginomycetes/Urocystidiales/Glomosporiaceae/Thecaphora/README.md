@@ -1,17 +1,16 @@
-Poikilosporium Dietel GENUS
-=======
+# Thecaphora Fingerhuth, 1836 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 83: 87 (1897)
+Linnaea 10: 230 (1836)
 
 #### Original name
-Poikilosporium Dietel
+Thecaphora Fingerhuth, 1836
 
 ### Remarks
 null

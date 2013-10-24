@@ -1,5 +1,4 @@
-Hymenula pellicula (Desm.) Sacc. SPECIES
-=======
+# Hymenula pellicula (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

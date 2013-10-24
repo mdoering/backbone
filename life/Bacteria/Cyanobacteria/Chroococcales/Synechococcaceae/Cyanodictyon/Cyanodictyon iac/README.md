@@ -1,5 +1,4 @@
-Cyanodictyon iac G. Cronberg & J. Komárek SPECIES
-=======
+# Cyanodictyon iac G. Cronberg & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

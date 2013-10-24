@@ -1,5 +1,4 @@
-Parmotrema tandilense (Adler & Elix) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
-=======
+# Parmotrema tandilense (Adler & Elix) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

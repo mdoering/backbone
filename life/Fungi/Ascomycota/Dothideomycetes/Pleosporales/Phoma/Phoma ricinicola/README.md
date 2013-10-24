@@ -1,5 +1,4 @@
-Phoma ricinicola Speg. SPECIES
-=======
+# Phoma ricinicola Speg. SPECIES
 
 #### Status
 ACCEPTED

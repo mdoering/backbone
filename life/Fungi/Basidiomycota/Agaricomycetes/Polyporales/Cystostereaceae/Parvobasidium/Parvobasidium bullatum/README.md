@@ -1,5 +1,4 @@
-Parvobasidium bullatum K.-H. Larss. & Martini SPECIES
-=======
+# Parvobasidium bullatum K.-H. Larss. & Martini SPECIES
 
 #### Status
 ACCEPTED

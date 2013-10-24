@@ -1,5 +1,4 @@
-Praecalpionellopsis Borza, 1971 GENUS
-=======
+# Praecalpionellopsis Borza, 1971 GENUS
 
 #### Status
 ACCEPTED

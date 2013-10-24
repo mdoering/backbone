@@ -1,5 +1,4 @@
-Pseudocercospora paludicola (Speg.) U. Braun SPECIES
-=======
+# Pseudocercospora paludicola (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

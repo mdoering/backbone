@@ -1,5 +1,4 @@
-Subulispora rectilineata Tubaki, 1971 SPECIES
-=======
+# Subulispora rectilineata Tubaki, 1971 SPECIES
 
 #### Status
 ACCEPTED

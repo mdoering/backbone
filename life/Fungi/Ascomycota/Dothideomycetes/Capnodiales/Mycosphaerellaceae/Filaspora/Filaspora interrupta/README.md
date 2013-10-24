@@ -1,5 +1,4 @@
-Filaspora interrupta (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Filaspora interrupta (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

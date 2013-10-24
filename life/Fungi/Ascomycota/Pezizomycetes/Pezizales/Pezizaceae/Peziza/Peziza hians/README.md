@@ -1,5 +1,4 @@
-Peziza hians Batsch SPECIES
-=======
+# Peziza hians Batsch SPECIES
 
 #### Status
 ACCEPTED

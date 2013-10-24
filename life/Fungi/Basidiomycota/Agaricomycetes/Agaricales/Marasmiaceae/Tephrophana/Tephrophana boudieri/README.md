@@ -1,5 +1,4 @@
-Tephrophana boudieri Romagn. SPECIES
-=======
+# Tephrophana boudieri Romagn. SPECIES
 
 #### Status
 ACCEPTED

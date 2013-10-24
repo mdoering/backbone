@@ -1,5 +1,4 @@
-Nephroma patagonicum var. patagonicum VARIETY
-=======
+# Nephroma patagonicum Kremp. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Verh. zool. -bot. Ges. Wien 439 (1876)
 
 #### Original name
-Nephroma patagonicum var. patagonicum
+Nephroma patagonicum Kremp.
 
 ### Remarks
 null

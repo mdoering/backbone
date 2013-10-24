@@ -1,5 +1,4 @@
-Ophiobolus galii-veri Fautrey SPECIES
-=======
+# Ophiobolus galii-veri Fautrey SPECIES
 
 #### Status
 ACCEPTED

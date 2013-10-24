@@ -1,5 +1,4 @@
-Nectria verrucospora Brayford & Samuels, 1993 SPECIES
-=======
+# Nectria verrucospora Brayford & Samuels, 1993 SPECIES
 
 #### Status
 ACCEPTED

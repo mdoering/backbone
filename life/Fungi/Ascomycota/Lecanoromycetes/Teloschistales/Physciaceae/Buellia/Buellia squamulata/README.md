@@ -1,5 +1,4 @@
-Buellia squamulata (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia squamulata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

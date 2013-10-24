@@ -1,5 +1,4 @@
-Psathyra punctata Velen. SPECIES
-=======
+# Psathyra punctata Velen. SPECIES
 
 #### Status
 ACCEPTED

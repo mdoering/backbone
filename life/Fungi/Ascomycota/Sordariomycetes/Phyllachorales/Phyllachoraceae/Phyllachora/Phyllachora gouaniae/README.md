@@ -1,17 +1,16 @@
-Catacaumella gouaniae F. Stevens, 1920 SPECIES
-=======
+# Phyllachora gouaniae Gonz. Frag. & Cif., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. , Chicago 69: 252 (1920)
+Boletín de la Real Sociedad Española de Historia Natural, Biologica 26: 253 (1926)
 
 #### Original name
-Catacaumella gouaniae F. Stevens, 1920
+Phyllachora gouaniae Gonz. Frag. & Cif., 1926
 
 ### Remarks
 null

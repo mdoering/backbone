@@ -1,5 +1,4 @@
-Puccinia cordyceps Berndt SPECIES
-=======
+# Puccinia cordyceps Berndt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discostroma tricellulare Okane, Nakagiri & Tad. Ito SPECIES
-=======
+# Discostroma tricellulare Okane, Nakagiri & Tad. Ito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cannopilus ichikawae A. Bachmann SPECIES
-=======
+# Cannopilus ichikawae A. Bachmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicotrichum platani (G.H. Otth) Sacc. SPECIES
-=======
+# Helicotrichum platani (G.H. Otth) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Murashkinskija juniperina Petr. SPECIES
-=======
+# Murashkinskija juniperina Petr. SPECIES
 
 #### Status
 ACCEPTED

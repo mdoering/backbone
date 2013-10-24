@@ -1,5 +1,4 @@
-Sclerophyton vertex Sparrius SPECIES
-=======
+# Sclerophyton vertex Sparrius SPECIES
 
 #### Status
 ACCEPTED

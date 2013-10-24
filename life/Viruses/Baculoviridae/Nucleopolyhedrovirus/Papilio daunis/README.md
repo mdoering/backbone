@@ -1,5 +1,4 @@
-Papilio daunis Npv SPECIES
-=======
+# Papilio daunis Npv SPECIES
 
 #### Status
 ACCEPTED

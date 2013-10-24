@@ -1,17 +1,16 @@
-Conocybe siliginea f. siliginea (Fr.) Kühner FORM
-=======
+# Conocybe siliginea (Fr.) Kühner, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Encyclop. Mycol. 7: 96 (1935)
 
 #### Original name
-Conocybe siliginea f. siliginea (Fr.) Kühner
+Agaricus siligineus Fr., 1818
 
 ### Remarks
 null

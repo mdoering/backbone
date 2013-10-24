@@ -1,5 +1,4 @@
-Trichosporum albidoroseum Roum. SPECIES
-=======
+# Trichosporum albidoroseum Roum. SPECIES
 
 #### Status
 ACCEPTED

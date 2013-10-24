@@ -1,5 +1,4 @@
-Actinoplanes palleronii Goodfellow et al., 1990 SPECIES
-=======
+# Actinoplanes palleronii Goodfellow et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

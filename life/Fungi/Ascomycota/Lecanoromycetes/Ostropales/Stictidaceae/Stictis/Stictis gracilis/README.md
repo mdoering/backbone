@@ -1,5 +1,4 @@
-Stictis gracilis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Stictis gracilis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea uluguruensis Krog SPECIES
-=======
+# Usnea uluguruensis Krog SPECIES
 
 #### Status
 ACCEPTED

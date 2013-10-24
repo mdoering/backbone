@@ -1,5 +1,4 @@
-Lasiobelonium nazarovae Raitv., 1980 SPECIES
-=======
+# Lasiobelonium nazarovae Raitv., 1980 SPECIES
 
 #### Status
 ACCEPTED

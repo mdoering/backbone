@@ -1,5 +1,4 @@
-Mimeomyces Thaxt. GENUS
-=======
+# Mimeomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

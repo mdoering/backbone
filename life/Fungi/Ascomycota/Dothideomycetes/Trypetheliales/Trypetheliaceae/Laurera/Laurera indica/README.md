@@ -1,5 +1,4 @@
-Laurera indica Makhija & Patw. SPECIES
-=======
+# Laurera indica Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria sphenispora Ellis & Everh. SPECIES
-=======
+# Metasphaeria sphenispora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

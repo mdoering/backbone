@@ -1,17 +1,16 @@
-Septoria trailiana var. trailiana Sacc. VARIETY
-=======
+# Septoria prunellae Trail, 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 10: 375 (1892)
+Scott. Natural. 8: 89 (1887)
 
 #### Original name
-Septoria trailiana var. trailiana Sacc.
+Septoria prunellae Trail, 1887
 
 ### Remarks
 null

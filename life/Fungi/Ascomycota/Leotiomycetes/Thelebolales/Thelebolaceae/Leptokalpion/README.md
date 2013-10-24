@@ -1,5 +1,4 @@
-Leptokalpion Brumm. GENUS
-=======
+# Leptokalpion Brumm. GENUS
 
 #### Status
 ACCEPTED

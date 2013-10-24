@@ -1,5 +1,4 @@
-Rinodina elegans SPECIES
-=======
+# Rinodina elegans SPECIES
 
 #### Status
 ACCEPTED

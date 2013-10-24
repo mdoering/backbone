@@ -1,17 +1,16 @@
-Geaster harioti Lloyd SPECIES
-=======
+# Geastrum hariotii Lloyd, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Writ. 2: 311 (1907)
 
 #### Original name
-Geaster harioti Lloyd
+Geastrum hariotii Lloyd, 1907
 
 ### Remarks
 null

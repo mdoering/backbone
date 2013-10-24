@@ -1,17 +1,16 @@
-Phyllosticta stigmatophyli Speg. SPECIES
-=======
+# Phyllosticta stigmatophylli Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 13: 12 (1882)
 
 #### Original name
-Phyllosticta stigmatophyli Speg.
+Phyllosticta stigmatophylli Speg.
 
 ### Remarks
 null

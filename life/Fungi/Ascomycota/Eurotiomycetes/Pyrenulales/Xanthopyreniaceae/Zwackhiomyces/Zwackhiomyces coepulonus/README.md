@@ -1,14 +1,13 @@
-Arthopyrenia coepulona Norman SPECIES
-=======
+# Zwackhiomyces coepulonus (Norman) Grube & R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bot. Notiser 192 (1868)
+in Grube & Hafellner, Nova Hedwigia 51(3-4): 310 (1990)
 
 #### Original name
 Arthopyrenia coepulona Norman

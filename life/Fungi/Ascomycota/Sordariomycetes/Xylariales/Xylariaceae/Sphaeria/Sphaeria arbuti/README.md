@@ -1,5 +1,4 @@
-Sphaeria arbuti Fr. SPECIES
-=======
+# Sphaeria arbuti Fr. SPECIES
 
 #### Status
 ACCEPTED

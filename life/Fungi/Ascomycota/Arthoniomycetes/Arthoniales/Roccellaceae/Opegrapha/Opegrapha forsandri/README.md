@@ -1,5 +1,4 @@
-Opegrapha forsandri Fr. SPECIES
-=======
+# Opegrapha forsandri Fr. SPECIES
 
 #### Status
 ACCEPTED

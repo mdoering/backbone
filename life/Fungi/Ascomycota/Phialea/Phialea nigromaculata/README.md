@@ -1,5 +1,4 @@
-Phialea nigromaculata (Earle) Sacc. SPECIES
-=======
+# Phialea nigromaculata (Earle) Sacc. SPECIES
 
 #### Status
 ACCEPTED

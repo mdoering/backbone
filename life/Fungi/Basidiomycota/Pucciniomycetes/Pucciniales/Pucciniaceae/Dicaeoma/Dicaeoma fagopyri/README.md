@@ -1,5 +1,4 @@
-Dicaeoma fagopyri (Barclay) Kuntze SPECIES
-=======
+# Dicaeoma fagopyri (Barclay) Kuntze SPECIES
 
 #### Status
 ACCEPTED

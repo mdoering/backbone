@@ -1,5 +1,4 @@
-Eucampia recta H.H.Gran & T.Braarud SPECIES
-=======
+# Eucampia recta H.H.Gran & T.Braarud SPECIES
 
 #### Status
 ACCEPTED

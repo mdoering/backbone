@@ -1,5 +1,4 @@
-Pavlovecina Loeblich & Tappan, 1988 GENUS
-=======
+# Pavlovecina Loeblich & Tappan, 1988 GENUS
 
 #### Status
 ACCEPTED

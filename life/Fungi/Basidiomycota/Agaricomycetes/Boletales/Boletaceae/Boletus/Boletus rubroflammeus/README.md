@@ -1,5 +1,4 @@
-Boletus rubroflammeus A.H. Sm. & Thiers SPECIES
-=======
+# Boletus rubroflammeus A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arcyria bulbosa S.L. Stephenson & Nann.-Bremek., 1990 SPECIES
-=======
+# Arcyria bulbosa S.L. Stephenson & Nann.-Bremek., 1990 SPECIES
 
 #### Status
 ACCEPTED

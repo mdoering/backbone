@@ -1,5 +1,4 @@
-Macrosporium coluteae Thüm. SPECIES
-=======
+# Macrosporium coluteae Thüm. SPECIES
 
 #### Status
 ACCEPTED

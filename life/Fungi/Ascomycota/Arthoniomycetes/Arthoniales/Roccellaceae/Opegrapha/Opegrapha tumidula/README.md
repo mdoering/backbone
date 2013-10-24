@@ -1,5 +1,4 @@
-Opegrapha tumidula Fée SPECIES
-=======
+# Opegrapha tumidula Fée SPECIES
 
 #### Status
 ACCEPTED

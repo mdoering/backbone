@@ -1,5 +1,4 @@
-Dothiorella liriodendri (Cooke) Sacc. SPECIES
-=======
+# Dothiorella liriodendri (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

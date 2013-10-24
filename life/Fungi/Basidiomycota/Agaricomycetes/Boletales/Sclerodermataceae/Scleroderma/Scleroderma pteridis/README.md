@@ -1,5 +1,4 @@
-Scleroderma pteridis Shear SPECIES
-=======
+# Scleroderma pteridis Shear SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia subannulata SPECIES
-=======
+# Buellia subannulata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxine dimorpha Hue SPECIES
-=======
+# Pyxine dimorpha Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isocystis messanensis Borzí ex Bornet & Flahault SPECIES
-=======
+# Isocystis messanensis Borzí ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

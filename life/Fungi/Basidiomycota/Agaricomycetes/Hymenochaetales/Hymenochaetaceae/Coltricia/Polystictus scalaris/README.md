@@ -1,5 +1,4 @@
-Polystictus scalaris Fr. SPECIES
-=======
+# Polystictus scalaris Fr. SPECIES
 
 #### Status
 ACCEPTED

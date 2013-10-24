@@ -1,5 +1,4 @@
-Pertusaria albidella Nyl. SPECIES
-=======
+# Pertusaria albidella Nyl. SPECIES
 
 #### Status
 ACCEPTED

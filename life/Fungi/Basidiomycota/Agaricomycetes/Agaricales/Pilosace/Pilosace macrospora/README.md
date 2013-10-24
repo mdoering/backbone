@@ -1,5 +1,4 @@
-Pilosace macrospora Sacc. SPECIES
-=======
+# Pilosace macrospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

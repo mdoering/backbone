@@ -1,5 +1,4 @@
-Cantharellus candidus Peck SPECIES
-=======
+# Cantharellus candidus Peck SPECIES
 
 #### Status
 ACCEPTED

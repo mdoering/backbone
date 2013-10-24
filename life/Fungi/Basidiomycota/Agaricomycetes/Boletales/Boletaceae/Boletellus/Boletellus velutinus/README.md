@@ -1,5 +1,4 @@
-Boletellus velutinus Heinem. & Rammeloo SPECIES
-=======
+# Boletellus velutinus Heinem. & Rammeloo SPECIES
 
 #### Status
 ACCEPTED

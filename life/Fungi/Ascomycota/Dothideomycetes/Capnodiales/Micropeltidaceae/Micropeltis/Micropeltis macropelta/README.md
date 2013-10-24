@@ -1,5 +1,4 @@
-Micropeltis macropelta Penz. & Sacc. SPECIES
-=======
+# Micropeltis macropelta Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

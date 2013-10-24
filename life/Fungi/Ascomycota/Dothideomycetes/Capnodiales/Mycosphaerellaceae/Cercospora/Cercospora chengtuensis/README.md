@@ -1,5 +1,4 @@
-Cercospora chengtuensis F.L. Tai SPECIES
-=======
+# Cercospora chengtuensis F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

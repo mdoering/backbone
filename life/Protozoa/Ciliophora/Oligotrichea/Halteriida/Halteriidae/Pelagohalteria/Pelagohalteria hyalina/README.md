@@ -1,5 +1,4 @@
-Pelagohalteria hyalina SPECIES
-=======
+# Pelagohalteria hyalina SPECIES
 
 #### Status
 ACCEPTED

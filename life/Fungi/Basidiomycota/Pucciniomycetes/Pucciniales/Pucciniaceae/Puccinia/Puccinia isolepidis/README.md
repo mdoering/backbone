@@ -1,5 +1,4 @@
-Puccinia isolepidis Gjaerum SPECIES
-=======
+# Puccinia isolepidis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

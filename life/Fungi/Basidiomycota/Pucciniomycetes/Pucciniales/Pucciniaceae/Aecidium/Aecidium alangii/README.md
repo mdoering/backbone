@@ -1,5 +1,4 @@
-Aecidium alangii Hirats. f. & Yoshin. SPECIES
-=======
+# Aecidium alangii Hirats. f. & Yoshin. SPECIES
 
 #### Status
 ACCEPTED

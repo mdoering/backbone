@@ -1,14 +1,13 @@
-Lachnella liliputianus (Mont.) Locq. SPECIES
-=======
+# Lachnella liliputiana (Mont.) Locq. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 68: 166 (1952)
 
 #### Original name
 Agaricus liliputianus Mont.

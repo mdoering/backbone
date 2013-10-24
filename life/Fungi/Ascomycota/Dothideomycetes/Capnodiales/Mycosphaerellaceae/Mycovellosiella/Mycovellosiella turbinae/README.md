@@ -1,5 +1,4 @@
-Mycovellosiella turbinae (Chupp) C.E. García & N. Pons SPECIES
-=======
+# Mycovellosiella turbinae (Chupp) C.E. García & N. Pons SPECIES
 
 #### Status
 ACCEPTED

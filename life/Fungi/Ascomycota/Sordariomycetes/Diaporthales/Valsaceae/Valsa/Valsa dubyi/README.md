@@ -1,5 +1,4 @@
-Valsa dubyi Nitschke SPECIES
-=======
+# Valsa dubyi Nitschke SPECIES
 
 #### Status
 ACCEPTED

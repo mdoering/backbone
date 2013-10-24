@@ -1,17 +1,16 @@
-Longoa Curzi GENUS
-=======
+# Togninia Berl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. R. Univ. Pavia, 3 Sér. 3: 204 (1927)
+Icon. fung. (Abellini) 3: 9 (1900)
 
 #### Original name
-Longoa Curzi
+Togninia Berl.
 
 ### Remarks
 null

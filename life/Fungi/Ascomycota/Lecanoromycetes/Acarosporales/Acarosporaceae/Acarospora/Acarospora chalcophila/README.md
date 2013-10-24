@@ -1,5 +1,4 @@
-Acarospora chalcophila H. Magn. SPECIES
-=======
+# Acarospora chalcophila H. Magn. SPECIES
 
 #### Status
 ACCEPTED

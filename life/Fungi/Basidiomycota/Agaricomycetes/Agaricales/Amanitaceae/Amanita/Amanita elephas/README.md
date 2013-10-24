@@ -1,5 +1,4 @@
-Amanita elephas Corner & Bas SPECIES
-=======
+# Amanita elephas Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthothelium tigrense C.W. Dodge SPECIES
-=======
+# Arthothelium tigrense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

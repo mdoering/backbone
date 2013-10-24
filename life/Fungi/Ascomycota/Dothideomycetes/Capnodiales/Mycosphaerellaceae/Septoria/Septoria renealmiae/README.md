@@ -1,5 +1,4 @@
-Septoria renealmiae Tassi SPECIES
-=======
+# Septoria renealmiae Tassi SPECIES
 
 #### Status
 ACCEPTED

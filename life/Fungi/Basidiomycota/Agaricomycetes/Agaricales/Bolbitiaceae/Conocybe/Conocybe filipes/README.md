@@ -1,5 +1,4 @@
-Conocybe filipes (G.F. Atk.) Kühner SPECIES
-=======
+# Conocybe filipes (G.F. Atk.) Kühner SPECIES
 
 #### Status
 ACCEPTED

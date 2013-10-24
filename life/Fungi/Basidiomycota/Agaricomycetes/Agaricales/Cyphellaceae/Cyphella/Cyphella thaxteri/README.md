@@ -1,5 +1,4 @@
-Cyphella thaxteri Burt SPECIES
-=======
+# Cyphella thaxteri Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synnemellisia N.K. Rao, Manohar. & Goos GENUS
-=======
+# Synnemellisia N.K. Rao, Manohar. & Goos GENUS
 
 #### Status
 ACCEPTED

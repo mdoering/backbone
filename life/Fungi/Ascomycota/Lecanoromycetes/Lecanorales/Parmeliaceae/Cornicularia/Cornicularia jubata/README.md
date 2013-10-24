@@ -1,5 +1,4 @@
-Cornicularia jubata (L.) DC. SPECIES
-=======
+# Cornicularia jubata (L.) DC. SPECIES
 
 #### Status
 ACCEPTED

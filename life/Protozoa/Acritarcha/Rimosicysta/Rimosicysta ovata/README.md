@@ -1,5 +1,4 @@
-Rimosicysta ovata Marshall, 1989 SPECIES
-=======
+# Rimosicysta ovata Marshall, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora dasypogon N. Lundq., 1972 SPECIES
-=======
+# Podospora dasypogon N. Lundq., 1972 SPECIES
 
 #### Status
 ACCEPTED

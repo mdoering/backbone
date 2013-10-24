@@ -1,5 +1,4 @@
-Mycena pseudogibba Valla SPECIES
-=======
+# Mycena pseudogibba Valla SPECIES
 
 #### Status
 ACCEPTED

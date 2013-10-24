@@ -1,17 +1,16 @@
-Trematosphaeris Clem. & Shear GENUS
-=======
+# Homostegia Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 27, 247 (1931)
+null
 
 #### Original name
-Trematosphaeris Clem. & Shear
+null
 
 ### Remarks
 null

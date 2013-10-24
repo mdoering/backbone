@@ -1,14 +1,13 @@
-Ganoderma neurosporum J.S. Furtado, 1967 SPECIES
-=======
+# Haddowia neurospora (J.S. Furtado) Teixeira, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 4(4): 386 (1967)
+Revista Brasileira de Botânica 15(2): 126 (1992)
 
 #### Original name
 Ganoderma neurosporum J.S. Furtado, 1967

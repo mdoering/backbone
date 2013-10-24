@@ -1,17 +1,16 @@
-Podoporia sanguinolenta f. sanguinolenta FORM
-=======
+# Rigidoporus sanguinolentus (Alb. & Schwein.) Donk, 1966 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 4(3): 341 (1966)
 
 #### Original name
-null
+Boletus sanguinolentus Alb. & Schwein., 1805
 
 ### Remarks
 null

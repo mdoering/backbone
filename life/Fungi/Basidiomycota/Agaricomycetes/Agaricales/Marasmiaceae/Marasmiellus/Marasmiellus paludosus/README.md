@@ -1,5 +1,4 @@
-Marasmiellus paludosus Redhead SPECIES
-=======
+# Marasmiellus paludosus Redhead SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta carpogena (Shear) Aa SPECIES
-=======
+# Phyllosticta carpogena (Shear) Aa SPECIES
 
 #### Status
 ACCEPTED

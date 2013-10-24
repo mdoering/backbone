@@ -1,5 +1,4 @@
-Glauconema trihymene Thompson, 1966 SPECIES
-=======
+# Glauconema trihymene Thompson, 1966 SPECIES
 
 #### Status
 ACCEPTED

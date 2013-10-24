@@ -1,5 +1,4 @@
-Virgibacillus necropolis Heyrman et al., 2003 SPECIES
-=======
+# Virgibacillus necropolis Heyrman et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

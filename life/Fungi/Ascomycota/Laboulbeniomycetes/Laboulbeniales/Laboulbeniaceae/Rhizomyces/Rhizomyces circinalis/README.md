@@ -1,5 +1,4 @@
-Rhizomyces circinalis Thaxt., 1918 SPECIES
-=======
+# Rhizomyces circinalis Thaxt., 1918 SPECIES
 
 #### Status
 ACCEPTED

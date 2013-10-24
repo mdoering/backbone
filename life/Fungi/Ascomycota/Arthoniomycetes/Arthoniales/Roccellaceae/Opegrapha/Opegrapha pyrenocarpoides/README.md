@@ -1,5 +1,4 @@
-Opegrapha pyrenocarpoides Müll. Arg. SPECIES
-=======
+# Opegrapha pyrenocarpoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

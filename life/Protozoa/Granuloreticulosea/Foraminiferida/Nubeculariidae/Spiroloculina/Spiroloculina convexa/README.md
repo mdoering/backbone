@@ -1,5 +1,4 @@
-Spiroloculina convexa SPECIES
-=======
+# Spiroloculina convexa SPECIES
 
 #### Status
 ACCEPTED

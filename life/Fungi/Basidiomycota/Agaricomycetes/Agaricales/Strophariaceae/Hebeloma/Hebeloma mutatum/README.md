@@ -1,5 +1,4 @@
-Hebeloma mutatum (Peck) Sacc. SPECIES
-=======
+# Hebeloma mutatum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

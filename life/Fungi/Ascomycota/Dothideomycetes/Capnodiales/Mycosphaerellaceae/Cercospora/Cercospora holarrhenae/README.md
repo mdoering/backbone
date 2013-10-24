@@ -1,5 +1,4 @@
-Cercospora holarrhenae Thirum. & Chupp SPECIES
-=======
+# Cercospora holarrhenae Thirum. & Chupp SPECIES
 
 #### Status
 ACCEPTED

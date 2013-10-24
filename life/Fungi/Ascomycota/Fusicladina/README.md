@@ -1,5 +1,4 @@
-Fusicladina G. Arnaud GENUS
-=======
+# Fusicladina G. Arnaud GENUS
 
 #### Status
 ACCEPTED

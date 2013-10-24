@@ -1,5 +1,4 @@
-Leiosphaeridia faveolata Timofeev, 1959 ex Downie & Sarjeant, 1965 SPECIES
-=======
+# Leiosphaeridia faveolata Timofeev, 1959 ex Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

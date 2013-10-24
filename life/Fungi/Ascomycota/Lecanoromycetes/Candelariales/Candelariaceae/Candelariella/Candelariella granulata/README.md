@@ -1,5 +1,4 @@
-Candelariella granulata f. granulata FORM
-=======
+# Candelariella granulata (Schaer.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Candelariella granulata f. granulata
+Parmelia parietina var. granulata Schaer.
 
 ### Remarks
 null

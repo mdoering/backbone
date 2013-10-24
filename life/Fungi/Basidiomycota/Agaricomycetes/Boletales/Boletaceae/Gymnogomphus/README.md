@@ -1,5 +1,4 @@
-Gymnogomphus Fayod GENUS
-=======
+# Gymnogomphus Fayod GENUS
 
 #### Status
 ACCEPTED

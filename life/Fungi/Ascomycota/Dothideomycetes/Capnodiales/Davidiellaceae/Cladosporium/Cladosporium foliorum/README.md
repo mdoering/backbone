@@ -1,5 +1,4 @@
-Cladosporium foliorum Ellis & Everh. ex K. Schub. SPECIES
-=======
+# Cladosporium foliorum Ellis & Everh. ex K. Schub. SPECIES
 
 #### Status
 ACCEPTED

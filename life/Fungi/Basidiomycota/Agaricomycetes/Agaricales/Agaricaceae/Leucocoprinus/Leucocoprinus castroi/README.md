@@ -1,5 +1,4 @@
-Leucocoprinus castroi Blanco-Dios SPECIES
-=======
+# Leucocoprinus castroi Blanco-Dios SPECIES
 
 #### Status
 ACCEPTED

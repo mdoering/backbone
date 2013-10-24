@@ -1,5 +1,4 @@
-Desulfobacterium cetonicum Galushko & Rozanova, 1994 SPECIES
-=======
+# Desulfobacterium cetonicum Galushko & Rozanova, 1994 SPECIES
 
 #### Status
 ACCEPTED

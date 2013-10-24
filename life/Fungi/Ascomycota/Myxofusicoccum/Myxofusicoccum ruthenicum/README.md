@@ -1,5 +1,4 @@
-Myxofusicoccum ruthenicum Petr. SPECIES
-=======
+# Myxofusicoccum ruthenicum Petr. SPECIES
 
 #### Status
 ACCEPTED

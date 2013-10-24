@@ -1,5 +1,4 @@
-Microthyrium platani Richon SPECIES
-=======
+# Microthyrium platani Richon SPECIES
 
 #### Status
 ACCEPTED

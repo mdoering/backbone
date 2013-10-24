@@ -1,5 +1,4 @@
-Diatrype auristoma Doidge SPECIES
-=======
+# Diatrype auristoma Doidge SPECIES
 
 #### Status
 ACCEPTED

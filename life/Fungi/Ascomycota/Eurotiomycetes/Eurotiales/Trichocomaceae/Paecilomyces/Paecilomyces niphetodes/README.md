@@ -1,5 +1,4 @@
-Paecilomyces niphetodes Samson, 1974 SPECIES
-=======
+# Paecilomyces niphetodes Samson, 1974 SPECIES
 
 #### Status
 ACCEPTED

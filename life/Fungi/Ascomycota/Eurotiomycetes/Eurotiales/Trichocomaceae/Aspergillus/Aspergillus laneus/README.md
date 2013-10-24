@@ -1,5 +1,4 @@
-Aspergillus laneus Link SPECIES
-=======
+# Aspergillus laneus Link SPECIES
 
 #### Status
 ACCEPTED

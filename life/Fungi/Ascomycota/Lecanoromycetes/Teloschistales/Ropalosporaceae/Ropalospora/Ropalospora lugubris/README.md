@@ -1,14 +1,13 @@
-Bilimbia lugubris (Sommerf.) Th. Fr. SPECIES
-=======
+# Ropalospora lugubris (Sommerf.) Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hertel, Lecideaceae exsiccatae (München), Fascicle <b>II</b> no. 40 (1980)
 
 #### Original name
 Lecidea lugubris Sommerf.

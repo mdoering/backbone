@@ -1,5 +1,4 @@
-Asteroma angulatum Desm. SPECIES
-=======
+# Asteroma angulatum Desm. SPECIES
 
 #### Status
 ACCEPTED

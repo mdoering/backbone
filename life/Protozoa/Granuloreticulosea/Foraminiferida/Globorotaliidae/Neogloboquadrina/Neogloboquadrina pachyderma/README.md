@@ -1,8 +1,7 @@
-Planulina pachyderma Ehrenberg, 1854 SPECIES
-=======
+# Neogloboquadrina pachyderma (Ehrenberg, 1861) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

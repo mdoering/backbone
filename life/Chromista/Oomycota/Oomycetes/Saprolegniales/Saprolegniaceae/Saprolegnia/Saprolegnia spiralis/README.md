@@ -1,5 +1,4 @@
-Saprolegnia spiralis Cornu SPECIES
-=======
+# Saprolegnia spiralis Cornu SPECIES
 
 #### Status
 ACCEPTED

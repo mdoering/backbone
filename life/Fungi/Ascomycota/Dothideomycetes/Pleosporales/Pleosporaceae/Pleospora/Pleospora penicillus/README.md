@@ -1,17 +1,16 @@
-Pleospora media var. media VARIETY
-=======
+# Pleospora penicillus Fuckel, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. nat. Ver. Brünn 14: 165-218 (1875)
+Jb. nassau. Ver. Naturk. 27-28: 23 (1873)
 
 #### Original name
-Pleospora media var. media
+Pleospora penicillus Fuckel, 1874
 
 ### Remarks
 null

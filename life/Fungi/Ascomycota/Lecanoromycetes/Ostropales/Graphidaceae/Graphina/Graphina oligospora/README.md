@@ -1,5 +1,4 @@
-Graphina oligospora (Müll. Arg.) D.D. Awasthi & Kr.P. Singh SPECIES
-=======
+# Graphina oligospora (Müll. Arg.) D.D. Awasthi & Kr.P. Singh SPECIES
 
 #### Status
 ACCEPTED

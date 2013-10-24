@@ -1,5 +1,4 @@
-Marvinbryantia Wolin et al., 2008 GENUS
-=======
+# Marvinbryantia Wolin et al., 2008 GENUS
 
 #### Status
 ACCEPTED

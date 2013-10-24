@@ -1,5 +1,4 @@
-Amerosporium triste Höhn. SPECIES
-=======
+# Amerosporium triste Höhn. SPECIES
 
 #### Status
 ACCEPTED

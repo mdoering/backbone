@@ -1,5 +1,4 @@
-Puccinia praegracilis var. praegracilis VARIETY
-=======
+# Puccinia praegracilis Arthur SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 37: 273 (1898)
 
 #### Original name
-Puccinia praegracilis var. praegracilis
+Puccinia praegracilis Arthur
 
 ### Remarks
 null

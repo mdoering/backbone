@@ -1,5 +1,4 @@
-Phoma securinegae Syd. SPECIES
-=======
+# Phoma securinegae Syd. SPECIES
 
 #### Status
 ACCEPTED

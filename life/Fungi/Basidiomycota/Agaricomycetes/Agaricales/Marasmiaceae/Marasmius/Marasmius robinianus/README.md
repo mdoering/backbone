@@ -1,5 +1,4 @@
-Marasmius robinianus Gilliam SPECIES
-=======
+# Marasmius robinianus Gilliam SPECIES
 
 #### Status
 ACCEPTED

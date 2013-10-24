@@ -1,5 +1,4 @@
-Melaspilea inarensis (Vain.) Zahlbr. SPECIES
-=======
+# Melaspilea inarensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

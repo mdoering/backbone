@@ -1,5 +1,4 @@
-Meliola kisubiensis var. kisubiensis VARIETY
-=======
+# Meliola kisubiensis Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Proc. Linn. Soc. London 158: 33 (1947)
 
 #### Original name
-Meliola kisubiensis var. kisubiensis
+Meliola kisubiensis Hansf.
 
 ### Remarks
 null

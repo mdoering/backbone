@@ -1,17 +1,16 @@
-Pullularia fermentans var. fermentans VARIETY
-=======
+# Pullularia fermentans E.S. Wynne & Gott SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+J. gen. Microbiol. 14: 516 (1956)
 
 #### Original name
-null
+Pullularia fermentans E.S. Wynne & Gott
 
 ### Remarks
 null

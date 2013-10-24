@@ -1,5 +1,4 @@
-Acanthoderma Sydow & P. Sydow, 1917 GENUS
-=======
+# Acanthoderma Sydow & P. Sydow, 1917 GENUS
 
 #### Status
 ACCEPTED

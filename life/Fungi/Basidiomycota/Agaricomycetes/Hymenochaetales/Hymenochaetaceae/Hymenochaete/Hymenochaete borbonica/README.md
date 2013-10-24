@@ -1,5 +1,4 @@
-Hymenochaete borbonica J.C. Léger & Lanq., 1987 SPECIES
-=======
+# Hymenochaete borbonica J.C. Léger & Lanq., 1987 SPECIES
 
 #### Status
 ACCEPTED

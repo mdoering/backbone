@@ -1,5 +1,4 @@
-Peniophora excurrens Petch SPECIES
-=======
+# Peniophora excurrens Petch SPECIES
 
 #### Status
 ACCEPTED

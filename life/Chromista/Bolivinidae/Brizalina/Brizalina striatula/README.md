@@ -1,5 +1,4 @@
-Brizalina striatula (Cushman, 1922) SPECIES
-=======
+# Brizalina striatula (Cushman, 1922) SPECIES
 
 #### Status
 ACCEPTED

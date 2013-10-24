@@ -1,5 +1,4 @@
-Diplocladiella aquatica O.H.K. Lee, Goh & K.D. Hyde SPECIES
-=======
+# Diplocladiella aquatica O.H.K. Lee, Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

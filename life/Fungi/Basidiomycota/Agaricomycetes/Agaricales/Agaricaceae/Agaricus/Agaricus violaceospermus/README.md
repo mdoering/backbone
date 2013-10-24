@@ -1,5 +1,4 @@
-Agaricus violaceospermus Britzelm. SPECIES
-=======
+# Agaricus violaceospermus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enchelyodon armatus Kahl, 1926 SPECIES
-=======
+# Enchelyodon armatus Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

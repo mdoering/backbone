@@ -1,5 +1,4 @@
-Sphaeria yuccae-gloriosae Curr. SPECIES
-=======
+# Sphaeria yuccae-gloriosae Curr. SPECIES
 
 #### Status
 ACCEPTED

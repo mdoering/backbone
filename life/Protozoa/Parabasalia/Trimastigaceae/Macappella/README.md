@@ -1,5 +1,4 @@
-Macappella Patterson & Zölffel, 1991 GENUS
-=======
+# Macappella Patterson & Zölffel, 1991 GENUS
 
 #### Status
 ACCEPTED

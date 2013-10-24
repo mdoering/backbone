@@ -1,5 +1,4 @@
-Collema euthallinum (Zahlbr.) Degel. SPECIES
-=======
+# Collema euthallinum (Zahlbr.) Degel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monintranstylum GENUS
-=======
+# Monintranstylum GENUS
 
 #### Status
 ACCEPTED

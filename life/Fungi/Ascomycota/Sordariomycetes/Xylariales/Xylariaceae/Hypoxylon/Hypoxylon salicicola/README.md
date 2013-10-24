@@ -1,5 +1,4 @@
-Hypoxylon salicicola Granmo, 1999 SPECIES
-=======
+# Hypoxylon salicicola Granmo, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina chiguarensis V. Marcano & A. Morales SPECIES
-=======
+# Ramalina chiguarensis V. Marcano & A. Morales SPECIES
 
 #### Status
 ACCEPTED

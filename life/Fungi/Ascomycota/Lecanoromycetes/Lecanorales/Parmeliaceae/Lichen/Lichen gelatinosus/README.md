@@ -1,5 +1,4 @@
-Lichen gelatinosus Oeder SPECIES
-=======
+# Lichen gelatinosus Oeder SPECIES
 
 #### Status
 ACCEPTED

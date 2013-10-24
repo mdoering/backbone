@@ -1,5 +1,4 @@
-Russula suberetorum var. suberetorum VARIETY
-=======
+# Russula suberetorum Dagron SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. trimest. Soc. mycol. Fr. 108(1): 19 (1992)
 
 #### Original name
-Russula suberetorum var. suberetorum
+Russula suberetorum Dagron
 
 ### Remarks
 null

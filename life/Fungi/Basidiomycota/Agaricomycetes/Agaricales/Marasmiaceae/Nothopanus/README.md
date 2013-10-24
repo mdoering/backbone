@@ -1,5 +1,4 @@
-Nothopanus Singer GENUS
-=======
+# Nothopanus Singer GENUS
 
 #### Status
 ACCEPTED

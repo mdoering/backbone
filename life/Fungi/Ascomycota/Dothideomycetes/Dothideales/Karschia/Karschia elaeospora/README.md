@@ -1,5 +1,4 @@
-Karschia elaeospora Fairm. SPECIES
-=======
+# Karschia elaeospora Fairm. SPECIES
 
 #### Status
 ACCEPTED

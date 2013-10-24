@@ -1,14 +1,13 @@
-Phaeostoma sphaerophilum (Peck) M.E. Barr, 1962 SPECIES
-=======
+# Scopinella sphaerophila (Peck) Malloch, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bigelow & Barr, Rhodora 64: 134 (1962)
+Fungi Canadenses, Ottawa no. 83 (1976)
 
 #### Original name
 Periconia sphaerophila Peck, 1883

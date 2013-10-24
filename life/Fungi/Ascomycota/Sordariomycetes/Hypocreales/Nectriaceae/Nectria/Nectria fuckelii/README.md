@@ -1,5 +1,4 @@
-Nectria fuckelii Sacc. SPECIES
-=======
+# Nectria fuckelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

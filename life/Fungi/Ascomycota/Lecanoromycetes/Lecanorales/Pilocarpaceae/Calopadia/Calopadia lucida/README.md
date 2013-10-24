@@ -1,5 +1,4 @@
-Calopadia lucida Lücking & R. Sant. SPECIES
-=======
+# Calopadia lucida Lücking & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

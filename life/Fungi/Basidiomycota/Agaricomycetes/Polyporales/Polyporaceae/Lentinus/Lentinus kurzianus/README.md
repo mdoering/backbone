@@ -1,5 +1,4 @@
-Lentinus kurzianus Berk. & Curr. SPECIES
-=======
+# Lentinus kurzianus Berk. & Curr. SPECIES
 
 #### Status
 ACCEPTED

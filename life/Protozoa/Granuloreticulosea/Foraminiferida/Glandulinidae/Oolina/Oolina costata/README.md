@@ -1,5 +1,4 @@
-Oolina costata SPECIES
-=======
+# Oolina costata SPECIES
 
 #### Status
 ACCEPTED

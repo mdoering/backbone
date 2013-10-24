@@ -1,5 +1,4 @@
-Nitratifractor Nakagawa et al., 2005 GENUS
-=======
+# Nitratifractor Nakagawa et al., 2005 GENUS
 
 #### Status
 ACCEPTED

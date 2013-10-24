@@ -1,5 +1,4 @@
-Psilocybe cokeriana A.H. Sm. & Hesler SPECIES
-=======
+# Psilocybe cokeriana A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drechslera andersenii A. Lam, 1986 SPECIES
-=======
+# Drechslera andersenii A. Lam, 1986 SPECIES
 
 #### Status
 ACCEPTED

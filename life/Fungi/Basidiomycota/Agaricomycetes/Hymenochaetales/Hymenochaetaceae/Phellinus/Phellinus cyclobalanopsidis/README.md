@@ -1,5 +1,4 @@
-Phellinus cyclobalanopsidis T.T. Chang & W.N. Chou, 2000 SPECIES
-=======
+# Phellinus cyclobalanopsidis T.T. Chang & W.N. Chou, 2000 SPECIES
 
 #### Status
 ACCEPTED

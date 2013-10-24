@@ -1,5 +1,4 @@
-Tetraplosphaeria tetraploa (Scheuer) Kaz. Tanaka & K. Hirayama, 2009 SPECIES
-=======
+# Tetraplosphaeria tetraploa (Scheuer) Kaz. Tanaka & K. Hirayama, 2009 SPECIES
 
 #### Status
 ACCEPTED

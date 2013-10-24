@@ -1,5 +1,4 @@
-Phycocastanum Kützing, 1843 GENUS
-=======
+# Phycocastanum Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

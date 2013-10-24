@@ -1,5 +1,4 @@
-Recifea GENUS
-=======
+# Recifea GENUS
 
 #### Status
 ACCEPTED

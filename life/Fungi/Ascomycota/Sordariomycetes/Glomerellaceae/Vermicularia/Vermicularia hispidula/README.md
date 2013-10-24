@@ -1,5 +1,4 @@
-Vermicularia hispidula Tode SPECIES
-=======
+# Vermicularia hispidula Tode SPECIES
 
 #### Status
 ACCEPTED

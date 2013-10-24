@@ -1,5 +1,4 @@
-Puccinia aulacospermi Gamalizk. SPECIES
-=======
+# Puccinia aulacospermi Gamalizk. SPECIES
 
 #### Status
 ACCEPTED

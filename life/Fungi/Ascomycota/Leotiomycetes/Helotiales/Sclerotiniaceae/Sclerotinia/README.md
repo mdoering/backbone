@@ -1,17 +1,16 @@
-Whetzelinia Korf & Dumont GENUS
-=======
+# Sclerotinia Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycologia 64(2): 250 (1972)
+null
 
 #### Original name
-Whetzelinia Korf & Dumont
+null
 
 ### Remarks
 null

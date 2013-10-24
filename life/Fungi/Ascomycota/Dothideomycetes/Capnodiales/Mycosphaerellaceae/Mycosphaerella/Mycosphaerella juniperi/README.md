@@ -1,14 +1,13 @@
-Sphaerella juniperi Fautrey, 1891 SPECIES
-=======
+# Mycosphaerella juniperi (Fautrey & Roum.) Tomilin, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 172 (1966)
 
 #### Original name
 Sphaerella juniperi Fautrey, 1891

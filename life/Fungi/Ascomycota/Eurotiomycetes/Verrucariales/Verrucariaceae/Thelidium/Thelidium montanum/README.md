@@ -1,5 +1,4 @@
-Thelidium montanum (Hepp) Körb. SPECIES
-=======
+# Thelidium montanum (Hepp) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phellinus vaninii Ljub. SPECIES
-=======
+# Phellinus vaninii Ljub. SPECIES
 
 #### Status
 ACCEPTED

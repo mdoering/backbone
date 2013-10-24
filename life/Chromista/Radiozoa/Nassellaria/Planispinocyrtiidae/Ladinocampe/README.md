@@ -1,5 +1,4 @@
-Ladinocampe Kozur, 1986 GENUS
-=======
+# Ladinocampe Kozur, 1986 GENUS
 
 #### Status
 ACCEPTED

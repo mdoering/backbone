@@ -1,5 +1,4 @@
-Mesodinium von Stein GENUS
-=======
+# Mesodinium von Stein GENUS
 
 #### Status
 ACCEPTED

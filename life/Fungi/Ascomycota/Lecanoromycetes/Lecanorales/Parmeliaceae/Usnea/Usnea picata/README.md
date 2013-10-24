@@ -1,5 +1,4 @@
-Usnea picata (I.M. Lamb) C.W. Dodge SPECIES
-=======
+# Usnea picata (I.M. Lamb) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

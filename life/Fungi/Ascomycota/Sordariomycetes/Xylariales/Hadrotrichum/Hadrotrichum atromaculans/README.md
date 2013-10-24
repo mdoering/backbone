@@ -1,5 +1,4 @@
-Hadrotrichum atromaculans Sacc. SPECIES
-=======
+# Hadrotrichum atromaculans Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalecta skottsbergii Vezda SPECIES
-=======
+# Gyalecta skottsbergii Vezda SPECIES
 
 #### Status
 ACCEPTED

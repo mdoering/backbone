@@ -1,5 +1,4 @@
-Megalodochium elaeidis (Beeli) Deighton SPECIES
-=======
+# Megalodochium elaeidis (Beeli) Deighton SPECIES
 
 #### Status
 ACCEPTED

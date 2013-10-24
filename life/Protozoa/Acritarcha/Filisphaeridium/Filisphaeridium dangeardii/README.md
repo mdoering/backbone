@@ -1,5 +1,4 @@
-Filisphaeridium dangeardii (Stockmans & Willière, 1974) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium dangeardii (Stockmans & Willière, 1974) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

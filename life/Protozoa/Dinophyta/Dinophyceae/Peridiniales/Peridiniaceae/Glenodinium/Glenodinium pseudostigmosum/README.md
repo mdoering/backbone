@@ -1,5 +1,4 @@
-Glenodinium pseudostigmosum Skuja SPECIES
-=======
+# Glenodinium pseudostigmosum Skuja SPECIES
 
 #### Status
 ACCEPTED

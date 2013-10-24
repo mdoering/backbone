@@ -1,5 +1,4 @@
-Cortinarius vernalis Rob. Henry SPECIES
-=======
+# Cortinarius vernalis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

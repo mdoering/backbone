@@ -1,5 +1,4 @@
-Ascophora ovalis Tode SPECIES
-=======
+# Ascophora ovalis Tode SPECIES
 
 #### Status
 ACCEPTED

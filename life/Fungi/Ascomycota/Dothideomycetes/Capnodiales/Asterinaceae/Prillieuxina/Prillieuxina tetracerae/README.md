@@ -1,5 +1,4 @@
-Prillieuxina tetracerae (Hansf.) Arx SPECIES
-=======
+# Prillieuxina tetracerae (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterodon albus Rick SPECIES
-=======
+# Asterodon albus Rick SPECIES
 
 #### Status
 ACCEPTED

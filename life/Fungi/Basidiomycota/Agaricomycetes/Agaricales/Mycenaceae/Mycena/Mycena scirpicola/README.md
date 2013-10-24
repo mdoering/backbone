@@ -1,5 +1,4 @@
-Mycena scirpicola M. Villarreal, Heykoop, Esteve-Rav. & Maas Geest. SPECIES
-=======
+# Mycena scirpicola M. Villarreal, Heykoop, Esteve-Rav. & Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

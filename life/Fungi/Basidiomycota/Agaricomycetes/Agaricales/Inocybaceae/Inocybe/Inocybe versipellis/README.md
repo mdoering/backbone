@@ -1,5 +1,4 @@
-Inocybe versipellis (Fr.) P. Karst. SPECIES
-=======
+# Inocybe versipellis (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

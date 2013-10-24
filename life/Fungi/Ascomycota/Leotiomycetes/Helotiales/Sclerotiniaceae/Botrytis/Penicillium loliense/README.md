@@ -1,5 +1,4 @@
-Penicillium loliense Pitt, 1980 SPECIES
-=======
+# Penicillium loliense Pitt, 1980 SPECIES
 
 #### Status
 DOUBTFUL

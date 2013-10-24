@@ -1,5 +1,4 @@
-Dermatocarpon microphyllinum Zahlbr. SPECIES
-=======
+# Dermatocarpon microphyllinum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balantidium dogieli SPECIES
-=======
+# Balantidium dogieli SPECIES
 
 #### Status
 ACCEPTED

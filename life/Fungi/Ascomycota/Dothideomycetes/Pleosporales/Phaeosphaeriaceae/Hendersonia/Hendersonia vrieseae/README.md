@@ -1,5 +1,4 @@
-Hendersonia vrieseae Siemaszko SPECIES
-=======
+# Hendersonia vrieseae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

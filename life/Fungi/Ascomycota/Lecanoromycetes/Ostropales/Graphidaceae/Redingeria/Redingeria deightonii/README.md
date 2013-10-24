@@ -1,14 +1,13 @@
-Phaeotrema deightonii C.W. Dodge SPECIES
-=======
+# Redingeria deightonii (Dodge) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia, Beih. 12: 98 (1964)
+in Frisch & Kalb, Biblthca Lichenol. 92: 407 (2006)
 
 #### Original name
 Phaeotrema deightonii C.W. Dodge

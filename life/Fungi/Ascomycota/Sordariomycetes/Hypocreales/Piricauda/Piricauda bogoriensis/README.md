@@ -1,5 +1,4 @@
-Piricauda bogoriensis (Penz. & Sacc.) R.T. Moore SPECIES
-=======
+# Piricauda bogoriensis (Penz. & Sacc.) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

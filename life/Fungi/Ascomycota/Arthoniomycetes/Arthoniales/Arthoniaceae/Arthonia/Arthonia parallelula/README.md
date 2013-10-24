@@ -1,5 +1,4 @@
-Arthonia parallelula (Norman) Willey SPECIES
-=======
+# Arthonia parallelula (Norman) Willey SPECIES
 
 #### Status
 ACCEPTED

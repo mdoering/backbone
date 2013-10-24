@@ -1,5 +1,4 @@
-Endomyces angularis Matsush. SPECIES
-=======
+# Endomyces angularis Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterangium nephriticum Berk., 1844 SPECIES
-=======
+# Hysterangium nephriticum Berk., 1844 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma plumbeum Earle SPECIES
-=======
+# Entoloma plumbeum Earle SPECIES
 
 #### Status
 ACCEPTED

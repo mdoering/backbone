@@ -1,5 +1,4 @@
-Calycellina thindii Arendh. & R. Sharma SPECIES
-=======
+# Calycellina thindii Arendh. & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

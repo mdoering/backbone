@@ -1,5 +1,4 @@
-Helotium borisi Velen. SPECIES
-=======
+# Helotium borisi Velen. SPECIES
 
 #### Status
 ACCEPTED

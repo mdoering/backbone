@@ -1,5 +1,4 @@
-Paranophryidae FAMILY
-=======
+# Paranophryidae FAMILY
 
 #### Status
 ACCEPTED

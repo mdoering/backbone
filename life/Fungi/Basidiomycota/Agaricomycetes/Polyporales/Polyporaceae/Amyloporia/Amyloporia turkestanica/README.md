@@ -1,5 +1,4 @@
-Amyloporia turkestanica (Pilát) Bondartsev SPECIES
-=======
+# Amyloporia turkestanica (Pilát) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

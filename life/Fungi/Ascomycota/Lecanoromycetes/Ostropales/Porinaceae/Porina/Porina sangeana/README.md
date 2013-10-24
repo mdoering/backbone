@@ -1,5 +1,4 @@
-Porina sangeana Vain. SPECIES
-=======
+# Porina sangeana Vain. SPECIES
 
 #### Status
 ACCEPTED

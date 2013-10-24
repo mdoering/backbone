@@ -1,5 +1,4 @@
-Limnobacter thiooxidans Spring et al., 2001 SPECIES
-=======
+# Limnobacter thiooxidans Spring et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

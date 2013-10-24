@@ -1,5 +1,4 @@
-Corallomyces novopommeranus Henn. SPECIES
-=======
+# Corallomyces novopommeranus Henn. SPECIES
 
 #### Status
 ACCEPTED

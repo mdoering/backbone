@@ -1,17 +1,16 @@
-Heteroceras Sacc. GENUS
-=======
+# Neoheteroceras Nag Raj GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(2): 136 (1915)
+Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 539 (1993)
 
 #### Original name
-Heteroceras Sacc.
+Neoheteroceras Nag Raj
 
 ### Remarks
 null

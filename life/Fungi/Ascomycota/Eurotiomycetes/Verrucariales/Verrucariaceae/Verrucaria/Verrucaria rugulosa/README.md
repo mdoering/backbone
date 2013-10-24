@@ -1,5 +1,4 @@
-Verrucaria rugulosa (Schaer.) Arnold SPECIES
-=======
+# Verrucaria rugulosa (Schaer.) Arnold SPECIES
 
 #### Status
 ACCEPTED

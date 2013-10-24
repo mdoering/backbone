@@ -1,5 +1,4 @@
-Pycnochila Jung, 1942 GENUS
-=======
+# Pycnochila Jung, 1942 GENUS
 
 #### Status
 ACCEPTED

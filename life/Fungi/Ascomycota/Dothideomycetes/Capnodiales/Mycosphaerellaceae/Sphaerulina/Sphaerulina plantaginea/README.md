@@ -1,5 +1,4 @@
-Sphaerulina plantaginea Rehm SPECIES
-=======
+# Sphaerulina plantaginea Rehm SPECIES
 
 #### Status
 ACCEPTED

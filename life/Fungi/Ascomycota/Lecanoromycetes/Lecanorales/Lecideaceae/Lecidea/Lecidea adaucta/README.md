@@ -1,5 +1,4 @@
-Lecidea adaucta (Harm.) Zahlbr. SPECIES
-=======
+# Lecidea adaucta (Harm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

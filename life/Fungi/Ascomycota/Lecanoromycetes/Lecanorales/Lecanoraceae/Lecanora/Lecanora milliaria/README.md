@@ -1,5 +1,4 @@
-Lecanora milliaria SPECIES
-=======
+# Lecanora milliaria SPECIES
 
 #### Status
 ACCEPTED

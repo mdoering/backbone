@@ -1,5 +1,4 @@
-Pleosphaeria Henssen, 1964 GENUS
-=======
+# Pleosphaeria Henssen, 1964 GENUS
 
 #### Status
 ACCEPTED

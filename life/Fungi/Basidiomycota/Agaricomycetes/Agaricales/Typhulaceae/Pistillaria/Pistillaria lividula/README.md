@@ -1,5 +1,4 @@
-Pistillaria lividula (Rolland) Corner SPECIES
-=======
+# Pistillaria lividula (Rolland) Corner SPECIES
 
 #### Status
 ACCEPTED

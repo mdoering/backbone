@@ -1,5 +1,4 @@
-Sphaeria platypus Schwein. SPECIES
-=======
+# Sphaeria platypus Schwein. SPECIES
 
 #### Status
 ACCEPTED

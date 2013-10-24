@@ -1,5 +1,4 @@
-Diaporthe neapolitana Sacc. SPECIES
-=======
+# Diaporthe neapolitana Sacc. SPECIES
 
 #### Status
 ACCEPTED

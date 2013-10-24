@@ -1,5 +1,4 @@
-Spinatipolus Dodekova, 1983 GENUS
-=======
+# Spinatipolus Dodekova, 1983 GENUS
 
 #### Status
 ACCEPTED

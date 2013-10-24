@@ -1,5 +1,4 @@
-Plenotrichaius hiloensis Bat. & J.L. Bezerra SPECIES
-=======
+# Plenotrichaius hiloensis Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

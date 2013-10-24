@@ -1,5 +1,4 @@
-Cornicularia steppae Savicz SPECIES
-=======
+# Cornicularia steppae Savicz SPECIES
 
 #### Status
 ACCEPTED

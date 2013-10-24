@@ -1,5 +1,4 @@
-Smittium insulare Strongman, 2007 SPECIES
-=======
+# Smittium insulare Strongman, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anixia bresadolae Höhn. SPECIES
-=======
+# Anixia bresadolae Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis vasculum Meunier, 1919 SPECIES
-=======
+# Tintinnopsis vasculum Meunier, 1919 SPECIES
 
 #### Status
 ACCEPTED

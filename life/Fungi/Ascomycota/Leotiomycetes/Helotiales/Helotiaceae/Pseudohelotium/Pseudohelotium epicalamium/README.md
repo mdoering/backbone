@@ -1,5 +1,4 @@
-Pseudohelotium epicalamium var. epicalamium VARIETY
-=======
+# Pseudohelotium epicalamium (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pseudohelotium epicalamium var. epicalamium
+Peziza epicalamia Fuckel
 
 ### Remarks
 null

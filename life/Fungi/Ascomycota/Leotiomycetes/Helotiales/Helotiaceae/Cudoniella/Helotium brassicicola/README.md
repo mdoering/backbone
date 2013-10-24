@@ -1,14 +1,13 @@
-Helotium brassicaecola (Schwein.) Sacc. SPECIES
-=======
+# Helotium brassicicola (Schwein.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 226 (1889)
 
 #### Original name
 Sarea brassicicola Schwein.

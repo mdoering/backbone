@@ -1,5 +1,4 @@
-Pseudodictyomitrella Grill & Kozur, 1986 GENUS
-=======
+# Pseudodictyomitrella Grill & Kozur, 1986 GENUS
 
 #### Status
 ACCEPTED

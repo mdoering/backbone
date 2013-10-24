@@ -1,5 +1,4 @@
-Cercospora cryptomeriae Shirai SPECIES
-=======
+# Cercospora cryptomeriae Shirai SPECIES
 
 #### Status
 ACCEPTED

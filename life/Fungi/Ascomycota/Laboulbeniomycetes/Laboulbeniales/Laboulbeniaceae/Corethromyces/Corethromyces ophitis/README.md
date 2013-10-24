@@ -1,5 +1,4 @@
-Corethromyces ophitis Thaxt. SPECIES
-=======
+# Corethromyces ophitis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oreoctoma Yankovskij, 1980 GENUS
-=======
+# Oreoctoma Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

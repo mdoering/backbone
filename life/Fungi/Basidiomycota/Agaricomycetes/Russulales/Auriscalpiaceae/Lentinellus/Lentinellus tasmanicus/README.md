@@ -1,17 +1,16 @@
-Lentinellus tasmanica R.H. Petersen SPECIES
-=======
+# Lentinellus tasmanicus R.H. Petersen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Petersen & Hughes, Biblthca Mycol. 198: 128 (2004)
 
 #### Original name
-Lentinellus tasmanica R.H. Petersen
+Lentinellus tasmanicus R.H. Petersen
 
 ### Remarks
 null

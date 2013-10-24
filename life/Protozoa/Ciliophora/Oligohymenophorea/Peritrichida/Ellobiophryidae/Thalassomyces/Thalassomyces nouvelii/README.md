@@ -1,5 +1,4 @@
-Thalassomyces nouvelii (Hoenigman {?} ) W.D. Kane SPECIES
-=======
+# Thalassomyces nouvelii (Hoenigman {?} ) W.D. Kane SPECIES
 
 #### Status
 ACCEPTED

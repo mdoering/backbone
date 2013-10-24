@@ -1,5 +1,4 @@
-Diexallophasis downtongorgensis Mullins, 2004 SPECIES
-=======
+# Diexallophasis downtongorgensis Mullins, 2004 SPECIES
 
 #### Status
 ACCEPTED

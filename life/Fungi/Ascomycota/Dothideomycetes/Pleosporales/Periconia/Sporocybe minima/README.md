@@ -1,5 +1,4 @@
-Sporocybe minima Cooke SPECIES
-=======
+# Sporocybe minima Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lenzites glabrescens (Berk.) G. Cunn. SPECIES
-=======
+# Lenzites glabrescens (Berk.) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Placodiplodia copelandi Bubák SPECIES
-=======
+# Placodiplodia copelandii Bubák, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. dt. bot. Ges. 35: 305 (1916)
 
 #### Original name
-Placodiplodia copelandi Bubák
+Placodiplodia copelandii Bubák, 1916
 
 ### Remarks
 null

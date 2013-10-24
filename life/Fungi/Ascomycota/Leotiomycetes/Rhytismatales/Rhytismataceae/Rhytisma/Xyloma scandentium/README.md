@@ -1,5 +1,4 @@
-Xyloma scandentium Schwein. SPECIES
-=======
+# Xyloma scandentium Schwein. SPECIES
 
 #### Status
 ACCEPTED

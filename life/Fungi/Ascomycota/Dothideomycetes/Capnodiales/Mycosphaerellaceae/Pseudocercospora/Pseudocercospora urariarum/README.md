@@ -1,5 +1,4 @@
-Pseudocercospora urariarum (A.K. Kar & M. Mandal) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora urariarum (A.K. Kar & M. Mandal) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

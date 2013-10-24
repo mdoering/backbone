@@ -1,5 +1,4 @@
-Hyaloraphidium curvatum Korshikov, 1931 SPECIES
-=======
+# Hyaloraphidium curvatum Korshikov, 1931 SPECIES
 
 #### Status
 ACCEPTED

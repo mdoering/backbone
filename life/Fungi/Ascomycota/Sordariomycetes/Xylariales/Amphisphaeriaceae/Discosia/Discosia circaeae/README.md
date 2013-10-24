@@ -1,5 +1,4 @@
-Discosia circaeae Lobik SPECIES
-=======
+# Discosia circaeae Lobik SPECIES
 
 #### Status
 ACCEPTED

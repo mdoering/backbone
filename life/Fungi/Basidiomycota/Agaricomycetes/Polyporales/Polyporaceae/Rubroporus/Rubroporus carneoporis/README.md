@@ -1,5 +1,4 @@
-Rubroporus carneoporis Log.-Leite, Ryvarden & Groposo, 2002 SPECIES
-=======
+# Rubroporus carneoporis Log.-Leite, Ryvarden & Groposo, 2002 SPECIES
 
 #### Status
 ACCEPTED

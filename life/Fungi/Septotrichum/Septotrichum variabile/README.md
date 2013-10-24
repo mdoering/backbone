@@ -1,5 +1,4 @@
-Septotrichum variabile Corda SPECIES
-=======
+# Septotrichum variabile Corda SPECIES
 
 #### Status
 ACCEPTED

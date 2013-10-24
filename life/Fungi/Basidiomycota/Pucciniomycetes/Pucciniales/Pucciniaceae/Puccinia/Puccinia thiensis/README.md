@@ -1,5 +1,4 @@
-Puccinia thiensis B. Huguenin SPECIES
-=======
+# Puccinia thiensis B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

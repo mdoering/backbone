@@ -1,5 +1,4 @@
-Halomonas elongata Vreeland et al., 1980 SPECIES
-=======
+# Halomonas elongata Vreeland et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

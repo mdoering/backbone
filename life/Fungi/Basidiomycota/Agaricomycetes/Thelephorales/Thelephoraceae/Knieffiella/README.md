@@ -1,5 +1,4 @@
-Knieffiella GENUS
-=======
+# Knieffiella GENUS
 
 #### Status
 ACCEPTED

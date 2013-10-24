@@ -1,5 +1,4 @@
-Heptameria foliicola (Sacc.) Höhn. SPECIES
-=======
+# Heptameria foliicola (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

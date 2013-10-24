@@ -1,5 +1,4 @@
-Hypogymnia canadensis Goward & McCune SPECIES
-=======
+# Hypogymnia canadensis Goward & McCune SPECIES
 
 #### Status
 ACCEPTED

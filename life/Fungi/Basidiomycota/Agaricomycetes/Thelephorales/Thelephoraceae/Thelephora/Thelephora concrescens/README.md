@@ -1,5 +1,4 @@
-Thelephora concrescens Fr. SPECIES
-=======
+# Thelephora concrescens Fr. SPECIES
 
 #### Status
 ACCEPTED

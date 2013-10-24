@@ -1,5 +1,4 @@
-Haplodothis araucariae (Rehm) Höhn. SPECIES
-=======
+# Haplodothis araucariae (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

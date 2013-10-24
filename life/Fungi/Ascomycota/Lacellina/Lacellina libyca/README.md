@@ -1,5 +1,4 @@
-Lacellina libyca Sacc. & Trotter, 1913 SPECIES
-=======
+# Lacellina libyca Sacc. & Trotter, 1913 SPECIES
 
 #### Status
 ACCEPTED

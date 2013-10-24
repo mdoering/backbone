@@ -1,5 +1,4 @@
-Cylindrocladium sclerotiorum Peerally SPECIES
-=======
+# Cylindrocladium sclerotiorum Peerally SPECIES
 
 #### Status
 ACCEPTED

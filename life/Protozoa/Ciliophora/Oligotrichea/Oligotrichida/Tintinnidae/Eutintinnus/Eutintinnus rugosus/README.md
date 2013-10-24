@@ -1,5 +1,4 @@
-Eutintinnus rugosus Kofoid & Campbell, 1939 SPECIES
-=======
+# Eutintinnus rugosus Kofoid & Campbell, 1939 SPECIES
 
 #### Status
 ACCEPTED

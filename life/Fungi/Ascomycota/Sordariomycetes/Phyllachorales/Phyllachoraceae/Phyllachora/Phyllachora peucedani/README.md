@@ -1,5 +1,4 @@
-Phyllachora peucedani Ellis & Everh., 1953 SPECIES
-=======
+# Phyllachora peucedani Ellis & Everh., 1953 SPECIES
 
 #### Status
 ACCEPTED

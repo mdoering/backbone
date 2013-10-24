@@ -1,5 +1,4 @@
-Phyllosticta mahoniana (Sacc.) Allesch. SPECIES
-=======
+# Phyllosticta mahoniana (Sacc.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

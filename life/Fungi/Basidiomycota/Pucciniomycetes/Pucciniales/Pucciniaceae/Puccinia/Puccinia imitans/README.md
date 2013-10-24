@@ -1,5 +1,4 @@
-Puccinia imitans P. Syd. & Syd. SPECIES
-=======
+# Puccinia imitans P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

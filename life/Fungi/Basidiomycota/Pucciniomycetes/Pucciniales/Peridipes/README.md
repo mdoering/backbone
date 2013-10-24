@@ -1,5 +1,4 @@
-Peridipes GENUS
-=======
+# Peridipes GENUS
 
 #### Status
 ACCEPTED

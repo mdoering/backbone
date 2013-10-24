@@ -1,5 +1,4 @@
-Lepiota inconspicua S. Ito & S. Imai SPECIES
-=======
+# Lepiota inconspicua S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

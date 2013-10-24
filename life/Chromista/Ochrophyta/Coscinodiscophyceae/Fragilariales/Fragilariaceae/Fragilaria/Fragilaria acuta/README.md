@@ -1,5 +1,4 @@
-Fragilaria acuta Ehrenberg SPECIES
-=======
+# Fragilaria acuta Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nucleospora salmonis R.P. Hedrick, J.M. Groff & D.V. Baxa SPECIES
-=======
+# Nucleospora salmonis R.P. Hedrick, J.M. Groff & D.V. Baxa SPECIES
 
 #### Status
 ACCEPTED

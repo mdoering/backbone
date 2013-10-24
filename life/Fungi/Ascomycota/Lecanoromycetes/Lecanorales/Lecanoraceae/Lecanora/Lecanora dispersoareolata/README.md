@@ -1,5 +1,4 @@
-Lecanora dispersoareolata (Schaer.) Lamy SPECIES
-=======
+# Lecanora dispersoareolata (Schaer.) Lamy SPECIES
 
 #### Status
 ACCEPTED

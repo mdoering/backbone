@@ -1,5 +1,4 @@
-Acarospora brasiliensis Zahlbr. SPECIES
-=======
+# Acarospora brasiliensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

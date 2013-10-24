@@ -1,5 +1,4 @@
-Neurospora sitophila Shear & B.O. Dodge, 1927 SPECIES
-=======
+# Neurospora sitophila Shear & B.O. Dodge, 1927 SPECIES
 
 #### Status
 ACCEPTED

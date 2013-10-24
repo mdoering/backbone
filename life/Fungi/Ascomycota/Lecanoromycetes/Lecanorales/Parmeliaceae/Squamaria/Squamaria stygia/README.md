@@ -1,5 +1,4 @@
-Squamaria stygia (L.) Hoffm. SPECIES
-=======
+# Squamaria stygia (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

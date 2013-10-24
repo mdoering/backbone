@@ -1,5 +1,4 @@
-Acremonium salmoneum W. Gams & Lodha, 1975 SPECIES
-=======
+# Acremonium salmoneum W. Gams & Lodha, 1975 SPECIES
 
 #### Status
 ACCEPTED

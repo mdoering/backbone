@@ -1,5 +1,4 @@
-Torula chrysosperma Corda SPECIES
-=======
+# Torula chrysosperma Corda SPECIES
 
 #### Status
 ACCEPTED

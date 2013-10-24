@@ -1,5 +1,4 @@
-Eutypa uberrima Tul. SPECIES
-=======
+# Eutypa uberrima Tul. SPECIES
 
 #### Status
 ACCEPTED

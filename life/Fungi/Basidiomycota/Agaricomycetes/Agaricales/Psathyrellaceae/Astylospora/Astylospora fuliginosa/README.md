@@ -1,5 +1,4 @@
-Astylospora fuliginosa Murrill SPECIES
-=======
+# Astylospora fuliginosa Murrill SPECIES
 
 #### Status
 ACCEPTED

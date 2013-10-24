@@ -1,5 +1,4 @@
-Euryachora arjonae Speg. SPECIES
-=======
+# Euryachora arjonae Speg. SPECIES
 
 #### Status
 ACCEPTED

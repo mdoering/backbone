@@ -1,5 +1,4 @@
-Mycena vestita Velen. SPECIES
-=======
+# Mycena vestita Velen. SPECIES
 
 #### Status
 ACCEPTED

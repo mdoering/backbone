@@ -1,5 +1,4 @@
-Oxytricha fromenteli Foissner, 1987 SPECIES
-=======
+# Oxytricha fromenteli Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

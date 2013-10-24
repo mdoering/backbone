@@ -1,5 +1,4 @@
-Anoplophrya longinuclea Georgevitch, 1941 SPECIES
-=======
+# Anoplophrya longinuclea Georgevitch, 1941 SPECIES
 
 #### Status
 ACCEPTED

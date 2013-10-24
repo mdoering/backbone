@@ -1,5 +1,4 @@
-Anthophysis vegetans (Mull.) SPECIES
-=======
+# Anthophysis vegetans (Mull.) SPECIES
 
 #### Status
 ACCEPTED

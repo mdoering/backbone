@@ -1,5 +1,4 @@
-Usnea dodgeana Räsänen SPECIES
-=======
+# Usnea dodgeana Räsänen SPECIES
 
 #### Status
 ACCEPTED

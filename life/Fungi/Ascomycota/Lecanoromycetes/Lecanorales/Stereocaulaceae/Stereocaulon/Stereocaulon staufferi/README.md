@@ -1,5 +1,4 @@
-Stereocaulon staufferi I.M. Lamb SPECIES
-=======
+# Stereocaulon staufferi I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

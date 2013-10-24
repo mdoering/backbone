@@ -1,5 +1,4 @@
-Penicillium aspergilloides Rudakov SPECIES
-=======
+# Penicillium aspergilloides Rudakov SPECIES
 
 #### Status
 ACCEPTED

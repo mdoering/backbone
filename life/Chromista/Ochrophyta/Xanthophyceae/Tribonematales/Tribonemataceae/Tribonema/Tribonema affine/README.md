@@ -1,8 +1,7 @@
-Conferva affinis Kützing SPECIES
-=======
+# Tribonema affine (G.S. West) G.S. West SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Microdiplodia gardeniae Démétr. SPECIES
-=======
+# Microdiplodia gardeniae Démétr. SPECIES
 
 #### Status
 ACCEPTED

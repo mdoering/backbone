@@ -1,5 +1,4 @@
-Trachydiacrodium maximum Timofeev, 1959 SPECIES
-=======
+# Trachydiacrodium maximum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

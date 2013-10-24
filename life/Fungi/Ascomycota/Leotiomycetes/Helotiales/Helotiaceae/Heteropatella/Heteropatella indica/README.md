@@ -1,5 +1,4 @@
-Heteropatella indica Muthumary SPECIES
-=======
+# Heteropatella indica Muthumary SPECIES
 
 #### Status
 ACCEPTED

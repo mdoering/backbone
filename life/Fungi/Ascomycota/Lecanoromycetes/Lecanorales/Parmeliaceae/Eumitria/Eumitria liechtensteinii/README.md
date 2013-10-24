@@ -1,5 +1,4 @@
-Eumitria liechtensteinii (J. Steiner) Vain. SPECIES
-=======
+# Eumitria liechtensteinii (J. Steiner) Vain. SPECIES
 
 #### Status
 ACCEPTED

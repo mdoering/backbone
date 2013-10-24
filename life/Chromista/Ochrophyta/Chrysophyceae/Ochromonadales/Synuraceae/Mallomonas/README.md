@@ -1,5 +1,4 @@
-Mallomonas Perty, 1852 GENUS
-=======
+# Mallomonas Perty, 1852 GENUS
 
 #### Status
 ACCEPTED

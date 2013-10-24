@@ -1,14 +1,13 @@
-Brachysporium tomato (Ellis & Barthol.) Hiroë, 1934 SPECIES
-=======
+# Curvularia tomato (Ellis & Barthol.) Munt.-Cvetk., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rev. agron. Noroeste Argent. 2: 322 (1957)
 
 #### Original name
 Helminthosporium tomato Ellis & Barthol., 1897

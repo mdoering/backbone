@@ -1,5 +1,4 @@
-Aleurina splendens (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Aleurina splendens (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

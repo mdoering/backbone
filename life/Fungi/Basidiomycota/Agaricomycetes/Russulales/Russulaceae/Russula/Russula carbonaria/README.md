@@ -1,5 +1,4 @@
-Russula carbonaria R. Heim & Gilles SPECIES
-=======
+# Russula carbonaria R. Heim & Gilles SPECIES
 
 #### Status
 ACCEPTED

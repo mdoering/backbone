@@ -1,5 +1,4 @@
-Erysiphe patagoniaca Havryl. & S. Takam. SPECIES
-=======
+# Erysiphe patagoniaca Havryl. & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

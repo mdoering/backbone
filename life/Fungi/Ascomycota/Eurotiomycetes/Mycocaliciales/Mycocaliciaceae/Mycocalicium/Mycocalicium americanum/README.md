@@ -1,17 +1,16 @@
-Mycocalicium australicum Räsänen SPECIES
-=======
+# Mycocalicium americanum (R. Sant.) Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 27(no. 1): 182 (1987)
 
 #### Original name
-null
+Calicium americanum R. Sant.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pertusaria sublecanorodes Werner SPECIES
-=======
+# Pertusaria sublecanorodes Werner SPECIES
 
 #### Status
 ACCEPTED

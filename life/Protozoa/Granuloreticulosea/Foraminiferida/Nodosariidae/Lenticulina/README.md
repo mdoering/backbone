@@ -1,14 +1,13 @@
-Lenticulum Hopkins, 1878-79 GENUS
-=======
+# Lenticulina Lamarck, 1804 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Execut. Doc. 45 Congress, Sess. 3, 4, Rep. Chief Engineers, pt. 2, App. W. , 885.
+Ann. Mus. H. N. (Paris), 5 (27), 186.
 
 #### Original name
 null

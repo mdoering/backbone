@@ -1,5 +1,4 @@
-Utraria furfuracea Quél. SPECIES
-=======
+# Utraria furfuracea Quél. SPECIES
 
 #### Status
 ACCEPTED

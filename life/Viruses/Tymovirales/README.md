@@ -1,5 +1,4 @@
-Tymovirales ORDER
-=======
+# Tymovirales ORDER
 
 #### Status
 ACCEPTED

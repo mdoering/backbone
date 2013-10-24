@@ -1,5 +1,4 @@
-Psathyrella verna A.H. Sm. SPECIES
-=======
+# Psathyrella verna A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taeniolella dichotoma Borowska SPECIES
-=======
+# Taeniolella dichotoma Borowska SPECIES
 
 #### Status
 ACCEPTED

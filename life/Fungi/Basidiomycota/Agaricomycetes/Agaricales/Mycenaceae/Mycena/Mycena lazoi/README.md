@@ -1,5 +1,4 @@
-Mycena lazoi Singer SPECIES
-=======
+# Mycena lazoi Singer SPECIES
 
 #### Status
 ACCEPTED

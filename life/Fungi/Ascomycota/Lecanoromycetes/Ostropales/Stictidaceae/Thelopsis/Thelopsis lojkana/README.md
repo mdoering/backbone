@@ -1,5 +1,4 @@
-Thelopsis lojkana (Poetsch & Arnold) Nyl. SPECIES
-=======
+# Thelopsis lojkana (Poetsch & Arnold) Nyl. SPECIES
 
 #### Status
 ACCEPTED

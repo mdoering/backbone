@@ -1,5 +1,4 @@
-Xylaria wellingtonensis J.D. Rogers & Samuels, 1987 SPECIES
-=======
+# Xylaria wellingtonensis J.D. Rogers & Samuels, 1987 SPECIES
 
 #### Status
 ACCEPTED

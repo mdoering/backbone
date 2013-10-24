@@ -1,5 +1,4 @@
-Polystictus aequus Lloyd SPECIES
-=======
+# Polystictus aequus Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Charonectria amabilis Lowen & D. Hawksw. SPECIES
-=======
+# Charonectria amabilis Lowen & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

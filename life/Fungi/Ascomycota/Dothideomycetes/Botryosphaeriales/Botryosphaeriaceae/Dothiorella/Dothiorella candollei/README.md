@@ -1,17 +1,16 @@
-Macrophoma candollei f. candollei FORM
-=======
+# Dothiorella candollei (Berk. & Broome) Petr., 1923 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 21(3/4): 290 (1923)
 
 #### Original name
-Macrophoma candollei f. candollei
+Sphaeropsis candollei Berk. & Broome, 1855
 
 ### Remarks
 null

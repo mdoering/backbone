@@ -1,5 +1,4 @@
-Letharia smithii (Du Rietz) Zahlbr. SPECIES
-=======
+# Letharia smithii (Du Rietz) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

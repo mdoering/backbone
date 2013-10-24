@@ -1,5 +1,4 @@
-Mycosphaerella japonica (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella japonica (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

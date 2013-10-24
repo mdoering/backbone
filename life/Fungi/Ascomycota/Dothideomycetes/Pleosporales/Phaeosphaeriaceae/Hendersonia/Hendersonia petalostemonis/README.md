@@ -1,5 +1,4 @@
-Hendersonia petalostemonis Fairm. SPECIES
-=======
+# Hendersonia petalostemonis Fairm. SPECIES
 
 #### Status
 ACCEPTED

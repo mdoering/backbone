@@ -1,5 +1,4 @@
-Eriosporangium insititium (Arthur) Syd. SPECIES
-=======
+# Eriosporangium insititium (Arthur) Syd. SPECIES
 
 #### Status
 ACCEPTED

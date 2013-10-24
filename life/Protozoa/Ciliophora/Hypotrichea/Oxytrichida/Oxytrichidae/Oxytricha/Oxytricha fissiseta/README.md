@@ -1,5 +1,4 @@
-Oxytricha fissiseta Claparède & Lachmann, 1858 SPECIES
-=======
+# Oxytricha fissiseta Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

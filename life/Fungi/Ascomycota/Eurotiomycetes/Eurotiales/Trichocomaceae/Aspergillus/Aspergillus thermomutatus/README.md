@@ -1,5 +1,4 @@
-Aspergillus thermomutatus (Paden) S.W. Peterson SPECIES
-=======
+# Aspergillus thermomutatus (Paden) S.W. Peterson SPECIES
 
 #### Status
 ACCEPTED

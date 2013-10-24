@@ -1,5 +1,4 @@
-Spirolina arietinus (Batsch) SPECIES
-=======
+# Spirolina arietinus (Batsch) SPECIES
 
 #### Status
 ACCEPTED

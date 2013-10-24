@@ -1,5 +1,4 @@
-Thyridium pulchellum Sacc. & Speg. SPECIES
-=======
+# Thyridium pulchellum Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

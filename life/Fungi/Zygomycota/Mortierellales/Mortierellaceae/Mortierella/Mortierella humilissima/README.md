@@ -1,5 +1,4 @@
-Mortierella humilissima Pipek SPECIES
-=======
+# Mortierella humilissima Pipek SPECIES
 
 #### Status
 ACCEPTED

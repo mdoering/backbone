@@ -1,5 +1,4 @@
-Dysteria scultellum Wilbert, 1971 SPECIES
-=======
+# Dysteria scultellum Wilbert, 1971 SPECIES
 
 #### Status
 ACCEPTED

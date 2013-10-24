@@ -1,5 +1,4 @@
-Eostylodictya Ormiston & Lane, 1976 GENUS
-=======
+# Eostylodictya Ormiston & Lane, 1976 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periacineta gammari SPECIES
-=======
+# Periacineta gammari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidella ilicis Tilak SPECIES
-=======
+# Dothidella ilicis Tilak SPECIES
 
 #### Status
 ACCEPTED

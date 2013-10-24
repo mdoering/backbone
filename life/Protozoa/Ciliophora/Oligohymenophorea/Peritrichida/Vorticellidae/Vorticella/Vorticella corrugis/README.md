@@ -1,5 +1,4 @@
-Vorticella corrugis Dumas, 1930 SPECIES
-=======
+# Vorticella corrugis Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

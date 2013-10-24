@@ -1,5 +1,4 @@
-Gyrodinium dominans Hulbert SPECIES
-=======
+# Gyrodinium dominans Hulbert SPECIES
 
 #### Status
 ACCEPTED

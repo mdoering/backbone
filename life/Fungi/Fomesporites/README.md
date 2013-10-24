@@ -1,5 +1,4 @@
-Fomesporites T.C. Huang GENUS
-=======
+# Fomesporites T.C. Huang GENUS
 
 #### Status
 ACCEPTED

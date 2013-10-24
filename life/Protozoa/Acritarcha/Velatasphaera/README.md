@@ -1,5 +1,4 @@
-Velatasphaera Miller & Williams, 1988 GENUS
-=======
+# Velatasphaera Miller & Williams, 1988 GENUS
 
 #### Status
 ACCEPTED

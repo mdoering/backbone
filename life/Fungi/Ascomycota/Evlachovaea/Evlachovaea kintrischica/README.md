@@ -1,5 +1,4 @@
-Evlachovaea kintrischica B.A. Borisov & Tarasov, 1999 SPECIES
-=======
+# Evlachovaea kintrischica B.A. Borisov & Tarasov, 1999 SPECIES
 
 #### Status
 ACCEPTED

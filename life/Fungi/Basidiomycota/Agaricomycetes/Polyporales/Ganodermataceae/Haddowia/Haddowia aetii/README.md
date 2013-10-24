@@ -1,5 +1,4 @@
-Haddowia aetii Steyaert, 1972 SPECIES
-=======
+# Haddowia aetii Steyaert, 1972 SPECIES
 
 #### Status
 ACCEPTED

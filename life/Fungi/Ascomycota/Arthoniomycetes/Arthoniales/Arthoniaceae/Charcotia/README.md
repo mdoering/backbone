@@ -1,5 +1,4 @@
-Charcotia GENUS
-=======
+# Charcotia GENUS
 
 #### Status
 ACCEPTED

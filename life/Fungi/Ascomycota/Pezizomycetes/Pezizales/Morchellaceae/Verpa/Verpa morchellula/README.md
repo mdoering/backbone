@@ -1,5 +1,4 @@
-Verpa morchellula Fr. SPECIES
-=======
+# Verpa morchellula Fr. SPECIES
 
 #### Status
 ACCEPTED

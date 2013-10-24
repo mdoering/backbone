@@ -1,5 +1,4 @@
-Amazonia acalyphae (Rehm) Theiss. SPECIES
-=======
+# Amazonia acalyphae (Rehm) Theiss. SPECIES
 
 #### Status
 ACCEPTED

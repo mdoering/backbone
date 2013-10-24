@@ -1,5 +1,4 @@
-Ramularia hydrangeae-macrophyllae U. Braun & C.F. Hill, 2008 SPECIES
-=======
+# Ramularia hydrangeae-macrophyllae U. Braun & C.F. Hill, 2008 SPECIES
 
 #### Status
 ACCEPTED

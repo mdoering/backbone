@@ -1,14 +1,13 @@
-Polyporus leucocreas (Pat. & Har.) Lloyd, 1920 SPECIES
-=======
+# Ganoderma leucocreas Pat. & Har., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 6: 999 (1920)
+Bull. Soc. mycol. Fr. 28: 281 (1912)
 
 #### Original name
 Ganoderma leucocreas Pat. & Har., 1912

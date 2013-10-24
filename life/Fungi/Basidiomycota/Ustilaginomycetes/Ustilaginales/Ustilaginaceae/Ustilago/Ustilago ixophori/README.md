@@ -1,5 +1,4 @@
-Ustilago ixophori Durán SPECIES
-=======
+# Ustilago ixophori Durán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Proterendothrix West & G.S.West, 1897 GENUS
-=======
+# Proterendothrix West & G.S.West, 1897 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella assamensis M.B. Ellis SPECIES
-=======
+# Stenella assamensis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

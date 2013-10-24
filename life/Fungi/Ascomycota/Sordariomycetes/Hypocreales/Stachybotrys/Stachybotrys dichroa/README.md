@@ -1,5 +1,4 @@
-Stachybotrys dichroa Grove, 1886 SPECIES
-=======
+# Stachybotrys dichroa Grove, 1886 SPECIES
 
 #### Status
 ACCEPTED

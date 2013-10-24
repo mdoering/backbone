@@ -1,17 +1,16 @@
-Hydnotrya carnea (Corda) Zobel, 1854 SPECIES
-=======
+# Hydnotrya tulasnei (Berk.) Berk. & Broome, 1846 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Corda, Icon. fung. (Prague) 6: 61 (1854)
+Ann. Mag. nat. Hist. , Ser. 1 18: 78 (1846)
 
 #### Original name
-Octaviania carnea Corda, 1854
+Hydnobolites tulasnei R. Hesse, 1891
 
 ### Remarks
 null

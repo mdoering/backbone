@@ -1,5 +1,4 @@
-Crepidotus brunswickianus Speg. SPECIES
-=======
+# Crepidotus brunswickianus Speg. SPECIES
 
 #### Status
 ACCEPTED

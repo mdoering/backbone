@@ -1,5 +1,4 @@
-Chaetomium prasinum (Berk. & M.A. Curtis) S. Hughes SPECIES
-=======
+# Chaetomium prasinum (Berk. & M.A. Curtis) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

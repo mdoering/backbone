@@ -1,5 +1,4 @@
-Tuberculina vinosa (Sacc.) Sacc., 1886 SPECIES
-=======
+# Tuberculina vinosa (Sacc.) Sacc., 1886 SPECIES
 
 #### Status
 ACCEPTED

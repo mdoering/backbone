@@ -1,5 +1,4 @@
-Laboulbenia fuliginosa Thaxt. SPECIES
-=======
+# Laboulbenia fuliginosa Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ares de Wever, 1982 GENUS
-=======
+# Ares de Wever, 1982 GENUS
 
 #### Status
 ACCEPTED

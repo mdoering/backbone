@@ -1,5 +1,4 @@
-Parmeliella diffracta Müll. Arg. SPECIES
-=======
+# Parmeliella diffracta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

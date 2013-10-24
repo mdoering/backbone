@@ -1,5 +1,4 @@
-Lecidea elaeochromiza (Nyl.) H. Olivier SPECIES
-=======
+# Lecidea elaeochromiza (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

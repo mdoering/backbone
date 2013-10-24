@@ -1,5 +1,4 @@
-Sirius punctatus Fombella, 1979 SPECIES
-=======
+# Sirius punctatus Fombella, 1979 SPECIES
 
 #### Status
 ACCEPTED

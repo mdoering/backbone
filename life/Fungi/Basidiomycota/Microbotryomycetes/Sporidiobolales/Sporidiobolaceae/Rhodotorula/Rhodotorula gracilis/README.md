@@ -1,5 +1,4 @@
-Rhodotorula gracilis Rennerf. SPECIES
-=======
+# Rhodotorula gracilis Rennerf. SPECIES
 
 #### Status
 ACCEPTED

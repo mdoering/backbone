@@ -1,5 +1,4 @@
-Sphacella subtilissima Reinke SPECIES
-=======
+# Sphacella subtilissima Reinke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buedingiisphaeridium astartes (Sannemann, 1955) Moreau-Benoît, 1974 SPECIES
-=======
+# Buedingiisphaeridium astartes (Sannemann, 1955) Moreau-Benoît, 1974 SPECIES
 
 #### Status
 ACCEPTED

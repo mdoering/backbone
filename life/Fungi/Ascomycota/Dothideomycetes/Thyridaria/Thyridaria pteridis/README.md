@@ -1,5 +1,4 @@
-Thyridaria pteridis Petch SPECIES
-=======
+# Thyridaria pteridis Petch SPECIES
 
 #### Status
 ACCEPTED

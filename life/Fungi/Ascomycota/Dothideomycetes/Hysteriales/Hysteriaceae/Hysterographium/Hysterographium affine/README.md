@@ -1,5 +1,4 @@
-Hysterographium affine Pass. SPECIES
-=======
+# Hysterographium affine Pass. SPECIES
 
 #### Status
 ACCEPTED

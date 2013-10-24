@@ -1,5 +1,4 @@
-Orcheomyces maculatae Burgeff SPECIES
-=======
+# Orcheomyces maculatae Burgeff SPECIES
 
 #### Status
 ACCEPTED

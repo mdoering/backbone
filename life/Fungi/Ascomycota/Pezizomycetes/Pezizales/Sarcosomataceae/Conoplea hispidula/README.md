@@ -1,5 +1,4 @@
-Conoplea hispidula Alb. & Schwein. SPECIES
-=======
+# Conoplea hispidula Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

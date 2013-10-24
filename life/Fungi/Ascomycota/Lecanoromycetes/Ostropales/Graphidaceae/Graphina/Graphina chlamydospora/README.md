@@ -1,5 +1,4 @@
-Graphina chlamydospora var. chlamydospora VARIETY
-=======
+# Graphina chlamydospora Redinger SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphina chlamydospora var. chlamydospora
+Graphina chlamydospora Redinger
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Euacanthe GENUS
-=======
+# Euacanthe GENUS
 
 #### Status
 ACCEPTED

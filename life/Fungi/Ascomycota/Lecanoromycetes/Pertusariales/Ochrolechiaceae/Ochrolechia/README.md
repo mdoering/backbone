@@ -1,17 +1,16 @@
-Korkir Adans. GENUS
-=======
+# Ochrolechia A. Massal. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fam. Pl. 2: 7 (1763)
+Ric. auton. lich. crost. (Verona) 30 (1852)
 
 #### Original name
-Korkir Adans.
+Ochrolechia A. Massal.
 
 ### Remarks
 null

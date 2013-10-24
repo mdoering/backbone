@@ -1,5 +1,4 @@
-Sphaeronaema martianoffianum Sacc. SPECIES
-=======
+# Sphaeronaema martianoffianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

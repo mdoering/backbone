@@ -1,5 +1,4 @@
-Vorticella crassicaulis Nenninger, 1948 SPECIES
-=======
+# Vorticella crassicaulis Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

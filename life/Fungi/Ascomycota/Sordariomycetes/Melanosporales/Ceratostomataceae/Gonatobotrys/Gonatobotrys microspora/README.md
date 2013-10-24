@@ -1,5 +1,4 @@
-Gonatobotrys microspora Rivolta SPECIES
-=======
+# Gonatobotrys microspora Rivolta SPECIES
 
 #### Status
 ACCEPTED

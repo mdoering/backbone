@@ -1,5 +1,4 @@
-Arthonia lecanorina (Almq.) R. Sant. SPECIES
-=======
+# Arthonia lecanorina (Almq.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

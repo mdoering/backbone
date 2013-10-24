@@ -1,5 +1,4 @@
-Meliola buddleyicola Syd. {?} SPECIES
-=======
+# Meliola buddleyicola Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

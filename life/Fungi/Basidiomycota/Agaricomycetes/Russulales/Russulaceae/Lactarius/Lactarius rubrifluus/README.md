@@ -1,5 +1,4 @@
-Lactarius rubrifluus Gillet SPECIES
-=======
+# Lactarius rubrifluus Gillet SPECIES
 
 #### Status
 ACCEPTED

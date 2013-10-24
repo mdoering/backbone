@@ -1,5 +1,4 @@
-Pluteolus californicus McClatchie {?} SPECIES
-=======
+# Pluteolus californicus McClatchie {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetragenococcus Collins, Williams & Wallbanks, 1993 GENUS
-=======
+# Tetragenococcus Collins, Williams & Wallbanks, 1993 GENUS
 
 #### Status
 ACCEPTED

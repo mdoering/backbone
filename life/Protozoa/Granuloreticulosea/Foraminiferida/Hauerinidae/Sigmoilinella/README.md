@@ -1,5 +1,4 @@
-Sigmoilinella Zheng, 1979 GENUS
-=======
+# Sigmoilinella Zheng, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ataxella Peybernes, 1988 GENUS
-=======
+# Ataxella Peybernes, 1988 GENUS
 
 #### Status
 ACCEPTED

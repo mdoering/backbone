@@ -1,5 +1,4 @@
-Cercosporina byrsonimatis (Maubl.) Sacc. SPECIES
-=======
+# Cercosporina byrsonimatis (Maubl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

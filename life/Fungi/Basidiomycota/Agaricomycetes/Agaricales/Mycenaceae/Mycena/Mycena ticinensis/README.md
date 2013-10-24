@@ -1,5 +1,4 @@
-Mycena ticinensis Robich SPECIES
-=======
+# Mycena ticinensis Robich SPECIES
 
 #### Status
 ACCEPTED

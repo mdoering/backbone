@@ -1,5 +1,4 @@
-Agaricus foraminulosus Bull. SPECIES
-=======
+# Agaricus foraminulosus Bull. SPECIES
 
 #### Status
 ACCEPTED

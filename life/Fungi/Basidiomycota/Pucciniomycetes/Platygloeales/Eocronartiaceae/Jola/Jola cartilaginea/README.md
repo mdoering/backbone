@@ -1,5 +1,4 @@
-Jola cartilaginea Rick SPECIES
-=======
+# Jola cartilaginea Rick SPECIES
 
 #### Status
 ACCEPTED

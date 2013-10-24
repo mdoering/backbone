@@ -1,5 +1,4 @@
-Antromycopsis Pat. & Trab. GENUS
-=======
+# Antromycopsis Pat. & Trab. GENUS
 
 #### Status
 ACCEPTED

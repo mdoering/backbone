@@ -1,5 +1,4 @@
-Chiodecton flavicans Müll. Arg. SPECIES
-=======
+# Chiodecton flavicans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

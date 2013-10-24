@@ -1,17 +1,16 @@
-Piricularia Sacc. GENUS
-=======
+# Pyricularia Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 2(no. 6): 20 (1880)
 
 #### Original name
-Piricularia Sacc.
+Pyricularia Sacc.
 
 ### Remarks
 null

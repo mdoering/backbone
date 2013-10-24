@@ -1,5 +1,4 @@
-Parvodontia luteocystidia Hjortstam & Ryvarden, 2004 SPECIES
-=======
+# Parvodontia luteocystidia Hjortstam & Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

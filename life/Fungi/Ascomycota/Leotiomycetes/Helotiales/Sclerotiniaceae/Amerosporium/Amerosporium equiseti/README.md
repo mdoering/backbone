@@ -1,5 +1,4 @@
-Amerosporium equiseti (Peck) Sacc. SPECIES
-=======
+# Amerosporium equiseti (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

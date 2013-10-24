@@ -1,5 +1,4 @@
-Phialina Bory de St. Vincent, 1827 GENUS
-=======
+# Phialina Bory de St. Vincent, 1827 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena peyerimhoffii Maire SPECIES
-=======
+# Mycena peyerimhoffii Maire SPECIES
 
 #### Status
 ACCEPTED

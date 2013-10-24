@@ -1,5 +1,4 @@
-Phyllosticta micrococcoides Penz. SPECIES
-=======
+# Phyllosticta micrococcoides Penz. SPECIES
 
 #### Status
 ACCEPTED

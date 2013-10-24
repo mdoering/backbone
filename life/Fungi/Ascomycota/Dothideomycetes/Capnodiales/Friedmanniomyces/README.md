@@ -1,5 +1,4 @@
-Friedmanniomyces Onofri GENUS
-=======
+# Friedmanniomyces Onofri GENUS
 
 #### Status
 ACCEPTED

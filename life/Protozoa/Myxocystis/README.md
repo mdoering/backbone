@@ -1,5 +1,4 @@
-Myxocystis Mrázek GENUS
-=======
+# Myxocystis Mrázek GENUS
 
 #### Status
 ACCEPTED

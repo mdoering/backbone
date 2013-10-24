@@ -1,5 +1,4 @@
-Collybia omphalina (Murrill) Murrill SPECIES
-=======
+# Collybia omphalina (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

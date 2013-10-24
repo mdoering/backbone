@@ -1,5 +1,4 @@
-Puccinia sinkiangensis Y.C. Wang SPECIES
-=======
+# Puccinia sinkiangensis Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

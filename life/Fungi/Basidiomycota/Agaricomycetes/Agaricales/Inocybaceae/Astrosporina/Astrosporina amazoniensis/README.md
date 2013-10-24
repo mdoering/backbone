@@ -1,5 +1,4 @@
-Astrosporina amazoniensis (Singer & I.J. Araujo) Raithelh. SPECIES
-=======
+# Astrosporina amazoniensis (Singer & I.J. Araujo) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

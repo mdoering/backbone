@@ -1,5 +1,4 @@
-Beauveria malawiensis S.A. Rehner & Aquino de Muro SPECIES
-=======
+# Beauveria malawiensis S.A. Rehner & Aquino de Muro SPECIES
 
 #### Status
 ACCEPTED

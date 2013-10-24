@@ -1,5 +1,4 @@
-Platycola baicalica Swarczewsky, 1930 SPECIES
-=======
+# Platycola baicalica Swarczewsky, 1930 SPECIES
 
 #### Status
 ACCEPTED

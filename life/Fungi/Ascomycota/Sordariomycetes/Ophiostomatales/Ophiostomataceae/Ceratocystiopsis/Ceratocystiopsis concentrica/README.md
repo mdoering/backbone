@@ -1,5 +1,4 @@
-Ceratocystiopsis concentrica (Olchow. & J. Reid) H.P. Upadhyay SPECIES
-=======
+# Ceratocystiopsis concentrica (Olchow. & J. Reid) H.P. Upadhyay SPECIES
 
 #### Status
 ACCEPTED

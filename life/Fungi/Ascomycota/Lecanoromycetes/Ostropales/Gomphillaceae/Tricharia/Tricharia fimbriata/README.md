@@ -1,14 +1,13 @@
-Lachnea fimbriata Quél. SPECIES
-=======
+# Tricharia fimbriata (Quél.) Boud. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Soc. bot. Fr. 25: 291 (1878)
+null
 
 #### Original name
 Lachnea fimbriata Quél.

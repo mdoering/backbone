@@ -1,5 +1,4 @@
-Septoria capraeae Westend. SPECIES
-=======
+# Septoria capraeae Westend. SPECIES
 
 #### Status
 ACCEPTED

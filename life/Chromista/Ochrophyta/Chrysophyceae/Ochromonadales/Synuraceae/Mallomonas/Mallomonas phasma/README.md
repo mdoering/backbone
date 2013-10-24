@@ -1,5 +1,4 @@
-Mallomonas phasma Harris & Bradley SPECIES
-=======
+# Mallomonas phasma Harris & Bradley SPECIES
 
 #### Status
 ACCEPTED

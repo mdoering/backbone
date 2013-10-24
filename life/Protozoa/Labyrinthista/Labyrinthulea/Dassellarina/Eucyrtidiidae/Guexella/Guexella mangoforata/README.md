@@ -1,5 +1,4 @@
-Guexella mangoforata SPECIES
-=======
+# Guexella mangoforata SPECIES
 
 #### Status
 ACCEPTED

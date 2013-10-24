@@ -1,14 +1,13 @@
-Triphragmium trevesiae Gäum., 1921 SPECIES
-=======
+# Nyssopsora trevesiae (Gäum.) Tranzschel, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. Bot. Buitenz, 3 Sér. 3: 121 (1921)
+J. Soc. bot. Russie 8: 132 (1925)
 
 #### Original name
 Triphragmium trevesiae Gäum., 1921

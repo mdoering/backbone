@@ -1,5 +1,4 @@
-Ustilago clelandii Syd. SPECIES
-=======
+# Ustilago clelandii Syd. SPECIES
 
 #### Status
 ACCEPTED

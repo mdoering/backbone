@@ -1,5 +1,4 @@
-Penicillium curtipes Berk. SPECIES
-=======
+# Penicillium curtipes Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vulvulina pachyheilus Hadley SPECIES
-=======
+# Vulvulina pachyheilus Hadley SPECIES
 
 #### Status
 ACCEPTED

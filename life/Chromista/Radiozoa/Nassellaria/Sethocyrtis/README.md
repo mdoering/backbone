@@ -1,5 +1,4 @@
-Sethocyrtis Haeckel, 1887 GENUS
-=======
+# Sethocyrtis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

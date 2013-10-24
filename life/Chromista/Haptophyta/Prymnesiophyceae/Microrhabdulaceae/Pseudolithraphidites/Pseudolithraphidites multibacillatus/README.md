@@ -1,5 +1,4 @@
-Pseudolithraphidites multibacillatus Keupp, 1976 SPECIES
-=======
+# Pseudolithraphidites multibacillatus Keupp, 1976 SPECIES
 
 #### Status
 ACCEPTED

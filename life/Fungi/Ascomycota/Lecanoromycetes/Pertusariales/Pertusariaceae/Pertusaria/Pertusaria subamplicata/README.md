@@ -1,5 +1,4 @@
-Pertusaria subamplicata Nyl. SPECIES
-=======
+# Pertusaria subamplicata Nyl. SPECIES
 
 #### Status
 ACCEPTED

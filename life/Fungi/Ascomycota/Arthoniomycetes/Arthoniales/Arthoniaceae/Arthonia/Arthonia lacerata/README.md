@@ -1,5 +1,4 @@
-Arthonia lacerata Vain. SPECIES
-=======
+# Arthonia lacerata Vain. SPECIES
 
 #### Status
 ACCEPTED

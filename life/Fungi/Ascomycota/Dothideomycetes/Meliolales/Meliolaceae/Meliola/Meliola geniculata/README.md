@@ -1,5 +1,4 @@
-Meliola geniculata var. geniculata VARIETY
-=======
+# Meliola geniculata Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 9(4): 381 (1911)
 
 #### Original name
-Meliola geniculata var. geniculata
+Meliola geniculata Syd. & E.J. Butler
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phomopsis morearum (Brunaud) Curzi & Barbaini SPECIES
-=======
+# Phomopsis morearum (Brunaud) Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

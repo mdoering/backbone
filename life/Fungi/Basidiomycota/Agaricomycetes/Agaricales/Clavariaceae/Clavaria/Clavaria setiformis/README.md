@@ -1,5 +1,4 @@
-Clavaria setiformis Vahl SPECIES
-=======
+# Clavaria setiformis Vahl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella theodulina Unamuno SPECIES
-=======
+# Sphaerella theodulina Unamuno SPECIES
 
 #### Status
 ACCEPTED

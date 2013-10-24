@@ -1,5 +1,4 @@
-Synechococcus marinus Jao SPECIES
-=======
+# Synechococcus marinus Jao SPECIES
 
 #### Status
 ACCEPTED

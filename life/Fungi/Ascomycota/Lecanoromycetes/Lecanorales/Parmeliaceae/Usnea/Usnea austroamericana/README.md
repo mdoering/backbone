@@ -1,5 +1,4 @@
-Usnea austroamericana Zahlbr. SPECIES
-=======
+# Usnea austroamericana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

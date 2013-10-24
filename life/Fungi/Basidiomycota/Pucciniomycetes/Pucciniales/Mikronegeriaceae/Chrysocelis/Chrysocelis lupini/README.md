@@ -1,5 +1,4 @@
-Chrysocelis lupini Lagerh. & Dietel, 1913 SPECIES
-=======
+# Chrysocelis lupini Lagerh. & Dietel, 1913 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Claviceps tripsaci F. Stevens & J.G. Hall SPECIES
-=======
+# Claviceps tripsaci F. Stevens & J.G. Hall SPECIES
 
 #### Status
 ACCEPTED

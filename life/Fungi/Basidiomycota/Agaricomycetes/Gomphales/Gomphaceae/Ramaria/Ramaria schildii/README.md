@@ -1,5 +1,4 @@
-Ramaria schildii R.H. Petersen, 1988 SPECIES
-=======
+# Ramaria schildii R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

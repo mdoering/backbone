@@ -1,5 +1,4 @@
-Calosphaeria scabriseta (Schwein.) Sacc. SPECIES
-=======
+# Calosphaeria scabriseta (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

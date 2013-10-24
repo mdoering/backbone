@@ -1,5 +1,4 @@
-Rhodococcus zopfii Stoecker et al., 1994 SPECIES
-=======
+# Rhodococcus zopfii Stoecker et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

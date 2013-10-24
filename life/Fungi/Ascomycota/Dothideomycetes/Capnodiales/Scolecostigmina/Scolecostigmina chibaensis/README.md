@@ -1,5 +1,4 @@
-Scolecostigmina chibaensis C. Nakash., Tak. Kobay. & T. Yamada SPECIES
-=======
+# Scolecostigmina chibaensis C. Nakash., Tak. Kobay. & T. Yamada SPECIES
 
 #### Status
 ACCEPTED

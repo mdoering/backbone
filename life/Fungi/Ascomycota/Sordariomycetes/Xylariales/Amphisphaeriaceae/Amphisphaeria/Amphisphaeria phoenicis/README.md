@@ -1,5 +1,4 @@
-Amphisphaeria phoenicis Pat. SPECIES
-=======
+# Amphisphaeria phoenicis Pat. SPECIES
 
 #### Status
 ACCEPTED

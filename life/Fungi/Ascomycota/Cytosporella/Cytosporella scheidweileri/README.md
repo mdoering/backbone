@@ -1,5 +1,4 @@
-Cytosporella scheidweileri (Westend.) Sacc. SPECIES
-=======
+# Cytosporella scheidweileri (Westend.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

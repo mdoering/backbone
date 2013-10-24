@@ -1,5 +1,4 @@
-Eoparastaffella GENUS
-=======
+# Eoparastaffella GENUS
 
 #### Status
 ACCEPTED

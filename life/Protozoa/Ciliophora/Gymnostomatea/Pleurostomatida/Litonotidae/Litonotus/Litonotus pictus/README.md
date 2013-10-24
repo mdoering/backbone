@@ -1,5 +1,4 @@
-Litonotus pictus subsp. pictus SUBSPECIES
-=======
+# Litonotus pictus Gruber, 1884 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sordaria brevicollis L.S. Olive & Fantini, 1961 SPECIES
-=======
+# Sordaria brevicollis L.S. Olive & Fantini, 1961 SPECIES
 
 #### Status
 ACCEPTED

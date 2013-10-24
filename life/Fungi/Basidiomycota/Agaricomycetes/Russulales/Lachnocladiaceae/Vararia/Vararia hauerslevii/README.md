@@ -1,5 +1,4 @@
-Vararia hauerslevii Boidin, 1989 SPECIES
-=======
+# Vararia hauerslevii Boidin, 1989 SPECIES
 
 #### Status
 ACCEPTED

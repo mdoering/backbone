@@ -1,5 +1,4 @@
-Aremoricanium decoratum Loeblich & MacAdam, 1971 SPECIES
-=======
+# Aremoricanium decoratum Loeblich & MacAdam, 1971 SPECIES
 
 #### Status
 ACCEPTED

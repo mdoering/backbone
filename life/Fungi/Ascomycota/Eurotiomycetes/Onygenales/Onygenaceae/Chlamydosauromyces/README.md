@@ -1,5 +1,4 @@
-Chlamydosauromyces Sigler, Hambl. & Paré GENUS
-=======
+# Chlamydosauromyces Sigler, Hambl. & Paré GENUS
 
 #### Status
 ACCEPTED

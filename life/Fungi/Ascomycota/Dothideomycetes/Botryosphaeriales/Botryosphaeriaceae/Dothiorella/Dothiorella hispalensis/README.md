@@ -1,5 +1,4 @@
-Dothiorella hispalensis (Bubák & Gonz. Frag.) Petr. & Syd. SPECIES
-=======
+# Dothiorella hispalensis (Bubák & Gonz. Frag.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

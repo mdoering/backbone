@@ -1,5 +1,4 @@
-Diplodia hyssopi Sacc. & Fautrey SPECIES
-=======
+# Diplodia hyssopi Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Codonella acutula SPECIES
-=======
+# Codonella acutula SPECIES
 
 #### Status
 ACCEPTED

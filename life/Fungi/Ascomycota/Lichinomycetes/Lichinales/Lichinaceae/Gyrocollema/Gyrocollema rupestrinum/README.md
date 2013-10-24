@@ -1,14 +1,13 @@
-Gyrocollema rupestrina (Zahlbr.) Henssen SPECIES
-=======
+# Gyrocollema rupestrinum (Zahlbr.) Henssen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Eriksson & Hawksworth, Syst. Ascom. 5(1): 131 (1986)
 
 #### Original name
 Ginzbergerella rupestrina Zahlbr.

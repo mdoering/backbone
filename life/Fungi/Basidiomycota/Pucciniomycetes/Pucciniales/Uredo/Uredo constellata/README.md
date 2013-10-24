@@ -1,5 +1,4 @@
-Uredo constellata Berk. & M.A. Curtis SPECIES
-=======
+# Uredo constellata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

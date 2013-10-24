@@ -1,5 +1,4 @@
-Hyperammina subnodosa Brady, 1884 SPECIES
-=======
+# Hyperammina subnodosa Brady, 1884 SPECIES
 
 #### Status
 ACCEPTED

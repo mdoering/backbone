@@ -1,5 +1,4 @@
-Pertusaria paratropa Müll. Arg. SPECIES
-=======
+# Pertusaria paratropa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

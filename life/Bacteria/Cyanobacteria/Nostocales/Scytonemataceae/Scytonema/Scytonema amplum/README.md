@@ -1,8 +1,7 @@
-Scytonema mirabile var. amplum (West) Playfair VARIETY
-=======
+# Scytonema amplum W. West & G.S. West SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

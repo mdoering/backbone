@@ -1,5 +1,4 @@
-Ramaria graminicola Velen. SPECIES
-=======
+# Ramaria graminicola Velen. SPECIES
 
 #### Status
 ACCEPTED

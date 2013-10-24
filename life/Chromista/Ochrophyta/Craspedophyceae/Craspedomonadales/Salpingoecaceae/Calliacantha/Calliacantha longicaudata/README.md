@@ -1,8 +1,7 @@
-Salpingoeca longicaudata Leadbeater SPECIES
-=======
+# Calliacantha longicaudata (Leadbeater) Leadbeater SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

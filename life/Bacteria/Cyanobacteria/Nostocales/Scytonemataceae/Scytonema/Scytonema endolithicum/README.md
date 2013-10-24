@@ -1,5 +1,4 @@
-Scytonema endolithicum Ercegovic SPECIES
-=======
+# Scytonema endolithicum Ercegovic SPECIES
 
 #### Status
 ACCEPTED

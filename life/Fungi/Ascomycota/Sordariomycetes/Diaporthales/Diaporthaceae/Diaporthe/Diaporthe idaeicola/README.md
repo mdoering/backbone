@@ -1,5 +1,4 @@
-Diaporthe idaeicola (P. Karst.) Vestergr. SPECIES
-=======
+# Diaporthe idaeicola (P. Karst.) Vestergr. SPECIES
 
 #### Status
 ACCEPTED

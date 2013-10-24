@@ -1,5 +1,4 @@
-Mycoblastomyces GENUS
-=======
+# Mycoblastomyces GENUS
 
 #### Status
 ACCEPTED

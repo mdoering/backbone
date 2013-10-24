@@ -1,8 +1,7 @@
-Nautilus balthicus Schröter, 1783 SPECIES
-=======
+# Hyalinea balthica (Schröter, 1783) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

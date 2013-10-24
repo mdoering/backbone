@@ -1,8 +1,7 @@
-Sphaerophrya urostylae (Maupas, 1881) Jankowski, 1981 SPECIES
-=======
+# Podophrya urostylae (Maupas, 1881) Matthes, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

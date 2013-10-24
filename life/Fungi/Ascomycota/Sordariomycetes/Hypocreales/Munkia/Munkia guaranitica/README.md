@@ -1,5 +1,4 @@
-Munkia guaranitica Speg. SPECIES
-=======
+# Munkia guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

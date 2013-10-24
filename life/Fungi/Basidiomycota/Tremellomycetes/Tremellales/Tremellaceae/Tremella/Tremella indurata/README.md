@@ -1,5 +1,4 @@
-Tremella indurata Overh. SPECIES
-=======
+# Tremella indurata Overh. SPECIES
 
 #### Status
 ACCEPTED

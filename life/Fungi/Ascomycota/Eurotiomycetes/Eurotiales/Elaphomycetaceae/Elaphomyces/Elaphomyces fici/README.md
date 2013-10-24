@@ -1,5 +1,4 @@
-Elaphomyces fici Tilak & Rokde SPECIES
-=======
+# Elaphomyces fici Tilak & Rokde SPECIES
 
 #### Status
 ACCEPTED

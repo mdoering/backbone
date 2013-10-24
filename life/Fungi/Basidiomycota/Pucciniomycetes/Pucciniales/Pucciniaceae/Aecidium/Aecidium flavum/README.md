@@ -1,5 +1,4 @@
-Aecidium flavum Pers. SPECIES
-=======
+# Aecidium flavum Pers. SPECIES
 
 #### Status
 ACCEPTED

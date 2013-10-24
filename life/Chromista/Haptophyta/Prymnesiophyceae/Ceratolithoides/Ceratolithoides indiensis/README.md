@@ -1,5 +1,4 @@
-Ceratolithoides indiensis SPECIES
-=======
+# Ceratolithoides indiensis SPECIES
 
 #### Status
 ACCEPTED

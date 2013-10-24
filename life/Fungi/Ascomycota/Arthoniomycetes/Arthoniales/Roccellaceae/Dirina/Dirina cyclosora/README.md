@@ -1,5 +1,4 @@
-Dirina cyclosora Poelt & Nimis SPECIES
-=======
+# Dirina cyclosora Poelt & Nimis SPECIES
 
 #### Status
 ACCEPTED

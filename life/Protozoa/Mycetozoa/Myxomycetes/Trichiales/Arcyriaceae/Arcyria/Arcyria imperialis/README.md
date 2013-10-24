@@ -1,14 +1,13 @@
-Hyporhamma imperialis (G. Lister) Lado SPECIES
-=======
+# Arcyria imperialis (G. Lister) Q. Wang & Yu Li, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+II Congreso Internacional de Sistemática y Ecología de Myxomycetes, ICSEM2, Madrid, Abril de 1996 (Madrid), Programa Científico, Lista de Participantes, Conferencia Inaugural, Resúmenes de las Ponencias Invitadas, Mesas Redondas, Ponencias Libres y Carteles 64 (1996)
 
 #### Original name
 Hemitrichia imperialis Lister

@@ -1,5 +1,4 @@
-Ascofascicula Matsush. GENUS
-=======
+# Ascofascicula Matsush. GENUS
 
 #### Status
 ACCEPTED

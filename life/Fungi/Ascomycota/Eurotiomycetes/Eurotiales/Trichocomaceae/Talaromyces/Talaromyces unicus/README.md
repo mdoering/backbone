@@ -1,5 +1,4 @@
-Talaromyces unicus Tzean, J.L. Chen & Shiu, 1992 SPECIES
-=======
+# Talaromyces unicus Tzean, J.L. Chen & Shiu, 1992 SPECIES
 
 #### Status
 ACCEPTED

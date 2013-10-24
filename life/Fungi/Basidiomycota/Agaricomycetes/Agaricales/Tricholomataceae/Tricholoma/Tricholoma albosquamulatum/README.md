@@ -1,17 +1,16 @@
-Tricholoma albosquamulata Beeli SPECIES
-=======
+# Tricholoma albosquamulatum Beeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 59: 77 (1927)
 
 #### Original name
-Tricholoma albosquamulata Beeli
+Tricholoma albosquamulatum Beeli
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Peziza vesicularis Schumach. SPECIES
-=======
+# Peziza vesicularis Schumach. SPECIES
 
 #### Status
 ACCEPTED

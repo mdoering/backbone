@@ -1,5 +1,4 @@
-Diplodina menthae Picb. SPECIES
-=======
+# Diplodina menthae Picb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula appendiculata K. Das, S.L. Mill. & J.R. Sharma SPECIES
-=======
+# Russula appendiculata K. Das, S.L. Mill. & J.R. Sharma SPECIES
 
 #### Status
 ACCEPTED

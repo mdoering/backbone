@@ -1,5 +1,4 @@
-Sphaerella linearis (Rehm) Höhn. SPECIES
-=======
+# Sphaerella linearis (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

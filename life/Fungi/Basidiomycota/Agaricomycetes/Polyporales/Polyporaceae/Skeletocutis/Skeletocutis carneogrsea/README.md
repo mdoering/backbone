@@ -1,5 +1,4 @@
-Skeletocutis carneogrsea David SPECIES
-=======
+# Skeletocutis carneogrsea David SPECIES
 
 #### Status
 ACCEPTED

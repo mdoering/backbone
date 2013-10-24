@@ -1,5 +1,4 @@
-Periconiella rapaneae M.B. Ellis SPECIES
-=======
+# Periconiella rapaneae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

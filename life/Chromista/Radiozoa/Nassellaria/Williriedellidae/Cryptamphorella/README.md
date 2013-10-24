@@ -1,5 +1,4 @@
-Cryptamphorella Dumitrica, 1970 GENUS
-=======
+# Cryptamphorella Dumitrica, 1970 GENUS
 
 #### Status
 ACCEPTED

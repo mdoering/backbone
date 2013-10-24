@@ -1,5 +1,4 @@
-Dioicomyces onchophorus Thaxt. SPECIES
-=======
+# Dioicomyces onchophorus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

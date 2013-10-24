@@ -1,5 +1,4 @@
-Trichomerium psidii Bat. SPECIES
-=======
+# Trichomerium psidii Bat. SPECIES
 
 #### Status
 ACCEPTED

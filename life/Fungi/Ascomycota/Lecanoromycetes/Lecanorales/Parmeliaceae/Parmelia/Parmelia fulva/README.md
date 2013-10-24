@@ -1,5 +1,4 @@
-Parmelia fulva Schwein. SPECIES
-=======
+# Parmelia fulva Schwein. SPECIES
 
 #### Status
 ACCEPTED

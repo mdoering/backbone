@@ -1,5 +1,4 @@
-Inocybe lanatodisca Kauffman SPECIES
-=======
+# Inocybe lanatodisca Kauffman SPECIES
 
 #### Status
 ACCEPTED

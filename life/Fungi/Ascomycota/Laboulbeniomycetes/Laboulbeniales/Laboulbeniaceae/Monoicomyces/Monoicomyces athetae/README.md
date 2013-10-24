@@ -1,5 +1,4 @@
-Monoicomyces athetae Thaxt., 1931 SPECIES
-=======
+# Monoicomyces athetae Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Vuilleminia quercina (J. Erikss. & Ryvarden) Zmitr. & Spirin, 2006 SPECIES
-=======
+# Corticium quercicola Jülich, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Int. J. Mycol. Lichenol. 1(1): 31 (1982)
 
 #### Original name
-null
+Laeticorticium quercinum J. Erikss. & Ryvarden, 1976
 
 ### Remarks
 null

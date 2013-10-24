@@ -1,5 +1,4 @@
-Trichothelium angustisporum M. Cáceres & Lücking SPECIES
-=======
+# Trichothelium angustisporum M. Cáceres & Lücking SPECIES
 
 #### Status
 ACCEPTED

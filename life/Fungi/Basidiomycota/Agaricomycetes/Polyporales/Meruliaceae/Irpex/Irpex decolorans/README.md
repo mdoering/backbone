@@ -1,5 +1,4 @@
-Irpex decolorans Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Irpex decolorans Berk. & M.A. Curtis ex Cooke SPECIES
 
 #### Status
 ACCEPTED

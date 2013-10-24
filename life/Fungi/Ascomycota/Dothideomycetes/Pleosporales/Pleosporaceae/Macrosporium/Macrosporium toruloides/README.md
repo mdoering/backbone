@@ -1,5 +1,4 @@
-Macrosporium toruloides Ellis & Everh. SPECIES
-=======
+# Macrosporium toruloides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

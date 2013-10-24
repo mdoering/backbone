@@ -1,5 +1,4 @@
-Sporobolomyces carnicolor Yamasaki & H. Fujii SPECIES
-=======
+# Sporobolomyces carnicolor Yamasaki & H. Fujii SPECIES
 
 #### Status
 ACCEPTED

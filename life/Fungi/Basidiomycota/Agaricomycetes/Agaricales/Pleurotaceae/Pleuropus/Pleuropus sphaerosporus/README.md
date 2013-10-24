@@ -1,5 +1,4 @@
-Pleuropus sphaerosporus (Peck) Murrill SPECIES
-=======
+# Pleuropus sphaerosporus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

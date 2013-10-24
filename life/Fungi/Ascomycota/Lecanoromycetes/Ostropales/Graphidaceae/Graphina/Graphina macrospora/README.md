@@ -1,5 +1,4 @@
-Graphina macrospora (Kremp.) Müll. Arg. SPECIES
-=======
+# Graphina macrospora (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

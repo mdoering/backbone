@@ -1,5 +1,4 @@
-Halbanina byroniae G. Arnaud SPECIES
-=======
+# Halbanina byroniae G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

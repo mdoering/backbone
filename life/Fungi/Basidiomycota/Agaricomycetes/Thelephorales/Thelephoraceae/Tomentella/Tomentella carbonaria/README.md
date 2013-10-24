@@ -1,5 +1,4 @@
-Tomentella carbonaria M.J. Larsen, 1975 SPECIES
-=======
+# Tomentella carbonaria M.J. Larsen, 1975 SPECIES
 
 #### Status
 ACCEPTED

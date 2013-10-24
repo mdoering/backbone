@@ -1,5 +1,4 @@
-Libertella caraganae Danilova SPECIES
-=======
+# Libertella caraganae Danilova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus linkii (Fr.) Quél. SPECIES
-=======
+# Rhodophyllus linkii (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

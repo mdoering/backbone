@@ -1,8 +1,7 @@
-Cornua aculeifera Deflandre SPECIES
-=======
+# Variramus aculeiferus (Deflandre) K. McCartney, S.W. Wise, D.M. Harwood & R. Gersonde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

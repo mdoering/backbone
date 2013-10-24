@@ -1,5 +1,4 @@
-Lepiota kuehneri Huijsman ex Hora SPECIES
-=======
+# Lepiota kuehneri Huijsman ex Hora SPECIES
 
 #### Status
 ACCEPTED

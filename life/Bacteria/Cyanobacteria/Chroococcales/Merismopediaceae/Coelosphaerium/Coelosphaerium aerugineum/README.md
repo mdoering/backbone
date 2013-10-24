@@ -1,5 +1,4 @@
-Coelosphaerium aerugineum Lemmermann SPECIES
-=======
+# Coelosphaerium aerugineum Lemmermann SPECIES
 
 #### Status
 ACCEPTED

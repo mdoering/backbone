@@ -1,5 +1,4 @@
-Cryptodiscus finitimus Kirschst. SPECIES
-=======
+# Cryptodiscus finitimus Kirschst. SPECIES
 
 #### Status
 ACCEPTED

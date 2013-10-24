@@ -1,5 +1,4 @@
-Syndinium Chatton, 1910 GENUS
-=======
+# Syndinium Chatton, 1910 GENUS
 
 #### Status
 ACCEPTED

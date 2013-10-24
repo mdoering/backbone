@@ -1,5 +1,4 @@
-Stictina berteroana (Mont.) Nyl. SPECIES
-=======
+# Stictina berteroana (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

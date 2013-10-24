@@ -1,5 +1,4 @@
-Exobasidium yunnanense Z.Y. Li & L. Guo SPECIES
-=======
+# Exobasidium yunnanense Z.Y. Li & L. Guo SPECIES
 
 #### Status
 ACCEPTED

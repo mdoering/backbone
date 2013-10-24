@@ -1,14 +1,13 @@
-Phacidium macrum P. Karst., 1871 SPECIES
-=======
+# Karstenia macer (P. Karst.) Sherwood, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Not. Sällsk. Fauna et Fl. Fenn. Förh. 2: 218 (1871)
+Occ. Pap. Farlow Herb. Crypt. Bot. 15: 109 (1980)
 
 #### Original name
 Phacidium macrum P. Karst., 1871

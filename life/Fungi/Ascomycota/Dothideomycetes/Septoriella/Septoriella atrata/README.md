@@ -1,5 +1,4 @@
-Septoriella atrata Roberge ex Sacc. SPECIES
-=======
+# Septoriella atrata Roberge ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clevelandella Kidder, 1938 GENUS
-=======
+# Clevelandella Kidder, 1938 GENUS
 
 #### Status
 ACCEPTED

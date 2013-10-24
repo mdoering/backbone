@@ -1,5 +1,4 @@
-Leptolyngbya Anagnostidis & Komárek, 1988 GENUS
-=======
+# Leptolyngbya Anagnostidis & Komárek, 1988 GENUS
 
 #### Status
 ACCEPTED

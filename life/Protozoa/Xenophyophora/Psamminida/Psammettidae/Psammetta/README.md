@@ -1,5 +1,4 @@
-Psammetta Schulze, 1906 GENUS
-=======
+# Psammetta Schulze, 1906 GENUS
 
 #### Status
 ACCEPTED

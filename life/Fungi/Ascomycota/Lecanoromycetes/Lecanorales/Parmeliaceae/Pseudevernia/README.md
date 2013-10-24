@@ -1,5 +1,4 @@
-Pseudevernia Zopf GENUS
-=======
+# Pseudevernia Zopf GENUS
 
 #### Status
 ACCEPTED

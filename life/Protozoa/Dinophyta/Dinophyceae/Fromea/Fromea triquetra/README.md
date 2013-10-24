@@ -1,5 +1,4 @@
-Fromea triquetra (Brideaux, 1977) Yun Hyesu, 1981 SPECIES
-=======
+# Fromea triquetra (Brideaux, 1977) Yun Hyesu, 1981 SPECIES
 
 #### Status
 ACCEPTED

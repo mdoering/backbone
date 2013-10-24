@@ -1,5 +1,4 @@
-Naviculopsis eobiapiculata D. Bukry SPECIES
-=======
+# Naviculopsis eobiapiculata D. Bukry SPECIES
 
 #### Status
 ACCEPTED

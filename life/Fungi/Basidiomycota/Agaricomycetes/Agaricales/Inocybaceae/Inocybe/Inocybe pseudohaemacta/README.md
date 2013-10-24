@@ -1,5 +1,4 @@
-Inocybe pseudohaemacta Bon & Courtec. SPECIES
-=======
+# Inocybe pseudohaemacta Bon & Courtec. SPECIES
 
 #### Status
 ACCEPTED

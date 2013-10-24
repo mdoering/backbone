@@ -1,5 +1,4 @@
-Apodinium Chatton, 1907 GENUS
-=======
+# Apodinium Chatton, 1907 GENUS
 
 #### Status
 ACCEPTED

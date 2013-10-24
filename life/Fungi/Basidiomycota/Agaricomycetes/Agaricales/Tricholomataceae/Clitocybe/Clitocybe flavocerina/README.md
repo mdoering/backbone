@@ -1,5 +1,4 @@
-Clitocybe flavocerina Pat. & Gaillard SPECIES
-=======
+# Clitocybe flavocerina Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

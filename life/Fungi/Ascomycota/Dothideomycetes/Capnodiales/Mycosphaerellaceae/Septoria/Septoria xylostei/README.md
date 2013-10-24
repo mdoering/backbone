@@ -1,5 +1,4 @@
-Septoria xylostei Sacc. & G. Winter, 1883 SPECIES
-=======
+# Septoria xylostei Sacc. & G. Winter, 1883 SPECIES
 
 #### Status
 ACCEPTED

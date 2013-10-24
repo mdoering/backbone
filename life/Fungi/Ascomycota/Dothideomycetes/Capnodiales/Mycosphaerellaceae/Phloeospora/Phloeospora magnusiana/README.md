@@ -1,5 +1,4 @@
-Phloeospora magnusiana (Allesch.) Petr. SPECIES
-=======
+# Phloeospora magnusiana (Allesch.) Petr. SPECIES
 
 #### Status
 ACCEPTED

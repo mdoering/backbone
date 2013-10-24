@@ -1,5 +1,4 @@
-Coeloperix eforiana (Tucolesco, 1962) Gong & Song, 2004 SPECIES
-=======
+# Coeloperix eforiana (Tucolesco, 1962) Gong & Song, 2004 SPECIES
 
 #### Status
 ACCEPTED

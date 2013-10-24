@@ -1,5 +1,4 @@
-Scytosiphon simpliccima SPECIES
-=======
+# Scytosiphon simpliccima SPECIES
 
 #### Status
 ACCEPTED

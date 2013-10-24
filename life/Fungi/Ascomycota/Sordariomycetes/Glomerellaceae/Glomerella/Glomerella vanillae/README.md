@@ -1,5 +1,4 @@
-Glomerella vanillae var. vanillae VARIETY
-=======
+# Glomerella vanillae (Stoneman) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. R. bot. Gdns Peradeniya 10(2): 191 (1910)
 
 #### Original name
-Glomerella vanillae var. vanillae
+Gnomoniopsis vanillae Stoneman
 
 ### Remarks
 null

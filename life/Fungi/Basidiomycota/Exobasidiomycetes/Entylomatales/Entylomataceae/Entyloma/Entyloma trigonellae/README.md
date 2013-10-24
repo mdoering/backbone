@@ -1,5 +1,4 @@
-Entyloma trigonellae J.A. Stev. SPECIES
-=======
+# Entyloma trigonellae J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

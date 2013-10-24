@@ -1,5 +1,4 @@
-Siphonia primitiva SPECIES
-=======
+# Siphonia primitiva SPECIES
 
 #### Status
 ACCEPTED

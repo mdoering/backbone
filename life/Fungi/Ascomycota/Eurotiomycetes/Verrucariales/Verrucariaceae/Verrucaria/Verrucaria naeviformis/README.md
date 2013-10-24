@@ -1,5 +1,4 @@
-Verrucaria naeviformis Vain. SPECIES
-=======
+# Verrucaria naeviformis Vain. SPECIES
 
 #### Status
 ACCEPTED

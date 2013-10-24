@@ -1,5 +1,4 @@
-Rickia kawasakii Ishik. SPECIES
-=======
+# Rickia kawasakii Ishik. SPECIES
 
 #### Status
 ACCEPTED

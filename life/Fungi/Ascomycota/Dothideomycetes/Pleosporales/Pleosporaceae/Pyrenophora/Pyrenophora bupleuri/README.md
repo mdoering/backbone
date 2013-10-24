@@ -1,5 +1,4 @@
-Pyrenophora bupleuri Negru SPECIES
-=======
+# Pyrenophora bupleuri Negru SPECIES
 
 #### Status
 ACCEPTED

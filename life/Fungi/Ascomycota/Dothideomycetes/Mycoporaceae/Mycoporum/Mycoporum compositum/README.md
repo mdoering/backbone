@@ -1,5 +1,4 @@
-Mycoporum pycnocarpum var. pycnocarpum VARIETY
-=======
+# Mycoporum compositum (A. Massal.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Egan, Bryologist 90(2): 164 (1987)
 
 #### Original name
-Mycoporum pycnocarpum var. pycnocarpum
+Bottaria composita A. Massal.
 
 ### Remarks
 null

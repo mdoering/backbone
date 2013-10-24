@@ -1,5 +1,4 @@
-Coniothyrium olympicum var. olympicum Allesch. VARIETY
-=======
+# Coniothyrium olympicum Allesch. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniothyrium olympicum var. olympicum Allesch.
+Coniothyrium olympicum Allesch.
 
 ### Remarks
 null

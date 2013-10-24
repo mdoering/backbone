@@ -1,5 +1,4 @@
-Dothiorella tamaricicola M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Dothiorella tamaricicola M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

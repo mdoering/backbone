@@ -1,5 +1,4 @@
-Ramaria heterospora Velen. SPECIES
-=======
+# Ramaria heterospora Velen. SPECIES
 
 #### Status
 ACCEPTED

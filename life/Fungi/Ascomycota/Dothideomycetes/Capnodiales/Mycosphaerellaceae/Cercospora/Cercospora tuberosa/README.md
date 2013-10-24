@@ -1,5 +1,4 @@
-Cercospora tuberosa Ellis & Kellerm. SPECIES
-=======
+# Cercospora tuberosa Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthothelium nucis Müll. Arg. SPECIES
-=======
+# Arthothelium nucis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

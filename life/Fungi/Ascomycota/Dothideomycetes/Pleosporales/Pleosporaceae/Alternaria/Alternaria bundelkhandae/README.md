@@ -1,5 +1,4 @@
-Alternaria bundelkhandae Smita Jain & A.N. Rai SPECIES
-=======
+# Alternaria bundelkhandae Smita Jain & A.N. Rai SPECIES
 
 #### Status
 ACCEPTED

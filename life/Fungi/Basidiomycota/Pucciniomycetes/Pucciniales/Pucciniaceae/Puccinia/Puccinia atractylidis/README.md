@@ -1,5 +1,4 @@
-Puccinia atractylidis P. Syd. & Syd. SPECIES
-=======
+# Puccinia atractylidis P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

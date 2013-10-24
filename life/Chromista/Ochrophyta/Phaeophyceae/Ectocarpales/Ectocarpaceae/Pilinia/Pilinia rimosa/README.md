@@ -1,8 +1,7 @@
-Waerniella lucifuga var. australis A.B. Cribb VARIETY
-=======
+# Pilinia rimosa Kützing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

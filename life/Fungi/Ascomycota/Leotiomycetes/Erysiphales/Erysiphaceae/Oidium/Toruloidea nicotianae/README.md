@@ -1,5 +1,4 @@
-Toruloidea nicotianae (Pezz. & Sacc.) Sumst. SPECIES
-=======
+# Toruloidea nicotianae (Pezz. & Sacc.) Sumst. SPECIES
 
 #### Status
 ACCEPTED

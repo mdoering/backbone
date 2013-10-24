@@ -1,5 +1,4 @@
-Spilosphaerites maculans C. Massal. SPECIES
-=======
+# Spilosphaerites maculans C. Massal. SPECIES
 
 #### Status
 ACCEPTED

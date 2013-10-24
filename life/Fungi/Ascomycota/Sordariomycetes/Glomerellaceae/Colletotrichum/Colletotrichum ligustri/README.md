@@ -1,5 +1,4 @@
-Colletotrichum ligustri Lobik SPECIES
-=======
+# Colletotrichum ligustri Lobik SPECIES
 
 #### Status
 ACCEPTED

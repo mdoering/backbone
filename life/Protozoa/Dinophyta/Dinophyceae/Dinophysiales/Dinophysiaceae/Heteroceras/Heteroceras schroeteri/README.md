@@ -1,5 +1,4 @@
-Heteroceras schroeteri Forti SPECIES
-=======
+# Heteroceras schroeteri Forti SPECIES
 
 #### Status
 ACCEPTED

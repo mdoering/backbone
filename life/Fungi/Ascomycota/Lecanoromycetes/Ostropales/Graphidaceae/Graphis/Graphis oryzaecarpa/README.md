@@ -1,5 +1,4 @@
-Graphis oryzaecarpa Lücking SPECIES
-=======
+# Graphis oryzaecarpa Lücking SPECIES
 
 #### Status
 ACCEPTED

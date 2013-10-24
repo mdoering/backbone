@@ -1,5 +1,4 @@
-Ophiodothella arengae W.H. Hsieh, Chi Y. Chen & Sivan., 1997 SPECIES
-=======
+# Ophiodothella arengae W.H. Hsieh, Chi Y. Chen & Sivan., 1997 SPECIES
 
 #### Status
 ACCEPTED

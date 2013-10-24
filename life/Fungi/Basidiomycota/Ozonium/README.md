@@ -1,5 +1,4 @@
-Ozonium Link, 1809 GENUS
-=======
+# Ozonium Link, 1809 GENUS
 
 #### Status
 ACCEPTED

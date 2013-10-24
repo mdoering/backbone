@@ -1,5 +1,4 @@
-Meliola gymnanthicola var. gymnanthicola VARIETY
-=======
+# Meliola gymnanthicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Illinois Biol. Monogr. (Urbana) 2: 517 (1916)
 
 #### Original name
-Meliola gymnanthicola var. gymnanthicola
+Meliola gymnanthicola F. Stevens
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Septoria darlingtoniae Dearn. & House SPECIES
-=======
+# Septoria darlingtoniae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

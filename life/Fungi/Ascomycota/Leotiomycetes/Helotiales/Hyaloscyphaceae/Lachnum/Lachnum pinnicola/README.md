@@ -1,17 +1,16 @@
-Lachnum pinnicolum Spooner SPECIES
-=======
+# Lachnum pinnicola Spooner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 116: 458 (1987)
 
 #### Original name
-Lachnum pinnicolum Spooner
+Lachnum pinnicola Spooner
 
 ### Remarks
 null

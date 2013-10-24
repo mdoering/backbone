@@ -1,5 +1,4 @@
-Anthostomella obtusispora Penz. & Sacc. SPECIES
-=======
+# Anthostomella obtusispora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

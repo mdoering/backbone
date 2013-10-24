@@ -1,5 +1,4 @@
-Kalmusia utahensis (Ellis & Everh.) Huhndorf & M.E. Barr SPECIES
-=======
+# Kalmusia utahensis (Ellis & Everh.) Huhndorf & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalotrichum medium (Sacc.) S. Hughes, 1958 SPECIES
-=======
+# Cephalotrichum medium (Sacc.) S. Hughes, 1958 SPECIES
 
 #### Status
 ACCEPTED

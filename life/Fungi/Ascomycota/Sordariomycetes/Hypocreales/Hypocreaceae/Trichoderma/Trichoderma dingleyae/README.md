@@ -1,5 +1,4 @@
-Trichoderma dingleyae Samuels & Dodd SPECIES
-=======
+# Trichoderma dingleyae Samuels & Dodd SPECIES
 
 #### Status
 ACCEPTED

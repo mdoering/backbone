@@ -1,5 +1,4 @@
-Discinella minutissima Ramsb. & Garnett, 1914 SPECIES
-=======
+# Discinella minutissima Ramsb. & Garnett, 1914 SPECIES
 
 #### Status
 ACCEPTED

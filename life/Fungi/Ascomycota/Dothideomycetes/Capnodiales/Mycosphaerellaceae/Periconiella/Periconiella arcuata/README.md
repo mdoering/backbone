@@ -1,5 +1,4 @@
-Periconiella arcuata Arzanlou, S.J. Lee & Crous SPECIES
-=======
+# Periconiella arcuata Arzanlou, S.J. Lee & Crous SPECIES
 
 #### Status
 ACCEPTED

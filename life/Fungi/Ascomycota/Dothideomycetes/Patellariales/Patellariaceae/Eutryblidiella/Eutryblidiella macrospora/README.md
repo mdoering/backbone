@@ -1,5 +1,4 @@
-Eutryblidiella macrospora (Bonar & E.K. Cash) Hafellner SPECIES
-=======
+# Eutryblidiella macrospora (Bonar & E.K. Cash) Hafellner SPECIES
 
 #### Status
 ACCEPTED

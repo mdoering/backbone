@@ -1,5 +1,4 @@
-Lecidea phylliscocarpa Nyl. SPECIES
-=======
+# Lecidea phylliscocarpa Nyl. SPECIES
 
 #### Status
 ACCEPTED

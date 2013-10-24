@@ -1,5 +1,4 @@
-Asterina homaliicola S. Hughes SPECIES
-=======
+# Asterina homaliicola S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula fulva (Kunze & J.C. Schmidt) Corda SPECIES
-=======
+# Torula fulva (Kunze & J.C. Schmidt) Corda SPECIES
 
 #### Status
 ACCEPTED

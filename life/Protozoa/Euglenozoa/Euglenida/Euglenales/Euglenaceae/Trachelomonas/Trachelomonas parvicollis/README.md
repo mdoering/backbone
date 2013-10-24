@@ -1,5 +1,4 @@
-Trachelomonas parvicollis Deflandre SPECIES
-=======
+# Trachelomonas parvicollis Deflandre SPECIES
 
 #### Status
 ACCEPTED

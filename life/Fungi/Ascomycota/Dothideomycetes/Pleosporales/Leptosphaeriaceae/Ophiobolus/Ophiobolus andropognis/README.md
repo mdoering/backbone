@@ -1,5 +1,4 @@
-Ophiobolus andropognis Ellis & Everh. SPECIES
-=======
+# Ophiobolus andropognis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

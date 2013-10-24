@@ -1,5 +1,4 @@
-Dictyota acuminata Kützing SPECIES
-=======
+# Dictyota acuminata Kützing SPECIES
 
 #### Status
 ACCEPTED

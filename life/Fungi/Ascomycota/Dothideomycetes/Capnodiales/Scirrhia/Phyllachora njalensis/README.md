@@ -1,5 +1,4 @@
-Phyllachora njalensis P.F. Cannon, 1991 SPECIES
-=======
+# Phyllachora njalensis P.F. Cannon, 1991 SPECIES
 
 #### Status
 DOUBTFUL

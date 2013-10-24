@@ -1,5 +1,4 @@
-Adea canariensis Petr. SPECIES
-=======
+# Adea canariensis Petr. SPECIES
 
 #### Status
 ACCEPTED

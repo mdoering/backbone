@@ -1,5 +1,4 @@
-Stigmatea polygonorum Fr. SPECIES
-=======
+# Stigmatea polygonorum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium pleosporoides Speg. SPECIES
-=======
+# Sclerotium pleosporoides Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophila K.D. Hyde & E.B.G. Jones GENUS
-=======
+# Rhizophila K.D. Hyde & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

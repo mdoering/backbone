@@ -1,5 +1,4 @@
-Cononellopsis americana Kofoid & Campbell SPECIES
-=======
+# Cononellopsis americana Kofoid & Campbell SPECIES
 
 #### Status
 ACCEPTED

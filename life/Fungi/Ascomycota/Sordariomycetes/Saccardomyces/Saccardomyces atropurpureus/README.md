@@ -1,5 +1,4 @@
-Saccardomyces atropurpureus Hansf. SPECIES
-=======
+# Saccardomyces atropurpureus Hansf. SPECIES
 
 #### Status
 ACCEPTED

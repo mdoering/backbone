@@ -1,5 +1,4 @@
-Inocybe glutinosifibrillosa Takah. Kobay. SPECIES
-=======
+# Inocybe glutinosifibrillosa Takah. Kobay. SPECIES
 
 #### Status
 ACCEPTED

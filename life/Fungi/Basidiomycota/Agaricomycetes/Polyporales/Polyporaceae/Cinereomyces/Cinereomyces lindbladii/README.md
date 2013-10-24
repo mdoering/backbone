@@ -1,17 +1,16 @@
-Poria cinerascens (Bres.) Sacc. & P. Syd. SPECIES
-=======
+# Cinereomyces lindbladii (Berk.) Jülich, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 85: 400 (1982)
 
 #### Original name
-Polyporus cinerascens Velen., 1922
+Polyporus lindbladii Berk., 1872
 
 ### Remarks
 null

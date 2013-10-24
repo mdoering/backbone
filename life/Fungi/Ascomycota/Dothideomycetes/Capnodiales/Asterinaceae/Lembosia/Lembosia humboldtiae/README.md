@@ -1,5 +1,4 @@
-Lembosia humboldtiae Hosag. & T.K. Abraham SPECIES
-=======
+# Lembosia humboldtiae Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

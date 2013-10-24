@@ -1,5 +1,4 @@
-Pyricularia vandalurensis Subram. & Vittal SPECIES
-=======
+# Pyricularia vandalurensis Subram. & Vittal SPECIES
 
 #### Status
 ACCEPTED

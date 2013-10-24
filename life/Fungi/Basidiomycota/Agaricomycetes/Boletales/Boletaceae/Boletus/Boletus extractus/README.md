@@ -1,5 +1,4 @@
-Boletus extractus Britzelm. SPECIES
-=======
+# Boletus extractus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

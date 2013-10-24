@@ -1,5 +1,4 @@
-Clathrus mexicanus Juv. García & A. López SPECIES
-=======
+# Clathrus mexicanus Juv. García & A. López SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria eremuri (Ohlert) Kalymb. SPECIES
-=======
+# Septoria eremuri (Ohlert) Kalymb. SPECIES
 
 #### Status
 ACCEPTED

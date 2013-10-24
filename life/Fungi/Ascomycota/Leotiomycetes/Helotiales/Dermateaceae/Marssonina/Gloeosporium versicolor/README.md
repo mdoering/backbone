@@ -1,5 +1,4 @@
-Gloeosporium versicolor Berk. & M.A. Curtis SPECIES
-=======
+# Gloeosporium versicolor Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

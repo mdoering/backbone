@@ -1,5 +1,4 @@
-Tremella purpurea Pers. SPECIES
-=======
+# Tremella purpurea Pers. SPECIES
 
 #### Status
 ACCEPTED

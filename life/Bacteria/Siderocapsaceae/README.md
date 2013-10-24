@@ -1,5 +1,4 @@
-Siderocapsaceae FAMILY
-=======
+# Siderocapsaceae FAMILY
 
 #### Status
 ACCEPTED

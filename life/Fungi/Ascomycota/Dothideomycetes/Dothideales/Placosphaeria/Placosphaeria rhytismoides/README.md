@@ -1,5 +1,4 @@
-Placosphaeria rhytismoides Allesch. SPECIES
-=======
+# Placosphaeria rhytismoides Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia plombii B. de Lesd. SPECIES
-=======
+# Cladonia plombii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

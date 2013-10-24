@@ -1,5 +1,4 @@
-Staurothele amphiboloides (Nyl.) Zahlbr. SPECIES
-=======
+# Staurothele amphiboloides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

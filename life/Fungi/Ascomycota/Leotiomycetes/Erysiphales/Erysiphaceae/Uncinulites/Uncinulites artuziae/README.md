@@ -1,5 +1,4 @@
-Uncinulites artuziae V.S. Ediger & Alisan SPECIES
-=======
+# Uncinulites artuziae V.S. Ediger & Alisan SPECIES
 
 #### Status
 ACCEPTED

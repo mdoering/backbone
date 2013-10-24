@@ -1,5 +1,4 @@
-Calodon variicolor Quél. SPECIES
-=======
+# Calodon variicolor Quél. SPECIES
 
 #### Status
 ACCEPTED

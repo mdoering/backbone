@@ -1,14 +1,13 @@
-Peckiella hyalina (Schwein.) Sacc., 1891 SPECIES
-=======
+# Hypomyces hyalinus (Schwein.) Tul. & C. Tul., 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 9: 945 (1891)
+Annls Sci. Nat. , Bot. , sér. 4 13: 11 (1860)
 
 #### Original name
 Sphaeria hyalina Schwein., 1822

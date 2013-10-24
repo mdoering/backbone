@@ -1,5 +1,4 @@
-Styloviridae FAMILY
-=======
+# Styloviridae FAMILY
 
 #### Status
 ACCEPTED

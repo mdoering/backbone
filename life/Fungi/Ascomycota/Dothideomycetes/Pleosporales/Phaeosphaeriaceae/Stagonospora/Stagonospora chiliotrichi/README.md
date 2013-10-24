@@ -1,5 +1,4 @@
-Stagonospora chiliotrichi Speg. SPECIES
-=======
+# Stagonospora chiliotrichi Speg. SPECIES
 
 #### Status
 ACCEPTED

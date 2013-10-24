@@ -1,5 +1,4 @@
-Inonotus pruinosus Bondartsev SPECIES
-=======
+# Inonotus pruinosus Bondartsev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus corticatus Killerm. SPECIES
-=======
+# Boletus corticatus Killerm. SPECIES
 
 #### Status
 ACCEPTED

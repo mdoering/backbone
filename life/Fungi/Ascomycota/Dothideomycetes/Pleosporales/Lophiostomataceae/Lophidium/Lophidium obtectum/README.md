@@ -1,5 +1,4 @@
-Lophidium obtectum (Peck) Sacc. SPECIES
-=======
+# Lophidium obtectum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

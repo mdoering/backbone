@@ -1,5 +1,4 @@
-Dicaeoma laschii Kuntze SPECIES
-=======
+# Dicaeoma laschii Kuntze SPECIES
 
 #### Status
 ACCEPTED

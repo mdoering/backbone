@@ -1,5 +1,4 @@
-Uredo nanpingensis B. Li SPECIES
-=======
+# Uredo nanpingensis B. Li SPECIES
 
 #### Status
 ACCEPTED

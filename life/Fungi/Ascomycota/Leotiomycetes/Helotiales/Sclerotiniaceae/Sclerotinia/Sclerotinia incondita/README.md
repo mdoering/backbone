@@ -1,5 +1,4 @@
-Sclerotinia incondita Ellis SPECIES
-=======
+# Sclerotinia incondita Ellis SPECIES
 
 #### Status
 ACCEPTED

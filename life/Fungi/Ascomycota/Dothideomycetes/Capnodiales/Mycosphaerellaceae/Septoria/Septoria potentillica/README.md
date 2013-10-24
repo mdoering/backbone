@@ -1,5 +1,4 @@
-Septoria potentillica Thüm. SPECIES
-=======
+# Septoria potentillica Thüm. SPECIES
 
 #### Status
 ACCEPTED

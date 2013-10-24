@@ -1,5 +1,4 @@
-Dimorphomyces acutus K. Sugiy. & T. Majewski SPECIES
-=======
+# Dimorphomyces acutus K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

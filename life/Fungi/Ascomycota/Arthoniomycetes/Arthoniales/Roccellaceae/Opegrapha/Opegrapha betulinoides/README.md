@@ -1,5 +1,4 @@
-Opegrapha betulinoides B. de Lesd. SPECIES
-=======
+# Opegrapha betulinoides B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

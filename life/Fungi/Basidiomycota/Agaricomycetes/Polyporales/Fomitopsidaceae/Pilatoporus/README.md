@@ -1,5 +1,4 @@
-Pilatoporus GENUS
-=======
+# Pilatoporus GENUS
 
 #### Status
 ACCEPTED

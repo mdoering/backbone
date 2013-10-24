@@ -1,5 +1,4 @@
-Parapeltella erythroxyli Bat. SPECIES
-=======
+# Parapeltella erythroxyli Bat. SPECIES
 
 #### Status
 ACCEPTED

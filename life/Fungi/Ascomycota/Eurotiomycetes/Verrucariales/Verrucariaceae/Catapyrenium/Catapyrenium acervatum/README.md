@@ -1,5 +1,4 @@
-Catapyrenium acervatum Breuss SPECIES
-=======
+# Catapyrenium acervatum Breuss SPECIES
 
 #### Status
 ACCEPTED

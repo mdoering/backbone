@@ -1,5 +1,4 @@
-Trichodina comosa Ehrenberg, 1830 SPECIES
-=======
+# Trichodina comosa Ehrenberg, 1830 SPECIES
 
 #### Status
 ACCEPTED

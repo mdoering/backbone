@@ -1,5 +1,4 @@
-Mycoplasma testudineum Brown et al., 2004 SPECIES
-=======
+# Mycoplasma testudineum Brown et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

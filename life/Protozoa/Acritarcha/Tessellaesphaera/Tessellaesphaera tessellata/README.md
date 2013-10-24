@@ -1,5 +1,4 @@
-Tessellaesphaera tessellata Foster, 1979 SPECIES
-=======
+# Tessellaesphaera tessellata Foster, 1979 SPECIES
 
 #### Status
 ACCEPTED

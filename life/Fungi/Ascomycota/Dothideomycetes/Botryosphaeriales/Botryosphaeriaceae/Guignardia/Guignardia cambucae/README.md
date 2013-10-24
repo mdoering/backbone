@@ -1,5 +1,4 @@
-Guignardia cambucae (Rangel) Sacc. SPECIES
-=======
+# Guignardia cambucae (Rangel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

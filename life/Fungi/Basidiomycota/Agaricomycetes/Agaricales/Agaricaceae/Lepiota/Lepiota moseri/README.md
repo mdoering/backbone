@@ -1,5 +1,4 @@
-Lepiota moseri Wasser SPECIES
-=======
+# Lepiota moseri Wasser SPECIES
 
 #### Status
 ACCEPTED

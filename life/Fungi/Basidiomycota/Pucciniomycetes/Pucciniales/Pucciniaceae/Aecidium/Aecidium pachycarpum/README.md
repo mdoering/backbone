@@ -1,5 +1,4 @@
-Aecidium pachycarpum Syd. & P. Syd. SPECIES
-=======
+# Aecidium pachycarpum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

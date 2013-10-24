@@ -1,5 +1,4 @@
-Discula gloeosporioides (Sacc. & Roum.) Höhn. SPECIES
-=======
+# Discula gloeosporioides (Sacc. & Roum.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

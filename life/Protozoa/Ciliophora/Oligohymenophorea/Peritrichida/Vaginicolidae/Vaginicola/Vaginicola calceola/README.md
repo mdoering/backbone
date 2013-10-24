@@ -1,5 +1,4 @@
-Vaginicola calceola Dumas, 1937 SPECIES
-=======
+# Vaginicola calceola Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

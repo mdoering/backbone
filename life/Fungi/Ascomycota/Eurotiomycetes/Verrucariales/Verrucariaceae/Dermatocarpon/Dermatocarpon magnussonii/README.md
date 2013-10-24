@@ -1,8 +1,7 @@
-Dermatocarpon magnussoni Werner SPECIES
-=======
+# Dermatocarpon magnussonii Werner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dermatocarpon magnussoni Werner
+Dermatocarpon magnussonii Werner
 
 ### Remarks
 null

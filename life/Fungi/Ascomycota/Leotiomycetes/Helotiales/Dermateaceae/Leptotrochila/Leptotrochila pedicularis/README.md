@@ -1,5 +1,4 @@
-Leptotrochila pedicularis (E. Müll. & Schüepp) Schüepp SPECIES
-=======
+# Leptotrochila pedicularis (E. Müll. & Schüepp) Schüepp SPECIES
 
 #### Status
 ACCEPTED

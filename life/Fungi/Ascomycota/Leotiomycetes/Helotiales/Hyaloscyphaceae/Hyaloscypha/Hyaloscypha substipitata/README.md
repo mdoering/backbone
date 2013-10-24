@@ -1,5 +1,4 @@
-Hyaloscypha substipitata Velen. SPECIES
-=======
+# Hyaloscypha substipitata Velen. SPECIES
 
 #### Status
 ACCEPTED

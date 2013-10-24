@@ -1,5 +1,4 @@
-Sphacelotheca chudaei Har. & Pat. SPECIES
-=======
+# Sphacelotheca chudaei Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

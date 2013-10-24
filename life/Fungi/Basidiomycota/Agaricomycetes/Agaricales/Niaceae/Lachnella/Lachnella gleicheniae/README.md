@@ -1,5 +1,4 @@
-Lachnella gleicheniae (E.K. Cash) Seaver SPECIES
-=======
+# Lachnella gleicheniae (E.K. Cash) Seaver SPECIES
 
 #### Status
 ACCEPTED

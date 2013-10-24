@@ -1,5 +1,4 @@
-Coleosporium durangense Cummins SPECIES
-=======
+# Coleosporium durangense Cummins SPECIES
 
 #### Status
 ACCEPTED

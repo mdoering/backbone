@@ -1,5 +1,4 @@
-Tricharia plana Vezda, 1979 SPECIES
-=======
+# Tricharia plana Vezda, 1979 SPECIES
 
 #### Status
 DOUBTFUL

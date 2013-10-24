@@ -1,5 +1,4 @@
-Verrucaria auruntii A. Massal. SPECIES
-=======
+# Verrucaria auruntii A. Massal. SPECIES
 
 #### Status
 ACCEPTED

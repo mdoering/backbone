@@ -1,5 +1,4 @@
-Corticium rosae Burt SPECIES
-=======
+# Corticium rosae Burt SPECIES
 
 #### Status
 ACCEPTED

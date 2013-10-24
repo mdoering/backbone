@@ -1,5 +1,4 @@
-Cortinarius flavovelus (Grgur.) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius flavovelus (Grgur.) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

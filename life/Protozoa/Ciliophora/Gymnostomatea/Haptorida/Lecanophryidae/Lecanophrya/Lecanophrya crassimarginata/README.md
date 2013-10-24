@@ -1,5 +1,4 @@
-Lecanophrya crassimarginata Kahl, 1934 SPECIES
-=======
+# Lecanophrya crassimarginata Kahl, 1934 SPECIES
 
 #### Status
 ACCEPTED

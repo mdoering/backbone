@@ -1,5 +1,4 @@
-Bodo fusiformis SPECIES
-=======
+# Bodo fusiformis SPECIES
 
 #### Status
 ACCEPTED

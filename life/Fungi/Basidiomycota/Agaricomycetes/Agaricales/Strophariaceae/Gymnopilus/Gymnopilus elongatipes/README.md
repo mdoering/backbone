@@ -1,5 +1,4 @@
-Gymnopilus elongatipes Z.S. Bi SPECIES
-=======
+# Gymnopilus elongatipes Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

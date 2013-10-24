@@ -1,5 +1,4 @@
-Thelotrema fauriei Zahlbr. SPECIES
-=======
+# Thelotrema fauriei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

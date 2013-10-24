@@ -1,5 +1,4 @@
-Palaeopede D.E. Ether. GENUS
-=======
+# Palaeopede D.E. Ether. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hueidea Kantvilas & P.M. McCarthy GENUS
-=======
+# Hueidea Kantvilas & P.M. McCarthy GENUS
 
 #### Status
 ACCEPTED

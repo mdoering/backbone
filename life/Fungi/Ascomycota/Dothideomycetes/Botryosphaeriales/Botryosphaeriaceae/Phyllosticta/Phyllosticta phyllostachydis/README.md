@@ -1,5 +1,4 @@
-Phyllosticta phyllostachydis Hara SPECIES
-=======
+# Phyllosticta phyllostachydis Hara SPECIES
 
 #### Status
 ACCEPTED

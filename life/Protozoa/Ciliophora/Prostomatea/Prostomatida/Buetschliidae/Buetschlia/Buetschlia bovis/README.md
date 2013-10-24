@@ -1,5 +1,4 @@
-Buetschlia bovis SPECIES
-=======
+# Buetschlia bovis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola holarrhenicola Deighton SPECIES
-=======
+# Meliola holarrhenicola Deighton SPECIES
 
 #### Status
 ACCEPTED

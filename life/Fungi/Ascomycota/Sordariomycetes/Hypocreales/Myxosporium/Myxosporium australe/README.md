@@ -1,5 +1,4 @@
-Myxosporium australe Speg. SPECIES
-=======
+# Myxosporium australe Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus roseipes Höhn. SPECIES
-=======
+# Pluteus roseipes Höhn. SPECIES
 
 #### Status
 ACCEPTED

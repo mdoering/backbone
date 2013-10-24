@@ -1,5 +1,4 @@
-Cantharomyces japonicus Sugiy. SPECIES
-=======
+# Cantharomyces japonicus Sugiy. SPECIES
 
 #### Status
 ACCEPTED

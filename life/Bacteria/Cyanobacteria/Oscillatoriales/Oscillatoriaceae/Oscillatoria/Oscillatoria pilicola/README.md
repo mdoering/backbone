@@ -1,5 +1,4 @@
-Oscillatoria pilicola D. E. Wujek & T. Lincoln SPECIES
-=======
+# Oscillatoria pilicola D. E. Wujek & T. Lincoln SPECIES
 
 #### Status
 ACCEPTED

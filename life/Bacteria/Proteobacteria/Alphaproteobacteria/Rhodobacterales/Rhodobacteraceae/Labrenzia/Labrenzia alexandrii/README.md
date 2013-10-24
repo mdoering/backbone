@@ -1,5 +1,4 @@
-Labrenzia alexandrii Biebl, Pukall, Lunsdorf, Schulz, Allgaier, Tindall & Wagner-Dobler, 2007 SPECIES
-=======
+# Labrenzia alexandrii Biebl, Pukall, Lunsdorf, Schulz, Allgaier, Tindall & Wagner-Dobler, 2007 SPECIES
 
 #### Status
 ACCEPTED

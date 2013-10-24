@@ -1,5 +1,4 @@
-Ascochyta sarmenticia Sacc. SPECIES
-=======
+# Ascochyta sarmenticia Sacc. SPECIES
 
 #### Status
 ACCEPTED

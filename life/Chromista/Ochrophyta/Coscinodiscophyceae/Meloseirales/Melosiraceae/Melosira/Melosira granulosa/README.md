@@ -1,5 +1,4 @@
-Melosira granulosa O. Müller SPECIES
-=======
+# Melosira granulosa O. Müller SPECIES
 
 #### Status
 ACCEPTED

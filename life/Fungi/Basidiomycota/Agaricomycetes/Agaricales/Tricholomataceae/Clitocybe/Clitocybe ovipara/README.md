@@ -1,5 +1,4 @@
-Clitocybe ovipara Fr. SPECIES
-=======
+# Clitocybe ovipara Fr. SPECIES
 
 #### Status
 ACCEPTED

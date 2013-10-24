@@ -1,5 +1,4 @@
-Coscinodiscus hajosiae J. Fenner SPECIES
-=======
+# Coscinodiscus hajosiae J. Fenner SPECIES
 
 #### Status
 ACCEPTED

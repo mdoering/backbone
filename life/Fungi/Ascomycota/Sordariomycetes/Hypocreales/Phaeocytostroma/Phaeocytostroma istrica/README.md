@@ -1,5 +1,4 @@
-Phaeocytostroma istrica Petr., 1921 SPECIES
-=======
+# Phaeocytostroma istrica Petr., 1921 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora herniariae Fuckel SPECIES
-=======
+# Pleospora herniariae Fuckel SPECIES
 
 #### Status
 ACCEPTED

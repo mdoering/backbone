@@ -1,5 +1,4 @@
-Metasphaeria salviae (Rehm) Höhn. SPECIES
-=======
+# Metasphaeria salviae (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

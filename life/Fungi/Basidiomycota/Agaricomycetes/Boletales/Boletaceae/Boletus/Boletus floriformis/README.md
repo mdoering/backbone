@@ -1,5 +1,4 @@
-Boletus floriformis Pers. SPECIES
-=======
+# Boletus floriformis Pers. SPECIES
 
 #### Status
 ACCEPTED

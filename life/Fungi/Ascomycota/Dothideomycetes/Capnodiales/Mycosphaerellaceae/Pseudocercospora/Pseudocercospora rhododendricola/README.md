@@ -1,5 +1,4 @@
-Pseudocercospora rhododendricola (J.M. Yen) Deighton SPECIES
-=======
+# Pseudocercospora rhododendricola (J.M. Yen) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Curvularia affinis Boedijn, 1933 SPECIES
-=======
+# Curvularia affinis Boedijn, 1933 SPECIES
 
 #### Status
 ACCEPTED

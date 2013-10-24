@@ -1,8 +1,7 @@
-Angulogerina fornasinii Selli, 1948 SPECIES
-=======
+# Trifarina fornasinii (Selli, 1948) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

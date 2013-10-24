@@ -1,5 +1,4 @@
-Meliola laevipoda Speg. SPECIES
-=======
+# Meliola laevipoda Speg. SPECIES
 
 #### Status
 ACCEPTED

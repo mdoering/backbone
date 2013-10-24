@@ -1,5 +1,4 @@
-Laboulbenia cantabrica Santam. SPECIES
-=======
+# Laboulbenia cantabrica Santam. SPECIES
 
 #### Status
 ACCEPTED

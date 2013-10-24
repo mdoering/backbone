@@ -1,5 +1,4 @@
-Lactarius porninsis Rolland, 1889 SPECIES
-=======
+# Lactarius porninsis Rolland, 1889 SPECIES
 
 #### Status
 ACCEPTED

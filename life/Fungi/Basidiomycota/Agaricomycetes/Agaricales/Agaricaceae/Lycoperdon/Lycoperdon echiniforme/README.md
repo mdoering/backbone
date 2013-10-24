@@ -1,5 +1,4 @@
-Lycoperdon echiniforme Sowerby SPECIES
-=======
+# Lycoperdon echiniforme Sowerby SPECIES
 
 #### Status
 ACCEPTED

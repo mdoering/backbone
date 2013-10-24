@@ -1,5 +1,4 @@
-Grubyella aurea Ashford SPECIES
-=======
+# Grubyella aurea Ashford SPECIES
 
 #### Status
 ACCEPTED

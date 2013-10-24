@@ -1,5 +1,4 @@
-Fusicoccum sorbi Tschern. SPECIES
-=======
+# Fusicoccum sorbi Tschern. SPECIES
 
 #### Status
 ACCEPTED

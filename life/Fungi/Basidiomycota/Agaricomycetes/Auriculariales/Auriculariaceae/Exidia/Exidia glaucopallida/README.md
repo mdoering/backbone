@@ -1,5 +1,4 @@
-Exidia glaucopallida P. Karst. SPECIES
-=======
+# Exidia glaucopallida P. Karst. SPECIES
 
 #### Status
 ACCEPTED

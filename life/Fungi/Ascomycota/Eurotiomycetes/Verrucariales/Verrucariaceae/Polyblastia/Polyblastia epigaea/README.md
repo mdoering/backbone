@@ -1,5 +1,4 @@
-Polyblastia epigaea A. Massal. SPECIES
-=======
+# Polyblastia epigaea A. Massal. SPECIES
 
 #### Status
 ACCEPTED

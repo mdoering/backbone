@@ -1,5 +1,4 @@
-Coenogonium afrum A. Massal. SPECIES
-=======
+# Coenogonium afrum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

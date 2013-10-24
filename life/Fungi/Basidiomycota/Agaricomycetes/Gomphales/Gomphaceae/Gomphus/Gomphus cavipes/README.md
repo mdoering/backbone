@@ -1,5 +1,4 @@
-Gomphus cavipes Corner SPECIES
-=======
+# Gomphus cavipes Corner SPECIES
 
 #### Status
 ACCEPTED

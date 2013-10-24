@@ -1,5 +1,4 @@
-Asterolampra centraster (C. Johnston) D. Hernández-Becerril SPECIES
-=======
+# Asterolampra centraster (C. Johnston) D. Hernández-Becerril SPECIES
 
 #### Status
 ACCEPTED

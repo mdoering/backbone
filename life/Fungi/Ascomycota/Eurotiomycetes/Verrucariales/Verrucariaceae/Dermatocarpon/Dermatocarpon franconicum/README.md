@@ -1,5 +1,4 @@
-Dermatocarpon franconicum (Servít) Servít SPECIES
-=======
+# Dermatocarpon franconicum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

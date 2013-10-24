@@ -1,5 +1,4 @@
-Corynophrya campanula Kahl, 1934 SPECIES
-=======
+# Corynophrya campanula Kahl, 1934 SPECIES
 
 #### Status
 ACCEPTED

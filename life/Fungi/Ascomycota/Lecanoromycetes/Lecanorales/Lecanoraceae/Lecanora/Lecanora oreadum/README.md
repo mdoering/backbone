@@ -1,5 +1,4 @@
-Lecanora oreadum Stizenb. SPECIES
-=======
+# Lecanora oreadum Stizenb. SPECIES
 
 #### Status
 ACCEPTED

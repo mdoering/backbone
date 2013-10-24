@@ -1,5 +1,4 @@
-Dacrymyces applanatus Kobayasi SPECIES
-=======
+# Dacrymyces applanatus Kobayasi SPECIES
 
 #### Status
 ACCEPTED

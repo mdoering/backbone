@@ -1,5 +1,4 @@
-Junghuhnia conchiformis X.L. Zeng & Ryvarden SPECIES
-=======
+# Junghuhnia conchiformis X.L. Zeng & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

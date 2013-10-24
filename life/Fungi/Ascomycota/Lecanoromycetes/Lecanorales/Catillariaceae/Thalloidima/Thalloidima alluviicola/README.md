@@ -1,8 +1,7 @@
-Thalloidima alluviicolum (M. Choisy) M. Choisy SPECIES
-=======
+# Thalloidima alluviicola (M. Choisy) M. Choisy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

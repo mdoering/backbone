@@ -1,5 +1,4 @@
-Polycauliona coralligera Hue SPECIES
-=======
+# Polycauliona coralligera Hue SPECIES
 
 #### Status
 ACCEPTED

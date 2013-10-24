@@ -1,8 +1,7 @@
-Ploesconia affinis Dujardin, 1841 SPECIES
-=======
+# Euplotopsis affinis (Dujardin, 1841) Borror & Hill, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

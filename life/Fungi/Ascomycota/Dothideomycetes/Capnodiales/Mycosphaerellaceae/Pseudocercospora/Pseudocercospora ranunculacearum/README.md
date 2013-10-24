@@ -1,5 +1,4 @@
-Pseudocercospora ranunculacearum C. Gupta, Abbasi & Kamal SPECIES
-=======
+# Pseudocercospora ranunculacearum C. Gupta, Abbasi & Kamal SPECIES
 
 #### Status
 ACCEPTED

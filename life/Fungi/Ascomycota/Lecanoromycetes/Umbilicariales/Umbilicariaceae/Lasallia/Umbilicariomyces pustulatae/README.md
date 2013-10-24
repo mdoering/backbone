@@ -1,5 +1,4 @@
-Umbilicariomyces pustulatae Cif. & Tomas. SPECIES
-=======
+# Umbilicariomyces pustulatae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

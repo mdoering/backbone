@@ -1,5 +1,4 @@
-Polymorpha Soldani, 1791 GENUS
-=======
+# Polymorpha Soldani, 1791 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena madecassensis (R. Heim) Métrod SPECIES
-=======
+# Mycena madecassensis (R. Heim) Métrod SPECIES
 
 #### Status
 ACCEPTED

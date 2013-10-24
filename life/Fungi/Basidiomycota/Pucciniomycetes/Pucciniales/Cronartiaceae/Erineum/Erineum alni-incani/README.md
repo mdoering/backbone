@@ -1,5 +1,4 @@
-Erineum alni-incani Pers. SPECIES
-=======
+# Erineum alni-incani Pers. SPECIES
 
 #### Status
 ACCEPTED

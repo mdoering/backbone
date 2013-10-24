@@ -1,5 +1,4 @@
-Diplodia celottiana Sacc. SPECIES
-=======
+# Diplodia celottiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

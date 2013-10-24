@@ -1,17 +1,16 @@
-Peziza membranacea subsp. membranacea SUBSPECIES
-=======
+# Peziza membranacea Schumach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 427 (1803)
 
 #### Original name
-null
+Peziza membranacea Schumach.
 
 ### Remarks
 null

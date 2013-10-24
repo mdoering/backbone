@@ -1,5 +1,4 @@
-Desulfitobacterium hafniense Christiansen & Ahring, 1996 SPECIES
-=======
+# Desulfitobacterium hafniense Christiansen & Ahring, 1996 SPECIES
 
 #### Status
 ACCEPTED

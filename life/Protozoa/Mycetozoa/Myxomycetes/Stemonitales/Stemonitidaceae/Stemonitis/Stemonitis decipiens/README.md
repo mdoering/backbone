@@ -1,5 +1,4 @@
-Stemonitis decipiens Nees SPECIES
-=======
+# Stemonitis decipiens Nees SPECIES
 
 #### Status
 ACCEPTED

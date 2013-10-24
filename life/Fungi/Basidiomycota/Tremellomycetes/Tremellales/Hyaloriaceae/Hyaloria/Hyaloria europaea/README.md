@@ -1,5 +1,4 @@
-Hyaloria europaea Killerm., 1936 SPECIES
-=======
+# Hyaloria europaea Killerm., 1936 SPECIES
 
 #### Status
 ACCEPTED

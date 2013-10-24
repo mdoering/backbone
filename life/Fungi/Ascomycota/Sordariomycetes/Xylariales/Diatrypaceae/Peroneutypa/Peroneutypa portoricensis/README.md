@@ -1,5 +1,4 @@
-Peroneutypa portoricensis Petr. SPECIES
-=======
+# Peroneutypa portoricensis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus cellulosus Schumach. SPECIES
-=======
+# Agaricus cellulosus Schumach. SPECIES
 
 #### Status
 ACCEPTED

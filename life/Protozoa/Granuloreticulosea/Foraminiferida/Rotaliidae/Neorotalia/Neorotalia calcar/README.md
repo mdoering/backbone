@@ -1,8 +1,7 @@
-Pararotalia calcar (d'Orbigny, 1839) SPECIES
-=======
+# Neorotalia calcar (d'Orbigny, 1839) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Phyllosticta gueldenstaedtiae Murashk. SPECIES
-=======
+# Phyllosticta gueldenstaedtiae Murashk. SPECIES
 
 #### Status
 ACCEPTED

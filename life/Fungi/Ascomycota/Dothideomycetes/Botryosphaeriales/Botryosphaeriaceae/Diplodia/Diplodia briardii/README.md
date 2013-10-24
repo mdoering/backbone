@@ -1,5 +1,4 @@
-Diplodia briardii Sacc. SPECIES
-=======
+# Diplodia briardii Sacc. SPECIES
 
 #### Status
 ACCEPTED

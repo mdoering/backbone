@@ -1,5 +1,4 @@
-Crocynia haematina SPECIES
-=======
+# Crocynia haematina SPECIES
 
 #### Status
 ACCEPTED

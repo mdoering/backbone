@@ -1,5 +1,4 @@
-Dactylellina formosana (J.Y. Liou, G.Y. Liou & Tzean) M. Scholler, Hagedorn & A. Rubner SPECIES
-=======
+# Dactylellina formosana (J.Y. Liou, G.Y. Liou & Tzean) M. Scholler, Hagedorn & A. Rubner SPECIES
 
 #### Status
 ACCEPTED

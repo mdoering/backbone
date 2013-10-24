@@ -1,5 +1,4 @@
-Cribrolinoides namboensis Nguyen Ngoc, 2006 SPECIES
-=======
+# Cribrolinoides namboensis Nguyen Ngoc, 2006 SPECIES
 
 #### Status
 ACCEPTED

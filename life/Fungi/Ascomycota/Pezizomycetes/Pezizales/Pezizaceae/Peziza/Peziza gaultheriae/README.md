@@ -1,5 +1,4 @@
-Peziza gaultheriae Ellis & Everh. SPECIES
-=======
+# Peziza gaultheriae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

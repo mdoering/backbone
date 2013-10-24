@@ -1,5 +1,4 @@
-Agaricus xanthodermoides Murrill SPECIES
-=======
+# Agaricus xanthodermoides Murrill SPECIES
 
 #### Status
 ACCEPTED

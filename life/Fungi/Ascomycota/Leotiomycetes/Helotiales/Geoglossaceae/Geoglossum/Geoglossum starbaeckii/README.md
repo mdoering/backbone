@@ -1,5 +1,4 @@
-Geoglossum starbaeckii Nannf., 1942 SPECIES
-=======
+# Geoglossum starbaeckii Nannf., 1942 SPECIES
 
 #### Status
 ACCEPTED

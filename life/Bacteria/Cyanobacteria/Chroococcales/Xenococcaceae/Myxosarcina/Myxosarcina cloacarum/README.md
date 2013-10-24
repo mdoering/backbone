@@ -1,5 +1,4 @@
-Myxosarcina cloacarum Saxena et al. SPECIES
-=======
+# Myxosarcina cloacarum Saxena et al. SPECIES
 
 #### Status
 ACCEPTED

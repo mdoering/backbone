@@ -1,5 +1,4 @@
-Blennothrix confluens (Setchell & Gardner) I. Umezaki SPECIES
-=======
+# Blennothrix confluens (Setchell & Gardner) I. Umezaki SPECIES
 
 #### Status
 ACCEPTED

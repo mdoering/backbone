@@ -1,5 +1,4 @@
-Cercospora acanthacearum Govindu & Thirum. SPECIES
-=======
+# Cercospora acanthacearum Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

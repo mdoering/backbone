@@ -1,5 +1,4 @@
-Polycoccum crassum Vezda SPECIES
-=======
+# Polycoccum crassum Vezda SPECIES
 
 #### Status
 ACCEPTED

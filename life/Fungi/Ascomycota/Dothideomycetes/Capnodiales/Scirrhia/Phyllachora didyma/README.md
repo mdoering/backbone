@@ -1,5 +1,4 @@
-Phyllachora didyma Niessl, 1876 SPECIES
-=======
+# Phyllachora didyma Niessl, 1876 SPECIES
 
 #### Status
 DOUBTFUL

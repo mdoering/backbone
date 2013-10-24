@@ -1,5 +1,4 @@
-Nostoc spongiaeforme (C. Agardh) Bornet & Flahault SPECIES
-=======
+# Nostoc spongiaeforme (C. Agardh) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

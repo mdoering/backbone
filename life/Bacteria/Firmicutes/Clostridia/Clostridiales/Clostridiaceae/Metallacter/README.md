@@ -1,5 +1,4 @@
-Metallacter GENUS
-=======
+# Metallacter GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biscogniauxia citriformis var. citriformis VARIETY
-=======
+# Biscogniauxia citriformis (Whalley, Hammelev & Talig.) Van der Gucht & Whalley, 1992 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 96(10): 895 (1992)
+null
 
 #### Original name
-Biscogniauxia citriformis var. citriformis
+null
 
 ### Remarks
 null

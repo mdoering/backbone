@@ -1,5 +1,4 @@
-Gymnosporangium hemisphaericum Hara, 1917 SPECIES
-=======
+# Gymnosporangium hemisphaericum Hara, 1917 SPECIES
 
 #### Status
 ACCEPTED

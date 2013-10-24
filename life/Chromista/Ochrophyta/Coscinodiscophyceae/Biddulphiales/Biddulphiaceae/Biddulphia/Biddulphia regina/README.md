@@ -1,5 +1,4 @@
-Biddulphia regina W. Smith SPECIES
-=======
+# Biddulphia regina W. Smith SPECIES
 
 #### Status
 ACCEPTED

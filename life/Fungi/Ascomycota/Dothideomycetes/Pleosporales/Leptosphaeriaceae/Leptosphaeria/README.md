@@ -1,17 +1,16 @@
-Phaeoderris subgen. Saccardo von Höhnel, 1907 GENUS
-=======
+# Leptosphaeria Ces. & De Not. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Comm. Soc. crittog. Ital. 1(4): 234 (1863)
 
 #### Original name
-null
+Leptosphaeria Ces. & De Not.
 
 ### Remarks
 null

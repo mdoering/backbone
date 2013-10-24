@@ -1,5 +1,4 @@
-Luteimonas mephitis Finkmann et al., 2000 SPECIES
-=======
+# Luteimonas mephitis Finkmann et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

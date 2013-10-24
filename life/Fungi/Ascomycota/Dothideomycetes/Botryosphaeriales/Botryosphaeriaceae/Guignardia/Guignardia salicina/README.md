@@ -1,5 +1,4 @@
-Guignardia salicina Hara SPECIES
-=======
+# Guignardia salicina Hara SPECIES
 
 #### Status
 ACCEPTED

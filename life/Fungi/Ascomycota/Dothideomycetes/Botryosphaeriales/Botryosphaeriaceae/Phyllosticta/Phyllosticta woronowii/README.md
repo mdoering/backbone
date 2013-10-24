@@ -1,5 +1,4 @@
-Phyllosticta woronowii Woron. SPECIES
-=======
+# Phyllosticta woronowii Woron. SPECIES
 
 #### Status
 ACCEPTED

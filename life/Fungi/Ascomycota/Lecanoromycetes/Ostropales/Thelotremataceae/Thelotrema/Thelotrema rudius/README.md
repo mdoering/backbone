@@ -1,5 +1,4 @@
-Thelotrema rudius Vain. SPECIES
-=======
+# Thelotrema rudius Vain. SPECIES
 
 #### Status
 ACCEPTED

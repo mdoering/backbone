@@ -1,5 +1,4 @@
-Pertusaria assimilans Nyl. SPECIES
-=======
+# Pertusaria assimilans Nyl. SPECIES
 
 #### Status
 ACCEPTED

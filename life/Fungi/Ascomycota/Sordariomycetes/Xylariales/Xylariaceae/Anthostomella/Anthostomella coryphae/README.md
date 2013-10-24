@@ -1,5 +1,4 @@
-Anthostomella coryphae f. coryphae FORM
-=======
+# Anthostomella coryphae Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Leafl. of Philipp. Bot. 8: 2940 (1916)
 
 #### Original name
-Anthostomella coryphae f. coryphae
+Anthostomella coryphae Rehm
 
 ### Remarks
 null

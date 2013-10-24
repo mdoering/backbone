@@ -1,5 +1,4 @@
-Mycena macrocystidiata Singer SPECIES
-=======
+# Mycena macrocystidiata Singer SPECIES
 
 #### Status
 ACCEPTED

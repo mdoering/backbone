@@ -1,5 +1,4 @@
-Reticularia enthoxantha SPECIES
-=======
+# Reticularia enthoxantha SPECIES
 
 #### Status
 ACCEPTED

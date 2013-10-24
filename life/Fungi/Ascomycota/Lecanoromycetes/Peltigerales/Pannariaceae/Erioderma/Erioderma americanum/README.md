@@ -1,5 +1,4 @@
-Erioderma americanum Müll. Arg. SPECIES
-=======
+# Erioderma americanum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

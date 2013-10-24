@@ -1,5 +1,4 @@
-Diploschistes sbarbaronis B. de Lesd. SPECIES
-=======
+# Diploschistes sbarbaronis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

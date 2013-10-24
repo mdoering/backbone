@@ -1,5 +1,4 @@
-Protomyces polysporus Peck SPECIES
-=======
+# Protomyces polysporus Peck SPECIES
 
 #### Status
 ACCEPTED

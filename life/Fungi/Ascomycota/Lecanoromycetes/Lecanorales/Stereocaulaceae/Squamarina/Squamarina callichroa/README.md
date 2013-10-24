@@ -1,5 +1,4 @@
-Squamarina callichroa (Zahlbr.) Poelt SPECIES
-=======
+# Squamarina callichroa (Zahlbr.) Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria deschatresii Werner SPECIES
-=======
+# Pertusaria deschatresii Werner SPECIES
 
 #### Status
 ACCEPTED

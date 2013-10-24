@@ -1,5 +1,4 @@
-Xanthoria astroidea f. astroidea FORM
-=======
+# Xanthoria astroidea (Clemente) Horw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xanthoria astroidea f. astroidea
+null
 
 ### Remarks
 null

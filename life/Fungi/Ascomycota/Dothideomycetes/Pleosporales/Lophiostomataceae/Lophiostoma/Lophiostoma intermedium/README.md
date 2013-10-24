@@ -1,5 +1,4 @@
-Lophiostoma intermedium Sacc. SPECIES
-=======
+# Lophiostoma intermedium Sacc. SPECIES
 
 #### Status
 ACCEPTED

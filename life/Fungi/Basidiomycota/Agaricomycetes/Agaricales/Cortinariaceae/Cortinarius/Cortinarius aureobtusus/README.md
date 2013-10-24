@@ -1,5 +1,4 @@
-Cortinarius aureobtusus Rob. Henry SPECIES
-=======
+# Cortinarius aureobtusus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Trochila laurocerasi var. laurocerasi VARIETY
-=======
+# Trochila laurocerasi (Desm.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 367 (1849)
 
 #### Original name
-null
+Phacidium laurocerasi Desm.
 
 ### Remarks
 null

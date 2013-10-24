@@ -1,8 +1,7 @@
-Bursaridium schewiakowi Lauterborn, 1894 SPECIES
-=======
+# Bursaridium schewiakowii Lauterborn, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

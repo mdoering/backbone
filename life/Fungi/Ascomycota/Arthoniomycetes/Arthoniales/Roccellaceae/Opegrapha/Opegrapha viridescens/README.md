@@ -1,5 +1,4 @@
-Opegrapha viridescens (Ach.) Röhl. SPECIES
-=======
+# Opegrapha viridescens (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

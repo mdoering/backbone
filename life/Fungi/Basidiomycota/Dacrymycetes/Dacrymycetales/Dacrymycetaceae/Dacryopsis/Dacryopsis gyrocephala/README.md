@@ -1,5 +1,4 @@
-Dacryopsis gyrocephala Massee SPECIES
-=======
+# Dacryopsis gyrocephala Massee SPECIES
 
 #### Status
 ACCEPTED

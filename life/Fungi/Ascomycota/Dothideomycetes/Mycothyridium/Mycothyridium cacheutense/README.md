@@ -1,5 +1,4 @@
-Mycothyridium cacheutense (Speg.) Petr. SPECIES
-=======
+# Mycothyridium cacheutense (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

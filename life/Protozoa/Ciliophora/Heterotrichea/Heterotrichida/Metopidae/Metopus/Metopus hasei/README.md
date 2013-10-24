@@ -1,8 +1,7 @@
-Metopus fuscus Kahl, 1927 SPECIES
-=======
+# Metopus hasei Sondheim, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

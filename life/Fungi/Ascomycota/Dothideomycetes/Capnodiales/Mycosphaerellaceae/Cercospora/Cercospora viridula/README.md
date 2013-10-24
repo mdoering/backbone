@@ -1,5 +1,4 @@
-Cercospora viridula Ellis & Everh. SPECIES
-=======
+# Cercospora viridula Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus eriophorus Berk. & Broome SPECIES
-=======
+# Polyporus eriophorus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

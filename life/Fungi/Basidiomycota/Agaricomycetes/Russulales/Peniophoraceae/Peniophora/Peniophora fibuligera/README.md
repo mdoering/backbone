@@ -1,5 +1,4 @@
-Peniophora fibuligera K.S. Thind & S.S. Rattan SPECIES
-=======
+# Peniophora fibuligera K.S. Thind & S.S. Rattan SPECIES
 
 #### Status
 ACCEPTED

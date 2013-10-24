@@ -1,5 +1,4 @@
-Ophiocordyceps rubripunctata (Moreau) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps rubripunctata (Moreau) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

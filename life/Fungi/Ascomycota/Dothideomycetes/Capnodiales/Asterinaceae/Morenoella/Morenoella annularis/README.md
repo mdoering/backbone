@@ -1,5 +1,4 @@
-Morenoella annularis Hansf. SPECIES
-=======
+# Morenoella annularis Hansf. SPECIES
 
 #### Status
 ACCEPTED

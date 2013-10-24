@@ -1,5 +1,4 @@
-Hypochnus coriaceus Burt SPECIES
-=======
+# Hypochnus coriaceus Burt SPECIES
 
 #### Status
 ACCEPTED

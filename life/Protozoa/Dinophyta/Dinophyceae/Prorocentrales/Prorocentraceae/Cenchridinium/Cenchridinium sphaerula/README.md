@@ -1,5 +1,4 @@
-Cenchridinium sphaerula Ehrenberg, 1854 SPECIES
-=======
+# Cenchridinium sphaerula Ehrenberg, 1854 SPECIES
 
 #### Status
 ACCEPTED

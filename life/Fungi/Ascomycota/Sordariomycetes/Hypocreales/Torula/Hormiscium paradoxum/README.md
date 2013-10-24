@@ -1,5 +1,4 @@
-Hormiscium paradoxum P. Karst. SPECIES
-=======
+# Hormiscium paradoxum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

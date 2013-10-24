@@ -1,8 +1,7 @@
-Pseudomonas gladioli Severini, 1913 (Approved Lists, 1980) SPECIES
-=======
+# Burkholderia gladioli (Severini, 1913) Yabuuchi et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Polyporus incompletus Ces. SPECIES
-=======
+# Polyporus incompletus Ces. SPECIES
 
 #### Status
 ACCEPTED

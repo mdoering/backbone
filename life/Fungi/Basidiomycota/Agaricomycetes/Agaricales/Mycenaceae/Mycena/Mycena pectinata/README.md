@@ -1,5 +1,4 @@
-Mycena pectinata Murrill SPECIES
-=======
+# Mycena pectinata Murrill SPECIES
 
 #### Status
 ACCEPTED

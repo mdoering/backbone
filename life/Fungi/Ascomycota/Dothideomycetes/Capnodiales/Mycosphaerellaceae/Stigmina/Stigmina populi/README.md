@@ -1,5 +1,4 @@
-Stigmina populi (Ellis & Everh.) Pound & Clem. SPECIES
-=======
+# Stigmina populi (Ellis & Everh.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

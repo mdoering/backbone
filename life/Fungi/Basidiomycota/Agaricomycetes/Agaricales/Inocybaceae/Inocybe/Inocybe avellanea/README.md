@@ -1,5 +1,4 @@
-Inocybe avellanea Kobayasi SPECIES
-=======
+# Inocybe avellanea Kobayasi SPECIES
 
 #### Status
 ACCEPTED

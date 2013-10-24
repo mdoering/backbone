@@ -1,5 +1,4 @@
-Sporopodium glaucophaeopsis Vain. SPECIES
-=======
+# Sporopodium glaucophaeopsis Vain. SPECIES
 
 #### Status
 ACCEPTED

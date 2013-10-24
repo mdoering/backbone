@@ -1,5 +1,4 @@
-Lecanora pepegospora SPECIES
-=======
+# Lecanora pepegospora SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Uredo pustulata var. pustulata VARIETY
-=======
+# Pucciniastrum epilobii G.H. Otth, 1861 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 1: 219 (1801)
+Mitt. naturf. Ges. Bern 72 (1861)
 
 #### Original name
-Uredo pustulata var. pustulata
+Pucciniastrum epilobii G.H. Otth, 1861
 
 ### Remarks
 null

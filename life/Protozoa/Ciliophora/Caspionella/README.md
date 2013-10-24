@@ -1,5 +1,4 @@
-Caspionella Yankovskij, 1980 GENUS
-=======
+# Caspionella Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

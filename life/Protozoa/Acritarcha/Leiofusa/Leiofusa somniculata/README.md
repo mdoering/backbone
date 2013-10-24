@@ -1,5 +1,4 @@
-Leiofusa somniculata P. Pittau SPECIES
-=======
+# Leiofusa somniculata P. Pittau SPECIES
 
 #### Status
 ACCEPTED

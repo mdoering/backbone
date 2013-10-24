@@ -1,5 +1,4 @@
-Xanthoparmelia pulvinaria T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia pulvinaria T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

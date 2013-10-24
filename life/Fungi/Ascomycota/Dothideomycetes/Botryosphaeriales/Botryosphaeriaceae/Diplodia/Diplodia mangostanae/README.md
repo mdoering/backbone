@@ -1,5 +1,4 @@
-Diplodia mangostanae Henn. & E. Nyman SPECIES
-=======
+# Diplodia mangostanae Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

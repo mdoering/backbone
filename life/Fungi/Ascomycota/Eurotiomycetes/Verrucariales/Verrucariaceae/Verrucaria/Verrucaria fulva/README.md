@@ -1,5 +1,4 @@
-Verrucaria fulva M. Choisy SPECIES
-=======
+# Verrucaria fulva M. Choisy SPECIES
 
 #### Status
 ACCEPTED

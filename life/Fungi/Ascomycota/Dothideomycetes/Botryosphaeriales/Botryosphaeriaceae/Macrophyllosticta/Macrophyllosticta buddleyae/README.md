@@ -1,5 +1,4 @@
-Macrophyllosticta buddleyae Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta buddleyae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

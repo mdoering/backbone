@@ -1,5 +1,4 @@
-Uredo dieteliana Sacc. & P. Syd. SPECIES
-=======
+# Uredo dieteliana Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

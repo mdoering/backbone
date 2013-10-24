@@ -1,5 +1,4 @@
-Scrippsiella lacrymosa J. Lewis SPECIES
-=======
+# Scrippsiella lacrymosa J. Lewis SPECIES
 
 #### Status
 ACCEPTED

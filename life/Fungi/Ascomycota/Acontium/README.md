@@ -1,5 +1,4 @@
-Acontium Morgan GENUS
-=======
+# Acontium Morgan GENUS
 
 #### Status
 ACCEPTED

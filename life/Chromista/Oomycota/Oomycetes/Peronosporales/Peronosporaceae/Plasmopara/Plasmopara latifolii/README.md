@@ -1,5 +1,4 @@
-Plasmopara latifolii Savile SPECIES
-=======
+# Plasmopara latifolii Savile SPECIES
 
 #### Status
 ACCEPTED

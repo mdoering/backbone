@@ -1,5 +1,4 @@
-Phyllactinia rhoina Doidge SPECIES
-=======
+# Phyllactinia rhoina Doidge SPECIES
 
 #### Status
 ACCEPTED

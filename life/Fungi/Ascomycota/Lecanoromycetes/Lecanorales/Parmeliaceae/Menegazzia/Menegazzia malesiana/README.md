@@ -1,5 +1,4 @@
-Menegazzia malesiana Elix, Bawingan & Schumm SPECIES
-=======
+# Menegazzia malesiana Elix, Bawingan & Schumm SPECIES
 
 #### Status
 ACCEPTED

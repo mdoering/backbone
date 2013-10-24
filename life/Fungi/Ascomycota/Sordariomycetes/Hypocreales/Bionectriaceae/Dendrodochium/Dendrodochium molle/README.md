@@ -1,5 +1,4 @@
-Dendrodochium molle Rodway SPECIES
-=======
+# Dendrodochium molle Rodway SPECIES
 
 #### Status
 ACCEPTED

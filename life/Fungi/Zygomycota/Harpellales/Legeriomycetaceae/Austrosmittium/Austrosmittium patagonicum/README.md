@@ -1,5 +1,4 @@
-Austrosmittium patagonicum Siri, 2010 SPECIES
-=======
+# Austrosmittium patagonicum Siri, 2010 SPECIES
 
 #### Status
 ACCEPTED

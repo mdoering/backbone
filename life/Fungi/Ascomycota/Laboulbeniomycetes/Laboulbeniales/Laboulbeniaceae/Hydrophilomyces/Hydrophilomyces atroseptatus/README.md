@@ -1,5 +1,4 @@
-Hydrophilomyces atroseptatus T. Majewski SPECIES
-=======
+# Hydrophilomyces atroseptatus T. Majewski SPECIES
 
 #### Status
 ACCEPTED

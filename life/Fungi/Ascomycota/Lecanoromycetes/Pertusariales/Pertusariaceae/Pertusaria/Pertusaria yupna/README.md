@@ -1,5 +1,4 @@
-Pertusaria yupna A.W. Archer & Elix SPECIES
-=======
+# Pertusaria yupna A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma betulinum (Wahlenb.) Schltdl. SPECIES
-=======
+# Caeoma betulinum (Wahlenb.) Schltdl. SPECIES
 
 #### Status
 ACCEPTED

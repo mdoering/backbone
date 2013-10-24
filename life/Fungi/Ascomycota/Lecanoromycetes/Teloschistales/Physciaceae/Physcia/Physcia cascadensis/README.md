@@ -1,5 +1,4 @@
-Physcia cascadensis H. Magn. SPECIES
-=======
+# Physcia cascadensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

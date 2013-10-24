@@ -1,5 +1,4 @@
-Gaertneriomyces semiglobiferus (Ulbelmesser) Barr SPECIES
-=======
+# Gaertneriomyces semiglobiferus (Ulbelmesser) Barr SPECIES
 
 #### Status
 ACCEPTED

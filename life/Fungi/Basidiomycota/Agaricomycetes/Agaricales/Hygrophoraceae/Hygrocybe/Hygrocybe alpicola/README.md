@@ -1,5 +1,4 @@
-Hygrocybe alpicola Kobayasi SPECIES
-=======
+# Hygrocybe alpicola Kobayasi SPECIES
 
 #### Status
 ACCEPTED

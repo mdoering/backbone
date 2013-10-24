@@ -1,5 +1,4 @@
-Mallomonas allantoides Harris SPECIES
-=======
+# Mallomonas allantoides Harris SPECIES
 
 #### Status
 ACCEPTED

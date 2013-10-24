@@ -1,5 +1,4 @@
-Rozites ochraceoazureus (E. Horak) E. Horak SPECIES
-=======
+# Rozites ochraceoazureus (E. Horak) E. Horak SPECIES
 
 #### Status
 ACCEPTED

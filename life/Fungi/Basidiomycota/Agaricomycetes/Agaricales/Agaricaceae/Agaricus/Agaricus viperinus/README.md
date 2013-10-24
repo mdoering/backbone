@@ -1,5 +1,4 @@
-Agaricus viperinus Fr. SPECIES
-=======
+# Agaricus viperinus Fr. SPECIES
 
 #### Status
 ACCEPTED

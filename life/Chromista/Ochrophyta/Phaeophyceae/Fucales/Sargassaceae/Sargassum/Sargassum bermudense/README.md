@@ -1,5 +1,4 @@
-Sargassum bermudense var. pinnatifidum Grunow VARIETY
-=======
+# Sargassum bermudense Grunow SPECIES
 
 #### Status
 ACCEPTED

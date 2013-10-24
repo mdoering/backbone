@@ -1,5 +1,4 @@
-Chytridium minimum A. Braun SPECIES
-=======
+# Chytridium minimum A. Braun SPECIES
 
 #### Status
 ACCEPTED

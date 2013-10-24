@@ -1,5 +1,4 @@
-Lecanactis urceolata Fr. SPECIES
-=======
+# Lecanactis urceolata Fr. SPECIES
 
 #### Status
 ACCEPTED

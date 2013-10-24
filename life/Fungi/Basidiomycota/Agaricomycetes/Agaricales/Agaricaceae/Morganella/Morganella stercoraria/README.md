@@ -1,5 +1,4 @@
-Morganella stercoraria P. Ponce de León, 1971 SPECIES
-=======
+# Morganella stercoraria P. Ponce de León, 1971 SPECIES
 
 #### Status
 ACCEPTED

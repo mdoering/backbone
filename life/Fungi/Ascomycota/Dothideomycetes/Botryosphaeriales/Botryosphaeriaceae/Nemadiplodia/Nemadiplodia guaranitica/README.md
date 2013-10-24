@@ -1,5 +1,4 @@
-Nemadiplodia guaranitica (Speg.) Zambett. SPECIES
-=======
+# Nemadiplodia guaranitica (Speg.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

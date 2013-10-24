@@ -1,5 +1,4 @@
-Phaeophacidium lonicerae (Henn. & E. Nyman) SPECIES
-=======
+# Phaeophacidium lonicerae (Henn. & E. Nyman) SPECIES
 
 #### Status
 ACCEPTED

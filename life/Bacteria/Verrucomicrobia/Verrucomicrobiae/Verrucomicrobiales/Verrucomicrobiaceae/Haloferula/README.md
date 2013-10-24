@@ -1,5 +1,4 @@
-Haloferula Yoon, Matsuo, Katsuta, Jang, Matsuda, Adachi, Kasai & Yokota, 2008 GENUS
-=======
+# Haloferula Yoon, Matsuo, Katsuta, Jang, Matsuda, Adachi, Kasai & Yokota, 2008 GENUS
 
 #### Status
 ACCEPTED

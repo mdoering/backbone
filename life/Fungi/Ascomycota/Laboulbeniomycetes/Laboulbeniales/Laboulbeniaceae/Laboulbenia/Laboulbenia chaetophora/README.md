@@ -1,5 +1,4 @@
-Laboulbenia chaetophora Thaxt. SPECIES
-=======
+# Laboulbenia chaetophora Thaxt. SPECIES
 
 #### Status
 ACCEPTED

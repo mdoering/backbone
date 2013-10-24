@@ -1,5 +1,4 @@
-Sphacelotheca sacchari-ciliaris Bref. SPECIES
-=======
+# Sphacelotheca sacchari-ciliaris Bref. SPECIES
 
 #### Status
 ACCEPTED

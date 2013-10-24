@@ -1,5 +1,4 @@
-Stemphyliomma tambopataense Matsush. SPECIES
-=======
+# Stemphyliomma tambopataense Matsush. SPECIES
 
 #### Status
 ACCEPTED

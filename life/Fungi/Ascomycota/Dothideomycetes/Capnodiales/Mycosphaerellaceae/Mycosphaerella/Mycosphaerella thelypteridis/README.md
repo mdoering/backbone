@@ -1,5 +1,4 @@
-Mycosphaerella thelypteridis Syd. SPECIES
-=======
+# Mycosphaerella thelypteridis Syd. SPECIES
 
 #### Status
 ACCEPTED

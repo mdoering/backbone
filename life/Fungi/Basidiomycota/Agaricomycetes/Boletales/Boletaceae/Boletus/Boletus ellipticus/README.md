@@ -1,5 +1,4 @@
-Boletus ellipticus Pers. SPECIES
-=======
+# Boletus ellipticus Pers. SPECIES
 
 #### Status
 ACCEPTED

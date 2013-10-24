@@ -1,8 +1,7 @@
-Chlamydodon pachidermus SPECIES
-=======
+# Chlamydodon pachydermis Perejaslawzewa, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

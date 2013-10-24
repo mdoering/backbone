@@ -1,5 +1,4 @@
-Naucoria geminella Peck SPECIES
-=======
+# Naucoria geminella Peck SPECIES
 
 #### Status
 ACCEPTED

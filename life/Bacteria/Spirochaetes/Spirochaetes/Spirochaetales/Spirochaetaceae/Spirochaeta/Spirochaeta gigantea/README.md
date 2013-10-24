@@ -1,5 +1,4 @@
-Spirochaeta gigantea SPECIES
-=======
+# Spirochaeta gigantea SPECIES
 
 #### Status
 ACCEPTED

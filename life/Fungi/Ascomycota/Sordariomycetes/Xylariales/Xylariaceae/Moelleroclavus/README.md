@@ -1,5 +1,4 @@
-Moelleroclavus GENUS
-=======
+# Moelleroclavus GENUS
 
 #### Status
 ACCEPTED

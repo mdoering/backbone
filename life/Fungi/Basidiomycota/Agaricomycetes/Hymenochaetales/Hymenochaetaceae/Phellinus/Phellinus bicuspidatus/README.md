@@ -1,5 +1,4 @@
-Phellinus bicuspidatus Lombard & M.J. Larsen, 1985 SPECIES
-=======
+# Phellinus bicuspidatus Lombard & M.J. Larsen, 1985 SPECIES
 
 #### Status
 ACCEPTED

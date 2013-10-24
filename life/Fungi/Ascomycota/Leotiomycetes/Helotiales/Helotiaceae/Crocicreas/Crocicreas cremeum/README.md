@@ -1,17 +1,16 @@
-Crocicreas cremea Arendh. & R. Sharma SPECIES
-=======
+# Crocicreas cremeum Arendh. & R. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 17: 475 (1983)
 
 #### Original name
-Crocicreas cremea Arendh. & R. Sharma
+Crocicreas cremeum Arendh. & R. Sharma
 
 ### Remarks
 null

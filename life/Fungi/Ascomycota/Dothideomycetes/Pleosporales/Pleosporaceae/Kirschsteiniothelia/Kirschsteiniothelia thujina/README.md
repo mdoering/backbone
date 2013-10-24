@@ -1,5 +1,4 @@
-Kirschsteiniothelia thujina (Peck) D. Hawksw. SPECIES
-=======
+# Kirschsteiniothelia thujina (Peck) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

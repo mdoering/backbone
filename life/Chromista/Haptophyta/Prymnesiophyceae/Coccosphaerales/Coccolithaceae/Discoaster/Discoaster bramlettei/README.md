@@ -1,5 +1,4 @@
-Discoaster bramlettei (Bukry & Percival, 1971) Romein, 1979 SPECIES
-=======
+# Discoaster bramlettei (Bukry & Percival, 1971) Romein, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypella combreti (Gambhir) Rappaz SPECIES
-=======
+# Eutypella combreti (Gambhir) Rappaz SPECIES
 
 #### Status
 ACCEPTED

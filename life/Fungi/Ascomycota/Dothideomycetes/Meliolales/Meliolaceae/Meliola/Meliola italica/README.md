@@ -1,5 +1,4 @@
-Meliola italica (Sacc.) F. Stevens SPECIES
-=======
+# Meliola italica (Sacc.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

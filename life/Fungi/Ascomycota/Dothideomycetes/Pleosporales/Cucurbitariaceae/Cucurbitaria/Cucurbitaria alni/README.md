@@ -1,5 +1,4 @@
-Cucurbitaria alni Sacc. SPECIES
-=======
+# Cucurbitaria alni Sacc. SPECIES
 
 #### Status
 ACCEPTED

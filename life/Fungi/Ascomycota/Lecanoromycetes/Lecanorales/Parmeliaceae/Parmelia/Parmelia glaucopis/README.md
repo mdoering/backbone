@@ -1,5 +1,4 @@
-Parmelia glaucopis (Müll. Arg.) Vain. SPECIES
-=======
+# Parmelia glaucopis (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

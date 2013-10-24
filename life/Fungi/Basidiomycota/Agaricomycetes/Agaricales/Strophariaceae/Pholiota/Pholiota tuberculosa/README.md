@@ -1,14 +1,13 @@
-Hypodendrum tuberculosum (Schaeff.) Overh., 1932 SPECIES
-=======
+# Pholiota tuberculosa (Schaeff.) P. Kumm., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 10(5): 280 (1932)
+Führ. Pilzk. (Zwickau) 83 (1871)
 
 #### Original name
 Agaricus tuberculosus Schaeff., 1774

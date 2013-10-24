@@ -1,5 +1,4 @@
-Micropeltis corynespora Sacc. SPECIES
-=======
+# Micropeltis corynespora Sacc. SPECIES
 
 #### Status
 ACCEPTED

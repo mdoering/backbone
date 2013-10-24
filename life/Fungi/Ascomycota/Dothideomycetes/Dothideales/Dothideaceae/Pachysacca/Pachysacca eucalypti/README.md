@@ -1,5 +1,4 @@
-Pachysacca eucalypti Syd., 1930 SPECIES
-=======
+# Pachysacca eucalypti Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

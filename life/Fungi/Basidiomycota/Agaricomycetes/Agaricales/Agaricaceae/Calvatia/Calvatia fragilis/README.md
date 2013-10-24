@@ -1,5 +1,4 @@
-Calvatia fragilis (Vittad.) Morgan SPECIES
-=======
+# Calvatia fragilis (Vittad.) Morgan SPECIES
 
 #### Status
 ACCEPTED

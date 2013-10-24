@@ -1,5 +1,4 @@
-Strombomonas ettli SPECIES
-=======
+# Strombomonas ettli SPECIES
 
 #### Status
 ACCEPTED

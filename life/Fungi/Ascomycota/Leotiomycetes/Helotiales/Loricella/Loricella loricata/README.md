@@ -1,5 +1,4 @@
-Loricella loricata Velen. SPECIES
-=======
+# Loricella loricata Velen. SPECIES
 
 #### Status
 ACCEPTED

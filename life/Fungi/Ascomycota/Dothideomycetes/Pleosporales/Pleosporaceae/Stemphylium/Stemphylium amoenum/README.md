@@ -1,5 +1,4 @@
-Stemphylium amoenum Oudem. SPECIES
-=======
+# Stemphylium amoenum Oudem. SPECIES
 
 #### Status
 ACCEPTED

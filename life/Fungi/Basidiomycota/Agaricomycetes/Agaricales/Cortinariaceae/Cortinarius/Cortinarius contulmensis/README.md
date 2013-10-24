@@ -1,5 +1,4 @@
-Cortinarius contulmensis Garrido SPECIES
-=======
+# Cortinarius contulmensis Garrido SPECIES
 
 #### Status
 ACCEPTED

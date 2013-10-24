@@ -1,5 +1,4 @@
-Aposphaeria major Syd. SPECIES
-=======
+# Aposphaeria major Syd. SPECIES
 
 #### Status
 ACCEPTED

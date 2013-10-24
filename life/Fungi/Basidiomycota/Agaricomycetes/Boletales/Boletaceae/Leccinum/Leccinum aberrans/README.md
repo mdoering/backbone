@@ -1,5 +1,4 @@
-Leccinum aberrans Sm. & Thiers SPECIES
-=======
+# Leccinum aberrans Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

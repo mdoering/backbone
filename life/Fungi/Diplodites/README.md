@@ -1,5 +1,4 @@
-Diplodites Babajan & Taslakhchyan, 1970 GENUS
-=======
+# Diplodites Babajan & Taslakhchyan, 1970 GENUS
 
 #### Status
 ACCEPTED

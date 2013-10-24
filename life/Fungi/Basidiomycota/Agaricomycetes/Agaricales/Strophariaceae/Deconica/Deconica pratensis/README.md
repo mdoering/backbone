@@ -1,5 +1,4 @@
-Deconica pratensis (P.D. Orton) SPECIES
-=======
+# Deconica pratensis (P.D. Orton) SPECIES
 
 #### Status
 ACCEPTED

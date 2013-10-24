@@ -1,5 +1,4 @@
-Pestalotiopsis anthurii (Henn.) Rib. Souza SPECIES
-=======
+# Pestalotiopsis anthurii (Henn.) Rib. Souza SPECIES
 
 #### Status
 ACCEPTED

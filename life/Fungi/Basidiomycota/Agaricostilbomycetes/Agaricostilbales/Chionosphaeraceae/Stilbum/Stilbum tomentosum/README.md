@@ -1,5 +1,4 @@
-Stilbum tomentosum Schrad. SPECIES
-=======
+# Stilbum tomentosum Schrad. SPECIES
 
 #### Status
 ACCEPTED

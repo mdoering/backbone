@@ -1,5 +1,4 @@
-Megalaria macrospora Fryday SPECIES
-=======
+# Megalaria macrospora Fryday SPECIES
 
 #### Status
 ACCEPTED

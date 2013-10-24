@@ -1,5 +1,4 @@
-Amylohyphus africanus Ryvarden, 1978 SPECIES
-=======
+# Amylohyphus africanus Ryvarden, 1978 SPECIES
 
 #### Status
 ACCEPTED

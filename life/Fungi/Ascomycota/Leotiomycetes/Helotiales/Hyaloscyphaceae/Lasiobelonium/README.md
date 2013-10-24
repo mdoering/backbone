@@ -1,17 +1,16 @@
-Sponheimeria Kirschst. GENUS
-=======
+# Lasiobelonium Ellis & Everhart, 1897 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 80: 131 (1941)
+Bull. Torrey bot. Club 24: 136 (1897)
 
 #### Original name
-Sponheimeria Kirschst.
+Lasiobelonium Ellis & Everhart, 1897
 
 ### Remarks
 null

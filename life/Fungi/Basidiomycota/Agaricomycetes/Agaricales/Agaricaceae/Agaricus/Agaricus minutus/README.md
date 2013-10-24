@@ -1,5 +1,4 @@
-Agaricus minutus J. Otto SPECIES
-=======
+# Agaricus minutus J. Otto SPECIES
 
 #### Status
 ACCEPTED

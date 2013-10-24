@@ -1,5 +1,4 @@
-Pseudocercospora kennedyae (Cooke & Massee) U. Braun SPECIES
-=======
+# Pseudocercospora kennedyae (Cooke & Massee) U. Braun SPECIES
 
 #### Status
 ACCEPTED

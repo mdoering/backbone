@@ -1,5 +1,4 @@
-Cortinarius truncatoides M.M. Moser SPECIES
-=======
+# Cortinarius truncatoides M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

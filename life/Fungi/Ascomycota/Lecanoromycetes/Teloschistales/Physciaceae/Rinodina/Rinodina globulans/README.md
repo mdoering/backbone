@@ -1,5 +1,4 @@
-Rinodina globulans SPECIES
-=======
+# Rinodina globulans SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lenticulina changi Huang SPECIES
-=======
+# Lenticulina changi Huang SPECIES
 
 #### Status
 ACCEPTED

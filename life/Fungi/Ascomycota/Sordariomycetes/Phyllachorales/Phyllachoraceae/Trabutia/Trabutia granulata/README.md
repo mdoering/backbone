@@ -1,5 +1,4 @@
-Trabutia granulata (Berk. & Broome) Petch SPECIES
-=======
+# Trabutia granulata (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

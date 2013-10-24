@@ -1,5 +1,4 @@
-Aecidium pulsatillae Tranzschel SPECIES
-=======
+# Aecidium pulsatillae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

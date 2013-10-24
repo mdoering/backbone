@@ -1,8 +1,7 @@
-Cystobia testiculi Trégouboff, 1916 SPECIES
-=======
+# Gonospora testiculi (Trégouboff, 1916) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

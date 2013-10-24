@@ -1,5 +1,4 @@
-Stemonitis marjana Y. Yamam., 2001 SPECIES
-=======
+# Stemonitis marjana Y. Yamam., 2001 SPECIES
 
 #### Status
 ACCEPTED

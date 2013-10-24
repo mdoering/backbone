@@ -1,5 +1,4 @@
-Podosporium consors Sacc. SPECIES
-=======
+# Podosporium consors Sacc. SPECIES
 
 #### Status
 ACCEPTED

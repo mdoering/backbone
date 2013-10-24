@@ -1,5 +1,4 @@
-Galerina aimara Singer SPECIES
-=======
+# Galerina aimara Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromphalus oligocenicus H. J. Schrader & J. Fenner SPECIES
-=======
+# Asteromphalus oligocenicus H. J. Schrader & J. Fenner SPECIES
 
 #### Status
 ACCEPTED

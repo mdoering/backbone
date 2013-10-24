@@ -1,5 +1,4 @@
-Phoma peridermii Pass. SPECIES
-=======
+# Phoma peridermii Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entorrhiza C.A. Weber, 1884 GENUS
-=======
+# Entorrhiza C.A. Weber, 1884 GENUS
 
 #### Status
 ACCEPTED

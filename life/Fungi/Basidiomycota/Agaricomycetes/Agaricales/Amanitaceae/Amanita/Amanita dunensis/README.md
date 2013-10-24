@@ -1,5 +1,4 @@
-Amanita dunensis Bon & Andary SPECIES
-=======
+# Amanita dunensis Bon & Andary SPECIES
 
 #### Status
 ACCEPTED

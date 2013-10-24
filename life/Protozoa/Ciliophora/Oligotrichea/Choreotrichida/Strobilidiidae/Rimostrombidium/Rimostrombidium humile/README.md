@@ -1,8 +1,7 @@
-Strobilidium humile Penard, 1922 SPECIES
-=======
+# Rimostrombidium humile (Penard, 1922) Petz & Foissner, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

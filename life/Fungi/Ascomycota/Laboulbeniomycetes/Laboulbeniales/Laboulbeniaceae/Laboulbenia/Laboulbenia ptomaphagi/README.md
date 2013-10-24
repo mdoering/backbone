@@ -1,5 +1,4 @@
-Laboulbenia ptomaphagi Huggert SPECIES
-=======
+# Laboulbenia ptomaphagi Huggert SPECIES
 
 #### Status
 ACCEPTED

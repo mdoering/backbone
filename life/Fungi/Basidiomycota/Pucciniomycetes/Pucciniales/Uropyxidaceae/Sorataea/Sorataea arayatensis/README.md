@@ -1,14 +1,13 @@
-Puccinia arayatensis Cummins, 1937 SPECIES
-=======
+# Sorataea arayatensis (Cummins) Eboh & Cummins, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 35: 102 (1937)
+Mycologia 72(1): 203 (1980)
 
 #### Original name
 Puccinia arayatensis Cummins, 1937

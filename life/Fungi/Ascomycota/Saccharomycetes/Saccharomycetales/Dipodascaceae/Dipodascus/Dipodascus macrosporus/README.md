@@ -1,5 +1,4 @@
-Dipodascus macrosporus Madelin & Feest, 1982 SPECIES
-=======
+# Dipodascus macrosporus Madelin & Feest, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marginulina filicostata Fornasini SPECIES
-=======
+# Marginulina filicostata Fornasini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphileptus hirsutus Fromentel SPECIES
-=======
+# Amphileptus hirsutus Fromentel SPECIES
 
 #### Status
 ACCEPTED

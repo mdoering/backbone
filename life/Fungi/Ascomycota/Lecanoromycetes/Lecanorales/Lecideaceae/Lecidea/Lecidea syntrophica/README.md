@@ -1,5 +1,4 @@
-Lecidea syntrophica Vain. SPECIES
-=======
+# Lecidea syntrophica Vain. SPECIES
 
 #### Status
 ACCEPTED

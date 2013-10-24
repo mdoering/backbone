@@ -1,5 +1,4 @@
-Septuma pauciseptata Schröder, Medioli & Scott, 1989 SPECIES
-=======
+# Septuma pauciseptata Schröder, Medioli & Scott, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum eupatoriae Unamuno SPECIES
-=======
+# Sporotrichum eupatoriae Unamuno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporon intermedium Florenz. SPECIES
-=======
+# Trichosporon intermedium Florenz. SPECIES
 
 #### Status
 ACCEPTED

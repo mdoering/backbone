@@ -1,5 +1,4 @@
-Sarbhoyomyces biguttulatus Saikia, 1981 SPECIES
-=======
+# Sarbhoyomyces biguttulatus Saikia, 1981 SPECIES
 
 #### Status
 ACCEPTED

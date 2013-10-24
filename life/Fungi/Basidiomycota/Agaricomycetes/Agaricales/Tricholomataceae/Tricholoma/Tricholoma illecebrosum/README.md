@@ -1,5 +1,4 @@
-Tricholoma illecebrosum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma illecebrosum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

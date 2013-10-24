@@ -1,5 +1,4 @@
-Entodiscidae Jankowksi, 1973 FAMILY
-=======
+# Entodiscidae Jankowksi, 1973 FAMILY
 
 #### Status
 ACCEPTED

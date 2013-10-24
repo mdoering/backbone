@@ -1,5 +1,4 @@
-Ceratiomyxa sphaerospora Skup. SPECIES
-=======
+# Ceratiomyxa sphaerospora Skup. SPECIES
 
 #### Status
 ACCEPTED

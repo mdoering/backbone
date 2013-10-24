@@ -1,5 +1,4 @@
-Jacksonomyces georgicus (Parmasto) Sheng H. Wu & Z.C. Chen SPECIES
-=======
+# Jacksonomyces georgicus (Parmasto) Sheng H. Wu & Z.C. Chen SPECIES
 
 #### Status
 ACCEPTED

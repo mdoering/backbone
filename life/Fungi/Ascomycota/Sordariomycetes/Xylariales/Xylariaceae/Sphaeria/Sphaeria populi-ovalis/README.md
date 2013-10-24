@@ -1,5 +1,4 @@
-Sphaeria populi-ovalis A. Braun SPECIES
-=======
+# Sphaeria populi-ovalis A. Braun SPECIES
 
 #### Status
 ACCEPTED

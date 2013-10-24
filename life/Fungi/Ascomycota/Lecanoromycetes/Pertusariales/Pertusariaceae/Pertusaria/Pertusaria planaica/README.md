@@ -1,5 +1,4 @@
-Pertusaria planaica A. W. Archer & Elix SPECIES
-=======
+# Pertusaria planaica A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

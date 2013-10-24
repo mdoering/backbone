@@ -1,5 +1,4 @@
-Diplodia kerriae Berk. SPECIES
-=======
+# Diplodia kerriae Berk. SPECIES
 
 #### Status
 ACCEPTED

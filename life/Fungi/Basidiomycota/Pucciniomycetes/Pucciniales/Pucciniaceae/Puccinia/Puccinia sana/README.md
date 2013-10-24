@@ -1,5 +1,4 @@
-Puccinia sana H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia sana H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

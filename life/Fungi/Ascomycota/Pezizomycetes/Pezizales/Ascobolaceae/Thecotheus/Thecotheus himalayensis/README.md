@@ -1,5 +1,4 @@
-Thecotheus himalayensis S.C. Kaushal SPECIES
-=======
+# Thecotheus himalayensis S.C. Kaushal SPECIES
 
 #### Status
 ACCEPTED

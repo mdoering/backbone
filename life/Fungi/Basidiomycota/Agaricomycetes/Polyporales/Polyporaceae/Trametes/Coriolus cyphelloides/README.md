@@ -1,5 +1,4 @@
-Coriolus cyphelloides (Fr.) Murrill SPECIES
-=======
+# Coriolus cyphelloides (Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

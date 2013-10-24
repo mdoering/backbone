@@ -1,5 +1,4 @@
-Gymnodinium metum Hulburt, 1957 SPECIES
-=======
+# Gymnodinium metum Hulburt, 1957 SPECIES
 
 #### Status
 ACCEPTED

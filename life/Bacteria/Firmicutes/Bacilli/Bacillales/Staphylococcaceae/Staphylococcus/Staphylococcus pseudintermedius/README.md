@@ -1,5 +1,4 @@
-Staphylococcus pseudintermedius Devriese et al., 2005 SPECIES
-=======
+# Staphylococcus pseudintermedius Devriese et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

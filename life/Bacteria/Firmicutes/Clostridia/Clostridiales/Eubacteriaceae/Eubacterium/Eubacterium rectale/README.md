@@ -1,11 +1,10 @@
-Bacteroides rectalis Hauduroy et al., 1937 SPECIES
-=======
+# Eubacterium rectale (Hauduroy et al., 1937) Prévot, 1938 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

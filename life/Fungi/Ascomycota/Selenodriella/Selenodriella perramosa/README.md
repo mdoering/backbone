@@ -1,17 +1,16 @@
-Selenosporella perramosa (W.B. Kendr. & R.F. Castañeda) R.F. Castañeda, 2009 SPECIES
-=======
+# Selenodriella perramosa W.B. Kendr. & R.F. Castañeda, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Univ. Waterloo Biol. Ser. 33: 36 (1990)
 
 #### Original name
-null
+Selenodriella perramosa W.B. Kendr. & R.F. Castañeda, 1990
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ellipsolagena marginata Wiesner, 1931 SPECIES
-=======
+# Ellipsolagena marginata Wiesner, 1931 SPECIES
 
 #### Status
 ACCEPTED

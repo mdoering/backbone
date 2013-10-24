@@ -1,5 +1,4 @@
-Degeliella P.M. Jørg. GENUS
-=======
+# Degeliella P.M. Jørg. GENUS
 
 #### Status
 ACCEPTED

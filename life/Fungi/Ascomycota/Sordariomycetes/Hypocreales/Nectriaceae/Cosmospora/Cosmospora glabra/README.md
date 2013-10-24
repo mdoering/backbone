@@ -1,5 +1,4 @@
-Cosmospora glabra (Rossman) Rossman & Samuels SPECIES
-=======
+# Cosmospora glabra (Rossman) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

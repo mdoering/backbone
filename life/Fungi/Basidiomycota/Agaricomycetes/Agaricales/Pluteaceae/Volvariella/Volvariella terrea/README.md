@@ -1,5 +1,4 @@
-Volvariella terrea Musumeci & Riva SPECIES
-=======
+# Volvariella terrea Musumeci & Riva SPECIES
 
 #### Status
 ACCEPTED

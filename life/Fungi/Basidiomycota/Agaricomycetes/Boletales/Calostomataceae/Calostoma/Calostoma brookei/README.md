@@ -1,5 +1,4 @@
-Calostoma brookei L. Fan & B. Liu SPECIES
-=======
+# Calostoma brookei L. Fan & B. Liu SPECIES
 
 #### Status
 ACCEPTED

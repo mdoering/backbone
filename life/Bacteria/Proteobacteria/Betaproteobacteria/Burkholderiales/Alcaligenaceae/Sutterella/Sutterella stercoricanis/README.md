@@ -1,5 +1,4 @@
-Sutterella stercoricanis Greetham et al., 2004 SPECIES
-=======
+# Sutterella stercoricanis Greetham et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

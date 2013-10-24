@@ -1,5 +1,4 @@
-Lycoperdon kerense Pass. SPECIES
-=======
+# Lycoperdon kerense Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus luteo-olivaceus (Berk.) Cooke SPECIES
-=======
+# Polystictus luteo-olivaceus (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrocarpon orthospermum SPECIES
-=======
+# Cylindrocarpon orthospermum SPECIES
 
 #### Status
 ACCEPTED

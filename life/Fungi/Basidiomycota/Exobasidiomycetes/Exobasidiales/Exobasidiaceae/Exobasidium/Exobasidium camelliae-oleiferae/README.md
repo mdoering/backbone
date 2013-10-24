@@ -1,5 +1,4 @@
-Exobasidium camelliae-oleiferae Sawada SPECIES
-=======
+# Exobasidium camelliae-oleiferae Sawada SPECIES
 
 #### Status
 ACCEPTED

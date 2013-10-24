@@ -1,5 +1,4 @@
-Sphaeria scabiosicola DC. SPECIES
-=======
+# Sphaeria scabiosicola DC. SPECIES
 
 #### Status
 ACCEPTED

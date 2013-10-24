@@ -1,5 +1,4 @@
-Monoicomyces californicus Thaxt. SPECIES
-=======
+# Monoicomyces californicus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

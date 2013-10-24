@@ -1,5 +1,4 @@
-Sphaerosporella taiwania Y.Z. Wang SPECIES
-=======
+# Sphaerosporella taiwania Y.Z. Wang SPECIES
 
 #### Status
 ACCEPTED

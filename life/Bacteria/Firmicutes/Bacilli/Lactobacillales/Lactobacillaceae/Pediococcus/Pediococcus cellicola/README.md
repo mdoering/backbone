@@ -1,5 +1,4 @@
-Pediococcus cellicola Zhang et al., 2005 SPECIES
-=======
+# Pediococcus cellicola Zhang et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

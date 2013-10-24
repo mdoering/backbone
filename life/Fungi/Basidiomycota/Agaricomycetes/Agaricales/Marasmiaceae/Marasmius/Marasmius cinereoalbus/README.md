@@ -1,5 +1,4 @@
-Marasmius cinereoalbus Murrill SPECIES
-=======
+# Marasmius cinereoalbus Murrill SPECIES
 
 #### Status
 ACCEPTED

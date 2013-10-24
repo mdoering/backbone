@@ -1,5 +1,4 @@
-Spirillina novaezealandiae Chapman, 1909 SPECIES
-=======
+# Spirillina novaezealandiae Chapman, 1909 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina nervulosa (Müll. Arg.) Abbayes SPECIES
-=======
+# Ramalina nervulosa (Müll. Arg.) Abbayes SPECIES
 
 #### Status
 ACCEPTED

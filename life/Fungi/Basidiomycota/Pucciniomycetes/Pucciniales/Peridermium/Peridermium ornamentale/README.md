@@ -1,5 +1,4 @@
-Peridermium ornamentale Arthur SPECIES
-=======
+# Peridermium ornamentale Arthur SPECIES
 
 #### Status
 ACCEPTED

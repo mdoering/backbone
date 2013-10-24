@@ -1,5 +1,4 @@
-Quadrulella elongata SPECIES
-=======
+# Quadrulella elongata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema conchylioides (DC.) Duby SPECIES
-=======
+# Thelotrema conchylioides (DC.) Duby SPECIES
 
 #### Status
 ACCEPTED

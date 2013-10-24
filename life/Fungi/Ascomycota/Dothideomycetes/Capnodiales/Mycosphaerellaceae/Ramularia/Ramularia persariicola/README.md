@@ -1,5 +1,4 @@
-Ramularia persariicola SPECIES
-=======
+# Ramularia persariicola SPECIES
 
 #### Status
 ACCEPTED

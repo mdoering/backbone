@@ -1,5 +1,4 @@
-Lichen nigricans Neck. SPECIES
-=======
+# Lichen nigricans Neck. SPECIES
 
 #### Status
 ACCEPTED

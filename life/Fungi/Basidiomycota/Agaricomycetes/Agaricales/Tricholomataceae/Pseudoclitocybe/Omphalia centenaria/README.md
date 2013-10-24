@@ -1,5 +1,4 @@
-Omphalia centenaria Berk. & M.A. Curtis SPECIES
-=======
+# Omphalia centenaria Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria subinvoluta Höhn. SPECIES
-=======
+# Xylaria subinvoluta Höhn. SPECIES
 
 #### Status
 ACCEPTED

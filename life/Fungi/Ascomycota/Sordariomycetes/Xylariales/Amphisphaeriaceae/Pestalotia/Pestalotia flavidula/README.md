@@ -1,5 +1,4 @@
-Pestalotia flavidula Tassi SPECIES
-=======
+# Pestalotia flavidula Tassi SPECIES
 
 #### Status
 ACCEPTED

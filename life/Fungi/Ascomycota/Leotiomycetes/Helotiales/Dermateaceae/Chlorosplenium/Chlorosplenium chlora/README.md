@@ -1,14 +1,13 @@
-Helotium chlora (Schwein.) Morgan, 1902 SPECIES
-=======
+# Chlorosplenium chlora (Schwein.) M.A. Curtis, 1856 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 8: 184 (1902)
+in Sprague, Proc. Boston Soc. nat. Hist. 5: 330 (1856)
 
 #### Original name
 null

@@ -1,14 +1,13 @@
-Polycoccus Kützing, 1843 GENUS
-=======
+# Nostoc Vaucher ex Bornet & Flahault, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 17: 84.
+Ann. Sci. Nat. Bot. , ser. 7, 7: 181.
 
 #### Original name
 null

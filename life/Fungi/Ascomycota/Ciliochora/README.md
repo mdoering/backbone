@@ -1,5 +1,4 @@
-Ciliochora Höhn. GENUS
-=======
+# Ciliochora Höhn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocoma Gruber, 1884 GENUS
-=======
+# Hypocoma Gruber, 1884 GENUS
 
 #### Status
 ACCEPTED

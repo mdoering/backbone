@@ -1,5 +1,4 @@
-Hendersonia ulmea P. Karst. SPECIES
-=======
+# Hendersonia ulmea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

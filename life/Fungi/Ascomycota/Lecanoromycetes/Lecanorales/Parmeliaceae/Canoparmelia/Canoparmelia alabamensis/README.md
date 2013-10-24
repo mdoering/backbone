@@ -1,5 +1,4 @@
-Canoparmelia alabamensis (Hale & McCull.) Elix SPECIES
-=======
+# Canoparmelia alabamensis (Hale & McCull.) Elix SPECIES
 
 #### Status
 ACCEPTED

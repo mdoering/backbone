@@ -1,5 +1,4 @@
-Cercospora alternanthericola Pavgi & U.P. Singh SPECIES
-=======
+# Cercospora alternanthericola Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

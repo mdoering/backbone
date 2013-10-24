@@ -1,5 +1,4 @@
-Lecidea subrimulosa Nyl. SPECIES
-=======
+# Lecidea subrimulosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

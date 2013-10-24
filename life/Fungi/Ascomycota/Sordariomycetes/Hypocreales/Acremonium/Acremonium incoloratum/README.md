@@ -1,14 +1,13 @@
-Cephalosporium incoloratum Sukapure & Thirum., 1966 SPECIES
-=======
+# Acremonium incoloratum (Sukapure & Thirum.) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 19: 171 (1966)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 50 (1971)
 
 #### Original name
 Cephalosporium incoloratum Sukapure & Thirum., 1966

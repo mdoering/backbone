@@ -1,17 +1,16 @@
-Lecanora blanda f. blanda FORM
-=======
+# Lecanora farinacea Fée SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 11: 219 (1859)
+Essai Crypt. Exot. (Paris) 1: 117 (1825)
 
 #### Original name
-Lecanora blanda f. blanda
+Lecanora farinacea Fée
 
 ### Remarks
 null

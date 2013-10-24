@@ -1,5 +1,4 @@
-Thelenella duplicascens (Nyl.) Vain. SPECIES
-=======
+# Thelenella duplicascens (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

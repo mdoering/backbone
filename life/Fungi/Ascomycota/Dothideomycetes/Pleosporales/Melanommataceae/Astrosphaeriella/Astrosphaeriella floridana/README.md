@@ -1,5 +1,4 @@
-Astrosphaeriella floridana M.E. Barr SPECIES
-=======
+# Astrosphaeriella floridana M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

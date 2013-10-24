@@ -1,5 +1,4 @@
-Diplopeltopsis GENUS
-=======
+# Diplopeltopsis GENUS
 
 #### Status
 ACCEPTED

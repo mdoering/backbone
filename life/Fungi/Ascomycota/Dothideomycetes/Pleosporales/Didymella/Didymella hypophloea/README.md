@@ -1,5 +1,4 @@
-Didymella hypophloea Pass. SPECIES
-=======
+# Didymella hypophloea Pass. SPECIES
 
 #### Status
 ACCEPTED

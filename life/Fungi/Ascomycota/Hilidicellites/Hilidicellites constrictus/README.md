@@ -1,5 +1,4 @@
-Hilidicellites constrictus (Trivedi & C.L. Verma) Kalgutkar & Janson. SPECIES
-=======
+# Hilidicellites constrictus (Trivedi & C.L. Verma) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

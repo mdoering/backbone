@@ -1,5 +1,4 @@
-Geastrum jurei Lazo SPECIES
-=======
+# Geastrum jurei Lazo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Gymnopus fulvipes Murrill, 1916 SPECIES
-=======
+# Xeromphalina fulvipes (Murrill) A.H. Sm., 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

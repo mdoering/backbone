@@ -1,5 +1,4 @@
-Sagedia rugosa Anzi SPECIES
-=======
+# Sagedia rugosa Anzi SPECIES
 
 #### Status
 ACCEPTED

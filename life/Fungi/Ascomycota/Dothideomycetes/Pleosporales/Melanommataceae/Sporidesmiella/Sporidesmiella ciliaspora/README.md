@@ -1,5 +1,4 @@
-Sporidesmiella ciliaspora W.P. Wu SPECIES
-=======
+# Sporidesmiella ciliaspora W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

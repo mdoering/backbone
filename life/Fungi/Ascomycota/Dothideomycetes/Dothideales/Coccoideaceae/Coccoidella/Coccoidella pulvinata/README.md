@@ -1,5 +1,4 @@
-Coccoidella pulvinata Petr. & Cif., 1932 SPECIES
-=======
+# Coccoidella pulvinata Petr. & Cif., 1932 SPECIES
 
 #### Status
 ACCEPTED

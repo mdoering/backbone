@@ -1,5 +1,4 @@
-Nevidia sphaerocellaria Vavrdová, 1966 SPECIES
-=======
+# Nevidia sphaerocellaria Vavrdová, 1966 SPECIES
 
 #### Status
 ACCEPTED

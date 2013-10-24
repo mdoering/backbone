@@ -1,5 +1,4 @@
-Mitremyces viridis Berk. SPECIES
-=======
+# Mitremyces viridis Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella uskensis A.H. Sm. SPECIES
-=======
+# Psathyrella uskensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

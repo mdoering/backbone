@@ -1,5 +1,4 @@
-Lepiota lineata Pegler SPECIES
-=======
+# Lepiota lineata Pegler SPECIES
 
 #### Status
 ACCEPTED

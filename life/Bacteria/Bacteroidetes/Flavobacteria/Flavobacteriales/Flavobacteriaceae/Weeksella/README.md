@@ -1,5 +1,4 @@
-Weeksella Holmes et al., 1987 GENUS
-=======
+# Weeksella Holmes et al., 1987 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora subcampestris Werner SPECIES
-=======
+# Lecanora subcampestris Werner SPECIES
 
 #### Status
 ACCEPTED

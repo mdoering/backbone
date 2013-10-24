@@ -1,5 +1,4 @@
-Neothyridiaria Petrak, 1934 GENUS
-=======
+# Neothyridiaria Petrak, 1934 GENUS
 
 #### Status
 ACCEPTED

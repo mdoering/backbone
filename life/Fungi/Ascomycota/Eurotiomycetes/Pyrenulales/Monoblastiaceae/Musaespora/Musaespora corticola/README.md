@@ -1,5 +1,4 @@
-Musaespora corticola Aptroot & Sipman SPECIES
-=======
+# Musaespora corticola Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

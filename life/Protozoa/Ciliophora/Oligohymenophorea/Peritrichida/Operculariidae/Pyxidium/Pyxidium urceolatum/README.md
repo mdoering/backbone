@@ -1,5 +1,4 @@
-Pyxidium urceolatum SPECIES
-=======
+# Pyxidium urceolatum SPECIES
 
 #### Status
 ACCEPTED

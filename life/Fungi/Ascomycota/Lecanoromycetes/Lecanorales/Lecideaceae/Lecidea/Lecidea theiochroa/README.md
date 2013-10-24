@@ -1,5 +1,4 @@
-Lecidea theiochroa (Darb.) Hue SPECIES
-=======
+# Lecidea theiochroa (Darb.) Hue SPECIES
 
 #### Status
 ACCEPTED

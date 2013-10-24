@@ -1,5 +1,4 @@
-Agaricus eriogenus Fr. SPECIES
-=======
+# Agaricus eriogenus Fr. SPECIES
 
 #### Status
 ACCEPTED

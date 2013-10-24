@@ -1,14 +1,13 @@
-Aleurodiscus macrodens Coker, 1921 SPECIES
-=======
+# Dendrothele macrodens (Coker) P.A. Lemke, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 36(3): 155 (1921)
+Persoonia 3(3): 366 (1965)
 
 #### Original name
 Aleurodiscus macrodens Coker, 1921

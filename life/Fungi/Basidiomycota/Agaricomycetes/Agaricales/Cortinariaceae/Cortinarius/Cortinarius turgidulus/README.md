@@ -1,5 +1,4 @@
-Cortinarius turgidulus Bidaud SPECIES
-=======
+# Cortinarius turgidulus Bidaud SPECIES
 
 #### Status
 ACCEPTED

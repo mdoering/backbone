@@ -1,14 +1,13 @@
-Lecidella plana var. ecrustacea (Anzi ex Arnold) Nyl. VARIETY
-=======
+# Lecidea ecrustacea (Anzi ex Arnold) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wien 28: 287 (1878)
 
 #### Original name
 Lecidella polycarpa var. ecrustacea Anzi ex Arnold

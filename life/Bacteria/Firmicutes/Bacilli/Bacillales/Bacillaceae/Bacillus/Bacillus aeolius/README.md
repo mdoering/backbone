@@ -1,5 +1,4 @@
-Bacillus aeolius Gugliandolo et al., 2003 SPECIES
-=======
+# Bacillus aeolius Gugliandolo et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

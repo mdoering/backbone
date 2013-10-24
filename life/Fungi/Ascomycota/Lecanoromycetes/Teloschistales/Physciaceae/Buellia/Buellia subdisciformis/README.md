@@ -1,17 +1,16 @@
-Buellia subdisciformis var. subdisciformis VARIETY
-=======
+# Buellia subdisciformis (Leight.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Étud. Class. Lich. Brésil 1: 167 (1890)
 
 #### Original name
-null
+Lecidea subdisciformis Leight.
 
 ### Remarks
 null

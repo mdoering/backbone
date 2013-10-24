@@ -1,5 +1,4 @@
-Dimerella streimannii Vezda SPECIES
-=======
+# Dimerella streimannii Vezda SPECIES
 
 #### Status
 ACCEPTED

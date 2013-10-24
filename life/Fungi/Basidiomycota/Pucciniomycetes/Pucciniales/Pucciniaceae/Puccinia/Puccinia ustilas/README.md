@@ -1,5 +1,4 @@
-Puccinia ustilas var. ustilas VARIETY
-=======
+# Puccinia ustilas anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia ustilas var. ustilas
+Puccinia ustilas anon.
 
 ### Remarks
 null

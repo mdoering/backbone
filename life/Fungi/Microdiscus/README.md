@@ -1,5 +1,4 @@
-Microdiscus Steinecke, 1916 GENUS
-=======
+# Microdiscus Steinecke, 1916 GENUS
 
 #### Status
 ACCEPTED

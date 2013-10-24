@@ -1,5 +1,4 @@
-Amphidinium fastigium Kofoid & Swezy, 1921 SPECIES
-=======
+# Amphidinium fastigium Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

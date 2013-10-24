@@ -1,5 +1,4 @@
-Diffingeria Issi, 1979 GENUS
-=======
+# Diffingeria Issi, 1979 GENUS
 
 #### Status
 ACCEPTED

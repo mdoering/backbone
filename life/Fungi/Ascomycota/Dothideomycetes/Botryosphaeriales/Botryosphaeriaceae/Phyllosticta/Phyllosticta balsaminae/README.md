@@ -1,5 +1,4 @@
-Phyllosticta balsaminae Voglino SPECIES
-=======
+# Phyllosticta balsaminae Voglino SPECIES
 
 #### Status
 ACCEPTED

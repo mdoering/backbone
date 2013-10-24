@@ -1,5 +1,4 @@
-Lepiota umbrosa Morgan SPECIES
-=======
+# Lepiota umbrosa Morgan SPECIES
 
 #### Status
 ACCEPTED

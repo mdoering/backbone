@@ -1,5 +1,4 @@
-Octospora polytrichi (Schumach.) Caillet & Moyne SPECIES
-=======
+# Octospora polytrichi (Schumach.) Caillet & Moyne SPECIES
 
 #### Status
 ACCEPTED

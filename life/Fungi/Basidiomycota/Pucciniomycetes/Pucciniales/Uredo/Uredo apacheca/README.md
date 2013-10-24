@@ -1,5 +1,4 @@
-Uredo apacheca R.S. Peterson SPECIES
-=======
+# Uredo apacheca R.S. Peterson SPECIES
 
 #### Status
 ACCEPTED

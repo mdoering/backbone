@@ -1,5 +1,4 @@
-Flammula subfulva Peck SPECIES
-=======
+# Flammula subfulva Peck SPECIES
 
 #### Status
 ACCEPTED

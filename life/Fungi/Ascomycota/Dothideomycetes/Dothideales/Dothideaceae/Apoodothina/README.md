@@ -1,5 +1,4 @@
-Apoodothina Petrak & Ciferri, 1932 GENUS
-=======
+# Apoodothina Petrak & Ciferri, 1932 GENUS
 
 #### Status
 ACCEPTED

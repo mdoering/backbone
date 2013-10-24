@@ -1,5 +1,4 @@
-Sargassum yinggehaiense Tseng & Lu SPECIES
-=======
+# Sargassum yinggehaiense Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

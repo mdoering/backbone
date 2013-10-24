@@ -1,5 +1,4 @@
-Petalomonas sexlobata Klebs SPECIES
-=======
+# Petalomonas sexlobata Klebs SPECIES
 
 #### Status
 ACCEPTED

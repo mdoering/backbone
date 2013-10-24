@@ -1,5 +1,4 @@
-Clitocybe cabrerae Raithelh. SPECIES
-=======
+# Clitocybe cabrerae Raithelh. SPECIES
 
 #### Status
 ACCEPTED

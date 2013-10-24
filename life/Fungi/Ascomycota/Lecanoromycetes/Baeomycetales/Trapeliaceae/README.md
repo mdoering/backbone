@@ -1,5 +1,4 @@
-Trapeliaceae M. Choisy ex Hertel FAMILY
-=======
+# Trapeliaceae M. Choisy ex Hertel FAMILY
 
 #### Status
 ACCEPTED

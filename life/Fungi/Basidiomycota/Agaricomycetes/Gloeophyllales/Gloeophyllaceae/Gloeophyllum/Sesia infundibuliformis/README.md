@@ -1,5 +1,4 @@
-Sesia infundibuliformis (Cooke & Massee) Kuntze SPECIES
-=======
+# Sesia infundibuliformis (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

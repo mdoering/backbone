@@ -1,5 +1,4 @@
-Erynia tumefacta S. Keller SPECIES
-=======
+# Erynia tumefacta S. Keller SPECIES
 
 #### Status
 ACCEPTED

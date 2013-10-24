@@ -1,5 +1,4 @@
-Vaucheria pseudogeminata P.A. Dangeard SPECIES
-=======
+# Vaucheria pseudogeminata P.A. Dangeard SPECIES
 
 #### Status
 ACCEPTED

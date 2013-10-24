@@ -1,5 +1,4 @@
-Teichospora praeclara Rehm SPECIES
-=======
+# Teichospora praeclara Rehm SPECIES
 
 #### Status
 ACCEPTED

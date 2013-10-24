@@ -1,8 +1,7 @@
-Coniosporium richardi Brunaud SPECIES
-=======
+# Coniosporium richardii Brunaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniosporium richardi Brunaud
+Coniosporium richardii Brunaud
 
 ### Remarks
 null

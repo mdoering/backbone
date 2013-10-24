@@ -1,5 +1,4 @@
-Gloeosporium liriodendri Ellis & Everh. SPECIES
-=======
+# Gloeosporium liriodendri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

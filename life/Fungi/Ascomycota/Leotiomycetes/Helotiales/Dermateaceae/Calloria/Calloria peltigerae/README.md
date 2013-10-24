@@ -1,5 +1,4 @@
-Calloria peltigerae Fuckel SPECIES
-=======
+# Calloria peltigerae Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Gondwanamyces scolytodesis M. Kolarík SPECIES
-=======
+# Gondwanamyces scolytodis M. Kolarík SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Czech Mycol. 113(1): 48 (2007)
 
 #### Original name
-Gondwanamyces scolytodesis M. Kolarík
+Gondwanamyces scolytodis M. Kolarík
 
 ### Remarks
 null

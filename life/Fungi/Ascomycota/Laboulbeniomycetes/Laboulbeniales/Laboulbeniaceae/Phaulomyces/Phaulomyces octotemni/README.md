@@ -1,14 +1,13 @@
-Euphoriomyces octotemni T. Majewski, 1973 SPECIES
-=======
+# Phaulomyces octotemni (T. Majewski) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mycologica, Warszawa 9(2): 232 (1973)
+Mycol. Mem. 9: 273 (1985)
 
 #### Original name
 Euphoriomyces octotemni T. Majewski, 1973

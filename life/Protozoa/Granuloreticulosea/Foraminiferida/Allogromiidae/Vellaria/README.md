@@ -1,5 +1,4 @@
-Vellaria Gooday & Fernando, 1992 GENUS
-=======
+# Vellaria Gooday & Fernando, 1992 GENUS
 
 #### Status
 ACCEPTED

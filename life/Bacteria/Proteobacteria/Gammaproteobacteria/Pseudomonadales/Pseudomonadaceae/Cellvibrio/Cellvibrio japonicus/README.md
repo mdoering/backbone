@@ -1,5 +1,4 @@
-Cellvibrio japonicus Humphry et al., 2003 SPECIES
-=======
+# Cellvibrio japonicus Humphry et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

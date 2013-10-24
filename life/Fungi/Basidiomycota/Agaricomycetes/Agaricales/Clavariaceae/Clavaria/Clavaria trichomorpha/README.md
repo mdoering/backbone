@@ -1,5 +1,4 @@
-Clavaria trichomorpha Schwein. SPECIES
-=======
+# Clavaria trichomorpha Schwein. SPECIES
 
 #### Status
 ACCEPTED

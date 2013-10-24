@@ -1,5 +1,4 @@
-Psora cladonioides var. cladonioides VARIETY
-=======
+# Psora cladonioides (Th. Fr.) Elenkin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Psora cladonioides var. cladonioides
+Lecidea cladonioides Th. Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Perenniporia xantha Decock & Ryvarden SPECIES
-=======
+# Perenniporia xantha Decock & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

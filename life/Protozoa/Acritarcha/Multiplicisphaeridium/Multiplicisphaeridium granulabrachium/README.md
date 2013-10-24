@@ -1,5 +1,4 @@
-Multiplicisphaeridium granulabrachium Eiserhardt, 1992 SPECIES
-=======
+# Multiplicisphaeridium granulabrachium Eiserhardt, 1992 SPECIES
 
 #### Status
 ACCEPTED

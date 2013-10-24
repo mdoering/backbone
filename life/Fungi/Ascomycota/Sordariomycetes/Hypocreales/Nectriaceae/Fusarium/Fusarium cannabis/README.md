@@ -1,5 +1,4 @@
-Fusarium cannabis anon. SPECIES
-=======
+# Fusarium cannabis anon. SPECIES
 
 #### Status
 ACCEPTED

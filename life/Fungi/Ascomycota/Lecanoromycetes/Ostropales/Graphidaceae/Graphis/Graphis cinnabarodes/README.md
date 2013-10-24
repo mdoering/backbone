@@ -1,5 +1,4 @@
-Graphis cinnabarodes Nyl. SPECIES
-=======
+# Graphis cinnabarodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

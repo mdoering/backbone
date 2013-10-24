@@ -1,5 +1,4 @@
-Lachnodochium juglandis Sawada SPECIES
-=======
+# Lachnodochium juglandis Sawada SPECIES
 
 #### Status
 ACCEPTED

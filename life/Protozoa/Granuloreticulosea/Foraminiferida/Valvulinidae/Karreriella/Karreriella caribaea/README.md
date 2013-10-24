@@ -1,5 +1,4 @@
-Karreriella caribaea SPECIES
-=======
+# Karreriella caribaea SPECIES
 
 #### Status
 ACCEPTED

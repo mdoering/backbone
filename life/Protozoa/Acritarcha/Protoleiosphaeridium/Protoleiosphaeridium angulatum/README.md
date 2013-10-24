@@ -1,5 +1,4 @@
-Protoleiosphaeridium angulatum Andreeva, 1966 SPECIES
-=======
+# Protoleiosphaeridium angulatum Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

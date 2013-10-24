@@ -1,5 +1,4 @@
-Mancodiniaceae FAMILY
-=======
+# Mancodiniaceae FAMILY
 
 #### Status
 ACCEPTED

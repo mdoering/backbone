@@ -1,5 +1,4 @@
-Giulia Tassi GENUS
-=======
+# Giulia Tassi GENUS
 
 #### Status
 ACCEPTED

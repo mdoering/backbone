@@ -1,5 +1,4 @@
-Catillochroma intermiscens (Nyl.) Kalb SPECIES
-=======
+# Catillochroma intermiscens (Nyl.) Kalb SPECIES
 
 #### Status
 ACCEPTED

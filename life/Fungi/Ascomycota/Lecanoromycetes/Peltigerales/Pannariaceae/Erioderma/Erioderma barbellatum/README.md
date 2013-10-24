@@ -1,5 +1,4 @@
-Erioderma barbellatum P.M. Jørg. & Arv. SPECIES
-=======
+# Erioderma barbellatum P.M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

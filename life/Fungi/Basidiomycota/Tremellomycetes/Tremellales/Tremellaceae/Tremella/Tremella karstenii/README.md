@@ -1,17 +1,16 @@
-Tremella juniperina var. juniperina VARIETY
-=======
+# Tremella karstenii Hauerslev, 1999 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 72: 480 (1999)
 
 #### Original name
-null
+Tremella juniperina P. Karst., 1869
 
 ### Remarks
 null

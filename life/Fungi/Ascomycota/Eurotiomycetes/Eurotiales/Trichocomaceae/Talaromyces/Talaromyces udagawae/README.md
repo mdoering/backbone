@@ -1,5 +1,4 @@
-Talaromyces udagawae Stolk & Samson, 1972 SPECIES
-=======
+# Talaromyces udagawae Stolk & Samson, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium colubrinum Sacc. SPECIES
-=======
+# Gloeosporium colubrinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

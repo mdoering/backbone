@@ -1,5 +1,4 @@
-Caloplaca meleagrina Zahlbr. SPECIES
-=======
+# Caloplaca meleagrina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

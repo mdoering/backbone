@@ -1,5 +1,4 @@
-Thelotrema osornense C.W. Dodge SPECIES
-=======
+# Thelotrema osornense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plowrightia quecina P. Karst. SPECIES
-=======
+# Plowrightia quecina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Skinnerina Ross, 1964 GENUS
-=======
+# Skinnerina Ross, 1964 GENUS
 
 #### Status
 ACCEPTED

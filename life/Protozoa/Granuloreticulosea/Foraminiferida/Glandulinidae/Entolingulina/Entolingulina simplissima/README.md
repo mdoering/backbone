@@ -1,5 +1,4 @@
-Entolingulina simplissima McCulloch, 1977 SPECIES
-=======
+# Entolingulina simplissima McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

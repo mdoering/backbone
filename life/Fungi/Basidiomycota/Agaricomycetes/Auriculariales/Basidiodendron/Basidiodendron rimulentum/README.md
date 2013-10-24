@@ -1,5 +1,4 @@
-Basidiodendron rimulentum (Bourdot & Galzin) Luck-Allen SPECIES
-=======
+# Basidiodendron rimulentum (Bourdot & Galzin) Luck-Allen SPECIES
 
 #### Status
 ACCEPTED

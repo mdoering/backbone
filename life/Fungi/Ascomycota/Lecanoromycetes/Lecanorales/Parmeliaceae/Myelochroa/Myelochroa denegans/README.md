@@ -1,14 +1,13 @@
-Parmelina denegans (Nyl.) Hale SPECIES
-=======
+# Myelochroa denegans (Nyl.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 28(5): 482 (1974)
+Mycotaxon 29: 240 (1987)
 
 #### Original name
 Parmelia denegans Nyl.

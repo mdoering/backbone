@@ -1,5 +1,4 @@
-Asterinella antioquensis Toro SPECIES
-=======
+# Asterinella antioquensis Toro SPECIES
 
 #### Status
 ACCEPTED

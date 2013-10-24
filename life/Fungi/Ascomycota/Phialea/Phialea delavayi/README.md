@@ -1,5 +1,4 @@
-Phialea delavayi Pat. SPECIES
-=======
+# Phialea delavayi Pat. SPECIES
 
 #### Status
 ACCEPTED

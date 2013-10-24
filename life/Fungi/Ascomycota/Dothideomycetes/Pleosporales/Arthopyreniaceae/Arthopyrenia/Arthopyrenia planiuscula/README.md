@@ -1,5 +1,4 @@
-Arthopyrenia planiuscula (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia planiuscula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

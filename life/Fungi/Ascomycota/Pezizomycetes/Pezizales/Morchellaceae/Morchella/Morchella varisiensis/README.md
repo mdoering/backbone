@@ -1,5 +1,4 @@
-Morchella varisiensis Ruini SPECIES
-=======
+# Morchella varisiensis Ruini SPECIES
 
 #### Status
 ACCEPTED

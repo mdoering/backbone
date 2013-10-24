@@ -1,5 +1,4 @@
-Karschia rimulicola (Müll. Arg.) Rehm SPECIES
-=======
+# Karschia rimulicola (Müll. Arg.) Rehm SPECIES
 
 #### Status
 ACCEPTED

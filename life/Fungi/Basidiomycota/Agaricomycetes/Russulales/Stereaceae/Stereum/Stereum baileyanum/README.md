@@ -1,5 +1,4 @@
-Stereum baileyanum Berk. ex Cooke SPECIES
-=======
+# Stereum baileyanum Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

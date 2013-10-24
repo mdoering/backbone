@@ -1,5 +1,4 @@
-Antilyssa gandogeriana M. Choisy SPECIES
-=======
+# Antilyssa gandogeriana M. Choisy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema elveloideum Ach. SPECIES
-=======
+# Collema elveloideum Ach. SPECIES
 
 #### Status
 ACCEPTED

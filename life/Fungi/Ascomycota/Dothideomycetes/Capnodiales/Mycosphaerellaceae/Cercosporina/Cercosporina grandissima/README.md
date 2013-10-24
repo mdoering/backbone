@@ -1,5 +1,4 @@
-Cercosporina grandissima (Rangel) Sacc. SPECIES
-=======
+# Cercosporina grandissima (Rangel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

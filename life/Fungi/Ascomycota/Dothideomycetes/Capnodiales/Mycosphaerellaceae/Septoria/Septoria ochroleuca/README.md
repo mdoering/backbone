@@ -1,5 +1,4 @@
-Septoria ochroleuca Berk. & M.A. Curtis SPECIES
-=======
+# Septoria ochroleuca Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

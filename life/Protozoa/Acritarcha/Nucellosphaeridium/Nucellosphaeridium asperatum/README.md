@@ -1,5 +1,4 @@
-Nucellosphaeridium asperatum Yan Yongkui, 1982 SPECIES
-=======
+# Nucellosphaeridium asperatum Yan Yongkui, 1982 SPECIES
 
 #### Status
 ACCEPTED

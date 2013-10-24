@@ -1,5 +1,4 @@
-Globigerinoides bisphericus Todd SPECIES
-=======
+# Globigerinoides bisphericus Todd SPECIES
 
 #### Status
 ACCEPTED

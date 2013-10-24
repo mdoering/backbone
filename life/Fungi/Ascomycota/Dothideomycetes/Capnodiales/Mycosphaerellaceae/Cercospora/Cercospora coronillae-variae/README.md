@@ -1,5 +1,4 @@
-Cercospora coronillae-variae Lobik SPECIES
-=======
+# Cercospora coronillae-variae Lobik SPECIES
 
 #### Status
 ACCEPTED

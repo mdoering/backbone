@@ -1,5 +1,4 @@
-Brassicophycus Draisma, Ballesteros, F.Rousseau & T.Thibaut, 2010 GENUS
-=======
+# Brassicophycus Draisma, Ballesteros, F.Rousseau & T.Thibaut, 2010 GENUS
 
 #### Status
 ACCEPTED

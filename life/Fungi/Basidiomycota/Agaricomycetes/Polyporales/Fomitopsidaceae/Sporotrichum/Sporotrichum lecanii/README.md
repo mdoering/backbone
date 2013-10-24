@@ -1,5 +1,4 @@
-Sporotrichum lecanii Peck SPECIES
-=======
+# Sporotrichum lecanii Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonopsis aciculispora E.K. Cash SPECIES
-=======
+# Belonopsis aciculispora E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

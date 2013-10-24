@@ -1,5 +1,4 @@
-Chiodecton argillaceum Müll. Arg. SPECIES
-=======
+# Chiodecton argillaceum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

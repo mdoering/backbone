@@ -1,5 +1,4 @@
-Tuburcinia kmetiana (Magnus) Liro SPECIES
-=======
+# Tuburcinia kmetiana (Magnus) Liro SPECIES
 
 #### Status
 ACCEPTED

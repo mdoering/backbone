@@ -1,5 +1,4 @@
-Pertusaria tenebricosa A. Massal. SPECIES
-=======
+# Pertusaria tenebricosa A. Massal. SPECIES
 
 #### Status
 ACCEPTED

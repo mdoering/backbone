@@ -1,5 +1,4 @@
-Baltisphaeridium hermosum Cramer & Díez, 1968 SPECIES
-=======
+# Baltisphaeridium hermosum Cramer & Díez, 1968 SPECIES
 
 #### Status
 ACCEPTED

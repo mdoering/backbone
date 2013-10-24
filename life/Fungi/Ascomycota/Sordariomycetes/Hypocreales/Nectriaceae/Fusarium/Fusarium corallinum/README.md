@@ -1,5 +1,4 @@
-Fusarium corallinum Sacc. SPECIES
-=======
+# Fusarium corallinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

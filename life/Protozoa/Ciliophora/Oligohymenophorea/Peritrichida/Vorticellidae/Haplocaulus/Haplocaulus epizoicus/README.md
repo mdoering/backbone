@@ -1,5 +1,4 @@
-Haplocaulus epizoicus (Sramek-Husek, 1948) Stiller, 1971 SPECIES
-=======
+# Haplocaulus epizoicus (Sramek-Husek, 1948) Stiller, 1971 SPECIES
 
 #### Status
 ACCEPTED

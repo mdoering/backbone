@@ -1,5 +1,4 @@
-Pelagococcus subviridis R.E. Norris SPECIES
-=======
+# Pelagococcus subviridis R.E. Norris SPECIES
 
 #### Status
 ACCEPTED

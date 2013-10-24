@@ -1,5 +1,4 @@
-Sphaerella marginata (Wallr.) G. Winter SPECIES
-=======
+# Sphaerella marginata (Wallr.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

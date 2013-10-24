@@ -1,5 +1,4 @@
-Aplosporella squieriae (Clinton) Petr. SPECIES
-=======
+# Aplosporella squieriae (Clinton) Petr. SPECIES
 
 #### Status
 ACCEPTED

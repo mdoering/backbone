@@ -1,5 +1,4 @@
-Suessiales Fensome et al., 1993 ORDER
-=======
+# Suessiales Fensome et al., 1993 ORDER
 
 #### Status
 ACCEPTED

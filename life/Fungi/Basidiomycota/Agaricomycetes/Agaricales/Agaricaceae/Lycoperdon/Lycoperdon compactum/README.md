@@ -1,14 +1,13 @@
-Morganella compacta (G. Cunn.) Kreisel & Dring, 1967 SPECIES
-=======
+# Lycoperdon compactum G. Cunn., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. 74: 116 (1967)
+Trans. & Proc. New Zealand Inst. 195 (1926)
 
 #### Original name
 Lycoperdon compactum G. Cunn., 1926

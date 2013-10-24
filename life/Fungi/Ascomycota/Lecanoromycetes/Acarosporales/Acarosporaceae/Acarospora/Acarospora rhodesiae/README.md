@@ -1,5 +1,4 @@
-Acarospora rhodesiae H. Magn. SPECIES
-=======
+# Acarospora rhodesiae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

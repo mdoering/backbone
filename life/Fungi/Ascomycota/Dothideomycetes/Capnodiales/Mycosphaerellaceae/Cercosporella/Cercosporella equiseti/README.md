@@ -1,5 +1,4 @@
-Cercosporella equiseti (C. Massal.) U. Braun SPECIES
-=======
+# Cercosporella equiseti (C. Massal.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

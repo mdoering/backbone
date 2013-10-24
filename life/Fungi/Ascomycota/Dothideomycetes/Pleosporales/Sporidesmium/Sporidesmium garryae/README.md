@@ -1,5 +1,4 @@
-Sporidesmium garryae Bonar SPECIES
-=======
+# Sporidesmium garryae Bonar SPECIES
 
 #### Status
 ACCEPTED

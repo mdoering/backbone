@@ -1,17 +1,16 @@
-Anaptychia himalayensis D. D. Awasthi SPECIES
-=======
+# Heterodermia himalayensis (D. D. Awasthi) D. D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Geophytology 3(1): 113 (1973)
 
 #### Original name
-null
+Anaptychia himalayaensis D.D. Awasthi
 
 ### Remarks
 null

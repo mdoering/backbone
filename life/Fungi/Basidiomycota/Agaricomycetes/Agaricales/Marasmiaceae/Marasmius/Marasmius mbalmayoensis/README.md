@@ -1,5 +1,4 @@
-Marasmius mbalmayoensis Douanla-Meli SPECIES
-=======
+# Marasmius mbalmayoensis Douanla-Meli SPECIES
 
 #### Status
 ACCEPTED

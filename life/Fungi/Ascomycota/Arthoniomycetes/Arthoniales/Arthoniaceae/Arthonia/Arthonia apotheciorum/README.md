@@ -1,5 +1,4 @@
-Arthonia apotheciorum (A. Massal.) Almq. SPECIES
-=======
+# Arthonia apotheciorum (A. Massal.) Almq. SPECIES
 
 #### Status
 ACCEPTED

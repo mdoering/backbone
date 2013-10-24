@@ -1,5 +1,4 @@
-Cetrariastrum subplanum (Sipman) Kurok. SPECIES
-=======
+# Cetrariastrum subplanum (Sipman) Kurok. SPECIES
 
 #### Status
 ACCEPTED

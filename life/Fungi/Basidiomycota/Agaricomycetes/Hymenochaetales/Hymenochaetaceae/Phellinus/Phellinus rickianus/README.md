@@ -1,5 +1,4 @@
-Phellinus rickianus J.E. Wright & J.R. Deschamps SPECIES
-=======
+# Phellinus rickianus J.E. Wright & J.R. Deschamps SPECIES
 
 #### Status
 ACCEPTED

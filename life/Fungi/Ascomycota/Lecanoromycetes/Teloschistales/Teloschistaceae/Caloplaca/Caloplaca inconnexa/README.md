@@ -1,17 +1,16 @@
-Caloplaca inconnexa subsp. inconnexa SUBSPECIES
-=======
+# Caloplaca inconnexa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 145 (1930)
 
 #### Original name
-null
+Lecanora inconnexa Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Colletotrichum curvisetum F. Stevens SPECIES
-=======
+# Colletotrichum curvisetum F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella micheliae Hosag., Archana & D.K. Agarwal SPECIES
-=======
+# Asteridiella micheliae Hosag., Archana & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

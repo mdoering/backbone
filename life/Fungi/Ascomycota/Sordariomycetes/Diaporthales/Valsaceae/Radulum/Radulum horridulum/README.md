@@ -1,5 +1,4 @@
-Radulum horridulum Rick SPECIES
-=======
+# Radulum horridulum Rick SPECIES
 
 #### Status
 ACCEPTED

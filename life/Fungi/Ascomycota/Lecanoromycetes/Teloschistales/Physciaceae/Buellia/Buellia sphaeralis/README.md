@@ -1,5 +1,4 @@
-Buellia sphaeralis (Körb.) SPECIES
-=======
+# Buellia sphaeralis (Körb.) SPECIES
 
 #### Status
 ACCEPTED

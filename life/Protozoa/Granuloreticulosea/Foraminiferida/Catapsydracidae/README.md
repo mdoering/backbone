@@ -1,5 +1,4 @@
-Catapsydracidae FAMILY
-=======
+# Catapsydracidae FAMILY
 
 #### Status
 ACCEPTED

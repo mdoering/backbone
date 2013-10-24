@@ -1,5 +1,4 @@
-Tolypomyria fungicola P. Karst. SPECIES
-=======
+# Tolypomyria fungicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

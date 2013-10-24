@@ -1,5 +1,4 @@
-Paxillus pubescens Ellis SPECIES
-=======
+# Paxillus pubescens Ellis SPECIES
 
 #### Status
 ACCEPTED

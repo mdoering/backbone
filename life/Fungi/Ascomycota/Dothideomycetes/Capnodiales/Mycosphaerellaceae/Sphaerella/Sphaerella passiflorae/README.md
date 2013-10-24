@@ -1,5 +1,4 @@
-Sphaerella passiflorae (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Sphaerella passiflorae (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

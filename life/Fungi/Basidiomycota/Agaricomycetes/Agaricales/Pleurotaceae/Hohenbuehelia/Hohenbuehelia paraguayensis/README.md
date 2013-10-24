@@ -1,5 +1,4 @@
-Hohenbuehelia paraguayensis (Speg.) Singer SPECIES
-=======
+# Hohenbuehelia paraguayensis (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

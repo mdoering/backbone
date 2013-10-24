@@ -1,5 +1,4 @@
-Bryodina rhypariza (Nyl.) Hafellner SPECIES
-=======
+# Bryodina rhypariza (Nyl.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

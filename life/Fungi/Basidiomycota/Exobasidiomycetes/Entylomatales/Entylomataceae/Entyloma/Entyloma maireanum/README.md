@@ -1,5 +1,4 @@
-Entyloma maireanum Cif. SPECIES
-=======
+# Entyloma maireanum Cif. SPECIES
 
 #### Status
 ACCEPTED

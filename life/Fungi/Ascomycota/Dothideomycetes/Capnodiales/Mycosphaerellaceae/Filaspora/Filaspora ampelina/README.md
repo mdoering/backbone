@@ -1,5 +1,4 @@
-Filaspora ampelina (Thüm.) Kuntze SPECIES
-=======
+# Filaspora ampelina (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Goniochloris fallax var. bifida Y. Thérézien VARIETY
-=======
+# Goniochloris fallax Fott SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Peckiella tulasneana (Plowr.) Sacc., 1891 SPECIES
-=======
+# Hypomyces tulasneanus Plowr., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 9: 944 (1891)
+Grevillea 11(no. 58): 46 (1882)
 
 #### Original name
 Hypomyces tulasneanus Plowr., 1882

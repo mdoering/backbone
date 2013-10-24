@@ -1,5 +1,4 @@
-Niptera subbiatorina Rehm, 1891 SPECIES
-=======
+# Niptera subbiatorina Rehm, 1891 SPECIES
 
 #### Status
 ACCEPTED

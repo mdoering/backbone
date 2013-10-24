@@ -1,5 +1,4 @@
-Sullivania inconspicua var. van (Heck & B. Prins) O. Varol VARIETY
-=======
+# Sullivania inconspicua SPECIES
 
 #### Status
 ACCEPTED

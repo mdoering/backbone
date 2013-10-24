@@ -1,5 +1,4 @@
-Lecidea latericola Erichsen SPECIES
-=======
+# Lecidea latericola Erichsen SPECIES
 
 #### Status
 ACCEPTED

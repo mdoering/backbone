@@ -1,5 +1,4 @@
-Aspicilia eximia Hue SPECIES
-=======
+# Aspicilia eximia Hue SPECIES
 
 #### Status
 ACCEPTED

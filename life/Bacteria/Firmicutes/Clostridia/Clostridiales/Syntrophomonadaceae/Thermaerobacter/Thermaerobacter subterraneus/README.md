@@ -1,5 +1,4 @@
-Thermaerobacter subterraneus Spanevello et al., 2002 SPECIES
-=======
+# Thermaerobacter subterraneus Spanevello et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Involucrocarpon GENUS
-=======
+# Involucrocarpon GENUS
 
 #### Status
 ACCEPTED

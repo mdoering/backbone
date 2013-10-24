@@ -1,5 +1,4 @@
-Starobogatovella hoeglundi Mikhalevich, 1994 SPECIES
-=======
+# Starobogatovella hoeglundi Mikhalevich, 1994 SPECIES
 
 #### Status
 ACCEPTED

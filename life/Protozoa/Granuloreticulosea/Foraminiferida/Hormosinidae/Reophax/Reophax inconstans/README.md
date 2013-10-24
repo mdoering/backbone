@@ -1,5 +1,4 @@
-Reophax inconstans Rhumbler, 1949 SPECIES
-=======
+# Reophax inconstans Rhumbler, 1949 SPECIES
 
 #### Status
 ACCEPTED

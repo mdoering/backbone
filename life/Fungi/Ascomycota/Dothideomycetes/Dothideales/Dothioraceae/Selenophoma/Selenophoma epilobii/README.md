@@ -1,5 +1,4 @@
-Selenophoma epilobii Petr. SPECIES
-=======
+# Selenophoma epilobii Petr. SPECIES
 
 #### Status
 ACCEPTED

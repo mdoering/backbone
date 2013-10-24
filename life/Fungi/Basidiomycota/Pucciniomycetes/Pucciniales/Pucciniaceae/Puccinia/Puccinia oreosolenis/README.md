@@ -1,5 +1,4 @@
-Puccinia oreosolenis J.Y. Zhuang SPECIES
-=======
+# Puccinia oreosolenis J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

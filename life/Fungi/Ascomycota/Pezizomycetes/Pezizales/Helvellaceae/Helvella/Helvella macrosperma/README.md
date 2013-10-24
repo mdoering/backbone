@@ -1,5 +1,4 @@
-Helvella macrosperma (J. Favre) R. Fellner & Landa SPECIES
-=======
+# Helvella macrosperma (J. Favre) R. Fellner & Landa SPECIES
 
 #### Status
 ACCEPTED

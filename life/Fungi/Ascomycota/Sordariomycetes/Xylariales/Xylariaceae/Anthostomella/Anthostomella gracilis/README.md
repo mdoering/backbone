@@ -1,5 +1,4 @@
-Anthostomella gracilis Tassi SPECIES
-=======
+# Anthostomella gracilis Tassi SPECIES
 
 #### Status
 ACCEPTED

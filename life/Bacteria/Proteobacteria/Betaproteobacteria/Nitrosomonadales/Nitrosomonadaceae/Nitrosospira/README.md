@@ -1,5 +1,4 @@
-Nitrosospira Winogradsky & Winogradsky, 1933 GENUS
-=======
+# Nitrosospira Winogradsky & Winogradsky, 1933 GENUS
 
 #### Status
 ACCEPTED

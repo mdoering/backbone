@@ -1,5 +1,4 @@
-Rhizosphaerella lentisci (Mont. & Durieu) Höhn. SPECIES
-=======
+# Rhizosphaerella lentisci (Mont. & Durieu) Höhn. SPECIES
 
 #### Status
 ACCEPTED

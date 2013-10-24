@@ -1,5 +1,4 @@
-Bacidia leioplacella (Müll. Arg.) SPECIES
-=======
+# Bacidia leioplacella (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

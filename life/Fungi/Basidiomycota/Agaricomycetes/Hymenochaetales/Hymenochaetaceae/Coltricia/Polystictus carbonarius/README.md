@@ -1,5 +1,4 @@
-Polystictus carbonarius (Fr.) Cooke SPECIES
-=======
+# Polystictus carbonarius (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

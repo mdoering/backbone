@@ -1,5 +1,4 @@
-Ornatispora K.D. Hyde, Goh, Joanne E. Taylor, J. Fröhl. GENUS
-=======
+# Ornatispora K.D. Hyde, Goh, Joanne E. Taylor, J. Fröhl. GENUS
 
 #### Status
 ACCEPTED

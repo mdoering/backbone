@@ -1,5 +1,4 @@
-Synechoblastus wyomingensis Fink ex J. Hedrick SPECIES
-=======
+# Synechoblastus wyomingensis Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

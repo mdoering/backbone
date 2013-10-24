@@ -1,5 +1,4 @@
-Trachelomonas perforata var. compressa Messikommer VARIETY
-=======
+# Trachelomonas perforata Awerinzew SPECIES
 
 #### Status
 ACCEPTED

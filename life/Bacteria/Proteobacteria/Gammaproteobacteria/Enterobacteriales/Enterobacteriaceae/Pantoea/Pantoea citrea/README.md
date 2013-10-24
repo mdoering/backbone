@@ -1,5 +1,4 @@
-Pantoea citrea Kageyama et al., 1992 SPECIES
-=======
+# Pantoea citrea Kageyama et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

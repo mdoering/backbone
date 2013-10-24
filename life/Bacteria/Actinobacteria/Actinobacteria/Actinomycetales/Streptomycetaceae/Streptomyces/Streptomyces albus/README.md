@@ -1,5 +1,4 @@
-Streptomyces albus subsp. albus SUBSPECIES
-=======
+# Streptomyces albus (Rossi Doria, 1891) Waksman & Henrici, 1943 SPECIES
 
 #### Status
 ACCEPTED

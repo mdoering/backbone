@@ -1,5 +1,4 @@
-Hymenostilbe longispora Samson & H.C. Evans SPECIES
-=======
+# Hymenostilbe longispora Samson & H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia straminea Wahlenb. SPECIES
-=======
+# Parmelia straminea Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

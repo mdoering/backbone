@@ -1,5 +1,4 @@
-Squamarina degelii Poelt SPECIES
-=======
+# Squamarina degelii Poelt SPECIES
 
 #### Status
 ACCEPTED

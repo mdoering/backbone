@@ -1,5 +1,4 @@
-Nocardia alba Li et al., 2004 SPECIES
-=======
+# Nocardia alba Li et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

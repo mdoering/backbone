@@ -1,5 +1,4 @@
-Colpoda fragilis Powers, 1933 SPECIES
-=======
+# Colpoda fragilis Powers, 1933 SPECIES
 
 #### Status
 ACCEPTED

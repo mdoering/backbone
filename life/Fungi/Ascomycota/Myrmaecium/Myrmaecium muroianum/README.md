@@ -1,5 +1,4 @@
-Myrmaecium muroianum I. Hino & Katum. SPECIES
-=======
+# Myrmaecium muroianum I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

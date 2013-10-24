@@ -1,5 +1,4 @@
-Aecidium lepidii Tracy & L.D. Galloway SPECIES
-=======
+# Aecidium lepidii Tracy & L.D. Galloway SPECIES
 
 #### Status
 ACCEPTED

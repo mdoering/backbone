@@ -1,5 +1,4 @@
-Anigsteinia Isquith, 1968 GENUS
-=======
+# Anigsteinia Isquith, 1968 GENUS
 
 #### Status
 ACCEPTED

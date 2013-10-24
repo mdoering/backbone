@@ -1,5 +1,4 @@
-Alternaria manshurica Hara SPECIES
-=======
+# Alternaria manshurica Hara SPECIES
 
 #### Status
 ACCEPTED

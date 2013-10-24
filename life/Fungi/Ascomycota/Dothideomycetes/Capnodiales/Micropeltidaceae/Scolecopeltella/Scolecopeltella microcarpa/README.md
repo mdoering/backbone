@@ -1,5 +1,4 @@
-Scolecopeltella microcarpa Speg. SPECIES
-=======
+# Scolecopeltella microcarpa Speg. SPECIES
 
 #### Status
 ACCEPTED

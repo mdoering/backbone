@@ -1,5 +1,4 @@
-Puccinia poae-aposeridis Gäum. & Poelt SPECIES
-=======
+# Puccinia poae-aposeridis Gäum. & Poelt SPECIES
 
 #### Status
 ACCEPTED

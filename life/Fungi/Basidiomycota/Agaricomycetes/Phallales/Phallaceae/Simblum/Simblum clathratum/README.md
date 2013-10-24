@@ -1,5 +1,4 @@
-Simblum clathratum Lloyd SPECIES
-=======
+# Simblum clathratum Lloyd SPECIES
 
 #### Status
 ACCEPTED

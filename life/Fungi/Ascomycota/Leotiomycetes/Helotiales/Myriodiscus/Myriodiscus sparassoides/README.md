@@ -1,17 +1,16 @@
-Ascotremellopsis bambusicola Teng & S.H. Ou ex S.H. Ou, 1936 SPECIES
-=======
+# Myriodiscus sparassoides Boedijn, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sinensia, Shanghai 7: 671 (1936)
+Bull. Jard. Bot. Buitenz, 3 Sér. 13: 481 (1935)
 
 #### Original name
-Ascotremellopsis bambusicola Teng & S.H. Ou ex S.H. Ou, 1936
+Myriodiscus sparassoides Boedijn, 1935
 
 ### Remarks
 null

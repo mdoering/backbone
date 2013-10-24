@@ -1,5 +1,4 @@
-Aecidium calosporum Juel SPECIES
-=======
+# Aecidium calosporum Juel SPECIES
 
 #### Status
 ACCEPTED

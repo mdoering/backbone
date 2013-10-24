@@ -1,5 +1,4 @@
-Kinia Consiglio, Contu, Setti & Vizzini GENUS
-=======
+# Kinia Consiglio, Contu, Setti & Vizzini GENUS
 
 #### Status
 ACCEPTED

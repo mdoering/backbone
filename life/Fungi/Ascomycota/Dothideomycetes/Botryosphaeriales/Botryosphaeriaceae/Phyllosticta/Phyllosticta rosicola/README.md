@@ -1,5 +1,4 @@
-Phyllosticta rosicola C. Massal. SPECIES
-=======
+# Phyllosticta rosicola C. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acetabula ochroleuca Velen. SPECIES
-=======
+# Acetabula ochroleuca Velen. SPECIES
 
 #### Status
 ACCEPTED

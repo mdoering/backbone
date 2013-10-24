@@ -1,5 +1,4 @@
-Mycena carolinensis A.H. Sm. & Hesler SPECIES
-=======
+# Mycena carolinensis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

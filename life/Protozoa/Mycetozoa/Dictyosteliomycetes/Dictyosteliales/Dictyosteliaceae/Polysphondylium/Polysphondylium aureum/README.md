@@ -1,5 +1,4 @@
-Polysphondylium aureum H. Hodgson & Wheller SPECIES
-=======
+# Polysphondylium aureum H. Hodgson & Wheller SPECIES
 
 #### Status
 ACCEPTED

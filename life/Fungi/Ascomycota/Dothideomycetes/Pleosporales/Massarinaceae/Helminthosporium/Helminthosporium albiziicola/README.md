@@ -1,17 +1,16 @@
-Helminthosporium albizzicola Thirum. & Naras. SPECIES
-=======
+# Helminthosporium albiziicola Thirum. & Naras. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 4(1-6): 67 (1950)
 
 #### Original name
-Helminthosporium albizzicola Thirum. & Naras.
+Helminthosporium albiziicola Thirum. & Naras.
 
 ### Remarks
 null

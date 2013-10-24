@@ -1,5 +1,4 @@
-Marixanthomonas ophiurae Romanenko, Uchino, Frolova & Mikhailov, 2007 SPECIES
-=======
+# Marixanthomonas ophiurae Romanenko, Uchino, Frolova & Mikhailov, 2007 SPECIES
 
 #### Status
 ACCEPTED

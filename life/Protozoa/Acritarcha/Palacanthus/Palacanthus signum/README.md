@@ -1,5 +1,4 @@
-Palacanthus signum (Deunff, 1965) Stancliffe & Sarjeant, 1996 SPECIES
-=======
+# Palacanthus signum (Deunff, 1965) Stancliffe & Sarjeant, 1996 SPECIES
 
 #### Status
 ACCEPTED

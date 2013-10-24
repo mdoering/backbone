@@ -1,5 +1,4 @@
-Neoclitocybe Singer GENUS
-=======
+# Neoclitocybe Singer GENUS
 
 #### Status
 ACCEPTED

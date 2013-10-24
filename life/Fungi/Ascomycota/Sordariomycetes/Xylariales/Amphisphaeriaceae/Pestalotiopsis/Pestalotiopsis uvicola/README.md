@@ -1,14 +1,13 @@
-Pestalotia uvicola Speg., 1878 SPECIES
-=======
+# Pestalotiopsis uvicola (Speg.) Bissett, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Riv. Vitic. Enolog. Conegl. 2: 340 (1878)
+Can. J. Bot. 60(12): 2572 (1983)
 
 #### Original name
 Pestalotia uvicola Speg., 1878

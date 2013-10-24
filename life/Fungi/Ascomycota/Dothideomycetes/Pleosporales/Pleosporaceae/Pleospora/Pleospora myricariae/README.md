@@ -1,5 +1,4 @@
-Pleospora myricariae Ade SPECIES
-=======
+# Pleospora myricariae Ade SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca radicata (Peck) Murrill SPECIES
-=======
+# Melanoleuca radicata (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

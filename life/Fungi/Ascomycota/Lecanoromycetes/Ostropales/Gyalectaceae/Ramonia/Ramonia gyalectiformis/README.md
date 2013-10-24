@@ -1,5 +1,4 @@
-Ramonia gyalectiformis (Zahlbr.) Vezda SPECIES
-=======
+# Ramonia gyalectiformis (Zahlbr.) Vezda SPECIES
 
 #### Status
 ACCEPTED

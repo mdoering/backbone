@@ -1,14 +1,13 @@
-Chamaeceras alliodorus (Mont.) Kuntze SPECIES
-=======
+# Chamaeceras alliiodorus (Mont.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 455 (1898)
 
 #### Original name
 Cantharellus alliiodorus Mont.

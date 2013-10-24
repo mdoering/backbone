@@ -1,5 +1,4 @@
-Cercospora arrabidaeae Chupp & Viégas SPECIES
-=======
+# Cercospora arrabidaeae Chupp & Viégas SPECIES
 
 #### Status
 ACCEPTED

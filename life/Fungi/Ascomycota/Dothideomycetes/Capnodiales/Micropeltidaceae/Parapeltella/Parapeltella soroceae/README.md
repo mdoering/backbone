@@ -1,5 +1,4 @@
-Parapeltella soroceae (Bat. & Gayão) Bat. SPECIES
-=======
+# Parapeltella soroceae (Bat. & Gayão) Bat. SPECIES
 
 #### Status
 ACCEPTED

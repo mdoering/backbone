@@ -1,5 +1,4 @@
-Octaviania radicans Rick SPECIES
-=======
+# Octaviania radicans Rick SPECIES
 
 #### Status
 ACCEPTED

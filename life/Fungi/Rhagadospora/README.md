@@ -1,5 +1,4 @@
-Rhagadospora GENUS
-=======
+# Rhagadospora GENUS
 
 #### Status
 ACCEPTED

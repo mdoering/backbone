@@ -1,5 +1,4 @@
-Agyrium punctoideum Rehm SPECIES
-=======
+# Agyrium punctoideum Rehm SPECIES
 
 #### Status
 ACCEPTED

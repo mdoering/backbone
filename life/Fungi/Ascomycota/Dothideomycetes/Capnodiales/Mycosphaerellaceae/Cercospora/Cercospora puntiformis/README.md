@@ -1,5 +1,4 @@
-Cercospora puntiformis Sacc. & Roum. SPECIES
-=======
+# Cercospora puntiformis Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

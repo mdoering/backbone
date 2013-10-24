@@ -1,5 +1,4 @@
-Solenia hakgallae W.B. Cooke SPECIES
-=======
+# Solenia hakgallae W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

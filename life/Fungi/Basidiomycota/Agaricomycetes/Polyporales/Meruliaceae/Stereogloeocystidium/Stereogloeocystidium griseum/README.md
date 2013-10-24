@@ -1,5 +1,4 @@
-Stereogloeocystidium griseum Rick SPECIES
-=======
+# Stereogloeocystidium griseum Rick SPECIES
 
 #### Status
 ACCEPTED

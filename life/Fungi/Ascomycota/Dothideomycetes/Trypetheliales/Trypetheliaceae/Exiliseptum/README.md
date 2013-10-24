@@ -1,5 +1,4 @@
-Exiliseptum R.C. Harris GENUS
-=======
+# Exiliseptum R.C. Harris GENUS
 
 #### Status
 ACCEPTED

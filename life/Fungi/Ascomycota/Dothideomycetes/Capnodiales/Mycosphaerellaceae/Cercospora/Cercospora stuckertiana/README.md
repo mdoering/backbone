@@ -1,5 +1,4 @@
-Cercospora stuckertiana Syd. & P. Syd. SPECIES
-=======
+# Cercospora stuckertiana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

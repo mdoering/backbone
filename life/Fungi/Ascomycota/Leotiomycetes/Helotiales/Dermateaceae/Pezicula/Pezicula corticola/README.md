@@ -1,5 +1,4 @@
-Pezicula corticola (C.A. Jørg.) Nannf., 1932 SPECIES
-=======
+# Pezicula corticola (C.A. Jørg.) Nannf., 1932 SPECIES
 
 #### Status
 ACCEPTED

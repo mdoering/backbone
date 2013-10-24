@@ -1,5 +1,4 @@
-Sclerotinia lentiformis Velen. SPECIES
-=======
+# Sclerotinia lentiformis Velen. SPECIES
 
 #### Status
 ACCEPTED

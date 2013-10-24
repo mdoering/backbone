@@ -1,5 +1,4 @@
-Puccinia guatemalensis Parmelee SPECIES
-=======
+# Puccinia guatemalensis Parmelee SPECIES
 
 #### Status
 ACCEPTED

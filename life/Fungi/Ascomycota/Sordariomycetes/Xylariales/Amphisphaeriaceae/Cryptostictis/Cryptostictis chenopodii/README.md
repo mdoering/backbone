@@ -1,5 +1,4 @@
-Cryptostictis chenopodii Naumov SPECIES
-=======
+# Cryptostictis chenopodii Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lissodinium homacanthum M. C. Carbonell-Moore SPECIES
-=======
+# Lissodinium homacanthum M. C. Carbonell-Moore SPECIES
 
 #### Status
 ACCEPTED

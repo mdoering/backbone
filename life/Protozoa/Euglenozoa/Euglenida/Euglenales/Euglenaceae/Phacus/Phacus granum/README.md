@@ -1,5 +1,4 @@
-Phacus granum Drezepolski SPECIES
-=======
+# Phacus granum Drezepolski SPECIES
 
 #### Status
 ACCEPTED

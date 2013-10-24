@@ -1,5 +1,4 @@
-Davisomycella skimmiae (Bat., Peres & S.H. Iqbal) S. Ahmad SPECIES
-=======
+# Davisomycella skimmiae (Bat., Peres & S.H. Iqbal) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scopulariopsis dagatae (Sacc.) C.W. Dodge SPECIES
-=======
+# Scopulariopsis dagatae (Sacc.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

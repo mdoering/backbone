@@ -1,5 +1,4 @@
-Distephanopsis longispina (P. Schulz) T. V. Desikachary & P. Prema SPECIES
-=======
+# Distephanopsis longispina (P. Schulz) T. V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

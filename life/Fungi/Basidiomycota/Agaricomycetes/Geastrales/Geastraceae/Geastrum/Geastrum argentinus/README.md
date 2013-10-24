@@ -1,8 +1,7 @@
-Geaster argentinus Speg. SPECIES
-=======
+# Geastrum argentinus Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster argentinus Speg.
+Geastrum argentinus Speg.
 
 ### Remarks
 null

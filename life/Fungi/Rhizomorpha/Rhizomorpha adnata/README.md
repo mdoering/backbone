@@ -1,5 +1,4 @@
-Rhizomorpha adnata Fuckel SPECIES
-=======
+# Rhizomorpha adnata Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina thomae Tuck. SPECIES
-=======
+# Rinodina thomae Tuck. SPECIES
 
 #### Status
 ACCEPTED

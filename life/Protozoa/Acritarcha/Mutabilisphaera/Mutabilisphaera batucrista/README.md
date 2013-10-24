@@ -1,5 +1,4 @@
-Mutabilisphaera batucrista Zang in Gravestock et al., 2001 SPECIES
-=======
+# Mutabilisphaera batucrista Zang in Gravestock et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

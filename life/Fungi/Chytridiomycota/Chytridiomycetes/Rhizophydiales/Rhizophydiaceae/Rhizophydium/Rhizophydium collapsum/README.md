@@ -1,5 +1,4 @@
-Rhizophydium collapsum Karling, 1964 SPECIES
-=======
+# Rhizophydium collapsum Karling, 1964 SPECIES
 
 #### Status
 ACCEPTED

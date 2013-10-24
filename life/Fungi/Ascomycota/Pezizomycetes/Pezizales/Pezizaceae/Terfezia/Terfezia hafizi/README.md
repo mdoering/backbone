@@ -1,5 +1,4 @@
-Terfezia hafizi Chatin SPECIES
-=======
+# Terfezia hafizi Chatin SPECIES
 
 #### Status
 ACCEPTED

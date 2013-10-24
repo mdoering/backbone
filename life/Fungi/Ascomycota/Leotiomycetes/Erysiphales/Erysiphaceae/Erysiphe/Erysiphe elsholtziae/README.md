@@ -1,5 +1,4 @@
-Erysiphe elsholtziae (Sawada) R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Erysiphe elsholtziae (Sawada) R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

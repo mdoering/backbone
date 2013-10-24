@@ -1,5 +1,4 @@
-Tetraedriella polychloris Skuja SPECIES
-=======
+# Tetraedriella polychloris Skuja SPECIES
 
 #### Status
 ACCEPTED

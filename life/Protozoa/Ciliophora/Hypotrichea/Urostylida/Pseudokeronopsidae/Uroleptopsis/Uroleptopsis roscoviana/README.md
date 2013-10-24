@@ -1,5 +1,4 @@
-Uroleptopsis roscoviana Maupas, 1983 SPECIES
-=======
+# Uroleptopsis roscoviana Maupas, 1983 SPECIES
 
 #### Status
 ACCEPTED

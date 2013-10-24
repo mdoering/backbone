@@ -1,5 +1,4 @@
-Himantia sacchari Speg. SPECIES
-=======
+# Himantia sacchari Speg. SPECIES
 
 #### Status
 ACCEPTED

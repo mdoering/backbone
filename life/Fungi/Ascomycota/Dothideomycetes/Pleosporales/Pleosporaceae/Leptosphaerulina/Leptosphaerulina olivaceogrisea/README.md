@@ -1,5 +1,4 @@
-Leptosphaerulina olivaceogrisea Nograsek SPECIES
-=======
+# Leptosphaerulina olivaceogrisea Nograsek SPECIES
 
 #### Status
 ACCEPTED

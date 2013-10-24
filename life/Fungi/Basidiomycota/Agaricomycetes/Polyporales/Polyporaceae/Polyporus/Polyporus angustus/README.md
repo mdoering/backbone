@@ -1,5 +1,4 @@
-Polyporus angustus Berk. SPECIES
-=======
+# Polyporus angustus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothecium psammae Oudem. SPECIES
-=======
+# Coniothecium psammae Oudem. SPECIES
 
 #### Status
 ACCEPTED

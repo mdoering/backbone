@@ -1,5 +1,4 @@
-Diploschistes chloroleucus (Tuck.) Zahlbr. SPECIES
-=======
+# Diploschistes chloroleucus (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

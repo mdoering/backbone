@@ -1,14 +1,13 @@
-Physalospora embeliae H.S. Yates, 1918 SPECIES
-=======
+# Plectosphaera embeliae (H.S. Yates) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Philipp. J. Sci. , C, Bot. 13: 377 (1918)
+Beitr. Kryptfl. Schweiz 11(no. 1): 207 (1954)
 
 #### Original name
 Physalospora embeliae H.S. Yates, 1918

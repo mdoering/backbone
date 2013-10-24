@@ -1,17 +1,16 @@
-Macrosporium concinnum var. concinnum Berk. & Broome VARIETY
-=======
+# Macrosporium concinnum Berk. & Broome, 1841 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 1 no. 235 (1841)
+Ann. Mag. nat. Hist. , Ser. 1 6: no. 235 (1841)
 
 #### Original name
-Macrosporium concinnum var. concinnum Berk. & Broome
+Macrosporium concinnum Berk. & Broome, 1841
 
 ### Remarks
 null

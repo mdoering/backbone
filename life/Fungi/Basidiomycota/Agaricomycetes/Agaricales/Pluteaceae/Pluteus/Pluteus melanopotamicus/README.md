@@ -1,5 +1,4 @@
-Pluteus melanopotamicus Singer SPECIES
-=======
+# Pluteus melanopotamicus Singer SPECIES
 
 #### Status
 ACCEPTED

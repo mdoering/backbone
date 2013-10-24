@@ -1,5 +1,4 @@
-Scopulariopsis tardifaciens Y. Horie & Udagawa SPECIES
-=======
+# Scopulariopsis tardifaciens Y. Horie & Udagawa SPECIES
 
 #### Status
 ACCEPTED

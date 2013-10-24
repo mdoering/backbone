@@ -1,5 +1,4 @@
-Cryptosphaeria curvispora Starbäck SPECIES
-=======
+# Cryptosphaeria curvispora Starbäck SPECIES
 
 #### Status
 ACCEPTED

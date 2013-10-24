@@ -1,5 +1,4 @@
-Sphaeria molliuscula Schwein. ex Fr. SPECIES
-=======
+# Sphaeria molliuscula Schwein. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

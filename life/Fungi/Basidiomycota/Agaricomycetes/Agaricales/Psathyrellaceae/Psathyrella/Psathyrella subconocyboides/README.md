@@ -1,5 +1,4 @@
-Psathyrella subconocyboides Singer SPECIES
-=======
+# Psathyrella subconocyboides Singer SPECIES
 
 #### Status
 ACCEPTED

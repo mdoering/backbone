@@ -1,5 +1,4 @@
-Stereocaulon farinosum (Th. Fr.) Vain. SPECIES
-=======
+# Stereocaulon farinosum (Th. Fr.) Vain. SPECIES
 
 #### Status
 ACCEPTED

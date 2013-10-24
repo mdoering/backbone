@@ -1,5 +1,4 @@
-Septoria soldanellae Speg. SPECIES
-=======
+# Septoria soldanellae Speg. SPECIES
 
 #### Status
 ACCEPTED

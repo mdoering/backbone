@@ -1,5 +1,4 @@
-Pseudomaryna australiensis Foissner, 2003 SPECIES
-=======
+# Pseudomaryna australiensis Foissner, 2003 SPECIES
 
 #### Status
 ACCEPTED

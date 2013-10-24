@@ -1,5 +1,4 @@
-Cercospora palmicola Speg. SPECIES
-=======
+# Cercospora palmicola Speg. SPECIES
 
 #### Status
 ACCEPTED

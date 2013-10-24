@@ -1,5 +1,4 @@
-Platygrapha inconspicua C. Knight & Mitt. SPECIES
-=======
+# Platygrapha inconspicua C. Knight & Mitt. SPECIES
 
 #### Status
 ACCEPTED

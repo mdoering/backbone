@@ -1,5 +1,4 @@
-Botanamphora pachycarpa (Sacc. & Marchal) Nograsek & Scheuer SPECIES
-=======
+# Botanamphora pachycarpa (Sacc. & Marchal) Nograsek & Scheuer SPECIES
 
 #### Status
 ACCEPTED

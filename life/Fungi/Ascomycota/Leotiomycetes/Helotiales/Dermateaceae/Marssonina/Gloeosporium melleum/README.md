@@ -1,5 +1,4 @@
-Gloeosporium melleum Dearn. & Overh. SPECIES
-=======
+# Gloeosporium melleum Dearn. & Overh. SPECIES
 
 #### Status
 ACCEPTED

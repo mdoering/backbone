@@ -1,5 +1,4 @@
-Cercospora micheliae Boedijn SPECIES
-=======
+# Cercospora micheliae Boedijn SPECIES
 
 #### Status
 ACCEPTED

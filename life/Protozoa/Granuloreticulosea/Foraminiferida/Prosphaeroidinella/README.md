@@ -1,5 +1,4 @@
-Prosphaeroidinella Ujiie, 1976 GENUS
-=======
+# Prosphaeroidinella Ujiie, 1976 GENUS
 
 #### Status
 ACCEPTED

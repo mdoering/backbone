@@ -1,5 +1,4 @@
-Buellia rhodina (Vain.) C.W. Dodge SPECIES
-=======
+# Buellia rhodina (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

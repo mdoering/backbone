@@ -1,5 +1,4 @@
-Aspicilia decorticata (H. Magn.) J.C. Wei SPECIES
-=======
+# Aspicilia decorticata (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

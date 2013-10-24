@@ -1,5 +1,4 @@
-Sphaerospora caudata Parisi SPECIES
-=======
+# Sphaerospora caudata Parisi SPECIES
 
 #### Status
 ACCEPTED

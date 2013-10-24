@@ -1,5 +1,4 @@
-Xanthoria andina Räsänen SPECIES
-=======
+# Xanthoria andina Räsänen SPECIES
 
 #### Status
 ACCEPTED

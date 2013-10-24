@@ -1,5 +1,4 @@
-Polyporus canescens Bres. SPECIES
-=======
+# Polyporus canescens Bres. SPECIES
 
 #### Status
 ACCEPTED

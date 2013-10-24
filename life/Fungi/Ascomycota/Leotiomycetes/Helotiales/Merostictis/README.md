@@ -1,5 +1,4 @@
-Merostictis GENUS
-=======
+# Merostictis GENUS
 
 #### Status
 ACCEPTED

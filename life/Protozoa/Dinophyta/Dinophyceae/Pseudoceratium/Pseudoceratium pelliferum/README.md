@@ -1,5 +1,4 @@
-Pseudoceratium pelliferum var. solocispinum R.J. Davey VARIETY
-=======
+# Pseudoceratium pelliferum Gocht, 1957 SPECIES
 
 #### Status
 ACCEPTED

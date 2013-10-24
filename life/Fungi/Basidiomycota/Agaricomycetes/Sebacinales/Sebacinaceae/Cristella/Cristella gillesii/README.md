@@ -1,5 +1,4 @@
-Cristella gillesii Maas Geest. SPECIES
-=======
+# Cristella gillesii Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

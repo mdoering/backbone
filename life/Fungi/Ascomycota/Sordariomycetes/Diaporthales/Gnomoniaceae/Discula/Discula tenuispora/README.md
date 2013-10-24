@@ -1,5 +1,4 @@
-Discula tenuispora (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Discula tenuispora (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

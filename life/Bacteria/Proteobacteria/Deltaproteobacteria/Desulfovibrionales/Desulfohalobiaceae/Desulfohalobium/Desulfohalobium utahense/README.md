@@ -1,5 +1,4 @@
-Desulfohalobium utahense Jakobsen et al., 2006 SPECIES
-=======
+# Desulfohalobium utahense Jakobsen et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

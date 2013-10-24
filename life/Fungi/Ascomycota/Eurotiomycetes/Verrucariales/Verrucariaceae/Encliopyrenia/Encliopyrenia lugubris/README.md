@@ -1,5 +1,4 @@
-Encliopyrenia lugubris (Mont.) Trevis. SPECIES
-=======
+# Encliopyrenia lugubris (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

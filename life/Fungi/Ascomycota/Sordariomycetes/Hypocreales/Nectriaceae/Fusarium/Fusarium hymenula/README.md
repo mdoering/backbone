@@ -1,5 +1,4 @@
-Fusarium hymenula Pound & Clem. SPECIES
-=======
+# Fusarium hymenula Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

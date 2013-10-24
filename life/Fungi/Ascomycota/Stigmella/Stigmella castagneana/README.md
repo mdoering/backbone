@@ -1,5 +1,4 @@
-Stigmella castagneana (Mont.) Sacc. SPECIES
-=======
+# Stigmella castagneana (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

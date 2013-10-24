@@ -1,5 +1,4 @@
-Bacidia stizenbergeriana Zahlbr. SPECIES
-=======
+# Bacidia stizenbergeriana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia mongolica H. Magn. SPECIES
-=======
+# Buellia mongolica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

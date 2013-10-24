@@ -1,5 +1,4 @@
-Ustilago asparagi-pygmaei S. Ito & Muray. SPECIES
-=======
+# Ustilago asparagi-pygmaei S. Ito & Muray. SPECIES
 
 #### Status
 ACCEPTED

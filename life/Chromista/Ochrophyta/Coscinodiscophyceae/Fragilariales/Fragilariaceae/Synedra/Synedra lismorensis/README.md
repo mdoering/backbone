@@ -1,5 +1,4 @@
-Synedra lismorensis Playfair SPECIES
-=======
+# Synedra lismorensis Playfair SPECIES
 
 #### Status
 ACCEPTED

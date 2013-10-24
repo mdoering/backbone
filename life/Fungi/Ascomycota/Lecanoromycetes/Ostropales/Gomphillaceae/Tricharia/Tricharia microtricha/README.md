@@ -1,5 +1,4 @@
-Tricharia microtricha Lücking & Kalb SPECIES
-=======
+# Tricharia microtricha Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

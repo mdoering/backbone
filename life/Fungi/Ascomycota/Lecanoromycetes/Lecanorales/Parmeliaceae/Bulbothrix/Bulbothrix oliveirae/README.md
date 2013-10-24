@@ -1,5 +1,4 @@
-Bulbothrix oliveirae A. Fletcher SPECIES
-=======
+# Bulbothrix oliveirae A. Fletcher SPECIES
 
 #### Status
 ACCEPTED

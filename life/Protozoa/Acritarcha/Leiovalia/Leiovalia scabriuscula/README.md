@@ -1,5 +1,4 @@
-Leiovalia scabriuscula N. Umnova, 1975 SPECIES
-=======
+# Leiovalia scabriuscula N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

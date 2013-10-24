@@ -1,5 +1,4 @@
-Physconia elegantula Essl. SPECIES
-=======
+# Physconia elegantula Essl. SPECIES
 
 #### Status
 ACCEPTED

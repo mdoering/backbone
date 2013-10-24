@@ -1,5 +1,4 @@
-Macrosporium violae Pollacci SPECIES
-=======
+# Macrosporium violae Pollacci SPECIES
 
 #### Status
 ACCEPTED

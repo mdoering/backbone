@@ -1,5 +1,4 @@
-Quinqueloculina nodulosa Wiesner, 1923 SPECIES
-=======
+# Quinqueloculina nodulosa Wiesner, 1923 SPECIES
 
 #### Status
 ACCEPTED

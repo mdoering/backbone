@@ -1,5 +1,4 @@
-Cylindrosporium vermiiforme Davis SPECIES
-=======
+# Cylindrosporium vermiiforme Davis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyrostromella Höhnel in Weese, 1929 GENUS
-=======
+# Thyrostromella Höhnel in Weese, 1929 GENUS
 
 #### Status
 ACCEPTED

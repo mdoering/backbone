@@ -1,17 +1,16 @@
-Peronospora candida Fuckel, 1870 SPECIES
-=======
+# Peronospora oerteliana J.G. Kühn, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 71 (1870)
+Hedwigia 23: 173 (1884)
 
 #### Original name
-Peronospora candida Fuckel, 1870
+Peronospora oerteliana J.G. Kühn, 1884
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ascochyta tragi Cruchet SPECIES
-=======
+# Ascochyta tragi Cruchet SPECIES
 
 #### Status
 ACCEPTED

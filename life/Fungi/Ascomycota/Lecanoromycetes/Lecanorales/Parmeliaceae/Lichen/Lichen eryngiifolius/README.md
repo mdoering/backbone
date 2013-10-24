@@ -1,5 +1,4 @@
-Lichen eryngiifolius Gilib. SPECIES
-=======
+# Lichen eryngiifolius Gilib. SPECIES
 
 #### Status
 ACCEPTED

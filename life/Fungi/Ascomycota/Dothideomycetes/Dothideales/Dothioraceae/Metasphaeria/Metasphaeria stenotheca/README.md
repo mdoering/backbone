@@ -1,5 +1,4 @@
-Metasphaeria stenotheca Ellis & Everh. SPECIES
-=======
+# Metasphaeria stenotheca Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen scopulas-referens Dubois SPECIES
-=======
+# Lichen scopulas-referens Dubois SPECIES
 
 #### Status
 ACCEPTED

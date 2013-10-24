@@ -1,5 +1,4 @@
-Thelotrema piluliferum Tuck. SPECIES
-=======
+# Thelotrema piluliferum Tuck. SPECIES
 
 #### Status
 ACCEPTED

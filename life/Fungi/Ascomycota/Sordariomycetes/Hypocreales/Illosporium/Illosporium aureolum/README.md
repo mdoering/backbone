@@ -1,5 +1,4 @@
-Illosporium aureolum Penz. & Sacc. SPECIES
-=======
+# Illosporium aureolum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

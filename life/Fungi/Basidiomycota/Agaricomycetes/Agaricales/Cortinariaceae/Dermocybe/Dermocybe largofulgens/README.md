@@ -1,5 +1,4 @@
-Dermocybe largofulgens E. Horak, 1988 SPECIES
-=======
+# Dermocybe largofulgens E. Horak, 1988 SPECIES
 
 #### Status
 ACCEPTED

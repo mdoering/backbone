@@ -1,5 +1,4 @@
-Macabuna melanocephala Buriticá, 1996 SPECIES
-=======
+# Macabuna melanocephala Buriticá, 1996 SPECIES
 
 #### Status
 ACCEPTED

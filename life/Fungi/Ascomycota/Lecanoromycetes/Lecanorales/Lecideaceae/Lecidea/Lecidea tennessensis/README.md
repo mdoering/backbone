@@ -1,5 +1,4 @@
-Lecidea tennessensis Nyl. SPECIES
-=======
+# Lecidea tennessensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

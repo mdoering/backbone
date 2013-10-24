@@ -1,5 +1,4 @@
-Coprinus subtigrinellus Dennis SPECIES
-=======
+# Coprinus subtigrinellus Dennis SPECIES
 
 #### Status
 ACCEPTED

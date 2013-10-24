@@ -1,8 +1,7 @@
-Metasphaeria bloxami Sacc. & P. Syd. SPECIES
-=======
+# Metasphaeria bloxamii Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Metasphaeria bloxami Sacc. & P. Syd.
+Metasphaeria bloxamii Sacc. & P. Syd.
 
 ### Remarks
 null

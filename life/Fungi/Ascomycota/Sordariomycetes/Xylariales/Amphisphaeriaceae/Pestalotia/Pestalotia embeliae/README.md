@@ -1,5 +1,4 @@
-Pestalotia embeliae M.S. Patil & Thite SPECIES
-=======
+# Pestalotia embeliae M.S. Patil & Thite SPECIES
 
 #### Status
 ACCEPTED

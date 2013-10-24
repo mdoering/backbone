@@ -1,5 +1,4 @@
-Arthonia fuscoglauca Vain. SPECIES
-=======
+# Arthonia fuscoglauca Vain. SPECIES
 
 #### Status
 ACCEPTED

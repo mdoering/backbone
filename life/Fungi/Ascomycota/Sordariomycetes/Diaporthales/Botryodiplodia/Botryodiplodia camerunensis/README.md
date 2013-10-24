@@ -1,5 +1,4 @@
-Botryodiplodia camerunensis (Henn.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia camerunensis (Henn.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza melanopus Berk. & M.A. Curtis SPECIES
-=======
+# Peziza melanopus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

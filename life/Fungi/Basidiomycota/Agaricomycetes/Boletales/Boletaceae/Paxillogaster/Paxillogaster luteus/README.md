@@ -1,5 +1,4 @@
-Paxillogaster luteus E. Horak, 1966 SPECIES
-=======
+# Paxillogaster luteus E. Horak, 1966 SPECIES
 
 #### Status
 ACCEPTED

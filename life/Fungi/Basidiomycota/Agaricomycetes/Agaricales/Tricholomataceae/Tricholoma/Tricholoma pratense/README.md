@@ -1,5 +1,4 @@
-Tricholoma pratense Pegler & R.W. Rayner SPECIES
-=======
+# Tricholoma pratense Pegler & R.W. Rayner SPECIES
 
 #### Status
 ACCEPTED

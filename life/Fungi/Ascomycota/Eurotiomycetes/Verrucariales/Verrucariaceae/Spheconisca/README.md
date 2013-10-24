@@ -1,5 +1,4 @@
-Spheconisca (Norman) Norman GENUS
-=======
+# Spheconisca (Norman) Norman GENUS
 
 #### Status
 ACCEPTED

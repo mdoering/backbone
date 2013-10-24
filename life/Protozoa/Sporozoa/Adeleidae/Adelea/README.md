@@ -1,5 +1,4 @@
-Adelea Schneider, 1875 GENUS
-=======
+# Adelea Schneider, 1875 GENUS
 
 #### Status
 ACCEPTED

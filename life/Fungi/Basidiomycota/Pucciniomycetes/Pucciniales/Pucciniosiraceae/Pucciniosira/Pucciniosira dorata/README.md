@@ -1,5 +1,4 @@
-Pucciniosira dorata Buriticá & J.F. Hennen, 1980 SPECIES
-=======
+# Pucciniosira dorata Buriticá & J.F. Hennen, 1980 SPECIES
 
 #### Status
 ACCEPTED

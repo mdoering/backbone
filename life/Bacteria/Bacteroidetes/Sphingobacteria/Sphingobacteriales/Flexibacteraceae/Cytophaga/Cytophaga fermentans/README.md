@@ -1,5 +1,4 @@
-Cytophaga fermentans Bachmann, 1955 (Approved Lists, 1980) SPECIES
-=======
+# Cytophaga fermentans Bachmann, 1955 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

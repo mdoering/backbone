@@ -1,5 +1,4 @@
-Truncatella excelsa (Petr.) Shoemaker, C.E. Babc. & E. Müll. SPECIES
-=======
+# Truncatella excelsa (Petr.) Shoemaker, C.E. Babc. & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

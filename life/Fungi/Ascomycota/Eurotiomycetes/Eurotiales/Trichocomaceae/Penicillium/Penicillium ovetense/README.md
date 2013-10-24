@@ -1,5 +1,4 @@
-Penicillium ovetense C. Ramírez & A.T. Martínez SPECIES
-=======
+# Penicillium ovetense C. Ramírez & A.T. Martínez SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus moabus Grgur. SPECIES
-=======
+# Gymnopilus moabus Grgur. SPECIES
 
 #### Status
 ACCEPTED

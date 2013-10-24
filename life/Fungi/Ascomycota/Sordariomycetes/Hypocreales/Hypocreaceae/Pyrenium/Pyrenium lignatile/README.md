@@ -1,5 +1,4 @@
-Pyrenium lignatile Fr. SPECIES
-=======
+# Pyrenium lignatile Fr. SPECIES
 
 #### Status
 ACCEPTED

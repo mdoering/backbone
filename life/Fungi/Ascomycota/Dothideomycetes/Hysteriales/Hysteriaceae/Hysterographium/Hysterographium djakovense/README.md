@@ -1,5 +1,4 @@
-Hysterographium djakovense Schulzer SPECIES
-=======
+# Hysterographium djakovense Schulzer SPECIES
 
 #### Status
 ACCEPTED

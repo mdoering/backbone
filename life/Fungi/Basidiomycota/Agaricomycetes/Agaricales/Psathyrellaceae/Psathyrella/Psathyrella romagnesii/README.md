@@ -1,5 +1,4 @@
-Psathyrella romagnesii Kits van Wav. SPECIES
-=======
+# Psathyrella romagnesii Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

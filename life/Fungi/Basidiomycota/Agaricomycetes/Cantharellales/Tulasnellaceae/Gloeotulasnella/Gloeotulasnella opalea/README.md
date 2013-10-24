@@ -1,5 +1,4 @@
-Gloeotulasnella opalea D.P. Rogers SPECIES
-=======
+# Gloeotulasnella opalea D.P. Rogers SPECIES
 
 #### Status
 ACCEPTED

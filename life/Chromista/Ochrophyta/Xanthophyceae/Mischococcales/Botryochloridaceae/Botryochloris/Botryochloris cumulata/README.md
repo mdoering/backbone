@@ -1,5 +1,4 @@
-Botryochloris cumulata Pascher SPECIES
-=======
+# Botryochloris cumulata Pascher SPECIES
 
 #### Status
 ACCEPTED

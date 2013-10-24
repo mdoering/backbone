@@ -1,5 +1,4 @@
-Agaricus proludens Britzelm. SPECIES
-=======
+# Agaricus proludens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

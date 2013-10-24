@@ -1,5 +1,4 @@
-Cortinarius olidoamethysteus Rob. Henry & Ramm SPECIES
-=======
+# Cortinarius olidoamethysteus Rob. Henry & Ramm SPECIES
 
 #### Status
 ACCEPTED

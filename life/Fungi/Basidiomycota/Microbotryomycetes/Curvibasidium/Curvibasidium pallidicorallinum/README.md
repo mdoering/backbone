@@ -1,5 +1,4 @@
-Curvibasidium pallidicorallinum Golubev, Fell & N.W. Golubev, 2004 SPECIES
-=======
+# Curvibasidium pallidicorallinum Golubev, Fell & N.W. Golubev, 2004 SPECIES
 
 #### Status
 ACCEPTED

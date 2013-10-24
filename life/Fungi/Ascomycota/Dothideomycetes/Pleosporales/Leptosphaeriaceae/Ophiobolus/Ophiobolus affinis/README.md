@@ -1,5 +1,4 @@
-Ophiobolus affinis Sacc. SPECIES
-=======
+# Ophiobolus affinis Sacc. SPECIES
 
 #### Status
 ACCEPTED

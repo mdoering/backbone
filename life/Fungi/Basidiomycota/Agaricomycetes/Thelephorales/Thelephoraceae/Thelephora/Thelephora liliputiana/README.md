@@ -1,5 +1,4 @@
-Thelephora liliputiana Mont. SPECIES
-=======
+# Thelephora liliputiana Mont. SPECIES
 
 #### Status
 ACCEPTED

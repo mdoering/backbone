@@ -1,5 +1,4 @@
-Coleroa hageniae (Castell.) Eboh & Cain, 1987 SPECIES
-=======
+# Coleroa hageniae (Castell.) Eboh & Cain, 1987 SPECIES
 
 #### Status
 ACCEPTED

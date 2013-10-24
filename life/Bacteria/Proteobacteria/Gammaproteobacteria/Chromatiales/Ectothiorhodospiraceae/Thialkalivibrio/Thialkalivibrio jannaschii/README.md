@@ -1,5 +1,4 @@
-Thialkalivibrio jannaschii SPECIES
-=======
+# Thialkalivibrio jannaschii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlamydonella minuta Pätsch, 1974 SPECIES
-=======
+# Chlamydonella minuta Pätsch, 1974 SPECIES
 
 #### Status
 ACCEPTED

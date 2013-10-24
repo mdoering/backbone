@@ -1,5 +1,4 @@
-Tarbellina Sztrakos, 2000 GENUS
-=======
+# Tarbellina Sztrakos, 2000 GENUS
 
 #### Status
 ACCEPTED

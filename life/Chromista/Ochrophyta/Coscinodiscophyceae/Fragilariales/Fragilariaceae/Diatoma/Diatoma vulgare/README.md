@@ -1,5 +1,4 @@
-Diatoma vulgare var. breve Grun., 1862 VARIETY
-=======
+# Diatoma vulgare Bory de Saint-Vincent, 1824 SPECIES
 
 #### Status
 ACCEPTED

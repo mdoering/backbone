@@ -1,5 +1,4 @@
-Graphiola cocoina Pat., 1904 SPECIES
-=======
+# Graphiola cocoina Pat., 1904 SPECIES
 
 #### Status
 ACCEPTED

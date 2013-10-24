@@ -1,5 +1,4 @@
-Roestelia mespili Trotter SPECIES
-=======
+# Roestelia mespili Trotter SPECIES
 
 #### Status
 ACCEPTED

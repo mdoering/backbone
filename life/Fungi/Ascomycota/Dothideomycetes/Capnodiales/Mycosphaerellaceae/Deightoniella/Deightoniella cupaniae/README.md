@@ -1,5 +1,4 @@
-Deightoniella cupaniae Bat. SPECIES
-=======
+# Deightoniella cupaniae Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta micans Roum. SPECIES
-=======
+# Phyllosticta micans Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lisea verrucosa Starbäck SPECIES
-=======
+# Lisea verrucosa Starbäck SPECIES
 
 #### Status
 ACCEPTED

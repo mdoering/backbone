@@ -1,5 +1,4 @@
-Septoria guizotiae Punith. SPECIES
-=======
+# Septoria guizotiae Punith. SPECIES
 
 #### Status
 ACCEPTED

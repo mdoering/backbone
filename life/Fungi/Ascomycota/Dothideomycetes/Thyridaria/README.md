@@ -1,5 +1,4 @@
-Thyridaria Saccardo, 1875 GENUS
-=======
+# Thyridaria Saccardo, 1875 GENUS
 
 #### Status
 ACCEPTED

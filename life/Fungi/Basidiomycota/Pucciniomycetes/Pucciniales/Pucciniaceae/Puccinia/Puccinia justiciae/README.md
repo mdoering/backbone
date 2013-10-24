@@ -1,5 +1,4 @@
-Puccinia justiciae Puttemans SPECIES
-=======
+# Puccinia justiciae Puttemans SPECIES
 
 #### Status
 ACCEPTED

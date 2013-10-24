@@ -1,5 +1,4 @@
-Thaisphaera Sashida & Igo, 1992 GENUS
-=======
+# Thaisphaera Sashida & Igo, 1992 GENUS
 
 #### Status
 ACCEPTED

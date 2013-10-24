@@ -1,5 +1,4 @@
-Tylophoma GENUS
-=======
+# Tylophoma GENUS
 
 #### Status
 ACCEPTED

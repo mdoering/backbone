@@ -1,5 +1,4 @@
-Nucellosphaeridium medianum Timofeev, 1966 SPECIES
-=======
+# Nucellosphaeridium medianum Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

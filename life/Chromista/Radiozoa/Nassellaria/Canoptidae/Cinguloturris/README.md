@@ -1,5 +1,4 @@
-Cinguloturris GENUS
-=======
+# Cinguloturris GENUS
 
 #### Status
 ACCEPTED

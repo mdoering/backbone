@@ -1,5 +1,4 @@
-Cortinarius humidosus Britzelm. SPECIES
-=======
+# Cortinarius humidosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

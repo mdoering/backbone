@@ -1,5 +1,4 @@
-Fominia GENUS
-=======
+# Fominia GENUS
 
 #### Status
 ACCEPTED

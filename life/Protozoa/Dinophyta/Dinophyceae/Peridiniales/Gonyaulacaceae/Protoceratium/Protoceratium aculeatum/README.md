@@ -1,5 +1,4 @@
-Protoceratium aculeatum (Stein, 1883) Schiller, 1937 SPECIES
-=======
+# Protoceratium aculeatum (Stein, 1883) Schiller, 1937 SPECIES
 
 #### Status
 ACCEPTED

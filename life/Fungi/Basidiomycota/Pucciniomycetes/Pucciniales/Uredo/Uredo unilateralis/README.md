@@ -1,5 +1,4 @@
-Uredo unilateralis Arthur SPECIES
-=======
+# Uredo unilateralis Arthur SPECIES
 
 #### Status
 ACCEPTED

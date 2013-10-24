@@ -1,5 +1,4 @@
-Didymopsis spicata Richon SPECIES
-=======
+# Didymopsis spicata Richon SPECIES
 
 #### Status
 ACCEPTED

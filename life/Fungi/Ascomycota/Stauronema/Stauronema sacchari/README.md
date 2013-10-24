@@ -1,5 +1,4 @@
-Stauronema sacchari Syd., P. Syd. & E.J. Butler, 1916 SPECIES
-=======
+# Stauronema sacchari Syd., P. Syd. & E.J. Butler, 1916 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parabacteroides Sakamoto & Benno, 2006 GENUS
-=======
+# Parabacteroides Sakamoto & Benno, 2006 GENUS
 
 #### Status
 ACCEPTED

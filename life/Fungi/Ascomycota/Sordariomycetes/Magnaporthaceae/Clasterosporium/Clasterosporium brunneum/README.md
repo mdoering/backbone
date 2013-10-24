@@ -1,5 +1,4 @@
-Clasterosporium brunneum (Bonord.) Sacc. SPECIES
-=======
+# Clasterosporium brunneum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

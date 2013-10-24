@@ -1,5 +1,4 @@
-Absidia fassatiae Vánová SPECIES
-=======
+# Absidia fassatiae Vánová SPECIES
 
 #### Status
 ACCEPTED

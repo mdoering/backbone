@@ -1,17 +1,16 @@
-Polyporus rubricus Berk., 1851 SPECIES
-=======
+# Laetiporus sulphureus (Bull.) Murrill, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 18(1/3): 51 (1920)
 
 #### Original name
-null
+Boletus sulphureus Fr., 1838
 
 ### Remarks
 null

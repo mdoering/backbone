@@ -1,14 +1,13 @@
-Flagellospora prolifera R.H. Petersen, 1963 SPECIES
-=======
+# Sigmoidea prolifera (R.H. Petersen) J.L. Crane, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 55(5): 570 (1963)
+Am. J. Bot. , Suppl. 55: 998 (1968)
 
 #### Original name
 Flagellospora prolifera R.H. Petersen, 1963

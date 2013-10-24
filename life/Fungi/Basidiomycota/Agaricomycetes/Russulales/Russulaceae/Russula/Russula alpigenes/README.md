@@ -1,5 +1,4 @@
-Russula alpigenes (Bon) Bon SPECIES
-=======
+# Russula alpigenes (Bon) Bon SPECIES
 
 #### Status
 ACCEPTED

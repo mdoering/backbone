@@ -1,5 +1,4 @@
-Plagiocarpa hyalospora (Nyl.) R.C. Harris SPECIES
-=======
+# Plagiocarpa hyalospora (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

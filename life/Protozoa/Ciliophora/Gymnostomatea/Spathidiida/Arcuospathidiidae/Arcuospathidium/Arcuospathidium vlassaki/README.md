@@ -1,5 +1,4 @@
-Arcuospathidium vlassaki Foissner, 2000 SPECIES
-=======
+# Arcuospathidium vlassaki Foissner, 2000 SPECIES
 
 #### Status
 ACCEPTED

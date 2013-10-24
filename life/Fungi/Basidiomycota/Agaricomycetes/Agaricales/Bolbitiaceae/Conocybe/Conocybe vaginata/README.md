@@ -1,5 +1,4 @@
-Conocybe vaginata Watling SPECIES
-=======
+# Conocybe vaginata Watling SPECIES
 
 #### Status
 ACCEPTED

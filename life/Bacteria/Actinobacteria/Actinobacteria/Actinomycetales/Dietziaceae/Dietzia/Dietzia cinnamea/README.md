@@ -1,5 +1,4 @@
-Dietzia cinnamea Yassin et al., 2006 SPECIES
-=======
+# Dietzia cinnamea Yassin et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

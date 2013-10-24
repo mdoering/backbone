@@ -1,5 +1,4 @@
-Lepraria sulphurea Schltdl. SPECIES
-=======
+# Lepraria sulphurea Schltdl. SPECIES
 
 #### Status
 ACCEPTED

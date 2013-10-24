@@ -1,5 +1,4 @@
-Stigmina erythrinae M.B. Ellis SPECIES
-=======
+# Stigmina erythrinae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora uvispora (Cooke) Sacc. SPECIES
-=======
+# Physalospora uvispora (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

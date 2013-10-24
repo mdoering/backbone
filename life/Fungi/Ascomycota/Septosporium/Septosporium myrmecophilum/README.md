@@ -1,5 +1,4 @@
-Septosporium myrmecophilum Fresen. SPECIES
-=======
+# Septosporium myrmecophilum Fresen. SPECIES
 
 #### Status
 ACCEPTED

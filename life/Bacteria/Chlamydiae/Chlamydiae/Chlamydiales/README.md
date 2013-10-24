@@ -1,5 +1,4 @@
-Chlamydiales Storz & Page, 1971 ORDER
-=======
+# Chlamydiales Storz & Page, 1971 ORDER
 
 #### Status
 ACCEPTED

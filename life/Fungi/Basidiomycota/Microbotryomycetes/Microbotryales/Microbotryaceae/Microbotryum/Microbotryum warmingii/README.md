@@ -1,14 +1,13 @@
-Bauhinus warmingii (Rostr.) Denchev, 1997 SPECIES
-=======
+# Microbotryum warmingii (Rostr.) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 65: 425 (1997)
+Mycotaxon 67: 51 (1998)
 
 #### Original name
 Ustilago warmingii Rostr.

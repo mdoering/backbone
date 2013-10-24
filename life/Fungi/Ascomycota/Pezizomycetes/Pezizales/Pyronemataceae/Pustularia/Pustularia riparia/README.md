@@ -1,5 +1,4 @@
-Pustularia riparia Hazsl. SPECIES
-=======
+# Pustularia riparia Hazsl. SPECIES
 
 #### Status
 ACCEPTED

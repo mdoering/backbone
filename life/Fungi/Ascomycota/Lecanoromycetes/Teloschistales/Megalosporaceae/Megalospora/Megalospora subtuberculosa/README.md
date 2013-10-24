@@ -1,17 +1,16 @@
-Biatora taitensis Mont. SPECIES
-=======
+# Megalospora subtuberculosa (C. Knight) Sipman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 18: 123 (1983)
 
 #### Original name
-null
+Lecidea versicolor var. subtuberculosa C. Knight
 
 ### Remarks
 null

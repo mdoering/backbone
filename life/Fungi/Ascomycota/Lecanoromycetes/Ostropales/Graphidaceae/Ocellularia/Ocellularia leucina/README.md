@@ -1,14 +1,13 @@
-Thelotrema leucinum Müll. Arg. SPECIES
-=======
+# Ocellularia leucina (Müll. Arg.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mém. Soc. Phys. Hist. nat. Genève 29(8): 10 (1887)
+Mycotaxon 11(1): 137 (1980)
 
 #### Original name
 Thelotrema leucinum Müll. Arg.

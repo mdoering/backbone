@@ -1,5 +1,4 @@
-Ducellieriaceae M.W. Dick FAMILY
-=======
+# Ducellieriaceae M.W. Dick FAMILY
 
 #### Status
 ACCEPTED

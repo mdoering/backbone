@@ -1,5 +1,4 @@
-Caloplaca keissleri (Servít) Poelt SPECIES
-=======
+# Caloplaca keissleri (Servít) Poelt SPECIES
 
 #### Status
 ACCEPTED

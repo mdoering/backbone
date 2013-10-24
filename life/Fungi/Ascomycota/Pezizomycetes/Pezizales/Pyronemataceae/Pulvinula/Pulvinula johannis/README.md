@@ -1,5 +1,4 @@
-Pulvinula johannis Lantieri SPECIES
-=======
+# Pulvinula johannis Lantieri SPECIES
 
 #### Status
 ACCEPTED

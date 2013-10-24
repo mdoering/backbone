@@ -1,5 +1,4 @@
-Melampsora euphorbiae-orientalis Sawada SPECIES
-=======
+# Melampsora euphorbiae-orientalis Sawada SPECIES
 
 #### Status
 ACCEPTED

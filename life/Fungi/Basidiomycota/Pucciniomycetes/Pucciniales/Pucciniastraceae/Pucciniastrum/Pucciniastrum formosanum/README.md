@@ -1,5 +1,4 @@
-Pucciniastrum formosanum Sawada SPECIES
-=======
+# Pucciniastrum formosanum Sawada SPECIES
 
 #### Status
 ACCEPTED

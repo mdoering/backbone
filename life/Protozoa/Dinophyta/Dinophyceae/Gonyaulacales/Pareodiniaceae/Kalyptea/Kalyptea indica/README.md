@@ -1,5 +1,4 @@
-Kalyptea indica K. P. Jain & H. K. Maheshwari SPECIES
-=======
+# Kalyptea indica K. P. Jain & H. K. Maheshwari SPECIES
 
 #### Status
 ACCEPTED

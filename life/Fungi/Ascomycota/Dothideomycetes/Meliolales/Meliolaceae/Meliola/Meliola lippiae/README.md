@@ -1,5 +1,4 @@
-Meliola lippiae Maubl. SPECIES
-=======
+# Meliola lippiae Maubl. SPECIES
 
 #### Status
 ACCEPTED

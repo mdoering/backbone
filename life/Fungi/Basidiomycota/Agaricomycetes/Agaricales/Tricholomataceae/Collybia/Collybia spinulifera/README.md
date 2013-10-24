@@ -1,5 +1,4 @@
-Collybia spinulifera Peck SPECIES
-=======
+# Collybia spinulifera Peck SPECIES
 
 #### Status
 ACCEPTED

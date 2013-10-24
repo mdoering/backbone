@@ -1,5 +1,4 @@
-Distigma curvata Pringsheim SPECIES
-=======
+# Distigma curvata Pringsheim SPECIES
 
 #### Status
 ACCEPTED

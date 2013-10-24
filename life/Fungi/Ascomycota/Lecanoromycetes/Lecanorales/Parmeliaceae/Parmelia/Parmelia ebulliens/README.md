@@ -1,5 +1,4 @@
-Parmelia ebulliens Hale SPECIES
-=======
+# Parmelia ebulliens Hale SPECIES
 
 #### Status
 ACCEPTED

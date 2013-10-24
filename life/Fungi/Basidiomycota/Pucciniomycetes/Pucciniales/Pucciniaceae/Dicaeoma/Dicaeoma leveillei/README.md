@@ -1,5 +1,4 @@
-Dicaeoma leveillei Kuntze SPECIES
-=======
+# Dicaeoma leveillei Kuntze SPECIES
 
 #### Status
 ACCEPTED

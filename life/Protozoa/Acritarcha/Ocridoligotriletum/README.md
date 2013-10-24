@@ -1,5 +1,4 @@
-Ocridoligotriletum GENUS
-=======
+# Ocridoligotriletum GENUS
 
 #### Status
 ACCEPTED

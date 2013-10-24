@@ -1,5 +1,4 @@
-Sporormia piriformis Speg. SPECIES
-=======
+# Sporormia piriformis Speg. SPECIES
 
 #### Status
 ACCEPTED

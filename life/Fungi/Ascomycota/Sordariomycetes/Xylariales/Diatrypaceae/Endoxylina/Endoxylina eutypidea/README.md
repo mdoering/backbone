@@ -1,5 +1,4 @@
-Endoxylina eutypidea Starbäck SPECIES
-=======
+# Endoxylina eutypidea Starbäck SPECIES
 
 #### Status
 ACCEPTED

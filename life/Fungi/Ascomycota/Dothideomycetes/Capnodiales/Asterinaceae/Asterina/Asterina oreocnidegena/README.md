@@ -1,5 +1,4 @@
-Asterina oreocnidegena Hosag., 2006 SPECIES
-=======
+# Asterina oreocnidegena Hosag., 2006 SPECIES
 
 #### Status
 ACCEPTED

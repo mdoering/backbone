@@ -1,5 +1,4 @@
-Propionicicella superfundia Bae et al., 2006 SPECIES
-=======
+# Propionicicella superfundia Bae et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

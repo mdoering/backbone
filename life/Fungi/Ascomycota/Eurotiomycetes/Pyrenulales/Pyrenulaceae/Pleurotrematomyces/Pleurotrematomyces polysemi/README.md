@@ -1,5 +1,4 @@
-Pleurotrematomyces polysemi Cif. & Tomas. SPECIES
-=======
+# Pleurotrematomyces polysemi Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

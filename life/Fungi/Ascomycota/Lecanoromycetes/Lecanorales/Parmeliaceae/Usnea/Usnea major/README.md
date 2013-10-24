@@ -1,5 +1,4 @@
-Usnea major Motyka ex Räsänen SPECIES
-=======
+# Usnea major Motyka ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

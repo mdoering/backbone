@@ -1,5 +1,4 @@
-Parmelia arenaria (Pers.) Mart. SPECIES
-=======
+# Parmelia arenaria (Pers.) Mart. SPECIES
 
 #### Status
 ACCEPTED

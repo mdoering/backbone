@@ -1,5 +1,4 @@
-Exarmidium weirii (Petr.) Petr. SPECIES
-=======
+# Exarmidium weirii (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

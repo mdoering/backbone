@@ -1,5 +1,4 @@
-Endocarpon miniatum var. miniatum VARIETY
-=======
+# Endocarpon miniatum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Endocarpon miniatum var. miniatum
+null
 
 ### Remarks
 null

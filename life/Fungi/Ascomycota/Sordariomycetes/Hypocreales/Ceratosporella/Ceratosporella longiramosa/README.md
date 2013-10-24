@@ -1,5 +1,4 @@
-Ceratosporella longiramosa R.F. Castañeda SPECIES
-=======
+# Ceratosporella longiramosa R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

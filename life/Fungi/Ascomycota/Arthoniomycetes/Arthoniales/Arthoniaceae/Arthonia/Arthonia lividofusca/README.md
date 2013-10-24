@@ -1,5 +1,4 @@
-Arthonia lividofusca Müll. Arg. SPECIES
-=======
+# Arthonia lividofusca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

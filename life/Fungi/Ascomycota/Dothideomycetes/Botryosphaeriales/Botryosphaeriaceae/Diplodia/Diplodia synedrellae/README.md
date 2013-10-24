@@ -1,5 +1,4 @@
-Diplodia synedrellae Sacc. SPECIES
-=======
+# Diplodia synedrellae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella petiolicola (Desm.) Auersw. SPECIES
-=======
+# Sphaerella petiolicola (Desm.) Auersw. SPECIES
 
 #### Status
 ACCEPTED

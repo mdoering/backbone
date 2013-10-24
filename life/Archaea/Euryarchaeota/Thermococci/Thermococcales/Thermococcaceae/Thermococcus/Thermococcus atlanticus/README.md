@@ -1,5 +1,4 @@
-Thermococcus atlanticus Cambon-Bonavita et al., 2004 SPECIES
-=======
+# Thermococcus atlanticus Cambon-Bonavita et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pannaria gymnocheila Nyl. SPECIES
-=======
+# Parmeliella gymnocheila (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

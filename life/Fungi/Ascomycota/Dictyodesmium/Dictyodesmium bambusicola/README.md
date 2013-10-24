@@ -1,5 +1,4 @@
-Dictyodesmium bambusicola P.S. Reddy & Ramana SPECIES
-=======
+# Dictyodesmium bambusicola P.S. Reddy & Ramana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma crocophila (Mont.) Sacc. SPECIES
-=======
+# Phoma crocophila (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

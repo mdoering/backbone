@@ -1,5 +1,4 @@
-Nectria discophora Mont., 1850 SPECIES
-=======
+# Nectria discophora Mont., 1850 SPECIES
 
 #### Status
 ACCEPTED

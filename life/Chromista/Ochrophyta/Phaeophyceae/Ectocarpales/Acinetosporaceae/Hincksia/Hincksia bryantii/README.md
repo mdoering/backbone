@@ -1,5 +1,4 @@
-Hincksia bryantii (Setchell & N.L.Gardner) J.N.Norris, 2001 SPECIES
-=======
+# Hincksia bryantii (Setchell & N.L.Gardner) J.N.Norris, 2001 SPECIES
 
 #### Status
 ACCEPTED

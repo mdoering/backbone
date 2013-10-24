@@ -1,5 +1,4 @@
-Cytosporella yatay Speg. SPECIES
-=======
+# Cytosporella yatay Speg. SPECIES
 
 #### Status
 ACCEPTED

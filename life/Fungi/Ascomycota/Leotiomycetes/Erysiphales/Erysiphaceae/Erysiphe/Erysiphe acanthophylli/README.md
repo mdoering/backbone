@@ -1,5 +1,4 @@
-Erysiphe acanthophylli Speschnew SPECIES
-=======
+# Erysiphe acanthophylli Speschnew SPECIES
 
 #### Status
 ACCEPTED

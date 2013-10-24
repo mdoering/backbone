@@ -1,5 +1,4 @@
-Microsphaeropsis glycyrrhizicola (Vassiljevsky) Aa & Vanev SPECIES
-=======
+# Microsphaeropsis glycyrrhizicola (Vassiljevsky) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phytophthora captiosa M.A. Dick & K. Dobbie, 2006 SPECIES
-=======
+# Phytophthora captiosa M.A. Dick & K. Dobbie, 2006 SPECIES
 
 #### Status
 ACCEPTED

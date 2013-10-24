@@ -1,5 +1,4 @@
-Sargassum yamamotoi Yoshida SPECIES
-=======
+# Sargassum yamamotoi Yoshida SPECIES
 
 #### Status
 ACCEPTED

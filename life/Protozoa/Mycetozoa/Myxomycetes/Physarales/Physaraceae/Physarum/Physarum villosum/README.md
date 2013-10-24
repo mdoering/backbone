@@ -1,5 +1,4 @@
-Physarum villosum Schumach. SPECIES
-=======
+# Physarum villosum Schumach. SPECIES
 
 #### Status
 ACCEPTED

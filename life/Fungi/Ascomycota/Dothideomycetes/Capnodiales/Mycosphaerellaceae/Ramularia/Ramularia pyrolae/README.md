@@ -1,5 +1,4 @@
-Ramularia pyrolae (Trel.) Ellis & Everh. SPECIES
-=======
+# Ramularia pyrolae (Trel.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

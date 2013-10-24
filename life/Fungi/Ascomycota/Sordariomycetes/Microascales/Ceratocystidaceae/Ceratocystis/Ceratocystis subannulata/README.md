@@ -1,5 +1,4 @@
-Ceratocystis subannulata Livingston & R.W. Davidson SPECIES
-=======
+# Ceratocystis subannulata Livingston & R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

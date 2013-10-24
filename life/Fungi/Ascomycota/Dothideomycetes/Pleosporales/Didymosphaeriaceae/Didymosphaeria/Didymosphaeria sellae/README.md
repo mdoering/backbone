@@ -1,5 +1,4 @@
-Didymosphaeria sellae (Bagnis) Sacc. SPECIES
-=======
+# Didymosphaeria sellae (Bagnis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

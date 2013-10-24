@@ -1,5 +1,4 @@
-Teichospora pilosa Bacc. SPECIES
-=======
+# Teichospora pilosa Bacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroococus tenax Kirchn Wang SPECIES
-=======
+# Chroococus tenax Kirchn Wang SPECIES
 
 #### Status
 ACCEPTED

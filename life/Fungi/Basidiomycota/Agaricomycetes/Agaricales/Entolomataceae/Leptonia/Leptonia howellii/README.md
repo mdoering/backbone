@@ -1,5 +1,4 @@
-Leptonia howellii (Peck) Dennis SPECIES
-=======
+# Leptonia howellii (Peck) Dennis SPECIES
 
 #### Status
 ACCEPTED

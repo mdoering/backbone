@@ -1,5 +1,4 @@
-Diplodiella striispora Ellis & Barthol. SPECIES
-=======
+# Diplodiella striispora Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

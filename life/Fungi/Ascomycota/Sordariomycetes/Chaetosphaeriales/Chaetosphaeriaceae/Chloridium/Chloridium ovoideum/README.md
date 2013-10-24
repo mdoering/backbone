@@ -1,5 +1,4 @@
-Chloridium ovoideum Corda SPECIES
-=======
+# Chloridium ovoideum Corda SPECIES
 
 #### Status
 ACCEPTED

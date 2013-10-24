@@ -1,5 +1,4 @@
-Parmelia mozambica Vain. SPECIES
-=======
+# Parmelia mozambica Vain. SPECIES
 
 #### Status
 ACCEPTED

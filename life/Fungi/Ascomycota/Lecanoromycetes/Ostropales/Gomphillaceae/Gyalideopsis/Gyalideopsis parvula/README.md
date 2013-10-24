@@ -1,5 +1,4 @@
-Gyalideopsis parvula Hafellner & Vezda SPECIES
-=======
+# Gyalideopsis parvula Hafellner & Vezda SPECIES
 
 #### Status
 ACCEPTED

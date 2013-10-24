@@ -1,5 +1,4 @@
-Mycena substellata Kühner SPECIES
-=======
+# Mycena substellata Kühner SPECIES
 
 #### Status
 ACCEPTED

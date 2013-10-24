@@ -1,14 +1,13 @@
-Heteroporus biennis f. biennis FORM
-=======
+# Abortiporus biennis (Bull.) Singer, 1944 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rev. Acad. Ci. Madrid 15: 119 (1916)
+Mycologia 36(1): 68 (1944)
 
 #### Original name
 Boletus biennis Bull., 1789

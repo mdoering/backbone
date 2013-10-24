@@ -1,5 +1,4 @@
-Cortinarius subcaespitosus Murrill SPECIES
-=======
+# Cortinarius subcaespitosus Murrill SPECIES
 
 #### Status
 ACCEPTED

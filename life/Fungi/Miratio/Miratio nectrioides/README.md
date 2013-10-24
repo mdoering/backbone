@@ -1,5 +1,4 @@
-Miratio nectrioides P.F. Cannon SPECIES
-=======
+# Miratio nectrioides P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

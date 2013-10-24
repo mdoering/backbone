@@ -1,5 +1,4 @@
-Pseudoalteromonas peptidolytica Venkateswaran & Dohmoto, 2000 SPECIES
-=======
+# Pseudoalteromonas peptidolytica Venkateswaran & Dohmoto, 2000 SPECIES
 
 #### Status
 ACCEPTED

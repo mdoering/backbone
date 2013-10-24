@@ -1,5 +1,4 @@
-Gomphus yunnanensis R.H. Petersen & M. Zang SPECIES
-=======
+# Gomphus yunnanensis R.H. Petersen & M. Zang SPECIES
 
 #### Status
 ACCEPTED

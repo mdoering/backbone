@@ -1,5 +1,4 @@
-Phallus minusculus Kreisel & Calonge, 2002 SPECIES
-=======
+# Phallus minusculus Kreisel & Calonge, 2002 SPECIES
 
 #### Status
 ACCEPTED

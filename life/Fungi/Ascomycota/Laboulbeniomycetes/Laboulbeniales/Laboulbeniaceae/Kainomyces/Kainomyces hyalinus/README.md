@@ -1,5 +1,4 @@
-Kainomyces hyalinus Terada SPECIES
-=======
+# Kainomyces hyalinus Terada SPECIES
 
 #### Status
 ACCEPTED

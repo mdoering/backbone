@@ -1,5 +1,4 @@
-Mycosphaerella cinnafolia R. Sprague SPECIES
-=======
+# Mycosphaerella cinnafolia R. Sprague SPECIES
 
 #### Status
 ACCEPTED

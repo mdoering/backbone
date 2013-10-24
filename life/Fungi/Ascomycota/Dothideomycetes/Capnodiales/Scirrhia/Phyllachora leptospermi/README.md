@@ -1,5 +1,4 @@
-Phyllachora leptospermi (Cooke) Höhn., 1910 SPECIES
-=======
+# Phyllachora leptospermi (Cooke) Höhn., 1910 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,8 +1,7 @@
-Gloeocapsa chroococcoides Novácek SPECIES
-=======
+# Gloeocapsopsis chroococcoides (Novácek) J. Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

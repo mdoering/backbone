@@ -1,5 +1,4 @@
-Sphaeria solorinae Mont. SPECIES
-=======
+# Sphaeria solorinae Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria aorista Nyl. SPECIES
-=======
+# Verrucaria aorista Nyl. SPECIES
 
 #### Status
 ACCEPTED

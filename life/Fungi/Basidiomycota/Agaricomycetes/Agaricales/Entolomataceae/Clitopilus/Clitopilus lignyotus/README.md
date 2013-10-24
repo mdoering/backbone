@@ -1,5 +1,4 @@
-Clitopilus lignyotus Hongo SPECIES
-=======
+# Clitopilus lignyotus Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerita amoebae Mattes, 1924 SPECIES
-=======
+# Sphaerita amoebae Mattes, 1924 SPECIES
 
 #### Status
 ACCEPTED

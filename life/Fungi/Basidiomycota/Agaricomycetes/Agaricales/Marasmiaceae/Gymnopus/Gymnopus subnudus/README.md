@@ -1,5 +1,4 @@
-Gymnopus subnudus (Ellis ex Peck) Halling SPECIES
-=======
+# Gymnopus subnudus (Ellis ex Peck) Halling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecidea glaucolepidea Nyl. SPECIES
-=======
+# Trapeliopsis glaucolepidea (Nyl.) Gotth. Schneid. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 13: 148 (1980)
 
 #### Original name
 Lecidea glaucolepidea Nyl.

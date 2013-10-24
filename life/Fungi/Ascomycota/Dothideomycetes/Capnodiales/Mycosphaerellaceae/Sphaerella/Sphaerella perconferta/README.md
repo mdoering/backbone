@@ -1,5 +1,4 @@
-Sphaerella perconferta (Speg.) Sacc. SPECIES
-=======
+# Sphaerella perconferta (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

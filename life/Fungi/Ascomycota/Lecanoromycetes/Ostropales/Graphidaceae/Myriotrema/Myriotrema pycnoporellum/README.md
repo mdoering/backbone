@@ -1,5 +1,4 @@
-Myriotrema pycnoporellum (Nyl.) Hale SPECIES
-=======
+# Myriotrema pycnoporellum (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

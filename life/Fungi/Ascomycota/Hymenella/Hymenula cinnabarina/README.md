@@ -1,5 +1,4 @@
-Hymenula cinnabarina Sacc. SPECIES
-=======
+# Hymenula cinnabarina Sacc. SPECIES
 
 #### Status
 ACCEPTED

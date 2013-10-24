@@ -1,5 +1,4 @@
-Pseudoplanomalina Moullade, Bellier & Tronchetti, 2002 GENUS
-=======
+# Pseudoplanomalina Moullade, Bellier & Tronchetti, 2002 GENUS
 
 #### Status
 ACCEPTED

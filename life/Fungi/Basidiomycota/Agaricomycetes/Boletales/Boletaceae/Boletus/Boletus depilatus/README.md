@@ -1,5 +1,4 @@
-Boletus depilatus Redeuilh SPECIES
-=======
+# Boletus depilatus Redeuilh SPECIES
 
 #### Status
 ACCEPTED

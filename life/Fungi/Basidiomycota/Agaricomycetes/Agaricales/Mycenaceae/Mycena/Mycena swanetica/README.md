@@ -1,5 +1,4 @@
-Mycena swanetica (Singer) Singer SPECIES
-=======
+# Mycena swanetica (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

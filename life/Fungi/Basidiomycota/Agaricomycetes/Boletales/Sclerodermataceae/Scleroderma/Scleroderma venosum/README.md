@@ -1,5 +1,4 @@
-Scleroderma venosum Boud. SPECIES
-=======
+# Scleroderma venosum Boud. SPECIES
 
 #### Status
 ACCEPTED

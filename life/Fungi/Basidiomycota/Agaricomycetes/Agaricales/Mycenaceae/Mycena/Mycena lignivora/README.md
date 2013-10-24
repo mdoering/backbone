@@ -1,5 +1,4 @@
-Mycena lignivora Maas Geest. SPECIES
-=======
+# Mycena lignivora Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

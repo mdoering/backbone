@@ -1,5 +1,4 @@
-Paraliobacillus Ishikawa, Ishizaki, Yamamoto & Yamasato, 2003 GENUS
-=======
+# Paraliobacillus Ishikawa, Ishizaki, Yamamoto & Yamasato, 2003 GENUS
 
 #### Status
 ACCEPTED

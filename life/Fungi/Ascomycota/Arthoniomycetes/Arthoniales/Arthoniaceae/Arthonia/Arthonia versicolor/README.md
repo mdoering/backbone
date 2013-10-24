@@ -1,5 +1,4 @@
-Arthonia versicolor Ach. SPECIES
-=======
+# Arthonia versicolor Ach. SPECIES
 
 #### Status
 ACCEPTED

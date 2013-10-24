@@ -1,5 +1,4 @@
-Hennenia ditelia Buriticá, 1995 SPECIES
-=======
+# Hennenia ditelia Buriticá, 1995 SPECIES
 
 #### Status
 ACCEPTED

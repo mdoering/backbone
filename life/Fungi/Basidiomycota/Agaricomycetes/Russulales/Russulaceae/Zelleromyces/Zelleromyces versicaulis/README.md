@@ -1,17 +1,16 @@
-Arcangeliella versicaulis S.L. Mill.) J.M. Vidal, 2005 SPECIES
-=======
+# Zelleromyces versicaulis S.L. Mill., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Miller & Lebel, Mycotaxon 72: 19 (1999)
 
 #### Original name
-null
+Zelleromyces versicaulis S.L. Mill., 1999
 
 ### Remarks
 null

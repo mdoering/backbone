@@ -1,5 +1,4 @@
-Parmelia sandstedeana Gyeln. SPECIES
-=======
+# Parmelia sandstedeana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

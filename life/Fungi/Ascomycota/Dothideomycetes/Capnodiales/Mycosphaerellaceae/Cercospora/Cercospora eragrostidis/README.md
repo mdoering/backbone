@@ -1,17 +1,16 @@
-Cercospora eragrostis McKenzie & Latch SPECIES
-=======
+# Cercospora eragrostidis McKenzie & Latch, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl agric. Res. 27(1): 113 (1984)
 
 #### Original name
-Cercospora eragrostis McKenzie & Latch
+Cercospora eragrostidis McKenzie & Latch, 1984
 
 ### Remarks
 null

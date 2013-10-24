@@ -1,5 +1,4 @@
-Conferticium Hallenb. GENUS
-=======
+# Conferticium Hallenb. GENUS
 
 #### Status
 ACCEPTED

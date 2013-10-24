@@ -1,11 +1,10 @@
-Mycena umbellifera (Schaeff.) Quél., 1872 SPECIES
-=======
+# Mycena aetites (Fr.) Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

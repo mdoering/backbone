@@ -1,5 +1,4 @@
-Segestrella lectissima Fr. SPECIES
-=======
+# Segestrella lectissima Fr. SPECIES
 
 #### Status
 ACCEPTED

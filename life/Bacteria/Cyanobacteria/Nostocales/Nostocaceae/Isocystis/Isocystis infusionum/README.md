@@ -1,8 +1,7 @@
-Anabaena infusionum Kützing SPECIES
-=======
+# Isocystis infusionum (Kützing) Borzi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Xylosphaera guaranitica (Speg.) Dennis SPECIES
-=======
+# Xylosphaera guaranitica (Speg.) Dennis SPECIES
 
 #### Status
 ACCEPTED

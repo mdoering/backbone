@@ -1,5 +1,4 @@
-Epichloë amarillans J.F. White, 1994 SPECIES
-=======
+# Epichloë amarillans J.F. White, 1994 SPECIES
 
 #### Status
 ACCEPTED

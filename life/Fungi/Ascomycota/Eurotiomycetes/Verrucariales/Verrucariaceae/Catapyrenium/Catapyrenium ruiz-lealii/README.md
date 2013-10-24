@@ -1,5 +1,4 @@
-Catapyrenium ruiz-lealii (Räsänen) Breuss SPECIES
-=======
+# Catapyrenium ruiz-lealii (Räsänen) Breuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanodiscus punctatus (W. Smith) Grunow SPECIES
-=======
+# Stephanodiscus punctatus (W. Smith) Grunow SPECIES
 
 #### Status
 ACCEPTED

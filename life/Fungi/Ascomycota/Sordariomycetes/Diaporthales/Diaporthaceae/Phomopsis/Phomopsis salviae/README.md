@@ -1,5 +1,4 @@
-Phomopsis salviae (Brunaud) Traverso SPECIES
-=======
+# Phomopsis salviae (Brunaud) Traverso SPECIES
 
 #### Status
 ACCEPTED

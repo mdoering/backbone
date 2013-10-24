@@ -1,5 +1,4 @@
-Irenina pinicola (Dearn.) F. Stevens SPECIES
-=======
+# Irenina pinicola (Dearn.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

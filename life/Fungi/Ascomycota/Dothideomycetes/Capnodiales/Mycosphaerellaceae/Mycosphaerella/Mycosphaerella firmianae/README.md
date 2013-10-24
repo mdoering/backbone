@@ -1,5 +1,4 @@
-Mycosphaerella firmianae (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella firmianae (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

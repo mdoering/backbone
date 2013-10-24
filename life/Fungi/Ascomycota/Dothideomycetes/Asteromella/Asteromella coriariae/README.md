@@ -1,5 +1,4 @@
-Asteromella coriariae Petr. SPECIES
-=======
+# Asteromella coriariae Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia halimodendri Gucevic SPECIES
-=======
+# Diplodia halimodendri Gucevic SPECIES
 
 #### Status
 ACCEPTED

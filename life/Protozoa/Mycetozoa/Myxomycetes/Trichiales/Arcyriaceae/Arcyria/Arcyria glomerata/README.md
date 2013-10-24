@@ -1,5 +1,4 @@
-Arcyria glomerata Fr. SPECIES
-=======
+# Arcyria glomerata Fr. SPECIES
 
 #### Status
 ACCEPTED

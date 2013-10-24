@@ -1,5 +1,4 @@
-Pseudocercospora litseae (A.N. Rai, B. Rai & Kamal) U. Braun SPECIES
-=======
+# Pseudocercospora litseae (A.N. Rai, B. Rai & Kamal) U. Braun SPECIES
 
 #### Status
 ACCEPTED

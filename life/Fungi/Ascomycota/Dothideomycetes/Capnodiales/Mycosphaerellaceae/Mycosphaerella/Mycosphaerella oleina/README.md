@@ -1,5 +1,4 @@
-Mycosphaerella oleina (Cooke) J.H. Mill. SPECIES
-=======
+# Mycosphaerella oleina (Cooke) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

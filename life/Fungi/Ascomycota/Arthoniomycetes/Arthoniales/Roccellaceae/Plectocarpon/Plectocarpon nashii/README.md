@@ -1,5 +1,4 @@
-Plectocarpon nashii Hafellner SPECIES
-=======
+# Plectocarpon nashii Hafellner SPECIES
 
 #### Status
 ACCEPTED

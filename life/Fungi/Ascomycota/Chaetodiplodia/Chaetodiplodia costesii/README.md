@@ -1,17 +1,16 @@
-Chaetodiplodia costesi Speg. SPECIES
-=======
+# Chaetodiplodia costesii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 25: 104 [no. 197, reprint page 106] (1921)
 
 #### Original name
-Chaetodiplodia costesi Speg.
+Chaetodiplodia costesii Speg.
 
 ### Remarks
 null

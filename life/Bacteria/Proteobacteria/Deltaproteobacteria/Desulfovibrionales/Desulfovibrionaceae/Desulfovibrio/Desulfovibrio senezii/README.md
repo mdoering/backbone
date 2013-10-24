@@ -1,5 +1,4 @@
-Desulfovibrio senezii Tsu et al., 1999 SPECIES
-=======
+# Desulfovibrio senezii Tsu et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

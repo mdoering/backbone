@@ -1,5 +1,4 @@
-Bryoria spiralifera Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria spiralifera Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

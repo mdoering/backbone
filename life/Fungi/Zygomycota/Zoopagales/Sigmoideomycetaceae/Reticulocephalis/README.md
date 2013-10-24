@@ -1,5 +1,4 @@
-Reticulocephalis Benny, R.K. Benj. & P.M. Kirk GENUS
-=======
+# Reticulocephalis Benny, R.K. Benj. & P.M. Kirk GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuber moravicum Velen. SPECIES
-=======
+# Tuber moravicum Velen. SPECIES
 
 #### Status
 ACCEPTED

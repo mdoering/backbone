@@ -1,5 +1,4 @@
-Aecidium carviae Sathe SPECIES
-=======
+# Aecidium carviae Sathe SPECIES
 
 #### Status
 ACCEPTED

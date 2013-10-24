@@ -1,5 +1,4 @@
-Chaetomium depressum Wallr. SPECIES
-=======
+# Chaetomium depressum Wallr. SPECIES
 
 #### Status
 ACCEPTED

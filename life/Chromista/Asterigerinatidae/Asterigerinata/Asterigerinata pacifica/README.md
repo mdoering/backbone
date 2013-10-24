@@ -1,5 +1,4 @@
-Asterigerinata pacifica Uchio, 1960 SPECIES
-=======
+# Asterigerinata pacifica Uchio, 1960 SPECIES
 
 #### Status
 ACCEPTED

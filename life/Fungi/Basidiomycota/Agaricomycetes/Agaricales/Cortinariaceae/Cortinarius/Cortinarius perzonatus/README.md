@@ -1,5 +1,4 @@
-Cortinarius perzonatus Reumaux SPECIES
-=======
+# Cortinarius perzonatus Reumaux SPECIES
 
 #### Status
 ACCEPTED

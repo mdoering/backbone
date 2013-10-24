@@ -1,17 +1,16 @@
-Phaeoisariopsis sawada S.C. Jong & E.F. Morris SPECIES
-=======
+# Phaeoisariopsis sawadae S.C. Jong & E.F. Morris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 34: 267 (1968)
 
 #### Original name
-Phaeoisariopsis sawada S.C. Jong & E.F. Morris
+Phaeoisariopsis sawadae S.C. Jong & E.F. Morris
 
 ### Remarks
 null

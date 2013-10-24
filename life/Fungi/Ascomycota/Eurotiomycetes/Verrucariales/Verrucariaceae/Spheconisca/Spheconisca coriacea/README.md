@@ -1,5 +1,4 @@
-Spheconisca coriacea SPECIES
-=======
+# Spheconisca coriacea SPECIES
 
 #### Status
 ACCEPTED

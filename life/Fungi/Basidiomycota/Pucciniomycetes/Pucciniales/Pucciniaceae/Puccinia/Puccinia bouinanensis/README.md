@@ -1,5 +1,4 @@
-Puccinia bouinanensis A.L. Guyot SPECIES
-=======
+# Puccinia bouinanensis A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

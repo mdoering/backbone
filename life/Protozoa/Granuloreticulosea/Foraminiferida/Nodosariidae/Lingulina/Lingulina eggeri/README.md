@@ -1,5 +1,4 @@
-Lingulina eggeri Buchner, 1942 SPECIES
-=======
+# Lingulina eggeri Buchner, 1942 SPECIES
 
 #### Status
 ACCEPTED

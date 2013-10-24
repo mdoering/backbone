@@ -1,5 +1,4 @@
-Arthonia subgrisea Müll. Arg. SPECIES
-=======
+# Arthonia subgrisea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

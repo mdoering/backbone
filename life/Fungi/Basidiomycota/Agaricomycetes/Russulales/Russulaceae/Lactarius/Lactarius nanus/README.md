@@ -1,5 +1,4 @@
-Lactarius nanus J. Favre SPECIES
-=======
+# Lactarius nanus J. Favre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius galeacampanulatus Rob. Henry SPECIES
-=======
+# Cortinarius galeacampanulatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

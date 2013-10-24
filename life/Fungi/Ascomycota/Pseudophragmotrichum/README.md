@@ -1,5 +1,4 @@
-Pseudophragmotrichum W.P. Wu, B. Sutton & Gange GENUS
-=======
+# Pseudophragmotrichum W.P. Wu, B. Sutton & Gange GENUS
 
 #### Status
 ACCEPTED

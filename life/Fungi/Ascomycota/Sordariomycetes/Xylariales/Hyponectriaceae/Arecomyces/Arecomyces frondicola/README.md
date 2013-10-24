@@ -1,5 +1,4 @@
-Arecomyces frondicola K.D. Hyde, 1996 SPECIES
-=======
+# Arecomyces frondicola K.D. Hyde, 1996 SPECIES
 
 #### Status
 ACCEPTED

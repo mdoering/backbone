@@ -1,5 +1,4 @@
-Helminthosporium sticticum Berk. & Broome SPECIES
-=======
+# Helminthosporium sticticum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

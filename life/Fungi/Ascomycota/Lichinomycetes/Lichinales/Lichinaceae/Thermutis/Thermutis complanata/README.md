@@ -1,5 +1,4 @@
-Thermutis complanata (Ag. {?} ) A.L. Sm. SPECIES
-=======
+# Thermutis complanata (Ag. {?} ) A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

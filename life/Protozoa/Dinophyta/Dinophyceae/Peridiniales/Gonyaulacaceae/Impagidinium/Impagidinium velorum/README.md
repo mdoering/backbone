@@ -1,5 +1,4 @@
-Impagidinium velorum J. P. Bujak SPECIES
-=======
+# Impagidinium velorum J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

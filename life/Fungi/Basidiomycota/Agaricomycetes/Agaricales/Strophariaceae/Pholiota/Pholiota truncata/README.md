@@ -1,5 +1,4 @@
-Pholiota truncata Natarajan & Raman SPECIES
-=======
+# Pholiota truncata Natarajan & Raman SPECIES
 
 #### Status
 ACCEPTED

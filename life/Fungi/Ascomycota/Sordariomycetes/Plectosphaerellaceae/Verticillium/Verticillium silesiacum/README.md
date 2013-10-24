@@ -1,5 +1,4 @@
-Verticillium silesiacum Lingelsh. SPECIES
-=======
+# Verticillium silesiacum Lingelsh. SPECIES
 
 #### Status
 ACCEPTED

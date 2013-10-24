@@ -1,5 +1,4 @@
-Alectoria ostrobothniae var. ostrobothniae VARIETY
-=======
+# Alectoria ostrobothniae Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Alectoria ostrobothniae var. ostrobothniae
+Alectoria ostrobothniae Gyeln.
 
 ### Remarks
 null

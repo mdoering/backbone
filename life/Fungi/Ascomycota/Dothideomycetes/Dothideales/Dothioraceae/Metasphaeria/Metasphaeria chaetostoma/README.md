@@ -1,5 +1,4 @@
-Metasphaeria chaetostoma (Sacc.) Sacc. SPECIES
-=======
+# Metasphaeria chaetostoma (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

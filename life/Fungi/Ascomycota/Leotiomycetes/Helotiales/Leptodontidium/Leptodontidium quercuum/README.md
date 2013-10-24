@@ -1,5 +1,4 @@
-Leptodontidium quercuum Tsuneda, N. Maek. & Currah, 1996 SPECIES
-=======
+# Leptodontidium quercuum Tsuneda, N. Maek. & Currah, 1996 SPECIES
 
 #### Status
 ACCEPTED

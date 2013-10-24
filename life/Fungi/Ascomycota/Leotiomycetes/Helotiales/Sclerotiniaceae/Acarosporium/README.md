@@ -1,5 +1,4 @@
-Acarosporium Bubák & Vleugel ex Bubák GENUS
-=======
+# Acarosporium Bubák & Vleugel ex Bubák GENUS
 
 #### Status
 ACCEPTED

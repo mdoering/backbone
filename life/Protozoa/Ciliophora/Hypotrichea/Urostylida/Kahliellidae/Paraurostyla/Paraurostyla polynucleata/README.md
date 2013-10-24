@@ -1,5 +1,4 @@
-Paraurostyla polynucleata Alekperov, 1993 SPECIES
-=======
+# Paraurostyla polynucleata Alekperov, 1993 SPECIES
 
 #### Status
 ACCEPTED

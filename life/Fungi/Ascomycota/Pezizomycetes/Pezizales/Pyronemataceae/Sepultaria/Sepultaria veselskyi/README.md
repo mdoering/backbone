@@ -1,5 +1,4 @@
-Sepultaria veselskyi Svrcek SPECIES
-=======
+# Sepultaria veselskyi Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphetospora GENUS
-=======
+# Aphetospora GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype euphorea (Fr.) Cooke SPECIES
-=======
+# Diatrype euphorea (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

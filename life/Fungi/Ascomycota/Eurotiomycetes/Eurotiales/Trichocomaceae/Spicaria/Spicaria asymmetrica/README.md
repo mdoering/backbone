@@ -1,5 +1,4 @@
-Spicaria asymmetrica K.B. Deshp. & K.S. Deshp. SPECIES
-=======
+# Spicaria asymmetrica K.B. Deshp. & K.S. Deshp. SPECIES
 
 #### Status
 ACCEPTED

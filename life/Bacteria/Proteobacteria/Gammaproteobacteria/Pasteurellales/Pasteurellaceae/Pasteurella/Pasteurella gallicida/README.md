@@ -1,5 +1,4 @@
-Pasteurella gallicida (Burrill, 1883) Buchanan, 1925 (Approved Lists, 1980), species (rejected name) . SPECIES
-=======
+# Pasteurella gallicida (Burrill, 1883) Buchanan, 1925 (Approved Lists, 1980), species (rejected name) . SPECIES
 
 #### Status
 ACCEPTED

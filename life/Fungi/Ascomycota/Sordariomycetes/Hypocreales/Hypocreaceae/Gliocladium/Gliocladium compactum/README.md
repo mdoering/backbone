@@ -1,5 +1,4 @@
-Gliocladium compactum Cooke & Massee SPECIES
-=======
+# Gliocladium compactum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

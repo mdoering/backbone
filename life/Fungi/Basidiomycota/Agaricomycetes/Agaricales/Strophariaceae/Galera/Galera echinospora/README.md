@@ -1,5 +1,4 @@
-Galera echinospora Murrill SPECIES
-=======
+# Galera echinospora Murrill SPECIES
 
 #### Status
 ACCEPTED

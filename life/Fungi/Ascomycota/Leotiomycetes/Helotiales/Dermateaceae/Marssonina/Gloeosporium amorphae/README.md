@@ -1,5 +1,4 @@
-Gloeosporium amorphae Sacc. SPECIES
-=======
+# Gloeosporium amorphae Sacc. SPECIES
 
 #### Status
 ACCEPTED

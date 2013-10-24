@@ -1,5 +1,4 @@
-Agaricus succosus Peck SPECIES
-=======
+# Agaricus succosus Peck SPECIES
 
 #### Status
 ACCEPTED

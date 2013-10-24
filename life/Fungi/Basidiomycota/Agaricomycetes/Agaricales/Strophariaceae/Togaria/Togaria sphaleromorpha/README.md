@@ -1,5 +1,4 @@
-Togaria sphaleromorpha (Bull.) W.G. Sm. SPECIES
-=======
+# Togaria sphaleromorpha (Bull.) W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

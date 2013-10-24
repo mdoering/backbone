@@ -1,5 +1,4 @@
-Martensiomyces J.A. Mey. GENUS
-=======
+# Martensiomyces J.A. Mey. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon xanthino-velutinum Mont. SPECIES
-=======
+# Hypoxylon xanthino-velutinum Mont. SPECIES
 
 #### Status
 ACCEPTED

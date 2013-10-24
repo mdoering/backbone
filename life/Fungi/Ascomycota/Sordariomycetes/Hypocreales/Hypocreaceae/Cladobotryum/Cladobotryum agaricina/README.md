@@ -1,5 +1,4 @@
-Cladobotryum agaricina (Link) Nees SPECIES
-=======
+# Cladobotryum agaricina (Link) Nees SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon scutelligerum Th. Fr. SPECIES
-=======
+# Stereocaulon scutelligerum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria krabiensis Jariangpr. SPECIES
-=======
+# Pertusaria krabiensis Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

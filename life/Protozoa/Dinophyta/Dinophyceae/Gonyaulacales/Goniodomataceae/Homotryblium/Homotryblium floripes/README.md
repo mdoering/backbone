@@ -1,5 +1,4 @@
-Homotryblium floripes (Deflandre & Cookson, 1955) Stover, 1975 SPECIES
-=======
+# Homotryblium floripes (Deflandre & Cookson, 1955) Stover, 1975 SPECIES
 
 #### Status
 ACCEPTED

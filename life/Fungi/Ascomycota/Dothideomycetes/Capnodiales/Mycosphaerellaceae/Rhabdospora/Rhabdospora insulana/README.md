@@ -1,5 +1,4 @@
-Rhabdospora insulana Sacc. SPECIES
-=======
+# Rhabdospora insulana Sacc. SPECIES
 
 #### Status
 ACCEPTED

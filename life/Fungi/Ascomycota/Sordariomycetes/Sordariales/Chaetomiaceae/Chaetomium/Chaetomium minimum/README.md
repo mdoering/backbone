@@ -1,5 +1,4 @@
-Chaetomium minimum J.F.H. Beyma SPECIES
-=======
+# Chaetomium minimum J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

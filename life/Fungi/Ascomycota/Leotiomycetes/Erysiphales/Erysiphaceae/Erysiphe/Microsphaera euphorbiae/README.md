@@ -1,5 +1,4 @@
-Microsphaera euphorbiae Berk. & M.A. Curtis SPECIES
-=======
+# Microsphaera euphorbiae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

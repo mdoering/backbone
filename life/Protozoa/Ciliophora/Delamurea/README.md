@@ -1,5 +1,4 @@
-Delamurea Najdenova, 1978 GENUS
-=======
+# Delamurea Najdenova, 1978 GENUS
 
 #### Status
 ACCEPTED

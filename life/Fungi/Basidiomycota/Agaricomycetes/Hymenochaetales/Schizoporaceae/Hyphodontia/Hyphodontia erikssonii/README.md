@@ -1,14 +1,13 @@
-Grandinia erikssonii M. Galán & J.E. Wright, 1993 SPECIES
-=======
+# Hyphodontia erikssonii (M. Galán & J.E. Wright) Hjortstam & Ryvarden, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Galán, Lopez & Wright, Darwiniana 32(1-4): 251 (1993)
+Syn. Fung. (Oslo) 20: 63 (2005)
 
 #### Original name
 Grandinia erikssonii M. Galán & J.E. Wright, 1993

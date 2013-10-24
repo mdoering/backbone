@@ -1,8 +1,7 @@
-Penicillium spinuloramigenum Y. Sasaki, 1946 SPECIES
-=======
+# Penicillium spinulosum Thom, 1910 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

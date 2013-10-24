@@ -1,5 +1,4 @@
-Cercospora launaeicola S.A. Khan & M. Kamal SPECIES
-=======
+# Cercospora launaeicola S.A. Khan & M. Kamal SPECIES
 
 #### Status
 ACCEPTED

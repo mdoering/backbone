@@ -1,5 +1,4 @@
-Psathyrella flagelliformis Raithelh. SPECIES
-=======
+# Psathyrella flagelliformis Raithelh. SPECIES
 
 #### Status
 ACCEPTED

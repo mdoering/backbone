@@ -1,8 +1,7 @@
-Smyrnella Saidova, 1975 GENUS
-=======
+# Globocassidulina Voloshinova, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

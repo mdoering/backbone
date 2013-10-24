@@ -1,5 +1,4 @@
-Pyrodictium brockii Stetter et al., 1984 SPECIES
-=======
+# Pyrodictium brockii Stetter et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Aecidium cantensis Arthur SPECIES
-=======
+# Aecidium cantense Arthur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin Est. Exp. Arg. Soc. Nat. Arg. Peru 2: 10 (1929)
 
 #### Original name
-Aecidium cantensis Arthur
+Aecidium cantense Arthur
 
 ### Remarks
 null

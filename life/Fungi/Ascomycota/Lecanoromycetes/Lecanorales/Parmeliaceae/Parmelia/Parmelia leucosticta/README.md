@@ -1,5 +1,4 @@
-Parmelia leucosticta Tuck. SPECIES
-=======
+# Parmelia leucosticta Tuck. SPECIES
 
 #### Status
 ACCEPTED

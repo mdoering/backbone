@@ -1,5 +1,4 @@
-Trichoderma aggressivum f. europaeum Samuels & W. Gams, 2002 FORM
-=======
+# Trichoderma aggressivum Samuels & W. Gams SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycologia 94(1): 167 (2002)
 
 #### Original name
-Trichoderma aggressivum f. europaeum Samuels & W. Gams, 2002
+Trichoderma aggressivum Samuels & W. Gams
 
 ### Remarks
 null

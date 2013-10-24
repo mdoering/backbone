@@ -1,5 +1,4 @@
-Grovesia Dennis, 1960 GENUS
-=======
+# Grovesia Dennis, 1960 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Himantopus Müller, 1786 GENUS
-=======
+# Himantopus Müller, 1786 GENUS
 
 #### Status
 ACCEPTED

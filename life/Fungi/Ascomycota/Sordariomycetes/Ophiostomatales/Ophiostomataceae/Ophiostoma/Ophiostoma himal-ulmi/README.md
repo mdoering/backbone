@@ -1,5 +1,4 @@
-Ophiostoma himal-ulmi Brasier & M.D. Mehrotra, 1995 SPECIES
-=======
+# Ophiostoma himal-ulmi Brasier & M.D. Mehrotra, 1995 SPECIES
 
 #### Status
 ACCEPTED

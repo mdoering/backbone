@@ -1,5 +1,4 @@
-Coremiopsis rosea Sizova & Suprun SPECIES
-=======
+# Coremiopsis rosea Sizova & Suprun SPECIES
 
 #### Status
 ACCEPTED

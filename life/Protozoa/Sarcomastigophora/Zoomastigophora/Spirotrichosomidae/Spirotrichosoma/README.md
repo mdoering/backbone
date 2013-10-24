@@ -1,5 +1,4 @@
-Spirotrichosoma Sutherland, 1933 GENUS
-=======
+# Spirotrichosoma Sutherland, 1933 GENUS
 
 #### Status
 ACCEPTED

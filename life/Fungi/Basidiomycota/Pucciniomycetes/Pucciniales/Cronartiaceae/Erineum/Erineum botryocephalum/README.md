@@ -1,5 +1,4 @@
-Erineum botryocephalum Corda SPECIES
-=======
+# Erineum botryocephalum Corda SPECIES
 
 #### Status
 ACCEPTED

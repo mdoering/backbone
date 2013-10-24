@@ -1,5 +1,4 @@
-Ascochyta festucae-erectae Henn. SPECIES
-=======
+# Ascochyta festucae-erectae Henn. SPECIES
 
 #### Status
 ACCEPTED

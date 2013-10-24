@@ -1,8 +1,7 @@
-Amphorella norvegica Daday, 1887 SPECIES
-=======
+# Acanthostomella norvegica (Daday, 1887) Jörgensen, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

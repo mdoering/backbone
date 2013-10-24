@@ -1,5 +1,4 @@
-Hypoxylon megalosporum Speg., 1898 SPECIES
-=======
+# Hypoxylon megalosporum Speg., 1898 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melasmia eucalypti Cooke & Massee SPECIES
-=======
+# Melasmia eucalypti Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

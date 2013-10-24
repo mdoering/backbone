@@ -1,5 +1,4 @@
-Schiffnerula domingensis Petr. & Syd. SPECIES
-=======
+# Schiffnerula domingensis Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

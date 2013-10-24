@@ -1,5 +1,4 @@
-Phaeocollybia herrerae Bandala & Montoya SPECIES
-=======
+# Phaeocollybia herrerae Bandala & Montoya SPECIES
 
 #### Status
 ACCEPTED

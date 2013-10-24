@@ -1,5 +1,4 @@
-Peziza pallida Schumach. SPECIES
-=======
+# Peziza pallida Schumach. SPECIES
 
 #### Status
 ACCEPTED

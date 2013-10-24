@@ -1,5 +1,4 @@
-Diplodia interrogativa Thüm. & Pass. SPECIES
-=======
+# Diplodia interrogativa Thüm. & Pass. SPECIES
 
 #### Status
 ACCEPTED

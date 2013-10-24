@@ -1,5 +1,4 @@
-Asterina altingiae B. Song SPECIES
-=======
+# Asterina altingiae B. Song SPECIES
 
 #### Status
 ACCEPTED

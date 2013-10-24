@@ -1,5 +1,4 @@
-Cyclotella americana Fricke SPECIES
-=======
+# Cyclotella americana Fricke SPECIES
 
 #### Status
 ACCEPTED

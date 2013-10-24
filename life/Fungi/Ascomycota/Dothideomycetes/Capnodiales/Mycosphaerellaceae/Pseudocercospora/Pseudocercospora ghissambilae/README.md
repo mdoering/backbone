@@ -1,5 +1,4 @@
-Pseudocercospora ghissambilae U. Braun & Crous SPECIES
-=======
+# Pseudocercospora ghissambilae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

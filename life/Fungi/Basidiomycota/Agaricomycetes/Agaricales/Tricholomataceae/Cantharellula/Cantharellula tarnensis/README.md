@@ -1,5 +1,4 @@
-Cantharellula tarnensis (Speg.) Singer SPECIES
-=======
+# Cantharellula tarnensis (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

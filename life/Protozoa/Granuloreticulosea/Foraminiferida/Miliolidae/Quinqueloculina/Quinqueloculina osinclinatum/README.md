@@ -1,5 +1,4 @@
-Quinqueloculina osinclinatum Le Calvez SPECIES
-=======
+# Quinqueloculina osinclinatum Le Calvez SPECIES
 
 #### Status
 ACCEPTED

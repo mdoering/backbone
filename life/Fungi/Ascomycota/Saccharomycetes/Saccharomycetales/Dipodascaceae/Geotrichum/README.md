@@ -1,17 +1,16 @@
-Oosporoidea Sumst. GENUS
-=======
+# Geotrichum Link, 1809 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycologia 5(2): 52 (1913)
+null
 
 #### Original name
-Oosporoidea Sumst.
+null
 
 ### Remarks
 null

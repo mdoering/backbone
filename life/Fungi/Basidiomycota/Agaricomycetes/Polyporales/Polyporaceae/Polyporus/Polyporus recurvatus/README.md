@@ -1,5 +1,4 @@
-Polyporus recurvatus Theiss. SPECIES
-=======
+# Polyporus recurvatus Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxosporium bondartzevii Negru & R. Sandor SPECIES
-=======
+# Myxosporium bondartzevii Negru & R. Sandor SPECIES
 
 #### Status
 ACCEPTED

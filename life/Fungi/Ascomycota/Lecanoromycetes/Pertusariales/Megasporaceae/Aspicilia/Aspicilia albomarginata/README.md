@@ -1,5 +1,4 @@
-Aspicilia albomarginata B. de Lesd. SPECIES
-=======
+# Aspicilia albomarginata B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

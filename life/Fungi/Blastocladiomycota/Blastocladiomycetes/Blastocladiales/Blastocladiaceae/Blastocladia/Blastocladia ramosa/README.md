@@ -1,5 +1,4 @@
-Blastocladia ramosa var. luxurians Kanouse VARIETY
-=======
+# Blastocladia ramosa Thaxt. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bot. Gaz. 21: 50 (1896)
 
 #### Original name
-Blastocladia ramosa var. luxurians Kanouse
+Blastocladia ramosa Thaxt.
 
 ### Remarks
 null

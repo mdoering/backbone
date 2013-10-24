@@ -1,5 +1,4 @@
-Cladosporium lycoperdinum Cooke SPECIES
-=======
+# Cladosporium lycoperdinum Cooke SPECIES
 
 #### Status
 ACCEPTED

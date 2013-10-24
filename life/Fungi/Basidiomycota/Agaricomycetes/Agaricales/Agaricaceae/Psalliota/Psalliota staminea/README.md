@@ -1,5 +1,4 @@
-Psalliota staminea Jul. Schäff. & F.H. Møller SPECIES
-=======
+# Psalliota staminea Jul. Schäff. & F.H. Møller SPECIES
 
 #### Status
 ACCEPTED

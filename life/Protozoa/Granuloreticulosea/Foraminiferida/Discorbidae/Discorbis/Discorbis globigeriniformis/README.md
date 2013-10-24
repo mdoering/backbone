@@ -1,5 +1,4 @@
-Discorbis globigeriniformis (Earland & Heron-Allen) SPECIES
-=======
+# Discorbis globigeriniformis (Earland & Heron-Allen) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe insignissima Romagn. SPECIES
-=======
+# Inocybe insignissima Romagn. SPECIES
 
 #### Status
 ACCEPTED

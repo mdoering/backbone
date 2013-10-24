@@ -1,5 +1,4 @@
-Agaricus leptosceles Berk. & Broome SPECIES
-=======
+# Agaricus leptosceles Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

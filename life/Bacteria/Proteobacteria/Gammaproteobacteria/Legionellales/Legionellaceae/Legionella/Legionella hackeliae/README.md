@@ -1,5 +1,4 @@
-Legionella hackeliae Brenner et al., 1985 SPECIES
-=======
+# Legionella hackeliae Brenner et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

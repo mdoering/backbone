@@ -1,5 +1,4 @@
-Xenosphaeria sphyridiana J. Lahm SPECIES
-=======
+# Xenosphaeria sphyridiana J. Lahm SPECIES
 
 #### Status
 ACCEPTED

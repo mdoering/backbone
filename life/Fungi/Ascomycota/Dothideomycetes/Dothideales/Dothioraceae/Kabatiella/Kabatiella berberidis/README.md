@@ -1,5 +1,4 @@
-Kabatiella berberidis (Cooke) C.G. Shaw & Arx SPECIES
-=======
+# Kabatiella berberidis (Cooke) C.G. Shaw & Arx SPECIES
 
 #### Status
 ACCEPTED

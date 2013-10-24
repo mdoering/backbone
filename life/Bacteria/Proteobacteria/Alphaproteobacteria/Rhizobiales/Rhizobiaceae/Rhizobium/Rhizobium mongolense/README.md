@@ -1,5 +1,4 @@
-Rhizobium mongolense Van Berkum et al., 1998 SPECIES
-=======
+# Rhizobium mongolense Van Berkum et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

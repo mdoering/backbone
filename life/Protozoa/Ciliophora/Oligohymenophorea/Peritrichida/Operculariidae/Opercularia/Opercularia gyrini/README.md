@@ -1,5 +1,4 @@
-Opercularia gyrini SPECIES
-=======
+# Opercularia gyrini SPECIES
 
 #### Status
 ACCEPTED

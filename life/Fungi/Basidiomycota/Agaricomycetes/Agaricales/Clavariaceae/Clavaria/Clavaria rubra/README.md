@@ -1,5 +1,4 @@
-Clavaria rubra Berk. & Cooke SPECIES
-=======
+# Clavaria rubra Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

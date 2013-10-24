@@ -1,5 +1,4 @@
-Acarospora saxicola Fink ex J. Hedrick SPECIES
-=======
+# Acarospora saxicola Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

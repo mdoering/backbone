@@ -1,14 +1,13 @@
-Nigredo rhynchosporae (Ellis) Arthur, 1920 SPECIES
-=======
+# Uromyces rhynchosporae Ellis, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(4): 232 (1920)
+J. Mycol. 7(3): 274 (1893)
 
 #### Original name
 Uromyces rhynchosporae Ellis, 1893

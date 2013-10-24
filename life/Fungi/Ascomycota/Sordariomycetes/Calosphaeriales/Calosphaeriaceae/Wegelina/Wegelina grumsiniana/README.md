@@ -1,5 +1,4 @@
-Wegelina grumsiniana (Kirschst.) V. Kumm., T. Richt. & Schwik SPECIES
-=======
+# Wegelina grumsiniana (Kirschst.) V. Kumm., T. Richt. & Schwik SPECIES
 
 #### Status
 ACCEPTED

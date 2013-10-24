@@ -1,5 +1,4 @@
-Orthomorphina obsoleta SPECIES
-=======
+# Orthomorphina obsoleta SPECIES
 
 #### Status
 ACCEPTED

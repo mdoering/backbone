@@ -1,5 +1,4 @@
-Coccomyces longwoodicus P.R. Johnst., 1986 SPECIES
-=======
+# Coccomyces longwoodicus P.R. Johnst., 1986 SPECIES
 
 #### Status
 ACCEPTED

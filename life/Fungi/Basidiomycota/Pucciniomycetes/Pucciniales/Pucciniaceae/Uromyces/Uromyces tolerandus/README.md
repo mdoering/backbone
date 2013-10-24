@@ -1,5 +1,4 @@
-Uromyces tolerandus H.S. Jacks. & Holw. SPECIES
-=======
+# Uromyces tolerandus H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

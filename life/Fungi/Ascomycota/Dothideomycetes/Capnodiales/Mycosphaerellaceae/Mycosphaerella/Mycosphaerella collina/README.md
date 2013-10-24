@@ -1,5 +1,4 @@
-Mycosphaerella collina (Sacc. & Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella collina (Sacc. & Speg.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

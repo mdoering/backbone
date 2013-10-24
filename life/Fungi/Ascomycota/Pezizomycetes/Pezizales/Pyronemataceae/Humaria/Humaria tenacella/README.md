@@ -1,5 +1,4 @@
-Humaria tenacella (W. Phillips) Sacc. SPECIES
-=======
+# Humaria tenacella (W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

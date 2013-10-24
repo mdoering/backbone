@@ -1,5 +1,4 @@
-Capnophialophora hughesii Borowska, 1986 SPECIES
-=======
+# Capnophialophora hughesii Borowska, 1986 SPECIES
 
 #### Status
 ACCEPTED

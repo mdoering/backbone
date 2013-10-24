@@ -1,5 +1,4 @@
-Physalospora citricola Penz. SPECIES
-=======
+# Physalospora citricola Penz. SPECIES
 
 #### Status
 ACCEPTED

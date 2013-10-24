@@ -1,17 +1,16 @@
-Leptographium gallaeciae Fern. Magán SPECIES
-=======
+# Leptographium galleciae Fern. Magán SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anales del Instituto Nacional de Investigaciones Agrarias, Agricola, Madrid 7: 169 (1983)
 
 #### Original name
-Leptographium gallaeciae Fern. Magán
+Leptographium galleciae Fern. Magán
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Porphyrobacter dokdonensis Yoon et al., 2006 SPECIES
-=======
+# Porphyrobacter dokdonensis Yoon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Godronia diervillae J.W. Groves SPECIES
-=======
+# Godronia diervillae J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

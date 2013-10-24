@@ -1,5 +1,4 @@
-Mccloudia GENUS
-=======
+# Mccloudia GENUS
 
 #### Status
 ACCEPTED

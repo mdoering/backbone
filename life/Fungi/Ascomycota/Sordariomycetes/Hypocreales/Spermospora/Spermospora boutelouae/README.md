@@ -1,14 +1,13 @@
-Spermospora bouteloae (R. Sprague & Rogerson) U. Braun SPECIES
-=======
+# Spermospora boutelouae (R. Sprague & Rogerson) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 58(1-2): 208 (1994)
 
 #### Original name
 Cercosporella boutelouae R. Sprague & Rogerson

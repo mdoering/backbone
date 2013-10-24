@@ -1,14 +1,13 @@
-Cenangium biparasiticum Pat., 1895 SPECIES
-=======
+# Parencoelia biparasitica (Pat.) W.Y. Zhuang, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 11(4): 219 (1895)
+Mycotaxon 32(1): 90 (1988)
 
 #### Original name
 Cenangium biparasiticum Pat., 1895

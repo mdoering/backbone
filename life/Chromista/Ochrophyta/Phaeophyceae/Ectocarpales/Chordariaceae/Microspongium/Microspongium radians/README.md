@@ -1,8 +1,7 @@
-Streblonema radians M.A. Howe SPECIES
-=======
+# Microspongium radians (M.A. Howe) A.F. Peters SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

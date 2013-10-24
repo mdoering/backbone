@@ -1,5 +1,4 @@
-Lecidea volvarioides (Fée) Stizenb. SPECIES
-=======
+# Lecidea volvarioides (Fée) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

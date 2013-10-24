@@ -1,5 +1,4 @@
-Lophodolithus G. Deflandre in G. Deflandre & C. Fert, 1954 GENUS
-=======
+# Lophodolithus G. Deflandre in G. Deflandre & C. Fert, 1954 GENUS
 
 #### Status
 ACCEPTED

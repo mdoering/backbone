@@ -1,5 +1,4 @@
-Bacidia megapotamica Malme SPECIES
-=======
+# Bacidia megapotamica Malme SPECIES
 
 #### Status
 ACCEPTED

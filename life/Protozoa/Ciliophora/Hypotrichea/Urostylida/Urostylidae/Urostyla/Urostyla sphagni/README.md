@@ -1,5 +1,4 @@
-Urostyla sphagni Stokes, 1886 SPECIES
-=======
+# Urostyla sphagni Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

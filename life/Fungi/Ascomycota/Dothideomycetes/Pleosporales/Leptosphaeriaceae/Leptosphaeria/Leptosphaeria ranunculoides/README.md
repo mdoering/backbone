@@ -1,5 +1,4 @@
-Leptosphaeria ranunculoides Noelli {?} SPECIES
-=======
+# Leptosphaeria ranunculoides Noelli {?} SPECIES
 
 #### Status
 ACCEPTED

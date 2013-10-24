@@ -1,17 +1,16 @@
-Nolanea verna var. verna (S. Lundell) Kotl. & Pouzar VARIETY
-=======
+# Entoloma vernum S. Lundell, 1937 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 26: 221 (1972)
+Svensk bot. Tidskr. 31: 193 (1937)
 
 #### Original name
-Nolanea verna var. verna (S. Lundell) Kotl. & Pouzar
+Entoloma vernum S. Lundell, 1937
 
 ### Remarks
 null

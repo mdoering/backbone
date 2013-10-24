@@ -1,5 +1,4 @@
-Buellia sejuncta J. Steiner SPECIES
-=======
+# Buellia sejuncta J. Steiner SPECIES
 
 #### Status
 ACCEPTED

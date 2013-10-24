@@ -1,5 +1,4 @@
-Mitrula bermudiana Waterston SPECIES
-=======
+# Mitrula bermudiana Waterston SPECIES
 
 #### Status
 ACCEPTED

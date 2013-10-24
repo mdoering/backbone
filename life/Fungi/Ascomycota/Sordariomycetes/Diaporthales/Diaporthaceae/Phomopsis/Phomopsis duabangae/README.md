@@ -1,5 +1,4 @@
-Phomopsis duabangae M.M. Xiang, Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Phomopsis duabangae M.M. Xiang, Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

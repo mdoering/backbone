@@ -1,5 +1,4 @@
-Eucantharomyces egae W. Rossi & Ponziani SPECIES
-=======
+# Eucantharomyces egae W. Rossi & Ponziani SPECIES
 
 #### Status
 ACCEPTED

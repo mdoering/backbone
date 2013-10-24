@@ -1,5 +1,4 @@
-Agaricus dimorphus Berk. & Broome SPECIES
-=======
+# Agaricus dimorphus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

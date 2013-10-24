@@ -1,5 +1,4 @@
-Lamprospora feurichiana (Kirschst.) Benkert SPECIES
-=======
+# Lamprospora feurichiana (Kirschst.) Benkert SPECIES
 
 #### Status
 ACCEPTED

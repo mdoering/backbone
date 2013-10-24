@@ -1,5 +1,4 @@
-Diacrocanthidium costatum Habib & Knapp, 1982 SPECIES
-=======
+# Diacrocanthidium costatum Habib & Knapp, 1982 SPECIES
 
 #### Status
 ACCEPTED

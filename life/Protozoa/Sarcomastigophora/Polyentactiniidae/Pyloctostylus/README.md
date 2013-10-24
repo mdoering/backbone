@@ -1,5 +1,4 @@
-Pyloctostylus Dumitrica, 1994 GENUS
-=======
+# Pyloctostylus Dumitrica, 1994 GENUS
 
 #### Status
 ACCEPTED

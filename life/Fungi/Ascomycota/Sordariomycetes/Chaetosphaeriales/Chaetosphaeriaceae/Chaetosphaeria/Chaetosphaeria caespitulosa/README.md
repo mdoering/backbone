@@ -1,5 +1,4 @@
-Chaetosphaeria caespitulosa Höhn. SPECIES
-=======
+# Chaetosphaeria caespitulosa Höhn. SPECIES
 
 #### Status
 ACCEPTED

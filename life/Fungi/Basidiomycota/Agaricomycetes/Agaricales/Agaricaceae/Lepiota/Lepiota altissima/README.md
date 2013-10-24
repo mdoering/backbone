@@ -1,5 +1,4 @@
-Lepiota altissima Massee SPECIES
-=======
+# Lepiota altissima Massee SPECIES
 
 #### Status
 ACCEPTED

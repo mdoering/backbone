@@ -1,8 +1,7 @@
-Bactrophora filum (Harvey) J.Agardh, 1882 SPECIES
-=======
+# Cladosiphon filum (Harvey) Kylin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

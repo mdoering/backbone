@@ -1,5 +1,4 @@
-Rhachomyces gratiellae W. Rossi SPECIES
-=======
+# Rhachomyces gratiellae W. Rossi SPECIES
 
 #### Status
 ACCEPTED

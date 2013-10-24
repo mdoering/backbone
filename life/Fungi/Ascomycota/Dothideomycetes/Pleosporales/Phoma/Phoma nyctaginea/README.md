@@ -1,5 +1,4 @@
-Phoma nyctaginea var. nyctaginea VARIETY
-=======
+# Phoma nyctaginea Tassi, 1900 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin Labor. Orto Bot. de R. Univ. Siena 3: 16 (1900)
+null
 
 #### Original name
-Phoma nyctaginea var. nyctaginea
+null
 
 ### Remarks
 null

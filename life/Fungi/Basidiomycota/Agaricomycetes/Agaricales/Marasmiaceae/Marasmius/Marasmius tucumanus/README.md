@@ -1,5 +1,4 @@
-Marasmius tucumanus Singer SPECIES
-=======
+# Marasmius tucumanus Singer SPECIES
 
 #### Status
 ACCEPTED

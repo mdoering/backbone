@@ -1,5 +1,4 @@
-Buellia exalbida (Kremp.) Zahlbr. SPECIES
-=======
+# Buellia exalbida (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

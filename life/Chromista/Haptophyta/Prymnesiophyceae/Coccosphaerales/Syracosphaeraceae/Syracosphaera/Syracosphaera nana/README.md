@@ -1,5 +1,4 @@
-Syracosphaera nana (Kamptner) Okada & McIntyre, 1977 SPECIES
-=======
+# Syracosphaera nana (Kamptner) Okada & McIntyre, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectostroma polypori Kirchn. SPECIES
-=======
+# Ectostroma polypori Kirchn. SPECIES
 
 #### Status
 ACCEPTED

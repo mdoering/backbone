@@ -1,5 +1,4 @@
-Methanosarcina acetivorans Sowers et al., 1986 SPECIES
-=======
+# Methanosarcina acetivorans Sowers et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

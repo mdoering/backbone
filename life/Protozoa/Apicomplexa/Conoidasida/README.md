@@ -1,5 +1,4 @@
-Conoidasida CLASS
-=======
+# Conoidasida CLASS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbospora fugax J.C. Schmidt & Kunze SPECIES
-=======
+# Stilbospora fugax J.C. Schmidt & Kunze SPECIES
 
 #### Status
 ACCEPTED

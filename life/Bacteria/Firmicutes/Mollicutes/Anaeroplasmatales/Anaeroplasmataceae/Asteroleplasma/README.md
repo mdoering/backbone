@@ -1,5 +1,4 @@
-Asteroleplasma Robinson & Freundt, 1987 GENUS
-=======
+# Asteroleplasma Robinson & Freundt, 1987 GENUS
 
 #### Status
 ACCEPTED

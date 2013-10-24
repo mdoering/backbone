@@ -1,5 +1,4 @@
-Stegonsporium juglandis Schwarzman SPECIES
-=======
+# Stegonsporium juglandis Schwarzman SPECIES
 
 #### Status
 ACCEPTED

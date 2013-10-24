@@ -1,5 +1,4 @@
-Tilletia milii-vernalis Liro SPECIES
-=======
+# Tilletia milii-vernalis Liro SPECIES
 
 #### Status
 ACCEPTED

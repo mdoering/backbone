@@ -1,5 +1,4 @@
-Marasmius nogalesii Singer SPECIES
-=======
+# Marasmius nogalesii Singer SPECIES
 
 #### Status
 ACCEPTED

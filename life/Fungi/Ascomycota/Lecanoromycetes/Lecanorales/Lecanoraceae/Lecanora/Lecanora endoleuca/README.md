@@ -1,5 +1,4 @@
-Lecanora endoleuca Hue SPECIES
-=======
+# Lecanora endoleuca Hue SPECIES
 
 #### Status
 ACCEPTED

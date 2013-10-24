@@ -1,5 +1,4 @@
-Septoria commelinae Canonaco SPECIES
-=======
+# Septoria commelinae Canonaco SPECIES
 
 #### Status
 ACCEPTED

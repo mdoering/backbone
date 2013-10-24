@@ -1,5 +1,4 @@
-Stanjehughesia floridensis G. Delgado SPECIES
-=======
+# Stanjehughesia floridensis G. Delgado SPECIES
 
 #### Status
 ACCEPTED

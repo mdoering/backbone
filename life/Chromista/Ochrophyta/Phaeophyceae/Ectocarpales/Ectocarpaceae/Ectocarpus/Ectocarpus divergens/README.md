@@ -1,5 +1,4 @@
-Ectocarpus divergens Kornmann SPECIES
-=======
+# Ectocarpus divergens Kornmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta gorakhpurensis Kamal, R.P. Singh & P. Kumar SPECIES
-=======
+# Ascochyta gorakhpurensis Kamal, R.P. Singh & P. Kumar SPECIES
 
 #### Status
 ACCEPTED

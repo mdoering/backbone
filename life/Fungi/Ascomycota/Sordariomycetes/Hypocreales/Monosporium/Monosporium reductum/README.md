@@ -1,5 +1,4 @@
-Monosporium reductum Bubák & Serebrian. SPECIES
-=======
+# Monosporium reductum Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

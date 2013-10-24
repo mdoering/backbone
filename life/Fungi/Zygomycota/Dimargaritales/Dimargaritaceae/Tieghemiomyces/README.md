@@ -1,5 +1,4 @@
-Tieghemiomyces R.K. Benj. GENUS
-=======
+# Tieghemiomyces R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

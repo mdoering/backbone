@@ -1,5 +1,4 @@
-Hydnum fulvocaeruleum Britzelm. SPECIES
-=======
+# Hydnum fulvocaeruleum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

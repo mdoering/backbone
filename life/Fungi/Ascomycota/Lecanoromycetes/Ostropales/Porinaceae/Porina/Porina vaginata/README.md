@@ -1,5 +1,4 @@
-Porina vaginata Fée SPECIES
-=======
+# Porina vaginata Fée SPECIES
 
 #### Status
 ACCEPTED

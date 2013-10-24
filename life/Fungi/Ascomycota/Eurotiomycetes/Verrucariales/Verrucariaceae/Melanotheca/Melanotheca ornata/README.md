@@ -1,5 +1,4 @@
-Melanotheca ornata Müll. Arg. SPECIES
-=======
+# Melanotheca ornata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

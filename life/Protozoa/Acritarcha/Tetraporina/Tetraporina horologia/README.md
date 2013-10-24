@@ -1,5 +1,4 @@
-Tetraporina horologia (Staplin, 1960) Playford, 1963 SPECIES
-=======
+# Tetraporina horologia (Staplin, 1960) Playford, 1963 SPECIES
 
 #### Status
 ACCEPTED

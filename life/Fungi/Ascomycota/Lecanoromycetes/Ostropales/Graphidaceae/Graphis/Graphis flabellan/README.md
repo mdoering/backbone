@@ -1,5 +1,4 @@
-Graphis flabellan Zahlbruckner SPECIES
-=======
+# Graphis flabellan Zahlbruckner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora plicata Eitner SPECIES
-=======
+# Lecanora plicata Eitner SPECIES
 
 #### Status
 ACCEPTED

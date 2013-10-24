@@ -1,5 +1,4 @@
-Phyllosticta guayaci Cif. & Gonz. Frag. SPECIES
-=======
+# Phyllosticta guayaci Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

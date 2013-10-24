@@ -1,5 +1,4 @@
-Amphoridium cinctum (Hepp) Flagey SPECIES
-=======
+# Amphoridium cinctum (Hepp) Flagey SPECIES
 
 #### Status
 ACCEPTED

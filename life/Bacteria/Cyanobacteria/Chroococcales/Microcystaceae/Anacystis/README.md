@@ -1,5 +1,4 @@
-Anacystis Meneghini, 1837 GENUS
-=======
+# Anacystis Meneghini, 1837 GENUS
 
 #### Status
 ACCEPTED

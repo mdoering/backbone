@@ -1,5 +1,4 @@
-Agaricus rimosus-major Fr. SPECIES
-=======
+# Agaricus rimosus-major Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diorygma tuberculosum (Stirt.) Kalb, Staiger & Elix SPECIES
-=======
+# Diorygma tuberculosum (Stirt.) Kalb, Staiger & Elix SPECIES
 
 #### Status
 ACCEPTED

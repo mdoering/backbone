@@ -1,5 +1,4 @@
-Dixomyces clivinae (Thaxt.) I.I. Tav. SPECIES
-=======
+# Dixomyces clivinae (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

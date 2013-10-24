@@ -1,5 +1,4 @@
-Lecanora surrecta Lynge SPECIES
-=======
+# Lecanora surrecta Lynge SPECIES
 
 #### Status
 ACCEPTED

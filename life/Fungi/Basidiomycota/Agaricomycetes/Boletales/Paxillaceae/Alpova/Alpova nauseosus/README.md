@@ -1,5 +1,4 @@
-Alpova nauseosus (Coker & Couch) Trappe SPECIES
-=======
+# Alpova nauseosus (Coker & Couch) Trappe SPECIES
 
 #### Status
 ACCEPTED

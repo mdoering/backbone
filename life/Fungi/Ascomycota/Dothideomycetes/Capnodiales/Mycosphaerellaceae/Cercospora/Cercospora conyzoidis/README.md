@@ -1,17 +1,16 @@
-Cercospora conyzoides Thirum. & Govindu SPECIES
-=======
+# Cercospora conyzoidis Thirum. & Govindu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 10: 260 (1957)
 
 #### Original name
-Cercospora conyzoides Thirum. & Govindu
+Cercospora conyzoidis Thirum. & Govindu
 
 ### Remarks
 null

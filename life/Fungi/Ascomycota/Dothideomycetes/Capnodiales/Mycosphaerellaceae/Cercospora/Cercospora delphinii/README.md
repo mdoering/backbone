@@ -1,5 +1,4 @@
-Cercospora delphinii Thüm. SPECIES
-=======
+# Cercospora delphinii Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora aragonensis Durrieu SPECIES
-=======
+# Cercospora aragonensis Durrieu SPECIES
 
 #### Status
 ACCEPTED

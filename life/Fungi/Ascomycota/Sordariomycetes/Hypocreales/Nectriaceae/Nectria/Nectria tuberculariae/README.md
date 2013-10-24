@@ -1,5 +1,4 @@
-Nectria tuberculariae Petch SPECIES
-=======
+# Nectria tuberculariae Petch SPECIES
 
 #### Status
 ACCEPTED

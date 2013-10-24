@@ -1,11 +1,10 @@
-Palaephalacroma unicinctum Schiller, 1928 SPECIES
-=======
+# Palaeophalacroma unicinctum Schiller, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

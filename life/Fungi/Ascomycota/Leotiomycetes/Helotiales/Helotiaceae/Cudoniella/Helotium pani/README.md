@@ -1,5 +1,4 @@
-Helotium pani var. rosarum Velen. VARIETY
-=======
+# Helotium pani Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monogr. Discom. Bohem. (Prague) 186 (1934)
 
 #### Original name
-Helotium pani var. rosarum Velen.
+Helotium pani Velen.
 
 ### Remarks
 null

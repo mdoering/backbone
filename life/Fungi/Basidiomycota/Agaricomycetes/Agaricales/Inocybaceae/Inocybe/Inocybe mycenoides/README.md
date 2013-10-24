@@ -1,5 +1,4 @@
-Inocybe mycenoides Kuyper SPECIES
-=======
+# Inocybe mycenoides Kuyper SPECIES
 
 #### Status
 ACCEPTED

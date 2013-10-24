@@ -1,5 +1,4 @@
-Marssonina obclavata D.F. Farr SPECIES
-=======
+# Marssonina obclavata D.F. Farr SPECIES
 
 #### Status
 ACCEPTED

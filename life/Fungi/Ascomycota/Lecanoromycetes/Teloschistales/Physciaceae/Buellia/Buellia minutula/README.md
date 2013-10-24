@@ -1,5 +1,4 @@
-Buellia minutula Nyl. SPECIES
-=======
+# Buellia minutula Nyl. SPECIES
 
 #### Status
 ACCEPTED

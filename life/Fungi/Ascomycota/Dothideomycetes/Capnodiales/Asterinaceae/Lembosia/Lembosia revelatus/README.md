@@ -1,5 +1,4 @@
-Lembosia revelatus Berk. SPECIES
-=======
+# Lembosia revelatus Berk. SPECIES
 
 #### Status
 ACCEPTED

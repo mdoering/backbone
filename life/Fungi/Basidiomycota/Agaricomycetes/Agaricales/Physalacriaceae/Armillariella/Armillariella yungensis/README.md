@@ -1,5 +1,4 @@
-Armillariella yungensis Singer SPECIES
-=======
+# Armillariella yungensis Singer SPECIES
 
 #### Status
 ACCEPTED

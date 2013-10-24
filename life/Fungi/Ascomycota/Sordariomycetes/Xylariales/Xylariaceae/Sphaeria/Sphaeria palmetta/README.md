@@ -1,5 +1,4 @@
-Sphaeria palmetta Cooke SPECIES
-=======
+# Sphaeria palmetta Cooke SPECIES
 
 #### Status
 ACCEPTED

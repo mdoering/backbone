@@ -1,17 +1,16 @@
-Hypoxylon chuesqueae Henn. SPECIES
-=======
+# Hypoxylon chusqueae Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 39: 138 (1900)
 
 #### Original name
-Hypoxylon chuesqueae Henn.
+Hypoxylon chusqueae Pat.
 
 ### Remarks
 null

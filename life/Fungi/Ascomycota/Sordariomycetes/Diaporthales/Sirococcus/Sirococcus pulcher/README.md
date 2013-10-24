@@ -1,5 +1,4 @@
-Sirococcus pulcher Sacc. SPECIES
-=======
+# Sirococcus pulcher Sacc. SPECIES
 
 #### Status
 ACCEPTED

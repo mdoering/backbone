@@ -1,17 +1,16 @@
-Fusidium cavaraeanum Jasevoli, 1924 SPECIES
-=======
+# Acremonium cavaraeanum (Jasevoli) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cephalosporium-artige Schimmelpilze (Stuttgart) 65 (1971)
 
 #### Original name
-null
+Fusidium cavaracanum Jasevoli
 
 ### Remarks
 null

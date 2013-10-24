@@ -1,5 +1,4 @@
-Neozythia handelii (Bubák) Petr. SPECIES
-=======
+# Neozythia handelii (Bubák) Petr. SPECIES
 
 #### Status
 ACCEPTED

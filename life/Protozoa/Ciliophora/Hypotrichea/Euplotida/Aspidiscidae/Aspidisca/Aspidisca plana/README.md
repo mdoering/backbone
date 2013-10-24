@@ -1,5 +1,4 @@
-Aspidisca plana SPECIES
-=======
+# Aspidisca plana SPECIES
 
 #### Status
 ACCEPTED

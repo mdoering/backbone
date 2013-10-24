@@ -1,5 +1,4 @@
-Mycosphaerella heveana (Sacc.) M. Morelet SPECIES
-=======
+# Mycosphaerella heveana (Sacc.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

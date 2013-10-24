@@ -1,5 +1,4 @@
-Rinodina ficta (Stizenb.) Zahlbr. SPECIES
-=======
+# Rinodina ficta (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

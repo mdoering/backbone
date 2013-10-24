@@ -1,5 +1,4 @@
-Helotium simile Sacc. & Roum. SPECIES
-=======
+# Helotium simile Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

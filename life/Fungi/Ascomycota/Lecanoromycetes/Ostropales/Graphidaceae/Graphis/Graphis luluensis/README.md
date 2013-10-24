@@ -1,5 +1,4 @@
-Graphis luluensis A.W. Archer SPECIES
-=======
+# Graphis luluensis A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

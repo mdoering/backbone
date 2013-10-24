@@ -1,5 +1,4 @@
-Geminospira Makiyama & Nakagawa, 1941 GENUS
-=======
+# Geminospira Makiyama & Nakagawa, 1941 GENUS
 
 #### Status
 ACCEPTED

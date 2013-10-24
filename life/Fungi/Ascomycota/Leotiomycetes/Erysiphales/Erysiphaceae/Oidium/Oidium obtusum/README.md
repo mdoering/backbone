@@ -1,5 +1,4 @@
-Oidium obtusum Thüm. SPECIES
-=======
+# Oidium obtusum Thüm. SPECIES
 
 #### Status
 ACCEPTED

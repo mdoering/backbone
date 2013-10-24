@@ -1,5 +1,4 @@
-Symplassosphaeridium cambriense Slavíková, 1968 ex Fensome et al., 1990 SPECIES
-=======
+# Symplassosphaeridium cambriense Slavíková, 1968 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

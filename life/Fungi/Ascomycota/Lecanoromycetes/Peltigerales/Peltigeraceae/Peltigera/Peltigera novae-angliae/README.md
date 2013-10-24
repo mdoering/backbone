@@ -1,5 +1,4 @@
-Peltigera novae-angliae Gyeln. SPECIES
-=======
+# Peltigera novae-angliae Gyeln. SPECIES
 
 #### Status
 ACCEPTED

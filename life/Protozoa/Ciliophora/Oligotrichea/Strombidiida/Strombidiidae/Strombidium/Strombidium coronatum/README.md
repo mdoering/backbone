@@ -1,5 +1,4 @@
-Strombidium coronatum (Leegaard, 1915) Kahl, 1932 SPECIES
-=======
+# Strombidium coronatum (Leegaard, 1915) Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

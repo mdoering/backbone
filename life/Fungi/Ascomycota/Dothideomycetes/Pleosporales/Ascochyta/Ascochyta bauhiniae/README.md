@@ -1,5 +1,4 @@
-Ascochyta bauhiniae M.S. Ali, Saikia & N. Ahmed SPECIES
-=======
+# Ascochyta bauhiniae M.S. Ali, Saikia & N. Ahmed SPECIES
 
 #### Status
 ACCEPTED

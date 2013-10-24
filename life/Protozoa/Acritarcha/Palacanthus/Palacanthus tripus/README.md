@@ -1,5 +1,4 @@
-Palacanthus tripus Martin, 1984 SPECIES
-=======
+# Palacanthus tripus Martin, 1984 SPECIES
 
 #### Status
 ACCEPTED

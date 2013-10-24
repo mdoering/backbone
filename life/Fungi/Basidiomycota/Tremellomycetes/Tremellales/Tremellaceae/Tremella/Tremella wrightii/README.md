@@ -1,5 +1,4 @@
-Tremella wrightii Berk. & M.A. Curtis SPECIES
-=======
+# Tremella wrightii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

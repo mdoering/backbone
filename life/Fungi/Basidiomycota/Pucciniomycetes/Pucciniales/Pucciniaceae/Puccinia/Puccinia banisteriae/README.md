@@ -1,5 +1,4 @@
-Puccinia banisteriae Henn. SPECIES
-=======
+# Puccinia banisteriae Henn. SPECIES
 
 #### Status
 ACCEPTED

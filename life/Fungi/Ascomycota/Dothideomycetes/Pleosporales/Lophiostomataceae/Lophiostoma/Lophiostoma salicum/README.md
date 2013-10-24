@@ -1,5 +1,4 @@
-Lophiostoma salicum (Fabre) Sacc. SPECIES
-=======
+# Lophiostoma salicum (Fabre) Sacc. SPECIES
 
 #### Status
 ACCEPTED

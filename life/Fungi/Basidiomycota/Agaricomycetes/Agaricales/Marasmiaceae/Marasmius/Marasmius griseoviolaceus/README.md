@@ -1,5 +1,4 @@
-Marasmius griseoviolaceus Petch SPECIES
-=======
+# Marasmius griseoviolaceus Petch SPECIES
 
 #### Status
 ACCEPTED

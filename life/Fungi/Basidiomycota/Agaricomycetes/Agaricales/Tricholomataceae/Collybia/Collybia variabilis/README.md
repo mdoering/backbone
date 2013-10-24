@@ -1,5 +1,4 @@
-Collybia variabilis (Raithelh.) Raithelh. SPECIES
-=======
+# Collybia variabilis (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

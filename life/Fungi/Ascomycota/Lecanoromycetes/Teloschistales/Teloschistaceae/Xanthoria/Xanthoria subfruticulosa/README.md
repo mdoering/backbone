@@ -1,5 +1,4 @@
-Xanthoria subfruticulosa var. subfruticulosa VARIETY
-=======
+# Xanthoria subfruticulosa (Elenkin) Piin {?} SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xanthoria subfruticulosa var. subfruticulosa
+Placodium subfruticulosum Elenkin
 
 ### Remarks
 null

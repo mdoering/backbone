@@ -1,5 +1,4 @@
-Pleurotus lenticula (Kalchbr.) Sacc. SPECIES
-=======
+# Pleurotus lenticula (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

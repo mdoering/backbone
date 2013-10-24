@@ -1,5 +1,4 @@
-Ombrophila decolorans (Berk. & M.A. Curtis) Sacc., 1889 SPECIES
-=======
+# Ombrophila decolorans (Berk. & M.A. Curtis) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

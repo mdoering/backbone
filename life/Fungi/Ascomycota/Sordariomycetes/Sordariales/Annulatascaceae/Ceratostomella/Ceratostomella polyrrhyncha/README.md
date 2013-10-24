@@ -1,5 +1,4 @@
-Ceratostomella polyrrhyncha Penz. & Sacc. SPECIES
-=======
+# Ceratostomella polyrrhyncha Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

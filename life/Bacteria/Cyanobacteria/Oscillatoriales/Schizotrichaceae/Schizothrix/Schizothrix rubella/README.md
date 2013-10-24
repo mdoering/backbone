@@ -1,5 +1,4 @@
-Schizothrix rubella Gomont SPECIES
-=======
+# Schizothrix rubella Gomont SPECIES
 
 #### Status
 ACCEPTED

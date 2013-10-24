@@ -1,5 +1,4 @@
-Microthecium ramosii Syd. & P. Syd. SPECIES
-=======
+# Microthecium ramosii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena bresadolana Robich & Neville SPECIES
-=======
+# Mycena bresadolana Robich & Neville SPECIES
 
 #### Status
 ACCEPTED

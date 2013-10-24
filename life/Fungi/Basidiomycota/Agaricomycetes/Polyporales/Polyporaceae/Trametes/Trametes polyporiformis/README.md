@@ -1,5 +1,4 @@
-Trametes polyporiformis Corner SPECIES
-=======
+# Trametes polyporiformis Corner SPECIES
 
 #### Status
 ACCEPTED

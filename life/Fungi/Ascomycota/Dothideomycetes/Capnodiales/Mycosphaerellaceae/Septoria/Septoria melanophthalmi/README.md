@@ -1,5 +1,4 @@
-Septoria melanophthalmi Berk. & M.A. Curtis SPECIES
-=======
+# Septoria melanophthalmi Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sowerbyella parvispora (Trigaux) J. Moravec, 1986 SPECIES
-=======
+# Sowerbyella parvispora (Trigaux) J. Moravec, 1986 SPECIES
 
 #### Status
 ACCEPTED

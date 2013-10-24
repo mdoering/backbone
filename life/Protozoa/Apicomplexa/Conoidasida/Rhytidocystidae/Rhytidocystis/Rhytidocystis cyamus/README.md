@@ -1,5 +1,4 @@
-Rhytidocystis cyamus Rueckert & Leander, 2009 SPECIES
-=======
+# Rhytidocystis cyamus Rueckert & Leander, 2009 SPECIES
 
 #### Status
 ACCEPTED

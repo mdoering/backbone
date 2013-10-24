@@ -1,5 +1,4 @@
-Phaeographis amazonica Staiger SPECIES
-=======
+# Phaeographis amazonica Staiger SPECIES
 
 #### Status
 ACCEPTED

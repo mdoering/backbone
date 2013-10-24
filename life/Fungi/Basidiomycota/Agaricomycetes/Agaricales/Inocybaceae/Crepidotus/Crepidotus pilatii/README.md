@@ -1,5 +1,4 @@
-Crepidotus pilatii Velen. SPECIES
-=======
+# Crepidotus pilatii Velen. SPECIES
 
 #### Status
 ACCEPTED

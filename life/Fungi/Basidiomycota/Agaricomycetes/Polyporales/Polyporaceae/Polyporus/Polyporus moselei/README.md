@@ -1,5 +1,4 @@
-Polyporus moselei Berk. SPECIES
-=======
+# Polyporus moselei Berk. SPECIES
 
 #### Status
 ACCEPTED

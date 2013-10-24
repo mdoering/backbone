@@ -1,5 +1,4 @@
-Albigo niesslii (Thüm.) Kuntze SPECIES
-=======
+# Albigo niesslii (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta serebrianikowii Bubák SPECIES
-=======
+# Phyllosticta serebrianikowii Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lituola nautiloidea Lamarck, 1804 SPECIES
-=======
+# Lituola nautiloidea Lamarck, 1804 SPECIES
 
 #### Status
 ACCEPTED

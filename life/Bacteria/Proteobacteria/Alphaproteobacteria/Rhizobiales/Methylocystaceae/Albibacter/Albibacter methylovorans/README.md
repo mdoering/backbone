@@ -1,5 +1,4 @@
-Albibacter methylovorans Doronina et al., 2001 SPECIES
-=======
+# Albibacter methylovorans Doronina et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

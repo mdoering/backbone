@@ -1,14 +1,13 @@
-Cristella byssinella (Bourdot) Donk, 1957 SPECIES
-=======
+# Trechispora byssinella (Bourdot) Liberta, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus, Wageningen 27: 19 (1957)
+Taxon 15(8): 318 (1966)
 
 #### Original name
 null

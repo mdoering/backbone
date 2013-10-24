@@ -1,5 +1,4 @@
-Uredo coloni Reichert SPECIES
-=======
+# Uredo coloni Reichert SPECIES
 
 #### Status
 ACCEPTED

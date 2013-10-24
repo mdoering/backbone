@@ -1,5 +1,4 @@
-Meliolina samoensis S. Hughes SPECIES
-=======
+# Meliolina samoensis S. Hughes SPECIES
 
 #### Status
 ACCEPTED

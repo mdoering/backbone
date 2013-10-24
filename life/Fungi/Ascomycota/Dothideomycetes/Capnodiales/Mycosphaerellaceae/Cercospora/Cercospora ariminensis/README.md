@@ -1,5 +1,4 @@
-Cercospora ariminensis Cavara, 1899 SPECIES
-=======
+# Cercospora ariminensis Cavara, 1899 SPECIES
 
 #### Status
 ACCEPTED

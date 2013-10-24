@@ -1,5 +1,4 @@
-Geopyxis bronca (Peck) Seaver SPECIES
-=======
+# Geopyxis bronca (Peck) Seaver SPECIES
 
 #### Status
 ACCEPTED

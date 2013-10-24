@@ -1,5 +1,4 @@
-Aplosporella cryptostegiae (Chona & Munjal) S. Ahmad SPECIES
-=======
+# Aplosporella cryptostegiae (Chona & Munjal) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

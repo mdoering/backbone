@@ -1,5 +1,4 @@
-Dothidites myricicola (Ettingsh.) Mesch. SPECIES
-=======
+# Dothidites myricicola (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

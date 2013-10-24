@@ -1,5 +1,4 @@
-Fuligo luteonitens L.G. Krieglst. & Nowotny, 1995 SPECIES
-=======
+# Fuligo luteonitens L.G. Krieglst. & Nowotny, 1995 SPECIES
 
 #### Status
 ACCEPTED

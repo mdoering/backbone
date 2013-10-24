@@ -1,5 +1,4 @@
-Xerocomus pseudostrobilomyces (W.F. Chiu) F.L. Tai SPECIES
-=======
+# Xerocomus pseudostrobilomyces (W.F. Chiu) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

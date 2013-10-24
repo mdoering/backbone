@@ -1,5 +1,4 @@
-Inocybe unicolor Peck SPECIES
-=======
+# Inocybe unicolor Peck SPECIES
 
 #### Status
 ACCEPTED

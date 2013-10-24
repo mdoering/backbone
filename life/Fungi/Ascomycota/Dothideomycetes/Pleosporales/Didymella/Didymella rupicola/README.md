@@ -1,5 +1,4 @@
-Didymella rupicola Petr. SPECIES
-=======
+# Didymella rupicola Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces densus Arthur SPECIES
-=======
+# Uromyces densus Arthur SPECIES
 
 #### Status
 ACCEPTED

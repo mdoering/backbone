@@ -1,5 +1,4 @@
-Lactarius subserifluus Longyear SPECIES
-=======
+# Lactarius subserifluus Longyear SPECIES
 
 #### Status
 ACCEPTED

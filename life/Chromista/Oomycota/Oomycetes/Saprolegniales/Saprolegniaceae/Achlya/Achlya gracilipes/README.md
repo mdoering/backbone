@@ -1,5 +1,4 @@
-Achlya gracilipes de Bary SPECIES
-=======
+# Achlya gracilipes de Bary SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium acidilosi SPECIES
-=======
+# Clostridium acidilosi SPECIES
 
 #### Status
 ACCEPTED

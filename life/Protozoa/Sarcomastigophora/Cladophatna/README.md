@@ -1,5 +1,4 @@
-Cladophatna Haeckel, 1881 GENUS
-=======
+# Cladophatna Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

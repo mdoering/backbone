@@ -1,17 +1,16 @@
-Melanomma distincta Lar.N. Vassiljeva SPECIES
-=======
+# Melanomma distinctum Lar.N. Vassiljeva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pirenomits. Lokuloaskomits. Severa Dal'nego Vostoka (Leningrad) 147 (1987)
 
 #### Original name
-Melanomma distincta Lar.N. Vassiljeva
+Melanomma distinctum Lar.N. Vassiljeva
 
 ### Remarks
 null

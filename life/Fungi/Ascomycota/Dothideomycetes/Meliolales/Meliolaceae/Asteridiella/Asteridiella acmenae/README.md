@@ -1,5 +1,4 @@
-Asteridiella acmenae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella acmenae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

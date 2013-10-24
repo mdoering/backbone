@@ -1,5 +1,4 @@
-Trichosporum fici Pass. & Beltr. SPECIES
-=======
+# Trichosporum fici Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

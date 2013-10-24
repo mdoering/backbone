@@ -1,5 +1,4 @@
-Dinemasporium adeana Petr. SPECIES
-=======
+# Dinemasporium adeana Petr. SPECIES
 
 #### Status
 ACCEPTED

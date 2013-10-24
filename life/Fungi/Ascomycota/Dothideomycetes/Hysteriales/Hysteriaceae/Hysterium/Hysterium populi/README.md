@@ -1,5 +1,4 @@
-Hysterium populi Schumach. SPECIES
-=======
+# Hysterium populi Schumach. SPECIES
 
 #### Status
 ACCEPTED

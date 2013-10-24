@@ -1,5 +1,4 @@
-Aplosporella rhoina Dearn. & Barthol. SPECIES
-=======
+# Aplosporella rhoina Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

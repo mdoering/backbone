@@ -1,5 +1,4 @@
-Henningsomyces pulchellus Sacc., 1905 SPECIES
-=======
+# Henningsomyces pulchellus Sacc., 1905 SPECIES
 
 #### Status
 ACCEPTED

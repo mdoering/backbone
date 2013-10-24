@@ -1,5 +1,4 @@
-Cercospora ficariae Bukhalo SPECIES
-=======
+# Cercospora ficariae Bukhalo SPECIES
 
 #### Status
 ACCEPTED

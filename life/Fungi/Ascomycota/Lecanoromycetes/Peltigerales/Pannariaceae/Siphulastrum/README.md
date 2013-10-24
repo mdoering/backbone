@@ -1,5 +1,4 @@
-Siphulastrum Müll. Arg. GENUS
-=======
+# Siphulastrum Müll. Arg. GENUS
 
 #### Status
 ACCEPTED

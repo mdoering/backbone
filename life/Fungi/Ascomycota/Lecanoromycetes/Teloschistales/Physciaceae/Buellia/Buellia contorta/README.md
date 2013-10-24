@@ -1,5 +1,4 @@
-Buellia contorta (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Buellia contorta (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

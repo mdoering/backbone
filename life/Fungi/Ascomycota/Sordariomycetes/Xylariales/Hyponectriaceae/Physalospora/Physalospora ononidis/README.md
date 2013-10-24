@@ -1,5 +1,4 @@
-Physalospora ononidis Richon SPECIES
-=======
+# Physalospora ononidis Richon SPECIES
 
 #### Status
 ACCEPTED

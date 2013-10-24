@@ -1,5 +1,4 @@
-Ectocarpus gonodioides Setchell & N.L. Gardner SPECIES
-=======
+# Ectocarpus gonodioides Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

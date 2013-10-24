@@ -1,5 +1,4 @@
-Gnomoniella borealis Kirschst. SPECIES
-=======
+# Gnomoniella borealis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

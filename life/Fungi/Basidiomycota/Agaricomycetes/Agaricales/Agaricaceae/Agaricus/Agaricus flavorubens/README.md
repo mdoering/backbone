@@ -1,5 +1,4 @@
-Agaricus flavorubens Berk. & Mont. SPECIES
-=======
+# Agaricus flavorubens Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

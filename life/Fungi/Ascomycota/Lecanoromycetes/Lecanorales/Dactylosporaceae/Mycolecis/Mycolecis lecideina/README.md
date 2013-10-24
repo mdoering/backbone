@@ -1,5 +1,4 @@
-Mycolecis lecideina (Rehm) Clem. SPECIES
-=======
+# Mycolecis lecideina (Rehm) Clem. SPECIES
 
 #### Status
 ACCEPTED

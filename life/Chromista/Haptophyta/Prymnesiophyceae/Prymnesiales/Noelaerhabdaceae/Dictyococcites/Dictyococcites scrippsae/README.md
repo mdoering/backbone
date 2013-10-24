@@ -1,5 +1,4 @@
-Dictyococcites scrippsae Bukry & Percival, 1971 SPECIES
-=======
+# Dictyococcites scrippsae Bukry & Percival, 1971 SPECIES
 
 #### Status
 ACCEPTED

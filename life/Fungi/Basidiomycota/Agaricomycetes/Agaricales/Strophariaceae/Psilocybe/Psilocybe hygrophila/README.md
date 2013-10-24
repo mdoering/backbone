@@ -1,5 +1,4 @@
-Psilocybe hygrophila Fr. SPECIES
-=======
+# Psilocybe hygrophila Fr. SPECIES
 
 #### Status
 ACCEPTED

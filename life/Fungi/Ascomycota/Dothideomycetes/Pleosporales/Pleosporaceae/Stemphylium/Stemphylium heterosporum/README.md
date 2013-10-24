@@ -1,5 +1,4 @@
-Stemphylium heterosporum D. Sacc. SPECIES
-=======
+# Stemphylium heterosporum D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

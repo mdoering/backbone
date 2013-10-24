@@ -1,5 +1,4 @@
-Patulibacteraceae FAMILY
-=======
+# Patulibacteraceae FAMILY
 
 #### Status
 ACCEPTED

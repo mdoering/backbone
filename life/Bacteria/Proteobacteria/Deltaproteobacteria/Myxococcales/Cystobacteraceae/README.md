@@ -1,5 +1,4 @@
-Cystobacteraceae FAMILY
-=======
+# Cystobacteraceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrites Poinar GENUS
-=======
+# Leptothyrites Poinar GENUS
 
 #### Status
 ACCEPTED

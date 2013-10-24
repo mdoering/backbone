@@ -1,5 +1,4 @@
-Sphaeronaemella carnea Ellis & Everh. SPECIES
-=======
+# Sphaeronaemella carnea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

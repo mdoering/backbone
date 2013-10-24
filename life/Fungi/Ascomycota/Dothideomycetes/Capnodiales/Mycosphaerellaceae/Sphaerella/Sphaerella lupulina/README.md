@@ -1,5 +1,4 @@
-Sphaerella lupulina Kirschst. SPECIES
-=======
+# Sphaerella lupulina Kirschst. SPECIES
 
 #### Status
 ACCEPTED

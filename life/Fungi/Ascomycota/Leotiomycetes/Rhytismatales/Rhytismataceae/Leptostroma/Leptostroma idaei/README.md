@@ -1,5 +1,4 @@
-Leptostroma idaei Ferraris SPECIES
-=======
+# Leptostroma idaei Ferraris SPECIES
 
 #### Status
 ACCEPTED

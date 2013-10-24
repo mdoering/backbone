@@ -1,5 +1,4 @@
-Melosira kochii Pantocsek SPECIES
-=======
+# Melosira kochii Pantocsek SPECIES
 
 #### Status
 ACCEPTED

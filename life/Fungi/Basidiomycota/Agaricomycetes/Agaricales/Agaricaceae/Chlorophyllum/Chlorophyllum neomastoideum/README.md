@@ -1,5 +1,4 @@
-Chlorophyllum neomastoideum (Hongo) Vellinga, 2002 SPECIES
-=======
+# Chlorophyllum neomastoideum (Hongo) Vellinga, 2002 SPECIES
 
 #### Status
 ACCEPTED

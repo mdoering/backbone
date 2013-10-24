@@ -1,5 +1,4 @@
-Parmelia pennsylvanica (Hoffm.) Spreng. SPECIES
-=======
+# Parmelia pennsylvanica (Hoffm.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

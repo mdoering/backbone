@@ -1,5 +1,4 @@
-Desulfurobacterium crinifex Alain, Rolland, Crassous, Lesongeur, Zbinden, Le Gall, Godfroy, Page, Juniper, Cambon-Bonavita, Duchiron & Querellou, 2003 SPECIES
-=======
+# Desulfurobacterium crinifex Alain, Rolland, Crassous, Lesongeur, Zbinden, Le Gall, Godfroy, Page, Juniper, Cambon-Bonavita, Duchiron & Querellou, 2003 SPECIES
 
 #### Status
 ACCEPTED

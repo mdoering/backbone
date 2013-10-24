@@ -1,5 +1,4 @@
-Corticium fagineum Velen. SPECIES
-=======
+# Corticium fagineum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon evadens A.H. Sm. SPECIES
-=======
+# Rhizopogon evadens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

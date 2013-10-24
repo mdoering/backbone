@@ -1,5 +1,4 @@
-Cheiromycella annulata Matsush. SPECIES
-=======
+# Cheiromycella annulata Matsush. SPECIES
 
 #### Status
 ACCEPTED

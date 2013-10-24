@@ -1,5 +1,4 @@
-Xylomites annularis Göpp. SPECIES
-=======
+# Xylomites annularis Göpp. SPECIES
 
 #### Status
 ACCEPTED

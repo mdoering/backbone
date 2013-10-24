@@ -1,5 +1,4 @@
-Sphaerella alyxiae Cooke & Mart. SPECIES
-=======
+# Sphaerella alyxiae Cooke & Mart. SPECIES
 
 #### Status
 ACCEPTED

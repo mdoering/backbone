@@ -1,5 +1,4 @@
-Rinodina bontokensis Herre SPECIES
-=======
+# Rinodina bontokensis Herre SPECIES
 
 #### Status
 ACCEPTED

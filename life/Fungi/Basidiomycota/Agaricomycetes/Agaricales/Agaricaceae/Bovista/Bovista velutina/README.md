@@ -1,5 +1,4 @@
-Bovista velutina Berk. & Broome SPECIES
-=======
+# Bovista velutina Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

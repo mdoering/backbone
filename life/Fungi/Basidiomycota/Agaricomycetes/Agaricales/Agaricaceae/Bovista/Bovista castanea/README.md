@@ -1,5 +1,4 @@
-Bovista castanea Lév. SPECIES
-=======
+# Bovista castanea Lév. SPECIES
 
 #### Status
 ACCEPTED

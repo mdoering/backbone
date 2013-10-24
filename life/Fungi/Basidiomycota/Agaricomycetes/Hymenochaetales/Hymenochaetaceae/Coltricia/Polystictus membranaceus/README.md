@@ -1,14 +1,13 @@
-Polystictus membranacea (Sw.) Berk. SPECIES
-=======
+# Polystictus membranaceus (Sw.) Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 1 10: 378, tab. 10, fig. 7 (1843)
 
 #### Original name
 Boletus membranaceus Ehrenb.

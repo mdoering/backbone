@@ -1,5 +1,4 @@
-Rhizopodomyces basifurcatus R.K. Benj. SPECIES
-=======
+# Rhizopodomyces basifurcatus R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

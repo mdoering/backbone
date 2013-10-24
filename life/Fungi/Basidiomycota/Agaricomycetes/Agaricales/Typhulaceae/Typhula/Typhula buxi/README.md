@@ -1,5 +1,4 @@
-Typhula buxi Maire, 1933 SPECIES
-=======
+# Typhula buxi Maire, 1933 SPECIES
 
 #### Status
 ACCEPTED

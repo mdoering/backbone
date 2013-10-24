@@ -1,5 +1,4 @@
-Sphaeria lanceolata Kalchbr. & Cooke SPECIES
-=======
+# Sphaeria lanceolata Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

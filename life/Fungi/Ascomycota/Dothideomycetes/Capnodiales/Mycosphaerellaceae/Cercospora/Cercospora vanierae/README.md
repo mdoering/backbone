@@ -1,5 +1,4 @@
-Cercospora vanierae Chupp & Linder SPECIES
-=======
+# Cercospora vanierae Chupp & Linder SPECIES
 
 #### Status
 ACCEPTED

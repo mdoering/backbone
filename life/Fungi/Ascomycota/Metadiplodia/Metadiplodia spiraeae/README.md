@@ -1,5 +1,4 @@
-Metadiplodia spiraeae f. spiraeae (Sacc.) Zambett. FORM
-=======
+# Metadiplodia spiraeae (Sacc.) Zambett. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 70(3): 285 (1955)
 
 #### Original name
-Metadiplodia spiraeae f. spiraeae (Sacc.) Zambett.
+Diplodia spiraeina Sacc.
 
 ### Remarks
 null

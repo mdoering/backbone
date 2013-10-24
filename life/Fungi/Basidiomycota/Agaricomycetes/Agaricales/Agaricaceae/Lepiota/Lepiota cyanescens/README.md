@@ -1,5 +1,4 @@
-Lepiota cyanescens Beeli SPECIES
-=======
+# Lepiota cyanescens Beeli SPECIES
 
 #### Status
 ACCEPTED

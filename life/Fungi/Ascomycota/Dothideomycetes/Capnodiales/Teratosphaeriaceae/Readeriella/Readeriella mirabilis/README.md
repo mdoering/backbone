@@ -1,5 +1,4 @@
-Readeriella mirabilis Syd. & P. Syd., 1908 SPECIES
-=======
+# Readeriella mirabilis Syd. & P. Syd., 1908 SPECIES
 
 #### Status
 ACCEPTED

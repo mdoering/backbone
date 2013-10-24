@@ -1,5 +1,4 @@
-Discozonium Haeckel, 1887 GENUS
-=======
+# Discozonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodermia subneglecta Elix SPECIES
-=======
+# Heterodermia subneglecta Elix SPECIES
 
 #### Status
 ACCEPTED

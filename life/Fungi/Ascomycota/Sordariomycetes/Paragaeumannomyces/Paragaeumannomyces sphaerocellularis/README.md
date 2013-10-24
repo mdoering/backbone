@@ -1,5 +1,4 @@
-Paragaeumannomyces sphaerocellularis Matsush., 2003 SPECIES
-=======
+# Paragaeumannomyces sphaerocellularis Matsush., 2003 SPECIES
 
 #### Status
 ACCEPTED

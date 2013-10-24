@@ -1,5 +1,4 @@
-Stilbellula Boedijn GENUS
-=======
+# Stilbellula Boedijn GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo horopito G. Cunn., 1945 SPECIES
-=======
+# Uredo horopito G. Cunn., 1945 SPECIES
 
 #### Status
 ACCEPTED

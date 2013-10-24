@@ -1,5 +1,4 @@
-Ravenelia igualica Arthur SPECIES
-=======
+# Ravenelia igualica Arthur SPECIES
 
 #### Status
 ACCEPTED

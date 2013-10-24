@@ -1,5 +1,4 @@
-Clitocybe cystidiosa Singer SPECIES
-=======
+# Clitocybe cystidiosa Singer SPECIES
 
 #### Status
 ACCEPTED

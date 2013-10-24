@@ -1,5 +1,4 @@
-Lenticulina strongi SPECIES
-=======
+# Lenticulina strongi SPECIES
 
 #### Status
 ACCEPTED

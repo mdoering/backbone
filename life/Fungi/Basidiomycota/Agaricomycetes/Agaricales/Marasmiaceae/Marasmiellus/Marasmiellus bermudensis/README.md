@@ -1,5 +1,4 @@
-Marasmiellus bermudensis (Berk.) Singer SPECIES
-=======
+# Marasmiellus bermudensis (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

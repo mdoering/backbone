@@ -1,5 +1,4 @@
-Maculatasporites zairensis Kar & Bose, 1976 SPECIES
-=======
+# Maculatasporites zairensis Kar & Bose, 1976 SPECIES
 
 #### Status
 ACCEPTED

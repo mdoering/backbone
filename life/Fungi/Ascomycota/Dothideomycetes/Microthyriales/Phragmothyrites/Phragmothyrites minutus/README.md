@@ -1,5 +1,4 @@
-Phragmothyrites minutus (Cookson) Selkirk SPECIES
-=======
+# Phragmothyrites minutus (Cookson) Selkirk SPECIES
 
 #### Status
 ACCEPTED

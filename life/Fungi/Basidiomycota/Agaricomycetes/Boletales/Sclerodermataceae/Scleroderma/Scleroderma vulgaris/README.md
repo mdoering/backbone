@@ -1,5 +1,4 @@
-Scleroderma vulgaris Fr. SPECIES
-=======
+# Scleroderma vulgaris Fr. SPECIES
 
 #### Status
 ACCEPTED

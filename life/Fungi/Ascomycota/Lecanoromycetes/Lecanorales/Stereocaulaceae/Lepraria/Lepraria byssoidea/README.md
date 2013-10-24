@@ -1,5 +1,4 @@
-Lepraria byssoidea (Flörke) Ach. SPECIES
-=======
+# Lepraria byssoidea (Flörke) Ach. SPECIES
 
 #### Status
 ACCEPTED

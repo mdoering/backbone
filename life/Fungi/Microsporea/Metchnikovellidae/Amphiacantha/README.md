@@ -1,5 +1,4 @@
-Amphiacantha Caullery & Mesnil, 1914 GENUS
-=======
+# Amphiacantha Caullery & Mesnil, 1914 GENUS
 
 #### Status
 ACCEPTED

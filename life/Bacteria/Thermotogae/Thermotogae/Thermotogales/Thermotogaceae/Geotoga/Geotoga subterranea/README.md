@@ -1,5 +1,4 @@
-Geotoga subterranea Davey et al., 1993 SPECIES
-=======
+# Geotoga subterranea Davey et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

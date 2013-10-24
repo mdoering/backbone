@@ -1,5 +1,4 @@
-Uredo strychni Henn. SPECIES
-=======
+# Uredo strychni Henn. SPECIES
 
 #### Status
 ACCEPTED

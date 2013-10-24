@@ -1,5 +1,4 @@
-Hyalopus ochraceus (Corda) Corda SPECIES
-=======
+# Hyalopus ochraceus (Corda) Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetothyrium sinense Teng SPECIES
-=======
+# Chaetothyrium sinense Teng SPECIES
 
 #### Status
 ACCEPTED

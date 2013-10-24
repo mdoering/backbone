@@ -1,5 +1,4 @@
-Partisania GENUS
-=======
+# Partisania GENUS
 
 #### Status
 ACCEPTED

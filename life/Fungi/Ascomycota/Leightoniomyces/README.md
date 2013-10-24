@@ -1,5 +1,4 @@
-Leightoniomyces D. Hawksw. & B. Sutton GENUS
-=======
+# Leightoniomyces D. Hawksw. & B. Sutton GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpon scottianum (Jatta) Zahlbr. SPECIES
-=======
+# Endocarpon scottianum (Jatta) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarrameana Vezda & P. James GENUS
-=======
+# Sarrameana Vezda & P. James GENUS
 
 #### Status
 ACCEPTED

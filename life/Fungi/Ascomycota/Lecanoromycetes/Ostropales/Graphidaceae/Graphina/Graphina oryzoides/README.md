@@ -1,5 +1,4 @@
-Graphina oryzoides (Leight.) Zahlbr. SPECIES
-=======
+# Graphina oryzoides (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia pallidibrunnea (Murrill) Largent SPECIES
-=======
+# Leptonia pallidibrunnea (Murrill) Largent SPECIES
 
 #### Status
 ACCEPTED

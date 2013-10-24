@@ -1,5 +1,4 @@
-Phomopsis digitalis D. Hawksw. & Punith., 1973 SPECIES
-=======
+# Phomopsis digitalis D. Hawksw. & Punith., 1973 SPECIES
 
 #### Status
 ACCEPTED

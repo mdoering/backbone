@@ -1,17 +1,16 @@
-Asterina evodiae Hansf. SPECIES
-=======
+# Asterina euodiae Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Reinwardtia 3: 132 (1954)
 
 #### Original name
-Asterina evodiae Hansf.
+Asterina euodiae Hansf.
 
 ### Remarks
 null

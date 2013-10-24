@@ -1,5 +1,4 @@
-Fomes imphalodes Berk. SPECIES
-=======
+# Fomes imphalodes Berk. SPECIES
 
 #### Status
 ACCEPTED

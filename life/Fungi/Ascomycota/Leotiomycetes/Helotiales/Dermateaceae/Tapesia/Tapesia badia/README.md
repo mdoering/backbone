@@ -1,5 +1,4 @@
-Tapesia badia Vacek SPECIES
-=======
+# Tapesia badia Vacek SPECIES
 
 #### Status
 ACCEPTED

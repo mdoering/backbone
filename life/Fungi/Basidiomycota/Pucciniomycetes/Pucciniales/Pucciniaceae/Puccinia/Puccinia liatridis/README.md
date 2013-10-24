@@ -1,5 +1,4 @@
-Puccinia liatridis Bethel ex Arthur, 1934 SPECIES
-=======
+# Puccinia liatridis Bethel ex Arthur, 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanococcoides Sowers & Ferry, 1985 GENUS
-=======
+# Methanococcoides Sowers & Ferry, 1985 GENUS
 
 #### Status
 ACCEPTED

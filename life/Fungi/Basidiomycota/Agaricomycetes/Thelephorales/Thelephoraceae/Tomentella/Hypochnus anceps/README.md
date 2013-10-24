@@ -1,5 +1,4 @@
-Hypochnus anceps Rick SPECIES
-=======
+# Hypochnus anceps Rick SPECIES
 
 #### Status
 ACCEPTED

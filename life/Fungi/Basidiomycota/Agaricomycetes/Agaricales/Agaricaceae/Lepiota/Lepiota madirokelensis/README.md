@@ -1,5 +1,4 @@
-Lepiota madirokelensis Bouriquet SPECIES
-=======
+# Lepiota madirokelensis Bouriquet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micromonospora chersina Tomita et al., 1992 SPECIES
-=======
+# Micromonospora chersina Tomita et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

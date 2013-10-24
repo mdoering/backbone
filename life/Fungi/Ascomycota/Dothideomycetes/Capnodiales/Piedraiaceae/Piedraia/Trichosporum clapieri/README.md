@@ -1,5 +1,4 @@
-Trichosporum clapieri (Catanei) C.W. Dodge SPECIES
-=======
+# Trichosporum clapieri (Catanei) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

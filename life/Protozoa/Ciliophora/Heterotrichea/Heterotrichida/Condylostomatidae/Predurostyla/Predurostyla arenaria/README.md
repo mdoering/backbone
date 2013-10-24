@@ -1,8 +1,7 @@
-Predurostyla arenarium (Spiegel, 1926) Jankowski, 1978 SPECIES
-=======
+# Predurostyla arenaria (Spiegel, 1926) Jankowski, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

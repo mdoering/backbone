@@ -1,5 +1,4 @@
-Rhizomorpha corrugata Ach. SPECIES
-=======
+# Rhizomorpha corrugata Ach. SPECIES
 
 #### Status
 ACCEPTED

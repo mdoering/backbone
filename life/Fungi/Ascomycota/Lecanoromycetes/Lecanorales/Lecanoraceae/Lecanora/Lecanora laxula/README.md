@@ -1,5 +1,4 @@
-Lecanora laxula H. Magn. SPECIES
-=======
+# Lecanora laxula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

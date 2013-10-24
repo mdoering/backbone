@@ -1,14 +1,13 @@
-Dothidea acervulata Schwein. ex Fr., 1828 SPECIES
-=======
+# Phyllachora acervulata (Schwein. ex Fr.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Fries, Elench. fung. (Greifswald) 2: 124 (1828)
+Syll. fung. (Abellini) 2: 609 (1883)
 
 #### Original name
 Dothidea acervulata Schwein. ex Fr., 1828

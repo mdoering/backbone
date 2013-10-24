@@ -1,5 +1,4 @@
-Septoria varians Joffrin {?} SPECIES
-=======
+# Septoria varians Joffrin {?} SPECIES
 
 #### Status
 ACCEPTED

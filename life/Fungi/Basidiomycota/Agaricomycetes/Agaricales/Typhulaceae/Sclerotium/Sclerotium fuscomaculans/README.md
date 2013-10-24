@@ -1,5 +1,4 @@
-Sclerotium fuscomaculans Schwein. SPECIES
-=======
+# Sclerotium fuscomaculans Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glomus verruculosum Blaszk., 1997 SPECIES
-=======
+# Glomus verruculosum Blaszk., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Resupinammina Brönnimann & Whittaker, 1988 GENUS
-=======
+# Resupinammina Brönnimann & Whittaker, 1988 GENUS
 
 #### Status
 ACCEPTED

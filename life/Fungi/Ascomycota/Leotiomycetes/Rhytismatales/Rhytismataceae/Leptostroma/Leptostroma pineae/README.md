@@ -1,5 +1,4 @@
-Leptostroma pineae (Bubák) Arx SPECIES
-=======
+# Leptostroma pineae (Bubák) Arx SPECIES
 
 #### Status
 ACCEPTED

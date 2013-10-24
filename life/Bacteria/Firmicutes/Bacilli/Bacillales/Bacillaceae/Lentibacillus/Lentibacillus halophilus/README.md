@@ -1,5 +1,4 @@
-Lentibacillus halophilus Tanasupawat et al., 2006 SPECIES
-=======
+# Lentibacillus halophilus Tanasupawat et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

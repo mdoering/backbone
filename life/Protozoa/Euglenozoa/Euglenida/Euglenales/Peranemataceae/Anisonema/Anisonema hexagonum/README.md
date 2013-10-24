@@ -1,5 +1,4 @@
-Anisonema hexagonum Playfair SPECIES
-=======
+# Anisonema hexagonum Playfair SPECIES
 
 #### Status
 ACCEPTED

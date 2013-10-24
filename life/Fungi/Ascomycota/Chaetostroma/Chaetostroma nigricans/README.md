@@ -1,5 +1,4 @@
-Chaetostroma nigricans Speg. SPECIES
-=======
+# Chaetostroma nigricans Speg. SPECIES
 
 #### Status
 ACCEPTED

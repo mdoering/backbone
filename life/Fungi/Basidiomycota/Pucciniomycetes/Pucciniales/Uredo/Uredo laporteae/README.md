@@ -1,5 +1,4 @@
-Uredo laporteae Hirats. f. SPECIES
-=======
+# Uredo laporteae Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

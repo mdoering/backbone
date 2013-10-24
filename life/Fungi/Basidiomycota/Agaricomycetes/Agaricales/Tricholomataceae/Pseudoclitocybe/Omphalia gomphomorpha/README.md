@@ -1,5 +1,4 @@
-Omphalia gomphomorpha (Berk.) Sacc. SPECIES
-=======
+# Omphalia gomphomorpha (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

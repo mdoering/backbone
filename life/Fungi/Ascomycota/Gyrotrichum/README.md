@@ -1,5 +1,4 @@
-Gyrotrichum GENUS
-=======
+# Gyrotrichum GENUS
 
 #### Status
 ACCEPTED

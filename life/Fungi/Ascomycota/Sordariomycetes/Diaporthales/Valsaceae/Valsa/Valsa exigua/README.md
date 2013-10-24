@@ -1,5 +1,4 @@
-Valsa exigua Nitschke SPECIES
-=======
+# Valsa exigua Nitschke SPECIES
 
 #### Status
 ACCEPTED

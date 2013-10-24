@@ -1,5 +1,4 @@
-Didymosporium truncatulum Corda SPECIES
-=======
+# Didymosporium truncatulum Corda SPECIES
 
 #### Status
 ACCEPTED

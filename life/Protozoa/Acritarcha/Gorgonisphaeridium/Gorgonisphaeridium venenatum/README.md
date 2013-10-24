@@ -1,5 +1,4 @@
-Gorgonisphaeridium venenatum Deunff, 1980 SPECIES
-=======
+# Gorgonisphaeridium venenatum Deunff, 1980 SPECIES
 
 #### Status
 ACCEPTED

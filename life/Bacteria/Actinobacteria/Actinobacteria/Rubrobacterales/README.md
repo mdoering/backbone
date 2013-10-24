@@ -1,5 +1,4 @@
-Rubrobacterales ORDER
-=======
+# Rubrobacterales ORDER
 
 #### Status
 ACCEPTED

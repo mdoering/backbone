@@ -1,5 +1,4 @@
-Tremellochaete hispidula (Lowy) Raitv. SPECIES
-=======
+# Tremellochaete hispidula (Lowy) Raitv. SPECIES
 
 #### Status
 ACCEPTED

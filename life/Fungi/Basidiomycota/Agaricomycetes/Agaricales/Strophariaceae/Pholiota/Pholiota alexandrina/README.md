@@ -1,5 +1,4 @@
-Pholiota alexandrina Reichert SPECIES
-=======
+# Pholiota alexandrina Reichert SPECIES
 
 #### Status
 ACCEPTED

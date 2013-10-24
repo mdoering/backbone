@@ -1,5 +1,4 @@
-Herpotrichia chilensis Speg. SPECIES
-=======
+# Herpotrichia chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

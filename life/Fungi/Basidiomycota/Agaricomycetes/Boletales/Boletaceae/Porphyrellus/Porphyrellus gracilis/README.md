@@ -1,5 +1,4 @@
-Porphyrellus gracilis (Peck) Singer SPECIES
-=======
+# Porphyrellus gracilis (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

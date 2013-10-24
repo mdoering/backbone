@@ -1,17 +1,16 @@
-Dinemasporium decipiens var. yerbae Speg. VARIETY
-=======
+# Dinemasporium decipiens (De Not.) Sacc., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 3 10: 137 (1908)
+Michelia 2(no. 7): 282 (1881)
 
 #### Original name
-Dinemasporium decipiens var. yerbae Speg.
+Excipula decipiens De Not., 1849
 
 ### Remarks
 null

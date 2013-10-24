@@ -1,8 +1,7 @@
-Flexibacter columnaris (ex Davis, 1922) Bernardet & Grimont, 1989 SPECIES
-=======
+# Flavobacterium columnare (Bernardet & Grimont, 1989) Bernardet et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

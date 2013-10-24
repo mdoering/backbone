@@ -1,5 +1,4 @@
-Tricholoma immundum (Berk.) Quél. SPECIES
-=======
+# Tricholoma immundum (Berk.) Quél. SPECIES
 
 #### Status
 ACCEPTED

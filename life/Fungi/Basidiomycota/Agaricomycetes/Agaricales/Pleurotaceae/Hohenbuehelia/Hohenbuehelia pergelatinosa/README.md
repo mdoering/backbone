@@ -1,5 +1,4 @@
-Hohenbuehelia pergelatinosa Singer, 1977 SPECIES
-=======
+# Hohenbuehelia pergelatinosa Singer, 1977 SPECIES
 
 #### Status
 ACCEPTED

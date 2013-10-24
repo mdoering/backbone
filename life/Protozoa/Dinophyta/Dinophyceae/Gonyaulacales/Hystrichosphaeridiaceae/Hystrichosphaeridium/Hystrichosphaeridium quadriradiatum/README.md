@@ -1,5 +1,4 @@
-Hystrichosphaeridium quadriradiatum Timofeev, 1959 SPECIES
-=======
+# Hystrichosphaeridium quadriradiatum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

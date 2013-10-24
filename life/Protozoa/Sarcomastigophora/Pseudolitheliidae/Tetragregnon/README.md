@@ -1,5 +1,4 @@
-Tetragregnon Ormiston & Lane, 1976 GENUS
-=======
+# Tetragregnon Ormiston & Lane, 1976 GENUS
 
 #### Status
 ACCEPTED

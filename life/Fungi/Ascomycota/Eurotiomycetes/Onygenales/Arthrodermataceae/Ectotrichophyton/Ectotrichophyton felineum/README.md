@@ -1,5 +1,4 @@
-Ectotrichophyton felineum var. felineum VARIETY
-=======
+# Ectotrichophyton felineum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ectotrichophyton felineum var. felineum
+Ectotrichophyton felineum
 
 ### Remarks
 null

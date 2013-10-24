@@ -1,5 +1,4 @@
-Gonyaulax cochlea Meunier SPECIES
-=======
+# Gonyaulax cochlea Meunier SPECIES
 
 #### Status
 ACCEPTED

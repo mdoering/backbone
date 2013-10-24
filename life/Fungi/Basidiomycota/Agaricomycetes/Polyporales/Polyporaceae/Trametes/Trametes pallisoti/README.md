@@ -1,5 +1,4 @@
-Trametes pallisoti (Fr.) Imaz. SPECIES
-=======
+# Trametes pallisoti (Fr.) Imaz. SPECIES
 
 #### Status
 ACCEPTED

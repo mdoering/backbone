@@ -1,5 +1,4 @@
-Physcia sublurida Stirt. SPECIES
-=======
+# Physcia sublurida Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium phaeum (Tuck.) Tuck. SPECIES
-=======
+# Placodium phaeum (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodinula lippiae (Tassi) Tassi SPECIES
-=======
+# Diplodinula lippiae (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

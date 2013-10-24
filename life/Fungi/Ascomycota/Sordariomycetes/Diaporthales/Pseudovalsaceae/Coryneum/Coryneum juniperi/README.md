@@ -1,5 +1,4 @@
-Coryneum juniperi Allesch. SPECIES
-=======
+# Coryneum juniperi Allesch. SPECIES
 
 #### Status
 ACCEPTED

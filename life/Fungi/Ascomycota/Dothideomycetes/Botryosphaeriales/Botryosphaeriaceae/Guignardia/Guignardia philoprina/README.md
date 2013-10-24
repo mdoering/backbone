@@ -1,17 +1,16 @@
-Melanops foliorum (Sacc.) Petr., 1931 SPECIES
-=======
+# Guignardia philoprina (Berk. & M.A. Curtis) Aa, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 5: 44 (1973)
 
 #### Original name
-null
+Sphaeria philoprina Berk. & M.A. Curtis, 1859
 
 ### Remarks
 null

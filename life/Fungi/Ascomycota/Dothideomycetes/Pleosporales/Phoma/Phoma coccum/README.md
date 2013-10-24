@@ -1,5 +1,4 @@
-Phoma coccum Karimov SPECIES
-=======
+# Phoma coccum Karimov SPECIES
 
 #### Status
 ACCEPTED

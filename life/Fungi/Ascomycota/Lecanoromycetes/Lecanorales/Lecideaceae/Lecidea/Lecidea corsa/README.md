@@ -1,5 +1,4 @@
-Lecidea corsa SPECIES
-=======
+# Lecidea corsa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma hyperici Allesch. SPECIES
-=======
+# Phoma hyperici Allesch. SPECIES
 
 #### Status
 ACCEPTED

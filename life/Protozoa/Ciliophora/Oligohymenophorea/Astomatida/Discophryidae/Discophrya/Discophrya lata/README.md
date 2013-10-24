@@ -1,5 +1,4 @@
-Discophrya lata SPECIES
-=======
+# Discophrya lata SPECIES
 
 #### Status
 ACCEPTED

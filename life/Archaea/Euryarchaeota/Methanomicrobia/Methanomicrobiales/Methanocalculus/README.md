@@ -1,5 +1,4 @@
-Methanocalculus Ollivier et al., 1998 GENUS
-=======
+# Methanocalculus Ollivier et al., 1998 GENUS
 
 #### Status
 ACCEPTED

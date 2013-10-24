@@ -1,5 +1,4 @@
-Coronicium J. Eriksson & Ryvarden, 1975 GENUS
-=======
+# Coronicium J. Eriksson & Ryvarden, 1975 GENUS
 
 #### Status
 ACCEPTED

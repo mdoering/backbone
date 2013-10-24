@@ -1,5 +1,4 @@
-Lecanora afzeliana Ach. SPECIES
-=======
+# Lecanora afzeliana Ach. SPECIES
 
 #### Status
 ACCEPTED

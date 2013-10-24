@@ -1,14 +1,13 @@
-Thelotrema confusum Hale SPECIES
-=======
+# Ocellularia confusa (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Smithson. Contr. bot. 16: 33 (1974)
+Mycotaxon 11(1): 136 (1980)
 
 #### Original name
 Thelotrema confusum Hale

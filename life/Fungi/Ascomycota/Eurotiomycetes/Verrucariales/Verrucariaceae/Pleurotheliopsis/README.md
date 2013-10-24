@@ -1,5 +1,4 @@
-Pleurotheliopsis GENUS
-=======
+# Pleurotheliopsis GENUS
 
 #### Status
 ACCEPTED

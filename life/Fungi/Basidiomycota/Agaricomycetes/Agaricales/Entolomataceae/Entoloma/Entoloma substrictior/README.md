@@ -1,5 +1,4 @@
-Entoloma substrictior (Singer) E. Horak SPECIES
-=======
+# Entoloma substrictior (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ryparobius leporinus Velen. SPECIES
-=======
+# Ryparobius leporinus Velen. SPECIES
 
 #### Status
 ACCEPTED

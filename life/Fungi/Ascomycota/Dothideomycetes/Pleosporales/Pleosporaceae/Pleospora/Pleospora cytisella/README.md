@@ -1,5 +1,4 @@
-Pleospora cytisella Lobik SPECIES
-=======
+# Pleospora cytisella Lobik SPECIES
 
 #### Status
 ACCEPTED

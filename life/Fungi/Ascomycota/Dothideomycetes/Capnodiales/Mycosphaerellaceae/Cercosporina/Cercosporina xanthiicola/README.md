@@ -1,5 +1,4 @@
-Cercosporina xanthiicola (Heald & F.A. Wolf) Sacc. SPECIES
-=======
+# Cercosporina xanthiicola (Heald & F.A. Wolf) Sacc. SPECIES
 
 #### Status
 ACCEPTED

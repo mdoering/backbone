@@ -1,5 +1,4 @@
-Lacrimasporonites stoughii Elsik SPECIES
-=======
+# Lacrimasporonites stoughii Elsik SPECIES
 
 #### Status
 ACCEPTED

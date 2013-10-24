@@ -1,5 +1,4 @@
-Didymosphaeria coryneliae Spooner SPECIES
-=======
+# Didymosphaeria coryneliae Spooner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida pseudojiufengensis F.Y. Bai & Z.H. Ji SPECIES
-=======
+# Candida pseudojiufengensis F.Y. Bai & Z.H. Ji SPECIES
 
 #### Status
 ACCEPTED

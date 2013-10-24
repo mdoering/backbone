@@ -1,5 +1,4 @@
-Hendersonia lonicerae Cooke SPECIES
-=======
+# Hendersonia lonicerae Cooke SPECIES
 
 #### Status
 ACCEPTED

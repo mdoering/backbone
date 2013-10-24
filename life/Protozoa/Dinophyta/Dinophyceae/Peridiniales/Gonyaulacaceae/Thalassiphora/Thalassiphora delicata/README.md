@@ -1,5 +1,4 @@
-Thalassiphora delicata Williams & Downie, 1966 SPECIES
-=======
+# Thalassiphora delicata Williams & Downie, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria confinis Lév. SPECIES
-=======
+# Sphaeria confinis Lév. SPECIES
 
 #### Status
 ACCEPTED

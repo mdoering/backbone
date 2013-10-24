@@ -1,5 +1,4 @@
-Microthyriella scabrella Syd. SPECIES
-=======
+# Microthyriella scabrella Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporon minus Leão SPECIES
-=======
+# Trichosporon minus Leão SPECIES
 
 #### Status
 ACCEPTED

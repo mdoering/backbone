@@ -1,5 +1,4 @@
-Microthelia dominans Müll. Arg. SPECIES
-=======
+# Microthelia dominans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

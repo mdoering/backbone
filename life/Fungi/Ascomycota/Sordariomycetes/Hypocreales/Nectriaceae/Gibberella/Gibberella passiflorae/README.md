@@ -1,5 +1,4 @@
-Gibberella passiflorae Cooke & Massee SPECIES
-=======
+# Gibberella passiflorae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

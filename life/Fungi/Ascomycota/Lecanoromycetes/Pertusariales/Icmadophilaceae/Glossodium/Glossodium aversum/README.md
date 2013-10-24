@@ -1,5 +1,4 @@
-Glossodium aversum Nyl. SPECIES
-=======
+# Glossodium aversum Nyl. SPECIES
 
 #### Status
 ACCEPTED

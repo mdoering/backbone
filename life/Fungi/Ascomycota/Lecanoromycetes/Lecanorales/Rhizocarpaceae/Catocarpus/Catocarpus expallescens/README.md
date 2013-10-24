@@ -1,5 +1,4 @@
-Catocarpus expallescens (Th. Fr.) Hellb. SPECIES
-=======
+# Catocarpus expallescens (Th. Fr.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

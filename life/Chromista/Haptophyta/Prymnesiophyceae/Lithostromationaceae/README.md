@@ -1,5 +1,4 @@
-Lithostromationaceae Deflandre, 1959 FAMILY
-=======
+# Lithostromationaceae Deflandre, 1959 FAMILY
 
 #### Status
 ACCEPTED

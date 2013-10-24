@@ -1,5 +1,4 @@
-Perenniporia subannosa (Bres.) Decock, S. Herrera & Ryvarden SPECIES
-=======
+# Perenniporia subannosa (Bres.) Decock, S. Herrera & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

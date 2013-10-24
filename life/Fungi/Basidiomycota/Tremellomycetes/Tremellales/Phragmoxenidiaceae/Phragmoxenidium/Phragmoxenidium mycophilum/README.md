@@ -1,5 +1,4 @@
-Phragmoxenidium mycophilum Oberw. & Schneller, 1990 SPECIES
-=======
+# Phragmoxenidium mycophilum Oberw. & Schneller, 1990 SPECIES
 
 #### Status
 ACCEPTED

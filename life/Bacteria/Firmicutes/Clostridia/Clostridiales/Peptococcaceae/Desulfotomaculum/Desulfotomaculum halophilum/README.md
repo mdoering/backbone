@@ -1,5 +1,4 @@
-Desulfotomaculum halophilum Tardy-Jacquenod et al., 1998 SPECIES
-=======
+# Desulfotomaculum halophilum Tardy-Jacquenod et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

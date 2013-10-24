@@ -1,5 +1,4 @@
-Lecidea xanthella Nyl. SPECIES
-=======
+# Lecidea xanthella Nyl. SPECIES
 
 #### Status
 ACCEPTED

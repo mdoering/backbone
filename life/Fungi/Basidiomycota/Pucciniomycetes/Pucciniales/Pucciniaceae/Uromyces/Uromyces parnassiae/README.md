@@ -1,5 +1,4 @@
-Uromyces parnassiae (DC.) J. Schröt. SPECIES
-=======
+# Uromyces parnassiae (DC.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

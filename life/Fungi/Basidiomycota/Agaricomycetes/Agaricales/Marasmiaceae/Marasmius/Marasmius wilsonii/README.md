@@ -1,5 +1,4 @@
-Marasmius wilsonii Murrill SPECIES
-=======
+# Marasmius wilsonii Murrill SPECIES
 
 #### Status
 ACCEPTED

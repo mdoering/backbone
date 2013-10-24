@@ -1,5 +1,4 @@
-Meliola brooksii Hansf. SPECIES
-=======
+# Meliola brooksii Hansf. SPECIES
 
 #### Status
 ACCEPTED

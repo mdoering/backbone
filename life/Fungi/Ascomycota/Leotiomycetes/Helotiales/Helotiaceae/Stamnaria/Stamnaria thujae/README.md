@@ -1,5 +1,4 @@
-Stamnaria thujae Seaver SPECIES
-=======
+# Stamnaria thujae Seaver SPECIES
 
 #### Status
 ACCEPTED

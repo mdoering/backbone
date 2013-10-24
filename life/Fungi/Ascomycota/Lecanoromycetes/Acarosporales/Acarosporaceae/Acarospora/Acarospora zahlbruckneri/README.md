@@ -1,5 +1,4 @@
-Acarospora zahlbruckneri Samp. SPECIES
-=======
+# Acarospora zahlbruckneri Samp. SPECIES
 
 #### Status
 ACCEPTED

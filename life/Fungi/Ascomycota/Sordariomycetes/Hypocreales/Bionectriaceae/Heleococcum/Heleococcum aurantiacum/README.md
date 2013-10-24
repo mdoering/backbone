@@ -1,5 +1,4 @@
-Heleococcum aurantiacum C.A. Jørg., 1922 SPECIES
-=======
+# Heleococcum aurantiacum C.A. Jørg., 1922 SPECIES
 
 #### Status
 ACCEPTED

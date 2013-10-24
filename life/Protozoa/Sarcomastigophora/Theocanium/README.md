@@ -1,5 +1,4 @@
-Theocanium Haeckel, 1881 GENUS
-=======
+# Theocanium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

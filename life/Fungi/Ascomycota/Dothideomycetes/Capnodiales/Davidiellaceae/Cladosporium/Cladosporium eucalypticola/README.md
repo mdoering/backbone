@@ -1,5 +1,4 @@
-Cladosporium eucalypticola M.B. Ellis SPECIES
-=======
+# Cladosporium eucalypticola M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

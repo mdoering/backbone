@@ -1,5 +1,4 @@
-Agaricus pattersonae Peck SPECIES
-=======
+# Agaricus pattersonae Peck SPECIES
 
 #### Status
 ACCEPTED

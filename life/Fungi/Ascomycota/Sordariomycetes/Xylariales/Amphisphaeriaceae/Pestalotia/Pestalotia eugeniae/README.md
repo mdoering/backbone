@@ -1,14 +1,13 @@
-Pestalotiopsis eugeniae (Thüm.) S. Kaneko, 1980 SPECIES
-=======
+# Pestalotia eugeniae Thüm., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Tottori Mycol. Inst. 18: 123 (1980)
+Inst. Rev. Sci. Litt. , Coimbra 2(no. 27): 326 (1880)
 
 #### Original name
 Pestalotia eugeniae Thüm., 1880

@@ -1,5 +1,4 @@
-Phlegmacium foetens M.M. Moser SPECIES
-=======
+# Phlegmacium foetens M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

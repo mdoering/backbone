@@ -1,5 +1,4 @@
-Cheilaria crataegi Cooke SPECIES
-=======
+# Cheilaria crataegi Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nephroma aspera Tuck. SPECIES
-=======
+# Nephroma aspera Tuck. SPECIES
 
 #### Status
 ACCEPTED

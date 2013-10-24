@@ -1,5 +1,4 @@
-Syracosphaera anthos (Lohman) Janin, 1987 SPECIES
-=======
+# Syracosphaera anthos (Lohman) Janin, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina elatostemae Hosag. & Goos SPECIES
-=======
+# Asterina elatostemae Hosag. & Goos SPECIES
 
 #### Status
 ACCEPTED

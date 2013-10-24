@@ -1,5 +1,4 @@
-Buellia turgida (A. Massal.) Lettau SPECIES
-=======
+# Buellia turgida (A. Massal.) Lettau SPECIES
 
 #### Status
 ACCEPTED

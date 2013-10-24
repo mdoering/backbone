@@ -1,5 +1,4 @@
-Pucciniastrum scleriae Pat. SPECIES
-=======
+# Pucciniastrum scleriae Pat. SPECIES
 
 #### Status
 ACCEPTED

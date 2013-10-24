@@ -1,8 +1,7 @@
-Sticta garovaglii Schaer. SPECIES
-=======
+# Sticta garovaglioi Schaer. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta garovaglii Schaer.
+Sticta garovaglioi Schaer.
 
 ### Remarks
 null

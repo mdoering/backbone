@@ -1,5 +1,4 @@
-Cercospora geranii Kellerm. & Swingle SPECIES
-=======
+# Cercospora geranii Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED

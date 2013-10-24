@@ -1,5 +1,4 @@
-Lecidea lentigerella Zahlbr. SPECIES
-=======
+# Lecidea lentigerella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

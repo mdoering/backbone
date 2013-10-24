@@ -1,5 +1,4 @@
-Lactarius pilatii Z. Schaef. SPECIES
-=======
+# Lactarius pilatii Z. Schaef. SPECIES
 
 #### Status
 ACCEPTED

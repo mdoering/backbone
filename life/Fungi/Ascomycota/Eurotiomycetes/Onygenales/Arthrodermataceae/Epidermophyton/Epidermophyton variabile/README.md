@@ -1,5 +1,4 @@
-Epidermophyton variabile Karrenb. SPECIES
-=======
+# Epidermophyton variabile Karrenb. SPECIES
 
 #### Status
 ACCEPTED

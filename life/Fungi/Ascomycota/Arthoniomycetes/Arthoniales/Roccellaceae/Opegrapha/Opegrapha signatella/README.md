@@ -1,5 +1,4 @@
-Opegrapha signatella Vain. SPECIES
-=======
+# Opegrapha signatella Vain. SPECIES
 
 #### Status
 ACCEPTED

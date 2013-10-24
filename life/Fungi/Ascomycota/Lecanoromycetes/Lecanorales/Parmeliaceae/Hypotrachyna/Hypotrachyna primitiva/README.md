@@ -1,5 +1,4 @@
-Hypotrachyna primitiva Hale & López-Fig. SPECIES
-=======
+# Hypotrachyna primitiva Hale & López-Fig. SPECIES
 
 #### Status
 ACCEPTED

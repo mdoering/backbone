@@ -1,5 +1,4 @@
-Mesodictyon nemanense (G. K. Khursevich) G. K. Khursevich SPECIES
-=======
+# Mesodictyon nemanense (G. K. Khursevich) G. K. Khursevich SPECIES
 
 #### Status
 ACCEPTED

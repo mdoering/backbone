@@ -1,5 +1,4 @@
-Stachylina minuta M. Gauthier ex Lichtw., 1984 SPECIES
-=======
+# Stachylina minuta M. Gauthier ex Lichtw., 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza poculiformis Hoffm. SPECIES
-=======
+# Peziza poculiformis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

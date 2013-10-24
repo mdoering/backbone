@@ -1,5 +1,4 @@
-Sphaerella hieracii Cooke & Massee, 1887 SPECIES
-=======
+# Sphaerella hieracii Cooke & Massee, 1887 SPECIES
 
 #### Status
 ACCEPTED

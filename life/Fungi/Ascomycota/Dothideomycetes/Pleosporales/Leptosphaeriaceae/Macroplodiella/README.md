@@ -1,5 +1,4 @@
-Macroplodiella GENUS
-=======
+# Macroplodiella GENUS
 
 #### Status
 ACCEPTED

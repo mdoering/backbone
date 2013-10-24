@@ -1,8 +1,7 @@
-Xylomites zizyphi Ettingsh. SPECIES
-=======
+# Xylomites ziziphi Ettingsh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylomites zizyphi Ettingsh.
+Xylomites ziziphi Ettingsh.
 
 ### Remarks
 null

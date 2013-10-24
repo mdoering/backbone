@@ -1,5 +1,4 @@
-Micrhystridium karrodense Anderson, 1977 SPECIES
-=======
+# Micrhystridium karrodense Anderson, 1977 SPECIES
 
 #### Status
 ACCEPTED

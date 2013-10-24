@@ -1,5 +1,4 @@
-Rhodopirellula Schlesner, Rendsmann, Tindall, Gade, Rabus, Pfeiffer & Hirsch, 2004 GENUS
-=======
+# Rhodopirellula Schlesner, Rendsmann, Tindall, Gade, Rabus, Pfeiffer & Hirsch, 2004 GENUS
 
 #### Status
 ACCEPTED

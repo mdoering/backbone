@@ -1,5 +1,4 @@
-Parmelia fastigiata (Pers.) Ach. SPECIES
-=======
+# Parmelia fastigiata (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED

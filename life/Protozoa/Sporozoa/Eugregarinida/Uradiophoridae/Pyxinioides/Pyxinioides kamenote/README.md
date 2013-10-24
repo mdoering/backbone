@@ -1,5 +1,4 @@
-Pyxinioides kamenote Hoshide, 1951 SPECIES
-=======
+# Pyxinioides kamenote Hoshide, 1951 SPECIES
 
 #### Status
 ACCEPTED

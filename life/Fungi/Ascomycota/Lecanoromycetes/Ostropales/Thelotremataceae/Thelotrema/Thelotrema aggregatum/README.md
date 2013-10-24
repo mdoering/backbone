@@ -1,14 +1,13 @@
-Phaeotrema aggregatum Hale SPECIES
-=======
+# Thelotrema aggregatum (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Smithson. Contr. bot. 16: 29 (1974)
+Mycotaxon 11(1): 131 (1980)
 
 #### Original name
 Phaeotrema aggregatum Hale

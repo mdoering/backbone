@@ -1,5 +1,4 @@
-Capronia apiculata M.E. Barr SPECIES
-=======
+# Capronia apiculata M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

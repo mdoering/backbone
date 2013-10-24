@@ -1,5 +1,4 @@
-Meliola viburnicola Hansf. SPECIES
-=======
+# Meliola viburnicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

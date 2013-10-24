@@ -1,5 +1,4 @@
-Meripilaceae FAMILY
-=======
+# Meripilaceae FAMILY
 
 #### Status
 ACCEPTED

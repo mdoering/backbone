@@ -1,5 +1,4 @@
-Sclerotites hesperius Knowlton {?} SPECIES
-=======
+# Sclerotites hesperius Knowlton {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia mordenii Hale SPECIES
-=======
+# Ocellularia mordenii Hale SPECIES
 
 #### Status
 ACCEPTED

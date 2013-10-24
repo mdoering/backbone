@@ -1,5 +1,4 @@
-Datronia orcomanta Robledo & Rajchenb. SPECIES
-=======
+# Datronia orcomanta Robledo & Rajchenb. SPECIES
 
 #### Status
 ACCEPTED

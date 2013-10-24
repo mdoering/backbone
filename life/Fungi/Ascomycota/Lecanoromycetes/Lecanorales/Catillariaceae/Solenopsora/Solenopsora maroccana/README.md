@@ -1,5 +1,4 @@
-Solenopsora maroccana (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Solenopsora maroccana (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

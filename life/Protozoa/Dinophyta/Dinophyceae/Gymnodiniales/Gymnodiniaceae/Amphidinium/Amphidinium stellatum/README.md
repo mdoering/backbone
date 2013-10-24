@@ -1,5 +1,4 @@
-Amphidinium stellatum Conrad & Kufferath SPECIES
-=======
+# Amphidinium stellatum Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

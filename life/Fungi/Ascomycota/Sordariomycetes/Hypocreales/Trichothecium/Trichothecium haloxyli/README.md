@@ -1,5 +1,4 @@
-Trichothecium haloxyli Kravtzev SPECIES
-=======
+# Trichothecium haloxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

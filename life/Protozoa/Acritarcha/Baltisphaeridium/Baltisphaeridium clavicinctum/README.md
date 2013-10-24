@@ -1,5 +1,4 @@
-Baltisphaeridium clavicinctum W. Wetzel, 1967 SPECIES
-=======
+# Baltisphaeridium clavicinctum W. Wetzel, 1967 SPECIES
 
 #### Status
 ACCEPTED

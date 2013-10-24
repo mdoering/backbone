@@ -1,17 +1,16 @@
-Dasyscypha perpusillus Velen. SPECIES
-=======
+# Dasyscyphus perpusillus Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 234 (1934)
 
 #### Original name
-Dasyscypha perpusillus Velen.
+Dasyscyphus perpusillus Velen.
 
 ### Remarks
 null

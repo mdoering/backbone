@@ -1,5 +1,4 @@
-Stropharia minima Massee SPECIES
-=======
+# Stropharia minima Massee SPECIES
 
 #### Status
 ACCEPTED

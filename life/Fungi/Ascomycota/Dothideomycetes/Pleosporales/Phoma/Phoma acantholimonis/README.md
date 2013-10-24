@@ -1,5 +1,4 @@
-Phoma acantholimonis Henn. SPECIES
-=======
+# Phoma acantholimonis Henn. SPECIES
 
 #### Status
 ACCEPTED

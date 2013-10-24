@@ -1,5 +1,4 @@
-Cryptostromatium andegavense Moreau-Benoît, 1974 SPECIES
-=======
+# Cryptostromatium andegavense Moreau-Benoît, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cerophora Rafinesque, 1808 GENUS
-=======
+# Lycoperdon Persoon, 1801 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Medic. Repos. , New York, Hex. II 5:355.
+Ann. Bot. (Usteri) 1: 4 (1794)
 
 #### Original name
-Cerophora Rafinesque, 1808
+Lycoperdon Persoon, 1801
 
 ### Remarks
 null

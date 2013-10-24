@@ -1,5 +1,4 @@
-Spororminula tenerifae Arx & Aa, 1987 SPECIES
-=======
+# Spororminula tenerifae Arx & Aa, 1987 SPECIES
 
 #### Status
 ACCEPTED

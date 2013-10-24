@@ -1,14 +1,13 @@
-Acolium protrudens (Nyl.) Tuck. SPECIES
-=======
+# Tylophoron protrudens Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. Tät. St Gall. naturw. Ges. (1862)
 
 #### Original name
 Tylophoron protrudens Nyl.

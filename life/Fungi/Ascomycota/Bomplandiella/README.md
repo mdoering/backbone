@@ -1,5 +1,4 @@
-Bomplandiella Speg. GENUS
-=======
+# Bomplandiella Speg. GENUS
 
 #### Status
 ACCEPTED

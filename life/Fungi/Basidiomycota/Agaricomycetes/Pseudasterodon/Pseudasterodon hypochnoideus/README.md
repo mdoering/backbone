@@ -1,5 +1,4 @@
-Pseudasterodon hypochnoideus var. hypochnoideus VARIETY
-=======
+# Pseudasterodon hypochnoideus (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Rambo (Ed. ), Iheringia, Sér. Bot. 5: 170 (1959)
 
 #### Original name
-Pseudasterodon hypochnoideus var. hypochnoideus
+Asterodon hypochnoideus Rick
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cytospora tithymalina Pass. & Beltr. SPECIES
-=======
+# Cytospora tithymalina Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

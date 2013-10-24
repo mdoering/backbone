@@ -1,5 +1,4 @@
-Pertusaria goniostoma Müll. Arg. SPECIES
-=======
+# Pertusaria goniostoma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

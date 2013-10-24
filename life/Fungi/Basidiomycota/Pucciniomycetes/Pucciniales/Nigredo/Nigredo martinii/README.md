@@ -1,5 +1,4 @@
-Nigredo martinii (Farl.) Arthur SPECIES
-=======
+# Nigredo martinii (Farl.) Arthur SPECIES
 
 #### Status
 ACCEPTED

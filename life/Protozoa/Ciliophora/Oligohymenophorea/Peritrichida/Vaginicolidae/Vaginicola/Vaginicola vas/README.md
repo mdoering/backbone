@@ -1,5 +1,4 @@
-Vaginicola vas Swarczewsky, 1930 SPECIES
-=======
+# Vaginicola vas Swarczewsky, 1930 SPECIES
 
 #### Status
 ACCEPTED

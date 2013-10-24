@@ -1,5 +1,4 @@
-Sphaeria subrugosa Schwein. SPECIES
-=======
+# Sphaeria subrugosa Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytisma rufulum Berk. & M.A. Curtis SPECIES
-=======
+# Rhytisma rufulum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

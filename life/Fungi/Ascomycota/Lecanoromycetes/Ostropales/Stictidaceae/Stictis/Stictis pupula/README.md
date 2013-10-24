@@ -1,5 +1,4 @@
-Stictis pupula Fr. SPECIES
-=======
+# Stictis pupula Fr. SPECIES
 
 #### Status
 ACCEPTED

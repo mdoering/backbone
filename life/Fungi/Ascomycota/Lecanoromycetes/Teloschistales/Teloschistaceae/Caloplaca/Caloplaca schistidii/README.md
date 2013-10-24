@@ -1,5 +1,4 @@
-Caloplaca schistidii (Anzi) Zahlbr. SPECIES
-=======
+# Caloplaca schistidii (Anzi) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

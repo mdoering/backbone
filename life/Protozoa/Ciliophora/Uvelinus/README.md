@@ -1,5 +1,4 @@
-Uvelinus Jankowski, 1985 GENUS
-=======
+# Uvelinus Jankowski, 1985 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maculatifrondis K.D. Hyde in K.D. Hyde, S.J. Stanley & T.D. Steinke, 1996 GENUS
-=======
+# Maculatifrondis K.D. Hyde in K.D. Hyde, S.J. Stanley & T.D. Steinke, 1996 GENUS
 
 #### Status
 ACCEPTED

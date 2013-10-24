@@ -1,5 +1,4 @@
-Placolecanora riparia (Flot.) Kopach. SPECIES
-=======
+# Placolecanora riparia (Flot.) Kopach. SPECIES
 
 #### Status
 ACCEPTED

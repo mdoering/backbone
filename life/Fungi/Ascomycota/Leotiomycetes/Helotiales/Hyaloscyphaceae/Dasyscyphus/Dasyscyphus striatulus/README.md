@@ -1,8 +1,7 @@
-Dasyscypha striatulus (Wallr.) Sacc. SPECIES
-=======
+# Dasyscyphus striatulus (Wallr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

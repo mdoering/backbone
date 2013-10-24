@@ -1,5 +1,4 @@
-Aecidium stowardii Har. SPECIES
-=======
+# Aecidium stowardii Har. SPECIES
 
 #### Status
 ACCEPTED

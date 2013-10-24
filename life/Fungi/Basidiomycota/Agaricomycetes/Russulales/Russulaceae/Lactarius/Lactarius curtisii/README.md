@@ -1,5 +1,4 @@
-Lactarius curtisii Coker SPECIES
-=======
+# Lactarius curtisii Coker SPECIES
 
 #### Status
 ACCEPTED

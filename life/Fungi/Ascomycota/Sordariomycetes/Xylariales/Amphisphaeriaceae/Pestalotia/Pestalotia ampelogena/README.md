@@ -1,5 +1,4 @@
-Pestalotia ampelogena Bres. SPECIES
-=======
+# Pestalotia ampelogena Bres. SPECIES
 
 #### Status
 ACCEPTED

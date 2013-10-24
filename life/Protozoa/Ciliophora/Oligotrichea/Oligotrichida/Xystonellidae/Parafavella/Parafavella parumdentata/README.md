@@ -1,5 +1,4 @@
-Parafavella parumdentata (Brandt, 1906) SPECIES
-=======
+# Parafavella parumdentata (Brandt, 1906) SPECIES
 
 #### Status
 ACCEPTED

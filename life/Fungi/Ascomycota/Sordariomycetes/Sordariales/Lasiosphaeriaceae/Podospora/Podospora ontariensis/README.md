@@ -1,5 +1,4 @@
-Podospora ontariensis (Cain) Cain SPECIES
-=======
+# Podospora ontariensis (Cain) Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psoromaria GENUS
-=======
+# Psoromaria GENUS
 
 #### Status
 ACCEPTED

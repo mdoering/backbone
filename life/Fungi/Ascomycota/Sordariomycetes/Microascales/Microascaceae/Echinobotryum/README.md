@@ -1,5 +1,4 @@
-Echinobotryum Corda GENUS
-=======
+# Echinobotryum Corda GENUS
 
 #### Status
 ACCEPTED

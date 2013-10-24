@@ -1,5 +1,4 @@
-Asterina quarta Racib., 1913 SPECIES
-=======
+# Asterina quarta Racib., 1913 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria floridana (Cooke) E.G. Simmons SPECIES
-=======
+# Alternaria floridana (Cooke) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

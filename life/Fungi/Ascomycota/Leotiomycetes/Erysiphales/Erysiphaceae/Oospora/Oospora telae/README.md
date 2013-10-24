@@ -1,5 +1,4 @@
-Oospora telae Sacc. SPECIES
-=======
+# Oospora telae Sacc. SPECIES
 
 #### Status
 ACCEPTED

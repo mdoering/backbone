@@ -1,5 +1,4 @@
-Sargassum costatum Tseng & Lu SPECIES
-=======
+# Sargassum costatum Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

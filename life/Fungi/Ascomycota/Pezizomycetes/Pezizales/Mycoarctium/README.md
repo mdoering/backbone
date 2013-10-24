@@ -1,5 +1,4 @@
-Mycoarctium K.P. Jain & Cain GENUS
-=======
+# Mycoarctium K.P. Jain & Cain GENUS
 
 #### Status
 ACCEPTED

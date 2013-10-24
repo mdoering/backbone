@@ -1,5 +1,4 @@
-Protostroma indicum Mhaskar & V.G. Rao SPECIES
-=======
+# Protostroma indicum Mhaskar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

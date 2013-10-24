@@ -1,5 +1,4 @@
-Pirottaea versicolor Penz. & Sacc. SPECIES
-=======
+# Pirottaea versicolor Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

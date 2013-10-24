@@ -1,5 +1,4 @@
-Poria turrita Scop. SPECIES
-=======
+# Poria turrita Scop. SPECIES
 
 #### Status
 ACCEPTED

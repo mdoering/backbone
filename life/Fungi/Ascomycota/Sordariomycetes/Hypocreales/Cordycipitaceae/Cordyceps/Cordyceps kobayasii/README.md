@@ -1,5 +1,4 @@
-Cordyceps kobayasii Koval SPECIES
-=======
+# Cordyceps kobayasii Koval SPECIES
 
 #### Status
 ACCEPTED

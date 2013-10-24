@@ -1,5 +1,4 @@
-Cercosporella tamicola F. Lamb. & Fautrey SPECIES
-=======
+# Cercosporella tamicola F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

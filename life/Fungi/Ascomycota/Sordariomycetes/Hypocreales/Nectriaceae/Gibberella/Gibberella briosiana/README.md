@@ -1,5 +1,4 @@
-Gibberella briosiana Turconi & Maffei SPECIES
-=======
+# Gibberella briosiana Turconi & Maffei SPECIES
 
 #### Status
 ACCEPTED

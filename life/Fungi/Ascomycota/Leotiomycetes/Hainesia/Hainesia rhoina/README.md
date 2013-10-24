@@ -1,5 +1,4 @@
-Hainesia rhoina (Sacc.) Ellis & Sacc. SPECIES
-=======
+# Hainesia rhoina (Sacc.) Ellis & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Telemarkites J.A. Dons, 1959 GENUS
-=======
+# Telemarkites J.A. Dons, 1959 GENUS
 
 #### Status
 ACCEPTED

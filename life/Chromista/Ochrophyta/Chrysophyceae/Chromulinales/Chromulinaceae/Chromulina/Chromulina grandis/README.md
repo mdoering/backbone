@@ -1,5 +1,4 @@
-Chromulina grandis SPECIES
-=======
+# Chromulina grandis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta bauhiniicola Henn. SPECIES
-=======
+# Phyllosticta bauhiniicola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arenariomyces parvulus Jørg. Koch, 1986 SPECIES
-=======
+# Arenariomyces parvulus Jørg. Koch, 1986 SPECIES
 
 #### Status
 ACCEPTED

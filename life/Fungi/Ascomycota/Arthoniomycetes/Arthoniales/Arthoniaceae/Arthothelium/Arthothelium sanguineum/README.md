@@ -1,5 +1,4 @@
-Arthothelium sanguineum (Nyl.) Zahlbr. SPECIES
-=======
+# Arthothelium sanguineum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

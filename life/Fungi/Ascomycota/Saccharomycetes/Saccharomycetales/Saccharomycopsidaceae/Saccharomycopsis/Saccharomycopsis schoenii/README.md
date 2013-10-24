@@ -1,5 +1,4 @@
-Saccharomycopsis schoenii (Nadson & Krassiln.) Kurtzman & Robnett, 1995 SPECIES
-=======
+# Saccharomycopsis schoenii (Nadson & Krassiln.) Kurtzman & Robnett, 1995 SPECIES
 
 #### Status
 ACCEPTED

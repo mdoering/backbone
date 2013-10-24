@@ -1,5 +1,4 @@
-Comatricha meandrispora A. Castillo, G. Moreno & Illana, 1993 SPECIES
-=======
+# Comatricha meandrispora A. Castillo, G. Moreno & Illana, 1993 SPECIES
 
 #### Status
 ACCEPTED

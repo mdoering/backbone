@@ -1,5 +1,4 @@
-Phlegmacium claroflavum (Rob. Henry) M.M. Moser SPECIES
-=======
+# Phlegmacium claroflavum (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

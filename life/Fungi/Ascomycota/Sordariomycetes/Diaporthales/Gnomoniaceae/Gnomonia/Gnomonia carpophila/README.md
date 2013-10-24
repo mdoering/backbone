@@ -1,5 +1,4 @@
-Gnomonia carpophila E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Gnomonia carpophila E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

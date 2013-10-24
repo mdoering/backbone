@@ -1,5 +1,4 @@
-Xystonella treforti (Daday, 1887) SPECIES
-=======
+# Xystonella treforti (Daday, 1887) SPECIES
 
 #### Status
 ACCEPTED

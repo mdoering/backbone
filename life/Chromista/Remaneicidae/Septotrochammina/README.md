@@ -1,5 +1,4 @@
-Septotrochammina Zheng, 1979 GENUS
-=======
+# Septotrochammina Zheng, 1979 GENUS
 
 #### Status
 ACCEPTED

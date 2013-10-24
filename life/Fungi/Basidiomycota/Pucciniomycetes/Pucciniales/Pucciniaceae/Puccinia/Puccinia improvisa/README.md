@@ -1,5 +1,4 @@
-Puccinia improvisa J.C. Lindq. SPECIES
-=======
+# Puccinia improvisa J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

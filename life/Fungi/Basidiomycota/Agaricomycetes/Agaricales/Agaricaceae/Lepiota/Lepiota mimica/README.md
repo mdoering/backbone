@@ -1,5 +1,4 @@
-Lepiota mimica Massee SPECIES
-=======
+# Lepiota mimica Massee SPECIES
 
 #### Status
 ACCEPTED

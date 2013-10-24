@@ -1,5 +1,4 @@
-Pseudocercospora balsaminicola (J.M. Yen & Lim) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora balsaminicola (J.M. Yen & Lim) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

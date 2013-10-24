@@ -1,5 +1,4 @@
-Melanostroma tozziae Maire SPECIES
-=======
+# Melanostroma tozziae Maire SPECIES
 
 #### Status
 ACCEPTED

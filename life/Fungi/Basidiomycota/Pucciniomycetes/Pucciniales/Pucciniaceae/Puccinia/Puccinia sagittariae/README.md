@@ -1,5 +1,4 @@
-Puccinia sagittariae Rabenh. SPECIES
-=======
+# Puccinia sagittariae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

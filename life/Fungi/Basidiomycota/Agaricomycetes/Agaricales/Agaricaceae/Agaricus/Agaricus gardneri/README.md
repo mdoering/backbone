@@ -1,5 +1,4 @@
-Agaricus gardneri Berk. SPECIES
-=======
+# Agaricus gardneri Berk. SPECIES
 
 #### Status
 ACCEPTED

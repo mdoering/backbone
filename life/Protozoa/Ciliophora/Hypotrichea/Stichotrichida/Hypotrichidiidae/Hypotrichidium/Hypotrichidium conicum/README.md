@@ -1,8 +1,7 @@
-Spirofilum tisiae Gelei, 1929 SPECIES
-=======
+# Hypotrichidium conicum Ilowaisky, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

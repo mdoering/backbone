@@ -1,5 +1,4 @@
-Herpomyces supellae Thaxt. SPECIES
-=======
+# Herpomyces supellae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

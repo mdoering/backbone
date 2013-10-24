@@ -1,5 +1,4 @@
-Oblongichytrium R. Yokoy. & D. Honda GENUS
-=======
+# Oblongichytrium R. Yokoy. & D. Honda GENUS
 
 #### Status
 ACCEPTED

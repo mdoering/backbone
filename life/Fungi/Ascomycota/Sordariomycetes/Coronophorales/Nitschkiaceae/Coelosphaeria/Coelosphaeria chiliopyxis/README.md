@@ -1,5 +1,4 @@
-Coelosphaeria chiliopyxis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Coelosphaeria chiliopyxis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella schultziae Murashk. SPECIES
-=======
+# Asteromella schultziae Murashk. SPECIES
 
 #### Status
 ACCEPTED

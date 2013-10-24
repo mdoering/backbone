@@ -1,5 +1,4 @@
-Leucocoprinus pusillus T.K.A. Kumar & Manim. SPECIES
-=======
+# Leucocoprinus pusillus T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

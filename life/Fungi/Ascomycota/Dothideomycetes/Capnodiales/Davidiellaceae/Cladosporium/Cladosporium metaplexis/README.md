@@ -1,5 +1,4 @@
-Cladosporium metaplexis Z.Y. Zhang & Xue Y. Wang, 2000 SPECIES
-=======
+# Cladosporium metaplexis Z.Y. Zhang & Xue Y. Wang, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe parcecoacta Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe parcecoacta Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

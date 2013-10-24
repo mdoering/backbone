@@ -1,5 +1,4 @@
-Cymatiosphaeroides dilutopilum Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
-=======
+# Cymatiosphaeroides dilutopilum Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
 
 #### Status
 ACCEPTED

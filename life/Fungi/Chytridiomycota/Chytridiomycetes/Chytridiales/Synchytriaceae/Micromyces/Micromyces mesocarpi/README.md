@@ -1,5 +1,4 @@
-Micromyces mesocarpi De Wild. SPECIES
-=======
+# Micromyces mesocarpi De Wild. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dasyscyphus palmae (Kanouse) Dennis, 1962 SPECIES
-=======
+# Lachnum palmae (Kanouse) Spooner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 2(2): 180 (1962)
+Biblthca Mycol. 116: 484 (1987)
 
 #### Original name
 Dasyscyphella palmae Kanouse, 1941

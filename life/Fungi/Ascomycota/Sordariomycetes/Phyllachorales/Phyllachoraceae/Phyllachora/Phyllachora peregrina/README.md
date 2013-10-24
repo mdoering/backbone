@@ -1,5 +1,4 @@
-Phyllachora peregrina Syd., 1925 SPECIES
-=======
+# Phyllachora peregrina Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

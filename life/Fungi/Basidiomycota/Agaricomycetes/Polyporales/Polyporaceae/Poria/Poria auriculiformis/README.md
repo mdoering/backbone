@@ -1,5 +1,4 @@
-Poria auriculiformis (Jungh.) Cooke SPECIES
-=======
+# Poria auriculiformis (Jungh.) Cooke SPECIES
 
 #### Status
 ACCEPTED

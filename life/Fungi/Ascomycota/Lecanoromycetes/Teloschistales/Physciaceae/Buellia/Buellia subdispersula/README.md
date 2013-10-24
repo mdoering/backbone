@@ -1,5 +1,4 @@
-Buellia subdispersula Riddle SPECIES
-=======
+# Buellia subdispersula Riddle SPECIES
 
 #### Status
 ACCEPTED

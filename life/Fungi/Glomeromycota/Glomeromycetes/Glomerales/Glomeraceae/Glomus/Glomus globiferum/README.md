@@ -1,5 +1,4 @@
-Glomus globiferum Koske & C. Walker, 1986 SPECIES
-=======
+# Glomus globiferum Koske & C. Walker, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium lappulae Thüm. SPECIES
-=======
+# Aecidium lappulae Thüm. SPECIES
 
 #### Status
 ACCEPTED

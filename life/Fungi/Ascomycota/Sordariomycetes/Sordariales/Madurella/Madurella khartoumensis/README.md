@@ -1,5 +1,4 @@
-Madurella khartoumensis (Chalm. & R.G. Archibald) Cif. & Redaelli SPECIES
-=======
+# Madurella khartoumensis (Chalm. & R.G. Archibald) Cif. & Redaelli SPECIES
 
 #### Status
 ACCEPTED

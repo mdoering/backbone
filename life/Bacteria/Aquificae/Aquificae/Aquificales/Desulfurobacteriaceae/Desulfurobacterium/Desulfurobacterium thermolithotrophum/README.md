@@ -1,5 +1,4 @@
-Desulfurobacterium thermolithotrophum L'Haridon et al., 1998 SPECIES
-=======
+# Desulfurobacterium thermolithotrophum L'Haridon et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

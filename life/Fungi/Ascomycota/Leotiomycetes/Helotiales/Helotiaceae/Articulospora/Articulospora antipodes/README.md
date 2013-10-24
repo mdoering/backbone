@@ -1,5 +1,4 @@
-Articulospora antipodes Roldan & Honrubia SPECIES
-=======
+# Articulospora antipodes Roldan & Honrubia SPECIES
 
 #### Status
 ACCEPTED

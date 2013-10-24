@@ -1,5 +1,4 @@
-Leotia clavus Pers. SPECIES
-=======
+# Leotia clavus Pers. SPECIES
 
 #### Status
 ACCEPTED

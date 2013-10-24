@@ -1,5 +1,4 @@
-Spongotrochus glacialis Popofsky, 1908 SPECIES
-=======
+# Spongotrochus glacialis Popofsky, 1908 SPECIES
 
 #### Status
 ACCEPTED

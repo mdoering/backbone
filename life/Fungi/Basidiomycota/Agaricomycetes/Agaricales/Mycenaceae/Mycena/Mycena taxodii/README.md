@@ -1,5 +1,4 @@
-Mycena taxodii (Murrill) Murrill SPECIES
-=======
+# Mycena taxodii (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

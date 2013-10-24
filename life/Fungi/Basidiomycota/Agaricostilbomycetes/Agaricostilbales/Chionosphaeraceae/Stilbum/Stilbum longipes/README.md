@@ -1,5 +1,4 @@
-Stilbum longipes Penz. & Sacc. SPECIES
-=======
+# Stilbum longipes Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

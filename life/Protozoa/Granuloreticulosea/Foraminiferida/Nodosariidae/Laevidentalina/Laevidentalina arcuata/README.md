@@ -1,8 +1,7 @@
-Dentalina arcuata d'Orbigny, 1826 SPECIES
-=======
+# Laevidentalina arcuata (d'Orbigny, 1826) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

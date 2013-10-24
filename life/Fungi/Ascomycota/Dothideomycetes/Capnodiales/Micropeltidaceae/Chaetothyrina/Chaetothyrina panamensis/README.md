@@ -1,5 +1,4 @@
-Chaetothyrina panamensis (F. Stevens & Dorman) Arx SPECIES
-=======
+# Chaetothyrina panamensis (F. Stevens & Dorman) Arx SPECIES
 
 #### Status
 ACCEPTED

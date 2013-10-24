@@ -1,5 +1,4 @@
-Mazaediothecium rubiginosum Aptroot SPECIES
-=======
+# Mazaediothecium rubiginosum Aptroot SPECIES
 
 #### Status
 ACCEPTED

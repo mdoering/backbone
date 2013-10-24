@@ -1,5 +1,4 @@
-Hiratsukaia Hara GENUS
-=======
+# Hiratsukaia Hara GENUS
 
 #### Status
 ACCEPTED

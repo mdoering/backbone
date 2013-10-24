@@ -1,5 +1,4 @@
-Tintinopsis tocantinensis Kofoid & Campbell SPECIES
-=======
+# Tintinopsis tocantinensis Kofoid & Campbell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodopaxillus GENUS
-=======
+# Rhodopaxillus GENUS
 
 #### Status
 ACCEPTED

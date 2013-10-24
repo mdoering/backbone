@@ -1,5 +1,4 @@
-Xeromphalina nudicaulis Maas Geest. & E. Horak SPECIES
-=======
+# Xeromphalina nudicaulis Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

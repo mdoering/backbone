@@ -1,5 +1,4 @@
-Apocolpodidium Foissner, Agatha & Berger, 2002 GENUS
-=======
+# Apocolpodidium Foissner, Agatha & Berger, 2002 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiosphaeriella pruinosa Huhndorf & F.A. Fernández SPECIES
-=======
+# Lasiosphaeriella pruinosa Huhndorf & F.A. Fernández SPECIES
 
 #### Status
 ACCEPTED

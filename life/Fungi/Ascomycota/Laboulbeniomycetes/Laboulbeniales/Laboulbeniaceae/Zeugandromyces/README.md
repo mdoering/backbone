@@ -1,5 +1,4 @@
-Zeugandromyces Thaxt. GENUS
-=======
+# Zeugandromyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

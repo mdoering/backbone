@@ -1,5 +1,4 @@
-Streblonema reptans De Toni SPECIES
-=======
+# Streblonema reptans De Toni SPECIES
 
 #### Status
 ACCEPTED

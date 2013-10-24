@@ -1,5 +1,4 @@
-Parapeltella aequivoca (Pass.) Bat. SPECIES
-=======
+# Parapeltella aequivoca (Pass.) Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kathistes Malloch & M. Blackw. GENUS
-=======
+# Kathistes Malloch & M. Blackw. GENUS
 
 #### Status
 ACCEPTED

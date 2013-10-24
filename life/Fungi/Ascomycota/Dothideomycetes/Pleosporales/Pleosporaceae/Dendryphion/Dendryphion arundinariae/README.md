@@ -1,5 +1,4 @@
-Dendryphion arundinariae Cooke SPECIES
-=======
+# Dendryphion arundinariae Cooke SPECIES
 
 #### Status
 ACCEPTED

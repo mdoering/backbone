@@ -1,5 +1,4 @@
-Spiroloculina attenuata SPECIES
-=======
+# Spiroloculina attenuata SPECIES
 
 #### Status
 ACCEPTED

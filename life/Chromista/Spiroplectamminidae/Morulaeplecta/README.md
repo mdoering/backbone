@@ -1,5 +1,4 @@
-Morulaeplecta Höglund, 1947 GENUS
-=======
+# Morulaeplecta Höglund, 1947 GENUS
 
 #### Status
 ACCEPTED

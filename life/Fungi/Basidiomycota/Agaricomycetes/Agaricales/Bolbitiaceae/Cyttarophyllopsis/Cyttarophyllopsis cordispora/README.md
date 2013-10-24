@@ -1,5 +1,4 @@
-Cyttarophyllopsis cordispora R. Heim, 1968 SPECIES
-=======
+# Cyttarophyllopsis cordispora R. Heim, 1968 SPECIES
 
 #### Status
 ACCEPTED

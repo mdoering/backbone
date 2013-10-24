@@ -1,14 +1,13 @@
-Staurothele clopima var. areolata Trevis. VARIETY
-=======
+# Staurothele areolata (Ach.) Lettau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 52: 84 (1912)
 
 #### Original name
 Staurothele clopima var. areolata Trevis.

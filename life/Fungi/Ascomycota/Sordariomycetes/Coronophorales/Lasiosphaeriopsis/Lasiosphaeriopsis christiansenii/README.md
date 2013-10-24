@@ -1,5 +1,4 @@
-Lasiosphaeriopsis christiansenii Alstrup & D. Hawksw. SPECIES
-=======
+# Lasiosphaeriopsis christiansenii Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hamatocanthoscypha uncinata (W. Phillips) Huhtinen SPECIES
-=======
+# Hamatocanthoscypha uncinata (W. Phillips) Huhtinen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora crotalariae Sawada, 1942 SPECIES
-=======
+# Pseudocercospora cotizensis (A.S. Mull. & Chupp) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Japanese Journal of Botany 7(2): 118 (1942)
+Mycol. Pap. 140: 142 (1976)
 
 #### Original name
-Cercospora crotalariae Sawada, 1942
+Cercospora cotizensis A.S. Mull. & Chupp, 1950
 
 ### Remarks
 null

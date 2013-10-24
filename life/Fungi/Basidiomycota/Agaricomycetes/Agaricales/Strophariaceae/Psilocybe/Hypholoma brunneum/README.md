@@ -1,14 +1,13 @@
-Flammula brunnea Massee, 1899 SPECIES
-=======
+# Hypholoma brunneum (Massee) D.A. Reid, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. New Zealand Inst. 31: 300 (1899)
+Kew Bull. 644 (1956)
 
 #### Original name
 Flammula brunnea Massee, 1899

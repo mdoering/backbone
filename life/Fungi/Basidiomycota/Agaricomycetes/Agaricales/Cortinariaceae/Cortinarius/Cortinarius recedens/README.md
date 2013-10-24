@@ -1,5 +1,4 @@
-Cortinarius recedens Fr. ex Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius recedens Fr. ex Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

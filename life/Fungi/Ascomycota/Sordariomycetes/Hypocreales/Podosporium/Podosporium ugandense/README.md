@@ -1,5 +1,4 @@
-Podosporium ugandense (Hansf.) Cif. SPECIES
-=======
+# Podosporium ugandense (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

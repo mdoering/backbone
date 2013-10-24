@@ -1,5 +1,4 @@
-Psathyrella pallidispora Dennis SPECIES
-=======
+# Psathyrella pallidispora Dennis SPECIES
 
 #### Status
 ACCEPTED

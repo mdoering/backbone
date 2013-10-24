@@ -1,5 +1,4 @@
-Pseudochlamydonella rheophila Buitkamp, Song & Wilbert, 1989 SPECIES
-=======
+# Pseudochlamydonella rheophila Buitkamp, Song & Wilbert, 1989 SPECIES
 
 #### Status
 ACCEPTED

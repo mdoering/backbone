@@ -1,5 +1,4 @@
-Cyclidium granulosum Kahl, 1931 SPECIES
-=======
+# Cyclidium granulosum Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Corticium calotrichum P. Karst., 1888 SPECIES
-=======
+# Phanerochaete calotricha (P. Karst.) J. Erikss. & Ryvarden, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 10(no. 37): 73 (1888)
+Cortic. N. Eur. (Oslo) 5: 997 (1978)
 
 #### Original name
 Corticium calotrichum P. Karst., 1888

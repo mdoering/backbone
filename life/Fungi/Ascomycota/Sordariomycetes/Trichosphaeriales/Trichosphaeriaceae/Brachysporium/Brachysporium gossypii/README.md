@@ -1,5 +1,4 @@
-Brachysporium gossypii Jacz. SPECIES
-=======
+# Brachysporium gossypii Jacz. SPECIES
 
 #### Status
 ACCEPTED

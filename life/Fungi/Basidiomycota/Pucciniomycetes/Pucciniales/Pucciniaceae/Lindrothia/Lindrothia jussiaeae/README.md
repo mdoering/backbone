@@ -1,5 +1,4 @@
-Lindrothia jussiaeae (Speg.) Syd. SPECIES
-=======
+# Lindrothia jussiaeae (Speg.) Syd. SPECIES
 
 #### Status
 ACCEPTED

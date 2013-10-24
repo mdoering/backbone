@@ -1,5 +1,4 @@
-Phaeostomiopeltis GENUS
-=======
+# Phaeostomiopeltis GENUS
 
 #### Status
 ACCEPTED

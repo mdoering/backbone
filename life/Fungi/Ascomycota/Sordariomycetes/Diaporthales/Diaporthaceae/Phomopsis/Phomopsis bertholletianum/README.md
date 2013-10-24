@@ -1,5 +1,4 @@
-Phomopsis bertholletianum E.R. Spencer SPECIES
-=======
+# Phomopsis bertholletianum E.R. Spencer SPECIES
 
 #### Status
 ACCEPTED

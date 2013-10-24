@@ -1,5 +1,4 @@
-Phoma emschericum Jos. König SPECIES
-=======
+# Phoma emschericum Jos. König SPECIES
 
 #### Status
 ACCEPTED

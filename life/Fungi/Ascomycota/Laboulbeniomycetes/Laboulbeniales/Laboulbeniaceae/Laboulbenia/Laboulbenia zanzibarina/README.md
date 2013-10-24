@@ -1,5 +1,4 @@
-Laboulbenia zanzibarina Thaxt. SPECIES
-=======
+# Laboulbenia zanzibarina Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia palustris (Quél.) Sacc. SPECIES
-=======
+# Stropharia palustris (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

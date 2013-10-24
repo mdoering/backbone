@@ -1,5 +1,4 @@
-Catillaria lapsans (Nyl.) Boistel SPECIES
-=======
+# Catillaria lapsans (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

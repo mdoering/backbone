@@ -1,5 +1,4 @@
-Cortinarius nigrocuspidatus Kauffman SPECIES
-=======
+# Cortinarius nigrocuspidatus Kauffman SPECIES
 
 #### Status
 ACCEPTED

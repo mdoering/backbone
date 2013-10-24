@@ -1,5 +1,4 @@
-Pyrenochaetina lophodermii Siemaszko SPECIES
-=======
+# Pyrenochaetina lophodermii Siemaszko SPECIES
 
 #### Status
 ACCEPTED

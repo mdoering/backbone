@@ -1,17 +1,16 @@
-Porina nigrofusca var. submersa Müll. Arg. VARIETY
-=======
+# Porina nigrofusca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 66: 322 (1883)
 
 #### Original name
-Porina nigrofusca var. submersa Müll. Arg.
+Porina nigrofusca Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllosticta baldratii Canonaco SPECIES
-=======
+# Phyllosticta baldratii Canonaco SPECIES
 
 #### Status
 ACCEPTED

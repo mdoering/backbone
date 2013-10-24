@@ -1,5 +1,4 @@
-Dictyochaeta unisetula (Morgan-Jones & E.G. Ingram) Aramb. & Cabello SPECIES
-=======
+# Dictyochaeta unisetula (Morgan-Jones & E.G. Ingram) Aramb. & Cabello SPECIES
 
 #### Status
 ACCEPTED

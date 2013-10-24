@@ -1,5 +1,4 @@
-Acarospora rugosa Eitner SPECIES
-=======
+# Acarospora rugosa Eitner SPECIES
 
 #### Status
 ACCEPTED

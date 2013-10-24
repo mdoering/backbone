@@ -1,5 +1,4 @@
-Trichophaea vernalis (Velen.) Svrcek SPECIES
-=======
+# Trichophaea vernalis (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

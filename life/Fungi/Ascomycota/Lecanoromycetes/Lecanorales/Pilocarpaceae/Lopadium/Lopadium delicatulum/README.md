@@ -1,5 +1,4 @@
-Lopadium delicatulum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lopadium delicatulum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

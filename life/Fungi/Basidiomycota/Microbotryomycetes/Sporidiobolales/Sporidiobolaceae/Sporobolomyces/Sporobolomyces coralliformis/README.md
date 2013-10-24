@@ -1,5 +1,4 @@
-Sporobolomyces coralliformis Tubaki SPECIES
-=======
+# Sporobolomyces coralliformis Tubaki SPECIES
 
 #### Status
 ACCEPTED

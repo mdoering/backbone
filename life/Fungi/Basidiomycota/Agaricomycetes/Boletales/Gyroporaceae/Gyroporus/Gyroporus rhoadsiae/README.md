@@ -1,5 +1,4 @@
-Gyroporus rhoadsiae Murrill SPECIES
-=======
+# Gyroporus rhoadsiae Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corollospora indica Prasannarai, Ananda & K.R. Sridhar, 2000 SPECIES
-=======
+# Corollospora indica Prasannarai, Ananda & K.R. Sridhar, 2000 SPECIES
 
 #### Status
 ACCEPTED

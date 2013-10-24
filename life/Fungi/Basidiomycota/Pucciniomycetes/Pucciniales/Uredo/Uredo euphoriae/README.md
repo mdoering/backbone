@@ -1,5 +1,4 @@
-Uredo euphoriae Pat. SPECIES
-=======
+# Uredo euphoriae Pat. SPECIES
 
 #### Status
 ACCEPTED

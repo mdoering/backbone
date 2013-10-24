@@ -1,5 +1,4 @@
-Asteromassaria daphnes (Petr.) Boise SPECIES
-=======
+# Asteromassaria daphnes (Petr.) Boise SPECIES
 
 #### Status
 ACCEPTED

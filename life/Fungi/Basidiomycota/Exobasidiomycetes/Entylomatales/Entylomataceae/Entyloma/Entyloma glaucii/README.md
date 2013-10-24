@@ -1,5 +1,4 @@
-Entyloma glaucii P.A. Dang. SPECIES
-=======
+# Entyloma glaucii P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

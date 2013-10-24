@@ -1,5 +1,4 @@
-Stigmatomma clopimoides (Bagl. & Carestia) Bagl. & Carestia SPECIES
-=======
+# Stigmatomma clopimoides (Bagl. & Carestia) Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

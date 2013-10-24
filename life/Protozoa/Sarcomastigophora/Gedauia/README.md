@@ -1,5 +1,4 @@
-Gedauia Won, 1983 GENUS
-=======
+# Gedauia Won, 1983 GENUS
 
 #### Status
 ACCEPTED

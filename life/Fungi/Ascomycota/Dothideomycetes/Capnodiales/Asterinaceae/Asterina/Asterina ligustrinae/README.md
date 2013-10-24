@@ -1,5 +1,4 @@
-Asterina ligustrinae (Bat. & Peres) S. Hughes SPECIES
-=======
+# Asterina ligustrinae (Bat. & Peres) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

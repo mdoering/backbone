@@ -1,14 +1,13 @@
-Sphaeria olivaceohirta Schwein. SPECIES
-=======
+# Asteromassaria olivaceohirta (Schwein.) M.E. Barr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Am. phil. Soc. , New Series 4(2): 218 (1832)
+Mycotaxon 15: 380 (1982)
 
 #### Original name
 Sphaeria olivaceohirta Schwein.

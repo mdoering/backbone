@@ -1,14 +1,13 @@
-Peniophora vesiculosa G. Cunn., 1955 SPECIES
-=======
+# Chondrostereum vesiculosum (G. Cunn.) Stalpers & P.K. Buchanan, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 83: 259 (1955)
+N. Z. Jl Bot. 29(3): 340 (1991)
 
 #### Original name
 Peniophora vesiculosa G. Cunn., 1955

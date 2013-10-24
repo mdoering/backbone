@@ -1,5 +1,4 @@
-Lagenosolenia ambita McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia ambita McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hottingerella Piller, 1983 GENUS
-=======
+# Hottingerella Piller, 1983 GENUS
 
 #### Status
 ACCEPTED

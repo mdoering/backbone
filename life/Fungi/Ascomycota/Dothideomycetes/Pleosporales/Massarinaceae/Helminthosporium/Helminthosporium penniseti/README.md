@@ -1,17 +1,16 @@
-Helminthosporium pennisetti A.P. Misra SPECIES
-=======
+# Helminthosporium penniseti A.P. Misra SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Helminthosporium species occurring on Cereals and other Gramineae 64 (1976)
 
 #### Original name
-Helminthosporium pennisetti A.P. Misra
+Helminthosporium penniseti A.P. Misra
 
 ### Remarks
 null

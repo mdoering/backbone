@@ -1,5 +1,4 @@
-Masoniomyces J.L. Crane & Dumont GENUS
-=======
+# Masoniomyces J.L. Crane & Dumont GENUS
 
 #### Status
 ACCEPTED

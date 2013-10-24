@@ -1,5 +1,4 @@
-Pseudocercospora infuscans (Ellis & Everh.) U. Braun SPECIES
-=======
+# Pseudocercospora infuscans (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

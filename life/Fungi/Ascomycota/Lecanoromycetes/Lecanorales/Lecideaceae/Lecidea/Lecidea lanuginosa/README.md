@@ -1,5 +1,4 @@
-Lecidea lanuginosa (Riddle) Zahlbr. SPECIES
-=======
+# Lecidea lanuginosa (Riddle) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

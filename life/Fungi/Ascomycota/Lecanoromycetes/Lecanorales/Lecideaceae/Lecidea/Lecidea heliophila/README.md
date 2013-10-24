@@ -1,5 +1,4 @@
-Lecidea heliophila Räsänen SPECIES
-=======
+# Lecidea heliophila Räsänen SPECIES
 
 #### Status
 ACCEPTED

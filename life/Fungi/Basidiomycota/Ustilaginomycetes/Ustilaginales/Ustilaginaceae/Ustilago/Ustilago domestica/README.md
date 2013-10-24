@@ -1,5 +1,4 @@
-Ustilago domestica Bref. SPECIES
-=======
+# Ustilago domestica Bref. SPECIES
 
 #### Status
 ACCEPTED

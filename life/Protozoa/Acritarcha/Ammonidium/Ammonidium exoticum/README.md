@@ -1,5 +1,4 @@
-Ammonidium exoticum Deunff in Lister, 1970 SPECIES
-=======
+# Ammonidium exoticum Deunff in Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

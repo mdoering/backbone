@@ -1,5 +1,4 @@
-Diplodia linariae Rabenh. SPECIES
-=======
+# Diplodia linariae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

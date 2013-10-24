@@ -1,5 +1,4 @@
-Cytosporina rubi Died. SPECIES
-=======
+# Cytosporina rubi Died. SPECIES
 
 #### Status
 ACCEPTED

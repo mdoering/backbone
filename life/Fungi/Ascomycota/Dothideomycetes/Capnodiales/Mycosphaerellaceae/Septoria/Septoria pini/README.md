@@ -1,5 +1,4 @@
-Septoria pini Fuckel SPECIES
-=======
+# Septoria pini Fuckel SPECIES
 
 #### Status
 ACCEPTED

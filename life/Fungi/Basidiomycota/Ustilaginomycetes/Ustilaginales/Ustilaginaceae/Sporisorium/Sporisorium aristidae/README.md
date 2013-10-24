@@ -1,5 +1,4 @@
-Sporisorium aristidae (S. Ahmad) Vánky SPECIES
-=======
+# Sporisorium aristidae (S. Ahmad) Vánky SPECIES
 
 #### Status
 ACCEPTED

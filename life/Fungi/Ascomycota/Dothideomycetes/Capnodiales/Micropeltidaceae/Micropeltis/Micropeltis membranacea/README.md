@@ -1,5 +1,4 @@
-Micropeltis membranacea Speg. SPECIES
-=======
+# Micropeltis membranacea Speg. SPECIES
 
 #### Status
 ACCEPTED

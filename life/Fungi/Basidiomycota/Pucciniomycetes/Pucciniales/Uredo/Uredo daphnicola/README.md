@@ -1,5 +1,4 @@
-Uredo daphnicola Dietel SPECIES
-=======
+# Uredo daphnicola Dietel SPECIES
 
 #### Status
 ACCEPTED

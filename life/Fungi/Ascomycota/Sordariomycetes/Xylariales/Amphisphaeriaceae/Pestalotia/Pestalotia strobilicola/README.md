@@ -1,5 +1,4 @@
-Pestalotia strobilicola Speg. SPECIES
-=======
+# Pestalotia strobilicola Speg. SPECIES
 
 #### Status
 ACCEPTED

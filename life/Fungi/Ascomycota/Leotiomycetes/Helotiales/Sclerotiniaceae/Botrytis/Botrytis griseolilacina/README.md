@@ -1,5 +1,4 @@
-Botrytis griseolilacina Ellis & Everh. SPECIES
-=======
+# Botrytis griseolilacina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus maxiae Klotzsch SPECIES
-=======
+# Agaricus maxiae Klotzsch SPECIES
 
 #### Status
 ACCEPTED

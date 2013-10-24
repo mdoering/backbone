@@ -1,5 +1,4 @@
-Montagnella opuntiarum var. opuntiarum VARIETY
-=======
+# Montagnella opuntiarum Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Soc. cient. argent. 26(1): 44 (1888)
 
 #### Original name
-Montagnella opuntiarum var. opuntiarum
+Montagnella opuntiarum Speg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Maronea afroalpina Brusse SPECIES
-=======
+# Maronea afroalpina Brusse SPECIES
 
 #### Status
 ACCEPTED

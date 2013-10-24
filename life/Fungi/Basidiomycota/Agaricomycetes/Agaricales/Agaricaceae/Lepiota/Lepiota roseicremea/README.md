@@ -1,5 +1,4 @@
-Lepiota roseicremea Murrill SPECIES
-=======
+# Lepiota roseicremea Murrill SPECIES
 
 #### Status
 ACCEPTED

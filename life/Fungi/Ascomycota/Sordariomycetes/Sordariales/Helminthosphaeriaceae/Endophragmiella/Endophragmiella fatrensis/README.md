@@ -1,5 +1,4 @@
-Endophragmiella fatrensis Hol.-Jech. SPECIES
-=======
+# Endophragmiella fatrensis Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

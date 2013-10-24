@@ -1,5 +1,4 @@
-Stysanus setaceus Pass. SPECIES
-=======
+# Stysanus setaceus Pass. SPECIES
 
 #### Status
 ACCEPTED

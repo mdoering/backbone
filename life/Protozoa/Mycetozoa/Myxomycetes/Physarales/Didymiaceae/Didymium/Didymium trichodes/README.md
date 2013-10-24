@@ -1,5 +1,4 @@
-Didymium trichodes Link SPECIES
-=======
+# Didymium trichodes Link SPECIES
 
 #### Status
 ACCEPTED

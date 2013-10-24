@@ -1,5 +1,4 @@
-Periconia britannica M.B. Ellis, 1976 SPECIES
-=======
+# Periconia britannica M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

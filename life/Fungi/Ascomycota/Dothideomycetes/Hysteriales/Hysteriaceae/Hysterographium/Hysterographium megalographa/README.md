@@ -1,5 +1,4 @@
-Hysterographium megalographa (Anzi) Sacc. SPECIES
-=======
+# Hysterographium megalographa (Anzi) Sacc. SPECIES
 
 #### Status
 ACCEPTED

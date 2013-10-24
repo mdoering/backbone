@@ -1,5 +1,4 @@
-Synochromonas Korshikov, 1929 GENUS
-=======
+# Synochromonas Korshikov, 1929 GENUS
 
 #### Status
 ACCEPTED

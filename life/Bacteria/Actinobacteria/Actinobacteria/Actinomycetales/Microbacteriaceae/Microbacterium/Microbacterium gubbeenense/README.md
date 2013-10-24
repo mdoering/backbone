@@ -1,5 +1,4 @@
-Microbacterium gubbeenense Brennan et al., 2001 SPECIES
-=======
+# Microbacterium gubbeenense Brennan et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

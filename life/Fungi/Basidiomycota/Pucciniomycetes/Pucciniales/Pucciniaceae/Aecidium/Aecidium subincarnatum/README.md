@@ -1,5 +1,4 @@
-Aecidium subincarnatum Henn. SPECIES
-=======
+# Aecidium subincarnatum Henn. SPECIES
 
 #### Status
 ACCEPTED

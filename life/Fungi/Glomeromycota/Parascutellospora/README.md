@@ -1,5 +1,4 @@
-Parascutellospora S.P. Gautam & U.S. Patel GENUS
-=======
+# Parascutellospora S.P. Gautam & U.S. Patel GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodinium Kofoid, 1906 GENUS
-=======
+# Heterodinium Kofoid, 1906 GENUS
 
 #### Status
 ACCEPTED

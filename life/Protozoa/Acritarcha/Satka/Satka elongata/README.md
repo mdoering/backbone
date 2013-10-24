@@ -1,5 +1,4 @@
-Satka elongata Jankauskas, 1979 SPECIES
-=======
+# Satka elongata Jankauskas, 1979 SPECIES
 
 #### Status
 ACCEPTED

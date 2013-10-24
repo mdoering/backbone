@@ -1,5 +1,4 @@
-Hydrogenimonaceae FAMILY
-=======
+# Hydrogenimonaceae FAMILY
 
 #### Status
 ACCEPTED

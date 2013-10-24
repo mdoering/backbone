@@ -1,5 +1,4 @@
-Carchesium matthesi SPECIES
-=======
+# Carchesium matthesi SPECIES
 
 #### Status
 ACCEPTED

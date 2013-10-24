@@ -1,5 +1,4 @@
-Gliocladium nicotianae Oudem. SPECIES
-=======
+# Gliocladium nicotianae Oudem. SPECIES
 
 #### Status
 ACCEPTED

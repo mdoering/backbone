@@ -1,5 +1,4 @@
-Cortinarius pseudovariicolor Damblon & Lambinon SPECIES
-=======
+# Cortinarius pseudovariicolor Damblon & Lambinon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius fusco-olivaceus (Weinm.) Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius fusco-olivaceus (Weinm.) Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

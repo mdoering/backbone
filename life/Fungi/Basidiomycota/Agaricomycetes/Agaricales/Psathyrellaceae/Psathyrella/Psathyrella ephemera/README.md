@@ -1,5 +1,4 @@
-Psathyrella ephemera A.H. Sm. SPECIES
-=======
+# Psathyrella ephemera A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

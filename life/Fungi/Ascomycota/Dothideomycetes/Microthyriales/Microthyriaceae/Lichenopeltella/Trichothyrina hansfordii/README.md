@@ -1,5 +1,4 @@
-Trichothyrina hansfordii (S. Hughes) Arx SPECIES
-=======
+# Trichothyrina hansfordii (S. Hughes) Arx SPECIES
 
 #### Status
 ACCEPTED

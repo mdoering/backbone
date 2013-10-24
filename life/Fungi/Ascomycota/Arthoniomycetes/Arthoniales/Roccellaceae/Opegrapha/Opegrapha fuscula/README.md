@@ -1,5 +1,4 @@
-Opegrapha fuscula Redinger SPECIES
-=======
+# Opegrapha fuscula Redinger SPECIES
 
 #### Status
 ACCEPTED

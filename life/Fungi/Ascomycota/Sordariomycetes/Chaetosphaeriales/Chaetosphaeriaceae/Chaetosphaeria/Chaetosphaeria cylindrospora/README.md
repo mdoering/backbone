@@ -1,5 +1,4 @@
-Chaetosphaeria cylindrospora F.A. Fernández, Huhndorf, Joanne E. Taylor & K.D. Hyde SPECIES
-=======
+# Chaetosphaeria cylindrospora F.A. Fernández, Huhndorf, Joanne E. Taylor & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

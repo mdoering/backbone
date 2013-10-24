@@ -1,5 +1,4 @@
-Glypholecia tibetanica Zahlbr. SPECIES
-=======
+# Glypholecia tibetanica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

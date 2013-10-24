@@ -1,5 +1,4 @@
-Rinodina subtrachytica SPECIES
-=======
+# Rinodina subtrachytica SPECIES
 
 #### Status
 ACCEPTED

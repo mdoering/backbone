@@ -1,5 +1,4 @@
-Dothidea cellulosa Wallr. SPECIES
-=======
+# Dothidea cellulosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

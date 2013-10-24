@@ -1,5 +1,4 @@
-Helotiella drygalskiana Henn. SPECIES
-=======
+# Helotiella drygalskiana Henn. SPECIES
 
 #### Status
 ACCEPTED

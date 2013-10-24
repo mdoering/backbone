@@ -1,14 +1,13 @@
-Lophodermium clithris Starbäck, 1899 SPECIES
-=======
+# Terriera clithris (Starbäck) P.R. Johnst., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 25(no. 1): 16 (1899)
+Mycol. Pap. 176: 104 (2001)
 
 #### Original name
 Lophodermium clithris Starbäck, 1899

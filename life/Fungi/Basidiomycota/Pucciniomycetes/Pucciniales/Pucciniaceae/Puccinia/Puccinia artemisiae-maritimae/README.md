@@ -1,5 +1,4 @@
-Puccinia artemisiae-maritimae Fahrend. SPECIES
-=======
+# Puccinia artemisiae-maritimae Fahrend. SPECIES
 
 #### Status
 ACCEPTED

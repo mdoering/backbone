@@ -1,5 +1,4 @@
-Diplotomma endorhodinum (Vain.) Szatala SPECIES
-=======
+# Diplotomma endorhodinum (Vain.) Szatala SPECIES
 
 #### Status
 ACCEPTED

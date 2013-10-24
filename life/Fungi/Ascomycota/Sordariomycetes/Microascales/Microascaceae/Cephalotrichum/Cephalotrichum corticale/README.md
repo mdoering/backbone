@@ -1,5 +1,4 @@
-Cephalotrichum corticale (Cooke & Peck) Kuntze SPECIES
-=======
+# Cephalotrichum corticale (Cooke & Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

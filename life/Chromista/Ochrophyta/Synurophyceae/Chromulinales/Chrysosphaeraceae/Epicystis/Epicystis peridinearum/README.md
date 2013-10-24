@@ -1,5 +1,4 @@
-Epicystis peridinearum Pascher SPECIES
-=======
+# Epicystis peridinearum Pascher SPECIES
 
 #### Status
 ACCEPTED

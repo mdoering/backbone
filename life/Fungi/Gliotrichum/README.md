@@ -1,5 +1,4 @@
-Gliotrichum Eschw. GENUS
-=======
+# Gliotrichum Eschw. GENUS
 
 #### Status
 ACCEPTED

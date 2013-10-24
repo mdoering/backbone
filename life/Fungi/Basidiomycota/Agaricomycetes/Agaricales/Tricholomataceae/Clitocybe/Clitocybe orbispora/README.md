@@ -1,5 +1,4 @@
-Clitocybe orbispora (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Clitocybe orbispora (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

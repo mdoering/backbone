@@ -1,5 +1,4 @@
-Chaetothyrium stuhlmannianum (Henn.) Theiss. SPECIES
-=======
+# Chaetothyrium stuhlmannianum (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

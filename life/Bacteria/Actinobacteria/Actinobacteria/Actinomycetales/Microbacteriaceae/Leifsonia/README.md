@@ -1,5 +1,4 @@
-Leifsonia Suzuki, Suzuki, Sasaki, Park & Komagata, 1999 GENUS
-=======
+# Leifsonia Suzuki, Suzuki, Sasaki, Park & Komagata, 1999 GENUS
 
 #### Status
 ACCEPTED

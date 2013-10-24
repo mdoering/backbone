@@ -1,5 +1,4 @@
-Malacophrys rotans Kahl, 1926 SPECIES
-=======
+# Malacophrys rotans Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

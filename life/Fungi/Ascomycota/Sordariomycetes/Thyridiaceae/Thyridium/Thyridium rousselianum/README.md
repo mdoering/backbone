@@ -1,5 +1,4 @@
-Thyridium rousselianum Sacc. & Speg. SPECIES
-=======
+# Thyridium rousselianum Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

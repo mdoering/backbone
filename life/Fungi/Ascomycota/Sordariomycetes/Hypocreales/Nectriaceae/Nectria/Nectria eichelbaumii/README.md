@@ -1,5 +1,4 @@
-Nectria eichelbaumii Henn. SPECIES
-=======
+# Nectria eichelbaumii Henn. SPECIES
 
 #### Status
 ACCEPTED

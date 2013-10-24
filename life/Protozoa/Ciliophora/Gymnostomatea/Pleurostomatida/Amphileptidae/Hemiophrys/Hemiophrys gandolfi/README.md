@@ -1,5 +1,4 @@
-Hemiophrys gandolfi André, 1914 SPECIES
-=======
+# Hemiophrys gandolfi André, 1914 SPECIES
 
 #### Status
 ACCEPTED

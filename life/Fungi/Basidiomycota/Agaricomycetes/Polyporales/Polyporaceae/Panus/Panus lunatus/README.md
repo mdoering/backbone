@@ -1,5 +1,4 @@
-Panus lunatus (Fr.) Fr. SPECIES
-=======
+# Panus lunatus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

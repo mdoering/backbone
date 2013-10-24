@@ -1,5 +1,4 @@
-Oswaldoa gymnosporiae Bat. SPECIES
-=======
+# Oswaldoa gymnosporiae Bat. SPECIES
 
 #### Status
 ACCEPTED

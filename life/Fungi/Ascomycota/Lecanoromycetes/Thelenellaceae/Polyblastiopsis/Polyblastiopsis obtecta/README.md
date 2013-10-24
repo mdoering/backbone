@@ -1,5 +1,4 @@
-Polyblastiopsis obtecta (Vain.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis obtecta (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria saliceti P.D. Orton SPECIES
-=======
+# Naucoria saliceti P.D. Orton SPECIES
 
 #### Status
 ACCEPTED

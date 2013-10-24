@@ -1,5 +1,4 @@
-Pholiota peleae E. Horak & Desjardin SPECIES
-=======
+# Pholiota peleae E. Horak & Desjardin SPECIES
 
 #### Status
 ACCEPTED

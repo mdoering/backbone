@@ -1,5 +1,4 @@
-Leohumicola incrustata H.D.T. Nguyen & Seifert SPECIES
-=======
+# Leohumicola incrustata H.D.T. Nguyen & Seifert SPECIES
 
 #### Status
 ACCEPTED

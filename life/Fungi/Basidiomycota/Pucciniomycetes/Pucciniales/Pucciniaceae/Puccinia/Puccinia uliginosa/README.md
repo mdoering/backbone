@@ -1,14 +1,13 @@
-Puccinia caricina var. uliginosa (Juel) Jørst., 1952 VARIETY
-=======
+# Puccinia uliginosa Juel, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Skrifter Vidensk. -Akad. Oslo 1(2): 30 (1952)
+Öfvers. kongl. Svensk. Vetensk. -Akad. Förhandl. 51: 410 (1894)
 
 #### Original name
 Puccinia uliginosa Juel, 1894

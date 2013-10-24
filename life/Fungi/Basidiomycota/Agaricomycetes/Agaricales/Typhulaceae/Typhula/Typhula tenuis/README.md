@@ -1,5 +1,4 @@
-Typhula tenuis (Sowerby) Fr. SPECIES
-=======
+# Typhula tenuis (Sowerby) Fr. SPECIES
 
 #### Status
 ACCEPTED

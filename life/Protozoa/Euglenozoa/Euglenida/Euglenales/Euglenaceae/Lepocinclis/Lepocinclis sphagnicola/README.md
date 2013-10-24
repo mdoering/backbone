@@ -1,5 +1,4 @@
-Lepocinclis sphagnicola Lemmermann SPECIES
-=======
+# Lepocinclis sphagnicola Lemmermann SPECIES
 
 #### Status
 ACCEPTED

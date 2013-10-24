@@ -1,5 +1,4 @@
-Coniella populina Naumov SPECIES
-=======
+# Coniella populina Naumov SPECIES
 
 #### Status
 ACCEPTED

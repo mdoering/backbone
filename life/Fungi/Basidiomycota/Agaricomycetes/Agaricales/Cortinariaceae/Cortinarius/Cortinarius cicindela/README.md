@@ -1,5 +1,4 @@
-Cortinarius cicindela Kytöv., Niskanen & Liimat. SPECIES
-=======
+# Cortinarius cicindela Kytöv., Niskanen & Liimat. SPECIES
 
 #### Status
 ACCEPTED

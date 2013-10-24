@@ -1,5 +1,4 @@
-Buchnera aphidicola Munson et al., 1991 SPECIES
-=======
+# Buchnera aphidicola Munson et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phanerochaete subglobosa Sheng H. Wu, 1990 SPECIES
-=======
+# Phanerochaete subglobosa Sheng H. Wu, 1990 SPECIES
 
 #### Status
 ACCEPTED

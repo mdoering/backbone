@@ -1,5 +1,4 @@
-Lophomarginata decora N. Umnova, 1975 SPECIES
-=======
+# Lophomarginata decora N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

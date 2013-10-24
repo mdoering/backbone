@@ -1,5 +1,4 @@
-Ancylistes pfeifferi Beck, 1897 SPECIES
-=======
+# Ancylistes pfeifferi Beck, 1897 SPECIES
 
 #### Status
 ACCEPTED

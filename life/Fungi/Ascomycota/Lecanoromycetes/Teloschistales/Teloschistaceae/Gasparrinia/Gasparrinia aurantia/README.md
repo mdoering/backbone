@@ -1,5 +1,4 @@
-Gasparrinia aurantia f. aurantia FORM
-=======
+# Gasparrinia aurantia SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gasparrinia aurantia f. aurantia
+null
 
 ### Remarks
 null

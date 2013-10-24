@@ -1,5 +1,4 @@
-Lecidea pictonica Nyl. SPECIES
-=======
+# Lecidea pictonica Nyl. SPECIES
 
 #### Status
 ACCEPTED

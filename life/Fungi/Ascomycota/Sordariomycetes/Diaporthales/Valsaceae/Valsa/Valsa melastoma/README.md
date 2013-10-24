@@ -1,5 +1,4 @@
-Valsa melastoma Fr. SPECIES
-=======
+# Valsa melastoma Fr. SPECIES
 
 #### Status
 ACCEPTED

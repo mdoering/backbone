@@ -1,5 +1,4 @@
-Caloplaca fuscolivida (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca fuscolivida (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

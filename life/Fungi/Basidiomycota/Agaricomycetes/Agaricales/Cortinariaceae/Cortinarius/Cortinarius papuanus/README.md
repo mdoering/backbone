@@ -1,5 +1,4 @@
-Cortinarius papuanus E. Horak SPECIES
-=======
+# Cortinarius papuanus E. Horak SPECIES
 
 #### Status
 ACCEPTED

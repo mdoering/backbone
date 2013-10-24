@@ -1,5 +1,4 @@
-Mycosphaerella ecdysantherae Sawada SPECIES
-=======
+# Mycosphaerella ecdysantherae Sawada SPECIES
 
 #### Status
 ACCEPTED

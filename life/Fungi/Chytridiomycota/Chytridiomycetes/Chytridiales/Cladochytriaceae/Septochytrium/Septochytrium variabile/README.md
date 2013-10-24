@@ -1,5 +1,4 @@
-Septochytrium variabile Berdan, 1939 SPECIES
-=======
+# Septochytrium variabile Berdan, 1939 SPECIES
 
 #### Status
 ACCEPTED

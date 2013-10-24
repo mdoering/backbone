@@ -1,5 +1,4 @@
-Entoloma viiduense Noordel. & Liiv SPECIES
-=======
+# Entoloma viiduense Noordel. & Liiv SPECIES
 
 #### Status
 ACCEPTED

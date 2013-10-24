@@ -1,5 +1,4 @@
-Centropyxiella gibbulina Chardez & Thomas, 1980 SPECIES
-=======
+# Centropyxiella gibbulina Chardez & Thomas, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus sororius J. Otto SPECIES
-=======
+# Agaricus sororius J. Otto SPECIES
 
 #### Status
 ACCEPTED

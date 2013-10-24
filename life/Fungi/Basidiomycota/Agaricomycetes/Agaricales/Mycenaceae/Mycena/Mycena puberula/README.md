@@ -1,5 +1,4 @@
-Mycena puberula Berk. SPECIES
-=======
+# Mycena puberula Berk. SPECIES
 
 #### Status
 ACCEPTED

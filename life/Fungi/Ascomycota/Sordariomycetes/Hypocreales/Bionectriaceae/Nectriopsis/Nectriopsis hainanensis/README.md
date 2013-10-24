@@ -1,5 +1,4 @@
-Nectriopsis hainanensis X.M. Zhang & W.Y. Zhuang SPECIES
-=======
+# Nectriopsis hainanensis X.M. Zhang & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

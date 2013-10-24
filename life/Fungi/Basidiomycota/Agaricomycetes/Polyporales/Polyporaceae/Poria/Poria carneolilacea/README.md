@@ -1,5 +1,4 @@
-Poria carneolilacea (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Poria carneolilacea (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthronema africanum (G. H. Schwabe) J. Komárek & J. Lukavský SPECIES
-=======
+# Arthronema africanum (G. H. Schwabe) J. Komárek & J. Lukavský SPECIES
 
 #### Status
 ACCEPTED

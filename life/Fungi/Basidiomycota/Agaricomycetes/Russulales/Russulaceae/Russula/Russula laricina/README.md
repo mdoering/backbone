@@ -1,5 +1,4 @@
-Russula laricina var. laricina VARIETY
-=======
+# Russula laricina Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 1: 149 (1920)
 
 #### Original name
-Russula laricina var. laricina
+Russula laricina Velen.
 
 ### Remarks
 null

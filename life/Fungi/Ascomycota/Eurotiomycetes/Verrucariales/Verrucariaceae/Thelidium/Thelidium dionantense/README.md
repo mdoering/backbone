@@ -1,5 +1,4 @@
-Thelidium dionantense (Hue) Zschacke SPECIES
-=======
+# Thelidium dionantense (Hue) Zschacke SPECIES
 
 #### Status
 ACCEPTED

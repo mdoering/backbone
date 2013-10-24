@@ -1,5 +1,4 @@
-Xylaria michoacana F. San Martín, J.D. Rogers & P. Lavín, 2001 SPECIES
-=======
+# Xylaria michoacana F. San Martín, J.D. Rogers & P. Lavín, 2001 SPECIES
 
 #### Status
 ACCEPTED

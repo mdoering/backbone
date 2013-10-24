@@ -1,14 +1,13 @@
-Ostracoderma isabellinum (Preuss) S. Hughes, 1958 SPECIES
-=======
+# Botrytis isabellina Preuss, 1852 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 36: 792 (1958)
+Linnaea 25: 75 (1852)
 
 #### Original name
 Botrytis isabellina Preuss, 1852

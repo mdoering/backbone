@@ -1,14 +1,13 @@
-Aspergillus versicolor var. protuberus (Munt.-Cvetk.) Kozak., 1989 VARIETY
-=======
+# Aspergillus protuberus Munt.-Cvetk., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 161: 139 (1989)
+Mikrobiologiya 5: 119 (1968)
 
 #### Original name
 Aspergillus protuberus Munt.-Cvetk., 1968

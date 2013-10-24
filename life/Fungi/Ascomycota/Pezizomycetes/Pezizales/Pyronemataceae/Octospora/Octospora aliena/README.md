@@ -1,5 +1,4 @@
-Octospora aliena Svrcek SPECIES
-=======
+# Octospora aliena Svrcek SPECIES
 
 #### Status
 ACCEPTED

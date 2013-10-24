@@ -1,5 +1,4 @@
-Microthelia appendiculosa (Speg.) Kuntze SPECIES
-=======
+# Microthelia appendiculosa (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

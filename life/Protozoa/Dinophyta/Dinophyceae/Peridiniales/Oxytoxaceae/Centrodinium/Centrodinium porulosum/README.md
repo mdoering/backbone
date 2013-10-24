@@ -1,5 +1,4 @@
-Centrodinium porulosum Kofoid, 1911 SPECIES
-=======
+# Centrodinium porulosum Kofoid, 1911 SPECIES
 
 #### Status
 ACCEPTED

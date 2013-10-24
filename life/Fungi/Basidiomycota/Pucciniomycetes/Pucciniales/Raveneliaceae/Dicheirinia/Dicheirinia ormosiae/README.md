@@ -1,14 +1,13 @@
-Dicaeoma ormosiae (Arthur) Arthur, 1920 SPECIES
-=======
+# Dicheirinia ormosiae (Arthur) Cummins, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(4-5): 391 (1920)
+Mycologia 27: 155 (1935)
 
 #### Original name
 Puccinia ormosiae Arthur, 1917

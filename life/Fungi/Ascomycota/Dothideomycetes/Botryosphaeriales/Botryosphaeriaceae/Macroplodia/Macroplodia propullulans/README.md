@@ -1,5 +1,4 @@
-Macroplodia propullulans (Schwein.) Kuntze SPECIES
-=======
+# Macroplodia propullulans (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

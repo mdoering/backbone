@@ -1,5 +1,4 @@
-Asterothyrium tetrasporum Lücking SPECIES
-=======
+# Asterothyrium tetrasporum Lücking SPECIES
 
 #### Status
 ACCEPTED

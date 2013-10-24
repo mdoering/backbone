@@ -1,5 +1,4 @@
-Paraparmelia Elix & J. Johnst. GENUS
-=======
+# Paraparmelia Elix & J. Johnst. GENUS
 
 #### Status
 ACCEPTED

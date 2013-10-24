@@ -1,5 +1,4 @@
-Pestalotia watsoniae Verwoerd & Deppenaar SPECIES
-=======
+# Pestalotia watsoniae Verwoerd & Deppenaar SPECIES
 
 #### Status
 ACCEPTED

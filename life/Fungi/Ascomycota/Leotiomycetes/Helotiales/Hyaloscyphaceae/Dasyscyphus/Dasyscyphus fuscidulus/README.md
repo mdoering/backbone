@@ -1,8 +1,7 @@
-Dasyscypha fuscidulus (Cooke) Sacc. SPECIES
-=======
+# Dasyscyphus fuscidulus (Cooke) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

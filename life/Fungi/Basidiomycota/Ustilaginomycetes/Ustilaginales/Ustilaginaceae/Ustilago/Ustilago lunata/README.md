@@ -1,5 +1,4 @@
-Ustilago lunata R.G. Shivas, McTaggart & Vánky SPECIES
-=======
+# Ustilago lunata R.G. Shivas, McTaggart & Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endochernyshinella Durkina, 1997 GENUS
-=======
+# Endochernyshinella Durkina, 1997 GENUS
 
 #### Status
 ACCEPTED

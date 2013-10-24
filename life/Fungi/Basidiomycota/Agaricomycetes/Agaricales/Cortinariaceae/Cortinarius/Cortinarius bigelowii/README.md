@@ -1,5 +1,4 @@
-Cortinarius bigelowii Thiers & A.H. Sm. SPECIES
-=======
+# Cortinarius bigelowii Thiers & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

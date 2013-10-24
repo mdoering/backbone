@@ -1,5 +1,4 @@
-Vibrio tasmaniensis Thompson et al., 2003 SPECIES
-=======
+# Vibrio tasmaniensis Thompson et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

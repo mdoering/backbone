@@ -1,5 +1,4 @@
-Boletus pyrrhosceles Halling SPECIES
-=======
+# Boletus pyrrhosceles Halling SPECIES
 
 #### Status
 ACCEPTED

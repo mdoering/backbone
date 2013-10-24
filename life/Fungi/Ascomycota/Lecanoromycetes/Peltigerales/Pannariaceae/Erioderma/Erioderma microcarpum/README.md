@@ -1,5 +1,4 @@
-Erioderma microcarpum Riddle SPECIES
-=======
+# Erioderma microcarpum Riddle SPECIES
 
 #### Status
 ACCEPTED

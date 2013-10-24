@@ -1,17 +1,16 @@
-Cyphella trachychaeta Ellis & Everh., 1888 SPECIES
-=======
+# Flagelloscypha minutissima (Burt) Donk, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 312 (1951)
 
 #### Original name
-null
+Cyphella minutissima Burt, 1914
 
 ### Remarks
 null

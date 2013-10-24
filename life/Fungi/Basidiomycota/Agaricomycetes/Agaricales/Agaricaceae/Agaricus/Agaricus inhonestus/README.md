@@ -1,5 +1,4 @@
-Agaricus inhonestus Weinm. SPECIES
-=======
+# Agaricus inhonestus Weinm. SPECIES
 
 #### Status
 ACCEPTED

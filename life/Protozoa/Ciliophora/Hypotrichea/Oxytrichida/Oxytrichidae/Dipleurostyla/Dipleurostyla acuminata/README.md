@@ -1,5 +1,4 @@
-Dipleurostyla acuminata Roux, 1899 SPECIES
-=======
+# Dipleurostyla acuminata Roux, 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylonites elongatioides Elsik SPECIES
-=======
+# Hypoxylonites elongatioides Elsik SPECIES
 
 #### Status
 ACCEPTED

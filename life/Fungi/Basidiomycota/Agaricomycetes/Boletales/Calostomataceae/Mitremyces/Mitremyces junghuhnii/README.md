@@ -1,5 +1,4 @@
-Mitremyces junghuhnii Schltdl. & Müll. {?} SPECIES
-=======
+# Mitremyces junghuhnii Schltdl. & Müll. {?} SPECIES
 
 #### Status
 ACCEPTED

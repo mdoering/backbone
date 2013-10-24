@@ -1,5 +1,4 @@
-Psathyrella plana (Murrill) A.H. Sm. SPECIES
-=======
+# Psathyrella plana (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

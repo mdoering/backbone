@@ -1,14 +1,13 @@
-Voglinoana craterioidea (Rabenh.) Kuntze SPECIES
-=======
+# Voglinoana craterioides (Rabenh.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 2: 874 (1891)
 
 #### Original name
 Cystophora craterioides Rabenh.

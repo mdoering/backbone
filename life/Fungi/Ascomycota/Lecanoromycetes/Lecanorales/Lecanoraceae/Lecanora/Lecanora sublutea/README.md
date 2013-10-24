@@ -1,5 +1,4 @@
-Lecanora sublutea A. Massal. SPECIES
-=======
+# Lecanora sublutea A. Massal. SPECIES
 
 #### Status
 ACCEPTED

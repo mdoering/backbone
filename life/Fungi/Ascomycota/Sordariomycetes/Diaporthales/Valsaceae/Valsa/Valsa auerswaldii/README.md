@@ -1,17 +1,16 @@
-Valsa auerswaldii f. auerswaldii FORM
-=======
+# Valsa auerswaldii Nitschke, 1928 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mitt. bot. Inst. tech. Hochsch. Wien 5: 78 (1928)
 
 #### Original name
-Valsa auerswaldii f. auerswaldii
+Valsa auerswaldii Nitschke, 1928
 
 ### Remarks
 null

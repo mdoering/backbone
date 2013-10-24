@@ -1,5 +1,4 @@
-Tilletia tanzanica Vánky, 2002 SPECIES
-=======
+# Tilletia tanzanica Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blepharocorys jubata Bundle, 1895 SPECIES
-=======
+# Blepharocorys jubata Bundle, 1895 SPECIES
 
 #### Status
 ACCEPTED

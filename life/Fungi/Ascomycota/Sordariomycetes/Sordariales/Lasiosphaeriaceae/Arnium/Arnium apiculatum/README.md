@@ -1,14 +1,13 @@
-Phorcys apiculata (Griffiths) Höhn., 1920 SPECIES
-=======
+# Arnium apiculatum (Griffiths) N. Lundq., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 129: 159 (1920)
+Symb. bot. upsal. 20(no. 1): 243 (1972)
 
 #### Original name
 Delitschia apiculata Griffiths, 1901

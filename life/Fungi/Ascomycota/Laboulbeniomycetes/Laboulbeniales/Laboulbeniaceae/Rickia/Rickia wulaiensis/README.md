@@ -1,5 +1,4 @@
-Rickia wulaiensis Sugiy. SPECIES
-=======
+# Rickia wulaiensis Sugiy. SPECIES
 
 #### Status
 ACCEPTED

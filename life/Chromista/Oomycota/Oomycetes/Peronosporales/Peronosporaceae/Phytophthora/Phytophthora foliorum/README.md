@@ -1,5 +1,4 @@
-Phytophthora foliorum Donahoo & Lamour SPECIES
-=======
+# Phytophthora foliorum Donahoo & Lamour SPECIES
 
 #### Status
 ACCEPTED

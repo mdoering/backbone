@@ -1,5 +1,4 @@
-Caloplaca stalactitica (Hepp) Tav. SPECIES
-=======
+# Caloplaca stalactitica (Hepp) Tav. SPECIES
 
 #### Status
 ACCEPTED

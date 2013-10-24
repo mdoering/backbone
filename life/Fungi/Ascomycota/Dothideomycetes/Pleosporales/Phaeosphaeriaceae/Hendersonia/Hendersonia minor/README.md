@@ -1,5 +1,4 @@
-Hendersonia minor Lebedeva SPECIES
-=======
+# Hendersonia minor Lebedeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endomyces intestinalis Castell. SPECIES
-=======
+# Endomyces intestinalis Castell. SPECIES
 
 #### Status
 ACCEPTED

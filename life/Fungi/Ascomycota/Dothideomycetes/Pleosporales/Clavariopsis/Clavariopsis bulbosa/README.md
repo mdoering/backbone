@@ -1,5 +1,4 @@
-Clavariopsis bulbosa Anastasiou, 1962 SPECIES
-=======
+# Clavariopsis bulbosa Anastasiou, 1962 SPECIES
 
 #### Status
 ACCEPTED

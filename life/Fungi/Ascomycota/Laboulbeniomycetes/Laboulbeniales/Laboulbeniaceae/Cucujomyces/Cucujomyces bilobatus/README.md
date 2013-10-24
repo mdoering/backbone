@@ -1,5 +1,4 @@
-Cucujomyces bilobatus Thaxt., 1918 SPECIES
-=======
+# Cucujomyces bilobatus Thaxt., 1918 SPECIES
 
 #### Status
 ACCEPTED

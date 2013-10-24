@@ -1,5 +1,4 @@
-Macrophoma seminalis (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
-=======
+# Macrophoma seminalis (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

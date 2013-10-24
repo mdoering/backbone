@@ -1,5 +1,4 @@
-Pyrenochaeta robiniae Tognini SPECIES
-=======
+# Pyrenochaeta robiniae Tognini SPECIES
 
 #### Status
 ACCEPTED

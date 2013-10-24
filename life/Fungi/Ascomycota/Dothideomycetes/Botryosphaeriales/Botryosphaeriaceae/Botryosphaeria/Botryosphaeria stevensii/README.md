@@ -1,17 +1,16 @@
-Sphaeria mutila var. mutila VARIETY
-=======
+# Botryosphaeria stevensii Shoemaker, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 42: 1299 (1964)
 
 #### Original name
-Sphaeria mutila var. mutila
+Botryosphaeria stevensii Shoemaker, 1964
 
 ### Remarks
 null

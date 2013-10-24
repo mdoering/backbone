@@ -1,5 +1,4 @@
-Russula obtusopunctata Buyck SPECIES
-=======
+# Russula obtusopunctata Buyck SPECIES
 
 #### Status
 ACCEPTED

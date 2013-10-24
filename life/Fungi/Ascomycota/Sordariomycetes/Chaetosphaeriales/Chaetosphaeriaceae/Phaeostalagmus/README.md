@@ -1,5 +1,4 @@
-Phaeostalagmus W. Gams, 1976 GENUS
-=======
+# Phaeostalagmus W. Gams, 1976 GENUS
 
 #### Status
 ACCEPTED

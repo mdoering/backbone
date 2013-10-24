@@ -1,5 +1,4 @@
-Tricholoma webbii (Despr.) Sacc. SPECIES
-=======
+# Tricholoma webbii (Despr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Psora kongoënsis Räsänen SPECIES
-=======
+# Psora kongoensis Räsänen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Psora kongoënsis Räsänen
+Psora kongoensis Räsänen
 
 ### Remarks
 null

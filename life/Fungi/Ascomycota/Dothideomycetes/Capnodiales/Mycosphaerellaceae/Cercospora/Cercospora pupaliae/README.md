@@ -1,17 +1,16 @@
-Cercospora pupalae Patw. & A.K. Pande SPECIES
-=======
+# Cercospora pupaliae Patw. & A.K. Pande SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 23(1-6): 100 (1970)
 
 #### Original name
-Cercospora pupalae Patw. & A.K. Pande
+Cercospora pupaliae Patw. & A.K. Pande
 
 ### Remarks
 null

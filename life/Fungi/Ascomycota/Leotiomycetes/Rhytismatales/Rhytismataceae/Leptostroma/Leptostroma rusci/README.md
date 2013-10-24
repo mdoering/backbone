@@ -1,5 +1,4 @@
-Leptostroma rusci Kirchn. SPECIES
-=======
+# Leptostroma rusci Kirchn. SPECIES
 
 #### Status
 ACCEPTED

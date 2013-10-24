@@ -1,5 +1,4 @@
-Haplodothella chaenostoma (Sacc.) Werderm. SPECIES
-=======
+# Haplodothella chaenostoma (Sacc.) Werderm. SPECIES
 
 #### Status
 ACCEPTED

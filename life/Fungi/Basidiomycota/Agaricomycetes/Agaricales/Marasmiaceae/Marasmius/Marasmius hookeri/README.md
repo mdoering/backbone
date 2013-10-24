@@ -1,5 +1,4 @@
-Marasmius hookeri Berk. SPECIES
-=======
+# Marasmius hookeri Berk. SPECIES
 
 #### Status
 ACCEPTED

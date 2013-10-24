@@ -1,5 +1,4 @@
-Lepiota citrophylloides Sathe & S.M. Kulk. SPECIES
-=======
+# Lepiota citrophylloides Sathe & S.M. Kulk. SPECIES
 
 #### Status
 ACCEPTED

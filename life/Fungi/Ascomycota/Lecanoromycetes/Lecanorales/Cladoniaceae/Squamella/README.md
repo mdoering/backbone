@@ -1,5 +1,4 @@
-Squamella S. Hammer, 2001 GENUS
-=======
+# Squamella S. Hammer, 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola pulveracea Speg. SPECIES
-=======
+# Meliola pulveracea Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyrea heppii (Müll. Arg.) Lettau SPECIES
-=======
+# Thyrea heppii (Müll. Arg.) Lettau SPECIES
 
 #### Status
 ACCEPTED

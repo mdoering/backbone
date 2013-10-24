@@ -1,5 +1,4 @@
-Colletotrichum calotropidis Rao & M.A. Salam SPECIES
-=======
+# Colletotrichum calotropidis Rao & M.A. Salam SPECIES
 
 #### Status
 ACCEPTED

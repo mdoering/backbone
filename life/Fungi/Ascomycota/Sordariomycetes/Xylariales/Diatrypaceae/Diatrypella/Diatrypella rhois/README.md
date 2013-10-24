@@ -1,5 +1,4 @@
-Diatrypella rhois (Schwein.) Ellis & Everh., 1892 SPECIES
-=======
+# Diatrypella rhois (Schwein.) Ellis & Everh., 1892 SPECIES
 
 #### Status
 ACCEPTED

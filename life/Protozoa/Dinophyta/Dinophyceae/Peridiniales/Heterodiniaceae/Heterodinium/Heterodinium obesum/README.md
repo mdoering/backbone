@@ -1,5 +1,4 @@
-Heterodinium obesum Kofoid, 1907 SPECIES
-=======
+# Heterodinium obesum Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

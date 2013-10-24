@@ -1,5 +1,4 @@
-Eschatogonia Trevis. GENUS
-=======
+# Eschatogonia Trevis. GENUS
 
 #### Status
 ACCEPTED

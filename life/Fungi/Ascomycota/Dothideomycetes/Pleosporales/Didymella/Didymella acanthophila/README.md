@@ -1,5 +1,4 @@
-Didymella acanthophila Speg. SPECIES
-=======
+# Didymella acanthophila Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia alabakensis Bubák & Picb. SPECIES
-=======
+# Hendersonia alabakensis Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

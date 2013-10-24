@@ -1,14 +1,13 @@
-Dasyscypha calosporus (Pat. & Gaillard) Dennis SPECIES
-=======
+# Dasyscyphus calosporus (Pat. & Gaillard) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. 9(2): 302 (1954)
 
 #### Original name
 Erinella calospora Pat. & Gaillard

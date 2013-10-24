@@ -1,5 +1,4 @@
-Pholiota pinicola Jacobsson, 1986 SPECIES
-=======
+# Pholiota pinicola Jacobsson, 1986 SPECIES
 
 #### Status
 ACCEPTED

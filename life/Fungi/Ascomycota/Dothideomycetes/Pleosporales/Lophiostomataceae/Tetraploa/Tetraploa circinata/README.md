@@ -1,5 +1,4 @@
-Tetraploa circinata Pratibha & Bhat SPECIES
-=======
+# Tetraploa circinata Pratibha & Bhat SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ionaspis odora f. odora FORM
-=======
+# Ionaspis odora (Ach.) Stein SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 1: 273 (1871)
 
 #### Original name
-Ionaspis odora f. odora
+Gyalecta odora Ach.
 
 ### Remarks
 null

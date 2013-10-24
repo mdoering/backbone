@@ -1,5 +1,4 @@
-Cercospora tecomae Chupp & Viégas SPECIES
-=======
+# Cercospora tecomae Chupp & Viégas SPECIES
 
 #### Status
 ACCEPTED

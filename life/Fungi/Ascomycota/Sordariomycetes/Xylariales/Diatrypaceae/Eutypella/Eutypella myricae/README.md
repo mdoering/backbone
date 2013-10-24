@@ -1,5 +1,4 @@
-Eutypella myricae (Cooke & Ellis) Sacc. SPECIES
-=======
+# Eutypella myricae (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

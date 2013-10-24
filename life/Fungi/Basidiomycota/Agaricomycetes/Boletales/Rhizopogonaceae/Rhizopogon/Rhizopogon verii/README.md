@@ -1,5 +1,4 @@
-Rhizopogon verii Pacioni SPECIES
-=======
+# Rhizopogon verii Pacioni SPECIES
 
 #### Status
 ACCEPTED

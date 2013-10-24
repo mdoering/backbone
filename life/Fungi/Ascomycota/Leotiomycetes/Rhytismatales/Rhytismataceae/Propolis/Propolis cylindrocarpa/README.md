@@ -1,5 +1,4 @@
-Propolis cylindrocarpa (Peck) Sacc. SPECIES
-=======
+# Propolis cylindrocarpa (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

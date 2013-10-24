@@ -1,5 +1,4 @@
-Graphis extrusa Stirt. SPECIES
-=======
+# Graphis extrusa Stirt. SPECIES
 
 #### Status
 ACCEPTED

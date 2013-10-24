@@ -1,5 +1,4 @@
-Mayorella dactylifera Goodkov & Buryakov, 1988 SPECIES
-=======
+# Mayorella dactylifera Goodkov & Buryakov, 1988 SPECIES
 
 #### Status
 ACCEPTED

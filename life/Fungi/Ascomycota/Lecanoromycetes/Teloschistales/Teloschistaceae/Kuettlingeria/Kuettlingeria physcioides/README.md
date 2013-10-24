@@ -1,5 +1,4 @@
-Kuettlingeria physcioides (A. Massal.) C.W. Dodge SPECIES
-=======
+# Kuettlingeria physcioides (A. Massal.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis angusta (Eschw.) Müll. Arg. SPECIES
-=======
+# Graphis angusta (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

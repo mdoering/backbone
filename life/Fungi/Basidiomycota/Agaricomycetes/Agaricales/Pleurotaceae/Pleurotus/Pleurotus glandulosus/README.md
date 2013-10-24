@@ -1,5 +1,4 @@
-Pleurotus glandulosus (Bull.) Quél. SPECIES
-=======
+# Pleurotus glandulosus (Bull.) Quél. SPECIES
 
 #### Status
 ACCEPTED

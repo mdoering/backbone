@@ -1,5 +1,4 @@
-Eurotiopsis P. Karsten, 1889 GENUS
-=======
+# Eurotiopsis P. Karsten, 1889 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Propolis tetraspora Sacc. ex Mouton SPECIES
-=======
+# Propolis tetraspora Sacc. ex Mouton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina eupomatiae (Henn.) Theiss. SPECIES
-=======
+# Asterina eupomatiae (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ramularia scabiosa McAlpine & Tryon SPECIES
-=======
+# Elsinoë fawcettii Bitanc. & Jenkins, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopathology 26: 394 (1936)
 
 #### Original name
-Ramularia scabiosa McAlpine & Tryon
+Elsinoë fawcettii Bitanc. & Jenkins, 1936
 
 ### Remarks
 null

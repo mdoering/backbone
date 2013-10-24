@@ -1,5 +1,4 @@
-Marasmius alliatus (Schaeff.) J. Schröt. SPECIES
-=======
+# Marasmius alliatus (Schaeff.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

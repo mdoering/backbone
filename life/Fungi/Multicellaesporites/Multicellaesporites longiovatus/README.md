@@ -1,17 +1,16 @@
-Multicellaesporites longovatus Z.C. Song, Qian & Y.H. Zheng SPECIES
-=======
+# Multicellaesporites longiovatus Z.C. Song, Qian & Y.H. Zheng SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fossil Spores and Pollen of China (Beijing) 1: 19 + pl. 12, fig. 1 (1999)
 
 #### Original name
-Multicellaesporites longovatus Z.C. Song, Qian & Y.H. Zheng
+Multicellaesporites longiovatus Z.C. Song, Qian & Y.H. Zheng
 
 ### Remarks
 null

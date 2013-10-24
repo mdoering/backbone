@@ -1,5 +1,4 @@
-Ramularia tanaceti Lind, 1905 SPECIES
-=======
+# Ramularia tanaceti Lind, 1905 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaerella verrucispora (S. Ahmad) Bat. & A.F. Vital SPECIES
-=======
+# Phaeosphaerella verrucispora (S. Ahmad) Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

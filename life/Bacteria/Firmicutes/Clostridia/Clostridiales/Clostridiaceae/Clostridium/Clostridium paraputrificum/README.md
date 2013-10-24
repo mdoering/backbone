@@ -1,5 +1,4 @@
-Clostridium paraputrificum (Bienstock, 1906) Snyder, 1936 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium paraputrificum (Bienstock, 1906) Snyder, 1936 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

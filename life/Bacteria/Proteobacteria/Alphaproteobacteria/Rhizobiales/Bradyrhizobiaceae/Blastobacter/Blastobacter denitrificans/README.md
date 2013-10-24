@@ -1,5 +1,4 @@
-Blastobacter denitrificans Hirsch & Müller, 1986 SPECIES
-=======
+# Blastobacter denitrificans Hirsch & Müller, 1986 SPECIES
 
 #### Status
 ACCEPTED

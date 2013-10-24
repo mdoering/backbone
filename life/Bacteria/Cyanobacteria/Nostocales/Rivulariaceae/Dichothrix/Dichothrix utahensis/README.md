@@ -1,5 +1,4 @@
-Dichothrix utahensis Tilden SPECIES
-=======
+# Dichothrix utahensis Tilden SPECIES
 
 #### Status
 ACCEPTED

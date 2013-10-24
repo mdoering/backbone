@@ -1,8 +1,7 @@
-Absidia hesseltinii B.S. Mehrotra SPECIES
-=======
+# Absidia hesseltinei B.S. Mehrotra SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Absidia hesseltinii B.S. Mehrotra
+Absidia hesseltinei B.S. Mehrotra
 
 ### Remarks
 null

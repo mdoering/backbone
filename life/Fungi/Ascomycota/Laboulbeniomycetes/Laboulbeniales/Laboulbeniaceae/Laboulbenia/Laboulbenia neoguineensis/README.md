@@ -1,5 +1,4 @@
-Laboulbenia neoguineensis Speg. SPECIES
-=======
+# Laboulbenia neoguineensis Speg. SPECIES
 
 #### Status
 ACCEPTED

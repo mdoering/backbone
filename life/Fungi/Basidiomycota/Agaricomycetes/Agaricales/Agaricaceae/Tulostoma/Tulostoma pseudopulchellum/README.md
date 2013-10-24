@@ -1,5 +1,4 @@
-Tulostoma pseudopulchellum G. Moreno, Altés & J.E. Wright SPECIES
-=======
+# Tulostoma pseudopulchellum G. Moreno, Altés & J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

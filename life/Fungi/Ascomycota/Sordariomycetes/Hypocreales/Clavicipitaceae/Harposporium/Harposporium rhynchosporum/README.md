@@ -1,5 +1,4 @@
-Harposporium rhynchosporum G.L. Barron SPECIES
-=======
+# Harposporium rhynchosporum G.L. Barron SPECIES
 
 #### Status
 ACCEPTED

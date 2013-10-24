@@ -1,14 +1,13 @@
-Entomophthora batkoi Balazy, 1978 SPECIES
-=======
+# Entomophaga batkoi (Balazy) S. Keller, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 40: 138 (1988)
 
 #### Original name
 Entomophthora batkoi Balazy, 1978

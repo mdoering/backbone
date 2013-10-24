@@ -1,5 +1,4 @@
-Sporobolomyces griseoflavus Nakase & M. Suzuki SPECIES
-=======
+# Sporobolomyces griseoflavus Nakase & M. Suzuki SPECIES
 
 #### Status
 ACCEPTED

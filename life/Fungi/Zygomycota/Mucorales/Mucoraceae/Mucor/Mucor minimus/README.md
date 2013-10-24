@@ -1,5 +1,4 @@
-Mucor minimus (Tiegh.) Mig. SPECIES
-=======
+# Mucor minimus (Tiegh.) Mig. SPECIES
 
 #### Status
 ACCEPTED

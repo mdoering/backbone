@@ -1,5 +1,4 @@
-Cocconia guatteriae Rehm, 1890 SPECIES
-=======
+# Cocconia guatteriae Rehm, 1890 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meudonia Bignot, 1990 GENUS
-=======
+# Meudonia Bignot, 1990 GENUS
 
 #### Status
 ACCEPTED

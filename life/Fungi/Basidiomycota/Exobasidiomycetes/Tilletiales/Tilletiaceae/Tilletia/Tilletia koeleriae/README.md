@@ -1,5 +1,4 @@
-Tilletia koeleriae Mundk. SPECIES
-=======
+# Tilletia koeleriae Mundk. SPECIES
 
 #### Status
 ACCEPTED

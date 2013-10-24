@@ -1,5 +1,4 @@
-Ceratocystis curvicollis Olchow. & J. Reid SPECIES
-=======
+# Ceratocystis curvicollis Olchow. & J. Reid SPECIES
 
 #### Status
 ACCEPTED

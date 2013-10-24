@@ -1,5 +1,4 @@
-Spermatodium flavofuscum Trevis. SPECIES
-=======
+# Spermatodium flavofuscum Trevis. SPECIES
 
 #### Status
 ACCEPTED

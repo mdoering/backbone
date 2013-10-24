@@ -1,14 +1,13 @@
-Arachniotus glomeratus E. Müll. & Pacha-Aue, 1968 SPECIES
-=======
+# Arachnotheca glomerata (E. Müll. & Pacha-Aue) Arx, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 15: 554 (1968)
+Persoonia 6(3): 376 (1971)
 
 #### Original name
 Arachniotus glomeratus E. Müll. & Pacha-Aue, 1968

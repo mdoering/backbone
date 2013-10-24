@@ -1,5 +1,4 @@
-Brachymonas denitrificans Hiraishi et al., 1995 SPECIES
-=======
+# Brachymonas denitrificans Hiraishi et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

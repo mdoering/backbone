@@ -1,5 +1,4 @@
-Puccinia balsamitae (F. Strauss) Rabenh. SPECIES
-=======
+# Puccinia balsamitae (F. Strauss) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

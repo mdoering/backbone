@@ -1,5 +1,4 @@
-Nassula granata Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Nassula granata Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Turicella Funke et al., 1994 GENUS
-=======
+# Turicella Funke et al., 1994 GENUS
 
 #### Status
 ACCEPTED

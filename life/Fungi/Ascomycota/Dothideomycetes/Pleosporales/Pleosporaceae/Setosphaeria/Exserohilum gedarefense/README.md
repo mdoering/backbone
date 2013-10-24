@@ -1,14 +1,13 @@
-Exserohilum gedarefensis (El Shafie) Alcorn SPECIES
-=======
+# Exserohilum gedarefense (El Shafie) Alcorn, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 17: 68 (1983)
 
 #### Original name
 Drechslera gedarefensis El Shafie, 1980

@@ -1,5 +1,4 @@
-Anthostomella lophirae C. Ciccar. SPECIES
-=======
+# Anthostomella lophirae C. Ciccar. SPECIES
 
 #### Status
 ACCEPTED

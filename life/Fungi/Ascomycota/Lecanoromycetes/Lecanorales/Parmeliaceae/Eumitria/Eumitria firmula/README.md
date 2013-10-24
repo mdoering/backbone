@@ -1,5 +1,4 @@
-Eumitria firmula Stirt. SPECIES
-=======
+# Eumitria firmula Stirt. SPECIES
 
 #### Status
 ACCEPTED

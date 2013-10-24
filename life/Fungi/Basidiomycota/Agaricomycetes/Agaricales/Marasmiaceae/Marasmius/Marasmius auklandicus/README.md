@@ -1,5 +1,4 @@
-Marasmius auklandicus Henn., 1896 SPECIES
-=======
+# Marasmius auklandicus Henn., 1896 SPECIES
 
 #### Status
 ACCEPTED

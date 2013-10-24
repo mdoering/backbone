@@ -1,5 +1,4 @@
-Anthostoma giganteum Speg. SPECIES
-=======
+# Anthostoma giganteum Speg. SPECIES
 
 #### Status
 ACCEPTED

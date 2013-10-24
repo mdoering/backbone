@@ -1,5 +1,4 @@
-Dexiotricha media SPECIES
-=======
+# Dexiotricha media SPECIES
 
 #### Status
 ACCEPTED

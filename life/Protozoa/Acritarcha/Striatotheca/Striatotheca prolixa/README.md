@@ -1,5 +1,4 @@
-Striatotheca prolixa Molyneux in Molyneux & Rushton, 1988 SPECIES
-=======
+# Striatotheca prolixa Molyneux in Molyneux & Rushton, 1988 SPECIES
 
 #### Status
 ACCEPTED

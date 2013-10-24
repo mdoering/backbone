@@ -1,5 +1,4 @@
-Lindtneria lowei M.J. Larsen, 2000 SPECIES
-=======
+# Lindtneria lowei M.J. Larsen, 2000 SPECIES
 
 #### Status
 ACCEPTED

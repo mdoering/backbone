@@ -1,5 +1,4 @@
-Pleospora graminearum Wehm. SPECIES
-=======
+# Pleospora graminearum Wehm. SPECIES
 
 #### Status
 ACCEPTED

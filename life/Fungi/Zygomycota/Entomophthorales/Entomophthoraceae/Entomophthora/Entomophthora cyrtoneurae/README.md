@@ -1,5 +1,4 @@
-Entomophthora cyrtoneurae Giard SPECIES
-=======
+# Entomophthora cyrtoneurae Giard SPECIES
 
 #### Status
 ACCEPTED

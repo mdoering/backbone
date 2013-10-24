@@ -1,5 +1,4 @@
-Fusarium hippocastani (Corda) Sacc. SPECIES
-=======
+# Fusarium hippocastani (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

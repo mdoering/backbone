@@ -1,5 +1,4 @@
-Puccinia symphoricarpi Harkn. SPECIES
-=======
+# Puccinia symphoricarpi Harkn. SPECIES
 
 #### Status
 ACCEPTED

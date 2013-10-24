@@ -1,8 +1,7 @@
-Urotricha puytoraci Dragesco, Iftode & Fryd-Versavel, 1974 SPECIES
-=======
+# Longitricha puytoraci (Dragesco, Iftode & Fryd-Versavel, 1974) Foissner & Pfister, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Coprinellus P. Karst. GENUS
-=======
+# Coprinellus P. Karst. GENUS
 
 #### Status
 ACCEPTED

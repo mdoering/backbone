@@ -1,5 +1,4 @@
-Diplodia persicina (Sacc.) Grove SPECIES
-=======
+# Diplodia persicina (Sacc.) Grove SPECIES
 
 #### Status
 ACCEPTED

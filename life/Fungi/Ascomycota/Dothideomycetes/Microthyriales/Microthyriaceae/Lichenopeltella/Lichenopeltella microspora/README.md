@@ -1,5 +1,4 @@
-Lichenopeltella microspora Diederich SPECIES
-=======
+# Lichenopeltella microspora Diederich SPECIES
 
 #### Status
 ACCEPTED

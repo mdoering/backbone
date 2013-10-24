@@ -1,5 +1,4 @@
-Amoebidiales Léger & Duboscq ORDER
-=======
+# Amoebidiales Léger & Duboscq ORDER
 
 #### Status
 ACCEPTED

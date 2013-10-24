@@ -1,5 +1,4 @@
-Paradiplodiella aurantiorum (Speg.) Zambett. SPECIES
-=======
+# Paradiplodiella aurantiorum (Speg.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

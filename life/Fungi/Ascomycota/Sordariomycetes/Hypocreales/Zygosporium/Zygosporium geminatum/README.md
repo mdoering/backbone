@@ -1,5 +1,4 @@
-Zygosporium geminatum S. Hughes, 1951 SPECIES
-=======
+# Zygosporium geminatum S. Hughes, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sarcodon fragilis (Pers.) P. Karst., 1881 SPECIES
-=======
+# Dentipellis fragilis (Pers.) Donk, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 3(9): 20 (1881)
+Persoonia 2(2): 233 (1962)
 
 #### Original name
 Hydnum fragile Pers., 1801

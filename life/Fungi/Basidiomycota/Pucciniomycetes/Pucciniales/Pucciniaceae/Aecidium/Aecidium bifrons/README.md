@@ -1,5 +1,4 @@
-Aecidium bifrons var. bifrons VARIETY
-=======
+# Aecidium bifrons DC. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium bifrons var. bifrons
+Aecidium bifrons DC.
 
 ### Remarks
 null

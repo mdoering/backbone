@@ -1,5 +1,4 @@
-Stipitochloris Pascher ex G.Deflandre, 1952 GENUS
-=======
+# Stipitochloris Pascher ex G.Deflandre, 1952 GENUS
 
 #### Status
 ACCEPTED

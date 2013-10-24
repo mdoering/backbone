@@ -1,5 +1,4 @@
-Nitrosospira briensis Winogradsky and Winogradsky, 1933 (Approved Lists, 1980) SPECIES
-=======
+# Nitrosospira briensis Winogradsky and Winogradsky, 1933 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

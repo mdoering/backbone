@@ -1,17 +1,16 @@
-Guepinella Bagl. GENUS
-=======
+# Heppia Nägeli ex A. Massal. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 2: 174 (1870)
+Geneac. Lich. 7-8 (1854)
 
 #### Original name
-Guepinella Bagl.
+Heppia Nägeli ex A. Massal.
 
 ### Remarks
 null

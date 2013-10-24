@@ -1,5 +1,4 @@
-Puccinia katajevii Jørst. SPECIES
-=======
+# Puccinia katajevii Jørst. SPECIES
 
 #### Status
 ACCEPTED

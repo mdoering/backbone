@@ -1,5 +1,4 @@
-Marinobacter squalenivorans Rontani, Mouzdahir, Michotey, Caumette & Bonin, 2003 SPECIES
-=======
+# Marinobacter squalenivorans Rontani, Mouzdahir, Michotey, Caumette & Bonin, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mallomonas calceolus W.H. Bradley SPECIES
-=======
+# Mallomonas calceolus W.H. Bradley SPECIES
 
 #### Status
 ACCEPTED

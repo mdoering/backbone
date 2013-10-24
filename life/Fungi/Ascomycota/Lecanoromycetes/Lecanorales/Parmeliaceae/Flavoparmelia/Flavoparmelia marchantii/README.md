@@ -1,5 +1,4 @@
-Flavoparmelia marchantii Elix, O. Blanco & A. Crespo SPECIES
-=======
+# Flavoparmelia marchantii Elix, O. Blanco & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

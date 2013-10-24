@@ -1,5 +1,4 @@
-Reophax articus SPECIES
-=======
+# Reophax articus SPECIES
 
 #### Status
 ACCEPTED

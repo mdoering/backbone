@@ -1,5 +1,4 @@
-Ocellularia multilocularis Zahlbr. SPECIES
-=======
+# Ocellularia multilocularis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

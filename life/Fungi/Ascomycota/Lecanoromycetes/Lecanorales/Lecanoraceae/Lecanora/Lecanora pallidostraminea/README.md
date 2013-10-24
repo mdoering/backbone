@@ -1,5 +1,4 @@
-Lecanora pallidostraminea subsp. pallidostraminea SUBSPECIES
-=======
+# Lecanora pallidostraminea SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 7: 86 (1890)
+null
 
 #### Original name
-Lecanora pallidostraminea subsp. pallidostraminea
+null
 
 ### Remarks
 null

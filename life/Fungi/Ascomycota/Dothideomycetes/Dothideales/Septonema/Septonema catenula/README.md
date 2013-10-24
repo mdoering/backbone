@@ -1,5 +1,4 @@
-Septonema catenula Lév. SPECIES
-=======
+# Septonema catenula Lév. SPECIES
 
 #### Status
 ACCEPTED

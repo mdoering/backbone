@@ -1,5 +1,4 @@
-Corollospora cinnamomea Jørg. Koch, 1986 SPECIES
-=======
+# Corollospora cinnamomea Jørg. Koch, 1986 SPECIES
 
 #### Status
 ACCEPTED

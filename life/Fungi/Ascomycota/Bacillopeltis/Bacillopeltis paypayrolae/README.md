@@ -1,5 +1,4 @@
-Bacillopeltis paypayrolae Bat., 1957 SPECIES
-=======
+# Bacillopeltis paypayrolae Bat., 1957 SPECIES
 
 #### Status
 ACCEPTED

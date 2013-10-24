@@ -1,5 +1,4 @@
-Amanita asteropus Sabo ex Romagn. SPECIES
-=======
+# Amanita asteropus Sabo ex Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calicium subroscidum (Eitner) Mig. SPECIES
-=======
+# Calicium subroscidum (Eitner) Mig. SPECIES
 
 #### Status
 ACCEPTED

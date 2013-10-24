@@ -1,5 +1,4 @@
-Caloplaca kashmirensis Y. Joshi & Upreti SPECIES
-=======
+# Caloplaca kashmirensis Y. Joshi & Upreti SPECIES
 
 #### Status
 ACCEPTED

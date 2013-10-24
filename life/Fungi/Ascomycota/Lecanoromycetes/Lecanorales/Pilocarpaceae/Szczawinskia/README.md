@@ -1,5 +1,4 @@
-Szczawinskia A. Funk GENUS
-=======
+# Szczawinskia A. Funk GENUS
 
 #### Status
 ACCEPTED

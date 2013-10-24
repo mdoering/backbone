@@ -1,5 +1,4 @@
-Sphaceloma sacchari T.C. Lo SPECIES
-=======
+# Sphaceloma sacchari T.C. Lo SPECIES
 
 #### Status
 ACCEPTED

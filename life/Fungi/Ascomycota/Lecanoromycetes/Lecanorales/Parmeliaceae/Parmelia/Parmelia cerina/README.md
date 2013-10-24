@@ -1,5 +1,4 @@
-Parmelia cerina var. cerina VARIETY
-=======
+# Parmelia cerina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia cerina var. cerina
+null
 
 ### Remarks
 null

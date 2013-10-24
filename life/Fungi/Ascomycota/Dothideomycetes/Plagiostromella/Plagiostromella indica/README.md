@@ -1,5 +1,4 @@
-Plagiostromella indica S.K. Bose & E. Müll., 1979 SPECIES
-=======
+# Plagiostromella indica S.K. Bose & E. Müll., 1979 SPECIES
 
 #### Status
 ACCEPTED

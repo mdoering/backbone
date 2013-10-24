@@ -1,5 +1,4 @@
-Coscinodiscus nitidulus Grunow, 1876 SPECIES
-=======
+# Coscinodiscus nitidulus Grunow, 1876 SPECIES
 
 #### Status
 ACCEPTED

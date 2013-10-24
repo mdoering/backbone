@@ -1,5 +1,4 @@
-Phlegmacium velenovskyi M.M. Moser SPECIES
-=======
+# Phlegmacium velenovskyi M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

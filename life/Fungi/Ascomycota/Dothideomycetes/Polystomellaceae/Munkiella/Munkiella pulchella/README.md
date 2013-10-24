@@ -1,5 +1,4 @@
-Munkiella pulchella Speg. SPECIES
-=======
+# Munkiella pulchella Speg. SPECIES
 
 #### Status
 ACCEPTED

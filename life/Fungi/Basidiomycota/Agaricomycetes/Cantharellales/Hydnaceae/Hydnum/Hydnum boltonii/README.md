@@ -1,5 +1,4 @@
-Hydnum boltonii Spreng. SPECIES
-=======
+# Hydnum boltonii Spreng. SPECIES
 
 #### Status
 ACCEPTED

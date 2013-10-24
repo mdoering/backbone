@@ -1,5 +1,4 @@
-Lecania jamaicensis Riddle SPECIES
-=======
+# Lecania jamaicensis Riddle SPECIES
 
 #### Status
 ACCEPTED

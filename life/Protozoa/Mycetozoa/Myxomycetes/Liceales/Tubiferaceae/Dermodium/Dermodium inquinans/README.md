@@ -1,5 +1,4 @@
-Dermodium inquinans Fr. SPECIES
-=======
+# Dermodium inquinans Fr. SPECIES
 
 #### Status
 ACCEPTED

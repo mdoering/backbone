@@ -1,5 +1,4 @@
-Graphium albonigrescens J. Lindau SPECIES
-=======
+# Graphium albonigrescens J. Lindau SPECIES
 
 #### Status
 ACCEPTED

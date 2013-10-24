@@ -1,5 +1,4 @@
-Cortinarius lividoochraceus (Berk.) Berk. SPECIES
-=======
+# Cortinarius lividoochraceus (Berk.) Berk. SPECIES
 
 #### Status
 ACCEPTED

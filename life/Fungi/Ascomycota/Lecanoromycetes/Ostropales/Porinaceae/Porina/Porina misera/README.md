@@ -1,5 +1,4 @@
-Porina misera Vain. SPECIES
-=======
+# Porina misera Vain. SPECIES
 
 #### Status
 ACCEPTED

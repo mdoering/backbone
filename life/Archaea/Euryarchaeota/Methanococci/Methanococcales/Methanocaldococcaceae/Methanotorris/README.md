@@ -1,5 +1,4 @@
-Methanotorris Whitman, 2002 GENUS
-=======
+# Methanotorris Whitman, 2002 GENUS
 
 #### Status
 ACCEPTED

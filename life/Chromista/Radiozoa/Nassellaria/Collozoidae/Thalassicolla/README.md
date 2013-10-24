@@ -1,5 +1,4 @@
-Thalassicolla Huxley, 1851 GENUS
-=======
+# Thalassicolla Huxley, 1851 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus peroxydatus Berk. SPECIES
-=======
+# Agaricus peroxydatus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum consobrinum (P. Karst.) Sacc. & Trotter SPECIES
-=======
+# Stereum consobrinum (P. Karst.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crocynia galbana Hue SPECIES
-=======
+# Crocynia galbana Hue SPECIES
 
 #### Status
 ACCEPTED

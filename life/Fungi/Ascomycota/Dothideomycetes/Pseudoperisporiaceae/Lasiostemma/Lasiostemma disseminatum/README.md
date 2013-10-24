@@ -1,14 +1,13 @@
-Lasiostemma disseminaia (Syd.) Toro SPECIES
-=======
+# Lasiostemma disseminatum (Syd.) Toro SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Agric. Univ. P. Rico 23(2): 85 (1939)
 
 #### Original name
 Dimeriella disseminata Syd.

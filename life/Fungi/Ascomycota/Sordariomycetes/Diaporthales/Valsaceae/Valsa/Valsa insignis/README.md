@@ -1,5 +1,4 @@
-Valsa insignis Nitschke SPECIES
-=======
+# Valsa insignis Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanographa rinodinae (Vezda) R. Sant. SPECIES
-=======
+# Lecanographa rinodinae (Vezda) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

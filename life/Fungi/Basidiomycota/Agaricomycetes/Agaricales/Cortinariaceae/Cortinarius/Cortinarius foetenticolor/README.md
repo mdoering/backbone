@@ -1,5 +1,4 @@
-Cortinarius foetenticolor Rob. Henry SPECIES
-=======
+# Cortinarius foetenticolor Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

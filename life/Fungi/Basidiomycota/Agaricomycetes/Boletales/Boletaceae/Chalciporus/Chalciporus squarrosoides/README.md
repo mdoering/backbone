@@ -1,5 +1,4 @@
-Chalciporus squarrosoides (Snell & E.A. Dick) L.D. Gómez SPECIES
-=======
+# Chalciporus squarrosoides (Snell & E.A. Dick) L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

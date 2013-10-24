@@ -1,5 +1,4 @@
-Polystictus intonsus (Berk.) Cooke SPECIES
-=======
+# Polystictus intonsus (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylohypha (E.M. Fries) E.W. Mason ex Deighton, 1960 GENUS
-=======
+# Xylohypha (E.M. Fries) E.W. Mason ex Deighton, 1960 GENUS
 
 #### Status
 ACCEPTED

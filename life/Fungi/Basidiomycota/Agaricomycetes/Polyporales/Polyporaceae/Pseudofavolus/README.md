@@ -1,5 +1,4 @@
-Pseudofavolus Pat. GENUS
-=======
+# Pseudofavolus Pat. GENUS
 
 #### Status
 ACCEPTED

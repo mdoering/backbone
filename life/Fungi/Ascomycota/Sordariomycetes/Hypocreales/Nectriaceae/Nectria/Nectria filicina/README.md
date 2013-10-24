@@ -1,5 +1,4 @@
-Nectria filicina Cooke & Harkn. SPECIES
-=======
+# Nectria filicina Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

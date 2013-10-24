@@ -1,5 +1,4 @@
-Echinosphaeridium A.H. Knoll, 1992 GENUS
-=======
+# Echinosphaeridium A.H. Knoll, 1992 GENUS
 
 #### Status
 ACCEPTED

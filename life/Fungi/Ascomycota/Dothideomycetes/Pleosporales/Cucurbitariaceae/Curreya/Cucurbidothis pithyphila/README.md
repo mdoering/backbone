@@ -1,5 +1,4 @@
-Cucurbidothis pithyphila (Schmidt & Kunze) Petr. SPECIES
-=======
+# Cucurbidothis pithyphila (Schmidt & Kunze) Petr. SPECIES
 
 #### Status
 DOUBTFUL

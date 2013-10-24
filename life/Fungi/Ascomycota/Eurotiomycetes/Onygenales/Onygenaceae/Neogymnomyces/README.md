@@ -1,5 +1,4 @@
-Neogymnomyces G.F. Orr GENUS
-=======
+# Neogymnomyces G.F. Orr GENUS
 
 #### Status
 ACCEPTED

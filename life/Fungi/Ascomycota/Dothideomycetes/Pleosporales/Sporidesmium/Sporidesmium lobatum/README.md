@@ -1,14 +1,13 @@
-Spegazzinia lobata (Berk. & Broome) Höhn., 1903 SPECIES
-=======
+# Sporidesmium lobatum Berk. & Broome, 1866 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 1(5): 414 (1903)
+Ann. Mag. nat. Hist. , Ser. 3 18: no. 1146 (1866)
 
 #### Original name
 Sporidesmium lobatum Berk. & Broome, 1866

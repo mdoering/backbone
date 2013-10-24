@@ -1,5 +1,4 @@
-Entoloma pinicola Murrill SPECIES
-=======
+# Entoloma pinicola Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Coprinus boudieri Quél., 1877 SPECIES
-=======
+# Coprinellus angulatus (Peck) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 24: 321 (1877)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 232 (2001)
 
 #### Original name
-Coprinus boudieri Quél., 1877
+Coprinus angulatus Peck, 1874
 
 ### Remarks
 null

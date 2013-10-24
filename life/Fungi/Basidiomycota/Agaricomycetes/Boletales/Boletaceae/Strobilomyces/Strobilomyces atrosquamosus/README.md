@@ -1,5 +1,4 @@
-Strobilomyces atrosquamosus J.Z. Ying & H.A. Wen SPECIES
-=======
+# Strobilomyces atrosquamosus J.Z. Ying & H.A. Wen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma odoriferum f. odoriferum FORM
-=======
+# Entoloma odoriferum Hesler SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia, Beih. 23: 118 (1967)
 
 #### Original name
-Entoloma odoriferum f. odoriferum
+Entoloma odoriferum Hesler
 
 ### Remarks
 null

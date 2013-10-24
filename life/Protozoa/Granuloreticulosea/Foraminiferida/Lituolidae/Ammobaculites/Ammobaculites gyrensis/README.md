@@ -1,5 +1,4 @@
-Ammobaculites gyrensis Reynolds, 1982 SPECIES
-=======
+# Ammobaculites gyrensis Reynolds, 1982 SPECIES
 
 #### Status
 ACCEPTED

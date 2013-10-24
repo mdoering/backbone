@@ -1,5 +1,4 @@
-Cercospora gardeniae Boedijn SPECIES
-=======
+# Cercospora gardeniae Boedijn SPECIES
 
 #### Status
 ACCEPTED

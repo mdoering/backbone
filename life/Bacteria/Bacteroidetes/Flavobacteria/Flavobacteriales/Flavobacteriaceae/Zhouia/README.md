@@ -1,5 +1,4 @@
-Zhouia Liu, Wang, Dai, Liu & Liu, 2006 GENUS
-=======
+# Zhouia Liu, Wang, Dai, Liu & Liu, 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus explanatus Britzelm. SPECIES
-=======
+# Agaricus explanatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporhelminthium stuckertii (Speg.) Speg. SPECIES
-=======
+# Sporhelminthium stuckertii (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

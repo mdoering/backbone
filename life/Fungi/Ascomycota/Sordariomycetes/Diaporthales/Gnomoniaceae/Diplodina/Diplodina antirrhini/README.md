@@ -1,5 +1,4 @@
-Diplodina antirrhini Fautrey SPECIES
-=======
+# Diplodina antirrhini Fautrey SPECIES
 
 #### Status
 ACCEPTED

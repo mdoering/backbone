@@ -1,5 +1,4 @@
-Conchophthirus curtus Engelmann, 1861 SPECIES
-=======
+# Conchophthirus curtus Engelmann, 1861 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina crassa P. M. McCarthy SPECIES
-=======
+# Porina crassa P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

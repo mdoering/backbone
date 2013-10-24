@@ -1,5 +1,4 @@
-Agaricus globiger Berk. SPECIES
-=======
+# Agaricus globiger Berk. SPECIES
 
 #### Status
 ACCEPTED

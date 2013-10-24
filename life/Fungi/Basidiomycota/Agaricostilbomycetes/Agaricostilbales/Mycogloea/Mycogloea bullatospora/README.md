@@ -1,5 +1,4 @@
-Mycogloea bullatospora Bandoni, 1998 SPECIES
-=======
+# Mycogloea bullatospora Bandoni, 1998 SPECIES
 
 #### Status
 ACCEPTED

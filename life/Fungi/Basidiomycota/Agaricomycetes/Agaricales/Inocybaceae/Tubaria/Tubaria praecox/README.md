@@ -1,5 +1,4 @@
-Tubaria praecox Murrill SPECIES
-=======
+# Tubaria praecox Murrill SPECIES
 
 #### Status
 ACCEPTED

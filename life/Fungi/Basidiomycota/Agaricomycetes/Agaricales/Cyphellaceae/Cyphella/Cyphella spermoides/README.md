@@ -1,5 +1,4 @@
-Cyphella spermoides Berk. & Broome SPECIES
-=======
+# Cyphella spermoides Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

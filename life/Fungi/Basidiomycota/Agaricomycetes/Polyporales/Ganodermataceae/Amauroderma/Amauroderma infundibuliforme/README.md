@@ -1,5 +1,4 @@
-Amauroderma infundibuliforme Wakef., 1917 SPECIES
-=======
+# Amauroderma infundibuliforme Wakef., 1917 SPECIES
 
 #### Status
 ACCEPTED

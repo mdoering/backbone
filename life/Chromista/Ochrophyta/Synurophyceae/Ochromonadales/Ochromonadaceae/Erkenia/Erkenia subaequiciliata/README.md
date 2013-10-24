@@ -1,5 +1,4 @@
-Erkenia subaequiciliata Skuja SPECIES
-=======
+# Erkenia subaequiciliata Skuja SPECIES
 
 #### Status
 ACCEPTED

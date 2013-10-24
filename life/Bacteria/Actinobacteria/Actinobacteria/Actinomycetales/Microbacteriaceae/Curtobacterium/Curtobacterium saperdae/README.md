@@ -1,5 +1,4 @@
-Curtobacterium saperdae (Lysenko, 1959) Yamada and Komagata, 1972 (Approved Lists, 1980) SPECIES
-=======
+# Curtobacterium saperdae (Lysenko, 1959) Yamada and Komagata, 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

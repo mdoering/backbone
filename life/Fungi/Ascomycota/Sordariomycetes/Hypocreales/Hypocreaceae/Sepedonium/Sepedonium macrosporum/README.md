@@ -1,5 +1,4 @@
-Sepedonium macrosporum Peck SPECIES
-=======
+# Sepedonium macrosporum Peck SPECIES
 
 #### Status
 ACCEPTED

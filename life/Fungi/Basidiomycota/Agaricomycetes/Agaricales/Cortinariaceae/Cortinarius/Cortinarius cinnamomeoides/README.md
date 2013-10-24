@@ -1,5 +1,4 @@
-Cortinarius cinnamomeoides Hongo SPECIES
-=======
+# Cortinarius cinnamomeoides Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithocia detersa (Kremp.) Flagey SPECIES
-=======
+# Lithocia detersa (Kremp.) Flagey SPECIES
 
 #### Status
 ACCEPTED

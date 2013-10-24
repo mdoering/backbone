@@ -1,5 +1,4 @@
-Clitocybe concavoides Velen. SPECIES
-=======
+# Clitocybe concavoides Velen. SPECIES
 
 #### Status
 ACCEPTED

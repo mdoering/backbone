@@ -1,5 +1,4 @@
-Didymosphaeria halimodendri Murashk. SPECIES
-=======
+# Didymosphaeria halimodendri Murashk. SPECIES
 
 #### Status
 ACCEPTED

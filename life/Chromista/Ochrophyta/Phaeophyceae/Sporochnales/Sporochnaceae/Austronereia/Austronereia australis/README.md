@@ -1,8 +1,7 @@
-Nereia australis (Harvey) Harvey SPECIES
-=======
+# Austronereia australis (Harvey) Womersley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

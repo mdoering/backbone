@@ -1,8 +1,7 @@
-Angustofolliculina spirorbis (Dons, 1912) Silen, 1947 SPECIES
-=======
+# Lagotia spirorbis Dons, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

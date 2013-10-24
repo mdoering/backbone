@@ -1,14 +1,13 @@
-Phacidium macrocarpum Pat., 1892 SPECIES
-=======
+# Neophacidium macrocarpum (Pat.) Petr., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 8: 126 (1892)
+Sydowia 4(1-6): 333 (1950)
 
 #### Original name
 Phacidium macrocarpum Pat., 1892

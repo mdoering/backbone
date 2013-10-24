@@ -1,5 +1,4 @@
-Clitocybe aquatica Bonn. {?} & Peck SPECIES
-=======
+# Clitocybe aquatica Bonn. {?} & Peck SPECIES
 
 #### Status
 ACCEPTED

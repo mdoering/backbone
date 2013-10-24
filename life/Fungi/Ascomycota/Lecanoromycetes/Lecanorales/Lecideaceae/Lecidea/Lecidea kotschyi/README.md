@@ -1,5 +1,4 @@
-Lecidea kotschyi Kremp. SPECIES
-=======
+# Lecidea kotschyi Kremp. SPECIES
 
 #### Status
 ACCEPTED

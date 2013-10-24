@@ -1,5 +1,4 @@
-Neottiella microspora Cooke & Massee, 1893 SPECIES
-=======
+# Neottiella microspora Cooke & Massee, 1893 SPECIES
 
 #### Status
 ACCEPTED

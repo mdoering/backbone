@@ -1,5 +1,4 @@
-Napicladium valdivianum Speg. SPECIES
-=======
+# Napicladium valdivianum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coelomomyces tuberculatus Bland & Rodhain SPECIES
-=======
+# Coelomomyces tuberculatus Bland & Rodhain SPECIES
 
 #### Status
 ACCEPTED

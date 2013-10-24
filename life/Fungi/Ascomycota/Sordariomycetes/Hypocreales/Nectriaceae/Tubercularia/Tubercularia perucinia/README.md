@@ -1,5 +1,4 @@
-Tubercularia perucinia (Wittm.) Sacc. SPECIES
-=======
+# Tubercularia perucinia (Wittm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

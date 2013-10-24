@@ -1,5 +1,4 @@
-Diplodina putoriae Tassi SPECIES
-=======
+# Diplodina putoriae Tassi SPECIES
 
 #### Status
 ACCEPTED

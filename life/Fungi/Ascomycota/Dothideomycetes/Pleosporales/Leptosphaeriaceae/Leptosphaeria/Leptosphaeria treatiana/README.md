@@ -1,5 +1,4 @@
-Leptosphaeria treatiana Sacc. SPECIES
-=======
+# Leptosphaeria treatiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus hydrogrammus var. hydrogrammus Bull., 1792 VARIETY
-=======
+# Clitocybe hydrogramma (Bull. & A. Venturi) P. Kumm., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herb. Fr. 12: tab. 564 (1792)
+Führ. Pilzk. (Zwickau) 122 (1871)
 
 #### Original name
-Agaricus hydrogrammus var. hydrogrammus Bull., 1792
+Agaricus hydrogrammus Bull., 1792
 
 ### Remarks
 null

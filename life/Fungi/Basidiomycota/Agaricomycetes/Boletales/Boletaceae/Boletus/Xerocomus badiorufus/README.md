@@ -1,5 +1,4 @@
-Xerocomus badiorufus (R. Heim) Bon SPECIES
-=======
+# Xerocomus badiorufus (R. Heim) Bon SPECIES
 
 #### Status
 ACCEPTED

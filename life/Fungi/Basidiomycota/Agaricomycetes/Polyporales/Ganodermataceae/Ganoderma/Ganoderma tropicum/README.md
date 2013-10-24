@@ -1,14 +1,13 @@
-Polyporus tropicus Jungh., 1838 SPECIES
-=======
+# Ganoderma tropicum (Jungh.) Bres., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Praemissa in floram cryptogamicam Javae insulae (Batavia) 63 (1838)
+Annls mycol. 8(6): 586 (1910)
 
 #### Original name
 Polyporus tropicus Jungh., 1838

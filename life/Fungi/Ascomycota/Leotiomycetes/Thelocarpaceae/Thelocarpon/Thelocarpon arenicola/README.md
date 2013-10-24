@@ -1,5 +1,4 @@
-Thelocarpon arenicola Vain. SPECIES
-=======
+# Thelocarpon arenicola Vain. SPECIES
 
 #### Status
 ACCEPTED

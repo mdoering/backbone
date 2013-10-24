@@ -1,5 +1,4 @@
-Caeoma lychnideatum Link SPECIES
-=======
+# Caeoma lychnideatum Link SPECIES
 
 #### Status
 ACCEPTED

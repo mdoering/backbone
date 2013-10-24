@@ -1,5 +1,4 @@
-Anthostomella decaspermi Sawada ex L.T. Li & W.H. Hsieh SPECIES
-=======
+# Anthostomella decaspermi Sawada ex L.T. Li & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemimycena gigaspora Dennis SPECIES
-=======
+# Hemimycena gigaspora Dennis SPECIES
 
 #### Status
 ACCEPTED

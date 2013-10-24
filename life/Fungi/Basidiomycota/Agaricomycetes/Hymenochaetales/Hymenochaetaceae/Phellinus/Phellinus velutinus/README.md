@@ -1,5 +1,4 @@
-Phellinus velutinus T. Hatt. & Ryvarden, 1996 SPECIES
-=======
+# Phellinus velutinus T. Hatt. & Ryvarden, 1996 SPECIES
 
 #### Status
 ACCEPTED

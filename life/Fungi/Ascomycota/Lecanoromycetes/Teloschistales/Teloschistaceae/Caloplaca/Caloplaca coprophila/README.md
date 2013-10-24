@@ -1,5 +1,4 @@
-Caloplaca coprophila (Desm.) Zahlbr. SPECIES
-=======
+# Caloplaca coprophila (Desm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

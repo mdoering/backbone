@@ -1,17 +1,16 @@
-Nematomyces coprophila Faurel & Schotter SPECIES
-=======
+# Nematomyces coprophilus Faurel & Schotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 30(5): 345 (1966)
 
 #### Original name
-Nematomyces coprophila Faurel & Schotter
+Nematomyces coprophilus Faurel & Schotter
 
 ### Remarks
 null

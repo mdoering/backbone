@@ -1,5 +1,4 @@
-Trichosporon granulosum (Kambay.) M. Ota SPECIES
-=======
+# Trichosporon granulosum (Kambay.) M. Ota SPECIES
 
 #### Status
 ACCEPTED

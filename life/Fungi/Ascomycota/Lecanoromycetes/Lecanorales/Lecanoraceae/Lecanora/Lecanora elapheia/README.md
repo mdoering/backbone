@@ -1,5 +1,4 @@
-Lecanora elapheia Stizenb. SPECIES
-=======
+# Lecanora elapheia Stizenb. SPECIES
 
 #### Status
 ACCEPTED

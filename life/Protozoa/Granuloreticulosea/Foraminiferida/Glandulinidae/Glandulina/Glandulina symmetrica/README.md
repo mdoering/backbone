@@ -1,5 +1,4 @@
-Glandulina symmetrica (McCulloch, 1977) SPECIES
-=======
+# Glandulina symmetrica (McCulloch, 1977) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopadium secubans (Stirt.) Zahlbr. SPECIES
-=======
+# Lopadium secubans (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polypilus conglobatus P. Karst. SPECIES
-=======
+# Polypilus conglobatus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia hassei Imshaug SPECIES
-=======
+# Buellia hassei Imshaug SPECIES
 
 #### Status
 ACCEPTED

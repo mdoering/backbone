@@ -1,5 +1,4 @@
-Cercospora sarcocephali Vienn.-Bourg. SPECIES
-=======
+# Cercospora sarcocephali Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

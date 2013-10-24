@@ -1,5 +1,4 @@
-Nowellia F. Stevens, 1924 GENUS
-=======
+# Nowellia F. Stevens, 1924 GENUS
 
 #### Status
 ACCEPTED

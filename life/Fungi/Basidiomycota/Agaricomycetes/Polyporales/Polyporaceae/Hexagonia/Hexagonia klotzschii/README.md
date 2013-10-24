@@ -1,5 +1,4 @@
-Hexagonia klotzschii f. klotzschii FORM
-=======
+# Hexagonia klotzschii (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 6: 357 (1888)
 
 #### Original name
-Hexagonia klotzschii f. klotzschii
+Lenzites klotzschii Berk.
 
 ### Remarks
 null

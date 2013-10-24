@@ -1,5 +1,4 @@
-Leptosphaeria uncinata Niessl SPECIES
-=======
+# Leptosphaeria uncinata Niessl SPECIES
 
 #### Status
 ACCEPTED

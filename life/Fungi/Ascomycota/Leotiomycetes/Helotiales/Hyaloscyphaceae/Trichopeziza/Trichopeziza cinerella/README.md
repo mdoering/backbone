@@ -1,5 +1,4 @@
-Trichopeziza cinerella (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Trichopeziza cinerella (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

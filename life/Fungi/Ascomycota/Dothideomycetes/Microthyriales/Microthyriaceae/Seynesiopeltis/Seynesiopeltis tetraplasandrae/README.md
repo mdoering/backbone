@@ -1,5 +1,4 @@
-Seynesiopeltis tetraplasandrae F. Stevens & R.W. Ryan, 1925 SPECIES
-=======
+# Seynesiopeltis tetraplasandrae F. Stevens & R.W. Ryan, 1925 SPECIES
 
 #### Status
 ACCEPTED

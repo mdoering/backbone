@@ -1,5 +1,4 @@
-Laboulbenia guerinii C.P. Robin SPECIES
-=======
+# Laboulbenia guerinii C.P. Robin SPECIES
 
 #### Status
 ACCEPTED

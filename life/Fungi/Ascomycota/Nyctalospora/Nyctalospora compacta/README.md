@@ -1,5 +1,4 @@
-Nyctalospora compacta E.F. Morris, 1972 SPECIES
-=======
+# Nyctalospora compacta E.F. Morris, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea meridionalis Zahlbr. SPECIES
-=======
+# Usnea meridionalis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

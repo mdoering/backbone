@@ -1,5 +1,4 @@
-Iresine viroid 1 SPECIES
-=======
+# Iresine viroid 1 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phallus retusus (Kalchbr.) Lloyd SPECIES
-=======
+# Phallus retusus (Kalchbr.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

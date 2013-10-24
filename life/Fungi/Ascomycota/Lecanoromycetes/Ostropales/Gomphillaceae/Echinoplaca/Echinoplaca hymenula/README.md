@@ -1,5 +1,4 @@
-Echinoplaca hymenula (Müll. Arg.) R. Sant. SPECIES
-=======
+# Echinoplaca hymenula (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

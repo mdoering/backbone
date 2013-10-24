@@ -1,5 +1,4 @@
-Oospora nectricola Richon SPECIES
-=======
+# Oospora nectricola Richon SPECIES
 
 #### Status
 ACCEPTED

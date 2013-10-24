@@ -1,5 +1,4 @@
-Amphitrichum echinellum (Ellis & Everh.) Kuntze SPECIES
-=======
+# Amphitrichum echinellum (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

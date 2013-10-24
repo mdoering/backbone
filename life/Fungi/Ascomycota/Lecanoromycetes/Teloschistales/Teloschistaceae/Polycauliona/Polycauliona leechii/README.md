@@ -1,5 +1,4 @@
-Polycauliona leechii C.W. Dodge SPECIES
-=======
+# Polycauliona leechii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

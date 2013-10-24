@@ -1,5 +1,4 @@
-Polystictus menziesii Berk. SPECIES
-=======
+# Polystictus menziesii Berk. SPECIES
 
 #### Status
 ACCEPTED

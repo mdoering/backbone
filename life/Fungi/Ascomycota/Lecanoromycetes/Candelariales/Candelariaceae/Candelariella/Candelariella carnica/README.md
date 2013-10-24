@@ -1,5 +1,4 @@
-Candelariella carnica Poelt SPECIES
-=======
+# Candelariella carnica Poelt SPECIES
 
 #### Status
 ACCEPTED

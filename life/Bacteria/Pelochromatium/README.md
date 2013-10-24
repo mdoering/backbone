@@ -1,5 +1,4 @@
-Pelochromatium Lauterborn GENUS
-=======
+# Pelochromatium Lauterborn GENUS
 
 #### Status
 ACCEPTED

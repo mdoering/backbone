@@ -1,5 +1,4 @@
-Icmadophila coronata Müll. Arg. SPECIES
-=======
+# Icmadophila coronata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

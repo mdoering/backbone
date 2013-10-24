@@ -1,5 +1,4 @@
-Camarosporium tauriae Gucevic SPECIES
-=======
+# Camarosporium tauriae Gucevic SPECIES
 
 #### Status
 ACCEPTED

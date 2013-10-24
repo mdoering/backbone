@@ -1,5 +1,4 @@
-Helotium sauciellum P. Karst. SPECIES
-=======
+# Helotium sauciellum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

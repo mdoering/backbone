@@ -1,5 +1,4 @@
-Xyloma montiniae Fr. SPECIES
-=======
+# Xyloma montiniae Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pholiota pudica var. squarrulosa Sacc. VARIETY
-=======
+# Pholiota pudica (Bull.) Gillet, 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 742 (1887)
+Hyménomycètes (Alençon) 439 (1876)
 
 #### Original name
-Pholiota pudica var. squarrulosa Sacc.
+Agaricus pudicus Bull., 1793
 
 ### Remarks
 null

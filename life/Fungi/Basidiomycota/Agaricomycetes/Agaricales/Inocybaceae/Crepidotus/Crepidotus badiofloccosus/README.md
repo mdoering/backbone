@@ -1,5 +1,4 @@
-Crepidotus badiofloccosus S. Imai SPECIES
-=======
+# Crepidotus badiofloccosus S. Imai SPECIES
 
 #### Status
 ACCEPTED

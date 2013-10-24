@@ -1,5 +1,4 @@
-Pyrenula mastophoroides (Nyl.) Zahlbr. SPECIES
-=======
+# Pyrenula mastophoroides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

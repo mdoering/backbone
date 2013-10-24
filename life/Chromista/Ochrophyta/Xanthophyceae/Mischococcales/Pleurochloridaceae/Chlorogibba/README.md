@@ -1,5 +1,4 @@
-Chlorogibba Geitler, 1928 GENUS
-=======
+# Chlorogibba Geitler, 1928 GENUS
 
 #### Status
 ACCEPTED

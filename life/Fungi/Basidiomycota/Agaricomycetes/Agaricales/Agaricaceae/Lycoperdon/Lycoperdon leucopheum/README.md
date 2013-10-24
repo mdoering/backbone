@@ -1,5 +1,4 @@
-Lycoperdon leucopheum P. Micheli SPECIES
-=======
+# Lycoperdon leucopheum P. Micheli SPECIES
 
 #### Status
 ACCEPTED

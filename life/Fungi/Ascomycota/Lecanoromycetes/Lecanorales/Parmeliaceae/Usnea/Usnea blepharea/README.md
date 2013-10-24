@@ -1,5 +1,4 @@
-Usnea blepharea Motyka SPECIES
-=======
+# Usnea blepharea Motyka SPECIES
 
 #### Status
 ACCEPTED

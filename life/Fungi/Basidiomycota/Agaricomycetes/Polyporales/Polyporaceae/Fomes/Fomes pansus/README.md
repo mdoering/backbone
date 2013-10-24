@@ -1,5 +1,4 @@
-Fomes pansus (Berk.) Sacc. SPECIES
-=======
+# Fomes pansus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

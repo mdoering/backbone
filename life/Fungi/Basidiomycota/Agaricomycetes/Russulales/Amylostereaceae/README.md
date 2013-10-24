@@ -1,5 +1,4 @@
-Amylostereaceae Boidin, Mugnier & Canales FAMILY
-=======
+# Amylostereaceae Boidin, Mugnier & Canales FAMILY
 
 #### Status
 ACCEPTED

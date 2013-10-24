@@ -1,5 +1,4 @@
-Usnea dorogawensis Asahina SPECIES
-=======
+# Usnea dorogawensis Asahina SPECIES
 
 #### Status
 ACCEPTED

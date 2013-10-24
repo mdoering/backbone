@@ -1,5 +1,4 @@
-Astrothelium diplocarpoides Müll. Arg. SPECIES
-=======
+# Astrothelium diplocarpoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

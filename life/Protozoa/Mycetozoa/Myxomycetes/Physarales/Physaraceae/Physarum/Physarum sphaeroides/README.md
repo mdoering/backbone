@@ -1,5 +1,4 @@
-Physarum sphaeroides Chevall. SPECIES
-=======
+# Physarum sphaeroides Chevall. SPECIES
 
 #### Status
 ACCEPTED

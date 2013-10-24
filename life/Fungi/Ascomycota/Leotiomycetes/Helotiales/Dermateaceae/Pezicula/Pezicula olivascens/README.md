@@ -1,5 +1,4 @@
-Pezicula olivascens (Rehm) Seaver SPECIES
-=======
+# Pezicula olivascens (Rehm) Seaver SPECIES
 
 #### Status
 ACCEPTED

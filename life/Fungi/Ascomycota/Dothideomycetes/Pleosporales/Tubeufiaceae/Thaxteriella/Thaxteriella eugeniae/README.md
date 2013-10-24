@@ -1,5 +1,4 @@
-Thaxteriella eugeniae Subhedar & V.G. Rao SPECIES
-=======
+# Thaxteriella eugeniae Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

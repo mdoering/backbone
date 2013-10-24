@@ -1,5 +1,4 @@
-Xylaria rickii Theiss. SPECIES
-=======
+# Xylaria rickii Theiss. SPECIES
 
 #### Status
 ACCEPTED

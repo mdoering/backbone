@@ -1,14 +1,13 @@
-Dialonectria richoni (Sacc.) Cooke SPECIES
-=======
+# Dialonectria richonii (Sacc.) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 12(no. 64): 111 (1884)
 
 #### Original name
 Calonectria richonii Sacc.

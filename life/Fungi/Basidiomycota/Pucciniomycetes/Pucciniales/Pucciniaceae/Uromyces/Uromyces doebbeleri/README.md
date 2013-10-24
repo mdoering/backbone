@@ -1,17 +1,16 @@
-Uromyces doebbelerii Berndt SPECIES
-=======
+# Uromyces doebbeleri Berndt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Frontiers in Basidiomycote Mycology 227 (2004)
 
 #### Original name
-Uromyces doebbelerii Berndt
+Uromyces doebbeleri Berndt
 
 ### Remarks
 null

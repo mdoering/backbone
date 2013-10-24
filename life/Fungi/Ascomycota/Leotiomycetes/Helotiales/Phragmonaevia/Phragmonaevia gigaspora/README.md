@@ -1,5 +1,4 @@
-Phragmonaevia gigaspora Gremmen SPECIES
-=======
+# Phragmonaevia gigaspora Gremmen SPECIES
 
 #### Status
 ACCEPTED

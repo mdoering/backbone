@@ -1,5 +1,4 @@
-Karschia buellioides (Sacc.) Sacc. SPECIES
-=======
+# Karschia buellioides (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

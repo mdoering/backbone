@@ -1,5 +1,4 @@
-Frondisphaeria joanneae J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Frondisphaeria joanneae J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

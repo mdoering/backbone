@@ -1,5 +1,4 @@
-Depazea lychnidis Kunze & J.C. Schmidt SPECIES
-=======
+# Depazea lychnidis Kunze & J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

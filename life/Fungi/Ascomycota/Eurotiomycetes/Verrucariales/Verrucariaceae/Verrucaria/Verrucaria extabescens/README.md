@@ -1,5 +1,4 @@
-Verrucaria extabescens Nyl. SPECIES
-=======
+# Verrucaria extabescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

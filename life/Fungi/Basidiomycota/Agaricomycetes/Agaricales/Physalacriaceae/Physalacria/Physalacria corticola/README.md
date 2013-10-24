@@ -1,5 +1,4 @@
-Physalacria corticola Corner, 1950 SPECIES
-=======
+# Physalacria corticola Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

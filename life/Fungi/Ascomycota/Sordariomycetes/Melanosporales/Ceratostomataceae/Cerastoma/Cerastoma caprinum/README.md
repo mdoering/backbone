@@ -1,5 +1,4 @@
-Cerastoma caprinum (Fr.) Quél. SPECIES
-=======
+# Cerastoma caprinum (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

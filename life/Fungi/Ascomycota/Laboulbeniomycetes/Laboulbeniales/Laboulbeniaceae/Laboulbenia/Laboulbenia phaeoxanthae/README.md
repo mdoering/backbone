@@ -1,5 +1,4 @@
-Laboulbenia phaeoxanthae W. Rossi & E. Arndt SPECIES
-=======
+# Laboulbenia phaeoxanthae W. Rossi & E. Arndt SPECIES
 
 #### Status
 ACCEPTED

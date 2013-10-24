@@ -1,5 +1,4 @@
-Stilbella setiformis (Vahl) Petch SPECIES
-=======
+# Stilbella setiformis (Vahl) Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma candidum (Cooke & Massee) Pegler SPECIES
-=======
+# Tricholoma candidum (Cooke & Massee) Pegler SPECIES
 
 #### Status
 ACCEPTED

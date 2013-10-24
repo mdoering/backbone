@@ -1,5 +1,4 @@
-Dimeromyces oochroti W. Rossi & Santam. SPECIES
-=======
+# Dimeromyces oochroti W. Rossi & Santam. SPECIES
 
 #### Status
 ACCEPTED

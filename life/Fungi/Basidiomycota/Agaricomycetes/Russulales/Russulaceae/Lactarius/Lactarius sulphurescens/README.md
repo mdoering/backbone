@@ -1,5 +1,4 @@
-Lactarius sulphurescens Verbeken & E. Horak SPECIES
-=======
+# Lactarius sulphurescens Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

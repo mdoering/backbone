@@ -1,5 +1,4 @@
-Russula albonigroides Singer SPECIES
-=======
+# Russula albonigroides Singer SPECIES
 
 #### Status
 ACCEPTED

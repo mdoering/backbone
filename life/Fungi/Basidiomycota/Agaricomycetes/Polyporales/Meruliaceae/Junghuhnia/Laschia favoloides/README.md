@@ -1,5 +1,4 @@
-Laschia favoloides Lloyd SPECIES
-=======
+# Laschia favoloides Lloyd SPECIES
 
 #### Status
 ACCEPTED

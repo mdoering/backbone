@@ -1,14 +1,13 @@
-Balladyna magna Eboh & Cain, 1973 SPECIES
-=======
+# Balladynocallia magna (Eboh & Cain) Sivan., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 51(1): 61 (1973)
+Mycol. Pap. 146: 35 (1981)
 
 #### Original name
 Balladyna magna Eboh & Cain, 1973

@@ -1,5 +1,4 @@
-Ectocarpus kjellmanioides Noda SPECIES
-=======
+# Ectocarpus kjellmanioides Noda SPECIES
 
 #### Status
 ACCEPTED

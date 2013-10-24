@@ -1,5 +1,4 @@
-Lecanora coccotropa Nyl. SPECIES
-=======
+# Lecanora coccotropa Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen berberinus G. Forst. SPECIES
-=======
+# Lichen berberinus G. Forst. SPECIES
 
 #### Status
 ACCEPTED

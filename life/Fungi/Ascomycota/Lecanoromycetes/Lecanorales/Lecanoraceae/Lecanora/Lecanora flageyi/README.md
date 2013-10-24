@@ -1,5 +1,4 @@
-Lecanora flageyi (Hue) Zahlbr. SPECIES
-=======
+# Lecanora flageyi (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

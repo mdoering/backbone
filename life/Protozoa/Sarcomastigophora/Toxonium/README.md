@@ -1,5 +1,4 @@
-Toxonium Haeckel, 1887 GENUS
-=======
+# Toxonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

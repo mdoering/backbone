@@ -1,5 +1,4 @@
-Phaeosphaeria associata (Rehm) O.E. Erikss. SPECIES
-=======
+# Phaeosphaeria associata (Rehm) O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

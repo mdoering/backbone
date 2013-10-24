@@ -1,5 +1,4 @@
-Pentogonum GENUS
-=======
+# Pentogonum GENUS
 
 #### Status
 ACCEPTED

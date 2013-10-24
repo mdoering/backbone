@@ -1,5 +1,4 @@
-Lophiotrema rubidum var. rubidum VARIETY
-=======
+# Lophiotrema rubidum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 2 6: 452 (1884)
+null
 
 #### Original name
-Lophiotrema rubidum var. rubidum
+null
 
 ### Remarks
 null

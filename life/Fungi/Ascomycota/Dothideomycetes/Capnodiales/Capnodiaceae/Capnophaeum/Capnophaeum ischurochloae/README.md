@@ -1,5 +1,4 @@
-Capnophaeum ischurochloae Sawada & W. Yamam. SPECIES
-=======
+# Capnophaeum ischurochloae Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

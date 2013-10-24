@@ -1,5 +1,4 @@
-Oidium acanthospermi Chidd. SPECIES
-=======
+# Oidium acanthospermi Chidd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia paullopuncta Cooke & Ellis SPECIES
-=======
+# Mollisia paullopuncta Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

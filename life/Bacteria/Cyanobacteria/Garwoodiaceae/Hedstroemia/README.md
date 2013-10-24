@@ -1,8 +1,7 @@
-Hedstromia A. Rothpletz, 1913 GENUS
-=======
+# Hedstroemia A. Rothpletz, 1913 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List

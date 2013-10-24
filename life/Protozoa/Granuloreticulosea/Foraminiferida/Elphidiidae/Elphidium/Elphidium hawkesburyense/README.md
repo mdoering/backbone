@@ -1,8 +1,7 @@
-Cribrononion hawkesburyensis Albani, 1974 SPECIES
-=======
+# Elphidium hawkesburyense (Albani, 1974) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

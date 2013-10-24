@@ -1,5 +1,4 @@
-Galera parvuliformis (Murrill) Murrill SPECIES
-=======
+# Galera parvuliformis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

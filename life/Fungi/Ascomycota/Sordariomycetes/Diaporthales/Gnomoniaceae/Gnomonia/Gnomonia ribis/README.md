@@ -1,5 +1,4 @@
-Gnomonia ribis (M.E. Barr) M.E. Barr SPECIES
-=======
+# Gnomonia ribis (M.E. Barr) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

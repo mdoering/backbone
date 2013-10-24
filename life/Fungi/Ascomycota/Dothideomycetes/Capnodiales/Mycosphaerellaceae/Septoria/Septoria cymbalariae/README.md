@@ -1,5 +1,4 @@
-Septoria cymbalariae Sacc. & Speg., 1878 SPECIES
-=======
+# Septoria cymbalariae Sacc. & Speg., 1878 SPECIES
 
 #### Status
 ACCEPTED

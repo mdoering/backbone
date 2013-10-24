@@ -1,5 +1,4 @@
-Disciseda levispora (Lloyd) Zeller SPECIES
-=======
+# Disciseda levispora (Lloyd) Zeller SPECIES
 
 #### Status
 ACCEPTED

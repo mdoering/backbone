@@ -1,5 +1,4 @@
-Cercospora cannabina Wakef. SPECIES
-=======
+# Cercospora cannabina Wakef. SPECIES
 
 #### Status
 ACCEPTED

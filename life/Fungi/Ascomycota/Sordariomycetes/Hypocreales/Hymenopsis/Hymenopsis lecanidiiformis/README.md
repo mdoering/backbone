@@ -1,5 +1,4 @@
-Hymenopsis lecanidiiformis (Speg.) Sacc. SPECIES
-=======
+# Hymenopsis lecanidiiformis (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

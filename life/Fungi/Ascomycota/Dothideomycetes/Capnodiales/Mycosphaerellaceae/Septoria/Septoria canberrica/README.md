@@ -1,5 +1,4 @@
-Septoria canberrica Petr. SPECIES
-=======
+# Septoria canberrica Petr. SPECIES
 
 #### Status
 ACCEPTED

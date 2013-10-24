@@ -1,5 +1,4 @@
-Phoma cavalliniana Sacc. SPECIES
-=======
+# Phoma cavalliniana Sacc. SPECIES
 
 #### Status
 ACCEPTED

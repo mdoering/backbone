@@ -1,5 +1,4 @@
-Glyphium leptothecium (Earle) B. Sutton SPECIES
-=======
+# Glyphium leptothecium (Earle) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

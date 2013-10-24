@@ -1,5 +1,4 @@
-Bacidia separabilis (Nyl.) Arnold SPECIES
-=======
+# Bacidia separabilis (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

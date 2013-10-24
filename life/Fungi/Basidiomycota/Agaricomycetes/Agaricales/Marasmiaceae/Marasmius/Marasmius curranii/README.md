@@ -1,5 +1,4 @@
-Marasmius curranii G. Stev., 1964 SPECIES
-=======
+# Marasmius curranii G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

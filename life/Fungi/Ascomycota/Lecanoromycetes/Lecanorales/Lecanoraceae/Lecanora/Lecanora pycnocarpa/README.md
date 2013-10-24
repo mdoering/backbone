@@ -1,5 +1,4 @@
-Lecanora pycnocarpa H. Magn. SPECIES
-=======
+# Lecanora pycnocarpa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

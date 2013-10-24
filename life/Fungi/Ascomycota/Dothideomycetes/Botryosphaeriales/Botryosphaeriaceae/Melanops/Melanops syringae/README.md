@@ -1,5 +1,4 @@
-Melanops syringae (Schwein.) Weese SPECIES
-=======
+# Melanops syringae (Schwein.) Weese SPECIES
 
 #### Status
 ACCEPTED

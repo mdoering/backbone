@@ -1,5 +1,4 @@
-Trematosphaeria araneosa (Quél.) Sacc. SPECIES
-=======
+# Trematosphaeria araneosa (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

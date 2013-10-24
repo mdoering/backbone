@@ -1,5 +1,4 @@
-Anthostoma rostratum Saccas SPECIES
-=======
+# Anthostoma rostratum Saccas SPECIES
 
 #### Status
 ACCEPTED

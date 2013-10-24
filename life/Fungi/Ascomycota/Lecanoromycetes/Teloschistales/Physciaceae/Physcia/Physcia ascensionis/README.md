@@ -1,5 +1,4 @@
-Physcia ascensionis (Ach.) Nyl. SPECIES
-=======
+# Physcia ascensionis (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

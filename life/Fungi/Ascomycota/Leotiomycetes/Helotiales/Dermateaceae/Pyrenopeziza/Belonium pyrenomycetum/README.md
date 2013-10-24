@@ -1,5 +1,4 @@
-Belonium pyrenomycetum Velen. SPECIES
-=======
+# Belonium pyrenomycetum Velen. SPECIES
 
 #### Status
 ACCEPTED

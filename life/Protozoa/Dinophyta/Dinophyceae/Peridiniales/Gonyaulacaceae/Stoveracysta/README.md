@@ -1,5 +1,4 @@
-Stoveracysta Clowes, 1985 GENUS
-=======
+# Stoveracysta Clowes, 1985 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania pachycarpa Müll. Arg. SPECIES
-=======
+# Lecania pachycarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

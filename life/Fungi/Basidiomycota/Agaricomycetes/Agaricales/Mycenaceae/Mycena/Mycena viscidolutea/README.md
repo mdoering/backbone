@@ -1,5 +1,4 @@
-Mycena viscidolutea Schulzer SPECIES
-=======
+# Mycena viscidolutea Schulzer SPECIES
 
 #### Status
 ACCEPTED

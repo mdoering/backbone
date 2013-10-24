@@ -1,5 +1,4 @@
-Entoloma kitsii Noordel. SPECIES
-=======
+# Entoloma kitsii Noordel. SPECIES
 
 #### Status
 ACCEPTED

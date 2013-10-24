@@ -1,5 +1,4 @@
-Alternaria intercepta E.G. Simmons, 2002 SPECIES
-=======
+# Alternaria intercepta E.G. Simmons, 2002 SPECIES
 
 #### Status
 ACCEPTED

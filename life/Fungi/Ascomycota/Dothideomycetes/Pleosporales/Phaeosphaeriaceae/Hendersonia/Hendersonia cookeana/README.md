@@ -1,5 +1,4 @@
-Hendersonia cookeana Speg. SPECIES
-=======
+# Hendersonia cookeana Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea euphorbiae Pat. SPECIES
-=======
+# Hypocrea euphorbiae Pat. SPECIES
 
 #### Status
 ACCEPTED

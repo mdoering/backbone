@@ -1,17 +1,16 @@
-Trematosphaeria striataspora K.D. Hyde, 1988 SPECIES
-=======
+# Astrosphaeriella striataspora (K.D. Hyde) K.D. Hyde, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 110(2): 97 (1992)
 
 #### Original name
-null
+Trematosphaeria striataspora K.D. Hyde, 1988
 
 ### Remarks
 null

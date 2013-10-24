@@ -1,5 +1,4 @@
-Diplodinula helianthi (Fautrey) Tassi SPECIES
-=======
+# Diplodinula helianthi (Fautrey) Tassi SPECIES
 
 #### Status
 ACCEPTED

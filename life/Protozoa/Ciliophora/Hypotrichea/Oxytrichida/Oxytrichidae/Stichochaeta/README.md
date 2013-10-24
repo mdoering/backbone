@@ -1,5 +1,4 @@
-Stichochaeta Claparède & Lachmann, 1858 GENUS
-=======
+# Stichochaeta Claparède & Lachmann, 1858 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora homala Kremp. SPECIES
-=======
+# Lecanora homala Kremp. SPECIES
 
 #### Status
 ACCEPTED

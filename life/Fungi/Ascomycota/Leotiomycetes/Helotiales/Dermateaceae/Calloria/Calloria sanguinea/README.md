@@ -1,5 +1,4 @@
-Calloria sanguinea Quél. SPECIES
-=======
+# Calloria sanguinea Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium birotundatum Goor SPECIES
-=======
+# Gymnodinium birotundatum Goor SPECIES
 
 #### Status
 ACCEPTED

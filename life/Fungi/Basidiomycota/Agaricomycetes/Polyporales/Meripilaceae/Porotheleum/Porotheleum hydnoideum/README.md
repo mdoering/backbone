@@ -1,5 +1,4 @@
-Porotheleum hydnoideum Berk. SPECIES
-=======
+# Porotheleum hydnoideum Berk. SPECIES
 
 #### Status
 ACCEPTED

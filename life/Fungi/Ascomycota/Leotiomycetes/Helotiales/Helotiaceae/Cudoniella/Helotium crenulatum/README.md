@@ -1,5 +1,4 @@
-Helotium crenulatum Velen. SPECIES
-=======
+# Helotium crenulatum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrophoma gomphiae Novoss. SPECIES
-=======
+# Dendrophoma gomphiae Novoss. SPECIES
 
 #### Status
 ACCEPTED

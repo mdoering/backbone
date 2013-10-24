@@ -1,5 +1,4 @@
-Vaginicola elongata Fromentel, 1876 SPECIES
-=======
+# Vaginicola elongata Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

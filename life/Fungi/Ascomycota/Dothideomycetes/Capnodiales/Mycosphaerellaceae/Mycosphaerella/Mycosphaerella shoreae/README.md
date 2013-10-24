@@ -1,5 +1,4 @@
-Mycosphaerella shoreae Crous & U. Braun, 2001 SPECIES
-=======
+# Mycosphaerella shoreae Crous & U. Braun, 2001 SPECIES
 
 #### Status
 ACCEPTED

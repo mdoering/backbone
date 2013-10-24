@@ -1,5 +1,4 @@
-Galerina angustifolia A.H. Sm. & Singer SPECIES
-=======
+# Galerina angustifolia A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

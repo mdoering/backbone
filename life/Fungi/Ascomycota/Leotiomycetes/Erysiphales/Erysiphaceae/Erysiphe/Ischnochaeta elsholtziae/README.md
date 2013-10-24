@@ -1,5 +1,4 @@
-Ischnochaeta elsholtziae Sawada SPECIES
-=======
+# Ischnochaeta elsholtziae Sawada SPECIES
 
 #### Status
 ACCEPTED

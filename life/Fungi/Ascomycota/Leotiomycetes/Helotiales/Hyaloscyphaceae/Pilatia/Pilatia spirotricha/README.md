@@ -1,5 +1,4 @@
-Pilatia spirotricha Velen. SPECIES
-=======
+# Pilatia spirotricha Velen. SPECIES
 
 #### Status
 ACCEPTED

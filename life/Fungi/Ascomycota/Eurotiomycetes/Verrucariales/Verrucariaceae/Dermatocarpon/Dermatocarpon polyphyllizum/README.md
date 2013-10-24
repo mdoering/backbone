@@ -1,5 +1,4 @@
-Dermatocarpon polyphyllizum (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Dermatocarpon polyphyllizum (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

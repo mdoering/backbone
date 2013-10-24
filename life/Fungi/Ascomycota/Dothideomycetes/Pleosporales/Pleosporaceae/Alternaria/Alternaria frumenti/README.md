@@ -1,5 +1,4 @@
-Alternaria frumenti E.G. Simmons & C.F. Hill, 2007 SPECIES
-=======
+# Alternaria frumenti E.G. Simmons & C.F. Hill, 2007 SPECIES
 
 #### Status
 ACCEPTED

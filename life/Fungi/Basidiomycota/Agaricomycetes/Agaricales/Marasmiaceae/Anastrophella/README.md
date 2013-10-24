@@ -1,5 +1,4 @@
-Anastrophella E. Horak & Desjardin GENUS
-=======
+# Anastrophella E. Horak & Desjardin GENUS
 
 #### Status
 ACCEPTED

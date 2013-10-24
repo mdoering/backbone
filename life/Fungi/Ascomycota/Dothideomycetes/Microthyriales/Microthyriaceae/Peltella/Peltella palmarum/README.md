@@ -1,5 +1,4 @@
-Peltella palmarum (G. Winter) Hansf. SPECIES
-=======
+# Peltella palmarum (G. Winter) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pucciniosira cumminsiana Buriticá & J.F. Hennen, 1980 SPECIES
-=======
+# Pucciniosira cumminsiana Buriticá & J.F. Hennen, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia muelleriana Berk. SPECIES
-=======
+# Omphalia muelleriana Berk. SPECIES
 
 #### Status
 ACCEPTED

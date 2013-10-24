@@ -1,5 +1,4 @@
-Synhymeniida ORDER
-=======
+# Synhymeniida ORDER
 
 #### Status
 ACCEPTED

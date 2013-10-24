@@ -1,5 +1,4 @@
-Cortinarius serariicolor Rob. Henry SPECIES
-=======
+# Cortinarius serariicolor Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

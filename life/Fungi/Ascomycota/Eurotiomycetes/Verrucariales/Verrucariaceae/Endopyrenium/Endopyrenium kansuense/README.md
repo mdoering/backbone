@@ -1,5 +1,4 @@
-Endopyrenium kansuense (H. Magn.) N.S. Golubk. SPECIES
-=======
+# Endopyrenium kansuense (H. Magn.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

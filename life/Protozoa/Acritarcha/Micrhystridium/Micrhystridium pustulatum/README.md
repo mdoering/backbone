@@ -1,5 +1,4 @@
-Micrhystridium pustulatum Deunff, 1967 SPECIES
-=======
+# Micrhystridium pustulatum Deunff, 1967 SPECIES
 
 #### Status
 ACCEPTED

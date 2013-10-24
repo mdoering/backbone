@@ -1,5 +1,4 @@
-Tetrataxiella Seiglie, 1964 GENUS
-=======
+# Tetrataxiella Seiglie, 1964 GENUS
 
 #### Status
 ACCEPTED

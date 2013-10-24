@@ -1,5 +1,4 @@
-Collybia chortophila Berk. SPECIES
-=======
+# Collybia chortophila Berk. SPECIES
 
 #### Status
 ACCEPTED

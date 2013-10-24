@@ -1,5 +1,4 @@
-Alternaria tabacina (Ellis & Everh.) Hori SPECIES
-=======
+# Alternaria tabacina (Ellis & Everh.) Hori SPECIES
 
 #### Status
 ACCEPTED

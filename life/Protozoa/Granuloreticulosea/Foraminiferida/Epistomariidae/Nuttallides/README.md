@@ -1,5 +1,4 @@
-Nuttallides Finlay, 1939 GENUS
-=======
+# Nuttallides Finlay, 1939 GENUS
 
 #### Status
 ACCEPTED

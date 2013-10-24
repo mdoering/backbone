@@ -1,17 +1,16 @@
-Trichothelium isidiatum R. C. Harris SPECIES
-=======
+# Pseudosagedia isidiata (R. C. Harris) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Opuscula Philolichenum 2: 15 (2005)
 
 #### Original name
-null
+Trichothelium isidiatum R. C. Harris
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Limacella macrospora G. Stev. SPECIES
-=======
+# Limacella macrospora G. Stev. SPECIES
 
 #### Status
 ACCEPTED

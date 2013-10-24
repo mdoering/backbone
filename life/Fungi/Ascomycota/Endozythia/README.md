@@ -1,5 +1,4 @@
-Endozythia Petr. GENUS
-=======
+# Endozythia Petr. GENUS
 
 #### Status
 ACCEPTED

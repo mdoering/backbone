@@ -1,5 +1,4 @@
-Cordyceps cardinalis G.H. Sung & Spatafora SPECIES
-=======
+# Cordyceps cardinalis G.H. Sung & Spatafora SPECIES
 
 #### Status
 ACCEPTED

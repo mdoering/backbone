@@ -1,5 +1,4 @@
-Phomopsis machaeriicola Petr. SPECIES
-=======
+# Phomopsis machaeriicola Petr. SPECIES
 
 #### Status
 ACCEPTED

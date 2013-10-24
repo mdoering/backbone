@@ -1,5 +1,4 @@
-Compressopullenia Langer in Jung & Langer, 1990 GENUS
-=======
+# Compressopullenia Langer in Jung & Langer, 1990 GENUS
 
 #### Status
 ACCEPTED

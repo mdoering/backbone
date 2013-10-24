@@ -1,17 +1,16 @@
-Phoma jasmini-sambactis Sawada SPECIES
-=======
+# Phoma jasmini-sambac Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Special Bulletin Agricultural Experiment Station Formosa 19: 536 (1919)
 
 #### Original name
-Phoma jasmini-sambactis Sawada
+Phoma jasmini-sambac Sawada
 
 ### Remarks
 null

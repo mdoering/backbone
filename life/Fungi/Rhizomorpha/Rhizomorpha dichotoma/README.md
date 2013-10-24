@@ -1,5 +1,4 @@
-Rhizomorpha dichotoma Sowerby SPECIES
-=======
+# Rhizomorpha dichotoma Sowerby SPECIES
 
 #### Status
 ACCEPTED

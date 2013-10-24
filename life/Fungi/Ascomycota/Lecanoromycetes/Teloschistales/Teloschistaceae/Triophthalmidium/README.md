@@ -1,5 +1,4 @@
-Triophthalmidium GENUS
-=======
+# Triophthalmidium GENUS
 
 #### Status
 ACCEPTED

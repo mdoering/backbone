@@ -1,5 +1,4 @@
-Caloplaca mawsonii C.W. Dodge SPECIES
-=======
+# Caloplaca mawsonii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

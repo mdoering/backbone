@@ -1,5 +1,4 @@
-Hyalodiscus pustulatus A.W.F. Schmidt SPECIES
-=======
+# Hyalodiscus pustulatus A.W.F. Schmidt SPECIES
 
 #### Status
 ACCEPTED

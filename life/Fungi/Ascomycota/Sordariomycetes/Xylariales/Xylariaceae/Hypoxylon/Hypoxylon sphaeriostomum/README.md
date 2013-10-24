@@ -1,5 +1,4 @@
-Hypoxylon sphaeriostomum (Schwein.) Sacc. SPECIES
-=======
+# Hypoxylon sphaeriostomum (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

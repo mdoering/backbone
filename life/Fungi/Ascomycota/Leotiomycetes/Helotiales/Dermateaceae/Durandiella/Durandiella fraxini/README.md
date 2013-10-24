@@ -1,14 +1,13 @@
-Durandiella fraxinii (Schwein.) Seaver SPECIES
-=======
+# Durandiella fraxini (Schwein.) Seaver, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+North American Cup-fungi (New York), (Inoperculates) 367 (1951)
 
 #### Original name
 null

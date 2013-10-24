@@ -1,14 +1,13 @@
-Saprolegnia ferax var. hypogyna Pringsh., 1874 VARIETY
-=======
+# Saprolegnia hypogyna (Pringsh.) de Bary, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. wiss. Bot. 9: 196 (1874)
+Bot. Ztg. 41: 56 (1883)
 
 #### Original name
 Saprolegnia ferax var. hypogyna Pringsh., 1874

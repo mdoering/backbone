@@ -1,5 +1,4 @@
-Gyalolechia lecanorina Anzi SPECIES
-=======
+# Gyalolechia lecanorina Anzi SPECIES
 
 #### Status
 ACCEPTED

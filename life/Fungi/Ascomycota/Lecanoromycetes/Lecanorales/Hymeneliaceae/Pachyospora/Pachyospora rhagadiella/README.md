@@ -1,5 +1,4 @@
-Pachyospora rhagadiella (Nyl.) Arnold SPECIES
-=======
+# Pachyospora rhagadiella (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

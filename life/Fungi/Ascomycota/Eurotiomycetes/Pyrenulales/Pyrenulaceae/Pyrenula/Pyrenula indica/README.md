@@ -1,5 +1,4 @@
-Pyrenula indica A. Massal. SPECIES
-=======
+# Pyrenula indica A. Massal. SPECIES
 
 #### Status
 ACCEPTED

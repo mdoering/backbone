@@ -1,5 +1,4 @@
-Microdiplodia sambuci-racemosae Naumov {?} SPECIES
-=======
+# Microdiplodia sambuci-racemosae Naumov {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterococcus italicus Fortina et al., 2004 SPECIES
-=======
+# Enterococcus italicus Fortina et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

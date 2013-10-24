@@ -1,5 +1,4 @@
-Phoma cercidicola Fairm. SPECIES
-=======
+# Phoma cercidicola Fairm. SPECIES
 
 #### Status
 ACCEPTED

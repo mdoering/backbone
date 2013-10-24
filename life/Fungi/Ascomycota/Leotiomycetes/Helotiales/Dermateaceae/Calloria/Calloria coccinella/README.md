@@ -1,5 +1,4 @@
-Calloria coccinella SPECIES
-=======
+# Calloria coccinella SPECIES
 
 #### Status
 ACCEPTED

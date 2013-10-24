@@ -1,5 +1,4 @@
-Legionella shakespearei Verma et al., 1992 SPECIES
-=======
+# Legionella shakespearei Verma et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

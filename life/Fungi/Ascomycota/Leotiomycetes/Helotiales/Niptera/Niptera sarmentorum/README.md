@@ -1,5 +1,4 @@
-Niptera sarmentorum Sacc. SPECIES
-=======
+# Niptera sarmentorum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wrightoporia gloeocystidiata I. Johans. & Ryvarden, 1979 SPECIES
-=======
+# Wrightoporia gloeocystidiata I. Johans. & Ryvarden, 1979 SPECIES
 
 #### Status
 ACCEPTED

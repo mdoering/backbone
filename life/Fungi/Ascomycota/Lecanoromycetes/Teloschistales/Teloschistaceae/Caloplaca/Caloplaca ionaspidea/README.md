@@ -1,5 +1,4 @@
-Caloplaca ionaspidea Zahlbr. SPECIES
-=======
+# Caloplaca ionaspidea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

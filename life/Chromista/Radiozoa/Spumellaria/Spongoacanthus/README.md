@@ -1,5 +1,4 @@
-Spongoacanthus Squinabol, 1903 GENUS
-=======
+# Spongoacanthus Squinabol, 1903 GENUS
 
 #### Status
 ACCEPTED

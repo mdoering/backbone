@@ -1,5 +1,4 @@
-Papularia densa (Strasser) Höhn. SPECIES
-=======
+# Papularia densa (Strasser) Höhn. SPECIES
 
 #### Status
 ACCEPTED

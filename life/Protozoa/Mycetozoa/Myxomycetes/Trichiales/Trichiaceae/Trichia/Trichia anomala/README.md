@@ -1,5 +1,4 @@
-Trichia anomala P. Karst. SPECIES
-=======
+# Trichia anomala P. Karst. SPECIES
 
 #### Status
 ACCEPTED

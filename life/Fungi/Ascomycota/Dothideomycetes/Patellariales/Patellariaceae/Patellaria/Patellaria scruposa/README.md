@@ -1,5 +1,4 @@
-Patellaria scruposa (Schreb.) Hoffm. SPECIES
-=======
+# Patellaria scruposa (Schreb.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

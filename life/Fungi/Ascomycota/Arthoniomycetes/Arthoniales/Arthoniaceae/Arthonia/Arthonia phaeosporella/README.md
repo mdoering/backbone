@@ -1,5 +1,4 @@
-Arthonia phaeosporella Vain. SPECIES
-=======
+# Arthonia phaeosporella Vain. SPECIES
 
 #### Status
 ACCEPTED

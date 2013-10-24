@@ -1,5 +1,4 @@
-Diaporthe immersa (Fuckel) Nitschke SPECIES
-=======
+# Diaporthe immersa (Fuckel) Nitschke SPECIES
 
 #### Status
 ACCEPTED

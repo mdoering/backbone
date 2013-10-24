@@ -1,5 +1,4 @@
-Warnowia purpurascens (Kofoid & Swezy) Lindemann SPECIES
-=======
+# Warnowia purpurascens (Kofoid & Swezy) Lindemann SPECIES
 
 #### Status
 ACCEPTED

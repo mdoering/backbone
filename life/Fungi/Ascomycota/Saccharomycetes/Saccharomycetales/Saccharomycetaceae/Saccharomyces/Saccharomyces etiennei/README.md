@@ -1,5 +1,4 @@
-Saccharomyces etiennei Potron SPECIES
-=======
+# Saccharomyces etiennei Potron SPECIES
 
 #### Status
 ACCEPTED

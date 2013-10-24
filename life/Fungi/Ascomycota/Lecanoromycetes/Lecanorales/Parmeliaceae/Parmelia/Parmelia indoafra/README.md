@@ -1,5 +1,4 @@
-Parmelia indoafra Krog & Swinscow SPECIES
-=======
+# Parmelia indoafra Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

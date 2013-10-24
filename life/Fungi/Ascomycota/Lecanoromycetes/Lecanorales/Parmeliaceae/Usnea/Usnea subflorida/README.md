@@ -1,5 +1,4 @@
-Usnea subflorida (Zahlbr.) Motyka SPECIES
-=======
+# Usnea subflorida (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

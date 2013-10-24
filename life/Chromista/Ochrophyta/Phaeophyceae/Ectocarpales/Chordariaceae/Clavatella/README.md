@@ -1,5 +1,4 @@
-Clavatella Bory de Saint-Vincent, 1823 GENUS
-=======
+# Clavatella Bory de Saint-Vincent, 1823 GENUS
 
 #### Status
 ACCEPTED

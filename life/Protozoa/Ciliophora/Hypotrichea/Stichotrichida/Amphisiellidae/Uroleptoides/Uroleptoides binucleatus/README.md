@@ -1,5 +1,4 @@
-Uroleptoides binucleatus subsp. binucleatus SUBSPECIES
-=======
+# Uroleptoides binucleatus Hemberger SPECIES
 
 #### Status
 ACCEPTED

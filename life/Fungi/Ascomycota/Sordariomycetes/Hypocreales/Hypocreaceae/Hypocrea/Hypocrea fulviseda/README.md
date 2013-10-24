@@ -1,5 +1,4 @@
-Hypocrea fulviseda Bres. SPECIES
-=======
+# Hypocrea fulviseda Bres. SPECIES
 
 #### Status
 ACCEPTED

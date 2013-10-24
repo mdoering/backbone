@@ -1,5 +1,4 @@
-Aecidium nesaeae W.R. Gerard SPECIES
-=======
+# Aecidium nesaeae W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

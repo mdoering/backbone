@@ -1,5 +1,4 @@
-Thelotrema microsporoides Zahlbr. SPECIES
-=======
+# Thelotrema microsporoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

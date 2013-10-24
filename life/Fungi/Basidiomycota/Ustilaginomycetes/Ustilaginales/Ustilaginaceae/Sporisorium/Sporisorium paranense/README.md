@@ -1,14 +1,13 @@
-Sporisorium paranaense (Hirschh.) Vánky SPECIES
-=======
+# Sporisorium paranense (Hirschh.) Vánky SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 81: 424 (2002)
 
 #### Original name
 Sorosporium paranense Hirschh.

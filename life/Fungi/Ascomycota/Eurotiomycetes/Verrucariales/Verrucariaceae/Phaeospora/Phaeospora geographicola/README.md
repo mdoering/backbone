@@ -1,5 +1,4 @@
-Phaeospora geographicola Arnold SPECIES
-=======
+# Phaeospora geographicola Arnold SPECIES
 
 #### Status
 ACCEPTED

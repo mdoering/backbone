@@ -1,5 +1,4 @@
-Helminthosporium mauritianum Cooke SPECIES
-=======
+# Helminthosporium mauritianum Cooke SPECIES
 
 #### Status
 ACCEPTED

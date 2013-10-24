@@ -1,5 +1,4 @@
-Spirocystis Léger & Duboscq, 1911 GENUS
-=======
+# Spirocystis Léger & Duboscq, 1911 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Rabenhorstia mattiroliana Massa SPECIES
-=======
+# Rabenhorstia mattiroloana Massa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rabenhorstia mattiroliana Massa
+Rabenhorstia mattiroloana Massa
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Barlaeina feurichiana Kirschst. SPECIES
-=======
+# Barlaeina feurichiana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

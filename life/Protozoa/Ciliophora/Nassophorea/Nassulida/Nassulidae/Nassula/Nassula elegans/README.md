@@ -1,5 +1,4 @@
-Nassula elegans Ehrenberg, 1833 SPECIES
-=======
+# Nassula elegans Ehrenberg, 1833 SPECIES
 
 #### Status
 ACCEPTED

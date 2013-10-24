@@ -1,5 +1,4 @@
-Lepiota nigrescentipes G. Riousset SPECIES
-=======
+# Lepiota nigrescentipes G. Riousset SPECIES
 
 #### Status
 ACCEPTED

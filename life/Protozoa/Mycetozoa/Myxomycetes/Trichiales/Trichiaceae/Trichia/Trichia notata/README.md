@@ -1,5 +1,4 @@
-Trichia notata Oeder SPECIES
-=======
+# Trichia notata Oeder SPECIES
 
 #### Status
 ACCEPTED

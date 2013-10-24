@@ -1,5 +1,4 @@
-Pulleniatina primalis Banner & Blow SPECIES
-=======
+# Pulleniatina primalis Banner & Blow SPECIES
 
 #### Status
 ACCEPTED

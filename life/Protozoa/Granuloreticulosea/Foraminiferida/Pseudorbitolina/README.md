@@ -1,5 +1,4 @@
-Pseudorbitolina Douvillé, 1910 GENUS
-=======
+# Pseudorbitolina Douvillé, 1910 GENUS
 
 #### Status
 ACCEPTED

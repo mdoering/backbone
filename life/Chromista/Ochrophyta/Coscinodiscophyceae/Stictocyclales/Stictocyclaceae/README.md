@@ -1,5 +1,4 @@
-Stictocyclaceae FAMILY
-=======
+# Stictocyclaceae FAMILY
 
 #### Status
 ACCEPTED

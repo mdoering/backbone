@@ -1,5 +1,4 @@
-Pseudopolymorphina ovalis SPECIES
-=======
+# Pseudopolymorphina ovalis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia tenuisecta Zahlbr. SPECIES
-=======
+# Physcia tenuisecta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

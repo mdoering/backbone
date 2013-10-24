@@ -1,5 +1,4 @@
-Hormiscium caulicola Rabenh. SPECIES
-=======
+# Hormiscium caulicola Rabenh. SPECIES
 
 #### Status
 ACCEPTED

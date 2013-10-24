@@ -1,14 +1,13 @@
-Macrospora scirpicola (DC.) Fuckel, 1870 SPECIES
-=======
+# Pleospora scirpicola (DC.) P. Karst., 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 139 (1870)
+Bidr. Känn. Finl. Nat. Folk 23: 72 (1873)
 
 #### Original name
 Sphaeria scirpicola DC., 1805

@@ -1,5 +1,4 @@
-Oospora aurantia (Cooke) Sacc. & Voglino SPECIES
-=======
+# Oospora aurantia (Cooke) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

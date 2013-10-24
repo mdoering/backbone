@@ -1,17 +1,16 @@
-Sphacelotheca heteropogonis-triticei L. Ling SPECIES
-=======
+# Sphacelotheca heteropogonis-tritici L. Ling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 4(1-6): 77 (1950)
 
 #### Original name
-Sphacelotheca heteropogonis-triticei L. Ling
+Sphacelotheca heteropogonis-tritici L. Ling
 
 ### Remarks
 null

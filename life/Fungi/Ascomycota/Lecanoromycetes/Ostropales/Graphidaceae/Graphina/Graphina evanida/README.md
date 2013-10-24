@@ -1,5 +1,4 @@
-Graphina evanida (Vain.) Zahlbr. SPECIES
-=======
+# Graphina evanida (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

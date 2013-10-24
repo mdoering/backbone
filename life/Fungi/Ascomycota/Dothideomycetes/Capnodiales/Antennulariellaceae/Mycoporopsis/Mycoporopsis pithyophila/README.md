@@ -1,5 +1,4 @@
-Mycoporopsis pithyophila (Th. Fr. & Blomb.) Riedl SPECIES
-=======
+# Mycoporopsis pithyophila (Th. Fr. & Blomb.) Riedl SPECIES
 
 #### Status
 ACCEPTED

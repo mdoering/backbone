@@ -1,5 +1,4 @@
-Xylaria maumeei Lloyd SPECIES
-=======
+# Xylaria maumeei Lloyd SPECIES
 
 #### Status
 ACCEPTED

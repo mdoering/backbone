@@ -1,5 +1,4 @@
-Bacidia terrestris (Riddle) Zahlbr. SPECIES
-=======
+# Bacidia terrestris (Riddle) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

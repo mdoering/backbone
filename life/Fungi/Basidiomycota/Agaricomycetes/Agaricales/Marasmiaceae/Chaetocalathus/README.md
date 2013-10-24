@@ -1,5 +1,4 @@
-Chaetocalathus Singer GENUS
-=======
+# Chaetocalathus Singer GENUS
 
 #### Status
 ACCEPTED

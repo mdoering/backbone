@@ -1,5 +1,4 @@
-Candida fermenticarens Van der Walt, 1978 SPECIES
-=======
+# Candida fermenticarens Van der Walt, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiotrema incisum Ellis & Everh. SPECIES
-=======
+# Lophiotrema incisum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

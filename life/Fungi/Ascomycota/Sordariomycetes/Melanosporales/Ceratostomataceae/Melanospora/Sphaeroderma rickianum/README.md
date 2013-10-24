@@ -1,5 +1,4 @@
-Sphaeroderma rickianum Rehm SPECIES
-=======
+# Sphaeroderma rickianum Rehm SPECIES
 
 #### Status
 ACCEPTED

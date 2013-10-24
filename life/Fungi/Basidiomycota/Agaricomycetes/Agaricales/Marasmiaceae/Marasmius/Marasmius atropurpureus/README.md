@@ -1,5 +1,4 @@
-Marasmius atropurpureus Murrill SPECIES
-=======
+# Marasmius atropurpureus Murrill SPECIES
 
 #### Status
 ACCEPTED

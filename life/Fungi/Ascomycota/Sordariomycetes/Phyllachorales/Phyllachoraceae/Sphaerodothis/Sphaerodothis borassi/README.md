@@ -1,5 +1,4 @@
-Sphaerodothis borassi T.S. Ramakr. & K. Ramakr., 1950 SPECIES
-=======
+# Sphaerodothis borassi T.S. Ramakr. & K. Ramakr., 1950 SPECIES
 
 #### Status
 ACCEPTED

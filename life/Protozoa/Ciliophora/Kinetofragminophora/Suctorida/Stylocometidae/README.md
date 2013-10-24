@@ -1,5 +1,4 @@
-Stylocometidae FAMILY
-=======
+# Stylocometidae FAMILY
 
 #### Status
 ACCEPTED

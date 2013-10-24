@@ -1,5 +1,4 @@
-Agaricus umbraculatus Fr. SPECIES
-=======
+# Agaricus umbraculatus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuber sphaerospermum (Malençon) P. Roux, Guy Garcia & M.C. Roux SPECIES
-=======
+# Tuber sphaerospermum (Malençon) P. Roux, Guy Garcia & M.C. Roux SPECIES
 
 #### Status
 ACCEPTED

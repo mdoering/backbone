@@ -1,5 +1,4 @@
-Ozonium candidum Mart. SPECIES
-=======
+# Ozonium candidum Mart. SPECIES
 
 #### Status
 ACCEPTED

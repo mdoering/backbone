@@ -1,11 +1,10 @@
-Lachrymaria GENUS
-=======
+# Lacrymaria Bory de St. Vincent, 1826 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

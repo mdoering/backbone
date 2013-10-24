@@ -1,5 +1,4 @@
-Hypocopra kansensis Ellis & Everh. SPECIES
-=======
+# Hypocopra kansensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

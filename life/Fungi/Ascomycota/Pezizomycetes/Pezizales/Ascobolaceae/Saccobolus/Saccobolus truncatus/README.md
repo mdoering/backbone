@@ -1,5 +1,4 @@
-Saccobolus truncatus Velen., 1934 SPECIES
-=======
+# Saccobolus truncatus Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

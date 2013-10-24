@@ -1,5 +1,4 @@
-Hyperammina laevigata SPECIES
-=======
+# Hyperammina laevigata SPECIES
 
 #### Status
 ACCEPTED

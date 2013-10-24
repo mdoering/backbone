@@ -1,5 +1,4 @@
-Alternaria triglochinicola Alcorn & S.M. Francis SPECIES
-=======
+# Alternaria triglochinicola Alcorn & S.M. Francis SPECIES
 
 #### Status
 ACCEPTED

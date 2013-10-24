@@ -1,5 +1,4 @@
-Lecanidion ilicicola (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Lecanidion ilicicola (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

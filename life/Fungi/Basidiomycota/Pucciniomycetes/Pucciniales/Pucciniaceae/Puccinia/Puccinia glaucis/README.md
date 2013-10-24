@@ -1,5 +1,4 @@
-Puccinia glaucis Arthur SPECIES
-=======
+# Puccinia glaucis Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dentalina approximata Reuss SPECIES
-=======
+# Dentalina approximata Reuss SPECIES
 
 #### Status
 ACCEPTED

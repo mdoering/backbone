@@ -1,5 +1,4 @@
-Colletotrichum morinum Sawada SPECIES
-=======
+# Colletotrichum morinum Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus unitinctus Peck SPECIES
-=======
+# Agaricus unitinctus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyella endophytica Bãrgesen SPECIES
-=======
+# Hyella endophytica Bãrgesen SPECIES
 
 #### Status
 ACCEPTED

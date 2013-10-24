@@ -1,5 +1,4 @@
-Marasmius bermudensis Berk. SPECIES
-=======
+# Marasmius bermudensis Berk. SPECIES
 
 #### Status
 ACCEPTED

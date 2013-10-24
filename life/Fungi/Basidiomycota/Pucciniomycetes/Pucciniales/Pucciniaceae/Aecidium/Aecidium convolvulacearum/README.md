@@ -1,5 +1,4 @@
-Aecidium convolvulacearum Ces. SPECIES
-=======
+# Aecidium convolvulacearum Ces. SPECIES
 
 #### Status
 ACCEPTED

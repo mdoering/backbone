@@ -1,5 +1,4 @@
-Cercospora blainvilleae Govindu & Thirum. SPECIES
-=======
+# Cercospora blainvilleae Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

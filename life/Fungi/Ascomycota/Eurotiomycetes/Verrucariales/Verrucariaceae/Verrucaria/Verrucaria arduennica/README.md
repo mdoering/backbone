@@ -1,5 +1,4 @@
-Verrucaria arduennica Zschacke SPECIES
-=======
+# Verrucaria arduennica Zschacke SPECIES
 
 #### Status
 ACCEPTED

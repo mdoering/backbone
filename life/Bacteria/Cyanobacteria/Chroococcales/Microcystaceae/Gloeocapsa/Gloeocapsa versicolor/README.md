@@ -1,5 +1,4 @@
-Gloeocapsa versicolor Nägeli SPECIES
-=======
+# Gloeocapsa versicolor Nägeli SPECIES
 
 #### Status
 ACCEPTED

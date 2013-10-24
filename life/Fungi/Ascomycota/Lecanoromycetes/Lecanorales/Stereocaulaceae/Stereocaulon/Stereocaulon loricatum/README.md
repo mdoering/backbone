@@ -1,5 +1,4 @@
-Stereocaulon loricatum I.M. Lamb SPECIES
-=======
+# Stereocaulon loricatum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

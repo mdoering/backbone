@@ -1,5 +1,4 @@
-Dermatina integra (Vain.) Zahlbr. SPECIES
-=======
+# Dermatina integra (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

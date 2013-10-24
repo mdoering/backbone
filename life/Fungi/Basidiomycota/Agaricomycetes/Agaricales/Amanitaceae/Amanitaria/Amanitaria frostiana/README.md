@@ -1,5 +1,4 @@
-Amanitaria frostiana (Peck) E.-J. Gilbert SPECIES
-=======
+# Amanitaria frostiana (Peck) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

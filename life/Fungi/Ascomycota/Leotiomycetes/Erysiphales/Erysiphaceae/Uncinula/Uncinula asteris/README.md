@@ -1,5 +1,4 @@
-Uncinula asteris Sawada SPECIES
-=======
+# Uncinula asteris Sawada SPECIES
 
 #### Status
 ACCEPTED

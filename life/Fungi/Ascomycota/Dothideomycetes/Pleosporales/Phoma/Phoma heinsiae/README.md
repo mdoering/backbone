@@ -1,5 +1,4 @@
-Phoma heinsiae Tassi SPECIES
-=======
+# Phoma heinsiae Tassi SPECIES
 
 #### Status
 ACCEPTED

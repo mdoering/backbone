@@ -1,5 +1,4 @@
-Rhytisma padi Rabenh. SPECIES
-=======
+# Rhytisma padi Rabenh. SPECIES
 
 #### Status
 ACCEPTED

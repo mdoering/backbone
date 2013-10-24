@@ -1,14 +1,13 @@
-Entoloma jamaicensis (Murrill) Hesler SPECIES
-=======
+# Entoloma jamaicense (Murrill) Hesler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia, Beih. 23: 145 (1967)
 
 #### Original name
 Eccilia jamaicensis Murrill

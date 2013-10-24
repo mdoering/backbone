@@ -1,5 +1,4 @@
-Colophermum C.S. Rafinesque, 1814 GENUS
-=======
+# Colophermum C.S. Rafinesque, 1814 GENUS
 
 #### Status
 ACCEPTED

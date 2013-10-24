@@ -1,5 +1,4 @@
-Melanospora verrucispora Takada SPECIES
-=======
+# Melanospora verrucispora Takada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera solida Velen. SPECIES
-=======
+# Galera solida Velen. SPECIES
 
 #### Status
 ACCEPTED

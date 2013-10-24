@@ -1,5 +1,4 @@
-Hydnum pectiniforme Batsch SPECIES
-=======
+# Hydnum pectiniforme Batsch SPECIES
 
 #### Status
 ACCEPTED

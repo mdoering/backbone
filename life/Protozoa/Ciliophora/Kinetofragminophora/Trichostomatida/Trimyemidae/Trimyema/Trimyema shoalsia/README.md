@@ -1,5 +1,4 @@
-Trimyema shoalsia Nerad & Schaffer, 1995 SPECIES
-=======
+# Trimyema shoalsia Nerad & Schaffer, 1995 SPECIES
 
 #### Status
 ACCEPTED

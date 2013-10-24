@@ -1,8 +1,7 @@
-Pyxine meissneri var. physciaeformis Malme VARIETY
-=======
+# Pyxine physciaeformis (Malme) Imshaug SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

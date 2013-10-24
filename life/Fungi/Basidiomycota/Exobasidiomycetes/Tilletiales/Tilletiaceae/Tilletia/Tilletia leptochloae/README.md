@@ -1,5 +1,4 @@
-Tilletia leptochloae Thirum. & Pavgi SPECIES
-=======
+# Tilletia leptochloae Thirum. & Pavgi SPECIES
 
 #### Status
 ACCEPTED

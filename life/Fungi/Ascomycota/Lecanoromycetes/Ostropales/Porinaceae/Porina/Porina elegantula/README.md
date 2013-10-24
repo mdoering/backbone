@@ -1,5 +1,4 @@
-Porina elegantula Müll. Arg. SPECIES
-=======
+# Porina elegantula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

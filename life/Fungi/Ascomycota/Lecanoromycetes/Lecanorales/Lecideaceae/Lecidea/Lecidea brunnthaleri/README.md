@@ -1,5 +1,4 @@
-Lecidea brunnthaleri Zahlbr. SPECIES
-=======
+# Lecidea brunnthaleri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

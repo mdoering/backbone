@@ -1,5 +1,4 @@
-Phacidium balsameae Davis SPECIES
-=======
+# Phacidium balsameae Davis SPECIES
 
 #### Status
 ACCEPTED

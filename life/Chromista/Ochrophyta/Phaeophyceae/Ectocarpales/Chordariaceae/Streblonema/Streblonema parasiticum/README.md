@@ -1,8 +1,7 @@
-Entonema parasiticum (Sauvageau) G. Hamel SPECIES
-=======
+# Streblonema parasiticum (Sauvageau) Levring SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

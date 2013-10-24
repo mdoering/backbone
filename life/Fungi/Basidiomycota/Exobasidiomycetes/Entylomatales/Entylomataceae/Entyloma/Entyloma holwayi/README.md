@@ -1,5 +1,4 @@
-Entyloma holwayi P. Syd. SPECIES
-=======
+# Entyloma holwayi P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solita F.H. Cramer, 1970 GENUS
-=======
+# Solita F.H. Cramer, 1970 GENUS
 
 #### Status
 ACCEPTED

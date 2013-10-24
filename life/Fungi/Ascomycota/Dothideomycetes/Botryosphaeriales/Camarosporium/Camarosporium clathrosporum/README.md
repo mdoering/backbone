@@ -1,5 +1,4 @@
-Camarosporium clathrosporum Petr. SPECIES
-=======
+# Camarosporium clathrosporum Petr. SPECIES
 
 #### Status
 ACCEPTED

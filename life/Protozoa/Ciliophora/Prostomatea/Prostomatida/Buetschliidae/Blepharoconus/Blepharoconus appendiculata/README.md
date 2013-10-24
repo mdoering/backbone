@@ -1,5 +1,4 @@
-Blepharoconus appendiculata Chavarria, 1933 SPECIES
-=======
+# Blepharoconus appendiculata Chavarria, 1933 SPECIES
 
 #### Status
 ACCEPTED

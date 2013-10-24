@@ -1,5 +1,4 @@
-Sphaeronaema mirabile Grove SPECIES
-=======
+# Sphaeronaema mirabile Grove SPECIES
 
 #### Status
 ACCEPTED

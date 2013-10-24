@@ -1,5 +1,4 @@
-Scyphosphaera porosa Kamptner, 1967 SPECIES
-=======
+# Scyphosphaera porosa Kamptner, 1967 SPECIES
 
 #### Status
 ACCEPTED

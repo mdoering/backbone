@@ -1,5 +1,4 @@
-Amylohyphus Ryvarden GENUS
-=======
+# Amylohyphus Ryvarden GENUS
 
 #### Status
 ACCEPTED

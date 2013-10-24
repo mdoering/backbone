@@ -1,5 +1,4 @@
-Lecidea brunnea (Anzi) Stizenb. SPECIES
-=======
+# Lecidea brunnea (Anzi) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

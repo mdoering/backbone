@@ -1,5 +1,4 @@
-Ustilago scirpinus Syd. SPECIES
-=======
+# Ustilago scirpinus Syd. SPECIES
 
 #### Status
 ACCEPTED

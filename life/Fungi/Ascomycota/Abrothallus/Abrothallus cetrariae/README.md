@@ -1,5 +1,4 @@
-Abrothallus cetrariae Kotte, 1909 SPECIES
-=======
+# Abrothallus cetrariae Kotte, 1909 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Melanomma medium var. medium Sacc. & Speg. VARIETY
-=======
+# Melanomma medium Sacc. & Speg., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 1(no. 4): 402 (1878)
 
 #### Original name
-Melanomma medium var. medium Sacc. & Speg.
+Melanomma medium Sacc. & Speg., 1878
 
 ### Remarks
 null

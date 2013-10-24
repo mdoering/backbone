@@ -1,5 +1,4 @@
-Bertiella brenckleana Rehm SPECIES
-=======
+# Bertiella brenckleana Rehm SPECIES
 
 #### Status
 ACCEPTED

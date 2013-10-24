@@ -1,5 +1,4 @@
-Chaetomium muelleri Arx, 1986 SPECIES
-=======
+# Chaetomium muelleri Arx, 1986 SPECIES
 
 #### Status
 ACCEPTED

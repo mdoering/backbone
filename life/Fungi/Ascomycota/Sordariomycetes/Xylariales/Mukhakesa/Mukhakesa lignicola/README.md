@@ -1,5 +1,4 @@
-Mukhakesa lignicola Udaiyan & V.S. Hosag., 1992 SPECIES
-=======
+# Mukhakesa lignicola Udaiyan & V.S. Hosag., 1992 SPECIES
 
 #### Status
 ACCEPTED

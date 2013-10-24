@@ -1,5 +1,4 @@
-Gloeosporium bohemicum Kabát & Bubák SPECIES
-=======
+# Gloeosporium bohemicum Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

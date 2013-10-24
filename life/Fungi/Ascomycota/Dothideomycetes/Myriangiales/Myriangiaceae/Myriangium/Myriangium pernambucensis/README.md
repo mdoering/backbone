@@ -1,5 +1,4 @@
-Myriangium pernambucensis Bat. SPECIES
-=======
+# Myriangium pernambucensis Bat. SPECIES
 
 #### Status
 ACCEPTED

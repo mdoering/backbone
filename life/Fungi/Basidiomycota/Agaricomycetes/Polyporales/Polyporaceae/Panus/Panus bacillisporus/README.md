@@ -1,5 +1,4 @@
-Panus bacillisporus Kauffman SPECIES
-=======
+# Panus bacillisporus Kauffman SPECIES
 
 #### Status
 ACCEPTED

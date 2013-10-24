@@ -1,5 +1,4 @@
-Sphaeria ceuthocarpoides Heer SPECIES
-=======
+# Sphaeria ceuthocarpoides Heer SPECIES
 
 #### Status
 ACCEPTED

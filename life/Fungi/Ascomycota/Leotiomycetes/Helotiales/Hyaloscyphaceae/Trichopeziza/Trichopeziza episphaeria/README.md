@@ -1,14 +1,13 @@
-Lachnella episphaeria (Mart.) W. Phillips, 1887 SPECIES
-=======
+# Trichopeziza episphaeria (Mart.) Lambotte, 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 273 (1887)
+Mycol. Belg. 524 (1880)
 
 #### Original name
 null

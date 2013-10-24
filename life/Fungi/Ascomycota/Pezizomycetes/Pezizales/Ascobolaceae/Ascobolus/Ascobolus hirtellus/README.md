@@ -1,5 +1,4 @@
-Ascobolus hirtellus P. Karst. SPECIES
-=======
+# Ascobolus hirtellus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

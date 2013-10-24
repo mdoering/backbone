@@ -1,5 +1,4 @@
-Palaeospirulina A.-S. Edhorn, 1973 GENUS
-=======
+# Palaeospirulina A.-S. Edhorn, 1973 GENUS
 
 #### Status
 ACCEPTED

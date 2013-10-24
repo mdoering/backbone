@@ -1,5 +1,4 @@
-Hendersonia meliloti Woron. SPECIES
-=======
+# Hendersonia meliloti Woron. SPECIES
 
 #### Status
 ACCEPTED

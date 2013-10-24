@@ -1,5 +1,4 @@
-Puccinia gutierreziae Ellis & Everh. SPECIES
-=======
+# Puccinia gutierreziae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

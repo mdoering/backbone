@@ -1,5 +1,4 @@
-Plectocarpon cladoniae R. Sant. SPECIES
-=======
+# Plectocarpon cladoniae R. Sant. SPECIES
 
 #### Status
 ACCEPTED

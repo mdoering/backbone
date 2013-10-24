@@ -1,5 +1,4 @@
-Notothyrites setifer Cookson SPECIES
-=======
+# Notothyrites setifer Cookson SPECIES
 
 #### Status
 ACCEPTED

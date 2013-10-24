@@ -1,5 +1,4 @@
-Diplodina decipiens (Pass.) Allesch. SPECIES
-=======
+# Diplodina decipiens (Pass.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

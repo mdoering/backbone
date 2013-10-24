@@ -1,5 +1,4 @@
-Debaryella hyalina Höhn., 1904 SPECIES
-=======
+# Debaryella hyalina Höhn., 1904 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora umbrinella (Hue) Zahlbr. SPECIES
-=======
+# Lecanora umbrinella (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

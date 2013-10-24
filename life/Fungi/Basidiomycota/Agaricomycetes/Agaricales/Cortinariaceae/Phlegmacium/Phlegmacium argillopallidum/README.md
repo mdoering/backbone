@@ -1,5 +1,4 @@
-Phlegmacium argillopallidum (Jul. Schäff.) M.M. Moser SPECIES
-=======
+# Phlegmacium argillopallidum (Jul. Schäff.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecidea crustulata subsp. crustulata SUBSPECIES
-=======
+# Porpidia crustulata (Ach.) Hertel & Knoph SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hertel, Beih. Nova Hedwigia 79: 435 (1984)
 
 #### Original name
-Lecidea crustulata subsp. crustulata
+Lecidea parasema (Ach.) Ach.
 
 ### Remarks
 null

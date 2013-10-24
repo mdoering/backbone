@@ -1,5 +1,4 @@
-Pyrenula camptospora Malme SPECIES
-=======
+# Pyrenula camptospora Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hinomyces Narumi & Y. Harada GENUS
-=======
+# Hinomyces Narumi & Y. Harada GENUS
 
 #### Status
 ACCEPTED

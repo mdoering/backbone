@@ -1,5 +1,4 @@
-Buellia melanotrichia Darb. SPECIES
-=======
+# Buellia melanotrichia Darb. SPECIES
 
 #### Status
 ACCEPTED

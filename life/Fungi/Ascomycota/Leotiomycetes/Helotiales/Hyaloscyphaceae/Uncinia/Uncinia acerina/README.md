@@ -1,5 +1,4 @@
-Uncinia acerina Velen. SPECIES
-=======
+# Uncinia acerina Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hormiscium pulvinatum Petch SPECIES
-=======
+# Hormiscium pulvinatum Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panus guaraniticus Speg. SPECIES
-=======
+# Panus guaraniticus Speg. SPECIES
 
 #### Status
 ACCEPTED

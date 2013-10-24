@@ -1,5 +1,4 @@
-Thelidium umbrosum (A. Massal.) A. Massal. SPECIES
-=======
+# Thelidium umbrosum (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

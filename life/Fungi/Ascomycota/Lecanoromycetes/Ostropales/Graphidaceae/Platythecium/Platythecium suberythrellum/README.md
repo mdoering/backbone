@@ -1,14 +1,13 @@
-Graphina suberythrella M. Wirth & Hale SPECIES
-=======
+# Platythecium suberythrellum (M. Wirth & Hale) Staiger & Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Smithson. Contr. bot. 40: 42 (1978)
+in Kalb, Staiger & Elix, Symb. bot. upsal. 34(1): 178 (2004)
 
 #### Original name
 Graphina suberythrella M. Wirth & Hale

@@ -1,5 +1,4 @@
-Mstinia Mikhailov, 1939 GENUS
-=======
+# Mstinia Mikhailov, 1939 GENUS
 
 #### Status
 ACCEPTED

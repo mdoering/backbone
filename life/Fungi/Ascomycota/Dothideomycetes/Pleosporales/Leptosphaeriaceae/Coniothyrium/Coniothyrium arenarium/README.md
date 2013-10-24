@@ -1,5 +1,4 @@
-Coniothyrium arenarium E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Coniothyrium arenarium E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

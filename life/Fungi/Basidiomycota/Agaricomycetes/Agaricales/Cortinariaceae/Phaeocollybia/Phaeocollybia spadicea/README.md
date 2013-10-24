@@ -1,5 +1,4 @@
-Phaeocollybia spadicea A.H. Sm. SPECIES
-=======
+# Phaeocollybia spadicea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria lantanae Nitschke SPECIES
-=======
+# Sphaeria lantanae Nitschke SPECIES
 
 #### Status
 ACCEPTED

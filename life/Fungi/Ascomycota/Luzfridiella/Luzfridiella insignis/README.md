@@ -1,5 +1,4 @@
-Luzfridiella insignis R.F. Castañeda & W.B. Kendr., 1991 SPECIES
-=======
+# Luzfridiella insignis R.F. Castañeda & W.B. Kendr., 1991 SPECIES
 
 #### Status
 ACCEPTED

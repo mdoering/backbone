@@ -1,5 +1,4 @@
-Paradiachea howardii Ing, 1982 SPECIES
-=======
+# Paradiachea howardii Ing, 1982 SPECIES
 
 #### Status
 ACCEPTED

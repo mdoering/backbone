@@ -1,5 +1,4 @@
-Puccinia clinopodii-polycephali S.X. Wei SPECIES
-=======
+# Puccinia clinopodii-polycephali S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

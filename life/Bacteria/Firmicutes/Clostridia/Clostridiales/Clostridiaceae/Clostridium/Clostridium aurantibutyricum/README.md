@@ -1,5 +1,4 @@
-Clostridium aurantibutyricum Hellinger, 1944 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium aurantibutyricum Hellinger, 1944 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

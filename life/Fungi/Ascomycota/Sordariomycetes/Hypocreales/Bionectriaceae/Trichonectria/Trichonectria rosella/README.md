@@ -1,5 +1,4 @@
-Trichonectria rosella Höhn. SPECIES
-=======
+# Trichonectria rosella Höhn. SPECIES
 
 #### Status
 ACCEPTED

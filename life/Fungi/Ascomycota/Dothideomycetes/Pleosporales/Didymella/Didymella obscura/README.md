@@ -1,5 +1,4 @@
-Didymella obscura Rehm SPECIES
-=======
+# Didymella obscura Rehm SPECIES
 
 #### Status
 ACCEPTED

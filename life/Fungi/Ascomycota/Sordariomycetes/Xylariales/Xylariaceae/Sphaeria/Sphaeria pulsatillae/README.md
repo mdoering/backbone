@@ -1,5 +1,4 @@
-Sphaeria pulsatillae Lasch SPECIES
-=======
+# Sphaeria pulsatillae Lasch SPECIES
 
 #### Status
 ACCEPTED

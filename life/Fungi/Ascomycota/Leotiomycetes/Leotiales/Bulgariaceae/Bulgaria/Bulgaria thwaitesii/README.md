@@ -1,5 +1,4 @@
-Bulgaria thwaitesii (Berk. & Broome) Seaver & Waterston SPECIES
-=======
+# Bulgaria thwaitesii (Berk. & Broome) Seaver & Waterston SPECIES
 
 #### Status
 ACCEPTED

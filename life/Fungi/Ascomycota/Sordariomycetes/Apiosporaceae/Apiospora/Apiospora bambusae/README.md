@@ -1,17 +1,16 @@
-Scyphospora phyllostachidis L.A. Kantsch. SPECIES
-=======
+# Apiospora bambusae (Turconi) Sivan., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 81(2): 331 (1983)
 
 #### Original name
-Scyphospora phyllostachidis L.A. Kantsch.
+Scirrhia bambusae Turconi, 1916
 
 ### Remarks
 null

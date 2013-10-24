@@ -1,14 +1,13 @@
-Stagonopsis peltigerae P. Karst., 1887 SPECIES
-=======
+# Karsteniomyces peltigerae (P. Karst.) D. Hawksw., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 74(2): 371 (1980)
 
 #### Original name
 Stagonopsis peltigerae P. Karst., 1887

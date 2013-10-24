@@ -1,5 +1,4 @@
-Golovinomyces adenophorae (R.Y. Zheng & G.Q. Chen) V.P. Heluta SPECIES
-=======
+# Golovinomyces adenophorae (R.Y. Zheng & G.Q. Chen) V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

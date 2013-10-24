@@ -1,5 +1,4 @@
-Amanita alexandri Guzmán SPECIES
-=======
+# Amanita alexandri Guzmán SPECIES
 
 #### Status
 ACCEPTED

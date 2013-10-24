@@ -1,5 +1,4 @@
-Sclerotium anemones Schwein. SPECIES
-=======
+# Sclerotium anemones Schwein. SPECIES
 
 #### Status
 ACCEPTED

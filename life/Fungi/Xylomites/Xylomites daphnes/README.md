@@ -1,5 +1,4 @@
-Xylomites daphnes Ettingsh. SPECIES
-=======
+# Xylomites daphnes Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

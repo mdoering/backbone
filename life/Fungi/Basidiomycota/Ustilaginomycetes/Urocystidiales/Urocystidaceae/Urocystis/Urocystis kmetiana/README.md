@@ -1,5 +1,4 @@
-Urocystis kmetiana Magnus SPECIES
-=======
+# Urocystis kmetiana Magnus SPECIES
 
 #### Status
 ACCEPTED

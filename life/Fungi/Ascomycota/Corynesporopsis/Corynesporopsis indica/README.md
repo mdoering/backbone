@@ -1,5 +1,4 @@
-Corynesporopsis indica P.M. Kirk, 1983 SPECIES
-=======
+# Corynesporopsis indica P.M. Kirk, 1983 SPECIES
 
 #### Status
 ACCEPTED

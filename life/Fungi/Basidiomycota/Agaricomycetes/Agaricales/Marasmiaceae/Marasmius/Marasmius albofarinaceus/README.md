@@ -1,5 +1,4 @@
-Marasmius albofarinaceus Henn. SPECIES
-=======
+# Marasmius albofarinaceus Henn. SPECIES
 
 #### Status
 ACCEPTED

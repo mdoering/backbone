@@ -1,5 +1,4 @@
-Russula multifurcata Velen. SPECIES
-=======
+# Russula multifurcata Velen. SPECIES
 
 #### Status
 ACCEPTED

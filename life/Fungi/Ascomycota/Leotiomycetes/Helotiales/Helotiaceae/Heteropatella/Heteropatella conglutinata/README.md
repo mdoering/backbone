@@ -1,5 +1,4 @@
-Heteropatella conglutinata (Ellis & Everh.) Nannf. SPECIES
-=======
+# Heteropatella conglutinata (Ellis & Everh.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

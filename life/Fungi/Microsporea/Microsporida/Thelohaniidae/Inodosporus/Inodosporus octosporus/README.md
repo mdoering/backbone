@@ -1,5 +1,4 @@
-Inodosporus octosporus (Henneguy) R.M. Overstreet & E. Weidner SPECIES
-=======
+# Inodosporus octosporus (Henneguy) R.M. Overstreet & E. Weidner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypa implicata (Lév.) Sacc. SPECIES
-=======
+# Eutypa implicata (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

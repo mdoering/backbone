@@ -1,5 +1,4 @@
-Dicaeoma pachydermum (Wettst.) Kuntze SPECIES
-=======
+# Dicaeoma pachydermum (Wettst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

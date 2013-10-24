@@ -1,8 +1,7 @@
-Tachysoma siseris sensu Stiller, 1974 SPECIES
-=======
+# Oxytricha siseris Vuxanovici, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Cladosporium galii Mulenko, K. Schub. & M. Kozlowska SPECIES
-=======
+# Cladosporium galii Mulenko, K. Schub. & M. Kozlowska SPECIES
 
 #### Status
 ACCEPTED

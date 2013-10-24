@@ -1,5 +1,4 @@
-Sphaerostilbe henningsii Ferd. & Winge SPECIES
-=======
+# Sphaerostilbe henningsii Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

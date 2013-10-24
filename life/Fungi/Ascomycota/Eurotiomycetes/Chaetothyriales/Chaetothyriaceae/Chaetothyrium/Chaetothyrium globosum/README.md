@@ -1,5 +1,4 @@
-Chaetothyrium globosum L.R. Fraser SPECIES
-=======
+# Chaetothyrium globosum L.R. Fraser SPECIES
 
 #### Status
 ACCEPTED

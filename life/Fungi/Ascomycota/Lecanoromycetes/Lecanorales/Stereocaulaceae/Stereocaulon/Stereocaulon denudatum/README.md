@@ -1,5 +1,4 @@
-Stereocaulon denudatum f. denudatum FORM
-=======
+# Stereocaulon denudatum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Deutsche Lich. 4: 13 (1819)
+null
 
 #### Original name
-Stereocaulon denudatum f. denudatum
+null
 
 ### Remarks
 null

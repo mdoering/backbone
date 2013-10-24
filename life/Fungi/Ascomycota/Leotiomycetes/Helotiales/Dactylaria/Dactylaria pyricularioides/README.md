@@ -1,5 +1,4 @@
-Dactylaria pyricularioides Matsush. SPECIES
-=======
+# Dactylaria pyricularioides Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon multifolium Amtoft SPECIES
-=======
+# Dermatocarpon multifolium Amtoft SPECIES
 
 #### Status
 ACCEPTED

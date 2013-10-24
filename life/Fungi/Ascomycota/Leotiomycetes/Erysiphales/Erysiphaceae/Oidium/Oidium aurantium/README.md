@@ -1,5 +1,4 @@
-Oidium aurantium Cooke SPECIES
-=======
+# Oidium aurantium Cooke SPECIES
 
 #### Status
 ACCEPTED

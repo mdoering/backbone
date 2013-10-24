@@ -1,5 +1,4 @@
-Agaricus fuligineus Pers. SPECIES
-=======
+# Agaricus fuligineus Pers. SPECIES
 
 #### Status
 ACCEPTED

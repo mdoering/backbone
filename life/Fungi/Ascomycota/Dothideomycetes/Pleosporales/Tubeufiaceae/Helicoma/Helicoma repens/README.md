@@ -1,5 +1,4 @@
-Helicoma repens Morgan SPECIES
-=======
+# Helicoma repens Morgan SPECIES
 
 #### Status
 ACCEPTED

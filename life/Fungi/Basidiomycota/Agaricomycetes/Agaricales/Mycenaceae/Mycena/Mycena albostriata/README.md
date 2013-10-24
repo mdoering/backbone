@@ -1,5 +1,4 @@
-Mycena albostriata Dennis SPECIES
-=======
+# Mycena albostriata Dennis SPECIES
 
 #### Status
 ACCEPTED

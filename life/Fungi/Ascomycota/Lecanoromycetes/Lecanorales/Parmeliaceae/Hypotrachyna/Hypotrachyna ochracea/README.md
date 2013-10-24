@@ -1,5 +1,4 @@
-Hypotrachyna ochracea Marcelli & C. H. Ribeiro SPECIES
-=======
+# Hypotrachyna ochracea Marcelli & C. H. Ribeiro SPECIES
 
 #### Status
 ACCEPTED

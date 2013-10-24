@@ -1,5 +1,4 @@
-Actinothyrium callicola Speg. SPECIES
-=======
+# Actinothyrium callicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Titanella pelorospora (Dearn.) M.E. Barr SPECIES
-=======
+# Titanella pelorospora (Dearn.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

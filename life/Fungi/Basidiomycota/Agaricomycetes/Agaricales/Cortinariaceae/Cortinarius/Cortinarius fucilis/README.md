@@ -1,5 +1,4 @@
-Cortinarius fucilis Britzelm. SPECIES
-=======
+# Cortinarius fucilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

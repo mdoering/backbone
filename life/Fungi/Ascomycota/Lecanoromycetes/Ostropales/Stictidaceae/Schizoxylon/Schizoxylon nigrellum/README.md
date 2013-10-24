@@ -1,5 +1,4 @@
-Schizoxylon nigrellum (Sommerf.) Sherwood SPECIES
-=======
+# Schizoxylon nigrellum (Sommerf.) Sherwood SPECIES
 
 #### Status
 ACCEPTED

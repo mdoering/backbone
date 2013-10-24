@@ -1,5 +1,4 @@
-Sphaeria vaciniicola Schwein. SPECIES
-=======
+# Sphaeria vaciniicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

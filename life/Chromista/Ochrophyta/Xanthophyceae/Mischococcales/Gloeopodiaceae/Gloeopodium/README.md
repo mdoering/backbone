@@ -1,5 +1,4 @@
-Gloeopodium Pascher, 1939 GENUS
-=======
+# Gloeopodium Pascher, 1939 GENUS
 
 #### Status
 ACCEPTED

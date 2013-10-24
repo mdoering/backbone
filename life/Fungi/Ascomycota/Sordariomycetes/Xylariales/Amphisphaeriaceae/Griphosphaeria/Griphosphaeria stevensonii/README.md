@@ -1,5 +1,4 @@
-Griphosphaeria stevensonii (Petr.) E. Müll. & Arx SPECIES
-=======
+# Griphosphaeria stevensonii (Petr.) E. Müll. & Arx SPECIES
 
 #### Status
 ACCEPTED

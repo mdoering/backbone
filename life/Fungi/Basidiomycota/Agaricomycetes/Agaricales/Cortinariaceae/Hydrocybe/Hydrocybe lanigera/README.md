@@ -1,5 +1,4 @@
-Hydrocybe lanigera (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe lanigera (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

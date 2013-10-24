@@ -1,5 +1,4 @@
-Scytonema samoense Wille SPECIES
-=======
+# Scytonema samoense Wille SPECIES
 
 #### Status
 ACCEPTED

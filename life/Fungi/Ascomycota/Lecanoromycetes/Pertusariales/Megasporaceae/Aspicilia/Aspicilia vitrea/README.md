@@ -1,5 +1,4 @@
-Aspicilia vitrea Anzi SPECIES
-=======
+# Aspicilia vitrea Anzi SPECIES
 
 #### Status
 ACCEPTED

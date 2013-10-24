@@ -1,5 +1,4 @@
-Pestalotia lupini Sorauer SPECIES
-=======
+# Pestalotia lupini Sorauer SPECIES
 
 #### Status
 ACCEPTED

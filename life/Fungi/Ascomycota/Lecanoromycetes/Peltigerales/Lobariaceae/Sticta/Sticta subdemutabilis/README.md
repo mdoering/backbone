@@ -1,5 +1,4 @@
-Sticta subdemutabilis (Gyeln.) Zahlbr. SPECIES
-=======
+# Sticta subdemutabilis (Gyeln.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

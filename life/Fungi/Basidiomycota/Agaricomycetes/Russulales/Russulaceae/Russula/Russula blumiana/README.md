@@ -1,5 +1,4 @@
-Russula blumiana Bon SPECIES
-=======
+# Russula blumiana Bon SPECIES
 
 #### Status
 ACCEPTED

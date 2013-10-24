@@ -1,5 +1,4 @@
-Cryptomonas parapyrenoidifera Skuja SPECIES
-=======
+# Cryptomonas parapyrenoidifera Skuja SPECIES
 
 #### Status
 ACCEPTED

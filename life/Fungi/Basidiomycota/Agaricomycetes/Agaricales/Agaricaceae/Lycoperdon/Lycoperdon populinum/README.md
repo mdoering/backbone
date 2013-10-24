@@ -1,5 +1,4 @@
-Lycoperdon populinum Jacq. SPECIES
-=======
+# Lycoperdon populinum Jacq. SPECIES
 
 #### Status
 ACCEPTED

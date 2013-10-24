@@ -1,5 +1,4 @@
-Asteropsis Gonz. Fragoso, 1917 GENUS
-=======
+# Asteropsis Gonz. Fragoso, 1917 GENUS
 
 #### Status
 ACCEPTED

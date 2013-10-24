@@ -1,5 +1,4 @@
-Hygrophorus glauconitens (Fr.) SPECIES
-=======
+# Hygrophorus glauconitens (Fr.) SPECIES
 
 #### Status
 ACCEPTED

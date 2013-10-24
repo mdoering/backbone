@@ -1,5 +1,4 @@
-Pseudopeziza morthieri Sacc. SPECIES
-=======
+# Pseudopeziza morthieri Sacc. SPECIES
 
 #### Status
 ACCEPTED

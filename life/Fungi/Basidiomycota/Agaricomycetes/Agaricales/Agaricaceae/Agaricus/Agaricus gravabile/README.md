@@ -1,5 +1,4 @@
-Agaricus gravabile Britzelm. SPECIES
-=======
+# Agaricus gravabile Britzelm. SPECIES
 
 #### Status
 ACCEPTED

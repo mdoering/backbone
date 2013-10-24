@@ -1,5 +1,4 @@
-Cercospora pergulariae J.M. Yen & Lim SPECIES
-=======
+# Cercospora pergulariae J.M. Yen & Lim SPECIES
 
 #### Status
 ACCEPTED

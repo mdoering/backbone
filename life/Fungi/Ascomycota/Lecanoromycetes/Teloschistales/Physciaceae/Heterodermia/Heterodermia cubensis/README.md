@@ -1,5 +1,4 @@
-Heterodermia cubensis (Kurok.) Trass SPECIES
-=======
+# Heterodermia cubensis (Kurok.) Trass SPECIES
 
 #### Status
 ACCEPTED

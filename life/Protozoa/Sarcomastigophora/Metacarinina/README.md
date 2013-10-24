@@ -1,5 +1,4 @@
-Metacarinina McCulloch, 1977 GENUS
-=======
+# Metacarinina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

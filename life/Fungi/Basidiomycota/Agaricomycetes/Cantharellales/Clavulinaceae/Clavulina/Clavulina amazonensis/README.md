@@ -1,5 +1,4 @@
-Clavulina amazonensis Corner SPECIES
-=======
+# Clavulina amazonensis Corner SPECIES
 
 #### Status
 ACCEPTED

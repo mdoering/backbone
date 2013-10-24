@@ -1,5 +1,4 @@
-Hygrocybe blestiana Singer SPECIES
-=======
+# Hygrocybe blestiana Singer SPECIES
 
 #### Status
 ACCEPTED

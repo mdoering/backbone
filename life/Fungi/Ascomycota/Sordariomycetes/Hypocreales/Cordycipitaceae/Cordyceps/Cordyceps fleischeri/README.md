@@ -1,5 +1,4 @@
-Cordyceps fleischeri Penz. & Sacc. SPECIES
-=======
+# Cordyceps fleischeri Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

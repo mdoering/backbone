@@ -1,5 +1,4 @@
-Ovulariopsis erysiphoides Pat. & Har., 1900 SPECIES
-=======
+# Ovulariopsis erysiphoides Pat. & Har., 1900 SPECIES
 
 #### Status
 ACCEPTED

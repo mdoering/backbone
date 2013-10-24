@@ -1,5 +1,4 @@
-Clathrulina Cienkowsky, 1867 GENUS
-=======
+# Clathrulina Cienkowsky, 1867 GENUS
 
 #### Status
 ACCEPTED

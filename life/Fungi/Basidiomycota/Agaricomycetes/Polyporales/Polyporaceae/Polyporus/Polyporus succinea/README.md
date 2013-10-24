@@ -1,5 +1,4 @@
-Polyporus succinea Conwentz {?} SPECIES
-=======
+# Polyporus succinea Conwentz {?} SPECIES
 
 #### Status
 ACCEPTED

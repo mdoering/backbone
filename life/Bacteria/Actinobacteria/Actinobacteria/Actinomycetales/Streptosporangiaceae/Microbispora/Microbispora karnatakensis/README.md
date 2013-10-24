@@ -1,5 +1,4 @@
-Microbispora karnatakensis Rao et al., 1987 SPECIES
-=======
+# Microbispora karnatakensis Rao et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

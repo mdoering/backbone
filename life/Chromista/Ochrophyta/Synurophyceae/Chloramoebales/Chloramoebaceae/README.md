@@ -1,5 +1,4 @@
-Chloramoebaceae Luther, 1899 FAMILY
-=======
+# Chloramoebaceae Luther, 1899 FAMILY
 
 #### Status
 ACCEPTED

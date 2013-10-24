@@ -1,5 +1,4 @@
-Eomstinia Lipina, 1989 GENUS
-=======
+# Eomstinia Lipina, 1989 GENUS
 
 #### Status
 ACCEPTED

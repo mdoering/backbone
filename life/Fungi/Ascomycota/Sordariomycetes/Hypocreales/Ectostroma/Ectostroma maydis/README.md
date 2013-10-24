@@ -1,5 +1,4 @@
-Ectostroma maydis Lobik SPECIES
-=======
+# Ectostroma maydis Lobik SPECIES
 
 #### Status
 ACCEPTED

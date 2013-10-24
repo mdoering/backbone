@@ -1,5 +1,4 @@
-Phyllopsora rosei Coppins & P. James SPECIES
-=======
+# Phyllopsora rosei Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

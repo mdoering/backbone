@@ -1,5 +1,4 @@
-Hymenoscyphus erraticus (W.L. White) Arendh. SPECIES
-=======
+# Hymenoscyphus erraticus (W.L. White) Arendh. SPECIES
 
 #### Status
 ACCEPTED

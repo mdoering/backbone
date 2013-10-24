@@ -1,5 +1,4 @@
-Chromosporium humanum P. Karst. SPECIES
-=======
+# Chromosporium humanum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

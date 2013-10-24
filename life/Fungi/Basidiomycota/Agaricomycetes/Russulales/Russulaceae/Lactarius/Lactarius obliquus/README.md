@@ -1,5 +1,4 @@
-Lactarius obliquus Fr. SPECIES
-=======
+# Lactarius obliquus Fr. SPECIES
 
 #### Status
 ACCEPTED

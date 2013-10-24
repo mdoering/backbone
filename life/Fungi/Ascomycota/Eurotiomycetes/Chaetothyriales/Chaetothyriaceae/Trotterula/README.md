@@ -1,5 +1,4 @@
-Trotterula GENUS
-=======
+# Trotterula GENUS
 
 #### Status
 ACCEPTED

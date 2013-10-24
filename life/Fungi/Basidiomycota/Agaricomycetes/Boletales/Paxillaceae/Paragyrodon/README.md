@@ -1,5 +1,4 @@
-Paragyrodon (Singer) Singer GENUS
-=======
+# Paragyrodon (Singer) Singer GENUS
 
 #### Status
 ACCEPTED

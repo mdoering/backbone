@@ -1,5 +1,4 @@
-Collybia inconspicua Singer SPECIES
-=======
+# Collybia inconspicua Singer SPECIES
 
 #### Status
 ACCEPTED

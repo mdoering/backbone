@@ -1,5 +1,4 @@
-Coryphidium longispinosum Gao Lianda, 1991 SPECIES
-=======
+# Coryphidium longispinosum Gao Lianda, 1991 SPECIES
 
 #### Status
 ACCEPTED

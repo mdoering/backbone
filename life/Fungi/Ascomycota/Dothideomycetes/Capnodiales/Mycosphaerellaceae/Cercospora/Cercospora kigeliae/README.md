@@ -1,5 +1,4 @@
-Cercospora kigeliae Lall & H.S. Gill SPECIES
-=======
+# Cercospora kigeliae Lall & H.S. Gill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Geaster ambiguum Mont. SPECIES
-=======
+# Geastrum ambiguum Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster ambiguum Mont.
+Geastrum ambiguum Mont.
 
 ### Remarks
 null

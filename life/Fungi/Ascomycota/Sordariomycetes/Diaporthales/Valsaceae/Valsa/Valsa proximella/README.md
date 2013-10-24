@@ -1,5 +1,4 @@
-Valsa proximella Naumov SPECIES
-=======
+# Valsa proximella Naumov SPECIES
 
 #### Status
 ACCEPTED

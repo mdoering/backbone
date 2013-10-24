@@ -1,5 +1,4 @@
-Lecanora holmiensis H. Magn. SPECIES
-=======
+# Lecanora holmiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

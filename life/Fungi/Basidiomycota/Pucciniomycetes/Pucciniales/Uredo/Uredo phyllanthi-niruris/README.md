@@ -1,5 +1,4 @@
-Uredo phyllanthi-niruris M.S. Patil SPECIES
-=======
+# Uredo phyllanthi-niruris M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

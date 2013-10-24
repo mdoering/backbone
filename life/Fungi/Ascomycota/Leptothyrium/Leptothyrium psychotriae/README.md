@@ -1,5 +1,4 @@
-Leptothyrium psychotriae Syd. {?} SPECIES
-=======
+# Leptothyrium psychotriae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

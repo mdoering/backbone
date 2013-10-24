@@ -1,5 +1,4 @@
-Polyporus umbraculum Thüm. SPECIES
-=======
+# Polyporus umbraculum Thüm. SPECIES
 
 #### Status
 ACCEPTED

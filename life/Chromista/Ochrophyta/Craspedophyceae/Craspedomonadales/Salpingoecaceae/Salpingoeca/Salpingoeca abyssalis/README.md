@@ -1,5 +1,4 @@
-Salpingoeca abyssalis Nitsche, Weitere, Scheckenbach, Hausmann, Wylezich & Arndt, 2007 SPECIES
-=======
+# Salpingoeca abyssalis Nitsche, Weitere, Scheckenbach, Hausmann, Wylezich & Arndt, 2007 SPECIES
 
 #### Status
 ACCEPTED

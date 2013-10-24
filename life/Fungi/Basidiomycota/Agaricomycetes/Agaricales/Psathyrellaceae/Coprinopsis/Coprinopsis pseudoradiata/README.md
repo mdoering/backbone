@@ -1,5 +1,4 @@
-Coprinopsis pseudoradiata (Kühner & Joss. ex Watling) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis pseudoradiata (Kühner & Joss. ex Watling) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

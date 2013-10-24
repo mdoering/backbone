@@ -1,5 +1,4 @@
-Puccinia calocephali McAlpine SPECIES
-=======
+# Puccinia calocephali McAlpine SPECIES
 
 #### Status
 ACCEPTED

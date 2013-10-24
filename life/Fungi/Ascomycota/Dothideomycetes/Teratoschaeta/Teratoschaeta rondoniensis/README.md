@@ -1,5 +1,4 @@
-Teratoschaeta rondoniensis Bat. & O.M. Fonseca, 1967 SPECIES
-=======
+# Teratoschaeta rondoniensis Bat. & O.M. Fonseca, 1967 SPECIES
 
 #### Status
 ACCEPTED

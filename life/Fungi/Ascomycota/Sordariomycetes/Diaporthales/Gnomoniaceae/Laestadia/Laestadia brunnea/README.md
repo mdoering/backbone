@@ -1,5 +1,4 @@
-Laestadia brunnea (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Laestadia brunnea (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

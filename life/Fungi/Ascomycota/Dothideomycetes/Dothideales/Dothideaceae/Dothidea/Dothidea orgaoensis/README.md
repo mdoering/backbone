@@ -1,5 +1,4 @@
-Dothidea orgaoensis Henn. SPECIES
-=======
+# Dothidea orgaoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macowanites subolivaceus A.H. Sm. SPECIES
-=======
+# Macowanites subolivaceus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

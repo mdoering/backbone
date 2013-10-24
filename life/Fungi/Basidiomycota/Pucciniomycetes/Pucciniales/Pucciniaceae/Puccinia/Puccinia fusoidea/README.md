@@ -1,5 +1,4 @@
-Puccinia fusoidea R.G. Bagn. SPECIES
-=======
+# Puccinia fusoidea R.G. Bagn. SPECIES
 
 #### Status
 ACCEPTED

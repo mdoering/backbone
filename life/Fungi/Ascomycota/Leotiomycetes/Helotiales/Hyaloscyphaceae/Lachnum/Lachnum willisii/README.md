@@ -1,14 +1,13 @@
-Dasyscyphus willisii G.W. Beaton, 1978 SPECIES
-=======
+# Lachnum willisii (G.W. Beaton) Spooner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 71(2): 216 (1978)
+Biblthca Mycol. 116: 510 (1987)
 
 #### Original name
 Dasyscyphus willisii G.W. Beaton, 1978

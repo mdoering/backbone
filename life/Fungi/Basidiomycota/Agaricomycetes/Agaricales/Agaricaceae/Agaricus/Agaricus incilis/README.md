@@ -1,17 +1,16 @@
-Agaricus incilis var. incilis VARIETY
-=======
+# Agaricus incilis Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 69 (1838)
 
 #### Original name
-null
+Agaricus incilis Fr.
 
 ### Remarks
 null

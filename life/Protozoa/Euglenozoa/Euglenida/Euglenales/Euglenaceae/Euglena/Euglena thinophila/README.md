@@ -1,5 +1,4 @@
-Euglena thinophila Skuja SPECIES
-=======
+# Euglena thinophila Skuja SPECIES
 
 #### Status
 ACCEPTED

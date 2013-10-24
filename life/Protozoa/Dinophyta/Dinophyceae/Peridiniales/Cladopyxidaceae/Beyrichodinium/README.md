@@ -1,5 +1,4 @@
-Beyrichodinium R. Below, 1990 GENUS
-=======
+# Beyrichodinium R. Below, 1990 GENUS
 
 #### Status
 ACCEPTED

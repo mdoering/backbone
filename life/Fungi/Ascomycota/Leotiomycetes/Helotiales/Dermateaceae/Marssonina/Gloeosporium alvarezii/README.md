@@ -1,5 +1,4 @@
-Gloeosporium alvarezii Rostr. SPECIES
-=======
+# Gloeosporium alvarezii Rostr. SPECIES
 
 #### Status
 ACCEPTED

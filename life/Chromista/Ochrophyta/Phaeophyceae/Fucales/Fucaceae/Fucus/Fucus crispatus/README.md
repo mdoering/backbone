@@ -1,5 +1,4 @@
-Fucus crispatus Linnaeus SPECIES
-=======
+# Fucus crispatus Linnaeus SPECIES
 
 #### Status
 ACCEPTED

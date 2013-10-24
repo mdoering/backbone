@@ -1,5 +1,4 @@
-Uredo crinitae G. Cunn. SPECIES
-=======
+# Uredo crinitae G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

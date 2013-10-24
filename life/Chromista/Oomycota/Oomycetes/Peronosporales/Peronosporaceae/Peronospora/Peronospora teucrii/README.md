@@ -1,5 +1,4 @@
-Peronospora teucrii Gäum. SPECIES
-=======
+# Peronospora teucrii Gäum. SPECIES
 
 #### Status
 ACCEPTED
