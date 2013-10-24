@@ -1,5 +1,4 @@
-Omphalia pallida Murrill SPECIES
-=======
+# Omphalia pallida Murrill SPECIES
 
 #### Status
 ACCEPTED

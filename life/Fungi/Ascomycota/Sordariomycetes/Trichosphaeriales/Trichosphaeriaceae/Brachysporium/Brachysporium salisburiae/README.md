@@ -1,5 +1,4 @@
-Brachysporium salisburiae (Rabenh.) Sacc. SPECIES
-=======
+# Brachysporium salisburiae (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

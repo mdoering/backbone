@@ -1,5 +1,4 @@
-Halteria minuta Tamar SPECIES
-=======
+# Halteria minuta Tamar SPECIES
 
 #### Status
 ACCEPTED

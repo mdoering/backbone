@@ -1,5 +1,4 @@
-Catillaria praedicta Tretiach & Hafellner SPECIES
-=======
+# Catillaria praedicta Tretiach & Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma clitocyboides E. Horak & Singer SPECIES
-=======
+# Entoloma clitocyboides E. Horak & Singer SPECIES
 
 #### Status
 ACCEPTED

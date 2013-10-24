@@ -1,5 +1,4 @@
-Hymenula rhodella Jaap SPECIES
-=======
+# Hymenula rhodella Jaap SPECIES
 
 #### Status
 ACCEPTED

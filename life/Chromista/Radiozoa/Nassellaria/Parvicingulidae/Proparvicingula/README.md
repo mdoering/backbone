@@ -1,5 +1,4 @@
-Proparvicingula Carter, 1993 GENUS
-=======
+# Proparvicingula Carter, 1993 GENUS
 
 #### Status
 ACCEPTED

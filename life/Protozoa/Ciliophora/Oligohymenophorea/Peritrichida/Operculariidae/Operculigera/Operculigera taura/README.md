@@ -1,5 +1,4 @@
-Operculigera taura Clamp, 1991 SPECIES
-=======
+# Operculigera taura Clamp, 1991 SPECIES
 
 #### Status
 ACCEPTED

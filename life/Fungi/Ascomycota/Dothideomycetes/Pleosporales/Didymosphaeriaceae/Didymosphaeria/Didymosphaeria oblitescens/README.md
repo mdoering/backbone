@@ -1,17 +1,16 @@
-Massariopsis diplospora (Cooke) Kirschst., 1935 SPECIES
-=======
+# Didymosphaeria oblitescens (Berk. & Broome) Fuckel, 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 33: 218 (1935)
+Symbolae mycologicae 1: 301 (1871)
 
 #### Original name
-Sphaeria diplospora Cooke, 1866
+Sphaeria oblitescens Berk. & Broome, 1859
 
 ### Remarks
 null

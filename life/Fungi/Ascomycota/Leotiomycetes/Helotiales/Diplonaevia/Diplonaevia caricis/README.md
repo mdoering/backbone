@@ -1,5 +1,4 @@
-Diplonaevia caricis (Petr.) B. Hein SPECIES
-=======
+# Diplonaevia caricis (Petr.) B. Hein SPECIES
 
 #### Status
 ACCEPTED

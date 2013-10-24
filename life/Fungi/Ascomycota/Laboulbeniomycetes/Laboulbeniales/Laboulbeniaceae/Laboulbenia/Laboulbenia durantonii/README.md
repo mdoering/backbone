@@ -1,5 +1,4 @@
-Laboulbenia durantonii Balazuc SPECIES
-=======
+# Laboulbenia durantonii Balazuc SPECIES
 
 #### Status
 ACCEPTED

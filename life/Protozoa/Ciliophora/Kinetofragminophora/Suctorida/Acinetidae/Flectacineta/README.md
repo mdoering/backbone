@@ -1,5 +1,4 @@
-Flectacineta Jankowski, 1978 GENUS
-=======
+# Flectacineta Jankowski, 1978 GENUS
 
 #### Status
 ACCEPTED

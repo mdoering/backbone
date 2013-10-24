@@ -1,5 +1,4 @@
-Pertusaria asiana Vain. SPECIES
-=======
+# Pertusaria asiana Vain. SPECIES
 
 #### Status
 ACCEPTED

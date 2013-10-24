@@ -1,5 +1,4 @@
-Biscutum dissimilis Wind & Wise in Wise & Wind, 1977 SPECIES
-=======
+# Biscutum dissimilis Wind & Wise in Wise & Wind, 1977 SPECIES
 
 #### Status
 ACCEPTED

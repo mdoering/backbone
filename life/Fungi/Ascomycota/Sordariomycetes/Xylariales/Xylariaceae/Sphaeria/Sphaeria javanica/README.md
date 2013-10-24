@@ -1,5 +1,4 @@
-Sphaeria javanica Zipp. & Lév. SPECIES
-=======
+# Sphaeria javanica Zipp. & Lév. SPECIES
 
 #### Status
 ACCEPTED

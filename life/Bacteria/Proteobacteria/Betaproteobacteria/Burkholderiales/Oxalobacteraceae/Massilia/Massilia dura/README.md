@@ -1,5 +1,4 @@
-Massilia dura Zhang et al., 2006 SPECIES
-=======
+# Massilia dura Zhang et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

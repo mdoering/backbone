@@ -1,5 +1,4 @@
-Polyblastia arenaria (Hampe) Jatta SPECIES
-=======
+# Polyblastia arenaria (Hampe) Jatta SPECIES
 
 #### Status
 ACCEPTED

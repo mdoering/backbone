@@ -1,5 +1,4 @@
-Micropeltis ugandae Hansf., 1941 SPECIES
-=======
+# Micropeltis ugandae Hansf., 1941 SPECIES
 
 #### Status
 ACCEPTED

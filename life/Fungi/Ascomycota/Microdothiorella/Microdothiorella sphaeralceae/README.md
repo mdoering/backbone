@@ -1,5 +1,4 @@
-Microdothiorella sphaeralceae M.E.A. Costa & Sousa da Câmara, 1955 SPECIES
-=======
+# Microdothiorella sphaeralceae M.E.A. Costa & Sousa da Câmara, 1955 SPECIES
 
 #### Status
 ACCEPTED

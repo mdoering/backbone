@@ -1,17 +1,16 @@
-Amanita spissa var. ampla (Pers.) M.M. Moser VARIETY
-=======
+# Amanitaceae R. Heim ex Pouzar FAMILY
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams, Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Baupilze (Agaricales und Gastromycetes) 2b: 112 (1953)
+Ceská Mykol. 37: 173 (1983)
 
 #### Original name
-Agaricus amplus Pers.
+Amanitaceae R. Heim ex Pouzar
 
 ### Remarks
 null

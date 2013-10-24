@@ -1,5 +1,4 @@
-Fusicladium stuckertii (Speg.) M.B. Ellis SPECIES
-=======
+# Fusicladium stuckertii (Speg.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

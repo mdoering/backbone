@@ -1,5 +1,4 @@
-Claviceps philippii Rehm SPECIES
-=======
+# Claviceps philippii Rehm SPECIES
 
 #### Status
 ACCEPTED

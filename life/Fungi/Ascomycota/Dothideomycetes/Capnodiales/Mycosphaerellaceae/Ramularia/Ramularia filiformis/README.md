@@ -1,5 +1,4 @@
-Ramularia filiformis Lindr. SPECIES
-=======
+# Ramularia filiformis Lindr. SPECIES
 
 #### Status
 ACCEPTED

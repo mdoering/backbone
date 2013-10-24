@@ -1,8 +1,7 @@
-Gyroidina lamarckiana (d'Orbigny, 1839) SPECIES
-=======
+# Gyroidinoides lamarckiana (d'Orbigny, 1839) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

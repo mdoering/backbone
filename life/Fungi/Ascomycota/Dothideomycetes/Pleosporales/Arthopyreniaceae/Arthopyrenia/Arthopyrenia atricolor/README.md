@@ -1,5 +1,4 @@
-Arthopyrenia atricolor Arnold SPECIES
-=======
+# Arthopyrenia atricolor Arnold SPECIES
 
 #### Status
 ACCEPTED

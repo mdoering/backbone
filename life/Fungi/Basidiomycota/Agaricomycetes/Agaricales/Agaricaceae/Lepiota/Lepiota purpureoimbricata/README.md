@@ -1,5 +1,4 @@
-Lepiota purpureoimbricata Beeli SPECIES
-=======
+# Lepiota purpureoimbricata Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillariella darjeelingensis Sarwal & Locq. SPECIES
-=======
+# Armillariella darjeelingensis Sarwal & Locq. SPECIES
 
 #### Status
 ACCEPTED

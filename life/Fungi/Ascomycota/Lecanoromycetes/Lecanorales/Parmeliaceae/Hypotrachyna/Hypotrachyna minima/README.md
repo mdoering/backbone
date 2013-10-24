@@ -1,5 +1,4 @@
-Hypotrachyna minima (Lynge) Hale SPECIES
-=======
+# Hypotrachyna minima (Lynge) Hale SPECIES
 
 #### Status
 ACCEPTED

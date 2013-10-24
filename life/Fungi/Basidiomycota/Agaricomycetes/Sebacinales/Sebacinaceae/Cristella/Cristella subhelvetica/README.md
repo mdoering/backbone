@@ -1,5 +1,4 @@
-Cristella subhelvetica Parmasto SPECIES
-=======
+# Cristella subhelvetica Parmasto SPECIES
 
 #### Status
 ACCEPTED

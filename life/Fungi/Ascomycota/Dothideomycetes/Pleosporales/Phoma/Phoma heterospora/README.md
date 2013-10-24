@@ -1,5 +1,4 @@
-Phoma heterospora Speg. SPECIES
-=======
+# Phoma heterospora Speg. SPECIES
 
 #### Status
 ACCEPTED

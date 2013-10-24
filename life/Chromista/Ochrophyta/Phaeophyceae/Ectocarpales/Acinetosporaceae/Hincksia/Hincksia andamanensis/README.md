@@ -1,5 +1,4 @@
-Hincksia andamanensis (V. Krishnamurthy & Baluswami) P.C. Silva SPECIES
-=======
+# Hincksia andamanensis (V. Krishnamurthy & Baluswami) P.C. Silva SPECIES
 
 #### Status
 ACCEPTED

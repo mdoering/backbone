@@ -1,5 +1,4 @@
-Fistulariella roesleri (Schaer.) Bowler & Rundel SPECIES
-=======
+# Fistulariella roesleri (Schaer.) Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

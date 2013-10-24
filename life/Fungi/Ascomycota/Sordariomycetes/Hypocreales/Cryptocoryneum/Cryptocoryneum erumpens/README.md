@@ -1,5 +1,4 @@
-Cryptocoryneum erumpens Sacc. SPECIES
-=======
+# Cryptocoryneum erumpens Sacc. SPECIES
 
 #### Status
 ACCEPTED

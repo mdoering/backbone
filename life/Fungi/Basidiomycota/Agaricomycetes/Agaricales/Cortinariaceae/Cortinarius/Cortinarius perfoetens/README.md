@@ -1,5 +1,4 @@
-Cortinarius perfoetens E. Horak, Peintner, M.M. Moser & Vilgalys SPECIES
-=======
+# Cortinarius perfoetens E. Horak, Peintner, M.M. Moser & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

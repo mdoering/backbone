@@ -1,5 +1,4 @@
-Lycoperdon fasciculatum Lloyd SPECIES
-=======
+# Lycoperdon fasciculatum Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria bicolor Berk. & Broome, 1873 SPECIES
-=======
+# Nectria bicolor Berk. & Broome, 1873 SPECIES
 
 #### Status
 ACCEPTED

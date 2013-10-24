@@ -1,5 +1,4 @@
-Didymosporium conglutinatum Corda SPECIES
-=======
+# Didymosporium conglutinatum Corda SPECIES
 
 #### Status
 ACCEPTED

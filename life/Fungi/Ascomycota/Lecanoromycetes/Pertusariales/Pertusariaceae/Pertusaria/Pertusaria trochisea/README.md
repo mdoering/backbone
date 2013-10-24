@@ -1,5 +1,4 @@
-Pertusaria trochisea Norman SPECIES
-=======
+# Pertusaria trochisea Norman SPECIES
 
 #### Status
 ACCEPTED

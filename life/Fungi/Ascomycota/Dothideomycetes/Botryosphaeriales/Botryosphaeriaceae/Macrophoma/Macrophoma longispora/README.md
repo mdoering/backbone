@@ -1,5 +1,4 @@
-Macrophoma longispora (I. Miyake) Hara SPECIES
-=======
+# Macrophoma longispora (I. Miyake) Hara SPECIES
 
 #### Status
 ACCEPTED

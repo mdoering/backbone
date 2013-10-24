@@ -1,5 +1,4 @@
-Fusicoccum veronense C. Massal. SPECIES
-=======
+# Fusicoccum veronense C. Massal. SPECIES
 
 #### Status
 ACCEPTED

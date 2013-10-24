@@ -1,5 +1,4 @@
-Trogia subglobospora Corner SPECIES
-=======
+# Trogia subglobospora Corner SPECIES
 
 #### Status
 ACCEPTED

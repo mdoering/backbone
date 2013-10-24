@@ -1,5 +1,4 @@
-Phoma patagonica Trotter SPECIES
-=======
+# Phoma patagonica Trotter SPECIES
 
 #### Status
 ACCEPTED

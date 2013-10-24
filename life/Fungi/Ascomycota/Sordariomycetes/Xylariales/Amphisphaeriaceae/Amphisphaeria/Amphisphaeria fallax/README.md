@@ -1,5 +1,4 @@
-Amphisphaeria fallax De Not., 1863 SPECIES
-=======
+# Amphisphaeria fallax De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED

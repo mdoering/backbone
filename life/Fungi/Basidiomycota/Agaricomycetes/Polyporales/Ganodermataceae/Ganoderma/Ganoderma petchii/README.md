@@ -1,5 +1,4 @@
-Ganoderma petchii (Lloyd) Steyaert SPECIES
-=======
+# Ganoderma petchii (Lloyd) Steyaert SPECIES
 
 #### Status
 ACCEPTED

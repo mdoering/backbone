@@ -1,5 +1,4 @@
-Aspicilia plicigera f. plicigera FORM
-=======
+# Aspicilia plicigera (Zahlbr.) Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bryologist 82(3): 402 (1979)
 
 #### Original name
-Aspicilia plicigera f. plicigera
+Lecanora plicigera Zahlbr.
 
 ### Remarks
 null

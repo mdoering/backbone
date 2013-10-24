@@ -1,5 +1,4 @@
-Cercospora polymera Syd. SPECIES
-=======
+# Cercospora polymera Syd. SPECIES
 
 #### Status
 ACCEPTED

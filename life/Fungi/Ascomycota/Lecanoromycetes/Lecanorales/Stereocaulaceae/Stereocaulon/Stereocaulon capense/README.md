@@ -1,5 +1,4 @@
-Stereocaulon capense I.M. Lamb SPECIES
-=======
+# Stereocaulon capense I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

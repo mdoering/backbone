@@ -1,5 +1,4 @@
-Lionotus triqueter Penard, 1922 SPECIES
-=======
+# Lionotus triqueter Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

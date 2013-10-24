@@ -1,5 +1,4 @@
-Lecidea peziza (Mont.) Schaer. SPECIES
-=======
+# Lecidea peziza (Mont.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

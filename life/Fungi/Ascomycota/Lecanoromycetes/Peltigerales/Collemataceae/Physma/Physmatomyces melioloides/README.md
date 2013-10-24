@@ -1,5 +1,4 @@
-Physmatomyces melioloides Rehm SPECIES
-=======
+# Physmatomyces melioloides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria calystegiae Nelen SPECIES
-=======
+# Alternaria calystegiae Nelen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiotella lateritiosquamulosa Rick SPECIES
-=======
+# Pholiotella lateritiosquamulosa Rick SPECIES
 
 #### Status
 ACCEPTED

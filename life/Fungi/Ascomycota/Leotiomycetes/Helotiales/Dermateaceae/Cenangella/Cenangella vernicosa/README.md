@@ -1,5 +1,4 @@
-Cenangella vernicosa (Fuckel) Sacc. SPECIES
-=======
+# Cenangella vernicosa (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum chlorinum Link, 1816 SPECIES
-=======
+# Sporotrichum chlorinum Link, 1816 SPECIES
 
 #### Status
 ACCEPTED

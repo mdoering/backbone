@@ -1,5 +1,4 @@
-Pseudoparmelia convexa Elix & T. H. Nash SPECIES
-=======
+# Pseudoparmelia convexa Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

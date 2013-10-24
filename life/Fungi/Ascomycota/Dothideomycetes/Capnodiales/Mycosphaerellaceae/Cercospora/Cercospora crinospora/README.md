@@ -1,5 +1,4 @@
-Cercospora crinospora G.F. Atk. SPECIES
-=======
+# Cercospora crinospora G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

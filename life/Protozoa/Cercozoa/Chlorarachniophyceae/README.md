@@ -1,5 +1,4 @@
-Chlorarachniophyceae Hibberd & Norris, 1984 CLASS
-=======
+# Chlorarachniophyceae Hibberd & Norris, 1984 CLASS
 
 #### Status
 ACCEPTED

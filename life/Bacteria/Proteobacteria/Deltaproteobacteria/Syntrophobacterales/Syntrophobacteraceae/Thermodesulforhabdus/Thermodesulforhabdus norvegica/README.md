@@ -1,5 +1,4 @@
-Thermodesulforhabdus norvegica Beeder, Torsvik & Lien, 1995 SPECIES
-=======
+# Thermodesulforhabdus norvegica Beeder, Torsvik & Lien, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyodothis excavata (Cooke & Ellis) Theiss. & Syd. SPECIES
-=======
+# Dictyodothis excavata (Cooke & Ellis) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalideopsis haliotidiformis Kalb & Vezda SPECIES
-=======
+# Gyalideopsis haliotidiformis Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

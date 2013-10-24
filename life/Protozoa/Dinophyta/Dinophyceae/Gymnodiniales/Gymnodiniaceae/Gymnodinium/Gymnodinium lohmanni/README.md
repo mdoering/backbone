@@ -1,5 +1,4 @@
-Gymnodinium lohmanni SPECIES
-=======
+# Gymnodinium lohmanni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ceraceomyces fibuligerum (K.S. Thind & S.S. Rattan) S.S. Rattan SPECIES
-=======
+# Ceraceomyces fibuliger (K.S. Thind & S.S. Rattan) S.S. Rattan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 60: 248 (1977)
 
 #### Original name
 Peniophora fibuligera K.S. Thind & S.S. Rattan

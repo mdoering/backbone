@@ -1,5 +1,4 @@
-Trailia G.K. Sutherland, 1915 GENUS
-=======
+# Trailia G.K. Sutherland, 1915 GENUS
 
 #### Status
 ACCEPTED

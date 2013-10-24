@@ -1,5 +1,4 @@
-Corticium gloeosporum P.H.B. Talbot, 1948 SPECIES
-=======
+# Corticium gloeosporum P.H.B. Talbot, 1948 SPECIES
 
 #### Status
 ACCEPTED

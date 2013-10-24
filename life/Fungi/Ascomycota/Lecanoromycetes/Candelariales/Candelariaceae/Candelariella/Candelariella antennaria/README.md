@@ -1,5 +1,4 @@
-Candelariella antennaria Räsänen SPECIES
-=======
+# Candelariella antennaria Räsänen SPECIES
 
 #### Status
 ACCEPTED

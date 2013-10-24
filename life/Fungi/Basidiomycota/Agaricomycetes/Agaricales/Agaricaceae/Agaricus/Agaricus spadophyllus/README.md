@@ -1,5 +1,4 @@
-Agaricus spadophyllus Krombh. SPECIES
-=======
+# Agaricus spadophyllus Krombh. SPECIES
 
 #### Status
 ACCEPTED

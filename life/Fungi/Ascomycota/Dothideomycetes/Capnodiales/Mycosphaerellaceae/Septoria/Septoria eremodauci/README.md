@@ -1,5 +1,4 @@
-Septoria eremodauci Annal. SPECIES
-=======
+# Septoria eremodauci Annal. SPECIES
 
 #### Status
 ACCEPTED

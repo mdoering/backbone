@@ -1,5 +1,4 @@
-Midotis crispata (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Midotis crispata (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

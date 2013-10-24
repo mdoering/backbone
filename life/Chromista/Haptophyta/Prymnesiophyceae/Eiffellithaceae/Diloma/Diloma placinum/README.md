@@ -1,5 +1,4 @@
-Diloma placinum F.H. Wind & P. Cepek SPECIES
-=======
+# Diloma placinum F.H. Wind & P. Cepek SPECIES
 
 #### Status
 ACCEPTED

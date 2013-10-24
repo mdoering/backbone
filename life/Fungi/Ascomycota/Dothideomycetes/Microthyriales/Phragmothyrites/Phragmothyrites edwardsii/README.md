@@ -1,5 +1,4 @@
-Phragmothyrites edwardsii (Rao) R.K. Kar, R.Y. Singh & S.C.D. Sah SPECIES
-=======
+# Phragmothyrites edwardsii (Rao) R.K. Kar, R.Y. Singh & S.C.D. Sah SPECIES
 
 #### Status
 ACCEPTED

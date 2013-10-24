@@ -1,5 +1,4 @@
-Haplostromella pithya Höhn. SPECIES
-=======
+# Haplostromella pithya Höhn. SPECIES
 
 #### Status
 ACCEPTED

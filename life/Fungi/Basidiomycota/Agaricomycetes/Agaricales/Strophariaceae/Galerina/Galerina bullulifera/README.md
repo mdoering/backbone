@@ -1,5 +1,4 @@
-Galerina bullulifera Singer SPECIES
-=======
+# Galerina bullulifera Singer SPECIES
 
 #### Status
 ACCEPTED

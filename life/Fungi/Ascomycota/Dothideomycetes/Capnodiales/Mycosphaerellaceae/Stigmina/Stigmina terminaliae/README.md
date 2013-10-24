@@ -1,5 +1,4 @@
-Stigmina terminaliae Munjal & Kulshr. SPECIES
-=======
+# Stigmina terminaliae Munjal & Kulshr. SPECIES
 
 #### Status
 ACCEPTED

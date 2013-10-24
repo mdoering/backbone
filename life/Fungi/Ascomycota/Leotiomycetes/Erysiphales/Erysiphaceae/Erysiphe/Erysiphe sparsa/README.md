@@ -1,17 +1,16 @@
-Microsphaera sparsa Howe, 1872 SPECIES
-=======
+# Erysiphe sparsa U. Braun, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 10: 171 (1872)
+Mycotaxon 20(2): 495 (1984)
 
 #### Original name
-Microsphaera sparsa Howe, 1872
+Erysiphe sparsa U. Braun, 1984
 
 ### Remarks
 null

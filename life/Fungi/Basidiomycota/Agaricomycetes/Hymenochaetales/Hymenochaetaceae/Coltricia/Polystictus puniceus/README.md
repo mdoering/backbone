@@ -1,5 +1,4 @@
-Polystictus puniceus (Kalchbr.) Cooke SPECIES
-=======
+# Polystictus puniceus (Kalchbr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hypoxylon sphaericum Pat., 1924 SPECIES
-=======
+# Kretzschmaria neocaledonica (Har. & Pat.) J.D. Rogers & Y.M. Ju, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 40: 35 (1924)
+Mycotaxon 68: 363 (1998)
 
 #### Original name
-Hypoxylon sphaericum Pat., 1924
+Hypoxylon neocaledonicum Har. & Pat., 1903
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lepiota oenopoda Berk. & Broome SPECIES
-=======
+# Lepiota oenopoda Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

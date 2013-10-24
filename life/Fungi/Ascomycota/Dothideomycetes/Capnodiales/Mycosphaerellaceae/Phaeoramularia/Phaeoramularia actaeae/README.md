@@ -1,5 +1,4 @@
-Phaeoramularia actaeae (Ellis & Holw.) U. Braun SPECIES
-=======
+# Phaeoramularia actaeae (Ellis & Holw.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

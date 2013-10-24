@@ -1,5 +1,4 @@
-Gautieria sinensis J.Z. Ying, 1995 SPECIES
-=======
+# Gautieria sinensis J.Z. Ying, 1995 SPECIES
 
 #### Status
 ACCEPTED

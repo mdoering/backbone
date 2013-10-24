@@ -1,5 +1,4 @@
-Phyllosticta associata Bubák SPECIES
-=======
+# Phyllosticta associata Bubák SPECIES
 
 #### Status
 ACCEPTED

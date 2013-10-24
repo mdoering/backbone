@@ -1,5 +1,4 @@
-Porina nucula var. nucula VARIETY
-=======
+# Porina nucula Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syn. meth. lich. 112 (1814)
 
 #### Original name
-Porina nucula var. nucula
+Porina nucula Ach.
 
 ### Remarks
 null

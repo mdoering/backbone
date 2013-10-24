@@ -1,5 +1,4 @@
-Thielavia coactilis Nicot, 1961 SPECIES
-=======
+# Thielavia coactilis Nicot, 1961 SPECIES
 
 #### Status
 ACCEPTED

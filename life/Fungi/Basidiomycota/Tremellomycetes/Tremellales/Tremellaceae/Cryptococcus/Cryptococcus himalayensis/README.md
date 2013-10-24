@@ -1,5 +1,4 @@
-Cryptococcus himalayensis Goto & Sugiy. SPECIES
-=======
+# Cryptococcus himalayensis Goto & Sugiy. SPECIES
 
 #### Status
 ACCEPTED

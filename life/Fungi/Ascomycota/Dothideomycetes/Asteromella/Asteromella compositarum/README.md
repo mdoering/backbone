@@ -1,5 +1,4 @@
-Asteromella compositarum Bat., J.L. Bezerra & Poroca SPECIES
-=======
+# Asteromella compositarum Bat., J.L. Bezerra & Poroca SPECIES
 
 #### Status
 ACCEPTED

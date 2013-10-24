@@ -1,14 +1,13 @@
-Stagonospora epicalamia (Cooke) Sacc. SPECIES
-=======
+# Hendersonia epicalamia Cooke, 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nuovo Giorn. Bot. Ital. 10(1): 19 (1878)
 
 #### Original name
 Hendersonia epicalamia Cooke, 1878

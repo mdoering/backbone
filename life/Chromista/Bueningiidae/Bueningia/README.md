@@ -1,5 +1,4 @@
-Bueningia Finlay, 1939 GENUS
-=======
+# Bueningia Finlay, 1939 GENUS
 
 #### Status
 ACCEPTED

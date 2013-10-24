@@ -1,5 +1,4 @@
-Inderites flexuosus Dyupina, 1975 SPECIES
-=======
+# Inderites flexuosus Dyupina, 1975 SPECIES
 
 #### Status
 ACCEPTED

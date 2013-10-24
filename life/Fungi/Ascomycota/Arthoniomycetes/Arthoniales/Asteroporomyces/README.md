@@ -1,5 +1,4 @@
-Asteroporomyces GENUS
-=======
+# Asteroporomyces GENUS
 
 #### Status
 ACCEPTED

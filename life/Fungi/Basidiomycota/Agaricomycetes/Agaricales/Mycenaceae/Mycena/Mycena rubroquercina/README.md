@@ -1,5 +1,4 @@
-Mycena rubroquercina G. Moreno & Heykoop SPECIES
-=======
+# Mycena rubroquercina G. Moreno & Heykoop SPECIES
 
 #### Status
 ACCEPTED

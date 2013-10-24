@@ -1,5 +1,4 @@
-Physcia endochrysoides f. imbricata Nádv. FORM
-=======
+# Physcia endochrysoides Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia endochrysoides f. imbricata Nádv.
+Physcia endochrysoides Nyl.
 
 ### Remarks
 null

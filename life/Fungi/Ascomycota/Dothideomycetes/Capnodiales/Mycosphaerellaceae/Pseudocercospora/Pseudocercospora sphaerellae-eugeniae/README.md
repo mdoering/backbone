@@ -1,5 +1,4 @@
-Pseudocercospora sphaerellae-eugeniae (Rangel) Crous, Alfenas & R.W. Barreto SPECIES
-=======
+# Pseudocercospora sphaerellae-eugeniae (Rangel) Crous, Alfenas & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

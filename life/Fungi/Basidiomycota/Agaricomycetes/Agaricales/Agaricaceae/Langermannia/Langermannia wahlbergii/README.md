@@ -1,5 +1,4 @@
-Langermannia wahlbergii (Fr.) Dring SPECIES
-=======
+# Langermannia wahlbergii (Fr.) Dring SPECIES
 
 #### Status
 ACCEPTED

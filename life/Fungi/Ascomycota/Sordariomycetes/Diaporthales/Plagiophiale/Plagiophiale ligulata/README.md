@@ -1,5 +1,4 @@
-Plagiophiale ligulata M.E. Barr SPECIES
-=======
+# Plagiophiale ligulata M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

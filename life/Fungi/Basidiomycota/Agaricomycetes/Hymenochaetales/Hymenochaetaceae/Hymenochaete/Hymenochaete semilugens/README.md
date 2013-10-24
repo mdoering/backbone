@@ -1,5 +1,4 @@
-Hymenochaete semilugens (Kalchbr. & Cooke) Bres. SPECIES
-=======
+# Hymenochaete semilugens (Kalchbr. & Cooke) Bres. SPECIES
 
 #### Status
 ACCEPTED

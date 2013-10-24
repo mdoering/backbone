@@ -1,5 +1,4 @@
-Russula blanda Burl. SPECIES
-=======
+# Russula blanda Burl. SPECIES
 
 #### Status
 ACCEPTED

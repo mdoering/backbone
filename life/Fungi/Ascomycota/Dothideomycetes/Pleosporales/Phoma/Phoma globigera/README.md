@@ -1,5 +1,4 @@
-Phoma globigera Cooke & Massee SPECIES
-=======
+# Phoma globigera Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

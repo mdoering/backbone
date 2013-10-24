@@ -1,5 +1,4 @@
-Melanolecia Hertel GENUS
-=======
+# Melanolecia Hertel GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia rhododendri Fuckel SPECIES
-=======
+# Puccinia rhododendri Fuckel SPECIES
 
 #### Status
 ACCEPTED

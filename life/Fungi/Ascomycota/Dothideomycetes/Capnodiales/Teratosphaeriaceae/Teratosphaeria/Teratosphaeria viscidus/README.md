@@ -1,5 +1,4 @@
-Teratosphaeria viscidus (Andjic, P.A. Barber & T.I. Burgess) Andjic, P.A. Barber & T.I. Burgess, 2009 SPECIES
-=======
+# Teratosphaeria viscidus (Andjic, P.A. Barber & T.I. Burgess) Andjic, P.A. Barber & T.I. Burgess, 2009 SPECIES
 
 #### Status
 ACCEPTED

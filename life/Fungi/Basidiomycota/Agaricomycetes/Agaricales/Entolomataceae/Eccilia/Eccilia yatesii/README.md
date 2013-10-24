@@ -1,5 +1,4 @@
-Eccilia yatesii Murrill SPECIES
-=======
+# Eccilia yatesii Murrill SPECIES
 
 #### Status
 ACCEPTED

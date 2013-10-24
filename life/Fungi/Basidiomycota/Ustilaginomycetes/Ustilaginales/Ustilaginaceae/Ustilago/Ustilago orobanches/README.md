@@ -1,5 +1,4 @@
-Ustilago orobanches Lév. SPECIES
-=======
+# Ustilago orobanches Lév. SPECIES
 
 #### Status
 ACCEPTED

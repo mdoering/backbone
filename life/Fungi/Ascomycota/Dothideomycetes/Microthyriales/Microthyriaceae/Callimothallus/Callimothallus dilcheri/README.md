@@ -1,17 +1,16 @@
-Callimothallus dilcherii K.P. Rao & Ramanujam SPECIES
-=======
+# Callimothallus dilcheri K.P. Rao & Ramanujam SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Geophytology 6(1): 99 and Pl. 2, fig. 13 (1976)
 
 #### Original name
-Callimothallus dilcherii K.P. Rao & Ramanujam
+Callimothallus dilcheri K.P. Rao & Ramanujam
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diploicia centralis (H. Magn.) SPECIES
-=======
+# Diploicia centralis (H. Magn.) SPECIES
 
 #### Status
 ACCEPTED

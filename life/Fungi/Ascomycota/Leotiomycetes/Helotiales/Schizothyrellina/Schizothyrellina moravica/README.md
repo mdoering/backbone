@@ -1,5 +1,4 @@
-Schizothyrellina moravica Petr. SPECIES
-=======
+# Schizothyrellina moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

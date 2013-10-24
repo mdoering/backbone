@@ -1,5 +1,4 @@
-Pleurotus submitis Speg. SPECIES
-=======
+# Pleurotus submitis Speg. SPECIES
 
 #### Status
 ACCEPTED

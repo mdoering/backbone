@@ -1,5 +1,4 @@
-Phaeomarasmius alnicola (Murrill) Singer SPECIES
-=======
+# Phaeomarasmius alnicola (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

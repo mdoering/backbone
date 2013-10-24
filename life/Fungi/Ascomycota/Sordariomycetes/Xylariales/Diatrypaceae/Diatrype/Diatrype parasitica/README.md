@@ -1,5 +1,4 @@
-Diatrype parasitica (Sacc.) Hansf. SPECIES
-=======
+# Diatrype parasitica (Sacc.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

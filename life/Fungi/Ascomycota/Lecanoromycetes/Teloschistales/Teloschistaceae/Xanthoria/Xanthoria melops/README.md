@@ -1,5 +1,4 @@
-Xanthoria melops (Dufour) Horw. SPECIES
-=======
+# Xanthoria melops (Dufour) Horw. SPECIES
 
 #### Status
 ACCEPTED

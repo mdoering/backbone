@@ -1,17 +1,16 @@
-Collema chilenum Vain. SPECIES
-=======
+# Collema chilensis Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 38: 189 (1899)
 
 #### Original name
-Collema chilenum Vain.
+Collema chilensis Vain.
 
 ### Remarks
 null

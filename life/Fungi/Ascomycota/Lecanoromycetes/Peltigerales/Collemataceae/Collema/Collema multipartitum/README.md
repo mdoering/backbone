@@ -1,5 +1,4 @@
-Collema multipartitum Sm. SPECIES
-=======
+# Collema multipartitum Sm. SPECIES
 
 #### Status
 ACCEPTED

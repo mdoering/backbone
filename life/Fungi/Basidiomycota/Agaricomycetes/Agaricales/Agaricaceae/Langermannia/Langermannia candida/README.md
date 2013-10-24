@@ -1,5 +1,4 @@
-Langermannia candida Rostk. SPECIES
-=======
+# Langermannia candida Rostk. SPECIES
 
 #### Status
 ACCEPTED

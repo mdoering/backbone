@@ -1,5 +1,4 @@
-Ramalina moranii Bowler & Rundel SPECIES
-=======
+# Ramalina moranii Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria thymiphila Velen. SPECIES
-=======
+# Naucoria thymiphila Velen. SPECIES
 
 #### Status
 ACCEPTED

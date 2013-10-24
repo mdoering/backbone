@@ -1,5 +1,4 @@
-Dictyosporium foliicola P.M. Kirk, 1984 SPECIES
-=======
+# Dictyosporium foliicola P.M. Kirk, 1984 SPECIES
 
 #### Status
 ACCEPTED

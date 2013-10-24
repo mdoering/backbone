@@ -1,5 +1,4 @@
-Valvulineria minuta SPECIES
-=======
+# Valvulineria minuta SPECIES
 
 #### Status
 ACCEPTED

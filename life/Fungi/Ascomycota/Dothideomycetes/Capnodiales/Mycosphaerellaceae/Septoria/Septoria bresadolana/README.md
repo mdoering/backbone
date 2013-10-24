@@ -1,17 +1,16 @@
-Septoria bresadoleana Krieg. SPECIES
-=======
+# Septoria bresadolana Krieg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bresadola, Annls mycol. 13(2): 104 (1915)
 
 #### Original name
-Septoria bresadoleana Krieg.
+Septoria bresadolana Krieg.
 
 ### Remarks
 null

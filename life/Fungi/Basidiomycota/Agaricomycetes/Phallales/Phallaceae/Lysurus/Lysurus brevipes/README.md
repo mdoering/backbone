@@ -1,5 +1,4 @@
-Lysurus brevipes Lloyd SPECIES
-=======
+# Lysurus brevipes Lloyd SPECIES
 
 #### Status
 ACCEPTED

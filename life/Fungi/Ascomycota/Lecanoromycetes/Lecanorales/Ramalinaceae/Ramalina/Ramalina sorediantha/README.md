@@ -1,5 +1,4 @@
-Ramalina sorediantha Nyl. SPECIES
-=======
+# Ramalina sorediantha Nyl. SPECIES
 
 #### Status
 ACCEPTED

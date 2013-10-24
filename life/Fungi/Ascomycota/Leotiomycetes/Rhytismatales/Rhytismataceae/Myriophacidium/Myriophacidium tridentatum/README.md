@@ -1,14 +1,13 @@
-Phacidium tridentatum Lév., 1863 SPECIES
-=======
+# Myriophacidium tridentatum (Lév.) Sherwood, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 20: 291 (1863)
+Occ. Pap. Farlow Herb. Crypt. Bot. 15: 115 (1980)
 
 #### Original name
 Phacidium tridentatum Lév., 1863

@@ -1,5 +1,4 @@
-Puccinia holboelliae-latifoliae Cummins SPECIES
-=======
+# Puccinia holboelliae-latifoliae Cummins SPECIES
 
 #### Status
 ACCEPTED

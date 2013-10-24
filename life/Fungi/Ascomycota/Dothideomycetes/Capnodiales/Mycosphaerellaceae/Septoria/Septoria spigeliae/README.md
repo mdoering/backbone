@@ -1,5 +1,4 @@
-Septoria spigeliae Henn. SPECIES
-=======
+# Septoria spigeliae Henn. SPECIES
 
 #### Status
 ACCEPTED

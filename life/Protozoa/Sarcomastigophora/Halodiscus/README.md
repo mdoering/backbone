@@ -1,5 +1,4 @@
-Halodiscus GENUS
-=======
+# Halodiscus GENUS
 
 #### Status
 ACCEPTED

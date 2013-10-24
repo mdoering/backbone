@@ -1,5 +1,4 @@
-Pertusaria dealbata f. dealbata FORM
-=======
+# Pertusaria dealbata (Ach.) Cromb. SPECIES
 
 #### Status
 ACCEPTED

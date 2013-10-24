@@ -1,5 +1,4 @@
-Cornuspira expansa Chapman SPECIES
-=======
+# Cornuspira expansa Chapman SPECIES
 
 #### Status
 DOUBTFUL

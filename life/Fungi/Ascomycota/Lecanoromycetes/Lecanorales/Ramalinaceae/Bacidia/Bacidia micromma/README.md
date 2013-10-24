@@ -1,5 +1,4 @@
-Bacidia micromma (Nyl.) H. Magn. SPECIES
-=======
+# Bacidia micromma (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

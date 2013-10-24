@@ -1,5 +1,4 @@
-Nosema tortricis SPECIES
-=======
+# Nosema tortricis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora verbenicola Ellis & Everh. SPECIES
-=======
+# Cercospora verbenicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

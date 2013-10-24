@@ -1,5 +1,4 @@
-Petalotricha Kent, 1881 GENUS
-=======
+# Petalotricha Kent, 1881 GENUS
 
 #### Status
 ACCEPTED

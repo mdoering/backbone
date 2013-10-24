@@ -1,5 +1,4 @@
-Selenosporopsis elegans R.F. Castañeda & W.B. Kendr., 1991 SPECIES
-=======
+# Selenosporopsis elegans R.F. Castañeda & W.B. Kendr., 1991 SPECIES
 
 #### Status
 ACCEPTED

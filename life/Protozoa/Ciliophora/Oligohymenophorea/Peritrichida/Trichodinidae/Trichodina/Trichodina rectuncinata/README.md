@@ -1,5 +1,4 @@
-Trichodina rectuncinata Raabe, 1958 SPECIES
-=======
+# Trichodina rectuncinata Raabe, 1958 SPECIES
 
 #### Status
 ACCEPTED

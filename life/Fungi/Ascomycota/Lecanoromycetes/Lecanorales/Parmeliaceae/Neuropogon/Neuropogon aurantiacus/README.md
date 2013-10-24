@@ -1,5 +1,4 @@
-Neuropogon aurantiacus (Motyka) I.M. Lamb SPECIES
-=======
+# Neuropogon aurantiacus (Motyka) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

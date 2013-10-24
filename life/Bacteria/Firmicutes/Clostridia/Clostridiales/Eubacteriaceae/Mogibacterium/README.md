@@ -1,5 +1,4 @@
-Mogibacterium Nakazawa et al., 2000 GENUS
-=======
+# Mogibacterium Nakazawa et al., 2000 GENUS
 
 #### Status
 ACCEPTED

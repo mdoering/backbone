@@ -1,5 +1,4 @@
-Rozites similis E. Horak SPECIES
-=======
+# Rozites similis E. Horak SPECIES
 
 #### Status
 ACCEPTED

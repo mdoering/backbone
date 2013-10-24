@@ -1,5 +1,4 @@
-Aplosporella linderae (Peck) Petr. SPECIES
-=======
+# Aplosporella linderae (Peck) Petr. SPECIES
 
 #### Status
 ACCEPTED

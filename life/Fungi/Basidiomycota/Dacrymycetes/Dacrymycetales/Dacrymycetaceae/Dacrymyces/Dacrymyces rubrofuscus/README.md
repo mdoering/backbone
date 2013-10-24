@@ -1,5 +1,4 @@
-Dacrymyces rubrofuscus Berk. SPECIES
-=======
+# Dacrymyces rubrofuscus Berk. SPECIES
 
 #### Status
 ACCEPTED

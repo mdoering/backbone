@@ -1,5 +1,4 @@
-Craterocystis Cognetti de Martiis, 1918 GENUS
-=======
+# Craterocystis Cognetti de Martiis, 1918 GENUS
 
 #### Status
 ACCEPTED

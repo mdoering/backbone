@@ -1,5 +1,4 @@
-Herpomyces phyllodromiae Thaxt. SPECIES
-=======
+# Herpomyces phyllodromiae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

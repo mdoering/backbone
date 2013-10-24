@@ -1,5 +1,4 @@
-Camarosporulum polymorphum (De Not.) Tassi SPECIES
-=======
+# Camarosporulum polymorphum (De Not.) Tassi SPECIES
 
 #### Status
 ACCEPTED

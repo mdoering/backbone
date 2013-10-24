@@ -1,5 +1,4 @@
-Gemmata Franzmann & Skerman, 1985 GENUS
-=======
+# Gemmata Franzmann & Skerman, 1985 GENUS
 
 #### Status
 ACCEPTED

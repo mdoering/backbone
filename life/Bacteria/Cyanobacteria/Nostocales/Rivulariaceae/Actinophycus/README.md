@@ -1,5 +1,4 @@
-Actinophycus K.B.Korde GENUS
-=======
+# Actinophycus K.B.Korde GENUS
 
 #### Status
 ACCEPTED

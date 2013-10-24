@@ -1,5 +1,4 @@
-Septoria ahmadii Petr., 1954 SPECIES
-=======
+# Septoria ahmadii Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

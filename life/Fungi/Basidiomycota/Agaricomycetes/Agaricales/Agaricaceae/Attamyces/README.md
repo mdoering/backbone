@@ -1,5 +1,4 @@
-Attamyces Kreisel GENUS
-=======
+# Attamyces Kreisel GENUS
 
 #### Status
 ACCEPTED

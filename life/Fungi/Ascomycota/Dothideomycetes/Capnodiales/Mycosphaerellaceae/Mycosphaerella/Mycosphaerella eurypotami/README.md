@@ -1,5 +1,4 @@
-Mycosphaerella eurypotami Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1999 SPECIES
-=======
+# Mycosphaerella eurypotami Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1999 SPECIES
 
 #### Status
 ACCEPTED

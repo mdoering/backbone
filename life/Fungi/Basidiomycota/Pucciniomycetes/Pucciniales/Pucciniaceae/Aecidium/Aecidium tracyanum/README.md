@@ -1,5 +1,4 @@
-Aecidium tracyanum Syd. & P. Syd. SPECIES
-=======
+# Aecidium tracyanum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

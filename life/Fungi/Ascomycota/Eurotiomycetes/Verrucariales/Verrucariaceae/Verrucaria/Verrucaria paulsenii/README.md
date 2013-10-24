@@ -1,5 +1,4 @@
-Verrucaria paulsenii Vain. SPECIES
-=======
+# Verrucaria paulsenii Vain. SPECIES
 
 #### Status
 ACCEPTED

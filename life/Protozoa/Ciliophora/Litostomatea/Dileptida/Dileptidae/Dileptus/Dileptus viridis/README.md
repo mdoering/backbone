@@ -1,5 +1,4 @@
-Dileptus viridis (Ehrenberg, 1834) Buitkamp, 1977 SPECIES
-=======
+# Dileptus viridis (Ehrenberg, 1834) Buitkamp, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella quitensis (Syd.) K. Schub. & U. Braun SPECIES
-=======
+# Stenella quitensis (Syd.) K. Schub. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

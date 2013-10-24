@@ -1,5 +1,4 @@
-Erysiphe reddyana U. Braun SPECIES
-=======
+# Erysiphe reddyana U. Braun SPECIES
 
 #### Status
 ACCEPTED

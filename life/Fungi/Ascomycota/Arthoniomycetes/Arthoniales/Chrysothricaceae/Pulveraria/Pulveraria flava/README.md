@@ -1,5 +1,4 @@
-Pulveraria flava (De Willd.) Flörke SPECIES
-=======
+# Pulveraria flava (De Willd.) Flörke SPECIES
 
 #### Status
 ACCEPTED

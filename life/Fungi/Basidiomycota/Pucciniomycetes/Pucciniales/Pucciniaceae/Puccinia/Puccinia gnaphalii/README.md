@@ -1,5 +1,4 @@
-Puccinia gnaphalii Speg. SPECIES
-=======
+# Puccinia gnaphalii Speg. SPECIES
 
 #### Status
 ACCEPTED

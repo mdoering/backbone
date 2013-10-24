@@ -1,5 +1,4 @@
-Leucodiaporthe acerina M.E. Barr & Lar.N. Vassiljeva, 2008 SPECIES
-=======
+# Leucodiaporthe acerina M.E. Barr & Lar.N. Vassiljeva, 2008 SPECIES
 
 #### Status
 ACCEPTED

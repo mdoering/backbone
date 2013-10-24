@@ -1,5 +1,4 @@
-Dickeya Samson et al., 2005 GENUS
-=======
+# Dickeya Samson et al., 2005 GENUS
 
 #### Status
 ACCEPTED

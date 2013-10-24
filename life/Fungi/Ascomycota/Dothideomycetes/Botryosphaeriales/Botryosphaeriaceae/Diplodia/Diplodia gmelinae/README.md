@@ -1,5 +1,4 @@
-Diplodia gmelinae Henn. SPECIES
-=======
+# Diplodia gmelinae Henn. SPECIES
 
 #### Status
 ACCEPTED

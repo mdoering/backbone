@@ -1,8 +1,7 @@
-Oxytricha stenocephala Borror, 1963 SPECIES
-=======
+# Hemigastrostyla stenocephala (Borror, 1963) Song & Wilbert, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

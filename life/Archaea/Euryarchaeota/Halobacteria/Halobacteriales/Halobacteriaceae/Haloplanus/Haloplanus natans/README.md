@@ -1,5 +1,4 @@
-Haloplanus natans Elevi Bardavid, Mana & Oren, 2007 SPECIES
-=======
+# Haloplanus natans Elevi Bardavid, Mana & Oren, 2007 SPECIES
 
 #### Status
 ACCEPTED

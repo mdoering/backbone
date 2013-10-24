@@ -1,5 +1,4 @@
-Wegelina GENUS
-=======
+# Wegelina GENUS
 
 #### Status
 ACCEPTED

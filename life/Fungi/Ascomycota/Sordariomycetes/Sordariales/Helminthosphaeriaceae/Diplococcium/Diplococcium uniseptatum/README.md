@@ -1,5 +1,4 @@
-Diplococcium uniseptatum (Berk. & M.A. Curtis) S. Hughes SPECIES
-=======
+# Diplococcium uniseptatum (Berk. & M.A. Curtis) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

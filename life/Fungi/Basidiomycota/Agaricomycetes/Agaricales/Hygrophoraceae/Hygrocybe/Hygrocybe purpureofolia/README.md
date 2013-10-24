@@ -1,5 +1,4 @@
-Hygrocybe purpureofolia (H.E. Bigelow) Courtec. SPECIES
-=======
+# Hygrocybe purpureofolia (H.E. Bigelow) Courtec. SPECIES
 
 #### Status
 ACCEPTED

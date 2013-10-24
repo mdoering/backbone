@@ -1,5 +1,4 @@
-Hygrophorus variicolor Murrill SPECIES
-=======
+# Hygrophorus variicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

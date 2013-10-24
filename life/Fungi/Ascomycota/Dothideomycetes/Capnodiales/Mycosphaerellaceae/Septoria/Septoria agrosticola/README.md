@@ -1,5 +1,4 @@
-Septoria agrosticola R. Sprague SPECIES
-=======
+# Septoria agrosticola R. Sprague SPECIES
 
 #### Status
 ACCEPTED

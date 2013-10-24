@@ -1,5 +1,4 @@
-Paramoebidium eccriniforme L. Léger & Duboscq ex Duboscq, L. Léger & Tuzet SPECIES
-=======
+# Paramoebidium eccriniforme L. Léger & Duboscq ex Duboscq, L. Léger & Tuzet SPECIES
 
 #### Status
 ACCEPTED

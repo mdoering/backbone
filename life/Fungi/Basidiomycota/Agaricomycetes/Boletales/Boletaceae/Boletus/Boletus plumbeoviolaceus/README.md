@@ -1,5 +1,4 @@
-Boletus plumbeoviolaceus Snell & E.A. Dick SPECIES
-=======
+# Boletus plumbeoviolaceus Snell & E.A. Dick SPECIES
 
 #### Status
 ACCEPTED

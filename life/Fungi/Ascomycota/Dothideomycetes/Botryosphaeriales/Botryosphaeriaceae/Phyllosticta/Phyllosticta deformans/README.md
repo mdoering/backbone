@@ -1,5 +1,4 @@
-Phyllosticta deformans (Berk.) Jacz. SPECIES
-=======
+# Phyllosticta deformans (Berk.) Jacz. SPECIES
 
 #### Status
 ACCEPTED

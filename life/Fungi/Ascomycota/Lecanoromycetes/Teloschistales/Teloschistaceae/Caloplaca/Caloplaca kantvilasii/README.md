@@ -1,5 +1,4 @@
-Caloplaca kantvilasii S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca kantvilasii S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

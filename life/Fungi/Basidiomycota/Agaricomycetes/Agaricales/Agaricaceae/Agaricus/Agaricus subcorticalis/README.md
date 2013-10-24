@@ -1,5 +1,4 @@
-Agaricus subcorticalis Cooke & Massee SPECIES
-=======
+# Agaricus subcorticalis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

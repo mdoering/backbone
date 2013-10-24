@@ -1,14 +1,13 @@
-Bauhinus cordae (Liro) Denchev, 1997 SPECIES
-=======
+# Microbotryum cordae (Liro) G. Deml & Prillinger, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 65: 422 (1997)
+in Prillinger, Deml, Dörfelt, Laaser & Lockau, Bot. Acta 104(1): 10 (1991)
 
 #### Original name
 Ustilago cordae Liro, 1924

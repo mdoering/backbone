@@ -1,5 +1,4 @@
-Agyriella bethelii Ellis & Everh. SPECIES
-=======
+# Agyriella bethelii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

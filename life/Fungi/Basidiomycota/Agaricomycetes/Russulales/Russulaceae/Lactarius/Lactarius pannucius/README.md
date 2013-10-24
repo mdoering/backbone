@@ -1,5 +1,4 @@
-Lactarius pannucius (Fr.) Fr. SPECIES
-=======
+# Lactarius pannucius (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

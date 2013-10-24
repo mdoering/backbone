@@ -1,5 +1,4 @@
-Lecanora callimorpha Hue SPECIES
-=======
+# Lecanora callimorpha Hue SPECIES
 
 #### Status
 ACCEPTED

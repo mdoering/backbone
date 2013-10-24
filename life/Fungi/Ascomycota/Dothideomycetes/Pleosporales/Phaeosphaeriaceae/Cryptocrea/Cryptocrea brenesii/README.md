@@ -1,5 +1,4 @@
-Cryptocrea brenesii Petr. SPECIES
-=======
+# Cryptocrea brenesii Petr. SPECIES
 
 #### Status
 ACCEPTED

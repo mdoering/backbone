@@ -1,5 +1,4 @@
-Stropharia dorsipora Esteve-Rav. & Barrasa SPECIES
-=======
+# Stropharia dorsipora Esteve-Rav. & Barrasa SPECIES
 
 #### Status
 ACCEPTED

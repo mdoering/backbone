@@ -1,5 +1,4 @@
-Gerulajacta radiata Preuss SPECIES
-=======
+# Gerulajacta radiata Preuss SPECIES
 
 #### Status
 ACCEPTED

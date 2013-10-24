@@ -1,17 +1,16 @@
-Ramalina pollinaria var. pollinaria VARIETY
-=======
+# Ramalina pollinaria (Westr.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Lich. univ. 608 (1810)
 
 #### Original name
-Ramalina pollinaria var. pollinaria
+Lichen pollinarius Ach.
 
 ### Remarks
 null

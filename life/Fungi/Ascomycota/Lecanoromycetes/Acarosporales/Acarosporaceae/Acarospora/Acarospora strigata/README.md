@@ -1,5 +1,4 @@
-Acarospora strigata (Nyl.) Jatta SPECIES
-=======
+# Acarospora strigata (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

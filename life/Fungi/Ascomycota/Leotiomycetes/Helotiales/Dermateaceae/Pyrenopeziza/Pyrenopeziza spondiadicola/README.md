@@ -1,5 +1,4 @@
-Pyrenopeziza spondiadicola Bat. & H. Maia SPECIES
-=======
+# Pyrenopeziza spondiadicola Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

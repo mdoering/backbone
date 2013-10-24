@@ -1,14 +1,13 @@
-Phomopsis schini (Carranza) B. Sutton SPECIES
-=======
+# Myxosporella schini Carranza, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 51: 618 (1968)
+Revta Fac. Agron. Vet. Univ. nac. La Plata 27: 277 (1950)
 
 #### Original name
 Myxosporella schini Carranza, 1950

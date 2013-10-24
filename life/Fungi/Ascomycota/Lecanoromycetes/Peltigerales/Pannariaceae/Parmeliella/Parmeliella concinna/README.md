@@ -1,5 +1,4 @@
-Parmeliella concinna I.M. Lamb SPECIES
-=======
+# Parmeliella concinna I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

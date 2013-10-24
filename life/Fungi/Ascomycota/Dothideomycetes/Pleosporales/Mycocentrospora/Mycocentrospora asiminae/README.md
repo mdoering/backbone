@@ -1,5 +1,4 @@
-Mycocentrospora asiminae (Ellis & Kellerm.) Deighton SPECIES
-=======
+# Mycocentrospora asiminae (Ellis & Kellerm.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pzadroella Gawor-Biedowa, 1987 GENUS
-=======
+# Pzadroella Gawor-Biedowa, 1987 GENUS
 
 #### Status
 ACCEPTED

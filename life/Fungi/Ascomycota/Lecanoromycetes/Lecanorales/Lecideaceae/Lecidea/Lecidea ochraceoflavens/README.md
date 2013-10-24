@@ -1,5 +1,4 @@
-Lecidea ochraceoflavens Brisson SPECIES
-=======
+# Lecidea ochraceoflavens Brisson SPECIES
 
 #### Status
 ACCEPTED

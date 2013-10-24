@@ -1,5 +1,4 @@
-Didymosphaeria commanipula (Berk. & Broome) SPECIES
-=======
+# Didymosphaeria commanipula (Berk. & Broome) SPECIES
 
 #### Status
 ACCEPTED

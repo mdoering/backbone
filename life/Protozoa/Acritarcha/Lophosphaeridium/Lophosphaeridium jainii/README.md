@@ -1,5 +1,4 @@
-Lophosphaeridium jainii Salujha, Rehman & Rawat, 1971 SPECIES
-=======
+# Lophosphaeridium jainii Salujha, Rehman & Rawat, 1971 SPECIES
 
 #### Status
 ACCEPTED

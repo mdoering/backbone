@@ -1,5 +1,4 @@
-Acremonium cajani B.L. Brady, 1986 SPECIES
-=======
+# Acremonium cajani B.L. Brady, 1986 SPECIES
 
 #### Status
 ACCEPTED

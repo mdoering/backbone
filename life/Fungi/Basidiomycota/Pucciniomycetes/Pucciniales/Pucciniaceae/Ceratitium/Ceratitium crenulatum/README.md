@@ -1,5 +1,4 @@
-Ceratitium crenulatum Rabenh. SPECIES
-=======
+# Ceratitium crenulatum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

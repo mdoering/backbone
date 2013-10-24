@@ -1,5 +1,4 @@
-Cucurbitaria diminuta (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cucurbitaria diminuta (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

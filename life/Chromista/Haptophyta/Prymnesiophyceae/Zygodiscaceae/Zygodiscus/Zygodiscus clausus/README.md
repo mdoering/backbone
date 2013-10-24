@@ -1,5 +1,4 @@
-Zygodiscus clausus Romein, 1979 SPECIES
-=======
+# Zygodiscus clausus Romein, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena parabolica (Fr.) Quél., 1872 SPECIES
-=======
+# Mycena parabolica (Fr.) Quél., 1872 SPECIES
 
 #### Status
 ACCEPTED

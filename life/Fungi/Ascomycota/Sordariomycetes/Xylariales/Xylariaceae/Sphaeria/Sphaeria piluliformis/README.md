@@ -1,5 +1,4 @@
-Sphaeria piluliformis Jungh. SPECIES
-=======
+# Sphaeria piluliformis Jungh. SPECIES
 
 #### Status
 ACCEPTED

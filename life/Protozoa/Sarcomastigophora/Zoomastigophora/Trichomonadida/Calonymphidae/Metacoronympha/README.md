@@ -1,14 +1,13 @@
-Metacorynympha GENUS
-=======
+# Metacoronympha Kirby, 1939 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Proc. Calif. Acad. Sci. , (4) 22, 217.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Gloeosporium pouteriae Speg. SPECIES
-=======
+# Gloeosporium pouteriae Speg. SPECIES
 
 #### Status
 ACCEPTED

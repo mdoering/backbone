@@ -1,5 +1,4 @@
-Leptolyngbya terebrans (Bornet & Flahault) SPECIES
-=======
+# Leptolyngbya terebrans (Bornet & Flahault) SPECIES
 
 #### Status
 ACCEPTED

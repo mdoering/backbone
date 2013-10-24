@@ -1,5 +1,4 @@
-Macrolepiota fornica Raithelh. SPECIES
-=======
+# Macrolepiota fornica Raithelh. SPECIES
 
 #### Status
 ACCEPTED

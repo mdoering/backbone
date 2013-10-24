@@ -1,5 +1,4 @@
-Pleurotus eugeniae (Earle) Sacc. & Traverso SPECIES
-=======
+# Pleurotus eugeniae (Earle) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

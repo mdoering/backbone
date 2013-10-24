@@ -1,5 +1,4 @@
-Vorticella togata Müller, 1786 SPECIES
-=======
+# Vorticella togata Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

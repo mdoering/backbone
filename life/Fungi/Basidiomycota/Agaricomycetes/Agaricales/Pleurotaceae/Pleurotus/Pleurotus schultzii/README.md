@@ -1,5 +1,4 @@
-Pleurotus schultzii (Kalchbr. ex G. Winter) Sacc. SPECIES
-=======
+# Pleurotus schultzii (Kalchbr. ex G. Winter) Sacc. SPECIES
 
 #### Status
 ACCEPTED

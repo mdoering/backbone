@@ -1,5 +1,4 @@
-Phellinus laurencii (Berk.) Aoshima SPECIES
-=======
+# Phellinus laurencii (Berk.) Aoshima SPECIES
 
 #### Status
 ACCEPTED

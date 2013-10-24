@@ -1,5 +1,4 @@
-Cryptosordaria picconiana De Not. SPECIES
-=======
+# Cryptosordaria picconiana De Not. SPECIES
 
 #### Status
 ACCEPTED

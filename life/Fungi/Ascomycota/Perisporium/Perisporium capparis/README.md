@@ -1,8 +1,7 @@
-Perisporium capparidis Castagne SPECIES
-=======
+# Perisporium capparis Castagne SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Perisporium capparidis Castagne
+Perisporium capparis Castagne
 
 ### Remarks
 null

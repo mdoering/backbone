@@ -1,5 +1,4 @@
-Chaetocalathus magnus Halling SPECIES
-=======
+# Chaetocalathus magnus Halling SPECIES
 
 #### Status
 ACCEPTED

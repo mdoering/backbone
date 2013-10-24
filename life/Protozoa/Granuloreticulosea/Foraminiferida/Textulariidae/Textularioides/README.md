@@ -1,5 +1,4 @@
-Textularioides Cushman, 1911 GENUS
-=======
+# Textularioides Cushman, 1911 GENUS
 
 #### Status
 ACCEPTED

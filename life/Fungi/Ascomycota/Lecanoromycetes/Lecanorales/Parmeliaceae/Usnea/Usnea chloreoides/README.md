@@ -1,5 +1,4 @@
-Usnea chloreoides (Vain.) Motyka SPECIES
-=======
+# Usnea chloreoides (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massariopsis socialis (Sacc.) Kirschst. SPECIES
-=======
+# Massariopsis socialis (Sacc.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

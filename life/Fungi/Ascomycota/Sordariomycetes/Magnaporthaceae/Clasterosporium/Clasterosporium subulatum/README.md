@@ -1,5 +1,4 @@
-Clasterosporium subulatum Cooke & Ellis SPECIES
-=======
+# Clasterosporium subulatum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

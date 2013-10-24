@@ -1,5 +1,4 @@
-Chiodecton subochroleucum Fink ex J. Hedrick SPECIES
-=======
+# Chiodecton subochroleucum Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

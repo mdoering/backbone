@@ -1,14 +1,13 @@
-Sphaeria rubitingens A. Bloxam SPECIES
-=======
+# Didymella rubitingens (A. Bloxam) Cooke, 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 20(no. 95): 82 (1892)
 
 #### Original name
 Sphaeria rubitingens A. Bloxam

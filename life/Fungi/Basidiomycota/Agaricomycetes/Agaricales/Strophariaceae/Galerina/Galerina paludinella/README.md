@@ -1,5 +1,4 @@
-Galerina paludinella P.D. Orton, 1988 SPECIES
-=======
+# Galerina paludinella P.D. Orton, 1988 SPECIES
 
 #### Status
 ACCEPTED

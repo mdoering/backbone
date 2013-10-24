@@ -1,5 +1,4 @@
-Caloplaca novomexicana SPECIES
-=======
+# Caloplaca novomexicana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myrothecium hispidum Tode SPECIES
-=======
+# Myrothecium hispidum Tode SPECIES
 
 #### Status
 ACCEPTED

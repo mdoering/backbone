@@ -1,8 +1,7 @@
-Berengeria hageni (Ach.) Trevis. SPECIES
-=======
+# Berengeria hagenii (Ach.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

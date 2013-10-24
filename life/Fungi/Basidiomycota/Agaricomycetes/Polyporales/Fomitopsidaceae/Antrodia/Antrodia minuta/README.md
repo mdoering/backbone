@@ -1,5 +1,4 @@
-Antrodia minuta Spirin SPECIES
-=======
+# Antrodia minuta Spirin SPECIES
 
 #### Status
 ACCEPTED

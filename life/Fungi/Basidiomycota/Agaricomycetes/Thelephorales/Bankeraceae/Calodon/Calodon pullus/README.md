@@ -1,14 +1,13 @@
-Calodon pullum (Schaeff.) Quél. SPECIES
-=======
+# Calodon pullus (Schaeff.) Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Compt. Rend. Assoc. Franç. Avancem. Sci. 22(2): 488 (1894)
 
 #### Original name
 Hydnum pullum Fr., 1815

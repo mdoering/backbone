@@ -1,5 +1,4 @@
-Cercospora namae Dearn. & House SPECIES
-=======
+# Cercospora namae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

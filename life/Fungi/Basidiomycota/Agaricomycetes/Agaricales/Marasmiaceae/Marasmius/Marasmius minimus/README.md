@@ -1,5 +1,4 @@
-Marasmius minimus Dennis SPECIES
-=======
+# Marasmius minimus Dennis SPECIES
 
 #### Status
 ACCEPTED

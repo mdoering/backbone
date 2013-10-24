@@ -1,5 +1,4 @@
-Phaeographis sexloculata Fink SPECIES
-=======
+# Phaeographis sexloculata Fink SPECIES
 
 #### Status
 ACCEPTED

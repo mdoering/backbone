@@ -1,5 +1,4 @@
-Placosphaeria vochysiae Allesch. SPECIES
-=======
+# Placosphaeria vochysiae Allesch. SPECIES
 
 #### Status
 ACCEPTED

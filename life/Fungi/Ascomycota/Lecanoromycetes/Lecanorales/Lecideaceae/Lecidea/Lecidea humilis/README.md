@@ -1,5 +1,4 @@
-Lecidea humilis J. Lowe SPECIES
-=======
+# Lecidea humilis J. Lowe SPECIES
 
 #### Status
 ACCEPTED

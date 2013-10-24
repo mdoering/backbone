@@ -1,5 +1,4 @@
-Trechispora elongata Miettinen & K.H. Larss., 2006 SPECIES
-=======
+# Trechispora elongata Miettinen & K.H. Larss., 2006 SPECIES
 
 #### Status
 ACCEPTED

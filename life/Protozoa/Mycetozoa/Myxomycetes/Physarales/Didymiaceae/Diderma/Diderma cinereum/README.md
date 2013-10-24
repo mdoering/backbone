@@ -1,14 +1,13 @@
-Chondrioderma cinereum (Morgan) Torrend, 1908 SPECIES
-=======
+# Diderma cinereum Morgan, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brotéria 104 (1908)
+J. Cincinnati Soc. Nat. Hist. 16: 154 (1894)
 
 #### Original name
 Diderma cinereum Morgan, 1894

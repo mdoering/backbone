@@ -1,5 +1,4 @@
-Schmitzomia decipiens P. Karst. SPECIES
-=======
+# Schmitzomia decipiens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

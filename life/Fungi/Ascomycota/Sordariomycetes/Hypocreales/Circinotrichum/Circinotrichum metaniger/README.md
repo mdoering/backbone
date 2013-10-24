@@ -1,5 +1,4 @@
-Circinotrichum metaniger (Castell.) M. Ota SPECIES
-=======
+# Circinotrichum metaniger (Castell.) M. Ota SPECIES
 
 #### Status
 ACCEPTED

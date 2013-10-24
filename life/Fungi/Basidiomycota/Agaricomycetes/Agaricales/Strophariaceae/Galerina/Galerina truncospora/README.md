@@ -1,5 +1,4 @@
-Galerina truncospora A.E. Wood SPECIES
-=======
+# Galerina truncospora A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

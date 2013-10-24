@@ -1,5 +1,4 @@
-Planularia paucicostulata (Chapman, W D & Parr, W J) SPECIES
-=======
+# Planularia paucicostulata (Chapman, W D & Parr, W J) SPECIES
 
 #### Status
 ACCEPTED

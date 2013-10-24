@@ -1,5 +1,4 @@
-Phoma pilospora Sawada SPECIES
-=======
+# Phoma pilospora Sawada SPECIES
 
 #### Status
 ACCEPTED

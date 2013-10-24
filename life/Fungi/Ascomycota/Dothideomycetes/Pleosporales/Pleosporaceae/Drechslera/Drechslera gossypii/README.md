@@ -1,5 +1,4 @@
-Drechslera gossypii (Tucker) M.B. Ellis SPECIES
-=======
+# Drechslera gossypii (Tucker) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

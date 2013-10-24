@@ -1,5 +1,4 @@
-Lecidea molliuscula (Nyl.) Fée SPECIES
-=======
+# Lecidea molliuscula (Nyl.) Fée SPECIES
 
 #### Status
 ACCEPTED

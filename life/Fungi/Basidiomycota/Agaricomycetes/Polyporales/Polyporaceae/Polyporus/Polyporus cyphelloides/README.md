@@ -1,5 +1,4 @@
-Polyporus cyphelloides Kalchbr. SPECIES
-=======
+# Polyporus cyphelloides Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

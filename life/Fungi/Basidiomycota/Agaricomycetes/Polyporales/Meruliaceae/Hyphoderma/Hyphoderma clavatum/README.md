@@ -1,5 +1,4 @@
-Hyphoderma clavatum Sheng H. Wu, 1997 SPECIES
-=======
+# Hyphoderma clavatum Sheng H. Wu, 1997 SPECIES
 
 #### Status
 ACCEPTED

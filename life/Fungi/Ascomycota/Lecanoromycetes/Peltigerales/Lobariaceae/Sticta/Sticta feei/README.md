@@ -1,5 +1,4 @@
-Sticta feei Delise SPECIES
-=======
+# Sticta feei Delise SPECIES
 
 #### Status
 ACCEPTED

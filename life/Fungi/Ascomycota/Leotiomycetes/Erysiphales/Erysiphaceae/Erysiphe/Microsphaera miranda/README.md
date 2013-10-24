@@ -1,5 +1,4 @@
-Microsphaera miranda V.P. Heluta SPECIES
-=======
+# Microsphaera miranda V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

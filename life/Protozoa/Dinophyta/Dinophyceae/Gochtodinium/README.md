@@ -1,5 +1,4 @@
-Gochtodinium J.P.Bujak, 1980 GENUS
-=======
+# Gochtodinium J.P.Bujak, 1980 GENUS
 
 #### Status
 ACCEPTED

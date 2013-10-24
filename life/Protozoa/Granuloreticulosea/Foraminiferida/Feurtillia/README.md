@@ -1,5 +1,4 @@
-Feurtillia Maync, 1958 GENUS
-=======
+# Feurtillia Maync, 1958 GENUS
 
 #### Status
 ACCEPTED

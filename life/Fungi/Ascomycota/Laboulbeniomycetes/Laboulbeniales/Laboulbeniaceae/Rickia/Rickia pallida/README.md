@@ -1,5 +1,4 @@
-Rickia pallida Thaxt. SPECIES
-=======
+# Rickia pallida Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalaria helvelloidea (Schaer.) A. Massal. SPECIES
-=======
+# Omphalaria helvelloidea (Schaer.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

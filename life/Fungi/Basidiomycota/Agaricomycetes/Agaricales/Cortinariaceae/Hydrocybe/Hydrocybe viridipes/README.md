@@ -1,5 +1,4 @@
-Hydrocybe viridipes M.M. Moser SPECIES
-=======
+# Hydrocybe viridipes M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

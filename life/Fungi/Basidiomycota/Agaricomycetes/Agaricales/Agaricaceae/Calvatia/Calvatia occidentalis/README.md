@@ -1,5 +1,4 @@
-Calvatia occidentalis Lloyd SPECIES
-=======
+# Calvatia occidentalis Lloyd SPECIES
 
 #### Status
 ACCEPTED

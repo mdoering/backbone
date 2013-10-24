@@ -1,5 +1,4 @@
-Ornithinicoccus Groth et al., 1999 GENUS
-=======
+# Ornithinicoccus Groth et al., 1999 GENUS
 
 #### Status
 ACCEPTED

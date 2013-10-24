@@ -1,5 +1,4 @@
-Cristella petrophila (Bourdot & Galzin) M.P. Christ. SPECIES
-=======
+# Cristella petrophila (Bourdot & Galzin) M.P. Christ. SPECIES
 
 #### Status
 ACCEPTED

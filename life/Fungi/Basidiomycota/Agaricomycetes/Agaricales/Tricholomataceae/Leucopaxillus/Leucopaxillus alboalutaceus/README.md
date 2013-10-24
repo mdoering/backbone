@@ -1,5 +1,4 @@
-Leucopaxillus alboalutaceus (F.H. Møller & Jul. Schäff.) F.H. Møller SPECIES
-=======
+# Leucopaxillus alboalutaceus (F.H. Møller & Jul. Schäff.) F.H. Møller SPECIES
 
 #### Status
 ACCEPTED

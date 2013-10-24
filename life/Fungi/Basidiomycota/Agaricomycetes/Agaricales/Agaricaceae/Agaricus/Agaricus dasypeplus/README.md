@@ -1,5 +1,4 @@
-Agaricus dasypeplus Berk. SPECIES
-=======
+# Agaricus dasypeplus Berk. SPECIES
 
 #### Status
 ACCEPTED

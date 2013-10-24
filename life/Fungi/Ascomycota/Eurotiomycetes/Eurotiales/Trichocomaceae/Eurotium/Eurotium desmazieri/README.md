@@ -1,5 +1,4 @@
-Eurotium desmazieri Castagne SPECIES
-=======
+# Eurotium desmazieri Castagne SPECIES
 
 #### Status
 ACCEPTED

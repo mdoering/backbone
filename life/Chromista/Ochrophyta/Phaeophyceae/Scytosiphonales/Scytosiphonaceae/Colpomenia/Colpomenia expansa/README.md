@@ -1,5 +1,4 @@
-Colpomenia expansa (De A.Saunders) Y.-P.Lee, 2008 SPECIES
-=======
+# Colpomenia expansa (De A.Saunders) Y.-P.Lee, 2008 SPECIES
 
 #### Status
 ACCEPTED

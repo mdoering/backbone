@@ -1,5 +1,4 @@
-Baltisphaeridium sheshegovae Fensome et al., 1990 SPECIES
-=======
+# Baltisphaeridium sheshegovae Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

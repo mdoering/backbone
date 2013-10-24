@@ -1,5 +1,4 @@
-Stysanus echinobotryum (Fr.) SPECIES
-=======
+# Stysanus echinobotryum (Fr.) SPECIES
 
 #### Status
 ACCEPTED

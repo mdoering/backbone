@@ -1,5 +1,4 @@
-Protosteliopsis L.S. Olive & Stoian. GENUS
-=======
+# Protosteliopsis L.S. Olive & Stoian. GENUS
 
 #### Status
 ACCEPTED

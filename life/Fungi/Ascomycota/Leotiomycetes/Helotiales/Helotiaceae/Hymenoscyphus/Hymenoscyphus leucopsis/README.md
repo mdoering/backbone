@@ -1,5 +1,4 @@
-Hymenoscyphus leucopsis (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Hymenoscyphus leucopsis (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Splitofolliculina Hadzi, 1951 GENUS
-=======
+# Splitofolliculina Hadzi, 1951 GENUS
 
 #### Status
 ACCEPTED

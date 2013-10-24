@@ -1,5 +1,4 @@
-Cyclomycetella pavonia (Hook.) Murrill SPECIES
-=======
+# Cyclomycetella pavonia (Hook.) Murrill SPECIES
 
 #### Status
 ACCEPTED

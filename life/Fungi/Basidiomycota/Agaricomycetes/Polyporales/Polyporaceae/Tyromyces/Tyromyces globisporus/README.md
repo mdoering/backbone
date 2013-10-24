@@ -1,5 +1,4 @@
-Tyromyces globisporus Ipulet & Ryvarden SPECIES
-=======
+# Tyromyces globisporus Ipulet & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

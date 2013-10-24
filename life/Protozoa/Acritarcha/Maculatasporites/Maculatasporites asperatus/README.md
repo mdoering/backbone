@@ -1,5 +1,4 @@
-Maculatasporites asperatus Ravn, 1986 SPECIES
-=======
+# Maculatasporites asperatus Ravn, 1986 SPECIES
 
 #### Status
 ACCEPTED

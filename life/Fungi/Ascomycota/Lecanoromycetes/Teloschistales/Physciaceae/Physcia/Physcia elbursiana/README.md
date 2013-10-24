@@ -1,5 +1,4 @@
-Physcia elbursiana (Szatala) Szatala SPECIES
-=======
+# Physcia elbursiana (Szatala) Szatala SPECIES
 
 #### Status
 ACCEPTED

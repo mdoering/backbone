@@ -1,5 +1,4 @@
-Phytophthora hydrophila Curzi SPECIES
-=======
+# Phytophthora hydrophila Curzi SPECIES
 
 #### Status
 ACCEPTED

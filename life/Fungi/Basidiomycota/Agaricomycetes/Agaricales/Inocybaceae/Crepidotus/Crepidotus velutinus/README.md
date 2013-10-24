@@ -1,5 +1,4 @@
-Crepidotus velutinus Petch SPECIES
-=======
+# Crepidotus velutinus Petch SPECIES
 
 #### Status
 ACCEPTED

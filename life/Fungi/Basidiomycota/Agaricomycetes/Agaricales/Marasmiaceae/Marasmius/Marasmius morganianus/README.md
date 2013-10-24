@@ -1,5 +1,4 @@
-Marasmius morganianus Sumst. SPECIES
-=======
+# Marasmius morganianus Sumst. SPECIES
 
 #### Status
 ACCEPTED

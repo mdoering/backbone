@@ -1,5 +1,4 @@
-Septoria orthospora Lév. SPECIES
-=======
+# Septoria orthospora Lév. SPECIES
 
 #### Status
 ACCEPTED

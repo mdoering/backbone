@@ -1,14 +1,13 @@
-Corticium alneum (Fr.) P. Karst., 1885 SPECIES
-=======
+# Phanerochaete alnea (Fr.) P. Karst., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 24: 253 (1885)
+Bidr. Känn. Finl. Nat. Folk 48: 427 (1889)
 
 #### Original name
 Thelephora alnea Fr., 1821

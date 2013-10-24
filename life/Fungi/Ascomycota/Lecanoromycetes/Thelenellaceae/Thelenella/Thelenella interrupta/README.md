@@ -1,5 +1,4 @@
-Thelenella interrupta Vain. SPECIES
-=======
+# Thelenella interrupta Vain. SPECIES
 
 #### Status
 ACCEPTED

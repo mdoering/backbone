@@ -1,17 +1,16 @@
-Monoicomyces homalotae var. homalotae Thaxt. VARIETY
-=======
+# Monoicomyces homalotae Thaxt., 1900 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Proc. Amer. Acad. Arts & Sci. 35: 412 (1900)
 
 #### Original name
-Monoicomyces homalotae var. homalotae Thaxt.
+Monoicomyces homalotae Thaxt., 1900
 
 ### Remarks
 null

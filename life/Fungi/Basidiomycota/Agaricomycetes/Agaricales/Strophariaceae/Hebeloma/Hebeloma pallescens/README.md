@@ -1,5 +1,4 @@
-Hebeloma pallescens A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma pallescens A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

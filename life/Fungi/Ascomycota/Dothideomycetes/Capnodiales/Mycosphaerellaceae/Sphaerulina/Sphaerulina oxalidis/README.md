@@ -1,5 +1,4 @@
-Sphaerulina oxalidis Rehm SPECIES
-=======
+# Sphaerulina oxalidis Rehm SPECIES
 
 #### Status
 ACCEPTED

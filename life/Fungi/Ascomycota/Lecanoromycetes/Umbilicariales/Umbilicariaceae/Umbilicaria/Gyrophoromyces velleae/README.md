@@ -1,5 +1,4 @@
-Gyrophoromyces velleae E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Gyrophoromyces velleae E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

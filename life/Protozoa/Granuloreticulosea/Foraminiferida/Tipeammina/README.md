@@ -1,5 +1,4 @@
-Tipeammina Neagu, 2004 GENUS
-=======
+# Tipeammina Neagu, 2004 GENUS
 
 #### Status
 ACCEPTED

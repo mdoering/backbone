@@ -1,5 +1,4 @@
-Cercosporina trigonellae (Maubl.) Sacc. SPECIES
-=======
+# Cercosporina trigonellae (Maubl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

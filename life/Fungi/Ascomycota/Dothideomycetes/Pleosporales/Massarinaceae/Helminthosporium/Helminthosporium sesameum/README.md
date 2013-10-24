@@ -1,17 +1,16 @@
-Helmisporium sesameum Sacc. SPECIES
-=======
+# Helminthosporium sesameum Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Accad. Sci. Ven. -Trent. -Istr. 10: 91 (1917)
 
 #### Original name
-Helmisporium sesameum Sacc.
+Helminthosporium sesameum Sacc.
 
 ### Remarks
 null

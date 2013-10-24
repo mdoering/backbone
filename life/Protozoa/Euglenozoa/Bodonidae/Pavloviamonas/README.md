@@ -1,5 +1,4 @@
-Pavloviamonas Skvortzov & Noda GENUS
-=======
+# Pavloviamonas Skvortzov & Noda GENUS
 
 #### Status
 ACCEPTED

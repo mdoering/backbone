@@ -1,5 +1,4 @@
-Cercospora atra Ellis & Everh. SPECIES
-=======
+# Cercospora atra Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

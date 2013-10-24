@@ -1,5 +1,4 @@
-Microbotryodiplodia papillata Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Microbotryodiplodia papillata Bat., J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

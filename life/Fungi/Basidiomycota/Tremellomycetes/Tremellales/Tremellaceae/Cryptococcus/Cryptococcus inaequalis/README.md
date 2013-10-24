@@ -1,5 +1,4 @@
-Cryptococcus inaequalis Kütz. SPECIES
-=======
+# Cryptococcus inaequalis Kütz. SPECIES
 
 #### Status
 ACCEPTED

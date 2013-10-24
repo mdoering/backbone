@@ -1,5 +1,4 @@
-Graphis phyllocharis Vain. SPECIES
-=======
+# Graphis phyllocharis Vain. SPECIES
 
 #### Status
 ACCEPTED

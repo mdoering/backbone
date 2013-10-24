@@ -1,5 +1,4 @@
-Marasmius pallidiceps Murrill SPECIES
-=======
+# Marasmius pallidiceps Murrill SPECIES
 
 #### Status
 ACCEPTED

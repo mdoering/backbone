@@ -1,17 +1,16 @@
-Tubercularia paeonicola M.M. Xiang & P.K. Chi SPECIES
-=======
+# Tubercularia paeoniicola M.M. Xiang & P.K. Chi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Xiang, Chi & Li, Journal of South China Agricultural University 9(1): 47 (1988)
 
 #### Original name
-Tubercularia paeonicola M.M. Xiang & P.K. Chi
+Tubercularia paeoniicola M.M. Xiang & P.K. Chi
 
 ### Remarks
 null

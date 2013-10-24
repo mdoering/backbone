@@ -1,5 +1,4 @@
-Dicaeoma fuscatum (Arthur & Holw.) Arthur SPECIES
-=======
+# Dicaeoma fuscatum (Arthur & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

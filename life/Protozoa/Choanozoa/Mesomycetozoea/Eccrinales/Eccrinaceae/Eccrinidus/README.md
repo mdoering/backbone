@@ -1,5 +1,4 @@
-Eccrinidus Manier GENUS
-=======
+# Eccrinidus Manier GENUS
 
 #### Status
 ACCEPTED

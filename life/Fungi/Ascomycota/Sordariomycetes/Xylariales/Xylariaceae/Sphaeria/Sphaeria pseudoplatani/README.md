@@ -1,5 +1,4 @@
-Sphaeria pseudoplatani Fr. SPECIES
-=======
+# Sphaeria pseudoplatani Fr. SPECIES
 
 #### Status
 ACCEPTED

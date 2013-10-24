@@ -1,5 +1,4 @@
-Amphoridium paradolomiticum (Servít) Servít SPECIES
-=======
+# Amphoridium paradolomiticum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

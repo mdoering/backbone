@@ -1,5 +1,4 @@
-Neostomella ditissima Syd. SPECIES
-=======
+# Neostomella ditissima Syd. SPECIES
 
 #### Status
 ACCEPTED

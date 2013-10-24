@@ -1,5 +1,4 @@
-Lecidea interveniens H. Magn. SPECIES
-=======
+# Lecidea interveniens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

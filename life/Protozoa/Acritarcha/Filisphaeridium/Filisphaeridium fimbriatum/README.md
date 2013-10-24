@@ -1,5 +1,4 @@
-Filisphaeridium fimbriatum (White, 1842) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium fimbriatum (White, 1842) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

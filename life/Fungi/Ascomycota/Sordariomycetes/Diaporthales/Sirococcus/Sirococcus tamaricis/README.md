@@ -1,5 +1,4 @@
-Sirococcus tamaricis (Syd.) S. Ahmad SPECIES
-=======
+# Sirococcus tamaricis (Syd.) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

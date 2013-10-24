@@ -1,5 +1,4 @@
-Belonia arctica Lynge SPECIES
-=======
+# Belonia arctica Lynge SPECIES
 
 #### Status
 ACCEPTED

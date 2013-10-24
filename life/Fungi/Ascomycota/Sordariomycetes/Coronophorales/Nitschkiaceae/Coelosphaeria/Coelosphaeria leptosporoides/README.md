@@ -1,5 +1,4 @@
-Coelosphaeria leptosporoides G. Winter SPECIES
-=======
+# Coelosphaeria leptosporoides G. Winter SPECIES
 
 #### Status
 ACCEPTED

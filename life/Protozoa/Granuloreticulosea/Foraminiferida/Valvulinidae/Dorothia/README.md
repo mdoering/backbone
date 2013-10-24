@@ -1,5 +1,4 @@
-Dorothia Plummer, 1931 GENUS
-=======
+# Dorothia Plummer, 1931 GENUS
 
 #### Status
 ACCEPTED

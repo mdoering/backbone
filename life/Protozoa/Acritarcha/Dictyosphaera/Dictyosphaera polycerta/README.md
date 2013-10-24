@@ -1,5 +1,4 @@
-Dictyosphaera polycerta Lei Zuoqi, 1982 SPECIES
-=======
+# Dictyosphaera polycerta Lei Zuoqi, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria leptoloma Müll. Arg. SPECIES
-=======
+# Patellaria leptoloma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

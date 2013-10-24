@@ -1,5 +1,4 @@
-Muiaria gracilis Thaxt., 1914 SPECIES
-=======
+# Muiaria gracilis Thaxt., 1914 SPECIES
 
 #### Status
 ACCEPTED

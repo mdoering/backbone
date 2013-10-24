@@ -1,5 +1,4 @@
-Peniophora calothrix (Pat.) D.P. Rogers & H.S. Jacks. SPECIES
-=======
+# Peniophora calothrix (Pat.) D.P. Rogers & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

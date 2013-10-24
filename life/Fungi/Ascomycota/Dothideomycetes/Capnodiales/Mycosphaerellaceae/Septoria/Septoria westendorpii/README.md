@@ -1,5 +1,4 @@
-Septoria westendorpii G. Winter SPECIES
-=======
+# Septoria westendorpii G. Winter SPECIES
 
 #### Status
 ACCEPTED

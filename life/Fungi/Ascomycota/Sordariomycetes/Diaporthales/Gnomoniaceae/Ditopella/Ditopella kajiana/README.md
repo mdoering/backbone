@@ -1,5 +1,4 @@
-Ditopella kajiana Hara SPECIES
-=======
+# Ditopella kajiana Hara SPECIES
 
 #### Status
 ACCEPTED

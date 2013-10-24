@@ -1,5 +1,4 @@
-Psilocybe brunneocystidiata Guzmán & E. Horak SPECIES
-=======
+# Psilocybe brunneocystidiata Guzmán & E. Horak SPECIES
 
 #### Status
 ACCEPTED

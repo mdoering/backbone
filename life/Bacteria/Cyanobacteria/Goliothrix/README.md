@@ -1,5 +1,4 @@
-Goliothrix Zopf, 1882 GENUS
-=======
+# Goliothrix Zopf, 1882 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solosympodiella queenslandica Matsush., 1989 SPECIES
-=======
+# Solosympodiella queenslandica Matsush., 1989 SPECIES
 
 #### Status
 ACCEPTED

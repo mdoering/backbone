@@ -1,5 +1,4 @@
-Phyllachora leersiae Chardón, 1932 SPECIES
-=======
+# Phyllachora leersiae Chardón, 1932 SPECIES
 
 #### Status
 DOUBTFUL

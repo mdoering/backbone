@@ -1,5 +1,4 @@
-Meliola trichostroma (Kunze) Toro SPECIES
-=======
+# Meliola trichostroma (Kunze) Toro SPECIES
 
 #### Status
 ACCEPTED

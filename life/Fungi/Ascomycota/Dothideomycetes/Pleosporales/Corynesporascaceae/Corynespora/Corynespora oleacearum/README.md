@@ -1,5 +1,4 @@
-Corynespora oleacearum N. Sharma & S. Srivast. SPECIES
-=======
+# Corynespora oleacearum N. Sharma & S. Srivast. SPECIES
 
 #### Status
 ACCEPTED

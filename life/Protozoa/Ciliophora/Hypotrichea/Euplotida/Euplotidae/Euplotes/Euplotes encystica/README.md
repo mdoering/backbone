@@ -1,5 +1,4 @@
-Euplotes encystica SPECIES
-=======
+# Euplotes encystica SPECIES
 
 #### Status
 ACCEPTED

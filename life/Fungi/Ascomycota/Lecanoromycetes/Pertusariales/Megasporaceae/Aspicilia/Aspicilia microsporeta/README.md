@@ -1,5 +1,4 @@
-Aspicilia microsporeta Hue SPECIES
-=======
+# Aspicilia microsporeta Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria lignicola (Anzi) Motyka SPECIES
-=======
+# Urceolaria lignicola (Anzi) Motyka SPECIES
 
 #### Status
 ACCEPTED

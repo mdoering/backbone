@@ -1,5 +1,4 @@
-Phacidium fuscellum P. Karst. SPECIES
-=======
+# Phacidium fuscellum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceuthocarpon populinum (Fr.) P. Karst. SPECIES
-=======
+# Ceuthocarpon populinum (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

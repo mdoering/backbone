@@ -1,5 +1,4 @@
-Cryptodiaporthe japonica Ts. Kobay. & C. Oishi SPECIES
-=======
+# Cryptodiaporthe japonica Ts. Kobay. & C. Oishi SPECIES
 
 #### Status
 ACCEPTED

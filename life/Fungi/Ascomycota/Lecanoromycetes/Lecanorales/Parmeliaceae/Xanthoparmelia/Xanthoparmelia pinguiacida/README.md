@@ -1,14 +1,13 @@
-Paraparmelia pinguiacida Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia pinguiacida (Elix & J. Johnst.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brunonia 9: 146 (1986)
+Mycotaxon 87: 401 (2003)
 
 #### Original name
 Paraparmelia pinguiacida Elix & J. Johnst.

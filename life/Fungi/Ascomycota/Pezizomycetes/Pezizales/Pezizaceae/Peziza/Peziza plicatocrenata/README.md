@@ -1,5 +1,4 @@
-Peziza plicatocrenata Schwein. SPECIES
-=======
+# Peziza plicatocrenata Schwein. SPECIES
 
 #### Status
 ACCEPTED

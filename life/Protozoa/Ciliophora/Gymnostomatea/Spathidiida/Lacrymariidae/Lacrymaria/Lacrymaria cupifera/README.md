@@ -1,5 +1,4 @@
-Lacrymaria cupifera Kahl, 1933 SPECIES
-=======
+# Lacrymaria cupifera Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

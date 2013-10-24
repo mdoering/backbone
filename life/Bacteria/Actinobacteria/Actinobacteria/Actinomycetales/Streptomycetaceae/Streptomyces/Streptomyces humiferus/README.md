@@ -1,8 +1,7 @@
-Actinopycnidium caeruleum Krasil'nikov, 1962 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces humiferus Goodfellow et al., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

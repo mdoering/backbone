@@ -1,5 +1,4 @@
-Phyllachora centothecae Syd. & P. Syd., 1915 SPECIES
-=======
+# Phyllachora centothecae Syd. & P. Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

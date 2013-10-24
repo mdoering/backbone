@@ -1,5 +1,4 @@
-Stictis sphaeroides Niessl SPECIES
-=======
+# Stictis sphaeroides Niessl SPECIES
 
 #### Status
 ACCEPTED

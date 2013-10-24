@@ -1,5 +1,4 @@
-Lophiostoma palmettum (Cooke) Aptroot & K.D. Hyde SPECIES
-=======
+# Lophiostoma palmettum (Cooke) Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

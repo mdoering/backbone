@@ -1,5 +1,4 @@
-Anthracoidea intercedens Nannf., 1979 SPECIES
-=======
+# Anthracoidea intercedens Nannf., 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panus quaquaversus Berk. SPECIES
-=======
+# Panus quaquaversus Berk. SPECIES
 
 #### Status
 ACCEPTED

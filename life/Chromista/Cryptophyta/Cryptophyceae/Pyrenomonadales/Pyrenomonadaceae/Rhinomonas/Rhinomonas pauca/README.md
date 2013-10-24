@@ -1,5 +1,4 @@
-Rhinomonas pauca D. R. A. Hill & R. Wetherbee SPECIES
-=======
+# Rhinomonas pauca D. R. A. Hill & R. Wetherbee SPECIES
 
 #### Status
 ACCEPTED

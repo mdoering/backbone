@@ -1,5 +1,4 @@
-Thrombium graniferum ? xanthostigma Wallr. SPECIES
-=======
+# Thrombium graniferum ? xanthostigma Wallr. SPECIES
 
 #### Status
 ACCEPTED

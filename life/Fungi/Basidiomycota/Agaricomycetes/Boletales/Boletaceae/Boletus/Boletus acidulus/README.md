@@ -1,5 +1,4 @@
-Boletus acidulus (Fr.) Sacc. SPECIES
-=======
+# Boletus acidulus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

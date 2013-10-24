@@ -1,5 +1,4 @@
-Strigula stilboideum Bat. SPECIES
-=======
+# Strigula stilboideum Bat. SPECIES
 
 #### Status
 ACCEPTED

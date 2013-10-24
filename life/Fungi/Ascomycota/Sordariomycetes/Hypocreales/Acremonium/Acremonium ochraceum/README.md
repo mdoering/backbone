@@ -1,14 +1,13 @@
-Paecilomyces ochraceus Onions & G.L. Barron, 1967 SPECIES
-=======
+# Acremonium ochraceum (Onions & G.L. Barron) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 107: 15 (1967)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 67 (1971)
 
 #### Original name
 Paecilomyces ochraceus Onions & G.L. Barron, 1967

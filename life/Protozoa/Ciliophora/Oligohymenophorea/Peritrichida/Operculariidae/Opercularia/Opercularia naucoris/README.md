@@ -1,5 +1,4 @@
-Opercularia naucoris Faure-Fremiet, 1905 SPECIES
-=======
+# Opercularia naucoris Faure-Fremiet, 1905 SPECIES
 
 #### Status
 ACCEPTED

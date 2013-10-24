@@ -1,14 +1,13 @@
-Corticium pseudotsugae Burt, 1926 SPECIES
-=======
+# Phlebiella pseudotsugae (Burt) K.H. Larss. & Hjortstam, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 13(3): 246 (1926)
+in Hjortstam & Larsson, Mycotaxon 29: 317 (1987)
 
 #### Original name
 Corticium pseudotsugae Burt, 1926

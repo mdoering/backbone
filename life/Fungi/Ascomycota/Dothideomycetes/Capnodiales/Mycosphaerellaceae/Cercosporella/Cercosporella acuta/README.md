@@ -1,5 +1,4 @@
-Cercosporella acuta (A.L. Sm.) Sacc. & D. Sacc. SPECIES
-=======
+# Cercosporella acuta (A.L. Sm.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanographa laingiana Diederich, Egea & Sipman SPECIES
-=======
+# Lecanographa laingiana Diederich, Egea & Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium sparrowii S.N. Dasgupta & R. John SPECIES
-=======
+# Rhizophydium sparrowii S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

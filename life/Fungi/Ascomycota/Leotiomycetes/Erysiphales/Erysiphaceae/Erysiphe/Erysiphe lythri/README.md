@@ -1,5 +1,4 @@
-Erysiphe lythri L. Junell, 1967 SPECIES
-=======
+# Erysiphe lythri L. Junell, 1967 SPECIES
 
 #### Status
 ACCEPTED

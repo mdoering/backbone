@@ -1,17 +1,16 @@
-Agaricus morgani Peck SPECIES
-=======
+# Agaricus morganii Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Gaz. 4: 137 (1879)
 
 #### Original name
-Agaricus morgani Peck
+Agaricus morganii Peck
 
 ### Remarks
 null

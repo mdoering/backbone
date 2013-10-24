@@ -1,5 +1,4 @@
-Cucurbitaria quercina Ellis & Everh. SPECIES
-=======
+# Cucurbitaria quercina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

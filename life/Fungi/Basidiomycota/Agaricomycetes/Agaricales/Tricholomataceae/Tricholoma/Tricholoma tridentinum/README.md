@@ -1,5 +1,4 @@
-Tricholoma tridentinum var. tridentinum VARIETY
-=======
+# Tricholoma tridentinum Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 41: 78 (1943)
 
 #### Original name
-Tricholoma tridentinum var. tridentinum
+Tricholoma tridentinum Singer
 
 ### Remarks
 null

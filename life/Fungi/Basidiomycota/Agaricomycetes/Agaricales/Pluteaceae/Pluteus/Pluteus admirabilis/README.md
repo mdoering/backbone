@@ -1,5 +1,4 @@
-Pluteus admirabilis var. admirabilis VARIETY
-=======
+# Pluteus admirabilis Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 38: 138 (1885)
+null
 
 #### Original name
-Pluteus admirabilis var. admirabilis
+Pluteus admirabilis Peck
 
 ### Remarks
 null

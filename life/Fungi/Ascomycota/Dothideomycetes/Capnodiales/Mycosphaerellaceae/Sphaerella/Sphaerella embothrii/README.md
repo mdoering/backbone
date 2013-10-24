@@ -1,5 +1,4 @@
-Sphaerella embothrii Speg. SPECIES
-=======
+# Sphaerella embothrii Speg. SPECIES
 
 #### Status
 ACCEPTED

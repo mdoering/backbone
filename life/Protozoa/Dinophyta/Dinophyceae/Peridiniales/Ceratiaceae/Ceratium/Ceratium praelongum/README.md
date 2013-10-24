@@ -1,8 +1,7 @@
-Ceratium gravidum var. praelongum Lemmermann VARIETY
-=======
+# Ceratium praelongum (Lemmermann) Kofoid SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

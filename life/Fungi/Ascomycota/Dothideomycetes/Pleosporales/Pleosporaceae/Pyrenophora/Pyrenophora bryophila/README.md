@@ -1,5 +1,4 @@
-Pyrenophora bryophila Racov. SPECIES
-=======
+# Pyrenophora bryophila Racov. SPECIES
 
 #### Status
 ACCEPTED

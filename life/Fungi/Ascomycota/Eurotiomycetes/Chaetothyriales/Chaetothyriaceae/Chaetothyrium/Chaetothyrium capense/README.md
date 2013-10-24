@@ -1,5 +1,4 @@
-Chaetothyrium capense (Doidge) Hansf. SPECIES
-=======
+# Chaetothyrium capense (Doidge) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoophthora psyllae Balazy, 1993 SPECIES
-=======
+# Zoophthora psyllae Balazy, 1993 SPECIES
 
 #### Status
 ACCEPTED

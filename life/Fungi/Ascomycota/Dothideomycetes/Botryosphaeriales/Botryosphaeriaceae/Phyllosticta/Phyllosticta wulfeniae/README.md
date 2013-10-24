@@ -1,5 +1,4 @@
-Phyllosticta wulfeniae H.C. Greene SPECIES
-=======
+# Phyllosticta wulfeniae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

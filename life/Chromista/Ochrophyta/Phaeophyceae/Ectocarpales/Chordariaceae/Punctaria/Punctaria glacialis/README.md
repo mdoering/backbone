@@ -1,5 +1,4 @@
-Punctaria glacialis Rosenvinge SPECIES
-=======
+# Punctaria glacialis Rosenvinge SPECIES
 
 #### Status
 ACCEPTED

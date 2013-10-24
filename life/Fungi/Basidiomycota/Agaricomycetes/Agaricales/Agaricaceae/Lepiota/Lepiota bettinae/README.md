@@ -1,5 +1,4 @@
-Lepiota bettinae Dörfelt SPECIES
-=======
+# Lepiota bettinae Dörfelt SPECIES
 
 #### Status
 ACCEPTED

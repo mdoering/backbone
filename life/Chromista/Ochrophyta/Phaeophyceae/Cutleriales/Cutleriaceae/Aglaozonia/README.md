@@ -1,5 +1,4 @@
-Aglaozonia G. Zanardini, 1843 GENUS
-=======
+# Aglaozonia G. Zanardini, 1843 GENUS
 
 #### Status
 ACCEPTED

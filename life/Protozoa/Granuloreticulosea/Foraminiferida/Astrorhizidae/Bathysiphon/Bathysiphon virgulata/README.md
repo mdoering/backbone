@@ -1,8 +1,7 @@
-Hippocrepinella virgulata Rhumbler, 1935 SPECIES
-=======
+# Bathysiphon virgulata (Rhumbler, 1935) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

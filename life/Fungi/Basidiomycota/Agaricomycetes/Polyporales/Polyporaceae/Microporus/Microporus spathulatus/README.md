@@ -1,5 +1,4 @@
-Microporus spathulatus (Hook.) Kuntze SPECIES
-=======
+# Microporus spathulatus (Hook.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

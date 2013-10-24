@@ -1,5 +1,4 @@
-Koerberiella basalticola Motyka SPECIES
-=======
+# Koerberiella basalticola Motyka SPECIES
 
 #### Status
 ACCEPTED

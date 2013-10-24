@@ -1,5 +1,4 @@
-Kurogiella saxatilis Kawai SPECIES
-=======
+# Kurogiella saxatilis Kawai SPECIES
 
 #### Status
 ACCEPTED

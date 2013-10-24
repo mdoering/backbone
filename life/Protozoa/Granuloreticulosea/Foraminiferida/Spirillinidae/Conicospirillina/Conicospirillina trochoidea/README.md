@@ -1,5 +1,4 @@
-Conicospirillina trochoidea Cushman, 1933 SPECIES
-=======
+# Conicospirillina trochoidea Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

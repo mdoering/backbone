@@ -1,5 +1,4 @@
-Aposphaeria subcrustacea P. Karst. SPECIES
-=======
+# Aposphaeria subcrustacea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

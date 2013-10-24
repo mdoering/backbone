@@ -1,5 +1,4 @@
-Melanoleuca fuliginea (Peck) Murrill SPECIES
-=======
+# Melanoleuca fuliginea (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

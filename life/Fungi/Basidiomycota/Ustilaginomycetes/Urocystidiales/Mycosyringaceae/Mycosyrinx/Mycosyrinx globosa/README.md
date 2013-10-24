@@ -1,5 +1,4 @@
-Mycosyrinx globosa Vienn.-Bourg., 1952 SPECIES
-=======
+# Mycosyrinx globosa Vienn.-Bourg., 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrodinium arcticum Bursa, 1961 SPECIES
-=======
+# Gyrodinium arcticum Bursa, 1961 SPECIES
 
 #### Status
 ACCEPTED

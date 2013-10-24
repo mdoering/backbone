@@ -1,5 +1,4 @@
-Acantharia chaetomoides W.H. Hsieh, Chi Y. Chen & Sivan., 1995 SPECIES
-=======
+# Acantharia chaetomoides W.H. Hsieh, Chi Y. Chen & Sivan., 1995 SPECIES
 
 #### Status
 ACCEPTED

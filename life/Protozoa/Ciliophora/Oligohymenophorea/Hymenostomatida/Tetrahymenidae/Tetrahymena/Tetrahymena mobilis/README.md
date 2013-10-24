@@ -1,5 +1,4 @@
-Tetrahymena mobilis SPECIES
-=======
+# Tetrahymena mobilis SPECIES
 
 #### Status
 ACCEPTED

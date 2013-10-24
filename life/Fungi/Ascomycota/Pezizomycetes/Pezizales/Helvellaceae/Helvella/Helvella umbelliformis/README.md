@@ -1,5 +1,4 @@
-Helvella umbelliformis Pers. SPECIES
-=======
+# Helvella umbelliformis Pers. SPECIES
 
 #### Status
 ACCEPTED

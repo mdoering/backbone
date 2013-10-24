@@ -1,5 +1,4 @@
-Tubaria tenuis Peck SPECIES
-=======
+# Tubaria tenuis Peck SPECIES
 
 #### Status
 ACCEPTED

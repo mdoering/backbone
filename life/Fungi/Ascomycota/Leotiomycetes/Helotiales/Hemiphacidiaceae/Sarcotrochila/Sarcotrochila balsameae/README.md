@@ -1,14 +1,13 @@
-Rhabdogloeopsis balsamae (Davis) Petr. SPECIES
-=======
+# Sarcotrochila balsameae (Davis) Korf, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 54(1): 29 (1962)
 
 #### Original name
 Gloeosporium balsameae Davis, 1922

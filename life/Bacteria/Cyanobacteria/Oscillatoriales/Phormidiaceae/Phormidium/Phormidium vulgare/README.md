@@ -1,5 +1,4 @@
-Phormidium vulgare var. imberbe Stizenberger VARIETY
-=======
+# Phormidium vulgare SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichenosticta Zopf GENUS
-=======
+# Lichenosticta Zopf GENUS
 
 #### Status
 ACCEPTED

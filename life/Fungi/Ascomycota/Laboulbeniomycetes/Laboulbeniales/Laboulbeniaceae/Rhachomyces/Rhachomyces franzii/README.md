@@ -1,17 +1,16 @@
-Rhachomyces franzi Balazuc SPECIES
-=======
+# Rhachomyces franzii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 38(5): 221 (1975)
 
 #### Original name
-Rhachomyces franzi Balazuc
+Rhachomyces franzii Balazuc
 
 ### Remarks
 null

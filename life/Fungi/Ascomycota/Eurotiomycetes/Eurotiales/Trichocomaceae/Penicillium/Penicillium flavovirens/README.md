@@ -1,5 +1,4 @@
-Penicillium flavovirens Cooke & Massee SPECIES
-=======
+# Penicillium flavovirens Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

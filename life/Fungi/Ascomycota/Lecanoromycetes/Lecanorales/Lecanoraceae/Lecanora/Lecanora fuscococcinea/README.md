@@ -1,5 +1,4 @@
-Lecanora fuscococcinea Nyl. SPECIES
-=======
+# Lecanora fuscococcinea Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaster lichenicola Tobler SPECIES
-=======
+# Verrucaster lichenicola Tobler SPECIES
 
 #### Status
 ACCEPTED

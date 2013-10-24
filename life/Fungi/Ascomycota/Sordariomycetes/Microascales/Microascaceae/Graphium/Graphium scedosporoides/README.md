@@ -1,5 +1,4 @@
-Graphium scedosporoides M. Kolarík SPECIES
-=======
+# Graphium scedosporoides M. Kolarík SPECIES
 
 #### Status
 ACCEPTED

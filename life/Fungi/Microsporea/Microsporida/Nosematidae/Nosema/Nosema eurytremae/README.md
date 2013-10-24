@@ -1,5 +1,4 @@
-Nosema eurytremae SPECIES
-=======
+# Nosema eurytremae SPECIES
 
 #### Status
 ACCEPTED

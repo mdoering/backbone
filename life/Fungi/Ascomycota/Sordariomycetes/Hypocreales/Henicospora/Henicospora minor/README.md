@@ -1,5 +1,4 @@
-Henicospora minor P.M. Kirk & B. Sutton, 1980 SPECIES
-=======
+# Henicospora minor P.M. Kirk & B. Sutton, 1980 SPECIES
 
 #### Status
 ACCEPTED

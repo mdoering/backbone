@@ -1,5 +1,4 @@
-Ignicoccus pacificus Huber & Stetter, 2000 SPECIES
-=======
+# Ignicoccus pacificus Huber & Stetter, 2000 SPECIES
 
 #### Status
 ACCEPTED

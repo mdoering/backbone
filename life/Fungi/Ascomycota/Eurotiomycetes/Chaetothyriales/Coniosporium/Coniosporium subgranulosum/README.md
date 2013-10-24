@@ -1,5 +1,4 @@
-Coniosporium subgranulosum Ellis & Everh. SPECIES
-=======
+# Coniosporium subgranulosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotiella circinans Pat. SPECIES
-=======
+# Helotiella circinans Pat. SPECIES
 
 #### Status
 ACCEPTED

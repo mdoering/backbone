@@ -1,5 +1,4 @@
-Coprinus bellulus Uljé, 1988 SPECIES
-=======
+# Coprinus bellulus Uljé, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomatospora nypicola K.D. Hyde & Alias, 1999 SPECIES
-=======
+# Phomatospora nypicola K.D. Hyde & Alias, 1999 SPECIES
 
 #### Status
 ACCEPTED

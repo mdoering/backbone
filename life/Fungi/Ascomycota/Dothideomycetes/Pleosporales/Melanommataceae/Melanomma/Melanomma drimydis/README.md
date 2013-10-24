@@ -1,17 +1,16 @@
-Melanomma drymidis Rehm SPECIES
-=======
+# Melanomma drimydis Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 40: 106 (1901)
 
 #### Original name
-Melanomma drymidis Rehm
+Melanomma drimydis Rehm
 
 ### Remarks
 null

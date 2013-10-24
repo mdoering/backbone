@@ -1,5 +1,4 @@
-Psathyra alnetorum Velen. SPECIES
-=======
+# Psathyra alnetorum Velen. SPECIES
 
 #### Status
 ACCEPTED

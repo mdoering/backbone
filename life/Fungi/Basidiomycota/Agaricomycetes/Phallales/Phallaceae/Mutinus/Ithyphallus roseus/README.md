@@ -1,5 +1,4 @@
-Ithyphallus roseus Sawada SPECIES
-=======
+# Ithyphallus roseus Sawada SPECIES
 
 #### Status
 ACCEPTED

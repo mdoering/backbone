@@ -1,5 +1,4 @@
-Cymatiogalea minor Timofeev, 1959 ex Vavrdová, 1976 SPECIES
-=======
+# Cymatiogalea minor Timofeev, 1959 ex Vavrdová, 1976 SPECIES
 
 #### Status
 ACCEPTED

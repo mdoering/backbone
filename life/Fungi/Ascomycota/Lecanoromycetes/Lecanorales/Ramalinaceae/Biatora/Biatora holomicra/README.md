@@ -1,5 +1,4 @@
-Biatora holomicra Anzi SPECIES
-=======
+# Biatora holomicra Anzi SPECIES
 
 #### Status
 ACCEPTED

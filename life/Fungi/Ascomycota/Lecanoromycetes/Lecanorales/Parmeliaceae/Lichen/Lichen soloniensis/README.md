@@ -1,5 +1,4 @@
-Lichen soloniensis Dubois SPECIES
-=======
+# Lichen soloniensis Dubois SPECIES
 
 #### Status
 ACCEPTED

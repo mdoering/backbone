@@ -1,5 +1,4 @@
-Verrucaria mougeotii (Zschacke) Servít SPECIES
-=======
+# Verrucaria mougeotii (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

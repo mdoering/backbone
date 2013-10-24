@@ -1,5 +1,4 @@
-Baltisphaeridium texanum (Merrill, 1895) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium texanum (Merrill, 1895) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

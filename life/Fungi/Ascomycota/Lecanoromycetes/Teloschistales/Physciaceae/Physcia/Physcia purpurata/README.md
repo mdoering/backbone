@@ -1,5 +1,4 @@
-Physcia purpurata SPECIES
-=======
+# Physcia purpurata SPECIES
 
 #### Status
 ACCEPTED

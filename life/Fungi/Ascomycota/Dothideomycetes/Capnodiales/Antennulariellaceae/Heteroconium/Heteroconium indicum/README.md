@@ -1,5 +1,4 @@
-Heteroconium indicum Varghese & V.G. Rao SPECIES
-=======
+# Heteroconium indicum Varghese & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aleurisma granulosum Mart. SPECIES
-=======
+# Aleurisma granulosum Mart. SPECIES
 
 #### Status
 ACCEPTED

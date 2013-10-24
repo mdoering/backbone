@@ -1,5 +1,4 @@
-Parmelia pusilla Ach. SPECIES
-=======
+# Parmelia pusilla Ach. SPECIES
 
 #### Status
 ACCEPTED

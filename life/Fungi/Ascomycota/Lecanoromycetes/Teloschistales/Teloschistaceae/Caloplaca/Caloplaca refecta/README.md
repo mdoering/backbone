@@ -1,5 +1,4 @@
-Caloplaca refecta (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca refecta (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

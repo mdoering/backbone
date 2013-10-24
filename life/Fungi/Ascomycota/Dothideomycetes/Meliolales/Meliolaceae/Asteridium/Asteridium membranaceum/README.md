@@ -1,5 +1,4 @@
-Asteridium membranaceum (Speg.) Speg. SPECIES
-=======
+# Asteridium membranaceum (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

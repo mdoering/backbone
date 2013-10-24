@@ -1,5 +1,4 @@
-Lobomorpha trifurcata Yan Yuzhong, 1985 SPECIES
-=======
+# Lobomorpha trifurcata Yan Yuzhong, 1985 SPECIES
 
 #### Status
 ACCEPTED

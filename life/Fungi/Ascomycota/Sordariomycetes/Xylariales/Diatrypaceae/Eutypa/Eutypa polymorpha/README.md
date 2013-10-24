@@ -1,5 +1,4 @@
-Eutypa polymorpha (Nitschke) Sacc. SPECIES
-=======
+# Eutypa polymorpha (Nitschke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

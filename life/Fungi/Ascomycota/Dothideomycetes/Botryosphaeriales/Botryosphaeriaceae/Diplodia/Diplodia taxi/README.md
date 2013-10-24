@@ -1,17 +1,16 @@
-Phoma taxi (Schwein. ex Berk.) Sacc., 1884 SPECIES
-=======
+# Diplodia taxi (Sowerby) De Not., 1842 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 102 (1884)
+Mem. Accad. Scienze, Torino, ser. 2 4: 28 (1842)
 
 #### Original name
-Sphaeropsis taxi Schwein. ex Berk., 1860
+Sphaeria taxi Fr., 1815
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Lycoperdon pedicellatum var. pedicellatum VARIETY
-=======
+# Lycoperdon caudatum J. Schröt., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(41): 698 (1889)
 
 #### Original name
-null
+Lycoperdon caudatum J. Schröt., 1889
 
 ### Remarks
 null

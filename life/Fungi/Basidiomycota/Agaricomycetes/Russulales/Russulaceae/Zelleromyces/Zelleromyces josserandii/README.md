@@ -1,17 +1,16 @@
-Arcangeliella josserandii (Malençon) J.M. Vidal, 2005 SPECIES
-=======
+# Zelleromyces josserandii Malençon, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue Mycol. , Paris 39(4): 303 (1976)
 
 #### Original name
-null
+Zelleromyces josserandii Malençon, 1976
 
 ### Remarks
 null

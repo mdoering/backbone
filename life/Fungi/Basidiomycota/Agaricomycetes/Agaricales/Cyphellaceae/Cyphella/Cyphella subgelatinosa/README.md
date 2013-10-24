@@ -1,5 +1,4 @@
-Cyphella subgelatinosa Berk. & Ravenel SPECIES
-=======
+# Cyphella subgelatinosa Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

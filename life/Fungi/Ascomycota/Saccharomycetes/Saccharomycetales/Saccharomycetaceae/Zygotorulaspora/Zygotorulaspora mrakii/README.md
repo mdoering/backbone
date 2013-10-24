@@ -1,14 +1,13 @@
-Zygosaccharomyces mrakii Capr., 1958 SPECIES
-=======
+# Zygotorulaspora mrakii (Capr.) Kurtzman, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Mikrobiol. 30: 387-392 (1958)
+FEMS Yeast Res. 4(3): 243 (2003)
 
 #### Original name
 Zygosaccharomyces mrakii Capr., 1958

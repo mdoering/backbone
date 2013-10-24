@@ -1,17 +1,16 @@
-Cetrariastrum catawbiense (Degel.) W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Everniastrum catawbiense (Degel.) Hale ex Sipman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 26: 239 (1986)
 
 #### Original name
-null
+Parmelia sorocheila var. catawbiensis Degel.
 
 ### Remarks
 null

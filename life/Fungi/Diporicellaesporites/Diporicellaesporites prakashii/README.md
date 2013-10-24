@@ -1,5 +1,4 @@
-Diporicellaesporites prakashii A. Chandra, R.K. Saxena & Setty SPECIES
-=======
+# Diporicellaesporites prakashii A. Chandra, R.K. Saxena & Setty SPECIES
 
 #### Status
 ACCEPTED

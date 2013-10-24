@@ -1,5 +1,4 @@
-Colpoda cavicola subsp. amicronucleata Foissner, Agatha & Berger, 2002 SUBSPECIES
-=======
+# Colpoda cavicola Kahl SPECIES
 
 #### Status
 ACCEPTED

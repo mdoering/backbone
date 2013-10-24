@@ -1,5 +1,4 @@
-Ophiocordyceps stipillata (Z.Q. Liang & A.Y. Liu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps stipillata (Z.Q. Liang & A.Y. Liu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

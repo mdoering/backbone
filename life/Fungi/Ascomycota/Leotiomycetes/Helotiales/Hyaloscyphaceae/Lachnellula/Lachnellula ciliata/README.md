@@ -1,5 +1,4 @@
-Lachnellula ciliata Dennis SPECIES
-=======
+# Lachnellula ciliata Dennis SPECIES
 
 #### Status
 ACCEPTED

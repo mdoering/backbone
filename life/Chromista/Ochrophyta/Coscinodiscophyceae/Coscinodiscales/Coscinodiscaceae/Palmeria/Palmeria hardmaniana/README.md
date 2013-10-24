@@ -1,5 +1,4 @@
-Palmeria hardmaniana Greville, 1865 SPECIES
-=======
+# Palmeria hardmaniana Greville, 1865 SPECIES
 
 #### Status
 ACCEPTED

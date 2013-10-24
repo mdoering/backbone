@@ -1,14 +1,13 @@
-Helminthosphaeria tunicata (Kirschst.) Kirschst., 1934 SPECIES
-=======
+# Rosellinia tunicata Kirschst., 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 18(4): 305 (1934)
+Krypt. -Fl. Brandenburg (Leipzig) 7: 217 (1911)
 
 #### Original name
 Rosellinia tunicata Kirschst., 1911

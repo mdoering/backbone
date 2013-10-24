@@ -1,5 +1,4 @@
-Mollisia euparaphysata J. Schröt. SPECIES
-=======
+# Mollisia euparaphysata J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

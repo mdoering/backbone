@@ -1,5 +1,4 @@
-Blepharocorys caudata Kopperi, 1937 SPECIES
-=======
+# Blepharocorys caudata Kopperi, 1937 SPECIES
 
 #### Status
 ACCEPTED

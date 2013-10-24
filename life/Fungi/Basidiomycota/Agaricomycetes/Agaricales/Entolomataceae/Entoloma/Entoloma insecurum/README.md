@@ -1,5 +1,4 @@
-Entoloma insecurum Corner & E. Horak SPECIES
-=======
+# Entoloma insecurum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

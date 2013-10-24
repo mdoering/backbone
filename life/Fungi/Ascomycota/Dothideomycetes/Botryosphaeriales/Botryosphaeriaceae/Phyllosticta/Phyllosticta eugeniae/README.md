@@ -1,5 +1,4 @@
-Phyllosticta eugeniae C.C. Chen, 1967 SPECIES
-=======
+# Phyllosticta eugeniae C.C. Chen, 1967 SPECIES
 
 #### Status
 ACCEPTED

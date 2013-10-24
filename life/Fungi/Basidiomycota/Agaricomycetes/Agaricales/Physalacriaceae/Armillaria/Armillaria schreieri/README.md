@@ -1,5 +1,4 @@
-Armillaria schreieri (Maire & Konrad) Zerova SPECIES
-=======
+# Armillaria schreieri (Maire & Konrad) Zerova SPECIES
 
 #### Status
 ACCEPTED

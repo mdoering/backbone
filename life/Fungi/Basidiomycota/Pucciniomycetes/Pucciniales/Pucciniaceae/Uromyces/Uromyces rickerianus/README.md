@@ -1,5 +1,4 @@
-Uromyces rickerianus Arthur SPECIES
-=======
+# Uromyces rickerianus Arthur SPECIES
 
 #### Status
 ACCEPTED

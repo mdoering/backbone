@@ -1,5 +1,4 @@
-Dimargaris simplex B.S. Mehrotra & Baijal, 1964 SPECIES
-=======
+# Dimargaris simplex B.S. Mehrotra & Baijal, 1964 SPECIES
 
 #### Status
 ACCEPTED

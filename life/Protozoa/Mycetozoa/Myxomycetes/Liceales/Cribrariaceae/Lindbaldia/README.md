@@ -1,5 +1,4 @@
-Lindbaldia GENUS
-=======
+# Lindbaldia GENUS
 
 #### Status
 ACCEPTED

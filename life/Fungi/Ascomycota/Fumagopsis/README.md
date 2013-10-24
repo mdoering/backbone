@@ -1,5 +1,4 @@
-Fumagopsis GENUS
-=======
+# Fumagopsis GENUS
 
 #### Status
 ACCEPTED

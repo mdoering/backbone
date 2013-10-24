@@ -1,5 +1,4 @@
-Parmelia gyrosa (Spreng.) Mont. SPECIES
-=======
+# Parmelia gyrosa (Spreng.) Mont. SPECIES
 
 #### Status
 ACCEPTED

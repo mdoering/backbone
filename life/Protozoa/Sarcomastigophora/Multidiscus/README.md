@@ -1,5 +1,4 @@
-Multidiscus Miklukho-Maklai, 1953 GENUS
-=======
+# Multidiscus Miklukho-Maklai, 1953 GENUS
 
 #### Status
 ACCEPTED

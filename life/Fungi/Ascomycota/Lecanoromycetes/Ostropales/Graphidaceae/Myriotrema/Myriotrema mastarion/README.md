@@ -1,5 +1,4 @@
-Myriotrema mastarion Hale SPECIES
-=======
+# Myriotrema mastarion Hale SPECIES
 
 #### Status
 ACCEPTED

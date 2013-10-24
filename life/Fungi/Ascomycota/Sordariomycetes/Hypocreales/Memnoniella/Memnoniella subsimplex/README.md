@@ -1,14 +1,13 @@
-Stachybotrys subsimplex Cooke, 1883 SPECIES
-=======
+# Memnoniella subsimplex (Cooke) Deighton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 12(no. 61): 33 (1883)
+Mycol. Pap. 78: 5 (1960)
 
 #### Original name
 Stachybotrys subsimplex Cooke, 1883

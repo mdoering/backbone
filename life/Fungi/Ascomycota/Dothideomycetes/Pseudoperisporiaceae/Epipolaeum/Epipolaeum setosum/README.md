@@ -1,5 +1,4 @@
-Epipolaeum setosum (Petr.) E. Müll. SPECIES
-=======
+# Epipolaeum setosum (Petr.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

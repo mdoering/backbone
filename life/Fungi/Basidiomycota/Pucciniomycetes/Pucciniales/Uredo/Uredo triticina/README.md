@@ -1,5 +1,4 @@
-Uredo triticina Erikss. SPECIES
-=======
+# Uredo triticina Erikss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia andropogonicola Speg. SPECIES
-=======
+# Puccinia andropogonicola Speg. SPECIES
 
 #### Status
 ACCEPTED

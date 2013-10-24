@@ -1,5 +1,4 @@
-Odontochitina G.Deflandre GENUS
-=======
+# Odontochitina G.Deflandre GENUS
 
 #### Status
 ACCEPTED

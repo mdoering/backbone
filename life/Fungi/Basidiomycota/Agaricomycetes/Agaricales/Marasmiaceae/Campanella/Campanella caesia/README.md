@@ -1,17 +1,16 @@
-Campanella europaea Singer, 1976 SPECIES
-=======
+# Campanella caesia Romagn., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 26(4): 873 (1976)
+Bull. trimest. Soc. mycol. Fr. 96(4): 427 (1981)
 
 #### Original name
-Campanella europaea Singer, 1976
+Campanella caesia Romagn., 1981
 
 ### Remarks
 null

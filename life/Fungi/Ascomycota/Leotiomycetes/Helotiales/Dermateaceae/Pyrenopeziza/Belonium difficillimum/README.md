@@ -1,5 +1,4 @@
-Belonium difficillimum Rehm SPECIES
-=======
+# Belonium difficillimum Rehm SPECIES
 
 #### Status
 ACCEPTED

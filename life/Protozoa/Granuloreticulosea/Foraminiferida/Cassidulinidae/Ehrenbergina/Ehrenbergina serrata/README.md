@@ -1,5 +1,4 @@
-Ehrenbergina serrata Reuss SPECIES
-=======
+# Ehrenbergina serrata Reuss SPECIES
 
 #### Status
 ACCEPTED

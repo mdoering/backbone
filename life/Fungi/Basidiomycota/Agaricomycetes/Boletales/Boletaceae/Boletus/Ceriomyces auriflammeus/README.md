@@ -1,5 +1,4 @@
-Ceriomyces auriflammeus (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Ceriomyces auriflammeus (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

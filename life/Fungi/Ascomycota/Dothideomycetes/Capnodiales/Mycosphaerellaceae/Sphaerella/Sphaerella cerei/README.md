@@ -1,5 +1,4 @@
-Sphaerella cerei (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Sphaerella cerei (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Roccellina limitata (Nyl.) Tehler SPECIES
-=======
+# Roccellina limitata (Nyl.) Tehler SPECIES
 
 #### Status
 ACCEPTED

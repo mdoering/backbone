@@ -1,5 +1,4 @@
-Platygrapha undulata (Fée) Nyl. SPECIES
-=======
+# Platygrapha undulata (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

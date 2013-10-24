@@ -1,5 +1,4 @@
-Triposporium strepsiceras Ces. SPECIES
-=======
+# Triposporium strepsiceras Ces. SPECIES
 
 #### Status
 ACCEPTED

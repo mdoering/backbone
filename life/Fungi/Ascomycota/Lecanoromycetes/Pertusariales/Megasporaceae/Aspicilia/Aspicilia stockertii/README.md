@@ -1,5 +1,4 @@
-Aspicilia stockertii Hue SPECIES
-=======
+# Aspicilia stockertii Hue SPECIES
 
 #### Status
 ACCEPTED

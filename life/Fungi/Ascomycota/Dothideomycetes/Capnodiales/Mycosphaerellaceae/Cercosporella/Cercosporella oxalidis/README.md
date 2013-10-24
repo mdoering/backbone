@@ -1,5 +1,4 @@
-Cercosporella oxalidis Grove SPECIES
-=======
+# Cercosporella oxalidis Grove SPECIES
 
 #### Status
 ACCEPTED

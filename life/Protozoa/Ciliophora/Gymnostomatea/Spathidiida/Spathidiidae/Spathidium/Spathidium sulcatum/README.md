@@ -1,5 +1,4 @@
-Spathidium sulcatum Kahl, 1928 SPECIES
-=======
+# Spathidium sulcatum Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

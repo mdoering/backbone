@@ -1,5 +1,4 @@
-Chaetomium cristatum L.M. Ames SPECIES
-=======
+# Chaetomium cristatum L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

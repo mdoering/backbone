@@ -1,5 +1,4 @@
-Froelichsporites Litwin, Smoot & Weems, 1993 GENUS
-=======
+# Froelichsporites Litwin, Smoot & Weems, 1993 GENUS
 
 #### Status
 ACCEPTED

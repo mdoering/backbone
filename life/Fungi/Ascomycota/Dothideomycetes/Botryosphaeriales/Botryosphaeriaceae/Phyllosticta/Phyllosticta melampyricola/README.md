@@ -1,5 +1,4 @@
-Phyllosticta melampyricola Miura SPECIES
-=======
+# Phyllosticta melampyricola Miura SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma puiggarii (Speg.) Raithelh. SPECIES
-=======
+# Hypholoma puiggarii (Speg.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

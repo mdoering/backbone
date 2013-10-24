@@ -1,5 +1,4 @@
-Siphonodosaria recta SPECIES
-=======
+# Siphonodosaria recta SPECIES
 
 #### Status
 ACCEPTED

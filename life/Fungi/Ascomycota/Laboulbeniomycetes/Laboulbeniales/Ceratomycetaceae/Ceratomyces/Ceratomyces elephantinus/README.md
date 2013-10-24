@@ -1,5 +1,4 @@
-Ceratomyces elephantinus Thaxt. SPECIES
-=======
+# Ceratomyces elephantinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

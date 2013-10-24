@@ -1,5 +1,4 @@
-Pseudolachnum lateritium Velen., 1934 SPECIES
-=======
+# Pseudolachnum lateritium Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

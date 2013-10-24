@@ -1,5 +1,4 @@
-Pallidogramme Staiger, Kalb & Lücking GENUS
-=======
+# Pallidogramme Staiger, Kalb & Lücking GENUS
 
 #### Status
 ACCEPTED

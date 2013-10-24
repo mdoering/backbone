@@ -1,5 +1,4 @@
-Byssochlamys lagunculariae (C. Ram) Samson, Houbraken & Frisvad SPECIES
-=======
+# Byssochlamys lagunculariae (C. Ram) Samson, Houbraken & Frisvad SPECIES
 
 #### Status
 ACCEPTED

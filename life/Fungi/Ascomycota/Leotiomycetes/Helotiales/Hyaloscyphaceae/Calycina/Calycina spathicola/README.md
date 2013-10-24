@@ -1,5 +1,4 @@
-Calycina spathicola (Henn.) Kuntze SPECIES
-=======
+# Calycina spathicola (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

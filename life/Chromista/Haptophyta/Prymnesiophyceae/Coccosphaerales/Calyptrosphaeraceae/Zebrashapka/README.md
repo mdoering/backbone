@@ -1,5 +1,4 @@
-Zebrashapka Covington & Wise, 1987 GENUS
-=======
+# Zebrashapka Covington & Wise, 1987 GENUS
 
 #### Status
 ACCEPTED

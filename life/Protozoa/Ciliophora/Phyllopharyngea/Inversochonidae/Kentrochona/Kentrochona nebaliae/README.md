@@ -1,5 +1,4 @@
-Kentrochona nebaliae Rompel, 1894 SPECIES
-=======
+# Kentrochona nebaliae Rompel, 1894 SPECIES
 
 #### Status
 ACCEPTED

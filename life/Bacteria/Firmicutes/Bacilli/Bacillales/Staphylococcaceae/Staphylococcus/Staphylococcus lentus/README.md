@@ -1,8 +1,7 @@
-Staphylococcus sciuri subsp. lentus SUBSPECIES
-=======
+# Staphylococcus lentus (Kloos et al., 1976) Schleifer et al., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

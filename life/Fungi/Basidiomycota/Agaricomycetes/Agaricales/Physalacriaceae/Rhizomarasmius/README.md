@@ -1,5 +1,4 @@
-Rhizomarasmius R.H. Petersen GENUS
-=======
+# Rhizomarasmius R.H. Petersen GENUS
 
 #### Status
 ACCEPTED

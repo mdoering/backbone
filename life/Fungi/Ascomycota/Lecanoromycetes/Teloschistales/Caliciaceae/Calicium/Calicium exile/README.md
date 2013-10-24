@@ -1,5 +1,4 @@
-Calicium exile Anzi SPECIES
-=======
+# Calicium exile Anzi SPECIES
 
 #### Status
 ACCEPTED

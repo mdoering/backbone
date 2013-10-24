@@ -1,5 +1,4 @@
-Puccinia solani-giganteae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Puccinia solani-giganteae T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

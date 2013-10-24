@@ -1,5 +1,4 @@
-Venturia cincinata (Schwein.) Fr. SPECIES
-=======
+# Venturia cincinata (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

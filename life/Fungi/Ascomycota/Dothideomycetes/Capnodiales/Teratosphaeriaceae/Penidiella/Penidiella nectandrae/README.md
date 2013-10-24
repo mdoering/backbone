@@ -1,5 +1,4 @@
-Penidiella nectandrae Crous, U. Braun & R.F. Castañeda, 2007 SPECIES
-=======
+# Penidiella nectandrae Crous, U. Braun & R.F. Castañeda, 2007 SPECIES
 
 #### Status
 ACCEPTED

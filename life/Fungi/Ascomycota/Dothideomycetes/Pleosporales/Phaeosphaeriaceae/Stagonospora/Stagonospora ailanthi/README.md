@@ -1,5 +1,4 @@
-Stagonospora ailanthi Siemaszko SPECIES
-=======
+# Stagonospora ailanthi Siemaszko SPECIES
 
 #### Status
 ACCEPTED

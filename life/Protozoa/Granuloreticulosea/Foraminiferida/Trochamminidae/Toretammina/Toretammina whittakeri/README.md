@@ -1,5 +1,4 @@
-Toretammina whittakeri Brönnimann, 1986 SPECIES
-=======
+# Toretammina whittakeri Brönnimann, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidella huallagensis Henn. SPECIES
-=======
+# Dothidella huallagensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodomonas lens Pascher & Ruttner SPECIES
-=======
+# Rhodomonas lens Pascher & Ruttner SPECIES
 
 #### Status
 ACCEPTED

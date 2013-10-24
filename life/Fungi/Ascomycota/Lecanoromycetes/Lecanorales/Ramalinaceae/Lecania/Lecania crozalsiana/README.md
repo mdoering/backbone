@@ -1,5 +1,4 @@
-Lecania crozalsiana H. Olivier SPECIES
-=======
+# Lecania crozalsiana H. Olivier SPECIES
 
 #### Status
 ACCEPTED

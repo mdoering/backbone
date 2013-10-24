@@ -1,5 +1,4 @@
-Melanomphalia leucocephala Singer SPECIES
-=======
+# Melanomphalia leucocephala Singer SPECIES
 
 #### Status
 ACCEPTED

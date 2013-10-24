@@ -1,5 +1,4 @@
-Patellaria lapicida SPECIES
-=======
+# Patellaria lapicida SPECIES
 
 #### Status
 ACCEPTED

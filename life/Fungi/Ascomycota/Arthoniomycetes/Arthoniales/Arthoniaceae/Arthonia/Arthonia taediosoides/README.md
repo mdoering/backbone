@@ -1,5 +1,4 @@
-Arthonia taediosoides Grube & Giralt SPECIES
-=======
+# Arthonia taediosoides Grube & Giralt SPECIES
 
 #### Status
 ACCEPTED

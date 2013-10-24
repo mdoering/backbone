@@ -1,5 +1,4 @@
-Peronospora omphalodis Gäum. SPECIES
-=======
+# Peronospora omphalodis Gäum. SPECIES
 
 #### Status
 ACCEPTED

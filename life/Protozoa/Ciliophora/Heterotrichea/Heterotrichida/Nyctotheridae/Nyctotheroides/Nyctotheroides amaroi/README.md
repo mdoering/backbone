@@ -1,5 +1,4 @@
-Nyctotheroides amaroi Earl, 1970 SPECIES
-=======
+# Nyctotheroides amaroi Earl, 1970 SPECIES
 
 #### Status
 ACCEPTED

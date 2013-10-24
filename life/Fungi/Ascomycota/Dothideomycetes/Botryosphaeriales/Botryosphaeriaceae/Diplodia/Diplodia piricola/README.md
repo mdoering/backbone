@@ -1,5 +1,4 @@
-Diplodia piricola Speg. SPECIES
-=======
+# Diplodia piricola Speg. SPECIES
 
 #### Status
 ACCEPTED

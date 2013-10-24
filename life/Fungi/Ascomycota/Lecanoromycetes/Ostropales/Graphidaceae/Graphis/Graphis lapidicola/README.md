@@ -1,5 +1,4 @@
-Graphis lapidicola Fée SPECIES
-=======
+# Graphis lapidicola Fée SPECIES
 
 #### Status
 ACCEPTED

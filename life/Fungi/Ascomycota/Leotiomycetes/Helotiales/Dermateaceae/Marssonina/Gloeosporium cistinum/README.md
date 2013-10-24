@@ -1,5 +1,4 @@
-Gloeosporium cistinum Alcalde SPECIES
-=======
+# Gloeosporium cistinum Alcalde SPECIES
 
 #### Status
 ACCEPTED

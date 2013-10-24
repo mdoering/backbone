@@ -1,5 +1,4 @@
-Cornutissa Haeckel, 1881 GENUS
-=======
+# Cornutissa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

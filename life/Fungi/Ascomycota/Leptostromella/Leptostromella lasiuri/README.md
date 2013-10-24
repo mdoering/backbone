@@ -1,5 +1,4 @@
-Leptostromella lasiuri S. Ahmad SPECIES
-=======
+# Leptostromella lasiuri S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

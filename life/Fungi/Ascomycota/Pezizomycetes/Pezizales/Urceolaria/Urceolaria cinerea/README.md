@@ -1,17 +1,16 @@
-Urceolaria cinerea f. cinerea FORM
-=======
+# Urceolaria cinerea SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Urceolaria cinerea f. cinerea
+null
 
 ### Remarks
 null

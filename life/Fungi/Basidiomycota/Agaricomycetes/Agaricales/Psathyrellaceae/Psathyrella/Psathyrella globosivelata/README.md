@@ -1,5 +1,4 @@
-Psathyrella globosivelata Gröger SPECIES
-=======
+# Psathyrella globosivelata Gröger SPECIES
 
 #### Status
 ACCEPTED

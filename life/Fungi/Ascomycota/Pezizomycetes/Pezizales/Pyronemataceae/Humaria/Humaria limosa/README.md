@@ -1,5 +1,4 @@
-Humaria limosa Velen. SPECIES
-=======
+# Humaria limosa Velen. SPECIES
 
 #### Status
 ACCEPTED

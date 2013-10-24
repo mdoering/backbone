@@ -1,5 +1,4 @@
-Boletus ichnusanus (Alessio, Galli & Littini) Oolbekk. SPECIES
-=======
+# Boletus ichnusanus (Alessio, Galli & Littini) Oolbekk. SPECIES
 
 #### Status
 ACCEPTED

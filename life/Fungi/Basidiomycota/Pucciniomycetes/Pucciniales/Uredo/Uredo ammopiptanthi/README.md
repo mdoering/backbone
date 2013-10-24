@@ -1,5 +1,4 @@
-Uredo ammopiptanthi Domashova & Gamalizk. SPECIES
-=======
+# Uredo ammopiptanthi Domashova & Gamalizk. SPECIES
 
 #### Status
 ACCEPTED

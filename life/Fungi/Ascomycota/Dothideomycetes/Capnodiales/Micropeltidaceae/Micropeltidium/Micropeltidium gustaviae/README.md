@@ -1,5 +1,4 @@
-Micropeltidium gustaviae Bat. & I.H. Lima SPECIES
-=======
+# Micropeltidium gustaviae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

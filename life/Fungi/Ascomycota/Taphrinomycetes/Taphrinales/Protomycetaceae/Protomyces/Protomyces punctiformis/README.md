@@ -1,5 +1,4 @@
-Protomyces punctiformis Niessl SPECIES
-=======
+# Protomyces punctiformis Niessl SPECIES
 
 #### Status
 ACCEPTED

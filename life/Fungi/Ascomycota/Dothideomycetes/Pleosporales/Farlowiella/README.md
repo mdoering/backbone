@@ -1,17 +1,16 @@
-Farlowia Saccardo, 1883 GENUS
-=======
+# Farlowiella Saccardo, 1891 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 727 (1883)
+Syll. fung. (Abellini) 9: 1100 (1891)
 
 #### Original name
-Farlowia Saccardo, 1883
+Farlowiella Saccardo, 1891
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arcyria biniensis Ejale & L.S.Gill, 1992 SPECIES
-=======
+# Arcyria biniensis Ejale & L.S.Gill, 1992 SPECIES
 
 #### Status
 ACCEPTED

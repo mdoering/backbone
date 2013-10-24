@@ -1,5 +1,4 @@
-Polyporus subfloriformis Z.S. Bi & G.Y. Zheng SPECIES
-=======
+# Polyporus subfloriformis Z.S. Bi & G.Y. Zheng SPECIES
 
 #### Status
 ACCEPTED

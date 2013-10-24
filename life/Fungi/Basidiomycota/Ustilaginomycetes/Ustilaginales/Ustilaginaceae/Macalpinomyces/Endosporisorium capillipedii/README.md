@@ -1,5 +1,4 @@
-Endosporisorium capillipedii (Mishra) Vánky SPECIES
-=======
+# Endosporisorium capillipedii (Mishra) Vánky SPECIES
 
 #### Status
 ACCEPTED

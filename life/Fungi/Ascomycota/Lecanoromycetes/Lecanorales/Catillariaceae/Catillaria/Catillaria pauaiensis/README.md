@@ -1,17 +1,16 @@
-Catillaria pauensis Vain. SPECIES
-=======
+# Catillaria pauaiensis Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Acad. Sci. fenn. 15(6): 108 (1921)
 
 #### Original name
-Catillaria pauensis Vain.
+Catillaria pauaiensis Vain.
 
 ### Remarks
 null

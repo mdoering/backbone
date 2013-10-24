@@ -1,5 +1,4 @@
-Vermicularia pubescens Tode SPECIES
-=======
+# Vermicularia pubescens Tode SPECIES
 
 #### Status
 ACCEPTED

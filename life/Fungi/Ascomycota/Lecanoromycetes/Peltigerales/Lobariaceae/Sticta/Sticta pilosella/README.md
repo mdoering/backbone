@@ -1,5 +1,4 @@
-Sticta pilosella (Malme) Darb. SPECIES
-=======
+# Sticta pilosella (Malme) Darb. SPECIES
 
 #### Status
 ACCEPTED

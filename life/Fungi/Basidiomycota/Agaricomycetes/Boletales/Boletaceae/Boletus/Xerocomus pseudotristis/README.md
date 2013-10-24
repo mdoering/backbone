@@ -1,5 +1,4 @@
-Xerocomus pseudotristis Heinem. & Gooss.-Font. SPECIES
-=======
+# Xerocomus pseudotristis Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

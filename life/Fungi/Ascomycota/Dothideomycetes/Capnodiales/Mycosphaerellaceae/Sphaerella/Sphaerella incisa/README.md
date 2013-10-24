@@ -1,5 +1,4 @@
-Sphaerella incisa Ellis & G. Martin SPECIES
-=======
+# Sphaerella incisa Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

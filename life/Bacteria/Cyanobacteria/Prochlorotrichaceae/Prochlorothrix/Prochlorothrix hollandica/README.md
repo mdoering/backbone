@@ -1,5 +1,4 @@
-Prochlorothrix hollandica T. Burger-Wiersma, L.J. Stal & L.R. Mur SPECIES
-=======
+# Prochlorothrix hollandica T. Burger-Wiersma, L.J. Stal & L.R. Mur SPECIES
 
 #### Status
 ACCEPTED

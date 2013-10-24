@@ -1,5 +1,4 @@
-Zeora glaucoma f. glaucoma FORM
-=======
+# Zeora glaucoma Flot. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Zeora glaucoma f. glaucoma
+Zeora glaucoma Flot.
 
 ### Remarks
 null

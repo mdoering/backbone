@@ -1,5 +1,4 @@
-Agaricus bulbillosus Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus bulbillosus Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

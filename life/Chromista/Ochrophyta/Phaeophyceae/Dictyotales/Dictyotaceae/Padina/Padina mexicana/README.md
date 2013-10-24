@@ -1,5 +1,4 @@
-Padina mexicana E.Y.Dawson, 1944 SPECIES
-=======
+# Padina mexicana E.Y.Dawson, 1944 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tyromyces albiformis Quanten SPECIES
-=======
+# Tyromyces albiformis Quanten SPECIES
 
 #### Status
 ACCEPTED

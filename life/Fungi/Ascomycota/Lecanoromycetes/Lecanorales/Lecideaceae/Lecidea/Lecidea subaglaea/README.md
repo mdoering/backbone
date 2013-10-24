@@ -1,5 +1,4 @@
-Lecidea subaglaea B. de Lesd. SPECIES
-=======
+# Lecidea subaglaea B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

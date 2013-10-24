@@ -1,5 +1,4 @@
-Phaeoisaria albicans (Peck) E.W. Mason & M.B. Ellis SPECIES
-=======
+# Phaeoisaria albicans (Peck) E.W. Mason & M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

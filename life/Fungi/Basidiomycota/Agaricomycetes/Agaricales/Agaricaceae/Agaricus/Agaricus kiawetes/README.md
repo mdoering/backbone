@@ -1,5 +1,4 @@
-Agaricus kiawetes K.R. Peterson, Desjardin & Hemmes SPECIES
-=======
+# Agaricus kiawetes K.R. Peterson, Desjardin & Hemmes SPECIES
 
 #### Status
 ACCEPTED

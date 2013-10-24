@@ -1,5 +1,4 @@
-Plenotrichum Syd. GENUS
-=======
+# Plenotrichum Syd. GENUS
 
 #### Status
 ACCEPTED

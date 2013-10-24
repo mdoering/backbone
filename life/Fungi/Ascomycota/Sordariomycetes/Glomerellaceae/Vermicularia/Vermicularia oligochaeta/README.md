@@ -1,5 +1,4 @@
-Vermicularia oligochaeta Sacc. SPECIES
-=======
+# Vermicularia oligochaeta Sacc. SPECIES
 
 #### Status
 ACCEPTED

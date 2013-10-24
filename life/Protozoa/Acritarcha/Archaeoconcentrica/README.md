@@ -1,5 +1,4 @@
-Archaeoconcentrica Naumova GENUS
-=======
+# Archaeoconcentrica Naumova GENUS
 
 #### Status
 ACCEPTED

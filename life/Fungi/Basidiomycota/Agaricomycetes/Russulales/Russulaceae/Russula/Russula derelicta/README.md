@@ -1,5 +1,4 @@
-Russula derelicta Reumaux SPECIES
-=======
+# Russula derelicta Reumaux SPECIES
 
 #### Status
 ACCEPTED

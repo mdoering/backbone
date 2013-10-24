@@ -1,5 +1,4 @@
-Lyngbyopsis N.L.Gardner, 1927 GENUS
-=======
+# Lyngbyopsis N.L.Gardner, 1927 GENUS
 
 #### Status
 ACCEPTED

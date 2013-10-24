@@ -1,5 +1,4 @@
-Arthonia ugandensis (Hansf.) R. Sant. SPECIES
-=======
+# Arthonia ugandensis (Hansf.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

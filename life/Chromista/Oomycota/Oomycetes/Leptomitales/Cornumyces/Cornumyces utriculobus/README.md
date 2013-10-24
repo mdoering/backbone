@@ -1,14 +1,13 @@
-Petersenia utriculoba C.E. Mill., 1963 SPECIES
-=======
+# Cornumyces utriculobus (C.E. Mill.) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 54(4): 422 (1963)
+Straminipilous Fungi (Dordrecht) 327 (2001)
 
 #### Original name
 Petersenia utriculoba C.E. Mill., 1963

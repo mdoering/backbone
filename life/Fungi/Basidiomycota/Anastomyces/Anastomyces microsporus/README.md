@@ -1,5 +1,4 @@
-Anastomyces microsporus W.P. Wu, B. Sutton & Gange, 1997 SPECIES
-=======
+# Anastomyces microsporus W.P. Wu, B. Sutton & Gange, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quisquilites ornatus Hemer & Nygreen, 1967 SPECIES
-=======
+# Quisquilites ornatus Hemer & Nygreen, 1967 SPECIES
 
 #### Status
 ACCEPTED

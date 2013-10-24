@@ -1,5 +1,4 @@
-Cercospora iteodaphnes (Thüm.) Sacc. SPECIES
-=======
+# Cercospora iteodaphnes (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

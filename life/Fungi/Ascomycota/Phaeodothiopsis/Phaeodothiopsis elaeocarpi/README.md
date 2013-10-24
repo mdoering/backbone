@@ -1,5 +1,4 @@
-Phaeodothiopsis elaeocarpi (Racib.) Racib. SPECIES
-=======
+# Phaeodothiopsis elaeocarpi (Racib.) Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia bonaerensis Massee SPECIES
-=======
+# Rosellinia bonaerensis Massee SPECIES
 
 #### Status
 ACCEPTED

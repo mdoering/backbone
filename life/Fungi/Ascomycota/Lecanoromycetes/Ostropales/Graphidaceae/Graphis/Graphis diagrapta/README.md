@@ -1,5 +1,4 @@
-Graphis diagrapta Vain. SPECIES
-=======
+# Graphis diagrapta Vain. SPECIES
 
 #### Status
 ACCEPTED

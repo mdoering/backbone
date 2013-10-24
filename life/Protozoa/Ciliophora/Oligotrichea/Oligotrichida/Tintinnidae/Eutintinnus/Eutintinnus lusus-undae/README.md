@@ -1,11 +1,10 @@
-Eutintinnus lusus-undae subsp. lusus-undae SUBSPECIES
-=======
+# Eutintinnus lusus-undae SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Integrated Taxonomic Information System
 
 #### Published in
 null

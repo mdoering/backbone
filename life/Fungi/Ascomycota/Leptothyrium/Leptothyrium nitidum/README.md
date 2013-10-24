@@ -1,5 +1,4 @@
-Leptothyrium nitidum (Roberge) Grove SPECIES
-=======
+# Leptothyrium nitidum (Roberge) Grove SPECIES
 
 #### Status
 ACCEPTED

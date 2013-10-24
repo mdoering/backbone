@@ -1,5 +1,4 @@
-Parmelia epanora Ach. SPECIES
-=======
+# Parmelia epanora Ach. SPECIES
 
 #### Status
 ACCEPTED

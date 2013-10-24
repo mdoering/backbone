@@ -1,5 +1,4 @@
-Agaricus ctenodes Berk. & Broome SPECIES
-=======
+# Agaricus ctenodes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

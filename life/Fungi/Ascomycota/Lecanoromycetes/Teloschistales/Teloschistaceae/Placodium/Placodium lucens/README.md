@@ -1,5 +1,4 @@
-Placodium lucens (Nyl.) Nyl. SPECIES
-=======
+# Placodium lucens (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

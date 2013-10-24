@@ -1,5 +1,4 @@
-Leiosphaeridia dehisca Paskeviciene in Volkova et al., 1979 SPECIES
-=======
+# Leiosphaeridia dehisca Paskeviciene in Volkova et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

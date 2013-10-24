@@ -1,5 +1,4 @@
-Pseudocercospora syzygiicola B. Sutton & Crous SPECIES
-=======
+# Pseudocercospora syzygiicola B. Sutton & Crous SPECIES
 
 #### Status
 ACCEPTED

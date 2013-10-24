@@ -1,5 +1,4 @@
-Nectria laetifulva Berk. & Cooke SPECIES
-=======
+# Nectria laetifulva Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

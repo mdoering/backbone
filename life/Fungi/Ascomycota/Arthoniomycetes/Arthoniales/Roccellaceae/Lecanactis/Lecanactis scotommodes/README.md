@@ -1,5 +1,4 @@
-Lecanactis scotommodes Vain. SPECIES
-=======
+# Lecanactis scotommodes Vain. SPECIES
 
 #### Status
 ACCEPTED

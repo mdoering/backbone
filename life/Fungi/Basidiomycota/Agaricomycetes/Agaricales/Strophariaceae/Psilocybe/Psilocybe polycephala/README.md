@@ -1,5 +1,4 @@
-Psilocybe polycephala H.K.G. Paul SPECIES
-=======
+# Psilocybe polycephala H.K.G. Paul SPECIES
 
 #### Status
 ACCEPTED

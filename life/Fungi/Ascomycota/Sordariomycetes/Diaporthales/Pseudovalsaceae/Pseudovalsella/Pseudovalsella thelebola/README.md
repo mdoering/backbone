@@ -1,14 +1,13 @@
-Diaporthe thelebola (Fr.) Sacc., 1882 SPECIES
-=======
+# Pseudovalsella thelebola (Fr.) Höhn., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 16: (1918)
 
 #### Original name
 Sphaeria thelebola Fr., 1823

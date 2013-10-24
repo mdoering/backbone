@@ -1,5 +1,4 @@
-Lecidea amaurospoda Vain. SPECIES
-=======
+# Lecidea amaurospoda Vain. SPECIES
 
 #### Status
 ACCEPTED

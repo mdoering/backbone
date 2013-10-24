@@ -1,5 +1,4 @@
-Cryptococcus metaniger Castell. SPECIES
-=======
+# Cryptococcus metaniger Castell. SPECIES
 
 #### Status
 ACCEPTED

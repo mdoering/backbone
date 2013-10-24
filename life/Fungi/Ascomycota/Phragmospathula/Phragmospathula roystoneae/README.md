@@ -1,5 +1,4 @@
-Phragmospathula roystoneae Mercado SPECIES
-=======
+# Phragmospathula roystoneae Mercado SPECIES
 
 #### Status
 ACCEPTED

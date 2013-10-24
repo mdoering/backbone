@@ -1,5 +1,4 @@
-Dasyscyphus alnifolius Raitv. SPECIES
-=======
+# Dasyscyphus alnifolius Raitv. SPECIES
 
 #### Status
 ACCEPTED

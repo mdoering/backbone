@@ -1,5 +1,4 @@
-Herbaspirillum putei Ding & Yokota, 2004 SPECIES
-=======
+# Herbaspirillum putei Ding & Yokota, 2004 SPECIES
 
 #### Status
 ACCEPTED

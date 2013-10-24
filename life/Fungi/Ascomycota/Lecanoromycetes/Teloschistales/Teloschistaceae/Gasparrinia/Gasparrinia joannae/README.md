@@ -1,5 +1,4 @@
-Gasparrinia joannae (Hue) C.W. Dodge & G.E. Baker SPECIES
-=======
+# Gasparrinia joannae (Hue) C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

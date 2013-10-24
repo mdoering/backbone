@@ -1,14 +1,13 @@
-Microsphaera pseudoacaciae (P.D. Marchenko) U. Braun SPECIES
-=======
+# Erysiphe pseudacaciae (P.D. Marchenko) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schlechtendalia 4: 12 (2000)
 
 #### Original name
 Trichocladia pseudacaciae P.D. Marchenko, 1979

@@ -1,5 +1,4 @@
-Sarcodon ianthinus Maas Geest., 1974 SPECIES
-=======
+# Sarcodon ianthinus Maas Geest., 1974 SPECIES
 
 #### Status
 ACCEPTED

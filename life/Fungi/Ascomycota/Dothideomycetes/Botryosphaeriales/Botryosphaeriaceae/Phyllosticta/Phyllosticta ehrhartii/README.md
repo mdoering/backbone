@@ -1,5 +1,4 @@
-Phyllosticta ehrhartii Sacc. SPECIES
-=======
+# Phyllosticta ehrhartii Sacc. SPECIES
 
 #### Status
 ACCEPTED

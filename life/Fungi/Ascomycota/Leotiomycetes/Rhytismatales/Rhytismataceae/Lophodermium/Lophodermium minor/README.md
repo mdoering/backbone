@@ -1,14 +1,13 @@
-Lophodermium minus (Tehon) P.R. Johnst. SPECIES
-=======
+# Lophodermium minor (Tehon) P.R. Johnst., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 41: 174 (1989)
 
 #### Original name
 Clithris minor Tehon, 1918

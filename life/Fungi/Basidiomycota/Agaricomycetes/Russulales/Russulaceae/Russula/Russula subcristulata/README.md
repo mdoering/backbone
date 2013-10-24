@@ -1,5 +1,4 @@
-Russula subcristulata Romagn. SPECIES
-=======
+# Russula subcristulata Romagn. SPECIES
 
 #### Status
 ACCEPTED

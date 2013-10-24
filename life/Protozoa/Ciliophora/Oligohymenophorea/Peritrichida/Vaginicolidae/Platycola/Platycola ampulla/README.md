@@ -1,5 +1,4 @@
-Platycola ampulla Fromentel, 1876 SPECIES
-=======
+# Platycola ampulla Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

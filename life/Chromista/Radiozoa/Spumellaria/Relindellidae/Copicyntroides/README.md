@@ -1,5 +1,4 @@
-Copicyntroides Nazarov & Ormiston, 1985 GENUS
-=======
+# Copicyntroides Nazarov & Ormiston, 1985 GENUS
 
 #### Status
 ACCEPTED

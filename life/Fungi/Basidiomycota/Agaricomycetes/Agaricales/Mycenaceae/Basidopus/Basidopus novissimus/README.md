@@ -1,5 +1,4 @@
-Basidopus novissimus (Speg.) E. Horak SPECIES
-=======
+# Basidopus novissimus (Speg.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

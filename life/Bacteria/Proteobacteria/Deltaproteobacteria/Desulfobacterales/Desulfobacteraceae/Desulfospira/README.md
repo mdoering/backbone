@@ -1,5 +1,4 @@
-Desulfospira Finster et al., 1997 GENUS
-=======
+# Desulfospira Finster et al., 1997 GENUS
 
 #### Status
 ACCEPTED

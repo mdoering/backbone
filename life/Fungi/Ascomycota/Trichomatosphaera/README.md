@@ -1,5 +1,4 @@
-Trichomatosphaera Pereira-Carv., G.F. Sepúlveda & Dianese GENUS
-=======
+# Trichomatosphaera Pereira-Carv., G.F. Sepúlveda & Dianese GENUS
 
 #### Status
 ACCEPTED

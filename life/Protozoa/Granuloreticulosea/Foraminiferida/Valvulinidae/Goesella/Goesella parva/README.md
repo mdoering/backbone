@@ -1,5 +1,4 @@
-Goesella parva Cushman & McCulloch, 1939 SPECIES
-=======
+# Goesella parva Cushman & McCulloch, 1939 SPECIES
 
 #### Status
 ACCEPTED

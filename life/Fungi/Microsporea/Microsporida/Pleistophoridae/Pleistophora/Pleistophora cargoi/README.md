@@ -1,5 +1,4 @@
-Pleistophora cargoi SPECIES
-=======
+# Pleistophora cargoi SPECIES
 
 #### Status
 ACCEPTED

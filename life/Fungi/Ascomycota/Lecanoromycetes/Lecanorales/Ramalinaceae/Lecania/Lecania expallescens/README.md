@@ -1,5 +1,4 @@
-Lecania expallescens SPECIES
-=======
+# Lecania expallescens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyoglomi CLASS
-=======
+# Dictyoglomi CLASS
 
 #### Status
 ACCEPTED

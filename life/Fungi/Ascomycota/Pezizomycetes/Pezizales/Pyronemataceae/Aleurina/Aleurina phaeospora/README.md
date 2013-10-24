@@ -1,5 +1,4 @@
-Aleurina phaeospora (Hazsl.) Sacc. & P. Syd. SPECIES
-=======
+# Aleurina phaeospora (Hazsl.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

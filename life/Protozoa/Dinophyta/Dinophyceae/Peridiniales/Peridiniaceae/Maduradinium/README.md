@@ -1,5 +1,4 @@
-Maduradinium I.C. Cookson & A. Eisenack, 1970 GENUS
-=======
+# Maduradinium I.C. Cookson & A. Eisenack, 1970 GENUS
 
 #### Status
 ACCEPTED

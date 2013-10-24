@@ -1,5 +1,4 @@
-Spathidiopsis luciae (Kahl, 1926) Corliss, 1979 SPECIES
-=======
+# Spathidiopsis luciae (Kahl, 1926) Corliss, 1979 SPECIES
 
 #### Status
 ACCEPTED

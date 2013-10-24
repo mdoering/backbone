@@ -1,5 +1,4 @@
-Oceanimonas baumannii Brown, Sutcliffe & Cummings, 2001 SPECIES
-=======
+# Oceanimonas baumannii Brown, Sutcliffe & Cummings, 2001 SPECIES
 
 #### Status
 ACCEPTED

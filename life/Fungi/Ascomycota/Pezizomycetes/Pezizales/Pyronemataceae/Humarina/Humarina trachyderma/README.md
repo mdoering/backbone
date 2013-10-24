@@ -1,5 +1,4 @@
-Humarina trachyderma (Ellis & Everh.) Seaver SPECIES
-=======
+# Humarina trachyderma (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

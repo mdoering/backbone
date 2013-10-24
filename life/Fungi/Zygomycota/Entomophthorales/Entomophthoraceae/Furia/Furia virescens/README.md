@@ -1,14 +1,13 @@
-Entomophthora virescens (Thaxt.) Sacc. & Traverso, 1910 SPECIES
-=======
+# Furia virescens (Thaxt.) Humber, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 34(2): 450 (1989)
 
 #### Original name
 Empusa virescens Thaxt., 1888

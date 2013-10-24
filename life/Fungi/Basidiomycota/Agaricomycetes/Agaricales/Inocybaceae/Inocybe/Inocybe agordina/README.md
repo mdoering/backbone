@@ -1,5 +1,4 @@
-Inocybe agordina Bizio SPECIES
-=======
+# Inocybe agordina Bizio SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leveillula G. Arnaud, 1921 GENUS
-=======
+# Leveillula G. Arnaud, 1921 GENUS
 
 #### Status
 ACCEPTED

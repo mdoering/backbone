@@ -1,5 +1,4 @@
-Aphanoascus foetidus (Apinis & B.M. Clark) Cano & Guarro, 2002 SPECIES
-=======
+# Aphanoascus foetidus (Apinis & B.M. Clark) Cano & Guarro, 2002 SPECIES
 
 #### Status
 ACCEPTED

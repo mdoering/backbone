@@ -1,5 +1,4 @@
-Lirella Ehrenberg, 1872 GENUS
-=======
+# Lirella Ehrenberg, 1872 GENUS
 
 #### Status
 ACCEPTED

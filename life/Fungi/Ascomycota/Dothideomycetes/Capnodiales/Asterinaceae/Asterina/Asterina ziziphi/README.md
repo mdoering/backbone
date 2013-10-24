@@ -1,8 +1,7 @@
-Asterina zizyphiae H.S. Yates SPECIES
-=======
+# Asterina ziziphi H.S. Yates SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asterina zizyphiae H.S. Yates
+Asterina ziziphi H.S. Yates
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cistella pediformis Raitv. SPECIES
-=======
+# Cistella pediformis Raitv. SPECIES
 
 #### Status
 ACCEPTED

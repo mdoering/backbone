@@ -1,5 +1,4 @@
-Phaeodimeriella occulta (Racib.) Speg. SPECIES
-=======
+# Phaeodimeriella occulta (Racib.) Speg. SPECIES
 
 #### Status
 ACCEPTED

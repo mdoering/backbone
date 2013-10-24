@@ -1,5 +1,4 @@
-Spongotripodium Haeckel, 1887 GENUS
-=======
+# Spongotripodium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

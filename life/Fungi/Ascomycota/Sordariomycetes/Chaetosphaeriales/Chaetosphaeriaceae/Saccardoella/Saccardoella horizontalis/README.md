@@ -1,17 +1,16 @@
-Saccardoëlla horizontalis Fallah & Shearer SPECIES
-=======
+# Saccardoella horizontalis Fallah & Shearer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 93(3): 580 (2001)
 
 #### Original name
-Saccardoëlla horizontalis Fallah & Shearer
+Saccardoella horizontalis Fallah & Shearer
 
 ### Remarks
 null

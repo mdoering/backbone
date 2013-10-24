@@ -1,5 +1,4 @@
-Polyporus venosus Pers. SPECIES
-=======
+# Polyporus venosus Pers. SPECIES
 
 #### Status
 ACCEPTED

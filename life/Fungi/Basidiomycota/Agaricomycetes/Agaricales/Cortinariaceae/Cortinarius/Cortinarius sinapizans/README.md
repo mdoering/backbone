@@ -1,5 +1,4 @@
-Cortinarius sinapizans M.M. Moser SPECIES
-=======
+# Cortinarius sinapizans M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

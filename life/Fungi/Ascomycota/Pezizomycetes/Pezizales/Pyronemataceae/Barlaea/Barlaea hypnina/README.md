@@ -1,5 +1,4 @@
-Barlaea hypnina (Quél.) Sacc. SPECIES
-=======
+# Barlaea hypnina (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

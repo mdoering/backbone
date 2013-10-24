@@ -1,5 +1,4 @@
-Bactrodesmium pithoideum (Dearn. & House) B. Sutton SPECIES
-=======
+# Bactrodesmium pithoideum (Dearn. & House) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

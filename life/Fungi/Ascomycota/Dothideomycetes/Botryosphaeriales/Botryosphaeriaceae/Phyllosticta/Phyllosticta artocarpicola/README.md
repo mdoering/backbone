@@ -1,5 +1,4 @@
-Phyllosticta artocarpicola Bat. SPECIES
-=======
+# Phyllosticta artocarpicola Bat. SPECIES
 
 #### Status
 ACCEPTED

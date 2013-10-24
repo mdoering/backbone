@@ -1,5 +1,4 @@
-Bacillus macyae Santini et al., 2004 SPECIES
-=======
+# Bacillus macyae Santini et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

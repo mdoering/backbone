@@ -1,5 +1,4 @@
-Leptostroma alceae Kirchn. SPECIES
-=======
+# Leptostroma alceae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

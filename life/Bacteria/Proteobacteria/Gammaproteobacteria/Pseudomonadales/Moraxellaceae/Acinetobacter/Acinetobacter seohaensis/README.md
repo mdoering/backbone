@@ -1,5 +1,4 @@
-Acinetobacter seohaensis Yoon, Kim & Oh, 2007 SPECIES
-=======
+# Acinetobacter seohaensis Yoon, Kim & Oh, 2007 SPECIES
 
 #### Status
 ACCEPTED

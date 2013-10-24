@@ -1,14 +1,13 @@
-Verrucaria bryospila Nyl. SPECIES
-=======
+# Frigidopyrenia bryospila (Nyl.) Grube SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 47: 357 (1864)
+Phyton, Horn 45: 307 (2005)
 
 #### Original name
 Verrucaria bryospila Nyl.

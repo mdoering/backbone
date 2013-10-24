@@ -1,5 +1,4 @@
-Ramaria aurantiaca Corner SPECIES
-=======
+# Ramaria aurantiaca Corner SPECIES
 
 #### Status
 ACCEPTED

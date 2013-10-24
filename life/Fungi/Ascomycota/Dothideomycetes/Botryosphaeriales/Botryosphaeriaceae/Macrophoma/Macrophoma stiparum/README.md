@@ -1,5 +1,4 @@
-Macrophoma stiparum (Speg.) Sacc. & D. Sacc. SPECIES
-=======
+# Macrophoma stiparum (Speg.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

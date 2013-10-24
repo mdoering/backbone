@@ -1,5 +1,4 @@
-Polyporus bivalvis Pers. SPECIES
-=======
+# Polyporus bivalvis Pers. SPECIES
 
 #### Status
 ACCEPTED

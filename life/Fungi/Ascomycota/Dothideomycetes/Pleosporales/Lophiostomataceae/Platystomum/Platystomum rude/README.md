@@ -1,5 +1,4 @@
-Platystomum rude (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum rude (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

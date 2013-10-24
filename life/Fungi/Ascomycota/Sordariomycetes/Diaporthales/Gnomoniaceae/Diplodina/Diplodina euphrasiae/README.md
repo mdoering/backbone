@@ -1,5 +1,4 @@
-Diplodina euphrasiae (Oudem.) Allesch. SPECIES
-=======
+# Diplodina euphrasiae (Oudem.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

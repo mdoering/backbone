@@ -1,5 +1,4 @@
-Puccinia fuegiana J.C. Lindq. SPECIES
-=======
+# Puccinia fuegiana J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

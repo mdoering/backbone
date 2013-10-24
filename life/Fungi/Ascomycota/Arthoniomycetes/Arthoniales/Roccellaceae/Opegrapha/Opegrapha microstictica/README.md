@@ -1,5 +1,4 @@
-Opegrapha microstictica Nyl. SPECIES
-=======
+# Opegrapha microstictica Nyl. SPECIES
 
 #### Status
 ACCEPTED

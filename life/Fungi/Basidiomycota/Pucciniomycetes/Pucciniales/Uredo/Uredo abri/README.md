@@ -1,5 +1,4 @@
-Uredo abri Henn. SPECIES
-=======
+# Uredo abri Henn. SPECIES
 
 #### Status
 ACCEPTED

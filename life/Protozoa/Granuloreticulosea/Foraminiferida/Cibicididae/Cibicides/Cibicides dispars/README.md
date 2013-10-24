@@ -1,8 +1,7 @@
-Cibicides marlboroughensis Vella, 1957 SPECIES
-=======
+# Cibicides dispars (d’Orbigny, 1839) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

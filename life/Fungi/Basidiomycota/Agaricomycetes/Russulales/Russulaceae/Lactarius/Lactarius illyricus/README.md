@@ -1,5 +1,4 @@
-Lactarius illyricus Piltaver SPECIES
-=======
+# Lactarius illyricus Piltaver SPECIES
 
 #### Status
 ACCEPTED

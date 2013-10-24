@@ -1,5 +1,4 @@
-Sporotrichum laetum Link, 1818 SPECIES
-=======
+# Sporotrichum laetum Link, 1818 SPECIES
 
 #### Status
 ACCEPTED

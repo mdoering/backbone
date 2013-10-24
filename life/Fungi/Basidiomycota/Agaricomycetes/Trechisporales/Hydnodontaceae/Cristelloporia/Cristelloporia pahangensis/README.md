@@ -1,5 +1,4 @@
-Cristelloporia pahangensis (Corner) T. Hatt. SPECIES
-=======
+# Cristelloporia pahangensis (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

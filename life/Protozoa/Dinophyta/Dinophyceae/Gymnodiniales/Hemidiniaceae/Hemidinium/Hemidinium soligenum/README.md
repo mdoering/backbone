@@ -1,5 +1,4 @@
-Hemidinium soligenum Skuja SPECIES
-=======
+# Hemidinium soligenum Skuja SPECIES
 
 #### Status
 ACCEPTED

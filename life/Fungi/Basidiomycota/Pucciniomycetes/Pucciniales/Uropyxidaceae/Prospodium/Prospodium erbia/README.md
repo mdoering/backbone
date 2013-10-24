@@ -1,5 +1,4 @@
-Prospodium erbia SPECIES
-=======
+# Prospodium erbia SPECIES
 
 #### Status
 ACCEPTED

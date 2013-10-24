@@ -1,5 +1,4 @@
-Micropeltella camarinensis Syd. & P. Syd. SPECIES
-=======
+# Micropeltella camarinensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

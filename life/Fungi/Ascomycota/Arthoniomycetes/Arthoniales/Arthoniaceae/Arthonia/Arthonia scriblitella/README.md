@@ -1,5 +1,4 @@
-Arthonia scriblitella Nyl. SPECIES
-=======
+# Arthonia scriblitella Nyl. SPECIES
 
 #### Status
 ACCEPTED

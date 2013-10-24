@@ -1,14 +1,13 @@
-Ascobolus infestans Bat. & Pontual, 1948 SPECIES
-=======
+# Saccobolus infestans (Bat. & Pontual) Brumm., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bol. Agric. Pernambuco 15: 31 (1948)
+Persoonia, Suppl. 1: 204 (1967)
 
 #### Original name
 Ascobolus infestans Bat. & Pontual, 1948

@@ -1,5 +1,4 @@
-Fusisporium ebulliens Fr. SPECIES
-=======
+# Fusisporium ebulliens Fr. SPECIES
 
 #### Status
 ACCEPTED

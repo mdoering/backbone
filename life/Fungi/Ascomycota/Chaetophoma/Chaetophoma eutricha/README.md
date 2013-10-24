@@ -1,5 +1,4 @@
-Chaetophoma eutricha Sacc. & Berl. SPECIES
-=======
+# Chaetophoma eutricha Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

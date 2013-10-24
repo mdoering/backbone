@@ -1,5 +1,4 @@
-Hydnellum cruentum K.A. Harrison, 1961 SPECIES
-=======
+# Hydnellum cruentum K.A. Harrison, 1961 SPECIES
 
 #### Status
 DOUBTFUL

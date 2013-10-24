@@ -1,5 +1,4 @@
-Septoria taraxicola Miura SPECIES
-=======
+# Septoria taraxicola Miura SPECIES
 
 #### Status
 ACCEPTED

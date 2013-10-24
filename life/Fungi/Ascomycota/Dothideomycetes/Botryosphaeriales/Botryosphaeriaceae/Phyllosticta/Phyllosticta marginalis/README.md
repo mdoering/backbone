@@ -1,5 +1,4 @@
-Phyllosticta marginalis Ellis & Everh. SPECIES
-=======
+# Phyllosticta marginalis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

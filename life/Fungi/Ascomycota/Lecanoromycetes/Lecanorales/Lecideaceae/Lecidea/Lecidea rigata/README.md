@@ -1,5 +1,4 @@
-Lecidea rigata Samp. SPECIES
-=======
+# Lecidea rigata Samp. SPECIES
 
 #### Status
 ACCEPTED

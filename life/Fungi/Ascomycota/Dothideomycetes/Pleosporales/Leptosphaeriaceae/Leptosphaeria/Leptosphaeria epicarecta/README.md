@@ -1,5 +1,4 @@
-Leptosphaeria epicarecta (Cooke) Sacc., 1883 SPECIES
-=======
+# Leptosphaeria epicarecta (Cooke) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

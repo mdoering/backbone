@@ -1,5 +1,4 @@
-Cyclotella cretica J. John & A. Economou-Amilli SPECIES
-=======
+# Cyclotella cretica J. John & A. Economou-Amilli SPECIES
 
 #### Status
 ACCEPTED

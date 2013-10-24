@@ -1,5 +1,4 @@
-Rhodactina Pegler & T.W.K. Young GENUS
-=======
+# Rhodactina Pegler & T.W.K. Young GENUS
 
 #### Status
 ACCEPTED

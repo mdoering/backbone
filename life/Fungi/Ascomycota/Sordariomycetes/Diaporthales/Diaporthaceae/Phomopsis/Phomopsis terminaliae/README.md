@@ -1,5 +1,4 @@
-Phomopsis terminaliae (Henn.) B. Sutton SPECIES
-=======
+# Phomopsis terminaliae (Henn.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

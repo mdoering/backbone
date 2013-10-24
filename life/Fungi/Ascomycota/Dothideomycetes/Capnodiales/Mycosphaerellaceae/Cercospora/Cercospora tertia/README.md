@@ -1,5 +1,4 @@
-Cercospora tertia Chupp & H.C. Greene SPECIES
-=======
+# Cercospora tertia Chupp & H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina sauvagei Werner SPECIES
-=======
+# Rinodina sauvagei Werner SPECIES
 
 #### Status
 ACCEPTED

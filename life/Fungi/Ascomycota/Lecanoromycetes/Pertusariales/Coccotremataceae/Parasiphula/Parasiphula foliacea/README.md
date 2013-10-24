@@ -1,14 +1,13 @@
-Siphula foliacea D.J. Galloway SPECIES
-=======
+# Parasiphula foliacea (D.J. Galloway) Kantvilas & Grube SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-N. Z. Jl Bot. 21(2): 197 (1983)
+in Grube & Kantvilas, Lichenologist 38(3): 246 (2006)
 
 #### Original name
 Siphula foliacea D.J. Galloway

@@ -1,5 +1,4 @@
-Diaporthe floresiana Speg. SPECIES
-=======
+# Diaporthe floresiana Speg. SPECIES
 
 #### Status
 ACCEPTED

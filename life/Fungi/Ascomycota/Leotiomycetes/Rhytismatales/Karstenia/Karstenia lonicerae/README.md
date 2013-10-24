@@ -1,5 +1,4 @@
-Karstenia lonicerae (Velen.) Sherwood, 1977 SPECIES
-=======
+# Karstenia lonicerae (Velen.) Sherwood, 1977 SPECIES
 
 #### Status
 ACCEPTED

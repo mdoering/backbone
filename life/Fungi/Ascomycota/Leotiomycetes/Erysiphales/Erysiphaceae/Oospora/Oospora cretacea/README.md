@@ -1,5 +1,4 @@
-Oospora cretacea W. Krüger SPECIES
-=======
+# Oospora cretacea W. Krüger SPECIES
 
 #### Status
 ACCEPTED

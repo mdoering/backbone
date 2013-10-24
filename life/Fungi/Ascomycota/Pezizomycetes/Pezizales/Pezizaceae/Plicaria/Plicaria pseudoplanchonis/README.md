@@ -1,5 +1,4 @@
-Plicaria pseudoplanchonis L.R. Batra SPECIES
-=======
+# Plicaria pseudoplanchonis L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

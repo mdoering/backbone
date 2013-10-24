@@ -1,5 +1,4 @@
-Hebeloma aeruginosum Murrill SPECIES
-=======
+# Hebeloma aeruginosum Murrill SPECIES
 
 #### Status
 ACCEPTED

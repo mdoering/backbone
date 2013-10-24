@@ -1,14 +1,13 @@
-Propolis dendrobii P.R. Johnst., 1986 SPECIES
-=======
+# Marthamyces dendrobii (P.R. Johnst.) Minter, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 24(1): 115 (1986)
+Mycotaxon 87: 51 (2003)
 
 #### Original name
 Propolis dendrobii P.R. Johnst., 1986

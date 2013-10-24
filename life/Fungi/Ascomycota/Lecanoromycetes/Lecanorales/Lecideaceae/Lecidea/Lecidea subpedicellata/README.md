@@ -1,5 +1,4 @@
-Lecidea subpedicellata Hue SPECIES
-=======
+# Lecidea subpedicellata Hue SPECIES
 
 #### Status
 ACCEPTED

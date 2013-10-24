@@ -1,5 +1,4 @@
-Gloeosporium maculosum Sacc. SPECIES
-=======
+# Gloeosporium maculosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

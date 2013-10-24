@@ -1,5 +1,4 @@
-Columnophora Bubák & Vleugel GENUS
-=======
+# Columnophora Bubák & Vleugel GENUS
 
 #### Status
 ACCEPTED

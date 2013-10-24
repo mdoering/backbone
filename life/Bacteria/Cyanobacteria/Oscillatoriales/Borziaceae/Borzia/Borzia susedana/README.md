@@ -1,5 +1,4 @@
-Borzia susedana Ercegovic SPECIES
-=======
+# Borzia susedana Ercegovic SPECIES
 
 #### Status
 ACCEPTED

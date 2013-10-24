@@ -1,5 +1,4 @@
-Septoria bupleuricola Sacc. SPECIES
-=======
+# Septoria bupleuricola Sacc. SPECIES
 
 #### Status
 ACCEPTED

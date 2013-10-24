@@ -1,5 +1,4 @@
-Phyllosticta arisaricola Sacc. & P. Syd. SPECIES
-=======
+# Phyllosticta arisaricola Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora fukuokaensis Chupp SPECIES
-=======
+# Cercospora fukuokaensis Chupp SPECIES
 
 #### Status
 ACCEPTED

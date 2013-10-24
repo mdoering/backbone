@@ -1,5 +1,4 @@
-Porina limitata C. Knight SPECIES
-=======
+# Porina limitata C. Knight SPECIES
 
 #### Status
 ACCEPTED

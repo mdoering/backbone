@@ -1,14 +1,13 @@
-Biatora demissa (Rutstr.) Fr. SPECIES
-=======
+# Lecidoma demissum (Rutstr.) Gotth. Schneid. & Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hertel, Herzogia 5(3-4): 460 (1981)
 
 #### Original name
 Lichen demissus Rutstr.

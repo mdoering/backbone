@@ -1,17 +1,16 @@
-Phialina lachnobrachya var. lachnobrachya VARIETY
-=======
+# Phialina lachnobrachya (Desm.) Raitv., 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Akad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 27 (1970)
 
 #### Original name
-Phialina lachnobrachya var. lachnobrachya
+null
 
 ### Remarks
 null

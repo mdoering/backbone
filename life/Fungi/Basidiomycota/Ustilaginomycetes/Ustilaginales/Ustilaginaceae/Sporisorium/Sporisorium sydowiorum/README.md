@@ -1,5 +1,4 @@
-Sporisorium sydowiorum Vánky, 2009 SPECIES
-=======
+# Sporisorium sydowiorum Vánky, 2009 SPECIES
 
 #### Status
 ACCEPTED

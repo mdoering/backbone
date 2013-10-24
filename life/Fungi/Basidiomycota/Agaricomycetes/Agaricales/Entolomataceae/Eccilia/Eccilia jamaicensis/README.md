@@ -1,5 +1,4 @@
-Eccilia jamaicensis Murrill SPECIES
-=======
+# Eccilia jamaicensis Murrill SPECIES
 
 #### Status
 ACCEPTED

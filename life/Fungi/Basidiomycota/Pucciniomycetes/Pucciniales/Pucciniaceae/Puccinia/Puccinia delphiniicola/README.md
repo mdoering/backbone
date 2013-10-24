@@ -1,5 +1,4 @@
-Puccinia delphiniicola Jørst. SPECIES
-=======
+# Puccinia delphiniicola Jørst. SPECIES
 
 #### Status
 ACCEPTED

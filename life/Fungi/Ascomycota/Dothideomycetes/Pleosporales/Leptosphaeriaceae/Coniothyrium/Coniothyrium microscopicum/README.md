@@ -1,5 +1,4 @@
-Coniothyrium microscopicum var. microscopicum VARIETY
-=======
+# Coniothyrium microscopicum Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 1(no. 1): 49 (1877)
 
 #### Original name
-Coniothyrium microscopicum var. microscopicum
+Coniothyrium microscopicum Sacc.
 
 ### Remarks
 null

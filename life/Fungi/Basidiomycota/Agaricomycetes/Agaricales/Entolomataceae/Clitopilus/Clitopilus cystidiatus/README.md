@@ -1,5 +1,4 @@
-Clitopilus cystidiatus Hauskn. & Noordel. SPECIES
-=======
+# Clitopilus cystidiatus Hauskn. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

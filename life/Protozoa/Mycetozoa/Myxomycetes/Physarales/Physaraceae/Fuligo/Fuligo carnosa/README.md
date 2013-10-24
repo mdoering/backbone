@@ -1,5 +1,4 @@
-Fuligo carnosa Duby SPECIES
-=======
+# Fuligo carnosa Duby SPECIES
 
 #### Status
 ACCEPTED

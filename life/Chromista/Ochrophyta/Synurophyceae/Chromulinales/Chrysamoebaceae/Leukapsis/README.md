@@ -1,5 +1,4 @@
-Leukapsis Pascher, 1940 GENUS
-=======
+# Leukapsis Pascher, 1940 GENUS
 
 #### Status
 ACCEPTED

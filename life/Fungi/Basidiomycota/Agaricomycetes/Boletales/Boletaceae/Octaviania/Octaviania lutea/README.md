@@ -1,5 +1,4 @@
-Octaviania lutea R. Hesse SPECIES
-=======
+# Octaviania lutea R. Hesse SPECIES
 
 #### Status
 ACCEPTED

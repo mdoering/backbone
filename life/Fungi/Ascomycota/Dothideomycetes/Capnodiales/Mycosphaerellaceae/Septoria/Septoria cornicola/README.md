@@ -1,17 +1,16 @@
-Septoria cornicola var. ampla H.C. Greene VARIETY
-=======
+# Septoria cornicola Desm., 1867 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. Midl. Nat. 41: 755 (1949)
+in Kickx, Fl. Crypt. Flandres 1: 430 (1867)
 
 #### Original name
-Septoria cornicola var. ampla H.C. Greene
+Septoria cornicola Desm., 1867
 
 ### Remarks
 null

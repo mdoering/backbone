@@ -1,5 +1,4 @@
-Panaeolus diffractus (Rick) Raithelh. SPECIES
-=======
+# Panaeolus diffractus (Rick) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

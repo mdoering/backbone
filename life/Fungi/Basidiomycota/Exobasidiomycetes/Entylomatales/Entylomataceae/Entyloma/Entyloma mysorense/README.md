@@ -1,5 +1,4 @@
-Entyloma mysorense Thirum. SPECIES
-=======
+# Entyloma mysorense Thirum. SPECIES
 
 #### Status
 ACCEPTED

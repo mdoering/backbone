@@ -1,14 +1,13 @@
-Sporobolomyces xanthus (Nakase, G. Okada & Sugiy.) Boekhout, 1991 SPECIES
-=======
+# Ballistosporomyces xanthus Nakase, G. Okada & Sugiy., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 33: 141 (1991)
+in Nakase, Okada, Sugiyama, Itoh & Suzuki, J. gen. appl. Microbiol. , Tokyo 35(4): 292 (1989)
 
 #### Original name
 Ballistosporomyces xanthus Nakase, G. Okada & Sugiy., 1989

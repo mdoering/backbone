@@ -1,5 +1,4 @@
-Hysteropsis laricina Höhn. SPECIES
-=======
+# Hysteropsis laricina Höhn. SPECIES
 
 #### Status
 ACCEPTED

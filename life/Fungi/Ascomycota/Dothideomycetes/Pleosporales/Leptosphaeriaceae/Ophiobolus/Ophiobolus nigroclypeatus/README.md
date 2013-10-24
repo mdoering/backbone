@@ -1,5 +1,4 @@
-Ophiobolus nigroclypeatus J.H. Mill. & Burton SPECIES
-=======
+# Ophiobolus nigroclypeatus J.H. Mill. & Burton SPECIES
 
 #### Status
 ACCEPTED

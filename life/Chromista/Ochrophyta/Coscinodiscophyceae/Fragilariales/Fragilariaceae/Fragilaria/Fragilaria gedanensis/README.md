@@ -1,5 +1,4 @@
-Fragilaria gedanensis Witkowski SPECIES
-=======
+# Fragilaria gedanensis Witkowski SPECIES
 
 #### Status
 ACCEPTED

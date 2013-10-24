@@ -1,5 +1,4 @@
-Completoria Lohde GENUS
-=======
+# Completoria Lohde GENUS
 
 #### Status
 ACCEPTED

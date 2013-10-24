@@ -1,5 +1,4 @@
-Vaginata pulchella (Cooke & Massee) Kuntze SPECIES
-=======
+# Vaginata pulchella (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

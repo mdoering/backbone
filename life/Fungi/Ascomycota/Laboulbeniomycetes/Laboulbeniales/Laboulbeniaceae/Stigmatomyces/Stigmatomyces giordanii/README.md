@@ -1,5 +1,4 @@
-Stigmatomyces giordanii W. Rossi & Cesari SPECIES
-=======
+# Stigmatomyces giordanii W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

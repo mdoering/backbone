@@ -1,5 +1,4 @@
-Boletus persicolor (H. Engel, Klofac, H. Grünert & R. Grünert) Assyov SPECIES
-=======
+# Boletus persicolor (H. Engel, Klofac, H. Grünert & R. Grünert) Assyov SPECIES
 
 #### Status
 ACCEPTED

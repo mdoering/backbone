@@ -1,5 +1,4 @@
-Lecanora melanocardia Vain. SPECIES
-=======
+# Lecanora melanocardia Vain. SPECIES
 
 #### Status
 ACCEPTED

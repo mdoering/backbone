@@ -1,5 +1,4 @@
-Agaricus echinulatus Berk. SPECIES
-=======
+# Agaricus echinulatus Berk. SPECIES
 
 #### Status
 ACCEPTED

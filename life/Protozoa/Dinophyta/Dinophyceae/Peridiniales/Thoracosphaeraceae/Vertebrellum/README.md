@@ -1,5 +1,4 @@
-Vertebrellum P. Zügel, 1994 GENUS
-=======
+# Vertebrellum P. Zügel, 1994 GENUS
 
 #### Status
 ACCEPTED

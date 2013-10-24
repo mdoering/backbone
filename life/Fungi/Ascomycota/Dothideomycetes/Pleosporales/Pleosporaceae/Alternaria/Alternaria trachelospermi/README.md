@@ -1,5 +1,4 @@
-Alternaria trachelospermi T.Y. Zhang, X.F. Lin & W.Q. Chen SPECIES
-=======
+# Alternaria trachelospermi T.Y. Zhang, X.F. Lin & W.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

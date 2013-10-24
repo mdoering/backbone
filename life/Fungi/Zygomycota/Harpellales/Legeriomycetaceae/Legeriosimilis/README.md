@@ -1,5 +1,4 @@
-Legeriosimilis M.C. Williams, Lichtw., M.M. White & Misra GENUS
-=======
+# Legeriosimilis M.C. Williams, Lichtw., M.M. White & Misra GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticellidae Ehrenberg, 1838 FAMILY
-=======
+# Vorticellidae Ehrenberg, 1838 FAMILY
 
 #### Status
 ACCEPTED

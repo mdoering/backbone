@@ -1,5 +1,4 @@
-Agaricus dulcamarus Pers. SPECIES
-=======
+# Agaricus dulcamarus Pers. SPECIES
 
 #### Status
 ACCEPTED

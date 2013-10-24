@@ -1,5 +1,4 @@
-Parmelia tananarivensis Gyeln. SPECIES
-=======
+# Parmelia tananarivensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

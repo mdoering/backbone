@@ -1,5 +1,4 @@
-Menisporopsis novae-zelandiae S. Hughes & W.B. Kendr., 1968 SPECIES
-=======
+# Menisporopsis novae-zelandiae S. Hughes & W.B. Kendr., 1968 SPECIES
 
 #### Status
 ACCEPTED

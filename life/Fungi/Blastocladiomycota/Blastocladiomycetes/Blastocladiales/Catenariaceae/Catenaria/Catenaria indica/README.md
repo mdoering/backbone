@@ -1,5 +1,4 @@
-Catenaria indica S.L. Singh & Pavgi, 1970 SPECIES
-=======
+# Catenaria indica S.L. Singh & Pavgi, 1970 SPECIES
 
 #### Status
 ACCEPTED

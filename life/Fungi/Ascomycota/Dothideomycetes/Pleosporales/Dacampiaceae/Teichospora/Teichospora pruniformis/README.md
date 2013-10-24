@@ -1,5 +1,4 @@
-Teichospora pruniformis (Nyl.) P. Karst. SPECIES
-=======
+# Teichospora pruniformis (Nyl.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius alutaceofulvus Britzelm. SPECIES
-=======
+# Cortinarius alutaceofulvus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

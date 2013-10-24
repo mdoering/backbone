@@ -1,5 +1,4 @@
-Uromyces alpinus J. Schröt. SPECIES
-=======
+# Uromyces alpinus J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

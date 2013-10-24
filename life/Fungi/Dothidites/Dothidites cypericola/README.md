@@ -1,5 +1,4 @@
-Dothidites cypericola (Bleicher {?} & Fliche) Mesch. SPECIES
-=======
+# Dothidites cypericola (Bleicher {?} & Fliche) Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Operculariella Stammer, 1948 GENUS
-=======
+# Operculariella Stammer, 1948 GENUS
 
 #### Status
 ACCEPTED

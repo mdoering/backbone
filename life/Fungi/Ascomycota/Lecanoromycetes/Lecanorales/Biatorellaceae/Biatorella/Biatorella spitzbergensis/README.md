@@ -1,5 +1,4 @@
-Biatorella spitzbergensis (Th. Fr.) H. Olivier SPECIES
-=======
+# Biatorella spitzbergensis (Th. Fr.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

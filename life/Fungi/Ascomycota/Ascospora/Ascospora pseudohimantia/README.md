@@ -1,5 +1,4 @@
-Ascospora pseudohimantia Rehm SPECIES
-=======
+# Ascospora pseudohimantia Rehm SPECIES
 
 #### Status
 ACCEPTED

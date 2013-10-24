@@ -1,5 +1,4 @@
-Collybia mammillata (Murrill) Murrill SPECIES
-=======
+# Collybia mammillata (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

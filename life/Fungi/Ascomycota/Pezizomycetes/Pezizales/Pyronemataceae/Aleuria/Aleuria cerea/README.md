@@ -1,5 +1,4 @@
-Aleuria cerea SPECIES
-=======
+# Aleuria cerea SPECIES
 
 #### Status
 ACCEPTED

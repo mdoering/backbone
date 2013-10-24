@@ -1,5 +1,4 @@
-Enterographa leucolyta (Nyl.) Redinger SPECIES
-=======
+# Enterographa leucolyta (Nyl.) Redinger SPECIES
 
 #### Status
 ACCEPTED

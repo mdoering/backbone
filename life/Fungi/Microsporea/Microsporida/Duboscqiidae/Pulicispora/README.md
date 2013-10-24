@@ -1,5 +1,4 @@
-Pulicispora Vedmed, S.V. Krylova & I.V. Issi GENUS
-=======
+# Pulicispora Vedmed, S.V. Krylova & I.V. Issi GENUS
 
 #### Status
 ACCEPTED

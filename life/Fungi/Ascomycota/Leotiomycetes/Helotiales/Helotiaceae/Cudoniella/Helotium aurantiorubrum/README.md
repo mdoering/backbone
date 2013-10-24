@@ -1,5 +1,4 @@
-Helotium aurantiorubrum Bres. SPECIES
-=======
+# Helotium aurantiorubrum Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Transversopontis obliquipons (Deflandre in Deflandre & Fert, 1954) Hay, Mohler & Wade, 1966 SPECIES
-=======
+# Transversopontis obliquipons (Deflandre in Deflandre & Fert, 1954) Hay, Mohler & Wade, 1966 SPECIES
 
 #### Status
 ACCEPTED

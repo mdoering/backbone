@@ -1,5 +1,4 @@
-Photorhabdus asymbiotica subsp. asymbiotica SUBSPECIES
-=======
+# Photorhabdus asymbiotica SPECIES
 
 #### Status
 ACCEPTED

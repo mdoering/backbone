@@ -1,5 +1,4 @@
-Gaudriyadhella Plotnikova, 1976 GENUS
-=======
+# Gaudriyadhella Plotnikova, 1976 GENUS
 
 #### Status
 ACCEPTED

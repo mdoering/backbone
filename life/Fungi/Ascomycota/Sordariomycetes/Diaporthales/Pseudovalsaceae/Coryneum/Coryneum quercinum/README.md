@@ -1,5 +1,4 @@
-Coryneum quercinum Muthumary & B. Sutton SPECIES
-=======
+# Coryneum quercinum Muthumary & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria hurae Pat. SPECIES
-=======
+# Leptosphaeria hurae Pat. SPECIES
 
 #### Status
 ACCEPTED

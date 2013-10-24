@@ -1,5 +1,4 @@
-Gasparrinia subdimorpha (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Gasparrinia subdimorpha (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

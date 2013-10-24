@@ -1,5 +1,4 @@
-Spiroloculina rostrata Reuss SPECIES
-=======
+# Spiroloculina rostrata Reuss SPECIES
 
 #### Status
 ACCEPTED

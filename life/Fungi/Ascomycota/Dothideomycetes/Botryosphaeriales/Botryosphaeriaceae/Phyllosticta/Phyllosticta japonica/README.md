@@ -1,5 +1,4 @@
-Phyllosticta japonica Thüm., 1880 SPECIES
-=======
+# Phyllosticta japonica Thüm., 1880 SPECIES
 
 #### Status
 ACCEPTED

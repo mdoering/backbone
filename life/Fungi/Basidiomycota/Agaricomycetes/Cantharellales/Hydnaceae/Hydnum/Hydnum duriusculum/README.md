@@ -1,5 +1,4 @@
-Hydnum duriusculum Lloyd SPECIES
-=======
+# Hydnum duriusculum Lloyd SPECIES
 
 #### Status
 ACCEPTED

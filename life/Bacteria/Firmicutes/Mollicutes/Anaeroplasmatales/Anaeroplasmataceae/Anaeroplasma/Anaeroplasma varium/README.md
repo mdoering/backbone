@@ -1,5 +1,4 @@
-Anaeroplasma varium Robinson & Freundt, 1987 SPECIES
-=======
+# Anaeroplasma varium Robinson & Freundt, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Rhodopseudomonas rosea Janssen & Harfoot, 1991 SPECIES
-=======
+# Rhodoplanes roseus (Janssen & Harfoot, 1991) Hiraishi & Ueda, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

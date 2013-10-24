@@ -1,8 +1,7 @@
-Blastenia forströmiana (Ach.) Müll. Arg. SPECIES
-=======
+# Blastenia forstroemiana (Ach.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

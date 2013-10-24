@@ -1,5 +1,4 @@
-Lepista westii Murrill SPECIES
-=======
+# Lepista westii Murrill SPECIES
 
 #### Status
 ACCEPTED

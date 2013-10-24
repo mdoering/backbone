@@ -1,5 +1,4 @@
-Clavulinopsis alcicornis (Zoll. & Moritzi) Corner, 1950 SPECIES
-=======
+# Clavulinopsis alcicornis (Zoll. & Moritzi) Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

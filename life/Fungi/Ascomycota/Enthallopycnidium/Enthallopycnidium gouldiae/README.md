@@ -1,5 +1,4 @@
-Enthallopycnidium gouldiae F. Stevens, 1925 SPECIES
-=======
+# Enthallopycnidium gouldiae F. Stevens, 1925 SPECIES
 
 #### Status
 ACCEPTED

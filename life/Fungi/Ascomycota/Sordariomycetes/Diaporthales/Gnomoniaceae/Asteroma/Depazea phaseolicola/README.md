@@ -1,5 +1,4 @@
-Depazea phaseolicola Roberge ex Desm. SPECIES
-=======
+# Depazea phaseolicola Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

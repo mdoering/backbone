@@ -1,8 +1,7 @@
-Dasyscypha lentaginis (Schwein.) Sacc. SPECIES
-=======
+# Dasyscyphus lentaginis (Schwein.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Microsporum gypseum var. gypseum (E. Bodin) Guiart & Grigoraki, 1928 VARIETY
-=======
+# Microsporum gypseum (E. Bodin) Guiart & Grigoraki, 1928 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lyon Médical 141: 369-378 (1928)
+null
 
 #### Original name
-Microsporum gypseum var. gypseum (E. Bodin) Guiart & Grigoraki, 1928
+null
 
 ### Remarks
 null

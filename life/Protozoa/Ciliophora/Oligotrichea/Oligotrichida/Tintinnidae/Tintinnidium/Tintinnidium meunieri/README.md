@@ -1,5 +1,4 @@
-Tintinnidium meunieri (Haeckel, 1873) SPECIES
-=======
+# Tintinnidium meunieri (Haeckel, 1873) SPECIES
 
 #### Status
 ACCEPTED

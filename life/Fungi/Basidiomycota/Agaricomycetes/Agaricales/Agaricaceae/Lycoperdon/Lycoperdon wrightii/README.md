@@ -1,5 +1,4 @@
-Lycoperdon wrightii var. wrightii VARIETY
-=======
+# Lycoperdon wrightii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Grevillea 2(no. 16): 50 (1873)
 
 #### Original name
-Lycoperdon wrightii var. wrightii
+Lycoperdon wrightii Berk. & M.A. Curtis
 
 ### Remarks
 null

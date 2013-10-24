@@ -1,5 +1,4 @@
-Porina atropunctata Lücking & Vezda SPECIES
-=======
+# Porina atropunctata Lücking & Vezda SPECIES
 
 #### Status
 ACCEPTED

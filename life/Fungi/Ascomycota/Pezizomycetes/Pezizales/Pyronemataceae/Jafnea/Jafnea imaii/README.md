@@ -1,5 +1,4 @@
-Jafnea imaii Korf SPECIES
-=======
+# Jafnea imaii Korf SPECIES
 
 #### Status
 ACCEPTED

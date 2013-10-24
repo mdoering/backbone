@@ -1,5 +1,4 @@
-Lactarius rufescens Morgan SPECIES
-=======
+# Lactarius rufescens Morgan SPECIES
 
 #### Status
 ACCEPTED

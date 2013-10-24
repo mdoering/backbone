@@ -1,5 +1,4 @@
-Dermatocarpon protuberans (Schaer.) A. Massal. SPECIES
-=======
+# Dermatocarpon protuberans (Schaer.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

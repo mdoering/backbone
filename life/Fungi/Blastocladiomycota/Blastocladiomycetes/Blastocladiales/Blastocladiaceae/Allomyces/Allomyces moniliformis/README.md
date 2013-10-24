@@ -1,5 +1,4 @@
-Allomyces moniliformis Coker & Braxton, 1926 SPECIES
-=======
+# Allomyces moniliformis Coker & Braxton, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces luteus Thaxt. SPECIES
-=======
+# Dimeromyces luteus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

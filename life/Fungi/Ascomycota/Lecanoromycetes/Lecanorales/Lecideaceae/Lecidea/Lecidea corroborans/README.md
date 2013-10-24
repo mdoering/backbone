@@ -1,5 +1,4 @@
-Lecidea corroborans Stirt. SPECIES
-=======
+# Lecidea corroborans Stirt. SPECIES
 
 #### Status
 ACCEPTED

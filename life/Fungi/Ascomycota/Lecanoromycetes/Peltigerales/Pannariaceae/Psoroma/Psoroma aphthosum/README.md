@@ -1,5 +1,4 @@
-Psoroma aphthosum Vain. SPECIES
-=======
+# Psoroma aphthosum Vain. SPECIES
 
 #### Status
 ACCEPTED

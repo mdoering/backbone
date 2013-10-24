@@ -1,5 +1,4 @@
-Ophionectria episphaeria P. Karst. SPECIES
-=======
+# Ophionectria episphaeria P. Karst. SPECIES
 
 #### Status
 ACCEPTED

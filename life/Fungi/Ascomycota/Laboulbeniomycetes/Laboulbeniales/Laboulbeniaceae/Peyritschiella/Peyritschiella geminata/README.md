@@ -1,5 +1,4 @@
-Peyritschiella geminata Thaxt. SPECIES
-=======
+# Peyritschiella geminata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

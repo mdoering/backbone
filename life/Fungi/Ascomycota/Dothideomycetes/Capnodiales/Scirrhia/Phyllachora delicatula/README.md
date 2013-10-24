@@ -1,5 +1,4 @@
-Phyllachora delicatula (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora delicatula (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Peronospora verna Gäum., 1918 SPECIES
-=======
+# Peronospora verna Gäum., 1918 SPECIES
 
 #### Status
 ACCEPTED

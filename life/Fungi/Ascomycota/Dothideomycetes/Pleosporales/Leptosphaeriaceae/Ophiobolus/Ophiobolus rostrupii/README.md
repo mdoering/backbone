@@ -1,5 +1,4 @@
-Ophiobolus rostrupii Ferd. & Winge SPECIES
-=======
+# Ophiobolus rostrupii Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

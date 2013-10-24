@@ -1,5 +1,4 @@
-Milesia arisanensis (Hirats. f.) Faull SPECIES
-=======
+# Milesia arisanensis (Hirats. f.) Faull SPECIES
 
 #### Status
 ACCEPTED

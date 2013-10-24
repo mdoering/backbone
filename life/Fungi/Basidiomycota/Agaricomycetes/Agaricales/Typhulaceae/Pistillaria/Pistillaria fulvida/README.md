@@ -1,5 +1,4 @@
-Pistillaria fulvida P. Karst. SPECIES
-=======
+# Pistillaria fulvida P. Karst. SPECIES
 
 #### Status
 ACCEPTED

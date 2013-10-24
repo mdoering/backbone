@@ -1,5 +1,4 @@
-Verosphacela silvae Alongi, Cormaci & G.Furnari, 2007 SPECIES
-=======
+# Verosphacela silvae Alongi, Cormaci & G.Furnari, 2007 SPECIES
 
 #### Status
 ACCEPTED

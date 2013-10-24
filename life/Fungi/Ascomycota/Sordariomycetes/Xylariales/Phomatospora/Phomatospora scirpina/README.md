@@ -1,5 +1,4 @@
-Phomatospora scirpina Thüm. SPECIES
-=======
+# Phomatospora scirpina Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Echinochondrium Samson & Aa GENUS
-=======
+# Echinochondrium Samson & Aa GENUS
 
 #### Status
 ACCEPTED

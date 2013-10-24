@@ -1,5 +1,4 @@
-Pleospora chrysospora Niessl SPECIES
-=======
+# Pleospora chrysospora Niessl SPECIES
 
 #### Status
 ACCEPTED

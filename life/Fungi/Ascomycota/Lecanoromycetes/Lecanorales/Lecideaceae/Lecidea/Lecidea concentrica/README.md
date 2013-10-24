@@ -1,5 +1,4 @@
-Lecidea concentrica var. concentrica VARIETY
-=======
+# Lecidea concentrica SPECIES
 
 #### Status
 ACCEPTED

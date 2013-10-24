@@ -1,5 +1,4 @@
-Rhinodinomyces maroccanae Werner SPECIES
-=======
+# Rhinodinomyces maroccanae Werner SPECIES
 
 #### Status
 ACCEPTED

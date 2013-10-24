@@ -1,17 +1,16 @@
-Actinospora Ingold GENUS
-=======
+# Actinosporella Descals, Marvanová & J. Webster GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Br. mycol. Soc. 35(1): 66 (1952)
+Can. J. Bot. 76(9): 1647 (1999)
 
 #### Original name
-Actinospora Ingold
+Actinosporella Descals, Marvanová & J. Webster
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Wuestneiopsis J. Reid & Dowsett GENUS
-=======
+# Wuestneiopsis J. Reid & Dowsett GENUS
 
 #### Status
 ACCEPTED

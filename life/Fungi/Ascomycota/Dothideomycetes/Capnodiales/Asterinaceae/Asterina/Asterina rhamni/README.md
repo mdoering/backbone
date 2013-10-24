@@ -1,17 +1,16 @@
-Asterina rhamnii A.K. Kar & S.N. Ghosh SPECIES
-=======
+# Asterina rhamni A.K. Kar & S.N. Ghosh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 39(2): 206 (1987)
 
 #### Original name
-Asterina rhamnii A.K. Kar & S.N. Ghosh
+Asterina rhamni A.K. Kar & S.N. Ghosh
 
 ### Remarks
 null

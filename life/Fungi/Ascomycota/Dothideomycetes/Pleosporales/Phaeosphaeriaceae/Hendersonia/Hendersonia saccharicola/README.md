@@ -1,5 +1,4 @@
-Hendersonia saccharicola (Av.-Saccá) Trotter SPECIES
-=======
+# Hendersonia saccharicola (Av.-Saccá) Trotter SPECIES
 
 #### Status
 ACCEPTED

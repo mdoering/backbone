@@ -1,5 +1,4 @@
-Zygopolaris S.T. Moss, Lichtw. & Manier GENUS
-=======
+# Zygopolaris S.T. Moss, Lichtw. & Manier GENUS
 
 #### Status
 ACCEPTED

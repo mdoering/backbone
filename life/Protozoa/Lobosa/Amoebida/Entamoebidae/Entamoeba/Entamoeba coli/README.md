@@ -1,5 +1,4 @@
-Entamoeba coli (Grassi, 1879) SPECIES
-=======
+# Entamoeba coli (Grassi, 1879) SPECIES
 
 #### Status
 ACCEPTED

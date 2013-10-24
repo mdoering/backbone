@@ -1,17 +1,16 @@
-Ophiostoma conicolum Marm. & Butin SPECIES
-=======
+# Ophiostoma conicola Marm. & Butin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 42: 195 (1990)
 
 #### Original name
-Ophiostoma conicolum Marm. & Butin
+Ophiostoma conicola Marm. & Butin
 
 ### Remarks
 null

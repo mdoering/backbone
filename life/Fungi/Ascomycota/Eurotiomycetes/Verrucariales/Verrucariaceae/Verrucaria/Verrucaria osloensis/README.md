@@ -1,5 +1,4 @@
-Verrucaria osloensis H. Magn. SPECIES
-=======
+# Verrucaria osloensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

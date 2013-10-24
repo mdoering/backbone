@@ -1,5 +1,4 @@
-Platysma orbatum Nyl. SPECIES
-=======
+# Platysma orbatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cuspidosporium cuspidatum (Sacc.) Cif. SPECIES
-=======
+# Cuspidosporium cuspidatum (Sacc.) Cif. SPECIES
 
 #### Status
 ACCEPTED

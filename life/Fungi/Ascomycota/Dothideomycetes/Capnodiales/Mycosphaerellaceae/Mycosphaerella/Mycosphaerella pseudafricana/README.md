@@ -1,17 +1,16 @@
-Teratosphaeria pseudafricana (Crous & T.A. Cout.) Crous & U. Braun, 2007 SPECIES
-=======
+# Mycosphaerella pseudafricana Crous & T.A. Cout., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous, Wingfield, Mansilla, Alfenas & Groenewald, Stud. Mycol. 55: 115 (2006)
 
 #### Original name
-null
+Mycosphaerella pseudafricana Crous & T.A. Cout., 2006
 
 ### Remarks
 null

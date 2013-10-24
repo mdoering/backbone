@@ -1,5 +1,4 @@
-Amplariella rubrovolvata (S. Imai) E.-J. Gilbert SPECIES
-=======
+# Amplariella rubrovolvata (S. Imai) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

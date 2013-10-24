@@ -1,5 +1,4 @@
-Bacidia subcinnamomea Malme SPECIES
-=======
+# Bacidia subcinnamomea Malme SPECIES
 
 #### Status
 ACCEPTED

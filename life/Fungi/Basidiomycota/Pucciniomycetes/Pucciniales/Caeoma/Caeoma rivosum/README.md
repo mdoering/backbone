@@ -1,5 +1,4 @@
-Caeoma rivosum Link SPECIES
-=======
+# Caeoma rivosum Link SPECIES
 
 #### Status
 ACCEPTED

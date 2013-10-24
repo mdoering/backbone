@@ -1,5 +1,4 @@
-Sistotrema autochthon Mont. & Berk. SPECIES
-=======
+# Sistotrema autochthon Mont. & Berk. SPECIES
 
 #### Status
 ACCEPTED

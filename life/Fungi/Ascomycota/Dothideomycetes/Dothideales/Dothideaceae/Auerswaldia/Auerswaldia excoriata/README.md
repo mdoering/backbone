@@ -1,5 +1,4 @@
-Auerswaldia excoriata C. Moreau & Moreau SPECIES
-=======
+# Auerswaldia excoriata C. Moreau & Moreau SPECIES
 
 #### Status
 ACCEPTED

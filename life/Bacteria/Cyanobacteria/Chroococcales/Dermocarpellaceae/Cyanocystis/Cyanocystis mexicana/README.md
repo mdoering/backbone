@@ -1,5 +1,4 @@
-Cyanocystis mexicana G. Montejano, M. Gold & J. Komárek SPECIES
-=======
+# Cyanocystis mexicana G. Montejano, M. Gold & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis sorbicola Grove, 1930 SPECIES
-=======
+# Phomopsis sorbicola Grove, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Parhabdolithus embergeri (Noël, 1965) Stradner, 1963 SPECIES
-=======
+# Zeugrhabdotus embergeri (Noël, 1959) Perch-Nielsen, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

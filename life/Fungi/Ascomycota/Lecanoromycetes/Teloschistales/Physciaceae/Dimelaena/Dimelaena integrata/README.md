@@ -1,5 +1,4 @@
-Dimelaena integrata SPECIES
-=======
+# Dimelaena integrata SPECIES
 
 #### Status
 ACCEPTED

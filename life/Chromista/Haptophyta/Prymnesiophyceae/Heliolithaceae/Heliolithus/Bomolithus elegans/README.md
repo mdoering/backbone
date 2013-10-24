@@ -1,8 +1,7 @@
-Fasciculithus rotundus Haq & Lohman, 1976 SPECIES
-=======
+# Bomolithus elegans Roth, 1973 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

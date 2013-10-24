@@ -1,5 +1,4 @@
-Septoria lycopi Pass., 1878 SPECIES
-=======
+# Septoria lycopi Pass., 1878 SPECIES
 
 #### Status
 ACCEPTED

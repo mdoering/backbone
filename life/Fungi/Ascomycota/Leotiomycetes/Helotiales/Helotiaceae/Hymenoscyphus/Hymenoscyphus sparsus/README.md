@@ -1,14 +1,13 @@
-Helotium sparsum Boud., 1907 SPECIES
-=======
+# Hymenoscyphus sparsus (Boud.) Baral, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. Class. Discom. Eur. (Paris) 111 (1907)
+in Baral & Krieglsteiner, Beih. Z. Mykol. 6: 137 (1985)
 
 #### Original name
 Helotium sparsum Boud., 1907

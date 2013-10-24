@@ -1,5 +1,4 @@
-Lotharingius sigillatus (Stradner, 1961) Prins in Grün et al., 1974 SPECIES
-=======
+# Lotharingius sigillatus (Stradner, 1961) Prins in Grün et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

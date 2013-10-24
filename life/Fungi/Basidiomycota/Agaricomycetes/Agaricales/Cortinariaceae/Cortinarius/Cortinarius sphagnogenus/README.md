@@ -1,5 +1,4 @@
-Cortinarius sphagnogenus (M.M. Moser) Nezdojm. SPECIES
-=======
+# Cortinarius sphagnogenus (M.M. Moser) Nezdojm. SPECIES
 
 #### Status
 ACCEPTED

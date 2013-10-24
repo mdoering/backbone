@@ -1,5 +1,4 @@
-Stilbum nigripes P. Karst. SPECIES
-=======
+# Stilbum nigripes P. Karst. SPECIES
 
 #### Status
 ACCEPTED

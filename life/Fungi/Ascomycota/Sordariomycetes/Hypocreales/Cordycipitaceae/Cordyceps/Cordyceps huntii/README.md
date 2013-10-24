@@ -1,5 +1,4 @@
-Cordyceps huntii Giard SPECIES
-=======
+# Cordyceps huntii Giard SPECIES
 
 #### Status
 ACCEPTED

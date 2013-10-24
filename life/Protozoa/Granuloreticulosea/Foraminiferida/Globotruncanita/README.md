@@ -1,5 +1,4 @@
-Globotruncanita Reiss, 1957 GENUS
-=======
+# Globotruncanita Reiss, 1957 GENUS
 
 #### Status
 ACCEPTED

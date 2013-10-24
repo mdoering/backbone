@@ -1,5 +1,4 @@
-Corynespora achradis M.B. Ellis SPECIES
-=======
+# Corynespora achradis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

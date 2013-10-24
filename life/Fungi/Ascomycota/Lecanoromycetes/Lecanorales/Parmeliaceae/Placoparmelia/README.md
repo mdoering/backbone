@@ -1,5 +1,4 @@
-Placoparmelia Henssen GENUS
-=======
+# Placoparmelia Henssen GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cylindrocladium variabile Crous, J.D. Janse, D. Victor, G.F. Marais & Alfenas, 1993 SPECIES
-=======
+# Calonectria variabilis Crous, J.D. Janse, D. Victor, G.F. Marais & Alfenas, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Syst. Appl. Microbiol. 16(2): 270 (1993)
 
 #### Original name
-Cylindrocladium variabile Crous, J.D. Janse, D. Victor, G.F. Marais & Alfenas, 1993
+Calonectria variabilis Crous, J.D. Janse, D. Victor, G.F. Marais & Alfenas, 1993
 
 ### Remarks
 null

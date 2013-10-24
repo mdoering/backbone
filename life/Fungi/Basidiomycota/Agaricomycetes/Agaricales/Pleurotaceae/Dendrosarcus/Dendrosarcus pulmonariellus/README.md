@@ -1,5 +1,4 @@
-Dendrosarcus pulmonariellus (P. Karst.) Kuntze SPECIES
-=======
+# Dendrosarcus pulmonariellus (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

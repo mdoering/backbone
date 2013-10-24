@@ -1,5 +1,4 @@
-Hyalacrotes racemosa (Raitv. & Huhtinen) Raitv. SPECIES
-=======
+# Hyalacrotes racemosa (Raitv. & Huhtinen) Raitv. SPECIES
 
 #### Status
 ACCEPTED

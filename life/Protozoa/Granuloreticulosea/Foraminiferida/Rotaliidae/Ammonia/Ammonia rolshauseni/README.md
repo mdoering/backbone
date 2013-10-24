@@ -1,5 +1,4 @@
-Ammonia rolshauseni SPECIES
-=======
+# Ammonia rolshauseni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella anonyma Rehm SPECIES
-=======
+# Pezizella anonyma Rehm SPECIES
 
 #### Status
 ACCEPTED

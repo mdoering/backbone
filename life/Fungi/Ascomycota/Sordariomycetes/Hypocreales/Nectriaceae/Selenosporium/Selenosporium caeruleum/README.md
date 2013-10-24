@@ -1,5 +1,4 @@
-Selenosporium caeruleum Lib. SPECIES
-=======
+# Selenosporium caeruleum Lib. SPECIES
 
 #### Status
 ACCEPTED

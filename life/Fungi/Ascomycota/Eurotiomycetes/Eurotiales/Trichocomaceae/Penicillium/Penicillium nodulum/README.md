@@ -1,5 +1,4 @@
-Penicillium nodulum H.Z. Kong & Z.T. Qi, 1988 SPECIES
-=======
+# Penicillium nodulum H.Z. Kong & Z.T. Qi, 1988 SPECIES
 
 #### Status
 ACCEPTED

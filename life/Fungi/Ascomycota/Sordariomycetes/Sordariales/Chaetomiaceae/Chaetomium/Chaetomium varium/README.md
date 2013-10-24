@@ -1,5 +1,4 @@
-Chaetomium varium Delacr. SPECIES
-=======
+# Chaetomium varium Delacr. SPECIES
 
 #### Status
 ACCEPTED

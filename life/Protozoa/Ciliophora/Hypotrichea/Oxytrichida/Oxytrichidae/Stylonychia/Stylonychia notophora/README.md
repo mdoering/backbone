@@ -1,5 +1,4 @@
-Stylonychia notophora Stokes, 1885 SPECIES
-=======
+# Stylonychia notophora Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

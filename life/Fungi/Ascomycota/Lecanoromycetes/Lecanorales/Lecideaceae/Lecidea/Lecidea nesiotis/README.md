@@ -1,5 +1,4 @@
-Lecidea nesiotis Stizenb. SPECIES
-=======
+# Lecidea nesiotis Stizenb. SPECIES
 
 #### Status
 ACCEPTED

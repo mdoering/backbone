@@ -1,5 +1,4 @@
-Rhagodiscus eboracensis M. Black SPECIES
-=======
+# Rhagodiscus eboracensis M. Black SPECIES
 
 #### Status
 ACCEPTED

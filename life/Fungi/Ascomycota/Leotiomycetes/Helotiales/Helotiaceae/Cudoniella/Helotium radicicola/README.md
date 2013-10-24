@@ -1,17 +1,16 @@
-Helotium radicicolum Velen. SPECIES
-=======
+# Helotium radicicola Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 186 (1934)
 
 #### Original name
-Helotium radicicolum Velen.
+Helotium radicicola Velen.
 
 ### Remarks
 null

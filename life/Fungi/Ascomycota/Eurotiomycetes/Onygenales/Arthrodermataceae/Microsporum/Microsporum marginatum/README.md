@@ -1,17 +1,16 @@
-Microsporon marginatum Cazalbou SPECIES
-=======
+# Microsporum marginatum Cazalbou SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Comptes rendu Premier Congr. int. Path. comp. , 1912 2: 307 (1914)
 
 #### Original name
-Microsporon marginatum Cazalbou
+Microsporum marginatum Cazalbou
 
 ### Remarks
 null

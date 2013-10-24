@@ -1,5 +1,4 @@
-Phaeodiscus rhamnicola L.R. Batra SPECIES
-=======
+# Phaeodiscus rhamnicola L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

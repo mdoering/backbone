@@ -1,5 +1,4 @@
-Placopsis alphoplacoides I.M. Lamb SPECIES
-=======
+# Placopsis alphoplacoides I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

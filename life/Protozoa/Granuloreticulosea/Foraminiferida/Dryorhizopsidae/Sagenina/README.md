@@ -1,17 +1,16 @@
-Sagenella Brady, 1879 GENUS
-=======
+# Sagenina Chapman, 1900 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-Quart. J. Micr. Sci. (N. S. ) 19, 41.
+J. Linn. Soc. London, Zool. , 28, 4.
 
 #### Original name
-null
+Sagenella Brady, 1879
 
 ### Remarks
 null

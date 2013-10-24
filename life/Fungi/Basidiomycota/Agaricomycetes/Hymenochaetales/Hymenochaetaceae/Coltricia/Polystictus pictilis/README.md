@@ -1,5 +1,4 @@
-Polystictus pictilis (Berk.) Cooke SPECIES
-=======
+# Polystictus pictilis (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

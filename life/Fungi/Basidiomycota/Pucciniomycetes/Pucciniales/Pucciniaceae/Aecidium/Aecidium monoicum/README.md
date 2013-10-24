@@ -1,5 +1,4 @@
-Aecidium monoicum Peck SPECIES
-=======
+# Aecidium monoicum Peck SPECIES
 
 #### Status
 ACCEPTED

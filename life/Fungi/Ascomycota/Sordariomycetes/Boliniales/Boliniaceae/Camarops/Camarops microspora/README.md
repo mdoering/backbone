@@ -1,17 +1,16 @@
-Fuckelia microspora (P. Karst.) Cooke, 1885 SPECIES
-=======
+# Camarops microspora (P. Karst.) Shear, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Myc. 30(5): 588 (1938)
 
 #### Original name
-null
+Anthostoma microsporum P. Karst., 1869
 
 ### Remarks
 null

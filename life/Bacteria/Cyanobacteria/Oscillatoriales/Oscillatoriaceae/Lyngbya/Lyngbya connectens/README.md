@@ -1,5 +1,4 @@
-Lyngbya connectens f. granulata FORM
-=======
+# Lyngbya connectens Brühl & Biswas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora sorediata Vain. SPECIES
-=======
+# Lecanora sorediata Vain. SPECIES
 
 #### Status
 ACCEPTED

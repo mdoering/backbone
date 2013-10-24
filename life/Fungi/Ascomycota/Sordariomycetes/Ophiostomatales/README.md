@@ -1,5 +1,4 @@
-Ophiostomatales Benny & Kimbr. ORDER
-=======
+# Ophiostomatales Benny & Kimbr. ORDER
 
 #### Status
 ACCEPTED

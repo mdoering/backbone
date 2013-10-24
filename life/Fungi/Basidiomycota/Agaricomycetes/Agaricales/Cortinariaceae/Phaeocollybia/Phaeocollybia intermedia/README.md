@@ -1,5 +1,4 @@
-Phaeocollybia intermedia Corner & E. Horak SPECIES
-=======
+# Phaeocollybia intermedia Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

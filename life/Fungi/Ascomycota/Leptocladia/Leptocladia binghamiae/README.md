@@ -1,5 +1,4 @@
-Leptocladia binghamiae J. Agardh SPECIES
-=======
+# Leptocladia binghamiae J. Agardh SPECIES
 
 #### Status
 ACCEPTED

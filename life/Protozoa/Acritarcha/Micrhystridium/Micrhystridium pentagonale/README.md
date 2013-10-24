@@ -1,5 +1,4 @@
-Micrhystridium pentagonale Stockmans & Willière, 1963 SPECIES
-=======
+# Micrhystridium pentagonale Stockmans & Willière, 1963 SPECIES
 
 #### Status
 ACCEPTED

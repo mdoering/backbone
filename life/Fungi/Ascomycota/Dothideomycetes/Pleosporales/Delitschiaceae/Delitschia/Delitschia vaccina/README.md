@@ -1,5 +1,4 @@
-Delitschia vaccina Pass. SPECIES
-=======
+# Delitschia vaccina Pass. SPECIES
 
 #### Status
 ACCEPTED

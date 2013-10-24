@@ -1,5 +1,4 @@
-Pseudovibrio japonicus Hosoya & Yokota, 2007 SPECIES
-=======
+# Pseudovibrio japonicus Hosoya & Yokota, 2007 SPECIES
 
 #### Status
 ACCEPTED

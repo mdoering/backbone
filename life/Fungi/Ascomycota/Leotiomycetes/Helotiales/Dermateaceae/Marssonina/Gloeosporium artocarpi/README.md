@@ -1,5 +1,4 @@
-Gloeosporium artocarpi Delacr. SPECIES
-=======
+# Gloeosporium artocarpi Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe apala (Berk. & Broome) Pegler & R.W. Rayner SPECIES
-=======
+# Hygrocybe apala (Berk. & Broome) Pegler & R.W. Rayner SPECIES
 
 #### Status
 ACCEPTED

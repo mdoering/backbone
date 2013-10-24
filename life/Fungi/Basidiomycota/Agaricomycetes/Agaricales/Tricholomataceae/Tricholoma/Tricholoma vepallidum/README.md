@@ -1,5 +1,4 @@
-Tricholoma vepallidum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma vepallidum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

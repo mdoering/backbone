@@ -1,5 +1,4 @@
-Aphanomyces scaber de Bary, 1860 SPECIES
-=======
+# Aphanomyces scaber de Bary, 1860 SPECIES
 
 #### Status
 ACCEPTED

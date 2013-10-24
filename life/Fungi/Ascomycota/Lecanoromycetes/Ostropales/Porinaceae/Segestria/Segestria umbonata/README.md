@@ -1,5 +1,4 @@
-Segestria umbonata Schaer. SPECIES
-=======
+# Segestria umbonata Schaer. SPECIES
 
 #### Status
 ACCEPTED

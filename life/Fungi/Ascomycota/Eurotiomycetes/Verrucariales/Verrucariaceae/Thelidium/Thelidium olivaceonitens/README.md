@@ -1,5 +1,4 @@
-Thelidium olivaceonitens SPECIES
-=======
+# Thelidium olivaceonitens SPECIES
 
 #### Status
 ACCEPTED

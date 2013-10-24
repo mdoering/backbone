@@ -1,5 +1,4 @@
-Trachelocerca minor Gruber, 1884 SPECIES
-=======
+# Trachelocerca minor Gruber, 1884 SPECIES
 
 #### Status
 ACCEPTED

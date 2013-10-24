@@ -1,5 +1,4 @@
-Lecanora palmatula SPECIES
-=======
+# Lecanora palmatula SPECIES
 
 #### Status
 ACCEPTED

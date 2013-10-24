@@ -1,5 +1,4 @@
-Parathelium trichosporum (Müll. Arg.) Stizenb. SPECIES
-=======
+# Parathelium trichosporum (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

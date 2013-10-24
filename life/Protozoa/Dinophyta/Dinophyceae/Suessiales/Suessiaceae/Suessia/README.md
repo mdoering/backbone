@@ -1,5 +1,4 @@
-Suessia S.J. Morbey, 1975 GENUS
-=======
+# Suessia S.J. Morbey, 1975 GENUS
 
 #### Status
 ACCEPTED

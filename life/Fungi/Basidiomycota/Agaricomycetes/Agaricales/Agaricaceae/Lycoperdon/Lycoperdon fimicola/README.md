@@ -1,5 +1,4 @@
-Lycoperdon fimicola Lloyd SPECIES
-=======
+# Lycoperdon fimicola Lloyd SPECIES
 
 #### Status
 ACCEPTED

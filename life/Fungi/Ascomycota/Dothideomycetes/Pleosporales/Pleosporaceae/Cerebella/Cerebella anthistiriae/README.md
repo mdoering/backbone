@@ -1,5 +1,4 @@
-Cerebella anthistiriae Petch SPECIES
-=======
+# Cerebella anthistiriae Petch SPECIES
 
 #### Status
 ACCEPTED

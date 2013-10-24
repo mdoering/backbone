@@ -1,5 +1,4 @@
-Amanita subfrostiana Zhu L. Yang SPECIES
-=======
+# Amanita subfrostiana Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

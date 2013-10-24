@@ -1,5 +1,4 @@
-Uronychia antarctica SPECIES
-=======
+# Uronychia antarctica SPECIES
 
 #### Status
 ACCEPTED

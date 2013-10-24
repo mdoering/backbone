@@ -1,5 +1,4 @@
-Cortinarius suboliveocaninus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius suboliveocaninus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia tardissima Garrett SPECIES
-=======
+# Puccinia tardissima Garrett SPECIES
 
 #### Status
 ACCEPTED

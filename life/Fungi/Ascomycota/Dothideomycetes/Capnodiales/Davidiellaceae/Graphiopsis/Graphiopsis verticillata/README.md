@@ -1,5 +1,4 @@
-Graphiopsis verticillata (Speg.) Goid. SPECIES
-=======
+# Graphiopsis verticillata (Speg.) Goid. SPECIES
 
 #### Status
 ACCEPTED

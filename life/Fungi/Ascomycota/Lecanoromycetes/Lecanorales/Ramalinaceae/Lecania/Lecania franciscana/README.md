@@ -1,5 +1,4 @@
-Lecania franciscana (Tuck.) K. Knudsen & Lendemer SPECIES
-=======
+# Lecania franciscana (Tuck.) K. Knudsen & Lendemer SPECIES
 
 #### Status
 ACCEPTED

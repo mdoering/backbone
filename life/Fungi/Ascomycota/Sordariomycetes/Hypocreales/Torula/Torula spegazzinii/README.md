@@ -1,5 +1,4 @@
-Torula spegazzinii Sacc. SPECIES
-=======
+# Torula spegazzinii Sacc. SPECIES
 
 #### Status
 ACCEPTED

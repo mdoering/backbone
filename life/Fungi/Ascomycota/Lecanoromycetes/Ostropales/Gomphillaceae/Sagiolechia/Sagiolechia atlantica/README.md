@@ -1,5 +1,4 @@
-Sagiolechia atlantica Henssen SPECIES
-=======
+# Sagiolechia atlantica Henssen SPECIES
 
 #### Status
 ACCEPTED

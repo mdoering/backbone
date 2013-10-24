@@ -1,5 +1,4 @@
-Phyllosticta quercus-ilicis Sacc. SPECIES
-=======
+# Phyllosticta quercus-ilicis Sacc. SPECIES
 
 #### Status
 ACCEPTED

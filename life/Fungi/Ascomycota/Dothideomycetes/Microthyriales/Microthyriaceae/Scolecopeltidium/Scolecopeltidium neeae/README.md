@@ -1,5 +1,4 @@
-Scolecopeltidium neeae Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium neeae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

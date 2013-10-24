@@ -1,5 +1,4 @@
-Cylindromyces striatus Manohar., D.K. Agarwal & N.K. Rao, 2004 SPECIES
-=======
+# Cylindromyces striatus Manohar., D.K. Agarwal & N.K. Rao, 2004 SPECIES
 
 #### Status
 ACCEPTED

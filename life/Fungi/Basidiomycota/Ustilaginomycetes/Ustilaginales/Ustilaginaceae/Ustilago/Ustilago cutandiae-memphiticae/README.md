@@ -1,5 +1,4 @@
-Ustilago cutandiae-memphiticae Maire SPECIES
-=======
+# Ustilago cutandiae-memphiticae Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucocoprinus thoenii Heinem. SPECIES
-=======
+# Leucocoprinus thoenii Heinem. SPECIES
 
 #### Status
 ACCEPTED

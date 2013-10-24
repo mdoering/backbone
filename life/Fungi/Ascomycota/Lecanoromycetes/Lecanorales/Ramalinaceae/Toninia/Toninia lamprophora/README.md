@@ -1,5 +1,4 @@
-Toninia lamprophora (Körb.) H. Olivier SPECIES
-=======
+# Toninia lamprophora (Körb.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

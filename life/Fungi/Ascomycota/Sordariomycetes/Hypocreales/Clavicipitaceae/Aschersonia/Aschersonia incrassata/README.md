@@ -1,5 +1,4 @@
-Aschersonia incrassata Mains SPECIES
-=======
+# Aschersonia incrassata Mains SPECIES
 
 #### Status
 ACCEPTED

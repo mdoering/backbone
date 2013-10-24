@@ -1,5 +1,4 @@
-Ceratostoma venetum Speg. SPECIES
-=======
+# Ceratostoma venetum Speg. SPECIES
 
 #### Status
 ACCEPTED

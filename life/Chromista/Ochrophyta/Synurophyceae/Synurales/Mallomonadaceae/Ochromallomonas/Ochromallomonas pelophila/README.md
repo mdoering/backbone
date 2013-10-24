@@ -1,5 +1,4 @@
-Ochromallomonas pelophila J.W.G. Lund SPECIES
-=======
+# Ochromallomonas pelophila J.W.G. Lund SPECIES
 
 #### Status
 ACCEPTED

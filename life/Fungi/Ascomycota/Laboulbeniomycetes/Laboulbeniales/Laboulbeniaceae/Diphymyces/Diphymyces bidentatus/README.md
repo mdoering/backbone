@@ -1,14 +1,13 @@
-Corethromyces bidentatus Thaxt., 1918 SPECIES
-=======
+# Diphymyces bidentatus (Thaxt.) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 54: 219 (1918)
+Mycol. Mem. 9: 202 (1985)
 
 #### Original name
 Corethromyces bidentatus Thaxt., 1918

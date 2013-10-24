@@ -1,5 +1,4 @@
-Canalisporium elegans Nawawi & Kuthub. SPECIES
-=======
+# Canalisporium elegans Nawawi & Kuthub. SPECIES
 
 #### Status
 ACCEPTED

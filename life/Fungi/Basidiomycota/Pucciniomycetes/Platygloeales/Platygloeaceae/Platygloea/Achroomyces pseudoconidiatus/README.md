@@ -1,5 +1,4 @@
-Achroomyces pseudoconidiatus Van de Put SPECIES
-=======
+# Achroomyces pseudoconidiatus Van de Put SPECIES
 
 #### Status
 ACCEPTED

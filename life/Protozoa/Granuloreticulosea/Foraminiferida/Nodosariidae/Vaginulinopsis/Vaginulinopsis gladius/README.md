@@ -1,5 +1,4 @@
-Vaginulinopsis gladius SPECIES
-=======
+# Vaginulinopsis gladius SPECIES
 
 #### Status
 ACCEPTED

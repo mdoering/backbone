@@ -1,5 +1,4 @@
-Phacidium occultatum Kirschst. SPECIES
-=======
+# Phacidium occultatum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

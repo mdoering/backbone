@@ -1,5 +1,4 @@
-Umbilicaria solida (Frey) Llano SPECIES
-=======
+# Umbilicaria solida (Frey) Llano SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phoma euphorbicola (Schwein.) Starbäck SPECIES
-=======
+# Phoma euphorbiicola (Schwein.) Starbäck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

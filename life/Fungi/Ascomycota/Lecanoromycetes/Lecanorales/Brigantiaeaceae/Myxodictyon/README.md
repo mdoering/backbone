@@ -1,5 +1,4 @@
-Myxodictyon GENUS
-=======
+# Myxodictyon GENUS
 
 #### Status
 ACCEPTED

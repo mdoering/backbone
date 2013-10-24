@@ -1,5 +1,4 @@
-Uredo verruculosa Berndt SPECIES
-=======
+# Uredo verruculosa Berndt SPECIES
 
 #### Status
 ACCEPTED

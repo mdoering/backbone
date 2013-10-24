@@ -1,5 +1,4 @@
-Phoma cladrastidis Syd. SPECIES
-=======
+# Phoma cladrastidis Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Basididyma Cif. GENUS
-=======
+# Basididyma Cif. GENUS
 
 #### Status
 ACCEPTED

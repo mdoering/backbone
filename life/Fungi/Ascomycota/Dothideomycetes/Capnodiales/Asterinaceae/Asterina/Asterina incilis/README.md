@@ -1,5 +1,4 @@
-Asterina incilis Syd. SPECIES
-=======
+# Asterina incilis Syd. SPECIES
 
 #### Status
 ACCEPTED

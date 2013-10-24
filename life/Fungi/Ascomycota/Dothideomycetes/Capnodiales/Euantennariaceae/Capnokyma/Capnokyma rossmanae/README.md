@@ -1,5 +1,4 @@
-Capnokyma rossmanae S. Hughes SPECIES
-=======
+# Capnokyma rossmanae S. Hughes SPECIES
 
 #### Status
 ACCEPTED

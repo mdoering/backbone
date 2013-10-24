@@ -1,5 +1,4 @@
-Synchytrium phyllanthi Lingappa SPECIES
-=======
+# Synchytrium phyllanthi Lingappa SPECIES
 
 #### Status
 ACCEPTED

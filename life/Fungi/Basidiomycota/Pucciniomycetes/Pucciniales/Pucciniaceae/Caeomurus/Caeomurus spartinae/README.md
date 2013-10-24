@@ -1,5 +1,4 @@
-Caeomurus spartinae (Farl.) Kuntze SPECIES
-=======
+# Caeomurus spartinae (Farl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

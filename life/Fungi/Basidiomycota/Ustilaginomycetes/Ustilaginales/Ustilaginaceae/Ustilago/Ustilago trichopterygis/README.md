@@ -1,5 +1,4 @@
-Ustilago trichopterygis Massee SPECIES
-=======
+# Ustilago trichopterygis Massee SPECIES
 
 #### Status
 ACCEPTED

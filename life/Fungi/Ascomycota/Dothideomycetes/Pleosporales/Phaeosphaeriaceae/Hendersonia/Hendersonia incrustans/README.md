@@ -1,5 +1,4 @@
-Hendersonia incrustans Sacc. SPECIES
-=======
+# Hendersonia incrustans Sacc. SPECIES
 
 #### Status
 ACCEPTED

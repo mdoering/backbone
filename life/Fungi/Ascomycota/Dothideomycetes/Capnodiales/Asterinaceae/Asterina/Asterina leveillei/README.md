@@ -1,5 +1,4 @@
-Asterina leveillei Pat. SPECIES
-=======
+# Asterina leveillei Pat. SPECIES
 
 #### Status
 ACCEPTED

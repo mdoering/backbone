@@ -1,14 +1,13 @@
-Amphidinium operculatum var. gibbosum L. Maranda & Y. Shimizu VARIETY
-=======
+# Amphidinium gibbosum (L. Maranda & Y. Shimizu) Flø Jørgensen & Shauna Murray SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Maranda L. & Shimizu Y. 1996. Amphidinium operculatum var. nov. gibbosum (Dinophyceae), a free-swimming marine species producing cytotoxic metabolites. J. Phycol. 32: 873-879.
+null
 
 #### Original name
 null

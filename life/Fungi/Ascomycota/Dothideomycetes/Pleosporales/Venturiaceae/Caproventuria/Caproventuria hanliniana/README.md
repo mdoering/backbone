@@ -1,14 +1,13 @@
-Venturia hanliniana (U. Braun & Feiler) Unter., 1997 SPECIES
-=======
+# Caproventuria hanliniana (U. Braun & Feiler) U. Braun, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 89(1): 129 (1997)
+Monogr. Cercosporella, Ramularia Allied Genera (Phytopath. Hyphom. ) 2: 396 (1998)
 
 #### Original name
 null

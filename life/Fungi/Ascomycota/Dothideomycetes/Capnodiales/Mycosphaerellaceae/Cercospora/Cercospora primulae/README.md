@@ -1,5 +1,4 @@
-Cercospora primulae Fautrey SPECIES
-=======
+# Cercospora primulae Fautrey SPECIES
 
 #### Status
 ACCEPTED

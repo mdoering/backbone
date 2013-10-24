@@ -1,5 +1,4 @@
-Siphononema thermophilum Hindák SPECIES
-=======
+# Siphononema thermophilum Hindák SPECIES
 
 #### Status
 ACCEPTED

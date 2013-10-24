@@ -1,5 +1,4 @@
-Pinnaticoemansia coronantispora Kurihara & Degawa, 2006 SPECIES
-=======
+# Pinnaticoemansia coronantispora Kurihara & Degawa, 2006 SPECIES
 
 #### Status
 ACCEPTED

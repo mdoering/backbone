@@ -1,5 +1,4 @@
-Cladochytrium aurantiacum M. Richards, 1956 SPECIES
-=======
+# Cladochytrium aurantiacum M. Richards, 1956 SPECIES
 
 #### Status
 ACCEPTED

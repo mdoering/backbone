@@ -1,17 +1,16 @@
-Daldinia concentrica f. californica Lloyd, 1919 FORM
-=======
+# Daldinia grandis Child, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 5: 23 (1919)
+Ann. Mo. bot. Gdn 19: 456 (1932)
 
 #### Original name
-Daldinia concentrica f. californica Lloyd, 1919
+Daldinia grandis Child, 1932
 
 ### Remarks
 null

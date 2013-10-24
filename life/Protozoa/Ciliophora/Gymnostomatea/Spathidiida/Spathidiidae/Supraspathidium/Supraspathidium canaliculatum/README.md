@@ -1,8 +1,7 @@
-Spathidium canaliculatum Lepsi, 1959 SPECIES
-=======
+# Supraspathidium canaliculatum (Lepsi, 1959) Foissner & Didier, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

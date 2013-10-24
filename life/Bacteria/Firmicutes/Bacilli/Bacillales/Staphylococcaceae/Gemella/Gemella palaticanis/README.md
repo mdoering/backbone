@@ -1,5 +1,4 @@
-Gemella palaticanis Collins et al., 1999 SPECIES
-=======
+# Gemella palaticanis Collins et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

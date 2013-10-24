@@ -1,5 +1,4 @@
-Maculatasporites crassus Bharadwaj et al., 1971 SPECIES
-=======
+# Maculatasporites crassus Bharadwaj et al., 1971 SPECIES
 
 #### Status
 ACCEPTED

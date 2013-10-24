@@ -1,5 +1,4 @@
-Thaxterogaster subulatus E. Horak SPECIES
-=======
+# Thaxterogaster subulatus E. Horak SPECIES
 
 #### Status
 ACCEPTED

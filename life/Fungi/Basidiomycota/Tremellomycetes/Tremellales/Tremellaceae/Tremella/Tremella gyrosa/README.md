@@ -1,5 +1,4 @@
-Tremella gyrosa Hoffm. SPECIES
-=======
+# Tremella gyrosa Hoffm. SPECIES
 
 #### Status
 ACCEPTED

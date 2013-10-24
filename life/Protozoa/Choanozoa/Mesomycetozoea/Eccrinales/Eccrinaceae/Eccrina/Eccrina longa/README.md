@@ -1,5 +1,4 @@
-Eccrina longa Leidy SPECIES
-=======
+# Eccrina longa Leidy SPECIES
 
 #### Status
 ACCEPTED

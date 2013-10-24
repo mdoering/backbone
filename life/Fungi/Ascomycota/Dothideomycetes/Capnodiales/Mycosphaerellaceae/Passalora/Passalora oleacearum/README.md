@@ -1,5 +1,4 @@
-Passalora oleacearum (Chidd.) U. Braun SPECIES
-=======
+# Passalora oleacearum (Chidd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

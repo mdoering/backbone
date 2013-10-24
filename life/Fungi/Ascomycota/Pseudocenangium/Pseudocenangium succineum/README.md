@@ -1,17 +1,16 @@
-Pocillum fumosellum (Cooke & Ellis) Höhn. SPECIES
-=======
+# Pseudocenangium succineum (Sprée) Dyko & B. Sutton, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 127: 373 (1918)
+Can. J. Bot. 57(4): 372 (1979)
 
 #### Original name
-Peziza fumosella Rehm
+Dacrymyces succineus Sprée, 1864
 
 ### Remarks
 null

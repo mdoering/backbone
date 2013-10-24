@@ -1,17 +1,16 @@
-Oidium saintpaulia Gorlenko SPECIES
-=======
+# Oidium saintpauliae Gorlenko SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Muchnistorosyanye Griby Moskovskoi Oblasti Semeistva <i>Erysiphaceae</i> (Moscow) 64 (1983)
 
 #### Original name
-Oidium saintpaulia Gorlenko
+Oidium saintpauliae Gorlenko
 
 ### Remarks
 null

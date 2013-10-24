@@ -1,5 +1,4 @@
-Thalassomonas viridans Macián et al., 2001 SPECIES
-=======
+# Thalassomonas viridans Macián et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

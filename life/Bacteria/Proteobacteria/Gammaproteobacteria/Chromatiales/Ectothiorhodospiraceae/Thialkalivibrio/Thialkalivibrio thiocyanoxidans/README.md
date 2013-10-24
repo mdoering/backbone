@@ -1,5 +1,4 @@
-Thialkalivibrio thiocyanoxidans SPECIES
-=======
+# Thialkalivibrio thiocyanoxidans SPECIES
 
 #### Status
 ACCEPTED

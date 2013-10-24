@@ -1,5 +1,4 @@
-Didymella rehmiana Bäumler SPECIES
-=======
+# Didymella rehmiana Bäumler SPECIES
 
 #### Status
 ACCEPTED

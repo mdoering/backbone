@@ -1,14 +1,13 @@
-Ceraceomerulius crispatus (O.F. Müll.) Malysheva & Zmitr., 2006 SPECIES
-=======
+# Ceraceomyces crispatus (O.F. Müll.) Rauschert, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Feddes Repert. Spec. Nov. Regni Veg. 98(11-12): 657 (1987)
 
 #### Original name
 null

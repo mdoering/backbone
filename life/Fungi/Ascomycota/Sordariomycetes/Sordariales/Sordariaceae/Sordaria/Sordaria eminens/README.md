@@ -1,5 +1,4 @@
-Sordaria eminens Cain SPECIES
-=======
+# Sordaria eminens Cain SPECIES
 
 #### Status
 ACCEPTED

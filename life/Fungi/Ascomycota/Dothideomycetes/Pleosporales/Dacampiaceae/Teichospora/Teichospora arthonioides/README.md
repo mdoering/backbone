@@ -1,5 +1,4 @@
-Teichospora arthonioides Pass. SPECIES
-=======
+# Teichospora arthonioides Pass. SPECIES
 
 #### Status
 ACCEPTED

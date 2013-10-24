@@ -1,5 +1,4 @@
-Agaricus balanatus Berk. & Broome SPECIES
-=======
+# Agaricus balanatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

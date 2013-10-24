@@ -1,5 +1,4 @@
-Cortinarius ovreboi Ammirati, Halling & Garnica SPECIES
-=======
+# Cortinarius ovreboi Ammirati, Halling & Garnica SPECIES
 
 #### Status
 ACCEPTED

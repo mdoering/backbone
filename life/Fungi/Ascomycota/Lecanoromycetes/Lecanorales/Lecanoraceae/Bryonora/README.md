@@ -1,5 +1,4 @@
-Bryonora Poelt GENUS
-=======
+# Bryonora Poelt GENUS
 
 #### Status
 ACCEPTED

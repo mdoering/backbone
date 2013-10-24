@@ -1,5 +1,4 @@
-Collybia cystidifera Velen. SPECIES
-=======
+# Collybia cystidifera Velen. SPECIES
 
 #### Status
 ACCEPTED

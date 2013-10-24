@@ -1,5 +1,4 @@
-Meliola celtidiae H.S. Yates SPECIES
-=======
+# Meliola celtidiae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

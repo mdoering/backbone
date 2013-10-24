@@ -1,5 +1,4 @@
-Pyrenula submastophora Ajay Singh & Upreti SPECIES
-=======
+# Pyrenula submastophora Ajay Singh & Upreti SPECIES
 
 #### Status
 ACCEPTED

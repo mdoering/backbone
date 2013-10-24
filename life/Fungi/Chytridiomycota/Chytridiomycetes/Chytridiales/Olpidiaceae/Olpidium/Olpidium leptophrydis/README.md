@@ -1,5 +1,4 @@
-Olpidium leptophrydis Scherff. SPECIES
-=======
+# Olpidium leptophrydis Scherff. SPECIES
 
 #### Status
 ACCEPTED

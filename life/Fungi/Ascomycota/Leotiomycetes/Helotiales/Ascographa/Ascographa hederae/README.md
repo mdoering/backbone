@@ -1,5 +1,4 @@
-Ascographa hederae Velen., 1934 SPECIES
-=======
+# Ascographa hederae Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

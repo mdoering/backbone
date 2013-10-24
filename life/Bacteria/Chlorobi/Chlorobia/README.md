@@ -1,5 +1,4 @@
-Chlorobia Garrity & Holt, 2001 CLASS
-=======
+# Chlorobia Garrity & Holt, 2001 CLASS
 
 #### Status
 ACCEPTED

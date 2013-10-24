@@ -1,5 +1,4 @@
-Arthonia heterella Stirt. SPECIES
-=======
+# Arthonia heterella Stirt. SPECIES
 
 #### Status
 ACCEPTED

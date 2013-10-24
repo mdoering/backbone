@@ -1,5 +1,4 @@
-Puccinia buchananii De Toni SPECIES
-=======
+# Puccinia buchananii De Toni SPECIES
 
 #### Status
 ACCEPTED

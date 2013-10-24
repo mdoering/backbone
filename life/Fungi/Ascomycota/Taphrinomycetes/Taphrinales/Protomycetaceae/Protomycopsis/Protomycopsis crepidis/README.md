@@ -1,5 +1,4 @@
-Protomycopsis crepidis Jaap SPECIES
-=======
+# Protomycopsis crepidis Jaap SPECIES
 
 #### Status
 ACCEPTED

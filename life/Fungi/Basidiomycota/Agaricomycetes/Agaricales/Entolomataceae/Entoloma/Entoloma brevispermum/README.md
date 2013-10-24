@@ -1,17 +1,16 @@
-Entoloma brevispermus G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma brevispermum G.M. Gates & Noordel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Persoonia 19(2): 176 (2007)
 
 #### Original name
-Entoloma brevispermus G.M. Gates & Noordel.
+Entoloma brevispermum G.M. Gates & Noordel.
 
 ### Remarks
 null

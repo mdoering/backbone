@@ -1,5 +1,4 @@
-Lachnella oregonensis W.B. Cooke SPECIES
-=======
+# Lachnella oregonensis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

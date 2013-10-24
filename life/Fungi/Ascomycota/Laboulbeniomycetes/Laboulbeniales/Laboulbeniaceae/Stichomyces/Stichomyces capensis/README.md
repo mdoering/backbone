@@ -1,5 +1,4 @@
-Stichomyces capensis Thaxt. SPECIES
-=======
+# Stichomyces capensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

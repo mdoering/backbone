@@ -1,5 +1,4 @@
-Polycladium Ingold, 1959 GENUS
-=======
+# Polycladium Ingold, 1959 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum latum Cooke & Massee SPECIES
-=======
+# Stereum latum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

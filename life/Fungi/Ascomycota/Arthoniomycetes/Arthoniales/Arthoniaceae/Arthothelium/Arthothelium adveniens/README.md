@@ -1,5 +1,4 @@
-Arthothelium adveniens (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthothelium adveniens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

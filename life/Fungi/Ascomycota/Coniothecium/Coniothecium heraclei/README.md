@@ -1,5 +1,4 @@
-Coniothecium heraclei Oudem. SPECIES
-=======
+# Coniothecium heraclei Oudem. SPECIES
 
 #### Status
 ACCEPTED

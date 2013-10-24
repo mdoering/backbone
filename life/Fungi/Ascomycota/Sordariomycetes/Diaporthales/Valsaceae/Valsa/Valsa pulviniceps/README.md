@@ -1,5 +1,4 @@
-Valsa pulviniceps Peck SPECIES
-=======
+# Valsa pulviniceps Peck SPECIES
 
 #### Status
 ACCEPTED

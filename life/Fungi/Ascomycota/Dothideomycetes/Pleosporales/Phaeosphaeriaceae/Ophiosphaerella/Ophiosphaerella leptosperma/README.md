@@ -1,5 +1,4 @@
-Ophiosphaerella leptosperma (Speg.) J. Walker SPECIES
-=======
+# Ophiosphaerella leptosperma (Speg.) J. Walker SPECIES
 
 #### Status
 ACCEPTED

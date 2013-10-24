@@ -1,5 +1,4 @@
-Mallochia reticulata (Kuehn & Goos) M. Solé, Cano & Guarro, 2002 SPECIES
-=======
+# Mallochia reticulata (Kuehn & Goos) M. Solé, Cano & Guarro, 2002 SPECIES
 
 #### Status
 ACCEPTED

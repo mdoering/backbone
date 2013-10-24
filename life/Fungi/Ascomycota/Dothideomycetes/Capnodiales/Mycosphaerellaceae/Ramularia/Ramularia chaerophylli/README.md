@@ -1,17 +1,16 @@
-Ramularia chaerophylli f. aurei Gonz. Frag. FORM
-=======
+# Ramularia chaerophylli Ferraris, 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Malpighia 16: 473 (1902)
 
 #### Original name
-Ramularia chaerophylli f. aurei Gonz. Frag.
+Ramularia chaerophylli Ferraris, 1902
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cyphelium flavum (Ach.) Chevall. SPECIES
-=======
+# Cyphelium flavum (Ach.) Chevall. SPECIES
 
 #### Status
 ACCEPTED

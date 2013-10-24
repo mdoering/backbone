@@ -1,17 +1,16 @@
-Phyllosticta capparidis Chardón SPECIES
-=======
+# Phyllosticta capparis Chardón SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boln Soc. Venez. Cienc. Nat. 40: 32 (1939)
 
 #### Original name
-Phyllosticta capparidis Chardón
+Phyllosticta capparis Chardón
 
 ### Remarks
 null

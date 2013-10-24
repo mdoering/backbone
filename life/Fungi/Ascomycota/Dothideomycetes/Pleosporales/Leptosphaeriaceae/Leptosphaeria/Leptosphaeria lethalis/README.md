@@ -1,5 +1,4 @@
-Leptosphaeria lethalis Ellis & Everh. SPECIES
-=======
+# Leptosphaeria lethalis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

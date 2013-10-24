@@ -1,5 +1,4 @@
-Triplosphaeria cylindrica Kaz. Tanaka & K. Hirayama, 2009 SPECIES
-=======
+# Triplosphaeria cylindrica Kaz. Tanaka & K. Hirayama, 2009 SPECIES
 
 #### Status
 ACCEPTED

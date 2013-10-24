@@ -1,5 +1,4 @@
-Patellaria joshuana Müll. Arg. SPECIES
-=======
+# Patellaria joshuana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

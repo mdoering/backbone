@@ -1,5 +1,4 @@
-Pertusaria fosseyae A. W. Archer, Elix, Eb. Fisch., Killmann & Sérus. SPECIES
-=======
+# Pertusaria fosseyae A. W. Archer, Elix, Eb. Fisch., Killmann & Sérus. SPECIES
 
 #### Status
 ACCEPTED

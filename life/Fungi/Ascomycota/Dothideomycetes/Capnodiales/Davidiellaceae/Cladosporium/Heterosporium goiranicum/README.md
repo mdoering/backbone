@@ -1,5 +1,4 @@
-Heterosporium goiranicum C. Massal. SPECIES
-=======
+# Heterosporium goiranicum C. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialea epigaea (P. Karst.) Sacc. SPECIES
-=======
+# Phialea epigaea (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

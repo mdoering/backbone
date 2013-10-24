@@ -1,5 +1,4 @@
-Junghuhnia micropora Spirin, Zmitrovitch & V. Malysheva SPECIES
-=======
+# Junghuhnia micropora Spirin, Zmitrovitch & V. Malysheva SPECIES
 
 #### Status
 ACCEPTED

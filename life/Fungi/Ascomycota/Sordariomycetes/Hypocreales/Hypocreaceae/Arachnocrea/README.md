@@ -1,5 +1,4 @@
-Arachnocrea Z. Moravec GENUS
-=======
+# Arachnocrea Z. Moravec GENUS
 
 #### Status
 ACCEPTED

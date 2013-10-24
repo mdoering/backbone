@@ -1,5 +1,4 @@
-Psorothecium endochromum (Fée) A. Massal. SPECIES
-=======
+# Psorothecium endochromum (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

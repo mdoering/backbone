@@ -1,5 +1,4 @@
-Altererythrobacter luteolus Yoon, Kang, Yeo & Oh, 2005 SPECIES
-=======
+# Altererythrobacter luteolus Yoon, Kang, Yeo & Oh, 2005 SPECIES
 
 #### Status
 ACCEPTED

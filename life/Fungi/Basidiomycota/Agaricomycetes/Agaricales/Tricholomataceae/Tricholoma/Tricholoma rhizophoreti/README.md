@@ -1,5 +1,4 @@
-Tricholoma rhizophoreti Corner SPECIES
-=======
+# Tricholoma rhizophoreti Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltasterella glochidii Bat. & H. Maia SPECIES
-=======
+# Peltasterella glochidii Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

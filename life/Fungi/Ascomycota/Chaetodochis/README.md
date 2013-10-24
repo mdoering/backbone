@@ -1,5 +1,4 @@
-Chaetodochis GENUS
-=======
+# Chaetodochis GENUS
 
 #### Status
 ACCEPTED

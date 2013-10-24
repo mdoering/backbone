@@ -1,5 +1,4 @@
-Agaricus vitellum Alb. & Schwein. SPECIES
-=======
+# Agaricus vitellum Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

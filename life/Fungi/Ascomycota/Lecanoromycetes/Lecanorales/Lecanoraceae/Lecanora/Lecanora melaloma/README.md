@@ -1,5 +1,4 @@
-Lecanora melaloma (Ach.) SPECIES
-=======
+# Lecanora melaloma (Ach.) SPECIES
 
 #### Status
 ACCEPTED

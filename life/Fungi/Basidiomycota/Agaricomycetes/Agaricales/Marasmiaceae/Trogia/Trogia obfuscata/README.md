@@ -1,5 +1,4 @@
-Trogia obfuscata Corner SPECIES
-=======
+# Trogia obfuscata Corner SPECIES
 
 #### Status
 ACCEPTED

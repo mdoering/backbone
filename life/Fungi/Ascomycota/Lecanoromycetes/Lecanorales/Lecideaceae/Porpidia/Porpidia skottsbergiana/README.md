@@ -1,5 +1,4 @@
-Porpidia skottsbergiana Hertel SPECIES
-=======
+# Porpidia skottsbergiana Hertel SPECIES
 
 #### Status
 ACCEPTED

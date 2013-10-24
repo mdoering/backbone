@@ -1,5 +1,4 @@
-Lachnum phaeomorphum Rehm SPECIES
-=======
+# Lachnum phaeomorphum Rehm SPECIES
 
 #### Status
 ACCEPTED

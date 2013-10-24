@@ -1,5 +1,4 @@
-Vibrissea margarita F.B. White, 1876 SPECIES
-=======
+# Vibrissea margarita F.B. White, 1876 SPECIES
 
 #### Status
 ACCEPTED

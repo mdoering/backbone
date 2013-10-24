@@ -1,5 +1,4 @@
-Laboulbenia anaplogenii Thaxt. SPECIES
-=======
+# Laboulbenia anaplogenii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

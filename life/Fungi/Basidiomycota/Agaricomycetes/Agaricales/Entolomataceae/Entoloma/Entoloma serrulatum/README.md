@@ -1,17 +1,16 @@
-Leptonia serrulata f. serrulata FORM
-=======
+# Entoloma serrulatum (Fr.) Hesler, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia, Beih. 21: 140 (1967)
 
 #### Original name
-null
+Agaricus serrulatus Fr., 1818
 
 ### Remarks
 null

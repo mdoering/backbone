@@ -1,5 +1,4 @@
-Neospegazzinia Petr. & Syd. GENUS
-=======
+# Neospegazzinia Petr. & Syd. GENUS
 
 #### Status
 ACCEPTED

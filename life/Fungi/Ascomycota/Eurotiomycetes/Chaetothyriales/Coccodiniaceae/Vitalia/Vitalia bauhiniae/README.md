@@ -1,5 +1,4 @@
-Vitalia bauhiniae (Bat. & I.H. Lima) Bat. SPECIES
-=======
+# Vitalia bauhiniae (Bat. & I.H. Lima) Bat. SPECIES
 
 #### Status
 ACCEPTED

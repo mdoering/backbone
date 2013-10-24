@@ -1,5 +1,4 @@
-Sticta faveolata f. faveolata FORM
-=======
+# Sticta faveolata SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mém. Soc. Linn. Calvados 2: 102 (1825)
+null
 
 #### Original name
-Sticta faveolata f. faveolata
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tyromyces tephronotus (Berk.) G. Cunn. SPECIES
-=======
+# Tyromyces tephronotus (Berk.) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

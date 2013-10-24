@@ -1,5 +1,4 @@
-Gymnopus albistrictus Murrill SPECIES
-=======
+# Gymnopus albistrictus Murrill SPECIES
 
 #### Status
 ACCEPTED

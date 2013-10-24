@@ -1,5 +1,4 @@
-Pullularia grumulosa (J. Lindau) Delitsch SPECIES
-=======
+# Pullularia grumulosa (J. Lindau) Delitsch SPECIES
 
 #### Status
 ACCEPTED

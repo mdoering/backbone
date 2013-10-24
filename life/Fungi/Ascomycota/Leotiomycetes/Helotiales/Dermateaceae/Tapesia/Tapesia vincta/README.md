@@ -1,5 +1,4 @@
-Tapesia vincta (Cooke & Peck) Sacc. SPECIES
-=======
+# Tapesia vincta (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

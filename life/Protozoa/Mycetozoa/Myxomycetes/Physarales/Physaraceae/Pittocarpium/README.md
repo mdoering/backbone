@@ -1,5 +1,4 @@
-Pittocarpium GENUS
-=======
+# Pittocarpium GENUS
 
 #### Status
 ACCEPTED

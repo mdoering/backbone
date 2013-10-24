@@ -1,5 +1,4 @@
-Rhopalophrya elegans Horváth, 1956 SPECIES
-=======
+# Rhopalophrya elegans Horváth, 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella iridis anon. SPECIES
-=======
+# Didymella iridis anon. SPECIES
 
 #### Status
 ACCEPTED

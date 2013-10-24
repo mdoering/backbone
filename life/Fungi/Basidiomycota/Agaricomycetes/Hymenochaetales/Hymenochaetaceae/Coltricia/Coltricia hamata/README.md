@@ -1,14 +1,13 @@
-Polystictus hamatus (Romell) Sacc. & P. Syd., 1902 SPECIES
-=======
+# Coltricia hamata (Romell) Ryvarden, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 16: 155 (1902)
+Svensk bot. Tidskr. 68: 276 (1974)
 
 #### Original name
 Pelloporus hamatus Romell, 1901

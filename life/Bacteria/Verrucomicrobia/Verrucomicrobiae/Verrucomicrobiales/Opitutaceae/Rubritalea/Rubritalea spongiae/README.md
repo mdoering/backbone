@@ -1,5 +1,4 @@
-Rubritalea spongiae Yoon, Matsuo, Matsuda, Adachi, Kasai & Yokota, 2007 SPECIES
-=======
+# Rubritalea spongiae Yoon, Matsuo, Matsuda, Adachi, Kasai & Yokota, 2007 SPECIES
 
 #### Status
 ACCEPTED

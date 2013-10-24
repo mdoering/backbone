@@ -1,5 +1,4 @@
-Tripocyrtis Haeckel, 1887 GENUS
-=======
+# Tripocyrtis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

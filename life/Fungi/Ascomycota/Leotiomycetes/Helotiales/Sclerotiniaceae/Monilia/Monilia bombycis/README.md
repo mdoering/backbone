@@ -1,5 +1,4 @@
-Monilia bombycis Johan-Olsen SPECIES
-=======
+# Monilia bombycis Johan-Olsen SPECIES
 
 #### Status
 ACCEPTED

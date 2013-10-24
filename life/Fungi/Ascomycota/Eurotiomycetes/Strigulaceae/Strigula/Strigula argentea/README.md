@@ -1,5 +1,4 @@
-Strigula argentea (Fée) Trevis. SPECIES
-=======
+# Strigula argentea (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

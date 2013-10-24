@@ -1,5 +1,4 @@
-Teichospora helianthemi (Ade) Petr. SPECIES
-=======
+# Teichospora helianthemi (Ade) Petr. SPECIES
 
 #### Status
 ACCEPTED

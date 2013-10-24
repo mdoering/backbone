@@ -1,5 +1,4 @@
-Trematosphaeria thymi Urries SPECIES
-=======
+# Trematosphaeria thymi Urries SPECIES
 
 #### Status
 ACCEPTED

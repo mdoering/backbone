@@ -1,5 +1,4 @@
-Aspicilia pacifica Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia pacifica Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

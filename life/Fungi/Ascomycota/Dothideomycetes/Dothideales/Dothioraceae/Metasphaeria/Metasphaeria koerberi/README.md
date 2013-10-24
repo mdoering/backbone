@@ -1,5 +1,4 @@
-Metasphaeria koerberi (Stein) J. Schröt. SPECIES
-=======
+# Metasphaeria koerberi (Stein) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalecta cernohorskyi Vezda SPECIES
-=======
+# Gyalecta cernohorskyi Vezda SPECIES
 
 #### Status
 ACCEPTED

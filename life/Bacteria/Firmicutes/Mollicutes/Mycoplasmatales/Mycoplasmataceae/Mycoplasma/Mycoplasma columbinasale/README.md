@@ -1,5 +1,4 @@
-Mycoplasma columbinasale Jordan et al., 1982 SPECIES
-=======
+# Mycoplasma columbinasale Jordan et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

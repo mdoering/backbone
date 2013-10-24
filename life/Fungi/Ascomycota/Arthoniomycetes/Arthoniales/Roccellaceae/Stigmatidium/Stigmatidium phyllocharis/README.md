@@ -1,5 +1,4 @@
-Stigmatidium phyllocharis Spreng. SPECIES
-=======
+# Stigmatidium phyllocharis Spreng. SPECIES
 
 #### Status
 ACCEPTED

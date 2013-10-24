@@ -1,5 +1,4 @@
-Sphaeria oreodaphnes Cooke & Harkn. SPECIES
-=======
+# Sphaeria oreodaphnes Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

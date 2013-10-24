@@ -1,5 +1,4 @@
-Cortinarius paraplatypus Reumaux SPECIES
-=======
+# Cortinarius paraplatypus Reumaux SPECIES
 
 #### Status
 ACCEPTED

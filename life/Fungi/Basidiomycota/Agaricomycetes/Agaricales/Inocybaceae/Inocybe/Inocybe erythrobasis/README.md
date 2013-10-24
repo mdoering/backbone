@@ -1,5 +1,4 @@
-Inocybe erythrobasis Singer SPECIES
-=======
+# Inocybe erythrobasis Singer SPECIES
 
 #### Status
 ACCEPTED

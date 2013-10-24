@@ -1,5 +1,4 @@
-Mycomicrothelia punctata Aptroot SPECIES
-=======
+# Mycomicrothelia punctata Aptroot SPECIES
 
 #### Status
 ACCEPTED

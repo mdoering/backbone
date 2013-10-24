@@ -1,14 +1,13 @@
-Dasyscypha arundinariae (Berk.) Sacc. SPECIES
-=======
+# Dasyscyphus arundinariae (Berk.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 448 (1889)
 
 #### Original name
 Irpex sinuosus var. cervicolor Berk. & Broome

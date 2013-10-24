@@ -1,5 +1,4 @@
-Gyalideopsis kalbii Vezda SPECIES
-=======
+# Gyalideopsis kalbii Vezda SPECIES
 
 #### Status
 ACCEPTED

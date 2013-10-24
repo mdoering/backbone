@@ -1,5 +1,4 @@
-Sphaeria phillyreae (Mont.) Mont. SPECIES
-=======
+# Sphaeria phillyreae (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

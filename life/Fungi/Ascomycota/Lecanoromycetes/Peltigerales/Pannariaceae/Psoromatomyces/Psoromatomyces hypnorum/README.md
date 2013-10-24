@@ -1,5 +1,4 @@
-Psoromatomyces hypnorum Cif. & Tomas. SPECIES
-=======
+# Psoromatomyces hypnorum Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

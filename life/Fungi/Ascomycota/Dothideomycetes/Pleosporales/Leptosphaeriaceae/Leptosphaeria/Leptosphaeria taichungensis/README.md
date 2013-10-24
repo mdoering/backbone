@@ -1,5 +1,4 @@
-Leptosphaeria taichungensis J.M. Yen SPECIES
-=======
+# Leptosphaeria taichungensis J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

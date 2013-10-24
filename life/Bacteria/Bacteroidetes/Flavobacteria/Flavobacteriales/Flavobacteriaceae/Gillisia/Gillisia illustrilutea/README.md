@@ -1,5 +1,4 @@
-Gillisia illustrilutea Bowman & Nichols, 2005 SPECIES
-=======
+# Gillisia illustrilutea Bowman & Nichols, 2005 SPECIES
 
 #### Status
 ACCEPTED

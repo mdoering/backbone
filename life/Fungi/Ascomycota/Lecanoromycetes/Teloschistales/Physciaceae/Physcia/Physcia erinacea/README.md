@@ -1,5 +1,4 @@
-Physcia erinacea (Ach.) Tuck. SPECIES
-=======
+# Physcia erinacea (Ach.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

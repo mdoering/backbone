@@ -1,5 +1,4 @@
-Aspicilia subadunans (Vain.) Räsänen SPECIES
-=======
+# Aspicilia subadunans (Vain.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

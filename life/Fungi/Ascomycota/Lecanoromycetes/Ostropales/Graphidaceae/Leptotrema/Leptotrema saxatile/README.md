@@ -1,5 +1,4 @@
-Leptotrema saxatile (C. Knight) Müll. Arg. SPECIES
-=======
+# Leptotrema saxatile (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

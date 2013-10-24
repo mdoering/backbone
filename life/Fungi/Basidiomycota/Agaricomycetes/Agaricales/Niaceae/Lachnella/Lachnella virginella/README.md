@@ -1,5 +1,4 @@
-Lachnella virginella (Cooke) Seaver SPECIES
-=======
+# Lachnella virginella (Cooke) Seaver SPECIES
 
 #### Status
 ACCEPTED

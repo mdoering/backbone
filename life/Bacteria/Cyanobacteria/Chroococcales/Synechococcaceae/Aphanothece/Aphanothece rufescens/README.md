@@ -1,5 +1,4 @@
-Aphanothece rufescens Hansgrig SPECIES
-=======
+# Aphanothece rufescens Hansgrig SPECIES
 
 #### Status
 ACCEPTED

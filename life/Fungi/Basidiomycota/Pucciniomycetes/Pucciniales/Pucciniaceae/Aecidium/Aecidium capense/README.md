@@ -1,5 +1,4 @@
-Aecidium capense Berk. & M.A. Curtis SPECIES
-=======
+# Aecidium capense Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

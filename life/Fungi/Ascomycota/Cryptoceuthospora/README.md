@@ -1,5 +1,4 @@
-Cryptoceuthospora Petr. GENUS
-=======
+# Cryptoceuthospora Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendryphion congestum Cif. SPECIES
-=======
+# Dendryphion congestum Cif. SPECIES
 
 #### Status
 ACCEPTED

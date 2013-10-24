@@ -1,5 +1,4 @@
-Aecidium nestlerae Doidge SPECIES
-=======
+# Aecidium nestlerae Doidge SPECIES
 
 #### Status
 ACCEPTED

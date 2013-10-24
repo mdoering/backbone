@@ -1,5 +1,4 @@
-Beauveria paradoxa (Bals.-Criv.) Ramsb. SPECIES
-=======
+# Beauveria paradoxa (Bals.-Criv.) Ramsb. SPECIES
 
 #### Status
 ACCEPTED

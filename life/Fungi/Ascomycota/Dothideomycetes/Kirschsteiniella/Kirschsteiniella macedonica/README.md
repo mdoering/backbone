@@ -1,5 +1,4 @@
-Kirschsteiniella macedonica Petr. SPECIES
-=======
+# Kirschsteiniella macedonica Petr. SPECIES
 
 #### Status
 ACCEPTED

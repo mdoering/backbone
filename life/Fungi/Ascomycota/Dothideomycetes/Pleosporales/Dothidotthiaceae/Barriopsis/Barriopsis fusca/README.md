@@ -1,5 +1,4 @@
-Barriopsis fusca (N.E. Stevens) A.J.L. Phillips, A. Alves & Crous, 2008 SPECIES
-=======
+# Barriopsis fusca (N.E. Stevens) A.J.L. Phillips, A. Alves & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

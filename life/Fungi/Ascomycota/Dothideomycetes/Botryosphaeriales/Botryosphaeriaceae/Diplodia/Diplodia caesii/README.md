@@ -1,5 +1,4 @@
-Diplodia caesii Boyer & Jacz. SPECIES
-=======
+# Diplodia caesii Boyer & Jacz. SPECIES
 
 #### Status
 ACCEPTED

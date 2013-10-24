@@ -1,5 +1,4 @@
-Spirotremesporites neogenicus Elsik SPECIES
-=======
+# Spirotremesporites neogenicus Elsik SPECIES
 
 #### Status
 ACCEPTED

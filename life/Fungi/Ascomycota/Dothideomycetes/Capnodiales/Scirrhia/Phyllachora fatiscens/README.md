@@ -1,5 +1,4 @@
-Phyllachora fatiscens (Schwein. ex Berk. & M.A. Curtis) Sacc., 1883 SPECIES
-=======
+# Phyllachora fatiscens (Schwein. ex Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

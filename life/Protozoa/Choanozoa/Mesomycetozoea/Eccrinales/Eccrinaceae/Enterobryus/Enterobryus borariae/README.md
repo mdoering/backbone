@@ -1,5 +1,4 @@
-Enterobryus borariae Lichtw., 1958 SPECIES
-=======
+# Enterobryus borariae Lichtw., 1958 SPECIES
 
 #### Status
 ACCEPTED

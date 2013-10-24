@@ -1,5 +1,4 @@
-Pterula culmicola Speg. SPECIES
-=======
+# Pterula culmicola Speg. SPECIES
 
 #### Status
 ACCEPTED

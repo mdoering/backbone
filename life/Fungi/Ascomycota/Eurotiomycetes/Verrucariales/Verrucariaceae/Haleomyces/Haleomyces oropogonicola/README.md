@@ -1,5 +1,4 @@
-Haleomyces oropogonicola D. Hawksw. & Essl. SPECIES
-=======
+# Haleomyces oropogonicola D. Hawksw. & Essl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thiobacterium (ex Janke, 1924) La Riviere & Kuenen, 1989 GENUS
-=======
+# Thiobacterium (ex Janke, 1924) La Riviere & Kuenen, 1989 GENUS
 
 #### Status
 ACCEPTED

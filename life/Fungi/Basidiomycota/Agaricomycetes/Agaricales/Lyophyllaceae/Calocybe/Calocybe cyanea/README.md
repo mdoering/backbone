@@ -1,5 +1,4 @@
-Calocybe cyanea Singer SPECIES
-=======
+# Calocybe cyanea Singer SPECIES
 
 #### Status
 ACCEPTED

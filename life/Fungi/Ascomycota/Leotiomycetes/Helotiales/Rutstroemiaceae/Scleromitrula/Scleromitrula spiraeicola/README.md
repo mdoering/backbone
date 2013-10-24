@@ -1,14 +1,13 @@
-Verpatinia calthicola var. spiraeicola (Dennis) L.G. Krieglst., 1999 VARIETY
-=======
+# Scleromitrula spiraeicola (Dennis) T. Schumach. & Holst-Jensen, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Regensb. Mykol. Schr. 9(1): 291 (1999)
+Mycoscience 38(1): 67 (1997)
 
 #### Original name
 Verpatinia spiraeicola Dennis, 1956

@@ -1,5 +1,4 @@
-Poeltinula cacuminum (Asta & Cl. Roux) Clauzade & Cl. Roux SPECIES
-=======
+# Poeltinula cacuminum (Asta & Cl. Roux) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

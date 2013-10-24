@@ -1,5 +1,4 @@
-Monoporisporites westii (Elsik) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites westii (Elsik) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

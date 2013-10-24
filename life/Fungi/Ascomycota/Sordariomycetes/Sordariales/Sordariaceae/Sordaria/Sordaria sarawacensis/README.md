@@ -1,5 +1,4 @@
-Sordaria sarawacensis Ces. SPECIES
-=======
+# Sordaria sarawacensis Ces. SPECIES
 
 #### Status
 ACCEPTED

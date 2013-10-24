@@ -1,5 +1,4 @@
-Annulatopsophosphaera tremata Pykhova, 1973 SPECIES
-=======
+# Annulatopsophosphaera tremata Pykhova, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora virescens (Link) Wallr. SPECIES
-=======
+# Oospora virescens (Link) Wallr. SPECIES
 
 #### Status
 ACCEPTED

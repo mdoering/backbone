@@ -1,5 +1,4 @@
-Rhabdoderma transsylvanicum (Kol) Komárek & Anagnostidis SPECIES
-=======
+# Rhabdoderma transsylvanicum (Kol) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

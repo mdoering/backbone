@@ -1,5 +1,4 @@
-Kainomyces alutellae Thaxt. SPECIES
-=======
+# Kainomyces alutellae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

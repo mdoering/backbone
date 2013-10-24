@@ -1,5 +1,4 @@
-Thamnolia luctuosa (Hue) Gyeln. SPECIES
-=======
+# Thamnolia luctuosa (Hue) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

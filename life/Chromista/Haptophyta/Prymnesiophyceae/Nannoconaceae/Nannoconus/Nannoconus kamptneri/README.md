@@ -1,11 +1,10 @@
-Nannoconus kamptneri subsp. kamptneri SUBSPECIES
-=======
+# Nannoconus kamptneri Bronnimann, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Paleobiology Database
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null

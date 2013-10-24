@@ -1,5 +1,4 @@
-Pythium folliculosum B. Paul, 1991 SPECIES
-=======
+# Pythium folliculosum B. Paul, 1991 SPECIES
 
 #### Status
 ACCEPTED

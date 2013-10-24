@@ -1,5 +1,4 @@
-Aecidium steveni Woron. SPECIES
-=======
+# Aecidium steveni Woron. SPECIES
 
 #### Status
 ACCEPTED

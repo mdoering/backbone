@@ -1,5 +1,4 @@
-Filisphaeridium eatonense (Downie, 1959) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium eatonense (Downie, 1959) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phormidium rubriterricola N. L. Gardner SPECIES
-=======
+# Phormidium rubriterricola N. L. Gardner SPECIES
 
 #### Status
 ACCEPTED

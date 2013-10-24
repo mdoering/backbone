@@ -1,5 +1,4 @@
-Protomyces pachydermus Thüm., 1874 SPECIES
-=======
+# Protomyces pachydermus Thüm., 1874 SPECIES
 
 #### Status
 ACCEPTED

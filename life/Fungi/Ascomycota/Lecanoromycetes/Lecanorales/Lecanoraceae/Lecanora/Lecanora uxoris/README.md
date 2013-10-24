@@ -1,5 +1,4 @@
-Lecanora uxoris Werner SPECIES
-=======
+# Lecanora uxoris Werner SPECIES
 
 #### Status
 ACCEPTED

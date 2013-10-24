@@ -1,17 +1,16 @@
-Corynespora holopetae S.L. Jain, A.N. Rai & P. Mehta SPECIES
-=======
+# Corynespora holopteleae S.L. Jain, A.N. Rai & P. Mehta SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 55(1): 52 (2002)
 
 #### Original name
-Corynespora holopetae S.L. Jain, A.N. Rai & P. Mehta
+Corynespora holopteleae S.L. Jain, A.N. Rai & P. Mehta
 
 ### Remarks
 null

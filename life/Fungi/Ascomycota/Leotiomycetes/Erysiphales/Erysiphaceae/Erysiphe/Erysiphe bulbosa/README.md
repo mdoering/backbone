@@ -1,5 +1,4 @@
-Erysiphe bulbosa (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe bulbosa (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

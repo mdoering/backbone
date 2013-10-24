@@ -1,5 +1,4 @@
-Conarachnium facetum (Haeckel) Takahashi, 1991 SPECIES
-=======
+# Conarachnium facetum (Haeckel) Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

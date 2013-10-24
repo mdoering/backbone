@@ -1,5 +1,4 @@
-Sarcoscypha javensis Höhn. SPECIES
-=======
+# Sarcoscypha javensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

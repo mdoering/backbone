@@ -1,5 +1,4 @@
-Pertusaria macloviana Müll. Arg. SPECIES
-=======
+# Pertusaria macloviana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

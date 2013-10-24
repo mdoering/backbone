@@ -1,5 +1,4 @@
-Sphaeria amylospora P. Karst. SPECIES
-=======
+# Sphaeria amylospora P. Karst. SPECIES
 
 #### Status
 ACCEPTED

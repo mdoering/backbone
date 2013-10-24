@@ -1,5 +1,4 @@
-Sigmamiliolinella denticollaris Zheng, 1988 SPECIES
-=======
+# Sigmamiliolinella denticollaris Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

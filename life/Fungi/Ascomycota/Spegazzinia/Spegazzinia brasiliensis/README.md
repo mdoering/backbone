@@ -1,5 +1,4 @@
-Spegazzinia brasiliensis Speg. SPECIES
-=======
+# Spegazzinia brasiliensis Speg. SPECIES
 
 #### Status
 ACCEPTED

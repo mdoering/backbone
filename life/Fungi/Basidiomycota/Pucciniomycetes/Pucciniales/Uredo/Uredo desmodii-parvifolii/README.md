@@ -1,5 +1,4 @@
-Uredo desmodii-parvifolii Petch SPECIES
-=======
+# Uredo desmodii-parvifolii Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena conocephala Henn. SPECIES
-=======
+# Mycena conocephala Henn. SPECIES
 
 #### Status
 ACCEPTED

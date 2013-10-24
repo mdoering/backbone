@@ -1,5 +1,4 @@
-Trochila puccinioidea De Not. SPECIES
-=======
+# Trochila puccinioidea De Not. SPECIES
 
 #### Status
 ACCEPTED

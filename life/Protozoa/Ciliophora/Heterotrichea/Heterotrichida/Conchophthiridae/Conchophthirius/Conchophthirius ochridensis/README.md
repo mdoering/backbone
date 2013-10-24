@@ -1,5 +1,4 @@
-Conchophthirius ochridensis SPECIES
-=======
+# Conchophthirius ochridensis SPECIES
 
 #### Status
 ACCEPTED

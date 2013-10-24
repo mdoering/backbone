@@ -1,14 +1,13 @@
-Stenocybe ahtii Titov & Baibul. SPECIES
-=======
+# Phaeocalicium ahtii (Titov & Baibul.) Titov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Titov, Acta bot. fenn. 150: 197 (1994)
+in Wei & Titov, Nov. sist. Niz. Rast. 34: 107 (2001)
 
 #### Original name
 Stenocybe ahtii Titov & Baibul.

@@ -1,5 +1,4 @@
-Psilopezia flavida Berk. & M.A. Curtis SPECIES
-=======
+# Psilopezia flavida Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta moquileae Bat. SPECIES
-=======
+# Phyllosticta moquileae Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prorocentrum adriaticum Schiller SPECIES
-=======
+# Prorocentrum adriaticum Schiller SPECIES
 
 #### Status
 ACCEPTED

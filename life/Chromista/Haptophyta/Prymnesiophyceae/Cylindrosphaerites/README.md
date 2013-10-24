@@ -1,5 +1,4 @@
-Cylindrosphaerites Maslov in Ju.A. Orlov, 1963 GENUS
-=======
+# Cylindrosphaerites Maslov in Ju.A. Orlov, 1963 GENUS
 
 #### Status
 ACCEPTED

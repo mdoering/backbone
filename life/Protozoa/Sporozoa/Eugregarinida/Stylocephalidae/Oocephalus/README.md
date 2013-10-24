@@ -1,5 +1,4 @@
-Oocephalus Schneider, 1886 GENUS
-=======
+# Oocephalus Schneider, 1886 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria eriobotryae Maffei SPECIES
-=======
+# Septoria eriobotryae Maffei SPECIES
 
 #### Status
 ACCEPTED

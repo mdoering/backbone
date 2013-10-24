@@ -1,5 +1,4 @@
-Distorimula F. San Martín, P. Lavín, Esqueda GENUS
-=======
+# Distorimula F. San Martín, P. Lavín, Esqueda GENUS
 
 #### Status
 ACCEPTED

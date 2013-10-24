@@ -1,14 +1,13 @@
-Desmazieria peruviana (Ach.) Follmann & Huneck SPECIES
-=======
+# Ramalina peruviana Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. univ. 599 (1810)
 
 #### Original name
 Ramalina peruviana Ach.

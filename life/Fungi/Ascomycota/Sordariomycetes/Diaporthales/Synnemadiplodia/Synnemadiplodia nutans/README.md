@@ -1,5 +1,4 @@
-Synnemadiplodia nutans (Speg.) Zambett. SPECIES
-=======
+# Synnemadiplodia nutans (Speg.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

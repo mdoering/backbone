@@ -1,5 +1,4 @@
-Marasmius geophyllus Henn. SPECIES
-=======
+# Marasmius geophyllus Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Atractium olivaceum J.C. Schmidt SPECIES
-=======
+# Atractium olivaceum J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

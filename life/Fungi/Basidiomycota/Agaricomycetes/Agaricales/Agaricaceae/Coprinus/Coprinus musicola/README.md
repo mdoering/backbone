@@ -1,5 +1,4 @@
-Coprinus musicola Berk. SPECIES
-=======
+# Coprinus musicola Berk. SPECIES
 
 #### Status
 ACCEPTED

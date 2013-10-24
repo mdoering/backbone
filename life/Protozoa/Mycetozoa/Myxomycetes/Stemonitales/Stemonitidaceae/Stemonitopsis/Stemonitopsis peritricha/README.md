@@ -1,14 +1,13 @@
-Comatricha peritricha Nann.-Bremek., 1971 SPECIES
-=======
+# Stemonitopsis peritricha (Nann.-Bremek.) Nann.-Bremek., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 74(4): 361 (1971)
+Nederlandse Myxomyceten (Amsterdam) 212 (1975)
 
 #### Original name
 Comatricha peritricha Nann.-Bremek., 1971

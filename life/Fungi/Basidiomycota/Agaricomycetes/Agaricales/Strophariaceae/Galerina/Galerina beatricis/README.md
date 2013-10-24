@@ -1,5 +1,4 @@
-Galerina beatricis Bas SPECIES
-=======
+# Galerina beatricis Bas SPECIES
 
 #### Status
 ACCEPTED

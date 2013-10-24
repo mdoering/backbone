@@ -1,14 +1,13 @@
-Gymnoascus verticillatus A.L. Sm., 1900 SPECIES
-=======
+# Actinodendron verticillatum (A.L. Sm.) G.F. Orr & Kuehn, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopathologia 21: 212 (1963)
 
 #### Original name
 Gymnoascus verticillatus A.L. Sm., 1900

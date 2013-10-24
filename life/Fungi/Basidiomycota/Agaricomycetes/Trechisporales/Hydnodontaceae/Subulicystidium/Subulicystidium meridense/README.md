@@ -1,5 +1,4 @@
-Subulicystidium meridense Oberw., 1977 SPECIES
-=======
+# Subulicystidium meridense Oberw., 1977 SPECIES
 
 #### Status
 ACCEPTED

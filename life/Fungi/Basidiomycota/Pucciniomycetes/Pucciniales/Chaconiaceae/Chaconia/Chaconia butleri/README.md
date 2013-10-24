@@ -1,14 +1,13 @@
-Blastospora butleri Syd. & P. Syd., 1912 SPECIES
-=======
+# Chaconia butleri (Syd. & P. Syd.) Mains, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sydow, Sydow & Butler, Annls mycol. 10: 266 (1912)
+Am. J. Bot. 25: 678 (1938)
 
 #### Original name
 Blastospora butleri Syd. & P. Syd., 1912

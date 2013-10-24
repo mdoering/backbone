@@ -1,5 +1,4 @@
-Cercospora bulgarica Christoff SPECIES
-=======
+# Cercospora bulgarica Christoff SPECIES
 
 #### Status
 ACCEPTED

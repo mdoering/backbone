@@ -1,5 +1,4 @@
-Diplodina caricis Grove, 1935 SPECIES
-=======
+# Diplodina caricis Grove, 1935 SPECIES
 
 #### Status
 ACCEPTED

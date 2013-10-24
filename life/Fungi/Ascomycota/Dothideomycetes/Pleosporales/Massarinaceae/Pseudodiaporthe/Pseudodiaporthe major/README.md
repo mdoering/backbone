@@ -1,5 +1,4 @@
-Pseudodiaporthe major Speg. SPECIES
-=======
+# Pseudodiaporthe major Speg. SPECIES
 
 #### Status
 ACCEPTED

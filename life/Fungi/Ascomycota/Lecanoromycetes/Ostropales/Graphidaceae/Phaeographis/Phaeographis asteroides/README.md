@@ -1,5 +1,4 @@
-Phaeographis asteroides (Fink) Lendemer SPECIES
-=======
+# Phaeographis asteroides (Fink) Lendemer SPECIES
 
 #### Status
 ACCEPTED

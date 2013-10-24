@@ -1,5 +1,4 @@
-Donicola GENUS
-=======
+# Donicola GENUS
 
 #### Status
 ACCEPTED

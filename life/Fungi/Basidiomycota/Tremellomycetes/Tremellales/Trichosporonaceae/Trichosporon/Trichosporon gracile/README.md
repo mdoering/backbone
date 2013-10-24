@@ -1,8 +1,7 @@
-Oidium gracile Weigmann & A. Wolff, 1909 SPECIES
-=======
+# Trichosporon gracile (Weigmann & A. Wolff) E. Guého & M.T. Sm., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

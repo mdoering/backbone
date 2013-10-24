@@ -1,5 +1,4 @@
-Agrocybe pseudoerebia Har. Takah. SPECIES
-=======
+# Agrocybe pseudoerebia Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

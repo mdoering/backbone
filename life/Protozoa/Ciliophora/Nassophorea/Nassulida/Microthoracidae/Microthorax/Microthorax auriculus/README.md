@@ -1,5 +1,4 @@
-Microthorax auriculus Fabre-Domergue, 1886 SPECIES
-=======
+# Microthorax auriculus Fabre-Domergue, 1886 SPECIES
 
 #### Status
 ACCEPTED

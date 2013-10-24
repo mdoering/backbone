@@ -1,17 +1,16 @@
-Glomus epigaeus B.A. Daniels & Trappe SPECIES
-=======
+# Glomus epigaeum B.A. Daniels & Trappe, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 57(5): 540 (1979)
 
 #### Original name
-Glomus epigaeus B.A. Daniels & Trappe
+Glomus epigaeum B.A. Daniels & Trappe, 1979
 
 ### Remarks
 null

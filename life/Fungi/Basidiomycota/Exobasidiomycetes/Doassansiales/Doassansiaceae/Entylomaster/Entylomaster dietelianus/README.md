@@ -1,14 +1,13 @@
-Melanotaenium ari var. dietelianum (Bubák) Cif., 1963 VARIETY
-=======
+# Entylomaster dietelianus (Bubák) Vánky & R.G. Shivas, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Quaderno Ist. Bot. Univ. Pavia 27: 174 (1963)
+Mycol. Balcanica 3(1): 17 (2006)
 
 #### Original name
 Entyloma dietelianum Bubák, 1903

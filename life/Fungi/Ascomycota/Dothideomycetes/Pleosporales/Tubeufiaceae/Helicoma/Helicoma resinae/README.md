@@ -1,5 +1,4 @@
-Helicoma resinae (Lindau) J.L. Crane & Schokn. SPECIES
-=======
+# Helicoma resinae (Lindau) J.L. Crane & Schokn. SPECIES
 
 #### Status
 ACCEPTED

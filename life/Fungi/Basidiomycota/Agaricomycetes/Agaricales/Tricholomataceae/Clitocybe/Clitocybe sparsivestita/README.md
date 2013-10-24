@@ -1,5 +1,4 @@
-Clitocybe sparsivestita H.E. Bigelow SPECIES
-=======
+# Clitocybe sparsivestita H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

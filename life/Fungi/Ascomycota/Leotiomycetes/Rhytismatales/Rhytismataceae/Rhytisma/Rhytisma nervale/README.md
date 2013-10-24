@@ -1,5 +1,4 @@
-Rhytisma nervale (Alb. & Schwein.) Rehm SPECIES
-=======
+# Rhytisma nervale (Alb. & Schwein.) Rehm SPECIES
 
 #### Status
 ACCEPTED

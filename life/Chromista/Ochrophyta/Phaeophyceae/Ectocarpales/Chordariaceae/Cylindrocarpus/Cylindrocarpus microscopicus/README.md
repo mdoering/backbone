@@ -1,11 +1,10 @@
-Ectocarpus investiens Hauck, 1885 SPECIES
-=======
+# Cylindrocarpus microscopicus P.L. Crouan & H.M. Crouan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

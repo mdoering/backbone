@@ -1,5 +1,4 @@
-Cercosporella atropunctata Racib. SPECIES
-=======
+# Cercosporella atropunctata Racib. SPECIES
 
 #### Status
 ACCEPTED

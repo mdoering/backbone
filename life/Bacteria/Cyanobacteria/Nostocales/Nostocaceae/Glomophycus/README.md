@@ -1,5 +1,4 @@
-Glomophycus M.S. Yakschin, 1991 GENUS
-=======
+# Glomophycus M.S. Yakschin, 1991 GENUS
 
 #### Status
 ACCEPTED

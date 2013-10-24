@@ -1,5 +1,4 @@
-Xanthoria liguriensis Klem. & J.M. Steiner SPECIES
-=======
+# Xanthoria liguriensis Klem. & J.M. Steiner SPECIES
 
 #### Status
 ACCEPTED

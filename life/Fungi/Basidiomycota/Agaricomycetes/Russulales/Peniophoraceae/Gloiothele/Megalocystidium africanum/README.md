@@ -1,5 +1,4 @@
-Megalocystidium africanum Boidin, Lanq. & Gilles SPECIES
-=======
+# Megalocystidium africanum Boidin, Lanq. & Gilles SPECIES
 
 #### Status
 ACCEPTED

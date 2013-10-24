@@ -1,5 +1,4 @@
-Pseudocercosporella septorioides (Sacc.) U. Braun SPECIES
-=======
+# Pseudocercosporella septorioides (Sacc.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

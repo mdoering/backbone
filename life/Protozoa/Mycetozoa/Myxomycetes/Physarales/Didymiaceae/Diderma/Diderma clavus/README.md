@@ -1,5 +1,4 @@
-Diderma clavus (Alb. & Schwein.) SPECIES
-=======
+# Diderma clavus (Alb. & Schwein.) SPECIES
 
 #### Status
 ACCEPTED

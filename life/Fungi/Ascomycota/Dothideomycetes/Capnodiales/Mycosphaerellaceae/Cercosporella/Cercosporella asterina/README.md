@@ -1,5 +1,4 @@
-Cercosporella asterina Speg. SPECIES
-=======
+# Cercosporella asterina Speg. SPECIES
 
 #### Status
 ACCEPTED

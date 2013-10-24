@@ -1,5 +1,4 @@
-Treleasia sacchari Speg. SPECIES
-=======
+# Treleasia sacchari Speg. SPECIES
 
 #### Status
 ACCEPTED

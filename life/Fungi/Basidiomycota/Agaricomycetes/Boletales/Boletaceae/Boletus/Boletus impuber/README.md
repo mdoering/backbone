@@ -1,5 +1,4 @@
-Boletus impuber Sowerby SPECIES
-=======
+# Boletus impuber Sowerby SPECIES
 
 #### Status
 ACCEPTED

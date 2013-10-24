@@ -1,5 +1,4 @@
-Cortinarius colus Fr. SPECIES
-=======
+# Cortinarius colus Fr. SPECIES
 
 #### Status
 ACCEPTED

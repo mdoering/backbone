@@ -1,5 +1,4 @@
-Gorillophilus Imai, Ikeda, Collet & Bonhomme, 1991 GENUS
-=======
+# Gorillophilus Imai, Ikeda, Collet & Bonhomme, 1991 GENUS
 
 #### Status
 ACCEPTED

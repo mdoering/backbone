@@ -1,5 +1,4 @@
-Cordyceps mrciensis Aung, J.C. Kang, Z.Q. Liang, Soytong & K.D. Hyde SPECIES
-=======
+# Cordyceps mrciensis Aung, J.C. Kang, Z.Q. Liang, Soytong & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

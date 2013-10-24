@@ -1,5 +1,4 @@
-Escherichia iliaca SPECIES
-=======
+# Escherichia iliaca SPECIES
 
 #### Status
 ACCEPTED

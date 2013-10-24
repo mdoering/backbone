@@ -1,8 +1,7 @@
-Ditripodiaceae FAMILY
-=======
+# Ditripodiidae Deflandre, 1951 FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

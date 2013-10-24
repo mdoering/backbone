@@ -1,5 +1,4 @@
-Gloniopsis De Notaris, 1847 GENUS
-=======
+# Gloniopsis De Notaris, 1847 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalodiscus laevis Ehrenberg SPECIES
-=======
+# Hyalodiscus laevis Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

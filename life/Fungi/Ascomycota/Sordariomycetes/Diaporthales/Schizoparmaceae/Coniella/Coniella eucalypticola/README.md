@@ -1,5 +1,4 @@
-Coniella eucalypticola Nag Raj SPECIES
-=======
+# Coniella eucalypticola Nag Raj SPECIES
 
 #### Status
 ACCEPTED

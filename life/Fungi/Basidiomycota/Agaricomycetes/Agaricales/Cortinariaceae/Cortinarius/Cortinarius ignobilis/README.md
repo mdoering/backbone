@@ -1,5 +1,4 @@
-Cortinarius ignobilis P. Karst. SPECIES
-=======
+# Cortinarius ignobilis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

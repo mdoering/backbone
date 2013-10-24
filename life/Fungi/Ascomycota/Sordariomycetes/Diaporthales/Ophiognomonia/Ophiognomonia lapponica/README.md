@@ -1,5 +1,4 @@
-Ophiognomonia lapponica Vestergr. SPECIES
-=======
+# Ophiognomonia lapponica Vestergr. SPECIES
 
 #### Status
 ACCEPTED

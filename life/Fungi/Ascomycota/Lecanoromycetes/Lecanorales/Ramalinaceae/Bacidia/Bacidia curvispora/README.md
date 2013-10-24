@@ -1,5 +1,4 @@
-Bacidia curvispora Coppins & Fryday SPECIES
-=======
+# Bacidia curvispora Coppins & Fryday SPECIES
 
 #### Status
 ACCEPTED

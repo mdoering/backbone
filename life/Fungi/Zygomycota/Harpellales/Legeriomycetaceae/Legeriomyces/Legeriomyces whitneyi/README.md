@@ -1,5 +1,4 @@
-Legeriomyces whitneyi Strongman & M.M. White, 2008 SPECIES
-=======
+# Legeriomyces whitneyi Strongman & M.M. White, 2008 SPECIES
 
 #### Status
 ACCEPTED

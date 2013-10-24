@@ -1,5 +1,4 @@
-Stentor anceps Fromentel, 1876 SPECIES
-=======
+# Stentor anceps Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

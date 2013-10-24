@@ -1,5 +1,4 @@
-Pseudopyrenula endoxanthoides Vain. SPECIES
-=======
+# Pseudopyrenula endoxanthoides Vain. SPECIES
 
 #### Status
 ACCEPTED

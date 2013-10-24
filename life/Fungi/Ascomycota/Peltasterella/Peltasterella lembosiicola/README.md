@@ -1,5 +1,4 @@
-Peltasterella lembosiicola Bat. & H. Maia SPECIES
-=======
+# Peltasterella lembosiicola Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

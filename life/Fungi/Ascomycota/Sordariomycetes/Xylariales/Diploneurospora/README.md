@@ -1,5 +1,4 @@
-Diploneurospora K.P. Jain & R.C. Gupta GENUS
-=======
+# Diploneurospora K.P. Jain & R.C. Gupta GENUS
 
 #### Status
 ACCEPTED

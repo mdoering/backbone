@@ -1,5 +1,4 @@
-Rinodinella H. Mayrhofer & Poelt GENUS
-=======
+# Rinodinella H. Mayrhofer & Poelt GENUS
 
 #### Status
 ACCEPTED

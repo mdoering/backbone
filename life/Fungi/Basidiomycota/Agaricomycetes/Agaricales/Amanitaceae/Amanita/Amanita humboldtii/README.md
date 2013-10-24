@@ -1,5 +1,4 @@
-Amanita humboldtii Singer SPECIES
-=======
+# Amanita humboldtii Singer SPECIES
 
 #### Status
 ACCEPTED

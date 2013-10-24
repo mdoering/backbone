@@ -1,5 +1,4 @@
-Honigbergiella Hampl, Cepicka & Kulda, 2007 GENUS
-=======
+# Honigbergiella Hampl, Cepicka & Kulda, 2007 GENUS
 
 #### Status
 ACCEPTED

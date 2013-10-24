@@ -1,5 +1,4 @@
-Monotospora toruloides Corda SPECIES
-=======
+# Monotospora toruloides Corda SPECIES
 
 #### Status
 ACCEPTED

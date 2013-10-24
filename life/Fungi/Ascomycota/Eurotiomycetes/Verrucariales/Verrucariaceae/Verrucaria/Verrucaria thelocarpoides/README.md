@@ -1,5 +1,4 @@
-Verrucaria thelocarpoides Kremp. SPECIES
-=======
+# Verrucaria thelocarpoides Kremp. SPECIES
 
 #### Status
 ACCEPTED

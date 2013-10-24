@@ -1,5 +1,4 @@
-Phakopsora rossmaniae Dianese, L.T.P. Santos & D.J. Tessmann SPECIES
-=======
+# Phakopsora rossmaniae Dianese, L.T.P. Santos & D.J. Tessmann SPECIES
 
 #### Status
 ACCEPTED

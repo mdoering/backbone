@@ -1,5 +1,4 @@
-Lycoperdon eylesii Verwoerd SPECIES
-=======
+# Lycoperdon eylesii Verwoerd SPECIES
 
 #### Status
 ACCEPTED

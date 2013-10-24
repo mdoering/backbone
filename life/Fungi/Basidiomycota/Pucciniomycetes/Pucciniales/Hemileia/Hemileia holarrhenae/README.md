@@ -1,5 +1,4 @@
-Hemileia holarrhenae Syd. & P. Syd., 1914 SPECIES
-=======
+# Hemileia holarrhenae Syd. & P. Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

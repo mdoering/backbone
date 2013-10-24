@@ -1,17 +1,16 @@
-Thecaphora aterrima var. aterrima VARIETY
-=======
+# Moreaua aterrima (Tul. & C. Tul.) Vánky, 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 7: 110 (1847)
+Mycotaxon 74(2): 351 (2000)
 
 #### Original name
-Thecaphora aterrima var. aterrima
+Thecaphora aterrima Tul. & C. Tul., 1847
 
 ### Remarks
 null

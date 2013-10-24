@@ -1,5 +1,4 @@
-Venturia corni E. Müll. SPECIES
-=======
+# Venturia corni E. Müll. SPECIES
 
 #### Status
 ACCEPTED

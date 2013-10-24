@@ -1,5 +1,4 @@
-Placosoma nothopanacis Syd., 1924 SPECIES
-=======
+# Placosoma nothopanacis Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo cheiranthi Pers. SPECIES
-=======
+# Uredo cheiranthi Pers. SPECIES
 
 #### Status
 ACCEPTED

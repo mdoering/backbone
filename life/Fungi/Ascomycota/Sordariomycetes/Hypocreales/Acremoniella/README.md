@@ -1,17 +1,16 @@
-Monopodium Delacr. GENUS
-=======
+# Acremoniella Saccardo, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Soc. mycol. Fr. 6: 99 (1890)
+null
 
 #### Original name
-Monopodium Delacr.
+null
 
 ### Remarks
 null

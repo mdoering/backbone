@@ -1,5 +1,4 @@
-Podosordaria truncata (Pat. & Gaillard) P.M.D. Martin SPECIES
-=======
+# Podosordaria truncata (Pat. & Gaillard) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

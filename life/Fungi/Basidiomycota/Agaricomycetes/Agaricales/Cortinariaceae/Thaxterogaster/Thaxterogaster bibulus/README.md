@@ -1,17 +1,16 @@
-Thaxterogaster bibulum Singer SPECIES
-=======
+# Thaxterogaster bibulus Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia, Beih. 29: 361 (1969)
 
 #### Original name
-Thaxterogaster bibulum Singer
+Thaxterogaster bibulus Singer
 
 ### Remarks
 null

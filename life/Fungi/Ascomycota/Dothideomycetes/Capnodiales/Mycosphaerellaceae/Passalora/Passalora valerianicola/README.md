@@ -1,5 +1,4 @@
-Passalora valerianicola (H.D. Shin & U. Braun) U. Braun & Crous SPECIES
-=======
+# Passalora valerianicola (H.D. Shin & U. Braun) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

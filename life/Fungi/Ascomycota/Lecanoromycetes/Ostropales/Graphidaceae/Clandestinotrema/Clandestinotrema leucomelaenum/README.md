@@ -1,5 +1,4 @@
-Clandestinotrema leucomelaenum (Nyl.) Rivas Plata, Lücking & Lumbsch SPECIES
-=======
+# Clandestinotrema leucomelaenum (Nyl.) Rivas Plata, Lücking & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype smilacicola (Schwein.) Berk. SPECIES
-=======
+# Diatrype smilacicola (Schwein.) Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula rostraticystidia T. Lebel SPECIES
-=======
+# Russula rostraticystidia T. Lebel SPECIES
 
 #### Status
 ACCEPTED

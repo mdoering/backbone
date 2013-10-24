@@ -1,5 +1,4 @@
-Galerina inflata A.E. Wood SPECIES
-=======
+# Galerina inflata A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

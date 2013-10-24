@@ -1,5 +1,4 @@
-Arthothelium dendriticum B. de Lesd. SPECIES
-=======
+# Arthothelium dendriticum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

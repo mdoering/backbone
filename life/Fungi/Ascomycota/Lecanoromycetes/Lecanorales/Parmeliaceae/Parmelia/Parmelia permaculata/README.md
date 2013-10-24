@@ -1,5 +1,4 @@
-Parmelia permaculata Hale SPECIES
-=======
+# Parmelia permaculata Hale SPECIES
 
 #### Status
 ACCEPTED

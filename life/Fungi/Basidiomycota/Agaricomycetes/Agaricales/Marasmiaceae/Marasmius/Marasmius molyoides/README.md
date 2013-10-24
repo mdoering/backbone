@@ -1,5 +1,4 @@
-Marasmius molyoides Fr. SPECIES
-=======
+# Marasmius molyoides Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola randiae Hansf. & Deighton SPECIES
-=======
+# Meliola randiae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

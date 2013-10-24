@@ -1,5 +1,4 @@
-Diplodia extensa Cooke & Harkn. SPECIES
-=======
+# Diplodia extensa Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

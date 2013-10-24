@@ -1,5 +1,4 @@
-Mycena atridisca Murrill SPECIES
-=======
+# Mycena atridisca Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sagedia crassa SPECIES
-=======
+# Sagedia crassa SPECIES
 
 #### Status
 ACCEPTED

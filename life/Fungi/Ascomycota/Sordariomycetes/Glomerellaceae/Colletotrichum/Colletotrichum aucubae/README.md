@@ -1,5 +1,4 @@
-Colletotrichum aucubae Gutner SPECIES
-=======
+# Colletotrichum aucubae Gutner SPECIES
 
 #### Status
 ACCEPTED

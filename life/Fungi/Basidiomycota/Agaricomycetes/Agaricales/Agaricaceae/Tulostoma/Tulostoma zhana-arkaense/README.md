@@ -1,5 +1,4 @@
-Tulostoma zhana-arkaense Schwarzman & Philimonova SPECIES
-=======
+# Tulostoma zhana-arkaense Schwarzman & Philimonova SPECIES
 
 #### Status
 ACCEPTED

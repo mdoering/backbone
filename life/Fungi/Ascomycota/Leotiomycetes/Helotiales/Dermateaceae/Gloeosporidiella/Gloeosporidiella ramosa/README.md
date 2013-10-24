@@ -1,5 +1,4 @@
-Gloeosporidiella ramosa (Ellis & Everh.) Arx SPECIES
-=======
+# Gloeosporidiella ramosa (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

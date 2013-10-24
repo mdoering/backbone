@@ -1,5 +1,4 @@
-Gnomonia radicicola Noordel., Kesteren & Veenb.-Rijks, 1989 SPECIES
-=======
+# Gnomonia radicicola Noordel., Kesteren & Veenb.-Rijks, 1989 SPECIES
 
 #### Status
 ACCEPTED

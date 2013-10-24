@@ -1,5 +1,4 @@
-Craterellus pulverulentus Berk. & M.A. Curtis SPECIES
-=======
+# Craterellus pulverulentus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

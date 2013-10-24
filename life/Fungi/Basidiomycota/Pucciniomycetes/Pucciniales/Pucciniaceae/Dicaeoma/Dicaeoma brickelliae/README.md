@@ -1,5 +1,4 @@
-Dicaeoma brickelliae (Peck) Kuntze SPECIES
-=======
+# Dicaeoma brickelliae (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

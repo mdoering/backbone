@@ -1,5 +1,4 @@
-Idriella mycophila R.F. Castañeda, Guarro & Cano SPECIES
-=======
+# Idriella mycophila R.F. Castañeda, Guarro & Cano SPECIES
 
 #### Status
 ACCEPTED

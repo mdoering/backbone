@@ -1,5 +1,4 @@
-Biporisporites rotundus P. Ke & Z.Y. Shi SPECIES
-=======
+# Biporisporites rotundus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

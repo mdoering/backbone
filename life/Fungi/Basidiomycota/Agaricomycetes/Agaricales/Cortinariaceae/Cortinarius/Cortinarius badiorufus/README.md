@@ -1,5 +1,4 @@
-Cortinarius badiorufus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius badiorufus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

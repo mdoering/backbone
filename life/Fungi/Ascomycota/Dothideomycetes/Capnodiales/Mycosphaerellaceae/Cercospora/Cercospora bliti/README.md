@@ -1,5 +1,4 @@
-Cercospora bliti Tharp SPECIES
-=======
+# Cercospora bliti Tharp SPECIES
 
 #### Status
 ACCEPTED

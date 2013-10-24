@@ -1,5 +1,4 @@
-Pseudocercospora siparunae D.J. Soares & R.W. Barreto SPECIES
-=======
+# Pseudocercospora siparunae D.J. Soares & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

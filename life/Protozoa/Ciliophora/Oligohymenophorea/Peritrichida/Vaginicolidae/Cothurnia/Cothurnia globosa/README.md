@@ -1,5 +1,4 @@
-Cothurnia globosa SPECIES
-=======
+# Cothurnia globosa SPECIES
 
 #### Status
 ACCEPTED

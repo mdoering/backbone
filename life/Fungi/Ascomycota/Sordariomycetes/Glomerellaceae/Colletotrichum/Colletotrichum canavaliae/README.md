@@ -1,5 +1,4 @@
-Colletotrichum canavaliae Boedijn SPECIES
-=======
+# Colletotrichum canavaliae Boedijn SPECIES
 
 #### Status
 ACCEPTED

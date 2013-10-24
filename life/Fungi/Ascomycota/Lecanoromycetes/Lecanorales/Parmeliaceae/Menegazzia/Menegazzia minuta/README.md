@@ -1,5 +1,4 @@
-Menegazzia minuta P. James & Kantvilas SPECIES
-=======
+# Menegazzia minuta P. James & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

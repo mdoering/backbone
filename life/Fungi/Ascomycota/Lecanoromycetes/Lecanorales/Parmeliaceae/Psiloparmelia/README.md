@@ -1,5 +1,4 @@
-Psiloparmelia Hale GENUS
-=======
+# Psiloparmelia Hale GENUS
 
 #### Status
 ACCEPTED

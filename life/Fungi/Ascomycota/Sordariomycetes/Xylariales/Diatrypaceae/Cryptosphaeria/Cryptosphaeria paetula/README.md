@@ -1,5 +1,4 @@
-Cryptosphaeria paetula (Fr.) Ellis SPECIES
-=======
+# Cryptosphaeria paetula (Fr.) Ellis SPECIES
 
 #### Status
 ACCEPTED

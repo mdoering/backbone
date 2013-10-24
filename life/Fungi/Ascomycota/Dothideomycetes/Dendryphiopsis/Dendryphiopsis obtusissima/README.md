@@ -1,5 +1,4 @@
-Dendryphiopsis obtusissima (Berk. & M.A. Curtis) M.B. Ellis SPECIES
-=======
+# Dendryphiopsis obtusissima (Berk. & M.A. Curtis) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

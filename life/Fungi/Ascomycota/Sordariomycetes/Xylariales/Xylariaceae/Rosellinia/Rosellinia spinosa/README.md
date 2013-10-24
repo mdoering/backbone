@@ -1,5 +1,4 @@
-Rosellinia spinosa Harkn. SPECIES
-=======
+# Rosellinia spinosa Harkn. SPECIES
 
 #### Status
 ACCEPTED

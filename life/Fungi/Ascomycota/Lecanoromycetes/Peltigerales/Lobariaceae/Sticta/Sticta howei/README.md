@@ -1,17 +1,16 @@
-Sticta sinuosa var. macrophylla Müll. Arg. VARIETY
-=======
+# Sticta howei D.J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 30: 238 (1891)
+Trop. Bryol. 15: 137 (1998)
 
 #### Original name
-Sticta sinuosa var. macrophylla Müll. Arg.
+Sticta howei D.J. Galloway
 
 ### Remarks
 null

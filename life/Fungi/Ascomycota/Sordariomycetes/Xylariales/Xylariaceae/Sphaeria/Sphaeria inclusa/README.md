@@ -1,5 +1,4 @@
-Sphaeria inclusa Lasch SPECIES
-=======
+# Sphaeria inclusa Lasch SPECIES
 
 #### Status
 ACCEPTED

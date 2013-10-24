@@ -1,5 +1,4 @@
-Mycena insueta Grgur. SPECIES
-=======
+# Mycena insueta Grgur. SPECIES
 
 #### Status
 ACCEPTED

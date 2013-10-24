@@ -1,5 +1,4 @@
-Trabutiella macrospora I. Hino & Katum. SPECIES
-=======
+# Trabutiella macrospora I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

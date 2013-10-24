@@ -1,5 +1,4 @@
-Anaptychia isidiza Kurok. SPECIES
-=======
+# Anaptychia isidiza Kurok. SPECIES
 
 #### Status
 ACCEPTED

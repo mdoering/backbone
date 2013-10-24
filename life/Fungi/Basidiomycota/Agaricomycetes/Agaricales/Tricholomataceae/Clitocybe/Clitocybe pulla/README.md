@@ -1,5 +1,4 @@
-Clitocybe pulla Gillet SPECIES
-=======
+# Clitocybe pulla Gillet SPECIES
 
 #### Status
 ACCEPTED

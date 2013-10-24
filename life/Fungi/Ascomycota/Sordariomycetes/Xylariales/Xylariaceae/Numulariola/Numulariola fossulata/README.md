@@ -1,5 +1,4 @@
-Numulariola fossulata (Mont.) P.M.D. Martin SPECIES
-=======
+# Numulariola fossulata (Mont.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora vincae Hollós SPECIES
-=======
+# Cytospora vincae Hollós SPECIES
 
 #### Status
 ACCEPTED

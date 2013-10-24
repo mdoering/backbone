@@ -1,5 +1,4 @@
-Cellypha panamensis W.B. Cooke SPECIES
-=======
+# Cellypha panamensis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

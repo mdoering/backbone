@@ -1,5 +1,4 @@
-Protothyrium tricalysiae Doidge, 1948 SPECIES
-=======
+# Protothyrium tricalysiae Doidge, 1948 SPECIES
 
 #### Status
 ACCEPTED

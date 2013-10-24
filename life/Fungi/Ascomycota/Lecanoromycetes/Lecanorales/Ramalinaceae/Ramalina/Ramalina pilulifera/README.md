@@ -1,5 +1,4 @@
-Ramalina pilulifera Taylor SPECIES
-=======
+# Ramalina pilulifera Taylor SPECIES
 
 #### Status
 ACCEPTED

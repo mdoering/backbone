@@ -1,5 +1,4 @@
-Coriolus brunneolus (Berk.) Pat. SPECIES
-=======
+# Coriolus brunneolus (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta leonuricola Shirn.-Grish. SPECIES
-=======
+# Ascochyta leonuricola Shirn.-Grish. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Skepperiella cochlearis Pegler, 1973 SPECIES
-=======
+# Skepperiella cochlearis Pegler, 1973 SPECIES
 
 #### Status
 ACCEPTED

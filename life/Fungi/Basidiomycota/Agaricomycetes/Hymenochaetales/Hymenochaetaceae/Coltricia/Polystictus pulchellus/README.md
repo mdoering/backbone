@@ -1,5 +1,4 @@
-Polystictus pulchellus Sacc. ex Cooke SPECIES
-=======
+# Polystictus pulchellus Sacc. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

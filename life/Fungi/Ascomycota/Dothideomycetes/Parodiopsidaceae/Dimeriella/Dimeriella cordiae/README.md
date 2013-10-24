@@ -1,5 +1,4 @@
-Dimeriella cordiae (Henn.) Theiss. SPECIES
-=======
+# Dimeriella cordiae (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

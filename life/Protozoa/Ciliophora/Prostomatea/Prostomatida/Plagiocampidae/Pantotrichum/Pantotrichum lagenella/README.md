@@ -1,5 +1,4 @@
-Pantotrichum lagenella SPECIES
-=======
+# Pantotrichum lagenella SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia trifoliatae Ellis & Everh. SPECIES
-=======
+# Puccinia trifoliatae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

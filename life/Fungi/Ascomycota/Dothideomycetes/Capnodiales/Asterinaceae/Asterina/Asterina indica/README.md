@@ -1,5 +1,4 @@
-Asterina indica Syd. & P. Syd. SPECIES
-=======
+# Asterina indica Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

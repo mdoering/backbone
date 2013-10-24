@@ -1,5 +1,4 @@
-Gyalideopsis philippiae Vezda SPECIES
-=======
+# Gyalideopsis philippiae Vezda SPECIES
 
 #### Status
 ACCEPTED

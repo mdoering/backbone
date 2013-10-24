@@ -1,5 +1,4 @@
-Thalassoxanthium Haeckel, 1881 GENUS
-=======
+# Thalassoxanthium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

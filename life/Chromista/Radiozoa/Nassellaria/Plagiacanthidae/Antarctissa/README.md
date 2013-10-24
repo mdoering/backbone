@@ -1,5 +1,4 @@
-Antarctissa Petrushevskaya, 1967 GENUS
-=======
+# Antarctissa Petrushevskaya, 1967 GENUS
 
 #### Status
 ACCEPTED

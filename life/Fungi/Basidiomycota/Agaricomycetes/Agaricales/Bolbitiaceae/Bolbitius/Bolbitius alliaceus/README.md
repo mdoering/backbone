@@ -1,5 +1,4 @@
-Bolbitius alliaceus Beeli SPECIES
-=======
+# Bolbitius alliaceus Beeli SPECIES
 
 #### Status
 ACCEPTED

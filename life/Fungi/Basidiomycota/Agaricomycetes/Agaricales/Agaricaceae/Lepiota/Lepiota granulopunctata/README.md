@@ -1,5 +1,4 @@
-Lepiota granulopunctata Locq. ex Bon SPECIES
-=======
+# Lepiota granulopunctata Locq. ex Bon SPECIES
 
 #### Status
 ACCEPTED

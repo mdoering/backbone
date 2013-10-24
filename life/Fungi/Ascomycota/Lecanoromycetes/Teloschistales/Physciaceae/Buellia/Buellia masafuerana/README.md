@@ -1,5 +1,4 @@
-Buellia masafuerana Zahlbr. SPECIES
-=======
+# Buellia masafuerana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

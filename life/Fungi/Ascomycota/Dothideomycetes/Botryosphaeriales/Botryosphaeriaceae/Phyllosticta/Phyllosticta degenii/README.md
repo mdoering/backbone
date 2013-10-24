@@ -1,5 +1,4 @@
-Phyllosticta degenii Moesz SPECIES
-=======
+# Phyllosticta degenii Moesz SPECIES
 
 #### Status
 ACCEPTED

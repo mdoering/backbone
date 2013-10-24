@@ -1,5 +1,4 @@
-Graphyllium ipomoeae (Clem.) M.E. Barr SPECIES
-=======
+# Graphyllium ipomoeae (Clem.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

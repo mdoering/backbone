@@ -1,5 +1,4 @@
-Lecidea brenneri H. Magn. SPECIES
-=======
+# Lecidea brenneri H. Magn. SPECIES
 
 #### Status
 ACCEPTED

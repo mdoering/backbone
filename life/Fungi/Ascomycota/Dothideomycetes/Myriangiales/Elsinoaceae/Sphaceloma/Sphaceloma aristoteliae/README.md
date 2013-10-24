@@ -1,5 +1,4 @@
-Sphaceloma aristoteliae (A.L. Sm. & Ramsb.) Jenkins SPECIES
-=======
+# Sphaceloma aristoteliae (A.L. Sm. & Ramsb.) Jenkins SPECIES
 
 #### Status
 ACCEPTED

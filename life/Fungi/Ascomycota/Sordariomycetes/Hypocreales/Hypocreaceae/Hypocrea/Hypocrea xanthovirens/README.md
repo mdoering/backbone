@@ -1,5 +1,4 @@
-Hypocrea xanthovirens Yoshim. Doi SPECIES
-=======
+# Hypocrea xanthovirens Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia valsoides Peck SPECIES
-=======
+# Diplodia valsoides Peck SPECIES
 
 #### Status
 ACCEPTED

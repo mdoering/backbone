@@ -1,5 +1,4 @@
-Tanzanella J.A. Lees, 2007 GENUS
-=======
+# Tanzanella J.A. Lees, 2007 GENUS
 
 #### Status
 ACCEPTED

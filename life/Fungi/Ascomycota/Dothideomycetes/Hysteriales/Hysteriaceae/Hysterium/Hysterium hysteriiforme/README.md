@@ -1,5 +1,4 @@
-Hysterium hysteriiforme Schwein. SPECIES
-=======
+# Hysterium hysteriiforme Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicosporium decumbens Linder SPECIES
-=======
+# Helicosporium decumbens Linder SPECIES
 
 #### Status
 ACCEPTED

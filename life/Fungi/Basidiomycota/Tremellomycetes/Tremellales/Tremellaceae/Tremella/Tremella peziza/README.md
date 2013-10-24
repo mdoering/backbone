@@ -1,5 +1,4 @@
-Tremella peziza Pers. SPECIES
-=======
+# Tremella peziza Pers. SPECIES
 
 #### Status
 ACCEPTED

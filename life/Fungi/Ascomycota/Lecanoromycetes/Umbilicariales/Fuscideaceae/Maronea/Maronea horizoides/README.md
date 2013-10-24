@@ -1,5 +1,4 @@
-Maronea horizoides (Müll. Arg.) Vain. SPECIES
-=======
+# Maronea horizoides (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

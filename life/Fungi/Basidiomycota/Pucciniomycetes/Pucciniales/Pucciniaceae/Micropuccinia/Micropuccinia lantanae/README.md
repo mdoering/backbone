@@ -1,5 +1,4 @@
-Micropuccinia lantanae (Farl.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia lantanae (Farl.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

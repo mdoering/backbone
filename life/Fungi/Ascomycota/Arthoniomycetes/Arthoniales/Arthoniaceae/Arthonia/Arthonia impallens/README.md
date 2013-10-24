@@ -1,5 +1,4 @@
-Arthonia impallens Nyl. SPECIES
-=======
+# Arthonia impallens Nyl. SPECIES
 
 #### Status
 ACCEPTED

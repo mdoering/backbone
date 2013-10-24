@@ -1,5 +1,4 @@
-Xipha Blome, 1984 GENUS
-=======
+# Xipha Blome, 1984 GENUS
 
 #### Status
 ACCEPTED

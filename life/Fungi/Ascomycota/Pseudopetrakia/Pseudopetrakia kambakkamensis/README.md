@@ -1,14 +1,13 @@
-Petrakia kambakkamensis Subram., 1957 SPECIES
-=======
+# Pseudopetrakia kambakkamensis (Subram.) M.B. Ellis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 1(Petrak-Festschrift): 14 (1957)
+Mycol. Pap. 125: 4 (1971)
 
 #### Original name
 Petrakia kambakkamensis Subram., 1957

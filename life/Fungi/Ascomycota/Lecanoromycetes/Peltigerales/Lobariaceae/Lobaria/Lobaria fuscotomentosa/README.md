@@ -1,5 +1,4 @@
-Lobaria fuscotomentosa Yoshim. SPECIES
-=======
+# Lobaria fuscotomentosa Yoshim. SPECIES
 
 #### Status
 ACCEPTED

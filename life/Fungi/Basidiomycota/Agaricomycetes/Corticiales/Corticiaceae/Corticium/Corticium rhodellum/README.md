@@ -1,5 +1,4 @@
-Corticium rhodellum Peck SPECIES
-=======
+# Corticium rhodellum Peck SPECIES
 
 #### Status
 ACCEPTED

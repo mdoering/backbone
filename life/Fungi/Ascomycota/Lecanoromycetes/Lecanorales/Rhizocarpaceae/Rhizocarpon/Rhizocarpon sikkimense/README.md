@@ -1,5 +1,4 @@
-Rhizocarpon sikkimense H. Magn. SPECIES
-=======
+# Rhizocarpon sikkimense H. Magn. SPECIES
 
 #### Status
 ACCEPTED

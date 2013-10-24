@@ -1,5 +1,4 @@
-Haplotrichum armeniacum (Berk. & M.A. Curtis) Partr. & Morgan-Jones SPECIES
-=======
+# Haplotrichum armeniacum (Berk. & M.A. Curtis) Partr. & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

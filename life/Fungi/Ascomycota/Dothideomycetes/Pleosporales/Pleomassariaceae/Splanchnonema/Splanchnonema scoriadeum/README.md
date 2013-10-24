@@ -1,17 +1,16 @@
-Anthostoma scoriadeum (Fr.) Sacc. SPECIES
-=======
+# Splanchnonema scoriadeum (Fr.) M.E. Barr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Index Fungorum
 
 #### Published in
-null
+Mycotaxon 15: 354 (1982)
 
 #### Original name
-null
+Sphaeria scoriadea Fr.
 
 ### Remarks
 null

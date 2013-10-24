@@ -1,5 +1,4 @@
-Ascosphaera acerosa Bissett, G. Duke & Goettel, 1996 SPECIES
-=======
+# Ascosphaera acerosa Bissett, G. Duke & Goettel, 1996 SPECIES
 
 #### Status
 ACCEPTED

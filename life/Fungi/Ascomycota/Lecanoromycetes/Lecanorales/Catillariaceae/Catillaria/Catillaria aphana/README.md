@@ -1,14 +1,13 @@
-Lecidea aphana Nyl. SPECIES
-=======
+# Catillaria aphana (Nyl.) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 50: 327 (1867)
+Lichenologist 21(3): 219 (1989)
 
 #### Original name
 Lecidea aphana Nyl.

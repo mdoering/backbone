@@ -1,17 +1,16 @@
-Trichosphaeria pilosa var. pilosa VARIETY
-=======
+# Trichosphaeria pilosa (Pers.) Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Jb. nassau. Ver. Naturk. 23-24: 145 (1870)
 
 #### Original name
-Trichosphaeria pilosa var. pilosa
+Sphaeria pilosa Pers., 1800
 
 ### Remarks
 null

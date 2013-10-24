@@ -1,5 +1,4 @@
-Ramularia rabdosiae Z.Y. Zhang & W.Q. Chen SPECIES
-=======
+# Ramularia rabdosiae Z.Y. Zhang & W.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

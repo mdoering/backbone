@@ -1,5 +1,4 @@
-Phacus concavus Hortobágyi SPECIES
-=======
+# Phacus concavus Hortobágyi SPECIES
 
 #### Status
 ACCEPTED

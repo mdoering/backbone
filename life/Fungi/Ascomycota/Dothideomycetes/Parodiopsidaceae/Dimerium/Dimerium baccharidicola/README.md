@@ -1,8 +1,7 @@
-Dimerium baccharidicolum (Henn.) Sacc. & P. Syd. SPECIES
-=======
+# Dimerium baccharidicola (Henn.) Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

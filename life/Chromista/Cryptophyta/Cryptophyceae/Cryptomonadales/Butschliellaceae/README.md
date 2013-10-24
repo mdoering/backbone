@@ -1,5 +1,4 @@
-Butschliellaceae FAMILY
-=======
+# Butschliellaceae FAMILY
 
 #### Status
 ACCEPTED

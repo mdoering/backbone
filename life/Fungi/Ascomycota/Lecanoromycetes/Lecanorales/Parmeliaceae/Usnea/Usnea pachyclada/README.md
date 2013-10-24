@@ -1,5 +1,4 @@
-Usnea pachyclada Motyka SPECIES
-=======
+# Usnea pachyclada Motyka SPECIES
 
 #### Status
 ACCEPTED

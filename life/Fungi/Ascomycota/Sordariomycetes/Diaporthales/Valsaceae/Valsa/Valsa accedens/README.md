@@ -1,5 +1,4 @@
-Valsa accedens Sacc. SPECIES
-=======
+# Valsa accedens Sacc. SPECIES
 
 #### Status
 ACCEPTED

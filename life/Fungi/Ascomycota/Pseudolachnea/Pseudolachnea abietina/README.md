@@ -1,5 +1,4 @@
-Pseudolachnea abietina Velen. SPECIES
-=======
+# Pseudolachnea abietina Velen. SPECIES
 
 #### Status
 ACCEPTED

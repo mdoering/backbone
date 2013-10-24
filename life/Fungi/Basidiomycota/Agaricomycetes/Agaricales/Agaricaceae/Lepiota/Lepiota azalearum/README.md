@@ -1,5 +1,4 @@
-Lepiota azalearum (Murrill) Dennis SPECIES
-=======
+# Lepiota azalearum (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

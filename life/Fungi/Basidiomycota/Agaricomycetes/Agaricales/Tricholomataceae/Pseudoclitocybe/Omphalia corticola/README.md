@@ -1,5 +1,4 @@
-Omphalia corticola Peck SPECIES
-=======
+# Omphalia corticola Peck SPECIES
 
 #### Status
 ACCEPTED

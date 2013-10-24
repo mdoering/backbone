@@ -1,5 +1,4 @@
-Blepharisma galianoi Fernandez-Leborans, 1979 SPECIES
-=======
+# Blepharisma galianoi Fernandez-Leborans, 1979 SPECIES
 
 #### Status
 ACCEPTED

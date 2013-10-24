@@ -1,5 +1,4 @@
-Chaetomium retardatum A. Carter & R.S. Khan, 1982 SPECIES
-=======
+# Chaetomium retardatum A. Carter & R.S. Khan, 1982 SPECIES
 
 #### Status
 ACCEPTED

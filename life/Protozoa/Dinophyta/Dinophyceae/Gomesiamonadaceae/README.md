@@ -1,5 +1,4 @@
-Gomesiamonadaceae FAMILY
-=======
+# Gomesiamonadaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotiella russellii (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Helotiella russellii (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

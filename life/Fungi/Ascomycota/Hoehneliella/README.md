@@ -1,5 +1,4 @@
-Hoehneliella Bres. & Sacc. GENUS
-=======
+# Hoehneliella Bres. & Sacc. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acholeplasma hippikon Kirchoff, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Acholeplasma hippikon Kirchoff, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

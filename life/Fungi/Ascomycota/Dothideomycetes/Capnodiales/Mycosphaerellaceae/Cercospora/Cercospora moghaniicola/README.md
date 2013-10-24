@@ -1,17 +1,16 @@
-Cercospora moghamiicola Bhartiya, Narayan, A.N. Singh bis & N. Kumari SPECIES
-=======
+# Cercospora moghaniicola Bhartiya, Narayan, A.N. Singh bis & N. Kumari SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 56(3): 272 (2003)
 
 #### Original name
-Cercospora moghamiicola Bhartiya, Narayan, A.N. Singh bis & N. Kumari
+Cercospora moghaniicola Bhartiya, Narayan, A.N. Singh bis & N. Kumari
 
 ### Remarks
 null

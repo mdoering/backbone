@@ -1,5 +1,4 @@
-Phyllosticta cearensis Bat. SPECIES
-=======
+# Phyllosticta cearensis Bat. SPECIES
 
 #### Status
 ACCEPTED

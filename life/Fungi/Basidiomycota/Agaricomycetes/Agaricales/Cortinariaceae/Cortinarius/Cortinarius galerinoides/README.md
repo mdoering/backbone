@@ -1,5 +1,4 @@
-Cortinarius galerinoides Lamoure, 1977 SPECIES
-=======
+# Cortinarius galerinoides Lamoure, 1977 SPECIES
 
 #### Status
 ACCEPTED

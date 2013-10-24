@@ -1,5 +1,4 @@
-Ypsilospora Cummins GENUS
-=======
+# Ypsilospora Cummins GENUS
 
 #### Status
 ACCEPTED

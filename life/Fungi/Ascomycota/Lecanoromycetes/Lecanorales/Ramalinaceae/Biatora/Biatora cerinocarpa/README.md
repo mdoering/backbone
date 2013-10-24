@@ -1,5 +1,4 @@
-Biatora cerinocarpa (C. Knight) Hellb. SPECIES
-=======
+# Biatora cerinocarpa (C. Knight) Hellb. SPECIES
 
 #### Status
 ACCEPTED

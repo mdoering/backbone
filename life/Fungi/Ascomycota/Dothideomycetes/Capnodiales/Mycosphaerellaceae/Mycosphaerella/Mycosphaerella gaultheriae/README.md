@@ -1,5 +1,4 @@
-Mycosphaerella gaultheriae (Cooke & Ellis) House SPECIES
-=======
+# Mycosphaerella gaultheriae (Cooke & Ellis) House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora annonarum (Petr. & Cif.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora annonarum (Petr. & Cif.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

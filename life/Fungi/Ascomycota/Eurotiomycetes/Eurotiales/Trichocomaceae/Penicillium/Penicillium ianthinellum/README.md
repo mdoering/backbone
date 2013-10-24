@@ -1,5 +1,4 @@
-Penicillium ianthinellum Biourge SPECIES
-=======
+# Penicillium ianthinellum Biourge SPECIES
 
 #### Status
 ACCEPTED

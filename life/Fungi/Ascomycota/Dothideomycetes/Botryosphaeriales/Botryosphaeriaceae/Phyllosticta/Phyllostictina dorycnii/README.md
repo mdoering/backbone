@@ -1,5 +1,4 @@
-Phyllostictina dorycnii Petr. SPECIES
-=======
+# Phyllostictina dorycnii Petr. SPECIES
 
 #### Status
 ACCEPTED

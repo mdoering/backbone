@@ -1,5 +1,4 @@
-Teichospora nautica Ellis & Everh. SPECIES
-=======
+# Teichospora nautica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

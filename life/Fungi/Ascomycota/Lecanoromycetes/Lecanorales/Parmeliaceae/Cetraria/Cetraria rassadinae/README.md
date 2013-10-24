@@ -1,5 +1,4 @@
-Cetraria rassadinae f. rassadinae FORM
-=======
+# Cetraria rassadinae Makryi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bot. Zh. SSSR 69(7): 952 (1984)
 
 #### Original name
-Cetraria rassadinae f. rassadinae
+Cetraria rassadinae Makryi
 
 ### Remarks
 null

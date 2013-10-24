@@ -1,5 +1,4 @@
-Buellia mexicana J. Steiner SPECIES
-=======
+# Buellia mexicana J. Steiner SPECIES
 
 #### Status
 ACCEPTED

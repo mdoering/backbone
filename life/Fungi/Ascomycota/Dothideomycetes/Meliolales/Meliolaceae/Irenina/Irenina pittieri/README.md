@@ -1,5 +1,4 @@
-Irenina pittieri (Toro) Orejuela SPECIES
-=======
+# Irenina pittieri (Toro) Orejuela SPECIES
 
 #### Status
 ACCEPTED

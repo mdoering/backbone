@@ -1,5 +1,4 @@
-Lewia sauropodis T.Y. Zhang & J.C. David, 1996 SPECIES
-=======
+# Lewia sauropodis T.Y. Zhang & J.C. David, 1996 SPECIES
 
 #### Status
 ACCEPTED

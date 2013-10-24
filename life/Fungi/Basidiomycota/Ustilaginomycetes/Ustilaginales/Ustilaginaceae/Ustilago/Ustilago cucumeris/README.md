@@ -1,5 +1,4 @@
-Ustilago cucumeris Griffiths SPECIES
-=======
+# Ustilago cucumeris Griffiths SPECIES
 
 #### Status
 ACCEPTED

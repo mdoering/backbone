@@ -1,5 +1,4 @@
-Spirostomidae Stein, 1867 FAMILY
-=======
+# Spirostomidae Stein, 1867 FAMILY
 
 #### Status
 ACCEPTED

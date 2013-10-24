@@ -1,5 +1,4 @@
-Cortinarius adustus Peck SPECIES
-=======
+# Cortinarius adustus Peck SPECIES
 
 #### Status
 ACCEPTED

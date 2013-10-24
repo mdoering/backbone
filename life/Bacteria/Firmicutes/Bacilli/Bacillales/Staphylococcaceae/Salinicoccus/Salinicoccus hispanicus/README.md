@@ -1,8 +1,7 @@
-Marinococcus hispanicus Marquez et al., 1990 SPECIES
-=======
+# Salinicoccus hispanicus (Marquez et al., 1990) Ventosa et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

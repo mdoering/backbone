@@ -1,5 +1,4 @@
-Hypotrachyna congenita Kurok. & K.H. Moon SPECIES
-=======
+# Hypotrachyna congenita Kurok. & K.H. Moon SPECIES
 
 #### Status
 ACCEPTED

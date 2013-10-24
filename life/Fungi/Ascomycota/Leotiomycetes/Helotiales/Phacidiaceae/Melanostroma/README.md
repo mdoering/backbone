@@ -1,5 +1,4 @@
-Melanostroma GENUS
-=======
+# Melanostroma GENUS
 
 #### Status
 ACCEPTED

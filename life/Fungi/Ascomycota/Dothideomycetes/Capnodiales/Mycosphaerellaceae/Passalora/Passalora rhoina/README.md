@@ -1,5 +1,4 @@
-Passalora rhoina U. Braun & Crous SPECIES
-=======
+# Passalora rhoina U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

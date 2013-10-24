@@ -1,5 +1,4 @@
-Plagiostomella campestris (Rehm) Höhn. SPECIES
-=======
+# Plagiostomella campestris (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

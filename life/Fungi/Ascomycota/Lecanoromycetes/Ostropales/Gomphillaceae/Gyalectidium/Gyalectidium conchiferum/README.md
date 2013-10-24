@@ -1,5 +1,4 @@
-Gyalectidium conchiferum Lücking & V. Wirth SPECIES
-=======
+# Gyalectidium conchiferum Lücking & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

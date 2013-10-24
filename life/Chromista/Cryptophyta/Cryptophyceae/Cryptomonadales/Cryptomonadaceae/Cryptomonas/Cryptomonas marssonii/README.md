@@ -1,5 +1,4 @@
-Cryptomonas marssonii Skuja SPECIES
-=======
+# Cryptomonas marssonii Skuja SPECIES
 
 #### Status
 ACCEPTED

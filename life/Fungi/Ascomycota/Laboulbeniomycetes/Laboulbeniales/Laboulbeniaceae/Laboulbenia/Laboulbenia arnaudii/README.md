@@ -1,5 +1,4 @@
-Laboulbenia arnaudii Balazuc SPECIES
-=======
+# Laboulbenia arnaudii Balazuc SPECIES
 
 #### Status
 ACCEPTED

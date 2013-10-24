@@ -1,5 +1,4 @@
-Ustilago juniperinum Dufrenoy SPECIES
-=======
+# Ustilago juniperinum Dufrenoy SPECIES
 
 #### Status
 ACCEPTED

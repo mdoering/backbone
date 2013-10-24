@@ -1,14 +1,13 @@
-Odontotrema anodontum Nyl. SPECIES
-=======
+# Mycowinteria anodonta (Nyl.) Sherwood & Boise SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Brittonia 38(1): 37 (1986)
 
 #### Original name
 Odontotrema anodontum Nyl.

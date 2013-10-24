@@ -1,5 +1,4 @@
-Hyalodendron pyrinum Goid. SPECIES
-=======
+# Hyalodendron pyrinum Goid. SPECIES
 
 #### Status
 ACCEPTED

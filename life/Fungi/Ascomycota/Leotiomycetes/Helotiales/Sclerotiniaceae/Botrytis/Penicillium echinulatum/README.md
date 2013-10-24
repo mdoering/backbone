@@ -1,5 +1,4 @@
-Penicillium echinulatum Fassat., 1976 SPECIES
-=======
+# Penicillium echinulatum Fassat., 1976 SPECIES
 
 #### Status
 DOUBTFUL

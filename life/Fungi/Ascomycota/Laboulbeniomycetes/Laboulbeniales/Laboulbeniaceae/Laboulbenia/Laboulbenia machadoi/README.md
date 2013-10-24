@@ -1,5 +1,4 @@
-Laboulbenia machadoi W. Rossi SPECIES
-=======
+# Laboulbenia machadoi W. Rossi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora fuscopallida (Jungh.) Sacc. SPECIES
-=======
+# Thelephora fuscopallida (Jungh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

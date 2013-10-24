@@ -1,5 +1,4 @@
-Aspicilia faginea Eitner SPECIES
-=======
+# Aspicilia faginea Eitner SPECIES
 
 #### Status
 ACCEPTED

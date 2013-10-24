@@ -1,17 +1,16 @@
-Uloseia Bat. GENUS
-=======
+# Chaetothyrium Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Batista & Ciferri, Saccardoa 2: 224 (1963)
+Anal. Soc. cient. argent. 26(1): 46 (1888)
 
 #### Original name
-Uloseia Bat.
+Chaetothyrium Speg.
 
 ### Remarks
 null

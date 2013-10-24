@@ -1,5 +1,4 @@
-Amanita vernus Fr. SPECIES
-=======
+# Amanita vernus Fr. SPECIES
 
 #### Status
 ACCEPTED

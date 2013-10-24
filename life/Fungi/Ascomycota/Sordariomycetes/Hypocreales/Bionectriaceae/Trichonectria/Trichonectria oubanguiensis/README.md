@@ -1,5 +1,4 @@
-Trichonectria oubanguiensis Saccas SPECIES
-=======
+# Trichonectria oubanguiensis Saccas SPECIES
 
 #### Status
 ACCEPTED

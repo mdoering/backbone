@@ -1,5 +1,4 @@
-Acanthoceras Honigmann GENUS
-=======
+# Acanthoceras Honigmann GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria steviae Ishiba, T. Yokoy. & Tani SPECIES
-=======
+# Septoria steviae Ishiba, T. Yokoy. & Tani SPECIES
 
 #### Status
 ACCEPTED

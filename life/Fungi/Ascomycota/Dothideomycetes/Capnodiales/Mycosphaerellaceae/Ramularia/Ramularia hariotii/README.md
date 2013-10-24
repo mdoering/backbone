@@ -1,14 +1,13 @@
-Ramularia harioti Sacc. SPECIES
-=======
+# Ramularia hariotii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 10: 560 (1892)
 
 #### Original name
 Ramularia brunellae Ellis & Everh.

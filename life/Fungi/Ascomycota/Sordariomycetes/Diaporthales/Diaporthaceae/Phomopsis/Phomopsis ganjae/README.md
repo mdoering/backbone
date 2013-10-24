@@ -1,5 +1,4 @@
-Phomopsis ganjae McPartl., 1983 SPECIES
-=======
+# Phomopsis ganjae McPartl., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geolegnia intermedia Höhnk, 1952 SPECIES
-=======
+# Geolegnia intermedia Höhnk, 1952 SPECIES
 
 #### Status
 ACCEPTED

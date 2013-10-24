@@ -1,5 +1,4 @@
-Asterohedbergella Hamaoui, 1965 GENUS
-=======
+# Asterohedbergella Hamaoui, 1965 GENUS
 
 #### Status
 ACCEPTED

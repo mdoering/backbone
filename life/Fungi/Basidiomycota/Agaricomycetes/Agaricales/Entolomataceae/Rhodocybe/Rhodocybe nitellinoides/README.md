@@ -1,5 +1,4 @@
-Rhodocybe nitellinoides E. Horak SPECIES
-=======
+# Rhodocybe nitellinoides E. Horak SPECIES
 
 #### Status
 ACCEPTED

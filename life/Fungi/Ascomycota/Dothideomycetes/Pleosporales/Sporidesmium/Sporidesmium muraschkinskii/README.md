@@ -1,17 +1,16 @@
-Sporodesmium muraschkinskii Lavrov SPECIES
-=======
+# Sporidesmium muraschkinskii Lavrov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trud. tomsk. gos. Univ. Kuibysheva, Ser. biol. 104: 101 (1948)
 
 #### Original name
-Sporodesmium muraschkinskii Lavrov
+Sporidesmium muraschkinskii Lavrov
 
 ### Remarks
 null

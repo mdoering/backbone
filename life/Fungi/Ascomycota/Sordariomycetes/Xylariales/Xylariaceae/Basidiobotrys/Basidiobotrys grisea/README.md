@@ -1,5 +1,4 @@
-Basidiobotrys grisea (Berk. & M.A. Curtis) S. Hughes SPECIES
-=======
+# Basidiobotrys grisea (Berk. & M.A. Curtis) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

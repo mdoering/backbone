@@ -1,5 +1,4 @@
-Phellinus acontextus Ryvarden, 1984 SPECIES
-=======
+# Phellinus acontextus Ryvarden, 1984 SPECIES
 
 #### Status
 ACCEPTED

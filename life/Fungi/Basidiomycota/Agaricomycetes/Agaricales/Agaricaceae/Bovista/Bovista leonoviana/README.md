@@ -1,5 +1,4 @@
-Bovista leonoviana Philimonova & Vasyag. SPECIES
-=======
+# Bovista leonoviana Philimonova & Vasyag. SPECIES
 
 #### Status
 ACCEPTED

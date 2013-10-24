@@ -1,5 +1,4 @@
-Amylocorticium pedunculatum Hjortstam, 1984 SPECIES
-=======
+# Amylocorticium pedunculatum Hjortstam, 1984 SPECIES
 
 #### Status
 ACCEPTED

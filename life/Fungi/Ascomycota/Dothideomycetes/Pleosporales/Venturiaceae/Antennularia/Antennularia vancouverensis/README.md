@@ -1,5 +1,4 @@
-Antennularia vancouverensis (Dearn.) M.E. Barr SPECIES
-=======
+# Antennularia vancouverensis (Dearn.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

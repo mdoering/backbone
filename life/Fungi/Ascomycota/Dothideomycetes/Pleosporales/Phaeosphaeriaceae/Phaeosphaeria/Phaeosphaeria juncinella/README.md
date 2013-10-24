@@ -1,5 +1,4 @@
-Phaeosphaeria juncinella (Mouton) Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria juncinella (Mouton) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

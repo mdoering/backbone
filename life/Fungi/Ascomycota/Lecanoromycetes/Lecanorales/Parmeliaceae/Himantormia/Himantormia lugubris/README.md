@@ -1,14 +1,13 @@
-Ramalina lugubris Hue SPECIES
-=======
+# Himantormia lugubris (Hue) I.M. Lamb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Brit. Antarct. Surv. Sci. Rep. 38: 18 (1964)
 
 #### Original name
 Ramalina lugubris Hue

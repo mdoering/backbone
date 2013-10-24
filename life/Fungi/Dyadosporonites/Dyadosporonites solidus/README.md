@@ -1,5 +1,4 @@
-Dyadosporonites solidus P. Ke & Z.Y. Shi SPECIES
-=======
+# Dyadosporonites solidus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

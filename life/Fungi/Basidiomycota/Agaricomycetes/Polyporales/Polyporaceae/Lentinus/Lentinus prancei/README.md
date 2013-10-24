@@ -1,5 +1,4 @@
-Lentinus prancei Singer, 1981 SPECIES
-=======
+# Lentinus prancei Singer, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Appendiculella araliae (Spreng.) Hansf. SPECIES
-=======
+# Appendiculella araliae (Spreng.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Liliosphaeridium hypertrophicum (Eisenack, 1976) emend. Playford, Ribecai & Tongiorgi, 1995 SPECIES
-=======
+# Liliosphaeridium hypertrophicum (Eisenack, 1976) emend. Playford, Ribecai & Tongiorgi, 1995 SPECIES
 
 #### Status
 ACCEPTED

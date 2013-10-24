@@ -1,5 +1,4 @@
-Fusarium nisikadoi T. Aoki & Nirenberg, 1997 SPECIES
-=======
+# Fusarium nisikadoi T. Aoki & Nirenberg, 1997 SPECIES
 
 #### Status
 ACCEPTED

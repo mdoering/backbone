@@ -1,5 +1,4 @@
-Cortinarius norrlandicus Brandrud SPECIES
-=======
+# Cortinarius norrlandicus Brandrud SPECIES
 
 #### Status
 ACCEPTED

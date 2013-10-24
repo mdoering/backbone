@@ -1,14 +1,13 @@
-Faurella Roque, 1966 GENUS
-=======
+# Physanter Jankowski, 1975 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls Stn Biol. Besse-en-Chandesse No. 1: 65.
+null
 
 #### Original name
 null

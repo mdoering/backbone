@@ -1,5 +1,4 @@
-Hydnum puniceum Raf. SPECIES
-=======
+# Hydnum puniceum Raf. SPECIES
 
 #### Status
 ACCEPTED

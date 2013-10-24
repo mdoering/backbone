@@ -1,5 +1,4 @@
-Blyttiomyces rhizophlyctidis Dogma SPECIES
-=======
+# Blyttiomyces rhizophlyctidis Dogma SPECIES
 
 #### Status
 ACCEPTED

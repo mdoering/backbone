@@ -1,5 +1,4 @@
-Peniophora pseudonuda Hallenb., 1980 SPECIES
-=======
+# Peniophora pseudonuda Hallenb., 1980 SPECIES
 
 #### Status
 ACCEPTED

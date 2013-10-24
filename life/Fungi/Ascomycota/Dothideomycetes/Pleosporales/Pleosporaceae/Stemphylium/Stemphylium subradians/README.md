@@ -1,5 +1,4 @@
-Stemphylium subradians Ellis & Everh. SPECIES
-=======
+# Stemphylium subradians Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

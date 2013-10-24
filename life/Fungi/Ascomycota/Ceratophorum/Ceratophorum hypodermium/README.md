@@ -1,5 +1,4 @@
-Ceratophorum hypodermium (Niessl) Sacc. SPECIES
-=======
+# Ceratophorum hypodermium (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

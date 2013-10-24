@@ -1,5 +1,4 @@
-Gastroboletus fascifer Singer & A.H. Sm., 1964 SPECIES
-=======
+# Gastroboletus fascifer Singer & A.H. Sm., 1964 SPECIES
 
 #### Status
 ACCEPTED

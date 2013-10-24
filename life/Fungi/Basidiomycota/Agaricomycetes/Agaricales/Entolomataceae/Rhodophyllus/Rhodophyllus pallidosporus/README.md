@@ -1,5 +1,4 @@
-Rhodophyllus pallidosporus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus pallidosporus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

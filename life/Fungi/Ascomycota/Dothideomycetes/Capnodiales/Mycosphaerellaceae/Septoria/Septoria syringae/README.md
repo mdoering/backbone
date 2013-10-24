@@ -1,5 +1,4 @@
-Septoria syringae Sacc. & Speg. SPECIES
-=======
+# Septoria syringae Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

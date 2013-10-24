@@ -1,5 +1,4 @@
-Puccinia kalchbrenneriana De Toni SPECIES
-=======
+# Puccinia kalchbrenneriana De Toni SPECIES
 
 #### Status
 ACCEPTED

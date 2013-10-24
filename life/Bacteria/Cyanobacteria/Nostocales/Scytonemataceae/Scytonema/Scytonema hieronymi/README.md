@@ -1,5 +1,4 @@
-Scytonema hieronymi Schmidle SPECIES
-=======
+# Scytonema hieronymi Schmidle SPECIES
 
 #### Status
 ACCEPTED

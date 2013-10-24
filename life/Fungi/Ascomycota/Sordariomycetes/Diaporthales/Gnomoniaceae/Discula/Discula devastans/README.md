@@ -1,5 +1,4 @@
-Discula devastans (Rostr.) Weindlm. SPECIES
-=======
+# Discula devastans (Rostr.) Weindlm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudarcella arenata Cushman, 1930 SPECIES
-=======
+# Pseudarcella arenata Cushman, 1930 SPECIES
 
 #### Status
 ACCEPTED

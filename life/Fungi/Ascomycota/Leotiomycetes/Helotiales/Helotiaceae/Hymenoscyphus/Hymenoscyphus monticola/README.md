@@ -1,5 +1,4 @@
-Hymenoscyphus monticola (Berk.) Baral, 2005 SPECIES
-=======
+# Hymenoscyphus monticola (Berk.) Baral, 2005 SPECIES
 
 #### Status
 ACCEPTED

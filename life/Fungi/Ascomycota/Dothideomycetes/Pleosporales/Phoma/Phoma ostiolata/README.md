@@ -1,17 +1,16 @@
-Phoma ostiolata var. ostiolata VARIETY
-=======
+# Phoma ostiolata V.H. Pawar, P.N. Mathur & Thirum., 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 50(2): 262 (1967)
 
 #### Original name
-null
+Phoma ostiolata V.H. Pawar, P.N. Mathur & Thirum., 1967
 
 ### Remarks
 null

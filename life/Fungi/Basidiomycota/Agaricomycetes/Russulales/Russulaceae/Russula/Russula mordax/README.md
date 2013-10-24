@@ -1,5 +1,4 @@
-Russula mordax Burl. SPECIES
-=======
+# Russula mordax Burl. SPECIES
 
 #### Status
 ACCEPTED

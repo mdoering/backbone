@@ -1,5 +1,4 @@
-Quaternaria regularis Nitschke SPECIES
-=======
+# Quaternaria regularis Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polygonium varium (Volkova, 1969) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Polygonium varium (Volkova, 1969) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

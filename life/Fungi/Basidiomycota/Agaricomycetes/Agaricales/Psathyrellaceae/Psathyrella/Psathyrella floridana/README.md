@@ -1,5 +1,4 @@
-Psathyrella floridana (Murrill) A.H. Sm. SPECIES
-=======
+# Psathyrella floridana (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

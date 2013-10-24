@@ -1,5 +1,4 @@
-Cortinarius subcandelaris Britzelm. SPECIES
-=======
+# Cortinarius subcandelaris Britzelm. SPECIES
 
 #### Status
 ACCEPTED

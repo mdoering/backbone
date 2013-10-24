@@ -1,5 +1,4 @@
-Nodotetraedra Steiger, 1992 GENUS
-=======
+# Nodotetraedra Steiger, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella striatiformans (Cobb) Sacc. & Trotter SPECIES
-=======
+# Sphaerella striatiformans (Cobb) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

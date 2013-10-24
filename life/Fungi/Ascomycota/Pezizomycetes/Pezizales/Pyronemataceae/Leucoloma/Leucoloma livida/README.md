@@ -1,5 +1,4 @@
-Leucoloma livida F. Lamb. SPECIES
-=======
+# Leucoloma livida F. Lamb. SPECIES
 
 #### Status
 ACCEPTED

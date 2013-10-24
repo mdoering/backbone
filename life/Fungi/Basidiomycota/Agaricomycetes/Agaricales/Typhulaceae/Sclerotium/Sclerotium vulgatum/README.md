@@ -1,5 +1,4 @@
-Sclerotium vulgatum var. vulgatum VARIETY
-=======
+# Sclerotium vulgatum Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Observ. mycol. (Havniae) 1: 204 (1815)
 
 #### Original name
-Sclerotium vulgatum var. vulgatum
+Sclerotium vulgatum Fr.
 
 ### Remarks
 null

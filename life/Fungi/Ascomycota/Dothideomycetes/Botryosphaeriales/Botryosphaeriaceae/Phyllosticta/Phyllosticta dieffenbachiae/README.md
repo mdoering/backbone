@@ -1,5 +1,4 @@
-Phyllosticta dieffenbachiae Chowdhry, D. Gupta & Padhi SPECIES
-=======
+# Phyllosticta dieffenbachiae Chowdhry, D. Gupta & Padhi SPECIES
 
 #### Status
 ACCEPTED

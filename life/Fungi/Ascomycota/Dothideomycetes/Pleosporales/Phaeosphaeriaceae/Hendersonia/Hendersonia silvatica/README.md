@@ -1,5 +1,4 @@
-Hendersonia silvatica var. bromi-maximi Unamuno VARIETY
-=======
+# Hendersonia silvatica Fautrey SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 16: 160 (1894)
 
 #### Original name
-Hendersonia silvatica var. bromi-maximi Unamuno
+Hendersonia silvatica Fautrey
 
 ### Remarks
 null

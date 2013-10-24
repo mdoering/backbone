@@ -1,5 +1,4 @@
-Navicella triseptata (Peck) Kuntze SPECIES
-=======
+# Navicella triseptata (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

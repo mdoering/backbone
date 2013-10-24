@@ -1,5 +1,4 @@
-Phyllosticta capsici Speg. SPECIES
-=======
+# Phyllosticta capsici Speg. SPECIES
 
 #### Status
 ACCEPTED

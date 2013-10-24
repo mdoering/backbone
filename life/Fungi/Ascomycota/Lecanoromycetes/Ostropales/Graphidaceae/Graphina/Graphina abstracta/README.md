@@ -1,5 +1,4 @@
-Graphina abstracta (Kremp.) Müll. Arg. SPECIES
-=======
+# Graphina abstracta (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

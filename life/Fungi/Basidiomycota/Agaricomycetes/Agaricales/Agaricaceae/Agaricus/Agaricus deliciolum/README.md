@@ -1,5 +1,4 @@
-Agaricus deliciolum Berk. SPECIES
-=======
+# Agaricus deliciolum Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella cortadeniae Grove, 1922 SPECIES
-=======
+# Didymella cortadeniae Grove, 1922 SPECIES
 
 #### Status
 ACCEPTED

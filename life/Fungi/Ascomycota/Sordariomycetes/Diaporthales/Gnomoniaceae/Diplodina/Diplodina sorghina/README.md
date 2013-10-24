@@ -1,5 +1,4 @@
-Diplodina sorghina S. Ahmad SPECIES
-=======
+# Diplodina sorghina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

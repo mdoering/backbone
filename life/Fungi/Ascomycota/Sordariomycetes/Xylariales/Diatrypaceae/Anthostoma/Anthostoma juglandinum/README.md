@@ -1,5 +1,4 @@
-Anthostoma juglandinum var. caryae Rehm VARIETY
-=======
+# Anthostoma juglandinum Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 7: 531 (1909)
 
 #### Original name
-Anthostoma juglandinum var. caryae Rehm
+Anthostoma juglandinum Rehm
 
 ### Remarks
 null

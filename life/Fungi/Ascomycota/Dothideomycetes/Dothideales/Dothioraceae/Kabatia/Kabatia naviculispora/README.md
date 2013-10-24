@@ -1,5 +1,4 @@
-Kabatia naviculispora T.M. Achundov & Melnik SPECIES
-=======
+# Kabatia naviculispora T.M. Achundov & Melnik SPECIES
 
 #### Status
 ACCEPTED

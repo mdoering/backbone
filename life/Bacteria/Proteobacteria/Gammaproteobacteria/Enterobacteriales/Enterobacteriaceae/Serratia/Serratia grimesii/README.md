@@ -1,5 +1,4 @@
-Serratia grimesii Grimont et al., 1983 SPECIES
-=======
+# Serratia grimesii Grimont et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

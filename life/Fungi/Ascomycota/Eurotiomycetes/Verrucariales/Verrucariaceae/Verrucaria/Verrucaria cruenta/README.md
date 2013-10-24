@@ -1,5 +1,4 @@
-Verrucaria cruenta (Weber) Hoffm. SPECIES
-=======
+# Verrucaria cruenta (Weber) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

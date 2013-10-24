@@ -1,14 +1,13 @@
-Anisolpidium rosenvingii (H.E. Petersen) Karling SPECIES
-=======
+# Anisolpidium rosenvingei (H.E. Petersen) Karling, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Am. J. Bot. 30: 641 (1943)
 
 #### Original name
 Pleotrachelus rosenvingii H.E. Petersen, 1905

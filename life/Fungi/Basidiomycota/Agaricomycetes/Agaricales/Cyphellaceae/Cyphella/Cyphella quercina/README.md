@@ -1,5 +1,4 @@
-Cyphella quercina Lloyd SPECIES
-=======
+# Cyphella quercina Lloyd SPECIES
 
 #### Status
 ACCEPTED

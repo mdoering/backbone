@@ -1,5 +1,4 @@
-Pichia myanmarensis Nagats., H. Kawas. & Tats. Seki, 2005 SPECIES
-=======
+# Pichia myanmarensis Nagats., H. Kawas. & Tats. Seki, 2005 SPECIES
 
 #### Status
 ACCEPTED

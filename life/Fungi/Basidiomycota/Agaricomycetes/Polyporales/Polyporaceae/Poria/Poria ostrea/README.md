@@ -1,5 +1,4 @@
-Poria ostrea Scop. SPECIES
-=======
+# Poria ostrea Scop. SPECIES
 
 #### Status
 ACCEPTED

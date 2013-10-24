@@ -1,5 +1,4 @@
-Phyllosticta melandrii Annal. SPECIES
-=======
+# Phyllosticta melandrii Annal. SPECIES
 
 #### Status
 ACCEPTED

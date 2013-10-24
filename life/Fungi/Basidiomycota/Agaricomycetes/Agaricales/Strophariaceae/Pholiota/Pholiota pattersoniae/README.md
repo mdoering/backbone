@@ -1,14 +1,13 @@
-Pholiota pattersonae (Murrill) Redhead SPECIES
-=======
+# Pholiota pattersoniae (Murrill) Redhead SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 37: 264 (1984)
 
 #### Original name
 Naucoria pattersonae Murrill

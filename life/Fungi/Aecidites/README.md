@@ -1,5 +1,4 @@
-Aecidites Debey & Ettingsh. GENUS
-=======
+# Aecidites Debey & Ettingsh. GENUS
 
 #### Status
 ACCEPTED

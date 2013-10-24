@@ -1,5 +1,4 @@
-Lecidea gyrodes H. Magn. SPECIES
-=======
+# Lecidea gyrodes H. Magn. SPECIES
 
 #### Status
 ACCEPTED

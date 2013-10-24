@@ -1,5 +1,4 @@
-Rickia parasiti Thaxt. SPECIES
-=======
+# Rickia parasiti Thaxt. SPECIES
 
 #### Status
 ACCEPTED

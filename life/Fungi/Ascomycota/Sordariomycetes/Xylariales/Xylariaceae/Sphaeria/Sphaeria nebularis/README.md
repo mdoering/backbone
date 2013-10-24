@@ -1,5 +1,4 @@
-Sphaeria nebularis Sphaerella SPECIES
-=======
+# Sphaeria nebularis Sphaerella SPECIES
 
 #### Status
 ACCEPTED

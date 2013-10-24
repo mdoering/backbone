@@ -1,17 +1,16 @@
-Pyrenula emergens (Müll. Arg.) Vain., 1930 SPECIES
-=======
+# Thelidium A. Massal. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Framm. Lichenogr. 15 (1855)
 
 #### Original name
-null
+Thelidium A. Massal.
 
 ### Remarks
 null

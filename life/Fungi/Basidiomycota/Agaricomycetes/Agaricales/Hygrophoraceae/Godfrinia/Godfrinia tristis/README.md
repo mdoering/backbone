@@ -1,5 +1,4 @@
-Godfrinia tristis (Pers.) Herink SPECIES
-=======
+# Godfrinia tristis (Pers.) Herink SPECIES
 
 #### Status
 ACCEPTED

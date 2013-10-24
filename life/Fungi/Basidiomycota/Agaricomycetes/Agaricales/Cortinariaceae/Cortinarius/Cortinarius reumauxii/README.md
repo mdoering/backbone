@@ -1,17 +1,16 @@
-Cortinarius reumauxi Rob. Henry SPECIES
-=======
+# Cortinarius reumauxii Rob. Henry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 26(no. 103): 20 (1996)
 
 #### Original name
-Cortinarius reumauxi Rob. Henry
+Cortinarius reumauxii Rob. Henry
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Navicella libera (Tode) Kuntze SPECIES
-=======
+# Navicella libera (Tode) Kuntze SPECIES
 
 #### Status
 ACCEPTED

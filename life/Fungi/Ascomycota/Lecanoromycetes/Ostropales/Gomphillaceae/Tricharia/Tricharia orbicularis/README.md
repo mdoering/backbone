@@ -1,5 +1,4 @@
-Tricharia orbicularis Kremp. SPECIES
-=======
+# Tricharia orbicularis Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kolderupia S.Lund, 1959 GENUS
-=======
+# Kolderupia S.Lund, 1959 GENUS
 
 #### Status
 ACCEPTED

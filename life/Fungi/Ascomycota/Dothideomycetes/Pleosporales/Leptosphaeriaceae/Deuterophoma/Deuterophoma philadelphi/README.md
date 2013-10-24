@@ -1,5 +1,4 @@
-Deuterophoma philadelphi Gucevic SPECIES
-=======
+# Deuterophoma philadelphi Gucevic SPECIES
 
 #### Status
 ACCEPTED

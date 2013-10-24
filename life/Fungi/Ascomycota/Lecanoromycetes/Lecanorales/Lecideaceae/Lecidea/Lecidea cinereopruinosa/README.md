@@ -1,5 +1,4 @@
-Lecidea cinereopruinosa Choisy SPECIES
-=======
+# Lecidea cinereopruinosa Choisy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella pulchella (Syd. & P. Syd.) Arx SPECIES
-=======
+# Mycosphaerella pulchella (Syd. & P. Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

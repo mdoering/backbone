@@ -1,5 +1,4 @@
-Gyroidina altiformis R.E. & K.C. Stewart, 1930 SPECIES
-=======
+# Gyroidina altiformis R.E. & K.C. Stewart, 1930 SPECIES
 
 #### Status
 ACCEPTED

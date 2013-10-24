@@ -1,17 +1,16 @@
-Buellia callispora var. callispora (C. Knight) J. Steiner VARIETY
-=======
+# Hafellia demutans (Stirt.) Pusswald SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier, 2 sér. 7: 645 (1907)
+in Marbach, Biblthca Lichenol. 74: 259 (2000)
 
 #### Original name
-Buellia callispora var. callispora (C. Knight) J. Steiner
+Lecidea demutans Stirt.
 
 ### Remarks
 null

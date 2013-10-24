@@ -1,5 +1,4 @@
-Chroococcus schizodermaticus W. West & G.S. West SPECIES
-=======
+# Chroococcus schizodermaticus W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

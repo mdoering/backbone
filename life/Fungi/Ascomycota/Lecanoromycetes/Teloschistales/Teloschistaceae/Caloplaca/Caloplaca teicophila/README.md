@@ -1,5 +1,4 @@
-Caloplaca teicophila (A. Massal.) Zahlbr. SPECIES
-=======
+# Caloplaca teicophila (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

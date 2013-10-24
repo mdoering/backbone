@@ -1,5 +1,4 @@
-Erysiphe andina (Speg.) U. Braun SPECIES
-=======
+# Erysiphe andina (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

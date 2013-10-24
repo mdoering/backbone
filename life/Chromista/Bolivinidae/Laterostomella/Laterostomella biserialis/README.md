@@ -1,5 +1,4 @@
-Laterostomella biserialis (Millett, 1900) SPECIES
-=======
+# Laterostomella biserialis (Millett, 1900) SPECIES
 
 #### Status
 ACCEPTED

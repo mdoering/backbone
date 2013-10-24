@@ -1,5 +1,4 @@
-Pluteus straminiphilus Wichanský SPECIES
-=======
+# Pluteus straminiphilus Wichanský SPECIES
 
 #### Status
 ACCEPTED

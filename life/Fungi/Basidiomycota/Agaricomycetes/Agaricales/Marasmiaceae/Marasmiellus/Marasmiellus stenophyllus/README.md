@@ -1,5 +1,4 @@
-Marasmiellus stenophyllus (Mont.) Singer SPECIES
-=======
+# Marasmiellus stenophyllus (Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calvatia paradoxa A.H. Sm. SPECIES
-=======
+# Calvatia paradoxa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

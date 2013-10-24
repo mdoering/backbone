@@ -1,5 +1,4 @@
-Endaematus albus Raf. SPECIES
-=======
+# Endaematus albus Raf. SPECIES
 
 #### Status
 ACCEPTED

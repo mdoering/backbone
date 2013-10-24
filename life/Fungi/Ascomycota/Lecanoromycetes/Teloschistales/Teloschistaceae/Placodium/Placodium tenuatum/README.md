@@ -1,5 +1,4 @@
-Placodium tenuatum Nyl. SPECIES
-=======
+# Placodium tenuatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

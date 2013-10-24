@@ -1,5 +1,4 @@
-Dendrosarcus mongolicus (Kalchbr.) Kuntze SPECIES
-=======
+# Dendrosarcus mongolicus (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

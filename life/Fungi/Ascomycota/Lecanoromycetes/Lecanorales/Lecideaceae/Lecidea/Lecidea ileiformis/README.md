@@ -1,5 +1,4 @@
-Lecidea ileiformis Fr. SPECIES
-=======
+# Lecidea ileiformis Fr. SPECIES
 
 #### Status
 ACCEPTED

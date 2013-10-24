@@ -1,5 +1,4 @@
-Sporisorium zilligii (Zundel) Vánky SPECIES
-=======
+# Sporisorium zilligii (Zundel) Vánky SPECIES
 
 #### Status
 ACCEPTED

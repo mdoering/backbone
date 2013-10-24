@@ -1,5 +1,4 @@
-Phaeophyscia laciniata Essl. SPECIES
-=======
+# Phaeophyscia laciniata Essl. SPECIES
 
 #### Status
 ACCEPTED

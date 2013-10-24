@@ -1,5 +1,4 @@
-Flammispora pulchra Raja & Shearer SPECIES
-=======
+# Flammispora pulchra Raja & Shearer SPECIES
 
 #### Status
 ACCEPTED

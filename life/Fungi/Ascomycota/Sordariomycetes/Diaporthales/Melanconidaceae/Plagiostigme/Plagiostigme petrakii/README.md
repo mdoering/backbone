@@ -1,5 +1,4 @@
-Plagiostigme petrakii E. Müll. SPECIES
-=======
+# Plagiostigme petrakii E. Müll. SPECIES
 
 #### Status
 ACCEPTED

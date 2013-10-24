@@ -1,5 +1,4 @@
-Macrophoma choisyae Woron. SPECIES
-=======
+# Macrophoma choisyae Woron. SPECIES
 
 #### Status
 ACCEPTED

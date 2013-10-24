@@ -1,5 +1,4 @@
-Diplotomma betulinum f. betulinum FORM
-=======
+# Diplotomma betulinum SPECIES
 
 #### Status
 ACCEPTED

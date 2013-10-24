@@ -1,5 +1,4 @@
-Dictyochaeta zapatensis R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Dictyochaeta zapatensis R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

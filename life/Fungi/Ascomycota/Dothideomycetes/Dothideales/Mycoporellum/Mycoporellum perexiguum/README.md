@@ -1,14 +1,13 @@
-Mycoporis perexigua (Müll. Arg.) Clem., 1909 SPECIES
-=======
+# Mycoporellum perexiguum Müll. Arg., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis) (1909)
+Nuovo Giorn. Bot. Ital. 23: 399 (1981)
 
 #### Original name
 Mycoporellum perexiguum Müll. Arg., 1981

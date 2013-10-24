@@ -1,5 +1,4 @@
-Psalliota manilensis Copel. SPECIES
-=======
+# Psalliota manilensis Copel. SPECIES
 
 #### Status
 ACCEPTED

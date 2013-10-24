@@ -1,17 +1,16 @@
-Polyporus linharti Kalchbr. SPECIES
-=======
+# Polyporus linhartii Kalchbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungi hong. no (1884)
 
 #### Original name
-Polyporus linharti Kalchbr.
+Polyporus linhartii Kalchbr.
 
 ### Remarks
 null

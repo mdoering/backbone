@@ -1,5 +1,4 @@
-Colletotrichum chrysanthemi (Hori) Sawada SPECIES
-=======
+# Colletotrichum chrysanthemi (Hori) Sawada SPECIES
 
 #### Status
 ACCEPTED

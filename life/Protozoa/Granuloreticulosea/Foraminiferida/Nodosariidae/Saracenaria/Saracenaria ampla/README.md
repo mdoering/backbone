@@ -1,5 +1,4 @@
-Saracenaria ampla SPECIES
-=======
+# Saracenaria ampla SPECIES
 
 #### Status
 ACCEPTED

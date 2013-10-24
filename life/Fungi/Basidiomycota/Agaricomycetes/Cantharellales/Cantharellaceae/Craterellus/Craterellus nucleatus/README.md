@@ -1,5 +1,4 @@
-Craterellus nucleatus Schröd. SPECIES
-=======
+# Craterellus nucleatus Schröd. SPECIES
 
 #### Status
 ACCEPTED

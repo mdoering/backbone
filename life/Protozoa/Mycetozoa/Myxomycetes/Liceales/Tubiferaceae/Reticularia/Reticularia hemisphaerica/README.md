@@ -1,5 +1,4 @@
-Reticularia hemisphaerica Sowerby SPECIES
-=======
+# Reticularia hemisphaerica Sowerby SPECIES
 
 #### Status
 ACCEPTED

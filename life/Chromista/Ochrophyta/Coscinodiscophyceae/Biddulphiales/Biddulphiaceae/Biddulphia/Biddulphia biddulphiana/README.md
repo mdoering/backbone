@@ -1,8 +1,7 @@
-Conferva biddulphiana J.E. Smith SPECIES
-=======
+# Biddulphia biddulphiana (J.E. Smith) Boyer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Laestadia graminicola Rostr. SPECIES
-=======
+# Laestadia graminicola Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis triquetra Eschw. SPECIES
-=======
+# Graphis triquetra Eschw. SPECIES
 
 #### Status
 ACCEPTED

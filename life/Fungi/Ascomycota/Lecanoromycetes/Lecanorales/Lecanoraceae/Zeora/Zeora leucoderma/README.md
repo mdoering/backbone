@@ -1,5 +1,4 @@
-Zeora leucoderma Anzi SPECIES
-=======
+# Zeora leucoderma Anzi SPECIES
 
 #### Status
 ACCEPTED

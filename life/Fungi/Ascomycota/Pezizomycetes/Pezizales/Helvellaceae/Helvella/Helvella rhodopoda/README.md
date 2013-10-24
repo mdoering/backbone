@@ -1,5 +1,4 @@
-Helvella rhodopoda Krombh. SPECIES
-=======
+# Helvella rhodopoda Krombh. SPECIES
 
 #### Status
 ACCEPTED

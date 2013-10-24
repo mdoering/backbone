@@ -1,5 +1,4 @@
-Lachnea ampezzana Rehm SPECIES
-=======
+# Lachnea ampezzana Rehm SPECIES
 
 #### Status
 ACCEPTED

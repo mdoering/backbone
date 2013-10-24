@@ -1,14 +1,13 @@
-Coenogonium rubrifuscum (Vezda & Malcolm) Malcolm SPECIES
-=======
+# Coenogonium rubrofuscum (Vezda & Malcolm) Malcolm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Australasian Lichenology 56: 25 (2005)
 
 #### Original name
 Dimerella rubrofusca Vezda & Malcolm

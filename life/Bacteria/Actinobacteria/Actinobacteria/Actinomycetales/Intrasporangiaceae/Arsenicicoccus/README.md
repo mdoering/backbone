@@ -1,5 +1,4 @@
-Arsenicicoccus Collins et al., 2004 GENUS
-=======
+# Arsenicicoccus Collins et al., 2004 GENUS
 
 #### Status
 ACCEPTED

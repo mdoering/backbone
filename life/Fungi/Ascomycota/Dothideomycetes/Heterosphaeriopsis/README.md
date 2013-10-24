@@ -1,5 +1,4 @@
-Heterosphaeriopsis Hafellner GENUS
-=======
+# Heterosphaeriopsis Hafellner GENUS
 
 #### Status
 ACCEPTED

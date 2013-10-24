@@ -1,5 +1,4 @@
-Ceuthospora platani Bubák SPECIES
-=======
+# Ceuthospora platani Bubák SPECIES
 
 #### Status
 ACCEPTED

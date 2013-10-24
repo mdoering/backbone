@@ -1,5 +1,4 @@
-Thelocarpon hymeneum Ach. SPECIES
-=======
+# Thelocarpon hymeneum Ach. SPECIES
 
 #### Status
 ACCEPTED

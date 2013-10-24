@@ -1,5 +1,4 @@
-Gerda inclinans SPECIES
-=======
+# Gerda inclinans SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo chrysophyllicola Henn. SPECIES
-=======
+# Uredo chrysophyllicola Henn. SPECIES
 
 #### Status
 ACCEPTED

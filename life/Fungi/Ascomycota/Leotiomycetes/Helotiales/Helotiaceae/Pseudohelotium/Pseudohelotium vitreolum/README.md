@@ -1,5 +1,4 @@
-Pseudohelotium vitreolum (P. Karst.) Sacc. SPECIES
-=======
+# Pseudohelotium vitreolum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

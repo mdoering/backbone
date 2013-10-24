@@ -1,14 +1,13 @@
-Helotium pineum (Bonord.) Sacc., 1889 SPECIES
-=======
+# Trichohelotium pineum (Bonord.) Killerm., 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 225 (1889)
+Kryptogamenflora Forsch. Bayer. Bot. Ges. Erforsch Leim. Flora 2(3): 281 (1935)
 
 #### Original name
 Sarea pinea Bonord., 1851

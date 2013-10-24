@@ -1,5 +1,4 @@
-Eutypella aleurina (Berk. & Cooke) Berl. & Voglino SPECIES
-=======
+# Eutypella aleurina (Berk. & Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

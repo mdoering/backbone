@@ -1,5 +1,4 @@
-Bolivina spatuloides SPECIES
-=======
+# Bolivina spatuloides SPECIES
 
 #### Status
 ACCEPTED

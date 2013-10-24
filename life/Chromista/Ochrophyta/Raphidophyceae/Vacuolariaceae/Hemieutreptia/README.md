@@ -1,5 +1,4 @@
-Hemieutreptia Y.Hada, 1974 GENUS
-=======
+# Hemieutreptia Y.Hada, 1974 GENUS
 
 #### Status
 ACCEPTED

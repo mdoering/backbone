@@ -1,5 +1,4 @@
-Discorbinita McCulloch, 1977 GENUS
-=======
+# Discorbinita McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

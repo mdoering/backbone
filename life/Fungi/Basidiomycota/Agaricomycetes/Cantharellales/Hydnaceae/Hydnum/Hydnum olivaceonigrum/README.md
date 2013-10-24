@@ -1,5 +1,4 @@
-Hydnum olivaceonigrum Secr. SPECIES
-=======
+# Hydnum olivaceonigrum Secr. SPECIES
 
 #### Status
 ACCEPTED

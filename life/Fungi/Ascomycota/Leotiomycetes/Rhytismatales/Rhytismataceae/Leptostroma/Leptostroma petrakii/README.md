@@ -1,5 +1,4 @@
-Leptostroma petrakii Bubák SPECIES
-=======
+# Leptostroma petrakii Bubák SPECIES
 
 #### Status
 ACCEPTED

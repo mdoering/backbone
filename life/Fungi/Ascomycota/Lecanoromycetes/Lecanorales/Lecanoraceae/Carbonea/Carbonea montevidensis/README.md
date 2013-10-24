@@ -1,5 +1,4 @@
-Lecidea montevidensis f. montevidensis FORM
-=======
+# Carbonea montevidensis (Müll. Arg.) Rambold & Knoph SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Revue mycol. , Toulouse 10: 4 (1888)
+in Rambold, Biblthca Lichenol. 34: 79 (1989)
 
 #### Original name
-Lecidea montevidensis f. montevidensis
+Lecidea montevidensis Müll. Arg.
 
 ### Remarks
 null

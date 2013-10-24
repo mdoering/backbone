@@ -1,5 +1,4 @@
-Hypocrella panici Massee SPECIES
-=======
+# Hypocrella panici Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium cephaelis Elisei SPECIES
-=======
+# Gloeosporium cephaelis Elisei SPECIES
 
 #### Status
 ACCEPTED

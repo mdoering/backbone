@@ -1,5 +1,4 @@
-Gonolecania GENUS
-=======
+# Gonolecania GENUS
 
 #### Status
 ACCEPTED

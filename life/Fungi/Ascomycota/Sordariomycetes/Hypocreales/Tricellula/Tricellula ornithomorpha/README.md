@@ -1,5 +1,4 @@
-Tricellula ornithomorpha anon. SPECIES
-=======
+# Tricellula ornithomorpha anon. SPECIES
 
 #### Status
 ACCEPTED

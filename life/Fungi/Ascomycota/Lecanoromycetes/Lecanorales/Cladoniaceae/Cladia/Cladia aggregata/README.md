@@ -1,17 +1,16 @@
-Cladonia aggregata var. aggregata VARIETY
-=======
+# Cladia aggregata (Sw.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Recogn. Ram. 69: (167) (1870)
 
 #### Original name
-Cladonia aggregata var. aggregata
+Lichen aggregatus Sw.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lactarius californiensis Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius californiensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

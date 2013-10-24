@@ -1,5 +1,4 @@
-Limacella oaxacana Singer SPECIES
-=======
+# Limacella oaxacana Singer SPECIES
 
 #### Status
 ACCEPTED

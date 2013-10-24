@@ -1,5 +1,4 @@
-Verrucaria albella (Pers.) Hoffm. SPECIES
-=======
+# Verrucaria albella (Pers.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

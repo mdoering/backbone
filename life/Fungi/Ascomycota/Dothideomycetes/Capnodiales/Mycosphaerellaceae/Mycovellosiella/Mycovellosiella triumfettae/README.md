@@ -1,5 +1,4 @@
-Mycovellosiella triumfettae Deighton SPECIES
-=======
+# Mycovellosiella triumfettae Deighton SPECIES
 
 #### Status
 ACCEPTED

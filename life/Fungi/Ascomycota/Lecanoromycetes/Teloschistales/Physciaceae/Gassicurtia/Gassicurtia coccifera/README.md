@@ -1,5 +1,4 @@
-Gassicurtia coccifera Marbach & Kalb SPECIES
-=======
+# Gassicurtia coccifera Marbach & Kalb SPECIES
 
 #### Status
 ACCEPTED

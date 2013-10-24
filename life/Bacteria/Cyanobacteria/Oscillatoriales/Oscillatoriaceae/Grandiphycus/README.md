@@ -1,5 +1,4 @@
-Grandiphycus A.C. Nautiyal, 1978 GENUS
-=======
+# Grandiphycus A.C. Nautiyal, 1978 GENUS
 
 #### Status
 ACCEPTED

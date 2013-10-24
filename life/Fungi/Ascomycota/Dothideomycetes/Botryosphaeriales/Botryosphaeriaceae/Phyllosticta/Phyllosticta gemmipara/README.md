@@ -1,5 +1,4 @@
-Phyllosticta gemmipara Zondag SPECIES
-=======
+# Phyllosticta gemmipara Zondag SPECIES
 
 #### Status
 ACCEPTED

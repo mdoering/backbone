@@ -1,5 +1,4 @@
-Septobasidium molle Couch SPECIES
-=======
+# Septobasidium molle Couch SPECIES
 
 #### Status
 ACCEPTED

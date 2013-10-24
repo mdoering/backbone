@@ -1,5 +1,4 @@
-Lactarius allardii Coker SPECIES
-=======
+# Lactarius allardii Coker SPECIES
 
 #### Status
 ACCEPTED

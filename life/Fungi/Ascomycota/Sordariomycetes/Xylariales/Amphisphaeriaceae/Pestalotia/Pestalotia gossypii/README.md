@@ -1,5 +1,4 @@
-Pestalotia gossypii Hori SPECIES
-=======
+# Pestalotia gossypii Hori SPECIES
 
 #### Status
 ACCEPTED

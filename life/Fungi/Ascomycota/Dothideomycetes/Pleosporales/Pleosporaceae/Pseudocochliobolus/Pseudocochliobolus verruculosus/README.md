@@ -1,14 +1,13 @@
-Cochliobolus verruculosus (Tsuda & Ueyama) Sivan., 1984 SPECIES
-=======
+# Pseudocochliobolus verruculosus Tsuda & Ueyama, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bitunicate Ascomycetes and their Anamorphs (Vaduz) 366 (1984)
+Mycologia 74(4): 565 (1982)
 
 #### Original name
 Pseudocochliobolus verruculosus Tsuda & Ueyama, 1982

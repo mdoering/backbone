@@ -1,5 +1,4 @@
-Mycena idiolens S. Lundell SPECIES
-=======
+# Mycena idiolens S. Lundell SPECIES
 
 #### Status
 ACCEPTED

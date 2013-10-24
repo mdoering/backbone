@@ -1,5 +1,4 @@
-Lecanora subrubra Hue SPECIES
-=======
+# Lecanora subrubra Hue SPECIES
 
 #### Status
 ACCEPTED

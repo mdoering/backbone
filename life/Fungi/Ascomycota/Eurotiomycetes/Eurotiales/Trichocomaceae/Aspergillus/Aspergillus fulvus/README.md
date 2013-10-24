@@ -1,5 +1,4 @@
-Aspergillus fulvus Mont. SPECIES
-=======
+# Aspergillus fulvus Mont. SPECIES
 
 #### Status
 ACCEPTED

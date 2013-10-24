@@ -1,5 +1,4 @@
-Discula caricina (Sacc.) Arx SPECIES
-=======
+# Discula caricina (Sacc.) Arx SPECIES
 
 #### Status
 ACCEPTED

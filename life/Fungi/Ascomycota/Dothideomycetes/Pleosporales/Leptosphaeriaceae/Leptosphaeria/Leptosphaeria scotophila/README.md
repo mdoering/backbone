@@ -1,5 +1,4 @@
-Leptosphaeria scotophila Sacc. SPECIES
-=======
+# Leptosphaeria scotophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

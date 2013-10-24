@@ -1,5 +1,4 @@
-Hydnum vagans Petch SPECIES
-=======
+# Hydnum vagans Petch SPECIES
 
 #### Status
 ACCEPTED

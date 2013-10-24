@@ -1,5 +1,4 @@
-Schizodiocrodium firmum (Burmann, 1970) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Schizodiocrodium firmum (Burmann, 1970) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 DOUBTFUL

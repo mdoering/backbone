@@ -1,5 +1,4 @@
-Goniosporium punctiforme Speg. SPECIES
-=======
+# Goniosporium punctiforme Speg. SPECIES
 
 #### Status
 ACCEPTED

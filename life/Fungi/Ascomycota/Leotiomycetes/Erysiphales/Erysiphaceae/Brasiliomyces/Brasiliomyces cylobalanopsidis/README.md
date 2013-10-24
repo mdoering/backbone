@@ -1,5 +1,4 @@
-Brasiliomyces cylobalanopsidis K.C. Kuo, W.H. Hsieh & L.S. Leu, 1992 SPECIES
-=======
+# Brasiliomyces cylobalanopsidis K.C. Kuo, W.H. Hsieh & L.S. Leu, 1992 SPECIES
 
 #### Status
 ACCEPTED

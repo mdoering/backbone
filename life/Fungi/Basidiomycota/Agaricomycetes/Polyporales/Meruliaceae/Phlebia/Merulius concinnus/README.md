@@ -1,5 +1,4 @@
-Merulius concinnus (Berk.) Kuntze SPECIES
-=======
+# Merulius concinnus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

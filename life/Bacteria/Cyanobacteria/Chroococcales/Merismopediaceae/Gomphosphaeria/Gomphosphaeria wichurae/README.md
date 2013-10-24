@@ -1,5 +1,4 @@
-Gomphosphaeria wichurae (Hilse in Rabenhorst) Drouet & Daily SPECIES
-=======
+# Gomphosphaeria wichurae (Hilse in Rabenhorst) Drouet & Daily SPECIES
 
 #### Status
 ACCEPTED

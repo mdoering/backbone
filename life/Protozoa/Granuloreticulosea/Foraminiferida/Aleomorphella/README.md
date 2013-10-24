@@ -1,5 +1,4 @@
-Aleomorphella GENUS
-=======
+# Aleomorphella GENUS
 
 #### Status
 ACCEPTED

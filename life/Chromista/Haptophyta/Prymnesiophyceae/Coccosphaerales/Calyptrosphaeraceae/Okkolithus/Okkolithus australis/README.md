@@ -1,5 +1,4 @@
-Okkolithus australis F.H. Wind & S.W. Wise SPECIES
-=======
+# Okkolithus australis F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

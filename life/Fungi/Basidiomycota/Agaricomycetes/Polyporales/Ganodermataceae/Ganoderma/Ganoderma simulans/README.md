@@ -1,5 +1,4 @@
-Ganoderma simulans Wakef. SPECIES
-=======
+# Ganoderma simulans Wakef. SPECIES
 
 #### Status
 ACCEPTED

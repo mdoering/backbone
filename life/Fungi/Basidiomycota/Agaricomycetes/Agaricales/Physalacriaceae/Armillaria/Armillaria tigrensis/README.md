@@ -1,5 +1,4 @@
-Armillaria tigrensis (Singer) T.J. Volk & Burds. SPECIES
-=======
+# Armillaria tigrensis (Singer) T.J. Volk & Burds. SPECIES
 
 #### Status
 ACCEPTED

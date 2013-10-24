@@ -1,5 +1,4 @@
-Teichospora helichrysi Fabre SPECIES
-=======
+# Teichospora helichrysi Fabre SPECIES
 
 #### Status
 ACCEPTED

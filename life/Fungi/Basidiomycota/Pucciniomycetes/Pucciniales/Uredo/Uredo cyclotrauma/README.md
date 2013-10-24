@@ -1,5 +1,4 @@
-Uredo cyclotrauma Speg. SPECIES
-=======
+# Uredo cyclotrauma Speg. SPECIES
 
 #### Status
 ACCEPTED

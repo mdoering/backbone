@@ -1,5 +1,4 @@
-Dictyota papillosa J.V.Lamouroux, 1820 SPECIES
-=======
+# Dictyota papillosa J.V.Lamouroux, 1820 SPECIES
 
 #### Status
 ACCEPTED

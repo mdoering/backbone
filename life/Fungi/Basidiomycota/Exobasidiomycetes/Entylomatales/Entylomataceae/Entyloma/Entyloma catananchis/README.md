@@ -1,5 +1,4 @@
-Entyloma catananchis Cif. ex Vánky, 1988 SPECIES
-=======
+# Entyloma catananchis Cif. ex Vánky, 1988 SPECIES
 
 #### Status
 ACCEPTED

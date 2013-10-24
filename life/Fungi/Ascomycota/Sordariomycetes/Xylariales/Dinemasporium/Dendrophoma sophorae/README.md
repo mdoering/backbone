@@ -1,5 +1,4 @@
-Dendrophoma sophorae Bondartseva SPECIES
-=======
+# Dendrophoma sophorae Bondartseva SPECIES
 
 #### Status
 ACCEPTED

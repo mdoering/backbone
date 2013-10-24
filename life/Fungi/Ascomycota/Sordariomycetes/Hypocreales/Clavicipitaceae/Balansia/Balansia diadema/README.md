@@ -1,5 +1,4 @@
-Balansia diadema Möller SPECIES
-=======
+# Balansia diadema Möller SPECIES
 
 #### Status
 ACCEPTED

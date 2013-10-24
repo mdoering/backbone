@@ -1,5 +1,4 @@
-Klebahnopycnis GENUS
-=======
+# Klebahnopycnis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia jasmini f. jasmini FORM
-=======
+# Diplodia jasmini Westend. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Not. U. 17 (1867)
 
 #### Original name
-Diplodia jasmini f. jasmini
+Diplodia jasmini Westend.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aecidium morreniae Speg. SPECIES
-=======
+# Aecidium morreniae Speg. SPECIES
 
 #### Status
 ACCEPTED

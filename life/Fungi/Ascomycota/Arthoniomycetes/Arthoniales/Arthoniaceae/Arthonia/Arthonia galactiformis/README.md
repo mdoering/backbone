@@ -1,5 +1,4 @@
-Arthonia galactiformis Flagey SPECIES
-=======
+# Arthonia galactiformis Flagey SPECIES
 
 #### Status
 ACCEPTED

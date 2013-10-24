@@ -1,5 +1,4 @@
-Sistotrema fallax Fr. SPECIES
-=======
+# Sistotrema fallax Fr. SPECIES
 
 #### Status
 ACCEPTED

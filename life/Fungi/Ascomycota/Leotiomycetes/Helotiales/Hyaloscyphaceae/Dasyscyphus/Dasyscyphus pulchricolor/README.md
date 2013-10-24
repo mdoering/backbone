@@ -1,5 +1,4 @@
-Dasyscyphus pulchricolor Svrcek, 1977 SPECIES
-=======
+# Dasyscyphus pulchricolor Svrcek, 1977 SPECIES
 
 #### Status
 ACCEPTED

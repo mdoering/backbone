@@ -1,5 +1,4 @@
-Lacellina macrospora M.B. Ellis SPECIES
-=======
+# Lacellina macrospora M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

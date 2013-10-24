@@ -1,5 +1,4 @@
-Buellia trachyspora Vain. SPECIES
-=======
+# Buellia trachyspora Vain. SPECIES
 
 #### Status
 ACCEPTED

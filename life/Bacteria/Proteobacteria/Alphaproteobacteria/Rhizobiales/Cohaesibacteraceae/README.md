@@ -1,5 +1,4 @@
-Cohaesibacteraceae Hwang & Cho, 2008 FAMILY
-=======
+# Cohaesibacteraceae Hwang & Cho, 2008 FAMILY
 
 #### Status
 ACCEPTED

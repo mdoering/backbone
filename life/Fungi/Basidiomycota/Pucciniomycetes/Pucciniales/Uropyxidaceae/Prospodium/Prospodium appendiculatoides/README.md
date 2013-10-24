@@ -1,5 +1,4 @@
-Prospodium appendiculatoides (Henn.) Cummins SPECIES
-=======
+# Prospodium appendiculatoides (Henn.) Cummins SPECIES
 
 #### Status
 ACCEPTED

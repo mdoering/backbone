@@ -1,5 +1,4 @@
-Aecidium phrymae Halst. SPECIES
-=======
+# Aecidium phrymae Halst. SPECIES
 
 #### Status
 ACCEPTED

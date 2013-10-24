@@ -1,5 +1,4 @@
-Bryoria variabilis (Bystrek) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria variabilis (Bystrek) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

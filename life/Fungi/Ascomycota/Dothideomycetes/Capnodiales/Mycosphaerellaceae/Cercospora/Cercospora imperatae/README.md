@@ -1,5 +1,4 @@
-Cercospora imperatae (Syd.) Sawada SPECIES
-=======
+# Cercospora imperatae (Syd.) Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmosporangium Seymour GENUS
-=======
+# Phragmosporangium Seymour GENUS
 
 #### Status
 ACCEPTED

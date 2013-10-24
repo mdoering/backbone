@@ -1,17 +1,16 @@
-Exidia gemmata f. gemmata FORM
-=======
+# Exidia nucleata (Schwein.) Burt, 1921 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 36: 69 (1920)
+Annual Report of the Missouri Botanical Garden, St. Louis 8: 371 (1921)
 
 #### Original name
-Exidia gemmata f. gemmata
+null
 
 ### Remarks
 null

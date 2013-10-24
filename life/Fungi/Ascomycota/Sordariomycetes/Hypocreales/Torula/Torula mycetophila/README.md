@@ -1,5 +1,4 @@
-Torula mycetophila Cooke & Massee SPECIES
-=======
+# Torula mycetophila Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

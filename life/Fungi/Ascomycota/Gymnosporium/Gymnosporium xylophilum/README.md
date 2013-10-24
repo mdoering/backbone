@@ -1,5 +1,4 @@
-Gymnosporium xylophilum Corda SPECIES
-=======
+# Gymnosporium xylophilum Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella ontariensis Rehm SPECIES
-=======
+# Pezizella ontariensis Rehm SPECIES
 
 #### Status
 ACCEPTED

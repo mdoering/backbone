@@ -1,5 +1,4 @@
-Sphaerella aliena f. aliena FORM
-=======
+# Sphaerella aliena Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella aliena f. aliena
+Sphaerella aliena Pass.
 
 ### Remarks
 null

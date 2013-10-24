@@ -1,5 +1,4 @@
-Cyathus wrightii Berk. SPECIES
-=======
+# Cyathus wrightii Berk. SPECIES
 
 #### Status
 ACCEPTED

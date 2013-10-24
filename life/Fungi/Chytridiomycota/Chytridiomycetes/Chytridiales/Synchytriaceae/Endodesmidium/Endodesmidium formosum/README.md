@@ -1,5 +1,4 @@
-Endodesmidium formosum Canter, 1949 SPECIES
-=======
+# Endodesmidium formosum Canter, 1949 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perenniporia anglica anon. ined. SPECIES
-=======
+# Perenniporia anglica anon. ined. SPECIES
 
 #### Status
 ACCEPTED

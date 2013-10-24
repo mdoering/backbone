@@ -1,5 +1,4 @@
-Rosellinia corticium (Schwein.) Sacc. SPECIES
-=======
+# Rosellinia corticium (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

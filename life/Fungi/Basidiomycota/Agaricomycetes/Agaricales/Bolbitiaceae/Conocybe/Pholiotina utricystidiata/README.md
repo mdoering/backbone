@@ -1,5 +1,4 @@
-Pholiotina utricystidiata Enderle & H.-J. Hübner SPECIES
-=======
+# Pholiotina utricystidiata Enderle & H.-J. Hübner SPECIES
 
 #### Status
 ACCEPTED

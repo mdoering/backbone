@@ -1,5 +1,4 @@
-Scytonema bewsii F.E. Fritsch SPECIES
-=======
+# Scytonema bewsii F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

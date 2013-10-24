@@ -1,14 +1,13 @@
-Polyporus berkeleyi Fr., 1851 SPECIES
-=======
+# Bondarzewia berkeleyi (Fr.) Bondartsev & Singer, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. Symb. Myc. 56 (1851)
+Annls mycol. 39(1): 47 (1941)
 
 #### Original name
 Polyporus berkeleyi Fr., 1851

@@ -1,5 +1,4 @@
-Phoma pinea Sacc. SPECIES
-=======
+# Phoma pinea Sacc. SPECIES
 
 #### Status
 ACCEPTED

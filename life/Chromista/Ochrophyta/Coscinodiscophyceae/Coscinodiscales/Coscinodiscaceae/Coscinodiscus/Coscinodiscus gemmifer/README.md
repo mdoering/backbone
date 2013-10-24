@@ -1,5 +1,4 @@
-Coscinodiscus gemmifer Ehrenb., 1844 SPECIES
-=======
+# Coscinodiscus gemmifer Ehrenb., 1844 SPECIES
 
 #### Status
 ACCEPTED

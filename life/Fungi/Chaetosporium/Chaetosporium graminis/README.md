@@ -1,5 +1,4 @@
-Chaetosporium graminis Corda SPECIES
-=======
+# Chaetosporium graminis Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Halosarpheia trullifera (Kohlm.) E.B.G. Jones, S.T. Moss & Cuomo, 1983 SPECIES
-=======
+# Remispora trullifera Kohlm., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 80(2): 200 (1983)
+Nova Hedwigia 6(3-4): 321 (1963)
 
 #### Original name
 Remispora trullifera Kohlm., 1963

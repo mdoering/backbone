@@ -1,5 +1,4 @@
-Corynesporella simpliphora Matsush. SPECIES
-=======
+# Corynesporella simpliphora Matsush. SPECIES
 
 #### Status
 ACCEPTED

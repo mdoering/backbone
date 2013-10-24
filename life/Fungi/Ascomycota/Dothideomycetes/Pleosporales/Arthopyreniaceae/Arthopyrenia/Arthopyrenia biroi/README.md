@@ -1,5 +1,4 @@
-Arthopyrenia biroi Szatala SPECIES
-=======
+# Arthopyrenia biroi Szatala SPECIES
 
 #### Status
 ACCEPTED

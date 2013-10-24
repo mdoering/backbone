@@ -1,5 +1,4 @@
-Leptosphaeria densa Bres., 1896 SPECIES
-=======
+# Leptosphaeria densa Bres., 1896 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepocinclis capitata Playfair SPECIES
-=======
+# Lepocinclis capitata Playfair SPECIES
 
 #### Status
 ACCEPTED

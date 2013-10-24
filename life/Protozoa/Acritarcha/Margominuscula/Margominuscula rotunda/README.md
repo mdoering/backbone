@@ -1,5 +1,4 @@
-Margominuscula rotunda Pykhova, 1969 SPECIES
-=======
+# Margominuscula rotunda Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

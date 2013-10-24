@@ -1,5 +1,4 @@
-Phaeodimeriella echinulospora Hansf. SPECIES
-=======
+# Phaeodimeriella echinulospora Hansf. SPECIES
 
 #### Status
 ACCEPTED

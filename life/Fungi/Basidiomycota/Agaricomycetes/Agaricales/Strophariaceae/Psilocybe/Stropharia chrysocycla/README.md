@@ -1,5 +1,4 @@
-Stropharia chrysocycla (Berk. & Broome) Sacc. SPECIES
-=======
+# Stropharia chrysocycla (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

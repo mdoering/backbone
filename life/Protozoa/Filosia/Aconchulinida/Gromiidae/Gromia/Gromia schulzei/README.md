@@ -1,5 +1,4 @@
-Gromia schulzei Norman, 1892 SPECIES
-=======
+# Gromia schulzei Norman, 1892 SPECIES
 
 #### Status
 ACCEPTED

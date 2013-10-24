@@ -1,5 +1,4 @@
-Trichophyton kagawaense H. Fujii SPECIES
-=======
+# Trichophyton kagawaense H. Fujii SPECIES
 
 #### Status
 ACCEPTED

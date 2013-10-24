@@ -1,5 +1,4 @@
-Hystrichosphaeridium simplicispinum R. J. Davey & G. L. Williams SPECIES
-=======
+# Hystrichosphaeridium simplicispinum R. J. Davey & G. L. Williams SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kalamopsis californica Cushman, 1927 SPECIES
-=======
+# Kalamopsis californica Cushman, 1927 SPECIES
 
 #### Status
 ACCEPTED

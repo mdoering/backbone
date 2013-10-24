@@ -1,14 +1,13 @@
-Omphalaria girardii (Durieu & Mont.) Nyl. SPECIES
-=======
+# Thyrea girardii (Durieu & Mont.) Bagl. & Carestia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Soc. Crittogam. Ital. 2: 349 (1881)
 
 #### Original name
 Collema girardii Durieu & Mont.

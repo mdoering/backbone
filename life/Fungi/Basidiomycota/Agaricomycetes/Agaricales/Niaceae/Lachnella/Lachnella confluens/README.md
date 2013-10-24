@@ -1,5 +1,4 @@
-Lachnella confluens Bat. SPECIES
-=======
+# Lachnella confluens Bat. SPECIES
 
 #### Status
 ACCEPTED

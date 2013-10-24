@@ -1,5 +1,4 @@
-Fusarium terrestre Manns SPECIES
-=======
+# Fusarium terrestre Manns SPECIES
 
 #### Status
 ACCEPTED

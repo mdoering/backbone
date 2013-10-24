@@ -1,5 +1,4 @@
-Verrucaria alpicola f. alpicola FORM
-=======
+# Verrucaria alpicola Zschacke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria alpicola f. alpicola
+Verrucaria alpicola Zschacke
 
 ### Remarks
 null

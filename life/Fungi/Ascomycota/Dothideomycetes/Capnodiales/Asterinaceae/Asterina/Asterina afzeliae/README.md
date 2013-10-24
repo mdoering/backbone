@@ -1,5 +1,4 @@
-Asterina afzeliae Mibey SPECIES
-=======
+# Asterina afzeliae Mibey SPECIES
 
 #### Status
 ACCEPTED

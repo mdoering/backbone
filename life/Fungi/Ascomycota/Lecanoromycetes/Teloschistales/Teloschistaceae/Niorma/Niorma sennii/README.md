@@ -1,5 +1,4 @@
-Niorma sennii var. sennii (Sambo) C.W. Dodge VARIETY
-=======
+# Niorma sennii (Sambo) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 38: 34 (1971)
 
 #### Original name
-Niorma sennii var. sennii (Sambo) C.W. Dodge
+Teloschistes sennii Sambo
 
 ### Remarks
 null

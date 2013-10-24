@@ -1,5 +1,4 @@
-Rhytidospora bispora J.C. Krug & Jeng SPECIES
-=======
+# Rhytidospora bispora J.C. Krug & Jeng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycenula GENUS
-=======
+# Mycenula GENUS
 
 #### Status
 ACCEPTED

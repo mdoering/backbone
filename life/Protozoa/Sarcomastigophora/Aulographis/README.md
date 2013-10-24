@@ -1,5 +1,4 @@
-Aulographis Haeckel, 1887 GENUS
-=======
+# Aulographis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius austroscrobiculatus Verbeken & E. Horak SPECIES
-=======
+# Lactarius austroscrobiculatus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

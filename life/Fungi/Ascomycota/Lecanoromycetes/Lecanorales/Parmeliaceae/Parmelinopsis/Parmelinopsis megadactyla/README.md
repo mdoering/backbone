@@ -1,5 +1,4 @@
-Parmelinopsis megadactyla Aptroot SPECIES
-=======
+# Parmelinopsis megadactyla Aptroot SPECIES
 
 #### Status
 ACCEPTED

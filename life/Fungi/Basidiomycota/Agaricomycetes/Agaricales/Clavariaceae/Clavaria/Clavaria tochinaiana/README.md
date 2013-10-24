@@ -1,5 +1,4 @@
-Clavaria tochinaiana S. Imai SPECIES
-=======
+# Clavaria tochinaiana S. Imai SPECIES
 
 #### Status
 ACCEPTED

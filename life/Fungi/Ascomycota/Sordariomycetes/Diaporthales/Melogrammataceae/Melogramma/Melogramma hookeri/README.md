@@ -1,5 +1,4 @@
-Melogramma hookeri Cooke SPECIES
-=======
+# Melogramma hookeri Cooke SPECIES
 
 #### Status
 ACCEPTED

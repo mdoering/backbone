@@ -1,5 +1,4 @@
-Cortinarius paradoxus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius paradoxus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

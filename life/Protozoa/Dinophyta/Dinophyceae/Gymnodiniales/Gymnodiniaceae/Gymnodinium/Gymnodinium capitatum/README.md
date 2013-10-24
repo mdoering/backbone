@@ -1,5 +1,4 @@
-Gymnodinium capitatum Conrad & Kufferath SPECIES
-=======
+# Gymnodinium capitatum Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

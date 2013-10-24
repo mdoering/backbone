@@ -1,5 +1,4 @@
-Sticta lingulata Vain. SPECIES
-=======
+# Sticta lingulata Vain. SPECIES
 
 #### Status
 ACCEPTED

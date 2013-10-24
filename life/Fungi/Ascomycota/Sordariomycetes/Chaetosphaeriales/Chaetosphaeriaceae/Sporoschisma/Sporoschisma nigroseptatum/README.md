@@ -1,17 +1,16 @@
-Sporoschisma nigroseptata D. Rao & P.Rag. Rao SPECIES
-=======
+# Sporoschisma nigroseptatum D. Rao & P.Rag. Rao, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopath. Mycol. appl. 24: 82 (1964)
 
 #### Original name
-Sporoschisma nigroseptata D. Rao & P.Rag. Rao
+Sporoschisma nigroseptatum D. Rao & P.Rag. Rao, 1964
 
 ### Remarks
 null

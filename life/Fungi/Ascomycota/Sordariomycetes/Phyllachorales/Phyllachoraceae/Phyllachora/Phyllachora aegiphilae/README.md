@@ -1,5 +1,4 @@
-Phyllachora aegiphilae F. Stevens, 1923 SPECIES
-=======
+# Phyllachora aegiphilae F. Stevens, 1923 SPECIES
 
 #### Status
 ACCEPTED

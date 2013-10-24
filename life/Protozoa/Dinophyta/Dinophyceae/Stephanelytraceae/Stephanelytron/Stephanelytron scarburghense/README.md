@@ -1,5 +1,4 @@
-Stephanelytron scarburghense Sarjeant, 1961 SPECIES
-=======
+# Stephanelytron scarburghense Sarjeant, 1961 SPECIES
 
 #### Status
 ACCEPTED

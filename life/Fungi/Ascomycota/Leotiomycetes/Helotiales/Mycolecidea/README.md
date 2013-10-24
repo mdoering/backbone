@@ -1,5 +1,4 @@
-Mycolecidea P.A. Karsten, 1888 GENUS
-=======
+# Mycolecidea P.A. Karsten, 1888 GENUS
 
 #### Status
 ACCEPTED

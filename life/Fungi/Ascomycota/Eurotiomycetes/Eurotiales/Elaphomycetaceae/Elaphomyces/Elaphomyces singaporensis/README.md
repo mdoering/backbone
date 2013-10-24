@@ -1,5 +1,4 @@
-Elaphomyces singaporensis Corner & Hawker SPECIES
-=======
+# Elaphomyces singaporensis Corner & Hawker SPECIES
 
 #### Status
 ACCEPTED

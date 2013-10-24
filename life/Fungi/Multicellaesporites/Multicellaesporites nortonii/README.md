@@ -1,5 +1,4 @@
-Multicellaesporites nortonii Elsik SPECIES
-=======
+# Multicellaesporites nortonii Elsik SPECIES
 
 #### Status
 ACCEPTED

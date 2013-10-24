@@ -1,5 +1,4 @@
-Boletus rubropictus Snell & A.H. Sm. SPECIES
-=======
+# Boletus rubropictus Snell & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

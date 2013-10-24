@@ -1,5 +1,4 @@
-Parathelohania Codreanu GENUS
-=======
+# Parathelohania Codreanu GENUS
 
 #### Status
 ACCEPTED

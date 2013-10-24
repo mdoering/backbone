@@ -1,5 +1,4 @@
-Mycosphaerella serrulatae (Ellis & Everh.) Diehl SPECIES
-=======
+# Mycosphaerella serrulatae (Ellis & Everh.) Diehl SPECIES
 
 #### Status
 ACCEPTED

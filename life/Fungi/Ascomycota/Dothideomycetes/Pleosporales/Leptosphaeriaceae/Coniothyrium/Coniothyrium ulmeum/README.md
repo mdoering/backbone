@@ -1,14 +1,13 @@
-Cytoplea ulmea (P. Karst.) Petr. & Syd., 1927 SPECIES
-=======
+# Coniothyrium ulmeum P. Karst., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. Spec. Nov. Regni Veg. , Beih. 42: 447 (1927)
+Hedwigia 23: 63 (1884)
 
 #### Original name
 Coniothyrium ulmeum P. Karst., 1884

@@ -1,5 +1,4 @@
-Chromulina cuneata Playfair SPECIES
-=======
+# Chromulina cuneata Playfair SPECIES
 
 #### Status
 ACCEPTED

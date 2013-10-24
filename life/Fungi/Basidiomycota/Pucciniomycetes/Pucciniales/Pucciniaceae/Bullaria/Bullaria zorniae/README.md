@@ -1,5 +1,4 @@
-Bullaria zorniae Arthur SPECIES
-=======
+# Bullaria zorniae Arthur SPECIES
 
 #### Status
 ACCEPTED

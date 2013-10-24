@@ -1,5 +1,4 @@
-Dicaeoma varians (Dietel) Syd. SPECIES
-=======
+# Dicaeoma varians (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

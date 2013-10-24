@@ -1,5 +1,4 @@
-Trichopsora Lagerh. GENUS
-=======
+# Trichopsora Lagerh. GENUS
 
 #### Status
 ACCEPTED

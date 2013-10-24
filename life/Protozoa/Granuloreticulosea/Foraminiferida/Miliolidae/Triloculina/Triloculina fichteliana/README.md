@@ -1,5 +1,4 @@
-Triloculina fichteliana d'Orbigny SPECIES
-=======
+# Triloculina fichteliana d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

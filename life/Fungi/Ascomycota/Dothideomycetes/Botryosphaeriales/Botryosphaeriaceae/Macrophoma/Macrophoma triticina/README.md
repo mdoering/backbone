@@ -1,5 +1,4 @@
-Macrophoma triticina S. Ahmad SPECIES
-=======
+# Macrophoma triticina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

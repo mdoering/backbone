@@ -1,5 +1,4 @@
-Polychytrium aggregatum Ajello, 1942 SPECIES
-=======
+# Polychytrium aggregatum Ajello, 1942 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Verrucaria monosporella (Nyl.) Hue SPECIES
-=======
+# Thelenidia monosporella Nyl., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 69: (1886)
 
 #### Original name
 Thelenidia monosporella Nyl., 1886

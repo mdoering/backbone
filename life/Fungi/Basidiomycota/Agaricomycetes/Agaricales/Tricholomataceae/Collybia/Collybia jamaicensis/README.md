@@ -1,8 +1,7 @@
-Collybia jamaicense (Murrill) Murrill SPECIES
-=======
+# Collybia jamaicensis (Murrill) Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

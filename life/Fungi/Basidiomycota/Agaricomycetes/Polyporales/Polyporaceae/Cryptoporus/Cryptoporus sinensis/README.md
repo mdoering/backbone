@@ -1,5 +1,4 @@
-Cryptoporus sinensis Sheng H. Wu & M. Zang, 2000 SPECIES
-=======
+# Cryptoporus sinensis Sheng H. Wu & M. Zang, 2000 SPECIES
 
 #### Status
 ACCEPTED

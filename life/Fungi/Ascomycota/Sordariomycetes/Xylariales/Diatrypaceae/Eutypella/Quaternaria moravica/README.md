@@ -1,5 +1,4 @@
-Quaternaria moravica Sacc. & Petr. SPECIES
-=======
+# Quaternaria moravica Sacc. & Petr. SPECIES
 
 #### Status
 ACCEPTED

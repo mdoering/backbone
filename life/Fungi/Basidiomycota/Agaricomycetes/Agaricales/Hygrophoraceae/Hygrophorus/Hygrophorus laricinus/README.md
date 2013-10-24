@@ -1,5 +1,4 @@
-Hygrophorus laricinus Peck SPECIES
-=======
+# Hygrophorus laricinus Peck SPECIES
 
 #### Status
 ACCEPTED

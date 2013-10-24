@@ -1,5 +1,4 @@
-Meliola mangostana Sacc. SPECIES
-=======
+# Meliola mangostana Sacc. SPECIES
 
 #### Status
 ACCEPTED

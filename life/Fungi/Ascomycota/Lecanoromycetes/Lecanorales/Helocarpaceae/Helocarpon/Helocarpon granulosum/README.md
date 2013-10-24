@@ -1,5 +1,4 @@
-Helocarpon granulosum SPECIES
-=======
+# Helocarpon granulosum SPECIES
 
 #### Status
 ACCEPTED

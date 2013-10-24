@@ -1,5 +1,4 @@
-Arthrobacter citreus Sacks, 1954 (Approved Lists, 1980) SPECIES
-=======
+# Arthrobacter citreus Sacks, 1954 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Merulius guyanensis (Mont.) Kuntze, 1891 SPECIES
-=======
+# Cantharellus guyanensis Mont., 1854 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 862 (1891)
+Annls Sci. Nat. , Bot. , sér. 4 1: 107 (1854)
 
 #### Original name
 Cantharellus guyanensis Mont., 1854

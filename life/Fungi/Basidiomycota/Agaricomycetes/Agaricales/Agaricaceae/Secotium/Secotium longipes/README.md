@@ -1,5 +1,4 @@
-Secotium longipes Zeller SPECIES
-=======
+# Secotium longipes Zeller SPECIES
 
 #### Status
 ACCEPTED

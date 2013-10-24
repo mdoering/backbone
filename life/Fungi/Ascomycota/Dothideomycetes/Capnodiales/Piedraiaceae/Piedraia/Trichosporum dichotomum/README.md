@@ -1,5 +1,4 @@
-Trichosporum dichotomum (Corda) J. Kickx f. SPECIES
-=======
+# Trichosporum dichotomum (Corda) J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

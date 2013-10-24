@@ -1,5 +1,4 @@
-Peziza scutellaris O.F. Müll. SPECIES
-=======
+# Peziza scutellaris O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

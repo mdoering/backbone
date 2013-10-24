@@ -1,5 +1,4 @@
-Ekhidna lutea Alain, Tindall, Intertaglia, Catala & Lebaron, 2010 SPECIES
-=======
+# Ekhidna lutea Alain, Tindall, Intertaglia, Catala & Lebaron, 2010 SPECIES
 
 #### Status
 ACCEPTED

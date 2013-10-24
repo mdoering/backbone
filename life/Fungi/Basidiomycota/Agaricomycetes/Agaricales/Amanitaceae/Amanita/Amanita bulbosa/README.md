@@ -1,5 +1,4 @@
-Amanita bulbosa var. bulbosa VARIETY
-=======
+# Amanita bulbosa (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Larger Fungi of South Australia (Adelaide) 406 (1997)
 
 #### Original name
-null
+Lepiota bulbosa Cleland
 
 ### Remarks
 null

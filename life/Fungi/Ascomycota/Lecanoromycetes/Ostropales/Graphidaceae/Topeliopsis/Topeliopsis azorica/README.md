@@ -1,8 +1,7 @@
-Ramonia azorica P. James & Purvis SPECIES
-=======
+# Topeliopsis azorica (P. James & Purvis) Coppins & Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Erysiphe acalyphae (F.L. Tai) R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Erysiphe acalyphae (F.L. Tai) R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

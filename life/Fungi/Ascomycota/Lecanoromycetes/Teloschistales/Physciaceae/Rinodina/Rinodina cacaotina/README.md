@@ -1,5 +1,4 @@
-Rinodina cacaotina Zahlbr. SPECIES
-=======
+# Rinodina cacaotina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Steirochaete mcclellandii Toro SPECIES
-=======
+# Steirochaete macclellandii Toro SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Steirochaete mcclellandii Toro
+Steirochaete macclellandii Toro
 
 ### Remarks
 null

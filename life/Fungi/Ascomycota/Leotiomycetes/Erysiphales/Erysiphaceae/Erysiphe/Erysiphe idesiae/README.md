@@ -1,5 +1,4 @@
-Erysiphe idesiae (D.Z. Xie) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe idesiae (D.Z. Xie) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

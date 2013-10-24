@@ -1,5 +1,4 @@
-Tristephaniscus Haeckel, 1881 GENUS
-=======
+# Tristephaniscus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

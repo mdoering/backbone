@@ -1,5 +1,4 @@
-Leotia nigra S. Ito & S. Imai SPECIES
-=======
+# Leotia nigra S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

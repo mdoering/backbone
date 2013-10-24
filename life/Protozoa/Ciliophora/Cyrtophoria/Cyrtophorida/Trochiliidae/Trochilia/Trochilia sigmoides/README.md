@@ -1,5 +1,4 @@
-Trochilia sigmoides Dujardin, 1841 SPECIES
-=======
+# Trochilia sigmoides Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

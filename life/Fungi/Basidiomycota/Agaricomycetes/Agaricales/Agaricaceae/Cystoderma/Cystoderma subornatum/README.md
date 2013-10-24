@@ -1,14 +1,13 @@
-Cystoderma subornata (Raithelh.) Raithelh. SPECIES
-=======
+# Cystoderma subornatum (Raithelh.) Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fl. Mycol. Argentina (Stuttgart), Hongos <b>I</b> 290 (1987)
 
 #### Original name
 Lepiota subornata Raithelh.

@@ -1,5 +1,4 @@
-Mycenastrum lycoperdoides Cooke SPECIES
-=======
+# Mycenastrum lycoperdoides Cooke SPECIES
 
 #### Status
 ACCEPTED

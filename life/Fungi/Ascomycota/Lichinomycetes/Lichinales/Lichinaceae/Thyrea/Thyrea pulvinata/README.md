@@ -1,5 +1,4 @@
-Thyrea pulvinata (Schaer.) A. Massal. SPECIES
-=======
+# Thyrea pulvinata (Schaer.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

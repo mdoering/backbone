@@ -1,17 +1,16 @@
-Cylindrocarpon kantschaweli Schischkina & Tsanava SPECIES
-=======
+# Cylindrocarpon kantschavelii Schischkina & Tsanava SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 10: 164 (1973)
 
 #### Original name
-Cylindrocarpon kantschaweli Schischkina & Tsanava
+Cylindrocarpon kantschavelii Schischkina & Tsanava
 
 ### Remarks
 null

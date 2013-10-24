@@ -1,17 +1,16 @@
-Lepraria flava f. flava FORM
-=======
+# Chrysothrix candelaris (L.) J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. suec. prodr. (Linköping) 6 (1798)
+Lichenologist 13(2): 110 (1981)
 
 #### Original name
-Lepraria flava f. flava
+Byssus candelaris L.
 
 ### Remarks
 null

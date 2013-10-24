@@ -1,5 +1,4 @@
-Mallomonas akrokomas Smith SPECIES
-=======
+# Mallomonas akrokomas Smith SPECIES
 
 #### Status
 ACCEPTED

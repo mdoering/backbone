@@ -1,5 +1,4 @@
-Leptosphaeria pandani Tassi SPECIES
-=======
+# Leptosphaeria pandani Tassi SPECIES
 
 #### Status
 ACCEPTED

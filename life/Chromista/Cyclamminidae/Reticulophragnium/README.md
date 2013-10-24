@@ -1,5 +1,4 @@
-Reticulophragnium GENUS
-=======
+# Reticulophragnium GENUS
 
 #### Status
 ACCEPTED

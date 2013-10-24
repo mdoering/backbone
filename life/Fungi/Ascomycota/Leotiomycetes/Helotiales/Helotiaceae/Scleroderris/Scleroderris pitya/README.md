@@ -1,5 +1,4 @@
-Scleroderris pitya (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Scleroderris pitya (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

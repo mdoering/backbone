@@ -1,5 +1,4 @@
-Parmotrema despectum Kurok. SPECIES
-=======
+# Parmotrema despectum Kurok. SPECIES
 
 #### Status
 ACCEPTED

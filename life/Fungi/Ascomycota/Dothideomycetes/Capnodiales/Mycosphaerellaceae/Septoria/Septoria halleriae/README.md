@@ -1,5 +1,4 @@
-Septoria halleriae Sacc. & Scalia SPECIES
-=======
+# Septoria halleriae Sacc. & Scalia SPECIES
 
 #### Status
 ACCEPTED

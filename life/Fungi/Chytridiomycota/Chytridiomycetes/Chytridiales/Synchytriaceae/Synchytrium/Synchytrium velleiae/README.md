@@ -1,5 +1,4 @@
-Synchytrium velleiae Karling SPECIES
-=======
+# Synchytrium velleiae Karling SPECIES
 
 #### Status
 ACCEPTED

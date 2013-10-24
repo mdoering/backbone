@@ -1,5 +1,4 @@
-Multiclavula rugaramae Eb. Fisch., Ertz, Killmann & Sérus. SPECIES
-=======
+# Multiclavula rugaramae Eb. Fisch., Ertz, Killmann & Sérus. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena egregia Maas Geest. SPECIES
-=======
+# Mycena egregia Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

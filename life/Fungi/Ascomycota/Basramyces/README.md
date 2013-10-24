@@ -1,5 +1,4 @@
-Basramyces Abdullah, Abdulk. & Goos GENUS
-=======
+# Basramyces Abdullah, Abdulk. & Goos GENUS
 
 #### Status
 ACCEPTED

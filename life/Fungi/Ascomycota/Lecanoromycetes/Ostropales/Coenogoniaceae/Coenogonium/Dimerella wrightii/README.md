@@ -1,5 +1,4 @@
-Dimerella wrightii Vezda SPECIES
-=======
+# Dimerella wrightii Vezda SPECIES
 
 #### Status
 ACCEPTED

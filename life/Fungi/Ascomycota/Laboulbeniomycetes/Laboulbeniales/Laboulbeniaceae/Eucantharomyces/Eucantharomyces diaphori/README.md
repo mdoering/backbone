@@ -1,5 +1,4 @@
-Eucantharomyces diaphori Thaxt. SPECIES
-=======
+# Eucantharomyces diaphori Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermocybe aurantiobasis (Ammirati & A.H. Sm.) Ammirati SPECIES
-=======
+# Dermocybe aurantiobasis (Ammirati & A.H. Sm.) Ammirati SPECIES
 
 #### Status
 ACCEPTED

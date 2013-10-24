@@ -1,5 +1,4 @@
-Geopyxis tuberculosa Sacc. & Cooke SPECIES
-=======
+# Geopyxis tuberculosa Sacc. & Cooke SPECIES
 
 #### Status
 ACCEPTED

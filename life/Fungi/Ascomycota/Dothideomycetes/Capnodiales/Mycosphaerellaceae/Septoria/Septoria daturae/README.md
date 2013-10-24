@@ -1,5 +1,4 @@
-Septoria daturae Speg. SPECIES
-=======
+# Septoria daturae Speg. SPECIES
 
 #### Status
 ACCEPTED

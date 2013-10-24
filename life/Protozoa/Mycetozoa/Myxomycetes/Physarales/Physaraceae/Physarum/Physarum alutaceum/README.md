@@ -1,5 +1,4 @@
-Physarum alutaceum Wallr. SPECIES
-=======
+# Physarum alutaceum Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylomites protogaeus Heer SPECIES
-=======
+# Xylomites protogaeus Heer SPECIES
 
 #### Status
 ACCEPTED

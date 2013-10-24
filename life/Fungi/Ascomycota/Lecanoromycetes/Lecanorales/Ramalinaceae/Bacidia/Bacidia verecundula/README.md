@@ -1,5 +1,4 @@
-Bacidia verecundula (Th. Fr.) H. Magn. SPECIES
-=======
+# Bacidia verecundula (Th. Fr.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phanerochaete infuscata Hjortstam & Ryvarden SPECIES
-=======
+# Phanerochaete infuscata Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

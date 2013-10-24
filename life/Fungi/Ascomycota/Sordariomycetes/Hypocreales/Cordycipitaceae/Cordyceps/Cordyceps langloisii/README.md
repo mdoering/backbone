@@ -1,5 +1,4 @@
-Cordyceps langloisii Ellis & Everh. SPECIES
-=======
+# Cordyceps langloisii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

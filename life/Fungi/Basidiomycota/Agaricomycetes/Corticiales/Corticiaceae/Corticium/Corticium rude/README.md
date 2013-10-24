@@ -1,5 +1,4 @@
-Corticium rude Pat. SPECIES
-=======
+# Corticium rude Pat. SPECIES
 
 #### Status
 ACCEPTED

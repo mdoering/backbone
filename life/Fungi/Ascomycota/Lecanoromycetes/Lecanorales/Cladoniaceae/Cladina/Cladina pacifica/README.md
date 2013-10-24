@@ -1,5 +1,4 @@
-Cladina pacifica (Ahti) Hale & W.L. Culb. SPECIES
-=======
+# Cladina pacifica (Ahti) Hale & W.L. Culb. SPECIES
 
 #### Status
 ACCEPTED

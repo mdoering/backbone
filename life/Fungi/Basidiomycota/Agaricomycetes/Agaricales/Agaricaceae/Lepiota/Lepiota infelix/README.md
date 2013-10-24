@@ -1,5 +1,4 @@
-Lepiota infelix E. Horak SPECIES
-=======
+# Lepiota infelix E. Horak SPECIES
 
 #### Status
 ACCEPTED

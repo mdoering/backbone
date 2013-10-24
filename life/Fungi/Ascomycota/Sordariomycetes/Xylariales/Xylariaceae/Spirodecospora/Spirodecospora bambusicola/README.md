@@ -1,5 +1,4 @@
-Spirodecospora bambusicola B.S. Lu, K.D. Hyde & W.H. Ho, 1998 SPECIES
-=======
+# Spirodecospora bambusicola B.S. Lu, K.D. Hyde & W.H. Ho, 1998 SPECIES
 
 #### Status
 ACCEPTED

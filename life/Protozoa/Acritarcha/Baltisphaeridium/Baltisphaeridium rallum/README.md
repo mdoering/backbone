@@ -1,5 +1,4 @@
-Baltisphaeridium rallum Brideaux, 1971 SPECIES
-=======
+# Baltisphaeridium rallum Brideaux, 1971 SPECIES
 
 #### Status
 ACCEPTED

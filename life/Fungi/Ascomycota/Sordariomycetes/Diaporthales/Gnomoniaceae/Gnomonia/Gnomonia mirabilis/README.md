@@ -1,5 +1,4 @@
-Gnomonia mirabilis (Peck) M. Monod SPECIES
-=======
+# Gnomonia mirabilis (Peck) M. Monod SPECIES
 
 #### Status
 ACCEPTED

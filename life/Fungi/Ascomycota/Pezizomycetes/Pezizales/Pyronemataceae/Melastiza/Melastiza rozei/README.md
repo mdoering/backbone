@@ -1,5 +1,4 @@
-Melastiza rozei (Boud.) Spooner & Y.J. Yao SPECIES
-=======
+# Melastiza rozei (Boud.) Spooner & Y.J. Yao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cribraria stellata Schumach. SPECIES
-=======
+# Cribraria stellata Schumach. SPECIES
 
 #### Status
 ACCEPTED

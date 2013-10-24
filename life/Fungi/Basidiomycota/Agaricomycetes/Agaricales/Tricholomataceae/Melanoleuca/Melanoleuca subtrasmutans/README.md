@@ -1,5 +1,4 @@
-Melanoleuca subtrasmutans Murrill SPECIES
-=======
+# Melanoleuca subtrasmutans Murrill SPECIES
 
 #### Status
 ACCEPTED

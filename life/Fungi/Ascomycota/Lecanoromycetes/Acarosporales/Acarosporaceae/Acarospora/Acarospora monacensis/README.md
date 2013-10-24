@@ -1,5 +1,4 @@
-Acarospora monacensis H. Magn. SPECIES
-=======
+# Acarospora monacensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

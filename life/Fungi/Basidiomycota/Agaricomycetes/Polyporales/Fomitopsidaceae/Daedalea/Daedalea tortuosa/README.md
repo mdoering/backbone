@@ -1,5 +1,4 @@
-Daedalea tortuosa Cragin SPECIES
-=======
+# Daedalea tortuosa Cragin SPECIES
 
 #### Status
 ACCEPTED

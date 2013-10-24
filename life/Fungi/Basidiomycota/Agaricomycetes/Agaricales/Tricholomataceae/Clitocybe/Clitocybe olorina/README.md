@@ -1,5 +1,4 @@
-Clitocybe olorina Fr. SPECIES
-=======
+# Clitocybe olorina Fr. SPECIES
 
 #### Status
 ACCEPTED

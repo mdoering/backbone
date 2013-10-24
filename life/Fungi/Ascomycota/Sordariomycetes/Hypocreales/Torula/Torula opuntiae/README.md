@@ -1,5 +1,4 @@
-Torula opuntiae Reichert SPECIES
-=======
+# Torula opuntiae Reichert SPECIES
 
 #### Status
 ACCEPTED

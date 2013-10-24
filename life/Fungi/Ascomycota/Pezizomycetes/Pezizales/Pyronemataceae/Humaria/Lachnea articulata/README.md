@@ -1,5 +1,4 @@
-Lachnea articulata (P. Karst.) Sacc. SPECIES
-=======
+# Lachnea articulata (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

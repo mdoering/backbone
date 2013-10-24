@@ -1,5 +1,4 @@
-Craterellus elegans Rick SPECIES
-=======
+# Craterellus elegans Rick SPECIES
 
 #### Status
 ACCEPTED

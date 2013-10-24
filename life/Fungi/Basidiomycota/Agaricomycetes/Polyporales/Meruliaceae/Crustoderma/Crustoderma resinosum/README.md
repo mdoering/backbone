@@ -1,14 +1,13 @@
-Hyphoderma resinosum (H.S. Jacks. & Dearden) K.J. Martin & Gilb., 1977 SPECIES
-=======
+# Crustoderma resinosum (H.S. Jacks. & Dearden) Gilb., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 6(1): 62 (1977)
+Mycotaxon 12(2): 377 (1981)
 
 #### Original name
 Peniophora resinosa H.S. Jacks. & Dearden, 1949

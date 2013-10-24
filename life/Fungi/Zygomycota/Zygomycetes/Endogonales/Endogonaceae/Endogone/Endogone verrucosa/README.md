@@ -1,5 +1,4 @@
-Endogone verrucosa Gerd. & Trappe, 1974 SPECIES
-=======
+# Endogone verrucosa Gerd. & Trappe, 1974 SPECIES
 
 #### Status
 ACCEPTED

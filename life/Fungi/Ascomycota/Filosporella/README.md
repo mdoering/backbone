@@ -1,17 +1,16 @@
-Rogersia Shearer & J.L. Crane GENUS
-=======
+# Filosporella Nawawi GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 68(4): 946 (1976)
+Trans. Br. mycol. Soc. 67(1): 175 (1976)
 
 #### Original name
-Rogersia Shearer & J.L. Crane
+Filosporella Nawawi
 
 ### Remarks
 null

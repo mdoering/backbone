@@ -1,17 +1,16 @@
-Colletotrichum aeciicolum Tehon SPECIES
-=======
+# Colletotrichum aeciicola Tehon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 25: 254 (1933)
 
 #### Original name
-Colletotrichum aeciicolum Tehon
+Colletotrichum aeciicola Tehon
 
 ### Remarks
 null

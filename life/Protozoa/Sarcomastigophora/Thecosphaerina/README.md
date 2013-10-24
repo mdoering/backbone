@@ -1,5 +1,4 @@
-Thecosphaerina Haeckel, 1887 GENUS
-=======
+# Thecosphaerina Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

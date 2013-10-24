@@ -1,5 +1,4 @@
-Asteromella striolata (Sacc.) H. Ruppr. SPECIES
-=======
+# Asteromella striolata (Sacc.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

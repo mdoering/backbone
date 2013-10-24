@@ -1,5 +1,4 @@
-Pezizella cucurbitae (W.R. Gerard) Sacc. SPECIES
-=======
+# Pezizella cucurbitae (W.R. Gerard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

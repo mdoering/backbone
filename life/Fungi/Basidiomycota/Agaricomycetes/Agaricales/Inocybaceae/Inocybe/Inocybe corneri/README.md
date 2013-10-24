@@ -1,5 +1,4 @@
-Inocybe corneri (E. Horak) Garrido SPECIES
-=======
+# Inocybe corneri (E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

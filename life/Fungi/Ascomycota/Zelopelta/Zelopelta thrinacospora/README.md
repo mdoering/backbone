@@ -1,17 +1,16 @@
-Zelopelta thrinacrospora B. Sutton & R.D. Gaur SPECIES
-=======
+# Zelopelta thrinacospora B. Sutton & R.D. Gaur, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 82(3): 558 (1984)
 
 #### Original name
-Zelopelta thrinacrospora B. Sutton & R.D. Gaur
+Zelopelta thrinacospora B. Sutton & R.D. Gaur, 1984
 
 ### Remarks
 null

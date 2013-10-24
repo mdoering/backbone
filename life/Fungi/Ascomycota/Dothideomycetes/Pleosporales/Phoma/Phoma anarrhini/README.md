@@ -1,5 +1,4 @@
-Phoma anarrhini Gonz. Frag. SPECIES
-=======
+# Phoma anarrhini Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

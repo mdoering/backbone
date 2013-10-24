@@ -1,5 +1,4 @@
-Ophiobolus theissenii Petr. SPECIES
-=======
+# Ophiobolus theissenii Petr. SPECIES
 
 #### Status
 ACCEPTED

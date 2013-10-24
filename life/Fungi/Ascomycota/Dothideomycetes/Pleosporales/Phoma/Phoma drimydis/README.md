@@ -1,8 +1,7 @@
-Phoma drymidis Speg. SPECIES
-=======
+# Phoma drimydis Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma drymidis Speg.
+Phoma drimydis Speg.
 
 ### Remarks
 null

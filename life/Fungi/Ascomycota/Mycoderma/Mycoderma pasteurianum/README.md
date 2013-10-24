@@ -1,5 +1,4 @@
-Mycoderma pasteurianum E.C. Hansen SPECIES
-=======
+# Mycoderma pasteurianum E.C. Hansen SPECIES
 
 #### Status
 ACCEPTED

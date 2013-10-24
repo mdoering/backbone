@@ -1,5 +1,4 @@
-Actinomadura verrucosospora Nonomura and Ohara, 1971 (Approved Lists, 1980) SPECIES
-=======
+# Actinomadura verrucosospora Nonomura and Ohara, 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

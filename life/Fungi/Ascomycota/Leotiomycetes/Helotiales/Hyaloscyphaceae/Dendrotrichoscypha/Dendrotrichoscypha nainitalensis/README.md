@@ -1,5 +1,4 @@
-Dendrotrichoscypha nainitalensis M.P. Sharma SPECIES
-=======
+# Dendrotrichoscypha nainitalensis M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

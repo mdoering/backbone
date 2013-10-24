@@ -1,5 +1,4 @@
-Acarospora peliscyphoides (Nyl.) H. Olivier SPECIES
-=======
+# Acarospora peliscyphoides (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida santjacobensis C. Ramírez & A.E. González, 1984 SPECIES
-=======
+# Candida santjacobensis C. Ramírez & A.E. González, 1984 SPECIES
 
 #### Status
 ACCEPTED

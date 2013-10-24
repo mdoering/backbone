@@ -1,5 +1,4 @@
-Pseudasterodon odontioides (Rick) Rick SPECIES
-=======
+# Pseudasterodon odontioides (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

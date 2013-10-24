@@ -1,5 +1,4 @@
-Cephaloidophora maculata Léger & Duboscq, 1911 SPECIES
-=======
+# Cephaloidophora maculata Léger & Duboscq, 1911 SPECIES
 
 #### Status
 ACCEPTED

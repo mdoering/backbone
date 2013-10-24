@@ -1,14 +1,13 @@
-Psathyrella rhodophae (Mont.) Guzmán SPECIES
-=======
+# Psathyrella rhodophaea (Mont.) Guzmán SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Guzmán & Vergeer, Mycotaxon 6(3): 474 (1978)
 
 #### Original name
 Psilocybe rhodophaea Mont.

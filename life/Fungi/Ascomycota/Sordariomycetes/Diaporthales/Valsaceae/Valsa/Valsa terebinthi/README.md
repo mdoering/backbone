@@ -1,5 +1,4 @@
-Valsa terebinthi Fabre SPECIES
-=======
+# Valsa terebinthi Fabre SPECIES
 
 #### Status
 ACCEPTED

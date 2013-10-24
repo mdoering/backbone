@@ -1,5 +1,4 @@
-Henningsomyces tarapotensis (Henn.) Theiss. & Syd. SPECIES
-=======
+# Henningsomyces tarapotensis (Henn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia pseudocesatii Cummins SPECIES
-=======
+# Puccinia pseudocesatii Cummins SPECIES
 
 #### Status
 ACCEPTED

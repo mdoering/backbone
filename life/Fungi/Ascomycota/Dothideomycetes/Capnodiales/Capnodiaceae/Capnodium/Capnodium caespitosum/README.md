@@ -1,5 +1,4 @@
-Capnodium caespitosum Ellis & Everh. SPECIES
-=======
+# Capnodium caespitosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

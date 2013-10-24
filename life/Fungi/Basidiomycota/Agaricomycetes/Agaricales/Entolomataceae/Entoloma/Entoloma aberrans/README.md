@@ -1,5 +1,4 @@
-Entoloma aberrans E. Horak, 1973 SPECIES
-=======
+# Entoloma aberrans E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

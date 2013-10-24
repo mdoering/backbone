@@ -1,5 +1,4 @@
-Glomerilla Norman GENUS
-=======
+# Glomerilla Norman GENUS
 
 #### Status
 ACCEPTED

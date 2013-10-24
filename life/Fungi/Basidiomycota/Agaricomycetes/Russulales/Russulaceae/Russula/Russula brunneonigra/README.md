@@ -1,5 +1,4 @@
-Russula brunneonigra T. Lebel SPECIES
-=======
+# Russula brunneonigra T. Lebel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma nuculoides G. Winter SPECIES
-=======
+# Lophiostoma nuculoides G. Winter SPECIES
 
 #### Status
 ACCEPTED

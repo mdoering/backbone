@@ -1,5 +1,4 @@
-Carposphaera acanthophora (Popofsky) Benson, 1966 SPECIES
-=======
+# Carposphaera acanthophora (Popofsky) Benson, 1966 SPECIES
 
 #### Status
 ACCEPTED

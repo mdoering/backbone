@@ -1,5 +1,4 @@
-Delitschia trigonospora Bat. & Peres, 1964 SPECIES
-=======
+# Delitschia trigonospora Bat. & Peres, 1964 SPECIES
 
 #### Status
 ACCEPTED

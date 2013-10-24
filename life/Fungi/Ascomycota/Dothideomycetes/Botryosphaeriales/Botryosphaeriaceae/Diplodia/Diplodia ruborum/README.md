@@ -1,5 +1,4 @@
-Diplodia ruborum (Schwein.) Sacc. SPECIES
-=======
+# Diplodia ruborum (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

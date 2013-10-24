@@ -1,5 +1,4 @@
-Orgyia tetragona Stackhouse SPECIES
-=======
+# Orgyia tetragona Stackhouse SPECIES
 
 #### Status
 ACCEPTED

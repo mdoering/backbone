@@ -1,5 +1,4 @@
-Phacus megalopsis Pochmann SPECIES
-=======
+# Phacus megalopsis Pochmann SPECIES
 
 #### Status
 ACCEPTED

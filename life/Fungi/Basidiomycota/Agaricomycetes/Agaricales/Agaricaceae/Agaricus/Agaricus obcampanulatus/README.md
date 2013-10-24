@@ -1,5 +1,4 @@
-Agaricus obcampanulatus Schumach. SPECIES
-=======
+# Agaricus obcampanulatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

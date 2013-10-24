@@ -1,5 +1,4 @@
-Humicola mariae-stephanae Nicoli SPECIES
-=======
+# Humicola mariae-stephanae Nicoli SPECIES
 
 #### Status
 ACCEPTED

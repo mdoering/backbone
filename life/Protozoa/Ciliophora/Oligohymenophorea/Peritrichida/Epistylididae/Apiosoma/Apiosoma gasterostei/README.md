@@ -1,5 +1,4 @@
-Apiosoma gasterostei SPECIES
-=======
+# Apiosoma gasterostei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosporomyces adnatus (Rehill & B.K. Bakshi) S.S. Rattan, 1977 SPECIES
-=======
+# Leptosporomyces adnatus (Rehill & B.K. Bakshi) S.S. Rattan, 1977 SPECIES
 
 #### Status
 ACCEPTED

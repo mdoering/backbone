@@ -1,5 +1,4 @@
-Scenidium capillaceum (Pat. & Gaillard) Kuntze SPECIES
-=======
+# Scenidium capillaceum (Pat. & Gaillard) Kuntze SPECIES
 
 #### Status
 ACCEPTED

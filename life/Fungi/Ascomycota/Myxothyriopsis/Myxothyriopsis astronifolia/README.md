@@ -1,17 +1,16 @@
-Myxothyriopsis astronifolium Bat. & A.F. Vital SPECIES
-=======
+# Myxothyriopsis astronifolia Bat. & A.F. Vital, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anais Soc. Biol. Pernambuco 14(1-2): 90 (1956)
 
 #### Original name
-Myxothyriopsis astronifolium Bat. & A.F. Vital
+Myxothyriopsis astronifolia Bat. & A.F. Vital, 1956
 
 ### Remarks
 null

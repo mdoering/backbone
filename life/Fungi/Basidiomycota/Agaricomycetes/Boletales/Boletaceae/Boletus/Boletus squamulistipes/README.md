@@ -1,5 +1,4 @@
-Boletus squamulistipes M. Zang SPECIES
-=======
+# Boletus squamulistipes M. Zang SPECIES
 
 #### Status
 ACCEPTED

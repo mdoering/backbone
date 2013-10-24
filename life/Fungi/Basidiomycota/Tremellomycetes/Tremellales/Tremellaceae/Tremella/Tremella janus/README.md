@@ -1,5 +1,4 @@
-Tremella janus Berk. & M.A. Curtis SPECIES
-=======
+# Tremella janus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

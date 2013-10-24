@@ -1,5 +1,4 @@
-Puccinia perundulata Cummins SPECIES
-=======
+# Puccinia perundulata Cummins SPECIES
 
 #### Status
 ACCEPTED

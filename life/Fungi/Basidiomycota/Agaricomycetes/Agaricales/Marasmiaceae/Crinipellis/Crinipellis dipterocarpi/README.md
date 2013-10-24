@@ -1,5 +1,4 @@
-Crinipellis dipterocarpi Singer SPECIES
-=======
+# Crinipellis dipterocarpi Singer SPECIES
 
 #### Status
 ACCEPTED

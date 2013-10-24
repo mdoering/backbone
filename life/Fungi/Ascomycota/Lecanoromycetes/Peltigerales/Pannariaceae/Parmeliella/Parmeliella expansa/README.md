@@ -1,5 +1,4 @@
-Parmeliella expansa P.M. Jørg. & Arv. SPECIES
-=======
+# Parmeliella expansa P.M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

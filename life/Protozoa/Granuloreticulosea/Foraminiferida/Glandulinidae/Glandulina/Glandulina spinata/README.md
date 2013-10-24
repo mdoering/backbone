@@ -1,5 +1,4 @@
-Glandulina spinata SPECIES
-=======
+# Glandulina spinata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monochaetia everhartii Sacc. SPECIES
-=======
+# Monochaetia everhartii Sacc. SPECIES
 
 #### Status
 ACCEPTED

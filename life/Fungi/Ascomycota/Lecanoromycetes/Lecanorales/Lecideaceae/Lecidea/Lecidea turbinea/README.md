@@ -1,5 +1,4 @@
-Lecidea turbinea Vain. SPECIES
-=======
+# Lecidea turbinea Vain. SPECIES
 
 #### Status
 ACCEPTED

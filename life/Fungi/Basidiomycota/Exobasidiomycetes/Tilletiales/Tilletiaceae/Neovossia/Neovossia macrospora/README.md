@@ -1,5 +1,4 @@
-Neovossia macrospora Petr. SPECIES
-=======
+# Neovossia macrospora Petr. SPECIES
 
 #### Status
 ACCEPTED

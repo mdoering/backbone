@@ -1,5 +1,4 @@
-Hendersonia grandimaculans Bubák SPECIES
-=======
+# Hendersonia grandimaculans Bubák SPECIES
 
 #### Status
 ACCEPTED

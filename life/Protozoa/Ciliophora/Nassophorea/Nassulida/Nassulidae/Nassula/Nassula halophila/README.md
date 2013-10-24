@@ -1,5 +1,4 @@
-Nassula halophila SPECIES
-=======
+# Nassula halophila SPECIES
 
 #### Status
 ACCEPTED

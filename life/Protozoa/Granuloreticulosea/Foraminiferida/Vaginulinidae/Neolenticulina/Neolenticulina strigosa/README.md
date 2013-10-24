@@ -1,5 +1,4 @@
-Neolenticulina strigosa McCulloch, 1977 SPECIES
-=======
+# Neolenticulina strigosa McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

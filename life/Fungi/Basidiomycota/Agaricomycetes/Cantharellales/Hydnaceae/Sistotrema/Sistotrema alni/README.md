@@ -1,5 +1,4 @@
-Sistotrema alni Boidin & Gilles SPECIES
-=======
+# Sistotrema alni Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

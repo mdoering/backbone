@@ -1,5 +1,4 @@
-Pseudocercospora pterocarpicola var. pterocarpicola VARIETY
-=======
+# Pseudocercospora pterocarpicola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Yen & Lim, Cryptog. Mycol. 1(3): 258 (1980)
 
 #### Original name
-Pseudocercospora pterocarpicola var. pterocarpicola
+Cercospora pterocarpicola J.M. Yen
 
 ### Remarks
 null

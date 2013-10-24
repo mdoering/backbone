@@ -1,5 +1,4 @@
-Arthrobacter viscosus Gasdorf et al., 1965 (Approved Lists, 1980) SPECIES
-=======
+# Arthrobacter viscosus Gasdorf et al., 1965 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

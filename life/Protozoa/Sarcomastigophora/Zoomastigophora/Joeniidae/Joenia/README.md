@@ -1,5 +1,4 @@
-Joenia Grassi GENUS
-=======
+# Joenia Grassi GENUS
 
 #### Status
 ACCEPTED

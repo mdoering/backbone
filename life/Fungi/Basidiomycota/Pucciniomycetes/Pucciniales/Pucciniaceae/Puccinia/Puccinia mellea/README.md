@@ -1,5 +1,4 @@
-Puccinia mellea Dietel & Neger SPECIES
-=======
+# Puccinia mellea Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

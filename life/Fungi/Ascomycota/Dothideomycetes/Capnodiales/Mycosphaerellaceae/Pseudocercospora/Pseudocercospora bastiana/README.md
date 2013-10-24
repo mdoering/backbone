@@ -1,5 +1,4 @@
-Pseudocercospora bastiana Kamal, A.N. Rai & A.S. Moses SPECIES
-=======
+# Pseudocercospora bastiana Kamal, A.N. Rai & A.S. Moses SPECIES
 
 #### Status
 ACCEPTED

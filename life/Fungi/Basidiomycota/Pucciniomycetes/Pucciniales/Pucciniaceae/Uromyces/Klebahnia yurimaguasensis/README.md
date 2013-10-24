@@ -1,5 +1,4 @@
-Klebahnia yurimaguasensis (Henn.) Arthur SPECIES
-=======
+# Klebahnia yurimaguasensis (Henn.) Arthur SPECIES
 
 #### Status
 ACCEPTED

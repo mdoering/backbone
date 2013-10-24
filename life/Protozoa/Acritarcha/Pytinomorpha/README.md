@@ -1,5 +1,4 @@
-Pytinomorpha Playford & Wicander, 1988 GENUS
-=======
+# Pytinomorpha Playford & Wicander, 1988 GENUS
 
 #### Status
 ACCEPTED

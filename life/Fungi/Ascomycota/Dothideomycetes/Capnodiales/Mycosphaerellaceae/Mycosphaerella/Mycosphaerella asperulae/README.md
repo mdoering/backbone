@@ -1,5 +1,4 @@
-Mycosphaerella asperulae (Roum. & Fautrey) Vestergr. SPECIES
-=======
+# Mycosphaerella asperulae (Roum. & Fautrey) Vestergr. SPECIES
 
 #### Status
 ACCEPTED

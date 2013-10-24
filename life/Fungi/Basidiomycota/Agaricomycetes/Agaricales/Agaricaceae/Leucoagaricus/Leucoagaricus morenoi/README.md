@@ -1,5 +1,4 @@
-Leucoagaricus morenoi Raithelh. SPECIES
-=======
+# Leucoagaricus morenoi Raithelh. SPECIES
 
 #### Status
 ACCEPTED

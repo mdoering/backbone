@@ -1,5 +1,4 @@
-Pluteolus citrinus Murrill SPECIES
-=======
+# Pluteolus citrinus Murrill SPECIES
 
 #### Status
 ACCEPTED

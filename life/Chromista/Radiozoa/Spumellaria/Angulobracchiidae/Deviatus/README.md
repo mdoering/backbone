@@ -1,5 +1,4 @@
-Deviatus Li, 1986 GENUS
-=======
+# Deviatus Li, 1986 GENUS
 
 #### Status
 ACCEPTED

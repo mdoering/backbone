@@ -1,5 +1,4 @@
-Hygrophorus variolosus Fr. SPECIES
-=======
+# Hygrophorus variolosus Fr. SPECIES
 
 #### Status
 ACCEPTED

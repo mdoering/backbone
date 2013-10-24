@@ -1,5 +1,4 @@
-Rinodina subsquamosa Müll. Arg. SPECIES
-=======
+# Rinodina subsquamosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

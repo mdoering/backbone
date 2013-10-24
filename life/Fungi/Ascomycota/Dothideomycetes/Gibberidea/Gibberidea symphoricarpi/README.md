@@ -1,5 +1,4 @@
-Gibberidea symphoricarpi Tracy & Earle SPECIES
-=======
+# Gibberidea symphoricarpi Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

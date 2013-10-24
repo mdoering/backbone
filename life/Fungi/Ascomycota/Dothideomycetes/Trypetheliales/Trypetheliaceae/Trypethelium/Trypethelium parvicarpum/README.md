@@ -1,5 +1,4 @@
-Trypethelium parvicarpum Makhija & Patw. SPECIES
-=======
+# Trypethelium parvicarpum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus nivosus Batsch SPECIES
-=======
+# Agaricus nivosus Batsch SPECIES
 
 #### Status
 ACCEPTED

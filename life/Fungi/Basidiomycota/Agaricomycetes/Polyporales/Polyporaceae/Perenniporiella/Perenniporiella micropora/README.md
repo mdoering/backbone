@@ -1,14 +1,13 @@
-Perenniporia micropora Ryvarden, 1987 SPECIES
-=======
+# Perenniporiella micropora (Ryvarden) Decock & Ryvarden, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 28(2): 533 (1987)
+Mycol. Res. 107(1): 99 (2003)
 
 #### Original name
 Perenniporia micropora Ryvarden, 1987

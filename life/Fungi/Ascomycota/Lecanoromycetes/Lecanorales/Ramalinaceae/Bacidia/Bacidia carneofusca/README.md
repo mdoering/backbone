@@ -1,5 +1,4 @@
-Bacidia carneofusca (Wedd.) Zahlbr. SPECIES
-=======
+# Bacidia carneofusca (Wedd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

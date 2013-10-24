@@ -1,17 +1,16 @@
-Aecidium aconiti-phragmitincola Azbukina SPECIES
-=======
+# Aecidium aconiti-phragmitincolae Azbukina SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Komarovskie Chteniya, 1972 19: 27 (1972)
 
 #### Original name
-Aecidium aconiti-phragmitincola Azbukina
+Aecidium aconiti-phragmitincolae Azbukina
 
 ### Remarks
 null

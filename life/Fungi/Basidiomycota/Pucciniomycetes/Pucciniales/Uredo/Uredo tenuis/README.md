@@ -1,5 +1,4 @@
-Uredo tenuis (Faull) Hirats. f. SPECIES
-=======
+# Uredo tenuis (Faull) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

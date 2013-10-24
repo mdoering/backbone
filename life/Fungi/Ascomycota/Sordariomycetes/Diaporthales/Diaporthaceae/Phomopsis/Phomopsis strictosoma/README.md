@@ -1,5 +1,4 @@
-Phomopsis strictosoma Grove SPECIES
-=======
+# Phomopsis strictosoma Grove SPECIES
 
 #### Status
 ACCEPTED

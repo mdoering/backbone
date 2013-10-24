@@ -1,5 +1,4 @@
-Myriactula pusilla (Skottsberg) Skottsberg SPECIES
-=======
+# Myriactula pusilla (Skottsberg) Skottsberg SPECIES
 
 #### Status
 ACCEPTED

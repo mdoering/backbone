@@ -1,5 +1,4 @@
-Holophrya seyrli Foissner, 1997 SPECIES
-=======
+# Holophrya seyrli Foissner, 1997 SPECIES
 
 #### Status
 ACCEPTED

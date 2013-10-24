@@ -1,5 +1,4 @@
-Mycena leptophylla Peck SPECIES
-=======
+# Mycena leptophylla Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporendonema artemisiae Bainier SPECIES
-=======
+# Sporendonema artemisiae Bainier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phractacantha Haeckel, 1881 GENUS
-=======
+# Phractacantha Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

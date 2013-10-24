@@ -1,5 +1,4 @@
-Verrucaria vernicosa Kremp. SPECIES
-=======
+# Verrucaria vernicosa Kremp. SPECIES
 
 #### Status
 ACCEPTED

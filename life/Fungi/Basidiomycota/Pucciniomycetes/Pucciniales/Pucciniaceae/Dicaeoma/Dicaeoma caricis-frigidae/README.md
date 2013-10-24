@@ -1,5 +1,4 @@
-Dicaeoma caricis-frigidae (E. Fisch.) Syd. SPECIES
-=======
+# Dicaeoma caricis-frigidae (E. Fisch.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Testicularia cyperi var. cyperi Klotzsch, 1832 VARIETY
-=======
+# Testicularia cyperi Klotzsch, 1832 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Linnaea 7: 202 (1832)
 
 #### Original name
-Testicularia cyperi var. cyperi Klotzsch, 1832
+Testicularia cyperi Klotzsch, 1832
 
 ### Remarks
 null

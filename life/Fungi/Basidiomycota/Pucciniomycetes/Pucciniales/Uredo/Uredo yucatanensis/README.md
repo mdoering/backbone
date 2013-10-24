@@ -1,5 +1,4 @@
-Uredo yucatanensis Mains SPECIES
-=======
+# Uredo yucatanensis Mains SPECIES
 
 #### Status
 ACCEPTED

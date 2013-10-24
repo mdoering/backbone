@@ -1,17 +1,16 @@
-Laetisaria agavei Burds. & Gilb. SPECIES
-=======
+# Laetisaria agaves Burds. & Gilb., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 15: 336 (1982)
 
 #### Original name
-Laetisaria agavei Burds. & Gilb.
+Laetisaria agaves Burds. & Gilb., 1982
 
 ### Remarks
 null

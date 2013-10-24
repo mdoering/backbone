@@ -1,5 +1,4 @@
-Cyclotella minutula Kützing SPECIES
-=======
+# Cyclotella minutula Kützing SPECIES
 
 #### Status
 ACCEPTED

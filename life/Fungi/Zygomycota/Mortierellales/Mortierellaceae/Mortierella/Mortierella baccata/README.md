@@ -1,5 +1,4 @@
-Mortierella baccata E. Wolf SPECIES
-=======
+# Mortierella baccata E. Wolf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia angustilobata Hillmann SPECIES
-=======
+# Parmelia angustilobata Hillmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrolepiota rubescens (L.M. Dufour) Pázmány SPECIES
-=======
+# Macrolepiota rubescens (L.M. Dufour) Pázmány SPECIES
 
 #### Status
 ACCEPTED

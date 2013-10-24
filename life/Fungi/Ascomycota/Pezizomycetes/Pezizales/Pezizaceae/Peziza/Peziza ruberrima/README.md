@@ -1,5 +1,4 @@
-Peziza ruberrima Berk. & Broome SPECIES
-=======
+# Peziza ruberrima Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

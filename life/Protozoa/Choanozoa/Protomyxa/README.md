@@ -1,5 +1,4 @@
-Protomyxa Haeckel GENUS
-=======
+# Protomyxa Haeckel GENUS
 
 #### Status
 ACCEPTED

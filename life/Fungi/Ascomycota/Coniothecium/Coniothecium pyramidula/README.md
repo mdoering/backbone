@@ -1,5 +1,4 @@
-Coniothecium pyramidula E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Coniothecium pyramidula E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

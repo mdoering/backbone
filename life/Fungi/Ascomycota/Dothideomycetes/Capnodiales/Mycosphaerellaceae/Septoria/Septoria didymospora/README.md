@@ -1,5 +1,4 @@
-Septoria didymospora Golovin SPECIES
-=======
+# Septoria didymospora Golovin SPECIES
 
 #### Status
 ACCEPTED

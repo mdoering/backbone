@@ -1,5 +1,4 @@
-Diplodia amphisphaerioides Pass., 1891 SPECIES
-=======
+# Diplodia amphisphaerioides Pass., 1891 SPECIES
 
 #### Status
 ACCEPTED

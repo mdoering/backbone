@@ -1,5 +1,4 @@
-Marssonina actinostemmae (Tassi) Magnus SPECIES
-=======
+# Marssonina actinostemmae (Tassi) Magnus SPECIES
 
 #### Status
 ACCEPTED

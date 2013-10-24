@@ -1,5 +1,4 @@
-Xeromphalina podocarpi E. Horak, 1980 SPECIES
-=======
+# Xeromphalina podocarpi E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED

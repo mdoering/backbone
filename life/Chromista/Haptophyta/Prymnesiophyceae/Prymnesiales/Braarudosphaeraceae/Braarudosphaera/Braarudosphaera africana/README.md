@@ -1,5 +1,4 @@
-Braarudosphaera africana Stradner, 1961 SPECIES
-=======
+# Braarudosphaera africana Stradner, 1961 SPECIES
 
 #### Status
 ACCEPTED

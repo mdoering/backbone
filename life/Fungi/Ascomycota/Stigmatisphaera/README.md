@@ -1,5 +1,4 @@
-Stigmatisphaera Dumort. GENUS
-=======
+# Stigmatisphaera Dumort. GENUS
 
 #### Status
 ACCEPTED

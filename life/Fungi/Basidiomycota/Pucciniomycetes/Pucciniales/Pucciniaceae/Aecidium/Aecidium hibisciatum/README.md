@@ -1,5 +1,4 @@
-Aecidium hibisciatum Schwein. SPECIES
-=======
+# Aecidium hibisciatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia darrowi J.W. Thomson SPECIES
-=======
+# Flavopunctelia darrowii (J. W. Thomson) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 20(2): 682 (1984)
 
 #### Original name
-Parmelia darrowi J.W. Thomson
+Parmelia darrowii J. W. Thomson
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Deuterammina eddystonensis Brönnimann & Whittaker, 1990 SPECIES
-=======
+# Deuterammina eddystonensis Brönnimann & Whittaker, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha conglomerans Müll. Arg. SPECIES
-=======
+# Opegrapha conglomerans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena rubidofusca M. Villarreal, Heykoop & Maas Geest. SPECIES
-=======
+# Mycena rubidofusca M. Villarreal, Heykoop & Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

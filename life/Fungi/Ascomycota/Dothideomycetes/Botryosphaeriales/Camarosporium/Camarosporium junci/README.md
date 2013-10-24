@@ -1,5 +1,4 @@
-Camarosporium junci anon. SPECIES
-=======
+# Camarosporium junci anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Austropleospora osteospermi R.G. Shivas & L. Morin, 2010 SPECIES
-=======
+# Austropleospora osteospermi R.G. Shivas & L. Morin, 2010 SPECIES
 
 #### Status
 ACCEPTED

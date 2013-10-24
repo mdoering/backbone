@@ -1,5 +1,4 @@
-Lecanactis subcaesia Malme SPECIES
-=======
+# Lecanactis subcaesia Malme SPECIES
 
 #### Status
 ACCEPTED

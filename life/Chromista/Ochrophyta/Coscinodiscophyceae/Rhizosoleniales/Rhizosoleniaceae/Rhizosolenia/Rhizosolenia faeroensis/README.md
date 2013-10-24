@@ -1,5 +1,4 @@
-Rhizosolenia faeroensis Ostenfeld, 1903 SPECIES
-=======
+# Rhizosolenia faeroensis Ostenfeld, 1903 SPECIES
 
 #### Status
 ACCEPTED

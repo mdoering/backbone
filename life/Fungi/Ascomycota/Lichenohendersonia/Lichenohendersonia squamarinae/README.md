@@ -1,5 +1,4 @@
-Lichenohendersonia squamarinae Calat. & Etayo, 2001 SPECIES
-=======
+# Lichenohendersonia squamarinae Calat. & Etayo, 2001 SPECIES
 
 #### Status
 ACCEPTED

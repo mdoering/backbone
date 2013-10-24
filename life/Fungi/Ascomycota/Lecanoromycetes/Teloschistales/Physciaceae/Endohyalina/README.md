@@ -1,5 +1,4 @@
-Endohyalina Marbach GENUS
-=======
+# Endohyalina Marbach GENUS
 
 #### Status
 ACCEPTED

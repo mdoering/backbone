@@ -1,5 +1,4 @@
-Laestadia fusispora Sacc. & Berl. SPECIES
-=======
+# Laestadia fusispora Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

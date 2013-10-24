@@ -1,5 +1,4 @@
-Stagonosporopsis atriplicis Bondartsev SPECIES
-=======
+# Stagonosporopsis atriplicis Bondartsev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Keratosphaera furcatiseta Matzer SPECIES
-=======
+# Keratosphaera furcatiseta Matzer SPECIES
 
 #### Status
 ACCEPTED

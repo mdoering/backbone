@@ -1,5 +1,4 @@
-Menispora preussii Fuckel SPECIES
-=======
+# Menispora preussii Fuckel SPECIES
 
 #### Status
 ACCEPTED

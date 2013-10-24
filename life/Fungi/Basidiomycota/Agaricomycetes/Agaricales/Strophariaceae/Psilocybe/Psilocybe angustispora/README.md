@@ -1,5 +1,4 @@
-Psilocybe angustispora A.H. Sm. SPECIES
-=======
+# Psilocybe angustispora A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

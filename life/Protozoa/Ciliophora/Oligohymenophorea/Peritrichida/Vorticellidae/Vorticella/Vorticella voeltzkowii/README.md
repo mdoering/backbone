@@ -1,5 +1,4 @@
-Vorticella voeltzkowii Sondheim, 1929 SPECIES
-=======
+# Vorticella voeltzkowii Sondheim, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistylis alpestris Foissner, 1978 SPECIES
-=======
+# Epistylis alpestris Foissner, 1978 SPECIES
 
 #### Status
 ACCEPTED

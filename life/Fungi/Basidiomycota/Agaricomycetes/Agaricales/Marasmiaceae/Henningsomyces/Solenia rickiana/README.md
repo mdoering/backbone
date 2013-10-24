@@ -1,5 +1,4 @@
-Solenia rickiana W.B. Cooke SPECIES
-=======
+# Solenia rickiana W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

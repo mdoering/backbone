@@ -1,5 +1,4 @@
-Verrucaria tornensis H. Magn. SPECIES
-=======
+# Verrucaria tornensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

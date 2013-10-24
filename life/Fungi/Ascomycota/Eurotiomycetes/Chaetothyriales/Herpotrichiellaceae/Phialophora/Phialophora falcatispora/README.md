@@ -1,5 +1,4 @@
-Phialophora falcatispora Matsush. SPECIES
-=======
+# Phialophora falcatispora Matsush. SPECIES
 
 #### Status
 ACCEPTED

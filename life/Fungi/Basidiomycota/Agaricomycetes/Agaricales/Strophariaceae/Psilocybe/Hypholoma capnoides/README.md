@@ -1,14 +1,13 @@
-Psilocybe capnoides (Fr.) Noordel., 1995 SPECIES
-=======
+# Hypholoma capnoides (Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 16(1): 128 (1995)
+Führ. Pilzk. (Zwickau) 72 (1871)
 
 #### Original name
 Agaricus capnoides Fr., 1818

@@ -1,5 +1,4 @@
-Leptosphaeria depressa Wehm. & S. Ahmad SPECIES
-=======
+# Leptosphaeria depressa Wehm. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

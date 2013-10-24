@@ -1,17 +1,16 @@
-Cyphelium verrucosum Erichsen SPECIES
-=======
+# Cyphelium trachylioides (Nyl. ex Branth & Rostr.) Erichsen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rabenh. Krypt. -Fl. (Leipzig) 9(1,2): 784 (1938)
 
 #### Original name
-null
+Arthonia trachylioides Nyl.
 
 ### Remarks
 null

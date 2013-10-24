@@ -1,5 +1,4 @@
-Cercospora artocarpi Syd. & P. Syd. SPECIES
-=======
+# Cercospora artocarpi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

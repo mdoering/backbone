@@ -1,5 +1,4 @@
-Vaginulinopsis acanthonucleus Carter, 1958 SPECIES
-=======
+# Vaginulinopsis acanthonucleus Carter, 1958 SPECIES
 
 #### Status
 ACCEPTED

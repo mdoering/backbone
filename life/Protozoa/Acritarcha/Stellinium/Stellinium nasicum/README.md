@@ -1,5 +1,4 @@
-Stellinium nasicum (Stockmans & Willière, 1960) Eisenack et al., 1976 SPECIES
-=======
+# Stellinium nasicum (Stockmans & Willière, 1960) Eisenack et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichomerium mangifericola Bat. & Nascim. SPECIES
-=======
+# Trichomerium mangifericola Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

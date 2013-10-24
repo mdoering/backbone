@@ -1,5 +1,4 @@
-Eouvigerinidae Cushman, 1927 FAMILY
-=======
+# Eouvigerinidae Cushman, 1927 FAMILY
 
 #### Status
 ACCEPTED

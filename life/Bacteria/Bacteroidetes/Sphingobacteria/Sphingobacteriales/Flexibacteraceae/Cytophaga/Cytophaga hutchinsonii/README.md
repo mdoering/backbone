@@ -1,5 +1,4 @@
-Cytophaga hutchinsonii Winogradsky, 1929 (Approved Lists, 1980) SPECIES
-=======
+# Cytophaga hutchinsonii Winogradsky, 1929 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

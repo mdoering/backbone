@@ -1,5 +1,4 @@
-Agaricus cheilotulus Heinem. SPECIES
-=======
+# Agaricus cheilotulus Heinem. SPECIES
 
 #### Status
 ACCEPTED

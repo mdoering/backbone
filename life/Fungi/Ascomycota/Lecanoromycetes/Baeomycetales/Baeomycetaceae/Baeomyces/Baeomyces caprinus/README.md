@@ -1,5 +1,4 @@
-Baeomyces caprinus (Th. Fr.) H. Magn. SPECIES
-=======
+# Baeomyces caprinus (Th. Fr.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

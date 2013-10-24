@@ -1,5 +1,4 @@
-Lecidea lobatoplicata (B. de Lesd.) Gotth. Schneid. SPECIES
-=======
+# Lecidea lobatoplicata (B. de Lesd.) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Huasha Cheng, 1986 GENUS
-=======
+# Huasha Cheng, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina palmicola Malcolm & Vezda SPECIES
-=======
+# Porina palmicola Malcolm & Vezda SPECIES
 
 #### Status
 ACCEPTED

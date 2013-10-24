@@ -1,5 +1,4 @@
-Raphiospora GENUS
-=======
+# Raphiospora GENUS
 
 #### Status
 ACCEPTED

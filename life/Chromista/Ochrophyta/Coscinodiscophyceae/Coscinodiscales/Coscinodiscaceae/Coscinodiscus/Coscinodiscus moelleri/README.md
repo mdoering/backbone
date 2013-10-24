@@ -1,5 +1,4 @@
-Coscinodiscus moelleri A. Schmidt SPECIES
-=======
+# Coscinodiscus moelleri A. Schmidt SPECIES
 
 #### Status
 ACCEPTED

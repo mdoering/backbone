@@ -1,5 +1,4 @@
-Ottowia Spring et al., 2004 GENUS
-=======
+# Ottowia Spring et al., 2004 GENUS
 
 #### Status
 ACCEPTED

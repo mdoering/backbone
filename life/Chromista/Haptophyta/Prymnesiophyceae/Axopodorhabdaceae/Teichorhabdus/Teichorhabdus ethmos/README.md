@@ -1,5 +1,4 @@
-Teichorhabdus ethmos F.H. Wind & S.W. Wise SPECIES
-=======
+# Teichorhabdus ethmos F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anoplophrya von Stein, 1860 GENUS
-=======
+# Anoplophrya von Stein, 1860 GENUS
 
 #### Status
 ACCEPTED

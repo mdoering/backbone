@@ -1,5 +1,4 @@
-Ascochyta utahensis R. Sprague SPECIES
-=======
+# Ascochyta utahensis R. Sprague SPECIES
 
 #### Status
 ACCEPTED

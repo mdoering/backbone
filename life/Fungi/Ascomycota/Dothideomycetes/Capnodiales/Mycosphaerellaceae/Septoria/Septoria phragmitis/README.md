@@ -1,5 +1,4 @@
-Septoria phragmitis var. phragmitis VARIETY
-=======
+# Septoria phragmitis Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria phragmitis var. phragmitis
+Septoria phragmitis Sacc.
 
 ### Remarks
 null

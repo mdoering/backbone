@@ -1,5 +1,4 @@
-Didymosphaeria striatospora Syd. SPECIES
-=======
+# Didymosphaeria striatospora Syd. SPECIES
 
 #### Status
 ACCEPTED

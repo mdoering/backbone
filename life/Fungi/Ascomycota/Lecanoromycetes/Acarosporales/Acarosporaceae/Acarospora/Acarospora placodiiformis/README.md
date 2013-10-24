@@ -1,5 +1,4 @@
-Acarospora placodiiformis H. Magn. SPECIES
-=======
+# Acarospora placodiiformis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Collybidium Earle GENUS
-=======
+# Flammulina P. Karsten, 1891 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the New York Botanical Garden 5: 428 (1909)
+Meddn Soc. Fauna Flora fenn. 18: 62 (1891)
 
 #### Original name
-Collybidium Earle
+Flammulina P. Karsten, 1891
 
 ### Remarks
 null

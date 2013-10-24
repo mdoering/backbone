@@ -1,5 +1,4 @@
-Vararia gracilispora Boidin & Lanq., 1976 SPECIES
-=======
+# Vararia gracilispora Boidin & Lanq., 1976 SPECIES
 
 #### Status
 ACCEPTED

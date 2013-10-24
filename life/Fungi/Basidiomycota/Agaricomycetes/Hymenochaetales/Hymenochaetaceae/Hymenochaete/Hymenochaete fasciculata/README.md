@@ -1,5 +1,4 @@
-Hymenochaete fasciculata P.H.B. Talbot, 1948 SPECIES
-=======
+# Hymenochaete fasciculata P.H.B. Talbot, 1948 SPECIES
 
 #### Status
 ACCEPTED

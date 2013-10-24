@@ -1,5 +1,4 @@
-Lepiota rickiana Speg. SPECIES
-=======
+# Lepiota rickiana Speg. SPECIES
 
 #### Status
 ACCEPTED

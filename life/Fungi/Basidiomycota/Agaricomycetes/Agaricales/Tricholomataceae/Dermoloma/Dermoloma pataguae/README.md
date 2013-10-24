@@ -1,5 +1,4 @@
-Dermoloma pataguae Singer SPECIES
-=======
+# Dermoloma pataguae Singer SPECIES
 
 #### Status
 ACCEPTED

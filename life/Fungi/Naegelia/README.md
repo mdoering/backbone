@@ -1,5 +1,4 @@
-Naegelia Rabenhorst, 1844 GENUS
-=======
+# Naegelia Rabenhorst, 1844 GENUS
 
 #### Status
 ACCEPTED

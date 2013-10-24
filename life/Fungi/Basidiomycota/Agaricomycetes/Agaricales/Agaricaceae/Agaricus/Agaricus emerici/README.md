@@ -1,5 +1,4 @@
-Agaricus emerici Berk. SPECIES
-=======
+# Agaricus emerici Berk. SPECIES
 
 #### Status
 ACCEPTED

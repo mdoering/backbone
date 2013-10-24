@@ -1,5 +1,4 @@
-Lecanora albospersa Stizenb. SPECIES
-=======
+# Lecanora albospersa Stizenb. SPECIES
 
 #### Status
 ACCEPTED

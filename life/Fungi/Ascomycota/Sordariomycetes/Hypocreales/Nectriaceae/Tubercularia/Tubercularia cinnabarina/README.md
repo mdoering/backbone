@@ -1,5 +1,4 @@
-Tubercularia cinnabarina (Bull.) Fr. SPECIES
-=======
+# Tubercularia cinnabarina (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED

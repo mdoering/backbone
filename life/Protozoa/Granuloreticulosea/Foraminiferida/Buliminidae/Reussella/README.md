@@ -1,17 +1,16 @@
-Reussia Schwager, 1877 GENUS
-=======
+# Reussella Galloway, 1933 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boll. Com. Geol. Ital. , 8, 21.
+Manual Foram. , 360.
 
 #### Original name
-null
+Reussia Schwager, 1877
 
 ### Remarks
 null

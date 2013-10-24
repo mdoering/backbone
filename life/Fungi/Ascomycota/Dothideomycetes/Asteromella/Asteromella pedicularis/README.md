@@ -1,14 +1,13 @@
-Asteromella pedicularidis (Solheim) Petr. SPECIES
-=======
+# Asteromella pedicularis (Solheim) Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 15: 214 (1962)
 
 #### Original name
 Phyllosticta pedicularis Vasyag.

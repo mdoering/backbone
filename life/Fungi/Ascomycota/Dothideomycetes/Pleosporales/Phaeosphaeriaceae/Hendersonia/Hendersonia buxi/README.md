@@ -1,5 +1,4 @@
-Hendersonia buxi Sacc. & Cub. SPECIES
-=======
+# Hendersonia buxi Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria bakonyensis Gyeln. SPECIES
-=======
+# Squamaria bakonyensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

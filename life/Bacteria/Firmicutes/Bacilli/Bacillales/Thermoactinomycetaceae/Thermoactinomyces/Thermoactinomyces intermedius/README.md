@@ -1,5 +1,4 @@
-Thermoactinomyces intermedius Kurup et al., 1981 SPECIES
-=======
+# Thermoactinomyces intermedius Kurup et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

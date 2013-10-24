@@ -1,5 +1,4 @@
-Gloeosporium pyrostegiae Speg. SPECIES
-=======
+# Gloeosporium pyrostegiae Speg. SPECIES
 
 #### Status
 ACCEPTED

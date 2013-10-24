@@ -1,5 +1,4 @@
-Hypocrea petersenii Samuels, Dodd & Schroers SPECIES
-=======
+# Hypocrea petersenii Samuels, Dodd & Schroers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis tigrinella (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis tigrinella (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

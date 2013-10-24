@@ -1,5 +1,4 @@
-Aestuariibacter litoralis Tanaka, Romanenko, Frolova & Mikhailov, 2010 SPECIES
-=======
+# Aestuariibacter litoralis Tanaka, Romanenko, Frolova & Mikhailov, 2010 SPECIES
 
 #### Status
 ACCEPTED

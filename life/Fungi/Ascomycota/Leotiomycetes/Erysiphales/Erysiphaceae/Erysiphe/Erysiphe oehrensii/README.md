@@ -1,5 +1,4 @@
-Erysiphe oehrensii (Havryl.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe oehrensii (Havryl.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

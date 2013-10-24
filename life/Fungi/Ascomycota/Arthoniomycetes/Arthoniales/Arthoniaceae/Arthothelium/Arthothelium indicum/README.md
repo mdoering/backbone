@@ -1,5 +1,4 @@
-Arthothelium indicum (Müll. Arg.) Makhija & Patw. SPECIES
-=======
+# Arthothelium indicum (Müll. Arg.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

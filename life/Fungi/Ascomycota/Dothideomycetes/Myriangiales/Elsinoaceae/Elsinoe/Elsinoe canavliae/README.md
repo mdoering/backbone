@@ -1,5 +1,4 @@
-Elsinoe canavliae Racib. SPECIES
-=======
+# Elsinoe canavliae Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces cornmelinae (Speg.) Cke. SPECIES
-=======
+# Uromyces cornmelinae (Speg.) Cke. SPECIES
 
 #### Status
 ACCEPTED

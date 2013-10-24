@@ -1,5 +1,4 @@
-Ascochyta philodendri Bat. SPECIES
-=======
+# Ascochyta philodendri Bat. SPECIES
 
 #### Status
 ACCEPTED

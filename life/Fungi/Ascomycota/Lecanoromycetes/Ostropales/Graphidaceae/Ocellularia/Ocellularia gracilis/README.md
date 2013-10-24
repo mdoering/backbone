@@ -1,5 +1,4 @@
-Ocellularia gracilis var. laevigata Müll. Arg. VARIETY
-=======
+# Ocellularia gracilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 64: 525 (1881)
 
 #### Original name
-Ocellularia gracilis var. laevigata Müll. Arg.
+Ocellularia gracilis Müll. Arg.
 
 ### Remarks
 null

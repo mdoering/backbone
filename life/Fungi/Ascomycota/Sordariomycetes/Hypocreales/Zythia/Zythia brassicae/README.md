@@ -1,5 +1,4 @@
-Zythia brassicae (Sacc. & Roum.) Sacc. SPECIES
-=======
+# Zythia brassicae (Sacc. & Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

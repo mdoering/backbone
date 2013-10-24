@@ -1,5 +1,4 @@
-Ramularia kriegeriana Bres., 1900 SPECIES
-=======
+# Ramularia kriegeriana Bres., 1900 SPECIES
 
 #### Status
 ACCEPTED

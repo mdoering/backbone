@@ -1,5 +1,4 @@
-Protomarssonella Desai & Banner, 1987 GENUS
-=======
+# Protomarssonella Desai & Banner, 1987 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeodiscula minutella Penz. & Sacc. SPECIES
-=======
+# Phaeodiscula minutella Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

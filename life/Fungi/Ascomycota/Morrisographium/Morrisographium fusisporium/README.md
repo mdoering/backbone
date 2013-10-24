@@ -1,14 +1,13 @@
-Arthrobotryum fusisporium A.L. Sm., 1901 SPECIES
-=======
+# Morrisographium fusisporium (A.L. Sm.) Illman & G.P. White, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 35: 13 (1901)
+Can. J. Bot. 63(3): 426 (1985)
 
 #### Original name
 Arthrobotryum fusisporium A.L. Sm., 1901

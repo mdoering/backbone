@@ -1,5 +1,4 @@
-Bahusutrabeeja Subram. & Bhat GENUS
-=======
+# Bahusutrabeeja Subram. & Bhat GENUS
 
 #### Status
 ACCEPTED

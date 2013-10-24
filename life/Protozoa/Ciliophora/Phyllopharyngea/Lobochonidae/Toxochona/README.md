@@ -1,5 +1,4 @@
-Toxochona Yankovskij, 1972 GENUS
-=======
+# Toxochona Yankovskij, 1972 GENUS
 
 #### Status
 ACCEPTED

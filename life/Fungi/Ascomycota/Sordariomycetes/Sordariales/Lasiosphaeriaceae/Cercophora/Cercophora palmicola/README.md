@@ -1,5 +1,4 @@
-Cercophora palmicola Hanlin & Tortolero SPECIES
-=======
+# Cercophora palmicola Hanlin & Tortolero SPECIES
 
 #### Status
 ACCEPTED

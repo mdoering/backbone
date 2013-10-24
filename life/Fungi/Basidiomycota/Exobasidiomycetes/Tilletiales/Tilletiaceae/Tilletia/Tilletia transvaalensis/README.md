@@ -1,5 +1,4 @@
-Tilletia transvaalensis Zundel SPECIES
-=======
+# Tilletia transvaalensis Zundel SPECIES
 
 #### Status
 ACCEPTED

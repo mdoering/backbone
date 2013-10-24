@@ -1,5 +1,4 @@
-Mycoëmilia Kurihara, Degawa & Tokum. GENUS
-=======
+# Mycoëmilia Kurihara, Degawa & Tokum. GENUS
 
 #### Status
 ACCEPTED

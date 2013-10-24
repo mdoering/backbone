@@ -1,5 +1,4 @@
-Cladosporium hypophyllum Fuckel SPECIES
-=======
+# Cladosporium hypophyllum Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea discreta SPECIES
-=======
+# Lecidea discreta SPECIES
 
 #### Status
 ACCEPTED

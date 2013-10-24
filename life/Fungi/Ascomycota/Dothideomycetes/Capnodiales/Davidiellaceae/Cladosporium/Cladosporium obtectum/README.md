@@ -1,5 +1,4 @@
-Cladosporium obtectum Rabenh., 1889 SPECIES
-=======
+# Cladosporium obtectum Rabenh., 1889 SPECIES
 
 #### Status
 ACCEPTED

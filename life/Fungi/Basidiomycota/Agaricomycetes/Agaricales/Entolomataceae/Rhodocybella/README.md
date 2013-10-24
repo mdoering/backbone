@@ -1,5 +1,4 @@
-Rhodocybella T.J. Baroni & R.H. Petersen GENUS
-=======
+# Rhodocybella T.J. Baroni & R.H. Petersen GENUS
 
 #### Status
 ACCEPTED

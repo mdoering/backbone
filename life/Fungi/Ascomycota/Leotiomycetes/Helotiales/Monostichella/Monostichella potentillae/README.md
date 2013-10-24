@@ -1,5 +1,4 @@
-Monostichella potentillae Arx SPECIES
-=======
+# Monostichella potentillae Arx SPECIES
 
 #### Status
 ACCEPTED

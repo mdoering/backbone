@@ -1,5 +1,4 @@
-Halosarpheia unicellularis Abdel-Wahab & E.B.G. Jones, 2001 SPECIES
-=======
+# Halosarpheia unicellularis Abdel-Wahab & E.B.G. Jones, 2001 SPECIES
 
 #### Status
 ACCEPTED

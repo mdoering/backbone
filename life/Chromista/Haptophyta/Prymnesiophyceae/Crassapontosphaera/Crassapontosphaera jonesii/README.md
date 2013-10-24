@@ -1,5 +1,4 @@
-Crassapontosphaera jonesii J.E. Boudreaux & W.W. Hay SPECIES
-=======
+# Crassapontosphaera jonesii J.E. Boudreaux & W.W. Hay SPECIES
 
 #### Status
 ACCEPTED

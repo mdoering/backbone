@@ -1,5 +1,4 @@
-Mycobacterium murale Vuorio et al., 1999 SPECIES
-=======
+# Mycobacterium murale Vuorio et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

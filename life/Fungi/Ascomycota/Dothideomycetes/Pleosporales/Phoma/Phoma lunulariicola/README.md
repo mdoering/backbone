@@ -1,5 +1,4 @@
-Phoma lunulariicola Auret SPECIES
-=======
+# Phoma lunulariicola Auret SPECIES
 
 #### Status
 ACCEPTED

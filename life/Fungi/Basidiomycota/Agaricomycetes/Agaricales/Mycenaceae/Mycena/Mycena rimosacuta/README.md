@@ -1,5 +1,4 @@
-Mycena rimosacuta Corner SPECIES
-=======
+# Mycena rimosacuta Corner SPECIES
 
 #### Status
 ACCEPTED

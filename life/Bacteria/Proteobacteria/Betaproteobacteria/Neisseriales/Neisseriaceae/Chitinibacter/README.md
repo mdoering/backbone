@@ -1,5 +1,4 @@
-Chitinibacter Chern et al., 2004 GENUS
-=======
+# Chitinibacter Chern et al., 2004 GENUS
 
 #### Status
 ACCEPTED

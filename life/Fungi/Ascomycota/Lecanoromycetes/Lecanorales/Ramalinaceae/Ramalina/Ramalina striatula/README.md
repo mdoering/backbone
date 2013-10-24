@@ -1,5 +1,4 @@
-Ramalina striatula Nees & Flot. SPECIES
-=======
+# Ramalina striatula Nees & Flot. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermioxytricha muelleri (Foissner, 1986) Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Vermioxytricha muelleri (Foissner, 1986) Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

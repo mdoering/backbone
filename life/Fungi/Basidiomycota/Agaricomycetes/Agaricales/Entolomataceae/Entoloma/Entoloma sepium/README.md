@@ -1,8 +1,7 @@
-Rhodophyllus sepius (Noulet & Dass.) Romagn., 1947 SPECIES
-=======
+# Entoloma sepium (Noulet & Dass.) Richon & Roze, 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Corynebacterium urealyticum Pitcher et al., 1992 SPECIES
-=======
+# Corynebacterium urealyticum Pitcher et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

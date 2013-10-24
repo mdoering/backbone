@@ -1,5 +1,4 @@
-Pseudodictyomitrella renevieri SPECIES
-=======
+# Pseudodictyomitrella renevieri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Miyoshiella macrospora Kawam. SPECIES
-=======
+# Miyoshiella macrospora Kawam. SPECIES
 
 #### Status
 ACCEPTED

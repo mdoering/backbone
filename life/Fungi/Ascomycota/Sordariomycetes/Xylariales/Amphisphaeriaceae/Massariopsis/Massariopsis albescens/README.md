@@ -1,5 +1,4 @@
-Massariopsis albescens (Niessl) Kirschst. SPECIES
-=======
+# Massariopsis albescens (Niessl) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

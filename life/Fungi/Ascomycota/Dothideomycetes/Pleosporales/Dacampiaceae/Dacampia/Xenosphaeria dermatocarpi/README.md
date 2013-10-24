@@ -1,5 +1,4 @@
-Xenosphaeria dermatocarpi Werner SPECIES
-=======
+# Xenosphaeria dermatocarpi Werner SPECIES
 
 #### Status
 ACCEPTED

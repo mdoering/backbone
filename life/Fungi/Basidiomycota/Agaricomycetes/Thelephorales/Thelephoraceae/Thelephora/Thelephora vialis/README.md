@@ -1,14 +1,13 @@
-Phylacteria vialis (Schwein.) Pat., 1900 SPECIES
-=======
+# Thelephora vialis Schwein., 1832 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Tax. Hyménomyc. (Lons-le-Saunier) 119 (1900)
+Trans. Am. phil. Soc. , New Series 4(2): 165 (1832)
 
 #### Original name
 Thelephora vialis Schwein., 1832

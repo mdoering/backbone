@@ -1,5 +1,4 @@
-Spirolina striata d'Orbigny, 1850 SPECIES
-=======
+# Spirolina striata d'Orbigny, 1850 SPECIES
 
 #### Status
 ACCEPTED

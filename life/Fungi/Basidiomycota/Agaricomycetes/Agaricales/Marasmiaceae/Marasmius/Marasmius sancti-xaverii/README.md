@@ -1,5 +1,4 @@
-Marasmius sancti-xaverii Singer SPECIES
-=======
+# Marasmius sancti-xaverii Singer SPECIES
 
 #### Status
 ACCEPTED

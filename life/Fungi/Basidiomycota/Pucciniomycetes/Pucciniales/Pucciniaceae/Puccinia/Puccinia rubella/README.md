@@ -1,5 +1,4 @@
-Puccinia rubella (Pers. ex J.F. Gmel.) Arthur SPECIES
-=======
+# Puccinia rubella (Pers. ex J.F. Gmel.) Arthur SPECIES
 
 #### Status
 ACCEPTED

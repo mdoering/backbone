@@ -1,5 +1,4 @@
-Pseudonocardiaceae FAMILY
-=======
+# Pseudonocardiaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Menegazzia caesiopruinosa P. James SPECIES
-=======
+# Menegazzia caesiopruinosa P. James SPECIES
 
 #### Status
 ACCEPTED

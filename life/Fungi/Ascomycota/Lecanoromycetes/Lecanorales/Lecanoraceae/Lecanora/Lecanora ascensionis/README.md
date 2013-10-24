@@ -1,5 +1,4 @@
-Lecanora ascensionis Ach. SPECIES
-=======
+# Lecanora ascensionis Ach. SPECIES
 
 #### Status
 ACCEPTED

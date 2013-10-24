@@ -1,14 +1,13 @@
-Biatora porphyrospoda Anzi SPECIES
-=======
+# Myochroidea porphyrospoda (Anzi) Printzen, T. Sprib. & Tønsberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Comm. Soc. crittog. Ital. 2(no. 1): 13 (1864)
+Lichenologist 40(3): 201 (2008)
 
 #### Original name
 Biatora porphyrospoda Anzi

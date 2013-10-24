@@ -1,5 +1,4 @@
-Sporidesmium clavatum Lév. SPECIES
-=======
+# Sporidesmium clavatum Lév. SPECIES
 
 #### Status
 ACCEPTED

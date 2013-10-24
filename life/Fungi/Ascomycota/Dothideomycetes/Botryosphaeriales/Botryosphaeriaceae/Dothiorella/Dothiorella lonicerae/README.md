@@ -1,5 +1,4 @@
-Dothiorella lonicerae M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Dothiorella lonicerae M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

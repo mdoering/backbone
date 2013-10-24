@@ -1,5 +1,4 @@
-Pleospora diaportheoides Ellis & Everh. SPECIES
-=======
+# Pleospora diaportheoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

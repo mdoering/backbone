@@ -1,5 +1,4 @@
-Platycola regularis (Fromentel, 1876) ? SPECIES
-=======
+# Platycola regularis (Fromentel, 1876) ? SPECIES
 
 #### Status
 ACCEPTED

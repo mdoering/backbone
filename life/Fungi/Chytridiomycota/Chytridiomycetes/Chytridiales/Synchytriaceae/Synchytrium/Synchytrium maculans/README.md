@@ -1,5 +1,4 @@
-Synchytrium maculans Lingappa SPECIES
-=======
+# Synchytrium maculans Lingappa SPECIES
 
 #### Status
 ACCEPTED

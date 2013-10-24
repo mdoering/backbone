@@ -1,5 +1,4 @@
-Uredo longipes Lasch SPECIES
-=======
+# Uredo longipes Lasch SPECIES
 
 #### Status
 ACCEPTED

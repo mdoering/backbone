@@ -1,5 +1,4 @@
-Balladynopsis crossopterygis Deighton & M.B. Ellis SPECIES
-=======
+# Balladynopsis crossopterygis Deighton & M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

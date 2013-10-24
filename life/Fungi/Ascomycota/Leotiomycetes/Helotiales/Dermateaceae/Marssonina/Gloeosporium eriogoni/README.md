@@ -1,5 +1,4 @@
-Gloeosporium eriogoni Ellis & Everh. SPECIES
-=======
+# Gloeosporium eriogoni Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

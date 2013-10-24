@@ -1,5 +1,4 @@
-Phomopsis algerica Maire SPECIES
-=======
+# Phomopsis algerica Maire SPECIES
 
 #### Status
 ACCEPTED

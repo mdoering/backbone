@@ -1,17 +1,16 @@
-Cortinarius subdelibutus P.D. Orton, 1983 SPECIES
-=======
+# Cortinarius illibatus Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 36: 218 (1983)
+Epicr. syst. mycol. (Upsaliae) 276 (1838)
 
 #### Original name
-Cortinarius subdelibutus P.D. Orton, 1983
+Cortinarius illibatus Fr., 1838
 
 ### Remarks
 null

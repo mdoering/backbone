@@ -1,5 +1,4 @@
-Erysiphe ovidiae (Havryl.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe ovidiae (Havryl.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

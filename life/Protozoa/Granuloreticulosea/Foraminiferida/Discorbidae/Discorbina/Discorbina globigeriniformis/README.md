@@ -1,5 +1,4 @@
-Discorbina globigeriniformis Heron-Allen & Earland, 1924 SPECIES
-=======
+# Discorbina globigeriniformis Heron-Allen & Earland, 1924 SPECIES
 
 #### Status
 ACCEPTED

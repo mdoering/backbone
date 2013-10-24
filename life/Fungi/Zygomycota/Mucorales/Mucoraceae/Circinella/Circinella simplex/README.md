@@ -1,14 +1,13 @@
-Mucor simplex (Tiegh.) Mig., 1910 SPECIES
-=======
+# Circinella simplex Tiegh., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Krypt. -Fl. Deutschl. , Deutsch-Oesterreich und der Schweiz 3(1): 194 (1910)
+Annls Sci. Nat. , Bot. , sér. 6 1: 92 (1875)
 
 #### Original name
 Circinella simplex Tiegh., 1875

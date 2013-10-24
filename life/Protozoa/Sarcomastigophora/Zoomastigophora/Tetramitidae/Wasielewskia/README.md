@@ -1,5 +1,4 @@
-Wasielewskia Hartmann & Schuessler, 1913 GENUS
-=======
+# Wasielewskia Hartmann & Schuessler, 1913 GENUS
 
 #### Status
 ACCEPTED

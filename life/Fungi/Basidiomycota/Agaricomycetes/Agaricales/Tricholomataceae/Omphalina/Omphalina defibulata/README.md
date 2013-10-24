@@ -1,5 +1,4 @@
-Omphalina defibulata Singer SPECIES
-=======
+# Omphalina defibulata Singer SPECIES
 
 #### Status
 ACCEPTED

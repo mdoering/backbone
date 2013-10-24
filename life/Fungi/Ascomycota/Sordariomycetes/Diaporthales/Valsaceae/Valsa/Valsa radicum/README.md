@@ -1,5 +1,4 @@
-Valsa radicum (Schwein.) Cooke SPECIES
-=======
+# Valsa radicum (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

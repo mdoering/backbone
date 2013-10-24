@@ -1,5 +1,4 @@
-Actinomadura ferruginea Meyer, 1981 SPECIES
-=======
+# Actinomadura ferruginea Meyer, 1981 SPECIES
 
 #### Status
 ACCEPTED

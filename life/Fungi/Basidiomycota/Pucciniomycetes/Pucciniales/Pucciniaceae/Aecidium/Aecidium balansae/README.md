@@ -1,5 +1,4 @@
-Aecidium balansae Cornu SPECIES
-=======
+# Aecidium balansae Cornu SPECIES
 
 #### Status
 ACCEPTED

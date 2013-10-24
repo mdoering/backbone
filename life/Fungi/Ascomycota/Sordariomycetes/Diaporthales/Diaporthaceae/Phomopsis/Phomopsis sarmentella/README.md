@@ -1,5 +1,4 @@
-Phomopsis sarmentella (Sacc.) Traverso SPECIES
-=======
+# Phomopsis sarmentella (Sacc.) Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltidium cassiae (Bat.) Bat. SPECIES
-=======
+# Micropeltidium cassiae (Bat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

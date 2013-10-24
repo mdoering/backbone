@@ -1,5 +1,4 @@
-Ramaria longistipitata Schwarzman SPECIES
-=======
+# Ramaria longistipitata Schwarzman SPECIES
 
 #### Status
 ACCEPTED

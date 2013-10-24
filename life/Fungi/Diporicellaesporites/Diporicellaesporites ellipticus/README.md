@@ -1,5 +1,4 @@
-Diporicellaesporites ellipticus Zhong Y. Zhang SPECIES
-=======
+# Diporicellaesporites ellipticus Zhong Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

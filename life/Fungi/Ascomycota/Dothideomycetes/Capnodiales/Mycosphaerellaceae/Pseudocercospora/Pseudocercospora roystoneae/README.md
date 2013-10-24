@@ -1,5 +1,4 @@
-Pseudocercospora roystoneae U. Braun & Crous SPECIES
-=======
+# Pseudocercospora roystoneae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium crinitum (Fr.) Lloyd SPECIES
-=======
+# Septobasidium crinitum (Fr.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

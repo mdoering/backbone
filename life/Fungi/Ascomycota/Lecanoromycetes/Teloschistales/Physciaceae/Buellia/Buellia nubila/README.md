@@ -1,5 +1,4 @@
-Buellia nubila (Norman) Zahlbr. SPECIES
-=======
+# Buellia nubila (Norman) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

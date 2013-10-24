@@ -1,14 +1,13 @@
-Phyllachora oleandrina (Durieu & Mont.) Cooke, 1885 SPECIES
-=======
+# Dothidella oleandrina (Durieu & Mont.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 69 (1885)
+Syll. fung. (Abellini) 2: 632 (1883)
 
 #### Original name
 Dothidea oleandrina Durieu & Mont., 1846

@@ -1,5 +1,4 @@
-Vermicularia oryzae Hara SPECIES
-=======
+# Vermicularia oryzae Hara SPECIES
 
 #### Status
 ACCEPTED

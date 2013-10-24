@@ -1,5 +1,4 @@
-Plenodomus syriacus Petr. SPECIES
-=======
+# Plenodomus syriacus Petr. SPECIES
 
 #### Status
 ACCEPTED

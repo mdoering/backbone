@@ -1,5 +1,4 @@
-Phlegmacium lilacinopes (Britzelm.) M.M. Moser SPECIES
-=======
+# Phlegmacium lilacinopes (Britzelm.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

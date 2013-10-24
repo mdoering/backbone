@@ -1,5 +1,4 @@
-Bathelium connivens (Nyl.) Trevis. SPECIES
-=======
+# Bathelium connivens (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

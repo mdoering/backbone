@@ -1,5 +1,4 @@
-Isthmolongispora biramifera Matsush. SPECIES
-=======
+# Isthmolongispora biramifera Matsush. SPECIES
 
 #### Status
 ACCEPTED

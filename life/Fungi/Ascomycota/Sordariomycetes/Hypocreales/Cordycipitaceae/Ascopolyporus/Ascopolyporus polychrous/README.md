@@ -1,5 +1,4 @@
-Ascopolyporus polychrous Möller, 1901 SPECIES
-=======
+# Ascopolyporus polychrous Möller, 1901 SPECIES
 
 #### Status
 ACCEPTED

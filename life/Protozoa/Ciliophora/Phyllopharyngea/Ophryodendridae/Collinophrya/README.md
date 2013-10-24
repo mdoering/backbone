@@ -1,5 +1,4 @@
-Collinophrya Kahl, 1934 GENUS
-=======
+# Collinophrya Kahl, 1934 GENUS
 
 #### Status
 ACCEPTED

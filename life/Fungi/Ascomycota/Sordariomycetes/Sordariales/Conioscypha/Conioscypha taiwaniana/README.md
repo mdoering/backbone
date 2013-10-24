@@ -1,5 +1,4 @@
-Conioscypha taiwaniana J.L. Chen & Tzean SPECIES
-=======
+# Conioscypha taiwaniana J.L. Chen & Tzean SPECIES
 
 #### Status
 ACCEPTED

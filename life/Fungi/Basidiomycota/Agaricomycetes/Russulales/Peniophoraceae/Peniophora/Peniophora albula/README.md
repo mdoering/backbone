@@ -1,5 +1,4 @@
-Peniophora albula G.F. Atk. & Burt SPECIES
-=======
+# Peniophora albula G.F. Atk. & Burt SPECIES
 
 #### Status
 ACCEPTED

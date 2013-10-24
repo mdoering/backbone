@@ -1,5 +1,4 @@
-Lissodinium corrugatum M. C. Carbonell-Moore SPECIES
-=======
+# Lissodinium corrugatum M. C. Carbonell-Moore SPECIES
 
 #### Status
 ACCEPTED

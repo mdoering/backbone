@@ -1,5 +1,4 @@
-Sargassum parvivesiculosum C.K. Tseng & Lu SPECIES
-=======
+# Sargassum parvivesiculosum C.K. Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

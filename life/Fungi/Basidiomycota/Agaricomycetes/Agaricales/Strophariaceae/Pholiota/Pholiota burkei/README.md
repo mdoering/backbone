@@ -1,5 +1,4 @@
-Pholiota burkei A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota burkei A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

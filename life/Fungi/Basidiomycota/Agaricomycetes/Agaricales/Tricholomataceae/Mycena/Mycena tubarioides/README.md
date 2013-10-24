@@ -1,5 +1,4 @@
-Mycena tubarioides (Maire) Kühner SPECIES
-=======
+# Mycena tubarioides (Maire) Kühner SPECIES
 
 #### Status
 ACCEPTED

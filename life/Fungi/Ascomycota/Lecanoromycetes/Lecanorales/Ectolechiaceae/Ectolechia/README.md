@@ -1,5 +1,4 @@
-Ectolechia GENUS
-=======
+# Ectolechia GENUS
 
 #### Status
 ACCEPTED

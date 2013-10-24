@@ -1,5 +1,4 @@
-Quaternariella obscura Thomsen, 1980 SPECIES
-=======
+# Quaternariella obscura Thomsen, 1980 SPECIES
 
 #### Status
 ACCEPTED

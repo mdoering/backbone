@@ -1,5 +1,4 @@
-Gloniopsis somala Bacc. SPECIES
-=======
+# Gloniopsis somala Bacc. SPECIES
 
 #### Status
 ACCEPTED

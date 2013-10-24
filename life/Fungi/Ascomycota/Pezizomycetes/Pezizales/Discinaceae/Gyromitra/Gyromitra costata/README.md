@@ -1,5 +1,4 @@
-Gyromitra costata (Schwein.) Cooke SPECIES
-=======
+# Gyromitra costata (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

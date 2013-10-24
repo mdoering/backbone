@@ -1,5 +1,4 @@
-Parafavella media Brandt, 1896 SPECIES
-=======
+# Parafavella media Brandt, 1896 SPECIES
 
 #### Status
 ACCEPTED

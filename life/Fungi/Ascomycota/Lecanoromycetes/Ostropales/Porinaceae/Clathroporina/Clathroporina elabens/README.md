@@ -1,5 +1,4 @@
-Clathroporina elabens Müll. Arg. SPECIES
-=======
+# Clathroporina elabens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

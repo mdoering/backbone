@@ -1,5 +1,4 @@
-Fusarium miniatulum Sacc. SPECIES
-=======
+# Fusarium miniatulum Sacc. SPECIES
 
 #### Status
 ACCEPTED

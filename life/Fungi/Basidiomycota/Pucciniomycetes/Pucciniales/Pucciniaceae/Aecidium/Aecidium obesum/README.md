@@ -1,5 +1,4 @@
-Aecidium obesum Arthur SPECIES
-=======
+# Aecidium obesum Arthur SPECIES
 
 #### Status
 ACCEPTED

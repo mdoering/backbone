@@ -1,5 +1,4 @@
-Pleurotus tjibodensis Henn. SPECIES
-=======
+# Pleurotus tjibodensis Henn. SPECIES
 
 #### Status
 ACCEPTED

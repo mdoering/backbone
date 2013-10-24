@@ -1,5 +1,4 @@
-Astrammina sphaerica (Heron-allen and Earland, 1932) SPECIES
-=======
+# Astrammina sphaerica (Heron-allen and Earland, 1932) SPECIES
 
 #### Status
 ACCEPTED

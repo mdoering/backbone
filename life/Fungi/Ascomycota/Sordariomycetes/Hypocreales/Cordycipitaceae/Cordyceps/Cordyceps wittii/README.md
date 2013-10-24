@@ -1,5 +1,4 @@
-Cordyceps wittii Henn. SPECIES
-=======
+# Cordyceps wittii Henn. SPECIES
 
 #### Status
 ACCEPTED

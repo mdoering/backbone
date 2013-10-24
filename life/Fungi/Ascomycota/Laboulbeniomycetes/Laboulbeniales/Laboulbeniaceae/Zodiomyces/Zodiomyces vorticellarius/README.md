@@ -1,17 +1,16 @@
-Zodiomyces vorticellaria Thaxt. SPECIES
-=======
+# Zodiomyces vorticellarius Thaxt., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Amer. Acad. Arts & Sci. 25: 263 (1891)
 
 #### Original name
-Zodiomyces vorticellaria Thaxt.
+Zodiomyces vorticellarius Thaxt., 1891
 
 ### Remarks
 null

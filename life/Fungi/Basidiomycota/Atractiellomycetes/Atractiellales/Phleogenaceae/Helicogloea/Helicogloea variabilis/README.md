@@ -1,5 +1,4 @@
-Helicogloea variabilis K. Wells, 1990 SPECIES
-=======
+# Helicogloea variabilis K. Wells, 1990 SPECIES
 
 #### Status
 ACCEPTED

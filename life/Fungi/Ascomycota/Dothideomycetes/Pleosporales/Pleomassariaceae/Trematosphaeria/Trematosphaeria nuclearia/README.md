@@ -1,5 +1,4 @@
-Trematosphaeria nuclearia (De Not.) Sacc. SPECIES
-=======
+# Trematosphaeria nuclearia (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

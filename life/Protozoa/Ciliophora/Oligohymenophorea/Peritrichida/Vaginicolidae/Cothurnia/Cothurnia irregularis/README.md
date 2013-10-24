@@ -1,5 +1,4 @@
-Cothurnia irregularis Kent, 1882 SPECIES
-=======
+# Cothurnia irregularis Kent, 1882 SPECIES
 
 #### Status
 ACCEPTED

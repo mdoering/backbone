@@ -1,5 +1,4 @@
-Gephyrocapsa caribbeanica Boudreaux & Hay, 1967 SPECIES
-=======
+# Gephyrocapsa caribbeanica Boudreaux & Hay, 1967 SPECIES
 
 #### Status
 ACCEPTED

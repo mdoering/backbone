@@ -1,5 +1,4 @@
-Phoma schini-molle Nann. SPECIES
-=======
+# Phoma schini-molle Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta gyalocarpa (Nyl.) Trevis. SPECIES
-=======
+# Sticta gyalocarpa (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

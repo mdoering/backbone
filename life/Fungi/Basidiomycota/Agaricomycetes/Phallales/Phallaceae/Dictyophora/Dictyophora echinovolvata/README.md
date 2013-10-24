@@ -1,5 +1,4 @@
-Dictyophora echinovolvata M. Zang, D.R. Zheng & Z.X. Hu SPECIES
-=======
+# Dictyophora echinovolvata M. Zang, D.R. Zheng & Z.X. Hu SPECIES
 
 #### Status
 ACCEPTED

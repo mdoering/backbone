@@ -1,5 +1,4 @@
-Pseudophacidium rehmii (Feltgen) Höhn. SPECIES
-=======
+# Pseudophacidium rehmii (Feltgen) Höhn. SPECIES
 
 #### Status
 ACCEPTED

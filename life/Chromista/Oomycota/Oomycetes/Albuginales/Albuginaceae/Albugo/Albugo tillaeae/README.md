@@ -1,14 +1,13 @@
-Albugo tilleae (Lagerh.) G.W. Wilson SPECIES
-=======
+# Albugo tillaeae (Lagerh.) G.W. Wilson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 34: 76 (1907)
 
 #### Original name
 Cystopus tillaeae Lagerh.

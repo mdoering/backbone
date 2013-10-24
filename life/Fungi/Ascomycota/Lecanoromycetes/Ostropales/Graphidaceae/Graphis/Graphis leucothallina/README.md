@@ -1,5 +1,4 @@
-Graphis leucothallina Vain. SPECIES
-=======
+# Graphis leucothallina Vain. SPECIES
 
 #### Status
 ACCEPTED

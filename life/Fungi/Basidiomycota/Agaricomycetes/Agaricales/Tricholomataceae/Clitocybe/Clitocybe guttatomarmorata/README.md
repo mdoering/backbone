@@ -1,5 +1,4 @@
-Clitocybe guttatomarmorata (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe guttatomarmorata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synechoblastus wyomingense SPECIES
-=======
+# Synechoblastus wyomingense SPECIES
 
 #### Status
 ACCEPTED

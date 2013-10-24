@@ -1,5 +1,4 @@
-Hypospila rhodopea Bubák & Picb. SPECIES
-=======
+# Hypospila rhodopea Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

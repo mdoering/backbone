@@ -1,5 +1,4 @@
-Phloeopeccaniomyces pulvinulae Cif. & Tomas. SPECIES
-=======
+# Phloeopeccaniomyces pulvinulae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

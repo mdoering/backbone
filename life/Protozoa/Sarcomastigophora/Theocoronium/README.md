@@ -1,5 +1,4 @@
-Theocoronium Haeckel, 1887 GENUS
-=======
+# Theocoronium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epiplosphaera areolata Klement, 1960 SPECIES
-=======
+# Epiplosphaera areolata Klement, 1960 SPECIES
 
 #### Status
 ACCEPTED

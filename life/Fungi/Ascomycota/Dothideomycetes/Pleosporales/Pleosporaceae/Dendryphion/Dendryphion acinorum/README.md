@@ -1,5 +1,4 @@
-Dendryphion acinorum Ellis & Everh. SPECIES
-=======
+# Dendryphion acinorum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella tela (Berk. & M.A. Curtis) Massee SPECIES
-=======
+# Cyphella tela (Berk. & M.A. Curtis) Massee SPECIES
 
 #### Status
 ACCEPTED

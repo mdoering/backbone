@@ -1,5 +1,4 @@
-Pseudotrichomonas keilini Bishop, 1939 SPECIES
-=======
+# Pseudotrichomonas keilini Bishop, 1939 SPECIES
 
 #### Status
 ACCEPTED

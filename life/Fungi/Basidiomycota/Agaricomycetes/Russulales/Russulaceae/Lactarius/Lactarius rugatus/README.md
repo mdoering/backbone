@@ -1,5 +1,4 @@
-Lactarius rugatus Kühner & Romagn. SPECIES
-=======
+# Lactarius rugatus Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

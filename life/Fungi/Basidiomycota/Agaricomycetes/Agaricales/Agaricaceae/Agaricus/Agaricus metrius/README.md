@@ -1,5 +1,4 @@
-Agaricus metrius Berk. & Broome SPECIES
-=======
+# Agaricus metrius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

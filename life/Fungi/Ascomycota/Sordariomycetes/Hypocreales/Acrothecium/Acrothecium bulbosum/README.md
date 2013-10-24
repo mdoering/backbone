@@ -1,5 +1,4 @@
-Acrothecium bulbosum Sacc. SPECIES
-=======
+# Acrothecium bulbosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

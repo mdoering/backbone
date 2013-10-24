@@ -1,5 +1,4 @@
-Encoelia fascicularis (Alb. & Schwein.) P. Karst., 1871 SPECIES
-=======
+# Encoelia fascicularis (Alb. & Schwein.) P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED

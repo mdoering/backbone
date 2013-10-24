@@ -1,5 +1,4 @@
-Lobaria coriacea (Hook. f. & Taylor) Trevis. SPECIES
-=======
+# Lobaria coriacea (Hook. f. & Taylor) Trevis. SPECIES
 
 #### Status
 ACCEPTED

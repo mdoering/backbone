@@ -1,5 +1,4 @@
-Psilocybe subhoogshagenii Guzmán, M. Torres & Ram.-Guill. SPECIES
-=======
+# Psilocybe subhoogshagenii Guzmán, M. Torres & Ram.-Guill. SPECIES
 
 #### Status
 ACCEPTED

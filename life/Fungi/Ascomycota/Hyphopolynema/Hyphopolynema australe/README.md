@@ -1,5 +1,4 @@
-Hyphopolynema australe B. Sutton & Alcorn, 1984 SPECIES
-=======
+# Hyphopolynema australe B. Sutton & Alcorn, 1984 SPECIES
 
 #### Status
 ACCEPTED

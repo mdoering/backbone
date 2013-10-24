@@ -1,5 +1,4 @@
-Sporomusa acidovorans Ollivier et al., 1990 SPECIES
-=======
+# Sporomusa acidovorans Ollivier et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

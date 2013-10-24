@@ -1,5 +1,4 @@
-Pholiota curcuma var. curcuma VARIETY
-=======
+# Pholiota curcuma (Berk. & M.A. Curtis) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+The North American species of Pholiota 63 (1968)
 
 #### Original name
-Pholiota curcuma var. curcuma
+Agaricus curcuma Berk. & M.A. Curtis
 
 ### Remarks
 null

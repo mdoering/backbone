@@ -1,14 +1,13 @@
-Schizostoma pachythele (Berk. & Broome) Sacc., 1878 SPECIES
-=======
+# Xenolophium pachythele (Berk. & Broome) Huhndorf, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 3): 336 (1878)
+Mycologia 85(3): 497 (1993)
 
 #### Original name
 Sphaeria pachythele Berk. & Broome, 1875

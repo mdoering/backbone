@@ -1,5 +1,4 @@
-Leiosphaeridia accreta (N. Umonova in N. Umnova & Fanderflit, 1971) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia accreta (N. Umonova in N. Umnova & Fanderflit, 1971) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

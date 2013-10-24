@@ -1,5 +1,4 @@
-Caeoma minutum Lib. SPECIES
-=======
+# Caeoma minutum Lib. SPECIES
 
 #### Status
 ACCEPTED

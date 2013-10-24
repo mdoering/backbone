@@ -1,5 +1,4 @@
-Aniptoderopsis manglicola K.D. Hyde SPECIES
-=======
+# Aniptoderopsis manglicola K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

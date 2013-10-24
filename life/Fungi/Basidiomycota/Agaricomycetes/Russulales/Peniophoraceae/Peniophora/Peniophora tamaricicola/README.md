@@ -1,5 +1,4 @@
-Peniophora tamaricicola Boidin & Malençon, 1961 SPECIES
-=======
+# Peniophora tamaricicola Boidin & Malençon, 1961 SPECIES
 
 #### Status
 ACCEPTED

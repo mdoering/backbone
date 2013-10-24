@@ -1,5 +1,4 @@
-Cladonia pseudopityrea Vain. SPECIES
-=======
+# Cladonia pseudopityrea Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Heteropatella lacera f. linariae (Rabenh.) Sacc. FORM
-=======
+# Heterosphaeria linariae (Rabenh.) Rehm, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(3): 203 (1888)
 
 #### Original name
 null

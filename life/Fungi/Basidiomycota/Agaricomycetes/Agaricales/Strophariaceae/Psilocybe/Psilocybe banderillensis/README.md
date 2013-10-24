@@ -1,5 +1,4 @@
-Psilocybe banderillensis var. banderillensis VARIETY
-=======
+# Psilocybe banderillensis Guzmán SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 29(3-4): 642 (1978)
 
 #### Original name
-Psilocybe banderillensis var. banderillensis
+Psilocybe banderillensis Guzmán
 
 ### Remarks
 null

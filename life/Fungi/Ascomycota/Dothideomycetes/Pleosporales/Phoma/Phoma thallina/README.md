@@ -1,5 +1,4 @@
-Phoma thallina (Sacc., E. Bommer & M. Rousseau) Allesch. SPECIES
-=======
+# Phoma thallina (Sacc., E. Bommer & M. Rousseau) Allesch. SPECIES
 
 #### Status
 ACCEPTED

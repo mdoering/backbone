@@ -1,5 +1,4 @@
-Melanops calycanthi (Schwein.) Weese SPECIES
-=======
+# Melanops calycanthi (Schwein.) Weese SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma subquadratum Hesler SPECIES
-=======
+# Entoloma subquadratum Hesler SPECIES
 
 #### Status
 ACCEPTED

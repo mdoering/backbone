@@ -1,5 +1,4 @@
-Irydyonia filicis Racib., 1900 SPECIES
-=======
+# Irydyonia filicis Racib., 1900 SPECIES
 
 #### Status
 ACCEPTED

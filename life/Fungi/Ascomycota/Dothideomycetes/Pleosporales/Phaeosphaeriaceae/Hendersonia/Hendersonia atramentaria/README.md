@@ -1,5 +1,4 @@
-Hendersonia atramentaria J. Schröt. SPECIES
-=======
+# Hendersonia atramentaria J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

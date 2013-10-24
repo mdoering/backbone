@@ -1,5 +1,4 @@
-Puccinia dimorphothecae Pole-Evans SPECIES
-=======
+# Puccinia dimorphothecae Pole-Evans SPECIES
 
 #### Status
 ACCEPTED

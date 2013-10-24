@@ -1,5 +1,4 @@
-Tricholoma umbilicatum Dennis SPECIES
-=======
+# Tricholoma umbilicatum Dennis SPECIES
 
 #### Status
 ACCEPTED

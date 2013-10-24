@@ -1,5 +1,4 @@
-Tricholoma porta-dalveyi Corner SPECIES
-=======
+# Tricholoma porta-dalveyi Corner SPECIES
 
 #### Status
 ACCEPTED

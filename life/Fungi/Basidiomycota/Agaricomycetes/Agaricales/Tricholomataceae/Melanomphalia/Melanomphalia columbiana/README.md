@@ -1,5 +1,4 @@
-Melanomphalia columbiana Singer SPECIES
-=======
+# Melanomphalia columbiana Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium lagenariae Gapon. SPECIES
-=======
+# Camarosporium lagenariae Gapon. SPECIES
 
 #### Status
 ACCEPTED

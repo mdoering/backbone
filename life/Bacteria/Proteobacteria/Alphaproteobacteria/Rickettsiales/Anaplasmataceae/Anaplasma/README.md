@@ -1,5 +1,4 @@
-Anaplasma Theiler, 1910 GENUS
-=======
+# Anaplasma Theiler, 1910 GENUS
 
 #### Status
 ACCEPTED

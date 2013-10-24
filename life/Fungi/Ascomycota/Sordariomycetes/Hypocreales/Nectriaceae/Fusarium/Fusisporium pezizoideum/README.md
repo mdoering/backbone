@@ -1,5 +1,4 @@
-Fusisporium pezizoideum Berk. & M.A. Curtis SPECIES
-=======
+# Fusisporium pezizoideum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

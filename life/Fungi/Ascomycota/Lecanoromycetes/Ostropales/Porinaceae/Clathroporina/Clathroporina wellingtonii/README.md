@@ -1,5 +1,4 @@
-Clathroporina wellingtonii (Stirt.) Müll. Arg. SPECIES
-=======
+# Clathroporina wellingtonii (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

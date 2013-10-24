@@ -1,5 +1,4 @@
-Heterogloeales ORDER
-=======
+# Heterogloeales ORDER
 
 #### Status
 ACCEPTED

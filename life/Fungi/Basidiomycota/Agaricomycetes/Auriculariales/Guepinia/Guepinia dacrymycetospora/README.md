@@ -1,17 +1,16 @@
-Guepinia dacryomycetospora (Speg.) Bres. SPECIES
-=======
+# Guepinia dacrymycetospora (Speg.) Bres. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 18(1-3): 53 (1920)
 
 #### Original name
-Hirneola dacryomycetospora Speg.
+Hirneola dacrymycetospora Speg.
 
 ### Remarks
 null

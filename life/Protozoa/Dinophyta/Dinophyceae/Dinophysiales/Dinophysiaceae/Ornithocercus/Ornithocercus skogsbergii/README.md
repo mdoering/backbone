@@ -1,5 +1,4 @@
-Ornithocercus skogsbergii Abé, 1967 SPECIES
-=======
+# Ornithocercus skogsbergii Abé, 1967 SPECIES
 
 #### Status
 ACCEPTED

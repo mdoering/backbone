@@ -1,5 +1,4 @@
-Laschia baumanniana (Henn.) Sacc. SPECIES
-=======
+# Laschia baumanniana (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora viciae-pisiformis Bubák SPECIES
-=======
+# Stagonospora viciae-pisiformis Bubák SPECIES
 
 #### Status
 ACCEPTED

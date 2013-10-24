@@ -1,5 +1,4 @@
-Melanaria amaurospora (Hellb.) I.M. Lamb SPECIES
-=======
+# Melanaria amaurospora (Hellb.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

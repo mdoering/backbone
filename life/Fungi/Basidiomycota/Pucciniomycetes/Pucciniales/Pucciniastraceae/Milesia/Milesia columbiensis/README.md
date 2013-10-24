@@ -1,5 +1,4 @@
-Milesia columbiensis (Dietel) Arthur SPECIES
-=======
+# Milesia columbiensis (Dietel) Arthur SPECIES
 
 #### Status
 ACCEPTED

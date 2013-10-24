@@ -1,5 +1,4 @@
-Octactis tenuis (D. Bukry) T. V. Desikachary & P. Prema SPECIES
-=======
+# Octactis tenuis (D. Bukry) T. V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora urariae-pictae H.S.G. Rao, S. Narayan & Poonam Srivast. SPECIES
-=======
+# Pseudocercospora urariae-pictae H.S.G. Rao, S. Narayan & Poonam Srivast. SPECIES
 
 #### Status
 ACCEPTED

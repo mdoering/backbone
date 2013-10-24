@@ -1,5 +1,4 @@
-Bullera koratensis Fungsin, M. Takash., Sugita & Nakase SPECIES
-=======
+# Bullera koratensis Fungsin, M. Takash., Sugita & Nakase SPECIES
 
 #### Status
 ACCEPTED

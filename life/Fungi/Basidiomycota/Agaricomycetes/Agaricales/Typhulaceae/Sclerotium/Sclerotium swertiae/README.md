@@ -1,5 +1,4 @@
-Sclerotium swertiae Golovin SPECIES
-=======
+# Sclerotium swertiae Golovin SPECIES
 
 #### Status
 ACCEPTED

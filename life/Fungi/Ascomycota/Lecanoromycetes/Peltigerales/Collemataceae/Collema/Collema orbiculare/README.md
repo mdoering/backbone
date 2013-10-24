@@ -1,5 +1,4 @@
-Collema orbiculare (Schaer.) Tonglet SPECIES
-=======
+# Collema orbiculare (Schaer.) Tonglet SPECIES
 
 #### Status
 ACCEPTED

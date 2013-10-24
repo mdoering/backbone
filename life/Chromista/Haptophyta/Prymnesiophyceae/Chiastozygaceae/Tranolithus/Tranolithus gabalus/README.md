@@ -1,5 +1,4 @@
-Tranolithus gabalus Stover, 1966 SPECIES
-=======
+# Tranolithus gabalus Stover, 1966 SPECIES
 
 #### Status
 ACCEPTED

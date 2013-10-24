@@ -1,5 +1,4 @@
-Photobacterium lipolyticum Yoon et al., 2005 SPECIES
-=======
+# Photobacterium lipolyticum Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

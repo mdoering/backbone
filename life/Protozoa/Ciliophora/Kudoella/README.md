@@ -1,5 +1,4 @@
-Kudoella Earl, 1972 GENUS
-=======
+# Kudoella Earl, 1972 GENUS
 
 #### Status
 ACCEPTED

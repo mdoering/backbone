@@ -1,5 +1,4 @@
-Helicosphaera neogranulata Gartner, 1977 SPECIES
-=======
+# Helicosphaera neogranulata Gartner, 1977 SPECIES
 
 #### Status
 ACCEPTED

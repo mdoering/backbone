@@ -1,5 +1,4 @@
-Pholiota umbilicata A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota umbilicata A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

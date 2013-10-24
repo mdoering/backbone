@@ -1,5 +1,4 @@
-Pleuropus abortivus (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Pleuropus abortivus (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

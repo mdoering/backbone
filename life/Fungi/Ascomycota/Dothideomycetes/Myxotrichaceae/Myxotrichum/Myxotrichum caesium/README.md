@@ -1,5 +1,4 @@
-Myxotrichum caesium Fr. SPECIES
-=======
+# Myxotrichum caesium Fr. SPECIES
 
 #### Status
 ACCEPTED

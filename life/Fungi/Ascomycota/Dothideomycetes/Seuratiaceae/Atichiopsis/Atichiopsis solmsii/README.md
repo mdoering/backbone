@@ -1,5 +1,4 @@
-Atichiopsis solmsii R. Wagner SPECIES
-=======
+# Atichiopsis solmsii R. Wagner SPECIES
 
 #### Status
 ACCEPTED

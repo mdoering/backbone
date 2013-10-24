@@ -1,5 +1,4 @@
-Lichen ceuthocarpus Sm. SPECIES
-=======
+# Lichen ceuthocarpus Sm. SPECIES
 
 #### Status
 ACCEPTED

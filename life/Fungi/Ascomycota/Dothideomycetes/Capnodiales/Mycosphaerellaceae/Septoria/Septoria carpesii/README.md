@@ -1,5 +1,4 @@
-Septoria carpesii N. Naito SPECIES
-=======
+# Septoria carpesii N. Naito SPECIES
 
 #### Status
 ACCEPTED

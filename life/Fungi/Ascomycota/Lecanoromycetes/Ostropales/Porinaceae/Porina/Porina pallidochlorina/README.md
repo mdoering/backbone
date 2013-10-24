@@ -1,5 +1,4 @@
-Porina pallidochlorina R. Schub. & Lücking SPECIES
-=======
+# Porina pallidochlorina R. Schub. & Lücking SPECIES
 
 #### Status
 ACCEPTED

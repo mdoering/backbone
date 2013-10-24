@@ -1,5 +1,4 @@
-Lophiostoma crouanii Nitschke SPECIES
-=======
+# Lophiostoma crouanii Nitschke SPECIES
 
 #### Status
 ACCEPTED

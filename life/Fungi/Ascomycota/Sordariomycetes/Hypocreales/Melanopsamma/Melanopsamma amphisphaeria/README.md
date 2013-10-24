@@ -1,5 +1,4 @@
-Melanopsamma amphisphaeria Schulzer & Sacc. SPECIES
-=======
+# Melanopsamma amphisphaeria Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

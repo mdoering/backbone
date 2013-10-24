@@ -1,5 +1,4 @@
-Saudithrix terricola Foissner, Al-Rasheid & Berger in Berger, Al-Rasheid & Foissner, 2006 SPECIES
-=======
+# Saudithrix terricola Foissner, Al-Rasheid & Berger in Berger, Al-Rasheid & Foissner, 2006 SPECIES
 
 #### Status
 ACCEPTED

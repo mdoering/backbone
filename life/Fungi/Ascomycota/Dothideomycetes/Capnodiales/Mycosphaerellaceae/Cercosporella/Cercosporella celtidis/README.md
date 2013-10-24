@@ -1,5 +1,4 @@
-Cercosporella celtidis (Ellis & Kellerm.) Davis SPECIES
-=======
+# Cercosporella celtidis (Ellis & Kellerm.) Davis SPECIES
 
 #### Status
 ACCEPTED

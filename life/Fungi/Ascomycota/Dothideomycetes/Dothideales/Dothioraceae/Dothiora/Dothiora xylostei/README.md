@@ -1,5 +1,4 @@
-Dothiora xylostei Fuckel SPECIES
-=======
+# Dothiora xylostei Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma piperatum Peck SPECIES
-=======
+# Tricholoma piperatum Peck SPECIES
 
 #### Status
 ACCEPTED

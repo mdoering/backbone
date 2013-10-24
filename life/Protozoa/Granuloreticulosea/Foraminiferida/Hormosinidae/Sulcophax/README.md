@@ -1,5 +1,4 @@
-Sulcophax Rhumbler, 1931 GENUS
-=======
+# Sulcophax Rhumbler, 1931 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialocephala sphaeroides B.J. Wilson SPECIES
-=======
+# Phialocephala sphaeroides B.J. Wilson SPECIES
 
 #### Status
 ACCEPTED

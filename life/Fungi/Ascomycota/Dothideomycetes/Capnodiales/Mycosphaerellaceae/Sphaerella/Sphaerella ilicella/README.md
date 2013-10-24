@@ -1,5 +1,4 @@
-Sphaerella ilicella Cooke SPECIES
-=======
+# Sphaerella ilicella Cooke SPECIES
 
 #### Status
 ACCEPTED

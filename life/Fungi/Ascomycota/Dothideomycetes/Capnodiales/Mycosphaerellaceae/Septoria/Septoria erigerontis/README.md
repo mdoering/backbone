@@ -1,17 +1,16 @@
-Septoria erigeronis Peck SPECIES
-=======
+# Septoria erigerontis Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. 24: 87 (1872)
 
 #### Original name
-Septoria erigeronis Peck
+Septoria erigerontis Peck
 
 ### Remarks
 null

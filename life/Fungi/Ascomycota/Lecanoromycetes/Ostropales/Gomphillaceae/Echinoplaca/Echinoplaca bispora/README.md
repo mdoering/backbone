@@ -1,5 +1,4 @@
-Echinoplaca bispora Kalb & Vezda SPECIES
-=======
+# Echinoplaca bispora Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

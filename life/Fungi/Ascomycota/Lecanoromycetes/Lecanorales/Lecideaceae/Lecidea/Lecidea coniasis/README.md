@@ -1,5 +1,4 @@
-Lecidea coniasis (A. Massal.) Lettau SPECIES
-=======
+# Lecidea coniasis (A. Massal.) Lettau SPECIES
 
 #### Status
 ACCEPTED

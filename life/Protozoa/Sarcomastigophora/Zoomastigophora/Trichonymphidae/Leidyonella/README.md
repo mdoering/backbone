@@ -1,5 +1,4 @@
-Leidyonella Frenzel, 1891 GENUS
-=======
+# Leidyonella Frenzel, 1891 GENUS
 
 #### Status
 ACCEPTED

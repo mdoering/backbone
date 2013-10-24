@@ -1,5 +1,4 @@
-Idiocercus B. Sutton GENUS
-=======
+# Idiocercus B. Sutton GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Abstoma G. Cunn. GENUS
-=======
+# Abstoma G. Cunn. GENUS
 
 #### Status
 ACCEPTED

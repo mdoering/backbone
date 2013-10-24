@@ -1,5 +1,4 @@
-Puccinia fibigiae Petr. SPECIES
-=======
+# Puccinia fibigiae Petr. SPECIES
 
 #### Status
 ACCEPTED

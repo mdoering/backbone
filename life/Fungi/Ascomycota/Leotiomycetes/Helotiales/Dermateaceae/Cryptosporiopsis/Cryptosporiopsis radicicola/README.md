@@ -1,5 +1,4 @@
-Cryptosporiopsis radicicola Kowalski & C. Bartnik, 1995 SPECIES
-=======
+# Cryptosporiopsis radicicola Kowalski & C. Bartnik, 1995 SPECIES
 
 #### Status
 ACCEPTED

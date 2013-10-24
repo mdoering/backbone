@@ -1,17 +1,16 @@
-Cordyceps selkirki Olliff SPECIES
-=======
+# Cordyceps selkirkii Olliff SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Agric. Gaz. N. S. W. , Sydney 6: 411 (1895)
 
 #### Original name
-Cordyceps selkirki Olliff
+Cordyceps selkirkii Olliff
 
 ### Remarks
 null

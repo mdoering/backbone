@@ -1,5 +1,4 @@
-Bacidia tenella Kullh. SPECIES
-=======
+# Bacidia tenella Kullh. SPECIES
 
 #### Status
 ACCEPTED

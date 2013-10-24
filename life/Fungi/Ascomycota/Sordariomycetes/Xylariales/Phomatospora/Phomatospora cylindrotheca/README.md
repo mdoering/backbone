@@ -1,5 +1,4 @@
-Phomatospora cylindrotheca Petr. SPECIES
-=======
+# Phomatospora cylindrotheca Petr. SPECIES
 
 #### Status
 ACCEPTED

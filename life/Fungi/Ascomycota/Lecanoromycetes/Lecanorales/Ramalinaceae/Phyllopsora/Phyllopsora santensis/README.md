@@ -1,17 +1,16 @@
-Lecidea santensis Tuck. SPECIES
-=======
+# Phyllopsora santensis (Tuck.) Swinscow & Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 13(3): 236 (1981)
 
 #### Original name
-null
+Lecidea santensis Tuck.
 
 ### Remarks
 null

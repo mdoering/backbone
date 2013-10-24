@@ -1,11 +1,10 @@
-Haemophilus parapertussis (Eldering & Kendrick, 1938) Wilson & Miles, 1946 SPECIES
-=======
+# Bordetella parapertussis (Eldering and Kendrick, 1938) Moreno-López, 1952 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

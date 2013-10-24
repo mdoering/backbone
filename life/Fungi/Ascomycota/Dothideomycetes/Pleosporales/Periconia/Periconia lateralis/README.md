@@ -1,5 +1,4 @@
-Periconia lateralis Ellis & Everh., 1886 SPECIES
-=======
+# Periconia lateralis Ellis & Everh., 1886 SPECIES
 
 #### Status
 ACCEPTED

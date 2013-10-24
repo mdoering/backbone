@@ -1,5 +1,4 @@
-Marasmiellus rugulosus subsp. rugulosus SUBSPECIES
-=======
+# Marasmiellus rugulosus (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Pap. Mich. Acad. Sci. 32: 130 (1946)
 
 #### Original name
-Marasmiellus rugulosus subsp. rugulosus
+Marasmius rugulosus Berk. & M.A. Curtis
 
 ### Remarks
 null

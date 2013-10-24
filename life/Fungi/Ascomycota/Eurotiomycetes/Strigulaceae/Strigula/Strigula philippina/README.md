@@ -1,5 +1,4 @@
-Strigula philippina Vain. SPECIES
-=======
+# Strigula philippina Vain. SPECIES
 
 #### Status
 ACCEPTED

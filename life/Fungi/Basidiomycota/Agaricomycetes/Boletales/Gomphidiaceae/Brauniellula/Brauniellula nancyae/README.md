@@ -1,5 +1,4 @@
-Brauniellula nancyae A.H. Sm. & Singer, 1959 SPECIES
-=======
+# Brauniellula nancyae A.H. Sm. & Singer, 1959 SPECIES
 
 #### Status
 ACCEPTED

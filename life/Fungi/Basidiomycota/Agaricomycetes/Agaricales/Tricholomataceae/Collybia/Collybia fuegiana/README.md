@@ -1,5 +1,4 @@
-Collybia fuegiana Singer SPECIES
-=======
+# Collybia fuegiana Singer SPECIES
 
 #### Status
 ACCEPTED

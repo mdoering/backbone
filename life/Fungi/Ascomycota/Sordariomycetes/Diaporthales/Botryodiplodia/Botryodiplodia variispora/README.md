@@ -1,5 +1,4 @@
-Botryodiplodia variispora (Died.) Zambett. SPECIES
-=======
+# Botryodiplodia variispora (Died.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

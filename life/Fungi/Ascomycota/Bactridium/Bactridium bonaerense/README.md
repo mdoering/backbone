@@ -1,17 +1,16 @@
-Bactridium bonaërense Speg. SPECIES
-=======
+# Bactridium bonaerense Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 10(5-6): 167 [no. 162] (1880)
 
 #### Original name
-Bactridium bonaërense Speg.
+Bactridium bonaerense Speg.
 
 ### Remarks
 null

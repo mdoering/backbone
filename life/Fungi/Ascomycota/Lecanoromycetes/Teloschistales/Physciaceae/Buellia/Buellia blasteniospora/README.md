@@ -1,5 +1,4 @@
-Buellia blasteniospora Zahlbr. SPECIES
-=======
+# Buellia blasteniospora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

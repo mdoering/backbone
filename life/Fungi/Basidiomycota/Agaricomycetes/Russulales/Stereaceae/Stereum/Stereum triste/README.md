@@ -1,5 +1,4 @@
-Stereum triste Berk. & M.A. Curtis SPECIES
-=======
+# Stereum triste Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

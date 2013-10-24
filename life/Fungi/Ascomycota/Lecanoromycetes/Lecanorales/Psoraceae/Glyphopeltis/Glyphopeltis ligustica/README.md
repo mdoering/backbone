@@ -1,5 +1,4 @@
-Glyphopeltis ligustica (B. de Lesd.) Timdal SPECIES
-=======
+# Glyphopeltis ligustica (B. de Lesd.) Timdal SPECIES
 
 #### Status
 ACCEPTED

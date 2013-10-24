@@ -1,5 +1,4 @@
-Glochidinium Boltovskoy, 1999 GENUS
-=======
+# Glochidinium Boltovskoy, 1999 GENUS
 
 #### Status
 ACCEPTED

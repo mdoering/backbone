@@ -1,5 +1,4 @@
-Puccinia fuirenicola Arthur SPECIES
-=======
+# Puccinia fuirenicola Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe praetervisa Singer SPECIES
-=======
+# Psilocybe praetervisa Singer SPECIES
 
 #### Status
 ACCEPTED

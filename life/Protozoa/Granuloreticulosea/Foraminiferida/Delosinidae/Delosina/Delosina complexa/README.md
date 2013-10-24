@@ -1,5 +1,4 @@
-Delosina complexa (Sidebottom, 1907) SPECIES
-=======
+# Delosina complexa (Sidebottom, 1907) SPECIES
 
 #### Status
 ACCEPTED

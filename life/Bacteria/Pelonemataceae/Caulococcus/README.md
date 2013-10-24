@@ -1,5 +1,4 @@
-Caulococcus Perfil'yev & Gabe, 1961 GENUS
-=======
+# Caulococcus Perfil'yev & Gabe, 1961 GENUS
 
 #### Status
 ACCEPTED

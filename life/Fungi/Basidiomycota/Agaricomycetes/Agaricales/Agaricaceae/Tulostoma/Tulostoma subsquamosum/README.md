@@ -1,5 +1,4 @@
-Tulostoma subsquamosum Long & S. Ahmad, 1947 SPECIES
-=======
+# Tulostoma subsquamosum Long & S. Ahmad, 1947 SPECIES
 
 #### Status
 ACCEPTED

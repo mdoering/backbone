@@ -1,5 +1,4 @@
-Sphaeria hypericina Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria hypericina Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

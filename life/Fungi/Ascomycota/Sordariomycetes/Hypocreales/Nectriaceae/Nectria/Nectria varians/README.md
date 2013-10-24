@@ -1,5 +1,4 @@
-Nectria varians (Sacc.) Rossman SPECIES
-=======
+# Nectria varians (Sacc.) Rossman SPECIES
 
 #### Status
 ACCEPTED

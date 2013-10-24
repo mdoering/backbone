@@ -1,5 +1,4 @@
-Puccinia hestorensis G. Cunn. SPECIES
-=======
+# Puccinia hestorensis G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

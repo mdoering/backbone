@@ -1,5 +1,4 @@
-Laboulbenia tapirina R.K. Benj. SPECIES
-=======
+# Laboulbenia tapirina R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia percrocata Arnold SPECIES
-=======
+# Blastenia percrocata Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopeziza mercurialis Boud. SPECIES
-=======
+# Pseudopeziza mercurialis Boud. SPECIES
 
 #### Status
 ACCEPTED

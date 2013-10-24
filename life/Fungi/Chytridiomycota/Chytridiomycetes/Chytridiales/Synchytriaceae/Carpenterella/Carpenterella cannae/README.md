@@ -1,5 +1,4 @@
-Carpenterella cannae Mundk. & Thirum., 1951 SPECIES
-=======
+# Carpenterella cannae Mundk. & Thirum., 1951 SPECIES
 
 #### Status
 ACCEPTED

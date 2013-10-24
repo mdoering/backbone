@@ -1,5 +1,4 @@
-Ramonia malmei Vezda SPECIES
-=======
+# Ramonia malmei Vezda SPECIES
 
 #### Status
 ACCEPTED

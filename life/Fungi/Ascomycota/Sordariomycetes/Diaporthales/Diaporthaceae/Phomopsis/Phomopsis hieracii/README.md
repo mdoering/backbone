@@ -1,5 +1,4 @@
-Phomopsis hieracii H.C. Greene, 1953 SPECIES
-=======
+# Phomopsis hieracii H.C. Greene, 1953 SPECIES
 
 #### Status
 ACCEPTED

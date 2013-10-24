@@ -1,5 +1,4 @@
-Catacombas obtusa (Pantocsek) P. J. M. Snoeijs SPECIES
-=======
+# Catacombas obtusa (Pantocsek) P. J. M. Snoeijs SPECIES
 
 #### Status
 ACCEPTED

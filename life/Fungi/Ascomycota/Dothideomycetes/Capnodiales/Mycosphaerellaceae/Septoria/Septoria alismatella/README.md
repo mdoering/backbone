@@ -1,5 +1,4 @@
-Septoria alismatella Sacc. SPECIES
-=======
+# Septoria alismatella Sacc. SPECIES
 
 #### Status
 ACCEPTED

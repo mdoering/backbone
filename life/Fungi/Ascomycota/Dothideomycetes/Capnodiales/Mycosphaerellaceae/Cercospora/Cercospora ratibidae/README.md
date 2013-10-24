@@ -1,5 +1,4 @@
-Cercospora ratibidae Ellis & Barthol. SPECIES
-=======
+# Cercospora ratibidae Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

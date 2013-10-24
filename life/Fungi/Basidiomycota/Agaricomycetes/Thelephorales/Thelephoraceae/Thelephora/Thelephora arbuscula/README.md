@@ -1,5 +1,4 @@
-Thelephora arbuscula Corner, 1968 SPECIES
-=======
+# Thelephora arbuscula Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

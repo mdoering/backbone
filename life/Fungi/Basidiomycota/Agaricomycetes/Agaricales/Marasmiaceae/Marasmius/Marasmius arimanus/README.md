@@ -1,5 +1,4 @@
-Marasmius arimanus Dennis SPECIES
-=======
+# Marasmius arimanus Dennis SPECIES
 
 #### Status
 ACCEPTED

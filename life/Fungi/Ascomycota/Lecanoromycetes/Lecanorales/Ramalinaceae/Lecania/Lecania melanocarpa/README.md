@@ -1,5 +1,4 @@
-Lecania melanocarpa Müll. Arg. SPECIES
-=======
+# Lecania melanocarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

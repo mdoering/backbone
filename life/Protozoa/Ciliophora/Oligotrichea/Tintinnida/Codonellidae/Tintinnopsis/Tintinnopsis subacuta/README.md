@@ -1,5 +1,4 @@
-Tintinnopsis subacuta Jörgensen, 1899 SPECIES
-=======
+# Tintinnopsis subacuta Jörgensen, 1899 SPECIES
 
 #### Status
 ACCEPTED

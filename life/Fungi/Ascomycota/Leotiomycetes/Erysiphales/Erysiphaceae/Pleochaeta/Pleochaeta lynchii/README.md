@@ -1,5 +1,4 @@
-Pleochaeta lynchii (Speg.) Speg. SPECIES
-=======
+# Pleochaeta lynchii (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

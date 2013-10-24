@@ -1,5 +1,4 @@
-Mycosphaerella frankeniae (Unamuno) Cash SPECIES
-=======
+# Mycosphaerella frankeniae (Unamuno) Cash SPECIES
 
 #### Status
 ACCEPTED

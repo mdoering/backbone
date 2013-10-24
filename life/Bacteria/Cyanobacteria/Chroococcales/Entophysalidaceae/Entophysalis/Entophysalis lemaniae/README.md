@@ -1,8 +1,7 @@
-Oncobyrsa lemaniae (Agardh) Gomont SPECIES
-=======
+# Entophysalis lemaniae (C. Agardh) Drouet & Daily SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

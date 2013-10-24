@@ -1,14 +1,13 @@
-Pycnoderma congestum (Syd.) Arx, 1963 SPECIES
-=======
+# Calolepis congesta Syd., 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 23(3/6): 399 (1925)
 
 #### Original name
 Calolepis congesta Syd., 1925

@@ -1,5 +1,4 @@
-Thomasinella Schlumberger, 1889 GENUS
-=======
+# Thomasinella Schlumberger, 1889 GENUS
 
 #### Status
 ACCEPTED

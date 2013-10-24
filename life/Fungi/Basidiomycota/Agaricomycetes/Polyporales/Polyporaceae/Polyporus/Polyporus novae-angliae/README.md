@@ -1,5 +1,4 @@
-Polyporus novae-angliae Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus novae-angliae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

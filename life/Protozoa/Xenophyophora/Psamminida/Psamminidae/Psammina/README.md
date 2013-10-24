@@ -1,5 +1,4 @@
-Psammina Haeckel, 1889 GENUS
-=======
+# Psammina Haeckel, 1889 GENUS
 
 #### Status
 ACCEPTED

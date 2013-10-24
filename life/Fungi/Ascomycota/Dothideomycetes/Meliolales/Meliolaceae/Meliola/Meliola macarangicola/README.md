@@ -1,5 +1,4 @@
-Meliola macarangicola Hansf. SPECIES
-=======
+# Meliola macarangicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

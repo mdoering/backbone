@@ -1,5 +1,4 @@
-Lecidea subcrustulata Vain. SPECIES
-=======
+# Lecidea subcrustulata Vain. SPECIES
 
 #### Status
 ACCEPTED

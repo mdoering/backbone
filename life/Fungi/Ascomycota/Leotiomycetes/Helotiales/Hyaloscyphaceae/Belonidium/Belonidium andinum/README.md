@@ -1,5 +1,4 @@
-Belonidium andinum Pat. SPECIES
-=======
+# Belonidium andinum Pat. SPECIES
 
 #### Status
 ACCEPTED

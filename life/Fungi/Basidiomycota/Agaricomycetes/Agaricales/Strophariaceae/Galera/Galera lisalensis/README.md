@@ -1,5 +1,4 @@
-Galera lisalensis Beeli SPECIES
-=======
+# Galera lisalensis Beeli SPECIES
 
 #### Status
 ACCEPTED

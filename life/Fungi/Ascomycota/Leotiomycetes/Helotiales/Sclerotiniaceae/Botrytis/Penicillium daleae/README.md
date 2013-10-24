@@ -1,5 +1,4 @@
-Penicillium daleae K.M. Zalessky, 1927 SPECIES
-=======
+# Penicillium daleae K.M. Zalessky, 1927 SPECIES
 
 #### Status
 DOUBTFUL

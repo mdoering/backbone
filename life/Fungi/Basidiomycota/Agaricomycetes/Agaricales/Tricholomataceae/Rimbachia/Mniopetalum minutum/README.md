@@ -1,5 +1,4 @@
-Mniopetalum minutum Manim. & Leelav., 1988 SPECIES
-=======
+# Mniopetalum minutum Manim. & Leelav., 1988 SPECIES
 
 #### Status
 ACCEPTED

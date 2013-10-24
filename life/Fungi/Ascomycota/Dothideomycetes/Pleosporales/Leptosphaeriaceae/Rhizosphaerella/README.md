@@ -1,5 +1,4 @@
-Rhizosphaerella GENUS
-=======
+# Rhizosphaerella GENUS
 
 #### Status
 ACCEPTED

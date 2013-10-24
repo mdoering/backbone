@@ -1,5 +1,4 @@
-Corethromyces obscuristipes Santam. SPECIES
-=======
+# Corethromyces obscuristipes Santam. SPECIES
 
 #### Status
 ACCEPTED

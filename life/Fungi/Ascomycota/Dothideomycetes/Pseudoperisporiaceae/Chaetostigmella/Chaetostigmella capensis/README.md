@@ -1,5 +1,4 @@
-Chaetostigmella capensis (Doidge) Toro SPECIES
-=======
+# Chaetostigmella capensis (Doidge) Toro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia taurica (Mereschk.) Hafellner SPECIES
-=======
+# Aspicilia taurica (Mereschk.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

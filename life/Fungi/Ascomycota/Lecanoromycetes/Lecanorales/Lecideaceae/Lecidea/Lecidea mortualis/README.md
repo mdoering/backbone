@@ -1,5 +1,4 @@
-Lecidea mortualis Stizenb. SPECIES
-=======
+# Lecidea mortualis Stizenb. SPECIES
 
 #### Status
 ACCEPTED

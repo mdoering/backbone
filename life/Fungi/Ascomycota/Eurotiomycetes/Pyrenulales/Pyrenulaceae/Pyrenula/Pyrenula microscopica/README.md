@@ -1,5 +1,4 @@
-Pyrenula microscopica Müll. Arg. SPECIES
-=======
+# Pyrenula microscopica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

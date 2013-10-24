@@ -1,5 +1,4 @@
-Cymbosphaeridium bikidium Lister, 1970 SPECIES
-=======
+# Cymbosphaeridium bikidium Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

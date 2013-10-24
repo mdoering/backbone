@@ -1,5 +1,4 @@
-Pleurotus sauteri Kalchbr. SPECIES
-=======
+# Pleurotus sauteri Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

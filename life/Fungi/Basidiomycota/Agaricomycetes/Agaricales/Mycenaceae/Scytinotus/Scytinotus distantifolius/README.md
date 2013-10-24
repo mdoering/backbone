@@ -1,5 +1,4 @@
-Scytinotus distantifolius Murrill SPECIES
-=======
+# Scytinotus distantifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

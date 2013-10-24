@@ -1,5 +1,4 @@
-Helvella cerasina Wulfen SPECIES
-=======
+# Helvella cerasina Wulfen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spegazziniella erythroxylicola Bat. & I.H. Lima SPECIES
-=======
+# Spegazziniella erythroxylicola Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

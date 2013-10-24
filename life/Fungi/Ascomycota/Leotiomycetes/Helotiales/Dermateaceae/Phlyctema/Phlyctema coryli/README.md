@@ -1,5 +1,4 @@
-Phlyctema coryli F. Lamb. & Fautrey SPECIES
-=======
+# Phlyctema coryli F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

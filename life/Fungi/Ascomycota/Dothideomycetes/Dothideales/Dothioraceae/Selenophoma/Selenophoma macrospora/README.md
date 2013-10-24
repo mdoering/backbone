@@ -1,5 +1,4 @@
-Selenophoma macrospora Petr. SPECIES
-=======
+# Selenophoma macrospora Petr. SPECIES
 
 #### Status
 ACCEPTED

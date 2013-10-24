@@ -1,5 +1,4 @@
-Trachydiacrodium E.V.Timofeev GENUS
-=======
+# Trachydiacrodium E.V.Timofeev GENUS
 
 #### Status
 ACCEPTED

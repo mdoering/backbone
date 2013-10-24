@@ -1,5 +1,4 @@
-Cortinarius neoarmillatus Hongo SPECIES
-=======
+# Cortinarius neoarmillatus Hongo SPECIES
 
 #### Status
 ACCEPTED

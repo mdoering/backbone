@@ -1,5 +1,4 @@
-Chermomyces chermetis-abietis (ulc) Brain SPECIES
-=======
+# Chermomyces chermetis-abietis (ulc) Brain SPECIES
 
 #### Status
 ACCEPTED

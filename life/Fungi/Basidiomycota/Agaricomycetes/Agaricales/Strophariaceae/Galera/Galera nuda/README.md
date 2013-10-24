@@ -1,5 +1,4 @@
-Galera nuda Velen. SPECIES
-=======
+# Galera nuda Velen. SPECIES
 
 #### Status
 ACCEPTED

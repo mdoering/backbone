@@ -1,5 +1,4 @@
-Hungardiscus foveolatus Jiabo, 1978 SPECIES
-=======
+# Hungardiscus foveolatus Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

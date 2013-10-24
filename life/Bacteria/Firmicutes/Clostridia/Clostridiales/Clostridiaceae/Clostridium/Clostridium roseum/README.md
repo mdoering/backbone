@@ -1,5 +1,4 @@
-Clostridium roseum (ex McCoy & McClung, 1935) Cato et al., 1988 SPECIES
-=======
+# Clostridium roseum (ex McCoy & McClung, 1935) Cato et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

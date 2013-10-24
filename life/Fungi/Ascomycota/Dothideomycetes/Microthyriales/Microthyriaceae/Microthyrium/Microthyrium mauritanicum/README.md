@@ -1,5 +1,4 @@
-Microthyrium mauritanicum Mont. SPECIES
-=======
+# Microthyrium mauritanicum Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta camphorae Turconi SPECIES
-=======
+# Ascochyta camphorae Turconi SPECIES
 
 #### Status
 ACCEPTED

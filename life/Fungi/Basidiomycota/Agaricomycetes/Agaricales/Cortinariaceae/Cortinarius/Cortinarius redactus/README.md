@@ -1,5 +1,4 @@
-Cortinarius redactus Britzelm. SPECIES
-=======
+# Cortinarius redactus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

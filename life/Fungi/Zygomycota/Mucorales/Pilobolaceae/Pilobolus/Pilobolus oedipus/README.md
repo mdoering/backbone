@@ -1,17 +1,16 @@
-Pilobolus crystallinus var. crystallinus VARIETY
-=======
+# Pilobolus oedipus Mont., 1826 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schr. naturf. Fr. Berlin 5: 96 (1784)
+Mém. Soc. Linn. Lyon. 5: 1 (1826)
 
 #### Original name
-Pilobolus crystallinus var. crystallinus
+Pilobolus oedipus Mont., 1826
 
 ### Remarks
 null

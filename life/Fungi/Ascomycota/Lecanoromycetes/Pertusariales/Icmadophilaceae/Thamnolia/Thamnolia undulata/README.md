@@ -1,5 +1,4 @@
-Thamnolia undulata Nyl. SPECIES
-=======
+# Thamnolia undulata Nyl. SPECIES
 
 #### Status
 ACCEPTED

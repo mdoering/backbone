@@ -1,5 +1,4 @@
-Aplosporella dracaenarum (Penz. & Sacc.) Petr. SPECIES
-=======
+# Aplosporella dracaenarum (Penz. & Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

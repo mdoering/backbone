@@ -1,5 +1,4 @@
-Mycena umeae S. Imai SPECIES
-=======
+# Mycena umeae S. Imai SPECIES
 
 #### Status
 ACCEPTED

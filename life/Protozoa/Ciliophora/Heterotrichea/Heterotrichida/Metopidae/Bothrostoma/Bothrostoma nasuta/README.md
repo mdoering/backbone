@@ -1,5 +1,4 @@
-Bothrostoma nasuta SPECIES
-=======
+# Bothrostoma nasuta SPECIES
 
 #### Status
 ACCEPTED

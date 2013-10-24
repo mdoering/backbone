@@ -1,5 +1,4 @@
-Agaricus melleopallens Fr. SPECIES
-=======
+# Agaricus melleopallens Fr. SPECIES
 
 #### Status
 ACCEPTED

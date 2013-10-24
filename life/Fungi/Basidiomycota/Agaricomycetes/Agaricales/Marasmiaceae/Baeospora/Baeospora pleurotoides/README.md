@@ -1,5 +1,4 @@
-Baeospora pleurotoides (Dennis) Singer SPECIES
-=======
+# Baeospora pleurotoides (Dennis) Singer SPECIES
 
 #### Status
 ACCEPTED

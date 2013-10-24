@@ -1,5 +1,4 @@
-Gerronema elasticum subsp. elasticum SUBSPECIES
-=======
+# Gerronema elasticum Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 43(5): 599 (1951)
 
 #### Original name
-Gerronema elasticum subsp. elasticum
+Gerronema elasticum Singer
 
 ### Remarks
 null

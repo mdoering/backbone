@@ -1,5 +1,4 @@
-Rhabdospora croatica Moesz SPECIES
-=======
+# Rhabdospora croatica Moesz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bryopogon haynaldii f. haynaldii FORM
-=======
+# Bryopogon haynaldii SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bryopogon haynaldii f. haynaldii
+null
 
 ### Remarks
 null

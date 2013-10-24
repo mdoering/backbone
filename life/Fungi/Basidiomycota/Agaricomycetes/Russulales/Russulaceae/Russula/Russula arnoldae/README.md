@@ -1,5 +1,4 @@
-Russula arnoldae Murrill SPECIES
-=======
+# Russula arnoldae Murrill SPECIES
 
 #### Status
 ACCEPTED

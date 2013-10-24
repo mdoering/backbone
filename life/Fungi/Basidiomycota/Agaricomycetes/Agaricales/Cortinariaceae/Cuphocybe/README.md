@@ -1,5 +1,4 @@
-Cuphocybe R. Heim GENUS
-=======
+# Cuphocybe R. Heim GENUS
 
 #### Status
 ACCEPTED

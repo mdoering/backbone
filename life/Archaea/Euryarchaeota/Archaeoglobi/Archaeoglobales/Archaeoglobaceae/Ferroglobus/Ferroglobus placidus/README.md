@@ -1,5 +1,4 @@
-Ferroglobus placidus Hafenbradl et al., 1997 SPECIES
-=======
+# Ferroglobus placidus Hafenbradl et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

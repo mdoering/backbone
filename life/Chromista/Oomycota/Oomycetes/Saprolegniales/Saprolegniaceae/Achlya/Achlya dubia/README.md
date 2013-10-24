@@ -1,17 +1,16 @@
-Achlya dubia var. pigmenta Chaudhuri & Kochhar VARIETY
-=======
+# Achlya dubia Coker, 1923 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 2: 147 (1935)
+Saprolegniaceae with notes on other water molds 135 (1923)
 
 #### Original name
-Achlya dubia var. pigmenta Chaudhuri & Kochhar
+Achlya dubia Coker, 1923
 
 ### Remarks
 null

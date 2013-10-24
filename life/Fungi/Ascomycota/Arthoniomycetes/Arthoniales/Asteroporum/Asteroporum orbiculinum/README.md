@@ -1,5 +1,4 @@
-Asteroporum orbiculinum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Asteroporum orbiculinum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

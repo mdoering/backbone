@@ -1,5 +1,4 @@
-Sagedia sprucei (Bab.) Müll. Arg. SPECIES
-=======
+# Sagedia sprucei (Bab.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

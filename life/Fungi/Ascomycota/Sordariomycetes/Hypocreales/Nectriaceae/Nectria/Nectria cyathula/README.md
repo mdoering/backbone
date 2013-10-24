@@ -1,5 +1,4 @@
-Nectria cyathula (Syd.) Rossman SPECIES
-=======
+# Nectria cyathula (Syd.) Rossman SPECIES
 
 #### Status
 ACCEPTED

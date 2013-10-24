@@ -1,5 +1,4 @@
-Agaricus ranunculinus Berk. SPECIES
-=======
+# Agaricus ranunculinus Berk. SPECIES
 
 #### Status
 ACCEPTED

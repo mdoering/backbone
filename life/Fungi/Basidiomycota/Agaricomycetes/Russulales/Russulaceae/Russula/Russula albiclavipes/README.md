@@ -1,5 +1,4 @@
-Russula albiclavipes Murrill SPECIES
-=======
+# Russula albiclavipes Murrill SPECIES
 
 #### Status
 ACCEPTED

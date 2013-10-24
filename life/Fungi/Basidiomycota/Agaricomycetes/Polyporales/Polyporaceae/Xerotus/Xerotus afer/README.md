@@ -1,14 +1,13 @@
-Xerotinus afer (Fr.) Donk, 1960 SPECIES
-=======
+# Xerotus afer Fr., 1828 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 1(2): 294 (1960)
+Elench. fung. (Greifswald) 1: 48 (1828)
 
 #### Original name
 Xerotus afer Fr., 1828

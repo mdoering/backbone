@@ -1,5 +1,4 @@
-Entyloma paradoxum Syd. & P. Syd. SPECIES
-=======
+# Entyloma paradoxum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

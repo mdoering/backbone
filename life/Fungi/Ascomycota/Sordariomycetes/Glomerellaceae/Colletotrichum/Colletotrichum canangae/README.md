@@ -1,5 +1,4 @@
-Colletotrichum canangae Koord. SPECIES
-=======
+# Colletotrichum canangae Koord. SPECIES
 
 #### Status
 ACCEPTED

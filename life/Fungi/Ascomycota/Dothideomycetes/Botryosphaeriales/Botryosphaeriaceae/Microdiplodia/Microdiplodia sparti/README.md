@@ -1,5 +1,4 @@
-Microdiplodia sparti Tassi SPECIES
-=======
+# Microdiplodia sparti Tassi SPECIES
 
 #### Status
 ACCEPTED

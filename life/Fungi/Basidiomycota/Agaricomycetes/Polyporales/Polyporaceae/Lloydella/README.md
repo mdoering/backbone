@@ -1,5 +1,4 @@
-Lloydella GENUS
-=======
+# Lloydella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia concumulata H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia concumulata H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

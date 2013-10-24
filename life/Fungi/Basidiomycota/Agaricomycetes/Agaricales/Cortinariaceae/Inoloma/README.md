@@ -1,5 +1,4 @@
-Inoloma GENUS
-=======
+# Inoloma GENUS
 
 #### Status
 ACCEPTED

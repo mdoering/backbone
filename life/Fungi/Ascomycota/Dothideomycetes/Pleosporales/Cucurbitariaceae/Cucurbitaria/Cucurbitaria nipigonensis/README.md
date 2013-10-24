@@ -1,5 +1,4 @@
-Cucurbitaria nipigonensis (Ellis & Everh.) Kuntze SPECIES
-=======
+# Cucurbitaria nipigonensis (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

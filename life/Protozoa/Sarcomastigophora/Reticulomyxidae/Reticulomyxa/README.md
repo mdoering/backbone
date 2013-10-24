@@ -1,5 +1,4 @@
-Reticulomyxa Nauss GENUS
-=======
+# Reticulomyxa Nauss GENUS
 
 #### Status
 ACCEPTED

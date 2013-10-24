@@ -1,5 +1,4 @@
-Ascophanopsis GENUS
-=======
+# Ascophanopsis GENUS
 
 #### Status
 ACCEPTED

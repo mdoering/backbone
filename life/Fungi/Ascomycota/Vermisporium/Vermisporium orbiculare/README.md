@@ -1,5 +1,4 @@
-Vermisporium orbiculare (Cooke) H.J. Swart & M.A. Will. SPECIES
-=======
+# Vermisporium orbiculare (Cooke) H.J. Swart & M.A. Will. SPECIES
 
 #### Status
 ACCEPTED

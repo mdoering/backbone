@@ -1,5 +1,4 @@
-Cercospora moricola Cooke, 1884 SPECIES
-=======
+# Cercospora moricola Cooke, 1884 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus duplocingulatus Heinem. SPECIES
-=======
+# Agaricus duplocingulatus Heinem. SPECIES
 
 #### Status
 ACCEPTED

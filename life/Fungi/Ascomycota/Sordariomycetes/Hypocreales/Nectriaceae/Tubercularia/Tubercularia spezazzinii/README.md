@@ -1,5 +1,4 @@
-Tubercularia spezazzinii Pat. SPECIES
-=======
+# Tubercularia spezazzinii Pat. SPECIES
 
 #### Status
 ACCEPTED

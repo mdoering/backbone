@@ -1,5 +1,4 @@
-Cercospora rabdosiae P.K. Chi & Z.D. Jiang SPECIES
-=======
+# Cercospora rabdosiae P.K. Chi & Z.D. Jiang SPECIES
 
 #### Status
 ACCEPTED

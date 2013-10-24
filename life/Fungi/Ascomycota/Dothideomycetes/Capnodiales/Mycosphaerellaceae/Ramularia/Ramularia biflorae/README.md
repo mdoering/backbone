@@ -1,5 +1,4 @@
-Ramularia biflorae Magnus SPECIES
-=======
+# Ramularia biflorae Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hypotrachyna munduai Louwhoff & Elix SPECIES
-=======
+# Hypotrachyna munduae Elix & Louwhoff SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 81: 75 (2002)
 
 #### Original name
-Hypotrachyna munduai Louwhoff & Elix
+Hypotrachyna munduae Elix & Louwhoff
 
 ### Remarks
 null

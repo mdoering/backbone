@@ -1,5 +1,4 @@
-Thelidium pertundens (Nyl.) Zahlbr. SPECIES
-=======
+# Thelidium pertundens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

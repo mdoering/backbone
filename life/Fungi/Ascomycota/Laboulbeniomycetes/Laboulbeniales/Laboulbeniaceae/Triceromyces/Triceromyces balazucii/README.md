@@ -1,5 +1,4 @@
-Triceromyces balazucii T. Majewski, 1980 SPECIES
-=======
+# Triceromyces balazucii T. Majewski, 1980 SPECIES
 
 #### Status
 ACCEPTED

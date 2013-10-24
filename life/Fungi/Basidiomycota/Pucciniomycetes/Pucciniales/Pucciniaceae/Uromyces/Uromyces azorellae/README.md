@@ -1,14 +1,13 @@
-Caeomurus azorellae (Cooke) Kuntze, 1898 SPECIES
-=======
+# Uromyces azorellae Cooke, 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 449 (1898)
+Grevillea 19(no. 89): 2 (1890)
 
 #### Original name
 Uromyces azorellae Cooke, 1890

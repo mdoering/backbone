@@ -1,17 +1,16 @@
-Peziza melaena sphagnophila Pers. INFRASPECIFIC_NAME
-=======
+# Pseudoplectania sphagnophila (Pers.) Kreisel, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Westfälische Pilzbriefe 3(5): 77 (1962)
 
 #### Original name
-null
+Peziza melaena Fr., 1822
 
 ### Remarks
 null

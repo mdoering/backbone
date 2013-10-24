@@ -1,14 +1,13 @@
-Hirneola scutelliformis Berk. & M.A. Curtis, 1873 SPECIES
-=======
+# Exidiopsis scutelliformis (Berk. & M.A. Curtis) P. Roberts, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 96: 94 (2006)
 
 #### Original name
 Hirneola scutelliformis Berk. & M.A. Curtis, 1873

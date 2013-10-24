@@ -1,5 +1,4 @@
-Squamaria olivascens Nyl. SPECIES
-=======
+# Squamaria olivascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

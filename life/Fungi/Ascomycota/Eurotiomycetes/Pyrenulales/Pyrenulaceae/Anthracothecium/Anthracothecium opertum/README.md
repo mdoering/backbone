@@ -1,5 +1,4 @@
-Anthracothecium opertum (Nyl.) Müll. Arg. SPECIES
-=======
+# Anthracothecium opertum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

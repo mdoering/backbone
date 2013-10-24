@@ -1,5 +1,4 @@
-Entoloma olivaceum Velen. SPECIES
-=======
+# Entoloma olivaceum Velen. SPECIES
 
 #### Status
 ACCEPTED

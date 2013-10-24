@@ -1,5 +1,4 @@
-Cortinarius margaritisporus M.M. Moser SPECIES
-=======
+# Cortinarius margaritisporus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

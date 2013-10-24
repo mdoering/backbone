@@ -1,5 +1,4 @@
-Polysphondylium asymetricum Vadell & Cavender SPECIES
-=======
+# Polysphondylium asymetricum Vadell & Cavender SPECIES
 
 #### Status
 ACCEPTED

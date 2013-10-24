@@ -1,5 +1,4 @@
-Vaginicola vestita Fromentel, 1876 SPECIES
-=======
+# Vaginicola vestita Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

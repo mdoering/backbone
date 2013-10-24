@@ -1,5 +1,4 @@
-Nectriella citrina (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Nectriella citrina (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

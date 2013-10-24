@@ -1,5 +1,4 @@
-Scytonema involvens var. elongatum Bourrelly VARIETY
-=======
+# Scytonema involvens SPECIES
 
 #### Status
 ACCEPTED

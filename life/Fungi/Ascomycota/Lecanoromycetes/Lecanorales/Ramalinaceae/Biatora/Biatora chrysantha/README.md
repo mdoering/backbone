@@ -1,14 +1,13 @@
-Lecidea chrysantha Zahlbr. SPECIES
-=======
+# Biatora chrysantha (Zahlbr.) Printzen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annln K. K. naturh. Hofmus. Wien 34: 236 (1921)
+in Wirth, Stuttgarter Beiträge zur Naturkunde, Serie A (Biologie) 517: 62 (1994)
 
 #### Original name
 Lecidea chrysantha Zahlbr.

@@ -1,5 +1,4 @@
-Sphaerophorus polycladus var. polycladus VARIETY
-=======
+# Sphaerophorus polycladus (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 71: 17 (1888)
 
 #### Original name
-Sphaerophorus polycladus var. polycladus
+Sphaerophorus globiferus var. polycladum Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Galera microcephata SPECIES
-=======
+# Galera microcephata SPECIES
 
 #### Status
 ACCEPTED

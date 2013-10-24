@@ -1,5 +1,4 @@
-Ramalina deliblatensis Gyeln. SPECIES
-=======
+# Ramalina deliblatensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

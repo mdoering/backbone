@@ -1,8 +1,7 @@
-Laminaria flexicaulis var. australis Areschoug VARIETY
-=======
+# Laminaria flexicaulis Le Jolis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

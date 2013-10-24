@@ -1,5 +1,4 @@
-Opisteria sublaevigata (Nyl.) Vain. SPECIES
-=======
+# Opisteria sublaevigata (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

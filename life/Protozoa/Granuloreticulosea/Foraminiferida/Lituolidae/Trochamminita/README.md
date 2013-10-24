@@ -1,5 +1,4 @@
-Trochamminita Cushman & Brönnimann, 1948 GENUS
-=======
+# Trochamminita Cushman & Brönnimann, 1948 GENUS
 
 #### Status
 ACCEPTED

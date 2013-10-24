@@ -1,5 +1,4 @@
-Lecanora falsaria var. falsaria VARIETY
-=======
+# Lecanora falsaria Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. univ. (1810)
 
 #### Original name
-Lecanora falsaria var. falsaria
+Lecanora falsaria Ach.
 
 ### Remarks
 null

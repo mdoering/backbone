@@ -1,5 +1,4 @@
-Strobilurus diminutivus Desjardin SPECIES
-=======
+# Strobilurus diminutivus Desjardin SPECIES
 
 #### Status
 ACCEPTED

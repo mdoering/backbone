@@ -1,5 +1,4 @@
-Agaricus periporphyrus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus periporphyrus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

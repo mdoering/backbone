@@ -1,5 +1,4 @@
-Cryptodiaporthe mate (Speg.) Wehm. SPECIES
-=======
+# Cryptodiaporthe mate (Speg.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo amazonica (Syd. {?} ) J.W. Baxter SPECIES
-=======
+# Uredo amazonica (Syd. {?} ) J.W. Baxter SPECIES
 
 #### Status
 ACCEPTED

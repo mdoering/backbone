@@ -1,5 +1,4 @@
-Fusichalara dingleyae S. Hughes & Nag Raj SPECIES
-=======
+# Fusichalara dingleyae S. Hughes & Nag Raj SPECIES
 
 #### Status
 ACCEPTED

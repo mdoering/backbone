@@ -1,5 +1,4 @@
-Phoma mucifera Berk. SPECIES
-=======
+# Phoma mucifera Berk. SPECIES
 
 #### Status
 ACCEPTED

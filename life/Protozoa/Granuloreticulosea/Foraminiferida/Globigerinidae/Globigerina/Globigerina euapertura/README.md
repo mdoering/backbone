@@ -1,5 +1,4 @@
-Globigerina euapertura SPECIES
-=======
+# Globigerina euapertura SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacellium alangii H.D. Shin & J.D. Kim SPECIES
-=======
+# Phacellium alangii H.D. Shin & J.D. Kim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe floridana Murrill SPECIES
-=======
+# Inocybe floridana Murrill SPECIES
 
 #### Status
 ACCEPTED

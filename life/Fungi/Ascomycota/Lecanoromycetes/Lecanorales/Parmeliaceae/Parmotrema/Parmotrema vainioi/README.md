@@ -1,5 +1,4 @@
-Parmotrema vainioi (A.L. Sm.) Hale SPECIES
-=======
+# Parmotrema vainioi (A.L. Sm.) Hale SPECIES
 
 #### Status
 ACCEPTED

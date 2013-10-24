@@ -1,5 +1,4 @@
-Rigidoporus sulphureus Corner, 1987 SPECIES
-=======
+# Rigidoporus sulphureus Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

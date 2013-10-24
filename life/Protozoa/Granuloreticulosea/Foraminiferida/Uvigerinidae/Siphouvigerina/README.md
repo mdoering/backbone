@@ -1,14 +1,13 @@
-Neouvigerina Thalmann, 1952 GENUS
-=======
+# Siphouvigerina Parr, 1950 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rep. B. A. N. Z. Antarct. Res. Exped. (1929-31) Adelaide, 5B (6), 342.
 
 #### Original name
 null

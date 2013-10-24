@@ -1,5 +1,4 @@
-Regiocrella camerunensis Chaverri & H.C. Evans, 2006 SPECIES
-=======
+# Regiocrella camerunensis Chaverri & H.C. Evans, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Congruentia Kohring in Keupp, Monnet & Kohring, 1991 GENUS
-=======
+# Congruentia Kohring in Keupp, Monnet & Kohring, 1991 GENUS
 
 #### Status
 ACCEPTED

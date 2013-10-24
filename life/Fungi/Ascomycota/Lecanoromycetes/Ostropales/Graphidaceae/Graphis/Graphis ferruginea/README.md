@@ -1,5 +1,4 @@
-Graphis ferruginea Vain. SPECIES
-=======
+# Graphis ferruginea Vain. SPECIES
 
 #### Status
 ACCEPTED

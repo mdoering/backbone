@@ -1,5 +1,4 @@
-Laestadia echinophila (Ces.) Sacc. SPECIES
-=======
+# Laestadia echinophila (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

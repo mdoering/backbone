@@ -1,17 +1,16 @@
-Dematium epiphyllum var. epiphyllum VARIETY
-=======
+# Cladosporium epiphyllum (Pers.) Nees, 1816 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. Pilze (Würzburg) 67 (1816)
 
 #### Original name
-null
+Dematium epiphyllum Pers., 1801
 
 ### Remarks
 null

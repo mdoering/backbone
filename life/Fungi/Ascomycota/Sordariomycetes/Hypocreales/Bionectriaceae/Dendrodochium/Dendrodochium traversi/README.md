@@ -1,5 +1,4 @@
-Dendrodochium traversi Mariani SPECIES
-=======
+# Dendrodochium traversi Mariani SPECIES
 
 #### Status
 ACCEPTED

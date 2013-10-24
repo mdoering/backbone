@@ -1,5 +1,4 @@
-Katumotoa Kaz. Tanaka & Y. Harada GENUS
-=======
+# Katumotoa Kaz. Tanaka & Y. Harada GENUS
 
 #### Status
 ACCEPTED

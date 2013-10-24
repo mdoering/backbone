@@ -1,5 +1,4 @@
-Cresporhaphis pinicola (Samp.) M.B. Aguirre, 1991 SPECIES
-=======
+# Cresporhaphis pinicola (Samp.) M.B. Aguirre, 1991 SPECIES
 
 #### Status
 ACCEPTED

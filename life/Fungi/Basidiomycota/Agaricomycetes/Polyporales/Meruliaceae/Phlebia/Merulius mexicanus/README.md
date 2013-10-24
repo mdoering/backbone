@@ -1,5 +1,4 @@
-Merulius mexicanus (Fr.) Kuntze SPECIES
-=======
+# Merulius mexicanus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

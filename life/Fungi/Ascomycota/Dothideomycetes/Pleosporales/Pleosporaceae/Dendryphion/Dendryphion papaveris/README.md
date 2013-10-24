@@ -1,8 +1,7 @@
-Brachycladium papaveris (Sawada) Shoemaker & Inderb., 2006 SPECIES
-=======
+# Dendryphion papaveris (Sawada) Sawada, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

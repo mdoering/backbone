@@ -1,5 +1,4 @@
-Coltricia grandispora Ryvarden & Hauskn. SPECIES
-=======
+# Coltricia grandispora Ryvarden & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

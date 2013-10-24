@@ -1,5 +1,4 @@
-Hydnum innotans Beck SPECIES
-=======
+# Hydnum innotans Beck SPECIES
 
 #### Status
 ACCEPTED

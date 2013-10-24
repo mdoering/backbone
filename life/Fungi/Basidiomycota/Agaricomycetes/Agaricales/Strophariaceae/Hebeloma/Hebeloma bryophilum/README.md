@@ -1,5 +1,4 @@
-Hebeloma bryophilum Murrill SPECIES
-=======
+# Hebeloma bryophilum Murrill SPECIES
 
 #### Status
 ACCEPTED

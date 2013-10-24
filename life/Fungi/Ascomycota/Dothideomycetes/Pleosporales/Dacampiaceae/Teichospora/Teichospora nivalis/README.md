@@ -1,5 +1,4 @@
-Teichospora nivalis Höhn. SPECIES
-=======
+# Teichospora nivalis Höhn. SPECIES
 
 #### Status
 ACCEPTED

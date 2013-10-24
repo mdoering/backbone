@@ -1,5 +1,4 @@
-Cytospora bambusina Died. SPECIES
-=======
+# Cytospora bambusina Died. SPECIES
 
 #### Status
 ACCEPTED

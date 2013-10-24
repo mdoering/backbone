@@ -1,14 +1,13 @@
-Dermatomeris georgica Reinsch, 1890 SPECIES
-=======
+# Mastodia georgica (Reinsch) C.W. Dodge, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lucr. Conf. nat. Stinta Solului 2(14): (1890)
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 58 (1948)
 
 #### Original name
 Dermatomeris georgica Reinsch, 1890

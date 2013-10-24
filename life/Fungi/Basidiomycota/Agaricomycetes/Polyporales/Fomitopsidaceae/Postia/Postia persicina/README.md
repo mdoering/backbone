@@ -1,5 +1,4 @@
-Postia persicina Niemelä & Y.C. Dai SPECIES
-=======
+# Postia persicina Niemelä & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

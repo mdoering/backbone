@@ -1,5 +1,4 @@
-Evernia lacunosa Fr. SPECIES
-=======
+# Evernia lacunosa Fr. SPECIES
 
 #### Status
 ACCEPTED

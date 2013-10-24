@@ -1,5 +1,4 @@
-Tintinnopsis fastigata Kufferath, 1950 SPECIES
-=======
+# Tintinnopsis fastigata Kufferath, 1950 SPECIES
 
 #### Status
 ACCEPTED

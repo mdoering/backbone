@@ -1,5 +1,4 @@
-Thelidium wettinense SPECIES
-=======
+# Thelidium wettinense SPECIES
 
 #### Status
 ACCEPTED

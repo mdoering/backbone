@@ -1,5 +1,4 @@
-Lactifluus fascinans (Fr.) Kuntze SPECIES
-=======
+# Lactifluus fascinans (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

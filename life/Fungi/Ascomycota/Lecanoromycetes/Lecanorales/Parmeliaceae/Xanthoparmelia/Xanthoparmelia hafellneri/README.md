@@ -1,5 +1,4 @@
-Xanthoparmelia hafellneri Elix SPECIES
-=======
+# Xanthoparmelia hafellneri Elix SPECIES
 
 #### Status
 ACCEPTED

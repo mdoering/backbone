@@ -1,5 +1,4 @@
-Stephosia protii Bat. & H. Maia SPECIES
-=======
+# Stephosia protii Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

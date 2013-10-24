@@ -1,5 +1,4 @@
-Stilbum durionis Petch SPECIES
-=======
+# Stilbum durionis Petch SPECIES
 
 #### Status
 ACCEPTED

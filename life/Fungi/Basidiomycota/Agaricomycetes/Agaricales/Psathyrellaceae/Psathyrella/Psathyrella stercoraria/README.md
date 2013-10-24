@@ -1,17 +1,16 @@
-Drosophila stercoraria Kühner & Joss., 1957 SPECIES
-=======
+# Psathyrella stercoraria Örstadius & E. Larss., 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kühner & Romagnesi, Fl. Analyt. Champ. Supér. (Paris) 356 (1953)
+Mycol. Res. 112(10): 1177 (2008)
 
 #### Original name
-Drosophila stercoraria Kühner & Joss., 1957
+Psathyrella stercoraria Örstadius & E. Larss., 2008
 
 ### Remarks
 null

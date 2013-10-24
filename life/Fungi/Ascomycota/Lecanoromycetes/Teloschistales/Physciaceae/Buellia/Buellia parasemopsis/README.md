@@ -1,5 +1,4 @@
-Buellia parasemopsis (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia parasemopsis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

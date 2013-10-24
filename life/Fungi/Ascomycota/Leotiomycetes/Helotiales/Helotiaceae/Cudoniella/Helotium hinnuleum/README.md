@@ -1,5 +1,4 @@
-Helotium hinnuleum E.K. Cash & Corner SPECIES
-=======
+# Helotium hinnuleum E.K. Cash & Corner SPECIES
 
 #### Status
 ACCEPTED

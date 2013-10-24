@@ -1,5 +1,4 @@
-Dermatea ferruginea (Cooke & Ellis) Rehm SPECIES
-=======
+# Dermatea ferruginea (Cooke & Ellis) Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora usbekica Poelt SPECIES
-=======
+# Lecanora usbekica Poelt SPECIES
 
 #### Status
 ACCEPTED

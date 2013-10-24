@@ -1,5 +1,4 @@
-Passalora diodiae (Cooke) Crous, U. Braun & Alfenas SPECIES
-=======
+# Passalora diodiae (Cooke) Crous, U. Braun & Alfenas SPECIES
 
 #### Status
 ACCEPTED

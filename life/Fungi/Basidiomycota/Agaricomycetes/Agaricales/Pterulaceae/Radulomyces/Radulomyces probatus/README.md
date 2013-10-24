@@ -1,14 +1,13 @@
-Corticium probatum H.S. Jacks., 1948 SPECIES
-=======
+# Radulomyces probatus (H.S. Jacks.) Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Canadian Journal of Research, Section C 26: 155 (1948)
+Consp. System. Corticiac. (Tartu) 110 (1968)
 
 #### Original name
 Corticium probatum H.S. Jacks., 1948

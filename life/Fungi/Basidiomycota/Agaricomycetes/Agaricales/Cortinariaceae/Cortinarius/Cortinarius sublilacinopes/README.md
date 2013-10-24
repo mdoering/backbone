@@ -1,5 +1,4 @@
-Cortinarius sublilacinopes Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius sublilacinopes Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

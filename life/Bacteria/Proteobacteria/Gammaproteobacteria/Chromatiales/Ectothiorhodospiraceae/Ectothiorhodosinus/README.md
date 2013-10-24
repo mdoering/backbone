@@ -1,5 +1,4 @@
-Ectothiorhodosinus Gorlenko et al., 2007 GENUS
-=======
+# Ectothiorhodosinus Gorlenko et al., 2007 GENUS
 
 #### Status
 ACCEPTED

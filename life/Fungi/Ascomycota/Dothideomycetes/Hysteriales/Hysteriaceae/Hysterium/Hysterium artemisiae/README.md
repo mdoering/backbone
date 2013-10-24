@@ -1,5 +1,4 @@
-Hysterium artemisiae Schumach. SPECIES
-=======
+# Hysterium artemisiae Schumach. SPECIES
 
 #### Status
 ACCEPTED

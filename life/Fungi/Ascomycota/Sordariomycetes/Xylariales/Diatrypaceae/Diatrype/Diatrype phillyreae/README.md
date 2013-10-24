@@ -1,5 +1,4 @@
-Diatrype phillyreae Mont. SPECIES
-=======
+# Diatrype phillyreae Mont. SPECIES
 
 #### Status
 ACCEPTED

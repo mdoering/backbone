@@ -1,17 +1,16 @@
-Tolyposporium iresine J.A. Elliott SPECIES
-=======
+# Tolyposporium iresines J.A. Elliott SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 11(2): 87 (1919)
 
 #### Original name
-Tolyposporium iresine J.A. Elliott
+Tolyposporium iresines J.A. Elliott
 
 ### Remarks
 null

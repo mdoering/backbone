@@ -1,5 +1,4 @@
-Micropeltella ramosii Syd. & P. Syd. SPECIES
-=======
+# Micropeltella ramosii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

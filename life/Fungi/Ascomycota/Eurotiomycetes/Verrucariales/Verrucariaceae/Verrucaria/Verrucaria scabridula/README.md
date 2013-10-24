@@ -1,5 +1,4 @@
-Verrucaria scabridula H. Magn. SPECIES
-=======
+# Verrucaria scabridula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

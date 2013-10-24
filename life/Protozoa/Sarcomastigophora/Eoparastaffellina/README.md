@@ -1,5 +1,4 @@
-Eoparastaffellina Vdovenko, 1971 GENUS
-=======
+# Eoparastaffellina Vdovenko, 1971 GENUS
 
 #### Status
 ACCEPTED

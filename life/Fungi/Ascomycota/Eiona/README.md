@@ -1,5 +1,4 @@
-Eiona Kohlm. GENUS
-=======
+# Eiona Kohlm. GENUS
 
 #### Status
 ACCEPTED

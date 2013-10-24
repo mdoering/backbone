@@ -1,5 +1,4 @@
-Triversus Takemura, 1986 GENUS
-=======
+# Triversus Takemura, 1986 GENUS
 
 #### Status
 ACCEPTED

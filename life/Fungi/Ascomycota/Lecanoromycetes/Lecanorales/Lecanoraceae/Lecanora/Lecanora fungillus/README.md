@@ -1,5 +1,4 @@
-Lecanora fungillus Senft SPECIES
-=======
+# Lecanora fungillus Senft SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus anatriches Reichardt & Unger SPECIES
-=======
+# Agaricus anatriches Reichardt & Unger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia cucurbitae Cooke SPECIES
-=======
+# Vermicularia cucurbitae Cooke SPECIES
 
 #### Status
 ACCEPTED

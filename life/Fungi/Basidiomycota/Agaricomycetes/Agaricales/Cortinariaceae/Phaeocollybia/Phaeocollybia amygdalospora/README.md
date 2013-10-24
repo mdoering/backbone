@@ -1,5 +1,4 @@
-Phaeocollybia amygdalospora Bandala & E. Horak SPECIES
-=======
+# Phaeocollybia amygdalospora Bandala & E. Horak SPECIES
 
 #### Status
 ACCEPTED

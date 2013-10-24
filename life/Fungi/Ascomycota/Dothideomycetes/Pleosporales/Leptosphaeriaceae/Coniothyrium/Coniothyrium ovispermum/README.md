@@ -1,14 +1,13 @@
-Coniothyrium oospermum (Fuckel) Sacc. SPECIES
-=======
+# Coniothyrium ovispermum (Fuckel) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 295 (1883)
 
 #### Original name
 Phoma ovisperma Fuckel

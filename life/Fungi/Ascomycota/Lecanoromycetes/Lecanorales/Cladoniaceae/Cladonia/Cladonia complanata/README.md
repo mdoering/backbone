@@ -1,5 +1,4 @@
-Cladonia complanata S. Hammer SPECIES
-=======
+# Cladonia complanata S. Hammer SPECIES
 
 #### Status
 ACCEPTED

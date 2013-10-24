@@ -1,5 +1,4 @@
-Balladynastrum subpilosum (G. Winter) Hansf. SPECIES
-=======
+# Balladynastrum subpilosum (G. Winter) Hansf. SPECIES
 
 #### Status
 ACCEPTED

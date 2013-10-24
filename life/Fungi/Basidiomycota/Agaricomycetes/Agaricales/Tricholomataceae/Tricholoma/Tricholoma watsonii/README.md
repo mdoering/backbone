@@ -1,5 +1,4 @@
-Tricholoma watsonii (Murrill) Murrill SPECIES
-=======
+# Tricholoma watsonii (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

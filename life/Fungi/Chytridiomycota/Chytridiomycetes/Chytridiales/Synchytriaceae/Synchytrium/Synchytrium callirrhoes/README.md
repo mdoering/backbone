@@ -1,5 +1,4 @@
-Synchytrium callirrhoes Karling SPECIES
-=======
+# Synchytrium callirrhoes Karling SPECIES
 
 #### Status
 ACCEPTED

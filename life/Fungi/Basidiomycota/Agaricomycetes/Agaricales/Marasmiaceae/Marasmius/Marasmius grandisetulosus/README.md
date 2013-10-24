@@ -1,5 +1,4 @@
-Marasmius grandisetulosus var. grandisetulosus VARIETY
-=======
+# Marasmius grandisetulosus Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Jard. Bot. État 34: 379 (1964)
 
 #### Original name
-Marasmius grandisetulosus var. grandisetulosus
+Marasmius grandisetulosus Singer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllosticta lantanoidis Peck SPECIES
-=======
+# Phyllosticta lantanoidis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta saccardiana Peyronel SPECIES
-=======
+# Pyrenochaeta saccardiana Peyronel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterographa zephyri Sparrius SPECIES
-=======
+# Enterographa zephyri Sparrius SPECIES
 
 #### Status
 ACCEPTED

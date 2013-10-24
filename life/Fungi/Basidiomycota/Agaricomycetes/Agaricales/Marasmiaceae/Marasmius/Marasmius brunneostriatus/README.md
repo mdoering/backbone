@@ -1,5 +1,4 @@
-Marasmius brunneostriatus Petch SPECIES
-=======
+# Marasmius brunneostriatus Petch SPECIES
 
 #### Status
 ACCEPTED

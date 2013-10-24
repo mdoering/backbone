@@ -1,5 +1,4 @@
-Rhizidium megastomum Sparrow SPECIES
-=======
+# Rhizidium megastomum Sparrow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella bryi var. bryi VARIETY
-=======
+# Sphaerella bryi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella bryi var. bryi
+Sphaerella bryi Gonz. Frag.
 
 ### Remarks
 null

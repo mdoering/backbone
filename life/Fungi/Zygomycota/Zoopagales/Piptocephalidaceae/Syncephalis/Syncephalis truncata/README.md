@@ -1,5 +1,4 @@
-Syncephalis truncata Boedijn, 1958 SPECIES
-=======
+# Syncephalis truncata Boedijn, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia lechleri J. Steiner SPECIES
-=======
+# Buellia lechleri J. Steiner SPECIES
 
 #### Status
 ACCEPTED

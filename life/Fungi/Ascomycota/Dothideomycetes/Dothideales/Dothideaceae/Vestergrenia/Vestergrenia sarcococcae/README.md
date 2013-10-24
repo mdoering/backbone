@@ -1,5 +1,4 @@
-Vestergrenia sarcococcae E. Müll. SPECIES
-=======
+# Vestergrenia sarcococcae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

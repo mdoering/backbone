@@ -1,5 +1,4 @@
-Capnodium bambusicola Rick SPECIES
-=======
+# Capnodium bambusicola Rick SPECIES
 
 #### Status
 ACCEPTED

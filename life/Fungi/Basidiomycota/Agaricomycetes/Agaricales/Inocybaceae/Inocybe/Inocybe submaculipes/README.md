@@ -1,5 +1,4 @@
-Inocybe submaculipes J. Favre SPECIES
-=======
+# Inocybe submaculipes J. Favre SPECIES
 
 #### Status
 ACCEPTED

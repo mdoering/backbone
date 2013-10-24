@@ -1,5 +1,4 @@
-Zignoëlla minutissima (P. Karst.) Sacc. SPECIES
-=======
+# Zignoëlla minutissima (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

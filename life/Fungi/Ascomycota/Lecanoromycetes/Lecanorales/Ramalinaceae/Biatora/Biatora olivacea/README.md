@@ -1,5 +1,4 @@
-Biatora olivacea Dufour SPECIES
-=======
+# Biatora olivacea Dufour SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis carpogena (Sacc. & Roum.) Died. SPECIES
-=======
+# Phomopsis carpogena (Sacc. & Roum.) Died. SPECIES
 
 #### Status
 ACCEPTED

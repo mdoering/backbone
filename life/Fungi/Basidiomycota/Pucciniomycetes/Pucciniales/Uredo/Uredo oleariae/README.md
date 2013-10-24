@@ -1,5 +1,4 @@
-Uredo oleariae Cooke, 1890 SPECIES
-=======
+# Uredo oleariae Cooke, 1890 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calpionella parveliptica SPECIES
-=======
+# Calpionella parveliptica SPECIES
 
 #### Status
 ACCEPTED

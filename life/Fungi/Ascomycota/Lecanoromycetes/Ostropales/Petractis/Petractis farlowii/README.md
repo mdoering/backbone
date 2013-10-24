@@ -1,5 +1,4 @@
-Petractis farlowii (Tuck. ex Nyl.) Vezda SPECIES
-=======
+# Petractis farlowii (Tuck. ex Nyl.) Vezda SPECIES
 
 #### Status
 ACCEPTED

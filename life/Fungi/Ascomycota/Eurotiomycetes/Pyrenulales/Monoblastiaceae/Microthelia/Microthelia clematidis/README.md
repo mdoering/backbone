@@ -1,5 +1,4 @@
-Microthelia clematidis (Fautrey) Kuntze SPECIES
-=======
+# Microthelia clematidis (Fautrey) Kuntze SPECIES
 
 #### Status
 ACCEPTED

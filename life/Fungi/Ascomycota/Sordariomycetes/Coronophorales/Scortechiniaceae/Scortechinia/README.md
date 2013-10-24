@@ -1,5 +1,4 @@
-Scortechinia GENUS
-=======
+# Scortechinia GENUS
 
 #### Status
 ACCEPTED

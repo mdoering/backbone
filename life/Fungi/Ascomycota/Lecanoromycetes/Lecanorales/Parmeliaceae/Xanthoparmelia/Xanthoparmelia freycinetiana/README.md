@@ -1,5 +1,4 @@
-Xanthoparmelia freycinetiana Elix & Kantvilas SPECIES
-=======
+# Xanthoparmelia freycinetiana Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

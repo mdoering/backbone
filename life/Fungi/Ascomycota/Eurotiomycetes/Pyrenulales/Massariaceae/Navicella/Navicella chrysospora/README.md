@@ -1,5 +1,4 @@
-Navicella chrysospora (P. Karst.) Kuntze SPECIES
-=======
+# Navicella chrysospora (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

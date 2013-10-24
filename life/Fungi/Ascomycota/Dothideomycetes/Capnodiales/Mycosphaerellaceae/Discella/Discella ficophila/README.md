@@ -1,5 +1,4 @@
-Discella ficophila Schulzer SPECIES
-=======
+# Discella ficophila Schulzer SPECIES
 
 #### Status
 ACCEPTED

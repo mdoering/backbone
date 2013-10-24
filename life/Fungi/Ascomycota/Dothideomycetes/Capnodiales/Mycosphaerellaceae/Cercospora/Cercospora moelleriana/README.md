@@ -1,8 +1,7 @@
-Cercospora molleriana G. Winter SPECIES
-=======
+# Cercospora moelleriana G. Winter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercospora molleriana G. Winter
+Cercospora moelleriana G. Winter
 
 ### Remarks
 null

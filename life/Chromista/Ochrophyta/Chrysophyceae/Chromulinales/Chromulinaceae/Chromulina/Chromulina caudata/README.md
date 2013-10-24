@@ -1,5 +1,4 @@
-Chromulina caudata SPECIES
-=======
+# Chromulina caudata SPECIES
 
 #### Status
 ACCEPTED

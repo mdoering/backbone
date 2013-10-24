@@ -1,14 +1,13 @@
-Oplophora koelreuteriae (Syd. & P. Syd.) Syd., 1921 SPECIES
-=======
+# Nyssopsora koelreuteriae (Syd. & P. Syd.) Tranzschel, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19(1/2): 170 (1921)
+J. Soc. bot. Russie 8: 132 (1925)
 
 #### Original name
 Triphragmium koelreuteriae Syd. & P. Syd., 1913

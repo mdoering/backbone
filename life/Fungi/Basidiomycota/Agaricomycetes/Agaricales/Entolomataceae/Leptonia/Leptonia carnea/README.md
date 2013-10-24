@@ -1,5 +1,4 @@
-Leptonia carnea Largent SPECIES
-=======
+# Leptonia carnea Largent SPECIES
 
 #### Status
 ACCEPTED

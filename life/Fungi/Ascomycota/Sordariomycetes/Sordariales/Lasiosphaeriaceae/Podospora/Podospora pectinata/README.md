@@ -1,5 +1,4 @@
-Podospora pectinata N. Lundq., 1970 SPECIES
-=======
+# Podospora pectinata N. Lundq., 1970 SPECIES
 
 #### Status
 ACCEPTED

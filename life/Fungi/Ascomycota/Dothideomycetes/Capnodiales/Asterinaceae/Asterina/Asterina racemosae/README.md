@@ -1,5 +1,4 @@
-Asterina racemosae R.W. Ryan SPECIES
-=======
+# Asterina racemosae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peribotryon coccineum Fr. SPECIES
-=======
+# Peribotryon coccineum Fr. SPECIES
 
 #### Status
 ACCEPTED

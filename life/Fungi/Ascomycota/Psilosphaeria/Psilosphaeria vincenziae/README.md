@@ -1,5 +1,4 @@
-Psilosphaeria vincenziae Cooke SPECIES
-=======
+# Psilosphaeria vincenziae Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis mulctrella Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnopsis mulctrella Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

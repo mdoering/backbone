@@ -1,5 +1,4 @@
-Sargassum subdroserifolium Tseng & Lu SPECIES
-=======
+# Sargassum subdroserifolium Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

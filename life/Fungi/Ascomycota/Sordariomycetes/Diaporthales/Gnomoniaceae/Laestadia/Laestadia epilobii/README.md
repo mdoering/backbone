@@ -1,5 +1,4 @@
-Laestadia epilobii (Wallr.) Sacc. SPECIES
-=======
+# Laestadia epilobii (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

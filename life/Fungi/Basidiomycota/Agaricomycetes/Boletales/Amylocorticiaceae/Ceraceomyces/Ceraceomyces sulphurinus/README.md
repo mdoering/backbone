@@ -1,14 +1,13 @@
-Hypochnus sulphurinus (P. Karst.) Sacc., 1891 SPECIES
-=======
+# Ceraceomyces sulphurinus (P. Karst.) J. Erikss. & Ryvarden, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 9: 243 (1891)
+Cortic. N. Eur. (Oslo) 5: 895 (1978)
 
 #### Original name
 Tomentella sulphurina P. Karst., 1889

@@ -1,5 +1,4 @@
-Graphina alba Müll. Arg. SPECIES
-=======
+# Graphina alba Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

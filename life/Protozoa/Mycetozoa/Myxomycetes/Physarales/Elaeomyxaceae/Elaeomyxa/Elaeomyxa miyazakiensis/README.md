@@ -1,14 +1,13 @@
-Diachea miyazakiensis Emoto, 1935 SPECIES
-=======
+# Elaeomyxa miyazakiensis (Emoto) Hagelst., 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Imp. Acad. Japan 11: 444 (1935)
+Mycologia 34(5): 593 (1942)
 
 #### Original name
 Diachea miyazakiensis Emoto, 1935

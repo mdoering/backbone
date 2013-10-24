@@ -1,5 +1,4 @@
-Cortinarius reedii Berk. SPECIES
-=======
+# Cortinarius reedii Berk. SPECIES
 
 #### Status
 ACCEPTED

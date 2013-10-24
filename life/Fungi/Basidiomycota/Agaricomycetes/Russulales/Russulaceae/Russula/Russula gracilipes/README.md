@@ -1,5 +1,4 @@
-Russula gracilipes Romagn. SPECIES
-=======
+# Russula gracilipes Romagn. SPECIES
 
 #### Status
 ACCEPTED

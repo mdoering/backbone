@@ -1,5 +1,4 @@
-Cyathus affinis Pat. SPECIES
-=======
+# Cyathus affinis Pat. SPECIES
 
 #### Status
 ACCEPTED

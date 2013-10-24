@@ -1,5 +1,4 @@
-Sphacelotheca ophiuri-monostachydis F.L. Tai SPECIES
-=======
+# Sphacelotheca ophiuri-monostachydis F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

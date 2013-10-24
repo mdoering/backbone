@@ -1,5 +1,4 @@
-Balantidium simile Cunha & Muniz, 1930 SPECIES
-=======
+# Balantidium simile Cunha & Muniz, 1930 SPECIES
 
 #### Status
 ACCEPTED

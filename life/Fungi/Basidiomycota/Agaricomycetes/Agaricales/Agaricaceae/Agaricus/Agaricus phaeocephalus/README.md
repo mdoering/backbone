@@ -1,5 +1,4 @@
-Agaricus phaeocephalus var. phaeocephalus VARIETY
-=======
+# Agaricus phaeocephalus Bull. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Herb. Fr. 12: tab. 555, fig. 1 (1792)
 
 #### Original name
-Agaricus phaeocephalus var. phaeocephalus
+Agaricus phaeocephalus Bull.
 
 ### Remarks
 null

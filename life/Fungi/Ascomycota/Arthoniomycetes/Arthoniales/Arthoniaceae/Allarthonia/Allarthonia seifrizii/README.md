@@ -1,5 +1,4 @@
-Allarthonia seifrizii SPECIES
-=======
+# Allarthonia seifrizii SPECIES
 
 #### Status
 ACCEPTED

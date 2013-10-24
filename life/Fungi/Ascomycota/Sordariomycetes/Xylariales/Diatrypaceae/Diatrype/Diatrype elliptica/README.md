@@ -1,5 +1,4 @@
-Diatrype elliptica Cooke & Massee, 1890 SPECIES
-=======
+# Diatrype elliptica Cooke & Massee, 1890 SPECIES
 
 #### Status
 ACCEPTED

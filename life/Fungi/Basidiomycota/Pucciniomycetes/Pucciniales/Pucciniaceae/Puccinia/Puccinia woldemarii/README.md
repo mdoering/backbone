@@ -1,5 +1,4 @@
-Puccinia woldemarii Golovin SPECIES
-=======
+# Puccinia woldemarii Golovin SPECIES
 
 #### Status
 ACCEPTED

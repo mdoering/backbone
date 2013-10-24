@@ -1,5 +1,4 @@
-Aspicilia praeruptorum (H. Magn.) R. Sant. SPECIES
-=======
+# Aspicilia praeruptorum (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

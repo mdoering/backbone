@@ -1,5 +1,4 @@
-Mycena bicrenata Berk. SPECIES
-=======
+# Mycena bicrenata Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haptoglossa Drechsler, 1940 GENUS
-=======
+# Haptoglossa Drechsler, 1940 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mattickiomyces triphragmioidis Cif. & Tomas. SPECIES
-=======
+# Mattickiomyces triphragmioidis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

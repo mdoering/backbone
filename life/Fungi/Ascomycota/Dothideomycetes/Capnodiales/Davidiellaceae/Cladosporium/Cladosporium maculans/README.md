@@ -1,5 +1,4 @@
-Cladosporium maculans (Catt.) Sacc. SPECIES
-=======
+# Cladosporium maculans (Catt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria limnanthemicola R.L. Mathur, Agnihotri & Tyagi SPECIES
-=======
+# Alternaria limnanthemicola R.L. Mathur, Agnihotri & Tyagi SPECIES
 
 #### Status
 ACCEPTED

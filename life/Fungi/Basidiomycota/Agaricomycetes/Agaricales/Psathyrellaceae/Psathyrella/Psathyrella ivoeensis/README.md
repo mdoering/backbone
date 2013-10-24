@@ -1,5 +1,4 @@
-Psathyrella ivoeensis Örstadius SPECIES
-=======
+# Psathyrella ivoeensis Örstadius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma punctispora McAlpine SPECIES
-=======
+# Phoma punctispora McAlpine SPECIES
 
 #### Status
 ACCEPTED

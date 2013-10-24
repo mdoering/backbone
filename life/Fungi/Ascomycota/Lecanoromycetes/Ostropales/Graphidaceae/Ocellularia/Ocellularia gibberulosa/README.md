@@ -1,17 +1,16 @@
-Thelotrema gibberulosum var. lockeanum (Müll. Arg.) Redinger VARIETY
-=======
+# Ocellularia gibberulosa (Müll. Arg.) Mangold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Thelotrema lockeanum Müll. Arg.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Neoconorbina mochimaensis SPECIES
-=======
+# Neoconorbina mochimaensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterula GENUS
-=======
+# Asterula GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium taianum (Syd.) Zundel SPECIES
-=======
+# Sorosporium taianum (Syd.) Zundel SPECIES
 
 #### Status
 ACCEPTED

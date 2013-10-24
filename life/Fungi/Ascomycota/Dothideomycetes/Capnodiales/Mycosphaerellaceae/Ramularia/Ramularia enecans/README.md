@@ -1,5 +1,4 @@
-Ramularia enecans Magnus SPECIES
-=======
+# Ramularia enecans Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Propolis leonis var. weiriana Sacc. VARIETY
-=======
+# Propolis leonis (Tul. & C. Tul.) Rehm, 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 27: 79 (1920)
+Asc. no. 360 (1876)
 
 #### Original name
-Propolis leonis var. weiriana Sacc.
+Stictis leonis Tul. & C. Tul., 1865
 
 ### Remarks
 null

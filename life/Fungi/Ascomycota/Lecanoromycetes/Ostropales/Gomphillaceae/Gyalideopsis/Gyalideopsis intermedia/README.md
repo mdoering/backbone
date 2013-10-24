@@ -1,5 +1,4 @@
-Gyalideopsis intermedia Lücking SPECIES
-=======
+# Gyalideopsis intermedia Lücking SPECIES
 
 #### Status
 ACCEPTED

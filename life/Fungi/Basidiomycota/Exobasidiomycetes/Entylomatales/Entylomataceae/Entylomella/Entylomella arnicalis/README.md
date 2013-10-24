@@ -1,5 +1,4 @@
-Entylomella arnicalis (Ellis & Everh.) Cif. SPECIES
-=======
+# Entylomella arnicalis (Ellis & Everh.) Cif. SPECIES
 
 #### Status
 ACCEPTED

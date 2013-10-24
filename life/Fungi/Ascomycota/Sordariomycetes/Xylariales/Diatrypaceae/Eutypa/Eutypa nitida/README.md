@@ -1,5 +1,4 @@
-Eutypa nitida (Nitschke) Sacc. SPECIES
-=======
+# Eutypa nitida (Nitschke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

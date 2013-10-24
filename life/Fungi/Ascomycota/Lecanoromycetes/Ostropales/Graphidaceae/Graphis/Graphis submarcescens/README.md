@@ -1,5 +1,4 @@
-Graphis submarcescens Leight. SPECIES
-=======
+# Graphis submarcescens Leight. SPECIES
 
 #### Status
 ACCEPTED

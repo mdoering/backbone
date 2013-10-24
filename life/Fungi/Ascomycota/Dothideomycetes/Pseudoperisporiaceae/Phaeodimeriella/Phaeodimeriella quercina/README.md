@@ -1,5 +1,4 @@
-Phaeodimeriella quercina (Pers.) E. Müll. SPECIES
-=======
+# Phaeodimeriella quercina (Pers.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

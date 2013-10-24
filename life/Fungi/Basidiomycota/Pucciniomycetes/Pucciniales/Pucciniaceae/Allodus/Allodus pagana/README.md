@@ -1,5 +1,4 @@
-Allodus pagana (Arthur) Orton SPECIES
-=======
+# Allodus pagana (Arthur) Orton SPECIES
 
 #### Status
 ACCEPTED

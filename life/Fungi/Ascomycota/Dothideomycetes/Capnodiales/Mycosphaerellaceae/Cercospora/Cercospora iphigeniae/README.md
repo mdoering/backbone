@@ -1,5 +1,4 @@
-Cercospora iphigeniae Patw. & Sathe SPECIES
-=======
+# Cercospora iphigeniae Patw. & Sathe SPECIES
 
 #### Status
 ACCEPTED

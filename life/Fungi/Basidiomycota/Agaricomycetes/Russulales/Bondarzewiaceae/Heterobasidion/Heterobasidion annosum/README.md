@@ -1,17 +1,16 @@
-Fomitopsis annosa var. annosa VARIETY
-=======
+# Heterobasidion annosum (Fr.) Bref., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 3(9): 18 (1881)
+Unters. Gesammtgeb. Mykol. 8: 154 (1888)
 
 #### Original name
-Fomitopsis annosa var. annosa
+Polyporus annosus Fr., 1821
 
 ### Remarks
 null

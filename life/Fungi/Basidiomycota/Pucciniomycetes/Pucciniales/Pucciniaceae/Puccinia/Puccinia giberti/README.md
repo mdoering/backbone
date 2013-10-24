@@ -1,5 +1,4 @@
-Puccinia giberti Speg. SPECIES
-=======
+# Puccinia giberti Speg. SPECIES
 
 #### Status
 ACCEPTED

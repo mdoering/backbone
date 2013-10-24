@@ -1,17 +1,16 @@
-Polyporus patouillardii var. patouillardii Lloyd VARIETY
-=======
+# Inonotus patouillardii (Rick) Imazeki, 1943 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Tokyo Sci. Mus. 6: 105 (1943)
 
 #### Original name
-Polyporus patouillardii var. patouillardii Lloyd
+Polystictus patouillardii Rick, 1907
 
 ### Remarks
 null

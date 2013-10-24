@@ -1,5 +1,4 @@
-Ammonia ketienziensis (Ishizaki) SPECIES
-=======
+# Ammonia ketienziensis (Ishizaki) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta trifoliiseda Bubák & Picb. SPECIES
-=======
+# Phyllosticta trifoliiseda Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

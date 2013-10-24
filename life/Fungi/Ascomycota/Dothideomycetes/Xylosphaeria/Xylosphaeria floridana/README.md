@@ -1,5 +1,4 @@
-Xylosphaeria floridana Petr. SPECIES
-=======
+# Xylosphaeria floridana Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urocystis mustaphae Maire SPECIES
-=======
+# Urocystis mustaphae Maire SPECIES
 
 #### Status
 ACCEPTED

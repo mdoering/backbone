@@ -1,5 +1,4 @@
-Collema subgranosum Harm. SPECIES
-=======
+# Collema subgranosum Harm. SPECIES
 
 #### Status
 ACCEPTED

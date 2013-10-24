@@ -1,5 +1,4 @@
-Pocosphaeria echinops (Hazsl.) Sacc. SPECIES
-=======
+# Pocosphaeria echinops (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

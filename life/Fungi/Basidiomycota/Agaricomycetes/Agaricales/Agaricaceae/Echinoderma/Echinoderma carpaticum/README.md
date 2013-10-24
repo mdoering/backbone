@@ -1,5 +1,4 @@
-Echinoderma carpaticum (M.M. Moser) E. Horak SPECIES
-=======
+# Echinoderma carpaticum (M.M. Moser) E. Horak SPECIES
 
 #### Status
 ACCEPTED

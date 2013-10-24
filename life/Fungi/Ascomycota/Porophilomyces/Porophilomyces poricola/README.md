@@ -1,14 +1,13 @@
-Fusicladium poricola Bonar, 1965 SPECIES
-=======
+# Porophilomyces poricola (Bonar) U. Braun, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 57(3): 393 (1965)
+Schlechtendalia 5: 42 (2000)
 
 #### Original name
 Fusicladium poricola Bonar, 1965

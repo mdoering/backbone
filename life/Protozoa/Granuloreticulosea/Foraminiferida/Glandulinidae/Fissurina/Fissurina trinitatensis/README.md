@@ -1,5 +1,4 @@
-Fissurina trinitatensis (Nuttall) SPECIES
-=======
+# Fissurina trinitatensis (Nuttall) SPECIES
 
 #### Status
 ACCEPTED

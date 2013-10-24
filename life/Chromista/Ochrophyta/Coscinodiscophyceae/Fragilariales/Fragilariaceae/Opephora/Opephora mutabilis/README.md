@@ -1,11 +1,10 @@
-Denticula mutabilis W. Smith, 1853 SPECIES
-=======
+# Opephora mutabilis K. Sabbe & W. Wyverman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

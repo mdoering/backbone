@@ -1,5 +1,4 @@
-Marasmius aruensis Berk. SPECIES
-=======
+# Marasmius aruensis Berk. SPECIES
 
 #### Status
 ACCEPTED

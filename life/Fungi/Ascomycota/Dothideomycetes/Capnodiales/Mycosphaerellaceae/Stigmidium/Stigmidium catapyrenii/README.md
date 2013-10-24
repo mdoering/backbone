@@ -1,5 +1,4 @@
-Stigmidium catapyrenii Cl. Roux & Triebel SPECIES
-=======
+# Stigmidium catapyrenii Cl. Roux & Triebel SPECIES
 
 #### Status
 ACCEPTED

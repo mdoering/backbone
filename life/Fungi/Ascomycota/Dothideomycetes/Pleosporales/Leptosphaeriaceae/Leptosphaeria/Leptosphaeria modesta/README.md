@@ -1,17 +1,16 @@
-Leptosphaeria modesta var. modesta VARIETY
-=======
+# Leptosphaeria modesta (Desm.) Rabenh., 1866 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 23: 106 (1873)
+Fungi europ. exsicc. no. 948 (1866)
 
 #### Original name
-Leptosphaeria modesta var. modesta
+Sphaeria modesta Desm., 1840
 
 ### Remarks
 null

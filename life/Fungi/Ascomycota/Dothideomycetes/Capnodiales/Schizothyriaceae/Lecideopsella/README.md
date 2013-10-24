@@ -1,17 +1,16 @@
-Gymnopeltis F. Stevens GENUS
-=======
+# Lecideopsella Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 8(3): 25 (1924)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 1229 (1909)
 
 #### Original name
-Gymnopeltis F. Stevens
+Lecideopsella Höhn.
 
 ### Remarks
 null

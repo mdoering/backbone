@@ -1,5 +1,4 @@
-Lasiobelonium parksii Raitv. SPECIES
-=======
+# Lasiobelonium parksii Raitv. SPECIES
 
 #### Status
 ACCEPTED

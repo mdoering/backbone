@@ -1,5 +1,4 @@
-Ceratosphaeria fuscella (P. Karst.) Sacc. SPECIES
-=======
+# Ceratosphaeria fuscella (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

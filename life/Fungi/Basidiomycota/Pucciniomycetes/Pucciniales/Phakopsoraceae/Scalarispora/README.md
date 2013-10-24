@@ -1,5 +1,4 @@
-Scalarispora Buriticá & J.F. Hennen GENUS
-=======
+# Scalarispora Buriticá & J.F. Hennen GENUS
 
 #### Status
 ACCEPTED

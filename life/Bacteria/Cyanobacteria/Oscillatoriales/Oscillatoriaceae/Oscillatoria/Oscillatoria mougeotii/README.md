@@ -1,5 +1,4 @@
-Oscillatoria mougeotii Kützing SPECIES
-=======
+# Oscillatoria mougeotii Kützing SPECIES
 
 #### Status
 ACCEPTED

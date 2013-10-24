@@ -1,5 +1,4 @@
-Aspicilia dominiana (Servít) Szatala SPECIES
-=======
+# Aspicilia dominiana (Servít) Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kosmotoga Nunoura, Hirai, Imachi, Miyazaki, Makita, Hirayama, Furushima, Yamamoto & Takai, 2011 GENUS
-=======
+# Kosmotoga Nunoura, Hirai, Imachi, Miyazaki, Makita, Hirayama, Furushima, Yamamoto & Takai, 2011 GENUS
 
 #### Status
 ACCEPTED

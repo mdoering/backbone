@@ -1,5 +1,4 @@
-Centrocolla Cachon & Cachon, 1970 GENUS
-=======
+# Centrocolla Cachon & Cachon, 1970 GENUS
 
 #### Status
 ACCEPTED

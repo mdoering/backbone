@@ -1,5 +1,4 @@
-Gnomonia peckii M. Monod SPECIES
-=======
+# Gnomonia peckii M. Monod SPECIES
 
 #### Status
 ACCEPTED

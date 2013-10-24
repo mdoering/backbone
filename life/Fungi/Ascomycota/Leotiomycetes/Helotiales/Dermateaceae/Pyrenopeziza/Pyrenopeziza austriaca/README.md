@@ -1,5 +1,4 @@
-Pyrenopeziza austriaca Petr. SPECIES
-=======
+# Pyrenopeziza austriaca Petr. SPECIES
 
 #### Status
 ACCEPTED

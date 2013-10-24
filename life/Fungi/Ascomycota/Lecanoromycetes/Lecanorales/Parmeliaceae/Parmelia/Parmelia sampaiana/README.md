@@ -1,5 +1,4 @@
-Parmelia sampaiana Hue SPECIES
-=======
+# Parmelia sampaiana Hue SPECIES
 
 #### Status
 ACCEPTED

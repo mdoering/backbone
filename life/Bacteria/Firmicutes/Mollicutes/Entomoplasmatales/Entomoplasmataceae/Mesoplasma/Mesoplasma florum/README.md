@@ -1,8 +1,7 @@
-Acholeplasma florum McCoy et al., 1984 SPECIES
-=======
+# Mesoplasma florum (McCoy et al., 1984) Tully et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

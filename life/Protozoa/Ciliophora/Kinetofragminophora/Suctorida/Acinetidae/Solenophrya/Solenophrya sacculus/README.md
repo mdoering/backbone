@@ -1,5 +1,4 @@
-Solenophrya sacculus Penard, 1914 SPECIES
-=======
+# Solenophrya sacculus Penard, 1914 SPECIES
 
 #### Status
 ACCEPTED

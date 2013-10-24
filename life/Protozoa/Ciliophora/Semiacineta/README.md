@@ -1,5 +1,4 @@
-Semiacineta Yankovskii, 1978 GENUS
-=======
+# Semiacineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

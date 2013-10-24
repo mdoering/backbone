@@ -1,5 +1,4 @@
-Pezicula spiculata Seaver SPECIES
-=======
+# Pezicula spiculata Seaver SPECIES
 
 #### Status
 ACCEPTED

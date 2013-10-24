@@ -1,5 +1,4 @@
-Myriangium parasiticum Tilak, S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Myriangium parasiticum Tilak, S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
 ACCEPTED

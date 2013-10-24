@@ -1,5 +1,4 @@
-Bacidia fratruelis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia fratruelis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

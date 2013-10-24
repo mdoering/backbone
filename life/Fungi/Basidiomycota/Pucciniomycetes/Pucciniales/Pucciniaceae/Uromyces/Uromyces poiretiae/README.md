@@ -1,5 +1,4 @@
-Uromyces poiretiae Syd. SPECIES
-=======
+# Uromyces poiretiae Syd. SPECIES
 
 #### Status
 ACCEPTED

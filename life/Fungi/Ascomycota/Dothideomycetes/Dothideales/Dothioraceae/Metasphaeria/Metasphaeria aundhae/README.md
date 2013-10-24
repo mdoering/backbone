@@ -1,17 +1,16 @@
-Metasphaeria aundlti Tilak & Talde SPECIES
-=======
+# Metasphaeria aundhae Tilak & Talde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Maharashtra Vidnyan Mandir, Patrika 10(1-2): 16 (1975)
 
 #### Original name
-Metasphaeria aundlti Tilak & Talde
+Metasphaeria aundhae Tilak & Talde
 
 ### Remarks
 null

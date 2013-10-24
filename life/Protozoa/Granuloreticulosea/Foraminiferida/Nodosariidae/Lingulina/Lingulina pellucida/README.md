@@ -1,5 +1,4 @@
-Lingulina pellucida var. dendiculata Buchner, 1942 VARIETY
-=======
+# Lingulina pellucida Sidebottom, 1907 SPECIES
 
 #### Status
 ACCEPTED

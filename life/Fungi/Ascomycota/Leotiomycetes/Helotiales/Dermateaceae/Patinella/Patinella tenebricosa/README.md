@@ -1,5 +1,4 @@
-Patinella tenebricosa Svrcek SPECIES
-=======
+# Patinella tenebricosa Svrcek SPECIES
 
 #### Status
 ACCEPTED

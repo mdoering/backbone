@@ -1,5 +1,4 @@
-Deslandesia ficina (Syd.) Bat. SPECIES
-=======
+# Deslandesia ficina (Syd.) Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Amauromyces farinaceus Boidin, Lanq. & Gilles, 1993 SPECIES
-=======
+# Tubulicrinopsis farinacea (Boidin, Lanq. & Gilles) Kotir. & Hjortstam, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 109(2): 93 (1993)
+in Kotiranta, Hjortstam, Miettinen & Kulju, Ann. bot. fenn. 44(2): 130 (2007)
 
 #### Original name
 Amauromyces farinaceus Boidin, Lanq. & Gilles, 1993

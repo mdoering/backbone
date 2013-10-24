@@ -1,5 +1,4 @@
-Didonia carpinacea Velen. SPECIES
-=======
+# Didonia carpinacea Velen. SPECIES
 
 #### Status
 ACCEPTED

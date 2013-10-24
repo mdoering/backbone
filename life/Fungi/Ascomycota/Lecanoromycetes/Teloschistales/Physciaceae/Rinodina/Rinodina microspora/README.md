@@ -1,5 +1,4 @@
-Rinodina microspora C.W. Dodge SPECIES
-=======
+# Rinodina microspora C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

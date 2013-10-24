@@ -1,5 +1,4 @@
-Pestalotia liliorum Richon SPECIES
-=======
+# Pestalotia liliorum Richon SPECIES
 
 #### Status
 ACCEPTED

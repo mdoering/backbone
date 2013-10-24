@@ -1,5 +1,4 @@
-Gloeocystidium GENUS
-=======
+# Gloeocystidium GENUS
 
 #### Status
 ACCEPTED

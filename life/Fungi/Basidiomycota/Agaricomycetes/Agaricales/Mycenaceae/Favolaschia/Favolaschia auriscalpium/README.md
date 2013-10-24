@@ -1,5 +1,4 @@
-Favolaschia auriscalpium (Mont.) Henn., 1895 SPECIES
-=======
+# Favolaschia auriscalpium (Mont.) Henn., 1895 SPECIES
 
 #### Status
 ACCEPTED

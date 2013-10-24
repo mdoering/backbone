@@ -1,8 +1,7 @@
-Pseudomonas pyrrocinia Imanaka et al., 1965 (Approved Lists, 1980) SPECIES
-=======
+# Burkholderia pyrrocinia (Imanaka et al., 1965) Vandamme et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

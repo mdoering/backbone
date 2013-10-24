@@ -1,5 +1,4 @@
-Hypocrea longicollis Penz. & Sacc. SPECIES
-=======
+# Hypocrea longicollis Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

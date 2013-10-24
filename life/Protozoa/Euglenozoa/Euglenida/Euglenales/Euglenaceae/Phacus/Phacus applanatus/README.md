@@ -1,5 +1,4 @@
-Phacus applanatus Pochmann SPECIES
-=======
+# Phacus applanatus Pochmann SPECIES
 
 #### Status
 ACCEPTED

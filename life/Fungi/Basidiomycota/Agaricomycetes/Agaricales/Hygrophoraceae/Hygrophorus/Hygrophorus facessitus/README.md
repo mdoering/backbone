@@ -1,5 +1,4 @@
-Hygrophorus facessitus Britzelm. SPECIES
-=======
+# Hygrophorus facessitus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hypoxylon umbrinovelatum var. umbilicatum (Speg.) Rick, 1931 VARIETY
-=======
+# Hypoxylon umbilicatum Speg., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brotéria, sér. bot. 25: 27 (1931)
+Boletín de la Academia Nacional de Ciencias de Córdoba 11(4): 507 (1889)
 
 #### Original name
 Hypoxylon umbilicatum Speg., 1889

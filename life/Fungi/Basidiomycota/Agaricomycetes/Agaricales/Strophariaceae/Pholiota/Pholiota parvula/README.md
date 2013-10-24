@@ -1,5 +1,4 @@
-Pholiota parvula W.F. Chiu SPECIES
-=======
+# Pholiota parvula W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

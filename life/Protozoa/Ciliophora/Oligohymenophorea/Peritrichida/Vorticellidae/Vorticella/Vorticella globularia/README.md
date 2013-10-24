@@ -1,5 +1,4 @@
-Vorticella globularia Muller, 1773 SPECIES
-=======
+# Vorticella globularia Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

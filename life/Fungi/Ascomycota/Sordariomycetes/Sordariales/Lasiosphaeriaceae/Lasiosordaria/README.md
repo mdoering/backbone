@@ -1,5 +1,4 @@
-Lasiosordaria GENUS
-=======
+# Lasiosordaria GENUS
 
 #### Status
 ACCEPTED

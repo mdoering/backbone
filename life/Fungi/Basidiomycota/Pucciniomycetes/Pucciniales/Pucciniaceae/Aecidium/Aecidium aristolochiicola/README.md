@@ -1,8 +1,7 @@
-Aecidium aristolochiaecola Marchal & Steyaert SPECIES
-=======
+# Aecidium aristolochiicola Marchal & Steyaert SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium aristolochiaecola Marchal & Steyaert
+Aecidium aristolochiicola Marchal & Steyaert
 
 ### Remarks
 null

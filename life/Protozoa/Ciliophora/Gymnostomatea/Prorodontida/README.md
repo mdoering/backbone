@@ -1,5 +1,4 @@
-Prorodontida Corliss, 1974 ORDER
-=======
+# Prorodontida Corliss, 1974 ORDER
 
 #### Status
 ACCEPTED

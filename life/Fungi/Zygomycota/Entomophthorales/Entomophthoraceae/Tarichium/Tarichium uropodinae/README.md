@@ -1,17 +1,16 @@
-Tarichium uropodinis Balazy & J. Wisn. SPECIES
-=======
+# Tarichium uropodinae Balazy & J. Wisn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin de l'Académie Polonais des sciences, Classe II, Série des Sciences biologiques 30(1-12): 82 (1983)
 
 #### Original name
-Tarichium uropodinis Balazy & J. Wisn.
+Tarichium uropodinae Balazy & J. Wisn.
 
 ### Remarks
 null

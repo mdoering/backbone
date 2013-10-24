@@ -1,5 +1,4 @@
-Spirochaete GENUS
-=======
+# Spirochaete GENUS
 
 #### Status
 ACCEPTED

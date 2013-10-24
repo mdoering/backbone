@@ -1,5 +1,4 @@
-Vorticella punctata Dons, 1917 SPECIES
-=======
+# Vorticella punctata Dons, 1917 SPECIES
 
 #### Status
 ACCEPTED

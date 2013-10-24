@@ -1,5 +1,4 @@
-Engizostoma truncatum (Cooke & Peck) Kuntze SPECIES
-=======
+# Engizostoma truncatum (Cooke & Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

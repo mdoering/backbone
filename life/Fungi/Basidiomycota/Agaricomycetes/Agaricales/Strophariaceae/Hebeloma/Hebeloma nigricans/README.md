@@ -1,5 +1,4 @@
-Hebeloma nigricans Velen. SPECIES
-=======
+# Hebeloma nigricans Velen. SPECIES
 
 #### Status
 ACCEPTED

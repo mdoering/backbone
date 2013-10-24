@@ -1,5 +1,4 @@
-Spiniferites scabrosus (Clarke & Verdier, 1967) Lentin & Williams SPECIES
-=======
+# Spiniferites scabrosus (Clarke & Verdier, 1967) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

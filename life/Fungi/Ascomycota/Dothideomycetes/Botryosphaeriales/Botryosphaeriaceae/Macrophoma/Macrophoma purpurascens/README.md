@@ -1,5 +1,4 @@
-Macrophoma purpurascens Pat. SPECIES
-=======
+# Macrophoma purpurascens Pat. SPECIES
 
 #### Status
 ACCEPTED

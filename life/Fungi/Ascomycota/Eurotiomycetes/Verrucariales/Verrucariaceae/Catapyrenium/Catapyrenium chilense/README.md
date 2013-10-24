@@ -1,17 +1,16 @@
-Dermatocarpon chilense Räsänen SPECIES
-=======
+# Catapyrenium chilense (Räsänen) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pl. Syst. Evol. 185(1-2): 22 (1993)
 
 #### Original name
-null
+Dermatocarpon chilense Räsänen
 
 ### Remarks
 null

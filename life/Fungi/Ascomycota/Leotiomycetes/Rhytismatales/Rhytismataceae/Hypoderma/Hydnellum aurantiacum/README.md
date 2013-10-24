@@ -1,8 +1,7 @@
-Hydnellum floriforme (Schaeff.) Banker, 1906 SPECIES
-=======
+# Hydnellum aurantiacum (Batsch) P. Karst., 1880 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

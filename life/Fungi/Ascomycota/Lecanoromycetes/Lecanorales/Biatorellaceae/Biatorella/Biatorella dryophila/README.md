@@ -1,5 +1,4 @@
-Biatorella dryophila (Almq.) Th. Fr. SPECIES
-=======
+# Biatorella dryophila (Almq.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

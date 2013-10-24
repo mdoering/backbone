@@ -1,5 +1,4 @@
-Didymosphaeria ribis Hazsl. SPECIES
-=======
+# Didymosphaeria ribis Hazsl. SPECIES
 
 #### Status
 ACCEPTED

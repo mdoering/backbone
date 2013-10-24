@@ -1,5 +1,4 @@
-Stagonospora cylindrica Gunnell, 1957 SPECIES
-=======
+# Stagonospora cylindrica Gunnell, 1957 SPECIES
 
 #### Status
 ACCEPTED

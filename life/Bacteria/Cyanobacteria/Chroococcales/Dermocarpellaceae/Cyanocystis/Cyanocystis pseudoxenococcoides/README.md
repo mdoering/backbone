@@ -1,8 +1,7 @@
-Dermocarpa pseudoxenococcoides Bourrelly SPECIES
-=======
+# Cyanocystis pseudoxenococcoides (Bourrelly) Bourrelly SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Graphis detrita Zenker SPECIES
-=======
+# Graphis detrita Zenker SPECIES
 
 #### Status
 ACCEPTED

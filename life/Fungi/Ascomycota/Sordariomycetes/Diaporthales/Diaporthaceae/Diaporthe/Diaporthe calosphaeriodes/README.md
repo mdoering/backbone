@@ -1,5 +1,4 @@
-Diaporthe calosphaeriodes Ellis & Everh. SPECIES
-=======
+# Diaporthe calosphaeriodes Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

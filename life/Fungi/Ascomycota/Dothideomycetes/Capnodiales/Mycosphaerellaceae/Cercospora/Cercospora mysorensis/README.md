@@ -1,5 +1,4 @@
-Cercospora mysorensis Thirum. & Chupp SPECIES
-=======
+# Cercospora mysorensis Thirum. & Chupp SPECIES
 
 #### Status
 ACCEPTED

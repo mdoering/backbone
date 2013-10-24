@@ -1,5 +1,4 @@
-Discophrya piriformis SPECIES
-=======
+# Discophrya piriformis SPECIES
 
 #### Status
 ACCEPTED

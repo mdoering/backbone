@@ -1,5 +1,4 @@
-Lecidea sublesta SPECIES
-=======
+# Lecidea sublesta SPECIES
 
 #### Status
 ACCEPTED

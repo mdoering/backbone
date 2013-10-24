@@ -1,5 +1,4 @@
-Lepiota revocans (Cooke & Massee) Aberdeen SPECIES
-=======
+# Lepiota revocans (Cooke & Massee) Aberdeen SPECIES
 
 #### Status
 ACCEPTED

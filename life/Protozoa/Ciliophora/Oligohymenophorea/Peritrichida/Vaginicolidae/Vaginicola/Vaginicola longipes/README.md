@@ -1,5 +1,4 @@
-Vaginicola longipes Stokes, 1894 SPECIES
-=======
+# Vaginicola longipes Stokes, 1894 SPECIES
 
 #### Status
 ACCEPTED

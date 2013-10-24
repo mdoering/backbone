@@ -1,5 +1,4 @@
-Lepiota cuculliformis (Fr.) Sacc. SPECIES
-=======
+# Lepiota cuculliformis (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merismopedia quadruplicata (Meneghini) Trevisan SPECIES
-=======
+# Merismopedia quadruplicata (Meneghini) Trevisan SPECIES
 
 #### Status
 ACCEPTED

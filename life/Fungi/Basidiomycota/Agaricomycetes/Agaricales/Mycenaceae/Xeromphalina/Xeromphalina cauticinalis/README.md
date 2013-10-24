@@ -1,17 +1,16 @@
-Xeromphalina fellea var. fellea VARIETY
-=======
+# Xeromphalina cauticinalis (With.) Kühner & Maire, 1934 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. Hist. nat. Afr. N. 36: 36 (1945)
+Bull. trimest. Soc. mycol. Fr. 50: 18 (1934)
 
 #### Original name
-Xeromphalina fellea var. fellea
+Agaricus cauticinalis Bull.
 
 ### Remarks
 null

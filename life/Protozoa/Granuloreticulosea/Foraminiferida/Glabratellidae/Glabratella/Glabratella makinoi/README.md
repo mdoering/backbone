@@ -1,5 +1,4 @@
-Glabratella makinoi SPECIES
-=======
+# Glabratella makinoi SPECIES
 
 #### Status
 ACCEPTED

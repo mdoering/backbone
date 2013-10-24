@@ -1,5 +1,4 @@
-Agaricus obtextus Lasch SPECIES
-=======
+# Agaricus obtextus Lasch SPECIES
 
 #### Status
 ACCEPTED

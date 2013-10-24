@@ -1,5 +1,4 @@
-Gloeosporium gossypii Av.-Saccá SPECIES
-=======
+# Gloeosporium gossypii Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thrombiaceae Poelt & Vezda ex J.C. David & D. Hawksw. FAMILY
-=======
+# Thrombiaceae Poelt & Vezda ex J.C. David & D. Hawksw. FAMILY
 
 #### Status
 ACCEPTED

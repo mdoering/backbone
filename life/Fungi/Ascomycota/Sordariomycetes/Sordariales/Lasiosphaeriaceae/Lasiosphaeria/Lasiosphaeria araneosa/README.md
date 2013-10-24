@@ -1,5 +1,4 @@
-Lasiosphaeria araneosa Torrend SPECIES
-=======
+# Lasiosphaeria araneosa Torrend SPECIES
 
 #### Status
 ACCEPTED

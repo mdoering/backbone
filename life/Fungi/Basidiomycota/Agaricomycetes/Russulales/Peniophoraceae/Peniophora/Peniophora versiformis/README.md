@@ -1,17 +1,16 @@
-Peniophora obscura subsp. carbonicola (Pat.) Bourdot & Galzin SUBSPECIES
-=======
+# Peniophora versiformis (Berk. & M.A. Curtis) Bourdot & Galzin, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hyménomyc. de France (Sceaux) 327 (1928)
 
 #### Original name
-null
+Stereum versiforme Berk. & M.A. Curtis, 1873
 
 ### Remarks
 null

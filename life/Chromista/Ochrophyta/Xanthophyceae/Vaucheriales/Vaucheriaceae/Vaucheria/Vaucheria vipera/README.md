@@ -1,5 +1,4 @@
-Vaucheria vipera Blum SPECIES
-=======
+# Vaucheria vipera Blum SPECIES
 
 #### Status
 ACCEPTED

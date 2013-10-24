@@ -1,5 +1,4 @@
-Cortinarius rigidipes M.M. Moser, 1968 SPECIES
-=======
+# Cortinarius rigidipes M.M. Moser, 1968 SPECIES
 
 #### Status
 ACCEPTED

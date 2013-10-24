@@ -1,5 +1,4 @@
-Diploschistes scruposulus (Nyl.) J. Steiner SPECIES
-=======
+# Diploschistes scruposulus (Nyl.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

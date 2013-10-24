@@ -1,5 +1,4 @@
-Spilosphaeria ruborum Rabenh. SPECIES
-=======
+# Spilosphaeria ruborum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

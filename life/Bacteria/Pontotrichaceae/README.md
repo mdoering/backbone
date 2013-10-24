@@ -1,5 +1,4 @@
-Pontotrichaceae FAMILY
-=======
+# Pontotrichaceae FAMILY
 
 #### Status
 ACCEPTED

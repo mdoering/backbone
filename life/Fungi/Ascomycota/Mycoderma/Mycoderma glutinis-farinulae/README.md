@@ -1,5 +1,4 @@
-Mycoderma glutinis-farinulae Desm. SPECIES
-=======
+# Mycoderma glutinis-farinulae Desm. SPECIES
 
 #### Status
 ACCEPTED

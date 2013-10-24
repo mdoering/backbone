@@ -1,11 +1,10 @@
-Nostocoida Blackall et al., 2000 GENUS
-=======
+# Tetrasphaera Maszenan et al., 2000 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

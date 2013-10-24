@@ -1,5 +1,4 @@
-Linocarpon eccentricollum J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Linocarpon eccentricollum J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

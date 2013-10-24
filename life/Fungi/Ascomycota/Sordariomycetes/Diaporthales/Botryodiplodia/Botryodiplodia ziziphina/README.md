@@ -1,8 +1,7 @@
-Botryodiplodia zizyphina S. Ahmad SPECIES
-=======
+# Botryodiplodia ziziphina S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Botryodiplodia zizyphina S. Ahmad
+Botryodiplodia ziziphina S. Ahmad
 
 ### Remarks
 null

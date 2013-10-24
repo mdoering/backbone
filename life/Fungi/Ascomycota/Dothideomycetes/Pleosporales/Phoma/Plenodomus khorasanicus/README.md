@@ -1,5 +1,4 @@
-Plenodomus khorasanicus Petr. SPECIES
-=======
+# Plenodomus khorasanicus Petr. SPECIES
 
 #### Status
 ACCEPTED

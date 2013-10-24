@@ -1,5 +1,4 @@
-Naemaspora tularostoma Ehrenb. SPECIES
-=======
+# Naemaspora tularostoma Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

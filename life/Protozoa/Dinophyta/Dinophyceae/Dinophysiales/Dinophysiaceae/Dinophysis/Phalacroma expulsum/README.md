@@ -1,5 +1,4 @@
-Phalacroma expulsum (Kofoid & Michener, 1911) Kofoid & Skogsberg, 1928 SPECIES
-=======
+# Phalacroma expulsum (Kofoid & Michener, 1911) Kofoid & Skogsberg, 1928 SPECIES
 
 #### Status
 DOUBTFUL

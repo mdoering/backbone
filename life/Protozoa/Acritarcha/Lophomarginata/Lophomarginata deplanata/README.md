@@ -1,5 +1,4 @@
-Lophomarginata deplanata N. Umnova, 1975 SPECIES
-=======
+# Lophomarginata deplanata N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

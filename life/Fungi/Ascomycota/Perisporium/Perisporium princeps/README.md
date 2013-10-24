@@ -1,5 +1,4 @@
-Perisporium princeps Berk., 1860 SPECIES
-=======
+# Perisporium princeps Berk., 1860 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Polymorphina extensa Cushman, 1923 SPECIES
-=======
+# Francuscia extensa (Cushman, 1923) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Heimatomyces appendiculatus Thaxt. SPECIES
-=======
+# Heimatomyces appendiculatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

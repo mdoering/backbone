@@ -1,8 +1,7 @@
-Phyllachora hakeae Henn., 1898 SPECIES
-=======
+# Phyllachora grevilleae (Lév.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

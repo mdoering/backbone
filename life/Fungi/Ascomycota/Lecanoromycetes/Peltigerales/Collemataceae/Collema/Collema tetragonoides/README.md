@@ -1,5 +1,4 @@
-Collema tetragonoides Anzi SPECIES
-=======
+# Collema tetragonoides Anzi SPECIES
 
 #### Status
 ACCEPTED

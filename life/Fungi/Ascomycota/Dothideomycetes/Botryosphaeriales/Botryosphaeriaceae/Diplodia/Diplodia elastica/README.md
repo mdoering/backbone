@@ -1,5 +1,4 @@
-Diplodia elastica Tassi SPECIES
-=======
+# Diplodia elastica Tassi SPECIES
 
 #### Status
 ACCEPTED

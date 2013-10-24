@@ -1,5 +1,4 @@
-Pertusaria hermaka A. W. Archer SPECIES
-=======
+# Pertusaria hermaka A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

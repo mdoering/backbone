@@ -1,5 +1,4 @@
-Rhachomyces speluncalis Thaxt. SPECIES
-=======
+# Rhachomyces speluncalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

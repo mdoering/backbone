@@ -1,5 +1,4 @@
-Sphaerochloris P. Dangeard, 1966 GENUS
-=======
+# Sphaerochloris P. Dangeard, 1966 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola bryae Hansf. SPECIES
-=======
+# Meliola bryae Hansf. SPECIES
 
 #### Status
 ACCEPTED

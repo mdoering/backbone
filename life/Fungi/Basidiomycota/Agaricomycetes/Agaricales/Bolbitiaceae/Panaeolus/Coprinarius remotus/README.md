@@ -1,5 +1,4 @@
-Coprinarius remotus var. remotus VARIETY
-=======
+# Coprinarius remotus (Schaeff.) Quél. SPECIES
 
 #### Status
 ACCEPTED

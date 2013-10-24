@@ -1,17 +1,16 @@
-Xylaria trabuti Pat. SPECIES
-=======
+# Xylaria trabutii Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 13: 211 (1897)
 
 #### Original name
-Xylaria trabuti Pat.
+Xylaria trabutii Pat.
 
 ### Remarks
 null

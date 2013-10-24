@@ -1,5 +1,4 @@
-Podoscypha sergentiorum Maire SPECIES
-=======
+# Podoscypha sergentiorum Maire SPECIES
 
 #### Status
 ACCEPTED

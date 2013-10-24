@@ -1,5 +1,4 @@
-Caloplaca brattiae W. A. Weber SPECIES
-=======
+# Caloplaca brattiae W. A. Weber SPECIES
 
 #### Status
 ACCEPTED

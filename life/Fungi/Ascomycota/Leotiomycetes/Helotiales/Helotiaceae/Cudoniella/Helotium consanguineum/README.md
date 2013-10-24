@@ -1,5 +1,4 @@
-Helotium consanguineum Ellis & Everh. SPECIES
-=======
+# Helotium consanguineum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

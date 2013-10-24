@@ -1,5 +1,4 @@
-Stictis lupini W. Phillips & Harkn. SPECIES
-=======
+# Stictis lupini W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota subconica G.H. Otth SPECIES
-=======
+# Pholiota subconica G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

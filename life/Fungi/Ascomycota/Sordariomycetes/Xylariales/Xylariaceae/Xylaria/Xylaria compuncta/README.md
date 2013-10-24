@@ -1,5 +1,4 @@
-Xylaria compuncta (Jungh.) Berk. SPECIES
-=======
+# Xylaria compuncta (Jungh.) Berk. SPECIES
 
 #### Status
 ACCEPTED

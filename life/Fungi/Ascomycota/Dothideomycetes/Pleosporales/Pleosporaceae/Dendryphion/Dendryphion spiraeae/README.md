@@ -1,17 +1,16 @@
-Dendryphion spiraceae Sawada SPECIES
-=======
+# Dendryphion spiraeae Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Govt Forest Exp. Stn Meguro 105: 100 (1958)
 
 #### Original name
-Dendryphion spiraceae Sawada
+Dendryphion spiraeae Sawada
 
 ### Remarks
 null

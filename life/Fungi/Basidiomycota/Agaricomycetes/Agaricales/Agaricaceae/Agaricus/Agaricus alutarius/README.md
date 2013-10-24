@@ -1,5 +1,4 @@
-Agaricus alutarius Pers. SPECIES
-=======
+# Agaricus alutarius Pers. SPECIES
 
 #### Status
 ACCEPTED

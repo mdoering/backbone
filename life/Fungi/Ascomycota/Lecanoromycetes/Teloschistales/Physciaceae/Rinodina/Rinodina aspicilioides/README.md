@@ -1,5 +1,4 @@
-Rinodina aspicilioides Müll. Arg. SPECIES
-=======
+# Rinodina aspicilioides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

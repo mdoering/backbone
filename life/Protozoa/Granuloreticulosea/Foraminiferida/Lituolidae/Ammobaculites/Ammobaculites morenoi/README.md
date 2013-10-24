@@ -1,5 +1,4 @@
-Ammobaculites morenoi Acosta, 1940 SPECIES
-=======
+# Ammobaculites morenoi Acosta, 1940 SPECIES
 
 #### Status
 ACCEPTED

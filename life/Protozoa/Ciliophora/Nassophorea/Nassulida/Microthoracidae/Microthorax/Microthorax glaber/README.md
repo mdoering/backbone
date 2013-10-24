@@ -1,5 +1,4 @@
-Microthorax glaber Kahl, 1926 SPECIES
-=======
+# Microthorax glaber Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

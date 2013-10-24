@@ -1,5 +1,4 @@
-Lepiota cystidioresinosa Garrido SPECIES
-=======
+# Lepiota cystidioresinosa Garrido SPECIES
 
 #### Status
 ACCEPTED

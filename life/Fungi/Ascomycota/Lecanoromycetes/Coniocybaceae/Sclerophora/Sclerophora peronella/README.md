@@ -1,17 +1,16 @@
-Coniocybe hyalinella var. hyalinella VARIETY
-=======
+# Sclerophora peronella (Ach.) Tibell SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Prodr. 33 (1856)
+Beih. Nova Hedwigia 79: 679 (1984)
 
 #### Original name
-Coniocybe hyalinella var. hyalinella
+Lichen peronellus Ach.
 
 ### Remarks
 null

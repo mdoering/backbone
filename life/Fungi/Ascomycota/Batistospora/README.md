@@ -1,5 +1,4 @@
-Batistospora J.L. Bezerra & M.P. Herrera GENUS
-=======
+# Batistospora J.L. Bezerra & M.P. Herrera GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatea cinereomaculans Rehm SPECIES
-=======
+# Stigmatea cinereomaculans Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina melanomera Syd. & P. Syd. SPECIES
-=======
+# Asterina melanomera Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

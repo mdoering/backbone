@@ -1,14 +1,13 @@
-Amylocorticium udicola (Bourdot) Malençon & Bertault, 1977 SPECIES
-=======
+# Melzericium udicola (Bourdot) Hauerslev, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Phytotax. Barcinon. 19: 30 (1977)
+Friesia 10(4-5): 316 (1975)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Hysteropezizella ignobilis (P. Karst.) Lind SPECIES
-=======
+# Hysteropezizella ignobilis (P. Karst.) Lind SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha brevis Coppins SPECIES
-=======
+# Opegrapha brevis Coppins SPECIES
 
 #### Status
 ACCEPTED

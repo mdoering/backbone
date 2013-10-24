@@ -1,5 +1,4 @@
-Pteridiospora munkii Subhedar & V.G. Rao SPECIES
-=======
+# Pteridiospora munkii Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

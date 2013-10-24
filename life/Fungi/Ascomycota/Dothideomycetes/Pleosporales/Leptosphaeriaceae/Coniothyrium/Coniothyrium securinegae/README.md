@@ -1,5 +1,4 @@
-Coniothyrium securinegae Schwarzman & Byzova SPECIES
-=======
+# Coniothyrium securinegae Schwarzman & Byzova SPECIES
 
 #### Status
 ACCEPTED

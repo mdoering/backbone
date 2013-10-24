@@ -1,5 +1,4 @@
-Marasmius albertianus Singer SPECIES
-=======
+# Marasmius albertianus Singer SPECIES
 
 #### Status
 ACCEPTED

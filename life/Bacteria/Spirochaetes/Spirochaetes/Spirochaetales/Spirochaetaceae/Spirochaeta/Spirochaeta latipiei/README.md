@@ -1,5 +1,4 @@
-Spirochaeta latipiei SPECIES
-=======
+# Spirochaeta latipiei SPECIES
 
 #### Status
 ACCEPTED

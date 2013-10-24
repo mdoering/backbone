@@ -1,5 +1,4 @@
-Agaricus crucigerus St.-Amans SPECIES
-=======
+# Agaricus crucigerus St.-Amans SPECIES
 
 #### Status
 ACCEPTED

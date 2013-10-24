@@ -1,5 +1,4 @@
-Fusoma vastator Speg. SPECIES
-=======
+# Fusoma vastator Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor lacteus Leers SPECIES
-=======
+# Mucor lacteus Leers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aliivibrio logei Harwood, Bang, Baumann & Nealson, 1980 SPECIES
-=======
+# Aliivibrio logei Harwood, Bang, Baumann & Nealson, 1980 SPECIES
 
 #### Status
 ACCEPTED

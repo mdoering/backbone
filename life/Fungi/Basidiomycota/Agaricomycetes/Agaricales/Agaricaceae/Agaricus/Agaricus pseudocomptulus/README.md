@@ -1,14 +1,13 @@
-Agaricus pseudo-comptulus (Cout.) Cash SPECIES
-=======
+# Agaricus pseudocomptulus (Cout.) Cash SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 26: 835 (1972)
 
 #### Original name
 Psalliota pseudocomptula Cout.

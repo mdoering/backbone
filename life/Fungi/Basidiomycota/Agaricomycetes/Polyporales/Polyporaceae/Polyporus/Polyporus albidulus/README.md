@@ -1,5 +1,4 @@
-Polyporus albidulus Pat. & Gaillard SPECIES
-=======
+# Polyporus albidulus Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

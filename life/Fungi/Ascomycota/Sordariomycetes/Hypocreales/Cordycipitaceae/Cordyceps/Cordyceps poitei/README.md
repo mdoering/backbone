@@ -1,5 +1,4 @@
-Cordyceps poitei Lév. SPECIES
-=======
+# Cordyceps poitei Lév. SPECIES
 
 #### Status
 ACCEPTED

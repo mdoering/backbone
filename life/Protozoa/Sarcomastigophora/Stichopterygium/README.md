@@ -1,5 +1,4 @@
-Stichopterygium Haeckel, 1881 GENUS
-=======
+# Stichopterygium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratostomella capillaris (Ellis) Sacc. SPECIES
-=======
+# Ceratostomella capillaris (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

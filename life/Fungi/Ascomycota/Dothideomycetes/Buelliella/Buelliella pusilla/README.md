@@ -1,5 +1,4 @@
-Buelliella pusilla Hafellner SPECIES
-=======
+# Buelliella pusilla Hafellner SPECIES
 
 #### Status
 ACCEPTED

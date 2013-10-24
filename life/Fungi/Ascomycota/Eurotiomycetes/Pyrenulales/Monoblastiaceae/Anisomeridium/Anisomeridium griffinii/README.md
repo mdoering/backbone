@@ -1,5 +1,4 @@
-Anisomeridium griffinii R. C. Harris SPECIES
-=======
+# Anisomeridium griffinii R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

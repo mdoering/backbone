@@ -1,5 +1,4 @@
-Graphis litoralis Lücking, Sipman & Chaves SPECIES
-=======
+# Graphis litoralis Lücking, Sipman & Chaves SPECIES
 
 #### Status
 ACCEPTED

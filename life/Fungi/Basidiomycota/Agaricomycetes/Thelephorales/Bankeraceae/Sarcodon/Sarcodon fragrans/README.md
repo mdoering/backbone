@@ -1,5 +1,4 @@
-Sarcodon fragrans Chodat & C. Martín SPECIES
-=======
+# Sarcodon fragrans Chodat & C. Martín SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus atrobrunneus Pegler SPECIES
-=======
+# Lentinus atrobrunneus Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Microthyrium confertum Theiss., 1909 SPECIES
-=======
+# Calothyriopsis conferta (Theiss.) Höhn., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 (1919)
 
 #### Original name
 Microthyrium confertum Theiss., 1909

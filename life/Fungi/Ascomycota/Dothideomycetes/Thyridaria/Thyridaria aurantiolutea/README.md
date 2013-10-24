@@ -1,5 +1,4 @@
-Thyridaria aurantiolutea M.E. Barr & Vivant SPECIES
-=======
+# Thyridaria aurantiolutea M.E. Barr & Vivant SPECIES
 
 #### Status
 ACCEPTED

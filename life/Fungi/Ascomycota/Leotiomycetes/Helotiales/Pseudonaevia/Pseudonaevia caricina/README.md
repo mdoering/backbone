@@ -1,5 +1,4 @@
-Pseudonaevia caricina Dennis & Spooner, 1993 SPECIES
-=======
+# Pseudonaevia caricina Dennis & Spooner, 1993 SPECIES
 
 #### Status
 ACCEPTED

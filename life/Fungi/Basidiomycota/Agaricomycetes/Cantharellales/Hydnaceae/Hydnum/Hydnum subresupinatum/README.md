@@ -1,5 +1,4 @@
-Hydnum subresupinatum Schwein. SPECIES
-=======
+# Hydnum subresupinatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

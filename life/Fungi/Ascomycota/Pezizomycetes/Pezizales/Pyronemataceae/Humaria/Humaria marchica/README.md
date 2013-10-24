@@ -1,5 +1,4 @@
-Humaria marchica Rehm SPECIES
-=======
+# Humaria marchica Rehm SPECIES
 
 #### Status
 ACCEPTED

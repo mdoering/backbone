@@ -1,5 +1,4 @@
-Lethariella sinensis J.C. Wei & Y.M. Jiang SPECIES
-=======
+# Lethariella sinensis J.C. Wei & Y.M. Jiang SPECIES
 
 #### Status
 ACCEPTED

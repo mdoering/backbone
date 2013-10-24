@@ -1,5 +1,4 @@
-Polyporus glirinus Kalchbr. SPECIES
-=======
+# Polyporus glirinus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

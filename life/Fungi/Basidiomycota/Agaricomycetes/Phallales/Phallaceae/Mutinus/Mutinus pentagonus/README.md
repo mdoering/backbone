@@ -1,5 +1,4 @@
-Mutinus pentagonus F.M. Bailey SPECIES
-=======
+# Mutinus pentagonus F.M. Bailey SPECIES
 
 #### Status
 ACCEPTED

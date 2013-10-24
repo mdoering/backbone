@@ -1,5 +1,4 @@
-Leptogromia Valkanov, 1970 GENUS
-=======
+# Leptogromia Valkanov, 1970 GENUS
 
 #### Status
 ACCEPTED

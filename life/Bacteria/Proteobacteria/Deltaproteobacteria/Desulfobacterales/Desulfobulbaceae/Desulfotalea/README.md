@@ -1,5 +1,4 @@
-Desulfotalea Knoblauch et al., 1999 GENUS
-=======
+# Desulfotalea Knoblauch et al., 1999 GENUS
 
 #### Status
 ACCEPTED

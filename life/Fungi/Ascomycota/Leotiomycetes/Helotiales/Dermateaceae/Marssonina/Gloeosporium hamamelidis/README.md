@@ -1,5 +1,4 @@
-Gloeosporium hamamelidis Cooke SPECIES
-=======
+# Gloeosporium hamamelidis Cooke SPECIES
 
 #### Status
 ACCEPTED

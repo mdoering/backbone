@@ -1,5 +1,4 @@
-Dothiorella bolbophila (Sacc.) Petr. & Syd. SPECIES
-=======
+# Dothiorella bolbophila (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

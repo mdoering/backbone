@@ -1,5 +1,4 @@
-Sphaeria vomitoria Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria vomitoria Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

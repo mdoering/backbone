@@ -1,5 +1,4 @@
-Dileptus costaricanus Foissner, 1995 SPECIES
-=======
+# Dileptus costaricanus Foissner, 1995 SPECIES
 
 #### Status
 ACCEPTED

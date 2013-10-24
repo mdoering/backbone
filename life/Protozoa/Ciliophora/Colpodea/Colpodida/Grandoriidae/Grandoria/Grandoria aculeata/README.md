@@ -1,5 +1,4 @@
-Grandoria aculeata (Grandori & Grandori, 1934) Corliss, 1960 SPECIES
-=======
+# Grandoria aculeata (Grandori & Grandori, 1934) Corliss, 1960 SPECIES
 
 #### Status
 ACCEPTED

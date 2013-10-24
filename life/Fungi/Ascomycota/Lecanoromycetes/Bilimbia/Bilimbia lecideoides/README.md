@@ -1,5 +1,4 @@
-Bilimbia lecideoides (Hazsl.) Th. Fr. SPECIES
-=======
+# Bilimbia lecideoides (Hazsl.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

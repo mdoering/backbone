@@ -1,5 +1,4 @@
-Leminorella grimontii Hickman-Brenner et al., 1985 SPECIES
-=======
+# Leminorella grimontii Hickman-Brenner et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tettigomyces acuminatus Thaxt. SPECIES
-=======
+# Tettigomyces acuminatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

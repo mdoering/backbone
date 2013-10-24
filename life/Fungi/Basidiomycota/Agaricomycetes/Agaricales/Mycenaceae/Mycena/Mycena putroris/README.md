@@ -1,5 +1,4 @@
-Mycena putroris Corner SPECIES
-=======
+# Mycena putroris Corner SPECIES
 
 #### Status
 ACCEPTED

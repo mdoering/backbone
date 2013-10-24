@@ -1,5 +1,4 @@
-Lentinus ochroleucus Beeli SPECIES
-=======
+# Lentinus ochroleucus Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora calopogonii (F. Stevens & Solheim) Deighton SPECIES
-=======
+# Pseudocercospora calopogonii (F. Stevens & Solheim) Deighton SPECIES
 
 #### Status
 ACCEPTED

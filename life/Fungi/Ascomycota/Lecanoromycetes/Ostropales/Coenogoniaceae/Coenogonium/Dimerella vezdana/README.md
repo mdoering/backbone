@@ -1,5 +1,4 @@
-Dimerella vezdana Lücking SPECIES
-=======
+# Dimerella vezdana Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria collecta Schwein. SPECIES
-=======
+# Sphaeria collecta Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma subgriseum Hesler SPECIES
-=======
+# Entoloma subgriseum Hesler SPECIES
 
 #### Status
 ACCEPTED

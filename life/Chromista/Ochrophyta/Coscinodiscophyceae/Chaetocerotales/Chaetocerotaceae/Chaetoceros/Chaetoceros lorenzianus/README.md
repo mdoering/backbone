@@ -1,11 +1,10 @@
-Chaetoceros lorenzianus var. forceps A.F.Meunier VARIETY
-=======
+# Chaetoceros lorenzianus Grunow SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

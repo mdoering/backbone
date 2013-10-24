@@ -1,5 +1,4 @@
-Mylestoma anatium SPECIES
-=======
+# Mylestoma anatium SPECIES
 
 #### Status
 ACCEPTED

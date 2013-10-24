@@ -1,5 +1,4 @@
-Panaeolus rubricaulis Petch SPECIES
-=======
+# Panaeolus rubricaulis Petch SPECIES
 
 #### Status
 ACCEPTED

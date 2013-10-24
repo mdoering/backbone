@@ -1,14 +1,13 @@
-Tolyposporium restifaciens D.E. Shaw, 1952 SPECIES
-=======
+# Fulvisporium restifaciens (D.E. Shaw) Vánky, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. N. S. W. 77(3-4): 145 (1952)
+in Vánky, Bauer & Begerow, Mycotaxon 64: 59 (1997)
 
 #### Original name
 Tolyposporium restifaciens D.E. Shaw, 1952

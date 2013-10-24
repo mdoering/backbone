@@ -1,17 +1,16 @@
-Dasyscyphus carneolus var. carneolus VARIETY
-=======
+# Lachnum carneolum (Sacc.) Rehm, 1911 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 447 (1889)
+null
 
 #### Original name
-Dasyscyphus carneolus var. carneolus
+Phialea carneola Sacc., 1904
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Peziza hydrangeae Schwein. SPECIES
-=======
+# Peziza hydrangeae Schwein. SPECIES
 
 #### Status
 ACCEPTED

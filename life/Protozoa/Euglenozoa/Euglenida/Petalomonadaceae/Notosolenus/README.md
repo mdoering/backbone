@@ -1,17 +1,16 @@
-Solenotus A.C. Stokes, 1884 GENUS
-=======
+# Notosolenus Stokes, 1884 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Amer. J. Sci. , (3) 28, 41.
+Amer. J. Sci. , (3) 28, 158.
 
 #### Original name
-null
+Solenotus A.C. Stokes, 1884
 
 ### Remarks
 null

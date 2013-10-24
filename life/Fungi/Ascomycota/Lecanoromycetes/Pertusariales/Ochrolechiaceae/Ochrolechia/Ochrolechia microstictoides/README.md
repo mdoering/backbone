@@ -1,17 +1,16 @@
-Pertusaria jurana var. grisea Erichsen VARIETY
-=======
+# Ochrolechia microstictoides Räsänen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Fenn. Exs. no. 226 (1936)
 
 #### Original name
-null
+Ochrolechia microstictoides Räsänen
 
 ### Remarks
 null

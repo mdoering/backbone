@@ -1,5 +1,4 @@
-Coscinodiscus obscurus A. Schmidt, 1878 SPECIES
-=======
+# Coscinodiscus obscurus A. Schmidt, 1878 SPECIES
 
 #### Status
 ACCEPTED

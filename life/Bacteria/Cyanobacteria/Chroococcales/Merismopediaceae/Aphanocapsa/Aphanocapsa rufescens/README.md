@@ -1,5 +1,4 @@
-Aphanocapsa rufescens Hansgirg SPECIES
-=======
+# Aphanocapsa rufescens Hansgirg SPECIES
 
 #### Status
 ACCEPTED

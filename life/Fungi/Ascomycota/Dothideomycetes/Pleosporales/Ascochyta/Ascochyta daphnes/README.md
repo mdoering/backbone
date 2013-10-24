@@ -1,5 +1,4 @@
-Ascochyta daphnes Höhn. SPECIES
-=======
+# Ascochyta daphnes Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Leciographa lamyi (O.J. Rich.) Sacc. & D. Sacc. SPECIES
-=======
+# Opegrapha lamyi (O.J. Rich. ex Nyl.) Triebel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 18: 182 (1905)
+Biblthca Lichenol. 35: 139 (1989)
 
 #### Original name
 Lecidea lamyi

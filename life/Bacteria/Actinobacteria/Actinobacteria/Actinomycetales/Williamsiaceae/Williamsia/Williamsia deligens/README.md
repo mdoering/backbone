@@ -1,5 +1,4 @@
-Williamsia deligens Yassin & Hupfer, 2006 SPECIES
-=======
+# Williamsia deligens Yassin & Hupfer, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lacrymaria phyalina Penard, 1922 SPECIES
-=======
+# Lacrymaria phyalina Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

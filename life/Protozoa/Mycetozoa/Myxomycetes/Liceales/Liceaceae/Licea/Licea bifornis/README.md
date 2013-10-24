@@ -1,5 +1,4 @@
-Licea bifornis Morgan SPECIES
-=======
+# Licea bifornis Morgan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermofilum Zillig, Gierl, Schreiber, Wunderl, Janekovic, Stetter & Klenk, 1983 GENUS
-=======
+# Thermofilum Zillig, Gierl, Schreiber, Wunderl, Janekovic, Stetter & Klenk, 1983 GENUS
 
 #### Status
 ACCEPTED

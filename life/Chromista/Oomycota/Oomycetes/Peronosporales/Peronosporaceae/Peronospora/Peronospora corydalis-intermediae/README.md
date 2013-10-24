@@ -1,5 +1,4 @@
-Peronospora corydalis-intermediae Gäum. SPECIES
-=======
+# Peronospora corydalis-intermediae Gäum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus nashii Murrill SPECIES
-=======
+# Gymnopilus nashii Murrill SPECIES
 
 #### Status
 ACCEPTED

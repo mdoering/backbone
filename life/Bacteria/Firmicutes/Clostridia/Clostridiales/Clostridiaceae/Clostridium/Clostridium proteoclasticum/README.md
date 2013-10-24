@@ -1,5 +1,4 @@
-Clostridium proteoclasticum Attwood et al., 1996 SPECIES
-=======
+# Clostridium proteoclasticum Attwood et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

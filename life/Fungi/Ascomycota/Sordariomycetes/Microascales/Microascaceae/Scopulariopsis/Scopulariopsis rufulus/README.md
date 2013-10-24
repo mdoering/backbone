@@ -1,5 +1,4 @@
-Scopulariopsis rufulus Bainier SPECIES
-=======
+# Scopulariopsis rufulus Bainier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Penicillium purpurogenum var. rubri-sclerotium Thom VARIETY
-=======
+# Penicillium purpurogenum Stoll, 1923 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 7(3): 137 (1915)
+La Cellule 33: 235-237 (1923)
 
 #### Original name
-Penicillium purpurogenum var. rubri-sclerotium Thom
+Penicillium purpurogenum Stoll, 1923
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Quinella Krumholz et al., 1993 GENUS
-=======
+# Quinella Krumholz et al., 1993 GENUS
 
 #### Status
 ACCEPTED

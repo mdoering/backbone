@@ -1,5 +1,4 @@
-Kockovaella litseae D.T. Luong, M. Takash., Ty, Dung & Nakase, 2000 SPECIES
-=======
+# Kockovaella litseae D.T. Luong, M. Takash., Ty, Dung & Nakase, 2000 SPECIES
 
 #### Status
 ACCEPTED

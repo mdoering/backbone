@@ -1,5 +1,4 @@
-Lactarius subvelutinus Peck SPECIES
-=======
+# Lactarius subvelutinus Peck SPECIES
 
 #### Status
 ACCEPTED

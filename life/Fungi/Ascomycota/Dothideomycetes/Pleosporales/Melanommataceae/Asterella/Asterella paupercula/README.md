@@ -1,5 +1,4 @@
-Asterella paupercula (Ellis & Everh.) Sacc. SPECIES
-=======
+# Asterella paupercula (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

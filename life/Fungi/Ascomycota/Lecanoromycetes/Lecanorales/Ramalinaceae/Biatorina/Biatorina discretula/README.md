@@ -1,5 +1,4 @@
-Biatorina discretula (Nyl.) Eitner SPECIES
-=======
+# Biatorina discretula (Nyl.) Eitner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora bombacina (T.S. Ramakr. & K. Ramakr.) Deighton SPECIES
-=======
+# Pseudocercospora bombacina (T.S. Ramakr. & K. Ramakr.) Deighton SPECIES
 
 #### Status
 ACCEPTED

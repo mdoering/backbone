@@ -1,5 +1,4 @@
-Defretinella Henneré, 1966 GENUS
-=======
+# Defretinella Henneré, 1966 GENUS
 
 #### Status
 ACCEPTED

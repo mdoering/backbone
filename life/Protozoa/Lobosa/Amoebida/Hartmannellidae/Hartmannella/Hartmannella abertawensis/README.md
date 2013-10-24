@@ -1,5 +1,4 @@
-Hartmannella abertawensis Page, 1980 SPECIES
-=======
+# Hartmannella abertawensis Page, 1980 SPECIES
 
 #### Status
 ACCEPTED

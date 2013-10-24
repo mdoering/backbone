@@ -1,5 +1,4 @@
-Helminthosporium lophirae Syd. SPECIES
-=======
+# Helminthosporium lophirae Syd. SPECIES
 
 #### Status
 ACCEPTED

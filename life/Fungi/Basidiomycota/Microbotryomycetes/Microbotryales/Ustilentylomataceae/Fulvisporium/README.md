@@ -1,5 +1,4 @@
-Fulvisporium Vánky GENUS
-=======
+# Fulvisporium Vánky GENUS
 
 #### Status
 ACCEPTED

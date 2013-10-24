@@ -1,5 +1,4 @@
-Cryptococcus irritans Mattlet SPECIES
-=======
+# Cryptococcus irritans Mattlet SPECIES
 
 #### Status
 ACCEPTED

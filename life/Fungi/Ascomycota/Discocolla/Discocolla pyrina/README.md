@@ -1,5 +1,4 @@
-Discocolla pyrina Prill. & Delacr., 1894 SPECIES
-=======
+# Discocolla pyrina Prill. & Delacr., 1894 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirococcus tsugae Castl., Farr & Stanosz SPECIES
-=======
+# Sirococcus tsugae Castl., Farr & Stanosz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptostroma costatum Rabenh. SPECIES
-=======
+# Leptostroma costatum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

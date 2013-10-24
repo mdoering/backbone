@@ -1,5 +1,4 @@
-Rivularia polyotis (J. Agardh) Hauck SPECIES
-=======
+# Rivularia polyotis (J. Agardh) Hauck SPECIES
 
 #### Status
 ACCEPTED

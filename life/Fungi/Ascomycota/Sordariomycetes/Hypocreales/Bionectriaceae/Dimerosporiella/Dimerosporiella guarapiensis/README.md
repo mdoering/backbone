@@ -1,5 +1,4 @@
-Dimerosporiella guarapiensis (Speg.) Rossman & Samuels SPECIES
-=======
+# Dimerosporiella guarapiensis (Speg.) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

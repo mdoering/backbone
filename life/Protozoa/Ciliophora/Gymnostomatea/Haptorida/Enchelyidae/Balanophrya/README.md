@@ -1,5 +1,4 @@
-Balanophrya GENUS
-=======
+# Balanophrya GENUS
 
 #### Status
 ACCEPTED

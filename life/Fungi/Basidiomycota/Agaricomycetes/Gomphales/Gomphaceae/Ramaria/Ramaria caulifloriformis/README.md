@@ -1,5 +1,4 @@
-Ramaria caulifloriformis (Leathers) Corner SPECIES
-=======
+# Ramaria caulifloriformis (Leathers) Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula guayarensis Singer SPECIES
-=======
+# Russula guayarensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pycnostemma Syd. GENUS
-=======
+# Poropeltis Hennings, 1904 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 25(1/2): 113 (1927)
+Hedwigia 43: 390 (1904)
 
 #### Original name
-Pycnostemma Syd.
+Poropeltis Hennings, 1904
 
 ### Remarks
 null

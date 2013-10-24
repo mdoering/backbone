@@ -1,14 +1,13 @@
-Cercospora philippinensis Tak. Kobay. & E.D. Guzmán, 1988 SPECIES
-=======
+# Pseudocercospora philippinensis (Tak. Kobay. & E.D. Guzmán) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the Forestry and Forest Products Research Institute, Ibaraki, Japan 351: 137 (1988)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 319 (2003)
 
 #### Original name
 Cercospora philippinensis Tak. Kobay. & E.D. Guzmán, 1988

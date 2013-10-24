@@ -1,5 +1,4 @@
-Barlaea macrospora Velen. SPECIES
-=======
+# Barlaea macrospora Velen. SPECIES
 
 #### Status
 ACCEPTED

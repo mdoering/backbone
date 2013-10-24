@@ -1,5 +1,4 @@
-Polystigma melastomatum Pat., 1891 SPECIES
-=======
+# Polystigma melastomatum Pat., 1891 SPECIES
 
 #### Status
 ACCEPTED

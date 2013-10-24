@@ -1,5 +1,4 @@
-Phyllosticta solani Ellis & G. Martin SPECIES
-=======
+# Phyllosticta solani Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

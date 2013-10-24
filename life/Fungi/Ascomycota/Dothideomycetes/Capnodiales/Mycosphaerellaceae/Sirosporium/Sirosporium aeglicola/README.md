@@ -1,5 +1,4 @@
-Sirosporium aeglicola R.K. Verma, N. Sharma & Soni SPECIES
-=======
+# Sirosporium aeglicola R.K. Verma, N. Sharma & Soni SPECIES
 
 #### Status
 ACCEPTED

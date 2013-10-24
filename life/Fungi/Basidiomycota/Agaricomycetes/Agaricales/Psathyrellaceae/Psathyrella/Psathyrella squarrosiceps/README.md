@@ -1,5 +1,4 @@
-Psathyrella squarrosiceps Singer SPECIES
-=======
+# Psathyrella squarrosiceps Singer SPECIES
 
 #### Status
 ACCEPTED

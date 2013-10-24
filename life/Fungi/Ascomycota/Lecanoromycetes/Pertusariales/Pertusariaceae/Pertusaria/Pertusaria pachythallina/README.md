@@ -1,17 +1,16 @@
-Pertusaria grisea var. pachythallina Räsänen VARIETY
-=======
+# Pertusaria pachythallina (Räsänen) Messuti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 38(3): 283 (2006)
 
 #### Original name
-null
+Pertusaria grisea var. pachythallina Räsänen
 
 ### Remarks
 null

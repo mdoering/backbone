@@ -1,5 +1,4 @@
-Verrucaria minuta (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria minuta (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

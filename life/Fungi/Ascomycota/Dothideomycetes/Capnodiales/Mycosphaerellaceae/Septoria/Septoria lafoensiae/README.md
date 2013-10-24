@@ -1,5 +1,4 @@
-Septoria lafoensiae Viégas SPECIES
-=======
+# Septoria lafoensiae Viégas SPECIES
 
 #### Status
 ACCEPTED

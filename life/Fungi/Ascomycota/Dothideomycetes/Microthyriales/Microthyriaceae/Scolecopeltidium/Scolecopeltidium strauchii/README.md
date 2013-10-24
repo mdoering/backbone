@@ -1,5 +1,4 @@
-Scolecopeltidium strauchii (Doidge) Bat. SPECIES
-=======
+# Scolecopeltidium strauchii (Doidge) Bat. SPECIES
 
 #### Status
 ACCEPTED

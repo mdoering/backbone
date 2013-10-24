@@ -1,5 +1,4 @@
-Pholiota viscofumosa Y.S. Chang & A.K. Mills SPECIES
-=======
+# Pholiota viscofumosa Y.S. Chang & A.K. Mills SPECIES
 
 #### Status
 ACCEPTED

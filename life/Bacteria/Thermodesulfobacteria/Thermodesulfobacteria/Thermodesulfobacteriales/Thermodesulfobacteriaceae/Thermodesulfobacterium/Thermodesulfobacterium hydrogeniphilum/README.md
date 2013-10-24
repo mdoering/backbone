@@ -1,5 +1,4 @@
-Thermodesulfobacterium hydrogeniphilum Jeanthon et al., 2002 SPECIES
-=======
+# Thermodesulfobacterium hydrogeniphilum Jeanthon et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

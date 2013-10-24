@@ -1,5 +1,4 @@
-Phyllosticta bromi Potebnia SPECIES
-=======
+# Phyllosticta bromi Potebnia SPECIES
 
 #### Status
 ACCEPTED

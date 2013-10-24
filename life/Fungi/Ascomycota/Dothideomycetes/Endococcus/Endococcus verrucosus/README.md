@@ -1,5 +1,4 @@
-Endococcus verrucosus Hafellner, 1994 SPECIES
-=======
+# Endococcus verrucosus Hafellner, 1994 SPECIES
 
 #### Status
 ACCEPTED

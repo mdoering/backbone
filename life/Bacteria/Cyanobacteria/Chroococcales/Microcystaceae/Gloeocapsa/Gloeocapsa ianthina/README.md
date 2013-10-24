@@ -1,5 +1,4 @@
-Gloeocapsa ianthina Nägeli SPECIES
-=======
+# Gloeocapsa ianthina Nägeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physarum caerulescens Pers. SPECIES
-=======
+# Physarum caerulescens Pers. SPECIES
 
 #### Status
 ACCEPTED

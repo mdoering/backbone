@@ -1,5 +1,4 @@
-Phaeocollybia rufotubulina Norvell SPECIES
-=======
+# Phaeocollybia rufotubulina Norvell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria luteonitens Nyl. SPECIES
-=======
+# Verrucaria luteonitens Nyl. SPECIES
 
 #### Status
 ACCEPTED

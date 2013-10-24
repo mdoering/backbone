@@ -1,5 +1,4 @@
-Hypocrea consimilis Ellis SPECIES
-=======
+# Hypocrea consimilis Ellis SPECIES
 
 #### Status
 ACCEPTED

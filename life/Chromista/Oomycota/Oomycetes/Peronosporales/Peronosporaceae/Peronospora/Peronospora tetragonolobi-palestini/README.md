@@ -1,5 +1,4 @@
-Peronospora tetragonolobi-palestini Rayss SPECIES
-=======
+# Peronospora tetragonolobi-palestini Rayss SPECIES
 
 #### Status
 ACCEPTED

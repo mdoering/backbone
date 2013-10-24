@@ -1,14 +1,13 @@
-Phyllachora arduinae (Kalchbr. & Cooke) Cooke, 1885 SPECIES
-=======
+# Leveillina arduinae (Kalchbr. & Cooke) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 70 (1885)
+Annls mycol. 13(3/4): 286 (1915)
 
 #### Original name
 Dothidea arduinae Kalchbr. & Cooke, 1880

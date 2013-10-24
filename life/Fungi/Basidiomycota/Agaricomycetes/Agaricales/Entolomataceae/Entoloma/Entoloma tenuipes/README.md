@@ -1,5 +1,4 @@
-Entoloma tenuipes Murrill, 1917 SPECIES
-=======
+# Entoloma tenuipes Murrill, 1917 SPECIES
 
 #### Status
 ACCEPTED

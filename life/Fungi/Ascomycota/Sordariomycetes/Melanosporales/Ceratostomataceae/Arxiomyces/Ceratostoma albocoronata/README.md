@@ -1,5 +1,4 @@
-Ceratostoma albocoronata Ellis SPECIES
-=======
+# Ceratostoma albocoronata Ellis SPECIES
 
 #### Status
 ACCEPTED

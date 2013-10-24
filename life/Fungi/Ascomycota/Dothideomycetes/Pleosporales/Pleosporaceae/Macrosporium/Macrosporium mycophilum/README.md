@@ -1,5 +1,4 @@
-Macrosporium mycophilum Bubák & Dearn. SPECIES
-=======
+# Macrosporium mycophilum Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

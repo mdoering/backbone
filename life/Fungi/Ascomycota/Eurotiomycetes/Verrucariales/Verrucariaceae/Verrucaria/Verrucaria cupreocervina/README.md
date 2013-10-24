@@ -1,5 +1,4 @@
-Verrucaria cupreocervina SPECIES
-=======
+# Verrucaria cupreocervina SPECIES
 
 #### Status
 ACCEPTED

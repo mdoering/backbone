@@ -1,5 +1,4 @@
-Russula subdensifolia Murrill SPECIES
-=======
+# Russula subdensifolia Murrill SPECIES
 
 #### Status
 ACCEPTED

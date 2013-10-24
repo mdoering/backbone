@@ -1,5 +1,4 @@
-Oropogon bicolor Essl. SPECIES
-=======
+# Oropogon bicolor Essl. SPECIES
 
 #### Status
 ACCEPTED

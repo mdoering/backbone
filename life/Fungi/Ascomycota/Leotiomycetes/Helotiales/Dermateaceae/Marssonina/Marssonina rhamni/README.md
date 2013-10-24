@@ -1,5 +1,4 @@
-Marssonina rhamni (Ellis & Everh.) Magnus SPECIES
-=======
+# Marssonina rhamni (Ellis & Everh.) Magnus SPECIES
 
 #### Status
 ACCEPTED

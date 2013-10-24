@@ -1,5 +1,4 @@
-Bacidia silesiaca Zahlbr. SPECIES
-=======
+# Bacidia silesiaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

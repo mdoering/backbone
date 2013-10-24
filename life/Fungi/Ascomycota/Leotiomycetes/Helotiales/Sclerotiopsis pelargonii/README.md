@@ -1,5 +1,4 @@
-Sclerotiopsis pelargonii Scalia SPECIES
-=======
+# Sclerotiopsis pelargonii Scalia SPECIES
 
 #### Status
 ACCEPTED

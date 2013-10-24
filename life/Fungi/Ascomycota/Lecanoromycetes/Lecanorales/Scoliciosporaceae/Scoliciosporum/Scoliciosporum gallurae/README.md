@@ -1,5 +1,4 @@
-Scoliciosporum gallurae Vezda & Poelt SPECIES
-=======
+# Scoliciosporum gallurae Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED

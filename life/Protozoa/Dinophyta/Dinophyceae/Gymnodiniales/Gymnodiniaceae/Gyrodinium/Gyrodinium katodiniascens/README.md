@@ -1,5 +1,4 @@
-Gyrodinium katodiniascens P.H. Campbell, 1973 SPECIES
-=======
+# Gyrodinium katodiniascens P.H. Campbell, 1973 SPECIES
 
 #### Status
 ACCEPTED

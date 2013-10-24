@@ -1,5 +1,4 @@
-Hypocrea peruviana Yoshim. Doi SPECIES
-=======
+# Hypocrea peruviana Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

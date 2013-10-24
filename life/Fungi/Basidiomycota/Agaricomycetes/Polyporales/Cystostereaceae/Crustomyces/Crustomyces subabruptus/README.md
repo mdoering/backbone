@@ -1,14 +1,13 @@
-Cystostereum pini-canadense subsp. subabruptum (Bourdot & Galzin) Chamuris SUBSPECIES
-=======
+# Crustomyces subabruptus (Bourdot & Galzin) Jülich, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 78(3): 385 (1986)
+Persoonia 10(1): 140 (1978)
 
 #### Original name
 Odontia subabrupta Bourdot & Galzin, 1928

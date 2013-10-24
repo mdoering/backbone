@@ -1,5 +1,4 @@
-Verrucaria inflata Stirt. SPECIES
-=======
+# Verrucaria inflata Stirt. SPECIES
 
 #### Status
 ACCEPTED

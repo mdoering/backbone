@@ -1,5 +1,4 @@
-Pyrenula approximans (Kremp.) Müll. Arg. SPECIES
-=======
+# Pyrenula approximans (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

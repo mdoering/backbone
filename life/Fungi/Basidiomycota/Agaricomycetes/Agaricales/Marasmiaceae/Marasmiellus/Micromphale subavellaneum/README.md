@@ -1,8 +1,7 @@
-Micromphale subavellanea (Murrill) Dennis SPECIES
-=======
+# Micromphale subavellaneum (Murrill) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

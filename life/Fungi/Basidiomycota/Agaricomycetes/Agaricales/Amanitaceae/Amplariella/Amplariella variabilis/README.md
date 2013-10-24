@@ -1,5 +1,4 @@
-Amplariella variabilis (E.-J. Gilbert & Cleland) E.-J. Gilbert SPECIES
-=======
+# Amplariella variabilis (E.-J. Gilbert & Cleland) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

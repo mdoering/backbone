@@ -1,5 +1,4 @@
-Anabaena crassa (Lemmermann) Komark.-Legn. & Cronberg SPECIES
-=======
+# Anabaena crassa (Lemmermann) Komark.-Legn. & Cronberg SPECIES
 
 #### Status
 ACCEPTED

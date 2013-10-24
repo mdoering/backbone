@@ -1,5 +1,4 @@
-Chaetoceros diversicurvatus Van Goor, 1924 SPECIES
-=======
+# Chaetoceros diversicurvatus Van Goor, 1924 SPECIES
 
 #### Status
 ACCEPTED

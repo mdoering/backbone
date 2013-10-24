@@ -1,5 +1,4 @@
-Bradleyella Woollam, 1983 GENUS
-=======
+# Bradleyella Woollam, 1983 GENUS
 
 #### Status
 ACCEPTED

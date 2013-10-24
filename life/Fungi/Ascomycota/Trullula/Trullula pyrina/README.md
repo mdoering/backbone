@@ -1,17 +1,16 @@
-Trullula pirina Bres. & Sacc. SPECIES
-=======
+# Trullula pyrina Bres. & Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 16: 1005 (1902)
 
 #### Original name
-Trullula pirina Bres. & Sacc.
+Trullula pyrina Bres. & Sacc.
 
 ### Remarks
 null

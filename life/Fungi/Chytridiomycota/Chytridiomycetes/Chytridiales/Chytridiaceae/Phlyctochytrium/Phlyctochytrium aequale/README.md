@@ -1,5 +1,4 @@
-Phlyctochytrium aequale G.F. Atk. SPECIES
-=======
+# Phlyctochytrium aequale G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

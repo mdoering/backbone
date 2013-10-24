@@ -1,8 +1,7 @@
-Ceratolithus dentatus Bukry, 1973 SPECIES
-=======
+# Amaurolithus amplificus (Bukry & Percival, 1971) Gartner & Bukry, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

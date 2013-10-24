@@ -1,5 +1,4 @@
-Stylopage minutula Drechsler, 1945 SPECIES
-=======
+# Stylopage minutula Drechsler, 1945 SPECIES
 
 #### Status
 ACCEPTED

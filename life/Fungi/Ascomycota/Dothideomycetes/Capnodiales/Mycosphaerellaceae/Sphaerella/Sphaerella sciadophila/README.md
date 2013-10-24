@@ -1,5 +1,4 @@
-Sphaerella sciadophila Pass. SPECIES
-=======
+# Sphaerella sciadophila Pass. SPECIES
 
 #### Status
 ACCEPTED

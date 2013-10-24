@@ -1,5 +1,4 @@
-Phragmopeltheca pulcherrima var. pulcherrima VARIETY
-=======
+# Phragmopeltheca pulcherrima L. Xavier SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Phragmopeltecaceae uma nova familia de Microascoliquens 54 (1974)
 
 #### Original name
-Phragmopeltheca pulcherrima var. pulcherrima
+Phragmopeltheca pulcherrima L. Xavier
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Eidamella deflexa (Berk.) C.R. Benj., 1956 SPECIES
-=======
+# Myxotrichum deflexum Berk., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 1 1: 260 (1838)
 
 #### Original name
 Myxotrichum deflexum Berk., 1838

@@ -1,5 +1,4 @@
-Aspicilia rhodopiza (Hue) Nyl. SPECIES
-=======
+# Aspicilia rhodopiza (Hue) Nyl. SPECIES
 
 #### Status
 ACCEPTED

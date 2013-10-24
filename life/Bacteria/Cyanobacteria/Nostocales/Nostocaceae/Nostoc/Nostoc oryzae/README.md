@@ -1,5 +1,4 @@
-Nostoc oryzae (F. E. Fritsch) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Nostoc oryzae (F. E. Fritsch) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

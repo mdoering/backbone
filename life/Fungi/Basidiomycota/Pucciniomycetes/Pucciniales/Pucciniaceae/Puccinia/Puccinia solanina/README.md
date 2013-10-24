@@ -1,5 +1,4 @@
-Puccinia solanina Speg. SPECIES
-=======
+# Puccinia solanina Speg. SPECIES
 
 #### Status
 ACCEPTED

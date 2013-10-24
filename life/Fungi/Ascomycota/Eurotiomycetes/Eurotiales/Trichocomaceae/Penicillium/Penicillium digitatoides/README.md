@@ -1,5 +1,4 @@
-Penicillium digitatoides Peyronel SPECIES
-=======
+# Penicillium digitatoides Peyronel SPECIES
 
 #### Status
 ACCEPTED

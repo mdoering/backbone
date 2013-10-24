@@ -1,5 +1,4 @@
-Gnomonia lysimachiae Petr. SPECIES
-=======
+# Gnomonia lysimachiae Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Aecidium eritrichii Henn. SPECIES
-=======
+# Aecidium eritrichi Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium eritrichii Henn.
+Aecidium eritrichi Henn.
 
 ### Remarks
 null

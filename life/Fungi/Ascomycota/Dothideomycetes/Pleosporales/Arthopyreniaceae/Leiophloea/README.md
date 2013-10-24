@@ -1,5 +1,4 @@
-Leiophloea S. F. Gray, 1821 GENUS
-=======
+# Leiophloea S. F. Gray, 1821 GENUS
 
 #### Status
 ACCEPTED

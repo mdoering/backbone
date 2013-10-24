@@ -1,5 +1,4 @@
-Tylopilus indecisus var. indecisus VARIETY
-=======
+# Tylopilus indecisus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycologia 1(1): 15 (1909)
 
 #### Original name
-Tylopilus indecisus var. indecisus
+Boletus indecisus Peck
 
 ### Remarks
 null

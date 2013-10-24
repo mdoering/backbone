@@ -1,5 +1,4 @@
-Auritella dolichocystis Matheny, Trappe & Bougher ex Matheny & Bougher, 2006 SPECIES
-=======
+# Auritella dolichocystis Matheny, Trappe & Bougher ex Matheny & Bougher, 2006 SPECIES
 
 #### Status
 ACCEPTED

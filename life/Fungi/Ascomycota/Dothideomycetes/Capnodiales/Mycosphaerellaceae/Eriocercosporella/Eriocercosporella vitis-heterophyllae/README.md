@@ -1,5 +1,4 @@
-Eriocercosporella vitis-heterophyllae (Henn.) U. Braun SPECIES
-=======
+# Eriocercosporella vitis-heterophyllae (Henn.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

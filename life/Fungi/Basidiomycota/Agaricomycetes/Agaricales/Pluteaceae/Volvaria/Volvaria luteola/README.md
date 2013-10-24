@@ -1,5 +1,4 @@
-Volvaria luteola (Lév.) Sacc. & Traverso SPECIES
-=======
+# Volvaria luteola (Lév.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

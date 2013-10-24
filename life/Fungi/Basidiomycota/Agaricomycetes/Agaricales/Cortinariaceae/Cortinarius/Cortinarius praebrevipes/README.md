@@ -1,5 +1,4 @@
-Cortinarius praebrevipes Murrill SPECIES
-=======
+# Cortinarius praebrevipes Murrill SPECIES
 
 #### Status
 ACCEPTED

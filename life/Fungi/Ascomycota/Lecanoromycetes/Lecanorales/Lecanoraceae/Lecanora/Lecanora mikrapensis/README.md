@@ -1,5 +1,4 @@
-Lecanora mikrapensis SPECIES
-=======
+# Lecanora mikrapensis SPECIES
 
 #### Status
 ACCEPTED

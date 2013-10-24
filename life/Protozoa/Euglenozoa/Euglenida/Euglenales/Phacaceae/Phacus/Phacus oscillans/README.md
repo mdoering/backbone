@@ -1,5 +1,4 @@
-Phacus oscillans G.A. Klebs, 1883 SPECIES
-=======
+# Phacus oscillans G.A. Klebs, 1883 SPECIES
 
 #### Status
 ACCEPTED

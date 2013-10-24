@@ -1,5 +1,4 @@
-Aecidium stenhammariae Rostr. SPECIES
-=======
+# Aecidium stenhammariae Rostr. SPECIES
 
 #### Status
 ACCEPTED

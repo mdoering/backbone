@@ -1,5 +1,4 @@
-Morganella GENUS
-=======
+# Morganella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora ageratoides (Ellis & Everh.) Y.L. Guo SPECIES
-=======
+# Pseudocercospora ageratoides (Ellis & Everh.) Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

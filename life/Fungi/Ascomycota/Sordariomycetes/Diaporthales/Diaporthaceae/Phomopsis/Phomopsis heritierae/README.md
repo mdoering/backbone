@@ -1,5 +1,4 @@
-Phomopsis heritierae Novoss. SPECIES
-=======
+# Phomopsis heritierae Novoss. SPECIES
 
 #### Status
 ACCEPTED

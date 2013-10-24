@@ -1,5 +1,4 @@
-Pertusaria microstictica f. microstictica FORM
-=======
+# Pertusaria microstictica SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria microstictica f. microstictica
+null
 
 ### Remarks
 null

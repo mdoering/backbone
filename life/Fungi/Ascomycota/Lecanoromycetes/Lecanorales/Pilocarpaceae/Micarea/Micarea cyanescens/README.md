@@ -1,5 +1,4 @@
-Micarea cyanescens Poelt & Döbbeler SPECIES
-=======
+# Micarea cyanescens Poelt & Döbbeler SPECIES
 
 #### Status
 ACCEPTED

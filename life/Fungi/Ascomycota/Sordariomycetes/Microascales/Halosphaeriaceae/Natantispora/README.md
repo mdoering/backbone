@@ -1,5 +1,4 @@
-Natantispora J. Campb., J.L. Anderson & Shearer GENUS
-=======
+# Natantispora J. Campb., J.L. Anderson & Shearer GENUS
 
 #### Status
 ACCEPTED

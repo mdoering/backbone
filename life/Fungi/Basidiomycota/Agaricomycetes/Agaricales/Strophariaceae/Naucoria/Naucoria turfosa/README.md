@@ -1,5 +1,4 @@
-Naucoria turfosa Naveau SPECIES
-=======
+# Naucoria turfosa Naveau SPECIES
 
 #### Status
 ACCEPTED

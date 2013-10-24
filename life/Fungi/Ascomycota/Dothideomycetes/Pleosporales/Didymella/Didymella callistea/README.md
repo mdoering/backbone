@@ -1,5 +1,4 @@
-Didymella callistea (Syd.) Syd. SPECIES
-=======
+# Didymella callistea (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

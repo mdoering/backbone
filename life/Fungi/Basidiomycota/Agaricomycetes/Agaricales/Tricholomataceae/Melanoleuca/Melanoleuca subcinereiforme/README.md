@@ -1,5 +1,4 @@
-Melanoleuca subcinereiforme Murrill SPECIES
-=======
+# Melanoleuca subcinereiforme Murrill SPECIES
 
 #### Status
 ACCEPTED

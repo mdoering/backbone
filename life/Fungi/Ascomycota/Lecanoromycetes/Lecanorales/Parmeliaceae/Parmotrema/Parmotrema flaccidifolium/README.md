@@ -1,17 +1,16 @@
-Parmelia flaccidifolia Kurok. SPECIES
-=======
+# Parmotrema flaccidifolium (Kurok.) Streimann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 22: 94 (1986)
 
 #### Original name
-null
+Parmelia flacidifolia Kurok.
 
 ### Remarks
 null

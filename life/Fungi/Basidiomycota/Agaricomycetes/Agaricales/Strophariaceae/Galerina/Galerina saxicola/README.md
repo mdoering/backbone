@@ -1,5 +1,4 @@
-Galerina saxicola Svrcek SPECIES
-=======
+# Galerina saxicola Svrcek SPECIES
 
 #### Status
 ACCEPTED

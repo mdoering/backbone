@@ -1,5 +1,4 @@
-Lobaria billardierei Delise SPECIES
-=======
+# Lobaria billardierei Delise SPECIES
 
 #### Status
 ACCEPTED

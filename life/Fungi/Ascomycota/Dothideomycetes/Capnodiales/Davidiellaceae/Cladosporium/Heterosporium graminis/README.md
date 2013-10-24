@@ -1,5 +1,4 @@
-Heterosporium graminis McAlpine SPECIES
-=======
+# Heterosporium graminis McAlpine SPECIES
 
 #### Status
 ACCEPTED

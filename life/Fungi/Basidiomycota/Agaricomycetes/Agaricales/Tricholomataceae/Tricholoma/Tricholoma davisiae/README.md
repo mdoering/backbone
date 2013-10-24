@@ -1,5 +1,4 @@
-Tricholoma davisiae Peck SPECIES
-=======
+# Tricholoma davisiae Peck SPECIES
 
 #### Status
 ACCEPTED

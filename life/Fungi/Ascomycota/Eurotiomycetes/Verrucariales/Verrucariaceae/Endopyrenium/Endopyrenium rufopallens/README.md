@@ -1,5 +1,4 @@
-Endopyrenium rufopallens (Nyl.) Müll. Arg. SPECIES
-=======
+# Endopyrenium rufopallens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

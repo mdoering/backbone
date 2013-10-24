@@ -1,5 +1,4 @@
-Cladosporium phyllogenum K. Schub. SPECIES
-=======
+# Cladosporium phyllogenum K. Schub. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Microthelia exigua Müll. Arg. SPECIES
-=======
+# Mycomicrothelia exigua (Müll. Arg.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 14(2): 84 (1985)
 
 #### Original name
 Microthelia exigua Müll. Arg.

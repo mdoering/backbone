@@ -1,5 +1,4 @@
-Cortinarius pseudotubarius Robar, K.A. Harrison & Grund SPECIES
-=======
+# Cortinarius pseudotubarius Robar, K.A. Harrison & Grund SPECIES
 
 #### Status
 ACCEPTED

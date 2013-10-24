@@ -1,5 +1,4 @@
-Myxozyma monticola Pretor. & Spaaij, 1993 SPECIES
-=======
+# Myxozyma monticola Pretor. & Spaaij, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyolus lagunae Lázaro Ibiza SPECIES
-=======
+# Dictyolus lagunae Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

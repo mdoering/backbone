@@ -1,5 +1,4 @@
-Rhabdospora scrophulariae var. scrophulariae VARIETY
-=======
+# Rhabdospora scrophulariae P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 1: 440 (1935)
 
 #### Original name
-Rhabdospora scrophulariae var. scrophulariae
+Rhabdospora scrophulariae P. Karst.
 
 ### Remarks
 null

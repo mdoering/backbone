@@ -1,5 +1,4 @@
-Cucurbitaria rubefaciens Petr., 1923 SPECIES
-=======
+# Cucurbitaria rubefaciens Petr., 1923 SPECIES
 
 #### Status
 ACCEPTED

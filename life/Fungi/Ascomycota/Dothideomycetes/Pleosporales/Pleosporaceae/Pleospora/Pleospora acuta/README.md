@@ -1,5 +1,4 @@
-Pleospora acuta Fuckel SPECIES
-=======
+# Pleospora acuta Fuckel SPECIES
 
 #### Status
 ACCEPTED

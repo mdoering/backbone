@@ -1,5 +1,4 @@
-Compsocladium I.M. Lamb GENUS
-=======
+# Compsocladium I.M. Lamb GENUS
 
 #### Status
 ACCEPTED

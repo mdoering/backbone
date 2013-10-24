@@ -1,5 +1,4 @@
-Lachnocladium manaosense Henn. SPECIES
-=======
+# Lachnocladium manaosense Henn. SPECIES
 
 #### Status
 ACCEPTED

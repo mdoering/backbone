@@ -1,5 +1,4 @@
-Fusarium parasiticum Ellis & Kellerm. SPECIES
-=======
+# Fusarium parasiticum Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

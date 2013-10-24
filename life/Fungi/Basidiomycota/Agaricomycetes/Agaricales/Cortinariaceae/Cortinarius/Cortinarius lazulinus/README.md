@@ -1,5 +1,4 @@
-Cortinarius lazulinus E. Horak & M.M. Moser SPECIES
-=======
+# Cortinarius lazulinus E. Horak & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

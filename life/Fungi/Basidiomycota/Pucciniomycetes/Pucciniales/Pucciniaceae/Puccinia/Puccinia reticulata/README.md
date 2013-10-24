@@ -1,5 +1,4 @@
-Puccinia reticulata de Bary SPECIES
-=======
+# Puccinia reticulata de Bary SPECIES
 
 #### Status
 ACCEPTED

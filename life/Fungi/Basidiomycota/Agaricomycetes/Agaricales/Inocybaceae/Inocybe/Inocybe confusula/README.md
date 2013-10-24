@@ -1,5 +1,4 @@
-Inocybe confusula (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe confusula (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpon adsurgens Vain. SPECIES
-=======
+# Endocarpon adsurgens Vain. SPECIES
 
 #### Status
 ACCEPTED

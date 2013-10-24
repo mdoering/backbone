@@ -1,5 +1,4 @@
-Micrhystridium didymum Hu Yunxu, 1986 SPECIES
-=======
+# Micrhystridium didymum Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

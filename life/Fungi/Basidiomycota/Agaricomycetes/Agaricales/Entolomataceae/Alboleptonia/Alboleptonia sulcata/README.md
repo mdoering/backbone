@@ -1,5 +1,4 @@
-Alboleptonia sulcata T.J. Baroni & Lodge SPECIES
-=======
+# Alboleptonia sulcata T.J. Baroni & Lodge SPECIES
 
 #### Status
 ACCEPTED

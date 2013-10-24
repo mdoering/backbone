@@ -1,5 +1,4 @@
-Aspicilia oxneriana O.B. Blum SPECIES
-=======
+# Aspicilia oxneriana O.B. Blum SPECIES
 
 #### Status
 ACCEPTED

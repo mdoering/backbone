@@ -1,5 +1,4 @@
-Peronospora rossica Gäum. SPECIES
-=======
+# Peronospora rossica Gäum. SPECIES
 
 #### Status
 ACCEPTED

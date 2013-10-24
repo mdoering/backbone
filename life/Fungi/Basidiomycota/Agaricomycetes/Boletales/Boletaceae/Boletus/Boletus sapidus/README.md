@@ -1,5 +1,4 @@
-Boletus sapidus Harz SPECIES
-=======
+# Boletus sapidus Harz SPECIES
 
 #### Status
 ACCEPTED

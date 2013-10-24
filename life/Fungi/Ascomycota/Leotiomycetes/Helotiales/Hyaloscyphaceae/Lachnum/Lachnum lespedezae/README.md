@@ -1,5 +1,4 @@
-Lachnum lespedezae (Raitv.) Raitv. SPECIES
-=======
+# Lachnum lespedezae (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

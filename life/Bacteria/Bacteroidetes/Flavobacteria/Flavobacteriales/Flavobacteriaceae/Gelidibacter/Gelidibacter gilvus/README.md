@@ -1,5 +1,4 @@
-Gelidibacter gilvus Bowman & Nichols, 2005 SPECIES
-=======
+# Gelidibacter gilvus Bowman & Nichols, 2005 SPECIES
 
 #### Status
 ACCEPTED

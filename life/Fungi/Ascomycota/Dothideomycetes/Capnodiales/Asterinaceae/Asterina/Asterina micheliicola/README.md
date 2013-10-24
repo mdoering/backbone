@@ -1,5 +1,4 @@
-Asterina micheliicola B. Song, T.H. Li & Y.H. Shen SPECIES
-=======
+# Asterina micheliicola B. Song, T.H. Li & Y.H. Shen SPECIES
 
 #### Status
 ACCEPTED

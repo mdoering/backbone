@@ -1,5 +1,4 @@
-Inocybe subpelargonium Beller SPECIES
-=======
+# Inocybe subpelargonium Beller SPECIES
 
 #### Status
 ACCEPTED

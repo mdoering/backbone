@@ -1,5 +1,4 @@
-Phascolomyces articulosus Boedijn ex Benny & R.K. Benj., 1976 SPECIES
-=======
+# Phascolomyces articulosus Boedijn ex Benny & R.K. Benj., 1976 SPECIES
 
 #### Status
 ACCEPTED

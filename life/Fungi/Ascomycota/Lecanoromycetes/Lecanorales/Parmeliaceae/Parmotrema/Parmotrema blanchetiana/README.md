@@ -1,5 +1,4 @@
-Parmotrema blanchetiana (Hue) Hale SPECIES
-=======
+# Parmotrema blanchetiana (Hue) Hale SPECIES
 
 #### Status
 ACCEPTED

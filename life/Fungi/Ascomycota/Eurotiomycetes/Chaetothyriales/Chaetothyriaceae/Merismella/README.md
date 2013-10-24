@@ -1,5 +1,4 @@
-Merismella Syd. GENUS
-=======
+# Merismella Syd. GENUS
 
 #### Status
 ACCEPTED

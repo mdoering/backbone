@@ -1,5 +1,4 @@
-Linhartia luzonica Rehm SPECIES
-=======
+# Linhartia luzonica Rehm SPECIES
 
 #### Status
 ACCEPTED

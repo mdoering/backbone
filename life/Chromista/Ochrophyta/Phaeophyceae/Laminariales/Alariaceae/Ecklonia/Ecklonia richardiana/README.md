@@ -1,5 +1,4 @@
-Ecklonia richardiana J. Agardh SPECIES
-=======
+# Ecklonia richardiana J. Agardh SPECIES
 
 #### Status
 ACCEPTED

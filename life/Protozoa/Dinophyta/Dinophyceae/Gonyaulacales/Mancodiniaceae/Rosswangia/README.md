@@ -1,5 +1,4 @@
-Rosswangia W. Wille & H. Gocht, 1985 GENUS
-=======
+# Rosswangia W. Wille & H. Gocht, 1985 GENUS
 
 #### Status
 ACCEPTED

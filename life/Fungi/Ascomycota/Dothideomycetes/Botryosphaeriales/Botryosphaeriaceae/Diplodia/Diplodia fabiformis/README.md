@@ -1,5 +1,4 @@
-Diplodia fabiformis Pass. & Thüm. SPECIES
-=======
+# Diplodia fabiformis Pass. & Thüm. SPECIES
 
 #### Status
 ACCEPTED

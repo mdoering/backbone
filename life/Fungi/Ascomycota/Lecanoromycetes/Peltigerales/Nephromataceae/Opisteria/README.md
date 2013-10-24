@@ -1,5 +1,4 @@
-Opisteria GENUS
-=======
+# Opisteria GENUS
 
 #### Status
 ACCEPTED

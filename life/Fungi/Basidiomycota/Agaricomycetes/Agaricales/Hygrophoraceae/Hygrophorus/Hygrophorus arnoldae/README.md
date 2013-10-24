@@ -1,5 +1,4 @@
-Hygrophorus arnoldae (Murrill) Murrill SPECIES
-=======
+# Hygrophorus arnoldae (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora fuckelii (Thüm.) Jacz. SPECIES
-=======
+# Cercospora fuckelii (Thüm.) Jacz. SPECIES
 
 #### Status
 ACCEPTED

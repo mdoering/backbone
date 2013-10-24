@@ -1,5 +1,4 @@
-Terana hypochnoidea (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Terana hypochnoidea (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

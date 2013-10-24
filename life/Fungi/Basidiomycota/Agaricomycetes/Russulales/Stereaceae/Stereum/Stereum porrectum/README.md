@@ -1,5 +1,4 @@
-Stereum porrectum Fr. SPECIES
-=======
+# Stereum porrectum Fr. SPECIES
 
 #### Status
 ACCEPTED

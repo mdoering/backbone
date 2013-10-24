@@ -1,17 +1,16 @@
-Leucophleps gibbosum Harkn., 1924 SPECIES
-=======
+# Leucogaster odoratus (Harkn.) Zeller & C.W. Dodge, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Zeller & C. W. Dodge, Ann. Mo. bot. Gdn 11: 397 (1924)
+Ann. Mo. bot. Gdn 11: 396 (1924)
 
 #### Original name
-Leucophleps gibbosum Harkn., 1924
+Leucophleps odorata Harkn., 1899
 
 ### Remarks
 null

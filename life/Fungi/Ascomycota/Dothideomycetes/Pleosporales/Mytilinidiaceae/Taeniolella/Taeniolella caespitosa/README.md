@@ -1,5 +1,4 @@
-Taeniolella caespitosa M.S. Cole & D. Hawksw. SPECIES
-=======
+# Taeniolella caespitosa M.S. Cole & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia maculata Thaxt. SPECIES
-=======
+# Laboulbenia maculata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

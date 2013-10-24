@@ -1,5 +1,4 @@
-Agaricus aquifolii Fr. SPECIES
-=======
+# Agaricus aquifolii Fr. SPECIES
 
 #### Status
 ACCEPTED

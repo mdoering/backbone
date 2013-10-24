@@ -1,5 +1,4 @@
-Paraparmelia molybdiza (Nyl.) Elix & J. Johnst. SPECIES
-=======
+# Paraparmelia molybdiza (Nyl.) Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

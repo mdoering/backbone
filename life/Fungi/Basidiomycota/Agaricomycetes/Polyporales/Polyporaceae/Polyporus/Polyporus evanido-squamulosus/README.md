@@ -1,5 +1,4 @@
-Polyporus evanido-squamulosus Henn. SPECIES
-=======
+# Polyporus evanido-squamulosus Henn. SPECIES
 
 #### Status
 ACCEPTED

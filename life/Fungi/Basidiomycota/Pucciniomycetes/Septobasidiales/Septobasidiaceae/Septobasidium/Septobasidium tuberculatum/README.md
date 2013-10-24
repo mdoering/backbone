@@ -1,5 +1,4 @@
-Septobasidium tuberculatum Boedijn & B.A. Steinm. SPECIES
-=======
+# Septobasidium tuberculatum Boedijn & B.A. Steinm. SPECIES
 
 #### Status
 ACCEPTED

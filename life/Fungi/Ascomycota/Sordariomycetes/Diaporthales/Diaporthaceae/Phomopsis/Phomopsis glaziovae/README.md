@@ -1,17 +1,16 @@
-Phomopsis glazioviae Bond.-Mont. SPECIES
-=======
+# Phomopsis glaziovae Bond.-Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trudy Bot. Inst. Akad. Nauk SSSR, ser. 2, Sporov. Rast. 3: 758 (1936)
 
 #### Original name
-Phomopsis glazioviae Bond.-Mont.
+Phomopsis glaziovae Bond.-Mont.
 
 ### Remarks
 null

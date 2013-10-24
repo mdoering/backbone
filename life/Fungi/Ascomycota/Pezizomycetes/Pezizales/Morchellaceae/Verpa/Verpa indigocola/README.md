@@ -1,5 +1,4 @@
-Verpa indigocola Oudem. SPECIES
-=======
+# Verpa indigocola Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea pueblensis Cretz. SPECIES
-=======
+# Lecidea pueblensis Cretz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tympanis grovesii Ouell. & Piroz. SPECIES
-=======
+# Tympanis grovesii Ouell. & Piroz. SPECIES
 
 #### Status
 ACCEPTED

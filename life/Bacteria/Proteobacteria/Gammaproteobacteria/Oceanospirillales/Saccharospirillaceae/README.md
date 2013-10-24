@@ -1,5 +1,4 @@
-Saccharospirillaceae FAMILY
-=======
+# Saccharospirillaceae FAMILY
 
 #### Status
 ACCEPTED

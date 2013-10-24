@@ -1,5 +1,4 @@
-Leptonia fragrans (Hesler) Largent SPECIES
-=======
+# Leptonia fragrans (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

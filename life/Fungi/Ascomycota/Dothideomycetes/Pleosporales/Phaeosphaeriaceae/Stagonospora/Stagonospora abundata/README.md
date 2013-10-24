@@ -1,5 +1,4 @@
-Stagonospora abundata Kohlm. & Volkm.-Kohlm. SPECIES
-=======
+# Stagonospora abundata Kohlm. & Volkm.-Kohlm. SPECIES
 
 #### Status
 ACCEPTED

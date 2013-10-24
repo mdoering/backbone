@@ -1,5 +1,4 @@
-Psilocybe simplex E. Horak SPECIES
-=======
+# Psilocybe simplex E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidella aenea (Dufour) Lojka SPECIES
-=======
+# Lecidella aenea (Dufour) Lojka SPECIES
 
 #### Status
 ACCEPTED

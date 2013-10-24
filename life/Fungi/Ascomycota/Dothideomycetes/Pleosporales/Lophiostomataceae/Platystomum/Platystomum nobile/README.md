@@ -1,5 +1,4 @@
-Platystomum nobile Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum nobile Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

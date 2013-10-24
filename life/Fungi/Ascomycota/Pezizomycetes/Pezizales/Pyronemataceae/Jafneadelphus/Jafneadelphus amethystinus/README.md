@@ -1,17 +1,16 @@
-Humaria phillipsii (Cooke) Sacc., 1889 SPECIES
-=======
+# Jafneadelphus amethystinus (W. Phillips) Brumm., 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 140 (1889)
+Persoonia 5(3): 225 (1969)
 
 #### Original name
-Peziza phillipsii Cooke, 1876
+Ascobolus amethystinus W. Phillips, 1875
 
 ### Remarks
 null

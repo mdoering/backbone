@@ -1,5 +1,4 @@
-Microspongium Reinke, 1888 GENUS
-=======
+# Microspongium Reinke, 1888 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitopilus subignatus (Britzelm.) Sacc. SPECIES
-=======
+# Clitopilus subignatus (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora viburni Sacc. SPECIES
-=======
+# Cercospora viburni Sacc. SPECIES
 
 #### Status
 ACCEPTED

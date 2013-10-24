@@ -1,5 +1,4 @@
-Treponema porcinum Nordhoff et al., 2005 SPECIES
-=======
+# Treponema porcinum Nordhoff et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

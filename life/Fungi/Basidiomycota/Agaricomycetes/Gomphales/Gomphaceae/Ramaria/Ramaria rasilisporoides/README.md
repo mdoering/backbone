@@ -1,5 +1,4 @@
-Ramaria rasilisporoides Exeter SPECIES
-=======
+# Ramaria rasilisporoides Exeter SPECIES
 
 #### Status
 ACCEPTED

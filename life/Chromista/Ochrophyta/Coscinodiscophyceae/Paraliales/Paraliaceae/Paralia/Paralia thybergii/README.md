@@ -1,5 +1,4 @@
-Paralia thybergii B. Stabell SPECIES
-=======
+# Paralia thybergii B. Stabell SPECIES
 
 #### Status
 ACCEPTED

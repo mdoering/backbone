@@ -1,5 +1,4 @@
-Dimeriella ammophilae Hansf. SPECIES
-=======
+# Dimeriella ammophilae Hansf. SPECIES
 
 #### Status
 ACCEPTED

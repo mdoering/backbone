@@ -1,5 +1,4 @@
-Sticta quercizans var. quercizans VARIETY
-=======
+# Sticta quercizans (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta quercizans var. quercizans
+Parmelia quercizans Ach.
 
 ### Remarks
 null

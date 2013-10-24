@@ -1,5 +1,4 @@
-Hypocrea gelatinoperidia Yoshim. Doi SPECIES
-=======
+# Hypocrea gelatinoperidia Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

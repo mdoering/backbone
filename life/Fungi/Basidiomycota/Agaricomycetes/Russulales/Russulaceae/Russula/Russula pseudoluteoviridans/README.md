@@ -1,5 +1,4 @@
-Russula pseudoluteoviridans Romagn. SPECIES
-=======
+# Russula pseudoluteoviridans Romagn. SPECIES
 
 #### Status
 ACCEPTED

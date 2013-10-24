@@ -1,5 +1,4 @@
-Torula brevis (Bonord.) Sacc. & Traverso SPECIES
-=======
+# Torula brevis (Bonord.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

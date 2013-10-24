@@ -1,5 +1,4 @@
-Pseudoholophrya terricola Berger, Foissner & Adam, 1984 SPECIES
-=======
+# Pseudoholophrya terricola Berger, Foissner & Adam, 1984 SPECIES
 
 #### Status
 ACCEPTED

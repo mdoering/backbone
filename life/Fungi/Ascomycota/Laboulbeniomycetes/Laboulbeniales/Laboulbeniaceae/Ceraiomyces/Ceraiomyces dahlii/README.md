@@ -1,5 +1,4 @@
-Ceraiomyces dahlii Thaxt. SPECIES
-=======
+# Ceraiomyces dahlii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodoscypha Dissing & Sivertsen GENUS
-=======
+# Rhodoscypha Dissing & Sivertsen GENUS
 
 #### Status
 ACCEPTED

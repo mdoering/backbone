@@ -1,8 +1,7 @@
-Chamaesiphon curvatus f. elongatus Nordstedt FORM
-=======
+# Chamaesiphon elongatus (Nortdstedt) Kann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

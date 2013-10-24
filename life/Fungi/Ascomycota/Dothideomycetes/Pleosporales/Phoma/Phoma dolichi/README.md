@@ -1,5 +1,4 @@
-Phoma dolichi Verpl. & Van den Broecke SPECIES
-=======
+# Phoma dolichi Verpl. & Van den Broecke SPECIES
 
 #### Status
 ACCEPTED

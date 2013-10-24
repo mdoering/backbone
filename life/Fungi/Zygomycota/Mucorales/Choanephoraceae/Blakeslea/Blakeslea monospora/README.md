@@ -1,14 +1,13 @@
-Choanephora monospora (B.S. Mehrotra & Baijal) Milko & Beliakova, 1969 SPECIES
-=======
+# Blakeslea monospora B.S. Mehrotra & Baijal, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mikrobiologiya 28: 901 (1969)
+J. Elisha Mitchell scient. Soc. 84: 207 (1968)
 
 #### Original name
 Blakeslea monospora B.S. Mehrotra & Baijal, 1968

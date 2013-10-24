@@ -1,5 +1,4 @@
-Sporopodium oudemansii Groenh. SPECIES
-=======
+# Sporopodium oudemansii Groenh. SPECIES
 
 #### Status
 ACCEPTED

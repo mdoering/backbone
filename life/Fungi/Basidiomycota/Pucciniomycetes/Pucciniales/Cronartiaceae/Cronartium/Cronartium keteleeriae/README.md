@@ -1,5 +1,4 @@
-Cronartium keteleeriae F.L. Tai SPECIES
-=======
+# Cronartium keteleeriae F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

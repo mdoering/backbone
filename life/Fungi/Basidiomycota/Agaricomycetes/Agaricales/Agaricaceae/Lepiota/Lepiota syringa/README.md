@@ -1,5 +1,4 @@
-Lepiota syringa Pegler SPECIES
-=======
+# Lepiota syringa Pegler SPECIES
 
 #### Status
 ACCEPTED

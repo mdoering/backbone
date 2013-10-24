@@ -1,5 +1,4 @@
-Asteroma spireae Kabát & Bubák SPECIES
-=======
+# Asteroma spireae Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

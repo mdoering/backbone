@@ -1,5 +1,4 @@
-Protoocridosphaeridium elandii Timofeev, 1962 SPECIES
-=======
+# Protoocridosphaeridium elandii Timofeev, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exidia impressa Fr. SPECIES
-=======
+# Exidia impressa Fr. SPECIES
 
 #### Status
 ACCEPTED

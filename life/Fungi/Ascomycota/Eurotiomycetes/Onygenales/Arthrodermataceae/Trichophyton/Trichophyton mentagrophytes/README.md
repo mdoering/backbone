@@ -1,17 +1,16 @@
-Trichophyton mentagrophytes subsp. mentagrophytes SUBSPECIES
-=======
+# Trichophyton mentagrophytes (C.P. Robin) Sabour. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bouchard Traite de Pathologie generale 2: 912 (1895)
 
 #### Original name
-null
+Microsporum mentagrophytes C.P. Robin, 1853
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Blastocladiella microcystogena Whiffen, 1946 SPECIES
-=======
+# Blastocladiella microcystogena Whiffen, 1946 SPECIES
 
 #### Status
 ACCEPTED

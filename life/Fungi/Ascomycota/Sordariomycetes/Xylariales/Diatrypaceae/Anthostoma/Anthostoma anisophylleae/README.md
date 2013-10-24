@@ -1,5 +1,4 @@
-Anthostoma anisophylleae (Petr.) Arx & E. Müll. SPECIES
-=======
+# Anthostoma anisophylleae (Petr.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

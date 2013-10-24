@@ -1,5 +1,4 @@
-Parmelia thelephoroides Ach. SPECIES
-=======
+# Parmelia thelephoroides Ach. SPECIES
 
 #### Status
 ACCEPTED

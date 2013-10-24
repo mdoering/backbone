@@ -1,5 +1,4 @@
-Merulius demissus (Berk.) Pat. SPECIES
-=======
+# Merulius demissus (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

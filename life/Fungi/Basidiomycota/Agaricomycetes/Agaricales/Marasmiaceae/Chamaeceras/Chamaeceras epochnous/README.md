@@ -1,5 +1,4 @@
-Chamaeceras epochnous (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras epochnous (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

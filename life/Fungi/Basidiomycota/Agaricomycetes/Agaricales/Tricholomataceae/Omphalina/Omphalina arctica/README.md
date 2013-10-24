@@ -1,5 +1,4 @@
-Omphalina arctica Lamoure, 1982 SPECIES
-=======
+# Omphalina arctica Lamoure, 1982 SPECIES
 
 #### Status
 ACCEPTED

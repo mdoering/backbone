@@ -1,5 +1,4 @@
-Podosporiella glomerata (Harkn.) Bonar SPECIES
-=======
+# Podosporiella glomerata (Harkn.) Bonar SPECIES
 
 #### Status
 ACCEPTED

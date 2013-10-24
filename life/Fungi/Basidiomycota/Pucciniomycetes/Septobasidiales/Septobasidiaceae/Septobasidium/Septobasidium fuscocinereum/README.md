@@ -1,17 +1,16 @@
-Septobasidium fusco-cinereum Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium fuscocinereum Bres. ex Couch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+The Genus Septobasidium (Chapel Hill) 83 (1938)
 
 #### Original name
-Septobasidium fusco-cinereum Couch ex L.D. Gómez & Henk
+Septobasidium fuscocinereum Bres. ex Couch
 
 ### Remarks
 null

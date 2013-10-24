@@ -1,5 +1,4 @@
-Epithele bambusina Rick SPECIES
-=======
+# Epithele bambusina Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora potentillae-anserinae Gäum. SPECIES
-=======
+# Peronospora potentillae-anserinae Gäum. SPECIES
 
 #### Status
 ACCEPTED

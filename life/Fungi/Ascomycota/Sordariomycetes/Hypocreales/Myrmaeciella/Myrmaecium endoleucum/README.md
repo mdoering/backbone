@@ -1,5 +1,4 @@
-Myrmaecium endoleucum Sacc. SPECIES
-=======
+# Myrmaecium endoleucum Sacc. SPECIES
 
 #### Status
 ACCEPTED

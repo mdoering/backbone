@@ -1,5 +1,4 @@
-Polyblastia nevoi S. Zelenko, O. Breuss & S. Y. Kondr. SPECIES
-=======
+# Polyblastia nevoi S. Zelenko, O. Breuss & S. Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

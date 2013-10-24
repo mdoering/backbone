@@ -1,5 +1,4 @@
-Clitocybe multicarpa H.E. Bigelow SPECIES
-=======
+# Clitocybe multicarpa H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

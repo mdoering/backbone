@@ -1,5 +1,4 @@
-Cercosporina scrophulariae Moesz SPECIES
-=======
+# Cercosporina scrophulariae Moesz SPECIES
 
 #### Status
 ACCEPTED

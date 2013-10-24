@@ -1,5 +1,4 @@
-Arthothelium cordiae (Vain.) Zahlbr. SPECIES
-=======
+# Arthothelium cordiae (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

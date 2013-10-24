@@ -1,5 +1,4 @@
-Cortinarius viola J.E. Lange SPECIES
-=======
+# Cortinarius viola J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

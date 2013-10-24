@@ -1,5 +1,4 @@
-Polyporus plorans (Pat.) Sacc. & D. Sacc. SPECIES
-=======
+# Polyporus plorans (Pat.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

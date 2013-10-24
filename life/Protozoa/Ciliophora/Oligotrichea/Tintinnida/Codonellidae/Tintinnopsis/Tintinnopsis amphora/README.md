@@ -1,5 +1,4 @@
-Tintinnopsis amphora Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnopsis amphora Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

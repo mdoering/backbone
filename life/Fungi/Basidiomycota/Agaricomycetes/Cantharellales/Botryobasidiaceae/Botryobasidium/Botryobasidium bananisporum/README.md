@@ -1,5 +1,4 @@
-Botryobasidium bananisporum Boidin SPECIES
-=======
+# Botryobasidium bananisporum Boidin SPECIES
 
 #### Status
 ACCEPTED

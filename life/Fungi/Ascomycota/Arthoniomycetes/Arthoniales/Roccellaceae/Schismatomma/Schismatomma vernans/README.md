@@ -1,5 +1,4 @@
-Schismatomma vernans (Tuck.) Zahlbr. SPECIES
-=======
+# Schismatomma vernans (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

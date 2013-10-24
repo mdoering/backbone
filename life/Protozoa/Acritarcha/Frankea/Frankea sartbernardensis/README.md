@@ -1,5 +1,4 @@
-Frankea sartbernardensis (Martin, 1966) Colbath, 1986 SPECIES
-=======
+# Frankea sartbernardensis (Martin, 1966) Colbath, 1986 SPECIES
 
 #### Status
 ACCEPTED

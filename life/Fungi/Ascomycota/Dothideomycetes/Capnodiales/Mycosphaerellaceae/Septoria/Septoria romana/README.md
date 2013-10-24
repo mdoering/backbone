@@ -1,5 +1,4 @@
-Septoria romana D. Sacc. SPECIES
-=======
+# Septoria romana D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

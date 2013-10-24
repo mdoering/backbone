@@ -1,5 +1,4 @@
-Nectria uredinophila (Syd. & P. Syd.) Rossman SPECIES
-=======
+# Nectria uredinophila (Syd. & P. Syd.) Rossman SPECIES
 
 #### Status
 ACCEPTED

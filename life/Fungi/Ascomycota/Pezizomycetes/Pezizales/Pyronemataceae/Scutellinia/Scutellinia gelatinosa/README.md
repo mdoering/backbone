@@ -1,5 +1,4 @@
-Scutellinia gelatinosa S.C. Kaushal & R. Kaushal SPECIES
-=======
+# Scutellinia gelatinosa S.C. Kaushal & R. Kaushal SPECIES
 
 #### Status
 ACCEPTED

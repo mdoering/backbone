@@ -1,17 +1,16 @@
-Cenomyce uncialis var. uncialis VARIETY
-=======
+# Cladonia uncialis (L.) Weber ex F. H. Wigg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. (1810)
+null
 
 #### Original name
-Cenomyce uncialis var. uncialis
+Cladonia uncialis (L.) Weber ex F. H. Wigg.
 
 ### Remarks
 null

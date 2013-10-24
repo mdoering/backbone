@@ -1,5 +1,4 @@
-Dialonectria papyrogena (Sacc. & Penz.) Cooke SPECIES
-=======
+# Dialonectria papyrogena (Sacc. & Penz.) Cooke SPECIES
 
 #### Status
 ACCEPTED

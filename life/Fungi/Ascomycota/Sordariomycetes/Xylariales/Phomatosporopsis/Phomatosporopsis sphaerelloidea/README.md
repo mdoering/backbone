@@ -1,5 +1,4 @@
-Phomatosporopsis sphaerelloidea (Höhn.) Petr. SPECIES
-=======
+# Phomatosporopsis sphaerelloidea (Höhn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

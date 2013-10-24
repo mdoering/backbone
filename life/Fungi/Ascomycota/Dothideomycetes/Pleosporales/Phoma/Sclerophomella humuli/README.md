@@ -1,5 +1,4 @@
-Sclerophomella humuli Syd., 1929 SPECIES
-=======
+# Sclerophomella humuli Syd., 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cyathicula dentata var. dentata VARIETY
-=======
+# Cistella dentata (Pers.) Quél., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 307 (1889)
+Enchir. fung. (Paris) 319 (1886)
 
 #### Original name
-Cyathicula dentata var. dentata
+null
 
 ### Remarks
 null

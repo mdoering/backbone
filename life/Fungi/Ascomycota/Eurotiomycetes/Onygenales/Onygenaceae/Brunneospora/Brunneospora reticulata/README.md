@@ -1,5 +1,4 @@
-Brunneospora reticulata Guarro & Punsola, 1987 SPECIES
-=======
+# Brunneospora reticulata Guarro & Punsola, 1987 SPECIES
 
 #### Status
 ACCEPTED

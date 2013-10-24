@@ -1,5 +1,4 @@
-Leptosphaeria chondrii Rosenv., 1906 SPECIES
-=======
+# Leptosphaeria chondrii Rosenv., 1906 SPECIES
 
 #### Status
 ACCEPTED

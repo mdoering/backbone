@@ -1,5 +1,4 @@
-Tricladiospora stricta Nawawi & Kuthub., 1988 SPECIES
-=======
+# Tricladiospora stricta Nawawi & Kuthub., 1988 SPECIES
 
 #### Status
 ACCEPTED

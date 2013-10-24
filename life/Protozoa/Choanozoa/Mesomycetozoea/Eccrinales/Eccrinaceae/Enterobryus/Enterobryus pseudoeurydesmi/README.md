@@ -1,5 +1,4 @@
-Enterobryus pseudoeurydesmi Tuzet & Manier SPECIES
-=======
+# Enterobryus pseudoeurydesmi Tuzet & Manier SPECIES
 
 #### Status
 ACCEPTED

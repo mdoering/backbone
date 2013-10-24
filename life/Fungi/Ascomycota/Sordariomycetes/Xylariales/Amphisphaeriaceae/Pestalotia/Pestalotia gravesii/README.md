@@ -1,5 +1,4 @@
-Pestalotia gravesii Traverso SPECIES
-=======
+# Pestalotia gravesii Traverso SPECIES
 
 #### Status
 ACCEPTED

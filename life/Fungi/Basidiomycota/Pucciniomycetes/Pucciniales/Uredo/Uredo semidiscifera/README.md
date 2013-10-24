@@ -1,5 +1,4 @@
-Uredo semidiscifera Berndt SPECIES
-=======
+# Uredo semidiscifera Berndt SPECIES
 
 #### Status
 ACCEPTED

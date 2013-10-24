@@ -1,5 +1,4 @@
-Graphis schroederi Zahlbr. SPECIES
-=======
+# Graphis schroederi Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

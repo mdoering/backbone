@@ -1,5 +1,4 @@
-Dialonectria massariae (Pass.) Cooke SPECIES
-=======
+# Dialonectria massariae (Pass.) Cooke SPECIES
 
 #### Status
 ACCEPTED

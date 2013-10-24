@@ -1,5 +1,4 @@
-Cordyceps geotrupis Teng SPECIES
-=======
+# Cordyceps geotrupis Teng SPECIES
 
 #### Status
 ACCEPTED

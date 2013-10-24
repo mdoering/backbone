@@ -1,5 +1,4 @@
-Micropeltella constricta F. Stevens & Manter SPECIES
-=======
+# Micropeltella constricta F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

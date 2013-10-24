@@ -1,5 +1,4 @@
-Marasmius argentinensis Speg. SPECIES
-=======
+# Marasmius argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

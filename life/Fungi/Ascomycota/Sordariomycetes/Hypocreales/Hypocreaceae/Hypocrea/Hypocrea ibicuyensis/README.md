@@ -1,5 +1,4 @@
-Hypocrea ibicuyensis Speg. SPECIES
-=======
+# Hypocrea ibicuyensis Speg. SPECIES
 
 #### Status
 ACCEPTED

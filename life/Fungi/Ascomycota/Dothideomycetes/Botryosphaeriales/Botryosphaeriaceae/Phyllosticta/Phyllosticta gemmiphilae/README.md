@@ -1,5 +1,4 @@
-Phyllosticta gemmiphilae X.F. Chen & H.Ji Hu SPECIES
-=======
+# Phyllosticta gemmiphilae X.F. Chen & H.Ji Hu SPECIES
 
 #### Status
 ACCEPTED

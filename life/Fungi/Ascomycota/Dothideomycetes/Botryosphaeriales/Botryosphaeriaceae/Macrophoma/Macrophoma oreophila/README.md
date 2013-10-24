@@ -1,5 +1,4 @@
-Macrophoma oreophila Sacc. SPECIES
-=======
+# Macrophoma oreophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

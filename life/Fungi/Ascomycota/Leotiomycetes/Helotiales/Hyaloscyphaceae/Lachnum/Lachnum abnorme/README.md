@@ -1,17 +1,16 @@
-Erinella longispora var. lurida Starbäck VARIETY
-=======
+# Lachnum abnorme (Mont.) J.H. Haines & Dumont, 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 19: 10 (1984)
 
 #### Original name
-Erinella longispora var. lurida Starbäck
+null
 
 ### Remarks
 null

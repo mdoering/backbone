@@ -1,5 +1,4 @@
-Capnobotrys dingleyae S. Hughes, 1974 SPECIES
-=======
+# Capnobotrys dingleyae S. Hughes, 1974 SPECIES
 
 #### Status
 ACCEPTED

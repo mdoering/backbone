@@ -1,5 +1,4 @@
-Paractedoctema Song & Wilbert, 2000 GENUS
-=======
+# Paractedoctema Song & Wilbert, 2000 GENUS
 
 #### Status
 ACCEPTED

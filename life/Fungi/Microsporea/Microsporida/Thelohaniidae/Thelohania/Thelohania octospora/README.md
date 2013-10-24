@@ -1,5 +1,4 @@
-Thelohania octospora Henneguy SPECIES
-=======
+# Thelohania octospora Henneguy SPECIES
 
 #### Status
 ACCEPTED

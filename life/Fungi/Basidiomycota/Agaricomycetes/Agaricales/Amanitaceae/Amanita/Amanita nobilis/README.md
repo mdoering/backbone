@@ -1,5 +1,4 @@
-Amanita nobilis Bolton SPECIES
-=======
+# Amanita nobilis Bolton SPECIES
 
 #### Status
 ACCEPTED

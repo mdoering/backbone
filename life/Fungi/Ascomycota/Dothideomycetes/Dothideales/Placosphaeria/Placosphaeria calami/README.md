@@ -1,5 +1,4 @@
-Placosphaeria calami Delacr. SPECIES
-=======
+# Placosphaeria calami Delacr. SPECIES
 
 #### Status
 ACCEPTED

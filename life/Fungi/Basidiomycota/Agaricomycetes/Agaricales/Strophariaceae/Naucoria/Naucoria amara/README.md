@@ -1,5 +1,4 @@
-Naucoria amara Murrill SPECIES
-=======
+# Naucoria amara Murrill SPECIES
 
 #### Status
 ACCEPTED

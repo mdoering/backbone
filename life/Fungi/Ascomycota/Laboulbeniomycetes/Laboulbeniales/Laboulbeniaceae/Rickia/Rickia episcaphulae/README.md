@@ -1,5 +1,4 @@
-Rickia episcaphulae Thaxt. SPECIES
-=======
+# Rickia episcaphulae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

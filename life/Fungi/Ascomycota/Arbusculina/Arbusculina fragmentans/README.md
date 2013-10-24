@@ -1,5 +1,4 @@
-Arbusculina fragmentans Marvanová SPECIES
-=======
+# Arbusculina fragmentans Marvanová SPECIES
 
 #### Status
 ACCEPTED

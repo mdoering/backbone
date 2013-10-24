@@ -1,5 +1,4 @@
-Strickeria trimorpha (G.F. Atk.) House SPECIES
-=======
+# Strickeria trimorpha (G.F. Atk.) House SPECIES
 
 #### Status
 ACCEPTED

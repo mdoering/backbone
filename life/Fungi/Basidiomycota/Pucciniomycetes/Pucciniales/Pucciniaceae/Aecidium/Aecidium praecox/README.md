@@ -1,5 +1,4 @@
-Aecidium praecox Bubák SPECIES
-=======
+# Aecidium praecox Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora aerva-lanatae Raghu Ram & Mallaiah SPECIES
-=======
+# Cercospora aervae-lanatae Raghu Ram & Mallaiah SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 100(3): 296 (1996)
 
 #### Original name
-Cercospora aerva-lanatae Raghu Ram & Mallaiah
+Cercospora aervae-lanatae Raghu Ram & Mallaiah
 
 ### Remarks
 null

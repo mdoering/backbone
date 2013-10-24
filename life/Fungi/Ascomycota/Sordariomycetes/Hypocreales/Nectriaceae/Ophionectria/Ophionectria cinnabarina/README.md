@@ -1,5 +1,4 @@
-Ophionectria cinnabarina Henn. SPECIES
-=======
+# Ophionectria cinnabarina Henn. SPECIES
 
 #### Status
 ACCEPTED

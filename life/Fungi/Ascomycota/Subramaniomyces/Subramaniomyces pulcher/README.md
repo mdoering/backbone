@@ -1,5 +1,4 @@
-Subramaniomyces pulcher A.C. Cruz, Gusmão & R.F. Castañeda SPECIES
-=======
+# Subramaniomyces pulcher A.C. Cruz, Gusmão & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

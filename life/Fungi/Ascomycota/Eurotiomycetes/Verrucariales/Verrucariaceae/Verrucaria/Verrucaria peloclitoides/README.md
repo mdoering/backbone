@@ -1,5 +1,4 @@
-Verrucaria peloclitoides Vain. SPECIES
-=======
+# Verrucaria peloclitoides Vain. SPECIES
 
 #### Status
 ACCEPTED

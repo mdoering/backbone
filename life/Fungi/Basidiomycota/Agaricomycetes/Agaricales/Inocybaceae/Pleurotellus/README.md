@@ -1,5 +1,4 @@
-Pleurotellus GENUS
-=======
+# Pleurotellus GENUS
 
 #### Status
 ACCEPTED

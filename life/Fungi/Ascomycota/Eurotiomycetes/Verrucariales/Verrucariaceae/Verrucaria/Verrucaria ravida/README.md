@@ -1,5 +1,4 @@
-Verrucaria ravida Hoffm. SPECIES
-=======
+# Verrucaria ravida Hoffm. SPECIES
 
 #### Status
 ACCEPTED

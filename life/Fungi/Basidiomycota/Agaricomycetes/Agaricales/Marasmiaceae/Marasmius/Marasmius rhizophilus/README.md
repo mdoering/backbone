@@ -1,5 +1,4 @@
-Marasmius rhizophilus (V. Brig.) Fr. SPECIES
-=======
+# Marasmius rhizophilus (V. Brig.) Fr. SPECIES
 
 #### Status
 ACCEPTED

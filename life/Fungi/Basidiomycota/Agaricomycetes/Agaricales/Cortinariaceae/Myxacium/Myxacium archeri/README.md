@@ -1,5 +1,4 @@
-Myxacium archeri (Berk.) Y.S. Chang & Kantvilas SPECIES
-=======
+# Myxacium archeri (Berk.) Y.S. Chang & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

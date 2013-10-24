@@ -1,5 +1,4 @@
-Ceuthospora pulvinata (Petr.) Petr. SPECIES
-=======
+# Ceuthospora pulvinata (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

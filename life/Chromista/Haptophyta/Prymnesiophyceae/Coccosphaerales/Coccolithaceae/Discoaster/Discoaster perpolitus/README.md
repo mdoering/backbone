@@ -1,5 +1,4 @@
-Discoaster perpolitus Martini, 1961 SPECIES
-=======
+# Discoaster perpolitus Martini, 1961 SPECIES
 
 #### Status
 ACCEPTED

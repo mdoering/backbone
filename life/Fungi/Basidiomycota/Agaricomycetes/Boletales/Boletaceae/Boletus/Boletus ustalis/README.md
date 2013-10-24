@@ -1,5 +1,4 @@
-Boletus ustalis Berk. SPECIES
-=======
+# Boletus ustalis Berk. SPECIES
 
 #### Status
 ACCEPTED

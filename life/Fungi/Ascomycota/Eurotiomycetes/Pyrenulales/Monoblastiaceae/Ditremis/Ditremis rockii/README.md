@@ -1,5 +1,4 @@
-Ditremis rockii (Zahlbr.) Makhija & Patw. SPECIES
-=======
+# Ditremis rockii (Zahlbr.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

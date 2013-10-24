@@ -1,5 +1,4 @@
-Ilytheomyces panamensis Thaxt. SPECIES
-=======
+# Ilytheomyces panamensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

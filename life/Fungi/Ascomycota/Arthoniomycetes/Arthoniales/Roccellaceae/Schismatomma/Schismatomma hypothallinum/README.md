@@ -1,5 +1,4 @@
-Schismatomma hypothallinum (Zahlbr.) Hasse SPECIES
-=======
+# Schismatomma hypothallinum (Zahlbr.) Hasse SPECIES
 
 #### Status
 ACCEPTED

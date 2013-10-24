@@ -1,5 +1,4 @@
-Diplodia pseudodiplodia Fuckel SPECIES
-=======
+# Diplodia pseudodiplodia Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeophysalospora H.J. Swart GENUS
-=======
+# Clypeophysalospora H.J. Swart GENUS
 
 #### Status
 ACCEPTED

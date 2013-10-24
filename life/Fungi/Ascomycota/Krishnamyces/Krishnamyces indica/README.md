@@ -1,5 +1,4 @@
-Krishnamyces indica Hosag., 2003 SPECIES
-=======
+# Krishnamyces indica Hosag., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diploschistes subfarinaceus H. Magn. SPECIES
-=======
+# Diploschistes subfarinaceus H. Magn. SPECIES
 
 #### Status
 ACCEPTED

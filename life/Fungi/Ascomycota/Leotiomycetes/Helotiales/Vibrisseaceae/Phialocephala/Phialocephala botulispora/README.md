@@ -1,5 +1,4 @@
-Phialocephala botulispora (Cole & W.B. Kendr.) Grünig & T.N. Sieber SPECIES
-=======
+# Phialocephala botulispora (Cole & W.B. Kendr.) Grünig & T.N. Sieber SPECIES
 
 #### Status
 ACCEPTED

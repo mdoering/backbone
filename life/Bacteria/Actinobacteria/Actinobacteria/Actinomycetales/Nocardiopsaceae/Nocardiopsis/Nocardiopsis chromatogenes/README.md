@@ -1,5 +1,4 @@
-Nocardiopsis chromatogenes Li et al., 2006 SPECIES
-=======
+# Nocardiopsis chromatogenes Li et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

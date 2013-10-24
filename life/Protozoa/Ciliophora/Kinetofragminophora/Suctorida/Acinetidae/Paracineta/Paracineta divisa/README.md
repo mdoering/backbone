@@ -1,5 +1,4 @@
-Paracineta divisa SPECIES
-=======
+# Paracineta divisa SPECIES
 
 #### Status
 ACCEPTED

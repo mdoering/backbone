@@ -1,5 +1,4 @@
-Cladoconidium articulatum Bandoni & Tubaki, 1985 SPECIES
-=======
+# Cladoconidium articulatum Bandoni & Tubaki, 1985 SPECIES
 
 #### Status
 ACCEPTED

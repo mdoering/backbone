@@ -1,5 +1,4 @@
-Heteronema proteus Christen, 1962 SPECIES
-=======
+# Heteronema proteus Christen, 1962 SPECIES
 
 #### Status
 ACCEPTED

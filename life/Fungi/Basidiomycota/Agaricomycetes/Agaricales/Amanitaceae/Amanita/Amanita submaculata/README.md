@@ -1,5 +1,4 @@
-Amanita submaculata Peck SPECIES
-=======
+# Amanita submaculata Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyalnum GENUS
-=======
+# Thyalnum GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria zerbina De Not. SPECIES
-=======
+# Amphisphaeria zerbina De Not. SPECIES
 
 #### Status
 ACCEPTED

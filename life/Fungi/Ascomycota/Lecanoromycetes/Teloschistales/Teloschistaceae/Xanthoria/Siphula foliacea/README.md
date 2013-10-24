@@ -1,5 +1,4 @@
-Siphula foliacea D.J. Galloway, 1983 SPECIES
-=======
+# Siphula foliacea D.J. Galloway, 1983 SPECIES
 
 #### Status
 DOUBTFUL

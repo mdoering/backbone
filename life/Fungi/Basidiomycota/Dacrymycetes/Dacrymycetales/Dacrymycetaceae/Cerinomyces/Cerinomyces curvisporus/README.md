@@ -1,5 +1,4 @@
-Cerinomyces curvisporus N. Maek. & M. Zang, 1997 SPECIES
-=======
+# Cerinomyces curvisporus N. Maek. & M. Zang, 1997 SPECIES
 
 #### Status
 ACCEPTED

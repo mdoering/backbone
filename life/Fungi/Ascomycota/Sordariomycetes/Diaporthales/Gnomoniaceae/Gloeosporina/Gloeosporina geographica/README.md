@@ -1,5 +1,4 @@
-Gloeosporina geographica (Desm.) Höhn. SPECIES
-=======
+# Gloeosporina geographica (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

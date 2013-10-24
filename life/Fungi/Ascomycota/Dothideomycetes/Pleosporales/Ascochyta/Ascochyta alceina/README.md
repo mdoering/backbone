@@ -1,5 +1,4 @@
-Ascochyta alceina Lambotte & Fautrey SPECIES
-=======
+# Ascochyta alceina Lambotte & Fautrey SPECIES
 
 #### Status
 ACCEPTED

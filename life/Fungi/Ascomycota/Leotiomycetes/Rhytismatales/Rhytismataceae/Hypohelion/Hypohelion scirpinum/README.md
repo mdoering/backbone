@@ -1,14 +1,13 @@
-Hypoderma scirpinum Pers. ex DC., 1815 SPECIES
-=======
+# Hypohelion scirpinum (DC.) P.R. Johnst., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 166 (1815)
+Mycotaxon 39: 221 (1990)
 
 #### Original name
 Hypoderma scirpinum Pers. ex DC., 1815

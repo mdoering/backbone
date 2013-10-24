@@ -1,5 +1,4 @@
-Macrophoma ricini (Cooke) Berl. & Voglino SPECIES
-=======
+# Macrophoma ricini (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

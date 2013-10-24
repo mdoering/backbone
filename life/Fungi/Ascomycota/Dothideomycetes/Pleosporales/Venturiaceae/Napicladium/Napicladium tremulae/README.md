@@ -1,5 +1,4 @@
-Napicladium tremulae (A.B. Frank) Sacc. SPECIES
-=======
+# Napicladium tremulae (A.B. Frank) Sacc. SPECIES
 
 #### Status
 ACCEPTED

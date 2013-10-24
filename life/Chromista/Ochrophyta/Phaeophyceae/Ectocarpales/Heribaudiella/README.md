@@ -1,5 +1,4 @@
-Heribaudiella Gomont, 1896 GENUS
-=======
+# Heribaudiella Gomont, 1896 GENUS
 
 #### Status
 ACCEPTED

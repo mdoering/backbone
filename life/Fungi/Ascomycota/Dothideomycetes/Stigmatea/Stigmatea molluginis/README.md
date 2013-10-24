@@ -1,5 +1,4 @@
-Stigmatea molluginis G.H. Otth SPECIES
-=======
+# Stigmatea molluginis G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

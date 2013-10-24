@@ -1,5 +1,4 @@
-Sterigmatocystis brodenii Mattlet SPECIES
-=======
+# Sterigmatocystis brodenii Mattlet SPECIES
 
 #### Status
 ACCEPTED

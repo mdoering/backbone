@@ -1,5 +1,4 @@
-Mucor lipolyticus Nagaoka, Y. Yamada & Koaze SPECIES
-=======
+# Mucor lipolyticus Nagaoka, Y. Yamada & Koaze SPECIES
 
 #### Status
 ACCEPTED

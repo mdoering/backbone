@@ -1,5 +1,4 @@
-Spiroplasma culicicola Hung et al., 1987 SPECIES
-=======
+# Spiroplasma culicicola Hung et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

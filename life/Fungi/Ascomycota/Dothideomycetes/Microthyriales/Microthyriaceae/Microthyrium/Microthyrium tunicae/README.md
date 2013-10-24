@@ -1,5 +1,4 @@
-Microthyrium tunicae Golovin SPECIES
-=======
+# Microthyrium tunicae Golovin SPECIES
 
 #### Status
 ACCEPTED

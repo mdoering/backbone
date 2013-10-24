@@ -1,5 +1,4 @@
-Gloeoporus sulphureus Corner, 1989 SPECIES
-=======
+# Gloeoporus sulphureus Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora adjacens Boidin, Lanq. & Gilles, 1991 SPECIES
-=======
+# Peniophora adjacens Boidin, Lanq. & Gilles, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenula hysterioides Peck SPECIES
-=======
+# Hymenula hysterioides Peck SPECIES
 
 #### Status
 ACCEPTED

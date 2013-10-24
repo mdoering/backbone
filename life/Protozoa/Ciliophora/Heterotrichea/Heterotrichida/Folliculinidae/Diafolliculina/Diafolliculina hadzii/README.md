@@ -1,5 +1,4 @@
-Diafolliculina hadzii SPECIES
-=======
+# Diafolliculina hadzii SPECIES
 
 #### Status
 ACCEPTED

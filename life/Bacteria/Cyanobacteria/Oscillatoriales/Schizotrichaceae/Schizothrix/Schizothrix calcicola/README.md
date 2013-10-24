@@ -1,5 +1,4 @@
-Schizothrix calcicola (C. Agardh) Gomont SPECIES
-=======
+# Schizothrix calcicola (C. Agardh) Gomont SPECIES
 
 #### Status
 ACCEPTED

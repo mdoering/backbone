@@ -1,5 +1,4 @@
-Uredo exasperata Cooke SPECIES
-=======
+# Uredo exasperata Cooke SPECIES
 
 #### Status
 ACCEPTED

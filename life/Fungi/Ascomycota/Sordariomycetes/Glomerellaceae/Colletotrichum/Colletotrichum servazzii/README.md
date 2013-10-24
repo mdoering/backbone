@@ -1,5 +1,4 @@
-Colletotrichum servazzii Gall.-Rang. SPECIES
-=======
+# Colletotrichum servazzii Gall.-Rang. SPECIES
 
 #### Status
 ACCEPTED

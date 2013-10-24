@@ -1,5 +1,4 @@
-Phyllosticta cycadina Pass. SPECIES
-=======
+# Phyllosticta cycadina Pass. SPECIES
 
 #### Status
 ACCEPTED

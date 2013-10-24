@@ -1,5 +1,4 @@
-Parmotrema neosubcrinitum C. H. Ribeiro & Marcelli SPECIES
-=======
+# Parmotrema neosubcrinitum C. H. Ribeiro & Marcelli SPECIES
 
 #### Status
 ACCEPTED

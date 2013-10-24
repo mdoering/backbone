@@ -1,8 +1,7 @@
-Rivularia natans (Hedwig) S. F. Gray SPECIES
-=======
+# Gloeotrichia natans (Hedwig) Rabenhorst SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

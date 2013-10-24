@@ -1,5 +1,4 @@
-Aspergillus corrugatus Udagawa & Y. Horie, 1976 SPECIES
-=======
+# Aspergillus corrugatus Udagawa & Y. Horie, 1976 SPECIES
 
 #### Status
 ACCEPTED

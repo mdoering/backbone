@@ -1,5 +1,4 @@
-Trichonectria rectipila Samuels, Rogerson & M.E. Barr, 1988 SPECIES
-=======
+# Trichonectria rectipila Samuels, Rogerson & M.E. Barr, 1988 SPECIES
 
 #### Status
 ACCEPTED

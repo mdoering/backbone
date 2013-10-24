@@ -1,5 +1,4 @@
-Mycoporopsis tetramera (Müll. Arg.) Riedl SPECIES
-=======
+# Mycoporopsis tetramera (Müll. Arg.) Riedl SPECIES
 
 #### Status
 ACCEPTED

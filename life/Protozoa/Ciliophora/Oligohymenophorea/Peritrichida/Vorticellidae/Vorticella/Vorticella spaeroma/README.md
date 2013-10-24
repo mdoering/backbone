@@ -1,5 +1,4 @@
-Vorticella spaeroma SPECIES
-=======
+# Vorticella spaeroma SPECIES
 
 #### Status
 ACCEPTED

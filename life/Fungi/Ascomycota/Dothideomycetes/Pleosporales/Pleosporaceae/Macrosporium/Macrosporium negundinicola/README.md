@@ -1,5 +1,4 @@
-Macrosporium negundinicola Ellis & Barthol. SPECIES
-=======
+# Macrosporium negundinicola Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

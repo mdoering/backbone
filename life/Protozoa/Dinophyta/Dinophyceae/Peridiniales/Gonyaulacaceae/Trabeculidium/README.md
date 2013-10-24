@@ -1,5 +1,4 @@
-Trabeculidium S. Duxbury, 1980 GENUS
-=======
+# Trabeculidium S. Duxbury, 1980 GENUS
 
 #### Status
 ACCEPTED

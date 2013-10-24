@@ -1,5 +1,4 @@
-Hypocopra dolichopoda J.C. Krug & Cain SPECIES
-=======
+# Hypocopra dolichopoda J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

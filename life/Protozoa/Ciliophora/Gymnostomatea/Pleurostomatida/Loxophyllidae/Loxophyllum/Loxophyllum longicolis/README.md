@@ -1,5 +1,4 @@
-Loxophyllum longicolis Dumas, 1930 SPECIES
-=======
+# Loxophyllum longicolis Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

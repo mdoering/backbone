@@ -1,5 +1,4 @@
-Psathyrella piceicola A.H. Sm. & Hesler SPECIES
-=======
+# Psathyrella piceicola A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

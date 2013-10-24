@@ -1,5 +1,4 @@
-Plagiopogon loricatus Kahl, 1931 SPECIES
-=======
+# Plagiopogon loricatus Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

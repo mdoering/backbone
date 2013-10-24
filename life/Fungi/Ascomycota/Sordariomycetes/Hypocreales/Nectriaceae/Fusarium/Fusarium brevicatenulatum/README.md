@@ -1,5 +1,4 @@
-Fusarium brevicatenulatum Nirenberg, O'Donnell, Kroschel & Andrianaivo, 1998 SPECIES
-=======
+# Fusarium brevicatenulatum Nirenberg, O'Donnell, Kroschel & Andrianaivo, 1998 SPECIES
 
 #### Status
 ACCEPTED

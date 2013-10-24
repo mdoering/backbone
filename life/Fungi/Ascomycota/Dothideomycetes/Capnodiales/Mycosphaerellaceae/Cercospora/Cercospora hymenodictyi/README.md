@@ -1,17 +1,16 @@
-Cercospora hymenodictyonis Petr. SPECIES
-=======
+# Cercospora hymenodictyi Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 10: 124 (1957)
 
 #### Original name
-Cercospora hymenodictyonis Petr.
+Cercospora hymenodictyi Petr.
 
 ### Remarks
 null

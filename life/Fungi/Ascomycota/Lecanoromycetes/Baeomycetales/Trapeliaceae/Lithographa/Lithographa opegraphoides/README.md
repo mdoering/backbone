@@ -1,5 +1,4 @@
-Lithographa opegraphoides Coppins & Friday SPECIES
-=======
+# Lithographa opegraphoides Coppins & Friday SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius subarvinaceus Cleland SPECIES
-=======
+# Cortinarius subarvinaceus Cleland SPECIES
 
 #### Status
 ACCEPTED

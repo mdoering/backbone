@@ -1,5 +1,4 @@
-Vorticella alpestris Foissner, 1979 SPECIES
-=======
+# Vorticella alpestris Foissner, 1979 SPECIES
 
 #### Status
 ACCEPTED

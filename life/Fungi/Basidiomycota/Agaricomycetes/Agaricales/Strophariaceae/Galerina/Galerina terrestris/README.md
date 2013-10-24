@@ -1,5 +1,4 @@
-Galerina terrestris V.L. Wells & Kempton, 1969 SPECIES
-=======
+# Galerina terrestris V.L. Wells & Kempton, 1969 SPECIES
 
 #### Status
 ACCEPTED

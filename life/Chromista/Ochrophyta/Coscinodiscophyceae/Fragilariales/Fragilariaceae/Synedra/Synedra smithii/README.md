@@ -1,5 +1,4 @@
-Synedra smithii Ralfs SPECIES
-=======
+# Synedra smithii Ralfs SPECIES
 
 #### Status
 ACCEPTED

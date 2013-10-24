@@ -1,5 +1,4 @@
-Ombrophila aurata (Berk. & Ravenel) W. Phillips SPECIES
-=======
+# Ombrophila aurata (Berk. & Ravenel) W. Phillips SPECIES
 
 #### Status
 ACCEPTED

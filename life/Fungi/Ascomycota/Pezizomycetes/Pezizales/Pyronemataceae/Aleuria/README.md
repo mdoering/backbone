@@ -1,17 +1,16 @@
-Peziza Fuckel, 1870 GENUS
-=======
+# Aleuria Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 23-24: 325 (1870)
 
 #### Original name
-Peziza Fuckel, 1870
+Aleuria Fuckel, 1870
 
 ### Remarks
 null

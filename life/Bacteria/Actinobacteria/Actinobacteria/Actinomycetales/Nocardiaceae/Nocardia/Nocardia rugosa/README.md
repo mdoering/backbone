@@ -1,5 +1,4 @@
-Nocardia rugosa (ex di Marco & Spalla, 1957) Goodfellow & Lechevalier, 1988 SPECIES
-=======
+# Nocardia rugosa (ex di Marco & Spalla, 1957) Goodfellow & Lechevalier, 1988 SPECIES
 
 #### Status
 ACCEPTED

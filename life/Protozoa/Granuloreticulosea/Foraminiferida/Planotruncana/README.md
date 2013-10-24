@@ -1,5 +1,4 @@
-Planotruncana Korchagin, 1993 GENUS
-=======
+# Planotruncana Korchagin, 1993 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Amphisolenia quinquecauda Kofoid, 1907 SPECIES
-=======
+# Amphisolenia quadricauda Kofoid & Michener, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

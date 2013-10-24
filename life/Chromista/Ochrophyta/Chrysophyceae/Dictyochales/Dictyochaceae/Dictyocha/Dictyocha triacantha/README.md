@@ -1,5 +1,4 @@
-Dictyocha triacantha var. inermis Lemmermann VARIETY
-=======
+# Dictyocha triacantha Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

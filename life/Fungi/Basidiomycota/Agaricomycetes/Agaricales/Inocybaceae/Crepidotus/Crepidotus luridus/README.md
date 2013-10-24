@@ -1,5 +1,4 @@
-Crepidotus luridus var. luridus VARIETY
-=======
+# Crepidotus luridus Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 44: 479 (1973)
 
 #### Original name
-Crepidotus luridus var. luridus
+Crepidotus luridus Singer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Monilinia rhododendri (Boud.) Whetzel SPECIES
-=======
+# Monilinia rhododendri (Boud.) Whetzel SPECIES
 
 #### Status
 ACCEPTED

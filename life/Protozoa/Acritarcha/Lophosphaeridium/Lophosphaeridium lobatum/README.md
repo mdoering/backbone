@@ -1,5 +1,4 @@
-Lophosphaeridium lobatum N. Umnova, 1975 SPECIES
-=======
+# Lophosphaeridium lobatum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

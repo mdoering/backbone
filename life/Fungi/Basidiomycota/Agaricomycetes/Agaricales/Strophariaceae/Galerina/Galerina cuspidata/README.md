@@ -1,5 +1,4 @@
-Galerina cuspidata A.H. Sm. SPECIES
-=======
+# Galerina cuspidata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiodecton verrucarioides (Fée) Müll. Arg. SPECIES
-=======
+# Chiodecton verrucarioides (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

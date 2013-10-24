@@ -1,5 +1,4 @@
-Mycosphaerella haraeana Syd. & P. Syd. SPECIES
-=======
+# Mycosphaerella haraeana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

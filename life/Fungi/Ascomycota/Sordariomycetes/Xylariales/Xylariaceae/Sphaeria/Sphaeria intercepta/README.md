@@ -1,5 +1,4 @@
-Sphaeria intercepta Kalchbr. & Cooke SPECIES
-=======
+# Sphaeria intercepta Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

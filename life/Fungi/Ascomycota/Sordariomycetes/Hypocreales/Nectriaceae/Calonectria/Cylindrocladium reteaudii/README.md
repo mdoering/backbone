@@ -1,14 +1,13 @@
-Cylindrocarpon reteaudii Bugnic., 1939 SPECIES
-=======
+# Cylindrocladium reteaudii (Bugnic.) Boesew., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encyclop. Mycol. 11: 189 (1939)
+Trans. Br. mycol. Soc. 78(3): 553 (1982)
 
 #### Original name
 Cylindrocarpon reteaudii Bugnic., 1939

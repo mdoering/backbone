@@ -1,5 +1,4 @@
-Myriogloea major Asensi, 1973 SPECIES
-=======
+# Myriogloea major Asensi, 1973 SPECIES
 
 #### Status
 ACCEPTED

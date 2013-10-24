@@ -1,17 +1,16 @@
-Hydnum crocidens var. crocidens VARIETY
-=======
+# Hydnum ambustum Cooke & Massee, 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 19(no. 90): 45 (1890)
+Grevillea 16(no. 78): 32 (1887)
 
 #### Original name
-Hydnum crocidens var. crocidens
+Hydnum ambustum Cooke & Massee, 1887
 
 ### Remarks
 null

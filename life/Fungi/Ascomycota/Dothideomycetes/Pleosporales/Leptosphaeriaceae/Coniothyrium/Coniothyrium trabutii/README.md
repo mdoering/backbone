@@ -1,5 +1,4 @@
-Coniothyrium trabutii Riza SPECIES
-=======
+# Coniothyrium trabutii Riza SPECIES
 
 #### Status
 ACCEPTED

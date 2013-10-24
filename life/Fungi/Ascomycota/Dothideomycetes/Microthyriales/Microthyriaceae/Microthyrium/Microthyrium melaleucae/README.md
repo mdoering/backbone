@@ -1,5 +1,4 @@
-Microthyrium melaleucae Henn. SPECIES
-=======
+# Microthyrium melaleucae Henn. SPECIES
 
 #### Status
 ACCEPTED

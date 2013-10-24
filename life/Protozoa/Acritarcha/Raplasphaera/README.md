@@ -1,5 +1,4 @@
-Raplasphaera Uutela & Tynni, 1991 GENUS
-=======
+# Raplasphaera Uutela & Tynni, 1991 GENUS
 
 #### Status
 ACCEPTED

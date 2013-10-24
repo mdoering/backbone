@@ -1,5 +1,4 @@
-Cocconia lacarangae Hansf. SPECIES
-=======
+# Cocconia lacarangae Hansf. SPECIES
 
 #### Status
 ACCEPTED

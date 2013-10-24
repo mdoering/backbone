@@ -1,14 +1,13 @@
-Clavulinopsis pogonati (Coker) Corner, 1950 SPECIES
-=======
+# Multiclavula pogonati (Coker) R.H. Petersen, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 384 (1950)
+Am. Midl. Nat. 77: 209 (1967)
 
 #### Original name
 Clavaria pogonati Coker, 1939

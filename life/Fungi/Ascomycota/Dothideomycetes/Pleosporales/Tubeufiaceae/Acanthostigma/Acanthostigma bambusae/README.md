@@ -1,5 +1,4 @@
-Acanthostigma bambusae Höhn. SPECIES
-=======
+# Acanthostigma bambusae Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina truncata Natarajan SPECIES
-=======
+# Galerina truncata Natarajan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Lithocia viridula var. viridula VARIETY
-=======
+# Lithocia viridula SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null

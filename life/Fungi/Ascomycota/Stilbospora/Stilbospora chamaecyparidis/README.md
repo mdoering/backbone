@@ -1,5 +1,4 @@
-Stilbospora chamaecyparidis Sawada SPECIES
-=======
+# Stilbospora chamaecyparidis Sawada SPECIES
 
 #### Status
 ACCEPTED

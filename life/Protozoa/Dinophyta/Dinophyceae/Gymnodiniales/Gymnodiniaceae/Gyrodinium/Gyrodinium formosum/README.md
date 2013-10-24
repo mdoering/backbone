@@ -1,5 +1,4 @@
-Gyrodinium formosum Campbell SPECIES
-=======
+# Gyrodinium formosum Campbell SPECIES
 
 #### Status
 ACCEPTED

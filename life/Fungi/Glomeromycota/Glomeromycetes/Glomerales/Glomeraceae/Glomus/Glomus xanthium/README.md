@@ -1,5 +1,4 @@
-Glomus xanthium Blaszk., Blanke, Renker & Buscot SPECIES
-=======
+# Glomus xanthium Blaszk., Blanke, Renker & Buscot SPECIES
 
 #### Status
 ACCEPTED

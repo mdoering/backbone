@@ -1,17 +1,16 @@
-Polyporus caesius var. coeruleus (Schumach.) Fr. VARIETY
-=======
+# Tyromyces setiger (Cooke) Teng, 1963 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 360 (1821)
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 763 (1963)
 
 #### Original name
-Boletus coeruleus Schumach.
+Polyporus setiger Cooke, 1890
 
 ### Remarks
 null

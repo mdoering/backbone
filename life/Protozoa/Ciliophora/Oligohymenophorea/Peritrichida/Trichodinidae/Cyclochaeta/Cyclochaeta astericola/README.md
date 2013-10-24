@@ -1,5 +1,4 @@
-Cyclochaeta astericola SPECIES
-=======
+# Cyclochaeta astericola SPECIES
 
 #### Status
 ACCEPTED

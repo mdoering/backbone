@@ -1,5 +1,4 @@
-Leptosphaeria consocians (Nyl.) Sacc. & D. Sacc. SPECIES
-=======
+# Leptosphaeria consocians (Nyl.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

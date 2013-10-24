@@ -1,5 +1,4 @@
-Asterocapsa longipapilla Liu SPECIES
-=======
+# Asterocapsa longipapilla Liu SPECIES
 
 #### Status
 ACCEPTED

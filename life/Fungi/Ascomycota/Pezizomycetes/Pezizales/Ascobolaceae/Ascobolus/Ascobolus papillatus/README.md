@@ -1,5 +1,4 @@
-Ascobolus papillatus Wallr. SPECIES
-=======
+# Ascobolus papillatus Wallr. SPECIES
 
 #### Status
 ACCEPTED

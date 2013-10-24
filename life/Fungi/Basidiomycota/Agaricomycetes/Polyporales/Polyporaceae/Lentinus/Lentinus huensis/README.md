@@ -1,5 +1,4 @@
-Lentinus huensis Lloyd SPECIES
-=======
+# Lentinus huensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

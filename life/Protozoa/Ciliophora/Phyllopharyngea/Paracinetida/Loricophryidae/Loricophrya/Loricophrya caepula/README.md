@@ -1,5 +1,4 @@
-Loricophrya caepula (Penard, 1920) Matthes, 1956 SPECIES
-=======
+# Loricophrya caepula (Penard, 1920) Matthes, 1956 SPECIES
 
 #### Status
 ACCEPTED

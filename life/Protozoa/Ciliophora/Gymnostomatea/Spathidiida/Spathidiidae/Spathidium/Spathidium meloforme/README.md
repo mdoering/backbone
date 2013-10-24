@@ -1,5 +1,4 @@
-Spathidium meloforme Alekperov, 1983 SPECIES
-=======
+# Spathidium meloforme Alekperov, 1983 SPECIES
 
 #### Status
 ACCEPTED

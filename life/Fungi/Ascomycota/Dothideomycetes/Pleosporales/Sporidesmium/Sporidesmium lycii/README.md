@@ -1,5 +1,4 @@
-Sporidesmium lycii Niessl SPECIES
-=======
+# Sporidesmium lycii Niessl SPECIES
 
 #### Status
 ACCEPTED

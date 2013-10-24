@@ -1,5 +1,4 @@
-Arthrobotrys alaskana (Matsush.) Oorschot SPECIES
-=======
+# Arthrobotrys alaskana (Matsush.) Oorschot SPECIES
 
 #### Status
 ACCEPTED

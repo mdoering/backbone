@@ -1,5 +1,4 @@
-Phyllodictyocha schulzii Deflandre SPECIES
-=======
+# Phyllodictyocha schulzii Deflandre SPECIES
 
 #### Status
 ACCEPTED

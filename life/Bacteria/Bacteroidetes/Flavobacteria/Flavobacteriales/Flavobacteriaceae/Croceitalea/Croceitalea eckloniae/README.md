@@ -1,5 +1,4 @@
-Croceitalea eckloniae Lee, Kwon, Yang, Bae, Park, Kim & Lee, 2008 SPECIES
-=======
+# Croceitalea eckloniae Lee, Kwon, Yang, Bae, Park, Kim & Lee, 2008 SPECIES
 
 #### Status
 ACCEPTED

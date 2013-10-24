@@ -1,5 +1,4 @@
-Boletus suberosus L. SPECIES
-=======
+# Boletus suberosus L. SPECIES
 
 #### Status
 ACCEPTED

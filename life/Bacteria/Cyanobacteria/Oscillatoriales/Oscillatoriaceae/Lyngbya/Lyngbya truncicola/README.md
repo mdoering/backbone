@@ -1,5 +1,4 @@
-Lyngbya truncicola (S. L. Ghose) M. Aboal SPECIES
-=======
+# Lyngbya truncicola (S. L. Ghose) M. Aboal SPECIES
 
 #### Status
 ACCEPTED

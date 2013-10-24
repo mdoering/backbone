@@ -1,5 +1,4 @@
-Agaricus obtectus Jungh. SPECIES
-=======
+# Agaricus obtectus Jungh. SPECIES
 
 #### Status
 ACCEPTED

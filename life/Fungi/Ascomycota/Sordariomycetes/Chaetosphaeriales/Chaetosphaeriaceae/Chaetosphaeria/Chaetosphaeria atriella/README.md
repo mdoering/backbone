@@ -1,5 +1,4 @@
-Chaetosphaeria atriella (Cooke & Ellis) M.E. Barr SPECIES
-=======
+# Chaetosphaeria atriella (Cooke & Ellis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

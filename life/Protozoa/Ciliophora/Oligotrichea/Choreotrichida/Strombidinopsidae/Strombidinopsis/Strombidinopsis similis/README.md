@@ -1,5 +1,4 @@
-Strombidinopsis similis Stokes, 1891 SPECIES
-=======
+# Strombidinopsis similis Stokes, 1891 SPECIES
 
 #### Status
 ACCEPTED

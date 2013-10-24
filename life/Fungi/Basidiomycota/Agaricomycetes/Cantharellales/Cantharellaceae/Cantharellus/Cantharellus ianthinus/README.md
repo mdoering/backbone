@@ -1,5 +1,4 @@
-Cantharellus ianthinus Corner SPECIES
-=======
+# Cantharellus ianthinus Corner SPECIES
 
 #### Status
 ACCEPTED

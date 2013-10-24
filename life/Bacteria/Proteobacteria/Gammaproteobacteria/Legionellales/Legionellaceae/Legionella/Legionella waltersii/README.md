@@ -1,5 +1,4 @@
-Legionella waltersii Benson et al., 1996 SPECIES
-=======
+# Legionella waltersii Benson et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium ariakense K. Takahashi SPECIES
-=======
+# Micrhystridium ariakense K. Takahashi SPECIES
 
 #### Status
 ACCEPTED

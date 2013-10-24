@@ -1,5 +1,4 @@
-Ramularia callistephi Vimba SPECIES
-=======
+# Ramularia callistephi Vimba SPECIES
 
 #### Status
 ACCEPTED

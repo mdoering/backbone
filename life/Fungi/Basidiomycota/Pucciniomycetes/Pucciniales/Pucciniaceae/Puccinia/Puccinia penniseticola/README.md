@@ -1,5 +1,4 @@
-Puccinia penniseticola J.M. Yen SPECIES
-=======
+# Puccinia penniseticola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

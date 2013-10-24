@@ -1,17 +1,16 @@
-Haraella bambusicola (I. Hino & Katum.) Hara & I. Hino, 1955 SPECIES
-=======
+# Hinoa bambusicola (Hara & I. Hino) Hara & I. Hino, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hino & Katumoto, Bulletin of the Faculty of Agriculture, Yamaguchi University 6: 34 (1955)
+Icones Fungorum Bamb. Jap. 137 (1961)
 
 #### Original name
-Haraea bambusicola I. Hino & Katum., 1954
+Haraella bambusicola (I. Hino & Katum.) Hara & I. Hino, 1955
 
 ### Remarks
 null

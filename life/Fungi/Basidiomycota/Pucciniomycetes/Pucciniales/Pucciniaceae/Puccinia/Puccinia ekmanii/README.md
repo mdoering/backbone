@@ -1,17 +1,16 @@
-Puccinia ekmani F. Kern, Cif. & Thurst. SPECIES
-=======
+# Puccinia ekmanii F. Kern, Cif. & Thurst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 31(1): 11 (1933)
 
 #### Original name
-Puccinia ekmani F. Kern, Cif. & Thurst.
+Puccinia ekmanii F. Kern, Cif. & Thurst.
 
 ### Remarks
 null

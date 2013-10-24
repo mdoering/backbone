@@ -1,8 +1,7 @@
-Vermicularia fructi (F. Stevens & J.G. Hall) Vassiljevsky, 1950 SPECIES
-=======
+# Colletotrichum fructi (F. Stevens & J.G. Hall) Sacc., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

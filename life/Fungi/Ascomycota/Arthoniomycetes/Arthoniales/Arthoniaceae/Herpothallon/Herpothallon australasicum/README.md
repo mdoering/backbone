@@ -1,5 +1,4 @@
-Herpothallon australasicum (Elix) Elix & G. Thor SPECIES
-=======
+# Herpothallon australasicum (Elix) Elix & G. Thor SPECIES
 
 #### Status
 ACCEPTED

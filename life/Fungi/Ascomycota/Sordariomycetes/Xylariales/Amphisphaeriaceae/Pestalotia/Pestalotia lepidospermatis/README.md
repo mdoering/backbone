@@ -1,5 +1,4 @@
-Pestalotia lepidospermatis Henn. SPECIES
-=======
+# Pestalotia lepidospermatis Henn. SPECIES
 
 #### Status
 ACCEPTED

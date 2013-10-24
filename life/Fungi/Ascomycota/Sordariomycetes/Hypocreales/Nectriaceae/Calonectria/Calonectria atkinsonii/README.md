@@ -1,5 +1,4 @@
-Calonectria atkinsonii Rehm SPECIES
-=======
+# Calonectria atkinsonii Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis ingae Bat. & Peres SPECIES
-=======
+# Micropeltis ingae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metopus minor subsp. setosus SUBSPECIES
-=======
+# Metopus minor Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula occulta P.M. McCarthy & Malcolm SPECIES
-=======
+# Strigula occulta P.M. McCarthy & Malcolm SPECIES
 
 #### Status
 ACCEPTED

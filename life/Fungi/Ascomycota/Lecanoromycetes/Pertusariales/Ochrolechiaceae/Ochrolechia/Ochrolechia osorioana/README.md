@@ -1,5 +1,4 @@
-Ochrolechia osorioana Verseghy SPECIES
-=======
+# Ochrolechia osorioana Verseghy SPECIES
 
 #### Status
 ACCEPTED

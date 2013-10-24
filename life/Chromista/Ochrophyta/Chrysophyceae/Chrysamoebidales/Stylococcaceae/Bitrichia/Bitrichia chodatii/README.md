@@ -1,5 +1,4 @@
-Bitrichia chodatii (Reverdin) Chodat SPECIES
-=======
+# Bitrichia chodatii (Reverdin) Chodat SPECIES
 
 #### Status
 ACCEPTED

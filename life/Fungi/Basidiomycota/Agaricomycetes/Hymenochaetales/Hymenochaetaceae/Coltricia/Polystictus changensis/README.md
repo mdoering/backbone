@@ -1,5 +1,4 @@
-Polystictus changensis (Rostr.) Sacc. SPECIES
-=======
+# Polystictus changensis (Rostr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

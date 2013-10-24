@@ -1,5 +1,4 @@
-Antromycopsis minor Penz. & Sacc. SPECIES
-=======
+# Antromycopsis minor Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

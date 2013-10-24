@@ -1,5 +1,4 @@
-Naucoria vinicolor Peck SPECIES
-=======
+# Naucoria vinicolor Peck SPECIES
 
 #### Status
 ACCEPTED

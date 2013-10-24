@@ -1,5 +1,4 @@
-Parmelia sideralis SPECIES
-=======
+# Parmelia sideralis SPECIES
 
 #### Status
 ACCEPTED

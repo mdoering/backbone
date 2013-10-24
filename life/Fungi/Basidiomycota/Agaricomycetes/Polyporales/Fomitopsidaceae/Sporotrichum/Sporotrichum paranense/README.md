@@ -1,5 +1,4 @@
-Sporotrichum paranense Marchion. SPECIES
-=======
+# Sporotrichum paranense Marchion. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyrium sequojae (Cooke & Harkn.) Höhn. SPECIES
-=======
+# Microthyrium sequojae (Cooke & Harkn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

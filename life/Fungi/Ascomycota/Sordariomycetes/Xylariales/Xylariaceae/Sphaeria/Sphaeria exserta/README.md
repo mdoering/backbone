@@ -1,5 +1,4 @@
-Sphaeria exserta Fr. SPECIES
-=======
+# Sphaeria exserta Fr. SPECIES
 
 #### Status
 ACCEPTED

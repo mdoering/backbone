@@ -1,5 +1,4 @@
-Thamnomyces rostratus var. rostratus VARIETY
-=======
+# Thamnomyces rostratus Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thamnomyces rostratus var. rostratus
+Thamnomyces rostratus Mont.
 
 ### Remarks
 null

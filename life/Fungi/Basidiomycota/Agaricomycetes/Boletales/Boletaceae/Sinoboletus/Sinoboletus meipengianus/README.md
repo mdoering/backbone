@@ -1,5 +1,4 @@
-Sinoboletus meipengianus M. Zang & D.Z. Zhang, 2004 SPECIES
-=======
+# Sinoboletus meipengianus M. Zang & D.Z. Zhang, 2004 SPECIES
 
 #### Status
 ACCEPTED

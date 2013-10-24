@@ -1,5 +1,4 @@
-Aspidella virescens (Beeli) E.-J. Gilbert SPECIES
-=======
+# Aspidella virescens (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

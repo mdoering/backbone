@@ -1,5 +1,4 @@
-Cellularia guineensis (Afzel. ex Fr.) Kuntze SPECIES
-=======
+# Cellularia guineensis (Afzel. ex Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

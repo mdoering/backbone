@@ -1,5 +1,4 @@
-Septoria rumicis-papillaris Caball. SPECIES
-=======
+# Septoria rumicis-papillaris Caball. SPECIES
 
 #### Status
 ACCEPTED

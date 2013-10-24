@@ -1,5 +1,4 @@
-Puccinia wulingensis B. Li SPECIES
-=======
+# Puccinia wulingensis B. Li SPECIES
 
 #### Status
 ACCEPTED

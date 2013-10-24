@@ -1,5 +1,4 @@
-Amphoroblastia lavata (Zschacke) Servít SPECIES
-=======
+# Amphoroblastia lavata (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

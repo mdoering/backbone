@@ -1,5 +1,4 @@
-Leptosporella gregaria Penz. & Sacc., 1897 SPECIES
-=======
+# Leptosporella gregaria Penz. & Sacc., 1897 SPECIES
 
 #### Status
 ACCEPTED

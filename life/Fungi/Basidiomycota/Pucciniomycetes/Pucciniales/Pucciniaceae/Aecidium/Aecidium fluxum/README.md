@@ -1,5 +1,4 @@
-Aecidium fluxum Arthur SPECIES
-=======
+# Aecidium fluxum Arthur SPECIES
 
 #### Status
 ACCEPTED

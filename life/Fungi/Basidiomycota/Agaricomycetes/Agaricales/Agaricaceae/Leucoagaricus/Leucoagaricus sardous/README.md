@@ -1,5 +1,4 @@
-Leucoagaricus sardous (Zecchin & Migl.) Consiglio & Contu SPECIES
-=======
+# Leucoagaricus sardous (Zecchin & Migl.) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

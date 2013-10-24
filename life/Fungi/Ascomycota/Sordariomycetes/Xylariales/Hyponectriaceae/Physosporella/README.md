@@ -1,5 +1,4 @@
-Physosporella Höhn. GENUS
-=======
+# Physosporella Höhn. GENUS
 
 #### Status
 ACCEPTED

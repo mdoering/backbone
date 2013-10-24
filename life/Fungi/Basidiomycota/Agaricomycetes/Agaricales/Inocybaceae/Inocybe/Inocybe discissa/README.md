@@ -1,5 +1,4 @@
-Inocybe discissa (Cleland) Grgur. SPECIES
-=======
+# Inocybe discissa (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

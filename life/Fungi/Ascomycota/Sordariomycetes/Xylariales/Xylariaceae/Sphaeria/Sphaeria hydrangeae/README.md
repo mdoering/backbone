@@ -1,5 +1,4 @@
-Sphaeria hydrangeae Schwein. SPECIES
-=======
+# Sphaeria hydrangeae Schwein. SPECIES
 
 #### Status
 ACCEPTED

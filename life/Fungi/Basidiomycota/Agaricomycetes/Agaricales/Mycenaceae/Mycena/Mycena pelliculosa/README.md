@@ -1,5 +1,4 @@
-Mycena pelliculosa var. pelliculosa VARIETY
-=======
+# Mycena pelliculosa (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mém. Soc. Émul. Montbéliard, Sér. 2 5: (1872)
 
 #### Original name
-Mycena pelliculosa var. pelliculosa
+Agaricus pelliculosus Schwein., 1822
 
 ### Remarks
 null

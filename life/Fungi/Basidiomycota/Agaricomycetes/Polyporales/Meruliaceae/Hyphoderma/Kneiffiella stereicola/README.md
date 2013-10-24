@@ -1,5 +1,4 @@
-Kneiffiella stereicola (Bres.) Nakasone SPECIES
-=======
+# Kneiffiella stereicola (Bres.) Nakasone SPECIES
 
 #### Status
 ACCEPTED

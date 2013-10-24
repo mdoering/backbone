@@ -1,5 +1,4 @@
-Uredo dischidiae Henn. SPECIES
-=======
+# Uredo dischidiae Henn. SPECIES
 
 #### Status
 ACCEPTED

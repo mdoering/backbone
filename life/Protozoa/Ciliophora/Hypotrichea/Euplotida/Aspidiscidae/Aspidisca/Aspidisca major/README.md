@@ -1,5 +1,4 @@
-Aspidisca major subsp. faurei Dragesco, 1960 SUBSPECIES
-=======
+# Aspidisca major Madsen, 1931 SPECIES
 
 #### Status
 ACCEPTED

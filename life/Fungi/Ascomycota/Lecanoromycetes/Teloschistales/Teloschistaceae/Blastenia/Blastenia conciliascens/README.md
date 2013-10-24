@@ -1,5 +1,4 @@
-Blastenia conciliascens (Nyl.) Lettau SPECIES
-=======
+# Blastenia conciliascens (Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia leucopis Kremp. SPECIES
-=======
+# Parmelia leucopis Kremp. SPECIES
 
 #### Status
 ACCEPTED

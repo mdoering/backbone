@@ -1,5 +1,4 @@
-Cercospora dichrocephalae W. Yamam. SPECIES
-=======
+# Cercospora dichrocephalae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia romagnesii Bon SPECIES
-=======
+# Collybia romagnesii Bon SPECIES
 
 #### Status
 ACCEPTED

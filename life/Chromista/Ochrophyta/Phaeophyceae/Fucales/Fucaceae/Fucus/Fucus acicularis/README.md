@@ -1,5 +1,4 @@
-Fucus acicularis Esper SPECIES
-=======
+# Fucus acicularis Esper SPECIES
 
 #### Status
 ACCEPTED

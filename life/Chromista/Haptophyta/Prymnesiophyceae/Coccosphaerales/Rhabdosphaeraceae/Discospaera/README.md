@@ -1,5 +1,4 @@
-Discospaera GENUS
-=======
+# Discospaera GENUS
 
 #### Status
 ACCEPTED

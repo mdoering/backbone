@@ -1,5 +1,4 @@
-Xylaria pilaeformis (Berk. & M.A. Curtis) Sacc. & P. Syd. SPECIES
-=======
+# Xylaria pilaeformis (Berk. & M.A. Curtis) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

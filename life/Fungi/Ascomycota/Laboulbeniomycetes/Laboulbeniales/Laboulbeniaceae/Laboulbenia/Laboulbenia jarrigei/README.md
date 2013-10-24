@@ -1,5 +1,4 @@
-Laboulbenia jarrigei Balazuc SPECIES
-=======
+# Laboulbenia jarrigei Balazuc SPECIES
 
 #### Status
 ACCEPTED

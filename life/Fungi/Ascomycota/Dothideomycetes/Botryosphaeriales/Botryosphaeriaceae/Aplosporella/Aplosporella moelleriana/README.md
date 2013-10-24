@@ -1,8 +1,7 @@
-Aplosporella molleriana Sousa da Câmara SPECIES
-=======
+# Aplosporella moelleriana Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aplosporella molleriana Sousa da Câmara
+Aplosporella moelleriana Sousa da Câmara
 
 ### Remarks
 null

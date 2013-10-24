@@ -1,5 +1,4 @@
-Discina spinosospora Lucchini & Pelland. SPECIES
-=======
+# Discina spinosospora Lucchini & Pelland. SPECIES
 
 #### Status
 ACCEPTED

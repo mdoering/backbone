@@ -1,5 +1,4 @@
-Exidiopsis sublivida (Pat.) K. Wells SPECIES
-=======
+# Exidiopsis sublivida (Pat.) K. Wells SPECIES
 
 #### Status
 ACCEPTED

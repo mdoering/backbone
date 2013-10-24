@@ -1,14 +1,13 @@
-Humaria waterstonii Seaver SPECIES
-=======
+# Nanoscypha waterstonii (Seaver) Pfister, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Agric. Univ. P. Rico 58(3): 361 (1974)
 
 #### Original name
 Humaria waterstonii Seaver

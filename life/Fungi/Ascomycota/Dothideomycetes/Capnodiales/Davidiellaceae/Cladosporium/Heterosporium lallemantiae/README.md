@@ -1,5 +1,4 @@
-Heterosporium lallemantiae Khokhr. SPECIES
-=======
+# Heterosporium lallemantiae Khokhr. SPECIES
 
 #### Status
 ACCEPTED

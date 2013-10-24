@@ -1,5 +1,4 @@
-Lycoperdon vitellinum Fr. & Nordholm SPECIES
-=======
+# Lycoperdon vitellinum Fr. & Nordholm SPECIES
 
 #### Status
 ACCEPTED

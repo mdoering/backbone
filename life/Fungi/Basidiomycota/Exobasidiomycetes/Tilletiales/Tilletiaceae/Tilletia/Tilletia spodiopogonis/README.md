@@ -1,17 +1,16 @@
-Tilletia spodiopogonae A.R. Patil, T.M. Patil & M.S. Patil SPECIES
-=======
+# Tilletia spodiopogonis A.R. Patil, T.M. Patil & M.S. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Patil, Indian Phytopath. 59(1): 82 (2006)
 
 #### Original name
-Tilletia spodiopogonae A.R. Patil, T.M. Patil & M.S. Patil
+Tilletia spodiopogonis A.R. Patil, T.M. Patil & M.S. Patil
 
 ### Remarks
 null

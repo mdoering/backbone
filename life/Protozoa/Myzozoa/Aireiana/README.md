@@ -1,5 +1,4 @@
-Aireiana Cookson & Eisenack GENUS
-=======
+# Aireiana Cookson & Eisenack GENUS
 
 #### Status
 ACCEPTED

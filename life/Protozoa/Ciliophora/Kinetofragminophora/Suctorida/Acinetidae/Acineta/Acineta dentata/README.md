@@ -1,5 +1,4 @@
-Acineta dentata SPECIES
-=======
+# Acineta dentata SPECIES
 
 #### Status
 ACCEPTED

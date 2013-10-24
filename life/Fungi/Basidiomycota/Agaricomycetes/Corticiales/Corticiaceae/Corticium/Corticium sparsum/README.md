@@ -1,5 +1,4 @@
-Corticium sparsum Berk. & Broome, 1875 SPECIES
-=======
+# Corticium sparsum Berk. & Broome, 1875 SPECIES
 
 #### Status
 ACCEPTED

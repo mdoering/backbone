@@ -1,5 +1,4 @@
-Didymella phaeosporizans (Zahlbr.) Szatala SPECIES
-=======
+# Didymella phaeosporizans (Zahlbr.) Szatala SPECIES
 
 #### Status
 ACCEPTED

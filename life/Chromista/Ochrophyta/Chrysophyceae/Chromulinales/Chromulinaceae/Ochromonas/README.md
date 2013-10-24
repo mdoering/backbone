@@ -1,14 +1,13 @@
-Chlorochromonas I.F.Lewis, 1913 GENUS
-=======
+# Ochromonas Vysotskii, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trav. Soc. Univ. Kharkow, 21, 1.
 
 #### Original name
 null

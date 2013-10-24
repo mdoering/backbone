@@ -1,17 +1,16 @@
-Nectria aleuritidia Shou C. Chen & J.Z. Zhang SPECIES
-=======
+# Nectria aleuritis Shou C. Chen & J.Z. Zhang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Scientia Silvae Sinicae 20(2): 156 (1984)
 
 #### Original name
-Nectria aleuritidia Shou C. Chen & J.Z. Zhang
+Nectria aleuritis Shou C. Chen & J.Z. Zhang
 
 ### Remarks
 null

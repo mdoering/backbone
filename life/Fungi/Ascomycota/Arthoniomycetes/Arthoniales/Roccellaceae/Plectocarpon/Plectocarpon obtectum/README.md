@@ -1,5 +1,4 @@
-Plectocarpon obtectum Ertz & Diederich SPECIES
-=======
+# Plectocarpon obtectum Ertz & Diederich SPECIES
 
 #### Status
 ACCEPTED

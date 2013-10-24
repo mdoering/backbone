@@ -1,5 +1,4 @@
-Ramularia reticulata Ellis & Everh. SPECIES
-=======
+# Ramularia reticulata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

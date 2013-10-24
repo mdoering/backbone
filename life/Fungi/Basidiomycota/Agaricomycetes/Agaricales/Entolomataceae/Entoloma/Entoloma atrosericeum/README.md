@@ -1,5 +1,4 @@
-Entoloma atrosericeum (Kühner) Noordel. SPECIES
-=======
+# Entoloma atrosericeum (Kühner) Noordel. SPECIES
 
 #### Status
 ACCEPTED

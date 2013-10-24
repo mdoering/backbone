@@ -1,5 +1,4 @@
-Ostracoderma fossarum (Fautrey) S. Hughes SPECIES
-=======
+# Ostracoderma fossarum (Fautrey) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

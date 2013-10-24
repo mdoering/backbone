@@ -1,5 +1,4 @@
-Payosphaeria W.F. Leong GENUS
-=======
+# Payosphaeria W.F. Leong GENUS
 
 #### Status
 ACCEPTED

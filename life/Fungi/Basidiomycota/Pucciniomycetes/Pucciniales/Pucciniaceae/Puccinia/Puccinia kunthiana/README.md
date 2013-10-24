@@ -1,5 +1,4 @@
-Puccinia kunthiana T.S. Ramakr., Sriniv. & Sundaram SPECIES
-=======
+# Puccinia kunthiana T.S. Ramakr., Sriniv. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

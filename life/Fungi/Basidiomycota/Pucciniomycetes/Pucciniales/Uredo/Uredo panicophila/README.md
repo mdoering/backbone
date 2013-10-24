@@ -1,5 +1,4 @@
-Uredo panicophila Speg. SPECIES
-=======
+# Uredo panicophila Speg. SPECIES
 
 #### Status
 ACCEPTED

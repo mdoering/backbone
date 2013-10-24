@@ -1,5 +1,4 @@
-Blepharisma stoltei subsp. narai Isquith, 1966 SUBSPECIES
-=======
+# Blepharisma stoltei Isquith, 1966 SPECIES
 
 #### Status
 ACCEPTED

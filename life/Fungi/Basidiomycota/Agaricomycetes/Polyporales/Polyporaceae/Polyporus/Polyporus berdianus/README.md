@@ -1,5 +1,4 @@
-Polyporus berdianus Bacc. SPECIES
-=======
+# Polyporus berdianus Bacc. SPECIES
 
 #### Status
 ACCEPTED

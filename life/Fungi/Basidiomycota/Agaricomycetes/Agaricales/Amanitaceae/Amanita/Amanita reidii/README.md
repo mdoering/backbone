@@ -1,5 +1,4 @@
-Amanita reidii Eicker & Greuning SPECIES
-=======
+# Amanita reidii Eicker & Greuning SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxarium subsphaerosporum Kisim.-Hor., Oberw. & L.D. Gómez SPECIES
-=======
+# Myxarium subsphaerosporum Kisim.-Hor., Oberw. & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

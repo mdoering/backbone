@@ -1,5 +1,4 @@
-Synechoblastus iodorubens Dughi SPECIES
-=======
+# Synechoblastus iodorubens Dughi SPECIES
 
 #### Status
 ACCEPTED

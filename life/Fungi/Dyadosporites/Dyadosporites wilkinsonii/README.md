@@ -1,5 +1,4 @@
-Dyadosporites wilkinsonii (R.K. Saxena & N.K. Misra) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites wilkinsonii (R.K. Saxena & N.K. Misra) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

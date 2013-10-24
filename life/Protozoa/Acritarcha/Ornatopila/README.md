@@ -1,5 +1,4 @@
-Ornatopila P. Palik, 1966 GENUS
-=======
+# Ornatopila P. Palik, 1966 GENUS
 
 #### Status
 ACCEPTED

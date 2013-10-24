@@ -1,5 +1,4 @@
-Uredo foetida R. Bauer SPECIES
-=======
+# Uredo foetida R. Bauer SPECIES
 
 #### Status
 ACCEPTED

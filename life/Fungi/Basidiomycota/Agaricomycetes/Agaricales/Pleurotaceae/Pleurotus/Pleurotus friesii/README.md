@@ -1,5 +1,4 @@
-Pleurotus friesii Lév. SPECIES
-=======
+# Pleurotus friesii Lév. SPECIES
 
 #### Status
 ACCEPTED

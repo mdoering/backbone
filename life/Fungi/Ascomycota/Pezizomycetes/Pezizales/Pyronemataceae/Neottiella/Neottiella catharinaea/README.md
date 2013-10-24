@@ -1,5 +1,4 @@
-Neottiella catharinaea McLennan & F. Halsey SPECIES
-=======
+# Neottiella catharinaea McLennan & F. Halsey SPECIES
 
 #### Status
 ACCEPTED

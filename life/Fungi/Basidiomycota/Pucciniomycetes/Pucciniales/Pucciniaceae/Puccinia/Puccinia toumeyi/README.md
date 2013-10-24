@@ -1,5 +1,4 @@
-Puccinia toumeyi Sacc. & P. Syd. SPECIES
-=======
+# Puccinia toumeyi Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina subpallescens Vezda SPECIES
-=======
+# Porina subpallescens Vezda SPECIES
 
 #### Status
 ACCEPTED

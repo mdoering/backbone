@@ -1,5 +1,4 @@
-Clathrospora quadriseptata (Cooke & Harkn.) Berl. SPECIES
-=======
+# Clathrospora quadriseptata (Cooke & Harkn.) Berl. SPECIES
 
 #### Status
 ACCEPTED

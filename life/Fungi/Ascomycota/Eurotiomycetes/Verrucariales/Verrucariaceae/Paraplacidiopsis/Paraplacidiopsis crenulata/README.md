@@ -1,5 +1,4 @@
-Paraplacidiopsis crenulata (Nyl.) Servít SPECIES
-=======
+# Paraplacidiopsis crenulata (Nyl.) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria riograndensis Malme SPECIES
-=======
+# Verrucaria riograndensis Malme SPECIES
 
 #### Status
 ACCEPTED

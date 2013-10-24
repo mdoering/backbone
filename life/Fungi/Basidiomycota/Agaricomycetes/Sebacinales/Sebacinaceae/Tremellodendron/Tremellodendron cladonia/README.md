@@ -1,14 +1,13 @@
-Thelephora cladonia (Schwein.) Fr., 1828 SPECIES
-=======
+# Tremellodendron cladonia (Schwein.) Burt, 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Greifswald) 1: 168 (1828)
+Ann. Mo. bot. Gdn 2: 738 (1915)
 
 #### Original name
 null

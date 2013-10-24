@@ -1,5 +1,4 @@
-Mallomonas majorensis Skuja SPECIES
-=======
+# Mallomonas majorensis Skuja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reticularia fuliginosa Berk. & Broome SPECIES
-=======
+# Reticularia fuliginosa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

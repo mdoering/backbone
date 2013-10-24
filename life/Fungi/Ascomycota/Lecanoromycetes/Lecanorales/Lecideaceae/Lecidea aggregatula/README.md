@@ -1,5 +1,4 @@
-Lecidea aggregatula Müll. Arg. SPECIES
-=======
+# Lecidea aggregatula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

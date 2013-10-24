@@ -1,5 +1,4 @@
-Cercospora trachyspermi Golovin SPECIES
-=======
+# Cercospora trachyspermi Golovin SPECIES
 
 #### Status
 ACCEPTED

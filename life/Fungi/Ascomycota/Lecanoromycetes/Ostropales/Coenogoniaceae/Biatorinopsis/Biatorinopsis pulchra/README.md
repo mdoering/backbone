@@ -1,5 +1,4 @@
-Biatorinopsis pulchra Müll. Arg. SPECIES
-=======
+# Biatorinopsis pulchra Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma megalosporum Steyaert SPECIES
-=======
+# Ganoderma megalosporum Steyaert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasmenia Speg. GENUS
-=======
+# Lasmenia Speg. GENUS
 
 #### Status
 ACCEPTED

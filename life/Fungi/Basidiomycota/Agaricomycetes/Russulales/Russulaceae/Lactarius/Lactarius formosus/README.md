@@ -1,5 +1,4 @@
-Lactarius formosus H.T. Le & Verbeken SPECIES
-=======
+# Lactarius formosus H.T. Le & Verbeken SPECIES
 
 #### Status
 ACCEPTED

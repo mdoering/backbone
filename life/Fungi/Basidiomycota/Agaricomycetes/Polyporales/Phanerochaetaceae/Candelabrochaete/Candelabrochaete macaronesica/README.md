@@ -1,5 +1,4 @@
-Candelabrochaete macaronesica M. Dueñas, Tellería & Melo SPECIES
-=======
+# Candelabrochaete macaronesica M. Dueñas, Tellería & Melo SPECIES
 
 #### Status
 ACCEPTED

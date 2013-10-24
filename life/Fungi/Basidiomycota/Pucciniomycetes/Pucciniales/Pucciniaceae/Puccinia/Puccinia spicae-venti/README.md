@@ -1,5 +1,4 @@
-Puccinia spicae-venti Bucholtz SPECIES
-=======
+# Puccinia spicae-venti Bucholtz SPECIES
 
 #### Status
 ACCEPTED

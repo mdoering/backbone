@@ -1,5 +1,4 @@
-Acanthamoeba gigantea Schmoller, 1964 SPECIES
-=======
+# Acanthamoeba gigantea Schmoller, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe alnicola H.E. Bigelow SPECIES
-=======
+# Clitocybe alnicola H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

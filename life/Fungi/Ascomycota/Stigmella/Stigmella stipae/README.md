@@ -1,5 +1,4 @@
-Stigmella stipae Trab. SPECIES
-=======
+# Stigmella stipae Trab. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pistillaria dubia Maas Geest. SPECIES
-=======
+# Pistillaria dubia Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

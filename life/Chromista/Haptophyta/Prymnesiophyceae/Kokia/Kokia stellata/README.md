@@ -1,5 +1,4 @@
-Kokia stellata SPECIES
-=======
+# Kokia stellata SPECIES
 
 #### Status
 ACCEPTED

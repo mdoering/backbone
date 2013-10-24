@@ -1,5 +1,4 @@
-Candida glaebosa Komag. & Nakase, 1965 SPECIES
-=======
+# Candida glaebosa Komag. & Nakase, 1965 SPECIES
 
 #### Status
 ACCEPTED

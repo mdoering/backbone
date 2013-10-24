@@ -1,5 +1,4 @@
-Ligniera isoëtis Palm, 1919 SPECIES
-=======
+# Ligniera isoëtis Palm, 1919 SPECIES
 
 #### Status
 ACCEPTED

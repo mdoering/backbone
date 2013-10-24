@@ -1,5 +1,4 @@
-Prevotella tannerae Moore et al., 1994 SPECIES
-=======
+# Prevotella tannerae Moore et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

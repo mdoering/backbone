@@ -1,5 +1,4 @@
-Didymosphaeria stellariae Höhn. SPECIES
-=======
+# Didymosphaeria stellariae Höhn. SPECIES
 
 #### Status
 ACCEPTED

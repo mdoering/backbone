@@ -1,5 +1,4 @@
-Mucor mollis Bainier SPECIES
-=======
+# Mucor mollis Bainier SPECIES
 
 #### Status
 ACCEPTED

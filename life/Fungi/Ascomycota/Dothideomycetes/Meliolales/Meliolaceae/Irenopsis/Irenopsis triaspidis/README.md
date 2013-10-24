@@ -1,5 +1,4 @@
-Irenopsis triaspidis Deighton SPECIES
-=======
+# Irenopsis triaspidis Deighton SPECIES
 
 #### Status
 ACCEPTED

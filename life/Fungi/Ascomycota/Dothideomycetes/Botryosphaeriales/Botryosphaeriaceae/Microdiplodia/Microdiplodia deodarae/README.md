@@ -1,5 +1,4 @@
-Microdiplodia deodarae (Thüm.) Tassi SPECIES
-=======
+# Microdiplodia deodarae (Thüm.) Tassi SPECIES
 
 #### Status
 ACCEPTED

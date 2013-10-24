@@ -1,5 +1,4 @@
-Peltopsis millepunctata (Penz. & Sacc.) Bat. SPECIES
-=======
+# Peltopsis millepunctata (Penz. & Sacc.) Bat. SPECIES
 
 #### Status
 ACCEPTED

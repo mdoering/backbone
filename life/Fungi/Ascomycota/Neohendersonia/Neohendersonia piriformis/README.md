@@ -1,17 +1,16 @@
-Didymella sphinctrinoides var. piriformis (Olive) Vouaux VARIETY
-=======
+# Neohendersonia piriformis (G.H. Otth) Petr., 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 19(3/4): 190 (1921)
 
 #### Original name
-Sphaeria piriformis Olive
+Hendersonia piriformis G.H. Otth
 
 ### Remarks
 null

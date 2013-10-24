@@ -1,5 +1,4 @@
-Pestalotiopsis oenotherae Venkatas., Grand & Van Dyke SPECIES
-=======
+# Pestalotiopsis oenotherae Venkatas., Grand & Van Dyke SPECIES
 
 #### Status
 ACCEPTED

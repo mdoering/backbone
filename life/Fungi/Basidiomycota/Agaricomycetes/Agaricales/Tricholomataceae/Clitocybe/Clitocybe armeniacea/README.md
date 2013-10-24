@@ -1,5 +1,4 @@
-Clitocybe armeniacea Mont. SPECIES
-=======
+# Clitocybe armeniacea Mont. SPECIES
 
 #### Status
 ACCEPTED

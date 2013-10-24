@@ -1,5 +1,4 @@
-Mycena lucentipes Desjardin, Capelari & Stevani SPECIES
-=======
+# Mycena lucentipes Desjardin, Capelari & Stevani SPECIES
 
 #### Status
 ACCEPTED

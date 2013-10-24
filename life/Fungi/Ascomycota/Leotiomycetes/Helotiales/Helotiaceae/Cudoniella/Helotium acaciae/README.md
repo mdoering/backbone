@@ -1,5 +1,4 @@
-Helotium acaciae Velen. SPECIES
-=======
+# Helotium acaciae Velen. SPECIES
 
 #### Status
 ACCEPTED

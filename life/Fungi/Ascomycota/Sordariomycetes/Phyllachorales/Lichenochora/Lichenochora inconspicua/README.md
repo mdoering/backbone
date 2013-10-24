@@ -1,5 +1,4 @@
-Lichenochora inconspicua Hafellner, 1989 SPECIES
-=======
+# Lichenochora inconspicua Hafellner, 1989 SPECIES
 
 #### Status
 ACCEPTED

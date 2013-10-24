@@ -1,5 +1,4 @@
-Rhizoctonia ferruginea Matz, 1921 SPECIES
-=======
+# Rhizoctonia ferruginea Matz, 1921 SPECIES
 
 #### Status
 ACCEPTED

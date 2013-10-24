@@ -1,14 +1,13 @@
-Peglionia verticiclada Goid., 1934 SPECIES
-=======
+# Gyrothrix verticiclada (Goid.) S. Hughes & Piroz., 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Malpighia 33: 5 (1934)
+N. Z. Jl Bot. 9(1): 42 (1971)
 
 #### Original name
 Peglionia verticiclada Goid., 1934

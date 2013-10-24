@@ -1,5 +1,4 @@
-Marssonina stellariae (I.E. Brezhnev) Karak. SPECIES
-=======
+# Marssonina stellariae (I.E. Brezhnev) Karak. SPECIES
 
 #### Status
 ACCEPTED

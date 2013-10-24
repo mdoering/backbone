@@ -1,5 +1,4 @@
-Scytinostroma neogalactinum Boidin & Lanq., 1987 SPECIES
-=======
+# Scytinostroma neogalactinum Boidin & Lanq., 1987 SPECIES
 
 #### Status
 ACCEPTED

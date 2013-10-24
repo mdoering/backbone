@@ -1,5 +1,4 @@
-Opegrapha rufa Müll. Arg. SPECIES
-=======
+# Opegrapha rufa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

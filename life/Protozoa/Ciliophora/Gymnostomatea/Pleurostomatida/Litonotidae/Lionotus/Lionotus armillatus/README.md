@@ -1,5 +1,4 @@
-Lionotus armillatus Penard, 1922 SPECIES
-=======
+# Lionotus armillatus Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

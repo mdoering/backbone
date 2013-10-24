@@ -1,5 +1,4 @@
-Gyromitra olympiana (Kanouse) Harmaja SPECIES
-=======
+# Gyromitra olympiana (Kanouse) Harmaja SPECIES
 
 #### Status
 ACCEPTED

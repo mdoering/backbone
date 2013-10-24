@@ -1,5 +1,4 @@
-Allodus podophylli (Schwein.) Arthur SPECIES
-=======
+# Allodus podophylli (Schwein.) Arthur SPECIES
 
 #### Status
 ACCEPTED

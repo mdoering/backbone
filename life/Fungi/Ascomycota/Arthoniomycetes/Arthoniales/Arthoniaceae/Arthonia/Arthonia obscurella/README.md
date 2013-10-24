@@ -1,5 +1,4 @@
-Arthonia obscurella Müll. Arg. SPECIES
-=======
+# Arthonia obscurella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

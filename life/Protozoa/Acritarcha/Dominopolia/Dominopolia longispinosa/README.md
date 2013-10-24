@@ -1,5 +1,4 @@
-Dominopolia longispinosa Kiryanov, 1974 SPECIES
-=======
+# Dominopolia longispinosa Kiryanov, 1974 SPECIES
 
 #### Status
 ACCEPTED

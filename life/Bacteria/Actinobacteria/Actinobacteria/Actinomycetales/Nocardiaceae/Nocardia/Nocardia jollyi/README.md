@@ -1,5 +1,4 @@
-Nocardia jollyi Vuill. SPECIES
-=======
+# Nocardia jollyi Vuill. SPECIES
 
 #### Status
 ACCEPTED

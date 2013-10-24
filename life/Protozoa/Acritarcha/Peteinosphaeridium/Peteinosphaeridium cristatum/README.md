@@ -1,5 +1,4 @@
-Peteinosphaeridium cristatum Vavrdová, 1995 SPECIES
-=======
+# Peteinosphaeridium cristatum Vavrdová, 1995 SPECIES
 
 #### Status
 ACCEPTED

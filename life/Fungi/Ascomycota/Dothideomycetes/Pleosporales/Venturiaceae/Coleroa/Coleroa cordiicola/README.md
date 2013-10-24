@@ -1,5 +1,4 @@
-Coleroa cordiicola (Henn.) Hansf. SPECIES
-=======
+# Coleroa cordiicola (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

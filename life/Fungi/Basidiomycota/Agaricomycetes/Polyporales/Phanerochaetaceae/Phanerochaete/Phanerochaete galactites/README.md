@@ -1,17 +1,16 @@
-Corticium rhodoleucum galactites Bourdot & Galzin, 1928 INFRASPECIFIC_NAME
-=======
+# Phanerochaete galactites (Bourdot & Galzin) J. Erikss. & Ryvarden, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cortic. N. Eur. (Oslo) 5: 1005 (1978)
 
 #### Original name
-null
+Corticium rhodoleucum galactites Bourdot & Galzin, 1928
 
 ### Remarks
 null

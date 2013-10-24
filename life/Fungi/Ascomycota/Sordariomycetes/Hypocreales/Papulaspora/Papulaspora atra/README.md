@@ -1,5 +1,4 @@
-Papulaspora atra Hotson SPECIES
-=======
+# Papulaspora atra Hotson SPECIES
 
 #### Status
 ACCEPTED

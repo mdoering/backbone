@@ -1,5 +1,4 @@
-Cladosporium sphaeroideum Cooke, 1879 SPECIES
-=======
+# Cladosporium sphaeroideum Cooke, 1879 SPECIES
 
 #### Status
 ACCEPTED

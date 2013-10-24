@@ -1,5 +1,4 @@
-Zoogloea ramigera Itzigsohn, 1868 (Approved Lists, 1980) SPECIES
-=======
+# Zoogloea ramigera Itzigsohn, 1868 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

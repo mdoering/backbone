@@ -1,5 +1,4 @@
-Cayeuxipora Graindor, 1957 GENUS
-=======
+# Cayeuxipora Graindor, 1957 GENUS
 
 #### Status
 ACCEPTED

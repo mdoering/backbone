@@ -1,5 +1,4 @@
-Pseudomonas chlororaphis (Guignard and Sauvageau, 1894) Bergey et al., 1930 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas chlororaphis (Guignard and Sauvageau, 1894) Bergey et al., 1930 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

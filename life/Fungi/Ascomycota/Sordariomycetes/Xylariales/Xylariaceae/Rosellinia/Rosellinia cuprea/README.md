@@ -1,5 +1,4 @@
-Rosellinia cuprea Rick SPECIES
-=======
+# Rosellinia cuprea Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma pluteiforme Murrill SPECIES
-=======
+# Entoloma pluteiforme Murrill SPECIES
 
 #### Status
 ACCEPTED

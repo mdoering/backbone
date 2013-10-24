@@ -1,5 +1,4 @@
-Placodium pruinosum (Chaub.) Müll. Arg. SPECIES
-=======
+# Placodium pruinosum (Chaub.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

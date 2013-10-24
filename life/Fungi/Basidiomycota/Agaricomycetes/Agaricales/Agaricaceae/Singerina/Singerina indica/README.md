@@ -1,5 +1,4 @@
-Singerina indica Sathe & S.D. Deshp., 1981 SPECIES
-=======
+# Singerina indica Sathe & S.D. Deshp., 1981 SPECIES
 
 #### Status
 ACCEPTED

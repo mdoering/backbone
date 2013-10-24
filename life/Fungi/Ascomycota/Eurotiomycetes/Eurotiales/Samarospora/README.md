@@ -1,5 +1,4 @@
-Samarospora Rostr. GENUS
-=======
+# Samarospora Rostr. GENUS
 
 #### Status
 ACCEPTED

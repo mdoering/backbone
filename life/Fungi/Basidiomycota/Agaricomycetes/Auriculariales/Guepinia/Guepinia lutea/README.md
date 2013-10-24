@@ -1,5 +1,4 @@
-Guepinia lutea Bres. SPECIES
-=======
+# Guepinia lutea Bres. SPECIES
 
 #### Status
 ACCEPTED

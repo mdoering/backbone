@@ -1,5 +1,4 @@
-Rhabdostyla bosminae Levander, 1907 SPECIES
-=======
+# Rhabdostyla bosminae Levander, 1907 SPECIES
 
 #### Status
 ACCEPTED

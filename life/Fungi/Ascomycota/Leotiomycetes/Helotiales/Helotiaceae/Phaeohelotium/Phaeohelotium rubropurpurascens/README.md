@@ -1,5 +1,4 @@
-Phaeohelotium rubropurpurascens Svrcek SPECIES
-=======
+# Phaeohelotium rubropurpurascens Svrcek SPECIES
 
 #### Status
 ACCEPTED

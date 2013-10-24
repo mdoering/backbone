@@ -1,5 +1,4 @@
-Dialonectria nipigonensis (Ellis & Everh.) Lar.N. Vassiljeva SPECIES
-=======
+# Dialonectria nipigonensis (Ellis & Everh.) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

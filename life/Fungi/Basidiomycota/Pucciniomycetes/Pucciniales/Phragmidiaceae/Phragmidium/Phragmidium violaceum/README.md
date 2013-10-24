@@ -1,17 +1,16 @@
-Lecythea ruborum Lév., 1847 SPECIES
-=======
+# Phragmidium violaceum (Schultz) G. Winter, 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 8: 374 (1847)
+Hedwigia 19: 54 (1880)
 
 #### Original name
-Lecythea ruborum Lév., 1847
+Puccinia violacea Schultz, 1806
 
 ### Remarks
 null

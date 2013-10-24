@@ -1,5 +1,4 @@
-Trichosporites conwentzii Félix SPECIES
-=======
+# Trichosporites conwentzii Félix SPECIES
 
 #### Status
 ACCEPTED

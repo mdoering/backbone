@@ -1,8 +1,7 @@
-Pasteurella volantium Mutters et al., 1985 SPECIES
-=======
+# Avibacterium volantium (Mutters et al., 1985) Blackall et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

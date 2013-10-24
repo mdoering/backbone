@@ -1,5 +1,4 @@
-Hendersonia tini Ellis & Langl. SPECIES
-=======
+# Hendersonia tini Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

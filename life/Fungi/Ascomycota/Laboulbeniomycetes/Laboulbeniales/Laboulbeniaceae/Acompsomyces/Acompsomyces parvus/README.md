@@ -1,5 +1,4 @@
-Acompsomyces parvus R.K. Benj. SPECIES
-=======
+# Acompsomyces parvus R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

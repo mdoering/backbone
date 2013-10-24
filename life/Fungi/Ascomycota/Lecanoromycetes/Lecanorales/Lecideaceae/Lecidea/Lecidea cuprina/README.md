@@ -1,5 +1,4 @@
-Lecidea cuprina Nyl. SPECIES
-=======
+# Lecidea cuprina Nyl. SPECIES
 
 #### Status
 ACCEPTED

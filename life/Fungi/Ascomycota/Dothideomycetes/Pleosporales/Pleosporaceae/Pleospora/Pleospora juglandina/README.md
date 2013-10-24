@@ -1,5 +1,4 @@
-Pleospora juglandina Feltgen SPECIES
-=======
+# Pleospora juglandina Feltgen SPECIES
 
 #### Status
 ACCEPTED

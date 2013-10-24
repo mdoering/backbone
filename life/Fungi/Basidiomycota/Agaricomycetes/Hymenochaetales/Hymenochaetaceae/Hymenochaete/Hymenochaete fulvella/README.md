@@ -1,5 +1,4 @@
-Hymenochaete fulvella Berk. SPECIES
-=======
+# Hymenochaete fulvella Berk. SPECIES
 
 #### Status
 ACCEPTED

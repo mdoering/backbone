@@ -1,5 +1,4 @@
-Tricholoma crepidotoides Corner SPECIES
-=======
+# Tricholoma crepidotoides Corner SPECIES
 
 #### Status
 ACCEPTED

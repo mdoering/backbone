@@ -1,5 +1,4 @@
-Uredo sporoboli-pyramidalidis Gjaerum SPECIES
-=======
+# Uredo sporoboli-pyramidalidis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

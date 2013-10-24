@@ -1,5 +1,4 @@
-Lecidea polycampia Tuck. SPECIES
-=======
+# Lecidea polycampia Tuck. SPECIES
 
 #### Status
 ACCEPTED

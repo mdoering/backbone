@@ -1,5 +1,4 @@
-Penicillium persicinum L. Wang, H.B. Zhou, Frisvad & Samson SPECIES
-=======
+# Penicillium persicinum L. Wang, H.B. Zhou, Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

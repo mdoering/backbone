@@ -1,5 +1,4 @@
-Agaricus albolutescens Zeller SPECIES
-=======
+# Agaricus albolutescens Zeller SPECIES
 
 #### Status
 ACCEPTED

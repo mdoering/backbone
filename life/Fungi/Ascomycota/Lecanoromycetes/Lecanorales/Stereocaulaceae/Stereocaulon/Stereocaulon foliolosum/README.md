@@ -1,5 +1,4 @@
-Stereocaulon foliolosum Nyl. SPECIES
-=======
+# Stereocaulon foliolosum Nyl. SPECIES
 
 #### Status
 ACCEPTED

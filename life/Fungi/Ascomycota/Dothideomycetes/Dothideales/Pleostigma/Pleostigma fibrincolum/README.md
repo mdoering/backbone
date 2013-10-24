@@ -1,14 +1,13 @@
-Pleosphaeria fibrincola Peyronel, 1916 SPECIES
-=======
+# Pleostigma fibrincolum (Peyronel) Kirschst., 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 37: 91 (1939)
 
 #### Original name
 Pleosphaeria fibrincola Peyronel, 1916

@@ -1,5 +1,4 @@
-Penicillium assiutense Samson & Abdel-Fattah SPECIES
-=======
+# Penicillium assiutense Samson & Abdel-Fattah SPECIES
 
 #### Status
 ACCEPTED

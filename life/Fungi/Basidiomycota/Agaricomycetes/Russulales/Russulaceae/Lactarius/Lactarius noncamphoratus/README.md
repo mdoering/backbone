@@ -1,5 +1,4 @@
-Lactarius noncamphoratus K. Bässler & Jul. Schäff. SPECIES
-=======
+# Lactarius noncamphoratus K. Bässler & Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

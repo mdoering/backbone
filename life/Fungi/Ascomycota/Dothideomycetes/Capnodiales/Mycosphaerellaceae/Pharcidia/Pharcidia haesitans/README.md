@@ -1,5 +1,4 @@
-Pharcidia haesitans Vouaux SPECIES
-=======
+# Pharcidia haesitans Vouaux SPECIES
 
 #### Status
 ACCEPTED

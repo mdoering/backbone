@@ -1,5 +1,4 @@
-Cintractia scabra Syd. SPECIES
-=======
+# Cintractia scabra Syd. SPECIES
 
 #### Status
 ACCEPTED

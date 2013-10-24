@@ -1,14 +1,13 @@
-Cristatavultatus Loeblich & Tappan, 1994 GENUS
-=======
+# Cristatavultus Loeblich & Tappan, 1994 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Cushman Foundation for Foraminiferal Research Special Publication 31, March 30: 167.
 
 #### Original name
 null

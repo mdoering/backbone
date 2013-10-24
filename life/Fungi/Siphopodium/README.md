@@ -1,5 +1,4 @@
-Siphopodium Reinsch GENUS
-=======
+# Siphopodium Reinsch GENUS
 
 #### Status
 ACCEPTED

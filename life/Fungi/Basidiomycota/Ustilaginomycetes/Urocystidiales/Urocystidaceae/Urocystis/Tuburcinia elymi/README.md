@@ -1,5 +1,4 @@
-Tuburcinia elymi Cif. SPECIES
-=======
+# Tuburcinia elymi Cif. SPECIES
 
 #### Status
 ACCEPTED

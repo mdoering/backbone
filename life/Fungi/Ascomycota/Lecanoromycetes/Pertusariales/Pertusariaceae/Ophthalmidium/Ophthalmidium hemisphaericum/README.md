@@ -1,5 +1,4 @@
-Ophthalmidium hemisphaericum Eschw. SPECIES
-=======
+# Ophthalmidium hemisphaericum Eschw. SPECIES
 
 #### Status
 ACCEPTED

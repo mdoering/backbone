@@ -1,5 +1,4 @@
-Lepista metachroides (Harmaja) Harmaja SPECIES
-=======
+# Lepista metachroides (Harmaja) Harmaja SPECIES
 
 #### Status
 ACCEPTED

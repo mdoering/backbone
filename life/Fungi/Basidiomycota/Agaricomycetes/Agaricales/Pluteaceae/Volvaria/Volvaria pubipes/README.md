@@ -1,5 +1,4 @@
-Volvaria pubipes Peck ex Sacc. SPECIES
-=======
+# Volvaria pubipes Peck ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

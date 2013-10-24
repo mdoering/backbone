@@ -1,5 +1,4 @@
-Dimorphomyces obliqueseptatus Thaxt. SPECIES
-=======
+# Dimorphomyces obliqueseptatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

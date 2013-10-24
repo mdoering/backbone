@@ -1,5 +1,4 @@
-Comatricha subalpina M.L. Farr & S.L. Stephenson, 1987 SPECIES
-=======
+# Comatricha subalpina M.L. Farr & S.L. Stephenson, 1987 SPECIES
 
 #### Status
 ACCEPTED

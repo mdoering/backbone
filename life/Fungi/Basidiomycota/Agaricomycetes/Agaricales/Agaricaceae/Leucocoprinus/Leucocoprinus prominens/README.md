@@ -1,5 +1,4 @@
-Leucocoprinus prominens (Viv. ex Fr.) Locq. SPECIES
-=======
+# Leucocoprinus prominens (Viv. ex Fr.) Locq. SPECIES
 
 #### Status
 ACCEPTED

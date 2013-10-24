@@ -1,17 +1,16 @@
-Ciliosculum invisible Kirschst. SPECIES
-=======
+# Ciliosculum invisibile Kirschst., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 80: (1941)
 
 #### Original name
-Ciliosculum invisible Kirschst.
+Ciliosculum invisibile Kirschst., 1941
 
 ### Remarks
 null

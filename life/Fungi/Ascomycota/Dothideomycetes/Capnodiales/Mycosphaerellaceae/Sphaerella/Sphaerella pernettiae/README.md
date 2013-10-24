@@ -1,5 +1,4 @@
-Sphaerella pernettiae Speg. SPECIES
-=======
+# Sphaerella pernettiae Speg. SPECIES
 
 #### Status
 ACCEPTED

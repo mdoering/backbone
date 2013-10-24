@@ -1,5 +1,4 @@
-Penzigina GENUS
-=======
+# Penzigina GENUS
 
 #### Status
 ACCEPTED

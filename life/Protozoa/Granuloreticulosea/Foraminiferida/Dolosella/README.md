@@ -1,5 +1,4 @@
-Dolosella GENUS
-=======
+# Dolosella GENUS
 
 #### Status
 ACCEPTED

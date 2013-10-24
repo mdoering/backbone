@@ -1,5 +1,4 @@
-Kangbaoella Xia Guoying & Zhang Zhicun, 1984 GENUS
-=======
+# Kangbaoella Xia Guoying & Zhang Zhicun, 1984 GENUS
 
 #### Status
 ACCEPTED

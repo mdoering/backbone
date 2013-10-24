@@ -1,5 +1,4 @@
-Parendosphaera Jankowski, 1981 GENUS
-=======
+# Parendosphaera Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

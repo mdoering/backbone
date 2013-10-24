@@ -1,5 +1,4 @@
-Melanconium populinum Peck SPECIES
-=======
+# Melanconium populinum Peck SPECIES
 
 #### Status
 ACCEPTED

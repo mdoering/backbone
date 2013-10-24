@@ -1,5 +1,4 @@
-Cruciplacolithus W.Hay & Mohler, 1967 GENUS
-=======
+# Cruciplacolithus W.Hay & Mohler, 1967 GENUS
 
 #### Status
 ACCEPTED

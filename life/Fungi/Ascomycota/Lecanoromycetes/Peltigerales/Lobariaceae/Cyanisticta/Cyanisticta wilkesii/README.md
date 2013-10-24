@@ -1,5 +1,4 @@
-Cyanisticta wilkesii C.W. Dodge SPECIES
-=======
+# Cyanisticta wilkesii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

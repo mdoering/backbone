@@ -1,5 +1,4 @@
-Handkea lycoperdoides (A.H. Sm.) Kreisel SPECIES
-=======
+# Handkea lycoperdoides (A.H. Sm.) Kreisel SPECIES
 
 #### Status
 ACCEPTED

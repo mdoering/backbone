@@ -1,5 +1,4 @@
-Lachnea nigra (Sw.) Sacc. SPECIES
-=======
+# Lachnea nigra (Sw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

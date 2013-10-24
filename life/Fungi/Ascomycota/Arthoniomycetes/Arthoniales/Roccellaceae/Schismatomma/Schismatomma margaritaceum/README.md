@@ -1,5 +1,4 @@
-Schismatomma margaritaceum Zahlbr. SPECIES
-=======
+# Schismatomma margaritaceum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

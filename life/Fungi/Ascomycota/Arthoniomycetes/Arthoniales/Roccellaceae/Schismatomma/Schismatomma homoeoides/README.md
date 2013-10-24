@@ -1,5 +1,4 @@
-Schismatomma homoeoides (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma homoeoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

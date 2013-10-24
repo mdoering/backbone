@@ -1,5 +1,4 @@
-Lagynis pontica Golemansky, 1999 SPECIES
-=======
+# Lagynis pontica Golemansky, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia brunneola Malme SPECIES
-=======
+# Bacidia brunneola Malme SPECIES
 
 #### Status
 ACCEPTED

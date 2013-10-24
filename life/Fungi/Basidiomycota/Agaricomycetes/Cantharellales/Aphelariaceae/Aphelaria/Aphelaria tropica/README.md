@@ -1,14 +1,13 @@
-Pterula tropica Mont., 1855 SPECIES
-=======
+# Aphelaria tropica (Mont.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Crypt. Ard. exs. (1855)
+Ann. Bot. Mem. 1: 191 (1950)
 
 #### Original name
 Pterula tropica Mont., 1855

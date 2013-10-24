@@ -1,5 +1,4 @@
-Cucurbitaria athroa (Ellis & Everh.) Kuntze SPECIES
-=======
+# Cucurbitaria athroa (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

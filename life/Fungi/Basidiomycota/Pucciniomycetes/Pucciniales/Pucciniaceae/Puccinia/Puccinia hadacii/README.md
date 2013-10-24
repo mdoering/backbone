@@ -1,5 +1,4 @@
-Puccinia hadacii Z. Urb. SPECIES
-=======
+# Puccinia hadacii Z. Urb. SPECIES
 
 #### Status
 ACCEPTED

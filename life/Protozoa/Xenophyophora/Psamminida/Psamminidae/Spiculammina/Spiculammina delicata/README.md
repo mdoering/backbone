@@ -1,5 +1,4 @@
-Spiculammina delicata Kamenskaya, 2004 SPECIES
-=======
+# Spiculammina delicata Kamenskaya, 2004 SPECIES
 
 #### Status
 ACCEPTED

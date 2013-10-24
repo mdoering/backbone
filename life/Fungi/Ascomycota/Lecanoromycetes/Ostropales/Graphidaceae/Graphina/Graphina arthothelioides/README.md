@@ -1,5 +1,4 @@
-Graphina arthothelioides C.W. Dodge SPECIES
-=======
+# Graphina arthothelioides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

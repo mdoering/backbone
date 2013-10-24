@@ -1,5 +1,4 @@
-Calycidiomyces cuneati Cif. & Tomas. SPECIES
-=======
+# Calycidiomyces cuneati Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

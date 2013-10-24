@@ -1,5 +1,4 @@
-Filaspora mueggenburgii (Pirotta) Kuntze SPECIES
-=======
+# Filaspora mueggenburgii (Pirotta) Kuntze SPECIES
 
 #### Status
 ACCEPTED

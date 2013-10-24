@@ -1,5 +1,4 @@
-Hymenoscyphus atlanticus Cand. SPECIES
-=======
+# Hymenoscyphus atlanticus Cand. SPECIES
 
 #### Status
 ACCEPTED

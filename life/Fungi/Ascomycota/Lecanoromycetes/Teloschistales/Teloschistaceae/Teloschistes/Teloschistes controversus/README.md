@@ -1,5 +1,4 @@
-Teloschistes controversus var. controversus VARIETY
-=======
+# Teloschistes controversus (A. Massal.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Teloschistes controversus var. controversus
+Physcia controversa A. Massal.
 
 ### Remarks
 null

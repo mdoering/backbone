@@ -1,5 +1,4 @@
-Protocreopsis bromeliicola (Bat., Nascim. & Cif.) Yoshim. Doi SPECIES
-=======
+# Protocreopsis bromeliicola (Bat., Nascim. & Cif.) Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

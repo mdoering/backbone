@@ -1,5 +1,4 @@
-Trichormus reverdattoanus (T. G. Popova & M. Degterieva) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus reverdattoanus (T. G. Popova & M. Degterieva) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

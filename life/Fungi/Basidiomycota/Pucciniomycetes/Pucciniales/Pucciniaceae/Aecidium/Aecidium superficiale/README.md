@@ -1,5 +1,4 @@
-Aecidium superficiale P. Karst. & Roum. SPECIES
-=======
+# Aecidium superficiale P. Karst. & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balantidium giganteum Bezzenberger, 1904 SPECIES
-=======
+# Balantidium giganteum Bezzenberger, 1904 SPECIES
 
 #### Status
 ACCEPTED

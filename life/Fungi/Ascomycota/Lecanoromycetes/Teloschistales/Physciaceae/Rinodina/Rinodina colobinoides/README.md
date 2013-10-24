@@ -1,14 +1,13 @@
-Lecanora colobinoides Nyl. SPECIES
-=======
+# Rinodina colobinoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Sci. fenn. 7: 444 (1863)
+Cat. Lich. Univers. 7: 499 (1931)
 
 #### Original name
 Lecanora colobinoides Nyl.

@@ -1,5 +1,4 @@
-Phoma ephedricola Brunaud SPECIES
-=======
+# Phoma ephedricola Brunaud SPECIES
 
 #### Status
 ACCEPTED

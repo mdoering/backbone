@@ -1,5 +1,4 @@
-Poria barbata Rick SPECIES
-=======
+# Poria barbata Rick SPECIES
 
 #### Status
 ACCEPTED

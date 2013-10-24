@@ -1,5 +1,4 @@
-Elaeodema Syd. GENUS
-=======
+# Elaeodema Syd. GENUS
 
 #### Status
 ACCEPTED

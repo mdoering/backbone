@@ -1,5 +1,4 @@
-Perenniporia detritus (Berk.) Ryvarden, 1980 SPECIES
-=======
+# Perenniporia detritus (Berk.) Ryvarden, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleuromycenula hydrophila Manim. & Leelav. SPECIES
-=======
+# Pleuromycenula hydrophila Manim. & Leelav. SPECIES
 
 #### Status
 ACCEPTED

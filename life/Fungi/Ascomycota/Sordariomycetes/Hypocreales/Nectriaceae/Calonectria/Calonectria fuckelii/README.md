@@ -1,5 +1,4 @@
-Calonectria fuckelii (Nitschke) Sacc. SPECIES
-=======
+# Calonectria fuckelii (Nitschke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

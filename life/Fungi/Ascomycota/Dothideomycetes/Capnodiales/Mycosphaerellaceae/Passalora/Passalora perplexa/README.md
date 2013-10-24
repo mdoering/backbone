@@ -1,5 +1,4 @@
-Passalora perplexa Beilharz, Pascoe, M.J. Wingf. & Crous SPECIES
-=======
+# Passalora perplexa Beilharz, Pascoe, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

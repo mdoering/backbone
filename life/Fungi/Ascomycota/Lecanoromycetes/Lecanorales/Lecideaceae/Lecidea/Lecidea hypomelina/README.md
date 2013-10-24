@@ -1,5 +1,4 @@
-Lecidea hypomelina Stirt. SPECIES
-=======
+# Lecidea hypomelina Stirt. SPECIES
 
 #### Status
 ACCEPTED

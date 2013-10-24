@@ -1,5 +1,4 @@
-Paulinella riveroi SPECIES
-=======
+# Paulinella riveroi SPECIES
 
 #### Status
 ACCEPTED

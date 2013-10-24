@@ -1,5 +1,4 @@
-Cylindrocephalum hyalinum (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Cylindrocephalum hyalinum (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

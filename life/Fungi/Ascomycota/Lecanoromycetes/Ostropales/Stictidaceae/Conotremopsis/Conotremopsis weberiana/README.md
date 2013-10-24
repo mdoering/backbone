@@ -1,5 +1,4 @@
-Conotremopsis weberiana Vezda SPECIES
-=======
+# Conotremopsis weberiana Vezda SPECIES
 
 #### Status
 ACCEPTED

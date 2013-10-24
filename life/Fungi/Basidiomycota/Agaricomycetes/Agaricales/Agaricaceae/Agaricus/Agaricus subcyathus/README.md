@@ -1,5 +1,4 @@
-Agaricus subcyathus Schumach. & Secr. SPECIES
-=======
+# Agaricus subcyathus Schumach. & Secr. SPECIES
 
 #### Status
 ACCEPTED

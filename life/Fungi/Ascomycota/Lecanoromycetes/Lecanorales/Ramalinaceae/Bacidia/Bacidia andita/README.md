@@ -1,5 +1,4 @@
-Bacidia andita f. andita FORM
-=======
+# Bacidia andita (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bacidia andita f. andita
+Lecidea andita Nyl.
 
 ### Remarks
 null

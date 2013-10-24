@@ -1,5 +1,4 @@
-Dialonectria umbellulariae (Plowr. & Harkn.) Cooke SPECIES
-=======
+# Dialonectria umbellulariae (Plowr. & Harkn.) Cooke SPECIES
 
 #### Status
 ACCEPTED

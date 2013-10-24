@@ -1,5 +1,4 @@
-Trichosphaeriales M.E. Barr ORDER
-=======
+# Trichosphaeriales M.E. Barr ORDER
 
 #### Status
 ACCEPTED

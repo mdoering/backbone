@@ -1,5 +1,4 @@
-Aspicilia gerdensis Hue SPECIES
-=======
+# Aspicilia gerdensis Hue SPECIES
 
 #### Status
 ACCEPTED

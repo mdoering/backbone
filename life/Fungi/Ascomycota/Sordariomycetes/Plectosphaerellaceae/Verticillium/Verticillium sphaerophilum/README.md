@@ -1,5 +1,4 @@
-Verticillium sphaerophilum Peck SPECIES
-=======
+# Verticillium sphaerophilum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achlya achlyoides (Coker) T.W. Johnson & R.L. Seym. SPECIES
-=======
+# Achlya achlyoides (Coker) T.W. Johnson & R.L. Seym. SPECIES
 
 #### Status
 ACCEPTED

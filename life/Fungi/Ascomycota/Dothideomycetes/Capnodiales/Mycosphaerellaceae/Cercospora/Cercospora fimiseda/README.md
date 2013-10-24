@@ -1,5 +1,4 @@
-Cercospora fimiseda Fuckel SPECIES
-=======
+# Cercospora fimiseda Fuckel SPECIES
 
 #### Status
 ACCEPTED

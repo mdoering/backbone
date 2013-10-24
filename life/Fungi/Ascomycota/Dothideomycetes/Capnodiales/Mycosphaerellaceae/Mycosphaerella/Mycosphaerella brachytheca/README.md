@@ -1,5 +1,4 @@
-Mycosphaerella brachytheca (Cooke) SPECIES
-=======
+# Mycosphaerella brachytheca (Cooke) SPECIES
 
 #### Status
 ACCEPTED

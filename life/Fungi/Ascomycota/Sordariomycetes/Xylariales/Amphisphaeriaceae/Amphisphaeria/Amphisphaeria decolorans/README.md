@@ -1,5 +1,4 @@
-Amphisphaeria decolorans (Rehm) Brenckle SPECIES
-=======
+# Amphisphaeria decolorans (Rehm) Brenckle SPECIES
 
 #### Status
 ACCEPTED

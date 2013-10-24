@@ -1,5 +1,4 @@
-Phoma sublingam Boerema SPECIES
-=======
+# Phoma sublingam Boerema SPECIES
 
 #### Status
 ACCEPTED

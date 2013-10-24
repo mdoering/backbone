@@ -1,8 +1,7 @@
-Asteroma guepini Mont. SPECIES
-=======
+# Asteroma guepinii Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asteroma guepini Mont.
+Asteroma guepinii Mont.
 
 ### Remarks
 null

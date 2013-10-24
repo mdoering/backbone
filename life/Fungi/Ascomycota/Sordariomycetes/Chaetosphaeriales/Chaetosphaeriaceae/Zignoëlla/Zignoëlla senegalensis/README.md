@@ -1,5 +1,4 @@
-Zignoëlla senegalensis Speg. SPECIES
-=======
+# Zignoëlla senegalensis Speg. SPECIES
 
 #### Status
 ACCEPTED

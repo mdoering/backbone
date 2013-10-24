@@ -1,5 +1,4 @@
-Crocynia chalicophila Hue SPECIES
-=======
+# Crocynia chalicophila Hue SPECIES
 
 #### Status
 ACCEPTED

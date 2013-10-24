@@ -1,5 +1,4 @@
-Brachyspira aalborgi Hovind-Hougen et al., 1983 SPECIES
-=======
+# Brachyspira aalborgi Hovind-Hougen et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

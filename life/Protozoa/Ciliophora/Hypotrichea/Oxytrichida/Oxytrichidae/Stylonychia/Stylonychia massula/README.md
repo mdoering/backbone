@@ -1,5 +1,4 @@
-Stylonychia massula Dumas SPECIES
-=======
+# Stylonychia massula Dumas SPECIES
 
 #### Status
 ACCEPTED

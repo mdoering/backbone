@@ -1,5 +1,4 @@
-Lecidea micromma Nyl. SPECIES
-=======
+# Lecidea micromma Nyl. SPECIES
 
 #### Status
 ACCEPTED

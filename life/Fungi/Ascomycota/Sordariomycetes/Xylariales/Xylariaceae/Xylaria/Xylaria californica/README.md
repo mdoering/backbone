@@ -1,5 +1,4 @@
-Xylaria californica Earle SPECIES
-=======
+# Xylaria californica Earle SPECIES
 
 #### Status
 ACCEPTED

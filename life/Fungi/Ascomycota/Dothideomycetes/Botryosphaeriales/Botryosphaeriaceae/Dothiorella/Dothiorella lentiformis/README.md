@@ -1,5 +1,4 @@
-Dothiorella lentiformis (Preuss) Sacc. SPECIES
-=======
+# Dothiorella lentiformis (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma colensoi Cooke, 1890 SPECIES
-=======
+# Phoma colensoi Cooke, 1890 SPECIES
 
 #### Status
 ACCEPTED

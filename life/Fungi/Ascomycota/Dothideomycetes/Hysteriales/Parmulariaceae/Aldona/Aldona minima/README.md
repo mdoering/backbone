@@ -1,5 +1,4 @@
-Aldona minima E. Müll. & B.V. Patil, 1973 SPECIES
-=======
+# Aldona minima E. Müll. & B.V. Patil, 1973 SPECIES
 
 #### Status
 ACCEPTED

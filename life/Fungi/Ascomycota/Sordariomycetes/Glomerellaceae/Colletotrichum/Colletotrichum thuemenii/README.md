@@ -1,5 +1,4 @@
-Colletotrichum thuemenii (Sacc.) SPECIES
-=======
+# Colletotrichum thuemenii (Sacc.) SPECIES
 
 #### Status
 ACCEPTED

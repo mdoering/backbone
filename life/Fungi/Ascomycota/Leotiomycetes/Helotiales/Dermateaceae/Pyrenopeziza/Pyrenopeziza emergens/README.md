@@ -1,5 +1,4 @@
-Pyrenopeziza emergens (W. Phillips & Harkn.) Sacc. SPECIES
-=======
+# Pyrenopeziza emergens (W. Phillips & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

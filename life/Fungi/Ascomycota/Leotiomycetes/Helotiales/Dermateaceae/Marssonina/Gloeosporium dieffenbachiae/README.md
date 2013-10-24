@@ -1,5 +1,4 @@
-Gloeosporium dieffenbachiae Gutner SPECIES
-=======
+# Gloeosporium dieffenbachiae Gutner SPECIES
 
 #### Status
 ACCEPTED

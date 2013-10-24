@@ -1,5 +1,4 @@
-Anthina aeruginosa Fuckel SPECIES
-=======
+# Anthina aeruginosa Fuckel SPECIES
 
 #### Status
 ACCEPTED

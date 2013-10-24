@@ -1,5 +1,4 @@
-Monochaetia veneta (Sacc.) Sacc. & D. Sacc. SPECIES
-=======
+# Monochaetia veneta (Sacc.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

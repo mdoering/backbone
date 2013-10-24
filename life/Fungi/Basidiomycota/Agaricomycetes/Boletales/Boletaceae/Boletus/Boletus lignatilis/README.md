@@ -1,5 +1,4 @@
-Boletus lignatilis Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Boletus lignatilis Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus piceinus Murrill SPECIES
-=======
+# Gymnopilus piceinus Murrill SPECIES
 
 #### Status
 ACCEPTED

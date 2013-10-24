@@ -1,5 +1,4 @@
-Lactobacillus fornicalis Dicks et al., 2000 SPECIES
-=======
+# Lactobacillus fornicalis Dicks et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

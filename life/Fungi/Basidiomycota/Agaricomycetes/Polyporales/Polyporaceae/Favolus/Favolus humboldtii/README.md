@@ -1,5 +1,4 @@
-Favolus humboldtii Berk. SPECIES
-=======
+# Favolus humboldtii Berk. SPECIES
 
 #### Status
 ACCEPTED

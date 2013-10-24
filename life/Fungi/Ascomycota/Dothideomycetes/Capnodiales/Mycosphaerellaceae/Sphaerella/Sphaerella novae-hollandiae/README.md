@@ -1,5 +1,4 @@
-Sphaerella novae-hollandiae Tassi SPECIES
-=======
+# Sphaerella novae-hollandiae Tassi SPECIES
 
 #### Status
 ACCEPTED

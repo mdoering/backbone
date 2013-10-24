@@ -1,5 +1,4 @@
-Endomelanconium phoenicicola Yanna, K.D. Hyde & Goh, 1999 SPECIES
-=======
+# Endomelanconium phoenicicola Yanna, K.D. Hyde & Goh, 1999 SPECIES
 
 #### Status
 ACCEPTED

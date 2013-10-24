@@ -1,5 +1,4 @@
-Cercospora senecionicola B.H. Davis SPECIES
-=======
+# Cercospora senecionicola B.H. Davis SPECIES
 
 #### Status
 ACCEPTED

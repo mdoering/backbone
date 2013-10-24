@@ -1,5 +1,4 @@
-Aspicilia inornata Arnold SPECIES
-=======
+# Aspicilia inornata Arnold SPECIES
 
 #### Status
 ACCEPTED

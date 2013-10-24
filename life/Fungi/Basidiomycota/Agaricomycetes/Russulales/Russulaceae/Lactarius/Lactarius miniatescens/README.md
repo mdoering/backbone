@@ -1,5 +1,4 @@
-Lactarius miniatescens Verbeken & Van Rooij SPECIES
-=======
+# Lactarius miniatescens Verbeken & Van Rooij SPECIES
 
 #### Status
 ACCEPTED

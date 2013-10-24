@@ -1,5 +1,4 @@
-Staphylococcus hyicus subsp. hyicus SUBSPECIES
-=======
+# Staphylococcus hyicus (Sompolinsky, 1953) Devriese et al., 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporina kabatiana (Allesch.) Moesz SPECIES
-=======
+# Cercosporina kabatiana (Allesch.) Moesz SPECIES
 
 #### Status
 ACCEPTED

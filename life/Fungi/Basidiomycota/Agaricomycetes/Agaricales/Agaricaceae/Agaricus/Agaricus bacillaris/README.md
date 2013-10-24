@@ -1,5 +1,4 @@
-Agaricus bacillaris Pers. SPECIES
-=======
+# Agaricus bacillaris Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicobacteraceae FAMILY
-=======
+# Helicobacteraceae FAMILY
 
 #### Status
 ACCEPTED

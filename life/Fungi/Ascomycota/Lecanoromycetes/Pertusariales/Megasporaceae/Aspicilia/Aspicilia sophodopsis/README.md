@@ -1,5 +1,4 @@
-Aspicilia sophodopsis (Nyl.) Arnold SPECIES
-=======
+# Aspicilia sophodopsis (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria periclymeni Feltgen SPECIES
-=======
+# Metasphaeria periclymeni Feltgen SPECIES
 
 #### Status
 ACCEPTED

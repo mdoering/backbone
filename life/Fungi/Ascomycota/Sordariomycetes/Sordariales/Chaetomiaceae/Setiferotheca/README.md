@@ -1,5 +1,4 @@
-Setiferotheca Matsush. GENUS
-=======
+# Setiferotheca Matsush. GENUS
 
 #### Status
 ACCEPTED

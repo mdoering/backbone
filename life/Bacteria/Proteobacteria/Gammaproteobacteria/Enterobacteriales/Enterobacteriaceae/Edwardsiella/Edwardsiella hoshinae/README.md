@@ -1,5 +1,4 @@
-Edwardsiella hoshinae Grimont et al., 1981 SPECIES
-=======
+# Edwardsiella hoshinae Grimont et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

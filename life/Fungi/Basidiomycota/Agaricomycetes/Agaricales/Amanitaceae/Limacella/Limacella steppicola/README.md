@@ -1,5 +1,4 @@
-Limacella steppicola Zerova & Wasser SPECIES
-=======
+# Limacella steppicola Zerova & Wasser SPECIES
 
 #### Status
 ACCEPTED

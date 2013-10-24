@@ -1,5 +1,4 @@
-Dangeardiana eudorinae Valkanov ex A. Batko, 1970 SPECIES
-=======
+# Dangeardiana eudorinae Valkanov ex A. Batko, 1970 SPECIES
 
 #### Status
 ACCEPTED

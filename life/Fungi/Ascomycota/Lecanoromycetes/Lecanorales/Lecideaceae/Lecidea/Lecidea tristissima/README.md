@@ -1,5 +1,4 @@
-Lecidea tristissima Vain. SPECIES
-=======
+# Lecidea tristissima Vain. SPECIES
 
 #### Status
 ACCEPTED

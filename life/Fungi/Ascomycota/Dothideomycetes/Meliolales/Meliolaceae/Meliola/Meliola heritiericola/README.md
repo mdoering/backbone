@@ -1,17 +1,16 @@
-Meliola herietariicola Thite & D.K. Kulk. SPECIES
-=======
+# Meliola heritiericola Thite & D.K. Kulk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Shivaji Univ. 18: 210 (1978)
 
 #### Original name
-Meliola herietariicola Thite & D.K. Kulk.
+Meliola heritiericola Thite & D.K. Kulk.
 
 ### Remarks
 null

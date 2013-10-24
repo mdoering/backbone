@@ -1,17 +1,16 @@
-Helminthosporium tiliae Fr., 1832 SPECIES
-=======
+# Exosporium tiliae Link, 1809 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(2): 360 (1832)
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): 10 (1809)
 
 #### Original name
-Helminthosporium tiliae Fr., 1832
+Exosporium tiliae Link, 1809
 
 ### Remarks
 null

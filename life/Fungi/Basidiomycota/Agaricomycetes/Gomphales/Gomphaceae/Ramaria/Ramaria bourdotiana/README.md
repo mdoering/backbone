@@ -1,5 +1,4 @@
-Ramaria bourdotiana Maire, 1937 SPECIES
-=======
+# Ramaria bourdotiana Maire, 1937 SPECIES
 
 #### Status
 ACCEPTED

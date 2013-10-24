@@ -1,5 +1,4 @@
-Placosphaeria arctostaphyli Ellis & Everh. SPECIES
-=======
+# Placosphaeria arctostaphyli Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlebiopsis bicornis Douanla-Meli SPECIES
-=======
+# Phlebiopsis bicornis Douanla-Meli SPECIES
 
 #### Status
 ACCEPTED

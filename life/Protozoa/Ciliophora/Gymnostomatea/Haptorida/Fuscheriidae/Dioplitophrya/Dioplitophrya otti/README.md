@@ -1,5 +1,4 @@
-Dioplitophrya otti Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Dioplitophrya otti Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendryphion avenae-sativae Sawada SPECIES
-=======
+# Dendryphion avenae-sativae Sawada SPECIES
 
 #### Status
 ACCEPTED

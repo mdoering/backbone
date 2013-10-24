@@ -1,5 +1,4 @@
-Cylindrosporium lippiae Heald & F.A. Wolf SPECIES
-=======
+# Cylindrosporium lippiae Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

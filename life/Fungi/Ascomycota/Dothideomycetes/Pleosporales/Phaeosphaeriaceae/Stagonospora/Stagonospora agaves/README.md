@@ -1,5 +1,4 @@
-Stagonospora agaves (Maubl.) Mouch. SPECIES
-=======
+# Stagonospora agaves (Maubl.) Mouch. SPECIES
 
 #### Status
 ACCEPTED

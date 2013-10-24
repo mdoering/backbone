@@ -1,5 +1,4 @@
-Asperococcus scaber Kuckuck SPECIES
-=======
+# Asperococcus scaber Kuckuck SPECIES
 
 #### Status
 ACCEPTED

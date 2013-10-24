@@ -1,5 +1,4 @@
-Platythecium occultum Adaw. & Makhija SPECIES
-=======
+# Platythecium occultum Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

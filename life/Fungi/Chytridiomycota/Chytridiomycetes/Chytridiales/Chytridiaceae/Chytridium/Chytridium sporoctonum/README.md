@@ -1,5 +1,4 @@
-Chytridium sporoctonum A. Braun SPECIES
-=======
+# Chytridium sporoctonum A. Braun SPECIES
 
 #### Status
 ACCEPTED

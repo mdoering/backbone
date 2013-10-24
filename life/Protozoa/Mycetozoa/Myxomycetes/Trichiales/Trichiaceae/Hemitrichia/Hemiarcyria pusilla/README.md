@@ -1,5 +1,4 @@
-Hemiarcyria pusilla Speg. SPECIES
-=======
+# Hemiarcyria pusilla Speg. SPECIES
 
 #### Status
 ACCEPTED

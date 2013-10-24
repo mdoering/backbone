@@ -1,5 +1,4 @@
-Agaricus magnimamma Fr. SPECIES
-=======
+# Agaricus magnimamma Fr. SPECIES
 
 #### Status
 ACCEPTED

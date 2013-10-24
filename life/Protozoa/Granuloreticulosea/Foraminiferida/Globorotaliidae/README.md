@@ -1,5 +1,4 @@
-Globorotaliidae Cushman, 1927 FAMILY
-=======
+# Globorotaliidae Cushman, 1927 FAMILY
 
 #### Status
 ACCEPTED

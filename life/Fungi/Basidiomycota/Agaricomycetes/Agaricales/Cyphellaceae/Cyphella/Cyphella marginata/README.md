@@ -1,5 +1,4 @@
-Cyphella marginata McAlpine SPECIES
-=======
+# Cyphella marginata McAlpine SPECIES
 
 #### Status
 ACCEPTED

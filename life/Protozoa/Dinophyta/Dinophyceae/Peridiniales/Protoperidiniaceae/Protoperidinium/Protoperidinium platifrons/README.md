@@ -1,5 +1,4 @@
-Protoperidinium platifrons Balech, 1999 SPECIES
-=======
+# Protoperidinium platifrons Balech, 1999 SPECIES
 
 #### Status
 ACCEPTED

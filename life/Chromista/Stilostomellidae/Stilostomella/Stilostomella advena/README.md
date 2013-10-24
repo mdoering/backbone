@@ -1,5 +1,4 @@
-Stilostomella advena (Cushman & Laiming, 1931) SPECIES
-=======
+# Stilostomella advena (Cushman & Laiming, 1931) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon vanoyei P.A. Duvign. SPECIES
-=======
+# Stereocaulon vanoyei P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

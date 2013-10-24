@@ -1,5 +1,4 @@
-Gymnopilus viscidissimus Murrill SPECIES
-=======
+# Gymnopilus viscidissimus Murrill SPECIES
 
 #### Status
 ACCEPTED

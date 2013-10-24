@@ -1,5 +1,4 @@
-Cortinarius turbobasalis E. Horak SPECIES
-=======
+# Cortinarius turbobasalis E. Horak SPECIES
 
 #### Status
 ACCEPTED

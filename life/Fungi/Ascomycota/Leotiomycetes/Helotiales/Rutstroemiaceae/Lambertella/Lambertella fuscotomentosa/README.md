@@ -1,5 +1,4 @@
-Lambertella fuscotomentosa V.P. Tewari & Ram N. Singh SPECIES
-=======
+# Lambertella fuscotomentosa V.P. Tewari & Ram N. Singh SPECIES
 
 #### Status
 ACCEPTED

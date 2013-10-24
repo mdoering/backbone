@@ -1,5 +1,4 @@
-Stigmidium lichenicola (Sommerf.) J.C. David SPECIES
-=======
+# Stigmidium lichenicola (Sommerf.) J.C. David SPECIES
 
 #### Status
 ACCEPTED

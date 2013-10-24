@@ -1,5 +1,4 @@
-Spathidium contractile Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Spathidium contractile Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

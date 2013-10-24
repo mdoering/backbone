@@ -1,14 +1,13 @@
-Parmelia immaculata Kurok. SPECIES
-=======
+# Hypotrachyna immaculata (Kurok.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hale & Kurokawa, Contr. U. S. natnl. Herb. 36: 178 (1964)
+Smithson. Contr. bot. 25: 41 (1975)
 
 #### Original name
 Parmelia immaculata Kurok.

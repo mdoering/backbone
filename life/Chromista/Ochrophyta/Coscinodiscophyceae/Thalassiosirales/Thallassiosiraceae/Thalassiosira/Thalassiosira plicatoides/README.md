@@ -1,5 +1,4 @@
-Thalassiosira plicatoides (R. Simonsen) F. Akiba & Y. Yanagisawa SPECIES
-=======
+# Thalassiosira plicatoides (R. Simonsen) F. Akiba & Y. Yanagisawa SPECIES
 
 #### Status
 ACCEPTED

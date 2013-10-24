@@ -1,5 +1,4 @@
-Nodulosphaeria olivacea (Ellis) L. Holm SPECIES
-=======
+# Nodulosphaeria olivacea (Ellis) L. Holm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe aureimarginata Corner SPECIES
-=======
+# Clitocybe aureimarginata Corner SPECIES
 
 #### Status
 ACCEPTED

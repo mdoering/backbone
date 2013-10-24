@@ -1,5 +1,4 @@
-Graphis isidiza Adaw. & Makhija SPECIES
-=======
+# Graphis isidiza Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

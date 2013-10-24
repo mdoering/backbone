@@ -1,5 +1,4 @@
-Buliminoides gracilis (Collins, 1953) SPECIES
-=======
+# Buliminoides gracilis (Collins, 1953) SPECIES
 
 #### Status
 ACCEPTED

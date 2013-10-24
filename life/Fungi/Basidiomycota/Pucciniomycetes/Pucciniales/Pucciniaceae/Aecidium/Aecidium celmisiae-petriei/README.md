@@ -1,5 +1,4 @@
-Aecidium celmisiae-petriei G. Cunn. SPECIES
-=======
+# Aecidium celmisiae-petriei G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

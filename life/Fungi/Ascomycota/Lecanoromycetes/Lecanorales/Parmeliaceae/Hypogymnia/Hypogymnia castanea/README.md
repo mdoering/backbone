@@ -1,5 +1,4 @@
-Hypogymnia castanea McCune & Krog SPECIES
-=======
+# Hypogymnia castanea McCune & Krog SPECIES
 
 #### Status
 ACCEPTED

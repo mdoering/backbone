@@ -1,5 +1,4 @@
-Agromyces subbeticus Jurado et al., 2005 SPECIES
-=======
+# Agromyces subbeticus Jurado et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

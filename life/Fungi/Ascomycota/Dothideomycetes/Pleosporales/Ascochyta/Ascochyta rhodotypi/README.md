@@ -1,5 +1,4 @@
-Ascochyta rhodotypi H.W. Anderson SPECIES
-=======
+# Ascochyta rhodotypi H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium kunmingense Fang Xiaosi, 1986 SPECIES
-=======
+# Baltisphaeridium kunmingense Fang Xiaosi, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus xerophilus Bogart SPECIES
-=======
+# Coprinus xerophilus Bogart SPECIES
 
 #### Status
 ACCEPTED

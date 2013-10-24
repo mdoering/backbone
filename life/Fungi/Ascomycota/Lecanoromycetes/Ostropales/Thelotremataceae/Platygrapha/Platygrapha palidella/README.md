@@ -1,5 +1,4 @@
-Platygrapha palidella Nyl. SPECIES
-=======
+# Platygrapha palidella Nyl. SPECIES
 
 #### Status
 ACCEPTED

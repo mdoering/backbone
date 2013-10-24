@@ -1,5 +1,4 @@
-Bovista cinerea Ellis SPECIES
-=======
+# Bovista cinerea Ellis SPECIES
 
 #### Status
 ACCEPTED

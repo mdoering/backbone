@@ -1,5 +1,4 @@
-Lecania silvestris (Arnold) Arnold SPECIES
-=======
+# Lecania silvestris (Arnold) Arnold SPECIES
 
 #### Status
 ACCEPTED

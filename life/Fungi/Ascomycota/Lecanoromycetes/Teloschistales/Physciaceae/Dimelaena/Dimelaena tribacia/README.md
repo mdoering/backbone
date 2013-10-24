@@ -1,5 +1,4 @@
-Dimelaena tribacia SPECIES
-=======
+# Dimelaena tribacia SPECIES
 
 #### Status
 ACCEPTED

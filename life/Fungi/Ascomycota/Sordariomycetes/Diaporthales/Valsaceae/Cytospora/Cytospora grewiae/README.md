@@ -1,5 +1,4 @@
-Cytospora grewiae Henn. SPECIES
-=======
+# Cytospora grewiae Henn. SPECIES
 
 #### Status
 ACCEPTED

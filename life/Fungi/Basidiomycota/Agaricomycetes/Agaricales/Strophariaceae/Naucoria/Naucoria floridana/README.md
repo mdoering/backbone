@@ -1,5 +1,4 @@
-Naucoria floridana Murrill SPECIES
-=======
+# Naucoria floridana Murrill SPECIES
 
 #### Status
 ACCEPTED

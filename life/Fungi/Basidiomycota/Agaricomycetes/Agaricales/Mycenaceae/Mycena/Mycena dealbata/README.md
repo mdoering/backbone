@@ -1,5 +1,4 @@
-Mycena dealbata Velen. SPECIES
-=======
+# Mycena dealbata Velen. SPECIES
 
 #### Status
 ACCEPTED

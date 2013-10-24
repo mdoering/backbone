@@ -1,5 +1,4 @@
-Metschnikowia colocasiae Lachance & J.M. Bowles, 2004 SPECIES
-=======
+# Metschnikowia colocasiae Lachance & J.M. Bowles, 2004 SPECIES
 
 #### Status
 ACCEPTED

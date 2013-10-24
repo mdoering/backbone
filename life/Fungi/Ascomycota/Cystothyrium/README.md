@@ -1,5 +1,4 @@
-Cystothyrium Speg. GENUS
-=======
+# Cystothyrium Speg. GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Homostegia fusispora Syd. & P. Syd., 1910 SPECIES
-=======
+# Phragmocarpella fusispora (Syd.) Syd. & P. Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 8(1): 39 (1910)
+in Theissen & Sydow, Annls mycol. 13(5/6): 602 (1915)
 
 #### Original name
 Homostegia fusispora Syd. & P. Syd., 1910

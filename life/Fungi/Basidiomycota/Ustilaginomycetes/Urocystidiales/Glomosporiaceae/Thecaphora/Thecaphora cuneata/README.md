@@ -1,5 +1,4 @@
-Thecaphora cuneata (Schofield) G.P. Clinton SPECIES
-=======
+# Thecaphora cuneata (Schofield) G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

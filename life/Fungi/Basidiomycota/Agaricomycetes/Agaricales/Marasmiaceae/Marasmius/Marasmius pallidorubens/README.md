@@ -1,5 +1,4 @@
-Marasmius pallidorubens (Berk. & Broome) Petch SPECIES
-=======
+# Marasmius pallidorubens (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

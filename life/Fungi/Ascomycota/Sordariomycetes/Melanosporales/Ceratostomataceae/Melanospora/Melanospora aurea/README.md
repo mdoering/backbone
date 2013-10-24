@@ -1,5 +1,4 @@
-Melanospora aurea (McAlpine) Doguet SPECIES
-=======
+# Melanospora aurea (McAlpine) Doguet SPECIES
 
 #### Status
 ACCEPTED

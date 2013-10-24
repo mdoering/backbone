@@ -1,5 +1,4 @@
-Coniothecium micromerum Speg. SPECIES
-=======
+# Coniothecium micromerum Speg. SPECIES
 
 #### Status
 ACCEPTED

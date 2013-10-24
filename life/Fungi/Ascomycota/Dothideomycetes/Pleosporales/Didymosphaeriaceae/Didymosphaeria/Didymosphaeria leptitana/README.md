@@ -1,5 +1,4 @@
-Didymosphaeria leptitana Trotter SPECIES
-=======
+# Didymosphaeria leptitana Trotter SPECIES
 
 #### Status
 ACCEPTED

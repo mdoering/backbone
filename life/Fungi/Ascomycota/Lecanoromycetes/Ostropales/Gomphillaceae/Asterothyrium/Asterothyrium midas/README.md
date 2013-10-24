@@ -1,5 +1,4 @@
-Asterothyrium midas Sant. SPECIES
-=======
+# Asterothyrium midas Sant. SPECIES
 
 #### Status
 ACCEPTED

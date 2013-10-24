@@ -1,5 +1,4 @@
-Cercospora reducta Syd. & P. Syd. SPECIES
-=======
+# Cercospora reducta Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

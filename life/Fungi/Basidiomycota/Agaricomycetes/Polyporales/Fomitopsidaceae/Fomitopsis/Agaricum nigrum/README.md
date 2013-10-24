@@ -1,5 +1,4 @@
-Agaricum nigrum O.F. Müll. SPECIES
-=======
+# Agaricum nigrum O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclagelosphaera lacuna SPECIES
-=======
+# Cyclagelosphaera lacuna SPECIES
 
 #### Status
 ACCEPTED

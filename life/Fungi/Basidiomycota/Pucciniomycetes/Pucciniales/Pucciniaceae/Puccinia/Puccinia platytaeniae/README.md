@@ -1,5 +1,4 @@
-Puccinia platytaeniae Petr. SPECIES
-=======
+# Puccinia platytaeniae Petr. SPECIES
 
 #### Status
 ACCEPTED

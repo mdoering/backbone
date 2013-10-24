@@ -1,17 +1,16 @@
-Rhizocarpon lavatum var. lavatum VARIETY
-=======
+# Rhizocarpon lavatum (Fr.) Hazsl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Magyar Birodalom Zuzmó-Flórájá 206 (1884)
 
 #### Original name
-Rhizocarpon lavatum var. lavatum
+Lecidea lavata Ach.
 
 ### Remarks
 null

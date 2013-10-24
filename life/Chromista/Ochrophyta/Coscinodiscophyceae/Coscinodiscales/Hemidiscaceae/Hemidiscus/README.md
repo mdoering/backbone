@@ -1,5 +1,4 @@
-Hemidiscus G.C. Wallich, 1860 GENUS
-=======
+# Hemidiscus G.C. Wallich, 1860 GENUS
 
 #### Status
 ACCEPTED

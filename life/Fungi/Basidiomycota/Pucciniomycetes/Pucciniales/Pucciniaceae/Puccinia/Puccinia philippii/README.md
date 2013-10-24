@@ -1,5 +1,4 @@
-Puccinia philippii Dietel & Neger SPECIES
-=======
+# Puccinia philippii Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

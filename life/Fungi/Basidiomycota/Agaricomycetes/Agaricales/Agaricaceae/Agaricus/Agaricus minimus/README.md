@@ -1,5 +1,4 @@
-Agaricus minimus (Ricken) Pilát SPECIES
-=======
+# Agaricus minimus (Ricken) Pilát SPECIES
 
 #### Status
 ACCEPTED

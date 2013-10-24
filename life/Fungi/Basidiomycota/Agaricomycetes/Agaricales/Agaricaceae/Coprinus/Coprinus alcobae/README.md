@@ -1,5 +1,4 @@
-Coprinus alcobae A. Ortega SPECIES
-=======
+# Coprinus alcobae A. Ortega SPECIES
 
 #### Status
 ACCEPTED

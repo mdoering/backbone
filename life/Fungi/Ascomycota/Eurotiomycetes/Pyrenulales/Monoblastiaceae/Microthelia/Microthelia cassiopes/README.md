@@ -1,5 +1,4 @@
-Microthelia cassiopes (Rostr.) Kuntze SPECIES
-=======
+# Microthelia cassiopes (Rostr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

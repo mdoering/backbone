@@ -1,5 +1,4 @@
-Amphichaeta muscicola (Nicot-Toul.) Nicot-Toul. SPECIES
-=======
+# Amphichaeta muscicola (Nicot-Toul.) Nicot-Toul. SPECIES
 
 #### Status
 ACCEPTED

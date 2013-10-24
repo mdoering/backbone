@@ -1,17 +1,16 @@
-Brachysporium crepinii var. crepinii VARIETY
-=======
+# Curvularia crepinii (Westend.) Boedijn, 1933 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 430 (1886)
+Bull. Jard. Bot. Buitenz, 3 Sér. 13(1): 128 (1933)
 
 #### Original name
-Brachysporium crepinii var. crepinii
+Helminthosporium crepinii Westend., 1861
 
 ### Remarks
 null

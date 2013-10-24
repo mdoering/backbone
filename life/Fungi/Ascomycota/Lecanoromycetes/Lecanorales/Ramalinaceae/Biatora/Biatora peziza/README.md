@@ -1,5 +1,4 @@
-Biatora peziza Mont. SPECIES
-=======
+# Biatora peziza Mont. SPECIES
 
 #### Status
 ACCEPTED

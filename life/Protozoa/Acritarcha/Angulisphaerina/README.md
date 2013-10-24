@@ -1,5 +1,4 @@
-Angulisphaerina A.S. Lopuchin in M.I. Neustadt, 1966 GENUS
-=======
+# Angulisphaerina A.S. Lopuchin in M.I. Neustadt, 1966 GENUS
 
 #### Status
 ACCEPTED

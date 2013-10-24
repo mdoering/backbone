@@ -1,5 +1,4 @@
-Stilbum fructigenum Penz. & Sacc. SPECIES
-=======
+# Stilbum fructigenum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

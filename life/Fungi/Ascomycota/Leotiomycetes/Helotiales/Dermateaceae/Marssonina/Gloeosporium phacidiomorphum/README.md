@@ -1,5 +1,4 @@
-Gloeosporium phacidiomorphum anon. SPECIES
-=======
+# Gloeosporium phacidiomorphum anon. SPECIES
 
 #### Status
 ACCEPTED

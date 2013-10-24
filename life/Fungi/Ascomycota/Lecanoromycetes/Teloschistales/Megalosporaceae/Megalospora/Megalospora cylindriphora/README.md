@@ -1,5 +1,4 @@
-Megalospora cylindriphora (Taylor) Vain. SPECIES
-=======
+# Megalospora cylindriphora (Taylor) Vain. SPECIES
 
 #### Status
 ACCEPTED

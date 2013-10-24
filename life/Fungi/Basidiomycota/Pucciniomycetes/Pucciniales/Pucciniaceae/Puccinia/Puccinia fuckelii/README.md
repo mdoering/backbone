@@ -1,5 +1,4 @@
-Puccinia fuckelii Körn. SPECIES
-=======
+# Puccinia fuckelii Körn. SPECIES
 
 #### Status
 ACCEPTED

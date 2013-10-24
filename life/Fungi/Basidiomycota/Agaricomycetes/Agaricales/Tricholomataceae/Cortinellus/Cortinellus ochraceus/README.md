@@ -1,5 +1,4 @@
-Cortinellus ochraceus Beeli SPECIES
-=======
+# Cortinellus ochraceus Beeli SPECIES
 
 #### Status
 ACCEPTED

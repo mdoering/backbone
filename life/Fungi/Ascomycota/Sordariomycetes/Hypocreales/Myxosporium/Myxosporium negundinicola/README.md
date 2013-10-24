@@ -1,17 +1,16 @@
-Myxosporium negundicola Dearn. & Barthol. SPECIES
-=======
+# Myxosporium negundinicola Dearn. & Barthol. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 20(4): 242 (1928)
 
 #### Original name
-Myxosporium negundicola Dearn. & Barthol.
+Myxosporium negundinicola Dearn. & Barthol.
 
 ### Remarks
 null

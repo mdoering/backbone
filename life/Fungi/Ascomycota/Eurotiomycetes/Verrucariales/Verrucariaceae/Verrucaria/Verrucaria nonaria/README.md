@@ -1,5 +1,4 @@
-Verrucaria nonaria Nyl. SPECIES
-=======
+# Verrucaria nonaria Nyl. SPECIES
 
 #### Status
 ACCEPTED

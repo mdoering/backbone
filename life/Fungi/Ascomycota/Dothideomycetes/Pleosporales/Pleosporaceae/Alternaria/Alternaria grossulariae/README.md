@@ -1,5 +1,4 @@
-Alternaria grossulariae Jacz., 1917 SPECIES
-=======
+# Alternaria grossulariae Jacz., 1917 SPECIES
 
 #### Status
 ACCEPTED

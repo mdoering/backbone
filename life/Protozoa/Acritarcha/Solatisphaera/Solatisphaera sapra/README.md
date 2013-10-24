@@ -1,5 +1,4 @@
-Solatisphaera sapra Wicander & Loeblich, 1977 SPECIES
-=======
+# Solatisphaera sapra Wicander & Loeblich, 1977 SPECIES
 
 #### Status
 ACCEPTED

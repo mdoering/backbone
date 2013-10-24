@@ -1,5 +1,4 @@
-Psorotichia claudelii Hue SPECIES
-=======
+# Psorotichia claudelii Hue SPECIES
 
 #### Status
 ACCEPTED

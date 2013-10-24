@@ -1,5 +1,4 @@
-Windalia Ellis, 1993 GENUS
-=======
+# Windalia Ellis, 1993 GENUS
 
 #### Status
 ACCEPTED

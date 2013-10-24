@@ -1,5 +1,4 @@
-Thelidium subfuligineum (Vain.) Zahlbr. SPECIES
-=======
+# Thelidium subfuligineum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

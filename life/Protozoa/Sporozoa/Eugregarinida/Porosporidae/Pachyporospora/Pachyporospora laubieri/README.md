@@ -1,5 +1,4 @@
-Pachyporospora laubieri Théodoridès, 1961 SPECIES
-=======
+# Pachyporospora laubieri Théodoridès, 1961 SPECIES
 
 #### Status
 ACCEPTED

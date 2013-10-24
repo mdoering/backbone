@@ -1,5 +1,4 @@
-Cenangium chlorellum Fr. SPECIES
-=======
+# Cenangium chlorellum Fr. SPECIES
 
 #### Status
 ACCEPTED

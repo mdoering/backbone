@@ -1,5 +1,4 @@
-Labyrinthomyces Boedijn GENUS
-=======
+# Labyrinthomyces Boedijn GENUS
 
 #### Status
 ACCEPTED

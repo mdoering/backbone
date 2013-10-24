@@ -1,5 +1,4 @@
-Hypoxylon microsorum Penz. & Sacc. SPECIES
-=======
+# Hypoxylon microsorum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

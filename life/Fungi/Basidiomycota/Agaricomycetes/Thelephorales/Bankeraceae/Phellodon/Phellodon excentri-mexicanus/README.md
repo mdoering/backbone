@@ -1,17 +1,16 @@
-Phellodon excentrici-mexicana R.E. Baird SPECIES
-=======
+# Phellodon excentri-mexicanus R.E. Baird SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 23: 298 (1985)
 
 #### Original name
-Phellodon excentrici-mexicana R.E. Baird
+Phellodon excentri-mexicanus R.E. Baird
 
 ### Remarks
 null

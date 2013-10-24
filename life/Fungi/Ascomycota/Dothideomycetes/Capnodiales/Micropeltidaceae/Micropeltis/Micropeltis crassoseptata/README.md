@@ -1,5 +1,4 @@
-Micropeltis crassoseptata Bat. & O.M. Fonseca SPECIES
-=======
+# Micropeltis crassoseptata Bat. & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

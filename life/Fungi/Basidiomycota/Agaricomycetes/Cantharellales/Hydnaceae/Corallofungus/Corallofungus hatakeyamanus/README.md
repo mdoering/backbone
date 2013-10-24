@@ -1,5 +1,4 @@
-Corallofungus hatakeyamanus Kobayasi, 1983 SPECIES
-=======
+# Corallofungus hatakeyamanus Kobayasi, 1983 SPECIES
 
 #### Status
 ACCEPTED

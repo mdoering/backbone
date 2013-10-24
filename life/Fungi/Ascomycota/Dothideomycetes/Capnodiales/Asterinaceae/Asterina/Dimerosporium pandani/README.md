@@ -1,5 +1,4 @@
-Dimerosporium pandani Verona SPECIES
-=======
+# Dimerosporium pandani Verona SPECIES
 
 #### Status
 ACCEPTED

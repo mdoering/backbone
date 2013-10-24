@@ -1,5 +1,4 @@
-Stigmatomyces spiralis Thaxt., 1901 SPECIES
-=======
+# Stigmatomyces spiralis Thaxt., 1901 SPECIES
 
 #### Status
 ACCEPTED

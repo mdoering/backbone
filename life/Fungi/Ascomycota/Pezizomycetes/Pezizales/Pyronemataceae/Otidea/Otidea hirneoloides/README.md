@@ -1,5 +1,4 @@
-Otidea hirneoloides (Berk.) Sacc. SPECIES
-=======
+# Otidea hirneoloides (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

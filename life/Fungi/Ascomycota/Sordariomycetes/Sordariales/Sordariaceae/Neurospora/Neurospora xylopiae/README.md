@@ -1,5 +1,4 @@
-Neurospora xylopiae C. Ram SPECIES
-=======
+# Neurospora xylopiae C. Ram SPECIES
 
 #### Status
 ACCEPTED

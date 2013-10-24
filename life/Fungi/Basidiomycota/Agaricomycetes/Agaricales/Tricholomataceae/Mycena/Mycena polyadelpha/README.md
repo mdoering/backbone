@@ -1,5 +1,4 @@
-Mycena polyadelpha (Lasch) Kühner SPECIES
-=======
+# Mycena polyadelpha (Lasch) Kühner SPECIES
 
 #### Status
 ACCEPTED

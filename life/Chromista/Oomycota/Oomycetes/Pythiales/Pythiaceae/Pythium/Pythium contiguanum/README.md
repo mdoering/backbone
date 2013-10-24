@@ -1,5 +1,4 @@
-Pythium contiguanum B. Paul SPECIES
-=======
+# Pythium contiguanum B. Paul SPECIES
 
 #### Status
 ACCEPTED

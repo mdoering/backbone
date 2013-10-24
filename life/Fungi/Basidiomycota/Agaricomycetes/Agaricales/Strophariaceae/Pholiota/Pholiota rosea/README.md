@@ -1,5 +1,4 @@
-Pholiota rosea Rick SPECIES
-=======
+# Pholiota rosea Rick SPECIES
 
 #### Status
 ACCEPTED

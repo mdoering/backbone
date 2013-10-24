@@ -1,5 +1,4 @@
-Cyathus rugispermus (Schwein.) De Toni SPECIES
-=======
+# Cyathus rugispermus (Schwein.) De Toni SPECIES
 
 #### Status
 ACCEPTED

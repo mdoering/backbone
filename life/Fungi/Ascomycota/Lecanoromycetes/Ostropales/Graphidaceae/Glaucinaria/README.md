@@ -1,5 +1,4 @@
-Glaucinaria GENUS
-=======
+# Glaucinaria GENUS
 
 #### Status
 ACCEPTED

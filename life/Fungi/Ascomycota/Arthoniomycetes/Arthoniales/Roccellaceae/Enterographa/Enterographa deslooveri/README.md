@@ -1,5 +1,4 @@
-Enterographa deslooveri Sérus. SPECIES
-=======
+# Enterographa deslooveri Sérus. SPECIES
 
 #### Status
 ACCEPTED

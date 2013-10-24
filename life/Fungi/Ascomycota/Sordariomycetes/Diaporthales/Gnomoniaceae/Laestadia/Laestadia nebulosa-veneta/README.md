@@ -1,5 +1,4 @@
-Laestadia nebulosa-veneta (De Not.) Sacc. SPECIES
-=======
+# Laestadia nebulosa-veneta (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

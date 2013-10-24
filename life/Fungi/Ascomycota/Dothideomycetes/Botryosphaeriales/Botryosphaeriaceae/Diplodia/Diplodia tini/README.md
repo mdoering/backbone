@@ -1,5 +1,4 @@
-Diplodia tini f. tini FORM
-=======
+# Diplodia tini ß ramulicola Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 2(no. 7): 269 (1881)
 
 #### Original name
-Diplodia tini f. tini
+Diplodia tini ß ramulicola Sacc.
 
 ### Remarks
 null

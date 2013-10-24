@@ -1,5 +1,4 @@
-Sinoboletus guizhouensis M. Zang & X.L. Wu, 1995 SPECIES
-=======
+# Sinoboletus guizhouensis M. Zang & X.L. Wu, 1995 SPECIES
 
 #### Status
 ACCEPTED

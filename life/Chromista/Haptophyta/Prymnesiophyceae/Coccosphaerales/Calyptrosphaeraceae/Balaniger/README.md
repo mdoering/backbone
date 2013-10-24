@@ -1,5 +1,4 @@
-Balaniger Thomsen & Oates, 1978 GENUS
-=======
+# Balaniger Thomsen & Oates, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe puellaris (Hongo) Hongo SPECIES
-=======
+# Hygrocybe puellaris (Hongo) Hongo SPECIES
 
 #### Status
 ACCEPTED

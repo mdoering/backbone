@@ -1,5 +1,4 @@
-Podoxyphium yuccae var. yuccae VARIETY
-=======
+# Podoxyphium yuccae Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Batista & Ciferri, Quad. Lab. crittogam. , Pavia 31: 176 (1963)
 
 #### Original name
-Podoxyphium yuccae var. yuccae
+Podoxyphium yuccae Bat. & Nascim.
 
 ### Remarks
 null

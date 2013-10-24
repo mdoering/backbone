@@ -1,5 +1,4 @@
-Puccinia aetheopappi Savile SPECIES
-=======
+# Puccinia aetheopappi Savile SPECIES
 
 #### Status
 ACCEPTED

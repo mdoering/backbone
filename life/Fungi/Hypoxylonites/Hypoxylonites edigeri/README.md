@@ -1,17 +1,16 @@
-Hypoxylonites edigerii Elsik SPECIES
-=======
+# Hypoxylonites edigeri Elsik SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Palaeontographica, Abt. B 216(5-6): 148 (1990)
 
 #### Original name
-Hypoxylonites edigerii Elsik
+Hypoxylonites edigeri Elsik
 
 ### Remarks
 null

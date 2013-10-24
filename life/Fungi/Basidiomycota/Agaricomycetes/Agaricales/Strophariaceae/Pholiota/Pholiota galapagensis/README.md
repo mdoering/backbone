@@ -1,5 +1,4 @@
-Pholiota galapagensis Pegler SPECIES
-=======
+# Pholiota galapagensis Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Durella atrella Rehm SPECIES
-=======
+# Durella atrella Rehm SPECIES
 
 #### Status
 ACCEPTED

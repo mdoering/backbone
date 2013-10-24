@@ -1,5 +1,4 @@
-Lecidea isabellina (Flot.) Jatta SPECIES
-=======
+# Lecidea isabellina (Flot.) Jatta SPECIES
 
 #### Status
 ACCEPTED

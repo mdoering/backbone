@@ -1,5 +1,4 @@
-Cercospora daidai Hara SPECIES
-=======
+# Cercospora daidai Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria Fuckel, 1870 GENUS
-=======
+# Humaria Fuckel, 1870 GENUS
 
 #### Status
 ACCEPTED

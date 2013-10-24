@@ -1,5 +1,4 @@
-Verrucaria leptolepidea (Nyl.) Nyl. SPECIES
-=======
+# Verrucaria leptolepidea (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

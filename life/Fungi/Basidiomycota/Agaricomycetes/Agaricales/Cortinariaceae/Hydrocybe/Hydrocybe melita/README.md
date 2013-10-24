@@ -1,5 +1,4 @@
-Hydrocybe melita Velen. SPECIES
-=======
+# Hydrocybe melita Velen. SPECIES
 
 #### Status
 ACCEPTED

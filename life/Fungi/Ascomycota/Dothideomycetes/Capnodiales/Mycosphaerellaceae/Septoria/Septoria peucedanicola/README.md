@@ -1,5 +1,4 @@
-Septoria peucedanicola Sawada SPECIES
-=======
+# Septoria peucedanicola Sawada SPECIES
 
 #### Status
 ACCEPTED

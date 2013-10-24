@@ -1,17 +1,16 @@
-Clitocybe pseudo-obbata var. pseudo-obbata VARIETY
-=======
+# Clitocybe subcordispora Harmaja, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 11(3): 386 (1981)
+Karstenia 10: 100 (1969)
 
 #### Original name
-Clitocybe pseudo-obbata var. pseudo-obbata
+Clitocybe subcordispora Harmaja, 1969
 
 ### Remarks
 null

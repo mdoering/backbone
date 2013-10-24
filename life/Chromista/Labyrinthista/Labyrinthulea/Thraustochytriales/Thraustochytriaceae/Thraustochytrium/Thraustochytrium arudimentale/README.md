@@ -1,5 +1,4 @@
-Thraustochytrium arudimentale N.J. Artemczuk, 1972 SPECIES
-=======
+# Thraustochytrium arudimentale N.J. Artemczuk, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Saccorhiza bulbosa J. Agardh SPECIES
-=======
+# Saccorhiza polyschides (Lightfoot) Batters SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

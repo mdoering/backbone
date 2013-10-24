@@ -1,5 +1,4 @@
-Merulius fascicularis (F. Strauss) Kuntze SPECIES
-=======
+# Merulius fascicularis (F. Strauss) Kuntze SPECIES
 
 #### Status
 ACCEPTED

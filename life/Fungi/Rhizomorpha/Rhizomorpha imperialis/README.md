@@ -1,5 +1,4 @@
-Rhizomorpha imperialis Sowerby SPECIES
-=======
+# Rhizomorpha imperialis Sowerby SPECIES
 
 #### Status
 ACCEPTED

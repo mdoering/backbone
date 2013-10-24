@@ -1,5 +1,4 @@
-Peziza elaeodes Clem. SPECIES
-=======
+# Peziza elaeodes Clem. SPECIES
 
 #### Status
 ACCEPTED

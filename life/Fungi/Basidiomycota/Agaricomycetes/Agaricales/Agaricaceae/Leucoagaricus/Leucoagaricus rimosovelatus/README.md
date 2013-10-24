@@ -1,5 +1,4 @@
-Leucoagaricus rimosovelatus Contu SPECIES
-=======
+# Leucoagaricus rimosovelatus Contu SPECIES
 
 #### Status
 ACCEPTED

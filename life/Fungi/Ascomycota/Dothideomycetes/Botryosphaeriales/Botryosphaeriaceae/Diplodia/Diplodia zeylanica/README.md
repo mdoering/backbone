@@ -1,5 +1,4 @@
-Diplodia zeylanica Tassi SPECIES
-=======
+# Diplodia zeylanica Tassi SPECIES
 
 #### Status
 ACCEPTED

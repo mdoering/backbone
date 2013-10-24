@@ -1,17 +1,16 @@
-Siphula pteruloides Nyl. SPECIES
-=======
+# Parasiphula complanata (Hook. f. & Taylor) Kantvilas & Grube SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 11: 211 (1859)
+in Grube & Kantvilas, Lichenologist 38(3): 246 (2006)
 
 #### Original name
-Siphula pteruloides Nyl.
+Sphaerophorus complanatus Hook. f. & Taylor
 
 ### Remarks
 null

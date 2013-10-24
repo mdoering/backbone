@@ -1,5 +1,4 @@
-Semiplatyophrya acrostoma Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Semiplatyophrya acrostoma Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

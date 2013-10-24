@@ -1,5 +1,4 @@
-Ophiobolus clavisporus Pass. SPECIES
-=======
+# Ophiobolus clavisporus Pass. SPECIES
 
 #### Status
 ACCEPTED

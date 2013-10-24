@@ -1,5 +1,4 @@
-Caloplaca circumalbata var. circumalbata VARIETY
-=======
+# Caloplaca circumalbata (Delise) Wunder SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 3: 53 (1974)
 
 #### Original name
-Caloplaca circumalbata var. circumalbata
+Lecidea circumalbata (Müll. Arg.) Delise
 
 ### Remarks
 null

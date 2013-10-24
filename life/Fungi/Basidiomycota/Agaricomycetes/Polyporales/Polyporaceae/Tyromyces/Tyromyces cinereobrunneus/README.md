@@ -1,17 +1,16 @@
-Tyromyces cinerobrunneus Bitew & Ryvarden SPECIES
-=======
+# Tyromyces cinereobrunneus Bitew & Ryvarden SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syn. Fung. (Oslo) 18: 81 (2004)
 
 #### Original name
-Tyromyces cinerobrunneus Bitew & Ryvarden
+Tyromyces cinereobrunneus Bitew & Ryvarden
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leathesia yezoensis Inagaki SPECIES
-=======
+# Leathesia yezoensis Inagaki SPECIES
 
 #### Status
 ACCEPTED

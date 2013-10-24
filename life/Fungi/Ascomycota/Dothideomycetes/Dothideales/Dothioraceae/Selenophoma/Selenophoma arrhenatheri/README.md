@@ -1,5 +1,4 @@
-Selenophoma arrhenatheri Alcalde SPECIES
-=======
+# Selenophoma arrhenatheri Alcalde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exidiopsis verruculosa Möller SPECIES
-=======
+# Exidiopsis verruculosa Möller SPECIES
 
 #### Status
 ACCEPTED

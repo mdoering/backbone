@@ -1,5 +1,4 @@
-Drosophila squamosa var. squamosa VARIETY
-=======
+# Drosophila squamosa (P. Karst.) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fl. Analyt. Champ. Supér. (Paris) 359 (1953)
 
 #### Original name
-Drosophila squamosa var. squamosa
+Psathyra pennata var. squamosa P. Karst.
 
 ### Remarks
 null

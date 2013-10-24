@@ -1,5 +1,4 @@
-Anisomeridium glaucescens (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Anisomeridium glaucescens (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

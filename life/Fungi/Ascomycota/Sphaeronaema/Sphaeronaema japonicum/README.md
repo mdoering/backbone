@@ -1,5 +1,4 @@
-Sphaeronaema japonicum Syd. {?} SPECIES
-=======
+# Sphaeronaema japonicum Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

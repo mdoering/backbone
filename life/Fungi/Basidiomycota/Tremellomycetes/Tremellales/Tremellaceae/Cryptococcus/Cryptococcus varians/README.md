@@ -1,5 +1,4 @@
-Cryptococcus varians (Carn.-Ricci) Nann. SPECIES
-=======
+# Cryptococcus varians (Carn.-Ricci) Nann. SPECIES
 
 #### Status
 ACCEPTED

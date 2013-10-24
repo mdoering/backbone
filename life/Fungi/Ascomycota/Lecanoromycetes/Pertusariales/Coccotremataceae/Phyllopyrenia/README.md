@@ -1,5 +1,4 @@
-Phyllopyrenia C.W. Dodge GENUS
-=======
+# Phyllopyrenia C.W. Dodge GENUS
 
 #### Status
 ACCEPTED

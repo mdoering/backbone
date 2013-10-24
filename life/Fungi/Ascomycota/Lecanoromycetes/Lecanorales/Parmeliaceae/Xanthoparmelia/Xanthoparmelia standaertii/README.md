@@ -1,17 +1,16 @@
-Parmelia standaertii var. standaertii Gyeln. VARIETY
-=======
+# Xanthoparmelia standaertii (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28: 489 (1974)
 
 #### Original name
-Parmelia standaertii var. standaertii Gyeln.
+Parmelia standaertii Gyeln.
 
 ### Remarks
 null

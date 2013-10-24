@@ -1,5 +1,4 @@
-Plicaria umbilicata (P. Karst.) Bánhegyi SPECIES
-=======
+# Plicaria umbilicata (P. Karst.) Bánhegyi SPECIES
 
 #### Status
 ACCEPTED

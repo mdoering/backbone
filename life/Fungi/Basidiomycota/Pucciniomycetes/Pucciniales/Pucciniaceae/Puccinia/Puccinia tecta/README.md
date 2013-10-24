@@ -1,5 +1,4 @@
-Puccinia tecta Ellis & Barthol. SPECIES
-=======
+# Puccinia tecta Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

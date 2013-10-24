@@ -1,5 +1,4 @@
-Dictyopanus orientalis Kobayasi SPECIES
-=======
+# Dictyopanus orientalis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

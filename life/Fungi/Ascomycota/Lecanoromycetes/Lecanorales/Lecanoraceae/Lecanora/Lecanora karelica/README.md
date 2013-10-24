@@ -1,5 +1,4 @@
-Lecanora karelica H. Magn. SPECIES
-=======
+# Lecanora karelica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

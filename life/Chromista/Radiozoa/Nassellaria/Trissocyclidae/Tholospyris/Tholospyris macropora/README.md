@@ -1,5 +1,4 @@
-Tholospyris macropora Takahashi, 1991 SPECIES
-=======
+# Tholospyris macropora Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

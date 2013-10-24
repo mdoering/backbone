@@ -1,5 +1,4 @@
-Myxosporium album (Preuss) Sacc. SPECIES
-=======
+# Myxosporium album (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

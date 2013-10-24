@@ -1,5 +1,4 @@
-Euplotes albus SPECIES
-=======
+# Euplotes albus SPECIES
 
 #### Status
 ACCEPTED

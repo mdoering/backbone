@@ -1,5 +1,4 @@
-Tetraporina incrassata Naumova, 1950 SPECIES
-=======
+# Tetraporina incrassata Naumova, 1950 SPECIES
 
 #### Status
 ACCEPTED

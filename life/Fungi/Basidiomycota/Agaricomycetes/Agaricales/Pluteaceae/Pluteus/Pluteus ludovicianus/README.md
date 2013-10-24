@@ -1,5 +1,4 @@
-Pluteus ludovicianus Murrill SPECIES
-=======
+# Pluteus ludovicianus Murrill SPECIES
 
 #### Status
 ACCEPTED

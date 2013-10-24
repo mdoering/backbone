@@ -1,17 +1,16 @@
-Lactarius chrysorrheus f. immutabilis Maire FORM
-=======
+# Lactarius chrysorrheus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publ. Inst. Bot. 3(4): 51 (1937)
+Epicr. syst. mycol. (Upsaliae) 342 (1838)
 
 #### Original name
-Lactarius chrysorrheus f. immutabilis Maire
+Lactarius chrysorrheus Fr., 1838
 
 ### Remarks
 null

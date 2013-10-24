@@ -1,5 +1,4 @@
-Heterosporium graminum Rostr. SPECIES
-=======
+# Heterosporium graminum Rostr. SPECIES
 
 #### Status
 ACCEPTED

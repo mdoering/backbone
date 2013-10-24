@@ -1,5 +1,4 @@
-Dysgonomonas gadei Hofstad et al., 2000 SPECIES
-=======
+# Dysgonomonas gadei Hofstad et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

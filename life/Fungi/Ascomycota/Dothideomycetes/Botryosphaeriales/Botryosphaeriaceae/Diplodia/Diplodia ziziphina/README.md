@@ -1,17 +1,16 @@
-Diplodia zizyphina S. Ahmad SPECIES
-=======
+# Diplodia ziziphina S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 8(2): 144 (1962)
 
 #### Original name
-Diplodia zizyphina S. Ahmad
+Diplodia ziziphina S. Ahmad
 
 ### Remarks
 null

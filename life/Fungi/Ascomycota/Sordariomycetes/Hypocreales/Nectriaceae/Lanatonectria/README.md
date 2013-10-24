@@ -1,5 +1,4 @@
-Lanatonectria Samuels & Rossman GENUS
-=======
+# Lanatonectria Samuels & Rossman GENUS
 
 #### Status
 ACCEPTED

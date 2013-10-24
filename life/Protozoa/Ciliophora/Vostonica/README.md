@@ -1,5 +1,4 @@
-Vostonica Jankowski, 1994 GENUS
-=======
+# Vostonica Jankowski, 1994 GENUS
 
 #### Status
 ACCEPTED

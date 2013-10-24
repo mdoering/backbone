@@ -1,5 +1,4 @@
-Chaetopsina penicillata Samuels SPECIES
-=======
+# Chaetopsina penicillata Samuels SPECIES
 
 #### Status
 ACCEPTED

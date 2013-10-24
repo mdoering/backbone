@@ -1,5 +1,4 @@
-Physalospora suberumpens Ellis & Everh. SPECIES
-=======
+# Physalospora suberumpens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

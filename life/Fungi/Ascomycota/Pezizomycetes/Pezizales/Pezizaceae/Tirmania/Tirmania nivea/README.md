@@ -1,5 +1,4 @@
-Tirmania nivea (Desf.) Trappe SPECIES
-=======
+# Tirmania nivea (Desf.) Trappe SPECIES
 
 #### Status
 ACCEPTED

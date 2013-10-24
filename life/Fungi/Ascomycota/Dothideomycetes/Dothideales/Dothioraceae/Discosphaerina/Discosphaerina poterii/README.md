@@ -1,5 +1,4 @@
-Discosphaerina poterii Petr. SPECIES
-=======
+# Discosphaerina poterii Petr. SPECIES
 
 #### Status
 ACCEPTED

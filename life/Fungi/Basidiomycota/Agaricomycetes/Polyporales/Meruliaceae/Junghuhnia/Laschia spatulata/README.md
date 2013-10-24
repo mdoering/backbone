@@ -1,5 +1,4 @@
-Laschia spatulata Jungh. SPECIES
-=======
+# Laschia spatulata Jungh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvella amara Lour. SPECIES
-=======
+# Helvella amara Lour. SPECIES
 
 #### Status
 ACCEPTED

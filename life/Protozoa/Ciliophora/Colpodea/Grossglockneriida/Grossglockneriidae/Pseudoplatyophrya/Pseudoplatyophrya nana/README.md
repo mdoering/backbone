@@ -1,8 +1,7 @@
-Platyophrya nana Kahl, 1926 SPECIES
-=======
+# Pseudoplatyophrya nana (Kahl, 1926) Foissner, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

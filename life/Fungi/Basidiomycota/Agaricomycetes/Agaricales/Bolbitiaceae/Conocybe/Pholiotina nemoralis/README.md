@@ -1,5 +1,4 @@
-Pholiotina nemoralis (Harmaja) Bon SPECIES
-=======
+# Pholiotina nemoralis (Harmaja) Bon SPECIES
 
 #### Status
 ACCEPTED

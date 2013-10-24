@@ -1,5 +1,4 @@
-Hypotrachyna palniensis Hale SPECIES
-=======
+# Hypotrachyna palniensis Hale SPECIES
 
 #### Status
 ACCEPTED

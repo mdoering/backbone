@@ -1,5 +1,4 @@
-Graphina spilota (Stirt.) Zahlbr. SPECIES
-=======
+# Graphina spilota (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

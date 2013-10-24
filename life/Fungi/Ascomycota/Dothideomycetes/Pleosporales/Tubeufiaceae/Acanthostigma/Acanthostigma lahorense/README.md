@@ -1,5 +1,4 @@
-Acanthostigma lahorense S. Ahmad SPECIES
-=======
+# Acanthostigma lahorense S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

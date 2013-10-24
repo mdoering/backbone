@@ -1,5 +1,4 @@
-Psilocybe yugensis SPECIES
-=======
+# Psilocybe yugensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dialacenium cissi Syd. SPECIES
-=======
+# Dialacenium cissi Syd. SPECIES
 
 #### Status
 ACCEPTED

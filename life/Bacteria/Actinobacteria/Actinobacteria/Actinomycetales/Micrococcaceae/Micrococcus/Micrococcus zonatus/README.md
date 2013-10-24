@@ -1,5 +1,4 @@
-Micrococcus zonatus SPECIES
-=======
+# Micrococcus zonatus SPECIES
 
 #### Status
 ACCEPTED

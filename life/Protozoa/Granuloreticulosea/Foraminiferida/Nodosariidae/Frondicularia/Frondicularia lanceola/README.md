@@ -1,5 +1,4 @@
-Frondicularia lanceola Reuss SPECIES
-=======
+# Frondicularia lanceola Reuss SPECIES
 
 #### Status
 ACCEPTED

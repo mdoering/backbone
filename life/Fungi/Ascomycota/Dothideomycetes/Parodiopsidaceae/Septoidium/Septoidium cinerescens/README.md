@@ -1,5 +1,4 @@
-Septoidium cinerescens (Syd. & P. Syd.) M.B. Ellis SPECIES
-=======
+# Septoidium cinerescens (Syd. & P. Syd.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium sphaeralceae Speg. SPECIES
-=======
+# Aecidium sphaeralceae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina viatica Singer SPECIES
-=======
+# Galerina viatica Singer SPECIES
 
 #### Status
 ACCEPTED

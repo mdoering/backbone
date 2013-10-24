@@ -1,5 +1,4 @@
-Keissleria montaniensis (Ellis & Everh.) Höhn. SPECIES
-=======
+# Keissleria montaniensis (Ellis & Everh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

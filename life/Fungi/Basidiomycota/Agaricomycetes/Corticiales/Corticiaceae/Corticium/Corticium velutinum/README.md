@@ -1,5 +1,4 @@
-Corticium velutinum Velen. SPECIES
-=======
+# Corticium velutinum Velen. SPECIES
 
 #### Status
 ACCEPTED

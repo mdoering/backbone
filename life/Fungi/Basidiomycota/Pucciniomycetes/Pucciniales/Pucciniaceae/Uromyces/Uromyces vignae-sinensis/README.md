@@ -1,5 +1,4 @@
-Uromyces vignae-sinensis Miura SPECIES
-=======
+# Uromyces vignae-sinensis Miura SPECIES
 
 #### Status
 ACCEPTED

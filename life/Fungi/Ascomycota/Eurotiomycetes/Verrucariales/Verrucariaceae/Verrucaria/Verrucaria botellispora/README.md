@@ -1,5 +1,4 @@
-Verrucaria botellispora Breuss SPECIES
-=======
+# Verrucaria botellispora Breuss SPECIES
 
 #### Status
 ACCEPTED

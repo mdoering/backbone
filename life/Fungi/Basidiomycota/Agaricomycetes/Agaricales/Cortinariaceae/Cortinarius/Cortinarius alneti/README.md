@@ -1,5 +1,4 @@
-Cortinarius alneti Bidaud SPECIES
-=======
+# Cortinarius alneti Bidaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorolpidium Nemec GENUS
-=======
+# Sorolpidium Nemec GENUS
 
 #### Status
 ACCEPTED

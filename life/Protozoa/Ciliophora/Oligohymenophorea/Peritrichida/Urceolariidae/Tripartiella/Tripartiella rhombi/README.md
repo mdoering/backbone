@@ -1,5 +1,4 @@
-Tripartiella rhombi Stein G., 1961 SPECIES
-=======
+# Tripartiella rhombi Stein G., 1961 SPECIES
 
 #### Status
 ACCEPTED

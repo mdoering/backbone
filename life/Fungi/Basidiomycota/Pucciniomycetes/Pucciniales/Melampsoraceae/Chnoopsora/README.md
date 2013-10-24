@@ -1,5 +1,4 @@
-Chnoopsora GENUS
-=======
+# Chnoopsora GENUS
 
 #### Status
 ACCEPTED

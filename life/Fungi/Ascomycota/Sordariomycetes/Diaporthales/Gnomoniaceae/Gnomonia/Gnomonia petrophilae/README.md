@@ -1,5 +1,4 @@
-Gnomonia petrophilae Gucevic SPECIES
-=======
+# Gnomonia petrophilae Gucevic SPECIES
 
 #### Status
 ACCEPTED

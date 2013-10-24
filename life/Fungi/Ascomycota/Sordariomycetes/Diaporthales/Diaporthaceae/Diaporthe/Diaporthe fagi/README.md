@@ -1,5 +1,4 @@
-Diaporthe fagi Wehm. SPECIES
-=======
+# Diaporthe fagi Wehm. SPECIES
 
 #### Status
 ACCEPTED

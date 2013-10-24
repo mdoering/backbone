@@ -1,5 +1,4 @@
-Hypoxylon leucostomum Cooke SPECIES
-=======
+# Hypoxylon leucostomum Cooke SPECIES
 
 #### Status
 ACCEPTED

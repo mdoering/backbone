@@ -1,5 +1,4 @@
-Phlegmacium lutulentum (Jul. Schäff.) M.M. Moser SPECIES
-=======
+# Phlegmacium lutulentum (Jul. Schäff.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

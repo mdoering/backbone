@@ -1,5 +1,4 @@
-Dermatea constipata Starbäck SPECIES
-=======
+# Dermatea constipata Starbäck SPECIES
 
 #### Status
 ACCEPTED

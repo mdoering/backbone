@@ -1,5 +1,4 @@
-Varicosporina ramulosa Meyers & Kohlm., 1965 SPECIES
-=======
+# Varicosporina ramulosa Meyers & Kohlm., 1965 SPECIES
 
 #### Status
 ACCEPTED

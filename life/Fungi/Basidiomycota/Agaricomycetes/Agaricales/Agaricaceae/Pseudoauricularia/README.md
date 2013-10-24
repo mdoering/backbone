@@ -1,5 +1,4 @@
-Pseudoauricularia Kobayasi GENUS
-=======
+# Pseudoauricularia Kobayasi GENUS
 
 #### Status
 ACCEPTED

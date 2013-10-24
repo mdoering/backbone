@@ -1,5 +1,4 @@
-Cytospora stictostoma Grove SPECIES
-=======
+# Cytospora stictostoma Grove SPECIES
 
 #### Status
 ACCEPTED

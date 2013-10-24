@@ -1,5 +1,4 @@
-Ramularia adoxae (Rabenh.) P. Karst., 1884 SPECIES
-=======
+# Ramularia adoxae (Rabenh.) P. Karst., 1884 SPECIES
 
 #### Status
 ACCEPTED

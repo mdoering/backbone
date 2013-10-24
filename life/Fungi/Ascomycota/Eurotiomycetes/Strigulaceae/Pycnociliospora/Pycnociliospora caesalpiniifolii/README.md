@@ -1,5 +1,4 @@
-Pycnociliospora caesalpiniifolii Bat. & J.A. Lima SPECIES
-=======
+# Pycnociliospora caesalpiniifolii Bat. & J.A. Lima SPECIES
 
 #### Status
 ACCEPTED

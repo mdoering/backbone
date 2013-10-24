@@ -1,5 +1,4 @@
-Haplobasidion musae M.B. Ellis, 1957 SPECIES
-=======
+# Haplobasidion musae M.B. Ellis, 1957 SPECIES
 
 #### Status
 ACCEPTED

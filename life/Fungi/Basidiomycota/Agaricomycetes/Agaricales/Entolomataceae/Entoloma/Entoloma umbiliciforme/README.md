@@ -1,17 +1,16 @@
-Entoloma unibiliciformis Hesler SPECIES
-=======
+# Entoloma umbiliciforme Hesler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 66(4): 715 (1974)
 
 #### Original name
-Entoloma unibiliciformis Hesler
+Leptoniella umbilicata Murrill
 
 ### Remarks
 null

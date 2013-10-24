@@ -1,5 +1,4 @@
-Rotiferophthora minutispora Glockling SPECIES
-=======
+# Rotiferophthora minutispora Glockling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus grambergii Bres. SPECIES
-=======
+# Coprinus grambergii Bres. SPECIES
 
 #### Status
 ACCEPTED

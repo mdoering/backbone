@@ -1,5 +1,4 @@
-Erysiphe pycnopus Mart. SPECIES
-=======
+# Erysiphe pycnopus Mart. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia fallax Hepp ex Arnold SPECIES
-=======
+# Physcia fallax Hepp ex Arnold SPECIES
 
 #### Status
 ACCEPTED

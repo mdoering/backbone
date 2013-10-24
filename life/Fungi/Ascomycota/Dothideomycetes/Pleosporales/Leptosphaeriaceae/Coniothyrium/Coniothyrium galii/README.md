@@ -1,5 +1,4 @@
-Coniothyrium galii Trotter SPECIES
-=======
+# Coniothyrium galii Trotter SPECIES
 
 #### Status
 ACCEPTED

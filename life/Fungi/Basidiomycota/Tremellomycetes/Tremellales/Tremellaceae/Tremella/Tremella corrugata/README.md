@@ -1,5 +1,4 @@
-Tremella corrugata Sowerby SPECIES
-=======
+# Tremella corrugata Sowerby SPECIES
 
 #### Status
 ACCEPTED

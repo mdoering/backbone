@@ -1,5 +1,4 @@
-Scindalma cremorinum (Ces.) Kuntze SPECIES
-=======
+# Scindalma cremorinum (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

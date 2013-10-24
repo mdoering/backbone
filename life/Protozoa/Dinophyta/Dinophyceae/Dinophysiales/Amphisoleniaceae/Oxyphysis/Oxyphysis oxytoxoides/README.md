@@ -1,5 +1,4 @@
-Oxyphysis oxytoxoides Kofoid SPECIES
-=======
+# Oxyphysis oxytoxoides Kofoid SPECIES
 
 #### Status
 ACCEPTED

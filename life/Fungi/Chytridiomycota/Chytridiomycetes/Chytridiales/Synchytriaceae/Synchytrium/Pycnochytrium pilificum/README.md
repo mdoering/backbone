@@ -1,5 +1,4 @@
-Pycnochytrium pilificum (F. Thomas) J. Schröt. SPECIES
-=======
+# Pycnochytrium pilificum (F. Thomas) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

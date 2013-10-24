@@ -1,5 +1,4 @@
-Xanthoria isidioidea (Beltr.) Szatala SPECIES
-=======
+# Xanthoria isidioidea (Beltr.) Szatala SPECIES
 
 #### Status
 ACCEPTED

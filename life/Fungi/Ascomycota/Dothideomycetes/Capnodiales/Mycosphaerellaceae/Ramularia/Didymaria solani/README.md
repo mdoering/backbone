@@ -1,5 +1,4 @@
-Didymaria solani Seaver SPECIES
-=======
+# Didymaria solani Seaver SPECIES
 
 #### Status
 ACCEPTED

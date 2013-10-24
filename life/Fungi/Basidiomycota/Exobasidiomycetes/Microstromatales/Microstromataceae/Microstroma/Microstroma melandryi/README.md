@@ -1,5 +1,4 @@
-Microstroma melandryi Siemaszko SPECIES
-=======
+# Microstroma melandryi Siemaszko SPECIES
 
 #### Status
 ACCEPTED

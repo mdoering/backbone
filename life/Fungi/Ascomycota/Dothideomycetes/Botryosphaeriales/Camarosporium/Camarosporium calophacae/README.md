@@ -1,5 +1,4 @@
-Camarosporium calophacae Henn. SPECIES
-=======
+# Camarosporium calophacae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Druppuletta Haeckel, 1887 GENUS
-=======
+# Druppuletta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

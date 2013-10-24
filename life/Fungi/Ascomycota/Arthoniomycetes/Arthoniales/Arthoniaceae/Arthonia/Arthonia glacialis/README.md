@@ -1,5 +1,4 @@
-Arthonia glacialis Alstrup & E.S. Hansen SPECIES
-=======
+# Arthonia glacialis Alstrup & E.S. Hansen SPECIES
 
 #### Status
 ACCEPTED

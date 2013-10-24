@@ -1,5 +1,4 @@
-Holophrya viridis SPECIES
-=======
+# Holophrya viridis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ocellularia demersa Müll. Arg. SPECIES
-=======
+# Thelotrema demersum (Müll. Arg.) G. Salisb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mém. Soc. Phys. Hist. nat. Genève 29(8): 9 (1887)
+Nova Hedwigia 29: 408 (1978)
 
 #### Original name
 Ocellularia demersa Müll. Arg.

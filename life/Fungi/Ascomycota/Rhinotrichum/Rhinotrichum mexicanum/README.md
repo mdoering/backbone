@@ -1,5 +1,4 @@
-Rhinotrichum mexicanum Guzmán SPECIES
-=======
+# Rhinotrichum mexicanum Guzmán SPECIES
 
 #### Status
 ACCEPTED

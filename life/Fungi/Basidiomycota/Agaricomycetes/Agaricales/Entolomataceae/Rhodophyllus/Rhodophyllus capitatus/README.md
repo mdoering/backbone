@@ -1,5 +1,4 @@
-Rhodophyllus capitatus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus capitatus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

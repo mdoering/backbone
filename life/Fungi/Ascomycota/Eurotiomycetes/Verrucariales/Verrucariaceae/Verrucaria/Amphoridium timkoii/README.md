@@ -1,5 +1,4 @@
-Amphoridium timkoii var. timkoii VARIETY
-=======
+# Amphoridium timkoii (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ceskoslov. Liejn. Celedi Verrucariaceae 36 (1954)
 
 #### Original name
-Amphoridium timkoii var. timkoii
+Verrucaria timkoii Servít
 
 ### Remarks
 null

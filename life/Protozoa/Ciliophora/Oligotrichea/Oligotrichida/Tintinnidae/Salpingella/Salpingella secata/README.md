@@ -1,5 +1,4 @@
-Salpingella secata (Brandt, 1896) SPECIES
-=======
+# Salpingella secata (Brandt, 1896) SPECIES
 
 #### Status
 ACCEPTED

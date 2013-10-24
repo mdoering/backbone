@@ -1,5 +1,4 @@
-Didinium minimum SPECIES
-=======
+# Didinium minimum SPECIES
 
 #### Status
 ACCEPTED

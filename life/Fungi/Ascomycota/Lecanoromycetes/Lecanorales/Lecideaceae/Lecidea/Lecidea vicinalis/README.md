@@ -1,5 +1,4 @@
-Lecidea vicinalis Müll. Arg. SPECIES
-=======
+# Lecidea vicinalis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

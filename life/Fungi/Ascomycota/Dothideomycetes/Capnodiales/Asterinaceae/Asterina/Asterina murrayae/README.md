@@ -1,5 +1,4 @@
-Asterina murrayae Hansf. SPECIES
-=======
+# Asterina murrayae Hansf. SPECIES
 
 #### Status
 ACCEPTED

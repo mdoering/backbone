@@ -1,5 +1,4 @@
-Entylomella guaranitica Cif. SPECIES
-=======
+# Entylomella guaranitica Cif. SPECIES
 
 #### Status
 ACCEPTED

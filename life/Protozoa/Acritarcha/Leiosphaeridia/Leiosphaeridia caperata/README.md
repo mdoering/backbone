@@ -1,5 +1,4 @@
-Leiosphaeridia caperata Jiabo, 1978 SPECIES
-=======
+# Leiosphaeridia caperata Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

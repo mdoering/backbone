@@ -1,5 +1,4 @@
-Trichosporum holosericeum (Preuss) Sacc. SPECIES
-=======
+# Trichosporum holosericeum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza belonea Nyl. SPECIES
-=======
+# Peziza belonea Nyl. SPECIES
 
 #### Status
 ACCEPTED

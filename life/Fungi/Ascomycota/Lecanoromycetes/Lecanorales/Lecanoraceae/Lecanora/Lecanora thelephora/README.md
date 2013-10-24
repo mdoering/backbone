@@ -1,5 +1,4 @@
-Lecanora thelephora Stirt. SPECIES
-=======
+# Lecanora thelephora Stirt. SPECIES
 
 #### Status
 ACCEPTED

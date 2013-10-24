@@ -1,5 +1,4 @@
-Phaeographina asteroides Fink SPECIES
-=======
+# Phaeographina asteroides Fink SPECIES
 
 #### Status
 ACCEPTED

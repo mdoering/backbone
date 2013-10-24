@@ -1,5 +1,4 @@
-Russula montivaga Singer SPECIES
-=======
+# Russula montivaga Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uvigerina flinti SPECIES
-=======
+# Uvigerina flinti SPECIES
 
 #### Status
 ACCEPTED

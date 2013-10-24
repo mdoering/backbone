@@ -1,5 +1,4 @@
-Paramoebidium giganteum Duboscq, L. Léger & Tuzet SPECIES
-=======
+# Paramoebidium giganteum Duboscq, L. Léger & Tuzet SPECIES
 
 #### Status
 ACCEPTED

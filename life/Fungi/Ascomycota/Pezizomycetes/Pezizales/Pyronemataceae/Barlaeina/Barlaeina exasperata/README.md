@@ -1,5 +1,4 @@
-Barlaeina exasperata (Berk. & M.A. Curtis) Sacc. & Traverso SPECIES
-=======
+# Barlaeina exasperata (Berk. & M.A. Curtis) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

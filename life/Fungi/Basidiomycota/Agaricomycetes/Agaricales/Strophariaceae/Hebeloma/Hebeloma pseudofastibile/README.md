@@ -1,5 +1,4 @@
-Hebeloma pseudofastibile var. pseudofastibile VARIETY
-=======
+# Hebeloma pseudofastibile A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hebeloma pseudofastibile var. pseudofastibile
+Hebeloma pseudofastibile A.H. Sm., V.S. Evenson & Mitchel
 
 ### Remarks
 null

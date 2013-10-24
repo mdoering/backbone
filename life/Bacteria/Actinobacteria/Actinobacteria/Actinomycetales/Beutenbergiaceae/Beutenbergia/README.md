@@ -1,5 +1,4 @@
-Beutenbergia Groth et al., 1999 GENUS
-=======
+# Beutenbergia Groth et al., 1999 GENUS
 
 #### Status
 ACCEPTED

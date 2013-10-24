@@ -1,5 +1,4 @@
-Discostroma elegans (H.J. Swart) Sivan., 2002 SPECIES
-=======
+# Discostroma elegans (H.J. Swart) Sivan., 2002 SPECIES
 
 #### Status
 ACCEPTED

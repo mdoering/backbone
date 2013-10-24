@@ -1,5 +1,4 @@
-Mycena murna Grgur. SPECIES
-=======
+# Mycena murna Grgur. SPECIES
 
 #### Status
 ACCEPTED

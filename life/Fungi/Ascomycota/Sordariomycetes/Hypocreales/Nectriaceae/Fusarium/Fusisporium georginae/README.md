@@ -1,5 +1,4 @@
-Fusisporium georginae Link, 1809 SPECIES
-=======
+# Fusisporium georginae Link, 1809 SPECIES
 
 #### Status
 ACCEPTED

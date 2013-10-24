@@ -1,5 +1,4 @@
-Collema synallizum (Ach.) Ach. SPECIES
-=======
+# Collema synallizum (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

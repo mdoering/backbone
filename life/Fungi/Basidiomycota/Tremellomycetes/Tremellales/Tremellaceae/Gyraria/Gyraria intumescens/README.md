@@ -1,5 +1,4 @@
-Gyraria intumescens (Sm.) Gray SPECIES
-=======
+# Gyraria intumescens (Sm.) Gray SPECIES
 
 #### Status
 ACCEPTED

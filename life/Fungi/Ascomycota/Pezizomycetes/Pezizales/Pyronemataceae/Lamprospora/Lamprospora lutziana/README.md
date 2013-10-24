@@ -1,5 +1,4 @@
-Lamprospora lutziana Boud. SPECIES
-=======
+# Lamprospora lutziana Boud. SPECIES
 
 #### Status
 ACCEPTED

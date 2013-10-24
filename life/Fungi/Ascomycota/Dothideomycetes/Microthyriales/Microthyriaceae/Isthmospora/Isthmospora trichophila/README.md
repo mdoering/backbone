@@ -1,5 +1,4 @@
-Isthmospora trichophila (G.F. Atk.) Damon SPECIES
-=======
+# Isthmospora trichophila (G.F. Atk.) Damon SPECIES
 
 #### Status
 ACCEPTED

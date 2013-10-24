@@ -1,5 +1,4 @@
-Linosporoidea R. Keller GENUS
-=======
+# Linosporoidea R. Keller GENUS
 
 #### Status
 ACCEPTED

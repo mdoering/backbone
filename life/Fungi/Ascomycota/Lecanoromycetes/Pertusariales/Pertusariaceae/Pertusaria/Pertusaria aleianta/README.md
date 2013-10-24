@@ -1,5 +1,4 @@
-Pertusaria aleianta Nyl. ex Cromb. SPECIES
-=======
+# Pertusaria aleianta Nyl. ex Cromb. SPECIES
 
 #### Status
 ACCEPTED

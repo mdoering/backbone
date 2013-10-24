@@ -1,5 +1,4 @@
-Rhodophyllus mediofuscus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus mediofuscus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

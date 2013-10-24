@@ -1,5 +1,4 @@
-Technitella erinacea Hofker, 1972 SPECIES
-=======
+# Technitella erinacea Hofker, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanocarpus coprophilus Guarro & Valldos. SPECIES
-=======
+# Melanocarpus coprophilus Guarro & Valldos. SPECIES
 
 #### Status
 ACCEPTED

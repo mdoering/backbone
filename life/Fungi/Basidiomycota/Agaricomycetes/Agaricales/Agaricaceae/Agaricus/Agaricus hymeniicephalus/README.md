@@ -1,5 +1,4 @@
-Agaricus hymeniicephalus Speg. SPECIES
-=======
+# Agaricus hymeniicephalus Speg. SPECIES
 
 #### Status
 ACCEPTED

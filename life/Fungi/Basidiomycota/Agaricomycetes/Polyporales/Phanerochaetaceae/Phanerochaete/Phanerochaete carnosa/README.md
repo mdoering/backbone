@@ -1,5 +1,4 @@
-Phanerochaete carnosa (Burt) Parmasto SPECIES
-=======
+# Phanerochaete carnosa (Burt) Parmasto SPECIES
 
 #### Status
 ACCEPTED

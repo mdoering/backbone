@@ -1,5 +1,4 @@
-Poria brevispora Speg. SPECIES
-=======
+# Poria brevispora Speg. SPECIES
 
 #### Status
 ACCEPTED

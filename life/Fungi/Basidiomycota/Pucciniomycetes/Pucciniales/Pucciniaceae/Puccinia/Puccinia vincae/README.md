@@ -1,17 +1,16 @@
-Trichobasis vincae Cooke, 1860 SPECIES
-=======
+# Puccinia vincae (DC.) Plowr., 1836 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley, Outl. Brit. Fung. (London) 332 (1860)
+Smith's English Flora (London) 5(2): 364 (1836)
 
 #### Original name
-Trichobasis vincae Cooke, 1860
+Uredo vincae DC., 1815
 
 ### Remarks
 null

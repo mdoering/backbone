@@ -1,5 +1,4 @@
-Septoria filispora (Cooke) Sacc. SPECIES
-=======
+# Septoria filispora (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

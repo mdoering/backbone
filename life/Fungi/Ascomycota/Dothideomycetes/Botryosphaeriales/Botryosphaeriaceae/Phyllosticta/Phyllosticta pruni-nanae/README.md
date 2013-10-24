@@ -1,5 +1,4 @@
-Phyllosticta pruni-nanae Savul. & Sandu SPECIES
-=======
+# Phyllosticta pruni-nanae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

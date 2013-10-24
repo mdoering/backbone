@@ -1,5 +1,4 @@
-Natraglia Pessagno in Pessagno, Finch & Abbott, 1979 GENUS
-=======
+# Natraglia Pessagno in Pessagno, Finch & Abbott, 1979 GENUS
 
 #### Status
 ACCEPTED

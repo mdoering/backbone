@@ -1,5 +1,4 @@
-Cladonia pseudohondoensis Asahina SPECIES
-=======
+# Cladonia pseudohondoensis Asahina SPECIES
 
 #### Status
 ACCEPTED

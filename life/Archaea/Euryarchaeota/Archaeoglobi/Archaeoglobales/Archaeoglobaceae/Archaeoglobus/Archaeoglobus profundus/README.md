@@ -1,5 +1,4 @@
-Archaeoglobus profundus Burggraf et al., 1990 SPECIES
-=======
+# Archaeoglobus profundus Burggraf et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

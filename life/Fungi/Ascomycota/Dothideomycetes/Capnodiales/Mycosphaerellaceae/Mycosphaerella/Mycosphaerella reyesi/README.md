@@ -1,5 +1,4 @@
-Mycosphaerella reyesi Syd. SPECIES
-=======
+# Mycosphaerella reyesi Syd. SPECIES
 
 #### Status
 ACCEPTED

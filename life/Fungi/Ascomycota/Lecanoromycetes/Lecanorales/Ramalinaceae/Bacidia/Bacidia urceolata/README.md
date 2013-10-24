@@ -1,5 +1,4 @@
-Bacidia urceolata (Ach.) H. Olivier SPECIES
-=======
+# Bacidia urceolata (Ach.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

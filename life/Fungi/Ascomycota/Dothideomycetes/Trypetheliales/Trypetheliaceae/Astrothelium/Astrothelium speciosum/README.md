@@ -1,5 +1,4 @@
-Astrothelium speciosum SPECIES
-=======
+# Astrothelium speciosum SPECIES
 
 #### Status
 ACCEPTED

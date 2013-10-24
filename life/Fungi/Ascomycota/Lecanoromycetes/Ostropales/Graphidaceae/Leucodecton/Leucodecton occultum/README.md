@@ -1,17 +1,16 @@
-Thelotrema compunctum var. compunctum VARIETY
-=======
+# Leucodecton occultum (Eschw.) Frisch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 92: 157 (2006)
 
 #### Original name
-Thelotrema compunctum var. compunctum
+Thelotrema occultum Eschw.
 
 ### Remarks
 null

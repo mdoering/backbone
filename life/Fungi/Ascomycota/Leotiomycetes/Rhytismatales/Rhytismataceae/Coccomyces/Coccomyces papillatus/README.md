@@ -1,5 +1,4 @@
-Coccomyces papillatus Sherwood, 1978 SPECIES
-=======
+# Coccomyces papillatus Sherwood, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium farameae Arthur SPECIES
-=======
+# Aecidium farameae Arthur SPECIES
 
 #### Status
 ACCEPTED

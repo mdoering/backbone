@@ -1,5 +1,4 @@
-Strickeria praeclara (Rehm) House SPECIES
-=======
+# Strickeria praeclara (Rehm) House SPECIES
 
 #### Status
 ACCEPTED

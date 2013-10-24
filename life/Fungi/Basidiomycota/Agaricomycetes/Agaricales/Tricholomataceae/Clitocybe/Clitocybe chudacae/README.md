@@ -1,5 +1,4 @@
-Clitocybe chudacae Maire SPECIES
-=======
+# Clitocybe chudacae Maire SPECIES
 
 #### Status
 ACCEPTED

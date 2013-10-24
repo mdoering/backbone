@@ -1,5 +1,4 @@
-Galerina rostrata A.H. Sm. & Singer SPECIES
-=======
+# Galerina rostrata A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

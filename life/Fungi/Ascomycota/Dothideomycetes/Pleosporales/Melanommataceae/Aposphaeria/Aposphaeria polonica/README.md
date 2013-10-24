@@ -1,5 +1,4 @@
-Aposphaeria polonica Moesz SPECIES
-=======
+# Aposphaeria polonica Moesz SPECIES
 
 #### Status
 ACCEPTED

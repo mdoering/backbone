@@ -1,5 +1,4 @@
-Leptosphaeria galii-silvatici Kirschst. SPECIES
-=======
+# Leptosphaeria galii-silvatici Kirschst. SPECIES
 
 #### Status
 ACCEPTED

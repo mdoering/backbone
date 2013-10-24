@@ -1,5 +1,4 @@
-Agaricus tenuisporus Britzelm. SPECIES
-=======
+# Agaricus tenuisporus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

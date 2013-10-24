@@ -1,5 +1,4 @@
-Glaucoma gigantea Grandori & Grandori, 1934 SPECIES
-=======
+# Glaucoma gigantea Grandori & Grandori, 1934 SPECIES
 
 #### Status
 ACCEPTED

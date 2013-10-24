@@ -1,5 +1,4 @@
-Trachelomonas lismorensis var. biseriata Playfair VARIETY
-=======
+# Trachelomonas lismorensis Playfair SPECIES
 
 #### Status
 ACCEPTED

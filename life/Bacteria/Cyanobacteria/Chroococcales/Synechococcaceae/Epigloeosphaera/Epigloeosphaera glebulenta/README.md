@@ -1,8 +1,7 @@
-Aphanothece glebulenta Zalessky SPECIES
-=======
+# Epigloeosphaera glebulenta (Zalessky) J. Komárková-Legnerová SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

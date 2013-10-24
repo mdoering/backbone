@@ -1,17 +1,16 @@
-Leptostroma durissimum Cooke, 1878 SPECIES
-=======
+# Lophodermium australe Dearn., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 7(no. 41): 32 (1878)
+Mycologia 18(5): 242 (1926)
 
 #### Original name
-Leptostroma durissimum Cooke, 1878
+Lophodermium australe Dearn., 1926
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Allarthothelium GENUS
-=======
+# Allarthothelium GENUS
 
 #### Status
 ACCEPTED

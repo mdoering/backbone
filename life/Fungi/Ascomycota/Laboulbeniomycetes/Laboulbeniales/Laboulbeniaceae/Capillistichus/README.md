@@ -1,5 +1,4 @@
-Capillistichus Santam. GENUS
-=======
+# Capillistichus Santam. GENUS
 
 #### Status
 ACCEPTED

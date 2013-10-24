@@ -1,5 +1,4 @@
-Xylosphaera tanganyikaensis Dennis SPECIES
-=======
+# Xylosphaera tanganyikaensis Dennis SPECIES
 
 #### Status
 ACCEPTED

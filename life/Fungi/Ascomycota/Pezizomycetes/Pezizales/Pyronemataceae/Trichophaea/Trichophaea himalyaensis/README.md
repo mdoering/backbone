@@ -1,5 +1,4 @@
-Trichophaea himalyaensis L.R. Batra SPECIES
-=======
+# Trichophaea himalyaensis L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

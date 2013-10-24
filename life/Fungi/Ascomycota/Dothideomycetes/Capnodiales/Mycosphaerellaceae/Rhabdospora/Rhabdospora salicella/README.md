@@ -1,5 +1,4 @@
-Rhabdospora salicella (Berk. & Broome) Sacc. SPECIES
-=======
+# Rhabdospora salicella (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

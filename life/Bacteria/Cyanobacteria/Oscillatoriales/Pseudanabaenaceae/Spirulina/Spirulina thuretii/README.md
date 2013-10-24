@@ -1,5 +1,4 @@
-Spirulina thuretii Crouan. SPECIES
-=======
+# Spirulina thuretii Crouan. SPECIES
 
 #### Status
 ACCEPTED

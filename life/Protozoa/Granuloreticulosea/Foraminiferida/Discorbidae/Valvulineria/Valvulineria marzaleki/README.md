@@ -1,5 +1,4 @@
-Valvulineria marzaleki SPECIES
-=======
+# Valvulineria marzaleki SPECIES
 
 #### Status
 ACCEPTED

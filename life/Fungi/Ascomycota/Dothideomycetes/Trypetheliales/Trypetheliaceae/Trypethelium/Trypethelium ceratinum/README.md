@@ -1,14 +1,13 @@
-Pseudopyrenula ceratina (Fée) Müll. Arg. SPECIES
-=======
+# Trypethelium ceratinum (Fée) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mém. Soc. Phys. Hist. nat. Genève 30: 29 (1888)
+Lichenogr. Thomsoniana (Ithaca), North American Lichenology in Honor of John W. Thomson 141 (1998)
 
 #### Original name
 null

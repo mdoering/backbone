@@ -1,5 +1,4 @@
-Tritirachium musae (J.F.H. Beyma) J.F.H. Beyma SPECIES
-=======
+# Tritirachium musae (J.F.H. Beyma) J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

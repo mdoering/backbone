@@ -1,5 +1,4 @@
-Dicaeoma rosskowiae (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma rosskowiae (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola burgosensis Hansf. SPECIES
-=======
+# Meliola burgosensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

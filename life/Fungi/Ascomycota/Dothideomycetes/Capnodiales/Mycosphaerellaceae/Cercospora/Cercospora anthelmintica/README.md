@@ -1,5 +1,4 @@
-Cercospora anthelmintica G.F. Atk. SPECIES
-=======
+# Cercospora anthelmintica G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

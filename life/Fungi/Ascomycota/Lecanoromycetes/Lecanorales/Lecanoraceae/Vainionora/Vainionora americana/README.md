@@ -1,5 +1,4 @@
-Vainionora americana Kalb, Tønsberg & Elix SPECIES
-=======
+# Vainionora americana Kalb, Tønsberg & Elix SPECIES
 
 #### Status
 ACCEPTED

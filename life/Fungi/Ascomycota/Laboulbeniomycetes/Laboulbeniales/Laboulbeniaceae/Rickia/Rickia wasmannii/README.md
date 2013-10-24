@@ -1,5 +1,4 @@
-Rickia wasmannii Cavara, 1899 SPECIES
-=======
+# Rickia wasmannii Cavara, 1899 SPECIES
 
 #### Status
 ACCEPTED

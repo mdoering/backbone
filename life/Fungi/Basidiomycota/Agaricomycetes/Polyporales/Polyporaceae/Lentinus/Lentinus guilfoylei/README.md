@@ -1,5 +1,4 @@
-Lentinus guilfoylei Berk. & F. Muell. SPECIES
-=======
+# Lentinus guilfoylei Berk. & F. Muell. SPECIES
 
 #### Status
 ACCEPTED

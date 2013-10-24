@@ -1,5 +1,4 @@
-Gyrophoropsis haplocarpa (Nyl.) Räsänen SPECIES
-=======
+# Gyrophoropsis haplocarpa (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

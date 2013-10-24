@@ -1,5 +1,4 @@
-Irenina turpiniae W. Yamam. SPECIES
-=======
+# Irenina turpiniae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

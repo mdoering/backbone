@@ -1,17 +1,16 @@
-Everniomyces Cif. & Tomas. GENUS
-=======
+# Evernia Ach. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 44, 70 (1953)
+in Luyken, Tent. Hist. Lich. 90 (1809)
 
 #### Original name
-Everniomyces Cif. & Tomas.
+Evernia Ach.
 
 ### Remarks
 null

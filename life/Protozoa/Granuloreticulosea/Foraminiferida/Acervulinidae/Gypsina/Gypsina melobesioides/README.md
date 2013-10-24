@@ -1,5 +1,4 @@
-Gypsina melobesioides Carter, 1877 SPECIES
-=======
+# Gypsina melobesioides Carter, 1877 SPECIES
 
 #### Status
 ACCEPTED

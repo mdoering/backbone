@@ -1,5 +1,4 @@
-Microbacterium phyllosphaerae Behrendt et al., 2001 SPECIES
-=======
+# Microbacterium phyllosphaerae Behrendt et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

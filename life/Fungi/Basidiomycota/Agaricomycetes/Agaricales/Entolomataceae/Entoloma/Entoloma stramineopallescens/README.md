@@ -1,5 +1,4 @@
-Entoloma stramineopallescens G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma stramineopallescens G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

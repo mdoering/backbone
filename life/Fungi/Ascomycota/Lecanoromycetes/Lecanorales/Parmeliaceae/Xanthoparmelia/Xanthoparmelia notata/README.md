@@ -1,17 +1,16 @@
-Parmelia subconspersa var. eradicata Zahlbr. VARIETY
-=======
+# Xanthoparmelia notata (Kurok.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annln K. K. naturh. Hofmus. Wien 11: 195 (1896)
+Phytologia 28: 488 (1974)
 
 #### Original name
-Parmelia subconspersa var. eradicata Zahlbr.
+Parmelia notata Kurok.
 
 ### Remarks
 null

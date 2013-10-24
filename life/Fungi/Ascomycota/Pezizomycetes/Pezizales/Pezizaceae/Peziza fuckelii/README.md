@@ -1,5 +1,4 @@
-Peziza fuckelii Cooke SPECIES
-=======
+# Peziza fuckelii Cooke SPECIES
 
 #### Status
 ACCEPTED

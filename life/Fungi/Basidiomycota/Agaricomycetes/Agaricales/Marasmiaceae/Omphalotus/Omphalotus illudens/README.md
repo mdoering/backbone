@@ -1,14 +1,13 @@
-Pocillaria illudens (Schwein.) Kuntze, 1898 SPECIES
-=======
+# Omphalotus illudens (Schwein.) Bresinsky & Besl, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 506 (1898)
+Beih. Sydowia 8: 106 (1979)
 
 #### Original name
 Agaricus illudens Schwein., 1822

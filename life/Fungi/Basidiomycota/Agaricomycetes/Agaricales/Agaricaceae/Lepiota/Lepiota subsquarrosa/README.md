@@ -1,5 +1,4 @@
-Lepiota subsquarrosa (Locq.) Gea & Honrubia SPECIES
-=======
+# Lepiota subsquarrosa (Locq.) Gea & Honrubia SPECIES
 
 #### Status
 ACCEPTED

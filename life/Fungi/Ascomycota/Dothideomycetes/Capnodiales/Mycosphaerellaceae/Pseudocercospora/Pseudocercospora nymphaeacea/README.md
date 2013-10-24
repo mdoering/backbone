@@ -1,5 +1,4 @@
-Pseudocercospora nymphaeacea (Cooke & Ellis) Deighton SPECIES
-=======
+# Pseudocercospora nymphaeacea (Cooke & Ellis) Deighton SPECIES
 
 #### Status
 ACCEPTED

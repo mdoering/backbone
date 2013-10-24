@@ -1,5 +1,4 @@
-Leptosphaeria variegata Peck SPECIES
-=======
+# Leptosphaeria variegata Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphenolithus stellatus Gartner, 1971 SPECIES
-=======
+# Sphenolithus stellatus Gartner, 1971 SPECIES
 
 #### Status
 ACCEPTED

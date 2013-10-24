@@ -1,5 +1,4 @@
-Naucoria khasiensis Berk. SPECIES
-=======
+# Naucoria khasiensis Berk. SPECIES
 
 #### Status
 ACCEPTED

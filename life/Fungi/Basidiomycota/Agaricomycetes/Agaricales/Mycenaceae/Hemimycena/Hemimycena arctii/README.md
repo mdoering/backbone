@@ -1,5 +1,4 @@
-Hemimycena arctii Kalamees & Faizova SPECIES
-=======
+# Hemimycena arctii Kalamees & Faizova SPECIES
 
 #### Status
 ACCEPTED

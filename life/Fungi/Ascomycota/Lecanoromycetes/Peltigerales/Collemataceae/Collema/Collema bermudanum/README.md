@@ -1,5 +1,4 @@
-Collema bermudanum Tuck. SPECIES
-=======
+# Collema bermudanum Tuck. SPECIES
 
 #### Status
 ACCEPTED

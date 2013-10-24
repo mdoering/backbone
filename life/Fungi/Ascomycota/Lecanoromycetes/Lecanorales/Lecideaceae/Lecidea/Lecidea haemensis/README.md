@@ -1,5 +1,4 @@
-Lecidea haemensis Vain. SPECIES
-=======
+# Lecidea haemensis Vain. SPECIES
 
 #### Status
 ACCEPTED

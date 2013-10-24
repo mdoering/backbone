@@ -1,5 +1,4 @@
-Xyloma linnaeae Fr. SPECIES
-=======
+# Xyloma linnaeae Fr. SPECIES
 
 #### Status
 ACCEPTED

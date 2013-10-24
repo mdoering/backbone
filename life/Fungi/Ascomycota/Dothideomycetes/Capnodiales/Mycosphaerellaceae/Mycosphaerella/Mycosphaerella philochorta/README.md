@@ -1,5 +1,4 @@
-Mycosphaerella philochorta (Cooke) Tomilin SPECIES
-=======
+# Mycosphaerella philochorta (Cooke) Tomilin SPECIES
 
 #### Status
 ACCEPTED

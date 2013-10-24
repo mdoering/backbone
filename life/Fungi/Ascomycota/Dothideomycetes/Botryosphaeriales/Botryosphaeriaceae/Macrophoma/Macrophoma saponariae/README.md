@@ -1,5 +1,4 @@
-Macrophoma saponariae Siemaszko SPECIES
-=======
+# Macrophoma saponariae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hafellia gomerana Etayo & Marbach SPECIES
-=======
+# Hafellia gomerana Etayo & Marbach SPECIES
 
 #### Status
 ACCEPTED

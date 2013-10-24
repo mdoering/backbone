@@ -1,5 +1,4 @@
-Bryometopus atypicus Foissner, 1980 SPECIES
-=======
+# Bryometopus atypicus Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

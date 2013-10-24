@@ -1,5 +1,4 @@
-Puccinia petasites-poarum Gäum. & Eichhorn SPECIES
-=======
+# Puccinia petasites-poarum Gäum. & Eichhorn SPECIES
 
 #### Status
 ACCEPTED

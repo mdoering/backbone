@@ -1,5 +1,4 @@
-Thecaphora inquinans Berk. & Broome SPECIES
-=======
+# Thecaphora inquinans Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

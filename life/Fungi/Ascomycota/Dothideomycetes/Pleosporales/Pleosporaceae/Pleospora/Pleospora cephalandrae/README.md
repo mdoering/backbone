@@ -1,5 +1,4 @@
-Pleospora cephalandrae E. Müll. & S. Ahmad SPECIES
-=======
+# Pleospora cephalandrae E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

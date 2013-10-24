@@ -1,14 +1,13 @@
-Lecidea enteroleucella Nyl. SPECIES
-=======
+# Lecidella enteroleucella (Nyl.) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Khumbu Himal 6: 330 (1977)
 
 #### Original name
 Lecidea enteroleucella Nyl.

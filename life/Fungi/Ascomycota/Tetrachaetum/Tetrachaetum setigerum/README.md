@@ -1,5 +1,4 @@
-Tetrachaetum setigerum (Grove) SPECIES
-=======
+# Tetrachaetum setigerum (Grove) SPECIES
 
 #### Status
 ACCEPTED

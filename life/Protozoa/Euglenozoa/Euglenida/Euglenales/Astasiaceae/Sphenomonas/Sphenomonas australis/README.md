@@ -1,5 +1,4 @@
-Sphenomonas australis var. rhomboidea Playfair VARIETY
-=======
+# Sphenomonas australis Playfair SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca elixii S. Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca elixii S. Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

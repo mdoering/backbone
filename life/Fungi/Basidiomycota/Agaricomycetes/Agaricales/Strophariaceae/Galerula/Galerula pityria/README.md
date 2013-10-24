@@ -1,5 +1,4 @@
-Galerula pityria (Fr.) P. Karst. SPECIES
-=======
+# Galerula pityria (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

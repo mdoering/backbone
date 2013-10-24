@@ -1,5 +1,4 @@
-Masoniella tertia Bat., J.A. Lima & C.T. Vasconc. SPECIES
-=======
+# Masoniella tertia Bat., J.A. Lima & C.T. Vasconc. SPECIES
 
 #### Status
 ACCEPTED

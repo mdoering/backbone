@@ -1,5 +1,4 @@
-Taeniolella verrucosa M.S. Christ. & D. Hawksw. SPECIES
-=======
+# Taeniolella verrucosa M.S. Christ. & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

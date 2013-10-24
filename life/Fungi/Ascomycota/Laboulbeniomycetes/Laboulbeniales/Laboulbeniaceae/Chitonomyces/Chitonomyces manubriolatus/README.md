@@ -1,5 +1,4 @@
-Chitonomyces manubriolatus Thaxt. SPECIES
-=======
+# Chitonomyces manubriolatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

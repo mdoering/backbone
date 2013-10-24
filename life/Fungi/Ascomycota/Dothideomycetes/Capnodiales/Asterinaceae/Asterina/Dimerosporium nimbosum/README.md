@@ -1,5 +1,4 @@
-Dimerosporium nimbosum Ellis & Mont. SPECIES
-=======
+# Dimerosporium nimbosum Ellis & Mont. SPECIES
 
 #### Status
 ACCEPTED

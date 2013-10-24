@@ -1,5 +1,4 @@
-Excipula diapensiae Rostr. SPECIES
-=======
+# Excipula diapensiae Rostr. SPECIES
 
 #### Status
 ACCEPTED

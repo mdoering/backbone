@@ -1,5 +1,4 @@
-Exarmidium lacustre Kirschst. SPECIES
-=======
+# Exarmidium lacustre Kirschst. SPECIES
 
 #### Status
 ACCEPTED

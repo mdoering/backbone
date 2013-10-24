@@ -1,5 +1,4 @@
-Corticium debile Berk. & M.A. Curtis SPECIES
-=======
+# Corticium debile Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

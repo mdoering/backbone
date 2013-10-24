@@ -1,5 +1,4 @@
-Winogradskyella eximia Nedashkovskaya et al., 2005 SPECIES
-=======
+# Winogradskyella eximia Nedashkovskaya et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

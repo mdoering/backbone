@@ -1,5 +1,4 @@
-Acarospora viridula SPECIES
-=======
+# Acarospora viridula SPECIES
 
 #### Status
 ACCEPTED

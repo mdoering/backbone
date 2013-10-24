@@ -1,5 +1,4 @@
-Aecidium phillyreae DC. SPECIES
-=======
+# Aecidium phillyreae DC. SPECIES
 
 #### Status
 ACCEPTED

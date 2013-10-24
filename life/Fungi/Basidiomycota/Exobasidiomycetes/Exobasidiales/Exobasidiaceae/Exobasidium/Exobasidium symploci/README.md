@@ -1,5 +1,4 @@
-Exobasidium symploci Ellis & G. Martin SPECIES
-=======
+# Exobasidium symploci Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

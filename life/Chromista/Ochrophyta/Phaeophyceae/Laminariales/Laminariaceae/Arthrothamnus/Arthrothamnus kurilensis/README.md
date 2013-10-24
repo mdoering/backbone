@@ -1,5 +1,4 @@
-Arthrothamnus kurilensis Ruprecht SPECIES
-=======
+# Arthrothamnus kurilensis Ruprecht SPECIES
 
 #### Status
 ACCEPTED

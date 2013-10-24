@@ -1,5 +1,4 @@
-Pleurothyrium longissimum (Lib.) Bubák, 1916 SPECIES
-=======
+# Pleurothyrium longissimum (Lib.) Bubák, 1916 SPECIES
 
 #### Status
 ACCEPTED

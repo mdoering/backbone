@@ -1,5 +1,4 @@
-Sclerotium cinnamomi Sawada SPECIES
-=======
+# Sclerotium cinnamomi Sawada SPECIES
 
 #### Status
 ACCEPTED

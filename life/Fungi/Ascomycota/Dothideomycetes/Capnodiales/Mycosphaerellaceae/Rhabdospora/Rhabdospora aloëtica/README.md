@@ -1,5 +1,4 @@
-Rhabdospora aloëtica Sacc. SPECIES
-=======
+# Rhabdospora aloëtica Sacc. SPECIES
 
 #### Status
 ACCEPTED

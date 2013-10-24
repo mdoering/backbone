@@ -1,5 +1,4 @@
-Myagropsis Kützing, 1843 GENUS
-=======
+# Myagropsis Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

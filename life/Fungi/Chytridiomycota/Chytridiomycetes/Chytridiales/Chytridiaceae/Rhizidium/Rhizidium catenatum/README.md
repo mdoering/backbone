@@ -1,5 +1,4 @@
-Rhizidium catenatum P.A. Dang. SPECIES
-=======
+# Rhizidium catenatum P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

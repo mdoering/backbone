@@ -1,17 +1,16 @@
-Lepiotella Rick GENUS
-=======
+# Volvolepiota Singer GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lilloa 2: 251 (1938)
+Boln Soc. argent. Bot. 8: 12 (1959)
 
 #### Original name
-Lepiotella Rick
+Volvolepiota Singer
 
 ### Remarks
 null

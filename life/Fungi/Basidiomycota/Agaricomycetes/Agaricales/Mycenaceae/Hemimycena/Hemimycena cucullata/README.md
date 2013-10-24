@@ -1,14 +1,13 @@
-Mycena cucullifera Romagn., 1992 SPECIES
-=======
+# Hemimycena cucullata (Pers.) Singer, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 108(2): 86 (1992)
+Persoonia 2(1): 20 (1961)
 
 #### Original name
 Agaricus cucullatus Pers., 1801

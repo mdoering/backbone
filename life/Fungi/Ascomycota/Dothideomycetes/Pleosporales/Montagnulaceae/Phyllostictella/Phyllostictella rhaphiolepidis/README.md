@@ -1,5 +1,4 @@
-Phyllostictella rhaphiolepidis Gutner SPECIES
-=======
+# Phyllostictella rhaphiolepidis Gutner SPECIES
 
 #### Status
 ACCEPTED

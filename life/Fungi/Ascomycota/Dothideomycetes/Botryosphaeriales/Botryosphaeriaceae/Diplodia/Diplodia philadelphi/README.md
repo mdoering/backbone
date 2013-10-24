@@ -1,5 +1,4 @@
-Diplodia philadelphi Celotti SPECIES
-=======
+# Diplodia philadelphi Celotti SPECIES
 
 #### Status
 ACCEPTED

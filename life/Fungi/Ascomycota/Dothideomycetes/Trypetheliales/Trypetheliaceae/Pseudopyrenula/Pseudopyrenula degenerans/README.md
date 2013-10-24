@@ -1,5 +1,4 @@
-Pseudopyrenula degenerans Vain. SPECIES
-=======
+# Pseudopyrenula degenerans Vain. SPECIES
 
 #### Status
 ACCEPTED

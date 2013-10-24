@@ -1,5 +1,4 @@
-Staurophoma calami Yanna, K.D. Hyde & Goh SPECIES
-=======
+# Staurophoma calami Yanna, K.D. Hyde & Goh SPECIES
 
 #### Status
 ACCEPTED

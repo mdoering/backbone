@@ -1,5 +1,4 @@
-Volutella oxyspora G.F. Atk. SPECIES
-=======
+# Volutella oxyspora G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Monotospora asperospora Cooke & Massee, 1888 SPECIES
-=======
+# Monodictys asperospora (Cooke & Massee) M.B. Ellis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 16(no. 79): 79 (1888)
+Mycol. Pap. 125: 4 (1971)
 
 #### Original name
-Monotospora asperospora Cooke & Massee, 1888
+Stemphylium asperosporum Cooke & Massee, 1887
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Endothiella viridistroma Roane SPECIES
-=======
+# Endothiella viridistroma Roane SPECIES
 
 #### Status
 ACCEPTED

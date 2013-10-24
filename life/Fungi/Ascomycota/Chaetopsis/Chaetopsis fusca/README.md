@@ -1,5 +1,4 @@
-Chaetopsis fusca Corda SPECIES
-=======
+# Chaetopsis fusca Corda SPECIES
 
 #### Status
 ACCEPTED

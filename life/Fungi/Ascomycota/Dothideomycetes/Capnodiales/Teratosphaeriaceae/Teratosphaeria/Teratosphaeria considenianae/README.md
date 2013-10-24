@@ -1,5 +1,4 @@
-Teratosphaeria considenianae (Crous & Summerell) Crous & Summerell, 2009 SPECIES
-=======
+# Teratosphaeria considenianae (Crous & Summerell) Crous & Summerell, 2009 SPECIES
 
 #### Status
 ACCEPTED

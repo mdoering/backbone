@@ -1,8 +1,7 @@
-Periacineta patula (Claparède & Lachmann, 1859) Collin, 1909 SPECIES
-=======
+# Paracineta patula (Claparède & Lachmann, 1859) Collin, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

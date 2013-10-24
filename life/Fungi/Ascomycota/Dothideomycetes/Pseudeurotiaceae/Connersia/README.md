@@ -1,5 +1,4 @@
-Connersia Malloch GENUS
-=======
+# Connersia Malloch GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidea sorbi Fr. SPECIES
-=======
+# Dothidea sorbi Fr. SPECIES
 
 #### Status
 ACCEPTED

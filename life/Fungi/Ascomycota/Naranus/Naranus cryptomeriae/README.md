@@ -1,5 +1,4 @@
-Naranus cryptomeriae Ts. Watan., 1995 SPECIES
-=======
+# Naranus cryptomeriae Ts. Watan., 1995 SPECIES
 
 #### Status
 ACCEPTED

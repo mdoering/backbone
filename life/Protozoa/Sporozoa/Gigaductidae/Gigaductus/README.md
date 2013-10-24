@@ -1,14 +1,13 @@
-Endocryptella Moriggi, 1943 GENUS
-=======
+# Gigaductus Crawley, 1903 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Arch. Protistenk. , 96, 221.
+Proc. Acad. Nat. Sci. Philad. , 55, 633.
 
 #### Original name
 null

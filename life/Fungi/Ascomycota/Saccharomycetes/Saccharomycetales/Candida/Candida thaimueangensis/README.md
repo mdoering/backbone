@@ -1,5 +1,4 @@
-Candida thaimueangensis Limtong, Yongman., H. Kawas. & Tats. Seki SPECIES
-=======
+# Candida thaimueangensis Limtong, Yongman., H. Kawas. & Tats. Seki SPECIES
 
 #### Status
 ACCEPTED

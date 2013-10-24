@@ -1,14 +1,13 @@
-Laestadia juniperi (Duby) Sacc. SPECIES
-=======
+# Herpotrichia juniperi (Duby) Petr., 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 9: 585 (1891)
+Annls mycol. 23(1/2): 43 (1925)
 
 #### Original name
 Sphaeria juniperi Duby, 1854

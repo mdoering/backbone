@@ -1,5 +1,4 @@
-Boletellus immutabilis (Britzelm.) Perr.-Bertr. SPECIES
-=======
+# Boletellus immutabilis (Britzelm.) Perr.-Bertr. SPECIES
 
 #### Status
 ACCEPTED

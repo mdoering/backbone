@@ -1,5 +1,4 @@
-Pyrenopeziza subatra (Cooke & W. Phillips) Sacc. SPECIES
-=======
+# Pyrenopeziza subatra (Cooke & W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

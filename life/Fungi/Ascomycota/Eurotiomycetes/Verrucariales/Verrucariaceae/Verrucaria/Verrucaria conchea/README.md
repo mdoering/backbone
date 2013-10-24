@@ -1,5 +1,4 @@
-Verrucaria conchea Servít SPECIES
-=======
+# Verrucaria conchea Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crocynia spongiosa B. de Lesd. SPECIES
-=======
+# Crocynia spongiosa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

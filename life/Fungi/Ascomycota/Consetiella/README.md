@@ -1,5 +1,4 @@
-Consetiella Hol.-Jech. & Mercado GENUS
-=======
+# Consetiella Hol.-Jech. & Mercado GENUS
 
 #### Status
 ACCEPTED

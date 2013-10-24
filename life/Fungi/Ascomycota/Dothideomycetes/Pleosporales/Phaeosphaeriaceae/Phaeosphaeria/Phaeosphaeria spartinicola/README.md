@@ -1,5 +1,4 @@
-Phaeosphaeria spartinicola Leuchtm., 1991 SPECIES
-=======
+# Phaeosphaeria spartinicola Leuchtm., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula tremens Müll. Arg. SPECIES
-=======
+# Strigula tremens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

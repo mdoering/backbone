@@ -1,5 +1,4 @@
-Usnea sanytninii SPECIES
-=======
+# Usnea sanytninii SPECIES
 
 #### Status
 ACCEPTED

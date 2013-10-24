@@ -1,14 +1,13 @@
-Pestalotia subcuticularis Guba, 1961 SPECIES
-=======
+# Pestalotiopsis subcuticularis (Guba) J.G. Wei & T. Xu, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Monochaetia and Pestalotia 195 (1961)
+in Wei, Xu, Guo & Pan, Mycosystema 24(4): 488 (2005)
 
 #### Original name
 Pestalotia subcuticularis Guba, 1961

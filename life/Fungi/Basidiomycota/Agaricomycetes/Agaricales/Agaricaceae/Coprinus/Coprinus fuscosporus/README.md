@@ -1,5 +1,4 @@
-Coprinus fuscosporus Copel. SPECIES
-=======
+# Coprinus fuscosporus Copel. SPECIES
 
 #### Status
 ACCEPTED

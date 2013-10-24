@@ -1,17 +1,16 @@
-Pleurocybomyces madagascareae Cif. & Tomas. SPECIES
-=======
+# Pleurocybomyces madagascarea Cif. & Tomas. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 62 (1953)
 
 #### Original name
-Pleurocybomyces madagascareae Cif. & Tomas.
+Pleurocybomyces madagascarea Cif. & Tomas.
 
 ### Remarks
 null

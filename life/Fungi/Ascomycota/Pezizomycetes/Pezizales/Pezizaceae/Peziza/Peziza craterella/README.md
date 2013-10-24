@@ -1,5 +1,4 @@
-Peziza craterella Hedw. SPECIES
-=======
+# Peziza craterella Hedw. SPECIES
 
 #### Status
 ACCEPTED

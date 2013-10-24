@@ -1,5 +1,4 @@
-Pseudocercospora barleriae (J.M. Yen & Lim) U. Braun SPECIES
-=======
+# Pseudocercospora barleriae (J.M. Yen & Lim) U. Braun SPECIES
 
 #### Status
 ACCEPTED

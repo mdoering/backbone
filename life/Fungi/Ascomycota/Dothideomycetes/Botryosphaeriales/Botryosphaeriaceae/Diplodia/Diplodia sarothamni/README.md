@@ -1,5 +1,4 @@
-Diplodia sarothamni Cooke & Harkn., 1884 SPECIES
-=======
+# Diplodia sarothamni Cooke & Harkn., 1884 SPECIES
 
 #### Status
 ACCEPTED

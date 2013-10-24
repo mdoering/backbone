@@ -1,5 +1,4 @@
-Reitlingerina Rauser in Rauser-Chernoussova, 1985 GENUS
-=======
+# Reitlingerina Rauser in Rauser-Chernoussova, 1985 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo wikstroemiae (Arthur) Hirats. f. SPECIES
-=======
+# Uredo wikstroemiae (Arthur) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia llanoi C.W. Dodge SPECIES
-=======
+# Buellia llanoi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

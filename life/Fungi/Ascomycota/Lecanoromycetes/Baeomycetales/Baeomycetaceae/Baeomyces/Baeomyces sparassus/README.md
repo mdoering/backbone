@@ -1,5 +1,4 @@
-Baeomyces sparassus Ach. SPECIES
-=======
+# Baeomyces sparassus Ach. SPECIES
 
 #### Status
 ACCEPTED

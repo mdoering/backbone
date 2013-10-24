@@ -1,5 +1,4 @@
-Flammula clitopila (Cooke & W.G. Sm.) Sacc. SPECIES
-=======
+# Flammula clitopila (Cooke & W.G. Sm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

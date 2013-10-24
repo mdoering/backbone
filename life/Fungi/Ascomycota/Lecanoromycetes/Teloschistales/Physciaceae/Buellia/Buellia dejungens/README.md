@@ -1,5 +1,4 @@
-Buellia dejungens (Nyl.) Vain. SPECIES
-=======
+# Buellia dejungens (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Winteria caerulea (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Winteria caerulea (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

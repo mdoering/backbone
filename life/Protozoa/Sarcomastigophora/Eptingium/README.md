@@ -1,5 +1,4 @@
-Eptingium Dumitrica in Pessagno Finch & Abbott, 1979 GENUS
-=======
+# Eptingium Dumitrica in Pessagno Finch & Abbott, 1979 GENUS
 
 #### Status
 ACCEPTED

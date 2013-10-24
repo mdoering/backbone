@@ -1,17 +1,16 @@
-Ophiobolus acuminatus var. acuminatus (Sowerby) Duby VARIETY
-=======
+# Ophiobolus acuminatus (Sowerby) Duby, 1855 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Klotzschii Herbarium Vivum Mycologicum, Editio novo. Century 1: no. 57 (1855)
 
 #### Original name
-Ophiobolus acuminatus var. acuminatus (Sowerby) Duby
+Sphaeria acuminata M.A. Curtis
 
 ### Remarks
 null

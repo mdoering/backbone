@@ -1,5 +1,4 @@
-Cytophaga myxococcoides SPECIES
-=======
+# Cytophaga myxococcoides SPECIES
 
 #### Status
 ACCEPTED

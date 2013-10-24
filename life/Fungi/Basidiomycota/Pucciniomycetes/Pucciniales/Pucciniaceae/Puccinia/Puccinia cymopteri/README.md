@@ -1,5 +1,4 @@
-Puccinia cymopteri subsp. cymopteri SUBSPECIES
-=======
+# Puccinia cymopteri Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia cymopteri subsp. cymopteri
+Puccinia cymopteri Dietel & Holw.
 
 ### Remarks
 null

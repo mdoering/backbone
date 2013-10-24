@@ -1,5 +1,4 @@
-Coleopteromyces amnicus Ferrington, Lichtw. & López-Lastra, 1999 SPECIES
-=======
+# Coleopteromyces amnicus Ferrington, Lichtw. & López-Lastra, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma gladioli (Cooke) Berl. & Voglino SPECIES
-=======
+# Macrophoma gladioli (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

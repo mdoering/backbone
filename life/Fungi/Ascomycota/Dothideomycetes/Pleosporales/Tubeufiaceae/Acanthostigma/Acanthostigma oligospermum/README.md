@@ -1,5 +1,4 @@
-Acanthostigma oligospermum Kirschst. SPECIES
-=======
+# Acanthostigma oligospermum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

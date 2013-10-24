@@ -1,17 +1,16 @@
-Agaricus clypeolarius var. pratensis Bull., 1791 VARIETY
-=======
+# Lepiota oreadiformis Velen., 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceské Houby 1: 215 (1920)
 
 #### Original name
-Agaricus clypeolarius var. pratensis Bull., 1791
+Lepiota oreadiformis Velen., 1920
 
 ### Remarks
 null

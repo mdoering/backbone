@@ -1,14 +1,13 @@
-Morispora variabilis (Mayor) Salazar-Yepes, Pardo-Card. & Buriticá, 2007 SPECIES
-=======
+# Gerwasia variabilis (Mayor) Buriticá, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Caldasia 29(1): 114 (2007)
+Revta ICNE, Instit. Cienc. Nat. Ecol. 5(2): 188 (1994)
 
 #### Original name
 Uromyces variabilis Mayor, 1913

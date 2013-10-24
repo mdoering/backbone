@@ -1,5 +1,4 @@
-Cryptococcus antarcticus var. antarcticus VARIETY
-=======
+# Cryptococcus antarcticus Vishniac & Kurtzman SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Int. J. Syst. Bacteriol. 42(4): 548 (1992)
 
 #### Original name
-Cryptococcus antarcticus var. antarcticus
+Cryptococcus antarcticus Vishniac & Kurtzman
 
 ### Remarks
 null

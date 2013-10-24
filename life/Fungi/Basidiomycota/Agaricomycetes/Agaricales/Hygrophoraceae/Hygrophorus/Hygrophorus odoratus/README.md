@@ -1,5 +1,4 @@
-Hygrophorus odoratus A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus odoratus A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

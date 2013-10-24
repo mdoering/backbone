@@ -1,5 +1,4 @@
-Amphisphaeria thujae Feltgen SPECIES
-=======
+# Amphisphaeria thujae Feltgen SPECIES
 
 #### Status
 ACCEPTED

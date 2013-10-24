@@ -1,5 +1,4 @@
-Humphreya endertii Steyaert, 1972 SPECIES
-=======
+# Humphreya endertii Steyaert, 1972 SPECIES
 
 #### Status
 ACCEPTED

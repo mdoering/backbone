@@ -1,5 +1,4 @@
-Aglaospora fairmanii (Ellis & Everh.) Kuntze SPECIES
-=======
+# Aglaospora fairmanii (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

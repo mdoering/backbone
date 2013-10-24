@@ -1,5 +1,4 @@
-Marssonia stellariae I.E. Brezhnev SPECIES
-=======
+# Marssonia stellariae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

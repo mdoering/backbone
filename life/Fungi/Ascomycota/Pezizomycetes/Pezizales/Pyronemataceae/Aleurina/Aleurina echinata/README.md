@@ -1,5 +1,4 @@
-Aleurina echinata (Gamundí) Korf & W.Y. Zhuang SPECIES
-=======
+# Aleurina echinata (Gamundí) Korf & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

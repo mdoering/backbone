@@ -1,5 +1,4 @@
-Cercosporella polygoni Henn. & Shirai SPECIES
-=======
+# Cercosporella polygoni Henn. & Shirai SPECIES
 
 #### Status
 ACCEPTED

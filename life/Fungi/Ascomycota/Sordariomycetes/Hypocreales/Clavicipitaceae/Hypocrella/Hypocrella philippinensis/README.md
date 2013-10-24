@@ -1,5 +1,4 @@
-Hypocrella philippinensis Petch SPECIES
-=======
+# Hypocrella philippinensis Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Graphina streblocarpa var. subserpentina (Nyl.) Redinger VARIETY
-=======
+# Graphina subserpentina (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 23: 152 (1893)
 
 #### Original name
 Graphis subserpentina Nyl.

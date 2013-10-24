@@ -1,5 +1,4 @@
-Rhynchomonas Klebs, 1892 GENUS
-=======
+# Rhynchomonas Klebs, 1892 GENUS
 
 #### Status
 ACCEPTED

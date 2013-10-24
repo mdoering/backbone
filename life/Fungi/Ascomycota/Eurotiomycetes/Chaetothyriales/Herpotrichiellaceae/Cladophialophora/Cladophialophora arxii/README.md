@@ -1,5 +1,4 @@
-Cladophialophora arxii Tintelnot, 1995 SPECIES
-=======
+# Cladophialophora arxii Tintelnot, 1995 SPECIES
 
 #### Status
 ACCEPTED

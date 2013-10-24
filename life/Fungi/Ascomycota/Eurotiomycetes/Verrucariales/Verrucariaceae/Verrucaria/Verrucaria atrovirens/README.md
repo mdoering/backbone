@@ -1,5 +1,4 @@
-Verrucaria atrovirens (L.) Hoffm. SPECIES
-=======
+# Verrucaria atrovirens (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

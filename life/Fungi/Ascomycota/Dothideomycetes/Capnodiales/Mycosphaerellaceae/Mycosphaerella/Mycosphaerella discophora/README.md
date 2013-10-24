@@ -1,5 +1,4 @@
-Mycosphaerella discophora Syd. SPECIES
-=======
+# Mycosphaerella discophora Syd. SPECIES
 
 #### Status
 ACCEPTED

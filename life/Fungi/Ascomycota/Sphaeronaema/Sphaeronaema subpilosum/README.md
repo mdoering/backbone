@@ -1,5 +1,4 @@
-Sphaeronaema subpilosum Sacc. SPECIES
-=======
+# Sphaeronaema subpilosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora herpestica (Petr. & Cif.) U. Braun SPECIES
-=======
+# Pseudocercospora herpestica (Petr. & Cif.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

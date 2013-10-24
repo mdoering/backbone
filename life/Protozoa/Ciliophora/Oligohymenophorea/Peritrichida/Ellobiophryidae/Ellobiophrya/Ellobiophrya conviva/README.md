@@ -1,5 +1,4 @@
-Ellobiophrya conviva Clamp, 1982 SPECIES
-=======
+# Ellobiophrya conviva Clamp, 1982 SPECIES
 
 #### Status
 ACCEPTED

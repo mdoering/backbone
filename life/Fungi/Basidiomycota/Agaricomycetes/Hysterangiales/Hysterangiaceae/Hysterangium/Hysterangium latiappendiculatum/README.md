@@ -1,5 +1,4 @@
-Hysterangium latiappendiculatum A.S. Xu & B. Liu SPECIES
-=======
+# Hysterangium latiappendiculatum A.S. Xu & B. Liu SPECIES
 
 #### Status
 ACCEPTED

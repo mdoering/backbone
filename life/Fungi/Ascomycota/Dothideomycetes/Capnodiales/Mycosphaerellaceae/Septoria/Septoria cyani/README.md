@@ -1,5 +1,4 @@
-Septoria cyani Hollós SPECIES
-=======
+# Septoria cyani Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Conferva confervicola Dillwyn SPECIES
-=======
+# Calothrix confervicola (Dillwyn) C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Fellhanera seroexspectata Sérus. SPECIES
-=======
+# Fellhanera seroexspectata Sérus. SPECIES
 
 #### Status
 ACCEPTED

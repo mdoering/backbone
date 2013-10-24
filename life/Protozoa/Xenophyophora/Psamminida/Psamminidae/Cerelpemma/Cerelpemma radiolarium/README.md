@@ -1,11 +1,10 @@
-Psammopemma radiolarium Haeckel, 1889 SPECIES
-=======
+# Cerelpemma radiolarium (Haeckel, 1889) SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
-The Catalogue of Life, 3rd January 2011
+World Register of Marine Species
 
 #### Published in
 null

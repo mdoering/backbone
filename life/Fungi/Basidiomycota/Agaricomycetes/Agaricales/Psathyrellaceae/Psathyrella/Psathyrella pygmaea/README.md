@@ -1,14 +1,13 @@
-Naucoria pygmaea (Bull.) Gillet, 1876 SPECIES
-=======
+# Psathyrella pygmaea (Bull.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceské Houby 3: 519 (1921)
+Lilloa 22: 467 (1951)
 
 #### Original name
 Agaricus pygmaeus Bull., 1791

@@ -1,5 +1,4 @@
-Amphidiniopsis sibbaldii K.H. Nicholls SPECIES
-=======
+# Amphidiniopsis sibbaldii K.H. Nicholls SPECIES
 
 #### Status
 ACCEPTED

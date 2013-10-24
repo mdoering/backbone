@@ -1,5 +1,4 @@
-Phyllachora duplex Rehm, 1909 SPECIES
-=======
+# Phyllachora duplex Rehm, 1909 SPECIES
 
 #### Status
 DOUBTFUL

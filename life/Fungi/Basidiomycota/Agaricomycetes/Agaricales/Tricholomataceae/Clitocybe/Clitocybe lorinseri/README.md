@@ -1,5 +1,4 @@
-Clitocybe lorinseri G. Winter SPECIES
-=======
+# Clitocybe lorinseri G. Winter SPECIES
 
 #### Status
 ACCEPTED

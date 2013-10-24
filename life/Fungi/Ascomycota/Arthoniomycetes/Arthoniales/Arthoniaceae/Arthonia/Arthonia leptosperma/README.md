@@ -1,5 +1,4 @@
-Arthonia leptosperma (Müll. Arg.) R. Sant. SPECIES
-=======
+# Arthonia leptosperma (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

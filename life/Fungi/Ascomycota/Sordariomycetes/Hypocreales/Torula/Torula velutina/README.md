@@ -1,5 +1,4 @@
-Torula velutina Fuckel SPECIES
-=======
+# Torula velutina Fuckel SPECIES
 
 #### Status
 ACCEPTED

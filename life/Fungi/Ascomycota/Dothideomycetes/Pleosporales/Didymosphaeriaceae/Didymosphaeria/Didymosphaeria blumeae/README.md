@@ -1,5 +1,4 @@
-Didymosphaeria blumeae Rehm SPECIES
-=======
+# Didymosphaeria blumeae Rehm SPECIES
 
 #### Status
 ACCEPTED

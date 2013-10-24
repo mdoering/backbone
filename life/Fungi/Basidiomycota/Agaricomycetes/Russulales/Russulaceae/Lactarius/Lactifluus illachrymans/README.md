@@ -1,5 +1,4 @@
-Lactifluus illachrymans (Berk. & Ravenel) Kuntze SPECIES
-=======
+# Lactifluus illachrymans (Berk. & Ravenel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

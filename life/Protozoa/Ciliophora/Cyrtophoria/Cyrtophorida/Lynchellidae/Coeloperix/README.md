@@ -1,5 +1,4 @@
-Coeloperix Gong & Song, 2004 GENUS
-=======
+# Coeloperix Gong & Song, 2004 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Turbiosphaera Archangelsky GENUS
-=======
+# Turbiosphaera Archangelsky GENUS
 
 #### Status
 ACCEPTED

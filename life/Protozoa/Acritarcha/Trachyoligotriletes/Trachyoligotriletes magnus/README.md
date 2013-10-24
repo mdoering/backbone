@@ -1,5 +1,4 @@
-Trachyoligotriletes magnus Timofeev, 1959 ex Fensome et al., 1990 SPECIES
-=======
+# Trachyoligotriletes magnus Timofeev, 1959 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

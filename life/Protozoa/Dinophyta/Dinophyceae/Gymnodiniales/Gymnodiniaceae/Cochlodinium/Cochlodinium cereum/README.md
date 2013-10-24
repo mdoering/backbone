@@ -1,5 +1,4 @@
-Cochlodinium cereum Kofoid & Swezy, 1921 SPECIES
-=======
+# Cochlodinium cereum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

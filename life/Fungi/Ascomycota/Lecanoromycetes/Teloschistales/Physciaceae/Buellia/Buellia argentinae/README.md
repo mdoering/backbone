@@ -1,5 +1,4 @@
-Buellia argentinae B. de Lesd. SPECIES
-=======
+# Buellia argentinae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

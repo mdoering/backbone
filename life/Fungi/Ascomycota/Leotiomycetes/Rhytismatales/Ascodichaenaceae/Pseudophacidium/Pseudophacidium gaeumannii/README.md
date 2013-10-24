@@ -1,14 +1,13 @@
-Phacidium gaeumanni (E. Müll.) DiCosmo, Nag Raj & W.B. Kendr. SPECIES
-=======
+# Pseudophacidium gaeumannii E. Müll., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopath. Z. 48: 209 (1963)
 
 #### Original name
 Pseudophacidium gaeumannii E. Müll., 1963

@@ -1,5 +1,4 @@
-Cenomyce cyanipes Sommerf. SPECIES
-=======
+# Cenomyce cyanipes Sommerf. SPECIES
 
 #### Status
 ACCEPTED

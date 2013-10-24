@@ -1,5 +1,4 @@
-Tricoda Rafinesque, 1815 GENUS
-=======
+# Tricoda Rafinesque, 1815 GENUS
 
 #### Status
 ACCEPTED

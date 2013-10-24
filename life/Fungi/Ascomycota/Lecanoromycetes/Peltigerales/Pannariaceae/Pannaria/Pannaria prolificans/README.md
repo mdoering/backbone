@@ -1,5 +1,4 @@
-Pannaria prolificans Vain. SPECIES
-=======
+# Pannaria prolificans Vain. SPECIES
 
 #### Status
 ACCEPTED

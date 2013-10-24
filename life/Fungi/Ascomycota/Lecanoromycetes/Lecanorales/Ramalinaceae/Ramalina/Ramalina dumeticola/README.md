@@ -1,14 +1,13 @@
-Ramalina nervulosa var. dumeticola (Krog & Swinscow) G.N. Stevens VARIETY
-=======
+# Ramalina dumeticola Krog & Swinscow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lichenologist 15(3): 228 (1983)
+Norw. Jl Bot. 23(3): 163 (1976)
 
 #### Original name
 Ramalina dumeticola Krog & Swinscow

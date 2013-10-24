@@ -1,5 +1,4 @@
-Trypethelium erumpens Fée SPECIES
-=======
+# Trypethelium erumpens Fée SPECIES
 
 #### Status
 ACCEPTED

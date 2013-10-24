@@ -1,5 +1,4 @@
-Ascobolus aurora anon. SPECIES
-=======
+# Ascobolus aurora anon. SPECIES
 
 #### Status
 ACCEPTED

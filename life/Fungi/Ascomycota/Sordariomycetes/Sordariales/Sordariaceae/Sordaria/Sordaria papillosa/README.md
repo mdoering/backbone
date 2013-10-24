@@ -1,5 +1,4 @@
-Sordaria papillosa A. Bayer SPECIES
-=======
+# Sordaria papillosa A. Bayer SPECIES
 
 #### Status
 ACCEPTED

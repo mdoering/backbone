@@ -1,5 +1,4 @@
-Cylindrocarpon theobromicola C. Booth, 1966 SPECIES
-=======
+# Cylindrocarpon theobromicola C. Booth, 1966 SPECIES
 
 #### Status
 ACCEPTED

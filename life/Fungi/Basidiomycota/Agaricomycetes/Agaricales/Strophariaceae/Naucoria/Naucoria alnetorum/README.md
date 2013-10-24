@@ -1,17 +1,16 @@
-Alnicola alnetorum var. alnetorum (Maire) Romagn. VARIETY
-=======
+# Naucoria alnetorum (Maire) Kühner & Romagn., 1953 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 47: 241 (1931)
+Fl. Analyt. Champ. Supér. (Paris) 238 (1953)
 
 #### Original name
-Alnicola alnetorum var. alnetorum (Maire) Romagn.
+Naucoria submelinoides var. alnetorum Maire, 1931
 
 ### Remarks
 null

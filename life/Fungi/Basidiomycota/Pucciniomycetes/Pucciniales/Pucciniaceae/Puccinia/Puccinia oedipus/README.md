@@ -1,5 +1,4 @@
-Puccinia oedipus Cooke SPECIES
-=======
+# Puccinia oedipus Cooke SPECIES
 
 #### Status
 ACCEPTED

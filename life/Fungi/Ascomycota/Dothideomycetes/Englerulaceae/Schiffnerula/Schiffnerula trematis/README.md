@@ -1,17 +1,16 @@
-Englerulella trematis (Syd.) Hansf., 1946 SPECIES
-=======
+# Schiffnerula trematis Syd., 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 28(1/2): 164 (1930)
 
 #### Original name
-null
+Schiffnerula trematis Syd., 1930
 
 ### Remarks
 null

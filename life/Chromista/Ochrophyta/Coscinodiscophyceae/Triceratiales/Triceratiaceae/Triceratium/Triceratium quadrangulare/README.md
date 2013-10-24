@@ -1,5 +1,4 @@
-Triceratium quadrangulare Greville SPECIES
-=======
+# Triceratium quadrangulare Greville SPECIES
 
 #### Status
 ACCEPTED

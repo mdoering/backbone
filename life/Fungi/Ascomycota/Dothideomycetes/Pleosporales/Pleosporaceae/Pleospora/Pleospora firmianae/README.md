@@ -1,5 +1,4 @@
-Pleospora firmianae Koshk. & Frolov SPECIES
-=======
+# Pleospora firmianae Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

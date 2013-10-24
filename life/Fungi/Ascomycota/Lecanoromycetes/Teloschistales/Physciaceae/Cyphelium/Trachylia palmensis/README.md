@@ -1,5 +1,4 @@
-Trachylia palmensis Vain. SPECIES
-=======
+# Trachylia palmensis Vain. SPECIES
 
 #### Status
 ACCEPTED

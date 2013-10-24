@@ -1,5 +1,4 @@
-Lecidea populina Müll. Arg. SPECIES
-=======
+# Lecidea populina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

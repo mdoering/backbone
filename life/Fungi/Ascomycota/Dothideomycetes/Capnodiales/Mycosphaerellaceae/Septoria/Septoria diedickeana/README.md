@@ -1,5 +1,4 @@
-Septoria diedickeana Baudy & Picb. SPECIES
-=======
+# Septoria diedickeana Baudy & Picb. SPECIES
 
 #### Status
 ACCEPTED

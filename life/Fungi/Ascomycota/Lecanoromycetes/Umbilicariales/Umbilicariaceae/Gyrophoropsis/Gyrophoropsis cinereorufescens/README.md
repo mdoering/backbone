@@ -1,5 +1,4 @@
-Gyrophoropsis cinereorufescens (Schaer.) M. Choisy SPECIES
-=======
+# Gyrophoropsis cinereorufescens (Schaer.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

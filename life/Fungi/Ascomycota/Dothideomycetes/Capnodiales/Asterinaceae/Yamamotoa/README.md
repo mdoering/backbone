@@ -1,17 +1,16 @@
-Peresiopsis Bat. GENUS
-=======
+# Yamamotoa Bat. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publções Inst. Micol. Recife 291: 23 (1960)
+Publções Inst. Micol. Recife 291: 11 (1960)
 
 #### Original name
-Peresiopsis Bat.
+Yamamotoa Bat.
 
 ### Remarks
 null

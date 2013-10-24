@@ -1,5 +1,4 @@
-Chaetomium alchemillae Wallr. SPECIES
-=======
+# Chaetomium alchemillae Wallr. SPECIES
 
 #### Status
 ACCEPTED

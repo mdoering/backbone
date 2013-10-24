@@ -1,5 +1,4 @@
-Penicillium kenraperi Frisvad SPECIES
-=======
+# Penicillium kenraperi Frisvad SPECIES
 
 #### Status
 ACCEPTED

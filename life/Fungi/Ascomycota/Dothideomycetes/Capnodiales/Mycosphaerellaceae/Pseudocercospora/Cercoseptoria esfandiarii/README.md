@@ -1,5 +1,4 @@
-Cercoseptoria esfandiarii Petr. SPECIES
-=======
+# Cercoseptoria esfandiarii Petr. SPECIES
 
 #### Status
 ACCEPTED

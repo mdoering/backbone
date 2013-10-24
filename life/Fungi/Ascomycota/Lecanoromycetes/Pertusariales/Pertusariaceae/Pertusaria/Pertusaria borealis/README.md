@@ -1,5 +1,4 @@
-Pertusaria borealis Erichsen SPECIES
-=======
+# Pertusaria borealis Erichsen SPECIES
 
 #### Status
 ACCEPTED

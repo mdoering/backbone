@@ -1,5 +1,4 @@
-Xerula oronga (De Seynes) R.H. Petersen SPECIES
-=======
+# Xerula oronga (De Seynes) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

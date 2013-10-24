@@ -1,5 +1,4 @@
-Microsphaera semitosta Berk. & M.A. Curtis ex Cooke & Peck SPECIES
-=======
+# Microsphaera semitosta Berk. & M.A. Curtis ex Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

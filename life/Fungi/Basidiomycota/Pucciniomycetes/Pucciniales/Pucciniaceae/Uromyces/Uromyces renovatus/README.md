@@ -1,5 +1,4 @@
-Uromyces renovatus P. Syd. & Syd., 1909 SPECIES
-=======
+# Uromyces renovatus P. Syd. & Syd., 1909 SPECIES
 
 #### Status
 ACCEPTED

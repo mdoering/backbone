@@ -1,5 +1,4 @@
-Metasphaeria annulata Pat. SPECIES
-=======
+# Metasphaeria annulata Pat. SPECIES
 
 #### Status
 ACCEPTED

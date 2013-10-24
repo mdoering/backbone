@@ -1,5 +1,4 @@
-Buellia cranwellii Zahlbr. SPECIES
-=======
+# Buellia cranwellii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

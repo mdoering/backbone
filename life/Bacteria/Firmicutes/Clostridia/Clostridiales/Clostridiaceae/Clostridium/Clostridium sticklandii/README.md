@@ -1,5 +1,4 @@
-Clostridium sticklandii Stadtman and McClung, 1957 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium sticklandii Stadtman and McClung, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharocybe H.E. Bigelow & A.H. Sm. GENUS
-=======
+# Cantharocybe H.E. Bigelow & A.H. Sm. GENUS
 
 #### Status
 ACCEPTED

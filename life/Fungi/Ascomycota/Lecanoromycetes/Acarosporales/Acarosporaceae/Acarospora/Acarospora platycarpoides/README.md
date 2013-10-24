@@ -1,5 +1,4 @@
-Acarospora platycarpoides (Anzi) SPECIES
-=======
+# Acarospora platycarpoides (Anzi) SPECIES
 
 #### Status
 ACCEPTED

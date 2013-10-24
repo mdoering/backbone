@@ -1,5 +1,4 @@
-Cortinarius pholideoides Bidaud & Reumaux SPECIES
-=======
+# Cortinarius pholideoides Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

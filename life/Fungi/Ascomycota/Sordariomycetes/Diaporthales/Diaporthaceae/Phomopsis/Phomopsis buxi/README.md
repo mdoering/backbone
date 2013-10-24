@@ -1,5 +1,4 @@
-Phomopsis buxi (Desm.) Höhn. SPECIES
-=======
+# Phomopsis buxi (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

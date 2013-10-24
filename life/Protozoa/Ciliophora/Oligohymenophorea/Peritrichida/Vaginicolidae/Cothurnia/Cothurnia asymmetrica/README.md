@@ -1,5 +1,4 @@
-Cothurnia asymmetrica Sommer, 1951 SPECIES
-=======
+# Cothurnia asymmetrica Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria fissurarum Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria fissurarum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

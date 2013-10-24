@@ -1,8 +1,7 @@
-Didymium weinmanni Fr. SPECIES
-=======
+# Didymium weinmannii Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Didymium weinmanni Fr.
+Didymium weinmannii Fr.
 
 ### Remarks
 null

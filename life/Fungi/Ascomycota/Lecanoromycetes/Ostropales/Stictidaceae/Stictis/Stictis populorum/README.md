@@ -1,5 +1,4 @@
-Stictis populorum (Gilenstam) Gilenstam SPECIES
-=======
+# Stictis populorum (Gilenstam) Gilenstam SPECIES
 
 #### Status
 ACCEPTED

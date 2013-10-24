@@ -1,5 +1,4 @@
-Labyrinthula jeremarina Rolf SPECIES
-=======
+# Labyrinthula jeremarina Rolf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria staritzii Shoemaker SPECIES
-=======
+# Leptosphaeria staritzii Shoemaker SPECIES
 
 #### Status
 ACCEPTED

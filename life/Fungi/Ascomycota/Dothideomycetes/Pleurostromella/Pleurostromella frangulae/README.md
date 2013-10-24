@@ -1,5 +1,4 @@
-Pleurostromella frangulae (Died.) Petr. SPECIES
-=======
+# Pleurostromella frangulae (Died.) Petr. SPECIES
 
 #### Status
 ACCEPTED

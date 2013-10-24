@@ -1,5 +1,4 @@
-Cylindrosporium aceris Kuhnh.-Lord. & J.P. Barry SPECIES
-=======
+# Cylindrosporium aceris Kuhnh.-Lord. & J.P. Barry SPECIES
 
 #### Status
 ACCEPTED

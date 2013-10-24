@@ -1,5 +1,4 @@
-Strickeria macrosperma (Fuckel) G. Winter SPECIES
-=======
+# Strickeria macrosperma (Fuckel) G. Winter SPECIES
 
 #### Status
 ACCEPTED

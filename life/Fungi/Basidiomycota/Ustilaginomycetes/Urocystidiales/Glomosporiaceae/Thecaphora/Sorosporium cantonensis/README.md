@@ -1,5 +1,4 @@
-Sorosporium cantonensis Zundel SPECIES
-=======
+# Sorosporium cantonensis Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meandroloculina Bogdanovic, 1935 GENUS
-=======
+# Meandroloculina Bogdanovic, 1935 GENUS
 
 #### Status
 ACCEPTED

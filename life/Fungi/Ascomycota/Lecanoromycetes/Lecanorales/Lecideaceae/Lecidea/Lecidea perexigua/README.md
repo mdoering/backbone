@@ -1,5 +1,4 @@
-Lecidea perexigua Zahlbr. SPECIES
-=======
+# Lecidea perexigua Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

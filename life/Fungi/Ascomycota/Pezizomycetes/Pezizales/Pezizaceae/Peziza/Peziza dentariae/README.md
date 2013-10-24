@@ -1,5 +1,4 @@
-Peziza dentariae Chaillet ex Fr. SPECIES
-=======
+# Peziza dentariae Chaillet ex Fr. SPECIES
 
 #### Status
 ACCEPTED

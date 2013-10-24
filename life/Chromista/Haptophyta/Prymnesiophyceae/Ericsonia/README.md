@@ -1,5 +1,4 @@
-Ericsonia M.Black, 1964 GENUS
-=======
+# Ericsonia M.Black, 1964 GENUS
 
 #### Status
 ACCEPTED

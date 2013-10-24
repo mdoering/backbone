@@ -1,5 +1,4 @@
-Pseudopyrenula pyrenuloides Zahlbr. SPECIES
-=======
+# Pseudopyrenula pyrenuloides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

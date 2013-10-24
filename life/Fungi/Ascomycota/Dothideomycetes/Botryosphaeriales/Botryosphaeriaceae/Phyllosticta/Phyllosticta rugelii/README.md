@@ -1,5 +1,4 @@
-Phyllosticta rugelii Tehon & G.L. Stout SPECIES
-=======
+# Phyllosticta rugelii Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

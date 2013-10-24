@@ -1,5 +1,4 @@
-Isariopsis bulbigera (Fuckel) Savile SPECIES
-=======
+# Isariopsis bulbigera (Fuckel) Savile SPECIES
 
 #### Status
 ACCEPTED

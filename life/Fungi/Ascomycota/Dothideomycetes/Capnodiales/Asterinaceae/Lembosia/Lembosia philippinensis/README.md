@@ -1,5 +1,4 @@
-Lembosia philippinensis Syd. & P. Syd. SPECIES
-=======
+# Lembosia philippinensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podosordaria kurziana (Curr.) P.M.D. Martin SPECIES
-=======
+# Podosordaria kurziana (Curr.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

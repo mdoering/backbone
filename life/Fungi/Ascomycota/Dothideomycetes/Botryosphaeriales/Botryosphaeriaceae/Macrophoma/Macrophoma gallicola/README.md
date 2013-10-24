@@ -1,5 +1,4 @@
-Macrophoma gallicola Sacc. SPECIES
-=======
+# Macrophoma gallicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhachomyces rickiopsis Thaxt. SPECIES
-=======
+# Rhachomyces rickiopsis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

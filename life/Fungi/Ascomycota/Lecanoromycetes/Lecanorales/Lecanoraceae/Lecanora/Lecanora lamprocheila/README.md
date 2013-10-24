@@ -1,5 +1,4 @@
-Lecanora lamprocheila (DC.) Nyl. SPECIES
-=======
+# Lecanora lamprocheila (DC.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

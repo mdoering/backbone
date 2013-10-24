@@ -1,5 +1,4 @@
-Velutaria cinereofusca W. Voss SPECIES
-=======
+# Velutaria cinereofusca W. Voss SPECIES
 
 #### Status
 ACCEPTED

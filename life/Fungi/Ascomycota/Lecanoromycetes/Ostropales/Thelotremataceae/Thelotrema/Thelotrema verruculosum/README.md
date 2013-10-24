@@ -1,5 +1,4 @@
-Thelotrema verruculosum Nagarkar & Hale SPECIES
-=======
+# Thelotrema verruculosum Nagarkar & Hale SPECIES
 
 #### Status
 ACCEPTED

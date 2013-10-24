@@ -1,5 +1,4 @@
-Tetramelas phaeophysciae A. Nordin & Tibell SPECIES
-=======
+# Tetramelas phaeophysciae A. Nordin & Tibell SPECIES
 
 #### Status
 ACCEPTED

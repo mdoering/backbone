@@ -1,5 +1,4 @@
-Patellina citri Henn. SPECIES
-=======
+# Patellina citri Henn. SPECIES
 
 #### Status
 ACCEPTED

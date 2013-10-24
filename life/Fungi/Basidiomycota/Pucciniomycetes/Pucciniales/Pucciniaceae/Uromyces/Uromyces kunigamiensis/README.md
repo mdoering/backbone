@@ -1,5 +1,4 @@
-Uromyces kunigamiensis Shimab. SPECIES
-=======
+# Uromyces kunigamiensis Shimab. SPECIES
 
 #### Status
 ACCEPTED

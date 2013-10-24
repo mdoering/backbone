@@ -1,5 +1,4 @@
-Clavaria sphaerospora Ellis & Everh. SPECIES
-=======
+# Clavaria sphaerospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

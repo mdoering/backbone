@@ -1,5 +1,4 @@
-Planospirodiscus GENUS
-=======
+# Planospirodiscus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Licopolia Saccardo, Sydow & P. Sydow, 1900 GENUS
-=======
+# Licopolia Saccardo, Sydow & P. Sydow, 1900 GENUS
 
 #### Status
 ACCEPTED

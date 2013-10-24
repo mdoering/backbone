@@ -1,5 +1,4 @@
-Zoothamnium paragammari Song, 1991 SPECIES
-=======
+# Zoothamnium paragammari Song, 1991 SPECIES
 
 #### Status
 ACCEPTED

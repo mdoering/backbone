@@ -1,17 +1,16 @@
-Lophiostoma khandalensis Sathe & K.M. Mogarkar SPECIES
-=======
+# Lophiostoma khandalense Sathe & K.M. Mogarkar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 30(1-6): 191 (1978)
 
 #### Original name
-Lophiostoma khandalensis Sathe & K.M. Mogarkar
+Lophiostoma khandalense Sathe & K.M. Mogarkar
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Naucoria stagnicola (Britzelm.) Sacc. SPECIES
-=======
+# Naucoria stagnicola (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

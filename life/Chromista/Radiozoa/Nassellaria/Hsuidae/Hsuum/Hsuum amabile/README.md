@@ -1,5 +1,4 @@
-Hsuum amabile SPECIES
-=======
+# Hsuum amabile SPECIES
 
 #### Status
 ACCEPTED

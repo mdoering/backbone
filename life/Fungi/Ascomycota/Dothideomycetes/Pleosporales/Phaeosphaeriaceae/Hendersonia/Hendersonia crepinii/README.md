@@ -1,8 +1,7 @@
-Hendersonia crepini Sacc. SPECIES
-=======
+# Hendersonia crepinii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia crepini Sacc.
+Hendersonia crepinii Sacc.
 
 ### Remarks
 null

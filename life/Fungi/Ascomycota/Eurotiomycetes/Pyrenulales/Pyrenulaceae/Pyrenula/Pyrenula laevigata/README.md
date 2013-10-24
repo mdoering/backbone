@@ -1,17 +1,16 @@
-Pyrenula laevigata var. laevigata VARIETY
-=======
+# Pyrenula laevigata (Pers.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 68: 158 (1885)
 
 #### Original name
-Pyrenula laevigata var. laevigata
+Verrucaria laevigata Pers.
 
 ### Remarks
 null

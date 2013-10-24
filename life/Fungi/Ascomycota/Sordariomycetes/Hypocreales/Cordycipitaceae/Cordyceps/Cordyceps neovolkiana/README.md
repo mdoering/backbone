@@ -1,5 +1,4 @@
-Cordyceps neovolkiana Kobayasi SPECIES
-=======
+# Cordyceps neovolkiana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

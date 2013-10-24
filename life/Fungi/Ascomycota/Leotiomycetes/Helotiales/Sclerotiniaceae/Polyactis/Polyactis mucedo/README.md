@@ -1,5 +1,4 @@
-Polyactis mucedo Corda SPECIES
-=======
+# Polyactis mucedo Corda SPECIES
 
 #### Status
 ACCEPTED

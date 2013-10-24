@@ -1,5 +1,4 @@
-Allogromia ledanteci Saedeleer, 1934 SPECIES
-=======
+# Allogromia ledanteci Saedeleer, 1934 SPECIES
 
 #### Status
 ACCEPTED

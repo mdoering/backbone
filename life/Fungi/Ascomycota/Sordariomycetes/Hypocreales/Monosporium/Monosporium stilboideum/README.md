@@ -1,5 +1,4 @@
-Monosporium stilboideum D. Sacc. SPECIES
-=======
+# Monosporium stilboideum D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

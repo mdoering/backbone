@@ -1,5 +1,4 @@
-Scyphosphaera australensis Rade, 1975 SPECIES
-=======
+# Scyphosphaera australensis Rade, 1975 SPECIES
 
 #### Status
 ACCEPTED

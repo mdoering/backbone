@@ -1,5 +1,4 @@
-Arthonia schwartziana Ach. SPECIES
-=======
+# Arthonia schwartziana Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella plumeriae (Hansf. & Deighton) Hansf. SPECIES
-=======
+# Asteridiella plumeriae (Hansf. & Deighton) Hansf. SPECIES
 
 #### Status
 ACCEPTED

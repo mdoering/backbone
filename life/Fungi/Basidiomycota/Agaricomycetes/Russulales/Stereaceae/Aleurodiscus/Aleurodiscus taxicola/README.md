@@ -1,5 +1,4 @@
-Aleurodiscus taxicola K.S. Thind & S.S. Rattan, 1974 SPECIES
-=======
+# Aleurodiscus taxicola K.S. Thind & S.S. Rattan, 1974 SPECIES
 
 #### Status
 ACCEPTED

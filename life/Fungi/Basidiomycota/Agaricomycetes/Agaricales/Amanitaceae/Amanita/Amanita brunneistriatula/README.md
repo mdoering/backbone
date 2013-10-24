@@ -1,5 +1,4 @@
-Amanita brunneistriatula O.K. Mill. SPECIES
-=======
+# Amanita brunneistriatula O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

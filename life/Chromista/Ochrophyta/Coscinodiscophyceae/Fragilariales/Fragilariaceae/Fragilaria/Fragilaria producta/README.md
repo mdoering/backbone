@@ -1,5 +1,4 @@
-Fragilaria producta var. bohemica Grunow VARIETY
-=======
+# Fragilaria producta (Lagerst.) Grunow SPECIES
 
 #### Status
 ACCEPTED

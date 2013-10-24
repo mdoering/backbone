@@ -1,5 +1,4 @@
-Herpobasidium australe Oberw. & Bandoni, 1984 SPECIES
-=======
+# Herpobasidium australe Oberw. & Bandoni, 1984 SPECIES
 
 #### Status
 ACCEPTED

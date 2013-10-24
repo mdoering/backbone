@@ -1,5 +1,4 @@
-Dicaeoma californicum (Dietel) Kuntze SPECIES
-=======
+# Dicaeoma californicum (Dietel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

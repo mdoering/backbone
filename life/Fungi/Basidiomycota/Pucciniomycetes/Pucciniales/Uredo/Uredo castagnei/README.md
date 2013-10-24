@@ -1,5 +1,4 @@
-Uredo castagnei Ravenel SPECIES
-=======
+# Uredo castagnei Ravenel SPECIES
 
 #### Status
 ACCEPTED

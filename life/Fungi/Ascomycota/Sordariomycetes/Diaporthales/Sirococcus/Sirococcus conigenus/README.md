@@ -1,17 +1,16 @@
-Hysterium conigenum Moug. & Nestl. SPECIES
-=======
+# Sirococcus conigenus (DC.) P.F. Cannon & Minter, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxon 32(4): 577 (1983)
 
 #### Original name
-null
+Hypoderma conigenum DC.
 
 ### Remarks
 null

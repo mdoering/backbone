@@ -1,5 +1,4 @@
-Leptonia patellata Herp. SPECIES
-=======
+# Leptonia patellata Herp. SPECIES
 
 #### Status
 ACCEPTED

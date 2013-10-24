@@ -1,5 +1,4 @@
-Galorrheus GENUS
-=======
+# Galorrheus GENUS
 
 #### Status
 ACCEPTED

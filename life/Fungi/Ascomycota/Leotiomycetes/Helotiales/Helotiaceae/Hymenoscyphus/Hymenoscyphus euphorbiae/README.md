@@ -1,5 +1,4 @@
-Hymenoscyphus euphorbiae (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus euphorbiae (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

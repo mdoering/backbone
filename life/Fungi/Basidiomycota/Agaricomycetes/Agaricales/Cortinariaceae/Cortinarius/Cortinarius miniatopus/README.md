@@ -1,5 +1,4 @@
-Cortinarius miniatopus var. miniatopus VARIETY
-=======
+# Cortinarius miniatopus J.E. Lange SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius miniatopus var. miniatopus
+Cortinarius miniatopus J.E. Lange
 
 ### Remarks
 null

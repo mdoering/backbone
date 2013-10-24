@@ -1,5 +1,4 @@
-Heteropedia Pascher, 1939 GENUS
-=======
+# Heteropedia Pascher, 1939 GENUS
 
 #### Status
 ACCEPTED

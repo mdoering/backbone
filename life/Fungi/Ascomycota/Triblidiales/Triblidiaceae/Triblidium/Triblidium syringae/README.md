@@ -1,14 +1,13 @@
-Tryblidium syringae (Schwein.) Cooke SPECIES
-=======
+# Triblidium syringae (Schwein.) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 4(no. 32): 182 (1876)
 
 #### Original name
 Sphaeria syringae Fr., 1823

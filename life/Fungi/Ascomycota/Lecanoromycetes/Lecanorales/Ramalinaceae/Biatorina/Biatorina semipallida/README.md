@@ -1,5 +1,4 @@
-Biatorina semipallida (Nyl. ex C. Knight) Hellb. SPECIES
-=======
+# Biatorina semipallida (Nyl. ex C. Knight) Hellb. SPECIES
 
 #### Status
 ACCEPTED

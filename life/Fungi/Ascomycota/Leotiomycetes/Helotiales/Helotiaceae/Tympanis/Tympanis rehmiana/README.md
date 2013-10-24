@@ -1,5 +1,4 @@
-Tympanis rehmiana J.W. Groves SPECIES
-=======
+# Tympanis rehmiana J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

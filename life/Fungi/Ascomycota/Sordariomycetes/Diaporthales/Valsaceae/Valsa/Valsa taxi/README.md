@@ -1,5 +1,4 @@
-Valsa taxi Fuckel SPECIES
-=======
+# Valsa taxi Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Puccinia schismi var. schismi VARIETY
-=======
+# Puccinia hordei G.H. Otth, 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 28: 193 (1914)
+Mitt. naturf. Ges. Bern 114 (1871)
 
 #### Original name
-Puccinia schismi var. schismi
+Puccinia hordei G.H. Otth, 1871
 
 ### Remarks
 null

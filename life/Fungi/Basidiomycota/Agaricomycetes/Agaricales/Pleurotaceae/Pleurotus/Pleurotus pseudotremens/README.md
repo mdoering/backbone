@@ -1,5 +1,4 @@
-Pleurotus pseudotremens Pilát SPECIES
-=======
+# Pleurotus pseudotremens Pilát SPECIES
 
 #### Status
 ACCEPTED

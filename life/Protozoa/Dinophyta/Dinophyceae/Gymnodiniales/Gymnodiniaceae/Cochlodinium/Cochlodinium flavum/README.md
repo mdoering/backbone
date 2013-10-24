@@ -1,5 +1,4 @@
-Cochlodinium flavum Kofoid, 1931 SPECIES
-=======
+# Cochlodinium flavum Kofoid, 1931 SPECIES
 
 #### Status
 ACCEPTED

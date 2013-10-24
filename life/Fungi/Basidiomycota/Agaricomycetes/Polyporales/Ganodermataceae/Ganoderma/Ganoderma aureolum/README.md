@@ -1,5 +1,4 @@
-Ganoderma aureolum Steyaert SPECIES
-=======
+# Ganoderma aureolum Steyaert SPECIES
 
 #### Status
 ACCEPTED

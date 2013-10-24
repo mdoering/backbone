@@ -1,5 +1,4 @@
-Farysia trichopterygis (Massee) Zundel SPECIES
-=======
+# Farysia trichopterygis (Massee) Zundel SPECIES
 
 #### Status
 ACCEPTED

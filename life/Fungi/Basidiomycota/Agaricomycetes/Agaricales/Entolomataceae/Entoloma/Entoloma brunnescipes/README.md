@@ -1,5 +1,4 @@
-Entoloma brunnescipes Largent SPECIES
-=======
+# Entoloma brunnescipes Largent SPECIES
 
 #### Status
 ACCEPTED

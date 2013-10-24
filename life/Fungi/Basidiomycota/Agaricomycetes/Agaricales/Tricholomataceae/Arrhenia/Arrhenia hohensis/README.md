@@ -1,5 +1,4 @@
-Arrhenia hohensis (A.H. Sm.) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
-=======
+# Arrhenia hohensis (A.H. Sm.) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

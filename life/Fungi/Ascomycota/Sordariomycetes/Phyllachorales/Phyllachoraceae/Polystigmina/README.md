@@ -1,17 +1,16 @@
-Polylagenochromatia Sousa da Câmara GENUS
-=======
+# Polystigmina Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta agron. , Lisb. 17: 22 (1929)
+Syll. fung. (Abellini) 3: 622 (1884)
 
 #### Original name
-Polylagenochromatia Sousa da Câmara
+Polystigmina Sacc.
 
 ### Remarks
 null

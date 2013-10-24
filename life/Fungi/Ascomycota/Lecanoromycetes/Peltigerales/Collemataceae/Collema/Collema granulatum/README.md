@@ -1,5 +1,4 @@
-Collema granulatum (L. f.) Röhl. SPECIES
-=======
+# Collema granulatum (L. f.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

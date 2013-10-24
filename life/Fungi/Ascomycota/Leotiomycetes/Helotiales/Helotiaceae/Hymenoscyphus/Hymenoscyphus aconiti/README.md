@@ -1,5 +1,4 @@
-Hymenoscyphus aconiti (Saut.) Kuntze SPECIES
-=======
+# Hymenoscyphus aconiti (Saut.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

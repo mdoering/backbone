@@ -1,5 +1,4 @@
-Lecanora perexigua (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora perexigua (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

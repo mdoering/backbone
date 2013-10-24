@@ -1,5 +1,4 @@
-Simsangia S.K. Baksi, 1962 GENUS
-=======
+# Simsangia S.K. Baksi, 1962 GENUS
 
 #### Status
 ACCEPTED

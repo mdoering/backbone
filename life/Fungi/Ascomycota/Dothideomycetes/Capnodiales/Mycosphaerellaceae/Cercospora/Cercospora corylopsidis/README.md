@@ -1,5 +1,4 @@
-Cercospora corylopsidis Togashi & Katsuki SPECIES
-=======
+# Cercospora corylopsidis Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

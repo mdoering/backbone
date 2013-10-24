@@ -1,5 +1,4 @@
-Craterellus palmatus Burt & Overh. SPECIES
-=======
+# Craterellus palmatus Burt & Overh. SPECIES
 
 #### Status
 ACCEPTED

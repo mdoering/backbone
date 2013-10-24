@@ -1,17 +1,16 @@
-Xanthochrous pini subsp. abietis (P. Karst.) Bourdot & Galzin SUBSPECIES
-=======
+# Phellinus chrysoloma (Fr.) Donk, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 41: 198 (1925)
+Proc. K. Ned. Akad. Wet. 74(1): 39 (1971)
 
 #### Original name
-Fomes abietis P. Karst., 1882
+Polyporus chrysoloma Fr., 1861
 
 ### Remarks
 null

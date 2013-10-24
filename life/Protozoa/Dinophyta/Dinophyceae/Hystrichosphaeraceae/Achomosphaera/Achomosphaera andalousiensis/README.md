@@ -1,5 +1,4 @@
-Achomosphaera andalousiensis Jan du Chêne, 1977 SPECIES
-=======
+# Achomosphaera andalousiensis Jan du Chêne, 1977 SPECIES
 
 #### Status
 ACCEPTED

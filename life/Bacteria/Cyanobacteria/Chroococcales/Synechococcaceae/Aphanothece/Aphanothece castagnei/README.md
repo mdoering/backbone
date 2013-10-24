@@ -1,5 +1,4 @@
-Aphanothece castagnei var. kuhlmanii Hieron VARIETY
-=======
+# Aphanothece castagnei (Brébisson) Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

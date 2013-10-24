@@ -1,5 +1,4 @@
-Colletotrichum telles-palhinhae Dias SPECIES
-=======
+# Colletotrichum telles-palhinhae Dias SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum hongcheonense J.G. Han, Raitv. & H.D. Shin SPECIES
-=======
+# Lachnum hongcheonense J.G. Han, Raitv. & H.D. Shin SPECIES
 
 #### Status
 ACCEPTED

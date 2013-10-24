@@ -1,5 +1,4 @@
-Peziza sulphurea var. sulphurea VARIETY
-=======
+# Peziza sulphurea Schumach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 428 (1803)
 
 #### Original name
-Peziza sulphurea var. sulphurea
+Peziza sulphurea Schumach.
 
 ### Remarks
 null

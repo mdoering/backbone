@@ -1,5 +1,4 @@
-Mycosphaerella philodendri (Pat.) Lindau SPECIES
-=======
+# Mycosphaerella philodendri (Pat.) Lindau SPECIES
 
 #### Status
 ACCEPTED

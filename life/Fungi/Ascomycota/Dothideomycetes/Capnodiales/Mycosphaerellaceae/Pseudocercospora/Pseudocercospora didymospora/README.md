@@ -1,5 +1,4 @@
-Pseudocercospora didymospora (Ellis & Barthol.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora didymospora (Ellis & Barthol.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

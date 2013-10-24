@@ -1,5 +1,4 @@
-Cystophora scalaris J. Agardh SPECIES
-=======
+# Cystophora scalaris J. Agardh SPECIES
 
 #### Status
 ACCEPTED

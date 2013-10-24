@@ -1,5 +1,4 @@
-Keronopsis globulifera Kahl, 1932 SPECIES
-=======
+# Keronopsis globulifera Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

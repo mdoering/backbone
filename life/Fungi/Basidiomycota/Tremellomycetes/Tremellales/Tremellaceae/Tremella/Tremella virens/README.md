@@ -1,5 +1,4 @@
-Tremella virens Schwein. SPECIES
-=======
+# Tremella virens Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina thunbergiicola Hansf. SPECIES
-=======
+# Asterina thunbergiicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltasteropsis Bat. & H. Maia GENUS
-=======
+# Peltasteropsis Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

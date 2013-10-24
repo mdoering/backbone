@@ -1,5 +1,4 @@
-Lichen vesiculosus Sw. SPECIES
-=======
+# Lichen vesiculosus Sw. SPECIES
 
 #### Status
 ACCEPTED

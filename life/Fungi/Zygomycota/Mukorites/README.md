@@ -1,5 +1,4 @@
-Mukorites Grüss GENUS
-=======
+# Mukorites Grüss GENUS
 
 #### Status
 ACCEPTED

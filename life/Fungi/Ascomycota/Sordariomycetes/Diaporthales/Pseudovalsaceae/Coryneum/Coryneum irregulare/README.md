@@ -1,5 +1,4 @@
-Coryneum irregulare Berk. & M.A. Curtis SPECIES
-=======
+# Coryneum irregulare Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

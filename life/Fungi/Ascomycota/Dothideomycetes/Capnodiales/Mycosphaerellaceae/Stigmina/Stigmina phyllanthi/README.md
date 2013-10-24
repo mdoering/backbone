@@ -1,5 +1,4 @@
-Stigmina phyllanthi M.B. Ellis SPECIES
-=======
+# Stigmina phyllanthi M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

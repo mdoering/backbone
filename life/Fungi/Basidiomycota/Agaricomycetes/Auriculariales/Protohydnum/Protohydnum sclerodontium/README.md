@@ -1,17 +1,16 @@
-Odontia cesatii (Berk.) Rick, 1933 SPECIES
-=======
+# Protohydnum sclerodontium (Berk. & Mont.) Hjortstam & Spooner, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Egatea 18: 43 (1933)
+in Hjortstam, Spooner & Oldridge, Kew Bull. 45(2): 319 (1990)
 
 #### Original name
-Hydnum cesatii Berk., 1879
+Hydnum sclerodontium Mont. & Berk., 1844
 
 ### Remarks
 null

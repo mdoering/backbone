@@ -1,5 +1,4 @@
-Lingulina cucullifera Buchner, 1942 SPECIES
-=======
+# Lingulina cucullifera Buchner, 1942 SPECIES
 
 #### Status
 ACCEPTED

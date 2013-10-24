@@ -1,5 +1,4 @@
-Balansia kunzei Morgan-Jones & R.A. Phelps SPECIES
-=======
+# Balansia kunzei Morgan-Jones & R.A. Phelps SPECIES
 
 #### Status
 ACCEPTED

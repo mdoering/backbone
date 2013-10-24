@@ -1,5 +1,4 @@
-Leucoagaricus brunnescens (Peck) Bon SPECIES
-=======
+# Leucoagaricus brunnescens (Peck) Bon SPECIES
 
 #### Status
 ACCEPTED

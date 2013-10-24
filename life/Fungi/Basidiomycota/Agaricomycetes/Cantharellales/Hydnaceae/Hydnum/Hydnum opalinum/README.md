@@ -1,5 +1,4 @@
-Hydnum opalinum (Quél.) Sacc. SPECIES
-=======
+# Hydnum opalinum (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

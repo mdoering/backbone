@@ -1,5 +1,4 @@
-Lecidea collematoides Nyl. SPECIES
-=======
+# Lecidea collematoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

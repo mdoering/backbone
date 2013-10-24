@@ -1,5 +1,4 @@
-Catillaria congesta Vezda SPECIES
-=======
+# Catillaria congesta Vezda SPECIES
 
 #### Status
 ACCEPTED

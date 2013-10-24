@@ -1,5 +1,4 @@
-Septogloeum erythraeum Sacc. SPECIES
-=======
+# Septogloeum erythraeum Sacc. SPECIES
 
 #### Status
 ACCEPTED

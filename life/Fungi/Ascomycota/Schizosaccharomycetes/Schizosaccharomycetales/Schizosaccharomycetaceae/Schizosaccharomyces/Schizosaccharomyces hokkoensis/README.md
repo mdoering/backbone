@@ -1,5 +1,4 @@
-Schizosaccharomyces hokkoensis Nakaz. SPECIES
-=======
+# Schizosaccharomyces hokkoensis Nakaz. SPECIES
 
 #### Status
 ACCEPTED

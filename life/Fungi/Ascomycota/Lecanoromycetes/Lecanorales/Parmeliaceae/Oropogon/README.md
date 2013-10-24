@@ -1,17 +1,16 @@
-Atestia Trevis. GENUS
-=======
+# Oropogon Th. Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 44: 49 (1861)
+Gen. Heterolich. Eur. 49 (1861)
 
 #### Original name
-Atestia Trevis.
+Oropogon Th. Fr.
 
 ### Remarks
 null

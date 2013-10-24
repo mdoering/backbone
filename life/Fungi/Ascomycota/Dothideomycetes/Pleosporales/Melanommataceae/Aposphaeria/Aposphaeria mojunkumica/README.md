@@ -1,5 +1,4 @@
-Aposphaeria mojunkumica Kravtzev SPECIES
-=======
+# Aposphaeria mojunkumica Kravtzev SPECIES
 
 #### Status
 ACCEPTED

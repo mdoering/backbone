@@ -1,5 +1,4 @@
-Typhula caricina P. Karst., 1876 SPECIES
-=======
+# Typhula caricina P. Karst., 1876 SPECIES
 
 #### Status
 ACCEPTED

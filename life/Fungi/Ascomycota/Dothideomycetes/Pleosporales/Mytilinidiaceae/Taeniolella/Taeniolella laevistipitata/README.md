@@ -1,5 +1,4 @@
-Taeniolella laevistipitata M.S. Cole & D. Hawksw. SPECIES
-=======
+# Taeniolella laevistipitata M.S. Cole & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

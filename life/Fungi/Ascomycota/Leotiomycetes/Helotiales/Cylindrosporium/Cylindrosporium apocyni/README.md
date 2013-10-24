@@ -1,5 +1,4 @@
-Cylindrosporium apocyni Ellis & Everh. SPECIES
-=======
+# Cylindrosporium apocyni Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia oreomyrrhidis G. Cunn. SPECIES
-=======
+# Puccinia oreomyrrhidis G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

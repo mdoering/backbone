@@ -1,5 +1,4 @@
-Sporobacter Grech-Mora et al., 1996 GENUS
-=======
+# Sporobacter Grech-Mora et al., 1996 GENUS
 
 #### Status
 ACCEPTED

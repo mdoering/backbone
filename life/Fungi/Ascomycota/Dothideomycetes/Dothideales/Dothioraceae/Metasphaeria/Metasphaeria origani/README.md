@@ -1,5 +1,4 @@
-Metasphaeria origani Mouton SPECIES
-=======
+# Metasphaeria origani Mouton SPECIES
 
 #### Status
 ACCEPTED

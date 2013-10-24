@@ -1,5 +1,4 @@
-Excipula nitidula Schwein. SPECIES
-=======
+# Excipula nitidula Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea cesatiana Cooke SPECIES
-=======
+# Hypocrea cesatiana Cooke SPECIES
 
 #### Status
 ACCEPTED

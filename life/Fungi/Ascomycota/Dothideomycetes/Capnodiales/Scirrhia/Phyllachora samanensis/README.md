@@ -1,5 +1,4 @@
-Phyllachora samanensis Petr. & Cif., 1932 SPECIES
-=======
+# Phyllachora samanensis Petr. & Cif., 1932 SPECIES
 
 #### Status
 DOUBTFUL

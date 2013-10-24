@@ -1,5 +1,4 @@
-Trichosporon ovale Paoli SPECIES
-=======
+# Trichosporon ovale Paoli SPECIES
 
 #### Status
 ACCEPTED

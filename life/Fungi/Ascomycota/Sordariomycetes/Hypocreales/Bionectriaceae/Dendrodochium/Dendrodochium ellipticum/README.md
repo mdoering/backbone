@@ -1,5 +1,4 @@
-Dendrodochium ellipticum Cooke & Massee, 1888 SPECIES
-=======
+# Dendrodochium ellipticum Cooke & Massee, 1888 SPECIES
 
 #### Status
 ACCEPTED

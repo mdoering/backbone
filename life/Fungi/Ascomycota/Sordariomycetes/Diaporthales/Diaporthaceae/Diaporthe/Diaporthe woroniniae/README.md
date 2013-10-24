@@ -1,5 +1,4 @@
-Diaporthe woroniniae Jacz. SPECIES
-=======
+# Diaporthe woroniniae Jacz. SPECIES
 
 #### Status
 ACCEPTED

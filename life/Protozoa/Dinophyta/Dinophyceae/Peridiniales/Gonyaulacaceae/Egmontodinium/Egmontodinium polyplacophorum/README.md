@@ -1,5 +1,4 @@
-Egmontodinium polyplacophorum Gitmez & Sarjeant, 1972 SPECIES
-=======
+# Egmontodinium polyplacophorum Gitmez & Sarjeant, 1972 SPECIES
 
 #### Status
 ACCEPTED

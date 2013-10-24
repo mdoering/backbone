@@ -1,5 +1,4 @@
-Strigula australiensis P. M. McCarthy SPECIES
-=======
+# Strigula australiensis P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

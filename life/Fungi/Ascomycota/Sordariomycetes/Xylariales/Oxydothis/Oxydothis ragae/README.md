@@ -1,5 +1,4 @@
-Oxydothis ragae K.D. Hyde SPECIES
-=======
+# Oxydothis ragae K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

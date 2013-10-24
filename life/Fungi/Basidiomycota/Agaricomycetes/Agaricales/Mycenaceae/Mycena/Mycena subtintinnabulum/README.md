@@ -1,5 +1,4 @@
-Mycena subtintinnabulum Henn. SPECIES
-=======
+# Mycena subtintinnabulum Henn. SPECIES
 
 #### Status
 ACCEPTED

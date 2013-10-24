@@ -1,5 +1,4 @@
-Bacidia podocarpi Zahlbr. SPECIES
-=======
+# Bacidia podocarpi Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

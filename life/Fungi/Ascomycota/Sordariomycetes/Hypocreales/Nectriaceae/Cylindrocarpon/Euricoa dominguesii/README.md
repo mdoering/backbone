@@ -1,17 +1,16 @@
-Euricoa dominguiesii Bat. & H. Maia SPECIES
-=======
+# Euricoa dominguesii Bat. & H. Maia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anais Soc. Biol. Pernambuco 13(1): 152 (1955)
 
 #### Original name
-Euricoa dominguiesii Bat. & H. Maia
+Euricoa dominguesii Bat. & H. Maia
 
 ### Remarks
 null

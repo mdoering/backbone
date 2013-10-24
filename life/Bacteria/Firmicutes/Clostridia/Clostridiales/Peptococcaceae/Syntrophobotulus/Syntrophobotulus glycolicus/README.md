@@ -1,5 +1,4 @@
-Syntrophobotulus glycolicus Friedrich et al., 1996 SPECIES
-=======
+# Syntrophobotulus glycolicus Friedrich et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

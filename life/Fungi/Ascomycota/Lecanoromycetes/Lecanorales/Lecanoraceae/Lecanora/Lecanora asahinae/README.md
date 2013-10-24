@@ -1,5 +1,4 @@
-Lecanora asahinae M. Satô SPECIES
-=======
+# Lecanora asahinae M. Satô SPECIES
 
 #### Status
 ACCEPTED

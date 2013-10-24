@@ -1,5 +1,4 @@
-Irene ximeniae Hansf. SPECIES
-=======
+# Irene ximeniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

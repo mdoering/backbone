@@ -1,5 +1,4 @@
-Exidia panamensis Lowy SPECIES
-=======
+# Exidia panamensis Lowy SPECIES
 
 #### Status
 ACCEPTED

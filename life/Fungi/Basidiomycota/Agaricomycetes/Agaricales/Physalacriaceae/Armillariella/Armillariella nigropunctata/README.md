@@ -1,5 +1,4 @@
-Armillariella nigropunctata Secr. ex Singer SPECIES
-=======
+# Armillariella nigropunctata Secr. ex Singer SPECIES
 
 #### Status
 ACCEPTED

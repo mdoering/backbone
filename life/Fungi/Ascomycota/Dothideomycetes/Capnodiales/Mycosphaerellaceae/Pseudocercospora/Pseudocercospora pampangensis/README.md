@@ -1,5 +1,4 @@
-Pseudocercospora pampangensis (Petr.) U. Braun SPECIES
-=======
+# Pseudocercospora pampangensis (Petr.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

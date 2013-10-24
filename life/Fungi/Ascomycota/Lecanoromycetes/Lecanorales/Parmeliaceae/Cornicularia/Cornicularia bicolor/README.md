@@ -1,5 +1,4 @@
-Cornicularia bicolor SPECIES
-=======
+# Cornicularia bicolor SPECIES
 
 #### Status
 ACCEPTED

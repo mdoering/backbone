@@ -1,5 +1,4 @@
-Anzia pseudopustulata Sipman SPECIES
-=======
+# Anzia pseudopustulata Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prolinoborus Pot et al., 1992 GENUS
-=======
+# Prolinoborus Pot et al., 1992 GENUS
 
 #### Status
 ACCEPTED

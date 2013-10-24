@@ -1,14 +1,13 @@
-Valsa suffusa (Fr.) Berk. SPECIES
-=======
+# Cryptosporella suffusa (Fr.) L.C. Mejía & Castl., 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 112(1): 31 (2007)
 
 #### Original name
 Sphaeria suffusa Fr., 1823

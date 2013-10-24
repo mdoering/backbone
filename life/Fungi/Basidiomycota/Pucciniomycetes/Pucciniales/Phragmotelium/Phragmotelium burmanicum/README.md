@@ -1,17 +1,16 @@
-Phragmidium burmanicum Syd. & P. Syd., 1912 SPECIES
-=======
+# Phragmotelium burmanicum Syd., 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 10: 264 (1912)
+Annls mycol. 19(1/2): 167 (1921)
 
 #### Original name
-Phragmidium burmanicum Syd. & P. Syd., 1912
+Phragmotelium burmanicum Syd., 1921
 
 ### Remarks
 null

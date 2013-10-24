@@ -1,5 +1,4 @@
-Corticium resupinatum Sacc. SPECIES
-=======
+# Corticium resupinatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

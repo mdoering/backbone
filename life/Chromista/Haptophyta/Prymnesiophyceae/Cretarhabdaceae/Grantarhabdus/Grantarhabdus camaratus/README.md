@@ -1,5 +1,4 @@
-Grantarhabdus camaratus (D. Bukry) S.W. Wise SPECIES
-=======
+# Grantarhabdus camaratus (D. Bukry) S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

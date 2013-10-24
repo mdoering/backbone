@@ -1,14 +1,13 @@
-Paraparmelia pustulescens (Kurok.) Elix & J. Johnst. SPECIES
-=======
+# Canoparmelia pustulescens (Kurok.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Elix, Johnston & Verdon, Mycotaxon 27: 280 (1986)
+Mycotaxon 47: 127 (1993)
 
 #### Original name
 Parmelia pustulescens Kurok.

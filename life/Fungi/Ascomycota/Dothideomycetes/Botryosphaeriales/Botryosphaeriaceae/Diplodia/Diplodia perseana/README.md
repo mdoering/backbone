@@ -1,5 +1,4 @@
-Diplodia perseana Delacr. SPECIES
-=======
+# Diplodia perseana Delacr. SPECIES
 
 #### Status
 ACCEPTED

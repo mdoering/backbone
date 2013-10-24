@@ -1,5 +1,4 @@
-Trachelomonas echinoides Conrad SPECIES
-=======
+# Trachelomonas echinoides Conrad SPECIES
 
 #### Status
 ACCEPTED

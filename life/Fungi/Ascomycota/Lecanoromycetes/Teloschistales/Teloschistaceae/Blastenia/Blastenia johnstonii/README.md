@@ -1,17 +1,16 @@
-Blastenia johnstoni C.W. Dodge SPECIES
-=======
+# Blastenia johnstonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 223 (1948)
 
 #### Original name
-Blastenia johnstoni C.W. Dodge
+Blastenia johnstonii C.W. Dodge
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pilosace tricholepis Fr. SPECIES
-=======
+# Pilosace tricholepis Fr. SPECIES
 
 #### Status
 ACCEPTED

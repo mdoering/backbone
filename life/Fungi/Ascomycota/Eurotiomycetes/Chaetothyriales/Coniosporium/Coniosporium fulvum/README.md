@@ -1,5 +1,4 @@
-Coniosporium fulvum (Berk. & M.A. Curtis) Pound & Clem. SPECIES
-=======
+# Coniosporium fulvum (Berk. & M.A. Curtis) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

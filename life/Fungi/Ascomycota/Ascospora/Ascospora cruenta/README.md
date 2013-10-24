@@ -1,5 +1,4 @@
-Ascospora cruenta (Kunze ex Fr.) Lambotte SPECIES
-=======
+# Ascospora cruenta (Kunze ex Fr.) Lambotte SPECIES
 
 #### Status
 ACCEPTED

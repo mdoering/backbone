@@ -1,5 +1,4 @@
-Agaricus strictus Pers. SPECIES
-=======
+# Agaricus strictus Pers. SPECIES
 
 #### Status
 ACCEPTED

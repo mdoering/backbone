@@ -1,5 +1,4 @@
-Dimeromyces proximus Thaxt. SPECIES
-=======
+# Dimeromyces proximus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

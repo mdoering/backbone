@@ -1,5 +1,4 @@
-Phaeosphaeria firmicola Nograsek SPECIES
-=======
+# Phaeosphaeria firmicola Nograsek SPECIES
 
 #### Status
 ACCEPTED

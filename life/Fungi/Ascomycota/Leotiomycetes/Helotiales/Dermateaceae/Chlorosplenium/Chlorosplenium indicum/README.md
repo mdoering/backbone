@@ -1,5 +1,4 @@
-Chlorosplenium indicum Dumont, Korf & H. Singh SPECIES
-=======
+# Chlorosplenium indicum Dumont, Korf & H. Singh SPECIES
 
 #### Status
 ACCEPTED

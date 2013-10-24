@@ -1,5 +1,4 @@
-Terpsinoë musica Ehrenberg, 1843 SPECIES
-=======
+# Terpsinoë musica Ehrenberg, 1843 SPECIES
 
 #### Status
 ACCEPTED

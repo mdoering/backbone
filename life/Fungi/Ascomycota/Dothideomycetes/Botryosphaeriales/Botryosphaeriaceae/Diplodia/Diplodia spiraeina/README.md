@@ -1,5 +1,4 @@
-Diplodia spiraeina f. spiraeina FORM
-=======
+# Diplodia spiraeina Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Reliq. Libert, Ser. 4 no. 139 (1884)
 
 #### Original name
-Diplodia spiraeina f. spiraeina
+Diplodia spiraeina Sacc.
 
 ### Remarks
 null

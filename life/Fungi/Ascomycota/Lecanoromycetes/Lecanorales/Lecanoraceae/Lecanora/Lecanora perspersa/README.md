@@ -1,5 +1,4 @@
-Lecanora perspersa (Nyl.) Motyka SPECIES
-=======
+# Lecanora perspersa (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

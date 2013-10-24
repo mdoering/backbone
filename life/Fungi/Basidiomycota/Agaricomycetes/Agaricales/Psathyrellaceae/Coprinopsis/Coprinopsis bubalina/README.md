@@ -1,5 +1,4 @@
-Coprinopsis bubalina (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis bubalina (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

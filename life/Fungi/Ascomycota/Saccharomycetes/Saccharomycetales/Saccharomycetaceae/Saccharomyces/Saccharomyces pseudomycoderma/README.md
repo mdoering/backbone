@@ -1,5 +1,4 @@
-Saccharomyces pseudomycoderma Boutroux SPECIES
-=======
+# Saccharomyces pseudomycoderma Boutroux SPECIES
 
 #### Status
 ACCEPTED

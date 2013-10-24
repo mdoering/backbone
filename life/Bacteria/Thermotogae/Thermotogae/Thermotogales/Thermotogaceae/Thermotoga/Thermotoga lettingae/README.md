@@ -1,5 +1,4 @@
-Thermotoga lettingae Balk et al., 2002 SPECIES
-=======
+# Thermotoga lettingae Balk et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella lachneoides Pilát SPECIES
-=======
+# Cyphella lachneoides Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps oumensis Höhn. SPECIES
-=======
+# Cordyceps oumensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

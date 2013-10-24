@@ -1,14 +1,13 @@
-Trabutia fici-hochstetteri Bacc., 1917 SPECIES
-=======
+# Phyllachora fici-hochstetteri (Bacc.) E. Castell. & Cif., 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annali Bot. , Roma 14: 135 (1917)
+Prodr. Mycofl. Afr. orient. Ital. 22 (1937)
 
 #### Original name
 Trabutia fici-hochstetteri Bacc., 1917

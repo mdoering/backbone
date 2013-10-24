@@ -1,5 +1,4 @@
-Omphalia spodoides Mont. SPECIES
-=======
+# Omphalia spodoides Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zonooidium mirabile Timofeev, 1957 SPECIES
-=======
+# Zonooidium mirabile Timofeev, 1957 SPECIES
 
 #### Status
 ACCEPTED

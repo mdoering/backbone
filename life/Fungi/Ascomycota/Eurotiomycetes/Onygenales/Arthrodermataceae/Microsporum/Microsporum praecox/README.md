@@ -1,5 +1,4 @@
-Microsporum praecox Rivalier ex A.A. Padhye, Ajello & McGinnis, 1989 SPECIES
-=======
+# Microsporum praecox Rivalier ex A.A. Padhye, Ajello & McGinnis, 1989 SPECIES
 
 #### Status
 ACCEPTED

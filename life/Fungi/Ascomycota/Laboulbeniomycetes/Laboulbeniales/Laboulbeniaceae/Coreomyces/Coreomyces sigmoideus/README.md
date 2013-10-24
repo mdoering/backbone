@@ -1,5 +1,4 @@
-Coreomyces sigmoideus Thaxt. SPECIES
-=======
+# Coreomyces sigmoideus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

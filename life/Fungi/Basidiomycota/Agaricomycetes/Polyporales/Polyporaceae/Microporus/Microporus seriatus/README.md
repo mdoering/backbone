@@ -1,5 +1,4 @@
-Microporus seriatus (Kalchbr.) Kuntze SPECIES
-=======
+# Microporus seriatus (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

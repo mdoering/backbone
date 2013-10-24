@@ -1,5 +1,4 @@
-Stereocaulon pityrizans Nyl. SPECIES
-=======
+# Stereocaulon pityrizans Nyl. SPECIES
 
 #### Status
 ACCEPTED

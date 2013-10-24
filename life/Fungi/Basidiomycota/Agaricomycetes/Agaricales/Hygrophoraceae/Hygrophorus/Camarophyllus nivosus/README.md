@@ -1,5 +1,4 @@
-Camarophyllus nivosus (Berk. & Broome) Pegler SPECIES
-=======
+# Camarophyllus nivosus (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

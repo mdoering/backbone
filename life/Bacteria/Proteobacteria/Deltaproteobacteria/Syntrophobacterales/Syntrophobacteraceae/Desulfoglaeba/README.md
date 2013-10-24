@@ -1,5 +1,4 @@
-Desulfoglaeba Davidova et al., 2006 GENUS
-=======
+# Desulfoglaeba Davidova et al., 2006 GENUS
 
 #### Status
 ACCEPTED

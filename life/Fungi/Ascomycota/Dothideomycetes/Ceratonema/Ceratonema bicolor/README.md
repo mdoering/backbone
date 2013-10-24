@@ -1,5 +1,4 @@
-Ceratonema bicolor Pers. SPECIES
-=======
+# Ceratonema bicolor Pers. SPECIES
 
 #### Status
 ACCEPTED

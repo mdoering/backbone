@@ -1,5 +1,4 @@
-Coniothecium variegatum Preuss SPECIES
-=======
+# Coniothecium variegatum Preuss SPECIES
 
 #### Status
 ACCEPTED

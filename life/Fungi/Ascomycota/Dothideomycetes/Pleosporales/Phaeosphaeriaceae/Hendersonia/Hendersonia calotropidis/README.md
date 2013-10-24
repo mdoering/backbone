@@ -1,5 +1,4 @@
-Hendersonia calotropidis S. Ahmad SPECIES
-=======
+# Hendersonia calotropidis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

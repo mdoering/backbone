@@ -1,5 +1,4 @@
-Vermiculariopsis Torrend, 1912 GENUS
-=======
+# Vermiculariopsis Torrend, 1912 GENUS
 
 #### Status
 ACCEPTED

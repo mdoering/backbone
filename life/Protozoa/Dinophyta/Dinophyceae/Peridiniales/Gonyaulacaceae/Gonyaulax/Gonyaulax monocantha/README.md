@@ -1,5 +1,4 @@
-Gonyaulax monocantha SPECIES
-=======
+# Gonyaulax monocantha SPECIES
 
 #### Status
 ACCEPTED

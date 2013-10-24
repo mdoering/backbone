@@ -1,5 +1,4 @@
-Glonium caucasicum (Rehm) H. Zogg SPECIES
-=======
+# Glonium caucasicum (Rehm) H. Zogg SPECIES
 
 #### Status
 ACCEPTED

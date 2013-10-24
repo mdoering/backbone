@@ -1,5 +1,4 @@
-Asterina derridis Henn. SPECIES
-=======
+# Asterina derridis Henn. SPECIES
 
 #### Status
 ACCEPTED

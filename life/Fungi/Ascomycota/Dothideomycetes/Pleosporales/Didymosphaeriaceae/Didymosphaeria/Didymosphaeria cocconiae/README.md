@@ -1,5 +1,4 @@
-Didymosphaeria cocconiae var. cocconiae VARIETY
-=======
+# Didymosphaeria cocconiae Arx SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sydowia 12: 401 (1959)
 
 #### Original name
-Didymosphaeria cocconiae var. cocconiae
+Didymosphaeria cocconiae Arx
 
 ### Remarks
 null

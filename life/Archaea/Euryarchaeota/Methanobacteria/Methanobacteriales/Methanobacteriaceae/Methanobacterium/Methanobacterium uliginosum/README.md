@@ -1,5 +1,4 @@
-Methanobacterium uliginosum König, 1985 SPECIES
-=======
+# Methanobacterium uliginosum König, 1985 SPECIES
 
 #### Status
 ACCEPTED

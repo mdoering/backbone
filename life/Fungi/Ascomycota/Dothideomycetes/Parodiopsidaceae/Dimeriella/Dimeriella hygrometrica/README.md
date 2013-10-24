@@ -1,5 +1,4 @@
-Dimeriella hygrometrica Chevaug. SPECIES
-=======
+# Dimeriella hygrometrica Chevaug. SPECIES
 
 #### Status
 ACCEPTED

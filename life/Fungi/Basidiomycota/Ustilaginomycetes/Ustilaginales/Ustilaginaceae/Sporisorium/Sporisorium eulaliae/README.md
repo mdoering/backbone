@@ -1,5 +1,4 @@
-Sporisorium eulaliae (L. Ling) Vánky SPECIES
-=======
+# Sporisorium eulaliae (L. Ling) Vánky SPECIES
 
 #### Status
 ACCEPTED

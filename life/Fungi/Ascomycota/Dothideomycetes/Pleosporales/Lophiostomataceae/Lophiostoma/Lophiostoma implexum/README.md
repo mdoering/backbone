@@ -1,5 +1,4 @@
-Lophiostoma implexum Ellis & Everh. SPECIES
-=======
+# Lophiostoma implexum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

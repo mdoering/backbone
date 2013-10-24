@@ -1,5 +1,4 @@
-Nectria sanramonensis Döbbeler SPECIES
-=======
+# Nectria sanramonensis Döbbeler SPECIES
 
 #### Status
 ACCEPTED

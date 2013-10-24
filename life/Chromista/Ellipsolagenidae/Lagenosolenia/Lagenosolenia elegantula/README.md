@@ -1,5 +1,4 @@
-Lagenosolenia elegantula McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia elegantula McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

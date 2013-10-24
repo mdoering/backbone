@@ -1,5 +1,4 @@
-Xeromphalina amara E. Horak & J. Peter, 1964 SPECIES
-=======
+# Xeromphalina amara E. Horak & J. Peter, 1964 SPECIES
 
 #### Status
 ACCEPTED

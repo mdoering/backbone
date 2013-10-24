@@ -1,5 +1,4 @@
-Puccinia sphaerostigmatis Dietel & Neger SPECIES
-=======
+# Puccinia sphaerostigmatis Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

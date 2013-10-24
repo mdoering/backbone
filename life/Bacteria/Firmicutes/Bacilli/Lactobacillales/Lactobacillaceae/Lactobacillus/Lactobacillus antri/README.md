@@ -1,5 +1,4 @@
-Lactobacillus antri Roos et al., 2005 SPECIES
-=======
+# Lactobacillus antri Roos et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudosarcophoma caballeroi Urries SPECIES
-=======
+# Pseudosarcophoma caballeroi Urries SPECIES
 
 #### Status
 ACCEPTED

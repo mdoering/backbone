@@ -1,5 +1,4 @@
-Streptomyces capillispiralis Mertz & Higgens, 1982 SPECIES
-=======
+# Streptomyces capillispiralis Mertz & Higgens, 1982 SPECIES
 
 #### Status
 ACCEPTED

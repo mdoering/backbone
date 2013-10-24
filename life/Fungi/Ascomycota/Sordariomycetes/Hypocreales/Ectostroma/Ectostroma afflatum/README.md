@@ -1,5 +1,4 @@
-Ectostroma afflatum (Schwein.) Fr. SPECIES
-=======
+# Ectostroma afflatum (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

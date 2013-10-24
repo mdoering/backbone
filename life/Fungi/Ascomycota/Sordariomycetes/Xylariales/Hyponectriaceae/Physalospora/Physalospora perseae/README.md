@@ -1,5 +1,4 @@
-Physalospora perseae Doidge SPECIES
-=======
+# Physalospora perseae Doidge SPECIES
 
 #### Status
 ACCEPTED

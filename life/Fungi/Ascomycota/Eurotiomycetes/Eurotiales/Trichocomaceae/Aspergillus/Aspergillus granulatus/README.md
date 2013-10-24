@@ -1,5 +1,4 @@
-Aspergillus granulatus Mosseray, 1934 SPECIES
-=======
+# Aspergillus granulatus Mosseray, 1934 SPECIES
 
 #### Status
 ACCEPTED

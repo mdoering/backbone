@@ -1,5 +1,4 @@
-Fellhanera flavostanhopeae Lücking & R. Sant. SPECIES
-=======
+# Fellhanera flavostanhopeae Lücking & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

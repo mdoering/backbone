@@ -1,5 +1,4 @@
-Asteridiella pleurostyliae (Berk. & Broome) Hansf. SPECIES
-=======
+# Asteridiella pleurostyliae (Berk. & Broome) Hansf. SPECIES
 
 #### Status
 ACCEPTED

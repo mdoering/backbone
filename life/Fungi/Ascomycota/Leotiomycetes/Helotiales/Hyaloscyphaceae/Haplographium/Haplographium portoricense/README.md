@@ -1,5 +1,4 @@
-Haplographium portoricense F. Stevens & Dalbey SPECIES
-=======
+# Haplographium portoricense F. Stevens & Dalbey SPECIES
 
 #### Status
 ACCEPTED

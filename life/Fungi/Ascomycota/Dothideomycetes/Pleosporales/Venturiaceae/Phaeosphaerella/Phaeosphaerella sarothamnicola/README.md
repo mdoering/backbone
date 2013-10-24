@@ -1,5 +1,4 @@
-Phaeosphaerella sarothamnicola Bat. & Peres SPECIES
-=======
+# Phaeosphaerella sarothamnicola Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

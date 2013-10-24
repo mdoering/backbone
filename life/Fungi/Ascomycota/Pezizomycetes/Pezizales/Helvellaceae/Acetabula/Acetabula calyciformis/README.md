@@ -1,5 +1,4 @@
-Acetabula calyciformis (Battarra) Fr. SPECIES
-=======
+# Acetabula calyciformis (Battarra) Fr. SPECIES
 
 #### Status
 ACCEPTED

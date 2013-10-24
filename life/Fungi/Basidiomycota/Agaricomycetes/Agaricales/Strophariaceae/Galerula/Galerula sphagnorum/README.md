@@ -1,5 +1,4 @@
-Galerula sphagnorum (Pers.) Murrill SPECIES
-=======
+# Galerula sphagnorum (Pers.) Murrill SPECIES
 
 #### Status
 ACCEPTED

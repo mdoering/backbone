@@ -1,17 +1,16 @@
-Cetrariastrum vexans Zahlbr. ex W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Everniastrum vexans (Zahlbr. ex W. L. Culb. & C. F. Culb.) Hale ex Sipman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 26: 242 (1986)
 
 #### Original name
-null
+Cetrariastrum vexans Zahlbr. ex W. L. Culb. & C. F. Culb.
 
 ### Remarks
 null

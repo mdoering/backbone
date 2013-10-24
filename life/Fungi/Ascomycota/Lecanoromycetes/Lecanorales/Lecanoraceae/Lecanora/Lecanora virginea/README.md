@@ -1,5 +1,4 @@
-Lecanora virginea (Hue) Zahlbr. SPECIES
-=======
+# Lecanora virginea (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

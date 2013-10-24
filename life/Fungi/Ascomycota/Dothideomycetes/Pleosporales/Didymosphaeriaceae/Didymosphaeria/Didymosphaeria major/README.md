@@ -1,5 +1,4 @@
-Didymosphaeria major Ellis & Everh. SPECIES
-=======
+# Didymosphaeria major Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

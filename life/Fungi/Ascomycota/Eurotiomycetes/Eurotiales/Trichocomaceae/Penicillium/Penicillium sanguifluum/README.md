@@ -1,5 +1,4 @@
-Penicillium sanguifluum var. sanguifluum VARIETY
-=======
+# Penicillium sanguifluum Sopp SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Penicillium sanguifluum var. sanguifluum
+Penicillium sanguifluum Sopp
 
 ### Remarks
 null

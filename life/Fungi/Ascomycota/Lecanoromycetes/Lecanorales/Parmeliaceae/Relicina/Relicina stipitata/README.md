@@ -1,5 +1,4 @@
-Relicina stipitata Elix SPECIES
-=======
+# Relicina stipitata Elix SPECIES
 
 #### Status
 ACCEPTED

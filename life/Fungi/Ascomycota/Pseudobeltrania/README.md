@@ -1,5 +1,4 @@
-Pseudobeltrania Henn. GENUS
-=======
+# Pseudobeltrania Henn. GENUS
 
 #### Status
 ACCEPTED

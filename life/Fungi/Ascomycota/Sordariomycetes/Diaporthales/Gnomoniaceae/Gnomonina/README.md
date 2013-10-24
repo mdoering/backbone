@@ -1,5 +1,4 @@
-Gnomonina GENUS
-=======
+# Gnomonina GENUS
 
 #### Status
 ACCEPTED

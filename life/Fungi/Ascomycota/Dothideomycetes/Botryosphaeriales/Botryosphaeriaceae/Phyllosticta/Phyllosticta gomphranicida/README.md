@@ -1,5 +1,4 @@
-Phyllosticta gomphranicida Speg. SPECIES
-=======
+# Phyllosticta gomphranicida Speg. SPECIES
 
 #### Status
 ACCEPTED

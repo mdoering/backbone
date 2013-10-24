@@ -1,17 +1,16 @@
-Aethalium septicum violaceum (Pers.) Rabenh., 1844 INFRASPECIFIC_NAME
-=======
+# Fuligo leviderma H. Neubert, Nowotny & K. Baumann, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Die Myxomyceten Deutschlands und des angrenzenden Alpenraumes unter besonderer Berücksichtigung Österreichs (Gomaringen), <b>2</b>. Physarales 2: 211 (1995)
 
 #### Original name
-null
+Fuligo leviderma H. Neubert, Nowotny & K. Baumann, 1995
 
 ### Remarks
 null

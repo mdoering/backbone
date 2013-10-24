@@ -1,5 +1,4 @@
-Microdiplodia hadrumetina Maire SPECIES
-=======
+# Microdiplodia hadrumetina Maire SPECIES
 
 #### Status
 ACCEPTED

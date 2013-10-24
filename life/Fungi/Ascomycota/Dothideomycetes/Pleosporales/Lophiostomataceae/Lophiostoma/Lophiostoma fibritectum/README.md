@@ -1,14 +1,13 @@
-Sphaeria fibritecta Berk., 1854 SPECIES
-=======
+# Lophiostoma fibritectum (Berk.) Ces. & De Not., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 13: (1854)
+Schem. di Classif. Sferiacei 46 (1863)
 
 #### Original name
 Sphaeria fibritecta Berk., 1854

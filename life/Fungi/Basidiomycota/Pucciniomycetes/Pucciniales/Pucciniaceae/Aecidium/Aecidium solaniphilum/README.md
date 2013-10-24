@@ -1,5 +1,4 @@
-Aecidium solaniphilum Speg. SPECIES
-=======
+# Aecidium solaniphilum Speg. SPECIES
 
 #### Status
 ACCEPTED

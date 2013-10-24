@@ -1,5 +1,4 @@
-Buellia meizocarpa Vain. SPECIES
-=======
+# Buellia meizocarpa Vain. SPECIES
 
 #### Status
 ACCEPTED

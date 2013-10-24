@@ -1,5 +1,4 @@
-Mesorhizobium temperatum Gao et al., 2004 SPECIES
-=======
+# Mesorhizobium temperatum Gao et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

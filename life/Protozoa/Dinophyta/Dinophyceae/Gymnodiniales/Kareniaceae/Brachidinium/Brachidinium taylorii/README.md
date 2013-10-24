@@ -1,8 +1,7 @@
-Brachydinium taylorii Sournia, 1972 SPECIES
-=======
+# Brachidinium taylorii Sournia, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

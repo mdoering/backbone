@@ -1,5 +1,4 @@
-Pestalotia leurodisca Penz. & Sacc. SPECIES
-=======
+# Pestalotia leurodisca Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

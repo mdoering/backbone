@@ -1,5 +1,4 @@
-Coniosporium pactolinum (Cooke & Harkn.) Pound & Clem. SPECIES
-=======
+# Coniosporium pactolinum (Cooke & Harkn.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

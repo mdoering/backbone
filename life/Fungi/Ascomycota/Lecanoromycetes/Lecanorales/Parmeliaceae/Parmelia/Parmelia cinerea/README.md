@@ -1,5 +1,4 @@
-Parmelia cinerea var. cinerea VARIETY
-=======
+# Parmelia cinerea SPECIES
 
 #### Status
 ACCEPTED

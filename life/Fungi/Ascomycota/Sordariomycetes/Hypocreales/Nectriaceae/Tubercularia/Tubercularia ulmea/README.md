@@ -1,5 +1,4 @@
-Tubercularia ulmea J.C. Carter SPECIES
-=======
+# Tubercularia ulmea J.C. Carter SPECIES
 
 #### Status
 ACCEPTED

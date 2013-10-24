@@ -1,5 +1,4 @@
-Crinigera maritima I. Schmidt, 1985 SPECIES
-=======
+# Crinigera maritima I. Schmidt, 1985 SPECIES
 
 #### Status
 ACCEPTED

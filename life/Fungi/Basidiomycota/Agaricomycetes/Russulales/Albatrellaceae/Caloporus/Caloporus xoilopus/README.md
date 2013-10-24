@@ -1,5 +1,4 @@
-Caloporus xoilopus (Rostk.) Pilát SPECIES
-=======
+# Caloporus xoilopus (Rostk.) Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta faginea House SPECIES
-=======
+# Phyllosticta faginea House SPECIES
 
 #### Status
 ACCEPTED

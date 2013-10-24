@@ -1,5 +1,4 @@
-Humicola aurea De Bert. SPECIES
-=======
+# Humicola aurea De Bert. SPECIES
 
 #### Status
 ACCEPTED

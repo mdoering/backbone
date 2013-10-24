@@ -1,5 +1,4 @@
-Morispora ochraceoflava (Henn.) Salazar-Yepes, Pardo-Card. & Buriticá SPECIES
-=======
+# Morispora ochraceoflava (Henn.) Salazar-Yepes, Pardo-Card. & Buriticá SPECIES
 
 #### Status
 ACCEPTED

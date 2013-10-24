@@ -1,5 +1,4 @@
-Monascus serorubescens K. Satô SPECIES
-=======
+# Monascus serorubescens K. Satô SPECIES
 
 #### Status
 ACCEPTED

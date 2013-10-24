@@ -1,5 +1,4 @@
-Patellaria cinnamothrix Müll. Arg. SPECIES
-=======
+# Patellaria cinnamothrix Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

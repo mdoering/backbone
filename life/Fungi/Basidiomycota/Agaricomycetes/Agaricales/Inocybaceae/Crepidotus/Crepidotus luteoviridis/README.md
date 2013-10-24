@@ -1,5 +1,4 @@
-Crepidotus luteoviridis Henn. SPECIES
-=======
+# Crepidotus luteoviridis Henn. SPECIES
 
 #### Status
 ACCEPTED

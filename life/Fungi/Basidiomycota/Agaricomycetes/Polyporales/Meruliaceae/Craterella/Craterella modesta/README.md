@@ -1,5 +1,4 @@
-Craterella modesta (Kalchbr.) P. Karst. SPECIES
-=======
+# Craterella modesta (Kalchbr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

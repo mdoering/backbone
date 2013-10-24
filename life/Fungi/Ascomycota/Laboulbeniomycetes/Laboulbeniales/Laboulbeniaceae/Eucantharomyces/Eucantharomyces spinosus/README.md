@@ -1,5 +1,4 @@
-Eucantharomyces spinosus Thaxt. SPECIES
-=======
+# Eucantharomyces spinosus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

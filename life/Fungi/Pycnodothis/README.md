@@ -1,5 +1,4 @@
-Pycnodothis F. Stevens GENUS
-=======
+# Pycnodothis F. Stevens GENUS
 
 #### Status
 ACCEPTED

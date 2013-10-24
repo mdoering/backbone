@@ -1,5 +1,4 @@
-Coprinopsis undulata (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis undulata (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

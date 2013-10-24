@@ -1,5 +1,4 @@
-Trichoderma nigrovirens Goddard, 1913 SPECIES
-=======
+# Trichoderma nigrovirens Goddard, 1913 SPECIES
 
 #### Status
 ACCEPTED

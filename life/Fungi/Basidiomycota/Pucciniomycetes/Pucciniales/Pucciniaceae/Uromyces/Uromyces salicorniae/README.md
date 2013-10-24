@@ -1,17 +1,16 @@
-Capitularia salicorniae (de Bary) Syd., 1922 SPECIES
-=======
+# Uromyces salicorniae (DC.) de Bary, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 20(3): 123 (1922)
+Rabenhorst's Fungi europ. exsicc. no. 1386 (1870)
 
 #### Original name
-Uromyces salicorniae (DC.) de Bary, 1870
+Aecidium salicorniae DC., 1815
 
 ### Remarks
 null

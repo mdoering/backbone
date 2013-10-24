@@ -1,5 +1,4 @@
-Calosphaeria affinis Nitschke SPECIES
-=======
+# Calosphaeria affinis Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis revelatula Vain. SPECIES
-=======
+# Graphis revelatula Vain. SPECIES
 
 #### Status
 ACCEPTED

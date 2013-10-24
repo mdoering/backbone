@@ -1,5 +1,4 @@
-Sphaeronaema pulverulentum (Nees) Starbäck SPECIES
-=======
+# Sphaeronaema pulverulentum (Nees) Starbäck SPECIES
 
 #### Status
 ACCEPTED

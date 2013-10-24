@@ -1,5 +1,4 @@
-Epistylis carcini Precht, 1935 SPECIES
-=======
+# Epistylis carcini Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

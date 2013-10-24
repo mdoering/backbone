@@ -1,14 +1,13 @@
-Leptosphaeria fingiberi (Sawada) V. Dhar, L.S. Srivast. & Sahambi SPECIES
-=======
+# Leptosphaeria zingiberis (Sawada) V. Dhar, L.S. Srivast. & Sahambi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 50(12): 540 (1981)
 
 #### Original name
 Phaeosphaeria zingiberis Sawada

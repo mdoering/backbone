@@ -1,5 +1,4 @@
-Entoloma trinitense Dennis SPECIES
-=======
+# Entoloma trinitense Dennis SPECIES
 
 #### Status
 ACCEPTED

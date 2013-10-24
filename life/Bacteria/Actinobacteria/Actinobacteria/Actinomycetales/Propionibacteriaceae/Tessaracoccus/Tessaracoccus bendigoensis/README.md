@@ -1,5 +1,4 @@
-Tessaracoccus bendigoensis Maszenan et al., 1999 SPECIES
-=======
+# Tessaracoccus bendigoensis Maszenan et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pistillaria sagittiformis Pat., 1883 SPECIES
-=======
+# Ceratellopsis sagittiformis (Pat.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tabl. analyt. Fung. France (Paris) 1(1): 26 (1883)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 206 (1950)
 
 #### Original name
 Pistillaria sagittiformis Pat., 1883

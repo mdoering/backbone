@@ -1,5 +1,4 @@
-Pleospora onosmatis Hollós SPECIES
-=======
+# Pleospora onosmatis Hollós SPECIES
 
 #### Status
 ACCEPTED

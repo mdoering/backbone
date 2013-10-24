@@ -1,5 +1,4 @@
-Dapcodinium Evitt GENUS
-=======
+# Dapcodinium Evitt GENUS
 
 #### Status
 ACCEPTED

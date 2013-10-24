@@ -1,17 +1,16 @@
-Cercospora syzygiae M. Mandal SPECIES
-=======
+# Cercospora syzygii M. Mandal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian J. mycol. Res. 16(2): 313 (1978)
 
 #### Original name
-Cercospora syzygiae M. Mandal
+Cercospora syzygii M. Mandal
 
 ### Remarks
 null

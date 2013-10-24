@@ -1,5 +1,4 @@
-Pseudoperitheca murmanica Elenkin, 1922 SPECIES
-=======
+# Pseudoperitheca murmanica Elenkin, 1922 SPECIES
 
 #### Status
 ACCEPTED

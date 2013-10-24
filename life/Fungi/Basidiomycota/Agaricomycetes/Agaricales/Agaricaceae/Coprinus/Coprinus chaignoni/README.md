@@ -1,5 +1,4 @@
-Coprinus chaignoni Pat. SPECIES
-=======
+# Coprinus chaignoni Pat. SPECIES
 
 #### Status
 ACCEPTED

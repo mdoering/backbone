@@ -1,5 +1,4 @@
-Solenophaera zanguebarica (Ehrenberg) SPECIES
-=======
+# Solenophaera zanguebarica (Ehrenberg) SPECIES
 
 #### Status
 ACCEPTED

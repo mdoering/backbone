@@ -1,5 +1,4 @@
-Phanerochaete intertexta Sheng H. Wu, 1990 SPECIES
-=======
+# Phanerochaete intertexta Sheng H. Wu, 1990 SPECIES
 
 #### Status
 ACCEPTED

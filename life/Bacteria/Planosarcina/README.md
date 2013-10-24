@@ -1,5 +1,4 @@
-Planosarcina GENUS
-=======
+# Planosarcina GENUS
 
 #### Status
 ACCEPTED

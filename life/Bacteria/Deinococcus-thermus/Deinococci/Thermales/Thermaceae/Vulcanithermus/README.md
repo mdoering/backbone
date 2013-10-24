@@ -1,5 +1,4 @@
-Vulcanithermus Miroshnichenko et al., 2003 GENUS
-=======
+# Vulcanithermus Miroshnichenko et al., 2003 GENUS
 
 #### Status
 ACCEPTED

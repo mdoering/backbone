@@ -1,5 +1,4 @@
-Lasiosphaeria tephrotricha (Fr.) Sacc. SPECIES
-=======
+# Lasiosphaeria tephrotricha (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

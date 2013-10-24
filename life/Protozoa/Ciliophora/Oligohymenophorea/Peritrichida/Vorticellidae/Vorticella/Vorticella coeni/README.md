@@ -1,5 +1,4 @@
-Vorticella coeni Lepsi, 1948 SPECIES
-=======
+# Vorticella coeni Lepsi, 1948 SPECIES
 
 #### Status
 ACCEPTED

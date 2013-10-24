@@ -1,5 +1,4 @@
-Russula acutispora R. Heim SPECIES
-=======
+# Russula acutispora R. Heim SPECIES
 
 #### Status
 ACCEPTED

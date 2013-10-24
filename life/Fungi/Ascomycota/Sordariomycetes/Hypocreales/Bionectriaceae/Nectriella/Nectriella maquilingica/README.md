@@ -1,5 +1,4 @@
-Nectriella maquilingica Sacc. SPECIES
-=======
+# Nectriella maquilingica Sacc. SPECIES
 
 #### Status
 ACCEPTED

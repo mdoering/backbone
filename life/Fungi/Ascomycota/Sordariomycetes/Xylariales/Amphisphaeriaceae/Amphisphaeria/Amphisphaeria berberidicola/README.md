@@ -1,8 +1,7 @@
-Amphisphaeria berberidincola Rehm SPECIES
-=======
+# Amphisphaeria berberidicola Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amphisphaeria berberidincola Rehm
+Amphisphaeria berberidicola Rehm
 
 ### Remarks
 null

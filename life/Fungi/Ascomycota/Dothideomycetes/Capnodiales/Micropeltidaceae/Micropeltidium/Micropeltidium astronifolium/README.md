@@ -1,5 +1,4 @@
-Micropeltidium astronifolium Bat. & A.F. Vital SPECIES
-=======
+# Micropeltidium astronifolium Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

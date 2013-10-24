@@ -1,5 +1,4 @@
-Helminthosporium bauhiniae M.B. Ellis SPECIES
-=======
+# Helminthosporium bauhiniae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

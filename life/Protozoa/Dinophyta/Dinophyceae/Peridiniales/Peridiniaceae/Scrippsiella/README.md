@@ -1,14 +1,13 @@
-Scripsiella GENUS
-=======
+# Scrippsiella Balech ex Loeblich Iii, 1965 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biol. Bull. mar. Biol. Lab. Woods Hole 116: 196.
 
 #### Original name
 null

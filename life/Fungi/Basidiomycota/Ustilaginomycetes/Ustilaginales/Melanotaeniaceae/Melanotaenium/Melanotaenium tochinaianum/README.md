@@ -1,5 +1,4 @@
-Melanotaenium tochinaianum S. Ito SPECIES
-=======
+# Melanotaenium tochinaianum S. Ito SPECIES
 
 #### Status
 ACCEPTED

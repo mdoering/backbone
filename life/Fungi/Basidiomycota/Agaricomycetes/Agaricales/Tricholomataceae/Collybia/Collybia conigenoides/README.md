@@ -1,5 +1,4 @@
-Collybia conigenoides Ellis SPECIES
-=======
+# Collybia conigenoides Ellis SPECIES
 
 #### Status
 ACCEPTED

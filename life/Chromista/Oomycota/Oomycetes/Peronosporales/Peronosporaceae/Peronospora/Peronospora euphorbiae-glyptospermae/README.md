@@ -1,5 +1,4 @@
-Peronospora euphorbiae-glyptospermae Gäum. SPECIES
-=======
+# Peronospora euphorbiae-glyptospermae Gäum. SPECIES
 
 #### Status
 ACCEPTED

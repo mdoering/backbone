@@ -1,8 +1,7 @@
-Agaricus trigonophyllus (Lasch) Fr., 1874 SPECIES
-=======
+# Tubaria trigonophylla (Lasch) Fayod, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

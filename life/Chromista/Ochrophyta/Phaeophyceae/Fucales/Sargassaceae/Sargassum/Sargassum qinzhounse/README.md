@@ -1,5 +1,4 @@
-Sargassum qinzhounse Tseng & Lu SPECIES
-=======
+# Sargassum qinzhounse Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora brachypus (Ellis & Everh.) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora brachypus (Ellis & Everh.) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

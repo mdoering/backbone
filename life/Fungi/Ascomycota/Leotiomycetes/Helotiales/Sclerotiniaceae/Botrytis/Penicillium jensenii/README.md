@@ -1,8 +1,7 @@
-Penicillium godlewskii K.M. Zalessky, 1927 SPECIES
-=======
+# Penicillium jensenii K.M. Zalessky, 1927 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

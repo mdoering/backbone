@@ -1,5 +1,4 @@
-Sporotrichum muscorum Pers. SPECIES
-=======
+# Sporotrichum muscorum Pers. SPECIES
 
 #### Status
 ACCEPTED

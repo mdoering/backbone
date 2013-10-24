@@ -1,5 +1,4 @@
-Ascochyta osmaroniae (Dearn.) Arx SPECIES
-=======
+# Ascochyta osmaroniae (Dearn.) Arx SPECIES
 
 #### Status
 ACCEPTED

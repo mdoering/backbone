@@ -1,5 +1,4 @@
-Didymella lussoniensis Sacc. SPECIES
-=======
+# Didymella lussoniensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

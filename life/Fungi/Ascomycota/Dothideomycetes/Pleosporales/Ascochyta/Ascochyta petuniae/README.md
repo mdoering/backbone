@@ -1,5 +1,4 @@
-Ascochyta petuniae Speg. SPECIES
-=======
+# Ascochyta petuniae Speg. SPECIES
 
 #### Status
 ACCEPTED

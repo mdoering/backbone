@@ -1,5 +1,4 @@
-Gyrophora spongiosa var. spongiosa VARIETY
-=======
+# Gyrophora spongiosa (C.W. Dodge & G.E. Baker) N.S. Golubk. & Savicz SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gyrophora spongiosa var. spongiosa
+Umbilicaria spongiosa C. W. Dodge & G. E. Baker
 
 ### Remarks
 null

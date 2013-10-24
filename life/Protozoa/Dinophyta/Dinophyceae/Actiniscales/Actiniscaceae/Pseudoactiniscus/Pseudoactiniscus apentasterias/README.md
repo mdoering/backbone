@@ -1,5 +1,4 @@
-Pseudoactiniscus apentasterias Bursa SPECIES
-=======
+# Pseudoactiniscus apentasterias Bursa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium euchlorocarpium Yaguchi, Someya & Udagawa SPECIES
-=======
+# Penicillium euchlorocarpium Yaguchi, Someya & Udagawa SPECIES
 
 #### Status
 ACCEPTED

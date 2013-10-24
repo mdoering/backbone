@@ -1,14 +1,13 @@
-Ptychocyclis Doflein, 1927 GENUS
-=======
+# Ptychocylis Brandt GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lehrb. Protozoenkunde, 5 (1), 65.
+Bibl. Zool. , Stuttgart, 8, Heft 20 (2), 59.
 
 #### Original name
 null

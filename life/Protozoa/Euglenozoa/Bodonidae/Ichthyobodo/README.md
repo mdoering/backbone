@@ -1,17 +1,16 @@
-Ichthybodo Pinto, 1928 GENUS
-=======
+# Ichthyobodo Pinto, 1928 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Arch. Inst. Biol. São Paulo, 1, 129.
 
 #### Original name
-null
+Costia Leclerq, 1890
 
 ### Remarks
 null

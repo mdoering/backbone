@@ -1,5 +1,4 @@
-Phialea pinicola Feltgen SPECIES
-=======
+# Phialea pinicola Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gigaspora erythropa SPECIES
-=======
+# Gigaspora erythropa SPECIES
 
 #### Status
 ACCEPTED

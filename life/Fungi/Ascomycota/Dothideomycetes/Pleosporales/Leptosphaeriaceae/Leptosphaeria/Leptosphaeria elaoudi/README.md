@@ -1,5 +1,4 @@
-Leptosphaeria elaoudi Rieuf SPECIES
-=======
+# Leptosphaeria elaoudi Rieuf SPECIES
 
 #### Status
 ACCEPTED

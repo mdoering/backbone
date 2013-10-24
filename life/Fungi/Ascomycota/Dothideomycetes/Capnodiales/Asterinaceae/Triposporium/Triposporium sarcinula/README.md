@@ -1,5 +1,4 @@
-Triposporium sarcinula Sacc. SPECIES
-=======
+# Triposporium sarcinula Sacc. SPECIES
 
 #### Status
 ACCEPTED

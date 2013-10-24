@@ -1,5 +1,4 @@
-Sphacelotheca anthistiriae (Petch) L. Ling SPECIES
-=======
+# Sphacelotheca anthistiriae (Petch) L. Ling SPECIES
 
 #### Status
 ACCEPTED

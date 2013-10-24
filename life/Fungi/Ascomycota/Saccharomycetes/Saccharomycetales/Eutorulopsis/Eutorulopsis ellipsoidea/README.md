@@ -1,5 +1,4 @@
-Eutorulopsis ellipsoidea (Preyer) Cif. & Redaelli SPECIES
-=======
+# Eutorulopsis ellipsoidea (Preyer) Cif. & Redaelli SPECIES
 
 #### Status
 ACCEPTED

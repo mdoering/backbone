@@ -1,5 +1,4 @@
-Protoholoeciscus Aitchis, 1993 GENUS
-=======
+# Protoholoeciscus Aitchis, 1993 GENUS
 
 #### Status
 ACCEPTED

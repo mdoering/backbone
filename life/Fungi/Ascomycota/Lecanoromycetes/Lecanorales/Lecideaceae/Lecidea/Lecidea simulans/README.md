@@ -1,5 +1,4 @@
-Lecidea simulans (Müll. Arg.) Hue SPECIES
-=======
+# Lecidea simulans (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

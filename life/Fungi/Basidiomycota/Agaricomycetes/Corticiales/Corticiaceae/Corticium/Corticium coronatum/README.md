@@ -1,5 +1,4 @@
-Corticium coronatum (Schrad.) Höhn. & Litsch. SPECIES
-=======
+# Corticium coronatum (Schrad.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

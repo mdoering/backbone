@@ -1,5 +1,4 @@
-Cephalophytarion J.W. Schopf, 1968 GENUS
-=======
+# Cephalophytarion J.W. Schopf, 1968 GENUS
 
 #### Status
 ACCEPTED

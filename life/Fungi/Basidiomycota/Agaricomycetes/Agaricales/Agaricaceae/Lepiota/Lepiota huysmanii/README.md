@@ -1,5 +1,4 @@
-Lepiota huysmanii Wichanský SPECIES
-=======
+# Lepiota huysmanii Wichanský SPECIES
 
 #### Status
 ACCEPTED

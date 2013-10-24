@@ -1,5 +1,4 @@
-Kylindria trichothecioidea W.B. Kendr. & R.F. Castañeda SPECIES
-=======
+# Kylindria trichothecioidea W.B. Kendr. & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporomega andromedae (Schwein.) Duby SPECIES
-=======
+# Sporomega andromedae (Schwein.) Duby SPECIES
 
 #### Status
 ACCEPTED

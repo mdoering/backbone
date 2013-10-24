@@ -1,5 +1,4 @@
-Ashbrookia tuberculata Ujiie, 1992 SPECIES
-=======
+# Ashbrookia tuberculata Ujiie, 1992 SPECIES
 
 #### Status
 ACCEPTED

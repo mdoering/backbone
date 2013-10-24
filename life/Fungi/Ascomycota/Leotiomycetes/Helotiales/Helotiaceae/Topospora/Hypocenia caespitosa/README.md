@@ -1,5 +1,4 @@
-Hypocenia caespitosa Petr. SPECIES
-=======
+# Hypocenia caespitosa Petr. SPECIES
 
 #### Status
 ACCEPTED

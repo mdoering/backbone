@@ -1,5 +1,4 @@
-Ctenomyces lacticolor (Sabour.) Langeron & Miloch. SPECIES
-=======
+# Ctenomyces lacticolor (Sabour.) Langeron & Miloch. SPECIES
 
 #### Status
 ACCEPTED

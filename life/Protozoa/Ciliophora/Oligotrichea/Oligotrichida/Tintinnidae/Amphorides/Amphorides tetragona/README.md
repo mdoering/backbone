@@ -1,5 +1,4 @@
-Amphorides tetragona Jörgensen, 1924 SPECIES
-=======
+# Amphorides tetragona Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

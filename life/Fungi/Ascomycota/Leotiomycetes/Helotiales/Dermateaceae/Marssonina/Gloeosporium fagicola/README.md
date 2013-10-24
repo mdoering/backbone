@@ -1,5 +1,4 @@
-Gloeosporium fagicola Pass. SPECIES
-=======
+# Gloeosporium fagicola Pass. SPECIES
 
 #### Status
 ACCEPTED

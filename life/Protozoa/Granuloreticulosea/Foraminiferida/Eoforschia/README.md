@@ -1,5 +1,4 @@
-Eoforschia GENUS
-=======
+# Eoforschia GENUS
 
 #### Status
 ACCEPTED

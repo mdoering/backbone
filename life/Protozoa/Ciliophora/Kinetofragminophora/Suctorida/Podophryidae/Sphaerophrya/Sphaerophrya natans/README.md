@@ -1,5 +1,4 @@
-Sphaerophrya natans SPECIES
-=======
+# Sphaerophrya natans SPECIES
 
 #### Status
 ACCEPTED

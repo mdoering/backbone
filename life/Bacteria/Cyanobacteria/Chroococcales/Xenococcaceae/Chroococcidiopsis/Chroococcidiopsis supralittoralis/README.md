@@ -1,5 +1,4 @@
-Chroococcidiopsis supralittoralis I. Dor, N. Carl & I. Baldinger SPECIES
-=======
+# Chroococcidiopsis supralittoralis I. Dor, N. Carl & I. Baldinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceuthospora innumera Massee, 1899 SPECIES
-=======
+# Ceuthospora innumera Massee, 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola blepharidis Thite & C.R. Patil SPECIES
-=======
+# Meliola blepharidis Thite & C.R. Patil SPECIES
 
 #### Status
 ACCEPTED

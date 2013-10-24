@@ -1,5 +1,4 @@
-Melanoleuca dichropus (Fr.) Murrill SPECIES
-=======
+# Melanoleuca dichropus (Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

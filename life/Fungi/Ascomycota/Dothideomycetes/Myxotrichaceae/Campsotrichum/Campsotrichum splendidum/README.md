@@ -1,5 +1,4 @@
-Campsotrichum splendidum Schwein. SPECIES
-=======
+# Campsotrichum splendidum Schwein. SPECIES
 
 #### Status
 ACCEPTED

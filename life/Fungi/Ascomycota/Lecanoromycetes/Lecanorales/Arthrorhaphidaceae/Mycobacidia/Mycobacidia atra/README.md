@@ -1,5 +1,4 @@
-Mycobacidia atra Velen. SPECIES
-=======
+# Mycobacidia atra Velen. SPECIES
 
 #### Status
 ACCEPTED

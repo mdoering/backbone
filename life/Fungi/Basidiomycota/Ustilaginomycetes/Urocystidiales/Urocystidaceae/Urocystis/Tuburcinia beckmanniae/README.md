@@ -1,5 +1,4 @@
-Tuburcinia beckmanniae I.E. Brezhnev SPECIES
-=======
+# Tuburcinia beckmanniae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

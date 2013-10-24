@@ -1,5 +1,4 @@
-Cordyceps olivaceovirescens Henn. SPECIES
-=======
+# Cordyceps olivaceovirescens Henn. SPECIES
 
 #### Status
 ACCEPTED

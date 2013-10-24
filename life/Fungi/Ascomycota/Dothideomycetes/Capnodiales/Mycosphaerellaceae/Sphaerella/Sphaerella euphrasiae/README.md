@@ -1,5 +1,4 @@
-Sphaerella euphrasiae Pass. SPECIES
-=======
+# Sphaerella euphrasiae Pass. SPECIES
 
 #### Status
 ACCEPTED

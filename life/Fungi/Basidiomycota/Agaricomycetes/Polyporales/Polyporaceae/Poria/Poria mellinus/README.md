@@ -1,5 +1,4 @@
-Poria mellinus Pers. SPECIES
-=======
+# Poria mellinus Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endopyrenium psoromia (Nyl.) Boistel SPECIES
-=======
+# Endopyrenium psoromia (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

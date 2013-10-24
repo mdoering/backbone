@@ -1,5 +1,4 @@
-Rhinosporidium hylarum P.C. Azevedo SPECIES
-=======
+# Rhinosporidium hylarum P.C. Azevedo SPECIES
 
 #### Status
 ACCEPTED

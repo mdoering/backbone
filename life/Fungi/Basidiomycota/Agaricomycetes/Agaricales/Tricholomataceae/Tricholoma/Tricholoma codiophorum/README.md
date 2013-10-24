@@ -1,5 +1,4 @@
-Tricholoma codiophorum Mont. SPECIES
-=======
+# Tricholoma codiophorum Mont. SPECIES
 
 #### Status
 ACCEPTED

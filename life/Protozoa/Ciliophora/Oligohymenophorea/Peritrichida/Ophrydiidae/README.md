@@ -1,5 +1,4 @@
-Ophrydiidae Ehrenberg, 1838 FAMILY
-=======
+# Ophrydiidae Ehrenberg, 1838 FAMILY
 
 #### Status
 ACCEPTED

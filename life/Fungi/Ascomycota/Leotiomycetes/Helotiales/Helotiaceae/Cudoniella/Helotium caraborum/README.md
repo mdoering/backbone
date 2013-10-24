@@ -1,5 +1,4 @@
-Helotium caraborum Velen. SPECIES
-=======
+# Helotium caraborum Velen. SPECIES
 
 #### Status
 ACCEPTED

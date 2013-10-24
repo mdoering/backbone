@@ -1,5 +1,4 @@
-Cystangium Singer & A.H. Sm. GENUS
-=======
+# Cystangium Singer & A.H. Sm. GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pseudofistulina brasiliensis (O. Fidalgo & M. Fidalgo) O. Fidalgo & M. Fidalgo, 1963 SPECIES
-=======
+# Fistulina brasiliensis O. Fidalgo & M. Fidalgo, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 54(4): 344 (1963)
+Mycologia 50(1): 145 (1958)
 
 #### Original name
 Fistulina brasiliensis O. Fidalgo & M. Fidalgo, 1958

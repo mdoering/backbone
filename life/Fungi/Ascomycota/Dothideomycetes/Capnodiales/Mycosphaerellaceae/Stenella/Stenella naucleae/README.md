@@ -1,5 +1,4 @@
-Stenella naucleae A.K. Das SPECIES
-=======
+# Stenella naucleae A.K. Das SPECIES
 
 #### Status
 ACCEPTED

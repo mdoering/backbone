@@ -1,17 +1,16 @@
-Chaetosaccardinula Bat. GENUS
-=======
+# Strigopodia Bat. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Batista & Peres, Brotéria, sér. Ci. Nat. 31(2): 84 (1962)
+in Batista, Maia & Vital, Anais Soc. Biol. Pernambuco 15(2): 440 (1957)
 
 #### Original name
-Chaetosaccardinula Bat.
+Strigopodia Bat.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyxidiophora lundqvistii Corlett SPECIES
-=======
+# Pyxidiophora lundqvistii Corlett SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta corrosa (Ach.) Müll. Arg. SPECIES
-=======
+# Sticta corrosa (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

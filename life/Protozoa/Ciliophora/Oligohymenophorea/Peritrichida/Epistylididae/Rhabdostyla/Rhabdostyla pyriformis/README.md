@@ -1,5 +1,4 @@
-Rhabdostyla pyriformis Perty, 1852 SPECIES
-=======
+# Rhabdostyla pyriformis Perty, 1852 SPECIES
 
 #### Status
 ACCEPTED

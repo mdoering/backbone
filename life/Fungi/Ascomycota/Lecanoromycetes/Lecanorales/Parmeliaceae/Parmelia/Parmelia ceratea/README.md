@@ -1,5 +1,4 @@
-Parmelia ceratea (Ach.) Sandst. SPECIES
-=======
+# Parmelia ceratea (Ach.) Sandst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gremlia GENUS
-=======
+# Gremlia GENUS
 
 #### Status
 ACCEPTED

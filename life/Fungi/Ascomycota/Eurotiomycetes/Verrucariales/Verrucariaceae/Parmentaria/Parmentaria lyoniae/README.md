@@ -1,8 +1,7 @@
-Parmentaria lyoni Zahlbr. SPECIES
-=======
+# Parmentaria lyoniae Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmentaria lyoni Zahlbr.
+Parmentaria lyoniae Zahlbr.
 
 ### Remarks
 null

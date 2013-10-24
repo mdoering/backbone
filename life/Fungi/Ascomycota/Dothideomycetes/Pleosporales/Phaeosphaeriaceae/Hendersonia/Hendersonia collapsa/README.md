@@ -1,5 +1,4 @@
-Hendersonia collapsa Cooke & Ellis SPECIES
-=======
+# Hendersonia collapsa Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

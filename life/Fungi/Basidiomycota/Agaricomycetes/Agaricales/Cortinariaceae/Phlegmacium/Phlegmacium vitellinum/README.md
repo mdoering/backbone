@@ -1,5 +1,4 @@
-Phlegmacium vitellinum (M.M. Moser) M.M. Moser SPECIES
-=======
+# Phlegmacium vitellinum (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

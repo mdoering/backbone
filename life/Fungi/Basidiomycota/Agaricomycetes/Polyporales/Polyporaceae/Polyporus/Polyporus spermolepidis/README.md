@@ -1,17 +1,16 @@
-Polyporus spermolepidis var. spermolepidis VARIETY
-=======
+# Polyporus spermolepidis SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Bull. Soc. mycol. Fr. 14: 153 (1898)
+null
 
 #### Original name
-Polyporus spermolepidis var. spermolepidis
+null
 
 ### Remarks
 null

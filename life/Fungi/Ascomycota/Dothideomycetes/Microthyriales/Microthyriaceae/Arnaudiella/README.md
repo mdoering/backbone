@@ -1,5 +1,4 @@
-Arnaudiella Petrak, 1927 GENUS
-=======
+# Arnaudiella Petrak, 1927 GENUS
 
 #### Status
 ACCEPTED

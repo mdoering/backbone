@@ -1,5 +1,4 @@
-Lycoperdon tephrospermum Berk. & M.A. Curtis SPECIES
-=======
+# Lycoperdon tephrospermum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

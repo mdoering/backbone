@@ -1,5 +1,4 @@
-Planorbulina variabilis (d'Orbigny, 1826) SPECIES
-=======
+# Planorbulina variabilis (d'Orbigny, 1826) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nigredo plumbaria (Peck) Arthur SPECIES
-=======
+# Nigredo plumbaria (Peck) Arthur SPECIES
 
 #### Status
 ACCEPTED

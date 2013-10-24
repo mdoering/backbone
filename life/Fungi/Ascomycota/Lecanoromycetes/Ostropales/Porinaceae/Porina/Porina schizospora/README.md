@@ -1,5 +1,4 @@
-Porina schizospora Vain. SPECIES
-=======
+# Porina schizospora Vain. SPECIES
 
 #### Status
 ACCEPTED

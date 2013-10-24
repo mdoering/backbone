@@ -1,5 +1,4 @@
-Gliocladium verticillioides (New. {?} ) Pidopl. SPECIES
-=======
+# Gliocladium verticillioides (New. {?} ) Pidopl. SPECIES
 
 #### Status
 ACCEPTED

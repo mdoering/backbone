@@ -1,5 +1,4 @@
-Pseudosphaeria samuelii Hansf. SPECIES
-=======
+# Pseudosphaeria samuelii Hansf. SPECIES
 
 #### Status
 ACCEPTED

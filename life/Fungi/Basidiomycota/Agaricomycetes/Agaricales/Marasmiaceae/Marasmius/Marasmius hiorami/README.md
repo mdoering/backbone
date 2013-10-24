@@ -1,5 +1,4 @@
-Marasmius hiorami var. hiorami VARIETY
-=======
+# Marasmius hiorami Murrill SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 N. Amer. Fl. (New York) 9(4): (1915)
 
 #### Original name
-Marasmius hiorami var. hiorami
+Marasmius hiorami Murrill
 
 ### Remarks
 null

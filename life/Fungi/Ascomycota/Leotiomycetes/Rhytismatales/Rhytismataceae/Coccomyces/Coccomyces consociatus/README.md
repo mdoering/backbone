@@ -1,5 +1,4 @@
-Coccomyces consociatus Petr., 1948 SPECIES
-=======
+# Coccomyces consociatus Petr., 1948 SPECIES
 
 #### Status
 ACCEPTED

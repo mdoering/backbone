@@ -1,5 +1,4 @@
-Phragmitensis marina M.K.M. Wong, Poon & K.D. Hyde, 1998 SPECIES
-=======
+# Phragmitensis marina M.K.M. Wong, Poon & K.D. Hyde, 1998 SPECIES
 
 #### Status
 ACCEPTED

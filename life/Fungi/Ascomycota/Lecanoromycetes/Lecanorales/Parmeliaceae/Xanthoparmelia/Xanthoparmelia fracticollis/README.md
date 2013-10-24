@@ -1,5 +1,4 @@
-Xanthoparmelia fracticollis Elix SPECIES
-=======
+# Xanthoparmelia fracticollis Elix SPECIES
 
 #### Status
 ACCEPTED

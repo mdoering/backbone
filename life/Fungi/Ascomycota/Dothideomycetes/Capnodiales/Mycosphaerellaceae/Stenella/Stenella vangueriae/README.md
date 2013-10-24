@@ -1,5 +1,4 @@
-Stenella vangueriae (Thirum. & Mishra) Deighton, 1979 SPECIES
-=======
+# Stenella vangueriae (Thirum. & Mishra) Deighton, 1979 SPECIES
 
 #### Status
 ACCEPTED

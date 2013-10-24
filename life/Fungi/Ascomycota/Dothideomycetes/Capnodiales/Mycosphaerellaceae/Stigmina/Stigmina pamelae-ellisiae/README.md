@@ -1,17 +1,16 @@
-Stigmina pamelae-ellisae G.P. Agarwal & N.D. Sharma SPECIES
-=======
+# Stigmina pamelae-ellisiae G.P. Agarwal & N.D. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sharma & Agarwal, J. Indian bot. Soc. 53(1-2): 80 (1974)
 
 #### Original name
-Stigmina pamelae-ellisae G.P. Agarwal & N.D. Sharma
+Stigmina pamelae-ellisiae G.P. Agarwal & N.D. Sharma
 
 ### Remarks
 null

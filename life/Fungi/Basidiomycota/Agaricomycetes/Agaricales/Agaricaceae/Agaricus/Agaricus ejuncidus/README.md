@@ -1,5 +1,4 @@
-Agaricus ejuncidus Britzelm. SPECIES
-=======
+# Agaricus ejuncidus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

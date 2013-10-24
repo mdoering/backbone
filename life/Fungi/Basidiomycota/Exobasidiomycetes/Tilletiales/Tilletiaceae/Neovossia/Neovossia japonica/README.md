@@ -1,5 +1,4 @@
-Neovossia japonica Vánky SPECIES
-=======
+# Neovossia japonica Vánky SPECIES
 
 #### Status
 ACCEPTED

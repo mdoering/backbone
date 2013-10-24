@@ -1,5 +1,4 @@
-Peziza cinatica Pfister SPECIES
-=======
+# Peziza cinatica Pfister SPECIES
 
 #### Status
 ACCEPTED

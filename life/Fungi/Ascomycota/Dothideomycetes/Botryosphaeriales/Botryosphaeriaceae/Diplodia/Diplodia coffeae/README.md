@@ -1,5 +1,4 @@
-Diplodia coffeae Henn. SPECIES
-=======
+# Diplodia coffeae Henn. SPECIES
 
 #### Status
 ACCEPTED

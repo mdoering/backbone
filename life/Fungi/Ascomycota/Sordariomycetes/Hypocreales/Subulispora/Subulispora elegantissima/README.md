@@ -1,5 +1,4 @@
-Subulispora elegantissima P.M. Kirk, 1985 SPECIES
-=======
+# Subulispora elegantissima P.M. Kirk, 1985 SPECIES
 
 #### Status
 ACCEPTED

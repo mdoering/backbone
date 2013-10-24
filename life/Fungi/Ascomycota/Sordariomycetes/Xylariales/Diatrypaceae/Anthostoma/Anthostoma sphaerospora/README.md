@@ -1,5 +1,4 @@
-Anthostoma sphaerospora Höhn. SPECIES
-=======
+# Anthostoma sphaerospora Höhn. SPECIES
 
 #### Status
 ACCEPTED

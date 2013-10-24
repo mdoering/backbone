@@ -1,5 +1,4 @@
-Arthonia bisepta Vain. SPECIES
-=======
+# Arthonia bisepta Vain. SPECIES
 
 #### Status
 ACCEPTED

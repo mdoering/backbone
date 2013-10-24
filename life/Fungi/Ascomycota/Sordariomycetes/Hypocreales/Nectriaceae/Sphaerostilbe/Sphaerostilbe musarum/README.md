@@ -1,5 +1,4 @@
-Sphaerostilbe musarum S.F. Ashby SPECIES
-=======
+# Sphaerostilbe musarum S.F. Ashby SPECIES
 
 #### Status
 ACCEPTED

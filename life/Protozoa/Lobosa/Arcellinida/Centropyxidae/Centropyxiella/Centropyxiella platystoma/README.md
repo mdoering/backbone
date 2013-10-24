@@ -1,5 +1,4 @@
-Centropyxiella platystoma Golemansky, 1981 SPECIES
-=======
+# Centropyxiella platystoma Golemansky, 1981 SPECIES
 
 #### Status
 ACCEPTED

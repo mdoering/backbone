@@ -1,5 +1,4 @@
-Clitocybe podocarpi (Singer) Singer SPECIES
-=======
+# Clitocybe podocarpi (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

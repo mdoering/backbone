@@ -1,5 +1,4 @@
-Monilia intestinalis (Castell.) Castell. & Chalm. SPECIES
-=======
+# Monilia intestinalis (Castell.) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

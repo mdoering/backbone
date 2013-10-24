@@ -1,5 +1,4 @@
-Thelotrema norstisticum Hale SPECIES
-=======
+# Thelotrema norstisticum Hale SPECIES
 
 #### Status
 ACCEPTED

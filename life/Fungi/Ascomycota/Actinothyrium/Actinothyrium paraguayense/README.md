@@ -1,5 +1,4 @@
-Actinothyrium paraguayense Speg. SPECIES
-=======
+# Actinothyrium paraguayense Speg. SPECIES
 
 #### Status
 ACCEPTED

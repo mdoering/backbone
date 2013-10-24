@@ -1,5 +1,4 @@
-Setaria variegata (Samp.) Samp. SPECIES
-=======
+# Setaria variegata (Samp.) Samp. SPECIES
 
 #### Status
 ACCEPTED

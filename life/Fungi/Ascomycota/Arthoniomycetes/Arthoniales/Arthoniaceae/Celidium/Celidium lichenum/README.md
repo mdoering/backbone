@@ -1,5 +1,4 @@
-Celidium lichenum var. lichenum Sommerf. VARIETY
-=======
+# Celidium lichenum Sommerf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Celidium lichenum var. lichenum Sommerf.
+Celidium lichenum Sommerf.
 
 ### Remarks
 null

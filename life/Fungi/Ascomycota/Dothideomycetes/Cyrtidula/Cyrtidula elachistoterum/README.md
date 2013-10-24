@@ -1,5 +1,4 @@
-Cyrtidula elachistoterum (Nyl.) SPECIES
-=======
+# Cyrtidula elachistoterum (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces laurentii Trejo et al., 1979 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces laurentii Trejo et al., 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

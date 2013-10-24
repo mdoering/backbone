@@ -1,5 +1,4 @@
-Dendryphium atra (Corda) Hughes SPECIES
-=======
+# Dendryphium atra (Corda) Hughes SPECIES
 
 #### Status
 ACCEPTED

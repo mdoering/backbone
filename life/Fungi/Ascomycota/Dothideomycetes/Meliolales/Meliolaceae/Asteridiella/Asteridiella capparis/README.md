@@ -1,14 +1,13 @@
-Asteridiella capparidis (Hansf. & Deighton) Hansf. SPECIES
-=======
+# Asteridiella capparis (Hansf. & Deighton) Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 10(1-6): 47 (1957)
 
 #### Original name
 Irenina capparis Hansf. & Deighton

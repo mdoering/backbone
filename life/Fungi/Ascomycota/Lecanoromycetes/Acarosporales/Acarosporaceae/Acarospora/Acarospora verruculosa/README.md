@@ -1,5 +1,4 @@
-Acarospora verruculosa H. Magn. SPECIES
-=======
+# Acarospora verruculosa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

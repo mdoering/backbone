@@ -1,5 +1,4 @@
-Sphaeria sanguinolenta Wallr. SPECIES
-=======
+# Sphaeria sanguinolenta Wallr. SPECIES
 
 #### Status
 ACCEPTED

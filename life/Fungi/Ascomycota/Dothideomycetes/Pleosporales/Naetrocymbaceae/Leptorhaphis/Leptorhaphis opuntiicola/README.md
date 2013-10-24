@@ -1,5 +1,4 @@
-Leptorhaphis opuntiicola L.A. Fiol & M.B. Aguirre SPECIES
-=======
+# Leptorhaphis opuntiicola L.A. Fiol & M.B. Aguirre SPECIES
 
 #### Status
 ACCEPTED

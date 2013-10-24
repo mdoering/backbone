@@ -1,5 +1,4 @@
-Pannularia caesia (Ach.) Flagey SPECIES
-=======
+# Pannularia caesia (Ach.) Flagey SPECIES
 
 #### Status
 ACCEPTED

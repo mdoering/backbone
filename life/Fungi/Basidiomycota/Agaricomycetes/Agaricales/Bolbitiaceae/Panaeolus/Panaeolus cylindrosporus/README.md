@@ -1,5 +1,4 @@
-Panaeolus cylindrosporus E. Ludw. SPECIES
-=======
+# Panaeolus cylindrosporus E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

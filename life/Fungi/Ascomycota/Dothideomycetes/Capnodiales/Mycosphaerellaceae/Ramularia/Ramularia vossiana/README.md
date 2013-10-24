@@ -1,5 +1,4 @@
-Ramularia vossiana Thüm. SPECIES
-=======
+# Ramularia vossiana Thüm. SPECIES
 
 #### Status
 ACCEPTED

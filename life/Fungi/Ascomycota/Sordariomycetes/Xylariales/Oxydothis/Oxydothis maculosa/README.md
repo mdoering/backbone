@@ -1,5 +1,4 @@
-Oxydothis maculosa Penz. & Sacc. SPECIES
-=======
+# Oxydothis maculosa Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

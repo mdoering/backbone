@@ -1,5 +1,4 @@
-Prismaria Preuss, 1851 GENUS
-=======
+# Prismaria Preuss, 1851 GENUS
 
 #### Status
 ACCEPTED

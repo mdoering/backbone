@@ -1,17 +1,16 @@
-Penicillium pallidum G. Sm. SPECIES
-=======
+# Geosmithia putterillii (Thom) Pitt, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 18(1): 88 (1933)
+Can. J. Bot. 57(19): 2022 (1979)
 
 #### Original name
-Penicillium pallidum G. Sm.
+Penicillium putterillii Thom
 
 ### Remarks
 null

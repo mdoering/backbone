@@ -1,5 +1,4 @@
-Trochammina bellingshauseni (Brönnimann & Whittaker, 1988) SPECIES
-=======
+# Trochammina bellingshauseni (Brönnimann & Whittaker, 1988) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria arecae Vain. SPECIES
-=======
+# Pertusaria arecae Vain. SPECIES
 
 #### Status
 ACCEPTED

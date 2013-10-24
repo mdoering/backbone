@@ -1,17 +1,16 @@
-Phyllosticta coffaeicida Speg. SPECIES
-=======
+# Phyllosticta coffeicola Delacr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revta Fac. Agron. Univ. nac. La Plata 2(no. 22): 345 (1896)
 
 #### Original name
-Phyllosticta coffaeicida Speg.
+Phyllosticta coffeicola Delacr.
 
 ### Remarks
 null

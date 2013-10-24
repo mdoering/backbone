@@ -1,5 +1,4 @@
-Clitopilus rhodosporus (Britzelm.) Sacc. SPECIES
-=======
+# Clitopilus rhodosporus (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

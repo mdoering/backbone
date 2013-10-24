@@ -1,5 +1,4 @@
-Phoma escalloniae Sacc. SPECIES
-=======
+# Phoma escalloniae Sacc. SPECIES
 
 #### Status
 ACCEPTED

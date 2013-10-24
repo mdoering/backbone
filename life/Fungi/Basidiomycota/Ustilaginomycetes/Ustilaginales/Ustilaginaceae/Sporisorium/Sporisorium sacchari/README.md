@@ -1,17 +1,16 @@
-Ustilago sacchari-ciliaris Bref., 1895 SPECIES
-=======
+# Sporisorium sacchari (Rabenh.) Vánky, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 24(no. 2): 120 (1985)
 
 #### Original name
-null
+Ustilago sacchari Rabenh., 1870
 
 ### Remarks
 null

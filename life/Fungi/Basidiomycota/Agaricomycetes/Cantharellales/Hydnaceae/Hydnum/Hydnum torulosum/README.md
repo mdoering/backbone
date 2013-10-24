@@ -1,5 +1,4 @@
-Hydnum torulosum Fr. SPECIES
-=======
+# Hydnum torulosum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Otomyces Hallier, 1869 GENUS
-=======
+# Otomyces Hallier, 1869 GENUS
 
 #### Status
 ACCEPTED

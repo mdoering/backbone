@@ -1,5 +1,4 @@
-Vogtlandia ramificata Burmann, 1970 SPECIES
-=======
+# Vogtlandia ramificata Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

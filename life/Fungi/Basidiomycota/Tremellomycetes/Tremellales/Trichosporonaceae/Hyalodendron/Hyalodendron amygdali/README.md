@@ -1,5 +1,4 @@
-Hyalodendron amygdali Ciccar. SPECIES
-=======
+# Hyalodendron amygdali Ciccar. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia strangulata Thaxt. SPECIES
-=======
+# Laboulbenia strangulata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

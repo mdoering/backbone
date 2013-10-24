@@ -1,5 +1,4 @@
-Thyronectria chlorinella (Cooke) Seeler SPECIES
-=======
+# Thyronectria chlorinella (Cooke) Seeler SPECIES
 
 #### Status
 ACCEPTED

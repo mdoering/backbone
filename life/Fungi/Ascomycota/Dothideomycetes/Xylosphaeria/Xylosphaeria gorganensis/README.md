@@ -1,5 +1,4 @@
-Xylosphaeria gorganensis Petr. SPECIES
-=======
+# Xylosphaeria gorganensis Petr. SPECIES
 
 #### Status
 ACCEPTED

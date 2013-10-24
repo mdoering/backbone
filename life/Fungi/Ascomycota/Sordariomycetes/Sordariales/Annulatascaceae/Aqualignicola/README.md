@@ -1,5 +1,4 @@
-Aqualignicola V.M. Ranghoo, K.M. Tsui & K.D. Hyde GENUS
-=======
+# Aqualignicola V.M. Ranghoo, K.M. Tsui & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

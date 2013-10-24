@@ -1,5 +1,4 @@
-Paraulocladium angulosporum R.F. Castañeda, 1986 SPECIES
-=======
+# Paraulocladium angulosporum R.F. Castañeda, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria chochrjakovii (Lar.N. Vassiljeva) Lar.N. Vassiljeva SPECIES
-=======
+# Leptosphaeria chochrjakovii (Lar.N. Vassiljeva) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

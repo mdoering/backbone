@@ -1,5 +1,4 @@
-Mycena cinereiavellanea Murrill SPECIES
-=======
+# Mycena cinereiavellanea Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhaphidospora dictamni Fuckel SPECIES
-=======
+# Rhaphidospora dictamni Fuckel SPECIES
 
 #### Status
 ACCEPTED

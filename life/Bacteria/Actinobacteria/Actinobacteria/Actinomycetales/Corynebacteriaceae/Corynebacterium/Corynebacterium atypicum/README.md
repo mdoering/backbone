@@ -1,5 +1,4 @@
-Corynebacterium atypicum Hall et al., 2003 SPECIES
-=======
+# Corynebacterium atypicum Hall et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

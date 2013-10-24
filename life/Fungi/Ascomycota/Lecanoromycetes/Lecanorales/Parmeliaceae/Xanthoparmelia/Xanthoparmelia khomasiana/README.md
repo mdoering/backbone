@@ -1,5 +1,4 @@
-Xanthoparmelia khomasiana Hale SPECIES
-=======
+# Xanthoparmelia khomasiana Hale SPECIES
 
 #### Status
 ACCEPTED

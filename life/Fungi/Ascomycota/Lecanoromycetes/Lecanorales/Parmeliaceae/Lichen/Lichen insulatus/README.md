@@ -1,5 +1,4 @@
-Lichen insulatus Ramond SPECIES
-=======
+# Lichen insulatus Ramond SPECIES
 
 #### Status
 ACCEPTED

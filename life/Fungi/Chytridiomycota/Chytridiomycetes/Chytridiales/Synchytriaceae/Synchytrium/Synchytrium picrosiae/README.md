@@ -1,5 +1,4 @@
-Synchytrium picrosiae Speg. SPECIES
-=======
+# Synchytrium picrosiae Speg. SPECIES
 
 #### Status
 ACCEPTED

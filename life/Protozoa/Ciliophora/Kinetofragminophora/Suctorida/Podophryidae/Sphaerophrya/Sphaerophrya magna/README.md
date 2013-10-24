@@ -1,5 +1,4 @@
-Sphaerophrya magna Maupas, 1881 SPECIES
-=======
+# Sphaerophrya magna Maupas, 1881 SPECIES
 
 #### Status
 ACCEPTED

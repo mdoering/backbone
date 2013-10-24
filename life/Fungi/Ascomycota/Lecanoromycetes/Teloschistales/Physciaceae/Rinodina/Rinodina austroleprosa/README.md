@@ -1,5 +1,4 @@
-Rinodina austroleprosa Elix SPECIES
-=======
+# Rinodina austroleprosa Elix SPECIES
 
 #### Status
 ACCEPTED

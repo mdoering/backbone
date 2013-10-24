@@ -1,5 +1,4 @@
-Aspergillus allocotus Bat. & H. Maia SPECIES
-=======
+# Aspergillus allocotus Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

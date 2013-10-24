@@ -1,5 +1,4 @@
-Puccinia geranii-phila J.C. Lindq. SPECIES
-=======
+# Puccinia geranii-phila J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

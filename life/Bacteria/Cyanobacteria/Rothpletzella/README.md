@@ -1,5 +1,4 @@
-Rothpletzella A. Wood, 1948 GENUS
-=======
+# Rothpletzella A. Wood, 1948 GENUS
 
 #### Status
 ACCEPTED

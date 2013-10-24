@@ -1,5 +1,4 @@
-Dermocybe GENUS
-=======
+# Dermocybe GENUS
 
 #### Status
 ACCEPTED

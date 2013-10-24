@@ -1,5 +1,4 @@
-Puccinia mei-mamillata Semadeni SPECIES
-=======
+# Puccinia mei-mamillata Semadeni SPECIES
 
 #### Status
 ACCEPTED

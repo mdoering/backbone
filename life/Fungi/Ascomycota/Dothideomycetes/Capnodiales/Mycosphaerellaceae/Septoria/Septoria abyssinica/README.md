@@ -1,5 +1,4 @@
-Septoria abyssinica ined. SPECIES
-=======
+# Septoria abyssinica ined. SPECIES
 
 #### Status
 ACCEPTED

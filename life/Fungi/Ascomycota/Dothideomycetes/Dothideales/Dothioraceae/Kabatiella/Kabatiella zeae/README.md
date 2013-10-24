@@ -1,14 +1,13 @@
-Aureobasidium zeae (Narita & Y. Hirats.) Dingley, 1977 SPECIES
-=======
+# Kabatiella zeae Narita & Y. Hirats., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 15: 165 (1977)
+Ann. phytopath. Soc. Japan 24: 151 (1959)
 
 #### Original name
 Kabatiella zeae Narita & Y. Hirats., 1959

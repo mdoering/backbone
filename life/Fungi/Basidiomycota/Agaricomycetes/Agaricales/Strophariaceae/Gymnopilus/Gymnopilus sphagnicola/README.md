@@ -1,5 +1,4 @@
-Gymnopilus sphagnicola (Peck) Murrill SPECIES
-=======
+# Gymnopilus sphagnicola (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoothamnium carcini Kent, 1881 SPECIES
-=======
+# Zoothamnium carcini Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

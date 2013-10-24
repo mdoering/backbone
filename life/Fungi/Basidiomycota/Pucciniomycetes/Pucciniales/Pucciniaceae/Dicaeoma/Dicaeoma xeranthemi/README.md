@@ -1,5 +1,4 @@
-Dicaeoma xeranthemi (H. Mori) Kuntze SPECIES
-=======
+# Dicaeoma xeranthemi (H. Mori) Kuntze SPECIES
 
 #### Status
 ACCEPTED

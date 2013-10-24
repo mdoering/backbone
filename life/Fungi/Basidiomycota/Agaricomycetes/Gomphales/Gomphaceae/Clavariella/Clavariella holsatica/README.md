@@ -1,5 +1,4 @@
-Clavariella holsatica Henn. SPECIES
-=======
+# Clavariella holsatica Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mallomonas pallida SPECIES
-=======
+# Mallomonas pallida SPECIES
 
 #### Status
 ACCEPTED

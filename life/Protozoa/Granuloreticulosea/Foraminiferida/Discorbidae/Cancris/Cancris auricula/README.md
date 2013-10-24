@@ -1,5 +1,4 @@
-Cancris auricula SPECIES
-=======
+# Cancris auricula SPECIES
 
 #### Status
 ACCEPTED

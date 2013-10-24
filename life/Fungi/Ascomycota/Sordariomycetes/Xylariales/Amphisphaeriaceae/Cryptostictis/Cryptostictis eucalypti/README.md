@@ -1,5 +1,4 @@
-Cryptostictis eucalypti Pat. SPECIES
-=======
+# Cryptostictis eucalypti Pat. SPECIES
 
 #### Status
 ACCEPTED

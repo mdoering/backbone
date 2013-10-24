@@ -1,5 +1,4 @@
-Pyrenocollema aquensis Croz. & Dughi SPECIES
-=======
+# Pyrenocollema aquensis Croz. & Dughi SPECIES
 
 #### Status
 ACCEPTED

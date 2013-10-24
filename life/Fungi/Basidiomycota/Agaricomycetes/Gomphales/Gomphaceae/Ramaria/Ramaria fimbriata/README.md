@@ -1,5 +1,4 @@
-Ramaria fimbriata Holmsk. SPECIES
-=======
+# Ramaria fimbriata Holmsk. SPECIES
 
 #### Status
 ACCEPTED

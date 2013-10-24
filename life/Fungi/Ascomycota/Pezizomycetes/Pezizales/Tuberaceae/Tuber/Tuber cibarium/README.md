@@ -1,5 +1,4 @@
-Tuber cibarium Bull. SPECIES
-=======
+# Tuber cibarium Bull. SPECIES
 
 #### Status
 ACCEPTED

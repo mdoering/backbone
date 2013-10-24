@@ -1,5 +1,4 @@
-Ceratium balechii Meave del Castillo, Okolodkov & Zamudio, 2003 SPECIES
-=======
+# Ceratium balechii Meave del Castillo, Okolodkov & Zamudio, 2003 SPECIES
 
 #### Status
 ACCEPTED

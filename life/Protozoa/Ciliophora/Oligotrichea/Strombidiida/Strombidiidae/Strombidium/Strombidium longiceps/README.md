@@ -1,5 +1,4 @@
-Strombidium longiceps SPECIES
-=======
+# Strombidium longiceps SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia solmsii Henn. SPECIES
-=======
+# Puccinia solmsii Henn. SPECIES
 
 #### Status
 ACCEPTED

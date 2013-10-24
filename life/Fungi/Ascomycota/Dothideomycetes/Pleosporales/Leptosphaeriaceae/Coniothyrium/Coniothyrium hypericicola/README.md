@@ -1,5 +1,4 @@
-Coniothyrium hypericicola Gucevic SPECIES
-=======
+# Coniothyrium hypericicola Gucevic SPECIES
 
 #### Status
 ACCEPTED

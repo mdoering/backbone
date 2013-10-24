@@ -1,5 +1,4 @@
-Hygrocybe tricoloroides Pegler SPECIES
-=======
+# Hygrocybe tricoloroides Pegler SPECIES
 
 #### Status
 ACCEPTED

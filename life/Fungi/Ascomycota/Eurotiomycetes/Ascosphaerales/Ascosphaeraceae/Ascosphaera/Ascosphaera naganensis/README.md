@@ -1,5 +1,4 @@
-Ascosphaera naganensis Skou, 1988 SPECIES
-=======
+# Ascosphaera naganensis Skou, 1988 SPECIES
 
 #### Status
 ACCEPTED

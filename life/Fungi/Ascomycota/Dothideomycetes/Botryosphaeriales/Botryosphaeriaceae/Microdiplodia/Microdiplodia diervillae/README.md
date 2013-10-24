@@ -1,5 +1,4 @@
-Microdiplodia diervillae Fairm. SPECIES
-=======
+# Microdiplodia diervillae Fairm. SPECIES
 
 #### Status
 ACCEPTED

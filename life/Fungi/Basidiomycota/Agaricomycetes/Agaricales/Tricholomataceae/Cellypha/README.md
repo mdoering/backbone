@@ -1,5 +1,4 @@
-Cellypha Donk GENUS
-=======
+# Cellypha Donk GENUS
 
 #### Status
 ACCEPTED

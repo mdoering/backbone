@@ -1,5 +1,4 @@
-Trypethelium cruentum var. subdecolor Nyl. VARIETY
-=======
+# Pyrenula cruenta (Mont.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Étud. Class. Lich. Brésil 2: 197 (1890)
 
 #### Original name
-Trypethelium cruentum var. subdecolor Nyl.
+Trypethelium cruentum Mont.
 
 ### Remarks
 null

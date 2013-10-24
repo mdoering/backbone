@@ -1,5 +1,4 @@
-Parmelia sordida (Pers.) Fr. SPECIES
-=======
+# Parmelia sordida (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

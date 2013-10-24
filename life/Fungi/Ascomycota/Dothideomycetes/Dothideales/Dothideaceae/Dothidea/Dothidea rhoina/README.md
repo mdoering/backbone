@@ -1,5 +1,4 @@
-Dothidea rhoina Schwein. SPECIES
-=======
+# Dothidea rhoina Schwein. SPECIES
 
 #### Status
 ACCEPTED

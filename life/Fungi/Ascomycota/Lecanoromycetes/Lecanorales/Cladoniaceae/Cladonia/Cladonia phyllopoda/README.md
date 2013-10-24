@@ -1,5 +1,4 @@
-Cladonia phyllopoda (Vain.) S. Stenroos SPECIES
-=======
+# Cladonia phyllopoda (Vain.) S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

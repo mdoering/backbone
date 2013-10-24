@@ -1,5 +1,4 @@
-Burkholderia ambifaria Coenye et al., 2001 SPECIES
-=======
+# Burkholderia ambifaria Coenye et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

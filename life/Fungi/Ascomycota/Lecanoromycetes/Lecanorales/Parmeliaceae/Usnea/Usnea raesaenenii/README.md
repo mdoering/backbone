@@ -1,17 +1,16 @@
-Usnea räsänenii Bystrek SPECIES
-=======
+# Usnea raesaenenii Bystrek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fragm. flor. geobot. (Kraków) 39(2): 674 (1994)
 
 #### Original name
-Usnea räsänenii Bystrek
+Usnea flexuosa Räsänen
 
 ### Remarks
 null

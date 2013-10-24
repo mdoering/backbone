@@ -1,5 +1,4 @@
-Parasterina pemphidioides (Cooke) Theiss. SPECIES
-=======
+# Parasterina pemphidioides (Cooke) Theiss. SPECIES
 
 #### Status
 ACCEPTED

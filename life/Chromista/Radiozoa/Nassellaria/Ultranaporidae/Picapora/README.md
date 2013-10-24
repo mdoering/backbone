@@ -1,5 +1,4 @@
-Picapora GENUS
-=======
+# Picapora GENUS
 
 #### Status
 ACCEPTED

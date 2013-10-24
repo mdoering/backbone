@@ -1,5 +1,4 @@
-Rhynchophoma crypta P. Karst. SPECIES
-=======
+# Rhynchophoma crypta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

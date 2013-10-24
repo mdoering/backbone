@@ -1,5 +1,4 @@
-Bovetia diospyri Onofri & Persiani SPECIES
-=======
+# Bovetia diospyri Onofri & Persiani SPECIES
 
 #### Status
 ACCEPTED

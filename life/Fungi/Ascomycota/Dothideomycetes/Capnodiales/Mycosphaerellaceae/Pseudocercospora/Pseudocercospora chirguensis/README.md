@@ -1,5 +1,4 @@
-Pseudocercospora chirguensis U. Braun, Crous & N. Pons SPECIES
-=======
+# Pseudocercospora chirguensis U. Braun, Crous & N. Pons SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Patellaria lecideola var. lecideola VARIETY
-=======
+# Patellaria lecideola SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Patellaria lecideola var. lecideola
+null
 
 ### Remarks
 null

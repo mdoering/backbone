@@ -1,5 +1,4 @@
-Xeromphalina testacea E. Horak, 1980 SPECIES
-=======
+# Xeromphalina testacea E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED

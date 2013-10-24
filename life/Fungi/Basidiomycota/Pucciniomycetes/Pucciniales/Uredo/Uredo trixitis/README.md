@@ -1,5 +1,4 @@
-Uredo trixitis F. Kern & Kellerm. SPECIES
-=======
+# Uredo trixitis F. Kern & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca queenslandica Kalb, S. Y. Kondr., Elix & Kärnefelt SPECIES
-=======
+# Caloplaca queenslandica Kalb, S. Y. Kondr., Elix & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

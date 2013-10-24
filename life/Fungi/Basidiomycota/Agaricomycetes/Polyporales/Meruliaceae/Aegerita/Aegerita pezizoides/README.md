@@ -1,5 +1,4 @@
-Aegerita pezizoides (Corda) Bonord. SPECIES
-=======
+# Aegerita pezizoides (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

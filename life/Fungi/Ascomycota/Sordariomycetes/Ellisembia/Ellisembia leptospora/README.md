@@ -1,14 +1,13 @@
-Helminthosporium leptosporum Sacc. & Roum., 1880 SPECIES
-=======
+# Ellisembia leptospora (Sacc. & Roum.) W.P. Wu, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Roumeguère, Revue mycol. , Toulouse 2(8): 191 (1880)
+in Wu & Zhuang, Fungal Diversity Res. Ser. (Hong Kong) 15: 140 (2005)
 
 #### Original name
 Helminthosporium leptosporum Sacc. & Roum., 1880

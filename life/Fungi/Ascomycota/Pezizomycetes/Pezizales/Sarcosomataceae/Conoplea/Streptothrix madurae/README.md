@@ -1,5 +1,4 @@
-Streptothrix madurae H. Vincent {?} SPECIES
-=======
+# Streptothrix madurae H. Vincent {?} SPECIES
 
 #### Status
 ACCEPTED

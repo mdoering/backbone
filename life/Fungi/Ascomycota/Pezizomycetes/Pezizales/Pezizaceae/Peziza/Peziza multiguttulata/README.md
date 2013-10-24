@@ -1,5 +1,4 @@
-Peziza multiguttulata A.K. Kar & K.P. Pal SPECIES
-=======
+# Peziza multiguttulata A.K. Kar & K.P. Pal SPECIES
 
 #### Status
 ACCEPTED

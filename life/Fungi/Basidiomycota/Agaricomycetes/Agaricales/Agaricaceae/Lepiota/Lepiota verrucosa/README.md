@@ -1,5 +1,4 @@
-Lepiota verrucosa Henn. SPECIES
-=======
+# Lepiota verrucosa Henn. SPECIES
 
 #### Status
 ACCEPTED

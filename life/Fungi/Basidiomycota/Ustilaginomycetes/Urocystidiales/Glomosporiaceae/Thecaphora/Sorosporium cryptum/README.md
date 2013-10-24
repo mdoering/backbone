@@ -1,5 +1,4 @@
-Sorosporium cryptum McAlpine SPECIES
-=======
+# Sorosporium cryptum McAlpine SPECIES
 
 #### Status
 ACCEPTED

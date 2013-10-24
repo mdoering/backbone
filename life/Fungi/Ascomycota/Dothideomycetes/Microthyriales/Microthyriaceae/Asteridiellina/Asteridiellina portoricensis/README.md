@@ -1,5 +1,4 @@
-Asteridiellina portoricensis (Speg.) Seaver & Toro SPECIES
-=======
+# Asteridiellina portoricensis (Speg.) Seaver & Toro SPECIES
 
 #### Status
 ACCEPTED

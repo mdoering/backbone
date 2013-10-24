@@ -1,5 +1,4 @@
-Epistylis biseriata Sommer, 1951 SPECIES
-=======
+# Epistylis biseriata Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

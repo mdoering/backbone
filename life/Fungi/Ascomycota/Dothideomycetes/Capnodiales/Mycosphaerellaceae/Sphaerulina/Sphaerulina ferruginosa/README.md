@@ -1,5 +1,4 @@
-Sphaerulina ferruginosa Chardón & Toro SPECIES
-=======
+# Sphaerulina ferruginosa Chardón & Toro SPECIES
 
 #### Status
 ACCEPTED

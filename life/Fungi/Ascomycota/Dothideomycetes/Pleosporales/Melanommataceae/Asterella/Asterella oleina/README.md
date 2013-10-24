@@ -1,5 +1,4 @@
-Asterella oleina (Cooke) Sacc. SPECIES
-=======
+# Asterella oleina (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

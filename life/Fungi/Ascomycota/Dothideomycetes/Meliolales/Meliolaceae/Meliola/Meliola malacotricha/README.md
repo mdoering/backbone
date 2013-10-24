@@ -1,5 +1,4 @@
-Meliola malacotricha Speg. SPECIES
-=======
+# Meliola malacotricha Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Trichopeltinites nilssonioptericola Krassilov SPECIES
-=======
+# Trichopeltinites nilssoniopteridicola Krassilov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rannemelovaya Flora Yuzhnogo Primor'ya (Moscow), i Ee Znachenie Dlya Stratigrafii 95 + pl. 3, figs 1, 2 (1967)
 
 #### Original name
-Trichopeltinites nilssonioptericola Krassilov
+Trichopeltinites nilssoniopteridicola Krassilov
 
 ### Remarks
 null

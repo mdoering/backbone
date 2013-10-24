@@ -1,5 +1,4 @@
-Phoma zuccagniae Speg. SPECIES
-=======
+# Phoma zuccagniae Speg. SPECIES
 
 #### Status
 ACCEPTED

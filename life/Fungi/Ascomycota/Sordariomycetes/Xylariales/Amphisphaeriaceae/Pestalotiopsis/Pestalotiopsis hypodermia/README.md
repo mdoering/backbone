@@ -1,5 +1,4 @@
-Pestalotiopsis hypodermia (Niessl) Steyaert SPECIES
-=======
+# Pestalotiopsis hypodermia (Niessl) Steyaert SPECIES
 
 #### Status
 ACCEPTED

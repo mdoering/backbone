@@ -1,5 +1,4 @@
-Melosira nivalis W. Smith SPECIES
-=======
+# Melosira nivalis W. Smith SPECIES
 
 #### Status
 ACCEPTED

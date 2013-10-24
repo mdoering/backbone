@@ -1,5 +1,4 @@
-Multiplicisphaeridium arbusculiferum SPECIES
-=======
+# Multiplicisphaeridium arbusculiferum SPECIES
 
 #### Status
 ACCEPTED

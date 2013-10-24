@@ -1,5 +1,4 @@
-Metasphaeria longispora Kirschst. SPECIES
-=======
+# Metasphaeria longispora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

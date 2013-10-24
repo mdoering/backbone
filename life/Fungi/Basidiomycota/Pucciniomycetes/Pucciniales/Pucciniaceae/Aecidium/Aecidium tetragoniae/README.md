@@ -1,5 +1,4 @@
-Aecidium tetragoniae Doidge SPECIES
-=======
+# Aecidium tetragoniae Doidge SPECIES
 
 #### Status
 ACCEPTED

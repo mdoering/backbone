@@ -1,5 +1,4 @@
-Tricholoma pardalotum Herink & Kotl. SPECIES
-=======
+# Tricholoma pardalotum Herink & Kotl. SPECIES
 
 #### Status
 ACCEPTED

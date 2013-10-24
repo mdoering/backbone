@@ -1,5 +1,4 @@
-Hysterographium elasticae Koord. SPECIES
-=======
+# Hysterographium elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

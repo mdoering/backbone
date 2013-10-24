@@ -1,5 +1,4 @@
-Phaeomarasmius setulosus Natarajan & Raman SPECIES
-=======
+# Phaeomarasmius setulosus Natarajan & Raman SPECIES
 
 #### Status
 ACCEPTED

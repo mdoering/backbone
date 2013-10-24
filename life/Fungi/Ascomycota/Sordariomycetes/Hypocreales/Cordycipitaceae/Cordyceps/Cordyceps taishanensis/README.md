@@ -1,5 +1,4 @@
-Cordyceps taishanensis B. Liu, P.G. Yuan & J.Z. Cao SPECIES
-=======
+# Cordyceps taishanensis B. Liu, P.G. Yuan & J.Z. Cao SPECIES
 
 #### Status
 ACCEPTED

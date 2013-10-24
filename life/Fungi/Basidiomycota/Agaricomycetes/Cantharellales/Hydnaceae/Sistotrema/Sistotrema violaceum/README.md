@@ -1,5 +1,4 @@
-Sistotrema violaceum Pers. SPECIES
-=======
+# Sistotrema violaceum Pers. SPECIES
 
 #### Status
 ACCEPTED

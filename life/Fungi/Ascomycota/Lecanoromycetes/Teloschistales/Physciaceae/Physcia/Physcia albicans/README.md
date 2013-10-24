@@ -1,5 +1,4 @@
-Physcia albicans f. albicans FORM
-=======
+# Physcia albicans (Pers.) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia albicans f. albicans
+Parmelia albicans Pers.
 
 ### Remarks
 null

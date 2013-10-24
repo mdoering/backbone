@@ -1,5 +1,4 @@
-Gomphillus ophiosporus Kalb & Vezda SPECIES
-=======
+# Gomphillus ophiosporus Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

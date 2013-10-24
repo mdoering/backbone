@@ -1,5 +1,4 @@
-Mollisia myocopron Speg. SPECIES
-=======
+# Mollisia myocopron Speg. SPECIES
 
 #### Status
 ACCEPTED

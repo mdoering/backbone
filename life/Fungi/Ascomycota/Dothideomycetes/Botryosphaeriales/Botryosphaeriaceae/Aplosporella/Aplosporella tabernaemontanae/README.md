@@ -1,5 +1,4 @@
-Aplosporella tabernaemontanae S. Ahmad SPECIES
-=======
+# Aplosporella tabernaemontanae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

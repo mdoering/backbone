@@ -1,5 +1,4 @@
-Hysterium clusiae Berk. & M.A. Curtis SPECIES
-=======
+# Hysterium clusiae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

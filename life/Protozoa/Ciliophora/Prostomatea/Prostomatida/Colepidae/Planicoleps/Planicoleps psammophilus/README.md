@@ -1,5 +1,4 @@
-Planicoleps psammophilus Dragesco & Dragesco-Kernéis, 1991 SPECIES
-=======
+# Planicoleps psammophilus Dragesco & Dragesco-Kernéis, 1991 SPECIES
 
 #### Status
 ACCEPTED

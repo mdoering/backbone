@@ -1,5 +1,4 @@
-Sphaeria fusariispora Mont. SPECIES
-=======
+# Sphaeria fusariispora Mont. SPECIES
 
 #### Status
 ACCEPTED

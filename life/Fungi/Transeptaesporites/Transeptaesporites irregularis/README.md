@@ -1,5 +1,4 @@
-Transeptaesporites irregularis V.S. Ediger SPECIES
-=======
+# Transeptaesporites irregularis V.S. Ediger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylosphaeria deviata Petr. SPECIES
-=======
+# Xylosphaeria deviata Petr. SPECIES
 
 #### Status
 ACCEPTED

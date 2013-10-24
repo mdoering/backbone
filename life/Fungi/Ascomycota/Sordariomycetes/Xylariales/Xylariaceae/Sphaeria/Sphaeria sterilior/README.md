@@ -1,5 +1,4 @@
-Sphaeria sterilior Schwein. SPECIES
-=======
+# Sphaeria sterilior Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Retisphaeridium indicum Venkatachala & Rawat, 1973 SPECIES
-=======
+# Retisphaeridium indicum Venkatachala & Rawat, 1973 SPECIES
 
 #### Status
 ACCEPTED

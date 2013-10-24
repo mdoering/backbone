@@ -1,5 +1,4 @@
-Drechslera pallida Porta-Puglia & Del Serrone, 1991 SPECIES
-=======
+# Drechslera pallida Porta-Puglia & Del Serrone, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota rubida Kauffman SPECIES
-=======
+# Lepiota rubida Kauffman SPECIES
 
 #### Status
 ACCEPTED

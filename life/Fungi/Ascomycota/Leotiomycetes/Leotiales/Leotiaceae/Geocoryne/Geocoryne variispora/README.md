@@ -1,5 +1,4 @@
-Geocoryne variispora Korf, 1978 SPECIES
-=======
+# Geocoryne variispora Korf, 1978 SPECIES
 
 #### Status
 ACCEPTED

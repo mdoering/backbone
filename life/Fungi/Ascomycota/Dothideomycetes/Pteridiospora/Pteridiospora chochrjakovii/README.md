@@ -1,5 +1,4 @@
-Pteridiospora chochrjakovii Hüseyin SPECIES
-=======
+# Pteridiospora chochrjakovii Hüseyin SPECIES
 
 #### Status
 ACCEPTED

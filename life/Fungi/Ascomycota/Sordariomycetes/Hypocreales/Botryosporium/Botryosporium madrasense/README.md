@@ -1,5 +1,4 @@
-Botryosporium madrasense Raghuk. SPECIES
-=======
+# Botryosporium madrasense Raghuk. SPECIES
 
 #### Status
 ACCEPTED

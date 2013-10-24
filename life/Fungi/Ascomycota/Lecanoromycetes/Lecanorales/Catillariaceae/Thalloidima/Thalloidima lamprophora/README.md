@@ -1,5 +1,4 @@
-Thalloidima lamprophora (Körb.) Müll. Arg. SPECIES
-=======
+# Thalloidima lamprophora (Körb.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

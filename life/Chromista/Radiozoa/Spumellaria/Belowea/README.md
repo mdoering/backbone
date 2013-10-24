@@ -1,5 +1,4 @@
-Belowea Won, 1983 GENUS
-=======
+# Belowea Won, 1983 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora fabiformis A.E. Bell & Mahoney, 2005 SPECIES
-=======
+# Podospora fabiformis A.E. Bell & Mahoney, 2005 SPECIES
 
 #### Status
 ACCEPTED

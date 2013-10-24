@@ -1,5 +1,4 @@
-Aleurodiscus corneus Lloyd SPECIES
-=======
+# Aleurodiscus corneus Lloyd SPECIES
 
 #### Status
 ACCEPTED

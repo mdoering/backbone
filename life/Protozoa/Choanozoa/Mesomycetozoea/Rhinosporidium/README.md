@@ -1,5 +1,4 @@
-Rhinosporidium Minchin & Fantham GENUS
-=======
+# Rhinosporidium Minchin & Fantham GENUS
 
 #### Status
 ACCEPTED

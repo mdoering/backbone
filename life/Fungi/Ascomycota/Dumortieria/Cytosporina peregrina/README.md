@@ -1,5 +1,4 @@
-Cytosporina peregrina Speg. SPECIES
-=======
+# Cytosporina peregrina Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rutilaria craspedostigma N. V. Anissimowa SPECIES
-=======
+# Rutilaria craspedostigma N. V. Anissimowa SPECIES
 
 #### Status
 ACCEPTED

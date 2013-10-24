@@ -1,5 +1,4 @@
-Blepharisma brevifiliformis Isquith, 1966 SPECIES
-=======
+# Blepharisma brevifiliformis Isquith, 1966 SPECIES
 
 #### Status
 ACCEPTED

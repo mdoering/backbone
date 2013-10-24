@@ -1,5 +1,4 @@
-Ramularia bastardiae Petr. & Cif. SPECIES
-=======
+# Ramularia bastardiae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

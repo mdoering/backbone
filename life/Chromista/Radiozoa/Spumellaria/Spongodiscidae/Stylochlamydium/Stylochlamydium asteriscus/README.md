@@ -1,5 +1,4 @@
-Stylochlamydium asteriscus Haeckel, 1887 SPECIES
-=======
+# Stylochlamydium asteriscus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entonema oligosporum SPECIES
-=======
+# Entonema oligosporum SPECIES
 
 #### Status
 ACCEPTED

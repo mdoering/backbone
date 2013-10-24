@@ -1,5 +1,4 @@
-Hexalasparium Haeckel, 1887 GENUS
-=======
+# Hexalasparium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

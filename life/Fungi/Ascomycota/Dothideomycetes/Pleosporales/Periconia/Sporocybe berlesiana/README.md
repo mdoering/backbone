@@ -1,5 +1,4 @@
-Sporocybe berlesiana Sacc. & Roum. SPECIES
-=======
+# Sporocybe berlesiana Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

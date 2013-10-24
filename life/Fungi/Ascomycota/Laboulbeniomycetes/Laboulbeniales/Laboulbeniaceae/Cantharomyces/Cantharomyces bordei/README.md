@@ -1,5 +1,4 @@
-Cantharomyces bordei F. Picard SPECIES
-=======
+# Cantharomyces bordei F. Picard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermium rubicundum (Durieu & Mont.) Maire SPECIES
-=======
+# Lophodermium rubicundum (Durieu & Mont.) Maire SPECIES
 
 #### Status
 ACCEPTED

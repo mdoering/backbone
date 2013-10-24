@@ -1,5 +1,4 @@
-Pareodinia aphelia Cookson & Eisenack SPECIES
-=======
+# Pareodinia aphelia Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

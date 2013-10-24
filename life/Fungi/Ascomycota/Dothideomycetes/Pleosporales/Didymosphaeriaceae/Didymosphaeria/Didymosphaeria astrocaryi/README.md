@@ -1,5 +1,4 @@
-Didymosphaeria astrocaryi Höhn. SPECIES
-=======
+# Didymosphaeria astrocaryi Höhn. SPECIES
 
 #### Status
 ACCEPTED

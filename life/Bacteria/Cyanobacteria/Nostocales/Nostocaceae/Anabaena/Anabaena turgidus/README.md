@@ -1,5 +1,4 @@
-Anabaena turgidus (Kutz) Nageli SPECIES
-=======
+# Anabaena turgidus (Kutz) Nageli SPECIES
 
 #### Status
 ACCEPTED

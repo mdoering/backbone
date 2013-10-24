@@ -1,5 +1,4 @@
-Tetracrium Henn. GENUS
-=======
+# Tetracrium Henn. GENUS
 
 #### Status
 ACCEPTED

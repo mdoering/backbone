@@ -1,5 +1,4 @@
-Pseudodiscosia antirrhini (Wakef.) Buddin & Wakef. SPECIES
-=======
+# Pseudodiscosia antirrhini (Wakef.) Buddin & Wakef. SPECIES
 
 #### Status
 ACCEPTED

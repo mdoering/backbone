@@ -1,5 +1,4 @@
-Septoria calophacae Vasyag. SPECIES
-=======
+# Septoria calophacae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

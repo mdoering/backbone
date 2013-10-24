@@ -1,5 +1,4 @@
-Achroomyces pachysterigmata P. Roberts, 1997 SPECIES
-=======
+# Achroomyces pachysterigmata P. Roberts, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmeliella parvula P. M. Jørg. SPECIES
-=======
+# Parmeliella parvula P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

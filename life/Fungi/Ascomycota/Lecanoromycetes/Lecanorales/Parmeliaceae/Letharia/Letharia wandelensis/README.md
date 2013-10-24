@@ -1,5 +1,4 @@
-Letharia wandelensis Hue SPECIES
-=======
+# Letharia wandelensis Hue SPECIES
 
 #### Status
 ACCEPTED

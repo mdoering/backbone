@@ -1,5 +1,4 @@
-Omphalina subalbida Contu SPECIES
-=======
+# Omphalina subalbida Contu SPECIES
 
 #### Status
 ACCEPTED

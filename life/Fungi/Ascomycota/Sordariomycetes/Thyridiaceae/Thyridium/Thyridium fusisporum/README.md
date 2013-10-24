@@ -1,5 +1,4 @@
-Thyridium fusisporum Petr. SPECIES
-=======
+# Thyridium fusisporum Petr. SPECIES
 
 #### Status
 ACCEPTED

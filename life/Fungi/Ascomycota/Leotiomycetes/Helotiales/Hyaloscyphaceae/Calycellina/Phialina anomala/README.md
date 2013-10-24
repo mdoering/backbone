@@ -1,5 +1,4 @@
-Phialina anomala Raitv. & Schneller SPECIES
-=======
+# Phialina anomala Raitv. & Schneller SPECIES
 
 #### Status
 ACCEPTED

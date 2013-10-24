@@ -1,5 +1,4 @@
-Heterococcus virginis Pitschmann SPECIES
-=======
+# Heterococcus virginis Pitschmann SPECIES
 
 #### Status
 ACCEPTED

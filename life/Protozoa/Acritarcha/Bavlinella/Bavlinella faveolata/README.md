@@ -1,5 +1,4 @@
-Bavlinella faveolata Shepeleva, 1963 SPECIES
-=======
+# Bavlinella faveolata Shepeleva, 1963 SPECIES
 
 #### Status
 ACCEPTED

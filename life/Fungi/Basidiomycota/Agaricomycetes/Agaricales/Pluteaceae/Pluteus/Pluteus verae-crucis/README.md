@@ -1,5 +1,4 @@
-Pluteus verae-crucis Cifuentes & Guzmán SPECIES
-=======
+# Pluteus verae-crucis Cifuentes & Guzmán SPECIES
 
 #### Status
 ACCEPTED

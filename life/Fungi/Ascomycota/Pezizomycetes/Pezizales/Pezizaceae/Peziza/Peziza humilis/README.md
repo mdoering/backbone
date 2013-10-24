@@ -1,5 +1,4 @@
-Peziza humilis Desm. SPECIES
-=======
+# Peziza humilis Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Citrobacter koseri Frederiksen, 1970 (Approved Lists, 1980) SPECIES
-=======
+# Citrobacter koseri Frederiksen, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

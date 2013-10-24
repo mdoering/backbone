@@ -1,5 +1,4 @@
-Clohiesia corticola K.D. Hyde, 1995 SPECIES
-=======
+# Clohiesia corticola K.D. Hyde, 1995 SPECIES
 
 #### Status
 ACCEPTED

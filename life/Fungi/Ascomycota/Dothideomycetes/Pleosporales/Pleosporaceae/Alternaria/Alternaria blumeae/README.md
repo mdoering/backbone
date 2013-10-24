@@ -1,5 +1,4 @@
-Alternaria blumeae E.G. Simmons & Sontirat SPECIES
-=======
+# Alternaria blumeae E.G. Simmons & Sontirat SPECIES
 
 #### Status
 ACCEPTED

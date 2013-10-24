@@ -1,5 +1,4 @@
-Botryozyma americana J. Kerrigan, M.T. Sm. & J.D. Rogers, 1999 SPECIES
-=======
+# Botryozyma americana J. Kerrigan, M.T. Sm. & J.D. Rogers, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora callicarpae (Cooke) Y.L. Guo & W.X. Zhao SPECIES
-=======
+# Pseudocercospora callicarpae (Cooke) Y.L. Guo & W.X. Zhao SPECIES
 
 #### Status
 ACCEPTED

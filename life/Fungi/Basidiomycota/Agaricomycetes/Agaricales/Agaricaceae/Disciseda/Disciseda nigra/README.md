@@ -1,5 +1,4 @@
-Disciseda nigra Dörfelt & H. Nowak, 2002 SPECIES
-=======
+# Disciseda nigra Dörfelt & H. Nowak, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brightwellia coronata SPECIES
-=======
+# Brightwellia coronata SPECIES
 
 #### Status
 ACCEPTED

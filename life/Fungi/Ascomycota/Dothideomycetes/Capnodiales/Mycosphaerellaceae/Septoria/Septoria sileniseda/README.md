@@ -1,5 +1,4 @@
-Septoria sileniseda Picb. SPECIES
-=======
+# Septoria sileniseda Picb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia squamulosa (Hesler) Largent SPECIES
-=======
+# Leptonia squamulosa (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

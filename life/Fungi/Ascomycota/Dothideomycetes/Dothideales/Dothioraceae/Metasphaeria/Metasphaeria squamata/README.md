@@ -1,5 +1,4 @@
-Metasphaeria squamata (Cooke & Ellis) Sacc. SPECIES
-=======
+# Metasphaeria squamata (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

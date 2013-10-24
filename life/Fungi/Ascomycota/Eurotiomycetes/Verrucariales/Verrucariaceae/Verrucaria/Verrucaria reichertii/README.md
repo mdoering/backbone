@@ -1,5 +1,4 @@
-Verrucaria reichertii Servít SPECIES
-=======
+# Verrucaria reichertii Servít SPECIES
 
 #### Status
 ACCEPTED

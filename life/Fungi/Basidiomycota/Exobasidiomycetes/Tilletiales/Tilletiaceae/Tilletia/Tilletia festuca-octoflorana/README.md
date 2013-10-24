@@ -1,5 +1,4 @@
-Tilletia festuca-octoflorana Zundel SPECIES
-=======
+# Tilletia festuca-octoflorana Zundel SPECIES
 
 #### Status
 ACCEPTED

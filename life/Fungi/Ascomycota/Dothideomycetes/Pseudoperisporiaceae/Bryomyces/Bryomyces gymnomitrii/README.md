@@ -1,5 +1,4 @@
-Bryomyces gymnomitrii Döbbeler, 1978 SPECIES
-=======
+# Bryomyces gymnomitrii Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED

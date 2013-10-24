@@ -1,5 +1,4 @@
-Macrosporium graminum Cooke SPECIES
-=======
+# Macrosporium graminum Cooke SPECIES
 
 #### Status
 ACCEPTED

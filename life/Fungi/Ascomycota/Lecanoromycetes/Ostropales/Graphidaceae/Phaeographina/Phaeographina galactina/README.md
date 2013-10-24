@@ -1,14 +1,13 @@
-Phaeographina galactinum (Leight.) Patw. & Makhija SPECIES
-=======
+# Phaeographina galactina (Leight.) Patw. & Makhija SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bryologist 81(2): 326 (1978)
 
 #### Original name
 Platygrapha galactina Leight.

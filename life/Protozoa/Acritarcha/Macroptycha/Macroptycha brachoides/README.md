@@ -1,5 +1,4 @@
-Macroptycha brachoides Hu Yunxu, 1986 SPECIES
-=======
+# Macroptycha brachoides Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

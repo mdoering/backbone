@@ -1,5 +1,4 @@
-Gnomonia caryae var. caryae VARIETY
-=======
+# Gnomonia caryae F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 10: 491 (1912)
 
 #### Original name
-Gnomonia caryae var. caryae
+Gnomonia caryae F.A. Wolf
 
 ### Remarks
 null

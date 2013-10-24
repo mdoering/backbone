@@ -1,5 +1,4 @@
-Ellipsagelosphaera reinhardtii (Rood et al., 1971) Noël, 1973 SPECIES
-=======
+# Ellipsagelosphaera reinhardtii (Rood et al., 1971) Noël, 1973 SPECIES
 
 #### Status
 DOUBTFUL

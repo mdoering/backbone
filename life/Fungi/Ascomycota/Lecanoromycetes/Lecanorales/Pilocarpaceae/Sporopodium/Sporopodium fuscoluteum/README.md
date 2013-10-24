@@ -1,5 +1,4 @@
-Sporopodium fuscoluteum var. fuscoluteum VARIETY
-=======
+# Sporopodium fuscoluteum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sporopodium fuscoluteum var. fuscoluteum
+null
 
 ### Remarks
 null

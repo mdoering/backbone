@@ -1,5 +1,4 @@
-Verrucaria diabasica Servít SPECIES
-=======
+# Verrucaria diabasica Servít SPECIES
 
 #### Status
 ACCEPTED

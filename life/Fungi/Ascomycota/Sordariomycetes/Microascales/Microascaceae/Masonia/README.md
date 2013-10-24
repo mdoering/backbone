@@ -1,5 +1,4 @@
-Masonia GENUS
-=======
+# Masonia GENUS
 
 #### Status
 ACCEPTED

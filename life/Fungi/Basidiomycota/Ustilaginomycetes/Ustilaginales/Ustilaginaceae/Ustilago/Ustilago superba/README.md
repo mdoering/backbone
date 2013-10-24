@@ -1,5 +1,4 @@
-Ustilago superba Liro SPECIES
-=======
+# Ustilago superba Liro SPECIES
 
 #### Status
 ACCEPTED

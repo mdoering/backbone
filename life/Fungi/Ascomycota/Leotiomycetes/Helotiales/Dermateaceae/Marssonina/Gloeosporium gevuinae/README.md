@@ -1,17 +1,16 @@
-Gloeosporium guevinae Speg. SPECIES
-=======
+# Gloeosporium gevuinae Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revista Chilena Hist. Nat. 27: 59 (1923)
 
 #### Original name
-Gloeosporium guevinae Speg.
+Gloeosporium gevuinae Speg.
 
 ### Remarks
 null

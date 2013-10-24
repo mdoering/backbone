@@ -1,5 +1,4 @@
-Rotalispora GENUS
-=======
+# Rotalispora GENUS
 
 #### Status
 ACCEPTED

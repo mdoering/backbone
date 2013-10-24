@@ -1,5 +1,4 @@
-Alectoria gracilis (Pers.) Hue SPECIES
-=======
+# Alectoria gracilis (Pers.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora kalmiarum (Schwein.) Ellis & Everh. SPECIES
-=======
+# Rhabdospora kalmiarum (Schwein.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Milleromyces rhyniensis T.N. Taylor, Hass & W. Remy SPECIES
-=======
+# Milleromyces rhyniensis T.N. Taylor, Hass & W. Remy SPECIES
 
 #### Status
 ACCEPTED

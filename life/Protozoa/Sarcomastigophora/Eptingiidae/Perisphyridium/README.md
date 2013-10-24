@@ -1,5 +1,4 @@
-Perisphyridium GENUS
-=======
+# Perisphyridium GENUS
 
 #### Status
 ACCEPTED

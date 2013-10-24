@@ -1,5 +1,4 @@
-Galerina aberrans A.H. Sm. & Singer SPECIES
-=======
+# Galerina aberrans A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

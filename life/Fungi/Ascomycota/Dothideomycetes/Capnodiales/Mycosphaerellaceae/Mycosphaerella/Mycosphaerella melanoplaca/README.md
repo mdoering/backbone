@@ -1,8 +1,7 @@
-Sphaerella melanoplaca (Desm.) Auersw., 1869 SPECIES
-=======
+# Mycosphaerella melanoplaca (Desm.) Petrak, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

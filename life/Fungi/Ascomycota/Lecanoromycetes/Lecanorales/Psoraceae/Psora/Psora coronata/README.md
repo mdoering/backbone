@@ -1,5 +1,4 @@
-Psora coronata (Hoffm.) Hoffm. SPECIES
-=======
+# Psora coronata (Hoffm.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

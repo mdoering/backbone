@@ -1,5 +1,4 @@
-Conicomyces contortus Illman & G.P. White SPECIES
-=======
+# Conicomyces contortus Illman & G.P. White SPECIES
 
 #### Status
 ACCEPTED

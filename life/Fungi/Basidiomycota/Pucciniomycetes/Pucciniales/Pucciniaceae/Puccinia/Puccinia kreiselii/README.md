@@ -1,5 +1,4 @@
-Puccinia kreiselii M. Scholler SPECIES
-=======
+# Puccinia kreiselii M. Scholler SPECIES
 
 #### Status
 ACCEPTED

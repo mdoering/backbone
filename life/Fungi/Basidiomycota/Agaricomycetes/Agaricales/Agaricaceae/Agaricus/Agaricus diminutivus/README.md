@@ -1,5 +1,4 @@
-Agaricus diminutivus Peck SPECIES
-=======
+# Agaricus diminutivus Peck SPECIES
 
 #### Status
 ACCEPTED

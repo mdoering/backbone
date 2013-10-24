@@ -1,5 +1,4 @@
-Lecanora subhispidula (Nyl.) Stizenb. SPECIES
-=======
+# Lecanora subhispidula (Nyl.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phylacteria varians Pat. SPECIES
-=======
+# Phylacteria varians Pat. SPECIES
 
 #### Status
 ACCEPTED

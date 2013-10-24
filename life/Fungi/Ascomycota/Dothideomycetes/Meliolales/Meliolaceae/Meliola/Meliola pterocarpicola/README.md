@@ -1,5 +1,4 @@
-Meliola pterocarpicola Hansf. & Deighton SPECIES
-=======
+# Meliola pterocarpicola Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

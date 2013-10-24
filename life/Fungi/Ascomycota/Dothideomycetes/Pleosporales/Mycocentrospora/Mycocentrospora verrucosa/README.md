@@ -1,5 +1,4 @@
-Mycocentrospora verrucosa Pollack & Ellett SPECIES
-=======
+# Mycocentrospora verrucosa Pollack & Ellett SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peyritschiella minima Thaxt. SPECIES
-=======
+# Peyritschiella minima Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mariniamonas B. Skvortzov, 1969 GENUS
-=======
+# Mariniamonas B. Skvortzov, 1969 GENUS
 
 #### Status
 ACCEPTED

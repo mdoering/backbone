@@ -1,5 +1,4 @@
-Mycosylva reticulata Samson & Hintikka, 1974 SPECIES
-=======
+# Mycosylva reticulata Samson & Hintikka, 1974 SPECIES
 
 #### Status
 ACCEPTED

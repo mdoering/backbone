@@ -1,5 +1,4 @@
-Bacillus pseudomycoides Nakamura, 1998 SPECIES
-=======
+# Bacillus pseudomycoides Nakamura, 1998 SPECIES
 
 #### Status
 ACCEPTED

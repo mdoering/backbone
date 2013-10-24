@@ -1,5 +1,4 @@
-Catenuloplanes indicus Tamura et al., 1995 SPECIES
-=======
+# Catenuloplanes indicus Tamura et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

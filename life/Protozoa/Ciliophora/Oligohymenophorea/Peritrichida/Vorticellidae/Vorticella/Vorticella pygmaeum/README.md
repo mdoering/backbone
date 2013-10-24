@@ -1,5 +1,4 @@
-Vorticella pygmaeum SPECIES
-=======
+# Vorticella pygmaeum SPECIES
 
 #### Status
 ACCEPTED

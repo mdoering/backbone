@@ -1,5 +1,4 @@
-Pelagicoccus croceus Yoon, Oku, Matsuda, Kasai & Yokota, 2007 SPECIES
-=======
+# Pelagicoccus croceus Yoon, Oku, Matsuda, Kasai & Yokota, 2007 SPECIES
 
 #### Status
 ACCEPTED

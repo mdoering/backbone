@@ -1,8 +1,7 @@
-Pseudoprorodon ellipticus Kahl, 1930 SPECIES
-=======
+# Prorodon ellipticus (Kahl, 1930) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

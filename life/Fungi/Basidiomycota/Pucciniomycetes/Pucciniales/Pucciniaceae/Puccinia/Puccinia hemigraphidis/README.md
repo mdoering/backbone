@@ -1,5 +1,4 @@
-Puccinia hemigraphidis Arthur & Cummins SPECIES
-=======
+# Puccinia hemigraphidis Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

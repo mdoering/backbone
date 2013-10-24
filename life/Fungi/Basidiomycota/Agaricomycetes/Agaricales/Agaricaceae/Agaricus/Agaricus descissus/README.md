@@ -1,5 +1,4 @@
-Agaricus descissus Fr. SPECIES
-=======
+# Agaricus descissus Fr. SPECIES
 
 #### Status
 ACCEPTED

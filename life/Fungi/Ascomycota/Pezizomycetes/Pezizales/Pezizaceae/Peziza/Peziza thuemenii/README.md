@@ -1,5 +1,4 @@
-Peziza thuemenii P. Karst. SPECIES
-=======
+# Peziza thuemenii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

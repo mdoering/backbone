@@ -1,5 +1,4 @@
-Cochlodinium citron Kofoid & Swezy SPECIES
-=======
+# Cochlodinium citron Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

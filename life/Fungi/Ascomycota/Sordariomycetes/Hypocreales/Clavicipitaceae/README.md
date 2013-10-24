@@ -1,5 +1,4 @@
-Clavicipitaceae O.E. Erikss. FAMILY
-=======
+# Clavicipitaceae O.E. Erikss. FAMILY
 
 #### Status
 ACCEPTED

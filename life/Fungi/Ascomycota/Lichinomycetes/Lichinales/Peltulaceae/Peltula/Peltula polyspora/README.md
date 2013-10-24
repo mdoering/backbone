@@ -1,5 +1,4 @@
-Peltula polyspora (Tuck.) Wetmore SPECIES
-=======
+# Peltula polyspora (Tuck.) Wetmore SPECIES
 
 #### Status
 ACCEPTED

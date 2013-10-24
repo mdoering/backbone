@@ -1,5 +1,4 @@
-Sphaeria semitecta Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria semitecta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trochammina intermedia Rhumbler, 1938 SPECIES
-=======
+# Trochammina intermedia Rhumbler, 1938 SPECIES
 
 #### Status
 ACCEPTED

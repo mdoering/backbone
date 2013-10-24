@@ -1,5 +1,4 @@
-Graphis poitiaei Nyl. SPECIES
-=======
+# Graphis poitiaei Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerotheca lappulae T.Z. Liu & Z.J. Xu SPECIES
-=======
+# Sphaerotheca lappulae T.Z. Liu & Z.J. Xu SPECIES
 
 #### Status
 ACCEPTED

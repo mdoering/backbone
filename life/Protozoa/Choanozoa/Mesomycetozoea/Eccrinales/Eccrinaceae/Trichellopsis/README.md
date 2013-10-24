@@ -1,5 +1,4 @@
-Trichellopsis GENUS
-=======
+# Trichellopsis GENUS
 
 #### Status
 ACCEPTED

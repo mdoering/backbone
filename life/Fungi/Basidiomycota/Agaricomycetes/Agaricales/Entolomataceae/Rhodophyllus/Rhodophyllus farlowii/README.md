@@ -1,5 +1,4 @@
-Rhodophyllus farlowii Singer SPECIES
-=======
+# Rhodophyllus farlowii Singer SPECIES
 
 #### Status
 ACCEPTED

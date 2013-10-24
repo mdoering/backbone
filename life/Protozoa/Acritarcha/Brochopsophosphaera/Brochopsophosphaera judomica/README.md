@@ -1,5 +1,4 @@
-Brochopsophosphaera judomica Pykhova, 1969 SPECIES
-=======
+# Brochopsophosphaera judomica Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

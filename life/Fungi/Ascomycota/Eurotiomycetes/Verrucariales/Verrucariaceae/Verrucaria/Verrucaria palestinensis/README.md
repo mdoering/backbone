@@ -1,5 +1,4 @@
-Verrucaria palestinensis Servít SPECIES
-=======
+# Verrucaria palestinensis Servít SPECIES
 
 #### Status
 ACCEPTED

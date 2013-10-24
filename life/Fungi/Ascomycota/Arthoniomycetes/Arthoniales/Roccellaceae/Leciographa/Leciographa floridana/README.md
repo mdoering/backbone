@@ -1,5 +1,4 @@
-Leciographa floridana E.K. Cash SPECIES
-=======
+# Leciographa floridana E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

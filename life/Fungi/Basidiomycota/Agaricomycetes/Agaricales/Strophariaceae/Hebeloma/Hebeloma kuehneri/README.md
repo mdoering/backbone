@@ -1,17 +1,16 @@
-Hebeloma kuhneri Bruchet SPECIES
-=======
+# Hebeloma kuehneri Bruchet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. mens. Soc. linn. Lyon 39(6[Suppl. ]): 21 (1970)
 
 #### Original name
-Hebeloma kuhneri Bruchet
+Hebeloma kuehneri Bruchet
 
 ### Remarks
 null

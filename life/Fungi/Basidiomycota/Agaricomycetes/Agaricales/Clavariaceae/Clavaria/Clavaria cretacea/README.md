@@ -1,5 +1,4 @@
-Clavaria cretacea Coker SPECIES
-=======
+# Clavaria cretacea Coker SPECIES
 
 #### Status
 ACCEPTED

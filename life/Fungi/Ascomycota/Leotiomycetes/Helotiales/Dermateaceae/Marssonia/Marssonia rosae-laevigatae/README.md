@@ -1,5 +1,4 @@
-Marssonia rosae-laevigatae Sawada SPECIES
-=======
+# Marssonia rosae-laevigatae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia canobolasensis Elix SPECIES
-=======
+# Xanthoparmelia canobolasensis Elix SPECIES
 
 #### Status
 ACCEPTED

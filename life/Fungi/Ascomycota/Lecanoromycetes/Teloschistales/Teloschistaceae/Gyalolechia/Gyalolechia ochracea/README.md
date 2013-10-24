@@ -1,5 +1,4 @@
-Gyalolechia ochracea (Schaer.) Syd. SPECIES
-=======
+# Gyalolechia ochracea (Schaer.) Syd. SPECIES
 
 #### Status
 ACCEPTED

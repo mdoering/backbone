@@ -1,5 +1,4 @@
-Bacidia rhodocarpa C. Knight SPECIES
-=======
+# Bacidia rhodocarpa C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina intricata (Eschw.) Müll. Arg. SPECIES
-=======
+# Graphina intricata (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

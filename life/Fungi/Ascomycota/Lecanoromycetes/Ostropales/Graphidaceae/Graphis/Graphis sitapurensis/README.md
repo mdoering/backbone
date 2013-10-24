@@ -1,5 +1,4 @@
-Graphis sitapurensis Makhija & Adaw. SPECIES
-=======
+# Graphis sitapurensis Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius polyzonus Velen. SPECIES
-=======
+# Lactarius polyzonus Velen. SPECIES
 
 #### Status
 ACCEPTED

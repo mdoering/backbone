@@ -1,5 +1,4 @@
-Thaumasiomyces Thaxt. GENUS
-=======
+# Thaumasiomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

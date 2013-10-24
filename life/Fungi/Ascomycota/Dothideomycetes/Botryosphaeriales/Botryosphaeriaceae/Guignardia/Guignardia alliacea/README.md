@@ -1,5 +1,4 @@
-Guignardia alliacea Motohashi, Jun. Nishikawa & C. Nakash., 2008 SPECIES
-=======
+# Guignardia alliacea Motohashi, Jun. Nishikawa & C. Nakash., 2008 SPECIES
 
 #### Status
 ACCEPTED

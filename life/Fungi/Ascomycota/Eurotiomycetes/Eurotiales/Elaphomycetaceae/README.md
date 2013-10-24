@@ -1,5 +1,4 @@
-Elaphomycetaceae Tul. ex Paol. FAMILY
-=======
+# Elaphomycetaceae Tul. ex Paol. FAMILY
 
 #### Status
 ACCEPTED

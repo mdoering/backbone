@@ -1,5 +1,4 @@
-Cercospora premnae Castell. SPECIES
-=======
+# Cercospora premnae Castell. SPECIES
 
 #### Status
 ACCEPTED

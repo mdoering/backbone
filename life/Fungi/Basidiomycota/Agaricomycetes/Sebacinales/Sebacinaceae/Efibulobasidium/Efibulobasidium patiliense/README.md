@@ -1,17 +1,16 @@
-Efibulobasidium patiliensis Maham., Kund. & M.S. Patil SPECIES
-=======
+# Efibulobasidium patiliense Maham., Kund. & M.S. Patil, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Indian Phytopath. 55(4): 466 (2002)
 
 #### Original name
-Efibulobasidium patiliensis Maham., Kund. & M.S. Patil
+Efibulobasidium patiliense Maham., Kund. & M.S. Patil, 2002
 
 ### Remarks
 null

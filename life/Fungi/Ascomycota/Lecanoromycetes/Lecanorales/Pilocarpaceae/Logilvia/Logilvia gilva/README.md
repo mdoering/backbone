@@ -1,14 +1,13 @@
-Lopadium gilvum Müll. Arg. SPECIES
-=======
+# Logilvia gilva (Müll. Arg.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenes Epiphylli Novi 15 (1890)
+Folia geobot. phytotax. 21(2): 216 (1986)
 
 #### Original name
 Lopadium gilvum Müll. Arg.

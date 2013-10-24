@@ -1,5 +1,4 @@
-Mitrula lutea Mont. SPECIES
-=======
+# Mitrula lutea Mont. SPECIES
 
 #### Status
 ACCEPTED

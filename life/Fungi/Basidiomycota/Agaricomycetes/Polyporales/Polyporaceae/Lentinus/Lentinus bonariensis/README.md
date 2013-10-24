@@ -1,5 +1,4 @@
-Lentinus bonariensis Speg. SPECIES
-=======
+# Lentinus bonariensis Speg. SPECIES
 
 #### Status
 ACCEPTED

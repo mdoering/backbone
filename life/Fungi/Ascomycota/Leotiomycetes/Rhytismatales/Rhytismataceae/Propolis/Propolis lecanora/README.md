@@ -1,5 +1,4 @@
-Propolis lecanora (Kunze & J.C. Schmidt) De Not., 1863 SPECIES
-=======
+# Propolis lecanora (Kunze & J.C. Schmidt) De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED

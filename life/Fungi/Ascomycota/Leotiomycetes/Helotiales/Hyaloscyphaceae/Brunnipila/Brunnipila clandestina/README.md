@@ -1,14 +1,13 @@
-Dasyscyphus clandestinus (Bull.) Fuckel, 1870 SPECIES
-=======
+# Brunnipila clandestina (Bull.) Baral, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 305 (1870)
+in Baral & Krieglsteiner, Beih. Z. Mykol. 6: 49 (1985)
 
 #### Original name
 null

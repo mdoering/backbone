@@ -1,5 +1,4 @@
-Ascochyta dentariae I.E. Brezhnev SPECIES
-=======
+# Ascochyta dentariae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

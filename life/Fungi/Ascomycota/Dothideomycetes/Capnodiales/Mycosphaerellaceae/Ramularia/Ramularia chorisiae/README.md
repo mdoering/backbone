@@ -1,5 +1,4 @@
-Ramularia chorisiae Viégas SPECIES
-=======
+# Ramularia chorisiae Viégas SPECIES
 
 #### Status
 ACCEPTED

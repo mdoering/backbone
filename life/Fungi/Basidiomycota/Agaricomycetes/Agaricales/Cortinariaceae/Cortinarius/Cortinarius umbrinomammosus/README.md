@@ -1,5 +1,4 @@
-Cortinarius umbrinomammosus Rob. Henry ex Rob. Henry SPECIES
-=======
+# Cortinarius umbrinomammosus Rob. Henry ex Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

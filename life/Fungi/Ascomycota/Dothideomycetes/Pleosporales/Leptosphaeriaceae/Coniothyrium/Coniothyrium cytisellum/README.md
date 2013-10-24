@@ -1,5 +1,4 @@
-Coniothyrium cytisellum (Pass. & Thüm.) Sacc. SPECIES
-=======
+# Coniothyrium cytisellum (Pass. & Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physospora ferruginea (Fr.) Fr. SPECIES
-=======
+# Physospora ferruginea (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

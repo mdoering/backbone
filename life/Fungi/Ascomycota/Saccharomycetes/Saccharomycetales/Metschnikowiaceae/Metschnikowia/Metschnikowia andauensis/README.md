@@ -1,5 +1,4 @@
-Metschnikowia andauensis O. Molnár & Prillinger, 2005 SPECIES
-=======
+# Metschnikowia andauensis O. Molnár & Prillinger, 2005 SPECIES
 
 #### Status
 ACCEPTED

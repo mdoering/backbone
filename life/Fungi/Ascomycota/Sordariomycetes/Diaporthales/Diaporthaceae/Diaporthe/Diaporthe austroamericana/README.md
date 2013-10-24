@@ -1,5 +1,4 @@
-Diaporthe austroamericana Speg. SPECIES
-=======
+# Diaporthe austroamericana Speg. SPECIES
 
 #### Status
 ACCEPTED

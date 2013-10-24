@@ -1,5 +1,4 @@
-Melanconis obruta Ellis & Everh. SPECIES
-=======
+# Melanconis obruta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma polygonatea SPECIES
-=======
+# Phoma polygonatea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe occulta (Cooke) Sacc. SPECIES
-=======
+# Clitocybe occulta (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

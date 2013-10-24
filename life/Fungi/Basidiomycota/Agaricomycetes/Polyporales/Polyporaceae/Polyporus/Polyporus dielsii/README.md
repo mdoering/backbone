@@ -1,5 +1,4 @@
-Polyporus dielsii Henn. SPECIES
-=======
+# Polyporus dielsii Henn. SPECIES
 
 #### Status
 ACCEPTED

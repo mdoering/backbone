@@ -1,5 +1,4 @@
-Hyalospira Miyashita, 1933 GENUS
-=======
+# Hyalospira Miyashita, 1933 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gomphospora GENUS
-=======
+# Gomphospora GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drymosphaera dendrophora Haeckel, 1887 SPECIES
-=======
+# Drymosphaera dendrophora Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria amnicola Elix & A.W. Archer SPECIES
-=======
+# Pertusaria amnicola Elix & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

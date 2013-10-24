@@ -1,5 +1,4 @@
-Oxydothis ianei Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
-=======
+# Oxydothis ianei Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

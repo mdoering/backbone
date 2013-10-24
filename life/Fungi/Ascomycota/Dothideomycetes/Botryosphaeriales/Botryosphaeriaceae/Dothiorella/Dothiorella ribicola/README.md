@@ -1,5 +1,4 @@
-Dothiorella ribicola Ellis & Barthol. SPECIES
-=======
+# Dothiorella ribicola Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen pulposus Mérat SPECIES
-=======
+# Lichen pulposus Mérat SPECIES
 
 #### Status
 ACCEPTED

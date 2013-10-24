@@ -1,17 +1,16 @@
-Melanoleuca verrucipes var. subverrucipes Raithelh. VARIETY
-=======
+# Melanoleuca verrucipes (Fr.) Singer, 1939 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nueva Flora Micológica Argentina (Stuttgart) 66 (2004)
+Revue Mycol. , Paris 4(1-2): 68 (1939)
 
 #### Original name
-Melanoleuca verrucipes var. subverrucipes Raithelh.
+Armillaria verrucipes Fr., 1872
 
 ### Remarks
 null

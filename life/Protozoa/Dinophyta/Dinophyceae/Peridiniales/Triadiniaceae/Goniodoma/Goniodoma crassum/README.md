@@ -1,5 +1,4 @@
-Goniodoma crassum Kofoid & Michener, 1911 SPECIES
-=======
+# Goniodoma crassum Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

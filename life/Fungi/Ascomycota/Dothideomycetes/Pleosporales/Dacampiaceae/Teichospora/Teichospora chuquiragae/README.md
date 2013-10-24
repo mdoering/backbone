@@ -1,5 +1,4 @@
-Teichospora chuquiragae (Speg.) Sacc. SPECIES
-=======
+# Teichospora chuquiragae (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

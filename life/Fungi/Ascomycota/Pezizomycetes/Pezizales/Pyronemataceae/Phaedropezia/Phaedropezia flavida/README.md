@@ -1,5 +1,4 @@
-Phaedropezia flavida (Berk. & M.A. Curtis) Le Gal SPECIES
-=======
+# Phaedropezia flavida (Berk. & M.A. Curtis) Le Gal SPECIES
 
 #### Status
 ACCEPTED

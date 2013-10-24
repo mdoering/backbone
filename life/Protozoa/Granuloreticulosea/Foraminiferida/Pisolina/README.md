@@ -1,5 +1,4 @@
-Pisolina Lee, 1934 GENUS
-=======
+# Pisolina Lee, 1934 GENUS
 
 #### Status
 ACCEPTED

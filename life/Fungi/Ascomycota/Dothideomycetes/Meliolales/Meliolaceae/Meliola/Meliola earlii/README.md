@@ -1,5 +1,4 @@
-Meliola earlii F. Stevens SPECIES
-=======
+# Meliola earlii F. Stevens SPECIES
 
 #### Status
 ACCEPTED

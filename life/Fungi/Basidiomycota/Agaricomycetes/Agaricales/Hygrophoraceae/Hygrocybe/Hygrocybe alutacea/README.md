@@ -1,5 +1,4 @@
-Hygrocybe alutacea Singer SPECIES
-=======
+# Hygrocybe alutacea Singer SPECIES
 
 #### Status
 ACCEPTED

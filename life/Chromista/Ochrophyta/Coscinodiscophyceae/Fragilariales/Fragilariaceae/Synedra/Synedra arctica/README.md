@@ -1,5 +1,4 @@
-Synedra arctica O'Meara SPECIES
-=======
+# Synedra arctica O'Meara SPECIES
 
 #### Status
 ACCEPTED

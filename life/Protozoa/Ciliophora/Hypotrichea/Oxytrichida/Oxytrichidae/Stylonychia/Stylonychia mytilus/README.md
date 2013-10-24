@@ -1,8 +1,7 @@
-Ceratidium cunetum Ehrenberg, 1838 SPECIES
-=======
+# Stylonychia mytilus (Müller, 1773) Ehrenberg, 1830 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

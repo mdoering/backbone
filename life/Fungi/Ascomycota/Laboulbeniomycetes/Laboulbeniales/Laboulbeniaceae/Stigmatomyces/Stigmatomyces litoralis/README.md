@@ -1,5 +1,4 @@
-Stigmatomyces litoralis Bergonzo, W. Rossi & A. Weir SPECIES
-=======
+# Stigmatomyces litoralis Bergonzo, W. Rossi & A. Weir SPECIES
 
 #### Status
 ACCEPTED

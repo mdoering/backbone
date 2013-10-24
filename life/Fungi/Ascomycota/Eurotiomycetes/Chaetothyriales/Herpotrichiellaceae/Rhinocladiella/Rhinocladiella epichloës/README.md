@@ -1,5 +1,4 @@
-Rhinocladiella epichloës (Ellis & Dearn.) Hennebert SPECIES
-=======
+# Rhinocladiella epichloës (Ellis & Dearn.) Hennebert SPECIES
 
 #### Status
 ACCEPTED

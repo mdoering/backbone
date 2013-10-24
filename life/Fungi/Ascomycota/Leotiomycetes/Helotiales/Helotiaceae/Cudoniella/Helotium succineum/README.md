@@ -1,5 +1,4 @@
-Helotium succineum Velen. SPECIES
-=======
+# Helotium succineum Velen. SPECIES
 
 #### Status
 ACCEPTED

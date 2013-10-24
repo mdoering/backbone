@@ -1,5 +1,4 @@
-Amphileptus houi SPECIES
-=======
+# Amphileptus houi SPECIES
 
 #### Status
 ACCEPTED

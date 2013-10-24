@@ -1,5 +1,4 @@
-Fulgisphaeridium J. Deunff, 1980 GENUS
-=======
+# Fulgisphaeridium J. Deunff, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium salicis var. salicis VARIETY
-=======
+# Fusarium salicis Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Jb. nassau. Ver. Naturk. 23-24: (1870)
 
 #### Original name
-Fusarium salicis var. salicis
+Fusarium salicis Fuckel
 
 ### Remarks
 null

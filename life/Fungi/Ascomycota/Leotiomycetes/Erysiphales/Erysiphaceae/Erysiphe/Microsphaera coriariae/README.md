@@ -1,5 +1,4 @@
-Microsphaera coriariae Y. Nomura SPECIES
-=======
+# Microsphaera coriariae Y. Nomura SPECIES
 
 #### Status
 ACCEPTED

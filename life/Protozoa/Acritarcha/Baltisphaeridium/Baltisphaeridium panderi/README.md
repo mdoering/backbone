@@ -1,5 +1,4 @@
-Baltisphaeridium panderi Timofeev, 1959 ex Hu Yunxu, 1986 SPECIES
-=======
+# Baltisphaeridium panderi Timofeev, 1959 ex Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

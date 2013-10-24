@@ -1,5 +1,4 @@
-Polystigma eugeniae Anahosur, 1970 SPECIES
-=======
+# Polystigma eugeniae Anahosur, 1970 SPECIES
 
 #### Status
 ACCEPTED

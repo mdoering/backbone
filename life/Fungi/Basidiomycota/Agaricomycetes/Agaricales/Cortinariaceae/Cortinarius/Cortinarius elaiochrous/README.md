@@ -1,17 +1,16 @@
-Cortinarius elaiochrous var. elaiochrous E. Horak, M.M. Moser, Peintner & Vilgalys VARIETY
-=======
+# Cortinarius elaiochrous E. Horak, M.M. Moser, Peintner & Vilgalys, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 83: 449 (2002)
+in Peintner, Horak, Moser & Vilgalys, Mycotaxon 83: 449 (2002)
 
 #### Original name
-Cortinarius elaiochrous var. elaiochrous E. Horak, M.M. Moser, Peintner & Vilgalys
+Cuphocybe olivacea R. Heim, 1951
 
 ### Remarks
 null

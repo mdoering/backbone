@@ -1,5 +1,4 @@
-Uromyces montanoae Arthur & Holw. SPECIES
-=======
+# Uromyces montanoae Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus patuloides Peck SPECIES
-=======
+# Agaricus patuloides Peck SPECIES
 
 #### Status
 ACCEPTED

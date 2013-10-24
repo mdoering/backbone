@@ -1,5 +1,4 @@
-Valsa flacourtiae Pat. SPECIES
-=======
+# Valsa flacourtiae Pat. SPECIES
 
 #### Status
 ACCEPTED

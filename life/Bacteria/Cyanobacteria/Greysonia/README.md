@@ -1,5 +1,4 @@
-Greysonia Walcott, 1914 GENUS
-=======
+# Greysonia Walcott, 1914 GENUS
 
 #### Status
 ACCEPTED

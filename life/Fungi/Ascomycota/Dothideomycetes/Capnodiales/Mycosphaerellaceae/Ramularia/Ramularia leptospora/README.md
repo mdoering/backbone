@@ -1,5 +1,4 @@
-Ramularia leptospora Speg. SPECIES
-=======
+# Ramularia leptospora Speg. SPECIES
 
 #### Status
 ACCEPTED

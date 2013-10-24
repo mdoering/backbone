@@ -1,5 +1,4 @@
-Rhytidenglerula Höhn. GENUS
-=======
+# Rhytidenglerula Höhn. GENUS
 
 #### Status
 ACCEPTED

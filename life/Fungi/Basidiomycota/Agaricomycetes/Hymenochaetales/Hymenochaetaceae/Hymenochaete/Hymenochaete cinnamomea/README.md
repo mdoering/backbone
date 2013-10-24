@@ -1,17 +1,16 @@
-Hymenochaete cinnamomea f. cinnamomea FORM
-=======
+# Hymenochaete cinnamomea (Pers.) Bres., 1897 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Atti Acad. Agiato Rovereto 3(1): 110 (1897)
 
 #### Original name
-Hymenochaete cinnamomea f. cinnamomea
+Thelephora cinnamomea Pers., 1822
 
 ### Remarks
 null

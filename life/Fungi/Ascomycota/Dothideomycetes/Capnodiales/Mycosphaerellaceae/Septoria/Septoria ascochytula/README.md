@@ -1,5 +1,4 @@
-Septoria ascochytula Sacc. SPECIES
-=======
+# Septoria ascochytula Sacc. SPECIES
 
 #### Status
 ACCEPTED

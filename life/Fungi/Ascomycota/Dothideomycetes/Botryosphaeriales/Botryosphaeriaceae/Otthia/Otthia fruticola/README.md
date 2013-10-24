@@ -1,5 +1,4 @@
-Otthia fruticola (Ellis & Everh.) Ellis & Everh. SPECIES
-=======
+# Otthia fruticola (Ellis & Everh.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

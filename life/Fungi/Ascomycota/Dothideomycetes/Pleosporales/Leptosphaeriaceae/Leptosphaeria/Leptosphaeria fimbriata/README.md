@@ -1,5 +1,4 @@
-Leptosphaeria fimbriata Ellis & Everh. SPECIES
-=======
+# Leptosphaeria fimbriata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phacus pyrum var. rudicula Playfair VARIETY
-=======
+# Phacus rudicula Pochmann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

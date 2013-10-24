@@ -1,5 +1,4 @@
-Hexagonia pallens Sacc. SPECIES
-=======
+# Hexagonia pallens Sacc. SPECIES
 
 #### Status
 ACCEPTED

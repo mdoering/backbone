@@ -1,5 +1,4 @@
-Anaptychia melanotricha SPECIES
-=======
+# Anaptychia melanotricha SPECIES
 
 #### Status
 ACCEPTED

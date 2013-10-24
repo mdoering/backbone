@@ -1,5 +1,4 @@
-Septobasidium canescens Burt SPECIES
-=======
+# Septobasidium canescens Burt SPECIES
 
 #### Status
 ACCEPTED

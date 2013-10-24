@@ -1,5 +1,4 @@
-Cothurnia bipartita Penard, 1922 SPECIES
-=======
+# Cothurnia bipartita Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

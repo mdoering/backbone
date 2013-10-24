@@ -1,5 +1,4 @@
-Usnea pseudosinensis Asahina SPECIES
-=======
+# Usnea pseudosinensis Asahina SPECIES
 
 #### Status
 ACCEPTED

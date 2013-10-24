@@ -1,5 +1,4 @@
-Dencoeliopsis betulicola W.Y. Zhuang, 1988 SPECIES
-=======
+# Dencoeliopsis betulicola W.Y. Zhuang, 1988 SPECIES
 
 #### Status
 ACCEPTED

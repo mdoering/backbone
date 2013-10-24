@@ -1,5 +1,4 @@
-Gyroidina umbilicata d'Orbigny SPECIES
-=======
+# Gyroidina umbilicata d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

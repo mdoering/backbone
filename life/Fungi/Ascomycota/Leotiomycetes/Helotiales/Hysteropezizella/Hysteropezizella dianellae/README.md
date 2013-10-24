@@ -1,5 +1,4 @@
-Hysteropezizella dianellae Dennis SPECIES
-=======
+# Hysteropezizella dianellae Dennis SPECIES
 
 #### Status
 ACCEPTED

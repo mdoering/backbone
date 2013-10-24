@@ -1,5 +1,4 @@
-Eurotium xerophilicum Samson SPECIES
-=======
+# Eurotium xerophilicum Samson SPECIES
 
 #### Status
 ACCEPTED

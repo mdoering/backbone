@@ -1,5 +1,4 @@
-Humaria zamurensis Pat. & Gaillard SPECIES
-=======
+# Humaria zamurensis Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

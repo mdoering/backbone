@@ -1,5 +1,4 @@
-Verrucaria interrupta J. Steiner SPECIES
-=======
+# Verrucaria interrupta J. Steiner SPECIES
 
 #### Status
 ACCEPTED

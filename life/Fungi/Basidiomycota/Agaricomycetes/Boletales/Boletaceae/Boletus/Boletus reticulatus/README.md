@@ -1,17 +1,16 @@
-Boletus reticulatus subsp. reticulatus SUBSPECIES
-=======
+# Boletus reticulatus Schaeff., 1774 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fung. Bavar. Palat. 4: 78 (1774)
 
 #### Original name
-null
+Boletus reticulatus Schaeff., 1774
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Echidnodella psychotriae Katum. SPECIES
-=======
+# Echidnodella psychotriae Katum. SPECIES
 
 #### Status
 ACCEPTED

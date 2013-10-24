@@ -1,5 +1,4 @@
-Sphaerodothella C.A. Pearce & K.D. Hyde GENUS
-=======
+# Sphaerodothella C.A. Pearce & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

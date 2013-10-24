@@ -1,5 +1,4 @@
-Meliola arnoldii Schmied. SPECIES
-=======
+# Meliola arnoldii Schmied. SPECIES
 
 #### Status
 ACCEPTED

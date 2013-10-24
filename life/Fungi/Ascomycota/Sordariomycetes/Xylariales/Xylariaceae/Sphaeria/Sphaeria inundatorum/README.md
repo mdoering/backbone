@@ -1,5 +1,4 @@
-Sphaeria inundatorum Schwein. SPECIES
-=======
+# Sphaeria inundatorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

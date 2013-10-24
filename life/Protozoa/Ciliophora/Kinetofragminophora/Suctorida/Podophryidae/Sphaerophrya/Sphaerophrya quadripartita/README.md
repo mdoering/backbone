@@ -1,5 +1,4 @@
-Sphaerophrya quadripartita Dumas, 1930 SPECIES
-=======
+# Sphaerophrya quadripartita Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

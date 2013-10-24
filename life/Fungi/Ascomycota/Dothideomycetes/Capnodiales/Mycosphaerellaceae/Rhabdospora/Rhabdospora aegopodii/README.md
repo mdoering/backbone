@@ -1,5 +1,4 @@
-Rhabdospora aegopodii P. Karst. SPECIES
-=======
+# Rhabdospora aegopodii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria setosa Nocca & Balb. SPECIES
-=======
+# Clavaria setosa Nocca & Balb. SPECIES
 
 #### Status
 ACCEPTED

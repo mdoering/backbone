@@ -1,5 +1,4 @@
-Xylaria trachelina (Lév.) Cooke SPECIES
-=======
+# Xylaria trachelina (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

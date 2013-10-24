@@ -1,5 +1,4 @@
-Parendomyces hessleri (Rettger) C.W. Dodge SPECIES
-=======
+# Parendomyces hessleri (Rettger) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia vincae Traverso & Spessa SPECIES
-=======
+# Ramularia vincae Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

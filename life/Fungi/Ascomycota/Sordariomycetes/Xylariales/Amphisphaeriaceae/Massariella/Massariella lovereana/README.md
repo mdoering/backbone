@@ -1,5 +1,4 @@
-Massariella lovereana (Rehm) Sacc. & Trotter SPECIES
-=======
+# Massariella lovereana (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

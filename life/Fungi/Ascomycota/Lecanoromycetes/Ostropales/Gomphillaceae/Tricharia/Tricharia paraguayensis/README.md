@@ -1,5 +1,4 @@
-Tricharia paraguayensis (L. I. Ferraro & Lücking) Lücking SPECIES
-=======
+# Tricharia paraguayensis (L. I. Ferraro & Lücking) Lücking SPECIES
 
 #### Status
 ACCEPTED

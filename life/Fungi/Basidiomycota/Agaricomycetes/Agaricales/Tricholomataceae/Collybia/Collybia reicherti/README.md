@@ -1,5 +1,4 @@
-Collybia reicherti Velen. SPECIES
-=======
+# Collybia reicherti Velen. SPECIES
 
 #### Status
 ACCEPTED

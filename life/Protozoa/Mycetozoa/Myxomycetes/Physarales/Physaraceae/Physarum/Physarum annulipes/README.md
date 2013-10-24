@@ -1,5 +1,4 @@
-Physarum annulipes Shuang L. Chen & Yu Li, 1998 SPECIES
-=======
+# Physarum annulipes Shuang L. Chen & Yu Li, 1998 SPECIES
 
 #### Status
 ACCEPTED

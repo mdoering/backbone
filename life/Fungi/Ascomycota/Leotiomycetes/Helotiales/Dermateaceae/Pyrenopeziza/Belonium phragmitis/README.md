@@ -1,5 +1,4 @@
-Belonium phragmitis Nannf. SPECIES
-=======
+# Belonium phragmitis Nannf. SPECIES
 
 #### Status
 ACCEPTED

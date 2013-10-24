@@ -1,5 +1,4 @@
-Aecidium baccharidicola Speg. SPECIES
-=======
+# Aecidium baccharidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

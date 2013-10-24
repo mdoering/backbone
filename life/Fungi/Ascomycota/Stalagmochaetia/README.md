@@ -1,5 +1,4 @@
-Stalagmochaetia Cif. & Bat. GENUS
-=======
+# Stalagmochaetia Cif. & Bat. GENUS
 
 #### Status
 ACCEPTED

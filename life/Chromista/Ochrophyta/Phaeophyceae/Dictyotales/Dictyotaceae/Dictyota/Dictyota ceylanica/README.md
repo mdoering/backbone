@@ -1,5 +1,4 @@
-Dictyota ceylanica var. anastomosans Yamada VARIETY
-=======
+# Dictyota ceylanica Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula canceratica Strasser SPECIES
-=======
+# Torula canceratica Strasser SPECIES
 
 #### Status
 ACCEPTED

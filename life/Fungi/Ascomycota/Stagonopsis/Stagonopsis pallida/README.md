@@ -1,14 +1,13 @@
-Hendersonia pallida Berk. & M.A. Curtis SPECIES
-=======
+# Stagonopsis pallida (Berk. & M.A. Curtis) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 621 (1884)
 
 #### Original name
 Hendersonia pallida Berk. & M.A. Curtis

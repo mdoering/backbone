@@ -1,5 +1,4 @@
-Xysteroides Amaro, 1966 GENUS
-=======
+# Xysteroides Amaro, 1966 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena umbratilis Maas Geest. & de Meijer SPECIES
-=======
+# Mycena umbratilis Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis yakusimensis I. Hino & Katum. SPECIES
-=======
+# Micropeltis yakusimensis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

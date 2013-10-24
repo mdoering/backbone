@@ -1,5 +1,4 @@
-Arthonia tetramera Stizenb. SPECIES
-=======
+# Arthonia tetramera Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma griseosinuatum Noordel. SPECIES
-=======
+# Entoloma griseosinuatum Noordel. SPECIES
 
 #### Status
 ACCEPTED

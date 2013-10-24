@@ -1,17 +1,16 @@
-Geastrum mammosum var. mammosum VARIETY
-=======
+# Geastrum corollinum (Batsch) Hollós, 1904 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. gén. env. Paris (Paris) 1: 359 (1826)
+Gasterom. Ung. 65: 154 (1904)
 
 #### Original name
-Geastrum mammosum var. mammosum
+Lycoperdon corollinum Batsch, 1783
 
 ### Remarks
 null

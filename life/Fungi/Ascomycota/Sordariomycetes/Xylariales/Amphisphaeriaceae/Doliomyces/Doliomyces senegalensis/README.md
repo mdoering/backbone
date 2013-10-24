@@ -1,14 +1,13 @@
-Seimatosporium senegalense (Speg.) Arx, 1981 SPECIES
-=======
+# Doliomyces senegalensis (Speg.) Steyaert, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 224 (1981)
+Darwiniana 12(2): 169 (1961)
 
 #### Original name
 Pestalotia senegalensis Speg., 1914

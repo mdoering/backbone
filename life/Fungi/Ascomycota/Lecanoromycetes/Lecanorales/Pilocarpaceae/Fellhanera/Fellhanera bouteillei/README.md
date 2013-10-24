@@ -1,14 +1,13 @@
-Bilimbia bouteillei (Desm.) Hulting SPECIES
-=======
+# Fellhanera bouteillei (Desm.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Folia geobot. phytotax. 21(2): 214 (1986)
 
 #### Original name
 Parmelia bouteillei Desm.

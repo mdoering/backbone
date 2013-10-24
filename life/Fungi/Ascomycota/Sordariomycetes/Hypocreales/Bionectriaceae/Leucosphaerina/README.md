@@ -1,5 +1,4 @@
-Leucosphaerina Arx GENUS
-=======
+# Leucosphaerina Arx GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola rickii Hansf. SPECIES
-=======
+# Meliola rickii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calycina complanata (Fr.) Kuntze SPECIES
-=======
+# Calycina complanata (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

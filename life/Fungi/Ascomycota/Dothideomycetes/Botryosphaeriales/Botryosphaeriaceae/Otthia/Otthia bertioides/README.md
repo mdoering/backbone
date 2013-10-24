@@ -1,5 +1,4 @@
-Otthia bertioides (Sacc. & Berl.) Höhn. SPECIES
-=======
+# Otthia bertioides (Sacc. & Berl.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

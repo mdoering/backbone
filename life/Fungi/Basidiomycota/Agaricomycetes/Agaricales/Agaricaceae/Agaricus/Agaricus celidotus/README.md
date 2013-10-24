@@ -1,5 +1,4 @@
-Agaricus celidotus Berk. & Broome SPECIES
-=======
+# Agaricus celidotus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

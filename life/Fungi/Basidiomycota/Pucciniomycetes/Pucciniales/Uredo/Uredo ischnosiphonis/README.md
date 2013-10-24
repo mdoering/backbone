@@ -1,5 +1,4 @@
-Uredo ischnosiphonis Henn. SPECIES
-=======
+# Uredo ischnosiphonis Henn. SPECIES
 
 #### Status
 ACCEPTED

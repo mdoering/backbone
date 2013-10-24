@@ -1,17 +1,16 @@
-Pocheinia A.R. Loeblich Iii & H. Tappan, 1961 GENUS
-=======
+# Guttulina Cienkowsky, 1874 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-null
+Trud. sjesda Russ. Est. , 4, Bot. Sect. , 11.
 
 #### Original name
-null
+Guttulina Cienkowsky, 1874
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pachnocybe incerta (P. Karst.) S. Hughes SPECIES
-=======
+# Pachnocybe incerta (P. Karst.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

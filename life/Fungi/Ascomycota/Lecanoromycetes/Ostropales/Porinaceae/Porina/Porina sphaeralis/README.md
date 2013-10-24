@@ -1,5 +1,4 @@
-Porina sphaeralis Malme SPECIES
-=======
+# Porina sphaeralis Malme SPECIES
 
 #### Status
 ACCEPTED

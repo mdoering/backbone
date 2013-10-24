@@ -1,5 +1,4 @@
-Cetraria ulophylloides Asahina SPECIES
-=======
+# Cetraria ulophylloides Asahina SPECIES
 
 #### Status
 ACCEPTED

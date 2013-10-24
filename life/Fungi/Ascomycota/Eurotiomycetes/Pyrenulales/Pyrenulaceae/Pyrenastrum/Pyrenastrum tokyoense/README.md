@@ -1,5 +1,4 @@
-Pyrenastrum tokyoense Müll. Arg. SPECIES
-=======
+# Pyrenastrum tokyoense Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

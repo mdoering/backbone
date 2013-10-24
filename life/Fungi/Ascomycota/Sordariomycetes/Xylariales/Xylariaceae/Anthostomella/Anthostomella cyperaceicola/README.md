@@ -1,5 +1,4 @@
-Anthostomella cyperaceicola B.S. Lu & K.D. Hyde, 2000 SPECIES
-=======
+# Anthostomella cyperaceicola B.S. Lu & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

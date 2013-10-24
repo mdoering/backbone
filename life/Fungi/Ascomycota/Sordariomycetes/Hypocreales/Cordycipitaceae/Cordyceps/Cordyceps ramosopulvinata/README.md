@@ -1,5 +1,4 @@
-Cordyceps ramosopulvinata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps ramosopulvinata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella podocarpi Syd. SPECIES
-=======
+# Anthostomella podocarpi Syd. SPECIES
 
 #### Status
 ACCEPTED

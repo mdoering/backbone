@@ -1,5 +1,4 @@
-Didymosphaeria mori-albae A. Pande, 2008 SPECIES
-=======
+# Didymosphaeria mori-albae A. Pande, 2008 SPECIES
 
 #### Status
 ACCEPTED

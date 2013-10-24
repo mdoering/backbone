@@ -1,5 +1,4 @@
-Cercospora rhigiocaryae J.M. Yen & Gilles SPECIES
-=======
+# Cercospora rhigiocaryae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

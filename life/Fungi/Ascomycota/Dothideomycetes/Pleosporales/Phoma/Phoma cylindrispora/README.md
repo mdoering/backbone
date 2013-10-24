@@ -1,5 +1,4 @@
-Phoma cylindrispora Preuss SPECIES
-=======
+# Phoma cylindrispora Preuss SPECIES
 
 #### Status
 ACCEPTED

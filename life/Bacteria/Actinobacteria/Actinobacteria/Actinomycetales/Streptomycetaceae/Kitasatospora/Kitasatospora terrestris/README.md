@@ -1,5 +1,4 @@
-Kitasatospora terrestris Groth et al., 2004 SPECIES
-=======
+# Kitasatospora terrestris Groth et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

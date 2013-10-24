@@ -1,5 +1,4 @@
-Myxodiscus confluens (Schwein.) Höhn. SPECIES
-=======
+# Myxodiscus confluens (Schwein.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

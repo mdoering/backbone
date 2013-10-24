@@ -1,5 +1,4 @@
-Bucanthus decussatus SPECIES
-=======
+# Bucanthus decussatus SPECIES
 
 #### Status
 ACCEPTED

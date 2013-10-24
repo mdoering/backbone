@@ -1,5 +1,4 @@
-Ramalina pluviariae Krog & Østh. SPECIES
-=======
+# Ramalina pluviariae Krog & Østh. SPECIES
 
 #### Status
 ACCEPTED

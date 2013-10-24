@@ -1,5 +1,4 @@
-Ectocarpus monzensis Noda & Konno SPECIES
-=======
+# Ectocarpus monzensis Noda & Konno SPECIES
 
 #### Status
 ACCEPTED

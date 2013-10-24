@@ -1,5 +1,4 @@
-Omphalia scabriuscula Peck SPECIES
-=======
+# Omphalia scabriuscula Peck SPECIES
 
 #### Status
 ACCEPTED

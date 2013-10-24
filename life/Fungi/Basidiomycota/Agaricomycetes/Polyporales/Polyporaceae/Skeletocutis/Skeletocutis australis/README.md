@@ -1,5 +1,4 @@
-Skeletocutis australis Rajchenb., 1988 SPECIES
-=======
+# Skeletocutis australis Rajchenb., 1988 SPECIES
 
 #### Status
 ACCEPTED

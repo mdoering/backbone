@@ -1,5 +1,4 @@
-Coprinus deserticola Speg. SPECIES
-=======
+# Coprinus deserticola Speg. SPECIES
 
 #### Status
 ACCEPTED

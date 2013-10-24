@@ -1,5 +1,4 @@
-Verrucaria eusebii Servít SPECIES
-=======
+# Verrucaria eusebii Servít SPECIES
 
 #### Status
 ACCEPTED

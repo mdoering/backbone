@@ -1,5 +1,4 @@
-Hysteromyxa effugiens Sacc. & Ellis SPECIES
-=======
+# Hysteromyxa effugiens Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

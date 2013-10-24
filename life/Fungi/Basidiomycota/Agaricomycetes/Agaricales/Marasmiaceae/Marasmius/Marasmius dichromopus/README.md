@@ -1,5 +1,4 @@
-Marasmius dichromopus Speg. SPECIES
-=======
+# Marasmius dichromopus Speg. SPECIES
 
 #### Status
 ACCEPTED

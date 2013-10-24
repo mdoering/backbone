@@ -1,5 +1,4 @@
-Wolbachia pipientis Hertig, 1936 (Approved Lists, 1980) SPECIES
-=======
+# Wolbachia pipientis Hertig, 1936 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

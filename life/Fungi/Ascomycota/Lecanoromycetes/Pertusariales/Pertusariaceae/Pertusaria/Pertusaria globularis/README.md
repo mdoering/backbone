@@ -1,5 +1,4 @@
-Pertusaria globularis (Ach.) Tuck. SPECIES
-=======
+# Pertusaria globularis (Ach.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

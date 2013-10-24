@@ -1,5 +1,4 @@
-Phlyctidium GENUS
-=======
+# Phlyctidium GENUS
 
 #### Status
 ACCEPTED

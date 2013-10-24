@@ -1,5 +1,4 @@
-Penicillium scorteum Takedo et al. SPECIES
-=======
+# Penicillium scorteum Takedo et al. SPECIES
 
 #### Status
 ACCEPTED

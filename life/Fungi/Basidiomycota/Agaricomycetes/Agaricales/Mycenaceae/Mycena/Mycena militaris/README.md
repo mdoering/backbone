@@ -1,5 +1,4 @@
-Mycena militaris P. Karst. SPECIES
-=======
+# Mycena militaris P. Karst. SPECIES
 
 #### Status
 ACCEPTED

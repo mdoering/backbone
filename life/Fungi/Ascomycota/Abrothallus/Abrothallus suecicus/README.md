@@ -1,14 +1,13 @@
-Leciographa suecica Kirschst., 1935 SPECIES
-=======
+# Abrothallus suecicus (Kirschst.) Nordin, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 33: 203 (1935)
+Svensk bot. Tidskr. 58: 226 (1964)
 
 #### Original name
 Leciographa suecica Kirschst., 1935

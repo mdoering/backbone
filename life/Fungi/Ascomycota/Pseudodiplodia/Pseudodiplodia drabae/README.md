@@ -1,5 +1,4 @@
-Pseudodiplodia drabae (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia drabae (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

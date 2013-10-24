@@ -1,14 +1,13 @@
-Phaeoramularia oculta (Ellis & Kellerm.) U. Braun SPECIES
-=======
+# Phaeoramularia oculata (Ellis & Kellerm.) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Schlechtendalia 2: 13 (1999)
 
 #### Original name
 Cercospora oculata Ellis & Kellerm.

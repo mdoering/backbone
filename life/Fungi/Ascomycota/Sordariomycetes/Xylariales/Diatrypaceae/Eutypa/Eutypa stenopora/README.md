@@ -1,5 +1,4 @@
-Eutypa stenopora SPECIES
-=======
+# Eutypa stenopora SPECIES
 
 #### Status
 ACCEPTED

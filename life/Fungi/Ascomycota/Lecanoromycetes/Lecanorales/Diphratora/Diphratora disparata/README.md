@@ -1,5 +1,4 @@
-Diphratora disparata (Nyl.) Jatta SPECIES
-=======
+# Diphratora disparata (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

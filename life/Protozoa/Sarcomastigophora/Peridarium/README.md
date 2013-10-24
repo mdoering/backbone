@@ -1,5 +1,4 @@
-Peridarium Haeckel, 1887 GENUS
-=======
+# Peridarium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

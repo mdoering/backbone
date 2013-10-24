@@ -1,5 +1,4 @@
-Prosthemiella hysterioides Ellis & Langl. SPECIES
-=======
+# Prosthemiella hysterioides Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

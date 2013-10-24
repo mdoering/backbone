@@ -1,5 +1,4 @@
-Pseudoboletus GENUS
-=======
+# Pseudoboletus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium lactucae Kalymb. SPECIES
-=======
+# Coniothyrium lactucae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

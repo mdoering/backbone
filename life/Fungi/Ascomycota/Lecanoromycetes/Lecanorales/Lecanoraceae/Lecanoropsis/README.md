@@ -1,5 +1,4 @@
-Lecanoropsis GENUS
-=======
+# Lecanoropsis GENUS
 
 #### Status
 ACCEPTED

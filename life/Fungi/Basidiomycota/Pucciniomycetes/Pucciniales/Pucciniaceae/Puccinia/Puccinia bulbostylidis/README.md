@@ -1,5 +1,4 @@
-Puccinia bulbostylidis Doidge SPECIES
-=======
+# Puccinia bulbostylidis Doidge SPECIES
 
 #### Status
 ACCEPTED

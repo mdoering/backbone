@@ -1,5 +1,4 @@
-Cryptococcus aquaticus (E.B.G. Jones & Slooff) Rodr. Mir. & Weijman, 1988 SPECIES
-=======
+# Cryptococcus aquaticus (E.B.G. Jones & Slooff) Rodr. Mir. & Weijman, 1988 SPECIES
 
 #### Status
 ACCEPTED

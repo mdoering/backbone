@@ -1,5 +1,4 @@
-Arthonia lobulata C. Knight & Mitt. SPECIES
-=======
+# Arthonia lobulata C. Knight & Mitt. SPECIES
 
 #### Status
 ACCEPTED

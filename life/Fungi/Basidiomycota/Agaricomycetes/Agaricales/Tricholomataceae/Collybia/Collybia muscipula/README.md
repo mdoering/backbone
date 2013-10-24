@@ -1,5 +1,4 @@
-Collybia muscipula (Cooke & Massee) McAlpine SPECIES
-=======
+# Collybia muscipula (Cooke & Massee) McAlpine SPECIES
 
 #### Status
 ACCEPTED

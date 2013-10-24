@@ -1,5 +1,4 @@
-Senoniasphaera jurassica (Gitmez & Sarjeant, 1972) Lentin & Williams, 1976 SPECIES
-=======
+# Senoniasphaera jurassica (Gitmez & Sarjeant, 1972) Lentin & Williams, 1976 SPECIES
 
 #### Status
 ACCEPTED

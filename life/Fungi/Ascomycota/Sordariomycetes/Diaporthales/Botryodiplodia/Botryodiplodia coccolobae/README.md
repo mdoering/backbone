@@ -1,5 +1,4 @@
-Botryodiplodia coccolobae (Fairm.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia coccolobae (Fairm.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

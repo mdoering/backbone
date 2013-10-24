@@ -1,5 +1,4 @@
-Scopulariopsis repens Bainier SPECIES
-=======
+# Scopulariopsis repens Bainier SPECIES
 
 #### Status
 ACCEPTED

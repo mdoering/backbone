@@ -1,5 +1,4 @@
-Buellia verruculosa SPECIES
-=======
+# Buellia verruculosa SPECIES
 
 #### Status
 ACCEPTED

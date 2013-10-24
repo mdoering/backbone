@@ -1,5 +1,4 @@
-Fusarium uniseptatum Höhn. SPECIES
-=======
+# Fusarium uniseptatum Höhn. SPECIES
 
 #### Status
 ACCEPTED

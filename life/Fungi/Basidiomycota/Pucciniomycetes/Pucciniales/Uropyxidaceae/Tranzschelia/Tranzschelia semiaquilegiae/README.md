@@ -1,5 +1,4 @@
-Tranzschelia semiaquilegiae I. Hino & Katum. SPECIES
-=======
+# Tranzschelia semiaquilegiae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

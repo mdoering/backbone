@@ -1,17 +1,16 @@
-Thekopsora vaccinii (Alb. & Schwein.) Hirats. f., 1955 SPECIES
-=======
+# Naohidemyces vacciniorum (Link) Spooner, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Uredin. Studies 260 (1955)
+Vieraea 27: 175 (1999)
 
 #### Original name
-Uredo pustulata Pers., 1801
+Caeoma vacciniorum Link, 1825
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bovista olivacea Cooke & Massee SPECIES
-=======
+# Bovista olivacea Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

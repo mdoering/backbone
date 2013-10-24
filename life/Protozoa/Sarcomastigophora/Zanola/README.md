@@ -1,5 +1,4 @@
-Zanola Pessagno & Yang in Pessagno, Six & Yang, 1989 GENUS
-=======
+# Zanola Pessagno & Yang in Pessagno, Six & Yang, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora murrayae (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora murrayae (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phormidium bigranulatum Gardner SPECIES
-=======
+# Phormidium bigranulatum Gardner SPECIES
 
 #### Status
 ACCEPTED

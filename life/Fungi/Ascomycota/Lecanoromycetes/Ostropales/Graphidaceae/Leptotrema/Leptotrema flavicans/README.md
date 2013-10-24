@@ -1,5 +1,4 @@
-Leptotrema flavicans Müll. Arg. SPECIES
-=======
+# Leptotrema flavicans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor carmichaelii Grev. SPECIES
-=======
+# Mucor carmichaelii Grev. SPECIES
 
 #### Status
 ACCEPTED

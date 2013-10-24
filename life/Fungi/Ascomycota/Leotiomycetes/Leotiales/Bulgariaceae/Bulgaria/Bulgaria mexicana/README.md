@@ -1,5 +1,4 @@
-Bulgaria mexicana Ellis & Holw. SPECIES
-=======
+# Bulgaria mexicana Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

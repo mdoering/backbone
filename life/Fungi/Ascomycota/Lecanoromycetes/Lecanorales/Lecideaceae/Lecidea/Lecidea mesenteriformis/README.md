@@ -1,5 +1,4 @@
-Lecidea mesenteriformis (Arnold) Vain. SPECIES
-=======
+# Lecidea mesenteriformis (Arnold) Vain. SPECIES
 
 #### Status
 ACCEPTED

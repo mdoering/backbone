@@ -1,5 +1,4 @@
-Satyrodinium J.K. Lentin & Manum, 1986 GENUS
-=======
+# Satyrodinium J.K. Lentin & Manum, 1986 GENUS
 
 #### Status
 ACCEPTED

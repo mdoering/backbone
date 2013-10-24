@@ -1,5 +1,4 @@
-Armatella longispora W. Yamam. SPECIES
-=======
+# Armatella longispora W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

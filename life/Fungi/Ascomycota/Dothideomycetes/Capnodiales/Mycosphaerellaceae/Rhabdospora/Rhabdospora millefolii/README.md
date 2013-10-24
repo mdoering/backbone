@@ -1,5 +1,4 @@
-Rhabdospora millefolii Oudem. SPECIES
-=======
+# Rhabdospora millefolii Oudem. SPECIES
 
 #### Status
 ACCEPTED

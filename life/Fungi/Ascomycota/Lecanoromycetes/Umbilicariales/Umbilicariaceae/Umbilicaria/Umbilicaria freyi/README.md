@@ -1,5 +1,4 @@
-Umbilicaria freyi Codogno, Poelt & Puntillo SPECIES
-=======
+# Umbilicaria freyi Codogno, Poelt & Puntillo SPECIES
 
 #### Status
 ACCEPTED

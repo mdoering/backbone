@@ -1,5 +1,4 @@
-Pleistophora intestinalis Chatton SPECIES
-=======
+# Pleistophora intestinalis Chatton SPECIES
 
 #### Status
 ACCEPTED

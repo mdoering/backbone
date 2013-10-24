@@ -1,5 +1,4 @@
-Amanita baccata (Fr.) Gillet SPECIES
-=======
+# Amanita baccata (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

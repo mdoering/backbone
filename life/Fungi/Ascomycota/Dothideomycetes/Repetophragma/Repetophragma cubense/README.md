@@ -1,17 +1,16 @@
-Sporidesmium cubensis Mercado SPECIES
-=======
+# Repetophragma cubense (Mercado) J. Mena, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Mena-Portales, Delgado-Rodríguez & Heredia-Abarca, Boln Soc. Micol. Madrid 25: 268 (2000)
 
 #### Original name
-Sporidesmium cubensis Mercado
+Sporidesmium cubense Mercado, 1984
 
 ### Remarks
 null

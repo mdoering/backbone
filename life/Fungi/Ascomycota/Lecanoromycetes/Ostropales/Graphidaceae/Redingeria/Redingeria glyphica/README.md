@@ -1,17 +1,16 @@
-Phaeotrema glyphicum var. glyphicum (Nyl.) Zahlbr. VARIETY
-=======
+# Redingeria glyphica (Nyl.) Frisch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 2: 607 (1923)
+in Frisch & Kalb, Biblthca Lichenol. 92: 411 (2006)
 
 #### Original name
-Phaeotrema glyphicum var. glyphicum (Nyl.) Zahlbr.
+Thelotrema glyphicum Nyl.
 
 ### Remarks
 null

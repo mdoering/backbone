@@ -1,5 +1,4 @@
-Coniothecium atroviride Bubák SPECIES
-=======
+# Coniothecium atroviride Bubák SPECIES
 
 #### Status
 ACCEPTED

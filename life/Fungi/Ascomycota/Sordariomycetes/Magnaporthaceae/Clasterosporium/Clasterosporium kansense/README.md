@@ -1,5 +1,4 @@
-Clasterosporium kansense Ellis & Barthol. SPECIES
-=======
+# Clasterosporium kansense Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

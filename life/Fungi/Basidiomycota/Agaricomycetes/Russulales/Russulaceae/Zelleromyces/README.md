@@ -1,5 +1,4 @@
-Zelleromyces Singer & A.H. Sm. GENUS
-=======
+# Zelleromyces Singer & A.H. Sm. GENUS
 
 #### Status
 ACCEPTED

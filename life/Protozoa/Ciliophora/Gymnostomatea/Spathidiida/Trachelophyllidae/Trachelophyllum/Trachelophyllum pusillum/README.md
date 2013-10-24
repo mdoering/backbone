@@ -1,8 +1,7 @@
-Trachelius pusillus Perty, 1852 SPECIES
-=======
+# Trachelophyllum pusillum (Perty, 1852) Claparède & Lachmann, 1859 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

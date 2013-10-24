@@ -1,5 +1,4 @@
-Phyllosticta anthrophylli Koord. SPECIES
-=======
+# Phyllosticta anthrophylli Koord. SPECIES
 
 #### Status
 ACCEPTED

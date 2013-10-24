@@ -1,5 +1,4 @@
-Colletotrichum dahliae M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Colletotrichum dahliae M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

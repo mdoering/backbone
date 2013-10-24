@@ -1,5 +1,4 @@
-Phyllobacterium myrsinacearum (ex Knösel, 1962) Knösel, 1984 SPECIES
-=======
+# Phyllobacterium myrsinacearum (ex Knösel, 1962) Knösel, 1984 SPECIES
 
 #### Status
 ACCEPTED

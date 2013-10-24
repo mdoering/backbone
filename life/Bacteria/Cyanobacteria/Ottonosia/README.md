@@ -1,5 +1,4 @@
-Ottonosia W.H. Twenhofel, 1919 GENUS
-=======
+# Ottonosia W.H. Twenhofel, 1919 GENUS
 
 #### Status
 ACCEPTED

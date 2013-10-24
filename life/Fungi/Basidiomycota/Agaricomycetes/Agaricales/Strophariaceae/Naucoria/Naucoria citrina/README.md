@@ -1,5 +1,4 @@
-Naucoria citrina Velen. SPECIES
-=======
+# Naucoria citrina Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella auriformis (Schwein.) Spreng. SPECIES
-=======
+# Tremella auriformis (Schwein.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

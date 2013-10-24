@@ -1,5 +1,4 @@
-Agaricus xylocharis Mont. SPECIES
-=======
+# Agaricus xylocharis Mont. SPECIES
 
 #### Status
 ACCEPTED

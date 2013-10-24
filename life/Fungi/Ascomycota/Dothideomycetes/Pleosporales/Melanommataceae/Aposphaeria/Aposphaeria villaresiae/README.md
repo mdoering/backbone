@@ -1,5 +1,4 @@
-Aposphaeria villaresiae Speg. SPECIES
-=======
+# Aposphaeria villaresiae Speg. SPECIES
 
 #### Status
 ACCEPTED

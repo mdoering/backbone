@@ -1,5 +1,4 @@
-Trichosphaera Dumort. GENUS
-=======
+# Trichosphaera Dumort. GENUS
 
 #### Status
 ACCEPTED

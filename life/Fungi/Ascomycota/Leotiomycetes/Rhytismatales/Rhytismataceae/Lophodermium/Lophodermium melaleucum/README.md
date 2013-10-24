@@ -1,17 +1,16 @@
-Lophodermium melaleucum pulchellum (Fr.) Sacc., 1883 INFRASPECIFIC_NAME
-=======
+# Lophodermium melaleucum (Fr.) De Not., 1847 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+G. bot. ital. , n. s. 2(7-8): 44 (1847)
 
 #### Original name
-null
+Hysterium melaleucum Fr., 1815
 
 ### Remarks
 null

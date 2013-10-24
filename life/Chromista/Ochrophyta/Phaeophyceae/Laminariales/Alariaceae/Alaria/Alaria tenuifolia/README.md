@@ -1,5 +1,4 @@
-Alaria tenuifolia Setchell SPECIES
-=======
+# Alaria tenuifolia Setchell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyptopteris Berk. GENUS
-=======
+# Hyptopteris Berk. GENUS
 
 #### Status
 ACCEPTED

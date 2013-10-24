@@ -1,5 +1,4 @@
-Marasmius schweinfurthianus Henn. SPECIES
-=======
+# Marasmius schweinfurthianus Henn. SPECIES
 
 #### Status
 ACCEPTED

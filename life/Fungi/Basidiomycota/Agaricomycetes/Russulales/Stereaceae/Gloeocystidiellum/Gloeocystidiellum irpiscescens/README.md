@@ -1,5 +1,4 @@
-Gloeocystidiellum irpiscescens Boidin SPECIES
-=======
+# Gloeocystidiellum irpiscescens Boidin SPECIES
 
 #### Status
 ACCEPTED

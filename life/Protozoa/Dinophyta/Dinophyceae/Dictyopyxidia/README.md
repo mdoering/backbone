@@ -1,5 +1,4 @@
-Dictyopyxidia Eisenack, 1961 GENUS
-=======
+# Dictyopyxidia Eisenack, 1961 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmidium heterosporum Dietel SPECIES
-=======
+# Phragmidium heterosporum Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora myricariae Petr. SPECIES
-=======
+# Cytospora myricariae Petr. SPECIES
 
 #### Status
 ACCEPTED

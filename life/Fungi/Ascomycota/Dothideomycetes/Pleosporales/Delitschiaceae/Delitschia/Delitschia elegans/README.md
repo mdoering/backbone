@@ -1,5 +1,4 @@
-Delitschia elegans Santerm. {?} SPECIES
-=======
+# Delitschia elegans Santerm. {?} SPECIES
 
 #### Status
 ACCEPTED

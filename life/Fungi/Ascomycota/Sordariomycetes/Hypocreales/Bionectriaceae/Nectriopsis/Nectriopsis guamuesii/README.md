@@ -1,5 +1,4 @@
-Nectriopsis guamuesii Etayo SPECIES
-=======
+# Nectriopsis guamuesii Etayo SPECIES
 
 #### Status
 ACCEPTED

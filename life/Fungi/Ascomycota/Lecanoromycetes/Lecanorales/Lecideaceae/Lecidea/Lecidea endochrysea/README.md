@@ -1,5 +1,4 @@
-Lecidea endochrysea Müll. Arg. SPECIES
-=======
+# Lecidea endochrysea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

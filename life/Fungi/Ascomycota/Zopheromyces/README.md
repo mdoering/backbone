@@ -1,5 +1,4 @@
-Zopheromyces B. Sutton & Hodges GENUS
-=======
+# Zopheromyces B. Sutton & Hodges GENUS
 
 #### Status
 ACCEPTED

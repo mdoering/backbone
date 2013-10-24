@@ -1,5 +1,4 @@
-Caldimonas taiwanensis Chen et al., 2005 SPECIES
-=======
+# Caldimonas taiwanensis Chen et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

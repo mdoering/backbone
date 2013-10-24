@@ -1,8 +1,7 @@
-Naetrocymbe robustum Bat. SPECIES
-=======
+# Naetrocymbe robusta Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Naetrocymbe robustum Bat.
+Naetrocymbe robusta Bat.
 
 ### Remarks
 null

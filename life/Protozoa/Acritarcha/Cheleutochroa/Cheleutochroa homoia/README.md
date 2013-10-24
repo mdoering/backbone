@@ -1,5 +1,4 @@
-Cheleutochroa homoia Turner, 1984 SPECIES
-=======
+# Cheleutochroa homoia Turner, 1984 SPECIES
 
 #### Status
 ACCEPTED

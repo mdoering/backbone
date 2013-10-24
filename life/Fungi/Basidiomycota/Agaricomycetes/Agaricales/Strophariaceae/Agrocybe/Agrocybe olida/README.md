@@ -1,5 +1,4 @@
-Agrocybe olida (Cooke & Massee) Pegler SPECIES
-=======
+# Agrocybe olida (Cooke & Massee) Pegler SPECIES
 
 #### Status
 ACCEPTED

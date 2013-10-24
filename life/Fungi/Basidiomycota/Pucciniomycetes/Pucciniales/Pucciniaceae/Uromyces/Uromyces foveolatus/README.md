@@ -1,5 +1,4 @@
-Uromyces foveolatus Juel SPECIES
-=======
+# Uromyces foveolatus Juel SPECIES
 
 #### Status
 ACCEPTED

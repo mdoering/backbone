@@ -1,17 +1,16 @@
-Mortierella gracilis Linnem., 1941 SPECIES
-=======
+# Mortierella parvispora Linnem., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mucor. -Gatt. Mortierella Coem. 38 (1941)
+Mucor. -Gatt. Mortierella Coem. 53 (1941)
 
 #### Original name
-Mortierella gracilis Linnem., 1941
+Mortierella parvispora Linnem., 1941
 
 ### Remarks
 null

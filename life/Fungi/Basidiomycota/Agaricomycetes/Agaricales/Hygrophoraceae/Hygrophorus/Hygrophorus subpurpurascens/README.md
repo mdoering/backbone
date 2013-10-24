@@ -1,5 +1,4 @@
-Hygrophorus subpurpurascens Allesch. SPECIES
-=======
+# Hygrophorus subpurpurascens Allesch. SPECIES
 
 #### Status
 ACCEPTED

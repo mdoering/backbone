@@ -1,5 +1,4 @@
-Encoelia cumulata Quél. SPECIES
-=======
+# Encoelia cumulata Quél. SPECIES
 
 #### Status
 ACCEPTED

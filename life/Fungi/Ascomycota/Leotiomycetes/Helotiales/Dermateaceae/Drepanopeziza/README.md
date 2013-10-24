@@ -1,5 +1,4 @@
-Drepanopeziza GENUS
-=======
+# Drepanopeziza GENUS
 
 #### Status
 ACCEPTED

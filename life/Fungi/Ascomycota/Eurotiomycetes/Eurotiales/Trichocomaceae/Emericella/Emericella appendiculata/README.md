@@ -1,5 +1,4 @@
-Emericella appendiculata Y. Horie & D.M. Li, 1998 SPECIES
-=======
+# Emericella appendiculata Y. Horie & D.M. Li, 1998 SPECIES
 
 #### Status
 ACCEPTED

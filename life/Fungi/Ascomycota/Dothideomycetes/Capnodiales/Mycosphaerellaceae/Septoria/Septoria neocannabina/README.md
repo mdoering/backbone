@@ -1,5 +1,4 @@
-Septoria neocannabina McPartl. SPECIES
-=======
+# Septoria neocannabina McPartl. SPECIES
 
 #### Status
 ACCEPTED

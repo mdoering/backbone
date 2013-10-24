@@ -1,5 +1,4 @@
-Gymnopus macropus Halling SPECIES
-=======
+# Gymnopus macropus Halling SPECIES
 
 #### Status
 ACCEPTED

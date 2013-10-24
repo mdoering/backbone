@@ -1,5 +1,4 @@
-Flageoletia GENUS
-=======
+# Flageoletia GENUS
 
 #### Status
 ACCEPTED

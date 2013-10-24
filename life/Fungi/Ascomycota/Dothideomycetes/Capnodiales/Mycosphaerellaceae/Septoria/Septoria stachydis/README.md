@@ -1,5 +1,4 @@
-Septoria stachydis Roberge ex Desm., 1847 SPECIES
-=======
+# Septoria stachydis Roberge ex Desm., 1847 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Tricharia verrucosa Sérus. SPECIES
-=======
+# Aderkomyces verrucosus (Sérus.) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Aptroot, Diederich, Sérusiaux & Sipman, Biblthca Lichenol. 64: 204 (1997)
+Lichenologist 37(2): 163 (2005)
 
 #### Original name
 Tricharia verrucosa Sérus.

@@ -1,5 +1,4 @@
-Leptogium epiphyllum M. Lindstr. SPECIES
-=======
+# Leptogium epiphyllum M. Lindstr. SPECIES
 
 #### Status
 ACCEPTED

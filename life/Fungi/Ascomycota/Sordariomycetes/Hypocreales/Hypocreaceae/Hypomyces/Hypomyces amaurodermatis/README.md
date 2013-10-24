@@ -1,5 +1,4 @@
-Hypomyces amaurodermatis Rogerson & Samuels SPECIES
-=======
+# Hypomyces amaurodermatis Rogerson & Samuels SPECIES
 
 #### Status
 ACCEPTED

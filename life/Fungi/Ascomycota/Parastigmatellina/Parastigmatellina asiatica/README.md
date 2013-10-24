@@ -1,5 +1,4 @@
-Parastigmatellina asiatica Bat. & C.A.A. Costa, 1959 SPECIES
-=======
+# Parastigmatellina asiatica Bat. & C.A.A. Costa, 1959 SPECIES
 
 #### Status
 ACCEPTED

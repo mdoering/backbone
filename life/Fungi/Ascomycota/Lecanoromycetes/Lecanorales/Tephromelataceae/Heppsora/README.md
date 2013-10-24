@@ -1,5 +1,4 @@
-Heppsora D.D. Awasthi & Kr.P. Singh GENUS
-=======
+# Heppsora D.D. Awasthi & Kr.P. Singh GENUS
 
 #### Status
 ACCEPTED

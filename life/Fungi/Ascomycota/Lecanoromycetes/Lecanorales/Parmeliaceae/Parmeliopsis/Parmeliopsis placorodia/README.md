@@ -1,5 +1,4 @@
-Parmeliopsis placorodia (Ach.) Nyl. SPECIES
-=======
+# Parmeliopsis placorodia (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

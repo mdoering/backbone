@@ -1,5 +1,4 @@
-Caloplaca oregensis H. Magn. ex Sipe SPECIES
-=======
+# Caloplaca oregensis H. Magn. ex Sipe SPECIES
 
 #### Status
 ACCEPTED

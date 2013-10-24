@@ -1,5 +1,4 @@
-Pholiota kalmicola (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota kalmicola (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora jatropharum Speg. SPECIES
-=======
+# Cercospora jatropharum Speg. SPECIES
 
 #### Status
 ACCEPTED

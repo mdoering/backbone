@@ -1,5 +1,4 @@
-Pseudeurotium kaghe J.N. Rai & J.P. Tewari SPECIES
-=======
+# Pseudeurotium kaghe J.N. Rai & J.P. Tewari SPECIES
 
 #### Status
 ACCEPTED

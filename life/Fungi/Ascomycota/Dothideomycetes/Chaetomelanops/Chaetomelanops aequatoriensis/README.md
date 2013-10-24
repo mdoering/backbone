@@ -1,5 +1,4 @@
-Chaetomelanops aequatoriensis Petr. SPECIES
-=======
+# Chaetomelanops aequatoriensis Petr. SPECIES
 
 #### Status
 ACCEPTED

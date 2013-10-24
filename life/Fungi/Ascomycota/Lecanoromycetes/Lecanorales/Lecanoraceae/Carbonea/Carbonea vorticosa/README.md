@@ -1,17 +1,16 @@
-Lecidea sabuletorum var. vorticosa Flörke VARIETY
-=======
+# Carbonea vorticosa (Flörke) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 19: 442 (1983)
 
 #### Original name
-null
+Lecidea sabuletorum Flörke
 
 ### Remarks
 null

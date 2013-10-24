@@ -1,5 +1,4 @@
-Mycenastrum oregonense Ellis & Everh. SPECIES
-=======
+# Mycenastrum oregonense Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

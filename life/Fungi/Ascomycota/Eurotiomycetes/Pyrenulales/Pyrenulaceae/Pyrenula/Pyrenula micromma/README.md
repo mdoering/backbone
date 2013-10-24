@@ -1,5 +1,4 @@
-Pyrenula micromma SPECIES
-=======
+# Pyrenula micromma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pocillaria applanata (Massee) Kuntze SPECIES
-=======
+# Pocillaria applanata (Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichocladia GENUS
-=======
+# Trichocladia GENUS
 
 #### Status
 ACCEPTED

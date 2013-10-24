@@ -1,5 +1,4 @@
-Aecidium polyalthiae Petch SPECIES
-=======
+# Aecidium polyalthiae Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amauroderma deviatum Ryvarden, 2004 SPECIES
-=======
+# Amauroderma deviatum Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

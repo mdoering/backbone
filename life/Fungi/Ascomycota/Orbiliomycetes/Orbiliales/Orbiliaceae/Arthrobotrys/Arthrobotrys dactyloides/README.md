@@ -1,17 +1,16 @@
-Arthrobotrys anchonia Drechsler, 1954 SPECIES
-=======
+# Arthrobotrys dactyloides Drechsler, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 46(6): 762 (1954)
+Mycologia 29(4): 486 (1937)
 
 #### Original name
-Arthrobotrys anchonia Drechsler, 1954
+Arthrobotrys dactyloides Drechsler, 1937
 
 ### Remarks
 null

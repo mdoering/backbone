@@ -1,5 +1,4 @@
-Tympanis turgida (Fr.) Wallr. SPECIES
-=======
+# Tympanis turgida (Fr.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

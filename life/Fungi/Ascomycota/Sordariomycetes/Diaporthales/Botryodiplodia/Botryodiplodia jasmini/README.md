@@ -1,5 +1,4 @@
-Botryodiplodia jasmini (Westend.) Petr. SPECIES
-=======
+# Botryodiplodia jasmini (Westend.) Petr. SPECIES
 
 #### Status
 ACCEPTED

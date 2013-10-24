@@ -1,5 +1,4 @@
-Pringshemia smilacis E. Müll., 1957 SPECIES
-=======
+# Pringshemia smilacis E. Müll., 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Prathigada picrismae (Togashi & Katsuki) X.J. Liu & Y.Z. Laio SPECIES
-=======
+# Prathigada picrasmae (Togashi & Katsuki) X.J. Liu & Y.Z. Laio SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta microbiol. sin. 20(2): 117 (1980)
 
 #### Original name
 Cercospora picrasmae Togashi & Katsuki

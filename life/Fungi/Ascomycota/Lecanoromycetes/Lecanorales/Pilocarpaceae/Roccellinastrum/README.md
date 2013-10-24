@@ -1,5 +1,4 @@
-Roccellinastrum Follmann GENUS
-=======
+# Roccellinastrum Follmann GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia festivissima (Hue) Darb. SPECIES
-=======
+# Buellia festivissima (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

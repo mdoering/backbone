@@ -1,5 +1,4 @@
-Inocybe ochraceoviolascens (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Inocybe ochraceoviolascens (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

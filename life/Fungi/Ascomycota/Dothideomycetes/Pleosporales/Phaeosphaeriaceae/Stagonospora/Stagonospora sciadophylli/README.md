@@ -1,5 +1,4 @@
-Stagonospora sciadophylli Tassi SPECIES
-=======
+# Stagonospora sciadophylli Tassi SPECIES
 
 #### Status
 ACCEPTED

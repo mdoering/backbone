@@ -1,5 +1,4 @@
-Pendulomonas adriperis Tong, 1997 SPECIES
-=======
+# Pendulomonas adriperis Tong, 1997 SPECIES
 
 #### Status
 ACCEPTED

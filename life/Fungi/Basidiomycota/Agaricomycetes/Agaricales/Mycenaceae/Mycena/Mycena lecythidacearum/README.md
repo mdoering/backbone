@@ -1,5 +1,4 @@
-Mycena lecythidacearum Singer SPECIES
-=======
+# Mycena lecythidacearum Singer SPECIES
 
 #### Status
 ACCEPTED

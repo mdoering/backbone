@@ -1,5 +1,4 @@
-Lecidea effusa var. effusa Mudd VARIETY
-=======
+# Lecidea effusa Mudd SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea effusa var. effusa Mudd
+Lecidea effusa Mudd
 
 ### Remarks
 null

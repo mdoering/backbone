@@ -1,5 +1,4 @@
-Lecanora arnoldiana Gyeln. SPECIES
-=======
+# Lecanora arnoldiana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

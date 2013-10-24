@@ -1,5 +1,4 @@
-Stereum boltonii (Fr.) Sacc. SPECIES
-=======
+# Stereum boltonii (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

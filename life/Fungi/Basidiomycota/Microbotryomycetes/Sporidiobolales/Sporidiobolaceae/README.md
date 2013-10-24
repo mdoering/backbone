@@ -1,5 +1,4 @@
-Sporidiobolaceae R.T. Moore FAMILY
-=======
+# Sporidiobolaceae R.T. Moore FAMILY
 
 #### Status
 ACCEPTED

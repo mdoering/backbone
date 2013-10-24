@@ -1,5 +1,4 @@
-Sphaerella aurea R. Stone SPECIES
-=======
+# Sphaerella aurea R. Stone SPECIES
 
 #### Status
 ACCEPTED

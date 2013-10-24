@@ -1,5 +1,4 @@
-Cordyceps rhynchoticola Möller SPECIES
-=======
+# Cordyceps rhynchoticola Möller SPECIES
 
 #### Status
 ACCEPTED

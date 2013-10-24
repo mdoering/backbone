@@ -1,14 +1,13 @@
-Boletus purpureofuscus H.V. Sm. & A.H. Sm., 1973 SPECIES
-=======
+# Xanthoconium purpureum Snell & E.A. Dick, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-How to know the non-gilled fleshy fungi 233 (1973)
+Mycologia 53(3): 234 (1962)
 
 #### Original name
 Xanthoconium purpureum Snell & E.A. Dick, 1962

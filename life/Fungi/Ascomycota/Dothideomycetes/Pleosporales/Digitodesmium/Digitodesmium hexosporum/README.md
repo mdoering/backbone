@@ -1,5 +1,4 @@
-Digitodesmium hexosporum V.G. Rao SPECIES
-=======
+# Digitodesmium hexosporum V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

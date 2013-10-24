@@ -1,5 +1,4 @@
-Phoma berberina Sacc. & Roum. SPECIES
-=======
+# Phoma berberina Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

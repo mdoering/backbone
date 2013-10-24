@@ -1,5 +1,4 @@
-Tuburcinia dactylidina Lavrov SPECIES
-=======
+# Tuburcinia dactylidina Lavrov SPECIES
 
 #### Status
 ACCEPTED

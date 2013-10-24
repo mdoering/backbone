@@ -1,8 +1,7 @@
-Pleurasiga micropora Norris, 1965 SPECIES
-=======
+# Savillea micropora (Norris, 1965) Leadbeater, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

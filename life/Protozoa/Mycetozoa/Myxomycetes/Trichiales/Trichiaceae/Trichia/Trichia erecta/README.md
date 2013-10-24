@@ -1,5 +1,4 @@
-Trichia erecta Rex, 1890 SPECIES
-=======
+# Trichia erecta Rex, 1890 SPECIES
 
 #### Status
 ACCEPTED

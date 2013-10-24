@@ -1,5 +1,4 @@
-Meniscoideisporites Watanabe, H. Nishida & Kobayashi GENUS
-=======
+# Meniscoideisporites Watanabe, H. Nishida & Kobayashi GENUS
 
 #### Status
 ACCEPTED

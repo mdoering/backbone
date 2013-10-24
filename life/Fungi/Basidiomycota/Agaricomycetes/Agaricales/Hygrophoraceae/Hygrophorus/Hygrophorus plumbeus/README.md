@@ -1,5 +1,4 @@
-Hygrophorus plumbeus Rick SPECIES
-=======
+# Hygrophorus plumbeus Rick SPECIES
 
 #### Status
 ACCEPTED

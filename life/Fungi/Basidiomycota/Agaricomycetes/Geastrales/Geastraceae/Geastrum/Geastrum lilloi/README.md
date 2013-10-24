@@ -1,5 +1,4 @@
-Geastrum lilloi L.S. Domínguez, 1996 SPECIES
-=======
+# Geastrum lilloi L.S. Domínguez, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps callidii Quél. SPECIES
-=======
+# Cordyceps callidii Quél. SPECIES
 
 #### Status
 ACCEPTED

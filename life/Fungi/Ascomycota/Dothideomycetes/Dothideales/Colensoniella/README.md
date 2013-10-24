@@ -1,5 +1,4 @@
-Colensoniella Hafellner GENUS
-=======
+# Colensoniella Hafellner GENUS
 
 #### Status
 ACCEPTED

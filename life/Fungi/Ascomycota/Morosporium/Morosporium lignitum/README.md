@@ -1,5 +1,4 @@
-Morosporium lignitum Renault & Roche SPECIES
-=======
+# Morosporium lignitum Renault & Roche SPECIES
 
 #### Status
 ACCEPTED

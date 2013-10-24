@@ -1,14 +1,13 @@
-Agaricus nummularius (Lam.) Fr., 1838 SPECIES
-=======
+# Collybia nummularia (Lam.) Gillet, 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 91 (1838)
+Hyménomycètes (Alençon) 325 (1876)
 
 #### Original name
 null

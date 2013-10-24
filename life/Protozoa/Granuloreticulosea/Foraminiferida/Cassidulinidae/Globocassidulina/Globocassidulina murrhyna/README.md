@@ -1,5 +1,4 @@
-Globocassidulina murrhyna (Schwager, 1866) SPECIES
-=======
+# Globocassidulina murrhyna (Schwager, 1866) SPECIES
 
 #### Status
 ACCEPTED

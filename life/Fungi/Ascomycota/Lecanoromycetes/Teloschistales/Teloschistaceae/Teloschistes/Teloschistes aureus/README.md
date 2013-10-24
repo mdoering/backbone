@@ -1,5 +1,4 @@
-Teloschistes aureus (Schaer.) Norman SPECIES
-=======
+# Teloschistes aureus (Schaer.) Norman SPECIES
 
 #### Status
 ACCEPTED

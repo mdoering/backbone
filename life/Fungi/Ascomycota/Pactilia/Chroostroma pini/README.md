@@ -1,5 +1,4 @@
-Chroostroma pini Corda SPECIES
-=======
+# Chroostroma pini Corda SPECIES
 
 #### Status
 ACCEPTED

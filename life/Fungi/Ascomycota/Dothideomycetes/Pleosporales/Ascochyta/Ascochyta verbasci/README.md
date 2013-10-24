@@ -1,5 +1,4 @@
-Ascochyta verbasci Sacc. & Speg. SPECIES
-=======
+# Ascochyta verbasci Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

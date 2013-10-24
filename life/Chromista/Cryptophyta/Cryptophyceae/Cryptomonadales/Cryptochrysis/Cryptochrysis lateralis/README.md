@@ -1,5 +1,4 @@
-Cryptochrysis lateralis R. W. Butcher SPECIES
-=======
+# Cryptochrysis lateralis R. W. Butcher SPECIES
 
 #### Status
 ACCEPTED

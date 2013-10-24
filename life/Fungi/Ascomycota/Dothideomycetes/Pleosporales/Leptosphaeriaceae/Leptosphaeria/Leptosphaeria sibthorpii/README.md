@@ -1,5 +1,4 @@
-Leptosphaeria sibthorpii Politis SPECIES
-=======
+# Leptosphaeria sibthorpii Politis SPECIES
 
 #### Status
 ACCEPTED

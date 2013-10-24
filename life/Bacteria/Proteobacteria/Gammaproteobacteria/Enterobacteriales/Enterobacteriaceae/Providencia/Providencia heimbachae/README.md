@@ -1,5 +1,4 @@
-Providencia heimbachae Müller et al., 1986 SPECIES
-=======
+# Providencia heimbachae Müller et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

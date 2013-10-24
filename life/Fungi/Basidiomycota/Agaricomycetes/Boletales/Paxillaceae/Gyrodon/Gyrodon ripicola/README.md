@@ -1,5 +1,4 @@
-Gyrodon ripicola (Corner) Pegler & T.W.K. Young SPECIES
-=======
+# Gyrodon ripicola (Corner) Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Humaria subfusca (P. Crouan & H. Crouan) Sacc., 1889 SPECIES
-=======
+# Ascophanus subfuscus (P. Crouan & H. Crouan) Boud., 1869 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 137 (1889)
+Annls Sci. Nat. , Bot. , sér. 5 10: 248 (1869)
 
 #### Original name
 Peziza subfusca P. Crouan & H. Crouan, 1867

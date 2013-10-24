@@ -1,5 +1,4 @@
-Ascochyta asari Bond.-Mont. SPECIES
-=======
+# Ascochyta asari Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

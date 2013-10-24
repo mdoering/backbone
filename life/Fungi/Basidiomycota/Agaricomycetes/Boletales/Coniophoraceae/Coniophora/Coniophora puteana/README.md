@@ -1,17 +1,16 @@
-Coniophora membranacea var. membranacea DC. VARIETY
-=======
+# Coniophora puteana (Schumach.) P. Karst., 1868 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 34 (1815)
+Not. Sällsk. Fauna et Fl. Fenn. Förh. , II 6(6): 370 (1868)
 
 #### Original name
-Coniophora membranacea var. membranacea DC.
+Thelephora puteana Schumach., 1803
 
 ### Remarks
 null

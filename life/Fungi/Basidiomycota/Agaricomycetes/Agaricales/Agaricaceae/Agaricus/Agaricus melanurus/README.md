@@ -1,5 +1,4 @@
-Agaricus melanurus Cooke & Massee SPECIES
-=======
+# Agaricus melanurus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aleuria wisconsinensis Rehm SPECIES
-=======
+# Aleuria wisconsinensis Rehm SPECIES
 
 #### Status
 ACCEPTED

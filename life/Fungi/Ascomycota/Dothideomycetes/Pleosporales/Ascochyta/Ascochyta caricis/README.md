@@ -1,5 +1,4 @@
-Ascochyta caricis W.B. Cooke & Shaw SPECIES
-=======
+# Ascochyta caricis W.B. Cooke & Shaw SPECIES
 
 #### Status
 ACCEPTED

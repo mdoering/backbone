@@ -1,5 +1,4 @@
-Protostegia eucleae Kalchbr. & Cooke, 1880 SPECIES
-=======
+# Protostegia eucleae Kalchbr. & Cooke, 1880 SPECIES
 
 #### Status
 ACCEPTED

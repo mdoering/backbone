@@ -1,5 +1,4 @@
-Litacineta Yankovskii, 1978 GENUS
-=======
+# Litacineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

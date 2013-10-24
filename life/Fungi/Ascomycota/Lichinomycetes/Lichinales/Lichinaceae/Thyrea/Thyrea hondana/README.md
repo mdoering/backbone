@@ -1,5 +1,4 @@
-Thyrea hondana Zahlbr. SPECIES
-=======
+# Thyrea hondana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

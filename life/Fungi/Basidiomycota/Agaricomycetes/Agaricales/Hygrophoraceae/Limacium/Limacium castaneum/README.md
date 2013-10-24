@@ -1,5 +1,4 @@
-Limacium castaneum Henn. SPECIES
-=======
+# Limacium castaneum Henn. SPECIES
 
 #### Status
 ACCEPTED

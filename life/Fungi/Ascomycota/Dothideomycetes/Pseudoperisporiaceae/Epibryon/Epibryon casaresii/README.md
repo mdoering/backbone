@@ -1,5 +1,4 @@
-Epibryon casaresii f. casaresii (Bubák & Gonz. Frag.) Döbbeler, 1978 FORM
-=======
+# Epibryon casaresii (Bubák & Gonz. Frag.) Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. bot. StSamml. , Münch. 14: 272 (1978)
+null
 
 #### Original name
-Epibryon casaresii f. casaresii (Bubák & Gonz. Frag.) Döbbeler, 1978
+null
 
 ### Remarks
 null

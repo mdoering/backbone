@@ -1,5 +1,4 @@
-Asterina mulleri J.A. Stev. SPECIES
-=======
+# Asterina mulleri J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

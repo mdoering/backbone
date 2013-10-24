@@ -1,5 +1,4 @@
-Crepidotus aureus E. Horak SPECIES
-=======
+# Crepidotus aureus E. Horak SPECIES
 
 #### Status
 ACCEPTED

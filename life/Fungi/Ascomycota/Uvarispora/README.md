@@ -1,5 +1,4 @@
-Uvarispora Goos & Piroz. GENUS
-=======
+# Uvarispora Goos & Piroz. GENUS
 
 #### Status
 ACCEPTED

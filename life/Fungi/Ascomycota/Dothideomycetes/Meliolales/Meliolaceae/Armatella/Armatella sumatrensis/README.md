@@ -1,5 +1,4 @@
-Armatella sumatrensis Hansf. SPECIES
-=======
+# Armatella sumatrensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

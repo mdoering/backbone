@@ -1,5 +1,4 @@
-Epochnium isthmophorum Sacc. SPECIES
-=======
+# Epochnium isthmophorum Sacc. SPECIES
 
 #### Status
 ACCEPTED

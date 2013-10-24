@@ -1,5 +1,4 @@
-Theocalyptra Haeckel, 1887 GENUS
-=======
+# Theocalyptra Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

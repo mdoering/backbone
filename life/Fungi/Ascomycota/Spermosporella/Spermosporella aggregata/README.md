@@ -1,5 +1,4 @@
-Spermosporella aggregata Deighton, 1969 SPECIES
-=======
+# Spermosporella aggregata Deighton, 1969 SPECIES
 
 #### Status
 ACCEPTED

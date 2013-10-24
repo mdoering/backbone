@@ -1,8 +1,7 @@
-Condylostoma terricola Foissner, 1995 SPECIES
-=======
+# Condylostomides terricola (Foissner, 1995) Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

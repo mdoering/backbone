@@ -1,5 +1,4 @@
-Mauginiella borassi Ponnappa SPECIES
-=======
+# Mauginiella borassi Ponnappa SPECIES
 
 #### Status
 ACCEPTED

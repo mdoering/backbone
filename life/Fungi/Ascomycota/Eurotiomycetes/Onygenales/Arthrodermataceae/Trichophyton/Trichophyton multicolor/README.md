@@ -1,5 +1,4 @@
-Trichophyton multicolor O. Magalh. & J.A. Neves SPECIES
-=======
+# Trichophyton multicolor O. Magalh. & J.A. Neves SPECIES
 
 #### Status
 ACCEPTED

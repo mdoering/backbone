@@ -1,5 +1,4 @@
-Asterina megalospora Berk. & M.A. Curtis SPECIES
-=======
+# Asterina megalospora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

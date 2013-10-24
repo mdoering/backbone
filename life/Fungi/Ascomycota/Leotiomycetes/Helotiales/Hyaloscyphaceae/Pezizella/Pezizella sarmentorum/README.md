@@ -1,5 +1,4 @@
-Pezizella sarmentorum Velen. SPECIES
-=======
+# Pezizella sarmentorum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favolaschia aurantiaca Singer, 1974 SPECIES
-=======
+# Favolaschia aurantiaca Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

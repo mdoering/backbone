@@ -1,5 +1,4 @@
-Stereum coriaceum (Berk. & Broome) Petch SPECIES
-=======
+# Stereum coriaceum (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hysterium gramineum Pers., 1813 SPECIES
-=======
+# Lophodermium gramineum (Fr.) Chevall., 1826 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stirp. Crypt. Voges. -Rhen. 368 (1813)
+Fl. gén. env. Paris (Paris) 1: 435 (1826)
 
 #### Original name
-Hysterium gramineum Pers., 1813
+Hysterium culmigenum Fr., 1818
 
 ### Remarks
 null

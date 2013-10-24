@@ -1,5 +1,4 @@
-Chaetothyrium punctiforme Rick SPECIES
-=======
+# Chaetothyrium punctiforme Rick SPECIES
 
 #### Status
 ACCEPTED

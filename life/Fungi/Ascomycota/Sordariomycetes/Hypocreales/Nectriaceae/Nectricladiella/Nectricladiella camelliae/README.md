@@ -1,14 +1,13 @@
-Nectria camelliae (Shipton) Boesew., 1982 SPECIES
-=======
+# Nectricladiella camelliae (Shipton) Crous & C.L. Schoch, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 60(11): 2293 (1982)
+in Schoch, Crous, Wingfield & Wingfield, Stud. Mycol. 45: 54 (2000)
 
 #### Original name
 Calonectria camelliae Shipton, 1979

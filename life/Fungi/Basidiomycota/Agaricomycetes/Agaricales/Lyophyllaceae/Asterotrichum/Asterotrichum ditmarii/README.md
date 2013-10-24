@@ -1,8 +1,7 @@
-Asterotrichum ditmari Bonord. SPECIES
-=======
+# Asterotrichum ditmarii Bonord. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asterotrichum ditmari Bonord.
+Asterotrichum ditmarii Bonord.
 
 ### Remarks
 null

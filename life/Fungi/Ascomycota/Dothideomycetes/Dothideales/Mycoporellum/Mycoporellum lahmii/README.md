@@ -1,5 +1,4 @@
-Mycoporellum lahmii Müll. Arg. SPECIES
-=======
+# Mycoporellum lahmii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

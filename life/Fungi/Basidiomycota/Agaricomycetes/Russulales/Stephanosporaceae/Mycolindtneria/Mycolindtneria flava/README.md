@@ -1,14 +1,13 @@
-Lindtneria flava Parmasto, 1968 SPECIES
-=======
+# Mycolindtneria flava (Parmasto) Rauschert, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Eesti NSV Tead. Akad. Toim. , Biol. seer 17(4): 408 (1968)
+Haussknechtia 4: 54 (1988)
 
 #### Original name
 Lindtneria flava Parmasto, 1968

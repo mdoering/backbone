@@ -1,5 +1,4 @@
-Ascochyta veratrina Ellis & Everh. SPECIES
-=======
+# Ascochyta veratrina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

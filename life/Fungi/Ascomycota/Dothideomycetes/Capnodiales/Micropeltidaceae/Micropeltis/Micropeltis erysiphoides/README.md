@@ -1,5 +1,4 @@
-Micropeltis erysiphoides Rehm SPECIES
-=======
+# Micropeltis erysiphoides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia phaeaspis (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia phaeaspis (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

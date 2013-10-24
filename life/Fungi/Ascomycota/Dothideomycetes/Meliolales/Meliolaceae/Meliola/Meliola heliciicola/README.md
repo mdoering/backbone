@@ -1,5 +1,4 @@
-Meliola heliciicola Hansf. SPECIES
-=======
+# Meliola heliciicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

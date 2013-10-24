@@ -1,5 +1,4 @@
-Lamprospora retispora (Itzerott & Thate) T. Schumach. SPECIES
-=======
+# Lamprospora retispora (Itzerott & Thate) T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

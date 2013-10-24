@@ -1,5 +1,4 @@
-Schlumbergerella sphaerica Saidova, 1975 SPECIES
-=======
+# Schlumbergerella sphaerica Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

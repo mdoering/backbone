@@ -1,5 +1,4 @@
-Agyrium densum Fuckel SPECIES
-=======
+# Agyrium densum Fuckel SPECIES
 
 #### Status
 ACCEPTED

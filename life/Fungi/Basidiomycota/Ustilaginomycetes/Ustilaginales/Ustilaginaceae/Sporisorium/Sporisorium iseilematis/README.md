@@ -1,5 +1,4 @@
-Sporisorium iseilematis (Syd., P. Syd. & E.J. Butler) Vánky SPECIES
-=======
+# Sporisorium iseilematis (Syd., P. Syd. & E.J. Butler) Vánky SPECIES
 
 #### Status
 ACCEPTED

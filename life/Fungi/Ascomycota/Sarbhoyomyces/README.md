@@ -1,5 +1,4 @@
-Sarbhoyomyces Saikia GENUS
-=======
+# Sarbhoyomyces Saikia GENUS
 
 #### Status
 ACCEPTED

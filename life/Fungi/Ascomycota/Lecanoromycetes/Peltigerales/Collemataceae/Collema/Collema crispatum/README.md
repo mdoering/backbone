@@ -1,5 +1,4 @@
-Collema crispatum Hoffm. SPECIES
-=======
+# Collema crispatum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

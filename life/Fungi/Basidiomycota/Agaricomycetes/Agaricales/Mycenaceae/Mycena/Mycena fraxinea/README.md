@@ -1,5 +1,4 @@
-Mycena fraxinea Velen. SPECIES
-=======
+# Mycena fraxinea Velen. SPECIES
 
 #### Status
 ACCEPTED

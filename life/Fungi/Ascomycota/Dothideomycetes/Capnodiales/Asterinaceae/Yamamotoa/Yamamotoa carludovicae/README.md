@@ -1,14 +1,13 @@
-Peresiopsis carludovicae Bat., 1960 SPECIES
-=======
+# Yamamotoa carludovicae (Bat.) Arx & E. Müll., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publções Inst. Micol. Recife 291: 24 (1960)
+Stud. Mycol. 9: 44 (1975)
 
 #### Original name
 Peresiopsis carludovicae Bat., 1960

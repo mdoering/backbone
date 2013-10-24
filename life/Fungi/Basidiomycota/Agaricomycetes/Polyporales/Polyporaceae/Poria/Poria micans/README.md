@@ -1,5 +1,4 @@
-Poria micans (Ehrenb.) Fr. SPECIES
-=======
+# Poria micans (Ehrenb.) Fr. SPECIES
 
 #### Status
 ACCEPTED

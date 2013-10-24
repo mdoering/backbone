@@ -1,5 +1,4 @@
-Cystopus resedae Rayss SPECIES
-=======
+# Cystopus resedae Rayss SPECIES
 
 #### Status
 ACCEPTED

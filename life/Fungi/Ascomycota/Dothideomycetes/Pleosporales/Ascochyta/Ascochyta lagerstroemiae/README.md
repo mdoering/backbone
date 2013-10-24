@@ -1,5 +1,4 @@
-Ascochyta lagerstroemiae Chowdhry & D. Gupta SPECIES
-=======
+# Ascochyta lagerstroemiae Chowdhry & D. Gupta SPECIES
 
 #### Status
 ACCEPTED

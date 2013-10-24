@@ -1,17 +1,16 @@
-Favolaschia amoenerosea Henn. SPECIES
-=======
+# Favolaschia amoene-rosea Henn., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 43: 202 (1904)
 
 #### Original name
-Favolaschia amoenerosea Henn.
+Favolaschia amoene-rosea Henn., 1904
 
 ### Remarks
 null

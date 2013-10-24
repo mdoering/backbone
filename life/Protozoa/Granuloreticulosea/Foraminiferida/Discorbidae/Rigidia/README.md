@@ -1,5 +1,4 @@
-Rigidia GENUS
-=======
+# Rigidia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deflandrea dartmooria Cookson & Eisenack, 1965 SPECIES
-=======
+# Deflandrea dartmooria Cookson & Eisenack, 1965 SPECIES
 
 #### Status
 ACCEPTED

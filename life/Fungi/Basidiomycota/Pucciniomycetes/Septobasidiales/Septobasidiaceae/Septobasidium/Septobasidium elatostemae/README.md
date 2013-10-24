@@ -1,5 +1,4 @@
-Septobasidium elatostemae Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium elatostemae Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

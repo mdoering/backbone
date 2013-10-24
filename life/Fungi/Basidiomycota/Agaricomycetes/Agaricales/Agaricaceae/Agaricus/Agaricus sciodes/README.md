@@ -1,5 +1,4 @@
-Agaricus sciodes Pers. SPECIES
-=======
+# Agaricus sciodes Pers. SPECIES
 
 #### Status
 ACCEPTED

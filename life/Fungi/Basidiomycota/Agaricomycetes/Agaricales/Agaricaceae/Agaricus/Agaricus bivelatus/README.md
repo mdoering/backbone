@@ -1,5 +1,4 @@
-Agaricus bivelatus Peck SPECIES
-=======
+# Agaricus bivelatus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermoloma glauconitens (Fr.) Bon SPECIES
-=======
+# Dermoloma glauconitens (Fr.) Bon SPECIES
 
 #### Status
 ACCEPTED

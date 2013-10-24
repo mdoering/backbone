@@ -1,5 +1,4 @@
-Zaninettia Bronnimann & Whittaker, 1983 GENUS
-=======
+# Zaninettia Bronnimann & Whittaker, 1983 GENUS
 
 #### Status
 ACCEPTED

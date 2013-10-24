@@ -1,5 +1,4 @@
-Pestalotia kalmicola Ellis & Everh. SPECIES
-=======
+# Pestalotia kalmicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

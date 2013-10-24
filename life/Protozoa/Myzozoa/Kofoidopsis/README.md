@@ -1,5 +1,4 @@
-Kofoidopsis Tasch GENUS
-=======
+# Kofoidopsis Tasch GENUS
 
 #### Status
 ACCEPTED

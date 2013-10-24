@@ -1,5 +1,4 @@
-Phlyctis pulveracea I.M. Lamb SPECIES
-=======
+# Phlyctis pulveracea I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

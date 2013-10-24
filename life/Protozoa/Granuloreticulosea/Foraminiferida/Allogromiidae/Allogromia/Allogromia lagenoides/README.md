@@ -1,8 +1,7 @@
-Gromia lagenoides Gruber, 1884 SPECIES
-=======
+# Allogromia lagenoides (Gruber, 1884) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

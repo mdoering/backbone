@@ -1,5 +1,4 @@
-Phaeographis vicarians (Vain.) M. Nakan. SPECIES
-=======
+# Phaeographis vicarians (Vain.) M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma paludicola Murrill SPECIES
-=======
+# Hebeloma paludicola Murrill SPECIES
 
 #### Status
 ACCEPTED

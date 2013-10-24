@@ -1,5 +1,4 @@
-Loricophrya cattanei (Parona, 1883) Matthes, 1956 SPECIES
-=======
+# Loricophrya cattanei (Parona, 1883) Matthes, 1956 SPECIES
 
 #### Status
 ACCEPTED

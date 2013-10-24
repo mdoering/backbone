@@ -1,5 +1,4 @@
-Amphiporthe Petrak, 1971 GENUS
-=======
+# Amphiporthe Petrak, 1971 GENUS
 
 #### Status
 ACCEPTED

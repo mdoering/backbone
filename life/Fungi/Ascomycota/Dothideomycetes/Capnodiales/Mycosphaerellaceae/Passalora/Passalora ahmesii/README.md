@@ -1,5 +1,4 @@
-Passalora ahmesii (Munt.-Cvetk.) U. Braun & Crous SPECIES
-=======
+# Passalora ahmesii (Munt.-Cvetk.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endosporostilbe GENUS
-=======
+# Endosporostilbe GENUS
 
 #### Status
 ACCEPTED

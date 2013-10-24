@@ -1,5 +1,4 @@
-Felixites pollenisimilis (U. Horst) Elsik SPECIES
-=======
+# Felixites pollenisimilis (U. Horst) Elsik SPECIES
 
 #### Status
 ACCEPTED

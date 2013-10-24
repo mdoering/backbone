@@ -1,5 +1,4 @@
-Archilegnia Apinis GENUS
-=======
+# Archilegnia Apinis GENUS
 
 #### Status
 ACCEPTED

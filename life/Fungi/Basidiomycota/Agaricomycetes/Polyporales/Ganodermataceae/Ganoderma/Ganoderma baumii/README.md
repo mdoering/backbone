@@ -1,5 +1,4 @@
-Ganoderma baumii Pilát SPECIES
-=======
+# Ganoderma baumii Pilát SPECIES
 
 #### Status
 ACCEPTED

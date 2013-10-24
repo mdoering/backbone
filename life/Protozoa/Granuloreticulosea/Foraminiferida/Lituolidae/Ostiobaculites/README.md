@@ -1,5 +1,4 @@
-Ostiobaculites Brönnimann, Whittaker & Zaninetti, 1992 GENUS
-=======
+# Ostiobaculites Brönnimann, Whittaker & Zaninetti, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crossopsora notata (Arthur & J.R. Johnst.) Arthur SPECIES
-=======
+# Crossopsora notata (Arthur & J.R. Johnst.) Arthur SPECIES
 
 #### Status
 ACCEPTED

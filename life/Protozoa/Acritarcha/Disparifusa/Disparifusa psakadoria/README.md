@@ -1,5 +1,4 @@
-Disparifusa psakadoria Loeblich & Tappan, 1978 SPECIES
-=======
+# Disparifusa psakadoria Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

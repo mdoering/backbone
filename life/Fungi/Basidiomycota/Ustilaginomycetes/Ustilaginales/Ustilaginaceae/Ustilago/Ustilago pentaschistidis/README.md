@@ -1,5 +1,4 @@
-Ustilago pentaschistidis Vánky SPECIES
-=======
+# Ustilago pentaschistidis Vánky SPECIES
 
 #### Status
 ACCEPTED

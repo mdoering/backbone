@@ -1,5 +1,4 @@
-Lituola rudis Brady, 1881 SPECIES
-=======
+# Lituola rudis Brady, 1881 SPECIES
 
 #### Status
 ACCEPTED

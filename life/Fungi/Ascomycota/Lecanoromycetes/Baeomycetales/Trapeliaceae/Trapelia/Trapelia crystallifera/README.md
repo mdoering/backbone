@@ -1,5 +1,4 @@
-Trapelia crystallifera Kantvilas & Elix SPECIES
-=======
+# Trapelia crystallifera Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

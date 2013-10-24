@@ -1,5 +1,4 @@
-Dimerosporium samoënse Henn. SPECIES
-=======
+# Dimerosporium samoënse Henn. SPECIES
 
 #### Status
 ACCEPTED

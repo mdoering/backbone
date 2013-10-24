@@ -1,5 +1,4 @@
-Phyllosticta maianthemi W.B. Cooke SPECIES
-=======
+# Phyllosticta maianthemi W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

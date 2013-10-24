@@ -1,14 +1,13 @@
-Paraparmelia crawfordensis Elix SPECIES
-=======
+# Xanthoparmelia crawfordensis (Elix) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 80: 78 (2001)
+Mycotaxon 87: 398 (2003)
 
 #### Original name
 Paraparmelia crawfordensis Elix

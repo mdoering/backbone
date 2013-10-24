@@ -1,5 +1,4 @@
-Agaricus leucellus Pers. SPECIES
-=======
+# Agaricus leucellus Pers. SPECIES
 
 #### Status
 ACCEPTED

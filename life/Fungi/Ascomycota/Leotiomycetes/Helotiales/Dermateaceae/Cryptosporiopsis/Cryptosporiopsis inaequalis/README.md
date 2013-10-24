@@ -1,5 +1,4 @@
-Cryptosporiopsis inaequalis M. Morelet, 1973 SPECIES
-=======
+# Cryptosporiopsis inaequalis M. Morelet, 1973 SPECIES
 
 #### Status
 ACCEPTED

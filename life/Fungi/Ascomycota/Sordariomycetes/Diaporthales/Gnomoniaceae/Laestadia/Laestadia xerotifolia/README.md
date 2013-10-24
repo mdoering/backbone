@@ -1,5 +1,4 @@
-Laestadia xerotifolia Cooke & Massee SPECIES
-=======
+# Laestadia xerotifolia Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

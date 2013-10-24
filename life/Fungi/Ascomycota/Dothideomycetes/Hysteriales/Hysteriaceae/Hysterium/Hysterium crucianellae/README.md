@@ -1,5 +1,4 @@
-Hysterium crucianellae F. Rudolphi SPECIES
-=======
+# Hysterium crucianellae F. Rudolphi SPECIES
 
 #### Status
 ACCEPTED

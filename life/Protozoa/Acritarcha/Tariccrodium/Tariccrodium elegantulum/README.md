@@ -1,5 +1,4 @@
-Tariccrodium elegantulum P. Pittau SPECIES
-=======
+# Tariccrodium elegantulum P. Pittau SPECIES
 
 #### Status
 ACCEPTED

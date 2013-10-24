@@ -1,5 +1,4 @@
-Cortinarius glaucoprasinus (M.M. Moser) M.M. Moser SPECIES
-=======
+# Cortinarius glaucoprasinus (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria hordei Domashova SPECIES
-=======
+# Leptosphaeria hordei Domashova SPECIES
 
 #### Status
 ACCEPTED

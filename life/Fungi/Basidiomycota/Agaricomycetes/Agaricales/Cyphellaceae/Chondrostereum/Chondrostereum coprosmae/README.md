@@ -1,14 +1,13 @@
-Corticium coprosmae G. Cunn., 1954 SPECIES
-=======
+# Chondrostereum coprosmae (G. Cunn.) Stalpers, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 82: 280 (1954)
+N. Z. Jl Bot. 23(2): 393 (1985)
 
 #### Original name
 Corticium coprosmae G. Cunn., 1954

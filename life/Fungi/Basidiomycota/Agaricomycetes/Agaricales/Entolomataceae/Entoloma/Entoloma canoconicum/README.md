@@ -1,5 +1,4 @@
-Entoloma canoconicum E. Horak, 1976 SPECIES
-=======
+# Entoloma canoconicum E. Horak, 1976 SPECIES
 
 #### Status
 ACCEPTED

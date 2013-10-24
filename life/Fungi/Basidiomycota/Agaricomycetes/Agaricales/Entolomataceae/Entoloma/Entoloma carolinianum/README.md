@@ -1,5 +1,4 @@
-Entoloma carolinianum Hesler SPECIES
-=======
+# Entoloma carolinianum Hesler SPECIES
 
 #### Status
 ACCEPTED

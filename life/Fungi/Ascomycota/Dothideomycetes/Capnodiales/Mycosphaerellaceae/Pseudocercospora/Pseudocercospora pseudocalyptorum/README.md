@@ -1,5 +1,4 @@
-Pseudocercospora pseudocalyptorum SPECIES
-=======
+# Pseudocercospora pseudocalyptorum SPECIES
 
 #### Status
 ACCEPTED

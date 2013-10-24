@@ -1,5 +1,4 @@
-Tricholoma gigantulum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma gigantulum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

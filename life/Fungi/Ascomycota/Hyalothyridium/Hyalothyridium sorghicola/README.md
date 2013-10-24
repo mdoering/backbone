@@ -1,5 +1,4 @@
-Hyalothyridium sorghicola R. Sprague SPECIES
-=======
+# Hyalothyridium sorghicola R. Sprague SPECIES
 
 #### Status
 ACCEPTED

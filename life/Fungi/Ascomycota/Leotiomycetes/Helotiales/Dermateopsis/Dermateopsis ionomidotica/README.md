@@ -1,5 +1,4 @@
-Dermateopsis ionomidotica Gamundí SPECIES
-=======
+# Dermateopsis ionomidotica Gamundí SPECIES
 
 #### Status
 ACCEPTED

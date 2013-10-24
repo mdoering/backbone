@@ -1,14 +1,13 @@
-Pseudolpidiella glenodintana (P.A. Dang.) Cejp SPECIES
-=======
+# Sirolpidium glenodinianum (P.A. Dang.) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Straminipilous Fungi (Dordrecht) 360 (2001)
 
 #### Original name
 Olpidium glenodinianum P.A. Dang., 1888

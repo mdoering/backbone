@@ -1,5 +1,4 @@
-Cladonia lopezii S. Stenroos SPECIES
-=======
+# Cladonia lopezii S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

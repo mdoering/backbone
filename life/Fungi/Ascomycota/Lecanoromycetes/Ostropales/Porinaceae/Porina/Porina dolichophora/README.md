@@ -1,5 +1,4 @@
-Porina dolichophora (Nyl.) Müll. Arg. SPECIES
-=======
+# Porina dolichophora (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

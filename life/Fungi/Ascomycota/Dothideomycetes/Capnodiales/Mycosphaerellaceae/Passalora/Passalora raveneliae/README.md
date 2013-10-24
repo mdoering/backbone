@@ -1,5 +1,4 @@
-Passalora raveneliae (M.D. Mehrotra & R.K. Verma) U. Braun & Crous SPECIES
-=======
+# Passalora raveneliae (M.D. Mehrotra & R.K. Verma) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

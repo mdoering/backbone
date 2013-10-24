@@ -1,5 +1,4 @@
-Rimosicysta Marshall, 1989 GENUS
-=======
+# Rimosicysta Marshall, 1989 GENUS
 
 #### Status
 ACCEPTED

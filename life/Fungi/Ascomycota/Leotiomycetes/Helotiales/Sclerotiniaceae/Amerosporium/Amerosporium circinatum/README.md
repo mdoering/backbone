@@ -1,17 +1,16 @@
-Amerosporium circinata G. Srivast., B. Lal & M.P. Tandon SPECIES
-=======
+# Amerosporium circinatum G. Srivast., B. Lal & M.P. Tandon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+National Academy Science Letters 4(6): 231 (1981)
 
 #### Original name
-Amerosporium circinata G. Srivast., B. Lal & M.P. Tandon
+Amerosporium circinatum G. Srivast., B. Lal & M.P. Tandon
 
 ### Remarks
 null

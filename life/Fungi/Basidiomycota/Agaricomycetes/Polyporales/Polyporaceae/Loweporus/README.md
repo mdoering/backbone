@@ -1,5 +1,4 @@
-Loweporus GENUS
-=======
+# Loweporus GENUS
 
 #### Status
 ACCEPTED

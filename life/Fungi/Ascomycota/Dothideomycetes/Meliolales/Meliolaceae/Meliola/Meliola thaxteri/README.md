@@ -1,5 +1,4 @@
-Meliola thaxteri Hansf. SPECIES
-=======
+# Meliola thaxteri Hansf. SPECIES
 
 #### Status
 ACCEPTED

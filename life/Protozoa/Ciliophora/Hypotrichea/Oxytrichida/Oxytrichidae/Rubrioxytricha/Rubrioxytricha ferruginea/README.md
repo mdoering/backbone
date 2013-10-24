@@ -1,8 +1,7 @@
-Oxytricha feruginea Stein, 1859 SPECIES
-=======
+# Rubrioxytricha ferruginea (Stein, 1859) Berger, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

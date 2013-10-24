@@ -1,5 +1,4 @@
-Pleospora trichostomella (Sacc.) Sacc. SPECIES
-=======
+# Pleospora trichostomella (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

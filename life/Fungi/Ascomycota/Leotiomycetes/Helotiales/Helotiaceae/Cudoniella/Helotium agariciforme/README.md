@@ -1,5 +1,4 @@
-Helotium agariciforme DC. SPECIES
-=======
+# Helotium agariciforme DC. SPECIES
 
 #### Status
 ACCEPTED

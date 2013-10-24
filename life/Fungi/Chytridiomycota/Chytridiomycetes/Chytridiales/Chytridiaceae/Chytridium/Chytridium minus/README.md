@@ -1,5 +1,4 @@
-Chytridium minus C. Lacoste & Suringar SPECIES
-=======
+# Chytridium minus C. Lacoste & Suringar SPECIES
 
 #### Status
 ACCEPTED

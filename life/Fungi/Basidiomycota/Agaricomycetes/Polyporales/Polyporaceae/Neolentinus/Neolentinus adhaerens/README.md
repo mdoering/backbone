@@ -1,17 +1,16 @@
-Lentinus adhaerens var. adhaerens (Alb. & Schwein.) Fr. VARIETY
-=======
+# Neolentinus adhaerens (Alb. & Schwein.) Redhead & Ginns, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 26(3): 357 (1985)
 
 #### Original name
-Lentinus adhaerens var. adhaerens (Alb. & Schwein.) Fr.
+Agaricus adhaerens J.F. Gmel., 1792
 
 ### Remarks
 null

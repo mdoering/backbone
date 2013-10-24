@@ -1,5 +1,4 @@
-Ustilago bothriochloae-intermediae Padwick SPECIES
-=======
+# Ustilago bothriochloae-intermediae Padwick SPECIES
 
 #### Status
 ACCEPTED

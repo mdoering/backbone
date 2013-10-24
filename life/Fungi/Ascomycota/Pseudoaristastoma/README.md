@@ -1,5 +1,4 @@
-Pseudoaristastoma Suj. Singh GENUS
-=======
+# Pseudoaristastoma Suj. Singh GENUS
 
 #### Status
 ACCEPTED

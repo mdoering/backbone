@@ -1,5 +1,4 @@
-Meliola obesa Speg. SPECIES
-=======
+# Meliola obesa Speg. SPECIES
 
 #### Status
 ACCEPTED

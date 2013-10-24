@@ -1,5 +1,4 @@
-Tulostoma lloydii Bres. SPECIES
-=======
+# Tulostoma lloydii Bres. SPECIES
 
 #### Status
 ACCEPTED

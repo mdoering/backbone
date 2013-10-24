@@ -1,5 +1,4 @@
-Subtercola boreus Männistö et al., 2000 SPECIES
-=======
+# Subtercola boreus Männistö et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

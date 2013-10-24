@@ -1,5 +1,4 @@
-Heteroconidium Sawada GENUS
-=======
+# Heteroconidium Sawada GENUS
 
 #### Status
 ACCEPTED

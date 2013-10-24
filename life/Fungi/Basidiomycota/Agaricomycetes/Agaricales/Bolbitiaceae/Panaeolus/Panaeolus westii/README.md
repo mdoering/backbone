@@ -1,5 +1,4 @@
-Panaeolus westii (Murrill) Murrill SPECIES
-=======
+# Panaeolus westii (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

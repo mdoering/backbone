@@ -1,5 +1,4 @@
-Vermicularia colchici Fuckel SPECIES
-=======
+# Vermicularia colchici Fuckel SPECIES
 
 #### Status
 ACCEPTED

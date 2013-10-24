@@ -1,5 +1,4 @@
-Synechococcus subsalsus Skuja SPECIES
-=======
+# Synechococcus subsalsus Skuja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium sageretiae Henn. SPECIES
-=======
+# Aecidium sageretiae Henn. SPECIES
 
 #### Status
 ACCEPTED

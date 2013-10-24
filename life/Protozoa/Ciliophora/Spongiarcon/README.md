@@ -1,5 +1,4 @@
-Spongiarcon Yankovskij, 1980 GENUS
-=======
+# Spongiarcon Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

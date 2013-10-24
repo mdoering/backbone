@@ -1,5 +1,4 @@
-Geovibrio Caccavo et al., 2000 GENUS
-=======
+# Geovibrio Caccavo et al., 2000 GENUS
 
 #### Status
 ACCEPTED

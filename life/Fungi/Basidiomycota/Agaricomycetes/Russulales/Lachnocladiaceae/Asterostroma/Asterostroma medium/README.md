@@ -1,5 +1,4 @@
-Asterostroma medium Bres., 1920 SPECIES
-=======
+# Asterostroma medium Bres., 1920 SPECIES
 
 #### Status
 ACCEPTED

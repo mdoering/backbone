@@ -1,5 +1,4 @@
-Badimia elixii Kalb & Lumbsch SPECIES
-=======
+# Badimia elixii Kalb & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

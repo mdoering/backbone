@@ -1,5 +1,4 @@
-Camarosporium celtidiphilum Gucevic SPECIES
-=======
+# Camarosporium celtidiphilum Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia cynarae Sacc., 1879 SPECIES
-=======
+# Ramularia cynarae Sacc., 1879 SPECIES
 
 #### Status
 ACCEPTED

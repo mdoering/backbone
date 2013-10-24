@@ -1,5 +1,4 @@
-Cladonia corniculata Ahti & Kashiw. SPECIES
-=======
+# Cladonia corniculata Ahti & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

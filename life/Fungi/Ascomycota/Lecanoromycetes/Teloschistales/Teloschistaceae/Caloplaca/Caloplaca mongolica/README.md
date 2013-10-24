@@ -1,5 +1,4 @@
-Caloplaca mongolica H. Magn. SPECIES
-=======
+# Caloplaca mongolica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plasia Sherwood GENUS
-=======
+# Plasia Sherwood GENUS
 
 #### Status
 ACCEPTED

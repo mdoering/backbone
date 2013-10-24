@@ -1,5 +1,4 @@
-Acarospora rutilans Hue SPECIES
-=======
+# Acarospora rutilans Hue SPECIES
 
 #### Status
 ACCEPTED

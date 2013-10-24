@@ -1,5 +1,4 @@
-Aeruginospora Höhn. GENUS
-=======
+# Aeruginospora Höhn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptoporus coriolus D.A. Reid SPECIES
-=======
+# Leptoporus coriolus D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

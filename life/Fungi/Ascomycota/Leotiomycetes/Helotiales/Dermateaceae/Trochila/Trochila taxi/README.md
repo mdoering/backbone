@@ -1,5 +1,4 @@
-Trochila taxi Fr. SPECIES
-=======
+# Trochila taxi Fr. SPECIES
 
 #### Status
 ACCEPTED

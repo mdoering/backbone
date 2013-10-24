@@ -1,5 +1,4 @@
-Myxosporium ulmicola Hollós SPECIES
-=======
+# Myxosporium ulmicola Hollós SPECIES
 
 #### Status
 ACCEPTED

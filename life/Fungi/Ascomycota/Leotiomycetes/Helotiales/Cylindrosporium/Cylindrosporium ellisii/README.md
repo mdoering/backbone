@@ -1,5 +1,4 @@
-Cylindrosporium ellisii Halst. SPECIES
-=======
+# Cylindrosporium ellisii Halst. SPECIES
 
 #### Status
 ACCEPTED

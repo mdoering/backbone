@@ -1,5 +1,4 @@
-Dothiora cannabinae Froid., 1973 SPECIES
-=======
+# Dothiora cannabinae Froid., 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus subvictoriensis Rick SPECIES
-=======
+# Polyporus subvictoriensis Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella atropae Syd. SPECIES
-=======
+# Mycosphaerella atropae Syd. SPECIES
 
 #### Status
 ACCEPTED

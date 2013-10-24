@@ -1,5 +1,4 @@
-Corticium juniperinum (Weinm.) Fr. SPECIES
-=======
+# Corticium juniperinum (Weinm.) Fr. SPECIES
 
 #### Status
 ACCEPTED

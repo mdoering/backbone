@@ -1,5 +1,4 @@
-Omphalia fuligineonigrescens (Britzelm.) Sacc. SPECIES
-=======
+# Omphalia fuligineonigrescens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

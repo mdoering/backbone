@@ -1,5 +1,4 @@
-Clintoniella longicollis (Penz. & Sacc.) Sacc. & P. Syd. SPECIES
-=======
+# Clintoniella longicollis (Penz. & Sacc.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

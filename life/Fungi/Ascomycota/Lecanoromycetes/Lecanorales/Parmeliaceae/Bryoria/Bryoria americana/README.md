@@ -1,5 +1,4 @@
-Bryoria americana (Motyka) Holien SPECIES
-=======
+# Bryoria americana (Motyka) Holien SPECIES
 
 #### Status
 ACCEPTED

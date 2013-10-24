@@ -1,5 +1,4 @@
-Omphalodiscus corsicus (Frey) Llano SPECIES
-=======
+# Omphalodiscus corsicus (Frey) Llano SPECIES
 
 #### Status
 ACCEPTED

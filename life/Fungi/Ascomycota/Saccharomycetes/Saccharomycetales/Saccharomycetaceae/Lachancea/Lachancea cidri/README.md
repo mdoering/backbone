@@ -1,14 +1,13 @@
-Zygosaccharomyces cidri (Legakis) Yarrow, 1977 SPECIES
-=======
+# Lachancea cidri (Legakis) Kurtzman, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 14: 12 (1977)
+FEMS Yeast Res. 4(3): 240 (2003)
 
 #### Original name
 Saccharomyces cidri Legakis, 1961

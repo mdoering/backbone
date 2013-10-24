@@ -1,5 +1,4 @@
-Papulaspora spinulosa Hotson SPECIES
-=======
+# Papulaspora spinulosa Hotson SPECIES
 
 #### Status
 ACCEPTED

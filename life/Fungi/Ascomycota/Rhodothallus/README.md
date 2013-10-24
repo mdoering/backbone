@@ -1,5 +1,4 @@
-Rhodothallus Bat. & Cif. GENUS
-=======
+# Rhodothallus Bat. & Cif. GENUS
 
 #### Status
 ACCEPTED

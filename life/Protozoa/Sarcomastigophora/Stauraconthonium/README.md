@@ -1,5 +1,4 @@
-Stauraconthonium Haeckel, 1887 GENUS
-=======
+# Stauraconthonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

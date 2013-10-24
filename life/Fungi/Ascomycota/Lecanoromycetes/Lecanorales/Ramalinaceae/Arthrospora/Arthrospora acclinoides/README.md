@@ -1,5 +1,4 @@
-Arthrospora acclinoides (Nyl.) SPECIES
-=======
+# Arthrospora acclinoides (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fistulinella lutea Redeuilh & Soop, 2007 SPECIES
-=======
+# Fistulinella lutea Redeuilh & Soop, 2007 SPECIES
 
 #### Status
 ACCEPTED

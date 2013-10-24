@@ -1,5 +1,4 @@
-Depazea paridicola Rabenh. SPECIES
-=======
+# Depazea paridicola Rabenh. SPECIES
 
 #### Status
 ACCEPTED

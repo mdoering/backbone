@@ -1,5 +1,4 @@
-Selenidium cruzi de Faria, da Cunha & da Fonseca, 1917 SPECIES
-=======
+# Selenidium cruzi de Faria, da Cunha & da Fonseca, 1917 SPECIES
 
 #### Status
 ACCEPTED

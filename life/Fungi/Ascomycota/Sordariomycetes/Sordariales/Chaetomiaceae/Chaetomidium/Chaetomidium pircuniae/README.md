@@ -1,5 +1,4 @@
-Chaetomidium pircuniae Bacc. & P. Avetta SPECIES
-=======
+# Chaetomidium pircuniae Bacc. & P. Avetta SPECIES
 
 #### Status
 ACCEPTED

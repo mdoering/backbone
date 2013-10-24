@@ -1,5 +1,4 @@
-Nummularia fuckelia Theiss. SPECIES
-=======
+# Nummularia fuckelia Theiss. SPECIES
 
 #### Status
 ACCEPTED

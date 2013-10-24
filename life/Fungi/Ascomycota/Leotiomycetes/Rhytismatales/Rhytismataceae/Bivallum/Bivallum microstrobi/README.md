@@ -1,5 +1,4 @@
-Bivallum microstrobi P.R. Johnst., 1991 SPECIES
-=======
+# Bivallum microstrobi P.R. Johnst., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea azorica Nyl. SPECIES
-=======
+# Lecidea azorica Nyl. SPECIES
 
 #### Status
 ACCEPTED

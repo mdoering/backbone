@@ -1,5 +1,4 @@
-Arthonia thozetiana Müll. Arg. SPECIES
-=======
+# Arthonia thozetiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

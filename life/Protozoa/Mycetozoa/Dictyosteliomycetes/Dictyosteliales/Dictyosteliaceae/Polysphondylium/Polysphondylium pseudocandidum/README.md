@@ -1,5 +1,4 @@
-Polysphondylium pseudocandidum H. Hagiw., 1979 SPECIES
-=======
+# Polysphondylium pseudocandidum H. Hagiw., 1979 SPECIES
 
 #### Status
 ACCEPTED

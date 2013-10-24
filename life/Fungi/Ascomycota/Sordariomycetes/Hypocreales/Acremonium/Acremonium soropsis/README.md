@@ -1,5 +1,4 @@
-Acremonium soropsis Wize SPECIES
-=======
+# Acremonium soropsis Wize SPECIES
 
 #### Status
 ACCEPTED

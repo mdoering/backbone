@@ -1,5 +1,4 @@
-Lecanora subangulosa (W. Johnson) Motyka SPECIES
-=======
+# Lecanora subangulosa (W. Johnson) Motyka SPECIES
 
 #### Status
 ACCEPTED

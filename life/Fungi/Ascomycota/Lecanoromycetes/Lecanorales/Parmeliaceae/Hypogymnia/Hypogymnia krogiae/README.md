@@ -1,17 +1,16 @@
-Hypogymnia krogii Ohlsson SPECIES
-=======
+# Hypogymnia krogiae Ohlsson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 76(3): 377 (1973)
 
 #### Original name
-Hypogymnia krogii Ohlsson
+Hypogymnia krogiae Ohlsson
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea verrucariae Metzler ex Nyl. SPECIES
-=======
+# Lecidea verrucariae Metzler ex Nyl. SPECIES
 
 #### Status
 ACCEPTED

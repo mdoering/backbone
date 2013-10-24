@@ -1,5 +1,4 @@
-Sphaeronaema pistillare Wallr. SPECIES
-=======
+# Sphaeronaema pistillare Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetrasporopsis fuscescens (A. Braun ex Kützing) Lemmermann ex Schmidle SPECIES
-=======
+# Tetrasporopsis fuscescens (A. Braun ex Kützing) Lemmermann ex Schmidle SPECIES
 
 #### Status
 ACCEPTED

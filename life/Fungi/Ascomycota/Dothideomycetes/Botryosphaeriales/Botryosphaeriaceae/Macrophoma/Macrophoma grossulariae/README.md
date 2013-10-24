@@ -1,5 +1,4 @@
-Macrophoma grossulariae Oudem. SPECIES
-=======
+# Macrophoma grossulariae Oudem. SPECIES
 
 #### Status
 ACCEPTED

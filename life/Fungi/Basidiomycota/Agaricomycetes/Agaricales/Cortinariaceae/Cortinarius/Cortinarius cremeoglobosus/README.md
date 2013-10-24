@@ -1,5 +1,4 @@
-Cortinarius cremeoglobosus Rob. Henry SPECIES
-=======
+# Cortinarius cremeoglobosus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

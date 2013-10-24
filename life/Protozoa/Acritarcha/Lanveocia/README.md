@@ -1,5 +1,4 @@
-Lanveocia J. Deunff, 1978 GENUS
-=======
+# Lanveocia J. Deunff, 1978 GENUS
 
 #### Status
 ACCEPTED

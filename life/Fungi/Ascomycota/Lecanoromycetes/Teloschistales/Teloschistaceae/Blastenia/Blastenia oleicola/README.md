@@ -1,5 +1,4 @@
-Blastenia oleicola J. Steiner SPECIES
-=======
+# Blastenia oleicola J. Steiner SPECIES
 
 #### Status
 ACCEPTED

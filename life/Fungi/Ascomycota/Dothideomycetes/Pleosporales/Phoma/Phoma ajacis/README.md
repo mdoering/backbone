@@ -1,17 +1,16 @@
-Stagonosporopsis ajacis (Thüm.) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Phoma ajacis (Thüm.) Aa & Boerema, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 15(3): 383 (1993)
 
 #### Original name
-null
+Phyllosticta ajacis Thüm., 1880
 
 ### Remarks
 null

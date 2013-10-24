@@ -1,5 +1,4 @@
-Sarcodon cyanellus (K.A. Harrison) Stalpers SPECIES
-=======
+# Sarcodon cyanellus (K.A. Harrison) Stalpers SPECIES
 
 #### Status
 ACCEPTED

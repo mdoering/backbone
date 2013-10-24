@@ -1,5 +1,4 @@
-Boletus umbrinisquamosus (Murrill) Murrill SPECIES
-=======
+# Boletus umbrinisquamosus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

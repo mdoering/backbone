@@ -1,5 +1,4 @@
-Aecidium otagense Linds., 1867 SPECIES
-=======
+# Aecidium otagense Linds., 1867 SPECIES
 
 #### Status
 ACCEPTED

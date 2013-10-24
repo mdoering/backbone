@@ -1,5 +1,4 @@
-Flammeovirga arenaria (ex Lewin, 1969) Takahashi et al., 2006 SPECIES
-=======
+# Flammeovirga arenaria (ex Lewin, 1969) Takahashi et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

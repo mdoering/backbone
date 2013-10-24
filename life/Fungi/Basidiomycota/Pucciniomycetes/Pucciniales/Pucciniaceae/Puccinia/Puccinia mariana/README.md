@@ -1,5 +1,4 @@
-Puccinia mariana Sacc., 1915 SPECIES
-=======
+# Puccinia mariana Sacc., 1915 SPECIES
 
 #### Status
 ACCEPTED

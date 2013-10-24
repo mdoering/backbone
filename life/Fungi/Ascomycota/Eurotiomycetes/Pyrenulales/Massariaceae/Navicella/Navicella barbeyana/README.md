@@ -1,5 +1,4 @@
-Navicella barbeyana (Roum. & Sacc.) Kuntze SPECIES
-=======
+# Navicella barbeyana (Roum. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

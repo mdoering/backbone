@@ -1,5 +1,4 @@
-Nigroporus stipitatus Douanla-Meli & Ryvarden SPECIES
-=======
+# Nigroporus stipitatus Douanla-Meli & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

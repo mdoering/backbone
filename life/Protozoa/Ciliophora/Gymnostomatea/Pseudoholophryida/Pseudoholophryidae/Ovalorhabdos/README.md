@@ -1,5 +1,4 @@
-Ovalorhabdos Foissner, 1984 GENUS
-=======
+# Ovalorhabdos Foissner, 1984 GENUS
 
 #### Status
 ACCEPTED

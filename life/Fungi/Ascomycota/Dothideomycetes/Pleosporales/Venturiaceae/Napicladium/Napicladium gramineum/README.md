@@ -1,5 +1,4 @@
-Napicladium gramineum Peck SPECIES
-=======
+# Napicladium gramineum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sagedia spectabilis Hepp SPECIES
-=======
+# Sagedia spectabilis Hepp SPECIES
 
 #### Status
 ACCEPTED

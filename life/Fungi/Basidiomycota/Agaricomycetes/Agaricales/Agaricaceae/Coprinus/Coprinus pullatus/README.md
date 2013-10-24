@@ -1,5 +1,4 @@
-Coprinus pullatus (Bolton) Fr. SPECIES
-=======
+# Coprinus pullatus (Bolton) Fr. SPECIES
 
 #### Status
 ACCEPTED

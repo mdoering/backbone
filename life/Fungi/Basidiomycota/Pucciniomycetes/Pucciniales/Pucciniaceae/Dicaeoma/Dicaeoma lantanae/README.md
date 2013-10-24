@@ -1,5 +1,4 @@
-Dicaeoma lantanae (Farl.) Kuntze SPECIES
-=======
+# Dicaeoma lantanae (Farl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

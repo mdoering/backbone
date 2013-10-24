@@ -1,5 +1,4 @@
-Hypocrea molliuscula (Schwein.) Sacc. SPECIES
-=======
+# Hypocrea molliuscula (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

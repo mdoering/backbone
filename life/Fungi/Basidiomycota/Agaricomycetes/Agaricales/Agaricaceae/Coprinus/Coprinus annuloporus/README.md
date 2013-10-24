@@ -1,5 +1,4 @@
-Coprinus annuloporus Enderle SPECIES
-=======
+# Coprinus annuloporus Enderle SPECIES
 
 #### Status
 ACCEPTED

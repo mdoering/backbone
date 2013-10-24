@@ -1,5 +1,4 @@
-Peziza incarnata Pers. SPECIES
-=======
+# Peziza incarnata Pers. SPECIES
 
 #### Status
 ACCEPTED

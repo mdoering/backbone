@@ -1,5 +1,4 @@
-Cyphelium pileatum Ach. SPECIES
-=======
+# Cyphelium pileatum Ach. SPECIES
 
 #### Status
 ACCEPTED

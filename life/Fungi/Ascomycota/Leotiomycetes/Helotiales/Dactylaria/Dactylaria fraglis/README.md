@@ -1,5 +1,4 @@
-Dactylaria fraglis de Hoog SPECIES
-=======
+# Dactylaria fraglis de Hoog SPECIES
 
 #### Status
 ACCEPTED

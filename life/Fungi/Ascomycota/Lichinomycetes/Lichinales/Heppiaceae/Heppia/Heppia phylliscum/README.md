@@ -1,5 +1,4 @@
-Heppia phylliscum (Nyl.) Hue SPECIES
-=======
+# Heppia phylliscum (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

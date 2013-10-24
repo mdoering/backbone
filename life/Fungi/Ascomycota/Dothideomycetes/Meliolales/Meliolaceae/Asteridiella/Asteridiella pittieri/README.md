@@ -1,5 +1,4 @@
-Asteridiella pittieri (Toro) Hansf. SPECIES
-=======
+# Asteridiella pittieri (Toro) Hansf. SPECIES
 
 #### Status
 ACCEPTED

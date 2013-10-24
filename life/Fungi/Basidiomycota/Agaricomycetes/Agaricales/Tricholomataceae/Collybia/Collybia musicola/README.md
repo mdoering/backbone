@@ -1,5 +1,4 @@
-Collybia musicola (Murrill) Murrill SPECIES
-=======
+# Collybia musicola (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

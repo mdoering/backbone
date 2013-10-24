@@ -1,17 +1,16 @@
-Squamaria albida Kremp. SPECIES
-=======
+# Placopsis albida (Kremp.) I. M. Lamb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 13: 241 (1947)
 
 #### Original name
-null
+Squamaria albida Kremp.
 
 ### Remarks
 null

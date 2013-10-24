@@ -1,5 +1,4 @@
-Megalospora lopadioides Sipman SPECIES
-=======
+# Megalospora lopadioides Sipman SPECIES
 
 #### Status
 ACCEPTED

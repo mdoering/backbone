@@ -1,5 +1,4 @@
-Rhizoctonia orobanches Mérat SPECIES
-=======
+# Rhizoctonia orobanches Mérat SPECIES
 
 #### Status
 ACCEPTED

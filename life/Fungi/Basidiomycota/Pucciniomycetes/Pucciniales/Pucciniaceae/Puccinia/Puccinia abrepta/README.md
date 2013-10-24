@@ -1,5 +1,4 @@
-Puccinia abrepta F. Kern SPECIES
-=======
+# Puccinia abrepta F. Kern SPECIES
 
 #### Status
 ACCEPTED

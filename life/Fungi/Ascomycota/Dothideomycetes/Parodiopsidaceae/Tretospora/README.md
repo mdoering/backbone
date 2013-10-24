@@ -1,5 +1,4 @@
-Tretospora M.B. Ellis GENUS
-=======
+# Tretospora M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium lentisporum Kirschst. SPECIES
-=======
+# Helotium lentisporum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

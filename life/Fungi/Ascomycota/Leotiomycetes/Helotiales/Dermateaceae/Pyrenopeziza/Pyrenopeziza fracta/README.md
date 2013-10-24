@@ -1,5 +1,4 @@
-Pyrenopeziza fracta (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pyrenopeziza fracta (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

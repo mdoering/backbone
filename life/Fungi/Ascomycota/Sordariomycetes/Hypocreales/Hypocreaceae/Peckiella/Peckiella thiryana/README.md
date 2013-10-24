@@ -1,5 +1,4 @@
-Peckiella thiryana (Maire) Sacc. & P. Syd. SPECIES
-=======
+# Peckiella thiryana (Maire) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

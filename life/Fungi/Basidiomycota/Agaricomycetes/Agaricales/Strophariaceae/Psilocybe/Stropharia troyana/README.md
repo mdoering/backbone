@@ -1,5 +1,4 @@
-Stropharia troyana Murrill SPECIES
-=======
+# Stropharia troyana Murrill SPECIES
 
 #### Status
 ACCEPTED

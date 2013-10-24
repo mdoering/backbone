@@ -1,17 +1,16 @@
-Sphaerella minor var. minor VARIETY
-=======
+# Mycosphaerella minor (P. Karst.) Johanson, 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Öfvers. kongl. Svensk. Vetensk. -Akad. Förhandl. 41(9): 165 (1884)
 
 #### Original name
-Sphaerella minor var. minor
+Sphaerella minor P. Karst., 1873
 
 ### Remarks
 null

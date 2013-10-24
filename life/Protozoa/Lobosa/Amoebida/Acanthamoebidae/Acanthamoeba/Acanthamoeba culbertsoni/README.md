@@ -1,5 +1,4 @@
-Acanthamoeba culbertsoni Singh & Das, 1970 SPECIES
-=======
+# Acanthamoeba culbertsoni Singh & Das, 1970 SPECIES
 
 #### Status
 ACCEPTED

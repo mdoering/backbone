@@ -1,17 +1,16 @@
-Russula maculata var. maculata VARIETY
-=======
+# Russula maculata Quél. & Roze, 1877 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Soc. bot. Fr. 24: 323 (1877)
 
 #### Original name
-Russula maculata var. maculata
+Russula maculata Quél. & Roze, 1877
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Miliola jacksonensis Cushman, 1933 SPECIES
-=======
+# Miliola jacksonensis Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

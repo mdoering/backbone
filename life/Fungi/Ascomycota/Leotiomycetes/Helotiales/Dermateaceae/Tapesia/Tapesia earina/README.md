@@ -1,5 +1,4 @@
-Tapesia earina Ellis SPECIES
-=======
+# Tapesia earina Ellis SPECIES
 
 #### Status
 ACCEPTED

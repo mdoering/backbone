@@ -1,5 +1,4 @@
-Fibuloporia kuzyana (Pilát) Bondartsev SPECIES
-=======
+# Fibuloporia kuzyana (Pilát) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

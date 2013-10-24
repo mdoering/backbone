@@ -1,5 +1,4 @@
-Hyalopus heterosporus Harder SPECIES
-=======
+# Hyalopus heterosporus Harder SPECIES
 
 #### Status
 ACCEPTED

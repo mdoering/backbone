@@ -1,5 +1,4 @@
-Kalosha aluta Loeblich & Tappan, 1994 SPECIES
-=======
+# Kalosha aluta Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

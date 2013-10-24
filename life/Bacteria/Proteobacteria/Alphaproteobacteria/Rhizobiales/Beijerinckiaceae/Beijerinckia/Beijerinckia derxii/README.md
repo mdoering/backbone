@@ -1,5 +1,4 @@
-Beijerinckia derxii subsp. derxii SUBSPECIES
-=======
+# Beijerinckia derxii Tchan, 1957 SPECIES
 
 #### Status
 ACCEPTED

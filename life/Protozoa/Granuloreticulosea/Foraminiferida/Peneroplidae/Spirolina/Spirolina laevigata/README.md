@@ -1,5 +1,4 @@
-Spirolina laevigata d'Orbigny, 1850 SPECIES
-=======
+# Spirolina laevigata d'Orbigny, 1850 SPECIES
 
 #### Status
 ACCEPTED

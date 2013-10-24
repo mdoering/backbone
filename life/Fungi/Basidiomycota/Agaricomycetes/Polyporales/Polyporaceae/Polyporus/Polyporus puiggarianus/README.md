@@ -1,5 +1,4 @@
-Polyporus puiggarianus Henn. SPECIES
-=======
+# Polyporus puiggarianus Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perisporium rubi Lib. SPECIES
-=======
+# Perisporium rubi Lib. SPECIES
 
 #### Status
 ACCEPTED

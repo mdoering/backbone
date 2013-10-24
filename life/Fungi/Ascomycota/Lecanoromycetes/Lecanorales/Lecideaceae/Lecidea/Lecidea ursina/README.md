@@ -1,5 +1,4 @@
-Lecidea ursina Lynge SPECIES
-=======
+# Lecidea ursina Lynge SPECIES
 
 #### Status
 ACCEPTED

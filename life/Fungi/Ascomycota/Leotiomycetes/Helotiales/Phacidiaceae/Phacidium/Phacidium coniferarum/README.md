@@ -1,14 +1,13 @@
-Phacidiella coniferarum G.G. Hahn, 1957 SPECIES
-=======
+# Phacidium coniferarum (G.G. Hahn) DiCosmo, Nag Raj & W.B. Kendr., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 49: 227 (1957)
+Can. J. Bot. 61: 37 (1983)
 
 #### Original name
 Phacidiella coniferarum G.G. Hahn, 1957

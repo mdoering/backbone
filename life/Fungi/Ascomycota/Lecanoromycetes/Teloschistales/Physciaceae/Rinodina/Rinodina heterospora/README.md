@@ -1,5 +1,4 @@
-Rinodina heterospora SPECIES
-=======
+# Rinodina heterospora SPECIES
 
 #### Status
 ACCEPTED

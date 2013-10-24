@@ -1,5 +1,4 @@
-Parmotrema negrosorientalum Elix & Schumm SPECIES
-=======
+# Parmotrema negrosorientalum Elix & Schumm SPECIES
 
 #### Status
 ACCEPTED

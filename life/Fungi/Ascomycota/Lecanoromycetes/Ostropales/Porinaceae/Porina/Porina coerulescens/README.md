@@ -1,5 +1,4 @@
-Porina coerulescens (Müll. Arg.) F. Schill. SPECIES
-=======
+# Porina coerulescens (Müll. Arg.) F. Schill. SPECIES
 
 #### Status
 ACCEPTED

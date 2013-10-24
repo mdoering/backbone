@@ -1,5 +1,4 @@
-Bryoria acanthodes (Hue) Bystrek SPECIES
-=======
+# Bryoria acanthodes (Hue) Bystrek SPECIES
 
 #### Status
 ACCEPTED

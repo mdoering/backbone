@@ -1,5 +1,4 @@
-Sirius anulosus Fombella, 1978 SPECIES
-=======
+# Sirius anulosus Fombella, 1978 SPECIES
 
 #### Status
 ACCEPTED

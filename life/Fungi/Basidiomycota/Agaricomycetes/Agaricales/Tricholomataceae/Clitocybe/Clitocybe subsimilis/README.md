@@ -1,5 +1,4 @@
-Clitocybe subsimilis Peck SPECIES
-=======
+# Clitocybe subsimilis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapesia albomaculans Rehm SPECIES
-=======
+# Tapesia albomaculans Rehm SPECIES
 
 #### Status
 ACCEPTED

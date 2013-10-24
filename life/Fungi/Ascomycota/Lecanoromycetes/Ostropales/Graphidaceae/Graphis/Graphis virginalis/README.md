@@ -1,5 +1,4 @@
-Graphis virginalis Tuck. SPECIES
-=======
+# Graphis virginalis Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orientia Tamura et al., 1995 GENUS
-=======
+# Orientia Tamura et al., 1995 GENUS
 
 #### Status
 ACCEPTED

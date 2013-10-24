@@ -1,5 +1,4 @@
-Cladonia subsubulata Nyl. SPECIES
-=======
+# Cladonia subsubulata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnodinula trichodea (Rehm) Speg., 1918 SPECIES
-=======
+# Capnodinula trichodea (Rehm) Speg., 1918 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Histrio erethisticus Stokes, 1887 SPECIES
-=======
+# Histrio erethisticus Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

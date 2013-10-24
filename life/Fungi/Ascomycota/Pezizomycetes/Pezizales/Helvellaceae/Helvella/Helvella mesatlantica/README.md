@@ -1,5 +1,4 @@
-Helvella mesatlantica Malençon SPECIES
-=======
+# Helvella mesatlantica Malençon SPECIES
 
 #### Status
 ACCEPTED

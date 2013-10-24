@@ -1,5 +1,4 @@
-Marasmiellus aquilus Singer SPECIES
-=======
+# Marasmiellus aquilus Singer SPECIES
 
 #### Status
 ACCEPTED

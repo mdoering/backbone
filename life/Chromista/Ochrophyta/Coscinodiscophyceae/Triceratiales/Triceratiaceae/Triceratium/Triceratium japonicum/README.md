@@ -1,5 +1,4 @@
-Triceratium japonicum A. Smith SPECIES
-=======
+# Triceratium japonicum A. Smith SPECIES
 
 #### Status
 ACCEPTED

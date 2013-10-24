@@ -1,5 +1,4 @@
-Coniothyrium subcrustaceum Bubák SPECIES
-=======
+# Coniothyrium subcrustaceum Bubák SPECIES
 
 #### Status
 ACCEPTED

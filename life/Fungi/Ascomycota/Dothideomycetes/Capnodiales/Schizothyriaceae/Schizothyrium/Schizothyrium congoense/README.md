@@ -1,17 +1,16 @@
-Schizothyrium congoensis Beeli SPECIES
-=======
+# Schizothyrium congoense Beeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Jard. Bot. État 8: 3 (1922)
 
 #### Original name
-Schizothyrium congoensis Beeli
+Schizothyrium congoense Beeli
 
 ### Remarks
 null

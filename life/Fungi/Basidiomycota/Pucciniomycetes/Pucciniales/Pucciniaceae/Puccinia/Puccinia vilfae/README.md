@@ -1,5 +1,4 @@
-Puccinia vilfae var. mexicana Cummins VARIETY
-=======
+# Puccinia vilfae Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Southwest Naturalist 12: 83 (1967)
+Bull. Iowa Lab. Nat. Hist. 4: 388 (1898)
 
 #### Original name
-Puccinia vilfae var. mexicana Cummins
+Puccinia vilfae Arthur & Holw.
 
 ### Remarks
 null

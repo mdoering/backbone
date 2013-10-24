@@ -1,5 +1,4 @@
-Lentinus elmeri Lloyd SPECIES
-=======
+# Lentinus elmeri Lloyd SPECIES
 
 #### Status
 ACCEPTED

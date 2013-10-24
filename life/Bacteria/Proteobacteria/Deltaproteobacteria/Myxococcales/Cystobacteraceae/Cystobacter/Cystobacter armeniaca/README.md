@@ -1,5 +1,4 @@
-Cystobacter armeniaca SPECIES
-=======
+# Cystobacter armeniaca SPECIES
 
 #### Status
 ACCEPTED

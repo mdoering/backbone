@@ -1,5 +1,4 @@
-Phoma fusispora Vouaux SPECIES
-=======
+# Phoma fusispora Vouaux SPECIES
 
 #### Status
 ACCEPTED

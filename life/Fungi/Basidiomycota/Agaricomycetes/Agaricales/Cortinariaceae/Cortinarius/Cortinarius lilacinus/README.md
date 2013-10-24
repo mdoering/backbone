@@ -1,5 +1,4 @@
-Cortinarius lilacinus Peck SPECIES
-=======
+# Cortinarius lilacinus Peck SPECIES
 
 #### Status
 ACCEPTED

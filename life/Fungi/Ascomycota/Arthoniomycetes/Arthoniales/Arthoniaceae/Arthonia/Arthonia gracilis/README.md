@@ -1,5 +1,4 @@
-Arthonia gracilis (Eschw.) Müll. Arg. SPECIES
-=======
+# Arthonia gracilis (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

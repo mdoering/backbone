@@ -1,5 +1,4 @@
-Leptothyrium kaki Bubák SPECIES
-=======
+# Leptothyrium kaki Bubák SPECIES
 
 #### Status
 ACCEPTED

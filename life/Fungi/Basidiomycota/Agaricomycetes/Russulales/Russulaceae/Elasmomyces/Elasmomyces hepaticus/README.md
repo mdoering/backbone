@@ -1,5 +1,4 @@
-Elasmomyces hepaticus G.W. Beaton, Pegler & T.W.K. Young SPECIES
-=======
+# Elasmomyces hepaticus G.W. Beaton, Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

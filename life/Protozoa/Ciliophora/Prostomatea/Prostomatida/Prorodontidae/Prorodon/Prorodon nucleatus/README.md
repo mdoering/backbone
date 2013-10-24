@@ -1,11 +1,10 @@
-Prorodon nucleatus var. magnus Dragesco, 1960 VARIETY
-=======
+# Prorodon nucleatus Svec, 1897 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Geopyxis suburceolata W. Phillips SPECIES
-=======
+# Geopyxis suburceolata W. Phillips SPECIES
 
 #### Status
 ACCEPTED

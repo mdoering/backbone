@@ -1,5 +1,4 @@
-Polystictus pseudopergamenus Thüm. SPECIES
-=======
+# Polystictus pseudopergamenus Thüm. SPECIES
 
 #### Status
 ACCEPTED

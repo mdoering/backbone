@@ -1,5 +1,4 @@
-Agaricus telmatiaeus Berk. & Cooke SPECIES
-=======
+# Agaricus telmatiaeus Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

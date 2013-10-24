@@ -1,5 +1,4 @@
-Crocynia aliciae Hue SPECIES
-=======
+# Crocynia aliciae Hue SPECIES
 
 #### Status
 ACCEPTED

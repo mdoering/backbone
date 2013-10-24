@@ -1,5 +1,4 @@
-Galerula flexipes (P. Karst.) G.F. Atk. SPECIES
-=======
+# Galerula flexipes (P. Karst.) G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

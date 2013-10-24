@@ -1,5 +1,4 @@
-Gorgadesia mira Tav. SPECIES
-=======
+# Gorgadesia mira Tav. SPECIES
 
 #### Status
 ACCEPTED

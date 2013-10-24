@@ -1,5 +1,4 @@
-Rhizobium vitis (Ophel & Kerr, 1990) Young et al., 2001 SPECIES
-=======
+# Rhizobium vitis (Ophel & Kerr, 1990) Young et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

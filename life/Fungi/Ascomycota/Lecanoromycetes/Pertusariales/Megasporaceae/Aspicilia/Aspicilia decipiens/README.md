@@ -1,5 +1,4 @@
-Aspicilia decipiens Elenk. SPECIES
-=======
+# Aspicilia decipiens Elenk. SPECIES
 
 #### Status
 ACCEPTED

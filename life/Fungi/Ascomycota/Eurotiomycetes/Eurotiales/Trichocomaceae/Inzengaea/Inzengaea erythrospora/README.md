@@ -1,5 +1,4 @@
-Inzengaea erythrospora Borzí SPECIES
-=======
+# Inzengaea erythrospora Borzí SPECIES
 
 #### Status
 ACCEPTED

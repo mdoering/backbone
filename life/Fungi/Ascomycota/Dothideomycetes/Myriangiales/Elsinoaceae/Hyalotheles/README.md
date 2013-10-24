@@ -1,5 +1,4 @@
-Hyalotheles Speg. GENUS
-=======
+# Hyalotheles Speg. GENUS
 
 #### Status
 ACCEPTED

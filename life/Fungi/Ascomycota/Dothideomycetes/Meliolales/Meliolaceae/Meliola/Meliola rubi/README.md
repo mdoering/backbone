@@ -1,5 +1,4 @@
-Meliola rubi var. rubi VARIETY
-=======
+# Meliola rubi (F. Stevens & Roldan) Cif. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 7: 87 (1954)
 
 #### Original name
-Meliola rubi var. rubi
+Irenina rubi F. Stevens & Roldan
 
 ### Remarks
 null

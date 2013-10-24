@@ -1,5 +1,4 @@
-Postia punctata Rajchenb. & P.K. Buchanan SPECIES
-=======
+# Postia punctata Rajchenb. & P.K. Buchanan SPECIES
 
 #### Status
 ACCEPTED

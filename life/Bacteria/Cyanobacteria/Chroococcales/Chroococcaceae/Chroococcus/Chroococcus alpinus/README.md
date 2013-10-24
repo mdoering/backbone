@@ -1,5 +1,4 @@
-Chroococcus alpinus Schmidle SPECIES
-=======
+# Chroococcus alpinus Schmidle SPECIES
 
 #### Status
 ACCEPTED

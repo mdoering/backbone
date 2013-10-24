@@ -1,5 +1,4 @@
-Septoria geranii-pratensis Henn. SPECIES
-=======
+# Septoria geranii-pratensis Henn. SPECIES
 
 #### Status
 ACCEPTED

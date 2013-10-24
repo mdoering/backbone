@@ -1,5 +1,4 @@
-Acrothecium robustum J.C. Gilman & E.V. Abbott, 1927 SPECIES
-=======
+# Acrothecium robustum J.C. Gilman & E.V. Abbott, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoperidinium belizeanum M.A. Faust SPECIES
-=======
+# Protoperidinium belizeanum M.A. Faust SPECIES
 
 #### Status
 ACCEPTED

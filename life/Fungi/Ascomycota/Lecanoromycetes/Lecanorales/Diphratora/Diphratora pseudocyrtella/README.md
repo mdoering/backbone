@@ -1,5 +1,4 @@
-Diphratora pseudocyrtella (Anzi) Jatta SPECIES
-=======
+# Diphratora pseudocyrtella (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

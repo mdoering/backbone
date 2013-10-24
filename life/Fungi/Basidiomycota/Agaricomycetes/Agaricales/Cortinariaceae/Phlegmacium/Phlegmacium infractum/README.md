@@ -1,5 +1,4 @@
-Phlegmacium infractum f. infractum FORM
-=======
+# Phlegmacium infractum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phlegmacium infractum f. infractum
+null
 
 ### Remarks
 null

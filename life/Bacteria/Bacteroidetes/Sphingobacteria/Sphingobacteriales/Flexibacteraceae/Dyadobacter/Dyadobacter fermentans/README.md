@@ -1,5 +1,4 @@
-Dyadobacter fermentans Chelius & Triplett, 2000 SPECIES
-=======
+# Dyadobacter fermentans Chelius & Triplett, 2000 SPECIES
 
 #### Status
 ACCEPTED

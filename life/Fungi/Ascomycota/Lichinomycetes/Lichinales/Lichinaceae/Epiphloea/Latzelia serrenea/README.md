@@ -1,5 +1,4 @@
-Latzelia serrenea (Nyl.) Zahlbr. SPECIES
-=======
+# Latzelia serrenea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

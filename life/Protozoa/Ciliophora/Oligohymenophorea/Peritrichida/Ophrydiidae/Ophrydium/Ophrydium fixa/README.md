@@ -1,5 +1,4 @@
-Ophrydium fixa D'Udekem, 1862 SPECIES
-=======
+# Ophrydium fixa D'Udekem, 1862 SPECIES
 
 #### Status
 ACCEPTED

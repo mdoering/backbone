@@ -1,5 +1,4 @@
-Paxina recurvum Snyder SPECIES
-=======
+# Paxina recurvum Snyder SPECIES
 
 #### Status
 ACCEPTED

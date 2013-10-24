@@ -1,14 +1,13 @@
-Auricularia salicina (Fr.) Quél., 1886 SPECIES
-=======
+# Cytidia salicina (Fr.) Burt, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enchir. fung. (Paris) 208 (1886)
+Annual Report of the Missouri Botanical Garden, St. Louis 11: 10 (1924)
 
 #### Original name
 Thelephora salicina Fr., 1821

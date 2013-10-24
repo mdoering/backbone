@@ -1,5 +1,4 @@
-Phibalis montana (Arendh. & R. Sharma) M.P. Sharma & R. Kamal SPECIES
-=======
+# Phibalis montana (Arendh. & R. Sharma) M.P. Sharma & R. Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nabespecha Cornell & Simpson, 1986 GENUS
-=======
+# Nabespecha Cornell & Simpson, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uranidium Jacobson & Achab, 1985 GENUS
-=======
+# Uranidium Jacobson & Achab, 1985 GENUS
 
 #### Status
 ACCEPTED

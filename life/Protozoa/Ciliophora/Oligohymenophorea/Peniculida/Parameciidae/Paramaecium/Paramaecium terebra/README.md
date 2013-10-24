@@ -1,5 +1,4 @@
-Paramaecium terebra SPECIES
-=======
+# Paramaecium terebra SPECIES
 
 #### Status
 ACCEPTED

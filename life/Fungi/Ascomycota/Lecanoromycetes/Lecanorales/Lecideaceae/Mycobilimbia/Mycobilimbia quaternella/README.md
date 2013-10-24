@@ -1,5 +1,4 @@
-Mycobilimbia quaternella (Nyl.) Vouaux SPECIES
-=======
+# Mycobilimbia quaternella (Nyl.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

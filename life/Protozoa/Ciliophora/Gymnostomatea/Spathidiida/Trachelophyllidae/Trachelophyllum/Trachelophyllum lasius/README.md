@@ -1,8 +1,7 @@
-Lagynus lasius Stokes, 1885 SPECIES
-=======
+# Trachelophyllum lasius Stokes SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

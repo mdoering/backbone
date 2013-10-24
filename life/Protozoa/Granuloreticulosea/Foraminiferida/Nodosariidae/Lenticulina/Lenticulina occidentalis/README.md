@@ -1,5 +1,4 @@
-Lenticulina occidentalis SPECIES
-=======
+# Lenticulina occidentalis SPECIES
 
 #### Status
 ACCEPTED

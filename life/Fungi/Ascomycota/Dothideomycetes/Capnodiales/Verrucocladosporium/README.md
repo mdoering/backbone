@@ -1,5 +1,4 @@
-Verrucocladosporium K. Schub., Aptroot & Crous GENUS
-=======
+# Verrucocladosporium K. Schub., Aptroot & Crous GENUS
 
 #### Status
 ACCEPTED

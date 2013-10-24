@@ -1,5 +1,4 @@
-Tricholoma pseudorussula Speg. SPECIES
-=======
+# Tricholoma pseudorussula Speg. SPECIES
 
 #### Status
 ACCEPTED

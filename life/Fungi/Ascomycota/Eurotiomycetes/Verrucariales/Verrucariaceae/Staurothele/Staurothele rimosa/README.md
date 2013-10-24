@@ -1,5 +1,4 @@
-Staurothele rimosa (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Staurothele rimosa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

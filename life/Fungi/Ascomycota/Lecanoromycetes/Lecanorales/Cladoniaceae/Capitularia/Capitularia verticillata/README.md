@@ -1,5 +1,4 @@
-Capitularia verticillata (Ach.) Flörke SPECIES
-=======
+# Capitularia verticillata (Ach.) Flörke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyttarocylis acus SPECIES
-=======
+# Cyttarocylis acus SPECIES
 
 #### Status
 ACCEPTED

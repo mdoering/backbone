@@ -1,17 +1,16 @@
-Sphaeria rubida A. Bloxam SPECIES
-=======
+# Metasphaeria rubida (A. Bloxam) Cooke, 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. , 1890 42: (1890)
 
 #### Original name
-Sphaeria rubida A. Bloxam
+Metasphaeria rubida (A. Bloxam) Cooke, 1892
 
 ### Remarks
 null

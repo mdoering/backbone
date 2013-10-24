@@ -1,5 +1,4 @@
-Didymosphaeria thlapsi Vestergr. SPECIES
-=======
+# Didymosphaeria thlapsi Vestergr. SPECIES
 
 #### Status
 ACCEPTED

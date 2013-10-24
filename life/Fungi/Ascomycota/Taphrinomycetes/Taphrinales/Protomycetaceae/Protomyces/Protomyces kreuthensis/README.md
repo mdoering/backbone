@@ -1,5 +1,4 @@
-Protomyces kreuthensis Krieg. SPECIES
-=======
+# Protomyces kreuthensis Krieg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha protera Nyl. SPECIES
-=======
+# Opegrapha protera Nyl. SPECIES
 
 #### Status
 ACCEPTED

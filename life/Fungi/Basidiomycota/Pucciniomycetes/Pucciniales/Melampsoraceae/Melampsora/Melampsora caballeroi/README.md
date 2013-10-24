@@ -1,5 +1,4 @@
-Melampsora caballeroi Unamuno SPECIES
-=======
+# Melampsora caballeroi Unamuno SPECIES
 
 #### Status
 ACCEPTED

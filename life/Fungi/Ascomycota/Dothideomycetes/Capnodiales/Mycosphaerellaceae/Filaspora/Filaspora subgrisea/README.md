@@ -1,5 +1,4 @@
-Filaspora subgrisea (Peck) Kuntze SPECIES
-=======
+# Filaspora subgrisea (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

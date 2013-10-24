@@ -1,5 +1,4 @@
-Pertusaria trachydactyla Vain. SPECIES
-=======
+# Pertusaria trachydactyla Vain. SPECIES
 
 #### Status
 ACCEPTED

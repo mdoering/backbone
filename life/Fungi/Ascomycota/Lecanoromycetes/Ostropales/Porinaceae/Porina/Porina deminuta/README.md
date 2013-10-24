@@ -1,5 +1,4 @@
-Porina deminuta P. M. McCarthy SPECIES
-=======
+# Porina deminuta P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

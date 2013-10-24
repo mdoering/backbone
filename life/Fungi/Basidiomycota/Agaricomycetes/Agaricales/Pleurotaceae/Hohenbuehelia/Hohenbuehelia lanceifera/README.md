@@ -1,5 +1,4 @@
-Hohenbuehelia lanceifera Corner SPECIES
-=======
+# Hohenbuehelia lanceifera Corner SPECIES
 
 #### Status
 ACCEPTED

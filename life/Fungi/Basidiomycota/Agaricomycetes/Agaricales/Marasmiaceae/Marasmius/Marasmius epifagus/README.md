@@ -1,5 +1,4 @@
-Marasmius epifagus Gilliam SPECIES
-=======
+# Marasmius epifagus Gilliam SPECIES
 
 #### Status
 ACCEPTED

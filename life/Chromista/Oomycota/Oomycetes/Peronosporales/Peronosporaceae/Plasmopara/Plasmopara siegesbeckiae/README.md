@@ -1,5 +1,4 @@
-Plasmopara siegesbeckiae (Lagerh.) J.F. Tao SPECIES
-=======
+# Plasmopara siegesbeckiae (Lagerh.) J.F. Tao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnea fulvescens (Nyl.) Sacc. SPECIES
-=======
+# Lachnea fulvescens (Nyl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

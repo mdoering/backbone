@@ -1,5 +1,4 @@
-Cyclopeltis sebastianiae Bat. & H. Maia SPECIES
-=======
+# Cyclopeltis sebastianiae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

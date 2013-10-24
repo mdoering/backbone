@@ -1,5 +1,4 @@
-Eccilia unicolor Peck SPECIES
-=======
+# Eccilia unicolor Peck SPECIES
 
 #### Status
 ACCEPTED

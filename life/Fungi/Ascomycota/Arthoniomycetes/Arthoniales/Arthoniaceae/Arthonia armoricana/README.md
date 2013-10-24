@@ -1,5 +1,4 @@
-Arthonia armoricana Leight. SPECIES
-=======
+# Arthonia armoricana Leight. SPECIES
 
 #### Status
 ACCEPTED

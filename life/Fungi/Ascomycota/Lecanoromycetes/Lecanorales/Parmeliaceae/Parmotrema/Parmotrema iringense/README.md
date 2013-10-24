@@ -1,5 +1,4 @@
-Parmotrema iringense Krog SPECIES
-=======
+# Parmotrema iringense Krog SPECIES
 
 #### Status
 ACCEPTED

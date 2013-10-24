@@ -1,5 +1,4 @@
-Alternaria burnsii Uppal, Patel & Kamat, 1938 SPECIES
-=======
+# Alternaria burnsii Uppal, Patel & Kamat, 1938 SPECIES
 
 #### Status
 ACCEPTED

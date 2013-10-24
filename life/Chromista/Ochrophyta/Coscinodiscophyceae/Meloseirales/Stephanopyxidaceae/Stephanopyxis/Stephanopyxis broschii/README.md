@@ -1,5 +1,4 @@
-Stephanopyxis broschii Grunow SPECIES
-=======
+# Stephanopyxis broschii Grunow SPECIES
 
 #### Status
 ACCEPTED

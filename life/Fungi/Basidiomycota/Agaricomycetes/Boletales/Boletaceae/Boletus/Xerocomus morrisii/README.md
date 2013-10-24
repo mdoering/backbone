@@ -1,5 +1,4 @@
-Xerocomus morrisii (Peck) M. Zang SPECIES
-=======
+# Xerocomus morrisii (Peck) M. Zang SPECIES
 
 #### Status
 ACCEPTED

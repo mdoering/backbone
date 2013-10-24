@@ -1,5 +1,4 @@
-Pachnocybe acicula Berk. SPECIES
-=======
+# Pachnocybe acicula Berk. SPECIES
 
 #### Status
 ACCEPTED

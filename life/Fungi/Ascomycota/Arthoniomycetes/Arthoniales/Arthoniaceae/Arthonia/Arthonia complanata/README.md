@@ -1,5 +1,4 @@
-Arthonia complanata var. complanata VARIETY
-=======
+# Arthonia complanata Fée SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Essai Crypt. Exot. (Paris) 1: 54 (1825)
 
 #### Original name
-Arthonia complanata var. complanata
+Arthonia complanata Fée
 
 ### Remarks
 null

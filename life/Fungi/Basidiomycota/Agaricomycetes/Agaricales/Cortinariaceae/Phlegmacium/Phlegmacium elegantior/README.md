@@ -1,5 +1,4 @@
-Phlegmacium elegantior var. elegantior VARIETY
-=======
+# Phlegmacium elegantior SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phlegmacium elegantior var. elegantior
+Phlegmacium elegantior
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hormococcus populi Preuss SPECIES
-=======
+# Hormococcus populi Preuss SPECIES
 
 #### Status
 ACCEPTED

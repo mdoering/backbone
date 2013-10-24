@@ -1,5 +1,4 @@
-Erysibe rhinanthacearum Wallr. SPECIES
-=======
+# Erysibe rhinanthacearum Wallr. SPECIES
 
 #### Status
 ACCEPTED

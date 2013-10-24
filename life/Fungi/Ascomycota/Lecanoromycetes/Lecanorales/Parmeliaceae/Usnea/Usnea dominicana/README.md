@@ -1,5 +1,4 @@
-Usnea dominicana Vain. SPECIES
-=======
+# Usnea dominicana Vain. SPECIES
 
 #### Status
 ACCEPTED

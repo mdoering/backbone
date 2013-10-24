@@ -1,5 +1,4 @@
-Meliolinopsis curviseta (Racib.) Beeli SPECIES
-=======
+# Meliolinopsis curviseta (Racib.) Beeli SPECIES
 
 #### Status
 ACCEPTED

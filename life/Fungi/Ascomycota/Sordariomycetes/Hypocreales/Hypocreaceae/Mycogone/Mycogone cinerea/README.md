@@ -1,5 +1,4 @@
-Mycogone cinerea Morgan SPECIES
-=======
+# Mycogone cinerea Morgan SPECIES
 
 #### Status
 ACCEPTED

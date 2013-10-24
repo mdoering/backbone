@@ -1,5 +1,4 @@
-Octospora bryi-argentei Benkert SPECIES
-=======
+# Octospora bryi-argentei Benkert SPECIES
 
 #### Status
 ACCEPTED

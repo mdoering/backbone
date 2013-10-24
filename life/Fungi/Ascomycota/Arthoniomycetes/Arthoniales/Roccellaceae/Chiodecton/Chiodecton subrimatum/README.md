@@ -1,5 +1,4 @@
-Chiodecton subrimatum (Nyl.) Vain. SPECIES
-=======
+# Chiodecton subrimatum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

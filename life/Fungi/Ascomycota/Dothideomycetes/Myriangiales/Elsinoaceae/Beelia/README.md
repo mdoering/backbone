@@ -1,5 +1,4 @@
-Beelia F. Stevens & R.W. Ryan GENUS
-=======
+# Beelia F. Stevens & R.W. Ryan GENUS
 
 #### Status
 ACCEPTED

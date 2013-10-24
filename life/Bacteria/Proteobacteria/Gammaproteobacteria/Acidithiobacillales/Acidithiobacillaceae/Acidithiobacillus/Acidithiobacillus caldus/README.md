@@ -1,8 +1,7 @@
-Thiobacillus caldus Hallberg & Lindstrom, 1995 SPECIES
-=======
+# Acidithiobacillus caldus (Hallberg & Lindstrom, 1995) Kelly & Wood, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

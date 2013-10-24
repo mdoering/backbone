@@ -1,5 +1,4 @@
-Mycosphaerella cerasicola (Pass.) Koshk. SPECIES
-=======
+# Mycosphaerella cerasicola (Pass.) Koshk. SPECIES
 
 #### Status
 ACCEPTED

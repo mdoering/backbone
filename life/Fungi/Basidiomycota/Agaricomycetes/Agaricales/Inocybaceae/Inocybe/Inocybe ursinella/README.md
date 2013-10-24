@@ -1,5 +1,4 @@
-Inocybe ursinella M. Lange SPECIES
-=======
+# Inocybe ursinella M. Lange SPECIES
 
 #### Status
 ACCEPTED

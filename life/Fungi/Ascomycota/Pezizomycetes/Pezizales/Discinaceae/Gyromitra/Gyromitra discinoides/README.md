@@ -1,5 +1,4 @@
-Gyromitra discinoides (S. Imai) S. Imai SPECIES
-=======
+# Gyromitra discinoides (S. Imai) S. Imai SPECIES
 
 #### Status
 ACCEPTED

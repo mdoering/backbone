@@ -1,5 +1,4 @@
-Peziza melaxantha Fr. SPECIES
-=======
+# Peziza melaxantha Fr. SPECIES
 
 #### Status
 ACCEPTED

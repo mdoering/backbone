@@ -1,5 +1,4 @@
-Graphis streimannii A.W. Archer SPECIES
-=======
+# Graphis streimannii A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

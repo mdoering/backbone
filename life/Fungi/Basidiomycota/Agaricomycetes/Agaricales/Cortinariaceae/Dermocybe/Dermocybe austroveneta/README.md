@@ -1,5 +1,4 @@
-Dermocybe austroveneta (Cleland) M.M. Moser & E. Horak SPECIES
-=======
+# Dermocybe austroveneta (Cleland) M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

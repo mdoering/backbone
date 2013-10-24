@@ -1,5 +1,4 @@
-Roccella arboricola Follmann SPECIES
-=======
+# Roccella arboricola Follmann SPECIES
 
 #### Status
 ACCEPTED

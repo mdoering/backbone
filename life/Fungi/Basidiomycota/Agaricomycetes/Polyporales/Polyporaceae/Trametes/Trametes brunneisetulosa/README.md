@@ -1,5 +1,4 @@
-Trametes brunneisetulosa Corner SPECIES
-=======
+# Trametes brunneisetulosa Corner SPECIES
 
 #### Status
 ACCEPTED

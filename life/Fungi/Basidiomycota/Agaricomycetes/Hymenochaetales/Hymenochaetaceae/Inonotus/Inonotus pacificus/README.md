@@ -1,5 +1,4 @@
-Inonotus pacificus Ryvarden, 2005 SPECIES
-=======
+# Inonotus pacificus Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

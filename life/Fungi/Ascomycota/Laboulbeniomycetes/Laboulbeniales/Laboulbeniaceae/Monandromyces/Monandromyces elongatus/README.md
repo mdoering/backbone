@@ -1,5 +1,4 @@
-Monandromyces elongatus R.K. Benj., 1999 SPECIES
-=======
+# Monandromyces elongatus R.K. Benj., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus permutatus J. Otto SPECIES
-=======
+# Agaricus permutatus J. Otto SPECIES
 
 #### Status
 ACCEPTED

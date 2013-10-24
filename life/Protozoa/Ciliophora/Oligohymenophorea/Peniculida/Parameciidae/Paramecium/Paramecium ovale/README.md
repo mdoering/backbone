@@ -1,5 +1,4 @@
-Paramecium ovale Claparède & Lachmann, 1859 SPECIES
-=======
+# Paramecium ovale Claparède & Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

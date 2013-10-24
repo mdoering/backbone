@@ -1,5 +1,4 @@
-Stictina retigera (Bory) Müll. Arg. SPECIES
-=======
+# Stictina retigera (Bory) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

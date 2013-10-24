@@ -1,5 +1,4 @@
-Pustulina velata (Quél.) Svrcek SPECIES
-=======
+# Pustulina velata (Quél.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

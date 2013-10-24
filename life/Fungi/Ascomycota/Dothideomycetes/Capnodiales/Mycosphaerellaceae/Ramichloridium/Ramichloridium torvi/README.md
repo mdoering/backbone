@@ -1,14 +1,13 @@
-Ramularia torvi Ellis & Everh., 1898 SPECIES
-=======
+# Ramichloridium torvi (Ellis & Everh.) de Hoog, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 15: 79 (1977)
 
 #### Original name
 Ramularia torvi Ellis & Everh., 1898

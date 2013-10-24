@@ -1,5 +1,4 @@
-Paludibacter Ueki, Akasaka, Suzuki & Ueki, 2006 GENUS
-=======
+# Paludibacter Ueki, Akasaka, Suzuki & Ueki, 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium sterculiae Tassi SPECIES
-=======
+# Coniosporium sterculiae Tassi SPECIES
 
 #### Status
 ACCEPTED

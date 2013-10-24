@@ -1,5 +1,4 @@
-Ascochyta salicifoliae Trel. SPECIES
-=======
+# Ascochyta salicifoliae Trel. SPECIES
 
 #### Status
 ACCEPTED

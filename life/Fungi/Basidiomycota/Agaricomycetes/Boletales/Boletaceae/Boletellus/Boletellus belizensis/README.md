@@ -1,5 +1,4 @@
-Boletellus belizensis Ortiz & T.J. Baroni SPECIES
-=======
+# Boletellus belizensis Ortiz & T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

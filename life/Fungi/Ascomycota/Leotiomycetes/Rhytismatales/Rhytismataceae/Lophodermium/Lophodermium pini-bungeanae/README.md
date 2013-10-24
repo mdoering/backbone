@@ -1,5 +1,4 @@
-Lophodermium pini-bungeanae Y.R. Lin SPECIES
-=======
+# Lophodermium pini-bungeanae Y.R. Lin SPECIES
 
 #### Status
 ACCEPTED

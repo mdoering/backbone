@@ -1,5 +1,4 @@
-Ramalina breviuscula f. breviuscula Nyl. FORM
-=======
+# Ramalina breviuscula Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 55: 426 (1872)
 
 #### Original name
-Ramalina breviuscula f. breviuscula Nyl.
+Ramalina breviuscula Nyl.
 
 ### Remarks
 null

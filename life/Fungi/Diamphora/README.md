@@ -1,5 +1,4 @@
-Diamphora Mart. GENUS
-=======
+# Diamphora Mart. GENUS
 
 #### Status
 ACCEPTED

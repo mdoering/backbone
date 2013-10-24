@@ -1,17 +1,16 @@
-Corticium aurora juncicola (Bourdot) Bourdot & Galzin, 1928 INFRASPECIFIC_NAME
-=======
+# Phlebiella aurora (Berk. & Broome) K.H. Larss. & Hjortstam, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hjortstam & Larsson, Mycotaxon 29: 317 (1987)
 
 #### Original name
-null
+Corticium aurora Berk. & Broome, 1860
 
 ### Remarks
 null

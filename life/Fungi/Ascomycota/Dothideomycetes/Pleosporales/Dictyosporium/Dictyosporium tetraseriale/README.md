@@ -1,5 +1,4 @@
-Dictyosporium tetraseriale Goh, Yanna & K.D. Hyde SPECIES
-=======
+# Dictyosporium tetraseriale Goh, Yanna & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

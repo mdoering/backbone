@@ -1,5 +1,4 @@
-Calculites B. Prins & W. Sissingh in Sissingh & Prins, 1977 GENUS
-=======
+# Calculites B. Prins & W. Sissingh in Sissingh & Prins, 1977 GENUS
 
 #### Status
 ACCEPTED

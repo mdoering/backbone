@@ -1,5 +1,4 @@
-Septoria rubiacearum Bat., J.L. Bezerra & Poroca SPECIES
-=======
+# Septoria rubiacearum Bat., J.L. Bezerra & Poroca SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluricellaesporites scabiosus R.T. Clarke SPECIES
-=======
+# Pluricellaesporites scabiosus R.T. Clarke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosarcus tarnensis (Speg.) Kuntze SPECIES
-=======
+# Dendrosarcus tarnensis (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

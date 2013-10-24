@@ -1,17 +1,16 @@
-Lecidea nigerrima H. Magn. SPECIES
-=======
+# Lecidea promixta Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Abh. naturw. Ver. Bremen 14: 490 (1898)
 
 #### Original name
-Lecidea nigerrima H. Magn.
+Lecidea promixta Nyl.
 
 ### Remarks
 null

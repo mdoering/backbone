@@ -1,5 +1,4 @@
-Placosphaeria laserpitii Allesch. SPECIES
-=======
+# Placosphaeria laserpitii Allesch. SPECIES
 
 #### Status
 ACCEPTED

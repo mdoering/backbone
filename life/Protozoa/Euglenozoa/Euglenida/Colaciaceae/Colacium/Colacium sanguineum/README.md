@@ -1,5 +1,4 @@
-Colacium sanguineum Lackey SPECIES
-=======
+# Colacium sanguineum Lackey SPECIES
 
 #### Status
 ACCEPTED

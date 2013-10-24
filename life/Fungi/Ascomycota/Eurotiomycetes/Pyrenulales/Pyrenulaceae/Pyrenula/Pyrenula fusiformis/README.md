@@ -1,5 +1,4 @@
-Pyrenula fusiformis Hepp SPECIES
-=======
+# Pyrenula fusiformis Hepp SPECIES
 
 #### Status
 ACCEPTED

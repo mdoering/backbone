@@ -1,5 +1,4 @@
-Discorbis petaliferus (Howe) SPECIES
-=======
+# Discorbis petaliferus (Howe) SPECIES
 
 #### Status
 ACCEPTED

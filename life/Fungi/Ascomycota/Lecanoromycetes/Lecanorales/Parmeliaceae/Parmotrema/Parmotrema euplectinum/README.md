@@ -1,5 +1,4 @@
-Parmotrema euplectinum Elix, Noich. & Wolseley SPECIES
-=======
+# Parmotrema euplectinum Elix, Noich. & Wolseley SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nematophthora gynophila Kerry & D.H. Crump, 1980 SPECIES
-=======
+# Nematophthora gynophila Kerry & D.H. Crump, 1980 SPECIES
 
 #### Status
 ACCEPTED

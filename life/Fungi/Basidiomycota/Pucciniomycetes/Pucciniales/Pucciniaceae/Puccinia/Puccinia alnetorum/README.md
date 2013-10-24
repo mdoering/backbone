@@ -1,5 +1,4 @@
-Puccinia alnetorum Gäum. SPECIES
-=======
+# Puccinia alnetorum Gäum. SPECIES
 
 #### Status
 ACCEPTED

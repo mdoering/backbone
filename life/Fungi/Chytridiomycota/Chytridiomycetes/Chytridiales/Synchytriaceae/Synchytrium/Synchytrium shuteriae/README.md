@@ -1,5 +1,4 @@
-Synchytrium shuteriae Henn. SPECIES
-=======
+# Synchytrium shuteriae Henn. SPECIES
 
 #### Status
 ACCEPTED

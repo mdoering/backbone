@@ -1,5 +1,4 @@
-Septoria plectranthi Miura SPECIES
-=======
+# Septoria plectranthi Miura SPECIES
 
 #### Status
 ACCEPTED

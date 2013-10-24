@@ -1,5 +1,4 @@
-Woronichinia ruzickae Komárek & Hindák SPECIES
-=======
+# Woronichinia ruzickae Komárek & Hindák SPECIES
 
 #### Status
 ACCEPTED

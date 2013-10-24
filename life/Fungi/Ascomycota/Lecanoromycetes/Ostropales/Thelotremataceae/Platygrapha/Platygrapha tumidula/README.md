@@ -1,5 +1,4 @@
-Platygrapha tumidula Stirt. SPECIES
-=======
+# Platygrapha tumidula Stirt. SPECIES
 
 #### Status
 ACCEPTED

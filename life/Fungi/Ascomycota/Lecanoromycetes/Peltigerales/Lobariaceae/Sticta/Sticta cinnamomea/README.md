@@ -1,5 +1,4 @@
-Sticta cinnamomea A. Rich. SPECIES
-=======
+# Sticta cinnamomea A. Rich. SPECIES
 
 #### Status
 ACCEPTED

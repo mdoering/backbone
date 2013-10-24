@@ -1,5 +1,4 @@
-Uredo nitidula Arthur SPECIES
-=======
+# Uredo nitidula Arthur SPECIES
 
 #### Status
 ACCEPTED

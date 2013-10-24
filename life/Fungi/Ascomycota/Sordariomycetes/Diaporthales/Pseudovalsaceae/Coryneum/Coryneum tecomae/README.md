@@ -1,5 +1,4 @@
-Coryneum tecomae Sacc. SPECIES
-=======
+# Coryneum tecomae Sacc. SPECIES
 
 #### Status
 ACCEPTED

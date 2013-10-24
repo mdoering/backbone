@@ -1,5 +1,4 @@
-Entomophthora simulii S. Keller ex S. Keller, 2004 SPECIES
-=======
+# Entomophthora simulii S. Keller ex S. Keller, 2004 SPECIES
 
 #### Status
 ACCEPTED

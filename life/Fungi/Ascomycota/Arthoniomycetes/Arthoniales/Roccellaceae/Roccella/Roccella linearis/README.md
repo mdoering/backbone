@@ -1,5 +1,4 @@
-Roccella linearis var. linearis VARIETY
-=======
+# Roccella linearis (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Roccella linearis var. linearis
+Roccella fuciformis var. linearis Ach.
 
 ### Remarks
 null

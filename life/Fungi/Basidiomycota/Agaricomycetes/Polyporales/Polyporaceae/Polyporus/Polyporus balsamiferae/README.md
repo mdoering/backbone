@@ -1,5 +1,4 @@
-Polyporus balsamiferae Cooke SPECIES
-=======
+# Polyporus balsamiferae Cooke SPECIES
 
 #### Status
 ACCEPTED

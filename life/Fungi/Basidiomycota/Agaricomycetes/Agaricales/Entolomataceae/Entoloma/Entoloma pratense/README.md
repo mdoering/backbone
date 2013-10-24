@@ -1,5 +1,4 @@
-Entoloma pratense Hesler SPECIES
-=======
+# Entoloma pratense Hesler SPECIES
 
 #### Status
 ACCEPTED

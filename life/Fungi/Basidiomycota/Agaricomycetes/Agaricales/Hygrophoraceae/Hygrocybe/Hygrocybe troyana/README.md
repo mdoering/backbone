@@ -1,5 +1,4 @@
-Hygrocybe troyana (Murrill) Courtec. SPECIES
-=======
+# Hygrocybe troyana (Murrill) Courtec. SPECIES
 
 #### Status
 ACCEPTED

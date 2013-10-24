@@ -1,5 +1,4 @@
-Ramularia nymphaearum (Allesch.) Ramsb., 1931 SPECIES
-=======
+# Ramularia nymphaearum (Allesch.) Ramsb., 1931 SPECIES
 
 #### Status
 ACCEPTED

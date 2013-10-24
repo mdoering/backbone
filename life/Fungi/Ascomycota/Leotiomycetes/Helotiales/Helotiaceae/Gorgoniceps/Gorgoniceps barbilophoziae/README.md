@@ -1,5 +1,4 @@
-Gorgoniceps barbilophoziae A. Racov. SPECIES
-=======
+# Gorgoniceps barbilophoziae A. Racov. SPECIES
 
 #### Status
 ACCEPTED

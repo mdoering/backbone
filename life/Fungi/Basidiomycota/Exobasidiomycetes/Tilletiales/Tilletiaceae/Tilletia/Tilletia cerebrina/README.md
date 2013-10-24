@@ -1,5 +1,4 @@
-Tilletia cerebrina Ellis & Everh. SPECIES
-=======
+# Tilletia cerebrina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

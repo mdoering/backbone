@@ -1,5 +1,4 @@
-Polyancistrodorus taleatus Playford & Wicander, 1988 SPECIES
-=======
+# Polyancistrodorus taleatus Playford & Wicander, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tomasellia aciculifera f. aciculifera FORM
-=======
+# Celothelium aciculiferum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 6: 398 (1885)
+Suomal. Tiedeakat. , Toim. A 6(7): 209 (1915)
 
 #### Original name
-Tomasellia aciculifera f. aciculifera
+Melanotheca aciculifera Nyl.
 
 ### Remarks
 null

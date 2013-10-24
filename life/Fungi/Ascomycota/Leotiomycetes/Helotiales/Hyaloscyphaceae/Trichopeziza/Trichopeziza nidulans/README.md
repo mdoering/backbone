@@ -1,5 +1,4 @@
-Trichopeziza nidulans (Quél.) Sacc. SPECIES
-=======
+# Trichopeziza nidulans (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

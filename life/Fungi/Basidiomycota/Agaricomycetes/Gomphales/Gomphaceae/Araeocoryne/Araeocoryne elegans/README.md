@@ -1,5 +1,4 @@
-Araeocoryne elegans Corner, 1950 SPECIES
-=======
+# Araeocoryne elegans Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

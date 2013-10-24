@@ -1,5 +1,4 @@
-Choanocystis Penard, 1904 GENUS
-=======
+# Choanocystis Penard, 1904 GENUS
 
 #### Status
 ACCEPTED

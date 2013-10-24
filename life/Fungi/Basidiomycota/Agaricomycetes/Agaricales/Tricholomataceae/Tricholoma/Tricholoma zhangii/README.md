@@ -1,5 +1,4 @@
-Tricholoma zhangii Z.M. Cao, Y.J. Yao & Pegler SPECIES
-=======
+# Tricholoma zhangii Z.M. Cao, Y.J. Yao & Pegler SPECIES
 
 #### Status
 ACCEPTED

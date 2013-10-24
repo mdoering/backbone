@@ -1,5 +1,4 @@
-Pachyammina Eisenack, 1967 GENUS
-=======
+# Pachyammina Eisenack, 1967 GENUS
 
 #### Status
 ACCEPTED

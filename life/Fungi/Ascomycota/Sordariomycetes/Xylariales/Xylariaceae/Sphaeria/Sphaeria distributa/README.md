@@ -1,5 +1,4 @@
-Sphaeria distributa Cooke & Ellis SPECIES
-=======
+# Sphaeria distributa Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

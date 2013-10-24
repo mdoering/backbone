@@ -1,5 +1,4 @@
-Spermatodium callopisma (A. Massal.) Trevis. SPECIES
-=======
+# Spermatodium callopisma (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

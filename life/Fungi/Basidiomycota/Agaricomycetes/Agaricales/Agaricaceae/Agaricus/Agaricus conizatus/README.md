@@ -1,5 +1,4 @@
-Agaricus conizatus Berk. & Broome SPECIES
-=======
+# Agaricus conizatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

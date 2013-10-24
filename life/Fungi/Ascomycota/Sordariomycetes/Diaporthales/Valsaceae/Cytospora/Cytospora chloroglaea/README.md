@@ -1,5 +1,4 @@
-Cytospora chloroglaea Berk. & M.A. Curtis SPECIES
-=======
+# Cytospora chloroglaea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

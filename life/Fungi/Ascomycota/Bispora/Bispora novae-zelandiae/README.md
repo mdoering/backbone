@@ -1,5 +1,4 @@
-Bispora novae-zelandiae Matsush., 1985 SPECIES
-=======
+# Bispora novae-zelandiae Matsush., 1985 SPECIES
 
 #### Status
 ACCEPTED

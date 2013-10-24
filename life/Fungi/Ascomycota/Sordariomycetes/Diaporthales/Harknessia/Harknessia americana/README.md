@@ -1,14 +1,13 @@
-Monochaetia americana (Mont.) Sacc. & D. Sacc., 1906 SPECIES
-=======
+# Harknessia americana (Mont.) B. Sutton, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 123: 4 (1971)
 
 #### Original name
 Pestalotia americana Mont., 1852

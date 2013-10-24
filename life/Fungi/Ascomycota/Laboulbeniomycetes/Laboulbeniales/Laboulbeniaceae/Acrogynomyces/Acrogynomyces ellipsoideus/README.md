@@ -1,5 +1,4 @@
-Acrogynomyces ellipsoideus Thaxt. SPECIES
-=======
+# Acrogynomyces ellipsoideus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

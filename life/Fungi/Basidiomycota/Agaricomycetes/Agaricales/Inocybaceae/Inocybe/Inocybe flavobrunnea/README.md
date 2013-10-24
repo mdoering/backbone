@@ -1,5 +1,4 @@
-Inocybe flavobrunnea Y.C. Wang SPECIES
-=======
+# Inocybe flavobrunnea Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiotrema chilense Speg. SPECIES
-=======
+# Lophiotrema chilense Speg. SPECIES
 
 #### Status
 ACCEPTED

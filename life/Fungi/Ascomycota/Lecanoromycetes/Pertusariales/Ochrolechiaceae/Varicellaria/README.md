@@ -1,5 +1,4 @@
-Varicellaria Nylander, 1858 GENUS
-=======
+# Varicellaria Nylander, 1858 GENUS
 
 #### Status
 ACCEPTED

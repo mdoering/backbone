@@ -1,5 +1,4 @@
-Peniophora lepida Bres. SPECIES
-=======
+# Peniophora lepida Bres. SPECIES
 
 #### Status
 ACCEPTED

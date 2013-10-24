@@ -1,5 +1,4 @@
-Ganoderma cehengense X.L. Wu, 1995 SPECIES
-=======
+# Ganoderma cehengense X.L. Wu, 1995 SPECIES
 
 #### Status
 ACCEPTED

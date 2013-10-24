@@ -1,5 +1,4 @@
-Acrothecium parasitans Corda SPECIES
-=======
+# Acrothecium parasitans Corda SPECIES
 
 #### Status
 ACCEPTED

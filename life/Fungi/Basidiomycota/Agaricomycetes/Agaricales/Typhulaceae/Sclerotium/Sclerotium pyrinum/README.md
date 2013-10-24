@@ -1,5 +1,4 @@
-Sclerotium pyrinum Fr. SPECIES
-=======
+# Sclerotium pyrinum Fr. SPECIES
 
 #### Status
 ACCEPTED

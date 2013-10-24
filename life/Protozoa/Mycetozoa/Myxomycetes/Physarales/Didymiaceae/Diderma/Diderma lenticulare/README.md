@@ -1,5 +1,4 @@
-Diderma lenticulare Wallr. SPECIES
-=======
+# Diderma lenticulare Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Plectania latahensis (Paden & Tylutki) M. Carbone, Agnello & Baglivo, 2009 SPECIES
-=======
+# Sarcosoma latahense Paden & Tylutki, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 61: 686 (1969)
 
 #### Original name
-null
+Sarcosoma latahense Paden & Tylutki, 1969
 
 ### Remarks
 null

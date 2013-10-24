@@ -1,17 +1,16 @@
-Zasmidium deightonianum (U. Braun) U. Braun, 2010 SPECIES
-=======
+# Stenella deightoniana U. Braun, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 92: 404 (2005)
 
 #### Original name
-null
+Stenella deightoniana U. Braun, 2005
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycosphaerella trichomanis (Cooke) Lindau SPECIES
-=======
+# Mycosphaerella trichomanis (Cooke) Lindau SPECIES
 
 #### Status
 ACCEPTED

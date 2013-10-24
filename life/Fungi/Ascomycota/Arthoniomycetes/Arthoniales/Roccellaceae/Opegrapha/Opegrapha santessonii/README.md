@@ -1,5 +1,4 @@
-Opegrapha santessonii Sérus. SPECIES
-=======
+# Opegrapha santessonii Sérus. SPECIES
 
 #### Status
 ACCEPTED

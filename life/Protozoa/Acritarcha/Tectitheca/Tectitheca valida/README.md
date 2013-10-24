@@ -1,5 +1,4 @@
-Tectitheca valida Burmann, 1968 SPECIES
-=======
+# Tectitheca valida Burmann, 1968 SPECIES
 
 #### Status
 ACCEPTED

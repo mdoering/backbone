@@ -1,5 +1,4 @@
-Gloeosporium everhartii Sacc. & P. Syd. SPECIES
-=======
+# Gloeosporium everhartii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

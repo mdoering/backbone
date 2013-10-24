@@ -1,5 +1,4 @@
-Agaricus praeposterus Britzelm. SPECIES
-=======
+# Agaricus praeposterus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

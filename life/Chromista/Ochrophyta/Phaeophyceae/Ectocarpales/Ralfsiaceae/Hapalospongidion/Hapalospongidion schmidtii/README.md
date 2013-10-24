@@ -1,8 +1,7 @@
-Mesospora schmidtii Weber-van Bosse SPECIES
-=======
+# Hapalospongidion schmidtii (Weber-van Bosse) P. Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

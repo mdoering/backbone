@@ -1,5 +1,4 @@
-Pleuroceras arollanum M. Monod SPECIES
-=======
+# Pleuroceras arollanum M. Monod SPECIES
 
 #### Status
 ACCEPTED

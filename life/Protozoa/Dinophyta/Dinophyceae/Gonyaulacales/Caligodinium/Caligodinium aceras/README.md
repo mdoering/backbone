@@ -1,5 +1,4 @@
-Caligodinium aceras (Manum & Cookson, 1964) Lentin & Williams SPECIES
-=======
+# Caligodinium aceras (Manum & Cookson, 1964) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

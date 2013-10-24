@@ -1,5 +1,4 @@
-Cytospora annularis Ellis & Everh. SPECIES
-=======
+# Cytospora annularis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

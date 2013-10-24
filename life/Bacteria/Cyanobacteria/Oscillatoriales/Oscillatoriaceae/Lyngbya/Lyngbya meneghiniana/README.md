@@ -1,8 +1,7 @@
-Leibleinia meneghiniana Kützing SPECIES
-=======
+# Lyngbya meneghiniana (Kützing) P. Crouan & H. Crouan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

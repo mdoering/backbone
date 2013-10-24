@@ -1,5 +1,4 @@
-Amauroderma trichodematum J.S. Furtado SPECIES
-=======
+# Amauroderma trichodematum J.S. Furtado SPECIES
 
 #### Status
 ACCEPTED

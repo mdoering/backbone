@@ -1,17 +1,16 @@
-Sphaeropsis Flot. GENUS
-=======
+# Thelocarpon Nyl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 5: 65 (1847)
+Annls Sci. Nat. , Bot. , sér. 3 20: 318 (1853)
 
 #### Original name
-Sphaeropsis Flot.
+Thelocarpon Nyl.
 
 ### Remarks
 null

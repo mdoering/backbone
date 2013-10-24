@@ -1,5 +1,4 @@
-Cordyceps yahagiana Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps yahagiana Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

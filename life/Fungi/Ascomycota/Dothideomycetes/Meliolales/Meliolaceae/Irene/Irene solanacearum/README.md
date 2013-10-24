@@ -1,5 +1,4 @@
-Irene solanacearum Hansf. SPECIES
-=======
+# Irene solanacearum Hansf. SPECIES
 
 #### Status
 ACCEPTED

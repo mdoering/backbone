@@ -1,5 +1,4 @@
-Diorygma poitaei SPECIES
-=======
+# Diorygma poitaei SPECIES
 
 #### Status
 ACCEPTED

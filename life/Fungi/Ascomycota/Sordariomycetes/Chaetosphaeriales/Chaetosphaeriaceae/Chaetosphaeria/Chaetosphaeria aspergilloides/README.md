@@ -1,5 +1,4 @@
-Chaetosphaeria aspergilloides M.E. Barr & J.L. Crane, 1979 SPECIES
-=======
+# Chaetosphaeria aspergilloides M.E. Barr & J.L. Crane, 1979 SPECIES
 
 #### Status
 ACCEPTED

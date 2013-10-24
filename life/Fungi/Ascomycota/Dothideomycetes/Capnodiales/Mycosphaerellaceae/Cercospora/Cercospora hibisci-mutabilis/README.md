@@ -1,5 +1,4 @@
-Cercospora hibisci-mutabilis S.H. Sun SPECIES
-=======
+# Cercospora hibisci-mutabilis S.H. Sun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monoporisporites macrosporus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites macrosporus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

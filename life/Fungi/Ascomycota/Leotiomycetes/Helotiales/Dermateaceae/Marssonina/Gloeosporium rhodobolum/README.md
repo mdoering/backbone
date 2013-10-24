@@ -1,5 +1,4 @@
-Gloeosporium rhodobolum Sacc. SPECIES
-=======
+# Gloeosporium rhodobolum Sacc. SPECIES
 
 #### Status
 ACCEPTED

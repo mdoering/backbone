@@ -1,14 +1,13 @@
-Phanerochaete monomitica (G. Cunn.) Sheng H. Wu & Popoff, 1995 SPECIES
-=======
+# Hjortstamia monomitica (G. Cunn.) Hjortstam & Ryvarden, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 54: 167 (1995)
+Syn. Fung. (Oslo) 20: 38 (2005)
 
 #### Original name
 Duportella monomitica G. Cunn., 1957

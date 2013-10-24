@@ -1,5 +1,4 @@
-Tympanis myricariae Rehm SPECIES
-=======
+# Tympanis myricariae Rehm SPECIES
 
 #### Status
 ACCEPTED

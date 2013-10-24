@@ -1,5 +1,4 @@
-Lepiota valens Boud. SPECIES
-=======
+# Lepiota valens Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta origani Tassi SPECIES
-=======
+# Phyllosticta origani Tassi SPECIES
 
 #### Status
 ACCEPTED

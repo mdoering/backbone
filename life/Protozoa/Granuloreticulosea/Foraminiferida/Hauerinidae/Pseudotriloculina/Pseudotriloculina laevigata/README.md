@@ -1,5 +1,4 @@
-Pseudotriloculina laevigata (d'Orbigny, 1826) SPECIES
-=======
+# Pseudotriloculina laevigata (d'Orbigny, 1826) SPECIES
 
 #### Status
 ACCEPTED

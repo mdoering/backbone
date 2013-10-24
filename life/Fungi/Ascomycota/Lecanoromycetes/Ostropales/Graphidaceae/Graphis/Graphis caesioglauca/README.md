@@ -1,5 +1,4 @@
-Graphis caesioglauca Redinger SPECIES
-=======
+# Graphis caesioglauca Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces boletiphagus Rogerson & Samuels, 1989 SPECIES
-=======
+# Hypomyces boletiphagus Rogerson & Samuels, 1989 SPECIES
 
 #### Status
 ACCEPTED

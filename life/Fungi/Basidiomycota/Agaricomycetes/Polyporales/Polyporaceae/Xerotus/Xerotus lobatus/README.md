@@ -1,5 +1,4 @@
-Xerotus lobatus Berk. SPECIES
-=======
+# Xerotus lobatus Berk. SPECIES
 
 #### Status
 ACCEPTED

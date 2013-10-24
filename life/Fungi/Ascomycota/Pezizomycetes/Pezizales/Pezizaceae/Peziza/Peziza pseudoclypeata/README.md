@@ -1,5 +1,4 @@
-Peziza pseudoclypeata Seaver SPECIES
-=======
+# Peziza pseudoclypeata Seaver SPECIES
 
 #### Status
 ACCEPTED

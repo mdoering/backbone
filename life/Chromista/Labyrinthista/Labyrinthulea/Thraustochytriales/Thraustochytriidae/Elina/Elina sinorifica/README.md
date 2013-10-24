@@ -1,5 +1,4 @@
-Elina sinorifica N.J. Artemczuk SPECIES
-=======
+# Elina sinorifica N.J. Artemczuk SPECIES
 
 #### Status
 ACCEPTED

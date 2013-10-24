@@ -1,5 +1,4 @@
-Nautilia profundicola Smith, Campbell, Hanson, Zhang & Cary, 2008 SPECIES
-=======
+# Nautilia profundicola Smith, Campbell, Hanson, Zhang & Cary, 2008 SPECIES
 
 #### Status
 ACCEPTED

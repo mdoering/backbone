@@ -1,5 +1,4 @@
-Newbya polyandra (Hildebr.) Mark A. Spencer, 2002 SPECIES
-=======
+# Newbya polyandra (Hildebr.) Mark A. Spencer, 2002 SPECIES
 
 #### Status
 ACCEPTED

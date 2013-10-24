@@ -1,5 +1,4 @@
-Hendersonia citri McAlpine SPECIES
-=======
+# Hendersonia citri McAlpine SPECIES
 
 #### Status
 ACCEPTED

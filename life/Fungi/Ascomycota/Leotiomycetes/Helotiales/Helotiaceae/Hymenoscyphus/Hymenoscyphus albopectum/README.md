@@ -1,5 +1,4 @@
-Hymenoscyphus albopectum Peck SPECIES
-=======
+# Hymenoscyphus albopectum Peck SPECIES
 
 #### Status
 ACCEPTED

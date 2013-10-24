@@ -1,5 +1,4 @@
-Inocybe naucoriaeformis Velen. SPECIES
-=======
+# Inocybe naucoriaeformis Velen. SPECIES
 
 #### Status
 ACCEPTED

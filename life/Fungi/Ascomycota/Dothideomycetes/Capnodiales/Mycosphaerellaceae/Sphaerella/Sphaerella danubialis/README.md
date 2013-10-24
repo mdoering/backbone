@@ -1,5 +1,4 @@
-Sphaerella danubialis (O. Savul.) Sandu SPECIES
-=======
+# Sphaerella danubialis (O. Savul.) Sandu SPECIES
 
 #### Status
 ACCEPTED

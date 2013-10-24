@@ -1,5 +1,4 @@
-Stromatostysanus subulatus (Ellis & Everh.) U. Braun SPECIES
-=======
+# Stromatostysanus subulatus (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

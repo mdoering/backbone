@@ -1,5 +1,4 @@
-Verrucaria morosa Zahlbr. SPECIES
-=======
+# Verrucaria morosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

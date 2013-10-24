@@ -1,5 +1,4 @@
-Pantotrichum Ehrenberg GENUS
-=======
+# Pantotrichum Ehrenberg GENUS
 
 #### Status
 ACCEPTED

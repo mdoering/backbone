@@ -1,5 +1,4 @@
-Sticta cordillerana Gyeln. SPECIES
-=======
+# Sticta cordillerana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

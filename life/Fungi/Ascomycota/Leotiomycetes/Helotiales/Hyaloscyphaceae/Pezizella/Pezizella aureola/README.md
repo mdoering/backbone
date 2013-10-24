@@ -1,5 +1,4 @@
-Pezizella aureola (Rabenh.) Sacc. SPECIES
-=======
+# Pezizella aureola (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

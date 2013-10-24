@@ -1,5 +1,4 @@
-Phakopsora antiguensis F. Kern & Thurst. ex Cummins SPECIES
-=======
+# Phakopsora antiguensis F. Kern & Thurst. ex Cummins SPECIES
 
 #### Status
 ACCEPTED

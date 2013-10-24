@@ -1,5 +1,4 @@
-Fractisporonites elongatus (S.K. Srivast.) Kalgutkar & Janson. SPECIES
-=======
+# Fractisporonites elongatus (S.K. Srivast.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

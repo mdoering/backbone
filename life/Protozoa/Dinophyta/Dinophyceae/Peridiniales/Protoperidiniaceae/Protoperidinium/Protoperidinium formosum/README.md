@@ -1,5 +1,4 @@
-Protoperidinium formosum (Pavillard, 1909) Balech, 1974 SPECIES
-=======
+# Protoperidinium formosum (Pavillard, 1909) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

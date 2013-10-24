@@ -1,5 +1,4 @@
-Lichenochora paucispora Etayo & Nav.-Ros., 2008 SPECIES
-=======
+# Lichenochora paucispora Etayo & Nav.-Ros., 2008 SPECIES
 
 #### Status
 ACCEPTED

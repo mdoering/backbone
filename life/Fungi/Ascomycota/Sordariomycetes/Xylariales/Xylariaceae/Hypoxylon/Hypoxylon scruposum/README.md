@@ -1,5 +1,4 @@
-Hypoxylon scruposum (Fr.) Mont. SPECIES
-=======
+# Hypoxylon scruposum (Fr.) Mont. SPECIES
 
 #### Status
 ACCEPTED

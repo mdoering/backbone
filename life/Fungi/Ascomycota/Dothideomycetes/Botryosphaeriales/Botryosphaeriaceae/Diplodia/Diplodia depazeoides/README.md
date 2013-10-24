@@ -1,5 +1,4 @@
-Diplodia depazeoides Durieu & Mont. SPECIES
-=======
+# Diplodia depazeoides Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

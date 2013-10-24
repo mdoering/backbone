@@ -1,5 +1,4 @@
-Lyngbya palmarum Bruehl & Biswas SPECIES
-=======
+# Lyngbya palmarum Bruehl & Biswas SPECIES
 
 #### Status
 ACCEPTED

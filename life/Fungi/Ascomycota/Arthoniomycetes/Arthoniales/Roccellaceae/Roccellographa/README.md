@@ -1,5 +1,4 @@
-Roccellographa J. Steiner GENUS
-=======
+# Roccellographa J. Steiner GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoscyphella gallica var. gallica VARIETY
-=======
+# Trichoscyphella gallica (P. Karst. & Har.) Berthet SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichoscyphella gallica var. gallica
+Lachnella gallica P. Karst. & Har.
 
 ### Remarks
 null

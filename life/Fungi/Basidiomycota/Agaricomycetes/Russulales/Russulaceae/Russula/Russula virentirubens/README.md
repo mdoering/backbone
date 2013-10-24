@@ -1,5 +1,4 @@
-Russula virentirubens var. virentirubens VARIETY
-=======
+# Russula virentirubens Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 1: 129 (1920)
 
 #### Original name
-Russula virentirubens var. virentirubens
+Russula virentirubens Velen.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeroidinella transiens SPECIES
-=======
+# Sphaeroidinella transiens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyttarocylis polymorpha Entz SPECIES
-=======
+# Cyttarocylis polymorpha Entz SPECIES
 
 #### Status
 ACCEPTED

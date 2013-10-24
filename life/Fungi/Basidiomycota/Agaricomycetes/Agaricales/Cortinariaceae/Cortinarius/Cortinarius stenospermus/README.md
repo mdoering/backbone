@@ -1,5 +1,4 @@
-Cortinarius stenospermus Lamoure SPECIES
-=======
+# Cortinarius stenospermus Lamoure SPECIES
 
 #### Status
 ACCEPTED

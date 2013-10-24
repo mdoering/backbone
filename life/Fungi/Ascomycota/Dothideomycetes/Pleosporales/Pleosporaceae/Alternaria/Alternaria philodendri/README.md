@@ -1,5 +1,4 @@
-Alternaria philodendri X.H. Zheng & P.K. Chi SPECIES
-=======
+# Alternaria philodendri X.H. Zheng & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

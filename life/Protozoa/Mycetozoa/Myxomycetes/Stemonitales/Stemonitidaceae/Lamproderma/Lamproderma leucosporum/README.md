@@ -1,5 +1,4 @@
-Lamproderma leucosporum Rostaf. SPECIES
-=======
+# Lamproderma leucosporum Rostaf. SPECIES
 
 #### Status
 ACCEPTED

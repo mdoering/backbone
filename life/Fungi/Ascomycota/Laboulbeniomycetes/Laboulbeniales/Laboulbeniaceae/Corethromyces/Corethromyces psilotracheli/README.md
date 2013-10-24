@@ -1,5 +1,4 @@
-Corethromyces psilotracheli Thaxt. SPECIES
-=======
+# Corethromyces psilotracheli Thaxt. SPECIES
 
 #### Status
 ACCEPTED

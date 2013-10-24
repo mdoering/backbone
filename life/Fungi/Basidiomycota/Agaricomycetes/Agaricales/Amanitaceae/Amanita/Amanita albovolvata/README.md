@@ -1,5 +1,4 @@
-Amanita albovolvata A.E. Wood SPECIES
-=======
+# Amanita albovolvata A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

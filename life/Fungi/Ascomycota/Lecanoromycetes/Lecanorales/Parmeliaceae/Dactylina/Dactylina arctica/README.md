@@ -1,5 +1,4 @@
-Dactylina arctica subsp. arctica SUBSPECIES
-=======
+# Dactylina arctica (Hook. f.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syn. meth. lich. 286 (1860)
 
 #### Original name
 Dufourea arctica Hook. f.

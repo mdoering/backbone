@@ -1,5 +1,4 @@
-Desulfomicrobiaceae FAMILY
-=======
+# Desulfomicrobiaceae FAMILY
 
 #### Status
 ACCEPTED

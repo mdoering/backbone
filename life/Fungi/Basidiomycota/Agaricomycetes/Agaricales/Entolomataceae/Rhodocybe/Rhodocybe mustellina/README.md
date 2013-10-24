@@ -1,5 +1,4 @@
-Rhodocybe mustellina E. Horak SPECIES
-=======
+# Rhodocybe mustellina E. Horak SPECIES
 
 #### Status
 ACCEPTED

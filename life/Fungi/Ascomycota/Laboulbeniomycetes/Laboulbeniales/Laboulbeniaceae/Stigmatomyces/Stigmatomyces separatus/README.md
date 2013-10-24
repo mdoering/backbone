@@ -1,5 +1,4 @@
-Stigmatomyces separatus Thaxt. SPECIES
-=======
+# Stigmatomyces separatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

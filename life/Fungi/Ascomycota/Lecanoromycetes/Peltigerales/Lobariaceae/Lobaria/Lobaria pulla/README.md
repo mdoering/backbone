@@ -1,5 +1,4 @@
-Lobaria pulla (Neck.) Hoffm. SPECIES
-=======
+# Lobaria pulla (Neck.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

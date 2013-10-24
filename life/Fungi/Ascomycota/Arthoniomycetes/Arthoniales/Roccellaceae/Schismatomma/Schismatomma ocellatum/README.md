@@ -1,5 +1,4 @@
-Schismatomma ocellatum (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma ocellatum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

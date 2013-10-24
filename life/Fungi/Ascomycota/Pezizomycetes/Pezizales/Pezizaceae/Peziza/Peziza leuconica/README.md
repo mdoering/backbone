@@ -1,5 +1,4 @@
-Peziza leuconica Cooke ex Stev. SPECIES
-=======
+# Peziza leuconica Cooke ex Stev. SPECIES
 
 #### Status
 ACCEPTED

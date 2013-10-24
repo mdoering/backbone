@@ -1,5 +1,4 @@
-Melasmia dryadis Rostr. SPECIES
-=======
+# Melasmia dryadis Rostr. SPECIES
 
 #### Status
 ACCEPTED

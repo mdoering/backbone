@@ -1,5 +1,4 @@
-Tremella sordida Speg. SPECIES
-=======
+# Tremella sordida Speg. SPECIES
 
 #### Status
 ACCEPTED

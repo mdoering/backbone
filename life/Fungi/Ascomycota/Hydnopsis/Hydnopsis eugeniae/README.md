@@ -1,5 +1,4 @@
-Hydnopsis eugeniae Tul. & C. Tul. SPECIES
-=======
+# Hydnopsis eugeniae Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

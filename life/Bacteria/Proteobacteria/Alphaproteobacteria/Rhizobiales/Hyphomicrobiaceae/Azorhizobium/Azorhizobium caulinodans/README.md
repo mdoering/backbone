@@ -1,5 +1,4 @@
-Azorhizobium caulinodans Dreyfus et al., 1988 SPECIES
-=======
+# Azorhizobium caulinodans Dreyfus et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

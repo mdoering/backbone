@@ -1,5 +1,4 @@
-Rectobulimina Marie, 1956 GENUS
-=======
+# Rectobulimina Marie, 1956 GENUS
 
 #### Status
 ACCEPTED

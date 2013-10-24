@@ -1,5 +1,4 @@
-Verrucaria neglecta Erichsen SPECIES
-=======
+# Verrucaria neglecta Erichsen SPECIES
 
 #### Status
 ACCEPTED

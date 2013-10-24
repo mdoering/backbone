@@ -1,5 +1,4 @@
-Ganoderma guinanense J.D. Zhao & X.Q. Zhang, 1987 SPECIES
-=======
+# Ganoderma guinanense J.D. Zhao & X.Q. Zhang, 1987 SPECIES
 
 #### Status
 ACCEPTED

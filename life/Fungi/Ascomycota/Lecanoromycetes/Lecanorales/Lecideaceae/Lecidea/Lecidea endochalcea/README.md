@@ -1,5 +1,4 @@
-Lecidea endochalcea Müll. Arg. SPECIES
-=======
+# Lecidea endochalcea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

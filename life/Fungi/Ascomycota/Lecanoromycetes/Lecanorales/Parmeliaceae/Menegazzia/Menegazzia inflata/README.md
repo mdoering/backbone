@@ -1,5 +1,4 @@
-Menegazzia inflata (Hillmann) P. James & D.J. Galloway SPECIES
-=======
+# Menegazzia inflata (Hillmann) P. James & D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

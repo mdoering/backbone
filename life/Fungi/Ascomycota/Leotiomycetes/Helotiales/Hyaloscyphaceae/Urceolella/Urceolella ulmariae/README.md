@@ -1,5 +1,4 @@
-Urceolella ulmariae Boud. SPECIES
-=======
+# Urceolella ulmariae Boud. SPECIES
 
 #### Status
 ACCEPTED

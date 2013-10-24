@@ -1,5 +1,4 @@
-Adhaerentia Plummer, 1938 GENUS
-=======
+# Adhaerentia Plummer, 1938 GENUS
 
 #### Status
 ACCEPTED

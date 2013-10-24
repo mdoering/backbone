@@ -1,5 +1,4 @@
-Calothrix kuntzei P. Richter SPECIES
-=======
+# Calothrix kuntzei P. Richter SPECIES
 
 #### Status
 ACCEPTED

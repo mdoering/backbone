@@ -1,5 +1,4 @@
-Chordaria Link, 1809 GENUS
-=======
+# Chordaria Link, 1809 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora rodoviensis Bat. & H. Maia SPECIES
-=======
+# Rhabdospora rodoviensis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

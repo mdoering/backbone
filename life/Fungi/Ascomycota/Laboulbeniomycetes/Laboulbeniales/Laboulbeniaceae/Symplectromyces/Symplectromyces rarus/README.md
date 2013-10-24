@@ -1,5 +1,4 @@
-Symplectromyces rarus Huldén SPECIES
-=======
+# Symplectromyces rarus Huldén SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capronia arctica M.E. Barr SPECIES
-=======
+# Capronia arctica M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

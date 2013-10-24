@@ -1,5 +1,4 @@
-Rhynchosphaeria gossypii Sawada SPECIES
-=======
+# Rhynchosphaeria gossypii Sawada SPECIES
 
 #### Status
 ACCEPTED

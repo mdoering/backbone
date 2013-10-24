@@ -1,5 +1,4 @@
-Tremellodon pusillum Ellis & Everh. SPECIES
-=======
+# Tremellodon pusillum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

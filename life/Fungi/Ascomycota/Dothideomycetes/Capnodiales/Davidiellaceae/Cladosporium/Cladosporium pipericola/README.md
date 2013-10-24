@@ -1,17 +1,16 @@
-Cladosporium pipericolum R.A. Singh & Shankar SPECIES
-=======
+# Cladosporium pipericola R.A. Singh & Shankar, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopath. Mycol. appl. 43(1): 110 (1971)
 
 #### Original name
-Cladosporium pipericolum R.A. Singh & Shankar
+Cladosporium pipericola R.A. Singh & Shankar, 1971
 
 ### Remarks
 null

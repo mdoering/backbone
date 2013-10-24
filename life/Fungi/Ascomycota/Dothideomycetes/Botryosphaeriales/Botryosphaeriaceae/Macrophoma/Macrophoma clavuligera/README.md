@@ -1,5 +1,4 @@
-Macrophoma clavuligera (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
-=======
+# Macrophoma clavuligera (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

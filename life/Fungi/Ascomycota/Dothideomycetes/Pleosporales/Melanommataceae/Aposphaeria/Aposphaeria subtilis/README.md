@@ -1,5 +1,4 @@
-Aposphaeria subtilis (Corda) Sacc. SPECIES
-=======
+# Aposphaeria subtilis (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

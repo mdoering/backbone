@@ -1,5 +1,4 @@
-Dicaeoma cypripedii (Arthur & Holw.) Arthur SPECIES
-=======
+# Dicaeoma cypripedii (Arthur & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

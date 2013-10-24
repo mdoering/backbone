@@ -1,5 +1,4 @@
-Paralethariicola aspiciliae Calat., Etayo & Diederich SPECIES
-=======
+# Paralethariicola aspiciliae Calat., Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

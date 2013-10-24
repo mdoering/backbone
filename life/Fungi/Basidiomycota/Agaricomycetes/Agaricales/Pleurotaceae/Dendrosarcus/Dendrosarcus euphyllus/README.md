@@ -1,5 +1,4 @@
-Dendrosarcus euphyllus (Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus euphyllus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

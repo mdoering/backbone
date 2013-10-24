@@ -1,5 +1,4 @@
-Cladosporium sycophilum Farneti SPECIES
-=======
+# Cladosporium sycophilum Farneti SPECIES
 
 #### Status
 ACCEPTED

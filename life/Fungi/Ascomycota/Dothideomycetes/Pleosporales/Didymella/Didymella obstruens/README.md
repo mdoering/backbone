@@ -1,5 +1,4 @@
-Didymella obstruens Corbaz SPECIES
-=======
+# Didymella obstruens Corbaz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum rugosiceps (Peck) Singer SPECIES
-=======
+# Leccinum rugosiceps (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

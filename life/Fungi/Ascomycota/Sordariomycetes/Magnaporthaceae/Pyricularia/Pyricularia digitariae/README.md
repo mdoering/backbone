@@ -1,5 +1,4 @@
-Pyricularia digitariae Siwasin & Giatgong SPECIES
-=======
+# Pyricularia digitariae Siwasin & Giatgong SPECIES
 
 #### Status
 ACCEPTED

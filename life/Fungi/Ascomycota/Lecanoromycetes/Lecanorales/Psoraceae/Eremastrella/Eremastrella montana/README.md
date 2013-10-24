@@ -1,5 +1,4 @@
-Eremastrella montana Brusse SPECIES
-=======
+# Eremastrella montana Brusse SPECIES
 
 #### Status
 ACCEPTED

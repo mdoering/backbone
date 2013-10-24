@@ -1,5 +1,4 @@
-Thyrostromella von Höhnel, 1919 GENUS
-=======
+# Thyrostromella von Höhnel, 1919 GENUS
 
 #### Status
 ACCEPTED

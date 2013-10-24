@@ -1,5 +1,4 @@
-Myriogloia GENUS
-=======
+# Myriogloia GENUS
 
 #### Status
 ACCEPTED

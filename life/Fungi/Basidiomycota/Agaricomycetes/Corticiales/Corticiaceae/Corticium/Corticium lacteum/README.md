@@ -1,5 +1,4 @@
-Corticium lacteum var. lacteum (Fr.) Fr. VARIETY
-=======
+# Corticium lacteum Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fungi rhenani (1863)
 
 #### Original name
-Corticium lacteum var. lacteum (Fr.) Fr.
+Corticium lacteum Fuckel
 
 ### Remarks
 null

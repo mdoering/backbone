@@ -1,5 +1,4 @@
-Parmelia loxodes SPECIES
-=======
+# Parmelia loxodes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eimeria clini Fantham, 1932 SPECIES
-=======
+# Eimeria clini Fantham, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pectinatus frisingensis Schleifer et al., 1990 SPECIES
-=======
+# Pectinatus frisingensis Schleifer et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

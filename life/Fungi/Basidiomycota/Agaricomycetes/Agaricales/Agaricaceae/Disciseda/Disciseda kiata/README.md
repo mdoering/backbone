@@ -1,5 +1,4 @@
-Disciseda kiata Grgur., 1997 SPECIES
-=======
+# Disciseda kiata Grgur., 1997 SPECIES
 
 #### Status
 ACCEPTED

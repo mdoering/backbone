@@ -1,5 +1,4 @@
-Cladonia maritima K. Knudsen & Lendemer SPECIES
-=======
+# Cladonia maritima K. Knudsen & Lendemer SPECIES
 
 #### Status
 ACCEPTED

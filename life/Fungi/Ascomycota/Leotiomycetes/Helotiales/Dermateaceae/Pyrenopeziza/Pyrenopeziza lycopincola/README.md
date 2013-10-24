@@ -1,14 +1,13 @@
-Mollisia lycopincola Rehm, 1888 SPECIES
-=======
+# Pyrenopeziza lycopincola (Rehm) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 27: (1888)
+null
 
 #### Original name
 Mollisia lycopincola Rehm, 1888

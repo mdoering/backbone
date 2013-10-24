@@ -1,5 +1,4 @@
-Aecidium zonatum Sacc. SPECIES
-=======
+# Aecidium zonatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

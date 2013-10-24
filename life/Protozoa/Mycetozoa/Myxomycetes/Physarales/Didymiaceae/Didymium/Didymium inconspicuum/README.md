@@ -1,5 +1,4 @@
-Didymium inconspicuum Nann.-Bremek. & D.W. Mitch., 1989 SPECIES
-=======
+# Didymium inconspicuum Nann.-Bremek. & D.W. Mitch., 1989 SPECIES
 
 #### Status
 ACCEPTED

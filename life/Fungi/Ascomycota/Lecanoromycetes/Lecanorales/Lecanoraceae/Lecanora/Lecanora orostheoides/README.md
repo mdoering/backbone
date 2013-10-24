@@ -1,5 +1,4 @@
-Lecanora orostheoides var. orostheoides VARIETY
-=======
+# Lecanora orostheoides Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora orostheoides var. orostheoides
+Lecanora orostheoides Vain.
 
 ### Remarks
 null

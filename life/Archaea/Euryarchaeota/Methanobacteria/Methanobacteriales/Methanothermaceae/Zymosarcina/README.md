@@ -1,5 +1,4 @@
-Zymosarcina Smit, 1930 GENUS
-=======
+# Zymosarcina Smit, 1930 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia seriata P. Syd. & Syd. SPECIES
-=======
+# Puccinia seriata P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

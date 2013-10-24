@@ -1,5 +1,4 @@
-Gibberella nemorosa (Sacc.) Wollenw. SPECIES
-=======
+# Gibberella nemorosa (Sacc.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrononion stellatum Cushman & Edwards, 1937 SPECIES
-=======
+# Astrononion stellatum Cushman & Edwards, 1937 SPECIES
 
 #### Status
 ACCEPTED

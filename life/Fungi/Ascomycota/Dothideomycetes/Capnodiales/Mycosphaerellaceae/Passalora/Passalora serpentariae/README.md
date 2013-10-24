@@ -1,5 +1,4 @@
-Passalora serpentariae (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Passalora serpentariae (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

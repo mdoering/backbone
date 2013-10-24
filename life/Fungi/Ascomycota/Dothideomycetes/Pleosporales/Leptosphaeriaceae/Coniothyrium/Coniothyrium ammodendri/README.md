@@ -1,5 +1,4 @@
-Coniothyrium ammodendri Golovin SPECIES
-=======
+# Coniothyrium ammodendri Golovin SPECIES
 
 #### Status
 ACCEPTED

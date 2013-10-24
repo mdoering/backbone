@@ -1,5 +1,4 @@
-Irpex litschaueri (Bourdot & Galzin) Kotir. & Saaren. SPECIES
-=======
+# Irpex litschaueri (Bourdot & Galzin) Kotir. & Saaren. SPECIES
 
 #### Status
 ACCEPTED

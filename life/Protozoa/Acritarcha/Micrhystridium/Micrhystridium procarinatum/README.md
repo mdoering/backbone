@@ -1,5 +1,4 @@
-Micrhystridium procarinatum Eiserhardt, 1992 SPECIES
-=======
+# Micrhystridium procarinatum Eiserhardt, 1992 SPECIES
 
 #### Status
 ACCEPTED

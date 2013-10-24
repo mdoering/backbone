@@ -1,5 +1,4 @@
-Dendrodochium epistomum Sacc. & Briard, 1885 SPECIES
-=======
+# Dendrodochium epistomum Sacc. & Briard, 1885 SPECIES
 
 #### Status
 ACCEPTED

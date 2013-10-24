@@ -1,5 +1,4 @@
-Samara guianensis Sw. SPECIES
-=======
+# Samara guianensis Sw. SPECIES
 
 #### Status
 ACCEPTED

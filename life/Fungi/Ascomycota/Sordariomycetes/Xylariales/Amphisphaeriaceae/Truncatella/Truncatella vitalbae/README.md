@@ -1,5 +1,4 @@
-Truncatella vitalbae (Shoemaker & E. Müll.) Shoemaker, C.E. Babc. & E. Müll. SPECIES
-=======
+# Truncatella vitalbae (Shoemaker & E. Müll.) Shoemaker, C.E. Babc. & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

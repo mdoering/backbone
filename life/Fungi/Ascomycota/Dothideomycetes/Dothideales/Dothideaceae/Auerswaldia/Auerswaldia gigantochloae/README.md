@@ -1,5 +1,4 @@
-Auerswaldia gigantochloae Rehm SPECIES
-=======
+# Auerswaldia gigantochloae Rehm SPECIES
 
 #### Status
 ACCEPTED

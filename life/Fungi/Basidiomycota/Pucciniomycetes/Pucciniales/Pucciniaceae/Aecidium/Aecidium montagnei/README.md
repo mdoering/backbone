@@ -1,5 +1,4 @@
-Aecidium montagnei Gonz. Frag. SPECIES
-=======
+# Aecidium montagnei Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

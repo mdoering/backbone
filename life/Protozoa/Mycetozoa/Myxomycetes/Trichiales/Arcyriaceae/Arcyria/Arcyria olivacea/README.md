@@ -1,5 +1,4 @@
-Arcyria olivacea Ranesch. {?} SPECIES
-=======
+# Arcyria olivacea Ranesch. {?} SPECIES
 
 #### Status
 ACCEPTED

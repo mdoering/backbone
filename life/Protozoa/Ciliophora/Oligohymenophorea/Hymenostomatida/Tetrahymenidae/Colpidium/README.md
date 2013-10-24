@@ -1,5 +1,4 @@
-Colpidium Stein, 1860 GENUS
-=======
+# Colpidium Stein, 1860 GENUS
 
 #### Status
 ACCEPTED

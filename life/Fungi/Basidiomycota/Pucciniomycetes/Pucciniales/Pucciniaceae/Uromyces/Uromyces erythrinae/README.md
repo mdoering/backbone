@@ -1,5 +1,4 @@
-Uromyces erythrinae Lagerh. SPECIES
-=======
+# Uromyces erythrinae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

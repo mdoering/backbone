@@ -1,5 +1,4 @@
-Atractium flavoviride Sacc. SPECIES
-=======
+# Atractium flavoviride Sacc. SPECIES
 
 #### Status
 ACCEPTED

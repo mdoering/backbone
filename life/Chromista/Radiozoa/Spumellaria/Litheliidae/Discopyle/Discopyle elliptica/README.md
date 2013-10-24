@@ -1,5 +1,4 @@
-Discopyle elliptica Haeckel, 1887 SPECIES
-=======
+# Discopyle elliptica Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

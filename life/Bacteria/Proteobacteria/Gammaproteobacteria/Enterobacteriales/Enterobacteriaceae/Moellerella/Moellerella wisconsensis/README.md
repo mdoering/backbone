@@ -1,5 +1,4 @@
-Moellerella wisconsensis Hickman-Brenner et al., 1984 SPECIES
-=======
+# Moellerella wisconsensis Hickman-Brenner et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

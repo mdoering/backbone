@@ -1,5 +1,4 @@
-Lophiostoma nuculinum Rehm SPECIES
-=======
+# Lophiostoma nuculinum Rehm SPECIES
 
 #### Status
 ACCEPTED

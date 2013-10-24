@@ -1,5 +1,4 @@
-Legionella longbeachae McKinney et al., 1982 SPECIES
-=======
+# Legionella longbeachae McKinney et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

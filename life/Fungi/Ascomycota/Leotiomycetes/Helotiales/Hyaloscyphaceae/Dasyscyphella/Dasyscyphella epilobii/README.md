@@ -1,5 +1,4 @@
-Dasyscyphella epilobii Raitv. & Järv SPECIES
-=======
+# Dasyscyphella epilobii Raitv. & Järv SPECIES
 
 #### Status
 ACCEPTED

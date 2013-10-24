@@ -1,5 +1,4 @@
-Streptopodium tabebuiae Liberato & R.W. Barreto SPECIES
-=======
+# Streptopodium tabebuiae Liberato & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

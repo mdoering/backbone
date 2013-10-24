@@ -1,14 +1,13 @@
-Hymenoscyphus pallide-subolivaceus (Svrcek) Lizon SPECIES
-=======
+# Hymenoscyphus pallidosubolivaceus (Svrcek) Lizon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 44(2): 321 (1992)
 
 #### Original name
 Helotium pallidesubolivaceum Svrcek

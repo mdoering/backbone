@@ -1,5 +1,4 @@
-Venturia gaultheriae Ellis & Everh. SPECIES
-=======
+# Venturia gaultheriae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

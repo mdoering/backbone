@@ -1,5 +1,4 @@
-Plectophomella Moesz GENUS
-=======
+# Plectophomella Moesz GENUS
 
 #### Status
 ACCEPTED

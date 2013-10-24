@@ -1,14 +1,13 @@
-Sclerotinia kerneri (Wettst.) Sacc., 1889 SPECIES
-=======
+# Elliottinia kerneri (Wettst.) L.M. Kohn, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 197 (1889)
+Mycotaxon 9(2): 415 (1979)
 
 #### Original name
 null

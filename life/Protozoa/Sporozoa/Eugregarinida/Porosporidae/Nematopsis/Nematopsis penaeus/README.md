@@ -1,8 +1,7 @@
-Porospora penaeus Sprague, 1954 SPECIES
-=======
+# Nematopsis penaeus (Sprague, 1954) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

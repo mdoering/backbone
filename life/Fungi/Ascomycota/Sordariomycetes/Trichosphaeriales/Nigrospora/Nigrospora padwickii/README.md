@@ -1,5 +1,4 @@
-Nigrospora padwickii Prasad, Agnihotri & J.P. Agarwal SPECIES
-=======
+# Nigrospora padwickii Prasad, Agnihotri & J.P. Agarwal SPECIES
 
 #### Status
 ACCEPTED

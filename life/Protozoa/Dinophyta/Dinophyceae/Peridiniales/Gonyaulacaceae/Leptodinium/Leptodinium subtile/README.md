@@ -1,5 +1,4 @@
-Leptodinium subtile Klement, 1960 SPECIES
-=======
+# Leptodinium subtile Klement, 1960 SPECIES
 
 #### Status
 ACCEPTED

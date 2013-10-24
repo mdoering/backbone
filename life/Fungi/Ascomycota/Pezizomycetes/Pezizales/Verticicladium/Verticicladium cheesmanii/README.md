@@ -1,5 +1,4 @@
-Verticicladium cheesmanii Crossl. SPECIES
-=======
+# Verticicladium cheesmanii Crossl. SPECIES
 
 #### Status
 ACCEPTED

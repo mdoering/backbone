@@ -1,5 +1,4 @@
-Crepidotus parvulus Murrill SPECIES
-=======
+# Crepidotus parvulus Murrill SPECIES
 
 #### Status
 ACCEPTED

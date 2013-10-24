@@ -1,5 +1,4 @@
-Pleosphaerulina sojaecola Miura SPECIES
-=======
+# Pleosphaerulina sojaecola Miura SPECIES
 
 #### Status
 ACCEPTED

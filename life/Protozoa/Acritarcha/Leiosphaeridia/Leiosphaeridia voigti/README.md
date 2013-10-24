@@ -1,5 +1,4 @@
-Leiosphaeridia voigti SPECIES
-=======
+# Leiosphaeridia voigti SPECIES
 
 #### Status
 ACCEPTED

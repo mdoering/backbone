@@ -1,5 +1,4 @@
-Aspergillus cremeoflavus Samson & W. Gams SPECIES
-=======
+# Aspergillus cremeoflavus Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

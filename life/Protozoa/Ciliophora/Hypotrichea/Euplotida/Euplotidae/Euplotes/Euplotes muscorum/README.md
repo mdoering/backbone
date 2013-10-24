@@ -1,5 +1,4 @@
-Euplotes muscorum Dragesco SPECIES
-=======
+# Euplotes muscorum Dragesco SPECIES
 
 #### Status
 ACCEPTED

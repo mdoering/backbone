@@ -1,5 +1,4 @@
-Lecidora intricata (Schrad.) Motyka SPECIES
-=======
+# Lecidora intricata (Schrad.) Motyka SPECIES
 
 #### Status
 ACCEPTED

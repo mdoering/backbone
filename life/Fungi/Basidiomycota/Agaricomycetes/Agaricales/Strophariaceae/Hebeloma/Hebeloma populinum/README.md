@@ -1,5 +1,4 @@
-Hebeloma populinum Romagn., 1965 SPECIES
-=======
+# Hebeloma populinum Romagn., 1965 SPECIES
 
 #### Status
 ACCEPTED

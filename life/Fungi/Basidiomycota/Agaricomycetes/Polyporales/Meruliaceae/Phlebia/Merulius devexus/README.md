@@ -1,5 +1,4 @@
-Merulius devexus (Fr.) Kuntze SPECIES
-=======
+# Merulius devexus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

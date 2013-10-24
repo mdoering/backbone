@@ -1,5 +1,4 @@
-Sinaiella L. Gruia, 1965 GENUS
-=======
+# Sinaiella L. Gruia, 1965 GENUS
 
 #### Status
 ACCEPTED

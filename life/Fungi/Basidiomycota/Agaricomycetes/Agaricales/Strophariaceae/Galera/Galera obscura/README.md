@@ -1,5 +1,4 @@
-Galera obscura Velen. SPECIES
-=======
+# Galera obscura Velen. SPECIES
 
 #### Status
 ACCEPTED

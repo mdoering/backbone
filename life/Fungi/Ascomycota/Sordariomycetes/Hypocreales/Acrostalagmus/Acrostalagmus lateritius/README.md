@@ -1,5 +1,4 @@
-Acrostalagmus lateritius Moreau SPECIES
-=======
+# Acrostalagmus lateritius Moreau SPECIES
 
 #### Status
 ACCEPTED

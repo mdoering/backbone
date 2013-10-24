@@ -1,5 +1,4 @@
-Thalassiosira hydra A.M. Gombos SPECIES
-=======
+# Thalassiosira hydra A.M. Gombos SPECIES
 
 #### Status
 ACCEPTED

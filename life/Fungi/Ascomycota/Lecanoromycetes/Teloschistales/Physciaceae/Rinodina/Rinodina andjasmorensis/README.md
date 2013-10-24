@@ -1,17 +1,16 @@
-Rinodina andjasmorenis Groenh. ex H. Mayrhofer SPECIES
-=======
+# Rinodina andjasmorensis Groenh. ex H. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Hattori bot. Lab. 55: 375 (1984)
 
 #### Original name
-Rinodina andjasmorenis Groenh. ex H. Mayrhofer
+Rinodina andjasmorensis Groenh. ex H. Mayrhofer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pleospora triglochinis Har. & Briard SPECIES
-=======
+# Pleospora triglochinis Har. & Briard SPECIES
 
 #### Status
 ACCEPTED

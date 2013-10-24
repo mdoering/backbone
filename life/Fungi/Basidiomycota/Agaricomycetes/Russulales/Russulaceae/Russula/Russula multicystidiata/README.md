@@ -1,5 +1,4 @@
-Russula multicystidiata McNabb, 1973 SPECIES
-=======
+# Russula multicystidiata McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

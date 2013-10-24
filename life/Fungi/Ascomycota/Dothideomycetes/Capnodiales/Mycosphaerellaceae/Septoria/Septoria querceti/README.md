@@ -1,5 +1,4 @@
-Septoria querceti Thüm. SPECIES
-=======
+# Septoria querceti Thüm. SPECIES
 
 #### Status
 ACCEPTED

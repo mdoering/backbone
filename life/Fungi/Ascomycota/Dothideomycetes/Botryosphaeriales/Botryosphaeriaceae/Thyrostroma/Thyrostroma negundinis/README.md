@@ -1,5 +1,4 @@
-Thyrostroma negundinis (Berk. & M.A. Curtis) A.W. Ramaley SPECIES
-=======
+# Thyrostroma negundinis (Berk. & M.A. Curtis) A.W. Ramaley SPECIES
 
 #### Status
 ACCEPTED

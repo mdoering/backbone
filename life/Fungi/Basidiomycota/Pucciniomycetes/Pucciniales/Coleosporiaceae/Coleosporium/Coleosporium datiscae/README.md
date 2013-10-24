@@ -1,5 +1,4 @@
-Coleosporium datiscae Tranzschel SPECIES
-=======
+# Coleosporium datiscae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

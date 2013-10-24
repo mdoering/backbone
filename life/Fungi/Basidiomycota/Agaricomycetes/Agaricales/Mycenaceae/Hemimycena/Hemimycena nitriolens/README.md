@@ -1,5 +1,4 @@
-Hemimycena nitriolens (Valla) Antonín & Noordel. SPECIES
-=======
+# Hemimycena nitriolens (Valla) Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED

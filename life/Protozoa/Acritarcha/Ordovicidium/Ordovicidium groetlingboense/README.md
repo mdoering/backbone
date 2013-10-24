@@ -1,5 +1,4 @@
-Ordovicidium groetlingboense (Kjellström, 1971) Loeblich & Tappan, 1978 SPECIES
-=======
+# Ordovicidium groetlingboense (Kjellström, 1971) Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

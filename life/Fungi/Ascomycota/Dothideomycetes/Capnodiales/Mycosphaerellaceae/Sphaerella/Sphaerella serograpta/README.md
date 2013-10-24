@@ -1,5 +1,4 @@
-Sphaerella serograpta (Durieu & Mont.) Auersw. SPECIES
-=======
+# Sphaerella serograpta (Durieu & Mont.) Auersw. SPECIES
 
 #### Status
 ACCEPTED

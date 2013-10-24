@@ -1,14 +1,13 @@
-Thelotrema subpraestans Hale SPECIES
-=======
+# Ocellularia subpraestans (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Phytologia 27: 497 (1974)
+Mycotaxon 11(1): 138 (1980)
 
 #### Original name
 Thelotrema subpraestans Hale

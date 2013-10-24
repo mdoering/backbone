@@ -1,5 +1,4 @@
-Marasmius flexipes Manim. & Leelav. SPECIES
-=======
+# Marasmius flexipes Manim. & Leelav. SPECIES
 
 #### Status
 ACCEPTED

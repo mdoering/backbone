@@ -1,5 +1,4 @@
-Hippocrepinella ampullacea Rhumbler, 1935 SPECIES
-=======
+# Hippocrepinella ampullacea Rhumbler, 1935 SPECIES
 
 #### Status
 ACCEPTED

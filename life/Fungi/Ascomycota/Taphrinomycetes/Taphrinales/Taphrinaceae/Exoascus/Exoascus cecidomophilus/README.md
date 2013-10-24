@@ -1,5 +1,4 @@
-Exoascus cecidomophilus G.F. Atk. SPECIES
-=======
+# Exoascus cecidomophilus G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

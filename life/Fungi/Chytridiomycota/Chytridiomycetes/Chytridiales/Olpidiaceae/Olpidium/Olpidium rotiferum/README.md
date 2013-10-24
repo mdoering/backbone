@@ -1,5 +1,4 @@
-Olpidium rotiferum Karling SPECIES
-=======
+# Olpidium rotiferum Karling SPECIES
 
 #### Status
 ACCEPTED

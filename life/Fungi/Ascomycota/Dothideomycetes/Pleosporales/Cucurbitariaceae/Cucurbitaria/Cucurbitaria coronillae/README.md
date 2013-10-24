@@ -1,5 +1,4 @@
-Cucurbitaria coronillae (Fr.) Sacc. SPECIES
-=======
+# Cucurbitaria coronillae (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

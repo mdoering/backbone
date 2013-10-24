@@ -1,5 +1,4 @@
-Sterigmatocystis butyracea Bainier SPECIES
-=======
+# Sterigmatocystis butyracea Bainier SPECIES
 
 #### Status
 ACCEPTED

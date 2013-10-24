@@ -1,5 +1,4 @@
-Umbellasphaeridium armillatum Vavrdová & Isaacson, 2000 SPECIES
-=======
+# Umbellasphaeridium armillatum Vavrdová & Isaacson, 2000 SPECIES
 
 #### Status
 ACCEPTED

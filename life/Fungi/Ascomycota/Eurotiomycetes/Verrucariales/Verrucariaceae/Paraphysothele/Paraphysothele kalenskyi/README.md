@@ -1,5 +1,4 @@
-Paraphysothele kalenskyi Servít SPECIES
-=======
+# Paraphysothele kalenskyi Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thiomicrospira pelophila Kuenen and Veldkamp, 1972 (Approved Lists, 1980) SPECIES
-=======
+# Thiomicrospira pelophila Kuenen and Veldkamp, 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

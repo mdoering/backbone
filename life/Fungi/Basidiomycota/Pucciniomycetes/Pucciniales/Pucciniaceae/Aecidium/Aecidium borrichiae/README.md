@@ -1,5 +1,4 @@
-Aecidium borrichiae Syd. & P. Syd. SPECIES
-=======
+# Aecidium borrichiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavulina d'Orbigny, 1826 GENUS
-=======
+# Clavulina d'Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

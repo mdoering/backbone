@@ -1,5 +1,4 @@
-Trametes comtulus Berk. SPECIES
-=======
+# Trametes comtulus Berk. SPECIES
 
 #### Status
 ACCEPTED

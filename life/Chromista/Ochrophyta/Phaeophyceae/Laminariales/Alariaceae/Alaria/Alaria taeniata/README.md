@@ -1,5 +1,4 @@
-Alaria taeniata Kjellman SPECIES
-=======
+# Alaria taeniata Kjellman SPECIES
 
 #### Status
 ACCEPTED

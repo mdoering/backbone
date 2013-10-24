@@ -1,5 +1,4 @@
-Opegrapha virescens Müll. Arg. SPECIES
-=======
+# Opegrapha virescens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius epirhododendron Kalamees SPECIES
-=======
+# Marasmius epirhododendron Kalamees SPECIES
 
 #### Status
 ACCEPTED

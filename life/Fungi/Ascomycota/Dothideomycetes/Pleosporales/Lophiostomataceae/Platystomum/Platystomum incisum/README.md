@@ -1,5 +1,4 @@
-Platystomum incisum (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum incisum (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

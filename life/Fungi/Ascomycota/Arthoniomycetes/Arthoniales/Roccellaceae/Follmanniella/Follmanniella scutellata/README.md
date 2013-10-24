@@ -1,5 +1,4 @@
-Follmanniella scutellata Peine & B. Werner SPECIES
-=======
+# Follmanniella scutellata Peine & B. Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helicoma morgani Linder SPECIES
-=======
+# Helicoma morganii Linder SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 16: 304 (1929)
 
 #### Original name
-Helicoma morgani Linder
+Helicoma morganii Linder
 
 ### Remarks
 null

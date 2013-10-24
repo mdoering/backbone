@@ -1,5 +1,4 @@
-Arthroderma crocatum Udagawa, Kubo & Shibaki SPECIES
-=======
+# Arthroderma crocatum Udagawa, Kubo & Shibaki SPECIES
 
 #### Status
 ACCEPTED

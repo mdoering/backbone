@@ -1,5 +1,4 @@
-Sclerotium myxomycetis E. Bommer & M. Rousseau SPECIES
-=======
+# Sclerotium myxomycetis E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bilimbia arthoniza (Nyl.) SPECIES
-=======
+# Bilimbia arthoniza (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

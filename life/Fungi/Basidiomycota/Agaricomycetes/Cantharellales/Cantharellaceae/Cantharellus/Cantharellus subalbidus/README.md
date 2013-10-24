@@ -1,5 +1,4 @@
-Cantharellus subalbidus A.H. Sm. & Morse SPECIES
-=======
+# Cantharellus subalbidus A.H. Sm. & Morse SPECIES
 
 #### Status
 ACCEPTED

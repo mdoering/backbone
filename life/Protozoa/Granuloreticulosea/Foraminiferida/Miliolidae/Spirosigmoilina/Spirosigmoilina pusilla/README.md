@@ -1,8 +1,7 @@
-Spirophtalmidium pusillum (Earland, 1934) SPECIES
-=======
+# Spirosigmoilina pusilla (Earland, 1934) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

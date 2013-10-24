@@ -1,5 +1,4 @@
-Acarospora siplei C.W. Dodge SPECIES
-=======
+# Acarospora siplei C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

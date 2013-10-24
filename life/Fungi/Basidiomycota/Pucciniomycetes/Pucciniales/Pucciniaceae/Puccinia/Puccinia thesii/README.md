@@ -1,17 +1,16 @@
-Puccinia thesii var. passerinii (J. Schröt.) Sacc. VARIETY
-=======
+# Puccinia thesii (Desv.) Chaillet, 1830 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Duby Bot. Gall. 2: 889 (1830)
 
 #### Original name
-Puccinia passerinii J. Schröt.
+Puccinia thesii (Desv.) Chaillet, 1830
 
 ### Remarks
 null

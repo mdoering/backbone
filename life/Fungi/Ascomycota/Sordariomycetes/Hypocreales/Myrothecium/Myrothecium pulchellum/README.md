@@ -1,5 +1,4 @@
-Myrothecium pulchellum Speg. SPECIES
-=======
+# Myrothecium pulchellum Speg. SPECIES
 
 #### Status
 ACCEPTED

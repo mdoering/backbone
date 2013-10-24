@@ -1,5 +1,4 @@
-Usnea cornea Motyka SPECIES
-=======
+# Usnea cornea Motyka SPECIES
 
 #### Status
 ACCEPTED

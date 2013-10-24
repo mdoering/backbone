@@ -1,14 +1,13 @@
-Balanium africanum Kiffer, 1973 SPECIES
-=======
+# Balaniopsis africana (Kiffer) P.M. Kirk, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Naturaliste Can. 100: 261 (1973)
+Mycotaxon 23: 309 (1985)
 
 #### Original name
 Balanium africanum Kiffer, 1973

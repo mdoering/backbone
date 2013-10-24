@@ -1,5 +1,4 @@
-Pseudocercospora alstoniae Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora alstoniae Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

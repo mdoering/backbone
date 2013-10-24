@@ -1,5 +1,4 @@
-Scolecosporiella sisyrinchii (Ellis & Everh.) B. Sutton SPECIES
-=======
+# Scolecosporiella sisyrinchii (Ellis & Everh.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

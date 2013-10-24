@@ -1,5 +1,4 @@
-Sphaerulina intermedia Vouaux SPECIES
-=======
+# Sphaerulina intermedia Vouaux SPECIES
 
 #### Status
 ACCEPTED

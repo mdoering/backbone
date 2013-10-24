@@ -1,5 +1,4 @@
-Lecanora flavidofusca Müll. Arg. SPECIES
-=======
+# Lecanora flavidofusca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

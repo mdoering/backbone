@@ -1,5 +1,4 @@
-Polyrhizon terminaliae Syd. & P. Syd., 1914 SPECIES
-=======
+# Polyrhizon terminaliae Syd. & P. Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

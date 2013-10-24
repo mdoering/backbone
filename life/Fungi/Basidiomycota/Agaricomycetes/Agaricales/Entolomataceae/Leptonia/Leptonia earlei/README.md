@@ -1,5 +1,4 @@
-Leptonia earlei Murrill SPECIES
-=======
+# Leptonia earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

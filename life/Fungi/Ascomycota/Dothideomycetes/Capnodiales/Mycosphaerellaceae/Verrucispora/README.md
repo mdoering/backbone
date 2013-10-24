@@ -1,5 +1,4 @@
-Verrucispora GENUS
-=======
+# Verrucispora GENUS
 
 #### Status
 ACCEPTED

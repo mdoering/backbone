@@ -1,5 +1,4 @@
-Aposphaeria difformis Sacc. SPECIES
-=======
+# Aposphaeria difformis Sacc. SPECIES
 
 #### Status
 ACCEPTED

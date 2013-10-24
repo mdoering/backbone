@@ -1,5 +1,4 @@
-Mycovellosiella poasensis (Syd.) U. Braun SPECIES
-=======
+# Mycovellosiella poasensis (Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

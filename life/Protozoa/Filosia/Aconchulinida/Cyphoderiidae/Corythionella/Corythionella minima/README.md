@@ -1,5 +1,4 @@
-Corythionella minima Golemansky, 1970 SPECIES
-=======
+# Corythionella minima Golemansky, 1970 SPECIES
 
 #### Status
 ACCEPTED

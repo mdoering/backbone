@@ -1,5 +1,4 @@
-Melanamphora sinensis Lafl. SPECIES
-=======
+# Melanamphora sinensis Lafl. SPECIES
 
 #### Status
 ACCEPTED

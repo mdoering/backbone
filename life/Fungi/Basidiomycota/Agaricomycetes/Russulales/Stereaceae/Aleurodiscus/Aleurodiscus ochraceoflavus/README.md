@@ -1,5 +1,4 @@
-Aleurodiscus ochraceoflavus Lloyd, 1923 SPECIES
-=======
+# Aleurodiscus ochraceoflavus Lloyd, 1923 SPECIES
 
 #### Status
 ACCEPTED

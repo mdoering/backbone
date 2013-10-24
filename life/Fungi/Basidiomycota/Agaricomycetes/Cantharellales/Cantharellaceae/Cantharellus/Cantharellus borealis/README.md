@@ -1,5 +1,4 @@
-Cantharellus borealis R.H. Petersen & Ryvarden SPECIES
-=======
+# Cantharellus borealis R.H. Petersen & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

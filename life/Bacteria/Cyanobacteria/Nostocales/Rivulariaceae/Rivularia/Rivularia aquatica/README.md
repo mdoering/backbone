@@ -1,5 +1,4 @@
-Rivularia aquatica De Wildeman SPECIES
-=======
+# Rivularia aquatica De Wildeman SPECIES
 
 #### Status
 ACCEPTED

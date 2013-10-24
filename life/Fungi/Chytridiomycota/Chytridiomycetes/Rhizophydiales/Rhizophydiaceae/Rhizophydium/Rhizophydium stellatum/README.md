@@ -1,5 +1,4 @@
-Rhizophydium stellatum S.N. Dasgupta & R. John SPECIES
-=======
+# Rhizophydium stellatum S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

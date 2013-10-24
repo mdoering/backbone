@@ -1,5 +1,4 @@
-Tubercularia palmae Schwein. SPECIES
-=======
+# Tubercularia palmae Schwein. SPECIES
 
 #### Status
 ACCEPTED

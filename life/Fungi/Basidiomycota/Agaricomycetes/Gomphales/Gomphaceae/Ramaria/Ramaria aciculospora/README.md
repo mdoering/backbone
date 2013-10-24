@@ -1,5 +1,4 @@
-Ramaria aciculospora R.H. Petersen SPECIES
-=======
+# Ramaria aciculospora R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

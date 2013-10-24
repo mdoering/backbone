@@ -1,5 +1,4 @@
-Wardomyces F.T. Brooks & Hansford, 1923 GENUS
-=======
+# Wardomyces F.T. Brooks & Hansford, 1923 GENUS
 
 #### Status
 ACCEPTED

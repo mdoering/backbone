@@ -1,5 +1,4 @@
-Corrugaria radiata Dennis SPECIES
-=======
+# Corrugaria radiata Dennis SPECIES
 
 #### Status
 ACCEPTED

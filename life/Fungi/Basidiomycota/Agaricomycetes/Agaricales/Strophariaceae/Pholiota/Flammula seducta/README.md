@@ -1,5 +1,4 @@
-Flammula seducta (Britzelm.) Sacc. SPECIES
-=======
+# Flammula seducta (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

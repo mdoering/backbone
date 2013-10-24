@@ -1,5 +1,4 @@
-Rubigo faginea (Pers.) Nees SPECIES
-=======
+# Rubigo faginea (Pers.) Nees SPECIES
 
 #### Status
 ACCEPTED

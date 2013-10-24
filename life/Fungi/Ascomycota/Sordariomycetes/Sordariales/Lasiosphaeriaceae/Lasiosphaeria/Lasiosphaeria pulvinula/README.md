@@ -1,5 +1,4 @@
-Lasiosphaeria pulvinula (Berk.) Sacc. SPECIES
-=======
+# Lasiosphaeria pulvinula (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

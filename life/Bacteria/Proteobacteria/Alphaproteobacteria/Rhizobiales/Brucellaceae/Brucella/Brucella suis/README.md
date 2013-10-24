@@ -1,5 +1,4 @@
-Brucella suis Huddleson, 1929 (Approved Lists, 1980) SPECIES
-=======
+# Brucella suis Huddleson, 1929 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

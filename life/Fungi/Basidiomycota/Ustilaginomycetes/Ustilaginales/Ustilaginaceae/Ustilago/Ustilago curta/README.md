@@ -1,5 +1,4 @@
-Ustilago curta Syd. SPECIES
-=======
+# Ustilago curta Syd. SPECIES
 
 #### Status
 ACCEPTED

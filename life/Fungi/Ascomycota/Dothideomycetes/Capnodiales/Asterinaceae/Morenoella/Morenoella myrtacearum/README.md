@@ -1,5 +1,4 @@
-Morenoella myrtacearum Speg. SPECIES
-=======
+# Morenoella myrtacearum Speg. SPECIES
 
 #### Status
 ACCEPTED

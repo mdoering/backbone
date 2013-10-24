@@ -1,5 +1,4 @@
-Lignosus ekombitii Douanla-Meli, 2003 SPECIES
-=======
+# Lignosus ekombitii Douanla-Meli, 2003 SPECIES
 
 #### Status
 ACCEPTED

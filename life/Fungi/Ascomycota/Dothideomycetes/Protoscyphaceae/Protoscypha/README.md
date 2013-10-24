@@ -1,5 +1,4 @@
-Protoscypha Syd. GENUS
-=======
+# Protoscypha Syd. GENUS
 
 #### Status
 ACCEPTED

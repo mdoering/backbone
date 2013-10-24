@@ -1,5 +1,4 @@
-Filichona Yankovskii, 1973 GENUS
-=======
+# Filichona Yankovskii, 1973 GENUS
 
 #### Status
 ACCEPTED

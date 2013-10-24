@@ -1,5 +1,4 @@
-Urocystis xilinhotensis L. Guo & H.C. Zhang, 2005 SPECIES
-=======
+# Urocystis xilinhotensis L. Guo & H.C. Zhang, 2005 SPECIES
 
 #### Status
 ACCEPTED

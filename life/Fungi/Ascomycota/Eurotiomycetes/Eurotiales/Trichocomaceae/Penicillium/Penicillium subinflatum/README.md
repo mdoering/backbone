@@ -1,5 +1,4 @@
-Penicillium subinflatum Yaguchi & Udagawa SPECIES
-=======
+# Penicillium subinflatum Yaguchi & Udagawa SPECIES
 
 #### Status
 ACCEPTED

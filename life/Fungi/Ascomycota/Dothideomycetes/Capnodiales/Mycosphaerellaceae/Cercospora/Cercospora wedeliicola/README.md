@@ -1,5 +1,4 @@
-Cercospora wedeliicola A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora wedeliicola A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

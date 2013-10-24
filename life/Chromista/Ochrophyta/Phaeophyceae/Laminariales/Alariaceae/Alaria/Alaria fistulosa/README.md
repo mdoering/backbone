@@ -1,5 +1,4 @@
-Alaria fistulosa Postels & Ruprecht SPECIES
-=======
+# Alaria fistulosa Postels & Ruprecht SPECIES
 
 #### Status
 ACCEPTED

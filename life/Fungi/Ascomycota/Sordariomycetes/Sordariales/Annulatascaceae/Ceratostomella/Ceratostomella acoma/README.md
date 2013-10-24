@@ -1,5 +1,4 @@
-Ceratostomella acoma V.V. Mill. & Tcherntz. SPECIES
-=======
+# Ceratostomella acoma V.V. Mill. & Tcherntz. SPECIES
 
 #### Status
 ACCEPTED

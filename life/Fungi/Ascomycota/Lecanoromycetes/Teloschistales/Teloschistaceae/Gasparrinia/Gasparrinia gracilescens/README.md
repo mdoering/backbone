@@ -1,5 +1,4 @@
-Gasparrinia gracilescens (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Gasparrinia gracilescens (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

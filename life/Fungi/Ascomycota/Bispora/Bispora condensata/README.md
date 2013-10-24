@@ -1,5 +1,4 @@
-Bispora condensata Corda SPECIES
-=======
+# Bispora condensata Corda SPECIES
 
 #### Status
 ACCEPTED

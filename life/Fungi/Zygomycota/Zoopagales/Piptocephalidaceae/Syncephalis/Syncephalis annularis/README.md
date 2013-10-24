@@ -1,5 +1,4 @@
-Syncephalis annularis Kuzuha, 1973 SPECIES
-=======
+# Syncephalis annularis Kuzuha, 1973 SPECIES
 
 #### Status
 ACCEPTED

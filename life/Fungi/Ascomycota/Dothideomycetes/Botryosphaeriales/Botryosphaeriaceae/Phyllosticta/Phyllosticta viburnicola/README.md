@@ -1,5 +1,4 @@
-Phyllosticta viburnicola Roum. SPECIES
-=======
+# Phyllosticta viburnicola Roum. SPECIES
 
 #### Status
 ACCEPTED

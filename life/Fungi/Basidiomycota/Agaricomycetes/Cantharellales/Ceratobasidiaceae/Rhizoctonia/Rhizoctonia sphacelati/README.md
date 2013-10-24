@@ -1,5 +1,4 @@
-Rhizoctonia sphacelati Burgeff SPECIES
-=======
+# Rhizoctonia sphacelati Burgeff SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crumenula linnaeae P. Karst. SPECIES
-=======
+# Crumenula linnaeae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

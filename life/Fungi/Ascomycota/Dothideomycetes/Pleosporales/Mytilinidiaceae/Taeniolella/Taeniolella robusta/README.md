@@ -1,5 +1,4 @@
-Taeniolella robusta Mercado SPECIES
-=======
+# Taeniolella robusta Mercado SPECIES
 
 #### Status
 ACCEPTED

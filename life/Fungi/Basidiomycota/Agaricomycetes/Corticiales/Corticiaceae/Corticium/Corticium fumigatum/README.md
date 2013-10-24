@@ -1,5 +1,4 @@
-Corticium fumigatum Thüm. SPECIES
-=======
+# Corticium fumigatum Thüm. SPECIES
 
 #### Status
 ACCEPTED

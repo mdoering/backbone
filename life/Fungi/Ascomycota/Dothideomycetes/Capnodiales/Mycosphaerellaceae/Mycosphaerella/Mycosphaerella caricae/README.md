@@ -1,17 +1,16 @@
-Stagonosporopsis caricae (Syd. & P. Syd.) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Mycosphaerella caricae Syd. & P. Syd., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 11(5): 403 (1913)
 
 #### Original name
-null
+Mycosphaerella caricae Syd. & P. Syd., 1913
 
 ### Remarks
 null

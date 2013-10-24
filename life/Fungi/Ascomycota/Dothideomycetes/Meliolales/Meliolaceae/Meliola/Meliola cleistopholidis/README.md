@@ -1,5 +1,4 @@
-Meliola cleistopholidis Hansf. SPECIES
-=======
+# Meliola cleistopholidis Hansf. SPECIES
 
 #### Status
 ACCEPTED

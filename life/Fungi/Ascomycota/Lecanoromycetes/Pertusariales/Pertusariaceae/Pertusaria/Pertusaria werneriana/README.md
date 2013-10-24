@@ -1,5 +1,4 @@
-Pertusaria werneriana Boqueras SPECIES
-=======
+# Pertusaria werneriana Boqueras SPECIES
 
 #### Status
 ACCEPTED

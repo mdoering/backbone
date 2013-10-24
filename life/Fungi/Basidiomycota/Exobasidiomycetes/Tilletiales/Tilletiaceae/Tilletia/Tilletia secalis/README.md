@@ -1,5 +1,4 @@
-Tilletia secalis (Corda) J.G. Kühn SPECIES
-=======
+# Tilletia secalis (Corda) J.G. Kühn SPECIES
 
 #### Status
 ACCEPTED

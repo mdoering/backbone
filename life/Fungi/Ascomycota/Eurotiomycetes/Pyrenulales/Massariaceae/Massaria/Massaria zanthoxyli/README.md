@@ -1,14 +1,13 @@
-Massaria xanthoxyli (Peck) Petr. SPECIES
-=======
+# Massaria zanthoxyli (Peck) Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 23: 138 (1925)
 
 #### Original name
 Massariella zanthoxyli Peck

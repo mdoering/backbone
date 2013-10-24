@@ -1,14 +1,13 @@
-Titania berkeleyi Berl., 1891 SPECIES
-=======
+# Fremineavia berkeleyi (Berl.) Nieuwl., 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Abellini) 1(1): 49 (1891)
+Am. Midl. Nat. 4: 501 (1916)
 
 #### Original name
 Titania berkeleyi Berl., 1891

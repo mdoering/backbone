@@ -1,5 +1,4 @@
-Amphisia lacazei SPECIES
-=======
+# Amphisia lacazei SPECIES
 
 #### Status
 ACCEPTED

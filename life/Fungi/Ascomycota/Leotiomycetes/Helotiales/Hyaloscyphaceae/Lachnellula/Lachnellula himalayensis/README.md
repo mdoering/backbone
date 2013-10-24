@@ -1,5 +1,4 @@
-Lachnellula himalayensis A.K. Kar & Pal {?} SPECIES
-=======
+# Lachnellula himalayensis A.K. Kar & Pal {?} SPECIES
 
 #### Status
 ACCEPTED

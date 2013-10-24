@@ -1,5 +1,4 @@
-Elytroderma lusitanicum ined. SPECIES
-=======
+# Elytroderma lusitanicum ined. SPECIES
 
 #### Status
 ACCEPTED

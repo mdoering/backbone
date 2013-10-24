@@ -1,5 +1,4 @@
-Phyllachora atroinquinans G. Winter, 1887 SPECIES
-=======
+# Phyllachora atroinquinans G. Winter, 1887 SPECIES
 
 #### Status
 DOUBTFUL

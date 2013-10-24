@@ -1,5 +1,4 @@
-Septoria eugeniifolii Bat. & Peres SPECIES
-=======
+# Septoria eugeniifolii Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

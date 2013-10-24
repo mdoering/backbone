@@ -1,5 +1,4 @@
-Desulfobulbus elongatus Samain et al., 1985 SPECIES
-=======
+# Desulfobulbus elongatus Samain et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

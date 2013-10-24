@@ -1,5 +1,4 @@
-Thelotrema muralis Hepp SPECIES
-=======
+# Thelotrema muralis Hepp SPECIES
 
 #### Status
 ACCEPTED

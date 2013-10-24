@@ -1,5 +1,4 @@
-Arthonia obscurata Vain. SPECIES
-=======
+# Arthonia obscurata Vain. SPECIES
 
 #### Status
 ACCEPTED

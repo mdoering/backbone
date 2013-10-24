@@ -1,5 +1,4 @@
-Lecidea terrula (Hult.) Zahlbr. SPECIES
-=======
+# Lecidea terrula (Hult.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetostroma villosum Fresen. SPECIES
-=======
+# Chaetostroma villosum Fresen. SPECIES
 
 #### Status
 ACCEPTED

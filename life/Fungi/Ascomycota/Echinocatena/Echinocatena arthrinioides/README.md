@@ -1,5 +1,4 @@
-Echinocatena arthrinioides R. Campb. & B. Sutton, 1977 SPECIES
-=======
+# Echinocatena arthrinioides R. Campb. & B. Sutton, 1977 SPECIES
 
 #### Status
 ACCEPTED

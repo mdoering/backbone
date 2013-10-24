@@ -1,5 +1,4 @@
-Agaricus atomatus var. atomatus VARIETY
-=======
+# Agaricus atomatus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syst. mycol. (Lundae) 1: 298 (1821)
 
 #### Original name
-Agaricus atomatus var. atomatus
+Agaricus atomatus Fr.
 
 ### Remarks
 null

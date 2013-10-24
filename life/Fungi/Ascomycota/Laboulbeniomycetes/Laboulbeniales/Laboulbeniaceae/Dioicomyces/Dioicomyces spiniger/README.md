@@ -1,5 +1,4 @@
-Dioicomyces spiniger Thaxt. SPECIES
-=======
+# Dioicomyces spiniger Thaxt. SPECIES
 
 #### Status
 ACCEPTED

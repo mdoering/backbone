@@ -1,5 +1,4 @@
-Lecidea propinquella Nyl. SPECIES
-=======
+# Lecidea propinquella Nyl. SPECIES
 
 #### Status
 ACCEPTED

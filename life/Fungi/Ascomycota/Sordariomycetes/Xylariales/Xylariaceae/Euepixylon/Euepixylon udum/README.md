@@ -1,17 +1,16 @@
-Sphaeria uda var. uda VARIETY
-=======
+# Euepixylon udum (Pers.) Laessøe & Spooner, 1994 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neues Mag. Bot. 1: 83 (1794)
+Kew Bull. 49(1): 41 (1994)
 
 #### Original name
-Sphaeria uda var. uda
+Sphaeria uda Pers., 1794
 
 ### Remarks
 null

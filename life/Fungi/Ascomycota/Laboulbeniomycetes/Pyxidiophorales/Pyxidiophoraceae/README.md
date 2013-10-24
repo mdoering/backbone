@@ -1,5 +1,4 @@
-Pyxidiophoraceae G.R.W. Arnold FAMILY
-=======
+# Pyxidiophoraceae G.R.W. Arnold FAMILY
 
 #### Status
 ACCEPTED

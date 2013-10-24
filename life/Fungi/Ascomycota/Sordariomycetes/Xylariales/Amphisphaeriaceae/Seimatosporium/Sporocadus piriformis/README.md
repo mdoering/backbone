@@ -1,5 +1,4 @@
-Sporocadus piriformis Preuss SPECIES
-=======
+# Sporocadus piriformis Preuss SPECIES
 
 #### Status
 ACCEPTED

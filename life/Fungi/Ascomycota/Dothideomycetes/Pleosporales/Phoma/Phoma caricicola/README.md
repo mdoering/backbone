@@ -1,17 +1,16 @@
-Phyllosticta caricicola var. caricicola VARIETY
-=======
+# Phoma caricicola Brunaud, 1890 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Miscell. mycol. 2: 36 (1890)
 
 #### Original name
-Phyllosticta caricicola var. caricicola
+Phoma caricicola Brunaud, 1890
 
 ### Remarks
 null

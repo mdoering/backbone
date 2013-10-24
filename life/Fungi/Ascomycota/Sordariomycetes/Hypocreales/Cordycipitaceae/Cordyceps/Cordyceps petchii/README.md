@@ -1,5 +1,4 @@
-Cordyceps petchii Mains SPECIES
-=======
+# Cordyceps petchii Mains SPECIES
 
 #### Status
 ACCEPTED

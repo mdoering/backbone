@@ -1,5 +1,4 @@
-Asteridiella cheoi (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella cheoi (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora spiraeicola (A.S. Mull. & Chupp) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora spiraeicola (A.S. Mull. & Chupp) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

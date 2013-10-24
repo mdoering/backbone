@@ -1,5 +1,4 @@
-Lecanora labiosa Stizenb. SPECIES
-=======
+# Lecanora labiosa Stizenb. SPECIES
 
 #### Status
 ACCEPTED

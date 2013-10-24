@@ -1,5 +1,4 @@
-Puccinia fastidiosa Sacc. & De Toni SPECIES
-=======
+# Puccinia fastidiosa Sacc. & De Toni SPECIES
 
 #### Status
 ACCEPTED

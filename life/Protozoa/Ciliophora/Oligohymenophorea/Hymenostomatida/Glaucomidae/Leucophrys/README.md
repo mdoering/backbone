@@ -1,5 +1,4 @@
-Leucophrys Ehrenberg, 1830 GENUS
-=======
+# Leucophrys Ehrenberg, 1830 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma andrachnidis Kalymb. SPECIES
-=======
+# Phoma andrachnidis Kalymb. SPECIES
 
 #### Status
 ACCEPTED

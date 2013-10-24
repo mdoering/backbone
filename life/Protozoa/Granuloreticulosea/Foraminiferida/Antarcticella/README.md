@@ -1,5 +1,4 @@
-Antarcticella Loeblich & Tappan, 1988 GENUS
-=======
+# Antarcticella Loeblich & Tappan, 1988 GENUS
 
 #### Status
 ACCEPTED

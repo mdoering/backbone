@@ -1,17 +1,16 @@
-Ascidium massalongi Mont. SPECIES
-=======
+# Ocellularia massalongoi (Mont.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 11(1): 137 (1980)
 
 #### Original name
-Ascidium massalongi Mont.
+Ascidium massalongoi Mont.
 
 ### Remarks
 null

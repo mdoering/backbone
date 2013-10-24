@@ -1,5 +1,4 @@
-Telamonia desertorum Velen. SPECIES
-=======
+# Telamonia desertorum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lipomyces orientalis Thanh, 2006 SPECIES
-=======
+# Lipomyces orientalis Thanh, 2006 SPECIES
 
 #### Status
 ACCEPTED

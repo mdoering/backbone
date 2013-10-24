@@ -1,5 +1,4 @@
-Neocallimastigomycetes M.J. Powell CLASS
-=======
+# Neocallimastigomycetes M.J. Powell CLASS
 
 #### Status
 ACCEPTED

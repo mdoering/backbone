@@ -1,5 +1,4 @@
-Meliola sterculiacearum Hosag. & Kamar. SPECIES
-=======
+# Meliola sterculiacearum Hosag. & Kamar. SPECIES
 
 #### Status
 ACCEPTED

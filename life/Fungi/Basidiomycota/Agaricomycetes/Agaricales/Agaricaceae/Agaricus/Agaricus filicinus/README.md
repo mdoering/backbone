@@ -1,5 +1,4 @@
-Agaricus filicinus Spreng. SPECIES
-=======
+# Agaricus filicinus Spreng. SPECIES
 
 #### Status
 ACCEPTED

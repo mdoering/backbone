@@ -1,8 +1,7 @@
-Verrucaria rubentior Stirt., 1878 SPECIES
-=======
+# Porina rubentior (Stirt.) Müll. Arg., 1883 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

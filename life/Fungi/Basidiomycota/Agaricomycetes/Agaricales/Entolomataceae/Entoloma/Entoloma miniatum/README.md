@@ -1,5 +1,4 @@
-Entoloma miniatum (Pat.) Hesler SPECIES
-=======
+# Entoloma miniatum (Pat.) Hesler SPECIES
 
 #### Status
 ACCEPTED

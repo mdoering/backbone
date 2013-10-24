@@ -1,5 +1,4 @@
-Entoloma clavaformipes Largent SPECIES
-=======
+# Entoloma clavaformipes Largent SPECIES
 
 #### Status
 ACCEPTED

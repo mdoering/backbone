@@ -1,14 +1,13 @@
-Enterocystis Zwetkow, 1927 GENUS
-=======
+# Echiurocystis Levine, 1977 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Folia parasit. 24: 15.
 
 #### Original name
 null

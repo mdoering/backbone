@@ -1,5 +1,4 @@
-Chaetomium novae-caledonicum Udagawa, Uchiy. & Kamiya SPECIES
-=======
+# Chaetomium novae-caledonicum Udagawa, Uchiy. & Kamiya SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tephromela stenosporonica Elix & Kalb SPECIES
-=======
+# Tephromela stenosporonica Elix & Kalb SPECIES
 
 #### Status
 ACCEPTED

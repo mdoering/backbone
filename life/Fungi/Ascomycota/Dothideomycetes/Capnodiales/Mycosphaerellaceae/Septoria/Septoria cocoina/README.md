@@ -1,5 +1,4 @@
-Septoria cocoina Ellis & Everh. SPECIES
-=======
+# Septoria cocoina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

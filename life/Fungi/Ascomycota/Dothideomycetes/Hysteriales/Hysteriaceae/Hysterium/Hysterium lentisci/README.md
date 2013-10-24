@@ -1,5 +1,4 @@
-Hysterium lentisci Rolland SPECIES
-=======
+# Hysterium lentisci Rolland SPECIES
 
 #### Status
 ACCEPTED

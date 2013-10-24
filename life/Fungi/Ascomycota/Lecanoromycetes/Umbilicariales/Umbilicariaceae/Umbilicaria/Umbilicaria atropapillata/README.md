@@ -1,5 +1,4 @@
-Umbilicaria atropapillata Colmeiro SPECIES
-=======
+# Umbilicaria atropapillata Colmeiro SPECIES
 
 #### Status
 ACCEPTED

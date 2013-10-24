@@ -1,14 +1,13 @@
-Phyllachora pteridis (Rebent.) Fuckel SPECIES
-=======
+# Cryptomycina pteridis (Rebent.) Höhn., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 218 (1870)
+Annls mycol. 15(5): 322 (1917)
 
 #### Original name
 Sphaeria pteridis Rebent., 1804

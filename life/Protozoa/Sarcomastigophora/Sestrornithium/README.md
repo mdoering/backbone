@@ -1,5 +1,4 @@
-Sestrornithium Haeckel, 1881 GENUS
-=======
+# Sestrornithium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

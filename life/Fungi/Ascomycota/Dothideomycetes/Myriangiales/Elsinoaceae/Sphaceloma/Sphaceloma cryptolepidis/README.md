@@ -1,5 +1,4 @@
-Sphaceloma cryptolepidis Thirum. & Naras. SPECIES
-=======
+# Sphaceloma cryptolepidis Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

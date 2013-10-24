@@ -1,5 +1,4 @@
-Leibleinia pellucida (I. Umezaki) I. Umezaki & M. Watanabe SPECIES
-=======
+# Leibleinia pellucida (I. Umezaki) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

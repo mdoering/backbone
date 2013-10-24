@@ -1,5 +1,4 @@
-Lachnum mangshanense W.Y. Zhuang SPECIES
-=======
+# Lachnum mangshanense W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

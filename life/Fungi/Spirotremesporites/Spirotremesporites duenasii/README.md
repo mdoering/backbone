@@ -1,5 +1,4 @@
-Spirotremesporites duenasii Elsik SPECIES
-=======
+# Spirotremesporites duenasii Elsik SPECIES
 
 #### Status
 ACCEPTED

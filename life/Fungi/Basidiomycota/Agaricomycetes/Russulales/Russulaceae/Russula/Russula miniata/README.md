@@ -1,5 +1,4 @@
-Russula miniata McNabb, 1973 SPECIES
-=======
+# Russula miniata McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

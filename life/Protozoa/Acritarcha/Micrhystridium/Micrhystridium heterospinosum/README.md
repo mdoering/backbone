@@ -1,5 +1,4 @@
-Micrhystridium heterospinosum Jankauskas in Jankauskas & Posti, 1976 SPECIES
-=======
+# Micrhystridium heterospinosum Jankauskas in Jankauskas & Posti, 1976 SPECIES
 
 #### Status
 ACCEPTED

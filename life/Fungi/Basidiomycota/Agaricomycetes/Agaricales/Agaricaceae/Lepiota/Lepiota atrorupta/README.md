@@ -1,5 +1,4 @@
-Lepiota atrorupta Rick SPECIES
-=======
+# Lepiota atrorupta Rick SPECIES
 
 #### Status
 ACCEPTED

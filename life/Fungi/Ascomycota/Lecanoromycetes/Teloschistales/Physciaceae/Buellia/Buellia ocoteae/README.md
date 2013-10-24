@@ -1,5 +1,4 @@
-Buellia ocoteae Vain. SPECIES
-=======
+# Buellia ocoteae Vain. SPECIES
 
 #### Status
 ACCEPTED

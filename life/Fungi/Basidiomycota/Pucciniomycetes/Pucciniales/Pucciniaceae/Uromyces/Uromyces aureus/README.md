@@ -1,5 +1,4 @@
-Uromyces aureus Dietel & Holw. SPECIES
-=======
+# Uromyces aureus Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

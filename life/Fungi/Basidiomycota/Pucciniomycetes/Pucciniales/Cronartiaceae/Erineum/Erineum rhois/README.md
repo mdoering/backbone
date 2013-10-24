@@ -1,5 +1,4 @@
-Erineum rhois Corda SPECIES
-=======
+# Erineum rhois Corda SPECIES
 
 #### Status
 ACCEPTED

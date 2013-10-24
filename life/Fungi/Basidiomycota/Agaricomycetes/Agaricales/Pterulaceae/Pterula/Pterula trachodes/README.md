@@ -1,5 +1,4 @@
-Pterula trachodes (Berk.) Lloyd SPECIES
-=======
+# Pterula trachodes (Berk.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

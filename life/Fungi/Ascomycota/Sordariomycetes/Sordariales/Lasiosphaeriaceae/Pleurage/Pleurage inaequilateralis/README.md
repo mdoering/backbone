@@ -1,5 +1,4 @@
-Pleurage inaequilateralis (Cain) C. Moreau SPECIES
-=======
+# Pleurage inaequilateralis (Cain) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

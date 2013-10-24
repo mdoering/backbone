@@ -1,5 +1,4 @@
-Rhodocybe calocyboides Clémençon SPECIES
-=======
+# Rhodocybe calocyboides Clémençon SPECIES
 
 #### Status
 ACCEPTED

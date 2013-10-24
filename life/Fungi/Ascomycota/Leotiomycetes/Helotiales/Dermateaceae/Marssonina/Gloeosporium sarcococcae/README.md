@@ -1,5 +1,4 @@
-Gloeosporium sarcococcae Dzhalag. SPECIES
-=======
+# Gloeosporium sarcococcae Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

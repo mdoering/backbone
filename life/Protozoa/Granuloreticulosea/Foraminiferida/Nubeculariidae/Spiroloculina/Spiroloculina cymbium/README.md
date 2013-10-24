@@ -1,5 +1,4 @@
-Spiroloculina cymbium d'Orbigny, 1839 SPECIES
-=======
+# Spiroloculina cymbium d'Orbigny, 1839 SPECIES
 
 #### Status
 ACCEPTED

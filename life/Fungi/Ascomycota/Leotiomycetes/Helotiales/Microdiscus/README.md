@@ -1,17 +1,16 @@
-Brachyascus Syd. & P. Syd. GENUS
-=======
+# Microdiscus Saccardo, 1916 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 15(3/4): 285 (1917)
+Nuovo Giorn. Bot. Ital. , N. S. 23: 190 (1916)
 
 #### Original name
-Brachyascus Syd. & P. Syd.
+Microdiscus Saccardo, 1916
 
 ### Remarks
 null

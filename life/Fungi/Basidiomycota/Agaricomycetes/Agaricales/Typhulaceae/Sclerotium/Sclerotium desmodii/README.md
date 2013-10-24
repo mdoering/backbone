@@ -1,5 +1,4 @@
-Sclerotium desmodii Thüm. SPECIES
-=======
+# Sclerotium desmodii Thüm. SPECIES
 
 #### Status
 ACCEPTED

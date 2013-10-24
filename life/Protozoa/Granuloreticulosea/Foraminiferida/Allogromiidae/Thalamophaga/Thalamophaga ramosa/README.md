@@ -1,5 +1,4 @@
-Thalamophaga ramosa Rhumbler, 1911 SPECIES
-=======
+# Thalamophaga ramosa Rhumbler, 1911 SPECIES
 
 #### Status
 ACCEPTED

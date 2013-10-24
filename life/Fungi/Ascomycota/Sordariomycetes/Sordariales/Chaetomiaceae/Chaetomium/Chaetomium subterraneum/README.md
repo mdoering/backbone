@@ -1,5 +1,4 @@
-Chaetomium subterraneum Swift & Povah SPECIES
-=======
+# Chaetomium subterraneum Swift & Povah SPECIES
 
 #### Status
 ACCEPTED

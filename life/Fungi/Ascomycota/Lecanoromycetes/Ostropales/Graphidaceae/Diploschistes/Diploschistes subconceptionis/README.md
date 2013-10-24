@@ -1,5 +1,4 @@
-Diploschistes subconceptionis Gyeln. SPECIES
-=======
+# Diploschistes subconceptionis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

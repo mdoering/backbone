@@ -1,5 +1,4 @@
-Opegrapha atroviridis Kremp. SPECIES
-=======
+# Opegrapha atroviridis Kremp. SPECIES
 
 #### Status
 ACCEPTED

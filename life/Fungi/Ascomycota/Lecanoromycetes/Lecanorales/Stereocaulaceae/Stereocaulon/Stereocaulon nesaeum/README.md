@@ -1,5 +1,4 @@
-Stereocaulon nesaeum Nyl. SPECIES
-=======
+# Stereocaulon nesaeum Nyl. SPECIES
 
 #### Status
 ACCEPTED

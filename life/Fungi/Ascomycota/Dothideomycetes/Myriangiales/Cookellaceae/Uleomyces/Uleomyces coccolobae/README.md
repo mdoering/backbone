@@ -1,5 +1,4 @@
-Uleomyces coccolobae Bat., J.L. Bezerra & Matta SPECIES
-=======
+# Uleomyces coccolobae Bat., J.L. Bezerra & Matta SPECIES
 
 #### Status
 ACCEPTED

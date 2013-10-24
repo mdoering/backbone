@@ -1,5 +1,4 @@
-Hypocrea intermedia Theiss. SPECIES
-=======
+# Hypocrea intermedia Theiss. SPECIES
 
 #### Status
 ACCEPTED

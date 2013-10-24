@@ -1,5 +1,4 @@
-Petriella musispora Malloch, 1970 SPECIES
-=======
+# Petriella musispora Malloch, 1970 SPECIES
 
 #### Status
 ACCEPTED

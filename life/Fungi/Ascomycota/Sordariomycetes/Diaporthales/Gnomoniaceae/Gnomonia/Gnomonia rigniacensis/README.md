@@ -1,5 +1,4 @@
-Gnomonia rigniacensis Sacc. & Flageolet SPECIES
-=======
+# Gnomonia rigniacensis Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

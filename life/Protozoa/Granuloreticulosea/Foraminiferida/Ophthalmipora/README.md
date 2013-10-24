@@ -1,5 +1,4 @@
-Ophthalmipora Zaninetti & Bronnimann, 1972 GENUS
-=======
+# Ophthalmipora Zaninetti & Bronnimann, 1972 GENUS
 
 #### Status
 ACCEPTED

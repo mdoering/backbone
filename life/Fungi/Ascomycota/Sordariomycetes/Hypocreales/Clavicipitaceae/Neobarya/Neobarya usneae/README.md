@@ -1,5 +1,4 @@
-Neobarya usneae Etayo, 2002 SPECIES
-=======
+# Neobarya usneae Etayo, 2002 SPECIES
 
 #### Status
 ACCEPTED

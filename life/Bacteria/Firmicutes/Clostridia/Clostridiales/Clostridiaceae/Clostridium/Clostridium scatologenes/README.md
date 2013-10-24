@@ -1,11 +1,10 @@
-Clostridium scatol Fellers & Clough, 1925 SPECIES
-=======
+# Clostridium scatologenes (Weinberg and Ginsbourg, 1927) Prévot, 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Zygolithus Kamptner ex Deflandre, 1952 GENUS
-=======
+# Zygolithus Kamptner ex Deflandre, 1952 GENUS
 
 #### Status
 ACCEPTED

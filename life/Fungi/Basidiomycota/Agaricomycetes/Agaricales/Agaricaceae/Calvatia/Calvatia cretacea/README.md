@@ -1,5 +1,4 @@
-Calvatia cretacea (Berk.) Lloyd SPECIES
-=======
+# Calvatia cretacea (Berk.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

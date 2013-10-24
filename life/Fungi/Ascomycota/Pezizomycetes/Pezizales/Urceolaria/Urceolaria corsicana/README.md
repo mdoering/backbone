@@ -1,5 +1,4 @@
-Urceolaria corsicana Motyka SPECIES
-=======
+# Urceolaria corsicana Motyka SPECIES
 
 #### Status
 ACCEPTED

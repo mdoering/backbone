@@ -1,14 +1,13 @@
-Cortinarius paveleckii (Trappe, Castellano & P. Rawl.) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius pavelekii (Trappe, Castellano & P. Rawl.) Peintner & M.M. Moser SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 81: 181 (2002)
 
 #### Original name
 Thaxterogaster pavelekii Trappe, Castellano & P. Rawl.

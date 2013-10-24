@@ -1,5 +1,4 @@
-Anaerofustis Finegold, Lawson, Vaisanen, Molitoris, Song, Liu & Collins, 2004 GENUS
-=======
+# Anaerofustis Finegold, Lawson, Vaisanen, Molitoris, Song, Liu & Collins, 2004 GENUS
 
 #### Status
 ACCEPTED

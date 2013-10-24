@@ -1,5 +1,4 @@
-Chaetomella circinata var. circinata VARIETY
-=======
+# Chaetomella circinata Bres. & Torrend SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Chaetomella circinata var. circinata
+Chaetomella circinata Bres. & Torrend
 
 ### Remarks
 null

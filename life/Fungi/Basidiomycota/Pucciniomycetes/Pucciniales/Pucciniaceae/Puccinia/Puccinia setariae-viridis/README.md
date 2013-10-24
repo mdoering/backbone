@@ -1,5 +1,4 @@
-Puccinia setariae-viridis Dietel SPECIES
-=======
+# Puccinia setariae-viridis Dietel SPECIES
 
 #### Status
 ACCEPTED

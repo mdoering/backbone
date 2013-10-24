@@ -1,5 +1,4 @@
-Volutella comata Ellis SPECIES
-=======
+# Volutella comata Ellis SPECIES
 
 #### Status
 ACCEPTED

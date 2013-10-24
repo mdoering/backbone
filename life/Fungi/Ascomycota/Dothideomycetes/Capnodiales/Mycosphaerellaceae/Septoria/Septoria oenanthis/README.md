@@ -1,5 +1,4 @@
-Septoria oenanthis Ellis & Everh., 1894 SPECIES
-=======
+# Septoria oenanthis Ellis & Everh., 1894 SPECIES
 
 #### Status
 ACCEPTED

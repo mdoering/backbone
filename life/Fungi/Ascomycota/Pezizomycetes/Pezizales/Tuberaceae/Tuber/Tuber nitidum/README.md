@@ -1,14 +1,13 @@
-Tuber rufum f. nitidum (Vittad.) Montecchi & Lazzari, 1993 FORM
-=======
+# Tuber nitidum Vittad., 1831 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atlante Fotografico di Funghi Ipogei (Trento) 197 (1993)
+Monogr. Tuberac. (Milano) 48 (1831)
 
 #### Original name
 Tuber nitidum Vittad., 1831

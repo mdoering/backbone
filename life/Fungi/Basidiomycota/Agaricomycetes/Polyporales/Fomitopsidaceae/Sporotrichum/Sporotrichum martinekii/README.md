@@ -1,5 +1,4 @@
-Sporotrichum martinekii Príhoda SPECIES
-=======
+# Sporotrichum martinekii Príhoda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytodiplospora rhois Sacc. SPECIES
-=======
+# Cytodiplospora rhois Sacc. SPECIES
 
 #### Status
 ACCEPTED

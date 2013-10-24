@@ -1,5 +1,4 @@
-Imbricaria chlorina Chevall. SPECIES
-=======
+# Imbricaria chlorina Chevall. SPECIES
 
 #### Status
 ACCEPTED

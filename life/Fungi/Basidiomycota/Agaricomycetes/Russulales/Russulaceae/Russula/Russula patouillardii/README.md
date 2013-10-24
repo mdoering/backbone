@@ -1,5 +1,4 @@
-Russula patouillardii Singer SPECIES
-=======
+# Russula patouillardii Singer SPECIES
 
 #### Status
 ACCEPTED

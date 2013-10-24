@@ -1,5 +1,4 @@
-Stenella elaeodendri Kamal, R.P. Singh & P. Kumar SPECIES
-=======
+# Stenella elaeodendri Kamal, R.P. Singh & P. Kumar SPECIES
 
 #### Status
 ACCEPTED

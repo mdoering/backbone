@@ -1,5 +1,4 @@
-Dothiorella hicoriae Dearn. & House SPECIES
-=======
+# Dothiorella hicoriae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

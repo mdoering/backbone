@@ -1,5 +1,4 @@
-Diploidium anacardiacearum Bat. & Cavalc. SPECIES
-=======
+# Diploidium anacardiacearum Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Uroconis Clem. GENUS
-=======
+# Urohendersonia Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis) 126 (1909)
+Anal. Mus. nac. Hist. nat. B. Aires 8(1): 84 (1902)
 
 #### Original name
-Uroconis Clem.
+Urohendersonia Speg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cladopsis triptococca (Nyl.) Nyl. SPECIES
-=======
+# Cladopsis triptococca (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

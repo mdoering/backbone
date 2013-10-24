@@ -1,5 +1,4 @@
-Lecidea festivella (Nyl.) Hue SPECIES
-=======
+# Lecidea festivella (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

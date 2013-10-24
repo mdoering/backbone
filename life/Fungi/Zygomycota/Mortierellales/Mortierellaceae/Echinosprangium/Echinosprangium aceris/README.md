@@ -1,5 +1,4 @@
-Echinosprangium aceris Woronchin SPECIES
-=======
+# Echinosprangium aceris Woronchin SPECIES
 
 #### Status
 ACCEPTED

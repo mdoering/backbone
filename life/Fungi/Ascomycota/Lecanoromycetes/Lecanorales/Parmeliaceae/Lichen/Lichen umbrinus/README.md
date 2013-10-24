@@ -1,5 +1,4 @@
-Lichen umbrinus Ach. SPECIES
-=======
+# Lichen umbrinus Ach. SPECIES
 
 #### Status
 ACCEPTED

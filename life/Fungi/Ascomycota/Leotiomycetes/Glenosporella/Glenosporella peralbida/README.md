@@ -1,5 +1,4 @@
-Glenosporella peralbida Castell. SPECIES
-=======
+# Glenosporella peralbida Castell. SPECIES
 
 #### Status
 ACCEPTED

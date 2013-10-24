@@ -1,14 +1,13 @@
-Olpidiopsis gracile (E.J. Butler) Karling SPECIES
-=======
+# Gracea gracilis (E.J. Butler) M.W. Dick, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 101(7): 882 (1997)
 
 #### Original name
 Pseudolpidium gracile E.J. Butler, 1907

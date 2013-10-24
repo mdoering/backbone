@@ -1,5 +1,4 @@
-Marasmius paniformis Corner SPECIES
-=======
+# Marasmius paniformis Corner SPECIES
 
 #### Status
 ACCEPTED

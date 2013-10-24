@@ -1,5 +1,4 @@
-Diplotomma nivalis (Bagl. & Carestia) Hafellner SPECIES
-=======
+# Diplotomma nivalis (Bagl. & Carestia) Hafellner SPECIES
 
 #### Status
 ACCEPTED

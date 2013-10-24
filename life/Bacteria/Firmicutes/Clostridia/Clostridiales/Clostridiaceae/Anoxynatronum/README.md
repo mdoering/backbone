@@ -1,5 +1,4 @@
-Anoxynatronum Garnova, Zhilina, Tourova & Lysenko, 2003 GENUS
-=======
+# Anoxynatronum Garnova, Zhilina, Tourova & Lysenko, 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelina entotheiochroa (Hue) Hale SPECIES
-=======
+# Myelochroa entotheiochroa (Hue) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 29: 240 (1987)
 
 #### Original name
-null
+Parmelia entotheiochroa Hue
 
 ### Remarks
 null

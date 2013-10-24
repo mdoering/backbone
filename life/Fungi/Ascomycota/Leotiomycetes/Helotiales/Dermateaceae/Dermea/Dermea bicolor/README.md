@@ -1,14 +1,13 @@
-Cenangium bicolor (Ellis) Sacc., 1889 SPECIES
-=======
+# Dermea bicolor (Ellis) J.W. Groves, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 557 (1889)
+Mycologia 35(4): 460 (1943)
 
 #### Original name
 Tympanis bicolor Ellis

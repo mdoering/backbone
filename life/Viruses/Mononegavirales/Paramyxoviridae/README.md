@@ -1,5 +1,4 @@
-Paramyxoviridae FAMILY
-=======
+# Paramyxoviridae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium pertenue Sacc. SPECIES
-=======
+# Helotium pertenue Sacc. SPECIES
 
 #### Status
 ACCEPTED

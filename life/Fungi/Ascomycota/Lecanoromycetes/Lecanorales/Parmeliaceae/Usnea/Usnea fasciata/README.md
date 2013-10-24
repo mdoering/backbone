@@ -1,5 +1,4 @@
-Usnea fasciata f. fasciata FORM
-=======
+# Usnea fasciata Torr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Amer. J. Sci. Arts 6: 106 (1823)
 
 #### Original name
-Usnea fasciata f. fasciata
+Usnea fasciata Torr.
 
 ### Remarks
 null

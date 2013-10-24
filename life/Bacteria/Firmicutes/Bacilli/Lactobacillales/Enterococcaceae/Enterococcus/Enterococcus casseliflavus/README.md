@@ -1,8 +1,7 @@
-Streptococcus casseliflavus Vaughan et al., 1979 SPECIES
-=======
+# Enterococcus casseliflavus (ex Vaughn et al., 1979) Collins et al., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

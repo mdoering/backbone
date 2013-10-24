@@ -1,5 +1,4 @@
-Xanthoria microspora B. de Lesd. SPECIES
-=======
+# Xanthoria microspora B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

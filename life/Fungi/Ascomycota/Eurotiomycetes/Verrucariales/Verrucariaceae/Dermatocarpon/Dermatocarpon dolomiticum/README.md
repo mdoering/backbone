@@ -1,5 +1,4 @@
-Dermatocarpon dolomiticum Amtoft SPECIES
-=======
+# Dermatocarpon dolomiticum Amtoft SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Morchella foraminulosa Schwein. SPECIES
-=======
+# Morchella foraminulosa Schwein. SPECIES
 
 #### Status
 ACCEPTED

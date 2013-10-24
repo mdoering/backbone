@@ -1,5 +1,4 @@
-Paurocotylis Berk. ex Hook. f. GENUS
-=======
+# Paurocotylis Berk. ex Hook. f. GENUS
 
 #### Status
 ACCEPTED

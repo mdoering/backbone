@@ -1,5 +1,4 @@
-Agaricus testaceocanescens Weinm. SPECIES
-=======
+# Agaricus testaceocanescens Weinm. SPECIES
 
 #### Status
 ACCEPTED

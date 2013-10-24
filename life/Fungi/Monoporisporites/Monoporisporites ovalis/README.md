@@ -1,5 +1,4 @@
-Monoporisporites ovalis Sheffy & Dilcher SPECIES
-=======
+# Monoporisporites ovalis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

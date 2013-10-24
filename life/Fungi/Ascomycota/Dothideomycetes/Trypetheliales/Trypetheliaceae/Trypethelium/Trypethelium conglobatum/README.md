@@ -1,5 +1,4 @@
-Trypethelium conglobatum Ach. SPECIES
-=======
+# Trypethelium conglobatum Ach. SPECIES
 
 #### Status
 ACCEPTED

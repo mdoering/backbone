@@ -1,5 +1,4 @@
-Peridiopsora Kamat & Sathe GENUS
-=======
+# Peridiopsora Kamat & Sathe GENUS
 
 #### Status
 ACCEPTED

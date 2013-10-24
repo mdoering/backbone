@@ -1,8 +1,7 @@
-Cercospora argyrothamniae Dearn. & House SPECIES
-=======
+# Cercospora argythamniae Dearn. & House SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercospora argyrothamniae Dearn. & House
+Cercospora argythamniae Dearn. & House
 
 ### Remarks
 null

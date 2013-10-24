@@ -1,5 +1,4 @@
-Heterochaete sublivida Pat. SPECIES
-=======
+# Heterochaete sublivida Pat. SPECIES
 
 #### Status
 ACCEPTED

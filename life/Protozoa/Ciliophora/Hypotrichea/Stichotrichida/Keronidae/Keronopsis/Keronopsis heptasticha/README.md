@@ -1,5 +1,4 @@
-Keronopsis heptasticha Kahl, 1932 SPECIES
-=======
+# Keronopsis heptasticha Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

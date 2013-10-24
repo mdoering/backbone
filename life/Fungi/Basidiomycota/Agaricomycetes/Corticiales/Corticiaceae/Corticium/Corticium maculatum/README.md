@@ -1,5 +1,4 @@
-Corticium maculatum Litsch. SPECIES
-=======
+# Corticium maculatum Litsch. SPECIES
 
 #### Status
 ACCEPTED

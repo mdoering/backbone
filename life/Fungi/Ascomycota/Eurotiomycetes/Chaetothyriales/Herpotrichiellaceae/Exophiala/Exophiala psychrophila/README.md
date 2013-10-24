@@ -1,5 +1,4 @@
-Exophiala psychrophila O.A. Pedersen & Langvad, 1989 SPECIES
-=======
+# Exophiala psychrophila O.A. Pedersen & Langvad, 1989 SPECIES
 
 #### Status
 ACCEPTED

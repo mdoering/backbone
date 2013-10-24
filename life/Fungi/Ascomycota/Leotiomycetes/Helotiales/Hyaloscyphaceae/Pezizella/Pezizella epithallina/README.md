@@ -1,5 +1,4 @@
-Pezizella epithallina (W. Phillips & Plowr.) Sacc., 1889 SPECIES
-=======
+# Pezizella epithallina (W. Phillips & Plowr.) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

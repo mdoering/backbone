@@ -1,17 +1,16 @@
-Mucor muriperda Sacc. & Sinig., 1913 SPECIES
-=======
+# Rhizomucor pusillus (Lindt) Schipper, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 11(3): 321 (1913)
+Stud. Mycol. 17: 54 (1978)
 
 #### Original name
-Mucor muriperda Sacc. & Sinig., 1913
+Mucor pusillus Lindt, 1886
 
 ### Remarks
 null

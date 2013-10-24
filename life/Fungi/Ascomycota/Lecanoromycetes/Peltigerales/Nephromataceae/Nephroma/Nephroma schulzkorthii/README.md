@@ -1,5 +1,4 @@
-Nephroma schulzkorthii SPECIES
-=======
+# Nephroma schulzkorthii SPECIES
 
 #### Status
 ACCEPTED

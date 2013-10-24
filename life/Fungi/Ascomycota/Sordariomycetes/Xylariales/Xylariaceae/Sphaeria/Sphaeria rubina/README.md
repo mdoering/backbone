@@ -1,5 +1,4 @@
-Sphaeria rubina P. Karst. SPECIES
-=======
+# Sphaeria rubina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

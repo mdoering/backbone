@@ -1,5 +1,4 @@
-Byssocallis Syd. GENUS
-=======
+# Byssocallis Syd. GENUS
 
 #### Status
 ACCEPTED

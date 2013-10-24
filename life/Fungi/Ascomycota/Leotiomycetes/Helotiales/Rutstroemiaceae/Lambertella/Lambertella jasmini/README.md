@@ -1,5 +1,4 @@
-Lambertella jasmini Seaver & Whetzel SPECIES
-=======
+# Lambertella jasmini Seaver & Whetzel SPECIES
 
 #### Status
 ACCEPTED

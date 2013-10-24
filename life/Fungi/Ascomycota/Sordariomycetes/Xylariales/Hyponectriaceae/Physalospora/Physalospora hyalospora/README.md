@@ -1,5 +1,4 @@
-Physalospora hyalospora (Ces.) Sacc. SPECIES
-=======
+# Physalospora hyalospora (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

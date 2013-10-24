@@ -1,5 +1,4 @@
-Corynebacterium suicordis Vela et al., 2003 SPECIES
-=======
+# Corynebacterium suicordis Vela et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

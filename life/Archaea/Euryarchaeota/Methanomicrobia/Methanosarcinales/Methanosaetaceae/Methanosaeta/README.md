@@ -1,5 +1,4 @@
-Methanosaeta Patel & Sprott, 1990 GENUS
-=======
+# Methanosaeta Patel & Sprott, 1990 GENUS
 
 #### Status
 ACCEPTED

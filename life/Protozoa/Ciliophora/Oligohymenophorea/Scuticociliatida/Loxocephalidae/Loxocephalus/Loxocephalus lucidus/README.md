@@ -1,8 +1,7 @@
-Loxocephalus annulatus Kahl, 1926 SPECIES
-=======
+# Loxocephalus lucidus Smith, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

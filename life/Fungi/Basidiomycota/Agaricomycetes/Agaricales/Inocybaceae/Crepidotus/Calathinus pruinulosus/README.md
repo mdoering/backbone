@@ -1,5 +1,4 @@
-Calathinus pruinulosus Pat. & Demange SPECIES
-=======
+# Calathinus pruinulosus Pat. & Demange SPECIES
 
 #### Status
 ACCEPTED

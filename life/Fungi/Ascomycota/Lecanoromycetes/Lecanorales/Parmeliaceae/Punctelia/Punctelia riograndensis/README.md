@@ -1,17 +1,16 @@
-Parmelia riograndensis Lynge SPECIES
-=======
+# Punctelia riograndensis (Lynge) Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nordic Jl Bot. 2(3): 291 (1982)
 
 #### Original name
-null
+Parmelia riograndensis Lynge
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Discorbina terquemi Rzehak, 1888 SPECIES
-=======
+# Neoconorbina terquemi (Rzehak, 1888) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

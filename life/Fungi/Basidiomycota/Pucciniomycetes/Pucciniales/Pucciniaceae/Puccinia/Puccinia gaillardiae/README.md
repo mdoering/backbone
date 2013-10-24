@@ -1,5 +1,4 @@
-Puccinia gaillardiae Dietel & Holw. SPECIES
-=======
+# Puccinia gaillardiae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

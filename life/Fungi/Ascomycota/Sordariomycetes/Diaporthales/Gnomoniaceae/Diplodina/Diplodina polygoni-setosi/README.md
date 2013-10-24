@@ -1,5 +1,4 @@
-Diplodina polygoni-setosi Bubák SPECIES
-=======
+# Diplodina polygoni-setosi Bubák SPECIES
 
 #### Status
 ACCEPTED

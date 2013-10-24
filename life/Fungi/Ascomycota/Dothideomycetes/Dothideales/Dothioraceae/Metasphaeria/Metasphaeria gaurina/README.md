@@ -1,5 +1,4 @@
-Metasphaeria gaurina Ellis & Everh. SPECIES
-=======
+# Metasphaeria gaurina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

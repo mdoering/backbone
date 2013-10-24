@@ -1,5 +1,4 @@
-Gyrophora haplocarpa var. haplocarpa VARIETY
-=======
+# Gyrophora haplocarpa (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gyrophora haplocarpa var. haplocarpa
+Umbilicaria haplocarpa Nyl.
 
 ### Remarks
 null

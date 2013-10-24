@@ -1,5 +1,4 @@
-Lindra inflata I.M. Wilson, 1956 SPECIES
-=======
+# Lindra inflata I.M. Wilson, 1956 SPECIES
 
 #### Status
 ACCEPTED

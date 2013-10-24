@@ -1,5 +1,4 @@
-Plenodomus origani (Mark.-Let.) Petr. SPECIES
-=======
+# Plenodomus origani (Mark.-Let.) Petr. SPECIES
 
 #### Status
 ACCEPTED

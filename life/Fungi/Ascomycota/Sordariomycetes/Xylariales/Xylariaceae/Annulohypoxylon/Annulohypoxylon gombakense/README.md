@@ -1,14 +1,13 @@
-Hypoxylon gombakense M.A. Whalley, Y.M. Ju, J.D. Rogers & Whalley, 2000 SPECIES
-=======
+# Annulohypoxylon gombakense (M.A. Whalley, Y.M. Ju, J.D. Rogers & Whalley) Y.M. Ju, J.D. Rogers & H.M. Hsieh, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 74(1): 137 (2000)
+Mycologia 97(4): 859 (2005)
 
 #### Original name
 Hypoxylon gombakense M.A. Whalley, Y.M. Ju, J.D. Rogers & Whalley, 2000

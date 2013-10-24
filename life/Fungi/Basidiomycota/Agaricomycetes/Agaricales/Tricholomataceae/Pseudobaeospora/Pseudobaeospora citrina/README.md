@@ -1,5 +1,4 @@
-Pseudobaeospora citrina Rawla SPECIES
-=======
+# Pseudobaeospora citrina Rawla SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora alchemillae Petrov {?} SPECIES
-=======
+# Stagonospora alchemillae Petrov {?} SPECIES
 
 #### Status
 ACCEPTED

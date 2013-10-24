@@ -1,5 +1,4 @@
-Globocassidulina gemma (Todd, 1954) SPECIES
-=======
+# Globocassidulina gemma (Todd, 1954) SPECIES
 
 #### Status
 ACCEPTED

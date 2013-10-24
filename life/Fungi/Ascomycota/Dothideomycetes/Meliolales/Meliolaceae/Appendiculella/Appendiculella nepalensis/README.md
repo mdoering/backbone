@@ -1,5 +1,4 @@
-Appendiculella nepalensis R.K. Chaudhary, Kharwar & Budathoki SPECIES
-=======
+# Appendiculella nepalensis R.K. Chaudhary, Kharwar & Budathoki SPECIES
 
 #### Status
 ACCEPTED

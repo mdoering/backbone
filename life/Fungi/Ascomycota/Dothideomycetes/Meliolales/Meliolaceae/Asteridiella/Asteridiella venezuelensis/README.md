@@ -1,5 +1,4 @@
-Asteridiella venezuelensis (Syd.) Hansf. SPECIES
-=======
+# Asteridiella venezuelensis (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia stenophylloides (Müll. Arg.) Hale SPECIES
-=======
+# Xanthoparmelia stenophylloides (Müll. Arg.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthroderma gloriae Ajello, 1967 SPECIES
-=======
+# Arthroderma gloriae Ajello, 1967 SPECIES
 
 #### Status
 ACCEPTED

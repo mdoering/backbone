@@ -1,5 +1,4 @@
-Calycina rhytidodes (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Calycina rhytidodes (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

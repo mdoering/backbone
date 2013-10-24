@@ -1,5 +1,4 @@
-Trachelomonas goossensii Van Oye SPECIES
-=======
+# Trachelomonas goossensii Van Oye SPECIES
 
 #### Status
 ACCEPTED

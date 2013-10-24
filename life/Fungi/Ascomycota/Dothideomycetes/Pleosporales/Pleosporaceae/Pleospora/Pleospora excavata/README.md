@@ -1,5 +1,4 @@
-Pleospora excavata (Fr.) Sacc. SPECIES
-=======
+# Pleospora excavata (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

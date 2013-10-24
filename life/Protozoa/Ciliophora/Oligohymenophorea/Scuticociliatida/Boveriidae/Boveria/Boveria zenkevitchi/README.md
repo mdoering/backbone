@@ -1,5 +1,4 @@
-Boveria zenkevitchi SPECIES
-=======
+# Boveria zenkevitchi SPECIES
 
 #### Status
 ACCEPTED

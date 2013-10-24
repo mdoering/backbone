@@ -1,5 +1,4 @@
-Uronema griseolum SPECIES
-=======
+# Uronema griseolum SPECIES
 
 #### Status
 ACCEPTED

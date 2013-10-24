@@ -1,5 +1,4 @@
-Capronia chlorospora (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Capronia chlorospora (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

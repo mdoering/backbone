@@ -1,5 +1,4 @@
-Togninia rhododendri Rehm SPECIES
-=======
+# Togninia rhododendri Rehm SPECIES
 
 #### Status
 ACCEPTED

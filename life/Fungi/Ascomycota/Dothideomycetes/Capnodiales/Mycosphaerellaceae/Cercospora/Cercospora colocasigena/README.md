@@ -1,5 +1,4 @@
-Cercospora colocasigena S. Narayan, Kharwar, R.K. Singh & Bhartiya SPECIES
-=======
+# Cercospora colocasigena S. Narayan, Kharwar, R.K. Singh & Bhartiya SPECIES
 
 #### Status
 ACCEPTED

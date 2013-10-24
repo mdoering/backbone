@@ -1,5 +1,4 @@
-Rhizosolenia similis A. Cleve-Euler SPECIES
-=======
+# Rhizosolenia similis A. Cleve-Euler SPECIES
 
 #### Status
 ACCEPTED

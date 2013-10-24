@@ -1,5 +1,4 @@
-Cantharellus fuligineus Corner SPECIES
-=======
+# Cantharellus fuligineus Corner SPECIES
 
 #### Status
 ACCEPTED

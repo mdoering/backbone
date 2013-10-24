@@ -1,5 +1,4 @@
-Gorgoniceps hypothallosa Svrcek SPECIES
-=======
+# Gorgoniceps hypothallosa Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora macilenta Roberge ex Desm. SPECIES
-=======
+# Cytospora macilenta Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

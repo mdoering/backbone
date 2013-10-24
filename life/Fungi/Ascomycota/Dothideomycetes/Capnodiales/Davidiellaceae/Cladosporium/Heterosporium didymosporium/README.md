@@ -1,5 +1,4 @@
-Heterosporium didymosporium Clem. SPECIES
-=======
+# Heterosporium didymosporium Clem. SPECIES
 
 #### Status
 ACCEPTED

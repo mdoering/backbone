@@ -1,5 +1,4 @@
-Urceolaria henricii (B. de Lesd.) Motyka SPECIES
-=======
+# Urceolaria henricii (B. de Lesd.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lissodinium parvum M. C. Carbonell-Moore SPECIES
-=======
+# Lissodinium parvum M. C. Carbonell-Moore SPECIES
 
 #### Status
 ACCEPTED

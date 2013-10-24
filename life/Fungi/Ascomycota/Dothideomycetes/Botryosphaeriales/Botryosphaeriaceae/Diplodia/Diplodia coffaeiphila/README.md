@@ -1,5 +1,4 @@
-Diplodia coffaeiphila Speg. SPECIES
-=======
+# Diplodia coffaeiphila Speg. SPECIES
 
 #### Status
 ACCEPTED

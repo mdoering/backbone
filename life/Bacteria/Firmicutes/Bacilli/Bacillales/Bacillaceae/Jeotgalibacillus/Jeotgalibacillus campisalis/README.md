@@ -1,5 +1,4 @@
-Jeotgalibacillus campisalis Yoon, Kim, Schumann, Oh & Park, 2004 SPECIES
-=======
+# Jeotgalibacillus campisalis Yoon, Kim, Schumann, Oh & Park, 2004 SPECIES
 
 #### Status
 ACCEPTED

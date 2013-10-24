@@ -1,14 +1,13 @@
-Pholiota praecox var. paludosa J.E. Lange, 1921 VARIETY
-=======
+# Agrocybe paludosa (J.E. Lange) Kühner & Romagn. ex Bon, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dansk bot. Ark. 2(no. 11): 7 (1921)
+Docums Mycol. 18(no. 69): 37 (1987)
 
 #### Original name
 Pholiota praecox var. paludosa J.E. Lange, 1921

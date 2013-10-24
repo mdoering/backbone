@@ -1,5 +1,4 @@
-Hypogaea brunnea E. Horak, 1964 SPECIES
-=======
+# Hypogaea brunnea E. Horak, 1964 SPECIES
 
 #### Status
 ACCEPTED

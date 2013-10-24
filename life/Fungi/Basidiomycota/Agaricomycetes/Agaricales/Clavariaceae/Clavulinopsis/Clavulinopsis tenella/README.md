@@ -1,5 +1,4 @@
-Clavulinopsis tenella (Boud.) Corner SPECIES
-=======
+# Clavulinopsis tenella (Boud.) Corner SPECIES
 
 #### Status
 ACCEPTED

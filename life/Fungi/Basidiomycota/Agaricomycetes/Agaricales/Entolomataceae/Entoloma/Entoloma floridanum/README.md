@@ -1,5 +1,4 @@
-Entoloma floridanum Murrill SPECIES
-=======
+# Entoloma floridanum Murrill SPECIES
 
 #### Status
 ACCEPTED

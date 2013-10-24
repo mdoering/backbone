@@ -1,5 +1,4 @@
-Aspicilia diamartiza (Vain.) SPECIES
-=======
+# Aspicilia diamartiza (Vain.) SPECIES
 
 #### Status
 ACCEPTED

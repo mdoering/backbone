@@ -1,5 +1,4 @@
-Clavaria vitellina Pers. SPECIES
-=======
+# Clavaria vitellina Pers. SPECIES
 
 #### Status
 ACCEPTED

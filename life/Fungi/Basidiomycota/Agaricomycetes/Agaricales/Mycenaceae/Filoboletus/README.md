@@ -1,5 +1,4 @@
-Filoboletus GENUS
-=======
+# Filoboletus GENUS
 
 #### Status
 ACCEPTED

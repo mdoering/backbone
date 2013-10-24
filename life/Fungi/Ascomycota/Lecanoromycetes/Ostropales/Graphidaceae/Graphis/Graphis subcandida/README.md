@@ -1,5 +1,4 @@
-Graphis subcandida Nyl. SPECIES
-=======
+# Graphis subcandida Nyl. SPECIES
 
 #### Status
 ACCEPTED

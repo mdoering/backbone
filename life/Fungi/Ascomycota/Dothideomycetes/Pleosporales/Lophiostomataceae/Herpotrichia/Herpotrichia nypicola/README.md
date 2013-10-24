@@ -1,5 +1,4 @@
-Herpotrichia nypicola K.D. Hyde & Alias, 1999 SPECIES
-=======
+# Herpotrichia nypicola K.D. Hyde & Alias, 1999 SPECIES
 
 #### Status
 ACCEPTED

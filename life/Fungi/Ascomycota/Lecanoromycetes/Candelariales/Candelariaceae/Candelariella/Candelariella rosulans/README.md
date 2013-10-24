@@ -1,5 +1,4 @@
-Candelariella rosulans (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Candelariella rosulans (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

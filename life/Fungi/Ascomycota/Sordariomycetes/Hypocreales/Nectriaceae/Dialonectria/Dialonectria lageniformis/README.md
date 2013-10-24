@@ -1,5 +1,4 @@
-Dialonectria lageniformis (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Dialonectria lageniformis (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

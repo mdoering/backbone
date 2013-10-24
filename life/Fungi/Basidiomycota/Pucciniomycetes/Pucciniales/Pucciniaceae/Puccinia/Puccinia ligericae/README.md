@@ -1,5 +1,4 @@
-Puccinia ligericae Syd. SPECIES
-=======
+# Puccinia ligericae Syd. SPECIES
 
 #### Status
 ACCEPTED

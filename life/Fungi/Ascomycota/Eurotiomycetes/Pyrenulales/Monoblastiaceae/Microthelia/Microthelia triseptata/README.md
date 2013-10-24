@@ -1,5 +1,4 @@
-Microthelia triseptata Räsänen SPECIES
-=======
+# Microthelia triseptata Räsänen SPECIES
 
 #### Status
 ACCEPTED

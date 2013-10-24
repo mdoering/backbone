@@ -1,5 +1,4 @@
-Stereocaulon subcoralloides f. subcoralloides FORM
-=======
+# Stereocaulon subcoralloides Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Meddn Soc. Fauna Flora fenn. 2: 43 (1878)
 
 #### Original name
-Stereocaulon subcoralloides f. subcoralloides
+Stereocaulon subcoralloides Nyl.
 
 ### Remarks
 null

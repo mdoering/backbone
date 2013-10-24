@@ -1,5 +1,4 @@
-Termitomyces globulus R. Heim & Gooss.-Font., 1951 SPECIES
-=======
+# Termitomyces globulus R. Heim & Gooss.-Font., 1951 SPECIES
 
 #### Status
 ACCEPTED

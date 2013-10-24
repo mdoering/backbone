@@ -1,5 +1,4 @@
-Lachnella tumida (Pers.) Sacc. SPECIES
-=======
+# Lachnella tumida (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

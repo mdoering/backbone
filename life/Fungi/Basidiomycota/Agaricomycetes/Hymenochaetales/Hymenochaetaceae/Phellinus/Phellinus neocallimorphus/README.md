@@ -1,5 +1,4 @@
-Phellinus neocallimorphus Gibertoni & Ryvarden, 2004 SPECIES
-=======
+# Phellinus neocallimorphus Gibertoni & Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

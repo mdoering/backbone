@@ -1,5 +1,4 @@
-Lobaria pseudoretigera Sipman SPECIES
-=======
+# Lobaria pseudoretigera Sipman SPECIES
 
 #### Status
 ACCEPTED

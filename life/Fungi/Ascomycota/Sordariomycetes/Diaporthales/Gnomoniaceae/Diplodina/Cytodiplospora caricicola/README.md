@@ -1,5 +1,4 @@
-Cytodiplospora caricicola Unamuno SPECIES
-=======
+# Cytodiplospora caricicola Unamuno SPECIES
 
 #### Status
 ACCEPTED

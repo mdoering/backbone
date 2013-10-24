@@ -1,17 +1,16 @@
-Teratosphaeria excentrica (Crous & Carnegie) Crous & U. Braun, 2007 SPECIES
-=======
+# Mycosphaerella excentrica Crous & Carnegie, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous, Summerell, Carnegie, Mohammed, Himaman & Groenewald, Fungal Diversity 26(1): 164 (2007)
 
 #### Original name
-null
+Mycosphaerella excentrica Crous & Carnegie, 2007
 
 ### Remarks
 null

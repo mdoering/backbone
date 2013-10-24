@@ -1,5 +1,4 @@
-Lecanora sororia Bagl. & Carestia SPECIES
-=======
+# Lecanora sororia Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

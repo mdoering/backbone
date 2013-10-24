@@ -1,5 +1,4 @@
-Pseudobacterium GENUS
-=======
+# Pseudobacterium GENUS
 
 #### Status
 ACCEPTED

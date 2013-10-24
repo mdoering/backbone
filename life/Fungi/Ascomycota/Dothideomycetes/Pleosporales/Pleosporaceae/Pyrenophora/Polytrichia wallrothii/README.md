@@ -1,5 +1,4 @@
-Polytrichia wallrothii Sacc. SPECIES
-=======
+# Polytrichia wallrothii Sacc. SPECIES
 
 #### Status
 ACCEPTED

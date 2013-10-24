@@ -1,5 +1,4 @@
-Aecidium sedi-aizoontis Tranzschel SPECIES
-=======
+# Aecidium sedi-aizoontis Tranzschel SPECIES
 
 #### Status
 ACCEPTED

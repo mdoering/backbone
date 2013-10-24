@@ -1,5 +1,4 @@
-Armillaria rhacophora Berk. & Broome SPECIES
-=======
+# Armillaria rhacophora Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

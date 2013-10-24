@@ -1,5 +1,4 @@
-Dysteria magna Gong & Song, 2003 SPECIES
-=======
+# Dysteria magna Gong & Song, 2003 SPECIES
 
 #### Status
 ACCEPTED

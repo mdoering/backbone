@@ -1,5 +1,4 @@
-Fomitiporia ellipsoidea B.K. Cui & Y.C. Dai SPECIES
-=======
+# Fomitiporia ellipsoidea B.K. Cui & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

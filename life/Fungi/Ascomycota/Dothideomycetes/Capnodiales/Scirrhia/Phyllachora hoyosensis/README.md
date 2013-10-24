@@ -1,5 +1,4 @@
-Phyllachora hoyosensis Petr., 1955 SPECIES
-=======
+# Phyllachora hoyosensis Petr., 1955 SPECIES
 
 #### Status
 DOUBTFUL

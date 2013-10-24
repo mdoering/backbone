@@ -1,5 +1,4 @@
-Wynnea macrotis (Berk.) Berk. SPECIES
-=======
+# Wynnea macrotis (Berk.) Berk. SPECIES
 
 #### Status
 ACCEPTED

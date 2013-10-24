@@ -1,5 +1,4 @@
-Cellularia deplanata (Link ex Fr.) Kuntze SPECIES
-=======
+# Cellularia deplanata (Link ex Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

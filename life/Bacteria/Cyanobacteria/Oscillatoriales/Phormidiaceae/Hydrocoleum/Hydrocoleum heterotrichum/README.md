@@ -1,8 +1,7 @@
-Blennothrix heterotricha (Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Hydrocoleum heterotrichum (Kützing) Gomont SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Plagiocampa bitricha Foissner, 1999 SPECIES
-=======
+# Plagiocampa bitricha Foissner, 1999 SPECIES
 
 #### Status
 ACCEPTED

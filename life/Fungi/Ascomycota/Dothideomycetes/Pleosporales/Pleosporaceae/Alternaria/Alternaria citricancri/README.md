@@ -1,5 +1,4 @@
-Alternaria citricancri E.G. Simmons SPECIES
-=======
+# Alternaria citricancri E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

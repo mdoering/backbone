@@ -1,5 +1,4 @@
-Stainforthia loeblichi Feyling-Hanssen, 1954 SPECIES
-=======
+# Stainforthia loeblichi Feyling-Hanssen, 1954 SPECIES
 
 #### Status
 ACCEPTED

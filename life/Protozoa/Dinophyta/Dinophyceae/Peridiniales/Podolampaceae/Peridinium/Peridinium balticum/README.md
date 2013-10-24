@@ -1,5 +1,4 @@
-Peridinium balticum (Levander) lemmermann SPECIES
-=======
+# Peridinium balticum (Levander) lemmermann SPECIES
 
 #### Status
 ACCEPTED

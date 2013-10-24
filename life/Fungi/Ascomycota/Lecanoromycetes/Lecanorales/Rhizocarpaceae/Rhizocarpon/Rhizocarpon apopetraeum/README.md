@@ -1,5 +1,4 @@
-Rhizocarpon apopetraeum (Nyl.) Zahlbr. SPECIES
-=======
+# Rhizocarpon apopetraeum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

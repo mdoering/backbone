@@ -1,5 +1,4 @@
-Mollisia potentillae Keissl. SPECIES
-=======
+# Mollisia potentillae Keissl. SPECIES
 
 #### Status
 ACCEPTED

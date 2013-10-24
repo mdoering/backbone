@@ -1,5 +1,4 @@
-Actinokineospora globicatena Tamura et al., 1995 SPECIES
-=======
+# Actinokineospora globicatena Tamura et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

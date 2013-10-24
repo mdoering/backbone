@@ -1,5 +1,4 @@
-Hendersonia punithalingamii V.R.T. Reddy & Manohar. SPECIES
-=======
+# Hendersonia punithalingamii V.R.T. Reddy & Manohar. SPECIES
 
 #### Status
 ACCEPTED

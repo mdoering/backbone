@@ -1,5 +1,4 @@
-Phlyctema vermicularioides (Syd.) Petr. SPECIES
-=======
+# Phlyctema vermicularioides (Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

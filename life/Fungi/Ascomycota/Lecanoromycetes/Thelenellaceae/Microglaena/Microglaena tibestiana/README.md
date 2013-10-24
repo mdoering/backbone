@@ -1,5 +1,4 @@
-Microglaena tibestiana Werner SPECIES
-=======
+# Microglaena tibestiana Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaptychia galactophylla (Tuck.) Trevis. SPECIES
-=======
+# Anaptychia galactophylla (Tuck.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

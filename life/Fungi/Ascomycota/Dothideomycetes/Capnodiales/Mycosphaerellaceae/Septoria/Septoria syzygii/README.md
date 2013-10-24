@@ -1,8 +1,7 @@
-Septoria syzigii Ciccar. SPECIES
-=======
+# Septoria syzygii Ciccar. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria syzigii Ciccar.
+Septoria syzygii Ciccar.
 
 ### Remarks
 null

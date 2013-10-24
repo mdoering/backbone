@@ -1,5 +1,4 @@
-Puccinia pistorica Arthur SPECIES
-=======
+# Puccinia pistorica Arthur SPECIES
 
 #### Status
 ACCEPTED

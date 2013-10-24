@@ -1,5 +1,4 @@
-Corticium laxum Fr. SPECIES
-=======
+# Corticium laxum Fr. SPECIES
 
 #### Status
 ACCEPTED

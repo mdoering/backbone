@@ -1,5 +1,4 @@
-Pleurage superior Griffiths SPECIES
-=======
+# Pleurage superior Griffiths SPECIES
 
 #### Status
 ACCEPTED

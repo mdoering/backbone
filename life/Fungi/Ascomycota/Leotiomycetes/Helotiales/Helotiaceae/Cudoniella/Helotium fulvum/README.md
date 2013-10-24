@@ -1,5 +1,4 @@
-Helotium fulvum Boud., 1897 SPECIES
-=======
+# Helotium fulvum Boud., 1897 SPECIES
 
 #### Status
 ACCEPTED

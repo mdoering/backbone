@@ -1,5 +1,4 @@
-Inopilus infundibuliformis (Petch) Pegler SPECIES
-=======
+# Inopilus infundibuliformis (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

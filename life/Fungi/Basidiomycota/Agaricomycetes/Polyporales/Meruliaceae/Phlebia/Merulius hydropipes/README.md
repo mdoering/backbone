@@ -1,5 +1,4 @@
-Merulius hydropipes J.F. Gmel. SPECIES
-=======
+# Merulius hydropipes J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella fusispora (Fuckel) Jacz. SPECIES
-=======
+# Mycosphaerella fusispora (Fuckel) Jacz. SPECIES
 
 #### Status
 ACCEPTED

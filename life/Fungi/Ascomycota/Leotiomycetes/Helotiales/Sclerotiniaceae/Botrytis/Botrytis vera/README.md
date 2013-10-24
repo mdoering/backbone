@@ -1,5 +1,4 @@
-Botrytis vera Fr. SPECIES
-=======
+# Botrytis vera Fr. SPECIES
 
 #### Status
 ACCEPTED

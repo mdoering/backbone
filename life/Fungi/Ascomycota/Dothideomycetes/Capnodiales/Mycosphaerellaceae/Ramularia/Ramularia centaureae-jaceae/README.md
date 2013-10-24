@@ -1,5 +1,4 @@
-Ramularia centaureae-jaceae U. Braun SPECIES
-=======
+# Ramularia centaureae-jaceae U. Braun SPECIES
 
 #### Status
 ACCEPTED

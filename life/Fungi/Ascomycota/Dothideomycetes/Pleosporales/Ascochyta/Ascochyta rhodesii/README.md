@@ -1,5 +1,4 @@
-Ascochyta rhodesii Punith., 1979 SPECIES
-=======
+# Ascochyta rhodesii Punith., 1979 SPECIES
 
 #### Status
 ACCEPTED

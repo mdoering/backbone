@@ -1,5 +1,4 @@
-Cortinarius rubrocinctus Reumaux SPECIES
-=======
+# Cortinarius rubrocinctus Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora xylophila Hue SPECIES
-=======
+# Lecanora xylophila Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calosphaeria pachydermata Petch SPECIES
-=======
+# Calosphaeria pachydermata Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora viridiatra (Stenh.) Nyl. SPECIES
-=======
+# Lecanora viridiatra (Stenh.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

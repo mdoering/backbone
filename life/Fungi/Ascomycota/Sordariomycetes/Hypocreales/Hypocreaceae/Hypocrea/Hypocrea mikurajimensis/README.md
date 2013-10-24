@@ -1,5 +1,4 @@
-Hypocrea mikurajimensis Yoshim. Doi SPECIES
-=======
+# Hypocrea mikurajimensis Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

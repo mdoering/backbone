@@ -1,5 +1,4 @@
-Pterula stipata Corner, 1952 SPECIES
-=======
+# Pterula stipata Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

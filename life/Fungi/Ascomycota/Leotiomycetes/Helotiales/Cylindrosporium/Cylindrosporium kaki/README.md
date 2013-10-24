@@ -1,5 +1,4 @@
-Cylindrosporium kaki Syd. SPECIES
-=======
+# Cylindrosporium kaki Syd. SPECIES
 
 #### Status
 ACCEPTED

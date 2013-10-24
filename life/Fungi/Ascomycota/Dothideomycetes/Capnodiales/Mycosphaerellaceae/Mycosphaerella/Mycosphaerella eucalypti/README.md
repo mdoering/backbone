@@ -1,5 +1,4 @@
-Mycosphaerella eucalypti (Wakef.) Hansf. SPECIES
-=======
+# Mycosphaerella eucalypti (Wakef.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

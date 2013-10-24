@@ -1,5 +1,4 @@
-Rivulariopsis (Kirchner) Voronichin, 1923 GENUS
-=======
+# Rivulariopsis (Kirchner) Voronichin, 1923 GENUS
 
 #### Status
 ACCEPTED

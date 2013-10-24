@@ -1,5 +1,4 @@
-Pertusaria nanensis Jariangpr. & A.W. Archer SPECIES
-=======
+# Pertusaria nanensis Jariangpr. & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

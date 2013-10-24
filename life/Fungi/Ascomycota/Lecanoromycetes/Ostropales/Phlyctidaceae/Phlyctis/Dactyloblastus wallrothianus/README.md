@@ -1,5 +1,4 @@
-Dactyloblastus wallrothianus A. Massal. SPECIES
-=======
+# Dactyloblastus wallrothianus A. Massal. SPECIES
 
 #### Status
 ACCEPTED

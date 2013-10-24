@@ -1,5 +1,4 @@
-Rhizosolenia pokrovskajae (A.P. Jousé) N.I. Strelnikova SPECIES
-=======
+# Rhizosolenia pokrovskajae (A.P. Jousé) N.I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

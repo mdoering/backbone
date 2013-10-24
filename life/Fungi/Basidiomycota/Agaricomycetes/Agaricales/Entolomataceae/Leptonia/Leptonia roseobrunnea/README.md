@@ -1,5 +1,4 @@
-Leptonia roseobrunnea Murrill SPECIES
-=======
+# Leptonia roseobrunnea Murrill SPECIES
 
 #### Status
 ACCEPTED

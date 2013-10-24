@@ -1,5 +1,4 @@
-Passalora menispermi (Ellis & Holw.) U. Braun & Crous SPECIES
-=======
+# Passalora menispermi (Ellis & Holw.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

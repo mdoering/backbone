@@ -1,5 +1,4 @@
-Nematocolla crocea Link SPECIES
-=======
+# Nematocolla crocea Link SPECIES
 
 #### Status
 ACCEPTED

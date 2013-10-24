@@ -1,8 +1,7 @@
-Apertospathula dioplites Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Longispatha dioplites (Foissner, Agatha & Berger, 2002) Foissner, Xu & Kreutz, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

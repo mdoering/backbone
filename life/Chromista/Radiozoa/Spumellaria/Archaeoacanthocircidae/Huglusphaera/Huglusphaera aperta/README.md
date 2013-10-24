@@ -1,5 +1,4 @@
-Huglusphaera aperta SPECIES
-=======
+# Huglusphaera aperta SPECIES
 
 #### Status
 ACCEPTED

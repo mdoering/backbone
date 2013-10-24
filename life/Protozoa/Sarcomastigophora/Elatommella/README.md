@@ -1,5 +1,4 @@
-Elatommella Haeckel, 1887 GENUS
-=======
+# Elatommella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

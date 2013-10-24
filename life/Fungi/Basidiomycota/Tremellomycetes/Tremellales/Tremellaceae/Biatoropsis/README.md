@@ -1,5 +1,4 @@
-Biatoropsis Räsänen, 1934 GENUS
-=======
+# Biatoropsis Räsänen, 1934 GENUS
 
 #### Status
 ACCEPTED

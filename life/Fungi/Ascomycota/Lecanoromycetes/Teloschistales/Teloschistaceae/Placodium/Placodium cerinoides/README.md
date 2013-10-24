@@ -1,5 +1,4 @@
-Placodium cerinoides Anzi SPECIES
-=======
+# Placodium cerinoides Anzi SPECIES
 
 #### Status
 ACCEPTED

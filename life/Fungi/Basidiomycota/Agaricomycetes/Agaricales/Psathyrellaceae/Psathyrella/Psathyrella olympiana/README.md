@@ -1,17 +1,16 @@
-Psathyrella olympiana f. caespitosa Kits van Wav. FORM
-=======
+# Psathyrella olympiana A.H. Sm., 1941 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia, Suppl. 2: 282 (1985)
+Contr. Univ. Mich. Herb. 5: 36 (1941)
 
 #### Original name
-Psathyrella olympiana f. caespitosa Kits van Wav.
+Psathyrella olympiana A.H. Sm., 1941
 
 ### Remarks
 null

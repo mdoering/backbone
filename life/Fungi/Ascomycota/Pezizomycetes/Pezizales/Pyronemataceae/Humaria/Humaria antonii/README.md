@@ -1,5 +1,4 @@
-Humaria antonii (Roum.) Sacc. SPECIES
-=======
+# Humaria antonii (Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

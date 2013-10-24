@@ -1,5 +1,4 @@
-Puccinia castellana Gonz. Frag. SPECIES
-=======
+# Puccinia castellana Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

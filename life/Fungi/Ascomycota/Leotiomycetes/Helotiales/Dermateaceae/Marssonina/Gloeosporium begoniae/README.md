@@ -1,5 +1,4 @@
-Gloeosporium begoniae Magnaghi SPECIES
-=======
+# Gloeosporium begoniae Magnaghi SPECIES
 
 #### Status
 ACCEPTED

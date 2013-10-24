@@ -1,5 +1,4 @@
-Collybia aggregata Henn. SPECIES
-=======
+# Collybia aggregata Henn. SPECIES
 
 #### Status
 ACCEPTED

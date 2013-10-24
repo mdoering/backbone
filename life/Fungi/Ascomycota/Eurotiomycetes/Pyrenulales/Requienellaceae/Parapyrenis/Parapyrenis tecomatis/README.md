@@ -1,14 +1,13 @@
-Didymosphaeria tecomatis Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Parapyrenis tecomatis (Berk. & M.A. Curtis ex Cooke) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 60(3-4): 356 (1995)
 
 #### Original name
 Didymosphaeria tecomatis Berk. & M.A. Curtis ex Cooke

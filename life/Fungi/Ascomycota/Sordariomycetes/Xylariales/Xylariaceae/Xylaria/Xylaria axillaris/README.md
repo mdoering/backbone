@@ -1,5 +1,4 @@
-Xylaria axillaris Welw. & Curr. SPECIES
-=======
+# Xylaria axillaris Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

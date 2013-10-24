@@ -1,5 +1,4 @@
-Porina dwesica Brusse & C.H. Dickinson SPECIES
-=======
+# Porina dwesica Brusse & C.H. Dickinson SPECIES
 
 #### Status
 ACCEPTED

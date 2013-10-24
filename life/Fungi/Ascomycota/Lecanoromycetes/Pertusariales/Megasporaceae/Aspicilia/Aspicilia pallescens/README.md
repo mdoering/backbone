@@ -1,5 +1,4 @@
-Aspicilia pallescens (Anzi) Motyka SPECIES
-=======
+# Aspicilia pallescens (Anzi) Motyka SPECIES
 
 #### Status
 ACCEPTED

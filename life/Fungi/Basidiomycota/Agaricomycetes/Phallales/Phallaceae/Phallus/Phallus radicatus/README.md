@@ -1,5 +1,4 @@
-Phallus radicatus Schltdl. SPECIES
-=======
+# Phallus radicatus Schltdl. SPECIES
 
 #### Status
 ACCEPTED

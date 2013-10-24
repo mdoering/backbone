@@ -1,5 +1,4 @@
-Echinodoutium GENUS
-=======
+# Echinodoutium GENUS
 
 #### Status
 ACCEPTED

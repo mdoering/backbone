@@ -1,5 +1,4 @@
-Arnaudia quercina Bat. & H. Maia SPECIES
-=======
+# Arnaudia quercina Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

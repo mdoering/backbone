@@ -1,5 +1,4 @@
-Pholiota intermedia A.H. Sm. SPECIES
-=======
+# Pholiota intermedia A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

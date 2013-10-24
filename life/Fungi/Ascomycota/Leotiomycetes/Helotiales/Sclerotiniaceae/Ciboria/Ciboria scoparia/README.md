@@ -1,5 +1,4 @@
-Ciboria scoparia Rehm SPECIES
-=======
+# Ciboria scoparia Rehm SPECIES
 
 #### Status
 ACCEPTED

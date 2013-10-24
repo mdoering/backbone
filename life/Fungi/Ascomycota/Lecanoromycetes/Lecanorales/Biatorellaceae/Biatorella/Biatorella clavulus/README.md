@@ -1,5 +1,4 @@
-Biatorella clavulus (Stizenb.) Zahlbr. SPECIES
-=======
+# Biatorella clavulus (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

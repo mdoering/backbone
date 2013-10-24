@@ -1,5 +1,4 @@
-Merulius foliaceus (Holmsk.) Pers. SPECIES
-=======
+# Merulius foliaceus (Holmsk.) Pers. SPECIES
 
 #### Status
 ACCEPTED

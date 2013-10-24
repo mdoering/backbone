@@ -1,5 +1,4 @@
-Graphis hololeucoides Nyl. SPECIES
-=======
+# Graphis hololeucoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

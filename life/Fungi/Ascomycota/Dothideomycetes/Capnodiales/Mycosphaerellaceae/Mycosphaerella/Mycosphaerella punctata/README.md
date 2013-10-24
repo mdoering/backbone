@@ -1,5 +1,4 @@
-Mycosphaerella punctata Dearn. & House ex M.E. Barr, 1972 SPECIES
-=======
+# Mycosphaerella punctata Dearn. & House ex M.E. Barr, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urocystis curculiginis A.R. Patil, T.M. Patil & M.S. Patil SPECIES
-=======
+# Urocystis curculiginis A.R. Patil, T.M. Patil & M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

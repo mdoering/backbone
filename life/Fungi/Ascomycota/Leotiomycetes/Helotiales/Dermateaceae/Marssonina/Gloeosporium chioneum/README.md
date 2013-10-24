@@ -1,5 +1,4 @@
-Gloeosporium chioneum Syd. {?} SPECIES
-=======
+# Gloeosporium chioneum Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

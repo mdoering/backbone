@@ -1,5 +1,4 @@
-Verrucaria plicata A. Massal. SPECIES
-=======
+# Verrucaria plicata A. Massal. SPECIES
 
 #### Status
 ACCEPTED

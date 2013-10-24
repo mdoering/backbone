@@ -1,17 +1,16 @@
-Diplodina sonchi Henn. SPECIES
-=======
+# Ascochyta sonchi (Henn.) Syd., 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 45: 32 (1905)
+Annls mycol. 27(1/2): 121 (1929)
 
 #### Original name
-Diplodina sonchi Henn.
+Phyllosticta sonchi Sacc.
 
 ### Remarks
 null

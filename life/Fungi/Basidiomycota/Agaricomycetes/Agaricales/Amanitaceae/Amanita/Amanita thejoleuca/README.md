@@ -1,5 +1,4 @@
-Amanita thejoleuca Pat. SPECIES
-=======
+# Amanita thejoleuca Pat. SPECIES
 
 #### Status
 ACCEPTED

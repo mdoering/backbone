@@ -1,5 +1,4 @@
-Acarospora constans (Nyl.) H. Olivier SPECIES
-=======
+# Acarospora constans (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

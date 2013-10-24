@@ -1,17 +1,16 @@
-Cercospora codonopsis Nelen SPECIES
-=======
+# Cercospora codonopsidis Nelen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. Sist. vjssh. Rast. , 1966 234 (1966)
 
 #### Original name
-Cercospora codonopsis Nelen
+Cercospora codonopsidis Nelen
 
 ### Remarks
 null

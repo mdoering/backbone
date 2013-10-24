@@ -1,5 +1,4 @@
-Physcia saxatilis Kashiw. SPECIES
-=======
+# Physcia saxatilis Kashiw. SPECIES
 
 #### Status
 ACCEPTED

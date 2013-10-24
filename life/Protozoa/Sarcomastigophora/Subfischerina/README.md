@@ -1,5 +1,4 @@
-Subfischerina McCulloch, 1977 GENUS
-=======
+# Subfischerina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

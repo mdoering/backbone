@@ -1,5 +1,4 @@
-Calicium turbinatum Pers. SPECIES
-=======
+# Calicium turbinatum Pers. SPECIES
 
 #### Status
 ACCEPTED

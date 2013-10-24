@@ -1,5 +1,4 @@
-Umbilicaria subcalvescens Sipman SPECIES
-=======
+# Umbilicaria subcalvescens Sipman SPECIES
 
 #### Status
 ACCEPTED

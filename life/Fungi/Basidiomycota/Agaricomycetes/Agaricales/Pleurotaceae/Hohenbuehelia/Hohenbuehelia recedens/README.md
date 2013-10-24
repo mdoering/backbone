@@ -1,5 +1,4 @@
-Hohenbuehelia recedens Singer & Kuthan, 1980 SPECIES
-=======
+# Hohenbuehelia recedens Singer & Kuthan, 1980 SPECIES
 
 #### Status
 ACCEPTED

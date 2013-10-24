@@ -1,5 +1,4 @@
-Opephora naveana R. Le Cohu SPECIES
-=======
+# Opephora naveana R. Le Cohu SPECIES
 
 #### Status
 ACCEPTED

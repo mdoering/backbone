@@ -1,5 +1,4 @@
-Planococcus stackebrandtii Mayilraj et al., 2005 SPECIES
-=======
+# Planococcus stackebrandtii Mayilraj et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

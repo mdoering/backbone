@@ -1,11 +1,10 @@
-Scorias spongiosa var. spongiosa (Schwein.) Fr. VARIETY
-=======
+# Scorias spongiosa (Schwein.) Fr., 1832 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syst. mycol. (Lundae) 3(2): 291 (1832)

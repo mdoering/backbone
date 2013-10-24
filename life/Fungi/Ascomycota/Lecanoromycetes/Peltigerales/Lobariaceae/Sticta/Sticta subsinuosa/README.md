@@ -1,5 +1,4 @@
-Sticta subsinuosa Nyl. SPECIES
-=======
+# Sticta subsinuosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

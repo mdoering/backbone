@@ -1,5 +1,4 @@
-Nectria saccharicola Speg. SPECIES
-=======
+# Nectria saccharicola Speg. SPECIES
 
 #### Status
 ACCEPTED

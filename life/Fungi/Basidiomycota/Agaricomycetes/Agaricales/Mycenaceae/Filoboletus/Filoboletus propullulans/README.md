@@ -1,5 +1,4 @@
-Filoboletus propullulans Lib.-Barnes SPECIES
-=======
+# Filoboletus propullulans Lib.-Barnes SPECIES
 
 #### Status
 ACCEPTED

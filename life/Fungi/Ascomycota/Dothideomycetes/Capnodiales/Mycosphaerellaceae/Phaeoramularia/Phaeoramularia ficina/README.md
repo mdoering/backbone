@@ -1,5 +1,4 @@
-Phaeoramularia ficina S.K. Singh & R.K. Chaudhary SPECIES
-=======
+# Phaeoramularia ficina S.K. Singh & R.K. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

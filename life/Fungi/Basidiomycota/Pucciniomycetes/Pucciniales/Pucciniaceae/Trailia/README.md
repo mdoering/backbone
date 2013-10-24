@@ -1,5 +1,4 @@
-Trailia GENUS
-=======
+# Trailia GENUS
 
 #### Status
 ACCEPTED

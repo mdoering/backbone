@@ -1,5 +1,4 @@
-Lachnum durum Velen. SPECIES
-=======
+# Lachnum durum Velen. SPECIES
 
 #### Status
 ACCEPTED

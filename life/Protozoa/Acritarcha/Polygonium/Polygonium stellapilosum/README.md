@@ -1,5 +1,4 @@
-Polygonium stellapilosum (Martin, 1969) Eiserhardt, 1992 SPECIES
-=======
+# Polygonium stellapilosum (Martin, 1969) Eiserhardt, 1992 SPECIES
 
 #### Status
 ACCEPTED

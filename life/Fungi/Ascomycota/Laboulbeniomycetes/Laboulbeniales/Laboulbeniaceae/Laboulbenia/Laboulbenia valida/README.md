@@ -1,5 +1,4 @@
-Laboulbenia valida Speg. SPECIES
-=======
+# Laboulbenia valida Speg. SPECIES
 
 #### Status
 ACCEPTED

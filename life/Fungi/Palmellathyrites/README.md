@@ -1,5 +1,4 @@
-Palmellathyrites Locq., D. Pons & Sal.-Cheb. GENUS
-=======
+# Palmellathyrites Locq., D. Pons & Sal.-Cheb. GENUS
 
 #### Status
 ACCEPTED

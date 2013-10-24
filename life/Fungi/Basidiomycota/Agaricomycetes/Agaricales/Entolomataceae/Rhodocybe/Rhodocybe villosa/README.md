@@ -1,5 +1,4 @@
-Rhodocybe villosa E. Horak SPECIES
-=======
+# Rhodocybe villosa E. Horak SPECIES
 
 #### Status
 ACCEPTED

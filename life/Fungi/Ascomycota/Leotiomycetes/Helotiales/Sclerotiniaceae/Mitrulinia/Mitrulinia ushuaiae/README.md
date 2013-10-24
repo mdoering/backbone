@@ -1,14 +1,13 @@
-Mitrula ushuaiae Rehm, 1899 SPECIES
-=======
+# Mitrulinia ushuaiae (Rehm) Spooner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 116: 246 (1987)
 
 #### Original name
 Mitrula ushuaiae Rehm, 1899

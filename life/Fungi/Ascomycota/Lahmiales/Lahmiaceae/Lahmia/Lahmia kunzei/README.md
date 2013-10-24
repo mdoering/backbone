@@ -1,14 +1,13 @@
-Calicium kunzei Flot. SPECIES
-=======
+# Lahmia kunzei (Flot.) Körb., 1861 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Parerga lichenol. (Breslau) 282 (1861)
 
 #### Original name
 Calicium kunzei Flot.

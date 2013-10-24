@@ -1,17 +1,16 @@
-Shimizuomyces kibiana Kobayasi & Shimizu SPECIES
-=======
+# Shimizuomyces kibianus Kobayasi & Shimizu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Kobayasi, J. Jap. Bot. 59(1): 31 (1984)
 
 #### Original name
-Shimizuomyces kibiana Kobayasi & Shimizu
+Shimizuomyces kibianus Kobayasi & Shimizu
 
 ### Remarks
 null

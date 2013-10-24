@@ -1,5 +1,4 @@
-Ramalina aulota Stirt. SPECIES
-=======
+# Ramalina aulota Stirt. SPECIES
 
 #### Status
 ACCEPTED

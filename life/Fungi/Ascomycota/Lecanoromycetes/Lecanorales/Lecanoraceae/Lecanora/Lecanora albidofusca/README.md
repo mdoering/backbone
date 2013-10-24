@@ -1,5 +1,4 @@
-Lecanora albidofusca Nyl. SPECIES
-=======
+# Lecanora albidofusca Nyl. SPECIES
 
 #### Status
 ACCEPTED

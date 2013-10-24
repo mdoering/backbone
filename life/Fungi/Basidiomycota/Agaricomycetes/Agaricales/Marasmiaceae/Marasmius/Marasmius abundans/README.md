@@ -1,5 +1,4 @@
-Marasmius abundans var. abundans VARIETY
-=======
+# Marasmius abundans Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nova Hedwigia, Beih. 111: 22 (1996)
 
 #### Original name
-Marasmius abundans var. abundans
+Marasmius abundans Corner
 
 ### Remarks
 null

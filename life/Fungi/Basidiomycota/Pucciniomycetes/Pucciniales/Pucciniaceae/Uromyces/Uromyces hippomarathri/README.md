@@ -1,5 +1,4 @@
-Uromyces hippomarathri Lindr. SPECIES
-=======
+# Uromyces hippomarathri Lindr. SPECIES
 
 #### Status
 ACCEPTED

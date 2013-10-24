@@ -1,5 +1,4 @@
-Polycystis ranunculacearum Fr. SPECIES
-=======
+# Polycystis ranunculacearum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aulaxina submuralis Kalb & Vezda SPECIES
-=======
+# Aulaxina submuralis Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

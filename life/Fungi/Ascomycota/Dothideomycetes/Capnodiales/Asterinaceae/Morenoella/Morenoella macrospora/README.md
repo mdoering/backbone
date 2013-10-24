@@ -1,5 +1,4 @@
-Morenoella macrospora (Sacc. & Paol.) Sacc. SPECIES
-=======
+# Morenoella macrospora (Sacc. & Paol.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

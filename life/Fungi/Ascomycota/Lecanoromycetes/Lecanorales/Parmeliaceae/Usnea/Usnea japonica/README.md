@@ -1,5 +1,4 @@
-Usnea japonica var. japonica VARIETY
-=======
+# Usnea japonica Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea japonica var. japonica
+Usnea japonica Vain.
 
 ### Remarks
 null

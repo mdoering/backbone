@@ -1,5 +1,4 @@
-Ochrolechia leprothelia (Nyl.) SPECIES
-=======
+# Ochrolechia leprothelia (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

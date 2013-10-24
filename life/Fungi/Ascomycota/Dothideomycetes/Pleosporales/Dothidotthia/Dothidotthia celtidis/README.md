@@ -1,14 +1,13 @@
-Microthelia celtidis (Ellis & Everh.) Kuntze, 1898 SPECIES
-=======
+# Dothidotthia celtidis (Ellis & Everh.) M.E. Barr, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 498 (1898)
+Mycotaxon 34(2): 520 (1989)
 
 #### Original name
 Didymosphaeria celtidis Ellis & Everh., 1895

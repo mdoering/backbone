@@ -1,5 +1,4 @@
-Pertusaria vaginatula Vain. SPECIES
-=======
+# Pertusaria vaginatula Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocybe abortiva (Berk. & M.A. Curtis) SPECIES
-=======
+# Rhodocybe abortiva (Berk. & M.A. Curtis) SPECIES
 
 #### Status
 ACCEPTED

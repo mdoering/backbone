@@ -1,5 +1,4 @@
-Allarthonia depressula (J. Steiner) Szatala SPECIES
-=======
+# Allarthonia depressula (J. Steiner) Szatala SPECIES
 
 #### Status
 ACCEPTED

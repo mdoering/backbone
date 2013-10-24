@@ -1,5 +1,4 @@
-Oedohysterium insidens (Schwein.) E. Boehm & C.L. Schoch, 2009 SPECIES
-=======
+# Oedohysterium insidens (Schwein.) E. Boehm & C.L. Schoch, 2009 SPECIES
 
 #### Status
 ACCEPTED

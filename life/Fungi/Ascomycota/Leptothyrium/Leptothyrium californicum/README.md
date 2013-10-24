@@ -1,5 +1,4 @@
-Leptothyrium californicum Bubák SPECIES
-=======
+# Leptothyrium californicum Bubák SPECIES
 
 #### Status
 ACCEPTED

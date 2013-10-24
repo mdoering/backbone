@@ -1,5 +1,4 @@
-Trichothecium tricolor Schulzer SPECIES
-=======
+# Trichothecium tricolor Schulzer SPECIES
 
 #### Status
 ACCEPTED

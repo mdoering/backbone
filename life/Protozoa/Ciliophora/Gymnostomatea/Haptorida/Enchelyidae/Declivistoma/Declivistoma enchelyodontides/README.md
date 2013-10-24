@@ -1,5 +1,4 @@
-Declivistoma enchelyodontides (Foissner, Agatha & Berger, 2002) Foissner, Agatha & Berger in Berger & Ae, 2008 SPECIES
-=======
+# Declivistoma enchelyodontides (Foissner, Agatha & Berger, 2002) Foissner, Agatha & Berger in Berger & Ae, 2008 SPECIES
 
 #### Status
 ACCEPTED

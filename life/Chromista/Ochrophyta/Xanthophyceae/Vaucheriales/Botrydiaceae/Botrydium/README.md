@@ -1,5 +1,4 @@
-Botrydium Wallroth, 1815 GENUS
-=======
+# Botrydium Wallroth, 1815 GENUS
 
 #### Status
 ACCEPTED

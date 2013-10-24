@@ -1,17 +1,16 @@
-Pseudoabsidia Bainier, 1903 GENUS
-=======
+# Absidia Van Tieghem, 1878 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 19: 155 (1903)
+Ann. Sci. Nat. Bot. ser. 6. 4: 350.
 
 #### Original name
-Pseudoabsidia Bainier, 1903
+Absidia Van Tieghem, 1878
 
 ### Remarks
 null

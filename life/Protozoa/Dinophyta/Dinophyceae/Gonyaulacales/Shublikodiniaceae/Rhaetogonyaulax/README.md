@@ -1,14 +1,13 @@
-Shublikodinium V.D. Wiggins, 1973 GENUS
-=======
+# Rhaetogonyaulax W.A.S. Sarjeant, 1966 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Micropaleontology 19: 2.
+null
 
 #### Original name
 null

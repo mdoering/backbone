@@ -1,5 +1,4 @@
-Russula cerasina G. Martin SPECIES
-=======
+# Russula cerasina G. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paecilomyces verticillatus Z.Q. Liang, Zhu Li & Y.F. Han SPECIES
-=======
+# Paecilomyces verticillatus Z.Q. Liang, Zhu Li & Y.F. Han SPECIES
 
 #### Status
 ACCEPTED

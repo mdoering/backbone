@@ -1,5 +1,4 @@
-Pyrenochaeta fallax Bres., 1905 SPECIES
-=======
+# Pyrenochaeta fallax Bres., 1905 SPECIES
 
 #### Status
 ACCEPTED

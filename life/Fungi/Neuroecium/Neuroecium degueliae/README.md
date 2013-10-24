@@ -1,5 +1,4 @@
-Neuroecium degueliae Kunze SPECIES
-=======
+# Neuroecium degueliae Kunze SPECIES
 
 #### Status
 ACCEPTED

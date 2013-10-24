@@ -1,5 +1,4 @@
-Pseudobaeospora paulochroma Bas SPECIES
-=======
+# Pseudobaeospora paulochroma Bas SPECIES
 
 #### Status
 ACCEPTED

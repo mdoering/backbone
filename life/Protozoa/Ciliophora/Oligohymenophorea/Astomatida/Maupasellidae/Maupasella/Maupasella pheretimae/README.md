@@ -1,5 +1,4 @@
-Maupasella pheretimae Katashima, 1952 SPECIES
-=======
+# Maupasella pheretimae Katashima, 1952 SPECIES
 
 #### Status
 ACCEPTED

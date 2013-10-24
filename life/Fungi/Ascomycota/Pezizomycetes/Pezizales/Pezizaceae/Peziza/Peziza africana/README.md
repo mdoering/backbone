@@ -1,5 +1,4 @@
-Peziza africana Van der Byl SPECIES
-=======
+# Peziza africana Van der Byl SPECIES
 
 #### Status
 ACCEPTED

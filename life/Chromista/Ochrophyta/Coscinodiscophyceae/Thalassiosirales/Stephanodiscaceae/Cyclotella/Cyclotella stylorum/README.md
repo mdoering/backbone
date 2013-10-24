@@ -1,5 +1,4 @@
-Cyclotella stylorum Brightwell SPECIES
-=======
+# Cyclotella stylorum Brightwell SPECIES
 
 #### Status
 ACCEPTED

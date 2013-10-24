@@ -1,5 +1,4 @@
-Pseudomonas migulae Verhille et al., 1999 SPECIES
-=======
+# Pseudomonas migulae Verhille et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

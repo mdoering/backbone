@@ -1,5 +1,4 @@
-Plicaria fuckelii Rehm SPECIES
-=======
+# Plicaria fuckelii Rehm SPECIES
 
 #### Status
 ACCEPTED

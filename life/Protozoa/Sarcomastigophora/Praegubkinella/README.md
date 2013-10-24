@@ -1,5 +1,4 @@
-Praegubkinella Fuchs, 1968 GENUS
-=======
+# Praegubkinella Fuchs, 1968 GENUS
 
 #### Status
 ACCEPTED

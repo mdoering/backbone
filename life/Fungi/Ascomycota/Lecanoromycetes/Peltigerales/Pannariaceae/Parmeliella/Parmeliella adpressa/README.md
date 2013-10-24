@@ -1,5 +1,4 @@
-Parmeliella adpressa P.M. Jørg. SPECIES
-=======
+# Parmeliella adpressa P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

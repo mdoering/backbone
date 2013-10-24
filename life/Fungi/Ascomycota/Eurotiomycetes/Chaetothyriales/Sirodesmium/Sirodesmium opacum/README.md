@@ -1,5 +1,4 @@
-Sirodesmium opacum Petch SPECIES
-=======
+# Sirodesmium opacum Petch SPECIES
 
 #### Status
 ACCEPTED

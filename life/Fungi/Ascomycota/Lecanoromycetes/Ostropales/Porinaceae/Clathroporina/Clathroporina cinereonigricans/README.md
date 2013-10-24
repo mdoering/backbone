@@ -1,5 +1,4 @@
-Clathroporina cinereonigricans (Vain.) Zahlbr. SPECIES
-=======
+# Clathroporina cinereonigricans (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

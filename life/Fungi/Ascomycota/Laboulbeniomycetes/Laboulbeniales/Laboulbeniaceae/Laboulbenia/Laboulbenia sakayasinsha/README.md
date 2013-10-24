@@ -1,5 +1,4 @@
-Laboulbenia sakayasinsha Balazuc SPECIES
-=======
+# Laboulbenia sakayasinsha Balazuc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acremonium stromaticum W. Gams & R.H. Stover, 1975 SPECIES
-=======
+# Acremonium stromaticum W. Gams & R.H. Stover, 1975 SPECIES
 
 #### Status
 ACCEPTED

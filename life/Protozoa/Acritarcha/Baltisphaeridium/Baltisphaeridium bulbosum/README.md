@@ -1,5 +1,4 @@
-Baltisphaeridium bulbosum Kjellström, 1971 SPECIES
-=======
+# Baltisphaeridium bulbosum Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

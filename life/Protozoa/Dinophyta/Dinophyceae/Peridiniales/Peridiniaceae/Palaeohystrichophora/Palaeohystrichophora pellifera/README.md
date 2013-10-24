@@ -1,5 +1,4 @@
-Palaeohystrichophora pellifera Cookson & Eisenack SPECIES
-=======
+# Palaeohystrichophora pellifera Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

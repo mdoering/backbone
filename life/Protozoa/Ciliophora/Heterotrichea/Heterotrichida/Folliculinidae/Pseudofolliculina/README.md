@@ -1,14 +1,13 @@
-Pedifolliculina Hadzi, 1951 GENUS
-=======
+# Pseudofolliculina Dons, 1914 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Tromsø Mus. Aarsh. , 35-36, 67.
 
 #### Original name
 null

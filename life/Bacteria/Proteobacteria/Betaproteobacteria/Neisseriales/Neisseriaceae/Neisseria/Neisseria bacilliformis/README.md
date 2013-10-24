@@ -1,5 +1,4 @@
-Neisseria bacilliformis Han et al., 2006 SPECIES
-=======
+# Neisseria bacilliformis Han et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

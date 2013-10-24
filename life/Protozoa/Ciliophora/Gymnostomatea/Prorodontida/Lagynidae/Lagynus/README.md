@@ -1,5 +1,4 @@
-Lagynus Quennerstedt, 1867 GENUS
-=======
+# Lagynus Quennerstedt, 1867 GENUS
 
 #### Status
 ACCEPTED

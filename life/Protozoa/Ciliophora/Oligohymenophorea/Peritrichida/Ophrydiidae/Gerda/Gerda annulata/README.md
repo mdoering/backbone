@@ -1,5 +1,4 @@
-Gerda annulata SPECIES
-=======
+# Gerda annulata SPECIES
 
 #### Status
 ACCEPTED

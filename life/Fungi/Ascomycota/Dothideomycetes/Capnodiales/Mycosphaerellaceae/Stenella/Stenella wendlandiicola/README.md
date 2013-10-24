@@ -1,5 +1,4 @@
-Stenella wendlandiicola U. Braun & Crous SPECIES
-=======
+# Stenella wendlandiicola U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

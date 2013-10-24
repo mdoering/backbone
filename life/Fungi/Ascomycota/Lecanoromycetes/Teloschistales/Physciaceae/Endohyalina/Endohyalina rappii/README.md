@@ -1,5 +1,4 @@
-Endohyalina rappii (Imshaug ex R.C. Harris) Marbach SPECIES
-=======
+# Endohyalina rappii (Imshaug ex R.C. Harris) Marbach SPECIES
 
 #### Status
 ACCEPTED

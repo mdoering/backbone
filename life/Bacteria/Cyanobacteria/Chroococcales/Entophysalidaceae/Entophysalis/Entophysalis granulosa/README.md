@@ -1,5 +1,4 @@
-Entophysalis granulosa Kützing SPECIES
-=======
+# Entophysalis granulosa Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium rarispinum Sarjeant, 1960 SPECIES
-=======
+# Micrhystridium rarispinum Sarjeant, 1960 SPECIES
 
 #### Status
 ACCEPTED

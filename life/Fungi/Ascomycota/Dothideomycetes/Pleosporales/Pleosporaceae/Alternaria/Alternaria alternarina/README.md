@@ -1,5 +1,4 @@
-Alternaria alternarina E.G. Simmons SPECIES
-=======
+# Alternaria alternarina E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

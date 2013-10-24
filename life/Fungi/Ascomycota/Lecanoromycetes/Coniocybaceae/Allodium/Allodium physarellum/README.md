@@ -1,5 +1,4 @@
-Allodium physarellum (Ach.) Nyl. SPECIES
-=======
+# Allodium physarellum (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

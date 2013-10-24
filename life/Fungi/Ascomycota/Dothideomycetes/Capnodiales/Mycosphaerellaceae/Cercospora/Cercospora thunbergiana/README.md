@@ -1,17 +1,16 @@
-Cercospora thumbergiana R.K. Srivast., A.K. Srivast. & Kamal SPECIES
-=======
+# Cercospora thunbergiana J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 30: 200 (1965)
 
 #### Original name
-Cercospora thumbergiana R.K. Srivast., A.K. Srivast. & Kamal
+Cercospora thunbergiana J.M. Yen
 
 ### Remarks
 null

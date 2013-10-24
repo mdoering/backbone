@@ -1,5 +1,4 @@
-Hyaloscypha subliciformis (P. Karst.) Boud. SPECIES
-=======
+# Hyaloscypha subliciformis (P. Karst.) Boud. SPECIES
 
 #### Status
 ACCEPTED

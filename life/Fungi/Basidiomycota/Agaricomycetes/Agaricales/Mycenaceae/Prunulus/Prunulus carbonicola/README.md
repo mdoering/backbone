@@ -1,5 +1,4 @@
-Prunulus carbonicola Murrill SPECIES
-=======
+# Prunulus carbonicola Murrill SPECIES
 
 #### Status
 ACCEPTED

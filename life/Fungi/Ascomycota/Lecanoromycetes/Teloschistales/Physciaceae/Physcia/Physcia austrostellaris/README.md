@@ -1,5 +1,4 @@
-Physcia austrostellaris Elix SPECIES
-=======
+# Physcia austrostellaris Elix SPECIES
 
 #### Status
 ACCEPTED

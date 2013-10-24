@@ -1,5 +1,4 @@
-Karnospongella GENUS
-=======
+# Karnospongella GENUS
 
 #### Status
 ACCEPTED

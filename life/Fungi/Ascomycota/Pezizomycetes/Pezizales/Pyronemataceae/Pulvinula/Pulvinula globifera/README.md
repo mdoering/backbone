@@ -1,5 +1,4 @@
-Pulvinula globifera (Berk. & M.A. Curtis) Le Gal SPECIES
-=======
+# Pulvinula globifera (Berk. & M.A. Curtis) Le Gal SPECIES
 
 #### Status
 ACCEPTED

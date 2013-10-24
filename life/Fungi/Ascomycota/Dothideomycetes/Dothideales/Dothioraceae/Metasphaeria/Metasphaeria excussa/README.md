@@ -1,5 +1,4 @@
-Metasphaeria excussa (Schwein.) Starbäck SPECIES
-=======
+# Metasphaeria excussa (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

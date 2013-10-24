@@ -1,5 +1,4 @@
-Collemopsis picina (Nyl.) Nyl. SPECIES
-=======
+# Collemopsis picina (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

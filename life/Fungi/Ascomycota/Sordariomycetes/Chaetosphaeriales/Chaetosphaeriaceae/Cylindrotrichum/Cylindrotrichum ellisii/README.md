@@ -1,17 +1,16 @@
-Kylindria ellisii (Morgan-Jones) DiCosmo, S.M. Berch & W.B. Kendr., 1983 SPECIES
-=======
+# Cylindrotrichum ellisii Morgan-Jones, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 75(6): 970 (1983)
+Mycotaxon 5(2): 490 (1977)
 
 #### Original name
-Cylindrotrichum ellisii Morgan-Jones, 1977
+Cylindrotrichum triseptatum Matsush., 1975
 
 ### Remarks
 null

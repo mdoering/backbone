@@ -1,5 +1,4 @@
-Scytonema flexuosum Meneghini SPECIES
-=======
+# Scytonema flexuosum Meneghini SPECIES
 
 #### Status
 ACCEPTED

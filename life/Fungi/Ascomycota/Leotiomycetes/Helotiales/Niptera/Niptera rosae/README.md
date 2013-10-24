@@ -1,5 +1,4 @@
-Niptera rosae Losa SPECIES
-=======
+# Niptera rosae Losa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eriomycopsis fusarioides (F. Stevens) Cif. SPECIES
-=======
+# Eriomycopsis fusarioides (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia curreiana W. Phillips SPECIES
-=======
+# Mollisia curreiana W. Phillips SPECIES
 
 #### Status
 ACCEPTED

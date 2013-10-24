@@ -1,5 +1,4 @@
-Sclerotium erythrinae Peyl SPECIES
-=======
+# Sclerotium erythrinae Peyl SPECIES
 
 #### Status
 ACCEPTED

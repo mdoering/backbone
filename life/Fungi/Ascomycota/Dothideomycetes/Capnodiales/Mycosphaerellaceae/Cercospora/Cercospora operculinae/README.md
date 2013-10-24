@@ -1,5 +1,4 @@
-Cercospora operculinae J.M. Mend. SPECIES
-=======
+# Cercospora operculinae J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

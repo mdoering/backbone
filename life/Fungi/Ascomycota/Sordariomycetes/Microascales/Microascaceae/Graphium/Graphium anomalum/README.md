@@ -1,5 +1,4 @@
-Graphium anomalum Massee SPECIES
-=======
+# Graphium anomalum Massee SPECIES
 
 #### Status
 ACCEPTED

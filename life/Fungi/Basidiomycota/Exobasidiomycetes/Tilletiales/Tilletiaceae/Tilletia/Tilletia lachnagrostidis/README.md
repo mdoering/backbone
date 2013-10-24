@@ -1,5 +1,4 @@
-Tilletia lachnagrostidis Vánky & R.G. Shivas SPECIES
-=======
+# Tilletia lachnagrostidis Vánky & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

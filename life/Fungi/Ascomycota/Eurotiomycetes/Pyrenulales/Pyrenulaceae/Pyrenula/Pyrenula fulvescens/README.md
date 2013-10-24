@@ -1,5 +1,4 @@
-Pyrenula fulvescens Malme SPECIES
-=======
+# Pyrenula fulvescens Malme SPECIES
 
 #### Status
 ACCEPTED

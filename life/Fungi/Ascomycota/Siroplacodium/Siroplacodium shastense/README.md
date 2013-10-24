@@ -1,14 +1,13 @@
-Placosphaeria shastensis R. Sprague & W.B. Cooke, 1939 SPECIES
-=======
+# Siroplacodium shastense (R. Sprague & W.B. Cooke) Petr., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 31(1): 46 (1939)
+Sydowia 11: 350 (1958)
 
 #### Original name
 Placosphaeria shastensis R. Sprague & W.B. Cooke, 1939

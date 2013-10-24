@@ -1,5 +1,4 @@
-Lecidea marylandensis H. Magn. SPECIES
-=======
+# Lecidea marylandensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

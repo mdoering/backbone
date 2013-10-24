@@ -1,5 +1,4 @@
-Phaeographina balfourii (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Phaeographina balfourii (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plantibacter flavus Behrendt et al., 2002 SPECIES
-=======
+# Plantibacter flavus Behrendt et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

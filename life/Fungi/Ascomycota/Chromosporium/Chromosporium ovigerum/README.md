@@ -1,5 +1,4 @@
-Chromosporium ovigerum Sacc. SPECIES
-=======
+# Chromosporium ovigerum Sacc. SPECIES
 
 #### Status
 ACCEPTED

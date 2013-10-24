@@ -1,5 +1,4 @@
-Cortinarius paucicolor E. Horak SPECIES
-=======
+# Cortinarius paucicolor E. Horak SPECIES
 
 #### Status
 ACCEPTED

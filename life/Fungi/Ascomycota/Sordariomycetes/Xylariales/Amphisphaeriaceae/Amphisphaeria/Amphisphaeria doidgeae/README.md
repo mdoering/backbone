@@ -1,5 +1,4 @@
-Amphisphaeria doidgeae Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Amphisphaeria doidgeae Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

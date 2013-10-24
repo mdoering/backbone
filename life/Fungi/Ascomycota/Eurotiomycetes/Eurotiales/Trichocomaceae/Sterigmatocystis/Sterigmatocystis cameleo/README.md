@@ -1,5 +1,4 @@
-Sterigmatocystis cameleo Sartory, R. Sartory & J. Mey. SPECIES
-=======
+# Sterigmatocystis cameleo Sartory, R. Sartory & J. Mey. SPECIES
 
 #### Status
 ACCEPTED

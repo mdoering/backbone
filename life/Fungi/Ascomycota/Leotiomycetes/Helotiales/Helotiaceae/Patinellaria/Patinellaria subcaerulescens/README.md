@@ -1,5 +1,4 @@
-Patinellaria subcaerulescens P. Karst. SPECIES
-=======
+# Patinellaria subcaerulescens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

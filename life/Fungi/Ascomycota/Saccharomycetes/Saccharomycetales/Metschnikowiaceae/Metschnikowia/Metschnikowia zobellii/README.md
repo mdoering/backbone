@@ -1,14 +1,13 @@
-Metschnikowia bicuspidata var. zobellii (Uden & Cast.-Branco) Fell & I.L. Hunter, 1968 VARIETY
-=======
+# Metschnikowia zobellii (Uden & Cast.-Branco) Uden, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 34: 373 (1968)
+Revta Biol. , Lisb. 3(1): 96 (1962)
 
 #### Original name
 Metschnikowiella zobellii Uden & Cast.-Branco, 1961

@@ -1,5 +1,4 @@
-Camarosporium lespedezae Ziling SPECIES
-=======
+# Camarosporium lespedezae Ziling SPECIES
 
 #### Status
 ACCEPTED

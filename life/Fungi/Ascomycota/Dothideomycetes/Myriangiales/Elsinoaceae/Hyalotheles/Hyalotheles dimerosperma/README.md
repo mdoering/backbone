@@ -1,5 +1,4 @@
-Hyalotheles dimerosperma Speg., 1908 SPECIES
-=======
+# Hyalotheles dimerosperma Speg., 1908 SPECIES
 
 #### Status
 ACCEPTED

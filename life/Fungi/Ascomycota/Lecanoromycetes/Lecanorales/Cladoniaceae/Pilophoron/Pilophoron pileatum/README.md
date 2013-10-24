@@ -1,5 +1,4 @@
-Pilophoron pileatum (Mont.) Zahlbr. SPECIES
-=======
+# Pilophoron pileatum (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

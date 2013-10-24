@@ -1,5 +1,4 @@
-Meliola uvariicola Hansf. SPECIES
-=======
+# Meliola uvariicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

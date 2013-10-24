@@ -1,5 +1,4 @@
-Cercospora cipadessae Chupp SPECIES
-=======
+# Cercospora cipadessae Chupp SPECIES
 
 #### Status
 ACCEPTED

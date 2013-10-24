@@ -1,5 +1,4 @@
-Badarisama Kunwar, J.B. Manandhar & J.B. Sinclair GENUS
-=======
+# Badarisama Kunwar, J.B. Manandhar & J.B. Sinclair GENUS
 
 #### Status
 ACCEPTED

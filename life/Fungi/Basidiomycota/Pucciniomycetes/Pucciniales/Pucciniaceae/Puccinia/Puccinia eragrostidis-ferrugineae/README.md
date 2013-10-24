@@ -1,5 +1,4 @@
-Puccinia eragrostidis-ferrugineae F.L. Tai SPECIES
-=======
+# Puccinia eragrostidis-ferrugineae F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystolepiota potassiovirens Singer SPECIES
-=======
+# Cystolepiota potassiovirens Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dyadosporonites inaequalis Y.N.R. Varma & R.S. Patil SPECIES
-=======
+# Dyadosporonites inaequalis Y.N.R. Varma & R.S. Patil SPECIES
 
 #### Status
 ACCEPTED

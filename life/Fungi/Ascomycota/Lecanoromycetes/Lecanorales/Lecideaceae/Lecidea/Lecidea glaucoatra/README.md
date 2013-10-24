@@ -1,5 +1,4 @@
-Lecidea glaucoatra Nyl. SPECIES
-=======
+# Lecidea glaucoatra Nyl. SPECIES
 
 #### Status
 ACCEPTED

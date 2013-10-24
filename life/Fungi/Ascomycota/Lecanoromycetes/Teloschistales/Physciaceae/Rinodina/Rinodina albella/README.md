@@ -1,5 +1,4 @@
-Rinodina albella (Pers.) Gray SPECIES
-=======
+# Rinodina albella (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED

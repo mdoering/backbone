@@ -1,14 +1,13 @@
-Triposporium deviatum (Subram.) R.F. Castañeda, 1996 SPECIES
-=======
+# Ceratosporella deviata Subram., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Castañeda Ruíz, Guarro & Cano, Mycotaxon 60: 278 (1996)
+Proc. Indian Acad. Sci. , Pl. Sci. 46: 327 (1957)
 
 #### Original name
 Ceratosporella deviata Subram., 1957

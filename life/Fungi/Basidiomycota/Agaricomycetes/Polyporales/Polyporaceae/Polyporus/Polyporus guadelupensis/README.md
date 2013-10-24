@@ -1,17 +1,16 @@
-Polyporus guadalupensis Lév. SPECIES
-=======
+# Polyporus guadelupensis Lév. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 5: 134 (1846)
 
 #### Original name
-Polyporus guadalupensis Lév.
+Polyporus guadelupensis Lév.
 
 ### Remarks
 null

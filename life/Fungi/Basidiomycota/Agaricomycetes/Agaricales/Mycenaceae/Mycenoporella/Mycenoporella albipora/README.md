@@ -1,5 +1,4 @@
-Mycenoporella albipora Corner SPECIES
-=======
+# Mycenoporella albipora Corner SPECIES
 
 #### Status
 ACCEPTED

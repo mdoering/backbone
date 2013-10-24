@@ -1,5 +1,4 @@
-Leptosphaeria dubia Sacc. & Paol. SPECIES
-=======
+# Leptosphaeria dubia Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma concavosericeum Corner & E. Horak SPECIES
-=======
+# Entoloma concavosericeum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

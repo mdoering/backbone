@@ -1,5 +1,4 @@
-Umbilicaria papillosa Nyl. SPECIES
-=======
+# Umbilicaria papillosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

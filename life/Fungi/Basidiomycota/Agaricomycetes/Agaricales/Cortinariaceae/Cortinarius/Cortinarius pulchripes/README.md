@@ -1,5 +1,4 @@
-Cortinarius pulchripes J. Favre SPECIES
-=======
+# Cortinarius pulchripes J. Favre SPECIES
 
 #### Status
 ACCEPTED

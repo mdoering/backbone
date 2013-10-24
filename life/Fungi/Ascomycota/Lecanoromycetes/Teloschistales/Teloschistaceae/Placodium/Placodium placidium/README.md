@@ -1,5 +1,4 @@
-Placodium placidium var. placidium VARIETY
-=======
+# Placodium placidium (A. Massal.) Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium placidium var. placidium
+null
 
 ### Remarks
 null

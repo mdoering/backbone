@@ -1,5 +1,4 @@
-Diaporthe kentrophylli Speg. SPECIES
-=======
+# Diaporthe kentrophylli Speg. SPECIES
 
 #### Status
 ACCEPTED

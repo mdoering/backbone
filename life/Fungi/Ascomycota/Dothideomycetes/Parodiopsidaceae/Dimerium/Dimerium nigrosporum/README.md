@@ -1,5 +1,4 @@
-Dimerium nigrosporum Miles SPECIES
-=======
+# Dimerium nigrosporum Miles SPECIES
 
 #### Status
 ACCEPTED

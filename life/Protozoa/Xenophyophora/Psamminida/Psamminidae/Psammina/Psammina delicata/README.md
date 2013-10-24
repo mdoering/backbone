@@ -1,5 +1,4 @@
-Psammina delicata Gooday & Tendal, 1988 SPECIES
-=======
+# Psammina delicata Gooday & Tendal, 1988 SPECIES
 
 #### Status
 ACCEPTED

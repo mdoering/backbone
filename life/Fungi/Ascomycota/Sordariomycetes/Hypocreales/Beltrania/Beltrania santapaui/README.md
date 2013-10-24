@@ -1,5 +1,4 @@
-Beltrania santapaui Piroz. & S.D. Patil SPECIES
-=======
+# Beltrania santapaui Piroz. & S.D. Patil SPECIES
 
 #### Status
 ACCEPTED

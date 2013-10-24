@@ -1,17 +1,16 @@
-Spilonemopsis Vain. GENUS
-=======
+# Spilonema Bornet, 1856 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. natn. Sci. nat. math. Cherbourg 4: 226 (1856)
 
 #### Original name
-Spilonemopsis Vain.
+Spilonema Bornet, 1856
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Dermocarpa valiae-allorgei Bourrelly SPECIES
-=======
+# Cyanocystis valiae-allorgei (Bourrelly) Bourrelly SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

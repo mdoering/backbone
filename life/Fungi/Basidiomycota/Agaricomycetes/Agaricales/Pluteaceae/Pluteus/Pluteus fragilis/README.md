@@ -1,5 +1,4 @@
-Pluteus fragilis Beeli SPECIES
-=======
+# Pluteus fragilis Beeli SPECIES
 
 #### Status
 ACCEPTED

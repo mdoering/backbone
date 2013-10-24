@@ -1,5 +1,4 @@
-Halterioforma Horvath, 1956 GENUS
-=======
+# Halterioforma Horvath, 1956 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta gaudichaudiana Pers. SPECIES
-=======
+# Sticta gaudichaudiana Pers. SPECIES
 
 #### Status
 ACCEPTED

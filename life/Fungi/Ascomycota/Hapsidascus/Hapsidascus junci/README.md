@@ -1,5 +1,4 @@
-Hapsidascus junci E.B.G. Jones, Sakay., Suetrong, Somrith. & K.L. Pang, 2010 SPECIES
-=======
+# Hapsidascus junci E.B.G. Jones, Sakay., Suetrong, Somrith. & K.L. Pang, 2010 SPECIES
 
 #### Status
 ACCEPTED

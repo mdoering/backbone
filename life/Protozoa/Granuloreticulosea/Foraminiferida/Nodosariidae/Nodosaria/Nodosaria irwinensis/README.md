@@ -1,5 +1,4 @@
-Nodosaria irwinensis Howchin SPECIES
-=======
+# Nodosaria irwinensis Howchin SPECIES
 
 #### Status
 ACCEPTED

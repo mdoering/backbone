@@ -1,5 +1,4 @@
-Microcarpon nigrum Schrad. ex J.F. Gmel. SPECIES
-=======
+# Microcarpon nigrum Schrad. ex J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

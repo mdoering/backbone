@@ -1,5 +1,4 @@
-Tetrahymena corlissi Thompson, 1955 SPECIES
-=======
+# Tetrahymena corlissi Thompson, 1955 SPECIES
 
 #### Status
 ACCEPTED

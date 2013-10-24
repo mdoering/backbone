@@ -1,5 +1,4 @@
-Amanita lilloi Singer SPECIES
-=======
+# Amanita lilloi Singer SPECIES
 
 #### Status
 ACCEPTED

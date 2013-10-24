@@ -1,5 +1,4 @@
-Cyclopsiella spiculosa Head et al., 1989 SPECIES
-=======
+# Cyclopsiella spiculosa Head et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrophoma clypeata D. Sacc. SPECIES
-=======
+# Dendrophoma clypeata D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

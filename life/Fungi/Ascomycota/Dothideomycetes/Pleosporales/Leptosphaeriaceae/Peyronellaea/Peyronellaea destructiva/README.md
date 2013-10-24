@@ -1,5 +1,4 @@
-Peyronellaea destructiva (Desm.) Goid. SPECIES
-=======
+# Peyronellaea destructiva (Desm.) Goid. SPECIES
 
 #### Status
 ACCEPTED

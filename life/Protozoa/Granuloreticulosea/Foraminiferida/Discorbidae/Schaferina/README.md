@@ -1,5 +1,4 @@
-Schaferina McCulloch, 1977 GENUS
-=======
+# Schaferina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

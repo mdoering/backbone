@@ -1,5 +1,4 @@
-Lepiota lucandi Quél. SPECIES
-=======
+# Lepiota lucandi Quél. SPECIES
 
 #### Status
 ACCEPTED

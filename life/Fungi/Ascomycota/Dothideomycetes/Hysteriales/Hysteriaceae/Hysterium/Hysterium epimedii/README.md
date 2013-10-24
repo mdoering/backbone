@@ -1,5 +1,4 @@
-Hysterium epimedii Ces. SPECIES
-=======
+# Hysterium epimedii Ces. SPECIES
 
 #### Status
 ACCEPTED

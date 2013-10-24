@@ -1,5 +1,4 @@
-Hymenoscyphus galbula (P. Karst.) Kuntze SPECIES
-=======
+# Hymenoscyphus galbula (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

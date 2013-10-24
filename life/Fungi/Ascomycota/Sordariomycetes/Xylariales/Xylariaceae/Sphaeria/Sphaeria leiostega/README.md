@@ -1,5 +1,4 @@
-Sphaeria leiostega Ellis SPECIES
-=======
+# Sphaeria leiostega Ellis SPECIES
 
 #### Status
 ACCEPTED

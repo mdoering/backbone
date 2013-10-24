@@ -1,5 +1,4 @@
-Phoma vittadiniae McAlpine SPECIES
-=======
+# Phoma vittadiniae McAlpine SPECIES
 
 #### Status
 ACCEPTED

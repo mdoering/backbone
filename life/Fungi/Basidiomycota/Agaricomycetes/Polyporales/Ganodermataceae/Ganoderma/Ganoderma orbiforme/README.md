@@ -1,14 +1,13 @@
-Polyporus orbiformis Fr., 1838 SPECIES
-=======
+# Ganoderma orbiforme (Fr.) Ryvarden, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 463 (1838)
+Mycologia 92(1): 187 (2000)
 
 #### Original name
 Polyporus orbiformis Fr., 1838

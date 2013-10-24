@@ -1,5 +1,4 @@
-Collybia podperae Hruby SPECIES
-=======
+# Collybia podperae Hruby SPECIES
 
 #### Status
 ACCEPTED

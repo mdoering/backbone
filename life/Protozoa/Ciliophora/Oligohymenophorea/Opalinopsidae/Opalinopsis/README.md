@@ -1,5 +1,4 @@
-Opalinopsis Foettinger, 1881 GENUS
-=======
+# Opalinopsis Foettinger, 1881 GENUS
 
 #### Status
 ACCEPTED

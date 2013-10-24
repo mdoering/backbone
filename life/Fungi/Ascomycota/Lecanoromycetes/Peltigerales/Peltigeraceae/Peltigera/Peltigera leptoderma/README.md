@@ -1,5 +1,4 @@
-Peltigera leptoderma Nyl. SPECIES
-=======
+# Peltigera leptoderma Nyl. SPECIES
 
 #### Status
 ACCEPTED

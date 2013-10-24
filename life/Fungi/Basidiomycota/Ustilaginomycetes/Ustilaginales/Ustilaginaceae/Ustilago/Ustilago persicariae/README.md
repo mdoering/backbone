@@ -1,5 +1,4 @@
-Ustilago persicariae Cif. SPECIES
-=======
+# Ustilago persicariae Cif. SPECIES
 
 #### Status
 ACCEPTED

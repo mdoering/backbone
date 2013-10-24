@@ -1,5 +1,4 @@
-Parmeliopsis wrightii Nyl. SPECIES
-=======
+# Parmeliopsis wrightii Nyl. SPECIES
 
 #### Status
 ACCEPTED

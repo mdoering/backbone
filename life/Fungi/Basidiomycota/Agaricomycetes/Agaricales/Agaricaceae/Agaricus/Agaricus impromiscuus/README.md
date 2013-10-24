@@ -1,5 +1,4 @@
-Agaricus impromiscuus Britzelm. SPECIES
-=======
+# Agaricus impromiscuus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

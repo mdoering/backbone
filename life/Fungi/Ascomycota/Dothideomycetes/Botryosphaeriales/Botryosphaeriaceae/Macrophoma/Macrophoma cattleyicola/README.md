@@ -1,5 +1,4 @@
-Macrophoma cattleyicola var. cattleyicola VARIETY
-=======
+# Macrophoma cattleyicola Henn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 44: 123 (1905)
 
 #### Original name
-Macrophoma cattleyicola var. cattleyicola
+Macrophoma cattleyicola Henn.
 
 ### Remarks
 null

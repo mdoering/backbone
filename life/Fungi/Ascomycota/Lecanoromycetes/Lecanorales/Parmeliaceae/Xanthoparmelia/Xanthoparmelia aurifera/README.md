@@ -1,5 +1,4 @@
-Xanthoparmelia aurifera Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia aurifera Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

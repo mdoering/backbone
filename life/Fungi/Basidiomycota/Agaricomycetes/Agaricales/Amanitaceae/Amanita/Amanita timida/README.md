@@ -1,5 +1,4 @@
-Amanita timida Corner & Bas SPECIES
-=======
+# Amanita timida Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhipidiales M.W. Dick ORDER
-=======
+# Rhipidiales M.W. Dick ORDER
 
 #### Status
 ACCEPTED

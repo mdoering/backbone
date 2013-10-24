@@ -1,5 +1,4 @@
-Chattonella japonica SPECIES
-=======
+# Chattonella japonica SPECIES
 
 #### Status
 ACCEPTED

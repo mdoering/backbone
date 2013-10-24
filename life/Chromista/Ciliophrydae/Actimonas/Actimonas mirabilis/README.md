@@ -1,5 +1,4 @@
-Actimonas mirabilis SPECIES
-=======
+# Actimonas mirabilis SPECIES
 
 #### Status
 ACCEPTED

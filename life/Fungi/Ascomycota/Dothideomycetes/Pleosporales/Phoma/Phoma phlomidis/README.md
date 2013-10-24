@@ -1,5 +1,4 @@
-Phoma phlomidis (Lév.) Cooke, 1884 SPECIES
-=======
+# Phoma phlomidis (Lév.) Cooke, 1884 SPECIES
 
 #### Status
 ACCEPTED

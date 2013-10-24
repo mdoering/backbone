@@ -1,5 +1,4 @@
-Cortinarius mastoideus Fillion & Moënne-Locc. SPECIES
-=======
+# Cortinarius mastoideus Fillion & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

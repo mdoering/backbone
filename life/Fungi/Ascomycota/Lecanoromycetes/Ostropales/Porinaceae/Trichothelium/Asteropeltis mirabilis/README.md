@@ -1,5 +1,4 @@
-Asteropeltis mirabilis Rehm SPECIES
-=======
+# Asteropeltis mirabilis Rehm SPECIES
 
 #### Status
 ACCEPTED

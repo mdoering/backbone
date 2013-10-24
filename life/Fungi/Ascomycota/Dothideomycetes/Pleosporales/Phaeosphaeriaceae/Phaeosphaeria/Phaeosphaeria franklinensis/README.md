@@ -1,5 +1,4 @@
-Phaeosphaeria franklinensis Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria franklinensis Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

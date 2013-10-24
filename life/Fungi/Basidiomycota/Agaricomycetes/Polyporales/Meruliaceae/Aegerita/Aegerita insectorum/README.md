@@ -1,5 +1,4 @@
-Aegerita insectorum Petch SPECIES
-=======
+# Aegerita insectorum Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia nigeriensis C.W. Dodge SPECIES
-=======
+# Physcia nigeriensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

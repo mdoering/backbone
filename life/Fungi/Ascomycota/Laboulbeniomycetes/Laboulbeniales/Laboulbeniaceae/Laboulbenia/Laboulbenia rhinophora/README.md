@@ -1,5 +1,4 @@
-Laboulbenia rhinophora Thaxt. SPECIES
-=======
+# Laboulbenia rhinophora Thaxt. SPECIES
 
 #### Status
 ACCEPTED

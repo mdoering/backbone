@@ -1,5 +1,4 @@
-Hymenochaete frondosa Bres. SPECIES
-=======
+# Hymenochaete frondosa Bres. SPECIES
 
 #### Status
 ACCEPTED

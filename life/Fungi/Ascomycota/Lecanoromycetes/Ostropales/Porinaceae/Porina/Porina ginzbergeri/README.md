@@ -1,14 +1,13 @@
-Pseudosagedia ginzbergeri (Zahlbr.) Hafellner & Kalb SPECIES
-=======
+# Porina ginzbergeri Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 57: 174 (1995)
+Öst. bot. Z. 53: 150 (1903)
 
 #### Original name
 Porina ginzbergeri Zahlbr.

@@ -1,5 +1,4 @@
-Polystictus semisanguineus Lloyd SPECIES
-=======
+# Polystictus semisanguineus Lloyd SPECIES
 
 #### Status
 ACCEPTED

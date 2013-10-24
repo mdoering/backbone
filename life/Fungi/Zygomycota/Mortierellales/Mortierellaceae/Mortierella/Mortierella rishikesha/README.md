@@ -1,5 +1,4 @@
-Mortierella rishikesha B.S. Mehrotra & B.R. Mehrotra, 1964 SPECIES
-=======
+# Mortierella rishikesha B.S. Mehrotra & B.R. Mehrotra, 1964 SPECIES
 
 #### Status
 ACCEPTED

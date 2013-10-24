@@ -1,5 +1,4 @@
-Rhodotorula cycloclastica Thanh, M.S. Smit, Moleleki & Fell SPECIES
-=======
+# Rhodotorula cycloclastica Thanh, M.S. Smit, Moleleki & Fell SPECIES
 
 #### Status
 ACCEPTED

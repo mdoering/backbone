@@ -1,5 +1,4 @@
-Microsphaeropsis atrocylindrocollifera Matsush. SPECIES
-=======
+# Microsphaeropsis atrocylindrocollifera Matsush. SPECIES
 
 #### Status
 ACCEPTED

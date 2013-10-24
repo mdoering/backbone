@@ -1,14 +1,13 @@
-Gymnosporangium sikangense F. Kern, 1947 SPECIES
-=======
+# Roestelia sikangensis (Petr.) Jørst., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ark. Bot. 4(8): 363 (1959)
 
 #### Original name
 Gymnosporangium sikangense F. Kern, 1947

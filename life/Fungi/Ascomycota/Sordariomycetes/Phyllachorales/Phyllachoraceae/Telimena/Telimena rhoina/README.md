@@ -1,14 +1,13 @@
-Homostegia rhoina Ellis & Everh., 1897 SPECIES
-=======
+# Telimena rhoina (Ellis & Everh.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Erythea 5: 5 (1897)
+Annls mycol. 13(5/6): 600 (1915)
 
 #### Original name
 Homostegia rhoina Ellis & Everh., 1897

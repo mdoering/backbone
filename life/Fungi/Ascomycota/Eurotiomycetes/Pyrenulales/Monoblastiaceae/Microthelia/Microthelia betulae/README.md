@@ -1,5 +1,4 @@
-Microthelia betulae (Niessl) Kuntze SPECIES
-=======
+# Microthelia betulae (Niessl) Kuntze SPECIES
 
 #### Status
 ACCEPTED

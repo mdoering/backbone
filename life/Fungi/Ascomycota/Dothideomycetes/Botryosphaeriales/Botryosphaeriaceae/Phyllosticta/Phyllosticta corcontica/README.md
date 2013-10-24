@@ -1,5 +1,4 @@
-Phyllosticta corcontica Kabát & Bubák SPECIES
-=======
+# Phyllosticta corcontica Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

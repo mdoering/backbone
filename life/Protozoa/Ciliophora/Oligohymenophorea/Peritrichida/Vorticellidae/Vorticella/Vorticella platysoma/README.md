@@ -1,5 +1,4 @@
-Vorticella platysoma Stokes, 1887 SPECIES
-=======
+# Vorticella platysoma Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

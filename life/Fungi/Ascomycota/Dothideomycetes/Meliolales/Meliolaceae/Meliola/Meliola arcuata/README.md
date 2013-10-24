@@ -1,5 +1,4 @@
-Meliola arcuata Doidge SPECIES
-=======
+# Meliola arcuata Doidge SPECIES
 
 #### Status
 ACCEPTED

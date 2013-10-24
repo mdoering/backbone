@@ -1,5 +1,4 @@
-Rhysotheca ribicola (J. Schröt.) G.W. Wilson SPECIES
-=======
+# Rhysotheca ribicola (J. Schröt.) G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

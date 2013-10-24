@@ -1,5 +1,4 @@
-Clitocybe lata (Peck) Singer SPECIES
-=======
+# Clitocybe lata (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

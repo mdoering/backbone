@@ -1,5 +1,4 @@
-Asteromella pivensis (Bubák) Moesz ex Bat. & Peres SPECIES
-=======
+# Asteromella pivensis (Bubák) Moesz ex Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

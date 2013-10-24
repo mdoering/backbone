@@ -1,5 +1,4 @@
-Ustilago androsaces P. Karst. SPECIES
-=======
+# Ustilago androsaces P. Karst. SPECIES
 
 #### Status
 ACCEPTED

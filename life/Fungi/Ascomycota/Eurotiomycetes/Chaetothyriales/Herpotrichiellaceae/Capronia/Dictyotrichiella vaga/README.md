@@ -1,5 +1,4 @@
-Dictyotrichiella vaga (Rehm) Remler SPECIES
-=======
+# Dictyotrichiella vaga (Rehm) Remler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Thelephora aurantia var. aurantia VARIETY
-=======
+# Aleurodiscus aurantius (Pers.) J. Schröt., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(2532): 429 (1888)
 
 #### Original name
 null

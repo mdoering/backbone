@@ -1,5 +1,4 @@
-Stagonopsis sclerotioides Höhn. SPECIES
-=======
+# Stagonopsis sclerotioides Höhn. SPECIES
 
 #### Status
 ACCEPTED

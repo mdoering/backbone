@@ -1,5 +1,4 @@
-Rhagodiscus achlyostaurion SPECIES
-=======
+# Rhagodiscus achlyostaurion SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stichotricha acuminata Wang, 1930 SPECIES
-=======
+# Stichotricha acuminata Wang, 1930 SPECIES
 
 #### Status
 ACCEPTED

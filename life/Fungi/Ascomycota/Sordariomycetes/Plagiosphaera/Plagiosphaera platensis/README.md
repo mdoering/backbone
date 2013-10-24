@@ -1,5 +1,4 @@
-Plagiosphaera platensis (Speg.) J. Walker SPECIES
-=======
+# Plagiosphaera platensis (Speg.) J. Walker SPECIES
 
 #### Status
 ACCEPTED

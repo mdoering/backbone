@@ -1,5 +1,4 @@
-Synedra netronoides Hohn & Hellerm. SPECIES
-=======
+# Synedra netronoides Hohn & Hellerm. SPECIES
 
 #### Status
 ACCEPTED

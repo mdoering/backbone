@@ -1,5 +1,4 @@
-Sphaerella chardonii Gonz. Frag. & Cif. SPECIES
-=======
+# Sphaerella chardonii Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

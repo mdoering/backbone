@@ -1,5 +1,4 @@
-Microascus dimonatus Sage, Steiman, Seigle-Mur. & Guiraud SPECIES
-=======
+# Microascus dimonatus Sage, Steiman, Seigle-Mur. & Guiraud SPECIES
 
 #### Status
 ACCEPTED

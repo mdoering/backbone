@@ -1,5 +1,4 @@
-Sphaerosporium lignatile Schwein., 1832 SPECIES
-=======
+# Sphaerosporium lignatile Schwein., 1832 SPECIES
 
 #### Status
 ACCEPTED

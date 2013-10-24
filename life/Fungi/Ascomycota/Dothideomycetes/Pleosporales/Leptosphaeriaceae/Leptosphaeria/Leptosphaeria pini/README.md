@@ -1,5 +1,4 @@
-Leptosphaeria pini (Cruchet) E. Müll. SPECIES
-=======
+# Leptosphaeria pini (Cruchet) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorina rubicola (P. Crouan & H. Crouan) Arnold SPECIES
-=======
+# Biatorina rubicola (P. Crouan & H. Crouan) Arnold SPECIES
 
 #### Status
 ACCEPTED

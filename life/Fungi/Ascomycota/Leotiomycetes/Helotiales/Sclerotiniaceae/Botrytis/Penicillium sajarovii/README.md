@@ -1,5 +1,4 @@
-Penicillium sajarovii Quintan., 1981 SPECIES
-=======
+# Penicillium sajarovii Quintan., 1981 SPECIES
 
 #### Status
 DOUBTFUL

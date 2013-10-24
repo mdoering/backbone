@@ -1,5 +1,4 @@
-Nummularia vernicosa Ellis & Everh. SPECIES
-=======
+# Nummularia vernicosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

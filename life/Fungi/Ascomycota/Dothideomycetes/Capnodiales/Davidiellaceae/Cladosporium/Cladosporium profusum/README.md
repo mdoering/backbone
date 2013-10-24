@@ -1,5 +1,4 @@
-Cladosporium profusum var. profusum Desm. ex Sacc. VARIETY
-=======
+# Cladosporium profusum Desm. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 10: 602-603 (1892)
+Syll. fung. (Abellini) 10: 602 (1892)
 
 #### Original name
-Cladosporium profusum var. profusum Desm. ex Sacc.
+Cladosporium profusum Desm. ex Sacc.
 
 ### Remarks
 null

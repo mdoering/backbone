@@ -1,5 +1,4 @@
-Alphitomorpha corni Wallr. SPECIES
-=======
+# Alphitomorpha corni Wallr. SPECIES
 
 #### Status
 ACCEPTED

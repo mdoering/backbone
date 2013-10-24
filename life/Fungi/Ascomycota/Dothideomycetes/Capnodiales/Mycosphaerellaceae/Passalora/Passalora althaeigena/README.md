@@ -1,5 +1,4 @@
-Passalora althaeigena (J.M. Yen & S.K. Sun) U. Braun & Crous SPECIES
-=======
+# Passalora althaeigena (J.M. Yen & S.K. Sun) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

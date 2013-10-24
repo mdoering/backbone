@@ -1,5 +1,4 @@
-Pseudouvigerina plummerae Cushman SPECIES
-=======
+# Pseudouvigerina plummerae Cushman SPECIES
 
 #### Status
 ACCEPTED

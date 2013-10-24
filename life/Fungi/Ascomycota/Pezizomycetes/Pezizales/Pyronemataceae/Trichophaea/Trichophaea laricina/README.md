@@ -1,5 +1,4 @@
-Trichophaea laricina (Velen.) Svrcek SPECIES
-=======
+# Trichophaea laricina (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

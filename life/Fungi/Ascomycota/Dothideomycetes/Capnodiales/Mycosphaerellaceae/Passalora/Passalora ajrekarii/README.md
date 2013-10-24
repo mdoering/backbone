@@ -1,5 +1,4 @@
-Passalora ajrekarii var. ajrekarii VARIETY
-=======
+# Passalora ajrekarii (Syd. & P. Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

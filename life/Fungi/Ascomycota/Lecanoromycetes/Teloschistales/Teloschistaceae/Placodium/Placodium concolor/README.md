@@ -1,5 +1,4 @@
-Placodium concolor (Ramond) Körb. SPECIES
-=======
+# Placodium concolor (Ramond) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria lycii Kalchbr. SPECIES
-=======
+# Amphisphaeria lycii Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

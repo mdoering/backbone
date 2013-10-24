@@ -1,5 +1,4 @@
-Leptogium adhaerens (Grongnot {?} ) Zahlbr. SPECIES
-=======
+# Leptogium adhaerens (Grongnot {?} ) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

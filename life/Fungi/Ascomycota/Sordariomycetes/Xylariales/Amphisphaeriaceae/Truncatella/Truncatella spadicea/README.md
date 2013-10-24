@@ -1,5 +1,4 @@
-Truncatella spadicea S.J. Lee & Crous SPECIES
-=======
+# Truncatella spadicea S.J. Lee & Crous SPECIES
 
 #### Status
 ACCEPTED

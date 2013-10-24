@@ -1,5 +1,4 @@
-Tumidapexus ravus D.A. Crawford, 1954 SPECIES
-=======
+# Tumidapexus ravus D.A. Crawford, 1954 SPECIES
 
 #### Status
 ACCEPTED

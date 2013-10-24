@@ -1,5 +1,4 @@
-Cercostigmina thermopsidis (Earle) U. Braun SPECIES
-=======
+# Cercostigmina thermopsidis (Earle) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nocardia asiatica Kageyama et al., 2004 SPECIES
-=======
+# Nocardia asiatica Kageyama et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium saccharinum Berk. & M.A. Curtis SPECIES
-=======
+# Corticium saccharinum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

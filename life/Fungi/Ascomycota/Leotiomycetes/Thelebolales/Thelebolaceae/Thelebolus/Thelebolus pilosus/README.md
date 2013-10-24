@@ -1,5 +1,4 @@
-Thelebolus pilosus J. Schröt. SPECIES
-=======
+# Thelebolus pilosus J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

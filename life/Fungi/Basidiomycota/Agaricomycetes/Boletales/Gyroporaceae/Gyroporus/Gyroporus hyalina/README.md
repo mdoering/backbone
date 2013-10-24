@@ -1,5 +1,4 @@
-Gyroporus hyalina Murrill SPECIES
-=======
+# Gyroporus hyalina Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cibalocoryne GENUS
-=======
+# Cibalocoryne GENUS
 
 #### Status
 ACCEPTED

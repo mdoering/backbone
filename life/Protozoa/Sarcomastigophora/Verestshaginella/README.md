@@ -1,5 +1,4 @@
-Verestshaginella Botvinnik, 1983 GENUS
-=======
+# Verestshaginella Botvinnik, 1983 GENUS
 
 #### Status
 ACCEPTED

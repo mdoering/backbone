@@ -1,5 +1,4 @@
-Puccinia albida Dietel & Neger SPECIES
-=======
+# Puccinia albida Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

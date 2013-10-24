@@ -1,14 +1,13 @@
-Sphaerella michotii (Westend.) Auersw., 1869 SPECIES
-=======
+# Paraphaeosphaeria michotii (Westend.) O.E. Erikss., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. Abbildungen Sämmtlicher Pilze Europa's 5-6: 18 (1869)
+Cryptogams of the Himalayas 6: 405 (1967)
 
 #### Original name
 Sphaeria michotii Westend., 1859

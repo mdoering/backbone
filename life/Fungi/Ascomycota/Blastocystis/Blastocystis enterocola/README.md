@@ -1,5 +1,4 @@
-Blastocystis enterocola Alexeev, 1911 SPECIES
-=======
+# Blastocystis enterocola Alexeev, 1911 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopus cylindricus J.L. Mata SPECIES
-=======
+# Gymnopus cylindricus J.L. Mata SPECIES
 
 #### Status
 ACCEPTED

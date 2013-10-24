@@ -1,5 +1,4 @@
-Lepiota stata (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Lepiota stata (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

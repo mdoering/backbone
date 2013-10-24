@@ -1,5 +1,4 @@
-Rucinolithus L.Stover, 1966 GENUS
-=======
+# Rucinolithus L.Stover, 1966 GENUS
 
 #### Status
 ACCEPTED

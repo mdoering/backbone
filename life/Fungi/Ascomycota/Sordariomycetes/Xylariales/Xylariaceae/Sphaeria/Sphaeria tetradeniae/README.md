@@ -1,5 +1,4 @@
-Sphaeria tetradeniae Berk. & Broome SPECIES
-=======
+# Sphaeria tetradeniae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

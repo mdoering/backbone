@@ -1,5 +1,4 @@
-Chaetosphaeria indica Niessl SPECIES
-=======
+# Chaetosphaeria indica Niessl SPECIES
 
 #### Status
 ACCEPTED

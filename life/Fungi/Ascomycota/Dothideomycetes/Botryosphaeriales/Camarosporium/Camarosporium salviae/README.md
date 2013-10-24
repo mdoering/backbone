@@ -1,5 +1,4 @@
-Camarosporium salviae Pat. SPECIES
-=======
+# Camarosporium salviae Pat. SPECIES
 
 #### Status
 ACCEPTED

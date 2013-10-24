@@ -1,5 +1,4 @@
-Spumiosa spongiosa Chepikova, 1971 SPECIES
-=======
+# Spumiosa spongiosa Chepikova, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha frustulosa Vain. SPECIES
-=======
+# Opegrapha frustulosa Vain. SPECIES
 
 #### Status
 ACCEPTED

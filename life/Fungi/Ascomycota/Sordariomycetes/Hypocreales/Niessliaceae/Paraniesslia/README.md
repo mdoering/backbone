@@ -1,5 +1,4 @@
-Paraniesslia K.M. Tsui, K.D. Hyde & Hodgkiss GENUS
-=======
+# Paraniesslia K.M. Tsui, K.D. Hyde & Hodgkiss GENUS
 
 #### Status
 ACCEPTED

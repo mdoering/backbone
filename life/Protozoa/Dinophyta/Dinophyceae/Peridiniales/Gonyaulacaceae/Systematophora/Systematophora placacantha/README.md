@@ -1,5 +1,4 @@
-Systematophora placacantha (Deflandre & Cookson, 1955) Davey, Downie, Sarjeant & Williams, 1969 SPECIES
-=======
+# Systematophora placacantha (Deflandre & Cookson, 1955) Davey, Downie, Sarjeant & Williams, 1969 SPECIES
 
 #### Status
 ACCEPTED

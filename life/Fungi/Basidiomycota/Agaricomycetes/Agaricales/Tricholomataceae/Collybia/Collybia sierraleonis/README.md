@@ -1,5 +1,4 @@
-Collybia sierraleonis Beeli SPECIES
-=======
+# Collybia sierraleonis Beeli SPECIES
 
 #### Status
 ACCEPTED

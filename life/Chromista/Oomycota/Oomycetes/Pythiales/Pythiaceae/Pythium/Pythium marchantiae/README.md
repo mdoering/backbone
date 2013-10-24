@@ -1,5 +1,4 @@
-Pythium marchantiae Nicolas SPECIES
-=======
+# Pythium marchantiae Nicolas SPECIES
 
 #### Status
 ACCEPTED

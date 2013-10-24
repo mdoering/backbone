@@ -1,5 +1,4 @@
-Catolechia badia SPECIES
-=======
+# Catolechia badia SPECIES
 
 #### Status
 ACCEPTED

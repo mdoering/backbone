@@ -1,17 +1,16 @@
-Marssonina sandu-villeae Manoliu & Mítítíuc SPECIES
-=======
+# Marssonina sandu-villei Manoliu & Mítítíuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Feddes Repert. 87(1-2): 148 (1976)
 
 #### Original name
-Marssonina sandu-villeae Manoliu & Mítítíuc
+Marssonina sandu-villei Manoliu & Mítítíuc
 
 ### Remarks
 null

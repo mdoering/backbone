@@ -1,5 +1,4 @@
-Homostegia procedens Kirschst. SPECIES
-=======
+# Homostegia procedens Kirschst. SPECIES
 
 #### Status
 ACCEPTED

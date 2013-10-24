@@ -1,5 +1,4 @@
-Lecidea subcavatula B. de Lesd. SPECIES
-=======
+# Lecidea subcavatula B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kondylostoma GENUS
-=======
+# Kondylostoma GENUS
 
 #### Status
 ACCEPTED

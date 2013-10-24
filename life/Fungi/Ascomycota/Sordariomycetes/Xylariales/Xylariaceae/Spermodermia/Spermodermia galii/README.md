@@ -1,5 +1,4 @@
-Spermodermia galii Naumov SPECIES
-=======
+# Spermodermia galii Naumov SPECIES
 
 #### Status
 ACCEPTED

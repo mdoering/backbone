@@ -1,5 +1,4 @@
-Dirina insulae-howensis Sparrius SPECIES
-=======
+# Dirina insulae-howensis Sparrius SPECIES
 
 #### Status
 ACCEPTED

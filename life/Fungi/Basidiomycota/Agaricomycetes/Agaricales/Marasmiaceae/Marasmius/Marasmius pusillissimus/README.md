@@ -1,5 +1,4 @@
-Marasmius pusillissimus Desjardin & R.H. Petersen, 1989 SPECIES
-=======
+# Marasmius pusillissimus Desjardin & R.H. Petersen, 1989 SPECIES
 
 #### Status
 ACCEPTED

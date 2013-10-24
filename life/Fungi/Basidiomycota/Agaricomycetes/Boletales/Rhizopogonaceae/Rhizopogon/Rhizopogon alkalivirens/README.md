@@ -1,5 +1,4 @@
-Rhizopogon alkalivirens A.H. Sm. SPECIES
-=======
+# Rhizopogon alkalivirens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

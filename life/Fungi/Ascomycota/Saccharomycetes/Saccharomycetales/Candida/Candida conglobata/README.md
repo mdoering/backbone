@@ -1,14 +1,13 @@
-Torulopsis conglobata Redaelli, 1925 SPECIES
-=======
+# Candida conglobata (Redaelli) Cif., 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lodder, Manuale di Micologia Medica, Edn 2 2: 245 (1960)
 
 #### Original name
 null

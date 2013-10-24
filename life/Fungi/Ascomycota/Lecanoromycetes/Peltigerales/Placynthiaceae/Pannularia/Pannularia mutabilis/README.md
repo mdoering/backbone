@@ -1,5 +1,4 @@
-Pannularia mutabilis (Müll. Arg.) Stizenb. SPECIES
-=======
+# Pannularia mutabilis (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

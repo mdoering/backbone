@@ -1,5 +1,4 @@
-Acarosporium gregarium Hazsl. SPECIES
-=======
+# Acarosporium gregarium Hazsl. SPECIES
 
 #### Status
 ACCEPTED

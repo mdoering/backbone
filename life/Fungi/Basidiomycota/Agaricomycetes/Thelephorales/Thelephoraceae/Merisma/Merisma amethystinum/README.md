@@ -1,5 +1,4 @@
-Merisma amethystinum (Holmsk.) Spreng. SPECIES
-=======
+# Merisma amethystinum (Holmsk.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia belanophthalmae Thaxt. SPECIES
-=======
+# Rickia belanophthalmae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

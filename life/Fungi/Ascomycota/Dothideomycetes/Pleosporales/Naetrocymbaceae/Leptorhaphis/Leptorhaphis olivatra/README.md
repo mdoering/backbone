@@ -1,5 +1,4 @@
-Leptorhaphis olivatra (Norman) H. Magn. SPECIES
-=======
+# Leptorhaphis olivatra (Norman) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Termitomyces orientalis R. Heim SPECIES
-=======
+# Termitomyces orientalis R. Heim SPECIES
 
 #### Status
 ACCEPTED

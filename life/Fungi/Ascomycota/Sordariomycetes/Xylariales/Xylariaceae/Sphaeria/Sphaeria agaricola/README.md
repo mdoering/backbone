@@ -1,5 +1,4 @@
-Sphaeria agaricola Chaillet SPECIES
-=======
+# Sphaeria agaricola Chaillet SPECIES
 
 #### Status
 ACCEPTED

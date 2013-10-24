@@ -1,5 +1,4 @@
-Naucoria eucalypti Torrend SPECIES
-=======
+# Naucoria eucalypti Torrend SPECIES
 
 #### Status
 ACCEPTED

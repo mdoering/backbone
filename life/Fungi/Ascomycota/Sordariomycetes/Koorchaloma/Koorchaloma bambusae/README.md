@@ -1,5 +1,4 @@
-Koorchaloma bambusae Nag Raj SPECIES
-=======
+# Koorchaloma bambusae Nag Raj SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Excellospora rubrobrunea (Krasil'nikov et al., 1968) Agre & Guzeva, 1975 SPECIES
-=======
+# Actinomadura rubrobrunea (ex Krasil'nikov et al., 1968) Kroppenstedt et al., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

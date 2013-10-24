@@ -1,17 +1,16 @@
-Verrucaria macrostoma f. macrostoma FORM
-=======
+# Verrucaria macrostoma Dufour ex DC. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lambotte & De Candolle, Fl. franç. (Paris), Edn 3 2: 319 (1805)
+null
 
 #### Original name
-Verrucaria macrostoma f. macrostoma
+null
 
 ### Remarks
 null

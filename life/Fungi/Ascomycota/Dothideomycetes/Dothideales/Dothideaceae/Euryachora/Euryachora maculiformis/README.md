@@ -1,5 +1,4 @@
-Euryachora maculiformis E.E. Nel SPECIES
-=======
+# Euryachora maculiformis E.E. Nel SPECIES
 
 #### Status
 ACCEPTED

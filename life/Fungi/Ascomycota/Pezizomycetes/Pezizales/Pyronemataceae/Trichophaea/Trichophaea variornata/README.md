@@ -1,5 +1,4 @@
-Trichophaea variornata Korf & W.Y. Zhuang SPECIES
-=======
+# Trichophaea variornata Korf & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

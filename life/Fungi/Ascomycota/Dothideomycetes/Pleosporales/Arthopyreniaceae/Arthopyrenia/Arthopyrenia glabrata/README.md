@@ -1,5 +1,4 @@
-Arthopyrenia glabrata var. glabrata (Ach.) H. Olivier VARIETY
-=======
+# Arthopyrenia glabrata (Ach.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arthopyrenia glabrata var. glabrata (Ach.) H. Olivier
+Verrucaria glabrata Ach.
 
 ### Remarks
 null

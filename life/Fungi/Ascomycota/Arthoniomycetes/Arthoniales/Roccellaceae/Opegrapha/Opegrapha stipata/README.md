@@ -1,5 +1,4 @@
-Opegrapha stipata Chevall. SPECIES
-=======
+# Opegrapha stipata Chevall. SPECIES
 
 #### Status
 ACCEPTED

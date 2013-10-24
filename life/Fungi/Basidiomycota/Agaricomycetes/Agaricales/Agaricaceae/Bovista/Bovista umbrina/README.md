@@ -1,5 +1,4 @@
-Bovista umbrina Bottomley SPECIES
-=======
+# Bovista umbrina Bottomley SPECIES
 
 #### Status
 ACCEPTED

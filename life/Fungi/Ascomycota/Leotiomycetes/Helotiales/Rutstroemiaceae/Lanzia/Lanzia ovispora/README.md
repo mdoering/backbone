@@ -1,5 +1,4 @@
-Lanzia ovispora Spooner, 1987 SPECIES
-=======
+# Lanzia ovispora Spooner, 1987 SPECIES
 
 #### Status
 ACCEPTED

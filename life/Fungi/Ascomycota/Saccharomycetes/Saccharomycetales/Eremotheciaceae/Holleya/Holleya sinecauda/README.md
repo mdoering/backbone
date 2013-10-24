@@ -1,14 +1,13 @@
-Nematospora sinecauda Holley, 1984 SPECIES
-=======
+# Holleya sinecauda (Holley) Y. Yamada, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Holley, Allan-Wojtas & Phipps-Todd, Antonie van Leeuwenhoek 50(4): 309 (1984)
+J. gen. appl. Microbiol. , Tokyo 32(5): 448 (1986)
 
 #### Original name
 Nematospora sinecauda Holley, 1984

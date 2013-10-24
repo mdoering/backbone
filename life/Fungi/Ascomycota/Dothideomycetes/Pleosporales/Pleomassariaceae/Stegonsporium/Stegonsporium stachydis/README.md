@@ -1,8 +1,7 @@
-Stegonsporium stachydiae T.M. Achundov SPECIES
-=======
+# Stegonsporium stachydis T.M. Achundov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stegonsporium stachydiae T.M. Achundov
+Stegonsporium stachydis T.M. Achundov
 
 ### Remarks
 null

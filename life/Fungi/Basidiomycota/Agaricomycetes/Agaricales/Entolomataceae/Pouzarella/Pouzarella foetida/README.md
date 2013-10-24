@@ -1,5 +1,4 @@
-Pouzarella foetida Mazzer SPECIES
-=======
+# Pouzarella foetida Mazzer SPECIES
 
 #### Status
 ACCEPTED

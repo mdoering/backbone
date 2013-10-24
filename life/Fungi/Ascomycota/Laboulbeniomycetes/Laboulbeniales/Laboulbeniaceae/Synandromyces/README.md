@@ -1,5 +1,4 @@
-Synandromyces Thaxt. GENUS
-=======
+# Synandromyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

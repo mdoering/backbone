@@ -1,5 +1,4 @@
-Endocarpon quezelii Faurel & Schotter SPECIES
-=======
+# Endocarpon quezelii Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

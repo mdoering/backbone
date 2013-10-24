@@ -1,5 +1,4 @@
-Hypoxylon tessulatum Berk. SPECIES
-=======
+# Hypoxylon tessulatum Berk. SPECIES
 
 #### Status
 ACCEPTED

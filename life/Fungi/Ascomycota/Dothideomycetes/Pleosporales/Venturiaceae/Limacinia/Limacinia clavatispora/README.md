@@ -1,5 +1,4 @@
-Limacinia clavatispora W. Yamam. SPECIES
-=======
+# Limacinia clavatispora W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmeliopsis hyperopta f. angustifolia (Hillmann) Rass. FORM
-=======
+# Parmeliopsis hyperopta (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kopaczevskaja et al. , Nov. sist. Niz. Rast. , 1964 10: 196 (1973)
+Meddn Soc. Fauna Flora fenn. 6: 127 (1881)
 
 #### Original name
-Parmeliopsis hyperopta var. angustifolia Hillmann
+Parmelia hyperopta Ach.
 
 ### Remarks
 null

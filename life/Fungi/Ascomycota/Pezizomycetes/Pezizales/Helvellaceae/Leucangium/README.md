@@ -1,5 +1,4 @@
-Leucangium Quél. GENUS
-=======
+# Leucangium Quél. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pellicularia botryosum anon. SPECIES
-=======
+# Pellicularia botryosum anon. SPECIES
 
 #### Status
 ACCEPTED

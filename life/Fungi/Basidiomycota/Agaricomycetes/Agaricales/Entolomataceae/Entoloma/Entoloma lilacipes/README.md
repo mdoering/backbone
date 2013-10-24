@@ -1,5 +1,4 @@
-Entoloma lilacipes E. Horak SPECIES
-=======
+# Entoloma lilacipes E. Horak SPECIES
 
 #### Status
 ACCEPTED

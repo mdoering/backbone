@@ -1,5 +1,4 @@
-Legeriomyces grandis Juan Wang, Strongman & S.Q. Xu, 2010 SPECIES
-=======
+# Legeriomyces grandis Juan Wang, Strongman & S.Q. Xu, 2010 SPECIES
 
 #### Status
 ACCEPTED

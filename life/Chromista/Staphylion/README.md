@@ -1,5 +1,4 @@
-Staphylion Schröder, Medioli & Scott, 1989 GENUS
-=======
+# Staphylion Schröder, Medioli & Scott, 1989 GENUS
 
 #### Status
 ACCEPTED

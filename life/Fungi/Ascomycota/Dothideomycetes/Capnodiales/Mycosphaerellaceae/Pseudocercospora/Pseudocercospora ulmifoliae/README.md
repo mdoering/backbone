@@ -1,5 +1,4 @@
-Pseudocercospora ulmifoliae (Obreg.-Bot.) Deighton SPECIES
-=======
+# Pseudocercospora ulmifoliae (Obreg.-Bot.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucurbitaria citrina (Fr.) Kuntze SPECIES
-=======
+# Cucurbitaria citrina (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

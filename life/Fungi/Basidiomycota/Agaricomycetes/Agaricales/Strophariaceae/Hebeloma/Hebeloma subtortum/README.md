@@ -1,5 +1,4 @@
-Hebeloma subtortum P. Karst. SPECIES
-=======
+# Hebeloma subtortum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

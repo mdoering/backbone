@@ -1,5 +1,4 @@
-Lasiosphaeria multiseptata Earle SPECIES
-=======
+# Lasiosphaeria multiseptata Earle SPECIES
 
 #### Status
 ACCEPTED

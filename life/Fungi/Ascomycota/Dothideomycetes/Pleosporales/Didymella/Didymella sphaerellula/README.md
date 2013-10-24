@@ -1,5 +1,4 @@
-Didymella sphaerellula (Peck) Sacc. SPECIES
-=======
+# Didymella sphaerellula (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

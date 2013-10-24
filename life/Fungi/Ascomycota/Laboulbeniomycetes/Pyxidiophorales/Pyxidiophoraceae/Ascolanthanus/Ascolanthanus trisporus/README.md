@@ -1,5 +1,4 @@
-Ascolanthanus trisporus Cailleux SPECIES
-=======
+# Ascolanthanus trisporus Cailleux SPECIES
 
 #### Status
 ACCEPTED

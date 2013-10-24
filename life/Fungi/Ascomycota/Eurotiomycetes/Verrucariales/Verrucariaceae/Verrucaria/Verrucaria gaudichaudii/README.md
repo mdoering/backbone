@@ -1,5 +1,4 @@
-Verrucaria gaudichaudii Fée SPECIES
-=======
+# Verrucaria gaudichaudii Fée SPECIES
 
 #### Status
 ACCEPTED

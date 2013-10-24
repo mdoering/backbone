@@ -1,5 +1,4 @@
-Legionella anisa Gorman et al., 1985 SPECIES
-=======
+# Legionella anisa Gorman et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

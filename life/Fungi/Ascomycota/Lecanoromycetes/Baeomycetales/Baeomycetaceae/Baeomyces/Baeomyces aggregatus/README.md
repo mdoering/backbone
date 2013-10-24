@@ -1,5 +1,4 @@
-Baeomyces aggregatus Asahina SPECIES
-=======
+# Baeomyces aggregatus Asahina SPECIES
 
 #### Status
 ACCEPTED

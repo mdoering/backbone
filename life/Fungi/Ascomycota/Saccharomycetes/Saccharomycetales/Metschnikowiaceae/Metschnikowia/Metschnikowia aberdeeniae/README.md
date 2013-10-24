@@ -1,5 +1,4 @@
-Metschnikowia aberdeeniae Lachance & Starmer, 2006 SPECIES
-=======
+# Metschnikowia aberdeeniae Lachance & Starmer, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenina hyptidicola (F. Stevens) F. Stevens SPECIES
-=======
+# Irenina hyptidicola (F. Stevens) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

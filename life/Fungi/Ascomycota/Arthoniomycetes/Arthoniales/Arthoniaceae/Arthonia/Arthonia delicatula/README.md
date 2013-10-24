@@ -1,5 +1,4 @@
-Arthonia delicatula Müll. Arg. SPECIES
-=======
+# Arthonia delicatula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

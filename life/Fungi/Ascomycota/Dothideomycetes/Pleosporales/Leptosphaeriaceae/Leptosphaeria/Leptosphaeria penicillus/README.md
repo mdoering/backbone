@@ -1,5 +1,4 @@
-Leptosphaeria penicillus Sacc. SPECIES
-=======
+# Leptosphaeria penicillus Sacc. SPECIES
 
 #### Status
 ACCEPTED

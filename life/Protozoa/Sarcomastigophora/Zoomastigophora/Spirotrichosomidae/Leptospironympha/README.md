@@ -1,5 +1,4 @@
-Leptospironympha Cleveland, 1934 GENUS
-=======
+# Leptospironympha Cleveland, 1934 GENUS
 
 #### Status
 ACCEPTED

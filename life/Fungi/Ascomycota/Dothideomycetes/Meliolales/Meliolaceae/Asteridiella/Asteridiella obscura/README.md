@@ -1,5 +1,4 @@
-Asteridiella obscura (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella obscura (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

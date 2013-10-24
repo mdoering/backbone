@@ -1,5 +1,4 @@
-Cryptovalsa tenella Sacc. SPECIES
-=======
+# Cryptovalsa tenella Sacc. SPECIES
 
 #### Status
 ACCEPTED

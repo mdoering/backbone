@@ -1,5 +1,4 @@
-Epiplosphaera K.W. Klement, 1960 GENUS
-=======
+# Epiplosphaera K.W. Klement, 1960 GENUS
 
 #### Status
 ACCEPTED

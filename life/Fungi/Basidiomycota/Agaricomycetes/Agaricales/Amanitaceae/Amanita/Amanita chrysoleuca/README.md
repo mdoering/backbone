@@ -1,5 +1,4 @@
-Amanita chrysoleuca Pegler SPECIES
-=======
+# Amanita chrysoleuca Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sticta psilophylla Müll. Arg. SPECIES
-=======
+# Pseudocyphellaria chloroleuca (Hook. f. & Taylor) Du Rietz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 31: 29 (1892)
+Bot. Notiser 53 (1924)
 
 #### Original name
-Sticta psilophylla Müll. Arg.
+Sticta chloroleuca Hook. f. & Taylor
 
 ### Remarks
 null

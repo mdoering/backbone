@@ -1,5 +1,4 @@
-Helotium lachnoides Velen. SPECIES
-=======
+# Helotium lachnoides Velen. SPECIES
 
 #### Status
 ACCEPTED

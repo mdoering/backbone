@@ -1,5 +1,4 @@
-Gymnodinium regulare Van Meel SPECIES
-=======
+# Gymnodinium regulare Van Meel SPECIES
 
 #### Status
 ACCEPTED

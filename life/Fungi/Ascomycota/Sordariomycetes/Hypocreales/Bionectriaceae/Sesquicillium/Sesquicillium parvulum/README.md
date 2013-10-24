@@ -1,5 +1,4 @@
-Sesquicillium parvulum Veenb.-Rijks SPECIES
-=======
+# Sesquicillium parvulum Veenb.-Rijks SPECIES
 
 #### Status
 ACCEPTED

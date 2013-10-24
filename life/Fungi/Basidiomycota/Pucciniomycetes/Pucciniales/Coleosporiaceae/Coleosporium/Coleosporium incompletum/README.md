@@ -1,5 +1,4 @@
-Coleosporium incompletum Cummins SPECIES
-=======
+# Coleosporium incompletum Cummins SPECIES
 
 #### Status
 ACCEPTED

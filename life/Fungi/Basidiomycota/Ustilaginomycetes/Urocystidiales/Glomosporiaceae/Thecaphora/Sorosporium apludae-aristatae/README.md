@@ -1,5 +1,4 @@
-Sorosporium apludae-aristatae B.V. Patil & Thirum. SPECIES
-=======
+# Sorosporium apludae-aristatae B.V. Patil & Thirum. SPECIES
 
 #### Status
 ACCEPTED

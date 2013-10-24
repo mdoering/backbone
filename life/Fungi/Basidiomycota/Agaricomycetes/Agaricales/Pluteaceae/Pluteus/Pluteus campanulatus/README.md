@@ -1,5 +1,4 @@
-Pluteus campanulatus Murrill SPECIES
-=======
+# Pluteus campanulatus Murrill SPECIES
 
 #### Status
 ACCEPTED

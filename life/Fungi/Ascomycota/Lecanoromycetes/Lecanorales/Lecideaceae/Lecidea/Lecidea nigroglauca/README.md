@@ -1,5 +1,4 @@
-Lecidea nigroglauca Vain. SPECIES
-=======
+# Lecidea nigroglauca Vain. SPECIES
 
 #### Status
 ACCEPTED

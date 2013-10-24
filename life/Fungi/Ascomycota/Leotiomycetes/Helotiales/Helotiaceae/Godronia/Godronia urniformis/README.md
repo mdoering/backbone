@@ -1,5 +1,4 @@
-Godronia urniformis Huhtinen SPECIES
-=======
+# Godronia urniformis Huhtinen SPECIES
 
 #### Status
 ACCEPTED

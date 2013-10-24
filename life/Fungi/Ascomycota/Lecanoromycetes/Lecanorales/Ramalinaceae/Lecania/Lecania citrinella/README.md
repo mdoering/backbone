@@ -1,5 +1,4 @@
-Lecania citrinella Samp. SPECIES
-=======
+# Lecania citrinella Samp. SPECIES
 
 #### Status
 ACCEPTED

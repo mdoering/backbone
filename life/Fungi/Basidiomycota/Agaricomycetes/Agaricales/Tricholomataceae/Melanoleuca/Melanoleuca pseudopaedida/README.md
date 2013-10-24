@@ -1,5 +1,4 @@
-Melanoleuca pseudopaedida Bon SPECIES
-=======
+# Melanoleuca pseudopaedida Bon SPECIES
 
 #### Status
 ACCEPTED

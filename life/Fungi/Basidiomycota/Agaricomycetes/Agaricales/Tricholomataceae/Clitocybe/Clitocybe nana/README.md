@@ -1,5 +1,4 @@
-Clitocybe nana (Massee) Sacc. & Trotter SPECIES
-=======
+# Clitocybe nana (Massee) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia circinata Th. Fr. SPECIES
-=======
+# Arthonia circinata Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

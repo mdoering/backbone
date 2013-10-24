@@ -1,5 +1,4 @@
-Hendersonia pilulariae Petr. SPECIES
-=======
+# Hendersonia pilulariae Petr. SPECIES
 
 #### Status
 ACCEPTED

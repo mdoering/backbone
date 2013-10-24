@@ -1,5 +1,4 @@
-Hypholoma foetidissimum Velen. SPECIES
-=======
+# Hypholoma foetidissimum Velen. SPECIES
 
 #### Status
 ACCEPTED

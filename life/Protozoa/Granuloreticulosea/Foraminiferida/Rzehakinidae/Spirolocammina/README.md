@@ -1,5 +1,4 @@
-Spirolocammina Earland, 1934 GENUS
-=======
+# Spirolocammina Earland, 1934 GENUS
 
 #### Status
 ACCEPTED

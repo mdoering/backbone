@@ -1,5 +1,4 @@
-Lingulina herdmani Chaster, 1892 SPECIES
-=======
+# Lingulina herdmani Chaster, 1892 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo jericosensis Pardo-Card. SPECIES
-=======
+# Uredo jericosensis Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

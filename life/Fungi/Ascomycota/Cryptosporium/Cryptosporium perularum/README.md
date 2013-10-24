@@ -1,5 +1,4 @@
-Cryptosporium perularum Thüm. SPECIES
-=======
+# Cryptosporium perularum Thüm. SPECIES
 
 #### Status
 ACCEPTED

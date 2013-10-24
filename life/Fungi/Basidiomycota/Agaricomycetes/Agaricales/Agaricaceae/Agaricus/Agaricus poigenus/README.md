@@ -1,5 +1,4 @@
-Agaricus poigenus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus poigenus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

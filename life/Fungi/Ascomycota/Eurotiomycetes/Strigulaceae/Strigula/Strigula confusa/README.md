@@ -1,5 +1,4 @@
-Strigula confusa Fryday, Coppins & Common SPECIES
-=======
+# Strigula confusa Fryday, Coppins & Common SPECIES
 
 #### Status
 ACCEPTED

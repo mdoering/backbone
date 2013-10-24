@@ -1,17 +1,16 @@
-Diplonaevia muellerii B. Hein & Scheuer SPECIES
-=======
+# Diplonaevia muelleri B. Hein & Scheuer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 38: 125 (1986)
 
 #### Original name
-Diplonaevia muellerii B. Hein & Scheuer
+Diplonaevia muelleri B. Hein & Scheuer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Wettsteiniella GENUS
-=======
+# Wettsteiniella GENUS
 
 #### Status
 ACCEPTED

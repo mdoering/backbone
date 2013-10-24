@@ -1,5 +1,4 @@
-Hysterographium minutulum Sacc. SPECIES
-=======
+# Hysterographium minutulum Sacc. SPECIES
 
 #### Status
 ACCEPTED

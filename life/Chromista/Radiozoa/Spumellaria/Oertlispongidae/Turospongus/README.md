@@ -1,5 +1,4 @@
-Turospongus Kozur & Mostler, 1994 GENUS
-=======
+# Turospongus Kozur & Mostler, 1994 GENUS
 
 #### Status
 ACCEPTED

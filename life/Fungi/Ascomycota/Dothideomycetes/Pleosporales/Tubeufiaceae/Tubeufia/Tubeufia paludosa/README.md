@@ -1,14 +1,13 @@
-Tubeufia coronata Penz. & Sacc., 1897 SPECIES
-=======
+# Tubeufia paludosa (P. Crouan & H. Crouan) Rossman, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 69(2): 383 (1977)
 
 #### Original name
 null

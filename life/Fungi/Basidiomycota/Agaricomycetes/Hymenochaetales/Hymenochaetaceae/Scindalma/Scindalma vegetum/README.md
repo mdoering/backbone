@@ -1,5 +1,4 @@
-Scindalma vegetum (Fr.) Kuntze SPECIES
-=======
+# Scindalma vegetum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

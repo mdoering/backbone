@@ -1,5 +1,4 @@
-Podosporium penicillatum (Lév.) Cif. SPECIES
-=======
+# Podosporium penicillatum (Lév.) Cif. SPECIES
 
 #### Status
 ACCEPTED

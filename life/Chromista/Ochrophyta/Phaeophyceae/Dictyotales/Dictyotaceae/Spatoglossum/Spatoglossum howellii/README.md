@@ -1,5 +1,4 @@
-Spatoglossum howellii Setchell & N.L.Gardner, 1937 SPECIES
-=======
+# Spatoglossum howellii Setchell & N.L.Gardner, 1937 SPECIES
 
 #### Status
 ACCEPTED

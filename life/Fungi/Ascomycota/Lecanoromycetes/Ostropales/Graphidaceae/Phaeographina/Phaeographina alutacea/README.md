@@ -1,5 +1,4 @@
-Phaeographina alutacea SPECIES
-=======
+# Phaeographina alutacea SPECIES
 
 #### Status
 ACCEPTED

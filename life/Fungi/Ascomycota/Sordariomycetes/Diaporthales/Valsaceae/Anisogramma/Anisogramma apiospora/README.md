@@ -1,14 +1,13 @@
-Apioporthe apiospora (Ellis & Everh.) Wehm., 1923 SPECIES
-=======
+# Anisogramma apiospora (Ellis & Everh.) Merezhko, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of the Genus Diaporthe Nitschke & its Segregates 224 (1923)
+in Smitskaya, Smyk & Merezhko, Opredelitel' Pirenomitsetov USSR (Kiev) 258 (1986)
 
 #### Original name
 Diaporthe apiospora Ellis & Everh., 1893

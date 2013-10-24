@@ -1,5 +1,4 @@
-Enchelyodon tratzi Foissner, 1987 SPECIES
-=======
+# Enchelyodon tratzi Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

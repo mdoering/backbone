@@ -1,5 +1,4 @@
-Mycena nargan Grgur. SPECIES
-=======
+# Mycena nargan Grgur. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium ocoteae F. Stevens SPECIES
-=======
+# Helminthosporium ocoteae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

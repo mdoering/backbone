@@ -1,5 +1,4 @@
-Naegleria lovaniensis Steven, et Al., 1980 SPECIES
-=======
+# Naegleria lovaniensis Steven, et Al., 1980 SPECIES
 
 #### Status
 ACCEPTED

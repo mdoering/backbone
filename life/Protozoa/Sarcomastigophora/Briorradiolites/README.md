@@ -1,5 +1,4 @@
-Briorradiolites Alvira Martin, 1972 GENUS
-=======
+# Briorradiolites Alvira Martin, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella pipturi (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella pipturi (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

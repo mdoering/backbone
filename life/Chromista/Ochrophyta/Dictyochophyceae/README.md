@@ -1,5 +1,4 @@
-Dictyochophyceae P.C. Silva, 1980 CLASS
-=======
+# Dictyochophyceae P.C. Silva, 1980 CLASS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema pachysporum (Hale) Hale SPECIES
-=======
+# Parmotrema pachysporum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

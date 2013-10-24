@@ -1,5 +1,4 @@
-Uromyces bidenticola Arthur, 1917 SPECIES
-=======
+# Uromyces bidenticola Arthur, 1917 SPECIES
 
 #### Status
 ACCEPTED

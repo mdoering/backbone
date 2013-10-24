@@ -1,5 +1,4 @@
-Verrucaria cryptica (Arnold) J. Steiner SPECIES
-=======
+# Verrucaria cryptica (Arnold) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

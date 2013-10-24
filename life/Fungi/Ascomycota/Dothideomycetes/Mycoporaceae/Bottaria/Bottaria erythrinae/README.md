@@ -1,5 +1,4 @@
-Bottaria erythrinae SPECIES
-=======
+# Bottaria erythrinae SPECIES
 
 #### Status
 ACCEPTED

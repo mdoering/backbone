@@ -1,5 +1,4 @@
-Colpidium putrinum Stokes, 1886 SPECIES
-=======
+# Colpidium putrinum Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

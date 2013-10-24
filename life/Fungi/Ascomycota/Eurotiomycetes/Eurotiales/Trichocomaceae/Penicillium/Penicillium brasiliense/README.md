@@ -1,5 +1,4 @@
-Penicillium brasiliense var. brasiliense VARIETY
-=======
+# Penicillium brasiliense Thom SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+The Penicillia 483 (1930)
 
 #### Original name
-Penicillium brasiliense var. brasiliense
+Penicillium brasiliense Thom
 
 ### Remarks
 null

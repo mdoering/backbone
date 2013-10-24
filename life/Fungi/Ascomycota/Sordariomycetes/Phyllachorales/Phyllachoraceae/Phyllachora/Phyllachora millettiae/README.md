@@ -1,5 +1,4 @@
-Phyllachora millettiae ghanica P.F. Cannon, 1991 INFRASPECIFIC_NAME
-=======
+# Phyllachora millettiae SPECIES
 
 #### Status
 ACCEPTED

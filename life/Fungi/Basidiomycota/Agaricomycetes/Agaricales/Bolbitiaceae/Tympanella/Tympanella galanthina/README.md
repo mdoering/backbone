@@ -1,17 +1,16 @@
-Agaricus galanthinus Cooke & Massee, 1890 SPECIES
-=======
+# Tympanella galanthina (Cooke & Massee) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cooke, Grevillea 19(no. 89): 1 (1890)
+N. Z. Jl Bot. 9(3): 485 (1971)
 
 #### Original name
-Agaricus galanthinus Cooke & Massee, 1890
+Naucoria galanthina (Cooke & Massee) Sacc., 1891
 
 ### Remarks
 null

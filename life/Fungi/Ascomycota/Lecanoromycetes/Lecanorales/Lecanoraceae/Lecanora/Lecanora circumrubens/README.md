@@ -1,5 +1,4 @@
-Lecanora circumrubens Samp. SPECIES
-=======
+# Lecanora circumrubens Samp. SPECIES
 
 #### Status
 ACCEPTED

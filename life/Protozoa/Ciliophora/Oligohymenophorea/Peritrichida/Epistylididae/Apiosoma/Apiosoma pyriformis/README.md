@@ -1,5 +1,4 @@
-Apiosoma pyriformis SPECIES
-=======
+# Apiosoma pyriformis SPECIES
 
 #### Status
 ACCEPTED

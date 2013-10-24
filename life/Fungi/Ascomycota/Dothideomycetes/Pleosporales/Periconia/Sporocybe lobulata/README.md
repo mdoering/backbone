@@ -1,5 +1,4 @@
-Sporocybe lobulata Berk., 1841 SPECIES
-=======
+# Sporocybe lobulata Berk., 1841 SPECIES
 
 #### Status
 ACCEPTED

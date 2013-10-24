@@ -1,5 +1,4 @@
-Acarospora applanata H. Magn. SPECIES
-=======
+# Acarospora applanata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

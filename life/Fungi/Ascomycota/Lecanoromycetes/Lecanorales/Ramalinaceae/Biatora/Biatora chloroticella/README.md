@@ -1,5 +1,4 @@
-Biatora chloroticella anon. SPECIES
-=======
+# Biatora chloroticella anon. SPECIES
 
 #### Status
 ACCEPTED

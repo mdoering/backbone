@@ -1,5 +1,4 @@
-Polystictus albobadius Lloyd SPECIES
-=======
+# Polystictus albobadius Lloyd SPECIES
 
 #### Status
 ACCEPTED

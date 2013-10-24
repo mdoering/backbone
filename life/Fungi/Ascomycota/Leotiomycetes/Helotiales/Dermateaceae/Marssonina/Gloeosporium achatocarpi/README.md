@@ -1,5 +1,4 @@
-Gloeosporium achatocarpi Speg. SPECIES
-=======
+# Gloeosporium achatocarpi Speg. SPECIES
 
 #### Status
 ACCEPTED

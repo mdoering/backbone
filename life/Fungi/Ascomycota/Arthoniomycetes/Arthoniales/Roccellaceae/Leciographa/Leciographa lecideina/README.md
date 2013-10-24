@@ -1,5 +1,4 @@
-Leciographa lecideina Rehm SPECIES
-=======
+# Leciographa lecideina Rehm SPECIES
 
 #### Status
 ACCEPTED

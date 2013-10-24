@@ -1,5 +1,4 @@
-Meliola kibviae SPECIES
-=======
+# Meliola kibviae SPECIES
 
 #### Status
 ACCEPTED

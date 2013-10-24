@@ -1,5 +1,4 @@
-Graphium sacchari Speg. SPECIES
-=======
+# Graphium sacchari Speg. SPECIES
 
 #### Status
 ACCEPTED

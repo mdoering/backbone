@@ -1,5 +1,4 @@
-Arthoniactis chilena C.W. Dodge SPECIES
-=======
+# Arthoniactis chilena C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

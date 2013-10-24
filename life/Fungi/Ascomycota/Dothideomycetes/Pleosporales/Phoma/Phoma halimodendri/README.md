@@ -1,5 +1,4 @@
-Phoma halimodendri Murashk. SPECIES
-=======
+# Phoma halimodendri Murashk. SPECIES
 
 #### Status
 ACCEPTED

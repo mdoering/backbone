@@ -1,5 +1,4 @@
-Schizoplasmodium cavostelioides L.S. Olive & Stoian., 1966 SPECIES
-=======
+# Schizoplasmodium cavostelioides L.S. Olive & Stoian., 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina terraereginae P. M. McCarthy, Lücking & Vezda SPECIES
-=======
+# Porina terraereginae P. M. McCarthy, Lücking & Vezda SPECIES
 
 #### Status
 ACCEPTED

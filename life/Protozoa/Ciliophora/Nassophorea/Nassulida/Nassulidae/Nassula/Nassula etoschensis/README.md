@@ -1,5 +1,4 @@
-Nassula etoschensis Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Nassula etoschensis Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

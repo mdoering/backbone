@@ -1,5 +1,4 @@
-Scytalidium hyalinum C.K. Campb. & J.L. Mulder, 1977 SPECIES
-=======
+# Scytalidium hyalinum C.K. Campb. & J.L. Mulder, 1977 SPECIES
 
 #### Status
 ACCEPTED

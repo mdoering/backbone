@@ -1,5 +1,4 @@
-Paleoslimacomyces minutus (Rouse & Mustard) Kalgutkar & Janson. SPECIES
-=======
+# Paleoslimacomyces minutus (Rouse & Mustard) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

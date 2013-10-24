@@ -1,5 +1,4 @@
-Septoria dioscoreicola G.Z. Lu & J.K. Bai SPECIES
-=======
+# Septoria dioscoreicola G.Z. Lu & J.K. Bai SPECIES
 
 #### Status
 ACCEPTED

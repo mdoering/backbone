@@ -1,5 +1,4 @@
-Keissleriomyces D. Hawksw. GENUS
-=======
+# Keissleriomyces D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

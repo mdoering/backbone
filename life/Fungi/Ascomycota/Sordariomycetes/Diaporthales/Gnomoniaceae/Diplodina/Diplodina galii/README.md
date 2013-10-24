@@ -1,17 +1,16 @@
-Diplodina galii var. discedens Strasser VARIETY
-=======
+# Diplodina galii (Niessl) Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wien 69: 375 (1919)
+Syll. fung. (Abellini) 3: 412 (1884)
 
 #### Original name
-Diplodina galii var. discedens Strasser
+Diplodia galii Niessl, 1864
 
 ### Remarks
 null

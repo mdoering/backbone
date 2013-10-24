@@ -1,5 +1,4 @@
-Calycellina viridiflavescens (Rehm) Raitv. SPECIES
-=======
+# Calycellina viridiflavescens (Rehm) Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus horakii Heinem., 1974 SPECIES
-=======
+# Agaricus horakii Heinem., 1974 SPECIES
 
 #### Status
 ACCEPTED

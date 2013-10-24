@@ -1,5 +1,4 @@
-Daldinia albofibrosa M. Stadler, M. Baumgartner & Wollw., 2001 SPECIES
-=======
+# Daldinia albofibrosa M. Stadler, M. Baumgartner & Wollw., 2001 SPECIES
 
 #### Status
 ACCEPTED

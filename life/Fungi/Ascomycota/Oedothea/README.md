@@ -1,5 +1,4 @@
-Oedothea Syd. GENUS
-=======
+# Oedothea Syd. GENUS
 
 #### Status
 ACCEPTED

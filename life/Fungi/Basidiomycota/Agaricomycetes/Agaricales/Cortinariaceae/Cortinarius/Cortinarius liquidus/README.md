@@ -1,5 +1,4 @@
-Cortinarius liquidus Fr. SPECIES
-=======
+# Cortinarius liquidus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polythrichoides T.N. Hermann in B.V. Timofeev, 1974 GENUS
-=======
+# Polythrichoides T.N. Hermann in B.V. Timofeev, 1974 GENUS
 
 #### Status
 ACCEPTED

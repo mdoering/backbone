@@ -1,5 +1,4 @@
-Aecidium albiceratum Cummins SPECIES
-=======
+# Aecidium albiceratum Cummins SPECIES
 
 #### Status
 ACCEPTED

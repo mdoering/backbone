@@ -1,14 +1,13 @@
-Polyporus goetzei Henn., 1901 SPECIES
-=======
+# Lignosus goetzei (Henn.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 30: 255 (1901)
+Norw. Jl Bot. 19: 232 (1972)
 
 #### Original name
 Polyporus goetzei Henn., 1901

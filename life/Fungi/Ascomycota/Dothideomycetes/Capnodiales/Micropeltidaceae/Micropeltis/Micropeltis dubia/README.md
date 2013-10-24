@@ -1,5 +1,4 @@
-Micropeltis dubia Beeli SPECIES
-=======
+# Micropeltis dubia Beeli SPECIES
 
 #### Status
 ACCEPTED

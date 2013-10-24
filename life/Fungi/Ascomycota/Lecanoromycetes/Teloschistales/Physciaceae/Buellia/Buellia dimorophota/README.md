@@ -1,5 +1,4 @@
-Buellia dimorophota (Hue) Darb. SPECIES
-=======
+# Buellia dimorophota (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

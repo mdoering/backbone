@@ -1,17 +1,16 @@
-Russula palumbina subsp. palumbina SUBSPECIES
-=======
+# Russula grisea (Batsch) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 361 (1838)
 
 #### Original name
-null
+Agaricus griseus Batsch, 1786
 
 ### Remarks
 null

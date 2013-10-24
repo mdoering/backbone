@@ -1,5 +1,4 @@
-Agaricus eludens Peck SPECIES
-=======
+# Agaricus eludens Peck SPECIES
 
 #### Status
 ACCEPTED

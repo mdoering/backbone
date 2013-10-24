@@ -1,5 +1,4 @@
-Stereocaulon lambii Dombr. SPECIES
-=======
+# Stereocaulon lambii Dombr. SPECIES
 
 #### Status
 ACCEPTED

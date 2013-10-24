@@ -1,5 +1,4 @@
-Melosira crotonensis (J.W.Bail.) H.L. Smith SPECIES
-=======
+# Melosira crotonensis (J.W.Bail.) H.L. Smith SPECIES
 
 #### Status
 ACCEPTED

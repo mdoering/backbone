@@ -1,5 +1,4 @@
-Pirottaea plantaginis Graddon, 1990 SPECIES
-=======
+# Pirottaea plantaginis Graddon, 1990 SPECIES
 
 #### Status
 ACCEPTED

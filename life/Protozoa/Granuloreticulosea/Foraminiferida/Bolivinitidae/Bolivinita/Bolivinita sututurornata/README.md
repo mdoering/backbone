@@ -1,5 +1,4 @@
-Bolivinita sututurornata Zhang, 1988 SPECIES
-=======
+# Bolivinita sututurornata Zhang, 1988 SPECIES
 
 #### Status
 ACCEPTED

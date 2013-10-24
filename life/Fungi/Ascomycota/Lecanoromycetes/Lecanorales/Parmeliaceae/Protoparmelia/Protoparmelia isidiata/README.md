@@ -1,5 +1,4 @@
-Protoparmelia isidiata Diederich, Aptroot & Sérus. SPECIES
-=======
+# Protoparmelia isidiata Diederich, Aptroot & Sérus. SPECIES
 
 #### Status
 ACCEPTED

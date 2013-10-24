@@ -1,5 +1,4 @@
-Spiloma reniformis SPECIES
-=======
+# Spiloma reniformis SPECIES
 
 #### Status
 ACCEPTED

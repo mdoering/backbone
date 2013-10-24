@@ -1,5 +1,4 @@
-Marasmius pseudocupressiformis var. pseudocupressiformis VARIETY
-=======
+# Marasmius pseudocupressiformis Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fieldiana, Bot. 21: 53 (1989)
 
 #### Original name
-Marasmius pseudocupressiformis var. pseudocupressiformis
+Marasmius pseudocupressiformis Singer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Emericella indica Stchigel & Guarro SPECIES
-=======
+# Emericella indica Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heptaster hughesii Cif., Bat. & Nascim., 1956 SPECIES
-=======
+# Heptaster hughesii Cif., Bat. & Nascim., 1956 SPECIES
 
 #### Status
 ACCEPTED

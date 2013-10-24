@@ -1,5 +1,4 @@
-Fusichalara clavatispora P.M. Kirk, 1984 SPECIES
-=======
+# Fusichalara clavatispora P.M. Kirk, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeobotrys acutisporum (Matsush.) M. Calduch, Gené & Guarro, 2002 SPECIES
-=======
+# Phaeobotrys acutisporum (Matsush.) M. Calduch, Gené & Guarro, 2002 SPECIES
 
 #### Status
 ACCEPTED

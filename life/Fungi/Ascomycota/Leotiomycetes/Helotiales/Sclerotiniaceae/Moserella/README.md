@@ -1,5 +1,4 @@
-Moserella Pöder & Scheuer GENUS
-=======
+# Moserella Pöder & Scheuer GENUS
 
 #### Status
 ACCEPTED

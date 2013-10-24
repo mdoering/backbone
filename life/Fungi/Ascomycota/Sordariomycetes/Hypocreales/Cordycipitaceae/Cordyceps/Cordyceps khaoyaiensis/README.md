@@ -1,5 +1,4 @@
-Cordyceps khaoyaiensis Hywel-Jones SPECIES
-=======
+# Cordyceps khaoyaiensis Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

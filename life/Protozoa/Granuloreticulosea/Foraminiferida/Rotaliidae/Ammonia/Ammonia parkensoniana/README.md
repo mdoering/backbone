@@ -1,5 +1,4 @@
-Ammonia parkensoniana (d'Orbigny, 1839) SPECIES
-=======
+# Ammonia parkensoniana (d'Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

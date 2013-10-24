@@ -1,5 +1,4 @@
-Fusarium neglectum Jacz. SPECIES
-=======
+# Fusarium neglectum Jacz. SPECIES
 
 #### Status
 ACCEPTED

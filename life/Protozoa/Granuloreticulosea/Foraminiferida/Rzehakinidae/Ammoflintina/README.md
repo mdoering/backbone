@@ -1,5 +1,4 @@
-Ammoflintina Earland, 1934 GENUS
-=======
+# Ammoflintina Earland, 1934 GENUS
 
 #### Status
 ACCEPTED

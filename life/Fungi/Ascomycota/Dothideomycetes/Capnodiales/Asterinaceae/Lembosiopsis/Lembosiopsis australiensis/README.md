@@ -1,5 +1,4 @@
-Lembosiopsis australiensis Hansf. SPECIES
-=======
+# Lembosiopsis australiensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

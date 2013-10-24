@@ -1,5 +1,4 @@
-Collemopsidiomyces iocarpi Cif. & Tomas. SPECIES
-=======
+# Collemopsidiomyces iocarpi Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

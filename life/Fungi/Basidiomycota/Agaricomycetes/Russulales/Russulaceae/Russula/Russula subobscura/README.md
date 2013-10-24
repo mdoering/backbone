@@ -1,5 +1,4 @@
-Russula subobscura Murrill SPECIES
-=======
+# Russula subobscura Murrill SPECIES
 
 #### Status
 ACCEPTED

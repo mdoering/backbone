@@ -1,5 +1,4 @@
-Lecidea proximans Nyl. SPECIES
-=======
+# Lecidea proximans Nyl. SPECIES
 
 #### Status
 ACCEPTED

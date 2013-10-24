@@ -1,5 +1,4 @@
-Arthonia confluens Fée SPECIES
-=======
+# Arthonia confluens Fée SPECIES
 
 #### Status
 ACCEPTED

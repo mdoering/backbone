@@ -1,5 +1,4 @@
-Euzebyaceae FAMILY
-=======
+# Euzebyaceae FAMILY
 
 #### Status
 ACCEPTED

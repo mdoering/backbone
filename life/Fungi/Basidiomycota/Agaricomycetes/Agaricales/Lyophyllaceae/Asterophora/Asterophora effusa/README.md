@@ -1,5 +1,4 @@
-Asterophora effusa Schwein. SPECIES
-=======
+# Asterophora effusa Schwein. SPECIES
 
 #### Status
 ACCEPTED

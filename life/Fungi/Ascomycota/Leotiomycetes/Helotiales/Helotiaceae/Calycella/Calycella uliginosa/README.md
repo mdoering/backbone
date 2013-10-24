@@ -1,17 +1,16 @@
-Helotium uliginosum var. uliginosum (Fr.) Fr. VARIETY
-=======
+# Calycella uliginosa (Fr.) Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 355 (1849)
+null
 
 #### Original name
-Helotium uliginosum var. uliginosum (Fr.) Fr.
+null
 
 ### Remarks
 null

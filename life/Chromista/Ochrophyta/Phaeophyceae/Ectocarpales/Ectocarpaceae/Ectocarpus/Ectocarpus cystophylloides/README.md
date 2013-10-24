@@ -1,5 +1,4 @@
-Ectocarpus cystophylloides Noda SPECIES
-=======
+# Ectocarpus cystophylloides Noda SPECIES
 
 #### Status
 ACCEPTED

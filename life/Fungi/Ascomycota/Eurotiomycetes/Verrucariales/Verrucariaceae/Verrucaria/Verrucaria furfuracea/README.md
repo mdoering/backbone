@@ -1,8 +1,7 @@
-Verrucaria macrostoma f. furfuracea B. de Lesd. FORM
-=======
+# Verrucaria furfuracea (B. de Lesd.) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

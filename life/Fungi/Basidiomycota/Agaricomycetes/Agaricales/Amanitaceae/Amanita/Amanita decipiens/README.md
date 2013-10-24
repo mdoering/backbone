@@ -1,5 +1,4 @@
-Amanita decipiens (Trimbach) Jacquet. SPECIES
-=======
+# Amanita decipiens (Trimbach) Jacquet. SPECIES
 
 #### Status
 ACCEPTED

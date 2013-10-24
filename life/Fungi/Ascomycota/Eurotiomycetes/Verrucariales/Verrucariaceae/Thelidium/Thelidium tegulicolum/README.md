@@ -1,5 +1,4 @@
-Thelidium tegulicolum (Servít) SPECIES
-=======
+# Thelidium tegulicolum (Servít) SPECIES
 
 #### Status
 ACCEPTED

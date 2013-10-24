@@ -1,5 +1,4 @@
-Puccinia examinata H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia examinata H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

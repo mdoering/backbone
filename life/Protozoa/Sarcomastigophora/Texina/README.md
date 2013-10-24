@@ -1,5 +1,4 @@
-Texina Andersen, 1984 GENUS
-=======
+# Texina Andersen, 1984 GENUS
 
 #### Status
 ACCEPTED

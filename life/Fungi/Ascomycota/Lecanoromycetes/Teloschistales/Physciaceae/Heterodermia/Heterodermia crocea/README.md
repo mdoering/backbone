@@ -1,5 +1,4 @@
-Heterodermia crocea R. C. Harris SPECIES
-=======
+# Heterodermia crocea R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

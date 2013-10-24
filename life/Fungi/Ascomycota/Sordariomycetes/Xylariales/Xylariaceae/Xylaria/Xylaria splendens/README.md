@@ -1,5 +1,4 @@
-Xylaria splendens Berk. & M.A. Curtis SPECIES
-=======
+# Xylaria splendens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

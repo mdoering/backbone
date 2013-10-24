@@ -1,5 +1,4 @@
-Amanita rubens f. rubens FORM
-=======
+# Amanita rubens (Scop.) Quél. & Bataille SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amanita rubens f. rubens
+Agaricus rubens Bolton
 
 ### Remarks
 null

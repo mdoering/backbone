@@ -1,5 +1,4 @@
-Alternaria steviae Ishiba, T. Yokoy. & Tani, 1982 SPECIES
-=======
+# Alternaria steviae Ishiba, T. Yokoy. & Tani, 1982 SPECIES
 
 #### Status
 ACCEPTED

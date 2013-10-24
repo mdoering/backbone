@@ -1,5 +1,4 @@
-Merulius melanopus var. melanopus VARIETY
-=======
+# Merulius melanopus Sw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 K. Vetensk-Acad. Nya Handl. 31: 10 (1810)
 
 #### Original name
-Merulius melanopus var. melanopus
+Merulius melanopus Sw.
 
 ### Remarks
 null

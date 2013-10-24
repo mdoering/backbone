@@ -1,5 +1,4 @@
-Cytosporella malorum Brunaud SPECIES
-=======
+# Cytosporella malorum Brunaud SPECIES
 
 #### Status
 ACCEPTED

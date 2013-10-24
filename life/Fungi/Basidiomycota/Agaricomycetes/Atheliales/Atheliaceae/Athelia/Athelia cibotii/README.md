@@ -1,5 +1,4 @@
-Athelia cibotii Gilb. & Hemmes SPECIES
-=======
+# Athelia cibotii Gilb. & Hemmes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotiopsis dilleniae Y.X. Chen & G. Wei SPECIES
-=======
+# Pestalotiopsis dilleniae Y.X. Chen & G. Wei SPECIES
 
 #### Status
 ACCEPTED

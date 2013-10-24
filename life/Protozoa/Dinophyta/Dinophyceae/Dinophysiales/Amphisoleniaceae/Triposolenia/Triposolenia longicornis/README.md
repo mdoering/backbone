@@ -1,5 +1,4 @@
-Triposolenia longicornis Kofoid, 1907 SPECIES
-=======
+# Triposolenia longicornis Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

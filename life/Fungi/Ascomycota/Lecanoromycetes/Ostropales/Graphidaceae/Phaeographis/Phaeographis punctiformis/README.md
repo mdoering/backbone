@@ -1,5 +1,4 @@
-Phaeographis punctiformis f. punctiformis FORM
-=======
+# Phaeographis punctiformis (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeographis punctiformis f. punctiformis
+Leiogramma punctiforme Eschw.
 
 ### Remarks
 null

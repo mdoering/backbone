@@ -1,5 +1,4 @@
-Ceratocystis magnifica H.D. Griffin SPECIES
-=======
+# Ceratocystis magnifica H.D. Griffin SPECIES
 
 #### Status
 ACCEPTED

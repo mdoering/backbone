@@ -1,5 +1,4 @@
-Ustilago andropogonis-tectorum L. Ling SPECIES
-=======
+# Ustilago andropogonis-tectorum L. Ling SPECIES
 
 #### Status
 ACCEPTED

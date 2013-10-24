@@ -1,5 +1,4 @@
-Wentiomyces pandei S.K. Bose SPECIES
-=======
+# Wentiomyces pandei S.K. Bose SPECIES
 
 #### Status
 ACCEPTED

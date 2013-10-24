@@ -1,5 +1,4 @@
-Phyllopsora munda (Malme) Zahlbr. SPECIES
-=======
+# Phyllopsora munda (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

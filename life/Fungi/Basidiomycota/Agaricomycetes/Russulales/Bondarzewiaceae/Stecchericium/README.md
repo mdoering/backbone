@@ -1,5 +1,4 @@
-Stecchericium D.A. Reid GENUS
-=======
+# Stecchericium D.A. Reid GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella althaeina Lobik SPECIES
-=======
+# Mycosphaerella althaeina Lobik SPECIES
 
 #### Status
 ACCEPTED

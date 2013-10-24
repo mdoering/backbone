@@ -1,5 +1,4 @@
-Pseudocercospora thunbergiicola (J.M. Yen) Deighton SPECIES
-=======
+# Pseudocercospora thunbergiicola (J.M. Yen) Deighton SPECIES
 
 #### Status
 ACCEPTED

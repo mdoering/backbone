@@ -1,5 +1,4 @@
-Verrucaria retifera Stirt. SPECIES
-=======
+# Verrucaria retifera Stirt. SPECIES
 
 #### Status
 ACCEPTED

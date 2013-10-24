@@ -1,17 +1,16 @@
-Didymium rubropus var. albocapillitium G. Moreno, A. Castillo, Illana & Lizárraga VARIETY
-=======
+# Didymium rubropus G. Moreno, A. Castillo & Illana, 1996 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cryptog. Mycol. 18(4): 318 (1997)
+in Moreno, Castillo, Illana & Lizárraga, II Congreso Internacional de Sistemática y Ecología de Myxomycetes, ICSEM2, Madrid, Abril de 1996 (Madrid), Programa Científico, Lista de Participantes, Conferencia Inaugural, Resúmenes de las Ponencias Invitadas, Mesas Redondas, Ponencias Libres y Carteles 57 (1996)
 
 #### Original name
-Didymium rubropus var. albocapillitium G. Moreno, A. Castillo, Illana & Lizárraga
+Didymium rubropus G. Moreno, A. Castillo & Illana, 1996
 
 ### Remarks
 null

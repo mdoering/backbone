@@ -1,5 +1,4 @@
-Agaricus griseopunctatus Heinem. SPECIES
-=======
+# Agaricus griseopunctatus Heinem. SPECIES
 
 #### Status
 ACCEPTED

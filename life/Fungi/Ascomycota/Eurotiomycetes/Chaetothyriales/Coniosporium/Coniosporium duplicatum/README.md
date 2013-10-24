@@ -1,5 +1,4 @@
-Coniosporium duplicatum Maire SPECIES
-=======
+# Coniosporium duplicatum Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza merdae Donadini, 1978 SPECIES
-=======
+# Peziza merdae Donadini, 1978 SPECIES
 
 #### Status
 ACCEPTED

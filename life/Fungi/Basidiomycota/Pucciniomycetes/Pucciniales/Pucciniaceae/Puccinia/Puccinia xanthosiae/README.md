@@ -1,5 +1,4 @@
-Puccinia xanthosiae McAlpine SPECIES
-=======
+# Puccinia xanthosiae McAlpine SPECIES
 
 #### Status
 ACCEPTED

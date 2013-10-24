@@ -1,5 +1,4 @@
-Strobilomyces annamiticus Pat. SPECIES
-=======
+# Strobilomyces annamiticus Pat. SPECIES
 
 #### Status
 ACCEPTED

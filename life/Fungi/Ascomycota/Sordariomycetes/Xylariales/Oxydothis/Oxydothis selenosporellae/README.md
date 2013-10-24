@@ -1,5 +1,4 @@
-Oxydothis selenosporellae Samuels & Rossman, 1987 SPECIES
-=======
+# Oxydothis selenosporellae Samuels & Rossman, 1987 SPECIES
 
 #### Status
 ACCEPTED

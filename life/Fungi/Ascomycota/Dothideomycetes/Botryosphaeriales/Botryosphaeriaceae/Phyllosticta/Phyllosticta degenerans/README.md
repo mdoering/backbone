@@ -1,5 +1,4 @@
-Phyllosticta degenerans Syd. SPECIES
-=======
+# Phyllosticta degenerans Syd. SPECIES
 
 #### Status
 ACCEPTED

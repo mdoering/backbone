@@ -1,5 +1,4 @@
-Sphaerella ciconii Losa SPECIES
-=======
+# Sphaerella ciconii Losa SPECIES
 
 #### Status
 ACCEPTED

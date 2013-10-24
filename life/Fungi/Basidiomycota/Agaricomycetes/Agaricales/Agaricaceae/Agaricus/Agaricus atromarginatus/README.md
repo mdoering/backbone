@@ -1,5 +1,4 @@
-Agaricus atromarginatus Fr. ex Lasch SPECIES
-=======
+# Agaricus atromarginatus Fr. ex Lasch SPECIES
 
 #### Status
 ACCEPTED

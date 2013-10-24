@@ -1,5 +1,4 @@
-Xylosphaera guyanensis Bat. SPECIES
-=======
+# Xylosphaera guyanensis Bat. SPECIES
 
 #### Status
 ACCEPTED

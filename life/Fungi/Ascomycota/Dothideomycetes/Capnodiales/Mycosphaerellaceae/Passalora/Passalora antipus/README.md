@@ -1,14 +1,13 @@
-Cercospora antipus Ellis & Holw., 1885 SPECIES
-=======
+# Passalora antipus (Ellis & Holw.) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 1(1): 5 (1885)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 60 (2003)
 
 #### Original name
 Cercospora antipus Ellis & Holw., 1885

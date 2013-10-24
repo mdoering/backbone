@@ -1,14 +1,13 @@
-Solenia digitalis (Alb. & Schwein.) Quél., 1886 SPECIES
-=======
+# Cyphella digitalis (Alb. & Schwein.) Fr., 1822 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enchir. fung. (Paris) 214 (1886)
+Syst. mycol. (Lundae) 2(1): 201 (1822)
 
 #### Original name
 Peziza digitalis Alb. & Schwein., 1805

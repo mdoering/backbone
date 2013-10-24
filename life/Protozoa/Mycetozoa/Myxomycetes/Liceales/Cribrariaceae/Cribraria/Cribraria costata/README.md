@@ -1,5 +1,4 @@
-Cribraria costata Dhillon & Nann.-Bremek., 1978 SPECIES
-=======
+# Cribraria costata Dhillon & Nann.-Bremek., 1978 SPECIES
 
 #### Status
 ACCEPTED

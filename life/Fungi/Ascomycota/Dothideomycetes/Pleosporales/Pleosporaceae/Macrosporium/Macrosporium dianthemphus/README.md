@@ -1,5 +1,4 @@
-Macrosporium dianthemphus H.H. Hume SPECIES
-=======
+# Macrosporium dianthemphus H.H. Hume SPECIES
 
 #### Status
 ACCEPTED

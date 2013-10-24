@@ -1,17 +1,16 @@
-Lignidium Link GENUS
-=======
+# Fuligo Haller, 1768 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. Gasteromyc. , (1) 10.
+Hist. stirp. Helv. 3: 110 (1768)
 
 #### Original name
-Lignidium Link
+Fuligo Haller, 1768
 
 ### Remarks
 null

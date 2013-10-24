@@ -1,5 +1,4 @@
-Opegrapha anomea Nyl. SPECIES
-=======
+# Opegrapha anomea Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnea werthiana Henn. SPECIES
-=======
+# Lachnea werthiana Henn. SPECIES
 
 #### Status
 ACCEPTED

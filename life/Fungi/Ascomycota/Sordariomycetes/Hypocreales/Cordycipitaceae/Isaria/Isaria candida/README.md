@@ -1,5 +1,4 @@
-Isaria candida Schwein. SPECIES
-=======
+# Isaria candida Schwein. SPECIES
 
 #### Status
 ACCEPTED

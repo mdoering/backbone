@@ -1,5 +1,4 @@
-Mycena tremula Velen. SPECIES
-=======
+# Mycena tremula Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta polygoni Rabenh. SPECIES
-=======
+# Ascochyta polygoni Rabenh. SPECIES
 
 #### Status
 ACCEPTED

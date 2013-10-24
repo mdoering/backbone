@@ -1,5 +1,4 @@
-Chitonomyces cerviculatus Thaxt. SPECIES
-=======
+# Chitonomyces cerviculatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

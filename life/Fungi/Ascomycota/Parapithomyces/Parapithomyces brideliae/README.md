@@ -1,5 +1,4 @@
-Parapithomyces brideliae Thaung, 1976 SPECIES
-=======
+# Parapithomyces brideliae Thaung, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Akkermansia muciniphila Derrien et al., 2004 SPECIES
-=======
+# Akkermansia muciniphila Derrien et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

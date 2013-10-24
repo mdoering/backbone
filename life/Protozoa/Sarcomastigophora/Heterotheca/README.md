@@ -1,5 +1,4 @@
-Heterotheca Grell, 1988 GENUS
-=======
+# Heterotheca Grell, 1988 GENUS
 
 #### Status
 ACCEPTED

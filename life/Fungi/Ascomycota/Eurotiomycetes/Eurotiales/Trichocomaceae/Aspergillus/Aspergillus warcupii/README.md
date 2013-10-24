@@ -1,5 +1,4 @@
-Aspergillus warcupii Samson & W. Gams SPECIES
-=======
+# Aspergillus warcupii Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

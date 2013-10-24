@@ -1,5 +1,4 @@
-Peziza cava O.F. Müll. SPECIES
-=======
+# Peziza cava O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

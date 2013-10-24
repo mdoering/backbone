@@ -1,5 +1,4 @@
-Calicium sardoum (De Not.) Zahlbr. SPECIES
-=======
+# Calicium sardoum (De Not.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

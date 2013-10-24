@@ -1,5 +1,4 @@
-Calonectria hirsutellae Petch SPECIES
-=======
+# Calonectria hirsutellae Petch SPECIES
 
 #### Status
 ACCEPTED

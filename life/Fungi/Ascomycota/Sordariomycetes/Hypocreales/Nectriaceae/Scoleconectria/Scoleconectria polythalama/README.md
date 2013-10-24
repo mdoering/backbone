@@ -1,5 +1,4 @@
-Scoleconectria polythalama (Berk.) Seaver SPECIES
-=======
+# Scoleconectria polythalama (Berk.) Seaver SPECIES
 
 #### Status
 ACCEPTED

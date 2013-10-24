@@ -1,5 +1,4 @@
-Hohenbuehelia ilerdensis Courtec., Vila & Rocabruna SPECIES
-=======
+# Hohenbuehelia ilerdensis Courtec., Vila & Rocabruna SPECIES
 
 #### Status
 ACCEPTED

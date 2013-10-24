@@ -1,5 +1,4 @@
-Eurotium diplocyste Sartory & R. Sartory SPECIES
-=======
+# Eurotium diplocyste Sartory & R. Sartory SPECIES
 
 #### Status
 ACCEPTED

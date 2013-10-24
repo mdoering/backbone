@@ -1,5 +1,4 @@
-Deunffia transitoria Burmann, 1970 SPECIES
-=======
+# Deunffia transitoria Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

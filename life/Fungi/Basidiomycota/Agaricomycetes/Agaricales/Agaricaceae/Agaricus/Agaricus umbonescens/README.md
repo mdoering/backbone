@@ -1,5 +1,4 @@
-Agaricus umbonescens Britzelm. SPECIES
-=======
+# Agaricus umbonescens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

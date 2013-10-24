@@ -1,5 +1,4 @@
-Ascocodinaea polyporicola Samuels, Cand. & Magni, 1997 SPECIES
-=======
+# Ascocodinaea polyporicola Samuels, Cand. & Magni, 1997 SPECIES
 
 #### Status
 ACCEPTED

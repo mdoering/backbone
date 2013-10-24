@@ -1,5 +1,4 @@
-Lecidea langbaanensis Vain. SPECIES
-=======
+# Lecidea langbaanensis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peridermium elephantopodis (Schwein.) Hedgc. & G. Hahn SPECIES
-=======
+# Peridermium elephantopi (Schwein.) Hedgc. & G. Hahn SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 12(4): 190 (1920)
 
 #### Original name
-Uredo elephantopi Henn.
+Peridermium elephantopi (Schwein.) Hedgc. & G. Hahn
 
 ### Remarks
 null

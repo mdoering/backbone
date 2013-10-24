@@ -1,5 +1,4 @@
-Hypholoma flocculosum (Earle) Morgan SPECIES
-=======
+# Hypholoma flocculosum (Earle) Morgan SPECIES
 
 #### Status
 ACCEPTED

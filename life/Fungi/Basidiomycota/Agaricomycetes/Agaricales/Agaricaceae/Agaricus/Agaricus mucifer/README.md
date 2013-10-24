@@ -1,5 +1,4 @@
-Agaricus mucifer Berk. & Mont. SPECIES
-=======
+# Agaricus mucifer Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

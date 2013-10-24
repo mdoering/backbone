@@ -1,5 +1,4 @@
-Lepiota albofibrillosa Cleland SPECIES
-=======
+# Lepiota albofibrillosa Cleland SPECIES
 
 #### Status
 ACCEPTED

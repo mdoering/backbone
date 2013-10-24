@@ -1,17 +1,16 @@
-Rhizocarpon badioatrum var. atroalbum Malme VARIETY
-=======
+# Rhizocarpon richardii (Lamy ex Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 341 (1926)
 
 #### Original name
-Rhizocarpon badioatrum var. atroalbum Malme
+Lecidea richardii Lamy ex Nyl.
 
 ### Remarks
 null

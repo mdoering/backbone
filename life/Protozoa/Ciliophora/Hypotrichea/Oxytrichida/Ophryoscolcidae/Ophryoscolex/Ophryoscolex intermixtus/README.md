@@ -1,5 +1,4 @@
-Ophryoscolex intermixtus Awerinzew & Mutafowa, 1914 SPECIES
-=======
+# Ophryoscolex intermixtus Awerinzew & Mutafowa, 1914 SPECIES
 
 #### Status
 ACCEPTED

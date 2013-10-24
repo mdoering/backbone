@@ -1,5 +1,4 @@
-Fragilaria canariensis Lange-Bertalot SPECIES
-=======
+# Fragilaria canariensis Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

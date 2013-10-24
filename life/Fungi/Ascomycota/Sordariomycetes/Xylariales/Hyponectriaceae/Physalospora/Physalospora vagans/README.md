@@ -1,5 +1,4 @@
-Physalospora vagans Ellis & Everh. SPECIES
-=======
+# Physalospora vagans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanoma italicum (Sacc. & Speg.) Sacc. & Traverso SPECIES
-=======
+# Stephanoma italicum (Sacc. & Speg.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

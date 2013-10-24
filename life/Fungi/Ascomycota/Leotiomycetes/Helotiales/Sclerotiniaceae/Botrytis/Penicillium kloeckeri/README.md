@@ -1,8 +1,7 @@
-Penicillium wortmannii Klöcker, 1903 SPECIES
-=======
+# Penicillium kloeckeri Pitt, 1980 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

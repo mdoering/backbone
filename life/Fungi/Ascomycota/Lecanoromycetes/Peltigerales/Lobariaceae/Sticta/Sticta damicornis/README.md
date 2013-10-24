@@ -1,5 +1,4 @@
-Sticta damicornis f. damicornis FORM
-=======
+# Sticta damicornis (Sw.) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Method. Lich. 276 (1803)
 
 #### Original name
-Sticta damicornis f. damicornis
+Lichen damicornis Sw.
 
 ### Remarks
 null

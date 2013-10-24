@@ -1,5 +1,4 @@
-Entoloma bombycinum Corner & E. Horak SPECIES
-=======
+# Entoloma bombycinum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

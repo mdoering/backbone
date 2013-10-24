@@ -1,5 +1,4 @@
-Psora tuckermanii R. Anderson ex Timdal SPECIES
-=======
+# Psora tuckermanii R. Anderson ex Timdal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria sparassoides Iwade SPECIES
-=======
+# Poria sparassoides Iwade SPECIES
 
 #### Status
 ACCEPTED

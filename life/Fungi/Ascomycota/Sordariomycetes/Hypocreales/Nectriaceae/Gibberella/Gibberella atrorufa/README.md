@@ -1,5 +1,4 @@
-Gibberella atrorufa Pass. SPECIES
-=======
+# Gibberella atrorufa Pass. SPECIES
 
 #### Status
 ACCEPTED

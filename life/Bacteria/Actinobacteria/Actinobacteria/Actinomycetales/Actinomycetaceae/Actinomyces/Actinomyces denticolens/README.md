@@ -1,5 +1,4 @@
-Actinomyces denticolens Dent & Williams, 1984 SPECIES
-=======
+# Actinomyces denticolens Dent & Williams, 1984 SPECIES
 
 #### Status
 ACCEPTED

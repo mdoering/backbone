@@ -1,5 +1,4 @@
-Opegrapha ramosa B. de Lesd. SPECIES
-=======
+# Opegrapha ramosa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

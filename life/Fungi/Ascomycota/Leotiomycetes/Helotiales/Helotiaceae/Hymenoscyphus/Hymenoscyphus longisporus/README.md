@@ -1,5 +1,4 @@
-Hymenoscyphus longisporus M.P. Sharma SPECIES
-=======
+# Hymenoscyphus longisporus M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

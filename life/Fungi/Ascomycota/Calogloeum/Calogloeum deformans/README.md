@@ -1,5 +1,4 @@
-Calogloeum deformans (J. Schröt.) Nannf. SPECIES
-=======
+# Calogloeum deformans (J. Schröt.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

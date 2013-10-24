@@ -1,5 +1,4 @@
-Cymatiogalea catherinae Paris & Deunff, 1970 SPECIES
-=======
+# Cymatiogalea catherinae Paris & Deunff, 1970 SPECIES
 
 #### Status
 ACCEPTED

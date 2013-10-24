@@ -1,5 +1,4 @@
-Lanopila bicolor f. bicolor FORM
-=======
+# Lanopila bicolor (Lév.) Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lanopila bicolor f. bicolor
+Bovista bicolor Lév.
 
 ### Remarks
 null

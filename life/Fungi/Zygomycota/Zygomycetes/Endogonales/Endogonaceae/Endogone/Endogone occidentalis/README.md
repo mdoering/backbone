@@ -1,5 +1,4 @@
-Endogone occidentalis Kanouse SPECIES
-=======
+# Endogone occidentalis Kanouse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia marianae Syd. & P. Syd. SPECIES
-=======
+# Puccinia marianae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Physcia leptalea var. leptalea (Ach.) DC. VARIETY
-=======
+# Physcia semipinnata (J. F. Gmel.) Moberg SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 395 (1805)
+null
 
 #### Original name
-Physcia leptalea var. leptalea (Ach.) DC.
+null
 
 ### Remarks
 null

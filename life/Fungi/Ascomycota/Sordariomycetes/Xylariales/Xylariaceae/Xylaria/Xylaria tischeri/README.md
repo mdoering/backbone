@@ -1,5 +1,4 @@
-Xylaria tischeri Mattir. SPECIES
-=======
+# Xylaria tischeri Mattir. SPECIES
 
 #### Status
 ACCEPTED

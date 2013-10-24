@@ -1,5 +1,4 @@
-Diploschistes lutescens Zahlbr. SPECIES
-=======
+# Diploschistes lutescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphiloma dimorphum Müll. Arg. SPECIES
-=======
+# Amphiloma dimorphum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

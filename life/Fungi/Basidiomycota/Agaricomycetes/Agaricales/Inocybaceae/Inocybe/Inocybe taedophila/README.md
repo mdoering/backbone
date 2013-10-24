@@ -1,5 +1,4 @@
-Inocybe taedophila Murrill SPECIES
-=======
+# Inocybe taedophila Murrill SPECIES
 
 #### Status
 ACCEPTED

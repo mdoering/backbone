@@ -1,5 +1,4 @@
-Mycoderma humuli Lasché SPECIES
-=======
+# Mycoderma humuli Lasché SPECIES
 
 #### Status
 ACCEPTED

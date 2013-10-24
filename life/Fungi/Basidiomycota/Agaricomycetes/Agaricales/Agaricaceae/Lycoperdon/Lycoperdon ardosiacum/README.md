@@ -1,5 +1,4 @@
-Lycoperdon ardosiacum Bull. SPECIES
-=======
+# Lycoperdon ardosiacum Bull. SPECIES
 
 #### Status
 ACCEPTED

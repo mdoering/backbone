@@ -1,5 +1,4 @@
-Aeolisaccus G.F.Elliott GENUS
-=======
+# Aeolisaccus G.F.Elliott GENUS
 
 #### Status
 ACCEPTED

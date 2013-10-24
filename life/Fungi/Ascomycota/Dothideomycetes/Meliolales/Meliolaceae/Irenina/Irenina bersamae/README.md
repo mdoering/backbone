@@ -1,5 +1,4 @@
-Irenina bersamae Hansf. SPECIES
-=======
+# Irenina bersamae Hansf. SPECIES
 
 #### Status
 ACCEPTED

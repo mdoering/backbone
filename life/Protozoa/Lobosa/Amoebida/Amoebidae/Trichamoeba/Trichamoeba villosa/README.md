@@ -1,5 +1,4 @@
-Trichamoeba villosa (Wallich, 1863) SPECIES
-=======
+# Trichamoeba villosa (Wallich, 1863) SPECIES
 
 #### Status
 ACCEPTED

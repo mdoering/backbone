@@ -1,5 +1,4 @@
-Acarospora paupera H. Magn. SPECIES
-=======
+# Acarospora paupera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

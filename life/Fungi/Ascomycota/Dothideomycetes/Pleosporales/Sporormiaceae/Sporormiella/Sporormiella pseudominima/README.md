@@ -1,5 +1,4 @@
-Sporormiella pseudominima S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella pseudominima S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

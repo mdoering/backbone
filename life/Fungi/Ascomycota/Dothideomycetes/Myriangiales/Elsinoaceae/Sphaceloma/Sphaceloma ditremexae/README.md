@@ -1,5 +1,4 @@
-Sphaceloma ditremexae Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma ditremexae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

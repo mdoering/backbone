@@ -1,5 +1,4 @@
-Physalacria bambusae Höhn., 1909 SPECIES
-=======
+# Physalacria bambusae Höhn., 1909 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clathrulina elegans Cienkowski SPECIES
-=======
+# Clathrulina elegans Cienkowski SPECIES
 
 #### Status
 ACCEPTED

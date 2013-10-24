@@ -1,5 +1,4 @@
-Corynebacterium simulans Wattiau et al., 2000 SPECIES
-=======
+# Corynebacterium simulans Wattiau et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Amanita vaginata subsp. vaginata SUBSPECIES
-=======
+# Amanita vaginata (Bull.) Lam., 1783 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Encycl. Méth. Bot. (Paris) 1: 109 (1783)
 
 #### Original name
-Amanita vaginata subsp. vaginata
+Agaricus vaginatus Bull., 1783
 
 ### Remarks
 null

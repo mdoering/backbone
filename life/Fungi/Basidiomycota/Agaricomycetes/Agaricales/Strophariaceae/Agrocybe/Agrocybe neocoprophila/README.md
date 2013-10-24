@@ -1,5 +1,4 @@
-Agrocybe neocoprophila Singer SPECIES
-=======
+# Agrocybe neocoprophila Singer SPECIES
 
 #### Status
 ACCEPTED

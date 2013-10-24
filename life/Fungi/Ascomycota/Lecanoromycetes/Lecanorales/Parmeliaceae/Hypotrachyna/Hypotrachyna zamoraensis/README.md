@@ -1,5 +1,4 @@
-Hypotrachyna zamoraensis Sipman, Elix & T. H. Nash SPECIES
-=======
+# Hypotrachyna zamoraensis Sipman, Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

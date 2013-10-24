@@ -1,5 +1,4 @@
-Enerthidium Syd. GENUS
-=======
+# Enerthidium Syd. GENUS
 
 #### Status
 ACCEPTED

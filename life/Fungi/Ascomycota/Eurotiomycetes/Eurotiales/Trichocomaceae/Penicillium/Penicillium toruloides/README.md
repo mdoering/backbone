@@ -1,5 +1,4 @@
-Penicillium toruloides Preuss SPECIES
-=======
+# Penicillium toruloides Preuss SPECIES
 
 #### Status
 ACCEPTED

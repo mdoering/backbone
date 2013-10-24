@@ -1,5 +1,4 @@
-Massariella palmicola Henn. SPECIES
-=======
+# Massariella palmicola Henn. SPECIES
 
 #### Status
 ACCEPTED

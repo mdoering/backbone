@@ -1,17 +1,16 @@
-Phyllactinia gorterii Eicker SPECIES
-=======
+# Phyllactinia gorteri Eicker SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+S. Afr. J. Bot. 54(4): 383 (1988)
 
 #### Original name
-Phyllactinia gorterii Eicker
+Phyllactinia gorteri Eicker
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pezicula spicata Ellis & Everh. SPECIES
-=======
+# Pezicula spicata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

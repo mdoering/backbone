@@ -1,5 +1,4 @@
-Pluteus leaianus (Berk. ex Cooke) Singer SPECIES
-=======
+# Pluteus leaianus (Berk. ex Cooke) Singer SPECIES
 
 #### Status
 ACCEPTED

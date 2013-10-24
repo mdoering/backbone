@@ -1,14 +1,13 @@
-Nummularia sinuosa Theiss., 1908 SPECIES
-=======
+# Biscogniauxia sinuosa (Theiss.) Y.M. Ju & J.D. Rogers, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 6(4): 349 (1908)
+in Ju, Rogers, San Martín & Granmo, Mycotaxon 66: 55 (1998)
 
 #### Original name
 Nummularia sinuosa Theiss., 1908

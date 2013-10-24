@@ -1,5 +1,4 @@
-Pseudocolus grandis J.A. Sáenz, Rawla & R. Sharma SPECIES
-=======
+# Pseudocolus grandis J.A. Sáenz, Rawla & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

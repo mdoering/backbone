@@ -1,5 +1,4 @@
-Ophrydium flexile SPECIES
-=======
+# Ophrydium flexile SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella syriaca Petr. SPECIES
-=======
+# Aplosporella syriaca Petr. SPECIES
 
 #### Status
 ACCEPTED

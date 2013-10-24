@@ -1,5 +1,4 @@
-Duodecimentactinia Won, 1997 GENUS
-=======
+# Duodecimentactinia Won, 1997 GENUS
 
 #### Status
 ACCEPTED

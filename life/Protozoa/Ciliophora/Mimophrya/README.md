@@ -1,5 +1,4 @@
-Mimophrya de Puytorac, 1969 GENUS
-=======
+# Mimophrya de Puytorac, 1969 GENUS
 
 #### Status
 ACCEPTED

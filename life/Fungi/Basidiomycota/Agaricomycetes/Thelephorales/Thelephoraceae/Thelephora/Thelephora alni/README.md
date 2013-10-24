@@ -1,5 +1,4 @@
-Thelephora alni Fr. SPECIES
-=======
+# Thelephora alni Fr. SPECIES
 
 #### Status
 ACCEPTED

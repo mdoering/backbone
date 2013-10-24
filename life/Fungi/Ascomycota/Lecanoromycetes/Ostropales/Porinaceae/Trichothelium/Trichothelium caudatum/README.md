@@ -1,5 +1,4 @@
-Trichothelium caudatum Lücking SPECIES
-=======
+# Trichothelium caudatum Lücking SPECIES
 
 #### Status
 ACCEPTED

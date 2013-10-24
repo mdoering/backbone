@@ -1,17 +1,16 @@
-Polyporus stipticus var. stipticus VARIETY
-=======
+# Polyporus stipticus SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Syst. mycol. (Lundae) 1: 359 (1821)
+null
 
 #### Original name
-Boletus stipticus Pers., 1801
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycena glutinosa Beardslee SPECIES
-=======
+# Mycena glutinosa Beardslee SPECIES
 
 #### Status
 ACCEPTED

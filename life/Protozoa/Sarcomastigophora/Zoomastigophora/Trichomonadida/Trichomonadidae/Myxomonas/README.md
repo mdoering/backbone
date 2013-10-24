@@ -1,5 +1,4 @@
-Myxomonas Dogiel, ?, 1916 GENUS
-=======
+# Myxomonas Dogiel, ?, 1916 GENUS
 
 #### Status
 ACCEPTED

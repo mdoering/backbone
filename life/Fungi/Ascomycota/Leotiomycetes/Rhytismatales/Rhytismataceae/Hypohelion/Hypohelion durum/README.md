@@ -1,5 +1,4 @@
-Hypohelion durum Y.R. Lin, C.L. Hou & S.J. Wang, 2004 SPECIES
-=======
+# Hypohelion durum Y.R. Lin, C.L. Hou & S.J. Wang, 2004 SPECIES
 
 #### Status
 ACCEPTED

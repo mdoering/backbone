@@ -1,5 +1,4 @@
-Aplosporella pruni McAlpine SPECIES
-=======
+# Aplosporella pruni McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parafissurina marginata SPECIES
-=======
+# Parafissurina marginata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Echinoplaca verrucifera f. verrucifera Lücking FORM
-=======
+# Echinoplaca verrucifera Lücking SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 65: 62 (1997)
 
 #### Original name
-null
+Echinoplaca verrucifera Lücking
 
 ### Remarks
 null

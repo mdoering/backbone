@@ -1,5 +1,4 @@
-Parmelia fimbriata Pers. SPECIES
-=======
+# Parmelia fimbriata Pers. SPECIES
 
 #### Status
 ACCEPTED

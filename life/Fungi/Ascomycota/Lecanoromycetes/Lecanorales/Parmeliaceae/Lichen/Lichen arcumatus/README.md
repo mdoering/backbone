@@ -1,5 +1,4 @@
-Lichen arcumatus Gmelin SPECIES
-=======
+# Lichen arcumatus Gmelin SPECIES
 
 #### Status
 ACCEPTED

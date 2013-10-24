@@ -1,5 +1,4 @@
-Reticulammina Tendal, 1972 GENUS
-=======
+# Reticulammina Tendal, 1972 GENUS
 
 #### Status
 ACCEPTED

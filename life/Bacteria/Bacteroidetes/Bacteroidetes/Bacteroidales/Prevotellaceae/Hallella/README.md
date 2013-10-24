@@ -1,5 +1,4 @@
-Hallella Moore & Moore, 1994 GENUS
-=======
+# Hallella Moore & Moore, 1994 GENUS
 
 #### Status
 ACCEPTED

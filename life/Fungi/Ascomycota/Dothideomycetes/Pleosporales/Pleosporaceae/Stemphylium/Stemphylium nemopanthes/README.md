@@ -1,5 +1,4 @@
-Stemphylium nemopanthes Dearn. SPECIES
-=======
+# Stemphylium nemopanthes Dearn. SPECIES
 
 #### Status
 ACCEPTED

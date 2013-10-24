@@ -1,5 +1,4 @@
-Psychromonas heitensis Hosoya, Yasumoto-Hirose, Adachi, Katsuta & Kasai, 2008 SPECIES
-=======
+# Psychromonas heitensis Hosoya, Yasumoto-Hirose, Adachi, Katsuta & Kasai, 2008 SPECIES
 
 #### Status
 ACCEPTED

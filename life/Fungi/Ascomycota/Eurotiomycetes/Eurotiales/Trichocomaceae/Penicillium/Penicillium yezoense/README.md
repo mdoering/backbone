@@ -1,17 +1,16 @@
-Penicillium yezoensum Hanzawa SPECIES
-=======
+# Penicillium yezoense Hanzawa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sasaki & Nakane, J. agric. Chem. Soc. Japan 19: 774 (1943)
 
 #### Original name
-Penicillium yezoensum Hanzawa
+Penicillium yezoense Hanzawa
 
 ### Remarks
 null

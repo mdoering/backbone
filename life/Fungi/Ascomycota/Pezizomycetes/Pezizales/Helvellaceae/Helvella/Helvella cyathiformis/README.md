@@ -1,5 +1,4 @@
-Helvella cyathiformis Scop. SPECIES
-=======
+# Helvella cyathiformis Scop. SPECIES
 
 #### Status
 ACCEPTED

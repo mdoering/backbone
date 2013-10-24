@@ -1,5 +1,4 @@
-Puccinia hackeliae Cummins SPECIES
-=======
+# Puccinia hackeliae Cummins SPECIES
 
 #### Status
 ACCEPTED

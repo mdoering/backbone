@@ -1,5 +1,4 @@
-Ramularia origanicola Chevassut SPECIES
-=======
+# Ramularia origanicola Chevassut SPECIES
 
 #### Status
 ACCEPTED

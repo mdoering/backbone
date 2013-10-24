@@ -1,17 +1,16 @@
-Geopetalum rhacodium (Berk. & M.A. Curtis) Kühner & Romagn., 1953 SPECIES
-=======
+# Resupinatus trichotis (Pers.) Singer, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Analyt. Champ. Supér. (Paris) 68 (1953)
+Persoonia 2(1): 48 (1961)
 
 #### Original name
-Agaricus rhacodius Berk. & M.A. Curtis, 1859
+Agaricus trichotis Pers., 1828
 
 ### Remarks
 null

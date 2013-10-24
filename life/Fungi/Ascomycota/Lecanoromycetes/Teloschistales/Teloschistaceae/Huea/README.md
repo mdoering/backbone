@@ -1,5 +1,4 @@
-Huea GENUS
-=======
+# Huea GENUS
 
 #### Status
 ACCEPTED

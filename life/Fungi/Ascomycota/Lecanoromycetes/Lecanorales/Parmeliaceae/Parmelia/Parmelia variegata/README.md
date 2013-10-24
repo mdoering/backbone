@@ -1,5 +1,4 @@
-Parmelia variegata Clemente SPECIES
-=======
+# Parmelia variegata Clemente SPECIES
 
 #### Status
 ACCEPTED

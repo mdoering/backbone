@@ -1,5 +1,4 @@
-Kabathia interseminata (G. Winter) Nieuwl. SPECIES
-=======
+# Kabathia interseminata (G. Winter) Nieuwl. SPECIES
 
 #### Status
 ACCEPTED

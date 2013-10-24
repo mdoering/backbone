@@ -1,5 +1,4 @@
-Tychosporium acutostipes Spiegel, D.L. Moore & J. Feldman, 1995 SPECIES
-=======
+# Tychosporium acutostipes Spiegel, D.L. Moore & J. Feldman, 1995 SPECIES
 
 #### Status
 ACCEPTED

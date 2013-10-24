@@ -1,5 +1,4 @@
-Phyllosticta tahirica T.M. Achundov SPECIES
-=======
+# Phyllosticta tahirica T.M. Achundov SPECIES
 
 #### Status
 ACCEPTED

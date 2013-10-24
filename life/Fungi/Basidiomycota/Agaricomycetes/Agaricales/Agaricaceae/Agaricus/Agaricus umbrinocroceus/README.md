@@ -1,5 +1,4 @@
-Agaricus umbrinocroceus J. Otto SPECIES
-=======
+# Agaricus umbrinocroceus J. Otto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermocybe luteostriatula M.M. Moser & E. Horak SPECIES
-=======
+# Dermocybe luteostriatula M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

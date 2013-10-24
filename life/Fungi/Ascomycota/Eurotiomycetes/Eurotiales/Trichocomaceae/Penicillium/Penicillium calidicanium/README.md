@@ -1,5 +1,4 @@
-Penicillium calidicanium J.L. Chen, 2002 SPECIES
-=======
+# Penicillium calidicanium J.L. Chen, 2002 SPECIES
 
 #### Status
 ACCEPTED

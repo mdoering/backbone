@@ -1,5 +1,4 @@
-Diplodia salicella Sacc. SPECIES
-=======
+# Diplodia salicella Sacc. SPECIES
 
 #### Status
 ACCEPTED

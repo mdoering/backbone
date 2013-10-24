@@ -1,5 +1,4 @@
-Comasphaeridium hirsutum Johnson, 1985 SPECIES
-=======
+# Comasphaeridium hirsutum Johnson, 1985 SPECIES
 
 #### Status
 ACCEPTED

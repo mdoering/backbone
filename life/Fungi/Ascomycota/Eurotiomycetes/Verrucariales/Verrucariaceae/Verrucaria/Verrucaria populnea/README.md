@@ -1,5 +1,4 @@
-Verrucaria populnea (Ach.) DC. SPECIES
-=======
+# Verrucaria populnea (Ach.) DC. SPECIES
 
 #### Status
 ACCEPTED

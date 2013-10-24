@@ -1,5 +1,4 @@
-Calloria subalpina var. discrepans Rehm VARIETY
-=======
+# Calloria subalpina Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calloria subalpina var. discrepans Rehm
+Calloria subalpina Rehm
 
 ### Remarks
 null

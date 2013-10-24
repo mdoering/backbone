@@ -1,5 +1,4 @@
-Exobasidium triseptatum T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Exobasidium triseptatum T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora pellaea (Nyl.) SPECIES
-=======
+# Biatora pellaea (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

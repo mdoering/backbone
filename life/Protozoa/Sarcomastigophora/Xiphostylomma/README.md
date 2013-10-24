@@ -1,5 +1,4 @@
-Xiphostylomma Haeckel, 1887 GENUS
-=======
+# Xiphostylomma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

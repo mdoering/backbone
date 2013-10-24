@@ -1,5 +1,4 @@
-Porotheleum tenue Pat. SPECIES
-=======
+# Porotheleum tenue Pat. SPECIES
 
 #### Status
 ACCEPTED

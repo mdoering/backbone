@@ -1,5 +1,4 @@
-Leciographa gallicola A. Funk SPECIES
-=======
+# Leciographa gallicola A. Funk SPECIES
 
 #### Status
 ACCEPTED

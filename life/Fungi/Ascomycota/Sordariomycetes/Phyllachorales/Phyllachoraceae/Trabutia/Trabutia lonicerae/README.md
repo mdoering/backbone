@@ -1,5 +1,4 @@
-Trabutia lonicerae Racib. SPECIES
-=======
+# Trabutia lonicerae Racib. SPECIES
 
 #### Status
 ACCEPTED

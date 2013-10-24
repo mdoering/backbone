@@ -1,5 +1,4 @@
-Xerocomus bakshii Singer & B. Singh {?} SPECIES
-=======
+# Xerocomus bakshii Singer & B. Singh {?} SPECIES
 
 #### Status
 ACCEPTED

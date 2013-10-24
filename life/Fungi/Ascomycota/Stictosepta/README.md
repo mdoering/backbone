@@ -1,5 +1,4 @@
-Stictosepta Petr. GENUS
-=======
+# Stictosepta Petr. GENUS
 
 #### Status
 ACCEPTED

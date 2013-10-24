@@ -1,5 +1,4 @@
-Physcia caesioides N.S. Golubk. & Savicz SPECIES
-=======
+# Physcia caesioides N.S. Golubk. & Savicz SPECIES
 
 #### Status
 ACCEPTED

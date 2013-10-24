@@ -1,5 +1,4 @@
-Polystictus vitiensis Reichardt SPECIES
-=======
+# Polystictus vitiensis Reichardt SPECIES
 
 #### Status
 ACCEPTED

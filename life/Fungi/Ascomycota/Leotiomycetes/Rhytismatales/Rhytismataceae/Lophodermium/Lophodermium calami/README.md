@@ -1,5 +1,4 @@
-Lophodermium calami Henn. & E. Nyman SPECIES
-=======
+# Lophodermium calami Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

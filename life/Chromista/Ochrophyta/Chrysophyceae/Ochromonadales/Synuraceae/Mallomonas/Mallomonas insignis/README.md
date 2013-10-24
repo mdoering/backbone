@@ -1,5 +1,4 @@
-Mallomonas insignis Penard SPECIES
-=======
+# Mallomonas insignis Penard SPECIES
 
 #### Status
 ACCEPTED

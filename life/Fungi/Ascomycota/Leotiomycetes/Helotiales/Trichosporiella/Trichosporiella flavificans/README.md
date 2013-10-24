@@ -1,14 +1,13 @@
-Candida flavificans Nakase, 1975 SPECIES
-=======
+# Trichosporiella flavificans (Nakase) de Hoog, Rodr. Mir. & Oorschot, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 41(2): 202 (1975)
+in de Hoog, Rantio-Lehtimäki, Antonie van Leeuwenhoek 51(1): 106 (1985)
 
 #### Original name
 Candida flavificans Nakase, 1975

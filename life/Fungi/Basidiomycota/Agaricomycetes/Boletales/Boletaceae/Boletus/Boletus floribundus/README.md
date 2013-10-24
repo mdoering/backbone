@@ -1,5 +1,4 @@
-Boletus floribundus Batsch SPECIES
-=======
+# Boletus floribundus Batsch SPECIES
 
 #### Status
 ACCEPTED

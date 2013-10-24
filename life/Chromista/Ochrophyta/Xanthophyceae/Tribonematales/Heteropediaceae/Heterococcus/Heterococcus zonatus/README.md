@@ -1,5 +1,4 @@
-Heterococcus zonatus Lokhorst SPECIES
-=======
+# Heterococcus zonatus Lokhorst SPECIES
 
 #### Status
 ACCEPTED

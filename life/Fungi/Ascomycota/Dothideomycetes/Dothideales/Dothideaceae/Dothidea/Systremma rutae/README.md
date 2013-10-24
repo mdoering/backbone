@@ -1,5 +1,4 @@
-Systremma rutae (Mont.) Theiss. & Syd. SPECIES
-=======
+# Systremma rutae (Mont.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

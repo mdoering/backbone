@@ -1,5 +1,4 @@
-Scytonema calcicolum Kufferath SPECIES
-=======
+# Scytonema calcicolum Kufferath SPECIES
 
 #### Status
 ACCEPTED

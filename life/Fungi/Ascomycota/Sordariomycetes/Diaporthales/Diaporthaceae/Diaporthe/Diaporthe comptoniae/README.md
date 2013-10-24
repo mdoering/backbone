@@ -1,5 +1,4 @@
-Diaporthe comptoniae (Schwein.) Ellis & Everh. SPECIES
-=======
+# Diaporthe comptoniae (Schwein.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

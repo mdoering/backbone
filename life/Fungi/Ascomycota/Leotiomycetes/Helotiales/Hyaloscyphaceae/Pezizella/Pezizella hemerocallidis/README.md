@@ -1,5 +1,4 @@
-Pezizella hemerocallidis Velen. SPECIES
-=======
+# Pezizella hemerocallidis Velen. SPECIES
 
 #### Status
 ACCEPTED

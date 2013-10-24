@@ -1,5 +1,4 @@
-Arthroderma olahii Balogh, Lipt. & Nagy-Peti SPECIES
-=======
+# Arthroderma olahii Balogh, Lipt. & Nagy-Peti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytamoeba Labbe, 1894 GENUS
-=======
+# Cytamoeba Labbe, 1894 GENUS
 
 #### Status
 ACCEPTED

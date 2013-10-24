@@ -1,5 +1,4 @@
-Minuscula Lebour, 1925 GENUS
-=======
+# Minuscula Lebour, 1925 GENUS
 
 #### Status
 ACCEPTED

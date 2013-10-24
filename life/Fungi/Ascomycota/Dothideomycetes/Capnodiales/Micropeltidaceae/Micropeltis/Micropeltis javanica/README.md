@@ -1,5 +1,4 @@
-Micropeltis javanica (Racib.) Sacc. & Trotter SPECIES
-=======
+# Micropeltis javanica (Racib.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

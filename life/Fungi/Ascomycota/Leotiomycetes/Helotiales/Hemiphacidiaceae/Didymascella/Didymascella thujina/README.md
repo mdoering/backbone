@@ -1,14 +1,13 @@
-Keithia thujina E.J. Durand, 1913 SPECIES
-=======
+# Didymascella thujina (E.J. Durand) Maire, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 5(1): 9 (1913)
+Bull. Soc. Hist. nat. Afr. N. 18: 120 (1927)
 
 #### Original name
 Keithia thujina E.J. Durand, 1913

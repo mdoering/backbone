@@ -1,5 +1,4 @@
-Euploia pelagica Lohmann, 1920 SPECIES
-=======
+# Euploia pelagica Lohmann, 1920 SPECIES
 
 #### Status
 ACCEPTED

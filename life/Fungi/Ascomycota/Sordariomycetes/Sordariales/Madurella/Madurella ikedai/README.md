@@ -1,5 +1,4 @@
-Madurella ikedai Gammel SPECIES
-=======
+# Madurella ikedai Gammel SPECIES
 
 #### Status
 ACCEPTED

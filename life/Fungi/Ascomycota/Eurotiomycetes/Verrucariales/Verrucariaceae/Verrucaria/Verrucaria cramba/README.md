@@ -1,5 +1,4 @@
-Verrucaria cramba Stirt. SPECIES
-=======
+# Verrucaria cramba Stirt. SPECIES
 
 #### Status
 ACCEPTED

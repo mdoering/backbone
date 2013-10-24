@@ -1,5 +1,4 @@
-Diderma quitense (Pat.) Kuntze SPECIES
-=======
+# Diderma quitense (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

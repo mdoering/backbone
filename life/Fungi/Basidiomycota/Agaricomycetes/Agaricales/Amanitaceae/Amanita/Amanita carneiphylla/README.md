@@ -1,5 +1,4 @@
-Amanita carneiphylla O.K. Mill. SPECIES
-=======
+# Amanita carneiphylla O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

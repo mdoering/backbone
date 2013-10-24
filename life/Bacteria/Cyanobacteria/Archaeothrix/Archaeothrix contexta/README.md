@@ -1,5 +1,4 @@
-Archaeothrix contexta Kidston & Lang, 1921 SPECIES
-=======
+# Archaeothrix contexta Kidston & Lang, 1921 SPECIES
 
 #### Status
 ACCEPTED

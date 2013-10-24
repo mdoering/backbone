@@ -1,5 +1,4 @@
-Pseudolangella de Civrieux & Dessauvagie, 1965 GENUS
-=======
+# Pseudolangella de Civrieux & Dessauvagie, 1965 GENUS
 
 #### Status
 ACCEPTED

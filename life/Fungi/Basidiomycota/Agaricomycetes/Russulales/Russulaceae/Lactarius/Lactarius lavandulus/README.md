@@ -1,5 +1,4 @@
-Lactarius lavandulus H.T. Le & Stubbe SPECIES
-=======
+# Lactarius lavandulus H.T. Le & Stubbe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigme albomarginata (Sacc.) Syd. {?} SPECIES
-=======
+# Stigme albomarginata (Sacc.) Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

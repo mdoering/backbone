@@ -1,5 +1,4 @@
-Asterophora oidioides Speg. SPECIES
-=======
+# Asterophora oidioides Speg. SPECIES
 
 #### Status
 ACCEPTED

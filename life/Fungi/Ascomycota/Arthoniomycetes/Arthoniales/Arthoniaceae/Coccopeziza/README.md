@@ -1,5 +1,4 @@
-Coccopeziza GENUS
-=======
+# Coccopeziza GENUS
 
 #### Status
 ACCEPTED

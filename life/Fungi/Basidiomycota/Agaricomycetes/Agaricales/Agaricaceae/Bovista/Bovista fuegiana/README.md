@@ -1,5 +1,4 @@
-Bovista fuegiana V.L. Suárez & J.E. Wright SPECIES
-=======
+# Bovista fuegiana V.L. Suárez & J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

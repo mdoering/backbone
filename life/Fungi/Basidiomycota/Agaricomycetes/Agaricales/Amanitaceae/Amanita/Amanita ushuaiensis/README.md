@@ -1,5 +1,4 @@
-Amanita ushuaiensis (Raithelh.) Raithelh. SPECIES
-=======
+# Amanita ushuaiensis (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

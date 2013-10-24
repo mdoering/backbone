@@ -1,5 +1,4 @@
-Stropharia lasseri Dennis SPECIES
-=======
+# Stropharia lasseri Dennis SPECIES
 
 #### Status
 ACCEPTED

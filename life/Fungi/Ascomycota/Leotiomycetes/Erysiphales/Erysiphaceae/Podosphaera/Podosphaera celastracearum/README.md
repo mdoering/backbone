@@ -1,5 +1,4 @@
-Podosphaera celastracearum (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera celastracearum (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

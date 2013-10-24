@@ -1,17 +1,16 @@
-Agaricus limonia Cooke & Massee SPECIES
-=======
+# Agrocybe limonia (Sacc.) Pegler, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Agaricus limonia Cooke & Massee
+Agaricus limonius Fr., 1818
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stropharia umbilicata Peck SPECIES
-=======
+# Stropharia umbilicata Peck SPECIES
 
 #### Status
 ACCEPTED

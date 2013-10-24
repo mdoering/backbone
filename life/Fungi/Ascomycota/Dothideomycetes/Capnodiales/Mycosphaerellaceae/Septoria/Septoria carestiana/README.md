@@ -1,5 +1,4 @@
-Septoria carestiana Ferraris SPECIES
-=======
+# Septoria carestiana Ferraris SPECIES
 
 #### Status
 ACCEPTED

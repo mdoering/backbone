@@ -1,5 +1,4 @@
-Passalora saniculae (Davis) U. Braun & Crous SPECIES
-=======
+# Passalora saniculae (Davis) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

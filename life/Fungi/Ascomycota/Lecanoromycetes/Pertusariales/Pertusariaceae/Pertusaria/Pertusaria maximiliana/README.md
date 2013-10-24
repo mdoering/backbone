@@ -1,5 +1,4 @@
-Pertusaria maximiliana Klem. SPECIES
-=======
+# Pertusaria maximiliana Klem. SPECIES
 
 #### Status
 ACCEPTED

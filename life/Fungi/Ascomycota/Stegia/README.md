@@ -1,5 +1,4 @@
-Stegia GENUS
-=======
+# Stegia GENUS
 
 #### Status
 ACCEPTED

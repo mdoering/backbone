@@ -1,5 +1,4 @@
-Sphaerella oenanthicola Fuckel SPECIES
-=======
+# Sphaerella oenanthicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

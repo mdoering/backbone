@@ -1,17 +1,16 @@
-Amauroderma amoiensis J.D. Zhao & L.W. Hsu SPECIES
-=======
+# Amauroderma amoiense J.D. Zhao & L.W. Hsu, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Zhao, Xu & Zhang, Acta Mycol. Sin. 2(3): 164 (1983)
 
 #### Original name
-Amauroderma amoiensis J.D. Zhao & L.W. Hsu
+Amauroderma amoiense J.D. Zhao & L.W. Hsu, 1983
 
 ### Remarks
 null

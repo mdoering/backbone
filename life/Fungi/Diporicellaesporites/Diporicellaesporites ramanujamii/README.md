@@ -1,5 +1,4 @@
-Diporicellaesporites ramanujamii Kalgutkar SPECIES
-=======
+# Diporicellaesporites ramanujamii Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

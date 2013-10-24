@@ -1,5 +1,4 @@
-Cercosporella pseudoidium Speg. SPECIES
-=======
+# Cercosporella pseudoidium Speg. SPECIES
 
 #### Status
 ACCEPTED

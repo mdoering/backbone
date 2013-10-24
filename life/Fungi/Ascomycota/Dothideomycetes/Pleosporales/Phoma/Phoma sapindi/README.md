@@ -1,5 +1,4 @@
-Phoma sapindi Pat. SPECIES
-=======
+# Phoma sapindi Pat. SPECIES
 
 #### Status
 ACCEPTED

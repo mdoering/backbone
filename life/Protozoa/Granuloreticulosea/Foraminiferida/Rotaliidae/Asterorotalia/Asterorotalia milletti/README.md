@@ -1,5 +1,4 @@
-Asterorotalia milletti Hottinger & Oesterle, 1980 SPECIES
-=======
+# Asterorotalia milletti Hottinger & Oesterle, 1980 SPECIES
 
 #### Status
 ACCEPTED

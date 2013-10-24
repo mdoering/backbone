@@ -1,5 +1,4 @@
-Thyrotheca Kirschst. GENUS
-=======
+# Thyrotheca Kirschst. GENUS
 
 #### Status
 ACCEPTED

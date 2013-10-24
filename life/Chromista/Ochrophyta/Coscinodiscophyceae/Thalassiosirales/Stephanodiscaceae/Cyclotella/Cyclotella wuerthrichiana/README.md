@@ -1,5 +1,4 @@
-Cyclotella wuerthrichiana Druart & Straub SPECIES
-=======
+# Cyclotella wuerthrichiana Druart & Straub SPECIES
 
 #### Status
 ACCEPTED

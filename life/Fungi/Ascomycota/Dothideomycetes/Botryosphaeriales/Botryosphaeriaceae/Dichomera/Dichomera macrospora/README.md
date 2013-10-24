@@ -1,5 +1,4 @@
-Dichomera macrospora S. Ahmad SPECIES
-=======
+# Dichomera macrospora S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

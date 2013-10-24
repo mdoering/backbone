@@ -1,5 +1,4 @@
-Phyllerites ficicola (Ettingsh.) Mesch. SPECIES
-=======
+# Phyllerites ficicola (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

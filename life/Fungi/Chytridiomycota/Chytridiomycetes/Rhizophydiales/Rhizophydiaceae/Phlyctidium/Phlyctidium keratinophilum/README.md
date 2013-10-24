@@ -1,5 +1,4 @@
-Phlyctidium keratinophilum var. keratinophilum VARIETY
-=======
+# Phlyctidium keratinophilum M. Ôkubo & Kobayasi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nagaoa 5: 1 (1955)
 
 #### Original name
-Phlyctidium keratinophilum var. keratinophilum
+Phlyctidium keratinophilum M. Ôkubo & Kobayasi
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Psora buettneri Müll. Arg. SPECIES
-=======
+# Psora buettneri Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

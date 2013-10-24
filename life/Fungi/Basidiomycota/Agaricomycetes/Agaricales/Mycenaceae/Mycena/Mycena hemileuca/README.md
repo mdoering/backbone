@@ -1,5 +1,4 @@
-Mycena hemileuca Berk. & M.A. Curtis SPECIES
-=======
+# Mycena hemileuca Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

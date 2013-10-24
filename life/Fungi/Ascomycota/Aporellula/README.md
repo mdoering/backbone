@@ -1,5 +1,4 @@
-Aporellula B. Sutton GENUS
-=======
+# Aporellula B. Sutton GENUS
 
 #### Status
 ACCEPTED

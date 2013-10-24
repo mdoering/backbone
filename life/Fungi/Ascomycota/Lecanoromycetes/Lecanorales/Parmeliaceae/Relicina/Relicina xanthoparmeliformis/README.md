@@ -1,5 +1,4 @@
-Relicina xanthoparmeliformis Elix & T. H. Nash SPECIES
-=======
+# Relicina xanthoparmeliformis Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora affinis f. affinis FORM
-=======
+# Lecanora affinis Eversm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora affinis f. affinis
+Lecanora affinis Eversm.
 
 ### Remarks
 null

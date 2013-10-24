@@ -1,5 +1,4 @@
-Thialkalivibrio denitrificans SPECIES
-=======
+# Thialkalivibrio denitrificans SPECIES
 
 #### Status
 ACCEPTED

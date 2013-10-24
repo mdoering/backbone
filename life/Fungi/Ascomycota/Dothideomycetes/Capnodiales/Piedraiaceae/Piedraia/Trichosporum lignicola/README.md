@@ -1,8 +1,7 @@
-Trichosporum lignicolum Dorogin SPECIES
-=======
+# Trichosporum lignicola Dorogin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichosporum lignicolum Dorogin
+Trichosporum lignicola Dorogin
 
 ### Remarks
 null

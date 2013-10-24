@@ -1,5 +1,4 @@
-Parmelia propagulifera Vain. SPECIES
-=======
+# Parmelia propagulifera Vain. SPECIES
 
 #### Status
 ACCEPTED

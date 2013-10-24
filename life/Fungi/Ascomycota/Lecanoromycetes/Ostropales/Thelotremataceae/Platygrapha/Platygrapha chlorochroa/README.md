@@ -1,5 +1,4 @@
-Platygrapha chlorochroa Kremp. SPECIES
-=======
+# Platygrapha chlorochroa Kremp. SPECIES
 
 #### Status
 ACCEPTED

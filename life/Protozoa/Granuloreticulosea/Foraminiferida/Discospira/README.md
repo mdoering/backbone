@@ -1,5 +1,4 @@
-Discospira Mantell, 1850 GENUS
-=======
+# Discospira Mantell, 1850 GENUS
 
 #### Status
 ACCEPTED

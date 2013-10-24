@@ -1,5 +1,4 @@
-Cercospora abacula Munt.-Cvetk. SPECIES
-=======
+# Cercospora abacula Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Boletinus lignicolus M. Zang SPECIES
-=======
+# Boletinus lignicola M. Zang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta microbiol. sin. 20(1): 29 (1980)
 
 #### Original name
-Boletinus lignicolus M. Zang
+Boletinus lignicola M. Zang
 
 ### Remarks
 null

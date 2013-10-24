@@ -1,5 +1,4 @@
-Peziza scirpina Peck SPECIES
-=======
+# Peziza scirpina Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euplotoides daidaleos SPECIES
-=======
+# Euplotoides daidaleos SPECIES
 
 #### Status
 ACCEPTED

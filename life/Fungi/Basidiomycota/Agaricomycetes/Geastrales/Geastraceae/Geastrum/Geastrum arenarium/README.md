@@ -1,5 +1,4 @@
-Geastrum arenarium Lloyd, 1907 SPECIES
-=======
+# Geastrum arenarium Lloyd, 1907 SPECIES
 
 #### Status
 ACCEPTED

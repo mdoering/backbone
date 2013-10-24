@@ -1,5 +1,4 @@
-Rechingeriella boudieri (Arnold) D. Hawksw. SPECIES
-=======
+# Rechingeriella boudieri (Arnold) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

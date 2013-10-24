@@ -1,5 +1,4 @@
-Meliolina stomata (Hara) Hara SPECIES
-=======
+# Meliolina stomata (Hara) Hara SPECIES
 
 #### Status
 ACCEPTED

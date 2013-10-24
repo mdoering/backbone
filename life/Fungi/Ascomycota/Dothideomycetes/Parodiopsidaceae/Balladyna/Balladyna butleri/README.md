@@ -1,5 +1,4 @@
-Balladyna butleri Syd. & P. Syd. SPECIES
-=======
+# Balladyna butleri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

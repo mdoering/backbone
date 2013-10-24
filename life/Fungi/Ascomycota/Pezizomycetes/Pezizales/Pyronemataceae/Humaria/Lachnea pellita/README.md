@@ -1,5 +1,4 @@
-Lachnea pellita (Cooke & W. Phillips) Sacc. SPECIES
-=======
+# Lachnea pellita (Cooke & W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo ophiopogonis Syd. & P. Syd. SPECIES
-=======
+# Uredo ophiopogonis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

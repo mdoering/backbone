@@ -1,5 +1,4 @@
-Cladonia sphacelata Vain. SPECIES
-=======
+# Cladonia sphacelata Vain. SPECIES
 
 #### Status
 ACCEPTED

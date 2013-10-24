@@ -1,8 +1,7 @@
-Rhodospirillum fulvum van Niel, 1944 (Approved Lists, 1980) SPECIES
-=======
+# Phaeospirillum fulvum (van Niel, 1944) Imhoff et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

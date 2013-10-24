@@ -1,5 +1,4 @@
-Vertebrasigmoilina mexicana (Cushman, 1922) SPECIES
-=======
+# Vertebrasigmoilina mexicana (Cushman, 1922) SPECIES
 
 #### Status
 ACCEPTED

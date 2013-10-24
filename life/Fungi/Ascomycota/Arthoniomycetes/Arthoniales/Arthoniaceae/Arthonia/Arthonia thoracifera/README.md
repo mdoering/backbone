@@ -1,5 +1,4 @@
-Arthonia thoracifera Vain. SPECIES
-=======
+# Arthonia thoracifera Vain. SPECIES
 
 #### Status
 ACCEPTED

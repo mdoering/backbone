@@ -1,5 +1,4 @@
-Phyllosticta malvavisci J.A. Stev. SPECIES
-=======
+# Phyllosticta malvavisci J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

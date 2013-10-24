@@ -1,14 +1,13 @@
-Zundelula thirumalacharii Pavgi & B.K. Giri, 1966 SPECIES
-=======
+# Dermatosorus thirumalacharii (Pavgi & B.K. Giri) Vánky, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopath. Mycol. appl. 28: 143 (1966)
+Trans. Br. mycol. Soc. 89(1): 64 (1987)
 
 #### Original name
 Zundelula thirumalacharii Pavgi & B.K. Giri, 1966

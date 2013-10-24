@@ -1,5 +1,4 @@
-Fungus viridulus (Schaeff.) Kuntze SPECIES
-=======
+# Fungus viridulus (Schaeff.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

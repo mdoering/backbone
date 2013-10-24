@@ -1,5 +1,4 @@
-Dothiorella armeniaca (Speg.) Arx SPECIES
-=======
+# Dothiorella armeniaca (Speg.) Arx SPECIES
 
 #### Status
 ACCEPTED

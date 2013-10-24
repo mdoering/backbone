@@ -1,5 +1,4 @@
-Uredo clavigera Lasch SPECIES
-=======
+# Uredo clavigera Lasch SPECIES
 
 #### Status
 ACCEPTED

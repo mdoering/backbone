@@ -1,5 +1,4 @@
-Autoicomyces japonicus Thaxt. SPECIES
-=======
+# Autoicomyces japonicus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

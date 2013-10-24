@@ -1,5 +1,4 @@
-Xanthoparmelia nanoides Elix SPECIES
-=======
+# Xanthoparmelia nanoides Elix SPECIES
 
 #### Status
 ACCEPTED

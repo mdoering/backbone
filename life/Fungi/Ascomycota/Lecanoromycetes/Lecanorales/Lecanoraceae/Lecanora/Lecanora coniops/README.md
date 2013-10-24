@@ -1,5 +1,4 @@
-Lecanora coniops Ach. SPECIES
-=======
+# Lecanora coniops Ach. SPECIES
 
 #### Status
 ACCEPTED

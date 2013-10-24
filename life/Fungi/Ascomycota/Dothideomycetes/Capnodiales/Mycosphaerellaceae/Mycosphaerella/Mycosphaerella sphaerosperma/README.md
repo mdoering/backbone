@@ -1,5 +1,4 @@
-Mycosphaerella sphaerosperma (Rostr.) Herter SPECIES
-=======
+# Mycosphaerella sphaerosperma (Rostr.) Herter SPECIES
 
 #### Status
 ACCEPTED

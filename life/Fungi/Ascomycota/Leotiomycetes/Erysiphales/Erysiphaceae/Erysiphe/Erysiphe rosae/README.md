@@ -1,5 +1,4 @@
-Erysiphe rosae (Golovin & Gamalizk.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe rosae (Golovin & Gamalizk.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

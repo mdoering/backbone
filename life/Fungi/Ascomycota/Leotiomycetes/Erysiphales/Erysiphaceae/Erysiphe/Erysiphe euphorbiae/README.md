@@ -1,5 +1,4 @@
-Erysiphe euphorbiae Peck, 1874 SPECIES
-=======
+# Erysiphe euphorbiae Peck, 1874 SPECIES
 
 #### Status
 ACCEPTED

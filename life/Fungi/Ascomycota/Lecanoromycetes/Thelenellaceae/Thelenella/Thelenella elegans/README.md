@@ -1,5 +1,4 @@
-Thelenella elegans Vain. SPECIES
-=======
+# Thelenella elegans Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anomalemma Sivan. GENUS
-=======
+# Anomalemma Sivan. GENUS
 
 #### Status
 ACCEPTED

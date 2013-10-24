@@ -1,5 +1,4 @@
-Fusarium catenulatum F.J. Chen SPECIES
-=======
+# Fusarium catenulatum F.J. Chen SPECIES
 
 #### Status
 ACCEPTED

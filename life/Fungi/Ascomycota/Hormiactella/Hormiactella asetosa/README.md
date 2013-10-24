@@ -1,5 +1,4 @@
-Hormiactella asetosa Hol.-Jech., 1978 SPECIES
-=======
+# Hormiactella asetosa Hol.-Jech., 1978 SPECIES
 
 #### Status
 ACCEPTED

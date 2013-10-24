@@ -1,5 +1,4 @@
-Hymenochaete boninensis Yasuda, 1919 SPECIES
-=======
+# Hymenochaete boninensis Yasuda, 1919 SPECIES
 
 #### Status
 ACCEPTED

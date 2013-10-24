@@ -1,5 +1,4 @@
-Proplectella fastigata Jörgensen, 1924 SPECIES
-=======
+# Proplectella fastigata Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

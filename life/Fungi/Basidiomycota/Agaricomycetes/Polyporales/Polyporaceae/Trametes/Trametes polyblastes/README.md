@@ -1,5 +1,4 @@
-Trametes polyblastes Corner SPECIES
-=======
+# Trametes polyblastes Corner SPECIES
 
 #### Status
 ACCEPTED

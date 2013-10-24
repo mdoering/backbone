@@ -1,5 +1,4 @@
-Tremella olivaceonigra Britzelm. SPECIES
-=======
+# Tremella olivaceonigra Britzelm. SPECIES
 
 #### Status
 ACCEPTED

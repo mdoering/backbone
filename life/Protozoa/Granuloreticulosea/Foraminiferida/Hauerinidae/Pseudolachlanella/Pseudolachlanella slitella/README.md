@@ -1,5 +1,4 @@
-Pseudolachlanella slitella Langer, 1992 SPECIES
-=======
+# Pseudolachlanella slitella Langer, 1992 SPECIES
 
 #### Status
 ACCEPTED

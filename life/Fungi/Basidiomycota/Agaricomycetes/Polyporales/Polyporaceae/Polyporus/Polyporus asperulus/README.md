@@ -1,5 +1,4 @@
-Polyporus asperulus Har. & Pat. SPECIES
-=======
+# Polyporus asperulus Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

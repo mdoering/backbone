@@ -1,5 +1,4 @@
-Rhabdospora glechomae I.E. Brezhnev SPECIES
-=======
+# Rhabdospora glechomae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

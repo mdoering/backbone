@@ -1,5 +1,4 @@
-Asterorotalia inspinosa Huang SPECIES
-=======
+# Asterorotalia inspinosa Huang SPECIES
 
 #### Status
 ACCEPTED

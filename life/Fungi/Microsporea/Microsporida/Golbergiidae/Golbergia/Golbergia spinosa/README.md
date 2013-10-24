@@ -1,5 +1,4 @@
-Golbergia spinosa (Golberg) J. Weiser SPECIES
-=======
+# Golbergia spinosa (Golberg) J. Weiser SPECIES
 
 #### Status
 ACCEPTED

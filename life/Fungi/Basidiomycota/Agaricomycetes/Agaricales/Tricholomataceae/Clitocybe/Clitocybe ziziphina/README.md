@@ -1,14 +1,13 @@
-Clitocybe zizyphina (Viv.) Sacc. SPECIES
-=======
+# Clitocybe ziziphina (Viv.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-I Funghi d'Italia (Genova) (1887)
+Syll. fung. (Abellini) 5: 173 (1887)
 
 #### Original name
 Agaricus ziziphina Viv.

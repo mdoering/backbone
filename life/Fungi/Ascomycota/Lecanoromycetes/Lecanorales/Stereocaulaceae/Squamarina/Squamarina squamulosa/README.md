@@ -1,5 +1,4 @@
-Squamarina squamulosa (Nyl.) Follmann SPECIES
-=======
+# Squamarina squamulosa (Nyl.) Follmann SPECIES
 
 #### Status
 ACCEPTED

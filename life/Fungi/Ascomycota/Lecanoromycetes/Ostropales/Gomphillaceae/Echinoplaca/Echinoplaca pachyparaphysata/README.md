@@ -1,5 +1,4 @@
-Echinoplaca pachyparaphysata R. Sant. SPECIES
-=======
+# Echinoplaca pachyparaphysata R. Sant. SPECIES
 
 #### Status
 ACCEPTED

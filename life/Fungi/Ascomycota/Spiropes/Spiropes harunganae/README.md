@@ -1,5 +1,4 @@
-Spiropes harunganae (Hansf.) M.B. Ellis SPECIES
-=======
+# Spiropes harunganae (Hansf.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

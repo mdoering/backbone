@@ -1,5 +1,4 @@
-Ploesconia mamillata Fromentel, 1876 SPECIES
-=======
+# Ploesconia mamillata Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

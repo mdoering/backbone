@@ -1,5 +1,4 @@
-Diatrype tumida Ellis & Everh. SPECIES
-=======
+# Diatrype tumida Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

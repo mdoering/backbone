@@ -1,5 +1,4 @@
-Boletus pseudobadius Velen. SPECIES
-=======
+# Boletus pseudobadius Velen. SPECIES
 
 #### Status
 ACCEPTED

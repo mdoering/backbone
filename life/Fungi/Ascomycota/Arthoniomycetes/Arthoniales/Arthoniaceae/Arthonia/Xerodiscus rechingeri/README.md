@@ -1,5 +1,4 @@
-Xerodiscus rechingeri Petr. SPECIES
-=======
+# Xerodiscus rechingeri Petr. SPECIES
 
 #### Status
 ACCEPTED

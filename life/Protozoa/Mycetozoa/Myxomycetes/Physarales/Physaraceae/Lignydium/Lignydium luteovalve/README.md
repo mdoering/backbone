@@ -1,5 +1,4 @@
-Lignydium luteovalve (Schwein.) Kuntze SPECIES
-=======
+# Lignydium luteovalve (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

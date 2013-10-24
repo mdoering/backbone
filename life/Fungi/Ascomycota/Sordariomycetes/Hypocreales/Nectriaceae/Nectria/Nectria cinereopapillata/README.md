@@ -1,5 +1,4 @@
-Nectria cinereopapillata Henn. & E. Nyman, 1900 SPECIES
-=======
+# Nectria cinereopapillata Henn. & E. Nyman, 1900 SPECIES
 
 #### Status
 ACCEPTED

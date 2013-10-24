@@ -1,5 +1,4 @@
-Entoloma incongruum (Berk.) E. Horak SPECIES
-=======
+# Entoloma incongruum (Berk.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

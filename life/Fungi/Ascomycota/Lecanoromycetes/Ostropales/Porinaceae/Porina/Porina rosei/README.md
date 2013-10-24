@@ -1,5 +1,4 @@
-Porina rosei Sérus. SPECIES
-=======
+# Porina rosei Sérus. SPECIES
 
 #### Status
 ACCEPTED

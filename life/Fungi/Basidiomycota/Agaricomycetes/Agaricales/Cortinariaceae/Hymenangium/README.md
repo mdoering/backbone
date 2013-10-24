@@ -1,5 +1,4 @@
-Hymenangium GENUS
-=======
+# Hymenangium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acidobacteriales ORDER
-=======
+# Acidobacteriales ORDER
 
 #### Status
 ACCEPTED

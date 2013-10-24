@@ -1,5 +1,4 @@
-Satka T.V. Jankauskas, 1979 GENUS
-=======
+# Satka T.V. Jankauskas, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenogaster sulcatus R. Hesse, 1891 SPECIES
-=======
+# Hymenogaster sulcatus R. Hesse, 1891 SPECIES
 
 #### Status
 ACCEPTED

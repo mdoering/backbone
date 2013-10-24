@@ -1,5 +1,4 @@
-Poria rubrochorda Petch SPECIES
-=======
+# Poria rubrochorda Petch SPECIES
 
 #### Status
 ACCEPTED

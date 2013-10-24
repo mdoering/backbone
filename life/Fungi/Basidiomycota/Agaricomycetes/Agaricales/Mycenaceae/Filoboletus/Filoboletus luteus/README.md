@@ -1,5 +1,4 @@
-Filoboletus luteus (Overeem) Singer SPECIES
-=======
+# Filoboletus luteus (Overeem) Singer SPECIES
 
 #### Status
 ACCEPTED

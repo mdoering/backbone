@@ -1,5 +1,4 @@
-Lactifluus subpurpureus (Peck) Kuntze SPECIES
-=======
+# Lactifluus subpurpureus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

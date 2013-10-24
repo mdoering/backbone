@@ -1,5 +1,4 @@
-Cephalia globata Sah & Kar, 1974 SPECIES
-=======
+# Cephalia globata Sah & Kar, 1974 SPECIES
 
 #### Status
 ACCEPTED

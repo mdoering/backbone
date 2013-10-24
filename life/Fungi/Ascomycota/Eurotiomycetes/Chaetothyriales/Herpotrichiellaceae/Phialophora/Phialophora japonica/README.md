@@ -1,5 +1,4 @@
-Phialophora japonica Iwatsu & Udagawa, 1985 SPECIES
-=======
+# Phialophora japonica Iwatsu & Udagawa, 1985 SPECIES
 
 #### Status
 ACCEPTED

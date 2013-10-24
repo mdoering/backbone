@@ -1,5 +1,4 @@
-Cyrtidula amphilomatis Jatta SPECIES
-=======
+# Cyrtidula amphilomatis Jatta SPECIES
 
 #### Status
 ACCEPTED

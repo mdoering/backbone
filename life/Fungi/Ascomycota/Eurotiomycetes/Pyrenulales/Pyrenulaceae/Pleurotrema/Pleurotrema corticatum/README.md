@@ -1,14 +1,13 @@
-Pleurotrema corticola (Makhija & Patw.) D.D. Awasthi SPECIES
-=======
+# Pleurotrema corticatum (Makhija & Patw.) D.D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 40: 4 (1991)
 
 #### Original name
 Ditremis corticata Makhija & Patw.

@@ -1,5 +1,4 @@
-Sporotrichum oligocarpum (Corda) Rabenh. SPECIES
-=======
+# Sporotrichum oligocarpum (Corda) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

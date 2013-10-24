@@ -1,5 +1,4 @@
-Clathrolychnus Haeckel, 1881 GENUS
-=======
+# Clathrolychnus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

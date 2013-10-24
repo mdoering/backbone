@@ -1,5 +1,4 @@
-Cetraria asahinae f. asahinae FORM
-=======
+# Cetreliopsis asahinae (M. Satô) Randlane & A. Thell SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Saito, Ho-on Kai Mus. Res. Bul. 11: 12 (1936)
+in Randlane, Thell & Saag, Cryptog. Bryol. -Lichénol. 16(1): 49 (1995)
 
 #### Original name
-Cetraria asahinae f. asahinae
+Cetraria asahinae M. Satô
 
 ### Remarks
 null

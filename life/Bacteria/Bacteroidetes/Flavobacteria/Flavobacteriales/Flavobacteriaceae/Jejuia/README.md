@@ -1,5 +1,4 @@
-Jejuia Lee, Kahng, Lee, Jung, Kim, Chung, Park & Jeon, 2009 GENUS
-=======
+# Jejuia Lee, Kahng, Lee, Jung, Kim, Chung, Park & Jeon, 2009 GENUS
 
 #### Status
 ACCEPTED

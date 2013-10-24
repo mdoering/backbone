@@ -1,5 +1,4 @@
-Lamprospora tuberculata Maire SPECIES
-=======
+# Lamprospora tuberculata Maire SPECIES
 
 #### Status
 ACCEPTED

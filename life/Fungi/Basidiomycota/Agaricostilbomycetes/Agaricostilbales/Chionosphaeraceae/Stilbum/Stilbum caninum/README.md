@@ -1,5 +1,4 @@
-Stilbum caninum Cooke & Massee SPECIES
-=======
+# Stilbum caninum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

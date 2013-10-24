@@ -1,5 +1,4 @@
-Mycosphaerella sublibera Petr., 1950 SPECIES
-=======
+# Mycosphaerella sublibera Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

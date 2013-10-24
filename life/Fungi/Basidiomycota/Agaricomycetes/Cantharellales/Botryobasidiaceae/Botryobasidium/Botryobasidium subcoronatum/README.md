@@ -1,14 +1,13 @@
-Pellicularia subcoronata (Höhn. & Litsch.) D.P. Rogers, 1943 SPECIES
-=======
+# Botryobasidium subcoronatum (Höhn. & Litsch.) Donk, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 1: 104 (1943)
+Medded. Nedl. Mycol. Ver. 18-20: 117 (1931)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Irenopsis keniensis Mibey SPECIES
-=======
+# Irenopsis keniensis Mibey SPECIES
 
 #### Status
 ACCEPTED

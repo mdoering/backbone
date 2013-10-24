@@ -1,5 +1,4 @@
-Inocybe transiens Takah. Kobay. SPECIES
-=======
+# Inocybe transiens Takah. Kobay. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula retispora (Singer) Bon SPECIES
-=======
+# Russula retispora (Singer) Bon SPECIES
 
 #### Status
 ACCEPTED

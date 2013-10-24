@@ -1,5 +1,4 @@
-Balantidion Eberland, 1862 GENUS
-=======
+# Balantidion Eberland, 1862 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium hyalopus Pat. SPECIES
-=======
+# Sporidesmium hyalopus Pat. SPECIES
 
 #### Status
 ACCEPTED

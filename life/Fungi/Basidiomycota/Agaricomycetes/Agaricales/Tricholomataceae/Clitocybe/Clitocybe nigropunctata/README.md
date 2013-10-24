@@ -1,5 +1,4 @@
-Clitocybe nigropunctata Secr. SPECIES
-=======
+# Clitocybe nigropunctata Secr. SPECIES
 
 #### Status
 ACCEPTED

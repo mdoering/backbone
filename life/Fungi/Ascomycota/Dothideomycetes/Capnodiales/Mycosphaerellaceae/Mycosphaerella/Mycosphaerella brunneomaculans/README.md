@@ -1,5 +1,4 @@
-Mycosphaerella brunneomaculans Ts. Kobay. SPECIES
-=======
+# Mycosphaerella brunneomaculans Ts. Kobay. SPECIES
 
 #### Status
 ACCEPTED

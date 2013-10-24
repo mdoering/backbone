@@ -1,5 +1,4 @@
-Lecidea arnoldii (Kremp.) Nyl. SPECIES
-=======
+# Lecidea arnoldii (Kremp.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

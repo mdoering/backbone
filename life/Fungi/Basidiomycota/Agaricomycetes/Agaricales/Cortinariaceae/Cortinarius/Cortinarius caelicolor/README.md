@@ -1,5 +1,4 @@
-Cortinarius caelicolor M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius caelicolor M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

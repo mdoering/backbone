@@ -1,5 +1,4 @@
-Diplodina leguminis-cytisi (Desm.) Höhn. SPECIES
-=======
+# Diplodina leguminis-cytisi (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

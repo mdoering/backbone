@@ -1,5 +1,4 @@
-Leptosphaeria phoenix P.G. Xi, Y.X. Chen & Z.D. Jiang SPECIES
-=======
+# Leptosphaeria phoenix P.G. Xi, Y.X. Chen & Z.D. Jiang SPECIES
 
 #### Status
 ACCEPTED

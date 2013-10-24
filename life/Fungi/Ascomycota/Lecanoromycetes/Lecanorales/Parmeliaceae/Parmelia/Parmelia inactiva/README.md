@@ -1,5 +1,4 @@
-Parmelia inactiva (Zahlbr.) Vain. SPECIES
-=======
+# Parmelia inactiva (Zahlbr.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nagrajomyces Melnik GENUS
-=======
+# Nagrajomyces Melnik GENUS
 
 #### Status
 ACCEPTED

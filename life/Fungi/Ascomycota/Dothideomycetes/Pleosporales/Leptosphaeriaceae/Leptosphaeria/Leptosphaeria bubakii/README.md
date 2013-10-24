@@ -1,5 +1,4 @@
-Leptosphaeria bubakii Klika SPECIES
-=======
+# Leptosphaeria bubakii Klika SPECIES
 
 #### Status
 ACCEPTED

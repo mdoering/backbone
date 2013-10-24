@@ -1,5 +1,4 @@
-Leptosphaeria dodonaeae Canonaco SPECIES
-=======
+# Leptosphaeria dodonaeae Canonaco SPECIES
 
 #### Status
 ACCEPTED

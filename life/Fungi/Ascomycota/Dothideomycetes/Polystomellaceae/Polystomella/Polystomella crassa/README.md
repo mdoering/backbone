@@ -1,5 +1,4 @@
-Polystomella crassa (Rehm) Theiss. SPECIES
-=======
+# Polystomella crassa (Rehm) Theiss. SPECIES
 
 #### Status
 ACCEPTED

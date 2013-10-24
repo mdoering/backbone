@@ -1,5 +1,4 @@
-Zhamoidellum calamin SPECIES
-=======
+# Zhamoidellum calamin SPECIES
 
 #### Status
 ACCEPTED

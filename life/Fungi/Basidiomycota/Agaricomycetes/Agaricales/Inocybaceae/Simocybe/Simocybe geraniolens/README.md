@@ -1,5 +1,4 @@
-Simocybe geraniolens (Clowez & G. Díaz) E. Ludw. SPECIES
-=======
+# Simocybe geraniolens (Clowez & G. Díaz) E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

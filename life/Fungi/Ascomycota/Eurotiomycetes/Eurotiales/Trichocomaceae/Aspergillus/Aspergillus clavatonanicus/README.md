@@ -1,17 +1,16 @@
-Aspergillus clavato-nanica Bat., H. Maia & Alecrim SPECIES
-=======
+# Aspergillus clavatonanicus Bat., H. Maia & Alecrim, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anais Soc. Bot. Brasil 15: 197 (1955)
 
 #### Original name
-Aspergillus clavato-nanica Bat., H. Maia & Alecrim
+Aspergillus clavatonanicus Bat., H. Maia & Alecrim, 1955
 
 ### Remarks
 null

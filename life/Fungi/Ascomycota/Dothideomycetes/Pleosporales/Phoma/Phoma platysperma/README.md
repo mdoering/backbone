@@ -1,5 +1,4 @@
-Phoma platysperma Peck SPECIES
-=======
+# Phoma platysperma Peck SPECIES
 
 #### Status
 ACCEPTED

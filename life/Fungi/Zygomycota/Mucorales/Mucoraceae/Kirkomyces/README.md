@@ -1,5 +1,4 @@
-Kirkomyces Benny GENUS
-=======
+# Kirkomyces Benny GENUS
 
 #### Status
 ACCEPTED

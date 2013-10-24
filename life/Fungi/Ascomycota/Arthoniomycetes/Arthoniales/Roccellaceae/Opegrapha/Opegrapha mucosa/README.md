@@ -1,5 +1,4 @@
-Opegrapha mucosa Messner SPECIES
-=======
+# Opegrapha mucosa Messner SPECIES
 
 #### Status
 ACCEPTED

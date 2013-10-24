@@ -1,5 +1,4 @@
-Pyrenula leprieurii Trevis. SPECIES
-=======
+# Pyrenula leprieurii Trevis. SPECIES
 
 #### Status
 ACCEPTED

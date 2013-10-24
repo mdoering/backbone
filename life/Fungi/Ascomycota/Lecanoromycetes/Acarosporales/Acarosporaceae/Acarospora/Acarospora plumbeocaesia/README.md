@@ -1,5 +1,4 @@
-Acarospora plumbeocaesia Zahlbr. SPECIES
-=======
+# Acarospora plumbeocaesia Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

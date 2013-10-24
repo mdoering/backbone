@@ -1,5 +1,4 @@
-Hymenogaster disciformis R. Hesse SPECIES
-=======
+# Hymenogaster disciformis R. Hesse SPECIES
 
 #### Status
 ACCEPTED

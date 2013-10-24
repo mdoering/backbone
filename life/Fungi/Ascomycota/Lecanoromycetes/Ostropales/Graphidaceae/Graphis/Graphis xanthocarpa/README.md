@@ -1,5 +1,4 @@
-Graphis xanthocarpa Müll. Arg. SPECIES
-=======
+# Graphis xanthocarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

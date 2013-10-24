@@ -1,5 +1,4 @@
-Trichotrema GENUS
-=======
+# Trichotrema GENUS
 
 #### Status
 ACCEPTED

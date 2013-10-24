@@ -1,5 +1,4 @@
-Didymostilbe coccinea (Massee) Sacc. SPECIES
-=======
+# Didymostilbe coccinea (Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

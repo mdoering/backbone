@@ -1,5 +1,4 @@
-Cercospora commelinae Kalchbr. & Cooke SPECIES
-=======
+# Cercospora commelinae Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

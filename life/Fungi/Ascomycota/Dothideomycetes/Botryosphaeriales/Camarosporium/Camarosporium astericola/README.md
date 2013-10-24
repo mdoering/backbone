@@ -1,5 +1,4 @@
-Camarosporium astericola Ellis & Barthol. SPECIES
-=======
+# Camarosporium astericola Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

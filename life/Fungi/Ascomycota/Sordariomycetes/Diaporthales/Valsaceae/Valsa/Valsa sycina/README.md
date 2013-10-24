@@ -1,5 +1,4 @@
-Valsa sycina Mont. SPECIES
-=======
+# Valsa sycina Mont. SPECIES
 
 #### Status
 ACCEPTED

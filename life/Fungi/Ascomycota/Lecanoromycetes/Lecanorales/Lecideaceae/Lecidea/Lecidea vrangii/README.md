@@ -1,5 +1,4 @@
-Lecidea vrangii Malme SPECIES
-=======
+# Lecidea vrangii Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostoma euphorbiae R.C. Rajak & A.K. Pandey SPECIES
-=======
+# Anthostoma euphorbiae R.C. Rajak & A.K. Pandey SPECIES
 
 #### Status
 ACCEPTED

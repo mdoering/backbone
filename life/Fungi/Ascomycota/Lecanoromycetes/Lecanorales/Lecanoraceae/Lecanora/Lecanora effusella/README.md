@@ -1,5 +1,4 @@
-Lecanora effusella Hedl. SPECIES
-=======
+# Lecanora effusella Hedl. SPECIES
 
 #### Status
 ACCEPTED

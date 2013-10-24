@@ -1,5 +1,4 @@
-Coniophora cordensis S.S. Rattan, 1977 SPECIES
-=======
+# Coniophora cordensis S.S. Rattan, 1977 SPECIES
 
 #### Status
 ACCEPTED

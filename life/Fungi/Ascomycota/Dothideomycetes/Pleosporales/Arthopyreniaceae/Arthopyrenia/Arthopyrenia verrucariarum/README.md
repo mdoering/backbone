@@ -1,5 +1,4 @@
-Arthopyrenia verrucariarum Arnold SPECIES
-=======
+# Arthopyrenia verrucariarum Arnold SPECIES
 
 #### Status
 ACCEPTED

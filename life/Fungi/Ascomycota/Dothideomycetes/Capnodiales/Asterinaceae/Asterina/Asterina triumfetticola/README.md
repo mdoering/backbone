@@ -1,5 +1,4 @@
-Asterina triumfetticola W. Yamam. SPECIES
-=======
+# Asterina triumfetticola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma mohavei Lloyd SPECIES
-=======
+# Tulostoma mohavei Lloyd SPECIES
 
 #### Status
 ACCEPTED

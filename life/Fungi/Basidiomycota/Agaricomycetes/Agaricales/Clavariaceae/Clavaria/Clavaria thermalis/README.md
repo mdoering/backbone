@@ -1,5 +1,4 @@
-Clavaria thermalis Lam. & DC. SPECIES
-=======
+# Clavaria thermalis Lam. & DC. SPECIES
 
 #### Status
 ACCEPTED

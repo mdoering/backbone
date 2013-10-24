@@ -1,5 +1,4 @@
-Tephrocybe protracta (Fr.) Raithelh. SPECIES
-=======
+# Tephrocybe protracta (Fr.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scorias philippinensis Mendoza {?} SPECIES
-=======
+# Scorias philippinensis Mendoza {?} SPECIES
 
 #### Status
 ACCEPTED

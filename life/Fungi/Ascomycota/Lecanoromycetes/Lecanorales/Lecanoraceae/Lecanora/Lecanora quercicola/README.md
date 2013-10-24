@@ -1,5 +1,4 @@
-Lecanora quercicola Coppins & P. James SPECIES
-=======
+# Lecanora quercicola Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

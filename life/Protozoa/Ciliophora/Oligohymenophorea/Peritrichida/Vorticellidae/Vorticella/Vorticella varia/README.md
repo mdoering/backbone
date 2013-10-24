@@ -1,5 +1,4 @@
-Vorticella varia Müller, 1786 SPECIES
-=======
+# Vorticella varia Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

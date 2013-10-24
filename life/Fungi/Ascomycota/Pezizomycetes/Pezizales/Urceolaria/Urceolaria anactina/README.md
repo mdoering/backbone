@@ -1,5 +1,4 @@
-Urceolaria anactina Nyl. SPECIES
-=======
+# Urceolaria anactina Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus pisciodorus (Murrill) Murrill SPECIES
-=======
+# Boletus pisciodorus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

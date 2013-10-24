@@ -1,5 +1,4 @@
-Sporidesmium raphiae M.B. Ellis SPECIES
-=======
+# Sporidesmium raphiae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

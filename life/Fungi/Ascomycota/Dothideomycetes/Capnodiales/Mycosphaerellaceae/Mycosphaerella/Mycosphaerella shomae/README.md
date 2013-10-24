@@ -1,5 +1,4 @@
-Mycosphaerella shomae Hara SPECIES
-=======
+# Mycosphaerella shomae Hara SPECIES
 
 #### Status
 ACCEPTED

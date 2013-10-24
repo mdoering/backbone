@@ -1,5 +1,4 @@
-Lyophyllum serius Romagn. SPECIES
-=======
+# Lyophyllum serius Romagn. SPECIES
 
 #### Status
 ACCEPTED

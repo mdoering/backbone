@@ -1,5 +1,4 @@
-Rhabdospora sabinae Sacc. & Fautrey SPECIES
-=======
+# Rhabdospora sabinae Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

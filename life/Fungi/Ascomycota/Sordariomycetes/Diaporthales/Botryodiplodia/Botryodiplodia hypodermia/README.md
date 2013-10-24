@@ -1,14 +1,13 @@
-Botryosphaerostroma hypodermia (Sacc.) Petr., 1921 SPECIES
-=======
+# Botryodiplodia hypodermia (Sacc.) Petr., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 21(3/4): 334 (1923)
 
 #### Original name
 Myxosporium hypodermium Sacc., 1884

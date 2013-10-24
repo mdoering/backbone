@@ -1,5 +1,4 @@
-Strobilomyces mollis Corner SPECIES
-=======
+# Strobilomyces mollis Corner SPECIES
 
 #### Status
 ACCEPTED

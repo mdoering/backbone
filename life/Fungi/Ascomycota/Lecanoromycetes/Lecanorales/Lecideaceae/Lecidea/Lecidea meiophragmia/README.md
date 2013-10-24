@@ -1,5 +1,4 @@
-Lecidea meiophragmia Nyl. SPECIES
-=======
+# Lecidea meiophragmia Nyl. SPECIES
 
 #### Status
 ACCEPTED

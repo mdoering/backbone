@@ -1,5 +1,4 @@
-Volvariella insignis Heinem. SPECIES
-=======
+# Volvariella insignis Heinem. SPECIES
 
 #### Status
 ACCEPTED

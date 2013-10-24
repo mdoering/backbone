@@ -1,17 +1,16 @@
-Cordyceps carabidiicola Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps carabidicola Kobayasi & Shimizu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. natn. Sci. Mus. , Tokyo, B 6(3): 85 (1980)
 
 #### Original name
-Cordyceps carabidiicola Kobayasi & Shimizu
+Cordyceps carabidicola Kobayasi & Shimizu
 
 ### Remarks
 null

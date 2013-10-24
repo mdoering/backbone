@@ -1,5 +1,4 @@
-Bellemerella trapeliae Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Bellemerella trapeliae Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

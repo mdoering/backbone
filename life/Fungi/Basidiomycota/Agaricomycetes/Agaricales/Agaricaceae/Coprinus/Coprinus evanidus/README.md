@@ -1,5 +1,4 @@
-Coprinus evanidus Godey SPECIES
-=======
+# Coprinus evanidus Godey SPECIES
 
 #### Status
 ACCEPTED

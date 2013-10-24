@@ -1,5 +1,4 @@
-Simocybe mutabilis Corner & E. Horak SPECIES
-=======
+# Simocybe mutabilis Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea praebadia Nyl. SPECIES
-=======
+# Lecidea praebadia Nyl. SPECIES
 
 #### Status
 ACCEPTED

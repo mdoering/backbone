@@ -1,5 +1,4 @@
-Caeoma tsugae Spauld. SPECIES
-=======
+# Caeoma tsugae Spauld. SPECIES
 
 #### Status
 ACCEPTED

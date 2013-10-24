@@ -1,5 +1,4 @@
-Xanthoparmelia treurensis Hale, T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia treurensis Hale, T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

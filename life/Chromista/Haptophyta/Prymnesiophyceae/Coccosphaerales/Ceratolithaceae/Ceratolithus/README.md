@@ -1,5 +1,4 @@
-Ceratolithus Kamptner, 1950 GENUS
-=======
+# Ceratolithus Kamptner, 1950 GENUS
 
 #### Status
 ACCEPTED

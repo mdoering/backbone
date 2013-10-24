@@ -1,5 +1,4 @@
-Coniothyrium populicola Miura SPECIES
-=======
+# Coniothyrium populicola Miura SPECIES
 
 #### Status
 ACCEPTED

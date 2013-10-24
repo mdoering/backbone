@@ -1,5 +1,4 @@
-Hypocrea virescentiflava Speg. SPECIES
-=======
+# Hypocrea virescentiflava Speg. SPECIES
 
 #### Status
 ACCEPTED

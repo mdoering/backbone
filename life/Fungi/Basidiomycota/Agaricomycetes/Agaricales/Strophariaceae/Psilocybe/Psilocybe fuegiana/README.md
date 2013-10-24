@@ -1,5 +1,4 @@
-Psilocybe fuegiana (E. Horak) Singer SPECIES
-=======
+# Psilocybe fuegiana (E. Horak) Singer SPECIES
 
 #### Status
 ACCEPTED

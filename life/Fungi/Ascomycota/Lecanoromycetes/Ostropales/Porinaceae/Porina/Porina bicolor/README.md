@@ -1,5 +1,4 @@
-Porina bicolor Müll. Arg. SPECIES
-=======
+# Porina bicolor Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

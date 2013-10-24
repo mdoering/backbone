@@ -1,5 +1,4 @@
-Xylographa linearis Sacc. SPECIES
-=======
+# Xylographa linearis Sacc. SPECIES
 
 #### Status
 ACCEPTED

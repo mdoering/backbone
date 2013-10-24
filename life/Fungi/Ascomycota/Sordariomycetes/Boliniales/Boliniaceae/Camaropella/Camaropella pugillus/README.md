@@ -1,14 +1,13 @@
-Valsa pugillus (Schwein.) M.A. Curtis, 1867 SPECIES
-=======
+# Camaropella pugillus (Schwein.) Lar.N. Vassiljeva, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Geol. Nat. Hist. Surv. N. Carol. 3: 142 (1867)
+Mikol. Fitopatol. 31(1): 6 (1997)
 
 #### Original name
 Sphaeria pugillus Schwein., 1822

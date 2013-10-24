@@ -1,5 +1,4 @@
-Chapsa sipmanii Frisch & Kalb SPECIES
-=======
+# Chapsa sipmanii Frisch & Kalb SPECIES
 
 #### Status
 ACCEPTED

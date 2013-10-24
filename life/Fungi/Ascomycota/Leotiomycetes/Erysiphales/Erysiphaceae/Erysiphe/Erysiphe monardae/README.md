@@ -1,5 +1,4 @@
-Erysiphe monardae G.S. Nagy SPECIES
-=======
+# Erysiphe monardae G.S. Nagy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora magnoliae Massa SPECIES
-=======
+# Pleospora magnoliae Massa SPECIES
 
 #### Status
 ACCEPTED

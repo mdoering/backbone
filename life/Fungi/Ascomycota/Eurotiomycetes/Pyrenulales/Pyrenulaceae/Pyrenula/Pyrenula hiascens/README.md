@@ -1,5 +1,4 @@
-Pyrenula hiascens Ach. SPECIES
-=======
+# Pyrenula hiascens Ach. SPECIES
 
 #### Status
 ACCEPTED

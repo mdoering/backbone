@@ -1,5 +1,4 @@
-Microchaete calothrichoides Hansgirg SPECIES
-=======
+# Microchaete calothrichoides Hansgirg SPECIES
 
 #### Status
 ACCEPTED

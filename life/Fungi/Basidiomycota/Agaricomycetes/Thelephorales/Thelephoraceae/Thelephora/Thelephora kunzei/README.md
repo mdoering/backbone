@@ -1,5 +1,4 @@
-Thelephora kunzei Hook. SPECIES
-=======
+# Thelephora kunzei Hook. SPECIES
 
 #### Status
 ACCEPTED

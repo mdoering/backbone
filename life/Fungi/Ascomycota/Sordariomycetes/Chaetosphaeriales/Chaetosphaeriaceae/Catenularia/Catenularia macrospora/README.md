@@ -1,5 +1,4 @@
-Catenularia macrospora S. Hughes, 1965 SPECIES
-=======
+# Catenularia macrospora S. Hughes, 1965 SPECIES
 
 #### Status
 ACCEPTED

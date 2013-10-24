@@ -1,5 +1,4 @@
-Cristinia rhenana Grosse-Brauckm., 1993 SPECIES
-=======
+# Cristinia rhenana Grosse-Brauckm., 1993 SPECIES
 
 #### Status
 ACCEPTED

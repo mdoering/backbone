@@ -1,5 +1,4 @@
-Dollidinium sinuosa (Cookson & Eisenack, 1960) SPECIES
-=======
+# Dollidinium sinuosa (Cookson & Eisenack, 1960) SPECIES
 
 #### Status
 ACCEPTED

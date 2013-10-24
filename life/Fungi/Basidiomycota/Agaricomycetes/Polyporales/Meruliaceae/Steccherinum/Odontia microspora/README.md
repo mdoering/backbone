@@ -1,5 +1,4 @@
-Odontia microspora Rick SPECIES
-=======
+# Odontia microspora Rick SPECIES
 
 #### Status
 ACCEPTED

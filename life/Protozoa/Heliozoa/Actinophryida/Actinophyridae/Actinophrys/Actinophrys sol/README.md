@@ -1,5 +1,4 @@
-Actinophrys sol Ehr. SPECIES
-=======
+# Actinophrys sol Ehr. SPECIES
 
 #### Status
 ACCEPTED

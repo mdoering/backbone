@@ -1,5 +1,4 @@
-Ionaspis ferrophila Räsänen SPECIES
-=======
+# Ionaspis ferrophila Räsänen SPECIES
 
 #### Status
 ACCEPTED

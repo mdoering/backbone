@@ -1,5 +1,4 @@
-Phyllosticta lueheae Bat. SPECIES
-=======
+# Phyllosticta lueheae Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balladynastrum GENUS
-=======
+# Balladynastrum GENUS
 
 #### Status
 ACCEPTED

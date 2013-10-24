@@ -1,5 +1,4 @@
-Cryptosporella prunicola Oudem. & Fautrey SPECIES
-=======
+# Cryptosporella prunicola Oudem. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

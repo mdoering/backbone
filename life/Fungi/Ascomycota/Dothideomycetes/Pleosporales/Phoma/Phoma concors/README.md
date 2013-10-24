@@ -1,5 +1,4 @@
-Phoma concors Cooke & Ellis SPECIES
-=======
+# Phoma concors Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

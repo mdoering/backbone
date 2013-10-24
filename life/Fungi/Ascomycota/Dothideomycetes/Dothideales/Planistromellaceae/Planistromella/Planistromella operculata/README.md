@@ -1,5 +1,4 @@
-Planistromella operculata (Sacc.) Aptroot, 2006 SPECIES
-=======
+# Planistromella operculata (Sacc.) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED

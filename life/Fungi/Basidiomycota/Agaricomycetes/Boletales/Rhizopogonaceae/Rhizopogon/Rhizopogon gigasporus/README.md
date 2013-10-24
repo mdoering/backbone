@@ -1,5 +1,4 @@
-Rhizopogon gigasporus Pacioni SPECIES
-=======
+# Rhizopogon gigasporus Pacioni SPECIES
 
 #### Status
 ACCEPTED

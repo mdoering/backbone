@@ -1,5 +1,4 @@
-Micropeltella discreta Bat. SPECIES
-=======
+# Micropeltella discreta Bat. SPECIES
 
 #### Status
 ACCEPTED

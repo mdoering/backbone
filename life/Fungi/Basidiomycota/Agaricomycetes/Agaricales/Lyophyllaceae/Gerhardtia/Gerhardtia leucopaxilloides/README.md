@@ -1,5 +1,4 @@
-Gerhardtia leucopaxilloides (H.E. Bigelow & A.H. Sm.) Consiglio & Contu SPECIES
-=======
+# Gerhardtia leucopaxilloides (H.E. Bigelow & A.H. Sm.) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

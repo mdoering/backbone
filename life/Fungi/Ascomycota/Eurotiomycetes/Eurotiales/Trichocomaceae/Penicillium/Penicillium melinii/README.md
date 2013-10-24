@@ -1,17 +1,16 @@
-Penicillium griseopurpureum G. Sm., 1965 SPECIES
-=======
+# Penicillium melinii Thom, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 48(2): 274 (1965)
+The Penicillia 273 (1930)
 
 #### Original name
-Penicillium griseopurpureum G. Sm., 1965
+Penicillium melinii Thom, 1930
 
 ### Remarks
 null

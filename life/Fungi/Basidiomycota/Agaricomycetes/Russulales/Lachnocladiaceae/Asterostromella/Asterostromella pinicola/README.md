@@ -1,5 +1,4 @@
-Asterostromella pinicola Killerm. SPECIES
-=======
+# Asterostromella pinicola Killerm. SPECIES
 
 #### Status
 ACCEPTED

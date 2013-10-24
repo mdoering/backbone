@@ -1,5 +1,4 @@
-Phyllosticta holosteicola Oudem. SPECIES
-=======
+# Phyllosticta holosteicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

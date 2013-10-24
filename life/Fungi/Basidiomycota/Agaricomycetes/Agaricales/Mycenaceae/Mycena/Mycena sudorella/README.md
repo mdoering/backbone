@@ -1,5 +1,4 @@
-Mycena sudorella Singer SPECIES
-=======
+# Mycena sudorella Singer SPECIES
 
 #### Status
 ACCEPTED

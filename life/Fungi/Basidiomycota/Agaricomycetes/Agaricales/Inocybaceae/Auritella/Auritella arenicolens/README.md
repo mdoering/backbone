@@ -1,14 +1,13 @@
-Auritella arenacolens (Cleland) Matheny & Bougher SPECIES
-=======
+# Auritella arenicolens (Cleland) Matheny & Bougher, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Progr. 5(1): 8 (2006)
+Mycotaxon 97: 232 (2006)
 
 #### Original name
 Naucoria arenacolens Cleland, 1933

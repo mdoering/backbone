@@ -1,5 +1,4 @@
-Sagedia parameca A. Massal. SPECIES
-=======
+# Sagedia parameca A. Massal. SPECIES
 
 #### Status
 ACCEPTED

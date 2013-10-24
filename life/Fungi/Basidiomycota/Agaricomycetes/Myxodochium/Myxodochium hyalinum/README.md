@@ -1,5 +1,4 @@
-Myxodochium hyalinum G. Arnaud SPECIES
-=======
+# Myxodochium hyalinum G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

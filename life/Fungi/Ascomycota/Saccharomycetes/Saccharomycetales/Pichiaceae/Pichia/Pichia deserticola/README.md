@@ -1,17 +1,16 @@
-Candida deserticola Phaff, Starmer, Tredick & M. Miranda, 1985 SPECIES
-=======
+# Pichia deserticola Phaff, Starmer, Tredick & M. Miranda, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Int. J. Syst. Bacteriol. 35(2): 212 (1985)
 
 #### Original name
-null
+Pichia deserticola Phaff, Starmer, Tredick & M. Miranda, 1985
 
 ### Remarks
 null

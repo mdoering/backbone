@@ -1,5 +1,4 @@
-Phanerochaete flava (Burt) Nakasone, Burds. & Lodge SPECIES
-=======
+# Phanerochaete flava (Burt) Nakasone, Burds. & Lodge SPECIES
 
 #### Status
 ACCEPTED

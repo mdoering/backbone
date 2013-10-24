@@ -1,14 +1,13 @@
-Poria onusta (P. Karst.) Sacc., 1895 SPECIES
-=======
+# Trechispora onusta P. Karst., 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 11: 95 (1895)
+Hedwigia 29: 147 (1890)
 
 #### Original name
 Trechispora onusta P. Karst., 1890

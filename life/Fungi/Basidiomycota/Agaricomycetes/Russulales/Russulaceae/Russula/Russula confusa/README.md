@@ -1,5 +1,4 @@
-Russula confusa Velen. SPECIES
-=======
+# Russula confusa Velen. SPECIES
 
 #### Status
 ACCEPTED

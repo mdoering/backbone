@@ -1,5 +1,4 @@
-Pleurocolla Petr. GENUS
-=======
+# Pleurocolla Petr. GENUS
 
 #### Status
 ACCEPTED

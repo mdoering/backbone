@@ -1,5 +1,4 @@
-Acanthoeca W.Ellis GENUS
-=======
+# Acanthoeca W.Ellis GENUS
 
 #### Status
 ACCEPTED

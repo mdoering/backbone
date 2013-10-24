@@ -1,5 +1,4 @@
-Oscillatoria yonedae I. Umezaki SPECIES
-=======
+# Oscillatoria yonedae I. Umezaki SPECIES
 
 #### Status
 ACCEPTED

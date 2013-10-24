@@ -1,5 +1,4 @@
-Gyalideopsis japonica H. Harada & Vezda SPECIES
-=======
+# Gyalideopsis japonica H. Harada & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coriolus polygonus Imazeki SPECIES
-=======
+# Coriolus polygonus Imazeki SPECIES
 
 #### Status
 ACCEPTED

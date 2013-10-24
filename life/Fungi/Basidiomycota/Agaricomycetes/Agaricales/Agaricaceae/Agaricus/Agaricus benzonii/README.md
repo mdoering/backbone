@@ -1,5 +1,4 @@
-Agaricus benzonii Fr. SPECIES
-=======
+# Agaricus benzonii Fr. SPECIES
 
 #### Status
 ACCEPTED

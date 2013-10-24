@@ -1,5 +1,4 @@
-Xanthoparmelia segregata Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia segregata Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

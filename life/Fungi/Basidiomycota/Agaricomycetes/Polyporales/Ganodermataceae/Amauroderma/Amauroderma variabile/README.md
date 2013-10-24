@@ -1,5 +1,4 @@
-Amauroderma variabile (Berk.) Lloyd ex Wakef. SPECIES
-=======
+# Amauroderma variabile (Berk.) Lloyd ex Wakef. SPECIES
 
 #### Status
 ACCEPTED

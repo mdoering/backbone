@@ -1,5 +1,4 @@
-Diplodia uvariae Gonz. Frag. SPECIES
-=======
+# Diplodia uvariae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

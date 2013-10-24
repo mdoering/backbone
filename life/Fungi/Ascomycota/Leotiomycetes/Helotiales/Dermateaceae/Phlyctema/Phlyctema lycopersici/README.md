@@ -1,5 +1,4 @@
-Phlyctema lycopersici Woron. SPECIES
-=======
+# Phlyctema lycopersici Woron. SPECIES
 
 #### Status
 ACCEPTED

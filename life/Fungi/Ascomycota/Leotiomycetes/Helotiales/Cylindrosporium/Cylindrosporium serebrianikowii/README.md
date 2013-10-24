@@ -1,5 +1,4 @@
-Cylindrosporium serebrianikowii (Bubák) Bubák SPECIES
-=======
+# Cylindrosporium serebrianikowii (Bubák) Bubák SPECIES
 
 #### Status
 ACCEPTED

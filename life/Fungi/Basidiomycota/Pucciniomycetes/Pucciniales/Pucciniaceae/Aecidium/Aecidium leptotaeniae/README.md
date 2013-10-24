@@ -1,5 +1,4 @@
-Aecidium leptotaeniae Lindr. SPECIES
-=======
+# Aecidium leptotaeniae Lindr. SPECIES
 
 #### Status
 ACCEPTED

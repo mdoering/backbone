@@ -1,5 +1,4 @@
-Xylaria mauritiensis Henn. SPECIES
-=======
+# Xylaria mauritiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

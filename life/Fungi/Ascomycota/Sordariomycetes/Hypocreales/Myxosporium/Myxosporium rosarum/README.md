@@ -1,5 +1,4 @@
-Myxosporium rosarum Hollós SPECIES
-=======
+# Myxosporium rosarum Hollós SPECIES
 
 #### Status
 ACCEPTED

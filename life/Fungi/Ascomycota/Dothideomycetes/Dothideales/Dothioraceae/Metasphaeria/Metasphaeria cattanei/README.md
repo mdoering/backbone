@@ -1,5 +1,4 @@
-Metasphaeria cattanei Sacc. SPECIES
-=======
+# Metasphaeria cattanei Sacc. SPECIES
 
 #### Status
 ACCEPTED

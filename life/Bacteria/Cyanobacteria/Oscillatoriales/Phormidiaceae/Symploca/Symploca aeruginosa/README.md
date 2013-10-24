@@ -1,5 +1,4 @@
-Symploca aeruginosa Setchell & N.L. Gardner SPECIES
-=======
+# Symploca aeruginosa Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

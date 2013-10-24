@@ -1,5 +1,4 @@
-Stagonospora tetramera Davis SPECIES
-=======
+# Stagonospora tetramera Davis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces hyacinthi W. Schneid. SPECIES
-=======
+# Uromyces hyacinthi W. Schneid. SPECIES
 
 #### Status
 ACCEPTED

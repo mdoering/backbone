@@ -1,5 +1,4 @@
-Trichia depressa Trentep. SPECIES
-=======
+# Trichia depressa Trentep. SPECIES
 
 #### Status
 ACCEPTED

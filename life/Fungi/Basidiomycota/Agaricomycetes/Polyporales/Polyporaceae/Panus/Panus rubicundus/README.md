@@ -1,5 +1,4 @@
-Panus rubicundus Mont. SPECIES
-=======
+# Panus rubicundus Mont. SPECIES
 
 #### Status
 ACCEPTED

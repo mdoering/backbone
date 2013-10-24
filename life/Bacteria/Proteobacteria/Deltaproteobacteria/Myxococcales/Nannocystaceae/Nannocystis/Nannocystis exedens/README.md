@@ -1,5 +1,4 @@
-Nannocystis exedens Reichenbach, 1970 SPECIES
-=======
+# Nannocystis exedens Reichenbach, 1970 SPECIES
 
 #### Status
 ACCEPTED

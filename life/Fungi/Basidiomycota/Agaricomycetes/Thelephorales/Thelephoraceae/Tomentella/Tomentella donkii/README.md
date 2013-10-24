@@ -1,5 +1,4 @@
-Tomentella donkii Litsch., 1941 SPECIES
-=======
+# Tomentella donkii Litsch., 1941 SPECIES
 
 #### Status
 ACCEPTED

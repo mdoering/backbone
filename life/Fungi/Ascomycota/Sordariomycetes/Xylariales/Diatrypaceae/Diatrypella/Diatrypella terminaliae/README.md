@@ -1,5 +1,4 @@
-Diatrypella terminaliae Srinivasulu & P.G. Sathe SPECIES
-=======
+# Diatrypella terminaliae Srinivasulu & P.G. Sathe SPECIES
 
 #### Status
 ACCEPTED

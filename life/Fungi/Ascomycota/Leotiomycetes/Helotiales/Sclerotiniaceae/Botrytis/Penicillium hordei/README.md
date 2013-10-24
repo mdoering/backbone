@@ -1,5 +1,4 @@
-Penicillium hordei Stolk, 1969 SPECIES
-=======
+# Penicillium hordei Stolk, 1969 SPECIES
 
 #### Status
 DOUBTFUL

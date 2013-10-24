@@ -1,5 +1,4 @@
-Lecidea personata (Körb.) Jatta SPECIES
-=======
+# Lecidea personata (Körb.) Jatta SPECIES
 
 #### Status
 ACCEPTED

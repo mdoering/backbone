@@ -1,5 +1,4 @@
-Cortinarius coleoptera H. Lindstr. & Soop SPECIES
-=======
+# Cortinarius coleoptera H. Lindstr. & Soop SPECIES
 
 #### Status
 ACCEPTED

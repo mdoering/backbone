@@ -1,8 +1,7 @@
-Cribrospirolina distinctiva var. punctata Haman, 1972 VARIETY
-=======
+# Coscinospira arietina (Batsch, 1791) SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Thelephora cotyledonea Fr. ex Weinm. SPECIES
-=======
+# Thelephora cotyledonea Fr. ex Weinm. SPECIES
 
 #### Status
 ACCEPTED

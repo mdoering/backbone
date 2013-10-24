@@ -1,5 +1,4 @@
-Psora hypnophana SPECIES
-=======
+# Psora hypnophana SPECIES
 
 #### Status
 ACCEPTED

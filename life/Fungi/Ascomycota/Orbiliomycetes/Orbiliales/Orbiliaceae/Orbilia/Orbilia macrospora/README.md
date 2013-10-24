@@ -1,5 +1,4 @@
-Orbilia macrospora Penz. & Sacc. SPECIES
-=======
+# Orbilia macrospora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

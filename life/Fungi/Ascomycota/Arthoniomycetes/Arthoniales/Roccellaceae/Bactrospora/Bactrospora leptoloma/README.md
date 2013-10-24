@@ -1,5 +1,4 @@
-Bactrospora leptoloma (Müll. Arg.) Egea & Torrente SPECIES
-=======
+# Bactrospora leptoloma (Müll. Arg.) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

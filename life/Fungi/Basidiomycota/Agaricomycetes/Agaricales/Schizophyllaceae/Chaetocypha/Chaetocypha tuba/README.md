@@ -1,5 +1,4 @@
-Chaetocypha tuba (Weinm.) Kuntze SPECIES
-=======
+# Chaetocypha tuba (Weinm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

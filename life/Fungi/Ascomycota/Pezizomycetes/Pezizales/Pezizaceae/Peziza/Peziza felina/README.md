@@ -1,5 +1,4 @@
-Peziza felina Pers. SPECIES
-=======
+# Peziza felina Pers. SPECIES
 
 #### Status
 ACCEPTED

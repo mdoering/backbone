@@ -1,5 +1,4 @@
-Lysurus texensis Ellis SPECIES
-=======
+# Lysurus texensis Ellis SPECIES
 
 #### Status
 ACCEPTED

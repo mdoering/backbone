@@ -1,14 +1,13 @@
-Epichloë sasae Hara, 1922 SPECIES
-=======
+# Heteroepichloë sasae (Hara) E. Tanaka, C. Tanaka, Gafur & Tsuda, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Fac. Agric. Shizuoka Univ. 300: 163 (1922)
+Mycoscience 43(2): 92 (2002)
 
 #### Original name
 Epichloë sasae Hara, 1922

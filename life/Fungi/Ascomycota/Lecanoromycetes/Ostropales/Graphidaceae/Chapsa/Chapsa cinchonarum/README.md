@@ -1,14 +1,13 @@
-Chapsa cinchonara (Fée) Frisch SPECIES
-=======
+# Chapsa cinchonarum (Fée) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 92: 95 (2006)
 
 #### Original name
 Urceolaria cinchonarum Fée

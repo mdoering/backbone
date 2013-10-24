@@ -1,5 +1,4 @@
-Rosellinia campsopila Hazsl. SPECIES
-=======
+# Rosellinia campsopila Hazsl. SPECIES
 
 #### Status
 ACCEPTED

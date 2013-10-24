@@ -1,5 +1,4 @@
-Entoloma fibrosopileatum G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma fibrosopileatum G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

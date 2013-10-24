@@ -1,5 +1,4 @@
-Alternaria limicola E.G. Simmons & M.E. Palm, 1990 SPECIES
-=======
+# Alternaria limicola E.G. Simmons & M.E. Palm, 1990 SPECIES
 
 #### Status
 ACCEPTED

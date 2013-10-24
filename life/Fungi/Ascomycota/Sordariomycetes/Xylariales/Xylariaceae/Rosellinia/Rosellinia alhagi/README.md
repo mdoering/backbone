@@ -1,5 +1,4 @@
-Rosellinia alhagi Nasyrov SPECIES
-=======
+# Rosellinia alhagi Nasyrov SPECIES
 
 #### Status
 ACCEPTED

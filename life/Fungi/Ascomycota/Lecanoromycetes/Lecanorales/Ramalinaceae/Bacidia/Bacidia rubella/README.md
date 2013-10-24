@@ -1,17 +1,16 @@
-Bacidia luteola var. porriginosa (Turner) A.L. Sm. VARIETY
-=======
+# Bacidia rubella (Hoffm.) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Brit. Lich. 2: 152 (1911)
+Ric. auton. lich. crost. (Verona) 118, fig. 231 (1852)
 
 #### Original name
-Lichen porriginosus Turner
+Verrucaria rubella Hoffm.
 
 ### Remarks
 null

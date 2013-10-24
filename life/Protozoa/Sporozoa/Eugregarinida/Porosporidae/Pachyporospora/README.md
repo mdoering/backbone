@@ -1,5 +1,4 @@
-Pachyporospora Théodoridès, 1961 GENUS
-=======
+# Pachyporospora Théodoridès, 1961 GENUS
 
 #### Status
 ACCEPTED

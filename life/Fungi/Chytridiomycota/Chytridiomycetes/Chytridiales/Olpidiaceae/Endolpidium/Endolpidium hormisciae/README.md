@@ -1,5 +1,4 @@
-Endolpidium hormisciae De Wild. SPECIES
-=======
+# Endolpidium hormisciae De Wild. SPECIES
 
 #### Status
 ACCEPTED

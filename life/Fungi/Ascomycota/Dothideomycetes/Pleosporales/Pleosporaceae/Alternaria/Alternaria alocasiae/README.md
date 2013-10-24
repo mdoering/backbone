@@ -1,5 +1,4 @@
-Alternaria alocasiae T.Y. Zhang & M.X. Gao SPECIES
-=======
+# Alternaria alocasiae T.Y. Zhang & M.X. Gao SPECIES
 
 #### Status
 ACCEPTED

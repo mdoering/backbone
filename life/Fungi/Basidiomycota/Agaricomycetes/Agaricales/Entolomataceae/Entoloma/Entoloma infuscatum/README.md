@@ -1,5 +1,4 @@
-Entoloma infuscatum Hesler SPECIES
-=======
+# Entoloma infuscatum Hesler SPECIES
 
 #### Status
 ACCEPTED

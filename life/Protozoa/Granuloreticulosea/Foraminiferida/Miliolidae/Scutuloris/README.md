@@ -1,5 +1,4 @@
-Scutuloris Loeblich & Tappan, 1953 GENUS
-=======
+# Scutuloris Loeblich & Tappan, 1953 GENUS
 
 #### Status
 ACCEPTED

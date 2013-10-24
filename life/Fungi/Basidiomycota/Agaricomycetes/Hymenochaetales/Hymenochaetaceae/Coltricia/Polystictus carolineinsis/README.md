@@ -1,5 +1,4 @@
-Polystictus carolineinsis Berk. SPECIES
-=======
+# Polystictus carolineinsis Berk. SPECIES
 
 #### Status
 ACCEPTED

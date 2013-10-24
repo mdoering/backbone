@@ -1,5 +1,4 @@
-Ammophilia Bugrova, 1989 GENUS
-=======
+# Ammophilia Bugrova, 1989 GENUS
 
 #### Status
 ACCEPTED

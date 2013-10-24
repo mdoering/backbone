@@ -1,5 +1,4 @@
-Micropuccinia pyrolae (Cooke) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia pyrolae (Cooke) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

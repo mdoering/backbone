@@ -1,5 +1,4 @@
-Patellaria lundensis (Fr.) Trevis. SPECIES
-=======
+# Patellaria lundensis (Fr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

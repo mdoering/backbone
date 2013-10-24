@@ -1,5 +1,4 @@
-Usnea moreliana Motyka SPECIES
-=======
+# Usnea moreliana Motyka SPECIES
 
 #### Status
 ACCEPTED

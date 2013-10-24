@@ -1,5 +1,4 @@
-Nolandia Small & Lynn, 1985 GENUS
-=======
+# Nolandia Small & Lynn, 1985 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wallrothiella salicis Har. & Briard SPECIES
-=======
+# Wallrothiella salicis Har. & Briard SPECIES
 
 #### Status
 ACCEPTED

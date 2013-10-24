@@ -1,5 +1,4 @@
-Gibbera gaultheriae (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Gibbera gaultheriae (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

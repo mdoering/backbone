@@ -1,5 +1,4 @@
-Mycovellosiella pteridis (Siemaszko) U. Braun SPECIES
-=======
+# Mycovellosiella pteridis (Siemaszko) U. Braun SPECIES
 
 #### Status
 ACCEPTED

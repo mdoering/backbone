@@ -1,5 +1,4 @@
-Didymaria epilobii Hollós SPECIES
-=======
+# Didymaria epilobii Hollós SPECIES
 
 #### Status
 ACCEPTED

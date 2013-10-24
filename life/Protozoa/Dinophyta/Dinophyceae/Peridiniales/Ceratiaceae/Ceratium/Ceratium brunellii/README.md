@@ -1,5 +1,4 @@
-Ceratium brunellii Rampi SPECIES
-=======
+# Ceratium brunellii Rampi SPECIES
 
 #### Status
 ACCEPTED

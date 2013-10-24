@@ -1,5 +1,4 @@
-Phyllachora maquilingensis Syd. & P. Syd., 1920 SPECIES
-=======
+# Phyllachora maquilingensis Syd. & P. Syd., 1920 SPECIES
 
 #### Status
 ACCEPTED

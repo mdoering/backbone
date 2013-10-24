@@ -1,5 +1,4 @@
-Stenella cassiicola Seema Misra, A.K. Srivast. & Kamal SPECIES
-=======
+# Stenella cassiicola Seema Misra, A.K. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

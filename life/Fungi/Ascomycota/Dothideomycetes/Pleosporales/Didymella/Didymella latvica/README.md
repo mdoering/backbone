@@ -1,5 +1,4 @@
-Didymella latvica Kirschst. SPECIES
-=======
+# Didymella latvica Kirschst. SPECIES
 
 #### Status
 ACCEPTED

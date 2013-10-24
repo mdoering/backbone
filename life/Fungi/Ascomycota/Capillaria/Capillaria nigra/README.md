@@ -1,5 +1,4 @@
-Capillaria nigra Pers. SPECIES
-=======
+# Capillaria nigra Pers. SPECIES
 
 #### Status
 ACCEPTED

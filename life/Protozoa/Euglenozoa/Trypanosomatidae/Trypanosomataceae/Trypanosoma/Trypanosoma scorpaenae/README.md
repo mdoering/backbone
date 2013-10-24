@@ -1,5 +1,4 @@
-Trypanosoma scorpaenae Neumann, 1909 SPECIES
-=======
+# Trypanosoma scorpaenae Neumann, 1909 SPECIES
 
 #### Status
 ACCEPTED

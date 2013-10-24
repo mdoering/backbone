@@ -1,5 +1,4 @@
-Coniothyrium rubellum Cooke SPECIES
-=======
+# Coniothyrium rubellum Cooke SPECIES
 
 #### Status
 ACCEPTED

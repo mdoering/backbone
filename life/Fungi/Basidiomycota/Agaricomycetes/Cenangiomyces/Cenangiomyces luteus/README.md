@@ -1,5 +1,4 @@
-Cenangiomyces luteus Dyko & B. Sutton, 1979 SPECIES
-=======
+# Cenangiomyces luteus Dyko & B. Sutton, 1979 SPECIES
 
 #### Status
 ACCEPTED

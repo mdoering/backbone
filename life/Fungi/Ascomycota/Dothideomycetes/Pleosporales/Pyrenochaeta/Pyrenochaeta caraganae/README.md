@@ -1,5 +1,4 @@
-Pyrenochaeta caraganae Vasyag. SPECIES
-=======
+# Pyrenochaeta caraganae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

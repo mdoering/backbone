@@ -1,5 +1,4 @@
-Galerina rudericola A.H. Sm. SPECIES
-=======
+# Galerina rudericola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

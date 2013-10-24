@@ -1,5 +1,4 @@
-Asterula myocoproides (Sacc. & Berl.) Sacc. SPECIES
-=======
+# Asterula myocoproides (Sacc. & Berl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

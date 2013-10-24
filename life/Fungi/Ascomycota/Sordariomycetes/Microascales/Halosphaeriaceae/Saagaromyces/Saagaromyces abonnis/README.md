@@ -1,14 +1,13 @@
-Littispora abonnis (Kohlm.) J. Campb., J.L. Anderson & Shearer, 2003 SPECIES
-=======
+# Saagaromyces abonnis (Kohlm.) K.L. Pang & E.B.G. Jones, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 95(3): 549 (2003)
+in Pang, Vrijmoed, Kong & Jones, Mycol. Progr. 2(1): 35 (2003)
 
 #### Original name
 Halosarpheia abonnis Kohlm., 1984

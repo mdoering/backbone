@@ -1,5 +1,4 @@
-Peziza mitrula Schwein. SPECIES
-=======
+# Peziza mitrula Schwein. SPECIES
 
 #### Status
 ACCEPTED

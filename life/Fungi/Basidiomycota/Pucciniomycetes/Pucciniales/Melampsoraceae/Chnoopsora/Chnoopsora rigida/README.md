@@ -1,5 +1,4 @@
-Chnoopsora rigida (Har. & Pat.) Syd. {?} SPECIES
-=======
+# Chnoopsora rigida (Har. & Pat.) Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

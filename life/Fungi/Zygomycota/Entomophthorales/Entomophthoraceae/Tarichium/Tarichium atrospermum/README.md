@@ -1,5 +1,4 @@
-Tarichium atrospermum (Petch) Balazy SPECIES
-=======
+# Tarichium atrospermum (Petch) Balazy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatea seriata G. Winter SPECIES
-=======
+# Stigmatea seriata G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psoroglaena japonica H. Harada SPECIES
-=======
+# Psoroglaena japonica H. Harada SPECIES
 
 #### Status
 ACCEPTED

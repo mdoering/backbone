@@ -1,17 +1,16 @@
-Nephroma parile var. parile VARIETY
-=======
+# Nephroma parile (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Lich. univ. 522 (1810)
 
 #### Original name
-Nephroma parile var. parile
+Lichen parilis Ach.
 
 ### Remarks
 null

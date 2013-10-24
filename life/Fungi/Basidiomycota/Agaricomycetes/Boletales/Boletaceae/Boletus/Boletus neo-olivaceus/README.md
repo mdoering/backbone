@@ -1,5 +1,4 @@
-Boletus neo-olivaceus Rick SPECIES
-=======
+# Boletus neo-olivaceus Rick SPECIES
 
 #### Status
 ACCEPTED

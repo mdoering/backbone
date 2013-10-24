@@ -1,5 +1,4 @@
-Maurodothella GENUS
-=======
+# Maurodothella GENUS
 
 #### Status
 ACCEPTED

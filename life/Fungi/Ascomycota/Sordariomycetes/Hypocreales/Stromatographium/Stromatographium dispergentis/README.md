@@ -1,5 +1,4 @@
-Stromatographium dispergentis Bat. SPECIES
-=======
+# Stromatographium dispergentis Bat. SPECIES
 
 #### Status
 ACCEPTED

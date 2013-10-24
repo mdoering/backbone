@@ -1,5 +1,4 @@
-Diporicellaesporites incurviusculus Kalgutkar SPECIES
-=======
+# Diporicellaesporites incurviusculus Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Microcystis feldmannii (Frémy) Kosinskaja SPECIES
-=======
+# Aphanocapsa feldmannii Frémy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

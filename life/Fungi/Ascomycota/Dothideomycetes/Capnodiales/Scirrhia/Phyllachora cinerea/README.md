@@ -1,5 +1,4 @@
-Phyllachora cinerea Ellis & Everh., 1904 SPECIES
-=======
+# Phyllachora cinerea Ellis & Everh., 1904 SPECIES
 
 #### Status
 DOUBTFUL

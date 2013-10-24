@@ -1,5 +1,4 @@
-Sphaeronaema truncatum Fr. SPECIES
-=======
+# Sphaeronaema truncatum Fr. SPECIES
 
 #### Status
 ACCEPTED

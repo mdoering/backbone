@@ -1,5 +1,4 @@
-Clavaria eumorpha (P. Karst.) Sacc. SPECIES
-=======
+# Clavaria eumorpha (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Roseburia cecicola Stanton & Savage, 1983 SPECIES
-=======
+# Roseburia cecicola Stanton & Savage, 1983 SPECIES
 
 #### Status
 ACCEPTED

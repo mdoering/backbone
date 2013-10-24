@@ -1,5 +1,4 @@
-Dicaeoma beckii (Mayor) Arthur & H.S. Jacks. SPECIES
-=======
+# Dicaeoma beckii (Mayor) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Helotium cesatii Mont., 1856 SPECIES
-=======
+# Pocillum cesatii (Mont.) De Not., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. gen. sp. crypt. (Paris) 187 (1856)
+Comm. Soc. crittog. Ital. 361 (1863)
 
 #### Original name
 Helotium cesatii Mont., 1856

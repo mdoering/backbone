@@ -1,5 +1,4 @@
-Eutypella laburni var. laburni VARIETY
-=======
+# Eutypella laburni Allesch. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Eutypella laburni var. laburni
+Eutypella laburni Allesch.
 
 ### Remarks
 null

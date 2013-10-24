@@ -1,5 +1,4 @@
-Synchytrium tillaeae Karling SPECIES
-=======
+# Synchytrium tillaeae Karling SPECIES
 
 #### Status
 ACCEPTED

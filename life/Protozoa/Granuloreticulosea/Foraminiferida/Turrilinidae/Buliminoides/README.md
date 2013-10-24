@@ -1,5 +1,4 @@
-Buliminoides Cushman, 1911 GENUS
-=======
+# Buliminoides Cushman, 1911 GENUS
 
 #### Status
 ACCEPTED

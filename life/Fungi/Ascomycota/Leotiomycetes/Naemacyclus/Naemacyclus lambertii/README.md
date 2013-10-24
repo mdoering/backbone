@@ -1,5 +1,4 @@
-Naemacyclus lambertii var. lambertii VARIETY
-=======
+# Naemacyclus lambertii Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Strasser, Verh. zool. -bot. Ges. Wein 60: 466 (1910)
 
 #### Original name
-Naemacyclus lambertii var. lambertii
+Naemacyclus lambertii Rehm
 
 ### Remarks
 null

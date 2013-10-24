@@ -1,5 +1,4 @@
-Taphrina rugosa W.W. Ray SPECIES
-=======
+# Taphrina rugosa W.W. Ray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella metastelmatis Speg. SPECIES
-=======
+# Aplosporella metastelmatis Speg. SPECIES
 
 #### Status
 ACCEPTED

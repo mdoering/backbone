@@ -1,14 +1,13 @@
-Helminthosporium giganteum Heald & F.A. Wolf, 1911 SPECIES
-=======
+# Drechslera gigantea (Heald & F.A. Wolf) S. Ito, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Misc. 11(1): 223 + pl. 12, fig. 5 (1898)
+Proceedings of the Imper. Acad. Tokyo 6: 355 (1930)
 
 #### Original name
 Helminthosporium giganteum Heald & F.A. Wolf, 1911

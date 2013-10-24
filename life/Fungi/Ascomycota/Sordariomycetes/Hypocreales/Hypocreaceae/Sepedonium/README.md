@@ -1,17 +1,16 @@
-Leiosepium Sacc. GENUS
-=======
+# Sepedonium Link, 1809 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Saccardo & Fautrey, Bull. Soc. mycol. Fr. 16: 24 (1900)
+null
 
 #### Original name
-Leiosepium Sacc.
+null
 
 ### Remarks
 null

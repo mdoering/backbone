@@ -1,5 +1,4 @@
-Clasteropycnis coumae Bat. & Cavalc., 1963 SPECIES
-=======
+# Clasteropycnis coumae Bat. & Cavalc., 1963 SPECIES
 
 #### Status
 ACCEPTED

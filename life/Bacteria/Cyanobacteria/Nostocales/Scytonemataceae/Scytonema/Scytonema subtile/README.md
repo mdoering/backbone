@@ -1,5 +1,4 @@
-Scytonema subtile K. Möbius SPECIES
-=======
+# Scytonema subtile K. Möbius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormia splendens Cain SPECIES
-=======
+# Sporormia splendens Cain SPECIES
 
 #### Status
 ACCEPTED

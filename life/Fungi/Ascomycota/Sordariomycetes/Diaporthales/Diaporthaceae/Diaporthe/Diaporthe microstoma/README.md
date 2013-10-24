@@ -1,5 +1,4 @@
-Diaporthe microstoma SPECIES
-=======
+# Diaporthe microstoma SPECIES
 
 #### Status
 ACCEPTED

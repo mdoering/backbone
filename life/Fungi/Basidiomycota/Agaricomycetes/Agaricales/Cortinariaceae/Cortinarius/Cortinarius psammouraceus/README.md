@@ -1,5 +1,4 @@
-Cortinarius psammouraceus Rob. Henry SPECIES
-=======
+# Cortinarius psammouraceus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

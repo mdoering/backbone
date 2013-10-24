@@ -1,5 +1,4 @@
-Xylaria paraensis Henn. SPECIES
-=======
+# Xylaria paraensis Henn. SPECIES
 
 #### Status
 ACCEPTED

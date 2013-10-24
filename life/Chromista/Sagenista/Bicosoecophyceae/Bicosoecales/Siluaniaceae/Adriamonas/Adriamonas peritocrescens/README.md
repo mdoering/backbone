@@ -1,5 +1,4 @@
-Adriamonas peritocrescens Verhagen, Zölffel, Brugerolle & D.J. Prat SPECIES
-=======
+# Adriamonas peritocrescens Verhagen, Zölffel, Brugerolle & D.J. Prat SPECIES
 
 #### Status
 ACCEPTED

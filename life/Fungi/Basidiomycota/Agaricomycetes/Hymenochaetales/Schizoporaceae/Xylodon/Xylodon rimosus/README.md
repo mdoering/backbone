@@ -1,5 +1,4 @@
-Xylodon rimosus (Peck) Kuntze SPECIES
-=======
+# Xylodon rimosus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

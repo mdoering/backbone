@@ -1,5 +1,4 @@
-Pantospora Cif. GENUS
-=======
+# Pantospora Cif. GENUS
 
 #### Status
 ACCEPTED

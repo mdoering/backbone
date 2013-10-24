@@ -1,5 +1,4 @@
-Mycosphaerella menthae (Lambotte & Fautrey) Rehm SPECIES
-=======
+# Mycosphaerella menthae (Lambotte & Fautrey) Rehm SPECIES
 
 #### Status
 ACCEPTED

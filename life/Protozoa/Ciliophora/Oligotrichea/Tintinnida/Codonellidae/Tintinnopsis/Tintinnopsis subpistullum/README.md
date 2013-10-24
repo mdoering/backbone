@@ -1,5 +1,4 @@
-Tintinnopsis subpistullum SPECIES
-=======
+# Tintinnopsis subpistullum SPECIES
 
 #### Status
 ACCEPTED

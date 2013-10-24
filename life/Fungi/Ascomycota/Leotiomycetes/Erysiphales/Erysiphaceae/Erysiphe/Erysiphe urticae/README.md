@@ -1,14 +1,13 @@
-Alphitomorpha urticae Wallr., 1819 SPECIES
-=======
+# Erysiphe urticae (Wallr.) S. Blumer, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Wetter. Gesellsch. Ges. Naturk. 4: 238 (1819)
+Beitr. Kryptfl. Schweiz 7(no. 1): 224 (1933)
 
 #### Original name
 Alphitomorpha urticae Wallr., 1819

@@ -1,5 +1,4 @@
-Santapauinda Subram. GENUS
-=======
+# Santapauinda Subram. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetraplektron tribulus (Pascher) Fott SPECIES
-=======
+# Tetraplektron tribulus (Pascher) Fott SPECIES
 
 #### Status
 ACCEPTED

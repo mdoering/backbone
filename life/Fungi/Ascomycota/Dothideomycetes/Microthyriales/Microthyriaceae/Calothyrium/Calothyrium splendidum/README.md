@@ -1,5 +1,4 @@
-Calothyrium splendidum Bat. & H. Maia SPECIES
-=======
+# Calothyrium splendidum Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balantidium struthionis Hegner, 1934 SPECIES
-=======
+# Balantidium struthionis Hegner, 1934 SPECIES
 
 #### Status
 ACCEPTED

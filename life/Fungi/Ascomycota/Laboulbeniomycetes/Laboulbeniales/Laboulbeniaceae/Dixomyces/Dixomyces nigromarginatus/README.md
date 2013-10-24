@@ -1,5 +1,4 @@
-Dixomyces nigromarginatus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Dixomyces nigromarginatus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

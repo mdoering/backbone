@@ -1,5 +1,4 @@
-Rhabdamminella prismaeginosa de Folin, 1887 SPECIES
-=======
+# Rhabdamminella prismaeginosa de Folin, 1887 SPECIES
 
 #### Status
 ACCEPTED

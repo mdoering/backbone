@@ -1,5 +1,4 @@
-Cortinarius avellanofulvus Rob. Henry SPECIES
-=======
+# Cortinarius avellanofulvus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

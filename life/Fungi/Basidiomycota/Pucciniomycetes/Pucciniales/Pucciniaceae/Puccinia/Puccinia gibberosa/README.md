@@ -1,5 +1,4 @@
-Puccinia gibberosa Lagerh. SPECIES
-=======
+# Puccinia gibberosa Lagerh. SPECIES
 
 #### Status
 ACCEPTED

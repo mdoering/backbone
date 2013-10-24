@@ -1,5 +1,4 @@
-Nodulisporium heterochromum R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Nodulisporium heterochromum R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe cylindracea Maire & Kühner SPECIES
-=======
+# Conocybe cylindracea Maire & Kühner SPECIES
 
 #### Status
 ACCEPTED

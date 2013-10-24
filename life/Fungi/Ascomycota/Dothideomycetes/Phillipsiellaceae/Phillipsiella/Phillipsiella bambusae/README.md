@@ -1,5 +1,4 @@
-Phillipsiella bambusae Katum. SPECIES
-=======
+# Phillipsiella bambusae Katum. SPECIES
 
 #### Status
 ACCEPTED

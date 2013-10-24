@@ -1,5 +1,4 @@
-Allodus rubicunda (Holw.) Arthur & Orton SPECIES
-=======
+# Allodus rubicunda (Holw.) Arthur & Orton SPECIES
 
 #### Status
 ACCEPTED

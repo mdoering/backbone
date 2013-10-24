@@ -1,5 +1,4 @@
-Mucor heterosporus-sibiricus Schostak. SPECIES
-=======
+# Mucor heterosporus-sibiricus Schostak. SPECIES
 
 #### Status
 ACCEPTED

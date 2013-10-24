@@ -1,17 +1,16 @@
-Kawakamia colocasiae (Racib.) Sawada, 1942 SPECIES
-=======
+# Phytophthora colocasiae Racib., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Parasit. Alg. Pilze Java's (Jakarta) 1: 9 (1900)
 
 #### Original name
-null
+Phytophthora colocasiae Racib., 1900
 
 ### Remarks
 null

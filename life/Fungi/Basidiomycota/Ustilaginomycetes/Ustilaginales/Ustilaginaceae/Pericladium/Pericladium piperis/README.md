@@ -1,14 +1,13 @@
-Pericladium piperii (Zundel) Mundk. SPECIES
-=======
+# Pericladium piperis (Zundel) Mundk., 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 36(3): 293 (1944)
 
 #### Original name
 Xylosorium piperis Zundel, 1939

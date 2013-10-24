@@ -1,5 +1,4 @@
-Allescherina boehmeriae Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Allescherina boehmeriae Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

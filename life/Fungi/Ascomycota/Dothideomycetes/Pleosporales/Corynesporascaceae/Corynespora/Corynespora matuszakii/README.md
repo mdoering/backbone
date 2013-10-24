@@ -1,5 +1,4 @@
-Corynespora matuszakii Morgan-Jones SPECIES
-=======
+# Corynespora matuszakii Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

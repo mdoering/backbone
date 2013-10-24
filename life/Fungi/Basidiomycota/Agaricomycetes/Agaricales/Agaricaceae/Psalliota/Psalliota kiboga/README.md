@@ -1,5 +1,4 @@
-Psalliota kiboga Henn. SPECIES
-=======
+# Psalliota kiboga Henn. SPECIES
 
 #### Status
 ACCEPTED

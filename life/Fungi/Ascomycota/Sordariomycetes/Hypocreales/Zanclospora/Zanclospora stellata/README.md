@@ -1,5 +1,4 @@
-Zanclospora stellata M. Calduch, Gené & Guarro, 2002 SPECIES
-=======
+# Zanclospora stellata M. Calduch, Gené & Guarro, 2002 SPECIES
 
 #### Status
 ACCEPTED

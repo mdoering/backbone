@@ -1,5 +1,4 @@
-Puccinia mundula H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia mundula H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

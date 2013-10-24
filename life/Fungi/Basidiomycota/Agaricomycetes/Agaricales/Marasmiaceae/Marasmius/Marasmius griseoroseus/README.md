@@ -1,5 +1,4 @@
-Marasmius griseoroseus (Mont.) Singer SPECIES
-=======
+# Marasmius griseoroseus (Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

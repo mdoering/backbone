@@ -1,5 +1,4 @@
-Melanoleuca russula (Scop.) Murrill SPECIES
-=======
+# Melanoleuca russula (Scop.) Murrill SPECIES
 
 #### Status
 ACCEPTED

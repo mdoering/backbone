@@ -1,5 +1,4 @@
-Inocybe pluteoides Höhn. SPECIES
-=======
+# Inocybe pluteoides Höhn. SPECIES
 
 #### Status
 ACCEPTED

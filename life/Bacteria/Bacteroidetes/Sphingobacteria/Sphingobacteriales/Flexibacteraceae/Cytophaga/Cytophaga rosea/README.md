@@ -1,5 +1,4 @@
-Cytophaga rosea SPECIES
-=======
+# Cytophaga rosea SPECIES
 
 #### Status
 ACCEPTED

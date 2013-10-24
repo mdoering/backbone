@@ -1,8 +1,7 @@
-Biatora leptalea Durieu & Mont., 1846 SPECIES
-=======
+# Porina leptalea (Durieu & Mont.) A.L. Sm., 1911 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

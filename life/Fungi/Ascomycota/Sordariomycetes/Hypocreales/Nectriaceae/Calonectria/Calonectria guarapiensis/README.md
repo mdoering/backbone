@@ -1,5 +1,4 @@
-Calonectria guarapiensis Speg. SPECIES
-=======
+# Calonectria guarapiensis Speg. SPECIES
 
 #### Status
 ACCEPTED

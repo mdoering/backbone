@@ -1,5 +1,4 @@
-Seynesia elegantula Syd. & P. Syd. SPECIES
-=======
+# Seynesia elegantula Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

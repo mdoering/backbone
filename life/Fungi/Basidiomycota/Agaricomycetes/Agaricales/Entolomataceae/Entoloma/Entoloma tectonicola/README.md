@@ -1,5 +1,4 @@
-Entoloma tectonicola Manim. & Noordel. SPECIES
-=======
+# Entoloma tectonicola Manim. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

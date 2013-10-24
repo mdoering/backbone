@@ -1,5 +1,4 @@
-Ionomidotis australis (G.W. Beaton) W.Y. Zhuang SPECIES
-=======
+# Ionomidotis australis (G.W. Beaton) W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

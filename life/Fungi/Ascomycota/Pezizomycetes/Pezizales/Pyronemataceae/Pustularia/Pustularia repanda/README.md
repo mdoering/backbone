@@ -1,5 +1,4 @@
-Pustularia repanda Wahlenb. SPECIES
-=======
+# Pustularia repanda Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

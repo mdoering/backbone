@@ -1,5 +1,4 @@
-Caloplaca euthallina (Zahlbr.) H. Olivier SPECIES
-=======
+# Caloplaca euthallina (Zahlbr.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

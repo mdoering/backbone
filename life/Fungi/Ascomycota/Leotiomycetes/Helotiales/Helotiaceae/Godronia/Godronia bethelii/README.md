@@ -1,5 +1,4 @@
-Godronia bethelii Seaver SPECIES
-=======
+# Godronia bethelii Seaver SPECIES
 
 #### Status
 ACCEPTED

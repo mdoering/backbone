@@ -1,5 +1,4 @@
-Cercospora aristidae Chupp SPECIES
-=======
+# Cercospora aristidae Chupp SPECIES
 
 #### Status
 ACCEPTED

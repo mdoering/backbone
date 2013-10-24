@@ -1,5 +1,4 @@
-Mycosphaerella konae Crous, Joanne E. Taylor & M.E. Palm, 2001 SPECIES
-=======
+# Mycosphaerella konae Crous, Joanne E. Taylor & M.E. Palm, 2001 SPECIES
 
 #### Status
 ACCEPTED

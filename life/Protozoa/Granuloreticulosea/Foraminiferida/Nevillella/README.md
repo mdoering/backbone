@@ -1,17 +1,16 @@
-Georgella Conil & Lys, 1978 GENUS
-=======
+# Nevillella Conil & Lys in Conil, 1980 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Memoires Inst. Geol. Univ. Louvain 29: 33.
+in Conil, Annales Soc. Geol. Belg. 103: 48.
 
 #### Original name
-null
+Nevillea Conil & Lys in Conil, Longerstaey & Ramsbottom, 1980
 
 ### Remarks
 null

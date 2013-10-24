@@ -1,5 +1,4 @@
-Gloeothece endochromatica Gardner SPECIES
-=======
+# Gloeothece endochromatica Gardner SPECIES
 
 #### Status
 ACCEPTED

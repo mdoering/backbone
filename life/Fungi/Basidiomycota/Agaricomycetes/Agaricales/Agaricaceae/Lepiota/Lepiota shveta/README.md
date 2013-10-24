@@ -1,5 +1,4 @@
-Lepiota shveta T.K.A. Kumar & Manim. SPECIES
-=======
+# Lepiota shveta T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

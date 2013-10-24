@@ -1,5 +1,4 @@
-Linckia F.H.Wiggers, 1780 GENUS
-=======
+# Linckia F.H.Wiggers, 1780 GENUS
 
 #### Status
 ACCEPTED

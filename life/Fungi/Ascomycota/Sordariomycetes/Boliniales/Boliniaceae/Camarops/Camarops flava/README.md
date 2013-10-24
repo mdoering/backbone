@@ -1,5 +1,4 @@
-Camarops flava Samuels & J.D. Rogers, 1987 SPECIES
-=======
+# Camarops flava Samuels & J.D. Rogers, 1987 SPECIES
 
 #### Status
 ACCEPTED

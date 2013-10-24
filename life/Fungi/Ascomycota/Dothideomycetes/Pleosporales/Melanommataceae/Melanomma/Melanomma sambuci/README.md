@@ -1,5 +1,4 @@
-Melanomma sambuci Earle SPECIES
-=======
+# Melanomma sambuci Earle SPECIES
 
 #### Status
 ACCEPTED

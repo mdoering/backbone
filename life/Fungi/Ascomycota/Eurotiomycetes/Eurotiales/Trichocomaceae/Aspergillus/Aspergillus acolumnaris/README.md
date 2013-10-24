@@ -1,5 +1,4 @@
-Aspergillus acolumnaris Varshney & A.K. Sarbhoy SPECIES
-=======
+# Aspergillus acolumnaris Varshney & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

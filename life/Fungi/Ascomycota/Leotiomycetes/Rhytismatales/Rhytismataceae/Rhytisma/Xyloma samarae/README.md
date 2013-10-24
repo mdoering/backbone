@@ -1,5 +1,4 @@
-Xyloma samarae Fr. SPECIES
-=======
+# Xyloma samarae Fr. SPECIES
 
 #### Status
 ACCEPTED

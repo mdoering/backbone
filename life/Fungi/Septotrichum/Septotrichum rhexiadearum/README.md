@@ -1,5 +1,4 @@
-Septotrichum rhexiadearum Corda SPECIES
-=======
+# Septotrichum rhexiadearum Corda SPECIES
 
 #### Status
 ACCEPTED

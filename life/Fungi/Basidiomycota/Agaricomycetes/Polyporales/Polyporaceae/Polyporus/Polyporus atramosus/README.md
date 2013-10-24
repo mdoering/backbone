@@ -1,5 +1,4 @@
-Polyporus atramosus E.H.L. Krause SPECIES
-=======
+# Polyporus atramosus E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

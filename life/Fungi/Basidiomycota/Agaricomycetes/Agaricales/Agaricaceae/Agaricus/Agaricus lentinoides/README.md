@@ -1,5 +1,4 @@
-Agaricus lentinoides Peck SPECIES
-=======
+# Agaricus lentinoides Peck SPECIES
 
 #### Status
 ACCEPTED

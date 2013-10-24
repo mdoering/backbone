@@ -1,14 +1,13 @@
-Sphacelotheca themedae Duke, 1926 SPECIES
-=======
+# Sporisorium themedae (Duke) Vánky, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 315 (1926)
+Mycotaxon 51: 163 (1994)
 
 #### Original name
 Sphacelotheca themedae Duke, 1926

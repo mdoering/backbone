@@ -1,17 +1,16 @@
-Parmelia subprolixa var. subprolixa Nyl. ex Kremp. VARIETY
-=======
+# Xanthoparmelia subprolixa (Nyl. ex Kremp.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 30: 337 (1880)
+Taxon 53(4): 971 (2004)
 
 #### Original name
-Parmelia subprolixa var. subprolixa Nyl. ex Kremp.
+Parmelia subprolixa Nyl. ex Kremp.
 
 ### Remarks
 null

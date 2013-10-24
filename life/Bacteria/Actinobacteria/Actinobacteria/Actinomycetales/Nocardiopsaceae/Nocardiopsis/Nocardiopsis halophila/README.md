@@ -1,5 +1,4 @@
-Nocardiopsis halophila Al-Tai & Ruan, 1994 SPECIES
-=======
+# Nocardiopsis halophila Al-Tai & Ruan, 1994 SPECIES
 
 #### Status
 ACCEPTED

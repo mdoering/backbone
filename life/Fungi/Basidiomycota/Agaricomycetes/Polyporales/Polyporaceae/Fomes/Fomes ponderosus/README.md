@@ -1,5 +1,4 @@
-Fomes ponderosus (Kalchbr.) Sacc. SPECIES
-=======
+# Fomes ponderosus (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

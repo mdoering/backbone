@@ -1,5 +1,4 @@
-Clitocybe crenulata H.E. Bigelow SPECIES
-=======
+# Clitocybe crenulata H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

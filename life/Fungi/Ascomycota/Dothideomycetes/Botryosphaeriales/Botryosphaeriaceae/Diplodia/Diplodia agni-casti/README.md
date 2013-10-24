@@ -1,5 +1,4 @@
-Diplodia agni-casti Pass. SPECIES
-=======
+# Diplodia agni-casti Pass. SPECIES
 
 #### Status
 ACCEPTED

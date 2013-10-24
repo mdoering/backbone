@@ -1,5 +1,4 @@
-Poria vitellinula P. Karst. SPECIES
-=======
+# Poria vitellinula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria coniosporioides P. Karst. SPECIES
-=======
+# Aposphaeria coniosporioides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

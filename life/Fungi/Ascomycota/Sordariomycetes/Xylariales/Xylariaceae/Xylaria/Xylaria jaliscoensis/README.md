@@ -1,5 +1,4 @@
-Xylaria jaliscoensis F. San Martín, J.D. Rogers & Y.M. Ju, 2002 SPECIES
-=======
+# Xylaria jaliscoensis F. San Martín, J.D. Rogers & Y.M. Ju, 2002 SPECIES
 
 #### Status
 ACCEPTED

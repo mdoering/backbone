@@ -1,5 +1,4 @@
-Hypocrea mellea Petch SPECIES
-=======
+# Hypocrea mellea Petch SPECIES
 
 #### Status
 ACCEPTED

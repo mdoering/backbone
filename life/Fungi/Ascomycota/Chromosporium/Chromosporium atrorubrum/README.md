@@ -1,5 +1,4 @@
-Chromosporium atrorubrum Peck SPECIES
-=======
+# Chromosporium atrorubrum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stella americana Massee SPECIES
-=======
+# Stella americana Massee SPECIES
 
 #### Status
 ACCEPTED

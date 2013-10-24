@@ -1,5 +1,4 @@
-Thelephora capillaris Lév. SPECIES
-=======
+# Thelephora capillaris Lév. SPECIES
 
 #### Status
 ACCEPTED

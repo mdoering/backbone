@@ -1,5 +1,4 @@
-Poria geopora Speg. SPECIES
-=======
+# Poria geopora Speg. SPECIES
 
 #### Status
 ACCEPTED

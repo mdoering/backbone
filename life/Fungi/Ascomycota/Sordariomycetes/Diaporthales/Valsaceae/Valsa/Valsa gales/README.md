@@ -1,5 +1,4 @@
-Valsa gales Syd. SPECIES
-=======
+# Valsa gales Syd. SPECIES
 
 #### Status
 ACCEPTED

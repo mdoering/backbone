@@ -1,5 +1,4 @@
-Galerula semilanceata (Peck) G.F. Atk. SPECIES
-=======
+# Galerula semilanceata (Peck) G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

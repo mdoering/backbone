@@ -1,5 +1,4 @@
-Obelidium mucronatum Nowak., 1877 SPECIES
-=======
+# Obelidium mucronatum Nowak., 1877 SPECIES
 
 #### Status
 ACCEPTED

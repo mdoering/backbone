@@ -1,5 +1,4 @@
-Chadefaudiothrix gallica Bourrelly SPECIES
-=======
+# Chadefaudiothrix gallica Bourrelly SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces megalosporus Speg. SPECIES
-=======
+# Uromyces megalosporus Speg. SPECIES
 
 #### Status
 ACCEPTED

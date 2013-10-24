@@ -1,5 +1,4 @@
-Sphaeria aractina Fr. SPECIES
-=======
+# Sphaeria aractina Fr. SPECIES
 
 #### Status
 ACCEPTED

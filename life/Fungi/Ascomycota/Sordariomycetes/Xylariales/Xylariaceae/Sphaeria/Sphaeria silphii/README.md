@@ -1,5 +1,4 @@
-Sphaeria silphii Schwein. SPECIES
-=======
+# Sphaeria silphii Schwein. SPECIES
 
 #### Status
 ACCEPTED

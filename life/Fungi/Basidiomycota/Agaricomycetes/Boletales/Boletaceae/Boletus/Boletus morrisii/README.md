@@ -1,5 +1,4 @@
-Boletus morrisii Peck SPECIES
-=======
+# Boletus morrisii Peck SPECIES
 
 #### Status
 ACCEPTED

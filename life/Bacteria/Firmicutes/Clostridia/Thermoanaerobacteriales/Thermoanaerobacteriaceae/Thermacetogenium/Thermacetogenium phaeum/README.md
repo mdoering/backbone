@@ -1,5 +1,4 @@
-Thermacetogenium phaeum Hattori et al., 2000 SPECIES
-=======
+# Thermacetogenium phaeum Hattori et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Plectridium cadaveris (Klein, 1899) Prévot, 1938 SPECIES
-=======
+# Clostridium cadaveris (Klein, 1899) McClung and McCoy, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Puccinia exhauriens var. exhauriens VARIETY
-=======
+# Puccinia exhauriens Thüm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 59: 425 (1876)
 
 #### Original name
-Puccinia exhauriens var. exhauriens
+Puccinia exhauriens Thüm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mucor oblongisporus Naumov, 1915 SPECIES
-=======
+# Mucor oblongisporus Naumov, 1915 SPECIES
 
 #### Status
 ACCEPTED

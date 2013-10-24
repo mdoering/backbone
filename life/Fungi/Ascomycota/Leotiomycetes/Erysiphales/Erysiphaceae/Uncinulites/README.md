@@ -1,5 +1,4 @@
-Uncinulites Pampal. GENUS
-=======
+# Uncinulites Pampal. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astasia parva E. G Pringsheim SPECIES
-=======
+# Astasia parva E. G Pringsheim SPECIES
 
 #### Status
 ACCEPTED

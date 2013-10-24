@@ -1,17 +1,16 @@
-Sirodesmium indica S. Chandra {?} & Tandon SPECIES
-=======
+# Sirodesmium indicum S. Chandra {?} & Tandon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 34(8): 258 (1965)
 
 #### Original name
-Sirodesmium indica S. Chandra {?} & Tandon
+Sirodesmium indicum S. Chandra {?} & Tandon
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Isidium phymatodes SPECIES
-=======
+# Isidium phymatodes SPECIES
 
 #### Status
 ACCEPTED

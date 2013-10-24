@@ -1,17 +1,16 @@
-Uredo cassiae-surathusis J.M. Yen SPECIES
-=======
+# Uredo cassiae-surathensis J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 34(4): 325 (1970)
 
 #### Original name
-Uredo cassiae-surathusis J.M. Yen
+Uredo cassiae-surathensis J.M. Yen
 
 ### Remarks
 null

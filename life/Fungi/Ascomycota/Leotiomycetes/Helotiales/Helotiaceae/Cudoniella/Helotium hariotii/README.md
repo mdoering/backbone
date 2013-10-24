@@ -1,8 +1,7 @@
-Helotium harioti Boud. SPECIES
-=======
+# Helotium hariotii Boud. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helotium harioti Boud.
+Helotium hariotii Boud.
 
 ### Remarks
 null

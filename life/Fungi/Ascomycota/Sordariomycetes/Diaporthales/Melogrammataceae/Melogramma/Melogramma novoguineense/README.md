@@ -1,5 +1,4 @@
-Melogramma novoguineense Syd. SPECIES
-=======
+# Melogramma novoguineense Syd. SPECIES
 
 #### Status
 ACCEPTED

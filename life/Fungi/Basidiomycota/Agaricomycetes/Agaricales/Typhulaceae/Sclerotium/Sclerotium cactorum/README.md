@@ -1,5 +1,4 @@
-Sclerotium cactorum Speg. SPECIES
-=======
+# Sclerotium cactorum Speg. SPECIES
 
 #### Status
 ACCEPTED

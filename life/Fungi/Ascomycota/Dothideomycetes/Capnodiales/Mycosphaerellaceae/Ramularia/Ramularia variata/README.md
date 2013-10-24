@@ -1,5 +1,4 @@
-Ramularia variata Davis SPECIES
-=======
+# Ramularia variata Davis SPECIES
 
 #### Status
 ACCEPTED

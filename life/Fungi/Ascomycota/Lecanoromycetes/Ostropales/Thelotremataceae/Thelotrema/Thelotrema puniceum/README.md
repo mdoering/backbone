@@ -1,5 +1,4 @@
-Thelotrema puniceum (Müll. Arg.) Makhija & Patw. SPECIES
-=======
+# Thelotrema puniceum (Müll. Arg.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

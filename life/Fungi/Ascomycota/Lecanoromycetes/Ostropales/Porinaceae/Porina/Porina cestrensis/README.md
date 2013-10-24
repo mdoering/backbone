@@ -1,17 +1,16 @@
-Porina cestrensis var. platyspora Fink ex J. Hedrick VARIETY
-=======
+# Porina cestrensis (Tuck. ex Michener) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Porina cestrensis var. platyspora Fink ex J. Hedrick
+null
 
 ### Remarks
 null

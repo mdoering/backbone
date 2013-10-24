@@ -1,5 +1,4 @@
-Fungus achimenis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Fungus achimenis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

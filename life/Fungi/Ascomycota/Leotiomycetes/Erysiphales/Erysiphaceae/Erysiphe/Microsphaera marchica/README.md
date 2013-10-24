@@ -1,5 +1,4 @@
-Microsphaera marchica Magnus SPECIES
-=======
+# Microsphaera marchica Magnus SPECIES
 
 #### Status
 ACCEPTED

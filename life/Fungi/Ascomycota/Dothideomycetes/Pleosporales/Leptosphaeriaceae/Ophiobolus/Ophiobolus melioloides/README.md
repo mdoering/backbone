@@ -1,5 +1,4 @@
-Ophiobolus melioloides Richon SPECIES
-=======
+# Ophiobolus melioloides Richon SPECIES
 
 #### Status
 ACCEPTED

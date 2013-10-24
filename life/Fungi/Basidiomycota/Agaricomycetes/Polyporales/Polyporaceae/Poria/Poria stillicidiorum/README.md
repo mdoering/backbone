@@ -1,5 +1,4 @@
-Poria stillicidiorum (Speg.) Speg. SPECIES
-=======
+# Poria stillicidiorum (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

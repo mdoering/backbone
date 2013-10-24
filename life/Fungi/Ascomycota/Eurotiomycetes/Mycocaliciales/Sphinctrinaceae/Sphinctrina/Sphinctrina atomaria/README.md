@@ -1,5 +1,4 @@
-Sphinctrina atomaria (Ach.) Trevis. SPECIES
-=======
+# Sphinctrina atomaria (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

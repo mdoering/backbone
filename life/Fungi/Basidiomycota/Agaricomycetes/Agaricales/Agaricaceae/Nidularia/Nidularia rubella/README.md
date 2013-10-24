@@ -1,5 +1,4 @@
-Nidularia rubella Ellis & Everh. SPECIES
-=======
+# Nidularia rubella Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium manihoticola Hosag., Siddappa, Vijay. & Udaiyan SPECIES
-=======
+# Oidium manihoticola Hosag., Siddappa, Vijay. & Udaiyan SPECIES
 
 #### Status
 ACCEPTED

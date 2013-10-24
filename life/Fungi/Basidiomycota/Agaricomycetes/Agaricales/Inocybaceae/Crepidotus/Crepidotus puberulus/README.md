@@ -1,5 +1,4 @@
-Crepidotus puberulus Peck SPECIES
-=======
+# Crepidotus puberulus Peck SPECIES
 
 #### Status
 ACCEPTED

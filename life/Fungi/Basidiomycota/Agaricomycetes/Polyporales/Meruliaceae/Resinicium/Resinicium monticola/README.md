@@ -1,5 +1,4 @@
-Resinicium monticola Nakasone, 2007 SPECIES
-=======
+# Resinicium monticola Nakasone, 2007 SPECIES
 
 #### Status
 ACCEPTED

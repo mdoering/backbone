@@ -1,5 +1,4 @@
-Hilidicellites obtectus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Hilidicellites obtectus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

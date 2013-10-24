@@ -1,5 +1,4 @@
-Anaptychia rugulosa Kurok. SPECIES
-=======
+# Anaptychia rugulosa Kurok. SPECIES
 
 #### Status
 ACCEPTED

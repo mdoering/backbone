@@ -1,5 +1,4 @@
-Pseudocercospora piperis-muricati (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora piperis-muricati (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

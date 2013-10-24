@@ -1,5 +1,4 @@
-Ceriospora fuscescens Niessl SPECIES
-=======
+# Ceriospora fuscescens Niessl SPECIES
 
 #### Status
 ACCEPTED

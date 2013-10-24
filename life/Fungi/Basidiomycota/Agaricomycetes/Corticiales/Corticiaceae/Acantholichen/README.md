@@ -1,5 +1,4 @@
-Acantholichen P.M. Jørg. GENUS
-=======
+# Acantholichen P.M. Jørg. GENUS
 
 #### Status
 ACCEPTED

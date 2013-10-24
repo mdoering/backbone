@@ -1,5 +1,4 @@
-Verticillium pseudohemipterigenum H.C. Evans & Jun, 1997 SPECIES
-=======
+# Verticillium pseudohemipterigenum H.C. Evans & Jun, 1997 SPECIES
 
 #### Status
 ACCEPTED

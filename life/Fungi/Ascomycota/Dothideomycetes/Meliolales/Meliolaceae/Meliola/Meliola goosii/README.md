@@ -1,5 +1,4 @@
-Meliola goosii Hosag. SPECIES
-=======
+# Meliola goosii Hosag. SPECIES
 
 #### Status
 ACCEPTED

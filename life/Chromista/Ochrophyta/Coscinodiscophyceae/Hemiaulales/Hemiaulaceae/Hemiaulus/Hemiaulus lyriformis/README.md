@@ -1,5 +1,4 @@
-Hemiaulus lyriformis Greville SPECIES
-=======
+# Hemiaulus lyriformis Greville SPECIES
 
 #### Status
 ACCEPTED

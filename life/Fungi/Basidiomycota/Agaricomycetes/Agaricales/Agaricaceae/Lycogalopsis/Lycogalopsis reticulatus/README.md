@@ -1,5 +1,4 @@
-Lycogalopsis reticulatus Lloyd SPECIES
-=======
+# Lycogalopsis reticulatus Lloyd SPECIES
 
 #### Status
 ACCEPTED

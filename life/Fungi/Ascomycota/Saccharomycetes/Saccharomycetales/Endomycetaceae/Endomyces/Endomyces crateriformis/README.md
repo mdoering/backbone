@@ -1,5 +1,4 @@
-Endomyces crateriformis Hudelo, Sartory & Montl. SPECIES
-=======
+# Endomyces crateriformis Hudelo, Sartory & Montl. SPECIES
 
 #### Status
 ACCEPTED

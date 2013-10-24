@@ -1,17 +1,16 @@
-Laccaria transsilvanica Pázmány SPECIES
-=======
+# Laccaria transilvanica Pázmány SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notulae Botanicae, Horti Agrobotanici Cluj-Napoca 20-21: 9 (1991)
 
 #### Original name
-Laccaria transsilvanica Pázmány
+Laccaria transilvanica Pázmány
 
 ### Remarks
 null

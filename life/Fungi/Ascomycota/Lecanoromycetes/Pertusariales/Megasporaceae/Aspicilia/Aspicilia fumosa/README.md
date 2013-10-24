@@ -1,5 +1,4 @@
-Aspicilia fumosa Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia fumosa Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

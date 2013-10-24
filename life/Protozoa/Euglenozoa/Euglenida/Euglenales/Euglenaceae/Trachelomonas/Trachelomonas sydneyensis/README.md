@@ -1,5 +1,4 @@
-Trachelomonas sydneyensis var. obesa Playfair VARIETY
-=======
+# Trachelomonas sydneyensis Playfair SPECIES
 
 #### Status
 ACCEPTED

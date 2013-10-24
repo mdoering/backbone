@@ -1,5 +1,4 @@
-Centrocubidae Hollande & Enjumet, 1960 FAMILY
-=======
+# Centrocubidae Hollande & Enjumet, 1960 FAMILY
 
 #### Status
 ACCEPTED

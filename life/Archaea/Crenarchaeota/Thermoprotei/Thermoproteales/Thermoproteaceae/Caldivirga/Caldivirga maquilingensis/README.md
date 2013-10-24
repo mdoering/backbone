@@ -1,5 +1,4 @@
-Caldivirga maquilingensis Itoh et al., 1999 SPECIES
-=======
+# Caldivirga maquilingensis Itoh et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

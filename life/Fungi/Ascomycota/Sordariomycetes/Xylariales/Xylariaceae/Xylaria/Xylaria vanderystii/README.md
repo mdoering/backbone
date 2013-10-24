@@ -1,5 +1,4 @@
-Xylaria vanderystii Lloyd SPECIES
-=======
+# Xylaria vanderystii Lloyd SPECIES
 
 #### Status
 ACCEPTED

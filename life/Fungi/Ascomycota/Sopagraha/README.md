@@ -1,5 +1,4 @@
-Sopagraha GENUS
-=======
+# Sopagraha GENUS
 
 #### Status
 ACCEPTED

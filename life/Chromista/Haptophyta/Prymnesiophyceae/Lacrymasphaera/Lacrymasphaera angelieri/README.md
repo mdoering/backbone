@@ -1,5 +1,4 @@
-Lacrymasphaera angelieri J. Lecal SPECIES
-=======
+# Lacrymasphaera angelieri J. Lecal SPECIES
 
 #### Status
 ACCEPTED

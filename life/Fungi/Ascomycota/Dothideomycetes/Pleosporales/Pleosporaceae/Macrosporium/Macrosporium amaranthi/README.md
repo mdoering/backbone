@@ -1,17 +1,16 @@
-Macrosporium amaranthi f. amaranthi FORM
-=======
+# Macrosporium amaranthi Peck SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 22: 493 (1895)
 
 #### Original name
-null
+Macrosporium amaranthi Peck
 
 ### Remarks
 null

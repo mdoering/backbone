@@ -1,5 +1,4 @@
-Pseudoparrella zhengae Loeblich & Tappan, 1994 SPECIES
-=======
+# Pseudoparrella zhengae Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

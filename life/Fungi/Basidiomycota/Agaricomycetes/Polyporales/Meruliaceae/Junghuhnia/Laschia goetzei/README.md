@@ -1,5 +1,4 @@
-Laschia goetzei (Henn.) Sacc. SPECIES
-=======
+# Laschia goetzei (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

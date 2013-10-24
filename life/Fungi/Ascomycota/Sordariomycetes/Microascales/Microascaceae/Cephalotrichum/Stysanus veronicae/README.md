@@ -1,5 +1,4 @@
-Stysanus veronicae Pass. SPECIES
-=======
+# Stysanus veronicae Pass. SPECIES
 
 #### Status
 ACCEPTED

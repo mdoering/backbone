@@ -1,5 +1,4 @@
-Physconia thomsonii Essl. SPECIES
-=======
+# Physconia thomsonii Essl. SPECIES
 
 #### Status
 ACCEPTED

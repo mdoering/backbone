@@ -1,5 +1,4 @@
-Conocybe keniensis Pegler SPECIES
-=======
+# Conocybe keniensis Pegler SPECIES
 
 #### Status
 ACCEPTED

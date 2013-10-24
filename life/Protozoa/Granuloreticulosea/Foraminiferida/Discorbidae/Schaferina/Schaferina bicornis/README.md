@@ -1,5 +1,4 @@
-Schaferina bicornis Pawlowski & Lee, 1991 SPECIES
-=======
+# Schaferina bicornis Pawlowski & Lee, 1991 SPECIES
 
 #### Status
 ACCEPTED

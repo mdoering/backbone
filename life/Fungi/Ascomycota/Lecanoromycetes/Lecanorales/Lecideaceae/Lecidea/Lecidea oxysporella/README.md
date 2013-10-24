@@ -1,5 +1,4 @@
-Lecidea oxysporella Nyl. SPECIES
-=======
+# Lecidea oxysporella Nyl. SPECIES
 
 #### Status
 ACCEPTED

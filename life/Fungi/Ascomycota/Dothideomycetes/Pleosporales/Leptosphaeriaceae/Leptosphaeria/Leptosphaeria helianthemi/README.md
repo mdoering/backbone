@@ -1,5 +1,4 @@
-Leptosphaeria helianthemi Auersw. SPECIES
-=======
+# Leptosphaeria helianthemi Auersw. SPECIES
 
 #### Status
 ACCEPTED

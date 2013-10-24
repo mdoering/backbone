@@ -1,5 +1,4 @@
-Trichomerium ornatum Bat. & Cif. SPECIES
-=======
+# Trichomerium ornatum Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

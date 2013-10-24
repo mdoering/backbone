@@ -1,5 +1,4 @@
-Halorosellinia Whalley, E.B.G. Jones, K.D. Hyde & Laessøe GENUS
-=======
+# Halorosellinia Whalley, E.B.G. Jones, K.D. Hyde & Laessøe GENUS
 
 #### Status
 ACCEPTED

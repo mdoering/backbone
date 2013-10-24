@@ -1,5 +1,4 @@
-Oxytricha chlorelligera Kahl, 1932 SPECIES
-=======
+# Oxytricha chlorelligera Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

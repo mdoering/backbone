@@ -1,5 +1,4 @@
-Akanthomyces johnsonii (Massee) Vincent, Seifert & Samson, 1988 SPECIES
-=======
+# Akanthomyces johnsonii (Massee) Vincent, Seifert & Samson, 1988 SPECIES
 
 #### Status
 ACCEPTED

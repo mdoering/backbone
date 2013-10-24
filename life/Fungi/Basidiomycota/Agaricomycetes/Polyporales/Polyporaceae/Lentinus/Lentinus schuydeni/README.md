@@ -1,5 +1,4 @@
-Lentinus schuydeni Speg. SPECIES
-=======
+# Lentinus schuydeni Speg. SPECIES
 
 #### Status
 ACCEPTED

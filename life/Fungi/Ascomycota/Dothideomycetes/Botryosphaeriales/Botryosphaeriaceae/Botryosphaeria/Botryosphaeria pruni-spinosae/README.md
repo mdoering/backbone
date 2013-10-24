@@ -1,5 +1,4 @@
-Botryosphaeria pruni-spinosae Delacr. SPECIES
-=======
+# Botryosphaeria pruni-spinosae Delacr. SPECIES
 
 #### Status
 ACCEPTED

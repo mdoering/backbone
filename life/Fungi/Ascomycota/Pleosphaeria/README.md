@@ -1,5 +1,4 @@
-Pleosphaeria Spegazzini, 1881 GENUS
-=======
+# Pleosphaeria Spegazzini, 1881 GENUS
 
 #### Status
 ACCEPTED

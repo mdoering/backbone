@@ -1,5 +1,4 @@
-Retrostium amphiroae Nakagiri & Tad. Ito, 1997 SPECIES
-=======
+# Retrostium amphiroae Nakagiri & Tad. Ito, 1997 SPECIES
 
 #### Status
 ACCEPTED

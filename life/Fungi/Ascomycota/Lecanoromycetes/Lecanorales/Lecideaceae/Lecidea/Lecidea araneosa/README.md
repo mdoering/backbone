@@ -1,5 +1,4 @@
-Lecidea araneosa SPECIES
-=======
+# Lecidea araneosa SPECIES
 
 #### Status
 ACCEPTED

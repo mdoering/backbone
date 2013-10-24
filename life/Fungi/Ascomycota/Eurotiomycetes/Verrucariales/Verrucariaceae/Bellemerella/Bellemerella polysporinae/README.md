@@ -1,5 +1,4 @@
-Bellemerella polysporinae Calat. & Nav.-Ros. SPECIES
-=======
+# Bellemerella polysporinae Calat. & Nav.-Ros. SPECIES
 
 #### Status
 ACCEPTED

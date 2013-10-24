@@ -1,5 +1,4 @@
-Paxillus griseotomentosus Secr. ex Fr. SPECIES
-=======
+# Paxillus griseotomentosus Secr. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

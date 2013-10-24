@@ -1,5 +1,4 @@
-Puccinia subnitens Dietel SPECIES
-=======
+# Puccinia subnitens Dietel SPECIES
 
 #### Status
 ACCEPTED

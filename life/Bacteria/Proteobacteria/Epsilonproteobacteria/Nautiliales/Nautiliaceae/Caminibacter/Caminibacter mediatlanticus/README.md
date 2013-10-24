@@ -1,5 +1,4 @@
-Caminibacter mediatlanticus Voordeckers et al., 2005 SPECIES
-=======
+# Caminibacter mediatlanticus Voordeckers et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

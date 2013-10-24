@@ -1,5 +1,4 @@
-Hydrophora chlorospora Bonord. SPECIES
-=======
+# Hydrophora chlorospora Bonord. SPECIES
 
 #### Status
 ACCEPTED

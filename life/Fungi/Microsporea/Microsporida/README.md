@@ -1,5 +1,4 @@
-Microsporida Balbani, 1892 ORDER
-=======
+# Microsporida Balbani, 1892 ORDER
 
 #### Status
 ACCEPTED

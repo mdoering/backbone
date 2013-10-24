@@ -1,5 +1,4 @@
-Opegrapha porinicola Matzer SPECIES
-=======
+# Opegrapha porinicola Matzer SPECIES
 
 #### Status
 ACCEPTED

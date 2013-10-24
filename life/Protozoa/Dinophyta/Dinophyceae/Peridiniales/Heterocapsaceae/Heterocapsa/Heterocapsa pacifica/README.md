@@ -1,5 +1,4 @@
-Heterocapsa pacifica Kofoid, 1907 SPECIES
-=======
+# Heterocapsa pacifica Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

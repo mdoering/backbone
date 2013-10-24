@@ -1,5 +1,4 @@
-Cytosporina stellulata Sacc. SPECIES
-=======
+# Cytosporina stellulata Sacc. SPECIES
 
 #### Status
 ACCEPTED

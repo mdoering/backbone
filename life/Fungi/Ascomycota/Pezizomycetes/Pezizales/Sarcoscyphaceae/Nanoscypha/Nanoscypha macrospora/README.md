@@ -1,5 +1,4 @@
-Nanoscypha macrospora Denison, 1972 SPECIES
-=======
+# Nanoscypha macrospora Denison, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis pirorum Sacc. & Trotter SPECIES
-=======
+# Phomopsis pirorum Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria oocephala Penz. & Sacc. SPECIES
-=======
+# Xylaria oocephala Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

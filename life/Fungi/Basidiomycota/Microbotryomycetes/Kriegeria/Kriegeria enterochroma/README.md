@@ -1,5 +1,4 @@
-Kriegeria enterochroma (Peck) Seaver SPECIES
-=======
+# Kriegeria enterochroma (Peck) Seaver SPECIES
 
 #### Status
 ACCEPTED

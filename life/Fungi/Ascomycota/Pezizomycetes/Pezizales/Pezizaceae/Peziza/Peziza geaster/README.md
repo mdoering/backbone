@@ -1,5 +1,4 @@
-Peziza geaster Rabenh. & Gonn. SPECIES
-=======
+# Peziza geaster Rabenh. & Gonn. SPECIES
 
 #### Status
 ACCEPTED

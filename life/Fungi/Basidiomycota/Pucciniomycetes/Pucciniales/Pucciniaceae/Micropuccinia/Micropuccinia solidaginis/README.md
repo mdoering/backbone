@@ -1,5 +1,4 @@
-Micropuccinia solidaginis (Peck) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia solidaginis (Peck) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

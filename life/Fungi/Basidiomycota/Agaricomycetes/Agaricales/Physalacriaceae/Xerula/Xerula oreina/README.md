@@ -1,5 +1,4 @@
-Xerula oreina (Pacioni & Lalli) Contu SPECIES
-=======
+# Xerula oreina (Pacioni & Lalli) Contu SPECIES
 
 #### Status
 ACCEPTED

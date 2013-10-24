@@ -1,8 +1,7 @@
-Humaria hartmanni (W. Phillips) Sacc. SPECIES
-=======
+# Humaria hartmannii (W. Phillips) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

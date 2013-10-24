@@ -1,5 +1,4 @@
-Biatora fuscocincta (Stirt.) Hellb. SPECIES
-=======
+# Biatora fuscocincta (Stirt.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

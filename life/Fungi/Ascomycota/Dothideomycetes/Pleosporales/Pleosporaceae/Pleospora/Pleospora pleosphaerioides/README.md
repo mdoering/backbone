@@ -1,5 +1,4 @@
-Pleospora pleosphaerioides Wehm. SPECIES
-=======
+# Pleospora pleosphaerioides Wehm. SPECIES
 
 #### Status
 ACCEPTED

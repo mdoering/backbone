@@ -1,17 +1,16 @@
-Pertusaria waghornei f. pallida Zahlbr. FORM
-=======
+# Pertusaria waghornei Hulting SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Pertusaria waghornei f. pallida Zahlbr.
+Pertusaria waghornei Hulting
 
 ### Remarks
 null

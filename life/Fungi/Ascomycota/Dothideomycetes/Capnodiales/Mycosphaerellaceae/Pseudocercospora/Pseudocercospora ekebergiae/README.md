@@ -1,5 +1,4 @@
-Pseudocercospora ekebergiae (Crous & B. Sutton) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora ekebergiae (Crous & B. Sutton) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

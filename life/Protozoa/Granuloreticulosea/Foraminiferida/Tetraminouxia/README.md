@@ -1,5 +1,4 @@
-Tetraminouxia Gendrot, 1963 GENUS
-=======
+# Tetraminouxia Gendrot, 1963 GENUS
 
 #### Status
 ACCEPTED

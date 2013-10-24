@@ -1,5 +1,4 @@
-Radiobisphaera Won, 1997 GENUS
-=======
+# Radiobisphaera Won, 1997 GENUS
 
 #### Status
 ACCEPTED

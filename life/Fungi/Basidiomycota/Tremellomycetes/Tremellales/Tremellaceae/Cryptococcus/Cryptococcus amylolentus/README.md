@@ -1,5 +1,4 @@
-Cryptococcus amylolentus (Van der Walt, D.B. Scott & Klift) Golubev, 1981 SPECIES
-=======
+# Cryptococcus amylolentus (Van der Walt, D.B. Scott & Klift) Golubev, 1981 SPECIES
 
 #### Status
 ACCEPTED

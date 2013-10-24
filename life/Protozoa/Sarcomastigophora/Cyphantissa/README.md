@@ -1,5 +1,4 @@
-Cyphantissa Haeckel, 1887 GENUS
-=======
+# Cyphantissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

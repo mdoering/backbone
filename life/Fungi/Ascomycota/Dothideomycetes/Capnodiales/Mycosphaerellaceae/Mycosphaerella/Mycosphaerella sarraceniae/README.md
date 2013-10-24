@@ -1,5 +1,4 @@
-Mycosphaerella sarraceniae (Schwein.) House SPECIES
-=======
+# Mycosphaerella sarraceniae (Schwein.) House SPECIES
 
 #### Status
 ACCEPTED

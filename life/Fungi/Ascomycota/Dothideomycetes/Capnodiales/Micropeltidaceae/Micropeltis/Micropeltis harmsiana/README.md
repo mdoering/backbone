@@ -1,5 +1,4 @@
-Micropeltis harmsiana Henn. SPECIES
-=======
+# Micropeltis harmsiana Henn. SPECIES
 
 #### Status
 ACCEPTED

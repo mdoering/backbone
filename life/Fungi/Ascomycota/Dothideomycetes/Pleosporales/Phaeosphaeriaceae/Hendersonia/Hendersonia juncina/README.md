@@ -1,5 +1,4 @@
-Hendersonia juncina J.W. Ellis, 1915 SPECIES
-=======
+# Hendersonia juncina J.W. Ellis, 1915 SPECIES
 
 #### Status
 ACCEPTED

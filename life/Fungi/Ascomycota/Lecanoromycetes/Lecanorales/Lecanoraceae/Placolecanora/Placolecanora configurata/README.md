@@ -1,5 +1,4 @@
-Placolecanora configurata (Nyl.) Kopach. SPECIES
-=======
+# Placolecanora configurata (Nyl.) Kopach. SPECIES
 
 #### Status
 ACCEPTED

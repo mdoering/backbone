@@ -1,5 +1,4 @@
-Streptomyces neyagawaensis Yamamoto et al., 1960 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces neyagawaensis Yamamoto et al., 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

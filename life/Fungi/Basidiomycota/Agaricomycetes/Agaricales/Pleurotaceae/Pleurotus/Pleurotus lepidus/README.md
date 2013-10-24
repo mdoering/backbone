@@ -1,5 +1,4 @@
-Pleurotus lepidus (Fr.) SPECIES
-=======
+# Pleurotus lepidus (Fr.) SPECIES
 
 #### Status
 ACCEPTED

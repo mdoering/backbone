@@ -1,5 +1,4 @@
-Septoria cordiae Syd. & P. Syd. SPECIES
-=======
+# Septoria cordiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

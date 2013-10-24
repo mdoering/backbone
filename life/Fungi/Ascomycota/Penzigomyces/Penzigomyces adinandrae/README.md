@@ -1,5 +1,4 @@
-Penzigomyces adinandrae Subram. SPECIES
-=======
+# Penzigomyces adinandrae Subram. SPECIES
 
 #### Status
 ACCEPTED

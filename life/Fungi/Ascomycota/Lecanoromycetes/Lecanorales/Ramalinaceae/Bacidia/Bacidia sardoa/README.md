@@ -1,5 +1,4 @@
-Bacidia sardoa (Körb.) Zahlbr. SPECIES
-=======
+# Bacidia sardoa (Körb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

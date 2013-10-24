@@ -1,5 +1,4 @@
-Isthmosporella pulchra Shearer & J.L. Crane, 1999 SPECIES
-=======
+# Isthmosporella pulchra Shearer & J.L. Crane, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trechispora petrophila (Bourdot & Galzin) Liberta SPECIES
-=======
+# Trechispora petrophila (Bourdot & Galzin) Liberta SPECIES
 
 #### Status
 ACCEPTED

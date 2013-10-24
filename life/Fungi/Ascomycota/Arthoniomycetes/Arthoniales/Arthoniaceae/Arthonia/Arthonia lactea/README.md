@@ -1,5 +1,4 @@
-Arthonia lactea Müll. Arg. SPECIES
-=======
+# Arthonia lactea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

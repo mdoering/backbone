@@ -1,5 +1,4 @@
-Cortinarius basililaceus A. Pearson ex P.D. Orton, 1984 SPECIES
-=======
+# Cortinarius basililaceus A. Pearson ex P.D. Orton, 1984 SPECIES
 
 #### Status
 ACCEPTED

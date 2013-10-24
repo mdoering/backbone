@@ -1,5 +1,4 @@
-Amanita masasiensis Härk. & Saarim. SPECIES
-=======
+# Amanita masasiensis Härk. & Saarim. SPECIES
 
 #### Status
 ACCEPTED

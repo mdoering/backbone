@@ -1,5 +1,4 @@
-Tephrophana baeosperma Romagn. SPECIES
-=======
+# Tephrophana baeosperma Romagn. SPECIES
 
 #### Status
 ACCEPTED

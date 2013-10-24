@@ -1,5 +1,4 @@
-Entoloma corneri E. Horak SPECIES
-=======
+# Entoloma corneri E. Horak SPECIES
 
 #### Status
 ACCEPTED

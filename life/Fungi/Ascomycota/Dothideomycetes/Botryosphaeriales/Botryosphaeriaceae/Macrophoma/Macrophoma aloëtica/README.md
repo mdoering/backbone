@@ -1,5 +1,4 @@
-Macrophoma aloëtica Sousa da Câmara SPECIES
-=======
+# Macrophoma aloëtica Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

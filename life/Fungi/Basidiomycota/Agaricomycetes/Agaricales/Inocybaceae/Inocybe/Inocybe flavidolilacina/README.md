@@ -1,5 +1,4 @@
-Inocybe flavidolilacina (Britzelm.) Lapl. SPECIES
-=======
+# Inocybe flavidolilacina (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

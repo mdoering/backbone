@@ -1,5 +1,4 @@
-Entyloma diastateae M. Piepenbr., 1996 SPECIES
-=======
+# Entyloma diastateae M. Piepenbr., 1996 SPECIES
 
 #### Status
 ACCEPTED

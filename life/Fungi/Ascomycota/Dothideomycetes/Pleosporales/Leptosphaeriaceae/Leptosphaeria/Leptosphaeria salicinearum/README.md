@@ -1,5 +1,4 @@
-Leptosphaeria salicinearum (Pass.) Sacc. SPECIES
-=======
+# Leptosphaeria salicinearum (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

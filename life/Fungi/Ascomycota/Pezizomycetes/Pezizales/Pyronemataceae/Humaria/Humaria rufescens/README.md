@@ -1,5 +1,4 @@
-Humaria rufescens (Saut.) Sacc. SPECIES
-=======
+# Humaria rufescens (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

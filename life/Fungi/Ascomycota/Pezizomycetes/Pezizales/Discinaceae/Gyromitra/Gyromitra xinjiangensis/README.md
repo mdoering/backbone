@@ -1,5 +1,4 @@
-Gyromitra xinjiangensis J.Z. Cao, L. Fan & B. Liu SPECIES
-=======
+# Gyromitra xinjiangensis J.Z. Cao, L. Fan & B. Liu SPECIES
 
 #### Status
 ACCEPTED

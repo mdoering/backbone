@@ -1,5 +1,4 @@
-Caloplaca necator Poelt & Clauzade SPECIES
-=======
+# Caloplaca necator Poelt & Clauzade SPECIES
 
 #### Status
 ACCEPTED

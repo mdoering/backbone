@@ -1,5 +1,4 @@
-Oedohysterium sinense (Teng) E. Boehm & C.L. Schoch, 2009 SPECIES
-=======
+# Oedohysterium sinense (Teng) E. Boehm & C.L. Schoch, 2009 SPECIES
 
 #### Status
 ACCEPTED

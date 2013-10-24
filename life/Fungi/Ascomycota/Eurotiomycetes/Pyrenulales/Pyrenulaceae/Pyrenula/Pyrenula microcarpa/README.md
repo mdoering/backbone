@@ -1,17 +1,16 @@
-Pyrenula cinerea Zahlbr. SPECIES
-=======
+# Pyrenula microcarpa Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Jb. 6: 412 (1885)
 
 #### Original name
-null
+Pyrenula microcarpa Müll. Arg.
 
 ### Remarks
 null

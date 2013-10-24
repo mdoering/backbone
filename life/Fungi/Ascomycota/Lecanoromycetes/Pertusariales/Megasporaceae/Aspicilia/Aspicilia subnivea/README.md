@@ -1,5 +1,4 @@
-Aspicilia subnivea (Müll. Arg.) Hue SPECIES
-=======
+# Aspicilia subnivea (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

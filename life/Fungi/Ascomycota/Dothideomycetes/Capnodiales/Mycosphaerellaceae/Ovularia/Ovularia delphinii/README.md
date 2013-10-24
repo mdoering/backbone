@@ -1,5 +1,4 @@
-Ovularia delphinii Solheim SPECIES
-=======
+# Ovularia delphinii Solheim SPECIES
 
 #### Status
 ACCEPTED

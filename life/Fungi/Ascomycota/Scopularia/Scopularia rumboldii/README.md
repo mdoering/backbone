@@ -1,5 +1,4 @@
-Scopularia rumboldii Goid. SPECIES
-=======
+# Scopularia rumboldii Goid. SPECIES
 
 #### Status
 ACCEPTED

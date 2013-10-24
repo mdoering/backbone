@@ -1,5 +1,4 @@
-Amanita fuligineodisca Tulloss, Ovrebo & Halling SPECIES
-=======
+# Amanita fuligineodisca Tulloss, Ovrebo & Halling SPECIES
 
 #### Status
 ACCEPTED

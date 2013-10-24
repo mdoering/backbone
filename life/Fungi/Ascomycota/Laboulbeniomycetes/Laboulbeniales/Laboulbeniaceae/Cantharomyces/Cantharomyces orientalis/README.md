@@ -1,5 +1,4 @@
-Cantharomyces orientalis Speg., 1915 SPECIES
-=======
+# Cantharomyces orientalis Speg., 1915 SPECIES
 
 #### Status
 ACCEPTED

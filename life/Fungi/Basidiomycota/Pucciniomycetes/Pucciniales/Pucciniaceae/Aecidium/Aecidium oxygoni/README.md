@@ -1,5 +1,4 @@
-Aecidium oxygoni Canonaco SPECIES
-=======
+# Aecidium oxygoni Canonaco SPECIES
 
 #### Status
 ACCEPTED

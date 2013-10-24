@@ -1,5 +1,4 @@
-Pseudoacrodictys dimorphospora Somrith. & E.B.G. Jones SPECIES
-=======
+# Pseudoacrodictys dimorphospora Somrith. & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

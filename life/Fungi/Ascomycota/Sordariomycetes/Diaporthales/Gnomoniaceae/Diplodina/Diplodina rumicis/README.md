@@ -1,5 +1,4 @@
-Diplodina rumicis Gucevic SPECIES
-=======
+# Diplodina rumicis Gucevic SPECIES
 
 #### Status
 ACCEPTED

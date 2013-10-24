@@ -1,5 +1,4 @@
-Peronospora indica Gäum. SPECIES
-=======
+# Peronospora indica Gäum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothecium oligocarpum Corda SPECIES
-=======
+# Trichothecium oligocarpum Corda SPECIES
 
 #### Status
 ACCEPTED

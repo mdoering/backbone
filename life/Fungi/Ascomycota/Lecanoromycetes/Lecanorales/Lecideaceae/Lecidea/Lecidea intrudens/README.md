@@ -1,5 +1,4 @@
-Lecidea intrudens H. Magn. SPECIES
-=======
+# Lecidea intrudens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

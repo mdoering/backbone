@@ -1,5 +1,4 @@
-Stagonospora typhicola Oudem. SPECIES
-=======
+# Stagonospora typhicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

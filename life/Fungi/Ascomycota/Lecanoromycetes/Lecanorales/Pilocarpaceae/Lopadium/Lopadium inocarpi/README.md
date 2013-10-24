@@ -1,5 +1,4 @@
-Lopadium inocarpi (Vain.) Zahlbr. SPECIES
-=======
+# Lopadium inocarpi (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

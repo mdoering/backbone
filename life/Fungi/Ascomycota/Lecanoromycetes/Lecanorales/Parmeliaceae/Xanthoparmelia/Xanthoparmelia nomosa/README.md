@@ -1,5 +1,4 @@
-Xanthoparmelia nomosa Elix & Kantvilas SPECIES
-=======
+# Xanthoparmelia nomosa Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

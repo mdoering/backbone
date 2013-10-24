@@ -1,5 +1,4 @@
-Buellia bolanderi Tuck. SPECIES
-=======
+# Buellia bolanderi Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum platani Roum. SPECIES
-=======
+# Stereum platani Roum. SPECIES
 
 #### Status
 ACCEPTED

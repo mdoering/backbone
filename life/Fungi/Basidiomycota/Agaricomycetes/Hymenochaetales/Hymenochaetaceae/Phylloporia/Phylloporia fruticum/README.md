@@ -1,14 +1,13 @@
-Polyporus fruticum Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Phylloporia fruticum (Berk. & M.A. Curtis) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 10: 310 (1868)
+Norw. Jl Bot. 19: 235 (1972)
 
 #### Original name
 Polyporus fruticum Berk. & M.A. Curtis, 1868

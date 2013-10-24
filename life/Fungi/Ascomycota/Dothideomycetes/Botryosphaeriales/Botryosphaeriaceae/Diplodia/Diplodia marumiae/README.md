@@ -1,5 +1,4 @@
-Diplodia marumiae Sacc. & Paol. SPECIES
-=======
+# Diplodia marumiae Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

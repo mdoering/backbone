@@ -1,5 +1,4 @@
-Meliola ficicola Hansf. & Thirum. SPECIES
-=======
+# Meliola ficicola Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

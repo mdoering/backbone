@@ -1,5 +1,4 @@
-Gloeothece tophacea Skuja SPECIES
-=======
+# Gloeothece tophacea Skuja SPECIES
 
 #### Status
 ACCEPTED

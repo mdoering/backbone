@@ -1,5 +1,4 @@
-Caecomyces sympodialis Y.C. Chen, S.D. Tsai & C.Y. Chien SPECIES
-=======
+# Caecomyces sympodialis Y.C. Chen, S.D. Tsai & C.Y. Chien SPECIES
 
 #### Status
 ACCEPTED

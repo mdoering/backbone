@@ -1,5 +1,4 @@
-Neoichthyophthirius Bauer & Yunchis, 2001 GENUS
-=======
+# Neoichthyophthirius Bauer & Yunchis, 2001 GENUS
 
 #### Status
 ACCEPTED

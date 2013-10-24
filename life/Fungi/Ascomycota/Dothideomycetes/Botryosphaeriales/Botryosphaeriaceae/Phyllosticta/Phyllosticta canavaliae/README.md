@@ -1,5 +1,4 @@
-Phyllosticta canavaliae Van der Byl SPECIES
-=======
+# Phyllosticta canavaliae Van der Byl SPECIES
 
 #### Status
 ACCEPTED

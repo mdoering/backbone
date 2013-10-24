@@ -1,5 +1,4 @@
-Lachnum indicum (E.K. Cash) J.H. Haines & Dumont SPECIES
-=======
+# Lachnum indicum (E.K. Cash) J.H. Haines & Dumont SPECIES
 
 #### Status
 ACCEPTED

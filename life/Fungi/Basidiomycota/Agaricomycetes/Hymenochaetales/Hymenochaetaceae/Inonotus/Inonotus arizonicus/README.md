@@ -1,5 +1,4 @@
-Inonotus arizonicus Gilb. SPECIES
-=======
+# Inonotus arizonicus Gilb. SPECIES
 
 #### Status
 ACCEPTED

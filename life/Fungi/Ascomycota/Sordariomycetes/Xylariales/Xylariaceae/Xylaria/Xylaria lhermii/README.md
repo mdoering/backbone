@@ -1,5 +1,4 @@
-Xylaria lhermii Pat. SPECIES
-=======
+# Xylaria lhermii Pat. SPECIES
 
 #### Status
 ACCEPTED

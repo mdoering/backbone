@@ -1,8 +1,7 @@
-Tachysoma parvulum Corliss & Snyder, 1986 SPECIES
-=======
+# Notocephalus parvulus (Corliss & Snyder, 1986) Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

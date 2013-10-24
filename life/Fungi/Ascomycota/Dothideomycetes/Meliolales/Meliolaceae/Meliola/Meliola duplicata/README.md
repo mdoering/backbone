@@ -1,5 +1,4 @@
-Meliola duplicata Cif. SPECIES
-=======
+# Meliola duplicata Cif. SPECIES
 
 #### Status
 ACCEPTED

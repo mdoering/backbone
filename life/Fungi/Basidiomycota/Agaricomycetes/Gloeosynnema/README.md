@@ -1,5 +1,4 @@
-Gloeosynnema Seifert & G. Okada GENUS
-=======
+# Gloeosynnema Seifert & G. Okada GENUS
 
 #### Status
 ACCEPTED

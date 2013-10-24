@@ -1,5 +1,4 @@
-Inodosporus spraguei R.M. Overstreet & E. Weidner SPECIES
-=======
+# Inodosporus spraguei R.M. Overstreet & E. Weidner SPECIES
 
 #### Status
 ACCEPTED

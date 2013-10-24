@@ -1,5 +1,4 @@
-Lecanactis limosescens Zahlbr. SPECIES
-=======
+# Lecanactis limosescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

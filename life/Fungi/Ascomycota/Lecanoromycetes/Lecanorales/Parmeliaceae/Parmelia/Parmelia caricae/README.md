@@ -1,5 +1,4 @@
-Parmelia caricae Clemente SPECIES
-=======
+# Parmelia caricae Clemente SPECIES
 
 #### Status
 ACCEPTED

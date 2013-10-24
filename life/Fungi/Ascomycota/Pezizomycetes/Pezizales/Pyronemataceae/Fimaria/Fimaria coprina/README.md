@@ -1,5 +1,4 @@
-Fimaria coprina Eckblad SPECIES
-=======
+# Fimaria coprina Eckblad SPECIES
 
 #### Status
 ACCEPTED

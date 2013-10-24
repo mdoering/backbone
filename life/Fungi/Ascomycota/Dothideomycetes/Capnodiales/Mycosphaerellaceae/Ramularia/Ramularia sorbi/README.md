@@ -1,5 +1,4 @@
-Ramularia sorbi Karak. SPECIES
-=======
+# Ramularia sorbi Karak. SPECIES
 
 #### Status
 ACCEPTED

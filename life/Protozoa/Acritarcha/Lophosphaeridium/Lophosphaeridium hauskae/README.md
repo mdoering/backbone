@@ -1,5 +1,4 @@
-Lophosphaeridium hauskae Priewalder, 1987 SPECIES
-=======
+# Lophosphaeridium hauskae Priewalder, 1987 SPECIES
 
 #### Status
 ACCEPTED

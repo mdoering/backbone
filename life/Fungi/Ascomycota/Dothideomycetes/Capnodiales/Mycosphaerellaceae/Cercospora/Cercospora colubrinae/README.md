@@ -1,5 +1,4 @@
-Cercospora colubrinae Chupp & Viégas SPECIES
-=======
+# Cercospora colubrinae Chupp & Viégas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps washingtonensis Mains SPECIES
-=======
+# Cordyceps washingtonensis Mains SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella ipomoeae-stoloniferae (J.M. Yen & Gilles) U. Braun SPECIES
-=======
+# Stenella ipomoeae-stoloniferae (J.M. Yen & Gilles) U. Braun SPECIES
 
 #### Status
 ACCEPTED

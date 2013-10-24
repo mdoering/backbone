@@ -1,5 +1,4 @@
-Pseudostypella nothofagi McNabb, 1969 SPECIES
-=======
+# Pseudostypella nothofagi McNabb, 1969 SPECIES
 
 #### Status
 ACCEPTED

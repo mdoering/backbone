@@ -1,5 +1,4 @@
-Cladonia polita Ahti SPECIES
-=======
+# Cladonia polita Ahti SPECIES
 
 #### Status
 ACCEPTED

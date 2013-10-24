@@ -1,5 +1,4 @@
-Podosporium theobromicola Av.-Saccá SPECIES
-=======
+# Podosporium theobromicola Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Elasmomyces pilosus (Zeller & C.W. Dodge) Singer & A.H. Sm., 1960 SPECIES
-=======
+# Macowanites pilosus (Zeller & C.W. Dodge) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Torrey bot. Club 21(3): 66 (1960)
+Mycotaxon 81: 202 (2002)
 
 #### Original name
 Arcangeliella pilosa Zeller & C.W. Dodge, 1935

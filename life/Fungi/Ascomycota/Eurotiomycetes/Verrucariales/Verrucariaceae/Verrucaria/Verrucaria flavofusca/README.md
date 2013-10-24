@@ -1,5 +1,4 @@
-Verrucaria flavofusca (Schrad.) Hoffm. SPECIES
-=======
+# Verrucaria flavofusca (Schrad.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

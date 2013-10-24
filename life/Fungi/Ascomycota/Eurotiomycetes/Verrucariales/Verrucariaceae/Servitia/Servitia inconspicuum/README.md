@@ -1,14 +1,13 @@
-Dermatocarpon inconspicuum Lynge SPECIES
-=======
+# Servitia inconspicuum (Lynge) M.S. Christ. & Alstrup SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Alstrup & Hansen, Graphis Scripta 12(2): 41 (2001)
 
 #### Original name
 Dermatocarpon inconspicuum Lynge

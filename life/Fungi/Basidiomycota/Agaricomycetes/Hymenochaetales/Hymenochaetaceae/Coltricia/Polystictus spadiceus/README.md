@@ -1,5 +1,4 @@
-Polystictus spadiceus (Jungh.) Fr. SPECIES
-=======
+# Polystictus spadiceus (Jungh.) Fr. SPECIES
 
 #### Status
 ACCEPTED

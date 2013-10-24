@@ -1,5 +1,4 @@
-Peziza viridirubescens R.G. Bagn. SPECIES
-=======
+# Peziza viridirubescens R.G. Bagn. SPECIES
 
 #### Status
 ACCEPTED

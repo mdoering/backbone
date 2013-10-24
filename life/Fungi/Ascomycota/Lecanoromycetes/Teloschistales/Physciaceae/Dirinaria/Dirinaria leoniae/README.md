@@ -1,5 +1,4 @@
-Dirinaria leoniae (Hue) C.W. Dodge SPECIES
-=======
+# Dirinaria leoniae (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

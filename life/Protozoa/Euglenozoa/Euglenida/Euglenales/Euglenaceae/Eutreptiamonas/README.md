@@ -1,5 +1,4 @@
-Eutreptiamonas B.V. Skvortzov & M. Noda, 1983 GENUS
-=======
+# Eutreptiamonas B.V. Skvortzov & M. Noda, 1983 GENUS
 
 #### Status
 ACCEPTED

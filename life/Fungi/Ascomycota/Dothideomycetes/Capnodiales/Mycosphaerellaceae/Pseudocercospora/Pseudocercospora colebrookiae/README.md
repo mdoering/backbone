@@ -1,5 +1,4 @@
-Pseudocercospora colebrookiae H.S.G. Rao, A.S. Moses & P.N. Singh SPECIES
-=======
+# Pseudocercospora colebrookiae H.S.G. Rao, A.S. Moses & P.N. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Typhula struthiopteridis Corner, 1970 SPECIES
-=======
+# Typhula struthiopteridis Corner, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Emericellopsis stolkiae D.E. Davidson & M. Chr., 1971 SPECIES
-=======
+# Emericellopsis stolkiae D.E. Davidson & M. Chr., 1971 SPECIES
 
 #### Status
 ACCEPTED

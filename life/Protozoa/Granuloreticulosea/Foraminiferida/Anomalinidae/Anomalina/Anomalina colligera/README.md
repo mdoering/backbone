@@ -1,5 +1,4 @@
-Anomalina colligera Chapman & Parr SPECIES
-=======
+# Anomalina colligera Chapman & Parr SPECIES
 
 #### Status
 ACCEPTED

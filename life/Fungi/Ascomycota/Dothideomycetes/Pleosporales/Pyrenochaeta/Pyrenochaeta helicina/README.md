@@ -1,5 +1,4 @@
-Pyrenochaeta helicina Alcalde SPECIES
-=======
+# Pyrenochaeta helicina Alcalde SPECIES
 
 #### Status
 ACCEPTED

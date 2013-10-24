@@ -1,5 +1,4 @@
-Cortinarius verruculosus (Murrill) Singer SPECIES
-=======
+# Cortinarius verruculosus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

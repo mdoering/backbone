@@ -1,5 +1,4 @@
-Agaricus argyrospermus Bull. SPECIES
-=======
+# Agaricus argyrospermus Bull. SPECIES
 
 #### Status
 ACCEPTED

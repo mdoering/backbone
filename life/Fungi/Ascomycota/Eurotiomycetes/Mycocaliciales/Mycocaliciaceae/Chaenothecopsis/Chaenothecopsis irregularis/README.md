@@ -1,5 +1,4 @@
-Chaenothecopsis irregularis Titov SPECIES
-=======
+# Chaenothecopsis irregularis Titov SPECIES
 
 #### Status
 ACCEPTED

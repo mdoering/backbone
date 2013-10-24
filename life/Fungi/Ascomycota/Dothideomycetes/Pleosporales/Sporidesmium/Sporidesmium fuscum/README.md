@@ -1,5 +1,4 @@
-Sporidesmium fuscum Bonord. SPECIES
-=======
+# Sporidesmium fuscum Bonord. SPECIES
 
 #### Status
 ACCEPTED

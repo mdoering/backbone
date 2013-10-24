@@ -1,5 +1,4 @@
-Lynnella semiglobulosa Liu, Yi, Lin & Al-Rasheid, 2011 SPECIES
-=======
+# Lynnella semiglobulosa Liu, Yi, Lin & Al-Rasheid, 2011 SPECIES
 
 #### Status
 ACCEPTED

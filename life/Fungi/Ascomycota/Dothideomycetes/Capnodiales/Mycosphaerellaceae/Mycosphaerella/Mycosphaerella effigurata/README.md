@@ -1,14 +1,13 @@
-Sphaeria effigurata Schwein., 1832 SPECIES
-=======
+# Mycosphaerella effigurata (Schwein.) House, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. phil. Soc. , New Series 4(2): 224 (1832)
+Bull. N. Y. St. Mus. 233-234: 27 (1921)
 
 #### Original name
 Sphaeria effigurata Schwein., 1832

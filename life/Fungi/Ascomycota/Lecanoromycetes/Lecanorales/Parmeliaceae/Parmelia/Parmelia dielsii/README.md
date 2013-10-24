@@ -1,5 +1,4 @@
-Parmelia dielsii Hillmann SPECIES
-=======
+# Parmelia dielsii Hillmann SPECIES
 
 #### Status
 ACCEPTED

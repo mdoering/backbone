@@ -1,5 +1,4 @@
-Glomus coronatum Giovann., 1991 SPECIES
-=======
+# Glomus coronatum Giovann., 1991 SPECIES
 
 #### Status
 ACCEPTED

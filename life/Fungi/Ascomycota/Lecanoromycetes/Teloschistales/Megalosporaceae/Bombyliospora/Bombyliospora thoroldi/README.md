@@ -1,5 +1,4 @@
-Bombyliospora thoroldi C.W. Dodge SPECIES
-=======
+# Bombyliospora thoroldi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cortinarius miraculosus var. miraculosus VARIETY
-=======
+# Cortinarius miraculosus Melot SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 95(3): 236 (1980)
 
 #### Original name
-null
+Cortinarius miraculosus Melot
 
 ### Remarks
 null

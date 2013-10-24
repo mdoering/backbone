@@ -1,5 +1,4 @@
-Gonyaulax alaskensis Kofoid SPECIES
-=======
+# Gonyaulax alaskensis Kofoid SPECIES
 
 #### Status
 ACCEPTED

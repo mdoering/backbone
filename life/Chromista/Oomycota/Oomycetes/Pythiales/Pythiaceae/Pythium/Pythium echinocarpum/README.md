@@ -1,5 +1,4 @@
-Pythium echinocarpum S. Ito & Tokun. SPECIES
-=======
+# Pythium echinocarpum S. Ito & Tokun. SPECIES
 
 #### Status
 ACCEPTED

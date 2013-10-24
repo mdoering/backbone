@@ -1,5 +1,4 @@
-Ovularia karelii Petr. SPECIES
-=======
+# Ovularia karelii Petr. SPECIES
 
 #### Status
 ACCEPTED

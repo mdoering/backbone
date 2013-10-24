@@ -1,5 +1,4 @@
-Siphula delicata Elenk. SPECIES
-=======
+# Siphula delicata Elenk. SPECIES
 
 #### Status
 ACCEPTED

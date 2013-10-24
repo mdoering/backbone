@@ -1,5 +1,4 @@
-Uredo paulistana Speg. SPECIES
-=======
+# Uredo paulistana Speg. SPECIES
 
 #### Status
 ACCEPTED

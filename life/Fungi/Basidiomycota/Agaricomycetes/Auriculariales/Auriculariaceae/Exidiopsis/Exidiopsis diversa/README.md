@@ -1,5 +1,4 @@
-Exidiopsis diversa K. Wells SPECIES
-=======
+# Exidiopsis diversa K. Wells SPECIES
 
 #### Status
 ACCEPTED

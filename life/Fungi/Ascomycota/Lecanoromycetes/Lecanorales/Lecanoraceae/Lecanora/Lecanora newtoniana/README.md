@@ -1,5 +1,4 @@
-Lecanora newtoniana Henriq. SPECIES
-=======
+# Lecanora newtoniana Henriq. SPECIES
 
 #### Status
 ACCEPTED

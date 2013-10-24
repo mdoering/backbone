@@ -1,5 +1,4 @@
-Pertusaria subcommunis Nyl. SPECIES
-=======
+# Pertusaria subcommunis Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiotrema vestita House SPECIES
-=======
+# Lophiotrema vestita House SPECIES
 
 #### Status
 ACCEPTED

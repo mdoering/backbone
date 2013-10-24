@@ -1,5 +1,4 @@
-Sarcopodium fulvescens (Sacc. & Fautrey) S. Hughes SPECIES
-=======
+# Sarcopodium fulvescens (Sacc. & Fautrey) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

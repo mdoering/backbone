@@ -1,5 +1,4 @@
-Apoa GENUS
-=======
+# Apoa GENUS
 
 #### Status
 ACCEPTED

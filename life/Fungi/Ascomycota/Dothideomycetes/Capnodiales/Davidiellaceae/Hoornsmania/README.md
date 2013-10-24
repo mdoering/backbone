@@ -1,5 +1,4 @@
-Hoornsmania Crous GENUS
-=======
+# Hoornsmania Crous GENUS
 
 #### Status
 ACCEPTED

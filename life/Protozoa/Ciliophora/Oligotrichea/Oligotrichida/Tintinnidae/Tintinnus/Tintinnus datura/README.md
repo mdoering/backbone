@@ -1,5 +1,4 @@
-Tintinnus datura Brandt, 1906 SPECIES
-=======
+# Tintinnus datura Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

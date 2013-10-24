@@ -1,17 +1,16 @@
-Cantharellus henrici Eyssart. & Buyck SPECIES
-=======
+# Cantharellus henricii Eyssart. & Buyck, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin de la Société Mycologique du Limousin 116(2): 120 (2000)
 
 #### Original name
-Cantharellus henrici Eyssart. & Buyck
+Cantharellus henricii Eyssart. & Buyck, 2000
 
 ### Remarks
 null

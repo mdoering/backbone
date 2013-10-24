@@ -1,8 +1,7 @@
-Serpulina innocens (Kinyon & Harris, 1979) Stanton, 1992 SPECIES
-=======
+# Brachyspira innocens (Kinyon & Harris, 1979) Ochiai et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Sphaeria olivascens Schwein. SPECIES
-=======
+# Sphaeria olivascens Schwein. SPECIES
 
 #### Status
 ACCEPTED

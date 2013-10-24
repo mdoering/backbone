@@ -1,5 +1,4 @@
-Leptoniella conica Murrill SPECIES
-=======
+# Leptoniella conica Murrill SPECIES
 
 #### Status
 ACCEPTED

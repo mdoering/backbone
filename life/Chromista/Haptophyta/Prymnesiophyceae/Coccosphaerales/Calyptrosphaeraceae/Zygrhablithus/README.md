@@ -1,14 +1,13 @@
-Pseudozygrhablithus B. ul Haq, 1971 GENUS
-=======
+# Zygrhablithus Deflandre GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Revue Micropaléont. 2: 135.
 
 #### Original name
 null

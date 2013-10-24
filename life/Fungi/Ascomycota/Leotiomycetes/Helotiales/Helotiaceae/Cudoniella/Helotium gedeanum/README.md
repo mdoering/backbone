@@ -1,5 +1,4 @@
-Helotium gedeanum Dennis SPECIES
-=======
+# Helotium gedeanum Dennis SPECIES
 
 #### Status
 ACCEPTED

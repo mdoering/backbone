@@ -1,5 +1,4 @@
-Cortinarius pateriformis Fr. SPECIES
-=======
+# Cortinarius pateriformis Fr. SPECIES
 
 #### Status
 ACCEPTED

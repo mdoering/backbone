@@ -1,5 +1,4 @@
-Rhynchostoma arganiae Rieuf SPECIES
-=======
+# Rhynchostoma arganiae Rieuf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prymnesium parvum f. patelliferum FORM
-=======
+# Prymnesium parvum N. Carter ex J.C. Green, D.J. Hibberd & Pienaar SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Carter N. 1937. New or interesting algae from brackish water. Arch. Protistemk. 90: 1-68.
 
 #### Original name
 null

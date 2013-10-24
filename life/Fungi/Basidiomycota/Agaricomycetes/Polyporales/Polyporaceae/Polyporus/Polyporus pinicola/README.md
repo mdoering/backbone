@@ -1,11 +1,10 @@
-Polyporus pinicola var. pinicola VARIETY
-=======
+# Polyporus pinicola SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Stilbum cordiae (Rehm) Sacc. & Trotter SPECIES
-=======
+# Stilbum cordiae (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epithele nivea Rick SPECIES
-=======
+# Epithele nivea Rick SPECIES
 
 #### Status
 ACCEPTED

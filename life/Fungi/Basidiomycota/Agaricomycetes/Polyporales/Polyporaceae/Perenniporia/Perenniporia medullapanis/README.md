@@ -1,5 +1,4 @@
-Perenniporia medullapanis (Jacq. Fr.) Donk SPECIES
-=======
+# Perenniporia medullapanis (Jacq. Fr.) Donk SPECIES
 
 #### Status
 ACCEPTED

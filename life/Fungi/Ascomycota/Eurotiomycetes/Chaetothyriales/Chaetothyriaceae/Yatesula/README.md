@@ -1,5 +1,4 @@
-Yatesula Syd. & P. Syd. GENUS
-=======
+# Yatesula Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

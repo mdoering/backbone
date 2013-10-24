@@ -1,5 +1,4 @@
-Rhabdospora gutierreziae Tracy & Earle SPECIES
-=======
+# Rhabdospora gutierreziae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

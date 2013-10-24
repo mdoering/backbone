@@ -1,17 +1,16 @@
-Umbilicaria hirsuta var. hirsuta VARIETY
-=======
+# Umbilicaria hirsuta (Sw. ex Westr.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Lichen hirsutus Sw. ex Westr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trametes rufidochmia Corner SPECIES
-=======
+# Trametes rufidochmia Corner SPECIES
 
 #### Status
 ACCEPTED

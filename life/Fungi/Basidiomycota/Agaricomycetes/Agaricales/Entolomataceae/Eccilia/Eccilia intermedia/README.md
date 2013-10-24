@@ -1,5 +1,4 @@
-Eccilia intermedia Rick SPECIES
-=======
+# Eccilia intermedia Rick SPECIES
 
 #### Status
 ACCEPTED

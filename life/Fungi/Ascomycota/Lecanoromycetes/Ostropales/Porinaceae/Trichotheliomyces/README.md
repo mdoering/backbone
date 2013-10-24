@@ -1,5 +1,4 @@
-Trichotheliomyces GENUS
-=======
+# Trichotheliomyces GENUS
 
 #### Status
 ACCEPTED

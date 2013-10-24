@@ -1,5 +1,4 @@
-Laurera monospora Breuss SPECIES
-=======
+# Laurera monospora Breuss SPECIES
 
 #### Status
 ACCEPTED

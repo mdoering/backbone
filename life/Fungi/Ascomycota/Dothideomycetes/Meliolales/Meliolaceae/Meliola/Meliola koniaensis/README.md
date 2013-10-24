@@ -1,5 +1,4 @@
-Meliola koniaensis Hansf. & Deighton SPECIES
-=======
+# Meliola koniaensis Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

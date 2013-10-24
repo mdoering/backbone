@@ -1,5 +1,4 @@
-Verrucaria nitens Fée SPECIES
-=======
+# Verrucaria nitens Fée SPECIES
 
 #### Status
 ACCEPTED

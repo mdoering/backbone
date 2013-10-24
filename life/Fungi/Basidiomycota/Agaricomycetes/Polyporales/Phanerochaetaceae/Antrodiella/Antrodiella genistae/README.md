@@ -1,14 +1,13 @@
-Coriolus genistae Bourdot & Galzin, 1925 SPECIES
-=======
+# Antrodiella genistae (Bourdot & Galzin) A. David, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 41: 145 (1925)
+Bull. trimest. Soc. mycol. Fr. 106: 75 (1990)
 
 #### Original name
 Coriolus genistae Bourdot & Galzin, 1925

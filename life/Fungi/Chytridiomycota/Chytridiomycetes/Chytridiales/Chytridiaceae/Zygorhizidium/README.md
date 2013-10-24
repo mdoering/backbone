@@ -1,17 +1,16 @@
-Ectochytridium Scherff. GENUS
-=======
+# Zygorhizidium Löwenthal GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Protistenk. 5: 228 (1904)
 
 #### Original name
-Ectochytridium Scherff.
+Zygorhizidium Löwenthal
 
 ### Remarks
 null

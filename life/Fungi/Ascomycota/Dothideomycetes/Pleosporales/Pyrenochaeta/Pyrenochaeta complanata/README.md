@@ -1,5 +1,4 @@
-Pyrenochaeta complanata P. Karst. SPECIES
-=======
+# Pyrenochaeta complanata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

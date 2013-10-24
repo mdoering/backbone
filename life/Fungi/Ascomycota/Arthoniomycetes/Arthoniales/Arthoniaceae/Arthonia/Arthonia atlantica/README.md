@@ -1,17 +1,16 @@
-Stigmatidium dendriticum (Dufour) Leight. SPECIES
-=======
+# Arthonia atlantica P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , NS 4: 257 (1875)
+Lichenologist 4(4): 318 (1970)
 
 #### Original name
-Arthonia dendritica (Leight.) Cromb.
+Arthonia atlantica P. James
 
 ### Remarks
 null

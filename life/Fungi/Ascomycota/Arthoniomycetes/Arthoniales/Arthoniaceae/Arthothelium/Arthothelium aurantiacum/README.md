@@ -1,5 +1,4 @@
-Arthothelium aurantiacum Müll. Arg. SPECIES
-=======
+# Arthothelium aurantiacum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Callistosporium galerinoides Singer, 1948 SPECIES
-=======
+# Callistosporium galerinoides Singer, 1948 SPECIES
 
 #### Status
 ACCEPTED

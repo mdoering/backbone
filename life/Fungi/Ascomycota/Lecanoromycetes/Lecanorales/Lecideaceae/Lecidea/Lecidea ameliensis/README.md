@@ -1,5 +1,4 @@
-Lecidea ameliensis (Nyl.) Hue SPECIES
-=======
+# Lecidea ameliensis (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophophaena variabilis (Popofsky) Petrushevskaya, 1971 SPECIES
-=======
+# Lophophaena variabilis (Popofsky) Petrushevskaya, 1971 SPECIES
 
 #### Status
 ACCEPTED

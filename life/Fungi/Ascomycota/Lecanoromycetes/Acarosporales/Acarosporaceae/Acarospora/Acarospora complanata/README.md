@@ -1,5 +1,4 @@
-Acarospora complanata H. Magn. SPECIES
-=======
+# Acarospora complanata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

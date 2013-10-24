@@ -1,5 +1,4 @@
-Arthothelium cinerascens (Kremp.) Zahlbr. SPECIES
-=======
+# Arthothelium cinerascens (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

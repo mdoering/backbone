@@ -1,5 +1,4 @@
-Streptomyces aureofaciens Duggar, 1948 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces aureofaciens Duggar, 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

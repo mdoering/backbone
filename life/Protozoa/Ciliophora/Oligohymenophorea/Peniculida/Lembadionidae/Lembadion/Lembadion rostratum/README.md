@@ -1,5 +1,4 @@
-Lembadion rostratum Dumas SPECIES
-=======
+# Lembadion rostratum Dumas SPECIES
 
 #### Status
 ACCEPTED

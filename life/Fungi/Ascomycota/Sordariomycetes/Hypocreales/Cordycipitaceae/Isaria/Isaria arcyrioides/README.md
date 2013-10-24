@@ -1,5 +1,4 @@
-Isaria arcyrioides Berk. & Broome SPECIES
-=======
+# Isaria arcyrioides Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

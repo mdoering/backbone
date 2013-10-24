@@ -1,5 +1,4 @@
-Phragmidium devastator Sorokin SPECIES
-=======
+# Phragmidium devastator Sorokin SPECIES
 
 #### Status
 ACCEPTED

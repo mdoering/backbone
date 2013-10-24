@@ -1,5 +1,4 @@
-Sissonia McCulloch, 1977 GENUS
-=======
+# Sissonia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

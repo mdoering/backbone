@@ -1,5 +1,4 @@
-Macmillanina mori (Fuckel) Kuntze SPECIES
-=======
+# Macmillanina mori (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

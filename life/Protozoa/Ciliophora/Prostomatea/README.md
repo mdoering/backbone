@@ -1,5 +1,4 @@
-Prostomatea Schewiakoff, 1896 CLASS
-=======
+# Prostomatea Schewiakoff, 1896 CLASS
 
 #### Status
 ACCEPTED

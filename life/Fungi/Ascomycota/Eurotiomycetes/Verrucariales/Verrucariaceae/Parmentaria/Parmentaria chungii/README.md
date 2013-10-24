@@ -1,5 +1,4 @@
-Parmentaria chungii Zahlbr. SPECIES
-=======
+# Parmentaria chungii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

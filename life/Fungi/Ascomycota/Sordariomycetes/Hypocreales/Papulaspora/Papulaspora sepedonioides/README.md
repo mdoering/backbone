@@ -1,17 +1,16 @@
-Papulaspora dodgei Conners ex Linder, 1942 SPECIES
-=======
+# Papulaspora sepedonioides Preuss, 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hotson, Mycologia 34: 399 (1942)
+Linnaea 24: 112 (1851)
 
 #### Original name
-Papulaspora dodgei Conners ex Linder, 1942
+Papulaspora sepedonioides Preuss, 1851
 
 ### Remarks
 null

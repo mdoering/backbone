@@ -1,5 +1,4 @@
-Dendrophoma ruthenica Petr. SPECIES
-=======
+# Dendrophoma ruthenica Petr. SPECIES
 
 #### Status
 ACCEPTED

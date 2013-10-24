@@ -1,5 +1,4 @@
-Corallicola Volkmann-Kohlmeyer & Kohlmeyer, 1992 GENUS
-=======
+# Corallicola Volkmann-Kohlmeyer & Kohlmeyer, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetophoma antirrhini Richon SPECIES
-=======
+# Chaetophoma antirrhini Richon SPECIES
 
 #### Status
 ACCEPTED

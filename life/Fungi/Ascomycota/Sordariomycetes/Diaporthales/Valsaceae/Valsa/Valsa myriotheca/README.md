@@ -1,5 +1,4 @@
-Valsa myriotheca Pass. SPECIES
-=======
+# Valsa myriotheca Pass. SPECIES
 
 #### Status
 ACCEPTED

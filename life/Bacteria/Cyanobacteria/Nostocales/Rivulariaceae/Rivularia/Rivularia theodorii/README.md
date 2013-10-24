@@ -1,5 +1,4 @@
-Rivularia theodorii O. Dragastan SPECIES
-=======
+# Rivularia theodorii O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

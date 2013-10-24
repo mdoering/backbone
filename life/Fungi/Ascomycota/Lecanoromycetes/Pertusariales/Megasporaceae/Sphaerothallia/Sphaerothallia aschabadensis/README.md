@@ -1,5 +1,4 @@
-Sphaerothallia aschabadensis (J. Steiner) Szatala SPECIES
-=======
+# Sphaerothallia aschabadensis (J. Steiner) Szatala SPECIES
 
 #### Status
 ACCEPTED

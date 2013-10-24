@@ -1,5 +1,4 @@
-Paradistigmoides Michajlow & Wita GENUS
-=======
+# Paradistigmoides Michajlow & Wita GENUS
 
 #### Status
 ACCEPTED

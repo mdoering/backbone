@@ -1,17 +1,16 @@
-Cercospora solenigena Bhartiya, R. Dubey & S.K. Singh SPECIES
-=======
+# Cercospora solanigena Bhartiya, R. Dubey & S.K. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 53(2): 151 (2000)
 
 #### Original name
-Cercospora solenigena Bhartiya, R. Dubey & S.K. Singh
+Cercospora solanigena Bhartiya, R. Dubey & S.K. Singh
 
 ### Remarks
 null

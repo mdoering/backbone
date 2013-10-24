@@ -1,5 +1,4 @@
-Microthyrium amygdalinum Cooke & Massee SPECIES
-=======
+# Microthyrium amygdalinum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

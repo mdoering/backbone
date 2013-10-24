@@ -1,5 +1,4 @@
-Disculina corylina Höhn. SPECIES
-=======
+# Disculina corylina Höhn. SPECIES
 
 #### Status
 ACCEPTED

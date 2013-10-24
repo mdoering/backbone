@@ -1,5 +1,4 @@
-Scytinostroma luteolum Boidin, 1967 SPECIES
-=======
+# Scytinostroma luteolum Boidin, 1967 SPECIES
 
 #### Status
 ACCEPTED

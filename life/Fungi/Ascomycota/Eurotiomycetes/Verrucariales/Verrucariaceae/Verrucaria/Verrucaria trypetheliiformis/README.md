@@ -1,5 +1,4 @@
-Verrucaria trypetheliiformis Mont. SPECIES
-=======
+# Verrucaria trypetheliiformis Mont. SPECIES
 
 #### Status
 ACCEPTED

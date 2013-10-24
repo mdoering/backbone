@@ -1,5 +1,4 @@
-Scutellinia margaritacea (Berk.) Kuntze SPECIES
-=======
+# Scutellinia margaritacea (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

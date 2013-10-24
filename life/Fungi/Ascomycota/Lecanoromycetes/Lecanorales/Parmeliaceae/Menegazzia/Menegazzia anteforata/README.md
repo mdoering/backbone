@@ -1,5 +1,4 @@
-Menegazzia anteforata Aptroot, M.J. Lai & Sparrius SPECIES
-=======
+# Menegazzia anteforata Aptroot, M.J. Lai & Sparrius SPECIES
 
 #### Status
 ACCEPTED

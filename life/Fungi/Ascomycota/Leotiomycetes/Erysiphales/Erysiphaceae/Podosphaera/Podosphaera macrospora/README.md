@@ -1,5 +1,4 @@
-Podosphaera macrospora (U. Braun) U. Braun & V. Kummer SPECIES
-=======
+# Podosphaera macrospora (U. Braun) U. Braun & V. Kummer SPECIES
 
 #### Status
 ACCEPTED

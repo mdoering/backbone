@@ -1,5 +1,4 @@
-Ophiobolus incomptus (Carestia & De Not.) Sacc. SPECIES
-=======
+# Ophiobolus incomptus (Carestia & De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

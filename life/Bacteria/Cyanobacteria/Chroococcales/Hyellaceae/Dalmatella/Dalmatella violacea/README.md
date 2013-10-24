@@ -1,5 +1,4 @@
-Dalmatella violacea Ercegovic SPECIES
-=======
+# Dalmatella violacea Ercegovic SPECIES
 
 #### Status
 ACCEPTED

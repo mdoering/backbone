@@ -1,5 +1,4 @@
-Clitocybe marzuolus (Fr.) Sacc. SPECIES
-=======
+# Clitocybe marzuolus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

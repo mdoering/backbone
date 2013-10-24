@@ -1,5 +1,4 @@
-Microregma ponticum Lepsi, 1926 SPECIES
-=======
+# Microregma ponticum Lepsi, 1926 SPECIES
 
 #### Status
 ACCEPTED

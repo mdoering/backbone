@@ -1,5 +1,4 @@
-Leptogium furfuraceum (Harm.) Sierk SPECIES
-=======
+# Leptogium furfuraceum (Harm.) Sierk SPECIES
 
 #### Status
 ACCEPTED

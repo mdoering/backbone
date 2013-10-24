@@ -1,5 +1,4 @@
-Torula grisea Svilv. SPECIES
-=======
+# Torula grisea Svilv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus pilosotomentosus Bender SPECIES
-=======
+# Coprinus pilosotomentosus Bender SPECIES
 
 #### Status
 ACCEPTED

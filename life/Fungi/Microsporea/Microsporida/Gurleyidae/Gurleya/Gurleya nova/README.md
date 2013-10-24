@@ -1,5 +1,4 @@
-Gurleya nova Hovasse, 1950 SPECIES
-=======
+# Gurleya nova Hovasse, 1950 SPECIES
 
 #### Status
 ACCEPTED

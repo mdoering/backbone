@@ -1,5 +1,4 @@
-Psathyrella apora Singer SPECIES
-=======
+# Psathyrella apora Singer SPECIES
 
 #### Status
 ACCEPTED

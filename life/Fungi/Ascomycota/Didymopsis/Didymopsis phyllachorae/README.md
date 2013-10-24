@@ -1,5 +1,4 @@
-Didymopsis phyllachorae Syd. SPECIES
-=======
+# Didymopsis phyllachorae Syd. SPECIES
 
 #### Status
 ACCEPTED

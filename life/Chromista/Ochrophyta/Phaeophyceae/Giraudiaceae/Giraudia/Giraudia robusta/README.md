@@ -1,5 +1,4 @@
-Giraudia robusta Skinner & Womersley SPECIES
-=======
+# Giraudia robusta Skinner & Womersley SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllosticta dioscoreae-daemoniae Henn. SPECIES
-=======
+# Phyllosticta dioscoreae-daemonae Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 41: 305 (1902)
 
 #### Original name
-Phyllosticta dioscoreae-daemoniae Henn.
+Phyllosticta dioscoreae-daemonae Henn.
 
 ### Remarks
 null

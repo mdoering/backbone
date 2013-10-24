@@ -1,17 +1,16 @@
-Cercospora melothriae-purpusillae S. Narayan, P.N. Singh & G.P. Rao SPECIES
-=======
+# Cercospora melothriae-perpusillae S. Narayan, P.N. Singh & G.P. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sugarcane Pathology (Enfield), <b>1</b>: Fungal Diseases 72 (1999)
 
 #### Original name
-Cercospora melothriae-purpusillae S. Narayan, P.N. Singh & G.P. Rao
+Cercospora melothriae-perpusillae S. Narayan, P.N. Singh & G.P. Rao
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tridentaria Preuss GENUS
-=======
+# Tridentaria Preuss GENUS
 
 #### Status
 ACCEPTED

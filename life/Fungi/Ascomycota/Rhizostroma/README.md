@@ -1,5 +1,4 @@
-Rhizostroma Fr. GENUS
-=======
+# Rhizostroma Fr. GENUS
 
 #### Status
 ACCEPTED

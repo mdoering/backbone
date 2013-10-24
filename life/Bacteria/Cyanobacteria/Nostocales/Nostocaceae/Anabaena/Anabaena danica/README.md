@@ -1,5 +1,4 @@
-Anabaena danica (Nygaard) J. Komárková-Legnerová & P. Eloranta SPECIES
-=======
+# Anabaena danica (Nygaard) J. Komárková-Legnerová & P. Eloranta SPECIES
 
 #### Status
 ACCEPTED

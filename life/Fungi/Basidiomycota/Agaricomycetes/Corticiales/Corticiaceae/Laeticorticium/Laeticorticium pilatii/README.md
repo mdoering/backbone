@@ -1,5 +1,4 @@
-Laeticorticium pilatii Parmasto SPECIES
-=======
+# Laeticorticium pilatii Parmasto SPECIES
 
 #### Status
 ACCEPTED

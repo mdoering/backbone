@@ -1,5 +1,4 @@
-Rimularia exigua Hertel & Rambold SPECIES
-=======
+# Rimularia exigua Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

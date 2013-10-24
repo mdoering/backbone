@@ -1,5 +1,4 @@
-Colletotrichum paucsetum SPECIES
-=======
+# Colletotrichum paucsetum SPECIES
 
 #### Status
 ACCEPTED

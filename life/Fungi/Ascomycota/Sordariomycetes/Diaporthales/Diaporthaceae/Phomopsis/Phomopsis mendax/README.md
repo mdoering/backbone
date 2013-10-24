@@ -1,14 +1,13 @@
-Phoma mendax Sacc., 1879 SPECIES
-=======
+# Phomopsis mendax (Sacc.) Traverso, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. ital. crypt. (Florence), Pyrenomycetae 2(1): 260 (1906)
 
 #### Original name
 Phoma mendax Sacc., 1879

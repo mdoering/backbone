@@ -1,5 +1,4 @@
-Helvella paraphysitorquata I. Arroyo & Calonge SPECIES
-=======
+# Helvella paraphysitorquata I. Arroyo & Calonge SPECIES
 
 #### Status
 ACCEPTED

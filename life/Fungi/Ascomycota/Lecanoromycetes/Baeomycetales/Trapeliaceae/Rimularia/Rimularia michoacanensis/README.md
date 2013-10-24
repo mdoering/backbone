@@ -1,5 +1,4 @@
-Rimularia michoacanensis (B. de Lesd.) Timdal SPECIES
-=======
+# Rimularia michoacanensis (B. de Lesd.) Timdal SPECIES
 
 #### Status
 ACCEPTED

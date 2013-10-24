@@ -1,5 +1,4 @@
-Xylaria luteostromata Lloyd SPECIES
-=======
+# Xylaria luteostromata Lloyd SPECIES
 
 #### Status
 ACCEPTED

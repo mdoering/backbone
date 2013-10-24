@@ -1,5 +1,4 @@
-Parmelia pyrophthalma (Mont.) Bab. SPECIES
-=======
+# Parmelia pyrophthalma (Mont.) Bab. SPECIES
 
 #### Status
 ACCEPTED

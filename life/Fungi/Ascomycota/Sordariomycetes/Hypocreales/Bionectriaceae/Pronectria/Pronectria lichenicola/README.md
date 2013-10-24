@@ -1,14 +1,13 @@
-Nectriella lichenicola (Ces.) Fuckel ex Höhn. & Weese, 1910 SPECIES
-=======
+# Pronectria lichenicola (Ces.) Clem., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 8: 466 (1910)
+Gen. Fung. (Minneapolis) 282 (1931)
 
 #### Original name
 Nectria lichenicola Ces., 1878

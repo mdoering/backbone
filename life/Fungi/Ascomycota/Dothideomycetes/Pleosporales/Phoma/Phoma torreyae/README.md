@@ -1,5 +1,4 @@
-Phoma torreyae Gucevic SPECIES
-=======
+# Phoma torreyae Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagotia donsi Hadzi, 1951 SPECIES
-=======
+# Lagotia donsi Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

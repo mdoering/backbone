@@ -1,5 +1,4 @@
-Schizostoma cercocarpi Earle SPECIES
-=======
+# Schizostoma cercocarpi Earle SPECIES
 
 #### Status
 ACCEPTED

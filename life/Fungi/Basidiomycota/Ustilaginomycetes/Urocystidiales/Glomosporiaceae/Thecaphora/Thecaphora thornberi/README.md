@@ -1,5 +1,4 @@
-Thecaphora thornberi Griffiths SPECIES
-=======
+# Thecaphora thornberi Griffiths SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma foetulentum Noordel. SPECIES
-=======
+# Entoloma foetulentum Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gnomoniella zemgalensis Kirschst. SPECIES
-=======
+# Gnomoniella zemgalensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

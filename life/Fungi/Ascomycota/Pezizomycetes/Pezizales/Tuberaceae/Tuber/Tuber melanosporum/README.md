@@ -1,17 +1,16 @@
-Tuber melanosporum var. melanosporum VARIETY
-=======
+# Tuber melanosporum Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Monogr. Tuberac. (Milano) 36 (1831)
 
 #### Original name
-Tuber melanosporum var. melanosporum
+Tuber melanosporum Vittad., 1831
 
 ### Remarks
 null

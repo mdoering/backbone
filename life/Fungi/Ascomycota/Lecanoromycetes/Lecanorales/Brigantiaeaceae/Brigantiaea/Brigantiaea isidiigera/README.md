@@ -1,5 +1,4 @@
-Brigantiaea isidiigera Hafellner SPECIES
-=======
+# Brigantiaea isidiigera Hafellner SPECIES
 
 #### Status
 ACCEPTED

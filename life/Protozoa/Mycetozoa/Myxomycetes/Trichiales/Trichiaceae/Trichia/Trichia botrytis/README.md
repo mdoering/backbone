@@ -1,17 +1,16 @@
-Trichia fragilis var. cerifera VARIETY
-=======
+# Trichia botrytis (J.F. Gmel.) Pers., 1794 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 210 (1803)
 
 #### Original name
-Trichia fragilis var. cerifera
+Trichia botrytis (J.F. Gmel.) Pers., 1794
 
 ### Remarks
 null

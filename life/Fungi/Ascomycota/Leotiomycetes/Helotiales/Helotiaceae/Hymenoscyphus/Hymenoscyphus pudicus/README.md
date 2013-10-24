@@ -1,5 +1,4 @@
-Hymenoscyphus pudicus (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus pudicus (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rimularia umbratilis Kantvilas & Coppins SPECIES
-=======
+# Rimularia umbratilis Kantvilas & Coppins SPECIES
 
 #### Status
 ACCEPTED

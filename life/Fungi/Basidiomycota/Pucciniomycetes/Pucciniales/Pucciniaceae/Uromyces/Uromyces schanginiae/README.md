@@ -1,5 +1,4 @@
-Uromyces schanginiae Thüm. SPECIES
-=======
+# Uromyces schanginiae Thüm. SPECIES
 
 #### Status
 ACCEPTED

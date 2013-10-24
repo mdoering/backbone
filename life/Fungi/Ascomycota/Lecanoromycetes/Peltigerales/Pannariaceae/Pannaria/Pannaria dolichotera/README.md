@@ -1,5 +1,4 @@
-Pannaria dolichotera Nyl. SPECIES
-=======
+# Pannaria dolichotera Nyl. SPECIES
 
 #### Status
 ACCEPTED

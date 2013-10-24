@@ -1,5 +1,4 @@
-Hygrophorus subpsittacinus Rick SPECIES
-=======
+# Hygrophorus subpsittacinus Rick SPECIES
 
 #### Status
 ACCEPTED

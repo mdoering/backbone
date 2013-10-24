@@ -1,5 +1,4 @@
-Puccinia antennata Berndt & A. Rössel SPECIES
-=======
+# Puccinia antennata Berndt & A. Rössel SPECIES
 
 #### Status
 ACCEPTED

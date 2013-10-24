@@ -1,5 +1,4 @@
-Amphidinium prismaticum (Conrad) J. Schiller SPECIES
-=======
+# Amphidinium prismaticum (Conrad) J. Schiller SPECIES
 
 #### Status
 ACCEPTED

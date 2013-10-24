@@ -1,5 +1,4 @@
-Leptopuccinia uralensis (Tranzschel) Syd. SPECIES
-=======
+# Leptopuccinia uralensis (Tranzschel) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Propolis desmoschoeni P.R. Johnst., 1991 SPECIES
-=======
+# Marthamyces desmoschoeni (P.R. Johnst.) Minter, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 29(4): 402 (1991)
+Mycotaxon 87: 51 (2003)
 
 #### Original name
 Propolis desmoschoeni P.R. Johnst., 1991

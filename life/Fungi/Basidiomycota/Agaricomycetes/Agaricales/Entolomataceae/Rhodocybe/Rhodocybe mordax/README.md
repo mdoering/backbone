@@ -1,5 +1,4 @@
-Rhodocybe mordax (G.F. Atk.) T.J. Baroni SPECIES
-=======
+# Rhodocybe mordax (G.F. Atk.) T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thysanothecium campbelliae F. Wilson SPECIES
-=======
+# Thysanothecium campbelliae F. Wilson SPECIES
 
 #### Status
 ACCEPTED

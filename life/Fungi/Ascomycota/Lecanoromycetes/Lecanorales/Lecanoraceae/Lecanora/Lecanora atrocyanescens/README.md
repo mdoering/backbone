@@ -1,5 +1,4 @@
-Lecanora atrocyanescens (Th. Fr.) Vain. SPECIES
-=======
+# Lecanora atrocyanescens (Th. Fr.) Vain. SPECIES
 
 #### Status
 ACCEPTED

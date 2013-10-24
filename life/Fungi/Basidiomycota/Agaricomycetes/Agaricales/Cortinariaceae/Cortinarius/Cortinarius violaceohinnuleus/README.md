@@ -1,5 +1,4 @@
-Cortinarius violaceohinnuleus Cleland & J.R. Harris SPECIES
-=======
+# Cortinarius violaceohinnuleus Cleland & J.R. Harris SPECIES
 
 #### Status
 ACCEPTED

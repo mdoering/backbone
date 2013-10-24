@@ -1,5 +1,4 @@
-Entoloma pseudodystales Noordel., Tabarés & Rocabruna SPECIES
-=======
+# Entoloma pseudodystales Noordel., Tabarés & Rocabruna SPECIES
 
 #### Status
 ACCEPTED

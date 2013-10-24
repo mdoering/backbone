@@ -1,14 +1,13 @@
-Pyrenula funckii Spreng. SPECIES
-=======
+# Verrucaria funckii (Spreng.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kryptog. Gerwächse 32: 5 (1826)
+Cat. Lich. Univers. 1: 41 (1921)
 
 #### Original name
 Pyrenula funckii Spreng.

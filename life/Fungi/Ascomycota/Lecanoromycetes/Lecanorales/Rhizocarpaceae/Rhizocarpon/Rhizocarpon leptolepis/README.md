@@ -1,5 +1,4 @@
-Rhizocarpon leptolepis Anzi SPECIES
-=======
+# Rhizocarpon leptolepis Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Hexamita salpae Lavier, 1936 SPECIES
-=======
+# Spironucleus salpae (Lavier, 1936) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Coleosporium terebinthinacearum (Schwein.) Arthur SPECIES
-=======
+# Coleosporium terebinthinacearum (Schwein.) Arthur SPECIES
 
 #### Status
 ACCEPTED

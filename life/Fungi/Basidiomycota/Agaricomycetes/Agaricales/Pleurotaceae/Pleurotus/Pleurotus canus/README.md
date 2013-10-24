@@ -1,5 +1,4 @@
-Pleurotus canus Quél. SPECIES
-=======
+# Pleurotus canus Quél. SPECIES
 
 #### Status
 ACCEPTED

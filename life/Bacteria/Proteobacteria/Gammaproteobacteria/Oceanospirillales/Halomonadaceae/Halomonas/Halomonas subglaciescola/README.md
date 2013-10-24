@@ -1,5 +1,4 @@
-Halomonas subglaciescola Franzmann et al., 1987 SPECIES
-=======
+# Halomonas subglaciescola Franzmann et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

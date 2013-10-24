@@ -1,5 +1,4 @@
-Rotalina Blainville, 1828 GENUS
-=======
+# Rotalina Blainville, 1828 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Zygodesmus fuscus f. fuscus FORM
-=======
+# Zygodesmus fuscus Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Icon. fung. (Prague) 1: 26 (1837)
 
 #### Original name
-Zygodesmus fuscus f. fuscus
+Zygodesmus fuscus Corda, 1837
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cryptococcus aureus M. Takash., Sugita, Shinoda & Nakase SPECIES
-=======
+# Cryptococcus aureus M. Takash., Sugita, Shinoda & Nakase SPECIES
 
 #### Status
 ACCEPTED

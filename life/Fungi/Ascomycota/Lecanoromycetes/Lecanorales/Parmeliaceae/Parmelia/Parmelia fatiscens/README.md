@@ -1,5 +1,4 @@
-Parmelia fatiscens Lynge SPECIES
-=======
+# Parmelia fatiscens Lynge SPECIES
 
 #### Status
 ACCEPTED

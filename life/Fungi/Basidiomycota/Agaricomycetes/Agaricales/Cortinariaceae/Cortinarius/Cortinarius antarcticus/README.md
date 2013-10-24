@@ -1,5 +1,4 @@
-Cortinarius antarcticus Speg. SPECIES
-=======
+# Cortinarius antarcticus Speg. SPECIES
 
 #### Status
 ACCEPTED

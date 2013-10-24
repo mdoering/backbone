@@ -1,5 +1,4 @@
-Phaeographina macrospora (Zahlbr.) M. Nakan. SPECIES
-=======
+# Phaeographina macrospora (Zahlbr.) M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thamnonoma subfruticulosa (Elenkin) Gyeln. SPECIES
-=======
+# Thamnonoma subfruticulosa (Elenkin) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

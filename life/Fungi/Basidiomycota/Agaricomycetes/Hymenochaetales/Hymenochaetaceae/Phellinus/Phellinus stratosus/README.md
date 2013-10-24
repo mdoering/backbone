@@ -1,5 +1,4 @@
-Phellinus stratosus Pat. SPECIES
-=======
+# Phellinus stratosus Pat. SPECIES
 
 #### Status
 ACCEPTED

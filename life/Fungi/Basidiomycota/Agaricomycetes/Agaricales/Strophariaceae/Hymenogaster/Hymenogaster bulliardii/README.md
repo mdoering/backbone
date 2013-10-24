@@ -1,5 +1,4 @@
-Hymenogaster bulliardii var. macrosporus Svrcek VARIETY
-=======
+# Hymenogaster bulliardii Harkn. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Tuberac. (Milano) 23 (1831)
 
 #### Original name
-Hymenogaster bulliardii var. macrosporus Svrcek
+Hymenogaster bulliardii Harkn.
 
 ### Remarks
 null

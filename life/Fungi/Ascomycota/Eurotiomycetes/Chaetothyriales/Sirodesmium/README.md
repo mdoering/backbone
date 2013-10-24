@@ -1,5 +1,4 @@
-Sirodesmium GENUS
-=======
+# Sirodesmium GENUS
 
 #### Status
 ACCEPTED

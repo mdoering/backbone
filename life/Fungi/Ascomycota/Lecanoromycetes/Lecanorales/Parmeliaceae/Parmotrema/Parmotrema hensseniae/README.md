@@ -1,5 +1,4 @@
-Parmotrema hensseniae Krog SPECIES
-=======
+# Parmotrema hensseniae Krog SPECIES
 
 #### Status
 ACCEPTED

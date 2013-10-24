@@ -1,5 +1,4 @@
-Caloplaca procerispora Poelt & Hinter. SPECIES
-=======
+# Caloplaca procerispora Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

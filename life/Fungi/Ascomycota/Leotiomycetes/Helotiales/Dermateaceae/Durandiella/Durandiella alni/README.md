@@ -1,5 +1,4 @@
-Durandiella alni J.W. Groves SPECIES
-=======
+# Durandiella alni J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

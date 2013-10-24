@@ -1,5 +1,4 @@
-Phyllachora leptasca Syd., 1926 SPECIES
-=======
+# Phyllachora leptasca Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED

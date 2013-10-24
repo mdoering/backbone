@@ -1,5 +1,4 @@
-Rhachomyces stipitatus var. stipitatus VARIETY
-=======
+# Rhachomyces stipitatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhachomyces stipitatus var. stipitatus
+Rhachomyces stipitatus Thaxt.
 
 ### Remarks
 null

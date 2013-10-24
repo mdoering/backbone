@@ -1,5 +1,4 @@
-Inonotus papyrinus Ryvarden, 2005 SPECIES
-=======
+# Inonotus papyrinus Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

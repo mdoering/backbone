@@ -1,5 +1,4 @@
-Oidium laevisporum (Cooke) Linder SPECIES
-=======
+# Oidium laevisporum (Cooke) Linder SPECIES
 
 #### Status
 ACCEPTED

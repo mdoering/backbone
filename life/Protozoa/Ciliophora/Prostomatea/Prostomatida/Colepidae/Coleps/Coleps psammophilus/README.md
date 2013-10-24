@@ -1,5 +1,4 @@
-Coleps psammophilus SPECIES
-=======
+# Coleps psammophilus SPECIES
 
 #### Status
 ACCEPTED

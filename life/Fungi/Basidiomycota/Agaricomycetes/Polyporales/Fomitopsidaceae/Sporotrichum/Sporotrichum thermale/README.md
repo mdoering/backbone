@@ -1,5 +1,4 @@
-Sporotrichum thermale Mont. SPECIES
-=======
+# Sporotrichum thermale Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allarthonia sacromontana (Strasser) Zahlbr. SPECIES
-=======
+# Allarthonia sacromontana (Strasser) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

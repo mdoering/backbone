@@ -1,5 +1,4 @@
-Cylindrosporium californicum Earle SPECIES
-=======
+# Cylindrosporium californicum Earle SPECIES
 
 #### Status
 ACCEPTED

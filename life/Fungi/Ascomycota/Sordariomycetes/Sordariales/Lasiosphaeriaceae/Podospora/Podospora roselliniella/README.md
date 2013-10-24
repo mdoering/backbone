@@ -1,5 +1,4 @@
-Podospora roselliniella Kamyschko SPECIES
-=======
+# Podospora roselliniella Kamyschko SPECIES
 
 #### Status
 ACCEPTED

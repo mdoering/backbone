@@ -1,5 +1,4 @@
-Psilocybe carbonaria Singer SPECIES
-=======
+# Psilocybe carbonaria Singer SPECIES
 
 #### Status
 ACCEPTED

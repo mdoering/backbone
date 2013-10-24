@@ -1,5 +1,4 @@
-Leptostroma bromi Unamuno SPECIES
-=======
+# Leptostroma bromi Unamuno SPECIES
 
 #### Status
 ACCEPTED

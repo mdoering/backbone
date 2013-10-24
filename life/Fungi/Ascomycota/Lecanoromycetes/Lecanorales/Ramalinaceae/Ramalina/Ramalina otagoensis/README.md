@@ -1,5 +1,4 @@
-Ramalina otagoensis W. Martin & J. Child SPECIES
-=======
+# Ramalina otagoensis W. Martin & J. Child SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma pratulense Noordel., 1987 SPECIES
-=======
+# Entoloma pratulense Noordel., 1987 SPECIES
 
 #### Status
 ACCEPTED

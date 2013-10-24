@@ -1,5 +1,4 @@
-Hydnum lateritium Massee SPECIES
-=======
+# Hydnum lateritium Massee SPECIES
 
 #### Status
 ACCEPTED

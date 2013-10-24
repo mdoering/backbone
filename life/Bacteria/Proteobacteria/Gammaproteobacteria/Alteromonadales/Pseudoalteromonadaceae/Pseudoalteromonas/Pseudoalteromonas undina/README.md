@@ -1,8 +1,7 @@
-Alteromonas undina Chan et al., 1978 (Approved Lists, 1980) SPECIES
-=======
+# Pseudoalteromonas undina (Chan et al., 1978) Gauthier et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

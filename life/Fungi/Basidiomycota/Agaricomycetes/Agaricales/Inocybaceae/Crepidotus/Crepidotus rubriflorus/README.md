@@ -1,5 +1,4 @@
-Crepidotus rubriflorus Murrill SPECIES
-=======
+# Crepidotus rubriflorus Murrill SPECIES
 
 #### Status
 ACCEPTED

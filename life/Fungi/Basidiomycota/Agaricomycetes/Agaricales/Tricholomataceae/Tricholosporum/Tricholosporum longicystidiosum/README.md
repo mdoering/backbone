@@ -1,5 +1,4 @@
-Tricholosporum longicystidiosum Guzmán, Montoya & Bandala SPECIES
-=======
+# Tricholosporum longicystidiosum Guzmán, Montoya & Bandala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lamarckina scabra SPECIES
-=======
+# Lamarckina scabra SPECIES
 
 #### Status
 ACCEPTED

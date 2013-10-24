@@ -1,5 +1,4 @@
-Amphisphaeria mediella P. Karst. SPECIES
-=======
+# Amphisphaeria mediella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

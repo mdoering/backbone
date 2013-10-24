@@ -1,5 +1,4 @@
-Paramylomonas Skvortzov GENUS
-=======
+# Paramylomonas Skvortzov GENUS
 
 #### Status
 ACCEPTED

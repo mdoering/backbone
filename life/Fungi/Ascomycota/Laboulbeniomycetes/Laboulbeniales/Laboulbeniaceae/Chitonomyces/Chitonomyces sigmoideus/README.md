@@ -1,5 +1,4 @@
-Chitonomyces sigmoideus Thaxt. SPECIES
-=======
+# Chitonomyces sigmoideus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

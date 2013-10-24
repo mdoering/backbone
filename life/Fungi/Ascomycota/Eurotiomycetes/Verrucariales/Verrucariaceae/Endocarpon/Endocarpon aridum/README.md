@@ -1,5 +1,4 @@
-Endocarpon aridum P. M. McCarthy SPECIES
-=======
+# Endocarpon aridum P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

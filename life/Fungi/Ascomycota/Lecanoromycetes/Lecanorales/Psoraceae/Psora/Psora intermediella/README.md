@@ -1,5 +1,4 @@
-Psora intermediella (Nyl.) Müll. Arg. SPECIES
-=======
+# Psora intermediella (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

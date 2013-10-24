@@ -1,5 +1,4 @@
-Levitia Grikieniene, Arnastauskiene & Kutkiene, 1993 GENUS
-=======
+# Levitia Grikieniene, Arnastauskiene & Kutkiene, 1993 GENUS
 
 #### Status
 ACCEPTED

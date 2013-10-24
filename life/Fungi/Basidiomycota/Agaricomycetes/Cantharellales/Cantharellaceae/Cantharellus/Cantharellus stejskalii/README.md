@@ -1,5 +1,4 @@
-Cantharellus stejskalii Velen. SPECIES
-=======
+# Cantharellus stejskalii Velen. SPECIES
 
 #### Status
 ACCEPTED

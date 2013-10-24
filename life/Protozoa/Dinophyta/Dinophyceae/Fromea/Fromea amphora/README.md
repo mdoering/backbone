@@ -1,5 +1,4 @@
-Fromea amphora Cookson & Eisenack SPECIES
-=======
+# Fromea amphora Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

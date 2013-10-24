@@ -1,14 +1,13 @@
-Pamphagus Bailey, 1853 GENUS
-=======
+# Baileya Averintsev in Schouteden, 1906 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Amer. J. Sci. , (2) 15, 347.
+in Schouteden
 
 #### Original name
 null

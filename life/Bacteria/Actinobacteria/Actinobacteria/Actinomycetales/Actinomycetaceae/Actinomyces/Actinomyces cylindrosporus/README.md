@@ -1,5 +1,4 @@
-Actinomyces cylindrosporus Krassiln. SPECIES
-=======
+# Actinomyces cylindrosporus Krassiln. SPECIES
 
 #### Status
 ACCEPTED

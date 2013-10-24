@@ -1,5 +1,4 @@
-Dermocybe alcalisensibilis M.M. Moser SPECIES
-=======
+# Dermocybe alcalisensibilis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

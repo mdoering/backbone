@@ -1,5 +1,4 @@
-Perenniporia cunninghamii Decock, P.K. Buchanan & Ryvarden, 2000 SPECIES
-=======
+# Perenniporia cunninghamii Decock, P.K. Buchanan & Ryvarden, 2000 SPECIES
 
 #### Status
 ACCEPTED

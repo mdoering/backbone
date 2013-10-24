@@ -1,5 +1,4 @@
-Gymnodinium achromaticum Lebour SPECIES
-=======
+# Gymnodinium achromaticum Lebour SPECIES
 
 #### Status
 ACCEPTED

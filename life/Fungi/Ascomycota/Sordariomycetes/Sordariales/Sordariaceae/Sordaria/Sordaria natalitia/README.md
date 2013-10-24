@@ -1,5 +1,4 @@
-Sordaria natalitia (Speg.) Sacc. SPECIES
-=======
+# Sordaria natalitia (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalosporium rubrobrunneum-cerebriforme Benedek SPECIES
-=======
+# Cephalosporium rubrobrunneum-cerebriforme Benedek SPECIES
 
 #### Status
 ACCEPTED

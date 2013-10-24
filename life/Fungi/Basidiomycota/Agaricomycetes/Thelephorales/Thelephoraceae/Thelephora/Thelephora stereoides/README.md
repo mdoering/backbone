@@ -1,5 +1,4 @@
-Thelephora stereoides Cooke & Massee SPECIES
-=======
+# Thelephora stereoides Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

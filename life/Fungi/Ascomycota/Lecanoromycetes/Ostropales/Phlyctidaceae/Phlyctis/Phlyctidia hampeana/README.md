@@ -1,5 +1,4 @@
-Phlyctidia hampeana Müll. Arg. SPECIES
-=======
+# Phlyctidia hampeana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

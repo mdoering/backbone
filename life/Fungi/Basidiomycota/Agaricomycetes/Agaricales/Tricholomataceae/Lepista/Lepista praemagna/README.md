@@ -1,5 +1,4 @@
-Lepista praemagna (Murrill) Singer SPECIES
-=======
+# Lepista praemagna (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

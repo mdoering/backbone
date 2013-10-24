@@ -1,5 +1,4 @@
-Macowanites albidigleba Singer & A.H. Sm. SPECIES
-=======
+# Macowanites albidigleba Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

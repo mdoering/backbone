@@ -1,5 +1,4 @@
-Haplotrichum pulchrum (Berk.) Hol.-Jech. SPECIES
-=======
+# Haplotrichum pulchrum (Berk.) Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

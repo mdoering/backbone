@@ -1,5 +1,4 @@
-Irenopsis aburiensis Deighton SPECIES
-=======
+# Irenopsis aburiensis Deighton SPECIES
 
 #### Status
 ACCEPTED

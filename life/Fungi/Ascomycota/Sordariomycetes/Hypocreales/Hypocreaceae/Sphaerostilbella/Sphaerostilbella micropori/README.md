@@ -1,5 +1,4 @@
-Sphaerostilbella micropori K. Põldmaa & Samuels SPECIES
-=======
+# Sphaerostilbella micropori K. Põldmaa & Samuels SPECIES
 
 #### Status
 ACCEPTED

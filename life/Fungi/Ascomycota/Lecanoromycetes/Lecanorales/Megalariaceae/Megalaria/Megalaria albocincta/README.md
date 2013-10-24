@@ -1,5 +1,4 @@
-Megalaria albocincta (Degel.) Tønsberg SPECIES
-=======
+# Megalaria albocincta (Degel.) Tønsberg SPECIES
 
 #### Status
 ACCEPTED

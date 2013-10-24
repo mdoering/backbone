@@ -1,14 +1,13 @@
-Sorataea padi (Tranzschel) Cummins & Y. Hirats., 1983 SPECIES
-=======
+# Leucotelium padi Tranzschel, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illustr. Gen. Rust Fungi (St. Paul), <i>rev. Edn</i> 147 (1983)
+Sovetska Bot. 4: 84 (1935)
 
 #### Original name
 Leucotelium padi Tranzschel, 1935

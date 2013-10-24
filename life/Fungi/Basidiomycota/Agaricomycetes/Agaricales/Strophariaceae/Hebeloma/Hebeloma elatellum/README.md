@@ -1,5 +1,4 @@
-Hebeloma elatellum (P. Karst.) Sacc. SPECIES
-=======
+# Hebeloma elatellum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

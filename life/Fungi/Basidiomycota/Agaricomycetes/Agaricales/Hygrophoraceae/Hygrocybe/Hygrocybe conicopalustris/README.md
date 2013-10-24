@@ -1,5 +1,4 @@
-Hygrocybe conicopalustris R. Haller Aar. SPECIES
-=======
+# Hygrocybe conicopalustris R. Haller Aar. SPECIES
 
 #### Status
 ACCEPTED

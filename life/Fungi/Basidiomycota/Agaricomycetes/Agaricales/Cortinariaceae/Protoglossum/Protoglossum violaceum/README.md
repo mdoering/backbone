@@ -1,14 +1,13 @@
-Dendrogaster violaceus (Massee & Rodway) G. Cunn., 1934 SPECIES
-=======
+# Protoglossum violaceum (Massey & Rodway) T.W. May, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. N. S. W. 59(3-4): 172 (1934)
+Muelleria 8(3): 288 (1995)
 
 #### Original name
 Hymenogaster violaceus Massee & Rodway, 1898

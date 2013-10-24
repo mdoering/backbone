@@ -1,17 +1,16 @@
-Phaeographina fuscescens A. W. Archer SPECIES
-=======
+# Platygramme fuscescens (A. W. Archer) A. W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Telopea 11(1): 77 (2005)
 
 #### Original name
-null
+Graphis fuscescens Vain.
 
 ### Remarks
 null

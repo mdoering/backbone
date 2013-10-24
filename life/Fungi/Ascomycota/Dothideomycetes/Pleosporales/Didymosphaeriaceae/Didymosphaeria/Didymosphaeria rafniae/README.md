@@ -1,5 +1,4 @@
-Didymosphaeria rafniae Verwoerd & Du Plessis SPECIES
-=======
+# Didymosphaeria rafniae Verwoerd & Du Plessis SPECIES
 
 #### Status
 ACCEPTED

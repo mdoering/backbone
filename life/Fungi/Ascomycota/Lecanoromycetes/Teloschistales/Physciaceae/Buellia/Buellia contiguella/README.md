@@ -1,5 +1,4 @@
-Buellia contiguella (Vain.) Malme SPECIES
-=======
+# Buellia contiguella (Vain.) Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placidium marcomanici A. Massal. SPECIES
-=======
+# Placidium marcomanici A. Massal. SPECIES
 
 #### Status
 ACCEPTED

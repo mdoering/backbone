@@ -1,5 +1,4 @@
-Wegelina cryptomeriae (Sawada) Sawada SPECIES
-=======
+# Wegelina cryptomeriae (Sawada) Sawada SPECIES
 
 #### Status
 ACCEPTED

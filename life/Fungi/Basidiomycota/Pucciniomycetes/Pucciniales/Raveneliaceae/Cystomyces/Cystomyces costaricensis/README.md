@@ -1,5 +1,4 @@
-Cystomyces costaricensis Syd., 1927 SPECIES
-=======
+# Cystomyces costaricensis Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

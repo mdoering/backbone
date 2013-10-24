@@ -1,5 +1,4 @@
-Cylindrocolla dubia Sacc. SPECIES
-=======
+# Cylindrocolla dubia Sacc. SPECIES
 
 #### Status
 ACCEPTED

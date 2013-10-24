@@ -1,5 +1,4 @@
-Auricularia lilacina Schumach. SPECIES
-=======
+# Auricularia lilacina Schumach. SPECIES
 
 #### Status
 ACCEPTED

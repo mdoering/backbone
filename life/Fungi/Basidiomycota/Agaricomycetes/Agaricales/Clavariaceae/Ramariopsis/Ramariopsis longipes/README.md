@@ -1,5 +1,4 @@
-Ramariopsis longipes R.H. Petersen, 1988 SPECIES
-=======
+# Ramariopsis longipes R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

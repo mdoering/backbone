@@ -1,8 +1,7 @@
-Diadozygus escovillensis A. P. Rood & T. Barnard SPECIES
-=======
+# Corollithion escovillense (A.P. Rood & T. Barnard) S.W. Wise SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

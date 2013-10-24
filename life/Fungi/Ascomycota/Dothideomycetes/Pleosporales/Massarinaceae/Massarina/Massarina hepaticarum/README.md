@@ -1,5 +1,4 @@
-Massarina hepaticarum (P. Crouan & H. Crouan) Döbbeler SPECIES
-=======
+# Massarina hepaticarum (P. Crouan & H. Crouan) Döbbeler SPECIES
 
 #### Status
 ACCEPTED

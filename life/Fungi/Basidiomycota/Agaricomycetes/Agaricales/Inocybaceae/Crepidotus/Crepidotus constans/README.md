@@ -1,5 +1,4 @@
-Crepidotus constans Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus constans Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

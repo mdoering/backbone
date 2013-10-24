@@ -1,5 +1,4 @@
-Scolecobasidium obovatum Matsush. SPECIES
-=======
+# Scolecobasidium obovatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

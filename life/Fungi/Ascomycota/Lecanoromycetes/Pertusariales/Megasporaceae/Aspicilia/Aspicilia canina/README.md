@@ -1,5 +1,4 @@
-Aspicilia canina Räsänen SPECIES
-=======
+# Aspicilia canina Räsänen SPECIES
 
 #### Status
 ACCEPTED

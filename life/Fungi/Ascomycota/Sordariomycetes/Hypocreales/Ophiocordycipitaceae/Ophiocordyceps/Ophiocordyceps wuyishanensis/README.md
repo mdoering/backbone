@@ -1,5 +1,4 @@
-Ophiocordyceps wuyishanensis (Z.Q. Liang, A.Y. Liu & J.Z. Huang) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps wuyishanensis (Z.Q. Liang, A.Y. Liu & J.Z. Huang) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

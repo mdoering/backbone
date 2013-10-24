@@ -1,5 +1,4 @@
-Cytospora celtidis Ellis & Everh. SPECIES
-=======
+# Cytospora celtidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

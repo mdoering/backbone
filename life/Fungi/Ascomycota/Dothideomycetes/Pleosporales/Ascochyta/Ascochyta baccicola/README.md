@@ -1,5 +1,4 @@
-Ascochyta baccicola Brunaud SPECIES
-=======
+# Ascochyta baccicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia baetica Balazuc, Espad. & Girbal SPECIES
-=======
+# Laboulbenia baetica Balazuc, Espad. & Girbal SPECIES
 
 #### Status
 ACCEPTED

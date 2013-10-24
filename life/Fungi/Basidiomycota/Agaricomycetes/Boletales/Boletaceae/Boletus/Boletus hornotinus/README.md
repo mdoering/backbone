@@ -1,5 +1,4 @@
-Boletus hornotinus f. hornotinus Schaeff. FORM
-=======
+# Boletus hornotinus Schrad. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fung. Bavar. Palat. 4: (1774)
 
 #### Original name
-Boletus hornotinus f. hornotinus Schaeff.
+Boletus hornotinus Schrad.
 
 ### Remarks
 null

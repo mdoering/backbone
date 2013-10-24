@@ -1,17 +1,16 @@
-Agaricus bombycinus var. bombycinus VARIETY
-=======
+# Volvariella bombycina (Schaeff.) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 401 (1951)
 
 #### Original name
-null
+Agaricus bombycinus Schaeff., 1774
 
 ### Remarks
 null

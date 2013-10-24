@@ -1,5 +1,4 @@
-Lamproderma hookeri (Berk.) Rostaf. SPECIES
-=======
+# Lamproderma hookeri (Berk.) Rostaf. SPECIES
 
 #### Status
 ACCEPTED

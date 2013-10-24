@@ -1,5 +1,4 @@
-Humaria fimiputris (Fr.) Sacc. SPECIES
-=======
+# Humaria fimiputris (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

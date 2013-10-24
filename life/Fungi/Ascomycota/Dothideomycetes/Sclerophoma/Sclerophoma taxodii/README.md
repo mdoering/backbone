@@ -1,5 +1,4 @@
-Sclerophoma taxodii (Roum.) Kleb. SPECIES
-=======
+# Sclerophoma taxodii (Roum.) Kleb. SPECIES
 
 #### Status
 ACCEPTED

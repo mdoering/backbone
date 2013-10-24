@@ -1,5 +1,4 @@
-Himantia ochracea Fr. SPECIES
-=======
+# Himantia ochracea Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septogloeum dumasiae Petch SPECIES
-=======
+# Septogloeum dumasiae Petch SPECIES
 
 #### Status
 ACCEPTED

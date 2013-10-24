@@ -1,5 +1,4 @@
-Bireophax Bolli, 1961 GENUS
-=======
+# Bireophax Bolli, 1961 GENUS
 
 #### Status
 ACCEPTED

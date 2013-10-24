@@ -1,5 +1,4 @@
-Agaricus utratus Fr. SPECIES
-=======
+# Agaricus utratus Fr. SPECIES
 
 #### Status
 ACCEPTED

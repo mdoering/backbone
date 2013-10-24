@@ -1,5 +1,4 @@
-Boletellus pallescens (Cooke & Massee) E.-J. Gilbert SPECIES
-=======
+# Boletellus pallescens (Cooke & Massee) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

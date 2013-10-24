@@ -1,5 +1,4 @@
-Biloculinella labiata (Schlumberger, 1891) SPECIES
-=======
+# Biloculinella labiata (Schlumberger, 1891) SPECIES
 
 #### Status
 ACCEPTED

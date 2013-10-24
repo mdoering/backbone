@@ -1,5 +1,4 @@
-Agaricus scatigenus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus scatigenus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

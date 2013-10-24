@@ -1,5 +1,4 @@
-Cleistocybe Ammirati, A.D. Parker & Matheny GENUS
-=======
+# Cleistocybe Ammirati, A.D. Parker & Matheny GENUS
 
 #### Status
 ACCEPTED

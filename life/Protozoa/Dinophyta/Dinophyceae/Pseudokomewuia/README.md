@@ -1,5 +1,4 @@
-Pseudokomewuia He Chengquan, 1980 GENUS
-=======
+# Pseudokomewuia He Chengquan, 1980 GENUS
 
 #### Status
 ACCEPTED

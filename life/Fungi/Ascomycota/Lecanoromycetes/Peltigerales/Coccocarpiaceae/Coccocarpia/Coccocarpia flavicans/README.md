@@ -1,5 +1,4 @@
-Coccocarpia flavicans Arv. SPECIES
-=======
+# Coccocarpia flavicans Arv. SPECIES
 
 #### Status
 ACCEPTED

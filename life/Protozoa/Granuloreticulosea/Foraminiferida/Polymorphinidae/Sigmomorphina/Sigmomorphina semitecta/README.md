@@ -1,8 +1,7 @@
-Polymorphina semitecta Reuss, 1867 SPECIES
-=======
+# Sigmomorphina semitecta (Reuss, 1867) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Curvularia brachyspora Boedijn, 1933 SPECIES
-=======
+# Curvularia brachyspora Boedijn, 1933 SPECIES
 
 #### Status
 ACCEPTED

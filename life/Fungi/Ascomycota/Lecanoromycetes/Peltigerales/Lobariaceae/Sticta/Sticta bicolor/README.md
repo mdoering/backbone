@@ -1,5 +1,4 @@
-Sticta bicolor Taylor SPECIES
-=======
+# Sticta bicolor Taylor SPECIES
 
 #### Status
 ACCEPTED

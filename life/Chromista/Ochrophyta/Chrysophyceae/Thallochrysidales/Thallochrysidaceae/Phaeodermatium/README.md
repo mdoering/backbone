@@ -1,5 +1,4 @@
-Phaeodermatium Hansgirg, 1889 GENUS
-=======
+# Phaeodermatium Hansgirg, 1889 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas triangularis Deflandre SPECIES
-=======
+# Trachelomonas triangularis Deflandre SPECIES
 
 #### Status
 ACCEPTED

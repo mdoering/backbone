@@ -1,5 +1,4 @@
-Candida populi Hagler, Mend.-Hagler & Phaff, 1989 SPECIES
-=======
+# Candida populi Hagler, Mend.-Hagler & Phaff, 1989 SPECIES
 
 #### Status
 ACCEPTED

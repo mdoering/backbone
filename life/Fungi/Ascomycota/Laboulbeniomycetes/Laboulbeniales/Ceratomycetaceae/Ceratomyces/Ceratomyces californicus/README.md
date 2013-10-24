@@ -1,5 +1,4 @@
-Ceratomyces californicus Thaxt. SPECIES
-=======
+# Ceratomyces californicus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

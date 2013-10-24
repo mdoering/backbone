@@ -1,5 +1,4 @@
-Lichen squamulosus Schrad. SPECIES
-=======
+# Lichen squamulosus Schrad. SPECIES
 
 #### Status
 ACCEPTED

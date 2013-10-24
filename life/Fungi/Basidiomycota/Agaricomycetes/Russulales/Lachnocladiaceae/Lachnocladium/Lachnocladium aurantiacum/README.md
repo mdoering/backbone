@@ -1,5 +1,4 @@
-Lachnocladium aurantiacum (Berk. & Broome) Petch SPECIES
-=======
+# Lachnocladium aurantiacum (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

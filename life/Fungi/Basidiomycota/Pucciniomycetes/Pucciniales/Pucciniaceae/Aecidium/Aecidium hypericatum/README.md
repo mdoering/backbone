@@ -1,5 +1,4 @@
-Aecidium hypericatum Schwein. SPECIES
-=======
+# Aecidium hypericatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

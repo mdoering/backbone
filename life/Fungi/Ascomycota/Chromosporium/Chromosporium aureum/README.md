@@ -1,5 +1,4 @@
-Chromosporium aureum (Corda) Sacc. SPECIES
-=======
+# Chromosporium aureum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

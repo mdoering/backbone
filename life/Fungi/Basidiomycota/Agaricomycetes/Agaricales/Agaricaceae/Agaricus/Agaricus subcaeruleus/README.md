@@ -1,5 +1,4 @@
-Agaricus subcaeruleus With. SPECIES
-=======
+# Agaricus subcaeruleus With. SPECIES
 
 #### Status
 ACCEPTED

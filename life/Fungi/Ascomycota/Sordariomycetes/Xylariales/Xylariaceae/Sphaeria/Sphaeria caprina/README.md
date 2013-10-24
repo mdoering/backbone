@@ -1,5 +1,4 @@
-Sphaeria caprina Fr. SPECIES
-=======
+# Sphaeria caprina Fr. SPECIES
 
 #### Status
 ACCEPTED

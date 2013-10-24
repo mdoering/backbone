@@ -1,5 +1,4 @@
-Stromatoneurospora elegantissima (Rick) S.C. Jong & E.E. Davis SPECIES
-=======
+# Stromatoneurospora elegantissima (Rick) S.C. Jong & E.E. Davis SPECIES
 
 #### Status
 ACCEPTED

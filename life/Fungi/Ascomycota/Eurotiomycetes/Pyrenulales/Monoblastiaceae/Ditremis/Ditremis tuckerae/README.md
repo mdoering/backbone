@@ -1,5 +1,4 @@
-Ditremis tuckerae (R.C. Harris) R.C. Harris SPECIES
-=======
+# Ditremis tuckerae (R.C. Harris) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

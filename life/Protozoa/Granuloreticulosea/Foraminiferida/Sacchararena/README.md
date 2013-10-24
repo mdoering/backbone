@@ -1,5 +1,4 @@
-Sacchararena Loeblich & Tappan, 1984 GENUS
-=======
+# Sacchararena Loeblich & Tappan, 1984 GENUS
 
 #### Status
 ACCEPTED

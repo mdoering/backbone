@@ -1,5 +1,4 @@
-Cordyceps gryllotarpae Lloyd SPECIES
-=======
+# Cordyceps gryllotarpae Lloyd SPECIES
 
 #### Status
 ACCEPTED

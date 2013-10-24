@@ -1,17 +1,16 @@
-Lecidea hypopta f. blatorea (Nyl.) Vain. FORM
-=======
+# Lecidea hypopta Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Method. Lich. 61 (1803)
 
 #### Original name
-Lecanora subfusca var. biatorea Nyl.
+Lecidea hypopta Ach.
 
 ### Remarks
 null

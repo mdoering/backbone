@@ -1,5 +1,4 @@
-Coniothyrium karelii Petr. SPECIES
-=======
+# Coniothyrium karelii Petr. SPECIES
 
 #### Status
 ACCEPTED

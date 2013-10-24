@@ -1,5 +1,4 @@
-Helicomina carbonica Subrahm. SPECIES
-=======
+# Helicomina carbonica Subrahm. SPECIES
 
 #### Status
 ACCEPTED

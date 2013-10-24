@@ -1,5 +1,4 @@
-Pseudopeltula dicyanophora Henssen SPECIES
-=======
+# Pseudopeltula dicyanophora Henssen SPECIES
 
 #### Status
 ACCEPTED

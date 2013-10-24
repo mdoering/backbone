@@ -1,5 +1,4 @@
-Echinodothis GENUS
-=======
+# Echinodothis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia sorbi Moesz & Smarods SPECIES
-=======
+# Hendersonia sorbi Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Menegazzia norsorediata Adler & Calvelo SPECIES
-=======
+# Menegazzia norsorediata Adler & Calvelo SPECIES
 
 #### Status
 ACCEPTED

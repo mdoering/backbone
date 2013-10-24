@@ -1,5 +1,4 @@
-Laevipeneroplis laevigatus (Karrer, 1868) SPECIES
-=======
+# Laevipeneroplis laevigatus (Karrer, 1868) SPECIES
 
 #### Status
 ACCEPTED

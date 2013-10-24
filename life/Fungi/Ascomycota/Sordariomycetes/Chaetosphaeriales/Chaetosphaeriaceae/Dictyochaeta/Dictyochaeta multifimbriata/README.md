@@ -1,5 +1,4 @@
-Dictyochaeta multifimbriata R. Kirschner & Chee J. Chen SPECIES
-=======
+# Dictyochaeta multifimbriata R. Kirschner & Chee J. Chen SPECIES
 
 #### Status
 ACCEPTED

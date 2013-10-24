@@ -1,17 +1,16 @@
-Parmelia saxatilis var. furfuracea Linds. VARIETY
-=======
+# Parmelia pseudotenuirima Gyeln. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. R. Soc. Edinb. 12: 227 (1859)
+Repert. Spec. Nov. Regni Veg. 29: 289 (1931)
 
 #### Original name
-Parmelia saxatilis f. furfuracea Schaer.
+Parmelia pseudotenuirima Gyeln.
 
 ### Remarks
 null

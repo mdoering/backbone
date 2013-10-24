@@ -1,5 +1,4 @@
-Paenibacillus Ash, Priest & Collins, 1994 GENUS
-=======
+# Paenibacillus Ash, Priest & Collins, 1994 GENUS
 
 #### Status
 ACCEPTED

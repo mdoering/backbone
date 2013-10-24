@@ -1,5 +1,4 @@
-Pseudoclitocybe trivialis (Bull.) Raithelh. SPECIES
-=======
+# Pseudoclitocybe trivialis (Bull.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

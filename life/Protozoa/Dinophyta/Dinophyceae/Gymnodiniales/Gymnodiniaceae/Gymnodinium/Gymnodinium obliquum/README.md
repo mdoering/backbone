@@ -1,5 +1,4 @@
-Gymnodinium obliquum Okolodkov, 1997 SPECIES
-=======
+# Gymnodinium obliquum Okolodkov, 1997 SPECIES
 
 #### Status
 ACCEPTED

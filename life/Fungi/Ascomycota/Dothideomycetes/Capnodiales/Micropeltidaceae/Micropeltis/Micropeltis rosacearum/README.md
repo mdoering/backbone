@@ -1,5 +1,4 @@
-Micropeltis rosacearum Bat. & H. Maia SPECIES
-=======
+# Micropeltis rosacearum Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

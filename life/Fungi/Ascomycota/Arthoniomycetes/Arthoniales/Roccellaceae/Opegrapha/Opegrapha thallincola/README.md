@@ -1,5 +1,4 @@
-Opegrapha thallincola B. de Lesd. SPECIES
-=======
+# Opegrapha thallincola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

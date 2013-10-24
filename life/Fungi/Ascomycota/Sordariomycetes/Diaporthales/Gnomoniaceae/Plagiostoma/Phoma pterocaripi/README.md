@@ -1,5 +1,4 @@
-Phoma pterocaripi Sawada SPECIES
-=======
+# Phoma pterocaripi Sawada SPECIES
 
 #### Status
 DOUBTFUL

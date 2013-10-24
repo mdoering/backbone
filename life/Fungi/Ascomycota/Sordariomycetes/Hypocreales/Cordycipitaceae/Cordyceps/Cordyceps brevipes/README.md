@@ -1,5 +1,4 @@
-Cordyceps brevipes Mont. SPECIES
-=======
+# Cordyceps brevipes Mont. SPECIES
 
 #### Status
 ACCEPTED

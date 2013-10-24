@@ -1,5 +1,4 @@
-Stereum carthusianum E.H.L. Krause SPECIES
-=======
+# Stereum carthusianum E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

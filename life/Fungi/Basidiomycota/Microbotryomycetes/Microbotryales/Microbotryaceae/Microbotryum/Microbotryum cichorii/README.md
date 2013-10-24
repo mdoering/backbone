@@ -1,14 +1,13 @@
-Ustilago cichorii Syd., 1929 SPECIES
-=======
+# Microbotryum cichorii (Syd.) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 67: 42 (1998)
 
 #### Original name
 Ustilago cichorii Syd., 1929

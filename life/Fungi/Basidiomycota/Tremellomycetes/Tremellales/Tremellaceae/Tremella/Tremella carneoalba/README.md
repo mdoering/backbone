@@ -1,5 +1,4 @@
-Tremella carneoalba Coker SPECIES
-=======
+# Tremella carneoalba Coker SPECIES
 
 #### Status
 ACCEPTED

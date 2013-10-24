@@ -1,17 +1,16 @@
-Dasyscypha conincola Velen. SPECIES
-=======
+# Dasyscyphus conincola Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 1: 234 (1934)
 
 #### Original name
-Dasyscypha conincola Velen.
+Dasyscyphus conincola Velen.
 
 ### Remarks
 null

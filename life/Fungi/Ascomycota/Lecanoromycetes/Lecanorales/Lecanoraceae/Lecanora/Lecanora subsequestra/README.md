@@ -1,5 +1,4 @@
-Lecanora subsequestra Nyl. SPECIES
-=======
+# Lecanora subsequestra Nyl. SPECIES
 
 #### Status
 ACCEPTED

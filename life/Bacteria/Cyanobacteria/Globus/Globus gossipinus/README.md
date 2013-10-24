@@ -1,5 +1,4 @@
-Globus gossipinus Vidal in Moczydlowska & Vidal, 1988 SPECIES
-=======
+# Globus gossipinus Vidal in Moczydlowska & Vidal, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Veillonella caviae Mays et al., 1982 SPECIES
-=======
+# Veillonella caviae Mays et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

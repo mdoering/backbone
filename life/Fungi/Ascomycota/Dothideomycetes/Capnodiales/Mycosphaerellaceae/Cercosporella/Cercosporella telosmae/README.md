@@ -1,5 +1,4 @@
-Cercosporella telosmae Deighton SPECIES
-=======
+# Cercosporella telosmae Deighton SPECIES
 
 #### Status
 ACCEPTED

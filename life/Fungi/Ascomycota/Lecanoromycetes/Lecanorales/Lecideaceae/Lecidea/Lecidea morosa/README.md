@@ -1,5 +1,4 @@
-Lecidea morosa Dufour SPECIES
-=======
+# Lecidea morosa Dufour SPECIES
 
 #### Status
 ACCEPTED

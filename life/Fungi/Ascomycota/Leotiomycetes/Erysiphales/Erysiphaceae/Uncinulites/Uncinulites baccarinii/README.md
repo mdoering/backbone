@@ -1,5 +1,4 @@
-Uncinulites baccarinii Pampal. SPECIES
-=======
+# Uncinulites baccarinii Pampal. SPECIES
 
 #### Status
 ACCEPTED

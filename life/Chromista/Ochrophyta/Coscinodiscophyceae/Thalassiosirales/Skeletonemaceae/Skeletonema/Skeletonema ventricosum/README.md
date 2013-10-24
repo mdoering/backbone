@@ -1,5 +1,4 @@
-Skeletonema ventricosum N. W. Anissimowa SPECIES
-=======
+# Skeletonema ventricosum N. W. Anissimowa SPECIES
 
 #### Status
 ACCEPTED

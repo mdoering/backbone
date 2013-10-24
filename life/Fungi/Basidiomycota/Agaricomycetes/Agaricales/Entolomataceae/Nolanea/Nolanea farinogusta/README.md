@@ -1,5 +1,4 @@
-Nolanea farinogusta (Arnolds & Noordel.) Largent SPECIES
-=======
+# Nolanea farinogusta (Arnolds & Noordel.) Largent SPECIES
 
 #### Status
 ACCEPTED

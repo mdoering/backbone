@@ -1,5 +1,4 @@
-Pithomyces cupaniae (Syd.) M.B. Ellis SPECIES
-=======
+# Pithomyces cupaniae (Syd.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

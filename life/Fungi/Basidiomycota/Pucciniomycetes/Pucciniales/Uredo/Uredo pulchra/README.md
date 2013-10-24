@@ -1,5 +1,4 @@
-Uredo pulchra Syd. & P. Syd. SPECIES
-=======
+# Uredo pulchra Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

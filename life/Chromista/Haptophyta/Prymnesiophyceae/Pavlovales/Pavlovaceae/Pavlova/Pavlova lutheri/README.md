@@ -1,5 +1,4 @@
-Pavlova lutheri (Droop) Green SPECIES
-=======
+# Pavlova lutheri (Droop) Green SPECIES
 
 #### Status
 ACCEPTED

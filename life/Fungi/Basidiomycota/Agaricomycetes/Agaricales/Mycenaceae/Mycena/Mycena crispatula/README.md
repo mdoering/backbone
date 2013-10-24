@@ -1,5 +1,4 @@
-Mycena crispatula Métrod SPECIES
-=======
+# Mycena crispatula Métrod SPECIES
 
 #### Status
 ACCEPTED

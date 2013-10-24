@@ -1,5 +1,4 @@
-Trametes styracicola Henn. SPECIES
-=======
+# Trametes styracicola Henn. SPECIES
 
 #### Status
 ACCEPTED

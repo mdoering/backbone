@@ -1,5 +1,4 @@
-Schlegelella thermodepolymerans Elbanna et al., 2003 SPECIES
-=======
+# Schlegelella thermodepolymerans Elbanna et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

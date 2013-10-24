@@ -1,5 +1,4 @@
-Depazites Geinitz GENUS
-=======
+# Depazites Geinitz GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium tenue Schwein. SPECIES
-=======
+# Aecidium tenue Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthurus pentulus Bouriquet SPECIES
-=======
+# Anthurus pentulus Bouriquet SPECIES
 
 #### Status
 ACCEPTED

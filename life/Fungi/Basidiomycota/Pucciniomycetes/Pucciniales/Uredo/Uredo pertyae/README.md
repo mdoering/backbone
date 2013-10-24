@@ -1,5 +1,4 @@
-Uredo pertyae (Miura ex S. Ito & Muray.) S. Kaneko SPECIES
-=======
+# Uredo pertyae (Miura ex S. Ito & Muray.) S. Kaneko SPECIES
 
 #### Status
 ACCEPTED

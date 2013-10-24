@@ -1,5 +1,4 @@
-Ammoanita rosea Seiglie & Baker, 1987 SPECIES
-=======
+# Ammoanita rosea Seiglie & Baker, 1987 SPECIES
 
 #### Status
 ACCEPTED

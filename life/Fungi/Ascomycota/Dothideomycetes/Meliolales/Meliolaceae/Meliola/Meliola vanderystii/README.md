@@ -1,5 +1,4 @@
-Meliola vanderystii Hansf. SPECIES
-=======
+# Meliola vanderystii Hansf. SPECIES
 
 #### Status
 ACCEPTED

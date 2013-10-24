@@ -1,5 +1,4 @@
-Cyanisticta otawayensis Jatta SPECIES
-=======
+# Cyanisticta otawayensis Jatta SPECIES
 
 #### Status
 ACCEPTED

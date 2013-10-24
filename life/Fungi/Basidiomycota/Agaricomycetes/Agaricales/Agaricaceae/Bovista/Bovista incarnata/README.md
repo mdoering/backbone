@@ -1,5 +1,4 @@
-Bovista incarnata Massee SPECIES
-=======
+# Bovista incarnata Massee SPECIES
 
 #### Status
 ACCEPTED

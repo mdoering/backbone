@@ -1,5 +1,4 @@
-Bactrophora J.G. Agardh, 1882 GENUS
-=======
+# Bactrophora J.G. Agardh, 1882 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calderobacterium Kryukov et al., 1984 GENUS
-=======
+# Calderobacterium Kryukov et al., 1984 GENUS
 
 #### Status
 ACCEPTED

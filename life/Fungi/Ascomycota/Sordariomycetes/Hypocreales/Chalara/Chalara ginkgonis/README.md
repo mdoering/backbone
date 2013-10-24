@@ -1,5 +1,4 @@
-Chalara ginkgonis Ferd. & Winge SPECIES
-=======
+# Chalara ginkgonis Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

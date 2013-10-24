@@ -1,5 +1,4 @@
-Sphaeria peckiana Thüm. SPECIES
-=======
+# Sphaeria peckiana Thüm. SPECIES
 
 #### Status
 ACCEPTED

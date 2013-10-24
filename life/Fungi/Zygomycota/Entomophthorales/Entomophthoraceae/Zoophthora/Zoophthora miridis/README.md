@@ -1,5 +1,4 @@
-Zoophthora miridis Balazy & Mietk., 1993 SPECIES
-=======
+# Zoophthora miridis Balazy & Mietk., 1993 SPECIES
 
 #### Status
 ACCEPTED

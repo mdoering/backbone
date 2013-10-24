@@ -1,5 +1,4 @@
-Pseudocercospora baphiae Deighton SPECIES
-=======
+# Pseudocercospora baphiae Deighton SPECIES
 
 #### Status
 ACCEPTED

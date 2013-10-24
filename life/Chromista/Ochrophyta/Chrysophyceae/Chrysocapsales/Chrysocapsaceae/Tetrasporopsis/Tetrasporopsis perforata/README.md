@@ -1,5 +1,4 @@
-Tetrasporopsis perforata (Whitford) Bourrelly SPECIES
-=======
+# Tetrasporopsis perforata (Whitford) Bourrelly SPECIES
 
 #### Status
 ACCEPTED

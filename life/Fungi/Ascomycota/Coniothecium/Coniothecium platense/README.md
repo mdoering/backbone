@@ -1,5 +1,4 @@
-Coniothecium platense Speg. SPECIES
-=======
+# Coniothecium platense Speg. SPECIES
 
 #### Status
 ACCEPTED

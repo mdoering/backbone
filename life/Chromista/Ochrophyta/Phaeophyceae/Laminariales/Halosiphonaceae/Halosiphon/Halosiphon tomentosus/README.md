@@ -1,8 +1,7 @@
-Chorda tomentosa var. subfulva (Foslie) Lily Newton VARIETY
-=======
+# Halosiphon tomentosus (Lyngbye) Jaasund SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

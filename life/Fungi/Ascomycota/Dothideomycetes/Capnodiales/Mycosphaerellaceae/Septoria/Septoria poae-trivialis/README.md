@@ -1,5 +1,4 @@
-Septoria poae-trivialis Cocc. SPECIES
-=======
+# Septoria poae-trivialis Cocc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina semi-integra Müll. Arg. SPECIES
-=======
+# Porina semi-integra Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

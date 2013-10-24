@@ -1,5 +1,4 @@
-Pertusaria nerrigensis A. W. Archer & Elix SPECIES
-=======
+# Pertusaria nerrigensis A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

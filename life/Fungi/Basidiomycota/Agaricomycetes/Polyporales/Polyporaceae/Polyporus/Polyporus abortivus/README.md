@@ -1,5 +1,4 @@
-Polyporus abortivus Peck SPECIES
-=======
+# Polyporus abortivus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula oleifera var. oleifera VARIETY
-=======
+# Russula oleifera Buyck SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Revision du Genre Russula Persoon en Afrique Centrale (Gent), <b>II</b> Partie descriptive [partim a] 294 (1989)
 
 #### Original name
-Russula oleifera var. oleifera
+Russula oleifera Buyck
 
 ### Remarks
 null

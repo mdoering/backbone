@@ -1,5 +1,4 @@
-Multiplicisphaeridium pusillum Eiserhardt, 1992 SPECIES
-=======
+# Multiplicisphaeridium pusillum Eiserhardt, 1992 SPECIES
 
 #### Status
 ACCEPTED

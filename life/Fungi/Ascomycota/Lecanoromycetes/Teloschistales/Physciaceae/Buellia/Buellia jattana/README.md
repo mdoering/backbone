@@ -1,5 +1,4 @@
-Buellia jattana Müll. Arg. SPECIES
-=======
+# Buellia jattana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlebiella globigera Hjortstam & Ryvarden, 2005 SPECIES
-=======
+# Phlebiella globigera Hjortstam & Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

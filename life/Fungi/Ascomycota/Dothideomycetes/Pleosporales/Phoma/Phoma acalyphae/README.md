@@ -1,5 +1,4 @@
-Phoma acalyphae Tassi SPECIES
-=======
+# Phoma acalyphae Tassi SPECIES
 
 #### Status
 ACCEPTED

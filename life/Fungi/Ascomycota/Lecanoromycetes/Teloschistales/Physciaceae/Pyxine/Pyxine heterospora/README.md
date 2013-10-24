@@ -1,5 +1,4 @@
-Pyxine heterospora Vain. SPECIES
-=======
+# Pyxine heterospora Vain. SPECIES
 
 #### Status
 ACCEPTED

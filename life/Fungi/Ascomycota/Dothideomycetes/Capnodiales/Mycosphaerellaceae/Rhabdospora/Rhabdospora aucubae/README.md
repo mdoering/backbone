@@ -1,5 +1,4 @@
-Rhabdospora aucubae Brunaud SPECIES
-=======
+# Rhabdospora aucubae Brunaud SPECIES
 
 #### Status
 ACCEPTED

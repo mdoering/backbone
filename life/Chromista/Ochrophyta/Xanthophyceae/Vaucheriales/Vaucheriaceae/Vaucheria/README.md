@@ -1,5 +1,4 @@
-Vaucheria A.P. de Candolle, 1801 GENUS
-=======
+# Vaucheria A.P. de Candolle, 1801 GENUS
 
 #### Status
 ACCEPTED

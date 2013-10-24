@@ -1,5 +1,4 @@
-Crepidotus tucumanus E. Horak SPECIES
-=======
+# Crepidotus tucumanus E. Horak SPECIES
 
 #### Status
 ACCEPTED

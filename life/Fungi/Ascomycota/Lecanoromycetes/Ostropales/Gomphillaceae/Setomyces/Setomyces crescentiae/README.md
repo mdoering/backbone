@@ -1,5 +1,4 @@
-Setomyces crescentiae Bat. & Taltasse SPECIES
-=======
+# Setomyces crescentiae Bat. & Taltasse SPECIES
 
 #### Status
 ACCEPTED

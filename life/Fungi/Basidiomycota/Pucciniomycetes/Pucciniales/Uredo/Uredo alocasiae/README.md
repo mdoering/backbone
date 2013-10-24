@@ -1,5 +1,4 @@
-Uredo alocasiae Henn. SPECIES
-=======
+# Uredo alocasiae Henn. SPECIES
 
 #### Status
 ACCEPTED

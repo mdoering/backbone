@@ -1,5 +1,4 @@
-Septoria mandevillae Syd. SPECIES
-=======
+# Septoria mandevillae Syd. SPECIES
 
 #### Status
 ACCEPTED

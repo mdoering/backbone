@@ -1,5 +1,4 @@
-Phomopsis morifolia (Berl.) Petr. SPECIES
-=======
+# Phomopsis morifolia (Berl.) Petr. SPECIES
 
 #### Status
 ACCEPTED

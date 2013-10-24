@@ -1,5 +1,4 @@
-Melampsora pedicularis Voglino SPECIES
-=======
+# Melampsora pedicularis Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcodon lepidus Maas Geest., 1975 SPECIES
-=======
+# Sarcodon lepidus Maas Geest., 1975 SPECIES
 
 #### Status
 ACCEPTED

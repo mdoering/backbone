@@ -1,5 +1,4 @@
-Amanita rhoadsii (Murrill) Murrill SPECIES
-=======
+# Amanita rhoadsii (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

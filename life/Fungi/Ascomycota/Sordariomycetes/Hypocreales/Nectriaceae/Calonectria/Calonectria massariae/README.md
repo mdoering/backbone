@@ -1,5 +1,4 @@
-Calonectria massariae (Pass.) Sacc. SPECIES
-=======
+# Calonectria massariae (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

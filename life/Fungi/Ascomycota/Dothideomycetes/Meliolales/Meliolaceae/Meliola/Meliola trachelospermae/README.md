@@ -1,5 +1,4 @@
-Meliola trachelospermae H.S. Yates SPECIES
-=======
+# Meliola trachelospermae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

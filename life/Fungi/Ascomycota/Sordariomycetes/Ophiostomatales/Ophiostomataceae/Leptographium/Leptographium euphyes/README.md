@@ -1,5 +1,4 @@
-Leptographium euphyes K. Jacobs & M.J. Wingf., 2001 SPECIES
-=======
+# Leptographium euphyes K. Jacobs & M.J. Wingf., 2001 SPECIES
 
 #### Status
 ACCEPTED

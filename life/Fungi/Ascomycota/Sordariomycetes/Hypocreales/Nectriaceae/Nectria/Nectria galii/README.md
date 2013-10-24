@@ -1,5 +1,4 @@
-Nectria galii Plowr. & Harkn. SPECIES
-=======
+# Nectria galii Plowr. & Harkn. SPECIES
 
 #### Status
 ACCEPTED

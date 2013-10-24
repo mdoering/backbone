@@ -1,5 +1,4 @@
-Phaeosphaerella phlogina (Ellis & Everh.) Tomilin SPECIES
-=======
+# Phaeosphaerella phlogina (Ellis & Everh.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

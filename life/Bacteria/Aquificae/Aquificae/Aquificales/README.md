@@ -1,5 +1,4 @@
-Aquificales Reysenbach, 2002 ORDER
-=======
+# Aquificales Reysenbach, 2002 ORDER
 
 #### Status
 ACCEPTED

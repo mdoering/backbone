@@ -1,5 +1,4 @@
-Curvularia bannonii Morgan-Jones, 1988 SPECIES
-=======
+# Curvularia bannonii Morgan-Jones, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum zonulatum Valenti SPECIES
-=======
+# Hydnum zonulatum Valenti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus gomphomorphus Berk. SPECIES
-=======
+# Agaricus gomphomorphus Berk. SPECIES
 
 #### Status
 ACCEPTED

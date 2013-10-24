@@ -1,5 +1,4 @@
-Coprotiella gongylospora Jeng & J.C. Krug, 1976 SPECIES
-=======
+# Coprotiella gongylospora Jeng & J.C. Krug, 1976 SPECIES
 
 #### Status
 ACCEPTED

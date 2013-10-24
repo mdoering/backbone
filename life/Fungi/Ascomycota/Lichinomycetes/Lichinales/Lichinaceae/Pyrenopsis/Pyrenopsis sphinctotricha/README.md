@@ -1,5 +1,4 @@
-Pyrenopsis sphinctotricha Vain. SPECIES
-=======
+# Pyrenopsis sphinctotricha Vain. SPECIES
 
 #### Status
 ACCEPTED

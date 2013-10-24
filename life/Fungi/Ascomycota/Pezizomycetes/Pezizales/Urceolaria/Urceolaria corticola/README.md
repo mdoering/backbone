@@ -1,5 +1,4 @@
-Urceolaria corticola (Hepp) Motyka SPECIES
-=======
+# Urceolaria corticola (Hepp) Motyka SPECIES
 
 #### Status
 ACCEPTED

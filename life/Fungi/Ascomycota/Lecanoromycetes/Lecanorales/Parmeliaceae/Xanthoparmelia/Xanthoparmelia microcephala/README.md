@@ -1,5 +1,4 @@
-Xanthoparmelia microcephala Elix & Kantvilas SPECIES
-=======
+# Xanthoparmelia microcephala Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

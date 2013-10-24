@@ -1,5 +1,4 @@
-Phyllachora phlogis (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora phlogis (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

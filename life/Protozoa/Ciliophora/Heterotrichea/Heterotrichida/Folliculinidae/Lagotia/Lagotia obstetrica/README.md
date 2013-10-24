@@ -1,5 +1,4 @@
-Lagotia obstetrica Wright, 1862 SPECIES
-=======
+# Lagotia obstetrica Wright, 1862 SPECIES
 
 #### Status
 ACCEPTED

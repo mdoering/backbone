@@ -1,5 +1,4 @@
-Parmelia punicea Ach. SPECIES
-=======
+# Parmelia punicea Ach. SPECIES
 
 #### Status
 ACCEPTED

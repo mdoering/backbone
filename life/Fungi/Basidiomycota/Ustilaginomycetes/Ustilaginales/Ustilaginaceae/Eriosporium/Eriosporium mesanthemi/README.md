@@ -1,14 +1,13 @@
-Sorosporium mesanthemi E. Müll., 1955 SPECIES
-=======
+# Eriosporium mesanthemi (E. Müll.) Vánky, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopath. Z. 23(1): 109 (1955)
+Mycol. Balcanica 2(2): 114 (2005)
 
 #### Original name
 Sorosporium mesanthemi E. Müll., 1955

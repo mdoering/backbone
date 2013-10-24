@@ -1,5 +1,4 @@
-Septoria diervillicola (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Septoria diervillicola (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

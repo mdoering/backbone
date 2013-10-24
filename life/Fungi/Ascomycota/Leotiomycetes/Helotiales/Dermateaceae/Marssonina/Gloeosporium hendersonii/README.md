@@ -1,5 +1,4 @@
-Gloeosporium hendersonii Berk. & Broome SPECIES
-=======
+# Gloeosporium hendersonii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

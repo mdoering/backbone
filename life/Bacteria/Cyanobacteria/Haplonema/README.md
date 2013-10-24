@@ -1,5 +1,4 @@
-Haplonema Borzi, 1914 GENUS
-=======
+# Haplonema Borzi, 1914 GENUS
 
 #### Status
 ACCEPTED

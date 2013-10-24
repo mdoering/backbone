@@ -1,5 +1,4 @@
-Anaerobiospirillum succiniciproducens Davis et al., 1976 (Approved Lists, 1980) SPECIES
-=======
+# Anaerobiospirillum succiniciproducens Davis et al., 1976 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

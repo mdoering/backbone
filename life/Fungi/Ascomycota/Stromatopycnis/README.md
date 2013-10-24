@@ -1,5 +1,4 @@
-Stromatopycnis A.F. Vital GENUS
-=======
+# Stromatopycnis A.F. Vital GENUS
 
 #### Status
 ACCEPTED

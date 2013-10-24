@@ -1,5 +1,4 @@
-Puccinia coprosmatis SPECIES
-=======
+# Puccinia coprosmatis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia porphyromyces Berk. SPECIES
-=======
+# Omphalia porphyromyces Berk. SPECIES
 
 #### Status
 ACCEPTED

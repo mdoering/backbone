@@ -1,5 +1,4 @@
-Pleospora tetrasepta Álv. García SPECIES
-=======
+# Pleospora tetrasepta Álv. García SPECIES
 
 #### Status
 ACCEPTED

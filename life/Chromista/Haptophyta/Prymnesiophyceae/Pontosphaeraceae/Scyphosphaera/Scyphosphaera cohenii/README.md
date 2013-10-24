@@ -1,5 +1,4 @@
-Scyphosphaera cohenii Boudreaux & Hay, 1969 SPECIES
-=======
+# Scyphosphaera cohenii Boudreaux & Hay, 1969 SPECIES
 
 #### Status
 ACCEPTED

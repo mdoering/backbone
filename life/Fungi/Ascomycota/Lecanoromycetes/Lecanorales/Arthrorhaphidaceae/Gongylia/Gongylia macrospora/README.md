@@ -1,5 +1,4 @@
-Gongylia macrospora Suza SPECIES
-=======
+# Gongylia macrospora Suza SPECIES
 
 #### Status
 ACCEPTED

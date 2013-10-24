@@ -1,5 +1,4 @@
-Cortinarius luteus Peck SPECIES
-=======
+# Cortinarius luteus Peck SPECIES
 
 #### Status
 ACCEPTED

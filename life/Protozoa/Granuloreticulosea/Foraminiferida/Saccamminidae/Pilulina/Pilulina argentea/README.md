@@ -1,5 +1,4 @@
-Pilulina argentea Höglund, 1947 SPECIES
-=======
+# Pilulina argentea Höglund, 1947 SPECIES
 
 #### Status
 ACCEPTED

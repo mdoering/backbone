@@ -1,17 +1,16 @@
-Aschersonia samoensis Henn., 1896 SPECIES
-=======
+# Hypocrella discoidea (Berk. & Broome) Sacc., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia (1878)
 
 #### Original name
-Aschersonia samoensis Henn., 1896
+Hypocrea discoidea Berk. & Broome, 1870
 
 ### Remarks
 null

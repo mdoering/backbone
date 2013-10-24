@@ -1,5 +1,4 @@
-Lentinus cladopus Lév. SPECIES
-=======
+# Lentinus cladopus Lév. SPECIES
 
 #### Status
 ACCEPTED

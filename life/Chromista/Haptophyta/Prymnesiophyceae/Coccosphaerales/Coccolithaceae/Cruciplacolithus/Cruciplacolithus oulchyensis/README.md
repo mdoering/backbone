@@ -1,5 +1,4 @@
-Cruciplacolithus oulchyensis (Bouché) O. Varol SPECIES
-=======
+# Cruciplacolithus oulchyensis (Bouché) O. Varol SPECIES
 
 #### Status
 ACCEPTED

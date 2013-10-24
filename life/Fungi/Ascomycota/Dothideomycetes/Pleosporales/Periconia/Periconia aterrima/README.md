@@ -1,5 +1,4 @@
-Periconia aterrima Rabenh. SPECIES
-=======
+# Periconia aterrima Rabenh. SPECIES
 
 #### Status
 ACCEPTED

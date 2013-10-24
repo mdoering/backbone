@@ -1,5 +1,4 @@
-Cliostomum tetrasporum De Not. SPECIES
-=======
+# Cliostomum tetrasporum De Not. SPECIES
 
 #### Status
 ACCEPTED

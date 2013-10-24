@@ -1,5 +1,4 @@
-Calophyllum GENUS
-=======
+# Calophyllum GENUS
 
 #### Status
 ACCEPTED

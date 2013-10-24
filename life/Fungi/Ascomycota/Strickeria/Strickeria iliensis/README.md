@@ -1,5 +1,4 @@
-Strickeria iliensis Kravtzev SPECIES
-=======
+# Strickeria iliensis Kravtzev SPECIES
 
 #### Status
 ACCEPTED

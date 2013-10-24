@@ -1,5 +1,4 @@
-Gullmarella faurei Fenchel, 1964 SPECIES
-=======
+# Gullmarella faurei Fenchel, 1964 SPECIES
 
 #### Status
 ACCEPTED

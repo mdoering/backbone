@@ -1,5 +1,4 @@
-Ammobaculites prostomum Hofker, 1932 SPECIES
-=======
+# Ammobaculites prostomum Hofker, 1932 SPECIES
 
 #### Status
 ACCEPTED

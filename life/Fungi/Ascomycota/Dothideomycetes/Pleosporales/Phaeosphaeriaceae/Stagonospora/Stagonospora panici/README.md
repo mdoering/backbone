@@ -1,5 +1,4 @@
-Stagonospora panici S. Ahmad SPECIES
-=======
+# Stagonospora panici S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictis pimentae Seaver & Waterston SPECIES
-=======
+# Stictis pimentae Seaver & Waterston SPECIES
 
 #### Status
 ACCEPTED

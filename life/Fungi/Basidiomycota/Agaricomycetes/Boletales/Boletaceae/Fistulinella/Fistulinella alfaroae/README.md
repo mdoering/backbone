@@ -1,5 +1,4 @@
-Fistulinella alfaroae Singer & L.D. Gómez, 1991 SPECIES
-=======
+# Fistulinella alfaroae Singer & L.D. Gómez, 1991 SPECIES
 
 #### Status
 ACCEPTED

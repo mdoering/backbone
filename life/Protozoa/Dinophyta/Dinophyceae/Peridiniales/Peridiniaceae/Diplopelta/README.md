@@ -1,5 +1,4 @@
-Diplopelta Stein & Jorgensen, 1912 GENUS
-=======
+# Diplopelta Stein & Jorgensen, 1912 GENUS
 
 #### Status
 ACCEPTED

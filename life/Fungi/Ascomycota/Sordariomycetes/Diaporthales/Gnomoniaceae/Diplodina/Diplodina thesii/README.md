@@ -1,5 +1,4 @@
-Diplodina thesii Boyer & Jacz. SPECIES
-=======
+# Diplodina thesii Boyer & Jacz. SPECIES
 
 #### Status
 ACCEPTED

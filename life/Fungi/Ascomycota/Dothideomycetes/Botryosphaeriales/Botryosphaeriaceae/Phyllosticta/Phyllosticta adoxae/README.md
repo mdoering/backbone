@@ -1,5 +1,4 @@
-Phyllosticta adoxae Seaver SPECIES
-=======
+# Phyllosticta adoxae Seaver SPECIES
 
 #### Status
 ACCEPTED

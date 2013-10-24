@@ -1,5 +1,4 @@
-Pleonectria lichenicola (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Pleonectria lichenicola (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

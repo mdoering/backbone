@@ -1,5 +1,4 @@
-Diplodina dracaenicola Sacc. SPECIES
-=======
+# Diplodina dracaenicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

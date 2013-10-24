@@ -1,5 +1,4 @@
-Siphula singularis Vain. SPECIES
-=======
+# Siphula singularis Vain. SPECIES
 
 #### Status
 ACCEPTED

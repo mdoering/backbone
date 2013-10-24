@@ -1,5 +1,4 @@
-Dicaeoma roscoeae (Barclay) Kuntze SPECIES
-=======
+# Dicaeoma roscoeae (Barclay) Kuntze SPECIES
 
 #### Status
 ACCEPTED

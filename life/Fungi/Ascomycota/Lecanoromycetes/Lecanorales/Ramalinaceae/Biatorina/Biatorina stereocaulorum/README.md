@@ -1,5 +1,4 @@
-Biatorina stereocaulorum (Anzi) Jatta SPECIES
-=======
+# Biatorina stereocaulorum (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta dufourei Delise SPECIES
-=======
+# Sticta dufourei Delise SPECIES
 
 #### Status
 ACCEPTED

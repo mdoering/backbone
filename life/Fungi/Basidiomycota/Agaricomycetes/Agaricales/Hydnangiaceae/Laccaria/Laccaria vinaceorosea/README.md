@@ -1,5 +1,4 @@
-Laccaria vinaceorosea Contu SPECIES
-=======
+# Laccaria vinaceorosea Contu SPECIES
 
 #### Status
 ACCEPTED

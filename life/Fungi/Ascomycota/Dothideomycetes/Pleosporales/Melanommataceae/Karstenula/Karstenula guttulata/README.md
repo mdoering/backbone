@@ -1,5 +1,4 @@
-Karstenula guttulata Frolov SPECIES
-=======
+# Karstenula guttulata Frolov SPECIES
 
 #### Status
 ACCEPTED

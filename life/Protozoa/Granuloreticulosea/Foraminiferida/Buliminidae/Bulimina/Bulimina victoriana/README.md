@@ -1,5 +1,4 @@
-Bulimina victoriana Cushman SPECIES
-=======
+# Bulimina victoriana Cushman SPECIES
 
 #### Status
 ACCEPTED

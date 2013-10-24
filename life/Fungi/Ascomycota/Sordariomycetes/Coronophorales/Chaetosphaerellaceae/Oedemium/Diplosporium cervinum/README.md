@@ -1,5 +1,4 @@
-Diplosporium cervinum (Berk. & Broome) Sacc. SPECIES
-=======
+# Diplosporium cervinum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

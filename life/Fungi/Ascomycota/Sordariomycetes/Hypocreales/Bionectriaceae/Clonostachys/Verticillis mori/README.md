@@ -1,5 +1,4 @@
-Verticillis mori Sawada SPECIES
-=======
+# Verticillis mori Sawada SPECIES
 
 #### Status
 ACCEPTED

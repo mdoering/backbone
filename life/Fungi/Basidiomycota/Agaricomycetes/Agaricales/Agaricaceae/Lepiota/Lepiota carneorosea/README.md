@@ -1,5 +1,4 @@
-Lepiota carneorosea Cleland & Cheel SPECIES
-=======
+# Lepiota carneorosea Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

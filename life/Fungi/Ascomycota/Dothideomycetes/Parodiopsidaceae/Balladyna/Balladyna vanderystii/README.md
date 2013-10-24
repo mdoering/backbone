@@ -1,5 +1,4 @@
-Balladyna vanderystii (Hansf.) Arx SPECIES
-=======
+# Balladyna vanderystii (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

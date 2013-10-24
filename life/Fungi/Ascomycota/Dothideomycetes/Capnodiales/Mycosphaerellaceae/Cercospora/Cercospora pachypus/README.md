@@ -1,5 +1,4 @@
-Cercospora pachypus Ellis & Kellerm. SPECIES
-=======
+# Cercospora pachypus Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

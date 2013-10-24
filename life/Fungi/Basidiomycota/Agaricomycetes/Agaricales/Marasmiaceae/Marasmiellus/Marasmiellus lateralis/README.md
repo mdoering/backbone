@@ -1,5 +1,4 @@
-Marasmiellus lateralis Bas & Noordel. SPECIES
-=======
+# Marasmiellus lateralis Bas & Noordel. SPECIES
 
 #### Status
 ACCEPTED

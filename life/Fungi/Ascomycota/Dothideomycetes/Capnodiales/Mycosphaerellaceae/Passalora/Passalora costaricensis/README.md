@@ -1,5 +1,4 @@
-Passalora costaricensis (Syd.) U. Braun & Crous SPECIES
-=======
+# Passalora costaricensis (Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

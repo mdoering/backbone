@@ -1,5 +1,4 @@
-Gibberella bresadolae (Rick) L. Holm SPECIES
-=======
+# Gibberella bresadolae (Rick) L. Holm SPECIES
 
 #### Status
 ACCEPTED

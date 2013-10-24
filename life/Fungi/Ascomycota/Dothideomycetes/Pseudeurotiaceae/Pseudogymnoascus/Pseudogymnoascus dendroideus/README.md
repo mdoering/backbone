@@ -1,5 +1,4 @@
-Pseudogymnoascus dendroideus Locq.-Lin. SPECIES
-=======
+# Pseudogymnoascus dendroideus Locq.-Lin. SPECIES
 
 #### Status
 ACCEPTED

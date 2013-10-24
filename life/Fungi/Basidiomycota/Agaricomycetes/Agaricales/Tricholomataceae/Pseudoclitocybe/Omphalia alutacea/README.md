@@ -1,5 +1,4 @@
-Omphalia alutacea (Cooke & Massee) Sacc. SPECIES
-=======
+# Omphalia alutacea (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

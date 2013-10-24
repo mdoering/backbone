@@ -1,5 +1,4 @@
-Neottiosporina sorghicola B. Sutton & W.P. Wu, 1995 SPECIES
-=======
+# Neottiosporina sorghicola B. Sutton & W.P. Wu, 1995 SPECIES
 
 #### Status
 ACCEPTED

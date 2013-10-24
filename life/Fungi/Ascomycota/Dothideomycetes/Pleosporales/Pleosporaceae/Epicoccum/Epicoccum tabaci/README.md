@@ -1,5 +1,4 @@
-Epicoccum tabaci Pass. SPECIES
-=======
+# Epicoccum tabaci Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora subflava Tuck. SPECIES
-=======
+# Lecanora subflava Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caliciopsis thujina (Ellis & Everh.) Fitzp. SPECIES
-=======
+# Caliciopsis thujina (Ellis & Everh.) Fitzp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora proteifromis SPECIES
-=======
+# Lecanora proteifromis SPECIES
 
 #### Status
 ACCEPTED

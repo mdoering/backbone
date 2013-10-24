@@ -1,5 +1,4 @@
-Tilakomyces indicus Sathe & Vaidya SPECIES
-=======
+# Tilakomyces indicus Sathe & Vaidya SPECIES
 
 #### Status
 ACCEPTED

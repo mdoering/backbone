@@ -1,5 +1,4 @@
-Amidella volvata f. volvata FORM
-=======
+# Amidella volvata (Peck) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Iconogr. Mycol. 27(Suppl. 1): 77 (1941)
 
 #### Original name
-Amidella volvata f. volvata
+Amanita volvata (Peck) Lloyd
 
 ### Remarks
 null

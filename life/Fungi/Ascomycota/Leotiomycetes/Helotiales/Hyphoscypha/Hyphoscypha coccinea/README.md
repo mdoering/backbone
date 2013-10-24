@@ -1,5 +1,4 @@
-Hyphoscypha coccinea Rodway SPECIES
-=======
+# Hyphoscypha coccinea Rodway SPECIES
 
 #### Status
 ACCEPTED

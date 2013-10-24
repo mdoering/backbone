@@ -1,5 +1,4 @@
-Agaricus bulbillus Schwein. SPECIES
-=======
+# Agaricus bulbillus Schwein. SPECIES
 
 #### Status
 ACCEPTED

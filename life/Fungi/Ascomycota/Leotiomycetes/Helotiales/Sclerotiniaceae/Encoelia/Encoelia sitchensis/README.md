@@ -1,5 +1,4 @@
-Encoelia sitchensis Kirschst. SPECIES
-=======
+# Encoelia sitchensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodosticta quercina J.C. Carter SPECIES
-=======
+# Rhodosticta quercina J.C. Carter SPECIES
 
 #### Status
 ACCEPTED

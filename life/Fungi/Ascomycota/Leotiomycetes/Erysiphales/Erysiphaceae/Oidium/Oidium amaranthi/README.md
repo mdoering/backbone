@@ -1,5 +1,4 @@
-Oidium amaranthi V. Kumar & K.N. Pandey SPECIES
-=======
+# Oidium amaranthi V. Kumar & K.N. Pandey SPECIES
 
 #### Status
 ACCEPTED

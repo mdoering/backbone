@@ -1,5 +1,4 @@
-Sporidesmium scleroticola Henn. SPECIES
-=======
+# Sporidesmium scleroticola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema wirthii Hale SPECIES
-=======
+# Parmotrema wirthii Hale SPECIES
 
 #### Status
 ACCEPTED

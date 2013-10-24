@@ -1,5 +1,4 @@
-Mycosphaerella conferta (Speg.) Lindau SPECIES
-=======
+# Mycosphaerella conferta (Speg.) Lindau SPECIES
 
 #### Status
 ACCEPTED

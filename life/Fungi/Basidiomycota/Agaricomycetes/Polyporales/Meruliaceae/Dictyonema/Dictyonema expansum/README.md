@@ -1,5 +1,4 @@
-Dictyonema expansum SPECIES
-=======
+# Dictyonema expansum SPECIES
 
 #### Status
 ACCEPTED

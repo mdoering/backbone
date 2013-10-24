@@ -1,5 +1,4 @@
-Cladochytrium alismatis Büsgen SPECIES
-=======
+# Cladochytrium alismatis Büsgen SPECIES
 
 #### Status
 ACCEPTED

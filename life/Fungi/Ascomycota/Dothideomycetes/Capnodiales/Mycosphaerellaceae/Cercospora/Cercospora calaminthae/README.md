@@ -1,5 +1,4 @@
-Cercospora calaminthae Chupp SPECIES
-=======
+# Cercospora calaminthae Chupp SPECIES
 
 #### Status
 ACCEPTED

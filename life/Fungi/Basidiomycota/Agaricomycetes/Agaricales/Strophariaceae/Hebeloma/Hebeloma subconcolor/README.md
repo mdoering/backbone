@@ -1,5 +1,4 @@
-Hebeloma subconcolor Bruchet SPECIES
-=======
+# Hebeloma subconcolor Bruchet SPECIES
 
 #### Status
 ACCEPTED

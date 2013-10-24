@@ -1,5 +1,4 @@
-Lecidea enteroleucoides SPECIES
-=======
+# Lecidea enteroleucoides SPECIES
 
 #### Status
 ACCEPTED

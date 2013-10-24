@@ -1,5 +1,4 @@
-Agaricus subedulis Heinem. SPECIES
-=======
+# Agaricus subedulis Heinem. SPECIES
 
 #### Status
 ACCEPTED

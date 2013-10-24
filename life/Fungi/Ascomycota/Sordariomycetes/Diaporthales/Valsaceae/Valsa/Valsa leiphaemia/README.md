@@ -1,5 +1,4 @@
-Valsa leiphaemia (Fr.) SPECIES
-=======
+# Valsa leiphaemia (Fr.) SPECIES
 
 #### Status
 ACCEPTED

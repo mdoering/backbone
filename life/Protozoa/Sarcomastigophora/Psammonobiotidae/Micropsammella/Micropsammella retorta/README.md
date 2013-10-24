@@ -1,5 +1,4 @@
-Micropsammella retorta Golemansky, 1970 SPECIES
-=======
+# Micropsammella retorta Golemansky, 1970 SPECIES
 
 #### Status
 ACCEPTED

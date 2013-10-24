@@ -1,5 +1,4 @@
-Alteromonas GENUS
-=======
+# Alteromonas GENUS
 
 #### Status
 ACCEPTED

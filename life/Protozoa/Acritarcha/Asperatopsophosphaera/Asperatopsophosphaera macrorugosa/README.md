@@ -1,5 +1,4 @@
-Asperatopsophosphaera macrorugosa Tian Chuanrong, 1983 SPECIES
-=======
+# Asperatopsophosphaera macrorugosa Tian Chuanrong, 1983 SPECIES
 
 #### Status
 ACCEPTED

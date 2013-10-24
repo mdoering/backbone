@@ -1,14 +1,13 @@
-Helotium lateritioalbum P. Karst., 1887 SPECIES
-=======
+# Psilachnum lateritioalbum (P. Karst.) Höhn., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 9: 159 (1887)
+in Weese, Mitt. bot. Inst. tech. Hochsch. Wien 4(3): 73 (1926)
 
 #### Original name
 Helotium lateritioalbum P. Karst., 1887

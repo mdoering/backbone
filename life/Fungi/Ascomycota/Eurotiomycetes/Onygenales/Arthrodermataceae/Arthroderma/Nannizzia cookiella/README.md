@@ -1,14 +1,13 @@
-Arthroderma cookiellum (Clercq) Weitzman, McGinnis, A.A. Padhye & Ajello, 1986 SPECIES
-=======
+# Nannizzia cookiella Clercq, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 25(2): 513 (1986)
+Mycotaxon 18(1): 24 (1983)
 
 #### Original name
 Nannizzia cookiella Clercq, 1983

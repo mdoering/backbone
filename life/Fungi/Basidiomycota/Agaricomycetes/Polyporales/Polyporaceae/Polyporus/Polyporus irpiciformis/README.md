@@ -1,5 +1,4 @@
-Polyporus irpiciformis Velen. SPECIES
-=======
+# Polyporus irpiciformis Velen. SPECIES
 
 #### Status
 ACCEPTED

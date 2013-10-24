@@ -1,5 +1,4 @@
-Dioicomyces bournieri Balazuc SPECIES
-=======
+# Dioicomyces bournieri Balazuc SPECIES
 
 #### Status
 ACCEPTED

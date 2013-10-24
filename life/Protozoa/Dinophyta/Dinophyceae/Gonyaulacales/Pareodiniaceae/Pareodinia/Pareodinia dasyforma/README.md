@@ -1,5 +1,4 @@
-Pareodinia dasyforma Wiggins, 1975 SPECIES
-=======
+# Pareodinia dasyforma Wiggins, 1975 SPECIES
 
 #### Status
 ACCEPTED

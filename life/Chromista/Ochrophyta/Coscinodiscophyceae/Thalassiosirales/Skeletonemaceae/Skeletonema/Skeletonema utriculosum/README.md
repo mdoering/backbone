@@ -1,5 +1,4 @@
-Skeletonema utriculosum SPECIES
-=======
+# Skeletonema utriculosum SPECIES
 
 #### Status
 ACCEPTED

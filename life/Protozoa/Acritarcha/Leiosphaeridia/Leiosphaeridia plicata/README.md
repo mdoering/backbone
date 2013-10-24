@@ -1,5 +1,4 @@
-Leiosphaeridia plicata Felix, 1965 SPECIES
-=======
+# Leiosphaeridia plicata Felix, 1965 SPECIES
 
 #### Status
 ACCEPTED

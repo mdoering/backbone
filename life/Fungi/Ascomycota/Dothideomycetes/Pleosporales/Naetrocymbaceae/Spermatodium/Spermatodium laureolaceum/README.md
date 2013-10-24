@@ -1,5 +1,4 @@
-Spermatodium laureolaceum (Eschw.) Trevis. SPECIES
-=======
+# Spermatodium laureolaceum (Eschw.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

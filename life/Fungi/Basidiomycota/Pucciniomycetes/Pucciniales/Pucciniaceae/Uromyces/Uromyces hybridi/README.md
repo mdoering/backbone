@@ -1,5 +1,4 @@
-Uromyces hybridi Davis SPECIES
-=======
+# Uromyces hybridi Davis SPECIES
 
 #### Status
 ACCEPTED

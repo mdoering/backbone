@@ -1,17 +1,16 @@
-Cercospora depressa f. depressa FORM
-=======
+# Passalora depressa (Berk.) Sacc., 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nuovo Giorn. Bot. Ital. 8: 187 (1876)
 
 #### Original name
-Cercospora depressa f. depressa
+Cladosporium depressum Berk. & Broome, 1851
 
 ### Remarks
 null

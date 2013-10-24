@@ -1,5 +1,4 @@
-Lecidea byssacea Zwackh SPECIES
-=======
+# Lecidea byssacea Zwackh SPECIES
 
 #### Status
 ACCEPTED

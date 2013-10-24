@@ -1,5 +1,4 @@
-Urceolaria cyrtaspis (Wahlenb.) Gray SPECIES
-=======
+# Urceolaria cyrtaspis (Wahlenb.) Gray SPECIES
 
 #### Status
 ACCEPTED

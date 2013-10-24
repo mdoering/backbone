@@ -1,5 +1,4 @@
-Dimeriella disseminata Syd. SPECIES
-=======
+# Dimeriella disseminata Syd. SPECIES
 
 #### Status
 ACCEPTED

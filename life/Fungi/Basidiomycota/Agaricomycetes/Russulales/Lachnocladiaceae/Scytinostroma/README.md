@@ -1,5 +1,4 @@
-Scytinostroma Donk, 1956 GENUS
-=======
+# Scytinostroma Donk, 1956 GENUS
 
 #### Status
 ACCEPTED

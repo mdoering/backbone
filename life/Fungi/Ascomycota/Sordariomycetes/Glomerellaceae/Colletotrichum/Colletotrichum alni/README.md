@@ -1,5 +1,4 @@
-Colletotrichum alni Siemaszko SPECIES
-=======
+# Colletotrichum alni Siemaszko SPECIES
 
 #### Status
 ACCEPTED

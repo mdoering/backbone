@@ -1,5 +1,4 @@
-Glotzia ephemeridarum Lichtw., 1972 SPECIES
-=======
+# Glotzia ephemeridarum Lichtw., 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epicoccum padi Rostr. SPECIES
-=======
+# Epicoccum padi Rostr. SPECIES
 
 #### Status
 ACCEPTED

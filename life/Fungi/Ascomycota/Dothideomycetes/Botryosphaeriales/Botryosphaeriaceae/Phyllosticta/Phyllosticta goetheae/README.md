@@ -1,5 +1,4 @@
-Phyllosticta goetheae Magnaghi SPECIES
-=======
+# Phyllosticta goetheae Magnaghi SPECIES
 
 #### Status
 ACCEPTED

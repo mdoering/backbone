@@ -1,5 +1,4 @@
-Euantennaria alaskensis (Sacc. & Scalia) Speg. SPECIES
-=======
+# Euantennaria alaskensis (Sacc. & Scalia) Speg. SPECIES
 
 #### Status
 ACCEPTED

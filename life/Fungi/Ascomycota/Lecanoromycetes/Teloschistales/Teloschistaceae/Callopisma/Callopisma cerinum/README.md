@@ -1,5 +1,4 @@
-Callopisma cerinum f. cerinum FORM
-=======
+# Callopisma cerinum SPECIES
 
 #### Status
 ACCEPTED

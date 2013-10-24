@@ -1,5 +1,4 @@
-Aecidium pratae H.S. Jacks. & Holw. SPECIES
-=======
+# Aecidium pratae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

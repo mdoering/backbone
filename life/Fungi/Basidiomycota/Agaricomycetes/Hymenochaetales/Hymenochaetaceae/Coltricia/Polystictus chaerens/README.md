@@ -1,5 +1,4 @@
-Polystictus chaerens Lév. SPECIES
-=======
+# Polystictus chaerens Lév. SPECIES
 
 #### Status
 ACCEPTED

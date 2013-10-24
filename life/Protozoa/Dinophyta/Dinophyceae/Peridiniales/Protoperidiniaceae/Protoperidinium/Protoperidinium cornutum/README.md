@@ -1,5 +1,4 @@
-Protoperidinium cornutum (Karsten, 1907) Balech, 1974 SPECIES
-=======
+# Protoperidinium cornutum (Karsten, 1907) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

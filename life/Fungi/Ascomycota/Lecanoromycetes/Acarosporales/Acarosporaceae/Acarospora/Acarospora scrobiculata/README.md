@@ -1,5 +1,4 @@
-Acarospora scrobiculata H. Magn. SPECIES
-=======
+# Acarospora scrobiculata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

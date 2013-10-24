@@ -1,5 +1,4 @@
-Rhizosolenia acicularis B.G.Sundström, 1986 SPECIES
-=======
+# Rhizosolenia acicularis B.G.Sundström, 1986 SPECIES
 
 #### Status
 ACCEPTED

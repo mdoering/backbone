@@ -1,5 +1,4 @@
-Anthostomella eructans Ellis & Everh. SPECIES
-=======
+# Anthostomella eructans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

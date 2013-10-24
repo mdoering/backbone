@@ -1,5 +1,4 @@
-Stiptophyllum Ryvarden GENUS
-=======
+# Stiptophyllum Ryvarden GENUS
 
 #### Status
 ACCEPTED

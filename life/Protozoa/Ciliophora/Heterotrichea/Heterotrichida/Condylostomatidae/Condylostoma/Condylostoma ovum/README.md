@@ -1,5 +1,4 @@
-Condylostoma ovum Kahl, 1926 SPECIES
-=======
+# Condylostoma ovum Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

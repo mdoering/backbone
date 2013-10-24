@@ -1,5 +1,4 @@
-Physalospora solanicola Henn. SPECIES
-=======
+# Physalospora solanicola Henn. SPECIES
 
 #### Status
 ACCEPTED

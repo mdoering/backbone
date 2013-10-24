@@ -1,14 +1,13 @@
-Mycena bambusa (Pat. & Demange) Zhu L. Yang SPECIES
-=======
+# Mycena bambusae (Pat. & Demange) Zhu L. Yang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 75: 444 (2000)
 
 #### Original name
 Cantharellus bambusae Pat. & Demange

@@ -1,5 +1,4 @@
-Cytogloeum tiliae Petr., 1925 SPECIES
-=======
+# Cytogloeum tiliae Petr., 1925 SPECIES
 
 #### Status
 ACCEPTED

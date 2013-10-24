@@ -1,5 +1,4 @@
-Zignoëlla superficialis Feltgen SPECIES
-=======
+# Zignoëlla superficialis Feltgen SPECIES
 
 #### Status
 ACCEPTED

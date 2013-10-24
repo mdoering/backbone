@@ -1,17 +1,16 @@
-Aecidium argyreae-involucratae P.B. Chavan SPECIES
-=======
+# Aecidium argyreiae-involucratae P.B. Chavan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Maharashtra Vidnyan Mandir, Patrika 4(1): 38 (1969)
 
 #### Original name
-Aecidium argyreae-involucratae P.B. Chavan
+Aecidium argyreiae-involucratae P.B. Chavan
 
 ### Remarks
 null

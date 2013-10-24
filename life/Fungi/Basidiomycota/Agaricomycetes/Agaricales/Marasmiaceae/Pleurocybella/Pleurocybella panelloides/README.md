@@ -1,5 +1,4 @@
-Pleurocybella panelloides (Dennis) Raithelh. SPECIES
-=======
+# Pleurocybella panelloides (Dennis) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Penicillium roqueforti var. roqueforti Sopp VARIETY
-=======
+# Penicillium roqueforti Thom, 1906 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the U. S. Department of Agriculture, Bureau Animal Industry (1912)
+Skr. Vidensk. -Selsk. Christiana Math. -Nat. Kl. 11: 156 (1912)
 
 #### Original name
-Penicillium roqueforti var. roqueforti Sopp
+Penicillium roqueforti Thom, 1906
 
 ### Remarks
 null

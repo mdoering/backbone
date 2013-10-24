@@ -1,5 +1,4 @@
-Phlegmacium paxilloides M.M. Moser SPECIES
-=======
+# Phlegmacium paxilloides M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

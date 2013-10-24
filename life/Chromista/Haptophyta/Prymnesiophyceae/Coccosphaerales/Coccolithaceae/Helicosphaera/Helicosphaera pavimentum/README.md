@@ -1,5 +1,4 @@
-Helicosphaera pavimentum Okada & McIntyre, 1977 SPECIES
-=======
+# Helicosphaera pavimentum Okada & McIntyre, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagena plumigera SPECIES
-=======
+# Lagena plumigera SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Stegia vermicularis (Arnold) Keissl., 1925 SPECIES
-=======
+# Thamnogalla crombiei (Mudd) D. Hawksw., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annln naturh. Mus. Wien 38: 163 (1925)
+Notes R. bot. Gdn Edinb. 38(1): 178 (1980)
 
 #### Original name
-Nesolechia vermicularis Arnold
+Endocarpon crombiei Mudd, 1865
 
 ### Remarks
 null

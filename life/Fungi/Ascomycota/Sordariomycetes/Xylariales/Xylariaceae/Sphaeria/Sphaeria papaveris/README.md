@@ -1,5 +1,4 @@
-Sphaeria papaveris Schumach. SPECIES
-=======
+# Sphaeria papaveris Schumach. SPECIES
 
 #### Status
 ACCEPTED

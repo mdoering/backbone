@@ -1,5 +1,4 @@
-Gloeosporidina moravica Petr., 1921 SPECIES
-=======
+# Gloeosporidina moravica Petr., 1921 SPECIES
 
 #### Status
 ACCEPTED

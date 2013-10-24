@@ -1,5 +1,4 @@
-Rhizomyces cornutus Thaxt., 1918 SPECIES
-=======
+# Rhizomyces cornutus Thaxt., 1918 SPECIES
 
 #### Status
 ACCEPTED

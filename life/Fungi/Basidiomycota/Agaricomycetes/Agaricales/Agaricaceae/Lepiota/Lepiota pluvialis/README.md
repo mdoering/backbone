@@ -1,5 +1,4 @@
-Lepiota pluvialis Speg. SPECIES
-=======
+# Lepiota pluvialis Speg. SPECIES
 
 #### Status
 ACCEPTED

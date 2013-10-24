@@ -1,17 +1,16 @@
-Cladosporium zizyphi P. Karst. & Roum. SPECIES
-=======
+# Cladosporium ziziphi P. Karst. & Roum., 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue mycol. , Toulouse 12(no. 46): 78 (1890)
 
 #### Original name
-Cladosporium zizyphi P. Karst. & Roum.
+Cladosporium ziziphi P. Karst. & Roum., 1890
 
 ### Remarks
 null

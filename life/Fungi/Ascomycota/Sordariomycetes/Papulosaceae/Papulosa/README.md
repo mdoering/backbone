@@ -1,5 +1,4 @@
-Papulosa Kohlm. & Volkm.-Kohlm. GENUS
-=======
+# Papulosa Kohlm. & Volkm.-Kohlm. GENUS
 
 #### Status
 ACCEPTED

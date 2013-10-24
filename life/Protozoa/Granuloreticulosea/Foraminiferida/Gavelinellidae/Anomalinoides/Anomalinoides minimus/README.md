@@ -1,8 +1,7 @@
-Truncatulina minima Forster, 1892 SPECIES
-=======
+# Anomalinoides minimus (Forster, 1892) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Tintinnus abruptus SPECIES
-=======
+# Tintinnus abruptus SPECIES
 
 #### Status
 ACCEPTED

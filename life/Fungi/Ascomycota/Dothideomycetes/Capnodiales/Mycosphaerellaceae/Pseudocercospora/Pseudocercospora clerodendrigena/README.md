@@ -1,5 +1,4 @@
-Pseudocercospora clerodendrigena U. Braun SPECIES
-=======
+# Pseudocercospora clerodendrigena U. Braun SPECIES
 
 #### Status
 ACCEPTED

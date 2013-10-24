@@ -1,5 +1,4 @@
-Rhizomorpha tuberculosa Ach. SPECIES
-=======
+# Rhizomorpha tuberculosa Ach. SPECIES
 
 #### Status
 ACCEPTED

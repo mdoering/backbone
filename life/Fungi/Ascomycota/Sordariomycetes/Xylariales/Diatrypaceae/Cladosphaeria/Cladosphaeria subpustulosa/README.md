@@ -1,5 +1,4 @@
-Cladosphaeria subpustulosa G.H. Otth SPECIES
-=======
+# Cladosphaeria subpustulosa G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

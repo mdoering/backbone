@@ -1,5 +1,4 @@
-Irenopsis ocoteae (F. Stevens) F. Stevens SPECIES
-=======
+# Irenopsis ocoteae (F. Stevens) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus cochlearis (Pers.) Bres. SPECIES
-=======
+# Lentinus cochlearis (Pers.) Bres. SPECIES
 
 #### Status
 ACCEPTED

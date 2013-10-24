@@ -1,5 +1,4 @@
-Streptomyces niveiscabiei Park et al., 2003 SPECIES
-=======
+# Streptomyces niveiscabiei Park et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

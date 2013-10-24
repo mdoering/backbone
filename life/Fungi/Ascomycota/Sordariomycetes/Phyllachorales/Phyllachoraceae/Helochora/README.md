@@ -1,5 +1,4 @@
-Helochora Sherwood GENUS
-=======
+# Helochora Sherwood GENUS
 
 #### Status
 ACCEPTED

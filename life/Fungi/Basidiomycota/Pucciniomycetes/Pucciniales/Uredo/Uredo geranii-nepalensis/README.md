@@ -1,5 +1,4 @@
-Uredo geranii-nepalensis Hirats. f. & Hashioka SPECIES
-=======
+# Uredo geranii-nepalensis Hirats. f. & Hashioka SPECIES
 
 #### Status
 ACCEPTED

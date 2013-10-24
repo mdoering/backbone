@@ -1,5 +1,4 @@
-Hypocrea grisea Rick SPECIES
-=======
+# Hypocrea grisea Rick SPECIES
 
 #### Status
 ACCEPTED

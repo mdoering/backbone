@@ -1,5 +1,4 @@
-Cyathus crispus H.J. Brodie SPECIES
-=======
+# Cyathus crispus H.J. Brodie SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus elliposoideus Dedusenko-Stregoleva SPECIES
-=======
+# Phacus elliposoideus Dedusenko-Stregoleva SPECIES
 
 #### Status
 ACCEPTED

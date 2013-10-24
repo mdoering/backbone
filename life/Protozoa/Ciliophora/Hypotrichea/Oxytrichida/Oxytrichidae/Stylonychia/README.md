@@ -1,5 +1,4 @@
-Stylonychia Ehrenberg, 1832 GENUS
-=======
+# Stylonychia Ehrenberg, 1832 GENUS
 
 #### Status
 ACCEPTED

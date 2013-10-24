@@ -1,5 +1,4 @@
-Fungoidaster discoides P. Micheli SPECIES
-=======
+# Fungoidaster discoides P. Micheli SPECIES
 
 #### Status
 ACCEPTED

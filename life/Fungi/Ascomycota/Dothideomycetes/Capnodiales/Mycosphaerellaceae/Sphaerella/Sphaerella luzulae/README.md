@@ -1,5 +1,4 @@
-Sphaerella luzulae Cooke SPECIES
-=======
+# Sphaerella luzulae Cooke SPECIES
 
 #### Status
 ACCEPTED

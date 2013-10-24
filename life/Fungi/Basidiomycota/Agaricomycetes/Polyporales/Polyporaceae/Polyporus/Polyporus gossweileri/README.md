@@ -1,5 +1,4 @@
-Polyporus gossweileri Lloyd SPECIES
-=======
+# Polyporus gossweileri Lloyd SPECIES
 
 #### Status
 ACCEPTED

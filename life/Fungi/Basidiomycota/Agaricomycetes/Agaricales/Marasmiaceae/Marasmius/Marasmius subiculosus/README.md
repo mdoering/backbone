@@ -1,5 +1,4 @@
-Marasmius subiculosus Pat. SPECIES
-=======
+# Marasmius subiculosus Pat. SPECIES
 
 #### Status
 ACCEPTED

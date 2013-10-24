@@ -1,5 +1,4 @@
-Mallomonas dentata SPECIES
-=======
+# Mallomonas dentata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena neospeirea Singer SPECIES
-=======
+# Mycena neospeirea Singer SPECIES
 
 #### Status
 ACCEPTED

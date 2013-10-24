@@ -1,5 +1,4 @@
-Cladonia skottsbergii f. fuscescens Ahti FORM
-=======
+# Cladonia skottsbergii H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia skottsbergii f. fuscescens Ahti
+Cladonia skottsbergii H. Magn.
 
 ### Remarks
 null

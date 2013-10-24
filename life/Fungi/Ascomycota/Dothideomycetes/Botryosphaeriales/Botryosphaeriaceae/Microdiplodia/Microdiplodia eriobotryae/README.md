@@ -1,5 +1,4 @@
-Microdiplodia eriobotryae Politis SPECIES
-=======
+# Microdiplodia eriobotryae Politis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thraustochytrium aureum S. Goldst., 1963 SPECIES
-=======
+# Thraustochytrium aureum S. Goldst., 1963 SPECIES
 
 #### Status
 ACCEPTED

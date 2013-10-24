@@ -1,5 +1,4 @@
-Trichothelium pallidum Lücking SPECIES
-=======
+# Trichothelium pallidum Lücking SPECIES
 
 #### Status
 ACCEPTED

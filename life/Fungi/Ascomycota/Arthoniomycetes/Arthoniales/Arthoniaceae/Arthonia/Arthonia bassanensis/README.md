@@ -1,5 +1,4 @@
-Arthonia bassanensis Beltr. SPECIES
-=======
+# Arthonia bassanensis Beltr. SPECIES
 
 #### Status
 ACCEPTED

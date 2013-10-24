@@ -1,5 +1,4 @@
-Peziza rhodoleuca SPECIES
-=======
+# Peziza rhodoleuca SPECIES
 
 #### Status
 ACCEPTED

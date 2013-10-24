@@ -1,5 +1,4 @@
-Chiasmolithus oamaruensis (Deflandre, 1954) Hay, Mohler & Wade, 1966 SPECIES
-=======
+# Chiasmolithus oamaruensis (Deflandre, 1954) Hay, Mohler & Wade, 1966 SPECIES
 
 #### Status
 ACCEPTED

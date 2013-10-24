@@ -1,5 +1,4 @@
-Lyophyllum conocephalum (P. Karst.) Clémençon SPECIES
-=======
+# Lyophyllum conocephalum (P. Karst.) Clémençon SPECIES
 
 #### Status
 ACCEPTED

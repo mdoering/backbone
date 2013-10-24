@@ -1,5 +1,4 @@
-Sporocybe carnea Richon SPECIES
-=======
+# Sporocybe carnea Richon SPECIES
 
 #### Status
 ACCEPTED

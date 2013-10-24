@@ -1,5 +1,4 @@
-Irenina securidacae Hansf. SPECIES
-=======
+# Irenina securidacae Hansf. SPECIES
 
 #### Status
 ACCEPTED

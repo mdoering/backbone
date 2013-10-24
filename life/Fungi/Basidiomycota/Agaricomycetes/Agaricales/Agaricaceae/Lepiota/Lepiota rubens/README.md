@@ -1,5 +1,4 @@
-Lepiota rubens Kühner & Maire SPECIES
-=======
+# Lepiota rubens Kühner & Maire SPECIES
 
 #### Status
 ACCEPTED

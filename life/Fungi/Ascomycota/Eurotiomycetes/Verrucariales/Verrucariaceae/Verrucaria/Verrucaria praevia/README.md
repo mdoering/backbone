@@ -1,5 +1,4 @@
-Verrucaria praevia Nyl. SPECIES
-=======
+# Verrucaria praevia Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isaria microscopica Grev. SPECIES
-=======
+# Isaria microscopica Grev. SPECIES
 
 #### Status
 ACCEPTED

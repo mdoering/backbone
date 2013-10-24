@@ -1,5 +1,4 @@
-Asterinella lembosioides Doidge SPECIES
-=======
+# Asterinella lembosioides Doidge SPECIES
 
 #### Status
 ACCEPTED

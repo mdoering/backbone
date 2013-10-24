@@ -1,14 +1,13 @@
-Gyrodon rompelii (Pat. & Rick) Singer, 1938 SPECIES
-=======
+# Boletinellus rompelii (Pat. & Rick) Watling, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 3(4-5): 171 (1938)
+in Watling & Meijer, Edinb. J. Bot. 54(2): 243 (1997)
 
 #### Original name
 Phylloporus rompelii Pat. & Rick, 1907

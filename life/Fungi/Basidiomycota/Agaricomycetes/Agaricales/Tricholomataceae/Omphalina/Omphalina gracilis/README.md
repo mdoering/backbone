@@ -1,5 +1,4 @@
-Omphalina gracilis Quél. SPECIES
-=======
+# Omphalina gracilis Quél. SPECIES
 
 #### Status
 ACCEPTED

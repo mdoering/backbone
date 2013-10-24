@@ -1,5 +1,4 @@
-Sigmatomyces bakeri Sacc. & P. Syd., 1913 SPECIES
-=======
+# Sigmatomyces bakeri Sacc. & P. Syd., 1913 SPECIES
 
 #### Status
 ACCEPTED

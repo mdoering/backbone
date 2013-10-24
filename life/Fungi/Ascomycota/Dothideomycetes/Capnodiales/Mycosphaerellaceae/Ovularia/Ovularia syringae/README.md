@@ -1,5 +1,4 @@
-Ovularia syringae Berk. SPECIES
-=======
+# Ovularia syringae Berk. SPECIES
 
 #### Status
 ACCEPTED

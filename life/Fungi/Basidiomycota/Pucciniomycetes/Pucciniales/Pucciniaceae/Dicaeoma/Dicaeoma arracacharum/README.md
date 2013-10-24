@@ -1,5 +1,4 @@
-Dicaeoma arracacharum (Lindr.) Arthur SPECIES
-=======
+# Dicaeoma arracacharum (Lindr.) Arthur SPECIES
 
 #### Status
 ACCEPTED

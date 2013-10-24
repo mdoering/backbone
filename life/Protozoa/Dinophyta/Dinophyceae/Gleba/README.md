@@ -1,5 +1,4 @@
-Gleba Bruguière, 1791 GENUS
-=======
+# Gleba Bruguière, 1791 GENUS
 
 #### Status
 ACCEPTED

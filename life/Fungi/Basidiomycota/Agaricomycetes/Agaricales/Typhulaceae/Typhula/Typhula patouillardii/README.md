@@ -1,5 +1,4 @@
-Typhula patouillardii (Quél.) Corner SPECIES
-=======
+# Typhula patouillardii (Quél.) Corner SPECIES
 
 #### Status
 ACCEPTED

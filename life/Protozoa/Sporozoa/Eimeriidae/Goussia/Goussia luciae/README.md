@@ -1,5 +1,4 @@
-Goussia luciae Lom & Dyková, 1982 SPECIES
-=======
+# Goussia luciae Lom & Dyková, 1982 SPECIES
 
 #### Status
 ACCEPTED

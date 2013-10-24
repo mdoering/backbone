@@ -1,5 +1,4 @@
-Caloplaca perexigua (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca perexigua (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

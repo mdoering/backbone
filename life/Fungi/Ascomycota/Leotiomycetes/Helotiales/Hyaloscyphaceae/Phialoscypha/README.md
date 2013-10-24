@@ -1,5 +1,4 @@
-Phialoscypha GENUS
-=======
+# Phialoscypha GENUS
 
 #### Status
 ACCEPTED

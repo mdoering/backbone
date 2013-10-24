@@ -1,5 +1,4 @@
-Hubbsia lumbricoides W.A. Weber SPECIES
-=======
+# Hubbsia lumbricoides W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

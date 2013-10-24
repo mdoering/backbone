@@ -1,5 +1,4 @@
-Lecanora platygraphoides Nyl. SPECIES
-=======
+# Lecanora platygraphoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

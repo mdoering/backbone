@@ -1,5 +1,4 @@
-Diplodina laminariae G.K. Sutherl. SPECIES
-=======
+# Diplodina laminariae G.K. Sutherl. SPECIES
 
 #### Status
 ACCEPTED

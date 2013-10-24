@@ -1,5 +1,4 @@
-Mesenterica grisea Alb. & Schwein. SPECIES
-=======
+# Mesenterica grisea Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

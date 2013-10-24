@@ -1,17 +1,16 @@
-Dothidella scleriicola Henn., 1904 SPECIES
-=======
+# Phyllachora scleriicola Miles, 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43: 253 (1904)
+Mycologia 18(4): 165 (1926)
 
 #### Original name
-Dothidella scleriicola Henn., 1904
+Phyllachora scleriicola Miles, 1926
 
 ### Remarks
 null

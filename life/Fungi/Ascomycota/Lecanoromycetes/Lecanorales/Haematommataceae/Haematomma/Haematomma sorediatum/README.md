@@ -1,17 +1,16 @@
-Haematomma neglectum Lumbsch & Feige SPECIES
-=======
+# Haematomma sorediatum R. W. Rogers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 52(2): 430 (1994)
+Lichenologist 14(2): 128 (1982)
 
 #### Original name
-Haematomma neglectum Lumbsch & Feige
+Haematomma sorediatum R. W. Rogers
 
 ### Remarks
 null

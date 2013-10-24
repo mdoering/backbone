@@ -1,5 +1,4 @@
-Nitschkiopsis stictarum Nannf. & R. Sant. SPECIES
-=======
+# Nitschkiopsis stictarum Nannf. & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

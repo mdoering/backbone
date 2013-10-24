@@ -1,5 +1,4 @@
-Streptomyces thermoautotrophicus Gadkari et al., 1991 SPECIES
-=======
+# Streptomyces thermoautotrophicus Gadkari et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

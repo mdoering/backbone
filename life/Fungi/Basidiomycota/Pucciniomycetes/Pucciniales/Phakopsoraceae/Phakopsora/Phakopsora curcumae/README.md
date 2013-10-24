@@ -1,5 +1,4 @@
-Phakopsora curcumae Höhn. SPECIES
-=======
+# Phakopsora curcumae Höhn. SPECIES
 
 #### Status
 ACCEPTED

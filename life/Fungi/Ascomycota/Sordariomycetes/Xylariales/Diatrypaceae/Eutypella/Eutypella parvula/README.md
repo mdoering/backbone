@@ -1,5 +1,4 @@
-Eutypella parvula Sacc. SPECIES
-=======
+# Eutypella parvula Sacc. SPECIES
 
 #### Status
 ACCEPTED

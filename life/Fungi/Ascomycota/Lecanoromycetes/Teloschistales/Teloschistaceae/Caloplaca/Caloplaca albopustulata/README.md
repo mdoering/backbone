@@ -1,5 +1,4 @@
-Caloplaca albopustulata Khodos. & S.Y. Kondr. SPECIES
-=======
+# Caloplaca albopustulata Khodos. & S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dingensia Patterson & Zölffel, 1991 GENUS
-=======
+# Colpodella Cienkowski, 1865 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Syst Assoc Spec Vol Ser 45: 439.
+Arch. mikr. Anat. , 1, 207.
 
 #### Original name
 null

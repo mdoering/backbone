@@ -1,5 +1,4 @@
-Puccinia galii-rivularis Unamuno SPECIES
-=======
+# Puccinia galii-rivularis Unamuno SPECIES
 
 #### Status
 ACCEPTED

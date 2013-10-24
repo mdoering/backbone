@@ -1,5 +1,4 @@
-Elaphomyces nucleatus Tul. SPECIES
-=======
+# Elaphomyces nucleatus Tul. SPECIES
 
 #### Status
 ACCEPTED

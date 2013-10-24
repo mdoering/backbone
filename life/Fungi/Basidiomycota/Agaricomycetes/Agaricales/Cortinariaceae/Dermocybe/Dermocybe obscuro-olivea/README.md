@@ -1,5 +1,4 @@
-Dermocybe obscuro-olivea var. obscuro-olivea VARIETY
-=======
+# Dermocybe obscuro-olivea M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Moser & Horak, Beih. Nova Hedwigia 52: 507 (1975)
 
 #### Original name
-Dermocybe obscuro-olivea var. obscuro-olivea
+Dermocybe obscuro-olivea M.M. Moser
 
 ### Remarks
 null

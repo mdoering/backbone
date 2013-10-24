@@ -1,5 +1,4 @@
-Arthopyrenia peranomala Zahlbr. SPECIES
-=======
+# Arthopyrenia peranomala Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

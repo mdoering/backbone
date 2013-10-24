@@ -1,5 +1,4 @@
-Gloeosporium caricinum Sacc. SPECIES
-=======
+# Gloeosporium caricinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

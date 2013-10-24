@@ -1,14 +1,13 @@
-Clavaria humilis Cooke, 1890 SPECIES
-=======
+# Clavulina humilis (Cooke) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 19(no. 89): 2 (1890)
+Ann. Bot. Mem. 1: 327 (1950)
 
 #### Original name
 Clavaria humilis Cooke, 1890

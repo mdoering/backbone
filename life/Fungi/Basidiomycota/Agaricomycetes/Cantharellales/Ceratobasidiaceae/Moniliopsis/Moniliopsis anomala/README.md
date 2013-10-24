@@ -1,5 +1,4 @@
-Moniliopsis anomala Burgeff ex Currah, Smreciu & Hambl., 1990 SPECIES
-=======
+# Moniliopsis anomala Burgeff ex Currah, Smreciu & Hambl., 1990 SPECIES
 
 #### Status
 ACCEPTED

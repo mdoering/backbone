@@ -1,5 +1,4 @@
-Phlyctaeniella psilostega (Ellis & G. Martin) Andrian. SPECIES
-=======
+# Phlyctaeniella psilostega (Ellis & G. Martin) Andrian. SPECIES
 
 #### Status
 ACCEPTED

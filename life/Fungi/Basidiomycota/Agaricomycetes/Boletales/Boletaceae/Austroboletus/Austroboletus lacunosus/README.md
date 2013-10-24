@@ -1,17 +1,16 @@
-Boletus lacunosus Cooke & Massee, 1889 SPECIES
-=======
+# Austroboletus lacunosus (Kuntze) T.W. May & A.E. Wood, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 18(no. 85): 5 (1889)
+Mycotaxon 54: 149 (1995)
 
 #### Original name
-Boletus lacunosus Cooke & Massee, 1889
+Suillus lacunosus Kuntze, 1898
 
 ### Remarks
 null

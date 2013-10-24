@@ -1,5 +1,4 @@
-Litonotus rotunda (Kahl, 1931) SPECIES
-=======
+# Litonotus rotunda (Kahl, 1931) SPECIES
 
 #### Status
 ACCEPTED

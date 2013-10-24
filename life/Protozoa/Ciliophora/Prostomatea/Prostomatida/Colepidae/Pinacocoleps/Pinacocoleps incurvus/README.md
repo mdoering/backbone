@@ -1,8 +1,7 @@
-Coleps incurvus Ehrenberg, 1834 SPECIES
-=======
+# Pinacocoleps incurvus (Ehrenberg, 1834) Diesing, 1865 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

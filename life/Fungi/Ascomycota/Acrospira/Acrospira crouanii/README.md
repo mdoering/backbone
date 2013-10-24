@@ -1,17 +1,16 @@
-Acrospira crouani Mont. SPECIES
-=======
+# Acrospira crouanii Mont., 1857 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 4 3: 300 (1855)
 
 #### Original name
-Acrospira crouani Mont.
+Acrospira crouanii Mont., 1857
 
 ### Remarks
 null

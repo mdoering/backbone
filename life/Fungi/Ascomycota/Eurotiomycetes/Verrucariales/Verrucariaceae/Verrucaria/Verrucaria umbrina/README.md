@@ -1,5 +1,4 @@
-Verrucaria umbrina SPECIES
-=======
+# Verrucaria umbrina SPECIES
 
 #### Status
 ACCEPTED

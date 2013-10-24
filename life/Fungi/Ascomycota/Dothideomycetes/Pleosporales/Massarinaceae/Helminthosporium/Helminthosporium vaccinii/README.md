@@ -1,5 +1,4 @@
-Helminthosporium vaccinii Fr. SPECIES
-=======
+# Helminthosporium vaccinii Fr. SPECIES
 
 #### Status
 ACCEPTED

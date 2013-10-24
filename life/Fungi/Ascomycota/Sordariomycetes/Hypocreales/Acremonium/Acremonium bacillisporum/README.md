@@ -1,14 +1,13 @@
-Sagrahamala bacillispora (Onions & G.L. Barron) Subram., 1972 SPECIES
-=======
+# Acremonium bacillisporum (Onions & G.L. Barron) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Curr. Sci. 41(2): 49 (1972)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 72 (1971)
 
 #### Original name
 Paecilomyces bacillisporus Onions & G.L. Barron, 1967

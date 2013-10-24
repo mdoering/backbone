@@ -1,5 +1,4 @@
-Sphaeria zeylanica Berk. SPECIES
-=======
+# Sphaeria zeylanica Berk. SPECIES
 
 #### Status
 ACCEPTED

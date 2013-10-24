@@ -1,14 +1,13 @@
-Phyllachora edax (Berk. & Broome) Cooke, 1885 SPECIES
-=======
+# Ophiodothella edax (Berk. & Broome) Höhn., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 68 (1885)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 119: 941 (1910)
 
 #### Original name
 Dothidea edax Berk. & Broome, 1875

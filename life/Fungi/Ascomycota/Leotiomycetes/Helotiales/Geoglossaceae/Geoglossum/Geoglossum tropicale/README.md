@@ -1,5 +1,4 @@
-Geoglossum tropicale Raitv., K.S. Thind & R. Sharma SPECIES
-=======
+# Geoglossum tropicale Raitv., K.S. Thind & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermium bolivarii Gonz. Frag. SPECIES
-=======
+# Lophodermium bolivarii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

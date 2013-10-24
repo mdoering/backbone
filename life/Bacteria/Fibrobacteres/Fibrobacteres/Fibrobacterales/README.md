@@ -1,5 +1,4 @@
-Fibrobacterales ORDER
-=======
+# Fibrobacterales ORDER
 
 #### Status
 ACCEPTED

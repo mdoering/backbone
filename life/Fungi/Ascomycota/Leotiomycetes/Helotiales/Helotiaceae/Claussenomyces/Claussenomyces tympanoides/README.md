@@ -1,5 +1,4 @@
-Claussenomyces tympanoides (Ellis & Everh.) Iturr. & Korf SPECIES
-=======
+# Claussenomyces tympanoides (Ellis & Everh.) Iturr. & Korf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Barlaea asperella (Rehm) Sacc. SPECIES
-=======
+# Barlaea asperella (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

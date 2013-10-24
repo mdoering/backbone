@@ -1,5 +1,4 @@
-Verrucaria marinomuralis H. Harada SPECIES
-=======
+# Verrucaria marinomuralis H. Harada SPECIES
 
 #### Status
 ACCEPTED

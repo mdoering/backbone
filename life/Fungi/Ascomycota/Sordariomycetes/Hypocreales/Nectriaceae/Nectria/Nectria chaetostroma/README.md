@@ -1,5 +1,4 @@
-Nectria chaetostroma Ellis & T. Macbr. SPECIES
-=======
+# Nectria chaetostroma Ellis & T. Macbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe chilensis Singer SPECIES
-=======
+# Inocybe chilensis Singer SPECIES
 
 #### Status
 ACCEPTED

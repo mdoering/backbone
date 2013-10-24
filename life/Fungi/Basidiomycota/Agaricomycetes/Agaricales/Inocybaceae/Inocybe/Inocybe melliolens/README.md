@@ -1,5 +1,4 @@
-Inocybe melliolens Kühner SPECIES
-=======
+# Inocybe melliolens Kühner SPECIES
 
 #### Status
 ACCEPTED

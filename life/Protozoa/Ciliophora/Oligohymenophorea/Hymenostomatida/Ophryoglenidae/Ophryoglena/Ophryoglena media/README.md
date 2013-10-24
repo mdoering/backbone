@@ -1,5 +1,4 @@
-Ophryoglena media Mugard, 1949 SPECIES
-=======
+# Ophryoglena media Mugard, 1949 SPECIES
 
 #### Status
 ACCEPTED

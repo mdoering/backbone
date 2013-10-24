@@ -1,5 +1,4 @@
-Uromyces callicarpae Fujikuro ex S. Ito, 1992 SPECIES
-=======
+# Uromyces callicarpae Fujikuro ex S. Ito, 1992 SPECIES
 
 #### Status
 ACCEPTED

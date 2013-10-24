@@ -1,5 +1,4 @@
-Phyllosticta wrightiae Patw. & Sathe SPECIES
-=======
+# Phyllosticta wrightiae Patw. & Sathe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oswaldina Rangel GENUS
-=======
+# Oswaldina Rangel GENUS
 
 #### Status
 ACCEPTED

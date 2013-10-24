@@ -1,5 +1,4 @@
-Humaria applanata (Hedw.) Rehm SPECIES
-=======
+# Humaria applanata (Hedw.) Rehm SPECIES
 
 #### Status
 ACCEPTED

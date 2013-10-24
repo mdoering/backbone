@@ -1,5 +1,4 @@
-Uredo fragosoana Caball. SPECIES
-=======
+# Uredo fragosoana Caball. SPECIES
 
 #### Status
 ACCEPTED

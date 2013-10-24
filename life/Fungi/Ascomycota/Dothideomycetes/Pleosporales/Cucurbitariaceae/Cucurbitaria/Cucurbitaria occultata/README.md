@@ -1,17 +1,16 @@
-Cucurbitaria rugosa Wallr. SPECIES
-=======
+# Cucurbitaria occultata Oudem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Cucurbitaria occultata Oudem.
 
 ### Remarks
 null

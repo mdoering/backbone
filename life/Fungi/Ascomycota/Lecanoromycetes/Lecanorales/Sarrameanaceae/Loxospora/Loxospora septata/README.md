@@ -1,14 +1,13 @@
-Sarrameana septata Sipman & Aptroot SPECIES
-=======
+# Loxospora septata (Sipman & Aptroot) Kantvilas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Aptroot & Sipman, Willdenowia 20(1-2): 248 (1991)
+Herzogia 14: 37 (2000)
 
 #### Original name
 Sarrameana septata Sipman & Aptroot

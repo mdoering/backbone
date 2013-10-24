@@ -1,5 +1,4 @@
-Diaporthe insignis Fuckel, 1874 SPECIES
-=======
+# Diaporthe insignis Fuckel, 1874 SPECIES
 
 #### Status
 ACCEPTED

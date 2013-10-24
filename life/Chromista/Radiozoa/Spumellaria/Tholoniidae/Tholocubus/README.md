@@ -1,5 +1,4 @@
-Tholocubus Haeckel, 1887 GENUS
-=======
+# Tholocubus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

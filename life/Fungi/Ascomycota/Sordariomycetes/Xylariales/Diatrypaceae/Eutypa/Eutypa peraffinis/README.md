@@ -1,5 +1,4 @@
-Eutypa peraffinis Speg. SPECIES
-=======
+# Eutypa peraffinis Speg. SPECIES
 
 #### Status
 ACCEPTED

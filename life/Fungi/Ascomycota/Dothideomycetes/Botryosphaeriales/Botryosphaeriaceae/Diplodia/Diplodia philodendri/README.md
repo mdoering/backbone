@@ -1,5 +1,4 @@
-Diplodia philodendri Tassi SPECIES
-=======
+# Diplodia philodendri Tassi SPECIES
 
 #### Status
 ACCEPTED

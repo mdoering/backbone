@@ -1,17 +1,16 @@
-Lycoperdon pyriforme var. pyriforme VARIETY
-=======
+# Lycoperdon pyriforme Schaeff., 1774 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. Bavar. Palat. 4: 128 (1774)
+Enum. pl. (Kjbenhavn) 2: 190 (1803)
 
 #### Original name
-Lycoperdon pyriforme var. pyriforme
+Lycoperdon pyriforme Schaeff., 1774
 
 ### Remarks
 null

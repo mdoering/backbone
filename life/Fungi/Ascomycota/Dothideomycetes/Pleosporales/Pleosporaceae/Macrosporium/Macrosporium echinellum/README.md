@@ -1,5 +1,4 @@
-Macrosporium echinellum Berk. & M.A. Curtis SPECIES
-=======
+# Macrosporium echinellum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

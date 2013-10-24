@@ -1,5 +1,4 @@
-Spiropes englerulae M.B. Ellis SPECIES
-=======
+# Spiropes englerulae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

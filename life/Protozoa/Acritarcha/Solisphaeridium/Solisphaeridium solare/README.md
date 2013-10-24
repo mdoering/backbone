@@ -1,5 +1,4 @@
-Solisphaeridium solare Cramer & Díez, 1977 SPECIES
-=======
+# Solisphaeridium solare Cramer & Díez, 1977 SPECIES
 
 #### Status
 ACCEPTED

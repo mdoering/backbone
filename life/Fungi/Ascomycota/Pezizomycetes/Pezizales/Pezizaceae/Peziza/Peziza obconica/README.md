@@ -1,5 +1,4 @@
-Peziza obconica Schumach. SPECIES
-=======
+# Peziza obconica Schumach. SPECIES
 
 #### Status
 ACCEPTED

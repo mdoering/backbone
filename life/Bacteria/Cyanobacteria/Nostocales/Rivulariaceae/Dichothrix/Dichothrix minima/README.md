@@ -1,5 +1,4 @@
-Dichothrix minima Setchell & N.L. Gardner SPECIES
-=======
+# Dichothrix minima Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

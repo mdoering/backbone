@@ -1,5 +1,4 @@
-Rhizopogon pedicellus A.H. Sm. SPECIES
-=======
+# Rhizopogon pedicellus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

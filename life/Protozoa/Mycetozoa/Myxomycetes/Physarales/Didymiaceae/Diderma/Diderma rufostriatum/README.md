@@ -1,5 +1,4 @@
-Diderma rufostriatum Nann.-Bremek. & Lado, 1985 SPECIES
-=======
+# Diderma rufostriatum Nann.-Bremek. & Lado, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta albina Bubák & Kabát SPECIES
-=======
+# Phyllosticta albina Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

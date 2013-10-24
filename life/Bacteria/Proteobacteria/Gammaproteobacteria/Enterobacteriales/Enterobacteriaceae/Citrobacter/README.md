@@ -1,5 +1,4 @@
-Citrobacter Werkman & Gillen, 1932 GENUS
-=======
+# Citrobacter Werkman & Gillen, 1932 GENUS
 
 #### Status
 ACCEPTED

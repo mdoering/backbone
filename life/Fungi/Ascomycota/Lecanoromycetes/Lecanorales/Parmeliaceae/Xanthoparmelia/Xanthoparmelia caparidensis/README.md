@@ -1,14 +1,13 @@
-Neofuscelia caparidensis Elix SPECIES
-=======
+# Xanthoparmelia caparidensis (Elix) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Australasian Lichenology 53: 14 (2003)
+Taxon 53(4): 967 (2004)
 
 #### Original name
 Neofuscelia caparidensis Elix

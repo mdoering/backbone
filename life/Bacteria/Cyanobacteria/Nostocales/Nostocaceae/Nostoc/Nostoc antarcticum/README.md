@@ -1,5 +1,4 @@
-Nostoc antarcticum W. West & G.S. West SPECIES
-=======
+# Nostoc antarcticum W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia saccardiana Cooke SPECIES
-=======
+# Hendersonia saccardiana Cooke SPECIES
 
 #### Status
 ACCEPTED

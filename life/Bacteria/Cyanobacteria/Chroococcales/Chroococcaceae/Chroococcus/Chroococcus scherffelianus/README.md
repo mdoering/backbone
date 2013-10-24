@@ -1,5 +1,4 @@
-Chroococcus scherffelianus Kol SPECIES
-=======
+# Chroococcus scherffelianus Kol SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus latus Bolton SPECIES
-=======
+# Agaricus latus Bolton SPECIES
 
 #### Status
 ACCEPTED

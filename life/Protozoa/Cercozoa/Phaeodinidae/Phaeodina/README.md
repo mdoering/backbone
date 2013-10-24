@@ -1,5 +1,4 @@
-Phaeodina Haeckel, 1879 GENUS
-=======
+# Phaeodina Haeckel, 1879 GENUS
 
 #### Status
 ACCEPTED

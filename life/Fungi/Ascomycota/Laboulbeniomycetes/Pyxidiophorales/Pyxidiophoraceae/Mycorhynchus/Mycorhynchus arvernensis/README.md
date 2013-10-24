@@ -1,5 +1,4 @@
-Mycorhynchus arvernensis Breton & Faurel SPECIES
-=======
+# Mycorhynchus arvernensis Breton & Faurel SPECIES
 
 #### Status
 ACCEPTED

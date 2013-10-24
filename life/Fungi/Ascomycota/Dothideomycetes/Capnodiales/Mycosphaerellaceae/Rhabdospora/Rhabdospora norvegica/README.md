@@ -1,17 +1,16 @@
-Rhabdospora norwegica Fautrey SPECIES
-=======
+# Rhabdospora norvegica Fautrey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 17: 169 (1895)
 
 #### Original name
-Rhabdospora norwegica Fautrey
+Rhabdospora norvegica Fautrey
 
 ### Remarks
 null

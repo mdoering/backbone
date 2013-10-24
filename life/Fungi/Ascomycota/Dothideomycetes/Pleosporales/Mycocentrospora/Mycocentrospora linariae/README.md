@@ -1,5 +1,4 @@
-Mycocentrospora linariae (Baudy & Picb.) U. Braun SPECIES
-=======
+# Mycocentrospora linariae (Baudy & Picb.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

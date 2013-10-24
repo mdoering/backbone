@@ -1,5 +1,4 @@
-Leptomyces purpurascens (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Leptomyces purpurascens (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aureofungus Hibbett, Binder & Wang GENUS
-=======
+# Aureofungus Hibbett, Binder & Wang GENUS
 
 #### Status
 ACCEPTED

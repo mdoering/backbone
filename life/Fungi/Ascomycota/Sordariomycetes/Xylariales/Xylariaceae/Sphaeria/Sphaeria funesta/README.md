@@ -1,5 +1,4 @@
-Sphaeria funesta Kunze SPECIES
-=======
+# Sphaeria funesta Kunze SPECIES
 
 #### Status
 ACCEPTED

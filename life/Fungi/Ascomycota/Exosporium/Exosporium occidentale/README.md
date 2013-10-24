@@ -1,5 +1,4 @@
-Exosporium occidentale B. Sutton SPECIES
-=======
+# Exosporium occidentale B. Sutton SPECIES
 
 #### Status
 ACCEPTED

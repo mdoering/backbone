@@ -1,14 +1,13 @@
-Armillaria pitkinensis Mitchel & A.H. Sm., 1976 SPECIES
-=======
+# Floccularia pitkinensis (Mitchel & A.H. Sm.) Bon, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 4(2): 530 (1976)
+Docums Mycol. 20(no. 79): 57 (1990)
 
 #### Original name
 Armillaria pitkinensis Mitchel & A.H. Sm., 1976

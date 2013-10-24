@@ -1,17 +1,16 @@
-Clavaria sarasini Cotton SPECIES
-=======
+# Clavaria sarasinii Cotton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Wakefield, Massee & Cotton, Vierteljahrsschr. Naturf. Ges. Zürich 61: 630 (1916)
 
 #### Original name
-Clavaria sarasini Cotton
+Clavaria sarasinii Cotton
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phacus pulcherrimus (Conrad) Pochmann SPECIES
-=======
+# Phacus pulcherrimus (Conrad) Pochmann SPECIES
 
 #### Status
 ACCEPTED

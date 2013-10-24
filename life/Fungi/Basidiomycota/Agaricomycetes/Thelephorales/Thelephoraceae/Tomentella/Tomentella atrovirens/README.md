@@ -1,14 +1,13 @@
-Hypochnus atrovirens Bres., 1897 SPECIES
-=======
+# Tomentella atrovirens (Bres.) Höhn. & Litsch., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Acad. Agiato Rovereto 3(1): 116 (1897)
+Wiesner Festschrift (Wien) 77 (1908)
 
 #### Original name
 Hypochnus atrovirens Bres., 1897

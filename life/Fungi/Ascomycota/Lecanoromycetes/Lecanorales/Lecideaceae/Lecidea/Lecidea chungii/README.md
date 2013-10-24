@@ -1,5 +1,4 @@
-Lecidea chungii Zahlbr. SPECIES
-=======
+# Lecidea chungii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

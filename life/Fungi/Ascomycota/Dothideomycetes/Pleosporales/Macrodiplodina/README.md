@@ -1,5 +1,4 @@
-Macrodiplodina GENUS
-=======
+# Macrodiplodina GENUS
 
 #### Status
 ACCEPTED

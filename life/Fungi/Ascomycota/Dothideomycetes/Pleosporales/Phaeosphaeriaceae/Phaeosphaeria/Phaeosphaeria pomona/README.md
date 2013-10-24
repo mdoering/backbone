@@ -1,5 +1,4 @@
-Phaeosphaeria pomona (Sacc.) Huhndorf SPECIES
-=======
+# Phaeosphaeria pomona (Sacc.) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

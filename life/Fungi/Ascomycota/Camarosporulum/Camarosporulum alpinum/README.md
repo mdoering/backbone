@@ -1,5 +1,4 @@
-Camarosporulum alpinum (Speg.) Tassi SPECIES
-=======
+# Camarosporulum alpinum (Speg.) Tassi SPECIES
 
 #### Status
 ACCEPTED

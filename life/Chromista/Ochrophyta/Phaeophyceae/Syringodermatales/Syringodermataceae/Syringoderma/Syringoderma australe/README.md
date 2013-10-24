@@ -1,5 +1,4 @@
-Syringoderma australe Levring SPECIES
-=======
+# Syringoderma australe Levring SPECIES
 
 #### Status
 ACCEPTED

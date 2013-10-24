@@ -1,5 +1,4 @@
-Mycosphaerella saticicola (Pat.) S.Dias SPECIES
-=======
+# Mycosphaerella saticicola (Pat.) S.Dias SPECIES
 
 #### Status
 ACCEPTED

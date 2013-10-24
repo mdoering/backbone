@@ -1,5 +1,4 @@
-Helvella pallescens Schaeff. SPECIES
-=======
+# Helvella pallescens Schaeff. SPECIES
 
 #### Status
 ACCEPTED

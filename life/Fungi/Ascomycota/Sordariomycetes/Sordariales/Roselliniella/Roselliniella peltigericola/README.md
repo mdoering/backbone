@@ -1,5 +1,4 @@
-Roselliniella peltigericola D. Hawksw. & Miadl. SPECIES
-=======
+# Roselliniella peltigericola D. Hawksw. & Miadl. SPECIES
 
 #### Status
 ACCEPTED

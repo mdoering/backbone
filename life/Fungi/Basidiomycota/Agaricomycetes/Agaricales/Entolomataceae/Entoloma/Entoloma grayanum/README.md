@@ -1,5 +1,4 @@
-Entoloma grayanum (Peck) Sacc. SPECIES
-=======
+# Entoloma grayanum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

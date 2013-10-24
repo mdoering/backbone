@@ -1,5 +1,4 @@
-Farinaria poae Sowerby SPECIES
-=======
+# Farinaria poae Sowerby SPECIES
 
 #### Status
 ACCEPTED

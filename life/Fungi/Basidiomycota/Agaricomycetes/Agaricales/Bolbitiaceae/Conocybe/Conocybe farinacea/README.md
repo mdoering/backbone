@@ -1,5 +1,4 @@
-Conocybe farinacea Watling, 1964 SPECIES
-=======
+# Conocybe farinacea Watling, 1964 SPECIES
 
 #### Status
 ACCEPTED

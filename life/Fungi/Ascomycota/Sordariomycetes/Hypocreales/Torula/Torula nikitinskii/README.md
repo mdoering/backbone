@@ -1,5 +1,4 @@
-Torula nikitinskii (Malevich) Panas. SPECIES
-=======
+# Torula nikitinskii (Malevich) Panas. SPECIES
 
 #### Status
 ACCEPTED

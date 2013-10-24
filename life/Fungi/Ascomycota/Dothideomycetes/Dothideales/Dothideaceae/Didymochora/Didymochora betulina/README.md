@@ -1,5 +1,4 @@
-Didymochora betulina Höhn., 1918 SPECIES
-=======
+# Didymochora betulina Höhn., 1918 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor oblongiellipticus H. Nagan., Hirahara & Seshita ex Pidopl. & Milko, 1971 SPECIES
-=======
+# Mucor oblongiellipticus H. Nagan., Hirahara & Seshita ex Pidopl. & Milko, 1971 SPECIES
 
 #### Status
 ACCEPTED

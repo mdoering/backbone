@@ -1,17 +1,16 @@
-Agaricus ringens var. ringens VARIETY
-=======
+# Panellus ringens (Fr.) Romagn., 1945 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 61: 38 (1945)
 
 #### Original name
-null
+Agaricus ringens Fr., 1828
 
 ### Remarks
 null

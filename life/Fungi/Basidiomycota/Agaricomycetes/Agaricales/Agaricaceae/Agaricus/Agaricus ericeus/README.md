@@ -1,5 +1,4 @@
-Agaricus ericeus Bull. SPECIES
-=======
+# Agaricus ericeus Bull. SPECIES
 
 #### Status
 ACCEPTED

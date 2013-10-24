@@ -1,5 +1,4 @@
-Puccinia cervariae Lindr. SPECIES
-=======
+# Puccinia cervariae Lindr. SPECIES
 
 #### Status
 ACCEPTED

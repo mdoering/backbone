@@ -1,17 +1,16 @@
-Uredo digitariae-violascens Z.C. Chen SPECIES
-=======
+# Uredo digitariae-violascentis Z.C. Chen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Chen, Hu & Koyama, Taiwania 25: 158 (1980)
 
 #### Original name
-Uredo digitariae-violascens Z.C. Chen
+Uredo digitariae-violascentis Z.C. Chen
 
 ### Remarks
 null

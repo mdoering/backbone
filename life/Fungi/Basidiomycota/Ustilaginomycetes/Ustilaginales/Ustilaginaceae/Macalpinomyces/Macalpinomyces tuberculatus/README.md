@@ -1,5 +1,4 @@
-Macalpinomyces tuberculatus Vánky, 2004 SPECIES
-=======
+# Macalpinomyces tuberculatus Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

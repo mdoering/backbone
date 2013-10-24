@@ -1,5 +1,4 @@
-Entomophaga maimaiga Humber, Shimazu & R.S. Soper, 1988 SPECIES
-=======
+# Entomophaga maimaiga Humber, Shimazu & R.S. Soper, 1988 SPECIES
 
 #### Status
 ACCEPTED

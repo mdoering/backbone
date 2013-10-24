@@ -1,14 +1,13 @@
-Adraheutina GENUS
-=======
+# Adrahentina Bilotte, 1978 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Geobios, Lyon 11 (1): 126.
 
 #### Original name
 null

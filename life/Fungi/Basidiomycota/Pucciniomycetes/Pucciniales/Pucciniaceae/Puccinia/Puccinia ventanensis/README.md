@@ -1,5 +1,4 @@
-Puccinia ventanensis J.C. Lindq. SPECIES
-=======
+# Puccinia ventanensis J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

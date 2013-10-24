@@ -1,5 +1,4 @@
-Cercospora drabae Bubák & Kabát SPECIES
-=======
+# Cercospora drabae Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria cinerea (Fuckel) Sacc. SPECIES
-=======
+# Metasphaeria cinerea (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

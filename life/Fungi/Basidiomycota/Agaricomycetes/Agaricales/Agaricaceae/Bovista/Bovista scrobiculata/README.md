@@ -1,5 +1,4 @@
-Bovista scrobiculata (Ces.) De Toni SPECIES
-=======
+# Bovista scrobiculata (Ces.) De Toni SPECIES
 
 #### Status
 ACCEPTED

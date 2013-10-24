@@ -1,5 +1,4 @@
-Colletotrichum canavaliicola Sawada SPECIES
-=======
+# Colletotrichum canavaliicola Sawada SPECIES
 
 #### Status
 ACCEPTED

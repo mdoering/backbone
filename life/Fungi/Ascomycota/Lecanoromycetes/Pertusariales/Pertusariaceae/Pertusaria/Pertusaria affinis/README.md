@@ -1,5 +1,4 @@
-Pertusaria affinis Erichsen SPECIES
-=======
+# Pertusaria affinis Erichsen SPECIES
 
 #### Status
 ACCEPTED

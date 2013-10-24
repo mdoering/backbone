@@ -1,5 +1,4 @@
-Microthyriacites fuxinensis S.L. Zheng & W. Zhang SPECIES
-=======
+# Microthyriacites fuxinensis S.L. Zheng & W. Zhang SPECIES
 
 #### Status
 ACCEPTED

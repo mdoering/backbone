@@ -1,5 +1,4 @@
-Achlya regularis Coker & J. Leitn. SPECIES
-=======
+# Achlya regularis Coker & J. Leitn. SPECIES
 
 #### Status
 ACCEPTED

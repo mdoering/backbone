@@ -1,14 +1,13 @@
-Microsphaera tortilis (Wallr.) Speer, 1979 SPECIES
-=======
+# Erysiphe tortilis (Wallr.) Link, 1824 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 31(1-6): 248 (1979)
+in Willdenow, Sp. pl. , Edn 4 111 (1824)
 
 #### Original name
 Alphitomorpha tortilis Wallr., 1819

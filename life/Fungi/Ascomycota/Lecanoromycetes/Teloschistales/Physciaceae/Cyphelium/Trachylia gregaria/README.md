@@ -1,17 +1,16 @@
-Trachylia gregaria var. gregaria VARIETY
-=======
+# Trachylia gregaria SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Trachylia gregaria var. gregaria
+null
 
 ### Remarks
 null

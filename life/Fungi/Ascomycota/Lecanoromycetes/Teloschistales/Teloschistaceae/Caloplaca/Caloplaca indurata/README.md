@@ -1,5 +1,4 @@
-Caloplaca indurata V. Wirth & Vezda SPECIES
-=======
+# Caloplaca indurata V. Wirth & Vezda SPECIES
 
 #### Status
 ACCEPTED

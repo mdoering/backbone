@@ -1,5 +1,4 @@
-Pseudoclitocybe parvula Raithelh. SPECIES
-=======
+# Pseudoclitocybe parvula Raithelh. SPECIES
 
 #### Status
 ACCEPTED

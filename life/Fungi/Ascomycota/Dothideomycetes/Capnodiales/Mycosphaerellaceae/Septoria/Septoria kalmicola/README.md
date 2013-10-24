@@ -1,14 +1,13 @@
-Septoria kalmiaecola (Schwein.) Berk. & M.A. Curtis SPECIES
-=======
+# Septoria kalmicola (Schwein.) Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Berkeley, Grevillea 3(no. 25): 9 (1874)
 
 #### Original name
 Sphaeria kalmicola Schwein.

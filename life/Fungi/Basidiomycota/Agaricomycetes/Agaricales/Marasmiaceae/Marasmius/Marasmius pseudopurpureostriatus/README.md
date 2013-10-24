@@ -1,5 +1,4 @@
-Marasmius pseudopurpureostriatus Wannathes, Desjardin & Lumyong SPECIES
-=======
+# Marasmius pseudopurpureostriatus Wannathes, Desjardin & Lumyong SPECIES
 
 #### Status
 ACCEPTED

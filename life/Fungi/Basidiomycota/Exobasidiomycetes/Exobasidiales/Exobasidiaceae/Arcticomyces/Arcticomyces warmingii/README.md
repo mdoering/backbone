@@ -1,14 +1,13 @@
-Exobasidium warmingii Rostr., 1888 SPECIES
-=======
+# Arcticomyces warmingii (Rostr.) Savile, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddr Grønland, Biosc. 3: 530 (1888)
+Can. J. Bot. 37: 984 (1959)
 
 #### Original name
 Exobasidium warmingii Rostr., 1888

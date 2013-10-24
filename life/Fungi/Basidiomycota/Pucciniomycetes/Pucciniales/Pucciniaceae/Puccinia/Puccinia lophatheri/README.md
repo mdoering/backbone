@@ -1,8 +1,7 @@
-Puccinia lophantheri (Syd. & P. Syd.) Hirats. f. SPECIES
-=======
+# Puccinia lophatheri (Syd. & P. Syd.) Hirats. f. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

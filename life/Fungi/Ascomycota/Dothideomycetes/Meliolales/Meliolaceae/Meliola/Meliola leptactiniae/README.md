@@ -1,5 +1,4 @@
-Meliola leptactiniae Mibey SPECIES
-=======
+# Meliola leptactiniae Mibey SPECIES
 
 #### Status
 ACCEPTED

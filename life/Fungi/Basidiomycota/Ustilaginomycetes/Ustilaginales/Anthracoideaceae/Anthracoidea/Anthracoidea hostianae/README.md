@@ -1,5 +1,4 @@
-Anthracoidea hostianae B. Lindeb. ex Nannf., 1979 SPECIES
-=======
+# Anthracoidea hostianae B. Lindeb. ex Nannf., 1979 SPECIES
 
 #### Status
 ACCEPTED

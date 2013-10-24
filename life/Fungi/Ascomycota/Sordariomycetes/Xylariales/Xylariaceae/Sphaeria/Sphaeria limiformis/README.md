@@ -1,5 +1,4 @@
-Sphaeria limiformis Schwein. SPECIES
-=======
+# Sphaeria limiformis Schwein. SPECIES
 
 #### Status
 ACCEPTED

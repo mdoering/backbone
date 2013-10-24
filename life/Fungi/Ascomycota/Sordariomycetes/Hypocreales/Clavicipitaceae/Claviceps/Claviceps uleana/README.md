@@ -1,5 +1,4 @@
-Claviceps uleana Henn. SPECIES
-=======
+# Claviceps uleana Henn. SPECIES
 
 #### Status
 ACCEPTED

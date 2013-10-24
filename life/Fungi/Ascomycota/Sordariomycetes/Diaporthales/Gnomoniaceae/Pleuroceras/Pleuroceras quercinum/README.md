@@ -1,5 +1,4 @@
-Pleuroceras quercinum (Teng) M. Monod SPECIES
-=======
+# Pleuroceras quercinum (Teng) M. Monod SPECIES
 
 #### Status
 ACCEPTED

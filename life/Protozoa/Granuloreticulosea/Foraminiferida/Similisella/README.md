@@ -1,5 +1,4 @@
-Similisella Vdovenko in Vdovenko, Gibshman, Lipina & Reitlinger, 1996 GENUS
-=======
+# Similisella Vdovenko in Vdovenko, Gibshman, Lipina & Reitlinger, 1996 GENUS
 
 #### Status
 ACCEPTED

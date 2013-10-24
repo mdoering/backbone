@@ -1,17 +1,16 @@
-Pertusaria whinrayi A. W. Archer SPECIES
-=======
+# Pertusaria knightiana Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 45: 423 (1992)
+Bull. Soc. R. Bot. Belg. 31: 31 (1892)
 
 #### Original name
-Pertusaria whinrayi A. W. Archer
+Pertusaria knightiana Müll. Arg.
 
 ### Remarks
 null

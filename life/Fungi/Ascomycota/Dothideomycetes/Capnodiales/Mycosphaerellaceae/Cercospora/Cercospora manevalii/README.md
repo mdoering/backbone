@@ -1,5 +1,4 @@
-Cercospora manevalii Chupp SPECIES
-=======
+# Cercospora manevalii Chupp SPECIES
 
 #### Status
 ACCEPTED

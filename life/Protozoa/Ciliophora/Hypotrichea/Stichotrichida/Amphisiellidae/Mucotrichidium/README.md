@@ -1,5 +1,4 @@
-Mucotrichidium Foissner, Oleksiv & Müller, 1990 GENUS
-=======
+# Mucotrichidium Foissner, Oleksiv & Müller, 1990 GENUS
 
 #### Status
 ACCEPTED

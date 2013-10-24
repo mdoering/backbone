@@ -1,5 +1,4 @@
-Agaricus clivulorum Letell. SPECIES
-=======
+# Agaricus clivulorum Letell. SPECIES
 
 #### Status
 ACCEPTED

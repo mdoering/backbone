@@ -1,5 +1,4 @@
-Helicomyces niveus Bres. SPECIES
-=======
+# Helicomyces niveus Bres. SPECIES
 
 #### Status
 ACCEPTED

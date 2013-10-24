@@ -1,5 +1,4 @@
-Hebeloma holophaeum (Fr.) SPECIES
-=======
+# Hebeloma holophaeum (Fr.) SPECIES
 
 #### Status
 ACCEPTED

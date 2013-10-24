@@ -1,5 +1,4 @@
-Peziza ellisiana Rehm SPECIES
-=======
+# Peziza ellisiana Rehm SPECIES
 
 #### Status
 ACCEPTED

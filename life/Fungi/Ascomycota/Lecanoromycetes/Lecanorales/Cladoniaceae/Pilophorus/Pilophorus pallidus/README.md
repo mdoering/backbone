@@ -1,5 +1,4 @@
-Pilophorus pallidus (Th. Fr.) Timdal SPECIES
-=======
+# Pilophorus pallidus (Th. Fr.) Timdal SPECIES
 
 #### Status
 ACCEPTED

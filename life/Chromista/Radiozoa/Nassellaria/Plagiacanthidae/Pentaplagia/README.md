@@ -1,5 +1,4 @@
-Pentaplagia GENUS
-=======
+# Pentaplagia GENUS
 
 #### Status
 ACCEPTED

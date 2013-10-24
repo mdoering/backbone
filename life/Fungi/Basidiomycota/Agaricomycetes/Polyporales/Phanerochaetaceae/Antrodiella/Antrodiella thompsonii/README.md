@@ -1,5 +1,4 @@
-Antrodiella thompsonii Vampola & Pouzar, 1996 SPECIES
-=======
+# Antrodiella thompsonii Vampola & Pouzar, 1996 SPECIES
 
 #### Status
 ACCEPTED

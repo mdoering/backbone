@@ -1,5 +1,4 @@
-Anisomeridium biformoides R. C. Harris SPECIES
-=======
+# Anisomeridium biformoides R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

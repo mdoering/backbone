@@ -1,5 +1,4 @@
-Cantharellus eucalyptorum Ducousso, A.M. Ba & Thoen, 2002 SPECIES
-=======
+# Cantharellus eucalyptorum Ducousso, A.M. Ba & Thoen, 2002 SPECIES
 
 #### Status
 ACCEPTED

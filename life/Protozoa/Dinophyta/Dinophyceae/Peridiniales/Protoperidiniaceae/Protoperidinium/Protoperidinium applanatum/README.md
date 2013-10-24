@@ -1,8 +1,7 @@
-Protoperidinium obovatum Wood, 1954 SPECIES
-=======
+# Protoperidinium applanatum (Mangin, 1914) Balech, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

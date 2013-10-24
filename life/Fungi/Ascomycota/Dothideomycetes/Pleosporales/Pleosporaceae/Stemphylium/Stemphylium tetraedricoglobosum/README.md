@@ -1,5 +1,4 @@
-Stemphylium tetraedricoglobosum Bubák & Syd. {?} SPECIES
-=======
+# Stemphylium tetraedricoglobosum Bubák & Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

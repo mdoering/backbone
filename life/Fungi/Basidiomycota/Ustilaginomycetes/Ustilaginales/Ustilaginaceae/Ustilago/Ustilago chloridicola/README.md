@@ -1,5 +1,4 @@
-Ustilago chloridicola Henn. SPECIES
-=======
+# Ustilago chloridicola Henn. SPECIES
 
 #### Status
 ACCEPTED

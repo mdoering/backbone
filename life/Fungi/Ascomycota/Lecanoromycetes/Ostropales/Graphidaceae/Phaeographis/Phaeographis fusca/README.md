@@ -1,5 +1,4 @@
-Phaeographis fusca Staiger SPECIES
-=======
+# Phaeographis fusca Staiger SPECIES
 
 #### Status
 ACCEPTED

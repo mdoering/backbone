@@ -1,5 +1,4 @@
-Sclerotium perpusillum Lasch SPECIES
-=======
+# Sclerotium perpusillum Lasch SPECIES
 
 #### Status
 ACCEPTED

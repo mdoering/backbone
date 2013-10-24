@@ -1,5 +1,4 @@
-Caloplaca araguana Poelt & Hafellner SPECIES
-=======
+# Caloplaca araguana Poelt & Hafellner SPECIES
 
 #### Status
 ACCEPTED

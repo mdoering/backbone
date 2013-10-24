@@ -1,5 +1,4 @@
-Hydrocybe hygrophana Velen. SPECIES
-=======
+# Hydrocybe hygrophana Velen. SPECIES
 
 #### Status
 ACCEPTED

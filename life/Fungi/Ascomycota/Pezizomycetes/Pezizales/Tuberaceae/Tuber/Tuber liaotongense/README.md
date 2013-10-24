@@ -1,5 +1,4 @@
-Tuber liaotongense Y. Wang SPECIES
-=======
+# Tuber liaotongense Y. Wang SPECIES
 
 #### Status
 ACCEPTED

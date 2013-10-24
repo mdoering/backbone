@@ -1,14 +1,13 @@
-Octospora waterstonii (Seaver) K.B. Khare & V.P. Tewari, 1978 SPECIES
-=======
+# Kompsoscypha waterstonii (Seaver) Pfister, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 56(17): 2118 (1978)
+Mem. N. Y. bot. Gdn 49: 343 (1989)
 
 #### Original name
 Humarina waterstonii Seaver, 1939

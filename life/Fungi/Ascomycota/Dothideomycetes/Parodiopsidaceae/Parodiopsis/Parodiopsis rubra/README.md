@@ -1,5 +1,4 @@
-Parodiopsis rubra (G. Arnaud) R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Parodiopsis rubra (G. Arnaud) R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

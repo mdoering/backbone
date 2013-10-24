@@ -1,5 +1,4 @@
-Physcia solistella Essl. & Egan SPECIES
-=======
+# Physcia solistella Essl. & Egan SPECIES
 
 #### Status
 ACCEPTED

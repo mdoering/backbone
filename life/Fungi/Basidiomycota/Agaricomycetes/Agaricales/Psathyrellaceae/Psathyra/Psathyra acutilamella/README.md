@@ -1,5 +1,4 @@
-Psathyra acutilamella (J. Favre) Pilát SPECIES
-=======
+# Psathyra acutilamella (J. Favre) Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Delitschia consociata Mont., 1887 SPECIES
-=======
+# Delitschia consociata Mont., 1887 SPECIES
 
 #### Status
 ACCEPTED

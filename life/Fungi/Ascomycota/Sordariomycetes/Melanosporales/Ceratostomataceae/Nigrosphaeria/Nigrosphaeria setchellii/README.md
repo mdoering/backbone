@@ -1,5 +1,4 @@
-Nigrosphaeria setchellii (Harkn.) N.L. Gardner SPECIES
-=======
+# Nigrosphaeria setchellii (Harkn.) N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Naucoria macrospora var. macrospora J.E. Lange VARIETY
-=======
+# Naucoria salicis P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 43: 318 (1960)
 
 #### Original name
-Naucoria macrospora var. macrospora J.E. Lange
+Naucoria salicis P.D. Orton, 1960
 
 ### Remarks
 null

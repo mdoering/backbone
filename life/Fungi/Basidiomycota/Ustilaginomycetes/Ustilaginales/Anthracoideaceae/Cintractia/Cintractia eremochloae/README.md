@@ -1,5 +1,4 @@
-Cintractia eremochloae Langdon SPECIES
-=======
+# Cintractia eremochloae Langdon SPECIES
 
 #### Status
 ACCEPTED

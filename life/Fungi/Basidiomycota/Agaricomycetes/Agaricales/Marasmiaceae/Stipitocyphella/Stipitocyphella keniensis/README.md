@@ -1,5 +1,4 @@
-Stipitocyphella keniensis G. Kost, 1998 SPECIES
-=======
+# Stipitocyphella keniensis G. Kost, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora chalcophila Vezda SPECIES
-=======
+# Lecanora chalcophila Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma vanhoffeniana Allesch. SPECIES
-=======
+# Phoma vanhoffeniana Allesch. SPECIES
 
 #### Status
 ACCEPTED

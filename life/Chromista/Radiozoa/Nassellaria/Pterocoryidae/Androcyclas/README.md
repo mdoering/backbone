@@ -1,5 +1,4 @@
-Androcyclas Jorgensen, 1905 GENUS
-=======
+# Androcyclas Jorgensen, 1905 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius sabali Berk. SPECIES
-=======
+# Marasmius sabali Berk. SPECIES
 
 #### Status
 ACCEPTED

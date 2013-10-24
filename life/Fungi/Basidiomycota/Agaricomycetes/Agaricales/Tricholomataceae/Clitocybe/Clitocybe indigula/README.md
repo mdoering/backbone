@@ -1,5 +1,4 @@
-Clitocybe indigula (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe indigula (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

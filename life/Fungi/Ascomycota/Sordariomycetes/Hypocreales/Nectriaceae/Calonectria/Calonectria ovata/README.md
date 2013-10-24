@@ -1,5 +1,4 @@
-Calonectria ovata D. Victor & Crous SPECIES
-=======
+# Calonectria ovata D. Victor & Crous SPECIES
 
 #### Status
 ACCEPTED

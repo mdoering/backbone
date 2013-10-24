@@ -1,5 +1,4 @@
-Usnea motykana Bystrek & Wójciak SPECIES
-=======
+# Usnea motykana Bystrek & Wójciak SPECIES
 
 #### Status
 ACCEPTED

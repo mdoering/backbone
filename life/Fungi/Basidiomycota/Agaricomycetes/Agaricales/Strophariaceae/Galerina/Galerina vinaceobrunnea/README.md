@@ -1,5 +1,4 @@
-Galerina vinaceobrunnea A.H. Sm. & Singer SPECIES
-=======
+# Galerina vinaceobrunnea A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola tonduzii Speg. SPECIES
-=======
+# Meliola tonduzii Speg. SPECIES
 
 #### Status
 ACCEPTED

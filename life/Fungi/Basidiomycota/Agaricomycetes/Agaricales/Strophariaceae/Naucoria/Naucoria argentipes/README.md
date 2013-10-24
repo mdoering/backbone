@@ -1,5 +1,4 @@
-Naucoria argentipes Velen. SPECIES
-=======
+# Naucoria argentipes Velen. SPECIES
 
 #### Status
 ACCEPTED

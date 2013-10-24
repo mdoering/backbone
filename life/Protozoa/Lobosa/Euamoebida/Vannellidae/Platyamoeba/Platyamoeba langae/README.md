@@ -1,5 +1,4 @@
-Platyamoeba langae Sawyer, 1975 SPECIES
-=======
+# Platyamoeba langae Sawyer, 1975 SPECIES
 
 #### Status
 ACCEPTED

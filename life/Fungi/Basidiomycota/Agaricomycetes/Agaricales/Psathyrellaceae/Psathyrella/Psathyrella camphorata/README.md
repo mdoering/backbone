@@ -1,5 +1,4 @@
-Psathyrella camphorata A.H. Sm. SPECIES
-=======
+# Psathyrella camphorata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

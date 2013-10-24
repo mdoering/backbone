@@ -1,5 +1,4 @@
-Deferribacteraceae Huber & Stetter, 2002 FAMILY
-=======
+# Deferribacteraceae Huber & Stetter, 2002 FAMILY
 
 #### Status
 ACCEPTED

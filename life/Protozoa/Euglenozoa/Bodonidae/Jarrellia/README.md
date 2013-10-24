@@ -1,5 +1,4 @@
-Jarrellia Poynton, Whitaker & Hienrich, 2001 GENUS
-=======
+# Jarrellia Poynton, Whitaker & Hienrich, 2001 GENUS
 
 #### Status
 ACCEPTED

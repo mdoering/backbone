@@ -1,5 +1,4 @@
-Boletus roseialbus (Murrill) Murrill SPECIES
-=======
+# Boletus roseialbus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

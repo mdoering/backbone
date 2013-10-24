@@ -1,5 +1,4 @@
-Lidophia J. Walker & B. Sutton GENUS
-=======
+# Lidophia J. Walker & B. Sutton GENUS
 
 #### Status
 ACCEPTED

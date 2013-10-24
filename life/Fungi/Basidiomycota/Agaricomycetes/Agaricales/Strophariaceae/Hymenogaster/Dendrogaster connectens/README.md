@@ -1,5 +1,4 @@
-Dendrogaster connectens Bucholtz SPECIES
-=======
+# Dendrogaster connectens Bucholtz SPECIES
 
 #### Status
 ACCEPTED

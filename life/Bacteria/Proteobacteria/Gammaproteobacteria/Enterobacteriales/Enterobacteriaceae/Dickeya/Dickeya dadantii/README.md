@@ -1,5 +1,4 @@
-Dickeya dadantii Samson et al., 2005 SPECIES
-=======
+# Dickeya dadantii Samson et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

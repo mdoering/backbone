@@ -1,5 +1,4 @@
-Asteromella arbuticola (Gucevic) Aa & Vanev SPECIES
-=======
+# Asteromella arbuticola (Gucevic) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

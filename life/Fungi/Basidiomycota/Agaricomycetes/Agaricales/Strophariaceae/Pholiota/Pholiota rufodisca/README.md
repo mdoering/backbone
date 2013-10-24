@@ -1,5 +1,4 @@
-Pholiota rufodisca A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota rufodisca A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

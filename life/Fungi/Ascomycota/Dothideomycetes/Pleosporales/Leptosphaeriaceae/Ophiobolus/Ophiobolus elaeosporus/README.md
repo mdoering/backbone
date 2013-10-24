@@ -1,5 +1,4 @@
-Ophiobolus elaeosporus Sacc. & Paol. SPECIES
-=======
+# Ophiobolus elaeosporus Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

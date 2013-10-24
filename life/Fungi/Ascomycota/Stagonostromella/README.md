@@ -1,5 +1,4 @@
-Stagonostromella Petr. & Syd. GENUS
-=======
+# Stagonostromella Petr. & Syd. GENUS
 
 #### Status
 ACCEPTED

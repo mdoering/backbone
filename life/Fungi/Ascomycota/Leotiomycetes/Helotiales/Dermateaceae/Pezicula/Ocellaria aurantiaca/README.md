@@ -1,5 +1,4 @@
-Ocellaria aurantiaca Rehm SPECIES
-=======
+# Ocellaria aurantiaca Rehm SPECIES
 
 #### Status
 ACCEPTED

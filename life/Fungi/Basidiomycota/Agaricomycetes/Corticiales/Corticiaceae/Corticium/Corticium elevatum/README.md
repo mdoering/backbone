@@ -1,5 +1,4 @@
-Corticium elevatum Berk. & M.A. Curtis SPECIES
-=======
+# Corticium elevatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

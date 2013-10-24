@@ -1,5 +1,4 @@
-Stigmatomyces gracilior Thaxt. SPECIES
-=======
+# Stigmatomyces gracilior Thaxt. SPECIES
 
 #### Status
 ACCEPTED

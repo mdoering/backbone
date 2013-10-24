@@ -1,5 +1,4 @@
-Biatora adancta Harm. SPECIES
-=======
+# Biatora adancta Harm. SPECIES
 
 #### Status
 ACCEPTED

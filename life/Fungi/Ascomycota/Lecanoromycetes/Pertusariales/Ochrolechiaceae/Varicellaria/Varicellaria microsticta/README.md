@@ -1,14 +1,13 @@
-Varicellaria rhodocarpa var. microsticta (Nyl.) Räsänen VARIETY
-=======
+# Varicellaria microsticta Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mém. Soc. natn. Sci. nat. math. Cherbourg 5: (1858)
 
 #### Original name
 Varicellaria microsticta Nyl.

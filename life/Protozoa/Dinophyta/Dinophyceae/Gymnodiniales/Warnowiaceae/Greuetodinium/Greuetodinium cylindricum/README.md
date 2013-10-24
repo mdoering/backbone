@@ -1,5 +1,4 @@
-Greuetodinium cylindricum Loeblich SPECIES
-=======
+# Greuetodinium cylindricum Loeblich SPECIES
 
 #### Status
 ACCEPTED

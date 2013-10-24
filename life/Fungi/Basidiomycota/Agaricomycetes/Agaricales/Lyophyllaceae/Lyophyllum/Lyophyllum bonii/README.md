@@ -1,5 +1,4 @@
-Lyophyllum bonii Contu SPECIES
-=======
+# Lyophyllum bonii Contu SPECIES
 
 #### Status
 ACCEPTED

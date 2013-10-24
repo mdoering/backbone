@@ -1,5 +1,4 @@
-Lecanactis patellula (Fée) Nyl. SPECIES
-=======
+# Lecanactis patellula (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pilayella Bory de Saint-Vincent, 1823 GENUS
-=======
+# Pilayella Bory de Saint-Vincent, 1823 GENUS
 
 #### Status
 ACCEPTED

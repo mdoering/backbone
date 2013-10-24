@@ -1,17 +1,16 @@
-Gelopellidaceae FAMILY
-=======
+# Claustulaceae G. Cunn. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Linn. Soc. N. S. W. 56: 198 (1931)
 
 #### Original name
-null
+Claustulaceae G. Cunn.
 
 ### Remarks
 null

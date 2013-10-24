@@ -1,5 +1,4 @@
-Puccinia araujae var. araujae VARIETY
-=======
+# Puccinia araujae Lév. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia araujae var. araujae
+Puccinia araujae Lév.
 
 ### Remarks
 null

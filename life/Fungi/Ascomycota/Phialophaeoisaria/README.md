@@ -1,5 +1,4 @@
-Phialophaeoisaria Matsush. GENUS
-=======
+# Phialophaeoisaria Matsush. GENUS
 
 #### Status
 ACCEPTED

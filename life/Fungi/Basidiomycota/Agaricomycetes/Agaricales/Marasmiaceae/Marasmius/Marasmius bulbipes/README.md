@@ -1,5 +1,4 @@
-Marasmius bulbipes Mont. SPECIES
-=======
+# Marasmius bulbipes Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globaria lauterbachii Henn. SPECIES
-=======
+# Globaria lauterbachii Henn. SPECIES
 
 #### Status
 ACCEPTED

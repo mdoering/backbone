@@ -1,5 +1,4 @@
-Amycolatopsis Lechevalier et al., 1986 GENUS
-=======
+# Amycolatopsis Lechevalier et al., 1986 GENUS
 
 #### Status
 ACCEPTED

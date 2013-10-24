@@ -1,5 +1,4 @@
-Aspergillus panamaensis Raper & Thom SPECIES
-=======
+# Aspergillus panamaensis Raper & Thom SPECIES
 
 #### Status
 ACCEPTED

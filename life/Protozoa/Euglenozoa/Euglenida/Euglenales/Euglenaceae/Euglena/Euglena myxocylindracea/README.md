@@ -1,5 +1,4 @@
-Euglena myxocylindracea Bold & McIntee SPECIES
-=======
+# Euglena myxocylindracea Bold & McIntee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma rodwayi (Massee) E. Horak SPECIES
-=======
+# Entoloma rodwayi (Massee) E. Horak SPECIES
 
 #### Status
 ACCEPTED

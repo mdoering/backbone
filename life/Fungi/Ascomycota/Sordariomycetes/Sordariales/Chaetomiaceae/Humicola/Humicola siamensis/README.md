@@ -1,5 +1,4 @@
-Humicola siamensis Chatmala & E.B.G. Jones, 2006 SPECIES
-=======
+# Humicola siamensis Chatmala & E.B.G. Jones, 2006 SPECIES
 
 #### Status
 ACCEPTED

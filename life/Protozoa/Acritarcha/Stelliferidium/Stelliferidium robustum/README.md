@@ -1,5 +1,4 @@
-Stelliferidium robustum Moczydlowska, 1998 SPECIES
-=======
+# Stelliferidium robustum Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

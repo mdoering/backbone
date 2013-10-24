@@ -1,5 +1,4 @@
-Cordyceps caespitosa (Tul. & C. Tul.) Sacc. SPECIES
-=======
+# Cordyceps caespitosa (Tul. & C. Tul.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

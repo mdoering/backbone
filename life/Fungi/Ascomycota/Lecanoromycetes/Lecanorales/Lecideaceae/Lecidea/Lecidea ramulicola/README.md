@@ -1,5 +1,4 @@
-Lecidea ramulicola H. Magn. SPECIES
-=======
+# Lecidea ramulicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius rickenianorum Rob. Henry SPECIES
-=======
+# Cortinarius rickenianorum Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

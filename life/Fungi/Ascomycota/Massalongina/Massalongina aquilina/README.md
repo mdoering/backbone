@@ -1,14 +1,13 @@
-Phomopsis aquilina (C. Massal.) Petr. SPECIES
-=======
+# Massalongina aquilina (C. Massal.) Bubák, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19: 204 (1921)
+Ber. dt. bot. Ges. 34: 319 (1916)
 
 #### Original name
 Leptostromella aquilina C. Massal., 1889

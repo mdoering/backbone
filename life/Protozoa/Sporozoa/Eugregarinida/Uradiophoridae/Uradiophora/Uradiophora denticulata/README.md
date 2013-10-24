@@ -1,5 +1,4 @@
-Uradiophora denticulata H. Hoshide, 1969 SPECIES
-=======
+# Uradiophora denticulata H. Hoshide, 1969 SPECIES
 
 #### Status
 ACCEPTED

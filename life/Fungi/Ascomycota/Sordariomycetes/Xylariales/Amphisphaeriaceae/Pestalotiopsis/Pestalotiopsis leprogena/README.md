@@ -1,5 +1,4 @@
-Pestalotiopsis leprogena (Speg.) Steyaert SPECIES
-=======
+# Pestalotiopsis leprogena (Speg.) Steyaert SPECIES
 
 #### Status
 ACCEPTED

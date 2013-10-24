@@ -1,5 +1,4 @@
-Phialea nigritula Rehm SPECIES
-=======
+# Phialea nigritula Rehm SPECIES
 
 #### Status
 ACCEPTED

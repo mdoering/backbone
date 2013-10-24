@@ -1,5 +1,4 @@
-Phoma corallorhizae Ellis & Everh. SPECIES
-=======
+# Phoma corallorhizae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

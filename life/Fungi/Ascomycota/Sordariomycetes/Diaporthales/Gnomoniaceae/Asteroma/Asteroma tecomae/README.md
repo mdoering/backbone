@@ -1,5 +1,4 @@
-Asteroma tecomae Allesch. SPECIES
-=======
+# Asteroma tecomae Allesch. SPECIES
 
 #### Status
 ACCEPTED

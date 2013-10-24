@@ -1,5 +1,4 @@
-Leucoagaricus olivaceomamillatus (Rick) Singer SPECIES
-=======
+# Leucoagaricus olivaceomamillatus (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

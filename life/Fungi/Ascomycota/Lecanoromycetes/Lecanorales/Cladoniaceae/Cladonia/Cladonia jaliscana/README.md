@@ -1,5 +1,4 @@
-Cladonia jaliscana Ahti & Guzm.-Dáv. SPECIES
-=======
+# Cladonia jaliscana Ahti & Guzm.-Dáv. SPECIES
 
 #### Status
 ACCEPTED

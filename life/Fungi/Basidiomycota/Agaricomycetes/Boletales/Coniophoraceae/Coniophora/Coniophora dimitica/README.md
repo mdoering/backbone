@@ -1,5 +1,4 @@
-Coniophora dimitica G. Cunn., 1957 SPECIES
-=======
+# Coniophora dimitica G. Cunn., 1957 SPECIES
 
 #### Status
 ACCEPTED

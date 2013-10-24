@@ -1,5 +1,4 @@
-Herpotrichia occulta Rick SPECIES
-=======
+# Herpotrichia occulta Rick SPECIES
 
 #### Status
 ACCEPTED

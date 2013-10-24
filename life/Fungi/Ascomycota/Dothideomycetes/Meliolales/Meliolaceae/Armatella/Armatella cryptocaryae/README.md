@@ -1,5 +1,4 @@
-Armatella cryptocaryae Hosag. SPECIES
-=======
+# Armatella cryptocaryae Hosag. SPECIES
 
 #### Status
 ACCEPTED

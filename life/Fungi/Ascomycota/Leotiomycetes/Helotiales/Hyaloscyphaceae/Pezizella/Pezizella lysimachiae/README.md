@@ -1,5 +1,4 @@
-Pezizella lysimachiae Velen. SPECIES
-=======
+# Pezizella lysimachiae Velen. SPECIES
 
 #### Status
 ACCEPTED

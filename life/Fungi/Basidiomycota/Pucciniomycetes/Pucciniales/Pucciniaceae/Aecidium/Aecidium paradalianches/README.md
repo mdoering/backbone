@@ -1,5 +1,4 @@
-Aecidium paradalianches Bergam. SPECIES
-=======
+# Aecidium paradalianches Bergam. SPECIES
 
 #### Status
 ACCEPTED

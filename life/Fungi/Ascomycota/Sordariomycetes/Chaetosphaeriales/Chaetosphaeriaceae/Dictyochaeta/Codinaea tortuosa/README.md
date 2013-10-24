@@ -1,5 +1,4 @@
-Codinaea tortuosa B. Sutton SPECIES
-=======
+# Codinaea tortuosa B. Sutton SPECIES
 
 #### Status
 ACCEPTED

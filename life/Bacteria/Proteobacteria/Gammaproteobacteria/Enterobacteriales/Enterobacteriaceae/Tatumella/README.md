@@ -1,5 +1,4 @@
-Tatumella Hollis et al., 1982 GENUS
-=======
+# Tatumella Hollis et al., 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia menthae Sacc. SPECIES
-=======
+# Diplodia menthae Sacc. SPECIES
 
 #### Status
 ACCEPTED

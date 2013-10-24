@@ -1,5 +1,4 @@
-Entoloma pseudocostatum Largent SPECIES
-=======
+# Entoloma pseudocostatum Largent SPECIES
 
 #### Status
 ACCEPTED

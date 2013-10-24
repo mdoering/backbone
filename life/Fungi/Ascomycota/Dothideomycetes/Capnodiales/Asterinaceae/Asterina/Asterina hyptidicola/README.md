@@ -1,5 +1,4 @@
-Asterina hyptidicola Hosag., 2006 SPECIES
-=======
+# Asterina hyptidicola Hosag., 2006 SPECIES
 
 #### Status
 ACCEPTED

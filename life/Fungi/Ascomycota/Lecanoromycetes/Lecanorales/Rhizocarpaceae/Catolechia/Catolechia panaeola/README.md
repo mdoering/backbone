@@ -1,5 +1,4 @@
-Catolechia panaeola (Ach.) A. Massal. SPECIES
-=======
+# Catolechia panaeola (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

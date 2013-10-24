@@ -1,5 +1,4 @@
-Didymobotryum atrum Pat. SPECIES
-=======
+# Didymobotryum atrum Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sethomelissa Haeckel, 1881 GENUS
-=======
+# Sethomelissa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

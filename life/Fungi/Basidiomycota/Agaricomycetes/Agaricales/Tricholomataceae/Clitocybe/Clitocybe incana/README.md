@@ -1,5 +1,4 @@
-Clitocybe incana Quél. SPECIES
-=======
+# Clitocybe incana Quél. SPECIES
 
 #### Status
 ACCEPTED

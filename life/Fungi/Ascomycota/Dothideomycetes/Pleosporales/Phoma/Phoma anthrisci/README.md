@@ -1,5 +1,4 @@
-Phoma anthrisci Brunaud, 1890 SPECIES
-=======
+# Phoma anthrisci Brunaud, 1890 SPECIES
 
 #### Status
 ACCEPTED

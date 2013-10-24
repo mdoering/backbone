@@ -1,5 +1,4 @@
-Chaetoceros vanheurckii H.H. Gran, 1897 SPECIES
-=======
+# Chaetoceros vanheurckii H.H. Gran, 1897 SPECIES
 
 #### Status
 ACCEPTED

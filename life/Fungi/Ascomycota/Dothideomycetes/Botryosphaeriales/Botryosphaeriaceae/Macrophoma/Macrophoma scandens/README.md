@@ -1,5 +1,4 @@
-Macrophoma scandens Sacc. SPECIES
-=======
+# Macrophoma scandens Sacc. SPECIES
 
 #### Status
 ACCEPTED

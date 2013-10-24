@@ -1,5 +1,4 @@
-Stigmidium disconephromeum Etayo, 2008 SPECIES
-=======
+# Stigmidium disconephromeum Etayo, 2008 SPECIES
 
 #### Status
 ACCEPTED

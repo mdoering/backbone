@@ -1,5 +1,4 @@
-Melosira agassizii var. malayensis Hustedt VARIETY
-=======
+# Melosira agassizii Ostenfeld SPECIES
 
 #### Status
 ACCEPTED

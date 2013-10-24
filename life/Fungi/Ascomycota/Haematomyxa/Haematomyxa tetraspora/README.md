@@ -1,5 +1,4 @@
-Haematomyxa tetraspora E.K. Cash SPECIES
-=======
+# Haematomyxa tetraspora E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

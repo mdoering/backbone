@@ -1,5 +1,4 @@
-Labrella potentillae Fuckel SPECIES
-=======
+# Labrella potentillae Fuckel SPECIES
 
 #### Status
 ACCEPTED

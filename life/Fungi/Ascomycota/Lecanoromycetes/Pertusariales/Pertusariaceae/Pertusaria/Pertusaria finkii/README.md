@@ -1,5 +1,4 @@
-Pertusaria finkii Zahlbr. SPECIES
-=======
+# Pertusaria finkii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

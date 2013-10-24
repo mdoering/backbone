@@ -1,5 +1,4 @@
-Dasyscyphus crucipila (Cooke & W. Phillips) SPECIES
-=======
+# Dasyscyphus crucipila (Cooke & W. Phillips) SPECIES
 
 #### Status
 ACCEPTED

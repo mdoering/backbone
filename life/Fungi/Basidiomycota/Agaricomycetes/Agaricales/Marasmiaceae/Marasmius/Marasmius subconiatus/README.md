@@ -1,5 +1,4 @@
-Marasmius subconiatus Petch SPECIES
-=======
+# Marasmius subconiatus Petch SPECIES
 
 #### Status
 ACCEPTED

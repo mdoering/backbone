@@ -1,5 +1,4 @@
-Aspicilia pseudolivacea (Zahlbr.) SPECIES
-=======
+# Aspicilia pseudolivacea (Zahlbr.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma aelopodum SPECIES
-=======
+# Hypholoma aelopodum SPECIES
 
 #### Status
 ACCEPTED

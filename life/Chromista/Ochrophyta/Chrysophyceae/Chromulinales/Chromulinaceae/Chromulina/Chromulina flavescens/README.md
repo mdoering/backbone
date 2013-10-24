@@ -1,5 +1,4 @@
-Chromulina flavescens Butschli SPECIES
-=======
+# Chromulina flavescens Butschli SPECIES
 
 #### Status
 ACCEPTED

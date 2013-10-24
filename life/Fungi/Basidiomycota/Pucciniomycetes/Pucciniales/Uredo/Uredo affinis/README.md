@@ -1,5 +1,4 @@
-Uredo affinis Speg., 1880 SPECIES
-=======
+# Uredo affinis Speg., 1880 SPECIES
 
 #### Status
 ACCEPTED

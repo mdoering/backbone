@@ -1,5 +1,4 @@
-Calvatia purpurea (Lloyd) I.R. Hall, P.K. Buchanan, Wang {?} & Cole SPECIES
-=======
+# Calvatia purpurea (Lloyd) I.R. Hall, P.K. Buchanan, Wang {?} & Cole SPECIES
 
 #### Status
 ACCEPTED

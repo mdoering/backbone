@@ -1,5 +1,4 @@
-Gyrophora caretteana Räsänen SPECIES
-=======
+# Gyrophora caretteana Räsänen SPECIES
 
 #### Status
 ACCEPTED

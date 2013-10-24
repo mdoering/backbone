@@ -1,5 +1,4 @@
-Nassula gutturata Gajewskaja, 1927 SPECIES
-=======
+# Nassula gutturata Gajewskaja, 1927 SPECIES
 
 #### Status
 ACCEPTED

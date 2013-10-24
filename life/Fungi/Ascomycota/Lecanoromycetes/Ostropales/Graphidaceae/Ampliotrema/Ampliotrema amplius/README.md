@@ -1,5 +1,4 @@
-Ampliotrema amplius (Nyl.) Kalb SPECIES
-=======
+# Ampliotrema amplius (Nyl.) Kalb SPECIES
 
 #### Status
 ACCEPTED

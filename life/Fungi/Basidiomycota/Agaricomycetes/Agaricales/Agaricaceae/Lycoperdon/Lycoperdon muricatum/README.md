@@ -1,5 +1,4 @@
-Lycoperdon muricatum Batsch SPECIES
-=======
+# Lycoperdon muricatum Batsch SPECIES
 
 #### Status
 ACCEPTED

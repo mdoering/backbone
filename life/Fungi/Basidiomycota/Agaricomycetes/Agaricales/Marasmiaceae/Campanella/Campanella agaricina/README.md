@@ -1,5 +1,4 @@
-Campanella agaricina (Mont.) Lloyd SPECIES
-=======
+# Campanella agaricina (Mont.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

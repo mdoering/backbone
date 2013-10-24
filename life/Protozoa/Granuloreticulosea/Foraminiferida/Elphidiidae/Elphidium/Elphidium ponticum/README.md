@@ -1,5 +1,4 @@
-Elphidium ponticum (Dolgopolskaja & Pauli, 1931) SPECIES
-=======
+# Elphidium ponticum (Dolgopolskaja & Pauli, 1931) SPECIES
 
 #### Status
 ACCEPTED

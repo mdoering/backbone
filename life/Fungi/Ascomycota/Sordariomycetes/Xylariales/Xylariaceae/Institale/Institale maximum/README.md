@@ -1,5 +1,4 @@
-Institale maximum Schwein. SPECIES
-=======
+# Institale maximum Schwein. SPECIES
 
 #### Status
 ACCEPTED

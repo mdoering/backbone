@@ -1,5 +1,4 @@
-Pseudohelotium lividum Bacc. SPECIES
-=======
+# Pseudohelotium lividum Bacc. SPECIES
 
 #### Status
 ACCEPTED

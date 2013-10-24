@@ -1,5 +1,4 @@
-Lachnum britzelmayrionum Rehm, 1893 SPECIES
-=======
+# Lachnum britzelmayrionum Rehm, 1893 SPECIES
 
 #### Status
 ACCEPTED

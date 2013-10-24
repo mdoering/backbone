@@ -1,5 +1,4 @@
-Graphis insulana (Müll. Arg.) Lücking & Sipman SPECIES
-=======
+# Graphis insulana (Müll. Arg.) Lücking & Sipman SPECIES
 
 #### Status
 ACCEPTED

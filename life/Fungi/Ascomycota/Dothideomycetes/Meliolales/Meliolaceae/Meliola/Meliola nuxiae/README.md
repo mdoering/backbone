@@ -1,5 +1,4 @@
-Meliola nuxiae (Syd.) Cif. SPECIES
-=======
+# Meliola nuxiae (Syd.) Cif. SPECIES
 
 #### Status
 ACCEPTED

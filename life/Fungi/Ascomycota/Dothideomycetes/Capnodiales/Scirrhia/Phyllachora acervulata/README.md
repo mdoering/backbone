@@ -1,5 +1,4 @@
-Phyllachora acervulata (Schwein. ex Fr.) Sacc., 1883 SPECIES
-=======
+# Phyllachora acervulata (Schwein. ex Fr.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

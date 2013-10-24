@@ -1,5 +1,4 @@
-Melzerodontia aculeata Hjortstam & Ryvarden, 1980 SPECIES
-=======
+# Melzerodontia aculeata Hjortstam & Ryvarden, 1980 SPECIES
 
 #### Status
 ACCEPTED

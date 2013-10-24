@@ -1,5 +1,4 @@
-Sphaeria osculanda Preuss SPECIES
-=======
+# Sphaeria osculanda Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phaeochaetia clavatispora var. globosa Bat., Cif. & Nascim. VARIETY
-=======
+# Aithaloderma clavatisporum Syd. & P. Syd., 1913 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 11(3): 257 (1913)
 
 #### Original name
-Phaeochaetia clavatispora var. globosa Bat., Cif. & Nascim.
+Aithaloderma clavatisporum Syd. & P. Syd., 1913
 
 ### Remarks
 null

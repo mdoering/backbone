@@ -1,5 +1,4 @@
-Marasmius gardneri Singer SPECIES
-=======
+# Marasmius gardneri Singer SPECIES
 
 #### Status
 ACCEPTED

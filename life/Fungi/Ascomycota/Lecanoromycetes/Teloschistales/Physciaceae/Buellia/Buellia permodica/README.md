@@ -1,5 +1,4 @@
-Buellia permodica (Stizenb.) Zahlbr. SPECIES
-=======
+# Buellia permodica (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

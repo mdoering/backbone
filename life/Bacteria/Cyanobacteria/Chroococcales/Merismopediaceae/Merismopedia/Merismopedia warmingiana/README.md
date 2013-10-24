@@ -1,5 +1,4 @@
-Merismopedia warmingiana Lagerheim SPECIES
-=======
+# Merismopedia warmingiana Lagerheim SPECIES
 
 #### Status
 ACCEPTED

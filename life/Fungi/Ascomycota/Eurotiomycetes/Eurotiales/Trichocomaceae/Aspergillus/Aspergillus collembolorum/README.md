@@ -1,5 +1,4 @@
-Aspergillus collembolorum Dörfelt & A.R. Schmidt SPECIES
-=======
+# Aspergillus collembolorum Dörfelt & A.R. Schmidt SPECIES
 
 #### Status
 ACCEPTED

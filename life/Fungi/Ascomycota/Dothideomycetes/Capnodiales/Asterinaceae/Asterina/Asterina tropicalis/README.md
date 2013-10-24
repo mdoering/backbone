@@ -1,5 +1,4 @@
-Asterina tropicalis Speg. SPECIES
-=======
+# Asterina tropicalis Speg. SPECIES
 
 #### Status
 ACCEPTED

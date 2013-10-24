@@ -1,5 +1,4 @@
-Lecanographa Egea & Torrente, 1994 GENUS
-=======
+# Lecanographa Egea & Torrente, 1994 GENUS
 
 #### Status
 ACCEPTED

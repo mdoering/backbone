@@ -1,5 +1,4 @@
-Hypoxylon viridicolor P.M.D. Martin SPECIES
-=======
+# Hypoxylon viridicolor P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

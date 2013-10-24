@@ -1,5 +1,4 @@
-Auerswaldiella disciformis Chardón SPECIES
-=======
+# Auerswaldiella disciformis Chardón SPECIES
 
 #### Status
 ACCEPTED

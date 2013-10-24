@@ -1,5 +1,4 @@
-Nanostictis pseudocyphellariae Sherwood SPECIES
-=======
+# Nanostictis pseudocyphellariae Sherwood SPECIES
 
 #### Status
 ACCEPTED

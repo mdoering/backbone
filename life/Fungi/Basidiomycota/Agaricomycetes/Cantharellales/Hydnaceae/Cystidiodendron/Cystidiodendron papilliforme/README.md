@@ -1,5 +1,4 @@
-Cystidiodendron papilliforme Rick SPECIES
-=======
+# Cystidiodendron papilliforme Rick SPECIES
 
 #### Status
 ACCEPTED

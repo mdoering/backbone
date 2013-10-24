@@ -1,5 +1,4 @@
-Schineria larvae Toth et al., 2001 SPECIES
-=======
+# Schineria larvae Toth et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

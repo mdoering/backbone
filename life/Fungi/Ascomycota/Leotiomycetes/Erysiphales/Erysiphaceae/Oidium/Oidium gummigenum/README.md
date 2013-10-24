@@ -1,5 +1,4 @@
-Oidium gummigenum Mont. SPECIES
-=======
+# Oidium gummigenum Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorokina bogoriensis Henn. & E. Nyman SPECIES
-=======
+# Sorokina bogoriensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

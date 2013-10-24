@@ -1,5 +1,4 @@
-Homozygosphaera vercellii Borsetti & Cati, 1979 SPECIES
-=======
+# Homozygosphaera vercellii Borsetti & Cati, 1979 SPECIES
 
 #### Status
 ACCEPTED

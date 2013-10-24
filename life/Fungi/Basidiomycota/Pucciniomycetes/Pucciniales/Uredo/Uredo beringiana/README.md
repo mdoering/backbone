@@ -1,5 +1,4 @@
-Uredo beringiana (Tranzschel) Parmelee SPECIES
-=======
+# Uredo beringiana (Tranzschel) Parmelee SPECIES
 
 #### Status
 ACCEPTED

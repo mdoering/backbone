@@ -1,5 +1,4 @@
-Uromyces tricorynes McAlpine SPECIES
-=======
+# Uromyces tricorynes McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erineum hyperici Pers. SPECIES
-=======
+# Erineum hyperici Pers. SPECIES
 
 #### Status
 ACCEPTED

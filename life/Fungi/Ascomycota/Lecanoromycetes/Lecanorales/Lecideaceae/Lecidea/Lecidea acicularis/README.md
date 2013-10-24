@@ -1,5 +1,4 @@
-Lecidea acicularis (Anzi) Samp. SPECIES
-=======
+# Lecidea acicularis (Anzi) Samp. SPECIES
 
 #### Status
 ACCEPTED

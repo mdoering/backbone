@@ -1,5 +1,4 @@
-Baltisphaeridium excisum (Naumova, 1950) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium excisum (Naumova, 1950) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

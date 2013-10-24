@@ -1,5 +1,4 @@
-Lecania pacifica B. D. Ryan & van den Boom SPECIES
-=======
+# Lecania pacifica B. D. Ryan & van den Boom SPECIES
 
 #### Status
 ACCEPTED

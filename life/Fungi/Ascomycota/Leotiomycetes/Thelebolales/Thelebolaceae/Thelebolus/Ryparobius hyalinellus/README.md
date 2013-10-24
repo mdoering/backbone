@@ -1,5 +1,4 @@
-Ryparobius hyalinellus (P. Karst.) Sacc. SPECIES
-=======
+# Ryparobius hyalinellus (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

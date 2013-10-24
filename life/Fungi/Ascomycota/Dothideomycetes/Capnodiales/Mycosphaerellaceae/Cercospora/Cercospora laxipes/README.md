@@ -1,5 +1,4 @@
-Cercospora laxipes Davis SPECIES
-=======
+# Cercospora laxipes Davis SPECIES
 
 #### Status
 ACCEPTED

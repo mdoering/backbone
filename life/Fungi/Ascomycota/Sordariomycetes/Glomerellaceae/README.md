@@ -1,5 +1,4 @@
-Glomerellaceae Locq. FAMILY
-=======
+# Glomerellaceae Locq. FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxomphalia Hora, 1960 GENUS
-=======
+# Myxomphalia Hora, 1960 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria flavovelata Elix & A.W. Archer SPECIES
-=======
+# Pertusaria flavovelata Elix & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

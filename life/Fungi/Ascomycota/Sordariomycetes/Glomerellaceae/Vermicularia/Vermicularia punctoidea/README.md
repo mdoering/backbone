@@ -1,5 +1,4 @@
-Vermicularia punctoidea P. Karst. SPECIES
-=======
+# Vermicularia punctoidea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

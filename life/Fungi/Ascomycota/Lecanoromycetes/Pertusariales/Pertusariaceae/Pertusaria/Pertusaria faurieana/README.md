@@ -1,5 +1,4 @@
-Pertusaria faurieana Zahlbr. SPECIES
-=======
+# Pertusaria faurieana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

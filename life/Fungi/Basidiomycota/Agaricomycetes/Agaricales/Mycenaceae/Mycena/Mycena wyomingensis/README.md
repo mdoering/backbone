@@ -1,5 +1,4 @@
-Mycena wyomingensis A.H. Sm. & Arenb. SPECIES
-=======
+# Mycena wyomingensis A.H. Sm. & Arenb. SPECIES
 
 #### Status
 ACCEPTED

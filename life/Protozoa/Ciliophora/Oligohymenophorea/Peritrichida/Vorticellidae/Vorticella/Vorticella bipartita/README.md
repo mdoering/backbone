@@ -1,5 +1,4 @@
-Vorticella bipartita Dumas, 1929 SPECIES
-=======
+# Vorticella bipartita Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

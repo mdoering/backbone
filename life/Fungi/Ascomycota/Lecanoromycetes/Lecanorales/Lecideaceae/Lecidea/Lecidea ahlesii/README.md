@@ -1,17 +1,16 @@
-Lecidea ahlesii var. ahlesii VARIETY
-=======
+# Lecidea ahlesii (Körb.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 55: 356 (1872)
 
 #### Original name
-null
+Biatora ahlesii Körb.
 
 ### Remarks
 null

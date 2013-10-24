@@ -1,5 +1,4 @@
-Corticium queletii Bres. SPECIES
-=======
+# Corticium queletii Bres. SPECIES
 
 #### Status
 ACCEPTED

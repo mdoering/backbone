@@ -1,5 +1,4 @@
-Lecidea hypsophila Nyl. SPECIES
-=======
+# Lecidea hypsophila Nyl. SPECIES
 
 #### Status
 ACCEPTED

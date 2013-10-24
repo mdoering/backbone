@@ -1,5 +1,4 @@
-Trochila oxycoccos P. Karst. SPECIES
-=======
+# Trochila oxycoccos P. Karst. SPECIES
 
 #### Status
 ACCEPTED

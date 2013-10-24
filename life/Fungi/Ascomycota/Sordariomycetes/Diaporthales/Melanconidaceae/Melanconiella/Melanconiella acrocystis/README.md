@@ -1,5 +1,4 @@
-Melanconiella acrocystis (Peck) Berl. & Voglino SPECIES
-=======
+# Melanconiella acrocystis (Peck) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

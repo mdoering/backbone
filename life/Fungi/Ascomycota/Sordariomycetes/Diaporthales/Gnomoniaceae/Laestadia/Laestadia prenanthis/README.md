@@ -1,5 +1,4 @@
-Laestadia prenanthis Ellis & Everh. SPECIES
-=======
+# Laestadia prenanthis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

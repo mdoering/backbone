@@ -1,5 +1,4 @@
-Dendryphiella dregeae A.N. Rai & Kamal SPECIES
-=======
+# Dendryphiella dregeae A.N. Rai & Kamal SPECIES
 
 #### Status
 ACCEPTED

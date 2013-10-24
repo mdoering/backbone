@@ -1,5 +1,4 @@
-Protoperidinium bipes (Paulsen) Balech SPECIES
-=======
+# Protoperidinium bipes (Paulsen) Balech SPECIES
 
 #### Status
 ACCEPTED

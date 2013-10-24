@@ -1,5 +1,4 @@
-Schismatomma inferius (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Schismatomma inferius (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

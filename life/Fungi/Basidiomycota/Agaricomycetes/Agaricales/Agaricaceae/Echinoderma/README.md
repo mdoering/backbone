@@ -1,5 +1,4 @@
-Echinoderma GENUS
-=======
+# Echinoderma GENUS
 
 #### Status
 ACCEPTED

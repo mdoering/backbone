@@ -1,5 +1,4 @@
-Lecanora candelaria var. candelaria VARIETY
-=======
+# Lecanora candelaria (Weber ex F.H. Wigg.) Hook. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Placodium candelarium
 
 ### Remarks
 null

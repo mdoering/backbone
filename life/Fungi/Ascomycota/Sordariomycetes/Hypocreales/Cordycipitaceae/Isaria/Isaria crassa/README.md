@@ -1,5 +1,4 @@
-Isaria crassa Pers. SPECIES
-=======
+# Isaria crassa Pers. SPECIES
 
 #### Status
 ACCEPTED

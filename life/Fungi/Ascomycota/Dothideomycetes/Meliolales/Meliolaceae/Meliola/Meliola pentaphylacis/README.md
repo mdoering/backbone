@@ -1,5 +1,4 @@
-Meliola pentaphylacis B. Song & Y.X. Hu SPECIES
-=======
+# Meliola pentaphylacis B. Song & Y.X. Hu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus inopus Fr. SPECIES
-=======
+# Agaricus inopus Fr. SPECIES
 
 #### Status
 ACCEPTED

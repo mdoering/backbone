@@ -1,5 +1,4 @@
-Parmotrema spinibarbe (Kurok.) Hale ex DePriest & B.W. Hale SPECIES
-=======
+# Parmotrema spinibarbe (Kurok.) Hale ex DePriest & B.W. Hale SPECIES
 
 #### Status
 ACCEPTED

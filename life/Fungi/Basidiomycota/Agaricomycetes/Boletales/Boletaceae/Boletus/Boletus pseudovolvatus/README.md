@@ -1,5 +1,4 @@
-Boletus pseudovolvatus Leuba SPECIES
-=======
+# Boletus pseudovolvatus Leuba SPECIES
 
 #### Status
 ACCEPTED

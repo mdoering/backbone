@@ -1,5 +1,4 @@
-Cucurbitaria moriformis (Fuckel) M.E. Barr SPECIES
-=======
+# Cucurbitaria moriformis (Fuckel) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

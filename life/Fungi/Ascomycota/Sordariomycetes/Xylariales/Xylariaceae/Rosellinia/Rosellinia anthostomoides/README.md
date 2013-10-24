@@ -1,5 +1,4 @@
-Rosellinia anthostomoides Berl., 1889 SPECIES
-=======
+# Rosellinia anthostomoides Berl., 1889 SPECIES
 
 #### Status
 ACCEPTED

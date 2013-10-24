@@ -1,5 +1,4 @@
-Cercospora narthecii Balf.-Browne SPECIES
-=======
+# Cercospora narthecii Balf.-Browne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Xylaria pallida-ostiolata Henn. SPECIES
-=======
+# Xylaria pallido-ostiolata Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylaria pallida-ostiolata Henn.
+Xylaria pallido-ostiolata Henn.
 
 ### Remarks
 null

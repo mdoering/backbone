@@ -1,5 +1,4 @@
-Thelotrema deightonii C.W. Dodge SPECIES
-=======
+# Thelotrema deightonii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mesocena hexagona Haeckel, 1887 SPECIES
-=======
+# Mesocena hexagona Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

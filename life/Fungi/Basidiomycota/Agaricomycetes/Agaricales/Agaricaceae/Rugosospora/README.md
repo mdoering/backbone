@@ -1,5 +1,4 @@
-Rugosospora Heinem. GENUS
-=======
+# Rugosospora Heinem. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia septentrionalis Lynge SPECIES
-=======
+# Polyblastia septentrionalis Lynge SPECIES
 
 #### Status
 ACCEPTED

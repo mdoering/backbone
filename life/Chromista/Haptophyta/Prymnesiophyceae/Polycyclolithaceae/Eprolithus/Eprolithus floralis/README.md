@@ -1,8 +1,7 @@
-Lithastrinus floralis Stradner, 1962 SPECIES
-=======
+# Eprolithus floralis (Stradner, 1962) Stover, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

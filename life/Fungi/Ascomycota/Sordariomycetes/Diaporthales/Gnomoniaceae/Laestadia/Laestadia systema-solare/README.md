@@ -1,5 +1,4 @@
-Laestadia systema-solare (Fuckel) Sacc. SPECIES
-=======
+# Laestadia systema-solare (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

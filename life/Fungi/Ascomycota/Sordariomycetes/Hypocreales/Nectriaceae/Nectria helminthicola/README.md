@@ -1,5 +1,4 @@
-Nectria helminthicola Richon SPECIES
-=======
+# Nectria helminthicola Richon SPECIES
 
 #### Status
 ACCEPTED

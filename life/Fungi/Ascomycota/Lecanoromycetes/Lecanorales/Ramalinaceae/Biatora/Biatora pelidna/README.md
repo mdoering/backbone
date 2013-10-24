@@ -1,5 +1,4 @@
-Biatora pelidna (Ach.) Rabenh. SPECIES
-=======
+# Biatora pelidna (Ach.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

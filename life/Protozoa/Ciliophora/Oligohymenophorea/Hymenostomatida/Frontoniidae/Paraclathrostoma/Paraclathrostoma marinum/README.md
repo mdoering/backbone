@@ -1,8 +1,7 @@
-Frontoniella marina Roque, 1961 SPECIES
-=======
+# Paraclathrostoma marinum (Roque, 1961) Small & Lynn, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

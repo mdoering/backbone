@@ -1,5 +1,4 @@
-Psathyrella candidissima A.H. Sm. SPECIES
-=======
+# Psathyrella candidissima A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

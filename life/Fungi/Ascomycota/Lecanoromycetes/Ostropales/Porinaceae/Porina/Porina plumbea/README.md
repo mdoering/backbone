@@ -1,5 +1,4 @@
-Porina plumbea (Bagl.) Zahlbr. SPECIES
-=======
+# Porina plumbea (Bagl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia maculoides Gyeln. SPECIES
-=======
+# Parmelia maculoides Gyeln. SPECIES
 
 #### Status
 ACCEPTED

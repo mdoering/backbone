@@ -1,5 +1,4 @@
-Archnosphaera GENUS
-=======
+# Archnosphaera GENUS
 
 #### Status
 ACCEPTED

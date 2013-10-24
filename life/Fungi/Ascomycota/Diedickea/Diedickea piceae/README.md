@@ -1,5 +1,4 @@
-Diedickea piceae Bonar SPECIES
-=======
+# Diedickea piceae Bonar SPECIES
 
 #### Status
 ACCEPTED

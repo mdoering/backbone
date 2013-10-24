@@ -1,5 +1,4 @@
-Badhamia bibasilis H. Neubert & Nann.-Bremek. SPECIES
-=======
+# Badhamia bibasilis H. Neubert & Nann.-Bremek. SPECIES
 
 #### Status
 ACCEPTED

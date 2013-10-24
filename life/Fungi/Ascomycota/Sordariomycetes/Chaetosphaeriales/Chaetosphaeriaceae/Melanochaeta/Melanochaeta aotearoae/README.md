@@ -1,5 +1,4 @@
-Melanochaeta aotearoae (S. Hughes) E. Müll., Harr & Sulmont, 1969 SPECIES
-=======
+# Melanochaeta aotearoae (S. Hughes) E. Müll., Harr & Sulmont, 1969 SPECIES
 
 #### Status
 ACCEPTED

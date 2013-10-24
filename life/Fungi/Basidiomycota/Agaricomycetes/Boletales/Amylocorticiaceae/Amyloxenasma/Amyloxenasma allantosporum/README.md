@@ -1,14 +1,13 @@
-Xenasmatella allantospora Oberw., 1966 SPECIES
-=======
+# Amyloxenasma allantosporum (Oberw.) Hjortstam & Ryvarden, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 19: 37 (1966)
+Syn. Fung. (Oslo) 20: 34 (2005)
 
 #### Original name
 Xenasmatella allantospora Oberw., 1966

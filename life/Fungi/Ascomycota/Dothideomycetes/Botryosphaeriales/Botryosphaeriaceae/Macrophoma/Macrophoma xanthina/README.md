@@ -1,5 +1,4 @@
-Macrophoma xanthina (Sacc.) Berl. & Voglino SPECIES
-=======
+# Macrophoma xanthina (Sacc.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

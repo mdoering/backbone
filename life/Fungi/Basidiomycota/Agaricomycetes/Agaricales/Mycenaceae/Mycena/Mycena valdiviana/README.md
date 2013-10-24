@@ -1,5 +1,4 @@
-Mycena valdiviana Singer SPECIES
-=======
+# Mycena valdiviana Singer SPECIES
 
 #### Status
 ACCEPTED

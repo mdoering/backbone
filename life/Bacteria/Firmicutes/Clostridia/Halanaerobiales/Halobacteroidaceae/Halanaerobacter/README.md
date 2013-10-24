@@ -1,5 +1,4 @@
-Halanaerobacter GENUS
-=======
+# Halanaerobacter GENUS
 
 #### Status
 ACCEPTED

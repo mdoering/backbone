@@ -1,5 +1,4 @@
-Agaricus pulverotectus Heinem. SPECIES
-=======
+# Agaricus pulverotectus Heinem. SPECIES
 
 #### Status
 ACCEPTED

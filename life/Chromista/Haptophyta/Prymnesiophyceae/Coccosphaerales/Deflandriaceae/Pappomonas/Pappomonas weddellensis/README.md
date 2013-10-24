@@ -1,5 +1,4 @@
-Pappomonas weddellensis H. A. Thomsen SPECIES
-=======
+# Pappomonas weddellensis H. A. Thomsen SPECIES
 
 #### Status
 ACCEPTED

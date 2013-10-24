@@ -1,5 +1,4 @@
-Chaenothecopsis eugenia Titov SPECIES
-=======
+# Chaenothecopsis eugenia Titov SPECIES
 
 #### Status
 ACCEPTED

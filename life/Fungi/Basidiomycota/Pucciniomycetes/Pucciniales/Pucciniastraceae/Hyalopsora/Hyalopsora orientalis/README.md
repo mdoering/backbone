@@ -1,5 +1,4 @@
-Hyalopsora orientalis Chona & Munjal SPECIES
-=======
+# Hyalopsora orientalis Chona & Munjal SPECIES
 
 #### Status
 ACCEPTED

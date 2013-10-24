@@ -1,5 +1,4 @@
-Simocybe curvipes (Singer) Singer SPECIES
-=======
+# Simocybe curvipes (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

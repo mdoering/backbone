@@ -1,5 +1,4 @@
-Polyporus albomollis Lloyd SPECIES
-=======
+# Polyporus albomollis Lloyd SPECIES
 
 #### Status
 ACCEPTED

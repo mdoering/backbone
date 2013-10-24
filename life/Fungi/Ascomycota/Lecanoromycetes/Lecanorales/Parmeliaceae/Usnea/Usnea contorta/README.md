@@ -1,5 +1,4 @@
-Usnea contorta Jatta SPECIES
-=======
+# Usnea contorta Jatta SPECIES
 
 #### Status
 ACCEPTED

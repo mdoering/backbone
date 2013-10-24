@@ -1,5 +1,4 @@
-Cucurbitaria rugispora (Pat.) Kuntze SPECIES
-=======
+# Cucurbitaria rugispora (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

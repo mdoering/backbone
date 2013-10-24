@@ -1,5 +1,4 @@
-Aposphaeria mollis (Lév.) Sacc. SPECIES
-=======
+# Aposphaeria mollis (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

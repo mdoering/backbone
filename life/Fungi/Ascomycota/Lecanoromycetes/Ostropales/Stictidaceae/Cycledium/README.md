@@ -1,5 +1,4 @@
-Cycledium GENUS
-=======
+# Cycledium GENUS
 
 #### Status
 ACCEPTED

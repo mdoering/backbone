@@ -1,5 +1,4 @@
-Dermatocarpon tuzibei M. Satô SPECIES
-=======
+# Dermatocarpon tuzibei M. Satô SPECIES
 
 #### Status
 ACCEPTED

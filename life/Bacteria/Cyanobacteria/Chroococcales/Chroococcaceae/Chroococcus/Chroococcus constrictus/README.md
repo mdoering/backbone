@@ -1,5 +1,4 @@
-Chroococcus constrictus Gardner SPECIES
-=======
+# Chroococcus constrictus Gardner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbilia gaillardii anon. SPECIES
-=======
+# Orbilia gaillardii anon. SPECIES
 
 #### Status
 ACCEPTED

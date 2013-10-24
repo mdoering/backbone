@@ -1,5 +1,4 @@
-Colletotrichum jasminicola Tilak SPECIES
-=======
+# Colletotrichum jasminicola Tilak SPECIES
 
 #### Status
 ACCEPTED

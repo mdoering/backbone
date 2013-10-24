@@ -1,5 +1,4 @@
-Parmelia subglauca Nyl. SPECIES
-=======
+# Parmelia subglauca Nyl. SPECIES
 
 #### Status
 ACCEPTED

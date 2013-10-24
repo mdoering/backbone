@@ -1,5 +1,4 @@
-Eubuliminella Revets, 1993 GENUS
-=======
+# Eubuliminella Revets, 1993 GENUS
 
 #### Status
 ACCEPTED

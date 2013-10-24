@@ -1,5 +1,4 @@
-Hypocrea oblita Yoshim. Doi SPECIES
-=======
+# Hypocrea oblita Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

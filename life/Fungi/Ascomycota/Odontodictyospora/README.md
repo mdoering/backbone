@@ -1,5 +1,4 @@
-Odontodictyospora Mercado GENUS
-=======
+# Odontodictyospora Mercado GENUS
 
 #### Status
 ACCEPTED

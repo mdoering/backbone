@@ -1,5 +1,4 @@
-Penicillium aureocephalum Munt.-Cvetk., Hoyo & Gómez-Bolea, 2001 SPECIES
-=======
+# Penicillium aureocephalum Munt.-Cvetk., Hoyo & Gómez-Bolea, 2001 SPECIES
 
 #### Status
 ACCEPTED

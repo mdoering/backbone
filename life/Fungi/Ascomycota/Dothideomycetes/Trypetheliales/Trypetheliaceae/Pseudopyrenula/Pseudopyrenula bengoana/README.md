@@ -1,5 +1,4 @@
-Pseudopyrenula bengoana Vain. SPECIES
-=======
+# Pseudopyrenula bengoana Vain. SPECIES
 
 #### Status
 ACCEPTED

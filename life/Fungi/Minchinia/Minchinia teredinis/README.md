@@ -1,5 +1,4 @@
-Minchinia teredinis Hillman, Ford & Haskin, 1990 SPECIES
-=======
+# Minchinia teredinis Hillman, Ford & Haskin, 1990 SPECIES
 
 #### Status
 ACCEPTED

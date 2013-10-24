@@ -1,5 +1,4 @@
-Scyphosphaera ampla Kamptner, 1955 SPECIES
-=======
+# Scyphosphaera ampla Kamptner, 1955 SPECIES
 
 #### Status
 ACCEPTED

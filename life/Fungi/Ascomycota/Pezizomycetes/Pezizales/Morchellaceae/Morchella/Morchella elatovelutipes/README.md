@@ -1,5 +1,4 @@
-Morchella elatovelutipes Jacquet. SPECIES
-=======
+# Morchella elatovelutipes Jacquet. SPECIES
 
 #### Status
 ACCEPTED

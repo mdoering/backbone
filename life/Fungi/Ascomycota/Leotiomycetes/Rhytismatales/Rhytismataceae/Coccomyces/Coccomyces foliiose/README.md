@@ -1,5 +1,4 @@
-Coccomyces foliiose (Dennis & Spooner) Sherwood. SPECIES
-=======
+# Coccomyces foliiose (Dennis & Spooner) Sherwood. SPECIES
 
 #### Status
 ACCEPTED

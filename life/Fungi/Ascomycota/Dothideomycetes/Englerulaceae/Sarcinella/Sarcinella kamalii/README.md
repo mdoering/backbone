@@ -1,5 +1,4 @@
-Sarcinella kamalii S.K. Singh & P.N. Singh SPECIES
-=======
+# Sarcinella kamalii S.K. Singh & P.N. Singh SPECIES
 
 #### Status
 ACCEPTED

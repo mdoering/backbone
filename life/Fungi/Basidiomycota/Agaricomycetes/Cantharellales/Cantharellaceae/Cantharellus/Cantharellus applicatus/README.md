@@ -1,5 +1,4 @@
-Cantharellus applicatus (Lév.) Sacc. SPECIES
-=======
+# Cantharellus applicatus (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

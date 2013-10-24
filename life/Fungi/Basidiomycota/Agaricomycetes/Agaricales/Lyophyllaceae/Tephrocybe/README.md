@@ -1,5 +1,4 @@
-Tephrocybe Donk, 1962 GENUS
-=======
+# Tephrocybe Donk, 1962 GENUS
 
 #### Status
 ACCEPTED

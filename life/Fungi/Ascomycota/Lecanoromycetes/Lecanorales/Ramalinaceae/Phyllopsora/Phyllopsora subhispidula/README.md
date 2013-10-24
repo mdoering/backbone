@@ -1,5 +1,4 @@
-Phyllopsora subhispidula (Nyl.) Kalb & Elix SPECIES
-=======
+# Phyllopsora subhispidula (Nyl.) Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

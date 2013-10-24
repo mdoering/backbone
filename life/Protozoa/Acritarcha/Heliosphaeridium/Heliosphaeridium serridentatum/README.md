@@ -1,5 +1,4 @@
-Heliosphaeridium serridentatum Moczydlowska, 1998 SPECIES
-=======
+# Heliosphaeridium serridentatum Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

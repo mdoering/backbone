@@ -1,5 +1,4 @@
-Physcia denigrata Hue SPECIES
-=======
+# Physcia denigrata Hue SPECIES
 
 #### Status
 ACCEPTED

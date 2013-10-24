@@ -1,5 +1,4 @@
-Micropeltidium moronobeanum Bat., Peres & O.M. Fonseca SPECIES
-=======
+# Micropeltidium moronobeanum Bat., Peres & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

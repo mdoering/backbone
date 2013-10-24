@@ -1,5 +1,4 @@
-Polysaccum arenarium Corda SPECIES
-=======
+# Polysaccum arenarium Corda SPECIES
 
 #### Status
 ACCEPTED

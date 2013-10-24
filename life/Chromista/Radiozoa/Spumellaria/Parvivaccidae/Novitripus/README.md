@@ -1,5 +1,4 @@
-Novitripus GENUS
-=======
+# Novitripus GENUS
 
 #### Status
 ACCEPTED

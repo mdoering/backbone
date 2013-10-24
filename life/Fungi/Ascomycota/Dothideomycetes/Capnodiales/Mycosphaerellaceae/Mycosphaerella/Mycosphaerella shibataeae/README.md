@@ -1,5 +1,4 @@
-Mycosphaerella shibataeae I. Miyake & Hara SPECIES
-=======
+# Mycosphaerella shibataeae I. Miyake & Hara SPECIES
 
 #### Status
 ACCEPTED

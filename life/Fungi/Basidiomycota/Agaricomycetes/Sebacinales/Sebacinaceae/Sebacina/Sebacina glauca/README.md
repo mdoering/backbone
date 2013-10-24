@@ -1,5 +1,4 @@
-Sebacina glauca Pat. SPECIES
-=======
+# Sebacina glauca Pat. SPECIES
 
 #### Status
 ACCEPTED

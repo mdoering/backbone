@@ -1,5 +1,4 @@
-Marasmius dennisii Singer SPECIES
-=======
+# Marasmius dennisii Singer SPECIES
 
 #### Status
 ACCEPTED

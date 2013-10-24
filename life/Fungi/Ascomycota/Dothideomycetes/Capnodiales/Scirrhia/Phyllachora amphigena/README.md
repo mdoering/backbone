@@ -1,5 +1,4 @@
-Phyllachora amphigena Speg., 1885 SPECIES
-=======
+# Phyllachora amphigena Speg., 1885 SPECIES
 
 #### Status
 DOUBTFUL

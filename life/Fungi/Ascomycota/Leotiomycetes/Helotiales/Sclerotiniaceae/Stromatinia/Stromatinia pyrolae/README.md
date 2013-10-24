@@ -1,5 +1,4 @@
-Stromatinia pyrolae (Grosse) Naumov SPECIES
-=======
+# Stromatinia pyrolae (Grosse) Naumov SPECIES
 
 #### Status
 ACCEPTED

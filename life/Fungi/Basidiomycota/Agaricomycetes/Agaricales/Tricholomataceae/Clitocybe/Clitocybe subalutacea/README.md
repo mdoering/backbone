@@ -1,14 +1,13 @@
-Agaricus subalutaceus Batsch, 1789 SPECIES
-=======
+# Clitocybe subalutacea (Batsch) P. Kumm., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Halle), cont. sec. 27 (1789)
+Führ. Pilzk. (Zwickau) 124 (1871)
 
 #### Original name
 Agaricus subalutaceus Batsch, 1789

@@ -1,5 +1,4 @@
-Patellaria rosellocarnea (C. Knight) Müll. Arg. SPECIES
-=======
+# Patellaria rosellocarnea (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

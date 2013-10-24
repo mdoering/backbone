@@ -1,5 +1,4 @@
-Kimuromyces Dianese, L.T.P. Santos, R.B. Medeiros & Furlan. GENUS
-=======
+# Kimuromyces Dianese, L.T.P. Santos, R.B. Medeiros & Furlan. GENUS
 
 #### Status
 ACCEPTED

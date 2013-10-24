@@ -1,5 +1,4 @@
-Metschnikowia kamakouana Lachance, 2005 SPECIES
-=======
+# Metschnikowia kamakouana Lachance, 2005 SPECIES
 
 #### Status
 ACCEPTED

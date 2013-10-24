@@ -1,5 +1,4 @@
-Flammula rigida Peck SPECIES
-=======
+# Flammula rigida Peck SPECIES
 
 #### Status
 ACCEPTED

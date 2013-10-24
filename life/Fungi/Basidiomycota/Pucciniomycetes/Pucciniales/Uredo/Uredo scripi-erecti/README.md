@@ -1,5 +1,4 @@
-Uredo scripi-erecti Sawada SPECIES
-=======
+# Uredo scripi-erecti Sawada SPECIES
 
 #### Status
 ACCEPTED

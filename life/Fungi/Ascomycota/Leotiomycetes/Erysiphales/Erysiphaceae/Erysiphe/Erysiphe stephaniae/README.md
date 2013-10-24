@@ -1,5 +1,4 @@
-Erysiphe stephaniae Tanda & Tas. Fukuda SPECIES
-=======
+# Erysiphe stephaniae Tanda & Tas. Fukuda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus solidipes Peck SPECIES
-=======
+# Agaricus solidipes Peck SPECIES
 
 #### Status
 ACCEPTED

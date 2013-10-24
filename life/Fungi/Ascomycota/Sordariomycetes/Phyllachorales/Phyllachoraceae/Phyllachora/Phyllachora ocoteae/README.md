@@ -1,5 +1,4 @@
-Phyllachora ocoteae Henn., 1904 SPECIES
-=======
+# Phyllachora ocoteae Henn., 1904 SPECIES
 
 #### Status
 ACCEPTED

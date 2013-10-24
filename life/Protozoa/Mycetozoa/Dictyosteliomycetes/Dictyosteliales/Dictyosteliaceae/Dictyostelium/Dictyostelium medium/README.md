@@ -1,5 +1,4 @@
-Dictyostelium medium H. Hagiw., 1992 SPECIES
-=======
+# Dictyostelium medium H. Hagiw., 1992 SPECIES
 
 #### Status
 ACCEPTED

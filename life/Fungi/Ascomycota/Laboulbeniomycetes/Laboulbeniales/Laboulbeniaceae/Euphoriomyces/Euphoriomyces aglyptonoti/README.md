@@ -1,5 +1,4 @@
-Euphoriomyces aglyptonoti Thaxt. SPECIES
-=======
+# Euphoriomyces aglyptonoti Thaxt. SPECIES
 
 #### Status
 ACCEPTED

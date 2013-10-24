@@ -1,5 +1,4 @@
-Lembus reesi Kahl, 1931 SPECIES
-=======
+# Lembus reesi Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Liosphaera Haeckel, 1887 GENUS
-=======
+# Liosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

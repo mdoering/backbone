@@ -1,5 +1,4 @@
-Septoria tungurahuana Syd. SPECIES
-=======
+# Septoria tungurahuana Syd. SPECIES
 
 #### Status
 ACCEPTED

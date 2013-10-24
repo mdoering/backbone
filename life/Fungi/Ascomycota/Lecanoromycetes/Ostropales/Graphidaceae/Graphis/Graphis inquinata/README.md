@@ -1,5 +1,4 @@
-Graphis inquinata (C. Knight & Mitt.) C. Knight & Mitt. SPECIES
-=======
+# Graphis inquinata (C. Knight & Mitt.) C. Knight & Mitt. SPECIES
 
 #### Status
 ACCEPTED

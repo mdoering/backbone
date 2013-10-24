@@ -1,5 +1,4 @@
-Xylaria frustulosa (Berk. & M. A. Curtis) Cooke SPECIES
-=======
+# Xylaria frustulosa (Berk. & M. A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Niesslia schyzospora Etayo SPECIES
-=======
+# Niesslia schizospora Etayo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 84: 82 (2002)
 
 #### Original name
-Niesslia schyzospora Etayo
+Niesslia schizospora Etayo
 
 ### Remarks
 null

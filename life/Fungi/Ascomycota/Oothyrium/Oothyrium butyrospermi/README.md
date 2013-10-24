@@ -1,5 +1,4 @@
-Oothyrium butyrospermi Syd., 1939 SPECIES
-=======
+# Oothyrium butyrospermi Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovista dubiosa Speg. SPECIES
-=======
+# Bovista dubiosa Speg. SPECIES
 
 #### Status
 ACCEPTED

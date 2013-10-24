@@ -1,5 +1,4 @@
-Leucoscypha rhodoleuca (Bres.) Svrcek SPECIES
-=======
+# Leucoscypha rhodoleuca (Bres.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothecium syringae Speschnew SPECIES
-=======
+# Coniothecium syringae Speschnew SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mazosia lueckingii Kr. P. Singh & Pinokiyo SPECIES
-=======
+# Mazosia lueckingii Kr. P. Singh & Pinokiyo SPECIES
 
 #### Status
 ACCEPTED

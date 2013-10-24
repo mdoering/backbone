@@ -1,5 +1,4 @@
-Peziza chlamydospora Ellis & Everh. SPECIES
-=======
+# Peziza chlamydospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

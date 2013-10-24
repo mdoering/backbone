@@ -1,5 +1,4 @@
-Parmelia imitata Hale & M. Wirth SPECIES
-=======
+# Parmelia imitata Hale & M. Wirth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Florisphaeridium T.R. Lister, 1970 GENUS
-=======
+# Florisphaeridium T.R. Lister, 1970 GENUS
 
 #### Status
 ACCEPTED

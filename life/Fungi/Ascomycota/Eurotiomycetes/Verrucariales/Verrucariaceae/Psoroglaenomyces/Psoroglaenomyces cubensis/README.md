@@ -1,5 +1,4 @@
-Psoroglaenomyces cubensis Cif. & Tomas. SPECIES
-=======
+# Psoroglaenomyces cubensis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

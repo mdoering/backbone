@@ -1,5 +1,4 @@
-Meliola rinoreae (Doidge) Cif. SPECIES
-=======
+# Meliola rinoreae (Doidge) Cif. SPECIES
 
 #### Status
 ACCEPTED

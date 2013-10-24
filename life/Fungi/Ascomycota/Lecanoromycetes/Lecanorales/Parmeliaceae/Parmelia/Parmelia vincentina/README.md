@@ -1,5 +1,4 @@
-Parmelia vincentina Zahlbr. SPECIES
-=======
+# Parmelia vincentina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

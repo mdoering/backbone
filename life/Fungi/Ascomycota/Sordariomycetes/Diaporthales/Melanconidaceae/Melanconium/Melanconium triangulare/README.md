@@ -1,5 +1,4 @@
-Melanconium triangulare Ellis & Everh. SPECIES
-=======
+# Melanconium triangulare Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

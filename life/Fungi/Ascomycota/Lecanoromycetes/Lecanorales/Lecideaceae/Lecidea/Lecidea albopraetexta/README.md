@@ -1,5 +1,4 @@
-Lecidea albopraetexta C. Knight SPECIES
-=======
+# Lecidea albopraetexta C. Knight SPECIES
 
 #### Status
 ACCEPTED

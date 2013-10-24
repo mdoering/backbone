@@ -1,5 +1,4 @@
-Collybia rionegrensis Singer SPECIES
-=======
+# Collybia rionegrensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phakopsora fici-erectae S. Ito & Y. Otani ex S. Ito & Muray. SPECIES
-=======
+# Phakopsora fici-erectae S. Ito & Y. Otani ex S. Ito & Muray. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Nannopatina Stradner, 1961 GENUS
-=======
+# Schizosphaerella G. Deflandre & L. Dangeard, 1938 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

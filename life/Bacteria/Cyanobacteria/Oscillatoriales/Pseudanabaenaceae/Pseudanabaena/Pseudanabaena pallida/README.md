@@ -1,5 +1,4 @@
-Pseudanabaena pallida Skuja SPECIES
-=======
+# Pseudanabaena pallida Skuja SPECIES
 
 #### Status
 ACCEPTED

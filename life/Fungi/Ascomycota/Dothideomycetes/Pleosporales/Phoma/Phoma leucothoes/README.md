@@ -1,17 +1,16 @@
-Phoma leucothoës Henn. SPECIES
-=======
+# Phoma leucothoes Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notizblatt des Königl. bot. Gartens u. Museum zu Berlin 22: 38 (1900)
 
 #### Original name
-Phoma leucothoës Henn.
+Phoma leucothoes Henn.
 
 ### Remarks
 null

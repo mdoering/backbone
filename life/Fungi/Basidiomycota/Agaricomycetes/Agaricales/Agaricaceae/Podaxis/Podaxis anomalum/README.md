@@ -1,17 +1,16 @@
-Podaxon anomalum Lloyd SPECIES
-=======
+# Podaxis anomalum Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 6: 992 (1920)
 
 #### Original name
-Podaxon anomalum Lloyd
+Podaxis anomalum Lloyd
 
 ### Remarks
 null

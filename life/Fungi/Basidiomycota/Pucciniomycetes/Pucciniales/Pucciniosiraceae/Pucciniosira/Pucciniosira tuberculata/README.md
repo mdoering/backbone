@@ -1,14 +1,13 @@
-Endophyllum tuberculatum (Ellis & Kellerm.) Arthur & Fromme, 1915 SPECIES
-=======
+# Pucciniosira tuberculata (Ellis & Kellerm.) Buriticá & J.F. Hennen, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 42: 58 (1915)
+in Buriticá, Revta Acad. colomb. cienc. exact. fís. nat. 18(no. 69): 143 (1991)
 
 #### Original name
 Aecidium tuberculatum Ellis & Kellerm., 1888

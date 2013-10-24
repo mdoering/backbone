@@ -1,14 +1,13 @@
-Hypoderma crispum (Pers.) DC., 1815 SPECIES
-=======
+# Colpoma crispum (Pers.) Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 167 (1815)
+Syll. fung. (Abellini) 9: 1127 (1891)
 
 #### Original name
 Hysterium crispum Pers., 1801

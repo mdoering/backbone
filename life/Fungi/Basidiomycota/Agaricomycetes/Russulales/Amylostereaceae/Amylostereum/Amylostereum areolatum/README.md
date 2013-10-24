@@ -1,14 +1,13 @@
-Xylobolus areolatus (Chaillet ex Fr.) P. Karst., 1881 SPECIES
-=======
+# Amylostereum areolatum (Chaillet ex Fr.) Boidin, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 6: 11 (1881)
+Revue Mycol. , Paris 23: 345 (1958)
 
 #### Original name
 Thelephora areolata Chaillet ex Fr., 1828

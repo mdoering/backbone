@@ -1,5 +1,4 @@
-Heterohelicidae Cushman, 1927 FAMILY
-=======
+# Heterohelicidae Cushman, 1927 FAMILY
 
 #### Status
 ACCEPTED

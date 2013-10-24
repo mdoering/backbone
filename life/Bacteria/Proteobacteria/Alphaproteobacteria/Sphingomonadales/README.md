@@ -1,5 +1,4 @@
-Sphingomonadales ORDER
-=======
+# Sphingomonadales ORDER
 
 #### Status
 ACCEPTED

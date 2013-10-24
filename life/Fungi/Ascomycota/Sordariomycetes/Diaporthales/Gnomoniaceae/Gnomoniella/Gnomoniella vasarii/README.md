@@ -1,5 +1,4 @@
-Gnomoniella vasarii M. Monod SPECIES
-=======
+# Gnomoniella vasarii M. Monod SPECIES
 
 #### Status
 ACCEPTED

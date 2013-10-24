@@ -1,5 +1,4 @@
-Leptospora Rabenhorst, 1857 GENUS
-=======
+# Leptospora Rabenhorst, 1857 GENUS
 
 #### Status
 ACCEPTED

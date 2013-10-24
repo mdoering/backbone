@@ -1,5 +1,4 @@
-Puccinia microica Ellis SPECIES
-=======
+# Puccinia microica Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microcystis lamelliformis Holsinger SPECIES
-=======
+# Microcystis lamelliformis Holsinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletellus puniceus (W.F. Qiu) X.H. Wang & P.G. Liu SPECIES
-=======
+# Boletellus puniceus (W.F. Qiu) X.H. Wang & P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

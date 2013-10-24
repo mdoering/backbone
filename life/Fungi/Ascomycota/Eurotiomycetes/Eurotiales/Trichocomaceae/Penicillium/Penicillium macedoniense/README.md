@@ -1,17 +1,16 @@
-Penicillium macedonense Verona & Mick. SPECIES
-=======
+# Penicillium macedoniense Verona & Mick. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 18(4): 292 (1962)
 
 #### Original name
-Penicillium macedonense Verona & Mick.
+Penicillium macedoniense Verona & Mick.
 
 ### Remarks
 null

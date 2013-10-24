@@ -1,5 +1,4 @@
-Cladophytum Leidy GENUS
-=======
+# Cladophytum Leidy GENUS
 
 #### Status
 ACCEPTED

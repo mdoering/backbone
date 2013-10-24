@@ -1,5 +1,4 @@
-Candida alai S.O. Suh, N.H. Nguyen & M. Blackw., 2008 SPECIES
-=======
+# Candida alai S.O. Suh, N.H. Nguyen & M. Blackw., 2008 SPECIES
 
 #### Status
 ACCEPTED

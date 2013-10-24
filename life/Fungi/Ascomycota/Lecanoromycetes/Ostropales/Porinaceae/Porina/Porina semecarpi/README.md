@@ -1,14 +1,13 @@
-Phylloporina semecarpi (Vain.) SPECIES
-=======
+# Porina semecarpi Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Acad. Sci. fenn. , Ser. A 15(6): 367 (1921)
 
 #### Original name
 Porina semecarpi Vain.

@@ -1,5 +1,4 @@
-Paranoplophrya GENUS
-=======
+# Paranoplophrya GENUS
 
 #### Status
 ACCEPTED

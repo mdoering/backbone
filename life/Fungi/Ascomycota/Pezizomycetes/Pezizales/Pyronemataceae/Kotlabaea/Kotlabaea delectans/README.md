@@ -1,5 +1,4 @@
-Kotlabaea delectans (Starbäck) Svrcek SPECIES
-=======
+# Kotlabaea delectans (Starbäck) Svrcek SPECIES
 
 #### Status
 ACCEPTED

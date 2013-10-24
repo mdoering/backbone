@@ -1,5 +1,4 @@
-Hyphoderma bresadolae Jülich SPECIES
-=======
+# Hyphoderma bresadolae Jülich SPECIES
 
 #### Status
 ACCEPTED

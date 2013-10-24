@@ -1,5 +1,4 @@
-Catacauma contractum Syd., 1925 SPECIES
-=======
+# Catacauma contractum Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

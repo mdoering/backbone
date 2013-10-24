@@ -1,5 +1,4 @@
-Hydnum stuckertianum Speg. SPECIES
-=======
+# Hydnum stuckertianum Speg. SPECIES
 
 #### Status
 ACCEPTED

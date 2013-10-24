@@ -1,5 +1,4 @@
-Gondwanaria Petrushevskaya, 1975 GENUS
-=======
+# Gondwanaria Petrushevskaya, 1975 GENUS
 
 #### Status
 ACCEPTED

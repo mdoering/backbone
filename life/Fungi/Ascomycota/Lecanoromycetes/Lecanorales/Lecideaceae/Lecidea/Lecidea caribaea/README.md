@@ -1,5 +1,4 @@
-Lecidea caribaea Zenk. SPECIES
-=======
+# Lecidea caribaea Zenk. SPECIES
 
 #### Status
 ACCEPTED

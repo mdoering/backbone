@@ -1,5 +1,4 @@
-Entoloma rubrobasis Noordel. SPECIES
-=======
+# Entoloma rubrobasis Noordel. SPECIES
 
 #### Status
 ACCEPTED

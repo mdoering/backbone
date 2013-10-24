@@ -1,5 +1,4 @@
-Septoria niphostoma Berk. & M.A. Curtis SPECIES
-=======
+# Septoria niphostoma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

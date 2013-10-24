@@ -1,5 +1,4 @@
-Biatora amorphocarpa Riddle SPECIES
-=======
+# Biatora amorphocarpa Riddle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus lepiota Vent. SPECIES
-=======
+# Boletus lepiota Vent. SPECIES
 
 #### Status
 ACCEPTED

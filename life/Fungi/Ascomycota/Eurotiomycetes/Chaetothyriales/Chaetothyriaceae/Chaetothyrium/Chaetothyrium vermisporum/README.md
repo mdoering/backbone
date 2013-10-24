@@ -1,5 +1,4 @@
-Chaetothyrium vermisporum var. vermisporum VARIETY
-=======
+# Chaetothyrium vermisporum Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. Pap. 15: 151 (1946)
 
 #### Original name
-Chaetothyrium vermisporum var. vermisporum
+Chaetothyrium vermisporum Hansf.
 
 ### Remarks
 null

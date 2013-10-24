@@ -1,5 +1,4 @@
-Gyroporus deflexus Murrill SPECIES
-=======
+# Gyroporus deflexus Murrill SPECIES
 
 #### Status
 ACCEPTED

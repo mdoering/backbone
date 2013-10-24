@@ -1,5 +1,4 @@
-Coniochaetidium nuciforme Guarro, Gené, Al-Bader & Abdullah SPECIES
-=======
+# Coniochaetidium nuciforme Guarro, Gené, Al-Bader & Abdullah SPECIES
 
 #### Status
 ACCEPTED

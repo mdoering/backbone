@@ -1,5 +1,4 @@
-Monoicomyces echidnoglossae Thaxt. SPECIES
-=======
+# Monoicomyces echidnoglossae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

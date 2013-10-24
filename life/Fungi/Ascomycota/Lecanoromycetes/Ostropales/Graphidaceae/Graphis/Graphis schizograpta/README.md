@@ -1,5 +1,4 @@
-Graphis schizograpta Müll. Arg. SPECIES
-=======
+# Graphis schizograpta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

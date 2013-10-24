@@ -1,5 +1,4 @@
-Dothiora stictoides (Berk. & M.A. Curtis) Ahn & Shearer SPECIES
-=======
+# Dothiora stictoides (Berk. & M.A. Curtis) Ahn & Shearer SPECIES
 
 #### Status
 ACCEPTED

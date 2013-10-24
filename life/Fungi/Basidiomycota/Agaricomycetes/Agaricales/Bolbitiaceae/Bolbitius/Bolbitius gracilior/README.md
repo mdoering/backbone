@@ -1,5 +1,4 @@
-Bolbitius gracilior Weinm. SPECIES
-=======
+# Bolbitius gracilior Weinm. SPECIES
 
 #### Status
 ACCEPTED

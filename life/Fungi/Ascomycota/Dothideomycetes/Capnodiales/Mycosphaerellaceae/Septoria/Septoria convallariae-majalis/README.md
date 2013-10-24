@@ -1,5 +1,4 @@
-Septoria convallariae-majalis Ziling SPECIES
-=======
+# Septoria convallariae-majalis Ziling SPECIES
 
 #### Status
 ACCEPTED

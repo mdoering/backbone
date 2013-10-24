@@ -1,5 +1,4 @@
-Camarosporium yuccaesedum Fairm. SPECIES
-=======
+# Camarosporium yuccaesedum Fairm. SPECIES
 
 #### Status
 ACCEPTED

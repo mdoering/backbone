@@ -1,5 +1,4 @@
-Phomopsis nepetae (Sousa da Câmara) Sousa da Câmara SPECIES
-=======
+# Phomopsis nepetae (Sousa da Câmara) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

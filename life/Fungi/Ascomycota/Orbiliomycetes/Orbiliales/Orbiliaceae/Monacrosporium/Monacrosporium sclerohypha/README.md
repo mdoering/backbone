@@ -1,14 +1,13 @@
-Monacrosporium sclerohyphum (Drechsler) Xing Z. Liu & K.Q. Zhang SPECIES
-=======
+# Monacrosporium sclerohypha (Drechsler) Xing Z. Liu & K.Q. Zhang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 98(8): 865 (1994)
 
 #### Original name
 Dactylella sclerohypha Drechsler

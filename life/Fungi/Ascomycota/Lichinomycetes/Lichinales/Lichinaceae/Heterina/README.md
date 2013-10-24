@@ -1,5 +1,4 @@
-Heterina GENUS
-=======
+# Heterina GENUS
 
 #### Status
 ACCEPTED

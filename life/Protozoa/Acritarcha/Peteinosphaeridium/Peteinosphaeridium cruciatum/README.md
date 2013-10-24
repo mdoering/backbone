@@ -1,5 +1,4 @@
-Peteinosphaeridium cruciatum Lu Lichang, 1987 SPECIES
-=======
+# Peteinosphaeridium cruciatum Lu Lichang, 1987 SPECIES
 
 #### Status
 ACCEPTED

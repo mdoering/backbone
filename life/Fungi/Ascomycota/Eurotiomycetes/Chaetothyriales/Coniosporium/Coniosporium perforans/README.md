@@ -1,5 +1,4 @@
-Coniosporium perforans Sterfl. SPECIES
-=======
+# Coniosporium perforans Sterfl. SPECIES
 
 #### Status
 ACCEPTED

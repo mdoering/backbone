@@ -1,5 +1,4 @@
-Lenzites proxima Berk. SPECIES
-=======
+# Lenzites proxima Berk. SPECIES
 
 #### Status
 ACCEPTED

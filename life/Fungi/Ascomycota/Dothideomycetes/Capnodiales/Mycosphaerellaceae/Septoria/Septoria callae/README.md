@@ -1,14 +1,13 @@
-Rhabdospora callae (Lasch) Rabenh. SPECIES
-=======
+# Septoria callae (Lasch) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 569 (1884)
 
 #### Original name
 Sphaeria callae Lasch

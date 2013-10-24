@@ -1,5 +1,4 @@
-Clathroporina subpungens (Malme) R.C. Harris SPECIES
-=======
+# Clathroporina subpungens (Malme) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

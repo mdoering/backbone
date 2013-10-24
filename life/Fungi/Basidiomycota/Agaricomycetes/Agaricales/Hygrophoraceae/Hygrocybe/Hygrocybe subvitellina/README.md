@@ -1,14 +1,13 @@
-Hygrocybe subviterrina (S. Imai) S. Ito SPECIES
-=======
+# Hygrocybe subvitellina (S. Imai) S. Ito SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycological Flora of Japan. Basidiomycetes 2(5): 79 (1959)
 
 #### Original name
 Hygrophorus subvitellinus S. Imai

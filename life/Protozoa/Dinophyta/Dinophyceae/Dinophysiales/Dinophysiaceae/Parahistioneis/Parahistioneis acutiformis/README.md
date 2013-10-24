@@ -1,5 +1,4 @@
-Parahistioneis acutiformis Rampi SPECIES
-=======
+# Parahistioneis acutiformis Rampi SPECIES
 
 #### Status
 ACCEPTED

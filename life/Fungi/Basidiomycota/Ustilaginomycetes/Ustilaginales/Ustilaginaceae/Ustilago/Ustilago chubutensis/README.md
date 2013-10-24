@@ -1,5 +1,4 @@
-Ustilago chubutensis Hirschh. SPECIES
-=======
+# Ustilago chubutensis Hirschh. SPECIES
 
 #### Status
 ACCEPTED

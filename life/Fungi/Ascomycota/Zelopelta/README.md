@@ -1,17 +1,16 @@
-Cladosporothyrium Katum. GENUS
-=======
+# Zelopelta B. Sutton & R.D. Gaur GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 25(3): 228 (1984)
+Trans. Br. mycol. Soc. 82(3): 558 (1984)
 
 #### Original name
-Cladosporothyrium Katum.
+Zelopelta B. Sutton & R.D. Gaur
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tilopteridales Bessey, 1907 ORDER
-=======
+# Tilopteridales Bessey, 1907 ORDER
 
 #### Status
 ACCEPTED

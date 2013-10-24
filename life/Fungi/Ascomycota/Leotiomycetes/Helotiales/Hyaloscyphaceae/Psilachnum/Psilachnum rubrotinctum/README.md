@@ -1,5 +1,4 @@
-Psilachnum rubrotinctum Graddon, 1974 SPECIES
-=======
+# Psilachnum rubrotinctum Graddon, 1974 SPECIES
 
 #### Status
 ACCEPTED

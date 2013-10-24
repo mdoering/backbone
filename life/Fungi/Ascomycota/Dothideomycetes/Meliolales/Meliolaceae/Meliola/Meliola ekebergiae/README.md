@@ -1,5 +1,4 @@
-Meliola ekebergiae Hansf. SPECIES
-=======
+# Meliola ekebergiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

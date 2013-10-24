@@ -1,5 +1,4 @@
-Collema C.A. Browne, 1756 GENUS
-=======
+# Collema C.A. Browne, 1756 GENUS
 
 #### Status
 ACCEPTED

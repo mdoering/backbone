@@ -1,5 +1,4 @@
-Exobasidium kunmingense Zhen Ying Li & L. Guo SPECIES
-=======
+# Exobasidium kunmingense Zhen Ying Li & L. Guo SPECIES
 
 #### Status
 ACCEPTED

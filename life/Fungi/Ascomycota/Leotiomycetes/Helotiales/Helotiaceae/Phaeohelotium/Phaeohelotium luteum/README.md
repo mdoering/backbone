@@ -1,14 +1,13 @@
-Helotium luteum Rick, 1931 SPECIES
-=======
+# Phaeohelotium luteum (Rick) Dumont, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brotéria, sér. bot. 25: 110 (1931)
+Mycotaxon 12(2): 354 (1981)
 
 #### Original name
 Helotium luteum Rick, 1931

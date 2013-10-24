@@ -1,5 +1,4 @@
-Colletotrichum viciae-sativae Sawada SPECIES
-=======
+# Colletotrichum viciae-sativae Sawada SPECIES
 
 #### Status
 ACCEPTED

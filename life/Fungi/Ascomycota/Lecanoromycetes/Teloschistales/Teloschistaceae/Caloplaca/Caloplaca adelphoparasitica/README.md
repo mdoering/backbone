@@ -1,5 +1,4 @@
-Caloplaca adelphoparasitica Nimis & Poelt SPECIES
-=======
+# Caloplaca adelphoparasitica Nimis & Poelt SPECIES
 
 #### Status
 ACCEPTED

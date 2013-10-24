@@ -1,5 +1,4 @@
-Calicium isabellinum Tibell SPECIES
-=======
+# Calicium isabellinum Tibell SPECIES
 
 #### Status
 ACCEPTED

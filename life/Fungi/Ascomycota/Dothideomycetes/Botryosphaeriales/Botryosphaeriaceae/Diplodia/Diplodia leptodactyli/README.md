@@ -1,5 +1,4 @@
-Diplodia leptodactyli Earle SPECIES
-=======
+# Diplodia leptodactyli Earle SPECIES
 
 #### Status
 ACCEPTED

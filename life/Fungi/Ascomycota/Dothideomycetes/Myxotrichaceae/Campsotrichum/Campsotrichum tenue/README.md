@@ -1,5 +1,4 @@
-Campsotrichum tenue Berk. & M.A. Curtis SPECIES
-=======
+# Campsotrichum tenue Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

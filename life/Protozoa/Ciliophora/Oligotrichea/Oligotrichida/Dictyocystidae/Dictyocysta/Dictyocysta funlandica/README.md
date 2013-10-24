@@ -1,5 +1,4 @@
-Dictyocysta funlandica Ehrenberg, 1854 SPECIES
-=======
+# Dictyocysta funlandica Ehrenberg, 1854 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus dehlii M.P. Sharma SPECIES
-=======
+# Hymenoscyphus dehlii M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

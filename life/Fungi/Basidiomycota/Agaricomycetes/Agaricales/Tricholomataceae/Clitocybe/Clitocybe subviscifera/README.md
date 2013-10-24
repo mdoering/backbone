@@ -1,5 +1,4 @@
-Clitocybe subviscifera P. Karst. SPECIES
-=======
+# Clitocybe subviscifera P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora haldibariensis A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora haldibariensis A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

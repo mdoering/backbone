@@ -1,5 +1,4 @@
-Myxofusicoccum coryli Died. SPECIES
-=======
+# Myxofusicoccum coryli Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta coronaria Pass. SPECIES
-=======
+# Phyllosticta coronaria Pass. SPECIES
 
 #### Status
 ACCEPTED

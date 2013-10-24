@@ -1,5 +1,4 @@
-Usnea eulychinae Follmann SPECIES
-=======
+# Usnea eulychinae Follmann SPECIES
 
 #### Status
 ACCEPTED

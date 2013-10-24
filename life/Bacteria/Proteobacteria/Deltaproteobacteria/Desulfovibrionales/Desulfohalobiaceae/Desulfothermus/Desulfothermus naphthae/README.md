@@ -1,5 +1,4 @@
-Desulfothermus naphthae Kuever et al., 2006 SPECIES
-=======
+# Desulfothermus naphthae Kuever et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

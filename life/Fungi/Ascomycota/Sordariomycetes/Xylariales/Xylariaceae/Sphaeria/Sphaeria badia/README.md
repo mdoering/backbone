@@ -1,5 +1,4 @@
-Sphaeria badia Preuss SPECIES
-=======
+# Sphaeria badia Preuss SPECIES
 
 #### Status
 ACCEPTED

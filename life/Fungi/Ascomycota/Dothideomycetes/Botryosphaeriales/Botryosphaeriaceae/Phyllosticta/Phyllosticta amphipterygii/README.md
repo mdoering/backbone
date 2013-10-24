@@ -1,5 +1,4 @@
-Phyllosticta amphipterygii Ricker SPECIES
-=======
+# Phyllosticta amphipterygii Ricker SPECIES
 
 #### Status
 ACCEPTED

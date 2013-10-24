@@ -1,5 +1,4 @@
-Scleroderma pantherinum Mattir. SPECIES
-=======
+# Scleroderma pantherinum Mattir. SPECIES
 
 #### Status
 ACCEPTED

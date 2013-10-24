@@ -1,5 +1,4 @@
-Chitonomyces javanicus Thaxt. SPECIES
-=======
+# Chitonomyces javanicus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

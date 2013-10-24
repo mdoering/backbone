@@ -1,5 +1,4 @@
-Calocera major Holterm. SPECIES
-=======
+# Calocera major Holterm. SPECIES
 
 #### Status
 ACCEPTED

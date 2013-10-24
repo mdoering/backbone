@@ -1,5 +1,4 @@
-Cibicides cooperensis Cushman, 1933 SPECIES
-=======
+# Cibicides cooperensis Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

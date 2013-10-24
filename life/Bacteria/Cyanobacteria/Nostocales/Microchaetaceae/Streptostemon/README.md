@@ -1,5 +1,4 @@
-Streptostemon Sant´Anna, Azevedo, Kaštovský & Komárek, 2010 GENUS
-=======
+# Streptostemon Sant´Anna, Azevedo, Kaštovský & Komárek, 2010 GENUS
 
 #### Status
 ACCEPTED

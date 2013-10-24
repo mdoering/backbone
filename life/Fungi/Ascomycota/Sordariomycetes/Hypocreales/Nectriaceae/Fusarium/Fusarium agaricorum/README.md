@@ -1,5 +1,4 @@
-Fusarium agaricorum Sarrazin SPECIES
-=======
+# Fusarium agaricorum Sarrazin SPECIES
 
 #### Status
 ACCEPTED

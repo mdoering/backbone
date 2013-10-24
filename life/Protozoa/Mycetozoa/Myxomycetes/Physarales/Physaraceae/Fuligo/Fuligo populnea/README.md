@@ -1,5 +1,4 @@
-Fuligo populnea Schultz SPECIES
-=======
+# Fuligo populnea Schultz SPECIES
 
 #### Status
 ACCEPTED

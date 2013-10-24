@@ -1,5 +1,4 @@
-Phyllachora pogonatheri Syd. & P. Syd., 1915 SPECIES
-=======
+# Phyllachora pogonatheri Syd. & P. Syd., 1915 SPECIES
 
 #### Status
 DOUBTFUL

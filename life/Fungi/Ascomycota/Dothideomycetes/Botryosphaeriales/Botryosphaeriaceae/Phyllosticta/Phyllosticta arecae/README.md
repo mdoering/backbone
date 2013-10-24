@@ -1,5 +1,4 @@
-Phyllosticta arecae Höhn. SPECIES
-=======
+# Phyllosticta arecae Höhn. SPECIES
 
 #### Status
 ACCEPTED

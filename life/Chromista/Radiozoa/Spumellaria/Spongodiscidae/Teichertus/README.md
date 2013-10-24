@@ -1,5 +1,4 @@
-Teichertus GENUS
-=======
+# Teichertus GENUS
 
 #### Status
 ACCEPTED

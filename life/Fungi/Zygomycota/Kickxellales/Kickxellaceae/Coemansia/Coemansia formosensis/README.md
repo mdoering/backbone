@@ -1,5 +1,4 @@
-Coemansia formosensis C.Y. Chien SPECIES
-=======
+# Coemansia formosensis C.Y. Chien SPECIES
 
 #### Status
 ACCEPTED

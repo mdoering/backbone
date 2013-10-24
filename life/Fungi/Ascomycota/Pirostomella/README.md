@@ -1,5 +1,4 @@
-Pirostomella Sacc. GENUS
-=======
+# Pirostomella Sacc. GENUS
 
 #### Status
 ACCEPTED

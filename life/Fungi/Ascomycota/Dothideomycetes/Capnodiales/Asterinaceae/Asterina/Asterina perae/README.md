@@ -1,5 +1,4 @@
-Asterina perae Bat. SPECIES
-=======
+# Asterina perae Bat. SPECIES
 
 #### Status
 ACCEPTED

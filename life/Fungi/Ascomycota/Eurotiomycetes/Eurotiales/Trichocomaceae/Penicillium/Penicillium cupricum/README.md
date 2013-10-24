@@ -1,5 +1,4 @@
-Penicillium cupricum Trab. SPECIES
-=======
+# Penicillium cupricum Trab. SPECIES
 
 #### Status
 ACCEPTED

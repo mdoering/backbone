@@ -1,5 +1,4 @@
-Leccinum subspadiceum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum subspadiceum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

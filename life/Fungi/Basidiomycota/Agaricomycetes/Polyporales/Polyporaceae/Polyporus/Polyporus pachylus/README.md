@@ -1,5 +1,4 @@
-Polyporus pachylus Berk. ex Sacc. SPECIES
-=======
+# Polyporus pachylus Berk. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bactoderma rosea (Winogradsky & Winogradsky, 1933) Tepper & Korshunova, 1973 SPECIES
-=======
+# Bactoderma rosea (Winogradsky & Winogradsky, 1933) Tepper & Korshunova, 1973 SPECIES
 
 #### Status
 ACCEPTED

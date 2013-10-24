@@ -1,5 +1,4 @@
-Hypocapnodium GENUS
-=======
+# Hypocapnodium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectriella chlorina (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Nectriella chlorina (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

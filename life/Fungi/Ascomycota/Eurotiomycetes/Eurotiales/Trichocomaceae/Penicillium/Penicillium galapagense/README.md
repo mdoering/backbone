@@ -1,5 +1,4 @@
-Penicillium galapagense Samson & Mahoney SPECIES
-=======
+# Penicillium galapagense Samson & Mahoney SPECIES
 
 #### Status
 ACCEPTED

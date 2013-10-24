@@ -1,5 +1,4 @@
-Meliola leptogoni (Cif.) Cif. SPECIES
-=======
+# Meliola leptogoni (Cif.) Cif. SPECIES
 
 #### Status
 ACCEPTED

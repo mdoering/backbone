@@ -1,5 +1,4 @@
-Spicaria taurica Naumov & Kiry. SPECIES
-=======
+# Spicaria taurica Naumov & Kiry. SPECIES
 
 #### Status
 ACCEPTED

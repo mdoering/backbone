@@ -1,5 +1,4 @@
-Torula glomerulosa Penz. & Sacc. SPECIES
-=======
+# Torula glomerulosa Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Albotricha Raitviir, 1970 GENUS
-=======
+# Albotricha Raitviir, 1970 GENUS
 
 #### Status
 ACCEPTED

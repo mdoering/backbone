@@ -1,5 +1,4 @@
-Podospora confluens P. Karst. SPECIES
-=======
+# Podospora confluens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

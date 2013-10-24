@@ -1,5 +1,4 @@
-Haematomyxa Sacc. GENUS
-=======
+# Haematomyxa Sacc. GENUS
 
 #### Status
 ACCEPTED

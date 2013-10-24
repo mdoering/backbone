@@ -1,5 +1,4 @@
-Microcoleus anguiformis Harvey SPECIES
-=======
+# Microcoleus anguiformis Harvey SPECIES
 
 #### Status
 ACCEPTED

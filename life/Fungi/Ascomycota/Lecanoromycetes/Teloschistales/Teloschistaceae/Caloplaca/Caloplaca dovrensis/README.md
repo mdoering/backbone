@@ -1,5 +1,4 @@
-Caloplaca dovrensis (H. Magn.) Degel. SPECIES
-=======
+# Caloplaca dovrensis (H. Magn.) Degel. SPECIES
 
 #### Status
 ACCEPTED

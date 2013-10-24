@@ -1,5 +1,4 @@
-Tylophorella polyspora Vain. SPECIES
-=======
+# Tylophorella polyspora Vain. SPECIES
 
 #### Status
 ACCEPTED

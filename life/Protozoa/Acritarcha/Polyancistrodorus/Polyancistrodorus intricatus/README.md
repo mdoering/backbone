@@ -1,5 +1,4 @@
-Polyancistrodorus intricatus Colbath, 1979 SPECIES
-=======
+# Polyancistrodorus intricatus Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

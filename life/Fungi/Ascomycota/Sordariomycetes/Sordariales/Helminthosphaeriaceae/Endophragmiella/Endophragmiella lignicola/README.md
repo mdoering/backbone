@@ -1,5 +1,4 @@
-Endophragmiella lignicola S. Hughes, 1979 SPECIES
-=======
+# Endophragmiella lignicola S. Hughes, 1979 SPECIES
 
 #### Status
 ACCEPTED

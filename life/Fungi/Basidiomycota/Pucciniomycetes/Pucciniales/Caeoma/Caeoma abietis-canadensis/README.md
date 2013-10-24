@@ -1,5 +1,4 @@
-Caeoma abietis-canadensis Farl. SPECIES
-=======
+# Caeoma abietis-canadensis Farl. SPECIES
 
 #### Status
 ACCEPTED

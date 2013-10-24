@@ -1,14 +1,13 @@
-Balladynastrum glabrum Hansf., 1946 SPECIES
-=======
+# Balladynocallia glabra (Hansf.) Bat., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. London 157: 157 (1946)
+in Batista, Silva & Bezerra, Atas Inst. Micol. Univ. Recife 2: 216 (1965)
 
 #### Original name
 Balladynastrum glabrum Hansf., 1946

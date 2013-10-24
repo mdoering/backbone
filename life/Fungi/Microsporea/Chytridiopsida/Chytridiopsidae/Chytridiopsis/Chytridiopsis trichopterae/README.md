@@ -1,5 +1,4 @@
-Chytridiopsis trichopterae J.I.R. Larsson SPECIES
-=======
+# Chytridiopsis trichopterae J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

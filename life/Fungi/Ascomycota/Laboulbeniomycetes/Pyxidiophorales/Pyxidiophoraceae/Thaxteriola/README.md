@@ -1,5 +1,4 @@
-Thaxteriola GENUS
-=======
+# Thaxteriola GENUS
 
 #### Status
 ACCEPTED

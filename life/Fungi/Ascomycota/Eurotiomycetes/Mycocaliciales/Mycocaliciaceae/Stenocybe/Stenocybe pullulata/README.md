@@ -1,5 +1,4 @@
-Stenocybe pullulata Syd. SPECIES
-=======
+# Stenocybe pullulata Syd. SPECIES
 
 #### Status
 ACCEPTED

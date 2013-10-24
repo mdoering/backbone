@@ -1,8 +1,7 @@
-Opercularia dytiscarum SPECIES
-=======
+# Opercularia dytiscidarum Faure-Fremiet, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

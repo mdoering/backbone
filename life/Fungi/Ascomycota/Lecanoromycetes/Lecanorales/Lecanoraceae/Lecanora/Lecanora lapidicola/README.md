@@ -1,5 +1,4 @@
-Lecanora lapidicola (Mereschk.) Motyka SPECIES
-=======
+# Lecanora lapidicola (Mereschk.) Motyka SPECIES
 
 #### Status
 ACCEPTED

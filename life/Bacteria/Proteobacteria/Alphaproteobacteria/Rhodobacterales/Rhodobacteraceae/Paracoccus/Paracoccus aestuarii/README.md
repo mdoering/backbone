@@ -1,5 +1,4 @@
-Paracoccus aestuarii Roh, Nam, Chang, Kim, Kim, Shin, Yoon, Oh & Bae, 2009 SPECIES
-=======
+# Paracoccus aestuarii Roh, Nam, Chang, Kim, Kim, Shin, Yoon, Oh & Bae, 2009 SPECIES
 
 #### Status
 ACCEPTED

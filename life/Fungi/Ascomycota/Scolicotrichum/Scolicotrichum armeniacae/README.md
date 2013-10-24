@@ -1,5 +1,4 @@
-Scolicotrichum armeniacae Nevod. SPECIES
-=======
+# Scolicotrichum armeniacae Nevod. SPECIES
 
 #### Status
 ACCEPTED

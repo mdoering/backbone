@@ -1,5 +1,4 @@
-Carboxydocella thermautotrophica Sokolova et al., 2002 SPECIES
-=======
+# Carboxydocella thermautotrophica Sokolova et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

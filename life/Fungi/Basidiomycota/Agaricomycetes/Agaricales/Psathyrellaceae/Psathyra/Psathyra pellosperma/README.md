@@ -1,5 +1,4 @@
-Psathyra pellosperma (Bull.) Berk. & Broome SPECIES
-=======
+# Psathyra pellosperma (Bull.) Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia erianthi G.F. Atk. SPECIES
-=======
+# Hendersonia erianthi G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

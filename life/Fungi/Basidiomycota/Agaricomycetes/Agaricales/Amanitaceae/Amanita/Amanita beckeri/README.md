@@ -1,5 +1,4 @@
-Amanita beckeri Huijsman SPECIES
-=======
+# Amanita beckeri Huijsman SPECIES
 
 #### Status
 ACCEPTED

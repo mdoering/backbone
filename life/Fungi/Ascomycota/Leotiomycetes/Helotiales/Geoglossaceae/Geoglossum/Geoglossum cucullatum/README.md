@@ -1,5 +1,4 @@
-Geoglossum cucullatum Fr. SPECIES
-=======
+# Geoglossum cucullatum Fr. SPECIES
 
 #### Status
 ACCEPTED

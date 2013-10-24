@@ -1,5 +1,4 @@
-Spicellum Nicot & Roquebert GENUS
-=======
+# Spicellum Nicot & Roquebert GENUS
 
 #### Status
 ACCEPTED

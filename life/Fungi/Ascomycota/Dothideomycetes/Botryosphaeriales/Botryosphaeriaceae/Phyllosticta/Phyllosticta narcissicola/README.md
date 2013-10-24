@@ -1,5 +1,4 @@
-Phyllosticta narcissicola Keissl. SPECIES
-=======
+# Phyllosticta narcissicola Keissl. SPECIES
 
 #### Status
 ACCEPTED

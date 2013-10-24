@@ -1,5 +1,4 @@
-Sphaerotheca shepherdiae U. Braun SPECIES
-=======
+# Sphaerotheca shepherdiae U. Braun SPECIES
 
 #### Status
 ACCEPTED

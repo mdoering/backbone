@@ -1,5 +1,4 @@
-Chroococcus catenatus J. Komárek & E. Novelo SPECIES
-=======
+# Chroococcus catenatus J. Komárek & E. Novelo SPECIES
 
 #### Status
 ACCEPTED

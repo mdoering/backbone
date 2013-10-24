@@ -1,5 +1,4 @@
-Planodinium R.D.Saunders & J.D.Dodge, 1984 GENUS
-=======
+# Planodinium R.D.Saunders & J.D.Dodge, 1984 GENUS
 
 #### Status
 ACCEPTED

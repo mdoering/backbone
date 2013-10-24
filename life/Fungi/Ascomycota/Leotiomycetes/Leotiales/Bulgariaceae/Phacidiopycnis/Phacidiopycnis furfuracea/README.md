@@ -1,5 +1,4 @@
-Phacidiopycnis furfuracea (O. Rostr.) Jørst. SPECIES
-=======
+# Phacidiopycnis furfuracea (O. Rostr.) Jørst. SPECIES
 
 #### Status
 ACCEPTED

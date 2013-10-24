@@ -1,5 +1,4 @@
-Spiniferomonas hamata H. Ito & E. Takahashi SPECIES
-=======
+# Spiniferomonas hamata H. Ito & E. Takahashi SPECIES
 
 #### Status
 ACCEPTED

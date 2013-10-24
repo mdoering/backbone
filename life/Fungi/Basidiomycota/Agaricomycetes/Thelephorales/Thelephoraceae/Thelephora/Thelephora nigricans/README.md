@@ -1,5 +1,4 @@
-Thelephora nigricans Stalpers, 1993 SPECIES
-=======
+# Thelephora nigricans Stalpers, 1993 SPECIES
 
 #### Status
 ACCEPTED

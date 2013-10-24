@@ -1,5 +1,4 @@
-Septoria narvisiana Sacc. SPECIES
-=======
+# Septoria narvisiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

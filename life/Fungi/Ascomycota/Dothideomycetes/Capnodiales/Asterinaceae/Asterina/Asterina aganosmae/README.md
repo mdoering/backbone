@@ -1,5 +1,4 @@
-Asterina aganosmae Petr. SPECIES
-=======
+# Asterina aganosmae Petr. SPECIES
 
 #### Status
 ACCEPTED

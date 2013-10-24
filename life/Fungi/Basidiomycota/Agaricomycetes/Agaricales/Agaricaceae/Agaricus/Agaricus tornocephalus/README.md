@@ -1,5 +1,4 @@
-Agaricus tornocephalus Berk. & Broome SPECIES
-=======
+# Agaricus tornocephalus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

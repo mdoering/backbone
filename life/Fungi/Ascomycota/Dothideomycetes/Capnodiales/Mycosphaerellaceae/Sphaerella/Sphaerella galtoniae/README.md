@@ -1,5 +1,4 @@
-Sphaerella galtoniae Hollós SPECIES
-=======
+# Sphaerella galtoniae Hollós SPECIES
 
 #### Status
 ACCEPTED

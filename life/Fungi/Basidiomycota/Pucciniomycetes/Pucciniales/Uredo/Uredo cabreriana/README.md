@@ -1,17 +1,16 @@
-Uredo cabrereana F. Kern & Kellerm. SPECIES
-=======
+# Uredo cabreriana F. Kern & Kellerm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 13(1): 25 (1907)
 
 #### Original name
-Uredo cabrereana F. Kern & Kellerm.
+Uredo cabreriana F. Kern & Kellerm.
 
 ### Remarks
 null

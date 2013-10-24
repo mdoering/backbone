@@ -1,5 +1,4 @@
-Cryptococcus zeae O. Molnár & Prillinger SPECIES
-=======
+# Cryptococcus zeae O. Molnár & Prillinger SPECIES
 
 #### Status
 ACCEPTED

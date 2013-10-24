@@ -1,5 +1,4 @@
-Ramaria nivalis Cetto SPECIES
-=======
+# Ramaria nivalis Cetto SPECIES
 
 #### Status
 ACCEPTED

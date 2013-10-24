@@ -1,5 +1,4 @@
-Dothiora rhamni Fuckel SPECIES
-=======
+# Dothiora rhamni Fuckel SPECIES
 
 #### Status
 ACCEPTED

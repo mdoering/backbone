@@ -1,8 +1,7 @@
-Genea gardnerii Gilkey SPECIES
-=======
+# Genea gardneri Gilkey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Genea gardnerii Gilkey
+Genea gardneri Gilkey
 
 ### Remarks
 null

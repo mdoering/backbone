@@ -1,5 +1,4 @@
-Buellia granularis Müll. Arg. SPECIES
-=======
+# Buellia granularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

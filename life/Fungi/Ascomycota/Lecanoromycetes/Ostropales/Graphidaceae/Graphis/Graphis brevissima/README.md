@@ -1,5 +1,4 @@
-Graphis brevissima Fée SPECIES
-=======
+# Graphis brevissima Fée SPECIES
 
 #### Status
 ACCEPTED

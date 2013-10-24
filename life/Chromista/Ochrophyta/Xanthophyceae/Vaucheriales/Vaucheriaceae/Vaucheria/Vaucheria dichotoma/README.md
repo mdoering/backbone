@@ -1,5 +1,4 @@
-Vaucheria dichotoma f. marina Hauck FORM
-=======
+# Vaucheria dichotoma (Linnaeus) Martius SPECIES
 
 #### Status
 ACCEPTED

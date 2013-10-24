@@ -1,5 +1,4 @@
-Penicillium trzebinskianum S. Abe ex C. Ramírez SPECIES
-=======
+# Penicillium trzebinskianum S. Abe ex C. Ramírez SPECIES
 
 #### Status
 ACCEPTED

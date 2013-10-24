@@ -1,17 +1,16 @@
-Heterodermia isidiophora var. isidiophora (Vain.) D.D. Awasthi VARIETY
-=======
+# Heterodermia isidiophora (Vain.) D. D. Awasthi SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Geophytology 3: 114 (1973)
 
 #### Original name
-Heterodermia isidiophora var. isidiophora (Vain.) D.D. Awasthi
+Physcia speciosa f. isidiophora Nyl.
 
 ### Remarks
 null

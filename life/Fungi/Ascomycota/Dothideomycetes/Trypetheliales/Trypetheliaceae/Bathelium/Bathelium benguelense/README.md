@@ -1,5 +1,4 @@
-Bathelium benguelense Müll. Arg. SPECIES
-=======
+# Bathelium benguelense Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

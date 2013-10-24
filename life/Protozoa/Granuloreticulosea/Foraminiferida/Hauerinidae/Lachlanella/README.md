@@ -1,5 +1,4 @@
-Lachlanella Vella, 1957 GENUS
-=======
+# Lachlanella Vella, 1957 GENUS
 
 #### Status
 ACCEPTED

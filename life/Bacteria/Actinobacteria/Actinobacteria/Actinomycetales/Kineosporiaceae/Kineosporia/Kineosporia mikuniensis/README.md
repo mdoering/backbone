@@ -1,5 +1,4 @@
-Kineosporia mikuniensis Kudo et al., 1998 SPECIES
-=======
+# Kineosporia mikuniensis Kudo et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

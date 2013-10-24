@@ -1,5 +1,4 @@
-Castanoporus Ryvarden GENUS
-=======
+# Castanoporus Ryvarden GENUS
 
 #### Status
 ACCEPTED

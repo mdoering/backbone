@@ -1,5 +1,4 @@
-Vaucheriales (Naegeli) Bohlin ORDER
-=======
+# Vaucheriales (Naegeli) Bohlin ORDER
 
 #### Status
 ACCEPTED

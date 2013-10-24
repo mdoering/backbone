@@ -1,5 +1,4 @@
-Prunulus corticalis (Bull.) Murrill SPECIES
-=======
+# Prunulus corticalis (Bull.) Murrill SPECIES
 
 #### Status
 ACCEPTED

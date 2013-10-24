@@ -1,5 +1,4 @@
-Stephanophoron mammillatum (Vain.) Nádv. SPECIES
-=======
+# Stephanophoron mammillatum (Vain.) Nádv. SPECIES
 
 #### Status
 ACCEPTED

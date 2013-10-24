@@ -1,5 +1,4 @@
-Marssonia ochroleuca (Berk. & M.A. Curtis) Schwarze SPECIES
-=======
+# Marssonia ochroleuca (Berk. & M.A. Curtis) Schwarze SPECIES
 
 #### Status
 ACCEPTED

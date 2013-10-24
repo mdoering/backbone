@@ -1,5 +1,4 @@
-Agaricus umbratus With. SPECIES
-=======
+# Agaricus umbratus With. SPECIES
 
 #### Status
 ACCEPTED

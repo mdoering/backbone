@@ -1,5 +1,4 @@
-Agaricus stereocephalus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus stereocephalus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

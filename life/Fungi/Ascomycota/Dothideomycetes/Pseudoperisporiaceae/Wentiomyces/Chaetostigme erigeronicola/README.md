@@ -1,5 +1,4 @@
-Chaetostigme erigeronicola (F. Stevens) F. Stevens SPECIES
-=======
+# Chaetostigme erigeronicola (F. Stevens) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

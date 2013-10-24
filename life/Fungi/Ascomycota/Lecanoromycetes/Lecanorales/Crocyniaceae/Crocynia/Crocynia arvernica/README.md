@@ -1,5 +1,4 @@
-Crocynia arvernica B. de Lesd. SPECIES
-=======
+# Crocynia arvernica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

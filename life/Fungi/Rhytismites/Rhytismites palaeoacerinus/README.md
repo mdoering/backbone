@@ -1,5 +1,4 @@
-Rhytismites palaeoacerinus (Engelhard) Mesch. SPECIES
-=======
+# Rhytismites palaeoacerinus (Engelhard) Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopsidium separans Hulting SPECIES
-=======
+# Pyrenopsidium separans Hulting SPECIES
 
 #### Status
 ACCEPTED

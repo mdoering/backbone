@@ -1,5 +1,4 @@
-Lecanactis pezizoidea (Ach.) Nyl. SPECIES
-=======
+# Lecanactis pezizoidea (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

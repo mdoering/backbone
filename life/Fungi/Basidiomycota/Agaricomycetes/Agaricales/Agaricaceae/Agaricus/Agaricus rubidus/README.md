@@ -1,5 +1,4 @@
-Agaricus rubidus L. SPECIES
-=======
+# Agaricus rubidus L. SPECIES
 
 #### Status
 ACCEPTED

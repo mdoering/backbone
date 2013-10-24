@@ -1,5 +1,4 @@
-Spermatodium minus (Fée) Trevis. SPECIES
-=======
+# Spermatodium minus (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

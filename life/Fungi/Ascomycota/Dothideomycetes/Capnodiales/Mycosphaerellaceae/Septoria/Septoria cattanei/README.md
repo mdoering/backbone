@@ -1,5 +1,4 @@
-Septoria cattanei Thüm. SPECIES
-=======
+# Septoria cattanei Thüm. SPECIES
 
 #### Status
 ACCEPTED

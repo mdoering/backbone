@@ -1,17 +1,16 @@
-Periconiella cordylinae McKenzie SPECIES
-=======
+# Periconiella cordylines McKenzie, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 39: 232 (1990)
 
 #### Original name
-Periconiella cordylinae McKenzie
+Periconiella cordylines McKenzie, 1990
 
 ### Remarks
 null

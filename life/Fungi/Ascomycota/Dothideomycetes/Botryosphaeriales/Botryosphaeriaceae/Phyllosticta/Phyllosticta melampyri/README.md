@@ -1,5 +1,4 @@
-Phyllosticta melampyri Allesch. SPECIES
-=======
+# Phyllosticta melampyri Allesch. SPECIES
 
 #### Status
 ACCEPTED

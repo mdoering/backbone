@@ -1,5 +1,4 @@
-Hydnum suberosocoriaceum Britzelm. SPECIES
-=======
+# Hydnum suberosocoriaceum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

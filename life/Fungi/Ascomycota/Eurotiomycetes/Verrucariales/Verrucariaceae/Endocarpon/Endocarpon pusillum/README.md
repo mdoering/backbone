@@ -1,17 +1,16 @@
-Dermatocarpon pusillum var. pusillum (Hedw.) Anzi VARIETY
-=======
+# Endocarpon pusillum Hedw. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Descr. micr. -anal. musc. frond. 2: 56 (1789)
 
 #### Original name
-Dermatocarpon pusillum var. pusillum (Hedw.) Anzi
+Endocarpon pusillum Hedw.
 
 ### Remarks
 null

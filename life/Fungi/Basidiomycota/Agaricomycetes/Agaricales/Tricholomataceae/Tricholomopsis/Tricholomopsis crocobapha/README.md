@@ -1,5 +1,4 @@
-Tricholomopsis crocobapha (Berk. & Broome) Pegler SPECIES
-=======
+# Tricholomopsis crocobapha (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

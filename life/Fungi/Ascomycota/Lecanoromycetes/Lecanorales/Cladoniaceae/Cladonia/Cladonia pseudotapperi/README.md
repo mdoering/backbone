@@ -1,5 +1,4 @@
-Cladonia pseudotapperi Øvstedal SPECIES
-=======
+# Cladonia pseudotapperi Øvstedal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora japonica Yasuda, 1916 SPECIES
-=======
+# Thelephora japonica Yasuda, 1916 SPECIES
 
 #### Status
 ACCEPTED

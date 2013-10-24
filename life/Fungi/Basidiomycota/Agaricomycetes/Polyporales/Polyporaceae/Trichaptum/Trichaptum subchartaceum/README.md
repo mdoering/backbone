@@ -1,14 +1,13 @@
-Heteroporus subchartaceus (Murrill) Bondartsev & Singer, 1941 SPECIES
-=======
+# Trichaptum subchartaceum (Murrill) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 39(1): 63 (1941)
+Norw. Jl Bot. 19: 237 (1972)
 
 #### Original name
 Coriolus subchartaceus Murrill, 1907

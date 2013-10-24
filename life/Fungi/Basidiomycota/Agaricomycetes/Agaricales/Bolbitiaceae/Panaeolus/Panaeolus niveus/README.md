@@ -1,5 +1,4 @@
-Panaeolus niveus Velen. SPECIES
-=======
+# Panaeolus niveus Velen. SPECIES
 
 #### Status
 ACCEPTED

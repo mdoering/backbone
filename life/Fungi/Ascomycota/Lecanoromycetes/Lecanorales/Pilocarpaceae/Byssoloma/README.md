@@ -1,17 +1,16 @@
-Tricholechia A. Massal. GENUS
-=======
+# Byssoloma Trevis. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Alcuni Gen. Lich. 8 (1853)
+Spighe Paglie 6 (1853)
 
 #### Original name
-Tricholechia A. Massal.
+Byssoloma Trevis.
 
 ### Remarks
 null

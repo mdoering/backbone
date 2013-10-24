@@ -1,5 +1,4 @@
-Anthostomella palmarum Petch SPECIES
-=======
+# Anthostomella palmarum Petch SPECIES
 
 #### Status
 ACCEPTED

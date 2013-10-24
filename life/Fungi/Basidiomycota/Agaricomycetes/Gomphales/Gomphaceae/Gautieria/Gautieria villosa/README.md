@@ -1,5 +1,4 @@
-Gautieria villosa Quél. SPECIES
-=======
+# Gautieria villosa Quél. SPECIES
 
 #### Status
 ACCEPTED

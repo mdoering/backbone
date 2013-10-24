@@ -1,5 +1,4 @@
-Diaporthe lithraeae Speg. SPECIES
-=======
+# Diaporthe lithraeae Speg. SPECIES
 
 #### Status
 ACCEPTED

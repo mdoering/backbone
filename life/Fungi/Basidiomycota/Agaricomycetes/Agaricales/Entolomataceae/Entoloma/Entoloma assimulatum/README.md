@@ -1,5 +1,4 @@
-Entoloma assimulatum Corner & E. Horak SPECIES
-=======
+# Entoloma assimulatum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

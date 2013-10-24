@@ -1,5 +1,4 @@
-Phyllosticta althaeina Sacc. SPECIES
-=======
+# Phyllosticta althaeina Sacc. SPECIES
 
 #### Status
 ACCEPTED

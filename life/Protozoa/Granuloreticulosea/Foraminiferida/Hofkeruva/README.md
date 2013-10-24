@@ -1,5 +1,4 @@
-Hofkeruva Vella, 1961 GENUS
-=======
+# Hofkeruva Vella, 1961 GENUS
 
 #### Status
 ACCEPTED

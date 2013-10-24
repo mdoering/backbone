@@ -1,5 +1,4 @@
-Spiroplectammina taiwanica Chang SPECIES
-=======
+# Spiroplectammina taiwanica Chang SPECIES
 
 #### Status
 ACCEPTED

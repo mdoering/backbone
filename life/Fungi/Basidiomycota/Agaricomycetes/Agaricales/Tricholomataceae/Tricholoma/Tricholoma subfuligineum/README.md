@@ -1,5 +1,4 @@
-Tricholoma subfuligineum (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma subfuligineum (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

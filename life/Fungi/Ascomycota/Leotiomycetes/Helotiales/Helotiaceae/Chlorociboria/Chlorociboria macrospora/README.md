@@ -1,5 +1,4 @@
-Chlorociboria macrospora P.R. Johnst., 2005 SPECIES
-=======
+# Chlorociboria macrospora P.R. Johnst., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercophora rubrotuberculata A.N. Mill., Mugambi & Huhndorf SPECIES
-=======
+# Cercophora rubrotuberculata A.N. Mill., Mugambi & Huhndorf SPECIES
 
 #### Status
 ACCEPTED

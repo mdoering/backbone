@@ -1,5 +1,4 @@
-Didymosphaeria calamicola Aptroot, J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Didymosphaeria calamicola Aptroot, J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

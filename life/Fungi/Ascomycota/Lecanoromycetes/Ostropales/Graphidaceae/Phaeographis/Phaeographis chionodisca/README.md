@@ -1,5 +1,4 @@
-Phaeographis chionodisca Redinger SPECIES
-=======
+# Phaeographis chionodisca Redinger SPECIES
 
 #### Status
 ACCEPTED

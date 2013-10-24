@@ -1,5 +1,4 @@
-Eubacterium yurii subsp. yurii SUBSPECIES
-=======
+# Eubacterium yurii Margaret & Krywolap, 1986 SPECIES
 
 #### Status
 ACCEPTED

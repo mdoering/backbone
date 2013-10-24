@@ -1,5 +1,4 @@
-Ellipsoidion acuminatum Pascher SPECIES
-=======
+# Ellipsoidion acuminatum Pascher SPECIES
 
 #### Status
 ACCEPTED

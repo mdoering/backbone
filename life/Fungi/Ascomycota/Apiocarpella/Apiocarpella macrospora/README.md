@@ -1,14 +1,13 @@
-Apiosporella macrospora Speg., 1910 SPECIES
-=======
+# Apiocarpella macrospora (Speg.) Syd. & P. Syd., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 17(1): 43 (1919)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Septonema heteronemum Desm. SPECIES
-=======
+# Septonema heteronemum Desm. SPECIES
 
 #### Status
 ACCEPTED

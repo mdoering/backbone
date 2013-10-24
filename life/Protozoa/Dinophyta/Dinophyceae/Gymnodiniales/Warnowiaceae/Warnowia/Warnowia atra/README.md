@@ -1,5 +1,4 @@
-Warnowia atra (Kofoid & Swezy) Schiller, 1937 SPECIES
-=======
+# Warnowia atra (Kofoid & Swezy) Schiller, 1937 SPECIES
 
 #### Status
 ACCEPTED

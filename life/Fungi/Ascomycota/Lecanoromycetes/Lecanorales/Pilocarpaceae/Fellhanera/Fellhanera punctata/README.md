@@ -1,5 +1,4 @@
-Fellhanera punctata Lücking SPECIES
-=======
+# Fellhanera punctata Lücking SPECIES
 
 #### Status
 ACCEPTED

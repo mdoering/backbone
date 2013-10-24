@@ -1,5 +1,4 @@
-Gaudryina pseudohayasakai Chang SPECIES
-=======
+# Gaudryina pseudohayasakai Chang SPECIES
 
 #### Status
 ACCEPTED

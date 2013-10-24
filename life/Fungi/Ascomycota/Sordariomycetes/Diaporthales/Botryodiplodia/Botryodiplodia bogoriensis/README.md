@@ -1,5 +1,4 @@
-Botryodiplodia bogoriensis (Penz. & Sacc.) Petr. SPECIES
-=======
+# Botryodiplodia bogoriensis (Penz. & Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

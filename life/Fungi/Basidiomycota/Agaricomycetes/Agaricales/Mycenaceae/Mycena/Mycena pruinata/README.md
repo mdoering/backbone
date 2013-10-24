@@ -1,5 +1,4 @@
-Mycena pruinata (Fr.) Sacc. SPECIES
-=======
+# Mycena pruinata (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

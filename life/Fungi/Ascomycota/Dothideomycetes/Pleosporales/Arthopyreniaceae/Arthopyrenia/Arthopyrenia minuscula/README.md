@@ -1,5 +1,4 @@
-Arthopyrenia minuscula Müll. Arg. SPECIES
-=======
+# Arthopyrenia minuscula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

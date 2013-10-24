@@ -1,5 +1,4 @@
-Cercospora tripolitana Sacc. & Trotter SPECIES
-=======
+# Cercospora tripolitana Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

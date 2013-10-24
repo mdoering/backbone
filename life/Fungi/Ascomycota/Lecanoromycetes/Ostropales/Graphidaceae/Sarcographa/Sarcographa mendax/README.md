@@ -1,5 +1,4 @@
-Sarcographa mendax (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Sarcographa mendax (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

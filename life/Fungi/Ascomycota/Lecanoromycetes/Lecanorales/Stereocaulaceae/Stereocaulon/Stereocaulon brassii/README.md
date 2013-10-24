@@ -1,5 +1,4 @@
-Stereocaulon brassii I.M. Lamb SPECIES
-=======
+# Stereocaulon brassii I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

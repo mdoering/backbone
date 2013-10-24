@@ -1,5 +1,4 @@
-Struvea ramosa Dickie, 1874 SPECIES
-=======
+# Struvea ramosa Dickie, 1874 SPECIES
 
 #### Status
 ACCEPTED

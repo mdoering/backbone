@@ -1,5 +1,4 @@
-Pallidogramme commutabilis (Kremp.) Chitale & Makhija SPECIES
-=======
+# Pallidogramme commutabilis (Kremp.) Chitale & Makhija SPECIES
 
 #### Status
 ACCEPTED

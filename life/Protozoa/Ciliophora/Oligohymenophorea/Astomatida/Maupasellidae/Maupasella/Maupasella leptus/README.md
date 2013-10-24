@@ -1,5 +1,4 @@
-Maupasella leptus Wichterman, 1942 SPECIES
-=======
+# Maupasella leptus Wichterman, 1942 SPECIES
 
 #### Status
 ACCEPTED

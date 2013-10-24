@@ -1,5 +1,4 @@
-Nectria sulphurea (Ellis & Calk.) Sacc. SPECIES
-=======
+# Nectria sulphurea (Ellis & Calk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

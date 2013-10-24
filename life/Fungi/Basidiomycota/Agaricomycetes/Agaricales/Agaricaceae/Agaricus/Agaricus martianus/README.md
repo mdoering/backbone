@@ -1,5 +1,4 @@
-Agaricus martianus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus martianus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

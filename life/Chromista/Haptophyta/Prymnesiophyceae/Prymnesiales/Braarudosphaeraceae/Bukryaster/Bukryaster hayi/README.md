@@ -1,5 +1,4 @@
-Bukryaster hayi (Bukry, 1969) Prins & Sissingh in Sissingh, 1977 SPECIES
-=======
+# Bukryaster hayi (Bukry, 1969) Prins & Sissingh in Sissingh, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria anceps Höhn. SPECIES
-=======
+# Botryosphaeria anceps Höhn. SPECIES
 
 #### Status
 ACCEPTED

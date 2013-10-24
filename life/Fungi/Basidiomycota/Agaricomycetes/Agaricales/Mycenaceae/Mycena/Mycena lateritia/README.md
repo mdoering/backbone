@@ -1,5 +1,4 @@
-Mycena lateritia Velen. SPECIES
-=======
+# Mycena lateritia Velen. SPECIES
 
 #### Status
 ACCEPTED

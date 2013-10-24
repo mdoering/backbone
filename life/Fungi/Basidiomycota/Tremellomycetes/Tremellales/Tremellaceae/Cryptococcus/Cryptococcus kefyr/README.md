@@ -1,5 +1,4 @@
-Cryptococcus kefyr (Beij.) C.E. Skinner SPECIES
-=======
+# Cryptococcus kefyr (Beij.) C.E. Skinner SPECIES
 
 #### Status
 ACCEPTED

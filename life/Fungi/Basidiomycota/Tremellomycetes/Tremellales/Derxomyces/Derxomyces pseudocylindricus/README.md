@@ -1,17 +1,16 @@
-Derxomyces pseudocylindrica F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Derxomyces pseudocylindricus F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Wang & Bai, FEMS Yeast Res. 8(5): 809 (2008)
 
 #### Original name
-Derxomyces pseudocylindrica F.Y. Bai & Q.M. Wang
+Derxomyces pseudocylindricus F.Y. Bai & Q.M. Wang
 
 ### Remarks
 null

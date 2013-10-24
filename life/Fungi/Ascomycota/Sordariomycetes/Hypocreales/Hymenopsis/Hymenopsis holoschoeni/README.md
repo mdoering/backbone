@@ -1,5 +1,4 @@
-Hymenopsis holoschoeni Maire SPECIES
-=======
+# Hymenopsis holoschoeni Maire SPECIES
 
 #### Status
 ACCEPTED

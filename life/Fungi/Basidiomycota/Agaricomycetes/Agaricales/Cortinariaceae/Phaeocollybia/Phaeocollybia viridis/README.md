@@ -1,5 +1,4 @@
-Phaeocollybia viridis E. Horak SPECIES
-=======
+# Phaeocollybia viridis E. Horak SPECIES
 
 #### Status
 ACCEPTED

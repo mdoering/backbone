@@ -1,5 +1,4 @@
-Polyblastia epomphala (Nyl.) Zschacke SPECIES
-=======
+# Polyblastia epomphala (Nyl.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nothyocha insolita f. quadrangula T.V. Desikachary & P. Prema FORM
-=======
+# Nothyocha insolita SPECIES
 
 #### Status
 ACCEPTED

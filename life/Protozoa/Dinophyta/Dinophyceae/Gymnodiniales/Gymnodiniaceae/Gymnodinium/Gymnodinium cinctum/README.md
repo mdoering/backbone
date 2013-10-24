@@ -1,5 +1,4 @@
-Gymnodinium cinctum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium cinctum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

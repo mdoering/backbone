@@ -1,17 +1,16 @@
-Placidium adami-borosi Szatala SPECIES
-=======
+# Catapyrenium adami-borosi (Szatala) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Nimis & Poelt, Stud. Geobot. 7(suppl. 1): 78 (1987)
 
 #### Original name
-null
+Placidium adami-borosi Szatala
 
 ### Remarks
 null

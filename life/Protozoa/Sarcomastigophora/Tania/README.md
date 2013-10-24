@@ -1,5 +1,4 @@
-Tania Matsumaru, 1990 GENUS
-=======
+# Tania Matsumaru, 1990 GENUS
 
 #### Status
 ACCEPTED

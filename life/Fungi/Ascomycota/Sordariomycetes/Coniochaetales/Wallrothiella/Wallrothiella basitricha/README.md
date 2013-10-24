@@ -1,5 +1,4 @@
-Wallrothiella basitricha Penz. & Sacc. SPECIES
-=======
+# Wallrothiella basitricha Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

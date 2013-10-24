@@ -1,5 +1,4 @@
-Enterographa batistae Lücking & Sérus. SPECIES
-=======
+# Enterographa batistae Lücking & Sérus. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metrodia collybioides Raithelh., 1971 SPECIES
-=======
+# Metrodia collybioides Raithelh., 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusariomyces GENUS
-=======
+# Pertusariomyces GENUS
 
 #### Status
 ACCEPTED

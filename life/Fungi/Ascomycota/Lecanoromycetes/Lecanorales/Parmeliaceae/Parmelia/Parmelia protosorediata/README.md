@@ -1,5 +1,4 @@
-Parmelia protosorediata Gyeln. SPECIES
-=======
+# Parmelia protosorediata Gyeln. SPECIES
 
 #### Status
 ACCEPTED

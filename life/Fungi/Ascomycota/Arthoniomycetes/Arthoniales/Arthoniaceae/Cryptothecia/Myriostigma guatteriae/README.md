@@ -1,5 +1,4 @@
-Myriostigma guatteriae G. Arnaud SPECIES
-=======
+# Myriostigma guatteriae G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

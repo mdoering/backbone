@@ -1,5 +1,4 @@
-Omphalia directa (Berk. & Broome) Sacc. SPECIES
-=======
+# Omphalia directa (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

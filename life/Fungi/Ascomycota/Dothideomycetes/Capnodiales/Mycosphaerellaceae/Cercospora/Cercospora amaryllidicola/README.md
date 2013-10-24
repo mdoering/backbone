@@ -1,17 +1,16 @@
-Cercospora amaryllicola R.C. Rajak SPECIES
-=======
+# Cercospora amaryllidicola R.C. Rajak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 10(2): 457 (1980)
 
 #### Original name
-Cercospora amaryllicola R.C. Rajak
+Cercospora amaryllidicola R.C. Rajak
 
 ### Remarks
 null

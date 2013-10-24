@@ -1,5 +1,4 @@
-Pseudocercospora pallidissima var. pallidissima VARIETY
-=======
+# Pseudocercospora pallidissima (Chupp) Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. Pap. 140: 149 (1976)
 
 #### Original name
-Pseudocercospora pallidissima var. pallidissima
+Cercospora pallidissima Chupp
 
 ### Remarks
 null

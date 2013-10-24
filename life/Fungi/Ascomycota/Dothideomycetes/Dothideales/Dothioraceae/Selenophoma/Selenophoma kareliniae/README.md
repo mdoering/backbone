@@ -1,5 +1,4 @@
-Selenophoma kareliniae Nasyrov SPECIES
-=======
+# Selenophoma kareliniae Nasyrov SPECIES
 
 #### Status
 ACCEPTED

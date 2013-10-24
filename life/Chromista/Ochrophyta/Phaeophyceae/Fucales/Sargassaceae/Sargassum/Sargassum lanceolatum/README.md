@@ -1,11 +1,10 @@
-Sargassum lanceolatum var. colomboënse Grunow, 1916 VARIETY
-=======
+# Sargassum lanceolatum J. Agardh SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

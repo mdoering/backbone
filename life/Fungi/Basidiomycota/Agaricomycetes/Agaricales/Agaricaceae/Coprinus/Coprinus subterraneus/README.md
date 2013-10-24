@@ -1,5 +1,4 @@
-Coprinus subterraneus Roum. SPECIES
-=======
+# Coprinus subterraneus Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria miscanthi Sawada SPECIES
-=======
+# Metasphaeria miscanthi Sawada SPECIES
 
 #### Status
 ACCEPTED

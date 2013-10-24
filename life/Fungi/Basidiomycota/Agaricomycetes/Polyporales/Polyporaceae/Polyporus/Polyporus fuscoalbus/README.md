@@ -1,5 +1,4 @@
-Polyporus fuscoalbus Jungh. SPECIES
-=======
+# Polyporus fuscoalbus Jungh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium Fries GENUS
-=======
+# Macrosporium Fries GENUS
 
 #### Status
 ACCEPTED

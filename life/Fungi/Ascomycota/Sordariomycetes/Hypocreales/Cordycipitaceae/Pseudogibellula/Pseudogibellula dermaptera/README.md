@@ -1,5 +1,4 @@
-Pseudogibellula dermaptera ined. SPECIES
-=======
+# Pseudogibellula dermaptera ined. SPECIES
 
 #### Status
 ACCEPTED

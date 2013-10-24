@@ -1,5 +1,4 @@
-Ochromonas mexicana Norris SPECIES
-=======
+# Ochromonas mexicana Norris SPECIES
 
 #### Status
 ACCEPTED

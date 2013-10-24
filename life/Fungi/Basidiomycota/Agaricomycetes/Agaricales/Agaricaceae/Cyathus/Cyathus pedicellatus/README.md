@@ -1,5 +1,4 @@
-Cyathus pedicellatus H.J. Brodie SPECIES
-=======
+# Cyathus pedicellatus H.J. Brodie SPECIES
 
 #### Status
 ACCEPTED

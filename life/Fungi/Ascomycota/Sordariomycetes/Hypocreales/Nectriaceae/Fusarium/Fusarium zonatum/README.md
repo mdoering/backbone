@@ -1,5 +1,4 @@
-Fusarium zonatum (Sherb.) Wollenw. SPECIES
-=======
+# Fusarium zonatum (Sherb.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

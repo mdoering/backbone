@@ -1,5 +1,4 @@
-Colletotrichum peckianum (Thüm.) Petr. & Syd. SPECIES
-=======
+# Colletotrichum peckianum (Thüm.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

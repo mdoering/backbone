@@ -1,14 +1,13 @@
-Gymnopus atratus (Fr.) Murrill, 1916 SPECIES
-=======
+# Tephrocybe atrata (Fr.) Donk, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 9(5): 364 (1916)
+Nova Hedwigia, Beih. 5: 284 (1962)
 
 #### Original name
 Agaricus atratus Fr., 1818

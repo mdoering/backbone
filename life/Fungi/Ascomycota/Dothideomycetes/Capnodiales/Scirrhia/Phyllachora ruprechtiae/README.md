@@ -1,5 +1,4 @@
-Phyllachora ruprechtiae Speg., 1885 SPECIES
-=======
+# Phyllachora ruprechtiae Speg., 1885 SPECIES
 
 #### Status
 DOUBTFUL

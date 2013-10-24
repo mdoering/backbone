@@ -1,5 +1,4 @@
-Agaricus aterrimus Raf. SPECIES
-=======
+# Agaricus aterrimus Raf. SPECIES
 
 #### Status
 ACCEPTED

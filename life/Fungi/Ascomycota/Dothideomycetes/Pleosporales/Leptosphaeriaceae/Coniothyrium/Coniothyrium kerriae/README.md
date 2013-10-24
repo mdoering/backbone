@@ -1,5 +1,4 @@
-Coniothyrium kerriae Lebreton SPECIES
-=======
+# Coniothyrium kerriae Lebreton SPECIES
 
 #### Status
 ACCEPTED

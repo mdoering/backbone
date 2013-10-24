@@ -1,5 +1,4 @@
-Andrejella Malakhova, 1975 GENUS
-=======
+# Andrejella Malakhova, 1975 GENUS
 
 #### Status
 ACCEPTED

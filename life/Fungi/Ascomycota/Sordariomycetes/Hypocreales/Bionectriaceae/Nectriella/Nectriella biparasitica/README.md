@@ -1,5 +1,4 @@
-Nectriella biparasitica (Höhn.) Weese SPECIES
-=======
+# Nectriella biparasitica (Höhn.) Weese SPECIES
 
 #### Status
 ACCEPTED

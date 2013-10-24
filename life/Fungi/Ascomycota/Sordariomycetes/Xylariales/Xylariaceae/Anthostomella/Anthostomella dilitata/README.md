@@ -1,5 +1,4 @@
-Anthostomella dilitata (Berk. & Broome) Petch SPECIES
-=======
+# Anthostomella dilitata (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

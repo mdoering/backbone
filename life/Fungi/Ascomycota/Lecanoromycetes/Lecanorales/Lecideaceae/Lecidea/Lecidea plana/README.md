@@ -1,17 +1,16 @@
-Lecidea plana f. plana FORM
-=======
+# Lecidea plana (J. Lahm) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein (1861)
+Flora, Jena 55(no. 35): 552 (1872)
 
 #### Original name
-Lecidea plana f. plana
+Lecidella plana J. Lahm
 
 ### Remarks
 null

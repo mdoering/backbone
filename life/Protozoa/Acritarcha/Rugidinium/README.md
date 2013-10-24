@@ -1,5 +1,4 @@
-Rugidinium S.A.J. Pocock & W.A.S. Sarjeant in S.A.J. Pocock, 1972 GENUS
-=======
+# Rugidinium S.A.J. Pocock & W.A.S. Sarjeant in S.A.J. Pocock, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Harpella meridianalis Lichtw. & Arenas SPECIES
-=======
+# Harpella meridionalis Lichtw. & Arenas, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 88(5): 845 (1996)
 
 #### Original name
-Harpella meridianalis Lichtw. & Arenas
+Harpella meridionalis Lichtw. & Arenas, 1996
 
 ### Remarks
 null

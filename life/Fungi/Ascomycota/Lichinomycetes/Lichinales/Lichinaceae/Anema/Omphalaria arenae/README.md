@@ -1,5 +1,4 @@
-Omphalaria arenae Forssell SPECIES
-=======
+# Omphalaria arenae Forssell SPECIES
 
 #### Status
 ACCEPTED

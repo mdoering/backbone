@@ -1,5 +1,4 @@
-Caloplaca vorukhica S.Y. Kondr. & Kudratov SPECIES
-=======
+# Caloplaca vorukhica S.Y. Kondr. & Kudratov SPECIES
 
 #### Status
 ACCEPTED

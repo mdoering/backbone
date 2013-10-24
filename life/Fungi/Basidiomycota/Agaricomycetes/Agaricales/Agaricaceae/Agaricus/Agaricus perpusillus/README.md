@@ -1,5 +1,4 @@
-Agaricus perpusillus Lumn. SPECIES
-=======
+# Agaricus perpusillus Lumn. SPECIES
 
 #### Status
 ACCEPTED

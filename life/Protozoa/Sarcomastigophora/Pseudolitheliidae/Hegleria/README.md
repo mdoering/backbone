@@ -1,5 +1,4 @@
-Hegleria Nazarov & Ormiston, 1985 GENUS
-=======
+# Hegleria Nazarov & Ormiston, 1985 GENUS
 
 #### Status
 ACCEPTED

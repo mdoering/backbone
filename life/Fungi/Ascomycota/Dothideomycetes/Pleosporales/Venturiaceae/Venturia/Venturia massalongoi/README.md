@@ -1,14 +1,13 @@
-Venturia massalongii (Traverso) Bachm. SPECIES
-=======
+# Venturia massalongoi (Traverso) Bachm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Phytopath. Z. 47: 199 (1963)
 
 #### Original name
 Coleroa massalongoi Traverso

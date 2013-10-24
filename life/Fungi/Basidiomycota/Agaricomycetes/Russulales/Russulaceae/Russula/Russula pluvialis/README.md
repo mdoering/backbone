@@ -1,5 +1,4 @@
-Russula pluvialis Singer SPECIES
-=======
+# Russula pluvialis Singer SPECIES
 
 #### Status
 ACCEPTED

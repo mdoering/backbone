@@ -1,5 +1,4 @@
-Piringa GENUS
-=======
+# Piringa GENUS
 
 #### Status
 ACCEPTED

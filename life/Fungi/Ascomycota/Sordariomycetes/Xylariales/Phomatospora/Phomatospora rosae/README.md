@@ -1,5 +1,4 @@
-Phomatospora rosae Rehm SPECIES
-=======
+# Phomatospora rosae Rehm SPECIES
 
 #### Status
 ACCEPTED

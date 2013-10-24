@@ -1,5 +1,4 @@
-Acarospora americana H. Magn. SPECIES
-=======
+# Acarospora americana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

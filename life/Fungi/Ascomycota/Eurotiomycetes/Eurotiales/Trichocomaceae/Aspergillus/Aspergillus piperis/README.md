@@ -1,5 +1,4 @@
-Aspergillus piperis Samson & Frisvad SPECIES
-=======
+# Aspergillus piperis Samson & Frisvad SPECIES
 
 #### Status
 ACCEPTED

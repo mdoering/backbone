@@ -1,5 +1,4 @@
-Pestalotia virginiana Oudem. SPECIES
-=======
+# Pestalotia virginiana Oudem. SPECIES
 
 #### Status
 ACCEPTED

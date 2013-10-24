@@ -1,5 +1,4 @@
-Aplosporella longipes Ellis & Barthol. SPECIES
-=======
+# Aplosporella longipes Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

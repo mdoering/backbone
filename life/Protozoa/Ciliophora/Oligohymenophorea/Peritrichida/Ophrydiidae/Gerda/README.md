@@ -1,5 +1,4 @@
-Gerda Claparede & Lachmann, 1858 GENUS
-=======
+# Gerda Claparede & Lachmann, 1858 GENUS
 
 #### Status
 ACCEPTED

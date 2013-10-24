@@ -1,5 +1,4 @@
-Stropharia farlowiana Raithelh. SPECIES
-=======
+# Stropharia farlowiana Raithelh. SPECIES
 
 #### Status
 ACCEPTED

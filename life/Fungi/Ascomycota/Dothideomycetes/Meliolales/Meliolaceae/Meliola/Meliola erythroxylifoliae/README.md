@@ -1,17 +1,16 @@
-Meliola erythroxylifolii Bat. & A.F. Vital SPECIES
-=======
+# Meliola erythroxylifoliae Bat. & A.F. Vital SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anais IV Congr. Soc. bot. Brasil 105 (1953)
 
 #### Original name
-Meliola erythroxylifolii Bat. & A.F. Vital
+Meliola erythroxylifoliae Bat. & A.F. Vital
 
 ### Remarks
 null

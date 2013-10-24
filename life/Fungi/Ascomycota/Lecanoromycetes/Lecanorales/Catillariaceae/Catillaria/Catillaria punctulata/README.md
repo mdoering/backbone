@@ -1,5 +1,4 @@
-Catillaria punctulata SPECIES
-=======
+# Catillaria punctulata SPECIES
 
 #### Status
 ACCEPTED

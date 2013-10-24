@@ -1,5 +1,4 @@
-Eutypa falcata Syd. & P. Syd. SPECIES
-=======
+# Eutypa falcata Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta bertholletiae Bat., H. Maia & Peres SPECIES
-=======
+# Phyllosticta bertholletiae Bat., H. Maia & Peres SPECIES
 
 #### Status
 ACCEPTED

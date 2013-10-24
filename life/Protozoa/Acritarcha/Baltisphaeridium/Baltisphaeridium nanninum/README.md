@@ -1,5 +1,4 @@
-Baltisphaeridium nanninum Eisenack, 1965 SPECIES
-=======
+# Baltisphaeridium nanninum Eisenack, 1965 SPECIES
 
 #### Status
 ACCEPTED

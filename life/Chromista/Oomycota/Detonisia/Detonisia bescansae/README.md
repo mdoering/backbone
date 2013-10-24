@@ -1,5 +1,4 @@
-Detonisia bescansae Gonz. Frag. SPECIES
-=======
+# Detonisia bescansae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

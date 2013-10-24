@@ -1,5 +1,4 @@
-Cortinarius maculosus (Pers.) Fr. SPECIES
-=======
+# Cortinarius maculosus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

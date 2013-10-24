@@ -1,5 +1,4 @@
-Parasterina bredemeyerae anon. SPECIES
-=======
+# Parasterina bredemeyerae anon. SPECIES
 
 #### Status
 ACCEPTED

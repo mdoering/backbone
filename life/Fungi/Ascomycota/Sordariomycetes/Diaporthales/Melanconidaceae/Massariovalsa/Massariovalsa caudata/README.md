@@ -1,5 +1,4 @@
-Massariovalsa caudata Ellis & Everh., 1893 SPECIES
-=======
+# Massariovalsa caudata Ellis & Everh., 1893 SPECIES
 
 #### Status
 ACCEPTED

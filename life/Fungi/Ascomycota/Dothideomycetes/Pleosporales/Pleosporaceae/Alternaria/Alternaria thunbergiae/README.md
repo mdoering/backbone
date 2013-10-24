@@ -1,5 +1,4 @@
-Alternaria thunbergiae E.G. Simmons & Alcorn, 2007 SPECIES
-=======
+# Alternaria thunbergiae E.G. Simmons & Alcorn, 2007 SPECIES
 
 #### Status
 ACCEPTED

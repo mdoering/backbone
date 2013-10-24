@@ -1,5 +1,4 @@
-Hirneola buccina (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Hirneola buccina (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bullera singularis (Phaff & Carmo Souza) Rodr. Mir. SPECIES
-=======
+# Bullera singularis (Phaff & Carmo Souza) Rodr. Mir. SPECIES
 
 #### Status
 ACCEPTED

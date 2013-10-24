@@ -1,5 +1,4 @@
-Ciboria ochroleuca anon. SPECIES
-=======
+# Ciboria ochroleuca anon. SPECIES
 
 #### Status
 ACCEPTED

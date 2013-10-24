@@ -1,5 +1,4 @@
-Acarospora meridionalis H. Magn. SPECIES
-=======
+# Acarospora meridionalis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

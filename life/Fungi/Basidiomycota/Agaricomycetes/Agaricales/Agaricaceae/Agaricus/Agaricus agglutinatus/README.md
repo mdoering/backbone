@@ -1,5 +1,4 @@
-Agaricus agglutinatus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus agglutinatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

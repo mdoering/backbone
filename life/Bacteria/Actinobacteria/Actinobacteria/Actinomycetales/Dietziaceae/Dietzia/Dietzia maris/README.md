@@ -1,8 +1,7 @@
-Rhodococcus maris (ex Harrison, 1929) Nesterenko et al., 1982 SPECIES
-=======
+# Dietzia maris (Nesterenko et al., 1982) Rainey et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

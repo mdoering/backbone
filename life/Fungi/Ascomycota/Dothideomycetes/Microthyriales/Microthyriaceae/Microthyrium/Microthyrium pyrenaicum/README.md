@@ -1,5 +1,4 @@
-Microthyrium pyrenaicum Petr. SPECIES
-=======
+# Microthyrium pyrenaicum Petr. SPECIES
 
 #### Status
 ACCEPTED

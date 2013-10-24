@@ -1,5 +1,4 @@
-Haplophragmoididae Maync, 1952 FAMILY
-=======
+# Haplophragmoididae Maync, 1952 FAMILY
 
 #### Status
 ACCEPTED

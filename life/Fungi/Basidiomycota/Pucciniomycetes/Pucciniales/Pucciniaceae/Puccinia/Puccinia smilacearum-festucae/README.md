@@ -1,5 +1,4 @@
-Puccinia smilacearum-festucae Mayor SPECIES
-=======
+# Puccinia smilacearum-festucae Mayor SPECIES
 
 #### Status
 ACCEPTED

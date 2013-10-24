@@ -1,5 +1,4 @@
-Arcuospathidium cooperi Foissner, 1996 SPECIES
-=======
+# Arcuospathidium cooperi Foissner, 1996 SPECIES
 
 #### Status
 ACCEPTED

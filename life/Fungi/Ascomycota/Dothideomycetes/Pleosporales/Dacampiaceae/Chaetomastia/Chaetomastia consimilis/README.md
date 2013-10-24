@@ -1,5 +1,4 @@
-Chaetomastia consimilis (Ellis & Everh.) Huhndorf SPECIES
-=======
+# Chaetomastia consimilis (Ellis & Everh.) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

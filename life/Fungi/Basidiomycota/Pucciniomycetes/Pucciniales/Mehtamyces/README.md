@@ -1,5 +1,4 @@
-Mehtamyces Mundk. & Thirum. GENUS
-=======
+# Mehtamyces Mundk. & Thirum. GENUS
 
 #### Status
 ACCEPTED

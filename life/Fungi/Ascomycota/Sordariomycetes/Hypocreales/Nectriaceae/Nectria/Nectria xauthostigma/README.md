@@ -1,5 +1,4 @@
-Nectria xauthostigma SPECIES
-=======
+# Nectria xauthostigma SPECIES
 
 #### Status
 ACCEPTED

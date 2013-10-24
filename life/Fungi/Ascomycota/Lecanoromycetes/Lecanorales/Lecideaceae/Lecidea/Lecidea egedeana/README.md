@@ -1,5 +1,4 @@
-Lecidea egedeana Linds. SPECIES
-=======
+# Lecidea egedeana Linds. SPECIES
 
 #### Status
 ACCEPTED

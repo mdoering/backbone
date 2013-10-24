@@ -1,5 +1,4 @@
-Annelophrya GENUS
-=======
+# Annelophrya GENUS
 
 #### Status
 ACCEPTED

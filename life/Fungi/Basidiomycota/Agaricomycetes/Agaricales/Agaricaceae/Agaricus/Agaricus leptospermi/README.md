@@ -1,5 +1,4 @@
-Agaricus leptospermi F. Muell. SPECIES
-=======
+# Agaricus leptospermi F. Muell. SPECIES
 
 #### Status
 ACCEPTED

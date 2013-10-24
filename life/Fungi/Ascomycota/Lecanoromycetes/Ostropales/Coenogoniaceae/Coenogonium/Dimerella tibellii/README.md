@@ -1,5 +1,4 @@
-Dimerella tibellii Vezda SPECIES
-=======
+# Dimerella tibellii Vezda SPECIES
 
 #### Status
 ACCEPTED

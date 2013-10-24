@@ -1,5 +1,4 @@
-Nectriopsis micareae Diederich, van den Boom & G. Ernst SPECIES
-=======
+# Nectriopsis micareae Diederich, van den Boom & G. Ernst SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria bagoensis Elix & A. W. Archer SPECIES
-=======
+# Pertusaria bagoensis Elix & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

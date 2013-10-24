@@ -1,5 +1,4 @@
-Phyllosticta corydalis (Ellis & Davis) H.C. Greene SPECIES
-=======
+# Phyllosticta corydalis (Ellis & Davis) H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

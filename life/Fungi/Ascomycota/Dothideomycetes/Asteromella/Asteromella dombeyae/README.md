@@ -1,5 +1,4 @@
-Asteromella dombeyae Petr. SPECIES
-=======
+# Asteromella dombeyae Petr. SPECIES
 
 #### Status
 ACCEPTED

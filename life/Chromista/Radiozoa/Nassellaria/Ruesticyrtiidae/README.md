@@ -1,5 +1,4 @@
-Ruesticyrtiidae Kozur & Mostler, 1979 FAMILY
-=======
+# Ruesticyrtiidae Kozur & Mostler, 1979 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glaucoma kirki Bary, 1950 SPECIES
-=======
+# Glaucoma kirki Bary, 1950 SPECIES
 
 #### Status
 ACCEPTED

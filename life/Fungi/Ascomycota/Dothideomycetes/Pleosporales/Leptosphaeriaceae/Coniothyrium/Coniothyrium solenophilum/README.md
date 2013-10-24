@@ -1,5 +1,4 @@
-Coniothyrium solenophilum Maire SPECIES
-=======
+# Coniothyrium solenophilum Maire SPECIES
 
 #### Status
 ACCEPTED

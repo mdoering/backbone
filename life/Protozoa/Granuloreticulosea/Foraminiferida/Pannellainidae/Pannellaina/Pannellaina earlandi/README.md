@@ -1,5 +1,4 @@
-Pannellaina earlandi (Collins, 1958) SPECIES
-=======
+# Pannellaina earlandi (Collins, 1958) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humidicutis woodii (A.M. Young) A.M. Young SPECIES
-=======
+# Humidicutis woodii (A.M. Young) A.M. Young SPECIES
 
 #### Status
 ACCEPTED

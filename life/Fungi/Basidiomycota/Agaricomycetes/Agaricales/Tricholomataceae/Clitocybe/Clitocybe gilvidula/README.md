@@ -1,5 +1,4 @@
-Clitocybe gilvidula Pat. SPECIES
-=======
+# Clitocybe gilvidula Pat. SPECIES
 
 #### Status
 ACCEPTED

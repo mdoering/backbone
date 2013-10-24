@@ -1,5 +1,4 @@
-Pezicula minuta Peck SPECIES
-=======
+# Pezicula minuta Peck SPECIES
 
 #### Status
 ACCEPTED

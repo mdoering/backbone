@@ -1,5 +1,4 @@
-Meliola themedae var. indica Hosag. VARIETY
-=======
+# Meliola themedae F. Stevens & Roldan SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Hosagoudar & Goos, Mycotaxon 37: 249 (1990)
+Philipp. J. Sci. , C, Bot. 56(1): 59 (1935)
 
 #### Original name
-Meliola themedae var. indica Hosag.
+Meliola themedae F. Stevens & Roldan
 
 ### Remarks
 null

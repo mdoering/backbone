@@ -1,5 +1,4 @@
-Alexandrium angustitabulatum F.J.R. Taylor SPECIES
-=======
+# Alexandrium angustitabulatum F.J.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

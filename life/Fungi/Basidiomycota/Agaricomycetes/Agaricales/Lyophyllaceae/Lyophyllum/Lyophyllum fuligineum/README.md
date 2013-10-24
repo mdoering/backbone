@@ -1,5 +1,4 @@
-Lyophyllum fuligineum (Peck) Singer SPECIES
-=======
+# Lyophyllum fuligineum (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

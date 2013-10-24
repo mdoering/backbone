@@ -1,5 +1,4 @@
-Coprinus laxus Bres. & Schulzer SPECIES
-=======
+# Coprinus laxus Bres. & Schulzer SPECIES
 
 #### Status
 ACCEPTED

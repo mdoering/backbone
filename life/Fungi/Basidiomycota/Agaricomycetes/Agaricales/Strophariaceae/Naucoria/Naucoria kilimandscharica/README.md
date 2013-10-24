@@ -1,5 +1,4 @@
-Naucoria kilimandscharica Henn. SPECIES
-=======
+# Naucoria kilimandscharica Henn. SPECIES
 
 #### Status
 ACCEPTED

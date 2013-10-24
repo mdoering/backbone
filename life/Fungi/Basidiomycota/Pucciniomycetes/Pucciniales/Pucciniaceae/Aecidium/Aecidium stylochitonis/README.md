@@ -1,5 +1,4 @@
-Aecidium stylochitonis Har. & Pat. SPECIES
-=======
+# Aecidium stylochitonis Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

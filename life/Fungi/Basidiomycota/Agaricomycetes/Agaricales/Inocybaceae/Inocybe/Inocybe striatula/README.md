@@ -1,5 +1,4 @@
-Inocybe striatula (Cleland) Grgur. SPECIES
-=======
+# Inocybe striatula (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

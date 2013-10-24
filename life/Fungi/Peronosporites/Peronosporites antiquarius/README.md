@@ -1,5 +1,4 @@
-Peronosporites antiquarius W.G. Sm. SPECIES
-=======
+# Peronosporites antiquarius W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

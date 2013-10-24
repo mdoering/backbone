@@ -1,5 +1,4 @@
-Trematosphaeria peniophora (Cooke) Sacc. SPECIES
-=======
+# Trematosphaeria peniophora (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

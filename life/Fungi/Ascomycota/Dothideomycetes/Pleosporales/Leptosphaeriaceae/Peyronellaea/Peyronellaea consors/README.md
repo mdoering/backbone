@@ -1,5 +1,4 @@
-Peyronellaea consors (Schulzer & Sacc.) Goid. SPECIES
-=======
+# Peyronellaea consors (Schulzer & Sacc.) Goid. SPECIES
 
 #### Status
 ACCEPTED

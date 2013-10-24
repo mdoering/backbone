@@ -1,5 +1,4 @@
-Phyllosticta monogyna Allesch., 1898 SPECIES
-=======
+# Phyllosticta monogyna Allesch., 1898 SPECIES
 
 #### Status
 ACCEPTED

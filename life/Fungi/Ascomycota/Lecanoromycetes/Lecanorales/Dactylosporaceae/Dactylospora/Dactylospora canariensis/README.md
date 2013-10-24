@@ -1,5 +1,4 @@
-Dactylospora canariensis Kohlm. & Volkm.-Kohlm. SPECIES
-=======
+# Dactylospora canariensis Kohlm. & Volkm.-Kohlm. SPECIES
 
 #### Status
 ACCEPTED

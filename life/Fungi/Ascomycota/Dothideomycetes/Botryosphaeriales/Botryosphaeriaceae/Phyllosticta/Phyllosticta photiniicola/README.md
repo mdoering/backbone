@@ -1,17 +1,16 @@
-Phyllosticta photinicola Sacc. SPECIES
-=======
+# Phyllosticta photiniicola Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Michelia 1(no. 2): 157 (1878)
 
 #### Original name
-Phyllosticta photinicola Sacc.
+Phyllosticta photiniicola Sacc.
 
 ### Remarks
 null

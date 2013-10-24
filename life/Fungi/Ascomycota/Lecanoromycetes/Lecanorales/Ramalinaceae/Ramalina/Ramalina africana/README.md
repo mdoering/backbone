@@ -1,5 +1,4 @@
-Ramalina africana (Stein) C.W. Dodge SPECIES
-=======
+# Ramalina africana (Stein) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia sulcatissima Rick SPECIES
-=======
+# Collybia sulcatissima Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus deparculus Britzelm. SPECIES
-=======
+# Agaricus deparculus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

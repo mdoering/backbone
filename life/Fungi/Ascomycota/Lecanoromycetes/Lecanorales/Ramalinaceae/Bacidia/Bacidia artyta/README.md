@@ -1,5 +1,4 @@
-Bacidia artyta SPECIES
-=======
+# Bacidia artyta SPECIES
 
 #### Status
 ACCEPTED

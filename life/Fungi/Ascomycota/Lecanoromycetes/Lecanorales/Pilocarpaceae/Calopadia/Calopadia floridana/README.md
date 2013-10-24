@@ -1,5 +1,4 @@
-Calopadia floridana Hodges & Lücking SPECIES
-=======
+# Calopadia floridana Hodges & Lücking SPECIES
 
 #### Status
 ACCEPTED

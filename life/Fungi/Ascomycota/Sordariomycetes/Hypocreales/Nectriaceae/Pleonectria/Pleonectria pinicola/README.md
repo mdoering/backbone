@@ -1,5 +1,4 @@
-Pleonectria pinicola Kirschst., 1906 SPECIES
-=======
+# Pleonectria pinicola Kirschst., 1906 SPECIES
 
 #### Status
 ACCEPTED

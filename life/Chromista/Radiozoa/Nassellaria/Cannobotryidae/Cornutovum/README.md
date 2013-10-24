@@ -1,5 +1,4 @@
-Cornutovum Foreman, 1968 GENUS
-=======
+# Cornutovum Foreman, 1968 GENUS
 
 #### Status
 ACCEPTED

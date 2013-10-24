@@ -1,5 +1,4 @@
-Gymnopus microspermus (Peck) Murrill SPECIES
-=======
+# Gymnopus microspermus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

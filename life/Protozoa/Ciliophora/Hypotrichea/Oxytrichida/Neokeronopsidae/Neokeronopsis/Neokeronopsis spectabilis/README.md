@@ -1,8 +1,7 @@
-Holosticha spectabilis Kahl, 1932 SPECIES
-=======
+# Neokeronopsis spectabilis (Kahl, 1932) Warren, Fyda & Song, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

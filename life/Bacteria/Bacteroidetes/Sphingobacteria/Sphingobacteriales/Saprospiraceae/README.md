@@ -1,5 +1,4 @@
-Saprospiraceae FAMILY
-=======
+# Saprospiraceae FAMILY
 
 #### Status
 ACCEPTED

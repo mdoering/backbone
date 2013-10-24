@@ -1,5 +1,4 @@
-Cordyceps suoluoensis Z.Q. Liang & A.Y. Liu SPECIES
-=======
+# Cordyceps suoluoensis Z.Q. Liang & A.Y. Liu SPECIES
 
 #### Status
 ACCEPTED

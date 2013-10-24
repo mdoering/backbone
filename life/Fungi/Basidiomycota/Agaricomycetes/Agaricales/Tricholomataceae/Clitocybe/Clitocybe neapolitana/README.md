@@ -1,5 +1,4 @@
-Clitocybe neapolitana (Pers.) Sacc. SPECIES
-=======
+# Clitocybe neapolitana (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina dichaenoides Cooke SPECIES
-=======
+# Asterina dichaenoides Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Schneepia radiata (Doidge) Doidge, 1921 SPECIES
-=======
+# Viegasia radiata (Doidge) Bat. & A.F. Vital, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atas do instituto de micologia 1: 318 (1960)
 
 #### Original name
-null
+Lembosia radiata Doidge, 1920
 
 ### Remarks
 null

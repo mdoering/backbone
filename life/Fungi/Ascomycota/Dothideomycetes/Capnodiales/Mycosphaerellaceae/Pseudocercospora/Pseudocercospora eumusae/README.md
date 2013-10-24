@@ -1,17 +1,16 @@
-Septoria eumusae Carlier, M.-F. Zapater, Lapeyre, D.R. Jones & Mour., 2000 SPECIES
-=======
+# Pseudocercospora eumusae Crous & Mour., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 90(8): 887 (2000)
+in Crous & Mourichon, Sydowia 54(1): 36 (2002)
 
 #### Original name
-Septoria eumusae Carlier, M.-F. Zapater, Lapeyre, D.R. Jones & Mour., 2000
+Pseudocercospora eumusae Crous & Mour., 2002
 
 ### Remarks
 null

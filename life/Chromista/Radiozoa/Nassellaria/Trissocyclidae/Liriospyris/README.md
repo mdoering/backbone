@@ -1,5 +1,4 @@
-Liriospyris Haeckel, 1881 emend. Goll, 1968 GENUS
-=======
+# Liriospyris Haeckel, 1881 emend. Goll, 1968 GENUS
 
 #### Status
 ACCEPTED

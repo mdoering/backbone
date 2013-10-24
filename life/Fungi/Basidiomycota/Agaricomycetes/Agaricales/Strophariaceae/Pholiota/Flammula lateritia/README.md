@@ -1,5 +1,4 @@
-Flammula lateritia Pat. SPECIES
-=======
+# Flammula lateritia Pat. SPECIES
 
 #### Status
 ACCEPTED

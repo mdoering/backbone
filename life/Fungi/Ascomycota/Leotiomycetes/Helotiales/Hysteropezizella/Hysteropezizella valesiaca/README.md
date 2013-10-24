@@ -1,5 +1,4 @@
-Hysteropezizella valesiaca Défago SPECIES
-=======
+# Hysteropezizella valesiaca Défago SPECIES
 
 #### Status
 ACCEPTED

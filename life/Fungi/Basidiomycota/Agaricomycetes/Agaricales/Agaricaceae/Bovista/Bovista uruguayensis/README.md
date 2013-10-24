@@ -1,5 +1,4 @@
-Bovista uruguayensis Speg. SPECIES
-=======
+# Bovista uruguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

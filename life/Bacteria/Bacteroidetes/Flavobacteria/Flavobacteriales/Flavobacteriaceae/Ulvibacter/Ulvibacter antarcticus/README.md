@@ -1,5 +1,4 @@
-Ulvibacter antarcticus Choi, Lee, Lee & Cho, 2007 SPECIES
-=======
+# Ulvibacter antarcticus Choi, Lee, Lee & Cho, 2007 SPECIES
 
 #### Status
 ACCEPTED

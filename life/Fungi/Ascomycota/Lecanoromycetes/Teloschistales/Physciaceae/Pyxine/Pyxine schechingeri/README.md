@@ -1,5 +1,4 @@
-Pyxine schechingeri Kalb SPECIES
-=======
+# Pyxine schechingeri Kalb SPECIES
 
 #### Status
 ACCEPTED

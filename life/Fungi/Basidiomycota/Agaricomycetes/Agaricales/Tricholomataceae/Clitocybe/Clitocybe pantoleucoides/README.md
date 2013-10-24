@@ -1,5 +1,4 @@
-Clitocybe pantoleucoides P. Karst. SPECIES
-=======
+# Clitocybe pantoleucoides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

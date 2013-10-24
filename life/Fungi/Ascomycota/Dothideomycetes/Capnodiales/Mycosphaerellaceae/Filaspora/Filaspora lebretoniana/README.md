@@ -1,5 +1,4 @@
-Filaspora lebretoniana (Roum. & Sacc.) Kuntze SPECIES
-=======
+# Filaspora lebretoniana (Roum. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

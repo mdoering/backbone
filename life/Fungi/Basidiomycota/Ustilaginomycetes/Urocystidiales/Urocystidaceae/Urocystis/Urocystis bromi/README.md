@@ -1,14 +1,13 @@
-Tuburcinia occulta var. bromi (Lavrov) Cif., 1963 VARIETY
-=======
+# Urocystis bromi (Lavrov) Zundel, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Quaderno Ist. Bot. Univ. Pavia 27: 321 (1963)
+Ustilaginales of the World 312 (1953)
 
 #### Original name
 Tuburcinia bromi Lavrov, 1937

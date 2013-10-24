@@ -1,5 +1,4 @@
-Wielandomyces robustus Raithelh., 1988 SPECIES
-=======
+# Wielandomyces robustus Raithelh., 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leciographa stigma Rehm SPECIES
-=======
+# Leciographa stigma Rehm SPECIES
 
 #### Status
 ACCEPTED

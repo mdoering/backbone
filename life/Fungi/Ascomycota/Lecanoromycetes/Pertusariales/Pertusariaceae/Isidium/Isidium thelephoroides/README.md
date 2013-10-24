@@ -1,5 +1,4 @@
-Isidium thelephoroides (Ach.) Ach. SPECIES
-=======
+# Isidium thelephoroides (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stakmania indica Kamat & Sathe SPECIES
-=======
+# Stakmania indica Kamat & Sathe SPECIES
 
 #### Status
 ACCEPTED

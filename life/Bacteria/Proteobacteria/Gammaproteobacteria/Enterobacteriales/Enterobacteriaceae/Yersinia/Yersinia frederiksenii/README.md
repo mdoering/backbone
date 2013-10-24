@@ -1,5 +1,4 @@
-Yersinia frederiksenii Ursing et al., 1981 SPECIES
-=======
+# Yersinia frederiksenii Ursing et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

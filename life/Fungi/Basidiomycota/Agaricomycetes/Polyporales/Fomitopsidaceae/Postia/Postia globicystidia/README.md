@@ -1,5 +1,4 @@
-Postia globicystidia P.K. Buchanan & Ryvarden, 1998 SPECIES
-=======
+# Postia globicystidia P.K. Buchanan & Ryvarden, 1998 SPECIES
 
 #### Status
 ACCEPTED

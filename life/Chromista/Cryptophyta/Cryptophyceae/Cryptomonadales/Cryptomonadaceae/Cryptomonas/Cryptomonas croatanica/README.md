@@ -1,5 +1,4 @@
-Cryptomonas croatanica SPECIES
-=======
+# Cryptomonas croatanica SPECIES
 
 #### Status
 ACCEPTED

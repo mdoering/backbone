@@ -1,5 +1,4 @@
-Nanomyces perpendicularis Thaxt., 1931 SPECIES
-=======
+# Nanomyces perpendicularis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

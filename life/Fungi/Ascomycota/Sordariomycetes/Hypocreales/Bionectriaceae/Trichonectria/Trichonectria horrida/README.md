@@ -1,5 +1,4 @@
-Trichonectria horrida Samuels, 1988 SPECIES
-=======
+# Trichonectria horrida Samuels, 1988 SPECIES
 
 #### Status
 ACCEPTED

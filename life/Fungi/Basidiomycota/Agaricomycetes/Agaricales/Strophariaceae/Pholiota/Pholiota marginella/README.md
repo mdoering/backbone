@@ -1,5 +1,4 @@
-Pholiota marginella Peck SPECIES
-=======
+# Pholiota marginella Peck SPECIES
 
 #### Status
 ACCEPTED

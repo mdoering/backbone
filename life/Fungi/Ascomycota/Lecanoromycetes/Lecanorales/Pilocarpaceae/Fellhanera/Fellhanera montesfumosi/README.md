@@ -1,5 +1,4 @@
-Fellhanera montesfumosi R.C. Harris & Lendemer SPECIES
-=======
+# Fellhanera montesfumosi R.C. Harris & Lendemer SPECIES
 
 #### Status
 ACCEPTED

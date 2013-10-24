@@ -1,5 +1,4 @@
-Rhabdosphaera spinosa Gaardner, 1954 SPECIES
-=======
+# Rhabdosphaera spinosa Gaardner, 1954 SPECIES
 
 #### Status
 DOUBTFUL

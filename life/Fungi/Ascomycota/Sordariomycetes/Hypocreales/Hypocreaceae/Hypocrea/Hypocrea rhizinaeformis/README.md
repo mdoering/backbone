@@ -1,5 +1,4 @@
-Hypocrea rhizinaeformis Pat. SPECIES
-=======
+# Hypocrea rhizinaeformis Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linospora psederae Dearn. SPECIES
-=======
+# Linospora psederae Dearn. SPECIES
 
 #### Status
 ACCEPTED

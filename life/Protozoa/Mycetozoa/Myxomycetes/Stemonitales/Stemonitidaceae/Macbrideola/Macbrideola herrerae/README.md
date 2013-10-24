@@ -1,5 +1,4 @@
-Macbrideola herrerae M. Lizárraga, G. Moreno & Illana, 2006 SPECIES
-=======
+# Macbrideola herrerae M. Lizárraga, G. Moreno & Illana, 2006 SPECIES
 
 #### Status
 ACCEPTED

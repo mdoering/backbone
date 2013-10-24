@@ -1,5 +1,4 @@
-Boletus gossypinus Pers. SPECIES
-=======
+# Boletus gossypinus Pers. SPECIES
 
 #### Status
 ACCEPTED

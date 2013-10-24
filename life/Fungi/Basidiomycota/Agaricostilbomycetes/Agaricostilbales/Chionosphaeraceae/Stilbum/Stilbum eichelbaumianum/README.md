@@ -1,5 +1,4 @@
-Stilbum eichelbaumianum (Henn.) Sacc. & Trotter SPECIES
-=======
+# Stilbum eichelbaumianum (Henn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

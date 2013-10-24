@@ -1,5 +1,4 @@
-Pluteus acceptus Herp. SPECIES
-=======
+# Pluteus acceptus Herp. SPECIES
 
 #### Status
 ACCEPTED

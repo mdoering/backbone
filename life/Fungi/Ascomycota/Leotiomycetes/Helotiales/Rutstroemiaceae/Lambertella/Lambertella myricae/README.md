@@ -1,5 +1,4 @@
-Lambertella myricae Dennis & Spooner SPECIES
-=======
+# Lambertella myricae Dennis & Spooner SPECIES
 
 #### Status
 ACCEPTED

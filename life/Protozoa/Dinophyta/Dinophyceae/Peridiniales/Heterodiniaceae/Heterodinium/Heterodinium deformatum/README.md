@@ -1,5 +1,4 @@
-Heterodinium deformatum (Kofoid, 1907) Kofoid & Adamson, 1933 SPECIES
-=======
+# Heterodinium deformatum (Kofoid, 1907) Kofoid & Adamson, 1933 SPECIES
 
 #### Status
 ACCEPTED

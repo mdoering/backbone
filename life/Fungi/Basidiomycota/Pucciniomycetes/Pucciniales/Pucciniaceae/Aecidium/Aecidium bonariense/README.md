@@ -1,5 +1,4 @@
-Aecidium bonariense Speg. SPECIES
-=======
+# Aecidium bonariense Speg. SPECIES
 
 #### Status
 ACCEPTED

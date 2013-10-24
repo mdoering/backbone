@@ -1,5 +1,4 @@
-Naohidemyces fujisanensis S. Sato, Katsuya & Y. Hirats., 1993 SPECIES
-=======
+# Naohidemyces fujisanensis S. Sato, Katsuya & Y. Hirats., 1993 SPECIES
 
 #### Status
 ACCEPTED

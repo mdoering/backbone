@@ -1,8 +1,7 @@
-Corynites elegans Mont., 1856 SPECIES
-=======
+# Mutinus elegans (Mont.) E. Fisch., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

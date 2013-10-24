@@ -1,5 +1,4 @@
-Septoria bupleuri-falcati Died. SPECIES
-=======
+# Septoria bupleuri-falcati Died. SPECIES
 
 #### Status
 ACCEPTED

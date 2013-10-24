@@ -1,5 +1,4 @@
-Caloplaca pyrithromoides (Nyl.) C.W. Dodge SPECIES
-=======
+# Caloplaca pyrithromoides (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

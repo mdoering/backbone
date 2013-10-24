@@ -1,5 +1,4 @@
-Pycnopleiospora fagi C.Z. Wei, Y. Harada & Katum., 1997 SPECIES
-=======
+# Pycnopleiospora fagi C.Z. Wei, Y. Harada & Katum., 1997 SPECIES
 
 #### Status
 ACCEPTED

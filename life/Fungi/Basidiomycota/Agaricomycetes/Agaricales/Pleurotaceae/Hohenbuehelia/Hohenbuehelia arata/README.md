@@ -1,5 +1,4 @@
-Hohenbuehelia arata (Pat. & Demange) Singer SPECIES
-=======
+# Hohenbuehelia arata (Pat. & Demange) Singer SPECIES
 
 #### Status
 ACCEPTED

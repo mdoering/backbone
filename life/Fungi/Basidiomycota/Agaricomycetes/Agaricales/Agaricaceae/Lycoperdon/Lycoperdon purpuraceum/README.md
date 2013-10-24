@@ -1,5 +1,4 @@
-Lycoperdon purpuraceum Berk. & M.A. Curtis SPECIES
-=======
+# Lycoperdon purpuraceum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

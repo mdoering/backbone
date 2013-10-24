@@ -1,14 +1,13 @@
-Hypochnus lateritius (Pat.) Sacc. & P. Syd., 1899 SPECIES
-=======
+# Tomentella lateritia Pat., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 14(1): 227 (1899)
+Cat. Rais. Pl. Cellul. Tunisie (Paris) 63 (1897)
 
 #### Original name
 Tomentella lateritia Pat., 1897

@@ -1,5 +1,4 @@
-Flammula brasiliensis Fr. SPECIES
-=======
+# Flammula brasiliensis Fr. SPECIES
 
 #### Status
 ACCEPTED

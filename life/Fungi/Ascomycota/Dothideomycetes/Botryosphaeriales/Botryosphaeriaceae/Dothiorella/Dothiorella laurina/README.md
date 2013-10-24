@@ -1,5 +1,4 @@
-Dothiorella laurina (Siemaszko) Petr. SPECIES
-=======
+# Dothiorella laurina (Siemaszko) Petr. SPECIES
 
 #### Status
 ACCEPTED

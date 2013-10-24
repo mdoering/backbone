@@ -1,5 +1,4 @@
-Helminthosporium mollerianum Thüm. SPECIES
-=======
+# Helminthosporium mollerianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

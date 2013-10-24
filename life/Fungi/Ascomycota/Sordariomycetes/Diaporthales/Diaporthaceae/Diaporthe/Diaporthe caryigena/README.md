@@ -1,5 +1,4 @@
-Diaporthe caryigena Ellis & Everh. SPECIES
-=======
+# Diaporthe caryigena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

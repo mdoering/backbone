@@ -1,5 +1,4 @@
-Collema approximans Zahlbr. SPECIES
-=======
+# Collema approximans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytisma psidii F. Rudolphi SPECIES
-=======
+# Rhytisma psidii F. Rudolphi SPECIES
 
 #### Status
 ACCEPTED

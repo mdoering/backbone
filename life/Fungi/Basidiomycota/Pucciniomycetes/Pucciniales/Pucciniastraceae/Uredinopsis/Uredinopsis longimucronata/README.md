@@ -1,5 +1,4 @@
-Uredinopsis longimucronata Faull SPECIES
-=======
+# Uredinopsis longimucronata Faull SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus lavandulae Cooke & Massee SPECIES
-=======
+# Agaricus lavandulae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

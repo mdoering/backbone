@@ -1,5 +1,4 @@
-Acrostaphylus G. Arnaud GENUS
-=======
+# Acrostaphylus G. Arnaud GENUS
 
 #### Status
 ACCEPTED

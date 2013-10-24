@@ -1,5 +1,4 @@
-Teichospora andina Speg. SPECIES
-=======
+# Teichospora andina Speg. SPECIES
 
 #### Status
 ACCEPTED

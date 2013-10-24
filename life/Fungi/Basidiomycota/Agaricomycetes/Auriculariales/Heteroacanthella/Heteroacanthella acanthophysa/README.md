@@ -1,17 +1,16 @@
-Acanthellorhiza globulifera P. Roberts, 1999 SPECIES
-=======
+# Heteroacanthella acanthophysa (Burds.) Oberw., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rhizoctonia-Forming Fungi (Richmond) 131 (1999)
+in Oberwinkler, Langer, Burdsall & Tschen, Trans. Mycol. Soc. Japan 31(2): 211 (1990)
 
 #### Original name
-Acanthellorhiza globulifera P. Roberts, 1999
+Platygloea acanthophysa Burds., 1986
 
 ### Remarks
 null

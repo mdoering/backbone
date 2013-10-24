@@ -1,5 +1,4 @@
-Holosticha distyla Buitkamp, 1977 SPECIES
-=======
+# Holosticha distyla Buitkamp, 1977 SPECIES
 
 #### Status
 ACCEPTED

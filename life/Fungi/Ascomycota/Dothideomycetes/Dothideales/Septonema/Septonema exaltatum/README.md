@@ -1,5 +1,4 @@
-Septonema exaltatum Petch SPECIES
-=======
+# Septonema exaltatum Petch SPECIES
 
 #### Status
 ACCEPTED

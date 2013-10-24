@@ -1,5 +1,4 @@
-Microcoleus spumigena Bornet & Flahault SPECIES
-=======
+# Microcoleus spumigena Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

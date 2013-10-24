@@ -1,5 +1,4 @@
-Leptosphaeria monilispora f. monilispora (Fuckel) Sacc. FORM
-=======
+# Leptosphaeria monilispora (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria monilispora f. monilispora (Fuckel) Sacc.
+Pleospora monilispora Fuckel
 
 ### Remarks
 null

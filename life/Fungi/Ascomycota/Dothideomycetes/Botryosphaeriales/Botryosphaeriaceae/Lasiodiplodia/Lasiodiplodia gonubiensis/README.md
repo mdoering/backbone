@@ -1,5 +1,4 @@
-Lasiodiplodia gonubiensis Pavlic, Slippers & M.J. Wingf. SPECIES
-=======
+# Lasiodiplodia gonubiensis Pavlic, Slippers & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora forestierae (E. West) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora forestierae (E. West) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

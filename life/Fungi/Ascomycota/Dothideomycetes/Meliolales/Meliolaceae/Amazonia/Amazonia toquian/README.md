@@ -1,5 +1,4 @@
-Amazonia toquian Petr. SPECIES
-=======
+# Amazonia toquian Petr. SPECIES
 
 #### Status
 ACCEPTED

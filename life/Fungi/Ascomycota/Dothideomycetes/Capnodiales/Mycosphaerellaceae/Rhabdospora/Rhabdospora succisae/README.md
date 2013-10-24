@@ -1,5 +1,4 @@
-Rhabdospora succisae P. Karst. & Fautrey SPECIES
-=======
+# Rhabdospora succisae P. Karst. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

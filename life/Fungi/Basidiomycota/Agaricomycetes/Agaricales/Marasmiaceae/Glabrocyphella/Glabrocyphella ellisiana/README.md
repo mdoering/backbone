@@ -1,5 +1,4 @@
-Glabrocyphella ellisiana W.B. Cooke, 1961 SPECIES
-=======
+# Glabrocyphella ellisiana W.B. Cooke, 1961 SPECIES
 
 #### Status
 ACCEPTED

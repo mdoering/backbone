@@ -1,8 +1,7 @@
-Calyptrosphaera quadridentata Schiller, 1913 SPECIES
-=======
+# Sphaerocalyptra quadridentata (Schiller, 1913) Deflandre, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

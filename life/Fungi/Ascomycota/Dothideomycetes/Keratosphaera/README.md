@@ -1,5 +1,4 @@
-Keratosphaera GENUS
-=======
+# Keratosphaera GENUS
 
 #### Status
 ACCEPTED

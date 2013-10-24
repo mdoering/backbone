@@ -1,5 +1,4 @@
-Acarospora sandwicensis H. Magn. SPECIES
-=======
+# Acarospora sandwicensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

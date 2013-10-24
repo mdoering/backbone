@@ -1,5 +1,4 @@
-Actinocyclus normanii f. normanii (W. Gregory) Hustedt, 1957 FORM
-=======
+# Actinocyclus normanii (W. Gregory) Hustedt, 1957 SPECIES
 
 #### Status
 ACCEPTED

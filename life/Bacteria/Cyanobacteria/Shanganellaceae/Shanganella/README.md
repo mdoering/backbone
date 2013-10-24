@@ -1,5 +1,4 @@
-Shanganella A.G. Vologdin, 1969 GENUS
-=======
+# Shanganella A.G. Vologdin, 1969 GENUS
 
 #### Status
 ACCEPTED

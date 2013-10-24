@@ -1,17 +1,16 @@
-Humaria fusispora var. fusispora VARIETY
-=======
+# Byssonectria fusispora (Berk.) Rogerson & Korf, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 133 (1889)
+in Korf, Phytologia 21(4): 202 (1971)
 
 #### Original name
-Humaria fusispora var. fusispora
+Peziza fusispora Berk., 1846
 
 ### Remarks
 null

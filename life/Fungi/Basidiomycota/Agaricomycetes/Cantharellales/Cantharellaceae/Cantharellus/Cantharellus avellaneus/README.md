@@ -1,5 +1,4 @@
-Cantharellus avellaneus Pat. SPECIES
-=======
+# Cantharellus avellaneus Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria minuscula H. Harada SPECIES
-=======
+# Verrucaria minuscula H. Harada SPECIES
 
 #### Status
 ACCEPTED

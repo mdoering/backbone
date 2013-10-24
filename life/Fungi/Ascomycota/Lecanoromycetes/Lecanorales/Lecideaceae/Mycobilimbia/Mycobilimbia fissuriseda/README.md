@@ -1,5 +1,4 @@
-Mycobilimbia fissuriseda (Poelt) Poelt & Hafellner SPECIES
-=======
+# Mycobilimbia fissuriseda (Poelt) Poelt & Hafellner SPECIES
 
 #### Status
 ACCEPTED

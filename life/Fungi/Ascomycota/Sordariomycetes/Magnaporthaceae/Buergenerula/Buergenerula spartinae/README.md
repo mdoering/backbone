@@ -1,5 +1,4 @@
-Buergenerula spartinae Kohlm. & R.V. Gessner, 1976 SPECIES
-=======
+# Buergenerula spartinae Kohlm. & R.V. Gessner, 1976 SPECIES
 
 #### Status
 ACCEPTED

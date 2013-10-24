@@ -1,5 +1,4 @@
-Asterina breyniaecola Trotter SPECIES
-=======
+# Asterina breyniaecola Trotter SPECIES
 
 #### Status
 ACCEPTED

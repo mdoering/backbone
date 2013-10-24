@@ -1,5 +1,4 @@
-Amphisphaeria microspora Kirschst. SPECIES
-=======
+# Amphisphaeria microspora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

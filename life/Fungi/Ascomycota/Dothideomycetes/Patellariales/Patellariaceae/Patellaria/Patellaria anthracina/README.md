@@ -1,5 +1,4 @@
-Patellaria anthracina Duby SPECIES
-=======
+# Patellaria anthracina Duby SPECIES
 
 #### Status
 ACCEPTED

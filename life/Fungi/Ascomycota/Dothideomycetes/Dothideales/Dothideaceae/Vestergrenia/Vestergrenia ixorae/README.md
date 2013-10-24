@@ -1,5 +1,4 @@
-Vestergrenia ixorae C. Ramesh SPECIES
-=======
+# Vestergrenia ixorae C. Ramesh SPECIES
 
 #### Status
 ACCEPTED

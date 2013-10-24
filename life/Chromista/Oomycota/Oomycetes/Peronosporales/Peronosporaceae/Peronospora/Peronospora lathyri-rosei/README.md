@@ -1,8 +1,7 @@
-Peronospora lathyriroseus Osipian SPECIES
-=======
+# Peronospora lathyri-rosei Osipian SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peronospora lathyriroseus Osipian
+Peronospora lathyri-rosei Osipian
 
 ### Remarks
 null

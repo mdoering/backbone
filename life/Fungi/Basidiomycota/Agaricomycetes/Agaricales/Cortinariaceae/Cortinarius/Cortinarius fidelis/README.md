@@ -1,5 +1,4 @@
-Cortinarius fidelis Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius fidelis Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

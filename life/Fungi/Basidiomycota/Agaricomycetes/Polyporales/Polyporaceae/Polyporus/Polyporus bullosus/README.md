@@ -1,5 +1,4 @@
-Polyporus bullosus Weinm. SPECIES
-=======
+# Polyporus bullosus Weinm. SPECIES
 
 #### Status
 ACCEPTED

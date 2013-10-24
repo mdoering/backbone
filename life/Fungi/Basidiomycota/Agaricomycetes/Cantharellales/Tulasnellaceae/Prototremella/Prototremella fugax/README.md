@@ -1,5 +1,4 @@
-Prototremella fugax (Johan-Olsen) Boud. SPECIES
-=======
+# Prototremella fugax (Johan-Olsen) Boud. SPECIES
 
 #### Status
 ACCEPTED

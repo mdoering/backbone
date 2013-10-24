@@ -1,5 +1,4 @@
-Pholiota sphaerospora Beeli SPECIES
-=======
+# Pholiota sphaerospora Beeli SPECIES
 
 #### Status
 ACCEPTED

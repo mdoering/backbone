@@ -1,5 +1,4 @@
-Puccinia inermis H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia inermis H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

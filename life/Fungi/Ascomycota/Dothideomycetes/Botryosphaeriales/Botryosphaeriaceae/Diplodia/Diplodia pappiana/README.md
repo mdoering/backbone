@@ -1,5 +1,4 @@
-Diplodia pappiana Bacc. SPECIES
-=======
+# Diplodia pappiana Bacc. SPECIES
 
 #### Status
 ACCEPTED

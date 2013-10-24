@@ -1,5 +1,4 @@
-Lecanora pumilio Stizenb. SPECIES
-=======
+# Lecanora pumilio Stizenb. SPECIES
 
 #### Status
 ACCEPTED

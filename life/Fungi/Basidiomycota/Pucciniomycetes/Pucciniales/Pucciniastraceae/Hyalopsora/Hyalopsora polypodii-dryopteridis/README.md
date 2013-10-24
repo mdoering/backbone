@@ -1,5 +1,4 @@
-Hyalopsora polypodii-dryopteridis (Moug. & Nestl.) Magnus SPECIES
-=======
+# Hyalopsora polypodii-dryopteridis (Moug. & Nestl.) Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea fusigera Berk. & Broome SPECIES
-=======
+# Hypocrea fusigera Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

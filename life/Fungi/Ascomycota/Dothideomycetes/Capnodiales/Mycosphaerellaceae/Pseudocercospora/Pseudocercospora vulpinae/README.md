@@ -1,5 +1,4 @@
-Pseudocercospora vulpinae (Ellis & Kellerm.) U. Braun SPECIES
-=======
+# Pseudocercospora vulpinae (Ellis & Kellerm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

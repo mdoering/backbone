@@ -1,5 +1,4 @@
-Anisomeridium distans (Willey) R.C. Harris SPECIES
-=======
+# Anisomeridium distans (Willey) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

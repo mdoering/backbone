@@ -1,8 +1,7 @@
-Dendrosoma acanthogammari Swarczewsky, 1928 SPECIES
-=======
+# Dendrosoma radians Ehrenberg, 1837 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

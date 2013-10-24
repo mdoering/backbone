@@ -1,5 +1,4 @@
-Phaeaspis nervicola Hansf. SPECIES
-=======
+# Phaeaspis nervicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helmisporium herbarum Schwein. SPECIES
-=======
+# Helminthosporium herbarum Schwein. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Am. phil. Soc. , Ser. 2 4(2): 279 (1832)
 
 #### Original name
-Helmisporium herbarum Schwein.
+Helminthosporium herbarum Schwein.
 
 ### Remarks
 null

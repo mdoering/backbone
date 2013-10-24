@@ -1,5 +1,4 @@
-Pertusaria bispora Farl. ex Linder SPECIES
-=======
+# Pertusaria bispora Farl. ex Linder SPECIES
 
 #### Status
 ACCEPTED

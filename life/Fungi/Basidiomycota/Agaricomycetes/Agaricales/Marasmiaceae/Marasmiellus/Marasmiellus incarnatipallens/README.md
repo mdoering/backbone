@@ -1,5 +1,4 @@
-Marasmiellus incarnatipallens Singer SPECIES
-=======
+# Marasmiellus incarnatipallens Singer SPECIES
 
 #### Status
 ACCEPTED

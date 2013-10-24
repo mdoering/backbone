@@ -1,5 +1,4 @@
-Aithaloderma bambusinum Petr. SPECIES
-=======
+# Aithaloderma bambusinum Petr. SPECIES
 
 #### Status
 ACCEPTED

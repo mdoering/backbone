@@ -1,5 +1,4 @@
-Lamprospyris Haeckel, 1881 GENUS
-=======
+# Lamprospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

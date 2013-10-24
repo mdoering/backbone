@@ -1,5 +1,4 @@
-Thalassiosira subsalina Proshkina-Lavrenko SPECIES
-=======
+# Thalassiosira subsalina Proshkina-Lavrenko SPECIES
 
 #### Status
 ACCEPTED

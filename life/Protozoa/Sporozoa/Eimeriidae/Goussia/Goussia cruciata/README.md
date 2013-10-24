@@ -1,8 +1,7 @@
-Coccidium cruciatum Thélohan, 1892 SPECIES
-=======
+# Goussia cruciata (Thélohan, 1892) Labbé, 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

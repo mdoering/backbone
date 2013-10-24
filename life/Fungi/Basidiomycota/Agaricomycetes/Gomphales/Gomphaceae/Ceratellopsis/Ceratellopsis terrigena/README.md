@@ -1,5 +1,4 @@
-Ceratellopsis terrigena Berthier, 1974 SPECIES
-=======
+# Ceratellopsis terrigena Berthier, 1974 SPECIES
 
 #### Status
 ACCEPTED

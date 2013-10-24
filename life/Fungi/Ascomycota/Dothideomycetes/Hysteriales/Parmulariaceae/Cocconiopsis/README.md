@@ -1,5 +1,4 @@
-Cocconiopsis GENUS
-=======
+# Cocconiopsis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza viridula Grelet, 1953 SPECIES
-=======
+# Trichopeziza viridula Grelet, 1953 SPECIES
 
 #### Status
 ACCEPTED

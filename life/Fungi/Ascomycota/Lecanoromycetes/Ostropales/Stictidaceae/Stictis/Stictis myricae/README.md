@@ -1,5 +1,4 @@
-Stictis myricae E.K. Cash SPECIES
-=======
+# Stictis myricae E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

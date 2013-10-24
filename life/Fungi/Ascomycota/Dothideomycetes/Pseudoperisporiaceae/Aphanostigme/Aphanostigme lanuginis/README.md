@@ -1,5 +1,4 @@
-Aphanostigme lanuginis V.A.M. Mill. & Bonar SPECIES
-=======
+# Aphanostigme lanuginis V.A.M. Mill. & Bonar SPECIES
 
 #### Status
 ACCEPTED

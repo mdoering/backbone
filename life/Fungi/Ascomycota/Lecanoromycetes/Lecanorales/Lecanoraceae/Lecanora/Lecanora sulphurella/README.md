@@ -1,5 +1,4 @@
-Lecanora sulphurella var. sulphurella VARIETY
-=======
+# Lecanora sulphurella Hepp SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora sulphurella var. sulphurella
+Lecanora sulphurella Hepp
 
 ### Remarks
 null

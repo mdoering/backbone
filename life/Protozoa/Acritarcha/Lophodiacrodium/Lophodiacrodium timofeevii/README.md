@@ -1,5 +1,4 @@
-Lophodiacrodium timofeevii Fensome et al., 1990 SPECIES
-=======
+# Lophodiacrodium timofeevii Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

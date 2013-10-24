@@ -1,5 +1,4 @@
-Lecidea tessellina Tuck. SPECIES
-=======
+# Lecidea tessellina Tuck. SPECIES
 
 #### Status
 ACCEPTED

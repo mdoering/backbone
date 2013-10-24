@@ -1,5 +1,4 @@
-Acanthoica schilleri Conrad SPECIES
-=======
+# Acanthoica schilleri Conrad SPECIES
 
 #### Status
 ACCEPTED

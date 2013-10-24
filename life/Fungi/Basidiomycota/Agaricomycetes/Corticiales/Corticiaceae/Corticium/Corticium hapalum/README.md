@@ -1,5 +1,4 @@
-Corticium hapalum Berk. & Broome SPECIES
-=======
+# Corticium hapalum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

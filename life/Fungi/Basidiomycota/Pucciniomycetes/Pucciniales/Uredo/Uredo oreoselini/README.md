@@ -1,5 +1,4 @@
-Uredo oreoselini F. Strauss SPECIES
-=======
+# Uredo oreoselini F. Strauss SPECIES
 
 #### Status
 ACCEPTED

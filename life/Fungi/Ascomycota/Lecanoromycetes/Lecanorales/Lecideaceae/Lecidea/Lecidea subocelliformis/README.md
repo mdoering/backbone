@@ -1,5 +1,4 @@
-Lecidea subocelliformis Nyl. SPECIES
-=======
+# Lecidea subocelliformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

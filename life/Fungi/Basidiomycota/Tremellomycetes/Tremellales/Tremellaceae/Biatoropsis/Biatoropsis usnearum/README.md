@@ -1,5 +1,4 @@
-Biatoropsis usnearum Räsänen, 1934 SPECIES
-=======
+# Biatoropsis usnearum Räsänen, 1934 SPECIES
 
 #### Status
 ACCEPTED

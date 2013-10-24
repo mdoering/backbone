@@ -1,5 +1,4 @@
-Helvella fistulosa Alb. & Schwein. SPECIES
-=======
+# Helvella fistulosa Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

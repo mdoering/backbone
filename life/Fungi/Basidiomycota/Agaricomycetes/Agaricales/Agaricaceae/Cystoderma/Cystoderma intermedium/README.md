@@ -1,17 +1,16 @@
-Cystoderma amianthinum var. sublongisporum Singer, 1945 VARIETY
-=======
+# Cystoderma intermedium Harmaja, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Mich. Acad. Sci. 30: 112 (1945)
+Karstenia 19(1): 27 (1979)
 
 #### Original name
-Cystoderma amianthinum var. sublongisporum Singer, 1945
+Cystoderma intermedium Harmaja, 1979
 
 ### Remarks
 null

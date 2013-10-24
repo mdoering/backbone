@@ -1,5 +1,4 @@
-Leucocoprinus melanoloma (Singer) Singer SPECIES
-=======
+# Leucocoprinus melanoloma (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

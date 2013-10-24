@@ -1,5 +1,4 @@
-Cercospora montrichardiae Henn. SPECIES
-=======
+# Cercospora montrichardiae Henn. SPECIES
 
 #### Status
 ACCEPTED

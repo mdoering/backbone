@@ -1,5 +1,4 @@
-Peziza braunii Henn. SPECIES
-=======
+# Peziza braunii Henn. SPECIES
 
 #### Status
 ACCEPTED

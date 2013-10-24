@@ -1,5 +1,4 @@
-Mycofalcella iqbalii Firdaus-e-Bareen & U. Braun SPECIES
-=======
+# Mycofalcella iqbalii Firdaus-e-Bareen & U. Braun SPECIES
 
 #### Status
 ACCEPTED

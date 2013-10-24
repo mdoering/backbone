@@ -1,5 +1,4 @@
-Thalassiosira simplex Hustedt SPECIES
-=======
+# Thalassiosira simplex Hustedt SPECIES
 
 #### Status
 ACCEPTED

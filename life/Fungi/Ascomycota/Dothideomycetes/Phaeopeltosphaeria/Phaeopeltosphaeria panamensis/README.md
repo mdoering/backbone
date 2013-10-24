@@ -1,5 +1,4 @@
-Phaeopeltosphaeria panamensis F. Stevens & C.J. King SPECIES
-=======
+# Phaeopeltosphaeria panamensis F. Stevens & C.J. King SPECIES
 
 #### Status
 ACCEPTED

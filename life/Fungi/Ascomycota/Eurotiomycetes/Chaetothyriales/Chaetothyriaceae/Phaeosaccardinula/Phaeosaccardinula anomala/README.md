@@ -1,5 +1,4 @@
-Phaeosaccardinula anomala (Cooke & Harkn.) V.A.M. Mill. & Bonar SPECIES
-=======
+# Phaeosaccardinula anomala (Cooke & Harkn.) V.A.M. Mill. & Bonar SPECIES
 
 #### Status
 ACCEPTED

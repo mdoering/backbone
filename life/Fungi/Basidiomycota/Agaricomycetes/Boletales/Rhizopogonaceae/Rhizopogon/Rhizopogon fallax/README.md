@@ -1,5 +1,4 @@
-Rhizopogon fallax A.H. Sm. SPECIES
-=======
+# Rhizopogon fallax A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

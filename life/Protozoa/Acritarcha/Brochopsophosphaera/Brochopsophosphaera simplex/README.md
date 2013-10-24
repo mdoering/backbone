@@ -1,5 +1,4 @@
-Brochopsophosphaera simplex Pykhova, 1966 SPECIES
-=======
+# Brochopsophosphaera simplex Pykhova, 1966 SPECIES
 
 #### Status
 ACCEPTED

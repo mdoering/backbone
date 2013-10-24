@@ -1,5 +1,4 @@
-Nitrosopumilaceae FAMILY
-=======
+# Nitrosopumilaceae FAMILY
 
 #### Status
 ACCEPTED

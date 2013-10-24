@@ -1,5 +1,4 @@
-Sphaeropyxis hispida Bonord. SPECIES
-=======
+# Sphaeropyxis hispida Bonord. SPECIES
 
 #### Status
 ACCEPTED

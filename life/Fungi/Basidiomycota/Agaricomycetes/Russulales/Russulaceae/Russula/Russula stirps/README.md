@@ -1,5 +1,4 @@
-Russula stirps Amoenoides Reumaux ex Reumaux SPECIES
-=======
+# Russula stirps Amoenoides Reumaux ex Reumaux SPECIES
 
 #### Status
 ACCEPTED

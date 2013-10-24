@@ -1,5 +1,4 @@
-Botrytis geophila (Link) Sacc. SPECIES
-=======
+# Botrytis geophila (Link) Sacc. SPECIES
 
 #### Status
 ACCEPTED

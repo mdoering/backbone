@@ -1,5 +1,4 @@
-Procondylostoma Yankovskij, 1979 GENUS
-=======
+# Procondylostoma Yankovskij, 1979 GENUS
 
 #### Status
 ACCEPTED

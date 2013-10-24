@@ -1,17 +1,16 @@
-Amanitina verna f. sp FORM
-=======
+# Amanita verna (Bull.) Lam., 1783 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Iconogr. Mycol. 27(Suppl. 1): 78 (1941)
+Encycl. Méth. Bot. (Paris) 1: 113 (1783)
 
 #### Original name
-Amanitina verna f. sp
+Amanita verna (Bull.) Lam., 1783
 
 ### Remarks
 null

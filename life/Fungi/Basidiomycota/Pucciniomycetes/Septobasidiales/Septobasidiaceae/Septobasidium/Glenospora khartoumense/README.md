@@ -1,5 +1,4 @@
-Glenospora khartoumense Chalm. & R.G. Archibald SPECIES
-=======
+# Glenospora khartoumense Chalm. & R.G. Archibald SPECIES
 
 #### Status
 ACCEPTED

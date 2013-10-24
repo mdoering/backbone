@@ -1,5 +1,4 @@
-Phyllosticta tuberosa Ellis & G. Martin SPECIES
-=======
+# Phyllosticta tuberosa Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

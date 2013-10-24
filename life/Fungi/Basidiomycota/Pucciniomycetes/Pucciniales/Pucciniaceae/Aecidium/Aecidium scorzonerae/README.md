@@ -1,5 +1,4 @@
-Aecidium scorzonerae Lagerh. SPECIES
-=======
+# Aecidium scorzonerae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

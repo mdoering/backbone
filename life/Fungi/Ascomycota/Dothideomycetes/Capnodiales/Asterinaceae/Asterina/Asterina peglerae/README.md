@@ -1,5 +1,4 @@
-Asterina peglerae Doidge SPECIES
-=======
+# Asterina peglerae Doidge SPECIES
 
 #### Status
 ACCEPTED

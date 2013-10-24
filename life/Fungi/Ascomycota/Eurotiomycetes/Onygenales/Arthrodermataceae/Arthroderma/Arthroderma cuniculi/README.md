@@ -1,5 +1,4 @@
-Arthroderma cuniculi C.O. Dawson, 1963 SPECIES
-=======
+# Arthroderma cuniculi C.O. Dawson, 1963 SPECIES
 
 #### Status
 ACCEPTED

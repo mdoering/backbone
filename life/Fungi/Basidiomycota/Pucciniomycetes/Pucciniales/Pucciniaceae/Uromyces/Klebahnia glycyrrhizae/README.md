@@ -1,5 +1,4 @@
-Klebahnia glycyrrhizae (Magnus) Arthur SPECIES
-=======
+# Klebahnia glycyrrhizae (Magnus) Arthur SPECIES
 
 #### Status
 ACCEPTED

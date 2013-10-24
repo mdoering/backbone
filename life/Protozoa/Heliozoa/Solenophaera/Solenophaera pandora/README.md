@@ -1,5 +1,4 @@
-Solenophaera pandora Haeckel SPECIES
-=======
+# Solenophaera pandora Haeckel SPECIES
 
 #### Status
 ACCEPTED

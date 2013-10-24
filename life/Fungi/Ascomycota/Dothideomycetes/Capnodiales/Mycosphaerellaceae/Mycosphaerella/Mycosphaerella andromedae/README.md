@@ -1,5 +1,4 @@
-Mycosphaerella andromedae Miles SPECIES
-=======
+# Mycosphaerella andromedae Miles SPECIES
 
 #### Status
 ACCEPTED

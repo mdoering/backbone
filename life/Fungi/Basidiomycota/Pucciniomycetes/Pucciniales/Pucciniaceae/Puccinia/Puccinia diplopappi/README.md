@@ -1,5 +1,4 @@
-Puccinia diplopappi Syd. SPECIES
-=======
+# Puccinia diplopappi Syd. SPECIES
 
 #### Status
 ACCEPTED

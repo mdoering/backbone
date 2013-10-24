@@ -1,5 +1,4 @@
-Diachea leucopoda (Bull.) Rostaf. SPECIES
-=======
+# Diachea leucopoda (Bull.) Rostaf. SPECIES
 
 #### Status
 ACCEPTED

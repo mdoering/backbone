@@ -1,5 +1,4 @@
-Anthostomella eucalyptorum Crous & M.J. Wingf., 2006 SPECIES
-=======
+# Anthostomella eucalyptorum Crous & M.J. Wingf., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizomorpha patens Sowerby SPECIES
-=======
+# Rhizomorpha patens Sowerby SPECIES
 
 #### Status
 ACCEPTED

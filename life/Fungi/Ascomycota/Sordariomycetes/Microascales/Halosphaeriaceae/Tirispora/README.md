@@ -1,5 +1,4 @@
-Tirispora E.B.G. Jones & Vrijmoed GENUS
-=======
+# Tirispora E.B.G. Jones & Vrijmoed GENUS
 
 #### Status
 ACCEPTED

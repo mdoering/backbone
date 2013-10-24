@@ -1,14 +1,13 @@
-Cercospora apii var. insulana (Sacc.) Siboe, 1994 VARIETY
-=======
+# Cercospora insulana (Sacc.) Sacc., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Siboe & Braggins, Proceedings of the Thirteenth Plenary Meeting of AETFAT, Zomba, Malawi, 2-11 April 1991 (Malawi), Vol. <b>1</b> 633 (1994)
+Nuovo Giorn. Bot. Ital. 22(1): 74 (1915)
 
 #### Original name
 Cercospora insulana (Sacc.) Sacc., 1915

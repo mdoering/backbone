@@ -1,5 +1,4 @@
-Hysterium castaneae Schwein. SPECIES
-=======
+# Hysterium castaneae Schwein. SPECIES
 
 #### Status
 ACCEPTED

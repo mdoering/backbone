@@ -1,5 +1,4 @@
-Barlaeina fuliginea (Schumach.) Sacc. & Traverso SPECIES
-=======
+# Barlaeina fuliginea (Schumach.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

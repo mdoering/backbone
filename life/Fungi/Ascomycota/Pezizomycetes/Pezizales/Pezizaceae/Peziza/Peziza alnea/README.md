@@ -1,5 +1,4 @@
-Peziza alnea Pers. SPECIES
-=======
+# Peziza alnea Pers. SPECIES
 
 #### Status
 ACCEPTED

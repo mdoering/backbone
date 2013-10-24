@@ -1,5 +1,4 @@
-Agaricus chortophilus Berk. SPECIES
-=======
+# Agaricus chortophilus Berk. SPECIES
 
 #### Status
 ACCEPTED

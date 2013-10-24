@@ -1,5 +1,4 @@
-Lublinella Gawor-Biedowa, 1987 GENUS
-=======
+# Lublinella Gawor-Biedowa, 1987 GENUS
 
 #### Status
 ACCEPTED

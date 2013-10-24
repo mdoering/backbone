@@ -1,5 +1,4 @@
-Alishewanella fetalis Fonnesbech Vogel et al., 2000 SPECIES
-=======
+# Alishewanella fetalis Fonnesbech Vogel et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

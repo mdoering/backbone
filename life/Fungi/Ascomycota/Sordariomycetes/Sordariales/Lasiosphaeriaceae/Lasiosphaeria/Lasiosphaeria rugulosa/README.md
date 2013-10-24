@@ -1,14 +1,13 @@
-Cercophora rugulosa A.N. Mill. & Huhndorf, 2001 SPECIES
-=======
+# Lasiosphaeria rugulosa (A.N. Mill. & Huhndorf) A.N. Mill. & Huhndorf, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 53(2): 215 (2001)
+Mycol. Res. 108(1): 31 (2004)
 
 #### Original name
 Cercophora rugulosa A.N. Mill. & Huhndorf, 2001

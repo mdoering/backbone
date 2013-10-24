@@ -1,5 +1,4 @@
-Lyrommotheca GENUS
-=======
+# Lyrommotheca GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bottaria ochraceoflavum SPECIES
-=======
+# Bottaria ochraceoflavum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cortinarius turbinatus var. lutescens Rea, 1922 VARIETY
-=======
+# Cortinarius saporatus Britzelm., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. basidiomyc. (Cambridge) 142 (1922)
+Zur Hymenomycetenkunde 3: 5 (1897)
 
 #### Original name
-Cortinarius turbinatus var. lutescens Rea, 1922
+Cortinarius saporatus Britzelm., 1897
 
 ### Remarks
 null

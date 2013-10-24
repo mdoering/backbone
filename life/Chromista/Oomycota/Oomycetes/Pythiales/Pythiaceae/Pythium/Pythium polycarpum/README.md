@@ -1,5 +1,4 @@
-Pythium polycarpum B. Paul SPECIES
-=======
+# Pythium polycarpum B. Paul SPECIES
 
 #### Status
 ACCEPTED

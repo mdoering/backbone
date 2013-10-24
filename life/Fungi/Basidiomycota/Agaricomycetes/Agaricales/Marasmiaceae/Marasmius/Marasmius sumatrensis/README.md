@@ -1,5 +1,4 @@
-Marasmius sumatrensis Lév. SPECIES
-=======
+# Marasmius sumatrensis Lév. SPECIES
 
 #### Status
 ACCEPTED

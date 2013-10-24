@@ -1,5 +1,4 @@
-Micropuccinia grisea (F. Strauss) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia grisea (F. Strauss) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

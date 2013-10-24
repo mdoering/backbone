@@ -1,5 +1,4 @@
-Strigula fibrillosa Zahlbr. SPECIES
-=======
+# Strigula fibrillosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

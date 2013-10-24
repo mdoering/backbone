@@ -1,5 +1,4 @@
-Leiophloea vitrea (Eschw.) Trevis. SPECIES
-=======
+# Leiophloea vitrea (Eschw.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

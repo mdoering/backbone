@@ -1,5 +1,4 @@
-Arthothelium endoaurantiacum Makhija & Patw. SPECIES
-=======
+# Arthothelium endoaurantiacum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

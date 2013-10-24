@@ -1,5 +1,4 @@
-Alveolinella quoii (d'Orbigny, 1826) SPECIES
-=======
+# Alveolinella quoii (d'Orbigny, 1826) SPECIES
 
 #### Status
 ACCEPTED

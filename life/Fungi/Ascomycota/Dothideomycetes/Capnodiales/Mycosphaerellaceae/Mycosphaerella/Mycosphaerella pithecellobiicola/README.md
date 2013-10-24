@@ -1,17 +1,16 @@
-Mycosphaerella pithecolobiicola (Speg.) Cash SPECIES
-=======
+# Mycosphaerella pithecellobiicola (Speg.) Cash SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Trotter, Syll. fung. (Abellini) 26: 350 (1972)
 
 #### Original name
-Sphaerella pithecolobiicola Speg.
+Ustilago pappophori Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Eriosphaeria herbarum Wehm. SPECIES
-=======
+# Eriosphaeria herbarum Wehm. SPECIES
 
 #### Status
 ACCEPTED

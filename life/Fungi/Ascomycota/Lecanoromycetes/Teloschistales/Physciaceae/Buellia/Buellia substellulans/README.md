@@ -1,17 +1,16 @@
-Lecidea substellulata C. Knight SPECIES
-=======
+# Buellia substellulans Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 69: 325 (1866)
+Cat. Lich. Univers. 7: 420 (1931)
 
 #### Original name
-Lecidea substellulata C. Knight
+Buellia substellulans Zahlbr.
 
 ### Remarks
 null

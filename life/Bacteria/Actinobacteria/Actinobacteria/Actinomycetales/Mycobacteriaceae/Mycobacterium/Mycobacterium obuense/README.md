@@ -1,5 +1,4 @@
-Mycobacterium obuense (ex Tsukamura & Mizuno, 1971) Tsukamura & Mizuno, 1981 SPECIES
-=======
+# Mycobacterium obuense (ex Tsukamura & Mizuno, 1971) Tsukamura & Mizuno, 1981 SPECIES
 
 #### Status
 ACCEPTED

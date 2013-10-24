@@ -1,5 +1,4 @@
-Natronomonas Kamekura et al., 1997 GENUS
-=======
+# Natronomonas Kamekura et al., 1997 GENUS
 
 #### Status
 ACCEPTED

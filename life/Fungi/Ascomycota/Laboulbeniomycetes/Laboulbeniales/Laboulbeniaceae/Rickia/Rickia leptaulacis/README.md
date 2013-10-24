@@ -1,5 +1,4 @@
-Rickia leptaulacis Thaxt. SPECIES
-=======
+# Rickia leptaulacis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

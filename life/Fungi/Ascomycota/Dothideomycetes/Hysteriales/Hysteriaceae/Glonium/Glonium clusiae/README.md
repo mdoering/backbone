@@ -1,5 +1,4 @@
-Glonium clusiae (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Glonium clusiae (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

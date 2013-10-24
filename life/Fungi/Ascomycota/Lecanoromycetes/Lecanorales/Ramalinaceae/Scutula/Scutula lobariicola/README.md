@@ -1,5 +1,4 @@
-Scutula lobariicola Alstrup SPECIES
-=======
+# Scutula lobariicola Alstrup SPECIES
 
 #### Status
 ACCEPTED

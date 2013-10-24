@@ -1,5 +1,4 @@
-Verrucaria sylvana Kreyer SPECIES
-=======
+# Verrucaria sylvana Kreyer SPECIES
 
 #### Status
 ACCEPTED

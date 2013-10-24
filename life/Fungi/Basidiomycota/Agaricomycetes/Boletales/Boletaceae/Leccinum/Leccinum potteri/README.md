@@ -1,5 +1,4 @@
-Leccinum potteri A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum potteri A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

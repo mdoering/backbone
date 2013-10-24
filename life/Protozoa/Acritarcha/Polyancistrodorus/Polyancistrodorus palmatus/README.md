@@ -1,5 +1,4 @@
-Polyancistrodorus palmatus Uutela & Tynni, 1991 SPECIES
-=======
+# Polyancistrodorus palmatus Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

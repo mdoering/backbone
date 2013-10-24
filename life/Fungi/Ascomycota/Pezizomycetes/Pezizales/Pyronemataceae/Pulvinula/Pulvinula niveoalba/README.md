@@ -1,5 +1,4 @@
-Pulvinula niveoalba J. Moravec SPECIES
-=======
+# Pulvinula niveoalba J. Moravec SPECIES
 
 #### Status
 ACCEPTED

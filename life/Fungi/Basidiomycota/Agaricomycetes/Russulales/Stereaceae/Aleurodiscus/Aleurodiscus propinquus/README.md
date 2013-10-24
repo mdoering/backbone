@@ -1,5 +1,4 @@
-Aleurodiscus propinquus (Boidin & Gilles) Núñez & Ryvarden SPECIES
-=======
+# Aleurodiscus propinquus (Boidin & Gilles) Núñez & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

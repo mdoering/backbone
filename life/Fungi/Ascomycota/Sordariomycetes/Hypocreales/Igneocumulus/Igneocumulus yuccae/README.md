@@ -1,5 +1,4 @@
-Igneocumulus yuccae A.W. Ramaley, 2003 SPECIES
-=======
+# Igneocumulus yuccae A.W. Ramaley, 2003 SPECIES
 
 #### Status
 ACCEPTED

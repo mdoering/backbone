@@ -1,17 +1,16 @@
-Phaeotrichoconis aquaticus Mengasc. & Aramb. SPECIES
-=======
+# Phaeotrichoconis aquatica Mengasc. & Aramb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Arambarri, Cabello & Mengascini, Mycotaxon 29: 32 (1987)
 
 #### Original name
-Phaeotrichoconis aquaticus Mengasc. & Aramb.
+Phaeotrichoconis aquatica Mengasc. & Aramb.
 
 ### Remarks
 null

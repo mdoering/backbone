@@ -1,17 +1,16 @@
-Sarcopodium synnemaferum Matsush. SPECIES
-=======
+# Sarcopodium synnematoferum Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 8: 33 (1995)
 
 #### Original name
-Sarcopodium synnemaferum Matsush.
+Sarcopodium synnematoferum Matsush.
 
 ### Remarks
 null

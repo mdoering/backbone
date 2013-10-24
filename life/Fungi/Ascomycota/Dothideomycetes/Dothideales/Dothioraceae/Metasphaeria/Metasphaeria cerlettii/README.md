@@ -1,5 +1,4 @@
-Metasphaeria cerlettii Speg. SPECIES
-=======
+# Metasphaeria cerlettii Speg. SPECIES
 
 #### Status
 ACCEPTED

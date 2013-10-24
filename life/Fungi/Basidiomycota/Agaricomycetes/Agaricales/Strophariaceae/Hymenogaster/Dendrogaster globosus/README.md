@@ -1,5 +1,4 @@
-Dendrogaster globosus (Harkn.) Zeller & C.W. Dodge SPECIES
-=======
+# Dendrogaster globosus (Harkn.) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

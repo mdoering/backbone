@@ -1,5 +1,4 @@
-Lophiostoma prominens Nitschke SPECIES
-=======
+# Lophiostoma prominens Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe macrosperma Hongo SPECIES
-=======
+# Inocybe macrosperma Hongo SPECIES
 
 #### Status
 ACCEPTED

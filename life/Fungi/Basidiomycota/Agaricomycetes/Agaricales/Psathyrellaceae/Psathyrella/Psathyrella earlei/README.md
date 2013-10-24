@@ -1,5 +1,4 @@
-Psathyrella earlei Murrill SPECIES
-=======
+# Psathyrella earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

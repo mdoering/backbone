@@ -1,5 +1,4 @@
-Marasmius querceus Britzelm. SPECIES
-=======
+# Marasmius querceus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

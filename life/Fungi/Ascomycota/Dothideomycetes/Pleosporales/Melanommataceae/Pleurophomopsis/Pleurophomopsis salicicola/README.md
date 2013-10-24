@@ -1,5 +1,4 @@
-Pleurophomopsis salicicola Petr., 1924 SPECIES
-=======
+# Pleurophomopsis salicicola Petr., 1924 SPECIES
 
 #### Status
 ACCEPTED

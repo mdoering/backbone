@@ -1,5 +1,4 @@
-Mucor alpinus E.C. Hansen SPECIES
-=======
+# Mucor alpinus E.C. Hansen SPECIES
 
 #### Status
 ACCEPTED

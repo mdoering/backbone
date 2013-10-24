@@ -1,5 +1,4 @@
-Lentomita caespitosa Niessl SPECIES
-=======
+# Lentomita caespitosa Niessl SPECIES
 
 #### Status
 ACCEPTED

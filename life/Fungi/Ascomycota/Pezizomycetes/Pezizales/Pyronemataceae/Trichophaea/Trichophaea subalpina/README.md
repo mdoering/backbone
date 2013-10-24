@@ -1,5 +1,4 @@
-Trichophaea subalpina Jamoni SPECIES
-=======
+# Trichophaea subalpina Jamoni SPECIES
 
 #### Status
 ACCEPTED

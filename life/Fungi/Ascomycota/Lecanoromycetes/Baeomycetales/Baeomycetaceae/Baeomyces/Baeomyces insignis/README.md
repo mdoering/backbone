@@ -1,5 +1,4 @@
-Baeomyces insignis var. insignis VARIETY
-=======
+# Baeomyces insignis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Baeomyces insignis var. insignis
+null
 
 ### Remarks
 null

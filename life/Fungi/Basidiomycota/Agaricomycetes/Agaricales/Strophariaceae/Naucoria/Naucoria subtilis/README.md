@@ -1,5 +1,4 @@
-Naucoria subtilis Velen. SPECIES
-=======
+# Naucoria subtilis Velen. SPECIES
 
 #### Status
 ACCEPTED

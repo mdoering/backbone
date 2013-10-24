@@ -1,5 +1,4 @@
-Graphis latissima Vain. SPECIES
-=======
+# Graphis latissima Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea tuckermanii R.A. Anderson SPECIES
-=======
+# Lecidea tuckermanii R.A. Anderson SPECIES
 
 #### Status
 ACCEPTED

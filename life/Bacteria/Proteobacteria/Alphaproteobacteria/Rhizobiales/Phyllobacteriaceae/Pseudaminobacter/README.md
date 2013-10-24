@@ -1,5 +1,4 @@
-Pseudaminobacter Kämpfer et al., 1999 GENUS
-=======
+# Pseudaminobacter Kämpfer et al., 1999 GENUS
 
 #### Status
 ACCEPTED

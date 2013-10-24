@@ -1,5 +1,4 @@
-Cryptodiaporthe goodyerae M.E. Barr & Rogerson SPECIES
-=======
+# Cryptodiaporthe goodyerae M.E. Barr & Rogerson SPECIES
 
 #### Status
 ACCEPTED

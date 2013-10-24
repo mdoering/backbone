@@ -1,5 +1,4 @@
-Placodium thaumastum (Stirt.) Müll. Arg. SPECIES
-=======
+# Placodium thaumastum (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

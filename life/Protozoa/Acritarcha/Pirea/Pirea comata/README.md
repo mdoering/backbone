@@ -1,5 +1,4 @@
-Pirea comata Vavrdová, 1978 SPECIES
-=======
+# Pirea comata Vavrdová, 1978 SPECIES
 
 #### Status
 ACCEPTED

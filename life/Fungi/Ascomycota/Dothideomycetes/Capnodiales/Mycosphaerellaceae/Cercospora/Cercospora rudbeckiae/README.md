@@ -1,5 +1,4 @@
-Cercospora rudbeckiae Peck SPECIES
-=======
+# Cercospora rudbeckiae Peck SPECIES
 
 #### Status
 ACCEPTED

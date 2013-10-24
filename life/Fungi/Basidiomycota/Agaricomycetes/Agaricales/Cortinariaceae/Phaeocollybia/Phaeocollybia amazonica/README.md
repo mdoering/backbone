@@ -1,5 +1,4 @@
-Phaeocollybia amazonica Singer SPECIES
-=======
+# Phaeocollybia amazonica Singer SPECIES
 
 #### Status
 ACCEPTED

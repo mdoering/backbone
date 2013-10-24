@@ -1,5 +1,4 @@
-Erostella vasculosa Sacc. SPECIES
-=======
+# Erostella vasculosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Corticium jonides var. jonides VARIETY
-=======
+# Corticium ionides Bres. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+in Brinkmann, Jahrb. d. Bot. Sect. d. Westf. Prov. - Ver. f. Wiss. u Kunst Münster 26: 12 (1898)
 
 #### Original name
-null
+Corticium ionides Bres.
 
 ### Remarks
 null

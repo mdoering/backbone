@@ -1,5 +1,4 @@
-Leptogium arizonicum Zahlbr. SPECIES
-=======
+# Leptogium arizonicum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

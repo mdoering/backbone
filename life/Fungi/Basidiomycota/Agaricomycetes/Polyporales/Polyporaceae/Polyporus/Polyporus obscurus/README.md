@@ -1,5 +1,4 @@
-Polyporus obscurus Kalchbr. SPECIES
-=======
+# Polyporus obscurus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena invisibilis Joss. SPECIES
-=======
+# Mycena invisibilis Joss. SPECIES
 
 #### Status
 ACCEPTED

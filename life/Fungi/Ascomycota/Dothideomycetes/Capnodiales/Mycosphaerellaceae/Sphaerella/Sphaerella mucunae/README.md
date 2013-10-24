@@ -1,5 +1,4 @@
-Sphaerella mucunae (F. Stevens) Sacc. SPECIES
-=======
+# Sphaerella mucunae (F. Stevens) Sacc. SPECIES
 
 #### Status
 ACCEPTED

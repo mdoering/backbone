@@ -1,5 +1,4 @@
-Ithyphallus canariensis (Mont.) E. Fisch. SPECIES
-=======
+# Ithyphallus canariensis (Mont.) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protomycterosphaeridium marmoratum Timofeev, 1963 SPECIES
-=======
+# Protomycterosphaeridium marmoratum Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

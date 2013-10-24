@@ -1,5 +1,4 @@
-Viegasella Inácio & P.F. Cannon GENUS
-=======
+# Viegasella Inácio & P.F. Cannon GENUS
 
 #### Status
 ACCEPTED

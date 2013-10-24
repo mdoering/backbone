@@ -1,5 +1,4 @@
-Tubercularia populi Schumach. SPECIES
-=======
+# Tubercularia populi Schumach. SPECIES
 
 #### Status
 ACCEPTED

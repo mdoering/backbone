@@ -1,5 +1,4 @@
-Placynthium siliceum Gyeln. SPECIES
-=======
+# Placynthium siliceum Gyeln. SPECIES
 
 #### Status
 ACCEPTED

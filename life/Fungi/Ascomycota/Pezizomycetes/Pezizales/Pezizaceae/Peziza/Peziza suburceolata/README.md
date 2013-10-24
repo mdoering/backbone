@@ -1,5 +1,4 @@
-Peziza suburceolata W. Phillips SPECIES
-=======
+# Peziza suburceolata W. Phillips SPECIES
 
 #### Status
 ACCEPTED

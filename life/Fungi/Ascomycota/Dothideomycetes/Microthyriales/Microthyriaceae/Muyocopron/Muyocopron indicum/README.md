@@ -1,5 +1,4 @@
-Muyocopron indicum P.C. Gupta SPECIES
-=======
+# Muyocopron indicum P.C. Gupta SPECIES
 
 #### Status
 ACCEPTED

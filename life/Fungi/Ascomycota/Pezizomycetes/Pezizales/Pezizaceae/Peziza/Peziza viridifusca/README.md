@@ -1,5 +1,4 @@
-Peziza viridifusca Del. {?} SPECIES
-=======
+# Peziza viridifusca Del. {?} SPECIES
 
 #### Status
 ACCEPTED

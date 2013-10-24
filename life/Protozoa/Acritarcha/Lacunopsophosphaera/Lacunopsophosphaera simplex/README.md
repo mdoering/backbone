@@ -1,5 +1,4 @@
-Lacunopsophosphaera simplex Pykhova, 1969 SPECIES
-=======
+# Lacunopsophosphaera simplex Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

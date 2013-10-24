@@ -1,5 +1,4 @@
-Pycnosporium lommeni Siegel SPECIES
-=======
+# Pycnosporium lommeni Siegel SPECIES
 
 #### Status
 ACCEPTED

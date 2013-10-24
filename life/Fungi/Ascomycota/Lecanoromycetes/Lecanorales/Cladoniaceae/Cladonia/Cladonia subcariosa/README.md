@@ -1,5 +1,4 @@
-Cladonia subcariosa var. subcariosa VARIETY
-=======
+# Cladonia subcariosa Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia subcariosa var. subcariosa
+Cladonia subcariosa Nyl.
 
 ### Remarks
 null

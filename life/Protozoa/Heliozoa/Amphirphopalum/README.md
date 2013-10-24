@@ -1,5 +1,4 @@
-Amphirphopalum GENUS
-=======
+# Amphirphopalum GENUS
 
 #### Status
 ACCEPTED

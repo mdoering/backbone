@@ -1,5 +1,4 @@
-Leucoporus similis Berk. SPECIES
-=======
+# Leucoporus similis Berk. SPECIES
 
 #### Status
 ACCEPTED

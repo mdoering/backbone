@@ -1,5 +1,4 @@
-Spaulodinium Cachon & Cachon, 1976 GENUS
-=======
+# Spaulodinium Cachon & Cachon, 1976 GENUS
 
 #### Status
 ACCEPTED

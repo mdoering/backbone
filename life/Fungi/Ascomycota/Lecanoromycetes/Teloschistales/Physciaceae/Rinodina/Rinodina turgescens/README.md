@@ -1,5 +1,4 @@
-Rinodina turgescens H. Magn. SPECIES
-=======
+# Rinodina turgescens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

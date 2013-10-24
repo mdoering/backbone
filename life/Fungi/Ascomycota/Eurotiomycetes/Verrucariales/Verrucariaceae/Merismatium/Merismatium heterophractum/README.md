@@ -1,5 +1,4 @@
-Merismatium heterophractum (Nyl.) Vouaux SPECIES
-=======
+# Merismatium heterophractum (Nyl.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

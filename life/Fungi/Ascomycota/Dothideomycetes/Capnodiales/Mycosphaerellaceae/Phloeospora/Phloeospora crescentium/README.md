@@ -1,5 +1,4 @@
-Phloeospora crescentium (Barthol.) E.A. Riley, 1952 SPECIES
-=======
+# Phloeospora crescentium (Barthol.) E.A. Riley, 1952 SPECIES
 
 #### Status
 ACCEPTED

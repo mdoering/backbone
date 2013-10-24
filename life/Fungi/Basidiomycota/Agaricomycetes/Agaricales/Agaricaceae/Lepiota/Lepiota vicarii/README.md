@@ -1,5 +1,4 @@
-Lepiota vicarii Raithelh. SPECIES
-=======
+# Lepiota vicarii Raithelh. SPECIES
 
 #### Status
 ACCEPTED

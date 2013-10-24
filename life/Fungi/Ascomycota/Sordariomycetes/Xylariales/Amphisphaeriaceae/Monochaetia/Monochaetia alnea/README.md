@@ -1,5 +1,4 @@
-Monochaetia alnea (Har. & Briard) Sacc. SPECIES
-=======
+# Monochaetia alnea (Har. & Briard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

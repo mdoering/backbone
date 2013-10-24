@@ -1,5 +1,4 @@
-Tintinnus emarginatus SPECIES
-=======
+# Tintinnus emarginatus SPECIES
 
 #### Status
 ACCEPTED

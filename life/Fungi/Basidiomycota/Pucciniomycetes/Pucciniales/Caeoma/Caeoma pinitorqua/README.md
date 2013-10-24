@@ -1,5 +1,4 @@
-Caeoma pinitorqua A. Braun SPECIES
-=======
+# Caeoma pinitorqua A. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophioparma araucariae (Follmann) Kalb & Staiger SPECIES
-=======
+# Ophioparma araucariae (Follmann) Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thecaphora saponariae (F. Rudolphi) Vánky, 1998 SPECIES
-=======
+# Thecaphora saponariae (F. Rudolphi) Vánky, 1998 SPECIES
 
 #### Status
 ACCEPTED

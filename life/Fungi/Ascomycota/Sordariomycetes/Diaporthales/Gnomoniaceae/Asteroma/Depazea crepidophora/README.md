@@ -1,5 +1,4 @@
-Depazea crepidophora Mont. SPECIES
-=======
+# Depazea crepidophora Mont. SPECIES
 
 #### Status
 ACCEPTED

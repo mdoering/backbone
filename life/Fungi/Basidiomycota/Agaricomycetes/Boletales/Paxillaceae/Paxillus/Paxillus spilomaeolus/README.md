@@ -1,5 +1,4 @@
-Paxillus spilomaeolus Fr. SPECIES
-=======
+# Paxillus spilomaeolus Fr. SPECIES
 
 #### Status
 ACCEPTED

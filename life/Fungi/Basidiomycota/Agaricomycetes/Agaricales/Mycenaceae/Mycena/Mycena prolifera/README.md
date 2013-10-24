@@ -1,5 +1,4 @@
-Mycena prolifera (Sowerby) Gillet SPECIES
-=======
+# Mycena prolifera (Sowerby) Gillet SPECIES
 
 #### Status
 ACCEPTED

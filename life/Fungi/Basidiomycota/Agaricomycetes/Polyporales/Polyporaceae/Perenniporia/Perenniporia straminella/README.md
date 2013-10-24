@@ -1,14 +1,13 @@
-Polyporus straminellus Bres., 1920 SPECIES
-=======
+# Perenniporia straminella (Bres.) Ryvarden, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 18(1/3): 32 (1920)
+Mycotaxon 33: 323 (1988)
 
 #### Original name
 Polyporus straminellus Bres., 1920

@@ -1,5 +1,4 @@
-Puccinia appendiculatoides Henn. SPECIES
-=======
+# Puccinia appendiculatoides Henn. SPECIES
 
 #### Status
 ACCEPTED

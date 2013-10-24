@@ -1,5 +1,4 @@
-Botryolepraria neotropica Kukwa & Pérez-Ortega SPECIES
-=======
+# Botryolepraria neotropica Kukwa & Pérez-Ortega SPECIES
 
 #### Status
 ACCEPTED

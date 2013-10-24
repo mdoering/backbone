@@ -1,5 +1,4 @@
-Tomentella atrorubra (Peck) Bourdot & Galzin SPECIES
-=======
+# Tomentella atrorubra (Peck) Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

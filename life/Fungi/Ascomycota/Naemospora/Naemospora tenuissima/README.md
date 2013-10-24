@@ -1,5 +1,4 @@
-Naemospora tenuissima (Bonord.) Sacc. SPECIES
-=======
+# Naemospora tenuissima (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

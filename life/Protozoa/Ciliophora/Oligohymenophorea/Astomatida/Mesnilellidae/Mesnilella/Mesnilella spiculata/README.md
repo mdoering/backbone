@@ -1,5 +1,4 @@
-Mesnilella spiculata SPECIES
-=======
+# Mesnilella spiculata SPECIES
 
 #### Status
 ACCEPTED

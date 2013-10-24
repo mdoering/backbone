@@ -1,5 +1,4 @@
-Fellhanera montana Lücking SPECIES
-=======
+# Fellhanera montana Lücking SPECIES
 
 #### Status
 ACCEPTED

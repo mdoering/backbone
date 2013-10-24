@@ -1,5 +1,4 @@
-Malmidea amazonica (Redinger) Kalb, Rivas Plata & Lumbsch SPECIES
-=======
+# Malmidea amazonica (Redinger) Kalb, Rivas Plata & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

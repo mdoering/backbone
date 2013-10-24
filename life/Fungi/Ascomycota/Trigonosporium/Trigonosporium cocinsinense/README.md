@@ -1,17 +1,16 @@
-Trigonosporium cochinchiense Tassi SPECIES
-=======
+# Trigonosporium cocinsinense Tassi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin Labor. Orto Bot. de R. Univ. Siena 5: 108 (1902)
 
 #### Original name
-Trigonosporium cochinchiense Tassi
+Trigonosporium cocinsinense Tassi
 
 ### Remarks
 null

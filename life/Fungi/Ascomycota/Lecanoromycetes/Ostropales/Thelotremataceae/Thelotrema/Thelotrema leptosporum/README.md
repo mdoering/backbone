@@ -1,5 +1,4 @@
-Thelotrema leptosporum Leight. SPECIES
-=======
+# Thelotrema leptosporum Leight. SPECIES
 
 #### Status
 ACCEPTED

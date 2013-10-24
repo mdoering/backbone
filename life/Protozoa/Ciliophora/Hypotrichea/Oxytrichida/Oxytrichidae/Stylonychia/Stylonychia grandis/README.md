@@ -1,5 +1,4 @@
-Stylonychia grandis Maupas, ? SPECIES
-=======
+# Stylonychia grandis Maupas, ? SPECIES
 
 #### Status
 ACCEPTED

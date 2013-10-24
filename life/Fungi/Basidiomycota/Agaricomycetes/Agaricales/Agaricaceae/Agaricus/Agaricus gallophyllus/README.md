@@ -1,5 +1,4 @@
-Agaricus gallophyllus J. Otto SPECIES
-=======
+# Agaricus gallophyllus J. Otto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerophorus lacunosus (Tuck.) C.W. Dodge SPECIES
-=======
+# Sphaerophorus lacunosus (Tuck.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

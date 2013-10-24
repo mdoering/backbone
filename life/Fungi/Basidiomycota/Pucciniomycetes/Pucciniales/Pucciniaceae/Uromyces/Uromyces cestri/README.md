@@ -1,17 +1,16 @@
-Uromyces cestri var. cestri VARIETY
-=======
+# Uromyces cestri Bertero ex Mont., 1852 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Gay, Hist. fis. y Politic. Chile, Bot. 8: 49 (1852)
 
 #### Original name
-Uromyces cestri var. cestri
+Uromyces cestri Bertero ex Mont., 1852
 
 ### Remarks
 null

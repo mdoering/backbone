@@ -1,5 +1,4 @@
-Eomarginata striata Jankauskas, 1979 SPECIES
-=======
+# Eomarginata striata Jankauskas, 1979 SPECIES
 
 #### Status
 ACCEPTED

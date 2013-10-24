@@ -1,5 +1,4 @@
-Buellia continens (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia continens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

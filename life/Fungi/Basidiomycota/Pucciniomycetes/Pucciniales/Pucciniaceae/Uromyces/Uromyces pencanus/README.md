@@ -1,5 +1,4 @@
-Uromyces pencanus (Dietel & Neger) Arthur & Holw. SPECIES
-=======
+# Uromyces pencanus (Dietel & Neger) Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

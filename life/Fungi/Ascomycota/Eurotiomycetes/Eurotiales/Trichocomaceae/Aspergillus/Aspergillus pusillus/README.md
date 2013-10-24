@@ -1,5 +1,4 @@
-Aspergillus pusillus Massee SPECIES
-=======
+# Aspergillus pusillus Massee SPECIES
 
 #### Status
 ACCEPTED

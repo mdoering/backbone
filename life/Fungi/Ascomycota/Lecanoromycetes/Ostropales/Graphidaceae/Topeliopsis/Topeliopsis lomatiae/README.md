@@ -1,5 +1,4 @@
-Topeliopsis lomatiae (Messuti, Lumbsch & Vezda) Messuti & Mangold SPECIES
-=======
+# Topeliopsis lomatiae (Messuti, Lumbsch & Vezda) Messuti & Mangold SPECIES
 
 #### Status
 ACCEPTED

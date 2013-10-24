@@ -1,8 +1,7 @@
-Aspicilia massalongii SPECIES
-=======
+# Aspicilia massalongoi Hue SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Aspicilia massalongoi Hue
 
 ### Remarks
 null

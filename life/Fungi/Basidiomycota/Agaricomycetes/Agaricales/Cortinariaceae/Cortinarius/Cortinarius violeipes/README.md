@@ -1,5 +1,4 @@
-Cortinarius violeipes M.M. Moser SPECIES
-=======
+# Cortinarius violeipes M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

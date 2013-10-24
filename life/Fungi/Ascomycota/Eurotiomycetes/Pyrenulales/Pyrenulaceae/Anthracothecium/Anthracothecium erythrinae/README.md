@@ -1,5 +1,4 @@
-Anthracothecium erythrinae SPECIES
-=======
+# Anthracothecium erythrinae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria procera Starbäck SPECIES
-=======
+# Xylaria procera Starbäck SPECIES
 
 #### Status
 ACCEPTED

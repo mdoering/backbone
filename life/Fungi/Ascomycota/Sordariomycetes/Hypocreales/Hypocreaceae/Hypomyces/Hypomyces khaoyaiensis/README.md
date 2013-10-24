@@ -1,5 +1,4 @@
-Hypomyces khaoyaiensis K. Põldmaa & Samuels SPECIES
-=======
+# Hypomyces khaoyaiensis K. Põldmaa & Samuels SPECIES
 
 #### Status
 ACCEPTED

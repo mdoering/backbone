@@ -1,5 +1,4 @@
-Lecidea petermannii Hue SPECIES
-=======
+# Lecidea petermannii Hue SPECIES
 
 #### Status
 ACCEPTED

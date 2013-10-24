@@ -1,5 +1,4 @@
-Cornicularia mirabilis Lynge SPECIES
-=======
+# Cornicularia mirabilis Lynge SPECIES
 
 #### Status
 ACCEPTED

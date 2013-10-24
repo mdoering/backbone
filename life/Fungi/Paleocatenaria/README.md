@@ -1,5 +1,4 @@
-Paleocatenaria Locq. GENUS
-=======
+# Paleocatenaria Locq. GENUS
 
 #### Status
 ACCEPTED

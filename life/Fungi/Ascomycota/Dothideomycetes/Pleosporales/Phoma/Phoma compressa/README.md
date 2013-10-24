@@ -1,5 +1,4 @@
-Phoma compressa P. Karst. & Har. SPECIES
-=======
+# Phoma compressa P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

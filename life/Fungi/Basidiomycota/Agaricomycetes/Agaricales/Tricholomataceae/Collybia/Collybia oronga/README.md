@@ -1,5 +1,4 @@
-Collybia oronga De Seynes SPECIES
-=======
+# Collybia oronga De Seynes SPECIES
 
 #### Status
 ACCEPTED

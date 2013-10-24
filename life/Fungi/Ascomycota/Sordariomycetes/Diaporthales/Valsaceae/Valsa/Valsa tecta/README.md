@@ -1,5 +1,4 @@
-Valsa tecta Cooke SPECIES
-=======
+# Valsa tecta Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ixocomus pictilis Quél. SPECIES
-=======
+# Ixocomus pictilis Quél. SPECIES
 
 #### Status
 ACCEPTED

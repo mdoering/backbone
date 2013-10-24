@@ -1,5 +1,4 @@
-Haplotrichum tenerum (Sumst.) Hol.-Jech. SPECIES
-=======
+# Haplotrichum tenerum (Sumst.) Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

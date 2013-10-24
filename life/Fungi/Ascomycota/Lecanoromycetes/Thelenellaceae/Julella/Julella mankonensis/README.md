@@ -1,5 +1,4 @@
-Julella mankonensis H. Kern SPECIES
-=======
+# Julella mankonensis H. Kern SPECIES
 
 #### Status
 ACCEPTED

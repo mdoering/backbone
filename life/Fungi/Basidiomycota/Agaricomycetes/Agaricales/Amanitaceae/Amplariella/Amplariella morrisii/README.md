@@ -1,5 +1,4 @@
-Amplariella morrisii (Peck) E.-J. Gilbert SPECIES
-=======
+# Amplariella morrisii (Peck) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

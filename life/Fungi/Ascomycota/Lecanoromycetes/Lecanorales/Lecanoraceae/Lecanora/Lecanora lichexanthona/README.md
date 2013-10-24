@@ -1,5 +1,4 @@
-Lecanora lichexanthona Guderley SPECIES
-=======
+# Lecanora lichexanthona Guderley SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora virgiliae U. Braun & C.F. Hill, 2008 SPECIES
-=======
+# Pseudocercospora virgiliae U. Braun & C.F. Hill, 2008 SPECIES
 
 #### Status
 ACCEPTED

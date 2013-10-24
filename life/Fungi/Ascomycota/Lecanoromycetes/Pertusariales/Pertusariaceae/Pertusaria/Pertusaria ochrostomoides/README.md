@@ -1,5 +1,4 @@
-Pertusaria ochrostomoides Vain. SPECIES
-=======
+# Pertusaria ochrostomoides Vain. SPECIES
 
 #### Status
 ACCEPTED

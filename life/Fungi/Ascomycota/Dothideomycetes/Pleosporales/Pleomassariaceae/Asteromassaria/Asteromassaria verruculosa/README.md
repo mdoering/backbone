@@ -1,5 +1,4 @@
-Asteromassaria verruculosa Sivan. SPECIES
-=======
+# Asteromassaria verruculosa Sivan. SPECIES
 
 #### Status
 ACCEPTED

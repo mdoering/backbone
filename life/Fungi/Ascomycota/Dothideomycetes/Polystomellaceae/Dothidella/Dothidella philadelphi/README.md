@@ -1,5 +1,4 @@
-Dothidella philadelphi P. Karst. SPECIES
-=======
+# Dothidella philadelphi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Simocybe melleiceps (Murrill) Singer SPECIES
-=======
+# Simocybe melleiceps (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

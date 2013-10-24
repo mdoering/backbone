@@ -1,5 +1,4 @@
-Lecanora caulophylla SPECIES
-=======
+# Lecanora caulophylla SPECIES
 
 #### Status
 ACCEPTED

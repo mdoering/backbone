@@ -1,5 +1,4 @@
-Cortinarius belleri M.M. Moser SPECIES
-=======
+# Cortinarius belleri M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

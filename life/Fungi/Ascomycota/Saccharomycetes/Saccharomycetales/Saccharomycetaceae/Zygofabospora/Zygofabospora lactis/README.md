@@ -1,5 +1,4 @@
-Zygofabospora lactis var. lactis VARIETY
-=======
+# Zygofabospora lactis (Dombrowski) G.I. Naumov SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mikol. Fitopatol. 21(2): 138 (1987)
 
 #### Original name
-Zygofabospora lactis var. lactis
+Saccharomyces lactis Adametz
 
 ### Remarks
 null

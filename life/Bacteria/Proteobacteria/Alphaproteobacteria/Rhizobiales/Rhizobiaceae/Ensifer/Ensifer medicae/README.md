@@ -1,8 +1,7 @@
-Sinorhizobium medicae Rome et al., 1996 SPECIES
-=======
+# Ensifer medicae (Rome et al., 1996) Young, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

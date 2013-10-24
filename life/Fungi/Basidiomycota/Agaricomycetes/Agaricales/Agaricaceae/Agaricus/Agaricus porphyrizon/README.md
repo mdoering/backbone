@@ -1,17 +1,16 @@
-Agaricus porphyrizon var. porphyrizon P.D. Orton VARIETY
-=======
+# Agaricus porphyrizon P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Br. mycol. Soc. 43(2): 174 (1960)
 
 #### Original name
-Agaricus porphyrizon var. porphyrizon P.D. Orton
+Agaricus porphyrizon P.D. Orton, 1960
 
 ### Remarks
 null

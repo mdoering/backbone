@@ -1,5 +1,4 @@
-Ramaria harrisonii R.H. Petersen, 1986 SPECIES
-=======
+# Ramaria harrisonii R.H. Petersen, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dematium scabridum J.C. Gilman & E.V. Abbott SPECIES
-=======
+# Dematium scabridum J.C. Gilman & E.V. Abbott SPECIES
 
 #### Status
 ACCEPTED

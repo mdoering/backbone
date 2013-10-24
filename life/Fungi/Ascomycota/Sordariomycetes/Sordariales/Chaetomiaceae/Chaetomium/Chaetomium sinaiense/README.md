@@ -1,5 +1,4 @@
-Chaetomium sinaiense Moustafa & Ezz-Eldin SPECIES
-=======
+# Chaetomium sinaiense Moustafa & Ezz-Eldin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia oryzina Hara SPECIES
-=======
+# Diplodia oryzina Hara SPECIES
 
 #### Status
 ACCEPTED

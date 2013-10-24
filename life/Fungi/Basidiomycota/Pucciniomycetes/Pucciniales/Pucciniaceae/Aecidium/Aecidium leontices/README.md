@@ -1,5 +1,4 @@
-Aecidium leontices Tranzschel SPECIES
-=======
+# Aecidium leontices Tranzschel SPECIES
 
 #### Status
 ACCEPTED

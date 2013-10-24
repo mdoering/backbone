@@ -1,5 +1,4 @@
-Stigmatea bullata Syd. SPECIES
-=======
+# Stigmatea bullata Syd. SPECIES
 
 #### Status
 ACCEPTED

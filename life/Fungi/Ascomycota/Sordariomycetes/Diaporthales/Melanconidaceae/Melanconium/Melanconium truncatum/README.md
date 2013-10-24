@@ -1,5 +1,4 @@
-Melanconium truncatum Schwein. SPECIES
-=======
+# Melanconium truncatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

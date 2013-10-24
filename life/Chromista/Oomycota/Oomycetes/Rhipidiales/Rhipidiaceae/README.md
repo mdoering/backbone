@@ -1,5 +1,4 @@
-Rhipidiaceae Sparrow ex Cejp FAMILY
-=======
+# Rhipidiaceae Sparrow ex Cejp FAMILY
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polystictus partitus var. partitus VARIETY
-=======
+# Amauroderma calcigenum (Berk.) Torrend, 1920 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 71): 78 (1886)
+Brotéria, sér. bot. 13: 129 (1920)
 
 #### Original name
-Polystictus partitus var. partitus
+Polyporus calcigenus Berk., 1843
 
 ### Remarks
 null

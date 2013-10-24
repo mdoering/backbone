@@ -1,5 +1,4 @@
-Paraniesslia aquatica L. Cai & K.D. Hyde SPECIES
-=======
+# Paraniesslia aquatica L. Cai & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

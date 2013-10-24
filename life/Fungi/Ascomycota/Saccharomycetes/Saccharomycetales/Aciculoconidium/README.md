@@ -1,5 +1,4 @@
-Aciculoconidium D.S. King & S.C. Jong GENUS
-=======
+# Aciculoconidium D.S. King & S.C. Jong GENUS
 
 #### Status
 ACCEPTED

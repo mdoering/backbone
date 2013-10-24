@@ -1,14 +1,13 @@
-Collemodium andegavensis (Hy) Walt. Watson SPECIES
-=======
+# Leptogium andegavense Hy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Essai Lich. Anjou 28 (1893)
 
 #### Original name
 Leptogium andegavense Hy

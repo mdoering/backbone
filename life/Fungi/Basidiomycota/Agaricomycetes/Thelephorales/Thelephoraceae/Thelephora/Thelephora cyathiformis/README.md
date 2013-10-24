@@ -1,5 +1,4 @@
-Thelephora cyathiformis Fr. SPECIES
-=======
+# Thelephora cyathiformis Fr. SPECIES
 
 #### Status
 ACCEPTED

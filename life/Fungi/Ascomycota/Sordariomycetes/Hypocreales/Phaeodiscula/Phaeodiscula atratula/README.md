@@ -1,5 +1,4 @@
-Phaeodiscula atratula Penz. & Sacc. SPECIES
-=======
+# Phaeodiscula atratula Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

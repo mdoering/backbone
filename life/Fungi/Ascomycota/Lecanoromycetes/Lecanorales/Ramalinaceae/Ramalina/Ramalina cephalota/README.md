@@ -1,5 +1,4 @@
-Ramalina cephalota Tuck. SPECIES
-=======
+# Ramalina cephalota Tuck. SPECIES
 
 #### Status
 ACCEPTED

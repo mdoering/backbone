@@ -1,5 +1,4 @@
-Mycovellosiella solani-torvi (Gonz. Frag. & Cif.) Deighton SPECIES
-=======
+# Mycovellosiella solani-torvi (Gonz. Frag. & Cif.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neta tropicalis R.F. Castañeda, Guarro & Gené, 2000 SPECIES
-=======
+# Neta tropicalis R.F. Castañeda, Guarro & Gené, 2000 SPECIES
 
 #### Status
 ACCEPTED

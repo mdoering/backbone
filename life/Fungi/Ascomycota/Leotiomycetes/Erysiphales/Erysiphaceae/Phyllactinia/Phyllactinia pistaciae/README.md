@@ -1,5 +1,4 @@
-Phyllactinia pistaciae H.D. Shin & Y.J. Choi SPECIES
-=======
+# Phyllactinia pistaciae H.D. Shin & Y.J. Choi SPECIES
 
 #### Status
 ACCEPTED

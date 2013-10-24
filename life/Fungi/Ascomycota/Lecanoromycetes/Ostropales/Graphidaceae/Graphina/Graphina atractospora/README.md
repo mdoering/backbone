@@ -1,5 +1,4 @@
-Graphina atractospora Redinger SPECIES
-=======
+# Graphina atractospora Redinger SPECIES
 
 #### Status
 ACCEPTED

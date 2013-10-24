@@ -1,5 +1,4 @@
-Patellaria pyrophthalma (Mont.) Müll. Arg. SPECIES
-=======
+# Patellaria pyrophthalma (Mont.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramicola coniophora (Romagn.) Bon SPECIES
-=======
+# Ramicola coniophora (Romagn.) Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macroplodia sphaerospora (Peck) Kuntze SPECIES
-=======
+# Macroplodia sphaerospora (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fuscidea subfilamentosa (Zahlbr.) Brako SPECIES
-=======
+# Fuscidea subfilamentosa (Zahlbr.) Brako SPECIES
 
 #### Status
 ACCEPTED

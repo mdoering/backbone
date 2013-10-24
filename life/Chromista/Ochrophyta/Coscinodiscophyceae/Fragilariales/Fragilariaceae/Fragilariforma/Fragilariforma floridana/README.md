@@ -1,5 +1,4 @@
-Fragilariforma floridana (Hanna) D.M.Williams SPECIES
-=======
+# Fragilariforma floridana (Hanna) D.M.Williams SPECIES
 
 #### Status
 ACCEPTED

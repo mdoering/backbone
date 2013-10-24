@@ -1,5 +1,4 @@
-Sphaerotheca aristidae-cyananthae SPECIES
-=======
+# Sphaerotheca aristidae-cyananthae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Smithella Liu et al., 1999 GENUS
-=======
+# Smithella Liu et al., 1999 GENUS
 
 #### Status
 ACCEPTED

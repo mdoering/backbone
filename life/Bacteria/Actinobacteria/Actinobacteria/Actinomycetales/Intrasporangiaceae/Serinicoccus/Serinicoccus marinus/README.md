@@ -1,5 +1,4 @@
-Serinicoccus marinus Yi et al., 2004 SPECIES
-=======
+# Serinicoccus marinus Yi et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

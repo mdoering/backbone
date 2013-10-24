@@ -1,5 +1,4 @@
-Synchytrium dendriticum Fuckel SPECIES
-=======
+# Synchytrium dendriticum Fuckel SPECIES
 
 #### Status
 ACCEPTED

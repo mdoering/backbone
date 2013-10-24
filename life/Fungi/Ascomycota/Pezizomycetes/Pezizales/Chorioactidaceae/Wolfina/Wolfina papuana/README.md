@@ -1,5 +1,4 @@
-Wolfina papuana Otani SPECIES
-=======
+# Wolfina papuana Otani SPECIES
 
 #### Status
 ACCEPTED

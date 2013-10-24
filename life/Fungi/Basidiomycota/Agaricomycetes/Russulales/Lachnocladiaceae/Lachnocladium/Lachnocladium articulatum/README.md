@@ -1,5 +1,4 @@
-Lachnocladium articulatum Henn. SPECIES
-=======
+# Lachnocladium articulatum Henn. SPECIES
 
 #### Status
 ACCEPTED

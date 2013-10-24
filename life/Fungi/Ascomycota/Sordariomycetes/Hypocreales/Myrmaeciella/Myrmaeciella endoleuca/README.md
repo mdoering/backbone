@@ -1,5 +1,4 @@
-Myrmaeciella endoleuca (Sacc.) Lindau, 1897 SPECIES
-=======
+# Myrmaeciella endoleuca (Sacc.) Lindau, 1897 SPECIES
 
 #### Status
 ACCEPTED

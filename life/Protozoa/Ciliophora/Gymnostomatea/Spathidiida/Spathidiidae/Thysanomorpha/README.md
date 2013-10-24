@@ -1,5 +1,4 @@
-Thysanomorpha Jankowski, 1967 GENUS
-=======
+# Thysanomorpha Jankowski, 1967 GENUS
 
 #### Status
 ACCEPTED

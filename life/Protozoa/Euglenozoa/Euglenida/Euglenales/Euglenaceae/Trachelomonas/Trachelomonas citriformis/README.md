@@ -1,5 +1,4 @@
-Trachelomonas citriformis Drezepolski SPECIES
-=======
+# Trachelomonas citriformis Drezepolski SPECIES
 
 #### Status
 ACCEPTED

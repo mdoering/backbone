@@ -1,5 +1,4 @@
-Entomophthora bresenii anon. SPECIES
-=======
+# Entomophthora bresenii anon. SPECIES
 
 #### Status
 ACCEPTED

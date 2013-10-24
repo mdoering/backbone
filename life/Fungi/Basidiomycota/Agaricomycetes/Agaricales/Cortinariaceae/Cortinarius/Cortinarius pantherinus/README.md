@@ -1,5 +1,4 @@
-Cortinarius pantherinus Jul. Schäff. ex Reumaux SPECIES
-=======
+# Cortinarius pantherinus Jul. Schäff. ex Reumaux SPECIES
 
 #### Status
 ACCEPTED

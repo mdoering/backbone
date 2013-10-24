@@ -1,5 +1,4 @@
-Hyphozyma roseonigra de Hoog & M.T. Sm., 1986 SPECIES
-=======
+# Hyphozyma roseonigra de Hoog & M.T. Sm., 1986 SPECIES
 
 #### Status
 ACCEPTED

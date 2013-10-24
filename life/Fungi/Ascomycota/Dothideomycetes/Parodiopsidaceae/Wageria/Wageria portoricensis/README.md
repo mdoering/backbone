@@ -1,5 +1,4 @@
-Wageria portoricensis F. Stevens SPECIES
-=======
+# Wageria portoricensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

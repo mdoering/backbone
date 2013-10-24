@@ -1,5 +1,4 @@
-Cortinarius singularis Soop, 2005 SPECIES
-=======
+# Cortinarius singularis Soop, 2005 SPECIES
 
 #### Status
 ACCEPTED

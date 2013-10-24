@@ -1,5 +1,4 @@
-Graphis kjellbergii Redinger SPECIES
-=======
+# Graphis kjellbergii Redinger SPECIES
 
 #### Status
 ACCEPTED

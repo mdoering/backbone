@@ -1,5 +1,4 @@
-Anomalinoides globulosus (Chapman & Parr, 1937) SPECIES
-=======
+# Anomalinoides globulosus (Chapman & Parr, 1937) SPECIES
 
 #### Status
 ACCEPTED

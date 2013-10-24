@@ -1,5 +1,4 @@
-Psathyrella weberi (Murrill) Singer SPECIES
-=======
+# Psathyrella weberi (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globigerina infracretacea Glaessner SPECIES
-=======
+# Globigerina infracretacea Glaessner SPECIES
 
 #### Status
 ACCEPTED

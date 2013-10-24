@@ -1,5 +1,4 @@
-Porphyrosiphon luteus (Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Porphyrosiphon luteus (Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

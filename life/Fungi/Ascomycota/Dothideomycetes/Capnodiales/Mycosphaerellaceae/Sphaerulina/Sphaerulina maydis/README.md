@@ -1,5 +1,4 @@
-Sphaerulina maydis Henn. SPECIES
-=======
+# Sphaerulina maydis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes fasciculatus Burt SPECIES
-=======
+# Fomes fasciculatus Burt SPECIES
 
 #### Status
 ACCEPTED

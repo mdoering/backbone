@@ -1,5 +1,4 @@
-Polyporus contrarius Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus contrarius Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

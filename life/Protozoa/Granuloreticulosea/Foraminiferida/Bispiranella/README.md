@@ -1,5 +1,4 @@
-Bispiranella Samuel, Salaj & Borza, 1981 GENUS
-=======
+# Bispiranella Samuel, Salaj & Borza, 1981 GENUS
 
 #### Status
 ACCEPTED

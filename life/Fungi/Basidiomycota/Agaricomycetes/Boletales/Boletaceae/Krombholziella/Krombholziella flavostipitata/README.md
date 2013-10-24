@@ -1,5 +1,4 @@
-Krombholziella flavostipitata (E.A. Dick & Snell) utara SPECIES
-=======
+# Krombholziella flavostipitata (E.A. Dick & Snell) utara SPECIES
 
 #### Status
 ACCEPTED

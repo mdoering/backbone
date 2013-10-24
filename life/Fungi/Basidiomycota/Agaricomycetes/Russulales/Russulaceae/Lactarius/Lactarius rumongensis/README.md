@@ -1,5 +1,4 @@
-Lactarius rumongensis Verbeken SPECIES
-=======
+# Lactarius rumongensis Verbeken SPECIES
 
 #### Status
 ACCEPTED

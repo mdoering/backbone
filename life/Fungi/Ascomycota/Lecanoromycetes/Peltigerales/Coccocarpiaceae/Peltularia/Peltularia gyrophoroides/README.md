@@ -1,14 +1,13 @@
-Coccocarpia gyrophoroides Räsänen SPECIES
-=======
+# Peltularia gyrophoroides (Räsänen) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-An. Soc. Cient. Arg. E. III. T. 78: 143 (1939)
+Ark. Bot. 31A(7): 4 (1944)
 
 #### Original name
 Coccocarpia gyrophoroides Räsänen

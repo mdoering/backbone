@@ -1,5 +1,4 @@
-Gyalecta microcarpella Zahlbr. SPECIES
-=======
+# Gyalecta microcarpella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

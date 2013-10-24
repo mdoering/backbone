@@ -1,5 +1,4 @@
-Uvigerina gallowayi Cushman, 1929 SPECIES
-=======
+# Uvigerina gallowayi Cushman, 1929 SPECIES
 
 #### Status
 ACCEPTED

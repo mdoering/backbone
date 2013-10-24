@@ -1,5 +1,4 @@
-Nectria xanthostigma Berk. & Cooke SPECIES
-=======
+# Nectria xanthostigma Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

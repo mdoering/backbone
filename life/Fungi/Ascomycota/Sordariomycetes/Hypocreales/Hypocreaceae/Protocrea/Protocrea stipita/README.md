@@ -1,5 +1,4 @@
-Protocrea stipita (Lib.) Petch SPECIES
-=======
+# Protocrea stipita (Lib.) Petch SPECIES
 
 #### Status
 ACCEPTED

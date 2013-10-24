@@ -1,5 +1,4 @@
-Hyaloscypha hypericicola Svrcek SPECIES
-=======
+# Hyaloscypha hypericicola Svrcek SPECIES
 
 #### Status
 ACCEPTED

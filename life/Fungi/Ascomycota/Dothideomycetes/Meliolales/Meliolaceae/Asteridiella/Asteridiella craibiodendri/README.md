@@ -1,5 +1,4 @@
-Asteridiella craibiodendri B. Song SPECIES
-=======
+# Asteridiella craibiodendri B. Song SPECIES
 
 #### Status
 ACCEPTED

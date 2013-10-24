@@ -1,5 +1,4 @@
-Cortinarius sacchariosmus Bon SPECIES
-=======
+# Cortinarius sacchariosmus Bon SPECIES
 
 #### Status
 ACCEPTED

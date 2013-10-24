@@ -1,5 +1,4 @@
-Eutypella rhizophila (Nitschke) Sacc. SPECIES
-=======
+# Eutypella rhizophila (Nitschke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

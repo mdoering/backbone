@@ -1,5 +1,4 @@
-Trichoderma vinosum Samuels SPECIES
-=======
+# Trichoderma vinosum Samuels SPECIES
 
 #### Status
 ACCEPTED

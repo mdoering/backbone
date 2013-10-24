@@ -1,5 +1,4 @@
-Thalloidima tauricum Szatala SPECIES
-=======
+# Thalloidima tauricum Szatala SPECIES
 
 #### Status
 ACCEPTED

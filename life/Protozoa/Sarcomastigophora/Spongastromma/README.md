@@ -1,5 +1,4 @@
-Spongastromma Haeckel, 1887 GENUS
-=======
+# Spongastromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

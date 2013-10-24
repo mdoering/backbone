@@ -1,5 +1,4 @@
-Pertusaria ochracea Kremp. SPECIES
-=======
+# Pertusaria ochracea Kremp. SPECIES
 
 #### Status
 ACCEPTED

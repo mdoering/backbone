@@ -1,5 +1,4 @@
-Arthrobotryum curvulum (Berk. & Broome) Sacc. SPECIES
-=======
+# Arthrobotryum curvulum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

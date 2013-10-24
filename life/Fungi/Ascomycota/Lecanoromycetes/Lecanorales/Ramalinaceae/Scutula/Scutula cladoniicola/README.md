@@ -1,5 +1,4 @@
-Scutula cladoniicola Alstrup & D. Hawksw. SPECIES
-=======
+# Scutula cladoniicola Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

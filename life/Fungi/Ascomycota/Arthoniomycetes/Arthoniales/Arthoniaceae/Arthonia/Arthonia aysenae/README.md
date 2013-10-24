@@ -1,5 +1,4 @@
-Arthonia aysenae Halici & Candan SPECIES
-=======
+# Arthonia aysenae Halici & Candan SPECIES
 
 #### Status
 ACCEPTED

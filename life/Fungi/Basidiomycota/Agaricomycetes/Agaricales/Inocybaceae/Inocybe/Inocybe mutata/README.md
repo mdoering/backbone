@@ -1,5 +1,4 @@
-Inocybe mutata (Peck) Massee SPECIES
-=======
+# Inocybe mutata (Peck) Massee SPECIES
 
 #### Status
 ACCEPTED

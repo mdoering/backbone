@@ -1,5 +1,4 @@
-Stomiosphaerina Nowak, 1974 GENUS
-=======
+# Stomiosphaerina Nowak, 1974 GENUS
 
 #### Status
 ACCEPTED

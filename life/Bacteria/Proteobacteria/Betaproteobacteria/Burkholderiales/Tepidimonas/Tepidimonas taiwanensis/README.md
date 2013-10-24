@@ -1,5 +1,4 @@
-Tepidimonas taiwanensis Chen et al., 2006 SPECIES
-=======
+# Tepidimonas taiwanensis Chen et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

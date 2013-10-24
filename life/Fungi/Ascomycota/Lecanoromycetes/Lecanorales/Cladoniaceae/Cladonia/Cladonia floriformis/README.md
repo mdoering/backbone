@@ -1,5 +1,4 @@
-Cladonia floriformis C.W. Dodge SPECIES
-=======
+# Cladonia floriformis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

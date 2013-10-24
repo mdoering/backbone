@@ -1,5 +1,4 @@
-Sepedonium sphaerosporum (Berk.) Sacc. SPECIES
-=======
+# Sepedonium sphaerosporum (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

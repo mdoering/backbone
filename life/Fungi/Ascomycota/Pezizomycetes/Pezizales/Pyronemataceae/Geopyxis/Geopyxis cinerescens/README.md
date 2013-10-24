@@ -1,5 +1,4 @@
-Geopyxis cinerescens (Rehm) Sacc. & D. Sacc. SPECIES
-=======
+# Geopyxis cinerescens (Rehm) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

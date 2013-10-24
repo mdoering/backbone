@@ -1,5 +1,4 @@
-Lampromitra quadricuspis Haeckel, 1887 SPECIES
-=======
+# Lampromitra quadricuspis Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

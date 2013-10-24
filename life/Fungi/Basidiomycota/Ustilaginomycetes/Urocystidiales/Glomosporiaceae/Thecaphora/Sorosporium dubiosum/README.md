@@ -1,5 +1,4 @@
-Sorosporium dubiosum (Zundel) L. Ling SPECIES
-=======
+# Sorosporium dubiosum (Zundel) L. Ling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridinium metananus Balech in Balech & El-Sayed, 1965 SPECIES
-=======
+# Peridinium metananus Balech in Balech & El-Sayed, 1965 SPECIES
 
 #### Status
 ACCEPTED

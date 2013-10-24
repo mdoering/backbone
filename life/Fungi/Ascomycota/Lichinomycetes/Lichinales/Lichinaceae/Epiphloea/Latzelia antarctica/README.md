@@ -1,5 +1,4 @@
-Latzelia antarctica C.W. Dodge SPECIES
-=======
+# Latzelia antarctica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

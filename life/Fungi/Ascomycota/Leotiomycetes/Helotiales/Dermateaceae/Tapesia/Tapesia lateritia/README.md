@@ -1,5 +1,4 @@
-Tapesia lateritia (Pers.) Sacc. SPECIES
-=======
+# Tapesia lateritia (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

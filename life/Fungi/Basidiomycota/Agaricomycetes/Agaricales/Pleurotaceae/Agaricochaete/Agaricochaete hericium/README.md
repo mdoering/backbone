@@ -1,5 +1,4 @@
-Agaricochaete hericium Eichelb., 1906 SPECIES
-=======
+# Agaricochaete hericium Eichelb., 1906 SPECIES
 
 #### Status
 ACCEPTED

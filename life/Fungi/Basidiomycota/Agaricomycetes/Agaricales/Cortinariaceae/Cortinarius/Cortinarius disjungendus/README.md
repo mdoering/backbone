@@ -1,17 +1,16 @@
-Cortinarius glandicolor f. curtus (Fr.) Nespiak FORM
-=======
+# Cortinarius disjungendus P. Karst., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora Polska (Warszawa-Kraków), Grzyby (Mycota). Basidiomycetes, Agaricales, Cortinariaceae, Cortinarius II 14: 94 (1981)
+Acta Soc. Fauna Flora fenn. 9(1): 6 (1893)
 
 #### Original name
-Cortinarius glandicolor var. curtus Rea
+Cortinarius disjungendus P. Karst., 1893
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyrenothamnia spraguei Tuck. SPECIES
-=======
+# Pyrenothamnia spraguei Tuck. SPECIES
 
 #### Status
 ACCEPTED

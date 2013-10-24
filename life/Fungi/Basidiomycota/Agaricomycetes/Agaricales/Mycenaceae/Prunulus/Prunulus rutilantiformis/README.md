@@ -1,5 +1,4 @@
-Prunulus rutilantiformis Murrill SPECIES
-=======
+# Prunulus rutilantiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arnoldia cyathodes A. Massal. SPECIES
-=======
+# Arnoldia cyathodes A. Massal. SPECIES
 
 #### Status
 ACCEPTED

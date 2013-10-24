@@ -1,5 +1,4 @@
-Aspergillus steynii Frisvad & Samson SPECIES
-=======
+# Aspergillus steynii Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

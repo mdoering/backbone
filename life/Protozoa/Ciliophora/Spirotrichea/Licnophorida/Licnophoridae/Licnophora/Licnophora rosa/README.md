@@ -1,5 +1,4 @@
-Licnophora rosa Van As & Van As, 2001 SPECIES
-=======
+# Licnophora rosa Van As & Van As, 2001 SPECIES
 
 #### Status
 ACCEPTED

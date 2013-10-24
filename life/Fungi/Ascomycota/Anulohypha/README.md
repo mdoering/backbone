@@ -1,5 +1,4 @@
-Anulohypha Cif. GENUS
-=======
+# Anulohypha Cif. GENUS
 
 #### Status
 ACCEPTED

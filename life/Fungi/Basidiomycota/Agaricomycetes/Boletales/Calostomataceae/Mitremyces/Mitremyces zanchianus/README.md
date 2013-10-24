@@ -1,5 +1,4 @@
-Mitremyces zanchianus Rick SPECIES
-=======
+# Mitremyces zanchianus Rick SPECIES
 
 #### Status
 ACCEPTED

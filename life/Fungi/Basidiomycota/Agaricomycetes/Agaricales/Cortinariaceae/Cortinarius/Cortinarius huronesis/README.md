@@ -1,5 +1,4 @@
-Cortinarius huronesis Ammirati & A.H. Sm. SPECIES
-=======
+# Cortinarius huronesis Ammirati & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

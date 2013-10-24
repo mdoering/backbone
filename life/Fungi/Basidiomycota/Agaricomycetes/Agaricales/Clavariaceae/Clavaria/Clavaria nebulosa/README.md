@@ -1,5 +1,4 @@
-Clavaria nebulosa Peck SPECIES
-=======
+# Clavaria nebulosa Peck SPECIES
 
 #### Status
 ACCEPTED

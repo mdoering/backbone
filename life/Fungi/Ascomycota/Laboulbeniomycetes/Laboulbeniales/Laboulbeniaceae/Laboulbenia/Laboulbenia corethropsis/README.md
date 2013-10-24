@@ -1,5 +1,4 @@
-Laboulbenia corethropsis Thaxt. SPECIES
-=======
+# Laboulbenia corethropsis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

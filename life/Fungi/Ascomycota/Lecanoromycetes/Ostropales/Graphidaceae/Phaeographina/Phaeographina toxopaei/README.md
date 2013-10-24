@@ -1,5 +1,4 @@
-Phaeographina toxopaei Zahlbr. SPECIES
-=======
+# Phaeographina toxopaei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

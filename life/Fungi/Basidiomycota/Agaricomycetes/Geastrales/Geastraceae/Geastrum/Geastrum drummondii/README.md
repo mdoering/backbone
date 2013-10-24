@@ -1,17 +1,16 @@
-Geaster drummondii Berk. SPECIES
-=======
+# Geastrum drummondii Berk., 1845 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Bot. , London 4: 63 (1845)
 
 #### Original name
-Geaster drummondii Berk.
+Geastrum drummondii Berk., 1845
 
 ### Remarks
 null

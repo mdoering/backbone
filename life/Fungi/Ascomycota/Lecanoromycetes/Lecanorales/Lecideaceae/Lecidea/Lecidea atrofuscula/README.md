@@ -1,5 +1,4 @@
-Lecidea atrofuscula C.W. Dodge SPECIES
-=======
+# Lecidea atrofuscula C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium otomycosis Y.N. Ming & T.F. Yu SPECIES
-=======
+# Fusarium otomycosis Y.N. Ming & T.F. Yu SPECIES
 
 #### Status
 ACCEPTED

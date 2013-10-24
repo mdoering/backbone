@@ -1,5 +1,4 @@
-Spheropsis Raf. GENUS
-=======
+# Spheropsis Raf. GENUS
 
 #### Status
 ACCEPTED

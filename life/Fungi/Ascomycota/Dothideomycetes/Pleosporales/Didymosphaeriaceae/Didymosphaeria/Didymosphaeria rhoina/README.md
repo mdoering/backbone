@@ -1,5 +1,4 @@
-Didymosphaeria rhoina Ellis & Everh. SPECIES
-=======
+# Didymosphaeria rhoina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

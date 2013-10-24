@@ -1,5 +1,4 @@
-Arthonia henoniana Müll. Arg. SPECIES
-=======
+# Arthonia henoniana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

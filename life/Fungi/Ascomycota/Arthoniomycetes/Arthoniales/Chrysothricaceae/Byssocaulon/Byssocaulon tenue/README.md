@@ -1,5 +1,4 @@
-Byssocaulon tenue (Hue) Vain. SPECIES
-=======
+# Byssocaulon tenue (Hue) Vain. SPECIES
 
 #### Status
 ACCEPTED

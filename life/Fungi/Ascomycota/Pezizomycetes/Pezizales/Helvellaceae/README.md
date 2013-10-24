@@ -1,5 +1,4 @@
-Helvellaceae Fr. FAMILY
-=======
+# Helvellaceae Fr. FAMILY
 
 #### Status
 ACCEPTED

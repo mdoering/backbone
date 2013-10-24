@@ -1,5 +1,4 @@
-Trichotokara Rueckert & Leander, 2010 GENUS
-=======
+# Trichotokara Rueckert & Leander, 2010 GENUS
 
 #### Status
 ACCEPTED

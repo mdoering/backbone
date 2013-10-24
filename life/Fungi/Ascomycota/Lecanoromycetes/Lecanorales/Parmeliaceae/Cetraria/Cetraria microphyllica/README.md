@@ -1,5 +1,4 @@
-Cetraria microphyllica W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Cetraria microphyllica W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED

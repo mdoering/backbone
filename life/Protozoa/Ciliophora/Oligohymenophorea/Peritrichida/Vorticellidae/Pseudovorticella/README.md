@@ -1,5 +1,4 @@
-Pseudovorticella Foissner & Schiffmann, 1975 GENUS
-=======
+# Pseudovorticella Foissner & Schiffmann, 1975 GENUS
 
 #### Status
 ACCEPTED

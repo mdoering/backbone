@@ -1,5 +1,4 @@
-Physalospora fallaciosa Sacc. SPECIES
-=======
+# Physalospora fallaciosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paecilomyces lepidoptera ined. SPECIES
-=======
+# Paecilomyces lepidoptera ined. SPECIES
 
 #### Status
 ACCEPTED

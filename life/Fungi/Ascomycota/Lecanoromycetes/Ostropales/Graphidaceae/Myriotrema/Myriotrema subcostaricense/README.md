@@ -1,5 +1,4 @@
-Myriotrema subcostaricense Sipman SPECIES
-=======
+# Myriotrema subcostaricense Sipman SPECIES
 
 #### Status
 ACCEPTED

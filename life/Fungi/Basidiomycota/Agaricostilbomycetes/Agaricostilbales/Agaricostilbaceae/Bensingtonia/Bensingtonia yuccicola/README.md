@@ -1,5 +1,4 @@
-Bensingtonia yuccicola (Nakase & M. Suzuki) Nakase & Boekhout SPECIES
-=======
+# Bensingtonia yuccicola (Nakase & M. Suzuki) Nakase & Boekhout SPECIES
 
 #### Status
 ACCEPTED

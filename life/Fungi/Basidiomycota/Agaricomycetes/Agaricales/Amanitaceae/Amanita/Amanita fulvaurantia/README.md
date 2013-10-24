@@ -1,5 +1,4 @@
-Amanita fulvaurantia R.P. Bhatt, Locq. & T.N. Lakh. SPECIES
-=======
+# Amanita fulvaurantia R.P. Bhatt, Locq. & T.N. Lakh. SPECIES
 
 #### Status
 ACCEPTED

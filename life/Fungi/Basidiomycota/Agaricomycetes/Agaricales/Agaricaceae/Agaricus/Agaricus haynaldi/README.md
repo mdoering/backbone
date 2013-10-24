@@ -1,5 +1,4 @@
-Agaricus haynaldi Roum. SPECIES
-=======
+# Agaricus haynaldi Roum. SPECIES
 
 #### Status
 ACCEPTED

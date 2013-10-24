@@ -1,5 +1,4 @@
-Tubitextularia bohemica (Sulc) SPECIES
-=======
+# Tubitextularia bohemica (Sulc) SPECIES
 
 #### Status
 ACCEPTED

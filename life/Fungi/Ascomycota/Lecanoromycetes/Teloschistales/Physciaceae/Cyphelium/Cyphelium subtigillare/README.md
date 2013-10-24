@@ -1,5 +1,4 @@
-Cyphelium subtigillare Räsänen SPECIES
-=======
+# Cyphelium subtigillare Räsänen SPECIES
 
 #### Status
 ACCEPTED

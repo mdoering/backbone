@@ -1,5 +1,4 @@
-Bacidia microscopica (Mont.) A. Massal. SPECIES
-=======
+# Bacidia microscopica (Mont.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

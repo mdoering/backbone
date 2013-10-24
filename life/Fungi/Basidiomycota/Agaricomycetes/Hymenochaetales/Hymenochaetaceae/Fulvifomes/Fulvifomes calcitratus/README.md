@@ -1,5 +1,4 @@
-Fulvifomes calcitratus (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Fulvifomes calcitratus (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

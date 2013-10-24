@@ -1,5 +1,4 @@
-Gjaerumia R. Bauer, M. Lutz & Oberw. GENUS
-=======
+# Gjaerumia R. Bauer, M. Lutz & Oberw. GENUS
 
 #### Status
 ACCEPTED

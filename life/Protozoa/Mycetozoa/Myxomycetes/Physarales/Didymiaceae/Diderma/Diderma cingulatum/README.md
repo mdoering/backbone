@@ -1,17 +1,16 @@
-Diderma cingulatum subsp. cingulatum SUBSPECIES
-=======
+# Diderma cingulatum Nann.-Bremek., 1968 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. K. Ned. Akad. Wet. 71(2): 191 (1968)
 
 #### Original name
-null
+Diderma cingulatum Nann.-Bremek., 1968
 
 ### Remarks
 null

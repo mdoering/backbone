@@ -1,5 +1,4 @@
-Xanthochrous tinctorius (Quél.) Pat. SPECIES
-=======
+# Xanthochrous tinctorius (Quél.) Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enhygromyxa salina Iizuka et al., 2003 SPECIES
-=======
+# Enhygromyxa salina Iizuka et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

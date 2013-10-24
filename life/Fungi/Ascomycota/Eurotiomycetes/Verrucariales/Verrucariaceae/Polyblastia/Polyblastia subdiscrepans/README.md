@@ -1,5 +1,4 @@
-Polyblastia subdiscrepans (Nyl.) Lettau SPECIES
-=======
+# Polyblastia subdiscrepans (Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

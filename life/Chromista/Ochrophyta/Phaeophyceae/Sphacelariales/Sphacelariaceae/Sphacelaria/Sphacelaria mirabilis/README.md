@@ -1,8 +1,7 @@
-Battersia mirabilis Reinke ex Batters SPECIES
-=======
+# Sphacelaria mirabilis (Reinke ex Batters) Prud'homme van Reine SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

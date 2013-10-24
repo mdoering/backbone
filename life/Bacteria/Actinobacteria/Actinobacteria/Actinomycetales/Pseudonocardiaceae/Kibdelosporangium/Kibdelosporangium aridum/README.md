@@ -1,5 +1,4 @@
-Kibdelosporangium aridum subsp. aridum SUBSPECIES
-=======
+# Kibdelosporangium aridum Shearer et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sebacina arctica Kobayasi SPECIES
-=======
+# Sebacina arctica Kobayasi SPECIES
 
 #### Status
 ACCEPTED

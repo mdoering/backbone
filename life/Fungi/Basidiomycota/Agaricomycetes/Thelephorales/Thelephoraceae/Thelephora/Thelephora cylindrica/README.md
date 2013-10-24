@@ -1,5 +1,4 @@
-Thelephora cylindrica Corner, 1968 SPECIES
-=======
+# Thelephora cylindrica Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

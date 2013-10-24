@@ -1,5 +1,4 @@
-Allocetraria madreporiformis (Ach.) Kärnefelt & A. Thell SPECIES
-=======
+# Allocetraria madreporiformis (Ach.) Kärnefelt & A. Thell SPECIES
 
 #### Status
 ACCEPTED

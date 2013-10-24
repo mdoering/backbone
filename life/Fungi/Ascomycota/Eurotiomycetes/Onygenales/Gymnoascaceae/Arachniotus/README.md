@@ -1,17 +1,16 @@
-Disarticulatus G.F. Orr GENUS
-=======
+# Arachniotus J. Schröt. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 6(1): 35 (1977)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(12): 210 (1893)
 
 #### Original name
-Disarticulatus G.F. Orr
+Arachniotus J. Schröt.
 
 ### Remarks
 null

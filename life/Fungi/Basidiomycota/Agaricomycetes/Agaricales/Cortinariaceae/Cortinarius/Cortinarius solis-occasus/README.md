@@ -1,5 +1,4 @@
-Cortinarius solis-occasus Melot SPECIES
-=======
+# Cortinarius solis-occasus Melot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chromendothia appendiculata Lar.N. Vassiljeva SPECIES
-=======
+# Chromendothia appendiculata Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

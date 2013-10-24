@@ -1,5 +1,4 @@
-Patellaria strickeri (Körb.) Sacc. SPECIES
-=======
+# Patellaria strickeri (Körb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyaloscypha nipponica Huhtinen SPECIES
-=======
+# Hyaloscypha nipponica Huhtinen SPECIES
 
 #### Status
 ACCEPTED

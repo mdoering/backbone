@@ -1,5 +1,4 @@
-Petalomonas vulgaris Skuja SPECIES
-=======
+# Petalomonas vulgaris Skuja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Involvohauerina globularis Loeblich & Tappan, 1955 SPECIES
-=======
+# Involvohauerina globularis Loeblich & Tappan, 1955 SPECIES
 
 #### Status
 ACCEPTED

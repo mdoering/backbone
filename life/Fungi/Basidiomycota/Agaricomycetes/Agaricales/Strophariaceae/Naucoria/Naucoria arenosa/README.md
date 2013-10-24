@@ -1,5 +1,4 @@
-Naucoria arenosa Velen. SPECIES
-=======
+# Naucoria arenosa Velen. SPECIES
 
 #### Status
 ACCEPTED

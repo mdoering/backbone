@@ -1,5 +1,4 @@
-Caloplaca ceracea J. R. Laundon SPECIES
-=======
+# Caloplaca ceracea J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED

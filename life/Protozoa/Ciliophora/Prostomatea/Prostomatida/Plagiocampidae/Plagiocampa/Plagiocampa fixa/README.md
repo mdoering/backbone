@@ -1,5 +1,4 @@
-Plagiocampa fixa subsp. fixa SUBSPECIES
-=======
+# Plagiocampa fixa SPECIES
 
 #### Status
 ACCEPTED

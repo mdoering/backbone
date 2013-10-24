@@ -1,5 +1,4 @@
-Naemospora gummosa Pass. SPECIES
-=======
+# Naemospora gummosa Pass. SPECIES
 
 #### Status
 ACCEPTED

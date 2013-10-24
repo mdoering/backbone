@@ -1,5 +1,4 @@
-Blepharoconus microcorys Gassovsky, 1918 SPECIES
-=======
+# Blepharoconus microcorys Gassovsky, 1918 SPECIES
 
 #### Status
 ACCEPTED

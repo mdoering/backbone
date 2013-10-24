@@ -1,5 +1,4 @@
-Astrocapsa Haeckel, 1887 GENUS
-=======
+# Astrocapsa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

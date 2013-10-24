@@ -1,5 +1,4 @@
-Lecudina danielae Corbel, Desportes & Théodoridés, 1979 SPECIES
-=======
+# Lecudina danielae Corbel, Desportes & Théodoridés, 1979 SPECIES
 
 #### Status
 ACCEPTED

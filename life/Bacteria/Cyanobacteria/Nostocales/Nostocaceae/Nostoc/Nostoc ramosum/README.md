@@ -1,5 +1,4 @@
-Nostoc ramosum Ercegovic SPECIES
-=======
+# Nostoc ramosum Ercegovic SPECIES
 
 #### Status
 ACCEPTED

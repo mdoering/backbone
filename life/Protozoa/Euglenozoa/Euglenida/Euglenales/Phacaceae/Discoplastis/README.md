@@ -1,5 +1,4 @@
-Discoplastis Triemer, 2006 GENUS
-=======
+# Discoplastis Triemer, 2006 GENUS
 
 #### Status
 ACCEPTED

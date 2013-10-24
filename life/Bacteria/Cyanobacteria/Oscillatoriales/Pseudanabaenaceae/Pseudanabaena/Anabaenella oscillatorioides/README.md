@@ -1,5 +1,4 @@
-Anabaenella oscillatorioides Gaillon SPECIES
-=======
+# Anabaenella oscillatorioides Gaillon SPECIES
 
 #### Status
 DOUBTFUL

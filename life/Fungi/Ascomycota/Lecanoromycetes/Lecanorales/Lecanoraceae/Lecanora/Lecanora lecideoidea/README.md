@@ -1,5 +1,4 @@
-Lecanora lecideoidea (Hue) Zahlbr. SPECIES
-=======
+# Lecanora lecideoidea (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

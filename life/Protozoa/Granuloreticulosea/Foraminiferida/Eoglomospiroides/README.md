@@ -1,5 +1,4 @@
-Eoglomospiroides Reitlinger, 1993 GENUS
-=======
+# Eoglomospiroides Reitlinger, 1993 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphoroblastia nidulans (Stenh.) Servít SPECIES
-=======
+# Amphoroblastia nidulans (Stenh.) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placopyrenium cinereoatratum (Degel.) Orange SPECIES
-=======
+# Placopyrenium cinereoatratum (Degel.) Orange SPECIES
 
 #### Status
 ACCEPTED

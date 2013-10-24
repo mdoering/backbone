@@ -1,5 +1,4 @@
-Pholiota harenosa A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota harenosa A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

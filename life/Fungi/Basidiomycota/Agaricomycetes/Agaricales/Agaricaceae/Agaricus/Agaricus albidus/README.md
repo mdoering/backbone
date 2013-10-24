@@ -1,5 +1,4 @@
-Agaricus albidus Balb. SPECIES
-=======
+# Agaricus albidus Balb. SPECIES
 
 #### Status
 ACCEPTED

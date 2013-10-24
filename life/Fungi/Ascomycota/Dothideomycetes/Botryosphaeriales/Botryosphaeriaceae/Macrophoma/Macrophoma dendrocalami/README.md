@@ -1,5 +1,4 @@
-Macrophoma dendrocalami Sawada SPECIES
-=======
+# Macrophoma dendrocalami Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea rufescens (Ach.) Borrer SPECIES
-=======
+# Lecidea rufescens (Ach.) Borrer SPECIES
 
 #### Status
 ACCEPTED

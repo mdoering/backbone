@@ -1,5 +1,4 @@
-Sydowia randiae R. Rao & Modak SPECIES
-=======
+# Sydowia randiae R. Rao & Modak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strickeria kelseyi (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Strickeria kelseyi (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

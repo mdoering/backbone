@@ -1,5 +1,4 @@
-Polyporus arenicolor Berk. SPECIES
-=======
+# Polyporus arenicolor Berk. SPECIES
 
 #### Status
 ACCEPTED

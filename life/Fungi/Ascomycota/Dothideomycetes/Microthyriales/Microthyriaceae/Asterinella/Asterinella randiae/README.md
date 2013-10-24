@@ -1,5 +1,4 @@
-Asterinella randiae Hansf. SPECIES
-=======
+# Asterinella randiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

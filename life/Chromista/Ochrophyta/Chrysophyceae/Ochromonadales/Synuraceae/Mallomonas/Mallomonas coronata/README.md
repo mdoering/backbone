@@ -1,5 +1,4 @@
-Mallomonas coronata Pemain & Vinnikova SPECIES
-=======
+# Mallomonas coronata Pemain & Vinnikova SPECIES
 
 #### Status
 ACCEPTED

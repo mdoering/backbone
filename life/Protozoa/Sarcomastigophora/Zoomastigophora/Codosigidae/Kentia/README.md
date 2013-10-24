@@ -1,5 +1,4 @@
-Kentia J. Schiller, 1953 GENUS
-=======
+# Kentia J. Schiller, 1953 GENUS
 
 #### Status
 ACCEPTED

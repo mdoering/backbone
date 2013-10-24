@@ -1,5 +1,4 @@
-Asterina boedijniana Hansf. SPECIES
-=======
+# Asterina boedijniana Hansf. SPECIES
 
 #### Status
 ACCEPTED

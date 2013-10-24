@@ -1,5 +1,4 @@
-Coronocyclus prionion (Deflandre & Fert, 1954) Stradner in Stradner & Edwards, 1968 SPECIES
-=======
+# Coronocyclus prionion (Deflandre & Fert, 1954) Stradner in Stradner & Edwards, 1968 SPECIES
 
 #### Status
 ACCEPTED

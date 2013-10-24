@@ -1,5 +1,4 @@
-Xenorhabdus innexi Lengyel et al., 2005 SPECIES
-=======
+# Xenorhabdus innexi Lengyel et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

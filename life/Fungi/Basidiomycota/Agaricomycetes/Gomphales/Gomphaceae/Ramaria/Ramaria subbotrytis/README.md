@@ -1,17 +1,16 @@
-Ramaria subbotrytis f. subbotrytis FORM
-=======
+# Ramaria subbotrytis (Coker) Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 625 (1950)
 
 #### Original name
-Ramaria subbotrytis f. subbotrytis
+Clavaria subbotrytis Coker, 1923
 
 ### Remarks
 null

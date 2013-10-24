@@ -1,5 +1,4 @@
-Sujkowskiella Hay, Mohler & Wade GENUS
-=======
+# Sujkowskiella Hay, Mohler & Wade GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus rufopunctatus (Beeli) Heinem. SPECIES
-=======
+# Cantharellus rufopunctatus (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

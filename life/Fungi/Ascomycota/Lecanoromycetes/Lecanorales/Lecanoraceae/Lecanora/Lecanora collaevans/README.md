@@ -1,5 +1,4 @@
-Lecanora collaevans Nyl. SPECIES
-=======
+# Lecanora collaevans Nyl. SPECIES
 
 #### Status
 ACCEPTED

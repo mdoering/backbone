@@ -1,5 +1,4 @@
-Ceuthosporella sambuci Höhn., 1929 SPECIES
-=======
+# Ceuthosporella sambuci Höhn., 1929 SPECIES
 
 #### Status
 ACCEPTED

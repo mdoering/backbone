@@ -1,5 +1,4 @@
-Stachybotryella repens Ellis & Barthol., 1902 SPECIES
-=======
+# Stachybotryella repens Ellis & Barthol., 1902 SPECIES
 
 #### Status
 ACCEPTED

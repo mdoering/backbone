@@ -1,17 +1,16 @@
-Coprinus heterosetulosus var. heterosetulosus VARIETY
-=======
+# Coprinellus heterosetulosus (Locq. ex Watling) Vilgalys, Hopple & Jacq. Johnson, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notes R. bot. Gdn Edinb. 63: 78 (1976)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 234 (2001)
 
 #### Original name
-Coprinus heterosetulosus var. heterosetulosus
+Coprinus heterosetulosus Locq., 1947
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Melanomma pyriostictum Cooke, 1887 SPECIES
-=======
+# Melanomma pyriostictum Cooke, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbella bulbosa (Tode) Lindau SPECIES
-=======
+# Stilbella bulbosa (Tode) Lindau SPECIES
 
 #### Status
 ACCEPTED

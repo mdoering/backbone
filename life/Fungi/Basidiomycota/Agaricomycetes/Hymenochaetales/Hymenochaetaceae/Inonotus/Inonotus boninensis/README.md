@@ -1,5 +1,4 @@
-Inonotus boninensis T. Hatt. & Ryvarden, 1993 SPECIES
-=======
+# Inonotus boninensis T. Hatt. & Ryvarden, 1993 SPECIES
 
 #### Status
 ACCEPTED

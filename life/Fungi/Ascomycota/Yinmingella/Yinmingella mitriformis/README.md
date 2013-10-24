@@ -1,5 +1,4 @@
-Yinmingella mitriformis Goh, K.M. Tsui & K.D. Hyde, 1999 SPECIES
-=======
+# Yinmingella mitriformis Goh, K.M. Tsui & K.D. Hyde, 1999 SPECIES
 
 #### Status
 ACCEPTED

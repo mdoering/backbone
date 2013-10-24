@@ -1,5 +1,4 @@
-Mycena bertaultiana G. Moreno & Heykoop SPECIES
-=======
+# Mycena bertaultiana G. Moreno & Heykoop SPECIES
 
 #### Status
 ACCEPTED

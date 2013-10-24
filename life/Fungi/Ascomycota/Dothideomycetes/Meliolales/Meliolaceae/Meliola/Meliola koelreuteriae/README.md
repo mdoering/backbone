@@ -1,5 +1,4 @@
-Meliola koelreuteriae Hansf. SPECIES
-=======
+# Meliola koelreuteriae Hansf. SPECIES
 
 #### Status
 ACCEPTED

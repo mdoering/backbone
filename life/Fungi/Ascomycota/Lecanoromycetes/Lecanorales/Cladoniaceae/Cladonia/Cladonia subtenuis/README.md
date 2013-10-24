@@ -1,17 +1,16 @@
-Cladonia subtenuis var. subtenuis VARIETY
-=======
+# Cladonia subtenuis (Abbayes) A. Evans SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Conn. Acad. Arts & Sci 35: 536 (1944)
 
 #### Original name
-Cladonia subtenuis var. subtenuis
+Cladonia tenuis subsp. subtenuis Abbayes
 
 ### Remarks
 null

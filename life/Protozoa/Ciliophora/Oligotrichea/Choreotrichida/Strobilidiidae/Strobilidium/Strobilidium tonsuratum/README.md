@@ -1,8 +1,7 @@
-Strombilidium tonsuratum Meunier, 1907 SPECIES
-=======
+# Strobilidium tonsuratum (Meunier, 1910) Maeda, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

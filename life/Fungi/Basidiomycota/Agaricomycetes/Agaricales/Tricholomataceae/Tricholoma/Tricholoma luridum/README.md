@@ -1,17 +1,16 @@
-Agaricus luridus var. luridus Schaeff., 1774 VARIETY
-=======
+# Tricholoma luridum (Schaeff.) P. Kumm., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. Bavar. Palat. 4: 30 (1774)
+Führ. Pilzk. (Zwickau) 132 (1871)
 
 #### Original name
-Agaricus luridus var. luridus Schaeff., 1774
+Agaricus luridus Pers., 1801
 
 ### Remarks
 null

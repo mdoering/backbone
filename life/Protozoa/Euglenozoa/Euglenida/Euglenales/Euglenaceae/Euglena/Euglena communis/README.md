@@ -1,5 +1,4 @@
-Euglena communis Gojdics SPECIES
-=======
+# Euglena communis Gojdics SPECIES
 
 #### Status
 ACCEPTED

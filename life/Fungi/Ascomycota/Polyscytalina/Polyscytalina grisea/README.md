@@ -1,5 +1,4 @@
-Polyscytalina grisea G. Arnaud, 1954 SPECIES
-=======
+# Polyscytalina grisea G. Arnaud, 1954 SPECIES
 
 #### Status
 ACCEPTED

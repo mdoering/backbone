@@ -1,5 +1,4 @@
-Pilisphaera GENUS
-=======
+# Pilisphaera GENUS
 
 #### Status
 ACCEPTED

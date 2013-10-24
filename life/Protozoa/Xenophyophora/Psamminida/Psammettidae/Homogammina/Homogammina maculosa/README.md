@@ -1,5 +1,4 @@
-Homogammina maculosa Gooday & Tendal, 1988 SPECIES
-=======
+# Homogammina maculosa Gooday & Tendal, 1988 SPECIES
 
 #### Status
 ACCEPTED

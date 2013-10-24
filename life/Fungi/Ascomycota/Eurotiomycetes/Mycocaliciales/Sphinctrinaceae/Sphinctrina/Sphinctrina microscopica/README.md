@@ -1,5 +1,4 @@
-Sphinctrina microscopica Berk. & M.A. Curtis SPECIES
-=======
+# Sphinctrina microscopica Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

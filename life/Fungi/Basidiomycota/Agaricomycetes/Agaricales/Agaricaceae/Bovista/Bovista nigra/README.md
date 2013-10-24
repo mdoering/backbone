@@ -1,5 +1,4 @@
-Bovista nigra Velen. SPECIES
-=======
+# Bovista nigra Velen. SPECIES
 
 #### Status
 ACCEPTED

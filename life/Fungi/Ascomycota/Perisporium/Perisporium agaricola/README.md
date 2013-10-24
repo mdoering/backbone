@@ -1,5 +1,4 @@
-Perisporium agaricola Wallr. SPECIES
-=======
+# Perisporium agaricola Wallr. SPECIES
 
 #### Status
 ACCEPTED

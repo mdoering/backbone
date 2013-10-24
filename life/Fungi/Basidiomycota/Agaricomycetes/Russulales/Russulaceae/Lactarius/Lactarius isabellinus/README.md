@@ -1,5 +1,4 @@
-Lactarius isabellinus Burl. SPECIES
-=======
+# Lactarius isabellinus Burl. SPECIES
 
 #### Status
 ACCEPTED

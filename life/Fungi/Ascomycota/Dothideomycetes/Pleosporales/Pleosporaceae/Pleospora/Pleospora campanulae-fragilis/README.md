@@ -1,5 +1,4 @@
-Pleospora campanulae-fragilis Pass. SPECIES
-=======
+# Pleospora campanulae-fragilis Pass. SPECIES
 
 #### Status
 ACCEPTED

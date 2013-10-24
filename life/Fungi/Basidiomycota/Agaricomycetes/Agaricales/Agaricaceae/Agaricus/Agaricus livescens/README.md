@@ -1,5 +1,4 @@
-Agaricus livescens Pass. SPECIES
-=======
+# Agaricus livescens Pass. SPECIES
 
 #### Status
 ACCEPTED

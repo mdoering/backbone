@@ -1,5 +1,4 @@
-Sticta clathrata SPECIES
-=======
+# Sticta clathrata SPECIES
 
 #### Status
 ACCEPTED

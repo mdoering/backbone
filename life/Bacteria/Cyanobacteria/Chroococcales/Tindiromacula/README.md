@@ -1,5 +1,4 @@
-Tindiromacula Allison in Allison & Awramik, 1989 GENUS
-=======
+# Tindiromacula Allison in Allison & Awramik, 1989 GENUS
 
 #### Status
 ACCEPTED

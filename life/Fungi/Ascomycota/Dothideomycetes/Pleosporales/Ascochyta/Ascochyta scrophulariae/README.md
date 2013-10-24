@@ -1,5 +1,4 @@
-Ascochyta scrophulariae Hollós SPECIES
-=======
+# Ascochyta scrophulariae Hollós SPECIES
 
 #### Status
 ACCEPTED

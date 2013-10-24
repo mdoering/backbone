@@ -1,5 +1,4 @@
-Caloplaca gilvella (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca gilvella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma fimbriata Nann. SPECIES
-=======
+# Phoma fimbriata Nann. SPECIES
 
 #### Status
 ACCEPTED

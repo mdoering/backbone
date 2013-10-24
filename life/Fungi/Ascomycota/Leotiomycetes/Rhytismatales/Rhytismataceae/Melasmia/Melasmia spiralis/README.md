@@ -1,5 +1,4 @@
-Melasmia spiralis Petr. SPECIES
-=======
+# Melasmia spiralis Petr. SPECIES
 
 #### Status
 ACCEPTED

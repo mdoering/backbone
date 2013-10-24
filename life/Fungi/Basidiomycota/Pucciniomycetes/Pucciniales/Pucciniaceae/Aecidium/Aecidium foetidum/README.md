@@ -1,5 +1,4 @@
-Aecidium foetidum Dietel SPECIES
-=======
+# Aecidium foetidum Dietel SPECIES
 
 #### Status
 ACCEPTED

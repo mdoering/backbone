@@ -1,5 +1,4 @@
-Rhabdospora phaseoli Sousa da Câmara SPECIES
-=======
+# Rhabdospora phaseoli Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

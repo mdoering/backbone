@@ -1,17 +1,16 @@
-Monilia metchnikoffi Castell. SPECIES
-=======
+# Monilia metschnikoffii Castell. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Inst. Pasteur, Paris 30(4): 154 (1916)
 
 #### Original name
-Monilia metchnikoffi Castell.
+Monilia metschnikoffii Castell.
 
 ### Remarks
 null

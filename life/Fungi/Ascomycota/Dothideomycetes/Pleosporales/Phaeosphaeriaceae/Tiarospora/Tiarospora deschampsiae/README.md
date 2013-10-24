@@ -1,5 +1,4 @@
-Tiarospora deschampsiae Krusch. SPECIES
-=======
+# Tiarospora deschampsiae Krusch. SPECIES
 
 #### Status
 ACCEPTED

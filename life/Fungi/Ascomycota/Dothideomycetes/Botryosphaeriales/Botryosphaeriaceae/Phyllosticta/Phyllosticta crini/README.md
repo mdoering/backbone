@@ -1,5 +1,4 @@
-Phyllosticta crini Sacc. SPECIES
-=======
+# Phyllosticta crini Sacc. SPECIES
 
 #### Status
 ACCEPTED

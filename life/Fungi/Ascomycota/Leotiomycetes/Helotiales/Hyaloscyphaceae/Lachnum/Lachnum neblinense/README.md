@@ -1,5 +1,4 @@
-Lachnum neblinense J.H. Haines SPECIES
-=======
+# Lachnum neblinense J.H. Haines SPECIES
 
 #### Status
 ACCEPTED

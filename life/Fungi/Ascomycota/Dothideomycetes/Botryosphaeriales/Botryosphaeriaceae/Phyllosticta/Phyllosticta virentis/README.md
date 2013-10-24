@@ -1,5 +1,4 @@
-Phyllosticta virentis Ellis & Langl. SPECIES
-=======
+# Phyllosticta virentis Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synallisopsis GENUS
-=======
+# Synallisopsis GENUS
 
 #### Status
 ACCEPTED

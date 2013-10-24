@@ -1,5 +1,4 @@
-Diplodia variispora Died. SPECIES
-=======
+# Diplodia variispora Died. SPECIES
 
 #### Status
 ACCEPTED

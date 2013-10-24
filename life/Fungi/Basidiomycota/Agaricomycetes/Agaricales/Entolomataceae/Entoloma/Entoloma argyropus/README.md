@@ -1,5 +1,4 @@
-Entoloma argyropus (Alb. & Schwein.) P. Kumm. SPECIES
-=======
+# Entoloma argyropus (Alb. & Schwein.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

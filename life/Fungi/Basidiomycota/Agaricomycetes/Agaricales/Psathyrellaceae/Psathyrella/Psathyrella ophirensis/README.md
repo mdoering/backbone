@@ -1,5 +1,4 @@
-Psathyrella ophirensis A.H. Sm. SPECIES
-=======
+# Psathyrella ophirensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

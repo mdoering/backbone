@@ -1,5 +1,4 @@
-Agaricus beckleri Berk. SPECIES
-=======
+# Agaricus beckleri Berk. SPECIES
 
 #### Status
 ACCEPTED

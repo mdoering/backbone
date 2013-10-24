@@ -1,5 +1,4 @@
-Coprinopsis heterocoma (Malençon) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis heterocoma (Malençon) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

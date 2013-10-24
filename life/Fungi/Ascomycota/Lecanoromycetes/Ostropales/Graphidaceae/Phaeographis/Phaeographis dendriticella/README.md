@@ -1,5 +1,4 @@
-Phaeographis dendriticella Müll. Arg. SPECIES
-=======
+# Phaeographis dendriticella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

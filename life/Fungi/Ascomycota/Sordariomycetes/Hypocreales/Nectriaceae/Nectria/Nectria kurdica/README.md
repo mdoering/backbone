@@ -1,5 +1,4 @@
-Nectria kurdica (Petr.) Rossman SPECIES
-=======
+# Nectria kurdica (Petr.) Rossman SPECIES
 
 #### Status
 ACCEPTED

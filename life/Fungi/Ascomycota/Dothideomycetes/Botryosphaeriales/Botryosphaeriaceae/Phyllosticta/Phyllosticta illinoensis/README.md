@@ -1,5 +1,4 @@
-Phyllosticta illinoensis Tehon & E.Y. Daniels SPECIES
-=======
+# Phyllosticta illinoensis Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

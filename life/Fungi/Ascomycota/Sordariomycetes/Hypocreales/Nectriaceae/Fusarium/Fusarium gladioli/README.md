@@ -1,5 +1,4 @@
-Fusarium gladioli anon. SPECIES
-=======
+# Fusarium gladioli anon. SPECIES
 
 #### Status
 ACCEPTED

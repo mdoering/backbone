@@ -1,5 +1,4 @@
-Lecidea aethalea (Ach.) Nyl. SPECIES
-=======
+# Lecidea aethalea (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

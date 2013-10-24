@@ -1,5 +1,4 @@
-Cooksonella E. Nagy, 1965 GENUS
-=======
+# Cooksonella E. Nagy, 1965 GENUS
 
 #### Status
 ACCEPTED

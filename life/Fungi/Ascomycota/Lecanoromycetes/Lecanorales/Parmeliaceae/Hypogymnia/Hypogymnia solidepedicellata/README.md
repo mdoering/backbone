@@ -1,5 +1,4 @@
-Hypogymnia solidepedicellata (Bitter) C.W. Dodge SPECIES
-=======
+# Hypogymnia solidepedicellata (Bitter) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Galera fragilis var. fragilis Peck VARIETY
-=======
+# Conocybe fragilis (Peck) Singer, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 24: 144 (1897)
+Acta Inst. bot. Komarov. Acad. Sci. , Pl. Crypt, ser. 2 6: 438 (1950)
 
 #### Original name
-Galera fragilis var. fragilis Peck
+Galera fragilis Peck, 1897
 
 ### Remarks
 null

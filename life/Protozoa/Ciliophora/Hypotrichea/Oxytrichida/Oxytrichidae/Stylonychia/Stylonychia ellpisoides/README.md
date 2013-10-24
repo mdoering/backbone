@@ -1,5 +1,4 @@
-Stylonychia ellpisoides Dumas SPECIES
-=======
+# Stylonychia ellpisoides Dumas SPECIES
 
 #### Status
 ACCEPTED

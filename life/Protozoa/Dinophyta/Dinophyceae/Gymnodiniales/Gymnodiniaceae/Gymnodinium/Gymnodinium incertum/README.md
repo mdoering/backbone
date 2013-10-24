@@ -1,5 +1,4 @@
-Gymnodinium incertum Herdman SPECIES
-=======
+# Gymnodinium incertum Herdman SPECIES
 
 #### Status
 ACCEPTED

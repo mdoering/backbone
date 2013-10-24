@@ -1,5 +1,4 @@
-Buelliella inops (Triebel & Rambold) Hafellner SPECIES
-=======
+# Buelliella inops (Triebel & Rambold) Hafellner SPECIES
 
 #### Status
 ACCEPTED

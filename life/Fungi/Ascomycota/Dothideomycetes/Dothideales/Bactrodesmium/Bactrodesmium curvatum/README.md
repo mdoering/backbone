@@ -1,5 +1,4 @@
-Bactrodesmium curvatum P.M. Kirk, 1985 SPECIES
-=======
+# Bactrodesmium curvatum P.M. Kirk, 1985 SPECIES
 
 #### Status
 ACCEPTED

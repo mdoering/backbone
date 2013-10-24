@@ -1,5 +1,4 @@
-Hebeloma humile Rick SPECIES
-=======
+# Hebeloma humile Rick SPECIES
 
 #### Status
 ACCEPTED

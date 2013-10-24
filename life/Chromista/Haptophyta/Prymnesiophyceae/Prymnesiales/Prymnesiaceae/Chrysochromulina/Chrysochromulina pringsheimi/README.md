@@ -1,5 +1,4 @@
-Chrysochromulina pringsheimi SPECIES
-=======
+# Chrysochromulina pringsheimi SPECIES
 
 #### Status
 ACCEPTED

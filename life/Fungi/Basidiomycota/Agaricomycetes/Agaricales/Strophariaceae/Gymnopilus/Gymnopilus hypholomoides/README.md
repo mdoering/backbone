@@ -1,5 +1,4 @@
-Gymnopilus hypholomoides Murrill SPECIES
-=======
+# Gymnopilus hypholomoides Murrill SPECIES
 
 #### Status
 ACCEPTED

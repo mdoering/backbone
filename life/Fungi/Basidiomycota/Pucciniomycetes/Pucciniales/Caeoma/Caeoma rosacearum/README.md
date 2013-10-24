@@ -1,5 +1,4 @@
-Caeoma rosacearum Schltdl. SPECIES
-=======
+# Caeoma rosacearum Schltdl. SPECIES
 
 #### Status
 ACCEPTED

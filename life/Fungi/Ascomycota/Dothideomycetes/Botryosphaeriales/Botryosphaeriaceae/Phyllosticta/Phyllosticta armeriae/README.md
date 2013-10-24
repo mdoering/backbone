@@ -1,5 +1,4 @@
-Phyllosticta armeriae Allesch. SPECIES
-=======
+# Phyllosticta armeriae Allesch. SPECIES
 
 #### Status
 ACCEPTED

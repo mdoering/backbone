@@ -1,5 +1,4 @@
-Plectosphaera euryae I. Hino & Katum., 1965 SPECIES
-=======
+# Plectosphaera euryae I. Hino & Katum., 1965 SPECIES
 
 #### Status
 ACCEPTED

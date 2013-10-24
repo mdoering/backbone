@@ -1,5 +1,4 @@
-Lecidea imbricata Mont. SPECIES
-=======
+# Lecidea imbricata Mont. SPECIES
 
 #### Status
 ACCEPTED

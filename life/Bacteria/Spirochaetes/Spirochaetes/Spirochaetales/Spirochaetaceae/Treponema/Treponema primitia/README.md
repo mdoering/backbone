@@ -1,5 +1,4 @@
-Treponema primitia Graber et al., 2004 SPECIES
-=======
+# Treponema primitia Graber et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium medispinosum Y.K. Mathur & K. Mathur, 1980 SPECIES
-=======
+# Micrhystridium medispinosum Y.K. Mathur & K. Mathur, 1980 SPECIES
 
 #### Status
 ACCEPTED

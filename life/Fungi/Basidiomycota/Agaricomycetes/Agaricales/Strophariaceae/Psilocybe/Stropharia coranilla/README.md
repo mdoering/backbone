@@ -1,5 +1,4 @@
-Stropharia coranilla W. Saunders & W.G. Sm. SPECIES
-=======
+# Stropharia coranilla W. Saunders & W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

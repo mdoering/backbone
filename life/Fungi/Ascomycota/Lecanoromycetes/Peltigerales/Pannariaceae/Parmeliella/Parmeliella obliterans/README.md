@@ -1,5 +1,4 @@
-Parmeliella obliterans var. obliterans VARIETY
-=======
+# Parmeliella obliterans (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diophrys kasymovi Agamaliev, 1971 SPECIES
-=======
+# Diophrys kasymovi Agamaliev, 1971 SPECIES
 
 #### Status
 ACCEPTED

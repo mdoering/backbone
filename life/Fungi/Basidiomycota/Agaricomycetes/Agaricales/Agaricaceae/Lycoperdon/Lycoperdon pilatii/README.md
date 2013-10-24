@@ -1,5 +1,4 @@
-Lycoperdon pilatii Velen. SPECIES
-=======
+# Lycoperdon pilatii Velen. SPECIES
 
 #### Status
 ACCEPTED

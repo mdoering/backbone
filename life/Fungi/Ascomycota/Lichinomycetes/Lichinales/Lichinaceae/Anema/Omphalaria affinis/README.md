@@ -1,5 +1,4 @@
-Omphalaria affinis (A. Massal.) Nyl. SPECIES
-=======
+# Omphalaria affinis (A. Massal.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

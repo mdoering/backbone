@@ -1,5 +1,4 @@
-Parmelia polytropa SPECIES
-=======
+# Parmelia polytropa SPECIES
 
 #### Status
 ACCEPTED

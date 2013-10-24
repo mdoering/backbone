@@ -1,5 +1,4 @@
-Mycosphaerella zizaniicola (Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella zizaniicola (Speg.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

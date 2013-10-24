@@ -1,5 +1,4 @@
-Leuconostoc fallax Martinez-Murcia & Collins, 1992 SPECIES
-=======
+# Leuconostoc fallax Martinez-Murcia & Collins, 1992 SPECIES
 
 #### Status
 ACCEPTED

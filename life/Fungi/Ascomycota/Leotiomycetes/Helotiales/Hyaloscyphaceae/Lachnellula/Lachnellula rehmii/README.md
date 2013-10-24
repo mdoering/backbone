@@ -1,5 +1,4 @@
-Lachnellula rehmii Ferd. & C.A. Jørg. SPECIES
-=======
+# Lachnellula rehmii Ferd. & C.A. Jørg. SPECIES
 
 #### Status
 ACCEPTED

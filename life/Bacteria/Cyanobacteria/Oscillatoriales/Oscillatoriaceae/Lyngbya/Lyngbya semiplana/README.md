@@ -1,5 +1,4 @@
-Lyngbya semiplana (C. Agardh) J. Agardh SPECIES
-=======
+# Lyngbya semiplana (C. Agardh) J. Agardh SPECIES
 
 #### Status
 ACCEPTED

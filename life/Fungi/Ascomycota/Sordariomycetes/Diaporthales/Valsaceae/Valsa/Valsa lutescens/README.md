@@ -1,5 +1,4 @@
-Valsa lutescens Ellis SPECIES
-=======
+# Valsa lutescens Ellis SPECIES
 
 #### Status
 ACCEPTED

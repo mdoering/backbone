@@ -1,5 +1,4 @@
-Lachnum pseudocannabinum (Raitv.) Raitv. SPECIES
-=======
+# Lachnum pseudocannabinum (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

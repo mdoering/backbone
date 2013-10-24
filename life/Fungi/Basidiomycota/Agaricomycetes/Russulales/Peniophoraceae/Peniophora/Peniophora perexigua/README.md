@@ -1,5 +1,4 @@
-Peniophora perexigua H.S. Jacks., 1948 SPECIES
-=======
+# Peniophora perexigua H.S. Jacks., 1948 SPECIES
 
 #### Status
 ACCEPTED

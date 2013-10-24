@@ -1,11 +1,10 @@
-Porosononion subgranosus subsp. subgranosus SUBSPECIES
-=======
+# Porosononion subgranosus SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+World Register of Marine Species
 
 #### Published in
 null

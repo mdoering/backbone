@@ -1,5 +1,4 @@
-Trichococcus Scheff et al., 1984 GENUS
-=======
+# Trichococcus Scheff et al., 1984 GENUS
 
 #### Status
 ACCEPTED

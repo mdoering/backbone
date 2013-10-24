@@ -1,5 +1,4 @@
-Phlyctospora persoonii Corda SPECIES
-=======
+# Phlyctospora persoonii Corda SPECIES
 
 #### Status
 ACCEPTED

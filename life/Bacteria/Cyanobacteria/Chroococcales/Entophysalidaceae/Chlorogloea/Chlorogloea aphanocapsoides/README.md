@@ -1,5 +1,4 @@
-Chlorogloea aphanocapsoides Geitler SPECIES
-=======
+# Chlorogloea aphanocapsoides Geitler SPECIES
 
 #### Status
 ACCEPTED

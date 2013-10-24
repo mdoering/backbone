@@ -1,5 +1,4 @@
-Uredo cumula Arthur SPECIES
-=======
+# Uredo cumula Arthur SPECIES
 
 #### Status
 ACCEPTED

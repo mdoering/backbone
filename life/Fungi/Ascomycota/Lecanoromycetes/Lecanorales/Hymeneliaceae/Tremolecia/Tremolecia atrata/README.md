@@ -1,17 +1,16 @@
-Lecidea atrata subsp. atrata SUBSPECIES
-=======
+# Tremolecia atrata (Ach.) Hertel SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ergebn. Forsch. Unternehmens Nepal Himal. 6(3): 351 (1977)
 
 #### Original name
-Lecidea atrata subsp. atrata
+Gyalecta atrata Ach.
 
 ### Remarks
 null

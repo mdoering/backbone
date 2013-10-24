@@ -1,5 +1,4 @@
-Spiloma inustum Ach. SPECIES
-=======
+# Spiloma inustum Ach. SPECIES
 
 #### Status
 ACCEPTED

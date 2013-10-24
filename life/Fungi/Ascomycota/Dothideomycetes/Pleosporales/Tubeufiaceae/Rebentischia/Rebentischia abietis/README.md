@@ -1,5 +1,4 @@
-Rebentischia abietis (Roum.) Ahn & Shearer SPECIES
-=======
+# Rebentischia abietis (Roum.) Ahn & Shearer SPECIES
 
 #### Status
 ACCEPTED

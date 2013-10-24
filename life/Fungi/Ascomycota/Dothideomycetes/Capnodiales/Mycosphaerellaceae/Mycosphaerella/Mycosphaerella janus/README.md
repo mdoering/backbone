@@ -1,5 +1,4 @@
-Mycosphaerella janus (Berk. & M.A. Curtis) Petr. SPECIES
-=======
+# Mycosphaerella janus (Berk. & M.A. Curtis) Petr. SPECIES
 
 #### Status
 ACCEPTED

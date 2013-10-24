@@ -1,5 +1,4 @@
-Ramalina throwerae Aptroot & Sipman SPECIES
-=======
+# Ramalina throwerae Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

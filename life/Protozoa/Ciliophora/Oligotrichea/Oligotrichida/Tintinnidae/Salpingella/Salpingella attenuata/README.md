@@ -1,5 +1,4 @@
-Salpingella attenuata Kofoid & Campbell, 1929 SPECIES
-=======
+# Salpingella attenuata Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora schefflericola P.G. Xi, P.K. Chi & Z.D. Jiang SPECIES
-=======
+# Cercospora schefflericola P.G. Xi, P.K. Chi & Z.D. Jiang SPECIES
 
 #### Status
 ACCEPTED

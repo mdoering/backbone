@@ -1,5 +1,4 @@
-Cortinarius umbonatoides Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius umbonatoides Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

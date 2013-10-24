@@ -1,5 +1,4 @@
-Agaricus viscosissimus Fr. SPECIES
-=======
+# Agaricus viscosissimus Fr. SPECIES
 
 #### Status
 ACCEPTED

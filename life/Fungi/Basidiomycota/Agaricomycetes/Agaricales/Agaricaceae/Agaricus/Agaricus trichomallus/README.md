@@ -1,5 +1,4 @@
-Agaricus trichomallus J. Otto SPECIES
-=======
+# Agaricus trichomallus J. Otto SPECIES
 
 #### Status
 ACCEPTED

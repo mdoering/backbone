@@ -1,5 +1,4 @@
-Amanita pellucidula Banning & Peck SPECIES
-=======
+# Amanita pellucidula Banning & Peck SPECIES
 
 #### Status
 ACCEPTED

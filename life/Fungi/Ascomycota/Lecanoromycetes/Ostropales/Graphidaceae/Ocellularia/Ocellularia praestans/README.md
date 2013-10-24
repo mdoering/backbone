@@ -1,14 +1,13 @@
-Thelotrema praestans Müll. Arg. SPECIES
-=======
+# Ocellularia praestans (Müll. Arg.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 11(1): 137 (1980)
 
 #### Original name
 Thelotrema praestans Müll. Arg.

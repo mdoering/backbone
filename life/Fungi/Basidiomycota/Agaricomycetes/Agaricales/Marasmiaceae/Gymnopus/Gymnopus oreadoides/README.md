@@ -1,5 +1,4 @@
-Gymnopus oreadoides (Pass.) Antonín & Noordel., 1997 SPECIES
-=======
+# Gymnopus oreadoides (Pass.) Antonín & Noordel., 1997 SPECIES
 
 #### Status
 ACCEPTED

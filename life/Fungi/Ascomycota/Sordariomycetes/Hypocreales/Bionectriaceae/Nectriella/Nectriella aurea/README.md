@@ -1,5 +1,4 @@
-Nectriella aurea Sacc. & Speg. SPECIES
-=======
+# Nectriella aurea Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

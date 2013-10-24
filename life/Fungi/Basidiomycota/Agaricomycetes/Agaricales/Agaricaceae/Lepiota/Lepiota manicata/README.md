@@ -1,5 +1,4 @@
-Lepiota manicata (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota manicata (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

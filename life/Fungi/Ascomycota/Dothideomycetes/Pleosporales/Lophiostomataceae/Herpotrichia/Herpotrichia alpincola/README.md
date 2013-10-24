@@ -1,5 +1,4 @@
-Herpotrichia alpincola Rehm SPECIES
-=======
+# Herpotrichia alpincola Rehm SPECIES
 
 #### Status
 ACCEPTED

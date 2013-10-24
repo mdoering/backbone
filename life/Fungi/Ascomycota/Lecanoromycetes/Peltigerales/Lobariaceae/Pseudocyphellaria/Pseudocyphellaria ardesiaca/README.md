@@ -1,5 +1,4 @@
-Pseudocyphellaria ardesiaca D. J. Galloway SPECIES
-=======
+# Pseudocyphellaria ardesiaca D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

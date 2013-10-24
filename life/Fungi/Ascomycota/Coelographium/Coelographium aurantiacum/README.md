@@ -1,5 +1,4 @@
-Coelographium aurantiacum Gäum. SPECIES
-=======
+# Coelographium aurantiacum Gäum. SPECIES
 
 #### Status
 ACCEPTED

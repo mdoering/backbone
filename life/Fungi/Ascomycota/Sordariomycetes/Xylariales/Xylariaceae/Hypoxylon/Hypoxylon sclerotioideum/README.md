@@ -1,5 +1,4 @@
-Hypoxylon sclerotioideum Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon sclerotioideum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

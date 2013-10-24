@@ -1,5 +1,4 @@
-Lycoperdon nigrum Lightf. SPECIES
-=======
+# Lycoperdon nigrum Lightf. SPECIES
 
 #### Status
 ACCEPTED

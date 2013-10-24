@@ -1,5 +1,4 @@
-Trichosphaeria culmorum Feltgen SPECIES
-=======
+# Trichosphaeria culmorum Feltgen SPECIES
 
 #### Status
 ACCEPTED

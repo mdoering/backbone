@@ -1,5 +1,4 @@
-Bolivina cincta Heron-Allen & Earland, 1932 SPECIES
-=======
+# Bolivina cincta Heron-Allen & Earland, 1932 SPECIES
 
 #### Status
 ACCEPTED

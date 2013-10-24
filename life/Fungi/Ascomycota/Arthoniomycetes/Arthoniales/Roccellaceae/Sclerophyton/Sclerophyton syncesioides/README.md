@@ -1,5 +1,4 @@
-Sclerophyton syncesioides Sparrius SPECIES
-=======
+# Sclerophyton syncesioides Sparrius SPECIES
 
 #### Status
 ACCEPTED

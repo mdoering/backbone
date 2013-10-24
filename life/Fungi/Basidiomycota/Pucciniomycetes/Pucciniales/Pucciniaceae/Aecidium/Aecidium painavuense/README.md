@@ -1,17 +1,16 @@
-Aecidium painavuensis Hosag. SPECIES
-=======
+# Aecidium painavuense Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 56(2): 94 (1987)
 
 #### Original name
-Aecidium painavuensis Hosag.
+Aecidium painavuense Hosag.
 
 ### Remarks
 null

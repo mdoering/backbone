@@ -1,5 +1,4 @@
-Pezizella exidiella (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pezizella exidiella (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

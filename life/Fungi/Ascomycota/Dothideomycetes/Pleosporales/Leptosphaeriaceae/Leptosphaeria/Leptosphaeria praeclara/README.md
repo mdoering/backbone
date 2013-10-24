@@ -1,5 +1,4 @@
-Leptosphaeria praeclara P. Karst. SPECIES
-=======
+# Leptosphaeria praeclara P. Karst. SPECIES
 
 #### Status
 ACCEPTED

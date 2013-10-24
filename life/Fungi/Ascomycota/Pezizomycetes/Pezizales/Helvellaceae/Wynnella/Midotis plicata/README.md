@@ -1,5 +1,4 @@
-Midotis plicata W. Phillips & Harkn. SPECIES
-=======
+# Midotis plicata W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

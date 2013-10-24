@@ -1,5 +1,4 @@
-Lecidea racovitzae C.W. Dodge SPECIES
-=======
+# Lecidea racovitzae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

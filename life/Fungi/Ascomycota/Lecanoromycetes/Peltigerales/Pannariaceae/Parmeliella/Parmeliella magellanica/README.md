@@ -1,5 +1,4 @@
-Parmeliella magellanica P. M. Jørg. SPECIES
-=======
+# Parmeliella magellanica P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

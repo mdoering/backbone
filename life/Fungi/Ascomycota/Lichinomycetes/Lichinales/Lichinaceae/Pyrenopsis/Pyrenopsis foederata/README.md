@@ -1,5 +1,4 @@
-Pyrenopsis foederata Nyl. SPECIES
-=======
+# Pyrenopsis foederata Nyl. SPECIES
 
 #### Status
 ACCEPTED

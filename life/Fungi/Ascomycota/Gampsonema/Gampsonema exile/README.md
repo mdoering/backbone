@@ -1,14 +1,13 @@
-Gampsonema exilis (Tassi) Nag Raj SPECIES
-=======
+# Gampsonema exile (Tassi) Nag Raj, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 53(16): 1623 (1975)
 
 #### Original name
 Pestalotia exilis Tassi, 1900

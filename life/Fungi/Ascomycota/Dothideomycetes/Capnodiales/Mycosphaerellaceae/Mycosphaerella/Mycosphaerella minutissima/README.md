@@ -1,5 +1,4 @@
-Mycosphaerella minutissima (G. Winter) Tomilin SPECIES
-=======
+# Mycosphaerella minutissima (G. Winter) Tomilin SPECIES
 
 #### Status
 ACCEPTED

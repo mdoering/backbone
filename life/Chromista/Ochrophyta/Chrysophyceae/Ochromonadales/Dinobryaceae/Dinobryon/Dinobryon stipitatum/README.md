@@ -1,5 +1,4 @@
-Dinobryon stipitatum Stein SPECIES
-=======
+# Dinobryon stipitatum Stein SPECIES
 
 #### Status
 ACCEPTED

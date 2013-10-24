@@ -1,5 +1,4 @@
-Polyporus foeniculaceus Velen. SPECIES
-=======
+# Polyporus foeniculaceus Velen. SPECIES
 
 #### Status
 ACCEPTED

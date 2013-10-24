@@ -1,17 +1,16 @@
-Ascobolus guernisaci P. Crouan & H. Crouan SPECIES
-=======
+# Ascobolus guernisacii P. Crouan & H. Crouan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Florule Finistère (Paris) (1867)
 
 #### Original name
-Ascobolus guernisaci P. Crouan & H. Crouan
+Ascobolus guernisacii P. Crouan & H. Crouan
 
 ### Remarks
 null

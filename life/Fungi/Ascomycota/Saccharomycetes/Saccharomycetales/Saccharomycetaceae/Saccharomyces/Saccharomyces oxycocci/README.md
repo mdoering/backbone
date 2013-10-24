@@ -1,5 +1,4 @@
-Saccharomyces oxycocci Benkson {?} SPECIES
-=======
+# Saccharomyces oxycocci Benkson {?} SPECIES
 
 #### Status
 ACCEPTED

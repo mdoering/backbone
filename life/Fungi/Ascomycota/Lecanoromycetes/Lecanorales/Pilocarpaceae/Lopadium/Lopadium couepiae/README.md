@@ -1,5 +1,4 @@
-Lopadium couepiae L. Xavier SPECIES
-=======
+# Lopadium couepiae L. Xavier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidella caesiocinerea (H. Magn.) Hertel SPECIES
-=======
+# Lecidella caesiocinerea (H. Magn.) Hertel SPECIES
 
 #### Status
 ACCEPTED

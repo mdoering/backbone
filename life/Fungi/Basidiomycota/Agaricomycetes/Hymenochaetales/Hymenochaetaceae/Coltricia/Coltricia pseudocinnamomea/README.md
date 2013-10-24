@@ -1,5 +1,4 @@
-Coltricia pseudocinnamomea Burds. SPECIES
-=======
+# Coltricia pseudocinnamomea Burds. SPECIES
 
 #### Status
 ACCEPTED

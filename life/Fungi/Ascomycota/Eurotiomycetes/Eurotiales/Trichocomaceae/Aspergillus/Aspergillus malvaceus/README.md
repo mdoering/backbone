@@ -1,5 +1,4 @@
-Aspergillus malvaceus Mosseray SPECIES
-=======
+# Aspergillus malvaceus Mosseray SPECIES
 
 #### Status
 ACCEPTED

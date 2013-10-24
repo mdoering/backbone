@@ -1,5 +1,4 @@
-Bacidia epicyanea Vain. SPECIES
-=======
+# Bacidia epicyanea Vain. SPECIES
 
 #### Status
 ACCEPTED

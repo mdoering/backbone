@@ -1,5 +1,4 @@
-Idriella cubensis R.F. Castañeda & G.R.W. Arnold SPECIES
-=======
+# Idriella cubensis R.F. Castañeda & G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

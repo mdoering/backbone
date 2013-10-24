@@ -1,5 +1,4 @@
-Plagioraphe Kristan-Tollmann, 1973 GENUS
-=======
+# Plagioraphe Kristan-Tollmann, 1973 GENUS
 
 #### Status
 ACCEPTED

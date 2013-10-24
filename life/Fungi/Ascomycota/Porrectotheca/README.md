@@ -1,5 +1,4 @@
-Porrectotheca Matsush. GENUS
-=======
+# Porrectotheca Matsush. GENUS
 
 #### Status
 ACCEPTED

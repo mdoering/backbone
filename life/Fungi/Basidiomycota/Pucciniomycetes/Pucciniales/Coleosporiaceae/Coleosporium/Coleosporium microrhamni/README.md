@@ -1,5 +1,4 @@
-Coleosporium microrhamni Dietel SPECIES
-=======
+# Coleosporium microrhamni Dietel SPECIES
 
 #### Status
 ACCEPTED

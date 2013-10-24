@@ -1,5 +1,4 @@
-Aspergillus asperescens Stolk, 1954 SPECIES
-=======
+# Aspergillus asperescens Stolk, 1954 SPECIES
 
 #### Status
 ACCEPTED

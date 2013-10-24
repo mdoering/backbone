@@ -1,5 +1,4 @@
-Boletus tennesseenis Snell & A.H. Sm. SPECIES
-=======
+# Boletus tennesseenis Snell & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

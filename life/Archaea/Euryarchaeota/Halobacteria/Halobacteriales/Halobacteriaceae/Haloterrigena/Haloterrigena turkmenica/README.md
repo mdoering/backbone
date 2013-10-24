@@ -1,8 +1,7 @@
-Halococcus turkmenicus Zvyagintseva & Tarasov, 1989 SPECIES
-=======
+# Haloterrigena turkmenica (Zvyagintseva & Tarasov, 1989) Ventosa et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

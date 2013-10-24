@@ -1,5 +1,4 @@
-Lembosia beodjinii Hansf. SPECIES
-=======
+# Lembosia beodjinii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalecta pezizoides Vezda, Øvstedal & R.I.L. Sm. SPECIES
-=======
+# Gyalecta pezizoides Vezda, Øvstedal & R.I.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

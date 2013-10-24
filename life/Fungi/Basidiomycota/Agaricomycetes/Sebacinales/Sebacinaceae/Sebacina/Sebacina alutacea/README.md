@@ -1,5 +1,4 @@
-Sebacina alutacea Wakef. SPECIES
-=======
+# Sebacina alutacea Wakef. SPECIES
 
 #### Status
 ACCEPTED

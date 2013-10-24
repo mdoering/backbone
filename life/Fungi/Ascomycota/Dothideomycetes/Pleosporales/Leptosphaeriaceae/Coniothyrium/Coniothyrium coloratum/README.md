@@ -1,5 +1,4 @@
-Coniothyrium coloratum (Peck) Sacc. SPECIES
-=======
+# Coniothyrium coloratum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

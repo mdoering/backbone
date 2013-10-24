@@ -1,5 +1,4 @@
-Thyrsidium GENUS
-=======
+# Thyrsidium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia perumbilicata (Hesler) Largent SPECIES
-=======
+# Leptonia perumbilicata (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

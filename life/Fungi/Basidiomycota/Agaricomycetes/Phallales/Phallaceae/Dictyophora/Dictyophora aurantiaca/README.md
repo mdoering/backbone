@@ -1,5 +1,4 @@
-Dictyophora aurantiaca var. aurantiaca VARIETY
-=======
+# Dictyophora aurantiaca (Mont.) F.M. Bailey SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dictyophora aurantiaca var. aurantiaca
+Phallus aurantiacus Mont.
 
 ### Remarks
 null

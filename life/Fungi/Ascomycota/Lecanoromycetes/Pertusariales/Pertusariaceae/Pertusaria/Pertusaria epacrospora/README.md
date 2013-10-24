@@ -1,5 +1,4 @@
-Pertusaria epacrospora A. W. Archer SPECIES
-=======
+# Pertusaria epacrospora A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

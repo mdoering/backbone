@@ -1,5 +1,4 @@
-Sporotrichum grigsbyi C.W. Dodge SPECIES
-=======
+# Sporotrichum grigsbyi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

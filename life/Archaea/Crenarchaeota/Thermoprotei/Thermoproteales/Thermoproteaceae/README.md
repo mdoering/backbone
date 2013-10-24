@@ -1,5 +1,4 @@
-Thermoproteaceae FAMILY
-=======
+# Thermoproteaceae FAMILY
 
 #### Status
 ACCEPTED

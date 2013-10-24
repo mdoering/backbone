@@ -1,5 +1,4 @@
-Anaptychia incana (Stirt.) Zahlbr. SPECIES
-=======
+# Anaptychia incana (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

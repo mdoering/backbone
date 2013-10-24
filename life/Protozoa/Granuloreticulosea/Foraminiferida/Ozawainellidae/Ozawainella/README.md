@@ -1,5 +1,4 @@
-Ozawainella Thompson, 1935 GENUS
-=======
+# Ozawainella Thompson, 1935 GENUS
 
 #### Status
 ACCEPTED

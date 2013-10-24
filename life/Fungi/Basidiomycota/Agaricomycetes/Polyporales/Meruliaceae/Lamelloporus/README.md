@@ -1,5 +1,4 @@
-Lamelloporus Ryvarden GENUS
-=======
+# Lamelloporus Ryvarden GENUS
 
 #### Status
 ACCEPTED

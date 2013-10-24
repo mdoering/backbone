@@ -1,5 +1,4 @@
-Harziella GENUS
-=======
+# Harziella GENUS
 
 #### Status
 ACCEPTED

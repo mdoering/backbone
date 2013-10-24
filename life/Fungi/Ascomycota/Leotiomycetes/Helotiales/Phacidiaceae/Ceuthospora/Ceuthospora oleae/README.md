@@ -1,5 +1,4 @@
-Ceuthospora oleae Kalchbr. & Cooke SPECIES
-=======
+# Ceuthospora oleae Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

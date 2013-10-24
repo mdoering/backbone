@@ -1,5 +1,4 @@
-Chlamydophorella elongata (C. Singh) R. J. Davey SPECIES
-=======
+# Chlamydophorella elongata (C. Singh) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

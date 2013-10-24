@@ -1,5 +1,4 @@
-Erioscypha cognata (Pat.) Kirschst. SPECIES
-=======
+# Erioscypha cognata (Pat.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

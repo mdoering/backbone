@@ -1,5 +1,4 @@
-Uromyces heimi Mayor & Vienn.-Bourg. SPECIES
-=======
+# Uromyces heimi Mayor & Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

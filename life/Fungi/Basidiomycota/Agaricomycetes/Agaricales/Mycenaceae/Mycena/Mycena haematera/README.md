@@ -1,5 +1,4 @@
-Mycena haematera Berk. & Broome SPECIES
-=======
+# Mycena haematera Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Koerberiella alsatica Motyka SPECIES
-=======
+# Koerberiella alsatica Motyka SPECIES
 
 #### Status
 ACCEPTED

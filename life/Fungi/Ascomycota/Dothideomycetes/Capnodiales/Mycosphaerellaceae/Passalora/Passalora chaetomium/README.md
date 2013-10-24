@@ -1,14 +1,13 @@
-Passalora chaetomia (Cooke) Poonam Srivast. SPECIES
-=======
+# Passalora chaetomium (Cooke) Arx, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 86(1): 44 (1983)
 
 #### Original name
 Cladosporium chaetomium Cooke, 1889

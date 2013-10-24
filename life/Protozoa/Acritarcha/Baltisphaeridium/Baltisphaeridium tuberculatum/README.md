@@ -1,5 +1,4 @@
-Baltisphaeridium tuberculatum Fridriksone, 1971 SPECIES
-=======
+# Baltisphaeridium tuberculatum Fridriksone, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetralithus ovalis H. Stradner SPECIES
-=======
+# Tetralithus ovalis H. Stradner SPECIES
 
 #### Status
 ACCEPTED

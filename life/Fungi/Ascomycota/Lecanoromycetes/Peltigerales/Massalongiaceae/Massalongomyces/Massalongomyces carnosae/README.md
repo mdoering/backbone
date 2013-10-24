@@ -1,5 +1,4 @@
-Massalongomyces carnosae Cif. & Tomas. SPECIES
-=======
+# Massalongomyces carnosae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

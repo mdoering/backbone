@@ -1,5 +1,4 @@
-Mycosphaerella laburni (Pass.) Lindau SPECIES
-=======
+# Mycosphaerella laburni (Pass.) Lindau SPECIES
 
 #### Status
 ACCEPTED

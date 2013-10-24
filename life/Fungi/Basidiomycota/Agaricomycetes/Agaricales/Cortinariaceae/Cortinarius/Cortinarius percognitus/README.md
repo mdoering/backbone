@@ -1,5 +1,4 @@
-Cortinarius percognitus Britzelm. SPECIES
-=======
+# Cortinarius percognitus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

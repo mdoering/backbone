@@ -1,5 +1,4 @@
-Arachnia Pine & Georg, 1969 (Approved Lists, 1980) GENUS
-=======
+# Arachnia Pine & Georg, 1969 (Approved Lists, 1980) GENUS
 
 #### Status
 ACCEPTED

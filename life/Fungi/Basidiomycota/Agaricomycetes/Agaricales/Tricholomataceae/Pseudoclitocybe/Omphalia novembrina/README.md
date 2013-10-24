@@ -1,5 +1,4 @@
-Omphalia novembrina Velen. SPECIES
-=======
+# Omphalia novembrina Velen. SPECIES
 
 #### Status
 ACCEPTED

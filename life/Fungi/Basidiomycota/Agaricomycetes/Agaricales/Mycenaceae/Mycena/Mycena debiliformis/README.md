@@ -1,5 +1,4 @@
-Mycena debiliformis Singer SPECIES
-=======
+# Mycena debiliformis Singer SPECIES
 
 #### Status
 ACCEPTED

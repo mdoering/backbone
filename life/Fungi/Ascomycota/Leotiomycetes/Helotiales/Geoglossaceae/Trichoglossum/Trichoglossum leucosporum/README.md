@@ -1,5 +1,4 @@
-Trichoglossum leucosporum Benkert & Hardtke SPECIES
-=======
+# Trichoglossum leucosporum Benkert & Hardtke SPECIES
 
 #### Status
 ACCEPTED

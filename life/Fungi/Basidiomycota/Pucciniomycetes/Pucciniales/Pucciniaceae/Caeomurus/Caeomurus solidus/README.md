@@ -1,5 +1,4 @@
-Caeomurus solidus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Caeomurus solidus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

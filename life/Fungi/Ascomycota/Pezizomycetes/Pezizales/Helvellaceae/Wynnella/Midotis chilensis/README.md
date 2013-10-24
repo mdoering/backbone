@@ -1,5 +1,4 @@
-Midotis chilensis (E.J. Durand) Cif. SPECIES
-=======
+# Midotis chilensis (E.J. Durand) Cif. SPECIES
 
 #### Status
 ACCEPTED

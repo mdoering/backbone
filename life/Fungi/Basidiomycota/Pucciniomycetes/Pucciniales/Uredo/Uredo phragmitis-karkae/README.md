@@ -1,5 +1,4 @@
-Uredo phragmitis-karkae Sawada SPECIES
-=======
+# Uredo phragmitis-karkae Sawada SPECIES
 
 #### Status
 ACCEPTED

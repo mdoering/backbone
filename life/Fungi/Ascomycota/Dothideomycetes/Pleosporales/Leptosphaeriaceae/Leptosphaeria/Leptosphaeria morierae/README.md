@@ -1,5 +1,4 @@
-Leptosphaeria morierae Petr. SPECIES
-=======
+# Leptosphaeria morierae Petr. SPECIES
 
 #### Status
 ACCEPTED

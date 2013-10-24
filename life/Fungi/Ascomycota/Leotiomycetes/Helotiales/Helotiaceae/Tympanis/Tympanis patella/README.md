@@ -1,5 +1,4 @@
-Tympanis patella Wallr. SPECIES
-=======
+# Tympanis patella Wallr. SPECIES
 
 #### Status
 ACCEPTED

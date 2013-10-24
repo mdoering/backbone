@@ -1,5 +1,4 @@
-Rhachomyces fasciatus Thaxt. SPECIES
-=======
+# Rhachomyces fasciatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

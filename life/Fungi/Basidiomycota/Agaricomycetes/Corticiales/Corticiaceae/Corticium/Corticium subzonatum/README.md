@@ -1,5 +1,4 @@
-Corticium subzonatum (Fr.) Fr. SPECIES
-=======
+# Corticium subzonatum (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

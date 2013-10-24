@@ -1,5 +1,4 @@
-Trullula oreoselini Ces. SPECIES
-=======
+# Trullula oreoselini Ces. SPECIES
 
 #### Status
 ACCEPTED

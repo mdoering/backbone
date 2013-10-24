@@ -1,5 +1,4 @@
-Gloeosporium apiosporum Speg. SPECIES
-=======
+# Gloeosporium apiosporum Speg. SPECIES
 
 #### Status
 ACCEPTED

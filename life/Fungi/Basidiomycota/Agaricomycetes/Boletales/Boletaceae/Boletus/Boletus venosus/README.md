@@ -1,5 +1,4 @@
-Boletus venosus Humb. SPECIES
-=======
+# Boletus venosus Humb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenelia calcivora (Schaer.) A. Massal. SPECIES
-=======
+# Hymenelia calcivora (Schaer.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

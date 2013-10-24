@@ -1,5 +1,4 @@
-Xylaria obovata (Berk.) Berk., 1851 SPECIES
-=======
+# Xylaria obovata (Berk.) Berk., 1851 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xintania Lin, 1984 GENUS
-=======
+# Xintania Lin, 1984 GENUS
 
 #### Status
 ACCEPTED

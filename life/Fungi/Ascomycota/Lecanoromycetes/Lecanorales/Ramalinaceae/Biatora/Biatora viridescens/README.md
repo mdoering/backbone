@@ -1,5 +1,4 @@
-Biatora viridescens f. viridescens FORM
-=======
+# Biatora viridescens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatora viridescens f. viridescens
+null
 
 ### Remarks
 null

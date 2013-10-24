@@ -1,5 +1,4 @@
-Sarcinomyces albus Lindner SPECIES
-=======
+# Sarcinomyces albus Lindner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera ealaensis Beeli SPECIES
-=======
+# Galera ealaensis Beeli SPECIES
 
 #### Status
 ACCEPTED

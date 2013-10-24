@@ -1,8 +1,7 @@
-Mycena queleti Sacc. & P. Syd. SPECIES
-=======
+# Mycena queletii Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycena queleti Sacc. & P. Syd.
+Mycena queletii Sacc. & P. Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meliola fagraeae Syd. & P. Syd. SPECIES
-=======
+# Meliola fagraeae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

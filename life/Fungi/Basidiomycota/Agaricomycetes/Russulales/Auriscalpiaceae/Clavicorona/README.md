@@ -1,5 +1,4 @@
-Clavicorona Doty, 1947 GENUS
-=======
+# Clavicorona Doty, 1947 GENUS
 
 #### Status
 ACCEPTED

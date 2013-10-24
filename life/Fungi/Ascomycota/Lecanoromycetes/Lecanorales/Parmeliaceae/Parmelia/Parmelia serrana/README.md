@@ -1,5 +1,4 @@
-Parmelia serrana A. Crespo, M. C. Molina & D. Hawksw. SPECIES
-=======
+# Parmelia serrana A. Crespo, M. C. Molina & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

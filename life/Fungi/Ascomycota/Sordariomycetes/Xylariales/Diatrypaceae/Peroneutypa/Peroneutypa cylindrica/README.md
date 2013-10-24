@@ -1,5 +1,4 @@
-Peroneutypa cylindrica var. cylindrica VARIETY
-=======
+# Peroneutypa cylindrica (Kalchbr. & Cooke) Berl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peroneutypa cylindrica var. cylindrica
+Sphaeria cylindrica Tode, 1790
 
 ### Remarks
 null

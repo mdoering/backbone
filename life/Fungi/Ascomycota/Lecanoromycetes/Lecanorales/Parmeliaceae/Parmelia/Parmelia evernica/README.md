@@ -1,5 +1,4 @@
-Parmelia evernica (Hale) Brusse SPECIES
-=======
+# Parmelia evernica (Hale) Brusse SPECIES
 
 #### Status
 ACCEPTED

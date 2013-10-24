@@ -1,5 +1,4 @@
-Diatrypella eutypoides Niessl SPECIES
-=======
+# Diatrypella eutypoides Niessl SPECIES
 
 #### Status
 ACCEPTED

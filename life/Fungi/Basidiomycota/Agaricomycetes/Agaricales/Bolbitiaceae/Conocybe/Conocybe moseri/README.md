@@ -1,17 +1,16 @@
-Conocybe moseri var. moseri VARIETY
-=======
+# Conocybe moseri Watling, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Notes R. bot. Gdn Edinb. 38(2): 342 (1980)
 
 #### Original name
-Conocybe moseri var. moseri
+Conocybe moseri Watling, 1980
 
 ### Remarks
 null

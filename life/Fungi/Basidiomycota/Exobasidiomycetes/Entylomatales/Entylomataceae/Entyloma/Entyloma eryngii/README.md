@@ -1,17 +1,16 @@
-Entyloma eryngii var. argentinensis Speg. VARIETY
-=======
+# Entyloma eryngii (Corda) de Bary, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revista Argent. Bot. 1(2-3): 147 [no. 159] (1925)
+Bot. Ztg. 32: 105 (1874)
 
 #### Original name
-Entyloma eryngii var. argentinensis Speg.
+Physoderma eryngii Corda, 1839
 
 ### Remarks
 null

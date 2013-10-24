@@ -1,14 +1,13 @@
-Tubulicrinis inornata (H.S. Jacks. & D.P. Rogers) Donk SPECIES
-=======
+# Tubulicrinis inornatus (H.S. Jacks. & D.P. Rogers) Donk, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungus, Wageningen 26(1-4): 139 (1956)
 
 #### Original name
 Peniophora inornata H.S. Jacks. & D.P. Rogers, 1948

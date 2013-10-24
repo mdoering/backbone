@@ -1,5 +1,4 @@
-Cortinarius amigochrous Kühner SPECIES
-=======
+# Cortinarius amigochrous Kühner SPECIES
 
 #### Status
 ACCEPTED

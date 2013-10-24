@@ -1,5 +1,4 @@
-Cruentomycena kedrovayae R.H. Petersen, Kovalenko & O.V. Morozova SPECIES
-=======
+# Cruentomycena kedrovayae R.H. Petersen, Kovalenko & O.V. Morozova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmidium rubi-oldhami Togashi & Y. Maki SPECIES
-=======
+# Phragmidium rubi-oldhami Togashi & Y. Maki SPECIES
 
 #### Status
 ACCEPTED

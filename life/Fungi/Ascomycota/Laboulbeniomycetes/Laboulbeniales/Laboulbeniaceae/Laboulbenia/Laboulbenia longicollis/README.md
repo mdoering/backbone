@@ -1,5 +1,4 @@
-Laboulbenia longicollis Thaxt. SPECIES
-=======
+# Laboulbenia longicollis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

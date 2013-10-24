@@ -1,5 +1,4 @@
-Smittium simulatum Lichtw. & Arenas, 1996 SPECIES
-=======
+# Smittium simulatum Lichtw. & Arenas, 1996 SPECIES
 
 #### Status
 ACCEPTED

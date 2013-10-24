@@ -1,5 +1,4 @@
-Coniocybe griseola Ach. SPECIES
-=======
+# Coniocybe griseola Ach. SPECIES
 
 #### Status
 ACCEPTED

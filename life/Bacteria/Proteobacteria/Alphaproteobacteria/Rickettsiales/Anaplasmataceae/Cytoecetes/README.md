@@ -1,5 +1,4 @@
-Cytoecetes Tyzzer, 1938 GENUS
-=======
+# Cytoecetes Tyzzer, 1938 GENUS
 
 #### Status
 ACCEPTED

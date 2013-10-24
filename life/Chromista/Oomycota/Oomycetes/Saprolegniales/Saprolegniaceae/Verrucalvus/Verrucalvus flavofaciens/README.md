@@ -1,5 +1,4 @@
-Verrucalvus flavofaciens P. Wong & M.W. Dick, 1985 SPECIES
-=======
+# Verrucalvus flavofaciens P. Wong & M.W. Dick, 1985 SPECIES
 
 #### Status
 ACCEPTED

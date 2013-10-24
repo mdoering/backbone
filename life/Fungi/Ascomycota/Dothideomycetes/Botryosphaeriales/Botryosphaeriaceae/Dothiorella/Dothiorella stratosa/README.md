@@ -1,5 +1,4 @@
-Dothiorella stratosa Sacc. SPECIES
-=======
+# Dothiorella stratosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

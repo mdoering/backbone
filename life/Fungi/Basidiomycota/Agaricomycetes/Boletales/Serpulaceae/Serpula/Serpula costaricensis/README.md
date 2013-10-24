@@ -1,5 +1,4 @@
-Serpula costaricensis Mata & Ryvarden SPECIES
-=======
+# Serpula costaricensis Mata & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

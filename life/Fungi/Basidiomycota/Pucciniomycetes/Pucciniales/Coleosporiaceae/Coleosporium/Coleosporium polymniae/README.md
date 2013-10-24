@@ -1,5 +1,4 @@
-Coleosporium polymniae P. Syd. & Syd. SPECIES
-=======
+# Coleosporium polymniae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea ochrorufa H. Magn. SPECIES
-=======
+# Lecidea ochrorufa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dioicomyces africanus W. Rossi SPECIES
-=======
+# Dioicomyces africanus W. Rossi SPECIES
 
 #### Status
 ACCEPTED

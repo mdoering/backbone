@@ -1,5 +1,4 @@
-Mycena marocana Maas Geest. SPECIES
-=======
+# Mycena marocana Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

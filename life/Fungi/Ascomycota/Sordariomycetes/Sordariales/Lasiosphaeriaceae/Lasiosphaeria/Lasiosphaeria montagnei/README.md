@@ -1,5 +1,4 @@
-Lasiosphaeria montagnei (Fr.) Sacc. SPECIES
-=======
+# Lasiosphaeria montagnei (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

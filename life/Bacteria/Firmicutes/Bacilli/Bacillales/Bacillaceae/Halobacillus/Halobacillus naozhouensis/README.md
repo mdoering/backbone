@@ -1,5 +1,4 @@
-Halobacillus naozhouensis Chen, Liu, Zhang, Zhang, Tang, Borrathybay, Li & Cui, 2009 SPECIES
-=======
+# Halobacillus naozhouensis Chen, Liu, Zhang, Zhang, Tang, Borrathybay, Li & Cui, 2009 SPECIES
 
 #### Status
 ACCEPTED

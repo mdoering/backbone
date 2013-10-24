@@ -1,5 +1,4 @@
-Melanotus excentricus (Murrill) Singer SPECIES
-=======
+# Melanotus excentricus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella inflata Fr. SPECIES
-=======
+# Tremella inflata Fr. SPECIES
 
 #### Status
 ACCEPTED

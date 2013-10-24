@@ -1,5 +1,4 @@
-Aecidium humuli Hotson SPECIES
-=======
+# Aecidium humuli Hotson SPECIES
 
 #### Status
 ACCEPTED

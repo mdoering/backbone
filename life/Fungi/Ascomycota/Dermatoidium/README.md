@@ -1,5 +1,4 @@
-Dermatoidium Stautz GENUS
-=======
+# Dermatoidium Stautz GENUS
 
 #### Status
 ACCEPTED

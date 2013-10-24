@@ -1,5 +1,4 @@
-Selenopemphix hamanaensis N. Kojima SPECIES
-=======
+# Selenopemphix hamanaensis N. Kojima SPECIES
 
 #### Status
 ACCEPTED

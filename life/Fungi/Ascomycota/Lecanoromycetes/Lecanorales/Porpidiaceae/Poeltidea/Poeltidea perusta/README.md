@@ -1,14 +1,13 @@
-Lecidea perusta Nyl. SPECIES
-=======
+# Poeltidea perusta (Nyl.) Hertel & Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Crombie, J. Bot. , London 13: 334 (1875)
+in Hertel, Beih. Nova Hedwigia 79: 463 (1984)
 
 #### Original name
 Lecidea perusta Nyl.

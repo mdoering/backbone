@@ -1,5 +1,4 @@
-Panaeolus venezolanus Guzmán SPECIES
-=======
+# Panaeolus venezolanus Guzmán SPECIES
 
 #### Status
 ACCEPTED

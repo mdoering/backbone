@@ -1,5 +1,4 @@
-Hygrophorus hobsoni Berk. SPECIES
-=======
+# Hygrophorus hobsoni Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora houttuyniae Togashi & Katsuki SPECIES
-=======
+# Cercospora houttuyniae Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

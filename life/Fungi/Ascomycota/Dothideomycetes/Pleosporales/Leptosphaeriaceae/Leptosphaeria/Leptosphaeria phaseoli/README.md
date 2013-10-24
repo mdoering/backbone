@@ -1,5 +1,4 @@
-Leptosphaeria phaseoli Fautrey & Roum. SPECIES
-=======
+# Leptosphaeria phaseoli Fautrey & Roum. SPECIES
 
 #### Status
 ACCEPTED

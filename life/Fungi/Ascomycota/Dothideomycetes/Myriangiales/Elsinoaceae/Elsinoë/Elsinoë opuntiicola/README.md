@@ -1,5 +1,4 @@
-Elsinoë opuntiicola T.T. Barros SPECIES
-=======
+# Elsinoë opuntiicola T.T. Barros SPECIES
 
 #### Status
 ACCEPTED

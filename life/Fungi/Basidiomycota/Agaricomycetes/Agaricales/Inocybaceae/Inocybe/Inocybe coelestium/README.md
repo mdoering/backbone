@@ -1,5 +1,4 @@
-Inocybe coelestium Kuyper SPECIES
-=======
+# Inocybe coelestium Kuyper SPECIES
 
 #### Status
 ACCEPTED

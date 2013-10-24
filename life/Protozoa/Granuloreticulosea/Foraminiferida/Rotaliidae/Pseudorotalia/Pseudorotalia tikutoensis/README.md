@@ -1,5 +1,4 @@
-Pseudorotalia tikutoensis (Nakamura) SPECIES
-=======
+# Pseudorotalia tikutoensis (Nakamura) SPECIES
 
 #### Status
 ACCEPTED

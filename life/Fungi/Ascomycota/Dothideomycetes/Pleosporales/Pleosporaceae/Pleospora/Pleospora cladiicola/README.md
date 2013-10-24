@@ -1,5 +1,4 @@
-Pleospora cladiicola (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Pleospora cladiicola (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina stauntoniae W. Yamam. SPECIES
-=======
+# Asterina stauntoniae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

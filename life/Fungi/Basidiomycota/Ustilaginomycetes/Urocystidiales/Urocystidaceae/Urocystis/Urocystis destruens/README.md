@@ -1,5 +1,4 @@
-Urocystis destruens McAlpine SPECIES
-=======
+# Urocystis destruens McAlpine SPECIES
 
 #### Status
 ACCEPTED

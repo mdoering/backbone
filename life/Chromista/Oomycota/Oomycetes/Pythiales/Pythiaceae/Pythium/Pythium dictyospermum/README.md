@@ -1,5 +1,4 @@
-Pythium dictyospermum Racib. SPECIES
-=======
+# Pythium dictyospermum Racib. SPECIES
 
 #### Status
 ACCEPTED

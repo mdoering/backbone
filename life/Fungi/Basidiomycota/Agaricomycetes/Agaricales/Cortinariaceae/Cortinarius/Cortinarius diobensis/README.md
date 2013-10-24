@@ -1,5 +1,4 @@
-Cortinarius diobensis Beeli SPECIES
-=======
+# Cortinarius diobensis Beeli SPECIES
 
 #### Status
 ACCEPTED

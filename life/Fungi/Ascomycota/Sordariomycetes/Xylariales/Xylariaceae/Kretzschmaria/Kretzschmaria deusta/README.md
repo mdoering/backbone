@@ -1,17 +1,16 @@
-Hypoxylon deustum f. deustum FORM
-=======
+# Kretzschmaria deusta (Hoffm.) P.M.D. Martin, 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Edin. pl. 324, fig. 2 (1828)
+Jl S. Afr. Bot. 36: 80 (1970)
 
 #### Original name
-Hypoxylon deustum f. deustum
+Sphaeria deusta Wahlenb., 1812
 
 ### Remarks
 null

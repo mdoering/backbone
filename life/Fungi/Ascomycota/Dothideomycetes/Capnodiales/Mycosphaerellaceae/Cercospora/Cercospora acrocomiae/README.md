@@ -1,5 +1,4 @@
-Cercospora acrocomiae J.A. Stev. SPECIES
-=======
+# Cercospora acrocomiae J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

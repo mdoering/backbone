@@ -1,5 +1,4 @@
-Asterella nuda (Peck) Sacc. SPECIES
-=======
+# Asterella nuda (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

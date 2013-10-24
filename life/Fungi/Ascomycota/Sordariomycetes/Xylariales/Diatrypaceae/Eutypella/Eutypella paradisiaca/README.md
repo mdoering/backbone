@@ -1,5 +1,4 @@
-Eutypella paradisiaca Speg. SPECIES
-=======
+# Eutypella paradisiaca Speg. SPECIES
 
 #### Status
 ACCEPTED

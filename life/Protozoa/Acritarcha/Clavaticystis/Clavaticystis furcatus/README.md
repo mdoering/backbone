@@ -1,5 +1,4 @@
-Clavaticystis furcatus Schrank, 2003 SPECIES
-=======
+# Clavaticystis furcatus Schrank, 2003 SPECIES
 
 #### Status
 ACCEPTED

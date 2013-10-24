@@ -1,17 +1,16 @@
-Galera sphagnorum (Pers.) Sacc., 1887 SPECIES
-=======
+# Galerina sphagnorum (Pers.) Kühner, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 5: 869 (1887)
+Encyclop. Mycol. 7: 179 (1935)
 
 #### Original name
-Galera sphagnorum (Pers.) Sacc., 1887
+Agaricus hypnorum Schrank, 1789
 
 ### Remarks
 null

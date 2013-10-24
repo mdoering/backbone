@@ -1,5 +1,4 @@
-Mycena subperincurvata Britzelm. SPECIES
-=======
+# Mycena subperincurvata Britzelm. SPECIES
 
 #### Status
 ACCEPTED

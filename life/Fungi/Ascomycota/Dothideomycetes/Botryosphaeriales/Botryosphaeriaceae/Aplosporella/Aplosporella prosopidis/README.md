@@ -1,5 +1,4 @@
-Aplosporella prosopidis D.K. Agarwal, Chowdhry & A.K. Sarbhoy SPECIES
-=======
+# Aplosporella prosopidis D.K. Agarwal, Chowdhry & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

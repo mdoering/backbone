@@ -1,5 +1,4 @@
-Cladosporium mimulicola U. Braun, 1994 SPECIES
-=======
+# Cladosporium mimulicola U. Braun, 1994 SPECIES
 
 #### Status
 ACCEPTED

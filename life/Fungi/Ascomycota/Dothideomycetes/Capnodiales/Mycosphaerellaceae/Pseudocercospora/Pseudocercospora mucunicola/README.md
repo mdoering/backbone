@@ -1,5 +1,4 @@
-Pseudocercospora mucunicola (Cif. & Gonz. Frag.) Deighton SPECIES
-=======
+# Pseudocercospora mucunicola (Cif. & Gonz. Frag.) Deighton SPECIES
 
 #### Status
 ACCEPTED

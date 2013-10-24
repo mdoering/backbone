@@ -1,5 +1,4 @@
-Artidium Haeckel, 1881 GENUS
-=======
+# Artidium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

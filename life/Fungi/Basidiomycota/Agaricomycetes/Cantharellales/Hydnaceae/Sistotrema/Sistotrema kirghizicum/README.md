@@ -1,5 +1,4 @@
-Sistotrema kirghizicum (Parmasto) Domanski SPECIES
-=======
+# Sistotrema kirghizicum (Parmasto) Domanski SPECIES
 
 #### Status
 ACCEPTED

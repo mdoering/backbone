@@ -1,5 +1,4 @@
-Passalora asterata (G.F. Atk.) U. Braun & Crous SPECIES
-=======
+# Passalora asterata (G.F. Atk.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

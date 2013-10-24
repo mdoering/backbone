@@ -1,5 +1,4 @@
-Autoicomyces globariae Thaxt. SPECIES
-=======
+# Autoicomyces globariae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

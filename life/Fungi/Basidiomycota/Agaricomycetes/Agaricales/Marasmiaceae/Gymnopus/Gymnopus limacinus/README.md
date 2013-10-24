@@ -1,5 +1,4 @@
-Gymnopus limacinus (Scop.) Gray SPECIES
-=======
+# Gymnopus limacinus (Scop.) Gray SPECIES
 
 #### Status
 ACCEPTED

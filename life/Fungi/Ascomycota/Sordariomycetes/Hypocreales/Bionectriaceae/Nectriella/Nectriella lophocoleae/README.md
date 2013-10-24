@@ -1,5 +1,4 @@
-Nectriella lophocoleae C. Massal., 1895 SPECIES
-=======
+# Nectriella lophocoleae C. Massal., 1895 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diploospora W.B. Grove, 1916 GENUS
-=======
+# Diploospora W.B. Grove, 1916 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streblema delicatulum Chevall. SPECIES
-=======
+# Streblema delicatulum Chevall. SPECIES
 
 #### Status
 ACCEPTED

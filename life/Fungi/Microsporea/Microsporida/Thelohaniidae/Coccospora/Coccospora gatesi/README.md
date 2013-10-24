@@ -1,5 +1,4 @@
-Coccospora gatesi de Puytorac & Tourret SPECIES
-=======
+# Coccospora gatesi de Puytorac & Tourret SPECIES
 
 #### Status
 ACCEPTED

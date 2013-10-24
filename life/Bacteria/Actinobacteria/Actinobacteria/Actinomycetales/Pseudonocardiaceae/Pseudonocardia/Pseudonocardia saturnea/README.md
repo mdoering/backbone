@@ -1,8 +1,7 @@
-Amycolata saturnea (Hirsch, 1960) Lechevalier et al., 1986 SPECIES
-=======
+# Pseudonocardia saturnea (Hirsch, 1960) Warwick et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

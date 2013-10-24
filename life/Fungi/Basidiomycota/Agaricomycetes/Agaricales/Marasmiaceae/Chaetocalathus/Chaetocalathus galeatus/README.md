@@ -1,5 +1,4 @@
-Chaetocalathus galeatus (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Chaetocalathus galeatus (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

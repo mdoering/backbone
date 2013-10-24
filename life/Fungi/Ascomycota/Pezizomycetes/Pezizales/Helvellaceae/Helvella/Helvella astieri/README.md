@@ -1,5 +1,4 @@
-Helvella astieri Korf & Donadini SPECIES
-=======
+# Helvella astieri Korf & Donadini SPECIES
 
 #### Status
 ACCEPTED

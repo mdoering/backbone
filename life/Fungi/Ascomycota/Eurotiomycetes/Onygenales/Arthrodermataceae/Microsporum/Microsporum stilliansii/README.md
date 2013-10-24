@@ -1,8 +1,7 @@
-Microsporum stilliansi Benedek SPECIES
-=======
+# Microsporum stilliansii Benedek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microsporum stilliansi Benedek
+Microsporum stilliansii Benedek
 
 ### Remarks
 null

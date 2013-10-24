@@ -1,5 +1,4 @@
-Entoloma atlanticum G. Tassi SPECIES
-=======
+# Entoloma atlanticum G. Tassi SPECIES
 
 #### Status
 ACCEPTED

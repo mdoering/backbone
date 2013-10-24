@@ -1,5 +1,4 @@
-Aspergillus nominus Kurtzman, B.W. Horn & Hesselt. SPECIES
-=======
+# Aspergillus nominus Kurtzman, B.W. Horn & Hesselt. SPECIES
 
 #### Status
 ACCEPTED

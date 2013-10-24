@@ -1,5 +1,4 @@
-Camptomyces guatemalensis Thaxt., 1926 SPECIES
-=======
+# Camptomyces guatemalensis Thaxt., 1926 SPECIES
 
 #### Status
 ACCEPTED

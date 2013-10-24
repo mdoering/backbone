@@ -1,5 +1,4 @@
-Dinophysis punctata Jörgensen SPECIES
-=======
+# Dinophysis punctata Jörgensen SPECIES
 
 #### Status
 ACCEPTED

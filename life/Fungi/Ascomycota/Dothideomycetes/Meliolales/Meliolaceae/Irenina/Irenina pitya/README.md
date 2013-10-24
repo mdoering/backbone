@@ -1,5 +1,4 @@
-Irenina pitya (Sacc.) F. Stevens SPECIES
-=======
+# Irenina pitya (Sacc.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

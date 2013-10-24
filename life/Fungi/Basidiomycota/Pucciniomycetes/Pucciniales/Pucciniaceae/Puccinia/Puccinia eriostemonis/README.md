@@ -1,5 +1,4 @@
-Puccinia eriostemonis McAlpine SPECIES
-=======
+# Puccinia eriostemonis McAlpine SPECIES
 
 #### Status
 ACCEPTED

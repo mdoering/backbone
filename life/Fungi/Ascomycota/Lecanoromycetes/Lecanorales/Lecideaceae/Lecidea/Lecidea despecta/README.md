@@ -1,5 +1,4 @@
-Lecidea despecta Th. Fr. SPECIES
-=======
+# Lecidea despecta Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

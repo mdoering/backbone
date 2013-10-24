@@ -1,14 +1,13 @@
-Eriosphaeria scabrosa (Syd.) E. Müll., 1962 SPECIES
-=======
+# Malacosphaeria scabrosa Syd., 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 11(2): 591 (1962)
+Annls mycol. 22(3/6): 299 (1924)
 
 #### Original name
 Malacosphaeria scabrosa Syd., 1924

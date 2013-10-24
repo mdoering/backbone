@@ -1,5 +1,4 @@
-Phyllosticta gossypina Cooke SPECIES
-=======
+# Phyllosticta gossypina Cooke SPECIES
 
 #### Status
 ACCEPTED

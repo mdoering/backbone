@@ -1,5 +1,4 @@
-Periconiella liberatas McKenzie, 1982 SPECIES
-=======
+# Periconiella liberatas McKenzie, 1982 SPECIES
 
 #### Status
 ACCEPTED

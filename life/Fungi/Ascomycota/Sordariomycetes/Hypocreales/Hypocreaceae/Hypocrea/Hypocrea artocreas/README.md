@@ -1,5 +1,4 @@
-Hypocrea artocreas Berk. & Broome SPECIES
-=======
+# Hypocrea artocreas Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

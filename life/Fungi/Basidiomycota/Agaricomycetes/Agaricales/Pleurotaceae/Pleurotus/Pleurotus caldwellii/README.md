@@ -1,5 +1,4 @@
-Pleurotus caldwellii A. Mackay SPECIES
-=======
+# Pleurotus caldwellii A. Mackay SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor nigropunctatus Berl. & De Toni SPECIES
-=======
+# Mucor nigropunctatus Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

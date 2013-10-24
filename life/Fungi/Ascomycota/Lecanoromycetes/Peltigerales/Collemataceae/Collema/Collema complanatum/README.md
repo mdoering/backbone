@@ -1,5 +1,4 @@
-Collema complanatum Hue SPECIES
-=======
+# Collema complanatum Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrodochium candidum R.F. Castañeda & W.B. Kendr., 1990 SPECIES
-=======
+# Arthrodochium candidum R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
 ACCEPTED

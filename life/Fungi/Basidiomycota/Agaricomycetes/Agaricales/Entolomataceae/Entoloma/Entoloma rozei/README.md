@@ -1,5 +1,4 @@
-Entoloma rozei Quél. SPECIES
-=======
+# Entoloma rozei Quél. SPECIES
 
 #### Status
 ACCEPTED

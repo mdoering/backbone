@@ -1,5 +1,4 @@
-Uredo lathyri Fuckel SPECIES
-=======
+# Uredo lathyri Fuckel SPECIES
 
 #### Status
 ACCEPTED

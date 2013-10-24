@@ -1,17 +1,16 @@
-Lecidea formosae Zahlbr. SPECIES
-=======
+# Lecidea formosa Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Feddes Repert. 33: 35 (1933)
 
 #### Original name
-Lecidea formosae Zahlbr.
+Lecidea formosa Zahlbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hypholoma incomptum Massee SPECIES
-=======
+# Hypholoma incomptum Massee SPECIES
 
 #### Status
 ACCEPTED

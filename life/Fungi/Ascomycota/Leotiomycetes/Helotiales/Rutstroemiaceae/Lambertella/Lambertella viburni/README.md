@@ -1,17 +1,16 @@
-Lambertella viburni var. viburni VARIETY
-=======
+# Lambertella viburni Whetzel & Dumont, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. N. Y. bot. Gdn 22(1): 161 (1971)
+Lloydia 6: 43 (1943)
 
 #### Original name
-Lambertella viburni var. viburni
+Lambertella viburni Whetzel & Dumont, 1971
 
 ### Remarks
 null

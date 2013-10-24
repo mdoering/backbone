@@ -1,5 +1,4 @@
-Aposphaeria nitidiuscula P. Karst. SPECIES
-=======
+# Aposphaeria nitidiuscula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

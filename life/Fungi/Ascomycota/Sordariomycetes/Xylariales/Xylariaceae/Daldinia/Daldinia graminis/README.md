@@ -1,5 +1,4 @@
-Daldinia graminis Dargan & K.S. Thind, 1985 SPECIES
-=======
+# Daldinia graminis Dargan & K.S. Thind, 1985 SPECIES
 
 #### Status
 ACCEPTED

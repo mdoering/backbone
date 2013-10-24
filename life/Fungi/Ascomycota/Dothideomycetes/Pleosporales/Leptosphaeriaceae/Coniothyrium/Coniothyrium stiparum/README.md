@@ -1,5 +1,4 @@
-Coniothyrium stiparum Speg. SPECIES
-=======
+# Coniothyrium stiparum Speg. SPECIES
 
 #### Status
 ACCEPTED

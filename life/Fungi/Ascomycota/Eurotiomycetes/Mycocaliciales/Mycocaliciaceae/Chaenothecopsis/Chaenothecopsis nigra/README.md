@@ -1,5 +1,4 @@
-Chaenothecopsis nigra Tibell SPECIES
-=======
+# Chaenothecopsis nigra Tibell SPECIES
 
 #### Status
 ACCEPTED

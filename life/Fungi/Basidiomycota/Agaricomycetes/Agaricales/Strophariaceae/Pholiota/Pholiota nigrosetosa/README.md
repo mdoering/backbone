@@ -1,5 +1,4 @@
-Pholiota nigrosetosa Velen. SPECIES
-=======
+# Pholiota nigrosetosa Velen. SPECIES
 
 #### Status
 ACCEPTED

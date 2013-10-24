@@ -1,5 +1,4 @@
-Asteromella scorzonerae (Petr.) Petr. SPECIES
-=======
+# Asteromella scorzonerae (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

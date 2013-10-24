@@ -1,5 +1,4 @@
-Phaeomarasmius rostratus Singer SPECIES
-=======
+# Phaeomarasmius rostratus Singer SPECIES
 
 #### Status
 ACCEPTED

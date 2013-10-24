@@ -1,5 +1,4 @@
-Trachelomonas formosa (Skvortzov) Deflandre SPECIES
-=======
+# Trachelomonas formosa (Skvortzov) Deflandre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ripea D.J. Batten, 1985 GENUS
-=======
+# Ripea D.J. Batten, 1985 GENUS
 
 #### Status
 ACCEPTED

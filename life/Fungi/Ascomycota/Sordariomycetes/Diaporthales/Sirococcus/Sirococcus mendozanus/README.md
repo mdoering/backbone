@@ -1,5 +1,4 @@
-Sirococcus mendozanus Speg. SPECIES
-=======
+# Sirococcus mendozanus Speg. SPECIES
 
 #### Status
 ACCEPTED

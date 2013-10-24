@@ -1,5 +1,4 @@
-Holmiodiscus filipendulae Svrcek, 1992 SPECIES
-=======
+# Holmiodiscus filipendulae Svrcek, 1992 SPECIES
 
 #### Status
 ACCEPTED

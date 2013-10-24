@@ -1,5 +1,4 @@
-Agaricus multipunctus Peck SPECIES
-=======
+# Agaricus multipunctus Peck SPECIES
 
 #### Status
 ACCEPTED

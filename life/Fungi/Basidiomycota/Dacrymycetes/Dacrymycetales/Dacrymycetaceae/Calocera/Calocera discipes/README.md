@@ -1,5 +1,4 @@
-Calocera discipes Pat. SPECIES
-=======
+# Calocera discipes Pat. SPECIES
 
 #### Status
 ACCEPTED

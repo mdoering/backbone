@@ -1,5 +1,4 @@
-Udan Renz, 1976 GENUS
-=======
+# Udan Renz, 1976 GENUS
 
 #### Status
 ACCEPTED

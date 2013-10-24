@@ -1,5 +1,4 @@
-Phyllosticta phanerura Aa SPECIES
-=======
+# Phyllosticta phanerura Aa SPECIES
 
 #### Status
 ACCEPTED

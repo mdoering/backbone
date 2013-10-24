@@ -1,5 +1,4 @@
-Russula pluteoides Singer SPECIES
-=======
+# Russula pluteoides Singer SPECIES
 
 #### Status
 ACCEPTED

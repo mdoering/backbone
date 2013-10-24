@@ -1,17 +1,16 @@
-Monilia pseudoguillermondii Castell. SPECIES
-=======
+# Monilia pseudoguilliermondii Castell. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Castellani & Chalmers, Man. trop. med. (London), 3rd Edn 1088 (1919)
 
 #### Original name
-Monilia pseudoguillermondii Castell.
+Monilia pseudoguilliermondii Castell.
 
 ### Remarks
 null

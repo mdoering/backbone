@@ -1,5 +1,4 @@
-Septoria spergulae Westend., 1857 SPECIES
-=======
+# Septoria spergulae Westend., 1857 SPECIES
 
 #### Status
 ACCEPTED

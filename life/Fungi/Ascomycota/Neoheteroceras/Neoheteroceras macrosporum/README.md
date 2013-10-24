@@ -1,5 +1,4 @@
-Neoheteroceras macrosporum H. Yonez. & Kaz. Tanaka SPECIES
-=======
+# Neoheteroceras macrosporum H. Yonez. & Kaz. Tanaka SPECIES
 
 #### Status
 ACCEPTED

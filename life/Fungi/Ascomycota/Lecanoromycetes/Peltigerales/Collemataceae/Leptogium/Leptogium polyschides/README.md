@@ -1,5 +1,4 @@
-Leptogium polyschides Mont. SPECIES
-=======
+# Leptogium polyschides Mont. SPECIES
 
 #### Status
 ACCEPTED

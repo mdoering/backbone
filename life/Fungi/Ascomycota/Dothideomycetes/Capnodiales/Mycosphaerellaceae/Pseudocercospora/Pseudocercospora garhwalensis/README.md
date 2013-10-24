@@ -1,5 +1,4 @@
-Pseudocercospora garhwalensis S.L. Srivast. & Topal SPECIES
-=======
+# Pseudocercospora garhwalensis S.L. Srivast. & Topal SPECIES
 
 #### Status
 ACCEPTED

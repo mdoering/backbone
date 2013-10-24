@@ -1,5 +1,4 @@
-Balantidium helenae Bezzenberger, 1904 SPECIES
-=======
+# Balantidium helenae Bezzenberger, 1904 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleosporium fauriae Syd. & P. Syd. SPECIES
-=======
+# Coleosporium fauriae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

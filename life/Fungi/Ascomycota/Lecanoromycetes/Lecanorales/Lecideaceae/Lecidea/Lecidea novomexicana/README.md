@@ -1,5 +1,4 @@
-Lecidea novomexicana (B. de Lesd.) R.A. Anderson SPECIES
-=======
+# Lecidea novomexicana (B. de Lesd.) R.A. Anderson SPECIES
 
 #### Status
 ACCEPTED

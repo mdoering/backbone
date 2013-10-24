@@ -1,5 +1,4 @@
-Stenella litseae-glutinosae (Syd. & P. Syd.) U. Braun SPECIES
-=======
+# Stenella litseae-glutinosae (Syd. & P. Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

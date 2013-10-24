@@ -1,5 +1,4 @@
-Morenoella rugispora (Tracy & Earle) Theiss. SPECIES
-=======
+# Morenoella rugispora (Tracy & Earle) Theiss. SPECIES
 
 #### Status
 ACCEPTED

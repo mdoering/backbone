@@ -1,5 +1,4 @@
-Cyphella stilboidea Speg. SPECIES
-=======
+# Cyphella stilboidea Speg. SPECIES
 
 #### Status
 ACCEPTED

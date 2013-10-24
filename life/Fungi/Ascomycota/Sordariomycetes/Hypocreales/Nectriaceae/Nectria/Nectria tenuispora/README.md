@@ -1,5 +1,4 @@
-Nectria tenuispora anon. SPECIES
-=======
+# Nectria tenuispora anon. SPECIES
 
 #### Status
 ACCEPTED

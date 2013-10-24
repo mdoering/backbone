@@ -1,5 +1,4 @@
-Stropharia fragilis Kauffman SPECIES
-=======
+# Stropharia fragilis Kauffman SPECIES
 
 #### Status
 ACCEPTED

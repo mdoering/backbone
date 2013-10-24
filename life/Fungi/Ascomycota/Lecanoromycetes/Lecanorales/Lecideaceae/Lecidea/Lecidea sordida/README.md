@@ -1,5 +1,4 @@
-Lecidea sordida Chevall. SPECIES
-=======
+# Lecidea sordida Chevall. SPECIES
 
 #### Status
 ACCEPTED

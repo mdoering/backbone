@@ -1,5 +1,4 @@
-Cyclammina pauciloculata SPECIES
-=======
+# Cyclammina pauciloculata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum spathulophyllum J.Tanaka & Murakami SPECIES
-=======
+# Sargassum spathulophyllum J.Tanaka & Murakami SPECIES
 
 #### Status
 ACCEPTED

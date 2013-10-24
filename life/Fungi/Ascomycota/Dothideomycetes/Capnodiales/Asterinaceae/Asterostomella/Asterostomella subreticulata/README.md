@@ -1,5 +1,4 @@
-Asterostomella subreticulata var. subreticulata VARIETY
-=======
+# Asterostomella subreticulata Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asterostomella subreticulata var. subreticulata
+Asterostomella subreticulata Speg.
 
 ### Remarks
 null

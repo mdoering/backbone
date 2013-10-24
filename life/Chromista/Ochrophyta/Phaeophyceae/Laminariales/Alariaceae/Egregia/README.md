@@ -1,5 +1,4 @@
-Egregia Areschoug, 1876 GENUS
-=======
+# Egregia Areschoug, 1876 GENUS
 
 #### Status
 ACCEPTED

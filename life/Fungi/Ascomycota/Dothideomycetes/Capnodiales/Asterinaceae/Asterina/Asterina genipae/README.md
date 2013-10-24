@@ -1,5 +1,4 @@
-Asterina genipae R.W. Ryan SPECIES
-=======
+# Asterina genipae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

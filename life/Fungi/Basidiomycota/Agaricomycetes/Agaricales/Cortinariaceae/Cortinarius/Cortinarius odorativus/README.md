@@ -1,5 +1,4 @@
-Cortinarius odorativus Britzelm. SPECIES
-=======
+# Cortinarius odorativus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

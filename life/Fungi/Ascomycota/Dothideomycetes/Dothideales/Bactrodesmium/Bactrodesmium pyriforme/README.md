@@ -1,5 +1,4 @@
-Bactrodesmium pyriforme Hol.-Jech. SPECIES
-=======
+# Bactrodesmium pyriforme Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

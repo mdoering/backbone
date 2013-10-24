@@ -1,5 +1,4 @@
-Stereum mesentericum (Bolton) Gray SPECIES
-=======
+# Stereum mesentericum (Bolton) Gray SPECIES
 
 #### Status
 ACCEPTED

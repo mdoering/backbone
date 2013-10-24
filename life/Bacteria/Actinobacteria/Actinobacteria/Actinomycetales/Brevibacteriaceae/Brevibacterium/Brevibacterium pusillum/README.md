@@ -1,5 +1,4 @@
-Brevibacterium pusillum Iizuka and Komagata, 1965 (Approved Lists, 1980) SPECIES
-=======
+# Brevibacterium pusillum Iizuka and Komagata, 1965 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

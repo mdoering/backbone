@@ -1,5 +1,4 @@
-Metasphaeria valdiviensis Speg. SPECIES
-=======
+# Metasphaeria valdiviensis Speg. SPECIES
 
 #### Status
 ACCEPTED

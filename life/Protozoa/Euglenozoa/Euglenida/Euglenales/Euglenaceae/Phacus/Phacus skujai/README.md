@@ -1,5 +1,4 @@
-Phacus skujai Skvortzov SPECIES
-=======
+# Phacus skujai Skvortzov SPECIES
 
 #### Status
 ACCEPTED

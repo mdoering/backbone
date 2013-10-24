@@ -1,5 +1,4 @@
-Polystictus aethiops (Cooke) Cooke SPECIES
-=======
+# Polystictus aethiops (Cooke) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleomassaria helvetica Petr. SPECIES
-=======
+# Pleomassaria helvetica Petr. SPECIES
 
 #### Status
 ACCEPTED

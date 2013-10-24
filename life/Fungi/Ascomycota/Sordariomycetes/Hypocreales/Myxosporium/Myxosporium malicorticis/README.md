@@ -1,5 +1,4 @@
-Myxosporium malicorticis Potebnia SPECIES
-=======
+# Myxosporium malicorticis Potebnia SPECIES
 
 #### Status
 ACCEPTED

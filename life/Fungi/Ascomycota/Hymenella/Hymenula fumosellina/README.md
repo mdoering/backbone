@@ -1,5 +1,4 @@
-Hymenula fumosellina Starbäck SPECIES
-=======
+# Hymenula fumosellina Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quinqueloculina longidentata Terquem SPECIES
-=======
+# Quinqueloculina longidentata Terquem SPECIES
 
 #### Status
 ACCEPTED

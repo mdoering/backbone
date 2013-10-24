@@ -1,5 +1,4 @@
-Trachelomonas coronata Svirenko SPECIES
-=======
+# Trachelomonas coronata Svirenko SPECIES
 
 #### Status
 ACCEPTED

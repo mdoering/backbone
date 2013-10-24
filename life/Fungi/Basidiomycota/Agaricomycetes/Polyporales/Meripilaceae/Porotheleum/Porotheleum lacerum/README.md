@@ -1,5 +1,4 @@
-Porotheleum lacerum Fr. SPECIES
-=======
+# Porotheleum lacerum Fr. SPECIES
 
 #### Status
 ACCEPTED

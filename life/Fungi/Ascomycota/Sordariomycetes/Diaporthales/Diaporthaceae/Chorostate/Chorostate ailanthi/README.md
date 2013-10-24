@@ -1,5 +1,4 @@
-Chorostate ailanthi var. ailanthi VARIETY
-=======
+# Chorostate ailanthi (Sacc.) Traverso SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Chorostate ailanthi var. ailanthi
+Valsa tuberculosa Ellis
 
 ### Remarks
 null

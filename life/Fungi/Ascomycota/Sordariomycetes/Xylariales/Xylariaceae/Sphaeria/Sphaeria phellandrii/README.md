@@ -1,5 +1,4 @@
-Sphaeria phellandrii Kirchn. SPECIES
-=======
+# Sphaeria phellandrii Kirchn. SPECIES
 
 #### Status
 ACCEPTED

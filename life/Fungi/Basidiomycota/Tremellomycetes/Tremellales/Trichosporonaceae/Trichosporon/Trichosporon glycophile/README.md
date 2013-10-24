@@ -1,5 +1,4 @@
-Trichosporon glycophile S.S. Dubois SPECIES
-=======
+# Trichosporon glycophile S.S. Dubois SPECIES
 
 #### Status
 ACCEPTED

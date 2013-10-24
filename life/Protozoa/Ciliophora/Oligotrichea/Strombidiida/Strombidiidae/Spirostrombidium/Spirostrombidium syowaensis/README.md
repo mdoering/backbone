@@ -1,5 +1,4 @@
-Spirostrombidium syowaensis (Hada, 1970) SPECIES
-=======
+# Spirostrombidium syowaensis (Hada, 1970) SPECIES
 
 #### Status
 ACCEPTED

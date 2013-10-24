@@ -1,5 +1,4 @@
-Myxosporium stillatum (De Not.) Wollenw. SPECIES
-=======
+# Myxosporium stillatum (De Not.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

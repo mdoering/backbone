@@ -1,5 +1,4 @@
-Cyrtidula occulta Minks SPECIES
-=======
+# Cyrtidula occulta Minks SPECIES
 
 #### Status
 ACCEPTED

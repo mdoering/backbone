@@ -1,5 +1,4 @@
-Lecidea plusiospora Th. Fr. SPECIES
-=======
+# Lecidea plusiospora Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

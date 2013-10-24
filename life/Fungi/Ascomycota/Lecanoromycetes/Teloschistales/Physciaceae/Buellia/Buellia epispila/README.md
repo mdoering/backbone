@@ -1,5 +1,4 @@
-Buellia epispila (Nyl.) B. de Lesd. SPECIES
-=======
+# Buellia epispila (Nyl.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

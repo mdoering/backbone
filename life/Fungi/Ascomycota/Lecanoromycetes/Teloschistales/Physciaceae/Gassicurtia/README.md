@@ -1,5 +1,4 @@
-Gassicurtia GENUS
-=======
+# Gassicurtia GENUS
 
 #### Status
 ACCEPTED

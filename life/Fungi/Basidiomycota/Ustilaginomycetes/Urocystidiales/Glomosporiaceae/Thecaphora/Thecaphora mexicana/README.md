@@ -1,5 +1,4 @@
-Thecaphora mexicana Ellis & Everh. SPECIES
-=======
+# Thecaphora mexicana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

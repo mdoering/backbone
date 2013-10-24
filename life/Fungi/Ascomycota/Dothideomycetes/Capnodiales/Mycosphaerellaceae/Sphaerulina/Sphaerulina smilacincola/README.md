@@ -1,5 +1,4 @@
-Sphaerulina smilacincola Rehm SPECIES
-=======
+# Sphaerulina smilacincola Rehm SPECIES
 
 #### Status
 ACCEPTED

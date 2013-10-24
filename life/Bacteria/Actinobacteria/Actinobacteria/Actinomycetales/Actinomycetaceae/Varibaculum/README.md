@@ -1,5 +1,4 @@
-Varibaculum Hall, Collins, Lawson, Hutson, Falsen, Inganas & Duerden, 2003 GENUS
-=======
+# Varibaculum Hall, Collins, Lawson, Hutson, Falsen, Inganas & Duerden, 2003 GENUS
 
 #### Status
 ACCEPTED

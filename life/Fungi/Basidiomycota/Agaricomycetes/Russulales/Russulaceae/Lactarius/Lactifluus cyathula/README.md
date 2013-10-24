@@ -1,5 +1,4 @@
-Lactifluus cyathula (Fr.) Kuntze SPECIES
-=======
+# Lactifluus cyathula (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

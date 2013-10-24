@@ -1,5 +1,4 @@
-Coniosporium tetrantherae (Thüm.) Sacc. SPECIES
-=======
+# Coniosporium tetrantherae (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

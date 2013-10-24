@@ -1,5 +1,4 @@
-Dicoccum lathyrinum Ellis & Galloway SPECIES
-=======
+# Dicoccum lathyrinum Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dentocorticium nephrolepidis Boidin & Gilles SPECIES
-=======
+# Dentocorticium nephrolepidis Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

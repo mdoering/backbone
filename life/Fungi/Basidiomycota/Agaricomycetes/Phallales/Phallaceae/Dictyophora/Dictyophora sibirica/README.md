@@ -1,5 +1,4 @@
-Dictyophora sibirica Lavrov SPECIES
-=======
+# Dictyophora sibirica Lavrov SPECIES
 
 #### Status
 ACCEPTED

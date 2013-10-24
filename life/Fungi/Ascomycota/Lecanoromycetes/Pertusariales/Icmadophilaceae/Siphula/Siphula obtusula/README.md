@@ -1,5 +1,4 @@
-Siphula obtusula Zahlbr. SPECIES
-=======
+# Siphula obtusula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uroleptus dispar Stokes, 1886 SPECIES
-=======
+# Uroleptus dispar Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

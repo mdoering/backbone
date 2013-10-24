@@ -1,5 +1,4 @@
-Punctaria tenuis Yamada & Iwamoto SPECIES
-=======
+# Punctaria tenuis Yamada & Iwamoto SPECIES
 
 #### Status
 ACCEPTED

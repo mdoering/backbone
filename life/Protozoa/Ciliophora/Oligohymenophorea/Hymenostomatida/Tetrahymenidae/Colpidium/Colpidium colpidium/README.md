@@ -1,5 +1,4 @@
-Colpidium colpidium SPECIES
-=======
+# Colpidium colpidium SPECIES
 
 #### Status
 ACCEPTED

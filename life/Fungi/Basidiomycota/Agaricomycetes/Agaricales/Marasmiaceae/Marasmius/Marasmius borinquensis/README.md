@@ -1,5 +1,4 @@
-Marasmius borinquensis J.A. Stev. SPECIES
-=======
+# Marasmius borinquensis J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

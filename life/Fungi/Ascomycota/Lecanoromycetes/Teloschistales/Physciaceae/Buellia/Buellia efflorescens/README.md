@@ -1,5 +1,4 @@
-Buellia efflorescens SPECIES
-=======
+# Buellia efflorescens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lysurus cruciatus var. cruciatus VARIETY
-=======
+# Lysurus cruciatus (Lepr. & Mont.) Henn., 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hedwigia 41(Beibl. ): 172 (1902)
 
 #### Original name
-Lysurus cruciatus var. cruciatus
+Aserophallus cruciatus Lepr. & Mont., 1845
 
 ### Remarks
 null

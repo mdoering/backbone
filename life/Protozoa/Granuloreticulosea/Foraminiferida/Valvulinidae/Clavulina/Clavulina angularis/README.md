@@ -1,5 +1,4 @@
-Clavulina angularis SPECIES
-=======
+# Clavulina angularis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria spathuliformis Bres. SPECIES
-=======
+# Clavaria spathuliformis Bres. SPECIES
 
 #### Status
 ACCEPTED

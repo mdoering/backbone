@@ -1,5 +1,4 @@
-Hemiaulus giganteus N.I. Strelnikova SPECIES
-=======
+# Hemiaulus giganteus N.I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

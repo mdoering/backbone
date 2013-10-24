@@ -1,5 +1,4 @@
-Phyllachora chimonobambusae I. Hino & Katum., 1955 SPECIES
-=======
+# Phyllachora chimonobambusae I. Hino & Katum., 1955 SPECIES
 
 #### Status
 ACCEPTED

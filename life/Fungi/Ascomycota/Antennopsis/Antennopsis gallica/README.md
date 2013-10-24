@@ -1,5 +1,4 @@
-Antennopsis gallica R. Heim & Buchli ex R. Heim, 1952 SPECIES
-=======
+# Antennopsis gallica R. Heim & Buchli ex R. Heim, 1952 SPECIES
 
 #### Status
 ACCEPTED

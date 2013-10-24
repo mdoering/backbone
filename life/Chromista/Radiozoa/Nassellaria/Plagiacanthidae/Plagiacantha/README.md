@@ -1,5 +1,4 @@
-Plagiacantha Claparède, 1858 GENUS
-=======
+# Plagiacantha Claparède, 1858 GENUS
 
 #### Status
 ACCEPTED

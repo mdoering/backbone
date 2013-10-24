@@ -1,5 +1,4 @@
-Russula rosacea f. rosacea FORM
-=======
+# Russula rosacea (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nat. Arr. Brit. Pl. (London) 1: (1821)
 
 #### Original name
-Russula rosacea f. rosacea
+Agaricus rosaceus Pers.
 
 ### Remarks
 null

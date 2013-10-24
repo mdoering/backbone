@@ -1,5 +1,4 @@
-Exosporium lilacis Desm. SPECIES
-=======
+# Exosporium lilacis Desm. SPECIES
 
 #### Status
 ACCEPTED

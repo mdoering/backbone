@@ -1,5 +1,4 @@
-Pilocratera discifera (Hazsl.) Sacc. & Traverso SPECIES
-=======
+# Pilocratera discifera (Hazsl.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

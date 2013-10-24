@@ -1,5 +1,4 @@
-Rhizopogon rhizophorus Velen. SPECIES
-=======
+# Rhizopogon rhizophorus Velen. SPECIES
 
 #### Status
 ACCEPTED

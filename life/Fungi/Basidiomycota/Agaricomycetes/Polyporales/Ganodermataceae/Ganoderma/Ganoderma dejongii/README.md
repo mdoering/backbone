@@ -1,5 +1,4 @@
-Ganoderma dejongii Steyaert, 1972 SPECIES
-=======
+# Ganoderma dejongii Steyaert, 1972 SPECIES
 
 #### Status
 ACCEPTED

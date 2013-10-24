@@ -1,5 +1,4 @@
-Stictina macrophylla (Bory) Nyl. SPECIES
-=======
+# Stictina macrophylla (Bory) Nyl. SPECIES
 
 #### Status
 ACCEPTED

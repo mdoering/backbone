@@ -1,5 +1,4 @@
-Byssopsora stupposa A. Massal. SPECIES
-=======
+# Byssopsora stupposa A. Massal. SPECIES
 
 #### Status
 ACCEPTED

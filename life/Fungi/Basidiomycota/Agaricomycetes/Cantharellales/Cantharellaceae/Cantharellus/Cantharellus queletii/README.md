@@ -1,5 +1,4 @@
-Cantharellus queletii (Ferry) Corner, 1966 SPECIES
-=======
+# Cantharellus queletii (Ferry) Corner, 1966 SPECIES
 
 #### Status
 ACCEPTED

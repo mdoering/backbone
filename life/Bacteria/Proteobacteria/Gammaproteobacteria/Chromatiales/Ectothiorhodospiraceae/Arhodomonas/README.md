@@ -1,5 +1,4 @@
-Arhodomonas Adkins, Madigan, Mandelco, Woese & Tanner, 1993 GENUS
-=======
+# Arhodomonas Adkins, Madigan, Mandelco, Woese & Tanner, 1993 GENUS
 
 #### Status
 ACCEPTED

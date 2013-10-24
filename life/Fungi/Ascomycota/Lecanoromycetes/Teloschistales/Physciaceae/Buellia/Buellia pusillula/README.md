@@ -1,5 +1,4 @@
-Buellia pusillula (Nyl.) Malme SPECIES
-=======
+# Buellia pusillula (Nyl.) Malme SPECIES
 
 #### Status
 ACCEPTED

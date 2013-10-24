@@ -1,17 +1,16 @@
-Clithramia Nag Raj GENUS
-=======
+# Chithramia Nag Raj GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 66(5): 903 (1988)
 
 #### Original name
-Clithramia Nag Raj
+Chithramia Nag Raj
 
 ### Remarks
 null

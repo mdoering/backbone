@@ -1,5 +1,4 @@
-Inocybe dulcamaroides Kühner SPECIES
-=======
+# Inocybe dulcamaroides Kühner SPECIES
 
 #### Status
 ACCEPTED

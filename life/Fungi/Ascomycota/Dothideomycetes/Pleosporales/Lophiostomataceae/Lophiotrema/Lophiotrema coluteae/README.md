@@ -1,5 +1,4 @@
-Lophiotrema coluteae Domashova SPECIES
-=======
+# Lophiotrema coluteae Domashova SPECIES
 
 #### Status
 ACCEPTED

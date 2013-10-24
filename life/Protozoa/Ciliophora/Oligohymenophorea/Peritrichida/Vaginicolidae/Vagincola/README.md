@@ -1,5 +1,4 @@
-Vagincola GENUS
-=======
+# Vagincola GENUS
 
 #### Status
 ACCEPTED

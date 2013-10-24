@@ -1,5 +1,4 @@
-Cucurbitaria miliaria (Pass.) Kuntze SPECIES
-=======
+# Cucurbitaria miliaria (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

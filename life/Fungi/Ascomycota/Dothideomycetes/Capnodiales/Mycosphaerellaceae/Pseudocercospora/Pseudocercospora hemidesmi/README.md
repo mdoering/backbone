@@ -1,5 +1,4 @@
-Pseudocercospora hemidesmi (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora hemidesmi (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

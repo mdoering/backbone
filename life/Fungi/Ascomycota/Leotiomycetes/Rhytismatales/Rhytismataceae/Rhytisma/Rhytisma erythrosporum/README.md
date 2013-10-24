@@ -1,5 +1,4 @@
-Rhytisma erythrosporum Berk. & M.A. Curtis SPECIES
-=======
+# Rhytisma erythrosporum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

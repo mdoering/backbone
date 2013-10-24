@@ -1,5 +1,4 @@
-Lecanora usambarensis Müll. Arg. SPECIES
-=======
+# Lecanora usambarensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

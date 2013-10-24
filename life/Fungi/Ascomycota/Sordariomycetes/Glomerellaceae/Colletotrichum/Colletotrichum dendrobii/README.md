@@ -1,5 +1,4 @@
-Colletotrichum dendrobii (Cooke & Massee) Hansf. SPECIES
-=======
+# Colletotrichum dendrobii (Cooke & Massee) Hansf. SPECIES
 
 #### Status
 ACCEPTED

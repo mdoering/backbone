@@ -1,5 +1,4 @@
-Filaspora continua (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Filaspora continua (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

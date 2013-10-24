@@ -1,5 +1,4 @@
-Phyllosticta rapaneae Speg. SPECIES
-=======
+# Phyllosticta rapaneae Speg. SPECIES
 
 #### Status
 ACCEPTED

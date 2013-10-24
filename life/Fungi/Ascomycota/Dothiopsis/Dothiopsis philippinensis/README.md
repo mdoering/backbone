@@ -1,5 +1,4 @@
-Dothiopsis philippinensis H.S. Yates SPECIES
-=======
+# Dothiopsis philippinensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

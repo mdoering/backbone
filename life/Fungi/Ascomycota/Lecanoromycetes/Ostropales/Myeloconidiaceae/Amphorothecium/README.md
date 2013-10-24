@@ -1,5 +1,4 @@
-Amphorothecium P.M. McCarthy, Kantvilas & Elix GENUS
-=======
+# Amphorothecium P.M. McCarthy, Kantvilas & Elix GENUS
 
 #### Status
 ACCEPTED

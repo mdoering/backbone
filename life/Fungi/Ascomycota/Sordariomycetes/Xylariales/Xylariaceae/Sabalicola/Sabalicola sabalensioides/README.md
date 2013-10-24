@@ -1,14 +1,13 @@
-Sphaeria sabalensioides Ellis & G. Martin SPECIES
-=======
+# Sabalicola sabalensioides (Ellis & G. Martin) K.D. Hyde, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 60(3-4): 597 (1995)
 
 #### Original name
 Sphaeria sabalensioides Ellis & G. Martin

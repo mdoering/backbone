@@ -1,5 +1,4 @@
-Pluteus subminutus Singer SPECIES
-=======
+# Pluteus subminutus Singer SPECIES
 
 #### Status
 ACCEPTED

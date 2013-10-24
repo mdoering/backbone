@@ -1,17 +1,16 @@
-Dimeriellina Chardón GENUS
-=======
+# Auerswaldiella Theiss. & Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bol. Soc. venez. Cienc. nat. 5: 329 ('239') (1939)
+Annls mycol. 12(3): 278 (1914)
 
 #### Original name
-Dimeriellina Chardón
+Auerswaldiella Theiss. & Syd.
 
 ### Remarks
 null

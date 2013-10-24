@@ -1,5 +1,4 @@
-Anthracoidea capillaris Kukkonen, 1963 SPECIES
-=======
+# Anthracoidea capillaris Kukkonen, 1963 SPECIES
 
 #### Status
 ACCEPTED

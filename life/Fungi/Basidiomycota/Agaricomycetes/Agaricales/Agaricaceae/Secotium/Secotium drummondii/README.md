@@ -1,5 +1,4 @@
-Secotium drummondii Berk. ex F. Muell. SPECIES
-=======
+# Secotium drummondii Berk. ex F. Muell. SPECIES
 
 #### Status
 ACCEPTED

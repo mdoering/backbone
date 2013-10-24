@@ -1,5 +1,4 @@
-Meliola irradians Gaillard SPECIES
-=======
+# Meliola irradians Gaillard SPECIES
 
 #### Status
 ACCEPTED

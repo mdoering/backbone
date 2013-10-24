@@ -1,5 +1,4 @@
-Clostridium mayombei Kane et al., 1992 SPECIES
-=======
+# Clostridium mayombei Kane et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

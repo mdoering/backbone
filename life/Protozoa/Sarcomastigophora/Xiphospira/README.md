@@ -1,5 +1,4 @@
-Xiphospira Haeckel, 1887 GENUS
-=======
+# Xiphospira Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

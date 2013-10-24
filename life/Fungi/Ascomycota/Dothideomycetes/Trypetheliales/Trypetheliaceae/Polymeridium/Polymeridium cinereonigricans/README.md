@@ -1,5 +1,4 @@
-Polymeridium cinereonigricans (Vain.) R.C. Harris SPECIES
-=======
+# Polymeridium cinereonigricans (Vain.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

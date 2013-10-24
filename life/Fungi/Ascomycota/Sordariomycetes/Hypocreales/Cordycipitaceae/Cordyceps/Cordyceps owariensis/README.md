@@ -1,5 +1,4 @@
-Cordyceps owariensis f. owariensis FORM
-=======
+# Cordyceps owariensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bulletin of the Biogeogr. Soc. Jap. 9: 166 (1939)
 
 #### Original name
-Cordyceps owariensis f. owariensis
+Cordyceps owariensis Kobayasi
 
 ### Remarks
 null

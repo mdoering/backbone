@@ -1,5 +1,4 @@
-Amanita peltigera D.A. Reid SPECIES
-=======
+# Amanita peltigera D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

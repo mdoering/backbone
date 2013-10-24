@@ -1,5 +1,4 @@
-Melanomphalia vernifera Singer SPECIES
-=======
+# Melanomphalia vernifera Singer SPECIES
 
 #### Status
 ACCEPTED

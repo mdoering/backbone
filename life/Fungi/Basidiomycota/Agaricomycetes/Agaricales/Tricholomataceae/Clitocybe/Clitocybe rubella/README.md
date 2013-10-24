@@ -1,5 +1,4 @@
-Clitocybe rubella H.E. Bigelow SPECIES
-=======
+# Clitocybe rubella H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

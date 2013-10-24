@@ -1,5 +1,4 @@
-Meliola allophyligena Hosag. SPECIES
-=======
+# Meliola allophyligena Hosag. SPECIES
 
 #### Status
 ACCEPTED

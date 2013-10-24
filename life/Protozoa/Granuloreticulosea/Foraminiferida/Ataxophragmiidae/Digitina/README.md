@@ -1,5 +1,4 @@
-Digitina Crespin & Parr, 1941 GENUS
-=======
+# Digitina Crespin & Parr, 1941 GENUS
 
 #### Status
 ACCEPTED

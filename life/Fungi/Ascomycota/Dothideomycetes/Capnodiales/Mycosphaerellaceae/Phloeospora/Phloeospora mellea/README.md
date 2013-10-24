@@ -1,5 +1,4 @@
-Phloeospora mellea Sacc. SPECIES
-=======
+# Phloeospora mellea Sacc. SPECIES
 
 #### Status
 ACCEPTED

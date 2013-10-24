@@ -1,5 +1,4 @@
-Macrophoma eugeniae Tassi, 1902 SPECIES
-=======
+# Macrophoma eugeniae Tassi, 1902 SPECIES
 
 #### Status
 ACCEPTED

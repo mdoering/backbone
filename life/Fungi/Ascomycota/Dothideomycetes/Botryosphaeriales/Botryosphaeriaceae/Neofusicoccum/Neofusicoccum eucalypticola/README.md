@@ -1,14 +1,13 @@
-Fusicoccum eucalypticola Slippers, Crous & M.J. Wingf., 2004 SPECIES
-=======
+# Neofusicoccum eucalypticola (Slippers, Crous & M.J. Wingf.) Crous, Slippers & A.J.L. Phillips, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Slippers, Fourie, Crous, Coutinho, Wingfield, Carnegie & Wingfield, Stud. Mycol. 50(2): 351 (2004)
+in Crous, Slippers, Wingfield, Rheeder, Marasas, Phillips, Alves, Burgess, Barber & Groenewald, Stud. Mycol. 55: 248 (2006)
 
 #### Original name
 Fusicoccum eucalypticola Slippers, Crous & M.J. Wingf., 2004

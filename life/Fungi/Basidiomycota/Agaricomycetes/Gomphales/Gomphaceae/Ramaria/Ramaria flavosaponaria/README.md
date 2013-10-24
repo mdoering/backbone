@@ -1,5 +1,4 @@
-Ramaria flavosaponaria R.H. Petersen, 1986 SPECIES
-=======
+# Ramaria flavosaponaria R.H. Petersen, 1986 SPECIES
 
 #### Status
 ACCEPTED

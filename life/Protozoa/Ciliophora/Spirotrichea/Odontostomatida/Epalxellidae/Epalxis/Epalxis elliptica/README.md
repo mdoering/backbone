@@ -1,5 +1,4 @@
-Epalxis elliptica Penard SPECIES
-=======
+# Epalxis elliptica Penard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerellothecium subtile Triebel & Rambold SPECIES
-=======
+# Sphaerellothecium subtile Triebel & Rambold SPECIES
 
 #### Status
 ACCEPTED

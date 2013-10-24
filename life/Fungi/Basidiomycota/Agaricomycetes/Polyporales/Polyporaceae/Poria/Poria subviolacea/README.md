@@ -1,5 +1,4 @@
-Poria subviolacea Ellis & Everh. SPECIES
-=======
+# Poria subviolacea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia thomsonii C.W. Dodge SPECIES
-=======
+# Buellia thomsonii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

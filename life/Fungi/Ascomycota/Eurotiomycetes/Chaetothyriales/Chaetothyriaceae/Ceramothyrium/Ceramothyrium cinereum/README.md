@@ -1,5 +1,4 @@
-Ceramothyrium cinereum (L.R. Fraser) Bat. SPECIES
-=======
+# Ceramothyrium cinereum (L.R. Fraser) Bat. SPECIES
 
 #### Status
 ACCEPTED

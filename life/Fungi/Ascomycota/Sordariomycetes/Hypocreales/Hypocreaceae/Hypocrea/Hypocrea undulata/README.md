@@ -1,5 +1,4 @@
-Hypocrea undulata Berk. & Cooke SPECIES
-=======
+# Hypocrea undulata Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella pycnanthemi G.F. Atk. SPECIES
-=======
+# Cercosporella pycnanthemi G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

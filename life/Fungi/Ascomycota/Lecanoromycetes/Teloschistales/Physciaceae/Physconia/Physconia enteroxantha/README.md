@@ -1,17 +1,16 @@
-Physcia grisea var. enteroxanthella (Harm.) Servít VARIETY
-=======
+# Physconia enteroxantha (Nyl.) Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 12: 125 (1966)
 
 #### Original name
-Physcia enteroxanthella (Harm.) H. Olivier
+Physcia enteroxantha Nyl.
 
 ### Remarks
 null

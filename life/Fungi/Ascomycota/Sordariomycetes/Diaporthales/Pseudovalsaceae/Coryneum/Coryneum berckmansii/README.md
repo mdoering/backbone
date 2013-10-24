@@ -1,17 +1,16 @@
-Coryneum berckmanii Milbrath SPECIES
-=======
+# Coryneum berckmansii Milbrath SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Phytopathology 30: 594 (1940)
 
 #### Original name
-Coryneum berckmanii Milbrath
+Coryneum berckmansii Milbrath
 
 ### Remarks
 null

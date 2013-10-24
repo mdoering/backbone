@@ -1,5 +1,4 @@
-Judomophyton P.N. Kolosov, 1982 GENUS
-=======
+# Judomophyton P.N. Kolosov, 1982 GENUS
 
 #### Status
 ACCEPTED

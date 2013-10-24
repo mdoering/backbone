@@ -1,5 +1,4 @@
-Puccinia pazensis H.C. Greene & Cummins SPECIES
-=======
+# Puccinia pazensis H.C. Greene & Cummins SPECIES
 
 #### Status
 ACCEPTED

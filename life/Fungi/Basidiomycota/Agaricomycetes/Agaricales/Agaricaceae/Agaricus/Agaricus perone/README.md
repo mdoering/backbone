@@ -1,5 +1,4 @@
-Agaricus perone Berk. & Broome SPECIES
-=======
+# Agaricus perone Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filobacillus Schlesner et al., 2001 GENUS
-=======
+# Filobacillus Schlesner et al., 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phragmidium fusiforme var. fusiforme VARIETY
-=======
+# Phragmidium fusiforme J. Schröt., 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Abh. Schles. Ges. Vaterl. Kult. Abth. Naturwiss. 24 (1870)
+Abh. Schles. Ges. Vaterl. Kult. Abth. Naturwiss. 48: 24 (1870)
 
 #### Original name
-Phragmidium fusiforme var. fusiforme
+Phragmidium fusiforme J. Schröt., 1870
 
 ### Remarks
 null

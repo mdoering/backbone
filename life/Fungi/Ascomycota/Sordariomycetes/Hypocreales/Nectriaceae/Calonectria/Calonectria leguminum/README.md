@@ -1,5 +1,4 @@
-Calonectria leguminum (Rehm) Crous SPECIES
-=======
+# Calonectria leguminum (Rehm) Crous SPECIES
 
 #### Status
 ACCEPTED

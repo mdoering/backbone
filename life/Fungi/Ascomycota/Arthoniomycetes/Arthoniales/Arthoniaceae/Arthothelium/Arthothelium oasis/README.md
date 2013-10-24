@@ -1,5 +1,4 @@
-Arthothelium oasis A. Massal. SPECIES
-=======
+# Arthothelium oasis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma tabaci Av.-Saccá SPECIES
-=======
+# Macrophoma tabaci Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

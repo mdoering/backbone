@@ -1,5 +1,4 @@
-Helotium sordidulum Speg. SPECIES
-=======
+# Helotium sordidulum Speg. SPECIES
 
 #### Status
 ACCEPTED

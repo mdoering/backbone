@@ -1,5 +1,4 @@
-Dunbarinella Thompson, 1942 GENUS
-=======
+# Dunbarinella Thompson, 1942 GENUS
 
 #### Status
 ACCEPTED

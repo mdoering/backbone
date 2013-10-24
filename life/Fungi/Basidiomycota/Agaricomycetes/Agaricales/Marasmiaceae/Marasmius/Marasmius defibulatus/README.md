@@ -1,5 +1,4 @@
-Marasmius defibulatus Singer SPECIES
-=======
+# Marasmius defibulatus Singer SPECIES
 
 #### Status
 ACCEPTED

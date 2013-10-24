@@ -1,5 +1,4 @@
-Arthothelium stirtianum Müll. Arg. SPECIES
-=======
+# Arthothelium stirtianum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

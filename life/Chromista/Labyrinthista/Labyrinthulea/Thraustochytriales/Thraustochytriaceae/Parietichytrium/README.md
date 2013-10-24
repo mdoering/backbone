@@ -1,5 +1,4 @@
-Parietichytrium R. Yokoy., Salleh & D. Honda GENUS
-=======
+# Parietichytrium R. Yokoy., Salleh & D. Honda GENUS
 
 #### Status
 ACCEPTED

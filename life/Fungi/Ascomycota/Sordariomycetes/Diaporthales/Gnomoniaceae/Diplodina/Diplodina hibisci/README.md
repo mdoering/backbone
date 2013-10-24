@@ -1,5 +1,4 @@
-Diplodina hibisci Hollós SPECIES
-=======
+# Diplodina hibisci Hollós SPECIES
 
 #### Status
 ACCEPTED

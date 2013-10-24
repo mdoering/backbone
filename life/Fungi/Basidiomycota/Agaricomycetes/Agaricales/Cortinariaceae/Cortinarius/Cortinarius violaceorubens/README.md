@@ -1,5 +1,4 @@
-Cortinarius violaceorubens Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius violaceorubens Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

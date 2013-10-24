@@ -1,5 +1,4 @@
-Botryochloris simplex Pascher SPECIES
-=======
+# Botryochloris simplex Pascher SPECIES
 
 #### Status
 ACCEPTED

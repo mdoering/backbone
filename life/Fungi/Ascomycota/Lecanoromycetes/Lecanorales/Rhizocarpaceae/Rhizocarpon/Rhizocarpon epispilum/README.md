@@ -1,5 +1,4 @@
-Rhizocarpon epispilum (Nyl.) Zahlbr. SPECIES
-=======
+# Rhizocarpon epispilum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

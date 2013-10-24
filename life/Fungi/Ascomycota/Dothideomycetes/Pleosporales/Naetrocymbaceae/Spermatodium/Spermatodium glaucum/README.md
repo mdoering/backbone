@@ -1,5 +1,4 @@
-Spermatodium glaucum (Fée) Trevis. SPECIES
-=======
+# Spermatodium glaucum (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype aurantii (De Not.) Sacc. SPECIES
-=======
+# Diatrype aurantii (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

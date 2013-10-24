@@ -1,5 +1,4 @@
-Hypotrachyna vainioi Sipman, Elix & T. H. Nash SPECIES
-=======
+# Hypotrachyna vainioi Sipman, Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

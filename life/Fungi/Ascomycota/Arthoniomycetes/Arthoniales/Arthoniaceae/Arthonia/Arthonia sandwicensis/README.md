@@ -1,5 +1,4 @@
-Arthonia sandwicensis H. Magn. SPECIES
-=======
+# Arthonia sandwicensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia epitypha P. Karst. SPECIES
-=======
+# Mollisia epitypha P. Karst. SPECIES
 
 #### Status
 ACCEPTED

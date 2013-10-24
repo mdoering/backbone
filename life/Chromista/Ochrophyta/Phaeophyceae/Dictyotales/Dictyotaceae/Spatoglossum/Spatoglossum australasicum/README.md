@@ -1,5 +1,4 @@
-Spatoglossum australasicum Kützing, 1859 SPECIES
-=======
+# Spatoglossum australasicum Kützing, 1859 SPECIES
 
 #### Status
 ACCEPTED

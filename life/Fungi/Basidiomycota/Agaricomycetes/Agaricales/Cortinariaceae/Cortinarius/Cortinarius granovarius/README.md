@@ -1,5 +1,4 @@
-Cortinarius granovarius Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius granovarius Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

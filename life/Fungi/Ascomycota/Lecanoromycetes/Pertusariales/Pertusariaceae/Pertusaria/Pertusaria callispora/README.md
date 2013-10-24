@@ -1,5 +1,4 @@
-Pertusaria callispora Zahlbr. SPECIES
-=======
+# Pertusaria callispora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria quinqueseptatula Nyl. SPECIES
-=======
+# Verrucaria quinqueseptatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

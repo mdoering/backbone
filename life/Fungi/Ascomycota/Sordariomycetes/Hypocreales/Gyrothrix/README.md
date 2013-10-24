@@ -1,5 +1,4 @@
-Gyrothrix (Corda) Corda GENUS
-=======
+# Gyrothrix (Corda) Corda GENUS
 
 #### Status
 ACCEPTED

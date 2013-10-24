@@ -1,17 +1,16 @@
-Clavaria botrytis var. botrytis VARIETY
-=======
+# Ramaria botrytis (Pers.) Ricken, 1918 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Comm. fung. clav. (Lipsiae) 42 (1797)
+Vadem. Pilzfr. 253 (1918)
 
 #### Original name
-Clavaria botrytis var. botrytis
+Clavaria botrytis Pers., 1797
 
 ### Remarks
 null

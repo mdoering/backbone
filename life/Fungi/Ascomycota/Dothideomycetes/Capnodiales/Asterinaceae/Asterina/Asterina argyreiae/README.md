@@ -1,5 +1,4 @@
-Asterina argyreiae Hansf. SPECIES
-=======
+# Asterina argyreiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

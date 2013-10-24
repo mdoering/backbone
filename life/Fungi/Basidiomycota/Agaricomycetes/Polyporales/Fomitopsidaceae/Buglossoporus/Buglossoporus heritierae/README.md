@@ -1,14 +1,13 @@
-Antrodiella heritierae (Corner) T. Hatt., 2000 SPECIES
-=======
+# Buglossoporus heritierae Corner, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoscience 41(4): 342 (2000)
+Beih. Nova Hedwigia 78: 160 (1984)
 
 #### Original name
 Buglossoporus heritierae Corner, 1984

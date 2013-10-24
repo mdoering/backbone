@@ -1,5 +1,4 @@
-Bovista heterocapilla Kreisel SPECIES
-=======
+# Bovista heterocapilla Kreisel SPECIES
 
 #### Status
 ACCEPTED

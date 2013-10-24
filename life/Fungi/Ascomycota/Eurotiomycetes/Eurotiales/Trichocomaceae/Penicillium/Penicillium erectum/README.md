@@ -1,5 +1,4 @@
-Penicillium erectum Bainier SPECIES
-=======
+# Penicillium erectum Bainier SPECIES
 
 #### Status
 ACCEPTED

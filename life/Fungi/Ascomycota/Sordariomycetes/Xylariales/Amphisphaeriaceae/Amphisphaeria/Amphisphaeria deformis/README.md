@@ -1,5 +1,4 @@
-Amphisphaeria deformis Ellis & Langl. SPECIES
-=======
+# Amphisphaeria deformis Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

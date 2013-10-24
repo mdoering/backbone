@@ -1,5 +1,4 @@
-Trachelomonas spirogyra Balech SPECIES
-=======
+# Trachelomonas spirogyra Balech SPECIES
 
 #### Status
 ACCEPTED

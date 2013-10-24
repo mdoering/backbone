@@ -1,5 +1,4 @@
-Ordovicidium nanofurcatum (Kjellström, 1971) Uutela & Tynni, 1991 SPECIES
-=======
+# Ordovicidium nanofurcatum (Kjellström, 1971) Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

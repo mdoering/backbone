@@ -1,5 +1,4 @@
-Lepiota hederacea Velen. SPECIES
-=======
+# Lepiota hederacea Velen. SPECIES
 
 #### Status
 ACCEPTED

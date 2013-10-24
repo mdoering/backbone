@@ -1,5 +1,4 @@
-Fomitiporia punicata Y.C. Dai, B.K. Cui & Decock SPECIES
-=======
+# Fomitiporia punicata Y.C. Dai, B.K. Cui & Decock SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thelotrema albidulum Nyl. SPECIES
-=======
+# Leucodecton albidulum (Nyl.) Mangold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 15: 46 (1861)
+null
 
 #### Original name
-Thelotrema albidulum Nyl.
+null
 
 ### Remarks
 null

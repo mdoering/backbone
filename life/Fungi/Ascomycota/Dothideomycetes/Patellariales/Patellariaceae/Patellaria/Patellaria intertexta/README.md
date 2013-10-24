@@ -1,5 +1,4 @@
-Patellaria intertexta Wallr. SPECIES
-=======
+# Patellaria intertexta Wallr. SPECIES
 
 #### Status
 ACCEPTED

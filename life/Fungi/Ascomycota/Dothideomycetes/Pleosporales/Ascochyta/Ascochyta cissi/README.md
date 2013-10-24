@@ -1,5 +1,4 @@
-Ascochyta cissi N. Naito SPECIES
-=======
+# Ascochyta cissi N. Naito SPECIES
 
 #### Status
 ACCEPTED

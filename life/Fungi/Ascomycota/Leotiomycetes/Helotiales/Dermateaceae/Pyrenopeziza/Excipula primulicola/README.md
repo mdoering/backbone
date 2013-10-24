@@ -1,5 +1,4 @@
-Excipula primulicola Pat. SPECIES
-=======
+# Excipula primulicola Pat. SPECIES
 
 #### Status
 ACCEPTED

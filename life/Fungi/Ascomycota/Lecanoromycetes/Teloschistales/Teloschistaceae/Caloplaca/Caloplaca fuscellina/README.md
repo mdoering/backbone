@@ -1,5 +1,4 @@
-Caloplaca fuscellina (Müll. Arg.) Darb. SPECIES
-=======
+# Caloplaca fuscellina (Müll. Arg.) Darb. SPECIES
 
 #### Status
 ACCEPTED

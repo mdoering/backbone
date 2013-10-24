@@ -1,5 +1,4 @@
-Puccinia retecta Syd. & P. Syd. SPECIES
-=======
+# Puccinia retecta Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

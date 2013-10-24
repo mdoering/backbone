@@ -1,5 +1,4 @@
-Pseudogemma fraiponti Collin, 1909 SPECIES
-=======
+# Pseudogemma fraiponti Collin, 1909 SPECIES
 
 #### Status
 ACCEPTED

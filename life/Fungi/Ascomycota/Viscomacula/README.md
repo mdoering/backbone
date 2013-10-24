@@ -1,5 +1,4 @@
-Viscomacula R. Sprague GENUS
-=======
+# Viscomacula R. Sprague GENUS
 
 #### Status
 ACCEPTED

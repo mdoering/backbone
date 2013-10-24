@@ -1,5 +1,4 @@
-Microcystis geminata SPECIES
-=======
+# Microcystis geminata SPECIES
 
 #### Status
 ACCEPTED

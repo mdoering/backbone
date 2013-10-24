@@ -1,5 +1,4 @@
-Uredo rhododendri-capitati Z.M. Cao & Z.Qi Li SPECIES
-=======
+# Uredo rhododendri-capitati Z.M. Cao & Z.Qi Li SPECIES
 
 #### Status
 ACCEPTED

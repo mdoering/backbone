@@ -1,14 +1,13 @@
-Coniochaetidium ostreum Malloch & Cain, 1971 SPECIES
-=======
+# Coniochaeta ostrea (Malloch & Cain) Dania García, Stchigel & Guarro, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 49(6): 879 (1971)
+in García, Stchigel, Cano, Calduch, Hawksworth & Guarro, Mycol. Res. 110(11): 1284 (2006)
 
 #### Original name
 Coniochaetidium ostreum Malloch & Cain, 1971

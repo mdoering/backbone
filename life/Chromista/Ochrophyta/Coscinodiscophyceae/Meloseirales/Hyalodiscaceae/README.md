@@ -1,5 +1,4 @@
-Hyalodiscaceae Crawford FAMILY
-=======
+# Hyalodiscaceae Crawford FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterographa littoralis Sipman & Sérus. SPECIES
-=======
+# Enterographa littoralis Sipman & Sérus. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe hylomeci H.D. Shin & Y.J. La SPECIES
-=======
+# Erysiphe hylomeci H.D. Shin & Y.J. La SPECIES
 
 #### Status
 ACCEPTED

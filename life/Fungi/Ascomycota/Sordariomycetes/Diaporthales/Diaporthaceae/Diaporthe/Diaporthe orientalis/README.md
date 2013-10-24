@@ -1,5 +1,4 @@
-Diaporthe orientalis Sacc. & Speg. SPECIES
-=======
+# Diaporthe orientalis Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

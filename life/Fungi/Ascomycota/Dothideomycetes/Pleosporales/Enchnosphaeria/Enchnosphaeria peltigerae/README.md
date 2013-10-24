@@ -1,5 +1,4 @@
-Enchnosphaeria peltigerae (Fuckel) Sacc. SPECIES
-=======
+# Enchnosphaeria peltigerae (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

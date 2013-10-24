@@ -1,5 +1,4 @@
-Vestergrenia globosa I. Hino & Katum. SPECIES
-=======
+# Vestergrenia globosa I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

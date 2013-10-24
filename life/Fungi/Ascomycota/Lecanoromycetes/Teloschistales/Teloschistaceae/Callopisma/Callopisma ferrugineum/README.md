@@ -1,5 +1,4 @@
-Callopisma ferrugineum SPECIES
-=======
+# Callopisma ferrugineum SPECIES
 
 #### Status
 ACCEPTED

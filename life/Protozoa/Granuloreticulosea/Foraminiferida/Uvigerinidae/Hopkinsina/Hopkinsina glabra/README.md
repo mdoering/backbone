@@ -1,5 +1,4 @@
-Hopkinsina glabra SPECIES
-=======
+# Hopkinsina glabra SPECIES
 
 #### Status
 ACCEPTED

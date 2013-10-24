@@ -1,5 +1,4 @@
-Septoria asperulae-taurinae Bubák SPECIES
-=======
+# Septoria asperulae-taurinae Bubák SPECIES
 
 #### Status
 ACCEPTED

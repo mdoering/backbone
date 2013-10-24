@@ -1,8 +1,7 @@
-Lepadolemma cinereo-virens (Eschw.) Trevis. SPECIES
-=======
+# Lepadolemma cinereovirens (Eschw.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

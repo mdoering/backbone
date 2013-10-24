@@ -1,5 +1,4 @@
-Cucurbitaria rosae G. Winter & Sacc. SPECIES
-=======
+# Cucurbitaria rosae G. Winter & Sacc. SPECIES
 
 #### Status
 ACCEPTED

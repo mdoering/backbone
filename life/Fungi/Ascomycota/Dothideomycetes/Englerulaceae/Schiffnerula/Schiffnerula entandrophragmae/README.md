@@ -1,5 +1,4 @@
-Schiffnerula entandrophragmae Hansf. SPECIES
-=======
+# Schiffnerula entandrophragmae Hansf. SPECIES
 
 #### Status
 ACCEPTED

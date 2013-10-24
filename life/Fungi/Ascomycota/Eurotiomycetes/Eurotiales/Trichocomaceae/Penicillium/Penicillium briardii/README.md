@@ -1,5 +1,4 @@
-Penicillium briardii Vuill. SPECIES
-=======
+# Penicillium briardii Vuill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia continua Lynge SPECIES
-=======
+# Parmelia continua Lynge SPECIES
 
 #### Status
 ACCEPTED

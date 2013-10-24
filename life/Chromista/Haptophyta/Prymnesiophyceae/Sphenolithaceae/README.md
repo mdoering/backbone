@@ -1,5 +1,4 @@
-Sphenolithaceae Deflandre, 1952 FAMILY
-=======
+# Sphenolithaceae Deflandre, 1952 FAMILY
 
 #### Status
 ACCEPTED

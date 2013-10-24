@@ -1,5 +1,4 @@
-Astrosporina exigua Cleland SPECIES
-=======
+# Astrosporina exigua Cleland SPECIES
 
 #### Status
 ACCEPTED

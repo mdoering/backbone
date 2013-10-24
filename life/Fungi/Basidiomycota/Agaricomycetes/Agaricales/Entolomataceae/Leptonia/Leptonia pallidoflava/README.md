@@ -1,5 +1,4 @@
-Leptonia pallidoflava Henn. & E. Nyman SPECIES
-=======
+# Leptonia pallidoflava Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

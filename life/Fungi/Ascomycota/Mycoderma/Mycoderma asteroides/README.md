@@ -1,5 +1,4 @@
-Mycoderma asteroides (Castell.) Brumpt SPECIES
-=======
+# Mycoderma asteroides (Castell.) Brumpt SPECIES
 
 #### Status
 ACCEPTED

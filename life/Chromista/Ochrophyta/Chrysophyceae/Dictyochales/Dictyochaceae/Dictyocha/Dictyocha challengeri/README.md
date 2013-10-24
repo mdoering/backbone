@@ -1,5 +1,4 @@
-Dictyocha challengeri E. Martini & C. Müller SPECIES
-=======
+# Dictyocha challengeri E. Martini & C. Müller SPECIES
 
 #### Status
 ACCEPTED

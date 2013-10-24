@@ -1,5 +1,4 @@
-Maronea rubiginosa (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Maronea rubiginosa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

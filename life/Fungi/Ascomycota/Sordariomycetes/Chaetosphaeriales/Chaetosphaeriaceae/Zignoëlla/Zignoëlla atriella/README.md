@@ -1,5 +1,4 @@
-Zignoëlla atriella (Cooke & Ellis) Sacc. SPECIES
-=======
+# Zignoëlla atriella (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia hastata Cooke SPECIES
-=======
+# Puccinia hastata Cooke SPECIES
 
 #### Status
 ACCEPTED

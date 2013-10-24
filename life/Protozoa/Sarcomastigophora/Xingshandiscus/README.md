@@ -1,5 +1,4 @@
-Xingshandiscus Zheng Hong, 1986 GENUS
-=======
+# Xingshandiscus Zheng Hong, 1986 GENUS
 
 #### Status
 ACCEPTED

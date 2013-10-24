@@ -1,5 +1,4 @@
-Clavulina bessonii (Pat.) Corner SPECIES
-=======
+# Clavulina bessonii (Pat.) Corner SPECIES
 
 #### Status
 ACCEPTED

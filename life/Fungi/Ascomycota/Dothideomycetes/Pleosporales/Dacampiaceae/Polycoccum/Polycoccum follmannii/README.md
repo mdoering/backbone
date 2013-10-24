@@ -1,5 +1,4 @@
-Polycoccum follmannii (C.W. Dodge) Alstrup SPECIES
-=======
+# Polycoccum follmannii (C.W. Dodge) Alstrup SPECIES
 
 #### Status
 ACCEPTED

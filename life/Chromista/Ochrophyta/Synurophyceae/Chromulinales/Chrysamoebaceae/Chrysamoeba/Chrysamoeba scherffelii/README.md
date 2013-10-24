@@ -1,5 +1,4 @@
-Chrysamoeba scherffelii (Pascher) Matv. SPECIES
-=======
+# Chrysamoeba scherffelii (Pascher) Matv. SPECIES
 
 #### Status
 ACCEPTED

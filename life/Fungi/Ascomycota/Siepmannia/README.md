@@ -1,5 +1,4 @@
-Siepmannia GENUS
-=======
+# Siepmannia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella sphaerospora Sacc. SPECIES
-=======
+# Psathyrella sphaerospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

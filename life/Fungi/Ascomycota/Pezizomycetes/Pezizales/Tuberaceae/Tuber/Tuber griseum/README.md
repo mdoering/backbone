@@ -1,5 +1,4 @@
-Tuber griseum Pers. SPECIES
-=======
+# Tuber griseum Pers. SPECIES
 
 #### Status
 ACCEPTED

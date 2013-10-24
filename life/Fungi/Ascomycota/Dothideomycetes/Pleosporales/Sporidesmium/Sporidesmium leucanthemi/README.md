@@ -1,5 +1,4 @@
-Sporidesmium leucanthemi Sandu SPECIES
-=======
+# Sporidesmium leucanthemi Sandu SPECIES
 
 #### Status
 ACCEPTED

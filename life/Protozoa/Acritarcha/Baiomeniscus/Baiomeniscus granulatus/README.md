@@ -1,5 +1,4 @@
-Baiomeniscus granulatus Loeblich, 1970 SPECIES
-=======
+# Baiomeniscus granulatus Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

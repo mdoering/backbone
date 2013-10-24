@@ -1,5 +1,4 @@
-Idriella rara R.F. Castañeda SPECIES
-=======
+# Idriella rara R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

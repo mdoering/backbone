@@ -1,5 +1,4 @@
-Gloeosporium ostryae Thüm. SPECIES
-=======
+# Gloeosporium ostryae Thüm. SPECIES
 
 #### Status
 ACCEPTED

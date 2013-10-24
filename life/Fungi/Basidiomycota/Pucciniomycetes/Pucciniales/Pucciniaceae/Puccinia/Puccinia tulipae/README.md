@@ -1,5 +1,4 @@
-Puccinia tulipae J. Schröt. SPECIES
-=======
+# Puccinia tulipae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

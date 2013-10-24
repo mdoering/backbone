@@ -1,5 +1,4 @@
-Synalissa lichinella Vain. SPECIES
-=======
+# Synalissa lichinella Vain. SPECIES
 
 #### Status
 ACCEPTED

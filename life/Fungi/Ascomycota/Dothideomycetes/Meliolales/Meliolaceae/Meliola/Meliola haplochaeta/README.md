@@ -1,5 +1,4 @@
-Meliola haplochaeta Syd. SPECIES
-=======
+# Meliola haplochaeta Syd. SPECIES
 
 #### Status
 ACCEPTED

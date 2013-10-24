@@ -1,5 +1,4 @@
-Endocoenobium eudorinae Ingold, 1940 SPECIES
-=======
+# Endocoenobium eudorinae Ingold, 1940 SPECIES
 
 #### Status
 ACCEPTED

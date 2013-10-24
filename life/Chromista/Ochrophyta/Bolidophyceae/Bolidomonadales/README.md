@@ -1,5 +1,4 @@
-Bolidomonadales L. Guillou & M.-J. Chrétiennot-Dinet ORDER
-=======
+# Bolidomonadales L. Guillou & M.-J. Chrétiennot-Dinet ORDER
 
 #### Status
 ACCEPTED

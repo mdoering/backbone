@@ -1,5 +1,4 @@
-Hymenoscyphus lividus (Mont.) Dennis SPECIES
-=======
+# Hymenoscyphus lividus (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

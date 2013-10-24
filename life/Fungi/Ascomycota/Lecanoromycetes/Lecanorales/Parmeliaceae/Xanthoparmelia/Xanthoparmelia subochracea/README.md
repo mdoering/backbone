@@ -1,5 +1,4 @@
-Xanthoparmelia subochracea Hale SPECIES
-=======
+# Xanthoparmelia subochracea Hale SPECIES
 
 #### Status
 ACCEPTED

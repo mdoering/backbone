@@ -1,5 +1,4 @@
-Thiocapsa GENUS
-=======
+# Thiocapsa GENUS
 
 #### Status
 ACCEPTED

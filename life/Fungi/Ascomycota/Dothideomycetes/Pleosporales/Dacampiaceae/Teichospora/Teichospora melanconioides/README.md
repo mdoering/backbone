@@ -1,5 +1,4 @@
-Teichospora melanconioides Rehm SPECIES
-=======
+# Teichospora melanconioides Rehm SPECIES
 
 #### Status
 ACCEPTED

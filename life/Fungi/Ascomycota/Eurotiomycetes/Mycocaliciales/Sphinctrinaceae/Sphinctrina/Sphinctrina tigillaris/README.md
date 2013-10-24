@@ -1,5 +1,4 @@
-Sphinctrina tigillaris Berk. & Broome SPECIES
-=======
+# Sphinctrina tigillaris Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

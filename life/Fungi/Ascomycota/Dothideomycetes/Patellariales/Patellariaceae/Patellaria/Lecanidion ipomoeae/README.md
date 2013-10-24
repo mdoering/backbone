@@ -1,5 +1,4 @@
-Lecanidion ipomoeae (R. Rao) P.N. Mathur, R.R. Jain & G.G. Saini SPECIES
-=======
+# Lecanidion ipomoeae (R. Rao) P.N. Mathur, R.R. Jain & G.G. Saini SPECIES
 
 #### Status
 ACCEPTED

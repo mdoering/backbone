@@ -1,5 +1,4 @@
-Frondicularia spathulata Williamson, 1858 SPECIES
-=======
+# Frondicularia spathulata Williamson, 1858 SPECIES
 
 #### Status
 ACCEPTED

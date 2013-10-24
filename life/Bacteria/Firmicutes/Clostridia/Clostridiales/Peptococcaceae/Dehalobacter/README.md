@@ -1,5 +1,4 @@
-Dehalobacter Holliger, Hahn, Harmsen, Ludwig, Schumacher, Tindall, Vazquez, Weiss & Zehnder, 1998 GENUS
-=======
+# Dehalobacter Holliger, Hahn, Harmsen, Ludwig, Schumacher, Tindall, Vazquez, Weiss & Zehnder, 1998 GENUS
 
 #### Status
 ACCEPTED

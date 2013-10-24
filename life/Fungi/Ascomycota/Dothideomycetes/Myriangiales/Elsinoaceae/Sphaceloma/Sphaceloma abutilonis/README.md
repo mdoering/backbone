@@ -1,5 +1,4 @@
-Sphaceloma abutilonis Bitanc. & Jenkins, 1951 SPECIES
-=======
+# Sphaceloma abutilonis Bitanc. & Jenkins, 1951 SPECIES
 
 #### Status
 ACCEPTED

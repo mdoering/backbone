@@ -1,5 +1,4 @@
-Pluteus albostipitatus (Dennis) Singer SPECIES
-=======
+# Pluteus albostipitatus (Dennis) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus pomiformis (Conrad) Pochmann SPECIES
-=======
+# Phacus pomiformis (Conrad) Pochmann SPECIES
 
 #### Status
 ACCEPTED

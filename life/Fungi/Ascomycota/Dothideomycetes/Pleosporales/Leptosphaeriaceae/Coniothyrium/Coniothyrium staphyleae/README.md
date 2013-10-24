@@ -1,5 +1,4 @@
-Coniothyrium staphyleae Peck SPECIES
-=======
+# Coniothyrium staphyleae Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma subpulverulentum (Pers.) P. Karst. SPECIES
-=======
+# Tricholoma subpulverulentum (Pers.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

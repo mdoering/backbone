@@ -1,5 +1,4 @@
-Umbilicaria viperina Llano SPECIES
-=======
+# Umbilicaria viperina Llano SPECIES
 
 #### Status
 ACCEPTED

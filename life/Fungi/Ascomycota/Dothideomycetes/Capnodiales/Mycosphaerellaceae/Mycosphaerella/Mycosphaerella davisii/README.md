@@ -1,5 +1,4 @@
-Mycosphaerella davisii F.R. Jones, 1944 SPECIES
-=======
+# Mycosphaerella davisii F.R. Jones, 1944 SPECIES
 
 #### Status
 ACCEPTED

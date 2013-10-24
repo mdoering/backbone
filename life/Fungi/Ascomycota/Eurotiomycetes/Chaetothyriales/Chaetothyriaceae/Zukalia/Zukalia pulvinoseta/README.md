@@ -1,5 +1,4 @@
-Zukalia pulvinoseta Starbäck SPECIES
-=======
+# Zukalia pulvinoseta Starbäck SPECIES
 
 #### Status
 ACCEPTED

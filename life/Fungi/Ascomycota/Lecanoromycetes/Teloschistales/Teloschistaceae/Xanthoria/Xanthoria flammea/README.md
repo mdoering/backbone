@@ -1,17 +1,16 @@
-Xanthoria flammea var. flammea VARIETY
-=======
+# Xanthoria flammea (L. f.) Hillmann SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Xanthoria flammea var. flammea
+Lichen flammeus L. f.
 
 ### Remarks
 null

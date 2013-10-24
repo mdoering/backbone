@@ -1,5 +1,4 @@
-Arthopyrenia excellens (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia excellens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scytosiphon percursus (C. Agardh) Wallroth SPECIES
-=======
+# Scytosiphon percursus (C. Agardh) Wallroth SPECIES
 
 #### Status
 ACCEPTED

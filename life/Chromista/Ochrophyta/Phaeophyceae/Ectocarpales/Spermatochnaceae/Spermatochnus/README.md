@@ -1,5 +1,4 @@
-Spermatochnus F.T. Kützing, 1843 GENUS
-=======
+# Spermatochnus F.T. Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

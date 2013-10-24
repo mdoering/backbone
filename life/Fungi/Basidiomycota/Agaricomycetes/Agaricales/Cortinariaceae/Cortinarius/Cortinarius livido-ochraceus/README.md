@@ -1,17 +1,16 @@
-Cortinarius elatior f. elatior FORM
-=======
+# Cortinarius livido-ochraceus (Berk.) Berk., 1860 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 274 (1838)
+Outl. Brit. Fung. (London) 186 (1860)
 
 #### Original name
-Cortinarius elatior f. elatior
+Agaricus livido-ochraceus Berk., 1836
 
 ### Remarks
 null

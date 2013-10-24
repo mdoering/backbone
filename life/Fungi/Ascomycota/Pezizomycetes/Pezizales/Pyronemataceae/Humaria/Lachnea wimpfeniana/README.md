@@ -1,5 +1,4 @@
-Lachnea wimpfeniana Bizz. SPECIES
-=======
+# Lachnea wimpfeniana Bizz. SPECIES
 
 #### Status
 ACCEPTED

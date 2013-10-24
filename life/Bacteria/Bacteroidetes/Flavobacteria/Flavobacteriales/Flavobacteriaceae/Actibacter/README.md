@@ -1,5 +1,4 @@
-Actibacter Kim, Kim, Hahm, Kim, Chun & Cha, 2008 GENUS
-=======
+# Actibacter Kim, Kim, Hahm, Kim, Chun & Cha, 2008 GENUS
 
 #### Status
 ACCEPTED

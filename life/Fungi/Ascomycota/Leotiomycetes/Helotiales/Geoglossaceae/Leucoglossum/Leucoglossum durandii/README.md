@@ -1,5 +1,4 @@
-Leucoglossum durandii (Teng) S. Imai, 1942 SPECIES
-=======
+# Leucoglossum durandii (Teng) S. Imai, 1942 SPECIES
 
 #### Status
 ACCEPTED

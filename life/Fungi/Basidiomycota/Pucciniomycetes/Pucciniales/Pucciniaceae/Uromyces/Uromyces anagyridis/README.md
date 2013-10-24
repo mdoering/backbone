@@ -1,17 +1,16 @@
-Caeomurus anagyridis (Roum.) Kuntze, 1898 SPECIES
-=======
+# Uromyces anagyridis Roum., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 449 (1898)
+Fungi Selecti Galliaei Exs. no. 743 (1880)
 
 #### Original name
-Uromyces anagyridis Roum., 1880
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pertusaria paraguayensis Müll. Arg. SPECIES
-=======
+# Pertusaria paraguayensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

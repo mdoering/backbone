@@ -1,5 +1,4 @@
-Linderiella xiningensis H.A. Wen SPECIES
-=======
+# Linderiella xiningensis H.A. Wen SPECIES
 
 #### Status
 ACCEPTED

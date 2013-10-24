@@ -1,5 +1,4 @@
-Usnea rimosa Motyka SPECIES
-=======
+# Usnea rimosa Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora subulata R. Sprague ex Chupp SPECIES
-=======
+# Cercospora subulata R. Sprague ex Chupp SPECIES
 
 #### Status
 ACCEPTED

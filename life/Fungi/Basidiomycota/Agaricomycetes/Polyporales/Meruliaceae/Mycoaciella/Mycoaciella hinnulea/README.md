@@ -1,14 +1,13 @@
-Odontia hinnulea Bres., 1920 SPECIES
-=======
+# Mycoaciella hinnulea (Bres.) Hjortstam & Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 18(1/3): 42 (1920)
+Mycotaxon 10(2): 281 (1980)
 
 #### Original name
 Odontia hinnulea Bres., 1920

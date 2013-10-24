@@ -1,5 +1,4 @@
-Chaetomium lanatum Quél. SPECIES
-=======
+# Chaetomium lanatum Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopus viridis Gray SPECIES
-=======
+# Gymnopus viridis Gray SPECIES
 
 #### Status
 ACCEPTED

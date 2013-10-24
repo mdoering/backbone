@@ -1,17 +1,16 @@
-Rosellinia pulveracea var. pulveracea VARIETY
-=======
+# Coniochaeta pulveracea (Ehrh.) Munk, 1948 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 149 (1870)
+Dansk bot. Ark. 12(no. 11): 9 (1948)
 
 #### Original name
-Rosellinia pulveracea var. pulveracea
+Sphaeria pulveracea Pers., 1801
 
 ### Remarks
 null

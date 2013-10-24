@@ -1,5 +1,4 @@
-Teichosporella denudata (Feltgen) Sacc. & D. Sacc. SPECIES
-=======
+# Teichosporella denudata (Feltgen) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces platysporus Speg. SPECIES
-=======
+# Uromyces platysporus Speg. SPECIES
 
 #### Status
 ACCEPTED

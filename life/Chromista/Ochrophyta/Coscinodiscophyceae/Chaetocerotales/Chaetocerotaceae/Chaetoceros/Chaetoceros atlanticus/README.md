@@ -1,11 +1,10 @@
-Chaetoceros atlanticus subsp. atlanticus SUBSPECIES
-=======
+# Chaetoceros atlanticus Cleve SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Integrated Taxonomic Information System
 
 #### Published in
 null

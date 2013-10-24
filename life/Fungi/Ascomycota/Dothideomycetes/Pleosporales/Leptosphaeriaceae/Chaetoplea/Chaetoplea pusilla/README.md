@@ -1,5 +1,4 @@
-Chaetoplea pusilla (P. Karst. & Malbr.) M.E. Barr SPECIES
-=======
+# Chaetoplea pusilla (P. Karst. & Malbr.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

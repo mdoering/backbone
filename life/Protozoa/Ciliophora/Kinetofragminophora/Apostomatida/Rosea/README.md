@@ -1,5 +1,4 @@
-Rosea de Puytorac, 1994 GENUS
-=======
+# Rosea de Puytorac, 1994 GENUS
 
 #### Status
 ACCEPTED

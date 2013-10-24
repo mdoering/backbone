@@ -1,5 +1,4 @@
-Lecanora cinnamomea (Th. Fr.) Nyl. SPECIES
-=======
+# Lecanora cinnamomea (Th. Fr.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

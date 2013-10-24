@@ -1,5 +1,4 @@
-Thermoanaerobacter ethanolicus Wiegel & Ljungdahl, 1982 SPECIES
-=======
+# Thermoanaerobacter ethanolicus Wiegel & Ljungdahl, 1982 SPECIES
 
 #### Status
 ACCEPTED

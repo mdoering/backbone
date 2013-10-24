@@ -1,5 +1,4 @@
-Dorothia inepta Collins, 1958 SPECIES
-=======
+# Dorothia inepta Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella kydiae A.K. Singh & Kamal SPECIES
-=======
+# Stenella kydiae A.K. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

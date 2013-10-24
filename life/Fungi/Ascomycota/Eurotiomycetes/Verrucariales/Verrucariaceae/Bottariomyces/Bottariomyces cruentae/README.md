@@ -1,5 +1,4 @@
-Bottariomyces cruentae Cif. & Tomas. SPECIES
-=======
+# Bottariomyces cruentae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora decipiens Ellis & Everh. SPECIES
-=======
+# Pleospora decipiens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

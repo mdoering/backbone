@@ -1,5 +1,4 @@
-Symphoricoccus stellaris SPECIES
-=======
+# Symphoricoccus stellaris SPECIES
 
 #### Status
 ACCEPTED

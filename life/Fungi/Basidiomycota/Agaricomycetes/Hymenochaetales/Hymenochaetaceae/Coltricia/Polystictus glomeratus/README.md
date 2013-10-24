@@ -1,5 +1,4 @@
-Polystictus glomeratus Peck SPECIES
-=======
+# Polystictus glomeratus Peck SPECIES
 
 #### Status
 ACCEPTED

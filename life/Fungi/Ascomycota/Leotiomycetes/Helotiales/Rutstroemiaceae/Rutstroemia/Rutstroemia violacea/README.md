@@ -1,5 +1,4 @@
-Rutstroemia violacea Rehm SPECIES
-=======
+# Rutstroemia violacea Rehm SPECIES
 
 #### Status
 ACCEPTED

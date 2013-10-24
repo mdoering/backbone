@@ -1,5 +1,4 @@
-Hypoxylon bothrinum (Berk. & Broome) P.M.D. Martin SPECIES
-=======
+# Hypoxylon bothrinum (Berk. & Broome) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

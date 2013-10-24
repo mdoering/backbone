@@ -1,5 +1,4 @@
-Asteridiella eucleae var. eucleae VARIETY
-=======
+# Asteridiella eucleae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 497 (1961)
 
 #### Original name
-Asteridiella eucleae var. eucleae
+Irenina eucleae Hansf.
 
 ### Remarks
 null

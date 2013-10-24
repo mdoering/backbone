@@ -1,5 +1,4 @@
-Priscogalea plenae Fanderflit in N. Umnova & Fanderflit, 1971 ex Aristova SPECIES
-=======
+# Priscogalea plenae Fanderflit in N. Umnova & Fanderflit, 1971 ex Aristova SPECIES
 
 #### Status
 ACCEPTED

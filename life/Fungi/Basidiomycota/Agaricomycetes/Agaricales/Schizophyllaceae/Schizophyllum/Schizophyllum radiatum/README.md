@@ -1,5 +1,4 @@
-Schizophyllum radiatum (Sw.) Fr., 1855 SPECIES
-=======
+# Schizophyllum radiatum (Sw.) Fr., 1855 SPECIES
 
 #### Status
 ACCEPTED

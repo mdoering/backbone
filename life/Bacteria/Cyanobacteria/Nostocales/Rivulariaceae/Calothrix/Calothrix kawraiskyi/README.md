@@ -1,5 +1,4 @@
-Calothrix kawraiskyi Schmidle SPECIES
-=======
+# Calothrix kawraiskyi Schmidle SPECIES
 
 #### Status
 ACCEPTED

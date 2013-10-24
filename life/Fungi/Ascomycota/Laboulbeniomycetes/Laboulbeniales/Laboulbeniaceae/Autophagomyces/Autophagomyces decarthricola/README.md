@@ -1,5 +1,4 @@
-Autophagomyces decarthricola Thaxt. SPECIES
-=======
+# Autophagomyces decarthricola Thaxt. SPECIES
 
 #### Status
 ACCEPTED

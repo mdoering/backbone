@@ -1,17 +1,16 @@
-Dirinaria robsoni C.W. Dodge SPECIES
-=======
+# Dirinaria robsonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 38: 185 (1971)
 
 #### Original name
-Dirinaria robsoni C.W. Dodge
+Dirinaria robsonii C.W. Dodge
 
 ### Remarks
 null

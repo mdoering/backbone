@@ -1,5 +1,4 @@
-Bolbitius tucumanensis Singer SPECIES
-=======
+# Bolbitius tucumanensis Singer SPECIES
 
 #### Status
 ACCEPTED

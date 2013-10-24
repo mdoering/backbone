@@ -1,5 +1,4 @@
-Barlaea subaurantiaca Massee SPECIES
-=======
+# Barlaea subaurantiaca Massee SPECIES
 
 #### Status
 ACCEPTED

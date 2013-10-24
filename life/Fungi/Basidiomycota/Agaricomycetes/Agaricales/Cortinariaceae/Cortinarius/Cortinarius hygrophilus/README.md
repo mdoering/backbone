@@ -1,5 +1,4 @@
-Cortinarius hygrophilus Bidaud, Fillion & Moënne-Locc. SPECIES
-=======
+# Cortinarius hygrophilus Bidaud, Fillion & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

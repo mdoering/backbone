@@ -1,5 +1,4 @@
-Parmelia cartilaginea Ach. SPECIES
-=======
+# Parmelia cartilaginea Ach. SPECIES
 
 #### Status
 ACCEPTED

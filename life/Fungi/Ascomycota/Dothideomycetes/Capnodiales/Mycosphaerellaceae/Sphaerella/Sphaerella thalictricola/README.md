@@ -1,5 +1,4 @@
-Sphaerella thalictricola Sacc. & P. Syd. SPECIES
-=======
+# Sphaerella thalictricola Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

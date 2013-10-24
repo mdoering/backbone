@@ -1,5 +1,4 @@
-Catillaria rengechina Zahlbr. SPECIES
-=======
+# Catillaria rengechina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia eumecospora Zschacke SPECIES
-=======
+# Polyblastia eumecospora Zschacke SPECIES
 
 #### Status
 ACCEPTED

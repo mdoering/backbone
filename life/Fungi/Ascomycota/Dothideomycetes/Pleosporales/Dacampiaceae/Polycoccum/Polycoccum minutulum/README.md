@@ -1,5 +1,4 @@
-Polycoccum minutulum Kocourk. & F. Berger SPECIES
-=======
+# Polycoccum minutulum Kocourk. & F. Berger SPECIES
 
 #### Status
 ACCEPTED

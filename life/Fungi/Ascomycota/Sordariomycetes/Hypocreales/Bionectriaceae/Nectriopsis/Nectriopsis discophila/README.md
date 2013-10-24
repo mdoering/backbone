@@ -1,5 +1,4 @@
-Nectriopsis discophila (Rogerson & Samuels) Samuels SPECIES
-=======
+# Nectriopsis discophila (Rogerson & Samuels) Samuels SPECIES
 
 #### Status
 ACCEPTED

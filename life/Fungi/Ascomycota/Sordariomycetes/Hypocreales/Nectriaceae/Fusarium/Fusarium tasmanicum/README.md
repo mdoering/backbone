@@ -1,14 +1,13 @@
-Fusarium tasmanica (McAlpine) Rossman SPECIES
-=======
+# Fusarium tasmanicum (McAlpine) Rossman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 150: 54 (1983)
 
 #### Original name
 Microcera tasmanica McAlpine

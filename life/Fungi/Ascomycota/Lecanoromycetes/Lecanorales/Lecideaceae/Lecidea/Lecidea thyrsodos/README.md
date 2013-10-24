@@ -1,5 +1,4 @@
-Lecidea thyrsodos SPECIES
-=======
+# Lecidea thyrsodos SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rozella allomycetes Nabel SPECIES
-=======
+# Rozella allomycetes Nabel SPECIES
 
 #### Status
 ACCEPTED

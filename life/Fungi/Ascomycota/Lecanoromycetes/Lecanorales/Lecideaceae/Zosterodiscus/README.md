@@ -1,5 +1,4 @@
-Zosterodiscus GENUS
-=======
+# Zosterodiscus GENUS
 
 #### Status
 ACCEPTED

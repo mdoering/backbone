@@ -1,5 +1,4 @@
-Pycnociliospora crescentiae Bat. & Taltasse SPECIES
-=======
+# Pycnociliospora crescentiae Bat. & Taltasse SPECIES
 
 #### Status
 ACCEPTED

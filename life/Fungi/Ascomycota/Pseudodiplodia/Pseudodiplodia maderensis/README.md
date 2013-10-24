@@ -1,5 +1,4 @@
-Pseudodiplodia maderensis (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia maderensis (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

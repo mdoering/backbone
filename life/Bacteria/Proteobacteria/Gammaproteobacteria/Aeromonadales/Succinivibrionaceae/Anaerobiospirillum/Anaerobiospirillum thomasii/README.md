@@ -1,5 +1,4 @@
-Anaerobiospirillum thomasii Malnick, 1997 SPECIES
-=======
+# Anaerobiospirillum thomasii Malnick, 1997 SPECIES
 
 #### Status
 ACCEPTED

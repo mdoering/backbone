@@ -1,17 +1,16 @@
-Inocybe scabella var. scabella VARIETY
-=======
+# Inocybe mixtilis (Britzelm.) Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 780 (1887)
 
 #### Original name
-Inocybe scabella var. scabella
+Agaricus mixtilis Britzelm., 1885
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Vorticella furcata Muller, 1773 SPECIES
-=======
+# Vorticella furcata Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

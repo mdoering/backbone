@@ -1,5 +1,4 @@
-Phoma longicruris Sacc. SPECIES
-=======
+# Phoma longicruris Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta chlianthi Tassi SPECIES
-=======
+# Ascochyta chlianthi Tassi SPECIES
 
 #### Status
 ACCEPTED

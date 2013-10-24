@@ -1,5 +1,4 @@
-Microsphaera ravenelii Berk. SPECIES
-=======
+# Microsphaera ravenelii Berk. SPECIES
 
 #### Status
 ACCEPTED

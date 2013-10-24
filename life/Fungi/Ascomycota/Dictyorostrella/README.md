@@ -1,5 +1,4 @@
-Dictyorostrella U. Braun GENUS
-=======
+# Dictyorostrella U. Braun GENUS
 
 #### Status
 ACCEPTED

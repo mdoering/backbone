@@ -1,5 +1,4 @@
-Polyporus spongiosus (Pers.) Fr. SPECIES
-=======
+# Polyporus spongiosus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

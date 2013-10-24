@@ -1,5 +1,4 @@
-Geotrichum pulmoneum (J.H. Benn.) Basgal SPECIES
-=======
+# Geotrichum pulmoneum (J.H. Benn.) Basgal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia dieramae P. Syd. & Syd. SPECIES
-=======
+# Puccinia dieramae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

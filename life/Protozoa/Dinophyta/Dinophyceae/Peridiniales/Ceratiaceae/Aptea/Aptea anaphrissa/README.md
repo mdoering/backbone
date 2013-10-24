@@ -1,5 +1,4 @@
-Aptea anaphrissa (W.A.S. Sarjeant) W.A.S. Sarjeant & L.E. Stover SPECIES
-=======
+# Aptea anaphrissa (W.A.S. Sarjeant) W.A.S. Sarjeant & L.E. Stover SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora gentianae (Peck) U. Braun & Crous SPECIES
-=======
+# Passalora gentianae (Peck) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

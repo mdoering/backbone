@@ -1,5 +1,4 @@
-Histopalla capillosa Playford in Playford & Dring, 1981 SPECIES
-=======
+# Histopalla capillosa Playford in Playford & Dring, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pratella edulis (Bull.) Gray SPECIES
-=======
+# Pratella edulis (Bull.) Gray SPECIES
 
 #### Status
 ACCEPTED

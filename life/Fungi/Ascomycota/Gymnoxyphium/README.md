@@ -1,5 +1,4 @@
-Gymnoxyphium Cif., Bat. & I.J. Araujo GENUS
-=======
+# Gymnoxyphium Cif., Bat. & I.J. Araujo GENUS
 
 #### Status
 ACCEPTED

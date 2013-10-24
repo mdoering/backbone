@@ -1,5 +1,4 @@
-Litonotus trichocystiferus Foissner, 1984 SPECIES
-=======
+# Litonotus trichocystiferus Foissner, 1984 SPECIES
 
 #### Status
 ACCEPTED

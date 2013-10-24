@@ -1,5 +1,4 @@
-Diploschistes thelenelloides Lumbsch & Aptroot SPECIES
-=======
+# Diploschistes thelenelloides Lumbsch & Aptroot SPECIES
 
 #### Status
 ACCEPTED

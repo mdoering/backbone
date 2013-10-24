@@ -1,5 +1,4 @@
-Genabea GENUS
-=======
+# Genabea GENUS
 
 #### Status
 ACCEPTED

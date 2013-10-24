@@ -1,5 +1,4 @@
-Camillea williamsii Lloyd SPECIES
-=======
+# Camillea williamsii Lloyd SPECIES
 
 #### Status
 ACCEPTED

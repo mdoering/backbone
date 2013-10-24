@@ -1,5 +1,4 @@
-Septoria coffeicola Henn. SPECIES
-=======
+# Septoria coffeicola Henn. SPECIES
 
 #### Status
 ACCEPTED

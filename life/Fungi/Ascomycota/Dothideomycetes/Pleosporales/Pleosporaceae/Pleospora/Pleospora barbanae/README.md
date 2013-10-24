@@ -1,5 +1,4 @@
-Pleospora barbanae Wallr. SPECIES
-=======
+# Pleospora barbanae Wallr. SPECIES
 
 #### Status
 ACCEPTED

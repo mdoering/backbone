@@ -1,5 +1,4 @@
-Corynespora cubensis Hol.-Jech. SPECIES
-=======
+# Corynespora cubensis Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

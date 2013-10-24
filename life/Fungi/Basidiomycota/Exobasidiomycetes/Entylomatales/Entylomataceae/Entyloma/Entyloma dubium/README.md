@@ -1,5 +1,4 @@
-Entyloma dubium Cif. SPECIES
-=======
+# Entyloma dubium Cif. SPECIES
 
 #### Status
 ACCEPTED

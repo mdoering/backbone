@@ -1,5 +1,4 @@
-Crepidotus echinosporus Henn. SPECIES
-=======
+# Crepidotus echinosporus Henn. SPECIES
 
 #### Status
 ACCEPTED

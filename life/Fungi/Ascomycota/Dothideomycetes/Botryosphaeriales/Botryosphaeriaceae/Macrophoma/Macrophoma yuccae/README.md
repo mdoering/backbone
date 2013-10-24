@@ -1,5 +1,4 @@
-Macrophoma yuccae Maffei SPECIES
-=======
+# Macrophoma yuccae Maffei SPECIES
 
 #### Status
 ACCEPTED

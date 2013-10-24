@@ -1,17 +1,16 @@
-Goidanichiomyces Cif. & Tomas. GENUS
-=======
+# Staurothele Norman, 1853 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 28, 56 (1953)
+null
 
 #### Original name
-Goidanichiomyces Cif. & Tomas.
+null
 
 ### Remarks
 null

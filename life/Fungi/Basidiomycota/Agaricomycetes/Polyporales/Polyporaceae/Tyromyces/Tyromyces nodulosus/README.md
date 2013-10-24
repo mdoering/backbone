@@ -1,5 +1,4 @@
-Tyromyces nodulosus Ryvarden SPECIES
-=======
+# Tyromyces nodulosus Ryvarden SPECIES
 
 #### Status
 ACCEPTED

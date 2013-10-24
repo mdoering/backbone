@@ -1,5 +1,4 @@
-Macrohyporia I. Johans. & Ryvarden GENUS
-=======
+# Macrohyporia I. Johans. & Ryvarden GENUS
 
 #### Status
 ACCEPTED

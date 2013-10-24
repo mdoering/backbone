@@ -1,5 +1,4 @@
-Squamarina oleosa (Zahlbr.) Poelt SPECIES
-=======
+# Squamarina oleosa (Zahlbr.) Poelt SPECIES
 
 #### Status
 ACCEPTED

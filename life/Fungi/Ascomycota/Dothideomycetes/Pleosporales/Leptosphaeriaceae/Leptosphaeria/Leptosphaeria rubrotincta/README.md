@@ -1,5 +1,4 @@
-Leptosphaeria rubrotincta Ellis & Everh. SPECIES
-=======
+# Leptosphaeria rubrotincta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

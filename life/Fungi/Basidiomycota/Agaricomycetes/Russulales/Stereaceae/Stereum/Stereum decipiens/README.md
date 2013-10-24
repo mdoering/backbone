@@ -1,5 +1,4 @@
-Stereum decipiens Berk. SPECIES
-=======
+# Stereum decipiens Berk. SPECIES
 
 #### Status
 ACCEPTED

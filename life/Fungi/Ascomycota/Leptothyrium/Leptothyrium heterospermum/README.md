@@ -1,5 +1,4 @@
-Leptothyrium heterospermum Speg. SPECIES
-=======
+# Leptothyrium heterospermum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma de Bary, 1874 GENUS
-=======
+# Entyloma de Bary, 1874 GENUS
 
 #### Status
 ACCEPTED

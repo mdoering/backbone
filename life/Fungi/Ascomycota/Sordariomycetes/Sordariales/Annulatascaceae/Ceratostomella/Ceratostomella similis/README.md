@@ -1,5 +1,4 @@
-Ceratostomella similis Kirschst. SPECIES
-=======
+# Ceratostomella similis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

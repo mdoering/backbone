@@ -1,5 +1,4 @@
-Ascochyta dorycnii (Petr.) P.K. Buchanan SPECIES
-=======
+# Ascochyta dorycnii (Petr.) P.K. Buchanan SPECIES
 
 #### Status
 ACCEPTED

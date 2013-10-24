@@ -1,14 +1,13 @@
-Agaricus sapidus Schulzer, 1873 SPECIES
-=======
+# Pleurotus sapidus (Schulzer) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icones selectae 1: 17 (1873)
+Syll. fung. (Abellini) 5: 348 (1887)
 
 #### Original name
 Agaricus sapidus Schulzer, 1873

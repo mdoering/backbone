@@ -1,5 +1,4 @@
-Rectispora reticulata J.I.R. Larsson SPECIES
-=======
+# Rectispora reticulata J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

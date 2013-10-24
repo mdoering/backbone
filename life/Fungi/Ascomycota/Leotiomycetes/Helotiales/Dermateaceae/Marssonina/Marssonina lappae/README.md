@@ -1,5 +1,4 @@
-Marssonina lappae (A.L. Sm. & Ramsb.) Grove SPECIES
-=======
+# Marssonina lappae (A.L. Sm. & Ramsb.) Grove SPECIES
 
 #### Status
 ACCEPTED

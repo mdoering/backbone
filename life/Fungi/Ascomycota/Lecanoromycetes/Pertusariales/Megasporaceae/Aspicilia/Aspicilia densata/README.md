@@ -1,5 +1,4 @@
-Aspicilia densata (H. Magn.) Motyka SPECIES
-=======
+# Aspicilia densata (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

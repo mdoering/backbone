@@ -1,5 +1,4 @@
-Thelotrema pachysporum Nyl. SPECIES
-=======
+# Thelotrema pachysporum Nyl. SPECIES
 
 #### Status
 ACCEPTED

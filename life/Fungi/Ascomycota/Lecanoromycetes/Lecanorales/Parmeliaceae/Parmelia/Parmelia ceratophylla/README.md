@@ -1,5 +1,4 @@
-Parmelia ceratophylla var. ceratophylla Schaer. VARIETY
-=======
+# Parmelia ceratophylla Schaer. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia ceratophylla var. ceratophylla Schaer.
+Parmelia ceratophylla Schaer.
 
 ### Remarks
 null

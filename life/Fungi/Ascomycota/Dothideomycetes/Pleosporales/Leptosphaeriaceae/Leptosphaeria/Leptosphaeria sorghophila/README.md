@@ -1,5 +1,4 @@
-Leptosphaeria sorghophila (Peck) Sacc. SPECIES
-=======
+# Leptosphaeria sorghophila (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerophyton dendrizans (Nyl.) Zahlbr. SPECIES
-=======
+# Sclerophyton dendrizans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

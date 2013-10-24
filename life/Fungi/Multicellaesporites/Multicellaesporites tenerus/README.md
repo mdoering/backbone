@@ -1,5 +1,4 @@
-Multicellaesporites tenerus P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites tenerus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glomus mortonii Bentiv. & Hetrick, 1991 SPECIES
-=======
+# Glomus mortonii Bentiv. & Hetrick, 1991 SPECIES
 
 #### Status
 ACCEPTED

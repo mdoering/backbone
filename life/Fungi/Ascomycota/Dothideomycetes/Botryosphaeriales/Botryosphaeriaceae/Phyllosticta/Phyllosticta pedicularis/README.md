@@ -1,17 +1,16 @@
-Phyllosticta pedicularidis Vasyag. SPECIES
-=======
+# Phyllosticta pedicularis Vasyag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+University of Wyoming Publ. Sci. , Bot. 14(4): 44 (1960)
 
 #### Original name
-Phyllosticta pedicularidis Vasyag.
+Phyllosticta pedicularis Vasyag.
 
 ### Remarks
 null

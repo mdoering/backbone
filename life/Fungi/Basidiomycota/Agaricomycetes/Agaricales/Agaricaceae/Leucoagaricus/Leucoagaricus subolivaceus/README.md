@@ -1,5 +1,4 @@
-Leucoagaricus subolivaceus Migl. & L. Perrone SPECIES
-=======
+# Leucoagaricus subolivaceus Migl. & L. Perrone SPECIES
 
 #### Status
 ACCEPTED

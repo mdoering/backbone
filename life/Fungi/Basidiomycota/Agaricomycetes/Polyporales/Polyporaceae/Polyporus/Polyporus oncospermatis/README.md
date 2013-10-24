@@ -1,5 +1,4 @@
-Polyporus oncospermatis (Corner) T. Hatt. SPECIES
-=======
+# Polyporus oncospermatis (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

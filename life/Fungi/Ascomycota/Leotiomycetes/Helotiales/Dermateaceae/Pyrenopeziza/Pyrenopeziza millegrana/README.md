@@ -1,14 +1,13 @@
-Mollisia millegrana (Boud.) Nannf., 1932 SPECIES
-=======
+# Pyrenopeziza millegrana Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 4 8(2): 127 (1932)
+Hist. Class. Discom. Eur. (Paris) 133 (1907)
 
 #### Original name
 Pyrenopeziza millegrana Boud., 1907

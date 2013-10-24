@@ -1,5 +1,4 @@
-Ectocarpus sargassiphyllus Noda SPECIES
-=======
+# Ectocarpus sargassiphyllus Noda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monochaetia elaeocarpi Y.X. Chen & G. Wei SPECIES
-=======
+# Monochaetia elaeocarpi Y.X. Chen & G. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia imponens (Stizenb.) Zahlbr. SPECIES
-=======
+# Blastenia imponens (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella laxipes Dumas, 1930 SPECIES
-=======
+# Vorticella laxipes Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

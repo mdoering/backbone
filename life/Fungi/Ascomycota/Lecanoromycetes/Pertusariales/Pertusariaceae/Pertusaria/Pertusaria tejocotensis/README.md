@@ -1,5 +1,4 @@
-Pertusaria tejocotensis B. de Lesd. SPECIES
-=======
+# Pertusaria tejocotensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

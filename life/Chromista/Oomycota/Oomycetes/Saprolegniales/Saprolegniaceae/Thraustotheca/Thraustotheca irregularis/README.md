@@ -1,5 +1,4 @@
-Thraustotheca irregularis Coker & M.W. Ward, 1939 SPECIES
-=======
+# Thraustotheca irregularis Coker & M.W. Ward, 1939 SPECIES
 
 #### Status
 ACCEPTED

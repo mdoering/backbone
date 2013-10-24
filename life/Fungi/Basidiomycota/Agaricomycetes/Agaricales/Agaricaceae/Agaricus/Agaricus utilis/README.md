@@ -1,5 +1,4 @@
-Agaricus utilis Weinm. SPECIES
-=======
+# Agaricus utilis Weinm. SPECIES
 
 #### Status
 ACCEPTED

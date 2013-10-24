@@ -1,5 +1,4 @@
-Trichosporon veenhuisii Middelhoven, Scorzetti & Fell SPECIES
-=======
+# Trichosporon veenhuisii Middelhoven, Scorzetti & Fell SPECIES
 
 #### Status
 ACCEPTED

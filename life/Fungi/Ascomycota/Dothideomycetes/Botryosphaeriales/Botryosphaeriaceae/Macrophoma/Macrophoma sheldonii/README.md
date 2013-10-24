@@ -1,8 +1,7 @@
-Macrophoma sheldoni Rodigin SPECIES
-=======
+# Macrophoma sheldonii Rodigin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Macrophoma sheldoni Rodigin
+Macrophoma sheldonii Rodigin
 
 ### Remarks
 null

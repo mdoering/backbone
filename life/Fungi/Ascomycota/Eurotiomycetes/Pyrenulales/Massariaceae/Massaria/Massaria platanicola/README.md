@@ -1,5 +1,4 @@
-Massaria platanicola Nitschke SPECIES
-=======
+# Massaria platanicola Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fayodia fallax Raithelh. SPECIES
-=======
+# Fayodia fallax Raithelh. SPECIES
 
 #### Status
 ACCEPTED

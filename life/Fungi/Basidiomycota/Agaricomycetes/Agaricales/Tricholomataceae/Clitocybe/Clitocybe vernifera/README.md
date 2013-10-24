@@ -1,5 +1,4 @@
-Clitocybe vernifera (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe vernifera (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

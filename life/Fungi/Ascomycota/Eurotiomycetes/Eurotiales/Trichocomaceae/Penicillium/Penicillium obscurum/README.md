@@ -1,5 +1,4 @@
-Penicillium obscurum Biourge SPECIES
-=======
+# Penicillium obscurum Biourge SPECIES
 
 #### Status
 ACCEPTED

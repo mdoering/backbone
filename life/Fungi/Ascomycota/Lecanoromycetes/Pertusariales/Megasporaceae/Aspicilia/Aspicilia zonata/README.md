@@ -1,5 +1,4 @@
-Aspicilia zonata (Ach.) R. Sant. SPECIES
-=======
+# Aspicilia zonata (Ach.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Curreya bambusicola Speg. SPECIES
-=======
+# Curreya bambusicola Speg. SPECIES
 
 #### Status
 ACCEPTED

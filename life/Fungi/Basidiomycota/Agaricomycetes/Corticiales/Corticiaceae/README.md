@@ -1,5 +1,4 @@
-Corticiaceae Herter FAMILY
-=======
+# Corticiaceae Herter FAMILY
 
 #### Status
 ACCEPTED

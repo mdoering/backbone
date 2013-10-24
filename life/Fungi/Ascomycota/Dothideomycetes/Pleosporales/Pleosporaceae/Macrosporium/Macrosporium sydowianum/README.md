@@ -1,5 +1,4 @@
-Macrosporium sydowianum Farneti SPECIES
-=======
+# Macrosporium sydowianum Farneti SPECIES
 
 #### Status
 ACCEPTED

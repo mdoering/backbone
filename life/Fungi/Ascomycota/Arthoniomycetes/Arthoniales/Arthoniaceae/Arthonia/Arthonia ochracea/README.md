@@ -1,5 +1,4 @@
-Arthonia ochracea Dufour SPECIES
-=======
+# Arthonia ochracea Dufour SPECIES
 
 #### Status
 ACCEPTED

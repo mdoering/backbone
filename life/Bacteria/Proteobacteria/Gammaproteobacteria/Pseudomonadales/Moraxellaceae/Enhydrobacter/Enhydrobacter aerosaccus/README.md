@@ -1,5 +1,4 @@
-Enhydrobacter aerosaccus Staley et al., 1987 SPECIES
-=======
+# Enhydrobacter aerosaccus Staley et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

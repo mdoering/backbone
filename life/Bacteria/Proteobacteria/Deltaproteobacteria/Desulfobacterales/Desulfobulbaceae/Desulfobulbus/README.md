@@ -1,5 +1,4 @@
-Desulfobulbus Widdel, 1981 GENUS
-=======
+# Desulfobulbus Widdel, 1981 GENUS
 
 #### Status
 ACCEPTED

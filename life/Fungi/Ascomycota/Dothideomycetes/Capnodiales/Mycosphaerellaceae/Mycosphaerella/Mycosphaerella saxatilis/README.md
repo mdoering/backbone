@@ -1,5 +1,4 @@
-Mycosphaerella saxatilis (J. Schröt.) Tomilin SPECIES
-=======
+# Mycosphaerella saxatilis (J. Schröt.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

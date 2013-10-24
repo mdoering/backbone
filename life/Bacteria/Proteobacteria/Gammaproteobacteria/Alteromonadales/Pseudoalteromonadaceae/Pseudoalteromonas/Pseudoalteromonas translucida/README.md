@@ -1,5 +1,4 @@
-Pseudoalteromonas translucida Ivanova et al., 2002 SPECIES
-=======
+# Pseudoalteromonas translucida Ivanova et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

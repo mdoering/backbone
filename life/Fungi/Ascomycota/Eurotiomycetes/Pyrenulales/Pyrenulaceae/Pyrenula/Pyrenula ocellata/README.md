@@ -1,5 +1,4 @@
-Pyrenula ocellata (Leight.) Zahlbr. SPECIES
-=======
+# Pyrenula ocellata (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

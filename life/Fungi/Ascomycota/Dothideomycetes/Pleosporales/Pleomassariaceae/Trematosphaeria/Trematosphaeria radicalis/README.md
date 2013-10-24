@@ -1,5 +1,4 @@
-Trematosphaeria radicalis Tóth SPECIES
-=======
+# Trematosphaeria radicalis Tóth SPECIES
 
 #### Status
 ACCEPTED

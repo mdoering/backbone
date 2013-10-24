@@ -1,5 +1,4 @@
-Marasmius sulcatus Velen. SPECIES
-=======
+# Marasmius sulcatus Velen. SPECIES
 
 #### Status
 ACCEPTED

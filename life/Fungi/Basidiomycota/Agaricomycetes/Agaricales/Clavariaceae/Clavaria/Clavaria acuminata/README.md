@@ -1,5 +1,4 @@
-Clavaria acuminata (Fuckel) SPECIES
-=======
+# Clavaria acuminata (Fuckel) SPECIES
 
 #### Status
 ACCEPTED

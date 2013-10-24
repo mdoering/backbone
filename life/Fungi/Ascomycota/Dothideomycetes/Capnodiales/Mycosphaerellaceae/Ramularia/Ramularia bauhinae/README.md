@@ -1,5 +1,4 @@
-Ramularia bauhinae Ellis & Everh. SPECIES
-=======
+# Ramularia bauhinae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

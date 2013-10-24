@@ -1,5 +1,4 @@
-Alternaria nicotiana J.L. Cheng SPECIES
-=======
+# Alternaria nicotiana J.L. Cheng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma hibisci Hollós SPECIES
-=======
+# Phoma hibisci Hollós SPECIES
 
 #### Status
 ACCEPTED

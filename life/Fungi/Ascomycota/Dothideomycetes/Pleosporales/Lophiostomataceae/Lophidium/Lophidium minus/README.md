@@ -1,5 +1,4 @@
-Lophidium minus Ellis SPECIES
-=======
+# Lophidium minus Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysomyxa menziesiae Dietel SPECIES
-=======
+# Chrysomyxa menziesiae Dietel SPECIES
 
 #### Status
 ACCEPTED

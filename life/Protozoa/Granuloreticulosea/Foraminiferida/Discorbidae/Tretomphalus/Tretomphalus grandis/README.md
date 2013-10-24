@@ -1,5 +1,4 @@
-Tretomphalus grandis Cushman, 1934 SPECIES
-=======
+# Tretomphalus grandis Cushman, 1934 SPECIES
 
 #### Status
 ACCEPTED

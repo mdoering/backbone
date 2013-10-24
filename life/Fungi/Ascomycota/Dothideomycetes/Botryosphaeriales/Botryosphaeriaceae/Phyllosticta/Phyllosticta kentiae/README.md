@@ -1,5 +1,4 @@
-Phyllosticta kentiae Unamuno SPECIES
-=======
+# Phyllosticta kentiae Unamuno SPECIES
 
 #### Status
 ACCEPTED

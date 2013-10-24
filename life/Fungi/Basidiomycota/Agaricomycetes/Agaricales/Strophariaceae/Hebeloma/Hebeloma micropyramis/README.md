@@ -1,5 +1,4 @@
-Hebeloma micropyramis Berk. & Broome SPECIES
-=======
+# Hebeloma micropyramis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

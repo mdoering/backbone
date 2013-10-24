@@ -1,17 +1,16 @@
-Asterinella mimusopsidis Doidge SPECIES
-=======
+# Asterinella mimusopis Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 1(2): 80 (1922)
 
 #### Original name
-Asterinella mimusopsidis Doidge
+Asterinella mimusopis Doidge
 
 ### Remarks
 null

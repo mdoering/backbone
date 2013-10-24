@@ -1,5 +1,4 @@
-Microthelia vermicularia Linds. SPECIES
-=======
+# Microthelia vermicularia Linds. SPECIES
 
 #### Status
 ACCEPTED

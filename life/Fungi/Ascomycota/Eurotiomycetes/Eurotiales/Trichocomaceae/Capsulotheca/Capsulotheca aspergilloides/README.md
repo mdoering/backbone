@@ -1,5 +1,4 @@
-Capsulotheca aspergilloides Kamyschko, 1960 SPECIES
-=======
+# Capsulotheca aspergilloides Kamyschko, 1960 SPECIES
 
 #### Status
 ACCEPTED

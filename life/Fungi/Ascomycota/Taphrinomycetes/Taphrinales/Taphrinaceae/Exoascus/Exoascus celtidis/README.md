@@ -1,5 +1,4 @@
-Exoascus celtidis (Sadeb.) Sacc. SPECIES
-=======
+# Exoascus celtidis (Sadeb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

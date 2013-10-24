@@ -1,5 +1,4 @@
-Mycena alborubella (Mont.) Sacc. SPECIES
-=======
+# Mycena alborubella (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

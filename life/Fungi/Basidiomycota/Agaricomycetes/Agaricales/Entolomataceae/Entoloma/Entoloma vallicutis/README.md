@@ -1,5 +1,4 @@
-Entoloma vallicutis (Pegler) Courtec. SPECIES
-=======
+# Entoloma vallicutis (Pegler) Courtec. SPECIES
 
 #### Status
 ACCEPTED

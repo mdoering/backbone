@@ -1,14 +1,13 @@
-Phoma opuntiae Boerema, Gruyter & Noordel., 1995 SPECIES
-=======
+# Phoma opuntiicola Boerema, Gruyter & Noordel., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 16(1): 131 (1995)
+Anal. Mus. nac. Hist. nat. B. Aires 6: 316 (1899)
 
 #### Original name
 Phoma opuntiicola Boerema, Gruyter & Noordel., 1992

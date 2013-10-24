@@ -1,5 +1,4 @@
-Thelenella saxicola (Müll. Arg.) Vain. SPECIES
-=======
+# Thelenella saxicola (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

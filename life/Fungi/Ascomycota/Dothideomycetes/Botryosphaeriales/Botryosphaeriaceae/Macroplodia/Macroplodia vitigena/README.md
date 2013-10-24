@@ -1,5 +1,4 @@
-Macroplodia vitigena (Ellis & Everh.) Kuntze SPECIES
-=======
+# Macroplodia vitigena (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Terana flammans (Fr.) Kuntze SPECIES
-=======
+# Terana flammans (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

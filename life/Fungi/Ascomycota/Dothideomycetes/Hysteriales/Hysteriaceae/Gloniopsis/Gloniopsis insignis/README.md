@@ -1,5 +1,4 @@
-Gloniopsis insignis (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Gloniopsis insignis (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

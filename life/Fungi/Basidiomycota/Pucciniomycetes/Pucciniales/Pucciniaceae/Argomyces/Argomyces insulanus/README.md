@@ -1,5 +1,4 @@
-Argomyces insulanus Arthur SPECIES
-=======
+# Argomyces insulanus Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meristosporum ambiguum SPECIES
-=======
+# Meristosporum ambiguum SPECIES
 
 #### Status
 ACCEPTED

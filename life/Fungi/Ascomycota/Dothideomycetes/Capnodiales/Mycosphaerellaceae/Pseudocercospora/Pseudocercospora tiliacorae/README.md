@@ -1,5 +1,4 @@
-Pseudocercospora tiliacorae (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora tiliacorae (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

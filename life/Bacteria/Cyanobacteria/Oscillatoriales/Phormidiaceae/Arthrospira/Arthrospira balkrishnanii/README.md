@@ -1,5 +1,4 @@
-Arthrospira balkrishnanii N. D. Kamat SPECIES
-=======
+# Arthrospira balkrishnanii N. D. Kamat SPECIES
 
 #### Status
 ACCEPTED

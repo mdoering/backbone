@@ -1,5 +1,4 @@
-Macroplodia moricola (Ellis & Everh.) Kuntze SPECIES
-=======
+# Macroplodia moricola (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

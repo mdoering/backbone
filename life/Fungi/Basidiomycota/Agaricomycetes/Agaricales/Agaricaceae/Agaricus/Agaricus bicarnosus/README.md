@@ -1,5 +1,4 @@
-Agaricus bicarnosus Schumach. SPECIES
-=======
+# Agaricus bicarnosus Schumach. SPECIES
 
 #### Status
 ACCEPTED

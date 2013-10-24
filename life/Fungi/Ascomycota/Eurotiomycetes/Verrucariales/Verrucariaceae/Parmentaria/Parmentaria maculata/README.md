@@ -1,5 +1,4 @@
-Parmentaria maculata Makhija & Patw. SPECIES
-=======
+# Parmentaria maculata Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

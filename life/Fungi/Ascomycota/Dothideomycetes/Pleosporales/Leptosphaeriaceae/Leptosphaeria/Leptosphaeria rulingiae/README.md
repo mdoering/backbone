@@ -1,5 +1,4 @@
-Leptosphaeria rulingiae Tassi SPECIES
-=======
+# Leptosphaeria rulingiae Tassi SPECIES
 
 #### Status
 ACCEPTED

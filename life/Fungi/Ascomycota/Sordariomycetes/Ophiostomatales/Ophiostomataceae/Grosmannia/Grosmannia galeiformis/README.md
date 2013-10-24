@@ -1,14 +1,13 @@
-Ceratocystis galeiformis B.K. Bakshi, 1951 SPECIES
-=======
+# Grosmannia galeiformis (B.K. Bakshi) Zipfel, Z.W. de Beer & M.J. Wingf., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 35: 13 (1951)
+in Zipfel, Beer, Jacobs, Wingfield & Wingfield, Stud. Mycol. 55: 90 (2006)
 
 #### Original name
 Ceratocystis galeiformis B.K. Bakshi, 1951

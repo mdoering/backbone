@@ -1,5 +1,4 @@
-Sagedia anisospora Müll. Arg. SPECIES
-=======
+# Sagedia anisospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

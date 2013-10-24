@@ -1,5 +1,4 @@
-Naucoria nucea (Bolton) Sacc. SPECIES
-=======
+# Naucoria nucea (Bolton) Sacc. SPECIES
 
 #### Status
 ACCEPTED

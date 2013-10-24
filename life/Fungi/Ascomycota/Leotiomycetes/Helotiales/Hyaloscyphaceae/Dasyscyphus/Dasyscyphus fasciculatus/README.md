@@ -1,17 +1,16 @@
-Dasyscypha fasciculatus Seaver & Waterston SPECIES
-=======
+# Dasyscyphus fasciculatus Seaver & Waterston SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 32: 397 (1940)
 
 #### Original name
-Dasyscypha fasciculatus Seaver & Waterston
+Dasyscyphus fasciculatus Seaver & Waterston
 
 ### Remarks
 null

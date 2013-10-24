@@ -1,5 +1,4 @@
-Mycena sudora (Fr.) Gillet SPECIES
-=======
+# Mycena sudora (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

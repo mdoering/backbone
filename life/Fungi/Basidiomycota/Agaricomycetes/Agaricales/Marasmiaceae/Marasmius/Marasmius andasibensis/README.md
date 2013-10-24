@@ -1,5 +1,4 @@
-Marasmius andasibensis var. andasibensis VARIETY
-=======
+# Marasmius andasibensis Antonín & Buyck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fungal Diversity 23: 21 (2006)
 
 #### Original name
-Marasmius andasibensis var. andasibensis
+Marasmius andasibensis Antonín & Buyck
 
 ### Remarks
 null

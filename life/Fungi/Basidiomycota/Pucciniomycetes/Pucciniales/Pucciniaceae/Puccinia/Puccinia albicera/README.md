@@ -1,5 +1,4 @@
-Puccinia albicera H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia albicera H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

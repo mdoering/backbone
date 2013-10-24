@@ -1,5 +1,4 @@
-Cytospora rhizophorae Kohlm. & E. Kohlm., 1971 SPECIES
-=======
+# Cytospora rhizophorae Kohlm. & E. Kohlm., 1971 SPECIES
 
 #### Status
 ACCEPTED

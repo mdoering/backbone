@@ -1,5 +1,4 @@
-Thyridium quilmense Speg. SPECIES
-=======
+# Thyridium quilmense Speg. SPECIES
 
 #### Status
 ACCEPTED

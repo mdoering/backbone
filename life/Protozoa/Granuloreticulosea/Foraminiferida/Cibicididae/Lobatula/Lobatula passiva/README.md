@@ -1,5 +1,4 @@
-Lobatula passiva Saidova, 1975 SPECIES
-=======
+# Lobatula passiva Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

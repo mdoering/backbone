@@ -1,5 +1,4 @@
-Encephalographomyces cerebrinae Cif. & Tomas. SPECIES
-=======
+# Encephalographomyces cerebrinae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

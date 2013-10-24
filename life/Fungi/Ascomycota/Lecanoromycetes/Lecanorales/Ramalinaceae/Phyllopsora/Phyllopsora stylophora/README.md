@@ -1,5 +1,4 @@
-Phyllopsora stylophora (Malme) Gotth. Schneid. SPECIES
-=======
+# Phyllopsora stylophora (Malme) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

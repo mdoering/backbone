@@ -1,5 +1,4 @@
-Lecidella herteliana Knoph & Leuckert SPECIES
-=======
+# Lecidella herteliana Knoph & Leuckert SPECIES
 
 #### Status
 ACCEPTED

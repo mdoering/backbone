@@ -1,5 +1,4 @@
-Entoloma subplicatum Hesler SPECIES
-=======
+# Entoloma subplicatum Hesler SPECIES
 
 #### Status
 ACCEPTED

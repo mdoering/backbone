@@ -1,5 +1,4 @@
-Acanthometron elastricum SPECIES
-=======
+# Acanthometron elastricum SPECIES
 
 #### Status
 ACCEPTED

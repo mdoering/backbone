@@ -1,5 +1,4 @@
-Verticillium tadzhikistanicum Osmol. & Zlotina SPECIES
-=======
+# Verticillium tadzhikistanicum Osmol. & Zlotina SPECIES
 
 #### Status
 ACCEPTED

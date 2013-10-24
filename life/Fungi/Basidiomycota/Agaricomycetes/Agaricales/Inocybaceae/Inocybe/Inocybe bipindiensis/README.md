@@ -1,5 +1,4 @@
-Inocybe bipindiensis Henn. SPECIES
-=======
+# Inocybe bipindiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

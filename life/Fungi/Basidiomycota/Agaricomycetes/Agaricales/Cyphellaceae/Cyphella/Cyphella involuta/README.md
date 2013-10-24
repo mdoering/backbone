@@ -1,5 +1,4 @@
-Cyphella involuta Pilát SPECIES
-=======
+# Cyphella involuta Pilát SPECIES
 
 #### Status
 ACCEPTED

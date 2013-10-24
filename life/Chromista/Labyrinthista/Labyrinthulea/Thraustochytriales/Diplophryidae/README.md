@@ -1,5 +1,4 @@
-Diplophryidae FAMILY
-=======
+# Diplophryidae FAMILY
 
 #### Status
 ACCEPTED

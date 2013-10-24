@@ -1,17 +1,16 @@
-Saprolegnia diclina var. numerosa Cejp VARIETY
-=======
+# Saprolegnia diclina Humphrey, 1892 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Am. phil. Soc. 17: 13 (1892)
 
 #### Original name
-Saprolegnia diclina var. numerosa Cejp
+Saprolegnia diclina Humphrey, 1892
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bacteriosira H.H. Gran, 1900 GENUS
-=======
+# Bacteriosira H.H. Gran, 1900 GENUS
 
 #### Status
 ACCEPTED

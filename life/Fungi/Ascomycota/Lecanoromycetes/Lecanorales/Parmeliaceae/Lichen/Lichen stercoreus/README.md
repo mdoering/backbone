@@ -1,5 +1,4 @@
-Lichen stercoreus Schrank SPECIES
-=======
+# Lichen stercoreus Schrank SPECIES
 
 #### Status
 ACCEPTED

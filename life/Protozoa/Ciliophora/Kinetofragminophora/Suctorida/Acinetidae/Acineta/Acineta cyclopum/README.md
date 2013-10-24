@@ -1,5 +1,4 @@
-Acineta cyclopum Stein, 1859 SPECIES
-=======
+# Acineta cyclopum Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

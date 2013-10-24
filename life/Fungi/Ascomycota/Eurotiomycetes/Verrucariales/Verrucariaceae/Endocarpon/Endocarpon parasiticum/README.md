@@ -1,5 +1,4 @@
-Endocarpon parasiticum Ach. SPECIES
-=======
+# Endocarpon parasiticum Ach. SPECIES
 
 #### Status
 ACCEPTED

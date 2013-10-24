@@ -1,5 +1,4 @@
-Hyalotia GENUS
-=======
+# Hyalotia GENUS
 
 #### Status
 ACCEPTED

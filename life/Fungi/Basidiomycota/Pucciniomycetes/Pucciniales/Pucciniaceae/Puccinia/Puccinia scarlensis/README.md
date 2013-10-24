@@ -1,5 +1,4 @@
-Puccinia scarlensis Gäum. SPECIES
-=======
+# Puccinia scarlensis Gäum. SPECIES
 
 #### Status
 ACCEPTED

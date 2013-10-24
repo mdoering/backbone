@@ -1,5 +1,4 @@
-Calothrix rhizosoleniae Lemmermann SPECIES
-=======
+# Calothrix rhizosoleniae Lemmermann SPECIES
 
 #### Status
 ACCEPTED

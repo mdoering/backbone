@@ -1,5 +1,4 @@
-Oxytricha ovalis Kahl, 1932 SPECIES
-=======
+# Oxytricha ovalis Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

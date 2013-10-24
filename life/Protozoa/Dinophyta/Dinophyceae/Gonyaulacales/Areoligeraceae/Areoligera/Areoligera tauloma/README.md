@@ -1,5 +1,4 @@
-Areoligera tauloma Eaton, 1976 SPECIES
-=======
+# Areoligera tauloma Eaton, 1976 SPECIES
 
 #### Status
 ACCEPTED

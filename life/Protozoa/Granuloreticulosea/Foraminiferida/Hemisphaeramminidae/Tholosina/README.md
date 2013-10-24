@@ -1,5 +1,4 @@
-Tholosina Rhumbler, 1895 GENUS
-=======
+# Tholosina Rhumbler, 1895 GENUS
 
 #### Status
 ACCEPTED

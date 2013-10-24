@@ -1,5 +1,4 @@
-Marasmiellus foetidum Singer SPECIES
-=======
+# Marasmiellus foetidum Singer SPECIES
 
 #### Status
 ACCEPTED

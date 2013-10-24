@@ -1,5 +1,4 @@
-Rigidomastix Alexeieff, 1929 GENUS
-=======
+# Rigidomastix Alexeieff, 1929 GENUS
 
 #### Status
 ACCEPTED

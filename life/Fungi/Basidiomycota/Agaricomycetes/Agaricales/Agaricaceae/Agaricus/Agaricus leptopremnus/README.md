@@ -1,5 +1,4 @@
-Agaricus leptopremnus Holmsk. SPECIES
-=======
+# Agaricus leptopremnus Holmsk. SPECIES
 
 #### Status
 ACCEPTED

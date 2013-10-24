@@ -1,5 +1,4 @@
-Gymnodinium linguliferum Lebour SPECIES
-=======
+# Gymnodinium linguliferum Lebour SPECIES
 
 #### Status
 ACCEPTED

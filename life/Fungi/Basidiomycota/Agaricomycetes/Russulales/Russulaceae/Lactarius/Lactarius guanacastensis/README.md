@@ -1,5 +1,4 @@
-Lactarius guanacastensis Singer SPECIES
-=======
+# Lactarius guanacastensis Singer SPECIES
 
 #### Status
 ACCEPTED

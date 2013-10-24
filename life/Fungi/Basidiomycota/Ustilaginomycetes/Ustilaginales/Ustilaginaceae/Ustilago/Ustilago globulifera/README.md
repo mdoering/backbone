@@ -1,5 +1,4 @@
-Ustilago globulifera Sacc. & Trotter SPECIES
-=======
+# Ustilago globulifera Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flagelloscypha abruptiflagellata Agerer, 1975 SPECIES
-=======
+# Flagelloscypha abruptiflagellata Agerer, 1975 SPECIES
 
 #### Status
 ACCEPTED

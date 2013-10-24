@@ -1,5 +1,4 @@
-Lambertella corni Höhn. SPECIES
-=======
+# Lambertella corni Höhn. SPECIES
 
 #### Status
 ACCEPTED

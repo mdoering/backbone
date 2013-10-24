@@ -1,5 +1,4 @@
-Tulostoma andrejevianum Philimonova & Schwarzman SPECIES
-=======
+# Tulostoma andrejevianum Philimonova & Schwarzman SPECIES
 
 #### Status
 ACCEPTED

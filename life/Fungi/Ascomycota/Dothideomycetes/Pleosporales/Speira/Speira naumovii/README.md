@@ -1,5 +1,4 @@
-Speira naumovii Girz. SPECIES
-=======
+# Speira naumovii Girz. SPECIES
 
 #### Status
 ACCEPTED

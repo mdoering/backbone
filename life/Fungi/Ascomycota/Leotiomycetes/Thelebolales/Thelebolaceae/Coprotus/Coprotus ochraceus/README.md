@@ -1,17 +1,16 @@
-Ascophanus ochraceus var. ochraceus VARIETY
-=======
+# Coprotus ochraceus (P. Crouan & H. Crouan) Kar. Larsen, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 5 10: 247 (1869)
+Bot. Tidsskr. 66(1-2): 21 (1971)
 
 #### Original name
-Ascophanus ochraceus var. ochraceus
+Ascobolus ochraceus P. Crouan & H. Crouan, 1867
 
 ### Remarks
 null

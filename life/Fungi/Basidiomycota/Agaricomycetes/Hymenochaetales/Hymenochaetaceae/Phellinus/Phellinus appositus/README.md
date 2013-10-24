@@ -1,14 +1,13 @@
-Poria apposita (Lév.) Sacc., 1888 SPECIES
-=======
+# Phellinus appositus (Lév.) Pat., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 326 (1888)
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 97 (1900)
 
 #### Original name
 Polyporus appositus Lév., 1846

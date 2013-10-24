@@ -1,5 +1,4 @@
-Calenia albonigra Zahlbr. SPECIES
-=======
+# Calenia albonigra Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

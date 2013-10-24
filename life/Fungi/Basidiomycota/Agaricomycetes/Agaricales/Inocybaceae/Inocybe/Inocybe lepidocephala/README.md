@@ -1,5 +1,4 @@
-Inocybe lepidocephala Speg. SPECIES
-=======
+# Inocybe lepidocephala Speg. SPECIES
 
 #### Status
 ACCEPTED

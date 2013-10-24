@@ -1,5 +1,4 @@
-Cistella polytrichi (Velen.) Gamundí & Spinedi SPECIES
-=======
+# Cistella polytrichi (Velen.) Gamundí & Spinedi SPECIES
 
 #### Status
 ACCEPTED

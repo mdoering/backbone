@@ -1,5 +1,4 @@
-Rhynchostoma beccariarum Pass. SPECIES
-=======
+# Rhynchostoma beccariarum Pass. SPECIES
 
 #### Status
 ACCEPTED

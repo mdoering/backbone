@@ -1,17 +1,16 @@
-Lactarius castanopsis Hongo SPECIES
-=======
+# Lactarius castanopsidis Hongo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Jap. Bot. 54: 307 (1979)
 
 #### Original name
-Lactarius castanopsis Hongo
+Lactarius castanopsidis Hongo
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sporidesmium nanii W.P. Wu SPECIES
-=======
+# Sporidesmium nanii W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

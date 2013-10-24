@@ -1,5 +1,4 @@
-Dothiorella myricariae Cooke & Massee SPECIES
-=======
+# Dothiorella myricariae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus firmus Frost SPECIES
-=======
+# Boletus firmus Frost SPECIES
 
 #### Status
 ACCEPTED

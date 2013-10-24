@@ -1,5 +1,4 @@
-Trypethelium umbilicatum Fr. SPECIES
-=======
+# Trypethelium umbilicatum Fr. SPECIES
 
 #### Status
 ACCEPTED

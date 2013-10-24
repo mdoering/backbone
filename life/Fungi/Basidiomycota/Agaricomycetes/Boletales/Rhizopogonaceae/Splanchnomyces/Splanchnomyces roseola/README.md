@@ -1,5 +1,4 @@
-Splanchnomyces roseola Corda SPECIES
-=======
+# Splanchnomyces roseola Corda SPECIES
 
 #### Status
 ACCEPTED

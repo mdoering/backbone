@@ -1,5 +1,4 @@
-Pucciniastrum pseudocerasi (Hirats. f.) Jørst. SPECIES
-=======
+# Pucciniastrum pseudocerasi (Hirats. f.) Jørst. SPECIES
 
 #### Status
 ACCEPTED

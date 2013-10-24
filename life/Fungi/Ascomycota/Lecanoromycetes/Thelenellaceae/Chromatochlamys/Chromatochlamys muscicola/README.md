@@ -1,5 +1,4 @@
-Chromatochlamys muscicola (Ach.) Trevis. SPECIES
-=======
+# Chromatochlamys muscicola (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

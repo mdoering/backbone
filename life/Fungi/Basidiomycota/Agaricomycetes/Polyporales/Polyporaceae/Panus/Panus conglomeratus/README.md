@@ -1,5 +1,4 @@
-Panus conglomeratus Lloyd SPECIES
-=======
+# Panus conglomeratus Lloyd SPECIES
 
 #### Status
 ACCEPTED

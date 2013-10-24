@@ -1,5 +1,4 @@
-Tubercularia nomuriana Sacc. SPECIES
-=======
+# Tubercularia nomuriana Sacc. SPECIES
 
 #### Status
 ACCEPTED

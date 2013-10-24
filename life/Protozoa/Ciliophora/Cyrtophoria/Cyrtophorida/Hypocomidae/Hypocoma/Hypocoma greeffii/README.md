@@ -1,5 +1,4 @@
-Hypocoma greeffii Plate, 1888 SPECIES
-=======
+# Hypocoma greeffii Plate, 1888 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe flammans (Berk.) A.M. Young SPECIES
-=======
+# Hygrocybe flammans (Berk.) A.M. Young SPECIES
 
 #### Status
 ACCEPTED

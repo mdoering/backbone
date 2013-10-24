@@ -1,8 +1,7 @@
-Exobasidium leucothoes Henn. SPECIES
-=======
+# Exobasidium leucothoës Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Exobasidium leucothoes Henn.
+Exobasidium leucothoës Henn.
 
 ### Remarks
 null

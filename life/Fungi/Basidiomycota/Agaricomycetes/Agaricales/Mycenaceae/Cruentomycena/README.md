@@ -1,5 +1,4 @@
-Cruentomycena R.H. Petersen, Kovalenko & O.V. Morozova GENUS
-=======
+# Cruentomycena R.H. Petersen, Kovalenko & O.V. Morozova GENUS
 
 #### Status
 ACCEPTED

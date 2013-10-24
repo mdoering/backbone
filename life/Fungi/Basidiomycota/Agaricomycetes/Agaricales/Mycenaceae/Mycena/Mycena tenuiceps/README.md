@@ -1,5 +1,4 @@
-Mycena tenuiceps A.H. Sm. SPECIES
-=======
+# Mycena tenuiceps A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

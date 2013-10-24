@@ -1,5 +1,4 @@
-Ascochyta pyricola Sacc., 1875 SPECIES
-=======
+# Ascochyta pyricola Sacc., 1875 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paxillus viridis Berk. SPECIES
-=======
+# Paxillus viridis Berk. SPECIES
 
 #### Status
 ACCEPTED

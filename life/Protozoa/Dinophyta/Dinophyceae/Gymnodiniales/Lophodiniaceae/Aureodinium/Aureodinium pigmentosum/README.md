@@ -1,8 +1,7 @@
-Gymnodinium pigmentosum (Dodge) Loeblich SPECIES
-=======
+# Aureodinium pigmentosum Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

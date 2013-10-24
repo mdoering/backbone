@@ -1,5 +1,4 @@
-Stereocaulon wrightii Tuck. SPECIES
-=======
+# Stereocaulon wrightii Tuck. SPECIES
 
 #### Status
 ACCEPTED

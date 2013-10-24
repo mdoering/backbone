@@ -1,5 +1,4 @@
-Erinella novae-zelandiae Massee SPECIES
-=======
+# Erinella novae-zelandiae Massee SPECIES
 
 #### Status
 ACCEPTED

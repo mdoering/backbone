@@ -1,5 +1,4 @@
-Leucopaxillus baeospermus Kühner SPECIES
-=======
+# Leucopaxillus baeospermus Kühner SPECIES
 
 #### Status
 ACCEPTED

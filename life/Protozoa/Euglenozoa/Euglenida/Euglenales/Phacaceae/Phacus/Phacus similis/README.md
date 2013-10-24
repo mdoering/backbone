@@ -1,5 +1,4 @@
-Phacus similis Christen SPECIES
-=======
+# Phacus similis Christen SPECIES
 
 #### Status
 ACCEPTED

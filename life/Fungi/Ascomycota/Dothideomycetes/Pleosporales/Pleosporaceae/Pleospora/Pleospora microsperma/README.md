@@ -1,5 +1,4 @@
-Pleospora microsperma Sacc. SPECIES
-=======
+# Pleospora microsperma Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dichothrix willei Gardner SPECIES
-=======
+# Dichothrix willei Gardner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Urceolaria endochlora Hook. f. & Taylor SPECIES
-=======
+# Aspicilia endochlora (Hook. f. & Taylor) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

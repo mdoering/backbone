@@ -1,5 +1,4 @@
-Parmotrema catarinae Hale SPECIES
-=======
+# Parmotrema catarinae Hale SPECIES
 
 #### Status
 ACCEPTED

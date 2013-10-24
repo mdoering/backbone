@@ -1,5 +1,4 @@
-Planulina mera SPECIES
-=======
+# Planulina mera SPECIES
 
 #### Status
 ACCEPTED

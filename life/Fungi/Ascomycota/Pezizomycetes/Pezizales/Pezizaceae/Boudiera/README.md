@@ -1,17 +1,16 @@
-Svrcekia Kubicka GENUS
-=======
+# Boudiera Cooke, 1877 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 14: 218 (1960)
+Grevillea 6(no. 38): 76 (1877)
 
 #### Original name
-Svrcekia Kubicka
+Boudiera Cooke, 1877
 
 ### Remarks
 null

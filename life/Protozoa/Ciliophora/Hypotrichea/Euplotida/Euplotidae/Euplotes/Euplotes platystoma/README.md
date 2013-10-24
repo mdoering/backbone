@@ -1,5 +1,4 @@
-Euplotes platystoma Dragesco & Dragesco-Kernéis, 1986 SPECIES
-=======
+# Euplotes platystoma Dragesco & Dragesco-Kernéis, 1986 SPECIES
 
 #### Status
 ACCEPTED

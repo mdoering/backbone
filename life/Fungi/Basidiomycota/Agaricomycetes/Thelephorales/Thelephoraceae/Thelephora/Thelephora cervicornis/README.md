@@ -1,5 +1,4 @@
-Thelephora cervicornis Corner, 1968 SPECIES
-=======
+# Thelephora cervicornis Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

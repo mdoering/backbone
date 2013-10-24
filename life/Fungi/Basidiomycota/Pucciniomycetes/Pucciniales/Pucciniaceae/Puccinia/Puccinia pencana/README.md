@@ -1,5 +1,4 @@
-Puccinia pencana P. Syd. & Syd. SPECIES
-=======
+# Puccinia pencana P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

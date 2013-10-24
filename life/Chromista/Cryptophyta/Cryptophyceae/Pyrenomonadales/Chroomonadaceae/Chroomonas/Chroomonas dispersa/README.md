@@ -1,5 +1,4 @@
-Chroomonas dispersa Butcher SPECIES
-=======
+# Chroomonas dispersa Butcher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Schizonella cocconi (Morini) Liro SPECIES
-=======
+# Schizonella cocconii (Morini) Liro, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ustilagineen Finnlands 2: 52 (1938)
 
 #### Original name
 Tolyposporium cocconii Morini, 1884

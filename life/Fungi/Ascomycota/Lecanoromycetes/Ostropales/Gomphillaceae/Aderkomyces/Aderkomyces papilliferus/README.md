@@ -1,14 +1,13 @@
-Tricharia papillifera Lücking SPECIES
-=======
+# Aderkomyces papilliferus (Lücking) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 65: 85 (1997)
+Lichenologist 37(2): 162 (2005)
 
 #### Original name
 Tricharia papillifera Lücking

@@ -1,5 +1,4 @@
-Metasphaeria sublanosa (Cooke) Sacc. SPECIES
-=======
+# Metasphaeria sublanosa (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

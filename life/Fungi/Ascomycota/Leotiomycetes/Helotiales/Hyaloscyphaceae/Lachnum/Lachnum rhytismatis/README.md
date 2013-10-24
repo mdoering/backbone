@@ -1,17 +1,16 @@
-Erinella minutissima Sacc., 1889 SPECIES
-=======
+# Lachnum rhytismatis (W. Phillips) Nannf., 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 23: 242 (1939)
 
 #### Original name
-Sphaeria minutissima P. Crouan & H. Crouan, 1867
+null
 
 ### Remarks
 null

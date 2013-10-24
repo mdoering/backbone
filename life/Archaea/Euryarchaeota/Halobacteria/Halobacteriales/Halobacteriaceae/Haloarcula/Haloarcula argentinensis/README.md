@@ -1,5 +1,4 @@
-Haloarcula argentinensis Ihara et al., 1997 SPECIES
-=======
+# Haloarcula argentinensis Ihara et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

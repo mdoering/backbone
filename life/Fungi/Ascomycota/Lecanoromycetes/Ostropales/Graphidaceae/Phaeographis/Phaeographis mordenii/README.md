@@ -1,5 +1,4 @@
-Phaeographis mordenii M. Wirth & Hale SPECIES
-=======
+# Phaeographis mordenii M. Wirth & Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diploschistes arenarius (Schaer.) Müll. Arg. SPECIES
-=======
+# Diploschistes arenarius (Schaer.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

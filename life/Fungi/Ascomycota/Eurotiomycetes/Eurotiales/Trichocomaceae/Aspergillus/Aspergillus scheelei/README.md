@@ -1,17 +1,16 @@
-Aspergillus scheelii Bainier & Sartory SPECIES
-=======
+# Aspergillus scheelei Bainier & Sartory SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 28: 257 (1912)
 
 #### Original name
-Aspergillus scheelii Bainier & Sartory
+Aspergillus scheelei Bainier & Sartory
 
 ### Remarks
 null

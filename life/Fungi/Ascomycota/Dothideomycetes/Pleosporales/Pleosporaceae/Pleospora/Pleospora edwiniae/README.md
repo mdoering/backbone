@@ -1,5 +1,4 @@
-Pleospora edwiniae Clem. SPECIES
-=======
+# Pleospora edwiniae Clem. SPECIES
 
 #### Status
 ACCEPTED

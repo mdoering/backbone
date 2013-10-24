@@ -1,5 +1,4 @@
-Filaspora succisae (Fautrey & P. Karst.) Kuntze SPECIES
-=======
+# Filaspora succisae (Fautrey & P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Steirochaete lussoniensis Sacc. SPECIES
-=======
+# Steirochaete lussoniensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

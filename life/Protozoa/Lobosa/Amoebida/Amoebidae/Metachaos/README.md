@@ -1,5 +1,4 @@
-Metachaos Schaeffer, 1926 GENUS
-=======
+# Metachaos Schaeffer, 1926 GENUS
 
 #### Status
 ACCEPTED

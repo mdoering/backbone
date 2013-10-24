@@ -1,5 +1,4 @@
-Poria tacamahacae D.V. Baxter SPECIES
-=======
+# Poria tacamahacae D.V. Baxter SPECIES
 
 #### Status
 ACCEPTED

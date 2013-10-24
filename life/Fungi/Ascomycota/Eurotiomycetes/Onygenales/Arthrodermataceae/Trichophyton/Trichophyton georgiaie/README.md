@@ -1,5 +1,4 @@
-Trichophyton georgiaie Varsavsky & Ajello SPECIES
-=======
+# Trichophyton georgiaie Varsavsky & Ajello SPECIES
 
 #### Status
 ACCEPTED

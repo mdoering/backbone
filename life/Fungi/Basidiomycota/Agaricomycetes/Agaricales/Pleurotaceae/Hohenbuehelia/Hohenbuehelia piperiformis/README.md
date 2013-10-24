@@ -1,5 +1,4 @@
-Hohenbuehelia piperiformis Lib.-Barnes SPECIES
-=======
+# Hohenbuehelia piperiformis Lib.-Barnes SPECIES
 
 #### Status
 ACCEPTED

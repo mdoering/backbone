@@ -1,5 +1,4 @@
-Septoria lamentana B. Sutton & Pascoe SPECIES
-=======
+# Septoria lamentana B. Sutton & Pascoe SPECIES
 
 #### Status
 ACCEPTED

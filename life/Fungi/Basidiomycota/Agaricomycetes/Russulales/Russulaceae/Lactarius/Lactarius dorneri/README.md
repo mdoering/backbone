@@ -1,5 +1,4 @@
-Lactarius dorneri Schulzer SPECIES
-=======
+# Lactarius dorneri Schulzer SPECIES
 
 #### Status
 ACCEPTED

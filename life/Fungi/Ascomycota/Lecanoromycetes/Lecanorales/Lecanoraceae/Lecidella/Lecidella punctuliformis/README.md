@@ -1,5 +1,4 @@
-Lecidella punctuliformis (Nyl.) Kalb SPECIES
-=======
+# Lecidella punctuliformis (Nyl.) Kalb SPECIES
 
 #### Status
 ACCEPTED

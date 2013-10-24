@@ -1,5 +1,4 @@
-Corticium chartaceum Pat. SPECIES
-=======
+# Corticium chartaceum Pat. SPECIES
 
 #### Status
 ACCEPTED

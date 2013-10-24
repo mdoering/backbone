@@ -1,5 +1,4 @@
-Uromyces giganteus var. giganteus VARIETY
-=======
+# Uromyces giganteus Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Decades Mycologicae Italicae no. 30 (1879)
 
 #### Original name
-Uromyces giganteus var. giganteus
+Uromyces giganteus Speg.
 
 ### Remarks
 null

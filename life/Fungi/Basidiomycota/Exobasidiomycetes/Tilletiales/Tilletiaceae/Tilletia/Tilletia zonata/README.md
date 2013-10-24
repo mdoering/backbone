@@ -1,5 +1,4 @@
-Tilletia zonata Bref. SPECIES
-=======
+# Tilletia zonata Bref. SPECIES
 
 #### Status
 ACCEPTED

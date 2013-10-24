@@ -1,5 +1,4 @@
-Ainsworthia psidii Bat., J.L. Bezerra & Poroca SPECIES
-=======
+# Ainsworthia psidii Bat., J.L. Bezerra & Poroca SPECIES
 
 #### Status
 ACCEPTED

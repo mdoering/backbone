@@ -1,5 +1,4 @@
-Hapalopilus hispidulus (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Hapalopilus hispidulus (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

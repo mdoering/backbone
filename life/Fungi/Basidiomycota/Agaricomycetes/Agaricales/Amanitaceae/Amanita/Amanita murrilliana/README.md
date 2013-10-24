@@ -1,5 +1,4 @@
-Amanita murrilliana Singer SPECIES
-=======
+# Amanita murrilliana Singer SPECIES
 
 #### Status
 ACCEPTED

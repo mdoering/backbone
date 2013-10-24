@@ -1,5 +1,4 @@
-Marasmius hydropodoides Singer SPECIES
-=======
+# Marasmius hydropodoides Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypogymnia wattiana (Müll. Arg.) D.D. Awasthi SPECIES
-=======
+# Hypogymnia wattiana (Müll. Arg.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

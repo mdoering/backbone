@@ -1,17 +1,16 @@
-Hebeloma cylindrosporum f. pseudoradicatum (Bon) Migl. FORM
-=======
+# Hebeloma cylindrosporum Romagn., 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bollettino dell'Associazione Micologica ed Ecologica Romana 4(no. 10): 29 (1987)
+Bull. trimest. Soc. mycol. Fr. 81: 328 (1965)
 
 #### Original name
-Hebeloma cylindrosporum var. pseudoradicatum Bon
+Hebeloma cylindrosporum Romagn., 1965
 
 ### Remarks
 null

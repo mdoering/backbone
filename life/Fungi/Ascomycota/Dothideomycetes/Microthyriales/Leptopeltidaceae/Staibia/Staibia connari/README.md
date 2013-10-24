@@ -1,5 +1,4 @@
-Staibia connari Bat. & Peres, 1966 SPECIES
-=======
+# Staibia connari Bat. & Peres, 1966 SPECIES
 
 #### Status
 ACCEPTED

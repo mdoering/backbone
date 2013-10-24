@@ -1,5 +1,4 @@
-Ophiobolus sajanycus Petr. SPECIES
-=======
+# Ophiobolus sajanycus Petr. SPECIES
 
 #### Status
 ACCEPTED

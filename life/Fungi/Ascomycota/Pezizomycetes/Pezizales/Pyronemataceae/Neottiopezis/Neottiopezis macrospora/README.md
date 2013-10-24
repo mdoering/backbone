@@ -1,5 +1,4 @@
-Neottiopezis macrospora Clem. SPECIES
-=======
+# Neottiopezis macrospora Clem. SPECIES
 
 #### Status
 ACCEPTED

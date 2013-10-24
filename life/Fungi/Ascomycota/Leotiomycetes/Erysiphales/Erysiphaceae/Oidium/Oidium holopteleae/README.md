@@ -1,17 +1,16 @@
-Oidium holopteliae Srinivasulu, Bagyan. & C. Ramesh SPECIES
-=======
+# Oidium holopteleae Srinivasulu, Bagyan. & C. Ramesh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bagyanarayana, Srinivasulu & Ramesh, Indian Phytopath. 56(1): 94 (2003)
 
 #### Original name
-Oidium holopteliae Srinivasulu, Bagyan. & C. Ramesh
+Oidium holopteleae Srinivasulu, Bagyan. & C. Ramesh
 
 ### Remarks
 null

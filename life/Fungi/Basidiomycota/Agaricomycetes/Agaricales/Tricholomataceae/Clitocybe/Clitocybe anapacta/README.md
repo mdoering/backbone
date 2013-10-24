@@ -1,5 +1,4 @@
-Clitocybe anapacta (Letell.) Sacc. SPECIES
-=======
+# Clitocybe anapacta (Letell.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diomedella Hertel, 1984 GENUS
-=======
+# Diomedella Hertel, 1984 GENUS
 
 #### Status
 ACCEPTED

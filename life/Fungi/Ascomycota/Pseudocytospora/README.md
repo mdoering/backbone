@@ -1,5 +1,4 @@
-Pseudocytospora Petr. GENUS
-=======
+# Pseudocytospora Petr. GENUS
 
 #### Status
 ACCEPTED

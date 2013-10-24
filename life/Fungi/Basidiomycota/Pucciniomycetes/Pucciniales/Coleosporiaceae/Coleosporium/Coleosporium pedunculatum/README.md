@@ -1,5 +1,4 @@
-Coleosporium pedunculatum S. Kaneko SPECIES
-=======
+# Coleosporium pedunculatum S. Kaneko SPECIES
 
 #### Status
 ACCEPTED

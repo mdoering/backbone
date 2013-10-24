@@ -1,5 +1,4 @@
-Mediolia Haman, 1988 GENUS
-=======
+# Mediolia Haman, 1988 GENUS
 
 #### Status
 ACCEPTED

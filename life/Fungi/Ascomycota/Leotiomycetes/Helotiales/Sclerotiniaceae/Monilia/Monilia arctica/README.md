@@ -1,5 +1,4 @@
-Monilia arctica P. Karst. SPECIES
-=======
+# Monilia arctica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

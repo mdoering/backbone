@@ -1,11 +1,10 @@
-Mycena camptophylla (Berk.) Singer, 1962 SPECIES
-=======
+# Mycena speirea (Fr. Fr.) Gillet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

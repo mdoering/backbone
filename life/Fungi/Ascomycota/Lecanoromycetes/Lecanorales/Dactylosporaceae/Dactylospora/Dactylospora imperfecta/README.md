@@ -1,5 +1,4 @@
-Dactylospora imperfecta var. imperfecta VARIETY
-=======
+# Dactylospora imperfecta (Ellis) Hafellner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Nova Hedwigia 62: 114 (1979)
 
 #### Original name
-Dactylospora imperfecta var. imperfecta
+null
 
 ### Remarks
 null

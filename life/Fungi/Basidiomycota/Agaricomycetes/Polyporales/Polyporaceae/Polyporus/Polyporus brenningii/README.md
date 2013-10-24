@@ -1,5 +1,4 @@
-Polyporus brenningii Henn. SPECIES
-=======
+# Polyporus brenningii Henn. SPECIES
 
 #### Status
 ACCEPTED

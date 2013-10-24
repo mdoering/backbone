@@ -1,5 +1,4 @@
-Graphis angustata var. angustata VARIETY
-=======
+# Graphis angustata Eschw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in von Martius, Fl. Bras. 1(1): 73 (1833)
 
 #### Original name
-Graphis angustata var. angustata
+Graphis angustata Eschw.
 
 ### Remarks
 null

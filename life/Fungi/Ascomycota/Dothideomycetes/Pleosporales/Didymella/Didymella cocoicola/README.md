@@ -1,5 +1,4 @@
-Didymella cocoicola Bat. & A.F. Vital SPECIES
-=======
+# Didymella cocoicola Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

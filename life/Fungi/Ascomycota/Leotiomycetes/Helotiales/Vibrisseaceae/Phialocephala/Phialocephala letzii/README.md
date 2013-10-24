@@ -1,5 +1,4 @@
-Phialocephala letzii Grünig & T.N. Sieber SPECIES
-=======
+# Phialocephala letzii Grünig & T.N. Sieber SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon papuanum I.M. Lamb SPECIES
-=======
+# Stereocaulon papuanum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia obillifera (Almq.) Willey SPECIES
-=======
+# Arthonia obillifera (Almq.) Willey SPECIES
 
 #### Status
 ACCEPTED

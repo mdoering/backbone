@@ -1,5 +1,4 @@
-Anthostoma eterio (Berk. & Broome) Sacc. SPECIES
-=======
+# Anthostoma eterio (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsporum tomentosum Pelagatti {?} SPECIES
-=======
+# Microsporum tomentosum Pelagatti {?} SPECIES
 
 #### Status
 ACCEPTED

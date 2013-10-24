@@ -1,5 +1,4 @@
-Lycoperdon multifidum Retzd. {?} SPECIES
-=======
+# Lycoperdon multifidum Retzd. {?} SPECIES
 
 #### Status
 ACCEPTED

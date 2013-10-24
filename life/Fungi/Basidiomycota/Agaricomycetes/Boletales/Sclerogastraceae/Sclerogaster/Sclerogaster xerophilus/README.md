@@ -1,5 +1,4 @@
-Sclerogaster xerophilus Fogel, 1977 SPECIES
-=======
+# Sclerogaster xerophilus Fogel, 1977 SPECIES
 
 #### Status
 ACCEPTED

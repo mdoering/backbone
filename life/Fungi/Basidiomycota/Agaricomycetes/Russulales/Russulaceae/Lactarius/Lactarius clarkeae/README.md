@@ -1,17 +1,16 @@
-Lactarius clarkeae var. aurantiorubra McNabb VARIETY
-=======
+# Lactarius clarkeae Cleland, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. & Proc. Roy. Soc. S. Australia 51: 302 (1927)
 
 #### Original name
-Lactarius clarkeae var. aurantiorubra McNabb
+Lactarius clarkeae Cleland, 1927
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lopadium poeppigianum SPECIES
-=======
+# Lopadium poeppigianum SPECIES
 
 #### Status
 ACCEPTED

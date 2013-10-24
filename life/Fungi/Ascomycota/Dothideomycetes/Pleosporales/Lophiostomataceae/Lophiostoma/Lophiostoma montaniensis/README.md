@@ -1,5 +1,4 @@
-Lophiostoma montaniensis Ellis SPECIES
-=======
+# Lophiostoma montaniensis Ellis SPECIES
 
 #### Status
 ACCEPTED

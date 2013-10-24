@@ -1,5 +1,4 @@
-Colletotrichum gossypinum Edgerton SPECIES
-=======
+# Colletotrichum gossypinum Edgerton SPECIES
 
 #### Status
 ACCEPTED

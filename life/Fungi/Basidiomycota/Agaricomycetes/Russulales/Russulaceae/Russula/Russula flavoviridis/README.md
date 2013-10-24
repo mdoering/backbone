@@ -1,5 +1,4 @@
-Russula flavoviridis Romagn. SPECIES
-=======
+# Russula flavoviridis Romagn. SPECIES
 
 #### Status
 ACCEPTED

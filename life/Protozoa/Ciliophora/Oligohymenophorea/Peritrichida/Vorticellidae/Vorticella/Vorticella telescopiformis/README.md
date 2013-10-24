@@ -1,5 +1,4 @@
-Vorticella telescopiformis Kahl, 1935 SPECIES
-=======
+# Vorticella telescopiformis Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma stepeliae Kalchbr. & Cooke SPECIES
-=======
+# Phoma stepeliae Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

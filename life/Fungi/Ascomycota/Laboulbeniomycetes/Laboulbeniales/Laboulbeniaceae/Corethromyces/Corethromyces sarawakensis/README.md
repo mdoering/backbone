@@ -1,5 +1,4 @@
-Corethromyces sarawakensis Thaxt. SPECIES
-=======
+# Corethromyces sarawakensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

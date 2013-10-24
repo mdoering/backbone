@@ -1,5 +1,4 @@
-Septonema atrum Sacc. SPECIES
-=======
+# Septonema atrum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis aeruginosa G. Winter SPECIES
-=======
+# Micropeltis aeruginosa G. Winter SPECIES
 
 #### Status
 ACCEPTED

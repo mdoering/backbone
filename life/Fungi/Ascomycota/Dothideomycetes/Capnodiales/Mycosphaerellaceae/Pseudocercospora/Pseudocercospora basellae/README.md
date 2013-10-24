@@ -1,5 +1,4 @@
-Pseudocercospora basellae Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora basellae Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

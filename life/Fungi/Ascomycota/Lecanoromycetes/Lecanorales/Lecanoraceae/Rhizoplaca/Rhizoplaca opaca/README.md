@@ -1,14 +1,13 @@
-Lecanora chrysoleuca var. opaca Ach. VARIETY
-=======
+# Rhizoplaca opaca (Ach.) Zopf SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Justus Liebigs Annln Chem. (1905)
 
 #### Original name
 Lecanora chrysoleuca var. opaca Ach.

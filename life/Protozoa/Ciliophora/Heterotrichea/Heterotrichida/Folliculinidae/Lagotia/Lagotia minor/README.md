@@ -1,5 +1,4 @@
-Lagotia minor Dons, 1948 SPECIES
-=======
+# Lagotia minor Dons, 1948 SPECIES
 
 #### Status
 ACCEPTED

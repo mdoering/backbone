@@ -1,5 +1,4 @@
-Dacrymyces mesentericus P. Karst. SPECIES
-=======
+# Dacrymyces mesentericus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

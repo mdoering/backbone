@@ -1,5 +1,4 @@
-Phyllostictina jambosae Petr. SPECIES
-=======
+# Phyllostictina jambosae Petr. SPECIES
 
 #### Status
 ACCEPTED

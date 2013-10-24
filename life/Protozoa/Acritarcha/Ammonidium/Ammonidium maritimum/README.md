@@ -1,5 +1,4 @@
-Ammonidium maritimum Martin, 1984 SPECIES
-=======
+# Ammonidium maritimum Martin, 1984 SPECIES
 
 #### Status
 ACCEPTED

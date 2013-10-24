@@ -1,5 +1,4 @@
-Niptera erumpens Fr. SPECIES
-=======
+# Niptera erumpens Fr. SPECIES
 
 #### Status
 ACCEPTED

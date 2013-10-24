@@ -1,5 +1,4 @@
-Laestadia rimula Clem. SPECIES
-=======
+# Laestadia rimula Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isariopsis pusilla Fresen. SPECIES
-=======
+# Isariopsis pusilla Fresen. SPECIES
 
 #### Status
 ACCEPTED

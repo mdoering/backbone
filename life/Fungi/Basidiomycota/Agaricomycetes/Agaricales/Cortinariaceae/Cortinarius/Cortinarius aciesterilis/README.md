@@ -1,5 +1,4 @@
-Cortinarius aciesterilis Bidaud SPECIES
-=======
+# Cortinarius aciesterilis Bidaud SPECIES
 
 #### Status
 ACCEPTED

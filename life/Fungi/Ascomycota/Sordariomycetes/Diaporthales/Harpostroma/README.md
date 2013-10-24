@@ -1,5 +1,4 @@
-Harpostroma Höhn. GENUS
-=======
+# Harpostroma Höhn. GENUS
 
 #### Status
 ACCEPTED

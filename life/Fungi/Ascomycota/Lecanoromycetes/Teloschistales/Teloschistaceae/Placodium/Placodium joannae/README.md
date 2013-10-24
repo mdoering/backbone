@@ -1,5 +1,4 @@
-Placodium joannae (Hue) Darb. SPECIES
-=======
+# Placodium joannae (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

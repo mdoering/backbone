@@ -1,11 +1,10 @@
-Giffordia hincksiae var. hincksiae VARIETY
-=======
+# Hincksia hincksiae (Harvey) P.C. Silva SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

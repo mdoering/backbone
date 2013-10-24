@@ -1,5 +1,4 @@
-Hymenoscyphus sordidatus (P. Karst. & Starbäck) Kuntze SPECIES
-=======
+# Hymenoscyphus sordidatus (P. Karst. & Starbäck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

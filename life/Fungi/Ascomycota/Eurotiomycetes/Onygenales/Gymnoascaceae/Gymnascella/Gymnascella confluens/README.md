@@ -1,17 +1,16 @@
-Gymnoascus desertorum (Moustafa) Arx, 1986 SPECIES
-=======
+# Gymnascella confluens (Sartory & Bainier) Currah, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 13(2): 178 (1986)
+Mycotaxon 24: 75 (1985)
 
 #### Original name
-Arachniotus desertorum Moustafa, 1973
+Gymnoascus confluens Sartory & Bainier, 1913
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Scoliciosporum perpusillum Körb. SPECIES
-=======
+# Scoliciosporum perpusillum Körb. SPECIES
 
 #### Status
 ACCEPTED

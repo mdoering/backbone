@@ -1,5 +1,4 @@
-Uredinopsis acrostichoides (Faull) Hirats. f. SPECIES
-=======
+# Uredinopsis acrostichoides (Faull) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

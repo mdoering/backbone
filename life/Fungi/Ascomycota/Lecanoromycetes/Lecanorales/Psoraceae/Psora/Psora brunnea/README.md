@@ -1,5 +1,4 @@
-Psora brunnea (Sw.) Hoffm. SPECIES
-=======
+# Psora brunnea (Sw.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

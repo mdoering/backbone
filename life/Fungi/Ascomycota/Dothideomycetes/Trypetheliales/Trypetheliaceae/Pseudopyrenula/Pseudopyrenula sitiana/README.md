@@ -1,5 +1,4 @@
-Pseudopyrenula sitiana Vain. SPECIES
-=======
+# Pseudopyrenula sitiana Vain. SPECIES
 
 #### Status
 ACCEPTED

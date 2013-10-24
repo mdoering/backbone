@@ -1,5 +1,4 @@
-Phyllachora rhamni T.S. Ramakr., 1951 SPECIES
-=======
+# Phyllachora rhamni T.S. Ramakr., 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella ascoideum Lindner SPECIES
-=======
+# Vorticella ascoideum Lindner SPECIES
 
 #### Status
 ACCEPTED

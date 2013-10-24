@@ -1,5 +1,4 @@
-Clypeoseptoria F. Stevens & P.A. Young GENUS
-=======
+# Clypeoseptoria F. Stevens & P.A. Young GENUS
 
 #### Status
 ACCEPTED

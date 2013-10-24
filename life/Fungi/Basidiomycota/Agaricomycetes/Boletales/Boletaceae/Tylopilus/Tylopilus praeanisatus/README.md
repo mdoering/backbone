@@ -1,5 +1,4 @@
-Tylopilus praeanisatus (Murrill) Murrill SPECIES
-=======
+# Tylopilus praeanisatus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

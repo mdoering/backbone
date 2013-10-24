@@ -1,5 +1,4 @@
-Dictyothyrina atrocyanea (Starbäck) Theiss. SPECIES
-=======
+# Dictyothyrina atrocyanea (Starbäck) Theiss. SPECIES
 
 #### Status
 ACCEPTED

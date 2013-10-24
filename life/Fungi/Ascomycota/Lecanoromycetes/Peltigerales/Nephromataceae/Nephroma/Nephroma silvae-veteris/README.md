@@ -1,5 +1,4 @@
-Nephroma silvae-veteris Goward & Goffinet SPECIES
-=======
+# Nephroma silvae-veteris Goward & Goffinet SPECIES
 
 #### Status
 ACCEPTED

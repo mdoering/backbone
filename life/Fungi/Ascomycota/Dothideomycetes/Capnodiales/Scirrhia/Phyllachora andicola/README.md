@@ -1,5 +1,4 @@
-Phyllachora andicola (Speg.) Viégas, 1947 SPECIES
-=======
+# Phyllachora andicola (Speg.) Viégas, 1947 SPECIES
 
 #### Status
 DOUBTFUL

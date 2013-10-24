@@ -1,5 +1,4 @@
-Squamarina dufourei (Fr.) Motyka SPECIES
-=======
+# Squamarina dufourei (Fr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

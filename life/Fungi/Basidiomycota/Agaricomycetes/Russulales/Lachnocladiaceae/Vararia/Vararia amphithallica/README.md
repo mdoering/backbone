@@ -1,5 +1,4 @@
-Vararia amphithallica Boidin, Lanq. & Gilles, 1980 SPECIES
-=======
+# Vararia amphithallica Boidin, Lanq. & Gilles, 1980 SPECIES
 
 #### Status
 ACCEPTED

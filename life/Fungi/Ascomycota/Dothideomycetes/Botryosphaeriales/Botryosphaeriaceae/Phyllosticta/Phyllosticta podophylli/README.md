@@ -1,5 +1,4 @@
-Phyllosticta podophylli (M.A. Curtis) G. Winter SPECIES
-=======
+# Phyllosticta podophylli (M.A. Curtis) G. Winter SPECIES
 
 #### Status
 ACCEPTED

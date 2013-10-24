@@ -1,5 +1,4 @@
-Delicatula betulina Velen. SPECIES
-=======
+# Delicatula betulina Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta variicolor Bubák SPECIES
-=======
+# Phyllosticta variicolor Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina ocellatoides P. M. McCarthy SPECIES
-=======
+# Porina ocellatoides P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

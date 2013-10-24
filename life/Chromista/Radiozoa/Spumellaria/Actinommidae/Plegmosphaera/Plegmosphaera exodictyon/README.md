@@ -1,5 +1,4 @@
-Plegmosphaera exodictyon Haeckel, 1887 SPECIES
-=======
+# Plegmosphaera exodictyon Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

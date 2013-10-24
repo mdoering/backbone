@@ -1,17 +1,16 @@
-Endophyllum circumscriptum var. catamarcense J.C. Lindq. VARIETY
-=======
+# Endophyllum circumscriptum (Schwein.) Whetzel & Olive, 1917 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Olive & Whetzel, Am. J. Bot. 4: 49 (1917)
 
 #### Original name
-Endophyllum circumscriptum var. catamarcense J.C. Lindq.
+Aecidium circumscriptum Schwein., 1854
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cercospora piaropi Tharp, 1917 SPECIES
-=======
+# Cercospora piaropi Tharp, 1917 SPECIES
 
 #### Status
 ACCEPTED

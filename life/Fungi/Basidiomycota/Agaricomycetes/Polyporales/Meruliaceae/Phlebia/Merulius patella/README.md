@@ -1,5 +1,4 @@
-Merulius patella Scop. SPECIES
-=======
+# Merulius patella Scop. SPECIES
 
 #### Status
 ACCEPTED

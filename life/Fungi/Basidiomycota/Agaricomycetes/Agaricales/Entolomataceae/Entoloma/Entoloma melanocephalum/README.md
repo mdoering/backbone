@@ -1,5 +1,4 @@
-Entoloma melanocephalum G. Stev., 1962 SPECIES
-=======
+# Entoloma melanocephalum G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED

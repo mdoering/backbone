@@ -1,17 +1,16 @@
-Camarosporium smilacicolum Petr. SPECIES
-=======
+# Camarosporium smilacicola Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 1: 222 (1947)
 
 #### Original name
-Camarosporium smilacicolum Petr.
+Camarosporium smilacicola Petr.
 
 ### Remarks
 null

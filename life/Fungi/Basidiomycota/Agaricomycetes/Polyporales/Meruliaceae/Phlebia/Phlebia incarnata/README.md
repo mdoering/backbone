@@ -1,5 +1,4 @@
-Phlebia incarnata (Schwein.) Nakasone & Burds. SPECIES
-=======
+# Phlebia incarnata (Schwein.) Nakasone & Burds. SPECIES
 
 #### Status
 ACCEPTED

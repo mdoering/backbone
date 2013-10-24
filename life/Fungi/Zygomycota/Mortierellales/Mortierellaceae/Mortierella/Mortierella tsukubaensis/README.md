@@ -1,5 +1,4 @@
-Mortierella tsukubaensis Ts. Watan., 2001 SPECIES
-=======
+# Mortierella tsukubaensis Ts. Watan., 2001 SPECIES
 
 #### Status
 ACCEPTED

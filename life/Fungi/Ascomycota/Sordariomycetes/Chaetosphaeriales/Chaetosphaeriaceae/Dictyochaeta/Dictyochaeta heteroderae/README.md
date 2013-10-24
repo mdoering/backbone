@@ -1,5 +1,4 @@
-Dictyochaeta heteroderae (Morgan-Jones) Carris & Glawe SPECIES
-=======
+# Dictyochaeta heteroderae (Morgan-Jones) Carris & Glawe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apteodinium maculatum Eisenack & Cookson, 1960 SPECIES
-=======
+# Apteodinium maculatum Eisenack & Cookson, 1960 SPECIES
 
 #### Status
 ACCEPTED

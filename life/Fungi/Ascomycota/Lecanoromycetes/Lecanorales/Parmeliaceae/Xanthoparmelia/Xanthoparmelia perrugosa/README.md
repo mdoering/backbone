@@ -1,5 +1,4 @@
-Xanthoparmelia perrugosa Hale SPECIES
-=======
+# Xanthoparmelia perrugosa Hale SPECIES
 
 #### Status
 ACCEPTED

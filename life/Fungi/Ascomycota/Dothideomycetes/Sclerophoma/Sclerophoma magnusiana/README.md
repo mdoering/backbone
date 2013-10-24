@@ -1,5 +1,4 @@
-Sclerophoma magnusiana M. Wilson & G.G. Hahn SPECIES
-=======
+# Sclerophoma magnusiana M. Wilson & G.G. Hahn SPECIES
 
 #### Status
 ACCEPTED

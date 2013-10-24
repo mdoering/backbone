@@ -1,5 +1,4 @@
-Eutintinnus latus (Jörgensen, 1924) Kofoid & Campbell, 1939 SPECIES
-=======
+# Eutintinnus latus (Jörgensen, 1924) Kofoid & Campbell, 1939 SPECIES
 
 #### Status
 ACCEPTED

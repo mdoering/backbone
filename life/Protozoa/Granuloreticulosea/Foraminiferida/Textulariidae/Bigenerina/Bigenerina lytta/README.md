@@ -1,5 +1,4 @@
-Bigenerina lytta SPECIES
-=======
+# Bigenerina lytta SPECIES
 
 #### Status
 ACCEPTED

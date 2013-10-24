@@ -1,5 +1,4 @@
-Amphileptus disciformis SPECIES
-=======
+# Amphileptus disciformis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diorygma pachygraphum (Nyl.) Kalb, Staiger & Elix SPECIES
-=======
+# Diorygma pachygraphum (Nyl.) Kalb, Staiger & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas foliata Skvortzov SPECIES
-=======
+# Trachelomonas foliata Skvortzov SPECIES
 
 #### Status
 ACCEPTED

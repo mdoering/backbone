@@ -1,5 +1,4 @@
-Uredo dioscoreae-alatae Racib. SPECIES
-=======
+# Uredo dioscoreae-alatae Racib. SPECIES
 
 #### Status
 ACCEPTED

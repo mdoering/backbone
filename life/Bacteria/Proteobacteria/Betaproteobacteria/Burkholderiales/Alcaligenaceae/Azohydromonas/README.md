@@ -1,5 +1,4 @@
-Azohydromonas Xie & Yokota, 2005 GENUS
-=======
+# Azohydromonas Xie & Yokota, 2005 GENUS
 
 #### Status
 ACCEPTED

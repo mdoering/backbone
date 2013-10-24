@@ -1,5 +1,4 @@
-Cephalosporium saulcyanum Mont. SPECIES
-=======
+# Cephalosporium saulcyanum Mont. SPECIES
 
 #### Status
 ACCEPTED

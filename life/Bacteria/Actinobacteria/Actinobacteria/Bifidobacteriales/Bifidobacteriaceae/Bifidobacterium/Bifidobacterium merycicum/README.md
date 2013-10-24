@@ -1,5 +1,4 @@
-Bifidobacterium merycicum Biavati & Mattarelli, 1991 SPECIES
-=======
+# Bifidobacterium merycicum Biavati & Mattarelli, 1991 SPECIES
 
 #### Status
 ACCEPTED

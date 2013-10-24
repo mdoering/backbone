@@ -1,5 +1,4 @@
-Callopisma teicophilum A. Massal. SPECIES
-=======
+# Callopisma teicophilum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

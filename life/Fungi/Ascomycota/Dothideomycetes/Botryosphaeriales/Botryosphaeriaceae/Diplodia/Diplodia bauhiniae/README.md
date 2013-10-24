@@ -1,5 +1,4 @@
-Diplodia bauhiniae Died. SPECIES
-=======
+# Diplodia bauhiniae Died. SPECIES
 
 #### Status
 ACCEPTED

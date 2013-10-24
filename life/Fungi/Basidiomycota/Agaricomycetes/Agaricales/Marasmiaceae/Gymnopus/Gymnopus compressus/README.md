@@ -1,5 +1,4 @@
-Gymnopus compressus (With.) Gray SPECIES
-=======
+# Gymnopus compressus (With.) Gray SPECIES
 
 #### Status
 ACCEPTED

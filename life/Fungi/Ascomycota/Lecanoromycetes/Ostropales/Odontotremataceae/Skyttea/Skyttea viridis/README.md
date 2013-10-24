@@ -1,5 +1,4 @@
-Skyttea viridis D. Hawksw. & Coppins SPECIES
-=======
+# Skyttea viridis D. Hawksw. & Coppins SPECIES
 
 #### Status
 ACCEPTED

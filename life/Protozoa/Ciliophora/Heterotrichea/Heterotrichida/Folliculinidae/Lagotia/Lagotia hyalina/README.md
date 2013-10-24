@@ -1,5 +1,4 @@
-Lagotia hyalina Wright, 1858 SPECIES
-=======
+# Lagotia hyalina Wright, 1858 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Usnea cladonioides (Nyl.) Du Rietz SPECIES
-=======
+# Lethariella cladonioides (Nyl.) Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 23(2): 93 (1976)
 
 #### Original name
 Chlorea cladonioides Nyl.

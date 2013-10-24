@@ -1,5 +1,4 @@
-Flammula parvula Murrill SPECIES
-=======
+# Flammula parvula Murrill SPECIES
 
 #### Status
 ACCEPTED

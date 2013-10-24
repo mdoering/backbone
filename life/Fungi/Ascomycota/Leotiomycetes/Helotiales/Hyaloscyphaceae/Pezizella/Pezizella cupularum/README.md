@@ -1,5 +1,4 @@
-Pezizella cupularum Velen. SPECIES
-=======
+# Pezizella cupularum Velen. SPECIES
 
 #### Status
 ACCEPTED

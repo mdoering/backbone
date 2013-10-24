@@ -1,5 +1,4 @@
-Cornipulvina Huhndorf, A.N. Mill., F.A. Fernández & Lodge GENUS
-=======
+# Cornipulvina Huhndorf, A.N. Mill., F.A. Fernández & Lodge GENUS
 
 #### Status
 ACCEPTED

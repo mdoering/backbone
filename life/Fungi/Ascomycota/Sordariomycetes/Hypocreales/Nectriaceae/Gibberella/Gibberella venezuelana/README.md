@@ -1,5 +1,4 @@
-Gibberella venezuelana Syd. SPECIES
-=======
+# Gibberella venezuelana Syd. SPECIES
 
 #### Status
 ACCEPTED

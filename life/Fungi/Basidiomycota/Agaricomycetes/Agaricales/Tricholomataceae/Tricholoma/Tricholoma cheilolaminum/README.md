@@ -1,5 +1,4 @@
-Tricholoma cheilolaminum Ovrebo & Tylutki SPECIES
-=======
+# Tricholoma cheilolaminum Ovrebo & Tylutki SPECIES
 
 #### Status
 ACCEPTED

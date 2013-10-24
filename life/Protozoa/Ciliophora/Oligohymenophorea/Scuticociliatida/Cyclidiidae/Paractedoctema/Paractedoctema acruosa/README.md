@@ -1,5 +1,4 @@
-Paractedoctema acruosa Song & Wilbert, 2000 SPECIES
-=======
+# Paractedoctema acruosa Song & Wilbert, 2000 SPECIES
 
 #### Status
 ACCEPTED

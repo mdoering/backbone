@@ -1,5 +1,4 @@
-Clitocybe amethystina Pers. SPECIES
-=======
+# Clitocybe amethystina Pers. SPECIES
 
 #### Status
 ACCEPTED

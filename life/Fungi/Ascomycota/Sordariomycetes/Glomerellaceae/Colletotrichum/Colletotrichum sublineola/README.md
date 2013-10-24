@@ -1,5 +1,4 @@
-Colletotrichum sublineola Henn. ex Sacc. & Trotter, 1913 SPECIES
-=======
+# Colletotrichum sublineola Henn. ex Sacc. & Trotter, 1913 SPECIES
 
 #### Status
 ACCEPTED

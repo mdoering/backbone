@@ -1,5 +1,4 @@
-Hemicybe GENUS
-=======
+# Hemicybe GENUS
 
 #### Status
 ACCEPTED

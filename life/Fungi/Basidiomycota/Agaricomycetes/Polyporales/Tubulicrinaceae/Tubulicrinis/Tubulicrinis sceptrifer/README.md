@@ -1,14 +1,13 @@
-Tubulicrinis sceptrifera (H.S. Jacks. & Weresub) Donk SPECIES
-=======
+# Tubulicrinis sceptrifer (H.S. Jacks. & Weresub) Donk, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungus, Wageningen 26(1-4): 14 (1956)
 
 #### Original name
 Peniophora sceptrifera H.S. Jacks. & Weresub, 1953

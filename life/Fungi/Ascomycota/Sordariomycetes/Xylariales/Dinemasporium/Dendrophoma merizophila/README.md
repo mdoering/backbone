@@ -1,5 +1,4 @@
-Dendrophoma merizophila (Preuss) Sacc. SPECIES
-=======
+# Dendrophoma merizophila (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

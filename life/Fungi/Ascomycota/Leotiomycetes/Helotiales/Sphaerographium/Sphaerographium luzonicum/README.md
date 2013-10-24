@@ -1,5 +1,4 @@
-Sphaerographium luzonicum H.S. Yates SPECIES
-=======
+# Sphaerographium luzonicum H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

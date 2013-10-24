@@ -1,14 +1,13 @@
-Pseudocercospora xanthoxyli (Cooke) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora zanthoxyli (Cooke) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycosystema, Suppl. 4: 115 (1991)
 
 #### Original name
 Cercospora zanthoxyli Cooke

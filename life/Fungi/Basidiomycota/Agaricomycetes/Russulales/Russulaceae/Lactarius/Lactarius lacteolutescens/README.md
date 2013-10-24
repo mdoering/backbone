@@ -1,5 +1,4 @@
-Lactarius lacteolutescens Montoya, Bandala & G. Moreno SPECIES
-=======
+# Lactarius lacteolutescens Montoya, Bandala & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

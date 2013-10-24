@@ -1,5 +1,4 @@
-Coccosporium Corda GENUS
-=======
+# Coccosporium Corda GENUS
 
 #### Status
 ACCEPTED

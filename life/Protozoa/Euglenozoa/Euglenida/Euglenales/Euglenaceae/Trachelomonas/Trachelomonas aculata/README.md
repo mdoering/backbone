@@ -1,5 +1,4 @@
-Trachelomonas aculata Dolgoff SPECIES
-=======
+# Trachelomonas aculata Dolgoff SPECIES
 
 #### Status
 ACCEPTED

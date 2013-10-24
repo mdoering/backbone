@@ -1,5 +1,4 @@
-Phoma rhodocarpa Sacc. SPECIES
-=======
+# Phoma rhodocarpa Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta mexicana D.J. Galloway SPECIES
-=======
+# Sticta mexicana D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

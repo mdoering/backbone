@@ -1,5 +1,4 @@
-Thelomma occidentale (Herre) Tibell SPECIES
-=======
+# Thelomma occidentale (Herre) Tibell SPECIES
 
 #### Status
 ACCEPTED

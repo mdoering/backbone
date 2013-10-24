@@ -1,5 +1,4 @@
-Aecidium phacae Jørst. SPECIES
-=======
+# Aecidium phacae Jørst. SPECIES
 
 #### Status
 ACCEPTED

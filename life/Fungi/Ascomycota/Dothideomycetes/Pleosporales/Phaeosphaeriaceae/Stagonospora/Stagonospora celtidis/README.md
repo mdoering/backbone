@@ -1,5 +1,4 @@
-Stagonospora celtidis (Ellis & G. Martin) H.C. Greene SPECIES
-=======
+# Stagonospora celtidis (Ellis & G. Martin) H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

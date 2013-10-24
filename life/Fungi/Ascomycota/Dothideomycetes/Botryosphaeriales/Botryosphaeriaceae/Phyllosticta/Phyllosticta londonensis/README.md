@@ -1,5 +1,4 @@
-Phyllosticta londonensis Bubák & Dearn. SPECIES
-=======
+# Phyllosticta londonensis Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

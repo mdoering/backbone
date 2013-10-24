@@ -1,5 +1,4 @@
-Stromatinia cryptomeriae Kubono & Hosoya SPECIES
-=======
+# Stromatinia cryptomeriae Kubono & Hosoya SPECIES
 
 #### Status
 ACCEPTED

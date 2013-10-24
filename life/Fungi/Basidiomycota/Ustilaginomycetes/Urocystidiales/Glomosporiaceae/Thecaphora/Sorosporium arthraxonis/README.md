@@ -1,5 +1,4 @@
-Sorosporium arthraxonis S. Ahmad SPECIES
-=======
+# Sorosporium arthraxonis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

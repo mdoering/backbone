@@ -1,5 +1,4 @@
-Ascochyta pellucida Bubák SPECIES
-=======
+# Ascochyta pellucida Bubák SPECIES
 
 #### Status
 ACCEPTED

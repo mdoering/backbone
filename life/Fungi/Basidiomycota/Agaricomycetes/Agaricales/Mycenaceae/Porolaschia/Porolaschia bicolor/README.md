@@ -1,5 +1,4 @@
-Porolaschia bicolor Pat. SPECIES
-=======
+# Porolaschia bicolor Pat. SPECIES
 
 #### Status
 ACCEPTED

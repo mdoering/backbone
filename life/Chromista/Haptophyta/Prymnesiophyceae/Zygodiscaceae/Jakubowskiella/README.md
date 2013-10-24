@@ -1,5 +1,4 @@
-Jakubowskiella O. Varol, 1989 GENUS
-=======
+# Jakubowskiella O. Varol, 1989 GENUS
 
 #### Status
 ACCEPTED

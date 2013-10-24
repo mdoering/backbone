@@ -1,5 +1,4 @@
-Lonchospermella Speg. GENUS
-=======
+# Lonchospermella Speg. GENUS
 
 #### Status
 ACCEPTED

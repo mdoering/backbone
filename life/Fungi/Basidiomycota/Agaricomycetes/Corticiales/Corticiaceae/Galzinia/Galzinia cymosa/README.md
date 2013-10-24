@@ -1,5 +1,4 @@
-Galzinia cymosa D.P. Rogers, 1944 SPECIES
-=======
+# Galzinia cymosa D.P. Rogers, 1944 SPECIES
 
 #### Status
 ACCEPTED

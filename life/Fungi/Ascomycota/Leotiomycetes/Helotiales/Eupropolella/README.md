@@ -1,17 +1,16 @@
-Naegiella (Rehm) Clem. GENUS
-=======
+# Eupropolella Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 15(5): 311 (1917)
 
 #### Original name
-null
+Eupropolella Höhn.
 
 ### Remarks
 null

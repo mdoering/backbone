@@ -1,5 +1,4 @@
-Russula aurantioflammans Ruots., Sarnari & Vauras SPECIES
-=======
+# Russula aurantioflammans Ruots., Sarnari & Vauras SPECIES
 
 #### Status
 ACCEPTED

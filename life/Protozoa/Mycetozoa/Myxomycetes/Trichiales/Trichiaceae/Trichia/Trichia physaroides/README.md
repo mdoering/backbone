@@ -1,5 +1,4 @@
-Trichia physaroides Schumach. SPECIES
-=======
+# Trichia physaroides Schumach. SPECIES
 
 #### Status
 ACCEPTED

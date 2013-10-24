@@ -1,5 +1,4 @@
-Stemmaria Preuss GENUS
-=======
+# Stemmaria Preuss GENUS
 
 #### Status
 ACCEPTED

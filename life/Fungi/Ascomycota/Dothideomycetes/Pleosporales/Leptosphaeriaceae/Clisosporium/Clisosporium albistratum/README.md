@@ -1,5 +1,4 @@
-Clisosporium albistratum (Peck) Kuntze SPECIES
-=======
+# Clisosporium albistratum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

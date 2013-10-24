@@ -1,5 +1,4 @@
-Grasseella microcosmi Tuzet & Ormières, 1960 SPECIES
-=======
+# Grasseella microcosmi Tuzet & Ormières, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria phaseolicola Yatel SPECIES
-=======
+# Alternaria phaseolicola Yatel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizocladiales Henry, Okuda & Kawai, 2003 ORDER
-=======
+# Schizocladiales Henry, Okuda & Kawai, 2003 ORDER
 
 #### Status
 ACCEPTED

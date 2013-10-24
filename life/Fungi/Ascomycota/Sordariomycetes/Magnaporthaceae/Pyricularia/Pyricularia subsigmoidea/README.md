@@ -1,5 +1,4 @@
-Pyricularia subsigmoidea R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Pyricularia subsigmoidea R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

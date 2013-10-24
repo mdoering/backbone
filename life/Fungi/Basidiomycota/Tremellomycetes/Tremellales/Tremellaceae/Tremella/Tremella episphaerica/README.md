@@ -1,5 +1,4 @@
-Tremella episphaerica Rick SPECIES
-=======
+# Tremella episphaerica Rick SPECIES
 
 #### Status
 ACCEPTED

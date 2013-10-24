@@ -1,5 +1,4 @@
-Shewanella glacialipiscicola Satomi, Vogel, Venkateswaran & Gram, 2007 SPECIES
-=======
+# Shewanella glacialipiscicola Satomi, Vogel, Venkateswaran & Gram, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maunachytrium keaense D.R. Simmons SPECIES
-=======
+# Maunachytrium keaense D.R. Simmons SPECIES
 
 #### Status
 ACCEPTED

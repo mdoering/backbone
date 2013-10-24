@@ -1,5 +1,4 @@
-Sargassum marchantae Setchell & Gardner SPECIES
-=======
+# Sargassum marchantae Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthoecopsis R.E.Norris, 1965 GENUS
-=======
+# Acanthoecopsis R.E.Norris, 1965 GENUS
 
 #### Status
 ACCEPTED

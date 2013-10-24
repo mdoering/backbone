@@ -1,5 +1,4 @@
-Mitoplistophora angularis Codreanu SPECIES
-=======
+# Mitoplistophora angularis Codreanu SPECIES
 
 #### Status
 ACCEPTED

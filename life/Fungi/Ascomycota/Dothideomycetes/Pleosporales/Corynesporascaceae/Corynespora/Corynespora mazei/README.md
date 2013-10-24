@@ -1,5 +1,4 @@
-Corynespora mazei Güssow, 1906 SPECIES
-=======
+# Corynespora mazei Güssow, 1906 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma guillemineae (Dietel & Holw.) Arthur SPECIES
-=======
+# Dicaeoma guillemineae (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

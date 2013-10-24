@@ -1,5 +1,4 @@
-Didymella cocciferae Fabre SPECIES
-=======
+# Didymella cocciferae Fabre SPECIES
 
 #### Status
 ACCEPTED

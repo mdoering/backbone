@@ -1,5 +1,4 @@
-Cordyceps sakishimensis Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps sakishimensis Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

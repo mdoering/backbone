@@ -1,5 +1,4 @@
-Cordyceps bifusispora O.E. Erikss. SPECIES
-=======
+# Cordyceps bifusispora O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

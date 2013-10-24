@@ -1,5 +1,4 @@
-Birojima terricola Berger & Foissner, 1989 SPECIES
-=======
+# Birojima terricola Berger & Foissner, 1989 SPECIES
 
 #### Status
 ACCEPTED

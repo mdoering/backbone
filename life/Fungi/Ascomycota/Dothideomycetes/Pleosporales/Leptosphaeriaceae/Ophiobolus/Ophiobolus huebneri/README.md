@@ -1,5 +1,4 @@
-Ophiobolus huebneri (Rabenh.) Sacc. SPECIES
-=======
+# Ophiobolus huebneri (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

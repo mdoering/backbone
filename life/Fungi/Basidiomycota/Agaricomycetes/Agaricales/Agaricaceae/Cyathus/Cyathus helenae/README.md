@@ -1,5 +1,4 @@
-Cyathus helenae H.J. Brodie, 1966 SPECIES
-=======
+# Cyathus helenae H.J. Brodie, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Luykenia GENUS
-=======
+# Luykenia GENUS
 
 #### Status
 ACCEPTED

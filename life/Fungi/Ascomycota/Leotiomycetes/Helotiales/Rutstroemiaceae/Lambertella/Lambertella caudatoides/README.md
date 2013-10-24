@@ -1,5 +1,4 @@
-Lambertella caudatoides W.Y. Zhuang SPECIES
-=======
+# Lambertella caudatoides W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

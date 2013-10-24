@@ -1,5 +1,4 @@
-Synedra acula Kützing SPECIES
-=======
+# Synedra acula Kützing SPECIES
 
 #### Status
 ACCEPTED

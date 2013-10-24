@@ -1,5 +1,4 @@
-Peroneutypella cocoës Syd. & P. Syd. SPECIES
-=======
+# Peroneutypella cocoës Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

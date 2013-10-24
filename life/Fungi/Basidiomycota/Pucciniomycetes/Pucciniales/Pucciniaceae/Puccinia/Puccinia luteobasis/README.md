@@ -1,5 +1,4 @@
-Puccinia luteobasis Ellis & Everh. SPECIES
-=======
+# Puccinia luteobasis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

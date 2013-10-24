@@ -1,5 +1,4 @@
-Lachnea maranguensis Henn. SPECIES
-=======
+# Lachnea maranguensis Henn. SPECIES
 
 #### Status
 ACCEPTED

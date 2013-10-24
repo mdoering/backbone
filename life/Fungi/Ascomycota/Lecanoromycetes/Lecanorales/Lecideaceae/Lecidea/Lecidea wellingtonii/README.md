@@ -1,5 +1,4 @@
-Lecidea wellingtonii Stirt. SPECIES
-=======
+# Lecidea wellingtonii Stirt. SPECIES
 
 #### Status
 ACCEPTED

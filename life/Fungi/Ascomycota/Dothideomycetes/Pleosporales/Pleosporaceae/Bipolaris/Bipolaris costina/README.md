@@ -1,5 +1,4 @@
-Bipolaris costina Sivan., R.S. Shukla, Kr.P. Singh & A. Husain SPECIES
-=======
+# Bipolaris costina Sivan., R.S. Shukla, Kr.P. Singh & A. Husain SPECIES
 
 #### Status
 ACCEPTED

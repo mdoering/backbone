@@ -1,5 +1,4 @@
-Gloeosporium polygonati (Moesz) Karak. SPECIES
-=======
+# Gloeosporium polygonati (Moesz) Karak. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guehomyces Fell & Scorzetti GENUS
-=======
+# Guehomyces Fell & Scorzetti GENUS
 
 #### Status
 ACCEPTED

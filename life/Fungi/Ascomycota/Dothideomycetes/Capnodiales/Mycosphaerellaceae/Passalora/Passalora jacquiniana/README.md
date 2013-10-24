@@ -1,5 +1,4 @@
-Passalora jacquiniana (Thüm.) U. Braun SPECIES
-=======
+# Passalora jacquiniana (Thüm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

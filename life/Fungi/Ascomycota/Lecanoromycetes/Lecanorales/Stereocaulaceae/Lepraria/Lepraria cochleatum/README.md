@@ -1,5 +1,4 @@
-Lepraria cochleatum (Dicks.) SPECIES
-=======
+# Lepraria cochleatum (Dicks.) SPECIES
 
 #### Status
 ACCEPTED

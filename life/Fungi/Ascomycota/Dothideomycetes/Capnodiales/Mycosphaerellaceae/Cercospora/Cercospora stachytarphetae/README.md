@@ -1,5 +1,4 @@
-Cercospora stachytarphetae Ellis & Everh. SPECIES
-=======
+# Cercospora stachytarphetae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

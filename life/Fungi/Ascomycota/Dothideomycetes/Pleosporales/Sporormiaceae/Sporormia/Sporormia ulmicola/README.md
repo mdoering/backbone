@@ -1,5 +1,4 @@
-Sporormia ulmicola f. ulmicola FORM
-=======
+# Sporormia ulmicola Pass. & G. Winter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sporormia ulmicola f. ulmicola
+Sporormia ulmicola Pass. & G. Winter
 
 ### Remarks
 null

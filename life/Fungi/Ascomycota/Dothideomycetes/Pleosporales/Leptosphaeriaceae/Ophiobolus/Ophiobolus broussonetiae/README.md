@@ -1,5 +1,4 @@
-Ophiobolus broussonetiae Hollós SPECIES
-=======
+# Ophiobolus broussonetiae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coscinodiscus septentrionalis Grunow SPECIES
-=======
+# Coscinodiscus septentrionalis Grunow SPECIES
 
 #### Status
 ACCEPTED

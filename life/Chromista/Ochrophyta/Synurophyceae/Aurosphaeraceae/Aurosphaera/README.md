@@ -1,5 +1,4 @@
-Aurosphaera J.Schiller, 1916 GENUS
-=======
+# Aurosphaera J.Schiller, 1916 GENUS
 
 #### Status
 ACCEPTED

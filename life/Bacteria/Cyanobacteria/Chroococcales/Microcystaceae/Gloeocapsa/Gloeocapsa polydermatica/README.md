@@ -1,5 +1,4 @@
-Gloeocapsa polydermatica Kützing SPECIES
-=======
+# Gloeocapsa polydermatica Kützing SPECIES
 
 #### Status
 ACCEPTED

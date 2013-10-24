@@ -1,17 +1,16 @@
-Phacellium salicinum var. salicinum VARIETY
-=======
+# Ramulaspera salicina (Vestergr.) Lindr., 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 50(3-4): 511 (1990)
+Acta Soc. Fauna Flora fenn. 22(3): 5 (1902)
 
 #### Original name
-Phacellium salicinum var. salicinum
+Ovularia salicina Vestergr.
 
 ### Remarks
 null

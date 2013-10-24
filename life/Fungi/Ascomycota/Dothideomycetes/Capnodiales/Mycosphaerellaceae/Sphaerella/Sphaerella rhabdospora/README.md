@@ -1,5 +1,4 @@
-Sphaerella rhabdospora Kirschst. SPECIES
-=======
+# Sphaerella rhabdospora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

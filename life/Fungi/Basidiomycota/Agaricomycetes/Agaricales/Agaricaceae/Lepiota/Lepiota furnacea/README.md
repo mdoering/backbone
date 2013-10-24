@@ -1,5 +1,4 @@
-Lepiota furnacea (Letell.) Gillet SPECIES
-=======
+# Lepiota furnacea (Letell.) Gillet SPECIES
 
 #### Status
 ACCEPTED

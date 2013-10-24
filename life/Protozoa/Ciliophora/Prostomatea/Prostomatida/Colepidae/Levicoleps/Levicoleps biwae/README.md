@@ -1,5 +1,4 @@
-Levicoleps biwae Foissner, Kusuoka & Shimano, 2008 SPECIES
-=======
+# Levicoleps biwae Foissner, Kusuoka & Shimano, 2008 SPECIES
 
 #### Status
 ACCEPTED

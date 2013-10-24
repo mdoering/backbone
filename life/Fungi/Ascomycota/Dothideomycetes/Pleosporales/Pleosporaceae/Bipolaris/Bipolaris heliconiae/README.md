@@ -1,5 +1,4 @@
-Bipolaris heliconiae Alcorn SPECIES
-=======
+# Bipolaris heliconiae Alcorn SPECIES
 
 #### Status
 ACCEPTED

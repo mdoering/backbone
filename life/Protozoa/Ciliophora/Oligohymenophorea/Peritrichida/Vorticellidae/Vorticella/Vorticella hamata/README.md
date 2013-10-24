@@ -1,5 +1,4 @@
-Vorticella hamata Ehrenberg, 1831 SPECIES
-=======
+# Vorticella hamata Ehrenberg, 1831 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalartus Haeckel, 1887 GENUS
-=======
+# Thalartus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

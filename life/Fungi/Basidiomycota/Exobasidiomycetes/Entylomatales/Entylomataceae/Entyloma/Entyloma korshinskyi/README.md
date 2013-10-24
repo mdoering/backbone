@@ -1,5 +1,4 @@
-Entyloma korshinskyi Lavrov SPECIES
-=======
+# Entyloma korshinskyi Lavrov SPECIES
 
 #### Status
 ACCEPTED

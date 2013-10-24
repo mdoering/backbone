@@ -1,5 +1,4 @@
-Lasiodiplodia paraphysaria (Sacc.) Keissl. SPECIES
-=======
+# Lasiodiplodia paraphysaria (Sacc.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocapsa geminata Kützing SPECIES
-=======
+# Gloeocapsa geminata Kützing SPECIES
 
 #### Status
 ACCEPTED

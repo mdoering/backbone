@@ -1,5 +1,4 @@
-Physcia elapheia SPECIES
-=======
+# Physcia elapheia SPECIES
 
 #### Status
 ACCEPTED

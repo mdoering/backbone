@@ -1,5 +1,4 @@
-Puccinia artemisiae-norvegicae Tranzschel & Woron. SPECIES
-=======
+# Puccinia artemisiae-norvegicae Tranzschel & Woron. SPECIES
 
 #### Status
 ACCEPTED

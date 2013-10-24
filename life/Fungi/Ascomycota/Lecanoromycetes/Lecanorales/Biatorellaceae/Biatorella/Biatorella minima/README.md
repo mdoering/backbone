@@ -1,5 +1,4 @@
-Biatorella minima Velen. SPECIES
-=======
+# Biatorella minima Velen. SPECIES
 
 #### Status
 ACCEPTED

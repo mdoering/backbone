@@ -1,5 +1,4 @@
-Spathulosporaceae Kohlm. FAMILY
-=======
+# Spathulosporaceae Kohlm. FAMILY
 
 #### Status
 ACCEPTED

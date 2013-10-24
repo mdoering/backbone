@@ -1,5 +1,4 @@
-Lecanora culicis Lynge SPECIES
-=======
+# Lecanora culicis Lynge SPECIES
 
 #### Status
 ACCEPTED

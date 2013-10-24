@@ -1,8 +1,7 @@
-Uvigerina peregrina var. bradyana Fornasini, 1900 VARIETY
-=======
+# Uvigerina bradyana Fornasini, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

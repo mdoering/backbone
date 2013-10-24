@@ -1,5 +1,4 @@
-Xylaria allantoidea (Berk.) Fr. SPECIES
-=======
+# Xylaria allantoidea (Berk.) Fr. SPECIES
 
 #### Status
 ACCEPTED

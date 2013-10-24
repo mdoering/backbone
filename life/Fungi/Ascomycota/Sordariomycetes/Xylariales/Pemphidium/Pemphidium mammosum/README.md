@@ -1,5 +1,4 @@
-Pemphidium mammosum Tuck. SPECIES
-=======
+# Pemphidium mammosum Tuck. SPECIES
 
 #### Status
 ACCEPTED

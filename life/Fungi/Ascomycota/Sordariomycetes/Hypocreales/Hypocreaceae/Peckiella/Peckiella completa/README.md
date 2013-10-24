@@ -1,5 +1,4 @@
-Peckiella completa G.R.W. Arnold SPECIES
-=======
+# Peckiella completa G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

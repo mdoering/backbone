@@ -1,5 +1,4 @@
-Marasmius oligocystis Singer SPECIES
-=======
+# Marasmius oligocystis Singer SPECIES
 
 #### Status
 ACCEPTED

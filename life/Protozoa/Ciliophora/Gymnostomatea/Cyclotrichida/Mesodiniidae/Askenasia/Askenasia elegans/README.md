@@ -1,5 +1,4 @@
-Askenasia elegans Faure, 1924 SPECIES
-=======
+# Askenasia elegans Faure, 1924 SPECIES
 
 #### Status
 ACCEPTED

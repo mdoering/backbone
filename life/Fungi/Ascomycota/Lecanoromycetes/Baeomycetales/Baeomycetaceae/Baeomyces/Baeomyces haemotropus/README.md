@@ -1,5 +1,4 @@
-Baeomyces haemotropus Leight. SPECIES
-=======
+# Baeomyces haemotropus Leight. SPECIES
 
 #### Status
 ACCEPTED

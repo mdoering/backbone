@@ -1,5 +1,4 @@
-Hydnochaete tabacinoides (Yasuda) Imazeki, 1943 SPECIES
-=======
+# Hydnochaete tabacinoides (Yasuda) Imazeki, 1943 SPECIES
 
 #### Status
 ACCEPTED

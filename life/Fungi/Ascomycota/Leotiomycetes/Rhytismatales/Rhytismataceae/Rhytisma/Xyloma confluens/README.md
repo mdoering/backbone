@@ -1,5 +1,4 @@
-Xyloma confluens Schwein. SPECIES
-=======
+# Xyloma confluens Schwein. SPECIES
 
 #### Status
 ACCEPTED

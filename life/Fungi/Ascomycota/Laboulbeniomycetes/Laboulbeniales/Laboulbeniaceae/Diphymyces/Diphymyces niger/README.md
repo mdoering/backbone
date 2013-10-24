@@ -1,14 +1,13 @@
-Corethromyces niger T. Majewski, 1973 SPECIES
-=======
+# Diphymyces niger (T. Majewski) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mycologica, Warszawa 9(1): 114 (1973)
+Mycol. Mem. 9: 203 (1985)
 
 #### Original name
 Corethromyces niger T. Majewski, 1973

@@ -1,5 +1,4 @@
-Septoria emiliae Sawada SPECIES
-=======
+# Septoria emiliae Sawada SPECIES
 
 #### Status
 ACCEPTED

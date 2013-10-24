@@ -1,8 +1,7 @@
-Olpidium zopfianus (Morini) Karling SPECIES
-=======
+# Pleotrachelus zopfianus Morini, 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

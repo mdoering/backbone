@@ -1,5 +1,4 @@
-Tuberculariella betuli (Alb. & Schwein.) Höhn. SPECIES
-=======
+# Tuberculariella betuli (Alb. & Schwein.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

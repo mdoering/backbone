@@ -1,5 +1,4 @@
-Uredo cyclostoma Lév. SPECIES
-=======
+# Uredo cyclostoma Lév. SPECIES
 
 #### Status
 ACCEPTED

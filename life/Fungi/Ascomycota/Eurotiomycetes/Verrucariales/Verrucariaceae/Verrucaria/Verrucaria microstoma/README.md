@@ -1,5 +1,4 @@
-Verrucaria microstoma Servít SPECIES
-=======
+# Verrucaria microstoma Servít SPECIES
 
 #### Status
 ACCEPTED

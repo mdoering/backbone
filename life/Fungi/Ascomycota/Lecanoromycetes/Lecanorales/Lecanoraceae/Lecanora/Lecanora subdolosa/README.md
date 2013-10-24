@@ -1,5 +1,4 @@
-Lecanora subdolosa Nyl. SPECIES
-=======
+# Lecanora subdolosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

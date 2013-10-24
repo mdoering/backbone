@@ -1,5 +1,4 @@
-Obsoletes GENUS
-=======
+# Obsoletes GENUS
 
 #### Status
 ACCEPTED

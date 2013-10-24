@@ -1,5 +1,4 @@
-Seynesia circinans (Speg.) Theiss. SPECIES
-=======
+# Seynesia circinans (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

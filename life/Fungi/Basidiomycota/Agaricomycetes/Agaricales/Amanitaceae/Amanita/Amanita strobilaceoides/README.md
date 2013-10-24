@@ -1,5 +1,4 @@
-Amanita strobilaceoides A.E. Wood SPECIES
-=======
+# Amanita strobilaceoides A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hapalosiphon laminosus (Kuetzing) Hansg. SPECIES
-=======
+# Hapalosiphon laminosus (Kuetzing) Hansg. SPECIES
 
 #### Status
 ACCEPTED

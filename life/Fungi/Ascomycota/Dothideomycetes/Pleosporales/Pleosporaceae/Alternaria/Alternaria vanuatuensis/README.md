@@ -1,5 +1,4 @@
-Alternaria vanuatuensis E.G. Simmons & C.F. Hill SPECIES
-=======
+# Alternaria vanuatuensis E.G. Simmons & C.F. Hill SPECIES
 
 #### Status
 ACCEPTED

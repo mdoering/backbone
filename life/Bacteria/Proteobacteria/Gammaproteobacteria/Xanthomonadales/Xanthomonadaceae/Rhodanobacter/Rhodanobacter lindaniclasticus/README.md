@@ -1,5 +1,4 @@
-Rhodanobacter lindaniclasticus Nalin et al., 1999 SPECIES
-=======
+# Rhodanobacter lindaniclasticus Nalin et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

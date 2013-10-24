@@ -1,5 +1,4 @@
-Hamelella Børgesen, 1942 GENUS
-=======
+# Hamelella Børgesen, 1942 GENUS
 
 #### Status
 ACCEPTED

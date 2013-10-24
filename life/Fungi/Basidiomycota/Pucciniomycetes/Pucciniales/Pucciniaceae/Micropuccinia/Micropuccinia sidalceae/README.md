@@ -1,5 +1,4 @@
-Micropuccinia sidalceae (Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia sidalceae (Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

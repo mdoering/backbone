@@ -1,5 +1,4 @@
-Parmelia imerinensis C.W. Dodge SPECIES
-=======
+# Parmelia imerinensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

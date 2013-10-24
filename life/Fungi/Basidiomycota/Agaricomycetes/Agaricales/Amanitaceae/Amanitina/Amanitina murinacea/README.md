@@ -1,5 +1,4 @@
-Amanitina murinacea (Pat.) E.-J. Gilbert SPECIES
-=======
+# Amanitina murinacea (Pat.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

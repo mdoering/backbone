@@ -1,17 +1,16 @@
-Phyllachora bonariensis var. tonkinensis Roum., 1891 VARIETY
-=======
+# Phyllachora bambusina Speg., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 13: 77 (1891)
+Anal. Soc. cient. argent. 19: 95 (1885)
 
 #### Original name
-Phyllachora bonariensis var. tonkinensis Roum., 1891
+Phyllachora bambusina Speg., 1885
 
 ### Remarks
 null

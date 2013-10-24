@@ -1,5 +1,4 @@
-Phomopsis rhodotypi (Henn.) Died. SPECIES
-=======
+# Phomopsis rhodotypi (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

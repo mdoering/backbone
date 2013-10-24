@@ -1,5 +1,4 @@
-Hymenopsis conica (Fuckel) Sacc. SPECIES
-=======
+# Hymenopsis conica (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

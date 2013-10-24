@@ -1,5 +1,4 @@
-Cercospora crotalariana Pavgi & U.P. Singh SPECIES
-=======
+# Cercospora crotalariana Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

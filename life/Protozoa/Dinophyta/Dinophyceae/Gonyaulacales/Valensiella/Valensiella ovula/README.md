@@ -1,5 +1,4 @@
-Valensiella ovula (Deflandre, 1947) Eisenack SPECIES
-=======
+# Valensiella ovula (Deflandre, 1947) Eisenack SPECIES
 
 #### Status
 ACCEPTED

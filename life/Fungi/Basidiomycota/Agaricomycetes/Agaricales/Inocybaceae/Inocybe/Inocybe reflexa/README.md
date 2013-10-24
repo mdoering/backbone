@@ -1,5 +1,4 @@
-Inocybe reflexa Gillet SPECIES
-=======
+# Inocybe reflexa Gillet SPECIES
 
 #### Status
 ACCEPTED

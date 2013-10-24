@@ -1,17 +1,16 @@
-Tuber brumale var. brumale VARIETY
-=======
+# Tuber brumale Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Tuberac. (Milano) 37 (1831)
 
 #### Original name
-null
+Tuber brumale Vittad., 1831
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pseudomicrothorax Mermod, 1914 GENUS
-=======
+# Pseudomicrothorax Mermod, 1914 GENUS
 
 #### Status
 ACCEPTED

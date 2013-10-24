@@ -1,5 +1,4 @@
-Puccinia junci-oxycarpi Doidge SPECIES
-=======
+# Puccinia junci-oxycarpi Doidge SPECIES
 
 #### Status
 ACCEPTED

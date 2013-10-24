@@ -1,14 +1,13 @@
-Aposphaeriopsis domesticum (Henn.) Died. SPECIES
-=======
+# Aposphaeriopsis domestica (Henn.) Died. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 11(1): 45 (1913)
 
 #### Original name
 Coniothyrium domesticum Henn.

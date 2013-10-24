@@ -1,5 +1,4 @@
-Calicium glebosum Müll. Arg. SPECIES
-=======
+# Calicium glebosum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

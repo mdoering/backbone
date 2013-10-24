@@ -1,5 +1,4 @@
-Polysphondylium candidum H. Hagiw., 1973 SPECIES
-=======
+# Polysphondylium candidum H. Hagiw., 1973 SPECIES
 
 #### Status
 ACCEPTED

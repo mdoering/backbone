@@ -1,5 +1,4 @@
-Pluteus keissleri Singer SPECIES
-=======
+# Pluteus keissleri Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeltinites Cookson GENUS
-=======
+# Trichopeltinites Cookson GENUS
 
 #### Status
 ACCEPTED

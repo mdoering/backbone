@@ -1,5 +1,4 @@
-Eimeria quentini Boulard, 1977 SPECIES
-=======
+# Eimeria quentini Boulard, 1977 SPECIES
 
 #### Status
 ACCEPTED

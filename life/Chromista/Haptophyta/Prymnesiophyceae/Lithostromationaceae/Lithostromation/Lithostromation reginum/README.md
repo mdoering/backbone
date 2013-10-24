@@ -1,5 +1,4 @@
-Lithostromation reginum (Stradner, 1962) Bybell, 1975 SPECIES
-=======
+# Lithostromation reginum (Stradner, 1962) Bybell, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coscinodiscus polymorphus N.I. Strelnikova SPECIES
-=======
+# Coscinodiscus polymorphus N.I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

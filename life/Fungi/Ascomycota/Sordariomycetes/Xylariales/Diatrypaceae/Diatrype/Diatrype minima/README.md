@@ -1,5 +1,4 @@
-Diatrype minima Ellis & Everh. SPECIES
-=======
+# Diatrype minima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

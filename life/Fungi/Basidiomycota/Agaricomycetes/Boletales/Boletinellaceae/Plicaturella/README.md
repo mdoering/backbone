@@ -1,5 +1,4 @@
-Plicaturella GENUS
-=======
+# Plicaturella GENUS
 
 #### Status
 ACCEPTED

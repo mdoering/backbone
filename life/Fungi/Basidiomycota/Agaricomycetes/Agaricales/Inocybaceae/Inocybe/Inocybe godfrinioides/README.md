@@ -1,5 +1,4 @@
-Inocybe godfrinioides Kühner SPECIES
-=======
+# Inocybe godfrinioides Kühner SPECIES
 
 #### Status
 ACCEPTED

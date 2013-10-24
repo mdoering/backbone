@@ -1,5 +1,4 @@
-Leptogium foliare Kremp. SPECIES
-=======
+# Leptogium foliare Kremp. SPECIES
 
 #### Status
 ACCEPTED

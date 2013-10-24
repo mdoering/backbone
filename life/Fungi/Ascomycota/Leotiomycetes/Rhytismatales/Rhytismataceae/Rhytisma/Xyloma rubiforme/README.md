@@ -1,5 +1,4 @@
-Xyloma rubiforme Fr. SPECIES
-=======
+# Xyloma rubiforme Fr. SPECIES
 
 #### Status
 ACCEPTED

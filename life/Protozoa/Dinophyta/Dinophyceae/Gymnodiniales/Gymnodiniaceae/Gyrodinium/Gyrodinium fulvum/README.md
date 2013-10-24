@@ -1,5 +1,4 @@
-Gyrodinium fulvum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium fulvum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

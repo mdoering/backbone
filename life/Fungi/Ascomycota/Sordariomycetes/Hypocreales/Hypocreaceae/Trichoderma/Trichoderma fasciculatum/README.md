@@ -1,5 +1,4 @@
-Trichoderma fasciculatum Bissett, 1992 SPECIES
-=======
+# Trichoderma fasciculatum Bissett, 1992 SPECIES
 
 #### Status
 ACCEPTED

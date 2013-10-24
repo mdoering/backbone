@@ -1,5 +1,4 @@
-Uredo frillariae Chaillet SPECIES
-=======
+# Uredo frillariae Chaillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia cerberae Tassi SPECIES
-=======
+# Laestadia cerberae Tassi SPECIES
 
 #### Status
 ACCEPTED

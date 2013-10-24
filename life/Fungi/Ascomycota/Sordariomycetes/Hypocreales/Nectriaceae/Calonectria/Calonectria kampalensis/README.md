@@ -1,5 +1,4 @@
-Calonectria kampalensis Hansf. SPECIES
-=======
+# Calonectria kampalensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

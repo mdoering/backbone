@@ -1,5 +1,4 @@
-Selenophoma spiraeae Kalymb. SPECIES
-=======
+# Selenophoma spiraeae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

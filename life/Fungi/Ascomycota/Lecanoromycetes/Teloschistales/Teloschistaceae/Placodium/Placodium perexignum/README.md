@@ -1,5 +1,4 @@
-Placodium perexignum Vain. SPECIES
-=======
+# Placodium perexignum Vain. SPECIES
 
 #### Status
 ACCEPTED

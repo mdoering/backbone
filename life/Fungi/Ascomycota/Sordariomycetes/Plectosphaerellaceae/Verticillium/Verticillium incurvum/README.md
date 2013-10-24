@@ -1,5 +1,4 @@
-Verticillium incurvum Helfer, 1991 SPECIES
-=======
+# Verticillium incurvum Helfer, 1991 SPECIES
 
 #### Status
 ACCEPTED

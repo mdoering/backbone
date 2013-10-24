@@ -1,5 +1,4 @@
-Cystotricha aurodisca Cooke SPECIES
-=======
+# Cystotricha aurodisca Cooke SPECIES
 
 #### Status
 ACCEPTED

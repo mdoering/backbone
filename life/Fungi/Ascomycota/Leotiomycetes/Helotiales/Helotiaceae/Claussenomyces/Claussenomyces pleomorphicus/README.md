@@ -1,5 +1,4 @@
-Claussenomyces pleomorphicus Gamundí & Giaiotti SPECIES
-=======
+# Claussenomyces pleomorphicus Gamundí & Giaiotti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora crotonis-oligandri (J.M. Yen & Gilles) U. Braun & Crous SPECIES
-=======
+# Passalora crotonis-oligandri (J.M. Yen & Gilles) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

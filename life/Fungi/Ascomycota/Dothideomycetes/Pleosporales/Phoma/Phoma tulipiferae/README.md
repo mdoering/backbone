@@ -1,5 +1,4 @@
-Phoma tulipiferae Schwein. SPECIES
-=======
+# Phoma tulipiferae Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Granulina equiseticola Velen. SPECIES
-=======
+# Granulina equiseticola Velen. SPECIES
 
 #### Status
 ACCEPTED

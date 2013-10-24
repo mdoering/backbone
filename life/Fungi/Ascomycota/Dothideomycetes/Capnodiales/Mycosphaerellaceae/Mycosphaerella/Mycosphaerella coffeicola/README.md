@@ -1,17 +1,16 @@
-Cercospora herrerana Farneti, 1911 SPECIES
-=======
+# Mycosphaerella coffeicola (Cooke) J.A. Stev. & Wellman, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Wash. Acad. Sci. 34: 262 (1944)
 
 #### Original name
-Cercospora herrerana Farneti, 1911
+Sphaerella coffeicola Cooke, 1880
 
 ### Remarks
 null

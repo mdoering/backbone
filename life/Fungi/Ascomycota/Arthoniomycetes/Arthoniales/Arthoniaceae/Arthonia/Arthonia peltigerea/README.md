@@ -1,14 +1,13 @@
-Conida fuscopurpurea f. peltigerea (Th. Fr.) Keissl. FORM
-=======
+# Arthonia peltigerea Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Notiser 15 (1866)
 
 #### Original name
 Arthonia peltigerea Th. Fr.

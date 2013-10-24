@@ -1,5 +1,4 @@
-Botrytis cana Link SPECIES
-=======
+# Botrytis cana Link SPECIES
 
 #### Status
 ACCEPTED

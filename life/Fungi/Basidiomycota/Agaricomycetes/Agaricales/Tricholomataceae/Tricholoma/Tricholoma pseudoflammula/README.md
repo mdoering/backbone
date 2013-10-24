@@ -1,5 +1,4 @@
-Tricholoma pseudoflammula J.E. Lange SPECIES
-=======
+# Tricholoma pseudoflammula J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

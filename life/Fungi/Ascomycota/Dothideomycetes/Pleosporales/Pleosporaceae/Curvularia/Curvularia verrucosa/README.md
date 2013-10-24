@@ -1,5 +1,4 @@
-Curvularia verrucosa Sivan., 1992 SPECIES
-=======
+# Curvularia verrucosa Sivan., 1992 SPECIES
 
 #### Status
 ACCEPTED

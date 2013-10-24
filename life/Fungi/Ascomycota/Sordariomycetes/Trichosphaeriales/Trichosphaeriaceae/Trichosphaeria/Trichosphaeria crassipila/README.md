@@ -1,5 +1,4 @@
-Trichosphaeria crassipila Grove, 1912 SPECIES
-=======
+# Trichosphaeria crassipila Grove, 1912 SPECIES
 
 #### Status
 ACCEPTED

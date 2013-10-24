@@ -1,5 +1,4 @@
-Marasmius englerianus Henn. SPECIES
-=======
+# Marasmius englerianus Henn. SPECIES
 
 #### Status
 ACCEPTED

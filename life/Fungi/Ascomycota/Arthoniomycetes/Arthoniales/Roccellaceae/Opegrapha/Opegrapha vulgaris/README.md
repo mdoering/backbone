@@ -1,5 +1,4 @@
-Opegrapha vulgaris Humb. SPECIES
-=======
+# Opegrapha vulgaris Humb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea barbata f. barbata FORM
-=======
+# Usnea barbata (L.) Weber ex F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

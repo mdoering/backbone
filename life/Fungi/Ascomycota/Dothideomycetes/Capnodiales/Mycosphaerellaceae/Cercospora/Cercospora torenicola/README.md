@@ -1,5 +1,4 @@
-Cercospora torenicola Chupp & A.S. Mull. SPECIES
-=======
+# Cercospora torenicola Chupp & A.S. Mull. SPECIES
 
 #### Status
 ACCEPTED

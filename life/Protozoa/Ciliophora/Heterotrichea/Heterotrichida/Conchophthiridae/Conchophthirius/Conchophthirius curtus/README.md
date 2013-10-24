@@ -1,5 +1,4 @@
-Conchophthirius curtus SPECIES
-=======
+# Conchophthirius curtus SPECIES
 
 #### Status
 ACCEPTED

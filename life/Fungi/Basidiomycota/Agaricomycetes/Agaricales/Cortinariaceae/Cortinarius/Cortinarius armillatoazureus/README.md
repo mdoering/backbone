@@ -1,5 +1,4 @@
-Cortinarius armillatoazureus Bidaud & Fillion SPECIES
-=======
+# Cortinarius armillatoazureus Bidaud & Fillion SPECIES
 
 #### Status
 ACCEPTED

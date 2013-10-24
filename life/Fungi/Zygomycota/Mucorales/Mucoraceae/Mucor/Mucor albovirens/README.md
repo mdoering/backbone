@@ -1,5 +1,4 @@
-Mucor albovirens Fr. SPECIES
-=======
+# Mucor albovirens Fr. SPECIES
 
 #### Status
 ACCEPTED

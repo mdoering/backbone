@@ -1,5 +1,4 @@
-Geophila lilaceifolia R. Heim SPECIES
-=======
+# Geophila lilaceifolia R. Heim SPECIES
 
 #### Status
 ACCEPTED

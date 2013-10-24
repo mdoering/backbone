@@ -1,5 +1,4 @@
-Meliola tapisciicola H. Hu SPECIES
-=======
+# Meliola tapisciicola H. Hu SPECIES
 
 #### Status
 ACCEPTED

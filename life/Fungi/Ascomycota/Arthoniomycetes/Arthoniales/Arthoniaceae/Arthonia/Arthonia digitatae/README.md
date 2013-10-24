@@ -1,5 +1,4 @@
-Arthonia digitatae Hafellner SPECIES
-=======
+# Arthonia digitatae Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prediscosphaera implumis (Black, 1973) Perch-Nielsen, 1984 SPECIES
-=======
+# Prediscosphaera implumis (Black, 1973) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

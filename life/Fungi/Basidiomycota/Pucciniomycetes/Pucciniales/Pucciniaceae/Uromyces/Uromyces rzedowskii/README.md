@@ -1,5 +1,4 @@
-Uromyces rzedowskii J.F. Hennen & Cummins SPECIES
-=======
+# Uromyces rzedowskii J.F. Hennen & Cummins SPECIES
 
 #### Status
 ACCEPTED

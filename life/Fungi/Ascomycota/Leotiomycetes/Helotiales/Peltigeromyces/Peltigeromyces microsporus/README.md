@@ -1,5 +1,4 @@
-Peltigeromyces microsporus Möller, 1901 SPECIES
-=======
+# Peltigeromyces microsporus Möller, 1901 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma contortisporum Noordel. & Hauskn. SPECIES
-=======
+# Entoloma contortisporum Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

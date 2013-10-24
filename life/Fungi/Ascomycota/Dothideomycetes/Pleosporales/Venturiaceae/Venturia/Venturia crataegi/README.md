@@ -1,5 +1,4 @@
-Venturia crataegi Aderh., 1902 SPECIES
-=======
+# Venturia crataegi Aderh., 1902 SPECIES
 
 #### Status
 ACCEPTED

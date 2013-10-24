@@ -1,5 +1,4 @@
-Endomycopsis clamitans Bat. & Coêlho SPECIES
-=======
+# Endomycopsis clamitans Bat. & Coêlho SPECIES
 
 #### Status
 ACCEPTED

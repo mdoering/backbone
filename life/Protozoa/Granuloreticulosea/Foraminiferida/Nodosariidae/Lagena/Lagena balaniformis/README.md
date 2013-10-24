@@ -1,5 +1,4 @@
-Lagena balaniformis Earland & Heron-Allen SPECIES
-=======
+# Lagena balaniformis Earland & Heron-Allen SPECIES
 
 #### Status
 ACCEPTED

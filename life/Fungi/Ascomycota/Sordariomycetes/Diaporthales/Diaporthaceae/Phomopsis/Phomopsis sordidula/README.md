@@ -1,5 +1,4 @@
-Phomopsis sordidula (Sacc. & P. Syd.) Traverso SPECIES
-=======
+# Phomopsis sordidula (Sacc. & P. Syd.) Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea consanguinea (Müll. Arg.) Hue SPECIES
-=======
+# Lecidea consanguinea (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

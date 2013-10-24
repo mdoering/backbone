@@ -1,5 +1,4 @@
-Ustilago anthistiriae Petch SPECIES
-=======
+# Ustilago anthistiriae Petch SPECIES
 
 #### Status
 ACCEPTED

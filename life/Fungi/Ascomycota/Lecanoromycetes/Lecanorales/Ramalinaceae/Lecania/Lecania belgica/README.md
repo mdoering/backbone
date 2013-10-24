@@ -1,5 +1,4 @@
-Lecania belgica van den Boom & Reese Naesb. SPECIES
-=======
+# Lecania belgica van den Boom & Reese Naesb. SPECIES
 
 #### Status
 ACCEPTED

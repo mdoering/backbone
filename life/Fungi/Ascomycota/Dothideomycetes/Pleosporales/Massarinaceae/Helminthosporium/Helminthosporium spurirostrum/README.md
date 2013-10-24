@@ -1,5 +1,4 @@
-Helminthosporium spurirostrum M. Zhang, T.Y. Zhang & W.P. Wu SPECIES
-=======
+# Helminthosporium spurirostrum M. Zhang, T.Y. Zhang & W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

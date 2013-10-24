@@ -1,5 +1,4 @@
-Characiopsis aquilonaris var. chompi H. Pizarro & G. Tell VARIETY
-=======
+# Characiopsis aquilonaris SPECIES
 
 #### Status
 ACCEPTED

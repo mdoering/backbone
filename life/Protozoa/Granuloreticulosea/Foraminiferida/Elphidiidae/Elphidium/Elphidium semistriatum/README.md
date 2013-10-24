@@ -1,5 +1,4 @@
-Elphidium semistriatum (d'Orbigny, 1852) SPECIES
-=======
+# Elphidium semistriatum (d'Orbigny, 1852) SPECIES
 
 #### Status
 ACCEPTED

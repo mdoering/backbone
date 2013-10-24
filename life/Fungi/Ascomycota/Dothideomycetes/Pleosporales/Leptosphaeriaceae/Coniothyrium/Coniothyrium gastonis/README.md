@@ -1,5 +1,4 @@
-Coniothyrium gastonis (Roum.) Berl. & Voglino SPECIES
-=======
+# Coniothyrium gastonis (Roum.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

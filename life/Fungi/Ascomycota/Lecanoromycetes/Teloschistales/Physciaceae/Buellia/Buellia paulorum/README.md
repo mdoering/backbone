@@ -1,5 +1,4 @@
-Buellia paulorum Cretz. SPECIES
-=======
+# Buellia paulorum Cretz. SPECIES
 
 #### Status
 ACCEPTED

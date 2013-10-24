@@ -1,5 +1,4 @@
-Usnea hippotrichoides Baumg. SPECIES
-=======
+# Usnea hippotrichoides Baumg. SPECIES
 
 #### Status
 ACCEPTED

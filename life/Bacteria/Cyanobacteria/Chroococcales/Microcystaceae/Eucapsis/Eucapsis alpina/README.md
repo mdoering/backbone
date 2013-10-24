@@ -1,11 +1,10 @@
-Eucapsis alpina minor Skuja SUBSPECIES
-=======
+# Eucapsis alpina Clements & Schantz SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

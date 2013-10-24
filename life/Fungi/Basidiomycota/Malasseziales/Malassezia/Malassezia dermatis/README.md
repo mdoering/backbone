@@ -1,5 +1,4 @@
-Malassezia dermatis Sugita, M. Takash., A. Nishikawa & Shinoda, 2002 SPECIES
-=======
+# Malassezia dermatis Sugita, M. Takash., A. Nishikawa & Shinoda, 2002 SPECIES
 
 #### Status
 ACCEPTED

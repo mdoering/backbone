@@ -1,5 +1,4 @@
-Polystictus brunneoalbus (Berk.) Fr. SPECIES
-=======
+# Polystictus brunneoalbus (Berk.) Fr. SPECIES
 
 #### Status
 ACCEPTED

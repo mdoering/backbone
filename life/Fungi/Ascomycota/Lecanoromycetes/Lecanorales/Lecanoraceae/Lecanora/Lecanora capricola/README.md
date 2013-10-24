@@ -1,5 +1,4 @@
-Lecanora capricola B. de Lesd. SPECIES
-=======
+# Lecanora capricola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

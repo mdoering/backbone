@@ -1,5 +1,4 @@
-Parmotrema gradsteinii Aubel SPECIES
-=======
+# Parmotrema gradsteinii Aubel SPECIES
 
 #### Status
 ACCEPTED

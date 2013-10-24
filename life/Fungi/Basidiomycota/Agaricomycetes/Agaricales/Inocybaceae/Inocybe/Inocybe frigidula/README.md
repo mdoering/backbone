@@ -1,5 +1,4 @@
-Inocybe frigidula J. Favre SPECIES
-=======
+# Inocybe frigidula J. Favre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cortinarius citrino-flavus Bidaud & Moënne-Locc. SPECIES
-=======
+# Cortinarius citrinoflavus Bidaud & Moënne-Locc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atlas des Cortinaires (Meyzieu) 10: 490 (2000)
 
 #### Original name
-Cortinarius citrino-flavus Bidaud & Moënne-Locc.
+Cortinarius citrinoflavus Bidaud & Moënne-Locc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea arnoldiana (Körb.) Harm. SPECIES
-=======
+# Lecidea arnoldiana (Körb.) Harm. SPECIES
 
 #### Status
 ACCEPTED

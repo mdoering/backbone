@@ -1,5 +1,4 @@
-Uromyces solariae Dietel SPECIES
-=======
+# Uromyces solariae Dietel SPECIES
 
 #### Status
 ACCEPTED

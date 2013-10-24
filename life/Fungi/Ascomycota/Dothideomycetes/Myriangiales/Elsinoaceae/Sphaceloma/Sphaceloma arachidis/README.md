@@ -1,5 +1,4 @@
-Sphaceloma arachidis Bitanc. & Jenkins, 1940 SPECIES
-=======
+# Sphaceloma arachidis Bitanc. & Jenkins, 1940 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyroidina zeelandica Finley, 1939 SPECIES
-=======
+# Gyroidina zeelandica Finley, 1939 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropuccinia leveillei (Mont.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia leveillei (Mont.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

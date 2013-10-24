@@ -1,5 +1,4 @@
-Clitocybe aquosoumbrina (Raithelh.) Raithelh. SPECIES
-=======
+# Clitocybe aquosoumbrina (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

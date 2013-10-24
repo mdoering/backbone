@@ -1,14 +1,13 @@
-Belonium subcarneum (Schumach.) Velen., 1934 SPECIES
-=======
+# Phaeohelotium carneum (Fr.) Hengstm., 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 107: 272 (2009)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Lembosia rapaneae R.W. Ryan SPECIES
-=======
+# Lembosia rapaneae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

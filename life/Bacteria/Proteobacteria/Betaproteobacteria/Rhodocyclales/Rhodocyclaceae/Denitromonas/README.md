@@ -1,5 +1,4 @@
-Denitromonas GENUS
-=======
+# Denitromonas GENUS
 
 #### Status
 ACCEPTED

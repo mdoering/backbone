@@ -1,5 +1,4 @@
-Phyllachora araliae (Pat.) Petr., 1927 SPECIES
-=======
+# Phyllachora araliae (Pat.) Petr., 1927 SPECIES
 
 #### Status
 DOUBTFUL

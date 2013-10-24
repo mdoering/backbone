@@ -1,5 +1,4 @@
-Lachnea iuliana Svrcek SPECIES
-=======
+# Lachnea iuliana Svrcek SPECIES
 
 #### Status
 ACCEPTED

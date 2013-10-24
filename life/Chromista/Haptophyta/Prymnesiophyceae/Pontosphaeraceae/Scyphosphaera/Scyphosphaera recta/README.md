@@ -1,5 +1,4 @@
-Scyphosphaera recta (Deflandre, 1942) Kamptner, 1955 SPECIES
-=======
+# Scyphosphaera recta (Deflandre, 1942) Kamptner, 1955 SPECIES
 
 #### Status
 ACCEPTED

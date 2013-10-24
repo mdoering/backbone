@@ -1,5 +1,4 @@
-Cercospora zeae-maydis Tehon & E.Y. Daniels, 1925 SPECIES
-=======
+# Cercospora zeae-maydis Tehon & E.Y. Daniels, 1925 SPECIES
 
 #### Status
 ACCEPTED

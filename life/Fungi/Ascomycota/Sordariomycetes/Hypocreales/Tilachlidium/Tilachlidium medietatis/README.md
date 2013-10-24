@@ -1,5 +1,4 @@
-Tilachlidium medietatis Novobr., 1972 SPECIES
-=======
+# Tilachlidium medietatis Novobr., 1972 SPECIES
 
 #### Status
 ACCEPTED

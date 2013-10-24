@@ -1,5 +1,4 @@
-Trichoscyphella tenuipilosa E.K. Cash SPECIES
-=======
+# Trichoscyphella tenuipilosa E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

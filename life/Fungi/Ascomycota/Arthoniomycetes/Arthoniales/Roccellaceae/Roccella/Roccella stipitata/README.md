@@ -1,5 +1,4 @@
-Roccella stipitata B. Werner & Follmann SPECIES
-=======
+# Roccella stipitata B. Werner & Follmann SPECIES
 
 #### Status
 ACCEPTED

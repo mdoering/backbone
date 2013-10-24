@@ -1,5 +1,4 @@
-Phoma agminalis Sacc. SPECIES
-=======
+# Phoma agminalis Sacc. SPECIES
 
 #### Status
 ACCEPTED

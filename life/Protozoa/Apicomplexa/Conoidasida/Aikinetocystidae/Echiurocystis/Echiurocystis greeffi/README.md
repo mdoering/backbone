@@ -1,8 +1,7 @@
-Enterocystis greeffi Noble, 1938 SPECIES
-=======
+# Echiurocystis greeffi Noble, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

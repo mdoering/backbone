@@ -1,5 +1,4 @@
-Arthonia aleurocarpa Nyl. SPECIES
-=======
+# Arthonia aleurocarpa Nyl. SPECIES
 
 #### Status
 ACCEPTED

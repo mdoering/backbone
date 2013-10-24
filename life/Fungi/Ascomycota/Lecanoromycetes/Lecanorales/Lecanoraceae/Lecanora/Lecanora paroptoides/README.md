@@ -1,5 +1,4 @@
-Lecanora paroptoides f. paroptoides FORM
-=======
+# Lecanora paroptoides Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora paroptoides f. paroptoides
+Lecanora paroptoides Nyl.
 
 ### Remarks
 null

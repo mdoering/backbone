@@ -1,5 +1,4 @@
-Mycena latericia Murrill SPECIES
-=======
+# Mycena latericia Murrill SPECIES
 
 #### Status
 ACCEPTED

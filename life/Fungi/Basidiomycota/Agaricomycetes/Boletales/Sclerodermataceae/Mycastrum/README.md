@@ -1,5 +1,4 @@
-Mycastrum GENUS
-=======
+# Mycastrum GENUS
 
 #### Status
 ACCEPTED

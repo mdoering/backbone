@@ -1,5 +1,4 @@
-Meliolina khasiae S. Hughes SPECIES
-=======
+# Meliolina khasiae S. Hughes SPECIES
 
 #### Status
 ACCEPTED

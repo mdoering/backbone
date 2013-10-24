@@ -1,5 +1,4 @@
-Tilletia ixophori Durán SPECIES
-=======
+# Tilletia ixophori Durán SPECIES
 
 #### Status
 ACCEPTED

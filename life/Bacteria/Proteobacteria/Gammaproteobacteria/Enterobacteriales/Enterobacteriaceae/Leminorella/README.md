@@ -1,5 +1,4 @@
-Leminorella Hickman-Brenner et al., 1985 GENUS
-=======
+# Leminorella Hickman-Brenner et al., 1985 GENUS
 
 #### Status
 ACCEPTED

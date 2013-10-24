@@ -1,5 +1,4 @@
-Pleurocytospora Petr. GENUS
-=======
+# Pleurocytospora Petr. GENUS
 
 #### Status
 ACCEPTED

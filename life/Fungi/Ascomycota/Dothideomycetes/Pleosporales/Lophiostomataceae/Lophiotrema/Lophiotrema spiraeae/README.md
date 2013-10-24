@@ -1,5 +1,4 @@
-Lophiotrema spiraeae var. spiraeae VARIETY
-=======
+# Lophiotrema spiraeae (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

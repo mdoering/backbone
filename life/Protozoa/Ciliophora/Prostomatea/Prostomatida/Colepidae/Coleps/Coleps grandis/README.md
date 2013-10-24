@@ -1,5 +1,4 @@
-Coleps grandis Vacelet, 1961 SPECIES
-=======
+# Coleps grandis Vacelet, 1961 SPECIES
 
 #### Status
 ACCEPTED

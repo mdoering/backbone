@@ -1,5 +1,4 @@
-Microdiplodia astrodauci Woron. SPECIES
-=======
+# Microdiplodia astrodauci Woron. SPECIES
 
 #### Status
 ACCEPTED

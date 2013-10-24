@@ -1,5 +1,4 @@
-Colletotrichum rhoinum Tassi SPECIES
-=======
+# Colletotrichum rhoinum Tassi SPECIES
 
 #### Status
 ACCEPTED

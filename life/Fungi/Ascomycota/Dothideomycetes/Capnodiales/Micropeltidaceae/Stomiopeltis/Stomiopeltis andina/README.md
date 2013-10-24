@@ -1,5 +1,4 @@
-Stomiopeltis andina (Petr.) M.L. Farr SPECIES
-=======
+# Stomiopeltis andina (Petr.) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

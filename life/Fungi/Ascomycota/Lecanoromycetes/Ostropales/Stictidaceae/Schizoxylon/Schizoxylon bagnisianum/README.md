@@ -1,5 +1,4 @@
-Schizoxylon bagnisianum Speg. SPECIES
-=======
+# Schizoxylon bagnisianum Speg. SPECIES
 
 #### Status
 ACCEPTED

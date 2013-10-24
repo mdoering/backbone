@@ -1,5 +1,4 @@
-Hygrocybe hapuuae Desjardin & Hemmes SPECIES
-=======
+# Hygrocybe hapuuae Desjardin & Hemmes SPECIES
 
 #### Status
 ACCEPTED

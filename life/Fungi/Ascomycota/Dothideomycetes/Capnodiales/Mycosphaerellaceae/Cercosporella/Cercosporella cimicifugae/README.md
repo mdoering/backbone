@@ -1,5 +1,4 @@
-Cercosporella cimicifugae H.D. Shin & U. Braun SPECIES
-=======
+# Cercosporella cimicifugae H.D. Shin & U. Braun SPECIES
 
 #### Status
 ACCEPTED

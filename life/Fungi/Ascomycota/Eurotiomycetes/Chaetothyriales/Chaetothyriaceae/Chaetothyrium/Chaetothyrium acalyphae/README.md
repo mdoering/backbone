@@ -1,5 +1,4 @@
-Chaetothyrium acalyphae Hansf. SPECIES
-=======
+# Chaetothyrium acalyphae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Leptothyrium maculicolum G. Winter SPECIES
-=======
+# Leptothyrium maculicola G. Winter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptothyrium maculicolum G. Winter
+Leptothyrium maculicola G. Winter
 
 ### Remarks
 null

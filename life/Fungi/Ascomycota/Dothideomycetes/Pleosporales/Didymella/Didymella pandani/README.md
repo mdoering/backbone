@@ -1,5 +1,4 @@
-Didymella pandani Höhn. SPECIES
-=======
+# Didymella pandani Höhn. SPECIES
 
 #### Status
 ACCEPTED

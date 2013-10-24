@@ -1,5 +1,4 @@
-Hypholoma pilatii Velen. SPECIES
-=======
+# Hypholoma pilatii Velen. SPECIES
 
 #### Status
 ACCEPTED

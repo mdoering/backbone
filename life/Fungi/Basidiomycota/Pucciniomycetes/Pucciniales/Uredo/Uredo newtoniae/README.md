@@ -1,5 +1,4 @@
-Uredo newtoniae Gjaerum & D.A. Reid SPECIES
-=======
+# Uredo newtoniae Gjaerum & D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

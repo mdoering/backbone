@@ -1,5 +1,4 @@
-Gomphosphaeria salina Komárek & Hindák SPECIES
-=======
+# Gomphosphaeria salina Komárek & Hindák SPECIES
 
 #### Status
 ACCEPTED

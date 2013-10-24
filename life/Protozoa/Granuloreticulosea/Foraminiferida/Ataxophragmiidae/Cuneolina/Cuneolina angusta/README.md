@@ -1,5 +1,4 @@
-Cuneolina angusta SPECIES
-=======
+# Cuneolina angusta SPECIES
 
 #### Status
 ACCEPTED

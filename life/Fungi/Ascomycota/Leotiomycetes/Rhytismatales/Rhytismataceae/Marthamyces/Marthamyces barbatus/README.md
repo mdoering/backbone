@@ -1,5 +1,4 @@
-Marthamyces barbatus P.R. Johnst., 2006 SPECIES
-=======
+# Marthamyces barbatus P.R. Johnst., 2006 SPECIES
 
 #### Status
 ACCEPTED

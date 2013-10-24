@@ -1,5 +1,4 @@
-Bacidina streimannii Vezda SPECIES
-=======
+# Bacidina streimannii Vezda SPECIES
 
 #### Status
 ACCEPTED

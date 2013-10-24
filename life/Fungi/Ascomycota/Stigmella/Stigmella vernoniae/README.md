@@ -1,5 +1,4 @@
-Stigmella vernoniae Dearn. & Barthol. SPECIES
-=======
+# Stigmella vernoniae Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microphiale minima (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Microphiale minima (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

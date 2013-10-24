@@ -1,5 +1,4 @@
-Neottiella polytrichi (Schumach.) SPECIES
-=======
+# Neottiella polytrichi (Schumach.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma stanhopeicola (Henn.) Died. SPECIES
-=======
+# Macrophoma stanhopeicola (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

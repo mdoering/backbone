@@ -1,5 +1,4 @@
-Diploicia trevisanii SPECIES
-=======
+# Diploicia trevisanii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cladosporium cladosporioides f. sp FORM
-=======
+# Cladosporium cladosporioides (Fresen.) G.A. de Vries, 1952 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contrib. Knowledge of the Genus Cladosporium Link ex Fries 57 (1952)
 
 #### Original name
-Cladosporium cladosporioides f. sp
+null
 
 ### Remarks
 null

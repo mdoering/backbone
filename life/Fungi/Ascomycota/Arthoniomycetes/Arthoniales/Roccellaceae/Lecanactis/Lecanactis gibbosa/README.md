@@ -1,5 +1,4 @@
-Lecanactis gibbosa (Vain.) Zahlbr. SPECIES
-=======
+# Lecanactis gibbosa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

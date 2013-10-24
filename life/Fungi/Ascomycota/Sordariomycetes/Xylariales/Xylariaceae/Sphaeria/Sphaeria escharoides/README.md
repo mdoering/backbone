@@ -1,5 +1,4 @@
-Sphaeria escharoides Fr. SPECIES
-=======
+# Sphaeria escharoides Fr. SPECIES
 
 #### Status
 ACCEPTED

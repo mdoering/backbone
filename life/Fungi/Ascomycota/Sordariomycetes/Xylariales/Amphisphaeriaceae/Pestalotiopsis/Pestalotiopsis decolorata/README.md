@@ -1,5 +1,4 @@
-Pestalotiopsis decolorata (Speg.) Steyaert SPECIES
-=======
+# Pestalotiopsis decolorata (Speg.) Steyaert SPECIES
 
 #### Status
 ACCEPTED

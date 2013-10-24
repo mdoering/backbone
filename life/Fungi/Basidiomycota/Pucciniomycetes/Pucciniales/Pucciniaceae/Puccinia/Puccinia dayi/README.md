@@ -1,5 +1,4 @@
-Puccinia dayi Clinton SPECIES
-=======
+# Puccinia dayi Clinton SPECIES
 
 #### Status
 ACCEPTED

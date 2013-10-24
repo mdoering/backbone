@@ -1,5 +1,4 @@
-Stemphylium cucurbitacearum Osner SPECIES
-=======
+# Stemphylium cucurbitacearum Osner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium wallefii J.A. Mey. & Lanneau SPECIES
-=======
+# Chaetomium wallefii J.A. Mey. & Lanneau SPECIES
 
 #### Status
 ACCEPTED

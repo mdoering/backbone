@@ -1,5 +1,4 @@
-Mesorhizobium amorphae Wang et al., 1999 SPECIES
-=======
+# Mesorhizobium amorphae Wang et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

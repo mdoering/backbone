@@ -1,5 +1,4 @@
-Spathularia nigripes (Quél.) Sacc. SPECIES
-=======
+# Spathularia nigripes (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

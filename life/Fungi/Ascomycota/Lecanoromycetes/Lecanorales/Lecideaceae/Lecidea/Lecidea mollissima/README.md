@@ -1,5 +1,4 @@
-Lecidea mollissima Lynge SPECIES
-=======
+# Lecidea mollissima Lynge SPECIES
 
 #### Status
 ACCEPTED

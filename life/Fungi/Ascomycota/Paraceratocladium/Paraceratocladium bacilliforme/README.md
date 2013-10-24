@@ -1,17 +1,16 @@
-Paraceratocladium bacilliformis M. Calduch, Stchigel, Gené & Guarro SPECIES
-=======
+# Paraceratocladium bacilliforme M. Calduch, Stchigel, Gené & Guarro, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Calduch, Gené, Stchigel & Guarro, Mycologia 94(6): 1074 (2002)
 
 #### Original name
-Paraceratocladium bacilliformis M. Calduch, Stchigel, Gené & Guarro
+Paraceratocladium bacilliforme M. Calduch, Stchigel, Gené & Guarro, 2002
 
 ### Remarks
 null

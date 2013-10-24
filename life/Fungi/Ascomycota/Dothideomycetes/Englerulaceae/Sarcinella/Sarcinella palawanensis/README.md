@@ -1,5 +1,4 @@
-Sarcinella palawanensis (Syd.) V.P. Sahni SPECIES
-=======
+# Sarcinella palawanensis (Syd.) V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

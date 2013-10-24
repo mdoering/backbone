@@ -1,5 +1,4 @@
-Diplodia shearii Petr. SPECIES
-=======
+# Diplodia shearii Petr. SPECIES
 
 #### Status
 ACCEPTED

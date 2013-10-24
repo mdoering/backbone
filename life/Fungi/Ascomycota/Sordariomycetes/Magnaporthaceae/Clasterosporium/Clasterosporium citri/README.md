@@ -1,5 +1,4 @@
-Clasterosporium citri McAlpine SPECIES
-=======
+# Clasterosporium citri McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Haploravenelia hobsoni (Cooke) S. Ito SPECIES
-=======
+# Haploravenelia hobsonii (Cooke) S. Ito SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Sapporo nat. Hist. Soc. 17: 166 (1943)
 
 #### Original name
 Ravenelia hobsonii Cooke

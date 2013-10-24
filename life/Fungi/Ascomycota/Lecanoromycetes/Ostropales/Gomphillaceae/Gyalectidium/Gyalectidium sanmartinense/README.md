@@ -1,5 +1,4 @@
-Gyalectidium sanmartinense Herrera-Camp. & Lücking SPECIES
-=======
+# Gyalectidium sanmartinense Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

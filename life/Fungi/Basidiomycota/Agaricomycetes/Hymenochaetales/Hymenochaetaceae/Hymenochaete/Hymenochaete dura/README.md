@@ -1,5 +1,4 @@
-Hymenochaete dura Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Hymenochaete dura Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
 ACCEPTED

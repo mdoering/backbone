@@ -1,5 +1,4 @@
-Rosellinia rickii Bres. SPECIES
-=======
+# Rosellinia rickii Bres. SPECIES
 
 #### Status
 ACCEPTED

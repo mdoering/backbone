@@ -1,5 +1,4 @@
-Spireuma Haeckel, 1881 GENUS
-=======
+# Spireuma Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

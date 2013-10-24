@@ -1,5 +1,4 @@
-Bivallum diselmatis P.R. Johnst., 1991 SPECIES
-=======
+# Bivallum diselmatis P.R. Johnst., 1991 SPECIES
 
 #### Status
 ACCEPTED

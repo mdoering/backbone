@@ -1,5 +1,4 @@
-Quinquerhabdus D. Bukry & M.N. Bramlette, 1969 GENUS
-=======
+# Quinquerhabdus D. Bukry & M.N. Bramlette, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypospila rehmii Sacc. SPECIES
-=======
+# Hypospila rehmii Sacc. SPECIES
 
 #### Status
 ACCEPTED

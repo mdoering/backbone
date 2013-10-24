@@ -1,5 +1,4 @@
-Microdiplodia granati Bondartseva SPECIES
-=======
+# Microdiplodia granati Bondartseva SPECIES
 
 #### Status
 ACCEPTED

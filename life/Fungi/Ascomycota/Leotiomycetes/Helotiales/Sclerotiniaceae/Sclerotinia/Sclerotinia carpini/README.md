@@ -1,5 +1,4 @@
-Sclerotinia carpini Klika SPECIES
-=======
+# Sclerotinia carpini Klika SPECIES
 
 #### Status
 ACCEPTED

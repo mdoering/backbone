@@ -1,5 +1,4 @@
-Plenocatenulis magnoliae Bat. & Cif., 1959 SPECIES
-=======
+# Plenocatenulis magnoliae Bat. & Cif., 1959 SPECIES
 
 #### Status
 ACCEPTED

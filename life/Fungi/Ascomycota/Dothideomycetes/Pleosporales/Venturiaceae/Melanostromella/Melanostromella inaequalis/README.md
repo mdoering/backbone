@@ -1,5 +1,4 @@
-Melanostromella inaequalis Petr. SPECIES
-=======
+# Melanostromella inaequalis Petr. SPECIES
 
 #### Status
 ACCEPTED

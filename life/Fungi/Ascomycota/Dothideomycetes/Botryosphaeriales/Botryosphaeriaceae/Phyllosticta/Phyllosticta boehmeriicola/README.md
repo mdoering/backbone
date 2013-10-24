@@ -1,5 +1,4 @@
-Phyllosticta boehmeriicola Davis SPECIES
-=======
+# Phyllosticta boehmeriicola Davis SPECIES
 
 #### Status
 ACCEPTED

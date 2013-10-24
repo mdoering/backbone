@@ -1,5 +1,4 @@
-Dictyopteris acrostichoides (J. Agardh) Bornet SPECIES
-=======
+# Dictyopteris acrostichoides (J. Agardh) Bornet SPECIES
 
 #### Status
 ACCEPTED

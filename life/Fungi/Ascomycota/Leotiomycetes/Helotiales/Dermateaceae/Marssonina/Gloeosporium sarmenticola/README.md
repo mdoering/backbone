@@ -1,5 +1,4 @@
-Gloeosporium sarmenticola Speg. SPECIES
-=======
+# Gloeosporium sarmenticola Speg. SPECIES
 
 #### Status
 ACCEPTED

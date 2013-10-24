@@ -1,17 +1,16 @@
-Codonia I.C. Cookson & A. Eisenack, 1960 GENUS
-=======
+# Codoniella Cookson & Eisenack, 1961 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Micropaleontology 6: 11.
+Proc. R. Soc. Vict. 74: 75.
 
 #### Original name
-null
+Codonia I.C. Cookson & A. Eisenack, 1960
 
 ### Remarks
 null

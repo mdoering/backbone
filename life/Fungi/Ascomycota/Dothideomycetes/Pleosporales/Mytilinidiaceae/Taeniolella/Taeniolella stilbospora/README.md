@@ -1,17 +1,16 @@
-Taeniola stilbospora (Corda) Bonord., 1851 SPECIES
-=======
+# Taeniolella stilbospora (Corda) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 36: 817 (1958)
 
 #### Original name
-null
+Torula stilbospora Corda, 1829
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Entomophthora zabri Rozsypal SPECIES
-=======
+# Entomophthora zabri Rozsypal SPECIES
 
 #### Status
 ACCEPTED

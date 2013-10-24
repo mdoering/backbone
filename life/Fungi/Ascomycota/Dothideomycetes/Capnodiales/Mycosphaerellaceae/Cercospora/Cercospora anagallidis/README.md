@@ -1,17 +1,16 @@
-Cercospora anagallae M.S. Patil SPECIES
-=======
+# Cercospora anagallidis M.S. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. , Suppl. Issue 31(3): 327 (1978)
 
 #### Original name
-Cercospora anagallae M.S. Patil
+Cercospora anagallidis M.S. Patil
 
 ### Remarks
 null

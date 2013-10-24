@@ -1,5 +1,4 @@
-Pseudocercospora millingtoniae Raghu Ram & Mallaiah SPECIES
-=======
+# Pseudocercospora millingtoniae Raghu Ram & Mallaiah SPECIES
 
 #### Status
 ACCEPTED

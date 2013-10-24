@@ -1,5 +1,4 @@
-Eociadopyxis GENUS
-=======
+# Eociadopyxis GENUS
 
 #### Status
 ACCEPTED

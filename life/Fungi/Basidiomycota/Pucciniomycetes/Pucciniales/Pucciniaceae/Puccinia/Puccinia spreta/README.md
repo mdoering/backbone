@@ -1,5 +1,4 @@
-Puccinia spreta Peck SPECIES
-=======
+# Puccinia spreta Peck SPECIES
 
 #### Status
 ACCEPTED

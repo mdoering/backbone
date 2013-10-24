@@ -1,5 +1,4 @@
-Helminthosporium petersii Berk. & M.A. Curtis SPECIES
-=======
+# Helminthosporium petersii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

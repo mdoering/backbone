@@ -1,5 +1,4 @@
-Gonyaulax hyalina Ostenfeld & Schmidt SPECIES
-=======
+# Gonyaulax hyalina Ostenfeld & Schmidt SPECIES
 
 #### Status
 ACCEPTED

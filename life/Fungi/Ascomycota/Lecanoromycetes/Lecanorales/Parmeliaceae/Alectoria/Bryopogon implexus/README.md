@@ -1,5 +1,4 @@
-Bryopogon implexus f. implexus FORM
-=======
+# Bryopogon implexus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea jubata agg. tax
+null
 
 ### Remarks
 null

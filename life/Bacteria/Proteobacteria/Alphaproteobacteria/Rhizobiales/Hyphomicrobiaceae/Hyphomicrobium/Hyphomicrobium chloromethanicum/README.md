@@ -1,5 +1,4 @@
-Hyphomicrobium chloromethanicum McDonald et al., 2001 SPECIES
-=======
+# Hyphomicrobium chloromethanicum McDonald et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

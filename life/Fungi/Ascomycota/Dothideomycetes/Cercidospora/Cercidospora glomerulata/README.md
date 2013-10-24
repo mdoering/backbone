@@ -1,5 +1,4 @@
-Cercidospora glomerulata (Fuckel) Kuntze SPECIES
-=======
+# Cercidospora glomerulata (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

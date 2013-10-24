@@ -1,5 +1,4 @@
-Pyrenula sphaeroides (Zwackh) Hepp SPECIES
-=======
+# Pyrenula sphaeroides (Zwackh) Hepp SPECIES
 
 #### Status
 ACCEPTED

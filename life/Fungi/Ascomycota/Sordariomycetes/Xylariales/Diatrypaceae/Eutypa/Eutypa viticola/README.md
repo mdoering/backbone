@@ -1,5 +1,4 @@
-Eutypa viticola P. Crouan & H. Crouan SPECIES
-=======
+# Eutypa viticola P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

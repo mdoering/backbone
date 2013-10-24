@@ -1,5 +1,4 @@
-Diploicia llanoi (C.W. Dodge) C.W. Dodge SPECIES
-=======
+# Diploicia llanoi (C.W. Dodge) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

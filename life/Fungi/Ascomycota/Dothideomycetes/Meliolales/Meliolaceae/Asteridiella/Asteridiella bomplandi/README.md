@@ -1,8 +1,7 @@
-Asteridiella bomplandii (Speg.) Hansf. SPECIES
-=======
+# Asteridiella bomplandi (Speg.) Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

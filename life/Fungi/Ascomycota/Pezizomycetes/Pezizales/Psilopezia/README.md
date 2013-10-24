@@ -1,17 +1,16 @@
-Pilopeza Fr. GENUS
-=======
+# Psilopezia Berk. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Bot. , London 6: 325 (1847)
 
 #### Original name
-Pilopeza Fr.
+Psilopezia Berk.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Prospodium quitense (Syd.) Thirum. & F. Kern SPECIES
-=======
+# Prospodium quitense (Syd.) Thirum. & F. Kern SPECIES
 
 #### Status
 ACCEPTED

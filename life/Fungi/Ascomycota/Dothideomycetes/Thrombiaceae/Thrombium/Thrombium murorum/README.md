@@ -1,5 +1,4 @@
-Thrombium murorum A. Massal. SPECIES
-=======
+# Thrombium murorum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

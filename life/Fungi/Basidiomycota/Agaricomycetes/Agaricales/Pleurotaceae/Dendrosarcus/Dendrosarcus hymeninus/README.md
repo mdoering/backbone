@@ -1,5 +1,4 @@
-Dendrosarcus hymeninus (Durieu & Lév.) Kuntze SPECIES
-=======
+# Dendrosarcus hymeninus (Durieu & Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panus farneus Fr. SPECIES
-=======
+# Panus farneus Fr. SPECIES
 
 #### Status
 ACCEPTED

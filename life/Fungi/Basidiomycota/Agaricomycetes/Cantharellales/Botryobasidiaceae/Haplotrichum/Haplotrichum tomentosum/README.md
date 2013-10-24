@@ -1,5 +1,4 @@
-Haplotrichum tomentosum (Berk. & M.A. Curtis) Hol.-Jech. SPECIES
-=======
+# Haplotrichum tomentosum (Berk. & M.A. Curtis) Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

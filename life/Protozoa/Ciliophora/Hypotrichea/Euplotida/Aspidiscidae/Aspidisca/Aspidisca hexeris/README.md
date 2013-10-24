@@ -1,5 +1,4 @@
-Aspidisca hexeris Quennerstedt, 1869 SPECIES
-=======
+# Aspidisca hexeris Quennerstedt, 1869 SPECIES
 
 #### Status
 ACCEPTED

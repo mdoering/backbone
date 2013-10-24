@@ -1,5 +1,4 @@
-Nectria ustulinae Teng SPECIES
-=======
+# Nectria ustulinae Teng SPECIES
 
 #### Status
 ACCEPTED

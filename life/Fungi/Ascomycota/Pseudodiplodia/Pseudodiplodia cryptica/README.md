@@ -1,5 +1,4 @@
-Pseudodiplodia cryptica (Syd. {?} ) Petr. SPECIES
-=======
+# Pseudodiplodia cryptica (Syd. {?} ) Petr. SPECIES
 
 #### Status
 ACCEPTED

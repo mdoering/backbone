@@ -1,5 +1,4 @@
-Ophiocordycipitaceae G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora FAMILY
-=======
+# Ophiocordycipitaceae G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didothis GENUS
-=======
+# Didothis GENUS
 
 #### Status
 ACCEPTED

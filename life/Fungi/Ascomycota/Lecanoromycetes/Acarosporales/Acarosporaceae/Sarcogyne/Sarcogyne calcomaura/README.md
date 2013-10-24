@@ -1,5 +1,4 @@
-Sarcogyne calcomaura Norman SPECIES
-=======
+# Sarcogyne calcomaura Norman SPECIES
 
 #### Status
 ACCEPTED

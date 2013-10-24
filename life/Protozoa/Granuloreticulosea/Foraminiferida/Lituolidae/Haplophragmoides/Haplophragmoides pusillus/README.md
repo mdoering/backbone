@@ -1,5 +1,4 @@
-Haplophragmoides pusillus Collins, 1974 SPECIES
-=======
+# Haplophragmoides pusillus Collins, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramboldia sorediata Kalb SPECIES
-=======
+# Ramboldia sorediata Kalb SPECIES
 
 #### Status
 ACCEPTED

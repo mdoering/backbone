@@ -1,5 +1,4 @@
-Boletus adonis Pöder & Ladurner SPECIES
-=======
+# Boletus adonis Pöder & Ladurner SPECIES
 
 #### Status
 ACCEPTED

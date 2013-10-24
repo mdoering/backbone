@@ -1,5 +1,4 @@
-Uredo sororia Lasch SPECIES
-=======
+# Uredo sororia Lasch SPECIES
 
 #### Status
 ACCEPTED

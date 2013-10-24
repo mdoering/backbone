@@ -1,5 +1,4 @@
-Belonium pluviale Velen. SPECIES
-=======
+# Belonium pluviale Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pompholyx sapidum Corda SPECIES
-=======
+# Pompholyx sapidum Corda SPECIES
 
 #### Status
 ACCEPTED

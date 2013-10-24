@@ -1,5 +1,4 @@
-Agaricus cisneroi Speg. SPECIES
-=======
+# Agaricus cisneroi Speg. SPECIES
 
 #### Status
 ACCEPTED

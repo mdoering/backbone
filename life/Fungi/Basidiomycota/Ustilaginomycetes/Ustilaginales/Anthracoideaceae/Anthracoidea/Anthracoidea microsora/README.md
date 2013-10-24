@@ -1,5 +1,4 @@
-Anthracoidea microsora (Syd.) Kukkonen SPECIES
-=======
+# Anthracoidea microsora (Syd.) Kukkonen SPECIES
 
 #### Status
 ACCEPTED

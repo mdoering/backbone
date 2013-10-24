@@ -1,17 +1,16 @@
-Physcia endococcina var. endococcina VARIETY
-=======
+# Phaeophyscia endococcina (Körb.) Moberg SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 22(no. 1): 35 (1977)
 
 #### Original name
-null
+Parmelia endococcina Körb.
 
 ### Remarks
 null

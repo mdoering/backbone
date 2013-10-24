@@ -1,8 +1,7 @@
-Tracheloraphis incaudatus (Kahl, 1933) ? SPECIES
-=======
+# Trachelocerca incaudata Kahl, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

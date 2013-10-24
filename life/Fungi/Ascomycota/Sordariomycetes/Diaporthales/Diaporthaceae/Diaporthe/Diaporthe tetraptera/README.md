@@ -1,5 +1,4 @@
-Diaporthe tetraptera Ellis & Everh. SPECIES
-=======
+# Diaporthe tetraptera Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

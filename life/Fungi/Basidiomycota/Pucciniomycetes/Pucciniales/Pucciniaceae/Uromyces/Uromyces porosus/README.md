@@ -1,5 +1,4 @@
-Uromyces porosus (Peck) H.S. Jacks. SPECIES
-=======
+# Uromyces porosus (Peck) H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

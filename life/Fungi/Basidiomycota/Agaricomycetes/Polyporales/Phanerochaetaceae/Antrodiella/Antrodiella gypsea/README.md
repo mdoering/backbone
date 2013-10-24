@@ -1,5 +1,4 @@
-Antrodiella gypsea (Yasuda) T. Hatt. & Ryvarden SPECIES
-=======
+# Antrodiella gypsea (Yasuda) T. Hatt. & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

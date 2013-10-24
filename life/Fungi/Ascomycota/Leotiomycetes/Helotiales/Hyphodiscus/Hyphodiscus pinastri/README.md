@@ -1,5 +1,4 @@
-Hyphodiscus pinastri R. Galán & Raitv., 2004 SPECIES
-=======
+# Hyphodiscus pinastri R. Galán & Raitv., 2004 SPECIES
 
 #### Status
 ACCEPTED

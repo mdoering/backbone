@@ -1,5 +1,4 @@
-Amauroascus J. Schröter, 1893 GENUS
-=======
+# Amauroascus J. Schröter, 1893 GENUS
 
 #### Status
 ACCEPTED

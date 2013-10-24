@@ -1,5 +1,4 @@
-Cercophora septentrionalis N. Lundq., 1972 SPECIES
-=======
+# Cercophora septentrionalis N. Lundq., 1972 SPECIES
 
 #### Status
 ACCEPTED

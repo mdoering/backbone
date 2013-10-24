@@ -1,5 +1,4 @@
-Verticillium tumorum Cooke SPECIES
-=======
+# Verticillium tumorum Cooke SPECIES
 
 #### Status
 ACCEPTED

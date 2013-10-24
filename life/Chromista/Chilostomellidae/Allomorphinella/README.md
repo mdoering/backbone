@@ -1,5 +1,4 @@
-Allomorphinella Cushman, 1927 GENUS
-=======
+# Allomorphinella Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

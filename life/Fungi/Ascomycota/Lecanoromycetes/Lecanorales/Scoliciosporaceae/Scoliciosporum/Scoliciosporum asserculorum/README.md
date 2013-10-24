@@ -1,5 +1,4 @@
-Scoliciosporum asserculorum (Th. Fr.) Jatta SPECIES
-=======
+# Scoliciosporum asserculorum (Th. Fr.) Jatta SPECIES
 
 #### Status
 ACCEPTED

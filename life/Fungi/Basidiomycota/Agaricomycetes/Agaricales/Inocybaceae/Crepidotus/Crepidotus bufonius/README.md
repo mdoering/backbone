@@ -1,5 +1,4 @@
-Crepidotus bufonius Velen. SPECIES
-=======
+# Crepidotus bufonius Velen. SPECIES
 
 #### Status
 ACCEPTED

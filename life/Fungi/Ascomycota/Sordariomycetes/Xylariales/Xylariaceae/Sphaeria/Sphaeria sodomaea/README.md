@@ -1,5 +1,4 @@
-Sphaeria sodomaea De Not. SPECIES
-=======
+# Sphaeria sodomaea De Not. SPECIES
 
 #### Status
 ACCEPTED

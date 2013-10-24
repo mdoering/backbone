@@ -1,5 +1,4 @@
-Entoloma fibrillosum (Peck) Hesler SPECIES
-=======
+# Entoloma fibrillosum (Peck) Hesler SPECIES
 
 #### Status
 ACCEPTED

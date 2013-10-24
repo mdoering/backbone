@@ -1,5 +1,4 @@
-Foremanellina Dumitrica, 1982 GENUS
-=======
+# Foremanellina Dumitrica, 1982 GENUS
 
 #### Status
 ACCEPTED

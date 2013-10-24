@@ -1,5 +1,4 @@
-Puccinia physalidis Peck SPECIES
-=======
+# Puccinia physalidis Peck SPECIES
 
 #### Status
 ACCEPTED

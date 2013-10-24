@@ -1,5 +1,4 @@
-Lecanora pseudosorediata Motyka SPECIES
-=======
+# Lecanora pseudosorediata Motyka SPECIES
 
 #### Status
 ACCEPTED

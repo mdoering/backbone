@@ -1,5 +1,4 @@
-Asterolampra grevillei (Wallich) Greville SPECIES
-=======
+# Asterolampra grevillei (Wallich) Greville SPECIES
 
 #### Status
 ACCEPTED

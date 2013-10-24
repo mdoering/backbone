@@ -1,5 +1,4 @@
-Peziza sublilacina Svrcek SPECIES
-=======
+# Peziza sublilacina Svrcek SPECIES
 
 #### Status
 ACCEPTED

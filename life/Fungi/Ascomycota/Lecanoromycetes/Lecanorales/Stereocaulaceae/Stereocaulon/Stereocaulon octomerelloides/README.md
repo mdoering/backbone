@@ -1,5 +1,4 @@
-Stereocaulon octomerelloides Asahina SPECIES
-=======
+# Stereocaulon octomerelloides Asahina SPECIES
 
 #### Status
 ACCEPTED

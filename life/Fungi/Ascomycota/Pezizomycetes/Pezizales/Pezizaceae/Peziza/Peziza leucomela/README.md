@@ -1,5 +1,4 @@
-Peziza leucomela Alb. & Schwein. SPECIES
-=======
+# Peziza leucomela Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

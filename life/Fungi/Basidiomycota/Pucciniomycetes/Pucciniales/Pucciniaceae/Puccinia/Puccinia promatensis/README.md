@@ -1,5 +1,4 @@
-Puccinia promatensis Berndt SPECIES
-=======
+# Puccinia promatensis Berndt SPECIES
 
 #### Status
 ACCEPTED

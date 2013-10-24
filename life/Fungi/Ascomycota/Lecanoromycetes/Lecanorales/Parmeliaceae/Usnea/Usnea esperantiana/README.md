@@ -1,5 +1,4 @@
-Usnea esperantiana P. Clerc SPECIES
-=======
+# Usnea esperantiana P. Clerc SPECIES
 
 #### Status
 ACCEPTED

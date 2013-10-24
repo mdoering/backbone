@@ -1,14 +1,13 @@
-Verrucaria hydrela var. puncticulata P. M. McCarthy VARIETY
-=======
+# Verrucaria puncticulata (P. M. McCarthy) P. M. McCarthy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Muelleria 7(3): 322 (1991)
+Lichenologist 27(2): 119 (1995)
 
 #### Original name
 Verrucaria hydrela var. puncticulata P. M. McCarthy

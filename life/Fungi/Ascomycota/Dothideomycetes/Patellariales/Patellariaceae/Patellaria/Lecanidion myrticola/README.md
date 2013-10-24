@@ -1,5 +1,4 @@
-Lecanidion myrticola (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Lecanidion myrticola (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

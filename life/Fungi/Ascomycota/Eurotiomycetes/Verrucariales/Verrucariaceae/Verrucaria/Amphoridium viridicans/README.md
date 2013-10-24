@@ -1,5 +1,4 @@
-Amphoridium viridicans (Servít) Servít SPECIES
-=======
+# Amphoridium viridicans (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

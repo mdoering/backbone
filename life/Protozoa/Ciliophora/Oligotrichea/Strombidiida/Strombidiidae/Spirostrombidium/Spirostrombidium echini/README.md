@@ -1,5 +1,4 @@
-Spirostrombidium echini Song, Wilbert & Warren, 1999 SPECIES
-=======
+# Spirostrombidium echini Song, Wilbert & Warren, 1999 SPECIES
 
 #### Status
 ACCEPTED

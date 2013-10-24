@@ -1,5 +1,4 @@
-Caloplaca ochrotropa Zahlbr. SPECIES
-=======
+# Caloplaca ochrotropa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

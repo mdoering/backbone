@@ -1,5 +1,4 @@
-Peschongia McCulloch, 1977 GENUS
-=======
+# Peschongia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

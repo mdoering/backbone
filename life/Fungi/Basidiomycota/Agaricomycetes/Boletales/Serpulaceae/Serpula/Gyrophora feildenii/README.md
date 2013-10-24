@@ -1,5 +1,4 @@
-Gyrophora feildenii (Vain.) Zahlbr. SPECIES
-=======
+# Gyrophora feildenii (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

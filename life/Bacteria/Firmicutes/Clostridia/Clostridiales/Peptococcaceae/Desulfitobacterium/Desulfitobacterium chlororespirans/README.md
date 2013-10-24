@@ -1,5 +1,4 @@
-Desulfitobacterium chlororespirans Sanford et al., 2001 SPECIES
-=======
+# Desulfitobacterium chlororespirans Sanford et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

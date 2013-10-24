@@ -1,5 +1,4 @@
-Xenococcus bicudoi G. Montejano, M. Gold & J. Komárek SPECIES
-=======
+# Xenococcus bicudoi G. Montejano, M. Gold & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

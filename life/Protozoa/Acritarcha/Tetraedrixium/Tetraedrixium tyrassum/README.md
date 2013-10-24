@@ -1,5 +1,4 @@
-Tetraedrixium tyrassum Timofeev, 1973 SPECIES
-=======
+# Tetraedrixium tyrassum Timofeev, 1973 SPECIES
 
 #### Status
 ACCEPTED

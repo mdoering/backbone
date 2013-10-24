@@ -1,5 +1,4 @@
-Patellaria coccinea f. coccinea FORM
-=======
+# Patellaria coccinea Wallr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Patellaria coccinea f. coccinea
+Patellaria coccinea Wallr.
 
 ### Remarks
 null

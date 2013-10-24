@@ -1,5 +1,4 @@
-Buellia exsoluta (Nyl.) Müll. Arg. SPECIES
-=======
+# Buellia exsoluta (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

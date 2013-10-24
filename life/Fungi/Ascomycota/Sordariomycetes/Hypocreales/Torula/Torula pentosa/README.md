@@ -1,5 +1,4 @@
-Torula pentosa F.C. Harrison SPECIES
-=======
+# Torula pentosa F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

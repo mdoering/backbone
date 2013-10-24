@@ -1,5 +1,4 @@
-Puccinia campanulae-scheuchzeri Gäum. & Jaag SPECIES
-=======
+# Puccinia campanulae-scheuchzeri Gäum. & Jaag SPECIES
 
 #### Status
 ACCEPTED

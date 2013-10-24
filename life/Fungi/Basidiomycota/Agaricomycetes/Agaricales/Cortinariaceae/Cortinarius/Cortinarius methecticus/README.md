@@ -1,5 +1,4 @@
-Cortinarius methecticus Rob. Henry SPECIES
-=======
+# Cortinarius methecticus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

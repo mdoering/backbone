@@ -1,5 +1,4 @@
-Phyllosticta tephrosiae G.P. Agarwal SPECIES
-=======
+# Phyllosticta tephrosiae G.P. Agarwal SPECIES
 
 #### Status
 ACCEPTED

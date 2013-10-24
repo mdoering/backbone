@@ -1,5 +1,4 @@
-Amphinema diadema K.H. Larss. & Hjortstam, 1986 SPECIES
-=======
+# Amphinema diadema K.H. Larss. & Hjortstam, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium circinans Fuckel SPECIES
-=======
+# Leptothyrium circinans Fuckel SPECIES
 
 #### Status
 ACCEPTED

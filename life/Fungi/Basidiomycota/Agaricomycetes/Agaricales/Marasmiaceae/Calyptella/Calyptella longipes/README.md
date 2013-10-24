@@ -1,14 +1,13 @@
-Lachnella longipes (Cooke & Massee) G. Cunn., 1963 SPECIES
-=======
+# Calyptella longipes (Cooke & Massee) W.B. Cooke, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 145: 318 (1963)
+Beih. Sydowia 4: 40 (1961)
 
 #### Original name
 Cyphella longipes Cooke & Massee, 1892

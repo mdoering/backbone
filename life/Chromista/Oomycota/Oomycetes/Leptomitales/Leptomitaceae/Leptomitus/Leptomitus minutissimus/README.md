@@ -1,5 +1,4 @@
-Leptomitus minutissimus (Dillwyn) C. Agardh SPECIES
-=======
+# Leptomitus minutissimus (Dillwyn) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

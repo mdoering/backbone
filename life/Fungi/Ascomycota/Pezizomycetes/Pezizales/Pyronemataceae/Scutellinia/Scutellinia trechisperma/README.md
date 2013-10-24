@@ -1,5 +1,4 @@
-Scutellinia trechisperma Donadini SPECIES
-=======
+# Scutellinia trechisperma Donadini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleuropus erythrosporus (Peck) Murrill SPECIES
-=======
+# Pleuropus erythrosporus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

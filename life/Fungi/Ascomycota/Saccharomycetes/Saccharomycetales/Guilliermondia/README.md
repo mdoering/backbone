@@ -1,5 +1,4 @@
-Guilliermondia GENUS
-=======
+# Guilliermondia GENUS
 
 #### Status
 ACCEPTED

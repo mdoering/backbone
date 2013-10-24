@@ -1,17 +1,16 @@
-Hymenogaster mcmurphyi Zeller & C.W. Dodge SPECIES
-=======
+# Hymenogaster macmurphyi Zeller & C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 21: 658 (1934)
 
 #### Original name
-Hymenogaster mcmurphyi Zeller & C.W. Dodge
+Hymenogaster macmurphyi Zeller & C.W. Dodge
 
 ### Remarks
 null

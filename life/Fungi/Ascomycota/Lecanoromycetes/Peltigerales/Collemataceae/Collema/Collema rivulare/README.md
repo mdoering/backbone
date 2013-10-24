@@ -1,5 +1,4 @@
-Collema rivulare SPECIES
-=======
+# Collema rivulare SPECIES
 
 #### Status
 ACCEPTED

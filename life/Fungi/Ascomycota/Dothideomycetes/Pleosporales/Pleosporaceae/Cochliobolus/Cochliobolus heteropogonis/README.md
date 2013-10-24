@@ -1,5 +1,4 @@
-Cochliobolus heteropogonis Alcorn, 1990 SPECIES
-=======
+# Cochliobolus heteropogonis Alcorn, 1990 SPECIES
 
 #### Status
 ACCEPTED

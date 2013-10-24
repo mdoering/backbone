@@ -1,5 +1,4 @@
-Meliola eugeniicola F. Stevens SPECIES
-=======
+# Meliola eugeniicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

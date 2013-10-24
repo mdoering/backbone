@@ -1,5 +1,4 @@
-Verrucaria anisospora (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria anisospora (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

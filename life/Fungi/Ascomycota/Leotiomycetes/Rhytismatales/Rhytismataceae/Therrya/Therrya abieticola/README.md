@@ -1,5 +1,4 @@
-Therrya abieticola C.L. Hou & M. Piepenbr., 2007 SPECIES
-=======
+# Therrya abieticola C.L. Hou & M. Piepenbr., 2007 SPECIES
 
 #### Status
 ACCEPTED

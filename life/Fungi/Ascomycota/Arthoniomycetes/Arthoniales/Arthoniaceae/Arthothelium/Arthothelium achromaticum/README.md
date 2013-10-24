@@ -1,5 +1,4 @@
-Arthothelium achromaticum Makhija & Patw. SPECIES
-=======
+# Arthothelium achromaticum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

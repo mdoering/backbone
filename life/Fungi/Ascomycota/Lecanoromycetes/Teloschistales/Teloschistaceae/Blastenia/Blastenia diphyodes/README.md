@@ -1,5 +1,4 @@
-Blastenia diphyodes (Nyl.) Zahlbr. SPECIES
-=======
+# Blastenia diphyodes (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

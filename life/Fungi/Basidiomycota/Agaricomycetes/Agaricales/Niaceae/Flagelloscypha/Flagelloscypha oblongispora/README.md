@@ -1,5 +1,4 @@
-Flagelloscypha oblongispora Agerer, 1980 SPECIES
-=======
+# Flagelloscypha oblongispora Agerer, 1980 SPECIES
 
 #### Status
 ACCEPTED

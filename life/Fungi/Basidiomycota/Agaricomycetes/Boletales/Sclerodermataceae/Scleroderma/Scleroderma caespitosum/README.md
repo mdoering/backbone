@@ -1,5 +1,4 @@
-Scleroderma caespitosum Lloyd SPECIES
-=======
+# Scleroderma caespitosum Lloyd SPECIES
 
 #### Status
 ACCEPTED

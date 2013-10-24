@@ -1,5 +1,4 @@
-Opegrapha albidoatra Fink SPECIES
-=======
+# Opegrapha albidoatra Fink SPECIES
 
 #### Status
 ACCEPTED

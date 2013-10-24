@@ -1,5 +1,4 @@
-Valsa ehrenbergii Tul. & C. Tul. SPECIES
-=======
+# Valsa ehrenbergii Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

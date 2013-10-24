@@ -1,5 +1,4 @@
-Ignisphaera Niederberger, Gotz, McDonald, Ronimus & Morgan, 2006 GENUS
-=======
+# Ignisphaera Niederberger, Gotz, McDonald, Ronimus & Morgan, 2006 GENUS
 
 #### Status
 ACCEPTED

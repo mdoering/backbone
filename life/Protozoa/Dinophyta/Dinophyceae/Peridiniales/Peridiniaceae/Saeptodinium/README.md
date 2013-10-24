@@ -1,8 +1,7 @@
-Sanshuia J. Yu, M. Sun, S. Sun & S. Mao, 1981 GENUS
-=======
+# Saeptodinium W.K. Harris, 1973 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

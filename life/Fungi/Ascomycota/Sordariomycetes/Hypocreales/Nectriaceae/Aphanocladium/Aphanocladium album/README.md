@@ -1,14 +1,13 @@
-Acremonium album Preuss, 1848 SPECIES
-=======
+# Aphanocladium album (Preuss) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cephalosporium-artige Schimmelpilze (Stuttgart) 196 (1971)
 
 #### Original name
 Acremonium album Preuss, 1848

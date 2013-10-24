@@ -1,5 +1,4 @@
-Lophophaenidae Haeckel, 1881 FAMILY
-=======
+# Lophophaenidae Haeckel, 1881 FAMILY
 
 #### Status
 ACCEPTED

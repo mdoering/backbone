@@ -1,5 +1,4 @@
-Thelidium opacum J. Lahm SPECIES
-=======
+# Thelidium opacum J. Lahm SPECIES
 
 #### Status
 ACCEPTED

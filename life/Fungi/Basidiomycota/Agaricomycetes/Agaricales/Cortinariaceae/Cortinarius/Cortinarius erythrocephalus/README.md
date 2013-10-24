@@ -1,5 +1,4 @@
-Cortinarius erythrocephalus Dennis SPECIES
-=======
+# Cortinarius erythrocephalus Dennis SPECIES
 
 #### Status
 ACCEPTED

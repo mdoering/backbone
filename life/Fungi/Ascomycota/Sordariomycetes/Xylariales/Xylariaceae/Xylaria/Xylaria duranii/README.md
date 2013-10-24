@@ -1,5 +1,4 @@
-Xylaria duranii F. San Martín & Vanoye, 2001 SPECIES
-=======
+# Xylaria duranii F. San Martín & Vanoye, 2001 SPECIES
 
 #### Status
 ACCEPTED

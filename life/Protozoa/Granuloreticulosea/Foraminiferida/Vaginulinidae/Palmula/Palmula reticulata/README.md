@@ -1,5 +1,4 @@
-Palmula reticulata (Reuss) SPECIES
-=======
+# Palmula reticulata (Reuss) SPECIES
 
 #### Status
 ACCEPTED

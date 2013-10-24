@@ -1,5 +1,4 @@
-Polystictus microcyclus Lév. SPECIES
-=======
+# Polystictus microcyclus Lév. SPECIES
 
 #### Status
 ACCEPTED

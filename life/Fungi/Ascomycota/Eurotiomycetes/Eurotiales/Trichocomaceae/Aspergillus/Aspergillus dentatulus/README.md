@@ -1,5 +1,4 @@
-Aspergillus dentatulus M.A. Ismail, Abdel-Sater & Zohri SPECIES
-=======
+# Aspergillus dentatulus M.A. Ismail, Abdel-Sater & Zohri SPECIES
 
 #### Status
 ACCEPTED

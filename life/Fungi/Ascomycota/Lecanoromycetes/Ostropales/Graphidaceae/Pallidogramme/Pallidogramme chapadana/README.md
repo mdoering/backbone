@@ -1,5 +1,4 @@
-Pallidogramme chapadana (Redinger) Staiger, Kalb & Lücking SPECIES
-=======
+# Pallidogramme chapadana (Redinger) Staiger, Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED

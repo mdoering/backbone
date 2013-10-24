@@ -1,14 +1,13 @@
-Placodium glaucolividum Müll. Arg. SPECIES
-=======
+# Ramalinora glaucolivida (Müll. Arg.) Lumbsch, Rambold & Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 23: 388 (1891)
+Aust. Syst. Bot. 8(4): 522 (1995)
 
 #### Original name
 Placodium glaucolividum Müll. Arg.

@@ -1,5 +1,4 @@
-Parmelia imitans f. imitans FORM
-=======
+# Parmelia imitans (Müll. Arg.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia imitans f. imitans
+Parmelia conspersa var. imitans Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arthopyrenia umbrosa (Taylor) Mudd SPECIES
-=======
+# Arthopyrenia umbrosa (Taylor) Mudd SPECIES
 
 #### Status
 ACCEPTED

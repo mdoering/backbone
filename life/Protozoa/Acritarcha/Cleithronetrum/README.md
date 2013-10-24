@@ -1,5 +1,4 @@
-Cleithronetrum A.R. Loeblich Jr. & H. Tappan, 1978 GENUS
-=======
+# Cleithronetrum A.R. Loeblich Jr. & H. Tappan, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Termitomyces singidensis Saarim. & Härk. SPECIES
-=======
+# Termitomyces singidensis Saarim. & Härk. SPECIES
 
 #### Status
 ACCEPTED

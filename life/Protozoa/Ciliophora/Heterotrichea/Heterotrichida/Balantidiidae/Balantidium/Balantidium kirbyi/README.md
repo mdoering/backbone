@@ -1,5 +1,4 @@
-Balantidium kirbyi Rodriguez, 1939 SPECIES
-=======
+# Balantidium kirbyi Rodriguez, 1939 SPECIES
 
 #### Status
 ACCEPTED

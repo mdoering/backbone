@@ -1,17 +1,16 @@
-Phomopsis capsici (Magnaghi) Sacc., 1916 SPECIES
-=======
+# Diaporthe capsici Punith., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovo Giorn. Bot. Ital. , N. S. 23(2): 209 (1916)
+Mycol. Pap. 149: 2 (1981)
 
 #### Original name
-Phoma capsici Magnaghi, 1902
+Diaporthe capsici Punith., 1981
 
 ### Remarks
 null

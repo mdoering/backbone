@@ -1,8 +1,7 @@
-Kentrophoros trichocystum (Dragesco, 1954) Foissner, 1995 SPECIES
-=======
+# Kentrophoros trichocystus (Dragesco, 1954) Foissner, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

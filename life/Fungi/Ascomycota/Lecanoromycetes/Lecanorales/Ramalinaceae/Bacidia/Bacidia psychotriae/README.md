@@ -1,5 +1,4 @@
-Bacidia psychotriae (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia psychotriae (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiobolidium spirale Malloch & Cain, 1971 SPECIES
-=======
+# Lasiobolidium spirale Malloch & Cain, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora hoglandica (Nyl.) Räsänen SPECIES
-=======
+# Biatora hoglandica (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

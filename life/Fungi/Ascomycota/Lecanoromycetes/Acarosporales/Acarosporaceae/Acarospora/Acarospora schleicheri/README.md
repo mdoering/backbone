@@ -1,14 +1,13 @@
-Placodium schleicheri (Ach.) SPECIES
-=======
+# Acarospora schleicheri (Ach.) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ric. auton. lich. crost. (Verona) 27 (1852)
 
 #### Original name
 null

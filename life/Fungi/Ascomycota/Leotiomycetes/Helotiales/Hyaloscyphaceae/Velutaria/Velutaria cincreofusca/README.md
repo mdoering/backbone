@@ -1,5 +1,4 @@
-Velutaria cincreofusca Schwein. SPECIES
-=======
+# Velutaria cincreofusca Schwein. SPECIES
 
 #### Status
 ACCEPTED

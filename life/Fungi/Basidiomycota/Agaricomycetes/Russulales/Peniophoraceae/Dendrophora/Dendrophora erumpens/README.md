@@ -1,5 +1,4 @@
-Dendrophora erumpens (Burt) Chamuris, 1987 SPECIES
-=======
+# Dendrophora erumpens (Burt) Chamuris, 1987 SPECIES
 
 #### Status
 ACCEPTED

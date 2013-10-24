@@ -1,5 +1,4 @@
-Lichen jungermanniae Vahl SPECIES
-=======
+# Lichen jungermanniae Vahl SPECIES
 
 #### Status
 ACCEPTED

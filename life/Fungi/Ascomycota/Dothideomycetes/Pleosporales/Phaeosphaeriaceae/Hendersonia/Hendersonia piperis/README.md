@@ -1,5 +1,4 @@
-Hendersonia piperis Sawada SPECIES
-=======
+# Hendersonia piperis Sawada SPECIES
 
 #### Status
 ACCEPTED

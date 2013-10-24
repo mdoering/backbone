@@ -1,5 +1,4 @@
-Zythiostroma F. von Höhnel ex Falck, 1923 GENUS
-=======
+# Zythiostroma F. von Höhnel ex Falck, 1923 GENUS
 
 #### Status
 ACCEPTED

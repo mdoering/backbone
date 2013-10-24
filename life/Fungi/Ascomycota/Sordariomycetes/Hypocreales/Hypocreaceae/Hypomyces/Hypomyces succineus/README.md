@@ -1,5 +1,4 @@
-Hypomyces succineus Rogerson & Samuels SPECIES
-=======
+# Hypomyces succineus Rogerson & Samuels SPECIES
 
 #### Status
 ACCEPTED

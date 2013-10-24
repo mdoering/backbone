@@ -1,5 +1,4 @@
-Cyclotella kisselevii O. Korotkevich SPECIES
-=======
+# Cyclotella kisselevii O. Korotkevich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tephromela buelliana (Müll. Arg.) Kalb SPECIES
-=======
+# Tephromela buelliana (Müll. Arg.) Kalb SPECIES
 
 #### Status
 ACCEPTED

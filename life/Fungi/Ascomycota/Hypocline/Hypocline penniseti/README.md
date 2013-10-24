@@ -1,5 +1,4 @@
-Hypocline penniseti Syd., 1939 SPECIES
-=======
+# Hypocline penniseti Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon vellereum var. vellereum VARIETY
-=======
+# Dermatocarpon vellereum Zschacke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Rabenhorst's Kryptogamenflora (Leipzig) 9(1): 638 (1934)
 
 #### Original name
-Dermatocarpon vellereum var. vellereum
+Dermatocarpon vellereum Zschacke
 
 ### Remarks
 null

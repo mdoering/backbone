@@ -1,5 +1,4 @@
-Hygrophorus fuligineosquamosus Cleland SPECIES
-=======
+# Hygrophorus fuligineosquamosus Cleland SPECIES
 
 #### Status
 ACCEPTED

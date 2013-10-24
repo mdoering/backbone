@@ -1,5 +1,4 @@
-Selenophoma ammodendri Kalymb. SPECIES
-=======
+# Selenophoma ammodendri Kalymb. SPECIES
 
 #### Status
 ACCEPTED

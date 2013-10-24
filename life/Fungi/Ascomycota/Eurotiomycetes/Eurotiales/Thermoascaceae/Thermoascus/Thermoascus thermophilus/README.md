@@ -1,14 +1,13 @@
-Penicillium thermophilum (Sopp) Sacc., 1931 SPECIES
-=======
+# Thermoascus thermophilus (Sopp) Arx, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gen. Fungi Sporul. Cult. (Lehr) 84 (1970)
 
 #### Original name
 Dactylomyces thermophilus Sopp, 1912

@@ -1,5 +1,4 @@
-Paratrochammina (Lepidoparatrochammina) lepida Brönnimann & Whittaker, 1986 SPECIES
-=======
+# Paratrochammina (Lepidoparatrochammina) lepida Brönnimann & Whittaker, 1986 SPECIES
 
 #### Status
 ACCEPTED

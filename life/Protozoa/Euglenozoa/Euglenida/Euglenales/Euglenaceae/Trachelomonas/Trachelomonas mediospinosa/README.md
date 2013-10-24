@@ -1,5 +1,4 @@
-Trachelomonas mediospinosa W. Vyverman SPECIES
-=======
+# Trachelomonas mediospinosa W. Vyverman SPECIES
 
 #### Status
 ACCEPTED

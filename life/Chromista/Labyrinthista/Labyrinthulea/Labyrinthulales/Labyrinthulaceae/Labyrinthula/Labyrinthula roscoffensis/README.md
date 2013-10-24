@@ -1,5 +1,4 @@
-Labyrinthula roscoffensis Chadef. SPECIES
-=======
+# Labyrinthula roscoffensis Chadef. SPECIES
 
 #### Status
 ACCEPTED

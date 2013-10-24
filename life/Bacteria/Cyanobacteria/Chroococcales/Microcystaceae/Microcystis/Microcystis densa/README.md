@@ -1,5 +1,4 @@
-Microcystis densa G.S. West SPECIES
-=======
+# Microcystis densa G.S. West SPECIES
 
 #### Status
 ACCEPTED

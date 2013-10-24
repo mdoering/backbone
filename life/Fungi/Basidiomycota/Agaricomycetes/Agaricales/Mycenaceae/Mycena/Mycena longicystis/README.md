@@ -1,5 +1,4 @@
-Mycena longicystis R. Heim SPECIES
-=======
+# Mycena longicystis R. Heim SPECIES
 
 #### Status
 ACCEPTED

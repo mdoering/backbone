@@ -1,14 +1,13 @@
-Daedalea roseola (Pat. & Har.) A. Roy & A.B. De, 1996 SPECIES
-=======
+# Trametes roseola Pat. & Har., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 58: 415 (1996)
+J. Bot. , Paris 239 (1900)
 
 #### Original name
 Trametes roseola Pat. & Har., 1900

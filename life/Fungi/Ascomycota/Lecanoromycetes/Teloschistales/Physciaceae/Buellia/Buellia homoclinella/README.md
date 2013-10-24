@@ -1,5 +1,4 @@
-Buellia homoclinella (Nyl.) H. Olivier SPECIES
-=======
+# Buellia homoclinella (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

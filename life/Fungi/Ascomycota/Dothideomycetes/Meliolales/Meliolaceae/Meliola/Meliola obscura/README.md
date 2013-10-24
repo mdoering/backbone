@@ -1,5 +1,4 @@
-Meliola obscura (F. Stevens) Cif. SPECIES
-=======
+# Meliola obscura (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

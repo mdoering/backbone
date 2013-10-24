@@ -1,5 +1,4 @@
-Ovoidinium verrucosum (Cookson & Hughes, 1964) Davey, 1970 SPECIES
-=======
+# Ovoidinium verrucosum (Cookson & Hughes, 1964) Davey, 1970 SPECIES
 
 #### Status
 ACCEPTED

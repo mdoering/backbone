@@ -1,5 +1,4 @@
-Physarum stipitatum Chevall. SPECIES
-=======
+# Physarum stipitatum Chevall. SPECIES
 
 #### Status
 ACCEPTED

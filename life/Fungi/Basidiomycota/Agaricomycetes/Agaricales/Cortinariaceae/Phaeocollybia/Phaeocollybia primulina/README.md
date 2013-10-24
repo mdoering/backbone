@@ -1,5 +1,4 @@
-Phaeocollybia primulina (Berk.) E. Horak SPECIES
-=======
+# Phaeocollybia primulina (Berk.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

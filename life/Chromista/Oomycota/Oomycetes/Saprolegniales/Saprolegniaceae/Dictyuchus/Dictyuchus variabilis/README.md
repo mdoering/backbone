@@ -1,5 +1,4 @@
-Dictyuchus variabilis (Indoh) Chiou & H.S. Chang SPECIES
-=======
+# Dictyuchus variabilis (Indoh) Chiou & H.S. Chang SPECIES
 
 #### Status
 ACCEPTED

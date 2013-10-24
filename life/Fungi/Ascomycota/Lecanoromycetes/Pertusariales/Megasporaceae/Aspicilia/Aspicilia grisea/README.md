@@ -1,17 +1,16 @@
-Lecanora insolata H. Magn. SPECIES
-=======
+# Aspicilia grisea Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-K. svenska Vetensk-Akad. Handl. 17(no. 5): 137 (1939)
+Ber. bayer. bot. Ges. 1(Anhang): 62 (1891)
 
 #### Original name
-Lecanora insolata H. Magn.
+Aspicilia grisea Arnold
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ascophanus vicinus Boud. SPECIES
-=======
+# Ascophanus vicinus Boud. SPECIES
 
 #### Status
 ACCEPTED

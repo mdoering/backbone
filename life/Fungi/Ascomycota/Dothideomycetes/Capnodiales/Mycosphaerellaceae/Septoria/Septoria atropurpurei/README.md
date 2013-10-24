@@ -1,5 +1,4 @@
-Septoria atropurpurei Tehon SPECIES
-=======
+# Septoria atropurpurei Tehon SPECIES
 
 #### Status
 ACCEPTED

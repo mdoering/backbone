@@ -1,5 +1,4 @@
-Phragmidium rosae-rugosae Kasai, 1910 SPECIES
-=======
+# Phragmidium rosae-rugosae Kasai, 1910 SPECIES
 
 #### Status
 ACCEPTED

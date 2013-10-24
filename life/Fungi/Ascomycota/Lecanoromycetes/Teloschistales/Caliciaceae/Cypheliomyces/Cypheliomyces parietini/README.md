@@ -1,5 +1,4 @@
-Cypheliomyces parietini E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Cypheliomyces parietini E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

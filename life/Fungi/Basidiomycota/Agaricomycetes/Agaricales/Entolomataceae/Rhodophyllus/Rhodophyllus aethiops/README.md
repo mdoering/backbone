@@ -1,5 +1,4 @@
-Rhodophyllus aethiops (Fr.) Quél. SPECIES
-=======
+# Rhodophyllus aethiops (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

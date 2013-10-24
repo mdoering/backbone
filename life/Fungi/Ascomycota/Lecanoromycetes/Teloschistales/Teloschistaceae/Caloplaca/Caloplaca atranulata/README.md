@@ -1,5 +1,4 @@
-Caloplaca atranulata Poelt & Hinter. SPECIES
-=======
+# Caloplaca atranulata Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

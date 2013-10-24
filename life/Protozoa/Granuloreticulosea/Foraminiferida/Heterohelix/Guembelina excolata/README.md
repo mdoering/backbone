@@ -1,5 +1,4 @@
-Guembelina excolata (Cushman, 1926) SPECIES
-=======
+# Guembelina excolata (Cushman, 1926) SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Lathraeodiscus arcticus Dissing & Sivertsen, 1989 SPECIES
-=======
+# Lathraeodiscus arcticus Dissing & Sivertsen, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphodiscosia radicicola Ts. Watan. SPECIES
-=======
+# Hyphodiscosia radicicola Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

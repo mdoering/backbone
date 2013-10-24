@@ -1,5 +1,4 @@
-Nocardia takedensis Yamamura et al., 2005 SPECIES
-=======
+# Nocardia takedensis Yamamura et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

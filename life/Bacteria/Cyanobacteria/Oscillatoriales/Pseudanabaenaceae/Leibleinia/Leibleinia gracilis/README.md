@@ -1,5 +1,4 @@
-Leibleinia gracilis Meneghini SPECIES
-=======
+# Leibleinia gracilis Meneghini SPECIES
 
 #### Status
 ACCEPTED

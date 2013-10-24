@@ -1,5 +1,4 @@
-Physcia singularis Hue SPECIES
-=======
+# Physcia singularis Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hymenogaster hessei f. hessei Soehner FORM
-=======
+# Hymenogaster hessei Soehner, 1923 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Z. Pilzk. 2: 158 (1923)
 
 #### Original name
-Hymenogaster hessei f. hessei Soehner
+Hymenogaster hessei Soehner, 1923
 
 ### Remarks
 null

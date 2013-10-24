@@ -1,5 +1,4 @@
-Nodulisporium tulasnei Molliard SPECIES
-=======
+# Nodulisporium tulasnei Molliard SPECIES
 
 #### Status
 ACCEPTED

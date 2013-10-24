@@ -1,5 +1,4 @@
-Dermatea aureotincta Rehm SPECIES
-=======
+# Dermatea aureotincta Rehm SPECIES
 
 #### Status
 ACCEPTED

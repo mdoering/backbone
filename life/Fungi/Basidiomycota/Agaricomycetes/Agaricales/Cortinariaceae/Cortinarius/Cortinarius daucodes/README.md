@@ -1,5 +1,4 @@
-Cortinarius daucodes Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius daucodes Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

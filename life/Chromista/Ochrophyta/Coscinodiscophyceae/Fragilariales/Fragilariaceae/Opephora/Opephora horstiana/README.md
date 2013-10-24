@@ -1,5 +1,4 @@
-Opephora horstiana Witkowski SPECIES
-=======
+# Opephora horstiana Witkowski SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma hollosii Z. Moravec SPECIES
-=======
+# Tulostoma hollosii Z. Moravec SPECIES
 
 #### Status
 ACCEPTED

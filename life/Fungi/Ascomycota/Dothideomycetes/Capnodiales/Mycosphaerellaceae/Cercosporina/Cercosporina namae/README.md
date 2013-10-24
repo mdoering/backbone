@@ -1,5 +1,4 @@
-Cercosporina namae (Dearn. & House) Sacc. SPECIES
-=======
+# Cercosporina namae (Dearn. & House) Sacc. SPECIES
 
 #### Status
 ACCEPTED

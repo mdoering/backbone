@@ -1,5 +1,4 @@
-Marssonia mezerei (Lib.) Sacc. SPECIES
-=======
+# Marssonia mezerei (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

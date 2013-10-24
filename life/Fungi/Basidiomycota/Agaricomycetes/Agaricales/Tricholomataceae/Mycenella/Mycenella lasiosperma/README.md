@@ -1,5 +1,4 @@
-Mycenella lasiosperma (Bres.) Locq. SPECIES
-=======
+# Mycenella lasiosperma (Bres.) Locq. SPECIES
 
 #### Status
 ACCEPTED

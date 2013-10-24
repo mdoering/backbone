@@ -1,5 +1,4 @@
-Mycothyridium semnanense (Petr.) Petr. SPECIES
-=======
+# Mycothyridium semnanense (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

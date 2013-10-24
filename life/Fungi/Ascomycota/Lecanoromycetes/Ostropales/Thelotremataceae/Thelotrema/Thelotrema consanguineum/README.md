@@ -1,5 +1,4 @@
-Thelotrema consanguineum Müll. Arg. SPECIES
-=======
+# Thelotrema consanguineum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

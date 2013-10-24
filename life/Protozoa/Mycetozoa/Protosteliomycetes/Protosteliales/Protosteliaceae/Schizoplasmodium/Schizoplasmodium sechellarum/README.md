@@ -1,5 +1,4 @@
-Schizoplasmodium sechellarum L.S. Olive & Stoian., 1976 SPECIES
-=======
+# Schizoplasmodium sechellarum L.S. Olive & Stoian., 1976 SPECIES
 
 #### Status
 ACCEPTED

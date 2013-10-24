@@ -1,5 +1,4 @@
-Lecanora caucasica Ach. SPECIES
-=======
+# Lecanora caucasica Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Luffisphaera hamatus Tong, 1997 SPECIES
-=======
+# Luffisphaera hamatus Tong, 1997 SPECIES
 
 #### Status
 ACCEPTED

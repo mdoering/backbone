@@ -1,5 +1,4 @@
-Phyllosticta discincola Ellis & Everh. SPECIES
-=======
+# Phyllosticta discincola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

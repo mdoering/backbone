@@ -1,5 +1,4 @@
-Inocybe adunans (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe adunans (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

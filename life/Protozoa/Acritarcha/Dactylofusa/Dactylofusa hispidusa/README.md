@@ -1,5 +1,4 @@
-Dactylofusa hispidusa Le Hérissé, 2002 SPECIES
-=======
+# Dactylofusa hispidusa Le Hérissé, 2002 SPECIES
 
 #### Status
 ACCEPTED

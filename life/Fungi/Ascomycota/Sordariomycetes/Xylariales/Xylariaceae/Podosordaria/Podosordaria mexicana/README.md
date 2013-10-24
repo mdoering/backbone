@@ -1,5 +1,4 @@
-Podosordaria mexicana Ellis & Holw., 1897 SPECIES
-=======
+# Podosordaria mexicana Ellis & Holw., 1897 SPECIES
 
 #### Status
 ACCEPTED

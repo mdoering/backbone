@@ -1,5 +1,4 @@
-Lecanora gerezina Samp. SPECIES
-=======
+# Lecanora gerezina Samp. SPECIES
 
 #### Status
 ACCEPTED

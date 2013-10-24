@@ -1,5 +1,4 @@
-Cystolepiota cinereofusca Singer SPECIES
-=======
+# Cystolepiota cinereofusca Singer SPECIES
 
 #### Status
 ACCEPTED

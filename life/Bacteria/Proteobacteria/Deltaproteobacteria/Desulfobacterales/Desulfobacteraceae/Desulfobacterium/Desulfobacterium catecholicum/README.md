@@ -1,5 +1,4 @@
-Desulfobacterium catecholicum Szewzyk & Pfennig, 1988 SPECIES
-=======
+# Desulfobacterium catecholicum Szewzyk & Pfennig, 1988 SPECIES
 
 #### Status
 ACCEPTED

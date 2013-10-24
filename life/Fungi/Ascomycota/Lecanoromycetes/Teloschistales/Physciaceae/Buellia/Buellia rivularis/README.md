@@ -1,5 +1,4 @@
-Buellia rivularis (Flot.) Kremp. SPECIES
-=======
+# Buellia rivularis (Flot.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

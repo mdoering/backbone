@@ -1,5 +1,4 @@
-Pezizella plicatula Rehm SPECIES
-=======
+# Pezizella plicatula Rehm SPECIES
 
 #### Status
 ACCEPTED

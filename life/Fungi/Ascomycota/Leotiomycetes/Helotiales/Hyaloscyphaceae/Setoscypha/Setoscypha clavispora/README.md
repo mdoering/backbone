@@ -1,5 +1,4 @@
-Setoscypha clavispora Velen. SPECIES
-=======
+# Setoscypha clavispora Velen. SPECIES
 
 #### Status
 ACCEPTED

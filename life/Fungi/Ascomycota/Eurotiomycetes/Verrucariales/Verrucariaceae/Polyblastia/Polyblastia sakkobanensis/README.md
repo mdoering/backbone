@@ -1,5 +1,4 @@
-Polyblastia sakkobanensis Zschacke SPECIES
-=======
+# Polyblastia sakkobanensis Zschacke SPECIES
 
 #### Status
 ACCEPTED

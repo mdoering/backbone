@@ -1,5 +1,4 @@
-Mimeomyces latonae Thaxt. SPECIES
-=======
+# Mimeomyces latonae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

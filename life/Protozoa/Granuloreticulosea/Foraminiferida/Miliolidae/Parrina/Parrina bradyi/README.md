@@ -1,5 +1,4 @@
-Parrina bradyi SPECIES
-=======
+# Parrina bradyi SPECIES
 
 #### Status
 ACCEPTED

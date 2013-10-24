@@ -1,5 +1,4 @@
-Helicosphaera ampliaperta Bramlette & Wilcoxon, 1967 SPECIES
-=======
+# Helicosphaera ampliaperta Bramlette & Wilcoxon, 1967 SPECIES
 
 #### Status
 ACCEPTED

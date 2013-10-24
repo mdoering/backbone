@@ -1,5 +1,4 @@
-Lecanora distincta (Britzelm.) Lettau SPECIES
-=======
+# Lecanora distincta (Britzelm.) Lettau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Planularia kubinyii (Hantken) SPECIES
-=======
+# Planularia kubinyii (Hantken) SPECIES
 
 #### Status
 ACCEPTED

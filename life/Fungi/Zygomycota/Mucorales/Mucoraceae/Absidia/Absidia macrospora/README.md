@@ -1,5 +1,4 @@
-Absidia macrospora Vánová, 1968 SPECIES
-=======
+# Absidia macrospora Vánová, 1968 SPECIES
 
 #### Status
 ACCEPTED

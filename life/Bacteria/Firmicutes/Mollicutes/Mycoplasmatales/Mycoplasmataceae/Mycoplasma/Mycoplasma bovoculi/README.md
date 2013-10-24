@@ -1,5 +1,4 @@
-Mycoplasma bovoculi Langford and Leach, 1973 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma bovoculi Langford and Leach, 1973 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

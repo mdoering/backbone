@@ -1,5 +1,4 @@
-Lachnum argillaceum Velen. SPECIES
-=======
+# Lachnum argillaceum Velen. SPECIES
 
 #### Status
 ACCEPTED

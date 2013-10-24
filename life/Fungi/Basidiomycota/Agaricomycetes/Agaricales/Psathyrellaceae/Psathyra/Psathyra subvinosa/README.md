@@ -1,5 +1,4 @@
-Psathyra subvinosa (Berk.) Sacc. SPECIES
-=======
+# Psathyra subvinosa (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

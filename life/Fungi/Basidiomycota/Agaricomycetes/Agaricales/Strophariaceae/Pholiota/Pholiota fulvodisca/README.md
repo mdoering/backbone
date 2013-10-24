@@ -1,5 +1,4 @@
-Pholiota fulvodisca A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota fulvodisca A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

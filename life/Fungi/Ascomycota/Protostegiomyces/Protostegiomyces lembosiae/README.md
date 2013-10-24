@@ -1,5 +1,4 @@
-Protostegiomyces lembosiae Bat. & A.F. Vital, 1955 SPECIES
-=======
+# Protostegiomyces lembosiae Bat. & A.F. Vital, 1955 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microglaena antarctica (I.M. Lamb) O.E. Erikss. SPECIES
-=======
+# Microglaena antarctica (I.M. Lamb) O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

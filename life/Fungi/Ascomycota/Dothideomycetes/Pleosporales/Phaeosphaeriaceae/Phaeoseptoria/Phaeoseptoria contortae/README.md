@@ -1,5 +1,4 @@
-Phaeoseptoria contortae Parmelee & Y. Hirats. SPECIES
-=======
+# Phaeoseptoria contortae Parmelee & Y. Hirats. SPECIES
 
 #### Status
 ACCEPTED

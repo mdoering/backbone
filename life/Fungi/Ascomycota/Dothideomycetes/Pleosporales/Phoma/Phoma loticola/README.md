@@ -1,5 +1,4 @@
-Phoma loticola Died. SPECIES
-=======
+# Phoma loticola Died. SPECIES
 
 #### Status
 ACCEPTED

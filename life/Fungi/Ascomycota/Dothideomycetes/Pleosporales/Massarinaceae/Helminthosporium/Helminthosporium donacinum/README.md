@@ -1,5 +1,4 @@
-Helminthosporium donacinum Thüm. SPECIES
-=======
+# Helminthosporium donacinum Thüm. SPECIES
 
 #### Status
 ACCEPTED

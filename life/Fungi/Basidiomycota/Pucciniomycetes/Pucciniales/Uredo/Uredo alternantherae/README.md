@@ -1,5 +1,4 @@
-Uredo alternantherae H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo alternantherae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

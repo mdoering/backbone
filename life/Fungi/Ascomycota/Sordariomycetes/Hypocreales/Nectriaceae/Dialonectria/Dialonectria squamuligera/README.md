@@ -1,5 +1,4 @@
-Dialonectria squamuligera (Sacc.) Cooke SPECIES
-=======
+# Dialonectria squamuligera (Sacc.) Cooke SPECIES
 
 #### Status
 ACCEPTED

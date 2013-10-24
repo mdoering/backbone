@@ -1,5 +1,4 @@
-Pseudopapulaspora N.D. Sharma GENUS
-=======
+# Pseudopapulaspora N.D. Sharma GENUS
 
 #### Status
 ACCEPTED

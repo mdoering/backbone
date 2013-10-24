@@ -1,5 +1,4 @@
-Eutypella australis P. Karst. SPECIES
-=======
+# Eutypella australis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

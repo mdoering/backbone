@@ -1,5 +1,4 @@
-Torula bergeri Langeron SPECIES
-=======
+# Torula bergeri Langeron SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor dematium Fr. SPECIES
-=======
+# Mucor dematium Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia spartii (Jatta) Zahlbr. SPECIES
-=======
+# Bacidia spartii (Jatta) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

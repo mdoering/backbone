@@ -1,5 +1,4 @@
-Tilletia nigrifaciens Langdon & Boughton, 1978 SPECIES
-=======
+# Tilletia nigrifaciens Langdon & Boughton, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protonaegleria Michel & Raether, 1985 GENUS
-=======
+# Protonaegleria Michel & Raether, 1985 GENUS
 
 #### Status
 ACCEPTED

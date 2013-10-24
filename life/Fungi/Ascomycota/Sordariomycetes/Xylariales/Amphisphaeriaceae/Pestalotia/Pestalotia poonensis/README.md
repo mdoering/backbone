@@ -1,5 +1,4 @@
-Pestalotia poonensis V.G. Rao SPECIES
-=======
+# Pestalotia poonensis V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

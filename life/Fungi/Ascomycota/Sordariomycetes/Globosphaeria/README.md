@@ -1,5 +1,4 @@
-Globosphaeria D. Hawksw. GENUS
-=======
+# Globosphaeria D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

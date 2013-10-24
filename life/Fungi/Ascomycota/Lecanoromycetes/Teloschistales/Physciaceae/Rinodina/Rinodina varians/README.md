@@ -1,5 +1,4 @@
-Rinodina varians Zahlbr. SPECIES
-=======
+# Rinodina varians Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

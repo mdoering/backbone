@@ -1,5 +1,4 @@
-Septoria pseudoquinae Pat. SPECIES
-=======
+# Septoria pseudoquinae Pat. SPECIES
 
 #### Status
 ACCEPTED

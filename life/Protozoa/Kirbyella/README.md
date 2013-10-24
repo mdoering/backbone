@@ -1,5 +1,4 @@
-Kirbyella Zeliff GENUS
-=======
+# Kirbyella Zeliff GENUS
 
 #### Status
 ACCEPTED

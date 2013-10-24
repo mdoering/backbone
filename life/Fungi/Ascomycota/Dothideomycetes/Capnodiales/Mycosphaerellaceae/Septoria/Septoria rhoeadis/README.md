@@ -1,5 +1,4 @@
-Septoria rhoeadis Tassi SPECIES
-=======
+# Septoria rhoeadis Tassi SPECIES
 
 #### Status
 ACCEPTED

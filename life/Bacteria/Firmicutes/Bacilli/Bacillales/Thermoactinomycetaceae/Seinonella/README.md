@@ -1,5 +1,4 @@
-Seinonella Yoon et al., 2005 GENUS
-=======
+# Seinonella Yoon et al., 2005 GENUS
 
 #### Status
 ACCEPTED

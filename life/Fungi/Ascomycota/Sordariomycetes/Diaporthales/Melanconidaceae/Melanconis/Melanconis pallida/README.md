@@ -1,14 +1,13 @@
-Melanconiella pallida Rehm, 1912 SPECIES
-=======
+# Melanconis pallida (Rehm) Wehm., 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 28: 529 (1936)
 
 #### Original name
 Melanconiella pallida Rehm, 1912

@@ -1,5 +1,4 @@
-Uredendo Buriticá & J.F. Hennen GENUS
-=======
+# Uredendo Buriticá & J.F. Hennen GENUS
 
 #### Status
 ACCEPTED

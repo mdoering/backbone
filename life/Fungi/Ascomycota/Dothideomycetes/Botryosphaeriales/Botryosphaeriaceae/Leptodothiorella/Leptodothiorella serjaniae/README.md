@@ -1,5 +1,4 @@
-Leptodothiorella serjaniae (Gutner) Aa & Vanev SPECIES
-=======
+# Leptodothiorella serjaniae (Gutner) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

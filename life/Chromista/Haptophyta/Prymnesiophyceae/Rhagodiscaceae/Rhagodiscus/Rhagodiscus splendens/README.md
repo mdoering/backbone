@@ -1,8 +1,7 @@
-Parhabdolithus splendens Deflandre, 1953 SPECIES
-=======
+# Rhagodiscus splendens (Deflandre, 1953) Verbeek, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

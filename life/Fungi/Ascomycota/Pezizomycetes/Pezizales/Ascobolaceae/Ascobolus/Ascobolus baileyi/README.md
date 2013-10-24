@@ -1,5 +1,4 @@
-Ascobolus baileyi Berk. & Broome SPECIES
-=======
+# Ascobolus baileyi Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

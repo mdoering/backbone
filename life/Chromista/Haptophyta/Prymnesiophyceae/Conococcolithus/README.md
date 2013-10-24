@@ -1,14 +1,13 @@
-Conococcolithus panis Edwards, 1973 SPECIES
-=======
+# Conococcolithus Hay & Mohler GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+J. Paleont. 41: 1528.
 
 #### Original name
 null

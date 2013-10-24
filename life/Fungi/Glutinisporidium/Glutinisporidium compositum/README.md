@@ -1,5 +1,4 @@
-Glutinisporidium compositum G. Thor SPECIES
-=======
+# Glutinisporidium compositum G. Thor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia albomaculans Henn. SPECIES
-=======
+# Pestalotia albomaculans Henn. SPECIES
 
 #### Status
 ACCEPTED

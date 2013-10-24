@@ -1,5 +1,4 @@
-Macrophoma melanostigma (Lév.) Sacc. SPECIES
-=======
+# Macrophoma melanostigma (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

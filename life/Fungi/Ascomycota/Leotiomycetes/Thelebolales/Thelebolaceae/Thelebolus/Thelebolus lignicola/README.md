@@ -1,5 +1,4 @@
-Thelebolus lignicola Lloyd SPECIES
-=======
+# Thelebolus lignicola Lloyd SPECIES
 
 #### Status
 ACCEPTED

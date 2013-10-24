@@ -1,5 +1,4 @@
-Trematosphaerella fuscispora Kirschst. SPECIES
-=======
+# Trematosphaerella fuscispora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

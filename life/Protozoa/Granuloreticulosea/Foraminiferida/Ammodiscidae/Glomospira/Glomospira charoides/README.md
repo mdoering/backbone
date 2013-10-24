@@ -1,5 +1,4 @@
-Glomospira charoides SPECIES
-=======
+# Glomospira charoides SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Paramecium chlorelligerum subsp. chlorelligerum SUBSPECIES
-=======
+# Paramecium chlorelligerum Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Grandifovea Bartenstein & Malz, 2003 GENUS
-=======
+# Grandifovea Bartenstein & Malz, 2003 GENUS
 
 #### Status
 ACCEPTED

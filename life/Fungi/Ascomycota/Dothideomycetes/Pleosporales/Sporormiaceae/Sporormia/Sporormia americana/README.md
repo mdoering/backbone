@@ -1,5 +1,4 @@
-Sporormia americana Griffiths SPECIES
-=======
+# Sporormia americana Griffiths SPECIES
 
 #### Status
 ACCEPTED

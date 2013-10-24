@@ -1,5 +1,4 @@
-Phanerochaete odorata P. Karst. SPECIES
-=======
+# Phanerochaete odorata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

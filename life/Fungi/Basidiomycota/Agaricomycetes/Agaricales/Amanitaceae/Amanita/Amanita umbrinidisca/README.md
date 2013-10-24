@@ -1,5 +1,4 @@
-Amanita umbrinidisca (Murrill) Murrill SPECIES
-=======
+# Amanita umbrinidisca (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

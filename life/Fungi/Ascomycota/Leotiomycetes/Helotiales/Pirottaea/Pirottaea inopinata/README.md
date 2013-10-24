@@ -1,14 +1,13 @@
-Pyrenopeziza aterrima Rehm, 1881 SPECIES
-=======
+# Pirottaea inopinata Nannf., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ascomyceten 3: no. 512 (1881)
+Symb. bot. upsal. 25(no. 1): 16 (1985)
 
 #### Original name
 Pyrenopeziza aterrima Rehm, 1881

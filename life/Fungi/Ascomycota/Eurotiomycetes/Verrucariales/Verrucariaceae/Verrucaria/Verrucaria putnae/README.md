@@ -1,5 +1,4 @@
-Verrucaria putnae Servít SPECIES
-=======
+# Verrucaria putnae Servít SPECIES
 
 #### Status
 ACCEPTED

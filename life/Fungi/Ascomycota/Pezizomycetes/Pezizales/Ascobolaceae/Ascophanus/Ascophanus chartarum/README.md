@@ -1,5 +1,4 @@
-Ascophanus chartarum Kirschst. SPECIES
-=======
+# Ascophanus chartarum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

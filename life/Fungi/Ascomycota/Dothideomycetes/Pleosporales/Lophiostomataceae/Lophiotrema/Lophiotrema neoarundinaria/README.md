@@ -1,5 +1,4 @@
-Lophiotrema neoarundinaria (Ellis & Everh.) Yin. Zhang, Kaz. Tanaka & K.D. Hyde, 2009 SPECIES
-=======
+# Lophiotrema neoarundinaria (Ellis & Everh.) Yin. Zhang, Kaz. Tanaka & K.D. Hyde, 2009 SPECIES
 
 #### Status
 ACCEPTED

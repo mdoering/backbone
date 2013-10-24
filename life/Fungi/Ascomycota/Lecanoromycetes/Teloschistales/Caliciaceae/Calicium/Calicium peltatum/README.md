@@ -1,5 +1,4 @@
-Calicium peltatum Ach. SPECIES
-=======
+# Calicium peltatum Ach. SPECIES
 
 #### Status
 ACCEPTED

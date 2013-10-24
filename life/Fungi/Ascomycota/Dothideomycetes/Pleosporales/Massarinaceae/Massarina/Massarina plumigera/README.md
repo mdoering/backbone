@@ -1,5 +1,4 @@
-Massarina plumigera (Ellis & Everh.) Sacc. & Trotter SPECIES
-=======
+# Massarina plumigera (Ellis & Everh.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

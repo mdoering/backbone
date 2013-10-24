@@ -1,5 +1,4 @@
-Pelagibacillus Kim et al., 2007 GENUS
-=======
+# Pelagibacillus Kim et al., 2007 GENUS
 
 #### Status
 ACCEPTED

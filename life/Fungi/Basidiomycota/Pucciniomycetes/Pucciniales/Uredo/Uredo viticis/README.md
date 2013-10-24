@@ -1,5 +1,4 @@
-Uredo viticis Juel SPECIES
-=======
+# Uredo viticis Juel SPECIES
 
 #### Status
 ACCEPTED

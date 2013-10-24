@@ -1,5 +1,4 @@
-Cryptostictis hollosti Tóth SPECIES
-=======
+# Cryptostictis hollosti Tóth SPECIES
 
 #### Status
 ACCEPTED

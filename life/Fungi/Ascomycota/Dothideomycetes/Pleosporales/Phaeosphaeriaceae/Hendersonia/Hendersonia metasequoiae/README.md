@@ -1,5 +1,4 @@
-Hendersonia metasequoiae Gucevic SPECIES
-=======
+# Hendersonia metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

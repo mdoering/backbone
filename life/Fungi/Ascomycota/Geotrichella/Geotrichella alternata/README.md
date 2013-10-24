@@ -1,5 +1,4 @@
-Geotrichella alternata G. Arnaud SPECIES
-=======
+# Geotrichella alternata G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

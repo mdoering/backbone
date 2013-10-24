@@ -1,5 +1,4 @@
-Tinctoporia GENUS
-=======
+# Tinctoporia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inonotus afromontanus Ryvarden, 1999 SPECIES
-=======
+# Inonotus afromontanus Ryvarden, 1999 SPECIES
 
 #### Status
 ACCEPTED

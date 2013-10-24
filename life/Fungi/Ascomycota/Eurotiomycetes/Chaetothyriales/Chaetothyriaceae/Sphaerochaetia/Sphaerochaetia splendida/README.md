@@ -1,5 +1,4 @@
-Sphaerochaetia splendida Bat., Cavalc. & Peres SPECIES
-=======
+# Sphaerochaetia splendida Bat., Cavalc. & Peres SPECIES
 
 #### Status
 ACCEPTED

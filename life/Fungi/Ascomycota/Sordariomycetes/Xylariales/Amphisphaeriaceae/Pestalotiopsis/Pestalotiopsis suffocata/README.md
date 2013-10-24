@@ -1,5 +1,4 @@
-Pestalotiopsis suffocata (Ellis & Everh.) J.G. Wei & T. Xu SPECIES
-=======
+# Pestalotiopsis suffocata (Ellis & Everh.) J.G. Wei & T. Xu SPECIES
 
 #### Status
 ACCEPTED

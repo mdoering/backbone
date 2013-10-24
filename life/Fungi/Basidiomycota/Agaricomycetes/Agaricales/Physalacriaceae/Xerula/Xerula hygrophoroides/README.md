@@ -1,5 +1,4 @@
-Xerula hygrophoroides (Singer & Clémençon) Candusso & Basso SPECIES
-=======
+# Xerula hygrophoroides (Singer & Clémençon) Candusso & Basso SPECIES
 
 #### Status
 ACCEPTED

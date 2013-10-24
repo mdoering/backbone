@@ -1,5 +1,4 @@
-Mycosphaerella apula (Sacc. & D. Sacc.) Tomilin SPECIES
-=======
+# Mycosphaerella apula (Sacc. & D. Sacc.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

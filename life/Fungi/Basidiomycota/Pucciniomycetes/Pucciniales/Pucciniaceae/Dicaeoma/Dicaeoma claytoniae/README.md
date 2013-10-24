@@ -1,5 +1,4 @@
-Dicaeoma claytoniae (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma claytoniae (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

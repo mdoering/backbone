@@ -1,5 +1,4 @@
-Helicocephalum tenellum Borowska SPECIES
-=======
+# Helicocephalum tenellum Borowska SPECIES
 
 #### Status
 ACCEPTED

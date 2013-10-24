@@ -1,5 +1,4 @@
-Septoria sisonis Sacc. SPECIES
-=======
+# Septoria sisonis Sacc. SPECIES
 
 #### Status
 ACCEPTED

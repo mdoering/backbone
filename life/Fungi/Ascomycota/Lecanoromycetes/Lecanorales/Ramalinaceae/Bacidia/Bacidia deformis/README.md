@@ -1,5 +1,4 @@
-Bacidia deformis Zahlbr. SPECIES
-=======
+# Bacidia deformis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

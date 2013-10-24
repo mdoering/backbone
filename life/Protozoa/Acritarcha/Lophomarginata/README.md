@@ -1,5 +1,4 @@
-Lophomarginata Pychova, 1969 GENUS
-=======
+# Lophomarginata Pychova, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes fibrosa Fr. SPECIES
-=======
+# Trametes fibrosa Fr. SPECIES
 
 #### Status
 ACCEPTED

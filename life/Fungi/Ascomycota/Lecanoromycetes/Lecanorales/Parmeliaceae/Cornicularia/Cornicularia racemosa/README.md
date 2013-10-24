@@ -1,5 +1,4 @@
-Cornicularia racemosa Lynge SPECIES
-=======
+# Cornicularia racemosa Lynge SPECIES
 
 #### Status
 ACCEPTED

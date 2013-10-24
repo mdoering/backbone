@@ -1,5 +1,4 @@
-Pocillaria similans Earle SPECIES
-=======
+# Pocillaria similans Earle SPECIES
 
 #### Status
 ACCEPTED

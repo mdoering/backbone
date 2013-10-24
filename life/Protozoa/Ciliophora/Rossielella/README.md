@@ -1,5 +1,4 @@
-Rossielella Aescht, 2001 GENUS
-=======
+# Rossielella Aescht, 2001 GENUS
 
 #### Status
 ACCEPTED

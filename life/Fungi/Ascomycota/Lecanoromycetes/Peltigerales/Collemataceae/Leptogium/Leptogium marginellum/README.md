@@ -1,14 +1,13 @@
-Collema marginellum (Sw.) Raeusch. SPECIES
-=======
+# Leptogium marginellum (Sw.) Gray SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: 401 (1821)
 
 #### Original name
 Lichen marginellus Sw.

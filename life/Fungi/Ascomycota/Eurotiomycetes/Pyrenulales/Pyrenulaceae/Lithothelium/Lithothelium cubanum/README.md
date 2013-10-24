@@ -1,5 +1,4 @@
-Lithothelium cubanum Müll. Arg. SPECIES
-=======
+# Lithothelium cubanum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

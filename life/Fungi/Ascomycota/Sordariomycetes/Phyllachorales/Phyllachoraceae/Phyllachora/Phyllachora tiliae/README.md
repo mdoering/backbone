@@ -1,5 +1,4 @@
-Phyllachora tiliae F. Stevens, 1923 SPECIES
-=======
+# Phyllachora tiliae F. Stevens, 1923 SPECIES
 
 #### Status
 ACCEPTED

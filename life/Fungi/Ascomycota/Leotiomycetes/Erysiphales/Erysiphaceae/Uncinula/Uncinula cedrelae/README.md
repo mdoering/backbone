@@ -1,5 +1,4 @@
-Uncinula cedrelae F.L. Tai SPECIES
-=======
+# Uncinula cedrelae F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Alternaria tenuis var. violae (L.D. Galloway & Dorsett) Wollenw., 1932 VARIETY
-=======
+# Alternaria violae L.D. Galloway & Dorsett, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

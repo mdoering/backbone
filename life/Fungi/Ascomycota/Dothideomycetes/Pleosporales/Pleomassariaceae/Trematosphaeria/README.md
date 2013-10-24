@@ -1,5 +1,4 @@
-Trematosphaeria Fuckel GENUS
-=======
+# Trematosphaeria Fuckel GENUS
 
 #### Status
 ACCEPTED

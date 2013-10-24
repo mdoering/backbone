@@ -1,5 +1,4 @@
-Pseudonaevia Dennis & Spooner GENUS
-=======
+# Pseudonaevia Dennis & Spooner GENUS
 
 #### Status
 ACCEPTED

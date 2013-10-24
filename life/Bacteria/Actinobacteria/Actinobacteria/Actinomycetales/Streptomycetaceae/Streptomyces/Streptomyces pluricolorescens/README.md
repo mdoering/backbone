@@ -1,5 +1,4 @@
-Streptomyces pluricolorescens Okami and Umezawa, 1961 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces pluricolorescens Okami and Umezawa, 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

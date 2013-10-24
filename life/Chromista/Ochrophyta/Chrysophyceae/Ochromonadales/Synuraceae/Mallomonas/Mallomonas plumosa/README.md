@@ -1,5 +1,4 @@
-Mallomonas plumosa Croome & P.A. Tyler SPECIES
-=======
+# Mallomonas plumosa Croome & P.A. Tyler SPECIES
 
 #### Status
 ACCEPTED

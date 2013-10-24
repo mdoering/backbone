@@ -1,5 +1,4 @@
-Mycosphaerella tardiva Syd. SPECIES
-=======
+# Mycosphaerella tardiva Syd. SPECIES
 
 #### Status
 ACCEPTED

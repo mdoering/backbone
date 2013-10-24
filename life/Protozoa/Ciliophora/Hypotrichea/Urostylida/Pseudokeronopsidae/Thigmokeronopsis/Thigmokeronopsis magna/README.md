@@ -1,5 +1,4 @@
-Thigmokeronopsis magna Wilbert & Song, 2005 SPECIES
-=======
+# Thigmokeronopsis magna Wilbert & Song, 2005 SPECIES
 
 #### Status
 ACCEPTED

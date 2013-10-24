@@ -1,5 +1,4 @@
-Sporangium GENUS
-=======
+# Sporangium GENUS
 
 #### Status
 ACCEPTED

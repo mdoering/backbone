@@ -1,5 +1,4 @@
-Cortinarius corynecystis (M.M. Moser) Kuhn.-Fink. & Peintner SPECIES
-=======
+# Cortinarius corynecystis (M.M. Moser) Kuhn.-Fink. & Peintner SPECIES
 
 #### Status
 ACCEPTED

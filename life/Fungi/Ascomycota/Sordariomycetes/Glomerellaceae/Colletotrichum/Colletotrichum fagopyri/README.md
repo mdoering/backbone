@@ -1,5 +1,4 @@
-Colletotrichum fagopyri Sawada SPECIES
-=======
+# Colletotrichum fagopyri Sawada SPECIES
 
 #### Status
 ACCEPTED

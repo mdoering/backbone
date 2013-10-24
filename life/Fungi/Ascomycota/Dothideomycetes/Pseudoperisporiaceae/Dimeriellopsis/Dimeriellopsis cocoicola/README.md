@@ -1,5 +1,4 @@
-Dimeriellopsis cocoicola Bat. & A.F. Vital SPECIES
-=======
+# Dimeriellopsis cocoicola Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

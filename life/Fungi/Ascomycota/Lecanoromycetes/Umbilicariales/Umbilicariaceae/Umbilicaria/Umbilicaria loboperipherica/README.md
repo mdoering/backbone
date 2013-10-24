@@ -1,5 +1,4 @@
-Umbilicaria loboperipherica J.C. Wei, Y.M. Jiang & S.Y. Guo SPECIES
-=======
+# Umbilicaria loboperipherica J.C. Wei, Y.M. Jiang & S.Y. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protympanium Haeckel, 1881 GENUS
-=======
+# Protympanium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

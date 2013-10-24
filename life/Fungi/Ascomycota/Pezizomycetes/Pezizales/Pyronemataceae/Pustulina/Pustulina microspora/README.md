@@ -1,5 +1,4 @@
-Pustulina microspora Dissing & Raitv. SPECIES
-=======
+# Pustulina microspora Dissing & Raitv. SPECIES
 
 #### Status
 ACCEPTED

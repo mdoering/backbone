@@ -1,5 +1,4 @@
-Entomyclium folliculatum Wallr. SPECIES
-=======
+# Entomyclium folliculatum Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaxonella Yankovskij, 1979 GENUS
-=======
+# Diaxonella Yankovskij, 1979 GENUS
 
 #### Status
 ACCEPTED

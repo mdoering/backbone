@@ -1,5 +1,4 @@
-Cortinarius depexus var. luminosus Carteret VARIETY
-=======
+# Cortinarius depexus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Bidaud, Moënne-Loccoz, Carteret, Reumaux & Eyssartier, Atlas des Cortinaires (Meyzieu) 15: 1031 (2005)
+Epicr. syst. mycol. (Upsaliae) 291 (1838)
 
 #### Original name
-Cortinarius depexus var. luminosus Carteret
+Agaricus depexus Fr.
 
 ### Remarks
 null

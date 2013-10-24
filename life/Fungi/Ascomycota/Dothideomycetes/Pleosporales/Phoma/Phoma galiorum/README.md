@@ -1,5 +1,4 @@
-Phoma galiorum M. Petrov SPECIES
-=======
+# Phoma galiorum M. Petrov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca persica (J. Steiner) M. Steiner & Poelt SPECIES
-=======
+# Caloplaca persica (J. Steiner) M. Steiner & Poelt SPECIES
 
 #### Status
 ACCEPTED

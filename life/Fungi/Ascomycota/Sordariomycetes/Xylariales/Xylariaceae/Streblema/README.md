@@ -1,5 +1,4 @@
-Streblema Chevall. GENUS
-=======
+# Streblema Chevall. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordella magna Speg. SPECIES
-=======
+# Cordella magna Speg. SPECIES
 
 #### Status
 ACCEPTED

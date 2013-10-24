@@ -1,5 +1,4 @@
-Septoria aegirina Pass. SPECIES
-=======
+# Septoria aegirina Pass. SPECIES
 
 #### Status
 ACCEPTED

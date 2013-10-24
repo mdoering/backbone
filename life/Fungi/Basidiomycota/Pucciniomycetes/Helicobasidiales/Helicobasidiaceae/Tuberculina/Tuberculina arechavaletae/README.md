@@ -1,5 +1,4 @@
-Tuberculina arechavaletae Speg. SPECIES
-=======
+# Tuberculina arechavaletae Speg. SPECIES
 
 #### Status
 ACCEPTED

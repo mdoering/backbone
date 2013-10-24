@@ -1,17 +1,16 @@
-Psorotichia riparia Arnold SPECIES
-=======
+# Porocyphus rehmicus (A. Massal.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 765 (1924)
 
 #### Original name
-null
+Psorotichia rehmica A. Massal.
 
 ### Remarks
 null

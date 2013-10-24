@@ -1,5 +1,4 @@
-Parapodophrya denticulata Kahl, 1931 SPECIES
-=======
+# Parapodophrya denticulata Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

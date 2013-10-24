@@ -1,5 +1,4 @@
-Clostridium kluyveri Barker and Taha, 1942 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium kluyveri Barker and Taha, 1942 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

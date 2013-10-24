@@ -1,5 +1,4 @@
-Maireina spegazzinii W.B. Cooke SPECIES
-=======
+# Maireina spegazzinii W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

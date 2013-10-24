@@ -1,14 +1,13 @@
-Cylindrocladiella peruviana (Bat., J.L. Bezerra & M.P. Herrera) Boesew., 1982 SPECIES
-=======
+# Cylindrocladium peruvianum Bat., J.L. Bezerra & M.P. Herrera, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 60(11): 2289 (1982)
+in Batista, Bezerra, Maia & Herrera, Atas Inst. Micol. Univ. Recife 2: 386 (1965)
 
 #### Original name
 Cylindrocladium peruvianum Bat., J.L. Bezerra & M.P. Herrera, 1965

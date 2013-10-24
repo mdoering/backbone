@@ -1,5 +1,4 @@
-Candelariella bulbifera (Stirt.) Zahlbr. SPECIES
-=======
+# Candelariella bulbifera (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

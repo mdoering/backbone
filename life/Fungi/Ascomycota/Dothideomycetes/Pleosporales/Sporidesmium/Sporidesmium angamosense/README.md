@@ -1,5 +1,4 @@
-Sporidesmium angamosense Matsush. SPECIES
-=======
+# Sporidesmium angamosense Matsush. SPECIES
 
 #### Status
 ACCEPTED

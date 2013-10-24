@@ -1,5 +1,4 @@
-Apiodiscus Petr. GENUS
-=======
+# Apiodiscus Petr. GENUS
 
 #### Status
 ACCEPTED

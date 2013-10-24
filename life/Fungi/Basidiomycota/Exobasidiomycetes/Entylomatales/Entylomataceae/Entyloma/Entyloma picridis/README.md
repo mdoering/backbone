@@ -1,14 +1,13 @@
-Entyloma compositarum var. picridis (Rostr.) Cif., 1963 VARIETY
-=======
+# Entyloma picridis Rostr., 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Fischer von Waldheim, Bull. Soc. Imp. nat. Moscou 2: 308 (1877)
 
 #### Original name
 Entyloma picridis Rostr., 1877

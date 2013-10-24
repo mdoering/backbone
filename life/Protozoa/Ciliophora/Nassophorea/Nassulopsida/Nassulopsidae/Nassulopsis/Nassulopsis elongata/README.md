@@ -1,5 +1,4 @@
-Nassulopsis elongata (Kahl, 1931) Foissner, Berger & Kohmann, 1994 SPECIES
-=======
+# Nassulopsis elongata (Kahl, 1931) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
 ACCEPTED

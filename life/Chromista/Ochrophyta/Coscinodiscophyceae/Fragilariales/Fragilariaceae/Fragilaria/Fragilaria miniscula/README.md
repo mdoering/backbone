@@ -1,5 +1,4 @@
-Fragilaria miniscula (Grunow) Williams & Round SPECIES
-=======
+# Fragilaria miniscula (Grunow) Williams & Round SPECIES
 
 #### Status
 ACCEPTED

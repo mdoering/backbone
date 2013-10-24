@@ -1,5 +1,4 @@
-Xanthomonas vesicatoria (ex Doidge, 1920) Vauterin et al., 1995 SPECIES
-=======
+# Xanthomonas vesicatoria (ex Doidge, 1920) Vauterin et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lionotus similis Ghosh, 1921 SPECIES
-=======
+# Lionotus similis Ghosh, 1921 SPECIES
 
 #### Status
 ACCEPTED

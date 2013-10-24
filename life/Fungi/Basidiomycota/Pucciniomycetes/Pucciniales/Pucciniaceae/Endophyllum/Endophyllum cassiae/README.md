@@ -1,5 +1,4 @@
-Endophyllum cassiae (Bres.) F. Stevens & Mendiola, 1931 SPECIES
-=======
+# Endophyllum cassiae (Bres.) F. Stevens & Mendiola, 1931 SPECIES
 
 #### Status
 ACCEPTED

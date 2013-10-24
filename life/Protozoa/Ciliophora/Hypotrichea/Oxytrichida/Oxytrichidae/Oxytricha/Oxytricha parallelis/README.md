@@ -1,8 +1,7 @@
-Opisthotricha parallelis Englemann, 1862 SPECIES
-=======
+# Oxytricha parallelis Englemann, 1862 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

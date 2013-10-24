@@ -1,5 +1,4 @@
-Physalospora molluginis (G.H. Otth) Sacc. SPECIES
-=======
+# Physalospora molluginis (G.H. Otth) Sacc. SPECIES
 
 #### Status
 ACCEPTED

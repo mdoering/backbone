@@ -1,8 +1,7 @@
-Mytilidion limonii (Thüm.) Sacc. SPECIES
-=======
+# Mytilinidion limonii (Thüm.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

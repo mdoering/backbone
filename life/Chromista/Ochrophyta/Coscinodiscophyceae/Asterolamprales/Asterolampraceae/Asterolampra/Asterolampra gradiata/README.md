@@ -1,5 +1,4 @@
-Asterolampra gradiata A. M. Gombos SPECIES
-=======
+# Asterolampra gradiata A. M. Gombos SPECIES
 
 #### Status
 ACCEPTED

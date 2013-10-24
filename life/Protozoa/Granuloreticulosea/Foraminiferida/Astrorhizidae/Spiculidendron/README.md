@@ -1,5 +1,4 @@
-Spiculidendron Richardson & Rützler, 1996 GENUS
-=======
+# Spiculidendron Richardson & Rützler, 1996 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Esoptrodinium thiophilum (Conrad) P. Javornick SPECIES
-=======
+# Esoptrodinium thiophilum (Conrad) P. Javornick SPECIES
 
 #### Status
 ACCEPTED

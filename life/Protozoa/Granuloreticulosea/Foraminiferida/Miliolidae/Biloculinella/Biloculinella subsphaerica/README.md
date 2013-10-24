@@ -1,5 +1,4 @@
-Biloculinella subsphaerica (Wiesner, 1923) SPECIES
-=======
+# Biloculinella subsphaerica (Wiesner, 1923) SPECIES
 
 #### Status
 ACCEPTED

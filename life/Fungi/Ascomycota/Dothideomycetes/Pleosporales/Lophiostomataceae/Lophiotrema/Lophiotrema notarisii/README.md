@@ -1,5 +1,4 @@
-Lophiotrema notarisii (Nitschke) Berl. & Voglino SPECIES
-=======
+# Lophiotrema notarisii (Nitschke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

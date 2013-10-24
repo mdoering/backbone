@@ -1,5 +1,4 @@
-Cytospora pruni Ellis & Dearn. SPECIES
-=======
+# Cytospora pruni Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Soppittiella Massee GENUS
-=======
+# Sebacina Tulasne & C. Tulasne, 1871 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Brit. Fung. -Fl. 1: 106 (1892)
+null
 
 #### Original name
-Soppittiella Massee
+null
 
 ### Remarks
 null

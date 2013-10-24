@@ -1,5 +1,4 @@
-Hyponectria depressa (Peck) M.E. Barr SPECIES
-=======
+# Hyponectria depressa (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

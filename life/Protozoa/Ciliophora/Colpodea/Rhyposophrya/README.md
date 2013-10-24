@@ -1,5 +1,4 @@
-Rhyposophrya Kahl, 1933 GENUS
-=======
+# Rhyposophrya Kahl, 1933 GENUS
 
 #### Status
 ACCEPTED

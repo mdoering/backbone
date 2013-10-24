@@ -1,5 +1,4 @@
-Hymenoscyphus morieri (Gillet) Kuntze SPECIES
-=======
+# Hymenoscyphus morieri (Gillet) Kuntze SPECIES
 
 #### Status
 ACCEPTED

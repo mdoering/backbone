@@ -1,5 +1,4 @@
-Invertocysta tabulata L. E. Edwards SPECIES
-=======
+# Invertocysta tabulata L. E. Edwards SPECIES
 
 #### Status
 ACCEPTED

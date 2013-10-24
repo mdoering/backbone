@@ -1,5 +1,4 @@
-Ceratopodium GENUS
-=======
+# Ceratopodium GENUS
 
 #### Status
 ACCEPTED

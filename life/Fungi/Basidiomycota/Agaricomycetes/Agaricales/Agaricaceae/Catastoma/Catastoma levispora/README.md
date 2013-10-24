@@ -1,5 +1,4 @@
-Catastoma levispora Lloyd SPECIES
-=======
+# Catastoma levispora Lloyd SPECIES
 
 #### Status
 ACCEPTED

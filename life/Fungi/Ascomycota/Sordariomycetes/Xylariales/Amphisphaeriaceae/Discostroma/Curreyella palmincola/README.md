@@ -1,5 +1,4 @@
-Curreyella palmincola (Rehm) Sacc. & Trotter SPECIES
-=======
+# Curreyella palmincola (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

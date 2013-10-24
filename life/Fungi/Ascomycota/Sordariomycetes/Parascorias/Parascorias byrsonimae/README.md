@@ -1,5 +1,4 @@
-Parascorias byrsonimae J.M. Mend. SPECIES
-=======
+# Parascorias byrsonimae J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

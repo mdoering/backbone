@@ -1,5 +1,4 @@
-Truncatisphaeridium Riding & Duxbury, 1993 GENUS
-=======
+# Truncatisphaeridium Riding & Duxbury, 1993 GENUS
 
 #### Status
 ACCEPTED

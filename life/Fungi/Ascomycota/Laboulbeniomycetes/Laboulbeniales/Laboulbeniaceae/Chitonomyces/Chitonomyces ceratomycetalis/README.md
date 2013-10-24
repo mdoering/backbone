@@ -1,5 +1,4 @@
-Chitonomyces ceratomycetalis Thaxt. SPECIES
-=======
+# Chitonomyces ceratomycetalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

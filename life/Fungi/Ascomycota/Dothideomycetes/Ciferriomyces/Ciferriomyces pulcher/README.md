@@ -1,5 +1,4 @@
-Ciferriomyces pulcher Petr. SPECIES
-=======
+# Ciferriomyces pulcher Petr. SPECIES
 
 #### Status
 ACCEPTED

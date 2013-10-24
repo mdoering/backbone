@@ -1,5 +1,4 @@
-Pyrenula porinoides Ach. SPECIES
-=======
+# Pyrenula porinoides Ach. SPECIES
 
 #### Status
 ACCEPTED

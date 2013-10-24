@@ -1,5 +1,4 @@
-Puccinia procerula H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia procerula H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

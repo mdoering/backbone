@@ -1,5 +1,4 @@
-Phanerochaete tamariciphila Boidin, Lanq. & Gilles, 1993 SPECIES
-=======
+# Phanerochaete tamariciphila Boidin, Lanq. & Gilles, 1993 SPECIES
 
 #### Status
 ACCEPTED

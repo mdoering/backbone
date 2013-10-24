@@ -1,5 +1,4 @@
-Russula parvovirescens Buyck, D. Mitch. & Parrent SPECIES
-=======
+# Russula parvovirescens Buyck, D. Mitch. & Parrent SPECIES
 
 #### Status
 ACCEPTED

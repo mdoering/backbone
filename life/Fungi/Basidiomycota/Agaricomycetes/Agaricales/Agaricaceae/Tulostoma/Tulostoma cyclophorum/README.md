@@ -1,5 +1,4 @@
-Tulostoma cyclophorum Lloyd SPECIES
-=======
+# Tulostoma cyclophorum Lloyd SPECIES
 
 #### Status
 ACCEPTED

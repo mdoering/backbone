@@ -1,5 +1,4 @@
-Alepiella tricornuta Golemansky, 1970 SPECIES
-=======
+# Alepiella tricornuta Golemansky, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycocoelium rivulare Kütz. SPECIES
-=======
+# Mycocoelium rivulare Kütz. SPECIES
 
 #### Status
 ACCEPTED

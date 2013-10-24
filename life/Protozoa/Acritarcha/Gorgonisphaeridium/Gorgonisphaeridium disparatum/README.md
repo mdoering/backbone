@@ -1,5 +1,4 @@
-Gorgonisphaeridium disparatum Playford, 1977 SPECIES
-=======
+# Gorgonisphaeridium disparatum Playford, 1977 SPECIES
 
 #### Status
 ACCEPTED

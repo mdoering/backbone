@@ -1,5 +1,4 @@
-Paleoslimacomyces wilcoxii (Elsik) Kalgutkar & Janson. SPECIES
-=======
+# Paleoslimacomyces wilcoxii (Elsik) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

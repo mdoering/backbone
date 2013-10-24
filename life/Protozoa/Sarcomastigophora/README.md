@@ -1,5 +1,4 @@
-Sarcomastigophora PHYLUM
-=======
+# Sarcomastigophora PHYLUM
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Nosema legeri Dollfus, 1912 SPECIES
-=======
+# Unikaryon legeri E.U. Canning & J.P. Nicholas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Index Fungorum
 
 #### Published in
-null
+J. Protozool. 21: 19-25 (1974)
 
 #### Original name
-null
+Unikaryon legeri E.U. Canning & J.P. Nicholas
 
 ### Remarks
 null

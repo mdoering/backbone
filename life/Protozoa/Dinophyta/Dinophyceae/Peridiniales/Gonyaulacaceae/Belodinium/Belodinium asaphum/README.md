@@ -1,5 +1,4 @@
-Belodinium asaphum Drugg, 1978 SPECIES
-=======
+# Belodinium asaphum Drugg, 1978 SPECIES
 
 #### Status
 ACCEPTED

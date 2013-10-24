@@ -1,5 +1,4 @@
-Paulinella quinqueloba SPECIES
-=======
+# Paulinella quinqueloba SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rothia GENUS
-=======
+# Rothia GENUS
 
 #### Status
 ACCEPTED

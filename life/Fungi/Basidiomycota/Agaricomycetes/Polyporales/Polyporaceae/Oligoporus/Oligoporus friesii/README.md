@@ -1,5 +1,4 @@
-Oligoporus friesii Falck & O. Falck SPECIES
-=======
+# Oligoporus friesii Falck & O. Falck SPECIES
 
 #### Status
 ACCEPTED

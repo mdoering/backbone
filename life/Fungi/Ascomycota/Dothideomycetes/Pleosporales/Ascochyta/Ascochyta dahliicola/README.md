@@ -1,17 +1,16 @@
-Phyllosticta dahliaecola Brunaud SPECIES
-=======
+# Ascochyta dahliicola (Brunaud) Petr., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 25(3/4): 202 (1927)
 
 #### Original name
-Phyllosticta dahliaecola Brunaud
+Phyllosticta dahliicola Brunaud, 1887
 
 ### Remarks
 null

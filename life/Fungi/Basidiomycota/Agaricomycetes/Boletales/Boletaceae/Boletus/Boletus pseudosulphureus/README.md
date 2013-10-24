@@ -1,17 +1,16 @@
-Boletus pseudosulphureus var. pseudosulphureus Kallenb. VARIETY
-=======
+# Boletus pseudosulphureus Kallenb., 1923 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Z. Pilzk. 2: 225 (1923)
 
 #### Original name
-Boletus pseudosulphureus var. pseudosulphureus Kallenb.
+Boletus pseudosulphureus Kallenb., 1923
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhizidiomyces apophysatus Zopf, 1884 SPECIES
-=======
+# Rhizidiomyces apophysatus Zopf, 1884 SPECIES
 
 #### Status
 ACCEPTED

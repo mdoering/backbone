@@ -1,5 +1,4 @@
-Pestalotia myrticola Bubák SPECIES
-=======
+# Pestalotia myrticola Bubák SPECIES
 
 #### Status
 ACCEPTED

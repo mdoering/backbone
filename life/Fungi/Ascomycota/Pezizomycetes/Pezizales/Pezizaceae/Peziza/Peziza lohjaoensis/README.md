@@ -1,17 +1,16 @@
-Peziza lohjaënsis Harmaja SPECIES
-=======
+# Peziza lohjaoensis Harmaja SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Karstenia 26(2): 46 (1986)
 
 #### Original name
-Peziza lohjaënsis Harmaja
+Peziza lohjaoensis Harmaja
 
 ### Remarks
 null

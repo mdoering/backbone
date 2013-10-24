@@ -1,17 +1,16 @@
-Hymenochaete veluticeps Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Veluticeps berkeleyi Cooke, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 10(no. 46): 333 (1868)
+Bull. Soc. mycol. Fr. 10: 78 (1894)
 
 #### Original name
-Hymenochaete veluticeps Berk. & M.A. Curtis, 1868
+Veluticeps berkeleyi Cooke, 1894
 
 ### Remarks
 null

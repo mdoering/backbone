@@ -1,5 +1,4 @@
-Biatorella hypophaeoides (Vain.) Zahlbr. SPECIES
-=======
+# Biatorella hypophaeoides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synedra rostrata Pantocsek SPECIES
-=======
+# Synedra rostrata Pantocsek SPECIES
 
 #### Status
 ACCEPTED

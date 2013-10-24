@@ -1,5 +1,4 @@
-Peridinium inflatum SPECIES
-=======
+# Peridinium inflatum SPECIES
 
 #### Status
 ACCEPTED

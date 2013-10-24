@@ -1,5 +1,4 @@
-Passalora chamaecristae (Ellis & Kellerm.) U. Braun SPECIES
-=======
+# Passalora chamaecristae (Ellis & Kellerm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Physcia alboplumbea (Taylor) Nyl. SPECIES
-=======
+# Physcia albata (F. Wilson) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hue, Nouv. Arch. Mus. Hist. Nat. , sér. 2 2: 319 (1890)
+Bryologist 66: 72 (1963)
 
 #### Original name
-Parmelia alboplumbea Taylor
+Parmelia albata F. Wilson
 
 ### Remarks
 null

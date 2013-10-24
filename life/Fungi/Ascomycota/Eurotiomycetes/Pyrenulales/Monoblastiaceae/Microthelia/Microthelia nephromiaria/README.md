@@ -1,5 +1,4 @@
-Microthelia nephromiaria Linds. SPECIES
-=======
+# Microthelia nephromiaria Linds. SPECIES
 
 #### Status
 ACCEPTED

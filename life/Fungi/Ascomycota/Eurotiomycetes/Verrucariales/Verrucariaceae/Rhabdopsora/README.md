@@ -1,5 +1,4 @@
-Rhabdopsora Müll. Arg. GENUS
-=======
+# Rhabdopsora Müll. Arg. GENUS
 
 #### Status
 ACCEPTED

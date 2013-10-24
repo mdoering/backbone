@@ -1,5 +1,4 @@
-Pholiota novembris Singer SPECIES
-=======
+# Pholiota novembris Singer SPECIES
 
 #### Status
 ACCEPTED

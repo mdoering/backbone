@@ -1,5 +1,4 @@
-Ascochyta urticicola Vanev & Bakalova SPECIES
-=======
+# Ascochyta urticicola Vanev & Bakalova SPECIES
 
 #### Status
 ACCEPTED

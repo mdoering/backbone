@@ -1,5 +1,4 @@
-Triceratium latipes J. Fenner SPECIES
-=======
+# Triceratium latipes J. Fenner SPECIES
 
 #### Status
 ACCEPTED

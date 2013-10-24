@@ -1,5 +1,4 @@
-Boletus rufobrunnescens C.S. Bi SPECIES
-=======
+# Boletus rufobrunnescens C.S. Bi SPECIES
 
 #### Status
 ACCEPTED

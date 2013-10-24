@@ -1,5 +1,4 @@
-Sorosporium crypticum (Cooke & Massee) L. Ling SPECIES
-=======
+# Sorosporium crypticum (Cooke & Massee) L. Ling SPECIES
 
 #### Status
 ACCEPTED

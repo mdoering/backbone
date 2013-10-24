@@ -1,5 +1,4 @@
-Gloeosporium cladosporioides Ellis & Halst. SPECIES
-=======
+# Gloeosporium cladosporioides Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

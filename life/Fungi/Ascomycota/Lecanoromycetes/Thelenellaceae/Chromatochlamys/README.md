@@ -1,5 +1,4 @@
-Chromatochlamys Trevis. GENUS
-=======
+# Chromatochlamys Trevis. GENUS
 
 #### Status
 ACCEPTED

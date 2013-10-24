@@ -1,14 +1,13 @@
-Arcangeliella vulvaria (Petri) Zeller & C.W. Dodge, 1935 SPECIES
-=======
+# Clathrogaster vulvarius Petri, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 22: 369 (1935)
+Malpighia 14: 126 (1900)
 
 #### Original name
 Clathrogaster vulvarius Petri, 1900

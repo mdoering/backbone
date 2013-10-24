@@ -1,5 +1,4 @@
-Ceratospermopsis cupaniae Bat., 1951 SPECIES
-=======
+# Ceratospermopsis cupaniae Bat., 1951 SPECIES
 
 #### Status
 ACCEPTED

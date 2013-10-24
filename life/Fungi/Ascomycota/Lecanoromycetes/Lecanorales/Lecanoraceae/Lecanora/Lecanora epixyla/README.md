@@ -1,5 +1,4 @@
-Lecanora epixyla Nyl. SPECIES
-=======
+# Lecanora epixyla Nyl. SPECIES
 
 #### Status
 ACCEPTED

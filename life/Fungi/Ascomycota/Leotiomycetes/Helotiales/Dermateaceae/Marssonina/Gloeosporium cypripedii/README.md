@@ -1,5 +1,4 @@
-Gloeosporium cypripedii Verpl. SPECIES
-=======
+# Gloeosporium cypripedii Verpl. SPECIES
 
 #### Status
 ACCEPTED

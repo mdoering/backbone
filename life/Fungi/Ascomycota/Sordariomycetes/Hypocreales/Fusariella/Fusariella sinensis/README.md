@@ -1,5 +1,4 @@
-Fusariella sinensis H.M. Liu & T.Y. Zhang SPECIES
-=======
+# Fusariella sinensis H.M. Liu & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

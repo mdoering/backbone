@@ -1,17 +1,16 @@
-Coleosporium tussilaginis subf. tussilaginis SUBFORM
-=======
+# Coleosporium tussilaginis (Pers.) Lév., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Orbigny, Dict. Univ. Hist. Nat. 12: 786 (1849)
 
 #### Original name
-null
+Uredo tussilaginis Pers., 1801
 
 ### Remarks
 null

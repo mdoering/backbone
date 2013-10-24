@@ -1,5 +1,4 @@
-Endocarpon maclovianum Bory SPECIES
-=======
+# Endocarpon maclovianum Bory SPECIES
 
 #### Status
 ACCEPTED

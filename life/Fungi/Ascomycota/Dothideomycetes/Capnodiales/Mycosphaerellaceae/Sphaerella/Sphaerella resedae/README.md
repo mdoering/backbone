@@ -1,5 +1,4 @@
-Sphaerella resedae Pass. SPECIES
-=======
+# Sphaerella resedae Pass. SPECIES
 
 #### Status
 ACCEPTED

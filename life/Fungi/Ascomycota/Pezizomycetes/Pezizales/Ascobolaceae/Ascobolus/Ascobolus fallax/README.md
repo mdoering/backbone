@@ -1,5 +1,4 @@
-Ascobolus fallax Auersw. SPECIES
-=======
+# Ascobolus fallax Auersw. SPECIES
 
 #### Status
 ACCEPTED

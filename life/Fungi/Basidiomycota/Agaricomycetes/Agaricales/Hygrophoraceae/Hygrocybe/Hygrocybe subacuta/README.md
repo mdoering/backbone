@@ -1,5 +1,4 @@
-Hygrocybe subacuta (Hongo) Hongo SPECIES
-=======
+# Hygrocybe subacuta (Hongo) Hongo SPECIES
 
 #### Status
 ACCEPTED

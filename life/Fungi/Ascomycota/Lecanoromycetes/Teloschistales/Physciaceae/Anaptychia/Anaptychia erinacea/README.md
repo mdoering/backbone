@@ -1,5 +1,4 @@
-Anaptychia erinacea f. erinacea (Ach.) Trevis. FORM
-=======
+# Anaptychia erinacea (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Anaptychia erinacea f. erinacea (Ach.) Trevis.
+null
 
 ### Remarks
 null

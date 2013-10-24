@@ -1,5 +1,4 @@
-Ascobolus nodulosporus Brumm. SPECIES
-=======
+# Ascobolus nodulosporus Brumm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea scotoplaca H. Magn. SPECIES
-=======
+# Lecidea scotoplaca H. Magn. SPECIES
 
 #### Status
 ACCEPTED

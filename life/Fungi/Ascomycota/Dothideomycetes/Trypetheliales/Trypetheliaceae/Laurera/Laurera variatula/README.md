@@ -1,5 +1,4 @@
-Laurera variatula Nyl. SPECIES
-=======
+# Laurera variatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

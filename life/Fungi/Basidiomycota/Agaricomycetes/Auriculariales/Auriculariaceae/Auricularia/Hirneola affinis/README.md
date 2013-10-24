@@ -1,5 +1,4 @@
-Hirneola affinis (Jungh.) Bres. SPECIES
-=======
+# Hirneola affinis (Jungh.) Bres. SPECIES
 
 #### Status
 ACCEPTED

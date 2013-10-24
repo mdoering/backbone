@@ -1,5 +1,4 @@
-Coryneum psilosporioides (Schulzer) Sacc. & Traverso SPECIES
-=======
+# Coryneum psilosporioides (Schulzer) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

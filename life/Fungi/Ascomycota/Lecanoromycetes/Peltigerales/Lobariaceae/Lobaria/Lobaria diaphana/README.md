@@ -1,5 +1,4 @@
-Lobaria diaphana (Sw.) Raeusch. SPECIES
-=======
+# Lobaria diaphana (Sw.) Raeusch. SPECIES
 
 #### Status
 ACCEPTED

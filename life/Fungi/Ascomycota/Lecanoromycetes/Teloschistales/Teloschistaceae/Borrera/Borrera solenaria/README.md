@@ -1,5 +1,4 @@
-Borrera solenaria (Ach.) Ach. SPECIES
-=======
+# Borrera solenaria (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

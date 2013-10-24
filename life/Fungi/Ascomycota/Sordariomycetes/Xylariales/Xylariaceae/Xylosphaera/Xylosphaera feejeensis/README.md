@@ -1,5 +1,4 @@
-Xylosphaera feejeensis subsp. feejeensis SUBSPECIES
-=======
+# Xylosphaera feejeensis (Berk.) Dennis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Kew Bull. 13(1): 103 (1958)
 
 #### Original name
-Xylosphaera feejeensis subsp. feejeensis
+Sphaeria feejeensis Berk.
 
 ### Remarks
 null

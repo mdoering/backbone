@@ -1,5 +1,4 @@
-Phacidites palaeocassiae (Ettingsh.) Mesch. SPECIES
-=======
+# Phacidites palaeocassiae (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

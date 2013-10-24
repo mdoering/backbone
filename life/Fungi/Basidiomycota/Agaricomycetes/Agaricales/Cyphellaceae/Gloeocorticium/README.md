@@ -1,5 +1,4 @@
-Gloeocorticium Hjortstam & Ryvarden GENUS
-=======
+# Gloeocorticium Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cicadomyces aphrophorae-alni ulc SPECIES
-=======
+# Cicadomyces aphrophorae-alni ulc SPECIES
 
 #### Status
 ACCEPTED

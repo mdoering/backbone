@@ -1,14 +1,13 @@
-Hypodermium nervisequum Link, 1824 SPECIES
-=======
+# Hypodermina nervisequa (Link) Höhn., 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Willdenow, Willd. , Sp. pl. , Edn 4 6(1): 89 (1824)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 125(1/2): 55 (1916)
 
 #### Original name
 Hypodermium nervisequum Link, 1824

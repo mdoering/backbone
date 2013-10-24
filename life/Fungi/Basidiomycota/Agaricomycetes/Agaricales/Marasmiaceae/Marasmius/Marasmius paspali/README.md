@@ -1,5 +1,4 @@
-Marasmius paspali Petch SPECIES
-=======
+# Marasmius paspali Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Navicella macrostemella (Ces.) Kuntze SPECIES
-=======
+# Navicella macrostemella (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

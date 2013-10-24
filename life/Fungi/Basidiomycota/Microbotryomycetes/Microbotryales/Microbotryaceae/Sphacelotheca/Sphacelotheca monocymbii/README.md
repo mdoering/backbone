@@ -1,5 +1,4 @@
-Sphacelotheca monocymbii Syd. SPECIES
-=======
+# Sphacelotheca monocymbii Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora subpirispora Boidin & Cavet SPECIES
-=======
+# Peniophora subpirispora Boidin & Cavet SPECIES
 
 #### Status
 ACCEPTED

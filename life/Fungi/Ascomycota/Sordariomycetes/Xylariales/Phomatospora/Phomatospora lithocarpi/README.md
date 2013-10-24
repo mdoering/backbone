@@ -1,5 +1,4 @@
-Phomatospora lithocarpi S. Kaneko SPECIES
-=======
+# Phomatospora lithocarpi S. Kaneko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prorocentrum elegans M. Faust SPECIES
-=======
+# Prorocentrum elegans M. Faust SPECIES
 
 #### Status
 ACCEPTED

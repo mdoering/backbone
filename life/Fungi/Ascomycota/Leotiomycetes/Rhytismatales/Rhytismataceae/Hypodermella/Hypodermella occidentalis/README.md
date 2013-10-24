@@ -1,17 +1,16 @@
-Hypodermella occidentalae B.P. Wangikar & Ballal SPECIES
-=======
+# Hypodermella occidentalis B.P. Wangikar & Ballal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 53(21): 1162 (1984)
 
 #### Original name
-Hypodermella occidentalae B.P. Wangikar & Ballal
+Hypodermella occidentalis B.P. Wangikar & Ballal
 
 ### Remarks
 null

@@ -1,11 +1,10 @@
-Hyphoderma roseum (Pers.) Fuckel, 1870 SPECIES
-=======
+# Corticium roseum Pers., 1794 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

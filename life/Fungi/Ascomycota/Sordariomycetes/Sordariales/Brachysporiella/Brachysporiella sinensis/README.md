@@ -1,5 +1,4 @@
-Brachysporiella sinensis W.P. Wu SPECIES
-=======
+# Brachysporiella sinensis W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

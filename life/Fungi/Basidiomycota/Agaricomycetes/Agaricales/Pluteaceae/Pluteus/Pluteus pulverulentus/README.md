@@ -1,5 +1,4 @@
-Pluteus pulverulentus var. pulverulentus VARIETY
-=======
+# Pluteus pulverulentus Murrill SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 N. Amer. Fl. (New York) 10(2): 137 (1917)
 
 #### Original name
-Pluteus pulverulentus var. pulverulentus
+Pluteus pulverulentus Murrill
 
 ### Remarks
 null

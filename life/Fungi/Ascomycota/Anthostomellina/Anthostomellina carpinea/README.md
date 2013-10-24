@@ -1,5 +1,4 @@
-Anthostomellina carpinea L.A. Kantsch., 1928 SPECIES
-=======
+# Anthostomellina carpinea L.A. Kantsch., 1928 SPECIES
 
 #### Status
 ACCEPTED

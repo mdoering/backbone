@@ -1,5 +1,4 @@
-Discina schulzeri (Quél.) Sacc. SPECIES
-=======
+# Discina schulzeri (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

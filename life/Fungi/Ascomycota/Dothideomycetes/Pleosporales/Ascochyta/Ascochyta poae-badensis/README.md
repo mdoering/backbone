@@ -1,5 +1,4 @@
-Ascochyta poae-badensis Picb. SPECIES
-=======
+# Ascochyta poae-badensis Picb. SPECIES
 
 #### Status
 ACCEPTED

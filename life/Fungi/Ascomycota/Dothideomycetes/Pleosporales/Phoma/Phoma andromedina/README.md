@@ -1,5 +1,4 @@
-Phoma andromedina P. Karst. SPECIES
-=======
+# Phoma andromedina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

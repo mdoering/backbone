@@ -1,5 +1,4 @@
-Stereocaulon claviceps Th. Fr. SPECIES
-=======
+# Stereocaulon claviceps Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

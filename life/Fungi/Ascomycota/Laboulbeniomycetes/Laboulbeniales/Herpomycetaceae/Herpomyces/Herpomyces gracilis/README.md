@@ -1,5 +1,4 @@
-Herpomyces gracilis Thaxt. SPECIES
-=======
+# Herpomyces gracilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

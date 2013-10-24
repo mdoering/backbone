@@ -1,5 +1,4 @@
-Humaria cinnabarina Velen. SPECIES
-=======
+# Humaria cinnabarina Velen. SPECIES
 
 #### Status
 ACCEPTED

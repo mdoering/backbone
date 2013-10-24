@@ -1,5 +1,4 @@
-Phaeosphaeria thomasiana (Sacc. & Roum.) Huhndorf SPECIES
-=======
+# Phaeosphaeria thomasiana (Sacc. & Roum.) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

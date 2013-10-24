@@ -1,5 +1,4 @@
-Pleistosporidiidae FAMILY
-=======
+# Pleistosporidiidae FAMILY
 
 #### Status
 ACCEPTED

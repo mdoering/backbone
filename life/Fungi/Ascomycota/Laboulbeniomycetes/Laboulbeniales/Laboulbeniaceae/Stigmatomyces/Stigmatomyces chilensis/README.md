@@ -1,5 +1,4 @@
-Stigmatomyces chilensis Thaxt. SPECIES
-=======
+# Stigmatomyces chilensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora anastaticae R.G. Bagn. SPECIES
-=======
+# Pleospora anastaticae R.G. Bagn. SPECIES
 
 #### Status
 ACCEPTED

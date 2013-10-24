@@ -1,5 +1,4 @@
-Talekpea Lunghini & Rambelli GENUS
-=======
+# Talekpea Lunghini & Rambelli GENUS
 
 #### Status
 ACCEPTED

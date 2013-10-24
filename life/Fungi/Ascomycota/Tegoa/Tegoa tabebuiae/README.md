@@ -1,5 +1,4 @@
-Tegoa tabebuiae Bat. & Peres SPECIES
-=======
+# Tegoa tabebuiae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

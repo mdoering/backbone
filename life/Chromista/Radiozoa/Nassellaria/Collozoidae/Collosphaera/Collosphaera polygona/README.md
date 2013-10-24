@@ -1,5 +1,4 @@
-Collosphaera polygona Haeckel, 1887 SPECIES
-=======
+# Collosphaera polygona Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

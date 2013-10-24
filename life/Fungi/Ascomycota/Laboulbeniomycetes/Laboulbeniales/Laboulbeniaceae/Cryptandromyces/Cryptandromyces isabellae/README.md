@@ -1,5 +1,4 @@
-Cryptandromyces isabellae W. Rossi SPECIES
-=======
+# Cryptandromyces isabellae W. Rossi SPECIES
 
 #### Status
 ACCEPTED

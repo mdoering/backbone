@@ -1,5 +1,4 @@
-Phoma alectorolophi Boerema, Gruyter & Noordel. SPECIES
-=======
+# Phoma alectorolophi Boerema, Gruyter & Noordel. SPECIES
 
 #### Status
 ACCEPTED

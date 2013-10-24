@@ -1,5 +1,4 @@
-Actinomyces longissimus Krassiln. SPECIES
-=======
+# Actinomyces longissimus Krassiln. SPECIES
 
 #### Status
 ACCEPTED

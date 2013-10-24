@@ -1,5 +1,4 @@
-Melanospora affine Sacc. & Flageolet SPECIES
-=======
+# Melanospora affine Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

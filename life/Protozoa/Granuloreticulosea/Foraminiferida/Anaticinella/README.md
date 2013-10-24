@@ -1,5 +1,4 @@
-Anaticinella Eicher, 1973 GENUS
-=======
+# Anaticinella Eicher, 1973 GENUS
 
 #### Status
 ACCEPTED

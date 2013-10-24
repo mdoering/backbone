@@ -1,5 +1,4 @@
-Lentinus dichrous Lév. SPECIES
-=======
+# Lentinus dichrous Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Didymella epipolytropa var. epipolytropa VARIETY
-=======
+# Cercidospora epipolytropa (Mudd) Arnold, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 57: 154 (1874)
 
 #### Original name
-Didymella epipolytropa var. epipolytropa
+Thelidium epipolytropum Mudd, 1861
 
 ### Remarks
 null

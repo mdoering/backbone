@@ -1,5 +1,4 @@
-Suillellus floridanus (Singer) Murrill SPECIES
-=======
+# Suillellus floridanus (Singer) Murrill SPECIES
 
 #### Status
 ACCEPTED

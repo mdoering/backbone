@@ -1,5 +1,4 @@
-Riculacysta L.E. Stover, 1977 GENUS
-=======
+# Riculacysta L.E. Stover, 1977 GENUS
 
 #### Status
 ACCEPTED

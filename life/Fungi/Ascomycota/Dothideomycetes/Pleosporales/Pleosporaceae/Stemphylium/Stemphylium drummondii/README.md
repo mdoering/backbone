@@ -1,5 +1,4 @@
-Stemphylium drummondii Nirenberg & Plate SPECIES
-=======
+# Stemphylium drummondii Nirenberg & Plate SPECIES
 
 #### Status
 ACCEPTED

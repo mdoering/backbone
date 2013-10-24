@@ -1,5 +1,4 @@
-Streptomyces ferralitis Saintpierre-Bonaccio et al., 2004 SPECIES
-=======
+# Streptomyces ferralitis Saintpierre-Bonaccio et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

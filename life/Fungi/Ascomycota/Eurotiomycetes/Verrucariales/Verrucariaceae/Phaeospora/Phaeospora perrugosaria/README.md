@@ -1,14 +1,13 @@
-Didymosphaeria perrugosaria (Linds.) Sacc. & Trotter SPECIES
-=======
+# Phaeospora perrugosaria (Linds.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 22: 176 (1913)
+in Galloway, N. Z. Jl Bot. 42(1): 116 (2004)
 
 #### Original name
 Microthelia perrugosaria Linds.

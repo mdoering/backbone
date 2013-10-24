@@ -1,5 +1,4 @@
-Septoria kodaikanalensis Muthumary SPECIES
-=======
+# Septoria kodaikanalensis Muthumary SPECIES
 
 #### Status
 ACCEPTED

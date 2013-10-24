@@ -1,5 +1,4 @@
-Thelotrema chioneum Ach. SPECIES
-=======
+# Thelotrema chioneum Ach. SPECIES
 
 #### Status
 ACCEPTED

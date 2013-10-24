@@ -1,5 +1,4 @@
-Boletus subclavatipes subsp. subclavatipes SUBSPECIES
-=======
+# Boletus subclavatipes SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus subclavatipes subsp. subclavatipes
+Boletus subclavatipes
 
 ### Remarks
 null

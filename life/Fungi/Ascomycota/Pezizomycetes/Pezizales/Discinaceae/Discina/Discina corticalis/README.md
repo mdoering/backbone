@@ -1,5 +1,4 @@
-Discina corticalis (P. Karst.) Sacc. SPECIES
-=======
+# Discina corticalis (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

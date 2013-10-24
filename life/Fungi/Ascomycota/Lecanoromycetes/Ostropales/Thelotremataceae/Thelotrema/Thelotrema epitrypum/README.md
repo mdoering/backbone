@@ -1,5 +1,4 @@
-Thelotrema epitrypum f. epitrypum FORM
-=======
+# Thelotrema epitrypum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelotrema epitrypum f. epitrypum
+null
 
 ### Remarks
 null

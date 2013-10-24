@@ -1,5 +1,4 @@
-Octospora pixis (L.) Timm SPECIES
-=======
+# Octospora pixis (L.) Timm SPECIES
 
 #### Status
 ACCEPTED

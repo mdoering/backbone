@@ -1,5 +1,4 @@
-Lepiota rhodocephala Berk. SPECIES
-=======
+# Lepiota rhodocephala Berk. SPECIES
 
 #### Status
 ACCEPTED

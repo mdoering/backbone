@@ -1,5 +1,4 @@
-Filaspora rhoina (Peck) Kuntze SPECIES
-=======
+# Filaspora rhoina (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

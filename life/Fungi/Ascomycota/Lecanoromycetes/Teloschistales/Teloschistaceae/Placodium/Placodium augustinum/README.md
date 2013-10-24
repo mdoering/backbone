@@ -1,5 +1,4 @@
-Placodium augustinum Vain. SPECIES
-=======
+# Placodium augustinum Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lambertella nipponica Dumont & Korf SPECIES
-=======
+# Lambertella nipponica Dumont & Korf SPECIES
 
 #### Status
 ACCEPTED

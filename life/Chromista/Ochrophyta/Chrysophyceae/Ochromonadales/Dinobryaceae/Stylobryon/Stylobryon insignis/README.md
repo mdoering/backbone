@@ -1,5 +1,4 @@
-Stylobryon insignis Fromental, 1874 SPECIES
-=======
+# Stylobryon insignis Fromental, 1874 SPECIES
 
 #### Status
 ACCEPTED

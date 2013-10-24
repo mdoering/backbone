@@ -1,5 +1,4 @@
-Squamaria elaeina SPECIES
-=======
+# Squamaria elaeina SPECIES
 
 #### Status
 ACCEPTED

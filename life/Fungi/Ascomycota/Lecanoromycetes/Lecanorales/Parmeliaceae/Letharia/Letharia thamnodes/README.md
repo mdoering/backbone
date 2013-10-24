@@ -1,5 +1,4 @@
-Letharia thamnodes (Flot.) Arnold SPECIES
-=======
+# Letharia thamnodes (Flot.) Arnold SPECIES
 
 #### Status
 ACCEPTED

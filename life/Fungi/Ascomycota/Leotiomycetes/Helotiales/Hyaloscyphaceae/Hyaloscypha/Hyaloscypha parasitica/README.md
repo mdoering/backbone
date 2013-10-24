@@ -1,5 +1,4 @@
-Hyaloscypha parasitica (Ellis & Everh.) Sherwood SPECIES
-=======
+# Hyaloscypha parasitica (Ellis & Everh.) Sherwood SPECIES
 
 #### Status
 ACCEPTED

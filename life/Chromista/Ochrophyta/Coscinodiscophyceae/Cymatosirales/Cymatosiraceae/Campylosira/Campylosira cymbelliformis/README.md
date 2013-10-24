@@ -1,8 +1,7 @@
-Synedra cymbelliformis A. Schmidt SPECIES
-=======
+# Campylosira cymbelliformis (A. Schmidt) Grunow ex Van Heurck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

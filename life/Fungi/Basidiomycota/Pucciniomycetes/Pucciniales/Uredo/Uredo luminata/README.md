@@ -1,5 +1,4 @@
-Uredo luminata Thüm. SPECIES
-=======
+# Uredo luminata Thüm. SPECIES
 
 #### Status
 ACCEPTED

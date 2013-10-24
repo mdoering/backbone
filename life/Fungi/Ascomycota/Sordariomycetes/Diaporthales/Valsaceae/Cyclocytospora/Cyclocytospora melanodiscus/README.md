@@ -1,5 +1,4 @@
-Cyclocytospora melanodiscus (G.H. Otth) Höhn. SPECIES
-=======
+# Cyclocytospora melanodiscus (G.H. Otth) Höhn. SPECIES
 
 #### Status
 ACCEPTED

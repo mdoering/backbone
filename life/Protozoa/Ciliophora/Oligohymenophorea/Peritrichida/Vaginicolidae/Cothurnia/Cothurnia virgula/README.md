@@ -1,5 +1,4 @@
-Cothurnia virgula SPECIES
-=======
+# Cothurnia virgula SPECIES
 
 #### Status
 ACCEPTED

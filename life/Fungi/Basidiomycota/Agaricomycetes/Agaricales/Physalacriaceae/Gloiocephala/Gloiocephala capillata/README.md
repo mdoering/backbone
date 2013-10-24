@@ -1,5 +1,4 @@
-Gloiocephala capillata Singer SPECIES
-=======
+# Gloiocephala capillata Singer SPECIES
 
 #### Status
 ACCEPTED

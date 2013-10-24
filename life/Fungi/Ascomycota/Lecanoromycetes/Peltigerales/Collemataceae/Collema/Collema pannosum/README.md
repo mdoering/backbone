@@ -1,5 +1,4 @@
-Collema pannosum Bernh. SPECIES
-=======
+# Collema pannosum Bernh. SPECIES
 
 #### Status
 ACCEPTED

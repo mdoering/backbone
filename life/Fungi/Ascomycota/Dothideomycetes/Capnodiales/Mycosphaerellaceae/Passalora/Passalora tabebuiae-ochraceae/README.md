@@ -1,5 +1,4 @@
-Passalora tabebuiae-ochraceae Inácio & Dianese SPECIES
-=======
+# Passalora tabebuiae-ochraceae Inácio & Dianese SPECIES
 
 #### Status
 ACCEPTED

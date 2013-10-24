@@ -1,5 +1,4 @@
-Actinomadura malachitica Lavrova et al., 1972 (Approved Lists, 1980) SPECIES
-=======
+# Actinomadura malachitica Lavrova et al., 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

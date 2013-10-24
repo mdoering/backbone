@@ -1,5 +1,4 @@
-Gymnomyces ferruginascens Singer & A.H. Sm. SPECIES
-=======
+# Gymnomyces ferruginascens Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

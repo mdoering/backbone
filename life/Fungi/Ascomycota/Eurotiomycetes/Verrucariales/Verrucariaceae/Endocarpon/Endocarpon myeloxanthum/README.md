@@ -1,5 +1,4 @@
-Endocarpon myeloxanthum Breuss SPECIES
-=======
+# Endocarpon myeloxanthum Breuss SPECIES
 
 #### Status
 ACCEPTED

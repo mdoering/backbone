@@ -1,5 +1,4 @@
-Praepararotalia Liu, Olsson & Huber, 1998 GENUS
-=======
+# Praepararotalia Liu, Olsson & Huber, 1998 GENUS
 
 #### Status
 ACCEPTED

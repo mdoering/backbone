@@ -1,5 +1,4 @@
-Braginella Sugiyama, 1997 GENUS
-=======
+# Braginella Sugiyama, 1997 GENUS
 
 #### Status
 ACCEPTED

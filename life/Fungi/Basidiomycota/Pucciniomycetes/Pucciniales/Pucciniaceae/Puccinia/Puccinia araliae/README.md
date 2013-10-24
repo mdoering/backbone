@@ -1,5 +1,4 @@
-Puccinia araliae Ellis & Everh. SPECIES
-=======
+# Puccinia araliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

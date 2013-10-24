@@ -1,5 +1,4 @@
-Phoma vitalbae Pass. SPECIES
-=======
+# Phoma vitalbae Pass. SPECIES
 
 #### Status
 ACCEPTED

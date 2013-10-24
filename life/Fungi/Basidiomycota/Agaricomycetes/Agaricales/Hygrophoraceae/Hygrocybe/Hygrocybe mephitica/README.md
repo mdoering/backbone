@@ -1,5 +1,4 @@
-Hygrocybe mephitica (Peck) Courtec. SPECIES
-=======
+# Hygrocybe mephitica (Peck) Courtec. SPECIES
 
 #### Status
 ACCEPTED

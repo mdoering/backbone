@@ -1,5 +1,4 @@
-Skeletocutis africana Ryvarden & P. Roberts, 2006 SPECIES
-=======
+# Skeletocutis africana Ryvarden & P. Roberts, 2006 SPECIES
 
 #### Status
 ACCEPTED

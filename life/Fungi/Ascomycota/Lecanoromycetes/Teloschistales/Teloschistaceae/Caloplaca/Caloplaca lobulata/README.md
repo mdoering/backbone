@@ -1,17 +1,16 @@
-Caloplaca boulyi var. boulyi VARIETY
-=======
+# Caloplaca lobulata (Flörke) Hellb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pl. Syst. Evol. 140(2-3): 169 (1982)
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 21(no. 13): 67 (1897)
 
 #### Original name
-Caloplaca boulyi var. boulyi
+Lecanora lobulata Flörke
 
 ### Remarks
 null

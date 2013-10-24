@@ -1,5 +1,4 @@
-Diaporthe sydowiana Sacc. SPECIES
-=======
+# Diaporthe sydowiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

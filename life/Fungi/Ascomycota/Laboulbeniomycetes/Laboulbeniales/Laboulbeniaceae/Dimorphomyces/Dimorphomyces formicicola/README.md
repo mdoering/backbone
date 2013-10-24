@@ -1,5 +1,4 @@
-Dimorphomyces formicicola (Speg.) I.I. Tav. SPECIES
-=======
+# Dimorphomyces formicicola (Speg.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

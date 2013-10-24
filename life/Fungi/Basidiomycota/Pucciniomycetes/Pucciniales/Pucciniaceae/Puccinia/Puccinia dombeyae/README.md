@@ -1,5 +1,4 @@
-Puccinia dombeyae Cummins SPECIES
-=======
+# Puccinia dombeyae Cummins SPECIES
 
 #### Status
 ACCEPTED

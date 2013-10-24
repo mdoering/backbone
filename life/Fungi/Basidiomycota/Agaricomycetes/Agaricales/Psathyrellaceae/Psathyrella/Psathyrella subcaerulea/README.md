@@ -1,5 +1,4 @@
-Psathyrella subcaerulea A.H. Sm. SPECIES
-=======
+# Psathyrella subcaerulea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe squarrosoannulata Kühner SPECIES
-=======
+# Inocybe squarrosoannulata Kühner SPECIES
 
 #### Status
 ACCEPTED

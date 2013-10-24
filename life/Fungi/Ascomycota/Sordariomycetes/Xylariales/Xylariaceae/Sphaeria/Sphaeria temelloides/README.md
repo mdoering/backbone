@@ -1,5 +1,4 @@
-Sphaeria temelloides Schumach. SPECIES
-=======
+# Sphaeria temelloides Schumach. SPECIES
 
 #### Status
 ACCEPTED

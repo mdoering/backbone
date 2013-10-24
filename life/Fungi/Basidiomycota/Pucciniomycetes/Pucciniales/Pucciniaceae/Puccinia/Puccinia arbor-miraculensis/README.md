@@ -1,5 +1,4 @@
-Puccinia arbor-miraculensis Berndt SPECIES
-=======
+# Puccinia arbor-miraculensis Berndt SPECIES
 
 #### Status
 ACCEPTED

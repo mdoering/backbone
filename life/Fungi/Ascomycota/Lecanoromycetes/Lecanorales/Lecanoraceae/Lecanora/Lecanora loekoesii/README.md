@@ -1,5 +1,4 @@
-Lecanora loekoesii Y. Joshi, L. Lü & Hur SPECIES
-=======
+# Lecanora loekoesii Y. Joshi, L. Lü & Hur SPECIES
 
 #### Status
 ACCEPTED

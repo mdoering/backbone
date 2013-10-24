@@ -1,14 +1,13 @@
-Pseudostemphylium chlamydosporum Hoes, G.W. Bruehl & C.G. Shaw, 1965 SPECIES
-=======
+# Embellisia chlamydospora (Hoes, G.W. Bruehl & C.G. Shaw) E.G. Simmons, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 57: 904 (1965)
+Mycologia 63(2): 384 (1971)
 
 #### Original name
 Pseudostemphylium chlamydosporum Hoes, G.W. Bruehl & C.G. Shaw, 1965

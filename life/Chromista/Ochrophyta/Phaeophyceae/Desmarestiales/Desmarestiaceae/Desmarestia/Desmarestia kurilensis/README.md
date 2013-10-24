@@ -1,5 +1,4 @@
-Desmarestia kurilensis Yamada SPECIES
-=======
+# Desmarestia kurilensis Yamada SPECIES
 
 #### Status
 ACCEPTED

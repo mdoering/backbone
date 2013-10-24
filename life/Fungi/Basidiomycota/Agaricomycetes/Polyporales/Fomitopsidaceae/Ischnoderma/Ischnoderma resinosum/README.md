@@ -1,17 +1,16 @@
-Polyporus fuliginosus (Scop.) Fr., 1838 SPECIES
-=======
+# Ischnoderma resinosum (Schrad.) P. Karst., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 451 (1838)
+Meddn Soc. Fauna Flora fenn. 5: 38 (1879)
 
 #### Original name
-Boletus fuliginosus Scop., 1772
+Boletus resinosus Schrad., 1794
 
 ### Remarks
 null

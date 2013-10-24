@@ -1,17 +1,16 @@
-Pythium khulbe Prasher & Nisha Sharma SPECIES
-=======
+# Pythium khulbei Prasher & Nisha Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Panjab University Research Journal (Science), New Series 55: 104 (2005)
 
 #### Original name
-Pythium khulbe Prasher & Nisha Sharma
+Pythium khulbei Prasher & Nisha Sharma
 
 ### Remarks
 null

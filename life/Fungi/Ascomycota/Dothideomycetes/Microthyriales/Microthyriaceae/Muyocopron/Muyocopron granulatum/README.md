@@ -1,5 +1,4 @@
-Muyocopron granulatum (Berk. & Broome) Sacc. SPECIES
-=======
+# Muyocopron granulatum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

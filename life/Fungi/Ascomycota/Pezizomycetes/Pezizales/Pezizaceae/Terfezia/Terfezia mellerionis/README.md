@@ -1,5 +1,4 @@
-Terfezia mellerionis Chatin SPECIES
-=======
+# Terfezia mellerionis Chatin SPECIES
 
 #### Status
 ACCEPTED

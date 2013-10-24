@@ -1,5 +1,4 @@
-Septocylindrium repens (Ellis & Everh.) Pound & Clem. SPECIES
-=======
+# Septocylindrium repens (Ellis & Everh.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

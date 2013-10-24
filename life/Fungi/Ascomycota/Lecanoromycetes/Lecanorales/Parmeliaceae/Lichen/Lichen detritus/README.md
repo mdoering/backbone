@@ -1,5 +1,4 @@
-Lichen detritus (Hoffm.) Ach. SPECIES
-=======
+# Lichen detritus (Hoffm.) Ach. SPECIES
 
 #### Status
 ACCEPTED

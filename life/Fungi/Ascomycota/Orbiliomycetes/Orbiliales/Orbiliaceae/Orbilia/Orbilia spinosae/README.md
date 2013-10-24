@@ -1,5 +1,4 @@
-Orbilia spinosae Velen. SPECIES
-=======
+# Orbilia spinosae Velen. SPECIES
 
 #### Status
 ACCEPTED

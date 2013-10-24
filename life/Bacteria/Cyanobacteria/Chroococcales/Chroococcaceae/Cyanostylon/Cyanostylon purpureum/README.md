@@ -1,5 +1,4 @@
-Cyanostylon purpureum Chu & Chen SPECIES
-=======
+# Cyanostylon purpureum Chu & Chen SPECIES
 
 #### Status
 ACCEPTED

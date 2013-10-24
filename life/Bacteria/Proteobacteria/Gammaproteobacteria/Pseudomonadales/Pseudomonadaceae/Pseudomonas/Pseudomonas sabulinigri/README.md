@@ -1,5 +1,4 @@
-Pseudomonas sabulinigri Kim, Roh, Chang, Nam, Yoon, Jeon, Oh & Bae, 2009 SPECIES
-=======
+# Pseudomonas sabulinigri Kim, Roh, Chang, Nam, Yoon, Jeon, Oh & Bae, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryneum foliorum (Fuckel) Petr. SPECIES
-=======
+# Coryneum foliorum (Fuckel) Petr. SPECIES
 
 #### Status
 ACCEPTED

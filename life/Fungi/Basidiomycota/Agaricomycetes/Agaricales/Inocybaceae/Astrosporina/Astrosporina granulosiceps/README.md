@@ -1,5 +1,4 @@
-Astrosporina granulosiceps E. Horak SPECIES
-=======
+# Astrosporina granulosiceps E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Anthostoma conostomum (Mont.) Sacc., 1882 SPECIES
-=======
+# Hypoxylon conostomum (Mont.) Mont., 1855 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 4 3: 117 (1855)
 
 #### Original name
 Sphaeria conostoma Mont., 1841

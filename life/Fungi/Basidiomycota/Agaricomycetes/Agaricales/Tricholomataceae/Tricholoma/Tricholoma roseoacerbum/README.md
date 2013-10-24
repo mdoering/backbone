@@ -1,5 +1,4 @@
-Tricholoma roseoacerbum A. Riva SPECIES
-=======
+# Tricholoma roseoacerbum A. Riva SPECIES
 
 #### Status
 ACCEPTED

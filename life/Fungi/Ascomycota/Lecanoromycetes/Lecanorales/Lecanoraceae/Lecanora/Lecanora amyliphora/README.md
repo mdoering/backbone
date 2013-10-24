@@ -1,5 +1,4 @@
-Lecanora amyliphora J. Steiner SPECIES
-=======
+# Lecanora amyliphora J. Steiner SPECIES
 
 #### Status
 ACCEPTED

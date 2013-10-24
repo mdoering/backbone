@@ -1,5 +1,4 @@
-Rhabdocline Syd. GENUS
-=======
+# Rhabdocline Syd. GENUS
 
 #### Status
 ACCEPTED

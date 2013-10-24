@@ -1,5 +1,4 @@
-Sphaeronaema semipellitum Wallr. SPECIES
-=======
+# Sphaeronaema semipellitum Wallr. SPECIES
 
 #### Status
 ACCEPTED

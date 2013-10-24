@@ -1,5 +1,4 @@
-Omphalina buccinalis (Batsch) Murrill SPECIES
-=======
+# Omphalina buccinalis (Batsch) Murrill SPECIES
 
 #### Status
 ACCEPTED

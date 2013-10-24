@@ -1,5 +1,4 @@
-Tilletia pennisetina Syd. SPECIES
-=======
+# Tilletia pennisetina Syd. SPECIES
 
 #### Status
 ACCEPTED

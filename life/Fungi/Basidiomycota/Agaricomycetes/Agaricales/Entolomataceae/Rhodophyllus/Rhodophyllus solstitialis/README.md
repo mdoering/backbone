@@ -1,5 +1,4 @@
-Rhodophyllus solstitialis (Fr.) Quél. SPECIES
-=======
+# Rhodophyllus solstitialis (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

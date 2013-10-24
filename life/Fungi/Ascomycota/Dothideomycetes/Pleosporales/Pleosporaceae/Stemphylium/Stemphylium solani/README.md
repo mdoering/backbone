@@ -1,5 +1,4 @@
-Stemphylium solani G.F. Weber, 1930 SPECIES
-=======
+# Stemphylium solani G.F. Weber, 1930 SPECIES
 
 #### Status
 ACCEPTED

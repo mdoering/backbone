@@ -1,5 +1,4 @@
-Nectria eugeniae Curr. SPECIES
-=======
+# Nectria eugeniae Curr. SPECIES
 
 #### Status
 ACCEPTED

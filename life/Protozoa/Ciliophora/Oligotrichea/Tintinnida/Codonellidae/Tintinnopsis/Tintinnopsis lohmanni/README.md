@@ -1,5 +1,4 @@
-Tintinnopsis lohmanni Laackmann, 1906 SPECIES
-=======
+# Tintinnopsis lohmanni Laackmann, 1906 SPECIES
 
 #### Status
 ACCEPTED

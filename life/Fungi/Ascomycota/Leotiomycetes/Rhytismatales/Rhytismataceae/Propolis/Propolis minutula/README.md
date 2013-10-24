@@ -1,5 +1,4 @@
-Propolis minutula Sacc. & Malbr. SPECIES
-=======
+# Propolis minutula Sacc. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

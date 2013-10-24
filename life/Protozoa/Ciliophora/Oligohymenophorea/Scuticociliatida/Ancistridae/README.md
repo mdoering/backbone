@@ -1,5 +1,4 @@
-Ancistridae Issel, 1903 FAMILY
-=======
+# Ancistridae Issel, 1903 FAMILY
 
 #### Status
 ACCEPTED

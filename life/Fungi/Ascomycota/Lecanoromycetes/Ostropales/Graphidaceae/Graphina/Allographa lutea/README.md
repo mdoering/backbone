@@ -1,5 +1,4 @@
-Allographa lutea Chevall. SPECIES
-=======
+# Allographa lutea Chevall. SPECIES
 
 #### Status
 ACCEPTED

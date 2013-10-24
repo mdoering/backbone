@@ -1,5 +1,4 @@
-Astrosporina humilis J. Favre & E. Horak SPECIES
-=======
+# Astrosporina humilis J. Favre & E. Horak SPECIES
 
 #### Status
 ACCEPTED

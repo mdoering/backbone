@@ -1,5 +1,4 @@
-Patellaria clavata Ellis SPECIES
-=======
+# Patellaria clavata Ellis SPECIES
 
 #### Status
 ACCEPTED

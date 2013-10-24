@@ -1,5 +1,4 @@
-Theclospora dactylidis Pass. SPECIES
-=======
+# Theclospora dactylidis Pass. SPECIES
 
 #### Status
 ACCEPTED

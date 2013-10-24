@@ -1,5 +1,4 @@
-Laurosticha Yankovskij, 1979 GENUS
-=======
+# Laurosticha Yankovskij, 1979 GENUS
 
 #### Status
 ACCEPTED

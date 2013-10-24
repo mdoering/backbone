@@ -1,5 +1,4 @@
-Bacidia rufula (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia rufula (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

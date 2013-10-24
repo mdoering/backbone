@@ -1,5 +1,4 @@
-Fistulariella carpatica (Körb.) Bowler & Rundel SPECIES
-=======
+# Fistulariella carpatica (Körb.) Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

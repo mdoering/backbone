@@ -1,5 +1,4 @@
-Phacidium expansum Davis SPECIES
-=======
+# Phacidium expansum Davis SPECIES
 
 #### Status
 ACCEPTED

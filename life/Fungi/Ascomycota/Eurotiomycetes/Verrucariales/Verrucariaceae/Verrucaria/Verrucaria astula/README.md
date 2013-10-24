@@ -1,5 +1,4 @@
-Verrucaria astula Nyl. SPECIES
-=======
+# Verrucaria astula Nyl. SPECIES
 
 #### Status
 ACCEPTED

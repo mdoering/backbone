@@ -1,5 +1,4 @@
-Trichosphaerium sieboldi Schneider, 1878 SPECIES
-=======
+# Trichosphaerium sieboldi Schneider, 1878 SPECIES
 
 #### Status
 ACCEPTED

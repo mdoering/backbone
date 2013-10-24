@@ -1,5 +1,4 @@
-Hygrocybe batistae Singer SPECIES
-=======
+# Hygrocybe batistae Singer SPECIES
 
 #### Status
 ACCEPTED

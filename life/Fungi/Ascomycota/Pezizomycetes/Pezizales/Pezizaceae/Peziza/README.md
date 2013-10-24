@@ -1,17 +1,16 @@
-Aleurina (Saccardo) Saccardo & P. Sydow, 1902 GENUS
-=======
+# Peziza E.M. Fries, 1822 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 16: 738 (1902)
+Syst. mycol. (Lundae) 2(1): 40 (1822)
 
 #### Original name
-null
+Peziza E.M. Fries, 1822
 
 ### Remarks
 null

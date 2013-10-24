@@ -1,5 +1,4 @@
-Septoria dictyotae Oudem. SPECIES
-=======
+# Septoria dictyotae Oudem. SPECIES
 
 #### Status
 ACCEPTED

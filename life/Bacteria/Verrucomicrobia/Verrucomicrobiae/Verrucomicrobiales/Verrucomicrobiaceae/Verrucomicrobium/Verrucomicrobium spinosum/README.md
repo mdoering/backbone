@@ -1,5 +1,4 @@
-Verrucomicrobium spinosum Schlesner, 1988 SPECIES
-=======
+# Verrucomicrobium spinosum Schlesner, 1988 SPECIES
 
 #### Status
 ACCEPTED

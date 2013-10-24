@@ -1,5 +1,4 @@
-Alusites Chevallier GENUS
-=======
+# Alusites Chevallier GENUS
 
 #### Status
 ACCEPTED

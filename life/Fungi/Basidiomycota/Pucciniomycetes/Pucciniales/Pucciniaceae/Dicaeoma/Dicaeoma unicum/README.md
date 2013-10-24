@@ -1,5 +1,4 @@
-Dicaeoma unicum (Holw.) Arthur & Fromme SPECIES
-=======
+# Dicaeoma unicum (Holw.) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

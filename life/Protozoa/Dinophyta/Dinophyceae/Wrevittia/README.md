@@ -1,5 +1,4 @@
-Wrevittia Helenes & Lucas-Clark, 1997 GENUS
-=======
+# Wrevittia Helenes & Lucas-Clark, 1997 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium peumi Speg. SPECIES
-=======
+# Coniothyrium peumi Speg. SPECIES
 
 #### Status
 ACCEPTED

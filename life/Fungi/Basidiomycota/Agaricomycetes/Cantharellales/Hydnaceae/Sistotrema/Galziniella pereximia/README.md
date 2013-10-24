@@ -1,5 +1,4 @@
-Galziniella pereximia Parmasto SPECIES
-=======
+# Galziniella pereximia Parmasto SPECIES
 
 #### Status
 ACCEPTED

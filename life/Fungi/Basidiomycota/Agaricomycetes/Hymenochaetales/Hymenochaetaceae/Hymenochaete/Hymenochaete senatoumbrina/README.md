@@ -1,5 +1,4 @@
-Hymenochaete senatoumbrina Parmasto, 1986 SPECIES
-=======
+# Hymenochaete senatoumbrina Parmasto, 1986 SPECIES
 
 #### Status
 ACCEPTED

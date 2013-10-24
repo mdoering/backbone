@@ -1,5 +1,4 @@
-Sorosporium reillianum (Kuhn.) McAlp. SPECIES
-=======
+# Sorosporium reillianum (Kuhn.) McAlp. SPECIES
 
 #### Status
 DOUBTFUL

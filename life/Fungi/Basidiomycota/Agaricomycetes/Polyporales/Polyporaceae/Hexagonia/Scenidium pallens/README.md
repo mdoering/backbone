@@ -1,5 +1,4 @@
-Scenidium pallens (Sacc.) Kuntze SPECIES
-=======
+# Scenidium pallens (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalosporium koningii Oudem. SPECIES
-=======
+# Cephalosporium koningii Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia amphygymnioides Gyeln. SPECIES
-=======
+# Parmelia amphygymnioides Gyeln. SPECIES
 
 #### Status
 ACCEPTED

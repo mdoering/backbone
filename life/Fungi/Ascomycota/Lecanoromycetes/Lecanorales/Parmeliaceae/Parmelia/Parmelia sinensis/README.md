@@ -1,5 +1,4 @@
-Parmelia sinensis Hue SPECIES
-=======
+# Parmelia sinensis Hue SPECIES
 
 #### Status
 ACCEPTED

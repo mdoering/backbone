@@ -1,5 +1,4 @@
-Gloeosporium aucubae Oudem. SPECIES
-=======
+# Gloeosporium aucubae Oudem. SPECIES
 
 #### Status
 ACCEPTED

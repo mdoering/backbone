@@ -1,5 +1,4 @@
-Barssidinium J.K. Lentin, R.A. Fensome & G.L. Williams, 1994 GENUS
-=======
+# Barssidinium J.K. Lentin, R.A. Fensome & G.L. Williams, 1994 GENUS
 
 #### Status
 ACCEPTED

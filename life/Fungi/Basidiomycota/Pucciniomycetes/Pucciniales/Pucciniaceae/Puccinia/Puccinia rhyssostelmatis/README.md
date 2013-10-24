@@ -1,5 +1,4 @@
-Puccinia rhyssostelmatis Speg. SPECIES
-=======
+# Puccinia rhyssostelmatis Speg. SPECIES
 
 #### Status
 ACCEPTED

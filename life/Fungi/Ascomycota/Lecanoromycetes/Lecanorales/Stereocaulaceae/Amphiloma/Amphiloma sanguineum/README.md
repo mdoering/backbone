@@ -1,5 +1,4 @@
-Amphiloma sanguineum Müll. Arg. SPECIES
-=======
+# Amphiloma sanguineum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

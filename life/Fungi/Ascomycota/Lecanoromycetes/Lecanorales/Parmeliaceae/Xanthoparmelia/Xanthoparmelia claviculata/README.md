@@ -1,5 +1,4 @@
-Xanthoparmelia claviculata Kurok. SPECIES
-=======
+# Xanthoparmelia claviculata Kurok. SPECIES
 
 #### Status
 ACCEPTED

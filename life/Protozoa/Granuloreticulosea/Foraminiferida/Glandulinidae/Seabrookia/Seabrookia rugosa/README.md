@@ -1,5 +1,4 @@
-Seabrookia rugosa Watanabe, 1989 SPECIES
-=======
+# Seabrookia rugosa Watanabe, 1989 SPECIES
 
 #### Status
 ACCEPTED

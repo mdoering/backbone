@@ -1,5 +1,4 @@
-Glenosporella GENUS
-=======
+# Glenosporella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prillieuxina manaosensis (Henn.) R.W. Ryan SPECIES
-=======
+# Prillieuxina manaosensis (Henn.) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

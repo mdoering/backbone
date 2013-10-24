@@ -1,5 +1,4 @@
-Peziza abietis SPECIES
-=======
+# Peziza abietis SPECIES
 
 #### Status
 ACCEPTED

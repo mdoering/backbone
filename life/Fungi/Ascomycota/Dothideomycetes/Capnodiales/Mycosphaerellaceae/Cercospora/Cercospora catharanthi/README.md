@@ -1,5 +1,4 @@
-Cercospora catharanthi Karan & Manohar. SPECIES
-=======
+# Cercospora catharanthi Karan & Manohar. SPECIES
 
 #### Status
 ACCEPTED

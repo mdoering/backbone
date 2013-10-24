@@ -1,5 +1,4 @@
-Passalora acalyphae (Tharp) U. Braun & Crous SPECIES
-=======
+# Passalora acalyphae (Tharp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

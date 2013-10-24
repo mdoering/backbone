@@ -1,5 +1,4 @@
-Cladosporium geniculatum Morgan-Jones, 1988 SPECIES
-=======
+# Cladosporium geniculatum Morgan-Jones, 1988 SPECIES
 
 #### Status
 ACCEPTED

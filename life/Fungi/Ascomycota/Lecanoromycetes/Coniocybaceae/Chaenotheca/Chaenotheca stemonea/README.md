@@ -1,17 +1,16 @@
-Chaenotheca stemonea f. stemonea FORM
-=======
+# Chaenotheca stemonea (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mém. Soc. Phys. Hist. nat. Genève 16(2): 360 (1862)
 
 #### Original name
-Chaenotheca stemonea f. stemonea
+Calicium trichiale var. stemoneum Ach.
 
 ### Remarks
 null

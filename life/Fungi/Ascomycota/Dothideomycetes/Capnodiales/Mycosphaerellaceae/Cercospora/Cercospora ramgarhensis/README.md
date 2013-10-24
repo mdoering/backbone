@@ -1,5 +1,4 @@
-Cercospora ramgarhensis Kamal SPECIES
-=======
+# Cercospora ramgarhensis Kamal SPECIES
 
 #### Status
 ACCEPTED

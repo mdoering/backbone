@@ -1,5 +1,4 @@
-Nectriella jucundula Sacc. & Speg. SPECIES
-=======
+# Nectriella jucundula Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

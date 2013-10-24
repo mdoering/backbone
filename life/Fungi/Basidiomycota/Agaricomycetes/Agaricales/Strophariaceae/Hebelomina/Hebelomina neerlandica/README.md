@@ -1,17 +1,16 @@
-Gymnopilus neerlandicus (Huijsman) Contu, 2008 SPECIES
-=======
+# Hebelomina neerlandica Huijsman, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 9(4): 490 (1978)
 
 #### Original name
-null
+Hebelomina neerlandica Huijsman, 1978
 
 ### Remarks
 null

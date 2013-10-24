@@ -1,5 +1,4 @@
-Uredo stipae-laxiflorae Y.C. Wang SPECIES
-=======
+# Uredo stipae-laxiflorae Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

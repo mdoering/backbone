@@ -1,5 +1,4 @@
-Entoderma colletosporium Hanula, Andreadis & M. Blackw., 1991 SPECIES
-=======
+# Entoderma colletosporium Hanula, Andreadis & M. Blackw., 1991 SPECIES
 
 #### Status
 ACCEPTED

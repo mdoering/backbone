@@ -1,5 +1,4 @@
-Lecidea pallidocinerea Flot. SPECIES
-=======
+# Lecidea pallidocinerea Flot. SPECIES
 
 #### Status
 ACCEPTED

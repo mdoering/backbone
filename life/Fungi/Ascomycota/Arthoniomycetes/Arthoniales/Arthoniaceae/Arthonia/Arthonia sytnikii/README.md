@@ -1,5 +1,4 @@
-Arthonia sytnikii S.Y. Kondr. SPECIES
-=======
+# Arthonia sytnikii S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

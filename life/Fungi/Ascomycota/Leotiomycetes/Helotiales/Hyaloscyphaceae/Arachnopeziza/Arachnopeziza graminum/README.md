@@ -1,5 +1,4 @@
-Arachnopeziza graminum Velen. SPECIES
-=======
+# Arachnopeziza graminum Velen. SPECIES
 
 #### Status
 ACCEPTED

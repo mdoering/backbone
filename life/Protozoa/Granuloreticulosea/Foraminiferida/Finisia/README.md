@@ -1,5 +1,4 @@
-Finisia Buzas-Stephens & Kocurko, 1993 GENUS
-=======
+# Finisia Buzas-Stephens & Kocurko, 1993 GENUS
 
 #### Status
 ACCEPTED

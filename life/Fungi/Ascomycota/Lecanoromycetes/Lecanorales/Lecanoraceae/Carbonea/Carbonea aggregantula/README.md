@@ -1,14 +1,13 @@
-Lecidea aggregantula Müll. Arg. SPECIES
-=======
+# Carbonea aggregantula (Müll. Arg.) Diederich & Triebel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 57: 5 (1874)
+Herzogia 9(3-4): 52 (1993)
 
 #### Original name
 Lecidea aggregantula Müll. Arg.

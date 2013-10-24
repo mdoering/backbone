@@ -1,5 +1,4 @@
-Polyporus albidus Saut. SPECIES
-=======
+# Polyporus albidus Saut. SPECIES
 
 #### Status
 ACCEPTED

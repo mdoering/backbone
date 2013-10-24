@@ -1,5 +1,4 @@
-Sphaerella coptis (Schwein.) Farl. SPECIES
-=======
+# Sphaerella coptis (Schwein.) Farl. SPECIES
 
 #### Status
 ACCEPTED

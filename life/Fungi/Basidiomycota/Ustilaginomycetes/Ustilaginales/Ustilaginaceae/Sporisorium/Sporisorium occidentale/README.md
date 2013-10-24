@@ -1,5 +1,4 @@
-Sporisorium occidentale (Seym. ex G.P. Clinton) Vánky & Snets., 1990 SPECIES
-=======
+# Sporisorium occidentale (Seym. ex G.P. Clinton) Vánky & Snets., 1990 SPECIES
 
 #### Status
 ACCEPTED

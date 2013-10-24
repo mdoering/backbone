@@ -1,5 +1,4 @@
-Mallomonas minima SPECIES
-=======
+# Mallomonas minima SPECIES
 
 #### Status
 ACCEPTED

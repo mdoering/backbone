@@ -1,5 +1,4 @@
-Aschersonia murrayae Kobay. {?} SPECIES
-=======
+# Aschersonia murrayae Kobay. {?} SPECIES
 
 #### Status
 ACCEPTED

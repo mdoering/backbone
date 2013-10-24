@@ -1,5 +1,4 @@
-Pholiota irazuensis Singer SPECIES
-=======
+# Pholiota irazuensis Singer SPECIES
 
 #### Status
 ACCEPTED

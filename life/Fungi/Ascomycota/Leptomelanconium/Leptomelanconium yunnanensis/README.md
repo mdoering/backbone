@@ -1,5 +1,4 @@
-Leptomelanconium yunnanensis G.C. Zhao & S.F. Sheng SPECIES
-=======
+# Leptomelanconium yunnanensis G.C. Zhao & S.F. Sheng SPECIES
 
 #### Status
 ACCEPTED

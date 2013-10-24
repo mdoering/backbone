@@ -1,5 +1,4 @@
-Blepharocorythidae FAMILY
-=======
+# Blepharocorythidae FAMILY
 
 #### Status
 ACCEPTED

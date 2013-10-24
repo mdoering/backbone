@@ -1,5 +1,4 @@
-Cortinarius anfractoides Rob. Henry & Trescol SPECIES
-=======
+# Cortinarius anfractoides Rob. Henry & Trescol SPECIES
 
 #### Status
 ACCEPTED

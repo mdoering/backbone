@@ -1,5 +1,4 @@
-Limacinia globosa (L.R. Fraser) W. Yamam. SPECIES
-=======
+# Limacinia globosa (L.R. Fraser) W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

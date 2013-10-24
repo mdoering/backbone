@@ -1,5 +1,4 @@
-Pholiota freindlingiae (Singer) Singer SPECIES
-=======
+# Pholiota freindlingiae (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia abducens (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia abducens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

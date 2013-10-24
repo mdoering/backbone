@@ -1,5 +1,4 @@
-Meliola juruana Henn. SPECIES
-=======
+# Meliola juruana Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe bispora (Singer) Hauskn. SPECIES
-=======
+# Conocybe bispora (Singer) Hauskn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella gaultheriae Hosag., C.K. Biju & T.K. Abraham SPECIES
-=======
+# Asteridiella gaultheriae Hosag., C.K. Biju & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

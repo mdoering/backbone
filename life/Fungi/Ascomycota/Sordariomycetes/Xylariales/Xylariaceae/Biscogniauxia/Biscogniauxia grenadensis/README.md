@@ -1,17 +1,16 @@
-Hypoxylon grenadense var. grenadense J.H. Mill. VARIETY
-=======
+# Biscogniauxia grenadensis (J.H. Mill.) Whalley & Laessøe, 1990 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. World spec. Hypoxylon 110 (1961)
+in Whalley, Laessøe & Kile, Mycol. Res. 94(2): 239 (1990)
 
 #### Original name
-Hypoxylon grenadense var. grenadense J.H. Mill.
+Hypoxylon grenadense J.H. Mill., 1961
 
 ### Remarks
 null

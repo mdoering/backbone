@@ -1,5 +1,4 @@
-Thozetella boonjiensis B.C. Paulus, Gadek & K.D. Hyde SPECIES
-=======
+# Thozetella boonjiensis B.C. Paulus, Gadek & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

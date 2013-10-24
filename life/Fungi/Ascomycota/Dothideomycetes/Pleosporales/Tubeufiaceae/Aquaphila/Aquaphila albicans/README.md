@@ -1,5 +1,4 @@
-Aquaphila albicans Goh, K.D. Hyde & W.H. Ho, 1998 SPECIES
-=======
+# Aquaphila albicans Goh, K.D. Hyde & W.H. Ho, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Corticium singulare G. Cunn., 1954 SPECIES
-=======
+# Australicium singulare (G. Cunn.) Hjortstam & Ryvarden, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 82: 325 (1954)
+Syn. Fung. (Oslo) 15: 19 (2002)
 
 #### Original name
 Corticium singulare G. Cunn., 1954

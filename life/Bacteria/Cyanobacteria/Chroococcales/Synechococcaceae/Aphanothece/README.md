@@ -1,5 +1,4 @@
-Aphanothece Naegeli, 1849 GENUS
-=======
+# Aphanothece Naegeli, 1849 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia heterospora Griffon & Maubl. SPECIES
-=======
+# Pestalotia heterospora Griffon & Maubl. SPECIES
 
 #### Status
 ACCEPTED

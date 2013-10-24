@@ -1,5 +1,4 @@
-Angulisphaerina keminica Lopukhin, 1966 SPECIES
-=======
+# Angulisphaerina keminica Lopukhin, 1966 SPECIES
 
 #### Status
 ACCEPTED

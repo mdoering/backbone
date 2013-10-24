@@ -1,5 +1,4 @@
-Ramularia dioscoreae Ellis & Everh. SPECIES
-=======
+# Ramularia dioscoreae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

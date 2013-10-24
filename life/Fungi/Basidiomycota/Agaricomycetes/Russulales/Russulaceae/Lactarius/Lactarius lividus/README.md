@@ -1,5 +1,4 @@
-Lactarius lividus (Lambotte) Massee SPECIES
-=======
+# Lactarius lividus (Lambotte) Massee SPECIES
 
 #### Status
 ACCEPTED

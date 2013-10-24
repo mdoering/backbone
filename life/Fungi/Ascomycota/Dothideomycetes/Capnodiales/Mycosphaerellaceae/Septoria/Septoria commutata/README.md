@@ -1,5 +1,4 @@
-Septoria commutata Bubák SPECIES
-=======
+# Septoria commutata Bubák SPECIES
 
 #### Status
 ACCEPTED

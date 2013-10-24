@@ -1,5 +1,4 @@
-Septoria cercidis Fr., 1848 SPECIES
-=======
+# Septoria cercidis Fr., 1848 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillaria scruposa (Fr.) Gillet SPECIES
-=======
+# Armillaria scruposa (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

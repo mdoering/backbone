@@ -1,5 +1,4 @@
-Eutypa alangii Rehm SPECIES
-=======
+# Eutypa alangii Rehm SPECIES
 
 #### Status
 ACCEPTED

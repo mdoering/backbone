@@ -1,5 +1,4 @@
-Phaeophleospora indica Chinnappa, 1968 SPECIES
-=======
+# Phaeophleospora indica Chinnappa, 1968 SPECIES
 
 #### Status
 ACCEPTED

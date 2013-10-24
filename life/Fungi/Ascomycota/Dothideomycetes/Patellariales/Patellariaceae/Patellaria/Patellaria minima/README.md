@@ -1,5 +1,4 @@
-Patellaria minima Spreng. SPECIES
-=======
+# Patellaria minima Spreng. SPECIES
 
 #### Status
 ACCEPTED

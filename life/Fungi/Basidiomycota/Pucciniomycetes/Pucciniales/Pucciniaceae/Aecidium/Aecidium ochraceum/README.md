@@ -1,5 +1,4 @@
-Aecidium ochraceum Speg. SPECIES
-=======
+# Aecidium ochraceum Speg. SPECIES
 
 #### Status
 ACCEPTED

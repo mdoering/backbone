@@ -1,5 +1,4 @@
-Diplocladiella heterospora R.F. Castañeda SPECIES
-=======
+# Diplocladiella heterospora R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptococcus flavus (Saito) Á. Fonseca, Boekhout & Fell, 2008 SPECIES
-=======
+# Cryptococcus flavus (Saito) Á. Fonseca, Boekhout & Fell, 2008 SPECIES
 
 #### Status
 ACCEPTED

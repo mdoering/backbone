@@ -1,5 +1,4 @@
-Xylaria ridleyi Massee SPECIES
-=======
+# Xylaria ridleyi Massee SPECIES
 
 #### Status
 ACCEPTED

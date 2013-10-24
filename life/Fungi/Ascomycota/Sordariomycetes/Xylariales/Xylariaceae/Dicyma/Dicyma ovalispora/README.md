@@ -1,14 +1,13 @@
-Hansfordia ovalispora S. Hughes, 1951 SPECIES
-=======
+# Dicyma ovalispora (S. Hughes) Arx, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 43: 16 (1951)
+Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 316 (1981)
 
 #### Original name
 Hansfordia ovalispora S. Hughes, 1951

@@ -1,5 +1,4 @@
-Genea anthracina Heblack & E.L. Stewart SPECIES
-=======
+# Genea anthracina Heblack & E.L. Stewart SPECIES
 
 #### Status
 ACCEPTED

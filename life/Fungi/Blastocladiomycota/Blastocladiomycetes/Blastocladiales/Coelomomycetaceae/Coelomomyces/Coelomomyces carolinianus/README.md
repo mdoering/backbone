@@ -1,5 +1,4 @@
-Coelomomyces carolinianus Couch, Umphlett & H.A. Bond SPECIES
-=======
+# Coelomomyces carolinianus Couch, Umphlett & H.A. Bond SPECIES
 
 #### Status
 ACCEPTED

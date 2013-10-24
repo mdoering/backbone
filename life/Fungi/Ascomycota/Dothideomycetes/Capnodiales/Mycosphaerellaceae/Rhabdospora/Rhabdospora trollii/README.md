@@ -1,5 +1,4 @@
-Rhabdospora trollii Henn. SPECIES
-=======
+# Rhabdospora trollii Henn. SPECIES
 
 #### Status
 ACCEPTED

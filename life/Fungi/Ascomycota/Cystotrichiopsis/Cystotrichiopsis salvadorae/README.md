@@ -1,5 +1,4 @@
-Cystotrichiopsis salvadorae Abbas, B. Sutton & Ghaffar, 2001 SPECIES
-=======
+# Cystotrichiopsis salvadorae Abbas, B. Sutton & Ghaffar, 2001 SPECIES
 
 #### Status
 ACCEPTED

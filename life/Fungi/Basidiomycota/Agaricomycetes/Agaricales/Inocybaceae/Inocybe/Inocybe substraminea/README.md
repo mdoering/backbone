@@ -1,5 +1,4 @@
-Inocybe substraminea Alessio SPECIES
-=======
+# Inocybe substraminea Alessio SPECIES
 
 #### Status
 ACCEPTED

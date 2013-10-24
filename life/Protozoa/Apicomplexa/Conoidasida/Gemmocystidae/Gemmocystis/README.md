@@ -1,5 +1,4 @@
-Gemmocystis Upton & Peters, 1986 GENUS
-=======
+# Gemmocystis Upton & Peters, 1986 GENUS
 
 #### Status
 ACCEPTED

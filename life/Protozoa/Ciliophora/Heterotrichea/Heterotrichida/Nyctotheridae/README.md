@@ -1,5 +1,4 @@
-Nyctotheridae Amaro, 1972 FAMILY
-=======
+# Nyctotheridae Amaro, 1972 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula subcremea Malme SPECIES
-=======
+# Pyrenula subcremea Malme SPECIES
 
 #### Status
 ACCEPTED

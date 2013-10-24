@@ -1,5 +1,4 @@
-Torula binalis Cooke & Ellis SPECIES
-=======
+# Torula binalis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

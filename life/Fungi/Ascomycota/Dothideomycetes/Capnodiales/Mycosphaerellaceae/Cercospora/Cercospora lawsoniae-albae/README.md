@@ -1,5 +1,4 @@
-Cercospora lawsoniae-albae Thirum. & Govindu SPECIES
-=======
+# Cercospora lawsoniae-albae Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

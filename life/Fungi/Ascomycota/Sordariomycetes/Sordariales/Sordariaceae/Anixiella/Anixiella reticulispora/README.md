@@ -1,5 +1,4 @@
-Anixiella reticulispora Saito & Minoura SPECIES
-=======
+# Anixiella reticulispora Saito & Minoura SPECIES
 
 #### Status
 ACCEPTED

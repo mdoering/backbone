@@ -1,5 +1,4 @@
-Septoria pentstemonicola Ellis & Everh. SPECIES
-=======
+# Septoria pentstemonicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia schisticola (H. Magn.) J.C. Wei SPECIES
-=======
+# Aspicilia schisticola (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

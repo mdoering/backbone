@@ -1,5 +1,4 @@
-Sporisorium tonglinense (Tracy & Earle) Rifai SPECIES
-=======
+# Sporisorium tonglinense (Tracy & Earle) Rifai SPECIES
 
 #### Status
 ACCEPTED

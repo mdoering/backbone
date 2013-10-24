@@ -1,5 +1,4 @@
-Uredo plantaginis Berk. & Broome SPECIES
-=======
+# Uredo plantaginis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

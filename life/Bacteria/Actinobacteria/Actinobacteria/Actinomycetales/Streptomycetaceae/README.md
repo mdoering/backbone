@@ -1,5 +1,4 @@
-Streptomycetaceae FAMILY
-=======
+# Streptomycetaceae FAMILY
 
 #### Status
 ACCEPTED

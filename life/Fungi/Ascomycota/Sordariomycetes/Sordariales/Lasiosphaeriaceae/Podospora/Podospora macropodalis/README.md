@@ -1,5 +1,4 @@
-Podospora macropodalis Mirza & Cain SPECIES
-=======
+# Podospora macropodalis Mirza & Cain SPECIES
 
 #### Status
 ACCEPTED

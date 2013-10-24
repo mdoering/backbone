@@ -1,5 +1,4 @@
-Pyrenula trombetana Vain. SPECIES
-=======
+# Pyrenula trombetana Vain. SPECIES
 
 #### Status
 ACCEPTED

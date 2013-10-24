@@ -1,5 +1,4 @@
-Streblonemopsis irritans Valiante SPECIES
-=======
+# Streblonemopsis irritans Valiante SPECIES
 
 #### Status
 ACCEPTED

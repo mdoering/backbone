@@ -1,5 +1,4 @@
-Sphaerella balansae Speg. SPECIES
-=======
+# Sphaerella balansae Speg. SPECIES
 
 #### Status
 ACCEPTED

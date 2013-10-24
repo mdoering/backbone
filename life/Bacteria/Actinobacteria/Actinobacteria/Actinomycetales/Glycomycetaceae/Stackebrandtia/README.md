@@ -1,5 +1,4 @@
-Stackebrandtia Labeda & Kroppenstedt, 2005 GENUS
-=======
+# Stackebrandtia Labeda & Kroppenstedt, 2005 GENUS
 
 #### Status
 ACCEPTED

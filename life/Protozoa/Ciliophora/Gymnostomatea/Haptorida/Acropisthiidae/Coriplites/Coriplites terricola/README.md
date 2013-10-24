@@ -1,5 +1,4 @@
-Coriplites terricola Foissner, 1988 SPECIES
-=======
+# Coriplites terricola Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

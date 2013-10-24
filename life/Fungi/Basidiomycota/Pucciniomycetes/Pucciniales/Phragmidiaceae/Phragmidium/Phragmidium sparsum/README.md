@@ -1,5 +1,4 @@
-Phragmidium sparsum Richon SPECIES
-=======
+# Phragmidium sparsum Richon SPECIES
 
 #### Status
 ACCEPTED

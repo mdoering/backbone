@@ -1,5 +1,4 @@
-Melanoporthe talae (Speg.) Wehm. SPECIES
-=======
+# Melanoporthe talae (Speg.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

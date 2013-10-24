@@ -1,5 +1,4 @@
-Asteridiella longipoda (Gaillard) Hansf. SPECIES
-=======
+# Asteridiella longipoda (Gaillard) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gasparrinia deplanata (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Gasparrinia deplanata (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

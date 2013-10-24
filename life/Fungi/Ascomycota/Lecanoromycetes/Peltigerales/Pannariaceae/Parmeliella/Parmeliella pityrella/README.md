@@ -1,5 +1,4 @@
-Parmeliella pityrella (Stirt.) Zahlbr. SPECIES
-=======
+# Parmeliella pityrella (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

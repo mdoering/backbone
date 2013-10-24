@@ -1,17 +1,16 @@
-Pleospora cytisi f. cytisi Fuckel FORM
-=======
+# Pleospora cytisi Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Jb. nassau. Ver. Naturk. 23-24: 132 (1870)
 
 #### Original name
-Pleospora cytisi f. cytisi Fuckel
+Pleospora cytisi Fuckel, 1870
 
 ### Remarks
 null

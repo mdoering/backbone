@@ -1,5 +1,4 @@
-Papuadinium R.J. Davey, 1988 GENUS
-=======
+# Papuadinium R.J. Davey, 1988 GENUS
 
 #### Status
 ACCEPTED

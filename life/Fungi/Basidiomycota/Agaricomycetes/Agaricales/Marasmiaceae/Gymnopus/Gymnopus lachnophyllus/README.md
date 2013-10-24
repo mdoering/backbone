@@ -1,5 +1,4 @@
-Gymnopus lachnophyllus (Berk.) Murrill SPECIES
-=======
+# Gymnopus lachnophyllus (Berk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

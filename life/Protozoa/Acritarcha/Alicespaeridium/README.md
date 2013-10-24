@@ -1,5 +1,4 @@
-Alicespaeridium Zang & Walter, 1992 GENUS
-=======
+# Alicespaeridium Zang & Walter, 1992 GENUS
 
 #### Status
 ACCEPTED

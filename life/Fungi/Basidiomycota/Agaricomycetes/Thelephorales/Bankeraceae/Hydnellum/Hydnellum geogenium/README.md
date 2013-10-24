@@ -1,14 +1,13 @@
-Calodon geogenius (Fr.) P. Karst., 1881 SPECIES
-=======
+# Hydnellum geogenium (Fr.) Banker, 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 3(9): 20 (1881)
+Mycologia 5(4): 203 (1913)
 
 #### Original name
 Hydnum geogenium Fr., 1852

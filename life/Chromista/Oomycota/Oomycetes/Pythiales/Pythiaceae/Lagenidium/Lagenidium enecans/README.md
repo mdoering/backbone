@@ -1,5 +1,4 @@
-Lagenidium enecans Zopf SPECIES
-=======
+# Lagenidium enecans Zopf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parathuramminidae Bykova, 1955 FAMILY
-=======
+# Parathuramminidae Bykova, 1955 FAMILY
 
 #### Status
 ACCEPTED

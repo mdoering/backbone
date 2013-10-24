@@ -1,5 +1,4 @@
-Cornicularia tortuosa (Ach.) Fr. SPECIES
-=======
+# Cornicularia tortuosa (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

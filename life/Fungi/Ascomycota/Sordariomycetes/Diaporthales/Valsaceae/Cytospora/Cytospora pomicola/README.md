@@ -1,5 +1,4 @@
-Cytospora pomicola Massee SPECIES
-=======
+# Cytospora pomicola Massee SPECIES
 
 #### Status
 ACCEPTED

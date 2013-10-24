@@ -1,5 +1,4 @@
-Craterisphaeridium sprucegrovense (Staplin, 1961) emend. Turner, 1986 SPECIES
-=======
+# Craterisphaeridium sprucegrovense (Staplin, 1961) emend. Turner, 1986 SPECIES
 
 #### Status
 ACCEPTED

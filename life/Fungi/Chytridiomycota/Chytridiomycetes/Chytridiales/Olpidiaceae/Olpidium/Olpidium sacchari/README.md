@@ -1,5 +1,4 @@
-Olpidium sacchari M.T. Cook SPECIES
-=======
+# Olpidium sacchari M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

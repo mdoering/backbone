@@ -1,5 +1,4 @@
-Opercularia kahli SPECIES
-=======
+# Opercularia kahli SPECIES
 
 #### Status
 ACCEPTED

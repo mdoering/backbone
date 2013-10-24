@@ -1,5 +1,4 @@
-Dothiorella rugulosa Sacc. SPECIES
-=======
+# Dothiorella rugulosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena latens Corner SPECIES
-=======
+# Mycena latens Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pestalotiopsis stevensonii (Peck) Nag Raj, 1993 SPECIES
-=======
+# Pestalotia stevensonii Peck, 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 655 (1993)
+Bull. Torrey bot. Club 6: 135 (1877)
 
 #### Original name
 Pestalotia stevensonii Peck, 1877

@@ -1,5 +1,4 @@
-Cystolepiota icterina F.H. Møller ex Knudsen SPECIES
-=======
+# Cystolepiota icterina F.H. Møller ex Knudsen SPECIES
 
 #### Status
 ACCEPTED

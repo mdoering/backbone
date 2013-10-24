@@ -1,5 +1,4 @@
-Cercosporella macularis (J. Schröt.) Magnus SPECIES
-=======
+# Cercosporella macularis (J. Schröt.) Magnus SPECIES
 
 #### Status
 ACCEPTED

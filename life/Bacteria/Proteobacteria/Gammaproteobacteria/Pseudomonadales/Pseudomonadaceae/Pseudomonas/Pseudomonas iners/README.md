@@ -1,5 +1,4 @@
-Pseudomonas iners Iizuka and Komagata, 1964 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas iners Iizuka and Komagata, 1964 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

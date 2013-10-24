@@ -1,14 +1,13 @@
-Parmelia nana Kurok. SPECIES
-=======
+# Xanthoparmelia nana (Kurok.) Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo, B 11(3): 86 (1985)
+Mycotaxon 29: 371 (1987)
 
 #### Original name
 Parmelia nana Kurok.

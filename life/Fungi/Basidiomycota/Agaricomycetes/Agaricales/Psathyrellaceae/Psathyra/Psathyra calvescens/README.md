@@ -1,5 +1,4 @@
-Psathyra calvescens Berk. SPECIES
-=======
+# Psathyra calvescens Berk. SPECIES
 
 #### Status
 ACCEPTED

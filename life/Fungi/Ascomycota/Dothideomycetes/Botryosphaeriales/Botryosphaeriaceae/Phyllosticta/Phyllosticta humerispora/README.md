@@ -1,5 +1,4 @@
-Phyllosticta humerispora Speg. SPECIES
-=======
+# Phyllosticta humerispora Speg. SPECIES
 
 #### Status
 ACCEPTED

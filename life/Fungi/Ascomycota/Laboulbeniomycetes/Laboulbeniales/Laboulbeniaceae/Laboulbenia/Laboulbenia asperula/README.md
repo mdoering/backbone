@@ -1,5 +1,4 @@
-Laboulbenia asperula Speg. SPECIES
-=======
+# Laboulbenia asperula Speg. SPECIES
 
 #### Status
 ACCEPTED

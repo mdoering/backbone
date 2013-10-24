@@ -1,5 +1,4 @@
-Xiphoptera Haeckel, 1881 GENUS
-=======
+# Xiphoptera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

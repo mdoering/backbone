@@ -1,5 +1,4 @@
-Ascochyta zavrelii-ignatii Picb. SPECIES
-=======
+# Ascochyta zavrelii-ignatii Picb. SPECIES
 
 #### Status
 ACCEPTED

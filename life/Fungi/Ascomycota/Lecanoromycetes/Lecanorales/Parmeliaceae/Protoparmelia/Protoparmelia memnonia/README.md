@@ -1,5 +1,4 @@
-Protoparmelia memnonia Hafellner & Türk SPECIES
-=======
+# Protoparmelia memnonia Hafellner & Türk SPECIES
 
 #### Status
 ACCEPTED

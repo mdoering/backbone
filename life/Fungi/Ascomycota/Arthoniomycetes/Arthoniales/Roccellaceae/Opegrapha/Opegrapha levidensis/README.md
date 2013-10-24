@@ -1,5 +1,4 @@
-Opegrapha levidensis Willey SPECIES
-=======
+# Opegrapha levidensis Willey SPECIES
 
 #### Status
 ACCEPTED

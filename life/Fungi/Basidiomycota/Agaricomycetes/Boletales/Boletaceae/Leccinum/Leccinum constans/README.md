@@ -1,5 +1,4 @@
-Leccinum constans Thiers SPECIES
-=======
+# Leccinum constans Thiers SPECIES
 
 #### Status
 ACCEPTED

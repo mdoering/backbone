@@ -1,5 +1,4 @@
-Puccinia actaeae-agropyri f. sp FORM
-=======
+# Puccinia actaeae-agropyri E. Fisch. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bot. Schweiz. Bot. Ges. Heft 11: 41 (1901)
 
 #### Original name
-Puccinia actaeae-agropyri f. sp
+Puccinia actaeae-agropyri E. Fisch.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bettsia Skou GENUS
-=======
+# Bettsia Skou GENUS
 
 #### Status
 ACCEPTED

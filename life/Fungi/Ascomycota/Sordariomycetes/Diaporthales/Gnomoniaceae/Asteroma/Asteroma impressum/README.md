@@ -1,14 +1,13 @@
-Excipula impressa (Fuckel) Died., 1911 SPECIES
-=======
+# Asteroma impressum Fuckel, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 9(5): 535 (1911)
+null
 
 #### Original name
 Asteroma impressum Fuckel, 1874

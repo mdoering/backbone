@@ -1,5 +1,4 @@
-Spirillina selseyensis Heron-Allen & Earland, 1909 SPECIES
-=======
+# Spirillina selseyensis Heron-Allen & Earland, 1909 SPECIES
 
 #### Status
 ACCEPTED

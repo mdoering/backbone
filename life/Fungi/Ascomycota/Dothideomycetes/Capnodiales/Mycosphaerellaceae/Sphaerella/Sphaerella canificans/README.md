@@ -1,5 +1,4 @@
-Sphaerella canificans Fuckel SPECIES
-=======
+# Sphaerella canificans Fuckel SPECIES
 
 #### Status
 ACCEPTED

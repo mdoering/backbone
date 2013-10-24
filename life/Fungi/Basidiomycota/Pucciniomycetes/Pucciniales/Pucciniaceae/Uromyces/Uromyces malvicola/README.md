@@ -1,5 +1,4 @@
-Uromyces malvicola Speg. SPECIES
-=======
+# Uromyces malvicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alysidium punctatum Bonord. SPECIES
-=======
+# Alysidium punctatum Bonord. SPECIES
 
 #### Status
 ACCEPTED

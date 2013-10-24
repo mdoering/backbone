@@ -1,5 +1,4 @@
-Thoracosphaera libituca Chongyou Wang SPECIES
-=======
+# Thoracosphaera libituca Chongyou Wang SPECIES
 
 #### Status
 ACCEPTED

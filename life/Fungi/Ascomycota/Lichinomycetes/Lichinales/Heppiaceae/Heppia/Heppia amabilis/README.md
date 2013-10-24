@@ -1,5 +1,4 @@
-Heppia amabilis SPECIES
-=======
+# Heppia amabilis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplariopsis Oudemans, 1903 GENUS
-=======
+# Haplariopsis Oudemans, 1903 GENUS
 
 #### Status
 ACCEPTED

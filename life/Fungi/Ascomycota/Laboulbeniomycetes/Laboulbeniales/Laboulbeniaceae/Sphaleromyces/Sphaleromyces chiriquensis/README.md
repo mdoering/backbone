@@ -1,5 +1,4 @@
-Sphaleromyces chiriquensis Thaxt. SPECIES
-=======
+# Sphaleromyces chiriquensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitopilus angustus (Pers.) P. Kumm. SPECIES
-=======
+# Clitopilus angustus (Pers.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

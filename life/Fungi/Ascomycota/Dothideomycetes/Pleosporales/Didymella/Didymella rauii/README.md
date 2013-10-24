@@ -1,5 +1,4 @@
-Didymella rauii (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Didymella rauii (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

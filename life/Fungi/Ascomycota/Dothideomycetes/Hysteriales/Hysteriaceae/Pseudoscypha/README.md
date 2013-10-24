@@ -1,5 +1,4 @@
-Pseudoscypha J. Reid & Piroz. GENUS
-=======
+# Pseudoscypha J. Reid & Piroz. GENUS
 
 #### Status
 ACCEPTED

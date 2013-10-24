@@ -1,5 +1,4 @@
-Panellus niger G. Stev., 1964 SPECIES
-=======
+# Panellus niger G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

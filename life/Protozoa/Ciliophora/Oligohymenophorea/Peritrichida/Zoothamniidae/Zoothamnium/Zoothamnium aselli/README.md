@@ -1,5 +1,4 @@
-Zoothamnium aselli Claparède & Lachmann, 1858 SPECIES
-=======
+# Zoothamnium aselli Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

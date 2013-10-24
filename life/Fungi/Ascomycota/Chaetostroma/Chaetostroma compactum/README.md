@@ -1,17 +1,16 @@
-Chaetostroma compacta Babajan & Negru SPECIES
-=======
+# Chaetostroma compactum Babajan & Negru SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Izv. Acad. Sci. Armyan S. S. R. 13(2): 88 (1960)
 
 #### Original name
-Chaetostroma compacta Babajan & Negru
+Chaetostroma compactum Babajan & Negru
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Newinia Thaung GENUS
-=======
+# Newinia Thaung GENUS
 
 #### Status
 ACCEPTED

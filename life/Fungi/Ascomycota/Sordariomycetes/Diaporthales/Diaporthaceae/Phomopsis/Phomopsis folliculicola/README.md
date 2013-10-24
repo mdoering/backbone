@@ -1,5 +1,4 @@
-Phomopsis folliculicola Punith., 1974 SPECIES
-=======
+# Phomopsis folliculicola Punith., 1974 SPECIES
 
 #### Status
 ACCEPTED

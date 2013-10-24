@@ -1,5 +1,4 @@
-Platygrapha stigmatica Kremp. SPECIES
-=======
+# Platygrapha stigmatica Kremp. SPECIES
 
 #### Status
 ACCEPTED

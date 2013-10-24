@@ -1,5 +1,4 @@
-Astrothelium subfusum Kremp. SPECIES
-=======
+# Astrothelium subfusum Kremp. SPECIES
 
 #### Status
 ACCEPTED

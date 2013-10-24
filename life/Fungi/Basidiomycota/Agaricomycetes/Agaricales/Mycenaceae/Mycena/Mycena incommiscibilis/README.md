@@ -1,5 +1,4 @@
-Mycena incommiscibilis Berk. SPECIES
-=======
+# Mycena incommiscibilis Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma magnusii (Ule) Woronin SPECIES
-=======
+# Entyloma magnusii (Ule) Woronin SPECIES
 
 #### Status
 ACCEPTED

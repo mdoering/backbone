@@ -1,5 +1,4 @@
-Tremella ligulata Schumach. SPECIES
-=======
+# Tremella ligulata Schumach. SPECIES
 
 #### Status
 ACCEPTED

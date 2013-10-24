@@ -1,5 +1,4 @@
-Uromyces verus H.S. Jacks. & Holw. SPECIES
-=======
+# Uromyces verus H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

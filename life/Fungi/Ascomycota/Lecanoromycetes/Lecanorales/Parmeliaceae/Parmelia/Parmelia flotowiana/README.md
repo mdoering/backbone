@@ -1,5 +1,4 @@
-Parmelia flotowiana Gyeln. SPECIES
-=======
+# Parmelia flotowiana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

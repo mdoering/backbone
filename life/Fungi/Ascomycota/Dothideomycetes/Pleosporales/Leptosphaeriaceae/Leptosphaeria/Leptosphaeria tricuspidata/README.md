@@ -1,5 +1,4 @@
-Leptosphaeria tricuspidata (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Leptosphaeria tricuspidata (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

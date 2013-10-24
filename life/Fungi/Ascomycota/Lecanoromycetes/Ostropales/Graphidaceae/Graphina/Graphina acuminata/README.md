@@ -1,5 +1,4 @@
-Graphina acuminata (Vain.) Zahlbr. SPECIES
-=======
+# Graphina acuminata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

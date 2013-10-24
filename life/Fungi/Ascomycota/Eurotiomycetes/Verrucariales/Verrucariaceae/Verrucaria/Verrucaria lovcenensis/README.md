@@ -1,5 +1,4 @@
-Verrucaria lovcenensis Servít SPECIES
-=======
+# Verrucaria lovcenensis Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces pavoniae Arthur SPECIES
-=======
+# Uromyces pavoniae Arthur SPECIES
 
 #### Status
 ACCEPTED

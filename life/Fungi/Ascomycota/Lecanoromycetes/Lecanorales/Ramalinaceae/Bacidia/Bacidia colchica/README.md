@@ -1,5 +1,4 @@
-Bacidia colchica Vezda SPECIES
-=======
+# Bacidia colchica Vezda SPECIES
 
 #### Status
 ACCEPTED

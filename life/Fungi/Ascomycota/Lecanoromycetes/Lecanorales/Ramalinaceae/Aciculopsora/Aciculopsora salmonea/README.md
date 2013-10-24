@@ -1,5 +1,4 @@
-Aciculopsora salmonea Aptroot & Trest SPECIES
-=======
+# Aciculopsora salmonea Aptroot & Trest SPECIES
 
 #### Status
 ACCEPTED

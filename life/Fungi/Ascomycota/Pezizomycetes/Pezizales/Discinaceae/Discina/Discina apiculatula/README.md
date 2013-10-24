@@ -1,5 +1,4 @@
-Discina apiculatula McKnight SPECIES
-=======
+# Discina apiculatula McKnight SPECIES
 
 #### Status
 ACCEPTED

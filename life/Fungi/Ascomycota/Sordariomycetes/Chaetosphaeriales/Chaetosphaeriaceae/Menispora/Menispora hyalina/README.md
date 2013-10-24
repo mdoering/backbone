@@ -1,5 +1,4 @@
-Menispora hyalina Cooke & Harkn. SPECIES
-=======
+# Menispora hyalina Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

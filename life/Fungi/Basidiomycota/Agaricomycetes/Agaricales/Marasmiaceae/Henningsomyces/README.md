@@ -1,17 +1,16 @@
-Solenia Persoon, 1794 GENUS
-=======
+# Henningsomyces Kuntze, 1898 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neues Mag. Bot. 1: 116 (1794)
+Revis. gen. pl. (Leipzig) 3(2): 483 (1898)
 
 #### Original name
-Solenia Persoon, 1794
+Henningsomyces Kuntze, 1898
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Gonyaulax diacantha (Meunier) Schiller SPECIES
-=======
+# Gonyaulax verior Sournia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

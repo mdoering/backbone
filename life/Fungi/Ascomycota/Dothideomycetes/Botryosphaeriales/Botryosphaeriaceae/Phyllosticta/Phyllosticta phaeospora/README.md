@@ -1,5 +1,4 @@
-Phyllosticta phaeospora Scalia ex Lopr. {?} SPECIES
-=======
+# Phyllosticta phaeospora Scalia ex Lopr. {?} SPECIES
 
 #### Status
 ACCEPTED

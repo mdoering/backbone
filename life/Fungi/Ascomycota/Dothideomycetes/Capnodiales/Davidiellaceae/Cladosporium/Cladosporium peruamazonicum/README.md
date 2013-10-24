@@ -1,5 +1,4 @@
-Cladosporium peruamazonicum Matsush., 1993 SPECIES
-=======
+# Cladosporium peruamazonicum Matsush., 1993 SPECIES
 
 #### Status
 ACCEPTED

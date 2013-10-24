@@ -1,5 +1,4 @@
-Leptohalysis Loeblich & Tappan, 1984 GENUS
-=======
+# Leptohalysis Loeblich & Tappan, 1984 GENUS
 
 #### Status
 ACCEPTED

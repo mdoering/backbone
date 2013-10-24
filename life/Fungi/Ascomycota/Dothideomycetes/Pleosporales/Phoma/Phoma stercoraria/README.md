@@ -1,5 +1,4 @@
-Phoma stercoraria Peck & G.P. Clinton SPECIES
-=======
+# Phoma stercoraria Peck & G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacopsis prolificans (Müll. Arg.) Triebel & Rambold SPECIES
-=======
+# Phacopsis prolificans (Müll. Arg.) Triebel & Rambold SPECIES
 
 #### Status
 ACCEPTED

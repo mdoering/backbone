@@ -1,5 +1,4 @@
-Coscinocladium Kunze GENUS
-=======
+# Coscinocladium Kunze GENUS
 
 #### Status
 ACCEPTED

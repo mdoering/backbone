@@ -1,5 +1,4 @@
-Diplodia smilacella Nann. SPECIES
-=======
+# Diplodia smilacella Nann. SPECIES
 
 #### Status
 ACCEPTED

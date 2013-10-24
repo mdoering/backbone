@@ -1,5 +1,4 @@
-Phyllosticta cercidicola Ellis & Everh. SPECIES
-=======
+# Phyllosticta cercidicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

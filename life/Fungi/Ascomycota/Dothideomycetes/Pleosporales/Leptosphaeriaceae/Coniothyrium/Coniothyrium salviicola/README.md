@@ -1,5 +1,4 @@
-Coniothyrium salviicola Ellis & Everh. SPECIES
-=======
+# Coniothyrium salviicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

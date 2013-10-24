@@ -1,5 +1,4 @@
-Guepinia varia (Ces.) Lloyd SPECIES
-=======
+# Guepinia varia (Ces.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

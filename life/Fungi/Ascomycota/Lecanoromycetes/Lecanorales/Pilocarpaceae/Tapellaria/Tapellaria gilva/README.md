@@ -1,5 +1,4 @@
-Tapellaria gilva Zahlbr. SPECIES
-=======
+# Tapellaria gilva Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

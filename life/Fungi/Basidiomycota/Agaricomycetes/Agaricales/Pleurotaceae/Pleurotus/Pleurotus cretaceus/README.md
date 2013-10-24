@@ -1,5 +1,4 @@
-Pleurotus cretaceus Massee SPECIES
-=======
+# Pleurotus cretaceus Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium montiae Rostr. SPECIES
-=======
+# Sorosporium montiae Rostr. SPECIES
 
 #### Status
 ACCEPTED

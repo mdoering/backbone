@@ -1,17 +1,16 @@
-Leptodothiorella capparidis R.C. Srivast. SPECIES
-=======
+# Leptodothiorella capparis R.C. Srivast. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mykosen 22(9): 311 (1979)
 
 #### Original name
-Leptodothiorella capparidis R.C. Srivast.
+Leptodothiorella capparis R.C. Srivast.
 
 ### Remarks
 null

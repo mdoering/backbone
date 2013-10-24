@@ -1,5 +1,4 @@
-Cyphelium mammosum Hepp SPECIES
-=======
+# Cyphelium mammosum Hepp SPECIES
 
 #### Status
 ACCEPTED

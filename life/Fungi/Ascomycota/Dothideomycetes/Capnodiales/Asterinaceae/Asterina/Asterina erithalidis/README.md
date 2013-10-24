@@ -1,5 +1,4 @@
-Asterina erithalidis (Ellis & Everh.) Farl. SPECIES
-=======
+# Asterina erithalidis (Ellis & Everh.) Farl. SPECIES
 
 #### Status
 ACCEPTED

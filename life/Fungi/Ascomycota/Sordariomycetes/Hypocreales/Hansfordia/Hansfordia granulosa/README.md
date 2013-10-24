@@ -1,5 +1,4 @@
-Hansfordia granulosa E. Müll. & Nüesch SPECIES
-=======
+# Hansfordia granulosa E. Müll. & Nüesch SPECIES
 
 #### Status
 ACCEPTED

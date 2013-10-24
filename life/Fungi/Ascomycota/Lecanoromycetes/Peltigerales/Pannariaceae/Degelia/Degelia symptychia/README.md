@@ -1,5 +1,4 @@
-Degelia symptychia (Tuck.) P.M. Jørg. SPECIES
-=======
+# Degelia symptychia (Tuck.) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Labyrinthochitinia GENUS
-=======
+# Labyrinthochitinia GENUS
 
 #### Status
 ACCEPTED

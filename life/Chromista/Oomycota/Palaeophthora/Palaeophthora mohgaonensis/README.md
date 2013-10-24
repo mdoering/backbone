@@ -1,5 +1,4 @@
-Palaeophthora mohgaonensis Singhai SPECIES
-=======
+# Palaeophthora mohgaonensis Singhai SPECIES
 
 #### Status
 ACCEPTED

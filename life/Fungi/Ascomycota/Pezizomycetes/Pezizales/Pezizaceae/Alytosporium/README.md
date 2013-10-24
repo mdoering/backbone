@@ -1,5 +1,4 @@
-Alytosporium Link GENUS
-=======
+# Alytosporium Link GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciboriopsis phlebophora (Pat.) Dennis SPECIES
-=======
+# Ciboriopsis phlebophora (Pat.) Dennis SPECIES
 
 #### Status
 ACCEPTED

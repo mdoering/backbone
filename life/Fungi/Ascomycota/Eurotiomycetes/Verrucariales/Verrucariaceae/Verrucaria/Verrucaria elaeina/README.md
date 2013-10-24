@@ -1,17 +1,16 @@
-Verrucaria elaeina var. elaeina VARIETY
-=======
+# Verrucaria elaeina Borrer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Smith & Sowerby, Engl. Bot. 35: tab. 2455, fig. 2 (1812)
 
 #### Original name
-Verrucaria elaeina var. elaeina
+Verrucaria elaeina Borrer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clisosporium bergii (Speg.) Kuntze SPECIES
-=======
+# Clisosporium bergii (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

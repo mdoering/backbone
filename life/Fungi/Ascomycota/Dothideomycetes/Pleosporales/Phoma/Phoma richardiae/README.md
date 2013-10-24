@@ -1,5 +1,4 @@
-Phoma richardiae Mercer, 1913 SPECIES
-=======
+# Phoma richardiae Mercer, 1913 SPECIES
 
 #### Status
 ACCEPTED

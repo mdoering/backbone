@@ -1,5 +1,4 @@
-Gymnodinium chlorophorum ElbrAchter & Schnepf SPECIES
-=======
+# Gymnodinium chlorophorum ElbrAchter & Schnepf SPECIES
 
 #### Status
 ACCEPTED

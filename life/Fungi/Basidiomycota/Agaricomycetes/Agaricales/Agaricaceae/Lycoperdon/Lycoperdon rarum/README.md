@@ -1,5 +1,4 @@
-Lycoperdon rarum Rick SPECIES
-=======
+# Lycoperdon rarum Rick SPECIES
 
 #### Status
 ACCEPTED

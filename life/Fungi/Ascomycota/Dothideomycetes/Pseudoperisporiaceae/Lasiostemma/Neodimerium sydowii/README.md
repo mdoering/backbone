@@ -1,5 +1,4 @@
-Neodimerium sydowii Petr. SPECIES
-=======
+# Neodimerium sydowii Petr. SPECIES
 
 #### Status
 ACCEPTED

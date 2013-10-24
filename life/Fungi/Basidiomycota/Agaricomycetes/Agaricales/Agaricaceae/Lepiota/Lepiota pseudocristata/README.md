@@ -1,5 +1,4 @@
-Lepiota pseudocristata Velen. SPECIES
-=======
+# Lepiota pseudocristata Velen. SPECIES
 
 #### Status
 ACCEPTED

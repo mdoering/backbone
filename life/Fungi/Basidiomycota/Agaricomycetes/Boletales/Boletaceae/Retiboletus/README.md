@@ -1,5 +1,4 @@
-Retiboletus Manfr. Binder & Bresinsky GENUS
-=======
+# Retiboletus Manfr. Binder & Bresinsky GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius fulvoiubatus Gasparini SPECIES
-=======
+# Cortinarius fulvoiubatus Gasparini SPECIES
 
 #### Status
 ACCEPTED

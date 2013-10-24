@@ -1,5 +1,4 @@
-Arnoldia minutula Bornet SPECIES
-=======
+# Arnoldia minutula Bornet SPECIES
 
 #### Status
 ACCEPTED

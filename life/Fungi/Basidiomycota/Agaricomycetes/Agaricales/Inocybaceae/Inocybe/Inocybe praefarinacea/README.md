@@ -1,5 +1,4 @@
-Inocybe praefarinacea (Murrill) Singer SPECIES
-=======
+# Inocybe praefarinacea (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceriosporopsis halima Linder, 1944 SPECIES
-=======
+# Ceriosporopsis halima Linder, 1944 SPECIES
 
 #### Status
 ACCEPTED

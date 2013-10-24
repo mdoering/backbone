@@ -1,5 +1,4 @@
-Psathyrella albocapitata Dennis SPECIES
-=======
+# Psathyrella albocapitata Dennis SPECIES
 
 #### Status
 ACCEPTED

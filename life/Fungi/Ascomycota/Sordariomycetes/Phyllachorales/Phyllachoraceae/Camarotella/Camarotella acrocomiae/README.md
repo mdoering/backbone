@@ -1,17 +1,16 @@
-Phyllachora roystoneae J.R. Johnst. & Bruner, 1918 SPECIES
-=======
+# Camarotella acrocomiae (Mont.) K.D. Hyde & P.F. Cannon, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 10(1): 43 (1918)
+Mycol. Pap. 175: 51 (1999)
 
 #### Original name
-Phyllachora roystoneae J.R. Johnst. & Bruner, 1918
+Dothidea acrocomiae Mont., 1856
 
 ### Remarks
 null

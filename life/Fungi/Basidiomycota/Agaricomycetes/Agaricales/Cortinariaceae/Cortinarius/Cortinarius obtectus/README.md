@@ -1,5 +1,4 @@
-Cortinarius obtectus Peintner, E. Horak, M.M. Moser & Vilgalys SPECIES
-=======
+# Cortinarius obtectus Peintner, E. Horak, M.M. Moser & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

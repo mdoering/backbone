@@ -1,5 +1,4 @@
-Pseudolyophyllum GENUS
-=======
+# Pseudolyophyllum GENUS
 
 #### Status
 ACCEPTED

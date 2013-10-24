@@ -1,17 +1,16 @@
-Bacidia inundata f. inundata FORM
-=======
+# Bacidina inundata (Fr.) Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. lich. germ. (Breslau) 187 (1855)
+null
 
 #### Original name
-Biatora inundata Fr.
+null
 
 ### Remarks
 null

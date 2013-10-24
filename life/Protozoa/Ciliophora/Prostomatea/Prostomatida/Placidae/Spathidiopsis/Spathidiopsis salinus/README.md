@@ -1,5 +1,4 @@
-Spathidiopsis salinus (Dietz, 1964) Corliss, 1979 SPECIES
-=======
+# Spathidiopsis salinus (Dietz, 1964) Corliss, 1979 SPECIES
 
 #### Status
 ACCEPTED

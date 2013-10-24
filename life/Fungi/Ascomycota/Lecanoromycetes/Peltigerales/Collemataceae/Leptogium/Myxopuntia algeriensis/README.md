@@ -1,5 +1,4 @@
-Myxopuntia algeriensis Mont. SPECIES
-=======
+# Myxopuntia algeriensis Mont. SPECIES
 
 #### Status
 ACCEPTED

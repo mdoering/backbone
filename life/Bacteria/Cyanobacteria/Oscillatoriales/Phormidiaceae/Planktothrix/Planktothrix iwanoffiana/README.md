@@ -1,5 +1,4 @@
-Planktothrix iwanoffiana (Nygaard) I. Umezaki & M. Watanabe SPECIES
-=======
+# Planktothrix iwanoffiana (Nygaard) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

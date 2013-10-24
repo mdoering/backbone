@@ -1,5 +1,4 @@
-Pseudocercospora abutilonicola (Chupp) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora abutilonicola (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

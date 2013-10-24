@@ -1,5 +1,4 @@
-Phyllosticta dzumajensis Bubák SPECIES
-=======
+# Phyllosticta dzumajensis Bubák SPECIES
 
 #### Status
 ACCEPTED

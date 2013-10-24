@@ -1,5 +1,4 @@
-Lasiosphaeria miconiae Viégas SPECIES
-=======
+# Lasiosphaeria miconiae Viégas SPECIES
 
 #### Status
 ACCEPTED

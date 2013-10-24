@@ -1,5 +1,4 @@
-Candelariella lavicola B. de Lesd. SPECIES
-=======
+# Candelariella lavicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

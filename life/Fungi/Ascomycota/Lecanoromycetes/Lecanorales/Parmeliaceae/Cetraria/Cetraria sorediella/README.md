@@ -1,5 +1,4 @@
-Cetraria sorediella (Lettau) V.J. Rico SPECIES
-=======
+# Cetraria sorediella (Lettau) V.J. Rico SPECIES
 
 #### Status
 ACCEPTED

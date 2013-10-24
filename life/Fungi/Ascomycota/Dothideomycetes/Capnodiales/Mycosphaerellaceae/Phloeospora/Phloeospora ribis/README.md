@@ -1,5 +1,4 @@
-Phloeospora ribis Westend. SPECIES
-=======
+# Phloeospora ribis Westend. SPECIES
 
 #### Status
 ACCEPTED

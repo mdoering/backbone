@@ -1,5 +1,4 @@
-Lophiostoma zonatum Hazsl. SPECIES
-=======
+# Lophiostoma zonatum Hazsl. SPECIES
 
 #### Status
 ACCEPTED

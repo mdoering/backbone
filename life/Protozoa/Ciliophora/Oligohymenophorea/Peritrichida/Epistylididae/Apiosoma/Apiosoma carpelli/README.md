@@ -1,5 +1,4 @@
-Apiosoma carpelli SPECIES
-=======
+# Apiosoma carpelli SPECIES
 
 #### Status
 ACCEPTED

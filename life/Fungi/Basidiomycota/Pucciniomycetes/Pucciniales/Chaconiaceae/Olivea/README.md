@@ -1,5 +1,4 @@
-Olivea Arthur GENUS
-=======
+# Olivea Arthur GENUS
 
 #### Status
 ACCEPTED

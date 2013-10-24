@@ -1,5 +1,4 @@
-Rhabdostyla thienemanni Nenninger, 1948 SPECIES
-=======
+# Rhabdostyla thienemanni Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

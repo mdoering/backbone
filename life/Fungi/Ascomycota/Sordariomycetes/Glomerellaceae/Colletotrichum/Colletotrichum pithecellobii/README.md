@@ -1,17 +1,16 @@
-Colletotrichum pithecolobii Roldan SPECIES
-=======
+# Colletotrichum pithecellobii Roldan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Philipp. J. Sci. , C, Bot. 60: 120 (1936)
 
 #### Original name
-Colletotrichum pithecolobii Roldan
+Colletotrichum pithecellobii Roldan
 
 ### Remarks
 null

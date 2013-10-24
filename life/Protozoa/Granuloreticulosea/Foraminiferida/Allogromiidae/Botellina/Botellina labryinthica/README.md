@@ -1,5 +1,4 @@
-Botellina labryinthica Brady, 1884 SPECIES
-=======
+# Botellina labryinthica Brady, 1884 SPECIES
 
 #### Status
 ACCEPTED

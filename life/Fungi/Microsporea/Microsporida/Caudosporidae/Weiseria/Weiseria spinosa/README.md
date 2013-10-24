@@ -1,5 +1,4 @@
-Weiseria spinosa Golberg SPECIES
-=======
+# Weiseria spinosa Golberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protobagliettoa obscurata (Servít) Servít SPECIES
-=======
+# Protobagliettoa obscurata (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Stictis confusum Gilenstam, Döring & Wedin SPECIES
-=======
+# Stictis confusa Gilenstam, Döring & Wedin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Wedin, Döring & Gilenstam, Mycol. Res. 110(7): 784 (2006)
 
 #### Original name
-Stictis confusum Gilenstam, Döring & Wedin
+Stictis confusa Gilenstam, Döring & Wedin
 
 ### Remarks
 null

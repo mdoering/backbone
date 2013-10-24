@@ -1,8 +1,7 @@
-Paraurostyla gibba (Müller, 1786) Borror, 1972 SPECIES
-=======
+# Australothrix gibba (Claparède & Lachmann, 1859) Blatterer & Foissner, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

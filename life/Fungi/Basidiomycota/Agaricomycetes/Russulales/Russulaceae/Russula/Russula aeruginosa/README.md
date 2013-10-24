@@ -1,5 +1,4 @@
-Russula aeruginosa Massee SPECIES
-=======
+# Russula aeruginosa Massee SPECIES
 
 #### Status
 ACCEPTED

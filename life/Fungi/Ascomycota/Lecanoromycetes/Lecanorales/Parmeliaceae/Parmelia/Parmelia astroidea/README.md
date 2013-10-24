@@ -1,5 +1,4 @@
-Parmelia astroidea Clemente SPECIES
-=======
+# Parmelia astroidea Clemente SPECIES
 
 #### Status
 ACCEPTED

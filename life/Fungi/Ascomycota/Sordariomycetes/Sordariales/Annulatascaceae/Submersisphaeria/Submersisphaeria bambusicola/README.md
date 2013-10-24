@@ -1,5 +1,4 @@
-Submersisphaeria bambusicola D.Q. Zhou & K.D. Hyde, 2000 SPECIES
-=======
+# Submersisphaeria bambusicola D.Q. Zhou & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

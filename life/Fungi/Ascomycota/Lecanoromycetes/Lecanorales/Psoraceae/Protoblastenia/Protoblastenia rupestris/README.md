@@ -1,17 +1,16 @@
-Lecidea rupestris f. rupestris FORM
-=======
+# Protoblastenia rupestris (Scop.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 15 (1930)
 
 #### Original name
-Lecidea rupestris f. rupestris
+Lichen rupestris Scop.
 
 ### Remarks
 null

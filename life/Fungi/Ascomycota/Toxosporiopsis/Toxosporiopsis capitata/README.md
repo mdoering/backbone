@@ -1,5 +1,4 @@
-Toxosporiopsis capitata B. Sutton & Sellar, 1966 SPECIES
-=======
+# Toxosporiopsis capitata B. Sutton & Sellar, 1966 SPECIES
 
 #### Status
 ACCEPTED

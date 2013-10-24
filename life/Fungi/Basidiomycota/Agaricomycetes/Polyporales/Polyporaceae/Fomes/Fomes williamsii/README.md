@@ -1,5 +1,4 @@
-Fomes williamsii (Murrill) Bres. SPECIES
-=======
+# Fomes williamsii (Murrill) Bres. SPECIES
 
 #### Status
 ACCEPTED

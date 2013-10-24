@@ -1,5 +1,4 @@
-Cantharellus dichotomus Peck SPECIES
-=======
+# Cantharellus dichotomus Peck SPECIES
 
 #### Status
 ACCEPTED

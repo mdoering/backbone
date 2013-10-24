@@ -1,5 +1,4 @@
-Peziza tenerrima Fr. SPECIES
-=======
+# Peziza tenerrima Fr. SPECIES
 
 #### Status
 ACCEPTED

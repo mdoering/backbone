@@ -1,5 +1,4 @@
-Fissurina monospora C. Knight SPECIES
-=======
+# Fissurina monospora C. Knight SPECIES
 
 #### Status
 ACCEPTED

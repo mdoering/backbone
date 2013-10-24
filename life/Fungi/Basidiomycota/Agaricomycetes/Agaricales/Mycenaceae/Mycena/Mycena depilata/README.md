@@ -1,5 +1,4 @@
-Mycena depilata Singer SPECIES
-=======
+# Mycena depilata Singer SPECIES
 
 #### Status
 ACCEPTED

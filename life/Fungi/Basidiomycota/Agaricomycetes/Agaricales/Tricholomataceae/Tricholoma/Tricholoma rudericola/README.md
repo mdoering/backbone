@@ -1,5 +1,4 @@
-Tricholoma rudericola Murrill SPECIES
-=======
+# Tricholoma rudericola Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe pelargonium Kühner, 1955 SPECIES
-=======
+# Inocybe pelargonium Kühner, 1955 SPECIES
 
 #### Status
 ACCEPTED

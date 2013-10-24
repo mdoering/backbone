@@ -1,5 +1,4 @@
-Clavicorona rugosa var. rugosa VARIETY
-=======
+# Clavicorona rugosa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clavicorona rugosa var. rugosa
+Clavicorona rugosa
 
 ### Remarks
 null

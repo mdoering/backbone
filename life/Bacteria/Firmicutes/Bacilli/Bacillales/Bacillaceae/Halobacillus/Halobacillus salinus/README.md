@@ -1,5 +1,4 @@
-Halobacillus salinus Yoon et al., 2003 SPECIES
-=======
+# Halobacillus salinus Yoon et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

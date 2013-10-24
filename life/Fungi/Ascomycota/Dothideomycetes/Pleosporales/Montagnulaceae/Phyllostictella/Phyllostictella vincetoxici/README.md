@@ -1,5 +1,4 @@
-Phyllostictella vincetoxici (Sacc.) Tassi SPECIES
-=======
+# Phyllostictella vincetoxici (Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

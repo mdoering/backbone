@@ -1,5 +1,4 @@
-Spiroloculina antillarum SPECIES
-=======
+# Spiroloculina antillarum SPECIES
 
 #### Status
 ACCEPTED

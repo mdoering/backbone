@@ -1,5 +1,4 @@
-Bacidia caesitia (Nyl.) Jatta SPECIES
-=======
+# Bacidia caesitia (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

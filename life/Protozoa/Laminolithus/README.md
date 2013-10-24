@@ -1,5 +1,4 @@
-Laminolithus B.R.Heimdal, 1980 GENUS
-=======
+# Laminolithus B.R.Heimdal, 1980 GENUS
 
 #### Status
 ACCEPTED

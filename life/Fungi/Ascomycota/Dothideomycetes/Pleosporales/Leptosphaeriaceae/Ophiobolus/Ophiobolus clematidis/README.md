@@ -1,5 +1,4 @@
-Ophiobolus clematidis Pass. SPECIES
-=======
+# Ophiobolus clematidis Pass. SPECIES
 
 #### Status
 ACCEPTED

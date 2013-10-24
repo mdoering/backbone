@@ -1,5 +1,4 @@
-Pholiota badia Petch SPECIES
-=======
+# Pholiota badia Petch SPECIES
 
 #### Status
 ACCEPTED

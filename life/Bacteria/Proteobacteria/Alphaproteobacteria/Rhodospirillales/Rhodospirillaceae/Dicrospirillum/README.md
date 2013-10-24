@@ -1,5 +1,4 @@
-Dicrospirillum GENUS
-=======
+# Dicrospirillum GENUS
 
 #### Status
 ACCEPTED

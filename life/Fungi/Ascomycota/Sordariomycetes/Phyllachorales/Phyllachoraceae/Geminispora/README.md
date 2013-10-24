@@ -1,5 +1,4 @@
-Geminispora Pat. GENUS
-=======
+# Geminispora Pat. GENUS
 
 #### Status
 ACCEPTED

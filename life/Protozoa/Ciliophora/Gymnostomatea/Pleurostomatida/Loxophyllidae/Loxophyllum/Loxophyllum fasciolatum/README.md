@@ -1,5 +1,4 @@
-Loxophyllum fasciolatum Kahl, 1933 SPECIES
-=======
+# Loxophyllum fasciolatum Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

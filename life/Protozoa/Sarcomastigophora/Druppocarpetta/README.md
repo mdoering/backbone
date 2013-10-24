@@ -1,5 +1,4 @@
-Druppocarpetta Haeckel, 1887 GENUS
-=======
+# Druppocarpetta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

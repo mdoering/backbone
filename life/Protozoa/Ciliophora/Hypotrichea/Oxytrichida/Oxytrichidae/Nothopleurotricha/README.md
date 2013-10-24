@@ -1,5 +1,4 @@
-Nothopleurotricha Diesing, 1866 GENUS
-=======
+# Nothopleurotricha Diesing, 1866 GENUS
 
 #### Status
 ACCEPTED

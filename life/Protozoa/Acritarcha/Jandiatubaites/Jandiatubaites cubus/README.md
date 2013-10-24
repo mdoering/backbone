@@ -1,5 +1,4 @@
-Jandiatubaites cubus de Quadros, 1986 SPECIES
-=======
+# Jandiatubaites cubus de Quadros, 1986 SPECIES
 
 #### Status
 ACCEPTED

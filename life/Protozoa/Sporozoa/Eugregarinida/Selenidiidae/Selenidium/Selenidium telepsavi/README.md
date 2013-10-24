@@ -1,5 +1,4 @@
-Selenidium telepsavi Stuart, 1871 SPECIES
-=======
+# Selenidium telepsavi Stuart, 1871 SPECIES
 
 #### Status
 ACCEPTED

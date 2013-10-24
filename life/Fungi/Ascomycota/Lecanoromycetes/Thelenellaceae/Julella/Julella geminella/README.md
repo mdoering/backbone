@@ -1,5 +1,4 @@
-Julella geminella (Trevis.) R. C. Harris SPECIES
-=======
+# Julella geminella (Trevis.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

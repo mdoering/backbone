@@ -1,5 +1,4 @@
-Temerariomyces acutulus B. Sutton, 1993 SPECIES
-=======
+# Temerariomyces acutulus B. Sutton, 1993 SPECIES
 
 #### Status
 ACCEPTED

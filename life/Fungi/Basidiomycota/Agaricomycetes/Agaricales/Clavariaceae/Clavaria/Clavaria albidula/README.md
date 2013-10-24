@@ -1,5 +1,4 @@
-Clavaria albidula Lasch SPECIES
-=======
+# Clavaria albidula Lasch SPECIES
 
 #### Status
 ACCEPTED

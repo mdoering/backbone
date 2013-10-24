@@ -1,5 +1,4 @@
-Lecanora ochraceoalba H. Magn. SPECIES
-=======
+# Lecanora ochraceoalba H. Magn. SPECIES
 
 #### Status
 ACCEPTED

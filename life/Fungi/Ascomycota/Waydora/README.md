@@ -1,5 +1,4 @@
-Waydora B. Sutton GENUS
-=======
+# Waydora B. Sutton GENUS
 
 #### Status
 ACCEPTED

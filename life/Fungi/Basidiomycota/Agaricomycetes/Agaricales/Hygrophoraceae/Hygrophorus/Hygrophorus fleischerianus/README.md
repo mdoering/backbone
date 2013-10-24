@@ -1,5 +1,4 @@
-Hygrophorus fleischerianus Henn. SPECIES
-=======
+# Hygrophorus fleischerianus Henn. SPECIES
 
 #### Status
 ACCEPTED

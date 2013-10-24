@@ -1,5 +1,4 @@
-Spondylocladiopsis cupulicola M.B. Ellis, 1963 SPECIES
-=======
+# Spondylocladiopsis cupulicola M.B. Ellis, 1963 SPECIES
 
 #### Status
 ACCEPTED

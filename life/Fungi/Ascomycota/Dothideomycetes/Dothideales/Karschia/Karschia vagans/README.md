@@ -1,5 +1,4 @@
-Karschia vagans (Müll. Arg.) Rehm SPECIES
-=======
+# Karschia vagans (Müll. Arg.) Rehm SPECIES
 
 #### Status
 ACCEPTED

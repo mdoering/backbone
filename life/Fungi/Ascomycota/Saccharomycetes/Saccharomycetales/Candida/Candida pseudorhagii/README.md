@@ -1,5 +1,4 @@
-Candida pseudorhagii Kurtzman SPECIES
-=======
+# Candida pseudorhagii Kurtzman SPECIES
 
 #### Status
 ACCEPTED

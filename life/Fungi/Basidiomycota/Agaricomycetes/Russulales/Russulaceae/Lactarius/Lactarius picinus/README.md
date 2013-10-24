@@ -1,5 +1,4 @@
-Lactarius picinus var. picinus VARIETY
-=======
+# Lactarius picinus Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 348 (1838)
 
 #### Original name
-Lactarius picinus var. picinus
+Lactarius picinus Cooke
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Vermicularia cataseti Höhn. SPECIES
-=======
+# Vermicularia cataseti Höhn. SPECIES
 
 #### Status
 ACCEPTED

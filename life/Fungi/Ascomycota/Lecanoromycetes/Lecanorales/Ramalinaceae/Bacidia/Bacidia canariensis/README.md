@@ -1,5 +1,4 @@
-Bacidia canariensis Erichsen SPECIES
-=======
+# Bacidia canariensis Erichsen SPECIES
 
 #### Status
 ACCEPTED

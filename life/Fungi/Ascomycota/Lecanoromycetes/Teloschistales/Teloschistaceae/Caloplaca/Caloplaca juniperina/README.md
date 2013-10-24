@@ -1,5 +1,4 @@
-Caloplaca juniperina Tomin SPECIES
-=======
+# Caloplaca juniperina Tomin SPECIES
 
 #### Status
 ACCEPTED

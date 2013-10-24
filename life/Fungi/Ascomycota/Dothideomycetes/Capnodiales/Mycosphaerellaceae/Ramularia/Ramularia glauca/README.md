@@ -1,5 +1,4 @@
-Ramularia glauca Ellis & Everh. SPECIES
-=======
+# Ramularia glauca Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

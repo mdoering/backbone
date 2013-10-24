@@ -1,5 +1,4 @@
-Corbisema media f. reducta (Z. I. Glezer) T. V. Desikachary & P. Prema FORM
-=======
+# Corbisema media SPECIES
 
 #### Status
 ACCEPTED

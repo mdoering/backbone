@@ -1,5 +1,4 @@
-Trypethelium perrotetii Fée SPECIES
-=======
+# Trypethelium perrotetii Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peccania synalliza (Ach.) Forssell SPECIES
-=======
+# Peccania synalliza (Ach.) Forssell SPECIES
 
 #### Status
 ACCEPTED

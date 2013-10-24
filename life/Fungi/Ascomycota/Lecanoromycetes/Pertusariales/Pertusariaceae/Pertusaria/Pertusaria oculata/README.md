@@ -1,14 +1,13 @@
-Parmelia oculata (Dicks.) Fr. SPECIES
-=======
+# Pertusaria oculata (Dicks.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 1: 307 (1871)
 
 #### Original name
 Lichen oculatus Dicks.

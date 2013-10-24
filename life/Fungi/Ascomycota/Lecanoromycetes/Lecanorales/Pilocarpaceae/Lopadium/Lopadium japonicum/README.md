@@ -1,5 +1,4 @@
-Lopadium japonicum Zahlbr. SPECIES
-=======
+# Lopadium japonicum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trochiliopsis opaca Penard, 1922 SPECIES
-=======
+# Trochiliopsis opaca Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

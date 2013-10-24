@@ -1,5 +1,4 @@
-Erineum Persoon, 1822 GENUS
-=======
+# Erineum Persoon, 1822 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vampyrella spirogyrae Cienk. SPECIES
-=======
+# Vampyrella spirogyrae Cienk. SPECIES
 
 #### Status
 ACCEPTED

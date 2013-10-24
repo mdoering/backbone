@@ -1,5 +1,4 @@
-Cryptodiscus anguillosporus L. Holm & K. Holm SPECIES
-=======
+# Cryptodiscus anguillosporus L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia avellanaria Sacc. SPECIES
-=======
+# Botryodiplodia avellanaria Sacc. SPECIES
 
 #### Status
 ACCEPTED

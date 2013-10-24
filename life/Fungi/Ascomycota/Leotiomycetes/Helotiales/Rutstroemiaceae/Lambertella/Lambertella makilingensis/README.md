@@ -1,5 +1,4 @@
-Lambertella makilingensis Dumont SPECIES
-=======
+# Lambertella makilingensis Dumont SPECIES
 
 #### Status
 ACCEPTED

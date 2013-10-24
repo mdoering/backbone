@@ -1,5 +1,4 @@
-Pyrenotrichum splitgerberi Mont. SPECIES
-=======
+# Pyrenotrichum splitgerberi Mont. SPECIES
 
 #### Status
 ACCEPTED

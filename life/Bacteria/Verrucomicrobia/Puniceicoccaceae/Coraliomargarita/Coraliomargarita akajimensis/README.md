@@ -1,5 +1,4 @@
-Coraliomargarita akajimensis Yoon, Yasumoto-Hirose, Katsuta, Sekiguchi, Matsuda, Kasai & Yokota, 2007 SPECIES
-=======
+# Coraliomargarita akajimensis Yoon, Yasumoto-Hirose, Katsuta, Sekiguchi, Matsuda, Kasai & Yokota, 2007 SPECIES
 
 #### Status
 ACCEPTED

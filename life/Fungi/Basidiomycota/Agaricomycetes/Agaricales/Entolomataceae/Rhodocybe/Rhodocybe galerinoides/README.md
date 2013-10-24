@@ -1,5 +1,4 @@
-Rhodocybe galerinoides Singer SPECIES
-=======
+# Rhodocybe galerinoides Singer SPECIES
 
 #### Status
 ACCEPTED

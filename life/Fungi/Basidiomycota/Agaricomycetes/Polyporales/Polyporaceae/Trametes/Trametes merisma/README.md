@@ -1,5 +1,4 @@
-Trametes merisma Peck SPECIES
-=======
+# Trametes merisma Peck SPECIES
 
 #### Status
 ACCEPTED

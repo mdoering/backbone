@@ -1,5 +1,4 @@
-Usnea terricola C.W. Dodge SPECIES
-=======
+# Usnea terricola C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

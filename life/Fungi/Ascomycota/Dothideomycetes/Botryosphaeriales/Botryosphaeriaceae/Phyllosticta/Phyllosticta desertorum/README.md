@@ -1,5 +1,4 @@
-Phyllosticta desertorum Sacc. SPECIES
-=======
+# Phyllosticta desertorum Sacc. SPECIES
 
 #### Status
 ACCEPTED

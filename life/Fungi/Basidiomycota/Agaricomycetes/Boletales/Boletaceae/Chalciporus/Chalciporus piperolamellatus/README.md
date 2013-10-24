@@ -1,5 +1,4 @@
-Chalciporus piperolamellatus L.D. Gómez SPECIES
-=======
+# Chalciporus piperolamellatus L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

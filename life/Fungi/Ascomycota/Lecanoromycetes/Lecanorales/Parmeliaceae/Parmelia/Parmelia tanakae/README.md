@@ -1,5 +1,4 @@
-Parmelia tanakae Asahina SPECIES
-=======
+# Parmelia tanakae Asahina SPECIES
 
 #### Status
 ACCEPTED

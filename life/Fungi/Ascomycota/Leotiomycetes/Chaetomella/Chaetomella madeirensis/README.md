@@ -1,5 +1,4 @@
-Chaetomella madeirensis Torrend SPECIES
-=======
+# Chaetomella madeirensis Torrend SPECIES
 
 #### Status
 ACCEPTED

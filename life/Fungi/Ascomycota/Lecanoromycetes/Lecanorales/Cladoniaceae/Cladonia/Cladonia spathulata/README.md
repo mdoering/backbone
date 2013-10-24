@@ -1,5 +1,4 @@
-Cladonia spathulata Ahti SPECIES
-=======
+# Cladonia spathulata Ahti SPECIES
 
 #### Status
 ACCEPTED

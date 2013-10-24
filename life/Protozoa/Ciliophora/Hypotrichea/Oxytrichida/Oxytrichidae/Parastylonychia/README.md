@@ -1,5 +1,4 @@
-Parastylonychia Dragesco, 1963 GENUS
-=======
+# Parastylonychia Dragesco, 1963 GENUS
 
 #### Status
 ACCEPTED

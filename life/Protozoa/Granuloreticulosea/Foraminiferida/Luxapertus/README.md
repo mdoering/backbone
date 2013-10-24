@@ -1,5 +1,4 @@
-Luxapertus Wu & Wang, 2004 GENUS
-=======
+# Luxapertus Wu & Wang, 2004 GENUS
 
 #### Status
 ACCEPTED

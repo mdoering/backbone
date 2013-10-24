@@ -1,5 +1,4 @@
-Meliola mannii Hosag. SPECIES
-=======
+# Meliola mannii Hosag. SPECIES
 
 #### Status
 ACCEPTED

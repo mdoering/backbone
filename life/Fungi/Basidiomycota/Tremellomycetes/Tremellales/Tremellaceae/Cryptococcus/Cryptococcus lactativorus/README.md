@@ -1,5 +1,4 @@
-Cryptococcus lactativorus Fell & Phaff SPECIES
-=======
+# Cryptococcus lactativorus Fell & Phaff SPECIES
 
 #### Status
 ACCEPTED

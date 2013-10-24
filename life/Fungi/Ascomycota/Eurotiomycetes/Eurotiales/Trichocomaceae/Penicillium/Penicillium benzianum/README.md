@@ -1,5 +1,4 @@
-Penicillium benzianum Sacc. SPECIES
-=======
+# Penicillium benzianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

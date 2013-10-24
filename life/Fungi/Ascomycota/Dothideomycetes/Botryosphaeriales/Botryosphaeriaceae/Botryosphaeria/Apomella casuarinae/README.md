@@ -1,5 +1,4 @@
-Apomella casuarinae Syd. SPECIES
-=======
+# Apomella casuarinae Syd. SPECIES
 
 #### Status
 ACCEPTED

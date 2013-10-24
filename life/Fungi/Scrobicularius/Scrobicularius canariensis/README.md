@@ -1,5 +1,4 @@
-Scrobicularius canariensis Schltdl. SPECIES
-=======
+# Scrobicularius canariensis Schltdl. SPECIES
 
 #### Status
 ACCEPTED

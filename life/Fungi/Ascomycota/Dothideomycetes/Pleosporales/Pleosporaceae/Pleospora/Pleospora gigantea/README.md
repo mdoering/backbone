@@ -1,5 +1,4 @@
-Pleospora gigantea (Mont.) Sacc. SPECIES
-=======
+# Pleospora gigantea (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

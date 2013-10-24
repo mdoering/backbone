@@ -1,5 +1,4 @@
-Agaricus inedulis Heinem. SPECIES
-=======
+# Agaricus inedulis Heinem. SPECIES
 
 #### Status
 ACCEPTED

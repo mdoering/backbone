@@ -1,5 +1,4 @@
-Laboulbenia gracilis Speg. SPECIES
-=======
+# Laboulbenia gracilis Speg. SPECIES
 
 #### Status
 ACCEPTED

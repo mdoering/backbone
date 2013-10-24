@@ -1,5 +1,4 @@
-Macrosporium abruptum Cooke & Ellis SPECIES
-=======
+# Macrosporium abruptum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

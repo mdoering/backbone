@@ -1,5 +1,4 @@
-Ammobacularia Kristan-Tollmann, 1964 GENUS
-=======
+# Ammobacularia Kristan-Tollmann, 1964 GENUS
 
 #### Status
 ACCEPTED

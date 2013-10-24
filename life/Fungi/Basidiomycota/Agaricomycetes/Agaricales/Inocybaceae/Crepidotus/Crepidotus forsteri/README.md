@@ -1,5 +1,4 @@
-Crepidotus forsteri Speg. SPECIES
-=======
+# Crepidotus forsteri Speg. SPECIES
 
 #### Status
 ACCEPTED

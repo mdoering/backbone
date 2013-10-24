@@ -1,5 +1,4 @@
-Sphaeria consobrina Mont. SPECIES
-=======
+# Sphaeria consobrina Mont. SPECIES
 
 #### Status
 ACCEPTED

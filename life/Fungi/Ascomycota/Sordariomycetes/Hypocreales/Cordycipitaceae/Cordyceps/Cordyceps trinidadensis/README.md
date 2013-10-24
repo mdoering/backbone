@@ -1,5 +1,4 @@
-Cordyceps trinidadensis Mains SPECIES
-=======
+# Cordyceps trinidadensis Mains SPECIES
 
 #### Status
 ACCEPTED

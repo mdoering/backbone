@@ -1,5 +1,4 @@
-Fellhanera colchica (Vezda) Llop SPECIES
-=======
+# Fellhanera colchica (Vezda) Llop SPECIES
 
 #### Status
 ACCEPTED

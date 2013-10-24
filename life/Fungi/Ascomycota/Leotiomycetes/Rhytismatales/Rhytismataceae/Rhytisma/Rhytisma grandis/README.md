@@ -1,5 +1,4 @@
-Rhytisma grandis Ettingsh. SPECIES
-=======
+# Rhytisma grandis Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

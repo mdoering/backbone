@@ -1,5 +1,4 @@
-Pannaria rudeta (Ach.) Nyl. SPECIES
-=======
+# Pannaria rudeta (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

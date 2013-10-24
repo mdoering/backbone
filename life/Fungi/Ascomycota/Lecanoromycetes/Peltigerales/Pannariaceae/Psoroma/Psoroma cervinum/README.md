@@ -1,5 +1,4 @@
-Psoroma cervinum (Ach.) Gray SPECIES
-=======
+# Psoroma cervinum (Ach.) Gray SPECIES
 
 #### Status
 ACCEPTED

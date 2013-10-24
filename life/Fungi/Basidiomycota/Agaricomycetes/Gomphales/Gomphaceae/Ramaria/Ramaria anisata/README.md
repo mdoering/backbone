@@ -1,5 +1,4 @@
-Ramaria anisata Schild, 1982 SPECIES
-=======
+# Ramaria anisata Schild, 1982 SPECIES
 
 #### Status
 ACCEPTED

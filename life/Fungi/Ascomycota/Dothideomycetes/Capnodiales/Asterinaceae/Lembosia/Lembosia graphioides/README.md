@@ -1,5 +1,4 @@
-Lembosia graphioides Sacc. & Berl. SPECIES
-=======
+# Lembosia graphioides Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

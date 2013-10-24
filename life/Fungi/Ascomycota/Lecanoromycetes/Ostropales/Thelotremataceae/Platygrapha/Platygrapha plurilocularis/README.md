@@ -1,5 +1,4 @@
-Platygrapha plurilocularis Zahlbr. SPECIES
-=======
+# Platygrapha plurilocularis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

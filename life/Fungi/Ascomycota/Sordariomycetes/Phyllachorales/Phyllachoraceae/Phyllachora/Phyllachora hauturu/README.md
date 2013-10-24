@@ -1,5 +1,4 @@
-Phyllachora hauturu lanceshawii P.R. Johnst. & P.F. Cannon, 2004 INFRASPECIFIC_NAME
-=======
+# Phyllachora hauturu SPECIES
 
 #### Status
 ACCEPTED

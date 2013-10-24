@@ -1,5 +1,4 @@
-Diaporthe batatas Harter & E.C. Field SPECIES
-=======
+# Diaporthe batatas Harter & E.C. Field SPECIES
 
 #### Status
 ACCEPTED

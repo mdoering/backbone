@@ -1,5 +1,4 @@
-Mycosphaerella lageniformis Rehm SPECIES
-=======
+# Mycosphaerella lageniformis Rehm SPECIES
 
 #### Status
 ACCEPTED

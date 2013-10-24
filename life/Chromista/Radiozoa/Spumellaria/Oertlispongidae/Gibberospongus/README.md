@@ -1,5 +1,4 @@
-Gibberospongus Kozur & Mostler, 1996 GENUS
-=======
+# Gibberospongus Kozur & Mostler, 1996 GENUS
 
 #### Status
 ACCEPTED

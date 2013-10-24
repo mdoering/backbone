@@ -1,5 +1,4 @@
-Clathrus flavus L. SPECIES
-=======
+# Clathrus flavus L. SPECIES
 
 #### Status
 ACCEPTED

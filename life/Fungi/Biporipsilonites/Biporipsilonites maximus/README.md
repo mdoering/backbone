@@ -1,5 +1,4 @@
-Biporipsilonites maximus (Z.C. Song & H.C. Luo) Kalgutkar & Janson. SPECIES
-=======
+# Biporipsilonites maximus (Z.C. Song & H.C. Luo) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

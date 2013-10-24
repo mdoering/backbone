@@ -1,5 +1,4 @@
-Collybia nigritiformis (Murrill) Murrill SPECIES
-=======
+# Collybia nigritiformis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

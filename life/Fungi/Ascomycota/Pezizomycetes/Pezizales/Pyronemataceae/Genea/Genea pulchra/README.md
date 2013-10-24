@@ -1,5 +1,4 @@
-Genea pulchra Corda SPECIES
-=======
+# Genea pulchra Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Plagiostoma micromegala (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Plagiostoma micromegalum (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Mem. 7: 112 (1978)
 
 #### Original name
 Diaporthe micromegala Ellis & Everh.

@@ -1,5 +1,4 @@
-Leptosphaeria schneideriana (Rick) Rick SPECIES
-=======
+# Leptosphaeria schneideriana (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

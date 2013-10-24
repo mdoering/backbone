@@ -1,5 +1,4 @@
-Hypsostroma Huhndorf GENUS
-=======
+# Hypsostroma Huhndorf GENUS
 
 #### Status
 ACCEPTED

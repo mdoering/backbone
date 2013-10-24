@@ -1,5 +1,4 @@
-Acanthostigma controversum Rehm SPECIES
-=======
+# Acanthostigma controversum Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma igneum Velen. SPECIES
-=======
+# Hypholoma igneum Velen. SPECIES
 
 #### Status
 ACCEPTED

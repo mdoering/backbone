@@ -1,5 +1,4 @@
-Tintinnopsis acuminatus SPECIES
-=======
+# Tintinnopsis acuminatus SPECIES
 
 #### Status
 ACCEPTED

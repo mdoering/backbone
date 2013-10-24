@@ -1,5 +1,4 @@
-Leccinum chalybaeum Singer SPECIES
-=======
+# Leccinum chalybaeum Singer SPECIES
 
 #### Status
 ACCEPTED

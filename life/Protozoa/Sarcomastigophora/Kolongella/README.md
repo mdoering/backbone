@@ -1,5 +1,4 @@
-Kolongella Zadorozhnyj in Zadorozhnyj & Yuferev, 1984 GENUS
-=======
+# Kolongella Zadorozhnyj in Zadorozhnyj & Yuferev, 1984 GENUS
 
 #### Status
 ACCEPTED

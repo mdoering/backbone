@@ -1,5 +1,4 @@
-Dicaeoma micranthum (Griffiths) Arthur & Fromme SPECIES
-=======
+# Dicaeoma micranthum (Griffiths) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

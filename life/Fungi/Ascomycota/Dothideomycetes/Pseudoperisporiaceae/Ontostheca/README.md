@@ -1,5 +1,4 @@
-Ontostheca GENUS
-=======
+# Ontostheca GENUS
 
 #### Status
 ACCEPTED

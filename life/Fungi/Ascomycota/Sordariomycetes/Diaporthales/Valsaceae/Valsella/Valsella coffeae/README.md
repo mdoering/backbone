@@ -1,5 +1,4 @@
-Valsella coffeae Saccas SPECIES
-=======
+# Valsella coffeae Saccas SPECIES
 
 #### Status
 ACCEPTED

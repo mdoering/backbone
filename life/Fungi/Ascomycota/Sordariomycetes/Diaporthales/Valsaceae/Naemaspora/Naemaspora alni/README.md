@@ -1,5 +1,4 @@
-Naemaspora alni Allesch. SPECIES
-=======
+# Naemaspora alni Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus alboniger Lloyd ex G. Cunn. SPECIES
-=======
+# Polyporus alboniger Lloyd ex G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

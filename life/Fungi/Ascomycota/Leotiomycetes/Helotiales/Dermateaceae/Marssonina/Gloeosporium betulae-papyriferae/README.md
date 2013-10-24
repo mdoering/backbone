@@ -1,5 +1,4 @@
-Gloeosporium betulae-papyriferae Dearn. & Overh. SPECIES
-=======
+# Gloeosporium betulae-papyriferae Dearn. & Overh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arachnochloris agloe (Pascher) Pascher SPECIES
-=======
+# Arachnochloris agloe (Pascher) Pascher SPECIES
 
 #### Status
 ACCEPTED

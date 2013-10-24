@@ -1,5 +1,4 @@
-Lobaria albida Yoshim. SPECIES
-=======
+# Lobaria albida Yoshim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia chlorophaeoides (Vain.) C.W. Dodge SPECIES
-=======
+# Cladonia chlorophaeoides (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

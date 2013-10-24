@@ -1,5 +1,4 @@
-Siphulastrum alpinum Jatta SPECIES
-=======
+# Siphulastrum alpinum Jatta SPECIES
 
 #### Status
 ACCEPTED

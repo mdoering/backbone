@@ -1,5 +1,4 @@
-Peziza languida P. Karst. SPECIES
-=======
+# Peziza languida P. Karst. SPECIES
 
 #### Status
 ACCEPTED

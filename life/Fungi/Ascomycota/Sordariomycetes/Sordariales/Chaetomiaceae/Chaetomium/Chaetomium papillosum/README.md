@@ -1,5 +1,4 @@
-Chaetomium papillosum Cocc. SPECIES
-=======
+# Chaetomium papillosum Cocc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystoderma gruberianum A.H. Sm. SPECIES
-=======
+# Cystoderma gruberianum A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vesiculosphaerina singularis Lopukhin, 1974 SPECIES
-=======
+# Vesiculosphaerina singularis Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

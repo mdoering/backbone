@@ -1,5 +1,4 @@
-Biscogniauxia communapertura Y.M. Ju & J.D. Rogers, 1998 SPECIES
-=======
+# Biscogniauxia communapertura Y.M. Ju & J.D. Rogers, 1998 SPECIES
 
 #### Status
 ACCEPTED

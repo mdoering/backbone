@@ -1,5 +1,4 @@
-Puccinia polii Guyot SPECIES
-=======
+# Puccinia polii Guyot SPECIES
 
 #### Status
 ACCEPTED

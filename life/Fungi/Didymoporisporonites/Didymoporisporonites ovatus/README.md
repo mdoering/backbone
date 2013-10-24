@@ -1,5 +1,4 @@
-Didymoporisporonites ovatus P. Ke & Z.Y. Shi SPECIES
-=======
+# Didymoporisporonites ovatus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

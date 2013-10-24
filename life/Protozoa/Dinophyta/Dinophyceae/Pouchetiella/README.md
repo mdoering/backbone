@@ -1,5 +1,4 @@
-Pouchetiella C.A. Kofoid & O. Swezy, 1921 GENUS
-=======
+# Pouchetiella C.A. Kofoid & O. Swezy, 1921 GENUS
 
 #### Status
 ACCEPTED

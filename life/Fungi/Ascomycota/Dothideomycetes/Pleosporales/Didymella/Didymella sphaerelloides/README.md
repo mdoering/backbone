@@ -1,5 +1,4 @@
-Didymella sphaerelloides Sacc. & P. Syd. SPECIES
-=======
+# Didymella sphaerelloides Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phytophthora lepironiae Sawada SPECIES
-=======
+# Phytophthora lepironiae Sawada SPECIES
 
 #### Status
 ACCEPTED

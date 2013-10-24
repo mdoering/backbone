@@ -1,5 +1,4 @@
-Pesotum introcitrinum (H.P. Upadhyay & W.B. Kendr.) G. Okada & Seifert SPECIES
-=======
+# Pesotum introcitrinum (H.P. Upadhyay & W.B. Kendr.) G. Okada & Seifert SPECIES
 
 #### Status
 ACCEPTED

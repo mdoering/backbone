@@ -1,5 +1,4 @@
-Amanita xylinivolva Tulloss, Ovrebo & Halling SPECIES
-=======
+# Amanita xylinivolva Tulloss, Ovrebo & Halling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum clerodendri Died. SPECIES
-=======
+# Colletotrichum clerodendri Died. SPECIES
 
 #### Status
 ACCEPTED

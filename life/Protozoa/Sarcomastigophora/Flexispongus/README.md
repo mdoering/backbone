@@ -1,5 +1,4 @@
-Flexispongus Lahm, 1984 GENUS
-=======
+# Flexispongus Lahm, 1984 GENUS
 
 #### Status
 ACCEPTED

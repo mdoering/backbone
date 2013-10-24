@@ -1,5 +1,4 @@
-Trichoderma citrinoviride Bissett, 1984 SPECIES
-=======
+# Trichoderma citrinoviride Bissett, 1984 SPECIES
 
 #### Status
 ACCEPTED

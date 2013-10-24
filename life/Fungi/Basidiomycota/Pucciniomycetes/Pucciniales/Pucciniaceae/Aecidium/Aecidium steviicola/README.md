@@ -1,5 +1,4 @@
-Aecidium steviicola Arthur SPECIES
-=======
+# Aecidium steviicola Arthur SPECIES
 
 #### Status
 ACCEPTED

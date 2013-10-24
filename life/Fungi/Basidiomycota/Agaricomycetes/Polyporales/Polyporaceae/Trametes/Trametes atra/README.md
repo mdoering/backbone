@@ -1,5 +1,4 @@
-Trametes atra Pat. SPECIES
-=======
+# Trametes atra Pat. SPECIES
 
 #### Status
 ACCEPTED

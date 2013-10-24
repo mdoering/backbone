@@ -1,5 +1,4 @@
-Meliola brugnierae Syd. SPECIES
-=======
+# Meliola brugnierae Syd. SPECIES
 
 #### Status
 ACCEPTED

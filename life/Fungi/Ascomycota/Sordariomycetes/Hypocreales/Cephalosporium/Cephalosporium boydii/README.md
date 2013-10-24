@@ -1,5 +1,4 @@
-Cephalosporium boydii Shear SPECIES
-=======
+# Cephalosporium boydii Shear SPECIES
 
 #### Status
 ACCEPTED

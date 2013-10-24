@@ -1,5 +1,4 @@
-Menegazzia albida (Zahlbr.) R. Sant. SPECIES
-=======
+# Menegazzia albida (Zahlbr.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula bonii Buyck SPECIES
-=======
+# Russula bonii Buyck SPECIES
 
 #### Status
 ACCEPTED

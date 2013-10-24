@@ -1,5 +1,4 @@
-Pontothrix G.A. Nadson & N.A. Krassilnikov, 1932 GENUS
-=======
+# Pontothrix G.A. Nadson & N.A. Krassilnikov, 1932 GENUS
 
 #### Status
 ACCEPTED

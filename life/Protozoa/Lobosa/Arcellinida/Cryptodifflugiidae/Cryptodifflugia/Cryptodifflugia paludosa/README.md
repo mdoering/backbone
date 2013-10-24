@@ -1,5 +1,4 @@
-Cryptodifflugia paludosa Golemansky, 1981 SPECIES
-=======
+# Cryptodifflugia paludosa Golemansky, 1981 SPECIES
 
 #### Status
 ACCEPTED

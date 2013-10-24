@@ -1,5 +1,4 @@
-Hoegklintia gogginensis Mullins, 2001 SPECIES
-=======
+# Hoegklintia gogginensis Mullins, 2001 SPECIES
 
 #### Status
 ACCEPTED

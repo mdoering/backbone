@@ -1,5 +1,4 @@
-Galerina lignatilis V.L. Wells & Kempton SPECIES
-=======
+# Galerina lignatilis V.L. Wells & Kempton SPECIES
 
 #### Status
 ACCEPTED

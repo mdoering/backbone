@@ -1,5 +1,4 @@
-Psorothecium atrorubricans var. atrorubricans VARIETY
-=======
+# Psorothecium atrorubricans (Nyl.) Yasuda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Psorothecium atrorubricans var. atrorubricans
+null
 
 ### Remarks
 null

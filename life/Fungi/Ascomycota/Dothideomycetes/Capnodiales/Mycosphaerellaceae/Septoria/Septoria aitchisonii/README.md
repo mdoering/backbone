@@ -1,5 +1,4 @@
-Septoria aitchisonii Syd. & P. Syd. SPECIES
-=======
+# Septoria aitchisonii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

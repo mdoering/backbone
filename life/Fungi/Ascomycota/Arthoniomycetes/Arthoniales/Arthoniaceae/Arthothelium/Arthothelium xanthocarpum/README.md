@@ -1,5 +1,4 @@
-Arthothelium xanthocarpum (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthothelium xanthocarpum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

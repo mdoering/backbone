@@ -1,5 +1,4 @@
-Belonium rosarum Velen. SPECIES
-=======
+# Belonium rosarum Velen. SPECIES
 
 #### Status
 ACCEPTED

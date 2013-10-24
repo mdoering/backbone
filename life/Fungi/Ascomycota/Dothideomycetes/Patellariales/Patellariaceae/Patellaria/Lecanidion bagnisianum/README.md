@@ -1,5 +1,4 @@
-Lecanidion bagnisianum Sacc. SPECIES
-=======
+# Lecanidion bagnisianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

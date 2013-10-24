@@ -1,5 +1,4 @@
-Oligostroma mayteni (Henn.) Theiss. & Syd. SPECIES
-=======
+# Oligostroma mayteni (Henn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

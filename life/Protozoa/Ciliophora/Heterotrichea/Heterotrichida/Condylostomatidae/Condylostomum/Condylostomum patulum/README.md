@@ -1,5 +1,4 @@
-Condylostomum patulum SPECIES
-=======
+# Condylostomum patulum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bombyliospora nigeriensis C.W. Dodge SPECIES
-=======
+# Bombyliospora nigeriensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

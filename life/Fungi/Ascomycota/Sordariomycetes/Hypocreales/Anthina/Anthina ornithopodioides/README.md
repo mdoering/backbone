@@ -1,5 +1,4 @@
-Anthina ornithopodioides (Bull.) Fr. SPECIES
-=======
+# Anthina ornithopodioides (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED

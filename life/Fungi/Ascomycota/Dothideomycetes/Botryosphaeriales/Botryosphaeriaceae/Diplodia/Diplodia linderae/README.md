@@ -1,5 +1,4 @@
-Diplodia linderae Ellis & Everh. SPECIES
-=======
+# Diplodia linderae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

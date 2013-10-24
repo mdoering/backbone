@@ -1,5 +1,4 @@
-Polyporus marchionicus Lév. SPECIES
-=======
+# Polyporus marchionicus Lév. SPECIES
 
 #### Status
 ACCEPTED

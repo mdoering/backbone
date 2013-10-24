@@ -1,5 +1,4 @@
-Anthosphaeridium Cookson & Eisenack GENUS
-=======
+# Anthosphaeridium Cookson & Eisenack GENUS
 
 #### Status
 ACCEPTED

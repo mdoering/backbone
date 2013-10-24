@@ -1,5 +1,4 @@
-Phoma radicis-andromedae Ternetz SPECIES
-=======
+# Phoma radicis-andromedae Ternetz SPECIES
 
 #### Status
 ACCEPTED

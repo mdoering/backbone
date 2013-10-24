@@ -1,5 +1,4 @@
-Aspergillus sunderbanii Varshney & A.K. Sarbhoy, 1996 SPECIES
-=======
+# Aspergillus sunderbanii Varshney & A.K. Sarbhoy, 1996 SPECIES
 
 #### Status
 ACCEPTED

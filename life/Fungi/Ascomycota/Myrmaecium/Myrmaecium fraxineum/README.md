@@ -1,5 +1,4 @@
-Myrmaecium fraxineum Ellis & Everh. SPECIES
-=======
+# Myrmaecium fraxineum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

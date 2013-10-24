@@ -1,5 +1,4 @@
-Trichoderma gelatinosum P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma gelatinosum P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

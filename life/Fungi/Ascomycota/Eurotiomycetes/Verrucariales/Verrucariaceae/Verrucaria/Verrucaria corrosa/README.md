@@ -1,5 +1,4 @@
-Verrucaria corrosa Jatta SPECIES
-=======
+# Verrucaria corrosa Jatta SPECIES
 
 #### Status
 ACCEPTED

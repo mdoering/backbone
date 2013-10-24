@@ -1,5 +1,4 @@
-Vizella discontinua Selkirk SPECIES
-=======
+# Vizella discontinua Selkirk SPECIES
 
 #### Status
 ACCEPTED

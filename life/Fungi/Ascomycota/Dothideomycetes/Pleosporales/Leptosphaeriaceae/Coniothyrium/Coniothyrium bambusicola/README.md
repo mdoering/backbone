@@ -1,5 +1,4 @@
-Coniothyrium bambusicola Sawada, 1959 SPECIES
-=======
+# Coniothyrium bambusicola Sawada, 1959 SPECIES
 
 #### Status
 ACCEPTED

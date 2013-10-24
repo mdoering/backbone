@@ -1,5 +1,4 @@
-Sporisorium rhytachnes (Syd.) Vánky SPECIES
-=======
+# Sporisorium rhytachnes (Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

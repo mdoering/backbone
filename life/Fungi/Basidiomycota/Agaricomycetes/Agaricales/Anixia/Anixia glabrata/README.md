@@ -1,5 +1,4 @@
-Anixia glabrata Fr. SPECIES
-=======
+# Anixia glabrata Fr. SPECIES
 
 #### Status
 ACCEPTED

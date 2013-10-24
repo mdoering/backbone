@@ -1,5 +1,4 @@
-Lactarius chichuensis W.F. Chiu SPECIES
-=======
+# Lactarius chichuensis W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

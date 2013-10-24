@@ -1,5 +1,4 @@
-Iyengariella endolithica J.-S. Seeler & S. Golubic SPECIES
-=======
+# Iyengariella endolithica J.-S. Seeler & S. Golubic SPECIES
 
 #### Status
 ACCEPTED

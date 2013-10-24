@@ -1,5 +1,4 @@
-Excipula viburni Fuckel SPECIES
-=======
+# Excipula viburni Fuckel SPECIES
 
 #### Status
 ACCEPTED

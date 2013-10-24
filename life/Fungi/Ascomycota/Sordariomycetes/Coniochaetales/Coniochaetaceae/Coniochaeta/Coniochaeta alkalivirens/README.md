@@ -1,5 +1,4 @@
-Coniochaeta alkalivirens Checa & G. Moreno SPECIES
-=======
+# Coniochaeta alkalivirens Checa & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

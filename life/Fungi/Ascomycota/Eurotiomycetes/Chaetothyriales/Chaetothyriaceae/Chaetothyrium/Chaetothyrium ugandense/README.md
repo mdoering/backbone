@@ -1,5 +1,4 @@
-Chaetothyrium ugandense Hansf. SPECIES
-=======
+# Chaetothyrium ugandense Hansf. SPECIES
 
 #### Status
 ACCEPTED

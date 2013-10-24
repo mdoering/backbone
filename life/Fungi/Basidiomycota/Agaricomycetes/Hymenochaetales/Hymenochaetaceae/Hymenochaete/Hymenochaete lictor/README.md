@@ -1,5 +1,4 @@
-Hymenochaete lictor Petch, 1925 SPECIES
-=======
+# Hymenochaete lictor Petch, 1925 SPECIES
 
 #### Status
 ACCEPTED

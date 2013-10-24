@@ -1,5 +1,4 @@
-Strigula viridissima (Fée) Trevis. SPECIES
-=======
+# Strigula viridissima (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

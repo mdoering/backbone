@@ -1,5 +1,4 @@
-Alysidium aureofulvum (Cooke & Ellis) M.B. Ellis SPECIES
-=======
+# Alysidium aureofulvum (Cooke & Ellis) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

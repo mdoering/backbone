@@ -1,5 +1,4 @@
-Ophryoglena collini Lichtenstein, 1921 SPECIES
-=======
+# Ophryoglena collini Lichtenstein, 1921 SPECIES
 
 #### Status
 ACCEPTED

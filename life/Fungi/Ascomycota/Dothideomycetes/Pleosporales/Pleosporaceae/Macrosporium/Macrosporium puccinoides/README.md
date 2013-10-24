@@ -1,5 +1,4 @@
-Macrosporium puccinoides Ellis & H.W. Anderson SPECIES
-=======
+# Macrosporium puccinoides Ellis & H.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

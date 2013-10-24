@@ -1,5 +1,4 @@
-Lopadium austroindicum D.D. Awasthi & Upreti SPECIES
-=======
+# Lopadium austroindicum D.D. Awasthi & Upreti SPECIES
 
 #### Status
 ACCEPTED

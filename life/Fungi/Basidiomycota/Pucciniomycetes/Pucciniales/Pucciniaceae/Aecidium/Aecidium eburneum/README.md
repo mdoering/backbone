@@ -1,5 +1,4 @@
-Aecidium eburneum McAlpine SPECIES
-=======
+# Aecidium eburneum McAlpine SPECIES
 
 #### Status
 ACCEPTED

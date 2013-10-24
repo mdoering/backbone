@@ -1,5 +1,4 @@
-Acarospora pycnidophora H. Magn. SPECIES
-=======
+# Acarospora pycnidophora H. Magn. SPECIES
 
 #### Status
 ACCEPTED

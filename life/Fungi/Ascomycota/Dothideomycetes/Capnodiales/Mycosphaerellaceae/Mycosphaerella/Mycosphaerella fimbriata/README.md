@@ -1,17 +1,16 @@
-Teratosphaeria fimbriata (Crous & Summerell) Crous & U. Braun, 2007 SPECIES
-=======
+# Mycosphaerella fimbriata Crous & Summerell, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous, Summerell, Carnegie, Mohammed, Himaman & Groenewald, Fungal Diversity 26(1): 166 (2007)
 
 #### Original name
-null
+Mycosphaerella fimbriata Crous & Summerell, 2007
 
 ### Remarks
 null

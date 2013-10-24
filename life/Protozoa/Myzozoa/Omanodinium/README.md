@@ -1,5 +1,4 @@
-Omanodinium M.R.Bradford GENUS
-=======
+# Omanodinium M.R.Bradford GENUS
 
 #### Status
 ACCEPTED

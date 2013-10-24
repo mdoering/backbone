@@ -1,5 +1,4 @@
-Phoma corona (Sowerby) C. Booth SPECIES
-=======
+# Phoma corona (Sowerby) C. Booth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia sobolifera Nyl. SPECIES
-=======
+# Cladonia sobolifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor chlorosporus (Bonord.) Naumov SPECIES
-=======
+# Mucor chlorosporus (Bonord.) Naumov SPECIES
 
 #### Status
 ACCEPTED

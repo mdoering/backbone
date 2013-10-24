@@ -1,5 +1,4 @@
-Hygrocybe albifolia (Hesler & A.H. Sm.) R. Valenz., Guzmán & J. Castillo SPECIES
-=======
+# Hygrocybe albifolia (Hesler & A.H. Sm.) R. Valenz., Guzmán & J. Castillo SPECIES
 
 #### Status
 ACCEPTED

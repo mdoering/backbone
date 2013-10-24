@@ -1,5 +1,4 @@
-Septoria atrosanguinea Bubák & Serebrian. SPECIES
-=======
+# Septoria atrosanguinea Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

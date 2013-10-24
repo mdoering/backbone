@@ -1,5 +1,4 @@
-Macrophoma leucorrhodia Sacc. SPECIES
-=======
+# Macrophoma leucorrhodia Sacc. SPECIES
 
 #### Status
 ACCEPTED

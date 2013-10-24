@@ -1,5 +1,4 @@
-Cytospora ailanthi Berk. & M.A. Curtis SPECIES
-=======
+# Cytospora ailanthi Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

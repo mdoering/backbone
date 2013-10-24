@@ -1,5 +1,4 @@
-Stachylina L. Léger & M. Gauthier GENUS
-=======
+# Stachylina L. Léger & M. Gauthier GENUS
 
 #### Status
 ACCEPTED

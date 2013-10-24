@@ -1,5 +1,4 @@
-Dichomera laburni f. laburni FORM
-=======
+# Dichomera laburni Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dichomera laburni f. laburni
+Dichomera laburni Cooke & Massee
 
 ### Remarks
 null

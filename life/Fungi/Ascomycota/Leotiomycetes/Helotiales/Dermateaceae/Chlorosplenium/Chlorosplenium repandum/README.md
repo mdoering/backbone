@@ -1,5 +1,4 @@
-Chlorosplenium repandum Fr. SPECIES
-=======
+# Chlorosplenium repandum Fr. SPECIES
 
 #### Status
 ACCEPTED

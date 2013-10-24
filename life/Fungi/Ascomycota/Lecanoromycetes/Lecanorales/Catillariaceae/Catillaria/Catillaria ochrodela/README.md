@@ -1,5 +1,4 @@
-Catillaria ochrodela (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria ochrodela (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo pasachoae Berndt SPECIES
-=======
+# Uredo pasachoae Berndt SPECIES
 
 #### Status
 ACCEPTED

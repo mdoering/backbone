@@ -1,5 +1,4 @@
-Dothiorella cisti M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Dothiorella cisti M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

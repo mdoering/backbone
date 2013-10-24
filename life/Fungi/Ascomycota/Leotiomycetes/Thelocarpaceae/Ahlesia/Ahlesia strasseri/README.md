@@ -1,5 +1,4 @@
-Ahlesia strasseri SPECIES
-=======
+# Ahlesia strasseri SPECIES
 
 #### Status
 ACCEPTED

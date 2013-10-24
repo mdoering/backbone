@@ -1,5 +1,4 @@
-Tomato chlorotic SPECIES
-=======
+# Tomato chlorotic SPECIES
 
 #### Status
 ACCEPTED

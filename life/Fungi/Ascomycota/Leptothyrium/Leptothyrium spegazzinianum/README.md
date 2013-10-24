@@ -1,5 +1,4 @@
-Leptothyrium spegazzinianum Sacc. & Traverso SPECIES
-=======
+# Leptothyrium spegazzinianum Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

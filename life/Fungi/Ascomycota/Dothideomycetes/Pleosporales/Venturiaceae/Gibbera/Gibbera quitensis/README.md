@@ -1,5 +1,4 @@
-Gibbera quitensis Petr. SPECIES
-=======
+# Gibbera quitensis Petr. SPECIES
 
 #### Status
 ACCEPTED

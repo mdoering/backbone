@@ -1,5 +1,4 @@
-Pholiota microspora Berk. SPECIES
-=======
+# Pholiota microspora Berk. SPECIES
 
 #### Status
 ACCEPTED

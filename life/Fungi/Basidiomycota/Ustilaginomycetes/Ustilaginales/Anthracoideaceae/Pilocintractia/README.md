@@ -1,5 +1,4 @@
-Pilocintractia Vánky GENUS
-=======
+# Pilocintractia Vánky GENUS
 
 #### Status
 ACCEPTED

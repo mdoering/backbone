@@ -1,5 +1,4 @@
-Diblepharis insignis (Thaxt.) Lagerh. SPECIES
-=======
+# Diblepharis insignis (Thaxt.) Lagerh. SPECIES
 
 #### Status
 ACCEPTED

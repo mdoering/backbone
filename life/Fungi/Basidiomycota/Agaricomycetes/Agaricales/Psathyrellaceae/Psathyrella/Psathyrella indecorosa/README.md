@@ -1,5 +1,4 @@
-Psathyrella indecorosa A.H. Sm. SPECIES
-=======
+# Psathyrella indecorosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

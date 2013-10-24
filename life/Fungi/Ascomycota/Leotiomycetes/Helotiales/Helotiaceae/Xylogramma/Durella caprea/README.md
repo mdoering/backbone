@@ -1,5 +1,4 @@
-Durella caprea Velen. SPECIES
-=======
+# Durella caprea Velen. SPECIES
 
 #### Status
 ACCEPTED

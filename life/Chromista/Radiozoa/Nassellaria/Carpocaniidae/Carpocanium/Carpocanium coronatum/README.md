@@ -1,8 +1,7 @@
-Carpocanistrum coronatum SPECIES
-=======
+# Carpocanium coronatum Ehrenberg, 1858 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

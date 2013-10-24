@@ -1,5 +1,4 @@
-Oidiopsis balsaminae Rajd. SPECIES
-=======
+# Oidiopsis balsaminae Rajd. SPECIES
 
 #### Status
 ACCEPTED

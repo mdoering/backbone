@@ -1,5 +1,4 @@
-Vermicularia cicadina Ellis & Kellerm. SPECIES
-=======
+# Vermicularia cicadina Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

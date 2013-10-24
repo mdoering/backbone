@@ -1,5 +1,4 @@
-Entomophaga diprionis Balazy, 1993 SPECIES
-=======
+# Entomophaga diprionis Balazy, 1993 SPECIES
 
 #### Status
 ACCEPTED

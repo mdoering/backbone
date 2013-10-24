@@ -1,5 +1,4 @@
-Clitocybe glaucoalba (Singer) Singer SPECIES
-=======
+# Clitocybe glaucoalba (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

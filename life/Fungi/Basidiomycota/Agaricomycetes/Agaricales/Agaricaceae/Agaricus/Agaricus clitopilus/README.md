@@ -1,5 +1,4 @@
-Agaricus clitopilus Cooke & W.G. Sm. SPECIES
-=======
+# Agaricus clitopilus Cooke & W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

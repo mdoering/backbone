@@ -1,5 +1,4 @@
-Roseobacter Shiba, 1991 GENUS
-=======
+# Roseobacter Shiba, 1991 GENUS
 
 #### Status
 ACCEPTED

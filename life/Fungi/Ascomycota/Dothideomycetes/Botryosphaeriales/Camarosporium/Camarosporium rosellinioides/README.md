@@ -1,5 +1,4 @@
-Camarosporium rosellinioides Ellis & Everh. SPECIES
-=======
+# Camarosporium rosellinioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

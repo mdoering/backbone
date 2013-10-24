@@ -1,5 +1,4 @@
-Corallinopsis Lagarde GENUS
-=======
+# Corallinopsis Lagarde GENUS
 
 #### Status
 ACCEPTED

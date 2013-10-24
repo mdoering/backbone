@@ -1,5 +1,4 @@
-Calvatia lycoperdoides A.H. Sm. SPECIES
-=======
+# Calvatia lycoperdoides A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

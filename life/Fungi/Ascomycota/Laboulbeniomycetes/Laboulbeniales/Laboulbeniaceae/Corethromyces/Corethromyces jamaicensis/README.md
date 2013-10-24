@@ -1,5 +1,4 @@
-Corethromyces jamaicensis Thaxt. SPECIES
-=======
+# Corethromyces jamaicensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

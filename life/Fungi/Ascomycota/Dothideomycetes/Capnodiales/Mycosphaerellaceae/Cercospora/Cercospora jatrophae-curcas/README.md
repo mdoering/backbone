@@ -1,17 +1,16 @@
-Cercospora jatrophae-curci J.M. Yen SPECIES
-=======
+# Cercospora jatrophae-curcas J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 30: 178 (1965)
 
 #### Original name
-Cercospora jatrophae-curci J.M. Yen
+Cercospora jatrophae-curcas J.M. Yen
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Discorbis cycloclypeus Howchin, W & Parr, W J SPECIES
-=======
+# Discorbis cycloclypeus Howchin, W & Parr, W J SPECIES
 
 #### Status
 ACCEPTED

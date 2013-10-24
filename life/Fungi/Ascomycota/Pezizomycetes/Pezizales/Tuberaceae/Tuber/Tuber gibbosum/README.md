@@ -1,5 +1,4 @@
-Tuber gibbosum Harkn. SPECIES
-=======
+# Tuber gibbosum Harkn. SPECIES
 
 #### Status
 ACCEPTED

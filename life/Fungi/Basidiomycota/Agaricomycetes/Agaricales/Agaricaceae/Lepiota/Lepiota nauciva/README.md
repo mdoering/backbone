@@ -1,5 +1,4 @@
-Lepiota nauciva Ces. SPECIES
-=======
+# Lepiota nauciva Ces. SPECIES
 
 #### Status
 ACCEPTED

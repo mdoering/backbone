@@ -1,5 +1,4 @@
-Spheconisca semnospora Norman ex Bachm. SPECIES
-=======
+# Spheconisca semnospora Norman ex Bachm. SPECIES
 
 #### Status
 ACCEPTED

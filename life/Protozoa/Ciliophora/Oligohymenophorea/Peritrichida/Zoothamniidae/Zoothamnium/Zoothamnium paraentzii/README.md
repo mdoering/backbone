@@ -1,5 +1,4 @@
-Zoothamnium paraentzii Song, 1991 SPECIES
-=======
+# Zoothamnium paraentzii Song, 1991 SPECIES
 
 #### Status
 ACCEPTED

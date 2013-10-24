@@ -1,5 +1,4 @@
-Semihololithus priscus Perch-Nielsen, 1973 SPECIES
-=======
+# Semihololithus priscus Perch-Nielsen, 1973 SPECIES
 
 #### Status
 ACCEPTED

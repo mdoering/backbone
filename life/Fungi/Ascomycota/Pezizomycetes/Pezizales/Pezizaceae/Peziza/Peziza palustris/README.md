@@ -1,5 +1,4 @@
-Peziza palustris Saut., 1866 SPECIES
-=======
+# Peziza palustris Saut., 1866 SPECIES
 
 #### Status
 ACCEPTED

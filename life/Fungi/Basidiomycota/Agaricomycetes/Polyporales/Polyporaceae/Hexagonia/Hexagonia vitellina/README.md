@@ -1,5 +1,4 @@
-Hexagonia vitellina Ces. SPECIES
-=======
+# Hexagonia vitellina Ces. SPECIES
 
 #### Status
 ACCEPTED

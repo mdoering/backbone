@@ -1,14 +1,13 @@
-Phragmidium formosanum Hirats. f., 1935 SPECIES
-=======
+# Phragmotelium formosanum (Hirats.) Thirum., 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Indian Acad. Sci. , Sect. B 15: 187 (1942)
 
 #### Original name
 Phragmidium formosanum Hirats. f., 1935

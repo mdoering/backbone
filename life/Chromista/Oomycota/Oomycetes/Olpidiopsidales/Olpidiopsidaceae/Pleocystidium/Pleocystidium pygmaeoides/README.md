@@ -1,17 +1,16 @@
-Lagenidium pygmaeum var. pygmaeodies Karling VARIETY
-=======
+# Pleocystidium pygmaeoides (Karling) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Straminipilous Fungi (Dordrecht) 346 (2001)
 
 #### Original name
-Lagenidium pygmaeum var. pygmaeodies Karling
+Lagenidium pygmaeum var. pygmaeoides Karling, 1981
 
 ### Remarks
 null

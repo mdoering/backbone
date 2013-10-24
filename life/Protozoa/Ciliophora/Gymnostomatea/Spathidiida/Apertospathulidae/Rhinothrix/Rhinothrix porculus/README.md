@@ -1,5 +1,4 @@
-Rhinothrix porculus (Penard, 1922) Foissner, Xu & Kreutz, 2005 SPECIES
-=======
+# Rhinothrix porculus (Penard, 1922) Foissner, Xu & Kreutz, 2005 SPECIES
 
 #### Status
 ACCEPTED

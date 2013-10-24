@@ -1,5 +1,4 @@
-Paradiscophrya Jankowski, 1981 GENUS
-=======
+# Paradiscophrya Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

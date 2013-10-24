@@ -1,14 +1,13 @@
-Phillipsia dochmia (Berk. & M.A. Curtis) Seaver, 1928 SPECIES
-=======
+# Aurophora dochmia (Berk. & M.A. Curtis) Rifai, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-North American Cup-fungi (New York), (Operculates) 184 (1928)
+Verh. K. Akad. Wet. , tweede sect. 57(3): 52 (1968)
 
 #### Original name
 Peziza dochmia Berk. & M.A. Curtis, 1868

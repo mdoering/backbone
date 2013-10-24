@@ -1,8 +1,7 @@
-Strongyleuma körberi Nádv. SPECIES
-=======
+# Strongyleuma koerberi Nádv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Strongyleuma körberi Nádv.
+Strongyleuma koerberi Nádv.
 
 ### Remarks
 null

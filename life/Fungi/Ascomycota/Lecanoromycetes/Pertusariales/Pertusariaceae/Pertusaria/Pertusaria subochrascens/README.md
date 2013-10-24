@@ -1,5 +1,4 @@
-Pertusaria subochrascens Riehm. SPECIES
-=======
+# Pertusaria subochrascens Riehm. SPECIES
 
 #### Status
 ACCEPTED

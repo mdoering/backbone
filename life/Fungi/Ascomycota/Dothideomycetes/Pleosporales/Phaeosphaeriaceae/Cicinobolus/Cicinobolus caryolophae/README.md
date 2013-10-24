@@ -1,17 +1,16 @@
-Cicinnobolus caryolophae Losa SPECIES
-=======
+# Cicinobolus caryolophae Losa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+An. Jard. bot. Madr. 4: 207 (1944)
 
 #### Original name
-Cicinnobolus caryolophae Losa
+Cicinobolus caryolophae Losa
 
 ### Remarks
 null

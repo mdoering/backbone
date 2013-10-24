@@ -1,5 +1,4 @@
-Inocybe numerosigibba Takah. Kobay. SPECIES
-=======
+# Inocybe numerosigibba Takah. Kobay. SPECIES
 
 #### Status
 ACCEPTED

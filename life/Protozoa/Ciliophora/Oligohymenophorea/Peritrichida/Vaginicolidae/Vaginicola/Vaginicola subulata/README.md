@@ -1,5 +1,4 @@
-Vaginicola subulata Dujardin, 1841 SPECIES
-=======
+# Vaginicola subulata Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

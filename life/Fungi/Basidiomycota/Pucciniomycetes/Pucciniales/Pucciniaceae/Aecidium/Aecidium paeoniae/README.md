@@ -1,5 +1,4 @@
-Aecidium paeoniae Wallr. SPECIES
-=======
+# Aecidium paeoniae Wallr. SPECIES
 
 #### Status
 ACCEPTED

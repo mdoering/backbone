@@ -1,5 +1,4 @@
-Exosporium henningsianum Sacc. SPECIES
-=======
+# Exosporium henningsianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

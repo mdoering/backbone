@@ -1,5 +1,4 @@
-Balansia volkensii (Henn.) Castell. & Cif. SPECIES
-=======
+# Balansia volkensii (Henn.) Castell. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aregma triarticulatum Berk. & M.A. Curtis SPECIES
-=======
+# Aregma triarticulatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

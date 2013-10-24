@@ -1,5 +1,4 @@
-Thiomonas cuprina Moreira & Amils, 1997 SPECIES
-=======
+# Thiomonas cuprina Moreira & Amils, 1997 SPECIES
 
 #### Status
 ACCEPTED

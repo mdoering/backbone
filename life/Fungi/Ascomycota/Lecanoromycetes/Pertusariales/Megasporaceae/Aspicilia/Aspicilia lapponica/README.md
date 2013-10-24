@@ -1,5 +1,4 @@
-Aspicilia lapponica Hue SPECIES
-=======
+# Aspicilia lapponica Hue SPECIES
 
 #### Status
 ACCEPTED

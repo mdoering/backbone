@@ -1,5 +1,4 @@
-Puccinia alternans f. sp FORM
-=======
+# Puccinia alternans Arthur SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 1(6): 248 (1910)
 
 #### Original name
-Puccinia alternans f. sp
+Puccinia alternans Arthur
 
 ### Remarks
 null

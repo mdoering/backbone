@@ -1,5 +1,4 @@
-Phaeoseptoria longispora (Bondartsev) Vasyag. SPECIES
-=======
+# Phaeoseptoria longispora (Bondartsev) Vasyag. SPECIES
 
 #### Status
 ACCEPTED

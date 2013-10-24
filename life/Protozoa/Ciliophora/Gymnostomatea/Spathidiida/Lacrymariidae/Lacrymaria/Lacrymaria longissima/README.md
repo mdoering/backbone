@@ -1,5 +1,4 @@
-Lacrymaria longissima Dragesco, 1966 SPECIES
-=======
+# Lacrymaria longissima Dragesco, 1966 SPECIES
 
 #### Status
 ACCEPTED

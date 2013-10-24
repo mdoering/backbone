@@ -1,5 +1,4 @@
-Chroococcidiopsis bourrellyana P. Compère SPECIES
-=======
+# Chroococcidiopsis bourrellyana P. Compère SPECIES
 
 #### Status
 ACCEPTED

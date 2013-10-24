@@ -1,5 +1,4 @@
-Rhizocarpon atrovirellum (Nyl.) Zahlbr. SPECIES
-=======
+# Rhizocarpon atrovirellum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

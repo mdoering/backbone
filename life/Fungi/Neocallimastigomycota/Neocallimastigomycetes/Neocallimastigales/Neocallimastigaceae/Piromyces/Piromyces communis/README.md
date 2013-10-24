@@ -1,5 +1,4 @@
-Piromyces communis J.J. Gold, I.B. Heath & Bauchop, 1988 SPECIES
-=======
+# Piromyces communis J.J. Gold, I.B. Heath & Bauchop, 1988 SPECIES
 
 #### Status
 ACCEPTED

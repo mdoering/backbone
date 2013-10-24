@@ -1,5 +1,4 @@
-Lecanora ossiseda SPECIES
-=======
+# Lecanora ossiseda SPECIES
 
 #### Status
 ACCEPTED

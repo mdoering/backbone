@@ -1,5 +1,4 @@
-Hypocopra dakotensis Griffiths SPECIES
-=======
+# Hypocopra dakotensis Griffiths SPECIES
 
 #### Status
 ACCEPTED

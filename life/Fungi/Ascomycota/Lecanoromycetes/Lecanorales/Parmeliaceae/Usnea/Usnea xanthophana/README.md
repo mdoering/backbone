@@ -1,5 +1,4 @@
-Usnea xanthophana Stirt. SPECIES
-=======
+# Usnea xanthophana Stirt. SPECIES
 
 #### Status
 ACCEPTED

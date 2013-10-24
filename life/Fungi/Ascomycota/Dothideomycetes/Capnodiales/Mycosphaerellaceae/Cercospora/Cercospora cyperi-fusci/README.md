@@ -1,5 +1,4 @@
-Cercospora cyperi-fusci Sandu SPECIES
-=======
+# Cercospora cyperi-fusci Sandu SPECIES
 
 #### Status
 ACCEPTED

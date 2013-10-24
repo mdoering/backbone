@@ -1,5 +1,4 @@
-Asteridiella stigmaphylli (Petr.) Hansf. SPECIES
-=======
+# Asteridiella stigmaphylli (Petr.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporopodium leucoxanthum SPECIES
-=======
+# Sporopodium leucoxanthum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinophysis granii Paulsen, 1949 SPECIES
-=======
+# Dinophysis granii Paulsen, 1949 SPECIES
 
 #### Status
 ACCEPTED

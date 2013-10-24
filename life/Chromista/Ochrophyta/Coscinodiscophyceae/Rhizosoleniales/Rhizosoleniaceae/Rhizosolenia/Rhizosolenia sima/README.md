@@ -1,5 +1,4 @@
-Rhizosolenia sima f. silicea Sundström, 1986 FORM
-=======
+# Rhizosolenia sima Castracane, 1886 SPECIES
 
 #### Status
 ACCEPTED

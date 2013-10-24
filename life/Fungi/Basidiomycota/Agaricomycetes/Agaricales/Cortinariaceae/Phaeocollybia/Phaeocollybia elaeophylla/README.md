@@ -1,5 +1,4 @@
-Phaeocollybia elaeophylla Singer SPECIES
-=======
+# Phaeocollybia elaeophylla Singer SPECIES
 
 #### Status
 ACCEPTED

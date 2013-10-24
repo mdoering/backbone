@@ -1,5 +1,4 @@
-Trichodesmium thiebautii Gomont SPECIES
-=======
+# Trichodesmium thiebautii Gomont SPECIES
 
 #### Status
 ACCEPTED

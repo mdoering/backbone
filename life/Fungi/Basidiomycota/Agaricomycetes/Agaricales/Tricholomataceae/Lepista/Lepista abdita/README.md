@@ -1,5 +1,4 @@
-Lepista abdita Dörfelt SPECIES
-=======
+# Lepista abdita Dörfelt SPECIES
 
 #### Status
 ACCEPTED

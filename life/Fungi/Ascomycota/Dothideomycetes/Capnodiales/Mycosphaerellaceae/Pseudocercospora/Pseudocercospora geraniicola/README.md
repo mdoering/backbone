@@ -1,5 +1,4 @@
-Pseudocercospora geraniicola U. Braun SPECIES
-=======
+# Pseudocercospora geraniicola U. Braun SPECIES
 
 #### Status
 ACCEPTED

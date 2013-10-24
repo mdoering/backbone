@@ -1,5 +1,4 @@
-Chrysoporthe doradensis Gryzenh. & M.J. Wingf., 2005 SPECIES
-=======
+# Chrysoporthe doradensis Gryzenh. & M.J. Wingf., 2005 SPECIES
 
 #### Status
 ACCEPTED

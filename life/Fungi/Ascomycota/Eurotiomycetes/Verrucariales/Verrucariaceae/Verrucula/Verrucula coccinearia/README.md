@@ -1,5 +1,4 @@
-Verrucula coccinearia (Zehetl.) Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucula coccinearia (Zehetl.) Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

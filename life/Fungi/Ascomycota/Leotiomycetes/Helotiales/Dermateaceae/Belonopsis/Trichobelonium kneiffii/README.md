@@ -1,17 +1,16 @@
-Helotium retincola (Rabenh.) Rabenh., 1865 SPECIES
-=======
+# Trichobelonium kneiffii (Wallr.) J. Schröt., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kalchbrenner, Ann. Mag. nat. Hist. , Ser. 3 238 (1865)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(12): 103 (1893)
 
 #### Original name
-Helotium retincola (Rabenh.) Rabenh., 1865
+null
 
 ### Remarks
 null

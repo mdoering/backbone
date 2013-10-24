@@ -1,5 +1,4 @@
-Caloplaca ahtii Søchting SPECIES
-=======
+# Caloplaca ahtii Søchting SPECIES
 
 #### Status
 ACCEPTED

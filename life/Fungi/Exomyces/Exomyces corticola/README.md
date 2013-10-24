@@ -1,5 +1,4 @@
-Exomyces corticola P. Karst. SPECIES
-=======
+# Exomyces corticola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

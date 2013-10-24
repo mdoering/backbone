@@ -1,5 +1,4 @@
-Puccinia immaculata Juel SPECIES
-=======
+# Puccinia immaculata Juel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora castanoplaca Nyl. SPECIES
-=======
+# Lecanora castanoplaca Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomeliola collapsa Earle SPECIES
-=======
+# Pseudomeliola collapsa Earle SPECIES
 
 #### Status
 ACCEPTED

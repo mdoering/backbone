@@ -1,5 +1,4 @@
-Cingodifflugia Haman, 1988 GENUS
-=======
+# Cingodifflugia Haman, 1988 GENUS
 
 #### Status
 ACCEPTED

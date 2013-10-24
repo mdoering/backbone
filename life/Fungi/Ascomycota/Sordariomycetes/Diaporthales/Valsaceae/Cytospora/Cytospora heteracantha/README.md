@@ -1,5 +1,4 @@
-Cytospora heteracantha Sacc. SPECIES
-=======
+# Cytospora heteracantha Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciferrina Petr. GENUS
-=======
+# Ciferrina Petr. GENUS
 
 #### Status
 ACCEPTED

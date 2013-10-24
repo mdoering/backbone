@@ -1,5 +1,4 @@
-Solenophrya bulbacea SPECIES
-=======
+# Solenophrya bulbacea SPECIES
 
 #### Status
 ACCEPTED

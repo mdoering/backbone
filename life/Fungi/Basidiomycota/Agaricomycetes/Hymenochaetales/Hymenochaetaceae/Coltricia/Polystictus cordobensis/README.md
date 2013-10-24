@@ -1,5 +1,4 @@
-Polystictus cordobensis Speg. SPECIES
-=======
+# Polystictus cordobensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrocerus ammonis Corda SPECIES
-=======
+# Gyrocerus ammonis Corda SPECIES
 
 #### Status
 ACCEPTED

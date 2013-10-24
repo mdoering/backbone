@@ -1,5 +1,4 @@
-Coleroa coffeicola Saccas SPECIES
-=======
+# Coleroa coffeicola Saccas SPECIES
 
 #### Status
 ACCEPTED

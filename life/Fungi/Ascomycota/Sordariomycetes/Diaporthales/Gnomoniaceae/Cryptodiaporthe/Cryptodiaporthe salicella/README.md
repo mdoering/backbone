@@ -1,17 +1,16 @@
-Plagiostoma salicellum (Fr.) Sogonov, 2008 SPECIES
-=======
+# Cryptodiaporthe salicella (Fr.) Petr., 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 19(3/4): 182 (1921)
 
 #### Original name
-null
+Sphaeria salicella Fr., 1823
 
 ### Remarks
 null

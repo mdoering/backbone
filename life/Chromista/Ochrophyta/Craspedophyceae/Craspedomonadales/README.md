@@ -1,5 +1,4 @@
-Craspedomonadales ORDER
-=======
+# Craspedomonadales ORDER
 
 #### Status
 ACCEPTED

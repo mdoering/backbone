@@ -1,5 +1,4 @@
-Teloschistes polymorphus (Zanfr.) C.W. Dodge SPECIES
-=======
+# Teloschistes polymorphus (Zanfr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

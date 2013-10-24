@@ -1,5 +1,4 @@
-Chaetospermum gossypinum (G.F. Atk.) Nag Raj SPECIES
-=======
+# Chaetospermum gossypinum (G.F. Atk.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

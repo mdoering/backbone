@@ -1,5 +1,4 @@
-Pseudomonas guezennei Simon-Colin, Alain, Colin, Cozien, Costa, Guezennec & Raguenes, 2008 SPECIES
-=======
+# Pseudomonas guezennei Simon-Colin, Alain, Colin, Cozien, Costa, Guezennec & Raguenes, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterocapsa fujianica Liang SPECIES
-=======
+# Asterocapsa fujianica Liang SPECIES
 
 #### Status
 ACCEPTED

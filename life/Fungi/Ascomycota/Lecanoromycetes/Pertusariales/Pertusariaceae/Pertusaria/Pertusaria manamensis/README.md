@@ -1,5 +1,4 @@
-Pertusaria manamensis A.W. Archer & Elix SPECIES
-=======
+# Pertusaria manamensis A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

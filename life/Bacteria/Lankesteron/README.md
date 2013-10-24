@@ -1,5 +1,4 @@
-Lankesteron GENUS
-=======
+# Lankesteron GENUS
 
 #### Status
 ACCEPTED

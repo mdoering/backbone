@@ -1,5 +1,4 @@
-Trivalvadinium M.A. Islam, 1983 GENUS
-=======
+# Trivalvadinium M.A. Islam, 1983 GENUS
 
 #### Status
 ACCEPTED

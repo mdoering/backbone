@@ -1,5 +1,4 @@
-Lactifluus corrugis (Peck) Kuntze SPECIES
-=======
+# Lactifluus corrugis (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria anthelmintica (Cooke) Dearn. SPECIES
-=======
+# Metasphaeria anthelmintica (Cooke) Dearn. SPECIES
 
 #### Status
 ACCEPTED

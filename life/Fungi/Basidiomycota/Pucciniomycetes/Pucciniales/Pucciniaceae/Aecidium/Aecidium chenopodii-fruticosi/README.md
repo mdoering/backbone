@@ -1,5 +1,4 @@
-Aecidium chenopodii-fruticosi DC. SPECIES
-=======
+# Aecidium chenopodii-fruticosi DC. SPECIES
 
 #### Status
 ACCEPTED

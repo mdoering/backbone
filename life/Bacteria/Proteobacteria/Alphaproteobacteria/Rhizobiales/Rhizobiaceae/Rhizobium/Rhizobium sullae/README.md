@@ -1,5 +1,4 @@
-Rhizobium sullae Squartini et al., 2002 SPECIES
-=======
+# Rhizobium sullae Squartini et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

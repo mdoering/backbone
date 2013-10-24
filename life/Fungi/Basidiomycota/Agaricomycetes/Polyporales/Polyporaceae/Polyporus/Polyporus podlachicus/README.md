@@ -1,5 +1,4 @@
-Polyporus podlachicus Bres. SPECIES
-=======
+# Polyporus podlachicus Bres. SPECIES
 
 #### Status
 ACCEPTED

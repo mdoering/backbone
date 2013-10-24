@@ -1,5 +1,4 @@
-Ceratolithus armatus Muller, 1974 SPECIES
-=======
+# Ceratolithus armatus Muller, 1974 SPECIES
 
 #### Status
 ACCEPTED

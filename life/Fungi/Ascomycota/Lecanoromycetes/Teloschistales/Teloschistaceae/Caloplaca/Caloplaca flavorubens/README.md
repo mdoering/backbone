@@ -1,5 +1,4 @@
-Caloplaca flavorubens (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca flavorubens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

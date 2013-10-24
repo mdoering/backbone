@@ -1,17 +1,16 @@
-Cercospora lensii N.D. Sharma, R.P. Mishra & A.C. Jain SPECIES
-=======
+# Cercospora lentis N.D. Sharma, R.P. Mishra & A.C. Jain SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 47(20): 775 (1978)
 
 #### Original name
-Cercospora lensii N.D. Sharma, R.P. Mishra & A.C. Jain
+Cercospora lentis N.D. Sharma, R.P. Mishra & A.C. Jain
 
 ### Remarks
 null

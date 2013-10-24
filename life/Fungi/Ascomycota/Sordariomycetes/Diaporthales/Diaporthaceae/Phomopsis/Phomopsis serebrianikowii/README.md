@@ -1,5 +1,4 @@
-Phomopsis serebrianikowii (Bubák) Höhn. SPECIES
-=======
+# Phomopsis serebrianikowii (Bubák) Höhn. SPECIES
 
 #### Status
 ACCEPTED

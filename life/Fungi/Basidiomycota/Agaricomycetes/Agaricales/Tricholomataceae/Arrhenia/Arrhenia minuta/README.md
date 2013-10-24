@@ -1,5 +1,4 @@
-Arrhenia minuta Petch SPECIES
-=======
+# Arrhenia minuta Petch SPECIES
 
 #### Status
 ACCEPTED

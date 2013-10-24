@@ -1,14 +1,13 @@
-Dicaeoma schileanum (Speg.) Kuntze, 1898 SPECIES
-=======
+# Puccinia schileana Speg., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 470 (1898)
+Fungi argentini 2: 12 (1880)
 
 #### Original name
 Puccinia schileana Speg., 1880

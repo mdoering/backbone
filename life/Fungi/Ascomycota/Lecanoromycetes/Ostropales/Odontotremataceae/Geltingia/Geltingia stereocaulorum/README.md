@@ -1,5 +1,4 @@
-Geltingia stereocaulorum Alstrup & D. Hawksw. SPECIES
-=======
+# Geltingia stereocaulorum Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

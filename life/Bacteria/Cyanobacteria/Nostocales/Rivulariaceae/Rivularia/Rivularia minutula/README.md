@@ -1,5 +1,4 @@
-Rivularia minutula (Kützing) Bornet & Flahault SPECIES
-=======
+# Rivularia minutula (Kützing) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

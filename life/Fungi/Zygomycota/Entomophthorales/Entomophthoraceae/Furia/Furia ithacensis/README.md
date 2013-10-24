@@ -1,5 +1,4 @@
-Furia ithacensis (J.P. Kramer) Humber, 1989 SPECIES
-=======
+# Furia ithacensis (J.P. Kramer) Humber, 1989 SPECIES
 
 #### Status
 ACCEPTED

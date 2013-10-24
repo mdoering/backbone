@@ -1,5 +1,4 @@
-Anaptychia desertorum (Rupr.) Poelt SPECIES
-=======
+# Anaptychia desertorum (Rupr.) Poelt SPECIES
 
 #### Status
 ACCEPTED

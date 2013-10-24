@@ -1,5 +1,4 @@
-Collema luzonense Räsänen SPECIES
-=======
+# Collema luzonense Räsänen SPECIES
 
 #### Status
 ACCEPTED

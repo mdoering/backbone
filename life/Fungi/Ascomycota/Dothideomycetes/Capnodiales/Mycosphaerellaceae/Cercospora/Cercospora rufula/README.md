@@ -1,5 +1,4 @@
-Cercospora rufula Syd. SPECIES
-=======
+# Cercospora rufula Syd. SPECIES
 
 #### Status
 ACCEPTED

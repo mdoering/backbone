@@ -1,5 +1,4 @@
-Poritextularia Loeblich & Tappan, 1952 GENUS
-=======
+# Poritextularia Loeblich & Tappan, 1952 GENUS
 
 #### Status
 ACCEPTED

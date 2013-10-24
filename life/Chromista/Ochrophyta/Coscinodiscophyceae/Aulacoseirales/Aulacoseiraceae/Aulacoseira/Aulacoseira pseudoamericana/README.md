@@ -1,5 +1,4 @@
-Aulacoseira pseudoamericana Oresjon (Jck) SPECIES
-=======
+# Aulacoseira pseudoamericana Oresjon (Jck) SPECIES
 
 #### Status
 ACCEPTED

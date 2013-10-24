@@ -1,5 +1,4 @@
-Prospodium tecomicola (Speg.) H.S. Jacks. & Holw. SPECIES
-=======
+# Prospodium tecomicola (Speg.) H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

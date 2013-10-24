@@ -1,5 +1,4 @@
-Arthopyrenia consequens (Nyl.) Arnold SPECIES
-=======
+# Arthopyrenia consequens (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

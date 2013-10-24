@@ -1,5 +1,4 @@
-Septoria geophilae Marchal & Steyaert SPECIES
-=======
+# Septoria geophilae Marchal & Steyaert SPECIES
 
 #### Status
 ACCEPTED

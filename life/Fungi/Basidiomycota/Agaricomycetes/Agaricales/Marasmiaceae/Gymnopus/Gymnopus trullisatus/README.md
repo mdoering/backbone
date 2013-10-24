@@ -1,5 +1,4 @@
-Gymnopus trullisatus Murrill SPECIES
-=======
+# Gymnopus trullisatus Murrill SPECIES
 
 #### Status
 ACCEPTED

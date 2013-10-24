@@ -1,5 +1,4 @@
-Ceratomyces ornithocephalus Thaxt. SPECIES
-=======
+# Ceratomyces ornithocephalus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

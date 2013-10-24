@@ -1,5 +1,4 @@
-Ceraceomerulius rubicundus (Litsch.) J. Erikss. & Ryvarden SPECIES
-=======
+# Ceraceomerulius rubicundus (Litsch.) J. Erikss. & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

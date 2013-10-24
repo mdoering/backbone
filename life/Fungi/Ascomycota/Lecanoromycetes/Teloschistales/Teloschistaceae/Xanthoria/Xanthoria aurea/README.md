@@ -1,5 +1,4 @@
-Xanthoria aurea Müll. Arg. SPECIES
-=======
+# Xanthoria aurea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

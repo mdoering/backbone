@@ -1,5 +1,4 @@
-Siphula abscondita H. Magn. SPECIES
-=======
+# Siphula abscondita H. Magn. SPECIES
 
 #### Status
 ACCEPTED

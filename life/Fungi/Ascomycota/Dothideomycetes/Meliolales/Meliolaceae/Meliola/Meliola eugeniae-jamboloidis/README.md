@@ -1,5 +1,4 @@
-Meliola eugeniae-jamboloidis Hansf. SPECIES
-=======
+# Meliola eugeniae-jamboloidis Hansf. SPECIES
 
 #### Status
 ACCEPTED

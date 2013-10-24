@@ -1,5 +1,4 @@
-Pterygellius Corner, 1966 GENUS
-=======
+# Pterygellius Corner, 1966 GENUS
 
 #### Status
 ACCEPTED

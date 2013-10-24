@@ -1,5 +1,4 @@
-Collema coccophyllum Nyl. SPECIES
-=======
+# Collema coccophyllum Nyl. SPECIES
 
 #### Status
 ACCEPTED

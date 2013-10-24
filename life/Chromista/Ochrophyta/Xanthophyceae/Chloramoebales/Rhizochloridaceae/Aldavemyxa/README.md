@@ -1,5 +1,4 @@
-Aldavemyxa Skvortzov, 1972 GENUS
-=======
+# Aldavemyxa Skvortzov, 1972 GENUS
 
 #### Status
 ACCEPTED

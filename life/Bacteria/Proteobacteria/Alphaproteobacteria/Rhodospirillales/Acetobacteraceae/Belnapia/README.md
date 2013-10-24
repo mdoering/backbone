@@ -1,5 +1,4 @@
-Belnapia Reddy, Nagy & Garcia-Pichel, 2006 GENUS
-=======
+# Belnapia Reddy, Nagy & Garcia-Pichel, 2006 GENUS
 
 #### Status
 ACCEPTED

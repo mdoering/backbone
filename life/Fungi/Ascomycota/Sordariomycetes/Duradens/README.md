@@ -1,5 +1,4 @@
-Duradens Samuels & Rogerson GENUS
-=======
+# Duradens Samuels & Rogerson GENUS
 
 #### Status
 ACCEPTED

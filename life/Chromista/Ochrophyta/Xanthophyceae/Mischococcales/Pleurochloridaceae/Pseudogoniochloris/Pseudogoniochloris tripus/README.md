@@ -1,5 +1,4 @@
-Pseudogoniochloris tripus (Pascher) L. Krienitz, E. Hegewald, O.L. Reymond, & T. Peschke SPECIES
-=======
+# Pseudogoniochloris tripus (Pascher) L. Krienitz, E. Hegewald, O.L. Reymond, & T. Peschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ampullifera leonensis Deighton SPECIES
-=======
+# Ampullifera leonensis Deighton SPECIES
 
 #### Status
 ACCEPTED

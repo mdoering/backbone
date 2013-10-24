@@ -1,5 +1,4 @@
-Pectobacterium Waldee, 1945 GENUS
-=======
+# Pectobacterium Waldee, 1945 GENUS
 
 #### Status
 ACCEPTED

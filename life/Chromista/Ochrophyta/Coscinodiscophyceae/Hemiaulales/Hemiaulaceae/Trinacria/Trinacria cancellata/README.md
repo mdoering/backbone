@@ -1,5 +1,4 @@
-Trinacria cancellata (Greville) P. A. Sims & R. Ross SPECIES
-=======
+# Trinacria cancellata (Greville) P. A. Sims & R. Ross SPECIES
 
 #### Status
 ACCEPTED

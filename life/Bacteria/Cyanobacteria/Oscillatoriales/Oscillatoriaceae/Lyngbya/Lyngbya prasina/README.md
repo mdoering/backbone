@@ -1,5 +1,4 @@
-Lyngbya prasina Montagne ex Kützing SPECIES
-=======
+# Lyngbya prasina Montagne ex Kützing SPECIES
 
 #### Status
 ACCEPTED

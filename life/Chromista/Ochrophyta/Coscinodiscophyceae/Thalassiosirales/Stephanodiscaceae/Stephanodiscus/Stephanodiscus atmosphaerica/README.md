@@ -1,5 +1,4 @@
-Stephanodiscus atmosphaerica (Ehrenberg) Håk. & Locker SPECIES
-=======
+# Stephanodiscus atmosphaerica (Ehrenberg) Håk. & Locker SPECIES
 
 #### Status
 ACCEPTED

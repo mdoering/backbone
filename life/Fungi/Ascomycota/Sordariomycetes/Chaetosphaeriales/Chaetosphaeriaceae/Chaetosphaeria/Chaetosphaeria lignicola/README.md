@@ -1,5 +1,4 @@
-Chaetosphaeria lignicola (Munk) Tomilin SPECIES
-=======
+# Chaetosphaeria lignicola (Munk) Tomilin SPECIES
 
 #### Status
 ACCEPTED

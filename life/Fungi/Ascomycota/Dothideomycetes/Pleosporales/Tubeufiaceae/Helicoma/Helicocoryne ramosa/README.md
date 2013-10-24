@@ -1,5 +1,4 @@
-Helicocoryne ramosa Berk. & Sm. SPECIES
-=======
+# Helicocoryne ramosa Berk. & Sm. SPECIES
 
 #### Status
 ACCEPTED

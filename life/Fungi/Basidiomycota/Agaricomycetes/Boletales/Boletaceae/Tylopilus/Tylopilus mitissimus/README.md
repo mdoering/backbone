@@ -1,5 +1,4 @@
-Tylopilus mitissimus Singer & L.D. Gómez SPECIES
-=======
+# Tylopilus mitissimus Singer & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

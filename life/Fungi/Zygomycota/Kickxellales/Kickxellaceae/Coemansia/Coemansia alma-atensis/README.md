@@ -1,5 +1,4 @@
-Coemansia alma-atensis Schwarzman SPECIES
-=======
+# Coemansia alma-atensis Schwarzman SPECIES
 
 #### Status
 ACCEPTED

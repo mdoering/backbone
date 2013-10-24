@@ -1,5 +1,4 @@
-Phoma gentianae-asclepiadeae Petr. SPECIES
-=======
+# Phoma gentianae-asclepiadeae Petr. SPECIES
 
 #### Status
 ACCEPTED

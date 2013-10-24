@@ -1,5 +1,4 @@
-Uromyces eriochloae (Syd. & P. Syd.) Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Uromyces eriochloae (Syd. & P. Syd.) Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

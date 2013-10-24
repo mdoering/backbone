@@ -1,5 +1,4 @@
-Poria chrysobapha (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Poria chrysobapha (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

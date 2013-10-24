@@ -1,5 +1,4 @@
-Gymnopilus hillii Murrill SPECIES
-=======
+# Gymnopilus hillii Murrill SPECIES
 
 #### Status
 ACCEPTED

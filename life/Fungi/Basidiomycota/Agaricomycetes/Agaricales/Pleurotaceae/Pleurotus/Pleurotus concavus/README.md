@@ -1,5 +1,4 @@
-Pleurotus concavus (Berk.) Singer SPECIES
-=======
+# Pleurotus concavus (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

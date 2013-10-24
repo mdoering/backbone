@@ -1,5 +1,4 @@
-Lachnum martii Velen. SPECIES
-=======
+# Lachnum martii Velen. SPECIES
 
 #### Status
 ACCEPTED

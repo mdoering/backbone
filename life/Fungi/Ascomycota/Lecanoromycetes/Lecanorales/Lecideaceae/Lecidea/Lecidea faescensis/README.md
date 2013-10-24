@@ -1,5 +1,4 @@
-Lecidea faescensis Hav. SPECIES
-=======
+# Lecidea faescensis Hav. SPECIES
 
 #### Status
 ACCEPTED

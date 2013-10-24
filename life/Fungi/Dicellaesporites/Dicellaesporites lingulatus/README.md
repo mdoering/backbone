@@ -1,5 +1,4 @@
-Dicellaesporites lingulatus Z.C. Song SPECIES
-=======
+# Dicellaesporites lingulatus Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

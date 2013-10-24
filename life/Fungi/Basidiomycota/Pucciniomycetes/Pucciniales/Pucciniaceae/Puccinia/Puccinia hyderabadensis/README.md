@@ -1,5 +1,4 @@
-Puccinia hyderabadensis Bagyan. & Ravinder SPECIES
-=======
+# Puccinia hyderabadensis Bagyan. & Ravinder SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca reducta Poelt & Hinter. SPECIES
-=======
+# Caloplaca reducta Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

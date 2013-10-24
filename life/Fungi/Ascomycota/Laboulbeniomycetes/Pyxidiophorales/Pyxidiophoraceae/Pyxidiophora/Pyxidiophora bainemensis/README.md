@@ -1,5 +1,4 @@
-Pyxidiophora bainemensis (Breton & Faurel) N. Lundq. SPECIES
-=======
+# Pyxidiophora bainemensis (Breton & Faurel) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

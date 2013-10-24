@@ -1,5 +1,4 @@
-Trichophyton rotundum MacCarthy, 1925 SPECIES
-=======
+# Trichophyton rotundum MacCarthy, 1925 SPECIES
 
 #### Status
 ACCEPTED

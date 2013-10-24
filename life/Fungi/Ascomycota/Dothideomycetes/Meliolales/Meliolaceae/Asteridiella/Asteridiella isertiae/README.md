@@ -1,5 +1,4 @@
-Asteridiella isertiae (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella isertiae (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

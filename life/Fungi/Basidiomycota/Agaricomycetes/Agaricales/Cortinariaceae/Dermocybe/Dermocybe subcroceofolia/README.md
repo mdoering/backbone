@@ -1,5 +1,4 @@
-Dermocybe subcroceofolia (Ammirati & A.H. Sm.) Ammirati SPECIES
-=======
+# Dermocybe subcroceofolia (Ammirati & A.H. Sm.) Ammirati SPECIES
 
 #### Status
 ACCEPTED

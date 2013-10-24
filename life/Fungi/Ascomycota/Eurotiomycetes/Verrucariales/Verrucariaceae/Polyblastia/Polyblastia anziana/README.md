@@ -1,5 +1,4 @@
-Polyblastia anziana f. anziana FORM
-=======
+# Polyblastia anziana (Garov.) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ceskoslov. Liejn. Celedi Verrucariaceae 198 (1954)
 
 #### Original name
-Polyblastia anziana f. anziana
+Verrucaria anziana Garov.
 
 ### Remarks
 null

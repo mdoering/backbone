@@ -1,5 +1,4 @@
-Lasiothyrium cycloschizon Syd. & P. Syd., 1913 SPECIES
-=======
+# Lasiothyrium cycloschizon Syd. & P. Syd., 1913 SPECIES
 
 #### Status
 ACCEPTED

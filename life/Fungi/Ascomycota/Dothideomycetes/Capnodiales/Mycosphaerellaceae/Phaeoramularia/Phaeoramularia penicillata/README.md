@@ -1,5 +1,4 @@
-Phaeoramularia penicillata (Ces.) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Phaeoramularia penicillata (Ces.) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

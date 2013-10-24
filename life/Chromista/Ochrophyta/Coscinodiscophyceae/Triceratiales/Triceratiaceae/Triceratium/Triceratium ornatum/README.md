@@ -1,5 +1,4 @@
-Triceratium ornatum Grev., 1861 SPECIES
-=======
+# Triceratium ornatum Grev., 1861 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ceratospiris Bury, 1862 GENUS
-=======
+# Ceratospyris Ehrenberg, 1847 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Polycyst. Barbados, explan. pl. 2.
+Ber. Verh. Akad. Wiss. Berlin, 1846, Tab. p. 385.
 
 #### Original name
 null

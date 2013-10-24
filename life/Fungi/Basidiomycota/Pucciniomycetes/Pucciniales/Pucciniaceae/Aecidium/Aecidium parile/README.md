@@ -1,5 +1,4 @@
-Aecidium parile Syd. & P. Syd. SPECIES
-=======
+# Aecidium parile Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

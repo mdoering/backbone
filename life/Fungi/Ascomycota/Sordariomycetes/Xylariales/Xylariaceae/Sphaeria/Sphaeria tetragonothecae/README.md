@@ -1,5 +1,4 @@
-Sphaeria tetragonothecae Schwein. SPECIES
-=======
+# Sphaeria tetragonothecae Schwein. SPECIES
 
 #### Status
 ACCEPTED

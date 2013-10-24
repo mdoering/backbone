@@ -1,5 +1,4 @@
-Phyllosticta aquatica Speg. SPECIES
-=======
+# Phyllosticta aquatica Speg. SPECIES
 
 #### Status
 ACCEPTED

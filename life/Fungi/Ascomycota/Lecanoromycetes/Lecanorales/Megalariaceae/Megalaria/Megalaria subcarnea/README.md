@@ -1,5 +1,4 @@
-Megalaria subcarnea (Müll. Arg.) D.J. Galloway SPECIES
-=======
+# Megalaria subcarnea (Müll. Arg.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

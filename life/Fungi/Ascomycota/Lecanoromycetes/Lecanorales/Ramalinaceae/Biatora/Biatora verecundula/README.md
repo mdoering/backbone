@@ -1,5 +1,4 @@
-Biatora verecundula (Th. Fr.) Tuck. SPECIES
-=======
+# Biatora verecundula (Th. Fr.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

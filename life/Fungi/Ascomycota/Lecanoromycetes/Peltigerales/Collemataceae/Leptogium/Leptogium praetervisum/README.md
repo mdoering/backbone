@@ -1,5 +1,4 @@
-Leptogium praetervisum SPECIES
-=======
+# Leptogium praetervisum SPECIES
 
 #### Status
 ACCEPTED

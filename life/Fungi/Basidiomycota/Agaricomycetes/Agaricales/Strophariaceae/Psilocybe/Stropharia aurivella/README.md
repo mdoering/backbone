@@ -1,5 +1,4 @@
-Stropharia aurivella Massee SPECIES
-=======
+# Stropharia aurivella Massee SPECIES
 
 #### Status
 ACCEPTED

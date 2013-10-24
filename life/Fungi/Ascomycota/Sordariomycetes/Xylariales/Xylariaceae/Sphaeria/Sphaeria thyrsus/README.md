@@ -1,5 +1,4 @@
-Sphaeria thyrsus Berk. SPECIES
-=======
+# Sphaeria thyrsus Berk. SPECIES
 
 #### Status
 ACCEPTED

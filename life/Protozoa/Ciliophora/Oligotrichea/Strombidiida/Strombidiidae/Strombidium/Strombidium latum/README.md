@@ -1,5 +1,4 @@
-Strombidium latum Kahl, 1932 SPECIES
-=======
+# Strombidium latum Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

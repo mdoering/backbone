@@ -1,5 +1,4 @@
-Ceratomyces costaricensis Thaxt. SPECIES
-=======
+# Ceratomyces costaricensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

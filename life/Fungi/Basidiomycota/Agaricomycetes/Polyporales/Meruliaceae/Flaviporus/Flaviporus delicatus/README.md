@@ -1,5 +1,4 @@
-Flaviporus delicatus A. David & Rajchenb., 1992 SPECIES
-=======
+# Flaviporus delicatus A. David & Rajchenb., 1992 SPECIES
 
 #### Status
 ACCEPTED

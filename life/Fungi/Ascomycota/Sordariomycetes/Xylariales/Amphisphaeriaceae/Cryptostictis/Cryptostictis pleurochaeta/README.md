@@ -1,5 +1,4 @@
-Cryptostictis pleurochaeta Speg. SPECIES
-=======
+# Cryptostictis pleurochaeta Speg. SPECIES
 
 #### Status
 ACCEPTED

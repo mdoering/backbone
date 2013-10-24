@@ -1,5 +1,4 @@
-Graphina tjibodensis SPECIES
-=======
+# Graphina tjibodensis SPECIES
 
 #### Status
 ACCEPTED

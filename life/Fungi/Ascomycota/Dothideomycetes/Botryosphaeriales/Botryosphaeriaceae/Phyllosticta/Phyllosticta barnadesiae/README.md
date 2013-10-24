@@ -1,5 +1,4 @@
-Phyllosticta barnadesiae Gutner SPECIES
-=======
+# Phyllosticta barnadesiae Gutner SPECIES
 
 #### Status
 ACCEPTED

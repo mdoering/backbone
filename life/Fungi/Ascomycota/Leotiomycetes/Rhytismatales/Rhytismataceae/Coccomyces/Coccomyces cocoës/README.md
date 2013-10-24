@@ -1,5 +1,4 @@
-Coccomyces cocoës Dennis, 1953 SPECIES
-=======
+# Coccomyces cocoës Dennis, 1953 SPECIES
 
 #### Status
 ACCEPTED

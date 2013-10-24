@@ -1,5 +1,4 @@
-Cryptosporium pini Berk. & M.A. Curtis SPECIES
-=======
+# Cryptosporium pini Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

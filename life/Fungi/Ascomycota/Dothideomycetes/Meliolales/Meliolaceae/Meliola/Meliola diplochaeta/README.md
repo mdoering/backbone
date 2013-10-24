@@ -1,5 +1,4 @@
-Meliola diplochaeta Syd. & P. Syd. SPECIES
-=======
+# Meliola diplochaeta Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

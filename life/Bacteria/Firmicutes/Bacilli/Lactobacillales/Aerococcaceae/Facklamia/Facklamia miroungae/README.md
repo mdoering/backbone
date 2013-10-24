@@ -1,5 +1,4 @@
-Facklamia miroungae Hoyles et al., 2001 SPECIES
-=======
+# Facklamia miroungae Hoyles et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthosphaera lafourcadei (Lecal) A. Kleijne SPECIES
-=======
+# Anthosphaera lafourcadei (Lecal) A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parapeltella minuscula Speg. SPECIES
-=======
+# Parapeltella minuscula Speg. SPECIES
 
 #### Status
 ACCEPTED

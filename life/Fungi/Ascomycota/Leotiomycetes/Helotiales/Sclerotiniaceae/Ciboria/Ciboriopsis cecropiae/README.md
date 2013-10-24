@@ -1,5 +1,4 @@
-Ciboriopsis cecropiae (Henn.) Dennis SPECIES
-=======
+# Ciboriopsis cecropiae (Henn.) Dennis SPECIES
 
 #### Status
 ACCEPTED

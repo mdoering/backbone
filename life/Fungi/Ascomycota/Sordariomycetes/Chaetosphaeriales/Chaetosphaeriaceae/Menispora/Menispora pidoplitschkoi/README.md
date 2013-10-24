@@ -1,5 +1,4 @@
-Menispora pidoplitschkoi Kiril. SPECIES
-=======
+# Menispora pidoplitschkoi Kiril. SPECIES
 
 #### Status
 ACCEPTED

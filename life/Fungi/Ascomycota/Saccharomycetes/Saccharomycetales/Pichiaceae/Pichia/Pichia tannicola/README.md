@@ -1,8 +1,7 @@
-Zygopichia abadieae (F.H. Jacob) Kock.-Krat., 1990 SPECIES
-=======
+# Pichia tannicola F.H. Jacob, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Pichia tannicola F.H. Jacob, 1969
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Nectria sulcispora Petch SPECIES
-=======
+# Nectria sulcispora Petch SPECIES
 
 #### Status
 ACCEPTED

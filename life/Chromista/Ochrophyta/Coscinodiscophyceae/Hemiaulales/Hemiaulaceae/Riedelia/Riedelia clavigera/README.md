@@ -1,5 +1,4 @@
-Riedelia clavigera (A. Schmidt) H. J. Schrader & J. Fenner SPECIES
-=======
+# Riedelia clavigera (A. Schmidt) H. J. Schrader & J. Fenner SPECIES
 
 #### Status
 ACCEPTED

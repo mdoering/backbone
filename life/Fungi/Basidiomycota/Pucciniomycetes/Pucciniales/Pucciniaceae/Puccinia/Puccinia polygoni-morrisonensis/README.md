@@ -1,5 +1,4 @@
-Puccinia polygoni-morrisonensis Sawada SPECIES
-=======
+# Puccinia polygoni-morrisonensis Sawada SPECIES
 
 #### Status
 ACCEPTED

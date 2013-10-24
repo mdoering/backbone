@@ -1,17 +1,16 @@
-Helmisporium rectum Berk. & M.A. Curtis SPECIES
-=======
+# Helminthosporium rectum Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Berkeley, Grevillea 3(no. 27): 103 (1875)
 
 #### Original name
-Helmisporium rectum Berk. & M.A. Curtis
+Helminthosporium rectum Berk. & M.A. Curtis
 
 ### Remarks
 null

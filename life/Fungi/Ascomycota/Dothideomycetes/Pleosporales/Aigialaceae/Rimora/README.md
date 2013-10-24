@@ -1,5 +1,4 @@
-Rimora GENUS
-=======
+# Rimora GENUS
 
 #### Status
 ACCEPTED

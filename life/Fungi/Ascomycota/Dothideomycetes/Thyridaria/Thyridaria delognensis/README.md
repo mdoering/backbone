@@ -1,5 +1,4 @@
-Thyridaria delognensis Speg. & Roum. SPECIES
-=======
+# Thyridaria delognensis Speg. & Roum. SPECIES
 
 #### Status
 ACCEPTED

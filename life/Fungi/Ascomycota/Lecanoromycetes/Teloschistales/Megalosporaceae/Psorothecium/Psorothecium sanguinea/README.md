@@ -1,5 +1,4 @@
-Psorothecium sanguinea (Anzi) Jatta SPECIES
-=======
+# Psorothecium sanguinea (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

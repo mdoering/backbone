@@ -1,5 +1,4 @@
-Uromyces poincettiae Speg. SPECIES
-=======
+# Uromyces poincettiae Speg. SPECIES
 
 #### Status
 ACCEPTED

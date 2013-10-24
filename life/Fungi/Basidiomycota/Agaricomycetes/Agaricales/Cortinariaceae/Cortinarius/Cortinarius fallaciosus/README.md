@@ -1,5 +1,4 @@
-Cortinarius fallaciosus Bidaud SPECIES
-=======
+# Cortinarius fallaciosus Bidaud SPECIES
 
 #### Status
 ACCEPTED

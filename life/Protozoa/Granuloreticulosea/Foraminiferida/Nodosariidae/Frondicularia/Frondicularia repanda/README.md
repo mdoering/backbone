@@ -1,8 +1,7 @@
-Frondicularia robusta var. repanda Cushman, 1913 VARIETY
-=======
+# Frondicularia repanda Cushman, 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

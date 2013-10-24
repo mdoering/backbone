@@ -1,5 +1,4 @@
-Phlyctochytrium neuhausiae Sparrow SPECIES
-=======
+# Phlyctochytrium neuhausiae Sparrow SPECIES
 
 #### Status
 ACCEPTED

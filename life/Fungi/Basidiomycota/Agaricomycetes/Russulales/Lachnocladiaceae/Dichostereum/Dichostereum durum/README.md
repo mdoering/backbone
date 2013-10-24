@@ -1,14 +1,13 @@
-Dichostereum dura (Bourdot & Galzin) Pilát SPECIES
-=======
+# Dichostereum durum (Bourdot & Galzin) Pilát, 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 24: 223 (1926)
 
 #### Original name
 Asterostromella dura Bourdot & Galzin, 1920

@@ -1,5 +1,4 @@
-Leptosphaeria thorae Jaap SPECIES
-=======
+# Leptosphaeria thorae Jaap SPECIES
 
 #### Status
 ACCEPTED

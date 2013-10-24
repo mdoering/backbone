@@ -1,5 +1,4 @@
-Chrysosporium sinense Z.Q. Liang SPECIES
-=======
+# Chrysosporium sinense Z.Q. Liang SPECIES
 
 #### Status
 ACCEPTED

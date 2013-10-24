@@ -1,5 +1,4 @@
-Umbilicaria brigantium Zschacke SPECIES
-=======
+# Umbilicaria brigantium Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe cheilocystidiata Courtec. SPECIES
-=======
+# Hygrocybe cheilocystidiata Courtec. SPECIES
 
 #### Status
 ACCEPTED

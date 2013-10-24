@@ -1,5 +1,4 @@
-Phyllosticta arnicae Fuckel SPECIES
-=======
+# Phyllosticta arnicae Fuckel SPECIES
 
 #### Status
 ACCEPTED

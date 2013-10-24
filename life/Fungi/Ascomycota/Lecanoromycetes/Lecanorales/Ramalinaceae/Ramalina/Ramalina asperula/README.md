@@ -1,5 +1,4 @@
-Ramalina asperula Kremp. SPECIES
-=======
+# Ramalina asperula Kremp. SPECIES
 
 #### Status
 ACCEPTED

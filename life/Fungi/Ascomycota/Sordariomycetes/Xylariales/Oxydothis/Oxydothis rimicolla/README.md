@@ -1,5 +1,4 @@
-Oxydothis rimicolla J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Oxydothis rimicolla J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

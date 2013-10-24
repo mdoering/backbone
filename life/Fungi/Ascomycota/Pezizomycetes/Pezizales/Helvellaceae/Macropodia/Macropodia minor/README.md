@@ -1,5 +1,4 @@
-Macropodia minor Velen. SPECIES
-=======
+# Macropodia minor Velen. SPECIES
 
 #### Status
 ACCEPTED

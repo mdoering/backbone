@@ -1,5 +1,4 @@
-Asteromella psychotriae (Henn.) Aa SPECIES
-=======
+# Asteromella psychotriae (Henn.) Aa SPECIES
 
 #### Status
 ACCEPTED

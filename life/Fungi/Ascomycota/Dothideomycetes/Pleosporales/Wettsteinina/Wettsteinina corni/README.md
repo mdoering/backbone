@@ -1,14 +1,13 @@
-Telimena corni (Fuckel) Höhn., 1926 SPECIES
-=======
+# Wettsteinina corni (Fuckel) Aptroot, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. bot. Inst. tech. Hochsch. Wien 3(3): 110 (1926)
+null
 
 #### Original name
 null

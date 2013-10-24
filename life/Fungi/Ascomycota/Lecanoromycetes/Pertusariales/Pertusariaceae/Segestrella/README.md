@@ -1,5 +1,4 @@
-Segestrella GENUS
-=======
+# Segestrella GENUS
 
 #### Status
 ACCEPTED

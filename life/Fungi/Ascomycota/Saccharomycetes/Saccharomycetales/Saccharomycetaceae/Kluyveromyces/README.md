@@ -1,17 +1,16 @@
-Zygorenospora Krassiln. GENUS
-=======
+# Kluyveromyces Van der Walt GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek Ned. Tijdschr. Hyg. 22: 271 (1956)
 
 #### Original name
-Zygorenospora Krassiln.
+Kluyveromyces Van der Walt
 
 ### Remarks
 null

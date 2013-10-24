@@ -1,17 +1,16 @@
-Helmisporium hurae Henn. SPECIES
-=======
+# Helminthosporium hurae Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 27(6): 394 (1904)
 
 #### Original name
-Helmisporium hurae Henn.
+Helminthosporium hurae Henn.
 
 ### Remarks
 null

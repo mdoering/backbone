@@ -1,5 +1,4 @@
-Spiroloculina interrupta Terquem, 1876 SPECIES
-=======
+# Spiroloculina interrupta Terquem, 1876 SPECIES
 
 #### Status
 ACCEPTED

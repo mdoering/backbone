@@ -1,5 +1,4 @@
-Phakopsora kirganeliae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Phakopsora kirganeliae T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

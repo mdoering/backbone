@@ -1,5 +1,4 @@
-Ammoniphilus oxalaticus Zaitsev et al., 1998 SPECIES
-=======
+# Ammoniphilus oxalaticus Zaitsev et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

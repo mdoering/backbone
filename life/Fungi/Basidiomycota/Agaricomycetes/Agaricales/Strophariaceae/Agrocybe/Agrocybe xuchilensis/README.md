@@ -1,5 +1,4 @@
-Agrocybe xuchilensis (Murrill) Singer SPECIES
-=======
+# Agrocybe xuchilensis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

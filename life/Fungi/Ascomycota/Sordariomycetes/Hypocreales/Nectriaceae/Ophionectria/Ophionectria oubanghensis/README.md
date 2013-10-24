@@ -1,5 +1,4 @@
-Ophionectria oubanghensis Saccas SPECIES
-=======
+# Ophionectria oubanghensis Saccas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria feijoae Artemiev SPECIES
-=======
+# Leptosphaeria feijoae Artemiev SPECIES
 
 #### Status
 ACCEPTED

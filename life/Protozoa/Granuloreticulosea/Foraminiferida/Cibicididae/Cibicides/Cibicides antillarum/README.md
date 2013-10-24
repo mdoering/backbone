@@ -1,5 +1,4 @@
-Cibicides antillarum (d’Orbigny, 1839) SPECIES
-=======
+# Cibicides antillarum (d’Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

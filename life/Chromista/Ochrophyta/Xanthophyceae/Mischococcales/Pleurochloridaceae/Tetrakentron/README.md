@@ -1,5 +1,4 @@
-Tetrakentron A. Pascher, 1937 GENUS
-=======
+# Tetrakentron A. Pascher, 1937 GENUS
 
 #### Status
 ACCEPTED

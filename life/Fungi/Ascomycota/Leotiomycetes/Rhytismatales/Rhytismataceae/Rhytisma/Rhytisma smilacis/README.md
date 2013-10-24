@@ -1,5 +1,4 @@
-Rhytisma smilacis (Schwein.) Fr. SPECIES
-=======
+# Rhytisma smilacis (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

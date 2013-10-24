@@ -1,5 +1,4 @@
-Napicladium astragali Ellis & Everh. SPECIES
-=======
+# Napicladium astragali Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

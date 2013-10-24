@@ -1,5 +1,4 @@
-Chloroflexi PHYLUM
-=======
+# Chloroflexi PHYLUM
 
 #### Status
 ACCEPTED

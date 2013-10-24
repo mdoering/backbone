@@ -1,5 +1,4 @@
-Rhodopaxillus amethysteus (Berk. & Broome) Overeem SPECIES
-=======
+# Rhodopaxillus amethysteus (Berk. & Broome) Overeem SPECIES
 
 #### Status
 ACCEPTED

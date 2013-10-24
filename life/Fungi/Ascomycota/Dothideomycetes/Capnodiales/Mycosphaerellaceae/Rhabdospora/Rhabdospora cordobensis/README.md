@@ -1,5 +1,4 @@
-Rhabdospora cordobensis (Speg.) Sacc. SPECIES
-=======
+# Rhabdospora cordobensis (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

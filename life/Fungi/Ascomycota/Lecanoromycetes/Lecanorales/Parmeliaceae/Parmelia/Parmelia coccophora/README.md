@@ -1,5 +1,4 @@
-Parmelia coccophora Mont. SPECIES
-=======
+# Parmelia coccophora Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora fracta Petch SPECIES
-=======
+# Peniophora fracta Petch SPECIES
 
 #### Status
 ACCEPTED

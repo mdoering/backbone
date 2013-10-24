@@ -1,5 +1,4 @@
-Helminthosporium sudensis Gonz. Frag. & Cif. SPECIES
-=======
+# Helminthosporium sudensis Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

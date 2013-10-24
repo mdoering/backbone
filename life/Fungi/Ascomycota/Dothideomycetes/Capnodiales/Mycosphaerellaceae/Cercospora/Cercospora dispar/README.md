@@ -1,5 +1,4 @@
-Cercospora dispar Deighton SPECIES
-=======
+# Cercospora dispar Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps albella Massee SPECIES
-=======
+# Cordyceps albella Massee SPECIES
 
 #### Status
 ACCEPTED

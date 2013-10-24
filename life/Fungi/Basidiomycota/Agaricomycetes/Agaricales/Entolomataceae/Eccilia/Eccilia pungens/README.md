@@ -1,5 +1,4 @@
-Eccilia pungens Murrill SPECIES
-=======
+# Eccilia pungens Murrill SPECIES
 
 #### Status
 ACCEPTED

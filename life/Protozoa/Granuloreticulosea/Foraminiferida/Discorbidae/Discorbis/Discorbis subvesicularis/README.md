@@ -1,5 +1,4 @@
-Discorbis subvesicularis Collins, 1958 SPECIES
-=======
+# Discorbis subvesicularis Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

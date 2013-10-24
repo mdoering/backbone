@@ -1,5 +1,4 @@
-Naevia carneopallida (Fuckel) Rehm SPECIES
-=======
+# Naevia carneopallida (Fuckel) Rehm SPECIES
 
 #### Status
 ACCEPTED

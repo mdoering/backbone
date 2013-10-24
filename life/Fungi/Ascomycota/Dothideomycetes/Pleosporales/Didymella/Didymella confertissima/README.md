@@ -1,5 +1,4 @@
-Didymella confertissima Sacc. SPECIES
-=======
+# Didymella confertissima Sacc. SPECIES
 
 #### Status
 ACCEPTED

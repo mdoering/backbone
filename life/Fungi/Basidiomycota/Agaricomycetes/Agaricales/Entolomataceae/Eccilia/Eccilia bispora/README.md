@@ -1,5 +1,4 @@
-Eccilia bispora Kauffman SPECIES
-=======
+# Eccilia bispora Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma niveum G. Stev. SPECIES
-=======
+# Entoloma niveum G. Stev. SPECIES
 
 #### Status
 ACCEPTED

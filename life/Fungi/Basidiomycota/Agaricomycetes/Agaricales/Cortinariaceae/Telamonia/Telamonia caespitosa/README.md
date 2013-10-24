@@ -1,5 +1,4 @@
-Telamonia caespitosa Velen. SPECIES
-=======
+# Telamonia caespitosa Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemidiscia prunicola Lázaro Ibiza SPECIES
-=======
+# Hemidiscia prunicola Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

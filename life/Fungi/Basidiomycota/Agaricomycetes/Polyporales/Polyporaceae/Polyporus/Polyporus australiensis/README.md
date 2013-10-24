@@ -1,5 +1,4 @@
-Polyporus australiensis Wakef., 1914 SPECIES
-=======
+# Polyporus australiensis Wakef., 1914 SPECIES
 
 #### Status
 ACCEPTED

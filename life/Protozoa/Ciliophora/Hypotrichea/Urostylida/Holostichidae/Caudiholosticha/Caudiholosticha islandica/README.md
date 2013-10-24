@@ -1,5 +1,4 @@
-Caudiholosticha islandica (Berger & Foissner, 1989) Berger, 2003 SPECIES
-=======
+# Caudiholosticha islandica (Berger & Foissner, 1989) Berger, 2003 SPECIES
 
 #### Status
 ACCEPTED

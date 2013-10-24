@@ -1,5 +1,4 @@
-Colpoda variabilis Foissner, 1980 SPECIES
-=======
+# Colpoda variabilis Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

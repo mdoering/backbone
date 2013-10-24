@@ -1,5 +1,4 @@
-Dothisphaeropsis hellebori Höhn. SPECIES
-=======
+# Dothisphaeropsis hellebori Höhn. SPECIES
 
 #### Status
 ACCEPTED

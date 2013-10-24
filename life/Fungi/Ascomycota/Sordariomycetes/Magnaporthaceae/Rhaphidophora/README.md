@@ -1,5 +1,4 @@
-Rhaphidophora GENUS
-=======
+# Rhaphidophora GENUS
 
 #### Status
 ACCEPTED

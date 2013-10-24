@@ -1,5 +1,4 @@
-Lecanora privatii Müll. Arg. SPECIES
-=======
+# Lecanora privatii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplotricha C.G. Ehrenberg, 1838 GENUS
-=======
+# Diplotricha C.G. Ehrenberg, 1838 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tauromyces catenulatus Cavalc. & A.A. Silva SPECIES
-=======
+# Tauromyces catenulatus Cavalc. & A.A. Silva SPECIES
 
 #### Status
 ACCEPTED

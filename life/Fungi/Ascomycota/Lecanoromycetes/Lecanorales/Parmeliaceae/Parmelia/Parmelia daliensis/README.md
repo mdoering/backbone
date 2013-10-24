@@ -1,5 +1,4 @@
-Parmelia daliensis Zahlbr. SPECIES
-=======
+# Parmelia daliensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

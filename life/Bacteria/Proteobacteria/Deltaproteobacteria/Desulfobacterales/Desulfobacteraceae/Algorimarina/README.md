@@ -1,5 +1,4 @@
-Algorimarina Kendall, Liu & Boone, 2006 GENUS
-=======
+# Algorimarina Kendall, Liu & Boone, 2006 GENUS
 
 #### Status
 ACCEPTED

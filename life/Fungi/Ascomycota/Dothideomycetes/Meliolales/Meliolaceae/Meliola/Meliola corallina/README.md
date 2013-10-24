@@ -1,5 +1,4 @@
-Meliola corallina Mont. SPECIES
-=======
+# Meliola corallina Mont. SPECIES
 
 #### Status
 ACCEPTED

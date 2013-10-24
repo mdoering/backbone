@@ -1,5 +1,4 @@
-Brevitrichoides T.V. Jankauskas, 1980 GENUS
-=======
+# Brevitrichoides T.V. Jankauskas, 1980 GENUS
 
 #### Status
 ACCEPTED

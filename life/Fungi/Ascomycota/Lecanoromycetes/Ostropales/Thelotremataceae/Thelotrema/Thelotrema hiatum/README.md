@@ -1,5 +1,4 @@
-Thelotrema hiatum Hale SPECIES
-=======
+# Thelotrema hiatum Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora ribis Schulzer & Sacc. SPECIES
-=======
+# Podospora ribis Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

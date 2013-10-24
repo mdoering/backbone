@@ -1,5 +1,4 @@
-Paecilomyces spectabilis Udagawa & Shoji Suzuki SPECIES
-=======
+# Paecilomyces spectabilis Udagawa & Shoji Suzuki SPECIES
 
 #### Status
 ACCEPTED

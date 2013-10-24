@@ -1,5 +1,4 @@
-Hystrichosphaeridium denticulatum Courteville in Deflandre, 1946 SPECIES
-=======
+# Hystrichosphaeridium denticulatum Courteville in Deflandre, 1946 SPECIES
 
 #### Status
 ACCEPTED

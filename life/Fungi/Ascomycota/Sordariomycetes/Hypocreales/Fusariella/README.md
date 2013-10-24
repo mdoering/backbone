@@ -1,5 +1,4 @@
-Fusariella Saccardo, 1884 GENUS
-=======
+# Fusariella Saccardo, 1884 GENUS
 
 #### Status
 ACCEPTED

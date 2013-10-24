@@ -1,14 +1,13 @@
-Tuburcinia clintoniae Kom., 1899 SPECIES
-=======
+# Urocystis clintoniae (Kom.) Uljan. ex Govorova, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Jaczewski, Komarov & Tranzschel, Fungi Rossiae Exsicc. no. 260 (1899)
+Golovnevye Griby Sovetskogo Dalnego Vostoka 36 (1990)
 
 #### Original name
 Tuburcinia clintoniae Kom., 1899

@@ -1,5 +1,4 @@
-Cortinarius percomis Fr., 1838 SPECIES
-=======
+# Cortinarius percomis Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED

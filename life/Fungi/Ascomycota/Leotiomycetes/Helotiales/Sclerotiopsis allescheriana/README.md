@@ -1,5 +1,4 @@
-Sclerotiopsis allescheriana (Henn.) Died. SPECIES
-=======
+# Sclerotiopsis allescheriana (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

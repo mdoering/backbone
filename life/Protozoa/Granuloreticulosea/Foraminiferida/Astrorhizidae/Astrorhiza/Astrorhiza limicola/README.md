@@ -1,5 +1,4 @@
-Astrorhiza limicola Sandahl, 1858 SPECIES
-=======
+# Astrorhiza limicola Sandahl, 1858 SPECIES
 
 #### Status
 ACCEPTED

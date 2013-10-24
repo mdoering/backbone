@@ -1,5 +1,4 @@
-Calonectria equiseti Starbäck SPECIES
-=======
+# Calonectria equiseti Starbäck SPECIES
 
 #### Status
 ACCEPTED

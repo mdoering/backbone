@@ -1,5 +1,4 @@
-Podosphaera spiralis Miyabe SPECIES
-=======
+# Podosphaera spiralis Miyabe SPECIES
 
 #### Status
 ACCEPTED

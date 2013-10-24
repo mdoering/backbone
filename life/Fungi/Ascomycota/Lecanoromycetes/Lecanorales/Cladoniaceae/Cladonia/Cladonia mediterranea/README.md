@@ -1,14 +1,13 @@
-Cladina mediterranea (P. A. Duvign. & Abbayes) Follmann & Hern.-Padr. SPECIES
-=======
+# Cladonia mediterranea P. A. Duvign. & Abbayes SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Opredelitel' Lishalnikov SSSR (Handbook of the Lichens of the USSR), 5, Cladoniaceae-Acarosporaceae (Leningrad) 77 (1978)
+Rev. Bryol. Lichénol. 16: 97 (1947)
 
 #### Original name
 Cladonia mediterranea P. A. Duvign. & Abbayes

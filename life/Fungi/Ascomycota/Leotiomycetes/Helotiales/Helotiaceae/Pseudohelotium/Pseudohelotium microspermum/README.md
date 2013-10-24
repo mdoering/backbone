@@ -1,5 +1,4 @@
-Pseudohelotium microspermum Speg. SPECIES
-=======
+# Pseudohelotium microspermum Speg. SPECIES
 
 #### Status
 ACCEPTED

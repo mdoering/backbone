@@ -1,5 +1,4 @@
-Candida montana Goto & Oguri, 1983 SPECIES
-=======
+# Candida montana Goto & Oguri, 1983 SPECIES
 
 #### Status
 ACCEPTED

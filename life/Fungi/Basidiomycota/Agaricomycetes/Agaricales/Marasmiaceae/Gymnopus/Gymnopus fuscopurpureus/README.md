@@ -1,17 +1,16 @@
-Marasmius fuscopurpureus var. fuscopurpureus VARIETY
-=======
+# Gymnopus fuscopurpureus (Pers.) Antonín, Halling & Noordel., 1997 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 377 (1838)
+Mycotaxon 63: 364 (1997)
 
 #### Original name
-Marasmius fuscopurpureus var. fuscopurpureus
+Agaricus fuscopurpureus Pers., 1798
 
 ### Remarks
 null

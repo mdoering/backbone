@@ -1,5 +1,4 @@
-Pseudocercospora peronosporoidea (Pat. & Har.) Deighton SPECIES
-=======
+# Pseudocercospora peronosporoidea (Pat. & Har.) Deighton SPECIES
 
 #### Status
 ACCEPTED

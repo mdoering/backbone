@@ -1,5 +1,4 @@
-Staurophoma panici Höhn., 1907 SPECIES
-=======
+# Staurophoma panici Höhn., 1907 SPECIES
 
 #### Status
 ACCEPTED

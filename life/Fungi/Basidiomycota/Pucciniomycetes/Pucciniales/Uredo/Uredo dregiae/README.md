@@ -1,5 +1,4 @@
-Uredo dregiae Petch SPECIES
-=======
+# Uredo dregiae Petch SPECIES
 
 #### Status
 ACCEPTED

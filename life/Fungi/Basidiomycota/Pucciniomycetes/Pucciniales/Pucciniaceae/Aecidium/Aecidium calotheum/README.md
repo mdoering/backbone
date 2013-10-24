@@ -1,5 +1,4 @@
-Aecidium calotheum Syd. SPECIES
-=======
+# Aecidium calotheum Syd. SPECIES
 
 #### Status
 ACCEPTED

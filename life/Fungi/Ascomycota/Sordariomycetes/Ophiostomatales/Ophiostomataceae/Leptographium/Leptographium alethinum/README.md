@@ -1,5 +1,4 @@
-Leptographium alethinum K. Jacobs, M.J. Wingf. & Uzunovic, 2001 SPECIES
-=======
+# Leptographium alethinum K. Jacobs, M.J. Wingf. & Uzunovic, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pithya arctica L.I. Vassiljeva SPECIES
-=======
+# Pithya arctica L.I. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neofuscelia vernicosa (Brusse) Elix SPECIES
-=======
+# Neofuscelia vernicosa (Brusse) Elix SPECIES
 
 #### Status
 ACCEPTED

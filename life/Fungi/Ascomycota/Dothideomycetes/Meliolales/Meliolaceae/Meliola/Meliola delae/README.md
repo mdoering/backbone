@@ -1,5 +1,4 @@
-Meliola delae Schmied. SPECIES
-=======
+# Meliola delae Schmied. SPECIES
 
 #### Status
 ACCEPTED

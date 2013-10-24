@@ -1,5 +1,4 @@
-Myxosporium subviride Ellis & Everh. SPECIES
-=======
+# Myxosporium subviride Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

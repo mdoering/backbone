@@ -1,5 +1,4 @@
-Microphale foetidum (Sow. Fr.) Fr., 1951 SPECIES
-=======
+# Microphale foetidum (Sow. Fr.) Fr., 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomonas jessenii Verhille et al., 1999 SPECIES
-=======
+# Pseudomonas jessenii Verhille et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

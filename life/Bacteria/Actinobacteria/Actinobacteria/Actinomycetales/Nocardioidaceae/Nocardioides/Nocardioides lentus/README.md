@@ -1,5 +1,4 @@
-Nocardioides lentus Yoon et al., 2006 SPECIES
-=======
+# Nocardioides lentus Yoon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

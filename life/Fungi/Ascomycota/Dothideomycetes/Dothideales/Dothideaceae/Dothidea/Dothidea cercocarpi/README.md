@@ -1,5 +1,4 @@
-Dothidea cercocarpi Ellis & Everh. SPECIES
-=======
+# Dothidea cercocarpi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

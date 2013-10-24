@@ -1,5 +1,4 @@
-Cothurnia elegans Swarczewsky, 1930 SPECIES
-=======
+# Cothurnia elegans Swarczewsky, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria myrrhina (Ach.) Elenk. SPECIES
-=======
+# Squamaria myrrhina (Ach.) Elenk. SPECIES
 
 #### Status
 ACCEPTED

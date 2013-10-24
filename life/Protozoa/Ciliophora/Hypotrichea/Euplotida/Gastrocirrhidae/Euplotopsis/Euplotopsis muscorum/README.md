@@ -1,5 +1,4 @@
-Euplotopsis muscorum (Dragesco, 1970) Borror & Hill, 1995 SPECIES
-=======
+# Euplotopsis muscorum (Dragesco, 1970) Borror & Hill, 1995 SPECIES
 
 #### Status
 ACCEPTED

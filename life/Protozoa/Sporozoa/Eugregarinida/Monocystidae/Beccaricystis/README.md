@@ -1,5 +1,4 @@
-Beccaricystis Cognetti de Martiis, 1926 GENUS
-=======
+# Beccaricystis Cognetti de Martiis, 1926 GENUS
 
 #### Status
 ACCEPTED

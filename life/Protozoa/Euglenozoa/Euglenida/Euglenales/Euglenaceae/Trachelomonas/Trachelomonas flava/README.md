@@ -1,5 +1,4 @@
-Trachelomonas flava var. stellata Balech VARIETY
-=======
+# Trachelomonas flava Palmer SPECIES
 
 #### Status
 ACCEPTED

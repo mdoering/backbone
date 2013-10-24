@@ -1,5 +1,4 @@
-Amylotrogus Roze GENUS
-=======
+# Amylotrogus Roze GENUS
 
 #### Status
 ACCEPTED

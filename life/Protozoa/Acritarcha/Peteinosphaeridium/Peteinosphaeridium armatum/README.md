@@ -1,5 +1,4 @@
-Peteinosphaeridium armatum Tongiorgi et al., 1995 SPECIES
-=======
+# Peteinosphaeridium armatum Tongiorgi et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

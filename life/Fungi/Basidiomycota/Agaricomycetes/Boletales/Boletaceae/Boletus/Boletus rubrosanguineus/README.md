@@ -1,5 +1,4 @@
-Boletus rubrosanguineus Cheype SPECIES
-=======
+# Boletus rubrosanguineus Cheype SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiosphaeria polyporicola Henn. SPECIES
-=======
+# Lasiosphaeria polyporicola Henn. SPECIES
 
 #### Status
 ACCEPTED

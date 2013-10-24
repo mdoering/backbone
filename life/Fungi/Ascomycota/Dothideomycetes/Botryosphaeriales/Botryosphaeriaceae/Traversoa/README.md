@@ -1,5 +1,4 @@
-Traversoa GENUS
-=======
+# Traversoa GENUS
 
 #### Status
 ACCEPTED

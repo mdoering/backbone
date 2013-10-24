@@ -1,5 +1,4 @@
-Microscypha monticola Svrcek SPECIES
-=======
+# Microscypha monticola Svrcek SPECIES
 
 #### Status
 ACCEPTED

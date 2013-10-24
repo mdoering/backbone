@@ -1,5 +1,4 @@
-Lichen muscorum Wulfen SPECIES
-=======
+# Lichen muscorum Wulfen SPECIES
 
 #### Status
 ACCEPTED

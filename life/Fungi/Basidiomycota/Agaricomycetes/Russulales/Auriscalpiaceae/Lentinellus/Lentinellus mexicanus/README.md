@@ -1,5 +1,4 @@
-Lentinellus mexicanus R.H. Petersen SPECIES
-=======
+# Lentinellus mexicanus R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

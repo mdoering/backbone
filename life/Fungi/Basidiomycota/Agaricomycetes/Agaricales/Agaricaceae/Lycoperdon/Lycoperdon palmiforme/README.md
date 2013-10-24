@@ -1,5 +1,4 @@
-Lycoperdon palmiforme Batsch SPECIES
-=======
+# Lycoperdon palmiforme Batsch SPECIES
 
 #### Status
 ACCEPTED

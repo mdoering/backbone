@@ -1,5 +1,4 @@
-Polycystis graminum H.P. Bell SPECIES
-=======
+# Polycystis graminum H.P. Bell SPECIES
 
 #### Status
 ACCEPTED

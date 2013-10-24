@@ -1,5 +1,4 @@
-Helotium citrinicolor P. Crouan & H. Crouan SPECIES
-=======
+# Helotium citrinicolor P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

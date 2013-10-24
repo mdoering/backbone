@@ -1,5 +1,4 @@
-Gloeocorticium cinerascens Hjortstam & Ryvarden, 1986 SPECIES
-=======
+# Gloeocorticium cinerascens Hjortstam & Ryvarden, 1986 SPECIES
 
 #### Status
 ACCEPTED

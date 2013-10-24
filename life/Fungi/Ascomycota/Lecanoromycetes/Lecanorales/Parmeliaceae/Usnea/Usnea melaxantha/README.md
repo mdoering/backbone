@@ -1,5 +1,4 @@
-Usnea melaxantha f. melaxantha (Ach.) Motyka FORM
-=======
+# Usnea melaxantha (Ach.) Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Usnea 1: 20, 33 (1936)
 
 #### Original name
-Usnea melaxantha f. melaxantha (Ach.) Motyka
+null
 
 ### Remarks
 null

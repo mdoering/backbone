@@ -1,5 +1,4 @@
-Citeromyces siamensis Nagats., H. Kawas., Limtong, Mikata & Tats. Seki, 2002 SPECIES
-=======
+# Citeromyces siamensis Nagats., H. Kawas., Limtong, Mikata & Tats. Seki, 2002 SPECIES
 
 #### Status
 ACCEPTED

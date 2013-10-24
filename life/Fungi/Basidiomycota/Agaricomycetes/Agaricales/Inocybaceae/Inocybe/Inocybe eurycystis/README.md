@@ -1,5 +1,4 @@
-Inocybe eurycystis E.H.L. Krause SPECIES
-=======
+# Inocybe eurycystis E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

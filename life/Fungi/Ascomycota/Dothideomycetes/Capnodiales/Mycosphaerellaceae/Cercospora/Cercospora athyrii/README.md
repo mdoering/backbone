@@ -1,5 +1,4 @@
-Cercospora athyrii J.M. Mend. SPECIES
-=======
+# Cercospora athyrii J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria silenes Westend., 1857 SPECIES
-=======
+# Septoria silenes Westend., 1857 SPECIES
 
 #### Status
 ACCEPTED

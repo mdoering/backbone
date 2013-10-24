@@ -1,5 +1,4 @@
-Inocybe antillana Pegler SPECIES
-=======
+# Inocybe antillana Pegler SPECIES
 
 #### Status
 ACCEPTED

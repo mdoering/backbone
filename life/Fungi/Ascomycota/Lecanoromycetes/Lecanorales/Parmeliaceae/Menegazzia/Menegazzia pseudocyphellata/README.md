@@ -1,5 +1,4 @@
-Menegazzia pseudocyphellata Aptroot, M.J. Lai & Sparrius SPECIES
-=======
+# Menegazzia pseudocyphellata Aptroot, M.J. Lai & Sparrius SPECIES
 
 #### Status
 ACCEPTED

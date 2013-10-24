@@ -1,5 +1,4 @@
-Remototrachyna scytophylla (Kurok.) Divakar & A. Crespo SPECIES
-=======
+# Remototrachyna scytophylla (Kurok.) Divakar & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

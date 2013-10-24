@@ -1,5 +1,4 @@
-Agrococcus jenensis Groth et al., 1996 SPECIES
-=======
+# Agrococcus jenensis Groth et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

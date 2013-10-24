@@ -1,5 +1,4 @@
-Lactarius castanopus Sarnari SPECIES
-=======
+# Lactarius castanopus Sarnari SPECIES
 
 #### Status
 ACCEPTED

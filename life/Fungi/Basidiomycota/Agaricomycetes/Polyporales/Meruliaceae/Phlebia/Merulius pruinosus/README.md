@@ -1,5 +1,4 @@
-Merulius pruinosus (Peck) Kuntze SPECIES
-=======
+# Merulius pruinosus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

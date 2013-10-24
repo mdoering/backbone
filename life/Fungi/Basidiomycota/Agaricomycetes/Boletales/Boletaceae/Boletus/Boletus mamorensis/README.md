@@ -1,5 +1,4 @@
-Boletus mamorensis Redeuilh SPECIES
-=======
+# Boletus mamorensis Redeuilh SPECIES
 
 #### Status
 ACCEPTED

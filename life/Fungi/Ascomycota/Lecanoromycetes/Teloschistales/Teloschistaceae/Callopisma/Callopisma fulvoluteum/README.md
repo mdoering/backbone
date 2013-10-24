@@ -1,5 +1,4 @@
-Callopisma fulvoluteum Arnold SPECIES
-=======
+# Callopisma fulvoluteum Arnold SPECIES
 
 #### Status
 ACCEPTED

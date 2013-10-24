@@ -1,5 +1,4 @@
-Dicaeoma xylariiforme (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma xylariiforme (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

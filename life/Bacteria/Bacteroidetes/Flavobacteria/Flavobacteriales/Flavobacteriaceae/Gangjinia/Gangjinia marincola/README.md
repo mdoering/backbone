@@ -1,5 +1,4 @@
-Gangjinia marincola Lee, Moon, Park, Lee, Jung, Kim, Kim & Kahng, 2011 SPECIES
-=======
+# Gangjinia marincola Lee, Moon, Park, Lee, Jung, Kim, Kim & Kahng, 2011 SPECIES
 
 #### Status
 ACCEPTED

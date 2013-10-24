@@ -1,5 +1,4 @@
-Zoothamnium mengi Song, 1997 SPECIES
-=======
+# Zoothamnium mengi Song, 1997 SPECIES
 
 #### Status
 ACCEPTED

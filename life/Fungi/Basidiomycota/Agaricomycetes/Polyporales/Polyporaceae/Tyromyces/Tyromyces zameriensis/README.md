@@ -1,5 +1,4 @@
-Tyromyces zameriensis (Pilát) Bondartsev SPECIES
-=======
+# Tyromyces zameriensis (Pilát) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

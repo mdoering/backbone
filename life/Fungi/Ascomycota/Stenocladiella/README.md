@@ -1,5 +1,4 @@
-Stenocladiella Marvanová & Descals GENUS
-=======
+# Stenocladiella Marvanová & Descals GENUS
 
 #### Status
 ACCEPTED

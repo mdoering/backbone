@@ -1,5 +1,4 @@
-Merisma flabellare (Batsch) Pers. SPECIES
-=======
+# Merisma flabellare (Batsch) Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium discoideum (Cooke) Sacc. SPECIES
-=======
+# Leptothyrium discoideum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

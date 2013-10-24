@@ -1,5 +1,4 @@
-Pleurostomella alternans Schwager, 1866 SPECIES
-=======
+# Pleurostomella alternans Schwager, 1866 SPECIES
 
 #### Status
 ACCEPTED

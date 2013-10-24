@@ -1,5 +1,4 @@
-Uncinia galiorum Velen. SPECIES
-=======
+# Uncinia galiorum Velen. SPECIES
 
 #### Status
 ACCEPTED

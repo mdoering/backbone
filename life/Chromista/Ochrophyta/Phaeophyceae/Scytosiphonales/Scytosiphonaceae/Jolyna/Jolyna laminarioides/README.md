@@ -1,5 +1,4 @@
-Jolyna laminarioides S.M. Guimarães SPECIES
-=======
+# Jolyna laminarioides S.M. Guimarães SPECIES
 
 #### Status
 ACCEPTED

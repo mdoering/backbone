@@ -1,5 +1,4 @@
-Cothurnia asimmetrica SPECIES
-=======
+# Cothurnia asimmetrica SPECIES
 
 #### Status
 ACCEPTED

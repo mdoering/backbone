@@ -1,5 +1,4 @@
-Telemeniella GENUS
-=======
+# Telemeniella GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Mrazekia piscicola Cépède, 1924 SPECIES
-=======
+# Jirovecia piscicola (Cépède, 1924) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

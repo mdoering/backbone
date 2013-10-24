@@ -1,5 +1,4 @@
-Phomopsis calotropidis (Gonz. Frag. & Cif.) Petr. SPECIES
-=======
+# Phomopsis calotropidis (Gonz. Frag. & Cif.) Petr. SPECIES
 
 #### Status
 ACCEPTED

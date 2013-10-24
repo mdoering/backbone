@@ -1,5 +1,4 @@
-Lichenochora elegantis Hafellner, 2008 SPECIES
-=======
+# Lichenochora elegantis Hafellner, 2008 SPECIES
 
 #### Status
 ACCEPTED

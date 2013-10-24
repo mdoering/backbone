@@ -1,5 +1,4 @@
-Jirovecia involuta J.I.R. Larsson SPECIES
-=======
+# Jirovecia involuta J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

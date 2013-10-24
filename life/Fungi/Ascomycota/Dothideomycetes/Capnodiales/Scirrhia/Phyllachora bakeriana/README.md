@@ -1,8 +1,7 @@
-Phyllachora chamaefistulae Chardón, 1932 SPECIES
-=======
+# Phyllachora bakeriana Henn., 1908 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

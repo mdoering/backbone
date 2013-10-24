@@ -1,5 +1,4 @@
-Bicornispora Checa, Barrasa, M.N. Blanco & A.T. Martínez GENUS
-=======
+# Bicornispora Checa, Barrasa, M.N. Blanco & A.T. Martínez GENUS
 
 #### Status
 ACCEPTED

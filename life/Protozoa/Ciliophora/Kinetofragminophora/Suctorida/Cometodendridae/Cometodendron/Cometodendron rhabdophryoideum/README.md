@@ -1,5 +1,4 @@
-Cometodendron rhabdophryoideum Swarczewsky, 1928 SPECIES
-=======
+# Cometodendron rhabdophryoideum Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta ibarrae Toro SPECIES
-=======
+# Phyllosticta ibarrae Toro SPECIES
 
 #### Status
 ACCEPTED

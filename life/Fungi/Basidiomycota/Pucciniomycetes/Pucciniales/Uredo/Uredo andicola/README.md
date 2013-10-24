@@ -1,5 +1,4 @@
-Uredo andicola Dietel & Neger SPECIES
-=======
+# Uredo andicola Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endogonaceae Paol. FAMILY
-=======
+# Endogonaceae Paol. FAMILY
 
 #### Status
 ACCEPTED

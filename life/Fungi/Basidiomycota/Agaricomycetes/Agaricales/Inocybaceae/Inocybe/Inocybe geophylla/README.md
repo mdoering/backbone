@@ -1,17 +1,16 @@
-Agaricus geophyllus var. geophyllus VARIETY
-=======
+# Inocybe geophylla (Pers.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. Champ. France (Paris) tab. 522:2 (fasc. 127-132) (1791)
+null
 
 #### Original name
-Agaricus geophyllus var. geophyllus
+null
 
 ### Remarks
 null

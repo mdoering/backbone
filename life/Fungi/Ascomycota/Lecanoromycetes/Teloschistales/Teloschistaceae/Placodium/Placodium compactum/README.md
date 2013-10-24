@@ -1,5 +1,4 @@
-Placodium compactum (Körb.) Motyka SPECIES
-=======
+# Placodium compactum (Körb.) Motyka SPECIES
 
 #### Status
 ACCEPTED

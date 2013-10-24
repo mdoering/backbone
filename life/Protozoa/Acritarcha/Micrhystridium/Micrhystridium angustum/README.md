@@ -1,5 +1,4 @@
-Micrhystridium angustum Staplin, 1961 SPECIES
-=======
+# Micrhystridium angustum Staplin, 1961 SPECIES
 
 #### Status
 ACCEPTED

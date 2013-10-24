@@ -1,5 +1,4 @@
-Canariomyces Arx GENUS
-=======
+# Canariomyces Arx GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyniclomyces Van der Walt & D.B. Scott GENUS
-=======
+# Cyniclomyces Van der Walt & D.B. Scott GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria fernandeziana Messuti SPECIES
-=======
+# Pertusaria fernandeziana Messuti SPECIES
 
 #### Status
 ACCEPTED

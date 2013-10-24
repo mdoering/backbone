@@ -1,5 +1,4 @@
-Marasmius aurantiostipitatus Antonín & P. Roberts SPECIES
-=======
+# Marasmius aurantiostipitatus Antonín & P. Roberts SPECIES
 
 #### Status
 ACCEPTED

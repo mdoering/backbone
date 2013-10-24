@@ -1,5 +1,4 @@
-Naucoria hydrophila (Bull.) SPECIES
-=======
+# Naucoria hydrophila (Bull.) SPECIES
 
 #### Status
 ACCEPTED

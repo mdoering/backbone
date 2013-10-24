@@ -1,5 +1,4 @@
-Tricholoma subalpinum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma subalpinum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

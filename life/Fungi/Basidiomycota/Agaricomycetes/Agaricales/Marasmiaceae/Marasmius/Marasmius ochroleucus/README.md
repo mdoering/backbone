@@ -1,5 +1,4 @@
-Marasmius ochroleucus Desjardin & E. Horak SPECIES
-=======
+# Marasmius ochroleucus Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

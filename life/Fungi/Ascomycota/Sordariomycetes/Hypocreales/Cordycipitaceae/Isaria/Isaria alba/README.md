@@ -1,5 +1,4 @@
-Isaria alba J.F.H. Beyma SPECIES
-=======
+# Isaria alba J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

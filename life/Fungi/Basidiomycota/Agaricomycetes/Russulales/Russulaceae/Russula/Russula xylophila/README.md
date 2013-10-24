@@ -1,5 +1,4 @@
-Russula xylophila Beeli SPECIES
-=======
+# Russula xylophila Beeli SPECIES
 
 #### Status
 ACCEPTED

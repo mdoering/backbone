@@ -1,5 +1,4 @@
-Cercophora terricola S. Ueda SPECIES
-=======
+# Cercophora terricola S. Ueda SPECIES
 
 #### Status
 ACCEPTED

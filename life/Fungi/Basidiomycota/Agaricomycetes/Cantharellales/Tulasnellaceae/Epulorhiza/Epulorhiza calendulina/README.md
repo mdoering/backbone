@@ -1,5 +1,4 @@
-Epulorhiza calendulina Zelmer & Currah SPECIES
-=======
+# Epulorhiza calendulina Zelmer & Currah SPECIES
 
 #### Status
 ACCEPTED

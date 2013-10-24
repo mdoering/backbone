@@ -1,5 +1,4 @@
-Rhytisma durissimum Cooke SPECIES
-=======
+# Rhytisma durissimum Cooke SPECIES
 
 #### Status
 ACCEPTED

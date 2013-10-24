@@ -1,5 +1,4 @@
-Dingodinium jurassicum Cookson & Eisenack SPECIES
-=======
+# Dingodinium jurassicum Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

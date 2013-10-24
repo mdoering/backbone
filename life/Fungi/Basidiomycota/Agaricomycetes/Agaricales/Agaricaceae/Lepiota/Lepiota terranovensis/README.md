@@ -1,5 +1,4 @@
-Lepiota terranovensis Contu SPECIES
-=======
+# Lepiota terranovensis Contu SPECIES
 
 #### Status
 ACCEPTED

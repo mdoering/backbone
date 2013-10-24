@@ -1,14 +1,13 @@
-Parmelia queenslandica Elix & G. N. Stevens SPECIES
-=======
+# Bulbothrix queenslandica (Elix & G. N. Stevens) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. J. Bot. 27: 873 (1979)
+Mycotaxon 47: 126 (1993)
 
 #### Original name
 Parmelia queenslandica Elix & G. N. Stevens

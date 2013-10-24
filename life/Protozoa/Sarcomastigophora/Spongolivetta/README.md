@@ -1,5 +1,4 @@
-Spongolivetta Haeckel, 1887 GENUS
-=======
+# Spongolivetta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

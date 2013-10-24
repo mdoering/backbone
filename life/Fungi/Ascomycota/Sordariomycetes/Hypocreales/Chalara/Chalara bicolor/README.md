@@ -1,5 +1,4 @@
-Chalara bicolor S. Hughes, 1974 SPECIES
-=======
+# Chalara bicolor S. Hughes, 1974 SPECIES
 
 #### Status
 ACCEPTED

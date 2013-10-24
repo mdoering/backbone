@@ -1,5 +1,4 @@
-Nolanea caerulea (P.D. Orton) SPECIES
-=======
+# Nolanea caerulea (P.D. Orton) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca epigaea Søchting, Huneck & Etayo SPECIES
-=======
+# Caloplaca epigaea Søchting, Huneck & Etayo SPECIES
 
 #### Status
 ACCEPTED

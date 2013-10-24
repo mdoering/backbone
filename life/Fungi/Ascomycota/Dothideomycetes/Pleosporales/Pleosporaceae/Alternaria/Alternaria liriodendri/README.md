@@ -1,5 +1,4 @@
-Alternaria liriodendri T.Y. Zhang & J.Z. Zhang SPECIES
-=======
+# Alternaria liriodendri T.Y. Zhang & J.Z. Zhang SPECIES
 
 #### Status
 ACCEPTED

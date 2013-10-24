@@ -1,5 +1,4 @@
-Zignoëlla tingens (Ces.) Sacc. SPECIES
-=======
+# Zignoëlla tingens (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

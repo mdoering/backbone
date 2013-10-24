@@ -1,5 +1,4 @@
-Lecanora nitellina (Hue) Zahlbr. SPECIES
-=======
+# Lecanora nitellina (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

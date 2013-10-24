@@ -1,5 +1,4 @@
-Licea berteroana Mont. SPECIES
-=======
+# Licea berteroana Mont. SPECIES
 
 #### Status
 ACCEPTED

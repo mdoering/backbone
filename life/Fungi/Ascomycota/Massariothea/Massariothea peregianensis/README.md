@@ -1,5 +1,4 @@
-Massariothea peregianensis B. Sutton SPECIES
-=======
+# Massariothea peregianensis B. Sutton SPECIES
 
 #### Status
 ACCEPTED

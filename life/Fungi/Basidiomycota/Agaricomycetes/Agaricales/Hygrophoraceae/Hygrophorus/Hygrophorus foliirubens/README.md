@@ -1,5 +1,4 @@
-Hygrophorus foliirubens (Murrill) Murrill SPECIES
-=======
+# Hygrophorus foliirubens (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

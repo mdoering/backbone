@@ -1,5 +1,4 @@
-Thermus Distant, 1909 GENUS
-=======
+# Thermus Distant, 1909 GENUS
 
 #### Status
 ACCEPTED

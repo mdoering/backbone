@@ -1,5 +1,4 @@
-Diachrysia orichalcea Npv SPECIES
-=======
+# Diachrysia orichalcea Npv SPECIES
 
 #### Status
 ACCEPTED

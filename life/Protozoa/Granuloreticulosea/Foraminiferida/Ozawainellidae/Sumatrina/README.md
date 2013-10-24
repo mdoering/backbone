@@ -1,5 +1,4 @@
-Sumatrina Volz, 1904 GENUS
-=======
+# Sumatrina Volz, 1904 GENUS
 
 #### Status
 ACCEPTED

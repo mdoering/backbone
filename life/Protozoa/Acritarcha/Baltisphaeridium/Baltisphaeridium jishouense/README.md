@@ -1,5 +1,4 @@
-Baltisphaeridium jishouense Li Jun, 1990 SPECIES
-=======
+# Baltisphaeridium jishouense Li Jun, 1990 SPECIES
 
 #### Status
 ACCEPTED

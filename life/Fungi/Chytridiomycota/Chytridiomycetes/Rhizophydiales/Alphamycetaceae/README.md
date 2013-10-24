@@ -1,5 +1,4 @@
-Alphamycetaceae Letcher FAMILY
-=======
+# Alphamycetaceae Letcher FAMILY
 
 #### Status
 ACCEPTED

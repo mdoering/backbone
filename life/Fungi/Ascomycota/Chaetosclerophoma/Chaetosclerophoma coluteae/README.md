@@ -1,5 +1,4 @@
-Chaetosclerophoma coluteae Petr., 1924 SPECIES
-=======
+# Chaetosclerophoma coluteae Petr., 1924 SPECIES
 
 #### Status
 ACCEPTED

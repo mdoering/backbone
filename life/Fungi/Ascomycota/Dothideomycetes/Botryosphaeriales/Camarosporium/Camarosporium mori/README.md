@@ -1,5 +1,4 @@
-Camarosporium mori (Kalchbr.) Schulzer SPECIES
-=======
+# Camarosporium mori (Kalchbr.) Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosia weskaapensis Marinc., M.J. Wingf. & Crous, 2008 SPECIES
-=======
+# Lembosia weskaapensis Marinc., M.J. Wingf. & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

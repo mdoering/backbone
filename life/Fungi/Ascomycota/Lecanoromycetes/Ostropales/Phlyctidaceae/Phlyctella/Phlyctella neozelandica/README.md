@@ -1,8 +1,7 @@
-Phlyctella neo-zelandica (Nyl.) Nyl. SPECIES
-=======
+# Phlyctella neozelandica (Nyl.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

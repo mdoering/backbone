@@ -1,5 +1,4 @@
-Seynesiopeltis F. Stevens & R.W. Ryan GENUS
-=======
+# Seynesiopeltis F. Stevens & R.W. Ryan GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus angustisporus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus angustisporus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

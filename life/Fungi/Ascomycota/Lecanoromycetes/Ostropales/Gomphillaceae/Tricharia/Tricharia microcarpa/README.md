@@ -1,5 +1,4 @@
-Tricharia microcarpa Etayo & Lücking SPECIES
-=======
+# Tricharia microcarpa Etayo & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria gibelliana Garov. SPECIES
-=======
+# Verrucaria gibelliana Garov. SPECIES
 
 #### Status
 ACCEPTED

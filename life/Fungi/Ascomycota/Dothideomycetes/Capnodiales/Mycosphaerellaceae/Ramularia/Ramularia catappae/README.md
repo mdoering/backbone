@@ -1,5 +1,4 @@
-Ramularia catappae Racib. SPECIES
-=======
+# Ramularia catappae Racib. SPECIES
 
 #### Status
 ACCEPTED

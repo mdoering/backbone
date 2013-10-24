@@ -1,5 +1,4 @@
-Conocybe watlingii Hauskn., 1996 SPECIES
-=======
+# Conocybe watlingii Hauskn., 1996 SPECIES
 
 #### Status
 ACCEPTED

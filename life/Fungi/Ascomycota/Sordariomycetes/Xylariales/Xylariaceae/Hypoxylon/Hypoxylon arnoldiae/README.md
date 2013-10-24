@@ -1,5 +1,4 @@
-Hypoxylon arnoldiae J.D. Rogers & Dumont SPECIES
-=======
+# Hypoxylon arnoldiae J.D. Rogers & Dumont SPECIES
 
 #### Status
 ACCEPTED

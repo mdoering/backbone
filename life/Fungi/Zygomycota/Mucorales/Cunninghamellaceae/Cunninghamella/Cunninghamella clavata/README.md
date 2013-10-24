@@ -1,5 +1,4 @@
-Cunninghamella clavata R.Y. Zheng & G.Q. Chen, 1998 SPECIES
-=======
+# Cunninghamella clavata R.Y. Zheng & G.Q. Chen, 1998 SPECIES
 
 #### Status
 ACCEPTED

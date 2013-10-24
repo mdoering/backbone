@@ -1,5 +1,4 @@
-Involucrothele plitvicensis Servít SPECIES
-=======
+# Involucrothele plitvicensis Servít SPECIES
 
 #### Status
 ACCEPTED

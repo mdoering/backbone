@@ -1,5 +1,4 @@
-Camarosporium arbuti Bondartseva SPECIES
-=======
+# Camarosporium arbuti Bondartseva SPECIES
 
 #### Status
 ACCEPTED

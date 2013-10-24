@@ -1,5 +1,4 @@
-Desulfovibrio piger (Moore et al., 1976) Loubinoux et al., 2002 SPECIES
-=======
+# Desulfovibrio piger (Moore et al., 1976) Loubinoux et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

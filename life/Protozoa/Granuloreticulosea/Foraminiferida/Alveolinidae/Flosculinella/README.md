@@ -1,5 +1,4 @@
-Flosculinella Schubert in Richarz, 1910 GENUS
-=======
+# Flosculinella Schubert in Richarz, 1910 GENUS
 
 #### Status
 ACCEPTED

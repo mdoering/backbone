@@ -1,5 +1,4 @@
-Xerotus pulcher (Lév.) Fr. SPECIES
-=======
+# Xerotus pulcher (Lév.) Fr. SPECIES
 
 #### Status
 ACCEPTED

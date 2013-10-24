@@ -1,5 +1,4 @@
-Phyllosticta erechtitis F. Stevens & P.A. Young SPECIES
-=======
+# Phyllosticta erechtitis F. Stevens & P.A. Young SPECIES
 
 #### Status
 ACCEPTED

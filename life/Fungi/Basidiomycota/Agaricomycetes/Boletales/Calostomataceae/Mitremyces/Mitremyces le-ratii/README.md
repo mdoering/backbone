@@ -1,8 +1,7 @@
-Mitremyces le-rati Pat. SPECIES
-=======
+# Mitremyces le-ratii Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mitremyces le-rati Pat.
+Mitremyces le-ratii Pat.
 
 ### Remarks
 null

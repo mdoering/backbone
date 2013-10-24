@@ -1,5 +1,4 @@
-Amphifenestrella Rhumbler, 1935 GENUS
-=======
+# Amphifenestrella Rhumbler, 1935 GENUS
 
 #### Status
 ACCEPTED
